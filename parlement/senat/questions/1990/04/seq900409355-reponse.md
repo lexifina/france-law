@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409355
+
+- Question : [SEQ900409355](seq900409355.md) — Transmission des exploitations viticoles
+
+## Réponse
+
+*Budget, JO du 1990-07-12, page 1530*
+
+Réponse. - Il résulte des dispositions de l'article 666 du code général des impôts que les droits de mutation sont assis sur la valeur des biens transmis. La valeur d'un bien est une notion essentiellement économique. Elle correspond, selon la jurisprudence de la Cour de cassation, au prix que le jeu normal de l'offre et de la demande permettrait de retirer, à un moment donné, de la vente d'un bien déterminé, abstraction faite de la valeur de convenance qui pourrait être offerte. Elle présente les garanties d'objectivité qu'offre un prix de marché. Cette règle d'évaluation s'applique à tous les biens et, notamment, à toutes les mutations à titre gratuit ou à titre onéreux des entreprises. Dès lors, il ne saurait être envisagé de prévoir un dispositif particulier pour les seules transmissions à titre gratuit des exploitations agricoles, et notamment viticoles. Cela dit, dans la situation évoquée, il existe d'ores et déjà des mesures qui atténuent la chargede ces transmissions. C'est ainsi que l'article 790 du code général des impôts prévoit une réduction de droits pour les donations-partages effectuées conformément à l'article 1075 du code civil. Cette réduction est fixée à 25 p. 100 lorsque le donateur est âgé de moins de soixante-cinq ans et à 15 p. 100 lorsqu'il a soixante-cinq ans révolus et moins de soixante-quinze ans. Par ailleurs, les mutations à titre gratuit qui portent sur des entreprises peuvent, lorsque certaines conditions sont remplies, bénéficier d'un différé de paiement de cinq ans à compter de la date d'exigibilité des droits puis d'un paiement fractionné sur une période de dix ans, avec un taux d'intérêt préférentiel. Ces mesures vont dans le sens des préoccupations exprimées par l'honorable parlementaire.
