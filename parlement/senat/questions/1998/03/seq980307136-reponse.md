@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307136
+
+- Question : [SEQ980307136](seq980307136.md) — Situation des fonctionnaires en service au sein de France Télécom
+
+## Réponse
+
+*Industrie, JO du 1998-06-04, page 1808*
+
+Réponse. - Pour l'exercice de ses missions, France Télécom a acquis l'autorité hiérarchique sur l'ensemble des fonctionnaires exerçant leurs fonctions au sein des services de l'opérateur, conformément à l'article 44 de la loi no 90-568 du 2 juillet 1990. L'article 11 de la même loi précise que le président du conseil d'administration recrute et nomme aux emplois de ses services, cette disposition est précisée par le décret no 96-1174 du 27 décembre 1996 approuvant les statuts de France Télécom, pris en application de la loi du 2 juillet 1990. Ce décret liste dans son article 7 les compétences du président du conseil d'administration de France Télécom en matière de personnel : " Le président du conseil d'administration recrute et nomme les fonctionnaires sur les emplois de la société ; il assure la gestion des personnels fonctionnaires... ". Dans ces conditions, les fonctionnaires de France Télécom n'ont jamais cessé d'être sous l'autorité de l'entreprise nationale et demeurent soumis, qu'ils appartiennent aux corps et grades de reclassement de 1991 ou aux corps et grades de classification créés en 1993, aux dispositions des titres 1er et 2 du statut général des fonctionnaires. L'entreprise France Télécom est dotée de l'autonomie financière conformément aux dispositions de l'article 14 de la loi du 2 juillet 1990. A ce titre et dans le cadre de sa compétence de gestion de son personnel, elle assure sur son budget la rémunération de l'ensemble des fonctionnaires qu'elle a sous son autorité. Le nouveau statut de France Télécom tel qu'il résulte de la loi du 26 juillet 1996 relative à l'entreprise nationale France Télécom ne modifie pas ces dispositions.
