@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900510031
+
+- Question : [SEQ900510031](seq900510031.md) — Accès des biologistes à certains documents administratifs
+
+## Réponse
+
+*Solidarité, JO du 1990-09-13, page 2007*
+
+Réponse. - Les services du ministère de la solidarité, de la santé et de la protection sociale n'ont pas établi de rapport spécifique sur la rémunération des directeurs de laboratoires ou les gains de productivité réalisés dans le secteur de la biologie médicale. De nombreuses statistiques sont établies et permettent d'apprécier l'évolution de l'activité de la profession. Ainsi, les statistiques élaborées par la Caisse nationale de l'assurance maladie des travailleurs salariés font apparaître une évolution annuelle moyenne de l'activité globale des laboratoires de 10,7 p. 100 par an sur la période 1980-1988, alors que, sur la même période, le nombre des laboratoires passait de 4 241 à 3 866. Les honoraires totaux ont progressé quant à eux à un rythme annuel moyen de 14,9 p. 100 de 1980 à 1988, cette progression s'établissant à 18,5 p. 100 en 1988 par rapport à 1987. Par ailleurs, le développement de l'automatisation dans ce secteur d'activité a permis la réalisation de gains de productivité, notamment en ce qui concerne la biochimie, pour laquelle des automates peuvent couramment réaliser un grand nombre d'examens à l'heure, quasiment sans intervention humaine. Ceci est également vrai pour certains examens d'hématologie, telle la numération globulaire. Le ministre de la solidarité, de la santé et de la protection sociale a installé le 13 juin dernier un groupe de travail, comprenant les représentants de la profession, chargé de réfléchir aux évolutions souhaitables du rôle de biologiste, de son mode de rémunération et des modalités de fonctionnement des laboratoires et de formuler les propositions de réforme qui lui paraîtront souhaitables.
