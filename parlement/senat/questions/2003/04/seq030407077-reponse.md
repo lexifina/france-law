@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407077
+
+- Question : [SEQ030407077](seq030407077.md) — Suppression de l'abattement de 15 % appliqué aux allocations des CCPAS
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-06-19, page 1982*
+
+Les instructions relatives à l'aide sociale consulaire ont toujours demandé aux comités consulaires pour la protection et l'action sociale (CCPAS) de tenir compte, dans le calcul des allocations, des conditions de logement et des avantages en nature dont les demandeurs bénéficient. Ces instructions étaient mises en oeuvre depuis plusieurs années par certains CCPAS, en particulier en Amérique du Sud (Argentine, Brésil), alors qu'une majorité d'autres s'en étaient affranchis. Ces instructions ont donc été rappelées en octobre 2002 dans le cadre de la préparation de la campagne d'aide sociale 2003, afin que la situation de chaque allocataire soit traitée selon les mêmes critères, quel que soit son lieu de résidence, dans un esprit d'équité. Le montant du plafond des allocations de base est évalué par le ministère des affaires étrangères au regard des informations transmises par les CCPAS relatives aux dépenses mensuelles moyennes qu'une personne âgée supporte au titre du logement, de l'alimentation, de la santé et de l'habillement. Il apparaît raisonnable de distinguer, parmi les demandeurs d'allocation, ceux qui ont des charges de loyer et ceux qui n'en ont pas. Cette prise en compte du logement s'effectue sur la base des propositions d'abattement présentées par les CCPAS, ou, à défaut, suivant un barème décidé par le ministère des affaires étrangères, après examen des dossiers transmis par chaque poste. Ce barème oscille cette année entre 10 % et 20 % suivant la situation de chaque CCPAS, pourcentage qui est toujours inférieur à la part représentée par le logement dans le calcul du taux de base des allocations proposé par les postes concernés.
