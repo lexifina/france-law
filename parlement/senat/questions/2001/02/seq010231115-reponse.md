@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231115
+
+- Question : [SEQ010231115](seq010231115.md) — Notion de mieux-disant social dans les marchés publics
+
+## Réponse
+
+*Économie, JO du 2001-05-24, page 1767*
+
+Réponse. - La réforme du code des marchés publics a fait l'objet du décret nº 2001-210 du 7 mars 2001 portant code des marchés publics, publié au Journal officiel du 8 mars dernier. Cette réforme a été mise en uvre dans le but, notamment, de simplifier la réglementation des marchés et de créer une plus grande sécurité juridique pour les acheteurs. C'est la raison pour laquelle, parmi la double option qui se présentait à lui - faire de certaines préoccupations sociales un critère de choix des candidatures ou des offres ou une condition d'exécution du marché -, le Gouvernement a choisi celle consistant à en faire une condition d'exécution du marché, ainsi que cela ressort des dispositions de l'article 14 du décret précité qui prévoient que la définition des conditions d'exécution d'un marché dans les cahiers des charges peut viser à promouvoir l'emploi de personnes rencontrant des difficultés particulières d'insertion ou à lutter contre le chômage. En effet, ces conditions d'exécution s'imposent de manière égale à toutes les entreprises concurrentes et ont pour effet de placer celles-ci sur un pied d'égalité, tant au point de vue des engagements de moyens qui leur sont demandés qu'au point de vue de leur chance d'emporter le marché. De plus, cette réforme a également eu pour but d'éviter les confusions qui résultaient du décalage entre les règles nationales et les règles européennes. C'est pourquoi il n'a pas été édicté de règles différentes selon que l'on se trouve en dessus ou en-dessous des seuils communautaires. En particulier, s'agissant des conditions d'exécution du marché en matière sociale ou environnementale, celles-ci ne doivent pas avoir d'effet discriminatoire à l'égard des candidats potentiels, quel que soit le montant du marché.
