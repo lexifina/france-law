@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112899
+
+- Question : [SEQ951112899](seq951112899.md) — Mise en place du contrat de progrès en faveur du transport routier et baisse de la taxe intérieure sur les produits pétroliers
+
+## Réponse
+
+*Transports, JO du 1996-02-15, page 347*
+
+Réponse. - Les accords sociaux applicables depuis le 1er octobre 1995 ont d'ores et déjà permis de créer 2 000 emplois dans le secteur du transport de zone longue. Ces emplois ont évidemment une incidence sur les coûts de revient des entreprises mais elles peuvent tout à fait normalement s'en prévaloir lors de leurs négociations avec les chargeurs et l'union des offices interconsulaires des transports et des communications a d'ailleurs appelé les chargeurs à prendre en compte les augmentations tarifaires générées par l'application des accords sociaux dans le cadre de négociations transparentes au cas par cas. La hausse uniforme de treize centimes de la taxe intérieure sur les produits pétroliers a une incidence sur le coût du transport inférieure à 1 p. 100 pour un ensemble de 40 tonnes en grande distance, catégorie de transport pour laquelle le poids du carburant est le plus important. Enfin, le prix du gazole en France restera inférieur à la moyenne des prix du gazole dans les pays de la Communauté européenne. L'équilibre économique du contrat de progrès ne devrait donc pas être modifié et sa mise en oeuvre poursuivie comme prévu initialement. Par ailleurs, il importe de rappeler que l'Etat a décidé d'accompagner la profession dans sa démarche de progrès et vient de confirmer ses engagements financiers (300 MF) permettant de favoriser le regroupement des entreprises, la cessation anticipée d'activité, ainsi que l'amélioration de la formation afin de mieux préparer les professionnels dans le cadre de la concurrence européenne.
