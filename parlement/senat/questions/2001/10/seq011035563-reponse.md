@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035563
+
+- Question : [SEQ011035563](seq011035563.md) — Etablissements scolaires à internats, à structure métallique
+
+## Réponse
+
+*Éducation, JO du 2002-02-14, page 486*
+
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur, organisme indépendant, émet chaque année des propositions à l'occasion de la publication de son rapport qui contient des informations précises sur le nombre et la répartition des établissements ayant des bâtiments à structure métallique. Les établissements d'enseignement scolaire relèvent depuis l'application des lois de décentralisation de la compétence des collectivités territoriales. Le maire ou le préfet de police de Paris, en vertu des pouvoirs qui lui sont conférés par le code général des collectivités territoriales, est l'autorité de police sur sa commune. Pour exercer cette mission dans le domaine de la sécurité contre l'incendie dans les établissements recevant du public, il dispose des compétences de la commission de sécurité, organe technique collégial dans ce domaine spécifique. Dans la mesure où, sur le terrain, des conseillers compétents apprécient un niveau de sécurité satisfaisant dans des conditions normales d'exploitation d'un bâtiment, il paraît peu judicieux dans un système décentralisé et déconcentré que le niveau central du ministère de l'éducation s'octroie des prérogatives auxquelles il ne peut prétendre. Par ailleurs, il faut noter que des efforts très importants ont été réalisés par les collectivités territoriales en matière de mise à niveau du parc immobilier des établissements scolaires au regard de la sécurité contre le risque d'incendie et priotairement dans les internats où, par définition, les occupants sont en situation de non-vigilance vis-à-vis du déclenchement d'une évacuation.
