@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306412
+
+- Question : [SEQ030306412](seq030306412.md) — Décret d'application de la loi n° 2002-303 d'indemnisation des victimes d'un accident médical
+
+## Réponse
+
+*Santé, JO du 2003-10-30, page 3226*
+
+Le dispositif d'indemnisation des accidents médicaux prévu par la loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé est désormais opérationnel. Les textes réglementaires d'application ont été publiés au cours du premier semestre 2003. L'ensemble de ces dispositions permet désormais à toute personne qui désire entreprendre une demande d'indemnisation ou obtenir une conciliation avec un professionnel de santé, qu'elle soit victime, ayant droit ou représentant légal, de s'adresser à la commission régionale de conciliation ou d'indemnisation du lieu où a été réalisé l'acte médical en cause. Le dépôt de la demande est prévu au moyen d'un formulaire largement accessible (www.oniam.fr, www.commissions-crci.fr ou directement auprès des associations représentant les intérêts des personnes malades) et doit être accompagné de pièces justificatives, notamment un certificat médical décrivant la nature précise et la gravité du dommage ainsi que le lien de causalité entre ce dommage et l'acte médical. L'instruction des demandes intervient en fonction d'un seuil de gravité fixé par décret n° 2003-314 du 4 avril 2003, et correspond notamment à un accident entraînant une incapacité permanente d'au moins 25 % ou une incapacité temporaire de travail d'au moins six mois. Le barème permettant de déterminer la hauteur de l'incapacité permanente sur la base de laquelle interviendra l'indemnisation des victimes d'accident médical, d'affections iatrogènes ou d'infections nosocomiales, est annexé au même décret du 4 avril 2003 fixant le caractère de gravité des accidents.
