@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912064
+
+- Question : [SEQ950912064](seq950912064.md) — Renforcement des effectifs du commissariat de Limay (Yvelines)
+
+## Réponse
+
+*Intérieur, JO du 1996-03-14, page 594*
+
+Réponse. - La sécurité des personnes et des biens, qui est l'une des priorités du Gouvernement, est assurée dans la vallée de la Seine et notamment sur les communes de Limay, Issou, Gargenville, Juziers, Porcheville, Epone et Mézières-sur-Seine par le commissariat subdivisionnaire de Limay, qui dispose d'un commandant de police, de deux brigadiers et d'une unité d'îlotage composée de sept fonctionnaires en tenue auxquels s'ajoutent les gardiens de la paix affectés aux postes de police de Gargenville et d'Epone. Ces communes bénéficient également de l'action des unités de la circonscription de sécurité publique de Mantes-la-Jolie dont dépend le commissariat subdivisionnaire de Limay, en particulier de la brigade anti-criminalité, des patrouilles des brigades de roulement et des unités départementales de surveillance. Afin de renforcer la lutte contre les violences urbaines, un effort tout particulier a été fait en 1995 pour les départements de la petite et de la grande couronne parisienne. C'est ainsi que le département des Yvelines a bénéficié du renfort de neuf officiers de police et de quatre-vingt-neuf gradés et gardiens de la paix. Ces moyens supplémentaires ont permis de renforcer les unités départementales ainsi que certains services locaux et d'accroître l'efficacité des services territoriaux dans la lutte contre la délinquance, comme l'atteste la tendance à la baisse enregistrée en 1994 et 1995. Ces efforts se poursuivront dans les années qui viennent puisque le plan de relance de la ville prévoit le renforcement des services de police des départements comportant des zones ou des quartiers sensibles à hauteur de 4 000 fonctionnaires sur quatre ans.
