@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950510918
+
+- Question : [SEQ950510918](seq950510918.md) — Recherche agronomique tropicale menée par le CIRAD de Montpellier
+
+## Réponse
+
+*Agriculture, JO du 1997-01-23, page 192*
+
+Réponse. - Dans le cadre de la délocalisation d'établissements publics engagée par l'Etat, une partie importante des effectifs du CIRAD a été transférée dans la région de Montpellier. Il n'est pas envisagé, actuellement, de procéder à une nouvelle opération de délocalisation pour cet établissement. Depuis deux ans, le CIRAD a défini une politique de pôles de compétences en direction des DOM-TOM, qui s'accompagne d'une certaine déconcentration des instances décisionnelles. Ces pôles ont pour objet de donner une meilleure lisibilité internationale au dispositif. Mais si chacun d'entre eux se caractérise par une thématique principale, il doit également assurer les fonctions de proximité indispensables au développement agricole et agro-alimentaire local. Le schéma actuel prévoit d'installer, dans un premier temps, les pôles suivants : les fruitiers tropicaux et les plantes ornementales en Martinique ; la banane et la parasitologie animale en Guadeloupe ; les écosystèmes forestiers en Guyane ; la défense des cultures à la Réunion ; la génétique animale en Nouvelle-Calédonie ; le conservatoire génétique des plantes cultivées en Polynésie française. Cette liste pourra être complétée au fil des partenariats avec les collectivités locales. En Martinique, le CIRAD travaille en collaboration avec l'INRA, le CEMAGEF et l'ORSTOM à la définition d'un projet " Agropole " à Petit-Morne. Ce projet, dont le but coïncide parfaitement avec la notion de pôle de compétence portée par le CIRAD, verra le jour d'autant plus rapidement que les collectivités locales en seront des partenaires dynamiques et actifs. Le CIRAD est ainsi à même de participer pleinement à des actions de coopération régionale voulues et initiées au départ de la Martinique.
