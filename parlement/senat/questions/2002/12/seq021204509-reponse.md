@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204509
+
+- Question : [SEQ021204509](seq021204509.md) — Obligation pour un agresseur sexuel  de se soumettre à un prélèvement de sang
+
+## Réponse
+
+*Justice, JO du 2003-07-17, page 2315*
+
+Le garde des sceaux, ministre de la justice entend réaffirmer la volonté de l'ensemble du Gouvernement de promouvoir les dispositifs de prise en charge des victimes d'infractions pénales destinés à leur procurer les moyens d'une restauration dans leurs droits ou les conditions d'un rétablissement et d'une reconstruction psychologique. C'est cette dernière préoccupation qui a prévalu pour remédier à la situation évoquée par l'Académie de médecine, dans la recommandation sur laquelle l'honorable parlementaire a bien voulu appeler l'attention du garde des sceaux. Il est en effet apparu indispensable de faire primer la volonté de la victime, qui est en droit de connaître les risques de contamination que présente son agresseur, sur le refus de ce dernier de se prêter à un examen médical et à une prise de sang mettant en évidence d'éventuelles maladies sexuellement transmissibles. C'est pourquoi la loi pour la sécurité intérieure du 18 mars 2003 introduit dans le code de procédure pénale un article 706-47-1 qui punit d'une peine d'un an d'emprisonnement et de 15 000 euros d'amende le refus de se soumettre à un tel dépistage. En outre, un dépistage sous la contrainte est prévu, étant précisé que des garanties sérieuses entourent le recours à une telle mesure, eu égard à l'atteinte à l'intégrité de la personne qu'elle constitue. Ce dépistage ne pourra donc être ordonné sans le consentement de l'intéressé, et à la demande de la victime ou dans son intérêt, que par le procureur de la République ou le juge d'instruction, qui disposeront d'un large pouvoir d'appréciation, notamment quant au risque existant pour la santé de la victime au vu de la nature ou des circonstances de l'infraction.
