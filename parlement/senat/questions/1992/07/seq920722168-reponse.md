@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722168
+
+- Question : [SEQ920722168](seq920722168.md) — Permis à points : intervention des forces de l'ordre contre les routiers
+
+## Réponse
+
+*Intérieur, JO du 1992-10-08, page 2303*
+
+Réponse. - La liberté d'aller et venir constitue un droit fondamental des citoyens. Aucun groupe social, quelles que soient ses revendications, n'a la faculté d'y apporter durablement atteinte. Toute obstruction à la liberté de circulation sur une voie ouverte à la circulation publique constitue un délit réprimé par l'article L. 7 du code de la route. L'article L. 25 du même code précise que les véhicules, dont l'infraction au stationnement compromet notamment la sécurité ou l'utilisation normale du réseau routier, peuvent être mis en fourrière ou retirés de la circulation. Les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater par procès-verbaux les contraventions à la circulation routière peuvent conduire eux-mêmes, ou faire conduire, le véhicule vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens de propulsion dont le véhicule est muni, conformément à l'article L. 25-1 du code de la route. Cette mise en fourrière peut s'effectuer même en l'absence du conducteur, propriétaire ou détenteur du véhicule. Sur prescription de l'officier de police judiciaire territorialement compétent, ces agents de la forme publique peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. C'est sur la base de ces textes législatifs que le Gouvernement a donné instruction aux préfets, après une longue période de négociation, de faire dégager les axes de circulation. Cette décision était notamment motivée par la nécessité de permettre un approvisionnement normal de la population dans les secteurs prioritaires que sont ceux de la santé, des produits alimentaires et des carburants.
