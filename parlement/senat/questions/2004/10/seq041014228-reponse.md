@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014228
+
+- Question : [SEQ041014228](seq041014228.md) — Justification du choix du seul critère prix au regard de l'objet du marché
+
+## Réponse
+
+*Économie, JO du 2005-01-13, page 103*
+
+Il convient tout d'abord de rappeler que le choix de l'offre économiquement la plus avantageuse peut se faire, selon l'article 53-II du code des marchés publics, soit en se fondant sur plusieurs critères de choix définis en fonction de l'objet du marché et pondérés ou à défaut hiérarchisés par l'acheteur, soit en s'appuyant sur un seul critère qui doit alors être celui du prix. Cette dernière possibilité conduit l'acheteur à retenir l'offre la moins-disante. Le recours au critère unique du prix concerne les cas où, compte tenu de l'objet du marché, les offres des soumissionnaires peuvent être appréciées de manière objective sur la seule base du prix proposé. C'est notamment le cas pour les marchés dont l'objet porte sur l'achat de produits simples et standardisés pour lesquels les prescriptions du cahier des clauses techniques particulières (CCTP) sont limitées. Le choix du critère unique du prix, comme celui d'éventuels critères additionnels, doit être justifié par l'objet du marché. La personne responsable du marché doit donc être en mesure d'expliquer les raisons de son choix en la matière. Toutefois, si l'article 75-5° du code des marchés publics prévoit expressément que le rapport de présentation établi par la personne responsable du marché doit justifier l'introduction, le cas échéant, de critères sélection des offres non prévus par les dispositions de premier alinéa du Il de l'article 53 et motiver le choix de l'offre retenue, aucune disposition du code n'impose une telle justification lorsque la personne responsable du marché décide de ne retenir que le seul critère du prix.
