@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608092
+
+- Question : [SEQ030608092](seq030608092.md) — Soutien aux grands programmes nationaux de recherche
+
+## Réponse
+
+*Recherche, JO du 2003-07-24, page 2403*
+
+Afin de mettre un terme à l'aggravation des déficits publics accumulés par les précédents gouvernements, il a été décidé de procéder à des annulations de crédits sur l'ensemble du budget de l'Etat hors ministères de l'intérieur, de la justice et de la défense. L'annulation des crédits publics de rémunération, de fonctionnement et d'investissement de l'ensemble des établissements publics de recherche, qui a été décidée par le Gouvernement, est de 2,1 % de leur budget global. Pour ce qui concerne le plus grand de ces établissements, le Centre national de la recherche scientifique (CNRS), la réduction effective de l'ensemble des crédits publics de fonctionnement et d'investissement représente une fraction de 9,3 % des crédits publics hors masse salariale figurant dans le budget 2003 du centre voté par son conseil d'administration en décembre 2002. En revanche les réserves de précaution qui portaient sur un taux de 30 % de l'ensemble des crédits de fonctionnement et d'investissement, avant annulation, constituaient une simple procédure de régulation du rythme de consommation des crédits et ne sauraient être confondues avec une perte de ressources. De fait, le Premier ministre a fait part de sa décision de libérer de manière anticipée pour l'ensemble des organismes de recherche le montant des crédits ayant fait l'objet d'une mise en réserve temporaire au-delà du montant des crédits déjà annulés. Cette décision positive pour la recherche française permet de limiter l'impact des mesures nécessaires que le Gouvernement est conduit à prendre pour restaurer l'équilibre des finances publiques dans un contexte économique difficile.
