@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010634056
+
+- Question : [SEQ010634056](seq010634056.md) — Réglementation relative à l'augmentation du capital des sociétés par actions
+
+## Réponse
+
+*Justice, JO du 2001-11-22, page 3718*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi du 19 février 2001 sur l'épargne salariale, qui a rénové et étendu le dispositif d'ensemble de l'épargne salariale, a prévu la mise en oeuvre de trois types de plans d'épargne pouvant dorénavant être mis en oeuvre par les entreprises au bénéfice de leurs salariés : le plan d'épargne d'entreprise (PEE), le plan d'épargne inter-entreprise (PEI) et le plan partenarial d'épargne salariale volontaire (PPESV). Par ailleurs, ce texte a modifié les dispositions du code de commerce relatives à l'actionnariat salarié. C'est ainsique le nouvel article L. 225-129 de ce code, issu de la loi du 19 février 2001, prévoit dans son paragraphe VII qu'en cas d'augmentation du capital d'une société anonyme, l'assemblée génrale des actionnaires doit se prononcer sur un projet de résolution tendant à réaliser une augmentation de capital réservée aux salariés, dans les conditions prévues à l'article L. 443-5 du code du travail, ce dernier article permettant aux sociétés de procéder à des augmentations de capital en faveur des adhérents à un PEE ou à un PPESV. Dès lors, se pose la question de savoir si cette obligation s'impose même lorsqu'il n'existe pas au préalable de plan d'épargne d'entreprise. Le caractère général de ces dispositions conduit à considérer que l'obligation de présenter une projet de résolution en faveur des salariés s'applique dans tous les cas, même si la société n'a pas préalablement mis en place un plan d'épargne entreprise. Le renvoi effectué à l'article L. 443-5 du code du travail permet alors de préciser les conditions dans lesquelles peut se mettre en place un plan d'épargne d'entreprise.
