@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017889
+
+- Question : [SEQ911017889](seq911017889.md) — Conditions financières des prêts agricoles
+
+## Réponse
+
+*Agriculture, JO du 1992-01-23, page 180*
+
+Réponse. - Les enveloppes de prêts bonifiés ont, en effet, été stabilisées cette année. Mais, depuis 1986, les prêts d'installation et les prêts spéciaux de modernisation - catégories les plus bonifiées - ont progressé plus vite que le total des enveloppes de prêts. Ils sont passés de 7,3 milliards de francs à 10,5 milliards de francs en 1991. Cette année encore, l'enveloppe des prêts spéciaux de modernisation a augmenté de 370 millions de francs, passant de 5,1 à 5,5 milliards de francs, afin de tenir compte de la pression de la demande. Les pouvoirs publics se montrent particulièrement attentifs à l'évolution des délais d'attente et ont pris cette année un certain nombre de décisions destinées à les réduire significativement. Tout d'abord, la répartition départementale des enveloppes de prêts bonifiés a été effectuée en fonction des critères retraçant le dernier état de la demande exprimée en 1990, à savoir les volumes de prêts en attente au 31 décembre 1990. La situation des quotas départementaux de prêts bonifiés gérés par les préfets fait l'objet d'un suivi régulier et peut donner lieu à des abondements en cours d'année, dans la limite des réserves conservées au niveau national. C'est ainsi que le Premier ministre a décidé à l'automne de débloquer 1 872 millions de francs qui avaient été mis en réserve au début de cette année, afin de ramener le délai d'attente sur chaque catégorie de prêts à trois mois au plus au 31 décembre 1991, dans le cadre du plan d'urgence mis en oeuvre par le ministère de l'agriculture et de la forêt.
