@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501153
+
+- Question : [SEQ930501153](seq930501153.md) — Difficultés des professionnels de l'antiquité et de la brocante
+
+## Réponse
+
+*Intérieur, JO du 1993-07-22, page 1211*
+
+Réponse. - La loi n° 87-962 du 30 novembre 1987 relative à la répression du recel et organisant la vente et l'échange d'objets mobiliers a créé un dispositif de contrôle spécifique aux foires à la brocante. Désormais, les organisateurs de manifestations publiques tendant à la vente ou à l'échange d'objets mobiliers usagés sont astreints à la tenue d'un registre permettant l'identification des vendeurs qu'il s'agisse de professionnels ou de particuliers. L'inobservation de cette prescription expose l'auteur de l'infraction à une peine d'emprisonnement de quinze jours à six mois et à une amende de 20 000 à 200 000 francs. En outre, une instruction du 7 août 1990 a été adressée aux préfets, leur demandant de veiller à ce que les services de police s'assurent de la bonne tenue des registres et recherchent, par rapprochement des différents registres, les personnes dont la participation habituelle à ces manifestations laisse présumer qu'elles se livrent à une activité commerciale. A la lecture des rapports remis par les préfets sur cette question, il apparaît que les pratiques paracommerciales sont essentiellement le fait de particuliers qui, ignorant la réglementation, participent à plusieurs foires à la brocante dans l'année. Peu de procédures ont été établies à l'encontre de commerçants clandestins. Par ailleurs, les investigations des services de police et de gendarmerie ont permis de mettre au jour quelques affaires de vol, de recel et d'emploi de travailleurs clandestins. Enfin, il est prévu d'adresser une nouvelle instruction aux préfets dans des délais rapprochés afin qu'ils fassent procéder à une nouvelle campagne de contrôle de ces manifestations.
