@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801651
+
+- Question : [SEQ020801651](seq020801651.md) — Reconnaissance officielle de la langue des signes
+
+## Réponse
+
+*Jeunesse, JO du 2002-09-26, page 2171*
+
+La mise en oeuvre de mesures permettant d'améliorer les conditions de scolarité des jeunes sourds n'est pas conditionnée par la reconnaissance officielle de la langue des signes française (LSF) puisque, d'ores et déjà, l'article 33 de la loi n° 91-173 du 18 janvier 1991 dispose : " Dans l'éducation des jeunes sourds, la liberté de choix entre une communication bilingue - langue des signes et français - et une communication orale est de droit. ". En outre l'école supérieure d'interprètes et de traducteurs de l'université de la Sorbonne Nouvelle-Paris III forme déjà des interprètes en LSF. Il est sans doute souhaitable qu'un plus grand nombre d'interprètes en LSF soient formés. Cependant, pour répondre aux besoins des jeunes élèves notamment, il ne peut suffire de placer auprès d'eux des interprètes. C'est bien la compétence pédagogique d'ensemble des enseignants qui exercent auprès d'eux et qui leur permettent d'accéder au français et à la LSF qui est un gage de leur réussite future. Actuellement il n'existe pas d'outil d'évaluation des compétences en LSF validé. C'est pourquoi un référentiel de compétences en LSF, élaboré à partir du cadre européen commun de référence pour les langues est actuellement en cours d'expérimentation. Lorsque les ajustements nécessaires auront été réalisés, ce référentiel devrait permettre assez rapidement d'envisager la création d'un diplôme de compétences en LSF. Il est indispensable de pouvoir garantir la compétence des professionnels intervenant auprès des jeunes sourds, qualification pédagogique et qualification en LSF, pour permettre à ces élèves de réussir leur scolarité, puis leurs études.
