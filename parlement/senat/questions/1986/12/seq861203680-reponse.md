@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203680
+
+- Question : [SEQ861203680](seq861203680.md) — Reconstruction des CES Lurçat et Malesherbes à Sarcelles (Val-d'Oise)
+
+## Réponse
+
+*Éducation, JO du 1987-02-12, page 214*
+
+Réponse. -Les collèges Jean-Lurçat et Malesherbes ont été réalisés respectivement en 1965 et 1966 suivant le procédé de construction Bender. La solidité des bâtiments de ce type a fait l'objet en 1973 d'un contrôle confié au bureau Socotec qui, après visite systématique de tous les bâtiments concernés, a préconisé des renforcements de structure ; les travaux correspondants ont été effectués sur les deux collèges en question. Parallèlement, la commission centrale de sécurité a mis au point un certain nombre de recommandations pour accroître la sécurité des établissements de cette nature. Celles-ci ont fait l'objet de la circulaire n° 74-1076 du 23 septembre 1974. Le premier impératif de sécurité à prendre en compte pour ce type de construction est de prévoir la possibilité d'une évacuation convenable des élèves dans un temps déterminé. Divers travaux permettant d'atteindre cet objectif ont été réalisés dans les collèges Jean-Lueçat et Malesherbes. Des exercices fréquents d'évacuation sont effectués pour mettre le dispositif à l'épreuve. Depuis le 1er janvier 1986 la reconstruction éventuelle de ces collèges relève de la compétence exclusive du conseil général. L'Etat contribue au financement de ce type d'opérations par le moyen de la dotation départementale d'équipement des collèges, à l'exclusion de toute aide financière exceptionnelle. Le conseil général pourra tenir compte, dans son appréciation, des enjeux financiers d'une reconstruction en regard de l'état général des bâtiments. Il apparaît, au plan national, que, sous réserve d'une vigilance maintenue dans l'exploitation des bâtiments, il n'est pas nécessaire de reconstruire à court terme la totalité des collèges de type Bender.
