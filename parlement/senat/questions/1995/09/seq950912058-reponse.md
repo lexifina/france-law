@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912058
+
+- Question : [SEQ950912058](seq950912058.md) — Bilan des exceptions au principe de la préférence communautaire dans le secteur de la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1996-03-21, page 646*
+
+Réponse. - Les importations de l'Union européenne en provenance des pays tiers dans le secteur de la viande bovine représentent en moyenne un total de 500 000 tonnes équivalent carcasses par an. Leur niveau exact était en 1994 de 530 000 tonnes réalisées pour la plus grande part sous régime dérogatoire, dans le cadre des contingents négociés antérieurement par la Communauté européenne au GATT. Ce volume représente 7 p. 100 de la production européenne de viande de gros bovins. Les principaux pays de provenance sont l'Amérique du Sud (53 p. 100), les pays d'Europe centrale et orientale (15 p. 100), les pays d'Afrique, des Caraïbes et du Pacifique (12 p. 100). En ce qui concerne la France, ses importations en provenance des pays tiers s'élevaient à 15 650 tonnes en 1994, soit 1 p. 100 de la production française de gros bovins. Après une négociation particulièrement ardue dans laquelle le Gouvernement a joué un rôle majeur, un accord sur le commerce mondial a pu être signé à Marrakech le 15 avril 1994. Mais à l'échéance du cycle de l'Uruguay, le niveau des droits de douane fixés par le tarif douanier commun permettra le maintien d'une préférence communautaire. Le changement principal introduit par les accords de Marrakech réside dans les nouvelles conditions d'exportation. Il s'agit d'une limite quantitative aux exportations subventionnées et, à moyen terme, de contraintes budgétaires relatives au niveau de ces aides. La réponse à cette contrainte se trouve dans la maîtrise de la production déjà instituée par la réforme de la politique agricole commune et des initiatives en ce qui concerne la recherche de débouchés pour les exportations non subventionnées et le soutien de la consommation de viande bovine.
