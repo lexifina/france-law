@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606429
+
+- Question : [SEQ940606429](seq940606429.md) — Acquisition du TGV par des pays étrangers
+
+## Réponse
+
+*Équipement, JO du 1994-08-11, page 2003*
+
+Réponse. - Le marché du TGV à l'exportation qui était jusqu'à présent un marché essentiellement européen vient de prendre une dimension mondiale depuis le 14 juin avec la signature du contrat en Corée. Si à ce jour aucun autre contrat n'est en cours de négociation finale, l'Asie et le continent nord américain devraient offrir à court ou moyen terme de nouvelles opportunités. A Taïwan, un appel d'offres international pour un système de train à grande vitesse pourrait être lancé en 1995, ce qui conduirait à la négociation d'un contrat au cours de l'année 96. En Australie, les études du projet de liaison entre Sydney et Canberra devraient reprendre et le projet pourrait se concrétiser d'ici la fin du siècle. La Chine de son côté envisage la création d'une ligne nouvelle à grande vitesse entre Pékin et Shanghai (1 300 km) à l'horizon du 21e siècle pour faire face à une demande de transport sans cesse croissante et à la saturation du réseau ferroviaire. Les études préliminaires sont en cours dans l'optique d'une décision avant la fin du siècle. Enfin, à plus long terme, l'Indonésie et la Malaisie pourraient s'intéresser au système TGV. Sur le continent nord américain, des études sont en cours au Canada pour démontrer l'intérêt d'une ligne nouvelle entre Québec, Montréal, Toronto, Ottawa et Windsor. Une décision sur la faisabilité du projet devrait intervenir d'ici la fin de l'année. Aux Etats-Unis, l'avancement du projet texan est subordonné à la mise au point du plan de financement et l'aménagement du couloir Nord-Est (Washington - Boston) semble s'orienter vers un produit plus " traditionnel " mais les appels d'offres envisageables à moyen terme en Floride et en Californie pourraient faire appel à une technologie plus sophistiquée de type TGV.
