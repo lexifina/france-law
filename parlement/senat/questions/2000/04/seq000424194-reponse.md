@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424194
+
+- Question : [SEQ000424194](seq000424194.md) — Enseignement scolaire : réalisation d'une brochure concernant la prévention des risques dans les laboratoires et ateliers
+
+## Réponse
+
+*Éducation, JO du 2000-09-21, page 3256*
+
+Réponse. - Les lois de décentralisation ont transféré la compétence en matière de maintenance des matériels à la région pour les travaux concernant les lycées et au département pour ceux concernant les collèges. Le ministère de l'éducation nationale intervient chaque fois que cela est nécessaire, notamment par le biais de circulaires, pour aider les établissements à appliquer la législation en vigueur et mettre leurs équipements en conformité. L'Observatoire national de la sécurité énumère, dans son rapport annuel de 1999, 28 propositions visant à améliorer les conditions de sécurité. Certaines de ces propositions recoupent le travail mené par l'Institut national de recherche et de sécurité, qui réalise de nombreux documents diffusés par les caisses régionales d'assurance maladie traitant de prévention des risques dans les laboratoires et les ateliers. Divers domaines qui intéressent les établissements scolaires y sont abordés tels que l'électricité, les machines, l'ambiance chimique, la protection individuelle, la ventilation, le soudage. Un protocole d'accord a été signé entre le ministère de l'éducation nationale et la Caisse nationale de l'assurance maladie des travailleurs salariés le 1er octobre 1997 pour l'enseignement de la prévention des risques professionnels, cet accord est décliné au plan académique. Un conseil national pour l'enseignement de la prévention des risques professionnels (CERP) a été créé à la suite de cet accord, il veille à son application, notamment pour intégrer pleinement à la formation dispensée par l'éducation nationale, l'enseignement des risques professionnels dans le cadre des diplômes professionnels et technologiques.
