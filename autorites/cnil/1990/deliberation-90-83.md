@@ -1,0 +1,17 @@
+# Délibération portant avis défavorable sur le projet de décret autorisant l'utilisation du numéro d'inscription au Répertoire national d'identification des personnes physiques pour la gestion du fichier des candidatures à l'Ecole Nationale d'Administration
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-83
+- Date : 1990-06-26
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652952
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment son article 18 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 susvisée ; Vu le décret n° 82-103 du 22 janvier 1982 relatif au Répertoire national d'identification des personnes physiques ; Vu le décret n° 82-819 du 27 septembre 1982 modifié, relatif aux conditions d'accès à l'E.N.A. et au régime de la scolarité ; Vu l'avis tacite n° 89-903 délivré à l'Ecole Nationale d'Administration pour la gestion automatisée d'un fichier des candidatures antérieures ; Vu le projet de décret relatif à l'utilisation du numéro d'inscription au Répertoire national d'identification des personnes physiques pour la gestion du fichier précité ; Après avoir entendu Monsieur Pierre BRACQUE en son rapport et Madame Charlotte-Marie PITRAT, commissaire du gouvernement en ses observations, ainsi que le représentant du ministre chargé de la tenue du répertoire ;
+
+Considérant qu'en application de l'article 18 de la loi du 6 janvier 1978, toute utilisation du Répertoire national d'identification des personnes physiques en vue d'effectuer des traitements nominatifs est autorisée par décret en Conseil d'Etat pris après avis de la Commission ; que le traitement du numéro de sécurité sociale, assimilé au numéro d'inscription au répertoire, en dehors même de toute consultation directe du répertoire, doit être regardé comme une utilisation dudit répertoire au sens de l'article 18 de la loi du 6 janvier 1978, et doit en conséquence être autorisé par décret en Conseil d'Etat ; Considérant que le projet de décret soumis à l'avis de la Commission a pour objet d'autoriser l'Ecole Nationale d'Administration à utiliser le numéro d'inscription au répertoire national d'identification des personnes physiques pour la gestion du fichier des candidatures antérieures ; que la tenue d'un tel fichier découle de l'application des articles 1 et 3 du décret n° 82-819 du 27 septembre 1982, modifié, relatif aux conditions d'accès à l'E.N.A. et au régime de scolarité, aux termes desquels il est interdit aux candidats de concourir plus de 3 fois au total à un ou plusieurs des concours d'entrée à l'Ecole, et de se présenter plus de 3 fois aux épreuves d'accès au cycle préparatoire ;
+
+Considérant que le législateur a voulu limiter l'utilisation du numéro d'inscription au répertoire comme identifiant des personnes dans les traitements automatisés de données ; qu'en l'espèce, l'identification peut être réalisée par d'autres moyens ; Considérant que l'enregistrement du numéro d'inscription au répertoire - envisage comme une clef d'accès du fichier - n'apparaît pas adéquate et pertinente ;
+
+Emet un avis défavorable au projet de décret qui lui est soumis. Le Président, Jacques FAUVET
