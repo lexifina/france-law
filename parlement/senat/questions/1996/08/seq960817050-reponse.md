@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817050
+
+- Question : [SEQ960817050](seq960817050.md) — Logement des jeunes défavorisés
+
+## Réponse
+
+*Logement, JO du 1996-12-05, page 3254*
+
+Réponse. - Au cours des dernières années, la place des aides personnelles dans la politique du logement s'est accrue, comme l'atteste la croissance de bénéficiaires, de 4,5 millions en 1990 à 6 millions aujourd'hui. Deux constats ont cependant été faits à plusieurs reprises : le dispositif d'aides personnelles n'a cessé d'être obscurci au fil des années par des mesures ponctuelles qui ont brouillé la lisibilité des barèmes ; les revenus pris en compte pour déterminer le montant de l'aide au logement ne traduisent pas la réalité des ressources et donc la capacité des ménages à assumer leurs charges de logement. C'est pourquoi le Gouvernement a décidé d'engager une réforme d'ensemble du système actuel des aides personnelles au logement fondée sur deux actes : la recherche d'une appréhension plus équitable des ressources des bénéficiaires d'aide par la prise en compte de certains revenus de transfert ou la suppression de certains abattements spécifiques, ces nouvelles dispositions n'entrant en vigueur que progressivement et ne s'appliquant pas aux bénéficiaires actuels ; la construction d'un barème plus lisible et équitable, unique pour le parc de logements conventionnés, fondé sur la part de dépense laissée à la charge d'un ménage en fonction de son revenu, de sa taille et du niveau de son loyer et préservant l'aide versée aux titulaires des minima sociaux. Les principes de cette réforme et ses modalités font l'objet des consultations nécessaires. Toutefois, le nouveau barème ne concernera que les locataires du parc conventionné. Les jeunes résidant dans les logements-foyers de jeunes travailleurs continueront à bénéficier de l'APL calculée dans les conditions actuelles.
