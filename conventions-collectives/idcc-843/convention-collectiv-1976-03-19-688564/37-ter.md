@@ -1,43 +1,53 @@
 # Article 37 ter
 
-En cas de décès ou d'invalidité permanente et totale du salarié, ce régime versera à sa famille ou à lui-même les prestations définies ci-après :
+Bénéficiaires
 
-1. Bénéficiaires
+En cas de décès du salarié, le bénéficiaire du capital est la personne qui avait été désignée par le participant, assuré de la garantie décès. A défaut de désignation expresse ou en cas de décès des bénéficiaires désignés survenu antérieurement à celui du participant, le capital est versé dans l'ordre de préférence suivant :
 
-En cas de décès du salarié, le bénéficiaire du capital est la personne qui avait été désignée par l'assuré. A défaut d'un bénéficiaire désigné ou si celui-ci est décédé, le capital est versé dans l'ordre de préférence suivant : au conjoint non séparé de corps ni divorcé, aux descendants à charge au sens fiscal, aux ascendants dans certaines conditions, aux autres personnes à charge au sens fiscal, aux héritiers du salarié.
+- au conjoint non séparé de corps ni divorcé, ou au partenaire de PACS ou au concubin notoire ;
 
-En cas d'invalidité permanente et totale d'un salarié âgé de moins de soixante ans, c'est-à-dire en cas d'inaptitude à toute activité et dans l'obligation d'avoir recours à l'assistance d'une tierce personne, le bénéficiaire est le salarié lui-même.
+- aux enfants, vivants ou représentés, du participant par parts égales ;
 
-2. Prestations
+- aux ascendants du participant par parts égales ;
 
-En cas de décès, le montant du capital versé au bénéficiaire est exprimé en pourcentage du salaire annuel, c'est-à-dire des rémunérations ayant donné lieu à cotisation au titre des quatre trimestres civils précédant immédiatement la date du décès ; ce pourcentage est fonction de la situation familiale du salarié décédé et est fixé comme suit :
+- aux autres personnes à charge au sens fiscal par parts égales ;
 
-- assuré célibataire, veuf ou divorcé sans personne à charge 75 p. 100
+- aux autres héritiers du participant par parts égales
 
-- assuré marié sans personne à charge 100 p. 100
+En cas d'invalidité permanente et totale du salarié, le bénéficiaire est le salarié lui-même.
 
-- assuré célibataire, veuf, divorcé ou marié, ayant une personne à charge 120 p. 100
+Prestations
 
-- assuré célibataire, veuf, divorcé ou marié, ayant plus d'une personne à charge, par personne à charge supplémentaire 20 p. 100
+En cas de décès d'un salarié avant son départ à la retraite, le montant du capital versé au bénéficiaire est exprimé en pourcentage du salaire annuel, c'est-à-dire des rémunérations ayant donné lieu à cotisation au titre des 4 trimestres civils précédant immédiatement la date du décès ; ce pourcentage est fonction de la situation familiale du salarié décédé et est fixé comme suit :
 
-Toutefois le capital décès ne peut être inférieur à 9 fois le S.M.I.C. mensuel sur la base de 169 heures en vigueur au moment du décès.
+- célibataire, veuf ou divorcé sans personne à charge ... 75 % ;
 
-Si l'intéressé n'a pas reçu de rémunération ayant donné lieu à cotisation pendant tout ou partie des quatres trimestres visés à l'alinéa précédent, le salaire annuel est reconstitué.
+- marié, partenaire de PACS ou concubin notoire sans personne
 
-Les personnes à charge sont les enfants à charge au sens fiscal, les ascendants dans certaines conditions, les autres personnes à charge au sens fiscal.
+à charge ... 100 % ;
 
-Garantie double effet : si le conjoint décède en même temps ou après le salarié assuré et laisse un ou plusieurs enfants à charge, il est versé un capital égal à celui versé pour le premier décès.
+- célibataire, veuf, divorcé, marié, partenaire de PACS ou concubin notoire ayant une personne à charge ... 120 % ;
 
-En cas d'invalidité permanente et totale, il est versé au salarié, sous forme de quatre trimestrialités égales, un capital dont le montant est égal au capital décès défini ci-dessus.
+- célibataire, veuf, divorcé ou marié, partenaire de PACS ou concubin notoire, ayant plus d'une personne à charge, par personne à charge supplémentaire ... 20 %.
 
-S'il le souhaite, et sur sa demande auprès de l'I.S.I.C.A., le bénéficiaire peut substituer au versement du capital le versement d'une rente qui lui sera servie jusqu'à son 60e anniversaire.
+Garantie double effet
 
-3. Cotisations
+Si le conjoint décède *avant l'âge de 60 ans* (1), en même temps ou après le salarié et laisse un ou plusieurs enfants à charge, il est versé un capital dont le montant est égal à celui versé pour le premier décès.
 
-Le taux de cotisation au régime décès et invalidité permanente et totale est fixé à 0,21 p. 100.
+Toutefois, le capital décès ne peut être inférieur à 9 fois le SMIC mensuel en vigueur au moment du décès.
 
-Le taux de cotisation est réparti à raison de 60 p. 100 pour la part patronale et 40 p. 100 pour la part salariale.
+Si l'intéressé n'a pas reçu de rémunération ayant donné lieu à cotisation pendant tout ou partie des 4 trimestres visés au 1er alinéa du présent article, le salaire annuel est reconstitué.
 
-Compte tenu du taux actuellement en vigueur de 0,21 p. 100, la commission paritaire nationale a décidé que la cotisation patronale serait au taux de 0,13 p. 100 et que la cotisation salariale serait au taux de 0,08 p. 100.
+En cas d'invalidité permanente et totale, il est versé au salarié, sous forme de 4 trimestrialités égales, un capital dont le montant est égal au capital décès défini ci-dessus. Sur demande, le bénéficiaire peut substituer au versement du capital le versement d'une rente qui lui sera servie jusqu'à l'âge de la retraite.
 
-L'assiette de la cotisation est constituée par la rémunération inférieure ou égale au plafond de la sécurité sociale.
+Cotisations
+
+Le taux de cotisation de la garantie décès/invalidité permanente et totale est fixé à 0,21 % du salaire brut plafonné à la tranche A. Le taux de cotisation est réparti à raison de 60 % pour la part patronale et 40 % pour la part salariale. Compte tenu du taux actuellement en vigueur de 0,21 % du salaire brut tranche A, la commission paritaire nationale a décidé que la cotisation patronale serait au taux de 0,13 % et que la cotisation salariale serait au taux de 0,08 %.
+
+NOTA : Arrêté du 14 avril 2005 : (1) Avenant étendu, à l'exclusion des termes : " avant l'âge de 60 ans " mentionnés au paragraphe Garantie double effet de l'article 2, comme étant contraires aux dispositions de l'article L. 122-45 du code du travail.
+
+NOTA :
+
+NOTA : Arrêté du 14 avril 2005 :
+
+(1) Avenant étendu, à l'exclusion des termes : " avant l'âge de 60 ans " mentionnés au paragraphe Garantie double effet de l'article 2, comme étant contraires aux dispositions de l'article L. 122-45 du code du travail.

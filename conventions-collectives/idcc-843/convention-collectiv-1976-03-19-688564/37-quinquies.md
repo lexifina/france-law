@@ -1,15 +1,15 @@
 # Article 37 quinquies
 
-En application de l'article L. 912-1 du code de la sécurité sociale, les partenaires sociaux conviennent de désigner :
+Les partenaires sociaux ont de nouveau désigné Isica Prévoyance, 26, rue de Montholon, 75305 Paris Cedex 09 comme organisme assureur des garanties de prévoyance susvisées : incapacité de travail, décès et invalidité permanente et totale.
 
-- ISICA-Prévoyance (26, rue de Montholon, 75305 Paris Cedex 9) comme organisme assureur des risques incapacité, décès, invalidité permanente et totale, définis aux articles 37 et 37 ter ;
+Pour la garantie " Rente éducation ", les partenaires sociaux ont désigné l'OCIRP (organisme commun des institutions de rente et de prévoyance), 10, rue Cambacérès, 75008 Paris, comme organisme assureur. Isica Prévoyance reçoit délégation de la part de l'OCIRP pour appeler les cotisations et régler les prestations.
 
-- OCIRP (10, rue Cambacérès, 75008 Paris) comme organisme assureur du régime rente éducation défini à l'article 37 quater.
+Les modalités d'organisation de la mutualisation des risques couverts par le présent accord seront réexaminées par la commission nationale paritaire dans un délai de 3 années à compter de la date d'effet du présent accord, conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale.
 
-Les entreprises visées dans le champ d'application de la présente convention collective nationale ont obligation d'adhérer aux organismes assureurs ci-dessus désignés.
+Conformément à la réglementation en vigueur, dans l'hypothèse du changement d'organisme assureur au sein de l'entreprise résultant de l'adhésion à l'organisme assureur désigné par le présent accord ou en cas de changement d'organisme assureur décidé par les partenaires sociaux à l'occasion d'une révision du présent accord, les rentes et indemnités en cours de service seront maintenues à leur niveau atteint à la date de résiliation.
 
-La collecte des cotisations correspondant au régime de prévoyance défini aux articles 37 et 37 ter est confiée à ISICA-Prévoyance.
+Par ailleurs, la revalorisation des rentes et indemnités sera assurée par le nouvel organisme dans des conditions au moins identiques à celles définies dans le présent accord.
 
-ISICA-Prévoyance reçoit les cotisations et gère le risque rente éducation défini à l'article 37 quater pour le compte de l'OCIRP.
+A compter de l'application de l'accord, les salariés bénéficiant d'indemnités journalières complémentaires à celles versées par la sécurité sociale et de rente d'invalidité se verront maintenir la couverture du risque décès. Le changement d'organisme assureur sera sans effet sur les prestations à naître au titre du maintien de garantie en cas de survenance du décès avant le terme de la période d'incapacité de travail ou d'invalidité.
 
-Les modalités d'organisation de la mutualisation des risques couverts par les articles 37, 37 ter et 37 quater seront réexaminées dans le délai de 5 ans à compter de la date d'effet du présent avenant, conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale.
+En revanche, le nouvel organisme assureur devra assurer la couverture du risque décès au profit des salariés qui bénéficieraient ultérieurement, et après le changement d'organisme assureur, d'indemnités journalières complémentaires à celles versées par la sécurité sociale et de rente d'invalidité.
