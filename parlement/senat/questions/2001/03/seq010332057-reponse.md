@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332057
+
+- Question : [SEQ010332057](seq010332057.md) — Dioxyde de carbone
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-05-31, page 1836*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la position américaine de ne pas réglementer les émissions de dioxyde de carbone. Le président américain a récemment remis en cause la stratégie internationale de maîtrise des émissions de gaz à effet de serre, de façon unilatérale, sans aucune concertation, estimant que le protocole de Kyoto était injuste, car il exonérerait 80 % des pays de tout engagement. Ce protocole, conclu en 1997 par la communauté internationale et signé l'année suivante par la précédente administration américaine, impose aux pays développés des réductions d'émission de gaz carbonique (CO2) et autres gaz à effet de serre. Les Etats-Unis, principal pays émetteur de gaz à effet de serre, prendraient une très lourde responsabilité en remettant en cause un accord approuvé unanimement par la communauté internationale pour combattre le changement climatique qui menace l'avenir de la planète et de l'humanité. Les pays industrialisés ne peuvent en effet différer davantage la mise en uvre des mesures effectives de réduction de leurs émissions. Elle a tout aussitôt saisi son homologue américaine pour lui demander de revoir sa position. La réaction des pays de l'Union européenne mais aussi celle des grands pays en voie de développement et même des principaux partenaires des Etats-Unis n'ont été fortes et ont montré l'isolement des Etats-Unis sur cette question. Le Gouvernement français, fort de l'appui de la représentation nationale, reste déterminé à négocier et à parvenir à un accord permettant l'entrée en vigueur du protocole de Kyoto dès 2002.
