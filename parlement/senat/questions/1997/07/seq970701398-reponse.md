@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701398
+
+- Question : [SEQ970701398](seq970701398.md) — Service d'écoute téléphonique sur les risques de la maladie de Creutzfeldt-Jakob
+
+## Réponse
+
+*Santé, JO du 1997-09-04, page 2307*
+
+Réponse. - Un service de réponse téléphonique a été mis en place le 14 février 1997 dans un premier temps pour répondre aux interrogations du public concernant les risques de maladie de Creutzfeldt-Jakob liée à des traitements par hormone de croissance extractive. Pendant le premier mois, un peu plus de 800 appels sont parvenus au service : 40 % d'entre eux concernaient un traitement par hormone de croissance dont un tiers pendant la période à risque et émanaient en grande majorité de personnes inquiètes pour un membre de leur famille, leur enfant le plus souvent. Les autres appels portaient sur des traitements ne contenant pas d'hormone de croissance ou sur des inquiétudes liées à d'autres maladies. Une écoute avec aide et soutien a été apportée chaque fois que possible. Pour les demandes ponctuelles de numéros de lots distribués ou de renseignements médicaux individuels, les personnes ont été orientées vers le médecin prescripteur. Les demandes administratives ou d'aide matérielle ont été orientées vers les associations ou le service d'indemnisation. A partir du 15 mars 1997, date d'arrêt du service de réponse téléphonique, les demandes ont considérablement diminué (une vingtaine d'appels par semaine en moyenne) et ont concerné essentiellement les modifications des modalités de distribution d'hormone de croissance biosynthétique en cours de mise en oeuvre : les familles ont évoqué leur crainte d'un traitement. La plupart des renseignements nécessaires ont pu leur être fournis par téléphone. Sinon, elles ont été orientées vers l'administration compétente ou vers leur médecin.
