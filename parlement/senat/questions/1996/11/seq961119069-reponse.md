@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119069
+
+- Question : [SEQ961119069](seq961119069.md) — Situation des personnes handicapées
+
+## Réponse
+
+*Santé, JO du 1997-02-06, page 393*
+
+Réponse. - L'article 95 de la loi de finances pour 1994, no 93-1352 du 30 décembre 1993, qui a modifié l'article L. 821-2 du code de la sécurité sociale prévoit que pour les demandes d'allocation aux adultes handicapés (AAH) déposées à compter du 1er janvier 1994, les personnes handicapées concernées qui sont, en raison de leur handicap, dans l'impossibilité reconnue par la commission technique d'orientation et de reclassement professionnel (COTOREP) de se procurer un emploi doivent également justifier d'un taux minimal d'incapacité. Ce taux a été fixé à 50 % par le décret no 94-379 du 16 mai 1994 complétant l'article D. 821-1 du code susvisé. En raison de l'application par les COTOREP, depuis le 1er décembre 1993, pour la détermination du taux d'incapacité ouvrant droit à l'AAH, d'un nouveau guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées, qui prend en compte notamment l'aptitude des personnes handicapées à exercer une activité professionnelle, la fixation de ce taux minimal ne devrait avoir pour conséquence que d'exclure du droit à l'AAH les seuls demandeurs dont le handicap n'est pas la cause principale de leur impossibilité de se procurer un emploi. Ils peuvent, à ce titre, bénéficier, d'une part, du dispositif d'insertion et de protection sociale offert à l'ensemble des demandeurs d'emploi et, d'autre part, sur décision des COTOREP, de formations dispensés dans des centres de rééducation professionnelle. En tout état de cause, les dispositions prévues par l'article 95 de la loi de finances pour 1994 ne s'appliquent pas aux demandes de renouvellement de l'AAH déposées par les personnes bénéficiant de celle-ci au 1er janvier 1994.
