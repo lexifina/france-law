@@ -25,3 +25,5 @@ Il est notamment investi des pouvoirs suivants :
 - il décide l'ouverture de tous comptes de dépôts de fonds ou de titres ;
 
 - il passe tous marchés et commandes de fournitures.
+
+Dans le cas d'associations créées par plusieurs caisses de mutualité sociale agricole, le conseil d'administration nomme le directeur et l'agent comptable de l'association dans les conditions prévues au 2° de l'article 4 du décret du 11 mai 1982, modifié susvisé.
