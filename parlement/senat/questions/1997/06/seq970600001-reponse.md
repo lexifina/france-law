@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600001
+
+- Question : [SEQ970600001](seq970600001.md) — Situation des retraités des caisses africaines de sécurité sociale de la zone franc
+
+## Réponse
+
+*Économie, JO du 1997-11-13, page 3141*
+
+Réponse. - La dévaluation de 50 % du franc CFA intervenue le 12 janvier 1994, a entraîné pour les ressortissants français, qui vivent en France et perçoivent une pension de retraite libellée en francs CFA, une diminution de 50 % de la valeur de ces retraites converties en francs français. Pour faire face à la perte subie par les retraités concernés, un dispositif exceptionnel et non reconductible de compensation avait été arrêté début 1994, mis en place en octobre de la même année et clôturé le 1er mars 1995 pour solde de tout compte. Ce dispositif a fait l'objet d'une ouverture de crédits en collectif de fin d'année 1994 à hauteur de 60 millions de francs sur le budget des affaires sociales. Sur son fondement, environ 1 000 dossiers ont été déposés et examinés. Parmi ces dossiers seulement 300 remplissaient les conditions d'obtention d'une compensation, notamment les conditions de plafonds de ressources (pour mémoire 60 000 francs pour une personne seule et 90 000 francs pour un couple). En outre, le Gouvernement a accepté, à titre exceptionnel fin 1996, de réexaminer certains dossiers qui semblaient remplir les conditions requises, notamment le plafond d'éligibilité, mais avaient été initialement rejetés en raison de leur caractère incomplet. Par ailleurs, la reprise de la gestion de ces retraites par un organisme français ne pourrait intervenir, pour des raisons tenant à la souveraineté des pays sur leur protection sociale, que de façon bilatérale et conventionnelle. L'attention des ministres concernés a déjà été attirée pour rappeler chaque fois que possible à nos partenaires la nécessité qui s'attache au respect de ces accords bilatéraux.
