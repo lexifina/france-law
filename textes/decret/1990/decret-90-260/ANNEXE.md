@@ -310,7 +310,7 @@ La Galange ;
 
 La Bernade ;
 
-L'Isole ;
+L'Iscle ;
 
 La Chalvagne.
 
@@ -415,3 +415,9 @@ La Gimone en aval du barrage de la Gimone (commune de Lunax).
 Département des Hautes-Pyrénées
 
 La Garonne.
+
+NOTA :
+
+NOTA : L'article 8, 1er alinéa du décret n° 2005-935 énonce :
+
+"Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à wallis-et-Futuna, dans les terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après : ...". Le décret 2007-397 du 22 mars 2007 art. 14 a levé la réserve.
