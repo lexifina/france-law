@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000121753
+
+- Question : [SEQ000121753](seq000121753.md) — Conséquences des tempêtes pour les petites et moyennes entreprises
+
+## Réponse
+
+*Économie, JO du 2000-05-18, page 1771*
+
+Réponse. - La moitié des entreprises françaises ont souscrit des contrats garantissant les pertes d'exploitation subies du fait de la survenance de dommages matériels directs sur leurs biens assurés. Les autres entreprises choisissent de ne pas s'assurer contre ces risques soit qu'elles aient mis en place des mesures de protection contre ceux-ci, soit que la nature de leur activité (services notamment) leur permet d'envisager une relocalisation temporaire à moindre frais après un sinistre. Toutefois, conscient des difficultés rencontrées par les entreprises à la suite des intempéries survenues à la fin de l'année 1999, le Gouvernement a mis en place un ensemble de dispositifs destinés à répondre à leurs besoins immédiats d'allégement des charges financières, de renouvellement de leur outil de production et de reconstitution de leur trésorerie. C'est ainsi que des délais seront accordés par les comptables compétents pour les déclarations fiscales ainsi que pour le règlement des échéances fiscales. Des allégements pourront également être étudiés, voire des remises totales être consenties pour les entreprises les plus sévèrement touchées. Par ailleurs, un dispositif de garantie des prêts accordés par les banques à des entreprises victimes des tempêtes a été mis en place par la Sofaris afin d'assurer le financement des besoins en fonds de roulement ou désinvestissements pour renouvellement du matériel. A titre exceptionnel, le taux de garantie de ces prêts a été porté de 40 à 70 %. Ce dispositif permettra la mise en place de deux milliards de francs de prêts aux entreprises.
