@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701155
+
+- Question : [SEQ970701155](seq970701155.md) — Soutien de la filière géranium à la Réunion
+
+## Réponse
+
+*Agriculture, JO du 1997-10-16, page 2795*
+
+Réponse. - La production de géranium à la Réunion a fortement chuté depuis dix ans. Cette diminution s'explique notamment par la baisse des prix et par le désengagement des planteurs. Conscientes de l'importance économique et sociale de cette production, particulièrement dans les hauts de l'île, les autorités françaises, en liaison avec les professionnels du secteur, ont retenu les orientations stratégiques suivantes : mise en place d'une politique de soutien des prix ; relance de la production, notamment par une amélioration de l'encadrement technique des producteurs. Ces orientations se sont concrétisées, d'une part, par l'adoption d'un règlement communautaire fixant une aide à la production d'huiles essentielles de géranium et de vétyver et, d'autre part, la mise en oeuvre d'actions spécifiques structurelles. Ainsi, le règlement-cadre agricole POSEIDOM modifié (CE) no 2598/95 du Conseil du 30 octobre 1995 prévoit une aide de 44,68 écus par kilogramme d'huile essentielle de géranium dans la limite de 30 tonnes. La mise en oeuvre de cette aide est effective depuis juin 1997 avec effets rétroactifs sur la campagne 1996. Dans ces conditions, le prix payé aux producteurs est porté de 500 francs à 795 francs par kilogramme. Par ailleurs, dans le cadre de l'opération groupée d'aménagement foncier des " Hauts de l'Ouest " et le programme sectoriel de la filière plantes à parfum à la Réunion, l'Etat participe au financement de mesures ayant pour objet de relancer la production de géranium : aide à la remise en état des plantations de géranium, appui technique aux producteurs, amélioration des itinéraires techniques...
