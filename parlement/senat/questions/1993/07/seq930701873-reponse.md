@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701873
+
+- Question : [SEQ930701873](seq930701873.md) — Accidents de montagne
+
+## Réponse
+
+*Jeunesse et sports, JO du 1993-09-09, page 1596*
+
+Réponse. - La réduction du nombre des accidents sportifs est l'un des objectifs du ministère de la jeunesse et des sports. L'amélioration de leur prévention ne peut que reposer sur une connaissance aussi exacte que possible des différentes causes d'accidents. A cet effet, un observatoire a été récemment mis en place auprès du conseil supérieur des sports de montagne. D'autres dispositifs se mettent en place aussi sous l'autorité préfectorale dans certains départements montagnards. Les services déconcentrés du ministère de la jeunesse et des sports interviennent quant à eux en contrôlant les personnes ou les établissements qui organisent des prestations de services sportifs ou d'enseignement avec une attention toute particulière dès lors qu'il s'agit d'activités à risques telles que le ski, l'escalade, le parapente ou le deltaplane. Les moyens juridiques à la disposition des préfets devraient être renforcés avec la parution imminente d'un décret sur la sécurité des activités physiques et sportives ainsi qu'ultérieurement par différents arrêtés qui renforceront les pouvoirs des agents chargés du contrôle, d'une part, et qui fixeront les règles d'encadrement de certaines disciplines sportives, d'autre part. Les accidents pouvant survenir lors de pratiques individuelles, libres et non encadrées ne peuvent être réduits dans leur nombre ou leur gravité que par des mesures relevant essentiellement d'initiatives locales. Celles-ci peuvent consister en une meilleure organisation des secours, en une information accrue du public sur les risques particuliers auxquels peuvent être confrontés les pratiquants dans le secteur, voire en l'adoption de mesures de police adaptées.
