@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220947
+
+- Question : [SEQ991220947](seq991220947.md) — Clarification des responsabilités des acteurs évoluant sur le réseau Internet
+
+## Réponse
+
+*Culture, JO du 2000-02-24, page 670*
+
+Réponse. - La question de la responsabilité des acteurs de l'Internet constitue l'un des thèmes abordés dans le cadre de la réflexion sur l'adaptation du cadre juridique de la société de l'information actuellement menée par le Gouvernement. Il importe en effet d'assurer un équilibre entre liberté d'expression et respect des droits fondamentaux de la personne tout en veillant à clarifier les responsabilités des divers acteurs de l'Internet, auteurs, éditeurs et intermédiaires techniques. Cette réflexion devra intégrer l'évolution des négociations sur la proposition de directive européenne relative à certains aspects juridiques du commerce électronique dans le marché intérieur. Ce texte pose, sous certaines conditions, un principe d'absence de responsabilité des intermédiaires techniques (opérateurs de transport, fournisseurs d'accès, de cache et d'hébergement), au titre des contenus qu'ils n'ont pas eux-mêmes élaborés. En outre, l'amendement déposé en première lecture du projet de loi sur la communication audiovisuelle à l'Assemblée nationale par le député Patrick Bloche exonère les intermédiaires techniques de responsabilité a priori pour un contenu qu'ils stockent ou transmettent, " lorsqu'ils n'ont pas contribué à la création ou à la production de ce contenu " ou si " ayant été saisis par une autorité judiciaire ils n'ont pas agi promptement pour empêcher l'accès à ce contenu ". Le Gouvernement s'est déclaré favorable au principe posé par cet amendement auquel des compléments devraient être apportés dans le cadre du débat parlementaire afin de préciser les responsabilités respectives des divers intervenants sur le réseau.
