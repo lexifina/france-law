@@ -2,7 +2,7 @@
 
 La Fondation nationale des sciences politiques est gérée par un conseil d'administration comprenant :
 
-1. Six professeurs des universités ou d'un établissement d'enseignement supérieur, à raison d'un pour chacune des spécialités suivantes
+1. Six professeurs des universités ou d'un établissement d'enseignement supérieur, à raison d'un pour chacune des spécialités suivantes :
 
 Science politique ;
 
@@ -12,7 +12,7 @@ Droit public ;
 
 Droit économique et social ;
 
-Histoire politique et sociale;
+Histoire politique et sociale ;
 
 Géographie humaine ;
 
