@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405500
+
+- Question : [SEQ870405500](seq870405500.md) — Création d'une cellule administrative chargée d'assister les victimes du terrorisme
+
+## Réponse
+
+*Intérieur, JO du 1987-09-10, page 1411*
+
+Réponse. -La réparation à titre gracieux par l'Etat des préjudices corporels subis par les victimes d'attentats perpétrés avant le 1er janvier 1985 a été déterminée compte tenu des prestations mises à la charge des organismes de sécurité sociale du fait de ces attentats afin d'éviter une double indemnisation pour le même préjudice ; l'ensemble des dossiers ayant fait l'objet de cette procédure est en voie de trouver une solution définitive. L'article 9 de la loi du 9 septembre 1986 relative à la lutte contre le terrorisme a créé un fonds de garantie des victimes d'attentats terroristes, alimenté par un prélèvement sur les contrats d'assurance de biens. Ce fonds assure la réparation intégrale des dommages corporels résultant des actes de terrorisme commis à compter du 1er janvier 1985. Il est tenu de verser une provision à la victime ou à ses ayants droit dans le mois suivant leur demande et de présenter une offre définitive dans un délai de trois mois à compter de la réception de la justification des préjudices corporels subis. Le conseil d'administration de ce fonds de garantie est présidé par un haut magistrat et comprend notamment trois membres choisis par les personnes ayant manifesté leur intérêt pour les victimes d'actes de terrorisme. Le fonds de garantie a ainsi pour mission de fournir aux victimes d'attentats terroristes une indemnisation intégrale et rapide de leurs dommages corporels ; il constitue par ailleurs l'interlocuteur privilégié des victimes et de leurs ayants droit afin de les assister dans l'accomplissement des formalités administratives préalables à leur indemnisation.
