@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202937
+
+- Question : [SEQ881202937](seq881202937.md) — Situation des fonctionnaires membres des cabinets ministériels
+
+## Réponse
+
+*Fonction publique, JO du 1989-03-23, page 496*
+
+Réponse. - Les fonctionnaires servant dans un cabinet contribuent à impulser, coordonner et préparer les décisions ministérielles. Du fait de leurs compétences techniques et de leur connaissance de l'administration, que permet d'assurer l'interdiction faite aux membres des corps recrutés par la voie de l'Ecole nationale d'administration de servir dans un cabinet ministériel avant d'avoir effectué quatre ans de services effectifs au sein de leur corps ou de leur administration d'origine, il est difficile pour un ministre chargé de la gestion d'un département ministériel de ne pas faire appel à quelques collaborateurs issus de la fonction publique. La présence au sein d'un cabinet ministériel peut également contribuer à diversifier l'expérience d'agents destinés à exercer ultérieurement d'autres fonctions administratives. Une circulaire du ministre chargé de la fonction publique du 10 janvier 1986 a rappelé aux ministres et secrétaires d'Etat que lorsque des fonctionnaires, membres d'un cabinet ministériel, se portent candidats à une élection parlementaire ou à l'Assemblée des communautés européennes, il convenait, en vertu d'un usage constant, de mettre fin, dès l'ouverture de la campagne électorale, à leur mission dans le cabinet où ils servent. Il n'est donc pas envisagé, à l'heure actuelle, de limiter la présence des fonctionnaires au sein des cabinets ministériels à un certain nombre d'années, en prévoyant une disposition spécifique imposant à ceux d'entre eux qui souhaitent prolonger leur expérience au-delà de cette période de présenter leur démission de la fonction publique, alors même qu'une telle condition ne s'impose pas aux agents détachés pour exercer une fonction publique élective.
