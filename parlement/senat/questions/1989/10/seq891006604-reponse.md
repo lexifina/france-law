@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006604
+
+- Question : [SEQ891006604](seq891006604.md) — Réunion et tenue des listes électorales
+
+## Réponse
+
+*Intérieur, JO du 1989-12-07, page 2044*
+
+Réponse. - La loi n° 88-1262 du 30 décembre 1988, modifiant diverses dispositions du code électoral et du code des communes relatives aux procédures de vote et au fonctionnement des conseils municipaux, a notamment prévu que le vote de chaque électeur est désormais constaté par la signature apposée à l'encre en face de son nom sur la liste d'émargement. En application de l'article L. 62-1 du code électoral cette liste d'émargement est une copie de la liste électorale et doit comporter les mentions prescrites par les articles L. 18 et L. 19 du même code. La norme actuelle des listes électorales et des listes d'émargement - N.F.Z. 12-021 - a été homologuée par arrêté du 27 janvier 1972 et doit faire l'objet d'une nouvelle définition pour tenir compte d'une part, des modifications intervenues dans le code électoral, notamment pour réserver une place suffisante à la signature de l'électeur sur la liste d'émargement et d'autre part, de l'évolution des matériels utilisés par les mairies pour remplir les imprimés des listes électorales et donc des listes d'émargement. L'association française de normalisation a d'ores et déjà été saisie par mes soins en vue de la modification de la norme actuelle et les études entreprises devraient aboutir avant la prochaine consultation générale prévue pour 1991 et la refonte triennale des listes électorales qui prendra effet le 1er mars 1991. Pour les élections partielles susceptibles d'être organisées avant cette échéance les documents actuels seront encore utilisés comme cela a déjà été le cas pour les élections municipales des 12 et 19 mars 1989 et l'élection des réprésentants au Parlement européen du 18 juin 1989.
