@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314436
+
+- Question : [SEQ960314436](seq960314436.md) — Maintien des aides de l'Etat aux communes lors de la transformation de contrats emploi-solidarité en emplois permanents
+
+## Réponse
+
+*Fonction publique, JO du 1996-04-25, page 1021*
+
+Réponse. - Institué par la loi no 89-905 du 19 décembre 1989 et mis en application par le décret no 90-105 du 30 janvier 1990, le contrat emploi-solidarité (CES) est un contrat de travail de droit privé à durée déterminée. Il est destiné à favoriser l'insertion ou la réinsertion professionnelle de personnes sans emploi par le développement d'activités répondant à des besoins collectifs non satisfaits. En revanche, le CES n'a pas pour vocation de faire face à des tâches d'administration permanente qui, dans la logique du statut de la fonction publique de l'Etat, territoriale ou hospitalière, doivent être assumées par des fonctionnaires titulaires de leur emploi. La création d'emplois permanents en compensation de CES constitue une pratique de saine gestion, lorsque cette situation correspond à des besoins réellement exprimés. Il faut rappeler à cet égard que la loi du 27 décembre 1994, modifiant la loi no 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, a accru les possibilités pour les collectivités de recourir au recrutement d'agents titulaires pour répondre à de tels besoins, en particulier par l'élargissement du recours au temps non complet comme par la faculté de recruter directement, sans concours, des agents de catégorie C correspondant à l'échelle de rémunération la moins élevée de la fonction publique. Dès lors que les besoins d'emplois permanents existent, il appartient aux collectivités locales de déterminer les créations d'emplois qui leur paraissent nécessaires, dont le financement repose sur les moyens budgétaires de fonctionnement normaux dont elles disposent.
