@@ -4,7 +4,9 @@ Les inspecteurs des postes et télécommunications sont recrutés :
 
 1° Parmi les inspecteurs élèves, dans les conditions fixées aux articles 3 à 11 du présent décret ;
 
-2° Au choix, dans la limite du neuvième des titularisations prononcées au titre de l'année précédente, en application du 1° ci-dessus, parmi les fonctionnaires des postes et télécommunications appartenant à un corps classé dans la catégorie B au sens de l'article 17 du statut général des fonctionnaires inscrits sur une liste d'aptitude après avis de la commission administrative paritaire. Cet avis est précédé d'une sélection organisée sous forme d'examen professionnel ouvert aux candidats âgés de quarante ans au moins au 1er janvier de l'année au titre de laquelle la sélection est effectuée et comptant, à la même date, dix ans au moins de services effectifs en catégorie B.
+2° Au choix, dans la limite du neuvième des titularisations prononcées au titre de l'année précédente en application du 1° ci-dessus, parmi les fonctionnaires des postes et télécommunications appartenant à un corps classé en catégorie B inscrits sur une liste d'aptitude, après avis de la commission administrative paritaire.
+
+Les intéressés doivent être âgés de quarante ans au moins au 1er janvier de l'année de la nomination et compter, à la même date, dix ans au moins de services effectifs en catégorie B.
 
 Les intéressés sont nommés dans un emploi d'inspecteur et doivent assurer les fonctions correspondant à ce grade pendant une période probatoire d'un an.
 
