@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935306
+
+- Question : [SEQ010935306](seq010935306.md) — Baccalauréat
+
+## Réponse
+
+*Éducation, JO du 2001-12-06, page 3853*
+
+Il convient de mettre fin à la rumeur qui accompagne chaque session du baccalauréat, selon laquelle le ministère de l'éducation nationale exercerait des pressions sur les jurys pour s'assurer d'un bon taux de réussite à l'examen. Aucune directive, aucune instruction ministérielle n'a jamais donné de " consignes de surnotation " aux examinateurs. Une telle rumeur trouve sans doute son origine dans une mauvaise interprétation des dispositifs réglementaires mis en place depuis plusieurs années afin de réduire les aléas de la notation : on sait bien, en effet, que les notes attribuées à une même copie peuvent varier sensiblement d'un correcteur à l'autre. Ces mesures rappelées dans la note de service n° 95-113 du 9 mai 1995 (BO n° 20 du 18 mai 1995) sont, pour l'essentiel, les suivantes : des commissions d'entente, réunissant les correcteurs d'une même discipline après l'épreuve, adoptent, après lecture d'un certain nombre de copies, des principes communs de correction, des critères de notation pour une évaluation plus objective ; des réunions d'harmonisation permettent aux professeurs, après correction des copies, de s'interroger sur les évaluations respectives en comparant les moyennes et les répartitions des notes entre correcteurs et par sujet et, le cas échéant, après discussion, de réviser certaines notes ; le président du jury veille à l'harmonisation des notes lorsqu'il constate de trop grandes disparités dans la notation de certaines copies. L'ensemble de ces dispositifs réglementaires visant à introduire plus d'homogénéité dans l'évaluation et donc plus d'équité devant l'examen ne sauraient toutefois remettre en cause la liberté pédagogique des professeurs et le principe de souveraineté des jurys.
