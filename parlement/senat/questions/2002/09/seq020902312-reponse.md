@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902312
+
+- Question : [SEQ020902312](seq020902312.md) — Retards dans l'examen des permis de construire
+
+## Réponse
+
+*Équipement, JO du 2003-03-13, page 880*
+
+Le ministre de l'équipement, des transports, du logement, du tourisme et de la mer est très attaché à ce que les services de son administration puissent disposer des moyens nécessaires à l'exercice de leurs missions de service public et assurent efficacement un service de proximité à tous les usagers. De façon générale, les délais apportés dans l'instruction des permis de construire trouvent parfois leur origine dans l'augmentation de la charge d'instruction consécutive à une brusque poussée de l'urbanisation. Dans d'autres cas, certains services sont confrontés à une vacance de postes importante, compte tenu du caractère spécialisé des compétences correspondantes. Afin d'améliorer globalement la situation, un plan national de résorption de la vacance a été mis en oeuvre avec un objectif de recrutement supplémentaire de 1 200 agents en 2002 et de 750 en 2003. Par ailleurs, des démarches de redéploiement ou de regroupement de moyens sont engagées localement pour optimiser les capacités de production. Enfin, des processus qualité visant à mieux réguler le service apporté et les moyens qui y sont consacrés ont été mis en place, de plus en plus souvent, dans les directions départementales de l'équipement. Par ailleurs, une évaluation de l'intervention des services de l'équipement dans l'application du droit des sols a été lancée sous la présidence d'un membre du conseil général des ponts et chaussées, dont les résultats devront être remis au ministre au cours du troisième trimestre 2003. Sur cette base, il s'agira de dégager des actions prioritaires afin d'améliorer la qualité des prestations fournies dans le domaine du droit des sols.
