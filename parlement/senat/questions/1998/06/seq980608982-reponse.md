@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608982
+
+- Question : [SEQ980608982](seq980608982.md) — Guyane : extension des possibilités existantes en matière de défiscalisation à la reconstitution des fonds propres ou à la recapitalisation des entreprises
+
+## Réponse
+
+*Outre-mer, JO du 1998-08-06, page 2574*
+
+Réponse. - L'insuffisance des fonds propres est un problème récurrent des entreprises des départements d'outre-mer en général et de la Guyane en particulier, qui hypothèque effectivement l'avenir des entreprises et le développement économique de ces régions. La loi relative à la défiscalisation des investissements réalisés outre-mer, actuellement en vigueur, offre d'ores et déjà aux sociétés des départements d'outre-mer la possibilité de reconstituer leurs fonds propres et de recapitaliser leurs entreprises. En effet, les dispositions de l'article 217 undecies du code général des impôts permettent le défiscalisation de la totalité des souscriptions au capital des entreprises qui exercent leur activité dans un secteur éligible à cette loi, notamment dans les secteurs de l'industrie, de la pêche, de l'hôtellerie, du tourisme, du BTP et des transports. Par ailleurs, l'article 199 undecies du code général des impôts institue une réduction d'impôts sur le revenu des contribuables qui investissent dans les départements d'outre-mer en souscrivant en numéraire au capital de sociétés soumises à l'impôt sur les sociétés, dans le cadre de l'article 217 undecies. Pour obtenir le droit à réduction, la souscription est soumise aux conditions d'agrément déterminées par cet article. Or, dans la pratique, il s'avère que ces dispositions sont très peu appliquées. Les raisons invoquées le plus souvent sont de deux ordres. D'une part, les épargnants se dirigent plutôt vers une prise de participation directe à l'investissement. D'autre part, les entrepreneurs sont très réticents à la recomposition du capital social de leur exploitation.
