@@ -32,7 +32,9 @@ Le responsable des forces de sécurité de l'État et le responsable de la polic
 
 Art. 3.-Les forces de sécurité de l'État et la police municipale échangent les informations dont elles disposent sur les personnes signalées disparues et sur les véhicules volés, susceptibles d'être identifiés sur le territoire de la commune. En cas d'identification par ses agents d'une personne signalée disparue ou d'un véhicule volé, la police municipale en informe les forces de sécurité de l'État.
 
-Art. 4.-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par l'article L. 1 er du code de la route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent.A cette fin, le responsable des forces de sécurité de l'État et le responsable de la police municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances.
+Art. 4.-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les articles L234-1, L234-3, L234-4, L234-5, L234-8, L234-6,
+
+L234-11, L234-7, L234-2, L234-8, L221-2, L223-5, L224-5, L224-16, L224-17, L224-18, L231-2, L233-1, L233-2 du code de la route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent.A cette fin, le responsable des forces de sécurité de l'État et le responsable de la police municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances.
 
 Art. 5.-Les communications entre la police municipale et les forces de sécurité de l'État pour l'accomplissement de leurs missions respectives se font par une ligne téléphonique réservée ou par une liaison radiophonique, dans des conditions définies d'un commun accord par leurs responsables.
 
