@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206320
+
+- Question : [SEQ980206320](seq980206320.md) — Tarification du gaz
+
+## Réponse
+
+*Économie, JO du 1998-04-23, page 1322*
+
+Réponse. - L'auteur de la question considère que l'augmentation récente des tarifs domestiques du gaz serait contraire au principe de tarification au prix de revient qui résulterait, selon lui, de la loi de nationalisation de 1946. La tarification du gaz repose effectivement sur le prix de revient. Or en 1997 les prix d'importation du gaz, composante importante du prix de vente à l'usager, ont connu une forte hausse qui a été répercutée dans le prix appliqué au consommateur final. C'est le contrat d'objectifs entre l'Etat et Gaz de France (GDF) qui prévoit la répercussion des hausses et des baisses de coût, par le biais d'une formule tarifaire prédéterminée et transparente. Sans ce mécanisme, le bénéfice de l'établissement serait trop dépendant de la conjoncture des matières importées : il fluctuerait exagérément d'une année à l'autre, sans refléter les performances internes de GDF. Sur le fond, il est nécessaire que GDF réalise des bénéfices, qui permettent à l'établissement d'effectuer de nouveaux investissements, de se désendetter, et de rémunérer l'Etat comme il se doit. Mais le contrat d'objectifs se préoccupe en premier lieu des usagers en prévoyant que les gains de productivité soient répartis à parts égales entre le consommateur et l'entreprise et, que, en tout état de cause, dans les tarifs aux clients domestiques, la part constituée par les " coûts propres " de Gaz de France (coût global du gaz hors matières importées) décroîtra en 1997, 1998 et 1999 d'au moins 1,6 % par an en francs constants. En 1998, ce mécanisme de fixation des prix devrait être particulièrement favorable au consommateur, compte tenu de la baisse des cours des hydrocarbures.
