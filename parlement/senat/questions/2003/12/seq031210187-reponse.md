@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210187
+
+- Question : [SEQ031210187](seq031210187.md) — Qualité des eaux de baignade
+
+## Réponse
+
+*Tourisme, JO du 2004-03-04, page 543*
+
+Le groupe de travail, piloté par le secrétariat d'Etat au tourisme, s'est réuni mensuellement depuis sa création le 27 juin 2003. L'Etat affirme ainsi sa position sur sa mission de communication en direction de l'usager sur la qualité des eaux. L'objectif du groupe de travail est de mettre concrètement en oeuvre pour la saison 2004 un système d'information du public compréhensible et lisible par tous, y compris par des touristes étrangers, si ce n'est sur les 3 500 lieux de baignade en France, au moins sur une grande partie de ces lieux choisis pour tester le dispositif. Celui-ci s'inscrit dans l'esprit de la directive européenne en cours de révision, qui vise à améliorer les normes sanitaires et la protection des baigneurs et à rendre la gestion des eaux plus efficace. Un plan d'actions prévoit avant la saison estivale une campagne de communication qui, d'une part, insisterait sur les mesures préventives mises en oeuvre par les autorités locales au regard du bilan de la saison précédente et, d'autre part, viserait à promouvoir le site Internet du ministère chargé de la santé, offrant une information en temps réel sur l'état des zones de baignade pour l'année en cours. Par ailleurs, un dispositif d'information du public, dont la conception est en cours de réalisation, serait proposé aux collectivités et mis en place par leurs soins pour la durée de la saison estivale. Une circulaire interministérielle devrait en fonder les principes et recommanderait aux collectivités locales un référentiel commun qui énoncerait les principes qualitatifs de base à mettre en oeuvre, de préférence dans un cadre intercommunal pour mutualiser les énergies et les moyens.
