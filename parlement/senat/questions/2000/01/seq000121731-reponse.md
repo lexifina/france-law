@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000121731
+
+- Question : [SEQ000121731](seq000121731.md) — Fiscalité applicable au secteur des entrepreneurs de spectacles
+
+## Réponse
+
+*Économie, JO du 2000-04-06, page 1259*
+
+Réponse. - La circulaire administrative 4 H-5-98 publiée le 15 septembre 1998 au Bulletin officiel des impôts a précisé le régime fiscal des associations. Elle est très largement inspirée des conclusions d'un rapport demandé par le Premier ministre à un membre du Conseil d'Etat, M. Goulard, et elle conforte le principe selon lequel les associations à but non lucratif dont la gestion est désintéressée sont exonérées des impôts commerciaux (taxe sur la valeur ajoutée, impôt sur les sociétés et taxe professionnelle). Elle précise les conditions dans lesquelles une association peut être soumise à ces impôts commerciaux lorsqu'elle exerce une activité en concurrence avec des entreprises. Les entreprises privées et les associations qui exercent la même activité dans les mêmes conditions d'exercice sont donc désormais soumises aux mêmes impôts commerciaux. En ce qui concerne plus particulièrement les associations exerçant dans le domaine du spectacle vivant, une fiche a été établie par la Direction générale des impôts en concertation avec le ministère de la culture et de la communication et des représentants des associations du secteur, qui permet d'orienter l'analyse vers l'assujettissement des structures professionnelles, sauf circonstances particulières, et vers le non-assujettissement des structures caractérisées par la pratique en amateur même si ces dernières font appel épisodiquement à des professionnels dès lors que le volume des activités payantes reste faible et que l'activité demeure occasionnelle. Ces dispositions répondent aux préoccupations exprimées par l'auteur de la question.
