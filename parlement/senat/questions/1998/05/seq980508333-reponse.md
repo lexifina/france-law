@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508333
+
+- Question : [SEQ980508333](seq980508333.md) — Coopération économique et sociale entre les collectivités locales riveraines de l'aéroport de Roissy
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2707*
+
+Réponse. - Le rapport du sénateur Lachenaud préconise la création d'un fonds de solidarité pour l'environnement dont l'objet serait de contribuer au financement de projets de nature à favoriser le développement économique et l'amélioration de l'environnement des communes riveraines de l'aéroport de Charles-de-Gaulle. Ce fonds serait alimenté par un prélèvement sur la taxe professionnelle des collectivités locales et une taxe sur le transport aérien. La première ressource permet de redistribuer une part du produit de la croissance économique induite par l'aéroport, essentiellement concentré sur les communes limitrophes ; la seconde marque la reconnaissance des contraintes qu'apporte le transport aérien et s'apparente au principe pollueur-payeur. Toutefois le prélèvement sur la taxe professionnelle ne pourra être mis en uvre que dans le cadre des projets de loi réformant la taxe professionnelle et de celui relatif à l'organisation urbaine et à la simplification de la coopération intercommunale. Les dispositions qui sont soumises au Parlement sont actuellement en cours d'élaboration. Par ailleurs, le projet de loi relatif à la création d'une autorité indépendante pour la maîtrise des nuisances sonores va être prochainement déposé au Parlement. Le bilan supplémentaire mis à la rédaction de ce projet résulte du fait qu'il intègre des propositions faites à l'occasion de l'élaboration de la charte de qualité de l'environnement sonore, notamment en ce qui concerne l'articulation entre l'autorité indépendante et les commissions consultatives de l'environnement.
