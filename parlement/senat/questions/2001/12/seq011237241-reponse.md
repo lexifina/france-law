@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237241
+
+- Question : [SEQ011237241](seq011237241.md) — Conditions de transport des produits sanguins
+
+## Réponse
+
+*Santé, JO du 2002-03-28, page 936*
+
+Le texte applicable en matière de transport des produits sanguins labiles est l'arrêté du 4 août 1994 portant homologation du règlement de l'Agence française du sang relatif aux bonnes pratiques de distribution des produits sanguins labiles. L'expression " transport des produits sanguins labiles " (PSL) recouvre deux réalités très différentes : d'une part, le transport du produit entre les différents sites de l'Etablissement français du sang (EFS) et de ceux-ci vers les dépôts de PSL et, d'autre part, l'acheminement des PSL commandés par les établissements publics ou privés de santé. Sur la base des bonnes pratiques, l'EFS a organisé le transport des PSL entre les sites de collecte et de préparation ou entre les sites de préparation et les sites de distribution ou les dépôts en les confiant, sur la base de marchés publics, à des prestataires qualifiés. Lors de la distribution, le personnel de l'EFS s'assure des conditions de température dans lesquelles les produits commandés par les établissements de santé vont être acheminés mais il faut remarquer que l'EFS ne dispose d'aucune compétence pour contraindre les établissements publics ou privés de santé d'utiliser tel ou tel mode de transport. Cela étant, l'hémovigilance ne fait pas apparaître d'incidents suspects qui traduiraient des altérations de PSL consécutives à de mauvaises conditions de transport. L'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) travaille actuellement à la rédaction de bonnes pratiques de transport qui, en l'état du projet, seraient applicables à l'Etablissement français du sang mais aussi aux établissements de santé juridiquement responsables de l'acheminement des produits qu'ils viennent chercher dans les sites de distribution de l'EFS.
