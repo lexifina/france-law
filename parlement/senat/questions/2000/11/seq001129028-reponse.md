@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129028
+
+- Question : [SEQ001129028](seq001129028.md) — Rémunération des coopérants du service national
+
+## Réponse
+
+*Coopération, JO du 2000-12-21, page 4363*
+
+Réponse. - L'indemnité globale attribuée aux coopérants du service national (CSN) comprend, d'une part, un élément commun à tous les postes, indexé sur l'évolution du point de la fonction publique et, d'autre part, un élément variable selon les pays, actualisé dans le cadre du mécanisme change-prix. Ce mécanisme qui a pour but de maintenir le pouvoir d'achat des expatriés est appliqué à l'ensemble des agents de l'Etat en poste à l'étranger, y compris les CSN. Son système de calcul prend en compte, chaque trimestre, les évolutions des taux de change moyens pondérés communiqués par la direction du Trésor et le différentiel d'inflation entre la France et le pays de résidence. Ainsi, l'indemnité totale versée aux CSN en poste à New-York a progressé de 16,80 % entre septembre 1999 et septembre 2000, soit - au 1er septembre 1999 un montant d'indemnité de 11 377,48 francs se décomposant comme suit, élément commun : 4 078,93 francs, élément variable : 7 298,55 francs, - au 1er septembre 2000 un montant d'indemnité de 13 287,84 francs se décomposant comme suit, élément commun : 4 139,26 francs, élément variable : 9 148,58 francs. L'élément commun et l'élément variable ont respectivement évolué sur cette période de p 1,48 % et p 25,35 %. En ce qui concerne le régime de rémunération des futurs volontaires affectés à l'étranger, leurs émoluments comprendront une indemnité mensuelle uniforme égale à 50 % de la rémunération afférente à l'indice brut 244, soit 3 523 francs au 1er septembre 2000 à laquelle s'ajoutera une indemnité supplémentaire fixée par pays. L'indemnité supplémentaire servie aux futurs volontaires sera ajustée selon le mécanisme change-prix décrit ci-dessus, dans les mêmes conditions que la part variable de l'indemnité attribuée aux CSN.
