@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306062
+
+- Question : [SEQ030306062](seq030306062.md) — Régime d'assujettissement à la TVA des opérations d'acquisition foncière effectuées par les SAEM
+
+## Réponse
+
+*Économie, JO du 2003-06-26, page 2087*
+
+L'article 40 de la loi de finances pour 1999 exclut du champ d'application de la TVA immobilière les acquisitions de terrains effectuées par les personnes physiques en vue de la construction d'immeubles affectés à un usage d'habitation. Le législateur a toutefois offert la possibilité aux collectivités locales et à leurs groupements de soumettre, sur option, les cessions de terrains à la TVA sur le prix de vente total (art. 257-7° -1-a du code général des impôts). Dans la situation évoquée par le parlementaire où des sociétés d'aménagement d'économie mixte (SAEM) envisagent de vendre des terrains viabilisés à des particuliers, la question posée appelle une réponse négative dès lors que les sociétés d'économie mixte ne sont pas visées en tant que telles par l'article précité. La circonstance que les acquisitions de terrains à bâtir réalisées, dans les conditions prévues à l'article 1042 du code déjà cité, par les sociétés d'économie mixte à participation publique majoritaire qui agissent en tant que concessionnaires d'opérations d'aménagement ou de service public soient exonérées de TVA est sans incidence sur le régime applicable à la vente des terrains à des personnes physiques en vue de la construction d'immeubles que ces personnes affectent à un usage d'habitation. Dans cette situation, la vente de ces terrains par les sociétés d'économie mixte d'aménagement sera soumise à la TVA sur la marge en application de l'article 257 (6°) du même code, indépendamment du régime fiscal qui aura été appliqué à l'acquisition du terrain. L'application du régime de la marge permet à la SAEM d'opérer la déduction de la taxe grevant les dépenses d'aménagement des terrains concernés.
