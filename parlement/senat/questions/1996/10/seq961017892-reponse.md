@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017892
+
+- Question : [SEQ961017892](seq961017892.md) — Mauvaises conditions de travail des infirmières en milieu scolaire
+
+## Réponse
+
+*Éducation, JO du 1997-04-03, page 1036*
+
+Réponse. - Le décret no 94-1020 du 23 novembre 1994 portant dispositions statutaires applicables aux corps des infirmières et infirmiers des administrations de l'Etat prévoit, dans son article 1er, que les corps régis par ce décret sont classés en catégorie B ; l'accès de certains de ces personnels en catégorie A n'est actuellement pas envisagé. La rémunération des personnels infirmiers du corps particulier de l'éducation nationale est déterminée en fonction d'un arrêté en date du 23 novembre 1994 qui fixe l'échelonnement indiciaire applicable aux infirmières et infirmiers des services médicaux des administrations de l'Etat. Cette grille indiciaire est à présent commune à l'ensemble des infirmiers des trois fonctions publiques. En revanche, les personnels infirmiers exerçant en milieu hospitalier bénéficient d'un régime indemnitaire distinct de celui des personnels infirmiers de la fonction publique de l'Etat, qui perçoivent des indemnités horaires et forfaitaires pour travaux supplémentaires, versées à une part importante des personnels exerçant dans la fonction publique de l'Etat. Le montant de ces indemnités est fixé conjointement par les ministres chargés de la fonction publique et du budget. Concernant les obligations de services et le régime de congés des infirmiers de santé scolaire, ils sont nettement plus favorables que ceux applicables à l'ensemble des personnels de l'Etat, que ces agents exercent en secteur ou en établissement. Il convient enfin de préciser que les personnels infirmiers de la fonction publique de l'Etat font partie des corps qui ont connu la plus forte revalorisation indiciaire ces dernières années.
