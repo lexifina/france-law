@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011382
+
+- Question : [SEQ981011382](seq981011382.md) — Expérimentation de la télétransmission pour la délivrance des cartes grises menée en partenariat avec les constructeurs automobiles
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-22, page 1335*
+
+Réponse. - Conformément aux orientations du programme gouvernemental sur la société de l'information, l'utilisation des NTIC dans les services de l'Etat doit contribuer à améliorer leur fonctionnement interne ainsi que le service rendu aux usagers. Une gestion modernisée des cartes grises s'inscrit dans cette perspective. Il s'agit là d'une activité importante en préfecture. Les nouvelles technologies doivent permettre à ces dernières d'instaurer un meilleur partenariat avec les opérateurs (constructeurs, loueurs...) et d'offrir un service de qualité aux usagers individuels. En matière de téléprocédure afférente à l'immatriculation des véhicules, le ministère de l'intérieur poursuit une expérimentation avec le constructeur PSA pour l'ensemble de son réseau commercial, qui représente 30 % du marché en France. Ce projet, qui concerne toutes les préfectures, a pour principaux objectifs la réduction des délais et la fiabilisation des informations échangées. Il devrait être étendu aux autres constructeurs. Des échanges informatisés sont prévus également avec les loueurs de véhicules pour les déclarations d'achat, avec la comptabilité publique pour les inscriptions et les levées d'opposition, ainsi qu'avec les banques s'agissant de données sur les gages et des renseignements sur l'assuré. En ce qui concerne le grand public, les formulaires de certificat d'immatriculation des véhicules sont désormais disponibles sur Internet dans certains départements, ce qui permet d'accélérer leur délivrance (ex. : préfecture de l'Isère).
