@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902581
+
+- Question : [SEQ020902581](seq020902581.md) — Périodicité des visites de sécurité des établissements recevant du public
+
+## Réponse
+
+*Intérieur, JO du 2002-12-05, page 2988*
+
+L'honorable parlementaire attire l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les conséquences de l'arrêté du 19 novembre 2001 prescrivant la vérification annuelle des installations électriques de tous les établissements recevant du public. En raison du coût récurrent supporté par les communes du fait de cette réglementation et également eu égard à la périodicité très rapprochée de ces vérifications, il s'interroge sur l'opportunité de fixer à trois ans les visites de sécurité des établissements recevant du public. S'agissant d'une réglementation adoptée récemment, il convient de disposer du recul nécessaire pour en évaluer l'impact et les conditions de mise en oeuvre. Quant à la durée des travaux, elle n'est pas nécessairement inférieure à une année. De plus, le déroulement de ceux-ci ne fait aucunement obstacle à une nouvelle visite. Le ministre de l'intérieur, de la sécurité intérieure et des libertés locales tient à lui signaler que le cas de travaux se déroulant sur plus d'une année, en matière d'installations électriques, semble toutefois exceptionnel. En effet, ce cas concernerait plus spécifiquement les établissements que l'honorable parlementaire estime lui-même relever d'une périodicité annuelle. La vérification des installations électriques de l'année suivante peut, en tout état de cause, prendre acte des travaux en cours. Par ailleurs, une visite spéciale de réception peut être organisée à la fin de ces travaux. Dans ces conditions, il ne parait pas nécessaire de porter à trois ans le laps de temps entre deux vérifications des installations électriques dans les établissements recevant du public.
