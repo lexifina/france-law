@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003304
+
+- Question : [SEQ021003304](seq021003304.md) — Augmentation des frais d'écolage du lycée français Jean Monnet de Bruxelles
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-02-13, page 539*
+
+Depuis la question du 21 février 2002 posée par l'honorable parlementaire, le contexte en Belgique n'a pas évolué. L'AEFE a autorisé le lycée Jean-Monnet de Bruxelles à augmenter ses frais de scolarité de 5 % à la rentrée 2002-2003. Le lycée de Bruxelles est en effet tenu, comme tout établissement public, au respect de l'équilibre budgétaire, ce qui sera acquis grâce à cette augmentation. Il faut noter que celle-ci intervient après trois années de faible augmentation (1999 : 1 %, 2000 : 1 %, 2001 : 0 %) et qu'elle se situe largement en dessous du taux d'inflation constatée en Belgique (en 2001 : + 3,07 %). Au total, sur une période de 6 ans, les droits de scolarité ont augmenté de 11,17 % pour une inflation de 12,68 %. On peut donc considérer qu'ils ont été maintenus à un niveau acceptable pour les familles. L'établissement doit, d'autre part, faire face à l'accroissement de la masse salariale, suite aux mesures entrées en application à la rentrée 2002 concernant les emplois. L'AEFE a dû procéder à des redéploiements de supports budgétaires en donnant la priorité aux établissements qui présentent un déficit important en personnels titulaires. Or le lycée Jean-Monnet, avec 80 personnels détachés, est fortement doté au sein du réseau. L'Agence est néanmoins consciente de la charge supplémentaire que cette augmentation des droits de scolarité, même très mesurée, fait peser sur les familles. C'est pourquoi, afin de garantir leur stabilité, elle a engagé le chef d'établissement à une vigilance accrue quant à l'organisation administrative et pédagogique du lycée.
