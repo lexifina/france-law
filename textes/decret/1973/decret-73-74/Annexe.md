@@ -32,7 +32,7 @@ Affections gastro-intestinales.
 
 Sauf preuve contraire, est imputable par preuve toute colite vraie présentant des signes bactériologiques ou coprologiques ou radio­logiques ou endoscopiques, constatée dans les huit ans qui ont suivi la libération
 
-Taux d'invalidité : 20à 70 p. 100.
+Taux d'invalidité : 20 à 70 p. 100.
 
 Sauf preuve contraire, est imputable par preuve toute colite vraie constatée dans les dix ans qui ont suivi la libération du prisonnier de guerre détenu en Asie :
 
@@ -51,3 +51,75 @@ Taux d'invalidité : 20 à 100 p. 100.
 Sauf preuve contraire, l'imputabilité des spondylarthrites ankylo­santes et polyarthrites chroniques évolutives constatées dans ce même délai de quatre ans sera admise par preuve :
 
 Taux d'invalidité : 30 à 100 p. 100.
+
+Asthénie.
+
+Sauf preuve contraire, l'imputabilité de l'asthénie à la captivité sera reconnue dans les conditions fixées par le décret n° 53-438 du 16 mai 1953.
+
+Affections carentielles.
+
+Sauf preuve contraire, est imputable par preuve l'édenture par­tielle ou totale à condition qu'elle soit reconnue d'origine caren­tielle et constatée dans les dix ans suivant la libération ou le rapatriement.
+
+Affections cardio-artérielles.
+
+Sauf preuve contraire, est imputable par preuve l'hypertension artérielle primitive permanente constatée moins de dix ans après leur libération ou leur rapatriement chez les prisonniers de guerre âgés de moins de cinquante-cinq ans au moment de la première constatation de cette affection :
+
+Taux d'invalidité : 15 à 100 p. 100
+
+Sauf preuve contraire, et en l'absence de facteur étiologique hors captivité, est imputable par preuve toute coronarite constatée moins de dix ans après leur libération ou leur rapatriement chez les prisonniers de guerre âgés de moins de cinquante-cinq ans au moment de la première constatation de cette affection :
+
+Taux minimum : 30 p. 100.
+
+Sauf preuve contraire, est imputable par preuve :
+
+Toute artérite constatée moins de dix ans après leur libération ou leur rapatriement chez les prisonniers de guerre âgés de moins de cinquante-cinq ans au moment de la première constatation de cette affection ;
+
+Toute artérite survenant chez un ancien typhique (l'affection ayant été effectivement constatée au cours de la captivité ou pouvant être prouvée par des examens-biologiques}
+
+Taux minimum : 15 p. 100.
+
+Affections gynécologiques.
+
+Sauf preuve contraire, est imputable par preuve toute affection gynécologique d'origine infectieuse chronique ou endocrinienne ou traumatique constatée sur une captive dans les dix ans suivant la libération ou le rapatriement.
+
+Affections d'origine endocrinienne.
+
+Sauf preuve contraire, est imputable par preuve tout goitre exo­phtalmique constaté chez un ancien prisonnier de guerre dans le délai de cinq ans suivant la libération ou le rapatriement :
+
+Taux d'invalidité : 10 à 50 p. 100.
+
+Sauf preuve contraire, est imputable par preuve toute maladie d'Addison ou toute insuffisance surrénale constatée chez un ancien prisonnier de guerre dans le délai de cinq ans suivant la libération ou le rapatriement :
+
+Taux d'invalidité : 20 à 100 p. 100.
+
+Pathologie exotique des prisonniers de guerre.
+
+Sauf preuve contraire, est imputable par preuve toute amibiase chronique présentant des signes cliniques ou parasitologiques ou endoscopiques indiscutables constatée chez un prisonnier de guerre dans les dix ans qui ont suivi sa libération :
+
+Taux d'invalidité : 10 à 60 p. 100.
+
+Sauf preuve contraire, est imputable par preuve tout paludisme chronique présentant des signes parasitologiques ou sérologiques indiscutables constaté chez un prisonnier de guerre dans les dix ans qui ont suivi sa libération :
+
+Taux d'invalidité : 10 à 60 p. 100.
+
+III. - COMMISSION SPÉCIALE CONSULTATIVE
+
+Une commission spéciale sera chargée d'exprimer un avis sur les conditions d'imputabilité dans les cas litigieux et pourra, à cet effet, être saisie soit par, l'administration, soit par les intéressés eux-mêmes.
+
+Cette commission sera ainsi composée :
+
+Le directeur des pensions du secrétariat d'Etat aux anciens com­battants ou son suppléant ;
+
+Le président de la commission consultative médicale ou son sup­pléant ;
+
+Le président de la commission de réforme spéciale des déportés et internés résistants et politiques ou son suppléant ;
+
+Un médecin ancien prisonnier de guerre détenu dans l'un des camps de représailles ou son suppléant, désigné par le secrétaire d'Etat sur une liste établie par les associations concernées ;
+
+Un médecin ancien interné au camp de Tambow ou dans l'un de ses camps annexes ou son suppléant, désigné par le secrétaire d'Etat sur une liste établie par les associations concernées ;
+
+Le président de cette commission sera nommé par arrêté conjoint du secrétaire d'Etat aux anciens combattants et du ministre, de l'économie et des finances.
+
+Le demandeur pourra, s'il le désire, être entendu et être soit assisté d'un conseiller de son choix, soit représenté par celui-ci.
+
+Cette commission devra prendre connaissance de tous documents ou témoignages portant sur les conditions de la captivité, de l'internement ou de la détention présentés par l'intéressé ou en son nom.
