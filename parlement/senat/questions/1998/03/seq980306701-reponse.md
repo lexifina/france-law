@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306701
+
+- Question : [SEQ980306701](seq980306701.md) — Reconversion professionnelle des enseignants
+
+## Réponse
+
+*Éducation, JO du 1998-05-07, page 1472*
+
+Réponse. - Les travaux de la table ronde " Pas de classe sans enseignant ", conduits par le recteur Bloch, visaient à définir les principes d'organisation et de gestion permettant de faire face au remplacement. Ils ont fait l'objet d'un rapport remis au ministre en février dernier. L'une des recommandations formulées s'inscrit dans le souci de faciliter la reconversion professionnelle des enseignants. En tout état de cause, le principe même de cette reconversion est déjà acquis. En effet, les enseignants peuvent aujourd'hui bénéficier de congés tant rémunérés que non indemnisés pour se réorienter sur le plan professionnel. S'agissant des congés rémunérés, ils peuvent, à l'instar de l'ensemble des fonctionnaires, et conformément au décret no 85-607 du 14 juin 1985 relatif à la formation professionnelle des fonctionnaires de l'Etat, prétendre, sous réserve de remplir des conditions d'ancienneté, au congé de formation professionnelle. Ce congé, de trois ans pour l'ensemble de la carrière, est indemnisé durant la première année à hauteur de 85 % du traitement afin de parfaire la formation professionnelle initiale. Les enseignants peuvent en outre être placés en position de non-activité en vue de poursuivre ou de parfaire des études d'intérêt professionnel, dans la limite de cinq années pendant l'ensemble de la carrière. Ils peuvent enfin, au même titre que tout agent titulaire, bénéficier, en application du décret no 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions, de disponibilités, de nature différente, leur permettant de se consacrer à l'exercice d'autres activités.
