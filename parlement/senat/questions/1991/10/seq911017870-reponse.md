@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017870
+
+- Question : [SEQ911017870](seq911017870.md) — Effectifs de la brigade des sapeurs-pompiers de Paris
+
+## Réponse
+
+*Intérieur, JO du 1992-03-19, page 684*
+
+Réponse. - Les sapeurs-pompiers de Paris effectuent quotidiennement un nombre important d'interventions avec une compétence, un courage et une disponibilité unanimement salués. Il n'est évidemment pas dans les intentions du Gouvernement de réduire les effectifs de la brigade. Seule une difficulté de technique budgétaire peut expliquer une telle rumeur. Le niveau de la participation de l'Etat au financement de la brigade des sapeurs-pompiers de Paris, fixé par l'article 394-5 du code des communes, s'élève à 37,5 p. 100 des dépenses de fonctionnement. Toutes les mesures intervenant en cours d'année doivent donc faire l'objet d'un abondement de crédits en loi de finances rectificative. Ainsi, l'insuffisance des crédits d'Etat inscrits en loi de finances initiale pour 1991, apparue en cours d'exécution, a été bien évidemment corrigée dès la loi de finances rectificative pour 1991. 25 MF ont été inscrits pour que soit rétabli l'équilibre financier du budget de la brigade. Dans ce contexte, le niveau des effectifs a été constant. En 1992 les crédits inscrits en loi de finances initiale ont permis de consolider l'ajustement réalisé par la loi de finances rectificative 1991, puisque 19,8 MF de mesures nouvelles ont été inscrits. Par ailleurs, les actualisations sur crédits de rémunération et d'indemnités - application des accords Durafour - ; revalorisation de l'indemnité pour charges militaires qui représentent un montant prévisionnel de 20 MF ; seront réalisées en LFR 1992. Ce besoin de crédit supplémentaire pour les personnels de la BSPP sera également consolidé dans la loi de finances initiale de 1993.
