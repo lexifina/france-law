@@ -1,5 +1,0 @@
-# Article 23 : Droits des enfants lorsque le conjoint survivant n'a pas de droits immédiats
-
-a) Si le parent (père ou mère) survivant est déchu de l'autorité parentale, ses enfants âgés de moins de 21 ans sont considérés comme orphelins de père et de mère, leurs droits sont alors ceux prévus à l'article 26 et dans ce cas le conjoint survivant bénéficie de la pension de réversion au plus tôt à compter du jour où le dernier enfant atteint son vingt et unième anniversaire.
-
-b) Lorsque le veuf ne peut immédiatement prétendre, en raison de son âge, à la pension prévue aux articles 21 et 22, le ou les enfants de moins de 21 ans de l'agent décédé ont droit à ladite pension, dans les conditions prévues à l'article 26 b, dès le décès de leur mère et jusqu'à leur vingt et unième anniversaire, sauf si entre-temps le veuf devient bénéficiaire de ladite pension.

@@ -1,9 +1,0 @@
-# Article 7 : Constitution des droits
-
-Les cotisations annuelles (et les cotisations éventuelles supplémentaires de rachat) versées par les entreprises servent à l'acquisition de points.
-
-Le nombre de points attribué pour un exercice est égal au rapport du montant des cotisations relatives à cet exercice, versé avant le 31 mars de l'exercice suivant, à la valeur d'acquisition du point défini ci-après, correspondant à l'exercice.
-
-Les points acquis sont inscrits au compte individuel de chaque participant ; un relevé de compte annuel adressé par l'institution à l'adhérent, totalise exercice par exercice les points acquis.
-
-En cas de départ de l'entreprise adhérente d'un participant avant l'âge de la retraite, les points inscrits à son compte continuent de bénéficier intégralement des valorisations ultérieures de la valeur de service.

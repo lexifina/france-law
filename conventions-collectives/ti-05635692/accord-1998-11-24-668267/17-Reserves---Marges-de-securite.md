@@ -1,5 +1,0 @@
-# Article 17 : Réserves - Marges de sécurité
-
-Il sera constitué au titre de la présente section les réserves et marges prévues par la législation et la réglementation en vigueur et dans les conditions prévues par celle-ci.
-
-Le conseil d'administration, au titre de la présente section, pourra passer éventuellement des accords de collaboration, de gestion ou de garantie avec d'autres organismes habilités.
