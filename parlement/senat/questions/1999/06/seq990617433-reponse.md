@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617433
+
+- Question : [SEQ990617433](seq990617433.md) — Harmonisation des réglementations dans la zone euro en matière de protection de l'épargne
+
+## Réponse
+
+*Économie, JO du 1999-12-09, page 4060*
+
+Réponse. - L'harmonisation de la réglementation européenne dans le domaine des services financiers, et tout particulièrement en matière de protection de l'épargne, est au c ur des préoccupations du Gouvernement. L'émergence d'un marché unifié des capitaux en Europe soulève en effet de très importantes questions d'ordre réglementaire et rend indispensable une harmonisation renforcée des législations des pays membres. Le ministre de l'économie, des finances et de l'industrie a souhaité sensibiliser ses partenaires européens ainsi que la Commission sur ce sujet en leur remettant en novembre 1998 un mémorandum relatif au marché unique des services financiers. Depuis cette date, la France participe activement aux travaux d'un groupe à haut niveau sur les services financiers qui a pour vocation de suivre la mise en uvre du plan d'action pour les services financiers préparé par la Commission et approuvé par le conseil Ecofin le 25 mai 1999. Dans ce cadre, la France a rappelé l'urgence d'une harmonisation réglementaire européenne fondée sur quatre piliers : permettre une allocation optimale de l'épargne à l'échelle européenne, par la diversification des portefeuilles des investisseurs et l'accès des émetteurs à une base élargie d'investisseurs ; faciliter les opérations transfrontières au sein de l'Union européenne ; garantir un accès au marché aisé et au moindre coût pour les émetteurs et assurer la plus grande liquidité sur le marché des titres ; garantir un haut niveau de protection pour les épargnants. La France participe donc activement aux travaux d'harmonisation du régime de protection de l'épargne en Europe et agit pour que ceux-ci aboutissent dans les meilleurs délais.
