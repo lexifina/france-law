@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119672
+
+- Question : [SEQ920119672](seq920119672.md) — Utilisation des systèmes de retenue pour les enfants dans les automobiles
+
+## Réponse
+
+*Transports, JO du 1992-06-04, page 1272*
+
+Réponse. - Il convient d'abord de préciser que la réglementation ne rend obligatoire l'utilisation d'un dispositif de retenue qu'aux places équipées de ceinture. Si les places centrales arrière des voitures françaises sont rarement équipées de ceinture, elles possèdent toutes, depuis le 1er avril 1970 des ancrages permettant de monter une ceinture ventrale deux points : ceux qui le désirent ont donc la possibilité de se protéger. Par ailleurs, dans le domaine de la construction des véhicules, la France est totalement tributaire de la Communauté économique européenne. La directive CEE actuellement en vigueur ne permet pas d'imposer une ceinture à la place centrale arrière si les places latérales arrière sont équipées de ceinture trois points. Le Gouvernement français a soutenu la proposition de modification de la directive actuellement en vigueur pour permettre l'équipement à l'arrière d'une ceinture ventrale centrale avec deux ceintures latérales à trois points. Concernant les dangers de l'usage du réhausseur dont fait état l'honorable parlementaire, il y a lieu de signaler que ce dispositif qui ne se justifie qu'avec une ceinture trois points a pour seul et unique but, en rehaussant l'enfant, d'empêchet précisément les risques d'étranglement que pourrait occasionner l'utilisation de la seule ceinture de sécurité. Ce dispositif dont l'homologation garantit l'efficacité est prévu pour protéger les enfants de plus de quinze kilos correspondant à une classe d'âge de trois/quatre ans à dix ans. Toutefois, l'usage de ce dispositif n'est pas obligatoire si la taille de l'enfant est adaptée au port de la ceinture adulte, le critère étant que la sangle diagonale ne passe pas sur le cou de l'enfant.
