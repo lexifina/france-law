@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509775
+
+- Question : [SEQ900509775](seq900509775.md) — Dépôt du projet de loi relatif aux nuisances sonores des aérodromes
+
+## Réponse
+
+*Équipement, JO du 1990-12-20, page 2702*
+
+Réponse. - L'aide financière aux riverains d'aérodromes les plus exposés aux nuisances phoniques aéronautiques ne constitue qu'un des aspects du projet législatif relatif à la réparation des dommages dus au bruit des aéronefs au voisinage des aérodromes. Ce projet comporte deux aspects : la première partie est relative à l'adaptation du régime de responsabilité en matière de bruit au voisinage des aéroports instauré par la jurisprudence de l'article L.141-2. Le Conseil d'Etat par décision du 6 février 1987 a en effet condamné Aéroports de Paris à rembourser à plusieurs compagnies aériennes les indemnités qu'elles avaient dû verser à la commune de Villeneuve-le-Roi à la suite du jugement de la cour d'appel de Paris du 9 mars 1979. La mise en conformité du régime de responsabilité avec cette importante décision est donc devenue indispensable ; la deuxième partie du projet se propose de refondre et d'étendre le système d'aide des riverains aux principaux aéroports commerciaux français. Un tel projet prévu dès 1984 n'a pu être mis en oeuvre plus tôt en raison du recours devant le Conseil d'Etat qui a abouti le 13 novembre 1987 à l'annulation des décrets n° 84-28 et n° 84-29 du 11 janvier 1984 au motif que l'aide aux riverains d'aérodrome ne pouvait être financée au moyen d'une redevance payée par les transporteurs aériens. Le projet de loi reprend les dispositions des décrets de 1984 en transformant cette redevance en taxe fiscale. Il est prévu d'asseoir cette taxe sur la classification acoustique des aéronefs et de la majorer lorsque le mouvement d'aéronef est nocturne. Ce projet législatif fait actuellement l'objet de consultations auprès des différents ministères concernés et sera ensuite présenté au Parlement.
