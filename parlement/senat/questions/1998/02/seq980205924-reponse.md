@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205924
+
+- Question : [SEQ980205924](seq980205924.md) — Publication du décret montagne et élevage
+
+## Réponse
+
+*Agriculture, JO du 1998-10-29, page 3438*
+
+Réponse. - La loi du 9 janvier 1985 relative au développement et à la protection de la montagne et ses décrets d'application de 1988 avaient précisé les conditions et les modalités selon lesquelles pouvaient être utilisés le terme montagne et les références géographiques spécifiques aux zones de montagne. L'autorisation était accordée par arrêté des ministres chargés de l'agriculture et de la consommation. Cette loi a fait l'objet de deux modifications successives le 3 janvier 1994 et le 1er février 1995. Dans un arrêté rendu le 7 mai 1997, la Cour de justice des communautés européennes a estimé que la loi montagne était source d'entraves potentielles aux échanges au regard de l'article 30 du traité et était, de ce fait, contraire au droit communautaire. Le Gouvernement entend bien maintenir un dispositif très rigoureux pour l'utilisation du terme montagne. Un modification de la loi est cependant nécessaire afin de clarifier le texte au regard des produits importés. Cette clarification est inscrite dans le projet de loi d'orientation agricole transmis au Parlement. Le projet de loi vise tout d'abord à préciser que la procédure d'autorisation pour l'utilisation de l'appellation " montagne " ne s'applique qu'aux produits fabriqués en France et que pour les produits transformés, l'utilisation de matières premières provenant de zones de montagne d'autres Etats de l'Union européenne sera admise. Par ailleurs, l'existence des protections communautaires concernant les appellations d'origine protégées et les indications géographiques protégées, permet d'assurer la protection des dénominations géographiques.
