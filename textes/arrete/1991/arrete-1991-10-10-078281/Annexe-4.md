@@ -40,7 +40,7 @@ Le candidat tire au sort une fiche établie par le ministère chargé des Transp
 
 |
 
-• Un représentant de l'administration pratiquant régulièrement, dans le cadre de ses fonctions, la conduite des motocyclettes.
+• Un représentant de l'administration ayant dans le cadre de ses fonctions une activité liée à la conduite des motocyclettes.
 
 |
 
