@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310570
+
+- Question : [SEQ950310570](seq950310570.md) — Formulaires administratifs et réduction des dépenses de l'Etat
+
+## Réponse
+
+*Premier ministre, JO du 1995-05-10, page 1086*
+
+Réponse. - S'agissant des imprimés relatifs à l'état civil, envoyés par l'INSEE aux mairies, il est exact qu'ils sont renouvelés chaque année mais les raisons sont les suivantes : sur l'ensemble des neuf imprimés, il y a presque chaque année une modification de détail affectant au moins l'un d'entre eux ; il paraît donc plus expédient de tous les renouveler tous les ans ; cette procédure permet à l'INSEE de reprendre contact chaque année avec toutes les communes, ce qui limite le risque que certaines oublient de lui retourner les imprimés remplis ; le gaspillage est peu important, chaque mairie étant alimentée selon le nombre de documents remplis pendant l'année écoulée ; du reste, au dernier trimestre, il n'est pas rare que les directions régionales reçoivent des demandes de réapprovisionnement ; enfin, la dématérialisation des documents d'état civil est en cours et progresse assez rapidement ; si, aujourd'hui, 35 p. 100 des actes sont transmis sans support papier, il est prévu que cette proportion atteigne 80 p. 100 en l'an 2000. En revanche, pour ce qui est de la demande d'inscription à l'examen du permis de chasser, il est vrai que le renouvellement annuel du formulaire ne s'impose pas. Il est simplement lié au fait que figurent sur celui-ci les dates d'examen et le montant des droits pour l'année en cours. Ces indications pourraient faire l'objet d'une circulaire adressée annuellement aux mairies et rien n'interdit que le millésime soit inscrit par chaque candidat sur l'imprimé, ce qui permettrait de conserver ce dernier plusieurs années (il n'a pas été modifié depuis sa création, en 1983).
