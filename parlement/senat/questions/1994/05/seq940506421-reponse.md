@@ -1,0 +1,11 @@
+# Réponse à la question SEQ940506421
+
+- Question : [SEQ940506421](seq940506421.md) — Suppression d'un poste d'instituteur
+
+## Réponse
+
+*Éducation, JO du 1994-07-07, page 1685*
+
+Réponse. - Le développement du service public d'éducation constitue la priorité du ministre de l'éducation nationale. Il s'agit, comme cela sera réaffirmé dans le nouveau contrat pour l'école, de rechercher les moyens d'en améliorer le fonctionnement. Cette préoccupation est bien évidemment partagée par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale de la Seine-Maritime. En déclarant, lors d'un entretien avec un journaliste sur une chaîne de télévision, que des fonds privés ne pouvaient servir qu'à la création d'écoles privées, l'inspecteur d'académie de la Seine-Maritime s'est borné à faire un bref constat d'ordre technique. Par conséquent, ces propos ne peuvent en aucun cas être assimilés à une suggestion ou à un conseil de l'inspecteur d'académie à l'intention des parents d'élèves. En ce qui concerne les décisions de suppression de postes d'enseignants dans les écoles, celles-ci relèvent, en application de la déconcentrati
+
+on administrative, de la compétence des autorités académiques qui répartissent, après consultation des organismes et des partenaires intéressés, les moyens qui leur sont alloués en fonction des priorités départementales. Dans le cas de la commune d'Ectot-l'Aubert, l'école en cause qui comportait deux classes, ce qui la mettait en dehors du champ d'application du moratoire sur les décisions de fermeture d'écoles à classe unique, fait partie d'un regroupement pédagogique intercommunal (RPI) de sept classes réparties sur quatre communes. La suppression de l'un des deux postes de l'école d'Ectot-l'Aubert, justifiée par la situation des effectifs d'élèves sur le regroupement, ne devrait pas entraîner de difficultés particulières. Quant à l'éventuel surcoût entraîné par cette mesure, il convient de souligner qu'il n'existe pas de postes de surveillant ni d'internat dans l'enseignement primaire public. S'agissant, par ailleurs, du coût du fonctionnement du service de transport scolaire déjà mis en place pour répartir les enfants entre les différentes écoles du RPI, il ne devrait pas être sensiblement modifé. Il en est de même du service de restauration scolaire.
