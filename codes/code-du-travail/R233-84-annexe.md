@@ -1,4 +1,4 @@
-# Article R233-84 annexe
+# Article Annexe à l'article R233-84
 
 1.1. Généralités et champ d'application.
 
@@ -33,6 +33,8 @@ a) Les machines doivent par construction être aptes à assurer leur fonction, �
 Les mesures prises visent à supprimer les risques pour la sécurité ou la santé durant la durée d'existence prévisible de la machine, y compris les phases de montage et de démontage, même dans le cas où les risques d'accidents résultent de situations anormales prévisibles.
 
 b) Pour la conception de la machine, les principes suivants doivent être appliqués, dans l'ordre indiqué :
+
+- effectuer une analyse des risques en vue de rechercher tous ceux qui sont susceptibles de concerner la machine ou le composant de sécurité, concevoir et construire la machine ou le composant de sécurité pour répondre aux règles techniques définies par la présente annexe, applicables en fonction de ces risques ;
 
 - éliminer ou, à défaut, réduire les risques dans toute la mesure possible ;
 
@@ -468,6 +470,14 @@ Lorsque le risque existe, la machine doit être équipée pour permettre le capt
 
 Lorsque la machine n'est pas close en marche normale, les dispositifs de captage ou d'aspiration visés à l'alinéa précédent doivent être situés le plus près possible du lieu d'émission.
 
+1.5.14. Risque de rester prisonnier dans une machine.
+
+La machine doit être conçue, construite ou équipée de moyens permettant à une personne exposée de ne pas rester enfermée ou, s'il est impossible de satisfaire cette règle, permettant à une telle personne de demander de l'aide lorsqu'elle est enfermée.
+
+1.5.15. Risque de chute.
+
+Les parties de la machine sur lesquelles il est prévu que des personnes puissent être amenées à se déplacer ou à stationner doivent être conçues et construites de façon à éviter que des personnes ne glissent, trébuchent ou tombent sur ces parties ou hors de celles-ci.
+
 1.6. Maintenance.
 
 1.6.1. Entretien de la machine.
@@ -483,8 +493,6 @@ Les éléments des machines automatisées devant être remplacés fréquemment, 
 1.6.2. Moyens d'accès au poste de travail ou aux points d'intervention.
 
 Des moyens d'accès tels que escaliers, échelles ou passerelles, permettant d'atteindre, en sécurité, tous les emplacements utiles pour les opérations de production, de réglage et de maintenance doivent être prévus.
-
-Les parties de la machine sur lesquelles il est prévu que des personnes puissent être amenées à se déplacer ou à stationner doivent être conçues et construites de façon à éviter les chutes.
 
 1.6.3. Séparation des sources d'énergies.
 
@@ -542,7 +550,7 @@ c) Désignation de la série ou du type ;
 
 d) Numéro de série s'il existe ;
 
-e) Toute autre indication permettant son identification, telle que l'année de sa fabrication ou l'année d'apposition du marquage CE.
+e) L'année de construction ;
 
 En outre, si la machine est destinée à être utilisée en atmosphère explosible, cette indication doit être portée sur la machine.
 
@@ -556,7 +564,7 @@ Les équipements interchangeables doivent porter la même indication.
 
 1° Chaque machine doit être accompagnée d'une notice d'instructions donnant, sans préjudice des autres indications prévues par les textes réglementaires qui lui sont applicables, les indications suivantes :
 
-a) Le rappel des indications prévues au paragraphe 1.7.3 de la présente annexe concernant le marquage, éventuellement complétées par les indications permettant de faciliter la maintenance, telles que l'adresse de l'importateur, des réparateurs ;
+a) Le rappel des indications prévues au paragraphe 1.7.3 de la présente annexe concernant le marquage à l'exception du numéro de série, éventuellement complétées par les indications permettant de faciliter la maintenance, telles que l'adresse de l'importateur, des réparateurs ;
 
 b) Les conditions prévues d'utilisation au sens du paragraphe 1.1.2 (c) de la présente annexe ;
 
@@ -586,13 +594,13 @@ f) Si nécessaire, les caractéristiques essentielles des outils pouvant être m
 
 La notice doit, si nécessaire, attirer l'attention sur les contre-indications d'emploi.
 
-2° La notice d'instructions doit être rédigée en français. Par dérogation, la notice de maintenance destinée à être utilisée uniquement par un personnel spécialisé qui dépend du fabricant ou de l'importateur peut être rédigée dans une langue de la Communauté économique européenne autre que le français.
+2° La notice d'instructions doit être rédigée en français et, si la version originale a été rédigée dans une langue autre que le français, être accompagnée de la notice dans cette version originale. Par dérogation, la notice de maintenance destinée à être utilisée uniquement par un personnel spécialisé qui dépend du fabricant ou de l'importateur peut être rédigée dans une langue de la Communauté économique européenne autre que le français.
 
 3° La notice d'instructions doit comprendre les plans et schémas nécessaires à la mise en service, à l'entretien, à l'examen, à la vérification du bon fonctionnement, et à la réparation de la machine ainsi que toutes les instructions utiles, notamment en matière de sécurité. Toutefois, les indications nécessaires pour la réparation de la machine peuvent être limitées à ce que l'utilisateur est autorisé à faire dans le cadre du contrat de fourniture de la machine.
 
-4° En ce qui concerne les aspects de sécurité, la notice commerciale présentant la machine ne doit pas être en contradiction avec la notice d'instructions.
+4° En ce qui concerne les aspects de sécurité, toute documentation présentant la machine ne doit pas être en contradiction avec la notice d'instructions.
 
-La notice commerciale doit en outre reprendre les informations ci-après concernant l'émission de bruit aérien.
+La documentation technico-commerciale décrivant la machine doit en outre reprendre les informations ci-après concernant l'émission de bruit aérien.
 
 5° La notice d'instructions doit donner, si nécessaire, les prescriptions relatives à l'installation et au montage destinées à diminuer le bruit engendré et les vibrations produites.
 
