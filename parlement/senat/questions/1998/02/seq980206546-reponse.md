@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206546
+
+- Question : [SEQ980206546](seq980206546.md) — Adjoints administratifs  exerçant les fonctions de secrétaires de mairie
+
+## Réponse
+
+*Fonction publique, JO du 1998-04-23, page 1328*
+
+Réponse. - Lors de la constitution initiale des cadres d'emplois, le choix du cadre d'emplois d'intégration a été déterminé par la situation détenue par les fonctionnaires en prenant en compte les responsabilités correspondant directement à l'emploi dont ils étaient titulaires et répondant à la vocation du nouveau cadre d'emplois. Ainsi, ont seuls été intégrés dans le cadre d'emplois des secrétaires de mairie, qui a été reclassé en catégorie A à compter du 1er août 1995, les secrétaires de mairie des communes de moins de 2 000 habitants qualifiés de 1er ou 2e niveau, ainsi que les fonctionnaires des établissements publics communaux et intercommunaux, des syndicats mixtes et des syndicats interdépartementaux dont l'emploi a été créé par référence à un emploi de secrétaire de mairie des communes de moins de 2 000 habitants qualifié de 1er ou 2e niveau. Les fonctionnaires appartenant au cadre d'emplois des adjoints administratifs (ancien commis) peuvent accéder au cadre d'emplois des secrétaires de mairie ou à celui des attachés par la voie de la réussite à un concours, notamment interne. Ils peuvent, en outre, être recrutés dans le cadre d'emplois des rédacteurs non seulement par la voie de la réussite à un concours, externe ou interne, mais aussi par celle de la promotion interne. A toutes fins utiles, il peut être rappelé qu'une nouvelle bonification indiciaire, prise en compte pour le calcul de la retraite, est versée mensuellement à raison de leurs fonctions, à hauteur de 15 points d'indice majoré, aux fonctionnaires appartenant au cadre d'emplois des adjoints administratifs et exerçant les fonctions de secrétaire de mairie dans les communes de moins de 2 000 habitants.
