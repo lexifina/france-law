@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817226
+
+- Question : [SEQ960817226](seq960817226.md) — Evolution des crédits budgétaires en faveur de la jeunesse et des sports
+
+## Réponse
+
+*Jeunesse, JO du 1996-10-17, page 2719*
+
+Réponse. - Dans le projet de loi de finances pour 1997 arrêté par le Gouvernement, le budget du ministère de la jeunesse et des sports s'inscrit au même niveau que celui présenté pour 1996. Avec un montant de crédits de paiement atteignant 2 930 millions de francs il connaît la même stabilité que le budget général de l'Etat. Au sein de cet équilibre global, sont prévues des mesures qui permettront de renforcer les actions prioritaires mises en oeuvre en faveur des jeunes. Il convient de souligner tout particulèrement les 40 millions de francs de mesures nouvelles venant en soutien du développement des sites pilotes d'aménagement des rythmes scolaires, les 15 millions de francs supplémentaires pour le plan sport-emploi avec pour objectif la création de 3 000 nouveaux emplois proposés en priorité aux jeunes brevetés d'Etat, les 10 millions de francs ouverts pour renforcer et améliorer l'information des jeunes. Quant aux grandes manifestations sportives, incluant le financement de la tranche 1997 du Stade de France, elles bénéficieront d'une mesure nouvelle de 69,6 MF. Si le budget du ministère de la jeunesse et des sports contribuera à la maîtrise des dépenses publiques par une réduction de ses effectifs, les crédits de fonctionnement des services déconcentrés seront sensiblement revalorisés (p 9 %) afin d'améliorer les conditions de travail des personnels. Au total, avec l'apport des deux comptes spéciaux du Trésor que sont le Fonds national pour le développement du sport (FNDS) - 850 MF en 1997 - et le Fonds national pour le développement de la vie associative (FNDVA) - 24 MF en 1997 - le ministère de la jeunesse et des sports disposera de 26 MF supplémentaires par rapport au projet de loi de finances pour 1996.
