@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204653
+
+- Question : [SEQ940204653](seq940204653.md) — Développement de l'offre du logement en zone rurale
+
+## Réponse
+
+*Logement, JO du 1994-04-07, page 812*
+
+Réponse. - Le Gouvernement est déterminé à porter toute l'attention nécessaire à la satisfaction des besoins du monde rural en logements locatifs sociaux. En ce qui concerne la relance de la construction de logements sociaux en zone rurale, des instructions ont été données aux préfets de département pour la répartition des prêts locatifs aidés (PLA). Ils doivent répartir ces crédits en deux parts : l'une pour l'espace rural, l'autre pour les zones urbaines. Il leur a donc été demandé de déterminer en premier lieu la part affectée aux communes rurales en fonction des besoins et des retards accumulés. Par ailleurs, plusieurs procédures sont à la disposition des communes pour rénover le bâti existant. Ainsi, la procédure d'opération programmée pour l'amélioration de l'habitat (OPAH) constitue souvent l'instrument principal de la mise en oeuvre des politiques locales de l'habitat en milieu rural. D'une part, elle permet de remettre sur le marché locatif des logements vacants. D'autre part, elle contribue au développement de la vie économique en milieu rural, dans la mesure où elle a un aspect positif sur l'artisanat du bâtiment. De plus, d'autres moyens comme la prime à l'amélioration des logements à usage locatif et à occupation sociale (PALULOS), la prime à l'amélioration de l'habitat (PAH) ou les subventions de l'Agence nationale pour l'amélioration de l'habitat (ANAH) peuvent permettre aux communes rurales de réhabiliter des logements anciens, qu'ils soient publics ou privés. Enfin, les PLA d'insertion sont un bon moyen de loger des personnes dont les ressources sont très faibles, en utilisant le parc existant.
