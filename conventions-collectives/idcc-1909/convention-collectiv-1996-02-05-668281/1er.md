@@ -1,0 +1,7 @@
+# Article 1
+
+La présente convention collective est conclue en application des textes législatifs et réglementaires et règle les relations entre :
+
+- les organismes de tourisme sans but lucratif qu'ils soient indépendants ou placés sous une autorité territoriale ou établissements publics rattachés à la nouvelle nomenclature NAF 633 Z ;
+
+- et les salariés permanents ou temporaires employés par les organismes de tourisme, tant sur le territoire français qu'européen, à l'exclusion des salariés dotés du statut de la fonction publique ou territoriale.
