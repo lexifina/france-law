@@ -1,251 +1,247 @@
 # Article ANNEXE I
 
+I. - Mer du Nord, Manche, Atlantique
+
+A. - Poissons
+
+Cabillaud (Gadus morhua).
+
+Merlu (Merluccius merluccius).
+
+Plie (Pleuronectes platessa).
+
+Plie grise (Glyptocepyhalus cynoglossus).
+
+Limande sole (Microstomus kitt).
+
+Sole (Solea vulgaris).
+
+Turbot (Psetta maxima).
+
+Barbue (Scophtalmus rhombus).
+
+Merlan (Merlangius merlangus).
+
+Limande (Limanda limanda).
+
+Rouget de roche (Mullus surmuletus).
+
+Bar commun (Dicentrarchus labrax).
+
+Congre (Conger conger).
+
+Lieu jaune (Pollachius pollachius).
+
+Lingue (Molva molva).
+
+Alose (Alosa spp).
+
+Mulet (Mugil spp).
+
+Saumon (Salmo salar).
+
+Truite de mer (Salmo trutta).
+
+Lamproie marine (Pentromyzon marinus).
+
+Flet (Platichtys flesus).
+
+Céteau (Dicologoglossa cuneata).
+
+Dorade royale (Sparus aurata).
+
+Dorade grise (Spondyliosoma cantharus).
+
+Maquereau (Scomber scombrus).
+
+Thon rouge (Thunnus thynnus).
+
+Maigre (Argyrosomus regius).
+
+Ombrine côtière (Umbrina cirrosa).
+
+Ombrine bronze (Umbrina canariensis).
+
+Marbré commun (Lithognatus mormgras).
+
+Sar commun (Diplodus sargus).
+
+Bar moucheté (Dicentrarchus punctatus).
+
+Orphie commune (Belone belone).
+
+Corb (Scianea umbra).
+
+Anguille (Anguilla anguilla), civelles exclues.
+
+B. - Crustacés
+
+Langoustine (Nephrops norvegicus).
+
+Homard (Homarus gammarus).
+
+Araignée de mer (Maia squinado).
+
+Crevettes grise et rose (Crangon crangon, Leander serratus).
+
+Langoustes (Palinuridae, Palinurus elephas et Palinurus mauritanicus).
+
+Tourteau (Cancer pagurus).
+
+Etrille (Macropipus puber).
+
+C. - Mollusques et autres animaux marins
+
+Coquille Saint-Jacques (Pecten maximus).
+
+Clam (Mercenaria mercenaria).
+
+Coque ou hénon (Cerastoderma edule).
+
+Huître plate (Ostrea edulis).
+
+Huître creuse (Crassostrea gigas).
+
+Moule (Mytilus edulis).
+
+Ormeau (Haliotis tuberculata).
+
+Palourde (Venerupis spp).
+
+Pétoncle (Chlamys varia).
+
+Praire (Venus verrucossa).
+
+Eponge fine (Hippospongia communis).
+
+Eponge commune (Spongia officinalis).
+
+Oursin (Paracentrotus lividus).
+
+Olive (Donax trunculus).
+
+Bulot (Buccinum undatum).
+
+Lambis (Strombus spp).
+
 II. - Méditerranée
 
-I. - Poissons
+A. - Poissons
 
-ESPECE :
+Anchois (Engraulis encrasicolus).
 
-Bar commun (Dicentrarchus labrax)
+Bar commun (Dicentrarchus labrax).
 
-TAILLE (en centimètres) : 25
+Baudroies (Lophius piscatorius et Lophius budegassa).
 
-ESPECE :
+Cardine à quatre taches (Lepidorhombus boscii).
 
-Baudroies (Lophius piscatorius et Lophius budegassa)
+Corb (Sciaena umbra).
 
-TAILLE (en centimètres) : 30
+Dorade royale (Sparus aurata).
 
-ESPECE :
+Maquereau commun (Scomber scombrus).
 
-Cardine à quatre taches (Lepidorhombus boscii)
+Maquereau espagnol (Scomber japonicus).
 
-TAILLE (en centimètres) : 20
+Merlu (Merluccius merluccius).
 
-ESPECE :
+Mulet ou muge (Mugil spp).
 
-Dorade royale (Sparus aurata)
+Pagre commun (Sparus pagrus).
 
-TAILLE (en centimètres) : 20
+Raie (Raja spp).
 
-ESPECE :
+Sardine (Sardina pilchardus).
 
-Maquereau commun (Scomber scombrus)
+Sar (Diplodus spp).
 
-TAILLE (en centimètres) : 22
+Thon rouge (Thunnus thynnus).
 
-ESPECE :
+Sole (Solea vulgaris).
 
-Maquereau espagnol (Scomber japonicus)
+Alose (Alosa spp).
 
-TAILLE (en centimètres) : 15
+Lamproie marine (Petromyzon marinus).
 
-ESPECE :
+Mérou (Epiphenelus spp).
 
-Merlu (Merluccius merluccius)
+Rouget barbet (Mullus spp).
 
-TAILLE (en centimètres) : 20
+Pageot (Pagellus spp).
 
-ESPECE :
+Cernier commun (Polyprion americanus).
 
-Mulets ou muges (Mugil spp.) TAILLE (en centimètres) : 20
+Chinchard (Trachurus spp).
 
-ESPECE :
+Espadon (Xiphias gladius).
 
-Pagre commun (Sparus pagrus)
+Toutes autres espèces à l'exception des espèces suivantes :
 
-TAILLE (en centimètres) : 20
+anguille, civelle, argentine, éperlan, lançon, monnet, prêtre, sprat, crénilabres, girelle, serran, tambour, gobies, sparaillon, blennies, athérines, petite rascasse, picarel.
 
-ESPECE :
+B. - Crustacés
 
-Raies (Raja spp.)
+Homard (Hommarus gammarus).
 
-TAILLE (en centimètres) : 36
+Langoustine (Nephrops norvegicus).
 
-ESPECE :
+Crevette grise (Crangon crangon).
 
-Sars (Diplodus spp.)
+Crevette rouge (Aristeus antennatus).
 
-TAILLE (en centimètres) : 15
+Crevette rose (Leander spp).
 
-ESPECE :
+Langoustes rouge et rose (Palinurus vulgaris et Palinurus mauritanicus).
 
-Sole (Solea vulgaris)
+Etrille (Macropipus puber).
 
-TAILLE (en centimètres) : 20
+Araignée de mer (Maja squinado).
 
-ESPECE :
+C. - Mollusques et autres animaux marins
 
-Aloses (Alosa spp.)
+Coque ou hénon (Cerastoderma edule).
 
-(en centimètres) :)
+Coquille Saint-Jacques (Pecten jacobeus).
 
-TAILLE (en centimètres) : 30
+Eponge commune (Hippospongia communis).
 
-ESPECE :
+Eponge fine (Spongia officinalis).
 
-Lamproie marine (Petromyzon marinus)
+Huître creuse (Crassostrea gigas).
 
-TAILLE (en centimètres) : 27
+Huître plate (Ostrea edulis).
 
-ESPECE :
+Moule (Mytilus galloprovincialis).
 
-Anguille (Anguilla anguilla, civelles exclues)
+Olive (Donax trunculus).
 
-TAILLE (en centimètres) : (1)
+Oursin (Paracentrotus lividus).
 
-ESPECE :
+Palourde commune ou grise (Venerupis decussatus).
 
-Autres poissons (sauf anchois, argentine, éperlan, lançon, monnet, prêtre, sardine, sprat)
+Palourde bleue (Venerupis pullastra).
 
-TAILLE (en centimètres) : 12
+Palourde des Philippines (Ruditapes philipinarum).
 
-II. - Crustacés
+Palourde jaune ou clovisse (Venerupis aureus).
 
-ESPECE :
+Palourde rose (Venerupis rhomboides).
 
-Crevettes grise et roses (Crangon crangon, Leander spp.)
+Pétoncle (Chlamys varia).
 
-TAILLE (en centimètres) : 3
+Praire (Venus verrucosa).
 
-ESPECE :
+Telline (Tellina spp).
 
-Crevette rouge (Aristeus antennatus)
-
-TAILLE (en centimètres) : 12
-
-ESPECE :
-
-Langoustes rouge et rose (Palinurus elephas et Palinurus mauritanicus)
-
-TAILLE (en centimètres) : 21 (2)
-
-ESPECE :
-
-Etrille (Necora puber)
-
-TAILLE (en centimètres) : 5
-
-ESPECE :
-
-Araignée de mer (Maïa squinado)
-
-TAILLE (en centimètres) : 12
-
-ESPECE :
-
-Homard (Homarus gammarus)
-
-TAILLE (en centimètres) : 23
-
-III. - Mollusques et autres animaux marins
-
-ESPECE :
-
-Coque ou Hénon (Cerastoderma edule)
-
-TAILLE (en centimètres) : 3
-
-ESPECE :
-
-Coquille Saint-Jacques (Pecten jacobeus)
-
-TAILLE (en centimètres) : 10
-
-ESPECE :
-
-Huître creuse (Crassostrea gigas)
-
-TAILLE (en centimètres) : 6
-
-ESPECE :
-
-Huître plate (Ostrea edulis)
-
-TAILLE (en centimètres) : 6
-
-ESPECE :
-
-Moule (Mytilus galloprovincialis)
-
-TAILLE (en centimètres) : 4
-
-ESPECE :
-
-Olive (Donax trunculus)
-
-TAILLE (en centimètres) : 2,5
-
-ESPECE :
-
-Oursin (Paracentrotus lividus)
-
-TAILLE (en centimètres) : 3,5 (3)
-
-Palourde commune ou grise (Venerupis decussatus)
-
-TAILLE (en centimètres) : 3,5
-
-ESPECE :
-
-Palourde bleue (Venerupis pullastra)
-
-TAILLE (en centimètres) : 3
-
-ESPECE :
-
-Palourde des Philippines (Ruditapes philipinarum)
-
-TAILLE (en centimètres) : 3,5
-
-ESPECE :
-
-Palourde jaune ou clovisse (Venerupis aureus)
-
-TAILLE (en centimètres) : 3
-
-ESPECE :
-
-Palourde rose (Venerupis rhomboides)
-
-TAILLE (en centimètres) : 3,5
-
-ESPECE :
-
-Pétoncle (Chlamys varia)
-
-TAILLE (en centimètres) : 4
-
-ESPECE :
-
-Praire (Venus verrucosa)
-
-TAILLE (en centimètres) : 4
-
-ESPECE :
-
-Tellines (Tellina spp.)
-
-TAILLE (en centimètres) : 2,5
-
-ESPECE :
-
-Venus (Spisula ovalis)
-
-TAILLE (en centimètres) : 2,8
+Venus (Spisula ovalis).
 
 III. - Mayotte et îles Eparses
 
-ESPECE :
+Crustacés
 
-Langouste (Panulirus spp.)
+Langouste (Palinurus spp).
 
-TAILLE (en centimètres) : 18 (4)
+IV. - Saint-Pierre-et-Miquelon
 
-(1) La taille marchande des anguilles devra être telle qu'on en compte moins de vingt-deux au kilo.
-
-(2) Longueur totale.
-
-(3) Piquants exclus.
-
-(4) Longueur totale.
+Cf. annexe II du décret n° 87-182 du 19 mars 1987 modifié.
