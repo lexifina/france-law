@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912222
+
+- Question : [SEQ950912222](seq950912222.md) — Difficultés des éleveurs ovins dans le Cantal
+
+## Réponse
+
+*Agriculture, JO du 1996-02-01, page 198*
+
+Réponse. - La situation difficile que l'on observe actuellement dans le secteur de la production ovine n'est pas propre à la France ; une baisse des cours est en effet constatée dans tous les Etats membres producteurs, notamment l'Irlande et la Grande-Bretagne. L'organisation commune de marché prévoit chaque année le versement d'une prime compensatrice (PCO) dont le montant est calculé en fonction de l'écart constaté entre les prix de marché et un prix directeur. Pour cette année, la prime devrait être de l'ordre de 160 francs environ par brebis, ce qui correspond à une augmentation de près de 15 p. 100 par rapport à l'année passée. Cette augmentation compense une baisse de plus de 1 franc/kg alors même que le prix de marché moyen pour cette année devrait accuser une baisse inférieure. Néanmoins, conscient des difficultés plus structurelles que conjoncturelles auxquelles sont confrontés les éleveurs ovins qui sont majoritairement implantés en zones défavorisées, le Gouvernement a mis en place une mesure exceptionnelle sous la forme d'une majoration de 75 francs par équivalent unité gros bétail (UGB) pour les brebis, par le biais du dispositif de compensation des handicaps naturels. Le calcul de l'aide se fera sur la base du cheptel déclaré à la fin de l'année 1995 et, par conséquent, son paiement s'effectuera au cours du premier trimestre 1996. Le cheptel ovin est localisé à plus de 85 p. 100 dans les zones défavorisées et joue de ce fait un rôle majeur dans l'équilibre de l'occupation de l'espace rural. Cette majoration porte au plafond autorisé par la réglementation communautaire le montant de l'aide attribuée dans les zones soumises aux handicaps natures les plus importants.
