@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112251
+
+- Question : [SEQ981112251](seq981112251.md) — Nuisances sonores causées par des cyclomoteurs à pots d'échappement transformés
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-12-16, page 4145*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux nuisances sonores générées par les cyclomoteurs dont les pots d'échappement ont été transformés. Le décret nº 95-79 du 23 janvier 1995 punit d'une contravention de 5e classe l'utilisation en connaissance de cause d'un dispositif ayant fait l'objet d'une procédure d'homologation, mais qui aura subi des modifications rendant l'objet ou le dispositif non conforme. L'homologation européenne des deux - et trois - roues est obligatoire depuis le 17 juin 1999. Elle conduit à une définition technique uniforme des véhicules dans toute l'Europe et se traduit par un renforcement des réglementations applicables à ces véhicules. En particulier, le chapitre 7 de la directive 97/24/CE du 17 juin 1997 prévoit un certain nombre d'obligations destinées à empêcher, autant que faire se peut, les modifications non autorisées pouvant porter atteinte à la sécurité en augmentant les performances des véhicules. Pour ce faire, cette directive prévoit, notamment, une série de mesures techniques, comme la présence de pièces clés normalement indémontables, ou encore autocassantes, destinées à rendre plus difficile toute modification notable du moteur ou du dispositif d'échappement. Elle prévoit également une identification par un marquage dans le métal de certaines pièces sensibles. Ces nouvelles dispositions devraient concourir à la limitation de la vente libre des matériels susceptibles de modifier les caractéristiques sonores des deux-roues à moteur.
