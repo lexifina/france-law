@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105533
+
+- Question : [SEQ980105533](seq980105533.md) — Inscription au budget communal d'une redevance pour l'enlèvement des ordures ménagères
+
+## Réponse
+
+*Intérieur, JO du 1998-05-14, page 1558*
+
+Réponse. - Le service d'élimination des déchets des ménages et des déchets assimilés a un caractère administratif lorsque son financement est assuré par la voie fiscale, ou un caractère industriel et commercial lorsque la commune ou l'établissement public de coopération intercommunale compétent a choisi d'instituer la redevance d'enlèvement des ordures ménagères (CE, 10 avril 1992, SARL Hofmiller). Dans ce dernier cas, la redevance supportée par l'usager doit correspondre au coût réel du service et l'ensemble des charges correspondantes doivent être couvertes sans subventionnement du budget général conformément à l'article L. 2224-1 du code général des collectivités territoriales. Ce principe a pour corollaire l'établissement nécessaire d'un budget permettant d'attester de la réalité de l'équilibre financier de l'exploitation du service. L'article L. 2224-2 du code précité prévoit effectivement certaines exceptions permettant dans une certaine mesure des transferts en provenance du budget général. A cet égard, les frais de personnels ou d'acquisition de produits informatiques qui résultent de la gestion de la redevance ne constituent pas des exigences de service public conduisant la collectivité à imposer des contraintes particulières de fonctionnement. Les exceptions prévues à l'article L. 2224-2 doivent en effet être interprétées en droit strict. Par ailleurs, les frais de gestion courante constituent une charge normale et inéluctable du service, que toutes les collectivités ayant opté pour la redevance sont appelées à supporter dans les mêmes conditions.
