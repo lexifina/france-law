@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716598
+
+- Question : [SEQ910716598](seq910716598.md) — Bilan de l'application du dispositif " Dazzer "
+
+## Réponse
+
+*Postes, JO du 1991-09-12, page 1972*
+
+Réponse. - La déconcentration des responsabilités en vigueur à La Poste place la décision de recourir à des appareils générateurs d'ultra-sons pour améliorer la sécurité des facteurs, dans le domaine de compétence de chaque chef de service départemental. Par ailleurs, l'expérience réalisée en situation réelle par les facteurs de Malicorne-sur-Sarthe relève de la démarche " Innovation participative ", elle aussi déconcentrée. En conséquence, après validation, par le jury régional Innovation des Pays de la Loire, des résultats encourageants obtenus par les facteurs de Malicorne-sur-Sarthe, l'agence pour la valorisation de l'innovation participative de La Poste a diffusé à tous les responsables une fiche décrivant l'essentiel de l'opération, de ses conditions de mise en oeuvre et de ses résultats avec la mention " applicable sur initiative locale ". L'enquête rapide effectuée, suite à la question de monsieur le sénateur, montre que : l'équipe de facteurs de Malicorne continue à utiliser les appareils à ultra-sons et consolide ses conclusions initiales : aucun accident dû à des chiens n'a été déploré depuis celui de juillet 1989 qui avait déclenché la demande d'expérimentation en situation réelle ; les conditions d'utilisation qui rendent la méthode Malicorne intéressante, bien que confirmant l'efficacité incomplète des appareils, n'ont pas toujours été perçues avec clarté. Une nouvelle fiche, plus explicite et faisant état des résultats maintenant vérifiés en exploitation réelle sur le site pendant près de deux ans, sera diffusée lors de la très prochaine mise à jour du " catalogue des innovations ".
