@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901359
+
+- Question : [SEQ880901359](seq880901359.md) — Enseignants détachés à l'étranger : obligations de service
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-02-23, page 308*
+
+Réponse. - Le ministère des affaires étrangères n'ignore pas la situation des personnels enseignants en poste dans nos lycées au Chili auxquels il est demandé, en raison de dispositions réglementaires locales, un service hebdomadaire calculé différemment de celui auquel ils sont astreints en France. En premier lieu, il convient de rappeler que le fait d'exercer à l'étranger n'est pour un enseignant titulaire de l'éducation nationale ni une obligation ni un droit. Il résulte d'un acte de volontariat qui implique que l'intéressé accepte les conditions de travail définies par la réglementation et les usages du pays d'accueil, dès lors qu'ils sont raisonnables. Or, peut-on soutenir qu'une période de cinquante minutes (ou de quarante-cinq comme c'est le cas dans certains établissements) est équivalente en travail et effort à une heure ? Ou bien on fait du concept de cours et de classe une entité abstraite indépendante de sa durée, ou bien, ce qui paraît de bon sens, on tient compte du temps réel et de son contenu pédagogique. Un rapide calcul fait apparaître alors que les enseignants concernés ne sont pas pénalisés à faire vingt et une périodes, tandis que leurs élèves le seraient s'ils bénéficiaient seulement de dix-huit cours ou classes hebdomadaires d'une durée de moins d'une heure. Enfin, il serait difficilement admissible, au sein d'une même communauté scolaire, que la minorité des enseignants français dits " au barème ", c'est-à-dire rétribués selon le régime des fonctionnaires en mission (soit, au Chili, plus de deux fois leur traitement de France) ait des obligations de service hebdomadaire moindres que celles de leurs collègues recrutés locaux, notamment nationaux, dont les revenus sont d'un niveau très sensiblement inférieur.
