@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208920
+
+- Question : [SEQ941208920](seq941208920.md) — Exonération des plus-values réalisées lors de la cession d'un logement préalable à l'acquisition ou la construction d'une habitation principale
+
+## Réponse
+
+*Budget, JO du 1995-02-09, page 331*
+
+Réponse. - Comme il a déjà été indiqué à l'honorable parlementaire (R.M. no 6907 - J.O. Sénat du 8 septembre 1994, page 2209), c'est à la suite d'une initiative parlementaire que la loi de finances du 30 septembre 1993 à prévu l'exonération des plus-values immobilières réalisées du 25 novembre 1993 au 31 décembre 1994 lorsque le produit de la cession est investi dans l'acquisition ou la construction d'un logement affecté à l'habitation principale du cédant. Cette mesure s'inscrivait dans le cadre du plan de relance de l'immobilier et visait en particulier à améliorer le fluidité de ce marché ; elle était conçue de manière à entraîner une augmentation significative des transactions dès son entrée en vigueur. C'est pourquoi le législateur avait fixé à quatre mois le délai de remploi du produit de la cession exonérée. Certes, lorsque le remploi a été effectué dans un contrat de construction conclu pendant la période de quatre mois, la condition de réinvestissement n'a pu être réalisée qu'à hauteur du montant des paiements intervenant au cours de cette même période. Cependant, dans la majorité des cas ce délai est apparu suffisant dans la mesure où le cédant avait pu entreprendre les démarches nécessaires à la conclusion du contrat de construction du logement objet du remploi avant la date de la cession qui constituait le point de départ du délai de réinvestissement, c'est-à-dire dès qu'il avait acquis la certitude de céder son bien, notamment en signant une promesse de vente avec un acquéreur. Ce régime temporaire d'exonération a expiré le 31 décembre 1994.
