@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506303
+
+- Question : [SEQ940506303](seq940506303.md) — Représentation des professions libérales au sein du Conseil économique et social
+
+## Réponse
+
+*Premier ministre, JO du 1994-06-09, page 1411*
+
+Réponse. - La composition du Conseil économique et social résulte aujourd'hui de l'ordonnance no 58-1360 du 29 décembre 1958 modifiée par la loi organique no 84-499 du 27 juin 1984. C'est ce dernier texte qui a introduit la représentation en tant que telles dans cette assemblée des professions libérales, qui disposent désormais de trois sièges et d'un groupe. Le décret no 84-558 du 4 juillet 1984 a ensuite précisé à l'article 7 que ces trois sièges doivent se répartir entre les trois grandes familles des professions libérales que sont les professions de santé, les professions judiciaires et juridiques et les professions techniques et stipulé que ces représentants sont désignés par l'Union nationale des associations de professions libérales, organisation la plus représentative de l'ensemble des syndicats de professionnels libéraux. Le renouvellement du Conseil économique et social a eu lieu en septembre 1989 et le mandat de ses membres expirera en septembre 1994. Il est certain que ainsi que le remarque l'honorable parlementaire la représentation des professions libérales au sein du CES ne correspond présentement ni à leurs poids démographique, ni à leur importance économique, ni à leur vitalité qui est peu contestable et qu'il pourrait être à ce titre souhaitable de l'accroître. La modification des textes susvisés requiert cependant l'adoption d'une loi organique qui devrait tenir compte de l'ensemble des évolutions intervenues dans la structure économique et sociale du pays depuis plusieurs décennies. C'est une tâche complexe qui ne peut être menée à bien qu'en concertation avec le Conseil économique et social lui-même et l'ensemble des organisations représentatives du monde des entreprises au sens large.
