@@ -1,0 +1,135 @@
+# LOI n° 2003-1311 de finances pour 2004 du 30 décembre 2003
+
+- Type : loi publiee
+- Législature : XIIème législature
+- Ouvert le : 2003-12-30
+- Mis à jour le : 2008-01-31
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000017759724
+
+## LOI de finances pour 2004 (n° 2003-1311 du 30 décembre 2003)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000612133
+
+## LOI de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) (rectificatif)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000797974
+
+## Documents
+
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl1093.asp) : table des matières
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl1093-2.asp) : 1ère partie (conditions générales de l'équilibre financier)
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl1093-3.asp#P242_9396) : 2ème partie (moyens des services et dispositions spéciales)
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl1093-4.asp) : états législatifs annexés
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl1093-5.asp) : analyses et tableaux annexes
+- [Communiqué de presse du Conseil des ministres du 25 septembre 2003](http://archives.gouvernement.fr/raffarin_version1/fr/ie4/contenu/40685.htm#1) Le ministre de l'économie, des finances et de l'industrie a présenté le projet de loi de finances pour 2004. Ce projet de loi de finances repose sur une prévision de croissance de l'économie française prudente de 1,7% en 2004, après un taux de croissance estimé pour 2003 à 0,5%. Cette prévision est fondée sur la reprise de l'économie mondiale qui résulte de l'amélioration de la situation financière des entreprises et de l'assouplissement des politiques économiques. Dans ce contexte, le projet de loi de finances traduit trois orientations du Gouvernement : l'encouragement au travail, à l'innovation et à l'initiative économique, le financement des priorités du Gouvernement et la maîtrise des finances publiques. Les allègements d'impôts sont concentrés en 2004 sur l'encouragement au travail et à l'emploi. L'impôt sur le revenu est ainsi abaissé de 3%. A cette mesure s'ajoute la poursuite de la montée en charge des baisses de cotisations sociales dites " allégements Fillon ". Le barème de la prime pour l'emploi est revalorisé ; un acompte en cas de retour à l'emploi est instauré, afin de rendre cette prime plus incitative. Le projet prévoit également des réformes fiscales majeures au service de l'innovation et de la recherche, notamment avec la refonte et le renforcement du crédit impôt recherche et la mise en place de dispositifs spécifiques pour soutenir la création d'entreprises. Le projet de loi de finances adapte par ailleurs la fiscalité française à la nouvelle situation démographique. A ce titre, il complète la réforme des retraites par la création du nouveau plan d'épargne populaire. Il encourage les transmissions anticipées de patrimoine et crée un crédit d'impôt " familles ". Les dépenses, à structure constante 2003, s'établissent à 277,9 milliards d'euros, soit une stabilisation en volume. Cette maîtrise des dépenses est obtenue, malgré la progression des dépenses inéluctables (dette, pension, fonction publique, minima sociaux…), par d'importants efforts de redéploiement. La réforme de l'Etat permet ainsi de ne pas remplacer près de 10 000 départs en retraite et de réaffecter une partie des moyens en personnel en fonction des besoins (environ 5 000 créations d'emplois). En net, les emplois budgétaires diminuent de près de 5 000. Les priorités du Gouvernement (sécurité, justice, défense...) sont, comme en 2003, financées conformément aux différentes lois de programme adoptées. Une attention particulière a également été portée aux crédits de la recherche, de l'éducation nationale et de la culture. Le solde du projet de loi de finances pour 2004 s'établit à -55,5 milliards d'euros, dont 1,5 milliard d'euros correspondant à l'impact de la budgétisation des concours apportés à Réseau Ferré de France. A structure constante, le déficit budgétaire s'établit donc à 54 milliards d'euros, à comparer à un déficit prévisionnel de 56 milliards d'euros environ pour 2003. L'amélioration est voisine de 2 milliards d'euros. Compte tenu des mesures prises dans le cadre du projet de loi de financement de la sécurité sociale, le solde des comptes publics se réduira notablement en 2004 : le déficit public sera ainsi ramené de 4 % à 3,6 % du PIB. La programmation pluriannuelle associée au projet de loi de finances prévoit le retour sous le seuil de 3 % de déficit en 2005. Le Gouvernement poursuit, ainsi qu'il s'y était engagé devant le Parlement, ses efforts de transparence dans la présentation des textes budgétaires. Les concours de l'Etat à Réseau Ferré de France sont budgétisés (1,47 milliard d'euros), de même que les dépenses et les ressources du fonds de financement de la réforme des cotisations (FOREC) : +17,1 milliards d'euros en dépenses, et +15,8 milliards d'euros en recettes fiscales. Les concours aux collectivités territoriales font l'objet de mesures de simplification qui s'accompagnent du basculement au sein de la dotation globale de fonctionnement de plusieurs de ces concours. Les modalités d'indexation restent inchangées, garantissant aux collectivités territoriales une participation à la croissance. La décentralisation du RMI se traduit par l'attribution aux départements d'une partie de la taxe intérieure sur les produits pétroliers, pour un montant de 5 milliards d'euros. Un effort spécifique de transparence est également engagé s'agissant des effectifs de l'Etat, avec une première application en 2004 pour les effectifs de l'éducation nationale qui sont entièrement pris en compte dans le total des emplois publics, quelle que soit la catégorie dont ils relèvent (assistants d'éducation…).
+- [Projet de loi adopté en 1ère lecture par l'Assemblée nationale le 18 novembre 2003](http://www.assemblee-nationale.fr/12/ta/ta0195.asp)
+- [Projet de loi adopté en 1ère lecture par le Sénat le 9 décembre 2003](http://www.senat.fr/leg/tas03-015.html)
+- [Projet de loi adopté en CMP par l'Assemblée nationale le 17 décembre 2003](http://www.assemblee-nationale.fr/12/ta/ta0216.asp)
+- [Projet de loi adopté en CMP par le Sénat le 18 décembre 2003](http://www.senat.fr/leg/tas03-030.html)
+- [Saisine du Conseil constitutionnel en date du 19 décembre 2003 présentée par plus de soixante députés](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000796472&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Observations du Gouvernement](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000796473&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Décision du Conseil constitutionnel n° 2003-489 DC du 29 décembre 2003](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000246976&dateTexte=&oldAction=rechJO&categorieLien=id)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/12/dossiers/031093.asp)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjlf2004.html)
+- Documents préparatoires
+  - [Rapport n° 1110 de M. Gilles Carrez (tome I - 1ère partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t1.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome I - 2ème partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t1-02.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome I - 3ème partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t1-03.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome II)](http://www.assemblee-nationale.fr/12/rapports/r1110-t2.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome III - 1ère partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t3.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome III - 2e partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t3-2.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome III - 3e partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t3-3.asp)
+  - [Rapport n° 1110 de M. Gilles Carrez (tome III - 4e partie)](http://www.assemblee-nationale.fr/12/rapports/r1110-t3-4.asp)
+  - [Rapports budgétaires par thème](http://www.assemblee-nationale.fr/12/budget/plf2004/rapporteurs.asp)
+  - [Rapport n° 73 de M. Phillipe Marini (tome I)](http://www.senat.fr/rap/l03-073-1/l03-073-1.html)
+  - [Rapport n° 73 de M. Phillipe Marini (tome II, fascicule 1, vol 1)](http://www.senat.fr/rap/l03-073-21/l03-073-21.html)
+  - [Rapport n° 73 de M. Phillipe Marini (tome II, fascicule 1, vol 2)](http://www.senat.fr/rap/l03-073-212/l03-073-212.html)
+  - [Rapport n° 73 de M. Phillipe Marini (tome II, fascicule 2)](http://www.senat.fr/rap/l03-073-22/l03-073-22.html)
+  - [Rapport n° 73 de M. Philippe Marini (tome III)](http://www.senat.fr/rap/l03-073-3/l03-073-3.html)
+  - [Rapports budgétaires par commission](http://www.senat.fr/dossier-legislatif/pjlf2004_com.html)
+  - [Rapports budgétaires par thème](http://www.senat.fr/dossier-legislatif/pjlf2004_motcle.html)
+- Débats parlementaires
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 14 octobre 2003 :
+      - [2ème séance du 14 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040014.asp#PG18) : exception d'irrecevabilité (rejet)
+      - [3ème séance du 14 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040015.asp#PG0) : question préalable (rejet), discussion générale
+    - Compte rendu intégral des séances du 15 octobre 2003 :
+      - [1ère séance du 15 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040016.asp#PG0) : discussion générale (suite),
+      - [2ème séance du 15 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040017.asp#PG15) : discussion générale (suite)
+      - [3ème séance du 15 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040018.asp#PG0) : discussion générale (suite), motion de renvoi en commission (rejet)
+    - Compte rendu intégral des séances du 16 octobre 2003 :
+      - [1ère séance du 16 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040019.asp#PG0) : discussion des articles de la 1ère partie (art 1er, art 2)
+      - [2ème séance du 16 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040020.asp#PG0) : discussion des articles de la 1ère partie (suite - art 2, art 3, art 4, après art 4)
+      - [3ème séance du 16 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040021.asp#PG0) : discussion des articles de la 1ère partie (suite - après art 4)
+    - Compte rendu intégral des séances du 17 octobre 2003 :
+      - [1ère séance du 17 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040022.asp#PG0) : discussion des articles de la 1ère partie (suite - après art 4)
+      - [2ème séance du 17 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040023.asp#PG0) : discussion des articles de la 1ère partie (suite - après art 4, art 5, après art 5, art 6, après art 6)
+      - [3ème séance du 17 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040024.asp#PG0) : discussion des articles de la 1ère partie (suite - art 7, après art 7, art 8, art 9, après art 9, art 10, après art 10, art 11, après art 11, art 12, après art 12, art 13)
+    - Compte rendu intégral des séances du 20 octobre 2003 :
+      - [1ère séance du 20 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040025.asp#PG1) : discussion des articles de la 1ère partie (suite - art 41, art 14, après art 14)
+      - [2ème séance du 20 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040026.asp#PG0) : discussion des articles de la 1ère partie (suite - après art 14, art 15, art 16, art 17, art 18, après art 18, art 19, art 20, après art 20, art 21, art 22, art 23, art 24, art 25, art 26, art 27, art 28, art 29, art 30, art 31, art 32, art 33, après art 33, art 34, art 35, art 37, art 38, art 39, après art 39, art 40)
+    - Compte rendu intégral des séances du 21 octobre 2003 :
+      - [1ère séance du 21 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040027.asp#PG14) : discussion des articles de la 1ère partie (suite - art 42 et état A, 2nde délibération, art 9 bis, art 18 ter, art 20, art 42 et état A), explications de vote, vote sur l'ensemble de la 1ère partie, discussion de la 2e partie (agriculture et pêche, BAPSA)
+      - [2ème séance du 21 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040028.asp#PG0) : discussion de la 2e partie (suite - agriculture et pêche, BAPSA)
+    - Compte rendu intégral des séances du 22 octobre 2003 :
+      - [1ère séance du 22 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040029.asp#PG19) : discussion de la 2e partie (suite - outre-mer)
+      - [2ème séance du 22 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040030.asp#PG0) : discussion de la 2e partie (suite - outre-mer)
+    - Compte rendu intégral des séances du 23 octobre 2003 :
+      - [1ère séance du 23 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040031.asp#PG0) : discussion de la 2e partie (suite - communication)
+      - [2ème séance du 23 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040032.asp#PG0) : discussion de la 2e partie (suite - aménagement du territoire, fonction publique, réforme de l'Etat, services du Premier ministre, budget annexe des Journaux officiels, SGDN)
+      - [3ème séance du 23 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040033.asp#PG0) : discussion de la 2e partie (suite - fonction publique, réforme de l'Etat, services du Premier ministre, budget annexe des Journaux officiels, SGDN)
+    - Compte rendu intégral des séances du 24 octobre 2003 :
+      - [1ère séance du 24 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040034.asp#PG0) : discussion de la 2e partie (suite - culture)
+      - [2ème séance du 24 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040035.asp#PG0) : discussion de la 2e partie (suite - écologie et développement durable, équipement et transports, aviation civile)
+      - [3ème séance du 24 octobre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040036.asp#PG0) : discussion de la 2e partie (suite - équipement et transports, aviation civile, budget annexe de l'aviation civile)
+    - Compte rendu intégral des séances du 4 novembre 2003 :
+      - [1ère séance du 4 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040046.asp#TopOfPage) : discussion de la 2e partie (suite - jeunesse et enseignement scolaire)
+      - [2ème séance du 4 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040047.asp#P456_86210) : discussion de la 2e partie (suite - jeunesse et enseignement scolaire, jeunesse, éducation nationale et recherche, défense)
+      - [3ème séance du 4 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040048.asp#P79_3193) : discussion de la 2e partie (suite - défense)
+    - Compte rendu intégral des séances du 5 novembre 2003 :
+      - [1ère séance du 5 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040049.asp#P422_66991) : discussion de la 2e partie (suite - affaires sociales, travail et solidarité, égalité professionnelle)
+      - [2ème séance du 5 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040050.asp#P78_4066) : discussion de la 2e partie (suite - affaires sociales, travail et solidarité, égalité professionnelle)
+    - Compte rendu intégral des séances du 6 novembre 2003 :
+      - [1ère séance du 6 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040051.asp#P59_2569) : discussion de la 2e partie (suite - anciens combattants)
+      - [2ème séance du 6 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040052.asp#P65_2135) : discussion de la 2e partie (suite - intérieur)
+      - [3ème séance du 6 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040053.asp#P44_1083) : discussion de la 2e partie (suite - tourisme)
+    - Compte rendu intégral des séances du 7 novembre 2003 :
+      - [1ère séance du 7 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040054.asp#P158_24614) : discussion de la 2e partie (suite - budgets annexes de la Légion d'honneur et de l'ordre de la Libération, affaires étrangères, coopération et francophonie)
+      - [2ème séance du 7 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040055.asp#P68_2367) : discussion de la 2e partie (suite - affaires étrangères, coopération et francophonie, enseignement supérieur)
+    - Compte rendu intégral des séances du 12 novembre 2003 :
+      - [1ère séance du 12 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040057.asp#PG1) : discussion de la 2e partie (suite - logement)
+      - [2ème séance du 12 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040058.asp#PG9) : discussion de la 2e partie (suite - logement, santé, famille et personnes handicapées)
+      - [3ème séance du 12 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040059.asp#PG0) : discussion de la 2e partie (suite - santé, famille et personnes handicapées)
+    - Compte rendu intégral des séances du 13 novembre 2003 :
+      - [1ère séance du 13 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040060.asp#PG0) : discussion de la 2e partie (suite - justice)
+      - [2éme séance du 13 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040061.asp#PG0) : discussion de la 2e partie (suite - économie, finances et industrie, budget annexe des Monnaies et médailles)
+    - Compte rendu intégral des séances du 14 novembre 2003 :
+      - [1ére séance du 14 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040062.asp#PG0) : discussion de la 2e partie (suite - recherche et nouvelles technologies)
+      - [2éme séance du 14 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040063.asp#PG0) : discussion de la 2e partie (suite - ville et rénovation urbaine, sports, petites et moyennes entreprises, commerce et artisanat, comptes spéciaux du trésor), discussion des articles non rattachés et amendements portant articles additionnels (avant art 60, art 60, après art 60, art 61, après art 61, art 62)
+      - [3ème séance du 14 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040064.asp#PG0) : discussion des articles non rattachés et amendements portant articles additionnels (suite - après art 62, art 63, après art 63, art 64, art 65, art 66, après art 66, art 67, après art 67, art 68, art 69, après art 69, après art 70, art 71, après art 71), discussion des articles "services votés" et articles de récapitulation, 2nde délibération (art 44 et état B, art 45 et état C, art 77, art 42 et état A), application de l'article 44, alinéa 3 de la Constitution
+    - Compte rendu intégral de la séance du 18 novembre 2003 :
+      - [2ème séance du 18 novembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040066.asp#PG15) : explications de vote, vote sur l'ensemble
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 20 novembre 2003](http://www.senat.fr/seances/s200311/s20031120/s20031120_mono.html) : discussion générale, question préalable (rejet)
+    - [Compte rendu intégral de la séance du 21 novembre 2003](http://www.senat.fr/seances/s200311/s20031121/s20031121_mono.html) : discussion des articles de la 1ère partie (art 1er, art 2, art additionnels après art 2, art 3, art 4, art additionnels après art 4, art 4 bis, art additionnel après art 4 bis, art additionnel après art 4 quater, art additionnels avant art 4 sexies, art 4 sexies, art additionnel avant art 5, art 5)
+    - [Compte rendu intégral de la séance du 24 novembre 2003](http://www.senat.fr/seances/s200311/s20031124/s20031124_mono.html) : discussion des articles de la 1ère partie (suite - art 5, art additionnels après art 5, art additionnel avant art 5 bis, art 5 bis, art additionnels après art 5 bis, art additionnel avant art 6, art 6, art additionnels après art 6, art 6 bis, art additionnels après art 6 ter, art 7, art additionnels après art 7, art 8, art additionnels après art 8, art 9, art additionnels après art 9, art additionnels après art 10, art 11, art additionnels après art 11, art 12, art additionnel avant art 12 bis, art 12 bis, art 12 quater, art additionnels après art 12 quater)
+    - [Compte rendu intégral de la séance du 25 novembre 2003](http://www.senat.fr/seances/s200311/s20031125/s20031125_mono.html) : discussion des articles de la 1ère partie (suite - art additionnels après art 12 quater, art 13, art additionnel avant art 14, art 14, art additionnel après art 14, art 14 bis, art additionnels après art 14 bis, art 16, art 17, art 18, art additionnels après art 18 bis, art 20), débat sur les recettes des collectivités locales, discussion des articles de la 1ère partie (suite - art additionnels après art 6, art additionnels après art 8, art additionnel après art 15, art additionnel avant art 30, art 30, art 31, art additionnel après art 31, art 32, art additionnels après art 32, art additionnel avant art 33)
+    - [Compte rendu intégral de la séance du 26 novembre 2003](http://www.senat.fr/seances/s200311/s20031126/s20031126_mono.html) : discussion des articles de la 1ère partie (suite - participation de la France au budget des communautés européennes : art 41; recettes des collectivités locales : art 33, art 34, art 35, art 37, art 38, art 39, art additionnel après art 39, art 40; art 20, art additionnel après art 20, art 21, art 23, art additionnel après art 23, art additionnel après art 24, art 26, art 27, art additionnel après art 27, art 28, art additionnel après art 28, art additionnel après art 40, art 25, art 24, art 42 et état A), vote sur l'ensemble de la 1ère partie
+    - [Compte rendu intégral de la séance du 27 novembre 2003](http://www.senat.fr/seances/s200311/s20031127/s20031127_mono.html) : discussion de la 2e partie (outre-mer, travail, santé et solidarité)
+    - [Compte rendu intégral de la séance du 28 novembre 2003](http://www.senat.fr/seances/s200311/s20031128/s20031128_mono.html) : discussion de la 2e partie (suite - jeunesse, éducation nationale et recherche, culture, communication)
+    - [Compte rendu intégral de la séance du 29 novembre 2003](http://www.senat.fr/seances/s200311/s20031129/s20031129_mono.html) : discussion de la 2e partie (suite - anciens combattants, équipement, transports, logement, tourisme et mer, sports)
+    - [Compte rendu intégral de la séance du 1er décembre 2003](http://www.senat.fr/seances/s200312/s20031201/s20031201_mono.html) : discussion de la 2e partie (suite - travail, santé et solidarité, affaires étrangères)
+    - [Compte rendu intégral de la séance du 2 décembre 2003](http://www.senat.fr/seances/s200312/s20031202/s20031202_mono.html) : discussion de la 2e partie (suite - intérieur, sécurité intérieure et libertés locales, agriculture, alimentation, pêche et affaires rurales, BAPSA)
+    - [Compte rendu intégral de la séance du 3 décembre 2003](http://www.senat.fr/seances/s200312/s20031203/s20031203_mono.html) : discussion de la 2e partie (suite - équipement, transports, logement, tourisme et mer, jeunesse, éducation nationale et recherche)
+    - [Compte rendu intégral de la séance du 4 décembre 2003](http://www.senat.fr/seances/s200312/s20031204/s20031204_mono.html) : discussion de la 2e partie (suite - économie, finances et industrie, budget annexe des Monnaies et médailles, services du Premier ministre, budget annexe des Journaux officiels)
+    - [Compte rendu intégral de la séance du 5 décembre 2003](http://www.senat.fr/seances/s200312/s20031205/s20031205_mono.html) : discussion de la 2e partie (suite - écologie et développement durable, défense, services du Premier ministre, fonction publique et réforme de l'Etat)
+    - [Compte rendu intégral de la séance du 8 décembre 2003](http://www.senat.fr/seances/s200312/s20031208/s20031208_mono.html) : discussion de la 2e partie (suite - budgets annexes de la Légion d'honneur et de l'ordre de la Libération, justice), discussion des articles non rattachés (art additionnels avant art 60 A, art 60 A, art additionnels avant art 60, art 60, art additionnel après art 60 ou après art 60 bis, art additionnels après art 60, art 60 bis, art additionnel après art 60 bis, art 61, art 62, art additionnels après art 62, art 62 bis, art 63, art 64, art 66)
+    - [Compte rendu intégral de la séance du 9 décembre 2003](http://www.senat.fr/seances/s200312/s20031209/s20031209_mono.html) : discussion des articles non rattachés (suite - art 67, art additionnels après art 67, art 67 bis, art 68, art additionnels après art 69, art additionnels après art 69 quater, art 69 quinquies, art additionnels après art 69 quinquies, art 69 sexies, art additionnel avant art 69 septies, art additionnels après art 69 septies, art 69 octies, art additionnel après art 69 octies, art additionnels avant art 69 nonies, art 69 nonies, art additionnels après art 69 nonies, art 69 decies, art additionnels après art 69 duodecies, art 70, art 71, art additionnels après art 71, art 71 bis, 2nde délibération, art 44 et état B, art 45 et état C, art 59 et état H, art 66, art 76 bis, art 42 et état A), vote sur l'ensemble
+  - Assemblée nationale (lecture texte CMP)
+    - Compte rendu intégral de la séance du 17 décembre 2003 :
+      - [2ème séance du 17 décembre 2003](http://www.assemblee-nationale.fr/12/cri/2003-2004/20040107.asp#PG0) : discussion générale, explications de vote, vote sur l'ensemble
+  - Sénat (lecture texte CMP)
+    - [Compte rendu intégral de la séance du 18 décembre 2003](http://www.senat.fr/seances/s200312/s20031218/st20031218000.html) : discussion générale, discussion des articles (art 10 bis, art 14 bis, art 18, art 23, art 24, art additiojnnel après art 28, art 31, art 40 bis, art 42 et état A, art 44 et état B, art 60 A, art 70), vote sur l'ensemble
