@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701651
+
+- Question : [SEQ970701651](seq970701651.md) — Amélioration du fonctionnement des unités de soins palliatifs
+
+## Réponse
+
+*Santé, JO du 1998-03-26, page 996*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le secrétaire d'Etat à la santé sur la situation des soins palliatifs en France et leur répartition. Il est rappelé que depuis la réforme hospitalière du 31 juillet 1991, et conformément à l'article 711-4 du code de la santé publique, le service public hospitalier a l'obligation de dispenser aux patients " les soins palliatifs que requiert leur état et de veiller à la continuité de ces soins, à l'issue de leur admission ou de leur hébergement ". Les soins palliatifs sont intégrés dans le projet d'établissement au même titre que les soins préventifs ou curatifs. Entre 1992 et 1997, le nombre d'équipes mobiles de soins palliatifs est passé de six à cinquante-cinq et le nombre d'unités disposant de lits de vingt-six à cinquante et une soit au total 547 lits. La région Rhône-Alpes est dotée à l'heure actuelle de cinq unités et de deux équipes mobiles de soins palliatifs. D'une manière générale, la notion d'équipes mobiles destinées à intervenir là où le patient est soigné a été privilégiée parce que les soins palliatifs ont leur place partout que ce soit en services de soins de courte durée, de suite ou de réadaptation, de longue durée ou en hospitalisation à domicile. La création d'unités de soins palliatifs est plus particulièrement préconisée dans les centres hospitaliers et universitaires qui, dans l'exercice de leur triple mission de soins, d'enseignement et de recherche, doivent contribuer à la diffusion des connaissances en la matière. Par ailleurs, les schémas régionaux d'organisation sanitaire fixent fréquemment des objectifs visant à améliorer l'organisation du dispositif des soins palliatifs en hiérarchisant les priorités régionales en ce sens.
