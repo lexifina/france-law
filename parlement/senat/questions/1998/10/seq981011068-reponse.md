@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011068
+
+- Question : [SEQ981011068](seq981011068.md) — Assurance maladie et indemnités journalières
+
+## Réponse
+
+*Emploi, JO du 1999-01-07, page 36*
+
+Réponse. - Pour ouvrir droit aux indemnités journalières de moins de six mois de l'assurance maladie, l'assuré doit aux termes de l'article R. 313-3 (1º) du code de la sécurité sociale, justifier à la date de l'interruption de travail : soit d'un montant de cotisations au titre des assurances maladie, maternité, invalidité et décès assises sur les rémunérations perçues, au moins égal au montant de ces cotisations dues pour un salaire au moins égal à 1 015 fois au moins la valeur du SMIC au 1er janvier qui précède immédiatement le début de la période de référence ; soit d'au moins 200 heures de travail salarié ou assimilé au cours des trois mois civils ou des quatre-vingt-dix jours précédents. Toutefois, lorsque l'activité est insuffissante au cours de la période de référence pour atteindre ces quantums parce que les personnes appartiennent à des professions à caractère saisonnier ou discontinu, celles-ci doivent justifier pendant les douze mois civils précédant l'interruption de travail pour ouvrir droit aux indemnités journalières, de quantums fixés soit à 800 heures minimales soit à un montant de cotisations au moins égal à celui dû pour un salaire égal à 2 030 fois le SMIC. En l'absence de liste exhaustive des professions à caractère saisonnier ou discontinu, l'appartenance à ces professions est appréciée par la caisse primaire d'assurance maladie, par référence à la législation du travail et aux définitions strictes données par la jurisprudence de la Cour de cassation. La législation actuelle subordonne en effet le droit aux prestations en espèces à la justification d'une activité professionnelle suffisante qui aux termes de celle-ci correspond au minimum à un temps partiel de dix-sept heures par semaine.
