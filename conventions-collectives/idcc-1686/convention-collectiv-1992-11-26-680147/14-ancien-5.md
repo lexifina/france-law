@@ -1,0 +1,9 @@
+# Article 14 *ancien  5*
+
+Les entreprises entrant dans le champ d'application de la convention collective sont tenues de verser à l'Agefos - P.M.E. :
+
+- leur contribution de 0,1 p. 100 additionnelle à la taxe d'apprentissage destinée au financement des formations en alternance pour les entreprises de moins de dix salariés ;
+
+- 25 p. 100 de la contribution de 0,4 p. 100 destinée au financement de l'alternance pour les entreprises de dix salariés et plus,
+
+conformément au décret n° 93-756 du 29 mars 1993.

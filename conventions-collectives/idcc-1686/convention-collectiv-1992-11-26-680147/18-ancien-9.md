@@ -1,0 +1,3 @@
+# Article 18 *ancien  9*
+
+Les signataires conviennent de se rencontrer dans le cas où des modifications législatives ou réglementaires viendraient à remettre en cause tout ou partie des dispositions du présent accord.

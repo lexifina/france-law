@@ -1,0 +1,13 @@
+# Article 12 *ancien  3*
+
+La commission paritaire a pour mission, dans le cadre du présent avenant de :
+
+- déterminer la politique de la profession en ce qui concerne la formation continue ;
+
+- fixer les priorités de formation au titre de formation continue ;
+
+- analyser les besoins de la profession en matière d'actions collectives par la réalisation d'études et l'analyse des statistiques fournies par l'AGEFOS-P.M.E. ou tout autre organisme qualifié ;
+
+- assurer la liaison et la coordination avec toutes les instances représentatives de la profession ;
+
+- collecter des informations sur la dimension européenne de la formation dans la profession.

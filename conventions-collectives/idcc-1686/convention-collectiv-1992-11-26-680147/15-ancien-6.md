@@ -1,0 +1,5 @@
+# Article 15 *ancien  6*
+
+Les fonds ainsi collectés seront affectés à divers établissements, en ayant fait la demande, assurant une formation par la voie de l'apprentissage pour les métiers spécifiques à la profession.
+
+La liste des établissements bénéficiaires est établie chaque année en temps utile par la commission paritaire prévue à l'article 2, après examen des dossiers.
