@@ -1,7 +1,0 @@
-# Article 19, ETDAM
-
-En cas de déplacement du lieu de travail intervenu sur la demande de l'employeur et nécessitant un changement de résidence, l'employeur devra rembourser les frais assumés par l'E.T.D.A.M. pour se rendre à son nouveau lieu de travail. Le remboursement portera sur les frais de déménagement, ainsi que sur les frais de déplacement de l'intéressé, de son conjoint et de ses enfants à charge vivant avec lui. Ces frais seront, sauf accord spécial, calculés sur la base du tarif (rail ou route) le moins onéreux.
-
-Dans l'hypothèse ci-dessus, la non-acceptation par l'E.T.D.A.M. est considérée comme une rupture du contrat de travail du fait de l'employeur et est réglée comme telle.
-
-Les conditions de rapatriement en cas de licenciement non provoqué par une faute grave des E.T.D.A.M. ainsi déplacés devront être précisées lors de leur mutation.
