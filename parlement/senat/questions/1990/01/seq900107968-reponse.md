@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107968
+
+- Question : [SEQ900107968](seq900107968.md) — Conséquences de la réduction des astreintes pour le personnel des brigades territoriales de la gendarmerie
+
+## Réponse
+
+*Défense, JO du 1990-03-01, page 419*
+
+Réponse. - La qualité du service de la gendarmerie nationale sera maintenue, malgré la réduction des astreintes imposées aux militaires des brigades, grâce à l'adoption d'une nouvelle organisation du service des unités qui combineront désormais leurs efforts dans un cadre géographique élargi afin de garantir à tout moment la rapidité de l'intervention. Les appels de nuit recevront ainsi toujours une réponse immédiate soit du personnel de la brigade directement concernée, soit d'un service spécialisé de veille, auquel sera raccordée cette unité. Les interventions résultant de ces appels seront prises en charge alternativement par la brigade locale, comme par le passé oupar une autre unité en alerte ou en service à proximité. Les délais d'intervention seront donc les mêmes lorsque celle-ci sera prise en compte par la brigade locale ; ils pourront être, selon le cas, légèrement allongés ou réduits, en fonction du lieu de l'événement lorsque le service spécialiséde veille alertera l'unité voisine ou la patrouille de surveillance la plus proche. Lorsqu'un événement, nécessitera des effectifs plus importants, supérieurs à ceux de la brigade locale ou de l'unité de première intervention, ceux-ci seront concentrés par les soins du service spécialisé de veille. Au total, compte tenu des moyens techniques qui seront mis en place au cours de l'année, ce dispositif, qui pourrait faire l'objet de quelques ajustements durant une période d'adaptation, fonctionnera au mieux des intérêts de chacun et se traduira à terme par une amélioration du service.
