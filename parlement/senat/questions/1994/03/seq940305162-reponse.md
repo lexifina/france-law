@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305162
+
+- Question : [SEQ940305162](seq940305162.md) — Sécurité des Français en Colombie
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-05-05, page 1064*
+
+Réponse. - Deux ressortissants français, résidents à Bogota, ont été enlevés le 20 février dernier par des éléments de la guérilla colombienne alors qu'ils se rendaient, à des fins touristiques, dans la Sierra de la Macarena, à 200 kilomètres de Bogota, dans un endroit particulièrement isolé et notoirement fréquenté par les mouvements de guérilla. Ce malheureux épisode est intervenu par ailleurs dans le contexte de la préparation de la campagne électorale pour les élections législatives et présidentielles. Immédiatement, l'ambassade de France a saisi les autorités colombiennes afin que tous les moyens soient mis en oeuvre pour retrouver nos compatriotes. Des unités de lutte contre la guérilla ont été lancées dans la localité et des relais d'information locaux ont été sollicités. Nos deux ressortissants ont été libérés le 29 mars. En bonne santé, ils ont été accompagnés par des membres de notre ambassade jusqu'à Bogota où ils ont été immédiatement mis en contact téléphonique avec leur famille en France. Selon les premières indications, ce mouvement de guérilla, qui prétend avoir agi par méprise, a présenté ses excuses au gouvernement français. En tout état de cause, notre ambassade dispense systématiquement sur place toutes recommandations utiles en matière de sécurité pour les déplacements dans les localités sensibles. En outre, des recommandations sont adressées aux particuliers français désireux de se rendre dans ce pays par les services compétents du ministère des affaires étrangères. Ces consignes de sécurité sont par ailleurs répercutées auprès des agences de voyage par la direction du tourisme (du ministère de l'équipement).
