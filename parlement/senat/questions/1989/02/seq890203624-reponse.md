@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203624
+
+- Question : [SEQ890203624](seq890203624.md) — Anciens combattants et privilège des bouilleurs de cru
+
+## Réponse
+
+*Budget, JO du 1989-04-20, page 625*
+
+Réponse. - Le droit à l'allocation en franchise prévu en faveur des bouilleurs de cru, supprimé par l'ordonnance n° 60-907 du 30 août 1960, a été maintenu au profit, d'une part, des personnes qui pouvaient y prétendre au cours de la campagne 1959-1960 et, d'autre part, des militaires qui, bien que remplissant les conditions requises, n'avaient pu en bénéficier du fait de leur présence sous les drapeaux pendant ladite campagne. Dans cet esprit, il a été admis par décision conjointe du Premier ministre, du ministre des finances et des affaires économiques et du secrétaire d'Etat aux finances en date du 22 décembre 1960 que les jeunes gens ayant accompli leur service militaire légal pendant tout ou partie de la campagne de distillation 1959-1960 pouvaient bénéficier de l'allocation de franchise s'ils avaient exercé une activité agricole nettement caractérisée avant leur incorporation et si, dans l'année suivant leur libération, ils étaient devenus, à titre principal, exploitants agricoles et avaient été assujettis, à ce titre, au régime de la mutualité sociale agricole. Cette mesure n'accordait donc pas le bénéfice de l'allocation en franchise à tous les anciens combattants d'Afrique du Nord mais le maintenait seulement à ceux qui en auraient été empêchés par leur situation militaire pendant la campagne de distillation 1959-1960. Pour obtenir leur inscription au répertoire des bouilleurs de cru, les intéressés doivent présenter au service local des impôts les documents attestant leur présence sous les drapeaux pendant tout ou partie de la période de référence, leur activité agricole avant leur incorporation et l'acquisition de la qualité d'exploitant agricole, à titre principal, dans l'année suivant la date de leur libération.
