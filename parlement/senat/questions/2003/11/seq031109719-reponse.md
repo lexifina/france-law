@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109719
+
+- Question : [SEQ031109719](seq031109719.md) — Conditions de mobilité des personnels de direction des établissements scolaires
+
+## Réponse
+
+*Enseignement scolaire, JO du 2004-03-04, page 529*
+
+Le protocole d'accord et le décret 2001-1174 du 11 décembre 2001 portant statut des personnels de direction organisent la revalorisation de la fonction et de la carrière des personnels de direction. Parmi les mesures retenues figure en effet celle d'accroître la mobilité et les débouchés de carrière. La mobilité est un élément fondamental pour la réforme de l'Etat et l'efficacité du service public ; que cette mobilité soit géographique ou fonctionnelle, elle permet un véritable parcours professionnel. Des mesures transitoires permettent aux personnels de direction nés avant le 1er septembre 1946 qui ont occupé trois emplois de direction d'être dispensés de mobilité pour pouvoir bénéficier de promotion. Cette mesure prend en compte la mobilité déjà réalisée par les personnels concernés et le peu d'années d'exercice qu'il leur reste à effectuer. Pour les autres personnels de direction, l'obligation de mobilité, par l'enrichissement professionnel qu'elle apporte aux intéressés, participe à la qualité du service rendu. Ces dispositions s'appliquent déjà à certains personnels d'encadrement et devraient s'appliquer à l'avenir à d'autres catégories de personnels. Afin de permettre aux personnels concernés par l'obligation de mobilité d'obtenir un établissement conforme à leur voeu, il leur est conseillé d'émettre des voeux les plus larges possibles, et les responsables des ressources humaines des académies les accompagnent en tant que de besoin dans leur projet professionnel. L'examen des candidatures se fait ensuite à l'échelon national, en fonction des appréciations portées sur les dossiers, au regard des compétences de chacun. A qualité égale, préférence pourra être donnée au candidat soumis à obligation de mobilité.
