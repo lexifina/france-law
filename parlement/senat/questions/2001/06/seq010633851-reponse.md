@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633851
+
+- Question : [SEQ010633851](seq010633851.md) — Mise en place systématique de compteurs d'eau
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-08-23, page 2779*
+
+Diverses mesures ont été prises ou décidées récemment pour développer l'individualisation du comptage de l'eau, et ainsi favoriser une répartition plus précise des dépenses et une meilleure maîtrise de la consommation par les usagers. Dans cet esprit, la loi du 13 décembre 2000 relative à la solidarité et au renouvellement urbains a aménagé les règles de vote dans les copropriétés pour faciliter la pose de compteurs individuels et, par conséquent, la conclusion d'abonnements individuels avec le service de distribution d'eau et la facturation directe à l'usager individuel. En parallèle, cette même loi prévoit une obligation pour les services de distribution d'eau de procéder à une individualisation des contrats à la demande des propriétaires d'immeubles collectifs. Lorsque cette demande émane d'un propriétaire bailleur, elle doit être précédée d'une information complète des locataires sur la nature et les conséquences techniques de l'individualisation. Par ailleurs, le projet de loi sur l'eau adopté en conseil des ministres le 27 juin 2001 dispose que toute nouvelle construction d'immeuble à usage principal de logements devra comporter une installation permettant la pose de compteurs d'eau froide. La maîtrise de la consommation d'eau passe également par un renforcement de l'information des usagers sur leur consommation et sur les prix. Un arrêté du 10 juillet 1996 relatif aux factures de distribution d'eau, de collecte et de traitement des eaux usées a précisé le contenu et la présentation de la facture, en vue d'assurer au consommateur une information claire et détaillée. Cet arrêté est applicable à tous les services, quelle que soit leur taille, depuis le 1er juillet 2000.
