@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501024
+
+- Question : [SEQ930501024](seq930501024.md) — Création d'un observatoire de la départementalisation de la police
+
+## Réponse
+
+*Intérieur, JO du 1993-11-25, page 2261*
+
+Réponse. - La départementalisation des services de la police nationale avait été conçue et mise en oeuvre pour que la police urbaine, la police de l'air et des frontières et les renseignements généraux soient regroupés au sein de la direction centrale de la police territoriale et des directions départementaes de la police nationale. Trop souvent, elle était accompagnée d'une hypertrophie des états-majors et de la démotivation de certains services. Pour autant la synergie qui, normalement, était espérée entre ceux-ci n'a pu être véritablement effective. Un décret du 31 août 1993 pris sur le rapport du ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, a supprimé à la fois la direction centrale de la police territoriale et les directions départementales de la police nationale. Ces dispositions ont, d'une part, permis aux services centraux de retrouver leur personnalité propre, d'autre part, mis un terme aux pouvoirs hiérarchiques que les directeurs départementaux exerçaient sur l'ensemble des services de police. Ces directeurs ont été, à la même date, remplacés par des directeurs de la sécurité publique. Ceux-ci, simultanément directeurs des polices urbaines et chefs de service à part entière sont, en outre, les conseillers des préfets et les coordonnateurs pour la conception, l'établissement et la mise en oeuvre des plans départementaux de sécurité pour les zones relevant de la compétence de la police nationale, ainsi que pour l'établissement et l'exécution des budgets à partir de crédits de la direction générale de la police nationale. Cette réforme a eu comme conséquence la suppression ipso facto de l'observatoire de la départementalisation chargé d'assurer le suivi de la réforme dont il portait le nom.
