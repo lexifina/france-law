@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136393
+
+- Question : [SEQ011136393](seq011136393.md) — Bilan de la mise en place des chartes départementales du développement des chorales
+
+## Réponse
+
+*Éducation, JO du 2002-01-31, page 305*
+
+Dans le cadre de la première étape du plan de cinq ans pour l'éducation artistique et culturelle, la direction de l'enseignement scolaire a publié une note, le 9 avril 2001, à l'intention de tous les recteurs et inspecteurs d'académie sur la mise en oeuvre de chartes départementales de développement de la pratique vocale et chorale. L'objectif de ces chartes est de favoriser la généralisation de la pratique vocale et chorale de l'enfant dès le premier degré. La charte doit permettre la mise en place de partenariats concourant à des réalisations musicales de qualité à l'échelle de chaque département. Pour cette année scolaire 2001-2002, quarante-sept chartes départementales ont été signées. Pour mettre en place ces projets des crédits Arts et culture ont été délégués dans les départements : 304 898,03 euros (2 MF) seront consacrés à l'achat de petit matériel, au transport des élèves pour qu'ils assistent à des spectacles musicaux et au paiement d'intervenants extérieurs ; 609 796,06 euros (4 MF) permettront la production et la diffusion d'outils pédagogiques pour soutenir l'action des maîtres et l'organisation de rencontres musicales entre chorales. Sur les crédits de la formation continue, des stages en direction des enseignants ont été prévus. En outre, sur l'ensemble des départements, 2 866 classes à projet artistique et culturel ont été répertoriées dans le domaine musical, chaque classe étant subventionnée à hauteur de 609,80 euros (4 000 francs) par l'éducation nationale. L'éducation musicale considérée comme une priorité par le ministre a donc bénéficié de crédits importants. L'année scolaire prochaine doit voir le développement des pratiques initiées cette année.
