@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109733
+
+- Question : [SEQ031109733](seq031109733.md) — Modalités de l'indemnisation des victimes du nazisme
+
+## Réponse
+
+*Anciens combattants, JO du 2003-12-25, page 3708*
+
+Comme le sait l'honorable parlementaire, le décret n° 2000-657 du 13 juillet 2000 a institué une mesure parfaitement légitime de réparation destinée aux personnes dont le père ou la mère a été déporté à partir de la France dans le cadre des persécutions antisémites durant l'Occupation et a trouvé la mort en déportation alors qu'elles étaient mineures. Afin de répondre à l'attente exprimée notamment par les orphelins de déportés résistants qui avaient demandé, dès le mois de publication du texte précité, l'extension de son champ d'application, le Premier ministre, vient de rendre publique la décision du Gouvernement d'accorder aux orphelins des victimes de la barbarie nazie une indemnisation identique à celle dont bénéficient, au titre du décret du 13 juillet 2000, les orphelins dont les parents ont été victimes de persécutions antisémites. Cette décision fait suite à la remise du rapport que le secrétaire d'Etat aux anciens combattants a demandé en septembre 2002 à M. Philippe Dechartre, ancien résistant, ancien ministre du général de Gaulle et de Georges Pompidou. Les études et consultations conduites par M. Dechartre ont fait l'objet d'une synthèse présentée au Gouvernement au début de l'été dont il ressortait que, dans un souci de justice et d'équité, le dispositif de réparation institué par le décret du 13 juillet 2000 devait être étendu aux orphelins de déportés politiques et résistants, de fusillés et de massacrés. A cette fin, le Premier ministre a demandé au secrétaire d'Etat aux anciens combattants de déterminer avec précision le périmètre des ressortissants éligibles à ce nouveau dispositif. Le décret d'application de cette mesure d'indemnisation interviendra dans les meilleurs délais, dès ces travaux finalisés.
