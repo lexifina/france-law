@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902645
+
+- Question : [SEQ020902645](seq020902645.md) — Insécurité : multiplication incontrôlée des clefs universelles
+
+## Réponse
+
+*Industrie, JO du 2003-01-02, page 56*
+
+La clé postale d'accès aux immeubles dénommée passe " T " n'offre pas aux gestionnaires d'immeubles la maîtrise d'accès d'autres intervenants. La Poste, consciente de la multiplication des cas d'utilisation abusive de ce passe et de sa duplication frauduleuse, a donc développé, avec des industriels du secteur, un système de clé électronique infalsifiable dénommé VIGIK qui répond au souci légitime de sécurité des résidents. VIGIK est une clé électronique non copiable, rechargeable, et à durée de validité limitée. Un dispositif de chargement de badges est installé chez les prestataires de services (bureaux distributeurs de La Poste, EDF/GDF, chauffagistes, sociétés d'entretien des ascenseurs, opérateurs de télécommunications, entreprises de nettoyage...) qui attribuent un badge à leurs agents. Cette clé est rechargée au début de chaque intervention pour une durée allant de quelques heures à trois jours maximum. Au-delà de cette période elle ne permet plus d'ouvrir la porte de l'immeuble. Chaque autorisation d'accès est activée quotidiennement en fonction de l'horaire de vacation de chaque agent. Les informations sont codées à l'aide d'un procédé infalsifiable. Un lecteur de badge situé à l'entrée de l'immeuble est relié à une centrale installée à l'intérieur de l'immeuble. Celle-ci vérifie que l'entreprise est autorisée par le gestionnaire, contrôle la date et la plage horaire chargées sur le badge et commande l'ouverture de la porte. Ce standard technologique commercialisé par quinze fabricants est adopté par la quasi-totalité des principaux intervenants publics et privés. Au 31 juillet 2002, 22 600 immeubles étaient équipés de serrures VIGIK dans 541 villes, soit une progression de 108 % sur un an.
