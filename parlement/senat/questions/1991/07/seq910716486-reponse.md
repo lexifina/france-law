@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716486
+
+- Question : [SEQ910716486](seq910716486.md) — Politique de la France à l'égard du Liban
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-09-05, page 1871*
+
+Réponse. - La France et le Liban entretiennent des relations étroites et diversifiées qui sont le produit de l'Histoire, de valeurs partagées et d'évidentes affinités, notamment sur le plan de la francophonie. La solidité de ces liens s'est vérifiée au cous des années récentes où notre pays n'a épargné aucun effort pour que le Liban retrouve sa pleine indépendance, son unité, son intégrité territoriale et sa souveraineté. Cette action persévérante a rendu les deux pays encore plus proches. Aussi la question n'est-elle pas de rétablir entre eux un climat de confiance qui n'a jamais cessé d'être mais bien plutôt, alors que le Liban vient d'accomplir des pas en avant significatifs dans la voie du retour à une vie normale, de définir les modalités du concours que la France peut lui apporter dans la phase nouvelle qui s'est ouverte. Sur le plan politique, la France, qui a apporté son appui aux accords de Taëf ouvrant la voie à la réconciliation nationale, notamment par la suppression des milices, à la restauration de la pleine souveraineté du pays par le retrait de toutes les forces étrangères et à la libre expression de ses choix par des élections libres, continuera d'encourager la réalisation de ces objectifs. Par sa coopération culturelle et économique, elle s'emploiera de même à conforter l'identité libanaise dont la sauvegarde est l'objet même des efforts engagés depuis les accords de Taëf. Déjà, plusieurs missions françaises de hauts fonctionnaires ont eu lieu au Liban pour faire l'inventaire des besoins de nos partenaires libanais et arrêter les modalités de l'aide que la France, dans le mesure de ses moyens, apportera au Liban afin de contribuer à sa reconstruction.
