@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400076
+
+- Question : [SEQ860400076](seq860400076.md) — Parc des téléphones publics
+
+## Réponse
+
+*Postes et télécommunications, JO du 1986-07-17, page 1014*
+
+Réponse. -Si le parc des téléphones publics n'est pas en mesure de répondre à l'attente des usagers autant que le souhaiterait l'administration des postes et télécommunications, c'est en effet davantage pour des raisons d'indisponibilité des appareils installés que d'insuffisance quantitative globale, ce parc comptant actuellement 170 000 appareils. Aussi les efforts déployés ont-ils pour objet de mieux le protéger contre les actes de vandalisme dénoncés à juste titre. A cet égard, l'action s'exerce sur quatre points : rénovation du parc de publiphones à pièces par l'installation d'un nouveau modèle (TE 80) plus robuste ; installation progressive d'appareils à cartes à mémoire, supprimant l'encaisse et donc un des motifs du vandalisme ; mise en place d'un système de télésurveillance permettant de détecter les cabines en panne ou utilisées frauduleusement ; implantation d'appareils dans des sites protégés (publiphones d'intérieur dit " point-phone "). Quant àl'action répressive, qui dépasse largement la compétence de l'administration des postes et télécommunications, cette dernière ne laisse, pour sa part, échapper aucune occasion de sensibiliser au problème les autorités ayant compétence en matière de maintien de l'ordre (police, gendarmerie, justice), ni de demander, chaque fois qu'elle le peut, des poursuites à l'encontre des délinquants appréhendés. En outre, elle est prête dorénavant à rechercher des solutions originales en faisant appel à tout entrepreneur, public ou privé, susceptible de faire des propositions concrètes, tant en matière de matériel que des procédures d'exploitation et de gestion.
