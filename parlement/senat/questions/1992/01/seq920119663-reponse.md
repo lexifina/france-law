@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119663
+
+- Question : [SEQ920119663](seq920119663.md) — Modalités de versement de l'allocation capital-décès
+
+## Réponse
+
+*Budget, JO du 1993-03-25, page 517*
+
+Réponse. - Le refus opposé par l'administration au versement du capital décès aux ayants droit d'un fonctionnaire décédé dans les trois mois suivant l'admission à la retraite répond à un souci de cohérence dans la gestion des systèmes de protection sociale. En effet, le fonctionnaire en activité bénéficie d'un régime spécial d'assurance maladie en application de l'article L. 712-1 du code de la sécurité sociale. Le fonctionnaire à la retraite relève, quant à lui, du régime général d'assurance maladie pour les seules prestations en nature. C'est pourquoi, le capital décès étant une prestation en espèce liée à l'activité, l'administration a considéré que les modalités d'ouverture de droits devaient s'apprécier au regard des règles propres à chacun des régimes s'appliquant durant l'activité. Or, le maintien des droits dans les trois mois suivant l'admission à la retraite est une disposition propre aux assurés ayant relevé du régime général pendant leur activité. A la suite de différents recours, la Cour de cassation en a jugé autrement et a conclu au versement du capital décès aux ayants droit de fonctionnaire décédé dans les trois mois de l'admission à la retraite. Dans l'attente d'une clarification des différents textes, les pouvoirs publics ont décidé de ne pas interjeter appel des décisions de justice intervenues en première instance et ont donné instruction aux comptables publics de ne pas s'opposer au versement du capital décès lorsque les conditions de durée de travail salarié prévues à l'article L. 313-1 du code de la sécurité sociale sont remplies par le fonctionnaire à la date de son décès.
