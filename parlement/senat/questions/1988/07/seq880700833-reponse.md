@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700833
+
+- Question : [SEQ880700833](seq880700833.md) — Harmonisation fiscale de l'Europe routière
+
+## Réponse
+
+*Transports, JO du 1988-08-25, page 949*
+
+Réponse. - Le ministre des transports et de la mer est tout à fait conscient de la nécessité de faire progresser l'Europe des transports routiers. Tout en se félicitant des résultats obtenus au conseil des 20 et 21 juin 1988 en matière d'accès au marché des transports routiers de marchandises, il entend intensifier les efforts pour aboutir à une harmonisation plus complète des poids et dimensions des véhicules routiers de transport de marchandises au sein de la Communauté. Dans le domaine fiscal, les décisions communautaires demeurent soumises à la règle de l'unanimité, ce qui risque d'empêcher un aboutissement rapide des actions entreprises ; le ministre des transports et de la mer n'en contribuera pas moins à oeuvrer au sein du conseil " transports " pour l'élimination progressive des distorsions de concurrence de nature fiscale entre transporteurs. Au demeurant, ce qui importe, d'un point de vue strictement national, c'est d'éviter que les transporteurs fran çais se trouvent défavorisés par rapport à leurs concurrents étrangers : or si, pour ce qui est de la taxation du gazole, la France fait partie des pays dont les taxes intérieures sont élevées, le niveau des taxes acquittées sur les véhicules est chez nous relativement faible, de sorte que globalement la situation de nos transporteurs n'apparaît pas défavorable. Le seul désavantage spécifique dont ils souffrent, la non-déductibilité de la taxe sur la valeur ajoutée sur le gazole à concurrence de 40 p. 100 de son montant, diminuera régulièrement pour disparaître en 1992, conformément aux dispositions de l'article 27 de la loi de finances initiale pour 1988.
