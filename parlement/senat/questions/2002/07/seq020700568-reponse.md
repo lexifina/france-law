@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700568
+
+- Question : [SEQ020700568](seq020700568.md) — Prime spécifique aux centres de placement immédiat
+
+## Réponse
+
+*Justice, JO du 2002-08-22, page 1868*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les éléments d'appréciation qu'il a bien voulu porter à sa connaissance sur la situation indemnitaire des personnels administratifs exerçant leurs fonctions dans les centres de placement immédiat, plus particulièrement sur l'attribution de la prime d'encadrement éducatif renforcé, ont retenu toute son attention. L'article 1er du décret n° 96-956 du 30 octobre 1996, modifié par le décret n° 2000-380 du 28 avril 2000 dispose qu'" une prime d'encadrement éducatif renforcé est attribuée, à l'exclusion des personnels administratifs, aux personnels des services déconcentrés de la protection judiciaire de la jeunesse, qui sont affectés et qui exercent leurs fonctions dans les centres éducatifs renforcés et les centres de placement immédiat ". Ces textes écartent donc sans aucune ambiguïté la possibilité d'accorder le bénéfice de cette indemnité très particulière aux personnels administratifs. En effet, les personnels administratifs ne sont pas directement soumis aux contraintes et à la difficulté propre à l'encadrement des jeunes affectés dans ces structures. Cette indemnité traduit la différence dans la nature des fonctions exercées par rapport à d'autres catégories de personnel, sans remettre en cause la réalité de la contribution apportée par les personnels administratifs dans l'accueil et l'écoute des jeunes qui sont placés dans les structures d'hébergement. Il convient d'ajouter que les personnels administratifs perçoivent l'indemnité spécifique d'hébergement qui marque la reconnaissance du rôle assumé par l'ensemble du personnel travaillant dans les services d'hébergement auprès des jeunes en difficulté.
