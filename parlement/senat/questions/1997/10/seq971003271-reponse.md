@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003271
+
+- Question : [SEQ971003271](seq971003271.md) — Evolution de l'organisation territoriale française
+
+## Réponse
+
+*Intérieur, JO du 1998-12-03, page 3872*
+
+Réponse. - L'adaptation de l'organisation territoriale constitue l'une des préoccupations du Gouvernement. Son action, en direction des collectivités territoriales et des services de l'Etat, se manifeste par l'élaboration de deux projets de loi, par la définition de nouvelles modalités de préparation des contrats de plan Etat-régions et par le lancement d'une réflexion sur l'adaptation de l'administration territoriale de l'Etat. L'avant-projet de loi relatif à l'organisation urbaine et à la simplification de la coopération intercommunale, s'appuyant sur le rôle structurant des agglomérations, définit un cadre rénové pour l'intercommunalité en milieu urbain et crée la communauté d'agglomération dotée d'une taxe professionnelle unique d'agglomération. Parallèlement à la mise en place de mesures financières et fiscales renforçant les liens de solidarité entre communes, les règles d'orgnisation et de fonctionnement de l'ensemble des structures de coopération intercommunale sont simplifiées, rationalisées et favorisent la transparence. Le projet de loi relatif à l'aménagement et au développement durable du territoire prévoit l'élaboration de schémas de services collectifs, ainsi que le développement, dans le cadre des contrats de plan Etat-régions, de contrats d'agglomération et de contrats de pays qui favoriseront l'organisation du territoire à l'échelle locale, fondée sur des projets de développement. Enfin, les services de l'Etat seront appelés à se moderniser dans le cadre de " projets territoriaux de l'Etat ", élaborés dans les régions et les départements sous l'autorité des préfets. Ces démarches ont en commun de faire évoluer l'organisation des politiques publiques à partir de la réalité économique et humaine des territoires.
