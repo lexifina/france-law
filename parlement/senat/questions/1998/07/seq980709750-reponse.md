@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709750
+
+- Question : [SEQ980709750](seq980709750.md) — Prise en charge d'articles médicalement justifiés
+
+## Réponse
+
+*Emploi, JO du 1998-12-10, page 3963*
+
+Réponse. - Les dépenses de soins liées au handicap ou à la maladie sont prises en charge par les régimes de base obligatoires, pour les prestations énumérées à l'article L. 321-1 du code de la sécurité sociale et selon les conditions prévues par les nomenclatures d'actes et de prestations remboursables : le tarif interministériel des prestations sanitaires (TIPS) en ce qui concerne les appareils à usage individuel et accessoires de traitement à domicile, y compris le petit matériel consommable. De nombreux matériels médicaux destinés aux traitements à domicile et notamment les sondes vésicales et les poches pour stomisés sont inscrits au tarif interministériel des prestations sanitaires et sont de ce fait pris en charge par les organismes d'assurance maladie. Pour les frais non couverts, tels que ceux occasionnés par le maintien à domicile d'une personne incontinente, une participation financière complémentaire au titre des prestations supplémentaires financées sur crédits d'action sanitaire et sociale peut être accordée à l'assuré qui en fait la demande auprès de sa caisse d'affiliation, lorsque ses ressources sont jugées insuffisantes au regard des frais exposés. Il existe par ailleurs des dispositifs dont l'objet est précisément de solvabiliser ce type de besoins. Il en est ainsi de la prestation spécifique dépendance (PSD), instituée par la loi nº 97-60 du 24 janvier 1997 au profit des personnes âgées, qui peut notamment être utilisée, dans la limite d'un plafond et dans la mesure où la nécessité en a été constatée lors de la visite médico-sociale, à des dépenses telles que : frais de changes à usage unique ou recyclables pour les personnes incontinentes, frais de nettoyage et de blanchissage, voire frais d'acquisition d'aides techniques.
