@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113525
+
+- Question : [SEQ960113525](seq960113525.md) — Versement des indemnités aux personnes ayant effectué des opérations de mise sous plis lors des élections municipales
+
+## Réponse
+
+*Intérieur, JO du 1996-02-22, page 418*
+
+Réponse. - Les opérations de libellé et de mise sous pli des documents de propagande (circulaires et bulletins de vote) des listes de candidats aux élections municipales dans les communes de plus de 2 500 habitants font partie des travaux incombant aux commissions de propagande, en application des articles L. 241 et R. 34 du code électoral. La rémunération de ces travaux est prise en charge par l'Etat conformément aux dispositions de l'article L. 242 du code précité. Les modalités de la mise en oeuvre de ce dispositif (dans lequel les communes n'ont pas à intervenir) sont décrites par la circulaire ministérielle NOR/INT/A/95/00143/C du 21 avril 1995 adressée aux préfets à propos de l'organisation des élections municipales de juin 1995, et le réglement des dépenses correspondantes n'est donc pas subordonné à des instructions nouvelles à venir. Dès le mois de mai 1995, les préfectures ont disposé d'un crédit provisionnel pour leur permettre de liquider les dépenses les plus urgentes liées au fonctionnement des commissions de propagande. En cas d'insuffisance des sommes ainsi déléguées, une délégation complémentaire est effectuée au vu d'une demande du préfet. S'agissant du département des Yvelines, dont l'auteur de la question est l'élu, une demande en ce sens, portant d'ailleurs sur un montant modique, a été effectivement reçue au ministère de l'intérieur et la délégation complémentaire qui y fait suite doit donc permettre d'apurer définitivement le solde des rémunérations dues au titre des travaux des commissions de propagande pour les dernières élections municipales générales.
