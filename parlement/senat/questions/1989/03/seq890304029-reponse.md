@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304029
+
+- Question : [SEQ890304029](seq890304029.md) — Sort des établissements scolaires français en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-06-01, page 833*
+
+Réponse. - La situation actuelle ne comporte pas d'éléments nouveaux par rapport aux dispositions arrêtées à l'issue de la visite à Alger du ministre d'Etat les 4 et 5 septembre 1988 : cession du lycée Descartes au ministère algérien de l'éducation nationale ; installation, à titre provisoire, au lycée Mustapha Khalef de Ben Aknoum des élèves non algériens scolarisés auparavant au lycée Descartes ; cohabitation d'un établissement relevant de l'O.U.C.F.A. et d'un autre appartenant au système éducatif algérien à Annaba et à Oran ; mise à disposition par le gouvernement français, pour faciliter la constitution dans l'ensemble éducatif algérien d'une filière à vocation internationale, d'environ 50 professeurs français qui continuent leur enseignement dans les établissements algériens d'Alger et d'Oran et évitent pour nombre de jeunes Algériens jusque-là scolarisés dans nos établissements une discontinuité pédagogique qui leur serait préjudiciable. Le Gouverneme nt français demeure attentif à favoriser l'évolution de l'office universitaire et culturel français en Algérie en tenant compte des contraintes nouvelles qui s'imposent à lui, depuis que le Gouvernement algérien en a interdit l'accès à ses ressortissants. Il reste disponible pour toute coopération que le Gouvernement algérien souhaiterait engager formellement au profit d'une filière bilingue à vocation internationale dans le système scolaire algérien. Cette question devrait être évoquée par le secrétaire d'Etat, chargé des relations culturelles internationales, au cours du voyage qu'il effectuera prochainement en Algérie.
