@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606421
+
+- Question : [SEQ870606421](seq870606421.md) — Exploitation du trafic maritime entre la France et les territoires d'outre-mer
+
+## Réponse
+
+*Mer, JO du 1987-07-30, page 1196*
+
+Réponse. -Les liaisons maritimes, entre la France métropolitaine et les territoires d'outre-mer du Pacifique, sont effectivement menacées par une concurrence exercée dans des conditions déloyales par des armements coréens et polonais. Les conditions économiques d'exploitation de ces compagnies leur permettent de pratiquer des tarifs qui déstabilisent la desserte et mettent en cause la fiabilité du lien maritime entre la France métropolitaine et ses territoires. Ce constat a conduit le secrétariat d'Etat à la mer à envisager l'élargissement du régime de navigation réservée, avec possibilités de dérogation, aux relations maritimes entre la métropole et les territoires d'outre-mer. Cette solution autorisant une intervention préventive de l'administration, par exclusion d'armements jugés indésirables sur nos dessertes, est susceptible de répondre de façon adaptée aux dangers qui pèsent sur nos intérêts maritimes et commerciaux. Elle fait l'objet d'un projet de loi déposé récemment sur le bureau de l'Assemblée nationale. Il va de soi, néanmoins, que le Gouvernement se réserve la possibilité de mettre également en application la loi ° 83-1119 du 2? décembre 1983, relative à la protection des intérêts maritimes et commerciaux de la France, notamment dans les cas où des entreprises étrangères s'aviseraient de passer outre au principe de navigation réservée par un détournement de trafic via des ports étrangers. Cette loi, dont les implications diplomatiques et économiques sont multiples, reste donc l'ultime recours dont le Gouvernement ferait usage pour sauvegarder les intérêts fondamentaux qui s'attachent à la desserte maritime entre la France métropolitaine et la France du Pacifique-Sud.
