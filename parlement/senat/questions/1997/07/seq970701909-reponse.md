@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701909
+
+- Question : [SEQ970701909](seq970701909.md) — Statut des fonctionnaires travaillant pour le compte d'un service public à caractère administratif
+
+## Réponse
+
+*Fonction publique, JO du 1998-01-08, page 100*
+
+Réponse. - Par une décision du 25 mars 1996 " Préfet de la région Rhône-Alpes c./conseil de prud'hommes de Lyon ", le tribunal des conflits a décidé que le juge administratif était compétent pour juger les litiges opposant l'ensemble des personnels non statutaires travaillant pour le compte d'un service public administratif à leur employeur. Cette décision pose ainsi le problème du statut de ces personnels désormais considérés, par la jurisprudence, comme des agents de droit public, alors que nombre d'entre eux ont été recrutés, initialement, sur la base de contrats de droit privé et exercent des missions souvent différentes de celles qui sont dévolues à des corps de fonctionnaires. Il s'agit pour l'essentiel de tâches de restauration, ménage, jardinage ou gardiennage. Dans la mesure où le recrutement ne s'est pas opéré sur le fondement des règles statutaires permettant le recrutement d'agents non titulaires de droit public, les dispositions du décret no 86-83 du 17 janvier 1986 relatif à la protection sociale des agents non titulaires de l'Etat ne leur sont pas actuellement applicables. Conscients des difficultés rencontrées pour garantir la parfaite sécurité juridique des contrats passés avec ces personnels, les ministères concernés étudient les différentes hypothèses susceptibles de clarifier les règles de leur recrutement et de leur gestion. La diversité des situations explique les délais de traitement de ce dossier, mais la concertation interministérielle en cours devrait permettre d'arrêter les orientations nécessaires dans les prochaines semaines.
