@@ -44,7 +44,7 @@
 
 : Surfaces égales ou supérieures : |
 
-: à 20 ares : 2 F l'are. : |
+: à 20 ares : 2,06 F l'are. : |
 
 : - Moules : surfaces inférieures : |
 
@@ -58,7 +58,7 @@
 
 : TAXE SUR LA LONGUEUR : |
 
-: (moules) : 1 F par mètre : |
+: : 1 F par mètre : |
 
 :=====================================: |
 
@@ -78,17 +78,17 @@
 
 : de 5 ares. : |
 
-: - de 5 à 25 ares : 57 F : |
+: - 5 ares : 50 F : |
 
-: - de 25 à 50 ares : 114 F : |
+: - de 6 à 25 ares : 58,71 F : |
 
-: - de 50 à 75 ares : 170 F : |
+: - de 25 à 50 ares : 117,42 F : |
 
-: - de 75 à 100 ares : |
+: - de 50 à 75 ares : 175,10 F : |
 
-: (ou 1 ha) : 227 F : |
+: - de 75 à 100 ares : 233,81 F : |
 
-: - Au-dessus de 1 ha : 57 F : |
+: - Au-dessus de 1 ha : 58,71 F : |
 
 : par hectare ou partie : |
 
@@ -104,15 +104,15 @@
 
 : (moules) : : |
 
-: - 22,75 F par tranche de 100 : |
+: - 23,43 F par tranche de 100 : |
 
 : mètres jusqu'à 1.000 mètres ; : |
 
 : Au-dessus de 1.000 mètres : |
 
-: - 45,50 F par 1.000 mètres : |
+: - 46,86 F par 1.000 mètres : |
 
-: supplémentaires ou fraction : |
+: supplémentaires et fraction : |
 
 : de 1.000 mètres : |
 
@@ -150,7 +150,7 @@
 
 : - Moules : 0,40 F par are : |
 
---------------------------------------: |
+--------------------------------------:
 
 : TAXE SUR LA LONGUEUR: : |
 
@@ -170,15 +170,15 @@
 
 : - Huîtres ou autres coquillages : |
 
-: 389 F par hectare : |
+: 400,67 F par hectare : |
 
-: - Moules : 389 F par hectare : |
+: - Moules : 400,67 F par hectare : |
 
 :-------------------------------------: |
 
 : TAXE SUR LA LONGUEUR : |
 
-: (moules) : 162,20 F par tranche de : |
+: (moules) : 167,06 F par tranche de : |
 
 : 1.000 mètres : |
 
@@ -196,7 +196,7 @@
 
 : - Huîtres ou autres coquillages : |
 
-: 2,84 F par are avec un : |
+: 2,92 F par are avec un : |
 
 : minimum de perception de 100 F : |
 
@@ -204,7 +204,7 @@
 
 : supérieures à 10 ares. : |
 
-: - Moules : 2,84 F par are avec un : |
+: - Moules : 2,92 F par are avec un : |
 
 : minimum de perception de 100 F : |
 
