@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927444
+
+- Question : [SEQ000927444](seq000927444.md) — Fiscalité applicable aux traitements antitermites
+
+## Réponse
+
+*Logement, JO du 2000-11-30, page 4087*
+
+Réponse. - Le Parlement a adopté la loi nº 99-471 du 8 juin 1999 dans le but de protéger les acquéreurs et propriétaires d'immeubles contre les termites et autres insectes xylophages. Les textes réglementaires concernant la lutte contre les termites ont été publiés (décret nº 2000-613 du 3 juillet 2000 et arrêté du 10 août 2000 fixant le modèle d'état parasitaire relatif à la présence de termites dans un immeuble). Ces nouvelles dispositions permettent aux préfets de délimiter les zones contaminées par les termites à l'intérieur desquelles s'appliquent des mesures de prévention propres aux démolitions de bâtiments et à la vente d'immeubles bâtis. Les conseils municipaux et maires disposent désormais d'outils pour mener une politique de réduction des infestations. Le Gouvernement a veillé à ce que les principales aides financières et déductions fiscales puissent être mobilisées pour le financement des travaux de prévention ou d'éradication des termites dans les constructions. Les aides à la pierre telles la prime à l'amélioration de l'habitat (PAH) et la prime à l'amélioration des logements à usage locatif et à occupation sociale (PALULOS) prennent en considération ces travaux. Le taux réduit de la TVA s'applique aussi aux traitements contre les termites. De même, l'Agence nationale pour l'amélioration de l'habitat (ANAH) accorde des subventions aux propriétaires bailleurs pour ces travaux. Pour favoriser la prévention et la lutte contre les termites, une circulaire et une brochure d'information seront diffusées. Ces documents sont destinés à faciliter le conseil du public sur la nouvelle réglementation, la préservation des constructions et les aides financières et fiscales.
