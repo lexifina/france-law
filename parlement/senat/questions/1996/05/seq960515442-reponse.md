@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515442
+
+- Question : [SEQ960515442](seq960515442.md) — Heures supplémentaires dans le secteur tertiaire
+
+## Réponse
+
+*Travail, JO du 1996-06-20, page 1543*
+
+Réponse. - L'administration du travail est particulièrement sur les conditions de travail des employés du secteur tertiaire et plus particulièrement sur les horaires de travail abusifs que signale l'honorable parlementaire. Il va de soi que les services de l'inspection du travail ne manquent pas d'intervenir chaque fois que cela s'avère nécessaire, notamment dès lors qu'ils sont alertés sur de tels faits par les intéressés, tout en observant une stricte discrétion autour de la démarche de ces derniers. Il serait toutefois illusoire de nier l'existence de trop nombreuses situations abusives. C'est pour répondre à ces préoccupations que le décret ndu 18 décembre 1992 a redéfini les obligations des employeurs, en vue de faciliter le contrôle de la durée du travail : ces dispositions prévoient notamment l'obligation d'afficher l'horaire collectif de travail indiquant les heures auxquelles commence et finit chaque période de travail. Par ailleurs, l'employeur a également l'obligation de procéder au décompte quotidien et à la récapitulation hebdomadaire des heures de travail pour chaque salarié non occupé en horaire collectif, ce qui est fréquemment le cas dans ces activités. Ces documents doivent bien entendu être tenus à la disposition des agents de l'inspection du travail. Dans plusieurs régions, les services de l'inspection du travail ont organisé des actions de contrôle concertées dans les secteurs d'activité où apparaissent les abus les plus notoires. Cette action devrait permettre aux professionnels de réfléchir collectivement à leurs pratiques, afin de revenir à une meilleure application de la loi.
