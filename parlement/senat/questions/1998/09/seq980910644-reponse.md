@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910644
+
+- Question : [SEQ980910644](seq980910644.md) — Politique tarifaire des péages autoroutiers
+
+## Réponse
+
+*Équipement, JO du 1999-07-08, page 2330*
+
+Réponse. - La commission d'enquête sénatoriale estime que la politique suivie en matière d'évolution tarifaire a eu pour effet de réduire la capacité d'autofinancement du secteur. Il faut cependant remarquer que la réforme du secteur autoroutier mise en uvre en 1994 a profondément modifié les règles de fixation des tarifs de péage. Le contrôle de l'Etat ne s'exerce plus à travers des autorisations annuelles mais, a posteriori, par la vérification du respect des règles tarifaires et des engagements inscrits dans les cahiers des charges des sociétés et dont les modalités d'application sont reprises dans des contrats de plan liant l'Etat aux sociétés concessionnaires. Les hausses tarifaires résultent actuellement de l'addition de deux éléments : une hausse de base, correspondant aux lois tarifaires prévues dans les contrats de plan des sociétés et les conventions de concession, et une hausse complémentaire étalée sur quatre ans à partir de 1996, permettant de compenser pour partie l'augmentation de 2 à 4 centimes par kilomètre parcouru du taux de la taxe d 'aménagement du territoire (TAT), afin de ne pas dégrader la situation financière des sociétés concessionnaires d'autoroutes L'évolution moyenne des tarifs de péage de 1982 à 1998 (p 67 %) est équivalente à celle de l'inflation constatée sur la même période (+ 68 %). Enfin, le niveau d'augmentation des péages doit tenir compte de l'élasticité de la demande pour ne pas provoquer de " fuite " de trafic sur le réseau sans péage. C'est la raison pour la quelle, par exemple, la hausse complémentaire de compensation de la TAT et répartie sur quatre ans.
