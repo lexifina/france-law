@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204040
+
+- Question : [SEQ931204040](seq931204040.md) — Suppression de l'indemnité de première affectation pour les enseignants du Pas-de-Calais
+
+## Réponse
+
+*Éducation, JO du 1994-02-10, page 311*
+
+Réponse. - Le plan de revalorisation de la fonction enseignante a prévu la création, à compter du 1er septembre 1990, d'une indemnité de première affectation versée pendant trois ans aux enseignants qui, dans le premier degré, sont affectés dans un département déficitaire à l'occasion de leur première titularisation dans la fonction publique. Cette indemnité doit concerner 2 300 enseignants par an, soit au total 6 900 indemnités qui ont été créées en 3 contingents entre 1990 et 1992. Lors de la création de cette indemnité, 13 départements avaient été retenus. Cette liste a été reconduite en 1991 et 1992 car le nombre d'indemnités disponibles permettait de couvrir l'ensemble des bénéficiaires de ces départements. Mais le nombre de titularisations prévues à la rentrée 1993 dans ces 13 départements (environ 6 500) ne permettait plus de maintenir le versement de cette indemnité dans l'ensemble de ces départements. Sur l'année 1993, faute de crédits suffisants inscrits au budget, le paiement de cette indemnité n'a été possible que dans les 5 départements les plus déficitaires qui sont tous situés en région parisienne : Seine-Saint-Denis, Val-de-Marne, Essonne, Hauts-de-Seine et Val-d'Oise. Le Gouvernement a toutefois décidé que, compte tenu des délais très courts entre la parution de l'arrêté réduisant le nombre des départements et la titularisation de ces instituteurs, ceux-ci, titularisés à la rentrée 1993, bénéficieront de l'indemnité de première affectation qui leur sera versée au cours du premier trimestre 1994. Bien entendu, les enseignants qui ont perçu la première fraction en 1991 ou en 1992 percevront la ou les fractions qui leur sont dues en 1993.
