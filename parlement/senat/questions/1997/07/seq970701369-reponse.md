@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701369
+
+- Question : [SEQ970701369](seq970701369.md) — Suites données au rapport de la Cour des comptes sur les aides des collectivités territoriales aux entreprises
+
+## Réponse
+
+*Fonction publique, JO du 1997-09-04, page 2290*
+
+Réponse. - Dans un récent rapport particulier, la Cour des comptes décrit et analyse les actions menées par les collectivités locales en faveur des entreprises. La complexité du régime juridique des interventions économiques des collectivités ainsi que les incertitudes qui le caractérisent, tant au regard du droit interne que du droit communautaire, conduisent la Cour des comptes à proposer diverses pistes de réforme. Les difficultés d'interprétation du régime en vigueur portent notamment sur la distinction entre les aides directes et indirectes aux entreprises prévues respectivement par les articles L 1511-2 et L 1511-3 du code général des collectivités territoriales. Alors que les aides directes sont limitativement énumérées par la loi et doivent revêtir la forme de prime régionale à la création d'entreprise, de prime régionale à l'emploi ou de prêts et bonifications d'intérêts, les aides indirectes n'ont, à l'exception des rabais pouvant être accordés aux entreprises louant ou achetant un bâtiment appartenant aux collectivités, fait l'objet d'aucune définition ou réglementation spécifique. Cette distinction présente, dans certains cas, des difficultés d'application. En outre, en droit communautaire, la notion d'aide indirecte est sans fondement. Une réflexion sur les conditions d'intervention économique des collectivités est, aujourd'hui, indispensable. Elle devra s'attacher à proposer des adaptations au régime en vigueur compatibles avec les normes communautaires et destinées à mieux répondre aux besoins des entreprises tout en limitant les risques pour les finances locales.
