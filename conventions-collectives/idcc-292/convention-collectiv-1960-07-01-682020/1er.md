@@ -2,40 +2,42 @@
 
 1° La présente convention collective nationale est conclue en application de la loi du 11 février 1950 (chapitre 1er du titre III du livre 1er du code du travail).
 
-Elle règle, sur le territoire métropolitain, les rapports de travail entre les employeurs et les travailleurs de toutes catégories des deux sexes, salariés des établissements dont l'activité principale relève des industries ci-après énumérées, définies par référence à la nomenclature des activités économiques (partie de la section 61), mais à l'exclusion des fabrications d'isolants électriques :
+-elle règle sur le territoire métropolitain les rapports de travail entre les employeurs et les salariés des deux sexes, quels que soient leur catégorie et leur emploi, des entreprises et établissements, recensés sous les codes du groupe 25-2 ou autres de la codification INSEE, dont l'activité principale est la transformation des matières plastiques, cela quelles que soient les techniques utilisées depuis la préparation des mélanges de matières plastiques colorées ou non jusqu'à la fabrication de produits finis ;
 
-Groupe 611
+-l'activité principale, telle que visée ci-dessus, se détermine d'après les critères en vigueur reconnus par la jurisprudence en matière d'identification de l'activité principale d'une entreprise.
 
-Fabrication d'objets moulés en matières plastiques (non stratifiées).
+En ce qui concerne les codes 19-3 Z,36-1 A,36-1 C,36-1 E,36-1 G,36-1 H,36-1 J et 36-5 Z, ne sont incluses dans le présent champ d'application que les seules activités expressément visées à l'intérieur des rubriques ci-dessous.
 
-Groupe 612
+Activité de fabrication de chaussures répertoriée sous le code NAF 19-3 Z
 
-Fabrication de produits en matières plastiques stratifiées :
+Est visée dans cette rubrique la fabrication des chaussures en matières plastiques.
 
-Toutefois, les entreprises qui, jusqu'au jour de la signature du présent avenant, appliquaient leur convention d'origine, soit la convention collective de la métallurgie, soit la convention collective de la chimie pourront, dans les 3 mois qui suivront la date d'application du présent avenant, opter pour le maintien de leur adhésion à l'une des deux conventions ci-dessus.
+Activité de fabrication de meubles répertoriée sous les codes NAF 36-1 A,36-1 C,36-1 E,36-1 G,36-1 H,36-1 J
 
-Cette option se fera par accord avec les représentants locaux ou d'entreprise des organisations signataires du présent avenant ou, à défaut, du comité d'entreprise ou des délégués du personnel.
+Est visée dans ces rubriques la fabrication des meubles en matières plastiques.
 
-Rubrique 613-2
+Activité de fabrication de jeux et jouets
 
-Fabrication de matières plastiques cellulaires. Fabrication par prégonflage, etc.
+répertoriée sous le code NAF 36-5 Z
 
-Partie du groupe 614
+Est visée dans cette rubrique la fabrication de jeux et de jouets en matières plastiques.
 
-Fabrication par extrusion, coulage ou autre procédé de feuilles, tubes et profilés à base de matières thermoplastiques ou similaires à l'exclusion de la fabrication de feuilles de polyéthylène.
+Il est également stipulé ce qui suit :
 
-Partie du groupe 615
+Activité de fabrication d'articles pour bureau
 
-Transformation de feuilles ou de films, à l'exclusion de la transformation de feuilles de polyéthylène.
+répertoriée sous le code NAF 25-2 G
 
-Partie du groupe 616
+Cette rubrique concerne les classeurs, chemises, articles de signalisation et d'organisation et articles scolaires et de bureau en matières plastiques.
 
-Production de feuilles, films, tubes, profilés, etc., à base de matières thermoplastiques ou similaires avec transformations connexes de ces produits, à l'exclusion de la production de feuilles de polyéthylène avec transformations connexes de ces feuilles.
+Cette activité est commune aux branches industrielles des fabriques d'articles de papeterie et de la transformation des matières plastiques, qui reconnaissent que, dans ce cas précis, il appartient à l'entreprise de se déterminer comme suit.
 
-Groupe 617
+L'entreprise ou l'établissement continuera à appliquer la convention collective qu'elle ou qu'il appliquait à la date d'entrée en vigueur du présent accord.
 
-Usinages et assemblages divers de produits principalement en matières plastiques.
+Les entreprises ou établissements créés après cette date opteront pour l'application de l'une ou l'autre de ces deux conventions collectives.
 
-Toutefois, en ce qui concerne les travailleurs dont l'emploi dans l'entreprise relève d'une autre industrie, leur classification et leur salaire minimum ne pourront, en aucun cas, être inférieurs à ceux dudit emploi dans cette autre industrie.
+Exclusions
+
+Les activités de fabrication de production et de transformation de feuilles de polyéthylène et de fabrication d'isolants électriques sont exclues du champ d'application obligatoire de la présente convention.
 
 2° Des avenants à la présente convention fixent les conditions particulières de travail des différentes catégories de personnel.
