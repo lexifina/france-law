@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617223
+
+- Question : [SEQ990617223](seq990617223.md) — Conditions de délivrance de l'attestation d'interruption médicale de grossesse
+
+## Réponse
+
+*Santé, JO du 2000-02-03, page 433*
+
+Réponse. - L'honorable parlementaire attire l'attention sur les conditions de délivrance de l'attestation d'interruption médicale de grossesse prévue par l'article R. 162-29 du code de la santé publique. Si l'interruption de grossesse est envisagée au motif qu'il existe une forte probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable, le recours à un centre pluridisciplinaire est obligatoire et il appartient à un des médecins désigné dans l'agrément du centre de délivrer l'attestation susmentionnée. Aucune disposition réglementaire n'interdit actuellement à une femme de solliciter successivement les avis de deux centres pluridisciplinaires. Toutefois, les garanties apportées à la mise en uvre du diagnostic par ces instances d'expertise - rassemblement sur un même lieu de professionnels hautement qualifiés dans les différents domaines du diagnostic prénatal et de matériels performants ; caractère pluridisciplinaire de la concertation préalable à l'avis ; aide à la décision apportée aux couples et aux médecins - sont de nature à rendre extrêmement rares les situations où les patientes sollicitent l'expertise et l'avis d'un deuxième centre pluridisciplinaire. Cependant, la possibilité d'une deuxième démarche en vue d'une éventuelle interruption thérapeutique de grossesse semble devoir être laissée aux femmes, peu nombreuses, qui dans une situation difficile et douloureuse l'estiment nécessaire. Le caractère très récent de l'agrément accordé aux centres pluridisplinaires de diagnostic prénatal ne permet pas, actuellement, d'évaluer le nombre des patientes concernées.
