@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500624
+
+- Question : [SEQ930500624](seq930500624.md) — Bilan de l'utilisation du système Sagesse
+
+## Réponse
+
+*Éducation, JO du 1993-11-04, page 2087*
+
+Réponse. - Dans le cadre des actions de modernisation du service public, un " système automatique de gestion des effectifs scolaires des secteurs et des emplois " SAGESSE a été mis en place conjointement par la ville et par l'académie de Paris (projet SAGESSE 1985). Pour ce faire, il a été fait appel à de nouvelles technologies, dont la télématique. Après plusieurs années de fonctionnement, le bilan de cette action est plutôt positif, même si des critiques sont encore émises sur la fiabilité des données recueillies. La constitution d'une banque de données sur les établissements et les élèves du premier degré public, alimentée et exploitée en temps réel, permet de suivre les élèves (et leurs dossiers administratifs) comme l'évolution de la structure des écoles. Cette banque de données offre, en outre, la possibilité d'extraire des statistiques qui servent à conduire les travaux de carte scolaire, d'une part, et à renseigner le ministre de l'éducation nationale, d'autre part. Les responsables de la direction de l'académie de Paris ont décidé d'utiliser exclusivement cette modalité de recueil de l'information et ainsi de supprimer toute enquête sur support papier. Il conviendra, pour rendre encore plus performant ce système d'information, de poursuivre le dialogue constructif engagé entre les services respectifs de l'éducation nationale et de la ville de Paris et d'inciter les directeurs d'école à mieux prendre en charge ce nouvel outil dont ils sont les premiers bénéficiaires, compte tenu des services qu'il peut leur procurer et des conséquences budgétaires que comportent les données statistiques saisies par eux.
