@@ -1,0 +1,327 @@
+# Article annexe 11
+
+Groupe 1
+
+Taux net de cotisation AT : 2,6. 3620.0
+
+Fabrication de crèmes glacées, de glaces, de sorbets.
+
+3810.0
+
+Fabrication industrielle de pain et de pâtisserie fraîche.
+
+3840.0
+
+Boulangerie (seule ou avec vente de confiserie).
+
+3840.1
+
+Boulangerie-pâtisserie (avec ou sans confiserie).
+
+3850.0
+
+Pâtisserie (seule ou avec vente de confiserie).
+
+3902.0
+
+Biscuiterie, biscotterie.
+
+3904.0
+
+Semoulerie. Fabrication de pâtes alimentaires et de couscous.
+
+4034.0
+
+Fabrication d'aliments diététiques, produits de régime.
+
+4035.0
+
+Fabrication d'entremets, de desserts.
+
+Groupe 2
+
+Taux net de cotisation AT : 3,1. 0130.0
+
+Vinification. Production d'apéritifs à base de vin.
+
+3610.0
+
+Industrie laitière.
+
+4021.0
+
+Sucrerie et raffinerie de sucre.
+
+4037.0
+
+Fabrication de produits alimentaires divers.
+
+4101.1
+
+Distillation d'alcool.
+
+4103.0
+
+Production de liqueurs et d'apéritifs.
+
+4105.0
+
+Champagnisation (y compris la préparation de vins mousseux).
+
+4107.0
+
+Cidrerie.
+
+Groupe 3
+
+Taux net de cotisation AT : 3,4. 3901.0
+
+Meunerie.
+
+3906.0
+
+Malterie.
+
+4102.0
+
+Distillation d'eau-de-vie naturelle.
+
+4102.1
+
+Vieillissement et traitement d'eau-de-vie naturelle (à l'exclusion de la distillation).
+
+4106.0
+
+Brasserie.
+
+4108.0
+
+Production de jus de fruits et de jus de légumes.
+
+4109.0
+
+Fabrication de boissons non alcoolisées élaborées (sirop).
+
+4109.1
+
+Fabrication de boissons gazéifiées.
+
+4110.0
+
+Production d'eaux minérales naturelles.
+
+5708.0
+
+Commerce de gros de vins, spiritueux, liqueurs.
+
+5709.0
+
+Commerce de gros de boissons autres que vins, spiritueux, liqueurs.
+
+7308.0
+
+Entrepôts frigorifiques. Fabrique de glace, glacière.
+
+Groupe 4
+
+Taux net de cotisation AT : 3,1. 3504.0
+
+Fabrication de charcuterie et conserves de viande avec abattage.
+
+3504.1
+
+Fabrication de charcuterie et conserves de viande sans abattage.
+
+3701.0
+
+Conserverie de fruits.
+
+3701.1
+
+Fabrication de confitures.
+
+3702.0
+
+Conserverie de légumes.
+
+3703.0
+
+Conserverie de poissons.
+
+3704.0
+
+Préparation de plats cuisinés (y compris conserverie d'escargots).
+
+3904.1
+
+Fabrication de pâtes farcies à cuire.
+
+3908.0
+
+Fabrication d'aliments pour animaux.
+
+Elevage de porcins.
+
+4031.0
+
+Confiserie.
+
+4031.1
+
+Chocolaterie.
+
+4032.0
+
+Brûlerie de café, torréfaction de café, triage de café.
+
+4032.1
+
+Préparation et torréfaction de chicorée.
+
+Préparation de café, de thé, de vanille et de plantes à infusion.
+
+4032.3
+
+Trituration et conditionnement de poivres, épices, safran.
+
+4033.0
+
+Fabrication de condiments, vinaigre, sauces préparées.
+
+4036.0
+
+Fabrication de bouillons et potages.
+
+5410.1
+
+Boyauderie, préparation de boyaux dits non comestibles.
+
+Groupe 5
+
+Taux net de cotisation AT : 4,7. 3501.0
+
+Etablissements divers d'abattage du bétail.
+
+3501.1
+
+Commerce de gros des viandes avec abattage.
+
+3505.0
+
+Abattage de volaille.
+
+5702.0
+
+Commerce de gros de bestiaux.
+
+5704.0
+
+Commerce de gros des viandes sans abattage.
+
+6243.0
+
+Commerce de détail des viandes avec abattage.
+
+6243.1
+
+Commerce de détail des viandes sans abattage.
+
+Groupe 6
+
+Taux net de cotisation AT : 3,4. 3905.1
+
+Transformation de céréales secondaires : (triage, décorticage et criblage).
+
+3907.0
+
+Fabrication de produits amylacés.
+
+5701.0
+
+Commerce de gros de matières premières agricoles.
+
+5703.0
+
+Commerce de gros de fruits et légumes.
+
+5710.0
+
+Commerce de gros d'épicerie.
+
+5711.0
+
+Commerce de gros spécialisé de produits alimentaires divers, d'huiles alimentaires.
+
+5711.1
+
+Importation et commerce de gros de denrées d'origine étrangère.
+
+5711.2
+
+Commerce de gros des farines et produits pour la boulangerie.
+
+Groupe 7
+
+Taux net de cotisation AT : 2,4. 5711.5
+
+Commerce de détail de produits alimentaires (sans manutention, livraison, stockage).
+
+6246.4
+
+Commerce de détail alimentaire non sédentaire, marchands ambulants.
+
+Groupe 8
+
+Taux net de cotisation AT : 2,5. 5704.1
+
+Commerce de gros des produits de charcuterie et des salaisons.
+
+6008.0
+
+Centrale d'achat en produits alimentaires (coopérative de détail).
+
+6191.0
+
+Exploitation de supermarchés et d'hypermarchés.
+
+6221.0
+
+Magasins d'alimentation générale d'entreprise à succursales multiples.
+
+6222.0
+
+Supérettes dépendant d'une entreprise à succursales multiples.
+
+6230.0
+
+Coopératives alimentaires d'entreprise ou d'administration.
+
+Groupe 9
+
+Taux net de cotisation AT : 4,6. 5705.0
+
+Commerce de gros de produits laitiers.
+
+5706.0
+
+Commerce de gros de volailles et gibiers.
+
+5707.0
+
+Commerce de gros de poissons, d'huîtres, de coquillages, d'escargots.
+
+5707.1
+
+Expédition de produits de la mer et d'eau douce, mareyeur.
+
+5711.3
+
+Commerce de gros de la confiserie et de la crème glacée.
+
+6242.0
+
+Commerce de détail de produits laitiers.
+
+6244.0
+
+Commerce de détail de poissons et de coquillages.
