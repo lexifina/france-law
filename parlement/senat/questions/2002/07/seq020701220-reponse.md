@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701220
+
+- Question : [SEQ020701220](seq020701220.md) — Remboursement des frais des conseillers de prud'hommes
+
+## Réponse
+
+*Justice, JO du 2002-11-07, page 2663*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le régime d'indemnisation des frais de déplacement des conseillers prud'hommes est régi par l'article L. 51-10-2, 6°, 7° et 9°, complété par l'article D. 51-10-9 du code du travail et l'arrêté du 18 avril 1969, le taux d'indemnisation étant prévu par l'arrêté du 15 octobre 1989. Ce dispositif, que vient préciser sur certains points la circulaire du 28 janvier 1983, n'est plus adapté et doit être aujourd'hui remanié. La Cour des comptes, dans un référé du 13 février 1998, publié dans son rapport annuel 2000, a également soulevé des difficultés juridiques touchant aux textes fondant l'indemnisation des conseillers prud'hommes. Elle a jugé aussi que le dispositif existant qui ne permettait pas un contrôle et une maîtrise suffisante des coûts était très onéreux pour l'Etat. Elle indique que les dépenses d'indemnisation sont passées, entre 1986 et 1996, de 67 millions de francs à 136 millions de francs, alors que, pour la même période, le contentieux à traiter est resté globalement stable, les seuls frais de déplacement représentant 10,4 millions de francs, en 1996. Parallèlement à la mise en place d'une gestion plus efficace des coûts, une réflexion menée conjointement par la chancellerie avec le ministère des affaires sociales et les organisations syndicales et professionnelles a été engagée. Elle devrait permettre d'aboutir à des propositions visant à concilier une juste indemnisation des conseillers prud'hommes et une maîtrise accrue des dépenses, conformément à l'esprit de la loi organique relative aux lois de finances du 1er août 2001.
