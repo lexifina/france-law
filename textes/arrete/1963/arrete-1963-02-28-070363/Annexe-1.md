@@ -324,7 +324,7 @@ Doctorat de troisième cycle en informatique.
 
 Diplôme de l'E.S.S.E.C. (spécialisation informatique).
 
-Titre d'ingénieur diplômé par l'Etat (D.P.E.).
+Titre d'ingénieur diplômé par l'Etat (D.P.E.). diplôme d'ingénieur, assorti du diplôme d'études supérieures spécialisées (D.E.S.S.) production et distribution de l'énergie, option planification énergétique urbaine.
 
 Diplômes étrangers suivants :
 
