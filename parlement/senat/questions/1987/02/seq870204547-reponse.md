@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204547
+
+- Question : [SEQ870204547](seq870204547.md) — Création de postes de conseillers d'orientation
+
+## Réponse
+
+*Éducation, JO du 1987-05-14, page 756*
+
+Réponse. -Le nombre des emplois de directeur de centre d'information et d'orientation et de conseiller d'orientation figurant dans le budget de 1987, au titre des services d'information et d'orientation, s'élève à 4 273. Ce nombre est à rapprocher de l'effectif des élèves qui fréquentent les établissements publics d'enseignement du second degré au bénéfice desquels les personnels d'orientation interviennent, pour la majeure partie de leur activité, soit 4,5 millions d'élèves. Le rapport entre les emplois d'orientation et les effectifs scolaires se situe donc à un niveau inférieur à celui indiqué, puisqu'il est de 1 à 1 053. Il est exact que le nombre des emplois d'élèves conseillers d'orientation a été ramené de 240 à 180 au titre de la loi de finances de 1987. Cette mesure, correspondant à la volonté de gérer plus rigoureusement les dépenses publiques, aura deux conséquences : d'une part, le recrutement d'élèves conseillers à la rentrée 1987 sera de 60 ; d'autre part, les 60 emplois supprimés permettront de gager la création d'autant d'emplois de conseillers d'orientation, étant entendu que les promotions sortant de formation resteront de l'ordre de 120, aussi bien pour la rentrée de septembre 1987 que pour celle de septembre 1988. Le recrutement annuel de 60 élèves conseillers conduit à la formation d'un nombre équivalent de conseillers d'orientation. A moyen terme, ce flux se situe au-delà des besoins de remplacement annuel du corps et laisse donc envisager une légère augmentation des moyens des services d'orientation. S'agissant des centres de formation, la réduction du nombre d'élèves conseillers d'orientation conduira à fermer un ou deux centres, mais la qualité de la formation n'en sera pas altérée.
