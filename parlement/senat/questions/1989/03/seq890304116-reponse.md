@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304116
+
+- Question : [SEQ890304116](seq890304116.md) — Dégradation de la situation ferroviaire entre la Bretagne et le Sud-Ouest
+
+## Réponse
+
+*Équipement, JO du 1989-06-29, page 1001*
+
+Réponse. - La baisse constante du trafic marchandise par wagons transitant par le triage de Nantes-Blottereau a amené la S.N.C.F. à réduire à huit heures journalières la période d'activité de ce triage et à réorganiser son plan de transport marchandises sur les axes passant par Nantes. En particulier, l'acheminement des wagons de la zone de Nantes en direction du Sud-Ouest a été reporté sur l'itinéraire Nantes - Tours et Tours - Bordeaux. Sur celui-ci en effet, les creux de tonnage des trains existants permettent d'incorporer des wagons supplémentaires et d'assurer ainsi une qualité d'acheminement identique à un coût moindre. Cette réorganisation du plan de transport marchandises ne concerne que les trains assurant l'acheminement de wagons de Nantes à destination de Bordeaux et Toulouse. Elle ne porte pas sur les transports de marchandises qui intéressent les gares situées sur cette ligne entre les deux métropoles régionales que sont Nantes et Bordeaux. Ces transports continuent à s'effectuer dans les mêmes conditions. De plus, les nouvelles dispositions ne font pas obstacle à l'implantation éventuelle d'entrepises, notamment à Saintes où un tel projet est actuellement à l'étude. En ce qui concerne le trafic voyageurs, les quatre relations quotidiennes aller et retour existant entre Nantes et Bordeaux sont maintenues et continueront à être proposées selon des horaires identiques ou très voisins au prochain service d'hiver. La S.N.C.F. n'envisage en aucune manière de réduire les liaisons ferroviaires sur cette ligne qui joue un rôle important dans les liaisons côtières de la façade atlantique.
