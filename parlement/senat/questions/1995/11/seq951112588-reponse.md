@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112588
+
+- Question : [SEQ951112588](seq951112588.md) — Services téléphoniques : tarifications inégales entre la métropole et les départements d'outre-mer
+
+## Réponse
+
+*Technologies de l'information, JO du 1996-05-16, page 1213*
+
+Réponse. - L'honorable parlementaire soulève en fait trois problèmes concernant les services téléphoniques à la Réunion : 1o Le prix des renseignements téléphoniques en composant le 12 à partir des cabines publiques ; 2o Le prix de la consultation de l'annuaire électronique ; 3o L'absence de la modulation horaire sur le service 3612. 1. Le prix des renseignements téléphoniques en composant le 12 à partir des cabines publiques. En métropole comme à la Réunion l'accès au service des renseignements téléphoniques par opérateur (12) à partir des cabines publiques est gratuit. Compte tenu de l'affirmation de l'honorable parlementaire, France Télécom vérifiera que la gratuité de l'accès au 12 à partir de toutes les cabines de la Réunion est bien effective. 2. Le prix de la consultation de l'annuaire électronique. L'accès à l'annuaire électronique (3611) dans les départements d'outre-mer est effectivement payant, une unité télécom toutes les deux minutes. France Télécom vient cependant d'accepter de prendre à sa charge le surcoût d'exploitation dû à la nécessité d'utiliser une liaison Dom-métropole. Ainsi, la tarification appliquée à ce service sera alignée dans le courant de l'année à celle en vigueur en métropole, soit la gratuité des communications jusqu'à la troisième minute puis taxation d'une unité télécom toutes les deux minutes ensuite. 3. L'absence d'une modulation horaire sur le 3612. Les communications à destination du service de correspondance télématique Minicom (3612) sont tarifées à une unité télécom toutes les 45 secondes. L'application de la modulation horaire à la tarification de ce service sera mise en oeuvre avant la fin de l'année 1996.
