@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102413
+
+- Question : [SEQ881102413](seq881102413.md) — Régime électoral des chambres d'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1989-01-05, page 18*
+
+Réponse. - Les chambres d'agriculture sont à la fois gestionnaires de services et instances de réflexion qui conseillent les pouvoirs publics sur les questions agricoles. En raison du caractère professionnel des élections à ces compagnies il a paru préférable d'introduire un mode de scrutin qui allie deux impératifs : dégager une majorité cohérente capable d'assurer une gestion efficace des services des chambres ; assurer la représentation des minorités représentatives afin que toutes les composantes du monde agricole soient en mesure de s'exprimer. Le décret n° 87-1058 du 24 décembre 1987 avait rétabli le système majoritaire intégral qui excluait des chambres lesdites minorités. Le décret n° 88-1070 du 29 novembre 1988 revient sur cette disposition. Le mode de scrutin qui est retenu pour les élections de 1989 aux chambres d'agriculture est un scrutin majoritaire à un tour qui garantit la représentation des minoritaires. Il est calqué sur celui en vigueur pour les élections municipales dans les communes de 3 500 habitants et plus. Cette réforme du scrutin ne concerne que le collège des chefs d'exploitation et les deux collèges des salariés : salariés des exploitations agricoles et salariés des groupements professionnels agricoles. Pour les autres collèges, auxquels ce type de scrutin n'avait pas de raison de s'appliquer étant donné le faible nombre de leurs élus, l'élection a lieu au scrutin majoritaire à un tour, tel que prévu par le décret du 24 décembre 1987 précité. Le décret précité du 29 novembre 1988 a été publié au Journal officiel de la République française du 30 novembre 1988 ainsi que l'arrêté du 29 novembre 1988 qui fixe la date de scrutin au mardi 31 janvier 1989. Ce dernier aura donc bien lieu à son échéance normale.
