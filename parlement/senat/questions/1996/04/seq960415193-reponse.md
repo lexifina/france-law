@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415193
+
+- Question : [SEQ960415193](seq960415193.md) — Plan de relance du Lodévois
+
+## Réponse
+
+*Industrie, JO du 1996-07-18, page 1850*
+
+Réponse. - A la demande du ministre de l'industrie, de la poste et des télécommunications, le préfet du Languedoc-Roussillon a préparé un plan ambitieux pour le développement du Lodévois, constitué de deux volets. Le premier volet, économique et industriel, est destiné à favoriser le développement du Lodévois. Un montant total de 66,6 millions de francs a été prévu à cet effet, provenant pour 30 millions de francs de la COGEMA, pour 20,6 millions de francs de l'Etat, pour 7,5 millions de francs du conseil général, pour 4,5 millions de francs du conseil régional et pour 4 millions de francs du FEDER. Le second volet comprend des actions destinées à améliorer les infrastructures et l'environnement du Lodévois, et à en promouvoir l'image. Le plan, qui associe l'Etat, la région Languedoc-Roussillon, le département de l'Hérault et la COGEMA pour une action commune pendant la période 1996-2000, a fait l'objet d'une très large consultation et constitue une base substantielle pour engager le redéploiement économique du Lodévois. Sa mise en oeuvre s'appuie sur une organisation privilégiant l'écoute des partenaires, la transparence dans la conduite des actions et l'efficacité dans l'action quotidienne. Le conseil d'orientation, constitué de partenaires locaux, arrêtera les axes prioritaires d'intervention du plan. Deux comités, le comité de développement économique du Lodévois et le comité d'industrialisation du Lodévois assureront la gestion des dossiers et projets. La mise en oeuvre relèvera d'un délégué à l'industrialisation, qui s'appuiera sur une cellule permanente. Ce plan a été approuvé et rendu public au début du mois de mai, et sa mise en application peut débuter.
