@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206549
+
+- Question : [SEQ980206549](seq980206549.md) — Transformation profonde des quartiers : encouragement à la démolition de tours
+
+## Réponse
+
+*Logement, JO du 1998-05-28, page 1721*
+
+Réponse. - Le rapport de M. Sueur met en évidence que de nombreux quartiers relevant de la politique de la ville doivent être profondément transformés. Dans ce cadre, des opérations de construction-démolition peuvent être envisagées, sous réserve que les transformations qui en découleront repositionnent le quartier dans la dynamique urbaine de l'agglomération. Les problèmes de restructuration urbaine des quartiers d'habitat social ont conduit le Gouvernement à mettre en place en 1998 un nouveau produit financier, le PLA construction-démolition. Celui-ci est destiné à accompagner, et si possible à anticiper, les opérations de démolition rendues nécessaires par l'obsolescence physique de certains immeubles de logements sociaux et ou le mauvais fonctionnement urbain : enclavement, trop forte densité de construction, indigence des espaces publics, etc. Le financement de 5 000 PLA construction-démolition a été programmé pour cette année. Mais en tout état de cause, la démolition ne saurait constituer une fin en soi. Elle doit être appréciée comme un moyen parmi d'autres d'un projet urbain et social. De prochaines instructions vont être données aux préfets pour que, en fonction des différents contextes locaux, ils s'assurent, d'une part, que les opérations de reconstruction-démolition participent à une réelle requalification urbaine du quartier et, d'autre part, que soient garanties aux locataires concernés par de telles opérations des conditions de relogement satisfaisantes. L'attention des acteurs concernés sera appelée sur la nécessité d'établir les modalités d'un concertation adéquate et préalable avec les habitants et les usagers d'un quartier sur le projet urbain et avec les locataires sur leur relogement.
