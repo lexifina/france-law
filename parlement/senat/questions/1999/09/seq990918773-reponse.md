@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918773
+
+- Question : [SEQ990918773](seq990918773.md) — Intégration de la vidéo dans les classes de langues étrangères
+
+## Réponse
+
+*Éducation, JO du 2000-02-03, page 411*
+
+Réponse. - La maîtrise des langues étrangères et celle des technologies de l'information et de la communication sont aujourd'hui le gage d'une ouverture des élèves sur le monde en même temps qu'un facteur décisif d'insertion sociale et professionnelle. Elles constituent, à ce titre, une priorité dans la formation des jeunes. Pour répondre à ces besoins, une réflexion globale sur l'enseignement des langues est actuellement menée au sein du ministère de l'éducation nationale, de la recherche et de la technologie. Elle vise à améliorer le niveau des élèves en langues vivantes, notamment en communication orale. Plusieurs hypothèses sont actuellement examinées, parmi lesquelles la possibilité d'un recours accru aux technologies de l'information et de la communication pour l'enseignement des langues. Sont d'ores et déjà encouragées, pour l'enseignement des langues, la mise en uvre d'une pédagogie diversifiée et interactive et l'utilisation du multimédia sous toutes les formes qu'il recouvre (audio, vidéo, cédéroms, Internet). Sont, en outre, suivies un certain nombre d'expérimentations menées dans des établissements du second degré et, à partir de la présente année scolaire, également dans l'enseignement élémentaire, qui visent à faire émerger des pratiques innovantes favorisant une véritable intégration des technologies de l'information et de la communication à la classe de langue étrangère. Par ailleurs, et en liaison avec la volonté de renforcer l'usage des nouvelles technologies, le ministère de l'éducation nationale, de la recherche et de la technologie conduit un ambitieux programme d'équipement des établissements d'enseignement.
