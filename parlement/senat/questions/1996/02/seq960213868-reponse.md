@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213868
+
+- Question : [SEQ960213868](seq960213868.md) — Stage pour les élèves de l'ENA en zone rurale ou en zone urbaine difficile
+
+## Réponse
+
+*Fonction publique, JO du 1996-03-07, page 531*
+
+Réponse. - D'ores et déjà, depuis trois ans, durant la première partie de leur scolarité, tous les élèves de l'Ecole nationale d'administration effectuent un stage en préfecture, d'une durée de six à sept mois... Dans les départements où sont programmées des opérations du type développement social des quartiers, une partie de ce stage est consacrée à la politique de la ville : le stagiaire est amené à renconter les différents acteurs de cette politique dans les quartiers difficiles. En complément, le séminaire des questions sociales, inscrit au programme des études, permet aux élèves de développer des thèmes relatifs à cette politique par des enquêtes sur le terrain. Afin de diversifier davantage ces expériences de terrain, de mieux les coordonner avec les études et de les axer encore plus sur les problèmes de société tels que la politique de la ville et le maintien des services publics en milieu rural, une réflexion doit s'engager sur la refonte du régime de ces stages accomplis durant la période de formation. En outre, en décidant, lors du séminaire du 14 septembre 1995, d'affecter les élèves de l'Ecole nationale d'administration, à l'issue de la scolarité, en service déconcentré, le Gouvernement a entendu donner à ces fonctionnaires les moyens d'acquérir une expérience initiale des réalités de la société française, précieuse pour l'exercice des responsabilités qui seront les leurs dans la suite de leur carrière. D'une manière générale, le pacte de relance pour la ville présenté le 18 janvier 1996 prévoit que les cycles de formation initiale des fonctionnaires seront enrichis d'un module de sensibilisation et d'information au sujet de l'exercice des missions de service public dans les quartiers en difficulté.
