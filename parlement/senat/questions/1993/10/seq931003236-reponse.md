@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003236
+
+- Question : [SEQ931003236](seq931003236.md) — Déductions fiscales des frais de transports du domicile au lieu de travail
+
+## Réponse
+
+*Budget, JO du 1993-11-18, page 2200*
+
+Réponse. - En règle générale, les frais de transport que les salariés exposent pour se rendre de leur domicile à leur lieu de travail ont le caractère de dépenses professionnelles. Il n'en va autrement que si l'éloignement résulte de motifs d'ordre privé. La jurisprudence du Conseil d'Etat a permis de présumer normal l'éloignement entre le domicile du salarié et son lieu de travail lorsque la distance n'excède pas 30 kilomètres environ. Cette règle qui simplifie les rapports entre l'administration et les contribuables ne signifie pas que l'éloignement soit anormal lorsque la distance est supérieure. Dans ce cas, l'ensemble des circonstances de fait fait l'objet d'un examen attentif et circonstancié par le service local des impôts. La situation des contribuables doit être appréciée avec discernement. L'instruction du 21 février 1992 a assoupli les conditions dans lesquelles les frais de transport pouvaient être pris en compte dans ces situations. Parmi les motifs liés directement à l'exercice de l'activité professionnelle, doivent être retenues les difficulés à trouver un emploi à proximité de leur domicile que rencontrent certains salariés, en particulier ceux qui ont fait l'objet d'un licenciement. La précarité ou la mobilité de l'emploi que subissent de nombreux salariés dans le contexte économique actuel ainsi que les mutations géographiques professionnelles auxquelles d'autres sont confrontés constituent également des motifs d'ordre professionnel qui justifient l'éloignement entre le domicile et le lieu de travail. Ces mesures sont de nature à répondre aux préoccupations exprimées par l'honorable parlementaire.
