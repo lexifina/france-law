@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606443
+
+- Question : [SEQ870606443](seq870606443.md) — Reconduction aux frontières de ressortissants mauriciens
+
+## Réponse
+
+*Intérieur, JO du 1987-09-03, page 1381*
+
+Réponse. -Le 6 mai 1987 plusieurs dizaines de ressortissants mauriciens se sont présentés à la direction départementale du travail des Hauts-de-Seine demandant des formulaires de contrat de travail en vue de présenter une demande de régularisation de leur situation. Ce mouvement s'est amplifié dans les jours qui ont suivi et, entre le 6 et le 12, ce sont environ 1 000 personnes venant des Hauts-de-Seine mais aussi de Paris et d'autres départements qui se sont présentées, non pas à la préfecture, mais à la direction départementale du travail et de l'emploi. Il semble que ces étrangers soient venus sur le fondement d'une rumeur selon laquelle une régularisation exceptionnelle de leur situation était possible. L'origine de cette rumeur n'a pu en définitive être identifiée de façon certaine. Il est possible toutefois d'affirmer de façon catégorique qu'elle n'a en aucune manière son origine dans les indications qui auraient été fournies par les services administratifs. Tout en leur remettant des formulaires de contrat de travail et en prenant note de leur demande, la direction départementale du travail et de l'emploi leur a fait savoir qu'il n'y avait aucune possibilité de régularisation exceptionnelle. Des affiches ont d'ailleurs été apposées pour en informer les demandeurs. A la même époque, un certain nombre de ressortissants mauriciens se sont présentés directement à la préfecture. Vingt d'entre eux dont la situation était irrégulière au titre de la réglementation sur le séjour ont fait l'objet d'un arrêté de reconduite à la frontière, conformément aux prescriptions de l'article 22 de l'ordonnance du 2 novembre 1945 modifiée. Ces vingt personnes ont regagné l'île Maurice sur différents vols, dans le strict cadre des procédures prévues par la loi.
