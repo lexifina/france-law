@@ -1,30 +1,56 @@
 # Article Annexe
 
-Département de l'Ain 1° Lac de Divonne-les-Bains ; 2° Lac de Nantua. Département des Alpes-de-Haute-Provence
+Département de l'Ain
+
+1° Lac de Divonne-les-Bains ;
+
+2° Lac de Nantua.
+
+Département de l'Allier
+
+Plan d'eau de Sidiailles.
+
+Département des Alpes-de-Haute-Provence
 
 1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale ;
 
-2° Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
+2° Tous les lacs de montagne situés à une altitude supérieure à 1 800 mètres.
 
 Département des Hautes-Alpes
 
-Lac de retenue de Serre-Ponçon, du barrage principal de Serre-Ponçon au pont de la Clapière sur la Durance, au pont de Pellegrin sur l'Ubaye et à la cote 781 N.G.F. pour tous les autres tributaires.
+1° Lacs de retenue de Serre-Ponçon, du barrage principal de Serre-Ponçon au pont de la Clapière sur la Durance, au pont de Pellegrin sur l'Ubaye et à la cote 781 N.G.F. pour tous les autres tributaires ;
+
+2° Tous les lacs situés à une altitude supérieure à 1 800 mètres, à l'exception du lac des Sirènes et du lac Profond.
 
 Département des Alpes-Maritimes
 
-Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
+Tous les lacs de montagne situés à une altitude supérieure à 1 800 mètres.
 
-Département de l'Ardèche.
+Département de l'Ardèche
 
-Lac d'Issarlès. Département de l'Aude. Barrage du lampy. Département de la Creuse.
+Lac d'Issarles.
 
-Lac de retenue de Vassivière. Département du Doubs.
+Département de l'Aude
 
-1° Lacs de Saint-Point, Bouverans, Rémorey ;
+Barrage du Lampy.
 
-2° Etang de Frasne. Département de la Haute-Garonne
+Département du Cher
 
-Tous les lacs de montagne situés à une altitude supérieure à 1. 400 mètres.
+Plan d'eau de Sidiailles.
+
+Département de la Creuse
+
+Lac de retenue de Vassivière.
+
+Département du Doubs
+
+1° Lacs de Saint-Point, Bouverans, Remoray ;
+
+2° Etangs de Frasne.
+
+Département de la Haute-Garonne
+
+Tous les lacs de montagne situés à une altitude supérieure à 1 400 mètres.
 
 Département de l'Isère
 
@@ -48,13 +74,13 @@ Département de la Marne
 
 Lac du Der Chantecoq.
 
-Département de la Haute-Marne
-
-Lac du Der Chantecoq.
-
 Département de Meurthe-et-Moselle
 
-Lac de Pierre-Percée.
+Lac de Pierre Percée.
+
+Département de la Moselle
+
+Etangs du Stock, de Gondrexange, Mittersheim, Ketzing et Neuf-Etang.
 
 Département de l'Orne
 
@@ -66,11 +92,11 @@ Département des Pyrénées-Atlantiques
 
 2° Lac Alain Cami à Saint-Pée-sur-Nivelle ;
 
-3° Tous les lacs de montagne situés à une altitude supérieure à 1.000 mètres.
+3° Tous les lacs de montagne situés à une altitude supérieure à 1 000 mètres.
 
 Département du Haut-Rhin
 
-Lacs blanc, Noir, du Forlet, Vert, du Schiessrothried, de l'Altenweiher, du Fischboedle, de la Lauch, du Ballon, de Kruth-Wildenstein, d'Alfred, de Sewen, des Perches, des Petit et Grand Neuweiher.
+Lacs Blanc, Noir, du Forlet, Vert, du Schiessrothried, de l'Altenweiher, du Fischboedle, de la Lauch, du Ballon, de Kruth-Wildenstein, d'Alfeld, de Sewen, des Perches, des Petit et Grand Neuweiher.
 
 Département de la Savoie
 
@@ -88,6 +114,6 @@ Département de la Haute-Vienne
 
 Lacs de retenue de Vassivière et de Saint-Pardoux.
 
-Département des Vosges.
+Département des Vosges
 
 Lacs de Gérardmer et Longemer.
