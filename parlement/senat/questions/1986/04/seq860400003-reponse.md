@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400003
+
+- Question : [SEQ860400003](seq860400003.md) — Rentrée scolaire 1986-1987
+
+## Réponse
+
+*Éducation, JO du 1986-07-31, page 1086*
+
+Réponse. -La rentrée scolaire se prépare plusieurs mois à l'avance et il est essentiel, pour éviter le risque d'une désorganisation, de ne pas changer les principales règles de préparation de cette rentrée à des dates trop tardives. Pour ne pas avoir été préparées dans le respect de ces principes, les rentrées 1981 et 1982 ont laissé l'image d'un grand désordre. C'est avec le souci constant du bon déroulement de la rentrée 1986 que le ministre de l'éducation nationale a pris ses premières décisions, les unes ayant pour objectif d'améliorer les conditions de la rentrée telle qu'elle avait été préparée, les autres apportant des infléchissements à la politique antérieurement suivie, mais ne pouvant avoir d'effets immédiats dès la rentrée 1986. La création de moyens supplémentaires dans l'enseignement public et dans l'enseignement privé doit permettre à la rentrée 1986 de se dérouler dans de bonnes conditions : la mise en place de ces moyens a été faite très rapidement de façon à permettre aux recteurs de les intégrer dans leur calendrier des opérations d'ajustements de rentrée et de nominations des personnels. Les mesures d'ores et déjà annoncées par le ministre de l'éducation nationale, et qui marquent un infléchissement important de la politique de ce département ministériel - réouverture du dossier de la réforme des lycées, élévation de la qualité du corps enseignant par arrêt du recrutement des P.E.G.C. et mise en place des concours internes d'accès au corps des certifiés, assouplissement des contraintes de la sectorisation, consolidation de la rénovation des collègues - font l'objet à l'heure actuelle de réflexions approfondies qui permettront la bonne insertion de ces éléments nouveaux dans le cadre de la préparation de la rentrée 1987.
