@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717890
+
+- Question : [SEQ990717890](seq990717890.md) — Avenir du bataillon de Joinville
+
+## Réponse
+
+*Défense, JO du 1999-08-26, page 2862*
+
+Réponse. - La professionnalisation des armées, en cours de réalisation, a profondément modifié les conditions dans lesquelles le dispositif militaire pouvait être déployé sur le territoire national. Lors de l'élaboration des mesures de restructuration correspondantes, les considérations relatives à l'aménagement du territoire ont été une préoccupation constante. A ce titre, la région Ile-de-France, où la présence militaire est importante, contribue à la mise en uvre de la loi de programmation. C'est dans ce cadre que la décision de transférer l'Ecole interarmées des sports (EIS) à Brest a été prise le 7 juillet 1998. Le lieu qui a été retenu est le centre Marine de La Villeneuve. L'EIS est constituée de deux bataillons : le bataillon d'Antibes et le bataillon de Joinville, tous deux implantés sur le site de Fontainebleau. La vocation du premier bataillon est de former des moniteurs de sport militaires professionnels, dont les armées continueront d'avoir besoin à l'issue de la réforme en cours. Outil de formation professionnelle, ce bataillon constituera en 2002 la partie essentielle de l'EIS et peut, comme de nombreuses structures de formation du ministère de la défense, être sans inconvénient majeur localisé en province. S'agissant du bataillon de Joinville, sa vocation actuelle est liée au service national. Il a accueilli pendant des décennies les sportifs masculins de haut niveau durant leur période d'obligations militaires et connaîtra, d'ici à 2002, un changement de format important. Des études visant à déterminer les modalités respectives de transfert de ces deux bataillons sont actuellement en cours.
