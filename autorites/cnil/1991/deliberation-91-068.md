@@ -1,0 +1,19 @@
+# Délibération portant avis sur le projet d'acte réglementaire présenté par le ministère des affaires sociales et de l'intégration concernant un modèle-type de gestion des stages au sein des directions régionales des affaires sanitaires et sociales dénommé "CEREFOC".
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 91-068
+- Date : 1991-09-10
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652756
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux fichiers et aux Libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ; Vu le projet d'acte réglementaire du Ministère des Affaires Sociales et de l'Intégration relatif à la création d'un modèle-type de traitement automatisé d'informations nominatives destiné à la gestion des stages au sein des directions régionales des affaires sanitaires et sociales dénommé "CEREFOC" ;
+
+Après avoir entendu Monsieur Marcel PINET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que le Ministère des Affaires Sociales et de l'Intégration soumet à l'avis de la Commission un modèle-type national de gestion des stages au sein des directions régionales des affaires sanitaires et sociales qui permettra d'assurer les fonctions suivantes : - Organisation des stages, - Gestion des candidatures, - Gestion des stages, - Gestion des formateurs, - Edition de documents statistiques.
+
+Considérant que pour assurer le paiement des intéressés par la Paierie Générale du Trésor, l'identifiant retenu n'est pas le numéro de sécurité sociale, mais un numéro séquentiel défini par l'ordinateur attribué à chaque bénéficiaire (identifiant GEC : gestion étendue des comptabilités) ; Considérant que les catégories d'informations nominatives enregistrées par chaque cellule régionale de formation continue des DRASS (CEREFOC) et des bureaux de formation du Ministère concernent l'identité de l'agent, sa situation familiale (situation matrimoniale, nombre d'enfants), sa vie professionnelle (position au sein de l'administration, diplômes, état de la formation continue), et ses coordonnées bancaires ; Considérant que l'accès aux applications pourra s'effectuer soit à partir d'un seul ordinateur, soit par plusieurs écrans connectés à un ordinateur multi-poste ;
+
+Considérant que la sécurité physique du système est assurée dans les deux cas, qu'elle est accompagnée d'une sécurité logique supplémentaire dans le cadre de l'accès par multi-poste (nom d'utilisateur associé à un mot de passe) ; Considérant qu'au sein de chaque CEREFOC, organisme chargé de la formation permanente des agents des DRASS et des DDASS, le droit d'accès et de rectification des personnes concernées s'exercera à la demande de l'intéressé ; Considérant que les organismes qui mettront en oeuvre le traitement, objet de la présente délibération devront présenter à la CNIL une demande d'avis allégée se référant au dit traitement et comportant un projet d'acte réglementaire, un engagement de conformité, ainsi qu'une description des mesures de sécurité ; qu'ils seront tenus en outre d'assurer l'affichage dans les locaux de l'acte réglementant le traitement ; que chacun de ces organismes s'engagera également à ne pas utiliser le numéro de sécurité sociale, mais un autre identifiant distinct de ce dernier ;
+
+EMET, dans ces conditions, et sous le bénéfice des observations qui précèdent, un avis favorable à la mise en oeuvre du traitement "CEREFOC". Le Président, Jacques FAUVET.
