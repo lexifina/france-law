@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606813
+
+- Question : [SEQ870606813](seq870606813.md) — Décrets d'application de la loi relative à certaines activités d'économie sociale
+
+## Réponse
+
+*Fonction publique, JO du 1987-09-17, page 1473*
+
+Réponse. -La loi du 12 juillet 1985 relative à certaines activités d'économie sociale renvoie expressément à trois décrets le soin de préciser les modalités de son application : le dernier alinéa de l'article 9 renvoie à un décret en Conseil d'Etat pris après avis du Conseil supérieur de la coopération le soin de déterminer les modalités de mise en oeuvre de la procédure de révision coopérative applicable aux sociétés coopératives ouvrières de production et à leurs unions. Ce décret, actuellement à l'examen du Conseil d'Etat, devrait pouvoir être prochainement promulgué ; les articles 11 et 12 prévoient qu'un décret pris après avis du Conseil supérieur de la coopération devait préciser les modalités d'attribution et de retrait de l'agrément prévu pour les coopératives maritimes et les sociétés coopératives d'intérêt maritime. Ce décret a été pris le 1er juin 1987 et porte le numéro 87-388 ; enfin, et en tant que de besoin, un décret devait préciser les modal ités d'application de la loi du 12 juillet 1985, notamment en adoptant ou en modifiant la réglementation à cette date en vigueur afin de la rendre compatible avec les dispositions nouvelles. En réalité, deux décrets ont été pris à cet effet le 9 janvier 1986. Le premier, portant le numéro 86-44, est destiné à abroger le décret n° 84-267 du 9 avril 1984 relatif à l'autorisation préalable des participations prises par les unions d'économie sociale. Le second porte le numéro 86-45 et abroge le décret n° 84-275 relatif à une inscription sur une liste des unions d'économie sociale. Tous deux ont été publiés au Journal officiel en date du 14 janvier 1986.
