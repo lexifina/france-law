@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104583
+
+- Question : [SEQ940104583](seq940104583.md) — Fonctionnement du consulat de France à Beyrouth
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-04-07, page 774*
+
+Réponse. - Le personnel d'exécution du consulat général de France à Beyrouth se compose de neuf fonctionnaires du ministère des affaires étrangères, de huit agents permanents de recrutement local ainsi que de l'équivalent, sur une année, de six personnels temporaires. Sur ces vingt-trois agents, vingt se consacrent exclusivement aux activités consulaires, dont dix s'occupent du secteur des visas, trois sont en charge de la comptabilité et sept assument la gestion de la communauté française. Malgré l'augmentation sensible de la communauté française (p 20 p. 100) enregistrée au Liban entre 1991 et 1994 et les six suppressions de postes de travail effectivement réalisées sur la même période, les effectifs du consulat général de France apparaissent théoriquement encore très largement suffisants pour faire face à la charge de travail qui est la sienne. A activité comparable, ils se situent bien au-dessus de la moyenne de nos autres consulats généraux, consulats ou sections consulaires sur l'ensemble du monde, différence que la seule prise en compte des spécificités particulières de la communauté française au Liban et des liens privilégiés unissant nos deux pays ne suffit pas à justifier totalement. Des difficultés de fonctionnement du consulat général de France à Beyrouth, telles celles qu'a bien voulu rappeler l'honorable parlementaire, existent cependant. Elles devraient pouvoir être progressivement réduites à travers un réaménagement plus fonctionnel des locaux de ce poste, l'achèvement de l'informatisation de l'ensemble de ses activités et une vigilance accrue du ministère des affaires étrangères quant à la qualité et la formation des agents qui seront, dans l'avenir, appelés à servir à Beyrouth.
