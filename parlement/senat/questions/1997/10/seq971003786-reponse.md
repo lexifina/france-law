@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003786
+
+- Question : [SEQ971003786](seq971003786.md) — Prise en charge à 100 % des consultations neuropsychiatriques des jeunes
+
+## Réponse
+
+*Santé, JO du 1998-03-26, page 996*
+
+Réponse. - Les honoraires de consultation des médecins psychiatres libéraux sont actuellement fixés à 225 francs et sont pris en charge par l'assurance maladie sur la base de 70 % du tarif de responsabilité. La prise en charge à 100 % est accordée aux assurés, quel que soit leur âge, souffrant d'une affection de longue durée ou d'une affection hors liste comportant un traitement prolongé ou une thérapeutique particulièrement coûteuse. Il n'est pas possible dans la situation financière actuelle des régimes sociaux d'accroître la couverture de ce type de soins. Sur un plan pratique, les étudiants ont à leur disposition des bureaux d'aide psychologique universitaire (BAPU) où ils peuvent rencontrer à titre gratuit des médecins spécialisés dans les psychothérapies de soutien et de prévention. Les pouvoirs publics ne peuvent s'immiscer dans la définition des garanties offertes par des organismes d'assurance complémentaire de droit privé tels que la Mutuelle nationale des étudiants de France directement gérée par ses membres. Le désengagement des mutuelles étudiantes du remboursement des consultations psychiatriques traduit donc la volonté exprimée par la majorité de leurs adhérents réunis en assemblée générale. En effet, aux termes de l'article 36 des statuts types des mutuelles, il appartient à cette instance de se prononcer souverainement sur le niveau des cotisations et des prestations de chaque groupement mutualiste. Dès lors, l'amélioration du niveau de prise en charge des consultations psychiatriques par les mutuelles étudiantes est une question qui relève de la compétence exclusive des assemblées générales de ces mutuelles.
