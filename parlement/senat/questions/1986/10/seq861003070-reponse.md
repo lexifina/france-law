@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003070
+
+- Question : [SEQ861003070](seq861003070.md) — Refus du projet de création d'un centre d'aide par le travail (CAT) à Lens (Pas-de-Calais)
+
+## Réponse
+
+*Affaires sociales, JO du 1987-05-14, page 748*
+
+Réponse. - Ainsi que l'indique l'honorable parlementaire, il n'a pas été donné suite au projet de création d'un centre d'aide par le travail de quatre-vingt-dix places à Lens présenté, à la fin de l'année 1985, par l'association La Vie active. Il convient en effet de noter que le département du Pas-de-Calais se situe au tout premier rang au plan national pour ce qui est de son équipement en centres d'aide par le travail : trente et un centres d'aide par le travail, plus de 2 500 places autorisées avec un taux de près de 4 places pour 1 000 habitants alors que le ratio national est de 1,8 pour 1 000. D'autre part, les capacités de redéploiement des établissements de l'enfance inadaptée du Pas-de-Calais ont permis, dans la période récente, l'extension du centre d'aide par le travail d'Outreau (soixante places) et la création du centre d'aide par le travail d'Hucqueliers (trente places). Enfin, la création d'un nouveau centre d'aide par le travail de quatre-vingt-dix places ne ferait qu'accroître dans ce département le déséquilibre entre ce type d'établissement et celui de l'atelier protégé (il n'existe que deux ateliers protégés dans le Pas-de-Calais). Compte tenu des caractéristiques de la population que l'association La Vie active souhaite accueillir, il apparaît qu'une solution combinant un centre d'aide par le travail d'une capacité plus réduite et une section d'atelier protégé serait plus opportune et pourrait être envisagée à l'avenir. Un nouveau projet de ce type est actuellement à l'étude à la direction départementale des affaires sanitaires et sociales du Pas-de-Calais.
