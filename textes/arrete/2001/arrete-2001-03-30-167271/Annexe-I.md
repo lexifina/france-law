@@ -1,9 +1,15 @@
 # Article Annexe
 
-Veaux de moins de 12 mois : 300, 450.
+Veaux de moins de 1 mois : 115, 173.
 
-Jeunes bovins : 700, 1 050.
+Veaux à l'engrais de 1 à 6 mois : 500, 750.
 
-Génisses de 24 à 36 mois : 900, 1 350.
+Broutards de race allaitante de moins de 12 mois : 600, 900.
 
-Vaches de plus de 36 mois : 1 300, 1 950.
+Jeunes bovins destinés à l'engraissement de 6 à 24 mois : 650, 975.
+
+Femelles d'élevage de 6 à 24 mois : 750, 1 125.
+
+Femelles de plus de 24 mois : 1 400, 2 100.
+
+Les montants de cette annexe s'appliquent à la valeur de remplacement telle que définie à l'article 1er.
