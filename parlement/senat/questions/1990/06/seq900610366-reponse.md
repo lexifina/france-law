@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610366
+
+- Question : [SEQ900610366](seq900610366.md) — Grève de la magistrature administrative
+
+## Réponse
+
+*Justice, JO du 1990-10-04, page 2147*
+
+Réponse. - Le statut des membres des tribunaux administratifs et des cours administratives d'appel est fixé par la loi du 6 janvier 1986 fixant les règles garantissant l'indépendance des membres de ce corps et par le décret du 28 septembre 1988. Le corps conserve la place éminente qui lui revient. La qualité du recrutement comme le niveau du corps sont attestés par le recrutement à l'issue de l'Ecole nationale d'administration qui est un élément essentiel de sa spécificité. Quant à la rémunération, comme tous les corps recrutés à l'issue de l'Ecole nationale d'administration, les membres du corps des tribunaux administratifs et des cours administratives d'appel disposent, en complément de leur traitement de base, de diverses indemnités. Pour l'ensemble des membres du corps est ainsi versée une indemnité forfaitaire spéciale, instituée par le décret du 3 septembre 1966, dont le taux est de 30 p. 100 en 1990. Pour les commissaires du Gouvernement s'ajoute à cette prime une prime spéciale, versée semestriellement, de l'ordre de 3 000 francs annuels et pour les chefs de juridiction une indemnité pour frais de représentation d'un montant équivalent. La modestie relative de ces indemnités comparées à celles des autres corps recrutés à l'issue de l'Ecole nationale d'administration soulève des difficultés, dont celles évoquées par l'honorable parlementaire. Il a donc commencé à être porté remède à cette situation par l'augmentation de la prime forfaitaire spéciale dont le taux a été relevé de 25 p. 100 en 1989 à 30 p. 100 en 1990. Cet effort est encore insuffisant. Une nouvelle augmentation est actuellement envisagée.
