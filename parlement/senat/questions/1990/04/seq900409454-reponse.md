@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409454
+
+- Question : [SEQ900409454](seq900409454.md) — Conséquences de la réalisation du TGV-Est pour les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1990-08-23, page 1803*
+
+Réponse. - A l'occasion de la réalisation de grands ouvrages, en l'occurrence du T.G.V.-Est, l'article 10 de la loi du 28 août 1962 complémentaire à la loi d'orientation agricole prévoit l'obligation faite au maître d'ouvrage, dans l'acte déclaratif d'utilité publique, de remédier aux dommages causés en participant financièrement à l'exécution d'opérations de remembrement et de travaux connexes et à l'installation sur des exploitations nouvelles comparables, des agriculteurs dont l'exploitation aurait disparu ou serait gravement déséquilibrée ou, s'ils l'acceptent, à la reconversion de leur activité. Si la commission communale d'aménagement foncier constituée à cette occasion se prononce pour un remembrement avec inclusion de l'emprise, le maître d'ouvrage devra procéder à un remembrement dans un périmètre d'au moins 20 fois l'emprise de l'ouvrage. C'est à la commission communale d'aménagement foncier d'apprécier la valeur du périmètre pertubé et d'en discuter avecle maître d'ouvrage. Selon les cas, ce périmètre peut aller bien au-delà de 20 fois l'emprise, et il n'est pas rare de voir des périmètres perturbés de 25 ou 30 fois l'emprise de l'ouvrage, voire plus. Si les commissions communales d'aménagement foncier veulent saisir l'oppportunité de ces remembrements " article 10 " pour remembrer au-delà du périmètre perturbé, il appartient au conseil général du département concerné d'inscrire ces remembrements supplémentaires au programme foncier. Tout cela fait, en outre, souvent l'objet de négociations entre les conseils généraux, la profession agricole et le maître d'ouvrage.
