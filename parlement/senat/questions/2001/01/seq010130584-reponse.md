@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130584
+
+- Question : [SEQ010130584](seq010130584.md) — Effectifs du lycée français Chateaubriand de Rome
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-03-15, page 911*
+
+Réponse. - Le bon fonctionnement du lycée Chateaubriand subit les conséquences de l'éclatement de l'établissement sur trois sites différents : Villa Strohl-Fern, Villa Patrizi et Villa Malpighi. Cette diversité des implantations ne permet pas d'offrir des conditions de vie scolaire pleinement satisfaisantes, tant en ce qui concerne l'organisation des activités pédagogiques et éducatives que l'accueil même d'un public scolaire nombreux. C'est pourquoi, dans l'attente qu'une solution durable puisse être apportée à ce problème, l'Agence pour l'enseignement français à l'étranger propose qu'une très légère diminution des effectifs, exclusivement sur le site de la Villa Strohl-Fern, soit envisagée pour la prochaine rentrée scolaire. La mesure retenue à cet effet, après étude de diverses hypothèses, consiste en la fermeture d'une des deux divisions de petite section de maternelle que compte l'établissement. Il convient de souligner que cette décision entraîne une déflation très limitée des effectifs scolaires, de l'ordre d'à peine 2 %. Par ailleurs, s'agissant du long terme, la réflexion sur l'évolution des effectifs - liée notamment aux contraintes des locaux et aux impératifs de sécurité - s'inscrit dans un cadre qui ne remet nullement en cause la vocation de l'établissement à accueillir, outre les élèves français, une proportion importante d'élèves italiens. Le lycée Chateaubriand joue un rôle essentiel aussi bien dans la promotion de la langue et de la culture françaises en Italie que dans celle du pluralisme linguistique au sein de l'Union européenne. Les mesures envisagées permettront d'offrir aux élèves français et étrangers qui fréquentent cet établissement de meilleures conditions de vie et d'études.
