@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006673
+
+- Question : [SEQ891006673](seq891006673.md) — Accord d'autolimitation des ventes d'acier vers les Etats-Unis
+
+## Réponse
+
+*Industrie, JO du 1990-01-11, page 74*
+
+Réponse. - Les nouveaux " arrangements volontaires d'autolimitation " concernant les échanges de certains produits sidérurgiques et les échanges de tubes et tuyaux en acier viennent d'être conclus entre les Etats-Unis et la Communauté économique européenne. Ces arrangements portent sur une durée de deux ans et demi, alors que la durée de ceux qui les ont précédés était de cinq ans. Par ailleurs, les représentants des Etats-Unis ont affirmé solennellement qu'il s'agissait de leur part d'une ultime demande d'accords d'autolimitation. Le dispositif actuel présente, par rapport aux accords d'autolimitation précédents, les améliorations suivantes : une meilleure accessibilité des produits européens au marché américain : la part globale de marché réservée aux producteurs communautaires passe de 6,68 p. 100 à 7 p. 100, soit une hausse de 300 000 tonnes. La liste des catégories de produits concernés est inchangée ; une gestion plus flexible : en particulier, l'Europe pourra mieux répartir, selon ses intérêts, les tonnages globaux entre les diverses catégories. La procédure dite " short supply " (possibilité d'exporter hors contingent) sera plus ouverte. Par ailleurs, les deux parties sont convenues de parvenir à un code de bonne conduite du marché international de l'acier, excluant les pratiques déloyales. Les accords sidérurgiques entre les Etats-Unis et la C.E.E. ont été entièrement négociés sous présidence française. Ils manifestent un progrès significatif vers la libéralisation des échanges, ce que n'ont pas obtenu certains des partenaires des Etats-Unis, comme le Japon. En ouvrant la possibilité de livrer outre-Atlantique des quantités accrues, ces accords accroissent la diversification des débouchés de la production française.
