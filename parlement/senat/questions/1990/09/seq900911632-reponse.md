@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911632
+
+- Question : [SEQ900911632](seq900911632.md) — Suites données au rapport sur les prisons
+
+## Réponse
+
+*Justice, JO du 1990-11-29, page 2544*
+
+Réponse. - La connaissance de la personnalité des détenus est effectivement, ainsi qu'il a été souligné dans le rapport remis par M. Karsenty, inspecteur général de l'administration au garde des sceaux, déterminante pour assurer une bonne prise en charge du détenu, une orientation adaptée dans l'établissement qui convienne et au cours de la détention une bonne individualisation tant du traitement pénitentiaire que des mesures d'application des peines. C'est pourquoi, conformément aux recommandations du rapport, il a été demandé aux procureurs généraux de veiller à ce que les parquets contribuent à cette prise en charge par la transmission aux responsables des établissements pénitentiaires des informations qu'ils sont susceptibles de recueillir sur la personnalité, l'état de santé, les antécédents des personnes écrouées ainsi que sur les risques qu'elles sont susceptibles de présenter tant pour elles-mêmes que pour les autres détenus, le personnel ou pour la sécurité de l'établissement. Dans le même esprit, il a été demandé aux magistrats instructeurs d'entrer en relation avec le directeur régional chaque fois que l'opportunité de changer le lieu normal d'écrou est envisagée. De manière plus générale, le ministère de la justice a donné les instructions nécessaires pour que soient organisées de manière périodique des conférences d'information réciproque entre les chefs d'établissement pénitentiaire et l'autorité judiciaire. Il est par ailleurs prévu la tenue, sous l'autorité des procureurs de la République, d'une réunion trimestrielle à laquelle sont représentées toutes les forces de l'ordre et au cours de laquelle sont examinés, à l'occasion de leur éventuel classement sur le répertoire des détenus particulièrement signalés, les cas des détenus les plus dangereux.
