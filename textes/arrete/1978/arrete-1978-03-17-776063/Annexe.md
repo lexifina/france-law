@@ -36,7 +36,7 @@ Châteaufort, Coignières, Elancourt, Guyancourt, Magny-les-Hameaux, Maurepas, L
 
 Arpajon, Athis-Mons, Ballainvilliers, Bièvres, Boissy-sous-Saint-Yon, Boussy-Saint-Antoine, Brétigny-sur-Orge, Breuillet, Breux, Brunoy, Bruyères-le-Châtel, Bures-surYvette, Champlan, Chilly-Mazarin, Corbeil- Essonnes, Crosne, Draveil, Egly, Epinay-sous-Sénart, Epinay-sur-Orge, Evry, Gif-sur-Yvette, Gometz-le-Châtel, Grigny, Igny, Juvisy-sur-Orge, Leuville-sur-Orge, Linas, Longjumeau, Longpont-sur-Orge, Marcoussis, Massy, Mennecy, Montgeron, Montlhéry, Morangis, Morsang-sur-Orge, La Norville, Ollainville, Ormoy, Orsay, Palaiseau, Paray-Vieille-Poste, Le Plessis-Pâté, Quincy-sous-Sénart,
 
-Ris-Orangis, Sainte-Geneviève-des-Bois, Saint-Germain-lès-Arpajon, Saint-Michel-sur-Orge, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Varennes-Jarcy, Vauhallan, Varrières-le-Buisson, Vigneux-sur-Seine, Villabé, La Ville-du-Bois, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et Yerres.
+Ris-Orangis, Sainte-Geneviève-des-Bois, Saint-Germain-lès-Arpajon, Saint-Michel-sur-Orge, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Les Ulis, Varennes-Jarcy, Vauhallan, Varrières-le-Buisson, Vigneux-sur-Seine, Villabé, La Ville-du-Bois, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et Yerres.
 
 Ville nouvelle d’Evry.
 
