@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507290
+
+- Question : [SEQ030507290](seq030507290.md) — Situation de la Société anonyme des autoroutes du nord et de l'est de la France (SANEF)
+
+## Réponse
+
+*Équipement, JO du 2004-01-01, page 26*
+
+Depuis l'ouverture du capital de la société des autoroutes du Sud de la France décidée par le Gouvernement à la fin de 2001 et réalisée en mars 2002, plusieurs études ont été réalisées par les administrations concernées pour évaluer l'opportunité de poursuivre l'évolution capitalistique du secteur autoroutier. Les trois principales problématiques touchent au risque de concentration sectorielle, à la maîtrise de la concurrence sur les marchés de travaux publics et aux aménagements des contrats de concession à mettre en oeuvre pour assurer leur bonne exécution tant en matière d'investissements que de services aux usagers. Au-delà de ces aspects fondamentaux se pose la question de la valorisation du secteur ainsi que celle de sa capacité à contribuer au financement des infrastructures de transport. Le rapport d'audit de l'inspection générale des finances et du conseil général des ponts et chaussées a effectivement mis en évidence un besoin cumulé pour l'Etat de 15 milliards d'euros sur les vingt prochaines années au-delà des financements qu'il met actuellement en place. L'évolution capitalistique du secteur autoroutier et ses conséquences en matière de dividendes provenant des sociétés concessionnaires d'autoroutes doit nécessairement intégrer cette composante. Après le riche débat qui s'est tenu au Parlement au printemps dernier, au cours duquel cette question a notamment été évoquée, le Gouvernement présentera dans quelques semaines une planification multimodale de la réalisation des grandes infrastructures de transport dont le pays a besoin et les moyens qui pourront être mobilisés pour sa mise en oeuvre.
