@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104495
+
+- Question : [SEQ940104495](seq940104495.md) — Cession des activités des cours de français assurés par le centre culturel de Rome à l'Alliance française
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-03-17, page 587*
+
+Réponse. - Afin de renforcer et de rationaliser une présence culturelle très diverse menant parfois à de coûteux chevauchements de compétences entre les différentes institutions françaises établies à Rome, le ministère des affaires étrangères a pris la décision de procéder à une restructuration de notre dispositif culturel dans la capitale italienne. Les fonctions d'animation culturelle et de documentation seront rattachées au service culturel de l'ambassade. Les activités d'enseignement seront pour leur part transférées à une association italo-française rattachée à l'Alliance française de Paris, comme il en existe déjà plusieurs en Italie. Ainsi se constituera à Rome un réseau d'établissements dont la diffusion du français aux adultes sera la vocation exclusive. Cet établissement disposera, dans le cadre d'une convention avec le ministère des affaires étrangères, des ressources nécessaires à l'accomplissement de sa mission. Riche d'une expérience de cent ans dans le domaine de la diffusion de notre langue à l'étranger, l'Alliance française donne toutes garanties concernant le maintien des cursus actuellement dispensés. Loin de constituer un désengagement de la France à Rome, cette réorganisation doit au contraire se traduire par une meilleurre visibilité de notre présence et par une plus grande efficacité de nos actions. Les personnels concernés par cette réorganisation seront affectés dans les nouvelles structures mises en place ou, s'ils le souhaitent, réintégrés dans leur administration d'origine. La restructuration du centre ne donnera lieu, en tout état de cause, ni à diminutions de salaire ni à suppression d'emploi.
