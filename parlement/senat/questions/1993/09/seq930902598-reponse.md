@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902598
+
+- Question : [SEQ930902598](seq930902598.md) — Habitat social
+
+## Réponse
+
+*Logement, JO du 1994-02-03, page 258*
+
+Réponse. - L'insuffisance de la dotation des aides à la personne prévue par la loi de finances initiale pour 1993 était manifeste et ne permettait pas de faire face au paiement des prestations d'ici à la fin de l'année. Le Gouvernement a donc été contraint de proposer au Parlement, dans le collectif budgétaire, une ouverture de crédits supplémentaires de 3,2 milliards de francs, soit une augmentation de plus de 15 p. 100 par rapport à la dotation initiale. Une nouvelle ouverture de crédits supplémentaires de 4,6 milliards a été inscrite dans la loi de finances rectificative de fin d'année. Il est aussi apparu nécessaire, pour les mêmes raisons, de geler pour un an le barème des aides à la personne. Une révision de ces barèmes, qui sont définis par voie réglementaire, ne pourra donc intervenir avant le 1er juillet 1994. Les effets de cette mesure sur le montant d'aide versée à chaque bénéficiaire restent toutefois limités. En effet, l'actualisation des barèmes dépend de deux paramètres principaux : l'indice du coût de la construction (ICC) et l'indice des prix. Or l'évolution de ces indices est, cette année, particulièrement faible : 0,3 p. 100 pour l'ICC et 2 p. 100 pour les prix. La baisse des taux d'intérêt, et donc de la rémunération des placements financiers, redonne un nouvel attrait au livret A auprès des épargnants. L'excédent des retraits par rapport aux dépôts devrait être contenu en 1993 par rapport aux prévisions de début d'année. Le Gouvernement reste, toutefois, très attentif à l'évolution des dépôts sur le livret A et prendra, si nécessaire, les mesures qui s'imposent pour pérenniser le financement du logement social.
