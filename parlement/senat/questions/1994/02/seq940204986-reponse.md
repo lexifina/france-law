@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204986
+
+- Question : [SEQ940204986](seq940204986.md) — Statut des agents d'entretien des crèches communales
+
+## Réponse
+
+*Intérieur, JO du 1994-05-26, page 1298*
+
+Réponse. - Les fonctionnaires qui, au 30 août 1992, ont été intégrés dans le cadre d'emplois des agents d'entretien en application du quatrième alinéa de l'article 16, avec effet au 1er mai 1992, ou de l'article 18-1 du décret no 88-552 du 6 mai 1988 modifié, et qui exercent les fonctions d'agent spécialisé des écoles maternelles sont intégrés dans le cadre d'emplois des agents spécialisés des écoles maternelles conformément à l'article 9 du décret no 92-850 du 28 août 1992. En revanche, les agents d'entretien travaillant en crèche n'ont pas vocation à être intégrés dans le cadre d'emplois des agents sociaux au titre de la constitution initiale de ce cadre d'emplois. En effet, les fonctionnaires déjà intégrés ne peuvent l'être une seconde fois qu'en cas de disposition expresse. Seuls les alinéas d du 1 et c du 2 de l'article 13 du décret no 92-849 du 28 août 1992 prévoient que des agents d'entretien puissent faire l'objet d'une nouvelle intégration dans le cadre d'emplois des agents sociaux lorsque leur première intégration avait été prononcée au titre de leur emploi d'aide ménagère en application du quatrième alinéa de l'article 16 du décret no 88-552 du 6 mai 1988. En outre, le décret no 92-849 du 28 août 1992 modifié a prévu l'intégration, au titre de la constitution initiale du cadre d'emplois des agents sociaux, de fonctionnaires exerçant leurs fonctions dans un établissement de la petite enfance. Ces dispositions avaient pour objet de permettre l'intégration de fonctionnaires non encore intégrés qui ne remplissaient pas les conditions de diplômes pour être intégrés dans le cadre d'emplois des auxiliaires de puériculture.
