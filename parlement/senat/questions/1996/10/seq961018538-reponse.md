@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018538
+
+- Question : [SEQ961018538](seq961018538.md) — Réorganisation du Groupe des assurances nationales
+
+## Réponse
+
+*Économie, JO du 1997-01-16, page 128*
+
+Réponse. - Le GAN est engagé dans un plan de redressement courageux, dans l'objectif de restaurer la rentabilité de ses activités de base. Les premiers résultats sont déjà enregistrés. Ainsi, malgré des pertes sur l'immobilier d'origine bancaire, les comptes d'exploitation des activités d'assurance sont désormais équilibrés. Ceux-ci demeurent cependant précaires et continuent de se comparer défavorablement avec ceux de la concurrence. C'est pourquoi il est apparu nécessaire de prendre des mesures complémentaires pour assurer au groupe une rentabilité comparable à celle de ses concurrents, assurer son développement, conforter l'emploi et permettre à l'Etat d'envisager les options possibles dans des conditions satisfaisantes. Les actions envisagées, qui passent par un programme de réduction des frais généraux, sont en cours d'élaboration et il sera tenu compte de la nécessité de limiter autant que faire se peut les suppressions de postes, de privilégier les reclassements internes et de ne recourir qu'en denrier ressort à des procédures de licenciement. Conformément aux dispositions du code du travail, elles devront être débattues au niveau des instances représentatives. Un comité central d'entreprise se réunira prochainement sur le sujet. En qualité d'actionnaire principal, l'Etat suit avec une attention particulière l'évolution de la situation du groupe GAN, dans tous ses aspects. Les organisations représentatives des salariés en sont, je le crois, conscientes, puisqu'elles ont encore récemment été reçues par les collaborateurs du ministre de l'économie et des finances ainsi que par ceux du Premier ministre.
