@@ -2,7 +2,7 @@
 
 CATEGORIE D'AMENAGEMENTS, ouvrages ou travaux soumis à enquête publique régie par la loi du 12 juillet 1983 :
 
-Installations nucléaires et leurs rejets d'effluents radioactifs gazeux (décret n° 63-1228 du 11 décembre 1963 et décret n° 74-945 du 6 novembre 1974).
+Installations nucléaires et leurs rejets d'effluents radioactifs gazeux et liquides (décret n° 63-1228 du 11 décembre 1963 et décret n° 95-540 du 4 mai 1995).
 
 SEUILS ET CRITERES :
 
