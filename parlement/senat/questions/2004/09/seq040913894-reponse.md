@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913894
+
+- Question : [SEQ040913894](seq040913894.md) — Frais des élus locaux en situation de handicap
+
+## Réponse
+
+*Intérieur, JO du 2004-12-16, page 2912*
+
+Le titre II de la loi n° 2002-276 du 27 février 2002, relative à la démocratie de proximité, met en place un corps de règles applicables aux élus locaux qui constituent un véritable statut de l'élu local et tendent à favoriser les conditions d'exercice des mandats locaux. Parmi ces dispositions, figurent les articles 84 et 85 relatifs au remboursement de frais de déplacement des élus municipaux, départementaux et régionaux pour participer aux réunions de leur collectivité ou auprès d'organismes au sein desquels ils représentent cette dernière, mais aussi au remboursement de frais liés à une situation de handicap. S'agissant de ce dernier cas, le législateur a souhaité que soit facilitée pour les personnes handicapées la possibilité d'exercer un mandat électif local malgré les contraintes et les difficultés liées à leur handicap. Pour ce faire, des dispositions des articles 84 et 85, codifiées aux articles L. 2123-18-1, L. 3123-19 et L. 4135-19 du code général des collectivités territoriales, prévoit que les élus municipaux, départementaux ou régionaux en situation de handicap " peuvent bénéficier du remboursement des frais spécifiques de déplacement, d'accompagnement et d'aide technique qu'ils ont engagés " pour l'exercice de leur mandat. Toutefois, cette disposition n'est pas d'application immédiate compte tenu que la loi a prévu qu'un décret devait en déterminer les conditions de mise en ceuvre. Ce texte, qui sera très prochainement transmis au Conseil d'Etat, devrait être publié au début de l'année 2005. Il permettra de préciser dans la partie réglementaire du code général des collectivités territoriales les conditions pratiques pour obtenir le remboursement des frais engagés par les élus en situation de handicap.
