@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633923
+
+- Question : [SEQ010633923](seq010633923.md) — Maintien du collège de droit français et européen à Varsovie
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-06, page 2867*
+
+Pour le ministère des affaires étrangères, la diffusion du droit français et européen constitue une priorité majeure de la coopération avec les pays candidats à l'adhésion à l'Union européenne. Cette priorité a été à plusieurs reprises réaffirmée dans le cadre du comité d'orientation, de coordination et de projets (Cocop), instance interministérielle qui décide de l'allocation de crédits aux projets de coopération pour les pays d'Europe centrale et orientale et les nouveaux Etats indépendants. A cet égard, le Collège de droit français et européen de Varsovie constitue une réussite exemplaire. La formation dispensée par l'université de Poitiers fait désormais autorité en Pologne et est hautement appréciée tant par les autorités académiques locales que par les étudiants. L'octroi d'un diplôme d'Etat de troisième cycle par la partie française distingue ce programme des partenariats universitaires juridiques qu'entretient la Pologne avec d'autres pays. Dans un contexte budgétaire tendu, le ministère des affaires étrangères apporte son soutien au Collège depuis sa création La subvention accordée en 2001, en très légère diminution par rapport à 2000, se situe exactement au niveau du montant sollicité par l'université de Poitiers elle-même. S'y ajoutent, comme chaque année, des moyens mobilisés directement par l'ambassade de France à Varsovie, sous forme de missions et de bourses notamment. Dans la mesure où le Collège de droit français et européen représente un élément essentiel du dispositif français de coopération en Pologne, le ministère des affaires étrangères ne prendra pas de mesure qui puisse rompre l'équilibre financier de cette formation.
