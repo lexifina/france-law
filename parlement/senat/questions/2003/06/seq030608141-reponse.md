@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608141
+
+- Question : [SEQ030608141](seq030608141.md) — Organisation et moyens des consulats en matière de nationalité
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-01-27, page 219*
+
+L'instruction et la délivrance des certificats de nationalité française (CNF) ressortissent de la compétence exclusive des greffiers en chef des tribunaux d'instance. Les postes consulaires, pour leur part, sont chargés de vérifier l'authenticité des documents présentés et l'identité des demandeurs. En tant que de besoin, ils apportent leur aide à ces derniers pour la constitution des dossiers. Dans le cadre de leur mission générale d'information à l'égard de la communauté française, les consulats sont régulièrement amenés à renseigner nos compatriotes sur des questions de nationalité. Dans chacun de nos postes à l'étranger, un agent, au moins, est plus particulièrement spécialisé dans le traitement de ces questions. Cependant, une bonne connaissance des questions touchant à la nationalité française est requise de l'ensemble des agents consulaires, quelles que soient leurs attributions habituelles. Aussi, le département porte-t-il une attention toute particulière à la formation des agents dans ce domaine avant leur départ en poste. Tous les agents reçoivent une formation initiale de plusieurs semaines portant sur l'ensemble des questions consulaires dont celles relatives à la nationalité. Des stages spécifiques de nationalité sont, par ailleurs, régulièrement organisés au département. Un fonds actualisé de documentation (textes juridiques, instructions, fiches pratiques), dont les éléments essentiels sont en ligne sur l'Intranet du département, a été mis à leur disposition et permet de porter sans délai à leur connaissance les diverses évolutions du droit dans ce domaine essentiel.
