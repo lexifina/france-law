@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407323
+
+- Question : [SEQ980407323](seq980407323.md) — Régime fiscal des tontines
+
+## Réponse
+
+*Économie, JO du 1998-09-03, page 2826*
+
+Réponse. - Les sociétés à forme tontinière mentionnées à l'article L. 322-26-4 du code des assurances réunissent leurs adhérents en groupes distincts dénommés associations et répartissent, à l'expiration de chacune de ces associations, les fonds provenant de la capitalisation en commun de leurs cotisations, déduction faite de la partie affectée aux frais de gestion, entre les survivants des associations en cas de vie ou entre les ayants droit des décédés des associations en cas de décès, en tenant compte de l'âge des adhérents et de leurs versements. Sur le plan fiscal, les tontines en cas de vie sont des placements de même nature que les bons ou contrats de capitalisation mentionnés à l'article 125-0 A du code général des impôts. Les produits attachés à ces tontines sont par conséquent soumis à ce titre à l'impôt sur le revenu lors du dénouement du contrat. Dès lors que les tontines en cas de vie ne sont pas des contrats en unités de compte au sens du deuxième alinéa de l'article L. 131-1 du code des assurances, leurs produits sont exclus du champ d'application de l'exonération d'impôt sur le revenu dont bénéficient les produits des bons ou contrats en unités de compte d'une durée au moins égale à huit ans investis à hauteur de 50 % en actions institués par l'article 21 de la loi de finances pour 1998 (loi nº 97-1269 du 30 décembre 1997). Par ailleurs, les produits de ces tontines sont soumis aux prélèvements sociaux (CRDS, CSG et prélèvement social de 2 %) lors de leur inscription au contrat qui intervient au moment de l'individualisation des droits des bénéficiaires, à l'expiration de chaque association.
