@@ -1,9 +1,0 @@
-# Article Annexe IV art. 9
-
-Le concessionnaire est tenu de conserver pendant quinze jours au moins un enregistrement des émissions.
-
-Le concédant peut à tout moment vérifier la conformité des émissions aux obligations de programmation contenues dans le présent cahier des charges. A cet effet, le concessionnaire versera au profit du service d'observation des programmes une cotisation forfaitaire annuelle de 500.000 F pour la première année d'exploitation et de 725.000 F pour chacune des années ultérieures.
-
-NOTA :
-
-NOTA : La concession accordée à la société France 5 pour l'exploitation de la 5ème chaine a été résiliée par le décret 87-50 du 2 février 1987, à compter du 28 février 1987, à vingt-quatre heures.
