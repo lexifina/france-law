@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205863
+
+- Question : [SEQ980205863](seq980205863.md) — Décrets d'application de la loi d'orientation pour l'aménagement et le développement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-04-30, page 1380*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant le décret d'application de la LOADT. La loi no 95-115 du 4 février 1995, en son article 29, a introduit la notion de service public, qui pose le principe d'égal accès des citoyens sur l'ensemble du territoire à des services publics de qualité. Elle fixe également les modalités de la prise en compte des objectifs d'aménagement du territoire et de services rendus aux usagers par les établissements et organismes publics, ainsi que les entreprises nationales placées sous la tutelle de l'Etat et chargés d'un service public et de compensations financières en vue de répondre à ces obligations. Les négociations avec les organismes publics concernés, qui revêtent un enjeu majeur en termes d'aménagement du territoire, ont d'ores et déjà débuté : les contrats de services publics d'EDF et de GDF ont éé approuvés et signés par l'Etat ; des négociations sont en cours avec La Poste. Elles sont subordonnées aux discussions concernant le contrat de plan qui devrait être conclu début 1998 ; des premiers contacts ont été pris avec la SNCF et France Télécom ; s'agissant de la Banque de France, qui relève également de l'application des articles 28 et 29, les négociations sont également pendantes. Le décret d'application, dont le texte a été approuvé lors du CIADT du 10 avril 1997, a été transmis au Conseil d'Etat, qui a émis des observations sur sa rédaction. Il est envisagé de revoir la rédaction de l'article 29 et de la simplifier de façon à permettre une mise en uvre rapide de ce dispositif.
