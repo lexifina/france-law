@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320415
+
+- Question : [SEQ920320415](seq920320415.md) — Financement des structures accueillant les gens du voyage
+
+## Réponse
+
+*Intérieur, JO du 1992-05-14, page 1134*
+
+Réponse. - Le préfet des Yvelines s'attache à l'élaboration du schéma départemental d'accueil des gens du voyage prévu par l'article 28 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement. Ce schéma, document constatant les besoins locaux d'accueil et prévoyant les structures nécessaires pouvant fonder les décisions des autorités responsables, doit être l'aboutissement d'une large concertation, à la fois locale et départementale, afin de mieux cerner la situation existante et définir une répartition équilibrée des équipements d'accueil à réaliser sur l'ensemble du département. Aussi, les communes et les établissements publics de coopération intercommunale sont-ils invités à s'associer à l'élaboration de ce schéma. Dans cette optique, une " instance départementale du dialogue avec les gens du voyage " mise en place au cabinet du préfet a élaboré un dossier d'information à l'usage des maires, récemment diffusé aux élus et à l'ensemble des services. S'agissant du financement des aires d'accueil, il convient de préciser que les projets d'aménagement de ces aires cohérents avec le schéma départemental pourront bénéificier d'une participation financière de l'Etat et des autres partenaires (département, région, C.A.F., F.A.S...) dans des conditions qui seront définies par le schéma départemental. J'ajoute qu'une circulaire interministérielle relative au schéma départemental d'accueil des gens du voyage donnant toutes précisions sur les conditions d'élaboration de ce schéma a été diffusée aux préfets le 16 mars 1992 et est publiée au Journal officiel du 3 avril 1992.
