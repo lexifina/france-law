@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700648
+
+- Question : [SEQ970700648](seq970700648.md) — Procédures administratives applicables à l'embauche et à l'apprentissage
+
+## Réponse
+
+*Emploi, JO du 1997-09-18, page 2465*
+
+Réponse. - L'attention de madame la ministre de l'emploi et de la solidarité a été appelée sur les difficultés rencontrées par les jeunes désireux de conclure un contrat d'apprentissage en dehors des périodes légales. L'apprentissage a pour vocation de faire acquérir à un jeune un diplôme de l'enseignement technologique et professionnel par le biais d'une formation théorique et pratique en centre de formation d'apprentis et de l'exercice en entreprise d'une activité professionnelle en relation avec le diplôme préparé. Dès lors, les périodes de recrutement des apprentis par les entreprises sont généralement calquées sur l'année scolaire. En conséquence, l'article L. 117-13 du code du travail précise que le contrat ne peut débuter plus de trois mois avant ni plus de deux mois après le début du cycle de formation prévu en CFA dans le but de permettre une formation complète de l'apprenti lui permettant d'acquérir le diplôme visé. Des dérogations à la date de début du contrat d'apprentissage peuvent être accordées lorsque le jeune est susceptible d'intégrer le cycle de formation en cours sans que cela compromette sa formation. C'est la raison pour laquelle ces dérogations sont subordonnées à l'autorisation du recteur après l'avis du directeur du centre de formation d'apprentis. En tout état de cause, au-delà d'un délai de quatre mois à compter du début du cycle de formation, les dérogations accordées sont exceptionnelles en raison des problèmes que pose l'intégration d'un jeune dans un cycle déjà commencé depuis plusieurs mois. Le recours au contrat d'orientation peut constituer, pour la période considérée, une mesure adaptée comme étape d'un parcours vers la qualification.
