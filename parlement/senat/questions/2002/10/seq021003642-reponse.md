@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003642
+
+- Question : [SEQ021003642](seq021003642.md) — Institut diplomatique
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-01-02, page 25*
+
+L'institut diplomatique est un cadre de réflexion, d'études et de formation qui a pour vocation de permettre aux responsables des administrations et des entreprises d'approfondir leurs connaissances dans le domaine des relations internationales et de la diplomatie (affaires européennes, questions économiques et de sécurité internationales, coopération et développement, nouveaux acteurs des relations internationales, enjeux de société). Les sessions de formation de l'institut diplomatique du ministère des affaires étrangères ont une durée de deux mois. Elles rassemblent une trentaine d'auditeurs, vingt étant issus du ministère des affaires étrangères et dix extérieurs. Cette répartition vise à renforcer les synergies entre fonctionnaires et responsables du secteur privé conduits, de par leur fonction, à travailler dans le domaine international. Le coût de fonctionnement de l'institut diplomatique s'est élevé à 1 016 945,40 francs (soit 155 032,33 euros) en 2001. Il comprend des frais pédagogiques (rémunérations des intervenants et modules pratiques avec prestataires extérieurs) et des frais de logistique (transports, voyages d'étude des auditeurs à Bruxelles et en Pologne). Un fonctionnaire (agent de catégorie B) du département de la formation est en charge de l'institut diplomatique sous la direction du chef du département de la formation du ministère des affaires étrangères. Un directeur des études, universitaire, en liaison avec le comité de pilotage de l'institut, présidé par le secrétaire général du ministère, conçoit le programme de la session et supervise, en collaboration avec le département de la formation, le suivi de la session.
