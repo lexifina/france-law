@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701587
+
+- Question : [SEQ970701587](seq970701587.md) — Etablissements pénitentiaires à gestion mixte
+
+## Réponse
+
+*Justice, JO du 1998-02-26, page 675*
+
+Réponse. - Le garde des sceaux, ministre de la justice, remercie l'honorable parlementaire de l'intérêt qu'il porte à la gestion des établissements pénitentiaires. La loi du 22 juin 1987, relative au service public pénitentiaire, permet de confier l'exécution d'un certain nombre de fonctions au secteur privé. Cette solution a été retenue au sein de vingt et un des vingt-cinq établissements pénitentiaires dits du programme 13 000, construits entre 1989 et 1992. Il s'agit d'une délégation de service public plus communément appelée gestion mixte. La délégation de service public porte sur les fonctions de maintenance (mobilière et immobilière), de restauration, de cantine et d'hôtellerie, de santé, de formation professionelle et du travail des détenus. Les fonctions de direction, de surveillance, de tenue des greffes et de réinsertion restent de la compétence directe de l'Etat. Différentes études ont été menées, afin d'évaluer ce nouveau dispositif de gestion. Elles concluent à la pertinence des résultats obtenus qui apparaissent satisfaisants aussi bien du point de vue de la qualité des prestations que de son coût pour l'Etat. L'administration bénéficie, dans les domaines concernés par la délégation, du professionnalisme des entreprises qui ont fait preuve d'une réelle capacité d'adaptation au service public pénitentiaire. La maison d'arrêt de Villefranche-sur-Saône (Rhône) et le centre pénitentiaire d'Aiton (Savoie) sont les deux établissements pénitentiaires à gestion mixte situés dans la région Rhône-Alpes. Des constructions nouvelles sont à l'étude, l'implantation de ces nouveaux établissements pourrait se réaliser dans les régions qui connaissent une forte délinquance urbaine.
