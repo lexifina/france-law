@@ -22,9 +22,15 @@ Pas-de-Calais. |
 
 La Bresle. |
 
-En aval du pont de la N. 29, à Aumale. |
+.En aval du pont de la D7 à Hodeng-au-Bosc. |
 
-Somme, Seine-Maritime. |
+Seine-Maritime. |
+
+La Bresle. |
+
+En aval du pont de la D 25 à Sénarpont. |
+
+Somme. |
 
 Bassin Seine-Normandie
 
@@ -48,19 +54,19 @@ Seine-Maritime. |
 
 La Béthune. |
 
-De son confluent avec l'Arques jusqu'au barrage du château de Mesnière-en-Bray. |
+De son confluent avec l'Arques jusqu'au pont de la D97 à Mesnières-en-Bray. |
 
 Seine-Maritime. |
 
 La Varenne. |
 
-De son confluent avec la Béthune jusqu'au barrage de Sévis-Orval. |
+De son confluent avec la Béthune jusqu'au chemin vicinal entre la D154 et la D15, limite des communes de Saint-Hellier et Sévis (Orival). |
 
 Seine-Maritime. |
 
 L'Orne. |
 
-En aval de son confluent avec la Maire, commune de Serans (Orne). |
+En aval du barrage EDF de Rabodanges, commune de Rabodanges (61). |
 
 Calvados, Orne. |
 
@@ -72,15 +78,21 @@ Calvados, Orne. |
 
 La Vire. |
 
-En aval de son confluent avec la Souleuvre, commune de Campeaux (Calvados). |
+En aval de son confluent avec la Virène, commune de Vire. |
 
-Calvados, Manche. |
+Calvados. |
+
+La Vire. |
+
+Sur tout son cours dans le département. |
+
+Manche. |
 
 La Touques. |
 
-En aval de son confluent avec l'Orbiquet. |
+Sur tout son cours dans les départements. |
 
-Calvados. |
+Calvados, Orne. |
 
 La Sienne. |
 
@@ -96,7 +108,7 @@ Manche. |
 
 Le Thar. |
 
-En aval du pont de la D. 105 à Saint-Pierre-Langers. |
+En aval du pont de la D 105 reliant les communes de Saint-Jean-des-Champs et La Lucerne-d'Outremer. |
 
 Manche. |
 
@@ -612,9 +624,9 @@ DEPARTEMENTS concernés |
 
 La Dordogne. |
 
-En aval du barrage E.D.F. du Sablier à Argentât. |
+En aval du barrage EDF du Sablier à Argentât (19). |
 
-Gironde, Dordogne, Corrèze. |
+Gironde, Dordogne, Corrèze, Lot. |
 
 La Souvigne. |
 
@@ -678,15 +690,15 @@ Tarn-et-Garonne, Tarn. |
 
 L'Isle. |
 
-En aval du barrage de Laubardemont. |
+A l'aval du pont de la D 21 à Saint-Médard-de-Guizière. |
 
-Garonne, Dordogne. |
+Garonne. |
 
 La Dronne. |
 
-En aval du barrage de Coutras. |
+A l'aval du pont de la D 730 à La Roche-Chalais (24). |
 
-Gironde. |
+Gironde, Dordogne, Charente-Maritime. |
 
 L'Aveyron. |
 
@@ -812,9 +824,9 @@ Landes. |
 
 Le gave de Pau. |
 
-En aval du pont de Saint-Sauveur, commune de Luz (Hautes-Pyrénées). |
+En aval du pont de Saint-Sauveur, commune de Luz (65). |
 
-Pyrénées, Pyrénées-Atlantiques, Landes. |
+Hautes-Pyrénées, Pyrénées-Atlantiques, Landes. |
 
 Le gave d'Oloron. |
 
@@ -824,61 +836,61 @@ Pyrénées-Atlantiques, Landes. |
 
 Le gave d'Ossau. |
 
-En aval du barrage E.D.F. Saint-Cricq, commune d'Audry. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 Le gave d'Aspe. |
 
-En aval du pont d'Urdos, commune d'Urdos. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 Le gave de Lourdios. |
 
-En aval du pont de Lourdios, commune de Lourdios-Ichère (Pyrénées-Atlantiques). |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 Le Vert. |
 
-En aval de la confluence du Vert d'Arotte et du Vert de Barlanès, commune d'Aramits. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 Le Saison ou gave de Mauléon. |
 
-En aval du confluent de gave de Saint-Engrace, commune de Licq-Athérey. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 La Nive. |
 
-En aval du confluent de Laurhibar et des Nives de Béhérobie et d'Arnéguy, commune de Saint-Jean-Pied-de-Port. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 Le Laurhibar. |
 
-En aval de la prise d'eau du barrage Ahamendaburu, commune de Lecumberry. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 La Nive de Béhérobie. |
 
-En avail du confluent de la Nive d'Esterenguibel, commune d'Estérencuby. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 La Nive d'Arnéguy. |
 
-En aval du pont d'Arnéguy, commune d'Arnéguy. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 La Nive des Aldudes ou de Baigorry. |
 
-En aval du pont de Banca, commune de Banca. |
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
@@ -899,6 +911,12 @@ La Bidassoa. |
 Sur tout son parcours. |
 
 Pyrénées-Atlantiques. |
+
+Le Luy. |
+
+En aval du confluent du Luy-de-France et du Luy-de-Béarn, communes de Castel-Sarrazin et de Gaujacq. |
+
+Landes. |
 
 Bassin du Rhin
 
