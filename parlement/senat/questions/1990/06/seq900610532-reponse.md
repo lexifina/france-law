@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610532
+
+- Question : [SEQ900610532](seq900610532.md) — Réforme des rythmes de vie de l'enfant et du sport à l'école
+
+## Réponse
+
+*Éducation, JO du 1990-11-29, page 2534*
+
+Réponse. - Les dispositions prises en application de la loi d'orientation sont de nature à faciliter une amélioration des rythmes de vie des enfants. La circulaire interministérielle du 2 août 1988, complétée par celle du 18 mai 1990 permet la mise en place d'actions qui prolongent les enseignements de l'école et notamment des activités sportives qui complètent l'enseignement de l'éducation physique. Les cinq heures d'éducation physique à l'école ne sont pas encore une réalité pour l'ensemble des classes primaires. Sa pratique est cependant loin d'être négligeable puisqu'elle atteint deux heures quarante-cinq minutes par semaine en 1989-1990. Des moyens importants sont mis en place pour que l'horaire officiel soit atteint. Parallèlement aux actions de formation initiale et continue, très importantes depuis plus de quinze ans, un réseau dense de conseillers et de formateurs spécialisés est à la disposition des équipes d'écoles qui le désirent. Des documents pédagogiques de qualité ont été élaborés et très largement diffusés. Les équipements des écoles ont été, grâce aux collectivités locales, très largement améliorés. Les efforts qui vont être engagés pour la mise en place des projets d'écoles, projets qui intègrent l'enseignement de l'éducation physique et les activités sportives qui la prolongent, vont contribuer à améliorer la pratique d'une discipline nécessaire à l'équilibre et à la réussite de tous les enfants. C'est d'ailleurs pourquoi un horaire important a été maintenu en faveur de l'éducation physique et sportive dans le troisième groupe de disciplines, disciplines de la motricité et de la sensibilité.
