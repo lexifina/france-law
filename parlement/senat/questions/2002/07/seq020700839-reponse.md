@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700839
+
+- Question : [SEQ020700839](seq020700839.md) — Conséquences de la décision du Crédit agricole de cesser ses activités en Argentine
+
+## Réponse
+
+*Économie, JO du 2003-03-13, page 875*
+
+L'Argentine a subi une crise économique, politique et sociale. Afin de permettre au Gouvernement argentin de restaurer la confiance des investisseurs et de stimuler l'activité, la France a participé activement, au sein des institutions financières internationales, à l'octroi de plus de 47 milliards de dollars d'aides financières à l'Argentine depuis la fin de l'année 2000. Le secteur financier a été particulièrement affecté par le contexte économique difficile. C'est dans ce contexte qu'est intervenue, le 17 mai 2002, la décision du Crédit agricole de se retirer définitivement du marché argentin et de transférer l'activité de ses filiales vers trois établissements de crédit argentins. Comme toute entreprise privée, le Crédit agricole est libre de ses décisions en matière d'implantation à l'étranger et il n'appartient pas au Gouvernement d'imposer des lignes directrices à cet établissement. Néanmoins, les services du ministère de l'économie, des finances et de l'industrie ont veillé à ce que cette décision fasse l'objet d'une étroite concertation de la banque avec les autorités argentines. Il n'y a donc pas eu retrait sans consultation préalable des autorités argentines, notamment avec la Banque centrale de ce pays. Le 24 janvier dernier, le Conseil du FMI a approuvé un programme avec l'Argentine assorti d'un prêt du FMI de près de 3 milliards de dollars pour la période s'achevant au 31 août 2003. Cet accord entre l'Argentine et le FMI est un développement très positif qui illustre la volonté de ce pays de normaliser ses relations financières avec la communauté internationale. Les mesures prévues dans le programme devraient permettre à la situation argentine d'évoluer positivement.
