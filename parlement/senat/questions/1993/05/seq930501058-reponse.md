@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501058
+
+- Question : [SEQ930501058](seq930501058.md) — Prime à la vache allaitante attribuée aux agriculteurs associés en GAEC
+
+## Réponse
+
+*Agriculture, JO du 1994-07-14, page 1746*
+
+Réponse. - Il n'existe plus d'inégalité en ce qui concerne l'attribution des primes à l'élevage entre les agriculteurs indépendants et les agriculteurs associés en GAEC. Le Gouvernement français a fait accepter par la commission de l'Union européenne le principe de la " transparence " qui prévaut en droit français et qui consiste à prendre en compte la personne physique de l'exploitant et non l'exploitation. Une distinction a été établie selon la date de création de l'exploitation en société. Dans le cas des GAEC créés avant le 2 juillet 1992, les plafonds sont multipliés par le nombre d'associés. Dans le cas où leur création est postérieure à cette date, les plafonds sont multipliés par le nombre d'exploitations préexistantes au GAEC qu'elles constituent. Les modalités d'application de ces principes généraux ont été définies par la circulaire du ministère de l'agriculture et de la pêche DPE/SPM/C.93 no 4018 du 2 juillet 1993. Le champ d'extension des bénéficiaires de la prime au maintien du troupeau de vaches allaitantes doit être apprécié en fonction de la nature de cette prime. Il s'agit d'une aide qui, à l'origine, était attribuée exclusivement aux éleveurs spécialisés en viande bovine de qualité, qui ne bénéficient pas du revenu régulier apporté par la production laitière. Dans un esprit de compromis et pour répondre à une préoccupation d'ordre social, son champ a été élargi aux producteurs ayant une référence laitière inférieure ou égale à 60 000 kilogrammes. Ce plafond a ultérieurement été fixé à 120 000 kilogrammes. Une nouvelle extension du champ des bénéficiaires serait contraire à la définition de cette prime et à l'objectif de maîtrise de la production fixé par la réforme de la politique agricole commune.
