@@ -8,7 +8,7 @@ Il appartient à ces établissements de respecter les dispositions suivantes et 
 
 2. Toute décision concernant l'administration d'une contraception d'urgence doit être précédée d'un entretien avec l'élève, qu'elle soit mineure ou majeure.
 
-Cet entretien doit permettre à l'infirmière ou à l'infirmier d'apprécier si la situation de l'élève correspond aux critères d'urgence et de détresse caractérisée prévus par le cinquième alinéa de l'article L. 5134-1 du code de la santé publique et aux conditions d'utilisation prévues par l'autorisation de mise sur le marché.
+Cet entretien doit permettre à l'infirmière ou à l'infirmier d'apprécier si la situation de l'élève correspond aux critères d'urgence et de détresse caractérisée prévus par le deuxième alinéa de l'article L. 5134-1 du code de la santé publique et aux conditions d'utilisation prévues par l'autorisation de mise sur le marché.
 
 Chaque fois, il sera indiqué à l'élève que la contraception d'urgence ne constitue pas une méthode régulière de contraception et qu'elle peut ne pas être efficace dans tous les cas. Elle sera également informée que ce médicament ne saurait lui être administré de manière répétée et que son usage ne peut être banalisé.
 
