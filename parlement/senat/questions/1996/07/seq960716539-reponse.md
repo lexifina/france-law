@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716539
+
+- Question : [SEQ960716539](seq960716539.md) — Cessation anticipée d'activité pour les fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 1996-09-19, page 2422*
+
+Réponse. - A la suite de la décision du Premier ministre de transposer à la fonction publique les dispositions contenues dans l'accord Unedic du 6 septembre 1995, un protocole de départ anticipé pour l'emploi des jeunes dans la fonction publique a été signé le 16 juillet 1996 par six fédérations représentatives des personnels. Ce protocole prévoit un dispositif de congé de fin d'activité qui s'adresse aux fonctionnaires et agents non titulaires de l'Etat et de ses établissements publics, des collectivités territoriales et des établissements hospitaliers âgés de cinquante-huit ans au moins et de soixante ans au plus, en position d'activité ou de détachement. Les fonctionnaires doivent avoir cotisé au régime du code des pensions civiles et militaires de retraite de la Caisse nationale de retraite des agents des collectivités locales (CNRACL) ou de tout autre régime de base obligatoire d'assurance vieillesse soit pendant une durée de trente-sept ans et demi, dont vingt-cinq ans de services en qualité d'agent public, soit pendant une durée de quarante ans, dont quinze ans en qualité d'agent public. La condition d'âge n'est pas opposée au fonctionnaire qui justifie de plus de quarante ans de services publics. Le fonctionnaire admis au bénéfice du congé perçoit un revenu de remplacement égal à 75 p. 100 de son traitement indiciaire brut détenu pendant six mois au moins avant la date de départ, à l'exclusion de toute autre indemnité. La mise en oeuvre de ce plan, qui doit s'accompagner d'un nombre de recrutements équivalent au nombre de départs, est actuellement prévue du 1er janvier au 31 décembre 1997. Il convient de rappeler que le dispositif découlant de l'accord Unedic est lui-même d'une durée limitée.
