@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708478
+
+- Question : [SEQ030708478](seq030708478.md) — Conséquences du décret n° 2003-285 relatif à la production de sapins de Noël
+
+## Réponse
+
+*Agriculture, JO du 2004-03-11, page 595*
+
+Le décret n° 2003-237 du 12 mars 2003 relatif aux plantations d'essences forestières et le décret n° 2003-285 du 24 mars 2003 relatif à la production de sapins de Noël mettent notamment en oeuvre l'article 30, II de la loi d'orientation sur la forêt du 9 juillet 2001, qui a instauré un régime de déclaration annuelle de plantations pour les productions de sapins de Noël répondant à certaines conditions et constituées d'essences fixées par décret. Le décret organisant le régime particulier de déclaration applicable à ces productions, conformément à l'avis du Conseil d'Etat, dispense du respect des réglementations des boisements en vigueur dans le département de situation de leurs plantations, les producteurs de sapins de Noël qui se conforment aux conditions techniques - notamment de densité de plantation, de hauteur maximale et de durée maximale d'occupation du sol - fixées par le décret précité du 24 mars 2003. Les producteurs qui procéderaient à des cultures d'arbres de Noël ne respectant pas une ou plusieurs des conditions techniques prescrites pourront voir leurs plantations détruites d'office par le préfet, après mise en demeure, en application de l'article R. 126-10 du code rural. Les représentants des producteurs de sapins de Noël se sont engagés à faire une application raisonnée de la liberté de planter que leur ménagent ces nouvelles règles issues de la loi d'orientation sur la forêt et à éviter de procéder à des plantations ou replantations qui susciteraient des inconvénients graves sur le plan écologique ou paysager. Il sera procédé à une évaluation de ce dispositif à l'issue d'une première période de mise en oeuvre de trois ans afin d'en apprécier les impacts et d'examiner s'il doit ou non être remis en cause.
