@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420686
+
+- Question : [SEQ920420686](seq920420686.md) — Situation de certains médecins français d'Algérie
+
+## Réponse
+
+*Santé, JO du 1992-07-09, page 1575*
+
+Réponse. - Les personnes titulaires d'une double nationalité : française et une autre nationalité, sont considérées comme françaises quand elles résident en France. C'est pour cette raison que les médecins, titulaires d'une double nationalité française et algérienne, ne peuvent préparer certains diplômes, tels que le diplôme interuniversitaire de spécialisation, l'attestation de formation spécialisée, l'attestation de formation spécialisée approfondie, diplômes réservés aux étudiants non ressortissants d'un Etat de la Communauté européenne. Ces formations n'ouvrent pas droit à l'exercice de la médecine en France, elles ont pour objectif de permettre à des étudiants étrangers d'acquérir des connaissances médicales spécialisées qui leur seront utiles pour l'exercice de la médecine dans leur pays d'origine. Les médecins de nationalité française, mais titulaires de diplômes algériens, ont, quant à eux, le choix entre deux solutions pour acquérir un diplôme de spécialité et exercer en France. Ils peuvent rejoindre le cursus des études médicales françaises, en passant l'examen de sélection organisé à la fin de la première année des études et, s'ils sont admis, solliciter des dépenses de scolarité pour une partie des années suivantes, conformément aux dispositions du décret n° 84-177 du 2 mars 1984, et préparer ensuite le concours de l'internat français. Ils ont également la possibilité de déposer une demande d'autorisation ministérielle d'exercice de la médecine en France, conformément à l'article L. 356 du code de la santé publique. Si cette autorisation leur est délivrée, ils pourront ensuite, après trois ans de pratique professionnelle, se présenter au concours d'internant réservé aux médecins ressortissant d'un Etat de la Communauté européenne.
