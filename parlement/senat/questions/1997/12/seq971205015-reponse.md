@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205015
+
+- Question : [SEQ971205015](seq971205015.md) — Prestation spécifique dépendance
+
+## Réponse
+
+*Emploi, JO du 1998-02-12, page 484*
+
+Réponse. - En raison de la mise en oeuvre récente de la prestation spécifique dépendance (PSD) suite à la loi publiée le 25 janvier 1997 et aux décrets d'application parus au Journal officiel du 30 avril, les éléments permettant d'apprécier pleinement son impact, tant sur les personnes âgées dépendantes que sur les départements, sont encore insuffisants. Alors qu'environ cinquante départements avaient attribué leurs premières PSD avant la fin août 1997, pour quelques centaines de prestations seulement, celles-ci sont aujourd'hui attribuées dans tous les départements. D'importantes différences peuvent être relevées tant pour le montant des coûts de référence pour les prestations d'aide à domicile que pour le montant de la prestation en établissement. Dans l'immédiat, le Gouvernement s'attache particulièrement à améliorer la circulation de toutes les informations relatives à la mise en oeuvre de la loi du 24 janvier 1997 afin que les importantes dérives et disparités constatées, tant pour le service de la prestation à domicile qu'en établissement, soient réduites. Il veille notamment à la mise en oeuvre des dispositions concernant la coordination des acteurs et l'évaluation des prestations ainsi qu'à l'élaboration du décret d'application de la loi relatif à la réforme de la tarification en établissement, comme indiqué lors de l'installation du comité national de la coordination gérontologique le 26 novembre dernier. Au vu du bilan qui sera réalisé à l'issue d'un an de fonctionnement du dispositif, le Gouvernement prendra ou proposera, le cas échéant, au Parlement les dispositions modificatives nécessaires.
