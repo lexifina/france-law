@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700715
+
+- Question : [SEQ880700715](seq880700715.md) — Décisions de la Cotorep
+
+## Réponse
+
+*Handicapés, JO du 1989-02-23, page 326*
+
+Réponse. - Les décisions de reconnaissance de la qualité de travailleur handicapé sont prises par les commissions techniques d'orientation et de reclassement professionnel sur la base de la définition donnée à l'article L. 323-10 du code du travail qui vise le cas de personnes dont les possibilités d'obtenir ou de conserver un emploi sont effectivement réduites par suite d'une insuffisance ou d'une diminution de leurs capacités physiques ou mentales. L'examen de la situation des personnes qui s'adressent à cette commission est effectuée par une équipe technique pluridisciplinaire ce qui permet une prise en compte de toutes les conséquences des déficiences des intéressés. S'agissant de l'allocation aux adultes handicapés, qui constitue un minimum de ressources garanti aux personnes gravement handicapées, il convient de rappeler que cette prestation est assurée aux personnes ayant un taux d'incapacité supérieur à 80 p. 100 et répondant par ailleurs à certaines conditions administratives et de ressources, mais aussi à des personnes dont le taux d'incapacité est inférieur à 80 p. 100 mais qui sont, du fait de leur handicap, dans l'impossibilité de se procurer un emploi. L'articulation de ces dispositions, prévues par la réglementation issue de la loi du 30 juin 1975 d'orientation en faveur des personnes handicapées, devrait assurer aux personnes handicapées, qu'elles soient ou non en mesure de travailler, une compensation efficace du handicap dont elles sont affectées. Toutefois, la révision en cours du guide-barème permettant d'évaluer le handicap et les améliorations, actuellement à l'étude, qu'il est urgent d'apporter au fonctionnement des Cotorep seront de nature à mieux garantir encore la qualité des décisions prises.
