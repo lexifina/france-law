@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203657
+
+- Question : [SEQ890203657](seq890203657.md) — Procédure de saisie directe des marchandises vendues irrégulièrement dans le métro
+
+## Réponse
+
+*Justice, JO du 1989-07-13, page 1090*
+
+Réponse. - Le garde des sceaux peut indiquer à l'honorable parlementaire que la pratique du parquet de Paris est conforme à la loi. S'il est vrai que les textes de droit commun qui répriment la vente de marchandises dans les lieux publics sans autorisation ou déclaration régulière - article R. 38-14 du code pénal - prévoient la confiscation ou la saisie par les forces de l'ordre des marchandises offertes à la vente - article R. 39-1 du code pénal -, les dispositions spécifiques qui sanctionnent ces agissements lorsqu'ils sont commis dans l'enceinte du métropolitain, à savoir la loi du 15 juillet 1845 et le décret du 22 mars 1942, n'offrent plus cette faculté de saisie des marchandises depuis l'intervention du décret du 18 septembre 1986 généralisant la procédure de transaction par le versement d'une indemnité forfaitaire. En effet, l'article 85 du décret du 22 mars 1942 qui prévoit l'infraction renvoyait aux dispositions des articles R. 38-14 et R. 39-1 du codepénal permettant la saisie. Or, le décret du 18 septembre 1986 a inséré dans le décret du 22 mars 1942 un article 80-2 punissant de l'amende fixée pour les contraventions de quatrième classe l'infraction prévue par l'article 85. Désormais, il n'est plus fait référence aux dispositions des articles R. 38-14 et R. 39-1 du code pénal et en conséquence la saisie - non prévue par le nouvel article 80-2 - n'est plus possible. Il n'en demeure pas moins que les autorités judiciaires ne font preuve d'aucune indulgence de principe à l'égard des vendeurs à la sauvette interpellés dans le métro et que la répression de ce type d'agissement demeure ferme et constante.
