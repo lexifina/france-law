@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118729
+
+- Question : [SEQ961118729](seq961118729.md) — Aménagement de l'accès à la préretraite agricole
+
+## Réponse
+
+*Agriculture, JO du 1997-05-02, page 1360*
+
+Réponse. - Le Gouvernement avait proposé de réaménager le dispositif de préretraite agricole en harmonisant l'âge d'accès avec celui négocié par les partenaires sociaux dans le cadre des interventions du Fonds national pour l'emploi (57 ans) tout en maintenant un régime dérogatoire pour les éleveurs spécialisés de bovins allaitants et les agriculteurs en difficulté. De nombreux parlementaires sont intervenus au cours du débat pour indiquer les difficultés liées à cette modification, en particulier pour les dossiers en cours. Aussi, et compte tenu de l'enjeu budgétaire relativement limité, il a été donné satisfaction à la proposition du rapporteur en acceptant de ne pas modifier le régime de préretraite jusqu'à son terme du 15 octobre prochain prévu par la loi de modernisation de 1995. Ainsi, dans la mesure où les demandeurs remplissent les conditions d'éligibilité et souscrivent à l'obligation de restructuration en application des dispositions du décret no 92-187 du 27 février 1992 modifié, le dispositif de préretraite continuera de s'appliquer dès l'âge de 55 ans. Les intéressés disposeront alors de 12 mois au plus tard pour céder leurs terres, les bâtiments qu'ils utilisent et pour vendre leur cheptel. En application de l'article 10 du décret précité, les candidats à la préretraite devront par ailleurs avoir fait part de leur intention de cesser leur activité 6 mois au moins avant la date prévue pour leur cessation d'activité et 3 mois avant le dépôt de leur demande de préretraite. Aucune déclaration d'intention de cessation d'activité ne pourra donc être acceptée au-delà du 14 juillet 1997.
