@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616810
+
+- Question : [SEQ990616810](seq990616810.md) — Maisons de justice
+
+## Réponse
+
+*Justice, JO du 1999-10-28, page 3570*
+
+Réponse. - Le garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire qu'une maison de justice et du droit existe à Tourcoing et qu'un projet de création d'une structure identique est sur le point de déboucher dans les semaines qui viennent à Roubaix. Deux autres projets de création à Armentières et à Calais sont en cours d'études. Par ailleurs, un important réseau d'antennes de justice existe dans le ressort du tribunal de grande instance d'Avesnes-sur-Helpe. L'ensemble de ces structures fonctionne à la satisfaction des usagers et des partenaires comme en témoigne leur taux de fréquentation par le public. Elles sont, en effet, particulièrement adaptées pour le traitement simple et rapide de certains litiges civils ou infraction de petite gravité. En même temps, elles permettent de développer l'accès au droit dans des zones urbaines parfois éloignées des lieux d'implantation des palais de justice. Ces structures permettent à des intervenants très divers, magistrats, greffiers, avocats, membres d'association, délégués du procureur, médiateurs et conciliateurs de travailler en synergie pour assurer une présence quotidienne du droit et de la justice au plus près des besoins de la population. La loi du 18 décembre 1998 les a inscrites dans le code de l'organisation judiciaire. Cette institutionnalisation va permettre, tout en leur conservant leur originalité partenariale, de clarifier leur mode de fonctionnement en les intégrant dans la carte judiciaire. Les services de la Chancellerie travaillent actuellement à la préparation d'assises nationales des maisons de justice et du droit, qui pourraient avoir lieu avant l'été 2000 et qui seront l'occasion, notamment, de procéder, dix ans après les premières créations, à une évaluation complète de leur fonctionnement.
