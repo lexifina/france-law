@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305429
+
+- Question : [SEQ940305429](seq940305429.md) — Dégradation du système de protection sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1994-05-05, page 1071*
+
+Réponse. - Devant l'ampleur des déficits sociaux, le Gouvernement a mis au point l'été dernier un plan de redressement et de sauvegarde qui fait appel à l'effort de chacun. Si une partie des mesures prises concerne effectivement les assurés sociaux, il s'agit essentiellement d'une action sur le remboursement des soins de ville qui ne touche pas les malades exonérés du ticket modérateur. Ainsi, le report de la charge sur les mutuelles est-il resté très limité, au moment même où le Gouvernement, soucieux de préserver la spécificité de la mutualité française, confiait à un membre du Conseil d'Etat une mission d'étude sur l'application à la mutualité des directives européennes sur les assurances. Par ailleurs, le Gouvernement s'est efforcé de faire participer l'ensemble des professions médicales et paramédicales à la maîtrise des dépenses de santé en favorisant la négociation conventionnelle entre ces professions et les caisses d'assurance maladie. Comme ne l'ignore pas l'honorable parlementaire, cette démarche, seule capable de préserver notre système de médecine de ville, a permis d'obtenir la mise au point de conventions nationales, dont en particulier celle signée entre les caisses et les représentants de la profession médicale. Elle est venue compléter les différents dispositifs déjà en vigueur ou en cours d'approbation et qui concernent notamment les infirmiers libéraux, les masseurs-kinésithérapeutes, les laboratoires d'analyse et les cliniques privées. C'est enfin dans le cadre de la discussion d'un livre blanc rédigé par trois experts, sur l'assurance maladie et l'avenir du système de santé, que la mutualité pourra exprimer sa position et faire part de ses préoccupations.
