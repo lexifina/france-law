@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023235
+
+- Question : [SEQ921023235](seq921023235.md) — Abattement de la taxe fiscale sur les salaires en faveur des associations sportives
+
+## Réponse
+
+*Jeunesse et sports, JO du 1992-12-24, page 2822*
+
+Réponse. - Lors des débats parlementaires ayant précédé le vote et la publication de la loi n° 92-652 du 13 juillet 1992 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives et portant diverses dispositions relatives à ces activités, les sénateurs ont souhaité, par voie d'amendement, introduire dans le texte du Gouvernement un article 40 tendant à faire bénéficier les associations sportives d'un abattement de 20 000 francs de la taxe sur les salaires. Le projet de loi de finances pour 1993 revient sur cette disposition afin de faire bénéficier d'un allègement de cette taxe l'ensemble des associations y compris les associations de jeunesse qui relèvent aussi du ministère de la jeunesse et des sports et non plus les seules associations sportives. Une telle mesure rétablirait une égalité de l'ensemble des associations devant l'impôt en permettant à celles-ci de bénéficier d'un abattement porté de 8 000 à 12 000 francs. La taxe serait également simplifiée et allégée pour les petits redevables : exonération de la taxe lorsque son montant n'excède pas 1 000 francs et décote lorsque le montant de la taxe est supérieur à 1 000 francs sans excéder 2 000 francs. Par ailleurs, cet allègement fiscal devrait être complété par une série d'autres mesures en faveur de la vie associative, portant notamment sur la clarification du régime fiscal des associations et la prise en charge des risques accident du travail des bénévoles au moyen d'une assurance volontaire souscrite à titre collectif.
