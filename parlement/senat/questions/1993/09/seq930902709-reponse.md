@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902709
+
+- Question : [SEQ930902709](seq930902709.md) — Aides attribuées à la région Franche-Comté au titre des fonds européens
+
+## Réponse
+
+*Affaires européennes, JO du 1994-04-28, page 998*
+
+Réponse. - L'honorable parlementaire a souhaité connaître le montant des fonds structurels dont avait bénéficié la région de Franche-Comté durant les cinq dernières années. Selon les chiffres provisoires de la commission exprimés aux prix de 1989, les fonds structurels (FEDER, fonds social européen et section orientation du FEOGA) ont représenté, hors mesures transitoires, 60,272 milliards d'écus de 1989 à 1993. La France a bénéficié de 6,15 milliards d'écus, soit 10,2 p. 100. Sur cette période, 888 mécus ont été attribués aux régions en retard de développement (objectif 1), c'est-à-dire les départements d'outre-mer et la Corse, 1 227 mécus aux zones en déclin industriel (objectif 2), 1 560 mécus pour la lutte contre le chômage de longue durée (objectif 3) et l'insertion professionnelle des jeunes (objectif 4), 1 149 mécus pour l'adaptation des structures agricoles (objectif 5 a), 960 mécus aux régions de développement rural (objectif 5 b), 372 mécus pour les programmes laissés à l'initiative de la commission. Seuls les crédits des objectifs 1, 2 et 5 b sont répartis sur une base régionale. A ce stade, la DATAR prépare un bilan régional et sectoriel des fonds structurels sur la période 1989-1993. De 1989 à 1993, la Franche-Comté a bénéficié de 40 mécus au titre de l'objectif 2 réservé aux zones en déclin industriel, et de 23,4 mécus au titre de l'objectif 5 b consacré aux régions de développement rural. De 1994 à 1999, la Franche-Comté devrait recevoir respectivement 47,8 et 76,5 mécus au titre de ces deux objectifs, sa population éligible à l'objectif 5 b passant de 144 225 à 353 183 habitants.
