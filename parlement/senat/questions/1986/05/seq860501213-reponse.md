@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501213
+
+- Question : [SEQ860501213](seq860501213.md) — Centres de formation des apprentis agricoles
+
+## Réponse
+
+*Agriculture, JO du 1986-11-06, page 1557*
+
+Réponse. -L'attention du ministère de l'agriculture a été appelée à plusieurs reprises sur les dispositions du décret n° 85-1265 du 29 novembre 1985 dont les articles 26 et 42 précisent, en particulier, que le conseil de perfectionnement de chaque centre de formation d'apprentis (C.F.A.) est obligatoirement présidé par le directeur du centre. Le décret précité prévoit d'autre part en son article 24 que les C.F.A. représentent l'une des cinq catégories des centres d'enseignement et de formation constituant un établissement public local d'enseignement et de formation professionnelle agricoles (E.P.L.). En conséquence, les représentants des organisations professionnelles agricoles, membres du conseil d'administration d'un E.P.L. peuvent émettre leur avis sur toutes les questions relatives aux différents centres, qu'il s'agisse de leur administration, de leur fonctionnement ou de leur financement. De plus, les articles R. 116-5 à R. 116-7 du code du travail définissent la composition du conseil de perfectionnement des C.F.A. et précisent que les professionnels, employeurs ou salariés ainsi que les personnes particulièrement qualifiées membres de ce conseil sont obligatoirement consultés sur les questions générales relatives à l'organisation et au déroulement des formations du centre. En tout état de cause, le décret n° 85-1265 du 29 novembre 1985 est en cours de révision, les articles 26, 42 et 24 seront donc susceptibles d'être modifiés dans le sens souhaité par l'intervenant, à condition toutefois, que leur contenu respecte l'esprit de la loi 83-8 du 7 janvier 1983 relative à la décentralisation, ainsi que les textes d'application en découlant.
