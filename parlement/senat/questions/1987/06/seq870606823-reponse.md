@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606823
+
+- Question : [SEQ870606823](seq870606823.md) — Fiscalité des dons faits aux centres communaux d'action sociale
+
+## Réponse
+
+*Budget, JO du 1987-09-24, page 1507*
+
+Réponse. -Les centres communaux d'action sociale, qui remplacent les bureaux d'aide sociale, mènent une action générale de prévention et de développement social dans les communes. Ils sont, dès lors, d'intérêt général au sens de l'article 238 bis-1 du code général des impôts. Les dons qui leur sont consentis sont déductibles du bénéfice ou du revenu imposable des donateurs en application de cet article. Mais les centres communaux d'action sociale, qui sont des établissements publics locaux, n'ont pas la qualité de fondations ou d'associations reconnues d'utilité publique. Les dons qu'ils reçoivent ne peuvent donc bénéficier des limites de déduction prévues en faveur de ces organismes. Cela étant, les limites de déductibilité des dons faits à des organismes d'intérêt général ont été relevées de 1 p. 1 000 à 2 p. 1 000 pour les entreprises (loi sur le développement du mécénat) et de 1 p. 100 à 1,25 p. 100 pour les particuliers (loi de finances pour 1987). Au surplus, les particuliers bénéficient à compter de l'imposition des revenus de 1987 d'un avantage en impôt d'au moins 25 p. 100 pour la fraction annuelle de leurs dons qui n'excède pas 600 F, que ces dons soient faits à une association reconnue ou non. La loi sur le développement du mécénat a renforcé ce dispositif : le montant de 600 francs est relevé à 1 200 francs à compter de l'imposition des revenus de 1988 ; le taux de l'avantage est porté, à compter de l'imposition des revenus de 1989, au taux de la dernière tranche du barème de l'impôt sur le revenu lorsque le contribuable effectue des dons réguliers d'au moins 1 200 francs l'année de l'imposition et l'année précédente.
