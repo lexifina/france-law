@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702154
+
+- Question : [SEQ970702154](seq970702154.md) — Chômeurs de longue durée
+
+## Réponse
+
+*Emploi, JO du 1998-05-21, page 1640*
+
+Réponse. - S'agissant des allocations du régime d'assurance chômage, il est rappelé à l'honorable parlementaire que la fixation de leur taux relève de la compétence exclusive des partenaires sociaux dans le cadre de la convention d'assurance chômage et du règlement annexé à cette même convention. En revanche, suite aux propositions du rapport de Mme Join-Lambert et à l'engagement pris par le Premier ministre de procéder à un rattrapage intégral de la perte du pouvoir d'achat des allocations de solidarité, le Gouvernement a décidé, à compter du 1er janvier 1998, une revalorisation de 29 % de l'allocation d'insertion ainsi qu'une revalorisation de 6 % de l'allocation de solidarité spécifique, laquelle s'ajoute à la revalorisation de 2 % intervenue au 1er juillet 1997. Le décret no 98-151 du 10 mars 1998 qui fixe les nouveaux taux de ces deux allocations a été publié au Journal officiel du 11 mars 1998. En outre, une proposition de loi actuellement en discussion au Parlement prévoit que les bénéficiaires de l'allocation de solidarité spécifique ou de l'allocation de revenu minimum d'insertion, lorsqu'ils justifient, avant l'âge de soixante ans, d'au moins cent soixante trimestres validés dans les régimes de base obligatoires d'assurance vieillesse ou de périodes reconnues équivalentes, pourront percevoir une allocation spécifique d'attente versée en complément de l'ASS ou du RMI, d'un montant mensuel forfaitaire de 1 750 francs. Ainsi, le revenu mensuel total pourra atteindre environ 5 200 francs pour un bénéficiaire de l'allocation de solidarité spécifique au taux majoré et toute personne bénéficiaire de l'allocation spécifique d'attente se verra garantir un niveau de ressources au moins égal à 5 000 francs par mois.
