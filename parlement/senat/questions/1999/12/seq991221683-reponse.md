@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221683
+
+- Question : [SEQ991221683](seq991221683.md) — Absence d'établissement d'enseignement secondaire à vocation internationale dans le Val-d'Oise
+
+## Réponse
+
+*Éducation, JO du 2000-07-06, page 2389*
+
+Réponse. - Comme le précise le décret nº 81-594 du 11 mai 1981, des sections internationales comportant au moins de 50% d'élèves français et au moins 25% d'élèves étrangers peuvent être créées pour faciliter l'intégration d'élèves étrangers dans le système éducatif français et former des élèves français à la pratique approfondie d'une langue étrangère. En vertu de ces dispositions, des sections internationales ont été ouvertes de longue date en Ile-de-France, à Saint-Germain-en-Laye, à Sèvres, puis, plus tardivement, à Paris même, où se rencontrait un public scolaire étranger et français qui en formulait expressément la demande. La Seine, les Yvelines et les Hauts-de-Seine sont ainsi à ce jour les seuls départements d'Ile-de-France dans lesquels ce besoin scolaire très spécifique se soit fait jour et où il ait été possible d'ouvrir des sections internationales. Cette situation est toutefois promise à des évolutions pouvant conduire à l'ouverture de sections internationales dans d'autres départemnts d'Ile-de-France, sous réserve, d'une part, de la présence du public scolaire spécifique nécessaire à la vie de ces sections et, d'autre part, de l'engagement de nos partenaires étrangers concernés, dont la coopération et l'engagement, financier notamment, sont indispensables au fonctionnement même des sections internationales. En tout état de cause, le rectorat de l'académie de Versailles, conscient de la nécessité de former les élèves des établissements de son ressort à une pratique améliorée des langes étrangères, n'a pas ouvert moins de trente-trois sections européennes dans le Val-d'Oise.
