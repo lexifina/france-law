@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119557
+
+- Question : [SEQ920119557](seq920119557.md) — Projet de contrat de plan entre l'Etat et La Poste
+
+## Réponse
+
+*Postes, JO du 1992-02-27, page 504*
+
+Réponse. - La loi du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications confie à La Poste un certain nombre de missions dont celle de participer, dans le cadre de la politique d'aménagement du territoire, à la dynamisation des zones rurales. Les mesures qui ont été mises en oeuvre ont pour but d'améliorer la compréhension des besoins des populations rurales, de relancer la diversification des services de La Poste, d'impliquer les élus dans son fonctionnement, de moderniser les équipements des bureaux et de déconcentrer la gestion quotidienne au profit des établissements. A la suite du rapport du sénateur Delfau, La Poste s'est engagée dans le développement de nouvelles offres de service en milieu rural. Des directives ont été données afin de renforcer la concertation avec l'ensemble des publics et partenaires participant à l'activité des zones rurales. En particulier, l'article 38 de la loi du 2 juillet 1990 a créé des instances de concertation permettant à tous les usagers du service public de participer à la recherche de solutions en vue de maintenir ou de renforcer la présence postale dans leur secteur. Les conseils postaux locaux s'inscrivent parfaitement dans ce cadre. Plus de 300 instances de ce type ont ainsi été mises en place, auxquelles s'ajoutent les commissions départementales de concertation déjà créées. Par ailleurs, l'équipement de plus de 3 300 bureaux ruraux en micro-ordinateurs et de 750 dotés de télécopieurs ne peut que renforcer le rôle de la présence postale en zones rurales. Cette démarche entreprise dès 1990 se poursuivra parallèlement au développement des pratiques de polyvalence mentionné dans le contrat de plan signé le 9 janvier 1992 par La Poste et l'Etat.
