@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018352
+
+- Question : [SEQ961018352](seq961018352.md) — Accès des fonctionnaires de catégorie B au détachement comme attaché temporaire d'enseignement et de recherche
+
+## Réponse
+
+*Éducation, JO du 1996-12-19, page 3415*
+
+Réponse. - L'article 2 (1o) du décret no 88-654 du 7 mai 1988 permet aux établissements d'enseignement supérieur de faire appel, pour exercer les fonctions d'attaché temporaire d'enseignement et de recherche (ATER), à des fonctionnaires titulaires et stagiaires de catégorie A inscrits en vue de la préparation du doctorat ou d'une habilitation à diriger des recherches ou s'engageant à se présenter à un concours de recrutement de l'enseignement supérieur. La durée du contrat des ATER recrutés en application de ces dispositions est au maximum de trois ans, renouvelable une fois pour un an lorsque les travaux de recherche de l'intéressé le justifient. Les fonctionnaires appartenant à un corps classé dans la catégorie B ne peuvent pas être recrutés en qualité d'ATER en application de l'article 2 (1o) du décret du 7 mai 1988 précité. En revanche, le décret du 7 mai 1988 précité permet de recruter comme ATER des personnes qui sont en dernière année de doctorat (art. 2 (5o)) ou qui sont titulaires du doctorat et qui s'engagent à se présenter à un concours de recrutement de l'enseignement supérieur (art. 2 (6o)). L'article 7 (1o) du décret du 7 mai 1988 précité dispose quant à lui que pour les agents engagés en application du 5o ou du 6o de l'article 2, la durée du contrat est au maximum de un an, renouvelable une fois pour un an. La durée de leurs fonctions d'ATER ne peut donc excéder au total deux années. Un fonctionnaire de catégorie B remplissant ces conditions peut être recruté comme ATER en application de ces dispositions. Il peut alors, s'il est recruté comme ATER, bénéficier de la position de détachement expressément prévue par l'article 9 du décret du 7 mai 1988 précité.
