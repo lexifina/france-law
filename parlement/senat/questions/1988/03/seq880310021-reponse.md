@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310021
+
+- Question : [SEQ880310021](seq880310021.md) — Bilan d'une étude sur l'implantation des entreprises et la taxe professionnelle
+
+## Réponse
+
+*Fonction publique, JO du 1988-05-10, page 678*
+
+Réponse. -L'étude citée en référence par l'honorable parlementaire se situe dans le cadre d'un groupe de travail réuni en 1985 au commissariat général du Plan à la demande du Premier ministre pour examiner la réglementation relative aux interventions économiques des collectivités locales et proposer des adaptations éventuelles. Elle a été réalisée par la direction du développement local de la caisse des dépôts et consignations à la demande du service régional et local du commissariat général du Plan. L'objet de l'étude était d'explorer les liens pouvant exister entre les taux de la taxe professionnelle et le comportement des communes ou des entreprises à partir des fichiers réunis par la caisse des dépôts et consignations (fichiers de la direction de la comptabilité publique et de la direction générale des impôts essentiellement). L'analyse statistique menée pour chacune des vingt-deux régions, sur la période 1980-1983, a montré qu'il y a effectivement un lien négatif fort entre le volume d'entreprises créées et le taux de la taxe professionnelle ainsi qu'entre ce dernier et le volume d'entreprises existant dans le commerce. Ces résultats doivent toutefois être analysés avec prudence, l'absence de série longue interdisant l'utilisation des tests de causalité. L'étude a alimenté les réflexions et le rapport du groupe de travail sur les interventions économiques des collectivités locales évoqué plus haut dont le texte a été publié à la documentation française (Interventions économiques des collectivités locales, 186 p., juin 1985). Le rapport de cette étude peut être consulté au commissariat général du Plan.
