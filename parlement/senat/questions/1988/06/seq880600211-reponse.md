@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600211
+
+- Question : [SEQ880600211](seq880600211.md) — Centres de gestion : financement des concours
+
+## Réponse
+
+*Collectivités territoriales, JO du 1989-01-05, page 18*
+
+Réponse. - L'instauration du principe de double correction dans les concours d'accès aux cadres d'emplois répond à un double souci de plus grande rigueur et de plus grande équité dans l'appréciation des épreuves. Les charges qui pourraient résulter de ces dispositions doivent être appréciées au regard de l'ensemble des charges induites par l'organisatin des concours. A cet égard, il convient de rappeler que les décrets des 14 mars, 5 et 6 mai 1988 fixant les conditions d'accès et les modalités d'organisation des concours pour le recrutement dans les cadres d'emplois des filières administrative et technique de la fonction publique territoriale ont repris, dans le plus grand nombre des cas, les dispositions déjà existantes en matière de concours. Le nombre des épreuves n'a été augmenté que lorsqu'une sélection plus rigoureuse que par le passé a été jugée nécessaire. Il a parfois été diminué, notamment pour les concours internes. S'agissant des indemnités versées aux correcteurs, le barème de ces indemnités résulte du décret du 12 juin 1956 modifié et s'applique de façon générale aux correcteurs, qu'ils soient ou non fonctionnaires, agents de l'Etat ou agents des collectivités locales (arrêté interministériel du 29 octobre 1970 et circulaire d'application du ministère de l'intérieur n° 71-22 du 8 janvier 1971). La circonstance que le Centre national de la fonction publique territoriale et, avant lui, le Centre de formation des personnels communaux, a pu, par le passé, adopter des taux supérieurs en méconnaissance de ceux fixés par ce texte, ne saurait justifier une modification de ce dernier.
