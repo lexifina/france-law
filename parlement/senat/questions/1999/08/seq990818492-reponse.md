@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818492
+
+- Question : [SEQ990818492](seq990818492.md) — Confiance des Français dans la justice et la police
+
+## Réponse
+
+*Intérieur, JO du 2000-02-24, page 687*
+
+Réponse. - L'étude à laquelle fait référence l'honorable parlementaire (" Mesurer le crime ", revue française de sociologie avril-juin 1999) porte sur la comparaison pour les périodes 1984-1985 et 1994-1995, entre d'une part, les statistiques de la criminalité et de la délinquance constatées par les services de police et de gendarmerie, et de l'autre les déclarations de victimation d'échantillons de population urbaine. Les auteurs ont détaillé les résultats et les limites de l'analyse, et précisé (page 257) que " l'enquête de victimation et la statistique administrative ne constituent pas deux mesures de la même chose ", en souhaitant qu'elles ne soient pas " opposées, mais complémentaires ". Les données statistiques viennent confirmer la propension toujours plus importante des victimes à déposer plainte, la hausse des fait constatés en ces domaines étant largement influencée par l'amélioration du traitement des violences familiales ou sexuelles, de l'aide aux victimes ainsi que de l'accueil médico-judiciaire et policier. Si la statistique institutionnelle n'a pas pour objet de mesure à elle seule la réalité de la délinquance, elle permet de mesurer les évolutions affectant les crimes et délits portés à la connaissance de la police ou de la gendarmerie et de procéder à des comparaisons (depuis 1972) sur la base d'une nomenclature et une méthodologie rigoureuses. Selon l'article D 8 du code de procédure pénale, il appartient en effet à la direction centrale de la police judiciaire de centraliser, classer et diffuser les renseignements relatifs à la délinquance et la criminalité. La statistique administrative, complétée par d'autres analyses, demeure donc un outil indispensable d'évaluation de la délinquance notamment de proximité.
