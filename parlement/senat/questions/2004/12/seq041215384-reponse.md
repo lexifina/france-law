@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215384
+
+- Question : [SEQ041215384](seq041215384.md) — Répartition des moyens de simulation
+
+## Réponse
+
+*Défense, JO du 2005-02-17, page 467*
+
+La politique d'équipement en systèmes de simulation de l'armée de terre repose sur la mise en oeuvre de deux types de moyens essentiels de simulation destinés à contribuer à garantir l'aptitude et l'efficacité opérationnelles des forces. D'une part, tous les moyens servant à l'instruction et à l'entraînement de base sont déclinés dans les formations de l'armée de terre, afin de répondre au besoin d'utilisation intensive. Placés sous la responsabilité du commandement de la formation de l'armée de terre, ils sont constitués principalement d'équipements de simulation virtuelle permettant l'instruction et l'entraînement des équipages d'engins dans leurs différentes fonctions comme le pilotage, le tir ou le commandement. Ils sont indispensables pour une remise à niveau rapide des équipages après une phase de projection, et permettent en outre de préparer de manière efficace et à moindre coût les entraînements réels en camp. D'autre part, les systèmes lourds et coûteux font l'objet d'une gestion centralisée par le commandement de la force d'action terrestre et sont regroupés sur des sites spécialisés, avec une utilisation planifiée. Ainsi, pour la simulation de terrain (simulation instrumentée), l'armée de terre dispose actuellement du centre d'entraînement au combat, situé à Mailly (Aube) et adapté à l'entraînement des unités au combat en terrain ouvert. Le centre d'entraînement des postes de commandement (PC) de Mailly est dédié à l'entraînement et à l'évaluation des PC. L'armée de terre s'est par ailleurs engagée dans la réalisation du centre d'entraînement aux actions en zone urbaine (CENZUB) à Sissonne adapté à l'entraînement des forces sur ce type de terrain.
