@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606718
+
+- Question : [SEQ940606718](seq940606718.md) — Réforme des classifications des agents de La Poste et de France Télécom
+
+## Réponse
+
+*Industrie, JO du 1994-07-14, page 1772*
+
+Réponse. - L'article L. 24 du code des pensions civiles et militaires de retraite dispose que les fonctionnaires ayant accompli au moins quinze ans de services actifs, en raison des risques particuliers ou des fatigues exceptionnelles qu'ils présentent, peuvent bénéficier de leur pension, avec jouissance immédiate, dès l'âge de 55 ans. Cette disposition s'applique aux fonctionnaires de La Poste et de France Télécom titulaires d'un grade ou placés sur un emploi classé en catégorie B dite " active ", au sens de l'article L. 24 précité. La nomenclature de ces grades et emplois est fixée par le décret no 81-401 du 22 avril 1981. Or, aucun des nouveaux grades de classification créés par les statuts issus des décrets du 25 mars 1993 qui se substituent aux anciens grades et dans lesquels tous les fonctionnaires des deux entreprises ont vocation à être intégrés, n'entre dans la liste des emplois ouvrant droit au bénéfice de l'article L. 24 précité. En conséquence, les fonctionnaires de La Poste et de France Télécom qui, dans leur grade actuel de reclassement, n'ont pas accompli en totalité les quinze années requises par l'article L. 24, perdent le bénéfice des dispositions de cet article dès lors qu'ils intègrent les nouveaux corps de classification. C'est pourquoi, après concertation entre les différents départements ministériels concernés, le Gouvernement a saisi le Conseil d'Etat le 31 mai dernier d'une demande d'avis sur ce dossier en vue de déterminer une solution permettant de prendre en compte la situation particulière des agents actuellement en fonction au regard du service actif et d'en préciser les modalités de mise en oeuvre juridique.
