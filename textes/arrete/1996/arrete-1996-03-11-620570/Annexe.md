@@ -62,9 +62,11 @@ Commission consultative pour l'attribution de la mention : "Mort en déportation
 
 Commission consultative pour l'attribution de subvention par le S.E.A.C.V.G., instituée par l'arrêté du 21 avril 1992 ;
 
-Commission chargée d'étudier la liste des personnes décédées en Indochine entre 1939 et 1957 à qui la mention "Mort pour la France" a été attribuée en vue de leur inscription sur le mur du Souvenir du Mémorial des guerres en Indochine, à Fréjus, instituée par l'arrêté du 29 décembre 1992, modifié par l'arrêté du 15 mars 1993.
+Commission chargée d'étudier la liste des personnes décédées en Indochine entre 1939 et 1957 à qui la mention "Mort pour la France" a été attribuée en vue de leur inscription sur le mur du Souvenir du Mémorial des guerres en Indochine, à Fréjus, instituée par l'arrêté du 29 décembre 1992, modifié par l'arrêté du 15 mars 1993 ;
 
-Comité national pour la défense de la mémoire des persécutions racistes et antisémites soumises sous l'autorité de fait "Gouvernement de l'Etat français", institué par l'arrêté du 5 mars 1993.
+Comité national pour la défense de la mémoire des persécutions racistes et antisémites soumises sous l'autorité de fait "Gouvernement de l'Etat français", institué par l'arrêté du 5 mars 1993 ;
+
+Le Haut Conseil de la mémoire combattante institué par le décret n° 97-11 du 9 janvier 1997.
 
 3° Institution nationale des invalides :
 
@@ -91,3 +93,9 @@ Collège de l'oeuvre nationale du bleuet de France (arrêté du 31 octobre 1991)
 Commission nationale pour l'attribution du diplôme d'honneur de porte-drapeau (arrêté ministériel du 26 juillet 1961 modifié) ;
 
 Commission nationale pour l'habilitation des associations d'anciens combattants et victimes de guerre à ester en justice (décret n° 92-701 du 20 juillet 1992 portant application de la loi n° 91-1257 du 17 décembre 1991).
+
+NOTA :
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans à compter de cette date (Commission nationale chargée d'examiner les demandes d'attribution de la carte du combattant, Comité interministériel des musées des deux guerres mondiales).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
