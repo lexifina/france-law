@@ -1,3 +1,3 @@
-# Article préambule
+# Article Préambule
 
-La maladie suspend automatiquement le contrat de travail. La période de suspension est égale à la durée de l'arrêt maladie dans la limite d'un an.
+Tous les frais occasionnels engagés par le salarié dans le cadre professionnel (transport, nourriture, hébergement, documentation) sont à la charge de l'employeur.
