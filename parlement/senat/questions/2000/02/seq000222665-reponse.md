@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222665
+
+- Question : [SEQ000222665](seq000222665.md) — Commandes de l'étranger
+
+## Réponse
+
+*Économie, JO du 2000-12-14, page 4253*
+
+Réponse. - Depuis l'entrée en vigueur du programme " pétrole contre nourriture " en décembre 1996, les autorités irakiennes ont été autorisées par les Nations unies à importer des biens humanitaires. Ceux-ci sont listés dans le plan de distribution associé au dispositif humanitaire. Ce plan est proposé par les autorités iraquiennes et approuvé par le secrétaire général des Nations unies. Les contrats d'achat de biens humanitaires sont passés par le Gouvernement iraquien pour l'essentiel et par certaines agences des Nations unies lorsque les biens sont à destination des trois gouvernorats situés au nord de l'Irak et à majorité kurde. Ainsi, le choix du fournisseur des biens humanitaires n'appartient pas à l'Etat français mais résulte de l'examen des offres remises aux clients par les entreprises. Lorsque le choix du fournisseur est arrêté, une autorisation d'exportation est demandée par le fournisseur aux Nations unies via l'administration de l'Etat dans lequel il a son siège social. L'administration concernée présente alors cette demande au comité 661 des Nations unies. L'autorisation est délivrée par le président de ce comité (ou comité des sanctions) après examen du contenu du contrat (notamment l'appartenance des biens au plan de distribution). En pratique, cette autorisation découle de l'approbation du contrat par tous les membres du comité 661 (la France y est représentée puisque la composition du comité 661 est identique à celle du Conseil de sécurité). Dans le cas d'un contrat remporté par une entreprise française, la société est informée par l'administration (ministère de l'économie, des finances et de l'industrie, direction générale des douanes et droits indirects) de l'approbation de son contrat et est autorisée à exporter les biens à destination de l'Irak.
