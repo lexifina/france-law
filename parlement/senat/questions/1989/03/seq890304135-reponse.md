@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304135
+
+- Question : [SEQ890304135](seq890304135.md) — CEE et développement des voies navigables françaises
+
+## Réponse
+
+*Transports, JO du 1989-07-06, page 1053*
+
+Réponse. - La voie d'eau présente pour la France de nombreux atouts. Du fait de sa polyvalence, l'apport de la voie d'eau est important pour l'alimentation en eau, l'irrigation, la production d'électricité. Elle constitue également un patrimoine naturel et culturel qu'il convient de mieux mettre en valeur, au moment même où le tourisme fluvial connaît un essor important dans notre pays. En ce qui concerne le transport de marchandises, l'année 1988 a été marquée par un renversement de tendance avec une augmentation du trafic de 6 p. 100 et le début de l'année 1989 semble confirmer cette amélioration. S'agissant des infrastructures, le budget 1989 a déjà concrétisé l'importance que le Gouvernement accorde à ce secteur avec une augmentation des crédits d'environ 20 p. 100. De plus, j'ai confié une mission de réflexion à Mme Chassagne sur le problème du financement des voies navigables. Mme Chassagne m'a remis son rapport qui fait l'objet d'un examen attentif dansle cadre d'une concertation interministérielle. L'échéance européenne de 1992 implique une adaptation de l'organisation de la batellerie comme pour toutes les professions. Le rôle de l'Etat est d'accompagner et de faciliter les transitions nécessaires. Celles-ci ne pourront toutefois se faire sans le concours des professionnels. Dans cette perspective, un plan économique et social a été mis en place entre 1986 et 1988 qui prévoyait notamment des mesures visant à faciliter la modernisation des bateaux : ainsi 370 bateaux ont bénéficié de cette aide pendant ce plan. Par ailleurs, la mise au point d'un plan européen d'assainissement structurel de la cale se poursuit actuellement.
