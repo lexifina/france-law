@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112422
+
+- Question : [SEQ981112422](seq981112422.md) — Aide à la qualité du lait
+
+## Réponse
+
+*Agriculture, JO du 1999-02-25, page 597*
+
+Réponse. - Le développement et la pérennité de l'activité agricole et, notamment laitière, en zone de montagne constitue l'un des objectifs majeurs de la politique agricole que le Gouvernement entend poursuivre. D'ores et déjà, de nombreuses améliorations ont été apportées à la situation des producteurs laitiers de montagne, qu'il s'agisse de l'augmentation des quantités de référence dont ces zones ont spécifiquement bénéficié ces dernières années, ou de la prise en compte de ses particularismes pour la redistribution de quantités supplémentaires. Pour l'année 1999, le dispositif d'aide à la qualité du lait en zone de montagne a été reconduit. Il représente un coût de 49 millions de francs à la charge de l'Onilait et consiste, à travers 6 actions ciblées (appui technique aux producteurs, contrôle des performances, appui technique fromager, investissements matériels, analyses du lait, promotion des produits), à améliorer et à valoriser la qualité du lait produit en zone de montagne. D'autres avancées demeurent néanmoins nécessaires. C'est pourquoi un groupe de travail spécifique sur la montagne, comprenant les professionnels représentatifs du secteur, va être prochainement mis en place. Il aura pour tâche de proposer les grandes orientations de la politique dans ce domaine, et notamment la définition d'un cadre renouvelé d'aide à la production du lait en montagne. Dans le contexte plus spécifique de l'élaboration d'un nouveau règlement communautaire sur les quotas laitiers pour la période 2000-2006, la montagne constituera un des sujets pris en compte par le groupe de réflexion sur la gestion des quotas dont j'ai souhaité la création. Ce groupe, qui associera également des représentants professionnels, devrait commencer à se réunir début 1999.
