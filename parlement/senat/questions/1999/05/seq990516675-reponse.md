@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516675
+
+- Question : [SEQ990516675](seq990516675.md) — Catastrophe du tunnel du Mont-Blanc : manque de coordination entre les sociétés française et italienne exploitantes du tunnel
+
+## Réponse
+
+*Équipement, JO du 2000-01-13, page 126*
+
+Réponse. - Le renforcement de la coordination entre les deux sociétés concessionnaires française et italienne du tunnel du Mont-Blanc est une priorité. Il fait l'objet d'études qui portent tant sur les structures administratives et juridiques que sur les équipements d'exploitation et leur gestion, dont les objectifs ont été fixés par la commission intergouvernementale de contrôle du tunnel du Mont-Blanc dans sa session du 23 juillet dernier. Il a été demandé aux deux sociétés concessionnaires française et italienne de créer une structure unique assurant la maîtrise d'ouvrage de l'ensemble des études et travaux préalables à la réouverture du tunnel. Les deux sociétés concessionnaires devront également constituer une structure unique ayant la personnalité morale et juridique dont l'objet sera l'exploitation du tunnel. La commission intergouvernementale de contrôle a conditionné la réouverture du tunnel du Mont-Blanc à l'existence de cette structure unique d'exploitation. L'exploitation du tunnel sera assurée à partir d'une seule salle de commande. Une autre salle de commande sera équipée à l'autre extrémité du tunnel pour être utilisée en secours exclusivement. La nouvelle structure unique d'exploitation élaborera un plan de sécurité interne qui définira notamment avec précision le rôle de chaque intervenant. Des exercices d'une fréquence au moins annuelle garantiront la parfaite connaissance des consignes par tous les intervenants. Un système de contrôle et de commande informatisé des installations du tunnel permettra notamment la mise en uvre automatique des actions prévues par les consignes techniques en fonction des décisions prises par l'opérateur.
