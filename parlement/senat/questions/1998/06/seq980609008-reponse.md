@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609008
+
+- Question : [SEQ980609008](seq980609008.md) — Réforme de la politique agricole commune dans le secteur laitier
+
+## Réponse
+
+*Agriculture, JO du 1998-09-17, page 2976*
+
+Réponse. - Les perspectives de réforme de l'organisation commune de marché (OCM) du lait et des produits laitiers font actuellement l'objet de discussions approfondies au niveau européen. Dans le cadre du " Paquet Santer ", la Commission européenne a proposé, d'une part, de reconduire le régime des quotas laitiers jusqu'en 2006, d'autre part, de réduire progressivement les prix de soutien de 15 %. Par ailleurs, la commission propose d'introduire une aide compensatoire sous la forme d'une prime à la vache laitière d'un montant de 215 écus/animal. Lors des premières discussions qui ont eu lieu sur ces propositions, la France a clairement réaffirmé la nécessité de maintenir le régime des quotas laitiers à la fois pour garantir l'équilibre des marchés et pour assurer une répartition harmonieuse de la production laitière sur l'ensemble du territoire. En revanche, la France considère que la méthode baisse de prix/aides compensatoires préconisée par la Commission européenne n'est pas adaptée au secteur laitier. Une telle mesure est en effet de nature à fragiliser le dispositif des quotas. De même, la baisse de prix de 15 % ne permettra pas à l'Union européenne d'améliorer de façon significative sa position concurrentielle sur le marché mondial. Ainsi, la contrainte sur les volumes exportés avec restitutions découlant des accords de Marrakech sera toujours forte pour les fromages et la catégorie " autres produits laitiers " qui regroupe notamment les poudres de lait entier et les laits concentrés. Pour autant, des adaptations de l'OCM sont nécessaires pour que la filière laitière puisse faire face aux conséquences de la mise en uvre des accords de Marrakech et ultérieurement à l'intégration des pays d'Europe centrale et orientale (PECO).
