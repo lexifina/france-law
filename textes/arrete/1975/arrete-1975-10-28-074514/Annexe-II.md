@@ -1,341 +1,467 @@
 # Article Annexe II
 
-Peuvent faire l'objet d'une prime forfaitaire pour épuration les dispositifs d'épuration ci-dessous désignés :
+Prime pour épuration.
 
-Bassins de décantation ;
+Classes des dispositifs de traitement, coefficients de rendement sur les effluents et coefficients de destination des boues et des sous-produits
+
+Peuvent faire l'objet d'une prime pour épuration les dispositifs de traitement ci-dessous désignés :
+
+Bassin de décantation ;
+
+Unité de traitement physico-chimique ;
+
+Unité de séparation physique ;
+
+Unité d'incinération ;
 
 Unité de traitement biologique ;
 
-Epandage sur le sol ;
+Unité avec traitement tertiaire des effluents ;
 
-Installation de détoxication.
+Installation de détoxication ;
 
-I - CONDITIONS QUE DOIVENT REMPLIR LES DISPOSITIFS D'EPURATION
+Epandage agricole ;
 
-Une estimation forfaitaire des coefficients de prime est possible lorsque ces dispositifs remplissent les conditions suivantes :
+Stockage de régulation des rejets.
 
-1. Bassin de décantation
+Lorsqu'il s'agit d'un dispositif non prévu dans cette annexe ou ne remplissant pas les conditions énoncées ou lorsqu'il s'agit d'effluents spécifiques, il est procédé à l'estimation des coefficients de rendement notamment à l'aide de mesures.
 
-Les caractéristiques géométriques de l'installation et la fréquence des curages sont telles que le volume minimal de l'eau disponible avant chaque curage permet la décantation des particules dont la vitesse de chute dans l'eau est supérieure à 2 mètres à l'heure ; le temps de séjour de l'eau dans les mêmes conditions est supérieur à quarante-cinq minutes.
+I. - Renseignements à fournir par le redevable
 
-2. Unité de traitement biologique
+Les renseignements à fournir par le redevable pour l'estimation de l'assiette de la prime pour épuration sont les suivants :
 
-Unités à lits bactériens :
+1. Renseignements généraux
 
-Ces unités doivent comprendre :
-
-a) Un bassin de décantation primaire répondant aux normes ci-dessus ; b) Un ou plusieurs lits bactériens dont la charge ne doit pas excéder 1 kg DBO 5/jour/m3 de lit.
-
-En outre, dans le cas où la charge appliquée est supérieure à 0,4 kg DBO 5/jour/m3 de lit, elles doivent comprendre un ou plusieurs bassins de décantation secondaire répondant, pour le débit qu'ils reçoivent (compte tenu, le cas échéant, de la recirculation), aux conditions du paragraphe 1.
-
-Unités à boues activées :
-
-a) Dispositifs classiques :
-
-La durée moyenne de séjour de l'eau usée dans les bassins d'aération doit être supérieure à quatre-vingt-dix minutes.
-
-L'énergie consommée par les dispositifs d'aération doit être au minimum de 0,4 kWh par kg DBO 5 entrant dans les bassins d'aération.
-
-b) Oxydation totale :
-
-La charge volumique maximale dans les bassins d'aération doit être inférieure à 0,35 kg DBO 5/jour/m3.
-
-La durée moyenne de séjour de l'eau usée dans les bassins d'aération doit être de l'ordre de vingt-quatre heures.
-
-c) Oxydation totale avec boues activées à moyenne charge et traitement aérobie des boues :
-
-La charge volumique maximale dans les bassins d'aération des eaux usées doit être inférieure à 1,5 kg DBO 5/jour/m3.
-
-La durée de stabilisation des boues doit être supérieure à dix jours.
-
-Unités assurant la nitrification :
-
-a) Boues activées :
-
-Ces unités doivent permettre une fourniture d'air suffisante pour les boues activées et un âge suffisant de ces dernières, d'au moins dix jours.
-
-Suivant l'alcalinité de l'eau à traiter, et en cas de besoin, une régulation du pH devra fonctionner de telle sorte que le pH de la liqueur mixte ne descende pas au-dessous de 6,5.
-
-b) Lits bactériens :
-
-En plus des conditions déjà énoncés précédemment, la charge appliquée ne doit pas être supérieure à 0,1 kg de N (organique + NH 4) par mètre cube de garnissage et par jour.
-
-c) Filtres biologiques noyés :
-
-Ces unités doivent être chargées de matériaux supports dont la taille et la nature sont adaptées à la nitrification et à la pratique du lavage ascendant à l'eau et à l'air.
-
-Unités assurant la dénitrification :
-
-Le dispositif de dénitrification doit être dimensionné sur la base d'une constante de dénitrification inférieure à 2 mg de N-NO3/g MVS/h.
-
-Le processus de lavage doit être efficace. La répartition de l'effluent et de l'air fourni doit être homogène dans une section horizontale du lit (absence de renardage).
-
-La charge appliquée ne doit pas exéder 1 kg de N (organique + NH 4) par mètre cube de garnissage et par jour.
-
-Unités assurant la précipitation du phosphore par voie physico-chimique :
-
-Ces unités doivent comprendre les dispositifs nécessaires pour l'introduction en proportion suffisante des réactifs de précipitation physico-chimique, le bon mélange de l'effluent à traiter et des réactifs et la séparation liquide-solide avant rejet de l'effluent traité.
-
-Les boues résultant de la précipitation seront traitées et mises en dépôts dans les conditions acceptées par l'agence.
-
-3. Epandage, cas général
-
-Au sens de l'épuration, l'épandage doit être considéré comme un moyen de réduire la pollution en utilisant à des fins agricoles la valeur fertilisante des eaux usées.
-
-Les éléments apportés doivent être utilisés pour les cultures et ne pas se retrouver dans les eaux souterraines ou superficielles.
-
-L'épandage sera considéré comme réalisé correctement quand les conditions suivantes seront réunies :
-
-Tenue à jour d'un cahier d'épandage ;
-
-Réalisation d'une étude de périmètre ou mise à disposition de données techniques suffisantes ;
-
-Maintien en bon état d'exploitation agricole des terrains d'épandage ;
-
-Absence de ruissellement et de stagnation ;
-
-Absence de percolation d'éléments en profondeur ;
-
-Absence de substances toxiques pour les sols et les plantes ;
-
-Existence d'un stockage de sécurité étanche.
-
-Pour qu'un épandage puisse être qualifié de "très bon", il devra exister un suivi agronomique mettant en évidence de très bons résultats.
-
-3.1 Epandage, cas des effluents d'élevage
-
-En ce qui concerne les effluents d'élevage épandus, la pollution évitée est estimée au regard de la situation à la fin de l'année considérée, en fonction, d'une part, de la qualité de la récupération des effluents et, d'autre part, de la qualité de l'épandage, compte tenu des éléments d'appréciation définis ci-après :
-
-" A. Qualité de la récupération des effluents d'élevage
-
-POUR TOUS LES ÉLEVAGES sauf élevages de volailles indiqués
-
-ci-après
-
-Qualité de la récupération : Très bonne
-
-Description des installations de récupération :
-
-Dalles et aires de parcours bétonnées.
-
-Collecte intégrale des eaux pluviales susceptibles d'être souillées (selon diagnostic).
-
-Récupération intégrale des déjections liquides et solides.
-
-Collecte et gestion des jus d'ensilage, des eaux blanches.
-
-Stockage étanche, de capacité cohérente avec l'étude de périmètre d'épandage ou supérieure ou égale à 4 mois.
-
-Qualité de la récupération : Bonne
-
-Description des installations de récupération :
-
-Imperméabilité partielle des dalles et aires de parcours (dalles fissurées, aires partiellement bétonnées...).
-
-Collecte partielle des eaux pluviales susceptibles d'être souillées (selon diagnostic).
-
-Récupération d'au moins 80 % des déjections liquides et solides.
-
-Stockage étanche, de capacité comprise entre 2 et 4 mois.
-
-Qualité de la récupération : Moyenne
-
-Description des installations de récupération :
-
-Sol nu.
-
-Récupération de moins de 80 % des déjections liquides et solides.
-
-Stockage étanche, de capacité inférieure à 2 mois.
-
-ÉLEVAGES DE VOLAILLES sauf palmipèdes
-
-Qualité de la récupération : Trés bonne
-
-Description des installations de récupération :
-
-Récupération intégrale des déjections (liquides et solides).
-
-Aires de parcours enherbées.
-
-Collecte et gestion des eaux de nettoyage et de traitement des bâtiments, absence d'écoulement.
-
-Stockage sur sol nu avec siccité supérieure à 65 % ou stockage étanche supérieur ou égal à 4 mois.
-
-Qualité de la récupération : Bonne
-
-Description des installations de récupération :
-
-Récupération peu efficace ou partielle d'au moins 80 % ou mélange avec d'autres effluents.
-
-Aires de parcours dégradées (50 % de la surface).
-
-Collecte non étanche.
-
-Stockage insuffisant mais sans débordement.
-
-Qualité de la récupération : Moyenne
-
-Description des installations de récupération :
-
-Rejets d'eau de nettoyage.
-
-Capacité de stockage avec des débordements.
-
-Aires de parcours extérieurs sur sols nus.
-
-Le non-respect d'un seul de ces critères conduit à une
-
-appréciation de niveau inférieur.
-
-" B. Qualité de l'épandage
-
-CLASSES : Classe I
-
-CONDITIONS à remplir :
-
-Existence d'un plan d'épandage.
-
-Tenue à jour d'un cahier d'épandage.
-
-Charge/ha inférieure à 3 U.G.B.N. ou, si comprise entre 3 et 5, étude de périmètre d'épandage et existence d'un outil de maîtrise de la fertilisation adapté.
-
-CLASSES : Classe II
-
-CONDITIONS à remplir :
-
-Existence d'un plan d'épandage.
-
-Tenue à jour d'un cahier d'épandage.
-
-Charge/ha comprise entre 3 et 5 U.G.B.N. ou, à défaut, étude de périmètre d'épandage.
-
-CLASSES : Classe III
-
-CONDITIONS à remplir :
-
-Existence d'un plan d'épandage.
-
-Charge/ha supérieure à 5 U.G.B.N.
-
-Le non-respect d'un seul de ces critères conduit à une classe de niveau inférieur.
-
-La charge à l'hectare (charge/ha) est calculée pour l'ensemble des animaux de l'exploitation d'élevage sur la base de la quantité moyenne annuelle d'azote (N) produite, exprimée par référence à celle produite par une unité de gros bétail (U.G.B.N.) conformément aux valeurs suivantes :
-
-un porc charcutier produit (P.C.P.) : 3,5 kg ;
-
-une poule pondeuse (P.P.) : 0,5 kg ;
-
-un mètre carré de volailles de chair (m2 V.C.) : 4,3 kg ;
-
-une unité de gros bétail (U.G.B.) : 73 kg, soit l'équivalence de 21 P.C.P., 146 P.P., 17 m2 de V.C.
-
-4. Installation de détoxication propre à l'activité de traitement de surface.
-
-L'installation de détoxication doit comprendre tous les éléments nécessaires pour neutraliser ou détruire les matières inhibitrices ou pour réduire les métaux ou métalloïdes. Les résidus de détoxation devront être mis en dépôt dans des conditions acceptées par l'agence soit par le producteur des résidus, soit par une société agréée par l'agence.
-
-Dans le cas particulier du décapage des métaux, les installations de détoxication ne seront prises en compte qui si elles comportent en outre une neutralisation.
-
-Outre les dispositifs d'épuration déjà cités, peuvent faire l'objet d'une prime forfaitaire pour épuration les installations de traitement d'émulsions huileuses.
-
-II - VALEUR DES COEFFICIENTS DE RENDEMENT
-
-Pour chaque dispositif et pour chaque élément défini à l'article 1er, l'agence détermine le coefficient de rendement au moyen des tableaux ci-après, en fonction de l'efficacité du fonctionnement du dispositif considéré appréciée selon les dispositions fixées à l'article 6.
-
-Lorsque les renseignements fournis en application de l'article 6 le justifient, le coefficient de rendement applicable pourra excéder la valeur maximale prévue au tableau I.
-
-Les exploitations d'élevage peuvent bénéficier du dispositif additionnel mentionné à l'article 15-1 du présent arrêté, par l'application de coefficients de rendement déterminés au moyen du tableau III si elles satisfont aux conditions correspondant à la fois à une très bonne qualité de récupération et à la classe I d'épandage et à l'un des deux niveaux d'exigence définis ci-après :
-
-1. Premier niveau :
-
-Soit une charge à l'hectare inférieure ou égale à 1 U.G.B. et la justification d'une bonne rotation des animaux sur les parcelles ;
-
-Soit existence d'un diagnostic d'exploitation comprenant l'ensemble des pratiques d'épandage y compris s'il y a lieu les opérations de traitement préalables à l'épandage démontrant que les trois conditions suivantes sont satisfaites simultanément :
-
-existence de dispositifs et matériels adéquats pour l'épandage, y compris s'il y a lieu pour les opérations de traitement préalables à l'épandage ;
-
-existence d'un descriptif simplifié des cultures permettant de s'assurer que les capacités de stockage sont suffisantes et adaptées et que l'ensemble des apports organiques et minéraux est correct ;
-
-conformité de l'entretien des herbages avec les bonnes pratiques agricoles.
-
-2. Deuxième niveau :
-
-Respect des conditions correspondant au premier niveau et existence d'un suivi agronomique détaillé, si nécessaire par parcelle, permettant de démontrer la qualité des pratiques d'épandage et le respect des équilibres agronomiques sur les parcelles, ainsi qu'un entretien particulier des herbages, notamment en ce qui concerne les points d'abreuvement et d'alimentation des animaux.
-
-III - RENSEIGNEMENTS A FOURNIR PAR LE REDEVABLE.
-
-Les renseignements à fournir par le redevable pour l'estimation forfaitaire de l'assiette de la prime pour épuration sont les suivants :
-
-A - Renseignements généraux
-
-1. - En cas de décantation
+1.1. Décantation :
 
 Caractéristiques géométriques de l'installation ;
 
-Fréquence, mode du curage, mode d'évacuation et de stockage des matières décantées ;
+Débit horaire maximal admis dans l'installation.
+
+1.2. Traitement physico-chimique :
+
+Caractéristiques géométriques de l'installation ;
+
+Temps de séjour moyen de l'effluent dans l'installation.
+
+1.3. Séparation physique :
+
+Caractéristiques géométriques de l'installation.
+
+1.4. Unité d'incinération :
+
+Caractéristiques géométriques de l'installation ;
+
+Températures de fonctionnement ;
+
+Temps de séjour dans le foyer.
+
+1.5. Unité de traitement biologique :
+
+Caractéristiques géométriques de l'installation ;
+
+Temps de séjour moyen de l'effluent dans l'installation.
+
+1.6. Détoxication :
+
+Caractéristiques de l'installation ;
+
+Volume d'eau traité par jour.
+
+1.7. Epandage agricole :
+
+Plan d'épandage (localisation des parcelles utilisables et leur utilisation, surface épandable, cultures, nature et doses admissibles des effluents qui seront épandus, calendrier potentiel d'épandage...) ;
+
+Plan des ouvrages de stockage ;
+
+Descriptif des caractéristiques fonctionnelles des matériels d'épandage.
+
+1.8. Stockage de régulation des rejets :
+
+Volume utile des bassins de stockage ;
+
+Nature des parois du bassin.
+
+2. Renseignements annuels
+
+D'une manière générale, le bénéficiaire de la prime devra fournir :
+
+- tous les éléments et documents permettant d'apprécier le fonctionnement des installations d'épuration, les justificatifs d'élimination des boues et les résultats d'analyses de contrôle ;
+
+- toutes les modifications intervenues dans ces dispositifs de traitement.
+
+Si ces renseignements ne sont pas fournis annuellement et faute de disposer d'éléments d'appréciation du fonctionnement du dispositif d'épuration, la prime pour épuration ne pourra pas être attribuée.
+
+2.1. Décantation :
+
+Fréquence, mode de curage, quantités et siccités des boues évacuées, mode de stockage et élimination ;
 
 Volume minimal disponible pour l'eau avant une opération de curage ;
 
 Débit horaire maximal admis dans l'installation.
 
-2. - En cas d'épuration biologique
+2.2. Traitement physico-chimique et détoxication :
 
-Caractéristiques géométriques de l'installation ;
+Quantités et siccités des boues produites, mode de stockage et filière d'élimination ;
 
-Temps de séjour moyen de l'effluent dans l'installation ;
+Quantités de réactifs (de neutralisation, d'oxydation, de réduction, de coagulation, de floculation...) utilisées.
 
-Mode de traitement des boues ;
+2.3. Unité d'incinération :
 
-Energie dépensée en kilowattheures ;
+Tenir à disposition :
 
-Tous éléments nécessaires à l'appréciation de la qualité de l'oxygénation.
+- les courbes d'enregistrement des températures de fonctionnement ;
 
-3. - En cas d'épandage
+- les résultats de contrôle des paramètres représentatifs des rejets (effluents aqueux, fumées) et des déchets ;
 
-Pente des terrains ;
+- les quantités et destination des déchets.
 
-Composition du sol (pourcentage limons, argile, sable) ;
+2.4. Unité de traitement biologique :
 
-Surface utilisée pour l'épandage ;
+Quantités et siccités de boues produites, mode de stockage et filière d'élimination ;
 
-Volumes d'eau journaliers de pointes épandus sur le terrain ;
+Energie consommée en kilowattheures ;
 
-Volume annuel épandu sur le terrain ;
+Quantités de réactifs consommés.
 
-Tous éléments nécessaires à l'appréciation de la qualité de l'épandage (volume des bassins de stockage, moyens de dispersion, nature de la couverture végétale, etc.) ;
+2.5. Epandage agricole :
 
-Plans d'épandage comprenant surfaces des terrains, parcellaire ;
+2.5.1. Cas général :
 
-Autorisation d'épandage ;
+Volumes d'effluents journaliers de pointe épandus sur le terrain ;
 
-Tous les éléments nécessaires à la connaissance du dispositif et du terrain d'épandage pourront être demandés : étude de périmètre, suivi agronomique.
+Volumes annuels d'effluents épandus sur le terrain ;
 
-4. - En cas de détoxication
+Bilan agronomique ;
 
-Caractéristiques techniques de l'installation ;
+Cahier d'épandage avec références cadastrales et indication des surfaces sur lesquelles ont été épandus les effluents ;
 
-Volume d'eau traité par jour ;
+Plan prévisionnel de fertilisation couvrant les parcelles sur lesquelles ont été épandus les effluents ;
 
-Quantités de réactifs de neutralisation, d'oxydation, de réduction utilisées en catégorie et par an pour le fonctionnement de la station de détoxication.
+Pour l'appréciation du rendement de 95 %, en plus des éléments précédents :
 
-B - Renseignements annuels
+- existence de dispositifs et matériels adéquats pour la réalisation de l'épandage ;
 
-Toutes les modifications intervenues dans ces dispositifs d'épuration ;
+- plan prévisionnel global de fertilisation ;
 
-Tous éléments concernant le fonctionnement de la station et notamment les résultats des analyses de contrôle.
+- balance globale azotée sur les parcelles sur lesquelles ont été épandus les effluents ;
 
-IV - CAS PARTICULIERS D UN STOCKAGE DE REGULARISATION DES REJETS
+- calcul des capacités de stockage.
 
-Dans le cas particulier d'un stockage régularisant dans le temps le débit des rejets, les renseignements à fournir par le redevable pour l'estimation forfaitaire de la prime sont les suivants :
+Pour l'appréciation du rendement au-delà de 95 %, en plus des éléments précédents :
+
+- plan prévisionnel global de fertilisation détaillé par groupe de parcelles ;
+
+- balance de fertilisation par îlot cultural sur les parcelles sur lesquelles ont été épandus les effluents.
+
+2.5.2. Cas des effluents d'élevage.
+
+2.6. Stockage de régulation des rejets :
 
 Volume d'eau rejeté par an ;
 
-Débit journalier maximal des rejets que permet d'obtenir le stockage ;
+Relevé hebdomadaire des niveaux dans les bassins.
 
-Débit journalier moyen du mois de plus grande activité ;
+II. - Valeur des coefficients de rendement sur les effluents
 
-Volume utile des bassins de stockage ;
+Pour chaque dispositif et pour chaque élément défini à l'article 1er, l'agence détermine le coefficient de rendement sur les effluents représentatifs du fonctionnement du dispositif de traitement comme indiqué ci-après.
 
-Nature des parois du bassin ;
+1. Dispositifs de traitement autres que l'épandage
 
-Relevé hebdomadaire des niveaux dans le bassin. la valeur maximale prévue au tableau.
+1.1. Attribution des coefficients de rendement sur les effluents :
+
+En l'absence d'éléments d'appréciation de l'efficacité de fonctionnement de l'ouvrage, il n'est pas attribué de prime.
+
+Les résultats des mesures validées par l'agence en entrée et en sortie du dispositif de traitement complétés si besoin par l'appréciation du fonctionnement de celui-ci, notamment par prise en compte de sa capacité et des indicateurs tel que la consommation électrique, la consommation de réactifs et la production de boues, permettent de déterminer les coefficients de rendement sur les effluents de la façon suivante :
+
+1.1.1. Automesure journalière telle que définie aux articles 4 et 19 du présent arrêté :
+
+Lorsque les mesures validées par l'agence sont pratiquées journellement, les rendements représentatifs du fonctionnement annuel du dispositif de traitement sur les effluents sont retenus.
+
+1.1.2. Mesure telle que définie aux articles 4 et 19 du présent arrêté :
+
+Lorsqu'il est procédé à une mesure de pollution, les résultats de cette mesure sont utilisés pour déterminer la valeur des coefficients de rendement. Ces coefficients de rendement sont appliqués si les renseignements fournis ou recueillis pour l'ensemble de chaque année sur les dispositions prises pour réduire ou éviter la détérioration de la qualité de l'eau les confirment. A défaut, ces coefficients sont corrigés en tenant compte de ces renseignements suivant l'une des règles de l'estimation forfaitaire définies ci-dessous.
+
+1.1.3. Estimation forfaitaire :
+
+1.1.3.1. Mesures validées par l'agence pratiquées moins d'une fois par mois ou mesures non validées par l'agence :
+
+Lorsque les mesures validées par l'agence sont pratiquées moins d'une fois par mois ou lorsqu'il s'agit de mesures non validées par l'agence, les coefficients de rendement, représentatifs du fonctionnement annuel du dispositif de traitement, sont établis selon des classes d'efficacité de fonctionnement, définies dans les tableaux ci-après, qui s'appliquent individuellement sur chaque paramètre.
+
+Critères d'appréciation du fonctionnement
+
+du dispositif de traitement
+
+Les résultats de mesures conduisent à choisir la classe d'efficacité affectée du rendement le plus proche, s'ils sont corroborés par les indicateurs de fonctionnement et un suivi régulier d'exploitation de l'ouvrage d'épuration.
+
+a) Indicateurs de fonctionnement :
+
+Quantités de réactifs pour les ouvrages physico-chimiques et de détoxication ;
+
+Quantités de boues ou de déchets pour tous les ouvrages de traitement ;
+
+Quantités de résines régénérées pour les résines échangeuses d'ions.
+
+La valeur des indicateurs est comparée à des ratios de référence, selon les catégories de dispositifs.
+
+.
+
+Dans le cas où ces ratios ne sont pas adaptés, le bénéficiaire de la prime ou l'agence peut demander qu'il soit procédé à la détermination des valeurs spécifiques à l'ouvrage, notamment à l'aide de mesures.
+
+Lorsque le rapport ratio du site/ratio de référence est inférieur à 0,8 l'indicateur n'est pas validé, sauf justification particulière.
+
+Dans le cas où les résultats de mesures ne sont pas corroborés par l'ensemble des indicateurs définis ci-dessus, il est appliqué un déclassement par rapport à la classe d'efficacité affectée au rendement le plus proche selon les conditions ci-après :
+
+.
+
+b) Suivi d'exploitation de l'ouvrage d'épuration :
+
+Les éléments suivants doivent être consignés sur un support tenu à la disposition de l'agence :
+
+- les volumes d'effluent traités ;
+
+- les périodes d'arrêt ;
+
+- les résultats d'analyses ou tests effectués (DCO, MES, métaux, siccités des boues...) ;
+
+- les enlèvements de boues ;
+
+- les régénérations de résines (le cas échéant).
+
+Un suivi défaillant entraîne le déclassement d'une classe d'efficacité. Il est cumulable avec le déclassement résultant de la non-validation des indicateurs.
+
+1.1.3.2. Mesures validées par l'agence pratiquées au moins une fois par mois.
+
+Lorsque les mesures validées par l'agence sont pratiquées au moins une fois par mois, les rendements, représentatifs du fonctionnement annuel du dispositif de traitement, sur les effluents sont déterminés de 5 points en 5 points (arrondi le plus proche) et plafonnés à 95 %.
+
+1.1.3.3. Mesures validées par l'agence pratiquées plusieurs fois par semaine.
+
+Lorsque les mesures validées par l'agence sont pratiquées plusieurs fois par semaine, les rendements, représentatifs du fonctionnement annuel du dispositif de traitement, sur les effluents sont déterminés de point en point (arrondi le plus proche) et plafonnés à 99 %.
+
+1.2. Cas particulier du traitement de surface.
+
+En cas de traitement distinct de la partie concentrée (bains usés) et de la partie diluée (rinçages et éluats) des effluents produits par une activité polluante, et afin de déterminer la quantité de pollution soumise à chacun des dispositifs de traitement, l'agence considère que la partie concentrée et la partie diluée représentent chacune 50 % de l'assiette de la redevance de l'activité, sauf renseignements complémentaires permettant une détermination plus précise des flux de pollution respectifs.
+
+Le coefficient de rendement sur effluent correspondant à l'activité polluante en question est obtenu en tenant compte de la quantité de pollution soumise à chacun des dispositifs et de leur rendement respectif.
+
+2. Epandage
+
+L'épandage peut être considéré comme un dispositif d'épuration lorsque les conditions suivantes sont réunies :
+
+- absence de substances toxiques pour les sols et les plantes ;
+
+- existence d'un stockage de sécurité étanche ;
+
+- absence de ruissellement et de stagnation ;
+
+- maintien en bon état des sols et du couvert végétal des terrains d'épandage ;
+
+- exploitation en production végétale afin que les éléments apportés soient utilisés par les cultures.
+
+2.1. Cas général.
+
+En ce qui concerne les effluents autres que ceux d'élevage, lorsque l'épandage peut être considéré comme un dispositif d'épuration, son efficacité épuratoire est appréciée selon les dispositions suivantes.
+
+2.1.1. Appréciation de l'efficacité de l'épandage vis-à-vis de l'azote réduit (NR), de l'azote oxydé (NO) ou du phosphore total (P).
+
+Lorsque leurs critères spécifiques diffèrent, cette appréciation est conduite séparément pour chacun des éléments, d'une part l'azote (N) sous ses deux formes (NR et NO) et d'autre part le phosphore total (P).
+
+L'appréciation " médiocre " est portée lorsque les conditions suivantes sont réunies :
+
+- évaluation des quantités produites d'effluents à épandre par ratios en fonction de l'activité polluante ou par mesures ;
+
+- évaluation des charges polluantes des effluents à épandre par analyses périodiques ;
+
+- existence d'un plan d'épandage ;
+
+- tenue à jour d'un cahier d'épandage.
+
+L'appréciation " moyen " est portée lorsque, outre les conditions relatives au classement " médiocre ", une étude de périmètre d'épandage (étude générale concernant l'ensemble des parcelles susceptibles d'être utilisées pour l'épandage) a été réalisée et les contraintes identifiées par cette étude respectées. L'étude a pour objet de connaître leur aptitude à l'épandage et à définir le mode de gestion des parcelles le plus efficace pour épurer les effluents. Elle comprend le zonage des exclusions avec les motifs d'exclusion.
+
+L'appréciation " bon " est portée lorsque, outre les conditions relatives au classement " moyen ", les conditions suivantes sont réunies :
+
+- les stockages d'effluents sont suffisants et adaptés ;
+
+- les matériels d'épandage sont adéquats ;
+
+- les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation ;
+
+- la comparaison des besoins prévisionnels des cultures et des divers apports organiques et minéraux sur les parcelles permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles sur lesquelles ont été épandus des effluents.
+
+L'appréciation " très bon " est portée lorsque, outre les conditions relatives au classement " bon ", les conditions suivantes sont réunies :
+
+- la comparaison précédente permet de considérer qu'il y a équilibre agronomique sur chacune des parcelles épandues ;
+
+- un suivi agro-pédologique périodique garantit que la structure et la qualité des sols ne sont pas altérées par l'épandage.
+
+2.1.2. Appréciation de l'efficacité de l'épandage vis-à-vis des matières oxydables (MO).
+
+Les matières oxydables bénéficient de la même classe d'efficacité que l'azote réduit.
+
+2.1.3. Appréciation de l'efficacité de l'épandage vis-à-vis des matières en suspension (MES).
+
+Le coefficient de rendement est égal à 1 lorsque sont satisfaites les conditions énumérées au premier alinéa du paragraphe 2.
+
+2.1.4. Appréciation de l'efficacité de l'épandage vis-à-vis des matières inhibitrices (MI) et des composés organo-halogénés adsorbables sur charbon actif (AOX).
+
+L'appréciation " très bon " est portée lorsque l'exploitant apporte la preuve de la dégradation des MI et des AOX dans le sol et d'absence de transfert vers les eaux.
+
+2.1.5. Epandage excellent.
+
+Premier niveau d'appréciation :
+
+Les matières oxydables, l'azote réduit, l'azote oxydé et le phosphore total bénéficient d'un rendement épuratoire de 0,95 lorsque les deux conditions suivantes sont satisfaites :
+
+- l'épandage répond, pour tous les éléments d'assiette, aux conditions relevant de la classe " très bon " ;
+
+- la comparaison des exportations par les productions agricoles effectivement réalisées et des divers apports organiques et minéraux sur les parcelles permet de considérer qu'il y a équilibre agronomique effectif sur chacune des parcelles épandues, et cela simultanément pour chacun des paramètres agronomiques significatifs (N, P, K,...).
+
+Deuxième niveau d'appréciation :
+
+Le rendement peut être porté au-delà de 0,95 si en outre les conditions suivantes sont réunies :
+
+- l'évaluation de l'équilibre agronomique ci-dessus prend en compte, grâce à un suivi détaillé, l'ensemble des fournitures du sol (sol et apports) ;
+
+- les volumes épandus sont limités de façon à éviter toute infiltration dans le sous-sol ;
+
+- toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal et pour contrôler leurs stocks dans le sol.
+
+2.2. Cas des effluents d'élevage.
+
+En ce qui concerne les effluents d'élevage épandus, la pollution évitée est estimée au regard de la situation à la fin de l'année considérée, en fonction, d'une part, de la qualité de la récupération des effluents et, d'autre part, de la qualité de l'épandage, compte tenu des éléments d'appréciation définis ci-après :
+
+2.2.1. Qualité de la récupération des effluents d'élevage :
+
+.
+
+Le non-respect d'un seul de ces critères conduit à une appréciation de niveau inférieur.
+
+2.2.2. Qualité de l'épandage :
+
+.
+
+Le non-respect d'un seul de ces critères conduit à une classe de niveau inférieur.
+
+La charge à l'hectare (charge/ha) est calculée pour l'ensemble des animaux de l'exploitation d'élevage sur la base de la quantité moyenne annuelle d'azote (N) produite, exprimée par référence à celle produite par une unité de gros bétail (UGBN) conformément aux valeurs suivantes :
+
+- un porc charcutier produit (PCP) : 3,5 kg d'azote ;
+
+- une poule pondeuse (PP) : 0,5 kg d'azote ;
+
+- un mètre carré de bâtiment occupé par les volailles de chair (m2 VC) : 4,3 kg d'azote ;
+
+- une unité de gros bétail (UGB) : 73 kg d'azote, soit l'équivalence de 21 PCP, 146 PP, 17 m2 de VC.
+
+2.2.3. Dispositifs additionnels :
+
+Les exploitations d'élevage peuvent bénéficier du dispositif additionnel mentionné à l'article 14 du présent arrêté, par l'application de coefficients de rendement déterminés au moyen du tableau III si elles satisfont aux conditions correspondant à la fois à une très bonne qualité de récupération et à la classe I d'épandage et à l'un des deux niveaux d'exigence définis ci-après :
+
+a) Premier niveau :
+
+Soit une charge à l'hectare inférieure ou égale à 1 UGB et la justification d'une bonne rotation des animaux sur les parcelles ;
+
+Soit existence d'un diagnostic d'exploitation comprenant l'ensemble des pratiques d'épandage, y compris s'il y a lieu les opérations de traitement préalables à l'épandage démontrant que les trois conditions suivantes sont satisfaites simultanément :
+
+- existence de dispositifs et matériels adéquats pour l'épandage, y compris s'il y a lieu pour les opérations de traitement préalables à l'épandage ;
+
+- existence d'un descriptif simplifié des cultures permettant de s'assurer que les capacités de stockage sont suffisantes et adaptées et que l'ensemble des apports organiques et minéraux est correct ;
+
+- conformité de l'entretien des herbages avec les bonnes pratiques agricoles.
+
+b) Deuxième niveau :
+
+Respect des conditions correspondant au premier niveau et existence d'un suivi agronomique détaillé, si nécessaire par parcelle, permettant de démontrer la qualité des pratiques d'épandage et le respect des équilibres agronomiques sur les parcelles, ainsi qu'un entretien particulier des herbages, notamment en ce qui concerne les points d'abreuvement et d'alimentation des animaux.
+
+3. Stockage et lagunage des rejets
+
+3.1. Etalement des rejets :
+
+Lorsqu'un stockage régularise dans le temps le débit des rejets, le coefficient de prime est égal à : 1 - (N1/N2) ;
+
+N1 étant le nombre de jours d'activité polluante ;
+
+N2 étant le nombre de jours de rejet correspondant à cette activité.
+
+3.2. Cas des dispositifs de stockage-lagunage et d'étalement :
+
+La fraction non infiltrée est estimée à partir d'un bilan sur la période de référence (production, stockage, rejet) établi à partir des éléments suivants :
+
+- mesure et relevé journalier des volumes d'effluents produits, admis sur le dispositif et rejetés ;
+
+- relevés des niveaux ainsi que les plans (coupes) des bassins ;
+
+- apports parasites éventuels vers les bassins ;
+
+- relevé pluviométrique sur le site ;
+
+- éléments d'appréciation de l'évaporation ;
+
+- analyse des éléments polluants contenus dans les rejets entrant et sortant du dispositif.
+
+Le coefficient de la prime est égal à : [fraction entrant dans le dispositif de stockage x fraction non infiltrée x [1 - (N1/N2) x (1 - coefficient de rendement)]] :
+
+N1 : nombre de jours d'activité polluante ;
+
+N2 : nombre de jours de rejets.
+
+Le coefficient de rendement est déterminé à partir des flux journaliers :
+
+- entrant dans le dispositif ;
+
+- sortant du dispositif par infiltration ou rejet de surface (déstockage).
+
+L'attribution du coefficient d'étalement est conditionnée par le respect des conditions suivantes :
+
+- la mesure journalière des débits entrant et sortant du dispositif ;
+
+- un rapport entre le maximum et le minimum du débit journalier au rejet de surface inférieur ou égal à 1,2.
+
+3.3. Lagunage sans étalement des rejets :
+
+Dans le cas simplifié, on pourra considérer que le rendement est égal à : (C1 - C2)/C1 :
+
+C1 : concentration moyenne à l'entrée du dispositif ;
+
+C2 : concentration moyenne au déstockage.
+
+Dans le cas où les effluents issus du déstockage font l'objet d'une épuration complémentaire, il leur sera appliqué une prime supplémentaire correspondant à l'efficacité du dispositif, selon les modalités afférentes à sa catégorie.
+
+4. Cas des pollutions éliminées par des tiers
+
+Toute élimination en centre ou par un tiers, pour être pris en compte par l'agence, doit être dûment justifiée par le redevable au moyen de copies de factures, bordereaux de suivi et/ou certificats de destruction.
+
+Valeurs des coefficients de rendement
+
+Cas général
+
+Tableau I
+
+.
+
+Cas des exploitations d'élevage
+
+Tableau II
+
+.
+
+Tableau III
+
+.
+
+III. - Coefficients de destination des boues et des sous-produits
+
+Pour chaque dispositif et pour chaque élément défini à l'article 1er, l'agence détermine le coefficient de destination des boues et des sous-produits en fonction de l'adéquation de la filière de traitement à la pollution considérée. Les différentes valeurs que peut prendre ce coefficient sont fixées selon le tableau ci-après pour chacun des paramètres de redevances, dans la mesure où l'activité d'élimination n'est pas soumise à redevance en application de l'article 7 de l'arrêté, sinon la valeur de ce coefficient est égale à 1.
+
+.
+
+Le coefficient de destination des boues et des sous-produits sera fixé à partir des informations suivantes :
+
+- tonnages annuels de boues ou sous-produits envoyés sur les différentes filières de valorisation ;
+
+- étanchéité et capacité des dispositifs de stockage.
+
+IV. - Tableau des coefficients spécifiques forfaitaires de pollution produite par un dispositif de traitement
+
+.
+
+La pollution produite est égale au produit du nombre d'unités de la grandeur caractéristique par les coefficients " azote oxydé " correspondant aux classes de dispositif et d'efficacité de fonctionnement retenu. "
