@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104034
+
+- Question : [SEQ870104034](seq870104034.md) — Politique des SAFER en 1987
+
+## Réponse
+
+*Agriculture, JO du 1987-03-05, page 326*
+
+Réponse. -Les S.A.F.E.R. ont adopté le statut juridique de société anonyme. Il appartient en conséquence à ces sociétés de déterminer elles-mêmes leur politique conformément aux dispositions législatives et réglementaires qui les régissent. Il appartient cependant à l'Etat d'orienter leur action en déterminant leurs missions et les moyens juridiques et financiers pour les mener à bien. Ainsi, le projet de loi de modernisation agro-alimentaire et d'aménagement rural en cours d'élaboration prévoit l'extension du champ d'intervention des S.A.F.E.R. à l'aménagement foncier rural et aux activités à caractère rural, non spécifiquement agricoles, telles que celles concernant la pêche, la chasse, les loisirs en milieu rural, la protection de ce même milieu, etc. En outre, compte tenu, d'une part, de la politique de rigueur budgétaire menée par le Gouvernement et, d'autre part, de l'existence de zones où les questions foncières méritent une particulière attention du fait, par exemple, du caractère particulier de l'économie agricole ou de handicaps ayant une influence sur l'agriculture locale, l'Etat désire verser des subventions, en priorité, aux S.A.F.E.R. de ces zones, une convention entre chacune d'elles et la collectivité publique précisant, pour chaque cas, les objectifs et les moyens financiers octroyés pour en faciliter la réalisation. Pour ce qui est des prêts, des études sont actuellement menées par le ministère de l'agriculture, en concertation avec les administrations et les organismes concernés, tendant à trouver des solutions pour diminuer la charge de l'emprunt, sans accroître celle du budget de l'Etat, lorsqu'un aménagement foncier cohérent oblige une S.A.F.E.R. à conserver des terres agricoles dans son patrimoine, pendant une longue période.
