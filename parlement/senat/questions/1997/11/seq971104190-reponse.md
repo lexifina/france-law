@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104190
+
+- Question : [SEQ971104190](seq971104190.md) — Utilisation du papier permanent pour la conservation du patrimoine
+
+## Réponse
+
+*Culture, JO du 1998-02-12, page 477*
+
+Réponse. - Le ministère de la culture et de la communication porte depuis de nombreuses années une attention toute particulière à la question de la conservation des ouvrages menacés par l'acidification, notamment ceux publiés au xixe siècle. La Bibliothèque nationale de France a mis en place un plan de conservation reposant, d'une part, sur la désacidification et le renforcement des ouvrages menacés, d'autre part, sur le microfilmage et la numérisation des collections. Une amélioration des techniques de désacidification et de renforcement est actuellement à l'étude, afin de permettre un traitement de masse des collections qui sera effectué dans le centre technique de la Bibliothèque nationale de France situé près de Marne-la-Vallée. A terme, ce centre pourra effectuer des prestations pour d'autres bibliothèques. En outre, la Bibliothèque nationale de France dispose maintenant de nouveaux magasins aux conditions de conservation optimales et joue dans ce domaine un rôle de modèle pour d'autres grandes bibliothèques patrimoniales ; la généralisation de la politique de conservation préventive freine ainsi considérablement la détérioration des collections, même les plus fragiles. En ce qui concerne les ouvrages publiés actuellement, on observe que la qualité moyenne du papier utilisé depuis quelques années a beaucoup progressé et que son espérance de vie est sans commune mesure avec celle d'un papier fabriqué il y a quarante ans, surtout dans de bonnes conditions de conservation. Aussi ne semble-t-il pas nécessaire d'utiliser des papiers dits " permanents " pour les publications et documents officiels, qui sont conservés de plus en plus parallèlement sous forme de microfilms et sur support informatique.
