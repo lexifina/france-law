@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501218
+
+- Question : [SEQ860501218](seq860501218.md) — Collectivités territoriales: financement par l'emprunt
+
+## Réponse
+
+*Intérieur, JO du 1986-09-18, page 1320*
+
+Réponse. -Les emprunts à amortissement différé sont à rapprocher des emprunts à annuités progressives, dont la finalité est, de même, d'alléger les premières annuités de remboursement de l'emprunt. Ces prêts sont réservés aux opérations productives de revenus et permettent d'adapter les remboursements aux prévisions de recettes générées par l'investissement. Ils sont particulièrement adaptés, par exemple, à l'équipement par les collectivités territoriales des stations de sport d'hiver, les remboursements les plus importants n'intervenant que lorsque l'exploitation des équipements produit des bénéfices. Ces types de prêts présentent cependant un danger en cas d'appréciation inexacte des bénéfices futurs. La collectivité se trouvera en effet en difficulté lors des remboursements les plus lourds, lorsque ceux-ci viendront à échéance, si les bénéfices escomptés ne sont pas réalisés. Les formules intermédiaires, qui réduisent les remboursements au cours d'une période initiale, et les étalent ensuite sur une deuxième période, permettent de limiter ce danger. Aussi, le remboursement in fine n'apparaît-il adapté que dans le cas d'emprunteurs aux besoins importants, qui peuvent substituer à un emprunt à ressource échelonnée dans le temps (emprunts obligataires dont le tirage est fractionné selon un calendrier déterminé) plusieurs emprunts moins importants à échéance unique, répartis dans le temps. Les emprunts à annuité constante demeurent donc la formule la plus traditionnelle et la mieux adaptée dans les cas où le remboursement de l'emprunt résulte de recettes qui sont indépendantes de son objet, recettes fiscales notamment. C'est le cas notamment du financement des investissements à caractère non marchand.
