@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111862
+
+- Question : [SEQ981111862](seq981111862.md) — Agriculture biologique
+
+## Réponse
+
+*Agriculture, JO du 1998-12-17, page 4031*
+
+Réponse. - Pour tenir compte du développement du marché des produits issus de l'agriculture biologique, le Gouvernement a mis en place un plan ambitieux visant à promouvoir ce mode de production. C'est dans ce cadre que l'enveloppe budgétaire concernant les aides à la conversion a été portée de 15 MF/an à 60 MF/an. De même, les offices interprofessionnels sont mobilisés pour mieux organiser les filières de produits et y consacrent 30 MF. Le plan de développement de l'agriculture biologique comprend également un volet formation et recherche appliquée et l'Association nationale pour le développement agricole veille à la prise en compte de l'agriculture biologique dans les prochains programmes territoriaux. Enfin, pour mieux coordonner ces efforts, un comité d'orientation et de suivi du plan de développement de l'agriculture biologique, regroupant les principaux partenaires administratifs et professionnels concernés, a été créé et a débuté ses travaux. En ce qui concerne la réglementation agricole générale, une adaptation à l'agriculture biologique ne peut être envisagée, que ce soit pour les exigences du domaine environnemental ou pour les prophylaxies rendues obligatoires par arrêté préfectoral. Cependant, en ce qui concerne ces prophylaxies, différents groupes de travail ont été constitués pour rechercher des traitements permettant d'assurer les exigences de santé animale et de protection végétale, tout en étant compatibles avec les obligations de l'agriculture biologique. C'est ainsi que des solutions ont été mises au point, notamment pour les luttes contre le varron, la varoase et la flavescence dorée, sans utilisation de produits chimiques de synthèse.
