@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001823
+
+- Question : [SEQ881001823](seq881001823.md) — Statut de la régie Renault
+
+## Réponse
+
+*Industrie, JO du 1989-06-08, page 882*
+
+Réponse. - La régie Renault est une société industrielle qui appartient à l'Etat. Le rôle de celui-ci doit être analysé en fonction de la position que tout autre actionnaire serait amené à prendre dans une société privée. Renault, au début des années 1980, a enregistré des pertes considérables, atteignant jusqu'à 12 milliards de francs en 1983. Le précédent ministre de l'industrie a donc défendu auprès de la Commission des communautés la nécessité d'un abandon de créances supplémentaires de 12 milliards de francs afin de conforter définitivement la situation de Renault, cet aménagement étant effectué pour solde de tous comptes. En mars 1988, la Commission a admis cette possibilité sous réserve que soient prises en compte notamment deux conditions essentielles : imputation des 12 milliards de francs sur le déficit fiscal reportable et changement du statut de Renault. Il apparaît que la régie Renault présente déjà des caractéristiques identiques à celles communes à toutes les entreprises ; elle dispose d'une comptabilité et de commissaires aux comptes ; elle est soumise à l'impôt et elle en assumera la charge dès l'an prochain si ses résultats se confirment ; le Gouvernement attend d'elle qu'elle dégage des bénéfices et il souhaite qu'elle verse des dividendes. Le statut de la régie Renault stipule d'ailleurs " qu'elle se comporte en matière de gestion financière et comptable suivant les règles couramment en usage dans les sociétés industrielles et commerciales ". C'est dans le cadre de la stricte application de ces règles que le Gouvernement entend agir à l'avenir et que s'inscrivent les dispositions réglementaires déjà prises.
