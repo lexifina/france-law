@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104130
+
+- Question : [SEQ870104130](seq870104130.md) — Usine métallurgique de Bracq-Laurent à Achicourt (Pas-de-Calais)
+
+## Réponse
+
+*Industrie, JO du 1987-04-02, page 496*
+
+Réponse. -Compte tenu des pertes très importantes de ses deux derniers exercices et du poids de son passif, la société Bracq-Laurent S.A. (fonderie de fonte spécialisée dans les grosses pièces) a été conduite à sa mise en redressement judiciaire par le tribunal de grande instance de Béthune en avril 1986 et au licenciement collectif de trente-trois personnes. Quatre des cinq sociétés du groupe auquel elle appartenait ont déposé leur bilan lors du premier semestre de 1986 malgré une aide d'urgence des pouvoirs publics. L'activité de Bracq-Laurent S.A. était caractérisée par des conditions particulièrement difficiles : 70 p. 100 des ventes assurées par cinq clients seulement - des activités toutes confrontées à des mutations techniques importantes et à de graves problèmes de marché. Ces difficultés ajoutées à des mesures peut-être trop tardives n'ont pas permis à l'administrateur judiciaire de redresser la rentabilité très dégradée de l'exploitation. En conséqu ence, en l'absence de tout plan de reprise crédible, le maintien de l'activité s'est révélé impossible, ce qui explique la décision du tribunal de commerce de prononcer la liquidation judiciaire de l'entreprise tout en menant à bonne fin les commandes en cours. Les pouvoirs publics, conscients du problème local grave posé par la fermeture de cette entreprise, sont prêts à examiner toute véritable solution industrielle, fondée sur des orientations solides et des financements adaptés. Tout nouveau plan de cession sera naturellement étudié avec grand soin par les instances administratives locales en accord avec l'autorité judiciaire en charge du dossier.
