@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415015
+
+- Question : [SEQ960415015](seq960415015.md) — Nombre de contrats emploi-solidarité
+
+## Réponse
+
+*Travail, JO du 1996-06-20, page 1542*
+
+Réponse. - L'honorable parlementaire souhaite avoir communication du nombre de salariés employés sur un contrat emploi solidarité en 1995 notamment dans le département du Rhône, et connaître les provisions du ministre du travail et des affaires sociales sur le nombre de contrats emploi solidarité en 1996. Le nombre de salariés sur un contrat emploi solidarité au cours de l'année 1995 a atteint 651 764 en France métropolitaine, dont 11 605 dans le département du Rhône, soit respectivement 3,2 p. 100 et 13,3 p. 100 de diminution par rapport à l'année précédente. Ces données concernent les flux de nouvelles conventions et avenants signés par les services extérieurs du ministère du travail et des affaires sociales (1). La différence entre résultats nationaux et résultats du Rhône tient principalement à la bonne tenue relative de l'économie de la région. Fin 1995, les effectifs en contrat emploi solidarité sont estimés à 399 000 pour la France métropolitaine, et 7150 pour le département du Rhône (31 000 pour la région Rhône-Alpes) (2). En ce qui concerne les prévisions pour 1996, les orientations gouvernementales actuelles ont pour objectif une amélioration qualitative du dispositif, notamment en termes de suivi et de formation pour les publics en difficulté. (1) Ces données peuvent légèrement différer de l'enregistrement comptable effectué par le CNASEA, en charge du paiement de ces contrats. (2) Les estimations départementales et régionales reposent sur une hypothèse de stabilité de la répartition des salariés présents en CES par rapport aux données du mois de septembre 1995 (derniers chiffres disponibles). Estimation DARES.
