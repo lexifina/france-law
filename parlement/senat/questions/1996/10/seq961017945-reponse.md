@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017945
+
+- Question : [SEQ961017945](seq961017945.md) — Indemnisation des possesseurs de téléviseurs âgés privés de la réception couleur
+
+## Réponse
+
+*Culture, JO du 1997-02-06, page 367*
+
+Réponse. - Certains téléspectateurs de la région de Bourges ont, en effet, été privés de la réception en couleur. Cette situation résultait de la modification temporaire des normes de diffusion sur l'émetteur de Bourges - Neuvy-les-Deux-Clochers. La fourniture aux téléspectateurs de nouveaux services associés aux programmes de télévision comme l'information détaillée sur les émissions en cours ou à venir (TV Guide), l'accès des banques d'images ou de programmes informatiques, ou l'enrichissement des fonctionnalités du télétexte, impose la suppression de certains signaux d'identification des couleurs, désormais inutiles. Ces signaux ne sont en effet utilisés que par les récepteurs mis en service avant le 1er janvier 1979, les récepteurs plus récents utilisant d'autres modalités de transmission des couleurs. Afin d'apprécier au niveau national le nombre de ces récepteurs, une expérimentation a été menée entre le 10 septembre et le 9 octobre 1996 dans la région couverte par l'émetteur de Bourges - Neuvy-les-Deux-Clochers ; pendant cette période les signaux d'identification couleur ont été supprimés sur toutes les chaînes afin d'évaluer le nombre exact de téléspectateurs affectés par cette suppression. Depuis le 10 octobre 1996, l'expérimentation est terminée et ces téléviseurs ont retrouvé la couleur. Les enseignements tirés des appels, au total peu nombreux, reçus sur le numéro vert qui avait été mis en place à cette occasion permettront de préparer, en collaboration avec les chaînes de télévision, les fabricants et TDF, la transmission au niveau national dans les meilleures conditions.
