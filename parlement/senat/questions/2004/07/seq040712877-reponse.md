@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712877
+
+- Question : [SEQ040712877](seq040712877.md) — Stationnement des professionnels de la santé  travaillant dans des maisons de garde
+
+## Réponse
+
+*Intérieur, JO du 2004-09-30, page 2230*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur la situation des professionnels de la santé exerçant une partie de leur activité dans des maisons de garde qui sont confrontés à des difficultés de stationnement d'autant plus préjudiciables qu'ils interviennent souvent dans des circonstances sanitaires graves. L'exercice de leurs activités, et tout spécialement celui de la médecine d'urgence, justifiant que soient accordées à leur véhicule des facilités de stationnement sur la voie publique, une circulaire du 26 janvier 1995 a diffusé à ce sujet des instructions aux préfets. Comme le précise cette circulaire, les véhicules des médecins arborant le caducée pourront bénéficier de mesures de tolérance en matière de stationnement irrégulier dès lors que leurs propriétaires sont appelés à exercer leurs activités professionnelles au domicile de leurs patients, ou à proximité de leur domicile en cas d'astreinte et essentiellement pour satisfaire à leurs obligations, en cas d'urgence. Il s'agit de " facilités " qui ne sauraient s'analyser en termes de droits. Elles bénéficient aux véhicules qui arborent le caducée. Elles se justifient par les motifs professionnels en cas d'astreinte et en cas d'urgence. Le stationnement irrégulier que tolère cette circulaire ne doit pas être de nature à gêner la circulation générale ou constituer un danger pour les autres usagers de la route. En tout état de cause, la tolérance rappelée ci-dessus est parfaitement connue par les services intéressés de longue date.
