@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221252
+
+- Question : [SEQ991221252](seq991221252.md) — Absence de représentant du ministère au sein du conseil d'administration de la caisse de sécurité sociale des Français de l'étranger
+
+## Réponse
+
+*Économie, JO du 2000-02-03, page 408*
+
+Réponse. - L'article 4 du décret nº 85-292 du 1er mars 1985 pris pour l'application des dispositions de la loi nº 84-604 du 13 juillet 1984 relatives à la caisse des Français de l'étranger et modifiant certaines dispositions des décrets nº 77-1367 du 12 décembre 1977 et nº 81-42 du 21 janvier 1981 dispose en effet que " le ministre chargé de la sécurité sociale et le ministre chargé du budget sont représentés au conseil d'administration par des commissaires du Gouvernement, qui assistent aux séances et sont entendus chaque fois qu'ils le demandent ". En outre, l'article L. 766-10 du code de la sécurité sociale prévoit que " les délibérations du conseil d'administration ne deviennent exécutoires que s'il n'y a pas opposition des autorités mentionnées au premier alinéa dans un délai fixé par décret en Conseil d'Etat dont le point de départ est la communication des délibérations à ces autorités ". Conformément aux textes ainsi rappelés, les délibérations du conseil d'administration de la caisse de sécurité sociale des Français de l'étranger (CFE) ont été transmises à la direction du budget qui les a approuvées tacitement dans le délai réglementaire de vingt jours. L'approbation de la délibération du conseil d'administration de la CFE du mois de décembre fera l'objet d'une approbation explicite commune avec la direction de la sécurité sociale. La direction du budget continue donc d'assurer le suivi effectif des travaux du conseil d'administration de la CFE. Un commissaire du Gouvernement représentant le ministre sera nommé très prochainement.
