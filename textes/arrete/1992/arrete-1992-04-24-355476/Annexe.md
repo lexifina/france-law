@@ -52,7 +52,7 @@ Comités locaux des pêches maritimes et des élevagres marins de Honfleur, Port
 
 Caen (calvados) |
 
-25
+29
 
 |
 
