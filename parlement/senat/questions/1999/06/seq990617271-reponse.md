@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617271
+
+- Question : [SEQ990617271](seq990617271.md) — Licenciements engagés par la COGEMA à la division minière de l'Hérault
+
+## Réponse
+
+*Industrie, JO du 1999-11-18, page 3803*
+
+Réponse. - Le groupe COGEMA poursuit la mise en uvre du plan social pour sa division minière de l'Hérault. Au 31 août 1999, sur les 247 salariés dont ce plan prévoit le reclassement, 90 ont déjà été mutés dans le groupe COGEMA, 95 ont déjà quitté le site de Lodève avec une solution externe au groupe, 30 ont un arrangement acquis et partiront dans les prochains mois, 5 seront affectés à la surveillance du site de Lodève en restant sous contrat COGEMA. Ce sont donc actuellement 220 personnes, soit 89 % de l'effectif concerné, qui disposent d'un reclassement. Un tel dispositif est en cours d'élaboration pour 14 autres personnes, sans avoir encore été définitivement mis en place. La COGEMA, conformément à ses engagements, travaille activement au reclassement des 13 personnes pour lesquelles aucune issue de ce type n'a encore été trouvée. D'autre part, ce plan social prévoit que la COGEMA proposera deux offres d'emploi de reclassement correspondant à des critères précis de qualité à chaque agent concerné. L'entreprise a dû licencier un agent qui avait refusé deux offres répondant à ces critères. Enfin, un salarié dont l'état de santé ne permet pas actuellement d'envisager une activité régulière a été mis, avec son accord, dans la position " d'attente d'offre de reclassement " prévue par le plan social. La COGEMA continue de rechercher pour lui une solution adaptée à sa situation. Dans l'attente, le salarié perçoit une partie de son salaire et les prestations de chauffage et de logement au taux plein, le total de ces ressources ne pouvant être inférieur au salaire minimum de la COGEMA, actuellement de 8 320 francs par mois.
