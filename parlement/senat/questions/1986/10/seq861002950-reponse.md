@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002950
+
+- Question : [SEQ861002950](seq861002950.md) — Relations entre propriétaire et locataire: non-paiement du loyer et impôt foncier
+
+## Réponse
+
+*Équipement, JO du 1987-02-12, page 215*
+
+Réponse. -L'arrêt Couietas (Conseil d'Etat 1923) pose le principe de la responsabilité de l'Etat, en cas de non-exécution d'une décision judiciaire d'expulsion et conduit à l'indemnisation du propriétaire. Un chiffre suffit pour caractériser l'effort de solidarité accompli : les indemnités versées aux propriétaires ont atteint 85 millions de francs en 1985. Cette indemnisation par l'Etat permet de résoudre sur un plan strictement financier le problème fiscal posé par l'honorable parlementaire. Mais ce problème doit tout d'abord être traité sur le plan de la prévention. C'est pourquoi le Gouvernement encourage la création de " dispositifs d'aides aux impayés de loyer " qui associent les bureaux d'aide sociale des communes, les caisses d'allocations familiales, les Assedic, les caisses d'assurance maladie. L'Etat apporte 33 p. 100 du total des contributions financières destinées à des avances remboursables sans intérêt, consenties aux ménages pour leur permettre de payer leur retard de loyer. Depuis 1985, 18 conventions ont été signées dans le secteur privé au niveau local et départemental. Ce mécanisme évite aux propriétaires d'avoir à intenter à l'encontre des locataires de bonne foi des procédures d'expulsion judiciaire, parfois longues. Il leur permet de récupérer rapidement les deux tiers de la dette puisque le prêt est versé directement au bailleur qui propose à son locataire un plan de remboursement pour le tiers restant. L'objectif du Gouvernement est la généralisation de ces dispositifs à l'ensemble de la France. S'agissant de mécanismes décentralisés, leur mise en place repose sur l'initiative et l'accord des partenaires locaux parmi lesquels les élus peuvent jouer un rôle important.
