@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311345
+
+- Question : [SEQ040311345](seq040311345.md) — Aides aux cultures de semences potagères au titre de la PAC
+
+## Réponse
+
+*Agriculture, JO du 2004-07-29, page 1717*
+
+A la suite de la conclusion de l'accord du 26 juin 2003 dans le cadre de la réforme de la politique agricole commune et après une large consultation des différentes parties prenantes, au premier rang desquelles figurent les organisations professionnelles agricoles, le Gouvernement a opéré les choix de mise en oeuvre de la réforme de la politique agricole commune, qui lui paraissent les plus adaptés aux intérêts de l'agriculture française. Pour les productions agricoles concernées, le découplage des aides sera mis en oeuvre en 2006. Ce dispositif, fondé sur des références historiques, sera préparé en 2005 dans le cadre d'une simulation, de sorte que les correctifs qui pourraient s'avérer nécessaires pour prendre en compte l'évolution des situations individuelles puissent encore être apportés avant la mise en application effective en 2006. Dans cette optique, les services du ministère de l'agriculture ont rencontré à plusieurs reprises les représentants de la fédération nationale des agriculteurs multiplicateurs de semences (FNAMS), qui leur ont fait part de leur préoccupation quant au devenir de la production des semences potagères et de betteraves dans le cadre de cette réforme. Les professionnels demandent que les producteurs ne subissent pas la concurrence des agriculteurs bénéficiaires du paiement unique qui souhaiteraient diversifier leurs productions. Le ministre de l'agriculture a chargé ses services d'identifier avec les professionnels, dans l'économie générale de la réforme, de ses textes d'application et des marges de manoeuvre ouvertes aux Etats membres, les axes suivant lesquels les difficultés qu'ils expriment pourraient être prises en compte.
