@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902686
+
+- Question : [SEQ930902686](seq930902686.md) — Réforme de l'assiette des cotisations sociales agricoles
+
+## Réponse
+
+*Agriculture, JO du 1994-02-10, page 301*
+
+Réponse. - Le Gouvernement, lors de la réunion du Premier ministre avec les organisations professionnelles agricoles le 15 novembre dernier, a décidé d'intégrer les éventuels déficits pour leur valeur réelle dans le calcul de la moyenne triennale des revenus professionnels. Cette décision a été prise à partir des conclusions d'un groupe de travail entre l'administration et la profession mis en place lors de la rencontre du 7 mai 1993 entre le Premier ministre et les organisations professionnelles. Cette nouvelle disposition entrera en vigueur en 1994. La prise en compte des déficits n'existant dans aucun autre régime de non-salariés, les cotisations seront aménagées en conséquence, notamment la cotisation minimale maladie qui sera modulée pour tenir compte de l'importance de l'exploitation. Cette disposition relative aux déficits s'accompagnera, pour les exploitants qui avaient opté pour le calcul de leurs cotisations sur les seuls revenus professionnels de l'année précédente, de la possibilité de revenir à la moyenne triennale dès 1994. En outre, afin de réduire le décalage dans le temps entre les revenus et les cotisations, cette moyenne prendra dorénavant en compte, pour les exploitants imposés au réel, les revenus des trois dernières années, soit une réduction du décalage d'un an par rapport à la législation actuelle. Enfin, à titre exceptionnel, le droit d'opter pour l'assiette annuelle au titre de l'année 1994 sera réouvert. Ces améliorations en profondeur et d'une grande importance ainsi apportées à la réforme de l'assiette des cotisations sociales agricoles permettront une meilleure adéquation du prélèvement aux capacités contributives des assurés.
