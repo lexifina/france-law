@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407526
+
+- Question : [SEQ980407526](seq980407526.md) — Bilan de la mise en place dans les directions régionales des douanes de " cellules-conseil aux entreprises "
+
+## Réponse
+
+*Budget, JO du 1998-07-09, page 2228*
+
+Réponse. - En 1997, 219 milliards de francs de marchandises, soit 25 % de nos importations en provenance des pays tiers, ont été introduites dans notre pays à partir d'un port ou d'un aéroport situé dans un autre Etat de l'Union européenne. Cette activité et les emplois correspondants échappent donc aux entreprises françaises de transport, de stockage, de logistique et de commercialisation. Or. les questions douanières sont des paramètres déterminants dans la compétition internationale. Il est donc apparu nécessaire de lever les obstacles réglementaires à l'exportation en aidant les entreprises à améliorer leur compétitivité. Aussi a-t-il été décidé de créer, dans chaque direction régionale des douanes, une cellule conseil qui constitue une structure de proximité pour toutes les entreprises. L'action de ces cellules-conseils repose sur trois grands principes. Tout d'abord, une approche d'audit qui comporte une expertise douanière de l'activité de l'entreprise suivie de la préconisation écrite de solutions personnalisées et adaptées à ses besoins et d'un accompagnement dans la mise en uvre des solutions retenues. Ensuite, une approche professionnalisée par un travail en réseau et le développement d'actions par filières en liaison avec les fédérations, les chambres syndicales et les organismes consulaires. Enfin, les cellules-conseils agissent en collaboration étroite avec les autres services de l'Etat afin de limiter les démarches nécessaires pour obtenir l'information en matière de développement des activités de commerce international.
