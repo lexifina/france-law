@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113347
+
+- Question : [SEQ910113347](seq910113347.md) — Conséquences d'une décision du Conseil constitutionnel
+
+## Réponse
+
+*Premier ministre, JO du 1991-04-11, page 760*
+
+Réponse. - Par décision n° 90-281 DC du 27 décembre 1990, le Conseil constitutionnel a déclaré contraires à la Constitution les dispositions de la loi sur la réglementation des télécommunications modifiant l'article L. 40 du code des postes et télécommunications. A la suite de cette décision, le Gouvernement a engagé la procédure visant à modifier, d'une part, l'article L. 40 du code des postes et télécommunications, d'autre part, l'article 28 de la loi n° 90-1170 du 29 décembre 1990 sur la réglementation des communications, relatif à la recherche des infractions en matière de cryptologie, afin d'introduire dans ces textes les garanties jugées nécessaires par le Conseil constitutionnel. Un projet de loi relatif à ces deux articles a été délibéré en conseil des ministres le 27 février 1991. Si d'autres législations comprennent des dispositions contraires aux principes définis par le Conseil constitutionnel dans sa décision du 27 décembre 1990, leur mise en conformité sera étudiée à l'occasion de réformes concernant ces législations. S'agissant du droit de perquisition de l'administration fiscale, auquel fait allusion l'honorable parlementaire, il convient de préciser que les dispositions relatives à ces perquisitions, codifiées aux articles L. 16 B et L. 38 du livre des procédures fiscales, ont été jugées conformes à la Constitution par le Conseil constitutionnel (décision n° 84-184 DC du 29 décembre 1984 et n° 89-268 DC du 29 décembre 1989). La jurisprudence du Conseil constitutionnel relative aux perquisitions prévoit des garanties supérieures à celles qui résultent de la décision du 27 décembre 1990, laquelle concerne une procédure d'enquête moins contraignante.
