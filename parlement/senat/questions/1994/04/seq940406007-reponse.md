@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940406007
+
+- Question : [SEQ940406007](seq940406007.md) — Contrôle du Parlement français sur l'action législative du Gouvernement français à Bruxelles
+
+## Réponse
+
+*Affaires européennes, JO du 1994-06-02, page 1340*
+
+Réponse. - L'honorable parlementaire a interrogé le ministre délégué aux affaires européennes au sujet des moyens de contrôle au Parlement français sur l'action législative du Gouvernement français à Bruxelles. Les propositions d'actes communautaires, actes soumis au conseil dans le cadre des compétences qu'ils tirent des traités de Paris et de Rome instituant les Communautés européennes, comportant des dispositions à caractère législatif, sont systématiquement transmises à l'Assemblée nationale et au Sénat, dans le cadre de l'article 88-4 de la Constitution, chacune de ces assemblées pouvant voter une résolution sur ces propositions d'actes. Ainsi de juillet 1992 à mars 1994, 233 propositions d'actes communautaires ont été transmises au Parlement. Elles ont donné lieu, à l'Assemblée nationale, à l'adoption de quinze propositions de résolution, et au Sénat, à l'adoption de huit propositions de résolution. S'agissant des activités intergouvernementales menées dans les domaines couverts par les titres V (politique étrangère et de sécurité commune) et VI (justice et affaires intérieures) du traité sur l'Union européenne, elles donnent lieu à une information du Parlement en application de l'article 6 bis de l'ordonnance du 17 novembre 1958. Dans ce cadre, les délégations chargées de suivre les travaux des institutions des communautés disposent notamment du droit d'entendre les ministres et les représentants des institutions des communautés. De plus, si ce projet d'acte aboutit à une convention internationale dont la ratification doit être autorisée par la loi en vertu de l'article 53 de la convention, le Parlement sera alors appelé à en connaître.
