@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204724
+
+- Question : [SEQ021204724](seq021204724.md) — Réduction d'impôts  pour toutes les situations de dépendance en établissement
+
+## Réponse
+
+*Budget, JO du 2004-02-12, page 357*
+
+La loi n° 97-60 du 24 janvier 1997 instituant la prestation spécifique dépendance prévoit la suppression des sections de cure médicale qui, aux termes de l'article 42 de la loi de financement de la sécurité sociale pour 2003, devrait, dans la généralité des cas, être effective au 31 décembre 2005. En outre, s'il est exact que l'article 5 de la loi du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie institue pour tous les établissements accueillant des personnes dépendantes une tarification ternaire provisoire, il semble que dans les faits celle-ci ne soit pas systématiquement mise en oeuvre. Cela étant, le Parlement, soucieux de faciliter la vie des personnes âgées dépendantes, a adopté, dans le cadre de la loi de finances pour 2004, des mesures de nature à alléger leurs charges. Ainsi, le plafond annuel de la réduction d'impôt dont bénéficient actuellement les personnes âgées dépendantes, au titre des frais résultant de leur hébergement dans un établissement de long séjour ou une section de cure médicale ou des dépenses afférentes à la dépendance dans le cas des contribuables accueillis au sein d'un établissement conventionné habilité à recevoir des personnes âgées dépendantes, a été porté de 2 300 euros à 3 000 euros. De plus, la réduction d'impôt a été étendue à tous les établissements qu'ils aient déjà signé une convention ou qu'ils soient soumis à la tarification ternaire provisoire. Le nombre de bénéficiaires devrait ainsi passer de 200 000 à 600 000 personnes. Ces dispositions sont de nature à répondre aux préoccupations exprimées.
