@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608161
+
+- Question : [SEQ030608161](seq030608161.md) — Situation des propriétaires de fonds de commerce en location-gérance en cas de mise en liquidation judiciaire du gérant
+
+## Réponse
+
+*Relations du travail, JO du 2004-07-15, page 1589*
+
+L'attention du Gouvernement est appelée sur les effets néfastes des transferts des contrats de travail des salariés au bailleur lors d'une procédure collective affectant le locataire gérant. La règle du maintien des contrats de travail précisée par l'alinéa 2 de l'article L. 122-12 du code du travail s'applique lorsqu'un fonds de commerce fait l'objet d'une location-gérance et lorsqu'en fin de location-gérance le fonds retourne à son propriétaire. En effet, cet article précise que s'il survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion, transformation du fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre le nouvel employeur et le personnel de l'entreprise. L'énumération de l'article n'étant pas limitative, la Cour de cassation a étendu le champ d'application de cet article à d'autres situations, dès lors que la situation visée correspondait à un transfert d'une entité économique autonome conservant son identité et dont l'activité est poursuivie ou reprise. Cette définition s'applique en cas de fin de location-gérance et de retour au propriétaire du fonds. En principe, l'existence d'une procédure collective affectant l'une des deux parties est sans effet sur l'application de l'article L. 122-12. Ainsi, le transfert des contrats s'effectue normalement vers le bailleur à l'issue du contrat de location-gérance, sauf si le fonds est devenu inexploitable. Cette mesure de transfert des contrats de travail est mise en oeuvre dans le respect par la France de ses obligations communautaires et il n'est pas envisagé de réforme sur ce sujet.
