@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
+ANNEXE I
 
 1° Fonctions exercées dans les services déconcentrés du ministère de l'agriculture et de la pêche :
 
@@ -46,13 +46,17 @@ Technicien, adjoint à un chef d'échelon au département de santé des forêts 
 
 Secrétaire d'échelon au département de santé des forêts ;
 
-Chef du service d'administration générale et responsable de la formation initiale et continue au Centre de formation de personnels
-
-du ministère de l'agriculture (C.F.P.M.A.) ;
+Chef du service d'administration générale et responsable de la formation initiale et continue au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
 
 Responsable de la gestion comptable au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
 
 Contrôleur de pépinière.
+
+DATE D'EFFET : 1er AOÛT 1995
+
+1° Fonctions exercées dans les services déconcentrés du ministère de l'agriculture, de la pêche et de l'alimentation :
+
+Technicien du ministère chargé de l'agriculture, spécialité Vétérinaire, chargé d'enseignement au Centre national de formation des techniciens des services vétérinaires.
 
 2° Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
 
@@ -71,6 +75,16 @@ Responsable de la gestion dans les établissements publics locaux et nationaux d
 Directeur de centre de formation professionnelle et de promotion agricoles ;
 
 Responsable d'une exploitation agricole ou d'un atelier technologique dans un établissement public local ou national d'enseignement technique agricole.
+
+DATE D'EFFET : 1er AOÛT 1995
+
+2° Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
+
+Responsable d'un service commun interécoles d'enseignement supérieur agricole et vétérinaire ;
+
+Responsable de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire.
+
+ANNEXE II
 
 3° Administration centrale :
 
@@ -93,3 +107,23 @@ Responsable du courrier ayant un affranchissement autonome ;
 Chef de standard téléphonique ;
 
 Responsable des parcs automobiles du ministère.
+
+DATE D'EFFET : 1er AOÛT 1995
+
+3° Administration centrale :
+
+Chargé de mission ou chef de bureau :
+
+Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau ;
+
+Adjoint à un chef de bureau ou expert de catégorie A :
+
+Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique ;
+
+Assistante ou expert de catégorie B :
+
+Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonctions particulièrement importantes ou des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou encadrer un effectif important ;
+
+Secrétaire ou expert de catégorie C :
+
+Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes ou agent exerçant des fonctions autonomes en matière de gestion de personnel ou dans un domaine logistique, administratif, financier, informatique ou technique.
