@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521072
+
+- Question : [SEQ920521072](seq920521072.md) — Regroupement des données concernant le littoral
+
+## Réponse
+
+*Équipement, JO du 1992-06-25, page 1442*
+
+Réponse. - Lors du colloque " Observatoire des villes " qui s'est tenu à Nancy le 6 juin 1991, le ministre de l'équipement, du logement, des transports et de l'espace a confirmé l'importance de l'observation de la ville afin d'en comprendre la diversité et la pluralité. Toutefois, il a rappelé qu'il fallait éviter la mise en place de systèmes d'observation trop exhaussifs. A cet égard, il a cité l'Inventaire permanent du littoral qui a dû être abandonné compte tenu des difficultés de mise à jour des documents et de financement. En effet, regroupant neuf services d'administration centrale et leurs services extérieurs, le nombre important des partenaires concernés a rendu difficile : la collecte de l'information (l'usage de la mer, le règlement et la protection des espaces naturels, la maîtrise foncière publique...) ; l'avalisation au niveau local (département et région) de l'ensemble de la banque de données ; la mobilisation des crédits nécessaires dans la mesure oùles financements ne faisaient l'objet d'aucune ligne budgétaire clairement identifiée. Par ailleurs, la périodicité de l'observation fixée au niveau quinquennal, liée aux techniques en vigueur à l'époque : photo interprétation et cartographie numérique, était à la fois trop rigide et trop longue pour une observation appropriée aux spécificités des territoires littoraux. En conclusion, si ce système a permis au début des années 1980 de réaliser un bilan sur le littoral et a constitué un apport non négligeable pour la constitution d'une base de données, les pouvoirs publics, à l'occasion du conseil des ministres du 5 janvier 1991, ont opté pour le regroupement des données existant sur le littoral afin de constituer la base d'un outil plus souple d'observation à créer sur le littoral.
