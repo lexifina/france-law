@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208823
+
+- Question : [SEQ941208823](seq941208823.md) — Conditions de reprise d'une entreprise par les salariés en cas de liquidation judiciaire
+
+## Réponse
+
+*Travail, JO du 1995-02-16, page 390*
+
+Réponse. - L'honorable parlementaire souhaite savoir si, en matière de reprise de l'entreprise par les salariés, au cas où celle-ci est en liquidation judiciaire, il est prévu d'autoriser les salariés à utiliser leurs indemnités de licenciement pour constituer le capital social de la nouvelle entreprise. Il convient de rappeler que la direction de l'entreprise transmise doit être assurée, à l'issue du rachat, par un ou plusieurs salariés ayant participé à l'opération et qu'il résulte implicitement des dispositions législatives et réglementaires, notamment celles relatives aux avantages fiscaux accordés aux salariés repreneurs, que le ou les nouveaux dirigeants de l'entreprise doivent avoir la qualité de salarié. Les dispositions de l'article L. 122-12, alinéa 2, du code du travail peuvent s'appliquer au cas de reprise d'entreprise dans le cadre d'une liquidation et de la transmission d'entreprise dans le cadre d'un RES. Cet article dispose que s'il survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion, transformation du fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre le nouvel employeur et le personnel de l'entreprise. L'entreprise ne connaît dans le cadre d'un RES qu'un simple changement de dirigeant qui ne modifie en rien sa structure ou son activité. Les salariés qui reprennent l'entreprise voient donc se poursuivre leur contrat de travail. Ils ne sont pas licenciés et ne peuvent donc utiliser leur indemnité de licenciement au rachat de leur entreprise.
