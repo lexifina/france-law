@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213202
+
+- Question : [SEQ981213202](seq981213202.md) — Nombre d'accidents de chasse
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-03-18, page 863*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au nombre d'accidents de chasse depuis l'ouverture de la chasse en septembre 1998 et sur les mesures de prévention de tels accidents. Les données statistiques concernant les accidents de chasse pour la saison de chasse 1998-1999 ne sont pas encore disponibles, cette campagne de chasse n'étant pas achevée. Une réflexion plus globale est engagée pour réduire les risques d'accidents inhérents à la chasse à tir. Un débat sur la sécurité lors de la pratique de la chasse a été engagé au sein du Conseil national de la chasse et de la faune sauvage qui réunit des représentants de plusieurs ministères, de l'Office national de la chasse, des chasseurs, des collectivités locales, des organisations professionnelles agricoles et forestières, d'organismes scientifiques et d'associations de protection de la nature. Une action de sensibilisation sur la sécurité à la chasse a été engagée en 1998 par l'Office national de la chasse, l'Union nationale des fédérations départementales des chasseurs et l'Association nationale des chasseurs de grand gibier. Elle a permis de compléter la connaissance des agents formateurs sur le thème de la sécurité. Le " Petit livre vert du chasseur ", document réalisé par l'Union nationale des fédérations départementales des chasseurs avec le soutien financier du Conseil national de la chasse et de la faune sauvage et remis gratuitement à tous les chasseurs lors de la validation de leur permis de chasser, a été consacré, dans sa version 1998, à la sécurité.
