@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209010
+
+- Question : [SEQ941209010](seq941209010.md) — Pouvoir du conseil syndical de copropriété concernant les candidatures à l'élection des membres du conseil
+
+## Réponse
+
+*Justice, JO du 1995-03-16, page 644*
+
+Réponse. - Dans un souci d'améliorer et de faciliter la gestion de l'immeuble en copropriété, l'article 21 de la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis a prévu qu'un conseil syndical assiste le syndic et contrôle sa gestion. Organe de contrôle et d'assistance dépourvu de personnalité juridique, le conseil syndical n'a pas de pouvoir de décision. Il ne peut donc pas, dans le silence du règlement de copropriété, décider des modalités de l'élection de ses membres, et notamment fixer un délai au-delà duquel les candidatures ne seraient plus recevables. Si le règlement de copropriété n'a pas fixé les règles relatives à l'organisation et au fonctionnement du conseil syndical, l'article 22 du décret du 17 mars 1967 pris pour l'application de la loi précitée du 10 juillet 1965 attribue compétence à l'assemblée générale, qui désigne les membres du conseil syndical, pour fixer ces règles à la majorité de l'article 25 de la loi du 10 juillet 1965. Il résulte de ce qui précède que seuls le règlement de copropriété et l'assemblée générale des copropriétaires peuvent déterminer les modalités d'organisation pour la désignation des membres du conseil syndical et fixer éventuellement un délai pour les déclarations de candidature, étant observé que le délai de huit semaines mentionné par l'honorable parlementaire paraît excessif. En tout état de cause, les modalités ainsi fixées ne pourraient faire échec au pouvoir reconnu au juge par le dernier alinéa de l'article 21 de la loi du 10 juillet 1965 de désigner, dans les conditions prévues par ce texte, les membres du conseil syndical.
