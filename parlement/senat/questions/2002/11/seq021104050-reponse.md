@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104050
+
+- Question : [SEQ021104050](seq021104050.md) — Décret d'application de l'article 20 de la loi relative à la démocratie de proximité
+
+## Réponse
+
+*Libertés locales, JO du 2003-01-23, page 289*
+
+L'article 69 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité ouvre la possibilité pour tout ancien maire d'une commune de plus de 1 000 habitants, adjoint d'une commune de plus de 20 000 habitants, président de conseil général ou régional, vice-président de ces mêmes assemblées ayant reçu délégation du président, de percevoir à l'issue du mandat exercé, une allocation de fin de mandat. La perception de cette allocation est subordonnée à plusieurs conditions : l'intéressé devait avoir abandonné son activité professionnelle pour l'exercice de son mandat électif, il doit par ailleurs à l'issue de celui-ci avoir repris une activité professionnelle lui procurant des revenus inférieurs aux indemnités de fonction précédemment perçues ou être inscrit à l'Agence nationale pour l'emploi. Cette allocation est de nature différentielle, son montant étant au plus égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle préalablement perçue et l'ensemble des ressources que perçoit le demandeur à l'issue du mandat. En application de l'article L. 1621-2 du code général des collectivités territoriales, la liquidation de cette allocation est assurée par un fonds de financement alimenté par les cotisations des collectivités de plus de 1 000 habitants. Les deux décrets, respectivement relatifs aux modalités de perception de l'allocation de fin de mandat ainsi qu'au taux de cotisation au fonds de financement, nécessaires à l'application de ces dispositions législatives, sont en cours de préparation en vue d'une publication au printemps prochain pour une première utilisation lors des élections cantonales et régionales de 2004.
