@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516519
+
+- Question : [SEQ990516519](seq990516519.md) — Education nationale : véritable programmation pluriannuelle des recrutements
+
+## Réponse
+
+*Éducation, JO du 1999-07-29, page 2580*
+
+Réponse. - La détermination du volume de postes à offrir aux concours des personnels enseignants du second degré s'appuie sur des prévisions de recrutement, lissées sur cinq ans, qui prennent en compte, à la fois, les départs définitifs des professeurs, notamment en retraite, les besoins de remplacement et les évolutions attendues de la démographie scolaire. Le modèle de projections des besoins en nouveaux enseignants titulaires du second degré public organise, pour chaque discipline, la confrontation du nombre d'heures hebdomadaires d'enseignement effectuées par les enseignants en activité avec le volume d'heures hebdomadaires d'enseignement nécessaires à la scolarisation des élèves pour une même année. Le déficit horaire ainsi calculé en prévision permet d'estimer des besoins en nouveaux enseignants titulaires. Les actuelles projections établissent les besoins annuels moyens en nouveaux enseignants titulaires du second degré à 12 200 pour chacune des rentrées scolaires 2000 à 2004 et ont été utilisées pour déterminer et répartir les postes offerts aux concours de la session 1999. Les postes proposés aux seuls concours externes en 1999 s'établissent à 13 704 places et restent ainsi supérieurs au besoin prévisionnel de recrutement. Il convient également de signaler que ce volume de postes est plus élevé que le nombre des lauréats constaté lors de la session 1998, afin de tenir compte de la déperdition entre postes et lauréats effectivement nommés professeurs stagiaires et de continuer également à offrir des possibilités de débouchés professionnels aux jeunes diplômés de l'enseignement supérieur.
