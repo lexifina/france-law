@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705728
+
+- Question : [SEQ890705728](seq890705728.md) — Réalisation du plan câble
+
+## Réponse
+
+*Postes, JO du 1989-09-21, page 1556*
+
+Réponse. - Les réorientations nécessaires ont été annoncées, dès octobre 1988, lors du congrès " Médiaville " ; elles visaient en particulier à mieux rapprocher l'offre de la demande. Au plan des réalisations, plus d'un million de prises raccordables avaient été livrées par France Télécom à la fin de 1988, et le programme des années suivantes est fixé à un million de prises par an, ce qui respecte les 50 conventions signées entre villes, opérateurs commerciaux et France Télécom au titre du plan câble de 1982. A la fin de 1989, les 50 sites en cause seront tous en chantier, voire terminés pour une demi-douzaine d'entre eux. S'agissant des services offerts, France Télécom s'efforce, dans son domaine propre, de mettre en oeuvre les orientations annoncées à " Médiaville 89 ". Pour ce faire, il a multiplié les propositions et ouvert des négociations avec les villes et les opérateurs pour permettre de promouvoir une offre de services attractive : augmentation du nombre de canaux, passage des canaux non cryptés de T.D.F. 1 dans les services de base, adaptation des réseaux au D2MAC... Par ailleurs, France Télécom et les opérateurs proposent aux gestionnaires d'immeubles collectifs sociaux, en particulier aux offices d'H.L.M., un service de distribution appelé " service antenne ", à tarif réduit. La mise en oeuvre de cette mesure devrait fortement accélérer la pénétration des services du câble dans l'habitat collectif. En tout état de cause, au-delà du rôle propre de France Télécom, les priorités dans les actions à conduire apparaissent comme devant porter sur la diversification de l'offre de programmes du service de télédistribution et une meilleure adaptation de la politique tarifaire au marché actuel du câble en France, ce qui dépend, dans une large mesure, des opérateurs commerciaux.
