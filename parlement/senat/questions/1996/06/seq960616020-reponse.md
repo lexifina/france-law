@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616020
+
+- Question : [SEQ960616020](seq960616020.md) — Assurance maladie : veuves et divorcées
+
+## Réponse
+
+*Travail, JO du 1996-10-10, page 2648*
+
+Réponse. - L'article 5 de la loi no 88-16 du 5 janvier 1988 et son décret d'application no 88-677 du 6 mai 1988 avaient prévu, dans le cadre du statut social de la mère de famille, que les personnes ayants droit d'un assuré décédé ou divorcé continuaient de bénéficier pour elles-mêmes et leurs ayants droit, à compter de quarante-cinq ans, des prestations en nature du dernier régime obligatoire d'assurance maladie et maternité dont elles avaient relevé, dès lors qu'elles avaient ou avaient eu au moins trois enfants à charge. L'article 1er de la loi du 27 janvier 1993, devenu l'article L. 161-15, alinéa 3, du code de la sécurité sociale et le décret no 94-79 du 21 janvier 1994 ont supprimé la condition d'âge qui permettait l'accès à ce dispositif. Le système actuel permet donc de reconnaître un droit illimité à l'assurance maladie à des personnes devenues veuves ou ayant divorcé au cours des douze mois ou, le cas échéant, des trente-six mois précédant la date d'entrée en vigueur de la loi. En conséquence, les personnes qui ont épuisé la période de maintien de droit prévue aux deux premiers alinéas de l'article L. 161-15 (douze à trente-six mois, le cas échéant) avant la date d'application de la loi no 93-121 du 27 janvier 1993 (ou celle de la loi no 88-16 du 5 janvier 1988 pour les personnes âgées de plus de quarante-cinq ans à la date de son entrée en vigueur) ne peuvent bénéficier des prestations en nature du régime général et doivent adhérer à l'assurance personnelle pour avoir une couverture maladie et maternité. Le projet d'assurance maladie universelle, actuellement à l'étude dans mes services, a notamment pour objectif d'octroyer une couverture maladie et maternité aux personnes actuellement dépourvues d'une protection sociale obligatoire.
