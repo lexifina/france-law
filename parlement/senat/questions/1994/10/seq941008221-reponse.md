@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008221
+
+- Question : [SEQ941008221](seq941008221.md) — Mesures pour l'emploi et l'insertion dans les départements d'outre-mer
+
+## Réponse
+
+*Travail, JO du 1994-12-15, page 2979*
+
+Réponse. - L'honorable parlementaire interroge le ministre du travail, de l'emploi et de la formation professionnelle sur la création d'un secteur d'utilité sociale dans tous les départements où la proportion de jeunes de moins de vingt-cinq ans bénéficiant du RMI est supérieure à 5 p. 100, selon le modèle prévu par la loi no 94-638 du 26 juillet 1994 pour l'emploi et l'insertion dans les départements d'outre-mer. La spécificité des départements d'outre-mer, et notamment l'importance du nombre des bénéficiaires du RMI, a déterminé le Gouvernement à adapter le dispositif des contrats emploi-solidarité et à mettre en place une agence départementale d'insertion dans chacun d'entre eux. Cependant, il ne paraît pas opportun d'étendre à l'heure actuelle un tel dispositif à la métropole, alors même qu'il n'a pas encore trouvé application dans les départements d'outre-mer. En effet, l'accès à l'emploi des jeunes rencontrant des difficultés particulières peut être assuré de façon satisfaisante dans le cadre de contrats emploi-solidarité. Il n'est pas nécessaire de mettre en place une agence départementale, qui viendrait se substituer à l'employeur, alors que les liens entre celui-ci et la personne embauchée sont à la base du processus de réinsertion. En revanche, l'intervention du fonds partenarial créé par l'article 21 de la loi quinquennale no 93-1313 du 20 décembre 1993 doit permettre la mise en oeuvre d'actions cofinancées par l'Etat et les collectivités territoriales afin d'améliorer l'efficacité des dispositifs de la politique de l'emploi et d'accroître les chances d'insertion dans le secteur marchand des jeunes en difficulté.
