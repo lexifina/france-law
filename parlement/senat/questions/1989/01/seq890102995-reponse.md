@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102995
+
+- Question : [SEQ890102995](seq890102995.md) — Evolution du tourisme rural
+
+## Réponse
+
+*Agriculture, JO du 1989-04-20, page 623*
+
+Réponse. - Les activités d'accueil à la ferme représentent un aspect de la valorisation de l'économie touristique dont bénéficient aussi bien les touristes que les exploitants agricoles. Ceux-ci manifestent un intérêt croissant pour ce type d'activité qui sont désormais facilitées par des mesures concrètes fiscales, sociales et économiques. Il est vrai cependant que l'agritourisme ne concerne en France qu'environ 2 p. 100 des agriculteurs, alors qu'en Autriche, par exemple, la proportion des agriculteurs concernés est beaucoup plus élevée. Afin de renouveler le dynamisme nécessaire au développement de cette activité (comme des autres activités dites complémentaires), les agriculteurs doivent la considérer comme un véritable métier et l'exercer avec professionnalisme, tant au niveau de la qualité de l'hébergement et de l'accueil que de l'intégration dans une organisation plus vaste de labellisation, de gestion et de commercialisation. Le ministère de l'agricultureet de la forêt se préoccupe de cette nécessaire évolution et, avec les organismes professionnels agricoles, a notamment entrepris une étude dont l'objet est d'obtenir, dans le cadre de la diversification des activités agricoles, des références techniques et économiques d'exploitations agricoles ayant des activités de tourisme et de loisirs. Les références obtenues devront permettre d'éclairer les choix d'investissements touristiques susceptibles d'intervenir, d'informer et de sensibiliser les conseillers et intermédiaires de développement, de faciliter à court terme la définition de normes départementales prévues par le décret n° 88-176 du 23 février 1988 relatif aux aides à l'installation de jeunes agriculteurs. Les résultats seront disponibles au cours de l'année 1989.
