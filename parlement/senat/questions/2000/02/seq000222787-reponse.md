@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222787
+
+- Question : [SEQ000222787](seq000222787.md) — Numerus clausus à la faculté de médecine de Nice
+
+## Réponse
+
+*Santé, JO du 2000-05-04, page 1613*
+
+Réponse. - La secrétaire d'Etat à la santé et aux handicapés informe l'honorable parlementaire que la région Provence-Alpes-Côte d'Azur possède l'une des densités médicales les plus élevées de France. D'après les sources statistiques du ministère de l'emploi et de la solidarité, la densité moyenne en France pour l'ensemble des médecins spécialistes et des médecins généralistes est respectivement, au 1er janvier 1998, de 149,1 et 146,3 pour 100 000 habitants. Cette densité est de 196 pour les médecins spécialistes et de 175,2 pour les médecins généralistes en Provence-Alpes-Côte d'Azur. Par ailleurs, le centre hospitalier universitaire (CHU) de Nice a vu son numerus clausus augmenter de deux unités pour le concours organisé en 1999 par rapport à 1998, passant ainsi de 70 à 72 postes. Pour le concours 2000, le numerus clausus de Nice est passé à 73 postes. En outre, la subdivision de Nice a enregistré pour 1999 une augmentation de postes proposés aux concours d'internat par rapport à 1998 puisque, pour les concours dits européens, 5 postes ont été ouverts (1 en anesthésiologie-réanimation chirurgicale, 1 en gynécologie obstétrique, 3 en médecine du travail) contre 3 en médecine du travail en 1998 et pour le concours à titre étranger, 2 postes ont été ouverts contre aucun en 1998. Le total des postes proposés pour 1999 est donc de 45 (38 + 5 + 2) contre 43 (40 p 3 p 0) en 1998 pour Nice. En ce qui concerne le concours de l'internat de droit commun, ses modalités permettent à l'étudiant de choisir la discipline et la subdivision d'internat en fonction du classement obtenu. La répartition des postes devrait permettre aux internes d'accomplir une formation au sein de régions dans lesquelles il est nécessaire d'encourager l'implantation de futurs spécialistes.
