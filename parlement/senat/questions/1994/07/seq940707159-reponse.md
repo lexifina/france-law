@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707159
+
+- Question : [SEQ940707159](seq940707159.md) — Développement des " emplois de service aux personnes "
+
+## Réponse
+
+*Budget, JO du 1994-12-01, page 2831*
+
+Réponse. - Le régime général a déjà mis en place un système très significatif d'allégement des charges patronales des employeurs familiaux, d'une part en faveur de l'ensemble des employeurs, par un système optionnel d'assiette forfaitaire de cotisations qui permet d'alléger en moyenne de 12 p. 100 le coût des cotisations patronales et salariales, d'autre part au profit des personnes âgées (dispositif d'exonération des cotisations patronales de sécurité sociale de l'article L. 241-10, dont le coût a été de 1,3 milliard de francs en 1993), et au profit de la garde d'enfant à domicile (AGED). Au travers du ciblage de ces mesures, il apparaît sans doute opportun de souligner les priorités que doivent être le soutien aux personnes âgées et le développement de la garde d'enfant. En outre, les services à domicile représentent des besoins importants et leur développement constitue en effet un axe important de lutte contre le chômage et le travail au noir. C'est la conclusion du rapport cité par l'honorable parlementaire. C'est pourquoi le Gouvernement a décidé de développer les emplois des services. A cette fin, le projet de loi de finances pour 1995 prévoit que le plafond de l'avantage fiscal accordé aux particuliers employeurs sera relevé de 26 000 F à 90 000 F à compter du 1er janvier 1995. L'avantage en impôt pourra donc atteindre 45 000 F contre 13 000 F aujourd'hui. Cette somme représente l'ensemble des charges sociales d'un salarié à plein temps rémunéré au SMIC, alors que le système actuel n'apporte un avantage que pour 10 heures par semaine au maximum. Ce dispositif me paraît répondre à l'attente de l'honorable parlementaire.
