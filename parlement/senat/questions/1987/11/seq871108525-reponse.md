@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108525
+
+- Question : [SEQ871108525](seq871108525.md) — Pas-de-Calais : situation de l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1988-03-10, page 333*
+
+Réponse. -Suite aux mauvaises conditions climatiques du printemps et de l'été 1987, les agriculteurs du Pas-de-Calais ayant subi des pertes sur le blé et le lin textile peuvent d'ores et déjà solliciter auprès de leur caisse de crédit agricole les prêts spéciaux calamités conformément à l'arrêté préfectoral du 24 novembre 1987. Par ailleurs, le Gouvernement a pris lors de la conférence annuelle du 7 juillet 1987, un ensemble de mesures d'allègement des charges financières des exploitants. Les jeunes agriculteurs ayant souscrit des prêts spéciaux d'installation au taux en vigueur entre octobre 1981 et juillet 1986 (6 p. 100 en zone de plaine, 4,75 p. 100 en zone défavorisée et de montagne) bénéficieront d'une diminution de 1,75 point du taux des intérêts inclus dans leur annuité 1988. En outre, les intérêts des prêts non bonifiés d'équipement agricole souscrits entre 1982 et 1985 seront pris en charge au titre de l'annuité 1988 à hauteur de 2,5 points, et ceux des prêts aux productions végétales spéciales à hauteur d'un point. De plus, les producteurs de légumes bénéficieront d'une prise en charge supplémentaire de deux points sur ces mêmes prêts d'équipement non bonifiés, ce qui se traduira au total par une prise en charge de 4,5 points des intérêts dus en 1988. D'autre part, lorsque des calamités ont été subies par des exploitants agricoles, l'administration fiscale procède, sur demande, aux rectifications de bénéfice forfaitaire qui paraissent devoir être faites, ainsi qu'aux dégrèvements de taxe foncière sur les propriétés bâties prévus par les textes. Il appartient donc aux agriculteurs sinistrés du Pas-de-Calais et à leurs représentants d'engager les démarches nécessaires en la matière.
