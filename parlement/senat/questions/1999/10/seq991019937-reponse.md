@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019937
+
+- Question : [SEQ991019937](seq991019937.md) — Producteurs français de sapins de Noël
+
+## Réponse
+
+*Agriculture, JO du 2000-03-16, page 945*
+
+Réponse. - La situation des producteurs de sapins de Noël naturels a fait l'objet d'un examen attentif des services du ministère de l'agriculture et de la pêche avec les représentants de ces professionnels. Ces derniers aspirant à une meilleure structuration du marché et à une réglementation mieux adaptée aux réalités qu'ils rencontrent, des réflexions ont été engagées dans plusieurs domaines pour leur assurer des conditions d'exercice de leur profession plus équitables au regard de la concurrence. En ce qui concerne la réglementation des boisements, un aménagement des textes en vigueur, qui soumettent les plantations de sapins de Noël aux mêmes interdictions et réglementations que les plantations et semis d'essences forestières à caractère permanent, va être étudié. Il pourrait être admis que les producteurs de sapins de Noël soient dispensés d'autorisation, sous réserve qu'ils respectent les conditions prévues pour ces plantations dans les arrêtés fixant les périmètres de réglementation des boisements et qu'ils établissent une déclaration préalable de plantation ; les préfets devront toutefois conserver la possibilité de verbaliser et de faire détruire les boisements issus d'arbres de Noël restés en place au terme de la durée normale d'occupation du sol. Une expertise des mesures de contrôle qui pourraient être mises en place au stade de la commercialisation va également être entreprise en concertation avec l'association des producteurs de sapins de Noël naturels. Bien entendu, les propositions émises devront être examinées au vu de la situation d'ensemble créée par les tempêtes de décembre 1999, qui vont sans doute bouleverser les conditions prééxistant dans la filière bois.
