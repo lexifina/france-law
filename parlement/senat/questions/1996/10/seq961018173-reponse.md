@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018173
+
+- Question : [SEQ961018173](seq961018173.md) — Régimes sociaux de pluri-actifs agricoles
+
+## Réponse
+
+*Agriculture, JO du 1997-01-23, page 194*
+
+Réponse. - En application de la réglementation en vigueur les personnes qui exercent plusieurs activités professionnelles doivent être affiliées et cotiser en assurance maladie dans chacun des régimes dont relèvent ces activités. Ce principe, issu de la loi du 28 décembre 1979 complétée par la loi du 9 juillet 1984, a le mérite d'assurer une plus grande équité dans la répartition de la contribution au financement de l'assurance maladie entre les personnes tirant leurs revenus de plusieurs activités professionnelles et celles dont les revenus proviennent de l'exercice d'une seule activité. Toutefois, les droits à prestations maladie ne sont ouverts que dans le régime de l'activité principale déterminée selon les règles fixées par les articles R. 615-2 et suivants du code de la sécurité sociale. Afin de simplifier les démarches administratives du pluriactif en matière de protection sociale, le principe du rattachement d'un pluriactif à une " caisse pivot " du régime de son activité principale avait été prévu dans la loi no 93-121 du 27 janvier 1993. Cependant, l'article 43 de la loi no 95-95 du 1er février 1995 de modernisation de l'agriculture a modifié l'article 34 de la loi du 27 janvier 1993 précitée et offre aux pluriactifs la possibilité de choisir pour la gestion de leur protection sociale une caisse de rattachement qui ne soit pas obligatoirement celle de leur activité professionnelle principale sous réserve de conventions conclues entre les caisses concernées. Le décret d'application de cette mesure doit paraître prochainement. Cette disposition permettra ainsi aux pluriactifs qui le souhaitent d'avoir un seul interlocuteur. Des réflexions sont en cours sur la mise en place d'un régime d'assurance maladie universelle.
