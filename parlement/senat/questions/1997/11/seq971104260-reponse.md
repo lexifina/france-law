@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104260
+
+- Question : [SEQ971104260](seq971104260.md) — Mise en place d'un observatoire concernant l'emploi et l'aéroport de Roissy
+
+## Réponse
+
+*Équipement, JO du 1998-02-12, page 488*
+
+Réponse. - L'aéroport est un lieu d'activité qui génère de nombreux emplois directs et indirects. Actuellement, sur la plate-forme aéroportuaire de Roissy-Charles-de-Gaulle, 500 entreprises différentes emploient plus de 45 000 personnes. Pour l'avenir, on estime le nombre d'emplois à créer grâce au développement de l'activité de l'aéroport à 1 000 emplois directs et 1 000 emplois indirects par million de passagers supplémentaires. Ces emplois bénéficieront à l'ensemble de l'Ile-de-France et au-delà. Mais on constate aujourd'hui que la part des emplois revenant aux riverains reste insuffisante. Il faut donc l'augmenter de manière très significative, notamment pour le Val-d'Oise, la Seine-Saint-Denis et la Seine-et-Marne, en améliorant en particulier l'offre de transports en commun et l'information des demandeurs d'emploi résidant dans ces départements. Un observatoire de l'emploi sera mis en place afin de mieux mesurer la croissance des emplois liés à l'activité aéroportuaire, d'identifier les besoins de formation et les moyens de contribuer à la création d'emplois stables. Un comité d'orientation de cet observatoire de l'emploi, comprenant l'ensemble des acteurs institutionnels de l'emploi et de la formation (ANPE, direction du travail, de l'emploi et de la formation, missions locales jeunes...), des représentants des collectivités locales, d'Aéroports de Paris et des autres entreprises de la plate-forme, est en cours de constitution. Le Conseil régional a été saisi d'une proposition afin d'y associer également l'Office régional de l'emploi et de la formation (OREF).
