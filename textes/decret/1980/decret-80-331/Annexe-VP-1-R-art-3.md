@@ -1,13 +1,5 @@
-# Article Annexe VP-1-R, art. 3
+# Article 3
 
-1. Tout conducteur de véhicule doit être âgé de plus de dix-huit ans.
+Personnel de conduite : Pour les véhicules sur piste, soumis aux dispositions des articles 3 à 29 du présent titre, d'un poids total en charge de plus de 3,5 tonnes ou transportant plus de neuf personnes, la vérification d'aptitude des conducteurs prévue à l'article 28 du titre Equipements de travail est renouvelable chaque année ; pour ces véhicules, dans le cadre de la vérification d'aptitude initiale et de ses renouvellements, le médecin du travail peut faire procéder à des tests psychotechniques.
 
-2. Le conducteur de tout véhicule doit être titulaire d'une autorisation de conduire, délivrée par l'exploitant et validée chaque année.
-
-Cette autorisation ne peut être délivrée qu'après une adaptation à la conduite du véhicule dans l'exploitation.
-
-3. Les conducteurs des véhicules d'un poids total en charge de plus de 3,5 tonnes ou des véhicules transportant plus de neuf personnes ne peuvent recevoir l'autorisation de conduire que :
-
-- s'ils ont été soumis à une vérification d'aptitude, renouvelable chaque année, par le médecin du travail qui pourra faire procéder à un contrôle psychotechnique ;
-
-- et s'ils ont reçu une formation à la conduite de la catégorie concernée de véhicules, dispensée par un service qualifié.
+En outre, pour l'ensemble des véhicules sur pistes soumis aux articles 3 à 29 du présent titre, l'autorisation de conduite doit être validée chaque année ; cette validation ne peut intervenir, pour les véhicules soumis au renouvellement de la vérification d'aptitude mentionnée à l'alinéa précédent, que si cette dernière s'est avérée positive.

@@ -1,6 +1,6 @@
-# Article Annexe VP-1-R, art. 2
+# Article 2
 
-1. Les dispositions des sections 1 et 2 sont applicables dans les travaux à ciel ouvert ainsi que dans les installations de surface et dépendances légales qui sont imbriquées dans ces travaux ou contiguës à ces travaux.
+Domaine d'application : 1. Les dispositions des sections 1 et 2 sont applicables dans les travaux à ciel ouvert ainsi que dans les installations de surface et dépendances légales qui sont imbriquées dans ces travaux ou contiguës à ces travaux.
 
 Les dispositions des sections 1 et 3 sont applicables dans les travaux souterrains.
 
@@ -21,6 +21,8 @@ Les dispositions de l'article 5, paragraphe 5, du titre Véhicules sur pistes ne
 3. Dans les travaux souterrains, les véhicules dont l'utilisation hors des chantiers est occasionnelle, ainsi que ceux conçus pour pouvoir se déplacer à une vitesse au plus égale à 4 km/h ne sont pas soumis aux dispositions des articles 3 à 18 et 28 à 29.
 
 4. Les entreprises extérieures qui n'effectuent pas des travaux d'exploitation proprement dits et dont les interventions sont occasionnelles et de courte durée, ainsi que les tiers autres que les entreprises extérieures ne sont pas soumis aux dispositions des articles 3 à 29.
+
+Pour ces entreprises, l'autorisation de conduite des véhicules exigée par l'article 28 du titre Equipements de travail peut être délivrée par le chef de l'entreprise extérieure sans adaptation à la conduite dans l'exploitation.
 
 L'utilisation de leurs véhicules doit faire l'objet d'instructions de l'exploitant.
 
