@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104254
+
+- Question : [SEQ870104254](seq870104254.md) — Prévention de risques majeurs: aides aux petites communes
+
+## Réponse
+
+*Intérieur, JO du 1987-04-16, page 590*
+
+Réponse. -Le ministre de l'intérieur accorde, dans toute la mesure du possible, une subvention aux communes qui, soumises à des problèmes de mouvements de terrain, sont désireuses de procéder à des études géologiques en vue de prévenir la catastrophe, en atténuer éventuellement les effets et organiser, le cas échéant, les secours. Dans cette perspective, le ministère de l'intérieur a attribué, en 1986, à la commune de Vailhauquès (Hérault), qui a subi un sérieux affaissement en décembre 1985, une aide financière afin de lui permettre de confier une étude géologique au Bureau de recherches géologiques et minières (B.R.G.M.). Compte tenu de l'ampleur des dégâts provoqués par la catastrophe et de l'incertitude sur la stabilité des terrains, le ministère de l'intérieur envisage de verser en 1987 une nouvelle subvention à la commune. Jusqu'à maintenant les problèmes financiers rencontrés par les communes pour engager des études ont pu être résolus sans l'existence d'un fonds d'aide national spécifique. Le plus souvent, des solutions ont été trouvées dans le cadre d'un effort financier consenti par l'Etat, par les collectivités locales et, parfois aussi, par des organismes publics ou privés intéressés à la sécurité du fait de leur implantation sur les lieux menacés. A titre d'information, il est signalé à l'honorable parlementaire que la Fondation nationale pour la prévention des risques naturels organise en 1987 un concours, doté de 250 000 F par la Caisse centrale de réassurance, destiné à récompenser une collectivité locale ayant fait preuve d'initiative en matière de prévention des risques naturels.
