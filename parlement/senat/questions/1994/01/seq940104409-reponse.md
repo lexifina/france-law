@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104409
+
+- Question : [SEQ940104409](seq940104409.md) — Inondations catastrophiques de décembre 1993
+
+## Réponse
+
+*Environnement, JO du 1994-03-31, page 733*
+
+Réponse. - L'honorable parlementaire souhaite être informé sur les mesures que compte prendre le Gouvernement pour limiter les inondations. Les inondations qui ont récemment frappé la France ont occasionné d'énormes dégâts affectant la situation des populations des zones inondées et causé de lourdes pertes tant aux particuliers qu'aux collectivités locales. Force est de constater que la mise en place des différents moyens réglementaires visant à organiser la prévention contre les risques naturels dont le plus connu est le plan d'exposition aux risques (PER) créé par la loi du 13 juillet 1992 a été d'une application trop lente. C'est pourquoi le Gouvernement a pris des mesures visant à accélérer le processus dans le sens d'une prévention mieux organisée et plus efficace. Un nouveau dispositif, le plan de prévention des risques (PPR), dont l'instruction sera conduite sous l'autorité du préfet, remplacera les outils existants et permettra de définir des zonages adaptés aux risques et aux solutions locales. Une proposition de modification de la loi sur ce sujet est en cours d'élaboration. Il permettra également de prescrire des aménagements pour les constructions existantes, soit par arrêté préfectoral, soit par décret en Conseil d'Etat, d'instaurer des servitudes d'utilité publique aux POS, de servir d'instrument de base à la définition de plan de sécurité et à l'information préventive des populations. Toutefois, dans l'attente de donner un effet juridique à ces dispositions, le Gouvernement a prévu que les préfets pourront contrôler tout projet d'aménagement dans les zones où l'eau a atteint une hauteur importante.
