@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307135
+
+- Question : [SEQ980307135](seq980307135.md) — Service civil du service national
+
+## Réponse
+
+*Défense, JO du 1998-06-04, page 1781*
+
+Réponse. - La loi no 97-1019 du 28 octobre 1997 portant réforme du service national organise en particulier la phase de transition vers l'armée professionnelle qui s'achèvera fin 2002. Seuls les jeunes gens nés avant le 1er janvier 1979 effectueront durant cette période un service national dans les conditions actuelles jusqu'en 2002. Or l'article L. 6 du code du service national dispose que les besoins des armées sont satisfaits en priorité dans la répartition des assujettis aux différentes formes du service national. Il est, en effet, impératif que les armées disposent d'appelés en nombre et en qualité suffisants pour que la transition vers l'armée professionnelle s'effectue dans des conditions qui garantissent le maintien des capacités opérationnelles des forces. Aussi, l'année 1998 marque-t-elle une première décroissance significative des effectifs incorporés au titre des formes civiles (coopération, aide technique, police, sécurité civile) et des protocoles (ville, environnement). Cette décroissance permet une répartition adaptée des appelés entre les affectations au sein des forces et de la gendarmerie nationale et les affectations dans les autres services publics. Dans le cadre du protocole environnement, les 375 jeunes prévus pour l'année 1998 sont, à la demande du ministère de l'aménagement du territoire et de l'environnement, incorporés au cours du premier semestre. Il ne peut être envisagé de réaliser des incorporations au titre de ce protocole au-delà du mois de juin 1998. Par ailleurs, s'agissant du protocole ville, aucun quota n'a été imposé aux préfets. Par contre, une répartition de la ressource en appelés a été effectuée en accord avec les ministères concernés par ce protocole.
