@@ -1,21 +1,17 @@
 # Article Annexe III
 
-En fonction du lieu de réalisation du prélèvement qui a entraîné la suspicion, les prélèvements de confirmation sont définis ci-après.
+Chapitre Ier : Nature des prélèvements.
 
-A. - Lorsque le résultat d'analyse ayant entraîné la suspicion concerne un prélèvement réalisé dans un couvoir :
+1. Les prélèvements de confirmation sont constitués pour chaque troupeau à contrôler :
 
-- d'une part, un prélèvement dans chaque bâtiment ou enclos à contrôler, constitué d'un pot de fientes composé d'échantillons séparés de 60 fientes coecales fraîches, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont gardés et de chiffonnette(s) ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées et replacées dans leur conditionnement d'origine, étanche et stérile.
+- d'un pot de fientes composé d'échantillons mélangés de soixante fientes caecales fraîches différentes, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont détenus ;
 
-Le prélèvement de fientes peut être remplacé par deux chiffonnettes traînées sur la litière ou bien fixées à des pédisacs et portées sur la longueur totale du bâtiment pendant au moins 3 minutes ;
+- et d'une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus et replacées dans le contenant d'origine étanche et stérile.
 
-- et, d'autre part, d'un prélèvement de 60 oeufs incubés non éclos issus de chaque troupeau à contrôler.
+Lorsque le résultat d'analyse ayant entraîné la suspicion correspond à un prélèvement réalisé dans un couvoir, ces prélèvements sont complétés par un prélèvement de soixante oeufs incubés non éclos issus de chaque troupeau à contrôler.
 
-Dans le cas où les analyses effectuées sur ces prélèvements donnent des résultats discordants avec les résultats des analyses ayant entraîné la suspicion, il pourra être procédé à un deuxième prélèvement comprenant les organes de 60 sujets pour analyse des foies, ovaires et coecums groupés par 5.
+2. Dans le cas d'un résultat négatif des analyses effectuées sur ces prélèvements, il devra être procédé à une deuxième série de prélèvements constitués des organes de soixante sujets pour analyse des foies, ovaires et caecums groupés par cinq.
 
-B. - Lorsque le résultat d'analyse ayant entraîné la suspicion concerne un prélèvement réalisé dans un élevage :
+Chapitre II : Analyses.
 
-Dans chaque bâtiment ou enclos à contrôler, un pot de fientes composé d'échantillons séparés de 60 fientes coecales fraîches, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment ou de l'enclos dans lequel les oiseaux sont gardés et de chiffonnette(s) ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées et replacées dans leur conditionnement d'origine, étanche et stérile.
-
-Le prélèvement de fientes peut être remplacé par deux chiffonnettes traînées sur la litière ou bien fixées à des pédisacs et portées sur la longueur totale du bâtiment pendant au moins 3 minutes.
-
-Dans le cas où les analyses effectuées sur ces prélèvements donnent des résultats discordants avec les résultats des analyses ayant entraîné la suspicion, il pourra être procédé à un deuxième prélèvement comprenant les organes de 60 sujets pour analyse des foies, ovaires et coecums groupés par 5.
+La recherche de Salmonella Enteritidis et de Salmonella Typhimurium dans les prélèvements prévus au chapitre Ier doit être réalisée selon les textes de référence correspondant à la NF U 47 101 (isolement et identification des salmonelles chez les volailles) à la NF U 47 100 (isolement et identification des salmonelles en élevage avicole) pour l'application du programme d'accréditation n° 116 du COFRAC, en fonction du type de prélèvement effectué.

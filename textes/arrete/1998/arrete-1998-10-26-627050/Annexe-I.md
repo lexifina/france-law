@@ -1,71 +1,69 @@
 # Article Annexe I
 
-Chapitre Ier : Troupeaux de volailles de reproduction.
+Chapitre Ier : Périodicité et nature des prélèvements.
 
-1. Périodicité et nature des prélèvements.
+1. Troupeaux de volailles de reproduction.
 
-Les prélèvements sont effectués sous la responsabilité du vétérinaire sanitaire, pour chaque troupeau :
+1.1. Troupeaux en période d'élevage.
 
-a) Dans les troupeaux en période d'élevage :
+1.1.1. Quand les oiseaux ont l'âge d'un jour, les prélèvements sont constitués pour chaque troupeau de cinq garnitures de fonds de boîtes différentes prélevées lors de la livraison des oiseaux, avant leur entrée dans le bâtiment d'élevage.
 
-1. Quand les oiseaux ont l'âge d'un jour : dix garnitures de fonds de boîtes prélevées lors de la livraison des oiseaux, avant leur entrée dans l'exploitation, cinq d'entre elles seront analysées immédiatement et les cinq autres devront être conservées pendant trois semaines au moins, à 4 °C maximum et à l'abri des contaminations ;
+1.1.2. Quand les oiseaux ont l'âge de quatre semaines, puis deux semaines avant l'entrée en ponte si les oiseaux restent dans le bâtiment d'élevage ou, dans le cas contraire, deux semaines avant le transfert de bâtiment, les prélèvements sont constitués pour chaque troupeau :
 
-2. Quand les oiseaux ont l'âge de quatre semaines, puis deux semaines avant l'entrée en ponte si les oiseaux restent dans le bâtiment d'élevage ou, dans le cas contraire, deux semaines avant le transfert de bâtiment : le prélèvement sera constitué d'un pot de fientes composé d'échantillons séparés de 60 fientes coecales fraîches, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont gardés, et de chiffonnette(s) ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées et replacées dans le contenant d'origine, étanche et stérile.
+- d'un pot de 60 fientes caecales fraîches différentes, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont détenus ;
 
-Le prélèvement de fientes peut être remplacé par deux chiffonnettes traînées sur la litière ou bien fixées à des pédisacs et portées sur la longueur totale du bâtiment pendant au moins trois minutes.
+- et d'une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus et replacées dans le contenant d'origine étanche et stérile.
 
-b) Pendant la période de ponte : les prélèvements sont effectués tous les deux semaines dans le couvoir où sont livrés les oeufs à couver produits par le troupeau de reproducteurs à tester et ils sont constitués pour chaque troupeau :
+1.2. Troupeaux en période de ponte.
 
-- soit de chiffonnette(s) passée(s) dans un éclosoir contenant si possible uniquement les issues de ce troupeau ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées de l'éclosoir et replacées dans le contenant d'origine, étanche et stérile. Le prélèvement doit être réalisé en fin d'éclosion lorsque les poussins sont secs ou 12 heures après l'arrêt de la désinfection si elle est pratiquée en cours d'éclosion ;
+1.2.1. Les prélèvements sont effectués toutes les deux semaines dans le couvoir où sont livrés les oeufs à couver produits par le troupeau de reproducteurs à tester et ils sont constitués pour chaque troupeau :
 
-- soit les méconiums de 250 poussins issus de ce troupeau, récoltés au couvoir par manipulation des poussins ;
+- soit d'une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces situées à l'intérieur de l'éclosoir contenant les issues de ce troupeau et replacées dans le contenant d'origine, étanche et stérile. Le prélèvement doit être réalisé en fin d'éclosion lorsque les poussins sont secs ou douze heures après l'arrêt de la désinfection si elle est pratiquée en cours d'éclosion ;
 
-- soit les garnitures de 5 fonds d'éclosoirs.
+- soit des méconiums de 250 poussins issus de ce troupeau, récoltés au couvoir par manipulation des poussins ;
 
-c) Toutes les huit semaines, les prélèvements effectués sur chaque troupeau en période de ponte au couvoir doivent être remplacés par des prélèvements effectués dans l'exploitation où est hébergé le troupeau.
+- soit des garnitures de cinq fonds d'éclosoirs.
 
-Ces prélèvements seront constitués comme indiqué au point 1 (a, 2) du présent chapitre.
+1.2.2. Toutes les huit semaines, les prélèvements prévus au point 1.2.1 doivent être remplacés par des prélèvements dans l'exploitation où est détenu le troupeau, effectués conformément au point 1.1.2.
 
-2. Analyses.
+1.2.3. Toutes les huit semaines, les prélèvements à effectuer au couvoir conformément aux dispositions de la présente annexe doivent être réalisés par le vétérinaire sanitaire.
 
-La recherche bactériologique de Salmonella enteritidis et Salmonella typhimurium dans les prélèvements effectués conformément au présent chapitre doit être réalisée selon les textes de référence BA 60 (isolement et identification des salmonelles chez les volailles) ou BA 70 (isolement et identification des salmonelles en élevage avicole) pour l'application du programme d'accréditation n° 116 du COFRAC, en fonction du type de prélèvement effectué.
+2. Troupeaux de volailles de rente.
 
-Chapitre II : Troupeaux de volailles de rente.
+2.1. Troupeaux en période d'élevage.
 
-A. - Chez les poulettes futures pondeuses.
+2.1.1. Quand les oiseaux ont l'âge d'un jour, les prélèvements sont constitués pour chaque troupeau de cinq garnitures de fonds de boîtes différentes prélevées lors de la livraison des oiseaux, avant leur entrée dans le bâtiment d'élevage.
 
-1. Périodicité et nature des prélèvements.
+2.1.2. Quand les oiseaux ont l'âge de quatre semaines, puis moins de quatre semaines avant la date d'entrée en ponte ou de transfert, le résultat de l'analyse des prélèvements devant être connu avant le départ des animaux, les prélèvements sont constitués pour chaque troupeau :
 
-Les prélèvements sont effectués sous la responsabilité du vétérinaire sanitaire, pour chaque troupeau :
+- d'un pot de 60 fientes caecales fraîches différentes, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont détenus ;
 
-a) Quand les oiseaux ont l'âge d'un jour : dix garnitures de fonds de boîtes prélevées lors de la livraison des oiseaux, avant leur entrée dans l'exploitation, cinq d'entre elles seront analysées immédiatement et les cinq autres devront être conservées pendant trois semaines au moins, à 4 °C maximum et à l'abri des contaminations ;
-
-b) Quand les oiseaux ont l'âge de quatre semaines, puis entre quinze semaines et la date d'entrée en ponte ou de transfert : le prélèvement sera constitué d'un pot de fientes composé d'échantillons séparés de 60 fientes coecales fraîches, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont gardés, et de chiffonnette(s) ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées et replacées dans le contenant d'origine, étanche et stérile.
+- et d'une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus et replacées dans le contenant d'origine étanche et stérile.
 
 Le prélèvement de fientes peut être remplacé par deux chiffonnettes traînées sur la litière ou bien fixées à des pédisacs et portées sur la longueur totale du bâtiment pendant au moins trois minutes.
 
-Dans les élevages en batterie, le pot de fientes peut être remplacé par deux chiffonnettes passées dans les fonds de cage.
+Dans les élevages en batterie, le pot de fientes peut être remplacé par une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces des tapis de fientes et replacées dans le contenant d'origine étanche et stérile ou, lorsque ces tapis ne sont pas accessibles, frottées sur un minimum de 20 fonds de cages par rangée.
 
-2. Analyses.
+2.2. Troupeaux en période de ponte.
 
-La recherche bactériologique de Salmonella enteritidis et Salmonella typhimurium dans les prélèvements effectués conformément au présent chapitre, point A, doit être réalisée selon les textes de référence BA 60 (isolement et identification des salmonelles chez les volailles) ou BA 70 (isolement et identification des salmonelles en élevage avicole) pour l'application du programme d'accréditation n° 116 du COFRAC, en fonction du type de prélèvement effectué.
+Les prélèvements doivent être effectués quatre semaines après la mise en place des pondeuses et au plus tard lorsque les pondeuses ont 24 semaines d'âge, puis à 40 et à 55 semaines et, dans le cas de mue, deux semaines avant et deux semaines après l'entrée en ponte puis toutes les douze semaines.
 
-B. - Chez les pondeuses.
+Les prélèvements sont constitués pour chaque troupeau :
 
-1. Périodicité et nature des prélèvements.
+- d'un pot de 60 fientes caecales fraîches différentes, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont détenus ;
 
-Les prélèvements doivent être effectués quatre semaines après la mise en place des pondeuses ou au plus tard lorsque les pondeuses ont vingt-quatre semaines d'âge, puis à quarante et à cinquante-cinq semaines.
-
-Les prélèvements sont effectués sous la responsabilité du vétérinaire sanitaire, pour chaque troupeau ; ils sont constitués :
-
-- d'un pot de fientes composé d'échantillons séparés de 60 fientes coecales fraîches, pesant chacune au moins 1 gramme, prélevées au hasard en au moins cinq points différents du bâtiment dans lequel les oiseaux sont gardés ; et
-
-- de chiffonnette(s) ; les chiffonnettes imbibées de liquide stérile sont frottées sur le maximum de surfaces exposées et replacées dans le contenant d'origine, étanche et stérile.
+- et d'une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus et replacées dans le contenant d'origine étanche et stérile.
 
 Le prélèvement de fientes peut être remplacé par deux chiffonnettes traînées sur la litière ou bien fixées à des pédisacs et portées sur la longueur totale du bâtiment pendant au moins trois minutes.
 
-Dans les élevages en batterie, le pot de fientes peut être remplacé par deux chiffonnettes passées dans les fonds de cage.
+Dans les élevages en batterie, le pot de fientes peut être remplacé par une chiffonnette constituée d'une ou deux pièces de matériau de type non tissé d'une surface totale d'au minimum 900 centimètres carrés, imbibées de liquide stérile et humides au moment de l'emploi, frottées sur le maximum de surfaces des tapis de fientes et replacées dans le contenant d'origine étanche et stérile ou, lorsque ces tapis ne sont pas accessibles, frottées sur un minimum de 20 fonds de cages par rangée.
 
-2. Analyses.
+Chapitre II : Analyses.
 
-La recherche de Salmonella enteritidis dans les prélèvements effectués conformément au présent chapitre, point B, doit être réalisée selon les textes de référence BA 60 (isolement et identification des salmonelles chez les volailles) ou BA-70 (isolement et identification des salmonelles en élevage avicole) pour l'application du programme d'accréditation n° 116 du COFRAC, en fonction du type de prélèvement effectué.
+1. Documents d'accompagnement des prélèvements :
+
+Un document précisant l'identité de l'élevage et du bâtiment ou de l'enclos où le troupeau ayant fait l'objet des prélèvements est détenu, le lieu et la nature du prélèvement, la filière et le stade de production concernés, l'âge des animaux à la date du prélèvement, l'identité de la personne ayant effectué le prélèvement et le nom du vétérinaire sanitaire responsable de sa réalisation doivent accompagner chaque prélèvement transmis pour analyse au laboratoire.
+
+2. Méthode d'analyse :
+
+La recherche de Salmonella enteritidis et de Salmonella typhimurium dans les prélèvements prévus au chapitre Ier, points 1.1, 1.2 et 2.1, et la recherche de Salmonella enteritidis dans les prélèvements prévus au chapitre Ier, point 2.2, doivent être réalisées selon les textes de référence correspondant à la NF U 47 101 (isolement et identification des salmonelles chez les volailles), à la NF U 47 100 (isolement et identification des salmonelles en élevage avicole) pour l'application du programme d'accréditation n° 116 du COFRAC, en fonction du type de prélèvement effectué.
