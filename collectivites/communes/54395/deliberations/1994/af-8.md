@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération AF-8 — Attributions de subventions à des associations de protection de la nature.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1994-11-21
+- Objet : Attributions de subventions à des associations de protection de la nature.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
