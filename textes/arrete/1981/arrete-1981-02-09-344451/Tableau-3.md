@@ -68,7 +68,7 @@ II
 
 |
 
-Jury de concours pour l'accès au corps des techniciens supérieurs d'études et de fabrication
+Jury de concours ou d'examen pour l'accès au corps des techniciens supérieurs d'études et de fabrication
 
 |
 
@@ -182,6 +182,30 @@ III
 
 |
 
+Jury du concours d'accès au corps des techniciens paramédicaux civils du service de santé des armées |
+
+III
+
+|
+
+Jury d'examen professionnel pour l'accès au grade de technicien paramédical civil surveillant des services médicaux |
+
+III
+
+|
+
+Jury d'examen professionnel pour la titularisation d'agents sur contrat de l'ordre technique dans le corps des techniciens du ministère de la défense |
+
+III
+
+|
+
+Jury d'examen professionnel pour l'accès au grade de technicien de classe supérieure |
+
+III
+
+|
+
 Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :
 
 |
@@ -266,13 +290,31 @@ IV
 
 |
 
-Jury de concours pour l'accès aux corps des agents des services techniques |
+Jury de concours pour l'accès aux corps des services techniques |
 
 IV
 
 |
 
 Jury de concours pour l'accès aux corps des maîtres ouvriers et ouvriers professionnels |
+
+IV
+
+|
+
+Jury de concours pour l'accès aux corps des aides-soignants civils du service de santé des armées |
+
+IV
+
+|
+
+Jury de concours pour l'accès au corps des agents civils des services hospitaliers qualifiés du service desanté des armées |
+
+IV
+
+|
+
+Jury de la sélection professionnelle d'accès à la formation d'aide-soignant |
 
 IV
 

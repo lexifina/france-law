@@ -160,6 +160,24 @@ III
 
 |
 
+Préparation au concours d'accès au corps des techniciens paramédicaux civils du service de santé des armées |
+
+III
+
+|
+
+Préparation à l'examen professionnel pour l'accès au grade de technicien paramédical civil surveillant des services médicaux |
+
+III
+
+|
+
+Préparation à l'examen professionnel de technicien de classe supérieure |
+
+III
+
+|
+
 Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions de programmeur pupitreur et dé chef programmeur
 
 |
@@ -179,6 +197,24 @@ IV
 Préparation aux concours d'accès au corps des adjoints administratifs
 
 |
+
+IV
+
+|
+
+Préparation au concours d'accès au corps des aides-soignants civils du service de santé des armées |
+
+IV
+
+|
+
+Préparation au concours d'accès au corps des agents civils des services hospitaliers qualifiés du service de santé des armées |
+
+IV
+
+|
+
+Préparation à la sélection professionnelle d'accès à la formation d'aide-soignant |
 
 IV
 
