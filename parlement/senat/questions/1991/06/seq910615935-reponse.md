@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615935
+
+- Question : [SEQ910615935](seq910615935.md) — Insuffisance des effectifs de la police urbaine pour le maintien de la sécurité à Perpignan
+
+## Réponse
+
+*Intérieur, JO du 1991-11-14, page 2537*
+
+Réponse. - La préoccupation prioritaire du Gouvernement est de permettre à l'ensemble des policiers de disposer des moyens nécessaires à l'accomplissement de leurs missions, avec une détermination et une fermeté égales à l'encontre de toutes les violences et agressions, quels qu'en soient les auteurs. A ce titre, il est rappelé à l'honorable parlementaire les termes de la réponse à la question écrite n° 14259 parue au Journal officiel du 30 mai 1991. La dotation du service de police urbaine au sein de la direction départementale de la police nationale de Perpignan demeure supérieure à celle d'autres commissariats confrontés à des charges spécifiques comparables. Une mesures de renforcement, qui ne pourrait s'opérer que par redéploiement, n'est donc pas envisageable dans l'immédiat sinon au détriment de services dont les besoins, notamment dans les banlieues, appellent un examen prioritaire. Par ailleurs, la lutte contre la petite et moyenne délinquance ne se conçoit pas uniquement en termes de moyens en personnels supplémentaires, mais davantage en une approche globale des problèmes de sécurité auxquels répond le processus de territorialisation des services mis en oeuvre dans le département des Pyrénées-Orientales le 1er mai 1990. En outre, un intérêt particulier est attaché au développement de la police de proximité à Perpignan, et c'est à ce titre que cette commune dispose de vingt-six policiers auxiliaires. Des résultats satisfaisants ont d'ores et déjà été enregistrés, puisqu'au cours du 1er semestre 1991 les chiffres de la délinquances de voie publique ont diminué de plus de 18 P. 100 par rapport à la même période en 1990.
