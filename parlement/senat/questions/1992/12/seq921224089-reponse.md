@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224089
+
+- Question : [SEQ921224089](seq921224089.md) — Inscription sur les listes électorales des associés d'un groupement foncier agricole
+
+## Réponse
+
+*Intérieur, JO du 1993-02-18, page 288*
+
+Réponse. - Aux termes du 2° de l'article L. 11 du code électoral, peuvent être inscrits, à leur demande, sur la liste électorale d'une commune déterminée " ceux qui figurent pour la cinquième fois sans interruption, l'année de la demande d'inscription, au rôle d'une des contributions directes communales et, s'ils ne résident pas dans la commune, ont déclaré vouloir y exercer leurs droits électoraux ". La loi réserve donc cette faculté à ceux qui peuvent se prévaloir d'une inscription personnelle au rôle. Cette condition est d'interprétation stricte, comme l'a confirmé la jurisprudence de la cour de Cassation : elle ne peut être remplie par l'inscription sur la matrice cadastrale, ni par la qualité de propriétaire ou de copropriétaire dans la commune (Civ. 2e, 18 juin 1975, Huot-Marchand ; 19 avril 1984, Borel). Or, dans le cas d'un groupement foncier agricole, le GFA, en tant que personne morale, figure seul au rôle au titre des propriétés qu'il regroupe. Il s'ensuit que les membres du GFA ne peuvent légalement invoquer le 2° de l'article L. 11 du code électoral pour fonder leur demande d'inscription, pas plus, par exemple, que les détenteurs de parts d'une société civile immoblilière. Au demeurant, l'auteur de la question notera que les propriétaires en indivision ne peuvent eux-mêmes se prévaloir des dispositions précitées du code électoral que s'ils figurent personnellement au rôle : être membre d'une indivision qui paie la taxe foncière ne vaut pas inscription personnelle depuis cinq années consécutives au rôle des contributions directes communales (Civ. 2e, 23 février 1983, Mazel).
