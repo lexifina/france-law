@@ -14,14 +14,12 @@ b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4
 
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
-6. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des grains minéraux naturels mentionnés au 6 du I de l'article 266 sexies ;
+6. a) La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des matériaux d'extraction de toutes origines mentionnés au a du 6 du I de l'article 266 sexies ;
+
+b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat membre de la Communauté européenne, des matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre utilisation ;
 
 7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses mentionnés au 7 du I de l'article 266 sexies ;
 
-8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée ;
+8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
-
-NOTA :
-
-Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la réserve énoncée au considérant, les dispositions du 1 et du 8 de l'article 266 septies du code des douanes, dans sa rédaction issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à la Constitution.
