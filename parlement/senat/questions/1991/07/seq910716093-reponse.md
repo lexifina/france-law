@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716093
+
+- Question : [SEQ910716093](seq910716093.md) — Situation des agriculteurs considérés comme prioritaires de la Haute-Garonne
+
+## Réponse
+
+*Agriculture, JO du 1991-11-21, page 2582*
+
+Réponse. - Sur la situation des producteurs ayant sollicité le bénéfice des aides à l'installation et/ou des avantages financiers liés à l'agrément d'un P.A.M., notamment entre le 1er avril et le 30 octobre 1988, il convient d'observer que la reconnaissance de la qualité de prioritaire dont ces derniers ont pu bénéficier ne constituait pas un droit à l'attribution de quantités de référence laitières supplémentaires. Celles-ci ne pouvaient être attribuées que dans la limite des quantités rendues disponibles par les programmes d'aide à la cessation d'activité laitière qui ont été institués au titre de certaines campagnes. Dans le département de la Haute-Garonne, l'écart global restant à satisfaire pour les intéressés, par rapport à leur quantité de référence, s'élève à 11 millions de litres et concerne 224 producteurs. Les règles de redistribution en vigueur en 1991 n'ont pas permis la prise en compte de telles situations. Pour la campagne 1991-1992, le nouveau programme communautaire qui vient d'être mis en place va permettre, compte tenu des moyens financiers disponibles, de libérer des volumes importants. Ceux-ci seront réattribués en priorité pour compenser la réduction de 2 p. 100 des quotas et pour satisfaire les producteurs ayant contracté des engagements de non-commercialisation avant le 1er avril 1984. Les règles d'attribution du solde seront déterminées en fonction des résultats obtenus, dans le cadre d'une large concertation avec les organisations professionnelles. Il va de soi que les besoins d'installation des jeunes agriculteurs seront examinés avec soin.
