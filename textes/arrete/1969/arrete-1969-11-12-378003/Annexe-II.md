@@ -2,13 +2,13 @@
 
 TABLEAU II
 
-EMPLOIS SPÉCIAUX DÉPENDANT DE LA PRÉFECTURE DE POLICE ET DE LA PRÉFECTURE DE PARIS
+EMPLOIS SPÉCIFIQUES DES ADMINISTRATIONS PARISIENNES
 
 A. — Préfecture de police.
 
 1. Ingénieurs des services techniques.
 
-2. Infirmière de l'inspection générale des services techniques d'hygiène.
+2. Infirmière de l’inspection de la protection sanitaire (1)
 
 3. Service des explosifs du laboratoire central : ingénieur en chef, ingénieurs et ingénieurs adjoints, techniciens principaux et techniciens.
 
@@ -20,9 +20,13 @@ secrétaires administratifs faisant fonctions de contrôleurs adjoints ;
 
 Agents du corps des identificateurs.
 
-B. — Préfecture de Paris.
+6. Agents techniques de bureau et agents de bureau (spécialité Voie publique), dont l’activité s’exerce exclusivement sur la voie publique.
 
-1. Surveillants des entrepôts.
+7. Médecins civils de la brigade de sapeurs-pompiers de Paris.
+
+B. — Commune de Paris.
+
+1. Préposés des entrepôts.
 
 2. Surveillants à la bourse du travail.
 
@@ -50,12 +54,14 @@ h) Chef d’équipe (imprimerie) ayant moins de dix agents sous ses ordres.
 
 C. — Assistance publique de Paris.
 
-1. Ouvriers d'état et aides-ouvriers de la boucherie centrale des hôpitaux de Paris (bouchers d'échaudoirs, bouchers d’étal, charcutiers).
+1. Ouvriers de 1ère et de 2e catégorie à l’approvisionnement central des hôpitaux de Paris en fonctions au marché d’intérêt national de Rungis (2) ;
 
-2. Ouvriers d’état et aides-boulangers de la boulangerie centrale des hôpitaux de Paris.
+2. Ouvriers de 1ère catégorie frigoristes des hôpitaux de Paris (2) ;
 
-3. Ouvriers d'état et aides d'approvisionnement de l'approvisionnement central des hôpitaux de Paris en fonctions aux Halles centrales.
+3. Blanchisseurs et blanchisseuses de l’administration de l’assistance publique de Paris.
 
-4. Ouvriers d'état frigoristes des hôpitaux de Paris.
+NOTA :
 
-5. Blanchisseurs et blanchisseuses de l’administration de l’assistance publique de Paris.
+(1) A compter du 1er juillet 1975.
+
+(2) A compter du 31 décembre 1969.
