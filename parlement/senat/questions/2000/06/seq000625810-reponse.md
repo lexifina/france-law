@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625810
+
+- Question : [SEQ000625810](seq000625810.md) — Statut des femmes d'artisan
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-10-05, page 3399*
+
+Réponse. - Depuis la loi du 10 juillet 1982, les conjoints d'artisans et de commerçants qui souhaitent collaborer à l'activité de l'entreprise de leur époux ont la possibilité d'opter entre trois statuts : celui de conjoint collaborateur mentionné au répertoire des métiers, de conjoint salarié ou de conjoint associé. Chacun de ces statuts est assorti de droits spécifiques. Le droit européen n'a pas, en la matière, limité l'étendue des droits offerts aux conjoints, quel que soit leur choix de statut. Toutefois, Madame la secrétaire d'Etat aux petites et moyenne entreprises, au commerce, à l'artisanat et à la consommation est très attentive à la situation des conjoints impliqués dans la vie de l'entreprise familiale. Des améliorations peuvent encore être apportées pour parfaire la situation des conjoints, aussi bien en droit communautaire qu'en droit national. D'ores et déjà, des études sont conduites en ce sens par le secrétariat d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation, en relation avec le secrétariat d'Etat aux droit des femmes et à la formation professionnelle. Ces réflexions portent notamment, en droit positif français, sur une valorisation de la contribution des femmes au développement économique de l'entreprise, une meilleure prise en compte de la validation des acquis professionnels et une information régulière des assurés sur leurs droits sociaux dans le cadre de la loi du 10 juillet 1982. Par ailleurs, le Gouvernement entend s'attacher à conforter, au niveau européen, la place et les droits des femmes tels qu'ils sont définis dans la directive du conseil du 11 décembre 1986 relative au principe d'égalité de traitement entre hommes et femmes exerçant une activité indépendante.
