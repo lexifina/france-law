@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104329
+
+- Question : [SEQ940104329](seq940104329.md) — Aide à domicile en milieu rural
+
+## Réponse
+
+*Affaires sociales, JO du 1994-06-23, page 1546*
+
+Réponse. - Attentif à la situation des personnes âgées, le Gouvernement entend poursuivre les efforts entrepris pour favoriser leur maintien à domicile et notamment développer l'aide ménagère qui en constitue un élément essentiel. La caisse nationale d'assurance vieillesse des travailleurs salariés exerce une action sanitaire et sociale dans le cadre d'un programme fixé par arrêté ministériel, après consultation de son conseil d'administration. Ainsi, l'arrêté du 6 mars 1973, modifié par l'arrêté du 31 janvier 1974, précise le contenu et les règles d'élaboration du programme d'action sanitaire et sociale. En outre, il stipule que les interventions d'action sanitaire et sociale sont réalisées selon les modalités décidées par le conseil d'administration de la CNAVTS. En ce qui concerne les aides individualisées et notamment l'aide ménagère, la CNAVTS peut intervenir ou faire appel au concours des caisses régionales d'assurance maladie. Le conseil d'administration de la CNAVTS a décidé de confier aux CRAM la responsabilité de déterminer les modalités de leur collaboration avec les associations d'aide à domicile. Les problèmes éventuels que susciterait la répartition des crédits entre les prestataires de services doivent être portés à la connaissance des caisses régionales d'assurance maladie. Il va de soi que les pouvoirs publics invitent la caisse nationale d'assurance vieillesse des travailleurs salariés à veiller à ce que la répartition des heures d'aide ménagère soit effectuée avec la meilleure adéquation possible aux besoins des personnes âgées.
