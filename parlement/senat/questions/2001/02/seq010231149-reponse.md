@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231149
+
+- Question : [SEQ010231149](seq010231149.md) — Reconnaissance française du diplôme d'orthophoniste-logopède belge
+
+## Réponse
+
+*Santé, JO du 2002-01-24, page 242*
+
+Les directives communautaires 89/48/CEE et 91/51/CEE prévoient un dispositif de reconnaissance mutuelle des titres, traduisant un principe fondamental selon lequel tout professionnel qualifié pour exercer une profession dans un Etat membre a désormais le droit à la reconnaissance de son diplôme pour accéder à la même profession dans un autre Etat membre. Le principe de base du système est donc clairement la reconnaissance de la qualification du migrant, l'exception étant la possibilité pour l'Etat membre d'accueil d'imposer des mesures de compensation. Ainsi, les disparités de formation pouvant exister entre Etats membres sont prises en compte et des mesures compensatoires prescrites aux candidats dont la formation est jugée trop différente de celle dispensée en France. C'est le cas, en particulier, pour la profession d'orthophoniste. Il apparaît que la formation pratique des orthophonistes-logopèdes en Belgique est substantiellement différente de la formation française dans la mesure où elle ne comporte en moyenne que 700 heures de stage au lieu de 1 200 heures. En tout état de cause, ces mesures compensatoires ne sont arrêtées qu'après un examen individuel des dossiers des demandeurs. Dans le cas où toutes les pathologies abordées dans la formation pratique française le sont dans la formation belge, même à un niveau quantitatif inférieur, il est accordé au demandeur une autorisation directe de l'exercice de la profession. Dans le cas contraire, il est demandé à l'intéressé de suivre des stages complémentaires. Ce traitement des demandes résulte d'une stricte application des directives européennes précitées.
