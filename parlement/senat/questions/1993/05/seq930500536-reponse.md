@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500536
+
+- Question : [SEQ930500536](seq930500536.md) — Enseignement d'instruction civique européenne
+
+## Réponse
+
+*Éducation, JO du 1993-06-17, page 981*
+
+Réponse. - L'Europe occupe, dans les programmes de 4e du collège, une place toute particulière : ainsi, en histoire, les contenus ouvrent de larges perpectives sur l'histoire européenne ; en outre, en géographie, le programme est centré sur l'étude du continent européen. Enfin, la troisième et dernière partie du programme d'éducation civique est entièrement consacrée à l'étude de la CEE. Les compléments aux programmes d'éducation civique, publiés au BO spécial n° 4 du 30 juillet 1987 et au BO n° 25 du 30 juin 1988, recommandent d'insister sur " les données institutionnelles, sociales et culturelles ainsi que sur les valeurs que partagent tous les Européens et qui inspirent leurs institutions et leur vie nationale ; liberté, démocratie, droits de l'homme, solidarité à l'égard du tiers monde, règlement pacifique des conflits ". L'Europe, en éducation civique, s'efforce de dépasser les seules réalités institutionnelles ou économiques afin de la faire apparaître comme une communauté en devenir. En ce sens, l'Europe des valeurs ne renvoie pas à un état de choses, mais à un progrès lent et continu de la conscience européenne. Les compléments au programme affirment, également, la compatibilité des identités nationale et européenne, (par exemple, l'accord des Européens autour des principes édictés par la Convetion européenne des droits de l'homme de 1950). En dernier lieu, l'évocation de l'Europe ne doit pas éluder les difficultés d'ordre politique ou technique qui ralentissent la construction européenne. Toutefois, on demande à ce que soient comparés les obstacles rencontrés avec l'enjeu que représente cette dernière pour la vie quotidienne des Européens.
