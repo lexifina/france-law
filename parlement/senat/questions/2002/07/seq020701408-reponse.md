@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701408
+
+- Question : [SEQ020701408](seq020701408.md) — Nouveaux établissements pénitentiaires
+
+## Réponse
+
+*Justice, JO du 2002-10-24, page 2494*
+
+Le garde des sceaux, ministre de la justice, porte à la connaissance de l'honorable parlementaire que, dans le cadre de la priorité du Gouvernement en faveur de la sécurité et de la justice, la loi d'orientation et de programmation du 10 septembre 2002 prévoit 3 740 emplois, 801 millions d'euros de dépenses ordinaires et 1 313 millions d'euros d'autorisation de programme supplémentaires pour l'administration pénitentiaire dans les cinq ans qui viennent. Le Gouvernement s'est engagé dans un vaste programme de construction comportant 11 000 places dont 4 000 par substitution à des places obsolètes et 7 000 par création de places nouvelles. Cet ambitieux projet de modernisation permettra d'adapter la nouvelle carte pénitentiaire aux évolutions et aux réalités démographiques, sociales et juridictionnelles d'aujourd'hui. Dans cet objectif, un diagnostic de l'état du parc immobilier pénitentiaire et une évaluation de ses besoins sont en cours, qui doivent naturellement s'appuyer sur leur configuration actuelle et non pas, a priori, sur l'appréciation qui a pu en être faite il y a une quinzaine d'années. Les recherches foncières actuelles détermineront le meilleur site possible d'implantation de ces futurs établissements. Ceux-ci devront bénéficier de bonnes conditions d'accessibilité pour favoriser l'activité judiciaire, les visites des familles mais aussi l'exercice des servitudes qui s'imposent aux services de police et de gendarmerie. S'agissant plus particulièrement de la direction régionale des services pénitentiaires de Strasbourg, la reconstruction de la maison d'arrêt de Nancy permettra d'augmenter le nombre de places de détention et de couvrir ainsi les besoins identifiés sur ce secteur géographique.
