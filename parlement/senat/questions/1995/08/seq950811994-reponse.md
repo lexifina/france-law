@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811994
+
+- Question : [SEQ950811994](seq950811994.md) — Application de la loi relative à l'accès à l'activité de conducteur et à la profession de taxi
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1995-10-10, page 1943*
+
+Réponse. - Le décret no 95-935 du 17 août 1995 portant application de la loi no 95-66 du 20 janvier 1995 relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi est paru au Journal officiel en date du 24 août 1995. Par ailleurs, deux arrêtés d'application sont en cours d'élaboration, l'un relatif à l'examen du certificat de capacité professionnelle de conducteur de taxi et l'autre concernant les conditions d'agrément des établissements et des écoles assurant la préparation du certificat de capacité professionnelle des conducteurs de taxi. Ces deux textes feront l'objet d'une parution prochaine après les consultations d'usage, notamment avec les organisations professionnelles. S'agissant du domaine spécifique de la formation professionnelle et conformément à l'article 8 du décret no 95-935 du 17 août 1995, portant application de la loi no 95-66 du 20 janvier 1995, l'exploitation d'un centre de formation préparant au certificat de capacité professionnelle de conducteur de taxi est soumise à la délivrance d'un agrément préfectoral. Un arrêté des ministres de l'intérieur et des petites et moyennes entreprises, du commerce et de l'artisanat définira : les clauses qui doivent figurer dans le règlement de l'établissement ; les règles minimales concernant les locaux et le matériel utilisés dans le cadre de l'enseignement ; l'information à déliver impérativement aux stagiaires. Les actions de formation pouvant bénéficier d'une aide au financement par le ministère font l'objet d'une circulaire annuelle diffusée auprès des chambres de métiers et des organisations professionnelles.
