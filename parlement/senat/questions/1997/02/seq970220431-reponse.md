@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220431
+
+- Question : [SEQ970220431](seq970220431.md) — Conservatoire des archives relatives aux camps de concentration
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-03-13, page 763*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du Gouvernement sur la question des archives conservées à Arolsen. Le service international des recherches d'Arolsen (SIR) rassemble la documentation relative aux détenus des camps de concentration ou de travail et aux personnes déplacées du fait de la Seconde Guerre mondiale. Son statut, établi par accord international entre dix Etats parties, prévoit que le SIR répond aux demandes de renseignements des victimes ainsi qu'à celles de leurs ayants droit. La CISIR, Commission internationale pour le service international de recherches, a cependant décidé l'ouverture des archives d'Arolsen à la recherche historique. Cette décision a été mise en oeuvre le 1er janvier 1996. Afin de ne pas nuire au travail humanitaire établi par le statut du SIR, cette ouverture est pour le moment partielle et ne concerne que des documents à caractère général. Le SIR reçoit et traite en effet chaque année un nombre très élevé de demandes correspondant au mandat humanitaire qui est le sien. En 1996, 236 000 nouvelles demandes ont été adressées au SIR, 260 000 réponses ont été préparées. 314 000 demandes sont en instance de traitement. Ces chiffres élevés soulignent l'ampleur du travail accompli et restant à accomplir. En outre, il faut rappeler que les documents conservés à Arolsen sont essentiellement des dossiers individuels qui nécessitent une protection particulière. Il appartiendra le moment venu à la CISIR, c'est-à-dire à l'ensemble des dix Etats parties, de décider comment l'ouverture à la recherche scientifique pourra être élargie et selon quelles règles.
