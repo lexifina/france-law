@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307218
+
+- Question : [SEQ980307218](seq980307218.md) — Avenir du programme sol-air moyenne portée/terrestre (SAMP/T)
+
+## Réponse
+
+*Défense, JO du 1998-06-18, page 1938*
+
+Réponse. - Dans le cadre de la famille de systèmes sol/surface-air futurs (FSAF), le programme de missile sol-air moyenne portée (SAMP/T) est réalisé sous la maîtrise d' uvre du groupement d'intérêt économique franco-italien Eurosam. Son importance pour notre industrie missilière ne saurait être contestée. Ce missile a fait l'objet, à l'instar des programmes concourant au maintien des capacités opérationnelles des forces, d'une évaluation au regard des conditions d'exécution de la programmation militaire et des perspectives de la politique d'équipement de nos armées. Les conclusions de la revue des programmes d'armement, effectuée à l'initiative du ministre de la défense, ont été approuvées par les plus hautes autorités de l'Etat puis portées à la connaissance des membres de la commission des affaires étrangères, de la défense et des forces armées du Sénat, le 9 avril 1998. Des mesures d'économies correspondant à la volonté du Gouvernement de maîtriser les finances publiques sans pour autant remettre en cause les principes directeurs de la loi de programmation militaire 1997-2002, ont été arrêtées, soit 20 milliards de francs sur les quatre prochaines années, dont notamment 9,4 milliards de francs consacrés aux forces classiques. Il n'en demeure pas moins que le programme SAMP/T ne figure pas au nombre de ceux qui devront être abandonnés, ou qui verront leur cible réduite ou leur calendrier aménagé. Ce programme bénéficie de la priorité accordée en règle générale aux programmes conduits en coopération européenne, et de l'importance attachée, dans le nouveau contexte stratégique, à la capacité de projection de nos forces, en l'occurrence à leur protection sur tous les théâtres d'opérations.
