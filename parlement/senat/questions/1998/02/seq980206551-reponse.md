@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206551
+
+- Question : [SEQ980206551](seq980206551.md) — Développement inquiétant des cinémas multiplexes
+
+## Réponse
+
+*Culture, JO du 1998-05-28, page 1703*
+
+Réponse. - Dans son rapport intitulé " Demain la ville ", présenté à la ministre de l'emploi et de la solidarité, Jean-Pierre Sueur propose que les prérogatives des commissions départementales d'équipement cinématographique soient renforcées en matière de localisation des multiplexes. La nécessité de tenir compte, en matière d'implantation de ce nouveau type d'équipement cinématographique, des équilibres à établir entre les activités de centre-ville et celles de la périphérie a amené le Parlement à soumettre à autorisation préalable la création de complexes cinématographiques de plus de 1 500 places par l'adoption de la loi du 5 juillet 1996. De ce point de vue, l'examen du niveau d'équipement d'une agglomération, l'équilibre de la répartition des salles par type de programmation et la répartition des salles entre centre-ville et périphérie fondent aussi bien l'instruction des dossiers par les DRAC et la CNC, avant leur présentation devant les CDEC ou la CNEC, que les débats au sein de ces instances. Les résultats des multiplexes, qui ont un effet très positif sur la fréquentation, incitent aujourd'hui les opérateurs à multiplier les créations de salles répondant à cette nouvelle norme, y compris au sein d'agglomérations comportant moins de 100 000 habitants. Afin de permettre que l'ouverture de ces nouvelles salles tienne compte de l'existence des équipements préexistants et de la nécessaire complémentarité à créer entre ceux-ci, le Gouvernement a proposé une disposition législative, en cours d'examen au Parlement, soumettant désormais à autorisation préalable toute création de salles comportant 1 000 places ou plus, et toute extension de complexe préexistant, dès lors qu'il atteindrait 1 500 fauteuils.
