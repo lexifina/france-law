@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202512
+
+- Question : [SEQ881202512](seq881202512.md) — Projet de l'autoroute B 12
+
+## Réponse
+
+*Équipement, JO du 1989-06-01, page 841*
+
+Réponse. - La décision de construire l'autoroute A.14 à péage est motivée par la nécessité de désenclaver rapidement le secteur de l'Ouest parisien, qui sera desservi par cette autoroute, et par l'impossibilité de financer cette opération sur les crédits budgétaires. Quant au projet B.12, d'une longueur d'environ 20 kilomètres, il est actuellement évalué à 1 300 millions de francs. Ce coût élevé s'explique en particulier par les dispositions exceptionnelles qui seront prises pour intégrer au mieux l'autoroute dans le site, comme par les nombreux ouvrages de rétablissements des communications et de protection contre le bruit, rendus nécessaires lorsque le tracé longe ou traverse des zones urbaines. En dépit de l'augmentation des crédits affectés au contrat entre l'Etat et la région Ile-de-France, cette autoroute ne pourrait être construite avant longtemps, avec les financements budgétaires habituels ; seul le recours à la concession et donc, au péage, est de nature à rendre possible sa programmation dans les années à venir, faisant porter le financement non plus sur le contribuable mais sur l'usager. En ce qui concerne les modalités de perception du péage, les techniques les plus modernes, qui permettent d'éviter l'arrêt du véhicule (péage " dynamique "), pourront être utilisées ; des formules d'abonnement incitatives seront étudiées pour les usagers réguliers. Bien entendu, les automobilistes qui refuseraient d'acquitter le péage bénéficieront dans tous les cas des itinéraires parallèles gratuits existants ; la fluidité de la circulation sur le réseau hors péage sera d'ailleurs accrue du fait même de ces nouvelles réalisations.
