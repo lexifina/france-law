@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917522
+
+- Question : [SEQ960917522](seq960917522.md) — Recouvrement de la taxe différentielle sur les véhicules à moteur
+
+## Réponse
+
+*Économie, JO du 1997-02-06, page 373*
+
+Réponse. - La taxe différentielle sur les véhicules à moteur est exigible soit le 1er décembre pour les véhicules immatriculés à l'ouverture de la période d'imposition, soit dans le mois de la première mise en circulation s'il s'agit de véhicules assujettis en cours de période d'imposition. Le défaut de vignette est constaté par procès-verbal dressé notamment dans le cadre des contrôles routiers. Cette infraction est sanctionnée par une amende prévue par l'article 1840 N quater du code général des impôts dont le taux vient d'être fixé à 80 % par la loi de finances pour 1997. Cette procédure est assortie en cas de paiement tardif de l'intérêt de retard en application des articles 1727 et 1731 du code général des impôts. Selon les directives adressées aux comptables des impôts, cette amende ne doit pas, sauf circonstances exceptionnelles, faire l'objet de remise ou de modération. Par ailleurs, dans le souci d'optimiser les rentrées fiscales, les instructions recommandent l'engagement immédiat de procédures d'exécution forcée en cas de défaillance persistante des propriétaires de véhicules. Ces actions ont d'ores et déjà contribué à accroître le nombre de vignettes délivrées. En ce qui concerne le département de la Guadeloupe, les services de la direction générale des impôts chargés d'assurer la délivrance des valeurs fiscales ont enregistré au cours des trois dernières années une augmentation de plus de 7 % du nombre de vignettes vendues pendant la campagne. Dans ce contexte, il n'est pas actuellement envisagé de prévoir un mécanisme de compensation au profit des départements bénéficiaires de cette taxe.
