@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501344
+
+- Question : [SEQ930501344](seq930501344.md) — Fonctionnement des lignes d'autobus desservant la plate-forme aéroportuaire de Roissy
+
+## Réponse
+
+*Équipement, JO du 1993-08-05, page 1338*
+
+Réponse. - Les lignes 350 et 351 ont été, à l'origine, créées pour assurer la desserte de l'aérogare de Roissy à partir de la gare de l'Est et de la place de la Nation. L'analyse du trafic de ces lignes ayant montré qu'une part faible de leur trafic correspondait à cet objectif, la RATP a décidé de mettre en service une nouvelle ligne plus performante, la ligne 352 dite " Roissybus " reliant le quartier de l'Opéra à Roissy. A cette occasion, les lignes 350 et 351 ont été restructurées. La desserte des aérogares ayant été affectée à la ligne "Roissybus " qui a vocation à capter la clientèle aérienne, les lignes 350 et 351, pour répondre aux besoins de leurs utilisateurs, se consacrent aux autres pôles d'intérêt de la zone de Roissy. Il convient par ailleurs de noter que les voyageurs qui utilisaient auparavant les lignes 350 et 351 ont à leur disposition plusieurs possibilités pour rejoindre Roissy en fonction du lieu de leur résidence, notamment prendre le RER B jusqu'à Roissy et utiliser la navette de l'aéroport de Paris qui conduit aux aérogares. En ce qui concerne le niveau de service, la ligne 351 a conservé son intervalle initial de 30 minutes entre deux bus. Quant à la ligne 350, son intervalle aux heures de pointe avait été porté de 15 à 30 minutes lors de la création de " Roissybus " ; le suividu trafic a rapidement conduit à réduire cet intervalle qui est à l'heure actuelle de 20 minutes. La RATP continue à suivre avec attention le trafic des trois lignes en cause afin d'ajuster au mieux le cas échéant le service offert à toute évolution de la demande.
