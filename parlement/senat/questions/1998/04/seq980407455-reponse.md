@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407455
+
+- Question : [SEQ980407455](seq980407455.md) — Parution d'un décret d'application de la loi emplois-jeunes
+
+## Réponse
+
+*Emploi, JO du 1998-10-29, page 3452*
+
+Réponse. - La loi d'orientation relative à la lutte contre les exclusions du 29 juillet 1998 précise les conditions d'application du cumul d'un contrat emploi-solidarité et d'une activité complémentaire et supprime le renvoi à un décret d'application. Le cumul est donc permis depuis la promulgation de la loi de lutte contre les exclusions, dans les conditions suivantes : il peut s'exercer à l'issue du troisième mois de contrat emploi-solidarité, et pendant douze mois ; l'activité complémentaire est inscrite dans le cadre d'un contrat de travail à temps partiel dont la durée ne peut excéder un mi-temps : le nombre d'heures de travail cumulées du salarié ne doit pas excéder la durée légale du temps de travail ; l'activité complémentaire ne peut s'effectuer dans le cadre d'un autre contrat emploi-solidarité, d'un contrat emploi consolidé ou d'un contrat conclu dans le cadre du programme " nouveaux services, nouveaux emplois " ; elle ne peut s'exercer auprès de l'employeur de CES, ni d'un service de l'Etat, d'une collectivité territoriale, d'un établissement public administratif ou d'un groupement d'intérêt public. En revanche, elle s'exerce auprès des employeurs du secteur privé affiliés au régime d'assurance chômage ou de certains employeurs du secteur public (établissements publics à caractère industriel et commercial, sociétés d'économie mixte...). Une instruction précisant les conditions d'application de ce cumul d'activité est en préparation et sera prochainement diffusée aux directions départementales du travail, de l'emploi et de la formation professionnelle qui pourront alors apporter toute précision complémentaire.
