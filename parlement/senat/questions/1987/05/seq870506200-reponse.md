@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506200
+
+- Question : [SEQ870506200](seq870506200.md) — Mise à disposition de logements à des ascendants ou descendants: allocation logement
+
+## Réponse
+
+*Affaires sociales, JO du 1987-09-10, page 1412*
+
+Réponse. -L'allocation de logement à caractère social prévue à l'article L. 831-1 du code de la sécurité sociale, n'est pas attribuée à un requérant dont le local a été mis à sa disposition par un de ses ascendants ou descendants, même à titre onéreux. En effet, la solidarité entre ascendants et descendants qui trouve son fondement dans le code civil, notamment le principe d'obligation alimentaire, a conduit à écarter le bénéfice de l'allocation de logement social dans ce cas. Une approche plus pragmatique s'est heurtée au problème de la réalité du paiement dans ce type de situations. Les études qui ont été menées pour rechercher les mesures et les moyens de nature à permettre aux organismes débiteurs de l'allocation de logement à caractère social de s'assurer du paiement effectif du loyer entre proches parents - tel qu'un contrôle auprès des services fiscaux de la conformité de la déclaration de revenus du bailleur en ce qui concerne les loyers encaissés - se sont en effet heurtées à des obstacles d'ordre juridique et financier. En l'absence de possibilité permettant de garantir l'affectation de la prestation au paiement du loyer en contrôlant la réalité de celui-ci - affectation qui constitue la finalité essentielle de cette aide personnelle au logement (articles L. 831-1 et L. 831-2 du code de la sécurité sociale) - il n'est pas envisagé, dans l'immédiat, d'assouplir les dispositions de l'article R. 831-1, dernier alinéa, du code de la sécurité sociale, qui excluent du champ de la prestation le logement mis à la disposition d'un requérant par un de ses ascendants ou descendants.
