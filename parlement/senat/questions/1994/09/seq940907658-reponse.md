@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907658
+
+- Question : [SEQ940907658](seq940907658.md) — Remise en circulation de véhicules accidentés
+
+## Réponse
+
+*Équipement, JO du 1994-10-27, page 2575*
+
+Réponse. - Les articles L. 27 et L. 27-1 du code de la route fixés par la loi du 31 décembre 1993 visent à lutter contre le trafic des cartes grises provenant des épaves de véhicules accidentés. Ils s'appliquent aux véhicules d'une valeur vénale de 15 000 francs et plus dont le coût de la réparation est supérieur à cette valeur. A la demande des professionnels qui redoutent de voir disparaître du marché une part importante des véhicules mis à la casse au lieu de faire l'objet d'une réparation, une solution de compromis a été mise en oeuvre, qui repose sur le principe suivant : les véhicules classés véhicules économiquement irréparables (VEI) voient leur carte grise détruite ; pour ceux qui font l'objet d'une réparation, leur remise en circulation peut être effectuée selon une procédure simplifiée qui n'implique pas une réception à titre isolé, et qui repose sur le rapport d'expertise certifiant que le véhicule dont la remise en circulation est demandée, répond aux conditions normales de sécurité. Cette notion, qui a été retenue à l'issue d'une concertation interministérielle avec les organisations concernées, a été définie dans un rapport de juillet 1990 du Conseil national de la consommation où ces mêmes organisations étaient représentées. La procédure du contrôle technique des véhicules n'est pas adaptée en la matière puisqu'elle se limite à dresser l'état d'un véhicule ancien qui n'a pas été accidenté sans qu'il soit procédé à aucun démontage. Par contre, il va de soi que l'expert peut, de sa propre initiative, utiliser des appareils de contrôle du type de ceux auxquels ont recours les centres de contrôle technique pour conforter ou compléter sa mission d'expertise.
