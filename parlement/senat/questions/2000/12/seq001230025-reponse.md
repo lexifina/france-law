@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230025
+
+- Question : [SEQ001230025](seq001230025.md) — Maintien de l'émission " La Chance aux Chansons " diffusée sur France 2
+
+## Réponse
+
+*Culture, JO du 2001-03-15, page 920*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention de la ministre de la culture et de la communication sur la suppression de l'émission " La Chance aux chansons " qui était diffusée sur France 2. En premier lieu, il y a lieu de rappeler qu'en vertu de la loi du 30 septembre 1986 modifiée relative à la liberté de communication les chaînes publiques sont seules responsables de leur programmation, dans le cadre des missions qui leur sont imparties par le législateur et déclinées par leur cahier des missions et charges, sous le contrôle du Conseil supérieur de l'audiovisuel. En ce qui concerne plus précisément l'émission " La Chance aux chansons ", l'interruption de sa diffusion s'inscrit dans le cadre d'une réflexion conduite par France 2 sur l'évolution de sa grille de programmes. Depuis dix-sept ans, " La Chance aux chansons " contribuait en effet à la mise en valeur de la chanson française. Il est cependant apparu possible et souhaitable que cette mission s'incarne désormais dans des émissions d'un genre renouvelé. A ce titre, la direction des programmes, qui poursuit sa concertation avec la présentateur de l'émission évoquée, sera en mesure de proposer pour l'été prochain la diffusion d'une série de huit nouvelles émissions, en deuxième partie de soirée, dont la tournage est en cours avec Pascal Sevran. En outre, pour la rentrée 2001, France 2, pour qui la mise en valeur de la chanson française représente une obligation de son cahier des missions et des charges, proposera aux téléspectateurs des émissions de variétés qui, sous la forme de rendez-vous hebdomadaires, laisseront une large part à la création française et à l'expression artistique de jeunes auteurs et compositeurs ou d'autres d'artistes confirmés.
