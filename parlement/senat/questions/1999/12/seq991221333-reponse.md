@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221333
+
+- Question : [SEQ991221333](seq991221333.md) — Non-respect des surfaces de commerce
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-06-08, page 2094*
+
+Réponse. - Les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) instruisent chaque année plus de 3 000 dossiers de demande d'autorisation, de création ou d'extension de surfaces commerciales. Conformément aux dispositions de l'article 23-2 du décret nº 93-306 du 9 mars 1993 modifié, ils vérifient, avant l'ouverture, que le surfaces accessibles au public sont conformes à celles autorisées par les commissions, départementales ou nationale, d'équipement commercial. Par ailleurs, les services précités contrôlent tout au long de l'année les surfaces de vente exploitées, notamment à l'occasion de l'instruction des dossiers d'extension mais également, sur demande des autorités préfectorales ou sur plaintes. En 1999, les services ont contrôlé 1 232 établissements et dressé 44 procès-verbaux d'infraction à l'encontre de commerçants ayant exploité des surfaces de vente non autorisées. En outre, 46 rappels de réglementation ont été adressés à des exploitants pour des dépassements limités de surface de vente. Au cas particulier du centre commercial Géant Casino, à Saint-Victoret, le contrôle demandé par le préfet des Bouches-du-Rhône a été différé du fait qu'une action judiciaire concernant la licéité des surfaces exploitées par ce centre commercial était pendante auprès du tribunal d'instance de Martigues et qu'un expert avait été nommé par le juge saisi de l'affaire pour mesurer les surfaces litigieuses. Il a ainsi semblé de bonne administration que les services de contrôle attendent les conclusions de l'expert avant d'intervenir dans cet établissement.
