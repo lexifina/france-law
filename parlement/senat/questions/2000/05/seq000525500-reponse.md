@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525500
+
+- Question : [SEQ000525500](seq000525500.md) — Conditions d'enseignement des sciences de la vie et de la Terre
+
+## Réponse
+
+*Éducation, JO du 2000-10-26, page 3673*
+
+Réponse. - Le ministère de l'éducation nationale attache une grande importance à l'enseignement des sciences de la vie et de la terre, qui constitue une composante essentielle de la formation commune dispensée aux élèves et participe à leur éducation de futurs citoyens. La recherche d'une amélioration des conditions d'enseignement de cette discipline demeure une priorité constante des actions entreprises en sa faveur. A ce titre, l'organisation des enseignements en sixième, cinquième et quatrième offre aux équipes pédagogiques la possibilité de mettre en uvre des séquences à effectifs allégés. La souplesse horaire prévue par les textes permet en effet de dédoubler les classes ou de constituer trois groupes pour deux divisions. Dans le respect de l'autonomie pédagogique dont disposent les établissements et en fonction des moyens qui leur ont été attribués par l'inspecteur d'académie, sur la base du projet qui lui a été présenté, il revient ensuite au principal du collège, après avis de son conseil d'administration, de définir les modalités d'organisation de l'enseignement des sciences de la vie et de la terre. C'est pourquoi la détermination d'un seuil d'effectif pour l'organisation de travaux pratiques ne peut être retenue. Cette mesure contraindrait l'ensemble des collèges à adopter un mode d'organisation uniforme, et serait susceptible de restreindre l'autonomie dont disposent les équipes professorales des sciences de la vie et de la terre pour renforcer l'enseignement de leur discipline au travers des choix arrêtés au niveau de l'établissement dans son projet pédagogique.
