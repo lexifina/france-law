@@ -1,115 +1,63 @@
 # Article ANNEXE I
 
-Chef des services d'exploitation.
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT au versement d'une nouvelle bonification indiciaire
 
-Premier fondé de pouvoir de l'agent comptable.
+1 : Chef de bureau et assimilés dans les domaines personnel, assurance maladie, finances, documentation, logistique, comptabilité, communication.
 
-Chef d'atelier de liquidation des prestations aux services d'exploitation.
+2 : Adjoint à un chef de bureau et assimilés dans les domaines personnel, assurance maladie, documentation, logistique, communication.
 
-Agent d'accueil et de renseignements téléphoniques.
+3 : Chef de section et assimilés dans les domaines comptabilité, formation, communication, assurance maladie, personnel, médical, logistique, finances-budget, courrier.
 
-Responsable d'étude et de formation professionnelle aux services d'exploitation.
+4 : Chef de division dans les domaines assurance maladie, comptabilité.
 
-Responsable du contrôle à l'agence comptable.
+5 : Adjoint au chef de division affaires spéciales.
 
-Chef de division du contrôle à l'agence comptable.
+6 : Chef de salle ou de groupe.
 
-Chef d'atelier de contrôle à l'agence comptable.
+7 : Chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale.
 
-Chef d'équipe des services médicaux.
+8 : 1er fondé de pouvoir de l'agent comptable.
 
-Responsable du courrier-vaguemestre.
+9 : 2e fondé de pouvoir de l'agent comptable.
 
-Chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale.
+10 : Coordonnateur SESAM-VITALE.
 
-Chef du bureau du personnel et des rémunérations.
+11 : Coordonnateur télétransmission.
 
-Chef du bureau financier.
+12 : Responsable étude et formation à l'agence comptable.
 
-Chef du bureau réglementation.
+13 : Responsable du contrôle des flux.
 
-Chef du bureau contentieux.
+14 : Responsable de la formation professionnelle aux services médicaux.
 
-Chef du bureau documentation.
+15 : Responsable de la coordination médicale aux services médicaux.
 
-Chef du bureau justification archives.
+16 : Responsable des antennes aux services médicaux.
 
-Adjoint administratif au chef des services médicaux.
+17 : Secrétaire du président du conseil d'administration.
 
-Chef du service du matériel et de l'infrastructure.
+18 : Chef de secrétariat à la direction de l'assurance maladie, à l'agence comptable, au cabinet du directeur.
 
-Chef de section au service du matériel et de l'infrastructure.
+19 : Animateur de la direction de l'assurance maladie.
 
-Animateur de salle de décompte aux services d'exploitation.
+20 : Responsable de la coordination des contrôles.
 
-Chef de groupe aux services d'exploitation.
+21 : Responsable de la coordination et de la gestion intégrée au bureau du personnel et des rémunérations.
 
-Responsable de formation professionnelle aux services médicaux.
+22 : Chargé d'affaires bureau infrastructure.
 
-Responsable de l'imprimerie.
+23 : Chef du bureau statistiques et bureautique au secrétariat général.
 
-Gérant du restaurant.
+24 : Liquidateur de marchés.
 
-Chef de section documentation aux services médicaux.
+25 : Adjoint administratif au chef de l'antenne de Paris.
 
-Chargé du secrétariat particulier du directeur de la Caisse nationale militaire de sécurité sociale.
+26 : Agent sécurité.
 
-Chef de section ou de groupe aux services de direction.
+27 : Agent d'accueil.
 
-Deuxième fondé de pouvoir de l'agent comptable.
+28 : Gérant du restaurant.
 
-Chef du bureau comptabilité à l'agence comptable.
+29 : Responsable du courrier-vaguemestre.
 
-Chef du bureau paiements techniques à l'agence comptable.
-
-Chef des divisions de contrôle à l'agence comptable.
-
-Adjoint administratif au chef de l'antenne de Paris.
-
-Chef du bureau des relations extérieures.
-
-Liquidateur de marchés.
-
-Adjoint au chef du bureau du personnel et des rémunérations.
-
-Adjoint au chef du bureau financier.
-
-Adjoint au chef du bureau réglementation.
-
-Chef de division aux services d'exploitation.
-
-Adjoint au chef du bureau contentieux.
-
-Adjoint au chef de bureau documentation.
-
-Responsable statistiques aux services de direction.
-
-Chef secrétariat aux services d'exploitation, aux services de direction, à l'agence comptable, au cabinet du directeur.
-
-Agent sécurité.
-
-Responsable du standard.
-
-Coordonnateur télétransmission.
-
-Adjoint au chef de division aux services d'exploitation.
-
-Responsable coordination médicale aux services médicaux.
-
-Responsable des antennes aux services médicaux.
-
-Responsable des paiements et des archives à l'agence comptable.
-
-Chef du bureau dépense à l'agence comptable.
-
-Chef du bureau recouvrement à l'agence comptable.
-
-Responsable étude et formation à l'agence comptable.
-
-Coordonnateur SESAM-VITALE.
-
-Chef du bureau formation professionnelle et communication interne.
-
-Secrétaire du président du conseil d'administration.
-
-Responsable de la coordination et de la gestion intégrée au bureau du personnel et des rémunérations.
+30 : Responsable du contrôle et du suivi des projets à l'agence comptable.
