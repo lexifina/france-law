@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215883
+
+- Question : [SEQ050215883](seq050215883.md) — Avenir de la médecine scolaire
+
+## Réponse
+
+*Éducation, JO du 2005-03-17, page 765*
+
+L'amélioration des conditions d'accueil, d'écoute et de soin des élèves constitue depuis plusieurs années un objectif prioritaire. Dès le transfert de la santé scolaire à l'éducation nationale un effort budgétaire significatif a été opéré pour renforcer les effectifs de ce service : ainsi, le taux moyen d'encadrement en personnels médicaux, qui était en 1991 d'un médecin pour 8 300 élèves, est actuellement d'un pour 5 660, étant précisé que les académies comptant les plus forts pourcentages de jeunes issus d'un milieu socioprofessionnel défavorisé, notamment les quatre académies d'outre-mer, bénéficient d'un taux d'encadrement supérieur à la moyenne nationale. Il convient de souligner qu'eu égard à l'importance des missions confiées aux personnels médicaux au sein de la communauté éducative, le service de promotion de la santé en faveur des élèves a été exonéré des réductions d'effectif imposées par la nécessaire maîtrise des dépenses publiques. Compte tenu de la baisse de la démographie scolaire au plan national, l'absence de création d'emplois supplémentaires ne devrait pas avoir d'incidence sur le bon fonctionnement de ce service. S'agissant du recrutement des médecins titulaires, il y a lieu de souligner que le nombre de titulaires, qui s'élève à 1 396 au 1er décembre 2004, a progressé de 7 % par rapport à l'effectif constaté en 2000. Par ailleurs, le taux d'occupation des emplois par des médecins titulaires (93 %), particulièrement élevé, résulte d'une politique de gestion prévisionnelle à partir de la session 1999, prenant en compte la forte proportion de personnels exerçant à temps partiel dans le nombre des postes offerts au recrutement.
