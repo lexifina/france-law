@@ -1,0 +1,5 @@
+# Article XIII.1
+
+D'une façon générale, employeurs et salariés sont soumis à l'obligation particulière de vigilance en matière de sécurité, bien que seule la responsabilité de l'employeur soit engagée et couvre l'ensemble des dangers et accidents encourus par ses salariés dans l'exercice de leurs activités professionnelles.
+
+Les salariés doivent signaler immédiatement à l'employeur ou à son représentant toute situation de travail dont ils ont un motif raisonnable de penser qu'elle présente un danger grave et imminent pour leur vie ou leur santé. L'employeur ou son représentant ne peut demander au salarié de reprendre son activité dans une situation de travail où persiste un danger grave et imminent. Aucune sanction, aucune retenue de salaire ne peut être prise à l'encontre d'un salarié ou d'un groupe de salariés qui se sont retirés d'une situation de travail dont ils avaient un motif raisonnable de penser qu'elle présentait un danger grave et imminent pour la vie ou pour la santé de chacun d'eux.
