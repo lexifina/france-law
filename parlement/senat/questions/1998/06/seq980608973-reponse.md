@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608973
+
+- Question : [SEQ980608973](seq980608973.md) — Sécurité routière : campagne de sensibilisation sur la vitesse et le port de la ceinture de sécurité
+
+## Réponse
+
+*Équipement, JO du 1999-03-04, page 696*
+
+Réponse. - La vitesse est la première cause de mortalité sur nos routes, devant l'alcool. Elle intervient en fait dans un accident mortel sur deux et on peut estimer que le non-respect des limitations de vitesse coûte environ 3 000 vies chaque année dans notre pays. Certes, la vitesse ne constitue pas toujours le facteur unique de l'accident, mais elle est presque toujours le facteur aggravant qui vient s'ajouter aux mauvaises conditions de circulation, à la fatigue du conducteur, à un obstacle imprévu ou à incident technique. Les services de l'Etat ont donc repris le thème de la vitesse dans leur dernière campagne de communication sur la sécurité routière. Lancée le 10 novembre dernier pour une vingtaine de jours, cette campagne est passée à la radio. Elle se composait de 13 messages de 35 secondes chacun. Pour appeler les automobilistes à plus de prudence, elle s'appuyait sur des situations de la vie quotidienne (retard sur le trajet, trajet retour domicile, circulation de nuit). Certains messages ont été gérés par anticipation, c'est-à-dire, par exemple, diffusés aux heures qui précédaient les sorties en discothèque. Pour accompagner cette campagne, une plaquette ainsi que des dépliants ont été diffusés auprès des préfectures, des directions départementales de l'équipement, de la gendarmerie et de la police. Une cassette audio et une cassette audio professionnelle (DAT) des spots radio ont également été mises à disposition des préfets à l'intention des radios locales non concernées par le plan média. Un vidéogramme est envoyé aux chargés de missions sécurité routière début 1999.
