@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204548
+
+- Question : [SEQ870204548](seq870204548.md) — Minoration de la taxe téléphonique pour les personnes handicapées
+
+## Réponse
+
+*Postes et télécommunications, JO du 1987-03-12, page 379*
+
+Réponse. -La direction générale des télécommunications partage l'avis de l'honorable parlementaire quant à l'intérêt que présente pour les déficients visuels l'usage des moyens de télécommunications en général et du téléphone en particulier. Aussi s'est-elle préoccupée de susciter la réalisation, voire d'offrir elle-même des matériels spécialement adaptés à ce handicap (disques spéciaux de cadran, claviers à ergot de repérage, composeurs de numéros, etc.). Mais, s'agissant d'exonérations tarifaires, il n'est pas envisagé d'en étendre le domaine, qui s'applique actuellement aux frais forfaitaires d'accès au réseau pour les personnes âgées de plus de soixante-cinq ans vivant seules ou avec leur conjoint et attributaires du Fonds national de solidarité. Le budget annexe des postes et télécommunications devant en tout état de cause être équilibré, une telle mesure aurait, en effet, pour conséquence d'alourdir anormalement les prix payés par les autres abonnés. Il doit être observé, à cet égard, que les facilités d'ordre tarifaire relèvent d'une forme d'aide sociale qui déborde la mission propre des services des télécommunications. Elles impliquent donc pour leur financement la mise en oeuvre d'un esprit de solidarité qui ne soit pas limité aux seuls usagers du téléphone, mais étendu à l'ensemble des membres de la communauté nationale. Il convient enfin de rappeler que les personnes qui estiment que le coût du téléphone représente un effort financier trop lourd pour elles ont la faculté de s'adresser au centre communal d'action sociale dont elles dépendent. Ces organismes ont toute compétence pour apprécier les cas sociaux difficiles et juger de la suite qu'ils entendent leur réserver.
