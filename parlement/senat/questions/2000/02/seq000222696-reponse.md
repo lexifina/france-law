@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222696
+
+- Question : [SEQ000222696](seq000222696.md) — Soutien financier des parents à leurs enfants étudiants
+
+## Réponse
+
+*Éducation, JO du 2000-06-22, page 2220*
+
+Réponse. - Les assistantes sociales des centres régionaux des uvres universitaires et scolaires mènent auprès des étudiants un travail d'information, d'accueil individualisé, d'aide psychologique, morale et matérielle. A cet égard, lors de l'instruction du dossier, notamment au cours d'un entretien individuel, l'assistante sociale apprécie les ressources de l'étudiant et de sa famille pour trouver le meilleur moyen de lui venir en aide et pour analyser ses chances d'obtenir une aide de l'Etat (bourse d'enseignement supérieur, allocation d'études, fonds de solidarité universitaire, aides des universités, des collectivités locales). Les assistantes sociales sont ainsi souvent confrontées à des étudiants en situation de rupture familiale parfois liée à un divorce des parents, lesquels se renvoient mutuellement la responsabilité du financement des études de leur enfant. Les assistantes sociales sont pleinement conscientes que le recours à une procédure judiciaire doit demeurer l'exception et que tout doit être fait pour éviter que les étudiants et les étudiantes soient acculés à une telle extrémité. C'est d'ailleurs entre autres à cette fin, et plus généralement pour répondre à des situations d'indépendance familiale avérée, qu'a été instauré le dispositif d'allocation d'études. En toute hypothèse, s'il semble difficile d'éviter totalement, lors des entretiens avec les étudiants, de faire valoir les obligations légales existantes en matière d'aide familiale prévues par le code civil, il va de soi que ceci ne peut être envisagé qu'après avoir épuisé toutes les autres possibilités s'offrant à l'étudiant.
