@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212896
+
+- Question : [SEQ901212896](seq901212896.md) — Fiscalité des entreprises franchisées
+
+## Réponse
+
+*Budget, JO du 1991-03-21, page 596*
+
+Réponse. - L'allégement fiscal prévu à l'article 44 sexies du code général des impôts a été institué pour favoriser la création d'activités réellement nouvelles. Ainsi le paragraphe III de cet article place hors du champ d'application du dispositif les entreprises créées notamment dans le cadre d'une extension d'activités préexistantes. Cette extension se caractérise par la réunion de deux conditions : d'une part, l'existence d'une communauté d'intérêts entre l'entreprise créée et une entreprise préexistante, la communauté d'intérêts pouvant résulter des liens personnels (identité d'exploitant en droit ou en fait), ou de liens financiers ou commerciaux caractérisant une dépendance ; d'autre part, l'activité de l'entreprise créée prolonge celle de l'entreprise préexistante. Les entreprises franchisées répondent à ces deux conditions : d'une part, le contrat de franchise crée une dépendance économique et commerciale du franchisé vis-à-vis du franchiseur (exercice d'une activité sous la raison sociale du franchiseur avec son appui technique et, éventuellement à partir des produits achetés auprès de ce dernier ou d'une centrale d'achats contrôlée par lui) ; d'autre part, l'activité du franchisé prolonge géographiquement celle du franchiseur, et le franchisé bénéficie de la notoriété de la marque, de la qualité des produits ou services, du savoir-faire et des méthodes de vente du franchiseur. Les entreprises franchisées ne peuvent donc pas bénéficier du régime prévu à l'article 44 sexies. Il n'est pas envisageable de faire prévaloir une autre solution qui ne serait pas conforme à ce texte et ne correspondrait pas à l'intention du législateur.
