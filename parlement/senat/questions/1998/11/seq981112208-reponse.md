@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112208
+
+- Question : [SEQ981112208](seq981112208.md) — Accès des petites et moyennes entreprises aux marchés publics
+
+## Réponse
+
+*Économie, JO du 1999-03-04, page 684*
+
+Réponse. - L'élargissement de l'accès des PME à la commande publique constitue en effet un des principaux objectifs des travaux menés actuellement en vue de la réforme du code des marchés publics. Les principales voies susceptibles de faciliter l'accès des PME aux marchés sont la simplification des règles applicables et l'allègement des formalités incombant aux entreprises qui souhaitent soumissionner. L'encadrement de la sous-traitance figure également parmi les thèmes de réflexion. Ces axes font actuellement l'objet d'études et donneront lieu, dans les prochains mois, à une large concertation. S'agissant de la notion dite du " mieux-disant ", chaque acheteur public doit s'efforcer d'obtenir, pour l'ensemble de ses achats, le meilleur rapport qualité-prix. Les procédures prévues par le code des marchés publics ont pour objet de l'y aider. Elles prévoient en effet des obligations de publicité qui permettent aux PME d'avoir une connaissance précise des besoins des personnes publiques. Elles comportent aussi de nombreuses règles visant à garantir l'égalité de l'ensemble des entreprises candidates à un marché public, afin que les PME ne puissent être défavorisées. Enfin, les services du ministère de l'économie, des finances et de l'industrie s'efforcent de conseiller les acheteurs, pour qu'ils veillent à assurer une concurrence aussi large que possible. Ceci passe notamment par une politique d'allotissement favorable aux PME, par une publicité adaptée et par un délai suffisant laissé aux entreprises pour soumissionner. De telles précautions préservent en effet les intérêts des petites et moyennes entreprises, qui ont souvent plus de difficultés que les autres notamment à avoir accès à l'information et à élaborer des offres dans un délai réduit.
