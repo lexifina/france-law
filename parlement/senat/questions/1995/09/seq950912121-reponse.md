@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912121
+
+- Question : [SEQ950912121](seq950912121.md) — Services de gériatrie en secteur hospitalier
+
+## Réponse
+
+*Travail, JO du 1996-03-28, page 750*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre du travail et des affaires sociales sur l'adaptation des structures hospitalières à la polypathologie et à la dépendance des malades âgés notamment grâce à la création de filières gérontologiques. Il convient de rappeler que, d'une manière générale, le principe de l'égalité d'accès aux soins pour tous doit être réaffirmé, sans exclusion sur des critères d'âge ou de ressources. Mais pour répondre aux besoins spécifiques des malades relevant de soins gériatriques, notamment dans les services de soins de courte durée, le concours national de praticiens hospitaliers comporte une filière de recrutement en médecine polyvalente à orientation gériatrique, depuis 1993. Pour aménager les filières gériatriques au sein de l'hôpital, une réflexion est prioritairement menée sur la redéfinition des missions des soins de suite ou de réadaptation : en effet, un malade sur deux présent dans les structures de suite ou de réadaptation est âgé de soixante-quinze ans ou plus et où ces soins constituent un des principaux facteurs de prévention de la dépendance. En ce qui concerne les soins de longue durée, une étude tarifaire, en préalable à une éventuelle réforme de la tarification des soins de longue durée, devrait accompagner une redéfinition des missions des services de long séjour pour personnes âgées par rapport à celles des établissements d'hébergement médicalisé. Enfin, le développement des structures alternatives à l'hospitalisation complète est encouragé ainsi que la création de services de soins à domicile relevant directement des établissements de santé, de manière à favoriser le retour des malades à leur domicile lorsqu'ils le souhaitent.
