@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617474
+
+- Question : [SEQ990617474](seq990617474.md) — Accord de partenariat entre l'académie de Versailles et un grand constructeur automobile français
+
+## Réponse
+
+*Éducation, JO du 1999-09-30, page 3227*
+
+Réponse. - La signature d'un accord de partenariat entre l'académie de Versailles et un grand constructeur automobile français, évoquée dans le cadre de la campagne de valorisation de l'enseignement professionnel, se rapporte en effet à une convention établie le 15 février 1999 entre le groupe Renault et l'académie de Versailles, qui lie les deux partenaires sur un certain nombre d'axes de collaboration autour des questions d'information, d'orientation et de formation initiale ou continue. Par cet accord, chacune des deux parties s'est engagée à favoriser l'intégration professionnelle des jeunes et l'évolution professionnelle en cours de carrière. Il est encore prématuré de tirer un bilan de son application mais d'ores et déjà la convention a permis d'amplifier ou d'engager un certain nombre d'opérations : analyse de l'évolution des métiers, des compétences et des formations des établissements relevant du périmètre de l'accord. (Renault siège, Guyancourt, Rueil, Cergy-Pontoise et l'usine de Flins), organisation de visites de sites, rencontre entre enseignants ou conseillers d'orientation psychologues et personnels de l'entreprise, élaboration de supports ou outils pédagogiques, participation de professionnels de l'entreprise Renault aux formations dispensées dans les établissements. Un chapitre spécifique est consacré à l'aide que peuvent apporter les dispositifs et structures de l'éducation nationale à l'adaptation ou à la reconversion de certains salariés dans un contexte de perpétuelle évolution des compétences liées aux emplois existants ou nouveaux. Nul doute que cet ensemble de points de rapprochement et de travail faciliteront un vrai partenariat au service des jeunes de l'académie.
