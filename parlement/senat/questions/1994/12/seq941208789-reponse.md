@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208789
+
+- Question : [SEQ941208789](seq941208789.md) — Situation des comités de bassin d'emplois
+
+## Réponse
+
+*Travail, JO du 1995-04-13, page 906*
+
+Réponse. - Le ministère du travail, de l'emploi et de la formation professionnelle entend poursuivre en 1995 son soutien financier au réseau des comités de bassin d'emplois ainsi qu'au comité de liaison des comités de bassin d'emplois, lequel bénéficie cette année d'une convention nationale pour la promotion de l'emploi d'un montant de 2 millions de francs. Il est essentiel, en effet que la politique conduite par l'Etat dans le domaine de l'emploi, et de la formation puisse être relayée et s'inspirer de réflexions élaborées au niveau local. Par ailleurs, les comités de bassin d'emplois par les actions qu'ils suggèrent ou initient dans le domaine de l'insertion ou de l'accompagnement à la création d'entreprise, notamment, contribuent au développement de leur territoire. En revanche, il est clair que l'aide de 60 000 francs par comité prévue par la circulaire du 26 mars 1993 n'est pas une subvention de fonctionnement ayant un caractère automatique. Son versement est conditionné par l'existence d'un programme d'activité, qui doit être présenté à la direction départementale du travail, de l'emploi et de la formation professionnelle. Il est rappelé, par ailleurs, que l'aide au démarrage de 80 000 francs lors de la création d'un comité n'est accordée qu'après reconnaissance dudit comité par arrêté préfectoral. A cet égard, l'Etat entend rappeler qu'il ne saurait assurer seul le financement des comités à qui il appartient de veiller à préserver, voire à renforcer la pluralité de leurs ressources. Celles-ci doivent nécessairement rechercher un soutien auprès des collectivités territoriales et veiller à mobiliser, dans la mesure du possible, des financements communautaires.
