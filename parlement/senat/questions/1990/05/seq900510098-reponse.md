@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900510098
+
+- Question : [SEQ900510098](seq900510098.md) — Accès au grade d'agent technique qualifié
+
+## Réponse
+
+*Intérieur (M.D.), JO du 1990-11-08, page 2412*
+
+Réponse. - L'article 39 de la loi n° 84-53 du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale prévoit que les statuts particuliers fixent une proportion de postes susceptibles d'être pourvus par voie de promotion interne. Les règles de la promotion interne, telles qu'elles résultent des textes pris pour l'application de cette loi, diffèrent de celles prévues par le code des communes : la promotion interne repose sur une assiette organisée d'une manière plus large. Ainsi la promotion sociale était calculée à partir du nombre de candidats inscrits sur la liste d'aptitude après avoir été reçus au concours. Désormais, l'assiette de la promotion interne comprend non seulement les candidats recrutés après concours externe ou interne mais encore les recrutements de fonctionnaires par voie de détachement, les nominations de fonctionnaires de l'Etat ayant demandé à bénéficier du droit d'option et les mutations à l'exception de celles intervenues à l'intérieur de la collectivité et des établissements en dépendant. En outre, le décret n° 90-829 du 20 septembre 1990 relatif à la fonction publique territoriale élargit à compter du 1er août 1993 l'accès des agents d'entretien qualifiés au grade d'agent technique qualifié, en le portant à une nomination pour deux avancements d'agent technique au grade d'agent technique qualifié, alors qu'il est de un pour six actuellement. Enfin, à l'issue de la construction statutaire, il pourra être envisagé de revoir les dispositions des statuts particuliers dont l'application aurait fait apparaître leur inadaptation.
