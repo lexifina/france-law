@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524913
+
+- Question : [SEQ000524913](seq000524913.md) — Fonction publique : administration en réseau et élaboration de base de données communes à plusieurs services
+
+## Réponse
+
+*Fonction publique, JO du 2000-08-10, page 2845*
+
+Réponse. - La modernisation des services publics est un mouvement continu que le Gouvernement a inscrit au premier rang de ses priorités. L'administration doit aujourd'hui être exemplaire dans l'utilisation à bon escient des technologies de l'information et de la communication (TIC). Numérisation des données, messageries, mise en commun des informations offrent de vastes potentialités pour améliorer les processus de décision, de travail et d'évaluation mais aussi pour adapter l'organisation des services aux besoins des usagers. C'est dans cette perspective qu'a été conçu le principe du système d'information territorial (SIT), qui a pour vocation de faciliter l'échange et le partage d'information entre les services déconcentrés à l'intérieur d'un même département ou d'une même région, afin de renforcer l'efficacité et la cohérence de l'action de l'Etat au niveau local. Il s'agit de moderniser et d'améliorer concrètement : les modes de fonctionnement de l'interministérialité au niveau déconcentré ; les services aux citoyens et les relations avec les grands partenaires de l'Etat. Le Gouvernement a décidé la généralisation des SIT dans tous les départements et toutes les régions d'ici à la fin de l'année 2000. Actuellement plus de trente départements sont dotés d'un SIT et les projets d'implémentation des systèmes d'information territorial bénéficient du soutien financier du fonds de réforme de l'Etat. Ce programme sera suivi dans une phase ultérieure avec notamment l'ouverture partielle de ces SIT aux échanges avec les collectivités territoriales.
