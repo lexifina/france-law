@@ -2,84 +2,100 @@
 
 1. Objet et champ d'application
 
-Cette méthode sert à déterminer la teneur de NI tétrahydrocannabinol (NI THC) des variétés de chanvre (Cannabis sativa L.).
+La méthode sert à déterminer la teneur en delta-9-tétrahydrocannabinol (9-THC) des variétés de Cannabis sativa L.
 
-2. Principe
+Selon le cas, elle est appliquée selon une procédure A ou une procédure B décrites ci-après. Cette méthode est fondée sur la détermination quantitative par chromatographie en phase gazeuse (CPG) du 9-THC après extraction par un solvant.
 
-Détermination quantitative par chromatographie en phase gazeuse (C.P.G.) du NI THC après extraction par un solvant convenable.
+1.1. Procédure A
 
-3. Appareillages
+La procédure A est utilisée à des fins de contrôle pour les variétés déjà inscrites à l'arrêté du 22 août 1990 modifié portant application de l'article R. 5181 du code de la santé publique pour le cannabis.
 
-Chromatographe en phase gazeuse muni d'un détecteur à ionisation de flamme ;
+Dans le cas où les constatations effectuées montrent, pour un nombre significatif d'échantillons d'une variété donnée, une teneur en 9-THC supérieure à celle autorisée à l'article 1er de l'arrêté du 22 août 1990 modifié portant application de l'article R. 5181 du code de la santé publique pour le cannabis, il est possible de recourir à la procédure B.
 
-Colonne de verre de 2,50 mètres de long et de 3,2 millimètres (un huitième de pouce) de diamètre remplie d'une phase stationnaire du type phényl-méthyl-silicone (par exemple, OV 17 à 3 p. 100) imprégné sur un support approprié.
+1.2. Procédure B
 
-4. Prélèvement et réduction de l'échantillon
+La procédure B est utilisée pour les cas visés au deuxième alinéa du point 1.1 et aux fins de l'inscription d'une nouvelle variété de Cannabis sativa L. sur la liste des variétés autorisées par l'arrêté du 22 août 1990 modifié portant application de l'article R. 5181 du code de la santé publique pour le cannabis.
 
-Prélèvements
+2. Echantillonnage
 
-On prélèvera dans une population d'une variété de chanvre donnée au moins 500 plantes, de préférence en différents points et en excluant les bordures. Ces prélèvements sont effectués en pleine journée à la fin de la floraison.
+2.1. Prélèvements
 
-L'ensemble mélangé de ces prélèvements sera représentatif du lot.
+Procédure A : dans une population de chanvre donnée, on prélèvera une partie de 30 cm contenant au moins une inflorescence femelle pour chaque plante sélectionnée. Le prélèvement s'effectue pendant la période comprise entre les vingt jours après le début et les dix jours après la fin de la floraison, pendant la journée, selon un parcours systématique permettant une collecte représentative de la parcelle, en excluant les bordures.
 
-Le matériel obtenu est séché à l'air ambiant.
+Procédure B : dans une population d'une variété de Cannabis sativa L. donnée, on prélèvera le tiers supérieur de chaque plante sélectionnée. Le prélèvement s'effectue au cours des dix jours suivant la fin de la floraison, pendant la journée, selon un parcours systématique permettant une collecte représentative de la parcelle et excluant les bordures. Dans le cas d'une variété dioïque, seules les plantes femelles seront prélevées.
 
-Réduction
+2.2. Taille de l'échantillon
 
-L'échantillon prélevé comme indiqué ci-dessus sera réduit le cas échéant à 500 pieds, cet échantillon réduit devant être représentatif de l'échantillon originalement prélevé.
+Procédure A : pour chaque parcelle, l'échantillon est constitué par les prélèvements sur 50 plantes.
 
-L'échantillon réduit sera divisé en deux.
+Procédure B : pour chaque parcelle, l'échantillon est constitué par les prélèvements sur 200 plantes.
 
-Un exemplaire est transmis au laboratoire chargé de déterminer la teneur en NI THC. L'autre exemplaire sert éventuellement à effectuer une contre-analyse.
+Chaque échantillon est placé sans le tasser dans un sac de toile ou de papier, puis adressé au laboratoire chargé de déterminer la teneur en 9-THC.
 
-5. Réactifs
+Un second échantillon peut être collecté, pour une éventuelle contre-analyse, et conservé soit par le producteur, soit par le laboratoire.
 
-Ether de pétrole (40-65 °C) ou solvant de polarité voisine ;
+2.3. Séchage et stockage de l'échantillon
 
-NI tétrahydrocannabinol (NI THC) chromatographiquement pur ;
+Le séchage des échantillons doit commencer le plus rapidement possible et en tout cas dans les 48 heures, par toute méthode à température inférieure à 70 °C. Les échantillons sont séchés jusqu'à poids constant, l'humidité étant entre 8 et 13 %.
 
-Solution éthanolique 0,1 p. 100 (P/V) d'androstène 3-17 dione, chromatographiquement pure.
+Les échantillons secs sont conservés non tassés à l'obscurité et à température inférieure à 25 °C.
 
-6. Préparation de l'échantillon laboratoire
+3. Analyse du contenu en 9-THC
 
-Du matériel végétal contenu dans l'exemplaire de l'échantillon reçu est retenu, en vue de la détermination du taux de NI THC, le tiers supérieur des plantes, ce tiers étant débarrassé des tiges et des graines. La dessiccation du matériel végétal ainsi retenu est achevée à l'étuve sans dépasser 40 °C jusqu'à poids constant.
+3.1. Préparation de l'échantillon d'analyse
 
-7. Extraction
+Les échantillons secs sont débarrassés des tiges et des graines de plus de 2 mm.
 
-Le matériel retenu conformément au point 6 ci-dessus est réduit en poudre demi-fine (tamis de 1 000 mailles par centimètre carré).
+Les échantillons séchés sont broyés jusqu'à l'obtention d'une poudre demi-fine (tamis à largeur de mailles de 1 mm).
 
-2 grammes de poudre bien mélangée sont extraits par 30 à 40 millilitres d'éther de pétrole (40-65 °C). Après vingt-quatre heures de contact et une heure d'agitation mécanique, on filtre. Le marc subit deux extractions dans les mêmes conditions. Les solutions éthéro-pétroliques sont évaporées à sec. On reprend le résidu par 10 millilitres d'éther de pétrole. L'extrait ainsi préparé est utilisé pour l'analyse quantitative par chromatographie en phase gazeuse.
+Conservation maximale de la poudre pendant 10 semaines au sec, à l'obscurité et à température inférieure à 25 °C.
 
-8. Analyse quantitative par chromatographie en phase gazeuse
+3.2. Réactifs, solution d'extraction
 
-a) Préparation des solutions à doser :
+Réactifs :
 
-Le résidu d'extraction repris par 10 ml d'éther de pétrole fera l'objet d'une analyse quantitative du NI THC qu'il contient. Pour cela, on mettra en oeuvre la technique de l'étalon interne et on calculera la surface des pics.
+9-tétrahydrocannabinol chromatographiquement pur ;
 
-1,0 ml de solution éthéro-pétrolique est évaporé à sec. Le résidu est repris par 2,0 ml d'une solution éthanolique à 0,1 p. 100 d'androstène 3-17 dione (étalon interne avec temps de rétention nettement supérieur à ceux des divers cannabinoïdes et, en particulier, environ le double de celui du NI THC).
+Squalane chromatographiquement pur comme étalon interne.
 
-Gammes d'étalonnage :
+Solution d'extraction :
 
-0,10-0,25 - 0,50-1,0 et 1,5 mg de NI THC dans 1 ml de solution éthanolique à 0,1 p. 100 d'androstène 3-17 dione.
+35 mg de squalane par 100 ml d'hexane.
 
-b) Conditions de l'appareillage :
+3.3. Extraction du 9-THC
 
-Température du four : 240 °C.
+Peser 100 mg d'échantillon d'analyse en poudre et les mettre dans un tube de centrifugeuse ; ajouter 5 ml de solution d'extraction contenant le témoin interne.
 
-Température de l'injecteur : 280 °C.
+Plonger le tout pendant 20 minutes dans un bain à ultrasons. Centrifuger pendant 5 minutes à 3 000 tours/min et prélever le soluté de 9-THC surnageant. Injecter ce dernier dans l'appareil de chromatographie et procéder à l'analyse quantitative.
 
-Température du détecteur : 270 °C.
+3.4. Chromatographie en phase gazeuse
 
-Débit d'azote : 25 ml/mn.
+a) Appareillages :
 
-Débit d'hydrogène : 25 ml/mn.
+- chromatographe en phase gazeuse muni d'un détecteur à ionisation à flamme et injecteur split/splitless ;
 
-Débit d'air : 300 ml/mn.
+- colonne permettant une bonne séparation des cannabinoïdes, par exemple une colonne capillaire en verre de 25 m de long et 0,22 mm de diamètre imprégnée d'une phase apolaire de type 5 % phényl-méthyl-siloxane.
 
-Volume injecté : 1 ml de la solution éthanolique finale.
+b) Gammes d'étalonnage :
 
-Le temps de rétention relatif du NI THC est calculé par rapport à l'androstène.
+Au moins 3 points pour la procédure A et 5 points pour la procédure B, comportant les points 0,04 et 0,50 mg/ml de 9-THC en solution d'extraction.
 
-9. Expression des résultats
+c) Conditions de l'appareillage :
 
-Le résultat est exprimé en grammes de NI THC pour 100 grammes de l'échantillon laboratoire séché jusqu'à poids constant. Le résultat est affecté d'une tolérance de 0,03 gramme par 100 grammes.
+Les conditions suivantes sont données à titre d'exemple pour la colonne citée au point a :
+
+- température du four : 260 °C ;
+
+- température de l'injecteur : 300 °C ;
+
+- température du détecteur : 300 °C.
+
+d) Volume injecté : 1 ml.
+
+4. Résultats
+
+Le résultat est exprimé avec deux décimales, en grammes du 9-THC pour 100 grammes d'échantillon d'analyse, séché jusqu'à poids constant. Le résultat est affecté d'une tolérance de 0,03 % en valeur absolue.
+
+Procédure A : le résultat correspond à une détermination par échantillon d'analyse. Toutefois, au cas où le résultat ainsi obtenu est supérieur à la limite prévue à l'article 1er de l'arrêté du 22 août 1990 modifié portant application de l'article R. 5181 du code de la santé publique pour le cannabis, une deuxième détermination est effectuée par échantillon d'analyse et le résultat correspond à la moyenne de ces deux déterminations.
+
+Procédure B : le résultat correspond à la moyenne de deux déterminations par échantillon d'analyse.
