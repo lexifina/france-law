@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506120
+
+- Question : [SEQ940506120](seq940506120.md) — Coût des délocalisations
+
+## Réponse
+
+*Intérieur, JO du 1994-08-11, page 2009*
+
+Réponse. - Le financement des mesures de délocalisation d'emplois publics hors de Paris est assuré par l'ouverture de crédits inscrits au budget des services généraux du Premier ministre, tant en investissement qu'en fonctionnement, constituant le fonds de délocalisation. Afin de permettre le financement des investissements nécessaires aux transferts, ont été ouverts 930 MF d'autorisations de programme (AP) et 830 MF de crédits de paiement (CP) pour les exercices respectifs de 1992 et 1994 inscrits au chapitre 57.01 du budget des services généraux du Premier ministre. Pour le financement des dépenses d'accompagnement social, les lois de finances ont prévu des dotations provisionnelles de 100 MF en 1992, 85,86 MF en 1993 et 20 MF en 1994, inscrites au chapitre 37.07 des dépenses ordinaires (DO) des services généraux du Premier ministre. Au 24 juin 1994, le montant des crédits effectivement transférés atteint 508,87 MF pour les AP, 429,72 MF pour les CP et 69,18 MF pour les DO. A ces dépenses, il y a lieu d'ajouter les financements décidés par le comité de gestion du fonds de délocalisation et non encore transférés, qui représentent 30,28 MF en AP, 73,23 MF en CP et 6,95 MF en DO. Globalement, le montant des dépenses engagées ou programmées sur le fonds de délocalisation depuis 1992 au 24 juin 1994 atteint donc 539,15 MF en AP, 502,95 MF en CP et 76,13 MF en DO. Il convient de préciser que le fonds de délocalisation n'est pas intervenu pour les opérations conduites par le ministre de la défense, les établissements publics industriels et commerciaux, les exploitants publics de La Poste et France Télécom. Il n'est intervenu que très partiellement s'agissant du transfert d'emplois de recherche.
