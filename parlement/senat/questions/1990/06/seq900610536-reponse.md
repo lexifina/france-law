@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610536
+
+- Question : [SEQ900610536](seq900610536.md) — Assurance vieillesse : droit à pension des anciens combattants en Côte-d'Ivoire
+
+## Réponse
+
+*Tourisme, JO du 1990-08-09, page 1771*
+
+Réponse. - Les anciens combattants, titulaires de la carte du combattant et les anciens prisonniers de guerre peuvent bénéficier, entre soixante et soixante-cinq ans, d'une retraite anticipée calculée sur le taux de 50 p. 100 compte tenu de la durée de leur captivité et de leurs services militaires en temps de guerre. Cette pension est ainsi attribuée, dès l'âge de soixante ans, aux intéressés totalisant au moins cinquante-quatre mois de captivité et de services militaires en temps de guerre, ou ayant la qualité d'ancien prisonnier de guerre évadé après au moins six mois de captivité ou rapatrié pour maladie ou blessure, ou ayant été réformés pour maladie ou blessure avant la date légale de cessation des hostilités. Les anciens combattants et anciens prisonniers de guerre peuvent, en outre, obtenir cette retraite anticipée : à 61 ans s'ils justifient d'au moins quarante-deux mois de services et de captivité ; à soixante-deux ans s'ils justifient d'au moins trente mois de services et de captivité ; à soixante-trois ans s'ils justifient d'au moins dix-huit mois de services et de captivité ; à soixante-quatre ans s'ils justifient d'au moins six mois de services et de captivité. Le Français résidant en Côte-d'Ivoire, qui souhaite bénéficier de ces dispositions, doit présenter sa demande de pension, en principe à l'institution compétente de ce pays, soit à la Caisse nationale de prévoyance sociale, B.P. 317 Abidjan 01. Toutefois, la demande est également recevable si elle est adressée à l'institution de l'autre pays, soit pour la France, le centre de sécurité sociale des travailleurs migrants, 11, rue de la Tour-des-Dames, 75436 PARIS CEDEX 09.
