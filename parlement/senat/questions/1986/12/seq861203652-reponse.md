@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203652
+
+- Question : [SEQ861203652](seq861203652.md) — Situation fiscale des Français résidant à Monaco
+
+## Réponse
+
+*Budget, JO du 1987-02-12, page 204*
+
+Réponse. -La convention franco-monégasque du 23 décembre 1951 a cessé de produire ses effets le 13 octobre 1962. Elle a été remplacée par la convention conclue le 18 mai 1963 dont l'un des principaux objectifs a été de mettre fin à une anomalie fiscale. Toutefois, pour tenir compte des situations existantes, le nouvel accord stipule que les Français de Monaco qui pouvaient se prévaloir de cinq années de résidence à Monaco au 13 octobre 1962 pourront continuer à être exonérés de l'impôt français sur le revenu. Cette condition de résidence est strictement appréciée et peut être notamment prouvée par la possession ou le renouvellement du certificat de domicile délivré en application de l'article 14 de la convention du 23 décembre 1951. Bien entendu, la résidence à Monaco doit être ininterrompue ; en cas d'interruption, les autorités monégasques sont fondées à retirer le certificat de domicile. La convention du 18 mai 1963 n'a cependant pas eu pour effet d'amo indrir l'importance de la colonie française de Monaco qui était de 12 869 personnes en 1961 et devrait passer à 13 500 en 1988, selon une estimation des autorités monégasques. Si les autres ressortissants étrangers à Monaco, en particulier les Italiens, ne sont pas soumis à un impôt sur le revenu, cela n'est dû qu'à l'absence de ce type d'imposition dans la principauté et à l'absence de conventions fiscales entre Monaco et d'autres Etats, notamment l'Italie. Ce particularisme fiscal a au demeurant une portée limitée ; en effet, conformément à la convention franco-monégasque, les activités économiques exercées par tous les résidents de Monaco, sans distinction de nationalité, sont soumises aux mêmes impositions, qu'il s'agisse de l'impôt sur les bénéfices ou de la T.V.A.
