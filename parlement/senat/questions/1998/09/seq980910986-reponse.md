@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910986
+
+- Question : [SEQ980910986](seq980910986.md) — Situation des producteurs de fruits et légumes
+
+## Réponse
+
+*Agriculture, JO du 1999-01-21, page 187*
+
+Réponse. - Afin de répondre de manière adaptée aux difficultés des producteurs de fruits et légumes, le Gouvernement a décidé de mettre en place un plan d'envergure visant à venir en aide aux entreprises économiquement viables mais fragilisées par ces circonstances exceptionnelles. Ces mesures ont été présentées aux professionnels du secteur des fruits et légumes le 28 avril 1998 et lors de la table ronde du 15 mai 1998. C'est ainsi qu'ont été mis en uvre notamment deux dispositifs relatifs l'un aux mesures d'urgence destinées à aider les producteurs concernés à passer un cap difficile, et l'autre aux mesures structurelles susceptibles de contribuer au redressement durable de certaines exploitations, et donc de participer au développement du secteur. Ces dispositifs regroupent plus d'une dizaine de mesures différentes et permettent de répondre aux différentes situations rencontrées. Par ces actions, le ministère de l'agriculture et de la pêche entend concrétiser son engagement pour l'accompagnement d'un secteur essentiel au développement de la production française.
