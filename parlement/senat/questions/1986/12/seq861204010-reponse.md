@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861204010
+
+- Question : [SEQ861204010](seq861204010.md) — Football: problèmes de l'arbitrage
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-02-26, page 298*
+
+Réponse. -Le recrutement des arbitres de football s'effectue selon des critères précis qui sont définis par le règlement intérieur de la Fédération française de football. Ce règlement stipule que le recrutement est obligatoire pour les clubs participant aux compétitions officielles conformément aux dispositions de l'article 6 du statut de l'arbitrage. Le nombre d'arbitres officiels que les clubs doivent mettre à la disposition de leur district ou de leur ligue est variable suivant la compétition à laquelle participe leur équipe première et ne peut être inférieur à un nombre prédéterminé en fonction du niveau de participation de cette équipe. Ces dispositions s'appliquent à l'ensemble des clubs de football affiliés à la Fédération française de football, les seules dérogations possibles concernent des clubs libres ou corporatifs qui disputent des compétitions officielles de la dernière série de district, de la ligue ou, dans certaines conditions très particulières, de championnat. Un certain nombre de sanctions sont applicables aux clubs qui ne se conforment pas à cette réglementation, en particulier, des amendes pour les trois premières saisons d'infraction, l'interdiction faite aux clubs d'accéder à la division supérieure, s'ils y ont gagné leur place, intervenant à l'issue de la troisième saison d'infraction. La Fédération française de football établit son règlement en fonction d'impératifs qu'elle est seule en mesure d'apprécier puisque, conformément à la loi du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, cette fédération a reçu délégation de pouvoir pour organiser et contrôler la pratique du football en France.
