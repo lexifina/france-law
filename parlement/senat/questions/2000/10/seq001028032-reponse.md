@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028032
+
+- Question : [SEQ001028032](seq001028032.md) — Retraite des fonctionnaires anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Fonction publique, JO du 2000-12-28, page 4485*
+
+Réponse. - En application de l'article R. 14 du code des pensions civiles et militaires de retraite, les bénéfices de campagne prévus à l'article L. 12 sont accordés dans les conditions suivantes. La campagne double s'applique aux fonctionnaires ayant été engagés dans des opérations de guerre, la campagne simple vise les services accomplis sur " le pied de guerre ", la campagne simple ou la demi-campagne sont octroyées selon le degré d'insécurité qui régnait dans le territoire concerné. En application de ces dispositions, les fonctionnaires ayant servi durant la Première ou la Seconde Guerre mondiale ont bénéficié tantôt de la campagne simple, tantôt de la campagne double, selon le lieu et la période de leurs services. De la même façon, le droit aux bénéfices de campagne des anciens combattants d'Afrique du Nord doit s'apprécier dans le contexte particulier des conflits locaux. A cet égard, il est apparu que la demi-campagne, accordée à l'origine au nom de l'insécurité, n'était pas en rapport avec les risques encourus lors des affrontements armés entre unités organisées qui ont eu lieu en Afrique du Nord dans des conditions rappelant les combats des deux guerres mondiales. C'est pourquoi le bénéfice de la campagne simple a été étendu à tous les militaires, sans distinguer entre les périodes de combat et les autres. Cette amélioration des dispositions initialement prévues paraît respecter équitablement les principes régissant les bénéfices de campagne. L'adoption par le Parlement de la loi ajoutant à l'expression " opérations effectuées en Afrique du Nord " la notion de " guerre d'Algérie " n'est pas de nature à remettre en cause cette appréciation des faits. Il n'est donc pas envisagé de modifier le dispositif en vigueur.
