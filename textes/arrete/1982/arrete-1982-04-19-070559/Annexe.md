@@ -2,9 +2,9 @@
 
 :=================================: |
 
-: GROUPES : ECHELONS : |
+: ECHELLE ou : ECHELONS : |
 
-: : (indices bruts) : |
+: GROUPES : (indices bruts) : |
 
 :------------:--------------------: |
 
@@ -12,9 +12,7 @@
 
 : :------:------:------: |
 
-: Groupe I : 204 : 206 : 212 : |
-
-: Groupe II : 209 : 215 : 222 : |
+: Echelle 1 : 204 : 215 : 222 : |
 
 : Groupe III : 220 : 226 : 232 : |
 
@@ -32,9 +30,9 @@
 
 :=================================: |
 
-: GROUPES : ECHELONS : |
+: ECHELLE ou : ECHELONS : |
 
-: : (indices bruts) : |
+: GROUPES : (indices bruts) : |
 
 :------------:--------------------: |
 
@@ -42,9 +40,7 @@
 
 : :------:------:------: |
 
-: Groupe I : 219 : : : |
-
-: Groupe II : 229 : 236 : 242 : |
+: Echelle 1 : 229 : 236 : 242 : |
 
 : Groupe III : 238 : 247 : 256 : |
 
@@ -62,9 +58,9 @@
 
 :=================================: |
 
-: GROUPES : ECHELONS : |
+: ECHELLE ou : ECHELONS : |
 
-: : (indices bruts) : |
+: GROUPES : (indices bruts) : |
 
 :------------:--------------------: |
 
@@ -72,9 +68,7 @@
 
 : :------:------:------: |
 
-: Groupe I : : : : |
-
-: Groupe II : 250 : 259 : : |
+: Echelle 1 : 250 : 259 : : |
 
 : Groupe III : 262 : 267 : 274 : |
 
@@ -92,9 +86,9 @@
 
 :=================================: |
 
-: GROUPES : ECHELONS : |
+: ECHELLE ou : ECHELONS : |
 
-: : (indices bruts) : |
+: GROUPES : (indices bruts) : |
 
 :------------:--------------------: |
 
@@ -102,9 +96,7 @@
 
 : :--------------------: |
 
-: Groupe I : : |
-
-: Groupe II : : |
+: Echelle 1 : : |
 
 : Groupe III : 282 : |
 

@@ -2,91 +2,73 @@
 
 :=================================================================: |
 
-: GRADES ET EMPLOIS ACTUELS : CLASSEMENT DU : CLASSEMENT A : |
+: GRADES ET EMPLOIS ACTUELS : : |
 
-: (indices bruts) : 1er janvier 1970 : COMPTER DU : |
+: (indices bruts) : Classement au 1er janvier 1983 : |
 
-: : : 1er janvier 1974 : |
+: : : |
 
 :=================================================================: |
 
-: Echelle indiciaire (100 - : : : |
+: Echelle indiciaire (204 - : : |
 
-: 185) : : : : |
+: 259) : : Echelle 1 : |
 
-: Gardien ou garçon de : : : |
+: Gardien ou garçon de : : |
 
-: bureau : : : |
+: bureau (1ère et 2ème : : |
 
-: Femme de service : Groupe I : Groupe I : |
+: catégorie) : : |
 
-: Homme d'équipe : : : |
+: Agent de service : : |
 
-: Manoeuvre : : : |
+: Manutentionnaire : : |
 
-: : : : |
+: Manoeuvre : : |
 
-: Echelle indiciaire (143 - : : : |
+: Huissier du maire : : |
 
-: 190) : : : : |
+: Agent de service des : : |
 
-: Huissier du maire : : : |
+: écoles : : |
 
-: Femme de service des : : : |
+: Garçon de laboratoire : : |
 
-: écoles : : : |
+: d'analyses chimiques : : |
 
-: Garçon de laboratoire : : : |
+: Gardien de musée : : |
 
-: d'analyses chimiques : : : |
+: Gardien ou garçon de : : |
 
-: Gardien de musée : Groupe I : Groupe I : |
+: bibliothèque : : |
 
-: Gardien ou garçon de : : : |
+: Gardien de cimetière : : |
 
-: bibliothèque : : : |
+: Manoeuvre de force : : |
 
-: Gardien de cimetière : : : |
+: Brigadier des gardiens : : |
 
-: Manoeuvre de force : : : |
+: ou garçons de bureau : : |
 
-: Brigadier des gardiens : : : |
+: Agent spécialisé des : : |
 
-: ou garçons de bureau ou : : : |
+: écoles maternelles et : : |
 
-: des hommes d'équipe (1) : Groupe II : Groupe II : |
+: des classes enfantines : : |
 
-: Echelle indiciaire (158 - : : : |
+: Appariteur-enquêteur : : |
 
-: 210) : : : : |
+: Agent de bureau : : |
 
-: Agent spécialisé des : : : |
+: Manoeuvre spécialisé : : |
 
-: écoles maternelles et : : : |
+: usines et ateliers : : |
 
-: des classes enfantines : : : |
+: municipaux : : |
 
-: Appariteur-enquêteur : : : |
+: Garçon de laboratoire : : |
 
-: Agent de bureau : Groupe II : Groupe II : |
-
-: Manoeuvre spécialisé : : : |
-
-: Porteur des services : : : |
-
-: d'inhumation : : : |
-
-: Garçon de laboratoire : : : |
-
-: d'analyses médicales : : : |
-
-: : : : |
-
-: Agent de bureau : Groupe III : Groupe III : |
-
-: dactylographe (1) : provisoire : : |
-
-: : : : |
+: d'analyses médicales : : |
 
 ===================================================================
 
@@ -100,7 +82,17 @@
 
 :===========================:==================:==================: |
 
-: Echelle indiciaire (170 - : : : |
+: Echelle indiciaire (158 - : : : |
+
+: 210) : : : : |
+
+: Agent de bureau : Groupe III : Groupe III : |
+
+: dactylographe (1) : provisoire : : |
+
+: : : : |
+
+: Echelle indiciaire 170 - : : : |
 
 : 235) : : : : |
 
