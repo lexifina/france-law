@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306401
+
+- Question : [SEQ030306401](seq030306401.md) — Retard de versement des aides à l'installation des jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 2003-07-24, page 2382*
+
+La circulaire n° 7025 du 5 juin 2002 a été prise en application du décret n° 2001-925 du 3 octobre 2001, destiné à harmoniser le dispositif réglementaire national avec le règlement de développement rural (RDR) n° 1257-1999 du conseil du 17 mai 1999. Ce règlement européen fixe notamment les conditions à respecter pour que les aides à l'installation bénéficient d'un cofinancement communautaire à hauteur de 50 %. La première fraction de la dotation (70 %) est versée au jeune agriculteur dès le constat de son installation. La deuxième fraction est versée à condition que l'exploitation soit économiquement viable au terme de trois années. La situation du jeune est donc examinée au cours de la quatrième année de son installation. Le règlement européen n'autorise plus à prendre en compte la quatrième année comptable. Toutefois, lorsque l'intéressé n'a pas atteint le revenu minimum au terme du troisième exercice, pour des motifs conjoncturels, en raison d'accidents climatiques ou d'une épizootie ayant touché le cheptel, le préfet peut, après avis favorable de la CDOA, accorder le versement de la deuxième fraction de la dotation. En outre, la réglementation prévoit que les jeunes s'installant en zones défavorisées ou de montagne, ou réalisant un projet en cultures pérennes, en conversion biologique, ou en dehors du cadre familial peuvent présenter un projet faisant apparaître un revenu prévisionnel au moins égal à 40 % du revenu de référence national au lieu de 60 % dans le cas général. Un rappel de ces modalités d'examen des situations particulières a été adressé aux services déconcentrés afin de prendre en compte les difficultés rencontrées par les jeunes agriculteurs lors de leur installation.
