@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507751
+
+- Question : [SEQ030507751](seq030507751.md) — Equipements et tenues des personnels des douanes
+
+## Réponse
+
+*Budget, JO du 2003-09-25, page 2897*
+
+L'attention de la direction générale des douanes et droits indirects a été appelée sur des demandes d'amélioration, dans le cadre des marchés en cours de renouvellement, des tenues de travail des agents de la surveillance, notamment pour les unités terrestres. Sur la base de propositions exprimées par les agents dans le cadre de groupes utilisateurs initiés par l'administration, des améliorations importantes ont été apportées à plusieurs effets vestimentaires. Ainsi, les parkas et les combinaisons de travail sont-elles désormais réalisées dans un tissu plus chaud. En outre, les agents des unités terrestres qui le souhaitent peuvent commander l'anorak de montagne et sa doublure polaire, dès la présente campagne d'habillement. Les effets vestimentaires précités sont dorénavant sérigraphiés " douanes " de façon très visible afin de permettre l'identification immédiate, de jour comme de nuit, des agents et d'améliorer leur sécurité. Par ailleurs, des tenues mieux adaptées à la conduite sur route pour les motocyclistes sont actuellement expérimentées. D'ores et déjà, le vestiaire de ces agents comporte la chemise F 1 (sous-vêtement) pour un meilleur confort contre le froid en conduite. Enfin, plus de 2 000 agents ont déjà été dotés de gilets pare-balles en 2002 et 2003. A l'instar de leurs collègues, tous les motocyclistes seront équipés avant la fin de l'année. Ce programme d'équipement sera poursuivi. D'autres améliorations des tenues, notamment concernant la coiffe, pourront être apportées dans le cadre des prochains marchés publics, pour tenir compte des demandes et des besoins exprimés dans le cadre des groupes utilisateurs par les agents sur le terrain.
