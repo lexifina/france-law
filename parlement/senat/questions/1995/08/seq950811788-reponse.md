@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811788
+
+- Question : [SEQ950811788](seq950811788.md) — Conséquences de l'automatisation de la vente de billets par la SNCF
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-10-05, page 1898*
+
+Réponse. - Le ministre de l'aménagement du territoire, de l'équipement et des transports est très attaché à la qualité des services publics de transport et au développement du dialogue entre la SNCF et les collectivités locales. C'est dans cet esprit qu'il a fait examiner le problème concernant l'automatisation de la vente des billets, en tenant compte de l'obligation faite à la SNCF d'utiliser au mieux ses moyens en personnel, matériels et financiers, et ce d'autant plus que l'établissement public se trouve dans une situation financière difficile. Dans certaines gares, il n'est pas possible de maintenir du personnel pour une très faible vente de billets grandes lignes qui peut être traitée par des gares voisines, par téléphone, par minitel ou par des agences de voyages. La SNCF a alors décidé de modifier la vente des titres de transport, qui sont en très grande majorité régionaux, en installant des distributeurs. Afin de satisfaire au mieux les besoins des utilisateurs quotidiens des services ferroviaires régionaux, des distributeurs de billets adaptés ont été développés, en partenariat avec les conseils régionaux. Ces nouveaux appareils plus performants, qui acceptent le paiement par carte bancaire et qui rendent la monnaie, permettent un gain de temps par un dialogue plus court, une facilité d'utilisation appréciée par les clients et une plus grande accessibilité puisque, souvent placés à l'extérieur des bâtiments, ils sont alors disponibles en permanence. Ils permettent également un achat unique pour des déplacements multimodaux. Toutefois, en plus de la distribution automatique, il subsiste toujours dans les gares où la clientèle est plus nombreuse un agent commercial pour l'accueil et l'information.
