@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722157
+
+- Question : [SEQ920722157](seq920722157.md) — Mesures envisagées en faveur des producteurs de champignons
+
+## Réponse
+
+*Agriculture, JO du 1992-10-08, page 2292*
+
+Réponse. - Les importations massives de champignon de couche en saumure en provenance de Pologne perturbent le marché communautaire et mettent en difficulté la filière française de production et de transformation de champignons de couche depuis 1989. Aussi, le Gouvernement français est intervenu auprès de la Commission des communautés européennes afin qu'elle prenne des mesures propres à assurer la préférence communautaire. En octobre 1990, celle-ci a décidé de mettre en place une clause de sauvegarde applicable aux importations de champignons de couche en saumure. Cette clause a été régulièrement reconduite jusqu'au 30 avril 1992. Depuis cette date, le Conseil a pris un réglement portant contingentement des importations de champignons de couche en saumure et conservés (NC 07-11-90-50 et NC 20-03-10-10), faisant une place particulière à la Chine selon les dispositions en vigueur depuis 1981, et à la Pologne selon l'accord bilatéral signé par la CEE avec ce pays en novembre 1991. Par ailleurs, la crise sur le marché des conserves de champignons de couche a contraint les entreprises à réduire leurs fabrications, à rechercher des gains de productivité et à poursuivre leurs investissements pour améliorer leur compétitivité tant au niveau agricole qu'industriel. Cette crise a des conséquences économiques graves en matière d'emploi et sur la situation financière des entreprises de la filière. C'est pour examiner les mesures nécessaires à la consolidation de la filière française que le ministère de l'agriculture et de la forêt organise actuellement des rencontres tripartites associant les pouvoirs publics, les syndicats de salariés et les employeurs producteurs de champignons ou industriels.
