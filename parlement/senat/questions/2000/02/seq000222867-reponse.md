@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222867
+
+- Question : [SEQ000222867](seq000222867.md) — Valeur juridique des télécopies dans le cadre du travail
+
+## Réponse
+
+*Emploi, JO du 2001-09-13, page 2978*
+
+L'honorable parlementaire entend appeler l'attention sur les problèmes de preuve qui pourraient se poser dans le cas de la rétractation par l'employeur d'une promesse d'embauche faite par télécopie. La jurisprudence admet que la promesse formelle d'embauche vaut contrat d'engagement. En cas de non-respect d'une promesse formelle d'embauche qui n'est pas fondé sur un motif valable, la partie lésée par la rupture unilatérale d'embauche peut prétendre au versement de dommages-intérêts sur le fondement de l'article 1142 du code civil. Toutefois, c'est au juge qu'il appartient d'apprécier tant la validité de la promesse d'embauche que la légitimité du motif invoqué. A cet égard, il est rappelé que les litiges concernant le non-respect de la promesse d'embauche relèvent de la compétence de la juridiction prud'homale. Par ailleurs, en ce qui concerne la valeur probante d'une télécopie, l'article 1348 du code civil dispose que l'exigence d'une preuve écrite reçoit exception lorsque l'une des parties n'a pas conservé le titre original et présente une copie qui en est la reproduction non seulement fidèle mais aussi durable. Il résulte d'un arrêt récent de la Cour de cassation que le juge du fond apprécie souverainement la valeur probatoire d'une télécopie contestée par la partie adverse (Cass.1re civ. 28 mars 2000, Société Lazard c/Fuentes). Ainsi, il ressort de la jurisprudence qu'il appartient au juge de déterminer si le document produit a fait ou non l'objet de montages ou de manipulations. C'est dans ces conditions, et sous réserve de l'appréciation souveraine du juge, que la télécopie peut constituer un élément de preuve en cas de non-respect d'une promesse d'embauche.
