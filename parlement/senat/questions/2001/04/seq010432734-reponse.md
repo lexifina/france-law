@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432734
+
+- Question : [SEQ010432734](seq010432734.md) — Règlement communautaire concernant la distribution automobile
+
+## Réponse
+
+*Affaires européennes, JO du 2001-06-14, page 1992*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur l'avenir des accords de distribution automobile, à la date de l'expiration du règlement d'exemption n° 1475/95, fixée à 2002. Trois schémas d'évolution sont envisageables : le maintien du règlement d'exception automobile 1475/95, sa non-reconduction assortie de l'adoption d'un nouveau règlement spécifique ou, enfin, la disparition de tout régime spécifique à l'automobile, ce qui entraînerait l'application du règlement 2790/1999 au secteur de l'automobile. La Commission européenne a adopté, le 15 novembre dernier, un rapport critique sur la situation dans la distribution automobile. Elle a, par ailleurs, annoncé le 14 février dernier qu'elle entendait commander une nouvelle étude de grande ampleur afin d'examiner l'impact des divers scénarios législatifs pour la mise en place du futur régime applicable à la distribution automobile. Cette troisième étude d'impact devrait être disponible à l'été. Des consultations complémentaires, notamment avec les Etats membres, auront alors lieu, avant que la commission n'arrête sa décision finale sur le nouveau régime. A ce stade, la position française, telle qu'exprimée lors d'une réunion du comité consultatif en matière d'ententes et de positions dominantes, qui s'est tenue le 25 juillet dernier, consiste à exiger qu'une étroite concertation avec les professionnels du secteur automobile et les Etats membres soit le préalable indispensable à l'adoption de toute proposition à ce sujet. Le Gouvernement reste très vigilant sur les perspectives d'évolution de la distribution automobile dont il a pleine conscience des implications économiques.
