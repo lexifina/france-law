@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120633
+
+- Question : [SEQ991120633](seq991120633.md) — Situation des retraités de l'artisanat
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-02-24, page 702*
+
+Réponse. - S'agissant des cotisations perçues sur les retraites des artisans, la cotisation d'assurance maladie de 2,4 %, acquittée jusqu'en 1998, a été supprimée et remplacée par une hausse de la CSG, désormais alignée sur le taux du régime général, soit 6,2 %. Toutefois, les prestations versées par le régime d'assurance maladie des travailleurs indépendants demeurent inférieures à celles du régime général, d'environ 4 %. Afin de rémédier à cette situation, une réflexion a été engagée avec les instances représentatives des actifs et des retraités. Ainsi, le 1er décembre 1999, le conseil d'administration de la CANAM (caisse d'assurance maladie des professions indépendantes) a voté une proposition d'alignement sur le régime général desdites prestations, tant pour les actifs que pour les retraités. L'augmentation de cotisations qu'elle implique - d'environ 0,7 % pour les actifs - mérite cependant une étude approfondie, notamment au regard de l'objectif de réduction des prélèvements obligatoires que s'est fixé le Gouvernement. Des travaux sont menés actuellement par le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat et le ministère de l'emploi et de la solidarité dans la perspective d'un débat qui s'inscrira nécessairement dans le projet de loi de financement de la sécurité sociale. Quant à la ponction de 2 milliards de francs opérées sur la contribution sociale de solidarité des sociétés, elle a été votée par le Parlement dans le but d'alimenter le fonds de réserve pour les retraites. Ce dernier vise à garantir l'équilibre à long terme des régimes obligatoires de retraite par répartition, auxquels appartient le régime des artisans. Cette ponction bénéficiera donc aussi aux retraités de l'artisanat.
