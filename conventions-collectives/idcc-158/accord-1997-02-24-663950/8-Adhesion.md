@@ -1,0 +1,3 @@
+# Article 8 : Adhésion
+
+Toute organisation professionnelle ou syndicale peut adhérer ultérieurement au présent accord dans les conditions et modalités prévues à l'article L. 132-9 du code du travail.
