@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716869
+
+- Question : [SEQ960716869](seq960716869.md) — Observatoire national de la prévention
+
+## Réponse
+
+*Éducation, JO du 1996-09-19, page 2419*
+
+Réponse. - Lors d'une précédente question relative à l'aide aux élèves en difficulté et à la prévention de la difficulté scolaire, il a été répondu que durant l'année 1994-1995 a été confié, au directeur des centres nationaux de l'adaptation et de l'intégration scolaires et au médecin conseiller technique de la direction des écoles, le pilotage d'un groupe de réflexion. Cette " unité de suivi " a recensé toutes les actions innovantes de mise en synergie des acteurs chargés de la prévention de la difficulté scolaire. Comme il a été indiqué, une journée nationale de réflexion, organisée le 22 mars 1995 à Suresnes à cette occasion, a permis la présentation de ces expérimentations et des échanges fructueux entre les différents participants. Dans la lignée de cette action, pour l'année scolaire 1996-1997, des stages, dont certains de dimension européenne, sont prévus aux fins de sensibilisation à la détection et à la prévention des difficultés scolaires, d'analyse et d'organisation des aides en conséquence. Afin de donner un cadre plus large à cette réflexion, le directeur des écoles a sollicité, en parallèle, l'ensemble des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, afin qu'ils développent un partenariat entre l'école et l'ensemble des différents acteurs de la prévention. C'est pour cette action qu'un bilan d'étape a été demandé pour la fin de l'année scolaire 1995-1996. Actuellement, les quelques remontées d'information parvenues ne permettent pas encore de faire un point suffisamment complet des pratiques du terrain, et de tirer des conclusions susceptibles d'être généralisées.
