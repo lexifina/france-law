@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136255
+
+- Question : [SEQ011136255](seq011136255.md) — Réduction sur les vols transatlantiques des compagnies aériennes américaines
+
+## Réponse
+
+*Équipement, JO du 2002-01-03, page 44*
+
+Partageant le souci exprimé par l'honorable parlementaire, le ministre de l'équipement, des transports et du logement a la volonté que les aides octroyées par l'Etat américain aux compagnies américaines ne leur permettent pas de se livrer à des pratiques tarifaires susceptibles de fausser le jeu de la concurrence sur le marché transatlantique. A cet égard, tant la Commission européenne, par le biais d'un courrier en date du 12 octobre 2001, que le gouvernement français, lors des dernières consultations aéronautiques bilatérales qui se sont tenues les 18 et 19 octobre 2001, ont attiré l'attention des autorités américaines sur cette question. Par ailleurs, le 12 novembre dernier, le directeur général de la Commission pour les transports a plaidé en faveur de la conclusion d'un code de bonne conduite auprès des autorités américaines. Ces dernières se sont montrées réservées à l'égard de cette proposition, mais un dialogue, qui devrait se poursuivre dans les prochaines semaines, est maintenant engagé sur ce sujet avec la Commission. En revanche, il n'apparaît pas possible aujourd'hui d'engager une procédure contentieuse sur cette question dans le cadre de l'Organisation mondiale du commerce. En effet, les services de transport aérien ne sont que très partiellement couverts par le champ de l'accord général sur le commerce des services de 1993, défini par les paragraphes 2 et 3 d'une annexe spécifique aux services de transport aérien. Le paragraphe 2 stipule notamment que l'accord, y compris les procédures de règlement des différends qui y sont prévues, ne s'applique pas aux mesures qui affectent les droits de trafic ou les services directement liés à l'exercice des droits de trafic, et donc, en particulier, à la question des tarifs.
