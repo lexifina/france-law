@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921022947
+
+- Question : [SEQ921022947](seq921022947.md) — Fermeture des consulats français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-11-26, page 2625*
+
+Réponse. - Dans le cadre du remodelage de la carte diplomatique et consulaire, le ministère des affaires étrangères a procédé en 1992 à la fermeture des postes consulaires suivants : Europe : consulat de France à Baden-Baden au 31 juillet 1992 ; consulat de France à Fribourg au 30 septembre 1992 ; antenne consulaire de Tournai au 30 mai 1992 ; chancellerie détachée de Trêves au 31 juillet 1992. Moyen-Orient : consulat général de France à Aden au 30 avril 1992. Afrique : chancellerie détachée d'Arlit au 31 juillet 1992 ; consulat de France à Bouaké au 31 juillet 1992 ; antenne consulaire d'Oujda au 30 mai 1992. Transformation du consulat de France à Sfax en chancellerie détachée (visas) au 30 septembre 1992. Par ailleurs, la chancellerie détachée à Mayence a été élevée au rang de consulat général. Au total, en 1991, 1992 et 1993, le remodelage de la carte diplomatique et consulaire décidé par le département se décompose comme suit : ouverture de dix-neuf ambassades et de quatre consulats ; fermeture de deux ambassades (évacuées pour des raisons de sécurité) et de seize postes consulaires (consulats et chancelleries détachées). En outre, la France conserve les réseaux diplomatiques (146 postes) et consulaires (125 postes) les plus importants comparativement à ceux de ses partenaires européens. Dans le monde, seuls les Etats-Unis comptent plus d'ambassades que la France, mais moins de consulats. Il apparaît donc clairement que le redéploiement effectué par le ministère des affaires étrangères s'inscrit dans une tendance de rationalisation et d'extension de son réseau, dans un contexte où la France a voulu affirmer, sans délai, sa présence dans tous les Etats nouvellement créés à l'est de l'Europe.
