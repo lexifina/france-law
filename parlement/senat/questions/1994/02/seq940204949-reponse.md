@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204949
+
+- Question : [SEQ940204949](seq940204949.md) — Délais de transmission du courrier par la poste
+
+## Réponse
+
+*Industrie, JO du 1994-06-16, page 1491*
+
+Réponse. - L'objectif de La Poste a toujours été d'améliorer les délais d'acheminement du courrier affranchi au tarif normal. L'objectif de l'entreprise est de distribuer les lettres, sur le territoire national, le lendemain de leur expédition, dès lors que l'heure limite de dépôt a été respectée par l'expéditeur. Au cas particulier du département de Vaucluse, l'étude des éléments statistiques fait état, pour l'année 1993, d'un niveau de qualité supérieur à celui de 1992. C'est ainsi que 97 p. 100 des lettres intradépartementales sont distribuées à J p 1, celles émanant des autres départements métropolitains sont distribuées le lendemain de leur dépôt pour 87 p. 100 d'entre elles. Les résultats des premiers mois de 1994 confirment cette tendance. Cette évolution découle, pour l'essentiel, de l'inversion des liaisons postales aériennes qui a amélioré les délais d'acheminement du courrier originaire de la région parisienne, en particulier vers le Sud-Est. Les services d'acheminement et de la distribution du département ne relèvent aucun incident majeur hormis quelques répercussions de retards enregistrés sur le réseau aérien pour des raisons techniques. En conséquence, au regard des résultats de la qualité de service, le département de Vaucluse se situe dans une bonne moyenne nationale. Il n'en demeure pas moins que des incidents isolés peuvent provoquer des retards accidentels. La Poste s'attache particulièrement, sur tout le territoire national, à réduire les délais aberrants qui sont parfois constatés afin de diminuer les motifs d'insatisfaction de ses clients qui n'ont pu bénéficier de la prestation à J p 1.
