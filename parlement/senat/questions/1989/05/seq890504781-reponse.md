@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504781
+
+- Question : [SEQ890504781](seq890504781.md) — Développement du design dans les entreprises françaises
+
+## Réponse
+
+*Culture, JO du 1989-08-10, page 1240*
+
+Réponse. - Le ministère de la culture, de la communication, des grands travaux et du Bicentenaire poursuit depuis plusieurs années une politique visant à développer la formation et la création dans le domaine du design. L'E.N.S.A.D. (Ecole nationale supérieure des arts décoratifs), l'E.N.S.C.I. (Ecole nationale supérieure de la création industrielle), créée avec le ministère de l'industrie en 1982, et les écoles nationales, régionales ou municipales d'art dispensent un enseignement spécialisé de haut niveau. Conscient de l'échéance de 1993, le ministère a engagé une étude visant à faire l'inventaire de l'ensemble des systèmes d'enseignement des arts plastiques en Europe, le but étant de développer des actions d'échange et de partenariat avec les plus grands établissements universitaires et artistiques. Par le biais de l'Agence pour la promotion de la création industrielle (A.P.C.I.), il met en relation créateurs et industriels et suscite des débouchés importants pour la création industrielle à travers la commande publique. Il s'efforce, d'autre part, en organisant ou soutenant financièrement des expositions ou des événements relevant de ce secteur, de sensibiliser le grand public au design et de faire ainsi évoluer la consommation. Enfin, le ministre de la culture, de la communication, des grands travaux et du Bicentenaire a récemment confié à M. Bernard Hanon une mission d'information et de réflexion sur la situation du design en France. Il en attend des propositions pouvant se rapporter aussi bien à des actions particulières, nationales ou internationales, qu'à d'éventuelles réformes plus générales allant dans le sens d'un développement du design et d'une plus grande efficacité des actions conduites par les pouvoirs publics en ce domaine.
