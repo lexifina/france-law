@@ -1,45 +1,49 @@
-# Article Annexe IV
+# Article ANNEXE IV
 
-Personnels concernés
+(Décret n° 87-788 du 28 septembre 1987 modifié
 
-Montants au 1er janvier 1994
+relatif aux assistants des hôpitaux)
+
+Mesures permanentes
+
+MONTANTS au 1er août 1994
 
 Assistants généralistes :
 
 1re et 2e année
 
-133 606
+130 359
 
 3e et 4e année
 
-146 992
+142 040
 
 Assistants spécialistes :
 
 1re et 2e année
 
-175 509
+171 244
 
 3e et 4e année
 
-191 122
+182 924
 
 Assistants associés généralistes :
 
 1re et 2e année
 
-127 022
+123 935
 
 3e et 4e année
 
-139 738
+135 031
 
 Assistants associés spécialistes :
 
 1re et 2e année
 
-166 830
+162 775
 
 3e et 4e année
 
-181 662
+173 871
