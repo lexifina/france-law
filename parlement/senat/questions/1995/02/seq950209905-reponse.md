@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209905
+
+- Question : [SEQ950209905](seq950209905.md) — Situation du négoce agricole
+
+## Réponse
+
+*Agriculture, JO du 1995-04-06, page 819*
+
+Réponse. - Si les coopératives agricoles bénéficient des dispositions particulières en matière fiscale, ces dernières ne sont que la contrepartie d'un statut juridique spécifique et contraignant pour les organismes et leurs adhérents. Les dispositions légales et réglementaires propres aux coopératives agricoles limitent leur capacité d'entreprendre en comparaison avec les entreprises du négoce agricole (attachement à un secteur géographique, respect de la règle de l'exclusivisme). De plus, les coopératives agricoles sont soumises à un agrément ministériel ou préfectoral qui peut leur être retiré en cas de fonctionnement irrégulier avec remise en cause des avantages fiscaux. L'article 207 du code général des impôts exonère les coopératives agricoles de l'impôt sur les sociétés à la condition expresse qu'elles fonctionnent conformément aux dispositions qui les régissent. De plus, il y a lieu de rappeler que la loi no 91-5 du 3 janvier 1991 a modifié diverses dispositions intervenant dans le domaine de l'agriculture. Elle a permis à la coopération agricole d'adapter sa capacité économique à l'évolution des marchés et à accéder plus facilement au marché financier. De même, la loi du 13 juillet 1992 relative à la modernisation des entreprises coopératives a procédé à une réforme d'ensemble du statut de la coopération avec des modifications de nature juridique et fiscale. Ainsi, l'ouverture à des capitaux extérieurs a entraîné la suppression partielle ou totale des avantages fiscaux dont bénéficient les coopératives en matière d'impôt sur les sociétés et de taxe professionnelle. Il n'est donc pas envisagé de remettre en cause la spécificité des coopératives agricoles.
