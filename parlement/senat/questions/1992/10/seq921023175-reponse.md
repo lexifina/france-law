@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023175
+
+- Question : [SEQ921023175](seq921023175.md) — Calendrier d'intégration des candidats reçus aux concours depuis 1990
+
+## Réponse
+
+*Postes, JO du 1992-12-10, page 2741*
+
+Réponse. - Pour assurer la continuité du service public et permettre un comblement des vacances d'emploi au fur et à mesure qu'elles se produisent, La Poste et France Télécom doivent avoir en permanence des lauréats en instance d'appel à l'activité. A cet effet, les concours de recrutement sont organisés par anticipation, en tenant compte des mouvements de personnel prévisibles, des sorties définitives de fonctions envisagées et des défections susceptibles d'intervenir parmi les lauréats au moment de l'appel à l'activité. De telles prévisions sont par nature difficiles à établir. Au 30 septembre 1992, 6 200 personnes reçues à différents concours externes ouverts pour le recrutement de fonctionnaires de La Poste et de France Télécom attendaient d'être appelées à l'activité. D'ici à la fin de l'année, 1 200 d'entre elles recevront une première affectation. D'autres lauréats seront appelés à l'activité en 1993 dans des délais qu'il est difficile d'évaluer à ce jour. A l'avenir, dans le cadre du nouveau comblement des emplois qui est en préparation, les exploitants publics envisagent de confier le recrutement aux échelons locaux, ce qui devrait permettre de déterminer les besoins avec une plus grande précision. En ce qui concerne le recrutement exceptionnel par La Poste et France Télécom de " Contrats emploi-solidarité ", il s'inscrit dans le cadre du plan gouvernemental de lutte contre le chômage de longue durée et n'interfère pas dans ces prévisions. En effet, les bénéficiaires de ces contrats sont recrutés à mi-temps, soit pour assurer des activités de renfort, soit pour accomplir des travaux qui ne sont pas effectués par les personnels en place, dans le but d'améliorer la qualité du service.
