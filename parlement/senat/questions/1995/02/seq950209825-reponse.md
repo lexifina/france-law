@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209825
+
+- Question : [SEQ950209825](seq950209825.md) — Services de sécurité privés dans les transports en commun
+
+## Réponse
+
+*Intérieur, JO du 1995-08-31, page 1675*
+
+Réponse. - La mission des agents de sécurité de la régie autonome des transports parisiens est orientée vers la protection des personnels et du matériel de la RATP sur l'ensemble de son réseau. Recrutés avec le baccalauréat après avoir subi des tests psychotechniques, ces hommes qui doivent pratiquer un art martial exercent leurs fonctions après une formation d'une durée de six mois (dont deux mois de sport de combat). Le service de protection et de sécurité du métropolitain de la préfecture de police intervient au cours de cette formation par des conférences. Le groupe de protection et de sécurité du réseau regroupe en effectif budgétaire 1995, 713 personnes. Le nombre de ces agents opérationnels à la fois dans le métro, le RER et les bus est de 650. Certains de ces agents sont autorisés au port d'une arme de 4e catégorie dans le cadre de la mission exercée par la RATP au titre de la loi du 15 juillet 1845 sur la police des chemins de fer. Dans ce cas, le préfet de police leur délivre nommément des autorisations administratives à validité permanente dans le cadre d'un arrêté interministériel du 22 août 1967. Une première période s'applique à ces agents, pendant laquelle ils ne sont équipés que d'un bâton dit " tonfa ". Cette période est mise à profit par la RATP pour tester leur comportement sur le terrain et par l'administration pour faire procéder aux enquêtes de moralité préalables à leur habilitation de port d'une arme de 4e catégorie. Enfin, il est confirmé à l'honorable parlementaire que l'uniforme des agents de sécurité de la RATP ne peut se confondre avec celui des agents de la police nationale.
