@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414984
+
+- Question : [SEQ960414984](seq960414984.md) — Rapport concernant la politique de la prévention et de la récidive
+
+## Réponse
+
+*Justice, JO du 1996-09-19, page 2426*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les propositions formulées dans le rapport sur la prévention de la récidive, remis le 10 mai 1995 par M. Guy Cabanel, sénateur, à son prédécesseur, ont fait l'objet d'un examen très approfondi. L'une d'elles a déjà abouti. Le décret no 96-951 du 22 juillet 1996 a modifié l'article D. 49-1 de la procédure pénale, qui prévoyait que le juge de l'application des peines doit, en considération de la situation du condamné, déterminer les modalités d'exécution des courtes peines d'emprisonnement inférieures à six mois. Désormais, le juge de l'application des peines interviendra pour l'exécution de toutes les condamnations inférieures ou égales à un an. Par ailleurs, le placement sous surveillance électronique qui constitue la mesure la plus novatrice proposée par le rapport précité fait l'objet de réflexions approfondies au sein du Parlement et de la chancellerie. Ainsi, dans le cadre du projet de la loi relatif à la détention provisoire actuellement en discussion, le Sénat a prévu cette mesure comme substitut à la détention provisoire. En outre, une proposition de loi a été déposée par le sénateur Cabanel aux fins d'ériger le placement sous surveillance électronique en alternative à l'exécution d'une courte peine d'emprisonnement ; le juge de l'application des peines pourrait proposer aux personnes condamnées à un emprisonnement ferme d'une durée inférieure ou égale à trois mois, ou n'ayant plus que trois mois à accomplir, d'exécuter leurs peines sous le régime du placement sous surveillance électronique. Cette proposition devrait être examinée par le Sénat au cours de l'automne prochain.
