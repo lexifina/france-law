@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716844
+
+- Question : [SEQ960716844](seq960716844.md) — Réduction des captures de harengs en mer du Nord
+
+## Réponse
+
+*Agriculture, JO du 1997-02-06, page 362*
+
+Réponse. - Le Conseil a adopté, le 25 juillet 1996, un règlement réduisant de 50 % les quotas de hareng de la mer du Nord et introduisant pour la première fois des limitations sur les captures accessoires de hareng découlant de la pêche minotière. Ce règlement a été adopté sur la base d'un rapport du conseil international pour l'exploitation de la mer indiquent un affaiblissement considérable du stock de hareng de la mer du Nord. Compte tenu de la gravité de cette situation la Commission a mis en oeuvre ces mesures dès le 1er juillet 1996, à la suite d'une consultation entre l'Union européenne et la Norvège, au terme de laquelle un dispositif d'urgence a été convenu. Ces mesures répondent également à un objectif économique. Il s'agissait de ne pas reproduire l'expérience des années 1970 qui s'était traduite par un arrêt total de cette activité pendant quatre ans en raison de l'effondrement des ressources de hareng. Toutefois, le volume global des possibilités de pêche en 1996, après réduction des quotas de la mer du Nord. est resté supérieur au niveau des captures. En effet, les autres stocks de hareng, qui représentent une proportion très importante des possibilités de pêche offertes aux navires communautaires, ne sont pas affectés par ce dispositif de réduction des quotas. Ces mesures d'urgence ont été reconduites dans le cadre du règlement adopté le 20 décembre 1996 qui fixe les totaux admissibles de captures pour 1997. Le volume global des possibilités de pêche pour 1997 devrait également correspondre aux besoins des entreprises de pêche car il ne connaît pas de diminution par rapport à 1996 et même, les quotas augmentent légèrement dans certaines zones de la mer d'Irlande.
