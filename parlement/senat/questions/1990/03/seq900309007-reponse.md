@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309007
+
+- Question : [SEQ900309007](seq900309007.md) — Aide économique à la République démocratique du Viet-Nam
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-06-14, page 1310*
+
+Réponse. - Comme le sait l'honorable parlementaire, la France accorde la plus grande attention au sort des peuples de l'ancienne Indochine auxquel elle est liée par une profonde amitié et une histoire commune. A cet égard, le gouvernement français a observé avec une particulière attention les signes d'évolution politique, économique et sociale au Viet-Nam. La visite que le ministre des affaires étrangères a effectuée dans ce pays du 23 au 26 février dernier pour présider la première réunion de la commission mixte entendait apporter la preuve au peuple vietnamien que la France se trouvait à ses côtés dans l'oeuvre de reconstruction et de développement qu'il a entrepris. Comme elle l'a fait par le passé dans d'autres pays et avec les résultats que l'on sait, la France estime que, aujourd'hui au Viet-Nam, il est de son devoir de soutenir les tendances réformistes et d'encourager le débat d'idées qui doit permettre de faire progresser le processus de démocratisation d'un régime encore marqué par le poids du passé. Le Gouvernement français n'en demeure pas moins attentif au Viet-Nam comme ailleurs, au respect des droits de l'homme. Tout au long de ses entretiens, le ministre d'Etat, ministre des affaires étrangères a souligné auprès de ses interlocuteurs que la France espérait voir le Viet-Nam s'engager plus avant dans la voie du respect des droits et libertés fondamentales et avancer résolument dans celle des réformes non seulement économiques, mais également politiques. Le gouvernement français est convaincu que les autorités vietnamiennes ont mesuré l'importance que la France attachait à ces questions et que les démarches entreprises n'auront pas été inutiles.
