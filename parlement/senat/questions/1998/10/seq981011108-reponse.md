@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011108
+
+- Question : [SEQ981011108](seq981011108.md) — Etablissements scolaires : pénurie de personnels non-enseignants
+
+## Réponse
+
+*Éducation, JO du 1998-12-03, page 3867*
+
+Réponse. - En ce qui concerne les moyens en personnels de santé et sociaux, le renforcement des effectifs et l'amélioration du taux d'encadrement se sont poursuivis et accrus en 1998 par l'inscription dans la loi de finances d'une mesure de création de 300 emplois d'infirmière et 300 emplois d'assistante sociale : soit, au titre de cette seule année, autant de créations d'emplois que de 1994 à 1997. S'agissant des personnels médicaux, les crédits de vacations de la médecine scolaire ont été augmentés d'un montant correspondant à 150 équivalents temps plein. Le plan de relance pour la santé scolaire, présenté le 11 mars 1998 par la ministre déléguée, chargée de l'enseignement scolaire, prévoit la poursuite de l'effort sans précédent engagé au plan des moyens et une mesure de création d'emplois de 185 infirmières. 185 assistantes sociales et 30 médecins a été inscrite dans le projet de loi de finances 1999. Par ailleurs, en fonction des orientations nationales et dans le cadre des plans académiques élaborés à partir des réalités sanitaires et sociales constatées sur le terrain, les interventions des personnels infirmiers seront réorganisées dans la perspective d'une utilisation optimale des emplois et des moyens. Enfin, les effectifs de personnels ingénieurs, administratifs, techniques, ouvriers et de service (IATOS) ont été renforcés par la création de 620 emplois nouveaux en loi de finances 1998. L'effort budgétaire accompli en faveur de ces personnels sera poursuivi au cours du prochain exercice par l'inscription d'une mesure de création de 216 emplois dans le projet de loi de finances 1999.
