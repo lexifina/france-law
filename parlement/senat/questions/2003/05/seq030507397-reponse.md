@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507397
+
+- Question : [SEQ030507397](seq030507397.md) — Réalisation du tronçon de TGV entre Perpignan et Figuèras (Espagne)
+
+## Réponse
+
+*Équipement, JO du 2004-01-08, page 68*
+
+Après l'interruption, au mois d'avril dernier, des négociations avec le premier candidat pressenti pour la concession de la nouvelle ligne ferroviaire à grande vitesse entre la France et l'Espagne, les gouvernements français et espagnol ont, dès le 8 mai 2003, décidé de relancer un nouvel appel d'offres au niveau européen. Les groupements qui se sont portés candidats ont été autorisés à remettre une offre pour le 7 octobre dernier. A l'issue du dépouillement et de l'analyse de l'ensemble des offres par les experts des deux pays, la commission intergouvernementale franco-espagnole, réunie à Madrid le 14 novembre 2003, a constaté la convergence de l'analyse et des conclusions des deux groupes d'experts. Elle a proposé à chacun des deux gouvernements de poursuivre les opérations d'attribution de la concession de la ligne ferroviaire à grande vitesse. Dans ce cadre, le Gouvernement français, en accord avec son homologue espagnol, a pris la décision de retenir les groupements TP Ferro et Ferromed comme concessionnaires pressentis et d'entamer avec eux une négociation, conformément à l'accord de Madrid du 10 octobre 1995. Ces négociations, qui viennent de débuter, doivent permettre, conformément aux décisions ministérielles des derniers sommets, la désignation d'un concessionnaire avant la fin de l'année 2003. L'ultime phase de réalisation de la ligne nouvelle entre Montpellier et Perpignan relève d'une autre échéance. Dans ces conditions, il est légitime de s'interroger dès à présent sur les problématiques de cette ligne et les caractéristiques qui en découlent. Le maître d'ouvrage, RFF, conduit actuellement des études à cet effet.
