@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407430
+
+- Question : [SEQ980407430](seq980407430.md) — Avenir de l'Agence nationale pour l'amélioration de l'habitat
+
+## Réponse
+
+*Logement, JO du 1998-07-02, page 2164*
+
+Réponse. - Une relance de la réhabilitation concernant le parc privé a été décidée et mise en uvre par le Gouvernement dès l'été 1997. Elle s'est concrétisée pour l'Agence nationale pour l'amélioration de l'habitat (ANAH) par l'abondement de 200 MF de sa dotation budgétaire, en juillet 1997. Ainsi 2 338 MF de subventions ont pu être distribuées en 1997 pour la réhabilitation de 108 000 logements, ce qui a permis de répondre à la demande exprimée. L'effort budgétaire consenti a été confirmé en 1998. Ainsi, le niveau du budget d'intervention de l'ANAH a été augmenté de 10 % en loi de finances pour 1998 par rapport à la loi de finances initiale de 1997, soit 2 200 MF au lieu de 2 000 MF. Cette augmentation, d'un facteur largement supérieur à l'inflation, permet à l'agence de poursuivre et d'amplifier les actions prioritaires qu'elle s'est fixées pour 1998, notamment par la remise sur le marché des logements vacants et en confirmant sa vocation sociale par ses actions de lutte contre le saturnisme et l'insalubrité. Par ailleurs, le projet de loi portant diverses dispositions d'ordre économique et financier (DDOEF) prévoit d'étendre les aides de l'ANAH à la transformation en logements non affectés initialement à un usage principal d'habitation dans les zones de revitalisation rurale telles que définies par l'article 42 de la loi nº 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, dès lors qu'ils appartiennent à une zone bâtie agglomérée. Dès la promulgation de la loi, le champ d'intervention de l'ANAH sera ainsi élargi en zone de revitalisation rurale.
