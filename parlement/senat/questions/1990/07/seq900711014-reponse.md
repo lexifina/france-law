@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900711014
+
+- Question : [SEQ900711014](seq900711014.md) — Résultats de l'équipe française d'escrime aux championnats du monde
+
+## Réponse
+
+*Sports, JO du 1990-11-22, page 2495*
+
+Réponse. - Les résultats enregistrés par l'équipe de France d'escrime lors des championnats du monde d'escrime qui ont eu lieu à Lyon en juillet 1990 peuvent être considérés comme le premier signe de la nécessité du renouvellement de l'élite de cette discipline à l'issue d'une période particulièrement brillante marquée par les trois médailles françaises aux jeux Olympiques de Séoul en 1988. Par la politique qu'elle mène actuellement en faveur des catégories juniors et cadets, la fédération française d'escrime manifeste son souci d'assurer à la relève attendue les meilleures conditions d'entraînement et d'encadrement dans la perspective des grandes échéances internationales ultérieures. Le montant global de la subvention qui a été attribuée à la fédération française d'escrime pour l'aider à réaliser les objectifs qu'elle s'est fixés pour le haut niveau en 1989 et 1990 s'élève respectivement à 7 250 000 francs et à 7 610 000 francs. L'attribution des subventions aux fédérations sportives dans le cadre des conventions d'objectifs qu'elles passent chaque année avec le secrétariat d'Etat chargé de la jeunesse et des sports est subordonnée à la réalisation de ces objectifs au cours de l'année antérieure, ceux-ci reposant sur divers critères tels que les résultats sportifs, mais également la rigueur de gestion, le souci du respect de l'éthique sportive, le dynamisme en matière d'organisation de grandes compétitions, de formation de cadres, d'accueil de licenciés, de représentation internationale. En l'occurrence, c'est l'analyse de cet ensemble de critères qui permettra de déterminer le degré de réalisation des objectifs annoncés pour 1990 par la fédération française d'escrime ainsi que le montant de la subvention qui lui sera allouée en 1991.
