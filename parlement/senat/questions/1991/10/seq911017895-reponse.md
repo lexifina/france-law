@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017895
+
+- Question : [SEQ911017895](seq911017895.md) — Exonération de l'IRPP pour les personnes hébergées en maison de retraite
+
+## Réponse
+
+*Économie, JO du 1992-02-20, page 430*
+
+Réponse. - Plusieurs dispositions fiscales favorables existent déjà au profit des personnes âgées, notamment celles qui sont hébergées en maison de retraite. Ainsi, avant application du barème progressif de l'impôt sur le revenu, leurs pensions sont diminuées d'un abattement de 10 p. 100. Cet abattement s'applique avant celui de 20 p. 100. Dès l'âge de soixante-cinq ans, les intéresées bénéficient également d'abattements sur leur revenu global, dont les montants et seuils d'application sont régulièrement relevés chaque année. Pour l'imposition des revenus de 1991, cet abattement s'élève à 8 860 francs quand le revenu imposable est inférieur à 54 800 francs ou 4 430 francs si ce revenu est compris entre 54 800 francs et 88 600 francs. Les personnes qui sont titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ont droit à une demi-part supplémentaire de quotient familial. Par exception à la règle d'imposition des pensions alimentaires, une exonération est admise au bénéfice des personnes aux faibles ressources dont les enfants paient directement les frais de séjour ou d'hospitalisation dans une maison de retraite ou un établissement médical. Lorsque ces mesures s'avèrent insuffisantes, les contribuables qui éprouvent des difficultés à s'acquitter de leur impôt ont encore la possibilité de demander une remise ou une modération de leur cotisation dans le cadre de la procédure gracieuse. Cette procédure, qui n'est soumise à aucun formalisme particulier, permet de tenir compte des circonstances propres à chaque situation.
