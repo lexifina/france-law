@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203390
+
+- Question : [SEQ890203390](seq890203390.md) — Mesures pour éviter l'assimilation irrégulière de recettes fiscales à des fonds de concours
+
+## Réponse
+
+*Agriculture, JO du 1989-06-01, page 835*
+
+Réponse. - Le produit de la taxe unique sur les produits forestiers (T.U.P.F.) est réparti entre le Fonds forestier national (94,75 p. 100), le budget général (4,35 p. 100) et le budget du ministère de l'agriculture et de la forêt (0,9 p. 100 affecté à des subventions allouées pour la promotion du bois et des produits dérivés), conformément à l'article 1613 du code général des impôts tel qu'il résulte de l'article 31 de la loi de finances initiale pour 1978, modifié par l'article 45 de la loi de finances initiale pour 1982. La T.U.P.F. est issue de la fusion en 1953 de trois taxes anciennes. En application de l'article 564 bis du code général des impôts, un préciput, dont le montant est représentatif du produit de l'une d'elles, la taxe additionnelle de 2 p. 100 instituée par le décret-loi du 8 août 1935, est calculé chaque année et rattaché au budget du ministère de l'agriculture et de la forêt par voie de fonds de concours. Les différentes évolutions des taux ont toujours maintenu à l'identique la ventilation des trois taxes originelles. La répartition du préciput par chapitre est fixée par arrêté conjoint du ministre de l'agriculture et de la forêt et du ministre de l'économie, des finances et du budget, et publié au Journal officiel. En définitive, le rattachement du préciput au budget du ministère de l'agriculture et de la forêt est parfaitement légal puisque institué par les lois de finances précitées. Cependant, une réflexion est en cours pour adapter la taxe unique sur les produits forestiers et les différents prélèvements qu'elle subit afin de rendre le Fonds forestier national plus efficace : elle pourra être l'occasion de prendre en compte l'observation de principe de la Cour des comptes.
