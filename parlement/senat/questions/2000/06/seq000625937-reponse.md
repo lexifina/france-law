@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625937
+
+- Question : [SEQ000625937](seq000625937.md) — Harmonisation de la réglementation de l'activité 1 % logement
+
+## Réponse
+
+*Logement, JO du 2000-08-10, page 2856*
+
+Réponse. - Le statut réglementaire des comités interprofessionnels du logement (CIL) et celui de l'activité " 1 % logement " des chambres de commerce et d'industrie (CCI) diffèrent sur un certain nombre de points, en particulier les règles relatives à l'affectation du résultat. Le statut d'associés obligatoires, de par la loi nº 96-1237 du 30 décembre 1996 relative à l'union d'économie sociale du logement (UESL), des CIL et des CCI agréées pour collecter, a conduit à rechercher un rapprochement de la réglementation de la participation des employeurs à l'effort de construction applicable à ces deux familles de collecteurs. Les présidents de l'UESL et de l'Assemblée des chambres françaises de commerce et d'industrie ont rencontré le secrétaire d'Etat au logement à ce sujet et présenté leurs propositions d'harmonisation. Suite à cet entretien, les deux présidents ont saisi l'Agence nationale pour la participation des employeurs à l'effort de construction afin de lui demander d'étudier, pour les points qui relèvent de sa compétence, les propositions à faire aux ministères de tutlle. Un groupe de travail relatif à l'harmonisation du statut réglementaire des activités " 1 % logement " des CCI avec celles des CIL a été constitué à cette fin. Il travaille sur la définition des coûts de fonctionnement des sections budgétaires participation des employeurs à l'effort de construction (PEEC) des CCI, préalable à la mise en place de mécanismes de réintégration du prélèvement pour frais de gestion dans les fonds réglementés et d'affectation du solde du résultat tels qu'ils existent déjà pour les CIL, et remettra prochainement des propositions au conseil d'administration de l'agence.
