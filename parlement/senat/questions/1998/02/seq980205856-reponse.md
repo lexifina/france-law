@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205856
+
+- Question : [SEQ980205856](seq980205856.md) — Institution d'un droit d'appel aux assises
+
+## Réponse
+
+*Justice, JO du 1998-03-19, page 918*
+
+Réponse. - Le garde des sceaux, ministre de la justice, souhaite rappeler à l'honorable parlementaire qu'à plusieurs reprises, elle a publiquement déclaré être personnellement favorable à une réforme de la procédure criminelle. Il lui apparaît en effet à la fois paradoxal et inadmissible que l'appel soit possible en matière correctionnelle, et parfois même en matière contraventionnelle, mais que des justiciables condamnés à des peines criminelles extrêmement lourdes ne puissent bénéficier de la faculté de voir leur cause être jugée à nouveau par une juridiction supérieure. C'est dans cet état d'esprit qu'elle a indiqué, en présentant les orientations générales de la réforme de la justice lors du conseil des ministres tenu le 29 octobre 1997 puis devant l'assemblée nationale et le Sénat les 15 et 22 janvier derniers, que la procédure criminelle serait réformée afin de permettre un nouvel examen des décisions rendues par les cours d'assises. Il est apparu toutefois que le projet de loi élaboré par le précédent gouvernement ne pouvait être repris en l'état. En effet, la mise en oeuvre de ce texte exigerait de très importants financements supplémentaires - induits notamment par une indispensable augmentation de l'effectif des magistrats - qui n'avaient pas été initialement prévus et que la situation budgétaire interdit de dégager. Le garde des sceaux a donc invité les services compétents de la chancellerie à mener une réflexion exhaustive et approfondie sur ce sujet afin de lui faire dans les meilleurs délais des propositions concrètes et budgétairement crédibles. Dès que ce processus de rélexion et d'élaboration sera achevé, un nouveau projet de loi tendant à la réforme de la procédure d'assises sera présenté par ses soins en conseil des ministres.
