@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120164
+
+- Question : [SEQ991120164](seq991120164.md) — Insécurité dans les transports urbains français
+
+## Réponse
+
+*Équipement, JO du 2000-01-27, page 323*
+
+Réponse. - A la RATP, le pourcentage de voyageurs sans billet s'établit autour de 5 % dans le métro et le RER ; sur le réseau routier, le pourcentage est de 13 %. Une très légère baisse est constatée de 1997 à 1998. A la SNCF, le pourcentage est de 15 %, en augmentation tendancielle. Pour endiguer la fraude et le vandalisme, dont l'impact sur les recettes des entreprises de transport public n'est pas négligeable, plusieurs dispositions ont été prises. Des mesures générales récentes ont en particulier été introduites par la loi nº 99-291 du 15 avril 1999 relative aux polices municipales qui modifie en particulier l'article 529-4 du code pénal pour renforcer les pouvoirs des agents des exploitants de services de transport public en matière de lutte contre la fraude. Des progrès en matière de sûreté, qui touchent aux aspects de fraude et de vandalisme, sont également à attendre de la prise en compte systématique des transports dans les contrats locaux de sécurité, car cette démarche s'appuie sur une concertation entre tous les acteurs concernés (représentants des ministères de la justice, de l'intérieur, de l'éducation nationale, des bailleurs sociaux et des transporteurs) visant à la conception de dispositifs cohérents et adaptés aux différents contextes locaux. Enfin l'Etat incite les entreprises publiques de transport à des mesures spécifiques adaptées aux particularités de leurs réseaux. Ainsi, un programme en cours de réalisation a pour objectif d'équiper les gares SNCF d'Ile-de-France les plus fréquentées de barrières de contrôle dotées de portes hautes difficilement franchissables aussi bien en entrée qu'en sortie.
