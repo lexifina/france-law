@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213848
+
+- Question : [SEQ960213848](seq960213848.md) — Difficultés rencontrées lors des rentrées scolaires de Montfermeil (Seine-Saint-Denis)
+
+## Réponse
+
+*Éducation, JO du 1996-04-11, page 869*
+
+Réponse. - Le caractère obligatoire de l'instruction pour les enfants français et étrangers âgés de six à seize ans révolus est posé par l'ordonnance no 59-45 du 6 janvier 1959, qui reprend et complète les dispositions de la loi du 28 mars 1882 modifiée. La règle fixée par la loi n'admet aucune exception. En conséquence, tous les enfants étrangers dans la tranche d'âge indiquée ci-dessus, quelle que soit leur situation au regard des lois sur l'immigration, sont soumis, comme les enfants français, à l'obligation scolaire. Pour ce qui concerne la procédure d'inscription dans une école, il n'existe qu'une seule disposition législative, prise en application du principe d'obligation scolaire. L'article 8 de la loi du 28 mars 1882, dans sa rédaction de la loi no 46-1511 du 22 mai 1946, prévoit que " chaque année, à la rentrée scolaire, le maire dresse la liste de tous les enfants résidant dans sa commune et qui sont soumis à l'obligation scolaire " et qu'il délivre les certificats d'inscription sur ladite liste, désignant l'école que l'enfant doit fréquenter. Les circulaires du ministère chargé de l'éducation relatives à la scolarisation, et notamment aux modalités d'inscription des élèves étrangers dans l'enseignement du premier et du second degrés, s'adressent aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, et aux personnels placés sous leur autorité. En application de l'article L. 122-23 du code des communes, les maires sont chargés, sous l'autorité du préfet, représentant de l'Etat dans le département, d'exécuter les actes qui leur sont prescrits par la loi.
