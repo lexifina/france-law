@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910605
+
+- Question : [SEQ980910605](seq980910605.md) — Aide pour l'acquisition des licences sportives d'enfants issus de familles très modestes
+
+## Réponse
+
+*Jeunesse, JO du 1998-10-22, page 3363*
+
+Réponse. - Très attachée au développement du sport pour tous, et en particulier chez les jeunes, Mme la ministre de la jeunesse et des sports a pris l'initiative de mettre en place, dès l'année 1998, une mesure destinée à favoriser l'accès des jeunes de 14 à 18 ans à la pratique sportive. En vertu de cette opération appelée " Coupon sport ", les jeunes concernés bénéficieront d'une réduction de 100, 200, 300 F selon le montant de la cotisation qu'ils ont à verser à leur association sportive, à condition toutefois que celle-ci soit agréée par le ministère de la jeunesse et des sports. Cette mesure concerne les enfants des familles à faible revenu qui perçoivent l'allocation de rentrée scolaire. Ces " Coupons sport " sont à retirer, par le jeune, à la direction départementale de la jeunesse et des sports du lieu de résidence du club sportif, après avoir fourni les justificatifs et les pièces nécessaires. Le jeune remettra le ou les " Coupons sports " à son club qui en obtiendra le remboursement auprès de la direction départementale, sous forme d'une subvention. Par ailleurs, afin de bénéficier de l'élan populaire qu'a connu notre pays lors de la coupe du monde de football 1998, Mme la ministre de la jeunesse et des sports, en concertation avec Mme la ministre déléguée à la ville, va proposer aux adolescents et aux jeunes de participer à la réalisation de projets sportifs et culturels dans le cadre d'une opération intitulée " Fête des sports, esprit coupe du monde ". L'appel à projet sera lancé en octobre 1998 et les actions pourront se dérouler à partir de février 1999.
