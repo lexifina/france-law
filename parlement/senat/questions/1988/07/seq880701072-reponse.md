@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880701072
+
+- Question : [SEQ880701072](seq880701072.md) — Suppression de la procédure de blocage de postes d'instituteurs
+
+## Réponse
+
+*Éducation, JO du 1988-09-29, page 1088*
+
+Réponse. - La formule des " postes bloqués " a pour objet d'introduire une certaine souplesse dans la procédure d'implantation et de retrait d'emplois d'instituteur dans les écoles. En effet, les mesures de carte scolaire sont préparées en fonction des prévisions d'effectifs établies en début d'année pour la rentrée suivante. Or certaines fluctuations peuvent affecter ces effectifs ; la plupart sont prévisibles mais leur ampleur est incertaine (exemples : conséquences d'une extension de l'habitat ; afflux ou départ de populations en fonction de la conjoncture économique). L'inspecteur d'académie doit pouvoir faire face à ces situations dans le cadre de la dotation d'emplois dont il dispose et qui doit être répartie équitablement entre toutes les écoles du département. Les " blocages " de postes concernent des écoles dont les effectifs ne permettent pas de déterminer au regard des critères retenus au niveau départemental si les emplois concernés pourront ou non être implantés ou maintenus dans l'école. Cette procédure permet donc, au vu des effectifs réellement accueillis le jour de la rentrée scolaire, d'arrêter définitivement des décisions jusque-là conditionnelles et, ainsi, d'éviter les disparités qui pourraient se créer entre écoles dans des situations identiques. Il est compréhensible que l'incertitude liée à cette pratique soit souvent mal ressentie, notamment par les parents d'élèves et les élus locaux, mais on ne peut méconnaître l'intérêt qu'elle présente pour assurer une utilisation optimale des moyens disponibles ainsi que le respect du principe d'égalité devant le service public.
