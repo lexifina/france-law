@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304922
+
+- Question : [SEQ870304922](seq870304922.md) — Aide des communes aux entreprises en difficulté
+
+## Réponse
+
+*Collectivités locales, JO du 1987-06-04, page 882*
+
+Réponse. -L'article 5 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions dispose que " lorsque la protection des intérêts économiques et sociaux de la population communale l'exige, la commune peut accorder des aides directes et indirectes à des entreprises en difficulté pour la mise en oeuvre de mesures de redressement... ". Quatre années après la mise en oeuvre de ces dispositions, une enquête a été menée auprès des préfets pour établir un bilan de cette législation. Or il ressort de cette étude que ce sont principalement les petites et moyennes communes qui interviennent en faveur des entreprises en difficulté ; ces interventions se révèlent souvent hors de proportion avec la surface financière des communes et mettent parfois gravement en péril l'équilibre de leurs budgets. Comme il apparaît que la plupart des entreprises aidées ne parviennent pas, en dépit de l'intervention communale, à surmonter leurs difficultés, les fonds publics se trouvent dès lors engagés en pure perte. Autre source d'inquiétude sur ce que l'on peut observer actuellement ; les garanties d'emprunt accordées à des entreprises qui ne se révèlent dangereuses qu'à terme, lorsqu'elles sont appelées à jouer effectivement. Partant de ce constat, tout en sachant par ailleurs combien de nombreux maires ont fait preuve d'une grande prudence dans ce domaine, il peut paraître souhaitable de restreindre les engagements des communes à l'égard d'entreprises pour lesquelles le secteur bancaire répugne à poursuivre ses propres interventions. C'est dans ce sens que les dispositions de l'article 5 de la loi du 2 mars 1982 font aujourd'hui l'objet d'un exament de la part du ministère de l'intérieur.
