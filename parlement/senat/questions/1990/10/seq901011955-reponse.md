@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011955
+
+- Question : [SEQ901011955](seq901011955.md) — Intégration des primes dans le calcul de la retraite des gendarmes
+
+## Réponse
+
+*Défense, JO du 1990-11-08, page 2405*
+
+Réponse. - Aux termes de l'article L. 15 du code des pensions civiles et militaires de retraite, la détermination du montant de la pension s'effectue à partir des émoluments de base. Ceux-ci sont constitués par les derniers émoluments soumis à retenue afférents à l'indice correspondant à l'emploi, grade, classe et échelon effectivement détenus depuis six mois au moins par le fonctionnaire ou militaire au moment de la cessation des services valables pour la retraite. Le code susvisé exclut donc, en principe, la prise en compte des primes et indemnités dans la liquidation du montant de la pension. Les militaires de la gendarmerie, au même titre que tous les militaires et fonctionnaires, perçoivent : la solde de base ; l'indemnité de résidence, calculée en pourcentage du traitement soumis à retenue pour pension et à ce jour intégrée, pour sa plus grande partie, dans le calcul de la pension et le supplément familial de solde, lié aux charges de famille. Ils perçoivent par ailleurs comme tous les militaires l'indemnité pour charges militaires allouée pour tenir compte des sujétions propres à la fonction militaire et, le cas échéant, la prime de service et la prime de qualification. A titre spécifique, ils bénéficient de l'indemnité de sujétions spéciales de police qui fait l'objet, depuis 1984, d'une intégration progressive dans le calcul de la pension. La prise en compte au profit des militaires de la gendarmerie de l'indemnité pour charges militaires, de la prime de service et de la prime de qualification dans les émoluments retenus pour la liquidation de la pension n'est pas envisagée à ce jour, pas plus qu'elle ne l'est pour les autres militaires.
