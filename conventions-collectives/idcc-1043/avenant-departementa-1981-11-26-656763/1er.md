@@ -8,4 +8,4 @@ Il est constitué dans le département des Alpes-Maritimes une commission dépar
 
 Cette commission fonctionnera conformément aux dispositions de l'article 10 de la convention collective nationale.
 
-Son secrétariat sera assuré par le syndicat des concierges et employés d'immeubles CGT des Alpes-Maritimes.
+Son secrétariat sera assuré à tour de rôle, pour une période de 3 ans, par les organisations syndicales volontaires membres de la commission.
