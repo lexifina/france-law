@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701149
+
+- Question : [SEQ020701149](seq020701149.md) — Indemnisation des orphelins de parents victimes de persécutions antisémites
+
+## Réponse
+
+*Anciens combattants, JO du 2002-09-12, page 2010*
+
+Comme le souligne l'honorable parlementaire, le décret n° 2000-657 du 13 juillet 2000 a institué une mesure de réparation destinée aux personnes dont la mère ou le père a été déporté à partir de la France dans le cadre des persécutions antisémites durant l'Occupation et a trouvé la mort en déportation alors qu'elles étaient encore mineures. Ces dispositions s'inscrivent dans le cadre de la mission présidée par M. Jean Matteoli que le Gouvernement d'alors a entendu suivre en prenant en compte, parmi l'ensemble des personnes ayant souffert des actes commis durant l'Occupation, la situation particulière de celles et de ceux ayant perdu leurs parents du fait d'une politique d'extermination qui avait un caractère systématique, visait toute personne, indépendamment de ses choix et de ses engagements, du seul fait qu'elle était juive, et s'étendait même aux enfants. Le caractère particulier de ces persécutions a d'ailleurs été reconnu par le Conseil d'Etat dans une décision du 6 avril 2001. Les pouvoirs publics ne sauraient cependant rester indifférents à la situation des autres catégories d'orphelins de la déportation, qu'il s'agisse des enfants de déportés résistants ou de déportés politiques, non visés par le dispositif spécifique institué par le décret précité du 13 juillet 2000. C'est pourquoi l'administration s'attache à réunir les éléments d'appréciation qui permettront au Gouvernement de définir les dispositions susceptibles d'être arrêtées dans ce domaine où les considérations d'équité doivent naturellement trouver toute leur part.
