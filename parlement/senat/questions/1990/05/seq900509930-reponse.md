@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509930
+
+- Question : [SEQ900509930](seq900509930.md) — Réforme du contrat de construction de maison individuelle
+
+## Réponse
+
+*Mer, JO du 1990-08-09, page 1768*
+
+Réponse. - Les travaux effectués en vue d'améliorer la protection des accédants à la propriété dans le domaine de la maison individuelle, ont abouti, après une large concertation, à l'élaboration d'un projet de loi relatif au contrat de construction d'une maison individuelle. Ce texte sera examiné par le Parlement dans sa prochaine session. Ce projet de loi vise en effet à mieux protéger l'acquéreur d'une maison individuelle ; l'accédant aura la certitude de voir sa maison réalisée dans les délais et au prix convenu. A cette fin, une garantie obligatoire, contractée par le constructeur auprès d'un organisme financier ou d'une compagnie d'assurances, est instaurée. Par ailleurs, le contrat devra définir précisément le produit vendu et les conditions de sa réalisation : nature du terrain, coût des travaux annexes, échéancier de financement, délai de réalisation... et une notice d'information complète sera remise à l'acheteur au moment de l'élaboration du contrat. Afin de favoriser la réalisation d'un produit conforme au contrat, un délai supplémentaire d'un mois est donné à l'acheteur pour signaler les vices apparents, après la réception de la maison. Ce projet de loi a également pour objectif de mieux responsabiliser tous les acteurs qui participent à la construction d'une maison individuelle. La mise en place de la garantie de livraison obligatoire va mobiliser la profession des constructeurs de maisons individuelles. Les organismes prêteurs devront vérifier la conformité du contrat. Enfin, il sera mis en place une protection renforcée des sous-traitants par l'existence de contrats écrits obligatoires entre les constructeurs et les sous-traitants.
