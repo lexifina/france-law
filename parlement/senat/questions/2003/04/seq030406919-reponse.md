@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406919
+
+- Question : [SEQ030406919](seq030406919.md) — Nouveaux tarifs de l'aide à domicile
+
+## Réponse
+
+*Personnes âgées, JO du 2004-06-03, page 1208*
+
+La démarche de construction d'une convention collective unifiée du secteur de l'aide à domicile, que les partenaires sociaux ont engagée par l'accord du 29 mars 2002 relatif aux emplois et aux rémunérations, correspond au souhait des pouvoirs publics de voir le secteur associatif participer pleinement à l'amélioration du service rendu aux personnes, notamment dans le cadre de la mise en place de l'allocation personnalisée d'autonomie (APA). A la suite de concertations menées à la demande du ministère des affaires sociales, du travail et de la solidarité, et du secrétaire d'Etat aux personnes âgées, avec les partenaires sociaux et les financeurs, l'accord a été complété par un avenant signé le 4 décembre 2002 et a été agréé le 24 janvier 2003. Cet accord constitue ainsi la première étape d'une action entreprise par les partenaires sociaux avec le soutien des pouvoirs publics pour mieux encadrer et approfondir ce secteur d'activité. Les financeurs ont pris en compte le surcoût lié à cet accord. En effet, en tant qu'autorité de tarification, les départements prennent à leur charge la part de financement qui leur incombe. En ce qui concerne les caisses de sécurité sociale, la CNAVTS a constitué une provision au budget 2003 qui permet de financer le coût de l'accord pour la période de juillet 2003 à juin 2004. La prise en charge de l'augmentation de salaire qui interviendra le 1er juillet prochain a fait l'objet le 5 mai 2004, d'un vote du conseil d'administration de la CNAVTS. La CNAF dont le Fonds national d'action sociale finance les aides à la famille a prévu le financement de l'accord par décision du conseil d'administration pour les années 2003 et 2004.
