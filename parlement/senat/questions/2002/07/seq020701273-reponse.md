@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701273
+
+- Question : [SEQ020701273](seq020701273.md) — Pensions des maréchaux des logis chefs
+
+## Réponse
+
+*Défense, JO du 2002-09-19, page 2084*
+
+Depuis le 1er janvier 1986, les gendarmes peuvent accéder, après vingt et un ans et demi de services, à un échelon exceptionnel sur lequel est calculée leur pension de retraite, dès lors qu'ils l'ont détenu au moins six mois. A la suite de la transposition aux militaires du protocole Durafour, l'échelon exceptionnel de gendarme, dont les conditions d'attribution ont été définies par le décret n° 87-79 du 10 février 1987 modifié par le décret n° 91-1812 du 23 août 1991, est doté, depuis le 1er août 1995, d'un indice supérieur à l'indice le plus élevé obtenu par les maréchaux des logis-chefs à 21 ans de services. Afin de remédier à cette situation, le ministère de la défense a engagé des négociations interministérielles qui ont conduit à la publication de l'arrêté du 5 avril 1995. Il prévoit la revalorisation des pensions des maréchaux des logis-chefs, retraités depuis le 1er juillet 1986 et ayant au moins 21 ans et 6 mois de services, sur la base d'un indice au moins égal à celui afférent à l'échelon exceptionnel du gendarme. Toutefois, les maréchaux des logis-chefs radiés des cadres antérieurement au 1er juillet 1986 ne peuvent prétendre à une telle révision. En effet, avant cette date, aucun gendarme n'a pu bénéficier d'une pension de retraite calculée sur la base de l'indice correspondant à l'échelon exceptionnel, puisqu'il ne pouvait réunir 6 mois de services dans cet échelon. Le bénéfice de l'échelon exceptionnel pour les gendarmes en activité au 1er juillet 1986 n'a donc pas pénalisé les maréchaux des logis-chefs déjà mis à la retraite avant cette date puisqu' ils continuent à percevoir une pension de retraite supérieure à celle des gendarmes ayant atteint, à cette époque, le dernier échelon de leur grade.
