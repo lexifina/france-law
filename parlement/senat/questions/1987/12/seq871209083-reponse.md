@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871209083
+
+- Question : [SEQ871209083](seq871209083.md) — Détermination des honoraires des professions médicales : danger de l'arrêté du 3 novembre 1987
+
+## Réponse
+
+*Économie, JO du 1988-05-10, page 663*
+
+Réponse. -L'arrêté du 3 novembre 1987 relatif aux prix et tarifs d'honoraires des professions médicales, des auxiliaires médicaux et des directeurs de laboratoires d'analyses médicales, se substitue aux textes antérieurs pris sous le régime de l'ordonnance de 1945 et maintenus à titre transitoire. Loin d'imposer des contraintes nouvelles aux professions médicales, ce texte traduit au contraire la réduction des pouvoirs de l'Etat au bénéfice des procédures conventionnelles. La rédaction de l'article L. 162-38 du code de la sécurité sociale, adopté l'an dernier, pose en effet explicitement le principe du respect des conventions, dûment approuvées. Toute intervention sur le niveau ou l'évolution des honoraires dont la convention prévoit la liberté est donc désormais impossible. Bien entendu, ces honoraires resteront libres à l'expiration de la convention, sauf si la suivante prévoit explicitement le contraire. Le maintien des honoraires au niveau conventionnel, prévu par l'arrêté dans son article 2 en cas de non-renouvellement de la convention ne concerne que les tarifs explicitement fixés par le texte antérieur. L'arrêté du 3 novembre 1987 autorise ainsi la poursuite du remboursement sur des bases inchangées. De même la possibilité également prévue par l'article 2 de fixer les tarifs par arrêté ne concerne que ceux dont le montant était explicitement prévu par la convention ou l'avenant antérieurement en vigueur, de manière à permettre une revalorisation des tarifs de remboursement même en l'absence de convention ; en revanche les honoraires librement fixés jusque-là le demeurent.
