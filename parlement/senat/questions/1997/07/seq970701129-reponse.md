@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701129
+
+- Question : [SEQ970701129](seq970701129.md) — Prix des cantines scolaires
+
+## Réponse
+
+*Intérieur, JO du 1997-08-28, page 2230*
+
+Réponse. - Le décret no 87-654 du 11 août 1987 relatif aux prix des cantines scolaires et de la demi-pension pour les élèves de l'enseignement public, pris en application de l'article 1er, alinéa 2, de l'ordonnance du 1er décembre 1986 relative à la liberté des prix et de la concurrence, a posé le principe selon lequel les tarifs des cantines scolaires et de la demi-pension évoluent en fonction des charges d'exploitation du service (salaires, coût de l'énergie et des produits alimentaires). Le taux moyen de hausse est fixé chaque année sur cette base par arrêté du ministre chargé de l'économie et des finances. Cette augmentation peut être modulée selon les catégories d'usagers, dans la limite du double du taux moyen annuel. Une jurisprudence constante admet qu'une commune peut moduler les tarifs des cantines scolaires (et des services publics locaux à caractère social tels que les crèches et les centres de loisirs) en fonction des ressources des familles, sans pour autant méconnaître le principe d'égalité entre les usagers du service public. Il est donc permis aux communes d'établir un barème des tarifs variant en fonction d'un " quotient familial ". Cependant, le tarif le plus élevé ne doit pas dépasser le coût de fonctionnement du service. En outre, les augmentations tarifaires annuelles doivent respecter, pour l'ensemble des usagers, les dispositions réglementaires précitées ; la hausse applicable à une catégorie déterminée d'usagers ne peut ainsi excéder le double du taux moyen défini par arrêté ministériel. Ce dispositif doit permettre de répondre aux préoccupations exprimées par l'honorable parlementaire.
