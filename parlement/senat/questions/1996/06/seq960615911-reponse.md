@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615911
+
+- Question : [SEQ960615911](seq960615911.md) — Retard du lancement du chantier TGV Languedoc-Roussillon
+
+## Réponse
+
+*Équipement, JO du 1996-07-18, page 1848*
+
+Réponse. - Le projet TGV Languedoc-Roussillon s'inscrit dans le grand projet TGV Sud-Européen devant relier à terme Paris à Madrid, retenu parmi les quatorze projets prioritaires aux sommets d'Essen et de Corfou. Dans cette perspective, les gouvernements français et espagnol ont signé le 10 octobre 1995 un accord en vue de la construction et de l'exploitation de la section internationale Perpignan - Figueras, que les deux Etats envisagent de réaliser en concession. Une commission intergouvernementale chargée de piloter les études nécessaires sera mise en place dès que les procédures constitutionnelles d'approbation de cet accord par chacun des deux Etats auront abouti. Le Gouvernement français a pour sa part engagé, dès le mois d'octobre 1995, ces procédures, qui seront conclues par un débat devant la représentation nationale. Il sera attentif à ce qu'elles soient menées à terme dans les meilleurs délais. Le groupement européen d'intérêt économique Sud-Europe-Méditerranée, constitué par les deux réseaux ferroviaires SNCF et RENFE, a entrepris dès à présent les études préparatoires, techniques et économiques, destinées à éclairer les décisions de la commission intergouvernementale. Le Gouvernement a également marqué son attachement à la poursuite des grands projets TGV, notamment par le lancement en octobre 1995 des travaux du TGV Méditerranée qui permettra dès l'horizon 2000 un gain de temps d'une heure environ sur les liaisons ferroviaires du Languedoc-Roussillon avec Paris et le nord de la France. La poursuite du programme TGV ne peut toutefois s'opérer qu'à un rythme et selon des modalités compatibles avec l'objectif d'un assainissement de la situation financière de la SNCF et d'une maîtrise des déficits publics.
