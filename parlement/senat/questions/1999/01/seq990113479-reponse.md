@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113479
+
+- Question : [SEQ990113479](seq990113479.md) — Nouvelle répartition des effectifs de la gendarmerie
+
+## Réponse
+
+*Défense, JO du 1999-05-20, page 1681*
+
+Réponse. - La réorganisation du dispositif de la gendarmerie nationale s'inscrit dans le cadre de la volonté du Gouvernement de rétablir l'égalité de chaque citoyen devant le droit à la sécurité. Afin de mettre en uvre concrètement ce droit fondamental, un certain nombre de décisions ont été prises dans le cadre des réunions du conseil de sécurité intérieure, les 27 janvier et 19 avril 1999. Il s'agit de renforcer la présence et l'efficacité des forces de sécurité dans les zones fortement touchées par la délinquance, sans relâcher l'effort sur le reste du territoire. Dans le prolongement de ces décisions, des adaptations pourront être apportées au dispositif territorial de la gendarmerie. Comme l'a décidé le Premier ministre, des examens au cas par cas s'ouvriront ; ils seront menés en étroite concertation avec le élus intéressés et tiendront compte des spécificités locales et des besoins de l'aménagement du territoire. Dans cet esprit, le ministre de la défense a réaffirmé le principe du maintien d'une brigade par canton, avec des effectifs éventuellement allégés. Par ailleurs, dans le cas d'une brigade multiple de canton à faible activité, il sera envisageable de maintenir le site en réduisant ses effectifs et en organisant un fonctionnement en réseau avec la brigade principale de canton. Enfin, la question des locaux fera l'objet d'un examen attentif afin de sauvegarder les intérêts des communes. Le Gouvernement s'et engagé dans une démarche progressive et concertée qui, conduite au plus près des réalités locales et dans le souci de l'intérêt général, doit permettre de satisfaire une aspiration essentielle de nos concitoyens : celle de vivre en sécurité.
