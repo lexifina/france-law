@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802211
+
+- Question : [SEQ970802211](seq970802211.md) — Retraités de La Poste et de France Télécom : recours d'assimilation des personnels admis à la retraite antérieurement à la loi no 90-568 du 2 juillet 1990
+
+## Réponse
+
+*Économie, JO du 1997-10-23, page 2895*
+
+Réponse. - Dans le cadre de la réforme des postes et télécommunications instituée par la loi no 90-568 du 2 juillet 1990, le reclassement des fonctionnaires s'est effectué en deux étapes, au 1er janvier 1991 et au 1er juillet 1992. Il s'est traduit soit par une amélioration immédiate de la situation indiciaire, soit par des bonifications d'ancienneté destinées à améliorer la carrière administrative des fonctionnaires en activité par un accès plus rapide à l'échelon supérieur. En application de l'article L. 16 du code des pensions civiles et militaires de retraite, ces mesures ont été étendues aux fonctionnaires retraités des postes et télécommunications. Ceux-ci ont ainsi pu bénéficier des améliorations indiciaires applicables aux fonctionnaires en activité. En revanche, conformément aux dispositions de l'article L. 3 du code précité, les fonctionnaires retraités sont radiés des cadres. Ils ne peuvent donc plus continuer à bénéficier d'avancement d'échelon et n'ont plus de carrière alors que la progression d'un fonctionnaire en activité s'inscrit dans un déroulement de carrière avec des possibilités d'avancement à l'ancienneté, de promotion au choix ou sur épreuves, et de reclassement. Compte tenu de ces éléments, il apparaît qu'un fonctionnaire retraité ne peut pas bénéficier d'un reclassement fondé sur des bonifications d'ancienneté et faire l'objet à ce titre d'un avancement. Il n'est pas envisagé de modifier les modalités de péréquation applicable aux retraités des postes et télécommunications et à l'ensemble des retraités anciens fonctionnaires.
