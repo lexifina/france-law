@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017715
+
+- Question : [SEQ911017715](seq911017715.md) — Contribution française à la Communauté économique européenne
+
+## Réponse
+
+*Premier ministre, JO du 1992-01-30, page 241*
+
+Réponse. - L'évolution du budget communautaire et de la contribution française traduit l'engagement européen de la France en faveur de la construction européenne. Cet effort financier est justifié et a des retombées économiques et politiques évidentes : la Communauté est un accélérateur de croissance, un marché privilégié pour nos entreprises, un pôle de démocratie et de stabilité dont tous les peuples d'Europe ont besoin. Les dépenses communautaires progressent sensiblement depuis quelques années. Elles ont toujours été contenues sous les plafonds annuels de ressources propres de l'accord interinstitutionnel de 1988. Le Gouvernement français a protesté contre la décision de la commission de refuser l'opération de fusion envisagée par les sociétés Aérospatiale, Alenia et De Havilland. Il continue de considérer que cette décision allait à l'encontre des intérêts non seulement des entreprises en question mais également de l'industrie et de l'économie européennes. Il note cependant que cette décision négative a été la seule de l'année 1991, la commission ayant par ailleurs donné son accord à près d'une trentaine d'opérations de fusion, d'absorption ou de prise de participation, dont certaines très importantes (Crédit lyonnais - Usinor-Sacilor, B.N.P. - Air France. Il considère qu'aucun lien ne peut être raisonnablement établi entre le traitement de ce dossier et le versement de notre contribution au budget communautaire. Il rappelle par ailleurs qu'une réforme de la politique agricole commune est aujourd'hui indispensable et qu'il veille bien évidemment à défendre la compétitivité et les intérêts de l'agriculture française dans les négociations engagées depuis plusieurs mois à Bruxelles.
