@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935096
+
+- Question : [SEQ010935096](seq010935096.md) — Rationalisation de la gestion des personnels du Quai d'Orsay
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-11-22, page 3697*
+
+L'unification des corps de catégorie B (secrétaires de chancellerie et secrétaires d'administration centrale) s'inscrit dans le cadre de la politique de modernisation engagée par le ministère des affaires étrangères depuis plusieurs années. Elle vise à rationaliser les procédures de gestion des personnels et à offrir une meilleure qualité de service dans nos réseaux à l'étranger et à l'administration centrale. Le ministère veillera à limiter les conséquences de la réforme sur la situation familiale des agents concernés, notamment par une réduction adaptée et progressive des temps de séjour entre l'administration centrale et les postes à l'étranger. En ce qui concerne la professionnalisation des agents, cette réforme permettra la mise en place de nouvelles filières de formation : gestion administrative, financière et culturelle, gestion des ressources humaines, presse, documentation, etc., qui ne se limiteront plus aux seules affaires consulaires. Une formation spécifique, étalée sur quatre mois, sera à l'avenir proposée aux lauréats des concours. A titre dérogatoire, les agents du nouveau corps commun de catégorie B, qui conserveront l'appellation de " secrétaires de chancellerie ", bénéficieront pendant cinq ans d'une amélioration appréciable de leurs possibilités de promotion vers la catégorie supérieure à raison de deux places pour cinq mises aux concours, au lieu d'une seule actuellement. Les postes à l'étranger et donc les Français expatriés, mais aussi les services de l'administration centrale du ministère des affaires étrangères, bénéficieront ainsi d'une meilleure adéquation du recrutement et de la formation des personnels concernés par la fusion à leurs métiers.
