@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515577
+
+- Question : [SEQ960515577](seq960515577.md) — Union européenne : ratification de la convention cadre pour la protection des minorités nationales
+
+## Réponse
+
+*Affaires européennes, JO du 1996-07-11, page 1742*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger le Gouvernement sur sa position concernant la convention-cadre pour la protection des minorités nationales, ouverte à la signature, le 1er février 1995, à Strasbourg. Comme le sait l'honorable parlementaire, la question de la protection des minorités nationales en Europe centrale tient particulièrement à coeur au Gouvernement. Les minorités nationales établies en Europe par les bouleversements de l'histoire doivent être protégées sous peine de voir la stabilité du continent menacée. L'initiative du pacte de stabilité lancé par la France, endossée par l'Union européenne, et transmise désormais à l'OSCE, a témoigné de notre volonté d'aider les pays appelés à rejoindre l'union à surmonter leurs problèmes de minorités. Une initiative analogue a été lancée par notre pays en décembre dernier, à Royaumont, pour favoriser la stabilité et le bon voisinage dans le sud-est de l'Europe. Devant l'augmentation des risques de conflits régionaux consécutive à l'effondrement des régimes communistes, de nombreux pays européens ont souhaité un engagement juridique pour la protection des minorités nationales et ont décidé d'élaborer la convention-cadre à laquelle l'honorable parlementaire se réfère. Conscient des difficultés constitutionnelles et juridiques posées par cet instrument, le Gouvernement a sollicité l'avis du Conseil d'Etat sur sa compatibilité, de par son objet, avec la Constitution française. Cet avis étant négatif, le Gouvernement n'envisage pas de signer la convention-cadre pour la protection des minorités nationales.
