@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913887
+
+- Question : [SEQ040913887](seq040913887.md) — Fixation des indemnités des élus
+
+## Réponse
+
+*Intérieur, JO du 2005-03-24, page 851*
+
+L'honorable parlementaire demande à M. le ministre de l'intérieur, de la sécurité intérieure et des libertés locales de lui faire connaître le dispositif relatif aux indemnités de fonction, les mesures qui doivent être prises par une commune pour répartir sur un ou plusieurs adjoints la part non utilisée de l'enveloppe indemnitaire ainsi que les modalités de répartition d'un écrêtement. Toute décision relative aux indemnités de fonction doit faire l'objet d'une délibération de l'assemblée délibérante de la collectivité territoriale ou de l'EPCI concerné, l'exécutif n'étant pas compétent en la matière. Afin d'améliorer la transparence du régime indemnitaire des élus des régions, départements, communes et EPCI, la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité fait obligation de joindre à toute délibération portant sur les indemnités de fonction, que celle-ci concerne un ou plusieurs élus, un tableau annexe récapitulant l'ensemble des indemnités allouées aux membres de la collectivité ou de l'EPCI. Ainsi, pour illustrer l'exemple cité par l'honorable parlementaire, une commune qui voudrait répartir sur un ou plusieurs adjoints la part non utilisée de l'enveloppe indemnitaire prévue devra prendre une délibération en ce sens et joindre à celle-ci le tableau annexe précité. Si l'écrêtement doit, obligatoirement, faire l'objet d'une délibération nominative, la loi ne prévoit pas de disposition particulière en ce qui concerne la répartition de la part (ou des parts) écrêtée(s). L'assemblée délibérante peut donc, lorsque deux élus ou plus sont concernés par la répartition, prendre des délibérations individuelles ou une délibération collective. Le tableau annexe déjà cité devra être joint à la (ou les) délibération(s).
