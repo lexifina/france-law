@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002879
+
+- Question : [SEQ861002879](seq861002879.md) — Suppression de l'autorisation administrative de licenciement: statistiques
+
+## Réponse
+
+*Affaires sociales, JO du 1987-09-10, page 1410*
+
+Réponse. -Une enquête par sondage sur les licenciements réalisés au cours du troisième trimestre 1986 a effectivement été faite par le ministère des affaires sociales et de l'emploi en vue de suivre les premiers effets de la nouvelle législation en matière de licenciements. Les résultats complets de cette enquête paraîtront prochainement dans le numéro 33 des dossiers statistiques du travail et de l'emploi. Dans le cadre de la loi du 30 décembre 1986 qui marquait l'aboutissement du processus de mise en place de la nouvelle réglementation en matière de licenciement économique, des dispositions ont été prises pour que l'information sur les licenciements soit portée à la connaissance de l'administration par les employeurs dans tous les cas de procédures : licenciements réalisés dans le cas de licenciements de moins de dix salariés, licenciements envisagés dans le cas de licenciements de dix salariés et plus ou d'une procédure de redressement ou de liquidation judiciaire. Par souci de continuité avec le passé et pour obtenir une statistique homogène quelle que soit la procédure, l'information collectée portera sur l'ensemble des personnes comprises dans un licenciement, y compris celles adhérant à une convention de conversion. Afin de garantir au mieux l'exhaustivité des déclarations et la qualité des renseignements concernant les salariés licenciés, un imprimé devra être rempli par tous les employeurs effectuant un licenciement économique. Cet imprimé, revêtu du visa du Cerfa, est en cours de diffusion auprès des directions départementales du travail et de l'emploi et des Assedic.
