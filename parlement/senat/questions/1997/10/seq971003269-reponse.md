@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003269
+
+- Question : [SEQ971003269](seq971003269.md) — Recherche dans le domaine des télécommunications
+
+## Réponse
+
+*Industrie, JO du 1997-11-06, page 3077*
+
+Réponse. - Face aux évolutions prévisibles de l'organisation de la recherche nationale en télécommunications en France, la création d'un réseau national de recherche en télécommunications a été proposée pour accompagner et anticiper les évolutions en cours dans ce domaine. Pour garantir l'effort global de recherche amont et la pérennité de nos laboratoires, le Gouvernement a décidé de mettre en oeuvre ce réseau national de recherche en télécommunications. Afin de le piloter, un comité d'orientation sera mis en place et aura pour mission de proposer aux ministres des priorités pour la recherche publique, des projets coopératifs et des thèmes d'appels à proposition qui pourront être soutenus par les pouvoirs publics dans le cadre des procédures existantes. Le comité d'orientation pourra de plus être consulté annuellement pour évaluer les résultats des efforts entrepris dans le cadre du réseau national de recherche en télécommunications. Le Gouvernement prendra très rapidement les dispositions nécessaires pour mettre en place un tel réseau à l'échelon national. Il dégagera notamment, dès 1998, les crédits de recherche industrielle nécessaires pour permettre le financement de programmes de recherche exécutés en coopération. De nouveaux programmes à fort enjeux de société dans le domaine de la santé ou de l'éducation seront par ailleurs lancés. Enfin, le Gouvernement veillera au bon respect des obligations fixées par la loi afin que France Télécoom et les autre opérateurs de télécommunications maintiennent un effort de recherche permettant à la France de garder dans l'avenir sa position d'excellence technologique dans ce domaine.
