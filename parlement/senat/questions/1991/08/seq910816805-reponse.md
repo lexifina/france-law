@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816805
+
+- Question : [SEQ910816805](seq910816805.md) — Coût du traitement du blépharospasme
+
+## Réponse
+
+*Santé, JO du 1991-12-05, page 2724*
+
+Réponse. - La toxine botulique ne dispose pas d'une autorisation de mise sur le marché et n'est donc pas normalement commercialisée en France. Ce produit est cependant accessible, suivant un circuit de distribution spécifique, aux praticiens qui ont pu apporter la preuve de leur compétence pour l'utilisation, extrêmement délicate, de ce médicament. En effet, cette toxine est depuis 1987 régulièrement importée soit des Etats-Unis, soit de Grande-Bretagne, les demandes d'autorisation d'importation étant examinées individuellement par les services de la direction de la pharmacie et du médicament. En ce qui concerne la toxine produite en Grande-Bretagne, elle était jusqu'à une période récente dépourvue d'autorisation de mise sur le marché (A.M.M.) dans ce pays et exportée suivant un tarif provisoire prenant en compte une partie seulement des frais de recherche et des coûts de production. A présent, la toxine botulique étant réglementairement enregistrée et commercialisée en Grande-Bretagne, elle peut être obtenue à l'exportation suivant un prix fixé par le laboratoire commercialisant ce médicament, en accord avec les autorités sanitaires anglaises. Il convient de noter qu'actuellement en France deux dossiers concernant la toxine botulique sont en cours d'examen par la commission d'A.M.M. ; les conditions d'utilisation des spécialités correspondantes feront l'objet de dispositions particulières. Par ailleurs on peut rappeler que d'une manière générale, depuis l'arrêté du 4 août 1987, le prix d'achat des médicaments utilisés en milieu hospitalier n'est plus réglementé et relève de la négociation entre fabricants et utilisateurs.
