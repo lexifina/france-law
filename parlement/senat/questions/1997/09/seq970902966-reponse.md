@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902966
+
+- Question : [SEQ970902966](seq970902966.md) — Classement du canal du Midi
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-01-22, page 222*
+
+Réponse. - Madame la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant le classement, au titre des sites, du canal du Midi. L'arrêté ministrériel du 4 avril 1997 a classé parmi les sites de caractère pittoresque, historique et scientifique des départements de la Haute-Garonne, de l'Aude et de l'Hérault, l'ensemble formé par le domaine public fluvial de l'état du canal du Midi, du canal de Brienne, de l'embranchement de la Nouvelle et de la descente dans l'Hérault maritime depuis l'écluse ronde d'Agde. Le classement prochain de la rigole de la Plaine, faisant suite au récent classement de la rigole de la montagne Noire, protègera l'intégralité du système d'alimentation en eau du canal du Midi. Dans une phase ultérieure, il est également envisagé de classer au titre des sites le canal latéral à la Garonne. Ces classements n'intéressent que les ouvrages publics et leurs dépendances. Ils ont pour effet de soumettre à autorisation ministérielle ou préfectorale toute modification de l'aspect ou de l'état du site, à l'exception des travaux d'entretien courant. Par ailleurs, la protection des paysages les plus représentatifs de l'image du canal du Midi a déjà fait l'objet d'études qui devraient aboutir à la mise en oeuvre de procédures adaptées au contexte local, notamment des classements au titre des sites. Sur le plan budgétaire, des crédits déconcentrés pourront être consacrés à des opérations de conservation ou de mise en valeur du canal du Midi et de ses canaux annexes, dans la mesure des possibilités et en étroite collaboration avec Voies navigables de France, gestionnaire du domaine public du canal du Midi.
