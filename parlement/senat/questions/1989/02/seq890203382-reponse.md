@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203382
+
+- Question : [SEQ890203382](seq890203382.md) — Respect des droits de l'homme au Brésil
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-04-13, page 587*
+
+Réponse. - Les conflits liés à la possession de la terre, particulièrement vifs dans le Nord-Est et en Amazonie, sont un phénomène chronique au Brésil. Ils ont connu une nette recrudescence à partir de 1985, date à laquelle a été lancée officiellement une réforme agraire qui n'a pas atteint les résultats escomptés. Ces envahissements de terres sont devenus plus fréquents et la réplique des propriétaires terriens, opposés à la réforme agraire et regroupés au sein de l'Union démocratique ruraliste (U.D.R.), a été très violente. La Commission pastorale de la terre, qui dépend de l'épiscopat brésilien, a recensé, en 1987, 154 assassinats liés aux conflits de la terre. De nombreux syndicalistes, prêtres et dirigeants de communautés rurales qui soutiennent les revendications des paysans sans terre ont reçu, d'autre part, des menaces de mort ou ont subi des agressions. La réaction des autorités à ces actes de violence n'a pas permis que leurs auteurs ou leurs commanditaires soient réellement inquiétés. Toutefois, à la suite de l'assassinat, en décembre 1988, du dirigeant syndical Chico Mendes, qui a suscité une grande émotion dans l'opinion internationale, les autorités brésiliennes ont pris conscience de la gravité de la situation et ont procédé à l'arrestation de leurs auteurs, qui devront comparaître devant la justice. La France, particulièrement attachée au respect des droits de l'homme partout dans le monde, espère que le gouvernement démocratique brésilien prendra les mesures qui s'imposent afin que la loi soit respectée et pourra faire preuve de la plus grande fermeté contre ceux qui choisissent la violence pour régler à leur avantage des conflits agraires.
