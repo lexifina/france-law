@@ -64,18 +64,6 @@ Oedème moyen (épaisseur environ 1 mm) : 3.
 
 Oedème grave (épaisseur supérieure à 1 mm et surface supérieure à celle du carré) : 4.
 
-c) Notation :
-
-Additionner les notes obtenues pour l'oedème et pour l'érythème après vingt-quatre heures et soixante-douze heures sur les six zones correspondant aux surfaces incisées.
-
-Effectuer le même total pour les six zones correspondant aux surfaces non incisées.
-
-Effectuer le total des deux chiffres obtenus ci-dessus.
-
-Calculer la note moyenne en divisant le total précédant par 24.
-
-La moyenne obtenue (toujours inférieure à 8) permet d'apprécier l'agressivité superficielle cutanée du produit essayé par applications itératives.
-
 Note - L'évaluation des érythèmes est facilitée en effectuant une injection intraveineuse dans l'oreille du lapin, d'une solution à 1 p. 100 de trypan bleu dans le sérum physiologique stérile à raison de 1 millilitre de solution par kilogramme de lapin. Les zones vascularisées se colorent en bleu et l'intensité de la coloration est proportionnelle à l'intensité de l'irritation.
 
 Nota - Il est souhaitable de procéder à un examen histologique de la peau et à une analyse de sang et d'urine.
