@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420814
+
+- Question : [SEQ920420814](seq920420814.md) — Application de la médecine audiovisuelle aux hôtels
+
+## Réponse
+
+*Tourisme, JO du 1992-07-09, page 1576*
+
+Réponse. - Le régime actuel de la redevance de l'audiovisuel prévoit que les particuliers détenteurs d'appareils de télévision bénéficient d'une imposition unique par logement. En revanche l'exploitant d'un hôtel est tenu d'acquitter la redevance pour chacun des récepteurs installés dans son établissement. Une tarification dégressive corrige partiellement l'effet de cette mesure, les abattements allant de 25 p. 100 du onzième au trentième poste à 50 p. 100 à partir du trente et unième poste. Mais cette dégressivité paraît aujourd'hui un frein à la modernisation de la petite hôtellerie. Il conviendrait donc d'aménager ces dispositions d'une manière globale et plus particulièrement en faveur des établissements de petite capacité (de moins de dix chambres) pour lesquels la réglementation entraîne une augmentation relativement sensible des charges fixes au regard d'une rentabilité faible. Cette revendication fait l'unanimité au sein des organisations professionnelles. L'attention du secrétaire d'Etat auprès du ministre d'Etat, ministre de l'éducation nationale et de la culture, chargé de la communication, celle du ministre de l'économie et des finances et celle du ministre du budget ont été appelées sur cette situation. Au moment où l'équilibre financier du secteur public de l'audiovisuel fait l'objet de réflexions approfondies, il n'est pas apparu opportun de modifier les règles applicables dans un sens qui se traduirait par une diminution de ressources pour ce secteur. Par contre une modulation de la charge de la redevance selon la catégorie d'établissement mérite d'être étudiée. C'est dans cette perspective que travaille actuellement le ministère du tourisme, en relation avec les représentants professionnels.
