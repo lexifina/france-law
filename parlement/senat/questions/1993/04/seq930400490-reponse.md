@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400490
+
+- Question : [SEQ930400490](seq930400490.md) — Harmonisation de la formation et de l'exercice des professions de guide de montagne
+
+## Réponse
+
+*Jeunesse et sports, JO du 1993-06-24, page 1021*
+
+Réponse. - La nécessité d'harmoniser les formations et l'exercice des professions de guide au niveau européen n'a pas échappé au ministère de la jeunesse et des sports. En effet, l'Europe des métiers du sport constitue une de ses préoccupations majeures et permanentes. A cet effet, ce département ministériel a pris une part active aux travaux du réseau européen des instituts en science du sport. Cette structure a en charge l'élaboration d'une échelle cohérente des niveaux de formation conduisant aux métiers d'entraîneur. Elle propose des minima de formation à partir desquels une qualification pourrait être reconnue par les Etats membres selon les directives du Conseil des communautés européennes. Par ailleurs, le ministère de la jeunesse et des sports, sur proposition de la section permanente du Conseil supérieur des sports de montagne, travaille à la mise en conformité du dispositif réglementaire par rapport aux exigences de la plate-forme communautaire des guides. L'arrêté du 5 octobre 1984 ainsi que ceux des 21 et 28 juin 1985 vont être prochainement abrogés et remplacés par deux arrêtés qui restructureront l'ensemble de la formation conduisant au diplôme de guide. Le nouveau dispositif prendra effet à compter de septembre 1993. Dans ce contexte, la plate-forme communautaire des guides s'inscrit dans la logique des orientations retenues par le Réseau européen, dans la mesure où ce dernier a engagé une réflexion prospective sur l'élaboration d'une directive sectorielle relative à l'harmonisation des systèmes de qualification professionnelle de l'activité considérée.
