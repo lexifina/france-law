@@ -24,6 +24,8 @@ Ajusteur ;
 
 Agent d'entretien ;
 
+Agent technique (électronique et radioélectricité).
+
 Animateur de prévention et sécurité ;
 
 Bobinier ;
@@ -245,6 +247,8 @@ Agent de maintenance ;
 Agent de sécurité ;
 
 Agent de sécurité-agent de prévention ;
+
+Agent technique (électronique et radioélectricité) ;
 
 Ajusteur ;
 
