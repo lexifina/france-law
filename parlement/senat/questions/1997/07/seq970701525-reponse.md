@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701525
+
+- Question : [SEQ970701525](seq970701525.md) — Conditions d'embauche d'un jeune sans qualification professionnelle
+
+## Réponse
+
+*Emploi, JO du 1997-11-13, page 3159*
+
+Réponse. - La ministre de l'emploi et de la solidarité n'envisage pas un assouplissement des conditions d'embauche pour permettre l'insertion des jeunes sans qualification professionnelle. En effet, il n'apparaît pas qu'une telle mesure puisse utilement contribuer à une bonne insertion sur le marché de l'emploi. En revanche, un effort vigoureux sea mené pour permettre l'insertion des jeunes sur des emplois stables et durables. C'est le sens et l'objectif du programme " nouvelles activités, nouveaux emplois " pour la loi no 97-940 du 16 octobre 1997 relative au développement d'activités pour l'emploi des jeunes. Cette loi permettra la création de 350 000 emplois pour les jeunes dans le secteur non marchand. S'agissant de l'embauche de jeunes dans le secteur marchand, le Premier ministre a souhaité, à l'issue de la conférence nationale sur l'emploi, les salaires et le temps de travail, que chaque branche professionnelle réalise, sous l'impulsion des organisations patronales et syndicales au niveau interprofessionnel, un diagnostic de la situation de l'emploi des jeunes et de ses perspectives. Les branches pourront disposer de l'appui des services de l'Etat, si elles le désirent, pour élaborer ces diagnostics, qui serviront de base à la négociation d'accords de branche, assortis d'objectifs quantifiés pour augmenter la part des jeunes dans l'emploi, diminuer la précarité, développer la formation et rajeunir la pyramide des âges. Un premier bilan de ces rencontres sera établi au premier trimestre 1998, et un bilan général sera fait avant l'été pour mesurer les avancées réalisées.
