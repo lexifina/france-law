@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113451
+
+- Question : [SEQ960113451](seq960113451.md) — Délai de réalisation de la liaison Trans-Val-d'Oise entre Cergy-Pontoise et l'aéroport de Roissy
+
+## Réponse
+
+*Équipement, JO du 1996-05-02, page 1082*
+
+Réponse. - Le schéma directeur de la région Ile-de-France approuvé en 1994 a mis l'accent sur la nécessité de créer des liaisons tangentielles ferrées entre les principaux pôles d'activités et d'habitat de la grande couronne. Les prévisions montrent en effet que, globalement, le nombre de déplacements motorisés de banlieue à banlieue devrait s'accroître de 40 p. 100 d'ici à 2015. Le schéma de principe du projet Trans-Val-d'Oise deuxième étape ou Tangentielle Nord, incluant une liaison entre la ville nouvelle de Cergy-Pontoise et l'aéroport de Roissy-Charles-de-Gaulle, devrait être achevé par la SNCF avant la fin de l'année 1996. La réalisation de la liaison Cergy-Pontoise-Roissy-Charles-de-Gaulle nécessiterait aujourd'hui environ 5 milliards de francs pour l'infrastructure et 630 millions de francs pour le matériel roulant, cela pour un trafic sur le tronçon le plus chargé estimé à 3 700 passagers en heure de pointe et par sens à l'horizon 2015. La suppression du noeud ferroviaire de Pontoise, dans le cadre du prolongement de la ligne C du RER au-delà de Montigny-Beauchamp constitue une première phase du projet Trans-Val-d'Oise qui devrait être engagée en 1996 pour un coût d'investissement global de l'ordre de 600 millions de francs. En ce qui concerne la période des XIIe et XIIIe Plan, ces aménagements seront en concurrence avec les nombreux autres projets franciliens. Les choix s'effectueront dans le cadre de contraintes budgétaires fortes tant du côté de l'Etat que du conseil régional. Il n'en reste pas moins que le développement des rocades, et notamment celles du secteur nord de l'agglomération, demeure un objectif prioritaire.
