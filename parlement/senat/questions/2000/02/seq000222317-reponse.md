@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222317
+
+- Question : [SEQ000222317](seq000222317.md) — Maintien des droits acquis en matière de prévoyance retraite en cas de mutation entre sociétés d'un même groupe
+
+## Réponse
+
+*Économie, JO du 2000-12-07, page 4144*
+
+Réponse. - Conformément à la jurisprudence du Conseil d'Etat, la déduction des cotisations de retraite supplémentaire de l'assiette tant de l'impôt sur les bénéfices, sur le fondement du 1º du 1 de l'article 39 du code général des impôts, que de l'impôt sur le revenu, sur celui du 2o de l'article 83 du même code, suppose notamment que le régime, s'il ne s'applique pas à l'ensemble du personnel de l'entreprise, bénéficie de façon générale et impersonnelle à des catégories de salariés objectivement définies. A cet égard, il est possible de retenir des catégories autres que celles retenues pour l'application de la législation du travail (ouvriers, employés, agents de maîtrise, ingénieurs et cadres), sous réserve que ces catégories soient déterminées selon des critères objectfs, non restrictifs, définis par référence aux usages et aux accords collectifs en vigueur dans la profession. Tel n'est pas a priori le cas d'un ensemble de salariés dont la seule caractéristique commune au sein d'une société serait d'avoir fait l'objet d'une mutation en provenance d'une autre société du même groupe. Au demeurant, les intéressés ont vocation à bénéficier du régime collectif de retraite supplémentaire qui, le cas échéant, et s'ils en remplissent les conditions d'affiliation, est en vigueur dans leur nouvelle entreprise. Cela étant, il ne pourrait être répondu plus précisément à la question posée que si, par l'indication des noms et adresses des contribuables concernés, l'administration était en mesure de procéder à une instruction plus détaillée.
