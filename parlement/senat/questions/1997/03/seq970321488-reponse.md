@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321488
+
+- Question : [SEQ970321488](seq970321488.md) — Développement de l'apprentissage de la langue française au Zimbabwe
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-04-17, page 1182*
+
+Réponse. - Notre pays se félicite de la déclaration par laquelle le président Mugabe souhaite voir développer l'apprentissage du français au Zimbabwe. D'ores et déjà, la France apporte son soutien à l'enseignement du français dans le système éducatif local, en participant, par exemple, à la formation initiale et continue des professeurs de français grâce à la présence de deux experts, ou en dispensant des actions de formation au sein des alliances françaises d'Harare et de Bulawayo. Cette année, et la déclaration du président Mugabe nous y encourage, notre coopération linguistique se développera dans quatre nouvelles directions. La première, dans le domaine universitaire, se traduira par la création d'un cursus de formation de professeurs de lycée et d'une filière de traduction et d'interprétariat. Partant du constat que le français, en concurrence avec les langues africaines locales et l'anglais, langue d'enseignement, doit cibler ses ambitions, la deuxième orientation vise à identifier, au sein du système éducatif, des établissements d'excellence qui bénéficieront d'un enseignement renforcé de notre langue. En troisième lieu, afin d'accompagner le développement des liens du Zimbabwe avec l'Afrique francophone, des cours de français professionnel (commerce, droit, tourisme, sport...) seront proposés aussi bien à l'université que dans les alliances françaises. Enfin, parce que la rénovation des infrastructures scolaires est la priorité du Zimbabwe et un préalable nécessaire à l'ancrage du français dans l'enseignement local, la France aidera ce pays à rechercher des financements auprès de l'Union européenne et des institutions internationales compétentes.
