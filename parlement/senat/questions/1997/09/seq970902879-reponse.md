@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902879
+
+- Question : [SEQ970902879](seq970902879.md) — Avenir du Fonds de gestion de l'espace rural (FGER)
+
+## Réponse
+
+*Agriculture, JO du 1997-12-11, page 3448*
+
+Réponse. - Le Fonds de gestion de l'espace rural créé en 1995 a pour objet de soutenir les actions concourant à l'entretien et à la réhabilitation d'espaces agricoles en voie d'abandon, d'éléments naturels du paysage et d'espaces où l'insuffisance d'entretien est de nature à aggraver les risques naturels. Sa gestion est très largement déconcentrée dans la mesure où la mise en oeuvre des actions s'effectue dans le cadre des orientations définies à l'échelon départemental par la Commission départementale de gestion de l'espace (CODEGE) regroupant en son sein, outre l'administration, des représentants du département des communes concernées ainsi que la profession agricole et les partenaires des milieux économique et associatif. Du bilan effectué sur trois années de fonctionnement, il s'avère que la majorité des actions réalisées concernent la restauration du paysage et la réhabilitation des espaces ruraux. Ce type d'actions fait l'objet d'une demande sociale croissante qui peut être satisfaite par ce fonds, seul dispositifà rémunérer des actions échappant de plus en plus à la sphère d'influence des activités agricoles tout en ne relevant pas d'une activité marchande ou productive déterminée. Ainsi, compte tenu de son rôle spécifique et de son intérêt pour la société rurale, ce fonds a été doté de 140 MF dans le projet de loi de finances pour 1998, ce qui devrait permettre de soutenir la dynamique créée depuis sa mise en place.Le Gouvernement réfléchit actuellement aux modalités de consolidation, de développement et d'utilisation de ce fonds, dont il mesure tout l'intérêt et l'importance en termes de préservation de la qualité de l'espace rural.
