@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136286
+
+- Question : [SEQ011136286](seq011136286.md) — Situation de l'Institut national des appellations d'origine
+
+## Réponse
+
+*Agriculture, JO du 2002-02-14, page 455*
+
+L'Institut national des appellations d'origine (INAO) est un établissement public à caractère administratif qui a vu son budget multiplié par 2,5 et ses effectifs plus que doubler depuis 1990, date à laquelle la loi lui a confié des attributions nouvelles dans les secteurs des produits laitiers et des produits agroalimentaires. Cet effort budgétaire a été poursuivi du fait de l'extension des compétences de l'INAO, par la loi d'orientation agricole de juillet 1999, aux produits bénéficiant d'une indication géographique protégée (IGP). Toutefois, le personnel a récemment exprimé ses inquiétudes sur les moyens mis à la disposition de l'établissement pour assurer les nouvelles missions liées à l'arrivée des IGP, craignant de ne plus pouvoir assurer ses missions en matière de contrôle des conditions de production des produits bénéficiant d'une appellation d'origine. A cette occasion, il lui a été démandé de réaliser le recensement des tâches assurées par l'INAO par rapport à ses missions, et des modalités selon lesquelles ces tâches sont assumées. Il convient en effet de souligner que, compte tenu de l'importance des productions dont il a la charge tant sur le plan économique que sur celui de l'aménagement du territoire, l'INAO doit être en mesure de mettre en oeuvre la politique de développement des productions à AOC et à IGP telle que l'a voulue le législateur. Dans ce cadre, la loi de finances initiale 2002 inscrit une augmentation de la subvention de l'Etat de 1 219 592 euros.
