@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003458
+
+- Question : [SEQ021003458](seq021003458.md) — Promotion de l'hospitalisation à domicile
+
+## Réponse
+
+*Santé, JO du 2003-03-27, page 1070*
+
+Le développement des alternatives à l'hospitalisation parmi lesquelles l'hospitalisation à domicile (HAD) n'est pas encore à la mesure des enjeux démographiques, de l'évolution des pathologies et des attentes de la population d'être prise en charge à son domicile. Les capacités nationales en places d'HAD s'élèvent en 2002 à plus de 4 700 places mais leur répartition sur le territoire demeure très inégale : un tiers des départements ne compte encore aucune place d'HAD. Afin de doubler ces capacités, notamment d'ici à 2005, plusieurs orientations fortes ont d'ores et déjà été prises dans le cadre du plan " Hôpital 2007 ". Les contraintes juridiques de la planification de l'offre de soins limitant la création de places d'HAD devraient être prochainement levées : ainsi, l'obligation de fermer deux lits d'hospitalisation complète pour créer une place d'HAD, de même que l'imputation de l'HAD à la carte sanitaire devraient prochainement être supprimées. Par conséquent, les places d'HAD pourront être créées ex nihilo en fonction des besoins identifiés par les schémas régionaux d'organisation sanitaire. Par ailleurs, les structures d'HAD devraient prochainement expérimenter le nouveau mode de tarification à l'activité, ce qui devrait contribuer à améliorer la lisibilité de leur financement. Les conditions juridiques et financières en faveur du développement de l'HAD sont en cours d'élaboration. Des mesures plus spécifiques portant sur l'élargissement du champ d'action de l'HAD, sur la diversification des prescripteurs et des promoteurs, sur une meilleure connaissance de son activité et, plus globalement de ce mode de prise en charge, sont de nature à atteindre un niveau de développement conforme aux besoins de la population.
