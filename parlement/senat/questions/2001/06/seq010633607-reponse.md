@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633607
+
+- Question : [SEQ010633607](seq010633607.md) — Institution d'une Journée nationale de la Résistance
+
+## Réponse
+
+*Anciens combattants, JO du 2001-08-02, page 2527*
+
+Le secrétaire d'Etat à la défense chargé des anciens combattants, ainsi qu'il l'a déjà affirmé à plusieurs reprises, est très sensible à la conservation de la mémoire de la composante particulièrement importante de l'histoire du second conflit mondial sur notre territoire que constitue la Résistance. Cependant, il reste réservé quant à l'institutionnalisation du 27 mai comme date unique de commémoration, car la Résistance n'est pas née en 1943, mais dès juin 1940 ; le général de Gaulle à Londres, Jean Moulin à Chartres, et bien d'autres encore ont pris alors des initiatives, qui se sont progressivement étendues et fédérées. Il estime indispensable d'insister sur la nécessité de transmettre à la jeunesse l'engagement de ces hommes et de ces femmes au service des valeurs de la nation, de la République, de la démocratie et des droits de l'homme contre la barbarie nazie ; tout le sens de la " politique de la mémoire " est en effet de mieux connaître les ombres et les lumières de cette période. Il serait cependant possible de s'appuyer sur la date du 27 mai 1943 pour faire étudier dans les établissements d'enseignement primaire et secondaire des textes incarnant les valeurs de la Résistance. Les actions de mémoire de l'année 2001 seront notamment consacrées à la commémoration des hauts faits de l'année 1941, tels le serment de Koufra, les exécutions de Châteaubriant ou l'action du réseau du Musée de l'homme. Les services du département ministériel et du ministère de l'éducation nationale sont également prêts à s'associer aux initiatives que prendront les collectivités locales dans ce dossier.
