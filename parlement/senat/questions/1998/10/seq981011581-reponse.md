@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011581
+
+- Question : [SEQ981011581](seq981011581.md) — Revendication des lycéens
+
+## Réponse
+
+*Éducation, JO du 2000-06-01, page 1968*
+
+Réponse. - Dans le second degré de l'enseignement scolaire, les emplois créés en loi de finances pour 2000 et les moyens dégagés par la baisse des effectifs scolarisés permettent d'améliorer les conditions d'encadrement et de résorber progressivement les inégalités des dotations constatées sur le territoire national. Le calcul des dotations académiques s'inscrit dans une démarche de répartition équitable des moyens sur l'ensemble du territoire qui implique l'attribution de moyens supplémentaires aux académies qui connaissent des progressions d'effectifs. La répartition des moyens entre les académies est établie à partir de critères quantitatifs et qualitatifs permettant d'apprécier la situation de chacune d'entre elles. La démographie scolaire, le poids des structures pédagogiques des établissements, les besoins normatifs d'enseignement et les spécificités des académies, en particulier la ruralité et les disparités sociales ou d'environnement observées, figurent parmi les éléments d'analyse retenus. Il appartient ensuite aux autorités académiques qui ont reçu délégation de pouvoir en application de la déconcentration administrative de définir la politique pédagogique de l'académie et les conditions dans lesquelles elles entendent la mettre en uvre en fonction des besoins des élèves, notamment pour ceux qui présentent les plus grandes difficultés dans les zones et les réseaux d'éducation prioritaires. Aussi, s'agissant des moyens d'enseignement attribués, plus spécifiquement, aux différents niveaux d'enseignement, il convient de prendre l'attache des autorités académiques qui définissent les dotations des établissements et sont, par conséquent, le mieux à même d'expliciter leur démarche.
