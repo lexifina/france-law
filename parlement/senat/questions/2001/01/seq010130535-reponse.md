@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130535
+
+- Question : [SEQ010130535](seq010130535.md) — Collectivités territoriales associées plus étroitement à la négociation, à la programmation et à la mise en  uvre des fonds européens
+
+## Réponse
+
+*Affaires européennes, JO du 2001-05-03, page 1504*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur le rapport de la commission pour l'avenir de la décentralisation intitulé " refonder l'action publique locale ", qui recommande une association plus étroite des collectivités locales à la négociation, à la programmation et à la mise en uvre des fonds structurels européens. Ce souci avait été exprimé par les élus locaux avant la négociation des fonds structurels pour la période 2000-2006. Le Gouvernement n'a pas manqué d'y donner suite, en associant les élus à l'élaboration des documents uniques de programmation, instruments de référence des grands axes de l'intervention communautaire et dont l'adoption par la commission conditionne la mise en uvre de ces mesures. Pour la gestion des fonds structurels, le mode de fonctionnement associe l'Etat et le niveau régional, dont les représentants assurent la coprésidence du comité de gestion. Mais c'est l'Etat qui est responsable en dernier ressort, dans la mesure où c'est contre lui que se retournera la commission pour demander le remboursement des fonds européens en cas de non-fonctionnement d'un projet. Enfin, une innovation a été introduite dans la gestion des deux programmes d'initiative communautaire Interreg et Urban, pour lesquels l'Etat déléguera la gestion des fonds communautaires à une autorité de gestion locale. Ces évolutions ne font que débuter. Elles seront évaluées à la lumière des résultats des différents projets cofinancés par les fonds communautaires, afin de poursuivre dans la voie de projets efficaces et enracinés localement.
