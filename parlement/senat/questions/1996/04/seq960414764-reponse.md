@@ -1,0 +1,11 @@
+# Réponse à la question SEQ960414764
+
+- Question : [SEQ960414764](seq960414764.md) — Bilan de la mise en place de la déclaration unique d'embauche
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-06-27, page 1603*
+
+Réponse. - La déclaration unique d'embauche regroupe en un seul formulaire les onze potentiellement utilisés lors de l'embauche d'un salarié : elle est accessible sur papier et sur Minitel. Suite à un travail en commun des administrations et organismes concernés, le décret no 95-1355 du 29 décembre 1995 instituant une déclaration unique d'embauche a généralisé, au 1er janvier 1996, cette déclaration sur l'ensemble du territoire métropolitain, à l'exception de quelques départements de la région parisienne et des DOM pour lesquels l'échéance a été portée au 1er juillet 1996. Plus de 1 million de déclarations uniques d'embauches ont été traitées à ce jour. Cette nouvelle mesure permet de diminuer la charge administrative des entreprises en réduisant le volume des informations demandées ; proposer aux entreprises un interlocuteur unique pour la réception des données afin de leur éviter un contact direct avec les administrations ; offrir aux entreprises un interlocuteur de proximité (guichet initiative emploi) capable de les conseiller dans leur démarche ; utiliser les nouvelles technologies de transfert d'informations tout en laissant à l'entreprise le choix de son support de déclaration. Les perspectives de développement de cette mesure pour 1996 sont les suivantes : dans les départements de la Somme et d'Ille-et-Vilaine, la demande de contrat initiative emploi (CIE) peut également être faite sur la déclaration unique d'embauche. Cette possibilité sera étendue à d'autres départements prochainement pour une éventuelle généralisation au courant de l'année. Il est prévu d'ouvrir progressivement le dispositif à d'autres formalités très couramment utilisées par les entreprises, notamment la demande d'aide pour le travail à temps partiel et l'affiliation à une caisse de retraite complémentaire. Dès à présent est menée une étude sur la généralisation des échanges de données informatisées (EDI) pour le transfert de cette déclaration. Cet
+
+te déclaration unique d'embauche est aujourd'hui facultative ; elle devrait être rendue obligatoire, par exemple à partir du 1er janvier prochain.
