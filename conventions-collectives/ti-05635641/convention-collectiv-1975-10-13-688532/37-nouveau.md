@@ -74,7 +74,7 @@ Cette procédure comprend :
 
 La convocation est faite par lettre recommandée avec demande d'avis de réception, huit jours francs avant la date fixée pour la réunion.
 
-Après les avoir entendus séparément, puis, s'il y a lieu, contradictoirement, ainsi que tous les défenseurs et tous les témoins, elle doit chercher à les concilier.
+Après avoir entendu les parties ou leurs mandataires ainsi que, s'il y a lieu, leurs défenseurs et les témoins, la commission doit chercher à les concilier.
 
 En cas de conciliation, il est dressé séance tenante procès-verbal de cette conciliation qui sera signé par tous les membres de la commission et par les deux parties ou leur mandataire régulier.
 
