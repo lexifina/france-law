@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112035
+
+- Question : [SEQ981112035](seq981112035.md) — Retraités de l'artisanat de la Vendée
+
+## Réponse
+
+*Emploi, JO du 1999-05-06, page 1506*
+
+Réponse. - Les prestations en nature servies par le régime obligatoire d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles correspondent à 50 % des dépenses de l'assuré pour les soins courants mais elles sont équivalentes à celles du régime général pour les soins coûteux. La parité est effective en cas d'hospitalisation et d'affection de longue durée. L'existence de régimes professionnels différents d'assurance maladie obligatoire est à l'origine d'un niveau de prestations en nature pour les " soins ambulatoires " spécifique au régime des travailleurs indépendants. Le niveau de ces prestations correspond à l'effort contributif requis des assurés actifs dont les taux de cotisations sont inférieurs à ceux des assurés du régime général. Une part importante des retraités du régime des travailleurs non salariés non agricoles est exonérée du paiement de la CSG qui s'est entièrement substituée à la cotisation depuis le 1er janvier 1998. Ainsi, en ce qui concerne les artisans, 51,4 % des pensionnés n'acquittent pas la CSG. Il n'est pas envisageable de prévoir des taux de remboursement différents entre ressortissants d'un même régime en instaurant des taux alignés sur le régime général pour les retraités et en conservant les taux actuels pour les actifs. Si le Gouvernement n'envisage pas de remettre en cause l'architecture actuelle des régimes de sécurité sociale, il demeure attentif à la question de l'écart entre niveaux de prestations entre régime général et régime de travailleurs non salariés des professions non agricoles, tout en ne méconnaissant pas les nécessités pour ce régime, de garantir son équilibre financier en veillant au rapport global entre prélèvements obligatoires et niveau de prestations.
