@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406688
+
+- Question : [SEQ030406688](seq030406688.md) — Calcul de l'allocation logement temporaire des associations d'insertion
+
+## Réponse
+
+*Équipement, JO du 2003-08-21, page 2625*
+
+L'aide aux organismes logeant à titre temporaire des personnes défavorisées (ALT) a été instituée par la loi n° 91-1406 du 31 décembre 1991. Son objectif est de permettre aux associations oeuvrant à l'insertion par le logement, ainsi qu'aux centres communaux ou intercommunaux d'action sociale, de mieux répondre aux besoins d'hébergement des personnes en difficulté qui, ne disposant pas d'un logement à titre permanent, sont exclues du bénéfice des aides personnelles au logement ou ne peuvent être hébergées en centre d'hébergement et de réinsertion sociale. Sur la base d'une convention passée avec le préfet de département, les organismes précités bénéficient de cette aide qui est versée par les caisses d'allocations familiales (CAF) et déterminée en fonction des capacités d'hébergement effectivement mobilisées. Le calcul du montant de l'aide découle donc des caractéristiques physiques de la chambre (individuelle, pour deux ou plusieurs personnes) ou du logement mobilisé (T1, T1 bis, T2, T3, T4, T5 et plus de 5 pièces) et non pas des conditions dans lesquelles sont mis à disposition ces chambres ou ces logements. Le barème de l'ALT applicable pour 2003 a été actualisé, comme chaque année, au 1er janvier, sans que soient, pour autant, modifiées les règles afférentes au calcul de l'aide. Toutefois, confrontée au développement de pratiques locales non conformes aux principes de cette aide, le ministère des affaires sociales, du travail et de la solidarité et la Caisse nationale des allocations familiales ont été conduits, fin 2002, à rappeler les modalités réglementaires de calcul de cette aide.
