@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109392
+
+- Question : [SEQ950109392](seq950109392.md) — Evolution institutionnelle de l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1995-02-16, page 374*
+
+Réponse. - Le traité sur l'Union européenne, qui a prévu la tenue en 1996 d'une conférence intergouvernementale, a fixé les sujets qu'elle devra traiter (l'organisation en " piliers ", la PESC parallèlement à la question de la révision de l'articulation entre l'Union et l'UEO, le champ de la codécision, etc.). Mais cette liste est naturellement non exhaustive et d'autres sujets pourront s'ajouter : légitimité démocratique, transparence, subsidiarité, etc. Conformément à l'accord d'Ioannina, le Conseil européen de Corfou a décidé de créer un groupe de réflexion qui préparera la conférence intergouvernementale de 1996 et sera composé de représentants des Etats membres, du président de la Commission et du Parlement européen. Il sera présidé par une personne désignée par le Gouvernement espagnol et commencera ses travaux en juin 1995. En attendant, le Conseil européen de Corfou a invité les institutions à établir, avant le début des travaux du groupe de réflexion, des rapports sur le fonctionnement du traité sur l'Union européenne, rapports qui constitueront une contribution aux travaux du groupe. Le rapport du Conseil sera donc préparé sous la présidence française. Enfin, il convient de rappeler que le Conseil européen de Corfou a prévu que le groupe de réflexion présentera un rapport en temps voulu pour la réunion du Conseil européen à la fin de 1995. Il a précisé également que la procédure prévue par le traité pour la révision s'appliquera à la phase suivante. Compte tenu de ce calendrier, il apparaît pour l'instant prématuré de discerner les points qui semblent faire l'objet d'un consensus et ceux qui peuvent apparaître comme sujets à débat.
