@@ -30,7 +30,7 @@ e. Versements effectués au titre de fonds d'assurance formation et versements �
 
 f. Versements effectués dans les conditions prévues par le 4° de l'article L. 951-1 du code du travail ;
 
-g. Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle ;
+g. (sans objet)
 
 5. Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
 
