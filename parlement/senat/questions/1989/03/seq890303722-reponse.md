@@ -1,0 +1,13 @@
+# Réponse à la question SEQ890303722
+
+- Question : [SEQ890303722](seq890303722.md) — Nombre de communes en Allemagne fédérale
+
+## Réponse
+
+*Affaires européennes, JO du 1989-08-10, page 1227*
+
+Réponse. - Afin d'adapter aux circonstances du moment les structures des circonscriptions administratives de la République fédérale d'Allemagne, les Länder, à l'exception des villes-régions de Hambourg et de Brême (ainsi que de Berlin-Ouest), ont mis en oeuvre de 1968 à 1978 une vaste réforme régionale. Comme l'a relevé l'honorable parlementaire, le nombre des communes a été effectivement diminué de presque deux tiers (24 000 à 8 500). L'un des principaux objectifs de la réforme, à savoir la réduction du nombre des organismes de planification et la création d'unités administratives efficaces, a été atteint pour l'essentiel. Il semble en revanche que le gain en efficacité ait été réalisé aux dépens de l'étroitesse des rapports avec le citoyen. En outre, sur le plan financier, les économies escomptées (tant en moyens financiers qu'en personnel) semblent moindres que ce qui était prévu. Il reste que, si la réforme régionale a suscité certains mécontentements, elle a eu pour effet de consolider les structures d'autogestion des communes. Dans les régions rurales, par exemple, une administration centrale a pu être mise en place et les prestations communales en faveur des administrés ont dans l'ensemble pu être améliorées.
+
+*Affaires européennes, JO du 1989-08-24, page 1312*
+
+Réponse. - Afin d'adapter aux circonstances du moment les structures des circonscriptions administratives de la République fédérale d'Allemagne, les Länder, à l'exception des villes-régions de Hambourg et de Brême (ainsi que de Berlin-Ouest), ont mis en oeuvre de 1968 à 1978 une vaste réforme régionale. Comme l'a relevé l'honorable parlementaire, le nombre des communes a été effectivement diminué de presque deux tiers (24 000 à 8 500). L'un des principaux objectifs de la réforme, à savoir la réduction du nombre des organismes de planification et la création d'unités administratives efficaces, a été atteint pour l'essentiel. Il semble en revanche que le gain en efficacité ait été réalisé aux dépens de l'étroitesse des rapports avec le citoyen. En outre, sur le plan financier, les économies escomptées (tant en moyens financiers qu'en personnel) semblent moindres que ce qui était prévu. Il reste que, si la réforme régionale a suscité certains mécontentements, elle a eu pour effet de consolider les structures d'autogestion des communes. Dans les régions rurales, par exemple, une administration centrale a pu être mise en place et les prestations communales en faveur des administrés ont dans l'ensemble pu être améliorées.
