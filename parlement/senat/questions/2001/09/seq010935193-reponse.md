@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935193
+
+- Question : [SEQ010935193](seq010935193.md) — Création d'un institut national de formation du service public de l'environnement
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-12-20, page 4020*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la mise en place de l'Institut de formation de l'environnement (IFORE). L'IFORE a été créé par un décret du 9 juillet 2001 sour la forme d'un service à compétence nationale rattaché au directeur général du ministère de l'aménagement du territoire et de l'environnement. Deux arrêtés, parus au Journal officiel du 13 octobre 2001, ont ensuite été pris pour établir le fonctionnement de cet institut et fixer la composition de ses assemblées consultatives. L'IFORE est actuellement en phase d'installation. Se locaux sont situés au 6, rue du Général-Camou, à Paris (7e). Ses personnels sont en cours de recrutement. Pour 2002, ses crédits de fonctionnement s'élèveront à 1,5 million d'euros. Il devrait trouver sa pleine opérationnalité au cours de l'année 2002. L'IFORE est chargé d'assurer la formation initiale et continue des agents du ministère de l'aménagement du territoire et de l'environnement, de ceux des établissements publics sur lesquels il exerce sa tutelle ainsi que de tous ceux qui ont en charge les missions du ministère. Au-delà de ces missions premières, il doit également contribuer à faire mieux connaître et mieux prendre en compte les questions environnementales dans les cursus des écoles et organismes de formation de toute nature. A cet égard, il devva diffuser toutes informations sur les métiers de l'environnement. Enfin, l'IFORE devra établir une coopération au plan international de tous organismes susceptibles de favoriser et de promouvoir la formation en matière d'environnement.
