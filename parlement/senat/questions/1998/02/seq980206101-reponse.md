@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206101
+
+- Question : [SEQ980206101](seq980206101.md) — Sécurité des professionnels des travaux sur cordes
+
+## Réponse
+
+*Emploi, JO du 1998-04-02, page 1060*
+
+Réponse. - La ministre de l'emploi et de la solidarité rappelle que, dans son état actuel, le décret du 8 janvier 1965, notamment ses articles 5 et 140, sans évoquer explicitement des travaux sur cordes signalés par l'honorable parlementaire, admet le recours à la protection individuelle pour des travaux de très courte durée (moins d'une journée) et les tolère, sans limitation de durée, pour les travaux de faible importance. Ce texte, ainsi libellé, permet de tenir compte de l'ensemble des interventions sur cordes, dès lors qu'il est démontré qu'il est techniquement impossible de mettre en oeuvre une protection collective dans des conditions satisfaisantes de sécurité. Compte tenu des méthodes de travail utilisées, il semble difficile d'organiser, dans le code du travail, un accès protégé à cette profession, sans entrer, dans une logique de contrainte qui risque d'être difficilement supportable par les intervenants eux-mêmes. En outre, une telle démarche s'opposerait au principe, réaffirmé par les directives européennes en matière de sécurité et de protection de la santé, de la primauté du recours aux moyens de protection collective. De surcroît, depuis que les pouvoirs publics ont renforcé, par la loi no 93-1418 du 31 décembre 1993, l'intégration de la sécurité dans les ouvrages, en veillant à prévoir les conditions de leur entretien futur, toute modification réglementaire en cette matière doit être analysée dans le sens d'un réel progrès apporté à la prévention. Enfin, les partenaires sociaux sont, à juste titre, particulièrement soucieux du respect de tels principes sur les chantiers du bâtiment et des travaux publics, qui est, par nature, un secteur à haut risque.
