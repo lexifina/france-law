@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323641
+
+- Question : [SEQ000323641](seq000323641.md) — Création d'emplois dans le bassin de Saint-Quentin et missions de la DATAR
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-06-08, page 2061*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux missions de la Société pour le développement de l'industrie et de l'emploi (SODIE) et de la Délégation à l'aménagement du territoire et à l'action régionale (DATAR) dans le bassin de Saint-Quentin. Le renouvellement de la convention Etat/USINOR/SODIE pour la période 2000-2004 a été l'occasion, après un bilan de la précédente convention 1996-1999, d'intégrer de nouvelles zones dans la mission confiée à la SODIE. Le choix de ces nouvelles zones a été opéré essentiellement au regard des difficultés sérieuses que connaît la filière textile-habillement. A ce titre, le bassin de Saint-Quentin a été retenu. M. Christian Pierret, secrétaire d'Etat à l'industrie, en a fait l'annonce et s'en est expliqué lors de son déplacement du 3 mars dernier dans l'Aisne. La SODIE, à qui est demandée la création de 650 emplois dans le Saint-Quentinois, participera au financement des projets, nouveaux ou de développement, par l'attribution de prêts à moyen terme, sans garantie et à des taux préférentiels. Cette intervention ne peut qu'être de nature à renforcer les actions, dispositifs et moyens déjà en uvre sur la zone, qu'il s'agisse de prospection, d'ingénierie financière ou de financements (notamment la prime à l'aménagement du territoire). Par ailleurs, le professionnalisme de la SODIE et les liens déjà existants entre cette société et le commissariat de la DATAR sont autant de gages pour une collaboration opérationnelle et fructueuse au bénéfice du bassin.
