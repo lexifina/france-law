@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880309852
+
+- Question : [SEQ880309852](seq880309852.md) — Insertion professionnelle des jeunes dans les administrations publiques
+
+## Réponse
+
+*Fonction publique, JO du 1988-04-21, page 544*
+
+Réponse. -L'insertion professionnelle des jeunes dans la fonction publique s'effectue en principe par la voie de concours de recrutement, dont il appartient à chaque ministre, pour les corps de fonctionnaires relevant de sa compétence, d'assurer l'organisation. Les corps à vocation interministérielle ou dont le recrutement par la voie de l'Ecole nationale d'administration et des instituts régionaux d'administration, relève de la direction générale de l'administration et de la fonction publique, font l'objet d'enquêtes régulières concernant notamment le profil des lauréats au concours. Les résultats de ces études figurent dans le rapport annuel sur la fonction publique de l'Etat ; ce rapport pour 1987 fait état de statistiques relatives au niveau et à la formation des candidats admis aux concours externes d'accès aux instituts régionaux d'administration ou aux origines géographiques et socio-professionnelles des élèves reçus à l'E.N.A. Par ailleurs, des étudesréalisées pour certains corps de catégorie B indiquent que le niveau réel des diplômes détenus par une partie des lauréats des concours externes est supérieur au niveau du baccalauréat éxigé par les textes. Toutefois, ce phénomène de surqualification ne concerne, à l'exception de quelques corps, qu'une minorité (environ 20 p. 100 des candidats). Les modalités d'accueil et d'adaptation des lauréats recrutés par concours, sont, quant à elles, propres à chaque ministère et différent selon que le recrutement donne lieu directement à une affectation dans le corps en tant que stagiaire, ou conduit à une formation initiale dans une école d'application.
