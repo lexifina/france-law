@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320397
+
+- Question : [SEQ920320397](seq920320397.md) — Régime agricole d'assurance vieillesse : cumul des avantages vieillesse personnels avec la retraite de réversion
+
+## Réponse
+
+*Agriculture, JO du 1992-07-30, page 1724*
+
+Réponse. - Aux termes de l'article 1122 du code rural, le conjoint survivant d'un exploitant agricole ne peut prétendre à la pension de réversion de ce dernier que s'il n'est pas lui-même titulaire d'un avantage de vieillesse acquis au titre d'une activité professionnelle. Toutefois, si la pension de réversion susceptible d'être servie est d'un montant supérieur à celui de la retraite personnelle du conjoint survivant, la différence lui est servie sous forme d'un complément différentiel. S'il est vrai que des disparités existent entre le régime des exploitants agricoles et ceux des autres régimes de salariés, il y a lieu de relever aussi que le régime agricole est plus favorable lorsque le conjoint survivant est âgé de moins de soixante ans, puisqu'il bénéficie alors d'un taux de réversibilité de 70 à 80 p. 100 de la pension du défunt contre 52 p. 100 dans le cas d'un salarié. L'alignement complet du régime agricole sur le régime des salariés en ce qui concerne lesconditions de service des pensions de réversion constituerait une mesure coûteuse ; il aurait aussi inévitablement des répercussions sur les cotisations des actifs. Il est vrai que le problème du non-cumul d'une pension de réversion et d'une retraite acquise à titre personnel revêt une importance particulière. Il conviendra de tenir compte des orientations qui se dégageront du débat sur l'avenir des régimes de retraites. Mais la recherche d'une amélioration de la législation sur ce point doit prendre en considération l'importance de ses incidences sur les charges du régime social agricole.
