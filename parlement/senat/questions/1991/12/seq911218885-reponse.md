@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218885
+
+- Question : [SEQ911218885](seq911218885.md) — Enseignement d'éducation physique et sportive
+
+## Réponse
+
+*Jeunesse et sports, JO du 1992-01-30, page 268*
+
+Réponse. - Comme l'ensemble des services de l'Etat, le ministère de la jeunesse et des sports contribue à la politique gouvernementale de maîtrise des effectifs dans la fonction publique. En 1992, cette action se traduira par la suppression nette de 104 emplois budgétaires, en application d'une norme générale de réduction de 1,5 p. 100. Sur la période antérieure, les comparaisons sont complexes car les transferts d'emplois entre le ministère de la jeunesse et des sports et le ministère de l'éducation nationale sont nombreux et réciproques. Entre 1984 et 1992, le total des mesures budgétaires de réduction des effectifs est de 699 emplois pour le budget du ministère de la jeunesse et des sports. Dans le même temps, le nombre total des emplois ouverts a passé de 6 507 à 7 083. Pour ce qui cncerne la situation des chargés d'enseignement d'éducation physique est sportive qui exercent en position de détachement auprès des directions et des établissements de la jeunesse et des sports, plusieurs possibilités de promotion leur sont offertes. Tout d'abord, la nomination dans la hors classe dont l'indice terminal est identique à celui des professeurs de sport. Les chargés d'enseignement d'éducation physique et sportive peuvent également accéder au corps des professeurs de sport : par voie du concours interne ; par liste d'aptitude dans la proportion d'un tiers du nombre des emplois ouverts aux concours de l'année précédente ; par détachement, sous réserve de posséder les titres requis pour subir les épreuves du concours externe de recrutement, dans la limite de 20 p. 100 de l'effectif budgétaire de ce corps et en fonction des postes disponibles. A l'issue d'une période de deux ans de détachement, ils ont la possiblité d'être intégrés.
