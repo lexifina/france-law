@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907704
+
+- Question : [SEQ940907704](seq940907704.md) — Devenir de l'hôpital local
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-06, page 2397*
+
+Réponse. - La loi hospitalière du 31 juillet 1991 a lancé une vaste réforme qui s'appuie sur une conception rénovée de la planification, désormais fondée sur la carte sanitaire qui détermine la nature et l'importance des installations et activités de soins et sur les schémas régionaux d'organisation sanitaire (SROS) qui précisent la répartition géographique des installations et activités, en vue d'assurer la satisfaction optimale des besoins. Dans chacune des régions, l'élaboration des schémas régionaux d'organisation sanitaire est arrivée, ou arrive, à son terme. Ces schémas ont été élaborés à partir d'études et de réflexions associant les parties intéressées, qu'il s'agisse des représentants des établissements et de leurs organisations professionnelles, les différentes catégories de personnels médicaux et non médicaux, des responsables des collectivités locales et de ceux des organismes d'assurance maladie. L'objectif poursuivi est de constituer une mise en réseau gradué et coordonné des divers hôpitaux, cliniques et professionnels, afin de doter chacun de missions qui ne soient plus concurrentes, mais complémentaires. Cette organisation doit permettre de renforcer la qualité et surtout la sécurité des soins, répondant ainsi à l'exigence croissante exprimée à cet égard par la population. Cette planification sanitaire vise à organiser l'offre de soins dans chaque région et, dans ce cadre, les hôpitaux locaux, dont la vocation est l'accueil des patients nécessitant des soins courants, pourront, en fonction de leur position géographique et de leur qualité médicale, voir conforter leur rôle d'hôpitaux de proximité.
