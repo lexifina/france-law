@@ -1,0 +1,19 @@
+# Délibération portant avis sur le projet d'arrêté présenté par le ministère de l'équipement, du logement, des transports et de l'espace concernant un modèle-type de traitement relatif à la gestion des dossiers instruits par les services départementaux de l'architecture et la recherche d'antériorité sur les avis émis
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 92-009
+- Date : 1992-01-21
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653064
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention n° 108 du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ;
+
+Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi du 6 janvier susvisée ; Vu le décret n° 79-180 du 6 mars 1979 instituant les services départementaux de l'architecture ; Vu le projet d'arrêté présenté par le Ministre de l'Equipement, du Logement, des Transports et de l'Espace, portant création du traitement ;
+
+Après avoir entendu Monsieur René TEULADE, Commissaire en son son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que la Commission est saisie, par le Ministère de l'Equipement, du logement, des transports et de l'Espace, d'une demande d'avis créant un modèle national, concernant la mise en oeuvre d'un traitement automatisé d'informations nominatives dénommé "GESTAURAN" ; Considérant que le traitement mis en oeuvre permettra à chaque service départemental de l'architecture (SDA), de gérer l'instruction des dossiers transmis pour avis par les organismes instructeurs, et la recherche d'antériorité sur les avis émis ;
+
+Considérant que les catégories d'informations nominatives enregistrées sont relatives à l'identité du demandeur (nom, prénom, adresse, téléphone), de l'auteur du projet architectural (nom, prénom, adresse), du lotisseur ; qu'elles concernent également le logement (localisation), l'objet de la demande (construction, surélévation, extension, commerce, ravalement, enseigne, publicité), la destination éventuelle des locaux ; Considérant que les informations traitées doivent être conservées pour ce qui concerne la gestion des dossiers, pendant le délai de l'instruction qui est de trois mois ; qu'il convient que ces données soient conservées jusqu'à l'expiration du délai des recours contentieux ; que pour la recherche d'antériorité sur les avis, la durée de conservation est fixée à deux ans ; que ce délai doit permettre d'assurer une meilleure cohérence entre les avis émis en matière de prescriptions architecturales ;
+
+Considérant que les destinataires des informations sont les services instructeurs des demandes : les mairies, la Direction Départementale de l'Equipement, le service régional de la direction régionale des affaires culturelles pour les demandes concernant le patrimoine protégé au titre des monuments historiques ; Considérant que toute personne peut avoir accès aux informations la concernant auprès du chef du service départemental de l'architecture ; Considérant que les formulaires de demande d'autorisation comporteront une information sur la transmission des données aux SDA, conformément aux prescriptions de l'article 27 de la loi n° 78-17 du 6 janvier 1978 ; Considérant que chaque service départemental de l'architecture qui mettra en oeuvre le traitement "GESTAURAN" adressera à la CNIL une déclaration de conformité se référant audit modèle, comportant un engagement de conformité et une annexe décrivant les mesures de sécurité mises en place ; Emet un AVIS FAVORABLE à la mise en oeuvre du traitement examiné. Jacques FAUVET
