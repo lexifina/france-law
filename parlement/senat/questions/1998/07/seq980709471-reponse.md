@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709471
+
+- Question : [SEQ980709471](seq980709471.md) — Personnels des services des transmissions et de l'informatique
+
+## Réponse
+
+*Intérieur, JO du 1998-08-20, page 2724*
+
+Réponse. - Conscient de l'importance des missions confiées aux services des transmissions et de l'informatique, le ministre de l'intérieur porte un intérêt attentif aux moyens mis à leur disposition. S'agissant plus particulièrement des ressources humaines, il convient de distinguer trois catégories de fonctionnaires. Pour ce qui concerne les agents des transmissions (catégorie C), le protocole d'accord Durafour, transposé depuis 1993, s'est traduit par une amélioration sensible des fins de carrière. L'application de l'accord salarial du 10 février 1998, dont le principe est acquis, devrait quant à elle amplifier cette dynamique par une revalorisation des traitements de début de carrière. S'agissant de la catégorie B, l'économie générale de la transposition du protocole d'accord Durafour a été présentée aux représentants du personnel à l'occasion du dernier comité technique paritaire. Les dispositions réglementaires correspondantes ont été élaborées depuis lors et font l'objet d'une concertation interministérielle qui sera bientôt achevée. Pour ce qui concerne les inspecteurs des transmissions (catégorie A), les décrets, tant statutaires qu'incidiaires, ont été publiés au Journal officiel du 24 juin 1998 et chaque fonctionnaire s'est vu notifier son reclassement. Par ailleurs, et au-delà de la revalorisation des carrières, le ministère de l'intérieur s'attache à la modernisation du régime indemnitaire dans la perspective d'une plus juste indemnisation des contraintes et sujétions nouvelles auxquelles sont soumis les personnels du fait de l'évolution des techniques. Les mesures en cours d'élaboration pourraient être prochainement soumises aux organisations syndicales représentatives du personnel en vue de leur mise en uvre dès 1999.
