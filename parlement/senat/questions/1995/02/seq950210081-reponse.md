@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210081
+
+- Question : [SEQ950210081](seq950210081.md) — Carte du combattant pour les anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1995-05-10, page 1090*
+
+Réponse. - Il est signalé à l'honorable parlementaire qu'en instituant une majoration fondée sur la durée de présence en Afrique du Nord, l'arrêté du 30 mars 1994 répondait à la préoccupation essentielle de parvenir à une égalité de traitement des générations du feu en conservant toute sa valeur à la carte du combattant. La nécessité de l'appartenance à l'unité combattante ou de la participation à des actions de feu ou de combat se trouvait dès lors clairement réaffirmée. En ce qui concerne les engagés et les rappelés, l'application de ce principe excluait l'obtention de la carte du fait du seul cumul des majorations résultant de l'arrêté précité et des bonifications spécifiques correspondant à leur qualité d'engagé ou de rappelé. C'est ainsi qu'à ce titre, les premiers ne parviennent pas au minimum exigé, même s'ils peuvent effectivement atteindre 29 points. Les seconds, dont le séjour en Afrique du Nord n'a pas excédé 6 mois, ne réunissent pas non plus le nombre requis. La proposition émise, d'après laquelle une bonification de 10 points serait attribuée aux appelés, leur permettant d'obtenir la carte indépendamment de toute activité combattante, contreviendrait donc manifestement aux principes qui fondent la valeur du titre tels qu'ils ont été réaffirmés par la commission d'experts visée à l'article L. 253 bis du code des pensions militaires d'invalidité et des victimes de guerre et par la commission nationale de la carte du combattant, dans le cadre des travaux préparatoires à l'élaboration de l'arrêté du 30 mars 1994. Elle ne saurait dès lors être acceptée. Pour les mêmes raisons, il n'est pas envisagé de modifier le régime de bonifications accordées pour les blessures liées aux opérations au sens militaire du terme.
