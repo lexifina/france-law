@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202649
+
+- Question : [SEQ881202649](seq881202649.md) — Insertion professionnelle des handicapés
+
+## Réponse
+
+*Travail, JO du 1989-09-28, page 1606*
+
+Réponse. - La loi n° 87-517 du 10 juin 1987 a déterminé le cadre général d'intervention du Fonds de développement pour l'insertion professionnelle des handicapés. Les contributions versées au fonds sont destinées à favoriser toutes les formes d'insertion professionnelle des handicapés en milieu ordinaire de travail ; elles sont affectées notamment à la compensation du coût supplémentaire des actions de formation et d'actions d'innovation et de recherche dont bénéficient les intéressés dans l'entreprise ainsi qu'à des mesures nécessaires à l'insertion et au suivi des travailleurs handicapés dans leur vie professionnelle. Ces actions peuvent concerner les entreprises non assujetties à l'obligation d'emploi ainsi que les travailleurs handicapés qui exercent une activité indépendante. Le ministre du travail, de l'emploi et de la formation professionnelle et le bureau de l'Association nationale chargé de gérer les contributions versées par les employeurs (A.G.E.F.I.P.H.) ont réaffirmé que ces contributions devront être utilisées pour encourager et faciliter l'insertion des personnes handicapées en milieu ordinaire de travail. Le programme définitif de répartition des contributions versées au fonds au titre de l'année 1988 fera l'objet d'une approbation ministérielle. Les efforts déjà déployés par l'A.G.E.F.I.P.H. pour la mise en place du nouveau dispositif au cours de sa première année de fonctionnement devraient aboutir ainsi à un programme d'action détaillé permettant l'instruction des premiers dossiers présentés par les entreprises dans des conditions garantissant la meilleure efficacité au service de l'emploi des personnes handicapées.
