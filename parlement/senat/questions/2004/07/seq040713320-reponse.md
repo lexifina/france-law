@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713320
+
+- Question : [SEQ040713320](seq040713320.md) — Difficultés d'application de la nouvelle réglementation  pour les CLSH
+
+## Réponse
+
+*Jeunesse et sports, JO du 2004-09-30, page 2234*
+
+Le ministre de la jeunesse, des sports et de la vie associative est attentif aux préoccupations des organisateurs de centres de vacances et de loisirs concernant les difficultés de mise en oeuvre du décret n° 2002-883 du 3 mai 2002 relatif à la protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs, et pris en application de la loi n° 2001-624 du 17 juillet 2001. Afin d'accompagner la mise en oeuvre de ce décret, sans pour autant empêcher le fonctionnement de ces centres, l'arrêté du 21 mars 2003 fixant les titres et diplômes permettant d'exercer les fonctions d'animation et de direction en centres de vacances et de loisirs a élargi la liste des qualifications requises. Un article de cet arrêté prévoit en effet que, jusqu'au 1er septembre 2005 et à titre transitoire, dans les centres de loisirs accueillant moins de 50 mineurs, les fonctions de direction puissent continuer à être exercées par les personnes âgées de plus de 21 ans titulaires du brevet aptitude aux fonctions d'animateur (BAFA) et justifiant de plusieurs expériences d'animation en centres de vacances et de loisirs. Cette disposition transitoire répond à la demande initiale des organisateurs pour permettre aux personnes exerçant ces fonctions d'acquérir la qualification demandée. Par ailleurs, une réflexion est engagée au sein du ministère de la jeunesse, des sports et de la vie associative sur les dispositifs de formation BAFA et BAFD, en lien avec la commission technique et pédagogique des centres de vacances et de loisirs. C'est dans ce cadre que pourra être étudiée la situation des personnes ayant exercé les fonctions de direction et ne détenant que le BAFA.
