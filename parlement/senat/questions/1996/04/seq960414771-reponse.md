@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414771
+
+- Question : [SEQ960414771](seq960414771.md) — Difficulté de financement des centres d'aide par le travail
+
+## Réponse
+
+*Travail, JO du 1996-12-12, page 3342*
+
+Réponse. - L'Etat doit effectivement honorer sa signature en revalorisant les dotations globales de financement des centres d'aide par le travail à un niveau correspondant aux accords salariaux qu'il agrée. Cependant, l'Etat est également fondé à réexaminer les dotations financières qu'il accorde aux établissements et à corriger les dotations précédemment attribuées pour les ajuster à une gestion normale et économe des fonds publics dans le respect des missions des centres. Par conséquent, il a été demandé aux services des préfets (DDASS) d'engager avec les gestionnaires une réflexion portant notamment sur l'adéquation des financements et des prestations fournies et sur la politique de répartition des charges communes entre l'activité sociale et l'activité commerciale des CAT. En 1996, pour tenir compte de la nécessité de réduire les écarts actuellement anormalement forts entre les coûts à la place, l'actualisation 1996 des crédits attribués au régions pour le fonctionnement des CAT a été modulée en proportion des écarts des coûts à la place et ces enveloppes ont donc connu une revalorisation allant de 2,1 % à 4,61 %, la dotation de la région Picardie ayant progressé de 3,20 %, ce qui garantit la couverture des évolutions salariales et économiques prévues pour cet exercice. Toutefois, pour faire face aux situations budgétaires les plus critiques, une dotation exceptionnelle de 5 000 000 de francs vient d'être notifiée à M. le préfet de la Somme. Bien entendu, cet effort du financeur public doit être relayé par un engagement des gestionnaires à mettre en oeuvre des mesures tendant à une optimisation des moyens que rend indispensable le contexte budgétaire actuel.
