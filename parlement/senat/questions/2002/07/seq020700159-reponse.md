@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700159
+
+- Question : [SEQ020700159](seq020700159.md) — Propos racistes sur les radios
+
+## Réponse
+
+*Culture, JO du 2002-10-03, page 2230*
+
+L'honorable parlementaire appelle l'attention du ministre de la culture et de la communication sur la diffusion par certaines radios de la bande FM de propos outranciers concernant la crise du Proche-Orient et sur les pouvoirs du Conseil supérieur de l'audiovisuel pour sanctionner de tels abus. Les discussions de la réunion du 11 décembre 2000 entre les services audiovisuels communautaires et confessionnels et le Conseil supérieur de l'audiovisuel ont eu pour objet de faire le point sur le traitement de la crise au Proche-Orient par ces services, sans préjudice de l'application par le Conseil de ses prérogatives tirées de la loi du 30 septembre 1986 sur la liberté de communication audiovisuelle. Le législateur a en effet donné au Conseil supérieur de l'audiovisuel, autorité administrative indépendante, le devoir de veiller au respect de la personne humaine et de s'assurer, comme l'honorable parlementaire le rappelle, que les programmes ne contiennent aucune incitation à la haine pour des raisons de sexe, de moeurs, de religion ou de nationalité. Ainsi, l'article 1er de la loi donne au Conseil supérieur de l'audiovisuel un pouvoir de recommandation et les articles 42 et suivants lui confèrent un pouvoir de sanction administrative à l'encontre des médias audiovisuels qui ne respectent pas la réglementation ou les termes de leur convention. De même, le Conseil supérieur de l'audiovisuel peut saisir le procureur de la République de faits de nature pénale dont il a connaissance. Dès lors, il ne semble pas nécessaire de compléter ce large dispositif de sanctions et il appartient au Conseil supérieur de l'audiovisuel de l'appliquer en toute indépendance.
