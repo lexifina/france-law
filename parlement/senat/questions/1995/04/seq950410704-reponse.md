@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410704
+
+- Question : [SEQ950410704](seq950410704.md) — Projet ferroviaire à grande vitesse entre Lyon et Turin
+
+## Réponse
+
+*Équipement, JO du 1995-08-03, page 1541*
+
+Réponse. - A la suite des décisions prises à l'occasion du sommet franco-italien du 16 décembre 1994 concernant la nouvelle liaison ferroviaire Lyon-Turin, le Groupement européen d'intérêt économique Alpetunnel nouvellement constitué par la SNCF et les chemins de fer italiens a défini la consistance précise du nouveau programme d'études et l'affectation de la première tranche de 220 millions de francs qui sera engagée comme prévu en 1995. Le comité de pilotage franco-italien se réunira en septembre prochain pour faire le point sur ces études. Par ailleurs, ont été désignés comme convenu deux hauts représentants des gouvernements français et italien chargés de mettre en place une structure intergouvernementale ; il s'agit pour la France de M. Claude Villain, inspecteur général des finances. Leurs travaux sont en cours et devraient être examinés lors du prochain sommet franco-italien. S'agissant des relations de coopération industrielle, trois entreprises françaises sont liées par contrat, par accord ou par prise de participations à des sociétés italiennes : GEC Alsthom a signé avec Fiat il y a maintenant trois ans un accord cadre de coopération ; la Compagnie des signaux qui a équipé le TGV Nord ainsi que les matériels circulant sous le tunnel sous la Manche, et dont le capital est détenu à 49 p. 100 par Ansaldo Trasporti, a été choisie pour réaliser le système de contrôle du réseau à grande vitesse italien ; la société Sofrerail a conclu un contrat-cadre pour la réalisation des études nécessaires à l'avancement du projet de réseau à grande vitesse italien avec la société Italfer.
