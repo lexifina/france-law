@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113539
+
+- Question : [SEQ910113539](seq910113539.md) — Versement des prestations familiales aux enfants poursuivant des études supérieures
+
+## Réponse
+
+*Famille, JO du 1991-03-28, page 662*
+
+Réponse. - Conformément aux dispositions du code de la sécurité sociale, les prestations familiales sont versées jusqu'à l'âge de 16 ans cette limite vient d'être portée à 18 ans par le décret n° 90-526 du 28 juin 1990, en présence d'enfants inactifs ou qui perçoivent une rémunération inférieure à 55 p. 100 du S.M.I.C. : cette limite est fixée à 20 ans lorsque l'enfant poursuit des études, lorsqu'il est placé en apprentissage ou en stage de formation professionnelle au sens du livre IX du code du travail, à condition de ne pas bénéficier d'une rémunération supérieure au plafond indiqué plus haut. Attribuer les prestations familiales au-delà de vingt ans représenterait un coût élevé même si cette extension se limitait aux enfants poursuivant des études supérieures. Le système des bourses et des oeuvres sociales de l'enseignement supérieur semble, compte tenu des contraintes financières qui pèsent sur la sécurité sociale, et de l'équité à assurer entre les assurés, être le système le plus adapté pour répondre aux besoins des familles modestes dont les enfants poursuivent des études. Par ailleurs, les familles qui ont à leur charge des enfants de moins de vingt-cinq ans bénéficient du quotient familial au titre de l'impôt sur le revenu. Enfin les caisses d'allocations familliales bénéficient d'une autonomie assez large dans la gestion de leur action sociale familiale et peuvent ainsi l'adapter en faveur des familles concernées. Un certain nombre d'organismes prévoient notamment des prestations accordées au-delà des limites d'âge (exemple : prestations supplémentaires pour étudiant).
