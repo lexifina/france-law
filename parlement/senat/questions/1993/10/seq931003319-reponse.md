@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003319
+
+- Question : [SEQ931003319](seq931003319.md) — Accroissement des crédits consacrés à la lecture publique
+
+## Réponse
+
+*Culture, JO du 1993-12-16, page 2407*
+
+Réponse. - Dans le cadre des lois de décentralisation qui donnent aux municipalités pleine compétence en matière de bibliothèques municipales, l'aide de l'Etat au fonctionnement de ces établissements fait, depuis 1986, l'objet d'un concours particulier, au sein de la dotation générale de décentralisation inscrite au budget du ministère de l'intérieur. Depuis 1986, le nombre et les dépenses des bibliothèques municipales ont connu une augmentation supérieure à la progression annuelle de la dotation générale de décentralisation, ce qui explique le fléchissement du taux de concours. Il convient toutefois de souligner que compte tenu de l'importance des dépenses de fonctionnement des bibliothèques ainsi prises en compte dans le cadre du concours particulier, les sommes attribuées, malgré la faiblesse du taux du concours, sont loin d'être négligeables. Il faut également noter que l'effort de l'Etat ne se limite pas au fonctionnement des bibliothèques. Le concours particulier comprend aussi des crédits destinés à l'investissement, qui permettent de contribuer à un taux, très significatif de 35 p. 100 en moyenne aux opérations de construction, d'aménagement, d'équipement mobilier et d'informatisation des bibliothèques municipales. Enfin, les crédits centraux et déconcentrés du ministère de la culture et de la francophonie consacrés à la lecture publique permettent d'intervenir en direction des publics les plus divers. Notamment, dans le cadre du projet de budget pour 1994, il est prévu que 2 MF de crédits supplémentaires seront consacrés à la lecture dans les quartiers défavorisés, et particulièrement la lecture des jeunes.
