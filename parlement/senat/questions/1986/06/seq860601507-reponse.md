@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601507
+
+- Question : [SEQ860601507](seq860601507.md) — Instituteurs exerçant les fonctions de secrétaire de mairie
+
+## Réponse
+
+*Intérieur, JO du 1986-07-24, page 1050*
+
+Réponse. -La motion adoptée par les secrétaires de mairie instituteurs lors de leur congrès qui s'est tenu les 6 et 7 avril 1986 fait état de l'attachement des instituteurs à la fonction de secrétaire de mairie, en particulier dans les communes rurales où ils sont les interlocuteurs privilégiés des différentes instances administratives et à leur rôle dont l'intérêt s'est trouvé renforcé depuis l'intervention de la loi du 22 juillet 1983 relative aux transferts de compétence en matière scolaire. Les instituteurs secrétaires de mairie forment, en outre, le voeu de bénéficier, en leur qualité de fonctionnaires territoriaux à temps non complet, des dispositions de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et souhaitent obtenir la reconnaissance de leur représentativité au sein des commissions paritaires intercommunales. Cette motion, par la nature et l'importance des problèmes posés, fait l'objet d'un examen attentif. Le Gouvernement, compte tenu de la multiplicité et de la diversité des critiques formulées à l'encontre des mesures intervenues depuis 1984 en matière de fonction publique territoriale, a décidé de procéder à une large concertation destinée à permettre aux élus comme aux organisations syndicales et professionnelles d'exprimer leurs positions. Ce n'est qu'à l'issue de cette procédure de consultation, dont la table ronde qui s'est tenue le 6 juin 1986 constitue une étape importante, que le Gouvernement se prononcera sur les dispositions de la loi du 26 janvier 1984 et sur l'opportunité de sa mise en oeuvre. Les problèmes relatifs aux secrétaires de mairie instituteurs feront l'objet, dans le cadre de cette réflexion générale, d'une étude toute particulière.
