@@ -14,13 +14,13 @@ IV. - Pour l'application des II et III, les dépenses de personnel comprennent l
 
 V. - Pour l'application du III, les investissements éligibles s'entendent hors taxes. Leur montant comprend le prix de revient des immobilisations corporelles constituées du terrain, des bâtiments et des équipements nouvellement acquis à l'état neuf ainsi que celui des brevets. Ces investissements doivent être liés à l'activité de l'entreprise bénéficiaire et correspondre à l'opération de relocalisation réalisée. Ils doivent être exécutés et inscrits dans les écritures de l'entreprise bénéficiaire pendant la période de réalisation de l'opération de relocalisation.
 
-Pour être éligibles au dispositif prévu au présent article, les investissements réalisés par les entreprises autres que les petites et moyennes entreprises mentionnées au VI et composés d'actifs immatériels doivent remplir les conditions suivantes :
+Pour être éligibles au dispositif, les investissements réalisés par les entreprises autres que les petites et moyennes entreprises mentionnées au VI et composés d'actifs immatériels doivent remplir les conditions suivantes :
 
-- être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
+a. - être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
 
-- avoir été acquis auprès d'un tiers aux conditions du marché ;
+b. - avoir été acquis auprès d'un tiers aux conditions du marché ;
 
-- être considérés comme des éléments d'actif amortissables et être inscrits à l'actif du bilan de l'entreprise bénéficiaire.
+c. - être considérés comme des éléments d'actif amortissables et être inscrits à l'actif du bilan de l'entreprise bénéficiaire.
 
 Le montant des investissements éligibles réalisés par les entreprises autres que les petites et moyennes entreprises mentionnées au VI et composés d'actifs immatériels ne doit en outre pas dépasser 25 % du montant total des investissements éligibles.
 
@@ -49,7 +49,3 @@ e. La société prend l'engagement de maintenir les emplois créés ou les inves
 XII. - Le non-respect de l'engagement visé au e du XI entraîne le reversement des crédits d'impôt obtenus en application du présent article.
 
 XIII. - Les emplois ou les investissements afférents à l'opération de relocalisation dont le coût a déjà été pris en compte dans le cadre d'un régime d'aides ne sont pas pris en compte pour le calcul du crédit d'impôt.
-
-NOTA :
-
-NOTA : Un décret fixe les conditions d'application de ces dispositions, notamment les obligations déclaratives incombant aux entreprises concernées et les conditions d'octroi et de retrait de l'agrément.

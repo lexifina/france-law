@@ -16,7 +16,7 @@ c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de l
 
 L'attribution de ces avances remboursables est fonction de l'ensemble des ressources et du nombre des personnes destinées à occuper à titre principal la résidence des bénéficiaires desdites avances, de la localisation et du caractère neuf ou ancien du bien immobilier.
 
-Lors de l'offre de l'avance remboursable sans intérêt, le montant total des ressources à prendre en compte s'entend de la somme des revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, des personnes mentionnées à l'alinéa précédent au titre de :
+Lors de l'offre de l'avance remboursable sans intérêt, le montant total des ressources à prendre en compte s'entend de la somme des revenus fiscaux de référence, au sens du 1° du IV de l'article 1417, des personnes mentionnées au huitième alinéa au titre de :
 
 1° L'avant-dernière année précédant celle de l'offre de l'avance lorsque cette dernière intervient entre le 1er janvier et le 31 mars ;
 
@@ -36,7 +36,7 @@ II. - Le montant du crédit d'impôt est égal à la somme actualisée des écar
 
 Les modalités de calcul du crédit d'impôt et de détermination de ce taux sont fixées par décret en Conseil d'Etat.
 
-Le crédit d'impôt résultant de l'application des deux alinéas précédents fait naître au profit de l'établissement de crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables sans intérêt et par fractions égales sur les exercices suivants.
+Le crédit d'impôt résultant de l'application des premier et deuxième alinéas fait naître au profit de l'établissement de crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables sans intérêt et par fractions égales sur les exercices suivants.
 
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté conjoint du ministre chargé de l'économie et du ministre chargé du logement.
 
@@ -44,4 +44,4 @@ IV. - Une convention conclue entre l'établissement de crédit mentionné au I e
 
 V. - L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné au IV est tenu de fournir à l'administration fiscale dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
-VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C du présent code ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.

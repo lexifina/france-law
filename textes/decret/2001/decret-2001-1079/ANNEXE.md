@@ -6,7 +6,7 @@ A. - Fonctions exercées en administration centrale
 
 2° Chef du service de l'inspection générale de la jeunesse et des sports.
 
-3° Délégué à l'emploi et aux formations.
+3° Délégué interministériel à l'innovation sociale et à l'économie sociale et délégué à l'emploi et aux formations.
 
 4° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur.
 

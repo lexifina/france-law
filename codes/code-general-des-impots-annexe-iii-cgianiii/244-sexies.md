@@ -1,6 +1,6 @@
 # Article 244 sexies
 
-1. Les débitants de tabac visés au premier alinéa de l'article 568 gèrent personnellement des débits de tabac qui sont classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les débits de tabac temporaires.
+1. Les débitants de tabac visés au premier alinéa de l'article 568 du code général des impôts gèrent personnellement des débits de tabac qui sont classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les débits de tabac temporaires.
 
 Les débitants de tabac sont des personnes physiques. A l'exception des gérants de débits de tabac temporaires, ils sont liés à l'administration des douanes et droits indirects par un contrat d'une durée de trois ans. A l'issue de cette période, le contrat est renouvelé par tacite reconduction par période de trois ans. Il peut être résilié par l'administration des douanes et droits indirects si le débitant de tabac ne respecte pas l'une des obligations fixées aux 4, 5 et b, e, f, g, h, i du 6 ainsi que dans le contrat mentionné à cet alinéa ou s'il est sous curatelle ou s'il ne jouit plus de ses droits civiques ou s'il est reconnu inapte à l'exercice de la profession de débitant de tabac par un médecin agréé par la direction départementale des affaires sanitaires et sociales.
 
