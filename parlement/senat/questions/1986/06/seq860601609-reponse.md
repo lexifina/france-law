@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601609
+
+- Question : [SEQ860601609](seq860601609.md) — Financement de la formation professionnelle des chefs d'entreprises
+
+## Réponse
+
+*Affaires sociales, JO du 1986-11-06, page 1554*
+
+Réponse. -La législation en vigueur permet le financement de la formation professionnelle des chefs d'entreprise selon deux cas de figure. Lorsque ces derniers ont le statut de salarié, ils peuvent bénéficier des moyens financiers issus de la participation des employeurs au développement de la formation professionnelle continue, selon les mêmes modalités que les autres salariés de l'entreprise. La loi sur la formation professionnelle continue ne prévoit pas, en effet, de discrimination quant à la nature des fonctions exercées. Elle réserve cependant ce type de financement aux seuls salariés, se conformant en cela aux accords paritaires qui ont été conclus en ce domaine. Lorsque le chef d'entreprise n'a pas le statut de salarié, les frais engagés pour sa propre formation peuvent être déduits du bénéfice imposable des sociétés, dans la mesure où les dépenses correspondent à l'objet social de l'entreprise ; cette possibilité n'est pas négligeable. En outre, la loi permet (article L. 961-10 du code du travail) la création de fonds d'assurance formation de non salariés, destinés à permettre le financement de la formation professionnelle de leurs membres et alimentés au moyen de ressources dégagées par voie de concertation entre les organisations professionnelles intéressées et les chambres de commerce et d'industrie. Dans l'un et l'autre cas de figure, le responsable d'entreprise peut former ses salariés par la voie de la formation interne prévue par l'article L. 950-2-1 du code du travail et a de cette façon la possibilité d'être le " démultiplicateur du savoir " au sein de son unité de production et de favoriser ainsi les reconversions nécessaires.
