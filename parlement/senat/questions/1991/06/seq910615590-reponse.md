@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615590
+
+- Question : [SEQ910615590](seq910615590.md) — Conditions de réexpédition des avis de réception (plis adressés aux ministères)
+
+## Réponse
+
+*Postes, JO du 1991-08-01, page 1632*
+
+Réponse. - La réglementation en vigueur sur le traitement des avis de réception des plis recommandés précise que ces avis doivent être immédiatement restitués au préposé, après avoir été signés par le destinataire ou son fondé de pouvoir. Puis, ils sont renvoyés directement à l'expéditeur par la voie la plus rapide. Toutefois, s'agissant des envois recommandés avec avis de réception remis globalement à certains organismes publics, la réglementation prévoit que les avis de réception peuvent être laissés au destinataire pour signature, mais que ceux-ci doivent être ensuite restitués au service postal dans les meilleurs délais. C'est ce qui se pratique notamment pour les plis recommandés destinés au ministère des affaires étrangères. Ils sont délivrés par le préposé au bureau central du courrier du ministère précité, où ils sont reconnus. Ces plis, auxquels restent attenants les avis de réception, sont alors répartis par le service du courrier interne au ministère, dans les différents services qui restituent ultérieurement les avis de réception au bureau de Paris 07 Ecole militaire. A ce sujet, il est important de noter que la date de première présentation de l'objet figure sur l'avis de réception et que cette date est souvent le point de départ de délais impartis au destinataire pour faire valoir ses droits ou s'acquitter de ses obligations. Dès lors, un renvoi tardif de l'avis de réception n'est généralement pas susceptible d'avoir des conséquences dommageables pour l'expéditeur. Néanmoins, la nécessité de veiller tout particulièrement à l'application stricte de la réglementation sera rappelée aux responsables des services de la distribution.
