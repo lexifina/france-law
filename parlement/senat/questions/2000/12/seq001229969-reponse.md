@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229969
+
+- Question : [SEQ001229969](seq001229969.md) — Conditions de versement de certaines charges sociales
+
+## Réponse
+
+*Emploi, JO du 2001-04-12, page 1278*
+
+Réponse. - L'arrêté du 27 juillet 1994 fixant l'assiette des cotisations de sécurité sociale pour les personnes exerçant une activité dans le cadre d'une personne morale, à objet sportif institue une assiette forfaitaire de cotisations de sécurité sociale, en fonction de tranches de rémunérations et est applicable dès lors que les rémunérations n'excèdent pas par mois 4 832,30 francs au 1er janvier 2001. Il s'agit d'un système dérogatoire qui a reçu l'accord du monde sportif et dont l'objet est d'alléger les charges sociales, notamment, des petites associations sportives qui emploient des sportifs non professionnels. Si les dispositions de cet arrêté sont directement applicables aux cotisations dues au régime général, il n'en est pas de même en ce qui concerne les régimes d'assurance chômage et de retraite complémentaire. La détermination du taux et de l'assiette de ces régimes est, en effet, de la seule compétence des partenaires sociaux. Or les partenaires sociaux gérant le risque de l'assurance chômage ont clairement exclu la possibilité de pratiquer les assiettes forfaitaires pour les cotisations afférentes, par un avenant du 21 décembre 1994. Par ailleurs, les commissions paritaires de l'AGIRC et de l'ARRCO ont adopté la même position, dans une lettre du 19 juillet 1995 adressée au ministère chargé de la sécurité sociale. A ce jour, l'UNEDIC ne souhaite pas revenir sur sa position et appliquer la base forfaitaire aux cotisations de l'assurance chômage. Il n'est donc pas possible d'envisager une exonération totale de l'ensemble des cotisations, seules les cotisations dues au régime général pouvant faire l'objet d'une exonération dans les conditions prévues par l'arrêté du 27 juillet 1994.
