@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700398
+
+- Question : [SEQ970700398](seq970700398.md) — Indemnisation des enfants victimes de violence
+
+## Réponse
+
+*Justice, JO du 1997-10-23, page 2917*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la protection des mineurs constitue une priorité pour le Gouvernement, qui a déposé à l'Assemblée nationale le 3 septembre 1997 un projet de loi renforçant la prévention et la répression des infractions sexuelles ainsi que la protection des mineurs. De nombreuses dispositions ont été prévues en effet pour améliorer l'accueil et l'accompagnement des victimes mineures dans le cadre des procédures judiciaires. S'agissant du domaine d'application de l'article 706-3 du code de procédure pénale relatif au recours en indemnité ouvert à certaines victimes d'infractions, il est vrai que n'ouvrent droit à indemnisation que les infractions de nature sexuelle limitativement énumérées par la loi, ainsi que les infractions ayant entraîné une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois. Le plus souvent, les sévices dont sont victimes les enfants entrent dans le champ de ces dispositions. Le garde des sceaux n'est toutefois pas opposé à ce que, lors de l'examen par le Parlement du projet de loi précité, il soit envisagé de compléter l'article 706-3 pour y inclure les délits prévus par l'article 222-14 du code pénal, qui réprime toutes les violences habituelles commises sur des mineurs de quinze ans, même lorsqu'elles n'ont pas entraîné une incapacité totale de travail supérieure ou égale à un mois. Il est en effet certain que des violences répétées de cette nature peuvent entraîner sur un mineur des traumatismes extrêmement graves qu'il convient de réparer.
