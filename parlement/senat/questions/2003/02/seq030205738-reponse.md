@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205738
+
+- Question : [SEQ030205738](seq030205738.md) — Devenir de la Société nationale d'électricité et de thermique (SNET)
+
+## Réponse
+
+*Économie, JO du 2003-03-27, page 1051*
+
+La Société nationale d'électricité et de thermique (SNET) est un producteur d'électricité de plein exercice et, de ce fait, exerce son métier dans un environnement concurrentiel. Elle dispose pour ce faire d'atouts certains, notamment la qualité de son outil de production et la performance de ses équipes. Le souci du Gouvernement est, dans ces conditions, d'assurer la pérennité de la société au-delà de la fin de l'extraction charbonnière. Ce développement est également conditionné à une réduction des coûts afin que la SNET puisse bénéficier d'une compétitivité comparable à celle de ses concurrents les plus proches. Dans cette optique, les pouvoirs publics ont été conduits à rechercher pour la SNET un partenaire industriel susceptible de soutenir son développement. L'ouverture de 30 % du capital en 2000 s'est opérée à l'issue d'un appel d'offres remporté par Endesa et auquel ni GDF, ni EDF n'ont remis d'offre chiffrée. Il n'entre en effet pas dans la stratégie industrielle de ces deux entreprises de prendre le contrôle de la SNET. Cette approche serait d'ailleurs contestée dans le cas d'EDF par les autorités nationales et européennes de la concurrence qui exigerait des contreparties d'EDF. La vente des 30 % à Endesa était par ailleurs assortie de dispositions permettant à Endesa, dans des conditions à définir, de devenir l'actionnaire majoritaire. Dans le cas où il ne serait pas trouvé d'accord entre Endesa et Charbonnages de France sur ces conditions, Charbonnages sera évidemment conduit à rechercher un autre partenaire parmi les différents acteurs du secteur électrique qui souhaiteraient le devenir.
