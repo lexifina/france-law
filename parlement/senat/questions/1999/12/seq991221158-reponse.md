@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221158
+
+- Question : [SEQ991221158](seq991221158.md) — Appréciation de l'atteinte à la vie privée
+
+## Réponse
+
+*Justice, JO du 2000-06-15, page 2147*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, lors de l'appréciation de l'existence d'une atteinte à la vie privée, le juge civil compétent a la faculté de prendre en considération et de faire prévaloir certains intérêts légitimes susceptibles d'entrer en conflit avec la protection des droits de la personnalité et correspondant eux-mêmes à d'autres droits fondamentaux. Il en va ainsi, en particulier, de l'information légitime du public sur un événement d'actualité d'intérêt général ainsi que des investigations portant sur des faits qui appartiennent à l'histoire. Si de telles hypothèses, circonscrites par la jurisprudence, sont considérées par le juge comme exclusives de tout fait générateur de responsabilité, en revanche, la finalité d'ordre artistique, historique ou culturel qui est celle d'une publication ne constitue pas une cause de minoration ou d'atténuation de la responsabilité civile de l'auteur, lorsque l'existence d'une atteinte à la vie privée est par ailleurs établie. En effet, en application des principes généraux de la responsabilité civile, dès lors qu'un fait générateur de responsabilité est établi, les juridictions doivent évaluer l'importance réelle du dommage subi par la victime, afin d'en assurer la répartition intégrale, quand bien même celui-ci serait de nature non patrimoniale. Dans ces conditions, il n'apparaît ni justifié, ni possible, de prévoir que le montant des réparations allouées en cas d'atteinte à la vie privée d'une personne devrait être moins important que le préjudice effectivement subi par cette dernière, du fait des objectifs recherchés par celui qui est tenu à réparation.
