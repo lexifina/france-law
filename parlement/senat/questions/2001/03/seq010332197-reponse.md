@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332197
+
+- Question : [SEQ010332197](seq010332197.md) — Situation des personnes atteintes de maladies dites rares ou orphelines
+
+## Réponse
+
+*Santé, JO du 2001-11-01, page 3484*
+
+La fibromyalgie est un syndrome comportant des douleurs diffuses accompagnées de symptômes variés, dont l'étiologie reste à ce jour inconnue. Le Gouvernement ne méconnaît pas les difficultés auxquelles peuvent se heurter les personnes atteintes par ce syndrome. En 1998, il a demandé au haut comité médical de la sécurité sociale d'étudier les problèmes soulevés par ce syndrome et la possibilité de son inscription sur la liste des affections de longue durée (ALD). Le groupe d'experts a conclu qu'en l'état actuel des connaissances cette inscription n'était pas indiquée, en l'absence de critères reconnus et bien établis. Cependant, les caisses d'assurance maladie peuvent accorder aux patients atteints de fibromyalgie l'exonération du ticket modérateur au titre des affections hors liste, s'il s'agit d'une forme invalidante ou évolutive, sur avis du contrôle médical qui statue au vu de la personne. Comme pour toutes les pathologies pouvant entraîner une invalidité, les COTOREP déterminent le taux d'incapacité des personnes en situation de handicap, sans que la nature de la maladie qui est à l'origine de l'incapacité n'entre en jeu. Selon l'évolution de la maladie, notamment si elle se stabilise, les COTOREP peuvent proposer un reclassement professionnel. L'incapacité présentée par les personnes atteintes de fibromyalgie est très variable selon la forme et la gravité de la maladie. Ces différentes mesures, applicables à toutes les maladies, doivent permettre aux personnes atteintes de pallier les difficultés qu'elles rencontrent. Enfin actuellement l'Institut de la Veille Sanitaire (InVS) mène une étude sur les causes éventuelles de cette pathologie.
