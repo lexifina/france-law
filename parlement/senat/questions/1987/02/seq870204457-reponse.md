@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204457
+
+- Question : [SEQ870204457](seq870204457.md) — Fixation des budgets et tarifs des établissements hospitaliers
+
+## Réponse
+
+*Affaires sociales, JO du 1987-11-26, page 1860*
+
+Réponse. -L'article 12 de la loi du 27 janvier 1987 portant diverses mesures d'ordre social dispose que le montant du forfait journalier hospitalier peut être modulé selon la durée du séjour, la nature du service ou la catégorie de l'établissement d'accueil. Il a semblé, en effet, équitable de prévoir une majoration du forfait journalier lorsque l'établissement d'accueil se substitue au domicile, du fait d'une hospitalisation très prolongée. De plus, la participation de l'assuré varie, pour des pathologies voisines, du seul montant du forfait journalier au paiement intégral des frais d'hébergement, ce qui constitue une incitation parfois injustifiée au placement dans les établissements les plus médicalisés. Néanmoins, les modalités d'application de ce dispositif sont toujours à l'étude, compte tenu notamment de la nécessité de respecter les règles du minimum de ressources laissé à la disposition des différentes catégories de personnes âgées ou handicapées et notamment les dispositions de l'article R. 821-9 prévoyant le maintien d'un minimum de 12 p. 100 de leur allocation pour les titulaires de l'allocation aux adultes handicapés. Les mesures prises seront, en tout état de cause, arrêtées après concertation avec le conseil d'administration de la Caisse nationale de l'assurance maladie des travailleurs salariés qui a pris connaissance récemment d'un rapport de ses services sur la participation des assurés sociaux aux frais d'hospitalisation. Des mesures éventuelles de modulation du forfait journalier ne pourraient en outre remettre en cause la politique menée depuis de nombreuses années dans le domaine de la psychiatrie visant à favoriser le traitement des malades mentaux en dehors des structures strictement hospitalières.
