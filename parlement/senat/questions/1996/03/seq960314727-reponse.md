@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314727
+
+- Question : [SEQ960314727](seq960314727.md) — Augmentation de l'abonnement téléphonique
+
+## Réponse
+
+*Industrie, JO du 1996-07-25, page 1925*
+
+Réponse. - La hausse d'abonnement évoquée par l'honorable parlementaire doit être placée dans son contexte économique. L'objectif global contenu dans le contrat de plan de France Télécom prévoit une baisse régulière du prix des services de base de France Télécom de l'ordre de 4,5 p. 100 en 1995 et 5 p. 100 en 1996 par rapport à l'indice des prix à la consommation. S'agissant de la structure des tarifs de France Télécom, il importe de relever que les tarifs du téléphone en France se caractérisent d'une part, par un prix de l'abonnement téléphonique qui se révèle bas, eu égard à nos partenaires européens, d'autre part, par un prix des communications à longue distance élevé. Cette situation est préjudiciable à une majorité de consommateurs et pénalisante en terme d'aménagement du territoire. C'est la raison pour laquelle il a été procédé à cet ajustement du prix de l'abonnement résidentiel mais aussi à une baisse significative du prix des communications interurbaines et internationales. De ce fait, la facture téléphonique moyenne des abonnés résidentiels ne subit aucune hausse. Ce mouvement de rééquilibrage des tarifs a été engagé dès 1994. Il se poursuivra dans les années à venir. Le produit de cette majoration de l'abonnement, qui peut être évalué à environ 1,6 milliard de francs en année pleine, entre dans les recettes de France Télécom. Il est compensé par la baisse des prix des communications à longue distance et internationale qui est évaluée à 2,7 milliards de francs. L'impact global de ce mouvement tarifaire de mars dernier sur l'indice des prix devrait cependant être nul. En effet, les ménages utilisent moins l'international et les communications à longue distance que les entreprises. Ils ont donc une part de l'abonnement dans leur facture plus élevée.
