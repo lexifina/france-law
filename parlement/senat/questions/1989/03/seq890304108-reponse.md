@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304108
+
+- Question : [SEQ890304108](seq890304108.md) — Montagne : distorsions de concurrence entre CUMA, entreprises de travaux agricoles et entreprises de travaux publics
+
+## Réponse
+
+*Agriculture, JO du 1989-10-26, page 1748*
+
+Réponse. - Le ministère de l'agriculture et de la forêt n'a pas été informé de différends surgis localement entre des entreprises et des Cuma se trouvant en concurrence pour la réalisation des travaux à caractère rural que les communes situées en zone de montagne ont la possibilité de faire effectuer par des Cuma dans le cadre du dispositif mis en place par la loi du 9 janvier 1985. Il convient de rappeler au demeurant que les dispositions instaurées par l'article 40 de cette loi relative au développement et à la protection de la montagne ne visaient pas à ménager un accès privilégié des Cuma à cette catégorie de travaux, au détriment des autres entreprises susceptibles d'opérer sur les mêmes secteurs. La préoccupation, fondée sur la constatation de la réalité des situations auxquelles doivent répondre les petites communes dans les zones difficles, était en effet toute autre puisqu'il est des cas où aucun entrepreneur ne se présente pour réaliser les travaux de peu d'ampleur, car relevant de l'entretien, indispensables à ces collectivités. C'est pourquoi il a été prévu que les Cuma ne puissent intervenir seulement qu'après un appel d'offres resté infructueux ou pour des marchés négociés inférieurs au montant fixé à l'article 321 du code des marchés publics. Au surplus, ces travaux devant obligatoirement être effectués en dehors du cadre juridique et fiscal de l'adhésion doivent être comptabilisés de façon distincte des opérations réalisées au profit des adhérents et ne peuvent, en corollaire, bénéficier du régime d'exonération correspondant. Dans les faits, il semble que le recours à cette possibilité d'intervention des Cuma au profit des collectivités locales soit resté assez limité.
