@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114477
+
+- Question : [SEQ041114477](seq041114477.md) — Multiplication des labels touristiques
+
+## Réponse
+
+*Tourisme, JO du 2004-12-23, page 2976*
+
+Face à la multitude de labels touristiques qui démontre la volonté des professionnels de mettre en avant la qualité de leurs prestations ou destinations mais qui est néanmoins susceptible de nuire à la lisibilité de l'offre, le Gouvernement a décidé de lancer le plan qualité France. Le comité interministériel du tourisme (CIT) du 23 juillet 2004 a validé les grandes orientations de ce projet, destiné à fédérer et mettre en cohérence l'ensemble des démarches qualité initiées par les professionnels en les identifiant par un logotype. Les travaux engagés par le Comité national de la qualité et de l'offre touristique ont permis de définir les critères d'accès à cette marque nationale destinée aux professionnels de l'hébergement, de la restauration, de la promotion des destinations touristiques, du transport et du tourisme d'affaires. Ainsi, ils pourront bénéficier de son usage dès lors qu'ils auront satisfait aux critères fondamentaux qui reposent notamment sur l'engagement dans une démarche de qualité conforme au référentiel national et basée sur un contrôle externe, sur la conformité au classement réglementaire de l'activité s'il existe, sur le respect des règles d'hygiène et de sécurité, ainsi que sur le traitement des réclamations des clients. Lors des assises nationales du tourisme, organisées le 1er décembre 2004, le ministre délégué au tourisme a présenté le logotype de la marque nationale de qualité et a signé des conventions d'objectifs avec une vingtaine de partenaires institutionnels et professionnels, symbolisant ainsi l'engagement de l'ensemble des acteurs pour la réussite de ce projet. Le logotype sera décliné dans le cadre d'une importante opération de communication prévue au début de l'année 2005.
