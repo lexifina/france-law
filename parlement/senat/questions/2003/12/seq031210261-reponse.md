@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210261
+
+- Question : [SEQ031210261](seq031210261.md) — Conséquences pour les clubs sportifs de la suppression du lundi férié de Pentecôte
+
+## Réponse
+
+*Affaires sociales, JO du 2004-02-26, page 459*
+
+L'honorable parlementaire a bien voulu attirer l'attention de M. le ministre des affaires sociales, du travail et de la solidarité sur les incidences économiques attachées à la suppression du lundi de Pentecôte. Notre société est confrontée aux risques croissants liés au vieillissement et aux besoins de compensation du handicap, auxquels il n'avait pas été donné jusqu'à présent de réponse globale et satisfaisante. Pour répondre à ce besoin, le Gouvernement, plutôt que de créer un prélèvement obligatoire supplémentaire, a fait le choix d'une solidarité plus active sous la forme d'une journée de travail en plus, dont le produit financier sera affecté à l'aide aux personnes dépendantes. Le projet de loi correspondant fait reposer le financement de la réforme de la dépendance sur la création de richesses sans creuser le déficit ou l'endettement publics et sans baisse du pouvoir d'achat des salariés. Cette journée de solidarité pour la dépendance sera le lundi de Pentecôte, mais des accords de branche ou d'entreprise peuvent retenir une autre date. Dans ce cas, la journée de solidarité pourra prendre la forme d'un jour férié précédemment chômé, mais également d'une journée acquise en compensation de la rédaction du temps de travail ou de toute autre modalité qui permettra de travailler un jour supplémentaire antérieurement non travaillé. La suppression d'un jour férié devrait permettre d'augmenter la production nationale de 0,3 % environ. Ce taux a été choisi, afin de garantir aux Français que le fruit de leur travail servira bien au financement de la dépendance, sans toutefois pénaliser la situation des entreprises et la situation de l'emploi.
