@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600175
+
+- Question : [SEQ970600175](seq970600175.md) — Accès des professeurs certifiés à l'agrégation
+
+## Réponse
+
+*Éducation, JO du 1997-09-11, page 2368*
+
+Réponse. - En application de l'article 5 (2o) du décret no 72-580 du 4 juillet 1972 modifié relatif au statut particulier des professeurs agrégés, les professeurs certifiés d'éducation physique et sportive et les professeurs de lycée professionnel du deuxième grade ont en effet la possibilité d'accéder par voie de liste d'aptitude au corps des professeurs agrégés sous réserve de certaines conditions d'âge et de services. La note de service annuelle pour l'accès au corps des professeurs agrégés, au titre de la rentrée 1997 prévoit certaines modalités de barème, mais ces dispositions ne vont pas à l'encontre de la reconnaissance de compétences exceptionnelles, dans la mesure où : il n'y a pas de principe d'appel à candidature ; les enseignants sont proposés par les recteurs ; il est d'ailleurs rappelé dans la note de service que " les propositions doivent concerner des personnels qui ont fait preuve dans l'exercice de leurs fonctions de compétences exceptionnelles justifiant cette promotion " ; une part importante des points dans le barème est liée à la prise en compte de la note pédagogique, permettant donc de reconnaître la valeur professionnelle et les compétences de chaque enseignant proposé ; enfin, les modalités de barème prévues ne constituent qu'une disposition subsidiaire du recueil des propositions et ne sont utilisées qu'à titre indicatif ; une fois les propositions regroupées à l'administration centrale, il appartient au doyen de chaque groupe de l'inspection générale de l'éducation nationale, pour toute discipline concernée, d'émettre un avis sur l'ensemble des propositions présentées dans la spécialité et leur classement.
