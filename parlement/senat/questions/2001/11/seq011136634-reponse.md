@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136634
+
+- Question : [SEQ011136634](seq011136634.md) — Cour des comptes européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2002-01-31, page 291*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur le rapport annuel 2000 de la Cour des comptes européenne. La Cour a formulé quelques recommandations pour améliorer l'efficacité de la procédure budgétaire communautaire, tout en notant dans l'ensemble des progrès dans la gestion des fonds communautaires. Elle a relevé l'occurrence d'excédents budgétaires importants, parfois augmentés par l'adoption de budgets rectificatifs et supplémentaires en cours d'exercice. Ces excédents sont lié au vote dans le budget communautaire initial d'un volume de crédits de paiements trop élévé par rapport aux capacités de décaissement de l'aide de la commission et d'absorption par les bénéficiaires, qui peut s'expliquer par la surenchère à laquelle a tendance à se livrer le Parlement européen face au conseil au cours de la procédure budgétaire. C'est pourquoi la position traditionnelle de la France, au début de chaque procédure budgétaire, est de demander une progression modérée des crédits de paiement, en adéquation avec le rythme de consommation permis par les régles financières régissant le fonctionnement des institutions communautaires. Par ailleurs, la France considère, comme la Cour des comptes européenne, que l'évaluation fait encore trop largement défautj dans le cycle de la dépense. Elle soutient donc les efforts de la Commission pour réformer le réglement financier applicable au budget général des communautés européennes, ainsi que pour mettre en place une présentation du budget communautaire par activités, qui placeront l'évaluation au coeur des décisions de financement.
