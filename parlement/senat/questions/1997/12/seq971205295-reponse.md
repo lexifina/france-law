@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205295
+
+- Question : [SEQ971205295](seq971205295.md) — Subventions de l'Etat, des collectivités territoriales et de la Communauté européenne aux communes
+
+## Réponse
+
+*Intérieur, JO du 1998-11-26, page 3802*
+
+Réponse. - Les subventions de l'Etat attribuées aux collectivités locales sont régies par les dispositions de l'article 10 du décret du 10 mars 1972 relatif aux subventions d'investissement de l'Etat qui précise que la décision de subvention doit être antérieure au commencement d'exécution de l'opération à subventionner. Cette règle visait à éviter que les maîtres d'ouvrage ne soient mis en difficulté en cas de refus de la subvention. En application de l'article 12 du décret nº 85-1510 du 31 décembre 1985 modifié relatif à la dotation globale d'équipement des communes, les subventions attribuées au titre de cette dotation sont également régies par les dispositions de l'article 10 précité. Des dérogations à la règle de l'antériorité de la décision sont prévues à l'article 11 du même décret ainsi que par un arrêté du 10 mars 1981. Ce dernier prévoit que l'autorité compétente peut autoriser le maître d'ouvrage à commencer les travaux sans attendre la décision attributive de subvention dans des cas très précis, notamment pour des travaux à effectuer d'urgence pour des raisons de sécurité des personnes à la suite d'événements imprévisibles. Le préfet peut donc autoriser le maire d'une commune à engager les travaux si ces trois conditions sont réunies. Le Gouvernement est conscient des difficultés que peut poser l'application de cette règle, compte tenu de l'évolution des procédures et étudie actuellement les conditions d'une modification de ce décret pour mieux concilier la protection des maîtres d'ouvrage publics et le déroulement régulier des opérations d'investissement aidées par l'Etat.
