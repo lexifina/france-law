@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608899
+
+- Question : [SEQ980608899](seq980608899.md) — Difficultés des jeunes exploitants agricoles
+
+## Réponse
+
+*Agriculture, JO du 1998-08-06, page 2546*
+
+Réponse. - La politique de l'installation propose des aides financières aux jeunes souhaitant reprendre une exploitation agricole, afin qu'ils puissent réaliser leur installation dans les meilleures conditions possible. Outre l'attribution d'une aide en capital - la dotation d'installation aux jeunes agriculteurs (DJA) -, l'accès à des prêts à taux réduits peut être accordé au jeune pour financer les investissements nécessaires à la reprise d'une exploitation. Le dispositif du crédit à l'installation, réformé et modernisé par la création du prêt global d'installation en 1994, offre au jeune agriculteur une plus grande latitude quant à l'affectation de ses emprunts et lui permet une approche globale du financement de son installation. L'accès à ces aides économiques a été élargi en permettant par exemple aux candidats à la reprise d'acquérir progressivement la capacité professionnelle requise. Les actions mises en uvre dans le cadre des programmes pour l'installation des jeunes en agriculture et le développement des initiatives locales (PIDIL) sont également orientées vers ces jeunes qui ne remplissent pas encore toutes les conditions pour pouvoir mettre en uvre leur projet. Des parcours individualisés de formation sont en particulier aménagés. Il a par ailleurs été demandé que, dans chaque département, l'attention soit maintenue sur le nombre et la situation des jeunes qui s'installent sans les aides publiques. Le PIDIL permet en effet à l'Etat et aux collectivités territoriales d'unir leurs efforts pour faciliter la réussite du plus grand nombre possible d'installations de jeunes en agriculture.
