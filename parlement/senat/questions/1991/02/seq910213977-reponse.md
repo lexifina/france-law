@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213977
+
+- Question : [SEQ910213977](seq910213977.md) — Salaire des aides ménagères
+
+## Réponse
+
+*Famille, JO du 1991-10-17, page 2280*
+
+Réponse. - Les conditions de travail et de rémunération des personnels de l'aide à domicile sont fixées, pour les personnels employés par des centres communaux d'action sociale, par des dispositions prises dans le cadre de la réglementation applicable à la fonction publique territoriale, relevant du ministère de l'intérieur. Les personnels employés par des associations, très majoritaires, sont régis par des conventions collectives agréées par mon département ministériel. Pour l'année 1990, la progression de la rémunération moyenne des personnels régis par la convention collective du 11 mai 1983 a été, compte tenu de l'agrément de l'important avenant n° 2/1990 sur la prévoyance, de 3,86 p. 100. En 1991, le taux de participation de la C.N.A.V.T.S. au financement de l'aide ménagère a été revalorisé au 1er juillet 1991 (4,31 p. 100 sur l'ensemble de l'année), permettant ainsi une augmentation significative des rémunérations des aides ménagères (4,11 p. 100 en moyenne annuelle). En effet, l'avenant n° 2/91 du 27 juin 1991 à la convention collective du 11 mai 1983 a été agréé par arrêté du 10 juillet 1991. Il prévoit d'étaler sur trois exercices la montée en charge d'une nouvelle grille indiciaire pour les aides ménagères. Par ailleurs, cet avenant a créé à compter du 1er avril 1991 une grille de salaire spécifique pour les aides ménagères titulaires du certificat d'aptitude aux fonctions d'aide à domicile. Ainsi, les différentes mesures approuvées et financées tant en 1990 qu'à partir de 1991 constituent-elles une amélioration sensible de la situation des aides ménagères et marquent bien la volonté du Gouvernement de développer l'efficacité et la qualité de l'aide à domicile.
