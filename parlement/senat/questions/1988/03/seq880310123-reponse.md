@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310123
+
+- Question : [SEQ880310123](seq880310123.md) — Conditions de report spécial d'incorporation
+
+## Réponse
+
+*Défense, JO du 1988-04-07, page 466*
+
+Réponse. -La législation actuelle concernant les reports d'incorporation vise essentiellement à donner aux jeunes gens effectuant leurs études une grande latitude pour choisir la période du service actif. Ils peuvent ainsi repousser leur date d'appel jusqu'à vingt-cinq ans lorsqu'ils sont agréés pour accomplir leur service national au titre de la coopération, de l'aide technique ou comme scientifique du contingent, et jusqu'à vingt-sept ans s'ils sont engagés dans une scolarité préparant à l'un des diplômes requis pour l'exercice de la profession de médecin, vétérinaire, pharmacien ou chirurgien dentiste. Ce dernier report est uniquement destiné à permettre aux armées d'incorporer des jeunes gens détenant le titre ou le diplôme nécessaire pour exercer leur spécialité sous les drapeaux. Il n'en est pas de même pour les étudiants poursuivant des études doctorales de lettres, de droit ou dans des disciplines scientifiques. En effet, les besoins des armées et des services de la coopération et de l'aide technique peuvent être satisfaits sans faire appel aux diplômes de ce niveau. Ainsi, les intéressés doivent-ils programmer leur service national afin de l'effectuer soit immédiatement après le diplôme d'études approfondies, soit après le doctorat si la durée des études et l'âge de l'étudiant le permettent. La satisfaction des besoins du service national ne justifie pas, en tout état de cause, la modification des textes actuels. Au demeurant, les jeunes gens désirant poursuivre des études supérieures peuvent s'adresser à leur bureau du service national de rattachement afin de faire connaître leurs projets et choisir au mieux leur date d'appel.
