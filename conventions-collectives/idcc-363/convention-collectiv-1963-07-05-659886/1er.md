@@ -1,23 +1,21 @@
 # Article 1er
 
-La présente convention collective nationale est conclue en application du chapitre IV bis du titre II du livre Ier du code du travail.
+En application du décret n° 92-1129 du 2 octobre 1992 portant approbation de la nomenclature d'activités française, le champ d'application professionnel de la convention collective de l'industrie de la fabrication des ciments relative aux ingénieurs et cadres vise principalement l'activité suivante :
 
-Elle s'applique à l'ensemble du territoire métropolitain, y compris la Corse.
+Rubrique 26.5 A. - Fabrication de ciments :
 
-Elle règle les rapports entre les ingénieurs et cadres et les employeurs dans les entreprises appartenant aux activités industrielles ci-après énumérées, par référence à la nomenclature des activités économiques telle qu'elle résulte du décret n° 59-534 du 9 avril 1959, à savoir :
+Fabrication de ciment Portland, de ciments de laitier, de ciments alumineux et de ciments prompts (à l'exception des entreprises rattachées aux industries des métaux, et dont le personnel bénéficie du régime applicable au personnel ingénieurs et cadres de ces dernières industries).
 
-Rubrique 325-1. - Fabrication de ciments artificiels : fabrication de ciments de laitier et de ciments Portland.
+A noter : les entreprises dont l'activité principale est la fabrication de ciments, et qui à ce titre relèvent de la présente convention collective, peuvent exercer en outre l'activité complémentaire de fabrication de chaux (rubrique 26.5 C).
 
-En y comprenant les activités de fabrication de chaux incluses dans les établissements assurant des fabrications de ciments artificiels ;
+Rubrique 14.1 C. - Extraction de pierre à ciment, de marne, de pierre à chaux :
 
-En n'y comprenant pas celles des fabriques de ciments artificiels rattachées aux industries des métaux et dont le personnel bénéficie du régime applicable au personnel ingénieurs et cadres de ces dernières industries.
+Avec limitation à celles de ces activités qui concernent les carrières exploitées directement et personnellement par les sociétés se livrant aux fabrications de ciments et leur appartenant, pour l'alimentation de celles de leurs usines comprises sous la rubrique 26.5 A, étant précisé que les autres carrières d'extraction relèvent du champ d'application des conventions collectives des industries des carrières et matériaux.
 
-Rubrique 145-0. - Extraction de pierre à ciment, de marne, de pierre à chaux :
+26.5 E. - Fabrication de plâtre :
 
-Avec limitation à celles de ces activités qui concernent les carrières exploitées par les sociétés se livrant aux fabrications ci-dessus délimitées et leur appartenant, pour l'alimentation de celles de leurs usines comprises sous la rubrique 325-1.
+Cuisson du plâtre, four à plâtre, les fabriques de plâtre exploitées par les sociétés se livrant aux fabrications ci-dessus délimitées (rubrique 26.5 A) et leur appartenant, étant précisé que les autres fabriques de plâtre entrent dans le champ d'application des conventions collectives nationales des industries des carrières et matériaux, étendues par arrêté de M. le ministre du travail et de la sécurité sociale du 13 décembre 1960.
 
-Dans la rubrique 324-0. - Fabrication de plâtre : cuisson du plâtre, four à plâtre ; les fabriques de plâtre exploitées par les sociétés se livrant aux fabrications ci-dessus délimitées (rubrique 325-1) et leur appartenant, étant précisé que les autres fabriques de plâtre entrent dans le champ d'application de la convention collective nationale du 6 décembre 1956 relative aux conditions de travail des ingénieurs et cadres des industries de carrières et de matériaux, étendue par arrêté du ministre du travail et de la sécurité sociale du 13 décembre 1960.
-
-La convention collective s'applique, en outre, également aux stations de broyage, d'ensachage, dépôts de vente, agences, laboratoires et centres de recherche des établissements ci-dessus soumis à la présente convention.
+La convention collective s'applique également aux sièges sociaux, stations de broyage, d'ensachage, dépôts de vente, agences, laboratoires et centres de recherches des établissements ci-dessus, soumis à la présente convention.
 
 Elle pourra faire l'objet d'adaptations aux conditions particulières à chaque entreprise ou établissement, étant entendu que ces adaptations ne pourront avoir pour effet de rendre moins avantageuses les dispositions prévues par la présente convention.
