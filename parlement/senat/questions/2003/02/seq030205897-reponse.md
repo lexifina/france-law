@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205897
+
+- Question : [SEQ030205897](seq030205897.md) — Revalorisation de l'abattement consenti au titre des droits successoraux
+
+## Réponse
+
+*Budget, JO du 2003-07-17, page 2293*
+
+En application des dispositions de l'article 788 du code général des impôts, il est opéré, pour la perception des droits de mutation par décès, un abattement de 1 500 euros sur chaque part successorale à défaut d'autre abattement. A cet égard, il est précisé qu'il existe des abattements spécifiques supérieurs pour les mutations à titre gratuit sur les parts reçues par les conjoints, les ascendants, les enfants vivants ou représentés et, sous certaines conditions, sur la part successorale de chaque frère et soeur. Ainsi, l'abattement applicable pour la perception des droits de mutation par décès est fonction du lien de parenté existant entre le défunt et l'héritier, tel qu'il résulte des règles du droit civil. Dans ces conditions, il n'est pas tenu compte des liens affectifs susceptibles d'exister, entre deux personnes dès lors qu'une telle situation ne présenterait pas de garantie suffisante au regard du principe d'égalité des héritiers. Cela étant, la législation actuelle favorise d'ores et déjà les transmissions anticipées de patrimoine sans considération du lien de parenté. En effet, l'ensemble des donations bénéficient d'une réduction de droits de 50 %, lorsque le donateur est âgé de moins de 65 ans et de 30 %, lorsque le donateur a soixante-cinq ans révolus et moins de 65 ans. Ce dispositif permet d'atténuer sensiblement le coût fiscal des transmissions effectuées notamment entre parents éloignés et entre non-parents. Cependant, la question de la revalorisation de l'abattement général de 1 500 euros applicable à défaut d'autre abattement sera naturellement examinée dans le cadre de la réflexion que mène actuellement le Gouvernement sur les aménagements à apporter en matière de fiscalité du patrimoine.
