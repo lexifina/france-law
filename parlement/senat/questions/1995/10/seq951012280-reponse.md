@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012280
+
+- Question : [SEQ951012280](seq951012280.md) — Absence de remorqueur de haute mer sur le littoral Nord-Pas-de-Calais
+
+## Réponse
+
+*Équipement, JO du 1995-11-23, page 2225*
+
+Réponse. - L'échouement du navire Stena Challenger dans la nuit du 19 au 20 septembre 1995, à proximité du port de Calais, s'est produit en quelques minutes. Il a été rapidement assisté par des remorqueurs des ports de Calais et Dunkerque qui n'ont cependant pas réussi à le déséchouer. Ce n'est que l'intervention, plus tard, du remorqueur de haute mer Abeille Languedoc qui a permis de sortir le navire de sa position. Le délai d'intervention de ce remorqueur s'explique par le fait que le transbordeur n'était pas dans une position de danger immédiat et que l'Etat n'a pas eu raison d'intervenir dans la négociation de l'opération de déséchouement menée par l'armateur. D'une manière plus générale, il faut rappeler que depuis plus de quinze ans la marine nationale affrète à plein temps des remorqueurs civils de haute mer basés à Cherbourg, Brest et en Méditerranée, le dispositif étant complété dans le Pas-de-Calais par un système de mise à disposition en cas d'incident de remorqueurs du port de Dunkerque. Ce dispositif a, à l'évidence, contribué en de nombreuses occasions à éviter qu'un simple incident ait des conséquences sérieuses, voire catastrophiques. De son côté, le Royaume-Uni a mis en place, pendant l'hiver 1994-1995, pour la zone du Pas-de-Calais, un remorqueur de haute mer. Cette expérience sera renouvelée pendant l'hiver 1995-1996. Des discussions sont actuellement en cours entre administrations britannique et française pour formaliser l'utilisation commune - qui existe déjà dans les faits - des remorqueurs en place de part et d'autre de la Manche et de la mer du Nord.
