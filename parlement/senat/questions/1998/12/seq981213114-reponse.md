@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213114
+
+- Question : [SEQ981213114](seq981213114.md) — Information des populations en cas d'incidents survenant dans les centrales nucléaires
+
+## Réponse
+
+*Industrie, JO du 1999-05-13, page 1618*
+
+Réponse. - L'enquête menée par l'autorité de sûreté a mis en évidence que cet incident est dû à la défaillance d'un système de filtration d'un chantier qui était en cours. A cette défaillance matérielle s'est ajoutée une réaction inappropriée des agents présents dans le bâtiment réacteur, qui les a conduits à ne pas engager l'évacuation immédiate lorsqu'une alarme de balise s'est déclenchée. En effet, le service chargé de la radioprotection a décidé de vérifier les informations données par la balise avant de faire évacuer le personnel présent. C'est pour cette raison que la direction de la sûreté des installations nucléaires (DSIN) a décidé de classer cet incident au niveau 1 de l'échelle INES. La direction du site a décidé vers 19 h 30 d'informer les interlocuteurs de la centrale : EDF (Paris), le préfet, la direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE), le président de la commission locale d'information (CLI). Du fait de l'impossibilité matérielle de joindre les intéressés, des messages ont été laissés dans la soirée par le directeur adjoint de la centrale qui était d'astreinte. Le préfet avait déjà été averti par la gendarmerie. La DRIRE a été prévenue vers 21 h 30 et la DSIN vers 23 heures. Dans ces conditions, la population n'a pas pu être informée avant le lendemain de l'incident. Compte tenu de l'émotion que provoque ce type d'incident, il eût été préférable qu'EDF décide plus tôt d'informer les autorités concernées. Enfin, le président d'EDF vient d'annoncer une série de mesures d'amélioration des conditions d'information suite à des propositions qui lui ont été formulées dans un rapport par M. Curien.
