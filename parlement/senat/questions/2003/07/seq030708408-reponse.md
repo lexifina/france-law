@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708408
+
+- Question : [SEQ030708408](seq030708408.md) — Raccordement entre les autoroutes A 75 et A 9
+
+## Réponse
+
+*Équipement, JO du 2003-10-16, page 3102*
+
+Les travaux d'aménagement de l'autoroute A 75 non concédée se poursuivent actuellement avec une priorité donnée aux sections adjacentes au viaduc de Millau et à la section Pégairolles-Lodève, soit près de cinquante kilomètres de l'A 75 qui seront mis en service pour l'ouverture du viaduc. L'aménagement de la section Pézenas-A 9 a été déclarée d'utilité publique par décret du 30 mars 2000. Le projet comprend une partie non concédée entre Pézenas et l'échangeur de Béziers Nord-Est et une partie concédée entre l'échangeur de Béziers Nord-Est et l'A 9. Une première enquête parcellaire a été conduite en 2001 sur la partie non concédée et a permis d'acquérir les emprises nécessaires aux opérations d'archéologie préventive dont les travaux de diagnostic seront engagés dès cet automne. Les enquêtes parcellaires complémentaires et la procédure au titre de la loi sur l'eau seront également diligentées cette année. Les travaux pourraient ainsi être engagés à partir de 2004, sous réserve de disponibilités budgétaires. En ce qui concerne la partie concédée du projet, comprise entre l'échangeur de Béziers Nord-Est et l'A 9, celle-ci a été intégrée dans la concession de la société des Autoroutes du Sud de la France (ASF) par décret du 1er mars 2002. Le barreau de raccordement à la rocade Nord n'est pas compris dans la concession et sera financé, réalisé et exploité par l'Etat. Le barreau de raccordement entre l'A 75 et le carrefour de la Devèze sera financé et réalisé par l'Etat et remis à la société ASF qui en assurera l'exploitation. Le cahier des charges de la concession a prévu une mise en service avant le 31 décembre 2005. Toutefois, le planning des travaux du concessionnaire sera coordonné avec l'avancement des travaux à réaliser par l'Etat.
