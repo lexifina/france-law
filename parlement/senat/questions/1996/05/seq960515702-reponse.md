@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515702
+
+- Question : [SEQ960515702](seq960515702.md) — Retraites : dévaluation du franc CFA
+
+## Réponse
+
+*Travail, JO du 1996-10-31, page 2863*
+
+Réponse. - Le Gouvernement est très attentif à ce problème rencontré par un certain nombre de Français qui ont accompli tout ou partie de leur carrière en Afrique et qui ne peuvent obtenir la liquidation de leur pension par le régime local, suite notamment aux dysfonctionnements administratifs ou financiers de ces régimes locaux. Cependant, la France ne peut se substituer à des Etats souverains pour assurer le paiement des prestations servies par leurs régimes de sécurité sociale. Au demeurant, un tel engagement, qui ne pourrait être qu'unilatéral, se solderait par des charges indues et rapidement insupportables pour le budget de l'Etat, compte tenu de la situation financière et monétaire de nombreux Etats concernés et des risques évidents de généralisation et de pérennisation. Il reste que si les ressources des titulaires de pensions étrangères résidant en France deviennent, à la suite d'une dépréciation monétaire ou de toute autre cause, inférieures aux seuils de ressources fixés pour l'attribution du " minimum vieillesse ", celui-ci peut leur être attribué en totalité ou de manière différentielle s'ils en remplissent les conditions d'âge et de situation. Une mission a été conduite par l'inspection générale des affaires sociales avec le concours des services des ministères des affaires étrangères et de la coopération pour procéder à une évaluation des effectifs actuels et futurs des pensionnés concernés, des prestations sociales en cause et des difficultés rencontrées, puis proposer et expertiser les solutions envisageables aux problèmes ainsi recensés. Ces travaux devraient donner prochainement lieu à de premières conclusions.
