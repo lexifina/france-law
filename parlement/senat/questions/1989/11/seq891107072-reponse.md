@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107072
+
+- Question : [SEQ891107072](seq891107072.md) — Application de la loi relative à l'information et à la protection des consommateurs
+
+## Réponse
+
+*Consommation, JO du 1989-12-28, page 2173*
+
+Réponse. - Un décret d'application n° 89-622 du 6 septembre 1989, publié au Journal officiel du 7 septembre 1989, a fixé le taux d'intérêt légal dont la nouvelle définition avait été donnée par la loi n° 89-421 du 23 juin 1989. D'autre part, après de nombreux contacts entre la direction générale de la concurrence, de la consommation et de la répression des fraudes et les organisations professionnelles et de consommateurs directement concernées par ces textes, le Conseil national de la consommation (C.N.C.) a été consulté respectivement les 17 octobre et 14 novembre sur les projets de décrets portant application des articles 2, paragraphe X (fixation du seuil de remboursement partiel anticipé des crédits à la consommation, 3 (détermination des sanctions applicables en cas de refus de communication des contrats prérédigés), 5 (conditions de présentation des documents relatifs aux opérations publicitaires tendant à faire naître l'espérance d'un gain attribué à chacun des particpants), 6 (conditions d'application des dispositions relatives aux offres de rencontres en vue de la réalisation d'un mariage ou d'une union stable) et 12 (conditions d'agrément des associations de défense des investisseurs en valeurs mobilières). Ces projets ont été, immédiatement après leur examen par le C.N.C., soumis à l'avis des administrations compétentes avant leur transmission, en tant que de besoin, au Conseil d'Etat. S'agissant, enfin, des décrets relatifs, d'une part, aux conditions d'application des règles relatives à la consignation des emballages de liquides alimentaires, d'autre part, à la sécurité des portes automatiques de garage, la concertation est largement avancée.
