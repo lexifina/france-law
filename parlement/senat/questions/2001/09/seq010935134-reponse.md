@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935134
+
+- Question : [SEQ010935134](seq010935134.md) — Complexité de gestion des entreprises agricoles
+
+## Réponse
+
+*Agriculture, JO du 2002-01-03, page 29*
+
+L'honorable parlementaire a interrogé le ministre de l'agriculture et de la pêche sur les mesures qu'il envisage de prendre afin de rendre plus simples les formalités auxquelles doivent souscrire les agriculteurs pour effectuer leurs demandes d'aides financières, en particulier les aides européennes, et en obtenir le règlement. L'importance du montant des aides versées aux agriculteurs rend nécessaire une surveillance rigoureuse de ses conditions de mise en oeuvre. En 2000, sous la présidence française, l'Union européenne a décidé de mettre à l'étude une simplification de ces procédures. Simultanément, dans le cadre réglementaire actuel, les services du ministère de l'agriculture et de la pêche ont entrepris de moderniser le système traditionnel de déclaration préalable de l'agriculteur, en y substituant une nouvelle méthode fondée sur la pleine utilisation par l'administration des enregistrements de données provenant de l'exploitation agricole. Cette méthode allégera significativement les formalités à remplir par les bénéficiaires. Sa mise en oeuvre ne peut être que progressive car il est impératif de s'assurer, préalablement, de la fiabilité des systèmes d'enregistrement utilisés. En 2002, elle s'appliquera à la prime à l'abattage. L'objectif poursuivi est bien de concevoir, dans les meilleurs délais, un dispositif modernisé, satisfaisant en même temps les aspirations des agriculteurs et celles des services chargés de la mise en oeuvre et du contrôle de cet important dossier. A cette occasion il est fondamental de prendre les précautions nécessaires afin de ne pas mettre en cause la fiabilité du système de versement des aides.
