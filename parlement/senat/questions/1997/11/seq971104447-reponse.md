@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104447
+
+- Question : [SEQ971104447](seq971104447.md) — Logement des personnes défavorisées
+
+## Réponse
+
+*Logement, JO du 1998-01-22, page 251*
+
+Réponse. - Les fonds de solidarité pour le logement (FSL) sont destinés à aider les ménages défavorisés à se maintenir ou à accéder dans un logement locatif, par des aides financières, ainsi qu'à assurer la mise en oeuvre des mesures d'accompagnement social lié au logement (ASLL). En ce qui concerne les aides financières accordées dans le département du Rhône au cours de l'année 1996 pour permettre aux personnes défavorisées de rester dans leur lieu d'habitation et donc de prévenir l'expulsion, 1 702 demandes d'aides ont été examinées et 1 494 aides ont été octroyées sous forme de prêts et/ou de subventions. Les ménages aidés pour le maintien se répartissent en 929 ménages sur le parc public et 565 sur le parc privé. Le montant des aides versées pour le maintien a été de 10,8 MF (dont 10,3 MF sous forme de subventions). Par ailleurs, au titre des aides à l'accès, les FSL octroient des garanties face à d'éventuels impayés de loyer. En 1996, le FSL du Rhône a dû exécuter 92 garanties pou des ménages défaillants, soit un montant de 0,7 MF (intégralement en subventions). Les aides financières aux ménages en impayés ont représenté en 1996 une part importante des dépenses du FSL du Rhône : 77,1 % des aides financières (financement de l'ASLL exclus) décaissées en 1996 et 39,7 % du total des décaissements (financement de l'ASLL et frais de fonctionnement inclus). Plus globalement au niveau national, en 1996, 56 000 ménages ont été aidés pour le maintien, 112 700 pour l'accès et 7 500 garanties ont été exécutées ; les FSL ont financé 43 900 mesures de suivi individuel et le suivi collectif d'environ 6 400 ménages. Les FSL ont décaissé pour ces aides 1 milliard de francs en 1996.
