@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902727
+
+- Question : [SEQ930902727](seq930902727.md) — Construction d'un restaurant universitaire à Saint-Brieuc
+
+## Réponse
+
+*Éducation, JO du 1993-12-23, page 2470*
+
+Réponse. - La construction d'un restaurant à Saint-Brieuc a été prévue au schéma Université 2000 de Bretagne, pour un montant de 10 MF, dont 3,3 MF à la charge de l'Etat. Le syndicat mixte de gestion du pôle universitaire de Saint-Brieuc a demandé que la maîtrise d'ouvrage de cette construction lui soit déléguée. Cette délégation est possible par application de l'article 18 de la loi no 90-587 du 4 juillet 1990 relative à la maîtrise d'ouvrage des constructions des établissements d'enseignement supérieur. Cette loi prévoit que cette convention de délégation de maîtrise d'ouvrage, signée par le maître d'ouvrage et accompagnée de la délibération de la collectivité qui souhaite l'assurer, doit être approuvée par le ministère de l'enseignement supérieur en même temps que le programme technique de construction. En effet, les constructions universitaires étant de la compétence de l'Etat, les travaux ne doivent pas commencer tant que la convention de délégation de maîtrise d'ouvrage et le PTC n'ont pas été approuvés par le ministère et, le cas échéant, tant que la subvention de l'Etat n'a pas été mise en place. En l'occurrence, pour ce qui concerne le restaurant universitaire de Saint-Brieuc, si l'administration a donné son accord au préfet pour que la maîtrise d'ouvrage soit confiée au syndicat mixte par lettre en date du 15 juin 1993 et si la convention de délégation de maîtrise d'ouvrage a bien été transmise aux services du ministère, celle-ci n'était pas signée par le maître d'ouvrage et la délibération du syndicat n'était pas jointe. Dès que l'ensemble des pièces seront parvenues au ministère, le PTC pourra être approuvé. La subvention de l'Etat de 3,3 MF, prévue pour cette construction, pourra être mise en place au tout début de l'année prochaine.
