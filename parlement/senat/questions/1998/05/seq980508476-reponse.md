@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508476
+
+- Question : [SEQ980508476](seq980508476.md) — Création d'une " conférence régionale de la culture "
+
+## Réponse
+
+*Culture, JO du 1998-08-20, page 2666*
+
+Réponse. - L'harmonisation et la recherche de complémentarités entre les diverses politiques culturelles menées par les collectivités territoriales est une question majeure à laquelle sont confrontés quotidiennement les services du ministère de la culture et de la communication. Les enjeux sont clairs : l'égalité d'accès aux pratiques culturelles pour l'ensemble des citoyens ; la diversification de l'offre culturelle ; une meilleure réponse aux besoins de la population. La politique de contractualisation que mène le ministère au niveau des communes, mais aussi des groupements intercommunaux, des départements et des régions, a pour objectif de favoriser la mise en cohérence et la coordination des politiques publiques culturelles. L'idée de conférence régionale de la culture évoquée correspond à cette recherche. Le ministère n'a pas souhaité l'institutionnalisation de telles conférences pour ne pas prendre le risque de rigidifier des démarches qui ne peuvent aboutir que par la concertation et la négociation, dans le respect des décisions et des choix des collectivités locales. En revanche, la ministre de la culture et de la communication a tenu, lors de l'élaboration des principes assignés au schéma des services collectifs culturels, présenté par le CIADT du 15 décembre 1997, à ce que la question de la coordination des politiques culturelles et l'identification de territoires prioritaires d'intervention figure au premier plan. Il a été proposé que le projet de loi pour le développement durable du territoire, auquel son département ministériel participe pleinement, fasse mention de cet objectif essentiel et que la conférence régionale d'aménagement et de développement du territoire soit l'instance de mise en uvre.
