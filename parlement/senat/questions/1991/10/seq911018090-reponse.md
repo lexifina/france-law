@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911018090
+
+- Question : [SEQ911018090](seq911018090.md) — Suite donnée à la proposition de création de chantiers de formation pour le développement social des quartiers
+
+## Réponse
+
+*Travail, JO du 1992-02-06, page 317*
+
+Réponse. - Le rapport d'information sur l'insertion professionnelle des jeunes rendu public au nom de la commission des affaires sociales de l'Assemblée nationale par Thierry Mandon souligne la nécessité de développer les actions favorisant le rapprochement des jeunes et des entreprises, et a proposé la création d'une structure d'aide et de conseil aux P.M.E.-P.M.I. en vue d'organiser et de suivre l'insertion des jeunes dans l'entreprise. Cette préoccupation a très largement inspiré la mise en place des carrefours pour l'emploi et la formation des jeunes, qui visent, très précisément grâce au renforcement des liens entre les missions locales (ou les PAIO) et l'A.N.P.E., à l'A.N.P.E., à améliorer l'accès des jeunes à l'entreprise, notamment dans le cadre de l'alternance. La mise en place des carrefours pour l'emploi et la formation des jeunes accompagnent une réorganisation des services du ministère du travail qui va permettre d'offrir aux entreprises un guichet unique pour l'ensemble des mesures de formation et d'aide à l'emploi. Dans ce contexte, il n'apparaît pas nécessaire de créer une structure supplémentaire. Par contre il est important, d'une part, de renforcer les liens entre les carrefours pour l'emploi et la formation des jeunes et les organismes mutualisateurs. Ceux-ci sont les interlocuteurs naturels des entreprises pour favoriser le développement des formes d'alternance qui relèvent de la compétence des partenaires sociaux. Il convient, d'autre part, d'améliorer la capacité des organismes qui participent aux carrefours en matière de suivi des jeunes. Des instructions en ce sens seront données prochainement aux responsables des carrefours pour l'emploi et la formation des jeunes.
