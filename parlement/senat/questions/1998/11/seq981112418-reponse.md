@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112418
+
+- Question : [SEQ981112418](seq981112418.md) — Prime à l'herbe
+
+## Réponse
+
+*Agriculture, JO du 1998-12-24, page 4102*
+
+Réponse. - La prime au maintien des systèmes d'élevage extensifs est une mesure agri-environnementale versée aux agriculteurs en contrepartie d'un engagement de maintenir son système extensif et de respecter l'environnement pendant cinq ans. Lors de la négociation de la reconduction de la prime au terme de la première période quinquennale, la Commission européenne a posé comme condition à son renouvellement une plus grande cohérence avec les déclarations de surfaces et le registre parcellaire. Elle a demandé également que le cahier des charges soit précisé en ce qui concerne les engagements tenant à l'entretien des superficies, des haies, des fossés et des points d'eau par le biais notamment d'un arrêté préfectoral définissant les usages locaux à respecter et les pratiques adaptées aux zones déjà répertoriées comme particulièrement sensibles du point de vue de l'environnement. Enfin, elle souhaité que la proportion des autres mesures agri-environnementales soit renforcée dans le dispositif français. Il fallait donc que l'instruction des dossiers soit plus fine, d'autant plus qu'ils constituent la base de l'engagement pour cinq nouvelles années. Il a paru préférable de fiabiliser l'instruction, au risque de retarder certains paiements plutôt que de payer sans vérification préalable, au risque de devoir faire rembourser une prime indue, assortie des intérêts légaux prévus par la réglementation. A la mi-décembre, ce sont près de 90 % des éleveurs ayant déposé une demande qui auront été payés. Quant au montant à l'hectare, il a été défini en tenant compte des faibles modifications que le cahier des charges impose dans les pratiques d'élevage.
