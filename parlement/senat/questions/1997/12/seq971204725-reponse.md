@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204725
+
+- Question : [SEQ971204725](seq971204725.md) — Rapport sur la gestion des carrières et des emplois
+
+## Réponse
+
+*Fonction publique, JO du 1997-12-25, page 3668*
+
+Réponse. - Comme je l'ai annoncé lors de nombreuses interventions publiques, notamment devant le Conseil supérieur de la fonction publique territoriale du 3 juillet dernier, je souhaite mieux faire évoluer le statut pour plus d'efficacité au bénéfice des collectivités locales, des élus et des fonctionnaires territoriaux sans remettre en cause les principes qui le fondent. Le rapport confié à M. Rémy Schwartz s'inscrit dans cette démarche pragmatique, progressive et concertée. Les questions soumises à son étude - recrutement, formation et déroulement de carrière - correspondent aux difficultés les plus grandes auxquelles se trouvent confrontés tant les élus que les personnels. A ce stade de l'élaboration de son rapport, M. Schwartz procède aux plus larges consultations possibles : associations d'élus, organisations syndicales interprofessionnelles, personnalités, Conseil supérieur de la fonction publique territoriale, etc. Lorsque les conclusions et préconisations de M. Schwartz m'auront été remises, à la fin du mois de janvier 1998, je retiendrai les mesures qui me paraissent opportunes et les soumettrai à la concertation interministérielle. Les mesures réglementaires et, le cas échéant législatives, qui seront nécessaires, seront discutées dans le cadre des procédures habituelles : arbitrage interministériel, consultation du Conseil supérieur de la fonction publique territoriale et du Conseil d'Etat, discussion parlementaire et, bien entendu, concertation préalable avec les élus et les organisations syndicales représentatives des personnels. Cette phase de concertation opérationnelle devrait intervenir dans le courant du premier semestre 1998. J'en tiendrai informé l'honorable parlementaire.
