@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617013
+
+- Question : [SEQ990617013](seq990617013.md) — Unités de soins de longue durée
+
+## Réponse
+
+*Santé, JO du 1999-12-23, page 4235*
+
+Réponse. - La loi nº 97-60 du 24 janvier 1997, tendant, dans l'attente du vote de la loi instituant une prestation d'autonomie pour les personnes âgées dépendantes, à mieux répondre aux besoins des personnes âgées, par l'institution d'une prestation spécifique dépendance, prévoit, parallèlement à la réforme de la tarification dans les établissements accueillant des personnes âgées dépendantes, une redéfinition des soins de longue durée. Les services de soins de longue durée accueillent actuellement de façon quasi exclusive des personnes âgées, voire très âgées. Plus de 70 % des personnes hébergées ont plus de quatre-vingts ans et 22,5 % sont nonagénaires. A l'opposé, moins de 3 % des malades pris en charge ont moins de soixante ans. Compte tenu de l'importance que le Gouvernement accorde à la redéfinition des soins de longue durée, des travaux sont actuellement en cours avec les professionnels. L'objectif est d'organiser la prise en charge adaptée de malades chroniques, quel que soit leur âge, actuellement maintenus dans des structures indéquates. Dans ces esprit, les travaux précités portent, d'une part, sur les pathologies susceptibles de relever des soins prolongés et, d'autre part, sur l'estimation de la population concernée. Un prochain article de loi devrait permettre d'initier une réforme visant à assurer une prise en charge adaptée des personnes qui, quel que soit leur âge, souffrent de pathologies chroniques nécessitant leur prise en charge au long cours au sein de structures sanitaires.
