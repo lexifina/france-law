@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900711147
+
+- Question : [SEQ900711147](seq900711147.md) — Insuffisance des effectifs des fonctionnaires de greffes au TGI de Laon (Aisne)
+
+## Réponse
+
+*Justice, JO du 1990-10-11, page 2213*
+
+Réponse. - La situation des effectifs des fonctionnaires au tribunal de grande instance de Laon a été examinée avec la plus grande attention par les services de la chancellerie. Les effectifs théoriques de cette juridiction se composent de deux greffiers en chef, douze greffiers et vingt et un fonctionnaires de catégories C et D, pour un effectif réel de un greffier en chef, sept greffiers et vingt et un fonctionnaires de catégories C et D. Par ailleurs, un poste de greffier est effectivement vacant au tribunal d'instance de Laon. Les postes vacants de greffier en chef et de greffier feront l'objet d'une publication en vue de la réunion des commissions administratives paritaires compétentes pour examiner les demandes de mutation des greffiers en chef et des greffiers des cours et tribunaux qui se tiendront avant la fin de l'année 1990. Si ces postes ne sont pas pourvus par mutation, il sera envisagé de les offrir aux fonctionnaires sortant de l'Ecole nationale des greffes. Des crédits exceptionnels ont été délégués à la cour d'appel d'Amiens pour permettre le recrutement d'agents temporaires, notamment dans les juridictions de Laon. La situation des effectifs théoriques du greffe du tribunal de grande instance de Laon pourrait être examinée en fonction de la charge de travail comparée à la moyenne nationale en fonction des possibilités offertes pour les créations de postes budgétaires en 1991. Enfin, M. Dominique Le Vert, conseiller d'Etat, ancien directeur général de la fonction publique, a été chargé d'une mission d'évaluation et de définition des métiers de greffe, préalable indispensable à toute réforme des statuts des greffiers en chef et greffiers des services judiciaires.
