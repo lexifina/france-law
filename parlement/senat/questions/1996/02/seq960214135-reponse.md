@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214135
+
+- Question : [SEQ960214135](seq960214135.md) — Vacance du poste de commissaire de police aux Ulis (Essonne)
+
+## Réponse
+
+*Intérieur, JO du 1996-05-23, page 1272*
+
+Réponse. - La vacance du poste de commissaire de police aux Ulis est effective depuis le 4 mars 1996 et concerne le poste d'adjoint au chef du district de Palaiseau (91). Dans ses fonctions spécifiques d'adjoint, ce fonctionnaire du corps de conception et de direction est également chargé d'animer et de coordonner l'action des commissariats subdivisionnaires dont celui des Ulis. La vacance de ce poste d'adjoint au chef de district est d'ores et déjà prise en compte et sera pourvue à l'occasion des affectations des commissaires de police de la 46e promotion, en août 1996. S'agissant du commissariat subdivisionnaire des Ulis, sa direction est assurée par un commandant de police, fonctionnaire dont le grade s'avère être parfaitement adapté à ce type de structure opérationnelle. Au demeurant, la réduction du nombre des commissaires de police telle qu'elle est prévue dans le prolongement de la loi d'orientation et de programmation pour la sécurité, aura pour effet de confier à des commandants de police des postes actuellement occupés par des commissaires du premier grade. En tout état de cause, le droit à la sécurité des habitants des Ulis n'est nullement compromis et est réaffirmé par la volonté du Gouvernement de lutter contre la criminalité et la délinquance. Elle se traduit dans les faits, par l'application du pacte de relance pour la ville grâce auquel le département de l'Essonne va bénéficier dès cette année, puis en 1997, de renforcement en personnels de police, qui seront répartis parmi les unités départementales, lesquelles agissent au quotidien sur l'ensemble des circonscriptions de sécurité publique de ce secteur géographique.
