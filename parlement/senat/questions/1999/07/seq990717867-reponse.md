@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717867
+
+- Question : [SEQ990717867](seq990717867.md) — Restauration du réseau fluvial de petit gabarit
+
+## Réponse
+
+*Équipement, JO du 1999-10-21, page 3487*
+
+Réponse. - Par ses diverses fonctions économiques liées au transport de marchandises, concentré surtout sur le réseau à grand gabarit, au tourisme et à la navigation de plaisance sur une partie du réseau à petit gabarit, mais également par ses enjeux environnementaux et hydrauliques, la voie d'eau participe activement aux politiques d'aménagement et de développement durable du territoire. Un important effort de restauration du réseau de voies navigables a donc été entrepris ces dernières années. Ainsi, les crédits consacrés par voies navigables de France à l'entretien et la restauration du réseau sont passés de 530 millions de francs en 1996 à près de 750 millions de francs en 1999, grâce en particulier à une forte augmentation de la dotation du fonds d'investissement des transports terrestres et des voies navigables réservée à la voie d'eau. En ce qui concerne la négociation des prochains contrats de plan entre l'Etat et les régions, réelle opportunité d'impliquer chaque région dans la problématique de l'avenir du réseau de voies navigables, la priorité sera donné à la restauration et la mise en valeur du réseau existant dont la fiabilité doit impérativement être améliorée. Dans ce cadre, l'Etat associera ses efforts à ceux des collectivités territoriales pour favoriser les projets à vocation culturelle, touristique ou sportive sur le réseau à petit gabarit, qui fera l'objet d'un examen attentif de manière à arrêter pour chaque voie des objectifs de développement et des moyens adaptés avec les partenaires locaux. L'effort de restauration du réseau à petit gabarit sera donc poursuivi et amplifié dans les prochaines années pour valoriser sa contribution à l'aménagement du territoire.
