@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320323
+
+- Question : [SEQ920320323](seq920320323.md) — Contenu des journaux d'information sur les chaînes de télévision
+
+## Réponse
+
+*Communication, JO du 1992-12-24, page 2814*
+
+Réponse. - La communication audiovisuelle est libre. La loi du 30 septembre 1986 sur la liberté de communication modifiée par la loi du 17 janvier 1989 réaffirme l'indépendance des chaînes de télévision en matière de programmation. Les chaînes de télévision, qu'elles soient publiques ou privées, sont donc les seules détentrices de la responsabilité éditoriale qui s'attache au contenu ou à la présentation des émissions d'information. En ce qui concerne les chaînes publiques, les indications suivantes peuvent être fournies. Dans le cadre des attributions qui lui ont été confiées par le président-directeur général de France 2 et France 3, le nouveau directeur de l'information s'est attaché à définir en priorité un projet éditorial harmonisant l'ensemble des émissions nationales d'information. L'innovation essentielle de la rentrée 1992 concerne l'édition du soir sur France 3. Recherchant à la fois la qualité et l'audience, cette édition veut être un journal de reférence, organisé autour d'un panorama de l'actualité, prolongé par des dossiers d'investigation et complété par l'intervention de spécialistes. D'autre part, les magazines proposés par les chaînes publiques complètent les journaux en élargissant le champ de réflexion des téléspectateurs et en développeant les sujets traités au quotidien. Avec ses magazines, France 2 vise tous les publics, alors que France 3 obéit à des préoccupations plus thématiques. Cette démarche conduit à une complémentarité des programmes entre les deux chaînes en matière d'information et à une grande diversité des émissions proposées, allant dans le sens souhaité par l'honorable parlementaire.
