@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917306
+
+- Question : [SEQ910917306](seq910917306.md) — Lutte contre la pauvreté
+
+## Réponse
+
+*Affaires sociales, JO du 1991-11-14, page 2527*
+
+Réponse. - La mise en oeuvre des avancées législatives récentes, loi sur le revenu minimum d'insertion, loi contre l'exclusion professionnelle, loi relative au surendettement, loi sur le logement des plus défavorisés, a modifié profondément le contenu des programmes de lutte contre la pauvreté et la précarité. L'essentiel des actions s'exerce désormais dans les domaines de la prévention et de l'insertion. Pour traduire cette évolution, la coopération entre le ministère des affaires sociales et de l'intégration et les associations nationales de solidarité a aujourd'hui pour cadre privilégié les conventions d'objectif pour l'insertion. Ces conventions prennent en compte toutes les dimensions de l'activité des associations dans les domaines de la prévention et de l'insertion : 1° mise en oeuvre d'action d'insertion (accueil-hébergement, E.D.F.-G.D.F., aides au logement, aide alimentaire et distribution de vêtements, accès aux soins, actions en direction des enfants etdes jeunes, actions culturelles, action d'insertion par l'économique) ; 2° actions d'information, de formation, d'animation, d'évaluation menées au niveau national, régional ou local en direction des bénévoles qui font vivre le réseau associatif. L'ensemble de ces conventions est aujourd'hui signé. Toutefois, pour tenir compte des mesures prises par le Gouvernement afin d'étaler dans le temps les dépenses de l'Etat, le versement des subventions a été scindé en deux versements. 70 p. 100 du montant prévu par convention a été versé au mois de juillet. Aucune annulation des crédits relatifs à ces dotations n'étant envisagée, le paiement du solde sera effectué dans le courant du mois d'octobre 1991.
