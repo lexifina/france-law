@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902321
+
+- Question : [SEQ020902321](seq020902321.md) — Recrudescence des cas de coqueluche
+
+## Réponse
+
+*Santé, JO du 2002-12-12, page 3084*
+
+La coqueluche est une maladie respiratoire très contagieuse. Sa gravité tient à ses complications broncho-pulmonaires et à sa mortalité élevée chez le nourrisson. L'introduction du vaccin en 1959 et sa diffusion en 1966 a entraîné un effondrement du nombre de cas (6 000 cas notifiés en 1959 à 650 cas recensés en 2000) ainsi que de la mortalité (250 en 1959 à un à huit décès par an depuis 1986). La couverture vaccinale à vingt-quatre mois est élevée et stable pour les trois premières injections de coqueluche (primovaccination qui confère une efficacité protectrice) de l'ordre de 96,5 % et de 86,7 % pour le premier rappel (4e dose). La surveillance de la coqueluche s'appuie sur un centre national de référence et, depuis 1996, sur un réseau pédiatrique hospitalier, le réseau RENACOQ. En 1997, une étude a montré que les adultes étaient plus souvent à l'origine de la contamination d'un enfant que la fratrie. En effet, la protection conférée par le vaccin baisse après quelques années et la bactérie continue à circuler, touchant notamment les adolescents et adultes ayant perdu leur immunité et les nourrissons non vaccinés. C'est pour cette raison qu'en 1998, un rappel a été introduit dans le calendrier vaccinal français à l'âge de 11/13 ans. Cependant, une étude récente menée en région parisienne par le département de médecine générale de la faculté de médecine Necker Enfants-malades et le Centre national de référence pour les bordetelles (bacille de la coqueluche) de l'Institut Pasteur a montré que sur 217 adultes consultant pour une toux persistante, 32 % étaient atteints de coqueluche. La direction générale de la santé a saisi le comité technique des vaccinations sur la question de l'opportunité d'un rappel de vaccination contre la coqueluche chez l'adulte.
