@@ -66,7 +66,7 @@ Ces unités doivent être chargées de matériaux supports dont la taille et la 
 
 " Unités assurant la dénitrification :
 
-" Le dispositif de dénitrification doit être dimensionné sur la base d'une constante de dénitrification inférieure à 2 mg de N-O3/g mvs/h. "
+" Le dispositif de dénitrification doit être dimensionné sur la base d'une constante de dénitrification inférieure à 2 mg de N-NO3/g MVS/h. "
 
 Le processus de lavage doit être efficace. La répartition de l'effluent et de l'air fourni doit être homogène dans une section horizontale du lit (absence de renardage).
 
