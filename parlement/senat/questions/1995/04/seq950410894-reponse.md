@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410894
+
+- Question : [SEQ950410894](seq950410894.md) — Campagne de prévention contre le sida
+
+## Réponse
+
+*Santé publique, JO du 1995-09-14, page 1782*
+
+Réponse. - Les actions que mènent les pouvoirs publics dans la lutte contre l'infection par le VIH/sida sont conçues comme des campagnes de prévention et de responsabilisation et l'opinion publique y semble sensible. L'épidémie, dont l'évolution a fait l'objet du rapport que le Gouvernement a déposé sur les bureaux de l'Assemblée nationale et du Sénat en avril dernier, pourrait être enrayée si les messages incitant à la réduction des risques étaient entendus et mis en oeuvre. Or les études publiées à ce jour montrent que, bien utilisé et utilisé systématiquement lors de chaque rapport sexuel entre personnes ignorant leur statut sérologique au regard du VIH ou de statut sérologique différent, le préservatif protège de la contamination par le VIH. La norme technique française qui est applicable aux préservatifs commercialisés en France (norme NF) est une des plus sévères du monde et son application fait l'objet d'un contrôle vigilant de la part des services publics concernés. Parallèlement, des études montrent que des contaminations virales interviennent du fait du non-recours aux préservatifs. Dès lors, en l'état actuel des connaissances, mettre en cause l'efficacité des préservatifs apparaît nuisible à la prévention et pourrait avoir des effets négatifs sur le comportement d'utilisateurs potentiels. La responsabilité du ministre chargé de la santé publique est de faire connaître sans relâche les risques de contamination, les moyens de s'en protéger et de protéger les autres. Tel est en particulier l'objectif de l'action de communication publique lancée cet été. Pour atteindre leur pleine efficacité, les actions de prévention de l'infection par le VIH sont inséparables de l'éducation à la santé.
