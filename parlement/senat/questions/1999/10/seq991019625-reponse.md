@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019625
+
+- Question : [SEQ991019625](seq991019625.md) — Attribution de la prime à l'amélioration de l'habitat
+
+## Réponse
+
+*Logement, JO du 1999-11-25, page 3883*
+
+Réponse. - La prime à l'amélioration de l'habitat (PAH) est une aide à caractère social destinée à permettre aux propriétaires occupants ayant des ressources très modestes de réaliser des travaux d'amélioration dans leur résidence principale. Cette aide est soumise aux mêmes plafonds de ressources que ceux applicables aux anciens prêts pour l'accession à la propriété (PAP). Les dernières revalorisations des plafonds de ressources de la PAH résultent de l'arrêté du 21 décembre 1993, applicable au 1er janvier 1994. Toutefois, depuis cette date, la volonté du Gouvernement de soutenir l'amélioration de l'habitat privé s'est traduite par un effort budgétaire très important en faveur de cette prime puisque la dotation budgétaire qui lui est consacrée est passée de 400 MF en 1993 à 800 MF en 1998 et s'est élevée à 815,54 MF (soit 124,32 millions d'euros) en 1999. Dans le projet de budget 2000, cette volonté est confirmée puisque les dotations consacrées à l'amélioration de l'habitat privé sont maintenues à un niveau élevé afin de poursuivre les efforts engagés. En outre, dans le cadre de ce projet, le Gouvernement a décidé d'abaisser le taux de TVA pour les travaux effectués dans les logements de 20,6 % à 5,5 %. Cependant, des réflexions de fond ont par ailleurs été engagées notamment en vue d'une harmonisation des régimes actuels de la PAH et de la subvention versée par l'Agence nationale pour l'amélioration de l'habitat aux propriétaires bailleurs. C'est dans ce cadre que les questions réglementaires et notamment celle des plafonds de ressources concernant la PAH pourraient être examinées.
