@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871209050
+
+- Question : [SEQ871209050](seq871209050.md) — Analyse du taux de participation aux élections prud'homales
+
+## Réponse
+
+*Affaires sociales, JO du 1988-03-17, page 368*
+
+L'honorable parlementaire a appelé l'attention sur le taux de participation aux dernières élections prud'homales. Il est exact que ce taux est inférieur à celui du précédent scrutin malgré la campagne de sensibilisation aux élections prud'homales menée tout au long de l'année 1987 par le ministère des affaires sociales et de l'emploi, et notamment la campagne d'incitation au vote engagée à la radio et à la télévision à partir du 2 novembre 1987. Aucune conclusion pessimiste, quant à l'image de marque de l'institution prud'homale, ne saurait en être tirée. En effet, cette juridiction, jeune en sa forme actuelle, est à présent bien connue du monde du travail. Les progrès réalisés en ce qui concerne les délais d'instruction des dossiers et la qualité des jugements rendus, ont nettement contribué à renforcer sa crédibilité. L'image d'efficacité et d'impartialité qui s'est imposée ces dernières années a certainement été, aussi paradoxal que cela puisse paraître, une des causes principales du faible taux de participation au scrutin du 9 décembre 1987, le corps électoral étant peu sensibilisé au renouvellement d'une institution qui fonctionne bien. Par ailleurs, il n'est pas impossible que les prochaines échéances électorales et notamment la perspective de l'élection présidentielle aient occulté les élections prud'homales, ce qui n'avait pas été le cas en 1982. En décembre 1982, aucune échéance politique majeure ne venait en concurrence avec les élections prud'homales. En décembre 1987, l'échéance présidentielle, la conjoncture politique, l'actualité internationale ont laissé peu de place dans les médias pour les élections prud'homales qui ne présentent par nature, aucun enjeu politique.
