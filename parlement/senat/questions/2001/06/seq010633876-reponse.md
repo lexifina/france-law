@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633876
+
+- Question : [SEQ010633876](seq010633876.md) — Situation des centres culturels français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-08-09, page 2595*
+
+Une comparaison purement comptable avec le British Council, dont les missions recouvrent une grande partie de l'action culturelle de la Grande-Bretagne, ne saurait à elle seule éclairer sur la présence française à l'étranger en ce domaine. Les formes de l'intervention française sont très diverses et ne se limitent pas à l'entretien d'un réseau de centres et d'instituts ou au soutien de celui des alliances françaises. La présence culturelle française se manifeste aussi à travers l'existence d'un réseau d'établissements scolaires sans équivalent pour les autres nations, par un programme intense de coopération avec des universités, par le soutien à une chaîne de télévision spécifique (TV5) ou, encore, par une attention marquée aux nouvelles technologies de l'information et de la communication. Cette liste n'est bien sûr pas limitative. Le ministère des affaires étrangères considère toutefois que les moyens qu'il peut mettre à la disposition des alliances françaises sont effectivement insuffisants. Il s'efforce chaque année de les améliorer, dans un contexte budgétaire qui ne lui laisse malheureusement guère espérer à court terme un redressement significatif. Il a, cependant, engagé un important programme de réorganisation de l'ensemble de ce réseau afin que les moyens existants soient utilisés au mieux et concentrés sur des cibles prioritaires. Cet effort, engagé depuis deux ans, se poursuit cette année sur la base d'une large consultation des acteurs du réseau culturel français à l'étranger sur les finalités et les moyens d'une meilleure efficacité de leur action, le ministère élaborera une " charte " applicable dès 2002.
