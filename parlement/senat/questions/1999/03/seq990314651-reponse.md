@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314651
+
+- Question : [SEQ990314651](seq990314651.md) — Cotisations sociales des éleveurs bovins
+
+## Réponse
+
+*Agriculture, JO du 1999-04-22, page 1321*
+
+Réponse. - En 1996 en raison de l'importance de la crise de l'encéphalopathie spongiforme bovine (ESB) une mesure exceptionnelle a été mise en uvre en matière sociale. Elle a consisté à reporter à l'échéance de 1999 la moitié des cotisations personnelles des éleveurs dues au titre de l'année 1996. Cette mesure de solidarité nationale, qui a conduit à reporter plusieurs centaines de millions de francs de cotisations sociales représente, chaque année, environ 16 MF en intérêts financiers à la charge de l'Etat. Il n'est pas prévu, en l'état actuel des comptes publics, d'aller au-delà de cet effort. La mesure de report a toujours été présentée comme une aide en trésorerie s'ajoutant aux autres mesures nationales et communautaires destinées à aider les éleveurs de bovins confrontés à la crise de l'ESB. De surcroît, de nombreux éleveurs n'ont pas recouru à ce dispositif et ont honoré le paiement de leurs cotisations à échéance normale. Un nouvel aménagement serait inéquitable à leur égard. Il reviendrait à favoriser ceux qui ont déjà bénéficié de l'aide au détriment d'éleveurs qui, également confrontés à la crise, ont préféré acquitter l'intégralité de leurs cotisations. A la demande du ministre de l'agriculture et de la pêche, la caisse centrale de mutualité sociale agricole a donné des instructions aux caisses départementales afin qu'il soit proposé aux éleveurs d'étaler, au cours de l'année 1999, le paiement des sommes reportées. Les éleveurs qui rencontreraient des difficultés à honorer leur remboursement pourront demander aux caisses de mutualité sociale agricole la conclusion d'un échéancier de paiement.
