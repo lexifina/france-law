@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210996
+
+- Question : [SEQ040210996](seq040210996.md) — Exécution des crédits de défense pour l'année 2003
+
+## Réponse
+
+*Défense, JO du 2004-04-29, page 949*
+
+La restauration des capacités militaires de la France est une priorité qui a motivé le vote de la loi de programmation militaire pour les années 2003 à 2008. Le suivi trimestriel de l'exécution de la programmation par la commission de la défense et les représentants des ministres chargés de la défense et du budget a mis en évidence l'exécution satisfaisante de la loi de finances initiale pour 2003. La dépense de ses crédits d'équipements par le ministère de la défense a augmenté de 10 % sur les années 2002 et 2003. Ces niveaux n'ont jamais été atteints lors de la programmation 1997-2002. Ce bon résultat a été obtenu en abandonnant la pratique ancienne qui consistait à annuler des crédits sur le budget d'équipement pour financer les opérations extérieures. Ce suivi conjoint a également mis en évidence la complexité des programmes d'armement dont des difficultés techniques peuvent décaler la mise en service. C'est notamment le cas du Tigre dont l'arrivée dans l'armée de terre est imminente. C'est également le cas de missiles SCALP dont la réception officielle ne sera prononcée qu'à la mise en conformité par l'industriel de matériels techniques d'accompagnement. Il faut voir dans ces retards la survenue d'aléas inhérents à la conduite de programmes complexes. Ils ne sont pas satisfaisants. C'est pour améliorer le processus de conduite des programmes d'armement qu'est engagée la réforme de la DGA annoncée au conseil des ministres du 18 février. Il n'y a donc pas de revue des programmes rampante telle que l'a pratiquée le précédent Premier ministre en 1998 mais un engagement confirmé pour la modernisation des armées telle que l'a prévue la loi de programmation.
