@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611287
+
+- Question : [SEQ950611287](seq950611287.md) — Maraîchers-horticulteurs
+
+## Réponse
+
+*Agriculture, JO du 1995-10-26, page 2019*
+
+Réponse. - M. Jean-Michel Ferrand, député de Vaucluse, conseiller général de Carpentras et vice-président du conseil général, vient d'être chargé par le Premier ministre Alain Juppé d'une mission parlementaire sur le secteur " légumes " auprès du ministre de l'agriculture, de la pêche et de l'alimentation. Confrontée à des mutations profondes liées à l'évolution des modes de consommation, des échanges commerciaux et des techniques de production, la filière légumes connaît des difficultés structurelles et conjoncturelles inhérentes à la nature même des produits, à la pression concurrentielle européenne et internationale et aux distorsions commerciales consécutives aux variations monétaires. La mission confiée à Jean-Michel Ferrand, d'une durée de six mois, vise à optimiser le fonctionnement d'un secteur fort employeur de main-d'oeuvre et gros investisseur. Elle donnera lieu à un rapport de propositions de mesures visant : à améliorer et à conforter l'organisation de cette filière, notamment dans ses composantes commerciales et techniques en vue de rétablir un équilibre économique et social ; à mettre en cohérence l'ensemble des interventions publiques en fonction des objectifs prioritaires à atteindre ; à adapter en tant que de besoin la position française dans la négociation au niveau européen de la réforme de l'organisation commune de marché pour les fruits et légumes. Cette nomination faite sur la proposition du ministre de l'agriculture, de la pêche et de l'alimentation conforte l'intérêt qu'il attache à la filière légumes et à laquelle il entend donner la place qui lui revient au sein des productions végétales.
