@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405885
+
+- Question : [SEQ940405885](seq940405885.md) — Crédits alloués à la région Bretagne pour le secteur laitier
+
+## Réponse
+
+*Agriculture, JO du 1996-04-04, page 798*
+
+Réponse. - S'agissant de la pratique des dotations additionnelles utilisées au cours du Xe Plan, si elle a permis de mettre en oeuvre l'essentiel des actions proposées par le GIE lait-viande de Bretagne, elle a également montré ses limites. A cet égard, elle devait être renouvelée chaque année en fonction des disponibilités budgétaires des offices, ce qui a entraîné une diminution conséquente de la dotation de l'Onilait à partir de 1991 ; ensuite, elle a été maintenue pendant les dernières années du Xe Plan, en particulier pour assurer le financement de la mise aux normes pour des bâtiments d'élevage. Or, cette action, qui ne relève pas de la compétence des offices, est maintenant assurée par le service compétent du ministère de l'agriculture, de la pêche et de l'alimentation. Ces dotations additionnelles ont donc en réalité introduit une régidité supplémentaire dans l'exécution des contrats de plan Etat-région 1989-1993. Afin d'éviter cet inconvénient et dans le dessein d'anticiper les conséquences prévisibles des accords de Marrakech et de la réforme de la PAC, davantage de souplesse dans les modalités d'intervention des offices, et donc de l'Onilait, sera introduite, surtout quand il s'agit d'actions à caractère économique. Dans cet esprit, toutes les mesures seront prises pour que l'Onilait s'efforce de répondre au mieux aux attentes de la filière laitière de la région de Bretagne. L'office aura pour cela la possibilité de conclure des conventions particulières, hors contrats de plan, avec les maîtres d'oeuvre susceptibles de présenter des programmes d'action adaptés aux évolutions des besoins de la filière, particulièrement dans le domaine de la qualité alimentaire des produits laitiers.
