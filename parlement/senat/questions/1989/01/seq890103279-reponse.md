@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103279
+
+- Question : [SEQ890103279](seq890103279.md) — Financement des centres techniques régionaux de la consommation
+
+## Réponse
+
+*Consommation, JO du 1989-04-20, page 627*
+
+Réponse. - Comme le relève l'honorable parlementaire, l'action des centres techniques régionaux de la consommation (C.T.R.C.) est un soutien technique efficace pour les organisations de consommateurs et leurs militants lorsque ces centres regroupent toutes les associations de la région. Le Gouvernement est donc préoccupé par l'avenir de ces organismes et leurs ressources financières. Sur un plan plus général, le collège des organisations de consommateurs du Conseil national de la consommation a engagé une réflexion sur l'ensemble des structures de représentation des consommateurs. Le mandat confié à ce groupe porte notamment sur l'inventaire des besoins des organisations de consommateurs en matière de formation, d'accomplissement des missions techniques, juridiques et économiques et les moyens d'assurer leur propre développement, ainsi que l'état, le bilan et les propositions d'avenir concernant les moyens de financement autorisant la réalisation des objectifs dégagés. Il convient de rappeler que les difficultés rencontrées par les centres techniques régionaux de la consommation ont pour origine la diminution drastique des crédits inscrits dans les budgets de 1987 et 1988, présentés par le Gouvernement d'alors. La loi de finances pour 1989, avec une augmentation importante des crédits destinés aux associations de consommateurs, a permis de rétablir ces concours aux niveaux inscrits en francs courants au budget de 1986. En ce qui concerne les C.T.R.C., le montant des crédits budgétaires qui leur sont destinés, s'élève à 12,5 millions de francs, en augmentation de plus de 10 p. 100 par rapport à 1988.
