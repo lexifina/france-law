@@ -1,6 +1,6 @@
-# Article Annexe EE-2-R, art. 13
+# Article 13
 
-Pendant toute la durée des travaux qui le concernent, le chef de l'entreprise extérieure fait respecter par son propre personnel les dispositions relatives à la sauvegarde et à l'amélioration de la sécurité, de l'hygiène ou de la santé du personnel telles que définies à l'article 3.
+Obligations du chef de l'entreprise extérieure : Pendant toute la durée des travaux qui le concernent, le chef de l'entreprise extérieure fait respecter par son propre personnel les dispositions relatives à la sauvegarde et à l'amélioration de la sécurité, de l'hygiène ou de la santé du personnel telles que définies à l'article 3.
 
 Il élabore également l'ensemble des dossiers de prescriptions prévus par les titres du règlement général des industries extractives relatifs aux travaux qu'il exécute.
 
@@ -19,6 +19,8 @@ Le chef de l'entreprise extérieure doit, avant le début des travaux, si néces
 - l'emploi des dispositifs collectifs et individuels de protection ;
 
 - les voies à emprunter pour accéder au lieu d'intervention et le quitter, pour accéder aux locaux et installations mis à leur disposition ainsi que, s'il y a lieu, aux issues de secours ;
+
+- toute information utile sur l'organisation des premiers secours, la lutte contre l'incendie et l'évacuation des travailleurs ainsi que sur les personnes chargées de mettre en pratique ces mesures.
 
 - informer son personnel de l'existence dans l'exploitation, le cas échéant, d'un comité d'hygiène, de sécurité et des conditions de travail et, selon le cas, d'un délégué-mineur, d'un délégué permanent de la surface ou d'un délégué du personnel.
 

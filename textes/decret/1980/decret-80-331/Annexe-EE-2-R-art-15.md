@@ -1,6 +1,6 @@
-# Article Annexe EE-2-R, art. 15
+# Article 15
 
-En plus des obligations mentionnées aux articles 11 et 12, l'exploitant s'assure auprès des chefs des entreprises extérieures qu'ils ont bien donné à leur personnel les instructions appropriées aux risques liés à la présence dans son établissement de plusieurs entreprises et que les mesures inscrites dans le plan de prévention et les permis de travail sont exécutées.
+Sécurité du personnel : En plus des obligations mentionnées aux articles 11 et 12, l'exploitant s'assure que les travailleurs des entreprises extérieures ont bien reçu des instructions appropriées relatives aux mesures à prendre vis-à-vis des risques de l'exploitation et à ceux liés à la présence dans son établissement de plusieurs entreprises et que les mesures inscrites dans le plan de prévention et les permis de travail sont exécutées.
 
 Pour les travaux réalisés par une entreprise extérieure et visés à l'un ou l'autre des deuxième, troisième et quatrième tirets du premier alinéa de l'article 8, il appartient à l'exploitant :
 
