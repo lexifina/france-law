@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701036
+
+- Question : [SEQ020701036](seq020701036.md) — Eclairage de la section d'autoroute A 4 entre l'échangeur d'Argancy et la Croix de Hauconcourt
+
+## Réponse
+
+*Équipement, JO du 2002-10-24, page 2480*
+
+Un important programme de sécurisation a été retenu au contrat de plan entre l'Etat et la région pour la période 2000-2006, qui prévoit la réalisation de plusieurs opérations, notamment le réaménagement de l'échangeur autoroutier de la Croix de Hauconcourt. Les dispositions prévues permettront de résoudre le problème de remontée de files d'attente sur l'A 4 pour accéder à l'A 31 en direction de Thionville. La société des autoroutes du Nord et de l'Est de la France étudie un système de détection des files d'attente générées, sur l'A 4, par les difficultés d'accès à l'A 31. Ce système pourrait permettre d'informer l'usager en temps réel sur les conditions d'accès à l'A 31, grâce au panneau à messages variables situé en amont de l'échangeur d'Argancy dans le sens Strasbourg - Paris. De façon générale, l'éclairage ne constitue pas un facteur d'amélioration de la sécurité sur autoroute. Les études en la matière n'ont pu établir de lien de cause à effet entre l'éclairage et la sécurité. En réalité, l'éclairage apporte un réel confort de conduite la nuit, mais il favorise l'accroissement des vitesses au détriment de la sécurité. Quant à l'A 4, entre l'échangeur d'Argancy et la Croix de Hauconcourt, la section courante n'est pas éclairée sur une longueur de 1 300 mètres alors que les deux échangeurs encadrant cette section sont éclairés. Cependant, l'examen de l'accidentologie sur cette section fait apparaître des taux d'accidents de nuit identiques sur les parties éclairées ou non éclairées. Il ne peut donc être conclu que l'absence de continuité de l'éclairage sur cette section de l'A 4 soit un facteur d'insécurité.
