@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533349
+
+- Question : [SEQ010533349](seq010533349.md) — Amélioration du fonctionnement des commissions départementales de l'éducation spéciale (CDES)
+
+## Réponse
+
+*Éducation, JO du 2001-09-13, page 2970*
+
+La mesure n° 2 du plan Handiscol' prévoit la révision et l'unification de la réglementation dans le domaine de la scolarisation des enfants et adolescents handicapés. Cette mesure faisait suite au constat effectué dans le rapport conjoint des inspections générales des affaires sociales et de l'éducation nationale de la nécessité d'actualiser et de clarifier la réglementation existante. Pour ce faire, un groupe de travail commun aux deux ministères, animé par un inspecteur d'académie, inspecteur pédagogique régional chargé de l'adaptation et de l'intégration scolaire, a été mis en place en décembre 2000. Il a été missionné par le directeur de l'enseignement scolaire du ministère de l'éducation nationale et la directrice générale de l'action sociale du ministère de l'emploi et de la solidarité pour conduire les travaux avec les objectifs suivants : recenser l'ensemble des textes existants sur la scolarisation des enfants et adolescents handicapés ; repérer les contradictions et les lacunes ; faire des propositions d'aménagement, voire, si nécessaire, de rédaction de nouveaux textes ; proposer l'architecture d'un recueil des textes applicables. Le groupe de travail a procédé à l'examen des textes selon trois thématiques principales : les instances d'orientation des élèves : commissions départementales d'éducation spéciale et commissions de circonscription ; l'accompagnement des jeunes handicapés en milieu scolaire ; le rôle des établissements et services spécialisés dans la scolarisation des jeunes handicapés. Ce groupe de travail doit remettre ses conclusions en septembre 2001.
