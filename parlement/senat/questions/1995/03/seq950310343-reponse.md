@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310343
+
+- Question : [SEQ950310343](seq950310343.md) — Pension de retraite des fonctionnaires objecteurs de conscience
+
+## Réponse
+
+*Fonction publique, JO du 1995-05-18, page 1157*
+
+Réponse. - Depuis l'intervention de la loi no 83-605 du 8 juillet 1983 modifiant le code du service national, le service des objecteurs de conscience est considéré comme une des formes du service national. Par ailleurs, l'article L. 63 du code du service national dispose que : " Le temps du service national actif, accompli dans l'une des formes du titre III, est compté, dans la fonction publique, pour sa durée effective dans le calcul de l'ancienneté de service exigée pour l'avancement et pour la retraite. " En conséquence, la totalité des services accomplis par les objecteurs de conscience doit être pris en compte au titre de l'ancienneté dans la fonction publique. Antérieurement à la loi du 8 juillet 1983, la loi no 63-1255 du 21 décembre 1963 relative à certaines modalités d'accomplissement des obligations imposées par la loi sur le recrutement, ne permettait pas de considérer le service des objecteurs de conscience comme une forme du service national actif. Ce service des objecteurs de conscience était en effet soumis à des dispositions juridiques spécifiques et dérogatoires. De plus, la loi no 83-605 précitée ne comporte aucune disposition étendant, à titre rétroactif, le nouveau dispositif aux objecteurs de conscience ayant accompli leur service antérieurement. Par conséquent, seuls les services accomplis à compter du 11 juillet 1983, date d'entrée en vigueur de la loi no 83-605, peuvent être pris en compte au titre de l'article L. 63 du code du service national. Cette interprétation des dispositions législatives a été confirmée par le Conseil d'Etat dans un avis no 337.837 du 28 mai 1985. Compte tenu de tous ces éléments, il n'est pas envisagé, à l'heure actuelle, de modifier le dispositif législatif existant.
