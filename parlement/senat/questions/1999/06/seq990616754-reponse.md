@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616754
+
+- Question : [SEQ990616754](seq990616754.md) — Situation du tribunal de grande instance de Beauvais
+
+## Réponse
+
+*Justice, JO du 1999-08-05, page 2688*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il est tout particulièrement attentif à la situation des juridictions de la cour d'appel d'Amiens, et notamment à celle de Beauvais. Ainsi, un effort de création d'emplois a été porté sur les juridictions de Laon et de Beauvais, où deux postes de juge des enfants ont été créés et seront pourvus cette année, mais aussi de Compiègne, où un emploi de juge a été localisé dans le cadre du décret de localisation publié le 17 juin dernier, et sera pourvu à l'automne. Enfin, un poste de juge placé auprès du premier président de la cour d'appel d'Amiens a été créé par le même décret et sera pourvu au mois de juillet de cette année. Actuellement, la situation de la juridiction de Beauvais fait apparaître quatre vacances d'emplois : un vice-président du second grade, un vice-président chargé du service du tribunal d'instance de Beauvais, un juge chargé du service du tribunal d'instance de Beauvais et un juge des enfants. Ces deux premiers postes ainsi que celui de juge des enfants seront pourvus à compter du 3 septembre prochain, l'emploi de juge chargé du tribunal d'instance de Beauvais doit être pourvu au début du mois de juillet par un magistrat issus du concours exceptionnel 1998. Il convient en outre de rappeler que les postes ne sont pas libérés par des congés de maternité ou des congés de maladie. Un effort important a été consenti afin de pourvoir les postes vacants au sein de la cour d'appel d'Amiens, et quatorze auditeurs de justice, soit près de 10 % de la dernière promotion d'auditeurs, ont été affectés à des postes situés dans les juridictions du ressort de la cour.
