@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927791
+
+- Question : [SEQ000927791](seq000927791.md) — Centres de vacances : accueil des jeunes handicapés
+
+## Réponse
+
+*Jeunesse, JO du 2000-11-23, page 4016*
+
+Réponse. - L'avis rendu le 28 juin 2000 par le conseil économique et social sur l'accueil des jeunes dans les centres de vacances et de loisirs (CVL) préconise que l'accueil des enfants handicapés dans ces structures fasse l'objet d'un programme particulier et adapté. Madame la ministre de la jeunesse et des sports, pleinement consciente de l'importance que représente l'accès aux loisirs pour les mineurs handicapés, a mis en place au sein de la commission technique et pédagogique des centres de vacances et de loisirs (CTPCVL) un groupe de travail chargé de réfléchir à l'évolution de la réglementation. Par ailleurs, et dans ce même cadre, un guide et un protocole destinés aux organisateurs et aux équipes d'encadrement des CVL sont en cours d'élaboration. Ces démarches viennent en complément de la " Charte de déontologie pour l'accueil des personnes handicapées dans les structures de vacances et de loisirs non spécialisées " mise en place en 1997 par le ministère de la jeunesse et des sports en collaboration avec le ministère de l'emploi et de la solidarité, le secrétariat d'Etat au tourisme et des associations organisatrices de CVL. Pour accompagner le développement des CVL, le ministère de la jeunesse et des sports apporte une aide financière pour les travaux de mise aux normes d'hygiène et de sécurité des locaux. En 2000, cette aide en progression constante depuis 1997 représente 26,2 MF auxquels s'ajoute le plan patrimoine du secrétariat d'Etat au tourisme pour un montant de 11 MF. Cet effort sera consolidé en 2001, notamment pour permettre l'adaptation des bâtiments aux besoins actuels et à l'accueil d'enfants et de jeunes handicapés.
