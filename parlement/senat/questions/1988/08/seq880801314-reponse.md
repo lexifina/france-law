@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801314
+
+- Question : [SEQ880801314](seq880801314.md) — Délivrance des permis de construire par l'architecte des bâtiments de France : révision de la législation
+
+## Réponse
+
+*Équipement, JO du 1988-10-27, page 1193*
+
+Réponse. - Comme il a été précisé dans la réponse publiée au Journal officiel des débats parlementaires du 7 avril 1988, l'appréciation de la visibilité ou de la covisibilité entre un édifice classé ou inscrit au titre de la loi du 31 décembre 1913 sur les monuments historiques et tout immeuble situé à l'intérieur du périmètre défini à l'article 1er de ladite loi est de la stricte compétence de l'architecte des Bâtiments de France. Celui-ci agit en l'espèce au nom du ministre chargé de la culture. L'article L. 421-6 du code de l'urbanisme ne fait que préciser les dispositions de l'article 13 bis de la loi du 31 décembre 1913, en indiquant que le permis de construire revêtu du visa de l'architecte des Bâtiments de France vaut autorisation au titre de cette loi. Il convient de souligner que l'examen effectué par l'architecte des Bâtiments de France ne se borne pas à apprécier la visibilité ou covisibilité des immeubles concernés, mais porte également sur la compatibilité des travaux projetés dans la demande de permis de construire ou la déclaration de travaux avec la protection des abords des édifices classés ou inscrits. Il n'est donc pas envisagé de modifier l'article L. 421-6 du code de l'urbanisme. En revanche, comme il est dit dans la réponse du 7 avril 1988, la poursuite de la mise en oeuvre de zones de protection du patrimoine architectural et urbain (Z.P.P.A.U.), en déterminant des périmètres adaptés aux enjeux architecturaux et paysagers et en définissant les prescriptions qui s'y appliquent, permettra progressivement de n'avoir à recueillir l'avis de l'architecte des Bâtiments de France que dans les lieux présentant véritablement un intérêt patrimonial.
