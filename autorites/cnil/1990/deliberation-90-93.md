@@ -1,0 +1,17 @@
+# Délibération portant adoption d'une recommandation concernant les traitements automatisés mis en oeuvre par des sociétés de taxis
+
+- Nature : Deliberation
+- Type : Recommandation/Lignes directrices
+- Numéro : 90-93
+- Date : 1990-07-10
+- Publication : 2021-09-22
+- État : ABROGE
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653002
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 1, 16, 26, 27 et 29, Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Après avoir entendu Monsieur René TEULADE, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que les sociétés de taxis mettent en oeuvre des traitements automatisés ayant pour objet d'assurer la gestion des demandes de taxis reçues à un standard téléphonique ; Considérant que les informations collectées sont généralement le numéro de téléphone et l'adresse du lieu de prise en charge du client que, par conséquent, ces traitements sont indirectement nominatifs ;
+
+Considérant qu'aux termes de l'article 27 de la loi : "Les personnes auprès desquelles sont recueillies des informations nominatives doivent être informées : - du caractère obligatoire ou facultatif des réponses ; - des conséquences à leur égard d'un défaut de réponse ; - des personnes physiques ou morales destinataires des informations ; - de l'existence d'un droit d'accès et de rectification." Considérant que l'article 26 de cette même loi permet aux personnes de s'opposer pour des raisons légitimes à ce que des informations les concernant fassent l'objet d'un traitement automatisé ; Considérant qu'aux termes de l'article 29 de la loi du 6 janvier 1978 "Toute personne ordonnant ou effectuant un traitement d'informations nominatives s'engage de ce fait, vis à vis des personnes concernées, à prendre toutes précautions utiles afin de préserver la sécurité des informations et notamment d'empêcher qu'elles ne soient déformées, endommagées ou communiquées à des tiers non autorisés" ;
+
+Recommande : - qu'un message informant les personnes que leurs coordonnées font l'objet d'un traitement automatisé soit diffusé et notamment indique le caractère facultatif des réponses demandées ; - que des mesures pratiques permettant au client de s'opposer à ce que les informations fournies fassent l'objet de ce traitement soient adoptées ; - que soit, par exemple, attribué aux personnes qui le demandent un numéro de client qui se substituera au numéro de téléphone habituellement enregistré ; - qu'afin de ne pas porter atteinte à la vie privée, aucune information permettant d'effectuer un historique des courses ne soit conservée ; - que, dans l'hypothèse où les informations fournies lors de précédents appels sont conservées, les standardistes demandent les éléments nécessaires pour effectuer la course, et vérifient notamment que l'adresse du lieu de prise en charge correspond à l'adresse déjà enregistrée ; que de manière générale, les sociétés de taxis veillent à ce que les informations enregistrées ne soient pas communiquées à des tiers non autorisés ; Le Président, Jacques FAUVET.
