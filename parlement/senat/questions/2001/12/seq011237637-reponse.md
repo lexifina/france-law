@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237637
+
+- Question : [SEQ011237637](seq011237637.md) — Dysfonctionnements des services publics de La Poste
+
+## Réponse
+
+*Industrie, JO du 2002-04-04, page 982*
+
+La Poste, entreprise publique autonome, se doit de fournir un service d'une qualité conforme à son cahier des charges. L'article 3-1 de ce cahier des charges énonce que La Poste est le prestataire du service universel postal. Elle assure ce service dans les conditions fixées par les articles L. 1 et L. 2 du code des postes et télécommunications Ces articles précisent que le service postal universel assuré par La Poste garantit à tous les usagers, de manière permanente sur l'ensemble du territoire national, des services postaux répondant à des normes de qualité déterminées. Au titre de ce service postal universel, La Poste est soumise à des obligations en matière de qualité de service. La performance effective de La Poste au regard de ces objectifs est mesurée par un organisme externe. Le service de l'acheminement postal du département de l'Hérault a été perturbé à la suite d'événements majeurs durant l'année 2001. Durant le premier semestre, des difficultés ont été constatées au centre de traitement du courrier de Montpellier en raison d'un mouvement social. Par la suite, ce centre a fait l'objet d'importants travaux de rénovation, au niveau des bâtiments et du parc des machines de tri remplacées par du matériel plus performant, dont la mise en place a suscité des difficultés de la fin du mois d'août à la mi-décembre 2001. Si 2001 a été pour La Poste de l'Hérault une année relativement difficile en matière d'acheminement, la présence d'un outil de production rénové et maintenant opérationnel doit permettre à La Poste en 2002 d'assurer à l'ensemble de sa clientèle la qualité de service qu'elle est en droit d'attendre.
