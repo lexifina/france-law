@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525346
+
+- Question : [SEQ000525346](seq000525346.md) — Réglementation relative au rattachement d'une communauté de communes à un ou plusieurs pays
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-06-22, page 2204*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la relation entre communautés de communes et pays. La loi nº 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire répond de manière précise à cette question en fixant, dans son article 25, que " le pays doit respecter le périmètre des établissements publics de coopération intercommunale à fiscalité propre ". En conséquence, une communauté de communes ne pourra pas s'étendre sur plusieurs pays et devra se rattacher intégralement à un seul pays. Cette disposition est destinée à assurer la plus grande cohérence possible entre l'intercommunalité à fiscalité propre et les pays dans la mesure où les pays s'appuieront le plus souvent sur les communautés de communes pour la mise en uvre de leur charte de développement durable. Cadres de contractualisation, les pays n'ont pas vocation à être maîtres d'ouvrage d'équipements ou gestionnaires de services. Ils auront vocation à fédérer des groupements intercommunaux à une échelle de solidarité plus large sans pour autant constituer un nouvel échelon administratif. Dans cette perspective, il est naturel que les communautés de communes ne soient pas dissociées entre plusieurs projets de pays puisqu'il leur reviendra de conduire des actions ou des projets programmés dans le cadre des contrats de pays. Il serait difficilement concevable qu'une communauté de communes puisse être maître d'ouvrage d'une action initiée ou d'un pays dans l'hypothèse où seules quelques communes de cette communauté appartiendraient à ce dernier.
