@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331905
+
+- Question : [SEQ010331905](seq010331905.md) — Situation au Proche-Orient
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-05-03, page 1503*
+
+Réponse. - Le Gouvernement français est très préoccupé par la situation des droits de l'homme et du droit international humanitaire dans cette région. Il est favorable à tout mécanisme, notamment une mission d'observateurs, qui permettrait de contribuer à la protection des populations civiles, particulièrement des civils palestiniens, qui sont les plus exposés et les principales victimes de la violence. C'est ainsi que lors de la réunion de Charm-el-Cheikh, en octobre dernier, la France a soutenu la création d'une commission d'établissement des faits sur le déclenchement de l'Intifada. Celle-ci, présidée par l'ancien sénateur américain Mitchell et à laquelle participe, pour l'Union européenne, le secrétaire général, haut représentant pour la politique étrangère et de sécurité commune, M. Solana, a entamé ses travaux en décembre dernier. Son rapport est attendu prochainement. La France réaffirme son attachement à cette commission. Elle espère qu'elle pourra mener rapidement à bien ses travaux conformément au mandat qu'elle a reçu, qui prévoit également des propositions visant à prévenir la répétition des événéments tragiques de ces derniers mois. La France reste favorable à une mission d'observateurs. Mais un tel mécanisme ne pourrait contribuer effectivement à protéger la population paslestinienne que s'il était également accepté par les Israéliens et bénéficiait de leur coopération. C'est pour cette raison qu'avec ses partenaires européennes la France n'a pas été en mesure de voter en faveur du projet de résolution présenté fin mars par les pays non alignés, au Conseil de sécurité des Nations unies.
