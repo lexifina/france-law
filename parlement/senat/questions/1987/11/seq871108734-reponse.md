@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108734
+
+- Question : [SEQ871108734](seq871108734.md) — Situation des propriétaires fonciers
+
+## Réponse
+
+*Premier ministre, JO du 1988-02-04, page 147*
+
+Réponse. -Diverses mesures contribuant à établir un meilleur équilibre entre les intérêts des bailleurs et des preneurs sont contenues dans le projet de loi de modernisation de l'agriculture qui a été déposé sur le bureau de l'Assemblée nationale. Ces mesures devraient permettre de répondre aux préoccupations de l'honorable parlementaire relatives à la situation difficile dans laquelle se trouvent de nombreux propriétaires fonciers qui louent leurs terres agricoles. Elles devraient également inciter au développement du fermage, afin de ne pas aggraver les charges des exploitations résultant des frais d'acquisition du foncier. Le projet de loi prévoit notamment une individualisation du loyer de la maison d'habitation qui devrait faciliter une évaluation plus réaliste de ce loyer au sein des baux. Il relève, par ailleurs, la fraction (déterminée en cas d'absence d'accord amiable) du montant des taxes foncières portant sur les biens loués à bail que le preneur doit rembourser au bailleur. S'agissant de la fiscalité foncière agricole, on peut effectivement s'interroger sur son niveau et son évolution en particulier lorsque, comme c'est le cas dans certaines zones, le montant de l'impôt foncier agricole non bâti atteint le niveau du fermage. Il est certain à cet égard que la fiscalité du patrimoine devra être revue. Une réflexion a d'ailleurs déjà été engagée par le Gouvernement en ce sens, au travers notamment d'une commission présidée par M. Aicardi. D'ores et déjà, la loi de finances pour 1988 prévoit que la taxe sur les propriétés non bâties ne pourra pas progresser plus rapidement que la taxe d'habitation.
