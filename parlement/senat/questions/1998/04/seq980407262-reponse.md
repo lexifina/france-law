@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407262
+
+- Question : [SEQ980407262](seq980407262.md) — Organisation des lotos associatifs
+
+## Réponse
+
+*Intérieur, JO du 1998-05-21, page 1647*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur un certain nombre de difficultés que rencontrent les associations qui, afin de recueillir des fonds nécessaires à leur fonctionnement et leurs activités, organisent des lotos. Comme le mentionne l'auteur de la question, il est apparu nécessaire d'adresser aux préfets une circulaire destinée à identifier et donc à dénoncer les pratiques qui, sous couvert d'activité associative, poursuivent en réalité un but commercial. Par ailleurs, s'agissant de la valeur marchande unitaire des lots mis en jeu - qui bien entendu ne sauraient consister en des sommes d'argent -, celle-ci ne peut excéder 2 500 francs, conformément aux dispositions de l'arrêté interministériel du 27 janvier 1988. Ce montant visait à conférer un caractère attractif à ce divertissement tout en le limitant à une dimension ludique. Au demeurant, ce niveau, il est vrai relativement modeste, a permis d'identifier les démarches inspirées d'une logique commerciale : en effet, les professionnels de l'organisation des lotos - c'est-à-dire les personnes qui se livrent à une exploitation commerciale, et par là même interdite, de ce jeu - souhaitent rentabiliser les investissements qu'ils réalisent en attirant le plus grand nombre de participants et, pour y parvenir, proposent des lots dont la valeur excède parfois sensiblement le montant autorisé. Le contrôle de ces activités en est, au moins sur ce point, grandement facilité alors même que d'autres aspects de cette réglementation sont plus difficiles à appréhender, en particulier les notions de " cercle restreint " ou " d'animation locales ". La proposition de l'honorable parlementaire fera en conséquence l'objet d'un examen approfondi.
