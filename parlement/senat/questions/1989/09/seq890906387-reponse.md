@@ -1,0 +1,13 @@
+# Réponse à la question SEQ890906387
+
+- Question : [SEQ890906387](seq890906387.md) — Evaluation de la loi relative au revenu minimum d'insertion : cas de Français de l'étranger en difficulté
+
+## Réponse
+
+*Plan, JO du 1990-02-01, page 221*
+
+Réponse. - La commission nationale d'évaluation relative au revenu minimum d'insertion créée par le décret du 6 septembre 1989 est chargée, comme l'indique l'article 1er de ce décret, d'apprécier les effets de la mise en oeuvre de la loi du 1er décembre 1988 relative au revenu minimum d'insertion au regard des objectifs fixés par cette loi. Or la loi du 1er décembre 1988, tout en mentionnant dans son article 2 une condition de résidence en France pour pouvoir bénéficier du revenu minimum d'insertion, stipule dans son article 1er que les Français établis hors de France en difficulté au sens de cet article sont pris en compte dans la définition de la politique de lutte contre la pauvreté et d'insertion sociale et professionnelle des personnes en difficulté. Ils bénéficient à cet égard de secours et d'aides prélevés sur les crédits d'assistance du ministère des affaires étrangères et d'autres mesures appropriées tenant compte de la situation économique et sociale du pays de résidence. Conformément à l'article 1er du décret du 6 septembre 1989 précité, la commission nationale d'évaluation relative au revenu minimum d'insertion remettra un rapport d'évaluation au Gouvernement avant le 31 janvier 1992.
+
+*Plan, JO du 1990-02-08, page 286*
+
+Réponse. - La commission nationale d'évaluation relative au revenu minimum d'insertion créée par le décret du 6 septembre 1989 est chargée, comme l'indique l'article 1er de ce décret, d'apprécier les effets de la mise en oeuvre de la loi du 1er décembre 1988 relative au revenu minimum d'insertion au regard des objectifs fixés par cette loi. Or la loi du 1er décembre 1988, tout en mentionnant dans son article 2 une condition de résidence en France pour pouvoir bénéficier du revenu minimum d'insertion, stipule dans son article 1er que les Français établis hors de France en difficulté au sens de cet article sont pris en compte dans la définition de la politique de lutte contre la pauvreté et d'insertion sociale et professionnelle des personnes en difficulté. Ils bénéficient à cet égard de secours et d'aides prélevés sur les crédits d'assistance du ministère des affaires étrangères et d'autres mesures appropriées tenant compte de la situation économique et sociale du pays de résidence. Conformément à l'article 1er du décret du 6 septembre 1989 précité, la commission nationale d'évaluation relative au revenu minimum d'insertion remettra un rapport d'évaluation au Gouvernement avant le 31 janvier 1992.
