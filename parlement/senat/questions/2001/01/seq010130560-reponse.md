@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130560
+
+- Question : [SEQ010130560](seq010130560.md) — Elaboration des documents d'urbanisme
+
+## Réponse
+
+*Logement, JO du 2001-07-19, page 2393*
+
+L'article 4 de la loi n° 2000-1079 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, relatif aux plans locaux d'urbanisme, prévoit dans son article L. 123-1 que " les plans locaux d'urbanisme couvrent l'intégralité du territoire d'une ou plusieurs communes à l'exception des parties de ces territoires qui sont couvertes par un plan de sauvegarde et de mise en valeur ". L'entrée en vigueur de l'article 4 de la loi précitée a été fixée, par décret en Conseil d'Etat du 27 mars 2001 (J.O. du 28 mars 2001), au 1er avril 2001. A compter de cette date, les communes couvertes par un plan d'occupation des sols partiel devront, soit prescrire l'élaboration d'un document couvrant la totalité de son territoire, soit abroger le POS partiel pour élaborer une carte communale ou appliquer le règlement national d'urbanisme. La loi a toutefois prévu des dispositions transitoires : lorsqu'un projet de plan d'occupation des sols révisé, qu'il s'agisse ou non d'une révision partielle, a été arrêté avant le 1er avril 2001, la commune pourra poursuivre la procédure selon le régime antérieur, à condition que l'approbation définitive du projet intervienne avant le 1er avril 2002. Les modifications des plans d'occupation des sols partiels restent également possibles, sans que la commune soit tenue au préalable d'avoir adopté un plan local d'urbanisme couvrant l'ensemble de son territoire. Par contre toute révision, même limitée, d'un document d'urbanisme intervenant après le 1er avril 2001 implique, si le projet de révision n'était pas arrêté à cette date, la révision totale de l'ancien plan d'occupation des sols qui doit alors être mis en conformité, quant à son contenu, avec les nouvelles dispositions de la loi.
