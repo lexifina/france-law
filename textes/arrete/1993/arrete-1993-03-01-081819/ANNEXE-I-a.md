@@ -1,4 +1,4 @@
-# Article ANNEXE I.a
+# Article ANNEXE I (a)
 
 Cette liste comprend les normes homologuées et expérimentales publiées à la date du présent arrêté. Elle sera périodiquement complétée pour prendre en compte les normes publiées postérieurement.
 
@@ -14,7 +14,7 @@ CO NF X20361 et 363
 
 SO2 NF X43310-X20351 à 355 et 357
 
-HCl NF X43309
+HCl NF X43309 et NF X43309 Hg NF X 43308
 
 Hydrocarbures totaux NF X43301
 
@@ -22,11 +22,13 @@ Odeurs NF X43101 à X43104
 
 Les références X20 sont des fascicules de documentation sans caractère normatif.
 
-Pour les eaux :
+Et pour les eaux :
 
 pH NF T90008
 
 Couleur NF T90034
+
+Hg NF T90113 et NF T90131
 
 Matières en suspension totales NF T90105
 
