@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237456
+
+- Question : [SEQ011237456](seq011237456.md) — Campagne contre la violence scolaire
+
+## Réponse
+
+*Éducation, JO du 2002-01-31, page 307*
+
+Le " manifeste contre la violence " a été rédigé par les élèves du collège Henri-Matisse de Choisy-le-Roi (Val-de-Marne) et a été adressé à la rentrée 2001 aux élèves de 6e de tous les collèges. Cette action, à laquelle ont collaboré les ministères de l'éducation nationale, de l'intérieur et de la jeunesse et des sports est un exemple des nombreuses initiatives engagées dans les établissements sur le thème du respect et du refus de la violence. Les principes et les valeurs défendues par le manifeste ont été l'occasion de larges débats avec les élèves, dès l'entrée au collège. Par ailleurs, ce manifeste est également le point de départ d'un concours destiné aux élèves de 6e les invitant à une réflexion sur les différents aspects de la violence. Il s'agit de réaliser des travaux individuels ou collectifs sous forme de textes, de dessins ou en utilisant les technologies nouvelles. Le jury national coprésidé par la présidente du comité national de lutte contre la violence à l'école et par le président de la Commission nationale contre la violence dans le sport se réunira fin février, la remise des prix nationaux devant avoir lieu courant mars 2002. Quant à la campagne du Conseil national de la vie lycéenne, elle repose sur la mobilisation des élèves eux-mêmes en faisant appel à leur imagination pour inventer de nouvelles formes d'actions contre la violence. C'est pourquoi, à l'initiative des lycéens élus au Conseil national de la vie lycéenne, le ministre de l'éducation nationale a lancé un concours de messages sur le thème " contre la violence au lycée, pour une école du respect ". Les meilleurs messages seront ensuite réalisés et diffusés à la télévision et à la radio, sous la forme de spots de 25 secondes dans le cadre de la campagne " l'école du respect ".
