@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612348
+
+- Question : [SEQ040612348](seq040612348.md) — Français aux USA : mode d'évaluation des biens immobiliers pour le calcul des bourses
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-03-03, page 602*
+
+La situation patrimoniale des familles constitue aujourd'hui l'un des critères retenu en matière d'attribution de bourses scolaires. Conformément aux dispositions réglementaires fixées, c'est la valeur vénale du patrimoine immobilier déclarée par les familles et actualisée chaque année qui est prise en compte et non la valeur retenue par les services fiscaux pour asseoir l'imposition foncière dans l'Etat de New York (tax assessment), plus proche de la valeur d'acquisition des biens. Cette règle s'inscrit en parfaite conformité avec les conclusions du groupe de travail réuni en février 2003 à Paris, qui a été chargé de fixer les modalités spécifiques de gestion des bourses scolaires aux Etats-Unis et d'arrêter, en particulier, les seuils concernant le patrimoine des familles françaises aux Etats-Unis, compte tenu du coût élevé de l'immobilier dans ce pays. Elle vise à approcher au plus près le niveau d'épargne potentiel réalisé par les familles au travers de leurs investissements. Les effets de cette mesure, qui peut apparaître moins favorable aux familles dans la mesure où elle retient la valeur la plus élevée de leur patrimoine, sont en tout état de cause fortement limités, la réglementation en vigueur prévoyant de tenir compte, non seulement de la valeur du patrimoine, mais également de son mode d'acquisition (héritage, prêt...) et de la situation familiale ou professionnelle spécifique des demandeurs avant de proposer toute révision à la baisse du niveau de l'aide qui pourrait leur être attribuée sur la base de leurs seuls revenus, voire leur exclusion éventuelle du système.
