@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516594
+
+- Question : [SEQ990516594](seq990516594.md) — Réforme de la loi sur la copropriété
+
+## Réponse
+
+*Justice, JO du 1999-10-28, page 3570*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis régit les immeubles bâtis dont la propriété est répartie entre plusieurs personnes par lots comprenant chacun une partie privative et une quote-part de parties communes. Cette loi, enrichie par la jurisprudence et les travaux de la commission relative à la copropriété qui siège à la Chancellerie, organise dans l'intérêt collectif des copropriétaires un régime impératif de gestion des parties communes confiée à un syndic, représentant légal et mandataire du syndicat, tout en garantissant les droits de chaque copropriétaire sur les parties privatives de son lot. L'équilibre entre les intérêts collectifs et l'intérêt particulier de chaque copropriétaire étant un des principes de base de cette législation, la Chancellerie n'entend pas donner suite aux propositions de modification de la loi qui auraient pour effet de le perturber. Dans le respect de ce principe, les mesures actuellement à l'étude pour améliorer le fonctionnement des immeubles soumis au statut de la loi du 10 juillet 1965 ont pour objet d'assurer un meilleur contrôle de la gestion des syndics et de clarifier les règles d'administration notamment par la création d'un plan comptable spécifique et obligatoire. Pour ce qui concerne les situations préoccupantes, communément appelées " copropriétés en difficulté " bien que les immeubles concernés ne soient pas nécessairement soumis au statut de la loi du 10 juillet 1965 précitée, la réflexion interministérielle engagée, dans le cadre de la politique de la ville, devrait prochainement permettre l'adoption des mesures juridiques, économiques et sociales adaptées à ces situations.
