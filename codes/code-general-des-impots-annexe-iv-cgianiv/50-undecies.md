@@ -2,7 +2,7 @@
 
 1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique dont l'importation dans les départements de la Guadeloupe de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée est fixée ainsi qu'il suit :
 
-NUMERO DU TARIF des droits de douane d'importation : DESIGNATION DES PRODUITS
+NUMERO DU TARIF des droits de douane d'importation / DESIGNATION DES PRODUITS
 
 40-06 à 40-07 : Tous produits de ces positions.
 
@@ -90,9 +90,9 @@ Ex 71-14 : Articles d'orfèvrerie et leurs parties, plaqués ou doublés de mét
 
 Ex 73-23 : Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
 
-73-26 : Autres ouvrages en fer ou en acier.
+73-26 : Autres ou ouvrages en fer ou en acier.
 
-74-17 à 74-19 : Tous produits de ces positions.
+74-17 à 74-19 : : Tous produits de ces positions.
 
 75-08 : Autres ouvrages en nickel.
 
@@ -144,7 +144,7 @@ Ex 84-51 : Machines et appareils (autres que les machines du n° 84-50) pour le 
 
 84-72 : Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à imprimer les adresses, distributeurs automatiques de billets de banque, machines à trier, à compter ou à encartoucher les pièces de monnaie, appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple).
 
-Ex 84-73 : Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou principalement destinés aux machines ou appareils des n°s 84-69, 84-70, 84-72.
+Ex 84-73 : Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou principalement destinés aux machines ou appareils des n°s 84-69,84-70, 84-72.
 
 84-76 : Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple), y compris les machines pour changer la monnaie.
 
@@ -154,7 +154,7 @@ Ex 85-02 : Groupes électrogènes.
 
 85-16 : Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le chauffage des locaux, du sol ou pour usages similaires ; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser, par exemple) ou pour sécher les mains ; fers à repasser électriques ; autres appareils électrothermiques pour usages domestiques, résistances chauffantes, autres que celles du n° 85-45.
 
-Ex 85-17 : Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de télécommunication par courant porteur. NUMERO DU TARIF des droits de douane d'importation
+Ex 85-17 : Appareils électriques pour la téléphonie ou la télégraphie par fil, à l'exception des appareils de télécommunication par courant porteur.
 
 85-18 à 85-20 : Tous produits de ces positions.
 
@@ -168,11 +168,13 @@ Ex 87-03 : Voitures de tourisme et autres véhicules automobiles principalement 
 
 87-15 : Landaus, poussettes et voitures similaires pour le transport des enfants et leurs parties.
 
-87-16-80 : Autres véhicules non automobiles et leurs parties.
+87-16-80
 
 Ex 87-16-90
 
-89-01
+Autres véhicules non automobiles et leurs parties.
+
+89-01 : :
 
 Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux similaires pour le transport de personnes et de marchandises.
 
@@ -196,10 +198,10 @@ Ex 89-06 : Bateaux de sauvetage.
 
 2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée à l'affectation exclusive de ces véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par hôtel de plus de 100 chambres.
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée les importateurs doivent :
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée, les importateurs doivent :
 
-1° En faire la demande sur la déclaration d'importation;
+1° En faire la demande sur la déclaration d'importation ;
 
-2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom prénoms profession ou raison sociale et adresse du destinataire ainsi que la nature la quantité et la valeur des produits importés.
+2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom, prénoms, profession ou raison sociale et adresse du destinataire, ainsi que la nature, la quantité et la valeur des produits importés.
 
-Cette attestation devra porter l'engagement pour le cas où les produits ne recevraient pas l'affectation justifiant l'exonération de la taxe sur la valeur ajoutée d'acquitter à la recette des impôts la taxe devenue exigible sans préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du code général des impôts.
+Cette attestation devra porter l'engagement, pour le cas où les produits ne recevraient pas l'affectation justifiant l'exonération de la taxe sur la valeur ajoutée, d'acquitter à la recette des impôts, la taxe devenue exigible, sans préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1785 B à 1786 du code général des impôts.
