@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204820
+
+- Question : [SEQ870204820](seq870204820.md) — Suppression de postes de personnel de service non enseignant
+
+## Réponse
+
+*Éducation, JO du 1987-04-02, page 493*
+
+Réponse. -Dans le cadre de la mise en oeuvre de la politique de redressement des équilibres budgétaires et de réduction des dépenses de l'Etat, le Gouvernement a engagé un effort d'allégement des effectifs des administrations. A ce titre, 2 000 suppressions d'emplois de personnel non enseignant ont dû être envisagées en 1987, dont 1 250 de personnel ouvrier et de service dans les établissements du second degré. Cette réduction des moyens budgétaires demeure limitée, puisqu'elle ne représente que 1,4 p. 100 des effectifs exerçant dans les lycées et collèges et ne paraît pas de nature à compromettre la qualité des services d'entretien des locaux scolaires, d'autant que les recteurs, chargés de répartir les suppressions, les font porter en priorité sur les établissements les mieux dotés en emplois au regard des moyennes académiques. En outre, en application des lois de décentralisation, les autorités académiques ont la possibilité d'étudier avec les représentantsdes collectivités territoriales les modalités d'entretien des bâtiments et des équipements des lycées et collèges. Quant aux équipes mobiles d'ouvriers professionnels (E.M.O.P.), leur champ d'intervention et leur spécialisation évoluent suivant les besoins des établissements constatés au plan local. Il peut parfois se révéler plus fonctionnel d'affecter les agents au service exclusif d'un établissement donné que de les rassembler en unités d'intervention. Des modifications de la carte des équipes mobiles d'ouvriers professionnels sont ainsi intervenues dans les académies d'Orléans-Tours mais les établissements implantés dans le département d'Indre-et-Loire continuent de bénéficier des services et de la compétence de deux de ces équipes.
