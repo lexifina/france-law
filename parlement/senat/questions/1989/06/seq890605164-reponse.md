@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605164
+
+- Question : [SEQ890605164](seq890605164.md) — Restauration des locaux de la Sorbonne
+
+## Réponse
+
+*Éducation, JO du 1990-05-17, page 1064*
+
+Réponse. - L'immeuble de la Sorbonne est propriété de la ville de Paris qui doit " y conserver à perpétuité le chef-lieu de l'académie de la Seine, approprier les bâtiments à l'usage exclusif des facultés et pourvoir à leur entretien annuel " en vertu du décret du 8 février 1852. Une convention du 1er octobre 1929 précise la répartition des charges d'entretien entre la ville de Paris et l'Etat. Concrètement, depuis plusieurs années, la ville devrait assurer le clos et le couvert de l'immeuble, l'Etat prenant en charge tous les gros travaux de rénovation intérieure. Durant ces quinze dernières années, l'Etat a assuré le financement de divers travaux (chauffage, électricité, téléphone, ascenseurs) pour un montant de 45 MF. C'est ainsi que, ces deux dernières années, les amphithéâtres Lefebvre et Milne-Edwards ont été entièrement rénovés (électricité, peinture), que la réfection de l'électricité des amphithéâtres Richelieu et de Gestion a été réalisée. Par ailleurs, la Chancellerie des universités de Paris a assuré une partie de l'entretien de cet immeuble pour un montant de 16 MF depuis 1978. De nombreux travaux restent à faire : l'achèvement du chauffage ; la mise en conformité de la distribution électrique (de nombreuses zones de la Sorbonne sont encore alimentées en 110 V) ; la rénovation et la mise en conformité des ascenseurs et monte-charges ; la réfection des peintures, revêtement de sols, principalement des amphithéâtres Richelieu, Quinet, Michelet, Guizot et de Gestion, la rénovation des blocs sanitaires et divers travaux. Ce programme de travaux, estimé à 35 MF environ, qui devra être réalisé en cinq ou six ans, est en cours d'étude.
