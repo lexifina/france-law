@@ -1,0 +1,11 @@
+# Article 2 : Objet de la formation
+
+La formation initiale et continue doit permettre aux chauffeurs de maîtriser les règles de sécurité routière et de sécurité à l'arrêt, ainsi que les réglementations relatives à la durée du travail et aux temps de conduite et de repos.
+
+S'agissant de la sécurité à l'arrêt, il est tenu compte des conditions particulières d'exercice de l'activité dans le secteur, qui sont caractérisées notamment par :
+
+- la fréquence des arrêts (livraison lors d'une même tournée de nombreux points de vente) ;
+
+- la diversité des lieux de livraison (centres-villes, périphéries des villes...).
+
+Elle doit également, compte tenu des caractéristiques des produits transportés (produits alimentaires très périssables, périssables, congelés ou surgelés...), contribuer au respect des règles d'hygiène permettant d'assurer aux consommateurs une sécurité alimentaire optimale, ainsi qu'à la tranquillité des riverains situés à proximité des points de livraison.
