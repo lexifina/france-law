@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516585
+
+- Question : [SEQ990516585](seq990516585.md) — Réunion du conseil interministériel sur la recherche
+
+## Réponse
+
+*Éducation, JO du 1999-07-15, page 2423*
+
+Réponse. - Le comité interministériel de la recherche scientifique et technique (CIRST) s'est réuni sous la présidence du Premier ministre le 1er juin. La nouveauté de la démarche retenue a été de définir des priorités en nombre volontairement restreint, auxquelles sera donnée une réelle traduction budgétaire et structurelle. Ces priorités relèvent de secteurs de la recherche où une action spécifique de l'Etat semble nécessaire pour amplifier et compléter les activités conduites par les organismes de recherche et des établissements d'enseignement supérieur. Les priorités retenues portent sur sept domaines, à savoir : les sciences du vivant (génomique, technologies appliquées à la médecine, sciences du cerveau...), les technologies de l'information et de la communication (micro- et nanotechnologie, télécommunications, logiciels...), les sciences humaines et sociales (la ville, le travail, l'école...), l'énergie (énergies renouvelables, traitement des déchets nucléaires...), les transports et le cadre de vie (transports terrestres, aéronautique...), le domaine spatial (observation de la Terre, développement de petits satellites...), et enfin les sciences de la Planète et de l'environnement (eau, prévention des catastrophes naturelles...). Chacune de ces priorités sera développée à travers trois modalités : des actions concertées incitatives favorisant notamment l'émergence de disciplines nouvelles et la formation de spécialistes, des actions coordonnées concernant des recherches menées par divers organismes dans des domaines jugés particulièrement importants, et des réseaux de recherche technologique associant des acteurs de la recherche publique et des industriels sur des projets identifiés à partir des besoins, et porteurs de création d'emplois.
