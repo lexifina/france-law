@@ -1,0 +1,21 @@
+# Délibération portant avis concernant la mise en oeuvre du fichier général des électeurs inscrits sur les listes électorales du territoire de Nouvelle-Calédonie en vue du scrutin d'autodétermination.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-98
+- Date : 1990-09-11
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653007
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, Vu la loi n° 79-18 du 3 janvier 1979 sur les archives, Vu la loi n° 88-1029 du 9 novembre 1988 portant dispositions statutaires et préparatoires à l'autodétermination de la Nouvelle-Calédonie en 1998, Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 susvisée, Vu le projet de décret portant création d'un traitement automatisé d'informations nominatives en vue de la tenue du fichier général des électeurs inscrits sur les listes électorales du Territoire de Nouvelle-Calédonie, Après avoir entendu Monsieur Henri CAILLAVET, Commissaire en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que la Commission Nationale de l'Informatique et des Libertés est saisie, par le Ministère des Départements et Territoires d'Outre-mer, d'une demande d'avis concernant la création d'un traitement automatisé d'informations nominatives en vue de l'établissement et la mise à jour du fichier général des électeurs inscrits sur les listes électorales du Territoire de Nouvelle-Calédonie ; Considérant qu'en application de l'article 3 de la loi du 9 novembre 1988 susvisée, l'Institut Territorial de la Statistique et des Etudes Economiques de Nouvelle-Calédonie (ITSEE) est chargé de gérer ce fichier général des électeurs en vue du scrutin d'autodétermination qui aura lieu entre le 1er mars et le 31 décembre 1998 ;
+
+Considérant que le fichier général des électeurs est constitué à partir des listes électorales du territoire de la Nouvelle-Calédonie utilisées à l'occasion du referendum du 6 novembre 1988 ; qu'il est mis à jour à partir des décisions des commissions administratives chargées de la révision des listes électorales, des décisions des juridictions saisies d'un recours contre le contenu dudit fichier, des avis de perte ou de recouvrement de la capacité électorale transmis par les services du casier judiciaire ou très exceptionnellement par l'INSEE ; Considérant que les catégories d'informations traitées sont relatives à l'identité de l'électeur, au lieu et à la date d'inscription sur la liste électorale, au "témoin referendum 1998", à la perte des droits civils et politiques (date d'effet et durée), à l'acquisition de la nationalité française, à la perte de la nationalité française, au décès ;
+
+Considérant que le "témoin referendum 1998" correspond à l'indication de la mention "non admis pour le referendum de 1998" en application de l'article 2 de la loi de 1998 précitée qui fixe les conditions de participation des électeurs au scrutin d'autodétermination (réalité du domicile au 9 novembre 1988 et permanence de ce domicile jusqu'au scrutin de 1998). Considérant que le traitement sera conservé jusqu'à l'extinction des recours contentieux relatifs au scrutin d'autodétermination ; que les informations seront détruites à l'issue de ce délai, à l'exception d'un exemplaire qui sera versé aux Archives Nationales ;
+
+Considérant que les destinataires des données sont le Délégué du Gouvernement pour la Nouvelle-Calédonie et les îles Wallis-et-Futuna, les maires du Territoire pour les électeurs inscrits dans leur commune, l'INSEE ; Considérant que le droit d'accès aux informations s'exerce auprès de l'ITSEE de Nouvelle-Calédonie ; Considérant que les mesures de sécurité mises en oeuvre sont de nature à garantir la confidentialité des données ;
+
+Dans ces conditions, émet un avis favorable à la mise en oeuvre du fichier général des électeurs inscrits sur les listes électorales de Nouvelle-Calédonie. Le Président, Jacques FAUVET.
