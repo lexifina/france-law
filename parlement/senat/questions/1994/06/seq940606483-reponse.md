@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606483
+
+- Question : [SEQ940606483](seq940606483.md) — Situation de l'enseignement de la langue russe
+
+## Réponse
+
+*Éducation, JO du 1994-09-08, page 2212*
+
+Réponse. - Le développement de l'enseignement des langues vivantes constitue dans la perspective de la préparation des jeunes au monde moderne une des préoccupations majeures. Il importe de souligner que le système éducatif français, avec douze langues au collège et quatorze au lycée, présente en ce domaine l'offre la plus large tant au niveau des pays de l'Union européenne qu'au niveau mondial. Cette particularité est aussi une richesse de notre système d'enseignement qu'il convient de maintenir et de développer, notamment en favorisant le choix par tous les élèves d'une deuxième ou troisième langue. Il est exact que le nombre des postes mis aux concours du CAPES et de l'agrégation dans la section russe a diminué depuis le début des années 70, mais il convient d'observer que cette diminution est liée à la baisse progressive du nombre des inscrits aux concours dans cette section. Par ailleurs, cette diminution ne s'est pas poursuivie au cours des dernières années, ainsi que le fait apparaître le tableau ci-dessous.Nota voir tableau p 2212 En outre une des dispositions du nouveau contrat pour l'école prévoit prévoit que les lycéens souhaitant poursuivre l'apprentissage d'une langue vivante étrangère qui ne leur est pas offerte en option dans leur lycée pourront bénéficier de cours organisés avec l'assistance du Centre national d'enseignement à distance. L'ensemble de ces mesures devrait permettre le développement de l'enseignement du russe. Si le nombre d'élèves appprenant cette langue a sensiblement baissé entre 1987 et 1993 (de 18 000 à 15 000 au plan national), il est raisonnable de penser que, à compter de la prochaine rentrée scolaire, la tendance devrait s'inverser.
