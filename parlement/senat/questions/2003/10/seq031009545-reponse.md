@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009545
+
+- Question : [SEQ031009545](seq031009545.md) — Réglementation applicable aux meubles rembourrés en vue d'une protection maximale du consommateur
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2003-12-18, page 3658*
+
+Dans le but de réduire la mortalité liée aux incendies domestiques, faisant chaque année plusieurs centaines de victimes, un projet de décret relatif à la prévention des risques liés au comportement au feu des meubles rembourrés, souvent à l'origine de tels incendies, a été élaboré et est en cours de finalisation. Un précédent projet de décret sur le même thème s'était heurté en 1997 aux objections de la Commission européenne à qui il avait été transmis dans le cadre de la procédure d'information dans le domaine des normes et réglementations techniques. La Commission avait notamment relevé que l'obligation d'exigences relatives au comportement au feu des meubles rembourrés après l'allumage pouvait conduire les opérateurs à faire subir un traitement ignifugeant à ces produits alors que les substances ainsi employées pour retarder la propagation du feu sont susceptibles de comporter des risques de toxicité et d'écotoxicité. Afin de répondre à ces observations, les travaux actuels visent à élaborer un nouveau projet de texte s'appuyant sur les normes d'essais homologuées au niveau communautaire (tests pratiqués à l'aide d'une cigarette ou bien d'une petite flamme vive). Les effets bénéfiques d'une nouvelle réglementation n'apparaîtront cependant qu'à moyen ou à long terme, du fait du rythme lent de remplacement du mobilier. De plus, son adoption s'inscrira dans un plan d'action plus global dans le cadre de la campagne sur la sécurité domestique lancée le 30 septembre 2003 et comprendra une sensibilisation des utilisateurs aux risques incendies et des incitations à équiper les habitations en détecteurs avertisseurs de fumées.
