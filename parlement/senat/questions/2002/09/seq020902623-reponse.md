@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902623
+
+- Question : [SEQ020902623](seq020902623.md) — Publication des décrets d'application relatifs aux enquêtes d'utilité publique
+
+## Réponse
+
+*Écologie, JO du 2003-01-30, page 346*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question posée au ministre de l'intérieur, de la sécurité intérieure et des libertés locales, concernant les décrets d'application du titre IV " de la participation du public à l'élaboration des grands projets " de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité. Deux décrets d'application sont récemment parus au Journal officiel (JO) : le décret n° 2002-1275 du 22 octobre 2002 (JO du 23 octobre), pris en application de l'article 134 de la loi du 27 février 2002, concerne l'organisation du débat public et la Commission nationale du débat public ; le décret n° 2002-1341 du 5 novembre 2002 (JO du 13 novembre), pris en application des articles 139 et 142 de la loi du 27 février 2002, a trait à la désignation et à l'indemnisation des commissaires-enquêteurs. D'autres projets de décrets sont actuellement en cours de discussion au niveau interministériel, et devraient faire l'objet d'une prochaine saisine du Conseil d'Etat en vue d'une publication au début de l'année 2003. Ils sont relatifs à la nouvelle procédure de concertation inter-administrative remplaçant l'instruction mixte prévue par la loi du 29 novembre 1952 sur les travaux mixtes (art. 135 et 136), aux compétences en matière de déclarations d'utilité publique (art. 140) et à la déclaration de projet (art. 144 et 145). La sortie de ces décrets s'accompagnera de circulaires d'application. Ces différentes mesures doivent permettre d'assurer une mise en oeuvre rapide de la réforme d'utilité publique prévue par la loi relative à la démocratie de proximité.
