@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014026
+
+- Question : [SEQ041014026](seq041014026.md) — Reconnaissance et développement des missions des commissions locales d'information (CLI) et de leur fédération
+
+## Réponse
+
+*Écologie, JO du 2005-01-20, page 165*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux commissions locales d'information (CLI). Le Gouvernement est convaincu de l'importance du rôle que jouent les CLI autour des installations nucléaires. Elles contribuent très utilement à l'évaluation et à l'information en ce qui concerne la sûreté de ces installations et leur impact sur l'environnement, Elles ont d'ailleurs constitué un modèle pour d'autres types d'installations, comme les installations classées " Seveso ". Le Gouvernement souhaite donc que ces commissions puissent fonctionner dans de bonnes conditions. Depuis leur création, à la suite d'une circulaire du Premier ministre du 15 décembre 1981, la responsabilité de leur fonctionnement revient aux conseils généraux, en association avec les autres collectivités bénéficiant des retombées économiques des installations en cause. Un tel positionnement semble bien adapté au rôle de ces commissions, et le Gouvernement souhaite que les conseils généraux jouent pleinement leur rôle à cet égard. Conscient des disparités qui existent actuellement dans le soutien local apporté aux CLI, le Gouvernement propose qu'une disposition législative conforte la situation des CLI, notamment en les dotant d'un statut homogène et en donnant plus de force juridique à leurs missions et à leurs compétences. Il propose aussi de donner une assise législative à la fédération nationale des CLI. Ces dispositions figurent dans le projet de loi relatif à la transparence et à la sécurité nucléaire qui a été déposé devant le Sénat et dont l'examen est inscrit à l'ordre du jour de février 2005.
