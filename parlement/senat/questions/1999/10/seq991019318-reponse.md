@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019318
+
+- Question : [SEQ991019318](seq991019318.md) — " Prime de présence " pour les fonctionnaires municipaux de Montpellier
+
+## Réponse
+
+*Fonction publique, JO du 2000-01-27, page 323*
+
+Réponse. - En matière de régime indemnitaire, la légalité des décisions prises par les collectivités locales au regard du principe de parité avec la rémunération des fonctionnaires de l'Etat. Conformément à l'article 88 de la loi nº 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les collectivités locales peuvent définir le régime indemnitaire de leurs fonctionnaires dans la limite de celui attribué aux fonctionnaires de l'Etat exerçant des fonctions équivalentes. Sur cette base, le décret nº 91-875 du 6 septembre 1991 précise les équivalences permettant aux collectivités de mettre en place les régimes indemnitaires au profit de leurs agents, chaque collectivité pouvant déterminer librement à l'intérieur de ce cadre le contenu, les modalités et les taux du régime indemnitaire applicables à chaque catégorie d'agents. Dès lors, l'organe délibérant peut mettre en place un dispositif original, quel que soit son intitulé, à la condition que ce dernier n'aboutisse pas à dépasser les dotations indemnitaires du corps de référence de l'Etat. Il peut ainsi décider de moduler les attributions servies à chaque agent en fonction des critères qui lui sont propres et qu'il aura préalablement définis, parmi lesquels peut figurer une proratisation des primes et indemnités en fonction de la présence de l'agent. Dès lors que " la prime de présence " instituée par la ville de Montpellier constitue non pas une nouvelle indemnité mais une modalité de répartition, fixée par l'assemblée délibérante, s'inscrivant dans la limite du dispositif indemnitaire de référence des personnels des préfectures, elle ne paraît pas comporter d'illégalité sur le principe.
