@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500997
+
+- Question : [SEQ860500997](seq860500997.md) — Automobilistes: contrôles du taux d'alcoolémie et du degré d'absorption de drogue
+
+## Réponse
+
+*Intérieur, JO du 1986-07-24, page 1049*
+
+Réponse. -Les vérifications auxquelles peuvent être soumis les conducteurs de véhicules, les circonstances susceptibles d'entraîner ces vérifications par les forces de police et de gendarmerie et les conditions dans lesquelles elles doivent être effectuées sont expressément définies par des textes législatifs. C'est ainsi que les véfifications prévues aux articles L. 1 et L. 3 du code de la route ont uniquement pour but de déceler l'état alcoolique des conducteurs impliqués dans un accident corporel ou matériel de la circulation ou auteurs présumés de l'une des infractions prévues à l'article L. 14 du code de la route ou encore à l'occasion de contrôles ordonnés par le procureur de la République en l'absence d'infraction préalable ou d'accident. En conséquence, l'absence de texte législatif constitue un obstacle juridique à la mise en oeuvre d'appareils destinés à dépister les conducteurs sous l'empire de stupéfiants. Le ministère de l'intérieur ne pourra se prononcer sur l'opportunité d'étendre, par la voie législative et dans le respect des libertés individuelles essentielles, ces types de contrôle à la détection des conducteurs consommateurs de drogue que lorsqu'il disposera des résultats des études techniques entreprises à ce sujet. On ne peut en effet envisager de restreindre le droit de conduire des véhicules en se fondant sur des tests simplifiés dont la fiabilité ne serait pas reconnue de manière incontestable. C'est pourquoi il a tout dernièrement transmis pour examen au ministère des affaires sociales et de l'emploi, compétent pour de telles études, le texte d'une précédente question écrite traitant de ce problème.
