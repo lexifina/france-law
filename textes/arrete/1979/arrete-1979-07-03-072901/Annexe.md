@@ -105,3 +105,11 @@ Ingénieur de l'école spéciale militaire de Saint-Cyr (option sciences).
 Ingénieur de l'école universitaire d'ingénieurs de l'université de Lille-I.
 
 Ingénieur de l'école nationale supérieure de mécanique et des microtechniques de Besançon.
+
+Ecole nationale supérieure des techniques industrielles et des mines d'Alès ;
+
+Ecole nationale supérieure des techniques industrielles et des mines de Doual ;
+
+Ecole nationale des techniques industrielles et des mines d'Alès ;
+
+Ecole nationale des techniques industrielles et des mines de Doual.
