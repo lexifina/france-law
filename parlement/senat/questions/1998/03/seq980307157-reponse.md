@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307157
+
+- Question : [SEQ980307157](seq980307157.md) — Développement de l'instruction civique
+
+## Réponse
+
+*Éducation, JO du 2000-01-27, page 302*
+
+Réponse. - L'éducation civique est inscrite au c ur du droit à l'éducation dans la loi d'orientation de 1989. Jusqu'en 1998, seuls l'école primaire et le collège proposaient un enseignement obligatoire de l'éducation civique. Au sein du dispositif de rénovation des lycées, le ministre de l'éducation nationale, de la recherche et de la technologie a décidé la création d'un enseignement d'éducation civique, juridique et sociale dans chacune des trois classes de seconde, de première et de terminale des lycées d'enseignement général et technologique ainsi que dans les lycées professionnels. Cette réforme prend effet dans l'année 1999-2000. C'est donc l'ensemble du système éducatif qui concourt aujourd'hui à la formation des citoyens. En primaire, l'éducation civique se présente comme une découverte des droits universels de la personne humaine et des devoirs de l'élève au sein de l'école et de son environnement. Au collège, cette matière traite plus particulièrement de la responsabilité personnelle et collective face aux enjeux de la société. Elle propose une approche des institutions et des principes qui fondent la démocratie pour aboutir une problématique de la citoyenneté. Elle vise aussi à former le jugement et l'esprit critique pour préparer l'élève à devenir un sujet de droit autonome et responsable. Au lycée, l'architecture d'ensemble des programmes consiste à redécouvrir par l'analyse et le débat argumenté la notion de citoyenneté, à en étudier les principes, modalités et pratiques et à la confronter aux réalités du monde contemporain. A l'issue de sa scolarité obligatoire, chaque jeune est ainsi préparé à l'exercice de sa citoyenneté.
