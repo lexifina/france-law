@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003462
+
+- Question : [SEQ021003462](seq021003462.md) — Meilleure répartition des instituts universitaires de technologie (IUT) sur le territoire national
+
+## Réponse
+
+*Jeunesse, JO du 2004-02-05, page 300*
+
+La carte des formations des IUT est arrêtée au niveau national par le ministre chargé de l'enseignement supérieur. Les ouvertures de départements, prévues par les contrats de plan Etat-Régions (CPER) et les contrats quadriennaux des universités, s'appuient sur des propositions venant des recteurs d'académie et des présidents d'université et arrêtées au niveau national après expertise par des instances consultatives spécifiques. Cette expertise approfondie porte notamment sur les débouchés professionnels de la formation et sur le soutien des entreprises et des organisations représentatives de la profession tant au niveau national que régional. Par ailleurs, les critères propres à l'environnement local, aux formations déjà existantes et aux flux prévisibles d'étudiants sont également pris en compte. Ces différents paramètres expliquent la répartition des spécialités de DUT sur le territoire national. A la rentrée universitaire 2003, on compte 114 IUT et 631 départements dont 369 du secteur de la production et 262 du secteur des services, préparant à 25 spécialités, soit 7 départements de plus qu'en 2002. Par ailleurs, l'attribution des bourses d'enseignement supérieur sur critères sociaux tient compte de l'éloignement de l'étudiant du domicile familial. Le candidat boursier dont le domicile familial est éloigné de l'établissement de 30 à 249 kilomètres bénéficie de deux points de charge et d'un point supplémentaire si l'éloignement est de 250 kilomètres et plus. Le nombre de points de charge et le revenu global du foyer fiscal servent à déterminer le droit à bourse et son montant.
