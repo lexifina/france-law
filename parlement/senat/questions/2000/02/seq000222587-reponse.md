@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222587
+
+- Question : [SEQ000222587](seq000222587.md) — Situation des centres d'information et d'orientation du bassin nîmois
+
+## Réponse
+
+*Éducation, JO du 2000-04-06, page 1273*
+
+Réponse. - La question de l'orientation dans le système éducatif a fait l'objet d'une attention particulière dans la politique du ministère de l'éducation nationale, de la recherche et de la technologie. En premier lieu, la loi d'orientation sur l'éducation nº 89-486 du 10 juillet 1989 institue une véritable éducation à l'orientation dans les établissements secondaires. Celle-ci est organisée sous la responsabilité du chef d'établissement, et implique tous les membres de l'équipe éducative. Aussi, la situation des effectifs des conseillers d'orientation-psychologues doit-elle être appréciée par rapport à celle de l'ensemble des membres de l'équipe éducative. Par ailleurs, les conseillers d'orientation-psychologues et les chefs d'établissement interviennent directement auprès des élèves lorsque leurs compétences spécifiques sont requises. Cela étant, dans le cadre de la répartition des moyens d'orientation créés par la loi de finances de l'an 2000 au nombre de soixante emplois, une attention particulière a été portée à la situation de l'académie de Montpellier. Ainsi, au titre de la rentrée scolaire, il lui a été notifié une dotation de trois emplois, soit 5 % de l'autorisation budgétaire de création d'emplois d'orientation. Par ailleurs, s'agissant plus particulièrement de la situation des emplois de conseillers d'orientation-psychologues signalée au centre d'information et d'orientation de Nîmes, il conviendra de prendre l'attache des autorités académiques. En effet, en application de la déconcentration administrative, la répartition intra-académique des emplois relève de leurs compétences ; elles seront ainsi les mieux à même de répondre à vos préoccupations.
