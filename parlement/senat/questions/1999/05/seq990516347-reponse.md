@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516347
+
+- Question : [SEQ990516347](seq990516347.md) — Informatique de la Bibliothèque nationale de France
+
+## Réponse
+
+*Culture, JO du 1999-12-30, page 4296*
+
+Réponse. - A l'ouverture des salles de lecture du rez-de-jardin destinées à la recherche en octobre 1998, le nouveau système d'information de la Bibliothèque nationale de France (BnF) n'était pas encore stabilisé et n'a effectivement pas offert toutes les fonctionnalités prévues, en particulier pour la communication des documents conservés en magasin. Il a donc été nécessaire d'effectuer la communication des documents sur un mode différé (document commandé la veille pour une consultation le lendemain). Un ensemble de mesures a permis d'améliorer nettement le fonctionnement du système d'information et de rétablir partiellement, depuis le 22 juin, la communication directe des documents, c'est-à-dire dans l'heure qui suit leur commande. Cette organisation de la communication a donné des résultats satisfaisants et il a été décidé de revenir progressivement à une amplitude de service plus large. En outre, un autre ensemble de travaux a permis, depuis le 26 mai, la consultation sur l'internet du catalogue BN-OPALE PLUS, qui compte plus de sept millions de notices décrivant la très grande majorité des imprimés conservés à la BnF. A la suite de l'arrêt de la collaboration entre la BnF et son principal fournisseur informatique, d'autres travaux visant à consolider le système d'information ont été programmés, parallèlement à la préparation d'un nouveau marché portant sur les services destinés aux professionnels. La consolidation de tous les services aux lecteurs (version dite V1 du système d'information) devrait ainsi être entièrement achevée d'ici la fin de l'année prochaine. Enfin, le développement des services à distance (réservation de places et de documents) sera poursuivi en 2000.
