@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902728
+
+- Question : [SEQ970902728](seq970902728.md) — Scolarisation des enfants de moins de trois ans
+
+## Réponse
+
+*Éducation, JO du 1997-11-20, page 3218*
+
+Réponse. - La loi d'orientation sur l'éducation du 10 juillet 1989 fixe comme objectif que tout enfant puisse être accueilli, à l'âge de trois ans, dans une école maternelle : la scolarisation à trois ans est aujourd'hui presque totale. S'il est réglementairement tout à fait possible en fonction des places disponibles, l'accueil des enfants de deux ans, cependant, ne constitue de priorité que dans les écoles situées dans un environnement social défavorisé, en zone urbaine comme en zone rurale. Actuellement, dans les zones d'éducation prioritaire, le taux de scolarisation à deux ans est estimé à 40 %, soit un taux légèrement supérieur à la moyenne nationale qui s'élève à 35 %. Ce chiffre, qui cache de réelles disparités d'effectifs selon les zones, est insuffisant. La relance des zones d'éducation prioritaire constitue précisément l'une des priorités fortes de l'action politique que le ministre de l'éducation nationale, de la recherche et de la technologie et la ministre déléguée, chargée de l'enseignement scolaire, entendent mener, afin essentiellement de lutter contre l'échec scolaire. Dans le cadre du développement de la scolarisation précoce en zone d'éducation prioritaire, qui représente un véritable projet de société, les inspecteurs d'académie vont devoir évaluer, en liaison avec les communes concernées, les moyens nécessaires en terme d'emplois et de locaux. Une réflexion est par ailleurs actuellement engagée au sein des services du ministère de l'éducation nationale afin d'améliorer la liaison entre la crèche et l'école maternelle et les conditions de l'accueil des très jeunes enfants.
