@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035562
+
+- Question : [SEQ011035562](seq011035562.md) — Situation au Tibet
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-11-29, page 3767*
+
+La France a connaissance du démantèlement du campement religieux du monatère bouddhiste tibétain de Serthar, dans la province chinoise du Sichuan. Cette question a été abordée par l'Union européenne lors de la dernière session du dialogue euro-chinois sur les droits de l'Homme qui s'est tenue à Pékin les 25 et 26 octobre. La France et ses partenaires européens ont également demandé des informations concernant les sorts du Khenpo Jigme Phuntsok, l'abbé du monastère. L'Union a rappelé à la Chine ses demandes concrètes formulées dans les conclusions du Conseil affaires générales du 22 janvier 2001 et qui concernent en particulier l'exercice sans entrave de la liberté de réligion, en public et en privé, le respect de l'identité culturelle et religieuse au Tibet, l'arrêt dans cette région de la campagne dite " d'éducation patriotique " dans les monastères, et le respect des droits de tous les prisonniers. L'Union européenne a enfin vivement incité la partie chinoise à donner rapidement une suite concrète à la demande d'invitation du rapporteur spécial des Nations unies sur l'intolérance religieuse, dont la Chine a fait état lors des discussions. Le Gouvernement français soutient le mandat du rapporteur spécial sur l'intolérance religieuse. Il rappelle son attachement à l'indépendance et à la liberté d'action des rapporteurs spéciaux de la Commission des droits de l'Homme des Nations unies, qui peuvent se saisir de toute information qu'ils jugent pertinente, de source officielle comme de source non gouvernementale, et enfin son souhait que chaque gouvernement coopère pleinement avec les mécanismes et institutions des Nations unies en matière de droits de l'Homme.
