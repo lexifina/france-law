@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935073
+
+- Question : [SEQ010935073](seq010935073.md) — Délais de paiement des marchés publics
+
+## Réponse
+
+*Économie, JO du 2001-11-15, page 3636*
+
+La directive n° 2000/35/CE du Parlement européen et du Conseil du 29 juin 2000 concernant la lutte contre le retard de paiement dans les transactions commerciales a posé le principe selon lequel les transactions commerciales doivent donner lieu à paiement à des dates ou dans des délais clairement et préalablement fixés et qui ne soient pas manifestement abusifs. La date ou le délai de paiement doit être indiqué dans le contrat. A défaut d'une telle indication, un délai supplétif s'applique. Le dépassement de la date ou du délai de paiement est sanctionné par des intérêts moratoires qui sont automatiquement exigibles. Le mécanisme prévu par cette directive européenne, à l'élaboration de laquelle la France a activement participé, s'applique notamment aux paiements effectués dans le cadre des marchés publics. Il apparaît de nature à parachever les efforts déjà entrepris pour améliorer les conditions de paiement des marchés publics. C'est dans le cadre de la transposition de cette directive que la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles réglementations économiques et l'article 96 du code des marchés publics, dans sa rédaction issue de sa réforme réalisée par le décret n° 2001-210 du 7 mars 2001, ont prévu que les sommes dues en exécution d'un marché public seront payées dans un délai précisé dans le marché, ou à défaut, dans un délai supplétif maximum fixé par voie réglementaire. Le dépassement du délai de paiement ouvrira de plein droit et sans autre formalité, pour le titulaire du marché ou le sous-traitant, le bénéfice d'intérêts moratoires, à compter du jour suivant l'expiration du délai. Des décrets d'application préciseront prochainement les modalités de mise en oeuvre du principe du respect d'un délai de paiement par les acheteurs publics.
