@@ -548,17 +548,15 @@ Agents de bureau. |
 
 Agents de bureau. |
 
-Inspecteurs de police.
+Inspecteur de police.
 
 |
 
 |
 
-Officiers de police adjoints.
+Inspecteur de police. |
 
-|
-
-Officiers de police adjoints. |
+Inspecteur de la police nationale. |
 
 Officiers de paix. |
 
@@ -574,11 +572,11 @@ Brigadiers et brigadiers-chefs de police.
 
 |
 
-Gardiens de la paix.
+Gradés et gardiens de la paix.
 
 |
 
-Gardiens de la paix. |
+Gradés et gardiens de la paix. |
 
 Gardiens de la paix et sous-brigadiers de
 
@@ -588,9 +586,9 @@ police.
 
 |
 
-Gardiens de la paix. |
+Gradés et gardiens de la paix. |
 
-Gardiens de la paix. |
+Gradés et gardiens de la paix. |
 
 Ministère de la justice.
 
