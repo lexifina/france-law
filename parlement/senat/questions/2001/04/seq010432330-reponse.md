@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432330
+
+- Question : [SEQ010432330](seq010432330.md) — Disponibilité du parc militaire
+
+## Réponse
+
+*Défense, JO du 2001-06-14, page 2003*
+
+Le rétablissement de la disponibilité des moyens aériens constitue l'un des objectifs prioritaires de l'armée de l'air. A ce titre, la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques de la défense (SIMMAD), organisme commun aux trois armées, à la gendarmerie et à la délégation générale pour l'armement, dont s'est doté le ministère fin 2000, est destinée à améliorer de manière sensible la gestion des processus de maintien en condition opérationnelle du parc aérien de la défense. S'agissant des moyens financiers à attribuer à la SIMMAD en vue de la mise à niveau des stocks de pièces de rechange, il est prévu d'augmenter de 600 MF le montant des autorisations de programme pour l'entretien programmé des matériels (EPM) en 2001. Cette mesure, qui correspond à environ 12 % des crédits EPM de la loi de finances initiale, est financée sous enveloppe budgétaire constante par redéploiement de crédits en provenance d'autres chapitres air. Elle constitue un effort très important consenti par l'armée de l'air pour rétablir la disponibilité de ses appareils. Par ailleurs, pour améliorer la disponibilité des flottes aériennes, l'armée de l'air a lancé plusieurs actions dans différents domaines : meilleure synergie dans la gestion des stocks, sensibilisation des industriels, études d'amélioration dans le domaine technique, mise en oeuvre de solutions innovantes afin de préserver les matériels... L'ensemble de ces actions devrait se traduire par une amélioration de la situation à partir de 2002. S'agissant enfin de l'acquisition de munitions, l'armée de l'air a récemment consacré les moyens financiers permettant de reconstituer, d'ici à 2003, les stocks nécessaires à la réalisation de ses missions.
