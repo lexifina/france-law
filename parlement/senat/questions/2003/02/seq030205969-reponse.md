@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205969
+
+- Question : [SEQ030205969](seq030205969.md) — Mise en place de projets d'accueil individualisés (PAI) pour les élèves souffrant d'allergies alimentaires
+
+## Réponse
+
+*Jeunesse, JO du 2003-04-24, page 1418*
+
+Devant l'augmentation du nombre d'enfants allergiques accueillis dans les écoles, le ministère de l'éducation nationale, conscient des difficultés rencontrées, a mis en oeuvre un ensemble de dispositions contenu dans la circulaire n° 99-181 du 10 novembre 1999 afin de favoriser l'accueil et l'intégration des enfants et adolescents atteints de troubles de la santé évoluant sur une longue période durant le temps scolaire. Cette circulaire recommande de mettre en place un projet d'accueil individualisé (PAI) afin de prévoir les différentes adaptations et précautions nécessaires à la scolarisation de l'élève. En particulier, elle vise à proposer à la communauté éducative des réponses mieux adaptées aux problèmes d'accueil des enfants allergiques à l'école et dans les établissements scolaires en améliorant les conditions d'accès à la restauration collective pour les élèves ayant besoin de suivre un régime alimentaire spécifique. Toutefois, malgré les dispositions prises, certaines difficultés subsistent dans l'application des modalités d'accueil des enfants et adolescents atteints de troubles de la santé, notamment pour l'accueil des enfants souffrant d'allergies alimentaires dans les cantines scolaires, la prise de médicaments ou les soins à donner en urgence. C'est pourquoi, le ministère de l'éducation nationale a engagé un travail interministériel avec l'ensemble des partenaires institutionnels concernés (ministères de l'intérieur, de la santé, de l'agriculture...), afin de proposer une circulaire visant à améliorer les conditions d'accueil des enfants atteints de troubles de la santé dans tous les lieux de vie. Cette circulaire devrait être publiée dans le courant d'avril 2003.
