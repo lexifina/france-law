@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400126
+
+- Question : [SEQ930400126](seq930400126.md) — Réglementation des installations classées applicable aux élevages bovins
+
+## Réponse
+
+*Environnement, JO du 1993-11-11, page 2143*
+
+Les distances d'éloignement entre les bâtiments d'élevages bovins et les habitations des tiers sont effectivement de cent mètres, dans le cas des installations soumises à autorisation (3 p. 100 des élevages bovins français). Toutefois, dans le cas des élevages de moins de quatre-vingts vaches et soumis à déclaration (25 à 30 p. 100 des élevages bovins français), les exploitants peuvent bénéficier au cas par cas de dérogations, lorsque la stabulation des animaux a lieu sur litière, ou lorsque l'élevage est situé en zone de montagne. Ces trois seuils d'éloignement, corrélés à la fois à l'importance de l'élevage, à son mode de conduite et aux impératifs de son milieu d'implantation permettent de concilier la protection de la commodité du voisinage pour les usagers du milieu rural avec le développement de la filière bovine. Ces règles de distance s'appliquent dans tous les cas où il y a extension (c'est-à-dire accroissement de l'effectif d'animaux élevés) aux seuls nouveaux bâtiment rendus nécessaire par cette extension. Elles ne s'appliquent pas s'il s'agit de construction de bâtiment ou d'annexe sans augmentation de l'effectif d'animaux entretenus. Dans le cas des réaffectations de bâtiments existants, les règles de distance s'appliquent dès lors que le bâtiment n'était pas utilisé pour l'élevage où hébergeait une espèce différente. Enfin ces règles de distance ne s'appliquent pas, aussi bien dans le cas des réaffectations que dans celui des constructions nouvelles, dès lors que la transformation des bâtiments a pour objet une mise en conformité de l'élevage aux nouvelles dispositions en matière de protection de l'environnement.
