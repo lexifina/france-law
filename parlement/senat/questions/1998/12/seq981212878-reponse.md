@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212878
+
+- Question : [SEQ981212878](seq981212878.md) — Forte diminution du nombre d'étudiants étrangers en France
+
+## Réponse
+
+*Éducation, JO du 1999-02-18, page 529*
+
+Réponse. - Le Gouvernement est tout à fait conscient que la formation des étudiants et des chercheurs étrangers en France est un facteur essentiel du rayonnement international de notre enseignement supérieur et de notre recherche de haut niveau. L'enjeu est à la fois culturel et économique, puisqu'il s'agit de la formation des cadres, techniciens, ingénieurs des pays étrangers. Pour relever ce défi, le ministère de l'éducation nationale, de la recherche et de la technologie a fait de la promotion internationale des formations supérieures françaises une de ses priorités. C'est ainsi que, sous l'impulsion conjointe des ministères des affaires étrangères et de la coopération et du ministère de l'éducation nationale, de la recherche et de la technologie, a été créée l'agence Edufrance, dont la mission essentielle consiste à promouvoir à l'étranger l'offre de formation et d'expertise en matière éducative et scientifique. Dans ce cadre, elle a également reçu pour mission de fournir aux étudiants étrangers une prestation globale d'accueil, de façon à leur faciliter les démarches de séjour et de visas, de logements et de travail en France. En même temps, les deux ministères ont joint leurs efforts pour améliorer les conditions d'entrée et de séjour des étudiants et des scientifiques étrangers en France. Le Gouvernement a pu décider d'un allégement des procédures de délivrance des visas et des titres de séjour. La venue des étudiants étrangers, et plus particulièrement de ceux qui contribueront le mieux au développement de leur pays et au renforcement des liens avec la France, sera ainsi encouragée.
