@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310426
+
+- Question : [SEQ950310426](seq950310426.md) — Remplacement des bourses nationales par l'aide à la scolarité
+
+## Réponse
+
+*Affaires sociales, JO du 1995-05-04, page 1044*
+
+Réponse. - L'article 23 de la loi du 25 juillet relative à la famille a créé une aide à la scolarité attribuée sous condition de ressources, pour chaque enfant scolarisé de onze à seize ans. Cette nouvelle prestation, financée par l'Etat, répond à la fois à la volonté de maîtriser les coûts de gestion et à un souci de simplification. L'aide à la scolarité doit s'analyser comme une prestation sociale originale, qui est versée aux bénéficiaires d'une prestation familiale, de l'aide personnalisée au logement, de l'allocation aux adultes handicapés ou du revenu minimum d'insertion, prenant ainsi en compte les familles les plus modestes. Par ailleurs, la loi prévoit pour l'année scolaire 1994-1995 le versement, en tant que de besoin, d'une allocation exceptionnelle servie par le ministère de l'éducation nationale et complétant cette aide, afin de maintenir un versement aux familles d'un montant identique à celui qu'elles avaient reçu en 1993-1994. D'autre part, la création, dans le cadre du nouveau contrat pour l'école, d'un fonds social collégien permettra, à l'avenir, d'apporter une aide aux élèves confrontés à des difficultés financières particulières pouvant perturber leur scolarité. Ce fonds viendra compléter le dispositif du fonds social lycéen existant depuis 1991 dans les établissements d'enseignement public. Les crédits ouverts au titre de ces fonds sociaux pourront, notamment, être utilisés en faveur des familles confrontées à des difficultés. Enfin, le Gouvernement a confié à une mission parlementaire le soin d'étudier le nouveau dispositif mis en oeuvre par les ministères de l'éducation nationale et des affaires sociales afin de proposer, éventuellement, les améliorations qui en paraîtraient nécessaires.
