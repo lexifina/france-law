@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104148
+
+- Question : [SEQ021104148](seq021104148.md) — Avenir de l'Imprimerie nationale
+
+## Réponse
+
+*Économie, JO du 2003-02-13, page 566*
+
+L'Imprimerie nationale est une entreprise industrielle du secteur concurrentiel, deuxième acteur en France de la filière graphique. Les priorités de cette entreprise sont son développement industriel, ses succès commerciaux, la défense de ses près de 2 000 emplois, dans un contexte de très forte concurrence, de baisse des prix et de crise du marché publicitaire. C'est dans ce cadre que doit être replacée la question de la délocalisation du site parisien, qui n'est d'ailleurs qu'un des sites de production de l'Imprimerie nationale, dont la principale usine est à Douai (700 agents) et qui compte également des établissements à Strasbourg (230 agents) et à Evry (180 agents). Le site parisien a été construit en 1911 et est aujourd'hui inadapté à un processus de production moderne. Construit sur quatre niveaux, il peut abriter 3 000 personnes, alors que l'effectif actuel est d'environ 500. C'est pourquoi a été prise la décision de construire une usine moderne et mieux adaptée, pour laquelle les discussions sont en cours avec la municipalité de Choisy-le-Roi et la SADEV, société d'aménagement du Val-de-Marne. Ce projet intégrerait la création, avec l'aide du département du Val-de-Marne, d'un musée vivant de l'Imprimerie. Ce musée permettrait d'ouvrir au grand public les collections de l'Imprimerie nationale aujourd'hui inaccessibles et de garantir la pérennité de la filière typographique traditionnelle que l'Imprimerie nationale a maintenue en activité et qui représente moins de vingt agents sur le total de l'effectif du groupe. La délocalisation du site parisien de l'Imprimerie nationale est à la fois un facteur de développement de l'entreprise et un moyen de défense de son patrimoine.
