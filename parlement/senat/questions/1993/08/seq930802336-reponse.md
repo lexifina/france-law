@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802336
+
+- Question : [SEQ930802336](seq930802336.md) — Routes nationales en région parisienne
+
+## Réponse
+
+*Équipement, JO du 1994-01-20, page 135*
+
+Réponse. - Les questions touchant à la voirie nationale en Ile-de-France, et notamment dans le département des Yvelines, font l'objet d'un examen attentif de la part du ministre de l'équipement, des transports et du tourisme. Au cours des prochaines années, l'Etat compte poursuivre ses objectifs d'aménagement et d'améliortion des routes nationales 10, 12 et 13. Ainsi, pour la zone desservie par la RN 10, les études sont orientées sur les solutions de tracés permettant d'assurer le prolongement de l'autoroute A 12 en offrant la meilleure protection possible pour les zones habitées et en évitant la traversée du vallon du Pommeret. Le décret de déclaration d'utilité publique de l'aménagement à deux voies de la RN 12 entre Bois-d'Arcy et Dreux devrait intervenir très prochainement, et les premières tranches d'opérations engagées dans le cadre de l'actuel contrat de plan devraient être poursuivies lors du prochain contrat, en cours de négociations. Le chantier de l'autoroute A 14 entre Orgeval et A 86 sera poursuivi et permetra de soulager la RN 13, lorsque cette autoroute concédée sera achevée. Il convient toutefois de souligner que les possibilités financières de l'Etat au cours des prochaines années ne lui permettront pas de financer des opérations présentant un caractère purement local ; il en est ainsi de la RN 13 à l'ouest de Mantes. A cet égard, il est essentiel de rappeler qu'au plan général des infrastructures routières en Ile-de-France, l'importance des besoins à satisfaire sur les rocades (bouclage de la Francilienne et achèvement de l'autoroute A 86) constitue la priorité de l'Etat, et les investissements sur les autres voies nationales seront obligatoirement très limités.
