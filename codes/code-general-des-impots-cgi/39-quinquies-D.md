@@ -4,11 +4,11 @@ I. Les entreprises qui construisent ou font construire des immeubles à usage in
 
 Cet amortissement de 25 % ne peut se cumuler avec celui de 50 % prévu à l'article 39 quinquies A-1 en faveur des immeubles affectés à la recherche scientifique ou technique.
 
-Les dispositions du présent article s'appliquent aux constructions commencées avant le 31 décembre 1982 et pour les investissements agréés avant la même date.
+Les dispositions du présent article s'appliquent aux constructions commencées avant le 31 décembre 1983 et pour les investissements agréés avant la même date.
 
 En ce qui concerne les petites entreprises, l'agrément sera accordé selon une procédure décentralisée dans les conditions qui seront fixées par un arrêté du ministre de l'économie et des finances (1).
 
-II. L'agrément prévu au I n'est pas exigé lorsque la réalisation des immeubles concernés s'inscrit dans le cadre d'un programme d'investissement admis, sur agrément, au bénéfice de l'exonération de taxe professionnelle prévue aux articles 1465 et 1466.
+II. (Dispositions devenues sans objet).
 
 III. Un décret en Conseil d'Etat fixe les conditions dans lesquelles les entreprises susceptibles d'être exonérées de taxe professionnelle en application de l'article 1465 peuvent bénéficier sans agrément préalable de l'amortissement exceptionnel de 25 % prévu au I (2).
 
