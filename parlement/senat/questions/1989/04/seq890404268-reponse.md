@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404268
+
+- Question : [SEQ890404268](seq890404268.md) — Frais de campagne des élections municipales dans les petites communes
+
+## Réponse
+
+*Intérieur, JO du 1989-06-15, page 926*
+
+Réponse. - La loi n° 88-1262 du 30 décembre 1988 par son article 29 a abaissé de 9 000 à 3 500 habitants le seuil de population municipale au-dessus duquel l'Etat rembourse aux candidats le coût du papier, l'impression des bulletins de vote, affiches et circulaires, de même que les frais d'affichage. Ainsi le remboursement des dépenses de propagande est-il désormais assuré dans toutes les communes où s'applique le mode de scrutin combinant le majoritaire et la représentation proportionnelle avec listes bloquées. L'Etat a de ce fait consenti un effort financier supplémentaire très substantiel en matière d'élections municipales. Le Gouvernement estime qu'il n'y a pas lieu d'aller plus loin. Alors qu'il faut engager des frais importants pour toucher tous les électeurs dans les grandes villes et les localités de taille moyenne, la propagande se réduit, le plus souvent, dans les petites communes, à des réunions et à des contacts directs avec les électeurs. La différence de régime se justifie donc par les caractéristiques mêmes de la campagne qui change de nature selon l'importance de la commune considérée. Mais, au-delà de cette observation d'ordre général, le remboursement des dépenses de propagande dans les petites communes se heurte à un obstacle déterminant : c'est que les candidatures y sont inconnues de l'administration, puisqu'elles ne font l'objet d'aucun dépôt dans les communes de moins de 2 500 à 3 500 habitants. Au demeurant, tout contrôle sérieux des dépenses réelles des candidats serait impraticable dans les 33 750 communes de France comptant moins de 3 500 habitants, où plus de 1 200 000 personnes ont obtenu des suffrages lors des récentes élections municipales générales. 4AA Elections 6AA Communes 6BA Zones rurales
