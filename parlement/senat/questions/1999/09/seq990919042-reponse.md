@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919042
+
+- Question : [SEQ990919042](seq990919042.md) — Etablissements d'hospitalisation privés : taxe professionnelle applicable aux biens professionnels mis à la disposition des médecins
+
+## Réponse
+
+*Économie, JO du 2000-01-13, page 116*
+
+Réponse. - Aux termes de l'article 1467 du code général des impôts, la taxe professionnelle a pour base, notamment, la valeur locative des immobilisations corporelles dont le redevable a disposé pour les besoins de son activité professionnelle au cours de la période de référence. S'agissant des médecins qui exercent, à titre personnel, dans un établissement hospitalier, l'instruction du 2 novembre 1993 a effectivement rapporté, pour les impositions établies au titre de 1994 et des années suivantes, la doctrine jusqu'alors en vigueur (cf. BODGI 6 E-3-76 repris dans la documentation de base 6 E-2211 nº 12). Désormais et sauf cas particuliers, les établissements hospitaliers sont imposables sur l'intégralité de la valeur locative de leurs immobilisations. Cette modification doctrinale a eu pour objet de prendre en considération l'évolution de la jurisprudence relative à la notion de disposition (cf. CE 17 avril 1992, nº 72383, 9º et 7º sous-sections) et les conditions dans lesquelles les praticiens exercent leur activité. En tout état de cause, ces modalités d'imposition peuvent ne pas être retenues lorsque les conditions d'exercice constatées et rappelées dans l'instruction du 2 novembre 1993 susvisée ne sont pas satisfaites. Cela étant, les arrêts de cours administratives d'appel évoqués par l'auteur de la question ont été déférés au Conseil d'Etat qui n'a pas, à ce jour, rendu ses décisions. Dans ces conditions, il n'est pas envisagé, à ce stade, de réexaminer les modalités de l'instruction du 2 novembre 1993.
