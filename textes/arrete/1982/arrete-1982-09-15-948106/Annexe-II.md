@@ -72,11 +72,47 @@ Autres espèces de plantes
 
 |
 
-Avoine, blé dur, blé tendre, orge.
+1
 
 |
 
-Semences de base...
+2
+
+|
+
+3
+
+|
+
+4
+
+|
+
+5
+
+|
+
+6
+
+|
+
+7
+
+|
+
+8
+
+|
+
+9
+
+|
+
+Avoine, blé dur, blé tendre, orge
+
+|
+
+Semences de pré-base et de base
 
 |
 
@@ -148,11 +184,11 @@ Trois Raphanus raphanistrum ou Agrostemma githago
 
 |
 
-Riz ......................
+Riz
 
 |
 
-Semences de base...
+Semences de pré-base et de base
 
 |
 
@@ -184,7 +220,7 @@ Un panicum sp. p.
 
 |
 
-Semences certifiées
+Semences certifiées :
 
 |
 
@@ -208,7 +244,7 @@ Semences certifiées
 
 |
 
-3 grains rouges.
+3 grains rouges
 
 |
 
@@ -216,11 +252,117 @@ Trois Panicum sp. p.
 
 |
 
+Sarrasin
+
+|
+
+Semences de pré-base et de base :
+
+|
+
+|
+
+Variété diploïde
+
+Variété tétraploïde
+
+|
+
+(d)
+
+(d)
+
+|
+
+80
+
+80
+
+|
+
+98
+
+98
+
+|
+
+15
+
+15
+
+|
+
+3
+
+1(e)
+
+|
+
+-
+
+|
+
+Dont : un Fagopyrum Tartaricum ou Rumex (sp. p) ou graine de renonculacée ou graine de caryophylacée (f)
+
+|
+
+Semences certifiées :
+
+|
+
+|
+
+Variété diploïde
+
+Variété tétraploïde
+
+|
+
+(d)
+
+(d)
+
+|
+
+80
+
+80
+
+|
+
+97
+
+97
+
+|
+
+15
+
+15
+
+|
+
+7
+
+4
+
+|
+
+-
+
+-
+
+|
+
+Dont : trois Fagopyrum Tartaricum ou Rumex (sp. p) ou graine de renonculacée ou graine de caryophylacée
+
+|
+
 Seigle ...................
 
 |
 
-Semences de base.
+Semences de pré-base et de base.
 
 |
 
@@ -296,7 +438,37 @@ Maïs ....................
 
 |
 
-Semences de base
+Semences de pré-base et de base
+
+|
+
+-
+
+|
+
+90 (a)
+
+|
+
+98
+
+|
+
+14
+
+|
+
+0
+
+|
+
+-
+
+|
+
+|
+
+Semences certifiées
 
 |
 
@@ -316,37 +488,7 @@ Semences de base
 
 |
 
--
-
-|
-
--
-
-|
-
-|
-
-Semences certifiées
-
-|
-
--
-
-|
-
-90
-
-|
-
-98
-
-|
-
-14
-
-|
-
--
+0
 
 |
 
@@ -360,7 +502,7 @@ Triticale
 
 |
 
-Semences de base...
+Semences de pré-base et de base.
 
 |
 
@@ -368,7 +510,7 @@ Semences de base...
 
 |
 
-85 (a ter)
+85 (a)
 
 |
 
@@ -404,7 +546,7 @@ Semences certifiées
 
 |
 
-85
+85 ( ter)
 
 |
 
@@ -432,11 +574,11 @@ Trois Raphanus raphanistrum ou Agrostemma githago ;
 
 |
 
-Sorgho ................
+Sorgho
 
 |
 
-Semences de base...
+Semences de pré-base et de base...
 
 |
 
@@ -498,10 +640,16 @@ Semences certifiées et semences.
 
 (a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.
 
-(a bis) La faculté germinative des semences de base peut être ramenée à 85 p. 100 à la condition que mention en soit faite dans le marquage ;
+(a bis) La faculté germinative des semences certifiées peut être ramenée à 85% à la condition que mention en soit faite dans le marquage.
 
-(a ter) A condition qu'elles soient, à la fois, produites et com­mercialisées en France et qu'il en soit fait état dans l'étiquetage, la faculté germinative des semences de base peut être ramenée à 80 p. 100, cette indication devant également être portée dans le mar­quage.
+(a ter) A condition qu'elles soient, à la fois, produites et commercialisées en France et qu'il en soit fait état dans l'étiquetage, la faculté germinative des semences certifiées peut être ramenée à 80% cette indication devant également être portée dans le marquage.
 
-(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
+(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres de céréales.
 
-(c) La présence d'une graine d'Avena fatua, Avena ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
+(c) La présence d'une graine d'Avena Fatua ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
+
+(d) L'identité variétele et le taux de ploïdie doivent être conformes respectivement au type déposé et au taux observé lors de l'inscription au catalogue.
+
+(e) Une deuxième graine n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d'autres plantes.
+
+(t) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.
