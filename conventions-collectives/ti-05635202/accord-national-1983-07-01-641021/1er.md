@@ -1,3 +1,3 @@
-# Article 1
+# Article 1er
 
-Il est formé entre les signataires de la convention du 9 juin 1983 créant le F.A.F.-T.T. une association régie par la loi du 1er juillet 1901.
+Il est formé entre les signataires de la convention créant le FAF-TT une association régie par la loi du 1er juillet 1901.
