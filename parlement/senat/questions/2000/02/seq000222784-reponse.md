@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222784
+
+- Question : [SEQ000222784](seq000222784.md) — Adaptation du décret interdisant la circulation sur le domaine public fluvial
+
+## Réponse
+
+*Équipement, JO du 2000-05-18, page 1786*
+
+Réponse. - L'orientation actuellement suivie par le ministère de l'équipement, des transports et du logement par l'établissement public Voies navigables de France, auquel est confiée la majeure partie du réseau de voies navigables, est de favoriser sur les chemins de halage la circulation des piétons, réglementairement autorisée, et celle des cyclistes, généralement totérée, dans le cadre d'une plus grande ouverture aux activités de pleine nature. Etendre aux pêcheurs les exceptions prévues en matière de circulation automobile par l'article 62 du décret du 6 février 1932 portant règlement général de police des voies de navigation intérieure, et les autoriser à effectuer autrement qu'à pied leur parcours final jusqu'à leur lieu de pêche, créerait une source de gêne et de danger pour les promeneurs et les agents de service et conduirait, de toute évidence, à des conflits d'usage difficiles à gérer. En effet, le stationnement permanent de nombreux véhicules qui résulterait d'une telle autorisation rendrait particulièrement dangereuse sinon impossible toute circulation, en particulier des véhicules de sécurité et de service, sur lesdits chemins, caractérisés par leur faible largeur, l'absence de bas-côté et la présence immédiate d'un plan d'eau dépourvu de toute protection. Il ne paraît donc pas souhaitable de modifier sur le fond la réglementation actuelle, étant précisé que, dans des circonstances particulières telles que l'organisation de concours de pêche, des autorisations ponctuelles sont accordées, limitées dans le temps et en intégrant la dimension sécurité des usagers pêcheurs et promeneurs.
