@@ -2,13 +2,13 @@
 
 I. - Supports types pour revêtements de murs ou de plafonds
 
-1. Fibrociment.
+1. Fibre-ciment.
 
-Epaisseur : (6 + ou - 1) mm.
+Epaisseur : (6 1) mm.
 
-Masse volumique : (1800 + ou - 100) kg/m3.
+Masse volumique : (1 800 200) kg/m3.
 
-Représentatif de tout support M 0 non isolant
+Représentatif de tout support M 0 non isolant (l 0,10 W/m °C selon D.T.U. règles Th K 77).
 
 2. Plaque de plâtre cartonné.
 
@@ -30,9 +30,13 @@ Classement : M 1.
 
 II. - Supports-types pour revêtements de sols
 
-Fibrociment.
+1. Fibre-ciment.
 
-Voir paragraphe 1 ci-dessus.
+Epaisseur : (6 1) mm.
+
+Masse volumique : (1 800 200) kg/m3.
+
+Représentatif de tout support M 0 non isolant (l 0,10 W/m °C selon D.T.U. règles Th K 77).
 
 2. Panneau de particules de bois agglomérées non ignifugé.
 
