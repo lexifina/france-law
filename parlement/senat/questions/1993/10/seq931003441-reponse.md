@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003441
+
+- Question : [SEQ931003441](seq931003441.md) — Travail du dimanche ou nocturne
+
+## Réponse
+
+*Travail, JO du 1994-02-17, page 388*
+
+Réponse. - Comme le souligne l'honorable parlementaire la question relative au repos dominical des salariés et à l'ouverture des commerces le dimanche est une question importante qui met en jeu l'équilibre entre vie familiale et vie professionnelle, entre le souhait des consommateurs et les conditions de travail des salariés. C'est pourquoi le ministre du travail souhaite porter cette délicate question devant le Parlement. Les modifications adoptées par le législateur dans le cadre de la loi 93-1313 relative au travail, à l'emploi et à la formation professionnelle sont limitées. La loi permet un élargissement des dérogations accordées par les préfets, en créant à côté de l'article L. 221-6 un article L. 221-8-1 qui permet des dérogations plus souples pendant la ou les périodes d'activités touristiques pour certains commerces situés dans les communes touristiques, les zones touristiques d'affluence exceptionnelle et les zones d'animation culturelle permanente. Ces dérogations sont limitées aux commerces et services qui permettent de faciliter l'ac cueil des touristes et la pratique de leurs activités de loisir. La loi crée, en outre, une nouvelle dérogation de droit pour les espaces de présentation et d'exposition permanente réservés aux producteurs, revendeurs et prestataires de services, dont l'activité est exclusive de toute vente au public, et fait passer de trois à cinq le nombre de dimanches où le maire peut accorder, par branche commerciale, la suspension du repos dominical. Ces mesures qui permettent la prise en compte d'un certain nombre de cas spécifiques qui restaient sans solution ne reviennent pas pour autant sur l'économie générale de la réglementation dont le principe d'ordre public reste le repos dominical des salariés.
