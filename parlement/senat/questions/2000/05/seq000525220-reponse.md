@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525220
+
+- Question : [SEQ000525220](seq000525220.md) — Evolution des recettes affectées au Fonds national des adductions d'eau
+
+## Réponse
+
+*Agriculture, JO du 2000-10-12, page 3476*
+
+Réponse. - L'honorable parlementaire demande à M. le ministre de l'agriculture et de la pêche de bien vouloir lui préciser l'évolution des recettes affectées au FNDAE (Fonds national pour le développement des adductions d'eau) au cours des trois dernières années ainsi que l'évolution de la consommation des crédits délégués au titre de ce fonds. Les recettes du FNDAE ont été pour les trois dernières années de 997 millions de francs en 1997, 959 millions de francs en 1998 et de 995 millions de francs en 1999. Les crédits délégués en autorisation de programme pour ces trois années ont été respectivement de 954 millions de francs en 1997, 1 004 millions de francs en 1998 et 929 millions de francs en 1999. En ce qui concerne le programme spécial de l'assainissement du littoral, il n'existe plus de dotation spécifique FNDAE pour ce type de réalisation. L'enveloppe globale FNDAE allouée chaque année aux départements permet de financer ces opérations quand il s'agit de communes rurales, sans examen par le comité de gestion du fonds de dossiers particuliers émanant des collectivités. Dans le cadre du conventionnement Etat-département, chaque département doit renvoyer chaque année au ministère de l'agriculture et de la pêche un compte rendu physico-financier faisant état de l'utilisation des crédits alloués au titre du FNDAE. L'examen des documents produits permet de conclure que, globalement, les conventions pluriannuelles sont respectées et répondent au but recherché par la mise en place du conventionnement. Quant à sa demande d'avoir connaissance de l'évolution des crédits FNDAE affectés aux dix plus importants départements, cette information sera communiquée à M. le sénateur pour répondre à son souhait.
