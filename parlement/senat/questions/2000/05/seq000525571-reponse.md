@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525571
+
+- Question : [SEQ000525571](seq000525571.md) — Renforcement des moyens de recherche sur les technologies de l'information et de la communication
+
+## Réponse
+
+*Recherche, JO du 2000-08-10, page 2861*
+
+Réponse. - Depuis la réunion du comité interministériel de la recherche scientifique et technique le 1er juin 1999, les principales actions visant au renforcement des moyens de recherche en technologies de l'information et de la communication ont été la création, par les ministères chargés de la recherche et de l'industrie, du réseau national de recherche et d'innovation en technologies logicielles, ainsi que le lancement début 2000 d'un appel à projets doté de 180 millions de francs. Dans les semaines qui viennent, le ministre de la recherche va signer, en liaison avec le ministre de l'économie, des finances et de l'industrie, un contrat quadriennal avec l'Institut national de recherche en informatique et en automatique, devant aboutir à terme à un doublement de la capacité de recherche de cet organisme. Par ailleurs, le Centre national de la recherche scientifique sera doté cette année d'une structure consacrée aux sciences et technologies de l'information et de la communication, regroupant les diverses sections concernées par la société de l'information. Enfin, les crédits en faveur des technologies de l'information et de la communication des fonds d'intervention du ministère de la recherche (fonds national de la science et fonds de la recherche technologique) seront augmentés de 50 % en 2001, afin de financer des recherches en cryptologie et des actions de partenariat entre secteur public et secteur privé dans les domaines des télécommunications, du logiciel et du multimédia. Ces mesures ont été adoptées lors du dernier comité interministériel pour la société de l'information, qui s'est tenu le 10 juillet 2000.
