@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718174
+
+- Question : [SEQ990718174](seq990718174.md) — Dispositions relatives aux reports d'incorporation
+
+## Réponse
+
+*Défense, JO du 1999-09-02, page 2927*
+
+Réponse. - La loi nº 97-1019 du 28 octobre 1997 portant réforme du service national a inséré l'article L. 5 bis A dans le code du service national, qui permet aux jeunes gens titulaires de contrats de travail de droit privé à durée déterminée ou indéterminée, obtenus au moins trois mois avant la date d'expiration du report d'incorporation qu'ils détiennent, de demander à bénéficier d'un report d'incorporation. Les termes de l'article L. 5 bis A sont très précis, car le législateur n'a pas voulu que les dispositions de la loi constituent une possibilité de dispense systématique pour tous les jeunes gens titulaires d'un emploi. Ainsi, le contrat de travail ou la déclaration préalable d'embauche, qui doivent être impérativement joints à une demande de report au titre de l'article L. 5 bis A, conformément à l'article R* 9 du code du service national, correspondent à des réalités tangibles, définies par la partie législative du code du travail (articles L. 121-1 et L. 320 notamment). A la différence de la déclaration préalable d'embauche qui engage l'employeur vis-à-vis des organismes de protection sociale (article L. 320 du code du travail), une promesse d'embauche à peu d'effet juridique pour la personne qui la signe, puisqu'il s'agit d'une déclaration d'intention unilatérale de l'employeur potentiel. En effet, celui qui reçoit une promesse d'embauche n'est pas obligé de l'accepter. De plus, non définie par les textes, elle peut être rédigée de manière intemporelle, sans date de commencement ni durée d'exécution de l'emploi supposé. Pour ces raisons, il n'est pas envisagé de modifier les dispositions de la loi.
