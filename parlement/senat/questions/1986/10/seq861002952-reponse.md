@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002952
+
+- Question : [SEQ861002952](seq861002952.md) — Suppression des cabines publiques non rentables
+
+## Réponse
+
+*Postes et télécommunications, JO du 1986-11-27, page 1665*
+
+Réponse. -En dix ans, le parc français des cabines téléphoniques a décuplé ; certes un rattrapage était nécessaire, mais désormais, s'agissant des cabines implantées sur la voie publique, le parc français est de 120 000, soit davantage que dans les pays voisins pourtant légèrement plus peuplés (République fédérale d'Allemagne 110 000, Royaume-Uni 75 000, Italie 60 000). Dans le même temps, le taux d'équipement des ménages en téléphone est dévenu voisin de 95 p. 100 en zone rurale. L'équipement du pays en cabines téléphoniques sur la voie publique apparaît donc comme convenable, et le service des télécommunications a désormais le souci de satisfaire la clientèle en installant les publiphones aux endroits où il y a une réelle demande de trafic. Installer un publiphone en un endroit où la recette mensuelle est inférieure à 100 francs montre à l'évidence que la demande est pratiquement nulle, et qu'il y a gaspillage d'investissements publics coûteux. Il s'agit là en fait beaucoup plus d'un redéploiement que d'une suppression, aucune diminution spectaculaire du parc n'étant programmée. En outre des solutions de remplacement existent : le lancement récent du " point-phone ", poste mis à la disposition du public par le titulaire d'un abonnement téléphonique, permet de laisser une large place à l'initiative privée dans ce souci de sans cesse mieux satisfaire la demande téléphonique des Français hors de leur domicile ou de leur lieu de travail ; et la mise en concurrence, dans le domaine des cabines publiques, d'opérateurs autres que la direction générale des télécommunications devrait avoir des effets bénéfiques sur la qualité du service offert, voire permettre de dégager des solutions originales.
