@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432687
+
+- Question : [SEQ010432687](seq010432687.md) — Revendication de la fédération départementale des artisans ruraux de Saône-et-Loire
+
+## Réponse
+
+*Agriculture, JO du 2001-08-23, page 2690*
+
+L'honorable parlementaire appelle l'attention sur les effets indirects des crises successives que traverse l'agriculture sur les secteurs professionnels qui travaillent avec le secteur agricole et notamment les artisans ruraux. Le Gouvernement a mis en place dès novembre 2000 un plan de soutien à la filière bovine qui s'adresse aussi bien à l'amont qu'à l'aval de la filière. Un dispositif de prêts bonifiés d'un taux de 1,5 % et d'une durée de cinq ans avec un différé de remboursement de trois ans a été notamment décidé, pour un montant total de 500 millions de francs, afin d'aider les entreprises d'aval de la filière bovine. Ce plan de soutien à la filière bovine a notamment pour object de permettre aux entreprises de faire face à leurs échéances vis-à-vis de leurs créanciers, fournisseurs ou prestataires de services. Par ailleurs, dans un souci d'atténuation des conséquences de la crise pour les salariés de la filière, un arrêté du 8 décembre 2000, portant application de l'article D. 322-14 du code du travail, a augmenté le taux maximum de prise en charge par l'Etat des indemnités de chômage partiel versées par l'employeur pour le porter à 100 %. Les entreprises directement touchées par la crise ainsi que celles qui exercent une activité dépendant en majeure partie de la filière bovine (boucherie, etc.) sont éligibles à ce dispositif. Les autres entreprises confrontées à des difficultés conjoncturelles peuvent, conformément à l'article D. 322-13 du code du travail, conclure une convention avec l'Etat pour la prise en charge de leurs indemnités de chômage partiel au taux de droit commun.
