@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633663
+
+- Question : [SEQ010633663](seq010633663.md) — Transports aériens : coordination entre contrôles aériens civil et militaire renforcée
+
+## Réponse
+
+*Équipement, JO du 2001-08-09, page 2623*
+
+En France, la gestion flexible de l'espace aérien est mise en oeuvre en application d'un protocole d'accord signé en 1998 par les autorités civiles et militaires. Ce concept, adopté en 1996 par les Etats contractants d'Eurocontrol dans le cadre de cette organisation, vise à l'utilisation optimale de l'espace aérien grâce à une coopération entre autorités civiles et militaires en charge du contrôle aérien. Il repose sur la disparition de tout espace réservé en permanence à un type de circulation et sur la coordination des besoins de deux types de trafic à trois niveaux. Le niveau stratégique vise la délimitation des zones d'entraînement militaires et fait appel à un dialogue suivi nourri par des études entre les deux ministères concernés. Les décisions sont prises conjointement dans le cadre d'un directoire de l'espace aérien. Le niveau pré-tactique vise l'optimisation de l'utilisation de ces zones dans le temps en fonction des besoins, un à deux jours à l'avance. Il repose principalement sur la Cellule nationale unique de gestion de l'espace mise en place en mai 2000 à Athis-Mons. Le fonctionnement de cette cellule se traduit par un taux accru de disponibilité de l'espace d'entraînement pour les vols civils, grâce notamment à la négociation de déplacements d'horaires des manoeuvres militaires prévues, ou de réductions ou modifications de zones réservées, lorsque la demande de trafic civil excède la capacité. Le niveau tactique correspond à la coordination directe entre contrôleurs civils et militaires pour optimiser l'écoulement des trafics. Il fait l'objet de développements qui aboutiront à une coordination directe automatisée entre contrôleurs civils et militaires en 2002.
