@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205737
+
+- Question : [SEQ030205737](seq030205737.md) — Conditions de retrait de délégation à un adjoint au maire
+
+## Réponse
+
+*Intérieur, JO du 2003-04-17, page 1348*
+
+Le régime des délégations de fonctions, pour les exécutifs des collectivités territoriales, a été notablement assoupli par les dispositions de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité. Ainsi, l'article L. 2122-18 du code général des collectivités territoriales, modifié par cette loi, autorise le maire à donner des délégations à des conseillers municipaux non seulement en cas d'absence ou d'empêchement des adjoints mais aussi " dès lors que ceux-ci sont tous titulaires d'une délégation ". Cette disposition résulte d'un amendement parlementaire qui visait à institutionnaliser la notion de conseiller délégué. La reconnaissance explicite par le législateur de la capacité des conseillers municipaux d'exercer des délégations de fonctions au même titre que les adjoints, sous réserve que ces derniers en soient également dotés, permet de penser, sous réserve de l'appréciation souveraine du juge administratif, que le retrait des délégations à un adjoint ne remet pas en cause les délégations accordées aux conseillers. La jurisprudence antérieure à la loi susvisée veillait au strict respect du droit de priorité des adjoints en matière de délégations de fonctions, dans la mesure où les dispositions législatives alors en vigueur limitaient la possibilité de donner délégation aux conseillers aux seuls cas d'absence et d'empêchement des adjoints et autorisaient, en cas de retrait des délégations conférées à un adjoint, l'attribution de ces mêmes délégations à un conseiller, à l'exclusion de toute autre. La législation désormais applicable a apporté en la matière une grande souplesse que le juge ne pourrait, a priori, ignorer.
