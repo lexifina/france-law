@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113610
+
+- Question : [SEQ990113610](seq990113610.md) — Signature par la Chine du pacte des Nations Unies relatif aux droits civils et politiques
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-04-01, page 1051*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre sur le problème de la signature par la Chine du Pacte des Nations unies relatif aux droits civils et politiques. La Chine avait signé en octobre 1997 le pacte des Nations unies relatif aux droits économiques, sociaux et cultures et annoncé, en février 1998, son intention de signer le pacte des Nations unies relatif aux droits civils et politiques. Le Premier ministre chinois, M. Zhu Rongji, l'avait de nouveau évoquée lors de sa visite officielle en France en mars 1998 et M. Jospin avait eu confirmation d'une signature prochaine de ce Pacte lors de son voyage en Chine en septembre dernier. L'ambassadeur chinois auprès des Nations unies, M. Qun Huassun, a signé ce Pacte au nom de la Chine le 5 octobre 1998. Cette signature était très attendue, à la fois par la France et par l'ensemble de nos partenaires, notamment européens. Nous saluons cet engagement, qui ne peut que favoriser l'émergence d'un Etat de droit en Chine, un meilleur respect des droits de l'homme dans ce pays et une plus grande implication de la Chine dans les mécanismes internationaux en matière de droits de l'homme. Cette signature, faisant suite à la visite du haut commissaire aux droits de l'homme des Nations unies, confirme le bien-fondé de la politique du dialogue constructif avec la Chine, choisie par la France et l'ensemble des pays de l'Union européenne. La France espère maintenant que la Chine procédera des pays de l'Union européenne. La France espère maintenant que la Chine procédéra rapidement à la ratification de ces deux pactes, leur donnant ainsi une valeur contraignante.
