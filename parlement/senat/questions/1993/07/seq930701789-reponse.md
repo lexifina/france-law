@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701789
+
+- Question : [SEQ930701789](seq930701789.md) — Non-éligibilité des communautés de communes à la dotation touristique
+
+## Réponse
+
+*Intérieur, JO du 1993-09-09, page 1595*
+
+Réponse. - Aux termes de l'article L. 234-13 du code des communes, les communes et les groupements de communes touristiques et thermaux reçoivent une dotation supplémentaire destinée à tenir compte des charges exceptionnelles qui résultent, pour elles, de l'accueil saisonnier de la population non résidente à titre principal. L'article R. 234-25 prévoit que les syndicats intercommunaux et les districts sont éligibles si l'aménagement touristique constitue leur " vocation principale ". Cette exigence est incompatible avec la définition des compétences des communautés de communes qui doivent exercer deux groupes de compétences obligatoires et une groupe de compétences optionnelles, parmi lesquelles ne figure pas l'aménagement touristique, selon l'article L.167-3 du code des communes, résultant de la loi du 6 février 1992. Il convient de souligner cependant que la création d'une communauté de communes doit être fondée sur un objectif de développement et d'aménagement de l'espace en milieu rural soutenu financièrement par le concours de l'Etat au moyen de la DGF des communautés de communes qui s'est élevée à 147 MF en 1993. Par ailleurs, ceci ne préjuge pas de la possibilité pour les communautés de communes de bénéficier de la première part de la DDR, d'un montant de 360 MF en 1993, destinée aux groupements de communes, si leur projet touristique satisfait les conditions d'attribution de la DDR. Les communes peuvent bénéficier de la dotation supplémentaire, à titre individuel, ou au titre d'un autre groupement à vocation principale touristique. Les projets intercommunaux évoqués par l'honorable parlementaire ne sont donc pas pénalisés par l'état actuel de la réglementation.
