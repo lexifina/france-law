@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107995
+
+- Question : [SEQ900107995](seq900107995.md) — Employés des ateliers de réparation du réseau RER Massy-Palaiseau
+
+## Réponse
+
+*Équipement, JO du 1990-07-05, page 1483*
+
+Réponse. - Depuis quelques années, la R.A.T.P. a réalisé un immense effort d'investissement pour accroître la capacité de transport sur ses lignes tout en assurant non seulement un entretien curatif mais aussi préventif des rames. Or une plus grande amplitude des heures de pointe et l'accroissement du nombre de voyageurs ont imposé à l'entreprise une indispensable adaptation de l'organisation technique et horaire des ateliers. L'organisation déjà mise en place à Boissy et à Rueil depuis le 1er août 1989 après consultation des différentes instances représentant le personnel et portée à la connaissance de l'inspecteur du travail, a été étendue aux ateliers de Massy-Palaiseau depuis le 19 mars 1990. De plus, les aménagements d'horaires n'ont engendré aucune contrainte pour le personnel d'entretien déjà embauché puisque l'entreprise s'est engagée à n'intégrer dans les équipes travaillant selon les nouveaux horaires que les seuls agents volontaires. La participation à la création d'une nouvelle organisation et les possibilités d'amélioration des connaissances offertes par la formation spécifique dispensée ont pu être, tout au contraire, l'occasion d'une évolution sociale. Enfin, la référence à l'arrêté ministériel du 29 décembre 1942 ne concerne que les modalités d'attribution des repos hebdomadaires, en dérogation à l'article L. 221-1 du code du travail. En effet, cet article, issu de l'ordonnance 82-41 du 16 janvier 1982 précise que les dispositions en matière de repos hebdomadaire ne sont pas applicables aux personnels des chemins de fer dont les repos font l'objet de règles spéciales. Ces dernières n'ont pas pour le moment nécessité la rédaction d'un nouveau texte.
