@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515802
+
+- Question : [SEQ960515802](seq960515802.md) — Reconnaissance du génocide arménien
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-07-11, page 1738*
+
+Réponse. - A plusieurs reprises, le gouvernement français a évoqué la question des massacres des Arméniens d'Asie mineure commis dans les dernières années de l'Empire Ottoman, avant l'instauration de la République turque. La France a toujours été solidaire des victimes de ces massacres et a toujours souhaité que toute la lumière soit faite sur les origines de cette tragédie. Il ne s'agit pas d'oublier, pas plus qu'il n'est question de tolérer la falsification des faits. Il est établi qu'une large part de la population arménienne de l'ancien Empire Ottoman a été exterminée entre 1915 et 1916. Nul ne saurait le nier. La France a accueilli bon nombre d'Arméniens ayant échappé à ces massacres ; Marseille a accueilli, entre 1924 et 1927, 87 000 Arméniens d'Anatolie ; des milliers d'autres sont arrivés en France par des voies indirectes. Le douloureux parcours de ces rescapés est bien connu. En témoigne par exemple le célèbre ouvrage de Franz Werfel, Les Quarante Jours de Moussa Dagh, qui raconte comment la marine nationale a sauvé plusieurs milliers de ces Arméniens pourchassés jusque dans les montagnes où ils avaient trouvé asile. Leur souvenir se perpétue encore en République d'Arménie. Les quelque 400 000 descendants des réfugiés de ces massacres qui vivent aujourd'hui sur notre territoire se sont parfaitement intégrés à la communauté nationale. Ils ont largement leur part dans la richesse et la diversité de notre culture. Ils sont naturellement désireux de conserver vivante la mémoire du drame vécu par leurs proches. Ceci est parfaitement légitime. La France rend avec eux hommage aux victimes de cette tragédie.
