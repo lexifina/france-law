@@ -1,0 +1,3 @@
+# Article 8.2 : Champ d'application de l'accord
+
+Le champ d'application du présent accord est identique à celui des conventions collectives nationales des industries de carrières et matériaux de construction.
