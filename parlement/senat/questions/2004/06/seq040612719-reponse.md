@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612719
+
+- Question : [SEQ040612719](seq040612719.md) — Manque de places réservées aux IVG dans les hôpitaux et cliniques
+
+## Réponse
+
+*Santé, JO du 2004-09-09, page 2070*
+
+L'interruption volontaire de grossesse constitue une avancée majeure pour les femmes. Il faut à cet égard rappeler que c'est Mme Simone Veil qui l'a permise en 1975. La loi n° 2001-588 du 4 juillet 2001 relative à l'interruption volontaire de grossesse et à la contraception a porté la durée légale pour pratiquer une IVG de dix à douze semaines et a institué la possibilité de pratiquer l'IVG en dehors des établissements de santé. Son premier décret d'application n'a été publié que le 3 mai 2002. Faisant l'objet de contestations de la part des associations de médecins, il a été abrogé par le décret n° 2003-462 du 21 mai 2003. Le Gouvernement de Jean-Pierre Raffarin a relancé la concertation et est arrivé à un consensus entre les agences sanitaires et les professionnels de santé sur le texte du décret. Ainsi, le décret n° 2004-636 du 1er juillet 2004 relatif aux conditions de réalisation des interruptions volontaires de grossesse hors établissement de santé et modifiant le code de la santé publique est paru au Journal officiel du 2 juillet 2004. Par ailleurs, il a fallu négocier des prix avec les laboratoires pharmaceutiques commercialisant ces produits. Le Comité économique des produits de santé a rendu son avis en mai dernier. L'arrêté du 23 juillet 2004 relatif aux forfaits afférents à l'interruption volontaire de grossesse a été publié au Journal officiel du 28 juillet 2004. Cet arrêté tarifaire concerne également la revalorisation de l'IVG en établissement. Mes collaborateurs ont rencontré les associations de médecins et d'aide aux femmes, comme le planning familial, afin d'annoncer ces décisions le 14 juin dernier. Des circulaires d'information ont été envoyées aux établissements et aux professionnels de santé concernés par ces mesures.
