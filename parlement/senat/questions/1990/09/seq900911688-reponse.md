@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911688
+
+- Question : [SEQ900911688](seq900911688.md) — Revalorisation du statut des inspecteurs des directions départementales et régionales de l'action sanitaire et sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1990-11-15, page 2442*
+
+Réponse. - La formation et le déroulement de carrière des inspecteurs des affaires sanitaires et sociales qui jouent un rôle primordial dans la continuité de la politique sanitaire et sociale font l'objet d'une attention particulière. Ainsi les futurs inspecteurs des affaires sanitaires et sociales seront désormais recrutés par un concours spécifique et la durée de leur formation initiale sera portée à deux ans. Il importe de tenir compte de la spécificité des fonctions de ces personnels et des compétences accrues que ceux-ci devront acquérir notamment dans l'exercice de la tutelle hospitalière. En effet le projet de loi portant réforme hospitalière amènera, s'il est adopté par le Parlement, d'importants changements dont la mise en oeuvre reviendra aux inspecteurs des affaires sanitaires et sociales. Les effectifs de cette catégorie d'agents vont d'ailleurs être renforcés. Ainsi est-il prévu de recruter soixante-cinq inspecteurs supplémentaires sur trois ans. De plus un plan de revalorisation du régime indemnitaire échelonné sur quatre ans portera le niveau des indemnités à hauteur de 15 p. 100 de la masse salariale. La première étape mise en place avec effet au 1er janvier 1990 conduit déjà à une augmentation moyenne de 10 p. 100 des primes versées aux inspecteurs des affaires sanitaires et sociales. Ces décisions s'inscrivent bien entendu dans le cadre général des études menées actuellement sur les missions et l'avenir des services extérieurs des affaires sanitaires et sociales et dans le cadre des discussions interministérielles engagées en vue de réformer le statut du personnel supérieur des affaires sanitaires et sociales.
