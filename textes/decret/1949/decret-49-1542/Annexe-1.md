@@ -129,3 +129,7 @@ Piastres
 5.004
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 54-376 du 29 mars 1954, ces dispositions auront effet à compter du 1er janvier 1953.
