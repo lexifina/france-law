@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524912
+
+- Question : [SEQ000524912](seq000524912.md) — Interconnexion des résaux en ligne de l'administration avec ceux des collectivités locales, des entreprises et des associations
+
+## Réponse
+
+*Fonction publique, JO du 2000-10-05, page 3393*
+
+Réponse. - Le développement de réseaux de type Extranet au sein des administrations est l'un des axes majeurs de la stratégie de modernisation des services publics, inscrite dans le programme d'action gouvernemental pour la société de l'information. Il est indéniable que les préoccupations liées au développement du travail coopératif et à la sécurisation des échanges d'information ont présidé à la conception et à la mise en uvre des systèmes télématiques des services de l'Etat, tant au niveau central qu'au niveau déconcentré. L'exemple le plus significatif est le développement des systèmes d'information territoriaux 3SIT) qui ont pour objet de faciliter l'échange et le partage d'information entres les services déconcentrés à l'intérieur d'un même département ou d'une même région, afin de renforcer l'efficacité et la cohérence de l'action de l'Etat au niveau local. Ces systèmes seront progressivement ouverts aux collectivités locales et autres partenaires locaux de l'Etat au-delà de quelques expériences très positives déjà existantes. Dans le même esprit, les Extranet vont favoriser les échanges de données institutionnels entre la France et ses partenaires de l'Union européenne (Conseil, Commission, autres Etats membres) dans le cadre du renforcement de la coopération administrative. Enfin, des solutions de type Extranet sont privilégiées en faveur d'applications interministérielles particulièrement sensibles, telles que Solon pour l'élaboration de la procédure législative et réglementaire ou Accord pour la gestion de la comptabilité budgétaire de l'Etat.
