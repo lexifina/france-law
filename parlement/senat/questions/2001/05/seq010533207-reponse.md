@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533207
+
+- Question : [SEQ010533207](seq010533207.md) — Réflexion sur la définition du champ de l'obligation d'assurance
+
+## Réponse
+
+*Équipement, JO du 2001-09-27, page 3112*
+
+Suite aux travaux de la commission technique de l'assurance-construction, relatifs à la définition du champ de l'obligation d'assurance-construction, le gouvernement a arrêté un projet de texte qui a pour objet de garantir une meilleure sécurité juridique à l'ensemble des partenaires concernés, en précisant leur obligation d'assurance et de contribuer ainsi à un meilleur équilibre économique du système. Pour ce faire, seront modifiés les articles du code des assurances instituant les obligations d'assurance-construction, mais aussi par nécessité de cohérence avec l'option prise par quelques articles du code civil relatifs à la responsabilité décennale. Plus précisément, pour ce qui est des modifications du code civil, le terme de bâtiment serait remplacé par celui d'ouvrage et, par ailleurs, un nouvel article consacrera une jurisprudence aux termes de laquelle les équipements industriels destinés à une activité purement professionnelle ne relèvent pas de la responsabilité décennale. La modification essentielle du code des assurances consiste à introduire un chapitre qui liste les ouvrages exclus de l'obligation ; ainsi ne relèvera pas de l'obligation d'assurance la construction des ouvrages d'infrastructure, des stations d'épuration ou des ouvrages sportifs non couverts. Enfin, dans un souci de clarification, eu égard à la jurisprudence, il est précisé que l'obligation d'assurance ne s'applique pas aux ouvrages existants avant l'ouverture du chantier, à l'exception de ceux qui, totalement incorporés dans l'ouvrage neuf, en deviennent indivisibles. Le texte proposé est inséré dans le projet de loi portant diverses dispositions d'ordre économique et financier déposé devant le Parlement le 30 mai dernier.
