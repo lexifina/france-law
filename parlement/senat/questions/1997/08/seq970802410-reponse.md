@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802410
+
+- Question : [SEQ970802410](seq970802410.md) — Législation relative au commerce ambulant
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-10-09, page 2742*
+
+Réponse. - En vertu de ses pouvoirs de police, le maire est seul compétent pour autoriser l'occupation du domaine public communal et répartir les emplacements. Lorsqu'ils sont attribués aux commerçants non sédentaires, ceux-ci doivent justifier légalement leur activité. L'intervention des maires en ce domaine, en application des dispositions de l'article L. 2212-2 du code général des collectivités territoriales se limite à la seule possibilité de réglementer dans le temps et dans l'espace le commerce ambulant sur le territoire de leur commune, c'est-à-dire assigner aux commerçants des heures et lieux pour l'exercice de leur profession, à la condition que ces mesures soient rendues nécessaires pour assurer le bon ordre et la sécurité publique, notamment en matière de circulation publique. Sauf exception justifiée par des considérations d'ordre et de sécurité, toute mesure d'interdiction générale et absolue est prohibée et peut donner lieu à condamnation au versement de dommages et intérêts au profit des commerçants titulaires des documents exigés par la loi dans le cadre de leur activité. Toutefois, le maire peut interdire totalement l'exercice du commerce ambulant sur une partie du territoire de sa commune ou à certaines heures ; il peut, par exemple, interdire le colportage sur les plages, pendant la saison balnéaire, en raison de leur fréquentation. Bien entendu, les restrictions ainsi créées doivent être justifiées par des motifs de tranquillité, sécurité ou salubrité publiques, et ne pas comporter de discriminations injustifiées tendant à privilégier les commerçants résidant dans la commune.
