@@ -1,14 +1,14 @@
 # Article 4 bis
 
-Tout ouvrier a droit, sur sa demande, à un congé parental pour élever son enfant.
+Tout ouvrier a droit, sur sa demande, à un congé parental non rémunéré pour élever son enfant. La possibilité d'obtenir ce congé est ouverte, du chef du même enfant, soit au père, soit à la mère.
 
-Ce congé est accordé :
+Ce congé est accordé de droit par le chef d'établissement d'affectation de l'intéressé :
 
-- à l'ouvrière après un congé pour maternité ou à l'ouvrier après la naissance et jusqu'au troisième anniversaire de l'enfant ;
+1° A la mère après un congé de maternité, un congé d'adoption ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire ;
 
-- à l'ouvrière après un congé pour adoption ou à l'ouvrier après l'adoption d'un enfant de moins de trois ans et jusqu'à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant adopté .
+2° Au père, après la naissance de l'enfant, un congé de paternité ou un congé d'adoption ou lors de l'arrivée au foyer d'un enfant n'ayant pas atteint l'âge de la fin de l'obligation scolaire.
 
-La demande de congé parental doit être présentée au moins un mois avant le début du congé. Il est accordé par période de six mois renouvelable et prend fin au plus tard à l'issue des trois années suivant la naissance, l'arrivée au foyer de l'enfant adopté ou l'expiration du congé de maternité ou d'adoption dont a bénéficié l'ouvrière ou l'ouvrier.
+La demande de congé parental doit être présentée au moins un mois avant le début du congé. Il est accordé par période de six mois renouvelable et prend fin au plus tard au troisième anniversaire de l'enfant. Toutefois, en cas d'adoption, il prend fin trois ans au plus à compter de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de moins de trois ans, et un an au plus à compter de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de trois ans ou plus.
 
 Les demandes de renouvellement doivent être présentées deux mois au moins avant l'expiration de la période de congé parental en cours, sous peine de cessation de plein droit du bénéfice du congé parental.
 
@@ -16,7 +16,7 @@ A l'expiration de l'une des périodes de six mois, l'ouvrier peut renoncer au b�
 
 La dernière période de congé parental peut être inférieure à six mois pour assurer le respect du délai de trois années ci-dessus mentionné.
 
-Si une nouvelle naissance ou adoption survient au cours du congé parental, ce congé est prolongé jusqu'au troisième anniversaire du nouvel enfant ou, en cas d'adoption, jusqu'à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer du nouvel enfant adopté, dans les conditions prévues ci-dessus. La demande doit en être formulée un mois au moins avant la date présumée de la naissance ou de l'arrivée de l'enfant.
+Si une nouvelle naissance ou adoption survient au cours du congé parental, l'ouvrier a droit, du chef de son nouvel enfant, à une prolongation du congé parental pour une durée de trois ans au plus à compter de la naissance ou de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de moins de trois ans, et d'un an au plus à compter de l'arrivée au foyer de l'enfant adopté lorsque celui-ci est âgé de trois ans ou plus. La demande doit en être formulée un mois au moins avant la date présumée de la naissance ou de l'arrivée de l'enfant.
 
 Si l'ouvrier ne sollicite pas de nouveau congé parental, celui-ci peut être accordé à l'autre parent ouvrier. L'ouvrier qui bénéficie du congé parental est alors réintégré de plein droit à l'expiration de la période de congé parental accordée au titre du précédent enfant. L'ouvrier qui sollicite le congé parental bénéficie de ce congé à compter du jour de la réintégration de l'autre parent ; sa demande doit être formulée un mois au moins avant cette date.
 
