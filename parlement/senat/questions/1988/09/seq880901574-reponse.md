@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901574
+
+- Question : [SEQ880901574](seq880901574.md) — Gestion des étangs du domaine privé des associations agréées de pêche et pisciculture de la Moselle
+
+## Réponse
+
+*Environnement, JO du 1991-04-18, page 811*
+
+Réponse. - La circulaire ministérielle P.N./S.P.H. n° 87/77 du 16 septembre 1987 a donné aux préfets les instructions leur permettant d'étudier les données correspondant à la délimitation du champ d'application de la législation sur la pêche. Dans le cadre de ces instructions, il est considéré que des circonstances imprévisibles, accidentelles et inévitables qui mettraient en communication une eau libre avec un plan d'eau ne conduisent pas à donner à ce plan d'eau le statut juridique d'eau libre. A titre d'exemple, il a été admis que des crues exceptionnelles constituent des circonstances imprévisibles, accidentelles et inévitables. Il a été demandé aux directions départementales de l'agriculture et de la forêt d'appliquer ces dispositions sans pour autant appliquer la réglementation relative à la police de la pêche à tous les plans d'eau situés dans la zone d'extension maximale des crues. On doit toutefois considérer qu'un plan d'eau qui entre régulièrement en communication avec un cours d'eau lors des crues est soumis aux dispositions relatives à la police de la pêche. En ce qui concerne l'exercice de la pêche dans les domaines gérés par les associations agréées de pêche et de pisciculture, l'étude du dossier a montré que leur réclamation provenait de l'obligation qui leur était faite, en application de leurs statuts, de soumettre tous leurs plans d'eau à la police de la pêche. Depuis, il leur a été donné satisfaction : l'arrêté du 3 mai 1990 modifiant les statuts types des associations agréées de pêche et de pisciculture a transformé cette obligation en une faculté laissée à leur initiative.
