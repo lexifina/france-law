@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700964
+
+- Question : [SEQ880700964](seq880700964.md) — Procédure disciplinaire en matière de fonction publique territoriale
+
+## Réponse
+
+*Collectivités territoriales, JO du 1988-10-27, page 1184*
+
+Réponse. - Le décret n° 85-1141 du 23 octobre 1985 relatif à la procédure disciplinaire applicable aux fontionnaires territoriaux n'a pu entrer en vigueur, son application étant subordonnée à l'installation des nouvelles commissions administratives prévues à l'article 28 de la loi du 26 janvier 1984. Ce décret doit à présent être modifié pour tenir compte des dispositions résultant de la loi n° 87-529 du 13 juillet 1987. En particulier, les conseils de discipline étant une formation des commissions administratives paritaires, la modification du décret précité est liée à la préparation d'un nouveau décret relatif aux commissions administratives paritaires. Il est rappelé à cet égard que la loi du 13 juillet 1987 a prévu non plus des commissions administratives paritaires de corps mais des commissions pour chaque catégorie A, B, C et D de fonctionnaires. Dans l'attente, il convient donc d'appliquer, devant les conseils de discipline, les dispositions de l'article 19 de la loi n° 83-634 du 13 juillet 1983, lesquelles prévoient l'assistance de défenseurs pour le fonctionnaire incriminé, et les anciennes dispositions statutaires relatives à la procédure disciplinaire. Devant le Conseil supérieur de la fonction publique territoriale, les articles 25 à 32 du décret n° 84-346 du 10 mai 1984 modifié demeurent applicables jusqu'à l'installation des conseils de discipline départementaux. L'article 29 prévoit que le requérant peut se faire assister par un ou plusieurs défenseurs de son choix et que l'autorité territoriale peut se faire représenter ou assister.
