@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409513
+
+- Question : [SEQ900409513](seq900409513.md) — Imposition des familles d'accueil des personnes âgées ou handicapées adultes
+
+## Réponse
+
+*Budget, JO du 1990-07-19, page 1587*
+
+Réponse. - Sous le régime antérieur à l'entrée en vigueur de la loi du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes, l'hébergement par des particuliers de personnes âgées en échange d'une rémunération dont le montant est librement débattu était regardé comme une prestation de services revêtant un caractère commercial au sens de l'article 34 du code général des impôts. Les profits retirés de cette activité étaient imposables dans la catégorie des bénéfices industriels et commerciaux et passibles de la taxe sur la valeur ajoutée. L'article 6 de la loi précitée prévoit désormais que, lorsque la rémunération versée à la famille d'accueil est comprise entre un minimum, fixé par décret, et un maximum fixé par le président du conseil général et que l'indemnité représentative des frais d'entretien courant de la personne accueillie est comprise entre un minimum et un maximum fixé par décret, le régime fiscal des salaires est applicable à la rémunération journalière. Par ailleurs, le loyer versé par la personne chez la personne accueillante est imposé dans la catégorie propre à ce revenu : revenu foncier si le logement loué est nu ; bénéfices industriels et commerciaux si le logement est meublé. Dans ce dernier cas, et lorsque le montant des loyers n'excède pas 26 000 francs, la personne accueillante peut bénéficier du régime spécial d'imposition des loueurs en meublé non professionnels. Le montant du loyer est alors porté directement surle déclaration d'ensemble des revenus et le bénéfice est déterminé forfaitairement sous déduction d'un abattement de 50 p. 100 qui ne peut être inférieur à 2 000 francs.
