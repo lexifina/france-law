@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633766
+
+- Question : [SEQ010633766](seq010633766.md) — Situation au Liban
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-08-09, page 2593*
+
+La France est très attachée au rétablissement de la souveraineté et de l'autorité de l'Etat libanais sur l'ensemble de son territoire. Dans cette perspective, la fin de l'occupation israélienne au Sud-Liban a constitué une étape importante. La présence des troupes syriennes au Liban fait actuellement l'objet d'un débat au sein de la société et de la classe politique libanaises. La France, qui considère que ce débat est légitime, a la conviction que, le moment venu, un accord entre le Liban et la Syrie permettra le départ des forces armées syriennes, sur la base des arrangements de Taëf (1989). Les visites d'Etat des présidents libanais et syrien ont été l'occasion de transmettre des messages en ce sens. Le redéploiement de l'armée syrienne intervenu le mois dernier est un premier pas encourageant. S'agissant des ressortissants libanais détenus en Syrie, la France a engagé depuis plusieurs années un dialogue sur les droits de l'homme avec ce pays. Elle fait valoir toute l'importance qui s'attache à un meilleur respect des droits fondamentaux et des libertés individuelles. Les autorités syriennes ont fait récemment des gestes positifs en relâchant plusieurs centaines de détenus politiques parmi lesquels figuraient des Libanais. La France encourage le nouveau président de la République syrienne, M. Bachar El Assad, à poursuivre dans cette voie et espère qu'il saura trouver une solution rapide à la question douloureuse des prisonniers politiques. En tout état de cause, la France saisit chaque occasion, lors de contacts avec Beyrouth et Damas, pour évoquer ce sujet. La France restera fidèle à son engagement historique aux côtés du Liban. Elle continuera à plaider et à agir concrètement en faveur de l'indépendance, de la souveraineté et de l'intégrité territoriale de ce pays.
