@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231125
+
+- Question : [SEQ010231125](seq010231125.md) — Reconnaissance du provençal en tant que langue
+
+## Réponse
+
+*Éducation, JO du 2001-11-01, page 3466*
+
+La préservation et la transmission des diverses formes du patrimoine culturel et linguistique de la nation sont l'objet de la plus grande attention de la part du ministère de l'éducation nationale qui, dans le prolongement des orientations rendues publiques, le 25 avril 2001, a prévu la mise en place d'un certain nombre de mesures d'ordre réglementaires et pédagogiques de nature à dynamiser l'enseignement des langues et cultures régionales. Ce dispositif doit bénéficier à l'ensemble des langues relevant du domaine de la langue d'oc, dont le provençal. Il n'a jamais été envisagé de nier les spécificités phonétiques, morphologiques, syntaxiques et graphiques liées à la pratique de cette langue. Cette spécificité est mentionnée dans l'une des circulaires relative au programme de développement de l'enseignement des langues régionales, à l'école, au collège et au lycée, actuellement en cours de publication, et dont seront destinataires les responsables académiques, les chefs d'établissement ainsi que les directrices et les directeurs d'école. Cette circulaire souligne, dans son préambule, les liens que l'enseignement des langues régionales entretient avec l'environnement social et familial, garantissant par là même, sa relation avec la pratique linguistique vivante. S'agissant plus particulièrement de la présence du provençal dans l'enseignement dispensé au lycée et dans les épreuves du baccalauréat, il convient de rappeler que les dispositions de l'arrêté du 15 avril 1988 demeurent en vigueur. Aussi, les craintes qui pourraient se manifester quant à l'avenir du provençal devraient elles être dissipées.
