@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801657
+
+- Question : [SEQ020801657](seq020801657.md) — Situation des personnes atteintes de fibromyalgie
+
+## Réponse
+
+*Santé, JO du 2002-11-21, page 2818*
+
+Les douleurs chroniques de la fibromyalgie peuvent, au même titre que les autres douleurs chroniques (lombalgies, céphalées chroniques, douleurs cancéreuses), bénéficier d'une prise en charge spécifique et optimale fondée sur des règles d'organisation et des principes thérapeutiques fixés dans la circulaire DGS/DH n° 3 du 7 janvier 1994 relative à l'organisation des soins et à la prise en charge des douleurs chroniques. Ces dispositions sont renforcées par le programme national de lutte contre la douleur (2002-2005) qui vise, entre autres objectifs, à améliorer l'accès de tous les patients souffrant de douleurs chroniques rebelles, quelle qu'en soit l'origine, à des structures spécialisées. Le renforcement de ces structures constitue une des mesures prioritaires de ce plan. En 2002, dans le cadre de la dotation régionalisée des dépenses de santé, au titre des mesures de santé publique, des crédits, à hauteur de 11,4 millions d'euros, ont été réservés notamment au renforcement des structures de prise en charge de la douleur chronique. L'objectif, à terme, est que chaque département dispose d'une consultation et chaque région d'un centre. Le recensement de ces structures, en cours de réalisation, montre déjà une nette progression du nombre de ces structures : 57 consultations (32 en 2001), 49 unités (41 en 2001) et 27 centres (23 en 2001) de prise en charge de la douleur chronique rebelle ont été identifiés par les agences régionales de l'hospitalisation conformément au cahier des charges établi en 1998 (circulaire DGS/DH n° 98 du 4 février 1998 relative à l'identification des structures de prise en charge de la douleur chronique rebelle).
