@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625843
+
+- Question : [SEQ000625843](seq000625843.md) — Subventions accordées aux établissements scolaires français dans le cadre d'un partenariat éducatif Nord-Sud
+
+## Réponse
+
+*Éducation, JO du 2000-09-21, page 3258*
+
+Réponse. - Depuis plus de dix ans, le ministère de l'éducation nationale est engagé, avec le ministère de l'agriculture et de la pêche, dans le programme de partenariat éducatif Nord-Sud (PENS) financé par le ministère des affaires étrangères. Les crédits permettant de financer les projets présentés par les établissements scolaires du premier et du second degré sont des crédits votés pour trois ans en comité du FAC (fonds d'aide et de coopération) récemment renommé FSP (fonds de solidarité prioritaire). Tous les trois ans, une nouvelle enveloppe budgétaire est engagée après vote en comité directeur du FAC. Depuis la création de ce programme, aucune évaluation n'avait été faite. Celle-ci a été prévue dans le dernier dossier de demande d'ouverture de crédits PENS présenté au comité directeur du FAC du 7 mars 1997. Son lancement n'a été effectif qu'en juin 2000. Ce retard ainsi que l'absence de résultats de cette procédure expliquent qu'aucune nouvelle enveloppe budgétaire n'ait été mise à disposition du PENS par le ministère des affaires étrangères. Le reliquat des crédits n'a pas permis, cette année, de subventionner un grand nombre de projets malgré tout l'intérêt qu'ils présentaient. Seuls les résultats de l'évaluation pourront nous éclairer sur le devenir de ce programme. Dès que le ministère de l'éducation nationale en aura eu connaissance, les délégués académiques aux relations internationales et à la coopération des rectorats d'académie en seront immédiatement informés et transmettront l'information aux établissements scolaires.
