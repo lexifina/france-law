@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003371
+
+- Question : [SEQ971003371](seq971003371.md) — Mesures pour dissuader les automobilistes de banlieue d'entrer dans Paris
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-06-04, page 1774*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant les mesures de dissuasion envers les automobilistes. Dans le cadre de la lutte contre la pollution chronique, la loi sur l'air et l'utilisation rationnelle de l'énergie du 30 décembre 1996 a renforcé le rôle des plans de déplacements urbains institués par la loi d'orientation des transports intérieurs du 30 décembre 1982. L'un des objectifs de ces plans est de diminuer le trafic automobile et de développer les transports collectifs et les modes de déplacement les moins polluants. L'adoption de ces plans est maintenant obligatoire pour les agglomérations de plus de 100 000 habitants d'ici au 1er janvier 1999. La liste des agglomérations concernées fait l'objet d'un décret actuellement en préparation. En province, la réalisation du plan incombe à l'autorité organisatrice des transports urbains. En région Ile-de-France, l'Etat a la responsabilité du plan de déplacements urbains. Par lettre conjointe en date du 6 novembre 1997, le ministre de l'équipement des transports et du logement et la ministre de l'aménagement du territoire et de l'environnement ont tenu à préciser au préfet de la région d'Ile-de-France les orientations pour la réalisation du plan de déplacements urbains. Ils ont, entre autres, insisté sur l'amélioration de la circulation des transports collectifs et le développement de lignes nouvelles afin de diminuer le trafic automobile, et l'organisation du stationnement. Le comité de pilotage présidé par le préfet de région et le comité technique présidé par le directeur régional de l'équipement d'Ile-de-France se sont déjà réunis et ont démarré un travail en ce sens.
