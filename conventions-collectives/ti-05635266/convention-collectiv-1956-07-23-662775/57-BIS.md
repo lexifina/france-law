@@ -1,3 +1,0 @@
-# Article 57 BIS
-
-Pour les collaboratrices ayant au moins un an de présence dans l'entreprise, les périodes d'arrêt de travail dues pour une maternité, y compris celles qui sont dues à un état pathologique attesté par certificat médical comme relevant de la grossesse ou des couches, seront indemnisées à 100 p. 100 des appointements mensuels des intéressées - déduction faite des indemnités perçues au titre de la sécurité sociale ou de tout autre régime de prévoyance comportant une cotisation versée au moins partiellement, par l'entreprise - pendant une durée maximale de six semaines avant la date présumée de l'accouchement et de huit semaines après la date de celui-ci.
