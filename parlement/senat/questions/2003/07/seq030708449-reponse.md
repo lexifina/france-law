@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708449
+
+- Question : [SEQ030708449](seq030708449.md) — Mise en oeuvre des tarifs forfaitaires de responsabilité (TFR)
+
+## Réponse
+
+*Santé, JO du 2004-06-03, page 1212*
+
+Le Gouvernement a décidé de mettre en place des tarifs forfaitaires de responsabilité (TFR) car, en dépit des efforts de substitution des pharmaciens, le développement des médicaments génériques demeurait insuffisant au regard des besoins de financement de la sécurité sociale. Le mécanisme du TFR consiste à rembourser les médicaments, qu'ils soient princeps ou génériques, sur la base du prix des génériques. Le premier effet de cette mesure est une hausse importante de la pénétration des génériques. Alors que celle-ci stagnait depuis mars 2003, les TFR ont permis une croissance de plus de 10 points depuis septembre 2003. Le générique, pour la première fois, a dépassé 60 % de taux de pénétration dans le répertoire. Ce chiffre est à rapprocher du 33 % de pénétration de mai 2002. Il n'est donc pas raisonnable de dire que le TFR pénalise les génériques. Le sénateur relaie la demande des pharmaciens qui craignent que l'arrivée des TFR ne désoriente de nombreux malades qui pourraient se voir dispenser plusieurs génériques différents. Il est à noter que le phénomène décrit est propre au générique et non à la mise en place des TFR. En effet, lorsqu'une molécule est tombée dans le domaine public, elle peut être copiée par plusieurs génériqueurs. Les pharmaciens, exerçant leur droit de substitution, sont alors susceptibles de délivrer tel ou tel générique. La mise en place des TFR ne modifie pas cette situation. Enfin, il est à noter qu'il est dans la nature même du générique d'être substituable. Ces changements ne posent donc aucun problème. Enfin, pour ce qui est de l'identification de l'emballage par les patients, il appartient au pharmacien d'officine de veiller à ce que le patient identifie correctement les produits qui lui sont délivrés.
