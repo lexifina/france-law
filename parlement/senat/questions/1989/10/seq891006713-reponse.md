@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006713
+
+- Question : [SEQ891006713](seq891006713.md) — Remboursement de l'amniosynthèse
+
+## Réponse
+
+*Solidarité, JO du 1989-12-28, page 2197*
+
+Réponse. - La prise en charge par l'assurance maladie du dépistage des anomalies chromosomiques est organisée dans le cadre d'une convention passée entre la Caisse nationale de l'assurance maladie des travailleurs salariés et l'Association française pour le dépistage et la prévention des maladies métaboliques et des handicaps de l'enfant, d'une part, l'Association française des centres d'études de biologie prénatale, d'autre part. Le diagnostic ante-natal, financé par la caisse nationale au titre de l'action sanitaire et sociale, est proposé aux femmes dont les risques d'avoir un enfant atteint sont élevés, c'est-à-dire, d'une part, aux femmes âgées de trente-huit ans et plus au moment de l'examen, d'autre part, aux couples dont l'un ou les deux membres présentent une anomalie de structure chromosomique équilibrée, ou aux couples ayant eu antérieurement un enfant atteint d'une aberration chromosomique quel que soit l'âge de la femme, ainsi qu'aux femmes pour lesquelles des signes d'appel ont été détectés, notamment lors d'une échographie. Les femmes ne remplissant pas ces conditions ont la possibilité de se faire prescrire ces examens, qui restent alors à leur charge. Ce sont les risques encourus par le foetus à l'occasion de l'amniocentèse qui ont conduit les responsables médicaux de l'Association française pour le dépistage et la prévention des maladies métaboliques et des handicaps de l'enfant à limiter les indications concernant plus particulièrement l'âge minimal de trente-huit ans requis pour la prise en charge de l'amniocentèse par l'assurance maladie. Un groupe d'experts est actuellement chargé de réexaminer la justification médicale de l'âge.
