@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207556
+
+- Question : [SEQ891207556](seq891207556.md) — Bilan des travaux pour réduire les points noirs sur les routes
+
+## Réponse
+
+*Équipement, JO du 1990-03-08, page 488*
+
+Réponse. - Bien que l'on observe un certain nombre de zones de forte accumulation, les accidents sont malgré tout assez uniformément répartis sur tout le réseau routier. Les points noirs du réseau routier national concernent une partie relativement marginale, bien que non négligeable, du total des accidents et des 10 500 tués par an (dont 3 500 sur routes nationales). Par ailleurs, des études montrent que les facteurs déterminants dans les causes d'accident sont très souvent liés au comportement des usagers, le rôle de l'infrastructure étant quant à lui assez réduit. L'amélioration du réseau national et la résorption des points noirs, bien que permettant de sauver de nombreuses vies, ne sauraient contribuer seules à abaisser de façon particulièrement significative le nombre de tués dans l'ensemble des accidents de la route. Néanmoins, en 1988, 48 opérations destinées à la résorption des points noirs sur les routes nationales ont été financées par l'Etat pour unmontant global de 86,347 MF. Ces 48 points noirs avaient été le théâtre en cinq ans de 1 032 accidents, pour un bilan de 187 tués et 624 blessés graves. En 1989, ce sont 84 opérations qui ont été financées, pour un montant de 153,044 MF, le bilan des accidents concernés étant de 324 tués, 965 blessés graves et 1 885 blessés légers. Enfin, il convient de souligner que, parallèlement, l'attribution de crédits d'initiative locale dans les départements a également permis de traiter de nombreuses zones d'accumulation d'accidents corporels ; il en va de même pour les mesures de sécurité qui accompagnent les renforcements coordonnés sur routes nationales.
