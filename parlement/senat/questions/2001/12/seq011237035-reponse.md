@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237035
+
+- Question : [SEQ011237035](seq011237035.md) — Affectation de fonctionnaires Télécom à Wanadoo
+
+## Réponse
+
+*Industrie, JO du 2002-02-14, page 495*
+
+Le Conseil d'Etat, dans son avis du 18 novembre 1993, a précisé les conditions qui devaient être réunies pour que des fonctionnaires de l'Etat puissent être placés en position d'activité auprès d'une société anonyme. Notamment, le capital de l'entreprise doit être majoritairement détenu par l'Etat, et l'entreprise doit être chargée d'un service public. La loi n° 96-660 du 26 juillet 1996 relative à l'entreprise nationale France Télécom a transformé l'exploitant public en société anonyme, dont l'Etat détient plus de la moitié du capital social ; elle a rattaché les corps de fonctionnaires de France Télécom à l'entreprise nationale et les a placés sous l'autorité de son président, qui dispose des pouvoirs de nomination et de gestion à leur égard. Le décret n{-o 96-1174 du 27 décembre 1996 approuvant les statuts de France Télécom prévoit, conformément au code des postes et télécommunications, que la société a pour objet d'assurer des services de télécommunications relevant du service public ainsi que, dans le respect des règles de la concurrence, tous autres services de télécommunications. Ainsi, le personnel fonctionnaire en position d'activité au sein de France Télécom assure à la fois des activités relevant du service public et des activités n'en relevant pas. S'agissant des " plates-formes Wanadoo ", celles-ci sont des services de l'entreprise nationale ; comme la loi du 2 juillet 1990 le permet, les fonctionnaires qui y sont affectés demeurent en position d'activité, à la différence des fonctionnaires travaillant au sein de la filiale Wanadoo qui ont fait le choix d'une mise à disposition ou d'un détachement, conformément aux dispositions prévues par leur statut.
