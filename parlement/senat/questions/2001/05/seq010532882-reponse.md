@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532882
+
+- Question : [SEQ010532882](seq010532882.md) — Protocole de Kyoto
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-06-14, page 2000*
+
+La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la position américaine de ne pas réglementer les émissions de dioxyde de carbone. Le Président américain a récemment remis en cause la stratégie internationale de maîtrise des émissions de gaz à effet de serre, de façon unilatérale, sans aucune concertation, estimant que la protocole de Kyoto était injuste, car il exonérerait 80 % des pays de tout engagement. Ce protocole, conclu en 1997 par la communauté internationale et signé l'année suivante par la précédente administration américaine, impose aux pays développés des réductions d'émission de gaz carbonique (CO2) et autres gaz à effet de serre. Les Etats-Unis, principal pays émetteur de gaz à effet de serre, prendraient une très lourde responsabilité en remettant en cause un accord approuvé unanimement par la communauté internationale pour combattre le changement climatique qui menace l'avenir de la planète et de l'humanité. Les pays industralisés ne peuvent en effet différer davantage la mise en oeuvre des mesures effectives de réduction de leurs émissions. La ministre de l'aménagement du territoire et de l'environnement a tout aussitôt saisi son homologue américaine pour lui demander de revoir sa position. La réaction des pays de l'Union européenne mais aussi celle des grands pays en voie de développement et même des principaux partenaires des Etats-Unis a été forte et a montré l'isolement des Etats-Unis sur cette question. Le Gouvernement français, fort de l'appui de la représentation nationale, reste déterminé à négocier et à parvenir à un accord permettant l'entrée en vigueur du protocole de Kyoto dès 2002.
