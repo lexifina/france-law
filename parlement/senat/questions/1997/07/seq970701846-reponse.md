@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701846
+
+- Question : [SEQ970701846](seq970701846.md) — Conditions d'agrément et d'assermentation de certains agents communaux en vue de la constatation des infractions aux règles du code de la route
+
+## Réponse
+
+*Intérieur, JO du 1998-03-12, page 846*
+
+Réponse. - La surveillance du stationnement est au nombre des missions dévolues aux agents de police municipale régis statutairement par le décret no 94-732 du 24 août 1994 portant statut particulier de leur cadre d'emplois. L'article R. 250-1 du code de la route apporte une dérogation à cette règle. En effet, cette disposition prévoit que les contraventions aux règles concernant l'arrêt ou le stationnement des véhicules autres que celles prévues à l'article R. 37-2 et au premier alinéa de l'article R. 43 du même code peuvent être également constatées par les agents titulaires ou auxiliaires de l'Etat ou des communes chargés de la surveillance de la voie publique. Il en résulte que, sur le fondement de cet article R. 250-1 précité, le maire peut confier des missions touchant exclusivement à la surveillance de la voie publique à des fonctionnaires n'appartenant pas au cadre d'emplois des agents de police municipale, et qui pourraient relever effectivement d'autres cadres d'emplois, ou, dans les conditions prévues à l'article 3 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, à des agents non titulaires. En ce qui concerne la nature des pièces à produire en vue de l'agrément et de l'assermentation de ces personnels communaux, celle-ci fait l'objet, s'agissant des gardes champêtres, d'une réponse à une question écrite du garde des sceaux, ministre de la justice (QE no 42119 du 12 août 1996, JO AN du 10 mars 1997, p. 1230). Les conditions ainsi définies s'appliquent à l'ensemble des personnels.
