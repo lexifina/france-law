@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213939
+
+- Question : [SEQ990213939](seq990213939.md) — Création d'entreprises et d'emplois dans les petites entreprises du commerce
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-07-22, page 2510*
+
+Réponse. - A de nombreuses reprises, le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat a rappelé l'importance qu'il attache à l'appui apporté par les réseaux aux créateurs d'entreprise dans le montage de leur projet. La coordination des réseaux, la complémentarité et l'harmonisation de leurs pratiques, sont nécessaires pour garantir la pertinence et la qualité de l'accompagnement du créateur. Le réseau " Entreprendre en France " tend à se renforcer par la présence des chambres de commerce et d'industrie et des chambres de métiers. De plus, le partenariat mis en place autour des créateurs à l'échelon national avec notamment les banques, l'ordre des avocats, les experts-comptables, les notaires, les sociétés de caution mutuelle, et déclinable à l'échelon local, permet l'accompagnement du créateur dans les différents aspects de la création. Il a par ailleurs signé une convention avec l'association France Initiative Réseau dans le domaine des prêts d'honneur aux créateurs. En 1998, 3 936 " passeports pour entreprendre ", attestant les parcours suivis par le créateur-repreneur et leur ouvrant l'accès à diverses prestations les trois premières années, ont été délivrés, soit 38 % de plus qu'en 1997. 3 704 entreprises " passeport " ont vu le jour, créant 7 049 emplois. Le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat encourage le bon fonctionnement d'" Entreprendre en France " en favorisant l'entrée des chambres de métiers dans ce réseau (17 adhérents en 1998), ce qui va permettre d'élargir le nombre de projets en cours.
