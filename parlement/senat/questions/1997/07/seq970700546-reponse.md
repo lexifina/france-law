@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700546
+
+- Question : [SEQ970700546](seq970700546.md) — Forces françaises en Bosnie-Herzégovine
+
+## Réponse
+
+*Défense, JO du 1997-08-21, page 2160*
+
+Réponse. - Les militaires appartenant aux forces françaises en Bosnie-Herzégovine bénéficient de conditions satisfaisantes pour communiquer avec leurs familles. En effet, le courrier est convoyé quasi quotidiennement (six jours sur sept) par des vols militaires complétés par l'emploi de moyens civils. Ainsi, pour les quatre premiers mois de l'année, 71 tonnes de courrier ont été acheminées. De plus, les relations téléphoniques privées des militaires avec leurs familles vont être améliorées grâce à un nouveau système qui permettra de joindre la métropole à partir de cabines téléphoniques avec prépaiement par carte, pour un coût de 3 francs/minute au lieu de 7 francs/minute actuellement. En ce qui concerne les indemnités perçues par les militaires français servant en Bosnie-Herzégovine, elles seront prochainement modifiées dans le cadre d'une réforme globale du dispositif des rémunérations des militaires à l'étranger. Cette réforme vise à supprimer les disparités de traitement d'un théâtre d'engagement à l'autre et à distinguer la situation des militaires affectés à l'étranger de celle des militaires en mission de courte durée. Ainsi, le nouveau mode de calcul des rémunérations intégrera, en plus de la solde perçue en France, une indemnité de sujétion pour service à l'étranger et un supplément pour enfant à charge destiné à compenser les frais inhérents à l'absence de courte durée d'un père ou d'une mère de famille. Quant à la réputation des unités françaises en ex-Yougoslavie, leur comportement exemplaire est régulièrement rapporté par les médias nationaux et étrangers, notamment à l'occasion d'événements particuliers.
