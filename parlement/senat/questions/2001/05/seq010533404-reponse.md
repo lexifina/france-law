@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533404
+
+- Question : [SEQ010533404](seq010533404.md) — Pôles économiques et financiers des tribunaux
+
+## Réponse
+
+*Justice, JO du 2001-08-09, page 2635*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le développement des pôles économiques et financiers constitue un élément essentiel dans la lutte contre la délinquance économique et financière. S'agissant du statut des assistants spécialisés, et tirant les enseignements du rapport établi par le groupe de suivi de ces pôles, un amendement a été déposé par le Gouvernement devant le Sénat à l'occasion de l'examen en première lecture le 5 juin 2001 du projet de loi portant mesures urgentes à caractère économique et financier. Cet amendement ayant été rejeté par le Sénat, le Gouvernement envisage de le redéposer devant le Parlement dans les meilleurs délais. Par ailleurs, la garde des sceaux a décidé non seulement de renforcer les pôles financiers de Paris, Lyon, Marseille et Bastia par l'affectation de magistrats, de fonctionnaires et d'assistants spécialisés, mais aussi de créer deux pôles, l'un à Fort-de-France, l'autre à Lille. Ces créations répondent à une demande formée par les chefs de cour, soucieux d'apporter une réponse satisfaisante à la délinquance qu'ils connaissent dans le ressort de ces juridictions. Enfin, des assistants spécialisés supplémentaires seront affectés aux juridictions spécialisées en matière économique et financière de Nanterre, Toulouse, Bordeaux et Rouen. Ainsi tous les moyens sont mis en oeuvre pour développer une structure qui permet à l'autorité judiciaire de traiter plus rapidemment et plus efficacement ces contentieux en faisant la preuve de sa capacité à s'ouvrir à des collaborations extérieures au monde judiciaire.
