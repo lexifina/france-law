@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028127
+
+- Question : [SEQ001028127](seq001028127.md) — Pensionnés de la marine marchande ayant servi en Afrique du Nord
+
+## Réponse
+
+*Équipement, JO du 2001-02-01, page 405*
+
+Réponse. - La loi nº 99-882 du 18 octobre 1999 a substitué à l'expression " aux opérations effectuées en Afrique du Nord ", l'expression " à la guerre d'Algérie ou aux combats en Tunisie et au Maroc ". Cette mesure a permis la réalisation d'une très ancienne revendication des anciens combattants d'Afrique du Nord. Toutefois, les bases juridiques ne sont pas actuellement posées pour que le doublement des services soit admis. Cette substitution ne vaut que pour le code des pensions militaires d'invalidité et des victimes de guerre, seul modifié. Les travaux préparatoires de la loi attestent d'ailleurs de la portée limitée de ce texte. Dans ces conditions, pas plus le code des pensions de retraite de marins (CPRM) que le code des pensions civiles et militaires n'ont été modifiés, et la loi précitée n'a pas d'effets à leur égard, au contraire de la loi du 18 juillet 1952 pour l'Indochine et la Corée. Cette dernière a en effet accordé aux anciens combattants des guerres de 1914-1918 et de 1939-1945, ce qui explique que, nonobstant l'absence de modification de l'article R 6 du CPRM, le doublement des services soit accordé aux marins anciens combattants en Indochine et en Corée. Il ne peut en aller de même, sans base légale, pour les marins, anciens combattants en Afrique du Nord. L'égalité des anciens combattants des différents régimes implique que le doublement des services soit réalisé dans un cadre global. Il est bien entendu que les revendications des marins seraient prises en compte si une réforme était envisagée dans ce sens, complétant le dispositif partiel de la loi du 18 octobre 1999.
