@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621532
+
+- Question : [SEQ920621532](seq920621532.md) — Retrait des troupes ex-soviétiques des Etats baltes
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-08-06, page 1781*
+
+Réponse. - Comme le sait l'honorable parlementaire, la France, par la voix du Président de la République, lors de sa visite d'Etat en Lituanie, en Lettonie et en Estonie a pris une position claire et sans ambiguïté sur le retrait des troupes russes des Etats baltes. Celui-ci doit intervenir le plus rapidement possible, dans la mesure où ces pays, pleinement souverains, le souhaitent. La France, qui n'a jamais reconnu l'annexion des Etats baltes, les soutient pleinement sur ce principe. Il leur revient de trouver par des négociations une solution bilatérale avec la Russie, afin de régler le calendrier et les modalités de ce retrait. Les Etats baltes savent qu'ils peuvent compter sur la bonne volonté du Président Eltsine, qui a soutenu la restauration de leur indépendance, y compris lors des heures difficiles du coup d'Etat manqué en août 1991. Nous déplorons cependant pour notre part, les lenteurs et les difficultés qui accompagnent la mise en oeuvre de la décision de retrait, prise dès le début de cette année, mais nous restons confiants dans la possibilité de voir trouver prochainement un accord entre les parties concernées. Faute de celui-ci, il serait toutefois nécessaire de saisir les instances internationales. Une fois l'accord, que nous espérons, trouvé entre les Etats baltes et la Russie, il pourra être envisagé d'apporter une aide spéciale pour faciliter les opérations de retrait. La conférence de la C.E.E. qui s'est réunie à Lisbonne les 23 et 24 mai a consacré un groupe de travail spécifique à cette question. Il conviendra de la régler en son temps, sans se dissimuler que le relogement des troupes russes n'est qu'un aspect particulier d'un problème politique plus vaste, auquel la France accorde toute l'attention qu'il mérite.
