@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103593
+
+- Question : [SEQ861103593](seq861103593.md) — Déroulement de carrière de certains enseignants
+
+## Réponse
+
+*Éducation, JO du 1987-04-30, page 667*
+
+Réponse. -La situation des professeurs agrégés et des professeurs certifiés au regard de leur déroulement de carrière, et notamment de leurs perspectives de promotion de grade ou de corps, n'a pas échappé au ministre de l'éducation nationale. Il apparaît nécessaire, en effet, d'envisager l'amélioration de ces perspectives au profit de professeurs dont les qualités professionnelles sont reconnues et qui peuvent, de ce fait, atteindre rapidement les échelons terminaux de leur grade. Des mesures en ce sens ont déjà été prises ou sont sur le point d'intervenir, portant sur l'élargissement des possibilités d'accès par voie de liste d'aptitude au corps des professeurs agrégés. C'est ainsi que le décret n° 85-850 du 6 août 1985 a porté du 1/9 au 1/7 des titularisations, prononcées l'année précédente, de professeurs agrégés recrutés par la voie du concours, les possibilités d'inscription sur la liste d'aptitude ouverte à l'ensemble des professeurs certifiés et des professeurs d'éducation physique et sportive répondant à des conditions minimales d'âge et d'ancienneté de service. Un projet de décret en instance de publication doit porter du 1/30 au 1/20 les possibilités d'inscription sur la liste d'aptitude particulière, ouverte aux membres de ces mêmes corps qui occupent un emploi de direction d'établissement d'enseignement ou de formation. Pour l'avenir, des réflexions sont en cours sur les moyens, tant statutaires que budgétaires, qui permettraient encore d'améliorer le déroulement de la carrière des professeurs agrégés et des professeurs certifiés. Ces réflexions ayant pour cadre la préparation de la loi de finances pour 1988, il est prématuré d'indiquer sur quelles propositions elles sont susceptibles de déboucher, compte tenu des contraintes budgétaires.
