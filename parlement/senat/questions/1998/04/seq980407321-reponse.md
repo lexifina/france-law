@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407321
+
+- Question : [SEQ980407321](seq980407321.md) — Généralisation des sociétés à forme tontinière
+
+## Réponse
+
+*Économie, JO du 1998-06-18, page 1941*
+
+Réponse. - Les sociétés à forme tontinière mentionnées à l'article L. 322-26-4 du code des assurances constituent une forme particulière de sociétés d'assurances mutuelles. Comme toutes les entreprises d'assurance elles doivent obtenir un agrément pour pouvoir pratiquer leurs opérations et sont soumises au contrôle de la Commission de contrôle des assurances. Ces sociétés réunissent leurs adhérents en groupes distincts dénommés associations et répartissent, à l'expiration de chacune des associations, les fonds provenant de la capitalisation en commun de leur cotisation, déduction faite des frais de gestion, entre les survivants des associations en cas de vie ou entre les ayants droit des décédés des associations en cas de décès, en tenant compte de l'âge des adhérents et de leurs versements. Elles fonctionnent dans les conditions énumérées aux articles R. 322-139 à R. 322-159 du code des assurances. En particulier, aucune association en cas de survie ne peut avoir une durée inférieure à dix ans, ni moins de deux cents adhérents. Aucune somme déterminée ne peut être garantie à l'avance. Ainsi, le cadre juridique régissant l'activité de ces sociétés paraît suffisamment élaboré. Actuellement, aucune demande d'agrément en vue de créer de nouvelles sociétés à forme tontinière n'a été déposée auprès des services du département ministériel. Dans cette hypothèse, le dossier d'agrément serait instruit selon les procédures habituelles. Des cas de pratique illégale peuvent exister. Le ministère de l'économie, des finances et de l'industrie engagerait des poursuites s'il avait connaissance de cas précis.
