@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910817022
+
+- Question : [SEQ910817022](seq910817022.md) — Revalorisation des forfaits des maisons de retraite
+
+## Réponse
+
+*Famille, JO du 1991-12-05, page 2714*
+
+Réponse. - La circulaire n° 91-01 du 22 janvier 1991 a permis la mise en place du programme pluriannuel de création de places de services de soins infirmiers à domicile, de sections de cure médicale et de longs séjours dans des établissements et services pour personnes âgées. Ce programme doit se traduire par la création, en trois ans, d'au moins 45 000 places médicalisées supplémentaires par rapport à la situation existant au 31 décembre 1990, ceci grâce à une enveloppe complémentaire de 1,5 milliard de francs de l'assurance maladie. C'est à chaque direction régionale qu'il appartient, conformément à ladite circulaire et en collaboration avec les directions départementales, d'arrêter le programme régional sur 3 ans de création ou d'extension de places médicalisées et de répartir dès à présent entre les départements, après concertation, le montant 1991 de l'enveloppe complémentaire ainsi que les montants qui seront ultérieurement notifiés. Par ailleurs, en 1991, les forfaits soins ont été revalorisés en long séjour de 4,6 p. 100 et en maison de retraite et service de soins de 6,2 p. 100, ceci permettant de répondre aux besoins croissants de la population âgée. Je vous précise enfin que le Gouvernement a décidé d'adapter en profondeur le système de financement de la dépendance. Dans ce but, une commission réunie auprès du commissariat général au plan a été chargée de proposer les réformes à apporter au dispositif actuel. Sur la base de ces travaux et des résultats de la mission parlementaire présidée par M. Boulard, le Gouvernement travaille à l'élaboration d'un projet de loi qui sera déposé au parlement avant la fin de l'année.
