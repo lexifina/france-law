@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700422
+
+- Question : [SEQ020700422](seq020700422.md) — Mise en conformité des incinérateurs de déchets d'une capacité inférieure à 6 tonnes/heure
+
+## Réponse
+
+*Écologie, JO du 2002-10-17, page 2384*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à la mise en conformité des usines d'incinération d'ordures ménagères. Aujourd'hui, toutes les installations d'une capacité supérieure à six tonnes par heure sont en conformité avec les dispositions de l'arrêté du 25 janvier 1991, à l'exception de l'usine du Havre. La situation des usines d'incinération d'une capacité inférieure à six tonnes par heure continue à s'améliorer, comme le montre la mise à jour régulière de la liste des installations en cause sur le site Internet du ministère de l'écologie et du développement durable. Entre début mai 2002 et fin juillet 2002, quatorze fours non conformes ont cessé leur activité et trois fermetures supplémentaires sont annoncées avant la fin du mois de septembre. Il demeure toutefois en fonctionnement vingt-trois usines non conformes. La ministre de l'écologie et du développement durable a, par courrier du 27 juin 2002 qui figure sur le site Internet du ministère, rappelé aux préfets concernés l'importance qu'elle attachait à ce que les actions soient fermement poursuivies afin de conduire à l'arrêt rapide des installations non conformes. La ministre a également demandé à la profession du traitement des déchets de veiller à proposer aux collectivités concernées, y compris celles qui exploitent des installations non conformes en régie, des solutions alternatives pour le traitement des déchets. L'absence de solution alternative ne doit en effet pas constituer un prétexte à la poursuite de l'activité d'usines polluantes, qui ne représentent par ailleurs que moins de 5 % du tonnage incinéré.
