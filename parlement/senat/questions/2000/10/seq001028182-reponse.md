@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028182
+
+- Question : [SEQ001028182](seq001028182.md) — Conséquences de la hausse du prix du gazole dans le secteur de l'artisanat du bâtiment
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-03-01, page 758*
+
+Réponse. - Le Gouvernement a pris d'importantes mesures fiscales visant à alléger la fiscalité pétrolière. La taxe intérieure sur les produits pétroliers (TIPP) et sur le fioul domestique a diminué de 30,40 % à compter du 21 septembre 2000. En revanche, le Gouvernement n'a pas autorisé certaines profession à utiliser le fioul domestique comme carburant. Une telle mesure aurait été contraire aux dispositions de l'article 265 ter du code des douanes. En réalité, certains transporteurs rencontrant des difficultés d'approvisionnement ont été contraints d'utiliser ce moyen. Les pouvoirs publics ont accepté de ne pas les sanctionner compte tenu de circonstances exceptionnelles et dans la mesure où les intéressés ont régularisé leur situation en reversant au Trésor le différentiel de taxe. La TIPP sur le gazole a baissé de 20 centimes par litre à compter du 1er octobre 2000. Le projet de loi de finance, pour 2001 instaure une " TIPP flottante " visant à diminuer le prélèvement fiscal du fait d'une augmentation au-delà d'un certain seuil du prix du pétrole. Ces mesures bénéfient à l'ensemble des entreprises. Les entreprises individuelles bénéficient d'autres mesures d'allégements fiscaux : l'exonération de la vignette sur les véhicules utilitaires de moins de 2 tonnes et la baisse des tranches du barème de l'impôt sur le revenu. Il apparaît donc que les orientations prises par le Gouvernement de diminuer l'imposition des bénéfices concernent l'ensemble des petits et moyennes entreprises et, en particulier, celles de l'artisanat du bâtiment. En outre, ces dernières bénéficient des effets importants de la baisse de la TVA sur certains travaux.
