@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734570
+
+- Question : [SEQ010734570](seq010734570.md) — Aménagement du régime de l'ISF
+
+## Réponse
+
+*Budget, JO du 2001-11-22, page 3702*
+
+Aux termes de l'article 885 E du code général des impôts, l'assiette de l'impôt de solidarité sur la formule est constituée par la valeur nette au 1er janvier de l'année d'imposition de l'ensemble des biens, droits et valeurs appartenant au redevable ainsi qu'à son conjoint et à leurs enfants mineurs lorsqu'ils ont l'administration légale des biens de ceux-ci. En application de ces principes, les pensions de retraite qui n'ont pas de valeur patrimoniale, dès lors qu'elles ne sont ni cessibles, ni transmissibles sauf par réversion, échappent à l'impôt de solidarité sur la fortune. Il en est de même des rentes viagères mentionnées à l'article 885 J du code précité qui sont assimilées à des retraites. En effet, il résulte de ces dispositions que la valeur de capitalisation des rentes viagères constituées dans le cadre d'une activité professionnelle auprès d'organismes institutionnels, moyennant le versement de primes périodiques et régulièrement échelonnées pendant une durée d'au moins quinze ans et dont l'entrée en jouissance est subordonnée à la cessation de l'activité professionnelle à raison de laquelle les primes ont été versées, n'entre pas dans le calcul de l'assiette de l'impôt. Cette exonération est susceptible de s'appliquer aux rentes servies par un fonds de pension étranger. Bien entendu, l'ensemble de ces dispositions n'est pas applicable à la fraction non consommée au 1er janvier de l'année d'imposition, des sommes perçues au titre des pensions de retraite et rentes assimilées. Ces disponibilités doivent en effet être déclarées dès lors qu'elles font partie du patrimoine du redevable au jour du fait générateur de l'impôt. Ces précisions sont de nature à répondre aux préoccupations exprimées.
