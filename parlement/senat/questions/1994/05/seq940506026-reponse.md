@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506026
+
+- Question : [SEQ940506026](seq940506026.md) — Nationalité : interprétation de l'article 21-20 du code civil
+
+## Réponse
+
+*Affaires sociales, JO du 1994-06-30, page 1606*
+
+Réponse. - Les dispositions de l'article 21-20 du code civil (rédaction de la loi du 22 juillet 1993) ont pour but essentiel d'accorder un régime privilégié (dispense du stage de cinq ans) pour les postulants à l'acquisition de la nationalité française de culture francophone. Ce texte doit donc être interprété d'une manière libérale. Dans cet esprit, les termes " établissement, enseignement en langue française " visent tous les établissements dispensant un enseignement en langue française, à titre principal, quel que soit leur statut juridique. Il suffit donc que les intéressés jusitifient de cinq années de scolarisation au minimum dans ces établissements pour bénéficier de la dispense de stage, à condition naturellement que le français soit la langue officielle ou l'une des langues officielles de leur pays. En revanche, la dispense de stage précitée n'exonère pas le postulant à la naturalisation de l'obligation de remplir la condition de résidence en France au moment de la signature du décret de naturalisation prévue par l'article 21-16 du code civil. Cette interprétation a été confirmée à plusieurs reprises par le Conseil d'Etat (CE 28-02-1986, ministère des affaires sociales C/époux Bouhanna no 57.464 Revue critique 1986.457). En conséquence, il paraît inutile de conseiller aux intéressés de déposer des demandes de naturalisation auprès du consultat général de France de leur domicile, car elles ne pourraient qu'être déclarées irrecevables par le ministre chargé des naturalisations au regard du texte précité, sauf naturellement s'ils justifient d'une assimilation de résidence en France au sens de l'article 21-26 du code civil.
