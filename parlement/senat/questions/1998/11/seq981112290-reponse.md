@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112290
+
+- Question : [SEQ981112290](seq981112290.md) — Nombre de fonctionnaires de la Commission européenne ayant reçu une formation à l'Ecole nationale d'administration (ENA)
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-02-25, page 591*
+
+Réponse. - Des sessions de formation ont été mises en place par l'Ecole nationale d'administration de 1994 à 1997 à l'intention de fonctionnaires de la Commission européenne. Ces sessions de formation portent sur l'étude du système administratif français. En 1997, deux sessions ont été programmées en faveur des fonctionnaires communautaires. En 1998, l'ENA n'a pas organisé de sessions de formation pour les fonctionnaires de la Commission, en raison de l'existence de formations quasiment identiques pour les mêmes catégories de personnel, organisées par l'Institut international d'administration publique sur financement de la DGAFP. En effet, l'IIAP a mis en place en 1998 à l'intention d'administrateurs de la Commission européenne un cycle court (19 au 30 octobre 1998) sur la présentation de l'administration française. Ce sont au total 19 fonctionnaires de nationalités espagnole, italienne, belge, irlandaise, britannique, grecque et portugaise qui ont pu bénéficier de cette formation. En 1998, le ministère des affaires étrangères a demandé à l'ENA d'organiser une session d'une semaine à Paris pour vingt-cinq interprètes du service commun d'interprétation-conférences (SCIC) des Communautés européennes : perfectionnement linguistique en français et surtout familiarisation au fonctionnement de l'administration française. Il importe en effet que le français soit conforté dans son rôle de langue-pivot pour l'interprétation entre langues peu diffusées. Ce sont au total 70 fonctionnaires de la Commission qui ont bénéficié de ces formations.
