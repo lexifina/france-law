@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506167
+
+- Question : [SEQ940506167](seq940506167.md) — Paiement de la cotisation sociale généralisée (CSG) par les personnes retraitées
+
+## Réponse
+
+*Budget, JO du 1995-02-23, page 439*
+
+Réponse. - La loi de finances pour 1991 instituant une contribution sociale généralisée (CSG) a effectivement prévu, en son article L. 132 II, que " les contribuables dont la cotisation d'impôt sur le revenu est inférieure au montant mentionné à l'alinéa 1 bis de l'article 1657 du code général des impôts ne sont pas assujettis à la contribution ". Dès la mise en service de sa pension, le retraité est informé par la Caisse nationale de vieillesse des travailleurs salariés du prélèvement de la CSG, comme de celui de la cotisation de solidarité d'assurance maladie, ainsi que des conditions de leur exonération. Il appartient au retraité d'apporter, selon l'article D. 242-11 du code de la sécurité sociale, la preuve de sa non-imposition auprès du comptable assignataire de sa pension pour bénéficier de cette exonération. Par ailleurs, si une personne retraitée s'aperçoit tardivement qu'elle remplit les conditions d'exonération, les caisses remboursent les prélèvements effectués, et ce, dans un délai de prescription de deux ans. L'information régulière assurée par les caisses de retraite n'apporte pas de difficulté majeure puisque selon les dernières données disponibles, 58 p. 100 des retraités bénéficient du système d'exonération. Néanmoins, le Gouvernement comprend et partage les préoccupations exprimées par l'honorable parlementaire. C'est la raison pour laquelle vient d'être engagée une étude portant sur les conditions et possibilités d'une transmission informatisée, par la direction générale des impôts, des données fiscales utiles aux organismes sociaux pour apprécier la situation des retraites au regard de la CSG.
