@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880701090
+
+- Question : [SEQ880701090](seq880701090.md) — Suite d'une étude sur l'utilisation des sous-sols à usage d'abris antiretombées
+
+## Réponse
+
+*Équipement, JO du 1988-09-22, page 1057*
+
+Réponse. - L'étude - de portée limitée - réalisée par P.X.- Consultants en 1985 a contribué à la mise au point d'un projet de brochure : " Utilisation des sous-sols existants à usage d'abris anti-retombées ", qui indique les dispositions simples permettant aux particuliers d'organiser leur survie en cas d'agression nucléaire. La diffusion au grand public d'un tel document n'a pas été faite : l'impact sur une opinion publique non préparée imposait une grande prudence. Depuis lors, les incertitudes liées à l'évolution de la politique internationale et à des accidents technologiques tels que celui de Tchernobyl nous ont conduit à reconsidérer la situation. Ces problèmes sont abordés par une étude interministérielle sous forme d'une analyse fonctionnelle de la protection des populations. Les conclusions en seront connues très prochainement. Par ailleurs, le haut fonctionnaire de défense du ministère de l'équipement et du logement s'efforce de rechercher auprès de divers pays européens des éléments propres à orienter une politique française en matière de mise à l'abri des populations. Une diffusion nationale de la brochure concernée pourrait donc être éventuellement envisagée à l'issue de ces différentes analyses. Elle peut être d'ores et déjà communiquée à l'honorable parlementaire. L'étude de P.X.- Consultants a également fourni quelques éléments qui ont été utilisés dans une refonte de la brochure " Recommandation pour la construction d'abris civils contre les risques de guerre ", éditée en 1981. Une diffusion de la nouvelle édition aux milieux administratifs et professionnels pourra être lancée pour la fin 1988.
