@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203694
+
+- Question : [SEQ861203694](seq861203694.md) — CEE: libéralisation des transports aériens
+
+## Réponse
+
+*Transports, JO du 1987-03-05, page 338*
+
+Réponse. -Au cours de la présidence britannique des communautés européennes, deux sessions du conseil des ministres des transports ont été consacrées au problème de la libéralisation du transport aérien. Bien qu'une décision permettant d'introduire une première étape de libéralisation n'ait pu être prise, le bilan de ces deux conseils est satisfaisant. En effet, les différents dossiers soumis au conseil ont évolué dans un sens favorable. En matière de capacité, une décision a été prise, visant à supprimer la stricte règle de répartition à égalité et de lui substituer une répartition 45/55 pendant deux ans, qui s'élargira à 60/40 la troisième année. Ce nouveau cadre réglementaire permettra aux entreprises les plus efficaces de mieux satisfaire la demande. En matière de tarifs aériens, le principe a été admis d'un système de zones de flexibilité pour les tarifs promotionnels, zones à l'intérieur desquelles les tarifs pourront librement évoluer à l'initiative des compagnies. Ce système a pour objet d'apporter de nouvelles clientèles au transport aérien sans diluer la recette unitaire des entreprises. Enfin, l'accès au marché des entreprises européennes sera facilité en permettant à plusieurs compagnies de desservir la même route pour autant que le trafic le justifie et en ouvrant plus facilement les liaisons entre aéroports principaux et aéroports régionaux. Ce nouveau cadre réglementaire, qu'une minorité de nos partenaires européens juge insuffisant, constituera une bonne première étape de libéralisation de trois ans. Au terme de ces trois ans, il faudra établir un plan et tirer les leçons de l'expérience pour aller au-delà dans la voie de la réalisation du marché intérieur.
