@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717676
+
+- Question : [SEQ990717676](seq990717676.md) — Bilan de la dix-huitième édition de la fête de la musique
+
+## Réponse
+
+*Culture, JO du 1999-08-19, page 2777*
+
+Réponse. - Le bilan des manifestations liées à la fête de la musique, le 21 juin 1999, a été globalement très positif, tant en France que dans une centaine de pays du monde. Cette fête mobilise et fédère de nombreuses forces associatives, artistiques et culturelles et concerne l'ensemble des acteurs de la vie musicale, de l'enseignement musical à l'école aux formations spécialisées, de structures de production aux lieux de diffusion. Elle est représentative des grandes tendances musicales avec des concerts de musique classique, baroque, musiques du monde, jazz, rock, techno, etc. Dans le département du Rhône, de nombreuses manifestations ont eu lieu ce 21 juin et de multiples moments musicaux ont été offerts au public. Entre autres, à Lyon les enfants de la maîtrise de l'opéra national de Lyon ont offert un concert et dans la cour d'honneur de l'hôtel de ville l'orchestre symphonique de Lyon a joué de grands airs classiques. La maison de la jeunesse et de la culture " Galerie 47 " a proposé une animation musicale autour de groupes de rock et de jazz et la place de l'Europe a accueilli la musique rap et reggae. La fête de la musique a été présente cette année dans les hôpitaux, comme à Pierre Bénite où l'école communale et l'hôpital se sont réunis autour d'une fêtre champêtre et musicale. La musique a été présente en milieu carcéral, comme à la maison d'arrêt de Privas, dans l'Ardèche. En déhors de ces manifestations organisées, de nombreuses associations ont pris des initiatives spontanées dans divers endroits de la ville de Lyon, ainsi que dans d'autres lieux du département du Rhône, à la satisfaction du public local.
