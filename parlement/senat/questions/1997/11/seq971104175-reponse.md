@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104175
+
+- Question : [SEQ971104175](seq971104175.md) — Coût des opérations extérieures
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-02-05, page 381*
+
+Réponse. - Les opérations extérieures auxquelles la France a participé durant l'année 1997 relèvent, d'une part, d'opérations de maintien de la paix décidées par le Conseil de sécurité des Nations unies et, d'autre part, d'opérations décidées dans d'autres cadres, notamment l'OTAN. Le ministère des affaires étrangères a contribué aux opérations de maintien de la paix des Nations unies à hauteur de 457,9 millions de francs pour l'année 1997. Cette contribution est de nature obligatoire. La quote-part de la France à ces opérations est supérieure à celle qui s'applique pour le budget ordinaire des Nations unies, en raison de la responsabilité particulière de la France, membre permanent du Conseil de sécurité. Comme le sait l'honorable parlementaire, la France participe également à des opérations extérieures dans d'autres cadres. Le ministère de la défense contribue presque exclusivement à ces opérations. Au cours de l'année 1997, plus de 9 000 militaires français ont participé à 29 opérations extérieures, y compris les 11 qui découlent d'un mandat des Nations unies ou de l'OTAN. Le coût de ces interventions de nos forces armées hors du territoire métropolitain est estimé par le ministère de la défense à un peu moins de 3,5 milliards de francs. Seules les opérations de maintien de la paix engagées sous l'égide de l'organisation des Nations unies font l'objet d'un remboursement des frais engagés. Les sommes versées par l'ONU à ce titre sont arrêtées en fonction d'un barème unique pour l'ensemble des Etats membres. Elles ne couvrent pas la totalité du coût des contingents français déployés en mission. Les opérations menées sous l'égide de l'OTAN ne font l'objet d'aucun recouvrement.
