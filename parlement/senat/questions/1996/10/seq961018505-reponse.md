@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018505
+
+- Question : [SEQ961018505](seq961018505.md) — Constitution de budgets communaux annexes pour les services de l'eau et l'assainissement
+
+## Réponse
+
+*Économie, JO du 1997-01-23, page 204*
+
+Réponse. - Le législateur a affirmé, à de nombreuses reprises, le principe selon lequel un service public industriel et commercial devait s'équilibrer en recettes et en dépenses au moyen de la redevance payée par les usagers. Il s'agit du principe de l'équilibre financier, posé à l'article L. 2224-1 du code général des collectivités territoriales, qui exclut la prise en charge du coût du service par la commune de rattachement et qui impose, en outre, l'individualisation de celui-ci au sein d'un budget distinct. L'article 75 de la loi no 96-314 du 12 avril 1996 autorise les communes de moins de 3 000 habitants et les groupements composés de communes de moins de 3 000 habitants à subventionner les dépenses de leurs services d'eau et d'assainissement. Ce texte ne remet pas en cause la qualification industrielle et commerciale de ces services, mais autorise une dérogation à la règle de l'équilibre financier en faveur des petites communes pour leur activité d'eau et d'assainissement. Il permet ainsi aux collectivités concernées d'opérer un libre arbitrage du financement de ces services entre la redevance perçue sur l'usager et l'impôt perçu sur le contribuable. Cette dérogation ne remet pas en cause l'obligation voulue par le législateur d'individualiser les dépenses et les recettes propres au service dans un budget distinct. Cette obligation est prévue par l'instruction comptable et budgétaire M49, applicable à l'ensemble des services d'eau et d'assainissement au 1er janvier 1997 notamment en ce qui concerne l'obligation de constituer un budget annexe et d'amortir les immobilisations.
