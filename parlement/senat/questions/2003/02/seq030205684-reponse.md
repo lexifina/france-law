@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205684
+
+- Question : [SEQ030205684](seq030205684.md) — Critère de modicité pour les dons perçus lors d'une collecte
+
+## Réponse
+
+*Économie, JO du 2003-04-10, page 1246*
+
+L'article 15 de la loi de finances pour 1992 codifié au deuxième alinéa de l'article 757 du code général des impôts a institué une obligation de déclaration ou d'enregistrement pour les dons manuels révélés à l'administration fiscale et assujetti ces dons aux droits de mutation à titre gratuit dans les mêmes conditions que les autres donations. A défaut d'acte les constatant, les dons manuels révélés à l'administration fiscale par le donataire doivent être déclarés, dans le délai d'un mois à compter de leur révélation, sur un formulaire (n° 2735) délivré par l'administration. Ces dispositions ont vocation à s'appliquer sans qu'il y ait lieu de tenir compte d'un montant minimal de don, le critère déterminant de taxation des dons manuels, en application de l'article précité, étant constitué par la seule révélation du don à l'administration. Toutefois, l'article 795 du code général des impôts prévoit un certain nombre d'exonérations de droits de mutation à titre gratuit en faveur des associations, qui sont fondées sur des critères objectifs tels que la mission de l'association, l'affectation de ses ressources ou des biens reçus ou encore la nature des biens, objet de la libéralité. Ces multiples dispositions permettent, en toute hypothèse, d'exonérer les dons reçus par de multiples associations. Par ailleurs, un tarif spécial est consenti en faveur des dons et legs consentis aux établissements publics ou d'utilité publique qui ne bénéficient pas de ces exonérations. Cela étant, le Gouvernement, conscient de la nécessité de ne pas décourager la générosité publique, mène actuellement une réflexion sur la modification en matière de droits d'enregistrement du régime fiscal des dons consentis aux associations.
