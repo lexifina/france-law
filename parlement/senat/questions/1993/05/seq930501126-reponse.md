@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501126
+
+- Question : [SEQ930501126](seq930501126.md) — Vins de liqueur à appellation contrôlée
+
+## Réponse
+
+*Budget, JO du 1993-08-12, page 1393*
+
+Réponse. - Le tarif du droit de consommation fixé par l'article 402 bis du code général des impôts, dans sa rédaction issue de la loi de finances rectificative pour 1992, résulte des dispositions de l'article 18 de la directive 92 83 du 19 octobre 1992. Cet article pose le principe d'un taux d'accise unique pour la catégorie des produits intermédiaires à laquelle appartiennent désormais le floc de Gascogne, le pineau des Charentes, le macvin du Jura mais également les porto, madère, vermouth, etc. Seuls les produits dont le titre alcoométrique n'excède pas 15 p. 100 du volume et les vins doux naturels répondant à la définition donnée par l'article 13 du règlement communautaire 4252 88 du conseil, relatif à l'élaboration et à la commercialisation des vins de liqueur produits dans la Communauté, peuvent bénéficier d'un taux réduit. La France a choisi de mettre en oeuvre les dispositions de l'article 18 de manière telle que les niveaux de taxation appliqués jusqu'au 1er février 1993 soient globalement maintenus. L'augmentation des tarifs du droit de consommation prévue par la loi de finances rectificative pour 1993 est une simple actualisation qui correspond à la hausse des prix à la consommation depuis 1987, date de la dernière augmentation du droit de consommation. Ces mesures ne peuvent, en conséquence, être considérées comme pénalisantes pour les producteurs de vins de liqueur à appellation contrôlée. En outre, une baisse du taux pour le floc de Gascogne, le pineau des Charentes et le macvin du Jura s'appliquerait nécessairement à l'ensemble des produits intermédiaires et notamment au porto, madère, vermouth et autres produits similaires pour lesquels une mesure favorable ne se justifie pas.
