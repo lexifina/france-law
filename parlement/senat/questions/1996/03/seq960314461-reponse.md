@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314461
+
+- Question : [SEQ960314461](seq960314461.md) — Taux de fiscalité sur les cigarettes
+
+## Réponse
+
+*Budget, JO du 1996-06-06, page 1378*
+
+Réponse. - La fiscalité sur les tabacs manufacturés comprend la TVA, ledroit de consommation (droit d'accise) et la taxe BAPSA. Le montant cumulé de ces droits et taxes (ou charge fiscale globale) représente, depuis le 1er août 1995, 75,99 p. 100 du prix de vente au détail (PVD) de la cigarette appartenant à la classe de prix la plus demandée. La structure de la fiscalité sur les tabacs manufacturés résulte de directives communautaires qui ont pour objet de rapprocher les taux des droits d'accises applicables dans les différents Etats membres de l'Union européenne. Le taux du droit de consommation est ainsi passé de 53,28 p. 100 en avril 1992 à 58,30 p. 100 du PVD en août 1995. Le taux de la TVA a, par ailleurs, été relevé en août 1995 de 18,6 p. 100 à 20,6 p. 100. La France se situe désormais au cinquième rang européen pour les cigarettes, derrière le Danemark, l'Irlande, le Portugal et le Royaume-Uni, qui ont toujours appliqué une fiscalité élevée sur les tabacs. L'effort entrepris depuis 1993 est proportionnellement plus important en France que dans la plupart des autres Etats membres, dans la mesure où la France a rattrapé en trois ans l'écart, parfois important, qui la séparait de certains de ses partenaires, comme l'Allemagne et la Belgique, où la consommation des tabacs était davantage imposée. L'incidence des hausses fiscales dans le prix de vente des cigarettes, renforcée par les campagnes de prévention du tabagisme, ont entraîné un recul de la consommation du tabac de 2 à 3 p. 100 par an depuis 1992. Il convient, toutefois, d'éviter un relèvement brutal de la fiscalité sur les cigarettes qu'entraînerait des hausses de prix dont l'effet serait seulement de déséquilibrer les marchés en occasionnant des transferts de consommation vers des produits moins chers.
