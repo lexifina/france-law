@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103572
+
+- Question : [SEQ931103572](seq931103572.md) — Non-revalorisation des prestations familiales
+
+## Réponse
+
+*Affaires sociales, JO du 1994-02-17, page 359*
+
+Réponse. - Les pouvoirs publics sont confrontés à une situation de crise financière sans précédent de la sécurité sociale, qui a exigé des mesures immédiates de sauvegarde et de redressement. Comme ne l'ignore pas l'honorable parlementaire, ce sont les catégories les plus démunies de nos concitoyens qui, à terme, auraient été de nouveau pénalisées, si le Gouvernement ne s'était engagé dans cette voie. Dans ce contexte, l'évolution des prix n'a pas permis d'envisager au 1er juillet de 1993, une revalorisation des prestations familiales. Cependant, s'agissant du pouvoir d'achat des prestations familiales, la dernière revalorisation en 1993, de la base mensuelle a été de 2 p. 100, ce qui a constitué un taux élevé dans le contexte économique. En outre, des mesures significatives en faveur des familles ayant des enfants scolarisés ont été prises dont une réduction d'impôt et une majoration exceptionnelle de l'allocation de rentrée scolaire, cette dernière représentant un effort financier de plus de 6 milliards de francs. D'autre part, la loi relative à la sauvegarde de la protection sociale a consolidé les majorations pour enfants prises en compte pour le calcul des pensions de retraite, puisque celles-ci seront désormais inscrites au fonds de solidarité vieillesse nouvellement créé. Enfin, la base mensuelle du calcul des prestations familiales a été à nouveau revalorisée de 2 p. 100 à compter du 1er janvier 1994. Par ailleurs, des études sont en cours, tendant à la présentation par le Gouvernement, d'une loi cadre qui aura pour ambition de définir une politique globale de la famille et de proposer des mesures propres à améliorer la vie des familles dans ses multiples aspects et de renforcer ainsi la cohésion de notre société.
