@@ -1,21 +1,21 @@
 # Article Annexe, art. 7
 
-Les cotisations statutaires sont fixées chaque année et à l'avance par le bureau et sont soumises à l'approbation de l'assemblée générale.
+L'association doit :
 
-La cotisation annuelle doit être la même pour tous, sauf :
+1° S'affilier à la fédération départementale des associations agréées pour la pêche et la protection du milieu aquatique du département dans lequel elle est agréée et s'acquitter de la cotisation fixée annuellement par la fédération.
 
-1° Pour ceux qui pêchent en bateau auxquels il peut être demandé une cotisation complémentaire ;
+Cette cotisation est égale par membre à 40 p. 100 au moins du taux de la taxe piscicole complète. Elle est réduite à 20 p. 100 au moins de ce même taux pour les membres titulaires de la carte " vacances " et de la carte " jeune ", et à 5 p. 100 au moins de ce même taux pour les membres titulaires de la carte " journalière ". Peut être appelée, le cas échéant, une cotisation aux membres de l'association exonérés du paiement de la taxe piscicole.
 
-2° Pour les jeunes de moins de seize ans au 1er janvier de l'année qui veulent pêcher à tous les modes autorisés et auxquels il est délivré une carte de pêche Jeunes ;
+L'association est tenue de verser trimestriellement le montant des cotisations dues à la fédération selon l'échéancier fixé par cette dernière ;
 
-3° Pour les personnes exonérées de la taxe piscicole et pratiquant la pêche selon le mode fixé par l'article L. 236-2 du code rural, auxquelles peut être consentie une adhésion à titre gratuit ou à cotisation réduite.
+2° Percevoir la taxe piscicole auprès de ses membres, à l'exception de ceux qui l'auraient déjà acquittée auprès d'une autre association agréée ou qui en seraient dispensés.
 
-Ces cotisations sont dues pour l'année entière qui commence le 1er janvier et sont payables quelle que soit l'époque de l'adhésion.
+L'association est tenue de verser trimestriellement le montant des taxes perçues à la fédération selon l'échéancier fixé par cette dernière ;
 
-Une cotisation particulière peut être prévue pour les personnes qui pêchent pendant une période de quinze jours consécutifs comprise entre le 1er juin et le 30 septembre, auxquelles il est délivré une carte de pêche Vacances.
+3° Accepter toute adhésion à moins de motifs reconnus légitimes par la fédération ;
 
-Toutes les personnes titulaires d'une carte d'adhésion ont la qualité de membre actif, à l'exception des personnes mentionnées au 3° ci-dessus et des personnes titulaires de la carte Vacances.
+4° Effectuer des dépôts de timbres piscicoles, bagues " saumon ", cartes de pêche, vignettes, documents d'information des pêcheurs, dans le cadre d'un dispositif d'organisation arrêté dans ce domaine par le conseil d'administration de la fédération ;
 
-L'adhésion donne le droit de pêcher dans tous les lots de l'association où la pêche est autorisée. En cas d'accords de réciprocité avec d'autres associations agréées, il peut être instauré une cotisation spécifique permettant de pêcher dans les lots de ces associations.
+5° Ne détenir des droits de pêche hors du département où l'agrément a été donné qu'avec l'accord écrit de la fédération du département concerné. Ces droits ne peuvent excéder ceux qu'elle détient dans le département où elle a obtenu l'agrément. En cas de contestation, la décision est prise par le préfet du département concerné ;
 
-3. Au premier tiret de l'article 9 des statuts types, les mots : " , pour les membres actifs, la cotisation annuelle sont remplacés par les mots : " la cotisation statutaire.
+6° N'effectuer des dépôts de cartes de pêche hors du département où l'agrément a été donné qu'avec l'accord écrit des fédérations concernées.

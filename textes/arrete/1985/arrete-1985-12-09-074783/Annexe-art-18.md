@@ -1,5 +1,7 @@
 # Article Annexe, art. 18
 
-L'assemblée générale ordinaire a lieu chaque année. Ses décisions sont adoptées à la majorité des membres actifs présents, régulièrement convoqués au moins un mois à l'avance. Des assemblées générales extraordinaires peuvent être convoquées en tant que de besoin, en particulier à l'époque de la présence du plus grand nombre de membres aux fins d'information.
+Portée générale de l'adhésion :
 
-" Une assemblée générale se tient au cours du dernier trimestre de l'année précédant celle de l'élection du conseil d'administration de la fédération. Il y est procédé obligatoirement, à bulletins secrets, à l'élection des membres du bureau et, pour les associations de plus de deux cent cinquante membres actifs, à celle, du ou des délégués autres que le président, et de leurs suppléants.
+L'adhésion donne le droit de pêcher dans les lots de l'association où la pêche est autorisée par la réglementation.
+
+Cependant, sur des lots de pêche à vocation spécialisée, peuvent être instaurées par l'association des conditions spéciales d'accès pour les pêcheurs membres d'une A.A.P.P.M.A. ayant acquitté la taxe piscicole appropriée au mode de pêche proposé.

@@ -1,5 +1,5 @@
 # Article Annexe, art. 8
 
-En outre, il peut être instauré des permissions journalières ou mensuelles pour les pêcheurs membres d'une autre association agréée et ayant déjà acquitté la taxe piscicole.
+L'association est tenue d'élaborer, de mettre en oeuvre, en conformité avec les orientations départementales de gestion, un plan de gestion piscicole prévoyant les mesures et interventions techniques de protection, d'amélioration et d'exploitation équilibrée des ressources piscicoles de ses droits de pêche.
 
-Le prix des permissions journalières ne peut dépasser le quart de la cotisation annuelle et celui des permissions mensuelles ne peut être supérieur à la moitié de cette cotisation. En aucun cas les permissions mensuelles ne peuvent être renouvelées la même année.
+A titre transitoire, les opérations de repeuplements piscicoles nécessaires s'effectuent dans le cadre des articles L. 232-10, L. 232-11 et L. 232-12 du code rural sur la base d'un programme approuvé par la fédération et sous le contrôle des agents assermentés du Conseil supérieur de la pêche.

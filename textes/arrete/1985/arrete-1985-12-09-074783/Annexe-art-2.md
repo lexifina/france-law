@@ -1,3 +1,5 @@
 # Article Annexe, art. 2
 
-La durée de l'association est illimitée.
+Dans les articles qui suivent, cette association est dénommée :
+
+" l'association ".

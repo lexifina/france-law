@@ -1,5 +1,9 @@
 # Article Annexe, art. 19
 
-La dissolution peut être prononcée par une assemblée extraordinaire spécialement convoquée et sur vote des deux tiers des membres actifs inscrits. En cas d'impossibilité de réunir la majorité requise, une nouvelle assemblée générale sera convoquée par voie de presse dans le mois suivant, et se prononcera à la majorité des membres actifs présents.
+Dans le cadre d'actions promotionnelles initiées et coordonnées au niveau des structures nationales de la pêche attachées à la délivrance de la carte " jeune ", de la carte " vacances " ou de la carte " journalière ", l'association est invitée à appliquer les conditions de cotisations recommandées par l'Union nationale pour la pêche en France. Ces conditions sont portées à la connaissance de l'A.A.P.P.M.A. par la fédération départementale.
 
-L'actif social est versé à une ou plusieurs associations agréées de pêche et de pisciculture par décision du commissaire de la République, sur proposition de la fédération. Les livres et archives sont transférés au siège de la fédération.
+En outre, peuvent être instaurées des permissions à la journée ou au mois pour les pêcheurs membres d'une autre association agréée et ayant déjà acquitté la taxe piscicole.
+
+Le prix des permissions à la journée ne peut dépasser le quart de la cotisation annuelle.
+
+Le prix des permissions au mois ne peut dépasser la moitié de la cotisation annuelle.
