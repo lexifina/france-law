@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902177
+
+- Question : [SEQ020902177](seq020902177.md) — Dépistage du cancer du sein
+
+## Réponse
+
+*Santé, JO du 2002-12-12, page 3084*
+
+Le cancer le plus souvent responsable du décès chez la femme est le cancer du sein (19 % avec 10 955 décès en 1995). La généralisation du dépistage organisé du cancer du sein constitue une priorité dans le domaine du dépistage. L'année 2000 a été celle de la concertation aboutissant, en 2001, à la conclusion d'un accord tarifaire entre la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS), la fédération nationale des médecins radiologues (FNMR) et la confédération syndicale des médecins de France (CSMF), sur la base de la création d'une lettre clé spécifique de l'acte de mammographie, de dépistage ou de diagnostic, cotée ZM 41, correspondant à 66,32 euros. Un arrêté, fixant la liste des programmes de dépistage des cancers devant être mis en oeuvre, est paru le 24 septembre 2001. La convention type entre assurance maladie et radiologues est parue au Journal officiel du 27 septembre 2001 et comporte en annexe les trois cahiers des charges relatifs au dépistage. Le dépistage s'adresse aux femmes de cinquante à soixante-quatorze ans sans facteur de risque particulier ; il propose, tous les deux ans, une mammographie en tiers payant avec deux incidences par sein et double lecture des clichés. Actuellement, trente-trois départements proposent ce dépistage organisé, une quinzaine de départements supplémentaires le mettront en place avant la fin de 2002. Dans les autres départements, ce dépistage pourra être proposé dans le courant de l'année 2003. Enfin, l'acte de dépistage est intégralement pris en charge par l'assurance maladie : les femmes concernées par le dépistage organisé reçoivent un bon qui permet d'éviter l'avance de règlement. La généralisation de ce dispositif à l'ensemble du territoire est prévue en 2003.
