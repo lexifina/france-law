@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011236970
+
+- Question : [SEQ011236970](seq011236970.md) — Réglementation de l'affichage
+
+## Réponse
+
+*Aménagement du territoire, JO du 2002-03-28, page 908*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à l'affichage sauvage, qui constitue une source importante de pollution visuelle de nos paysages. Quel que soit son contenu, ce type d'affichage est réprimé par l'article L. 581-29 du code de l'environnement, qui donne pouvoir au maire ou au préfet de faire procéder d'office à la suppression immédiate de cette publicité, sous réserve, dans le cas où elle se trouve dans une propriété privée, de la demande du propriétaire ou de son information préalable. Ce même texte prévoit que " les frais de l'exécution d'office sont supportés par la personne qui a apposé ou fait apposer cette publicité " et que " si cette personne n'est pas connue, les frais sont mis à la charge de celle pour laquelle la publicité a été réalisée ". Le contrevenant est passible d'une amende administrative ainsi que de poursuites pénales. Le dispositif répressif existant, sa mise en oeuvre impose, tant de la part des communes que des préfectures, une vigilance constante et des interventions exemplaires. Le ministre de l'aménagement du territoire et de l'environnement a, dans le cadre de la circulaire du 5 avril 2001, demandé aux préfets de constituer des pôles de compétence publicité destinés à assurer une meilleure synergie des services (directions régionales de l'environnement, directions départementales de l'équipement, services départementaux de l'architecture et du patrimoine, gendarmerie...) chargés de faire appliquer la réglementation, en définissant des axes d'intervention prioritaire. S'il s'avère qu'un département rencontre des difficutlés particulières en matière d'affichage sauvage, la lutte contre ce type de débordement doit faire partie de ses priorités.
