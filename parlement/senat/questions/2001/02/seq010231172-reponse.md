@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231172
+
+- Question : [SEQ010231172](seq010231172.md) — Equivalence de diplômes dans l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2001-04-05, page 1151*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur l'harmonisation et la reconnaissance mutuelle des diplômes au sein de l'Union européenne et plus particulièrement sur la reconnaissance du diplôme belge d'orthophoniste-logopède en France. Les conditions de la reconnaissance de ce diplôme en France sont régies par la directive 89/48 relative à la reconnaissance mutuelle des diplômes à niveau bacp3 minimum dont l'objectif est d'établir, en l'encadrant, un système général de reconnaissance des diplômes d'enseignement supérieur. Son principe est défini à l'article 3 : " Lorsque, dans l'Etat membre d'accueil, l'accès à une profession réglementée ou son exercice est subordonné à la possession d'un diplôme, l'autorité compétente ne peut refuser à un ressortissant d'un Etat membre, pour défaut de qualification, d'accéder à cette profession ou de l'exercer dans les mêmes conditions que les nationaux. " La possibilité de requérir du demandeur qu'il accomplisse un stage d'adaptation ou se soumette à une épreuve d'aptitude, lorsque le contenu, ou la durée, de la formation qu'il a reçue est différent de celui exigé dans le pays d'accueil, permet de suppléer aux divergences entre les formations dispensées en Europe. La France utilise cette faculté dans le cas de reconnaissance du diplôme d'orthophoniste-logopède. Cette faculté a, en outre, l'avantage de permettre de limiter la pratique du détournement actuel, par les étudiants français titulaires d'un diplôme belge, du numerus clausus visant à maîtriser l'accès à la profession des titulaires d'un diplômes français.
