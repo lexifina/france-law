@@ -1,3 +1,3 @@
 # Article Annexe art. 44
 
-A compter de l'ouverture du M.A.T.I.F. et jusqu'au 1er septembre 1986, seuls les membres de la Compagnie des agents de change adhérents à la C.C.I.F.P. sont autorisés à négocier l'emprunt notionnel sur le M.A.T.I.F. tant pour le compte de leur clientèle propre que pour le compte des autres adhérents.
+Est négociable sur le Matif un contrat livrable sur bon du Trésor à 90 jours. L'expression "bon du Trésor à 90 jours" désigne un bon du Trésor à intérêts payés d'avance (I.P.A.) en compte courant à 90 jour d'échéance dont la valeur de remboursement est de cinq millions de francs et dont la détention est autorisée sans restriction.
