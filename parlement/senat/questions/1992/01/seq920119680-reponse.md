@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119680
+
+- Question : [SEQ920119680](seq920119680.md) — Crédits destinés aux centres pour toxicomanes
+
+## Réponse
+
+*Santé, JO du 1992-06-25, page 1460*
+
+Réponse. - Le ministre de la santé et de l'action humanitaire informe l'honorable parlementaire que les moyens accordés sur le chapitre 47-15, article 12-10, réservés au financement des centres de soins spécialisés pour toxicomanes sont en augmentation en LFI. En 1988, le montant total des crédits était sur ce même chapitre de 307,08 millions (soit 257,43 millions en LF et 49,65 millions de la DGLDT) ; en 1989 de 322,12 millions (soit 269 millions en LF et 53,12 millions de la DGLDT) ; en 1990 de 354,5 millions (soit 275 millions en LF et 79,5 millions de la DGLDT) ; en 1991 de 369,5 millions (soit 361,5 millions en LF et 8 millions de la DGLDT). Pour l'année 1991, la mesure de régulation budgétaire intervenue n'a pas eu d'incidence sur les budgets des centres spécialisés pour toxicomanes. En effet, grâce à un redéploiement interne au chapitre 47-15 et à l'utilisation des crédits interministériels de lutte contre la toxicomanie, le ministère de la santé a pu accorder au dispositif spécialisé, en 1991, comme les années précédentes, un taux d'évolution comparable à celui du secteur médico-social, soit 2,9 p. 100. Ce taux a permis le maintien des moyens et le fonctionnement de ces structures dans des conditions correctes. En outre, des crédits interministériels affectés par la délégation générale contre la drogue et la toxicomanie au ministère de la santé ont permis la mise en place de structures nouvelles ou d'extension de structures existantes. En 1992, un taux d'évolution de 4,7 p 100 est appliqué aux enveloppes départementales de crédits de lutte contre la toxicomanie. Le renforcement et le développement du dispositif, en accord avec les directions départementales concernées, se poursuivront grâce à l'apport de crédits interministériels.
