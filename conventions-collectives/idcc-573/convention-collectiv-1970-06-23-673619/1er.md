@@ -2,7 +2,7 @@
 
 La présente convention règle sur l'ensemble du territoire national les rapports entre employeurs et salariés des professions dont l'activité exclusive ou principale est le commerce de gros et dont le champ d'application professionnel, défini en terme d'activité économique, est le suivant :
 
-- Commerce de gros et importations de fruits et légumes à l'exception des opérations portant sur le houblon, les légumes secs, les pommes de terre et les fleurs ainsi que des activités d'expédition et d'exportation de fruits et légumes frais.
+- Commerce de gros et importations de fruits, de légumes et de fleurs à l'exception des opérations portant sur le houblon, les légumes secs et les pommes de terre ainsi que des activités d'expédition et d'exportation de fruits et légumes frais.
 
 Numéro I.N.S.E.E. : 692
 
@@ -22,9 +22,7 @@ Code A.P.E. : 57-06.
 
 - Commerce de gros de papeterie et d'articles de bureau.
 
-Numéro I.N.S.E.E. : 718-0
-
-Code A.P.E. : 58-11.
+Numéro I.N.S.E.E. : 718-0 Code A.P.E. : 58-11.
 
 - Commerce de gros de matériel électrique et électronique.
 
@@ -50,7 +48,7 @@ Numéro I.N.S.E.E. : 735-0
 
 Code A.P.E. : 59-08.
 
-Commerce de gros de pièces détachées et accessoires pour automobile Numéro I.N.S.E.E. : 744-0
+- Commerce de gros de pièces détachées et accessoires pour automobile Numéro I.N.S.E.E. : 744-0
 
 Code A.P.E. : 58-01.
 
