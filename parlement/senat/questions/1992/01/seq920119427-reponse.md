@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119427
+
+- Question : [SEQ920119427](seq920119427.md) — Situation statutaire des éducateurs de jeunes enfants
+
+## Réponse
+
+*Intérieur, JO du 1992-06-11, page 1333*
+
+Réponse. - Ces personnels relèvent de la filière médico-sociale dont les projets de statut ont fait l'objet d'une large concertation avec tous les partenaires concernés. En effet, vingt-cinq organisations professionnelles ont été reçues et les principales organisations syndicales ainsi que les associations d'élus ont été plusieurs fois consultées. Des notes présentant les orientations retenues par le Gouvernement ont été diffusées le 18 octobre 1991 et soumises à concertation. Ces orientations consacrent une amélioration sensible de la situation des agents et la suppression des inégalités de traitement par rapport à leurs homologues de la fonction publique de l'Etat et de la fonction publique hospitalière. Ces orientations concrétisent, en outre, les dispositions contenues dans le protocole d'accord conclu le 9 février 1990 entre le Gouvernement et les principales organisations syndicales sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques. C'est ainsi notamment que les éducateurs de jeunes enfants qui pouvaient atteindre l'indice brut 453 sont reclassés en catégorie B et bénéficieront de la restructuration des cadres d'emplois classés en B-type, laquelle portera l'indice brut terminal du 3e grade à 612 en 1994. De plus, à compter du 1er août 1997, les éducateurs de jeunes enfants bénéficieront du classement indiciaire intermédiaire sur trois grades de l'indice brut 322 à l'indice brut 638. Les projets de décrets statutaires et indiciaire relatifs au cadre d'emplois des éducateurs de jeunes enfants issus de cette large concertation ont reçu un avis favorable du conseil supérieur de la fonction publique territoriale le 27 février 1992. Ils ont été transmis pour examen au Conseil d'Etat le 24 mars 1992.
