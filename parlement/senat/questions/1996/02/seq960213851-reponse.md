@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213851
+
+- Question : [SEQ960213851](seq960213851.md) — Dispositif contrat emploi consolidé
+
+## Réponse
+
+*Travail, JO du 1996-05-09, page 1144*
+
+Réponse. - L'honorable parlementaire a attiré l'attention du ministre du travail et des affaires sociales sur des directives relatives au dispositif contrat emploi consolidé arrêtées pour 1996. Aucune instruction n'a été donnée visant à réserver limitativement le bénéfice de ces contrats à des publics " ultraprioritaires ". Les dispositions contenues dans la loi no 92-722 en date du 29 juillet 1992 relative au revenu minimum d'insertion régissant les emplois consolidés n'ont pas été modifiées. Elles réservent ce dispositif aux personnes totalisant trois ans d'inscription comme demandeur d'emploi lors de leur entrée en CES, aux personnes âgées de cinquante ans ou plus inscrites comme demandeurs d'emploi depuis douze mois durant les dix-huit mois qui ont précédé la date d'embauche, aux bénéficiaires de l'allocation du revenu minimum d'insertion sans emploi depuis au moins un an et aux travailleurs reconnus handicapés par la COTOREP. Par ailleurs, les difficultés recontrées à ce jour pour obtenir un emploi ou une formation ont conduit le Gouvernement à demander l'adoption d'une mesure autorisant l'accès direct aux contrats emploi consolidés, sans contrat emploi-solidarité préalable, pour les jeunes de dix-huit à vingt-cinq ans résidant dans les grands ensembles et quartiers d'habitat dégradés, définis par le décret no 93-203 du 5 février 1993, ayant au plus achevé un second cycle de l'enseignement secondaire. De plus, le Gouvernement a engagé une importante réflexion en vue d'aboutir rapidement à la présentation devant le Parlement d'une loi favorisant la lutte contre l'exclusion. Dans ce cadre, les dispositifs de la politique de l'emploi destinés aux personnes les plus en difficulté, et notamment les contrats emploi consolidés, seront mobilisés et amélioreés.
