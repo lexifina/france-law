@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702005
+
+- Question : [SEQ930702005](seq930702005.md) — Reconnaissance de la notion de " bassin de production " pour le secteur des fruits et légumes
+
+## Réponse
+
+*Agriculture, JO du 1995-03-09, page 554*
+
+Réponse. - Les dispositifs annuels d'intervention tant au plan communautaire que national apparaissant insuffisants pour prévenir les crises qui ont touché à plusieurs reprises le secteur des fruits et des légumes, les pouvoirs publics ont confié à M. Haro, ingénieur général du génie rural, des eaux et des forêts, une mission dont l'objectif était de présenter des propositions de réforme. Parmi les mesures proposées dans ce rapport, ayant fait l'objet d'une concertation approfondie avec l'ensemble des représentants professionnels de la filière, figurait la création de bassins de production. En effet, le découpage de la France en comités économiques calqués sur les régions administratives ne correspond plus au cadre des relations établies au sein de la filière. Ainsi, les liens entre la distribution et la production dépassent les limites des circonscriptions actuelles de l'organisation économique. De même, les subventions attribuées par l'Office national interprofessionnel des fruits et légumes aux stations du réseau national d'expérimentation sont conditionnées à la présentation de programmes élaborés dans le cadre de zones de production dépassant les limites administratives des régions. En plus du soutien à l'expérimentation, d'autres actions structurelles sont conduites par l'Etat en faveur de la filière des fruits et légumes, en tenant compte de la réalité des bassins de production. Il s'agit de la construction et de la modernisation des serres maraîchères, de la rénovation du verger, de l'accompagnement des investissements immatériels des entreprises et des actions de publi-promotion.
