@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229814
+
+- Question : [SEQ001229814](seq001229814.md) — Retraite de certains fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 2001-02-22, page 673*
+
+Réponse. - L'article L. 16 du code des pensions civiles et militaires de retraite prévoit qu'en cas de réforme statutaire, l'indice de traitement servant de base à la liquidation de la pension et mentionné à l'article L. 15, est fixé conformément à un tableau d'assimilation annexé au décret déterminant les modalités de cette réforme. D'une manière générale, il n'existe pas d'obligation de traiter de la même manière les actifs et les retraités. En effet, selon une jurisprudence constante du Conseil d'Etat : " L'assimilation de la situation des fonctionnaires admis à la retraite avant l'intervention d'une réforme statutaire à celle des agents en activité, a pour seul objet de permettre le calcul de leur pension sur la base d'un emploi existant et de les faire bénéficier des revalorisations indiciaires ultérieures. Cette assimilation ne saurait avoir pour effet de permettre à ces fonctionnaires d'accéder, par le jeu d'un avancement fictif d'échelon grâce à l'ancienneté détenue dans leur grade d'origine, à un échelon supérieur dans la hiérarchie d'un corps de fonctionnaires dans lequel ils ne sont pas nommés et ne peuvent recevoir un avancement ", (CE 1er décembre 1993 Farcat, CE 20 octobre 1995 Boyer et CE 21 février 1996 Gentile). En outre, le Conseil d'Etat considère que l'ajout d'un échelon au sommet d'un corps ne constitue pas une réforme statutaire au sens de l'article L. 16 et ne nécessite donc pas de tableau de reclassement. Dans ces conditions, le fait que les administrateurs civils et sous-préfets retraités n'ont pas bénéficié du 7e échelon de la hors classe accordé aux actifs par le décret nº 99-945 du 16 novembre 1999 ne paraît en contradiction, ni avec le code des pensions, ni avec la jurisprudence du Conseil d'Etat.
