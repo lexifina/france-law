@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308731
+
+- Question : [SEQ900308731](seq900308731.md) — Situation des dirigeants d'une personne morale gérant d'une société en nom collectif ou d'une société en commandite par actions
+
+## Réponse
+
+*Justice, JO du 1990-06-14, page 1323*
+
+Réponse. - La question posée par l'honorable parlementaire conduit à distinguer, d'une part, la responsabilité des gérants d'une société en nom collectif ou en commandite et, d'autre part, la responsabilité de leurs associés pour le passif social. Les gérants sont responsables des dommages causés à la société, aux sociétés et le cas échéant aux tiers, et résultant par exemple de fautes de gestion ou d'une violation des statuts. Cette responsabilité a son fondement dans les articles 1382 et 1843-5 du code civil ainsi que, pour les sociétés en commandite par actions, dans les articles 244 et suivants de la loi du 24 juillet 1966 sur les sociétés commerciales. L'article 12, alinéa 2, de cette loi, applicable par renvoi de ses articles 24 et 251 aux sociétés en commandite simple et par actions, envisage l'hypothèse où la gérance est exercée par une personne morale. Il prévoit alors que les dirigeants de celle-ci encourent la même responsabilité que s'ils étaient gérants en leur nom propre, sans préjudice de la responsabilité solidaire de la personne morale qu'ils dirigent. L'article 12 de la loi du 24 juillet 1966 ne traite donc pas de la responsabilité des associés à l'égard des dettes sociales. Cette responsabilité, qui dépend du type de société en cause, est déterminée par les articles 10, 23 et 259 de la loi. C'est ainsi que la responsabilité des associés en nom collectif et des associés commandités est indéfinie et solidaire. Celle des associés commanditaires est, en revanche, limitée au montant de leur apport.
