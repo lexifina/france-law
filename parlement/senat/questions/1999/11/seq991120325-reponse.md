@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120325
+
+- Question : [SEQ991120325](seq991120325.md) — Exclusion de l'espace atlantique des zones éligibles au titre du programme INTERREG III
+
+## Réponse
+
+*Affaires européennes, JO du 2000-02-10, page 509*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur le maintien, au titre du programme européen INTERREG III, du périmètre de coopération transnationale qui englobe la façade atlantique de notre pays. Il est vrai que, dans une version initiale du projet de découpage des zones effectué par la Commission, l'" Arc atlantique " n'avait pas été reconduit parmi les espaces de coopération appelés à bénéficier d'une aide spécifique de l'Union grâce au programme en question, doté pour la France de 397 millions d'euros sur la période 2000-2006. Une variante de découpage avait été un temps envisagée, avec deux zones qui se rejoignaient sur notre territoire, l'une orientée sur le sud-ouest du continent et l'autre, vers les îles britanniques. Dans l'ensemble des régions européennes intéressées, ce choix avait alors provoqué de vives réactions. La Commission est ensuite revenue sur cette variante et un " Espace atlantique " figure à nouveau sur la carte des zones de coopération transmise pour avis aux Etats membres. Proche dans sa configuration de l'" Arc atlantique ", cet espace recouvrirait notre façade occidentale, allant de l'Irlande à l'Espagne. Au terme de la consultation qui s'est engagée, le programme d'initiative communautaire INTERREG III sera examiné par le Parlement européen et le comité des régions, en vue d'une décision prochaine. Le gouvernement mesure pleinement l'enjeu que représente la délimitation des zones éligibles, alors que, par ailleurs, notre façade atlantique vient d'être durement touchée par les intempéries et la pollution marine.
