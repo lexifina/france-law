@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018318
+
+- Question : [SEQ961018318](seq961018318.md) — Situation des familles atteintes d'anomalie héréditaire de la dentition transitoire et permanente
+
+## Réponse
+
+*Santé, JO du 1997-03-13, page 787*
+
+Réponse. - En règle générale, les frais de soins et d'appareils de prothèse dentaire sont pris en charge par l'assurance maladie dans les conditions prévues par la nomenclature générale des actes professionnels. Les dispositions de la nomenclature sont établies et, le cas échéant, actualisées par une commission technique spécialisée. Elles s'imposent aux caisses d'assurance maladie. Les possibilités de dérogation à ce principe sont strictement encadrées. C'est ainsi qu'aux termes de l'article 4.1 des dispositions générales de la nomenclature, lorsqu'un malade présente une pathologie inhabituelle justifiant un acte ne figurant pas à la nomenclature, l'acte exceptionnel peut donner lieu à prise en charge par l'assurance maladie, après examen clinique du bénéficiaire par le praticien conseil, et avis favorable de celui-ci. L'acte est alors assimilé à une acte de même importance coté à la nomenclature. Le jeu de ces dispositions peut permettre de répondre aux problèmes financiers auxquels sont confrontées les familles atteintes d'anomalie hériditaire de la dentition telle que l'agénésie des dents définitives. En effet, dans la mesure où un remboursement de base est accordé par la caisse, par assimilation aux cotations prévues à la nomenclature pour des actes similaires, la famille pourra, le cas échéant, obtenir la prise en charge de tout ou partie de la dépense résiduelle, soit auprès de sa mutuelle (ou tout autre organisme de protection sociale complémentaire), soit au titre des prestations supplémentaires accordées, sous conditions de ressources, par les caisses d'assurance maladie sur les fonds d'action sanitaire et sociale.
