@@ -28,20 +28,18 @@ Elle concourra à la mise en oeuvre des contrats de formation en alternance inst
 
 Dans ce but, elle établira, en application de l'article L. 980-2, troisième alinéa, du code du travail, la liste des qualifications professionnelles pouvant être acquises par la voie du contrat de qualification, après que les besoins en auront été identifiés à l'échelon national et territorial. Pour ce faire, elle validera, pour chacune des activités qui auront été répertoriées, la définition des capacités professionnelles nécessaires à l'exercice de cette activité ainsi que la description des épreuves de qualification permettant de vérifier que ces capacités ont été acquises. La réussite à ces épreuves donnera lieu à l'attribution d'un certificat de qualification de la profession délivré sous le contrôle de la commission nationale de l'emploi.
 
-Les actions de formation organisées par les entreprises dans le cadre des dispositions de l'article L. 933-5 du code du travail ainsi que celles suivies en application des articles L. 931-1 et suivants du code du travail conduisent, entre autres, à l'obtention d'un certificat de qualification délivré sous le contrôle de la commission paritaire nationale de l'emploi de la métallurgie (2).
+Les actions de formation organisées par les entreprises dans le cadre des dispositions de l'article L. 933-5 du code du travail ainsi que celles suivies en application des articles L. 931-1 et suivants du code du travail conduisent, entre autres, à l'obtention d'un certificat de qualification délivré sous le contrôle de la commission paritaire nationale de l'emploi de la métallurgie.
 
 La commission nationale de l'emploi porra déléguer les attributions décrites à l'alinéa ci-dessus aux commissions paritaires territoriales de l'emploi pour les qualifications identifiées à l'échelon territorial.
 
-Une dérogation particulière sera demandée aux pouvoirs publics pour que les entreprises ayant inscrit leurs salariés aux certificats de qualification ainsi mis au point puissent financer le coût des épreuves correspondantes soit sur les fonds défiscalisés au titre des formations en alternance, lorsque ces derniers sont titulaires d'un contrat de qualification soit, sur les fonds de la formation professionnelle continue lorsque les actions de formation sont organisées dans le cadre des articles L. 931-1 et L. 933-5 du code du travail.
+Les entreprises dont les salariés ont passé les épreuves de qualification bénéficient, de la part de l'organisme paritaire collecteur agréé visé à l'article 18 de l'accord national du 8 novembre 1994 relatif à la formation professionnelle, de la prise en charge des dépenses, pour ces actions de certification, sur la base d'un forfait par heure passée par le salarié auxdites épreuves, dans la limite de 50 heures. Le montant du forfait est fixé à 60 F (9,15 Euro). Le montant de ce forfait est révisé en tant que de besoin par la commission paritaire nationale de l'emploi de la métallurgie. Un bilan de l'application de cet alinéa est présenté chaque année à la comission paritaire nationale de l'emploi de la métallurgie. La commission paritaire nationale de l'emploi de la métallurgie pourra décider la prise en charge de nouvelles procédures de validation des qualifications dans les limites définies ci-dessus.
 
-La commission nationale de l'emploi élaborera un document dans lequel seront précisées les modalités de mise en oeuvre des dispositions prévues aux quatre précédents alinéas.
+La commission paritaire nationale de l'emploi élabore un document dans lequel sont précisées les modalités de mise en oeuvre des dispositions prévues aux alinéas 12 à 15 du présent article.
 
 En matière de congé individuel de formation, la commission paritaire nationale de l'emploi exercera les attributions prévues par l'article 36 de l'accord national interprofessionnel du 9 juillet 1970 modifié sur la formation et le perfectionnement professionnels, ainsi que par l'article 13 de l'accord cadre du 10 mars 1983 sur l'application, dans la métallurgie, des dispositions relatives au congé individuel de formation.
 
-(1) Ainsi qu'un ou deux experts en tant que de besoin. (2) Alinéa étendu sous réserve de l'application des articles L.931-1 et suivants du code du travail.
+(1) Ainsi qu'un ou deux experts en tant que de besoin.
 
 NOTA :
 
 (1) Ainsi qu'un ou deux experts en tant que de besoin.
-
-(2) Alinéa étendu sous réserve de l'application des articles L.931-1 et suivants du code du travail.
