@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104329
+
+- Question : [SEQ021104329](seq021104329.md) — Violence à la télévision : sanctions pénales à l'encontre des diffuseurs de messages violents à destination des enfants
+
+## Réponse
+
+*Culture, JO du 2003-06-12, page 1897*
+
+L'article 227-24 du code pénal prévoit que : " Le fait soit de fabriquer, de transporter, de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine, soit de faire commerce d'un tel message, est puni de trois ans d'emprisonnement et de 75 000 euros d'amende lorsque ce message est susceptible d'être vu ou perçu par un mineur. " S'il n'appartient pas au ministre de la culture et de la communication d'assurer la correcte application des textes de droit pénal par les juridictions répressives, le ministre de la culture et de la communication considère que, dans un souci d'efficacité d'autant plus nécessaire que la question de la diffusion d'images pornographiques ou violentes à la télévision revêt une particulière sensibilité, il est souhaitable que la répression pénale puisse être complétée, en tant que de besoin, par les sanctions administratives qu'il appartient au Conseil supérieur de l'audiovisuel de prononcer. C'est pourquoi le Gouvernement s'est montré favorable, lors de l'examen en première lecture par l'Assemblée nationale du projet de loi pour la confiance dans l'économie numérique, à un amendement parlementaire visant à permettre au Conseil supérieur de l'audiovisuel d'infliger des sanctions financières même lorsque les faits incriminés sont constitutifs d'une infraction pénale : or tel est fréquemment le cas en ce qui concerne la diffusion d'images pornographiques ou violentes, susceptible d'être poursuivie sur le fondement de l'article 227-24 du code pénal.
