@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219303
+
+- Question : [SEQ961219303](seq961219303.md) — Situation de la communauté française à Kaboul
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-01-09, page 69*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre des affaires étrangères sur la situation de la communauté française à Kaboul et s'informer des intentions du Gouvernement français concernant une mission sur place de notre chargé d'affaires en Afghanistan. En effet, une mission de notre chargé d'affaires est envisagée prochainement. Elle s'inscrit dans un contexte marqué par un retour à un relatif équilibre sur le terrain après les victoires des Talebs en septembre, mais également par des perspectives d'évolution incertaines. L'objectif de cette mission sera notamment, comme le souligne l'honorable parlementaire, de protéger et d'assister la communauté humanitaire et culturelle française présente sur place pour aider la population civile. La présence culturelle et humanitaire de la France est importante en Afghanistan. La France a en effet toujours figuré au premier rang des fournisseurs d'aide humanitaire à ce pays. Elle se doit dès lors d'assurer la sécurité de celles et ceux qui ont choisi de reprendre leur activité à Kaboul après en avoir été évacués le 26 septembre dernier. Elle se doit également de faire en sorte que soient présentes, en toutes circonstances, les conditions et les facilités nécessaires à l'accomplissement de leur mission. Au-delà de sa tâche d'assistance à la communauté française, ce déplacement de notre chargé d'affaires sera l'occasion de manifester notre préoccupation en matière de droits de l'homme ainsi que notre souci de voir l'Afghanistan retrouver le chemin d'une paix durable, ce qui passe notamment par une réconciliation nationale, la lutte contre les trafics illicites et la fermeture de tous les camps d'entraînement terroriste.
