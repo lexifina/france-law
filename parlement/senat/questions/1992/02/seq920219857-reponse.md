@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219857
+
+- Question : [SEQ920219857](seq920219857.md) — Délocalisation du siège de l'établissement public " Voies navigables de France "
+
+## Réponse
+
+*Transports, JO du 1992-04-09, page 895*
+
+Réponse. -Dans le cadre de la mise en oeuvre d'une politique volontariste d'aménagement du territoire, le Gouvernement a décidé que Voies Navigables de France installerait son siège à Béthune. Cette ville est située au coeur du réseau navigable du nord-est, sur le canal à grand gabarit Dunkerque-Valenciennes. Avec le T.G.V. Nord, elle sera à 1 h 15 de Paris. Conscient de l'inquiétude que provoque une telle décision chez les agents concernés, le Gouvernement a décidé de la mise en place d'un dispositif d'accompagnement afin de faciliter cette délocalisation qui devrait pouvoir intervenir au cours de l'été 1993. Le secrétaire général des Voies Navigables de France sera chargé de rechercher avec chaque agent les solutions à apporter aux différents problèmes posés par ce transfert (logement, scolarité des enfants, travail pour le conjoint). La mise en place de la réforme des voies navigables n'est pas compromise par cette délocalisation. L'établissement a perçu en 1991 les recettes provenant de la taxe instituée par l'article 124 de loi de finances pour 1991. Il a fixé le barème des péages institués sur le transport de marchandises ou de personnes dès 1992. La constitution des commissions territoriales de voies navigables est en cours. La loi n° 91-1385 portant dispositions diverses en matière de transports a donné à Voies Navigables de France les moyens d'assurer efficacement les missions qui lui ont été confiées par l'article 124 de la loi de finances pour 1991. Enfin, un projet de loi modifiant la loi du 22 mars 1941 relative à l'exploitation réglementée sera déposé très rapidement au Parlement. Il introduira plus de souplesse et d'efficacité économique dans l'organisation du transport fluvial, afin de le dynamiser.
