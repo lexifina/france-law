@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104400
+
+- Question : [SEQ940104400](seq940104400.md) — Fonctionnement de la cour européenne des Droits de l'Homme
+
+## Réponse
+
+*Affaires européennes, JO du 1994-05-05, page 1066*
+
+Réponse. - Après la déclaration des chefs d'Etat et de gouvernement du Conseil de l'Europe faite à Vienne, le 9 octobre 1993, les travaux d'élaboration du protocole no 11 qui a pour objet de réformer le mécanisme de contrôle de la Convention européenne des droits de l'homme ont été accélérés. Ce protocole devrait être ouvert à la signature au cours de la prochaine réunion du Comité des ministres du Conseil de l'Europe, le 11 mai 1994. Ce protocole no 11 mettra fin à la structure de contrôle actuelle (commission, cour, comité des ministres) et instituera une Cour européenne des droits de l'homme, juridiction unique permanente, composée d'un nombre de juges égal à celui des Etats parties. Les affaires directement portées devant elle par les requérants seront d'abord soumises à un comité de trois juges qui pourra d'emblée les déclarer irrecevables sans examen complémentaire, assurant ainsi le filtrage des requêtes. Si une requête n'est pas déclarée irrecevable, elle sera soumise à une chambre de sept juges qui se prononcera sur la recevabilité et sur le fond. Les parties auront la possibilité, dans des cas exceptionnels, de demander le réexamen de l'affaire par la Grande Chambre composée d'au moins dis-sept juges, sous réserve de l'accord d'un comité de filtrage. En outre, la Chambre pourra se dessaisir au profit de la Grande Chambre avant même de rendre un arrêt. Ce protocole est un protocole d'amendement : il entrera en vigueur le premier jour du mois qui suivra l'expiration d'une période d'un an après la date à laquelle toutes les parties à la convention auront exprimé leur consentement à être liées par lui.
