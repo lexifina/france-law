@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231325
+
+- Question : [SEQ010231325](seq010231325.md) — Bouclier antimissile américain
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-04-26, page 1422*
+
+Réponse. - Le déploiement d'un système de défense antimissile nationale est l'une des priorités de la nouvelle administration Buch, qui a annoncé que la décision de principe était prise mais qu'il restait à déterminer l'architecture du système. Depuis 1999, la France a fait valoir auprès de nos alliés américains les interrogations que leurs projets suscitent. Elle a notamment appelé l'attention des Etats-Unis sur la nécessité de préserver le traité sur la limitation des systèmes antimissiles (ABM). Par ailleurs, consciente des risques que représente l'amélioration des capacités balistiques dans les régions les plus sensibles du monde, la France s'est engagée en faveur d'un renforcement des instruments de lutte contre la prolifération des missiles. Elle a participé activement, dans le cadre du MTRC, à la rédaction d'un projet de code international de conduite contre la prolifération des missiles balistiques. Elle entend poursuivre ses efforts dans cette direction. Un contact étroit est maintenu avec les partenaires européens sur ce sujet. Les Etats-Unis ont manifesté la volonté de mener des consultations approfondies avec leurs alliés sur ce sujet. Elles permettront à la France de réaffirmer son attachement à la politique de non-prolifération et de désarmement. Ce sujet a été abordé par le ministre des affaires étrangères lors de sa récente visite à Washington. En tant que partie au traité ABM, la Russie est un interlocuteur naturel de la France sur ces sujets. Des échanges de vues ont déjà eu lieu. Ils sont appelés à se poursuivre, sans interférer avec le dialogue bilatéral qu'entretiennent Moscou et Washington.
