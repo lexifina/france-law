@@ -1,0 +1,3 @@
+# Article 1er
+
+Le recours au travail de nuit est justifié dans les entreprises relevant de la convention collective nationale de l'industrie laitière, en particulier pour les activités de la collecte, de la production et de la distribution des produits et celles nécessaires à leur fonctionnement, compte tenu du caractère périssable du lait, nécessitant dès la traite une collecte et une transformation rapide pour son utilisation et sa conservation, des pointes saisonnières d'activités provoquées par les variations de la production laitière et de la demande, ainsi que d'une durée de conservation limitée des produits laitiers et de la nécessité de garantir la sécurité alimentaire.
