@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608708
+
+- Question : [SEQ980608708](seq980608708.md) — Projet de loi d'orientation agricole et dispositifs d'adaptation de l'offre à la demande
+
+## Réponse
+
+*Agriculture, JO du 1999-03-25, page 953*
+
+Réponse. - Le projet de loi d'orientation agricole qui est débattu au Parlement comporte un important volet lié à l'organisation économique en agriculture. Pour ce qui concerne plus précisément l'organisation interprofessionnelle, il entend d'une part conforter le système qui trouve son origine dans la loi de 1975, d'autre part élargir son champ d'action en permettant la reconnaissance d'interprofessions dans le domaine sylvicole, dans le secteur de l'aquaculture et des cultures marines et pour des produits bénéficiant d'un signe officiel de qualité. Il y est rappelé que l'objet d'une interprofession est notamment de " contribuer à la gestion des marchés, par une meilleure adaptation des produits aux plans quantitatif et qualitatif et par leur promotion ". C'est ainsi un dispositif majeur d'adaptation de l'offre à la demande qui est encouragé. Cette possibilité se trouvera renforcée par la création des interprofessions spécifiques à certains signes officiels de qualité pour lesquels est notamment prévu que les accords puissent porter sur des programmations de production en fonction des débouchés, des plans d'amélioration de la qualité, voire des limitations des capacités de production. Enfin, il est proposé de compléter ces deux aspects, par la formalisation de contrats entre organisations professionnelles pour faire face aux crises conjoncturelles pour les produits périssables ou à cycle court de production. Ces contrats devraient viser explicitement à adapter l'offre en qualité et en volume aux besoins des marchés. Ceux-ci pourraient être passés même en l'absence d'organisation interprofessionnelle reconnue dans le secteur concerné.
