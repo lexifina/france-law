@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400117
+
+- Question : [SEQ930400117](seq930400117.md) — Zones rurales : octroi de prêts bonifiés spéciaux de modernisation de l 'habitat pour l'accueil de personnes âgées
+
+## Réponse
+
+*Agriculture, JO du 1993-07-08, page 1093*
+
+Les prêts spéciaux de modernisation peuvent être accordés pour financer des investissements dans le cadre de la réalisation d'un plan d'amélioration matérielle de l'exploitation agricole. En application de la réglementation européenne, le bénéfice de ces plans est réservé aux exploitants qui tirent au moins 50 p. 100 de leur revenu global des activités agricoles, forestières, touristiques, artisanales ou bien des activités d'entretien de l'espace naturel bénéficiant d'aides publiques, exercées sur leur exploitation, sans toutefois que la part du revenu provenant directement de l'activité agricole sur l'exploitation soit inférieure à 25 p. 100 du revenu global de l'exploitant et que le temps de travail consacré à des activités exercées en dehors de l'exploitation dépasse la moitié du temps total de l'exploitant. Le respect de ces conditions exclut que l'extroi des prêts spéciaux de modernisation puisse être étendu à des personnes qui n'exercent pas la profession d'agriculteur. Pour les exploitants agricoles qui réalisent un plan d'amélioration matérielle, les prêts spéciaux de modernisation peuvent effectivement financer des investissements de diversification des activités sur l'exploitation, notamment par des activités touristiques et artisanales ou la fabrication et la vente à la ferme de produits de la ferme. Ces investissements doivent donc avoir pour support l'exploitation agricole ou être effectués dans le prolongement de son activité. A cet égard, le placement familial des personnes âgées relève des compétences du ministère des affaires sociales, de la santé et de la ville et ne peut être assimilé à une diversification des activités de l'exploitation.
