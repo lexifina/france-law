@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204047
+
+- Question : [SEQ931204047](seq931204047.md) — Avenir de la télévision publique
+
+## Réponse
+
+*Communication, JO du 1994-03-10, page 540*
+
+Réponse. - La commission Campet, chargée de proposer une redéfinition des missions et des conditions de fonctionnement du service public, a, dans son rapport remis le 23 septembre dernier, formulé des recommandations pour la mise en oeuvre d'une télévision de la connaissance et notamment sur le " rôle moteur " que devrait jouer France 3 dans ce projet, compte tenu de l'expérience acquise en matière de programmes de connaissance ou d'ouverture sociale. La commission Campet a souligné également l'aspect novateur de ce projet qui doit constituer " une orientation nouvelle en faveur de produits présentant des caractéristiques didactiques ou d'interactivité, les distinguant assez nettement des éléments de connaissance usuellement diffusés ". C'est pourquoi la commission Campet a conclu à la nécessité de " garantir la spécificité et l'autonomie de la chaîne du savoir ". Le Gouvernement, dans le double souci de faire bénéficier la chaîne du savoir, de la formation et de l'emploi du potentiel et de l'expérience du secteur public sans pourtant la couper de la capacité d'initiative et d'orientation que représentent les collectivités locales, les entreprises ou les grandes institutions, a proposé au législateur la création d'une société appartenant au secteur public mais qui puisse s'ouvrir à d'autres opérateurs. Les objectifs de cette nouvelle chaîne ainsi que le schéma de grille et de programmation sont étudiés par un comité de pilotage réunissant l'ensemble des ministères concernés. Ses conclusions seront rendues au plus tard à la fin du mois de février 1994. Le rôle que France 3 pourra être amené à jouer dans la constitution de cette société ainsi que dans son fonctionnement sera alors précisé.
