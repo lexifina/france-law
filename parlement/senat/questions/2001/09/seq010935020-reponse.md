@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935020
+
+- Question : [SEQ010935020](seq010935020.md) — Retraite mutualiste et rentes viagères  des conjoints des anciens combattants décédés
+
+## Réponse
+
+*Anciens combattants, JO du 2001-11-22, page 3701*
+
+Le mécanisme d'indexation du plafond majorable de la retraite mutualiste du combattant n'est plus, depuis 1998, fondé sur l'inflation mais sur l'évolution de la valeur du point de pension militaire d'invalidité. Cette valeur intègre non seulement l'inflation des prix, mais aussi toutes les améliorations salariales dont bénéficient les fonctionnaires. Ce mécanisme est donc nettement plus favorable qu'une simple compensation de l'érosion monétaire. En outre, un plan de revalorisation du plafond majorable a été engagé, par tranche de 5 points de pension militaire d'invalidité par an. Le projet de loi de finances pour 2002 propose de faire passer sa valeur de 110 à 115 points. Ainsi, depuis 1997, le plafond aura été substantiellement majoré, passant de 1 081,02 euros (7 091 francs) à 1 453,60 euros (9 534 francs), soit une augmentation de 34,5 %. S'agissant de l'accès des veuves à la retraite mutualiste, le secrétaire d'Etat à la défense chargé des anciens combattants tient à préciser que cet avantage, initialement réservé aux combattants eux-mêmes, titulaires de la carte du combattant, a été ultérieurement étendu aux titulaires du titre de reconnaissance de la nation et aux ayants cause - dont les veuves - des militaires ou civils morts pour la France au cours des divers conflits armés au sein d'unités françaises ou alliées, ou des forces internationales, ou bien au cours d'opérations ou missions menées conformément aux obligations et engagements internationaux de la France. Une extension des bénéficiaires de cet avantage, qui doit rester lié au décès au cours d'opérations de guerre ou assimilées, n'est pas envisagée.
