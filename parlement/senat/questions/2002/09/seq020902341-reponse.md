@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902341
+
+- Question : [SEQ020902341](seq020902341.md) — Plan de prévention des risques technologiques
+
+## Réponse
+
+*Écologie, JO du 2003-05-15, page 1616*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question posée au Premier ministre, relative aux plans de prévention des risques technologiques (PPRT). Suite à la catastrophe de Toulouse du 21 septembre 2001, un projet de loi a été déposé devant le Sénat le 13 février 2002. Le nouveau Gouvernement a repris ce projet et l'a complété, notamment en ce qui concerne les dispositions du PPRT. Le projet de loi est en cours d'examen par l'Assemblée nationale et le Sénat. Il prévoit que les PPRT seront mis en place dans un délai de cinq ans après la promulgation de la loi. L'objectif principal du PPRT est de réduire les risques présentés par une installation sur son voisinage, en complément des mesures prises au titre de la législation sur les installations classées, lorsqu'il est constaté en particulier une trop grande proximité des immeubles d'habitation autour des installations industrielles classées Seveso. Afin de pouvoir libérer les terrains situés à proximité immédiate des installations dangereuses, il convient de donner la possibilité de maîtrise, voire d'appropriation par les communes ou les établissements publics de coopération intercommunale compétents des constructions existantes sur ces terrains. Les mesures qui pourront être prescrites concernent le droit de préemption, le droit de délaissement, le droit d'expropriation et la prescription de travaux de protection. Le projet de loi définit également les principes d'un financement tripartite de ces mesures, par les exploitants à l'origine du risque, les collectivités territoriales et l'Etat.
