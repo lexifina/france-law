@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709565
+
+- Question : [SEQ980709565](seq980709565.md) — Appellation " cent " du centième d'euro
+
+## Réponse
+
+*Affaires européennes, JO du 1998-08-27, page 2768*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre délégué, chargé des affaires européennes, sur l'appellation " cent " du centième d'euro. Comme le sait l'honorable parlementaire, les chefs d'Etat et de Gouvernement, réunis à Madrid en Conseil européen les 15 et 16 décembre 1995, ont décidé que le nom de la monnaie unique devait être le même dans toutes les langues officielles de l'Union européenne, en tenant seulement compte de l'existence des alphabets. Néanmoins, comme le suggère l'honorable parlementaire, il n'y a aucune difficulté à ce que le centième d'euro ne se dise pas de la même manière dans toutes les langues de l'Union européenne. Le Conseil européen a ainsi décidé que la définition du nom " cent " n'empêchait pas l'utilisation de variantes de cette appellation dans la vie courante dans les Etats membres. Ces principes figurent dans le règlement concernant l'introduction de l'euro adopté par le Conseil le 3 mai dernier. Dans son avis publié au Journal officiel du 2 décembre 1997, la commission générale de terminologie et de néologie indique que, conformément au règlement concernant l'introduction de l'euro, le mot " centime " qui existe déjà pourrait sans difficulté désigner la centième partie de l'euro et recommande même le terme " centime " comme désignation usuelle en français de la subdivision de l'euro. La Commission précise, en outre, qu'à titre subsidiaire et transitoire, l'utilisation du terme " eurocentime " permettrait, pendant la période durant laquelle le franc et l'euro coexisteront et dans les cas où le contexte ne suffirait pas à dissiper l'ambiguïté, d'éviter la confusion entre l'ancienne et la nouvelle monnaie.
