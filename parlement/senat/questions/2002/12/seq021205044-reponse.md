@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021205044
+
+- Question : [SEQ021205044](seq021205044.md) — Campagne d'information sur les risques liés à l'utilisation de certains éthers de glycol
+
+## Réponse
+
+*Santé, JO du 2003-05-01, page 1493*
+
+Le Conseil supérieur d'hygiène publique de France (CSHPF) a recommandé dans son avis du 7 novembre 2002 que, au cours d'une campagne d'information sur les risques liés à l'utilisation de produits chimiques dans un cadre domestique. les pouvoirs publics informent la population sur les précautions à prendre (aérer les locaux, éviter les contacts cutanés,...) et rappellent que les éthers de glycol constituent une classe hétérogène de produits regroupant un grand nombre de composés dont certains seulement présentent une toxicité préoccupante. Le Gouvernement élabore actuellement un plan d'actions interministériel afin de mettre en oeuvre les recommandations du CSHPF. Ainsi. la mise en place d'une campagne globale d'information sur les risques liés à l'utilisation de produits chimiques est actuellement en cours d'étude par les pouvoirs publiques. L'objectif est d'informer le public sur les précautions générales à prendre lors de l'utilisation de produits chimiques et d'établir des recommandations spécifiques vis-à-vis des populations à risques (enfants, femmes enceintes,...). Il est également prévu d'élargir cette campagne d'information aux professionnels pour les informer des risques vis-à-vis de la population générale lors de l'utilisation de produits dans un cadre domestique (tels que les peintures, vitrificateurs,...). La mise en place de cette campagne devrait être établie en collaboration avec différents partenaires tels que les industriels et syndicats d'industriels. L'élaboration de cette campagne d'information est prévue au cours l'année 2003 et le lancement de la campagne devrait s'effectuer durant l'année 2004.
