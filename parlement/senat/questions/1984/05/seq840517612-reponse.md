@@ -1,0 +1,9 @@
+# Réponse à la question SEQ840517612
+
+- Question : [SEQ840517612](seq840517612.md) — Age de la retraite des non-salariés
+
+## Réponse
+
+*Affaires sociales, JO du 1984-07-05, page 1081*
+
+(texte non publié dans les données)
