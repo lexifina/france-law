@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708755
+
+- Question : [SEQ030708755](seq030708755.md) — Pensions des différentes catégories de veuves de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 2003-12-11, page 3577*
+
+Le secrétaire d'Etat aux anciens combattants souhaite souligner que, résolu à reconnaître le dévouement admirable des veuves, le Gouvernement a décidé d'inscrire dans le projet de loi de finances pour 2004 une forte revalorisation de leurs pensions. En effet, ainsi qu'il l'a annoncé lors des débats parlementaires le 6 novembre dernier à l'Assemblée nationale, 12 millions d'euros de crédits nouveaux ont été prévus dans le budget de 2004 autorisant un relèvement uniforme de l'ensemble des pensions de veuve de 15 points d'indice. Cette mesure nouvelle bénéficiera aux 130 000 veuves actuellement pensionnées. Par ailleurs, les veuves pensionnées ou non, étant toutes ressortissantes de l'Office national des anciens combattants et victimes de guerre (ONAC) et pouvant prétendre, à ce titre, à l'aide matérielle, morale et administrative dispensée par cet établissement public placé sous la tutelle du secrétaire d'Etat, les crédits d'action sociale de ce dernier, notamment destinés à des actions spécifiques de secours en faveur de cette catégorie, ont été pérennisés, pour 2004, par l'inscription, non plus en cours de discussion parlementaire mais dès le projet de loi de finances initiale adopté par l'Assemblée, de 12,135 millions d'euros. Cette mesure permettra ainsi de garantir les moyens dont dispose l'ONAC pour venir en aide aux anciens combattants et à leurs veuves rencontrant des difficultés financières. S'agissant de la mise en place d'une allocation pour l'ensemble des veuves d'anciens combattants, celle-ci viendrait inévitablement en concurrence avec les prestations déjà servies aux intéressées dans le cadre du régime d'indemnisation actuel. La création éventuelle de cette prestation n'est donc pas envisagée.
