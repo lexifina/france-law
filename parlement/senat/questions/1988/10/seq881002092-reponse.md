@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002092
+
+- Question : [SEQ881002092](seq881002092.md) — Personnels para-médicaux contractuels employés à temps partiel
+
+## Réponse
+
+*Solidarité, JO du 1989-01-26, page 153*
+
+Réponse. - Les établissements médico-éducatifs pour mineurs et adultes handicapés ou inadaptés sont dans leur quasi-totalité employeurs d'agents para-médicaux, en particulier orthophonistes et kinésithérapeutes. Dans la plupart des cas, et au regard de la taille moyenne des établissements concernés, ces agents sont employés en qualité de contractuels et à temps non complet. Toutefois, plusieurs éléments s'unissent pour offrir à ces personnels certaines garanties comparables à celles des agents titulaires : en premier lieu, les établissements implantés dans un même département ont la possibilité de gérer en commun des emplois à temps complet. Le quota de travail est réparti sur ces différents établissements, qui assurent ainsi la rémunération des agents au prorata des services rendus ; en second lieu, sur le plan juridique, rien ne s'oppose à ce que les délibérations des conseils d'administration fixant les règles d'emploi des agents contractuels prévoient de faire bénéficier ces derniers de la prime de service, étant entendu que la charge financière de cette indemnité doit résulter d'un redéploiement budgétaire interne à l'établissement. Enfin, les modalités de la formation des agents non titulaires des établissements sociaux et médico-sociaux du secteur public mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 sont fixées par le décret n° 78-517 du 30 mars 1978, pris pour l'application de certaines dispositions du livre IX du code du travail aux agents non titulaires des établissements et collectivités mentionnés à l'article L. 792 du code de la santé publique et des syndicats interhospitaliers mentionnés à l'article 8 de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière.
