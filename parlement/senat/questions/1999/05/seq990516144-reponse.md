@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516144
+
+- Question : [SEQ990516144](seq990516144.md) — Amélioration de la desserte routière Paris-aéroport Charles-de-Gaulle
+
+## Réponse
+
+*Équipement, JO du 1999-08-26, page 2879*
+
+Réponse. - La croissance attendue du trafic de l'aéroport de Roissy - Charles-de-Gaulle rend nécessaire une réflexion sur la qualité de la desserte de la plate-forme, que ce soit pour les voyageurs aériens ou les employés de l'aérogare. La construction de voies routières ou autoroutières pour satisfaire cette demande supplémentaire présentant de nombreux inconvénients, il convient d'accroître, à l'instar de ce qui a été réalisé dans certains pays étrangers, la part des déplacements ferroviaires. A cet effet, des réflexions ont été engagées tant à la direction régionale de l'équipement d'Ile-de-France qu'à Réseau ferré de France et à la SNCF. La première de ces études concerne l'amélioration à court terme de la desserte en transport collectif existante : il s'agit d'accroître l'attractivité de la ligne B du RER, en améliorant l'information et la signalétique et en prenant en charge, si possible, les bagages des passagers aériens. La deuxième examine la faisabilité d'une liaison directe assurée en moins de vingt-cinq minutes par un train moderne et confortable pour un coût raisonnable. Il s'avère maintenant indispensable d'approfondir le trafic potentiel d'une telle liaison et les possibilités de participations financières de tous les partenaires, tout en prenant en considération dans les analyses cette dimension importante que constitue la desserte de Roissy depuis les régions françaises. Dans ces conditions, il apparaît, pour l'instant, prématuré d'indiquer une date pour la réalisation d'une ligne ferroviaire directe de Paris à l'aéroport Roissy - Charles-de-Gaulle.
