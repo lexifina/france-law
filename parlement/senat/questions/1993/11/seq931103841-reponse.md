@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103841
+
+- Question : [SEQ931103841](seq931103841.md) — Secret professionnel et fiscal : portée des principes
+
+## Réponse
+
+*Budget, JO du 1994-06-02, page 1346*
+
+Réponse. - Les centres de gestion et les associations agréés sont des organismes de droit privé, régis par la loi du 1er juillet 1901 relative au contrat d'association. Pour être agréées, ces associations doivent insérer dans leur statut des dispositions spécifiques relatives à la réalisation de leurs missions d'assistance et de prévention fiscale. Cependant, si leur objet est nettement défini, elles conservent la liberté des moyens à mettre en oeuvre pour sa réalisation. Ainsi, la validité d'une clause statutaire non requise par les textes régissant l'institution, à laquelle l'adhérent s'oblige par son adhésion, s'apprécie au regard des règles de droit civil applicables aux contrats et obligations. La disposition prévoyant que tout adhérent faisant l'objet d'un contrôle fiscal doit en avertir l'organisme agréé, avec transmission de la notification de redressement, n'est pas une stipulation imposée aux organismes par l'administration. Dans la mesure où le centre ou l'association de gestion agréé considère qu'une telle clause participe à sa mission de prévention fiscale et que l'adhérent est libre d'y souscrire, il n'appartient pas à l'administration de s'y opposer. Il faut rappeler, au demeurant, que les organismes agréés s'engagent à exiger de toute personne collaborant à leurs travaux le respect du secret professionnel, en application des articles 371 EB et QA de l'annexe II au code général des impôts. Enfin, les articles L. 81 et L. 103 du livre des procédures fiscales relatifs au droit de communication et au secret professionnel visent uniquement les rapports entre les agents de l'administration et les tiers et ne saurait trouver à s'appliquer à des relations entre personnes privées.
