@@ -1,7 +1,0 @@
-# Article III-6
-
-Le bureau électoral de chaque section est composé, pour chaque collège, de deux électeurs, le plus âgé et le plus jeune, présents à l'ouverture du scrutin et acceptant. La présidence appartient au plus âgé.
-
-Le bureau est assisté dans toutes ses opérations, notamment pour l'émargement des électeurs et le dépouillement du scrutin, par un ou plusieurs employés désignés par la direction. Lorsque le bureau a une décision à prendre, les employés qui l'assistent n'ont qu'une voix consultative.
-
-Le dépouillement du vote a lieu immédiatement après l'heure fixée pour la fin du scrutin et ses résultats sont consignés dans un procès-verbal signé par les membres du bureau électoral. Un extrait en est remis à chaque délégué élu, un autre est affiché dès le lendemain dans l'établissement intéressé, un autre est transmis à l'inspection du travail, un autre est adressé aux organisations syndicales ayant présenté les listes.

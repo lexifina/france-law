@@ -1,5 +1,0 @@
-# Article II-3
-
-Des congés seront accordés dans les conditions prévues aux articles L. 451-1 et suivants aux salariés désireux de participer à des stages de sessions exclusivement consacrés à l'éducation ouvrière ou à la formation syndicale.
-
-Ces congés, d'une durée maximale de douze jours par an, ne viendront pas en déduction des congés annuels.

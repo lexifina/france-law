@@ -1,5 +1,0 @@
-# Article III-10
-
-Lorsqu'un délégué titulaire cesse ses fonctions pour une des causes mentionnées à l'article précédent, ou se trouve momentanément absent, pour une cause quelconque, son remplacement est assuré dans les conditions prévues à l'article L. 423-17 du code du travail.
-
-Le suppléant devient titulaire jusqu'au retour de celui qu'il remplace ou jusqu'au renouvellement de l'institution.

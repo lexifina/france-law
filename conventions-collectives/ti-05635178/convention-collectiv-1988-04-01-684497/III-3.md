@@ -1,9 +1,0 @@
-# Article III-3
-
-Les délégués sont élus, d'une part, par les ouvriers et employés, d'autre part, par les ingénieurs, chefs de service, techniciens, agents de maîtrise et assimilés.
-
-La répartition du personnel dans les collèges électoraux et la répartition des sièges entre les différentes catégories font l'objet d'un accord entre le chef d'entreprise ou son représentant et les organisations syndicales représentatives.
-
-Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail procède à cette répartition conformément à la loi.
-
-Dans les établissements ne dépassant pas vingt-cinq salariés, le délégué titulaire et le délégué suppléant sont élus par un collège unique, regroupant l'ensemble des catégories professionnelles.

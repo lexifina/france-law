@@ -1,5 +1,0 @@
-# Article VI-3
-
-Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et apprentis âgés de moins de vingt et un ans au 30 avril de l'année précédente ont droit, s'ils le demandent, à un congé de trente jours ouvrables.
-
-Ils ne peuvent exiger aucune indemnité de congé payé pour les journées de congés dont ils réclament le bénéfice en sus de celles qu'ils ont acquises, à raison du travail accompli au cours de la période de référence.

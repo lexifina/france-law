@@ -1,3 +1,0 @@
-# Article III-8
-
-Les contestations relatives au droit d'électorat et à la régularité des opérations électorales sont de la compétence du juge d'instance, qui statue d'urgence. La décision du juge d'instance peut être déférée à la Cour de cassation.

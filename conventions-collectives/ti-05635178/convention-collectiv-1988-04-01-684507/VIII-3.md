@@ -1,5 +1,0 @@
-# Article VIII-3
-
-Des autorisations d'absence seront accordées aux salariés qui participeront à des commissions paritaires constituées d'un commun accord entre organisations patronales et de salariés dans la limite d'un nombre de personnes fixé d'un commun accord. Dans ce cas, le temps de travail perdu sera rémunéré comme temps effectif de travail et les frais de déplacement indispensables, fixé d'un commun accord, seront remboursés.
-
-Cette disposition est notamment applicable aux membres salariés des commissions paritaires de conciliation et d'interprétation prévues par la convention collective.

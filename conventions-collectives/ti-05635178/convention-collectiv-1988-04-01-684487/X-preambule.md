@@ -1,3 +1,0 @@
-# Article X, préambule
-
-Toutes les questions d'ordre collectif non prévues par la présente convention pourront faire l'objet d'avenants élaborés dans les mêmes conditions que cette dernière.

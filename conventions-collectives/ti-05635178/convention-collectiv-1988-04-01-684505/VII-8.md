@@ -1,3 +1,0 @@
-# Article VII-8
-
-A l'expiration du contrat de travail, il est remis au salarié un certificat de travail indiquant, à l'exclusion de toute autre mention : les nom et adresse de l'employeur ; les dates d'entrée et de sortie du salarié ; la nature du ou des emplois successivement occupés, ainsi que les périodes pendant lesquelles ces emplois ont été tenus.

@@ -1,5 +1,0 @@
-# Article IV-3
-
-Les membres titulaires du comité d'entreprise disposent du temps nécessaire à l'exercice de leurs fonctions dans la limite d'une durée qui, sauf circonstances exceptionnelles, ne peut excéder vingt heures par mois.
-
-Le temps passé par les représentants syndicaux près du comité d'entreprise aux séances dudit comité est payé comme temps de travail.
