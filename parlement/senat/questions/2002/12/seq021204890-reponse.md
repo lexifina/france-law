@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204890
+
+- Question : [SEQ021204890](seq021204890.md) — Situation des demandeurs d'asile
+
+## Réponse
+
+*Affaires sociales, JO du 2003-03-27, page 1027*
+
+Confronté à la poursuite de la très forte augmentation de la demande d'asile adressée à la France, le ministère des affaires sociales, du travail et de la solidarité, responsable de la prise en charge sociale des demandeurs d'asile, a pris des mesures très significatives pour accroître sensiblement la capacité d'hébergement dans les structures dédiées aux demandeurs d'asile et organiser une répartition équilibrée des implantations entre départements. Ainsi, 1 500 places nouvelles de CADA ont été créées en 2001, complétées par 3 500 places en 2002, dans la perspective de développer cette offre spécifique d'hébergement et de desserrer la pression de la demande. A la fin de l'année 2002, l'offre d'hébergement spécifique en CADA s'élevait à 10 317 places disponibles, soit un quasi-doublement en deux ans. Près de 1 200 places supplémentaires sont d'ores et déjà prévues au budget 2003. D'ici à 2005 le dispositif d'hébergement devrait être porté à 17 000 places de CADA, pour assurer aux demandeurs d'asile un hébergement digne, adapté aux besoins. Le développement de l'offre d'hébergement ne suffirait toutefois pas à résoudre les difficultés rencontrées, si les délais d'instruction de la demande d'asile ne diminuaient pas. La réforme d'ensemble du dispositif d'asile préparée par le Gouvernement, qui s'inscrit dans le cadre des propositions de directives actuellement discutées à Bruxelles en matière d'asile, a pour objectif essentiel de rationaliser les procédures et de raccourcir de manière drastique les délais d'instruction des demandes d'asile. Les dispositions prévues permettront d'améliorer sensiblement l'accueil et la prise en charge sociale des demandeurs d'asile en France.
