@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028277
+
+- Question : [SEQ001028277](seq001028277.md) — Bilan des actions de la coordination nationale du tourisme social et associatif
+
+## Réponse
+
+*Tourisme, JO du 2000-12-28, page 4504*
+
+Réponse. - L'objectif principal de la coordination nationale, mise en place lors des états généraux du tourisme social et associatif des 6 et 7 mai 1999, est de renforcer les actions de partenariat entre les différents acteurs du tourisme social et associatif. La coordination nationale du tourisme social et associatif (CNTSA) est un lieu de débat, d'information et de mutualisation. Un président élu veille au bon fonctionnement de ladite instance et réunit, en tant que de besoin, un bureau de onze membres. La coordination élabore des pistes pour la mise en uvre d'une politique sociale des vacances. A cet effet, elle a engagé trois chantiers sur les principaux thèmes relevant de sa mission consultative auprès de la ministre chargée du tourisme. Le groupe " accessibilité " structure sa réflexion autour du droit aux vacances pour tous (familles, jeunes, enfants, publics à besoins spécifiques), des moyens mis en uvre (le chèque-vacances, la bourse solidarité vacances) et des politiques des transports (liens avec la SNCF). Le groupe " partenariat " met en relief le rôle des collectivités territoriales, des associations, des syndicats et de l'administration en matière de vacances (départ, accueil). Il traite également des questions juridiques et techniques. Le groupe " patrimoine " insiste sur l'importance de l'aide à la pierre dans la politique sociale du tourisme ; les opérations de rénovation et le soutien à l'innovation en sont un élément déterminant. Chaque groupe de travail s'est réuni à plusieurs reprises afin d'élaborer des propositions qui, après validation en séance plénière de la CNTSA, seront présentées prochainement à la secrétaire d'Etat au tourisme.
