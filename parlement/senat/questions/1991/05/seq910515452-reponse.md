@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515452
+
+- Question : [SEQ910515452](seq910515452.md) — Accidentés du travail et handicapés
+
+## Réponse
+
+*Affaires sociales, JO du 1991-08-29, page 1825*
+
+Réponse. - Les pensions et allocations versées aux personnes invalides ou handicapées sont revalorisées au 1er janvier et au 1er juillet de chaque année. Depuis 1987, cette revalorisation s'effectue en fonction de l'évolution prévisible des prix afin de garantir le maintien du pouvoir d'achat de ces personnes. Il sera maintenu une nouvelle fois cette année. En effet, la revalorisation du 1er janvier 1991 de 1,7 p. 100, fixée à titre provisionnel en raison des circonstances internationales exceptionnelles, et celle de 0,8 p. 100 du 1er juillet 1991, permettent d'arriver à une augmentation de 2,8 p. 100 sur l'ensemble de l'année qui représente le montant prévisionnel de la hausse des prix. En outre, l'effort du Gouvernement en faveur des personnes handicapées ne se limite pas aux seules revalorisations. Il s'attache depuis de nombreuses années à améliorer leurs conditions d'existence en agissant dans des domaines aussi divers que la réinsertion professionnelle, le logement, l'accessibilité, les transports, le droit à la culture et aux loisirs. Par ailleurs, des mesures nouvelles ont été prises ou sont en cours de préparation. Figurent, parmi elles, un nouveau complément d'A.E.S. destiné aux parents qui suspendent leur activité professionnelle pour se consacrer à l'éducation d'un enfant très lourdement handicapé, un plan pluriannuel de création de places supplémentaires en centre d'aide par le travail et en maison d'accueil spécialisée et, en matière d'accident du travail, une série de propositions d'amélioration et de modernisation de la réparation contenues dans le rapport de M. Dorion.
