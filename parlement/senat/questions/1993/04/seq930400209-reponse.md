@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400209
+
+- Question : [SEQ930400209](seq930400209.md) — Remplacement de l'aide à la pierre par l'aide à la personne
+
+## Réponse
+
+*Logement, JO du 1994-01-27, page 206*
+
+Réponse. - La politique de l'Etat dans le domaine du logement social s'appuie à la fois sur le dispositif des " aides à la pierre " et sur celui des " aides à la personne ". Les aides à la pierre, qui se traduisent par des prêts aidés à l'accession à la propriété ou par des prêts pour le locatif aidé, agissent sur l'offre de logements. Par leur affectation géographique, elles permettent à l'Etat d'avoir une action sur des zones prioritaires, soit en raison d'un marché particulièrement tendu, soit pour répondre à des besoins localisés liés à une volonté d'aménagement du territoire. Elles permettent également d'apporter un soutien direct à l'activité du secteur du bâtiment. Les aides à la personne concentrent leurs effets sur les ménages à ressources modestes. Elles assurent une certaine égalité de traitement entre les occupants quel que soit le parc, neuf ou ancien, social ou privé. Leur ciblage social permet à de nombreux ménages à revenus souvent très faibles de se loger en assurant leur solvabilité. Les aides personnelles ont également un rôle économique en développant une demande solvable. Ces deux systèmes d'aides constituent par leur action différenciée et complémentaire le fondement de la politique sociale de l'Etat en matière de logement. Il n'est pas envisagé, dans ce contexte, de supprimer l'une en faveur de l'autre. Depuis 1977 la part des aides à la personne s'est considérablement développée. Elles représentent maintenant la grande majorité des aides versées par l'Etat. Au cours de 1993, celui-ci a dû augmenter massivement le montant des crédits qu'il y consacre. Il paraît donc difficilement envisageable d'aller beaucoup plus loin dans cette voie.
