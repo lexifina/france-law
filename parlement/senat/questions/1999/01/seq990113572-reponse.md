@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113572
+
+- Question : [SEQ990113572](seq990113572.md) — Création d'une commission de la restauration scolaire au sein des établissements
+
+## Réponse
+
+*Éducation, JO du 1999-09-09, page 3003*
+
+Réponse. - Le ministère de l'éducation nationale, de la recherche et de la technologie est conscient du rôle fondamental que joue la nutrition en tant que facteur de santé et de bien-être, notamment dans l'enfance et l'adolescence où les besoins nutritionnels doivent, en effet, être satisfaits pour permettre aux élèves une croissance harmonieuse et équilibrée. C'est pourquoi le ministère de l'éducation nationale, de la recherche et de la technologie poursuit actuellement une réflexion sur les différents aspects de la restauration scolaire, visant à réactualiser les textes antérieurs sur la base des orientations définies par le comité scientifique de l'alimentation humaine de Bruxelles. Un ensemble de recommandations va être proposé afin que la restauration scolaire prenne bien en considération les besoins nutritionnels des enfants et des adolescents. Dans ce domaine, plutôt que d'enfermer les personnels de la restauration dans un ensemble de règles qui serait de nature à limiter leur capacité d'initiative et leur créativité, les nouvelles recommandations ont pour objectif de ne conserver comme contraintes que celles qui sont rigoureusement indispensables au respect d'un bon équilibre alimentaire pour la couverture des besoins énergétiques des élèves. A cette fin, de manière à laisser une plus grande marge de souplesse et d'adaptation aux responsables de la restauration scolaire, le ministère de l'éducation nationale, de la recherche et de la technologie n'a pas retenu la proposition du Conseil national de l'alimentation visant à instaurer dans chaque établissement une commission de la restauration scolaire.
