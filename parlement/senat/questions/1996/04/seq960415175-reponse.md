@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415175
+
+- Question : [SEQ960415175](seq960415175.md) — Statut des animateurs socioculturels et socioéducatifs
+
+## Réponse
+
+*Fonction publique, JO du 1996-10-17, page 2715*
+
+Réponse. - Le protocole d'accord signé le 14 mai 1996 et relatif à la résorption de l'emploi précaire au sein des trois fonctions publiques prévoit, pour la fonction publique territoriale, la création de cadres d'emplois de catégorie C et B dans le secteur de l'animation, répondant ainsi à la préoccupation exprimée par l'honorable parlementaire. Le Conseil supérieur de la fonction publique territoriale, qui a déjà examiné les grandes lignes de cette construction statutaire, sera saisi des propositions du Gouvernement à l'automne. Les possibilités d'accès à la catégorie A par la création de spécialités dans certains cadres d'emplois seont également étudiées. L'ensemble de ces dispositions devrait ouvrir aux personnels exerçant leurs fonctions dans le secteur de l'animation de réelles perspectives de carrière. Dans l'attente des textes statutaires, le recrutement d'agents non titulaires sur le fondement du troisième alinéa de l'article 3 de la loi no 84-53 du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale, qui autorise le recrutement par contrat lorsqu'il n'existe pas de cadres d'emplois de fonctionnaire correspondant aux fonctions souhaitées, est possible. Il doit toutefois être tenu compte du fait que les statuts particuliers des cadres d'emplois des attachés et des rédacteurs territoriaux permettent à ces fonctionnaires de mener des actions d'animation. Le recrutement d'agents non titulaires doit ainsi trouver sa justification dans la spécificité de la formation ou de l'expérience requise des candidats ainsi recrutés.
