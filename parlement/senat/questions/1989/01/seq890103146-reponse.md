@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103146
+
+- Question : [SEQ890103146](seq890103146.md) — Anciens combattants : examen des dossiers soumis à la Commission nationale consultative
+
+## Réponse
+
+*Anciens combattants, JO du 1989-04-27, page 671*
+
+Réponse. - La commission consultative médicale est, par définition, un organisme consultatif et à ce titre n'a donc aucun pouvoir de décision. Elle émet des avis en toute indépendance sur le droit à pension après qu'une première appréciation a été portée soit par la commission de réforme quant il s'agit de pension militaire d'invalidité, soit par le médecin-chef du centre de réforme quand il s'agit de dossiers de veuves, d'orphelins, d'enfants infirmes ou d'allocation n° 9. Dans tous les cas qui lui sont soumis, elle est chargée d'apprécier qu'il est fait une juste application des textes en vigueur et une exacte interprétation du guide-barème. Ce pouvoir de contrôle lui permet de rectifier, en particulier, les erreurs matérielles, d'arbitrer les points de vue, parfois divergents, entre médecins experts et commission de réforme, de se prononcer sur l'imputabilité au service, sur le taux alloué à chaque infirmité. De son chef, elle ne baisse ou n'augmente jamais un taux de pension, sauf en cas d'erreur matérielle. Quand le taux du barème n'a pas été respecté (dans un sens ou dans l'autre) ou lorsque ce taux n'est pas justifié par l'expertise et les examens complémentaires (radiologiques, biologiques, électriques...) qui s'y rapportent, elle provoque de nouveaux examens médicaux ou médico-légaux. En 1987, la commission consultative médicale a émis un avis sur 27 p. 100 des dossiers de demande de pension ou de révision de pension en cours d'instruction 84 p. 100 des avis émis par elle sur l'imputabilité ou le taux des infirmités étaient conformes aux propositions des commissions de réforme. C'est dire que la remise en cause desdites propositions ne revêt aucun caractère systématique.
