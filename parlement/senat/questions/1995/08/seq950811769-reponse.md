@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811769
+
+- Question : [SEQ950811769](seq950811769.md) — Accroissement des crédits d'Etat pour l'amélioration de l'habitat privé
+
+## Réponse
+
+*Logement, JO du 1995-09-28, page 1861*
+
+Réponse. - La volonté de soutenir l'amélioration de l'habitat privé se traduit par un effort budgétaire très important aussi bien en faveur de la prime à l'amélioration de l'habitat (PAH) que des subventions de l'Agence nationale pour l'amélioration de l'habitat (ANAH). Globalement, la dotation budgétaire de ces deux types d'aides, qui était de 2 400 MF dans le budget primitif de 1993, a été portée à 3 100 MF dans la loi de finances initiale pour 1994. Elle a permis d'engendrer un volume de travaux de plus de 13 MF. Le nombre de logements subventionnés s'est élevé à plus de 210 000 en 1994. Il était de 150 000 en 1991. Ainsi la réhabilitation du parc locatif privé connaît depuis quelques années une très forte croissance. Pour 1995, la loi de finances initiale a reconduit les dotations de 1994. L'actuel gouvernement a souhaité - malgré les redéploiements effectués en début d'année - maintenir un niveau élevé de dotation, notamment en faveur de son programme d'urgence pour le logement en ouvrant des crédits dans le " collectif " de printemps. C'est ainsi que le conseil d'administration de l'ANAH du 11 juillet 1995 a pu décider la majoration de certaines de ses subventions afin de réduire le nombre de logements vacants et d'accélérer la remise sur le marché locatif de logements privés destinés à accueillir des personnes défavorisées. Ces mesures concernent : les logements vacants remis sur le marché et conventionnés ; les logements vacants loués à des organismes agréés aux fins de sous-location à des personnes défavorisées dans le cadre des interventions spéciales à caractère social ; les logements loués dans le cadre des programmes sociaux thématiques.
