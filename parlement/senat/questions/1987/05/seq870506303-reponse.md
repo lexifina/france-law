@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506303
+
+- Question : [SEQ870506303](seq870506303.md) — Coopérative agricole : nature des indemnités de représentation versées
+
+## Réponse
+
+*Agriculture, JO du 1988-03-17, page 368*
+
+En application de l'article R.241-2 du code de la sécurité sociale aux termes duquel toute personne physique exerçant, même à titre accessoire, une activité non salariée, est redevable de la cotisation d'allocation familiales des travailleurs indépendants des professions non agricoles, certaines unions de recouvrement de la sécurité sociale et des allocations familiales (U.R.S.S.A.F.) ont procédé au recouvrement de cotisations d'allocations familiales, calculées sur les indemnités que perçoivent des agriculteurs en leur qualité de membres de conseils d'administration de sociétés coopératives agricoles. Des administrateurs concernés ont contesté cette imposition devant les juridictions compétentes. Dans un arrêt en date du 20 janvier 1988, Ciret C/U.R.S.S.A.F. des Ardennes, la chambre sociale de la Cour de cassation a considéré que " ladite cotisation d'allocations familiales destinée au financement du régime général de la sécurité sociale n'est due qu'en raison de l'exercice d'une activité non agricole ; que tel n'est pas le cas des fonctions occupées par un agriculteur au sein du conseil d'administration de la société coopérative dont il est membre ". Pour éviter que les agriculteurs, administrateurs de coopératives qui acquittent déjà des cotisations de prestations familiales assises sur le revenu cadastral de leur exploitation ne soient doublement imposés, le ministre de l'agriculture a demandé au ministre des affaires sociales et de l'emploi de donner aux U.R.S.S.A.F. les instructions qu'il estimera utiles pour qu'il soit tenu compte de la jurisprudence de la Haute Cour.
