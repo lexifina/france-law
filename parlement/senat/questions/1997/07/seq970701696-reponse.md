@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701696
+
+- Question : [SEQ970701696](seq970701696.md) — Montant des droits sur les testaments
+
+## Réponse
+
+*Économie, JO du 1997-10-16, page 2812*
+
+Réponse. - Malgré la similitude des termes, le testament ordinaire diffère profondément du testament-partage. Le premier a un caractère dévolutif, alors que le second réalise une répartition mais n'opère pas une transmission. Il s'agit d'un partage qui se réalise au moyen d'un testament et qui ne produit d'effet qu'au jour du décès de l'ascendant. Par ailleurs, lorsqu'un acte, tel un testament-partage, renferme deux dispositions tarifées différemment mais qui, à raison de leur corrélation, ne sont pas de nature à donner ouverture à la pluralité de droits, seule la disposition principale, soit au cas particulier le partage, donne ouverture à la perception du droit auquel elle est assujettie. C'est pourquoi les testaments-partages sont imposés dans les mêmes conditions que les partages ordinaires. Pour tous ces motifs, il n'est pas envisagé de modifier le régime fiscal appliqué aux testaments partages, qui est conforme aux dispositions des articles 1075 et 1079 du code civil et à la jurisprudence de la Cour de cassation (Cass. Com. 15 février 1971, pourvoi no 67-13527 et 14 avril 1975 ; pourvoi no 71-13633). En exécution de ces décisions, les bénéficiaires d'un testament n'ont pas été condamnés à souscrire, au pied de l'acte litigieux, une estimation détaillée de la valeur des biens légués. En réalité, comme tout héritier, ils ont été tenus de souscrire la déclaration et l'estimation détaillée des biens compris dans le partage testamentaire, de présenter cet acte à la formalité de l'enregistrement et de verser l'intégralité des droits et pénalités qui devaient être alors liquidés par le comptable dans la quinzaine de jugement.
