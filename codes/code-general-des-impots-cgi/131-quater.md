@@ -4,7 +4,7 @@ I. Les intérêts des emprunts contractés hors de France par des personnes mora
 
 a. L'emprunt doit comporter une durée de cinq ans au moins et, en cas d'amortissement anticipé, une vie moyenne d'au moins trois ans ;
 
-b. L'opération doit être expressément admise par l'administration fiscale au bénéfice de ce régime spécial avant le 31 décembre 1981 ;
+b. L'opération doit être expressément admise par l'administration fiscale au bénéfice de ce régime spécial avant le 31 décembre 1982 ;
 
 II. Les dispositions du I sont également applicables :
 

@@ -2,9 +2,9 @@
 
 I° Sous réserve des dispositions particulières qui sont propres aux bénéfices professionnels, les ventes de métaux précieux sont soumises à une taxe de 6 % (1) (2).
 
-Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d'antiquité sont soumises à une taxe de 3 % lorsque leur montant excède 20.000 F ; dans le cas où ce montant est compris entre 20.000 F et 30.000 F, la base d'imposition est réduite d'un montant égal à la différence entre 30.000 F et ledit montant (2).
+Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d'antiquité sont soumises à une taxe de 6 % (3) lorsque leur montant excède 20.000 F ; dans le cas où ce montant est compris entre 20.000 F et 30.000 F, la base d'imposition est réduite d'un montant égal à la différence entre 30.000 F et ledit montant (2).
 
-Le taux d'imposition est ramené à 2 % en cas de vente aux enchères publiques.
+Le taux d'imposition est ramené à 4 % (3) en cas de vente aux enchères publiques.
 
 II° Le vendeur est exonéré de la taxe si la vente est faite à un musée national, à un musée classé ou contrôlé par l'Etat ou une collectivité locale, ainsi qu'à la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une bibliothèque d'une autre collectivité publique.
 
@@ -13,3 +13,5 @@ La vente par enchères publiques des objets désignés au deuxième alinéa du I
 (1) Taux applicable à compter du 21 janvier 1980.
 
 (2) Voir Annexe II, art. 267 quater D.
+
+(3) Taux applicable à compter du 1er janvier 1982.

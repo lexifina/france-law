@@ -1,10 +1,16 @@
 # Article 44 bis
 
-I. Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les bénéfices réalisés au cours de l'année de leur création et des quatre années suivantes par les entreprises industrielles constituées à partir du 1er juin 1977 et avant le 1er janvier 1982 ne sont retenus que pour les deux tiers de leur montant. L'abattement s'applique avant déduction des déficits reportables. Il ne concerne pas les profits soumis à un taux réduit d'imposition et ne peut se cumuler avec d'autres abattements opérés sur le bénéfice.
+I. Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les bénéfices réalisés au cours de l'année de leur création et des quatre années suivantes par les entreprises industrielles ne sont retenus que :
 
-II. L'abattement du tiers s'applique lorsque les conditions suivantes sont réunies :
+- pour les deux tiers de leur montant lorsque ces entreprises ont été créées à partir du 1er juin 1977 et avant le 1er janvier 1982 - pour la moitié de leur montant lorsqu'elles ont été créées à partir du 1er janvier 1982 et jusqu'au 31 décembre 1983.
 
-1° Le chiffre d'affaires, rapporté s'il y a lieu à l'année, ne doit pas excéder 30 millions de francs hors taxes ; l'entreprise ne doit pas employer plus de 150 salariés ; ce chiffre s'apprécie comme en matière de participation des employeurs à la formation professionnelle continue ;
+Ces abattements s'appliquent avant déduction des déficits reportables. Ils ne concernent pas les profits soumis à un taux réduit d'imposition et ne peuvent se cumuler avec d'autres abattements opérés sur le bénéfice.
+
+II. L'abattement du tiers ou de la moitié mentionné au I s'applique lorsque les conditions suivantes sont réunies :
+
+1° Le chiffre d'affaires, rapporté s'il y a lieu à l'année, ne doit pas excéder 30 millions de francs hors taxes ; l'entreprise ne doit pas employer plus de 150 salariés ce chiffre s'apprécie comme en matière de participation des employeurs à la formation professionnelle continue.
+
+Pour les exercices ou périodes d'imposition arrêtés à compter du 31 décembre 1981, ces limites ne sont requises que pour l'année de création et l'année suivante ; elles sont portées respectivement à 60 millions de francs hors taxes et 300 salariés pour les trois années suivantes ;
 
 2° A la clôture de l'exercice, le prix de revient des biens d'équipement amortissables selon le mode dégressif en application des dispositions de l'article 39 A-1 doit représenter au moins les deux tiers du prix de revient total des immobilisations corporelles amortissables ; les entreprises qui ne remplissent pas cette condition à la clôture de leur premier exercice peuvent pratiquer l'abattement à titre provisoire ; cet avantage leur sera définitivement acquis si le pourcentage des deux tiers est atteint à la clôture de l'exercice suivant ;
 

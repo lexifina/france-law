@@ -1,6 +1,6 @@
 # Article 44 ter
 
-Les bénéfices réalisés pendant l'année de leur création et chacune des deux années suivantes par les entreprises industrielles nouvelles définies à l'article 44 bis, soumises à un régime réel d'imposition et produisant un bilan, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à la condition que, dans la déclaration des résultats de l'exercice de réalisation des bénéfices, elles s'obligent à maintenir ces bénéfices dans l'exploitation. Le maintien peut ne porter que sur une fraction du bénéfice imposable; dans ce cas, l'exonération est limitée à due concurrence.
+Les bénéfices réalisés pendant l'année de leur création et chacune des deux années suivantes par les entreprises industrielles visées à l'article 44 bis, créées avant le 1er janvier 1982, soumises à un régime réel d'imposition et produisant un bilan, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à la condition que, dans la déclaration des résultats de l'exercice de réalisation des bénéfices, elles s'obligent à maintenir ces bénéfices dans l'exploitation. Le maintien peut ne porter que sur une fraction du bénéfice imposable; dans ce cas, l'exonération est limitée à due concurrence.
 
 Le maintien du bénéfice dans l'entreprise est considéré comme effectif si :
 
@@ -12,4 +12,4 @@ En cas d'inexécution, pour un motif autre que la compensation des pertes, des o
 
 L'exonération prévue au présent article ne peut se cumuler avec l'abattement du tiers prévu par l'article 44 bis ni avec d'autres abattements opérés sur la partie non investie des bénéfices (1).
 
-1) L'exonération prévue à cet article est applicable à la détermination des résultats imposables des exercices clos à dater du 31 décembre 1978.
+(1) L'exonération prévue à cet article est applicable à la détermination des résultats imposables des exercices clos à dater du 31 décembre 1978.
