@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726743
+
+- Question : [SEQ000726743](seq000726743.md) — Participation de la France à la campagne internationale pour la vaccination des enfants dans les pays en voie de développement
+
+## Réponse
+
+*Coopération, JO du 2000-10-05, page 3383*
+
+Réponse. - La France appuie, depuis de nombreuses années, dans le cadre de la coopération bilatérale, des actions visant à renforcer le programme élargi de vaccination (PEV) ou à soutenir des campagnes de vaccination à l'initiative des gouvernements et avec l'appui de l'UNICEF et de l'OMS. Ce fut le cas par exemple au Bénin (1992-1998) et en Haïti (1994-1995). Un projet " bi-multi " de santé infantile avec une composante vaccinale sera engagé dès 2001 en Mauritanie en collaboration avec l'OMS. D'autres initiatives " bi-multi ", en matière de santé urbaine notamment, intègrent un volet visant à améliorer la couverture vaccinale au sein des populations exposées. Un projet d'intérêt général à financer sur le fonds de solidarité prioritaire et visant à améliorer la santé des femmes et des enfants est également en préparation : il comportera un volet " vaccinations " : tous les pays de la zone de solidarité prioritaire, soit 61 pays, seront éligibles dont 44 pays africains. Par ailleurs, le ministère des affaires étrangères contribue aux activités développées par les institutions multilatérales, notamment l'OMS, dans le cadre du programme de recherche sur les vaccins, à hauteur de 500 000 francs par an. Grâce à la générosité des Français, le comité français de l'UNICEF est le troisième contributeur de l'organisation pour une somme annuelle avoisinant les 200 millions de francs. Concernant plus particulièrement l'initiative visant une alliance mondiale pour la vaccination (GAVI), un groupe de réflexion est en train de se mettre en place en vue de définir, pour la France, des orientations stratégiques dans ce domaine.
