@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515324
+
+- Question : [SEQ910515324](seq910515324.md) — Concurrence entre Paris et Berlin pour les salons et foires
+
+## Réponse
+
+*Premier ministre, JO du 1991-07-18, page 1490*
+
+Réponse. - L'amélioration du rôle de Paris, en tant que centre d'expositions internationales, est liée à une série de mesures qui fait actuellement l'objet d'une concertation avec le ministre délégué au commerce, à l'artisanat et à la consommation. A priori, ces mesures pourraient, notamment porter sur une extension de la surface disponible au sein des parcs d'exposition existants (Villepinte) de manière à accueillir un plus grand nombre d'exposants. Il pourrait être envisagé également un aménagement des accès, voir des facilités de parking dans d'autres cas (Porte de Versailles). Enfin, et à l'instar de ce qui se passe en Allemagne pour les salons allemands, l'accent pourrait être mis sur une amélioration de la promotion des salons qui se déroulent à Paris, trop éclatée à ce jour, à partir des multiples organisateurs. La mise en application de ce type de dispositions pourrait être étalée dans le temps, dans la mesure où, Berlin devra réaliser un effort considérable d'équipements pour se hisser à un niveau réellement international en matière de salons. Cela posé, il convient de souligner que la concurrence allemande dans ce domaine est déjà très vive avec les villes telles Hanovre, Francfort, Stuttgart, Munich, Düsseldorf, Cologne. Par ailleurs, Leipzig sera appelée également à jouer à moyen terme un rôle dans le domaine des expositions. Enfin, l'action du secrétariat d'Etat au commerce extérieur, en matière de promotion des salons qui se déroulent à Paris, passe par le C.F.C.E. qui soutient financièrement et matériellement l'action de Promosalons. Cet organisme est chargé de promouvoir à l'étranger les salons français.
