@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951113003
+
+- Question : [SEQ951113003](seq951113003.md) — Avenir du statut de la direction des constructions navales
+
+## Réponse
+
+*Défense, JO du 1996-02-01, page 203*
+
+Réponse. - Au sein du ministère de la défense, la direction des constructions navales (DCN) fait partie de la délégation générale pour l'armement (DGA). Forte de 24 800 personnes, la DCN regroupe, sous une même autorité, les missions relevant de la maîtrise d'ouvrage (composante étatique) et les missions de maîtrise d'oeuvre (composante industrielle). Le service industriel assure, principalement au bénéfice de la marine nationale (85 p. 100 de l'activité), les tâches de conception, fabrication et entretien des bâtiments de surface et des sous-marins ainsi que de leurs systèmes de combats et leur propulsion. Compte tenu de l'évolution du contexte international, le ministre de la défense a créé, le 12 septembre 1995, un groupe de travail, présidé par le délégué général pour l'armement, chargé d'élaborer des propositions tendant à conforter l'avenir de la DCN. Quatre objectifs ont été fixés au groupe de travail : assurer la disponibilité des bâtiments de la marine nationale et leur renouvellement dans les meilleures conditions, conformément aux besoins ; être en mesure d'affronter la concurrence internationale et développer un pôle européen ; répondre aux contraintes budgétaires qui pèsent sur l'ensemble de l'industrie d'armement ; adapter les effectifs à travers une véritable politique des personnels qui devra respecter la priorité accordée par le Gouvernement à l'emploi. Le constat du groupe de travail devrait être adressé au ministre de la défense à la fin du mois de janvier. Les mesures gouvernementales qui en ressortiront auront fait l'objet d'une concertation préalable avec les organisations syndicales. En tout état de cause, l'objectif est bien d'assurer la pérennité et la modernisation de la DCN, non de procéder à son démantèlement.
