@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409475
+
+- Question : [SEQ900409475](seq900409475.md) — Opposabilité de l'article 60 du code de procédure pénale à l'administration
+
+## Réponse
+
+*Justice, JO du 1990-06-14, page 1323*
+
+Réponse. - En application de l'article 60 du code de procédure pénale, un officier de police judiciaire, dans le cadre d'une enquête de flagrance, peut confier à toute personne qualifiée, y compris le cas échéant à un agent public, la mission de procéder à des contatations ou à des examens techniques ou scientifiques qui ne peuvent être différés. Il appartient à la seule juridiction appelée à connaître de la procédure - et non à la personne qualifiée requise - d'apprécier la régularité des réquisitions prises par un officier de police judiciaire sur le fondement de ce texte, notamment quant au caractère flagrant, à la date de ces réquisitions, du crime ou délit objet de l'enquête. Il convient de relever par ailleurs que les officiers de police judiciaire disposent dans le cadre d'enquêtes préliminaires, en application de l'article 77-1 du code de procédure pénale, de pouvoirs identiques à ceux qui leur sont reconnus par l'article 60 du code de procédure pénale en enquête de flagrance, leur exercice étant cependant alors subordonné à l'autorisation du procureur de la République. Il semble, en l'état des éléments dont fait état l'honorable parlementaire, que le fait pour un officier de police judiciaire d'exiger d'un fonctionnaire la communication de renseignements dont il aurait eu connaissance dans l'exercice de ses fonctions, du moins si cette communication n'est pas nécessaire à l'accomplissement de la mission de procéder à des contatations ou à des examens techniques ou scientifiques qui lui serait confiée, n'entre pas dans les prévisions des articles 60 ou 77-1 du code de procédure pénale.
