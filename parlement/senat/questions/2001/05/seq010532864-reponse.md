@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532864
+
+- Question : [SEQ010532864](seq010532864.md) — Situation financière de l'Opéra-Comique
+
+## Réponse
+
+*Culture, JO du 2001-07-05, page 2242*
+
+La situation extrêmement préoccupante que connaissait l'Opéra-Comique à la fin de l'année 1999, conduisant à un fonds de roulement négatif de moins 15 MF a fait l'objet d'un certain nombre de corrections qui ont conjugué les effets de la définition d'un nouveau projet d'activité et ceux d'un aménagement des moyens attribués par l'Etat, la subvention étant majorée de 5 MF pour atteindre 33,8 MF en 2001. L'année 2000, entendue comme une période de transition, a permis d'enregistrer un excédent financier de 7,7 MF et de mettre en place les conditions de mise en oeuvre du projet de " théâtre musical populaire " défini par le nouveau directeur, Jérôme Savary. En 2001, l'Opéra-Comique développe un programme par lequel il donne plus de 220 représentations et devrait accueillir 160 000 spectateurs, ce qui correspond à une activité environ trois fois plus élevée que celle qu'il connaissait en 1999. Le ratio de subvention par spectateur évolue, de ce fait, de 570 francs à 210 francs et concerne, de plus, un public bénéficiant de tarifs beaucoup plus accessibles. Il reste que l'équilibre financier de l'Opéra-Comique reste difficile à assurer, en raison des contraintes imposées par le cahier des charges et de l'absence de marge financière disponible pour les activités de productions artistiques qui ne doivent, de ce fait, ne trouver leur financement que sur les seules recettes propres. Une analyse de l'évolution à moyen terme est actuellement en cours à partir des enseignements tirés de la gestion de l'année 2001. Elle devrait conduire à définir les conditions d'un plan de stabilisation couvrant la période 2002-2004, destiné à donner à l'Opéra-Comique les moyens d'un apurement des déficits résiduels et d'un développement équilibré du fonctionnement de cet établissement.
