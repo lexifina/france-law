@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722099
+
+- Question : [SEQ920722099](seq920722099.md) — Français de Pondichéry : taxe de séjour
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-02-25, page 319*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler à nouveau l'attention du ministre d'Etat, ministre des affaires étrangères sur les difficultés rencontrées par les Français résidant à Pondichéry depuis la décision du gouvernement indien, en date du 1er juin 1992, instituant un nouveau régime de taxe de séjour applicable à tous les étrangers, auquel les Français de Pondichéry seraient également soumis. Les autorités françaises sont intervenues à plusieurs reprises au cours des derniers mois tant auprès du gouvernement de Pondichéry que du gouvernement central de New-Delhi pour obtenir le respect des dispositions du traité de cession de 1956 et du procès-verbal agréé de 1983, relatives à la faculté pour les fonctionnaires, magistrats et militaires français nés dans les établissements ou y conservant des attaches familiales d'y revenir librement à l'occasion de congés ou de leur retraite. A ce jour, aucune réponse écrite n'a été donnée aux interventions de nos postes. Toutefois, le ministère indien des affaires extérieures a fait savoir, lors de conversations, que l'article 9 du traité de cession ne contenait à son avis aucune disposition d'ordre fiscal. Des instructions ont été données à l'ambassade de France à New-Delhi et au consulat général de France à Pondichéry de faire valoir qu'à la suite de la décision du 1er avril 1989 prise par le gouvernement indien dans le même domaine, les autorités indiennes avaient finalement reconnu que le traité précité créait une situation particulière au profit des ressortissants de Pondichéry et affirmé qu'elles en respecteraient les clauses tant qu'il serait en vigueur.
