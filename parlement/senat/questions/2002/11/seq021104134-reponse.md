@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104134
+
+- Question : [SEQ021104134](seq021104134.md) — Mise en place du décret du 3 mai 2002 sur la protection des mineurs,  dans le cadre de vacances scolaires et de loisirs
+
+## Réponse
+
+*Jeunesse, JO du 2003-02-06, page 476*
+
+L'article 14 du décret n° 2002-883 du 3 mai 2002 relatif à la protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs fixe les conditions d'encadrement des centres de vacances et de loisirs. Pour les centres n'accueillant pas un effectif supérieur à quatre-vingts mineurs pendant plus de quatre-vingts jours, l'encadrement peut être assuré par un titulaire du brevet d'aptitude aux fonctions de directeur (BAFD) ou par une personne en cours de formation BAFD. Cette disposition, qui concerne tout particulièrement les petits centres de loisirs sans hébergement ruraux, doit permettre de faciliter l'application du décret précité au 1er mai 2003, date d'entrée en vigueur du texte. Cette date (il avait été initialement prévu 2005), a été fixée au 1er mai 2003 conformément à l'avis du Conseil d'Etat qui a considéré que le report de l'application du décret était contraire aux objectifs de ce dernier, qui vise à renforcer la qualité et la sécurité des centres de vacances et de loisirs. Le Gouvernement étudie actuellement les mesures susceptibles d'être prises pour accompagner la mise en oeuvre de ce texte, notamment en matière d'aide à la formation ou de validation des acquis de l'expérience pour les personnes ayant une expérience de direction de centres de vacances et de loisirs. Les solutions envisagées, notamment pour les centres de loisirs sans hébergement ruraux, seront discutées à l'occasion des réunions de concertation prévues d'ici à la fin de l'année 2002 dans le cadre de la commission technique paritaire des centres de vacances et de loisirs et du Conseil national de l'éducation populaire et de la jeunesse.
