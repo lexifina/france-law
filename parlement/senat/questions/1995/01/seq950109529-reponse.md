@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109529
+
+- Question : [SEQ950109529](seq950109529.md) — Accessibilité des transports en commun aux personnes handicapées
+
+## Réponse
+
+*Équipement, JO du 1995-04-13, page 897*
+
+Réponse. - En mai 1994, la RATP a passé commande à Renault Véhicules Industriels de 650 autobus standard de type R 312 pour faire face au remplacement, en 1994 et en 1995, des autobus parvenus au terme de leur durée de vie. Le cahier des charges de l'autobus R 312, établi en 1975, tient compte des dispositions de la loi d'orientation en faveur des personnes handicapées. Aussi, l'autobus R 312 comporte-t-il des solutions techniques marquant des progrès significatifs en matière d'accessibilité par rapport au modèle précédent : plancher entièrement plat et moins haut (560 mm au lieu de 635 mm), aménagement intérieur plus fonctionnel, confort amélioré. Si la conception de l'autobus R 312 facilite notablement l'accès des voyageurs, elle ne permet toutefois pas l'accessibilité aux personnes en fauteuil roulant, qui nécessite à la fois l'adaptation des points d'arrêt et la mise au point de véhicules à plancher surbaissé (340 mm) spécialement aménagés et comportant une rampe escamotable. Il convient, en outre, d'assurer, corrélativement, de façon coordonnée, les aménagements de voirie et la mise en service des véhicules à plancher bas. C'est dans cet esprit, et afin de répondre à l'attente exprimée par plusieurs associations de handicapés, que la ville de Paris et la RATP ont étudié ensemble ce problème spécifique et ont pris la décision de lancer une première expérimentation. L'acquisition de 21 autobus à plancher surbaissé comportant les équipements nécessaires a donc été décidé ; ils circuleront sur la ligne 20 (Gare de Lyon-Gare Saint-Lazare), une fois les points d'arrêt adaptés. L'équipement et l'aménagement de nouvelles lignes accessibles aux handicapés pourront être décidés en fonction des résultats de cette expérimentation.
