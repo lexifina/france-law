@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707260
+
+- Question : [SEQ940707260](seq940707260.md) — Application de la loi relative à l'entreprise individuelle
+
+## Réponse
+
+*Entreprises, JO du 1994-10-06, page 2405*
+
+Réponse. - La loi du 11 février 1994 relative à l'initiative et à l'entreprise individuelle a, pour l'heure, fait l'objet des décrets d'application suivants : décret no 94-457 du 31 mai 1994 relatif à la réduction d'impôt liée aux apports en capital des sociétés non cotées ; décret no 94-584 du 6 juillet 1994 relatif à l'assurance fiscale ; décret no 94-738 du 26 août 1994 relatif aux conjoints collaborateurs à temps partiel ; décret no 94-750 du 30 août 1994 relatif aux simplifications comptables ; décret no 94-754 du 31 août 1994 relatif à l'exonération d'une fraction de la cotisation d'assurance maladie ; décret no 94-775 du 5 septembre 1994 relatif aux contrats-groupe fiscalement déductibles ; décret no 94-776 du 30 août 1994 relatif au report d'imposition d'une plus-value immobilière. Les autres textes d'application de cette loi sont tous en cours de concertation et devraient, en tout état de cause, être publiés au cours de l'automne. De plus, un nombre important de dispositions de cette loi étaient directement applicables, notamment l'article 47 relatif aux prises et appels de garantie du crédit et diverses dispositions fiscales. Le Gouvernement déposera au Parlement en février prochain, conformément à l'article 51 et dernier de cette loi, un rapport sur l'application de ses dispositions, notamment en matière de simplification administrative. On peut considérer que la montée en charge du dispositif opérationnel destiné à favoriser la création et le développement des entreprises individuelles est en voie d'achèvement. Les partenariats nécessaires associent de nombreux ministères et des organismes privés et publics multiples, au niveau national comme au niveau local.
