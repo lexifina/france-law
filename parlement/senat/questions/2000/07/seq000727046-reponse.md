@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000727046
+
+- Question : [SEQ000727046](seq000727046.md) — Versement d'indemnités de licenciement et accord conventionnel de branche
+
+## Réponse
+
+*Emploi, JO du 2001-04-19, page 1344*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de Mme la ministre de l'emploi et de la solidarité sur les conséquences d'une jurisprudence de la Cour de cassation en matière de rupture du contrat de travail pour inaptitude. Se fondant sur un cas précis dans lequel l'application de la loi a eu pour effet de fixer à deux ans de salaire l'indemnité de licenciement d'un salarié admis en invalidité après constat de son inaptitude au travail, il suggère une évolution de la législation en la matière. La chambre sociale de la Cour de cassation décide de manière constante, depuis un arrêt en date du 29 novembre 1990 (nº 4434), que la résiliation par l'employeur du contrat de travail du salarié atteint d'une invalidité le rendant inapte à exercer toute activité dans l'entreprise s'analyse en un licenciement. Ce licenciement ouvre droit, sauf disposition contraire de la convention collective, au paiement de l'indemnité conventionnelle de licenciement. Il résulte de l'attendu de principe de l'arrêt précité que la rupture du contrat dans les conditions évoquées s'analyse comme un licenciement, que dès lors l'indemnité de licenciement est due et que celle-ci est fixée par les dispositions de la loi ou les stipulations de la convention collective. Ces dernières sont applicables dès lors qu'elles sont plus favorables que la loi - selon un principe constant du droit du travail français - et, selon les termes mêmes de la chambre sociale de la Cour de cassation, " si les clauses de la convention ne l'excluent pas ". En conséquence, la jurdisprudence laisse ouverte aux partenaires sociaux la possibilité de déterminer, par la voie conventionnelle, le régime indemnitaire qui s'applique en cas de licenciement pour inaptitude physique.
