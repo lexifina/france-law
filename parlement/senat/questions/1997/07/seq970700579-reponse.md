@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700579
+
+- Question : [SEQ970700579](seq970700579.md) — Traitement du lisier
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-09-11, page 2356*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question posée par l'honorable parlementaire concernant les méthodes actuelles de traitement du lisier et plus généralement des déjections animales. La méthode de traitement de ces effluents d'élevage généralement utilisée est l'épandage sur des terres agricoles. Cette technique, intéressante au niveau agronomique, a montré ses limites dans des régions où elle conduit à une surfertilisation. C'est pourquoi, de nombreuses études ont été initiées depuis plusieurs années, tant par les organisations professionnelles et les instituts techniques que par les organismes publics (INRA, CEMAGREF). Plusieurs méthodes ont ainsi été analysées : la séparation de phases (liquide/solide) ; les traitements physico-chimiques (floculation) ; l'aération (lutte contre les odeurs) ; les traitements biologiques (station d'épuration) ; la fermentation méthanique ; le compostage ; la déshydratation (facilitation du transport) ; le " stripping " (élimination de l'ammoniac dans l'atmosphère). Toutes ces méthodes sont théoriquement applicables mais peuvent présenter des inconvénients majeurs notamment en terme de faisabilité technique et de coût économique au niveau de l'élevage. De plus, elles entraînent souvent un transfert de pollution (du sol vers l'atmosphère) et dans leur état actuel s'adressent prioritairement à l'azote en ignorant d'autres composants comme le phosphore et les métaux lourds. Il apparaît que l'utilisation de l'une ou de l'autre de ces méthodes peut avoir des effets favorables dans des conditions bien définies. Il n'est cependant pas souhaitable d'envisager leur application systématique.
