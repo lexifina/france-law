@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103574
+
+- Question : [SEQ861103574](seq861103574.md) — Enseignement français à l'étranger: recrutés locaux en Belgique
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-11-05, page 1746*
+
+Réponse. -Le montant de la rémunération des enseignants français recrutés localement par le lycée de Bruxelles est calculé, chaque année, en novembre, au moment de l'établissement du budget, sur la base du salaire qu'ils percevraient en France, converti en monnaie locale, auquel s'ajoute, depuis 1978, une indemnité complémentaire de résidence. Cette disposition n'a pas été abrogée, comme l'indique l'honorable parlementaire. Toutefois, dans un souci de rationalisation de la gestion du lycée et à la suite d'une observation de la Cour des comptes qui considère que l'octroi de cette indemnité ne repose sur aucune base légale, mon département souhaite y mettre fin à compter du 1er janvier 1988. Il a donc été proposé aux responsables de l'établissement de négocier, avec les personnels, un nouveau mode de calcul de leur traitement, sans référence explicite au salaire français traduit en monnaie locale et donc soumis aux variations du taux de change, mais reposant sur un point d'indice en monnaie locale dont la valeur pourra être révisée chaque année au moment de la préparation du budget en prenant en compte notamment l'augmentation du coût de la vie en Belgique. Il va de soi que ces nouvelles dispositions ne conduiront, en aucun cas, à une diminution des salaires des intéressés. Outre la mise en conformité avec les règles comptables, ce nouveau système présente, pour les personnels, l'avantage de fixer pour l'année un traitement en francs belges non soumis aux fluctuations du taux de change, comme l'est leur traitement actuel, du fait de son mode de calcul, au demeurant contraire à la notion même de recrutement local.
