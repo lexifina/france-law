@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700479
+
+- Question : [SEQ020700479](seq020700479.md) — Equivalence des grades entre les policiers et les gendarmes au sein des groupes d'intervention régionaux
+
+## Réponse
+
+*Intérieur, JO du 2003-02-06, page 466*
+
+Le décret du 15 mai 2002 relatif aux attributions du ministre de l'intérieur, de la sécurité et des libertés locales précise que, pour l'exercice de ses missions de sécurité intérieure, le ministre est responsable de l'emploi des services de la gendarmerie nationale. A cette fin, en concertation avec le ministre chargé de la défense, il détermine les conditions d'accomplissement de ces missions et les modalités d'organisation qui en résultent. Pour autant, la distinction entre le statut des fonctionnaires et agents de la police nationale et le statut militaire des gendarmes demeure. En effet, ces statuts légitiment des situations spécifiques de chacune de ces deux administrations, résultant de leur histoire, de leurs missions, de leur organisation et de leur fonctionnement. Ainsi, la police nationale se compose de trois corps distincts (corps de conception et de direction, de commandement et d'encadrement et de maîtrise et d'application), alors que la gendarmerie nationale ne comprend que deux corps : ceux des officiers et des sous-officiers. Le rassemblement de policiers et de gendarmes au sein des groupes d'intervention régionaux - au même titre que de fonctionnaires d'autres adminitrations de l'Etat - résulte de la volonté du Gouvernement de réunir, au sein d'une organisation pluridisciplinaire, des compétences et des moyens complémentaires pour mieux lutter contre l'économie souterraine et contre toutes les formes de délinquance organisée. Chaque groupe d'intervention régional comprend une unité d'organisation et de commandement bicéphale composée de policiers et de gendarmes.
