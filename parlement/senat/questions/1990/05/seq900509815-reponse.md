@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509815
+
+- Question : [SEQ900509815](seq900509815.md) — Accès des Français aux moyens de diagnostic modernes
+
+## Réponse
+
+*Solidarité, JO du 1990-09-27, page 2100*
+
+Réponse. - Les appareils d'imagerie par résonance magnétique et les scanographes sont des équipements matériels lourds au sens de l'article 46 de la loi hospitalière n° 70-1318 du 31 décembre 1970 modifiée. Ils sont soumis à la carte sanitaire et à l'autorisation ministérielle. Les indices de besoins, qui s'appliquent à la population de chaque région sanitaire, sont actuellement, pour les scanographes, d'un appareil pour une population comprise entre 120 000 et 230 000 habitants et pour les équipements d'imagerie par résonance magnétique (I.R.M.) d'un appareil pour une population comprise entre 600 000 et 1 600 000 habitants. Ce dispositif juridique a pour objectif d'assurer l'égal accès de tous à ces moyens modernes de diagnostic. De fait, toutes les régions métropolitaines disposent de plus d'un scanographe pour 230 000 habitants et toutes ont obtenu au moins une autorisation d'installer une I.R.M. La moyenne nationale est actuellement, avec 417 scanographes autorisés, d'un appareil pour 136 889 habitants et avec 70 I.R.M., d'un appareil pour 815 466 habitants. Les dernières informations statistiques comparatives avec les autres pays européens datent de 1988. Elles faisaient figurer la France en deuxième position après la R.F.A., pour le nombre d'équipements scanographiques et en troisième position, après l'Italie et la R.F.A. pour le nombre d'appareils d'I.R.M. Si l'on rapporte le nombre d'appareils à la population nationale, on constate que la position de la France est satisfaisante. L'ensemble de ces éléments témoigne de la politique active conduite pour accompagner le développement technologique très rapide de l'imagerie médicale.
