@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118652
+
+- Question : [SEQ961118652](seq961118652.md) — Politique française au Soudan
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-12-26, page 3486*
+
+Réponse. - La politique de la France à l'égard du Soudan s'inscrit dans le cadre des décisions prises tant au sein de l'Union européenne qu'aux Nations unies. Soucieuse qu'un règlement négocié permette de mettre fin à un conflit de plus de quarante années qui oppose le régime en place à Khartoum à des mouvements de rébellion dans le Sud du pays, et dont les populations civiles sont les premières victimes, la France soutient toute initiative qui permet d'instaurer un dialogue entre les parties en présence. A cet égard, elle considère qu'il appartient en premier lieu aux pays de la région d'assumer leurs responsabilités. C'est pourquoi elle a accueilli très favorablement la médiation entreprise en 1993 sous l'égide de l'autorité intergouvernementale pour le développement (IGAD) dont le siège est à Djibouti. Bien que la négociation ait été quelque peu ralentie ces derniers mois en raison des réaménagements internes de l'organisation, de nouvelles perspectives semblent s'offrir notamment avec la création d'un mécanisme de prévention et de gestion des conflits. La France est en tout cas déterminée à apporter son plein soutien à tout développement qui permettrait de progresser sur la voie d'une paix conforme aux aspirations légitimes des populations soudanaises. Elle oeuvre en ce sens auprès des dirigeants des pays membres de l'IGAD. Compte tenu de ces éléments, l'on ne peut qu'être surpris de voir certaines allégations répandues sur un prétendu soutien militaire de la France au gouvernement de Khartoum. La France respecte strictement la décision du Conseil de l'Union européenne du 15 mars 1994, qui a invité les Etats membres à appliquer un embargo sur l'exportation d'armes à destination du Soudan.
