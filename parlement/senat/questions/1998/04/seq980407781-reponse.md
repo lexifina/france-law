@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407781
+
+- Question : [SEQ980407781](seq980407781.md) — Prise en charge des personnes sans domicile fixe (SDF)
+
+## Réponse
+
+*Emploi, JO du 1999-02-25, page 615*
+
+Réponse. - L'action des pouvoirs publics en direction des personnes sans domicile ne se limite pas à une réponse d'urgence en matière d'accueil, d'hébergement, d'aide alimentaire et d'accès aux soins. Parmi les moyens de réinsertion offerts aux personnes sans domicile, les Centres d'hébergement et de réinsertion sociale (CHRS) disposent de quelque 30 000 places pour des séjours de plusieurs mois. Ces Centres disposent d'un personnel socio-éducatif qualifié. Des actions d'insertion y sont menées avec les personnes dans l'ensemble des secteurs de la vie sociale, y compris dans le domaine de la culture, des loisirs et du sport. Le programme de lutte contre les exclusions sociales adopté ce printemps par le Gouvernement et la loi du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions prévoient de renforcer les moyens des CHRS par la création de 500 places nouvelles en 1999 et 2000. Par ailleurs, de nombreuses associations soutenues par les pouvoirs publics, notamment celles qui gèrent des lieux d'accueil de jour en direction des personnes sans domicile, animent des actions conviviales et d'insertion sociale dans le domaine de la culture et du sport. Parmi les droits fondamentaux, auxquels la loi du 29 juillet de lutte contre les exclusions entend garantir l'accès de tous, figure le droit à l'accès, tout au long de la vie, à la culture, à la pratique sportive, aux vacances et aux loisirs. Dans le domaine du sport, seront notamment développées des mesures telles que le coupon-sport qui instituera une aide financière aux familles à faibles revenus pour réduire le coût de l'adhésion à une association sportive et la création d'emplois qualifiés ou non dans le champ de l'animation sportive.
