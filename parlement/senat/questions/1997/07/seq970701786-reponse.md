@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701786
+
+- Question : [SEQ970701786](seq970701786.md) — Situation des retraités français affiliés aux caisses de retraite de la zone franc
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-08-28, page 2199*
+
+Réponse. - Le Gouvernement est très attentif aux difficultés, anciennes (retards, absence de paiement) rencontrées par les Français qui ont travaillé en Afrique francophone pour percevoir leurs retraites locales ainsi acquises. Cette question a été rendue plus complexe et sensible par la dévaluation du franc CFA, intervenue le 12 janvier 1994, qui a eu pour effet de diminuer de moitié le montant de ces pensions. D'ailleurs, dès l'annonce du changement de parité monétaire, le Gouvernement a pris des mesures d'ordre social. Il est néanmoins rappelé à l'honorable parlementaire qu'il n'appartient pas à la France de réévaluer des retraites étrangères. En effet, n'exerçant aucune responsabilité juridique ou financière vis-à-vis des régimes de protection sociale d'Etats souverains, la France ne garantit pas la valeur des prestations servies et libellées dans leur monnaie nationale. De plus, ces pensions étant la contrepartie de cotisations encaissées par les régimes locaux de protection sociale, il n'appartient pas aux caisses françaises de sécurité sociale de s'y substituer, ni d'ailleurs de supporter les risques de change ; ce n'est conforme ni à leur domaine de compétence ni à leur mode de fonctionnement. Quant aux conventions bilatérales de sécurité sociale conclus avec les pays de la zone franc, elles n'ont pour but que de coordonner l'application des deux législations. En tout état de cause, et bien que la France n'ait pas passé de convention avec le Tchad et la Centrafrique, la question du versement des retraites est régulièrement et systématiquement évoquée lors de tous les entretiens de nos ministres concernés avec leurs homologues africains et lors des visites d'Etat.
