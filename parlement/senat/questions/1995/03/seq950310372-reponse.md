@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310372
+
+- Question : [SEQ950310372](seq950310372.md) — Maintien des jeunes de plus de vingt ans en institut médico-professionnel (IMPRO)
+
+## Réponse
+
+*Affaires sociales, JO du 1995-04-06, page 815*
+
+Réponse. - L'application de l'article 22 de la loi no 89-18 du 13 janvier 1989 dit " amendement Creton " a placé certains établissements de l'éducation spéciale dans une situation financière difficile. De nouvelles instructions ministérielles, en date du 27 janvier 1995, ont été récemment adressées aux préfets. Elaborées à la suite d'une large concertation avec la Caisse nationale d'assurance maladie des travailleurs salariés, l'assemblée des présidents de conseils généraux et les associations représentatives des personnes handicapées, ces instructions ont pour objectif essentiel de régler les difficultés évoquées par l'honorable parlementaire. Elles précisent, en particulier, les principes sur lesquels doit reposer la répartition entre les différents financeurs concernés (caisses d'assurance maladie et conseils généraux), de la prise en charge des jeunes adultes maintenus dans le cadre du dispositif de l'article 22. En outre, les règles concernant la contribution des conseils généraux aux frais de séjour y sont également développées avec précision. L'ensemble de ces mesures devrait permettre d'apaiser les rapports souvent conflictuels entre les différents partenaires, d'assainir la situation financière des établissements en difficulté et enfin d'harmoniser les conditions de mise en oeuvre du dispositif sur l'ensemble du territoire. Dans l'hypothèse où subsisteraient des cas litigieux, il pourra être fait appel à l'intervention de la mission d'appui constituée spécialement pour assurer le suivi du dispositif de " l'amendement Creton " et dont la responsabilité a été confiée à l'inspection générale des affaires sociales.
