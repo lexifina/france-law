@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610453
+
+- Question : [SEQ900610453](seq900610453.md) — Politique économique
+
+## Réponse
+
+*Économie, JO du 1990-10-18, page 2254*
+
+Réponse. - L'honorable parlementaire trouvera ci-dessous quelques éléments de réponse à sa question : en ce qui concerne les mouvements de capitaux, l'année 1989 a enregistré d'importantes entrées de capitaux à long terme (+ 54,2 milliards de francs contre + 3,2 milliards de francs en 1988), la forte croissance de l'excédent des opérations sur titres ayant largement compensé l'augmentation des sorties de capitaux dues aux opérations de prêts et d'investissement directs ; en ce qui concerne notre monnaie, la solidité du franc est le fondement d'une croissance non-inflationniste. En préservant la valeur de notre monnaie, c'est le pouvoir d'achat des Français que le Gouvernement défend. Les marchés internationaux, qui furent d'abord sceptiques, reconnaissent maintenant que le franc est devenu une monnaie stable, et donc un actif intéressant à détenir. La situation du franc s'est profondément améliorée au sein du système monétaire européen (S.M.E.) ces derniers mois. Le fait que le franc se soit quelque temps classé au 8e rang est une péripétie à laquelle il ne convient pas d'accorder de véritable signification ; en ce qui concerne l'inflation, elle s'est repliée au premier semestre revenant à 3 p. 100 à fin juin. L'annulation de l'écart d'inflation, à un bas niveau, entre la France et la République fédérale d'Allemagne (R.F.A.), est à la portée de la France. L'honorable parlementaire voit donc que les priorités gouvernementales n'ont pas changé : une inflation maîtrisée, un franc solide, une épargne plus importante, des entreprises plus fortes, telles sont, demain comme hier, les conditions d'une croissance saine de l'économie française.
