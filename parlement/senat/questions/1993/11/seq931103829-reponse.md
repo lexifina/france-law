@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103829
+
+- Question : [SEQ931103829](seq931103829.md) — Conditions de vie des chômeurs
+
+## Réponse
+
+*Travail, JO du 1994-04-14, page 901*
+
+Réponse. - La gravité de la situation financière du régime d'assurance chômage a conduit tant les partenaires sociaux que l'Etat à rechercher les conditions de retour à une situation financière positive et stabilisée du régime dans les dix ans à venir, garantissant ainsi la pérennité du dispositif paritaire de l'UNEDIC. Les protocoles d'accord des 22 et 23 juillet 1993, qui n'a pas bouleversé l'économie générale du régime tel qu'il existe depuis le 1er août 1992, n'a pas fait porter l'essentiel de l'effort financier sur les chômeurs mais sur les actifs par : l'augmentation du taux des contributions au régime d'assurance chômage (de 0,55 p. 100 à la charge des employeurs et de 0,35 p. 100 à la charge des salariés) ; le passage de 0,5 p. 100 à 0,55 p. 100 de la sur-contribution applicable aux rémunérations des salariés comprises entre un et quatre fois le plafond de la sécurité sociale. Par ailleurs, la réduction de la durée de versement à taux plein de l'allocation unique dégressive pour certaines filières n'a pas eu pour effet de réduire la durée globale d'indemnisation, les périodes d'indemnisation soumises aux coefficients de dégressivité ayant été allongées du même nombre de mois retirés à la période d'indemnisation à taux normal. Enfin, l'accord du 23 juillet 1993, signé par les partenaires et l'Etat, a abouti à la conclusion d'une convention financière Etat/UNEDIC prévoyant le versement au régime d'une subvention de 10 milliards de francs par an. Ce plan de retour à l'équilibre offre au régime d'assurance chômage des perspectives d'évolution allant dans le sens d'une plus importante activation des dépenses passives, en cohérence avec les orientations de la politique de l'emploi.
