@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305290
+
+- Question : [SEQ870305290](seq870305290.md) — Avenir de la filière fonte lorraine
+
+## Réponse
+
+*Industrie, JO du 1987-09-03, page 1374*
+
+Réponse. -La politique suivie par le Gouvernement dans le domaine de la sidérurgie vise à ce que cette activité redevienne dès que possible une industrie comme les autres, responsable de ses choix, de sa situation financière et indépendante des aides publiques. Dans ce contexte, l'équipe dirigeante commune aux sociétés Usinor et Sacilor, mise en place par le président Francis Mer, depuis sa nomination, a pour mission d'assurer le retour de ces groupes à une situation bénéficiaire. Elle doit donc en particulier assurer l'approvisionnement des usines en matières premières aux prix les plus bas. Les usines situées en Lorraine subissent, par rapport aux usines côtières, un handicap qualitatif en raison du phosphore contenu dans le minerai lorrain. C'est la raison pour laquelle de nombreuses recherches ont été effectuées dans un passé récent pour réaliser la déphosphorisation du minerai ; à ce jour malheureusement, aucune de ces recherches n'a véritablement conduità découvrir un procédé économique susceptible de permettre des investissements industriels rentables. Il est vrai, par ailleurs, qu'une réflexion d'ensemble a été entreprise sur la production de fonte en Lorraine ; son objectif est d'aider à déterminer ce que pourrait être une configuration industrielle qui permette de faire face à la concurrence des producteurs, notamment communautaires, les plus compétitifs. Cette réflexion est donc en cours et n'a conduit à ce jour à aucune décision nouvelle de M. Mer. Il ne faudrait pas oublier en revanche que la décision tout à fait récente de M. Mer de réaliser en Lorraine quelque 500 millions de francs d'investissements nouveaux s'inscrit parfaitement dans la perspective d'une confiance renouvelée dans l'avenir de cette industrie en Lorraine.
