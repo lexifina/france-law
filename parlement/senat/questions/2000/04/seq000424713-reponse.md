@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424713
+
+- Question : [SEQ000424713](seq000424713.md) — Baisse de TVA sur les travaux de déboisement et de débroussaillement
+
+## Réponse
+
+*Économie, JO du 2001-08-30, page 2814*
+
+Les prestations de déboisement et de débroussaillage ne figurent pas à l'annexe K à la directive européenne n° 1999/85/CE du 22 octobre 1999 fixant la liste des services à forte intensité de main-d'oeuvre susceptibles d'être soumis à un taux réduit de TVA. L'application du taux réduit de la TVA aux prestations de déboisement et de débroussaillage en tant que telles n'est donc pas envisageable. Cela étant, en application de la directive précitée, l'article 279-0-bis du code général des impôts, issu de l'article 5 de la loi de finances pour 2000, soumet au taux réduit de la TVA certains travaux portant sur les logements. A cet égard, il a paru possible de soumettre au taux réduit les travaux d'abattage, de tronçonnage, d'élagage et d'enlèvement des arbres situés aux abords directs des locaux d'habitation dès lors qu'ils sont nécessaires à l'accès aux locaux ou à leur remise en état. Cette mesure a été commentée au Bulletin officiel des impôts 3 C-3-00 du 30 mars 2000. Par ailleurs, le taux réduit s'applique aux travaux forestiers réalisés au profit d'exploitants agricoles et pour lesquels une facture a été émise à compter du 1er janvier 2000. Cette disposition codifiée à l'article 279 b septies du code général des impôts a été commentée au Bulletin officiel des impôts 3 I-1-00 du 23 mars 2000. Elle s'applique notamment aux travaux de déboisement et de débroussaillage. Il est précisé que lorsque ces travaux sont effectués en Corse, ils bénéficient du taux de 2,10 %. Ces propositions paraissent de nature à répondre aux préoccupations exprimées par l'auteur de la question.
