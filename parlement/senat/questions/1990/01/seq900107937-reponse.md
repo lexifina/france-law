@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107937
+
+- Question : [SEQ900107937](seq900107937.md) — Association des conseils généraux du Languedoc-Roussillon aux procédures des contrats de plan Etat-région et à la mise en oeuvre des programmes européens
+
+## Réponse
+
+*Aménagement du territoire, JO du 1990-10-11, page 2202*
+
+Réponse. - L'honorable parlementaire attire l'attention sur l'insuffisante association des conseils généraux du Languedoc-Roussillon aux procédures contractuelles, nationales et européennes. L'association des départements et de villes aux procédures contractuelles est effectivement devenu nécessaire, dans la mesure où ceux-ci prennent désormais une part active à la mise en oeuvre des contrats de plan Etat-Région et des programmes européens dans de nombreux domaines. Le Gouvernement entend redéfinir les modalités d'association des départements et des villes à la préparation et à la mise en oeuvre des programmes contractuels, de telle sorte que leur position soit clarifiée et renforcée tout au long de la procédure. Dans cette perspective, à l'initiative de monsieur Jacques Chérèque, ministre délégué chargé de l'aménagement du territoire et des reconversions, et de monsieur Lionel Stoléru, secrétaire d'Etat chargé du Plan, un groupe de travail interministériel chargé de l'évaluation des procédures contractuelles a été constitué, auquel participent des experts exerçant notamment des responsabilités dans des collectivités territoriales. Outre le bilan qualitatif des contrats de plan, ce groupe d'évaluation est chargé de faire des propositions relatives à l'organisation future des rapports entre l'Etat et les collectivités territoriales, afin notamment de placer les départements et les villes dans un dispositif contractuel leur permettant d'être des partenaires à part entière. Ce groupe d'évaluation qui doit auditionner de nombreux élus et responsables locaux, remettra son rapport en fin d'année.
