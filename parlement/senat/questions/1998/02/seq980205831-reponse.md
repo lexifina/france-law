@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205831
+
+- Question : [SEQ980205831](seq980205831.md) — Annulation de crédits d'équipement du ministère de la défense
+
+## Réponse
+
+*Défense, JO du 1998-03-19, page 901*
+
+Réponse. - Dans le contexte urgent du financement de mesures exceptionnelles en faveur des chômeurs, l'arrêté du 16 janvier 1998 a porté annulation de 300 MF de crédits de paiement et de 1 287 MF d'autorisations de programme du ministère de la défense. L'annulation plus importante des autorisations de programmes se justifie par une situation sensiblement excédentaire au regard des possibilités d'engagement, et fait suite à des annulations répétées de crédits de paiement lors des années passées. Cette annulation est donc neutre en terme de capacité d'engagement. L'annulation des crédits de paiement est arrêtée par chapitre ; sa sous-répartition par article budgétaire est encore à l'étude. La répartition par chapitre a été faite au prorata du budget 1998. Ainsi, près des trois quarts de cette annulation ont été portés sur les chapitres du nucléaire (41 MF) et des fabrications de matériels destinés aux trois armées (172 MF). Le titre VI a été épargné du fait de la nature assez peu compressible des subventions. La participation du ministère de la défense au règlement rapide du problème pécuniaire des chômeurs se traduit donc globalement par une réduction de moins de 0,4 % du budget d'équipement des armées. Une telle réduction n'est pas de nature à remettre en cause l'équilibre de la programmation évoqué par le ministre de la défense au Sénat le 5 décembre 1997 lors de l'examen du budget, alors qu'il s'agissait de faire face à une diminution de près de 9 % de ces crédits. Ces éléments seront intégrés dans les résultats de la revue des programmes qui seront présentés aux commissions spécialisées du Sénat et de l'Assemblée nationale.
