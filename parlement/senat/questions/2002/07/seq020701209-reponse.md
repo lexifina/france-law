@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701209
+
+- Question : [SEQ020701209](seq020701209.md) — Création d'une section ABIBAC au lycée Jean-XXIII de Metz
+
+## Réponse
+
+*Jeunesse, JO du 2002-09-26, page 2169*
+
+Actuellement, vingt-deux établissements français, dont trois lycées français en Allemagne, préparent à la double délivrance du baccalauréat et de l'Allgemeine Hochschulreife (Abitur). Trois de ces établissements relèvent de l'Académie de Nancy-Metz et sont respectivement implantés dans les villes de Metz, Saint-Avold et Sarreguemines. Un établissement candidat à l'ouverture d'une section ABI-BAC doit constituer un dossier qui fasse apparaître que les conditions d'une ouverture réussie sont remplies et notamment que les sections européennes implantées dans les collèges du bassin de formation garantiront des promotions d'élèves au nombre significatif, c'est-à-dire d'une quinzaine par an au minimum ; qu'il dispose d'enseignants des disciplines non-linguistiques (l'histoire et la géographie) aptes à assurer un enseignement de qualité en allemand. Les inspections régionales d'allemand et d'histoire-géographie ainsi que l'inspecteur-coordinateur national portent une appréciation sur le dossier. En cas d'avis favorable de leur part, celui-ci est transmis au ministère de la jeunesse, de l'éducation nationale et de la recherche (délégation aux relations internationales et à la coopération). Celui-ci présente alors la candidature à la commission franco-allemande des experts pour l'enseignement général qui se tient deux fois par an. A cette date, ce ministère n'a pas été saisi d'une candidature du Lycée Jean-XXIII au réseau franco-allemand des " établissements ABI-BAC ". Ainsi l'inscription du Lycée Jean-XXIII à Montigny-lès-Metz dans le réseau franco-allemand des " établissements ABI-BAC " ne pourra pas se faire à la rentrée scolaire 2002.
