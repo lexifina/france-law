@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001918
+
+- Question : [SEQ881001918](seq881001918.md) — Mutation de receveurs et modification de la consistance de la recette : information des maires
+
+## Réponse
+
+*Postes, JO du 1988-12-22, page 1469*
+
+Réponse. - Les habitants des zones rurales disposent d'un réseau d'accueil comprenant plus de 13 000 bureaux de poste et d'un réseau de contact représenté par plus de 37 000 facteurs qui desservent chaque jour l'ensemble des communes. Du fait des mouvements migratoires et de l'introduction d'organisations nouvelles, une disparité de plus en plus prononcée est apparue dans de nombreuses communes entre les potentialités des bureaux et leur niveau réel d'activité. Dans un souci d'optimisation des moyens du service public, la poste a été conduite à ajuster la forme que revêt sa présence à l'évolution du trafic postal et financier et ceci en accord avec la politique d'aménagement du territoire qui vise à assurer un développement harmonieux du monde rural. A cet égard, une action de concertation est en cours avec l'association des maires de France afin de trouver des solutions aux problèmes posés par les petits bureaux de poste à faible trafic, très nombreux en zones rurales, en essayant notamment de réactiver les établissements qui peuvent l'être. Sur le terrain, une action d'information est menée par les directions départementales des postes auxquelles des instructions ont été données pour assurer la concertation avec les municipalités. Les responsables des services postaux rencontrent les maires pour leur expliquer la situation de la poste dans leur commune et leur exposer un projet d'adaptation de l'établissement postal ou une réorganisation du service de la distribution. Dans tous les cas, les directions départementales veillent à préserver la qualité du service rendu à la population.
