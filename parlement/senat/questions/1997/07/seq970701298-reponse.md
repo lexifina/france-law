@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701298
+
+- Question : [SEQ970701298](seq970701298.md) — Situation du Centre national de documentation sur les toxicomanies (CNDT)
+
+## Réponse
+
+*Santé, JO du 1998-09-10, page 2918*
+
+Réponse. - M. Gilbert Chabroux attire l'attention de M. le secrétaire d'Etat à la santé sur la situation du Centre national de documentation sur les toxicomanies (CNDT) et lui demande quelles mesures le ministère compte prendre pour que ce centre continue à remplir ses missions. L'association CNDT a été créée pour mettre en place et gérer la banque de données sur les toxicomanies dont la création avait été décidée en 1985 par les autorités publiques (ministère de la solidarité et mission interministérielle de lutte contre la toxicomanie). Le CNDT n'ayant pas assuré l'ouverture de la banque de données, cette mission a été confiée par le ministère à l'association Toxibase créée en 1986. Le CNDT a toutefois continué de bénéficier d'une subvention de mes services au titre des actions de prévention et de formation. A partir de 1992, c'est la direction de l'action sociale (DAS) qui est devenue compétente pour le financement de ces activités. La DAS a souhaité que, en contrepartie de cette subvention accordée, le CNDT participe activement au fonctionnement de la banque de données Toxibase, en qualité de centre associé participant au réseau, ce qui n'a pas été réalisé. Or comme le souligne la Cour des comptes, dans son rapport sur l'association Toxibase en 1997, c'est à cette seule condition que pouvait être envisagée la prise en compte financière par la DAS du poste de documentaliste. Enfin, le maintien d'un financement des activités de prévention du CNDT a été décidé à la condition que ces activités s'inscrivent dans le cadre du plan gouvernemental de lutte contre la toxicomanie du 14 septembre 1995. Le directeur du CNDT a élaboré un projet d'ouverture d'un point écoute parents qui a été financé à hauteur de 400 000 F en 1997 par la DAS.
