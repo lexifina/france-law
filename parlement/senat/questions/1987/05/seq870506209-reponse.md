@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506209
+
+- Question : [SEQ870506209](seq870506209.md) — Situation de l'entreprise Evrard, fabricant de pulvérisateurs
+
+## Réponse
+
+*Industrie, JO du 1987-09-17, page 1474*
+
+Réponse. -Comme l'industrie du machinisme agricole dans son ensemble, le secteur de la pulvérisation connaît actuellement une contraction importante de son marché et a donc été contraint de mettre en oeuvre une restructuration qui pourrait s'avérer ne constituer qu'une première étape d'un mouvement plus profond si le marché devait continuer à se dégrader. Ainsi, les deux plus importantes entreprises françaises de ce secteur, les sociétés Berthoud et Technoma, ont renforcé successivement leur position en reprenant chacune d'elles, en 1986, deux autres entreprises françaises de pulvérisation présentant des complémentarités industrielles et commerciales. Deux groupes employant en France respectivement 600 et 450 personnes ont ainsi été constitués. Leur rapprochement vient d'être annoncé. A son tour, le groupe danois Hartvig Jensen, qui commercialise en France ses pulvérisateurs sous la marque Hardi et se situe au premier rang européen avec les deux groupes français précités, a racheté la société Evrard, spécialisée dans les grands pulvérisateurs tractés et automoteurs. L'intégration des établissements Evrard dans un groupe international connu devrait permettre de mieux utiliser le potentiel technique et industriel de cette société, dont les résultats financiers s'étaient fortement dégradés en raison de la baisse structurelle du marché et de la lenteur de son adaptation à cette évolution. La société Hartvig Jensen appartenant à un pays de la Communauté économique européenne (Danemark), les pouvoirs publics français n'ont eu à connaître de cette affaire que pour vérifier l'origine communautaire des capitaux utilisés et n'avaient pas la possibilité de s'opposer à cette opération.
