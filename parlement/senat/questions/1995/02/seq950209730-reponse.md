@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209730
+
+- Question : [SEQ950209730](seq950209730.md) — Importations de foin canadien
+
+## Réponse
+
+*Agriculture, JO du 1996-12-26, page 3491*
+
+Réponse. - Depuis de nombreuses années, le secteur du foin de Crau et de la basse vallée de la Durance est touché par une crise profonde qui se solde par une baisse importante des prix de vente des fourrages issus de cette région. Il apparaît qu'exceptionnellement au cours de l'année 1994, 972 quintaux de foin ont effectivement été importés du Canada vers la France, sachant que ce produit peut rentrer en France sans droit de douane. Cette situation est demeurée sans suite en 1995, qui ne fait état d'aucune importation pour la nomenclature douanière concernée (12 14 90 99 : foin, luzerne, sainfoin, choux fourragers, lupins, vesces, etc.). Dans tous les cas, compte tenu des spécifications du foin de Crau, de sa qualité et de sa finesse qui conditionnent ses débouchés habituels, notamment les haras, on peut douter que des fourrages d'importation puissent venir en concurrence avec ce produit. Dans ce contexte, et pour davantage tenir compte des différents caractéristiques du foin de Crau, y compris sur le plan de l'environnement, il a été possible de mettre en oeuvre une mesure communautaire visant à inciter les agriculteurs à intégrer le respect de l'environnement et des paysages dans leurs pratiques culturales. Cette approche est aujourd'hui intégrée dans le " agri-environnemental " des mesures d'accompagnement de la réforme de la politique agricole commune et une prime calculée en fonction des cahiers des charges rédigés à l'échelon local peut être attribuée aux producteurs de foin de Crau sur la base de 1 100 francs par hectare et par an. L'intégration d'une démarche paysagère peut ailleurs ouvrir des perspectives partenariales à long terme, donnant un rôle majeur aux producteurs dans la création et la gestion des paysages.
