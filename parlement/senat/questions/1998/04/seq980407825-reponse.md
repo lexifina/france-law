@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407825
+
+- Question : [SEQ980407825](seq980407825.md) — Assurance chômage pour les titulaires " d'emploi-jeune "
+
+## Réponse
+
+*Emploi, JO du 1998-08-20, page 2691*
+
+Réponse. - L'honorable parlementaire évoque le cas des communes qui hésitent à signer des contrats dans le cadre de la loi " nouveaux services - nouveaux emplois " en l'absence d'un régime particulier dérogatoire créé par les partenaires sociaux. Il convient de relever que les collectivités locales et les établissements publics administratifs autres que ceux de l'Etat peuvent adhérer au régime d'assurance chômage pour l'ensemble de leur personnel non titulaire. Seuls les collectivités et les établissements qui sont en auto-assurance, sont concernés par l'adhésion à un régime particulier dérogatoire. Les régimes particuliers n'existent actuellement que pour les seuls emplois, sous forme de contrat emploi-solidarité et de contrat d'apprentissage. Les partenaires sociaux ont été saisis le 29 septembre 1997 afin que les établissements publics et les collectivités locales en auto-assurance pour leurs non-titulaires puissent par dérogation à la règle générale, adhérer à l'UNEDIC pour leurs seuls emplois-jeunes. Les partenaires sociaux, qui ont examiné cette demande le 6 janvier 1998, n'ont pu encore aboutir à un accord sur ce point. Aussi, à ce jour, les règles de droit commun d'indemnisation de chômage des salariés non titulaires employés par les collectivités territoriales continuent-elles de s'appliquer pour les emplois-jeunes. En particulier, les collectivités territoriales ont la possibilité d'adhérer au régime d'assurance chômage pour l'ensemble de leur personnel non titulaire, ou d'assurer elles-mêmes la couverture du risque chômage de ces jeunes.
