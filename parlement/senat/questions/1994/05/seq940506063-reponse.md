@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506063
+
+- Question : [SEQ940506063](seq940506063.md) — Application de la loi relative à la pharmacie vétérinaire
+
+## Réponse
+
+*Santé, JO du 1994-06-30, page 1625*
+
+Réponse. - Dans le cadre du processus d'harmonisation communautaire du médicament, cinq directives concernant la pharmacie vétérinaire ont été adoptées (directive (CEE) no 90-167, (CEE) no 90-676, (CEE) no 90-677, (CEE) no 91-412, (CEE) no 91-18). La transposition en droit interne de ces textes nécessite l'introduction de dispositions de nature législative, ce qui a été fait par la loi no 92-650 du 13 juillet 1992, ainsi que d'ordre réglementaire. En conséquence, sont actuellement en cours d'élaboration les décrets portant non seulement application de la loi précitée mais également transposition de directives communautaires. Il s'agit donc d'une refonte complète du code de la santé publique dans sa partie " pharmacie vétérinaire ". De plus, ces textes doivent intégrer les modifications issues du partage de compétence intervenu entre les ministres chargés de l'agriculture et de la santé et le directeur général du Centre national d'études vétérinaires et alimentaires, établissement public administratif au sein duquel a été créée l'Agence nationale du médicament vétérinaire, par la loi du 10 février 1994. La parution du décret effectuant ce transfert de compétence, non encore intervenue à ce jour, subordonne donc la sortie des autres textes relatifs à la pharmacie vétérinaire. En tout état de cause, les ministres attachent la plus extrême importance à ce que cette mise à jour complète des dispositions réglementaires relatives à la pharmacie vétérinaire, rendues indispensables au regard des exigences communautaires et menées en concertation avec les instances ordinales et professionnelles concernées, s'effectue dans les meilleurs délais.
