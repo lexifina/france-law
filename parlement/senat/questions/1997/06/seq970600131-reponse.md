@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600131
+
+- Question : [SEQ970600131](seq970600131.md) — Réforme du permis de chasser
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-10-16, page 2796*
+
+Réponse. - Mme la ministre de l'aménagement du territoire a pris connaissance, avec intérêt, de la question posée par l'honorable parlementaire à M. le ministre de l'intérieur concernant la simplification des démarches à faire pour obtenir le renouvellement du permis de chasser. L'article 6 du décret no 97-503 du 21 mai 1997, portant sur les mesures de simplification administrative, publié au Journal officiel du 22 mai 1997, complète le dispositif réglementaire relatif au visa et à la validation annuelle du permis de chasser. Ce texte dispose que, par dérogation au droit commun en vigueur, dans les départements où la commodité pour les usagers le justifie et dont la liste est établie par arrêté du ministre chargé de la chasse, sur proposition des préfets après avis des fédérations départementales des chasseurs, le permis de chasser est visé et validé annuellement par le régisseur départemental des recettes auprès de l'Office national de la chasse en lieu et place respectivement du maire ou, pour Paris, du préfet de police, et du comptable du Trésor territorialement compétent ou, pour Paris, de la régie des recettes de la préfecture de police. Dans ce cas, le visa est communiqué sans délai au maire de la commune au titre de laquelle il a été demandé. Le maire dispose d'un délai de huit jours ouvrés pour faire valoir ses observations et, le cas échéant, demander l'annulation du visa préalablement délivré, ce qui répond pleinement à la préoccupation exprimée par l'Association des maires de France. Les préfets seront invités par voie de circulaire à procéder, avant de formuler leurs propositions, à de larges consultations, notamment auprès des associations départementales de maires.
