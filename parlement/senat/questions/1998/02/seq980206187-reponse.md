@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206187
+
+- Question : [SEQ980206187](seq980206187.md) — Mise sur le marché d'un nouveau stéthoscope
+
+## Réponse
+
+*Santé, JO du 1998-04-30, page 1426*
+
+Réponse. - La procédure de mise sur le marché des stéthoscopes repose sur les dispositions de la loi no 94-43 du 18 janvier 1994 relative à la santé publique et à la protection sociale, modifiée par la loi no 95-116 du 4 février 1995 portant diverses dispositions d'ordre social et le décret d'application no 95-292 du 16 mars 1995, transposant la directive no 93-42/CEE du 14 juin 1993 (livre V bis du code de la santé publique). Cette réglementation applicable depuis le 1er janvier 1995, et qui sera rendue obligatoire le 14 juin 1998, précise que les stéthoscopes peuvent être mis sur le marché, dès lors qu'ils répondent aux exigences essentielles concernant la sécurité et la santé des patients, des utilisateurs et des tiers, prévues à l'annexe I du livre V bis du code de la santé publique. Les services du secrétariat d'Etat à la santé ne peuvent s'engager sur l'intérêt que présente ce nouveau stéthoscope, notamment en ce qui concerne sa capacité à limiter les risques de contamination (maladies nosocomiales). En effet, seul le marquage CE institué par la directive précitée permettra de garantir que ce type de dispositif médical répond aux exigences de qualité et de sécurité telles que définies par les dispositions susvisées. En outre, si le ministre chargé de la santé est fondé à poser les règles assurant la sécurité sanitaire des dispositifs médicaux, dans le cadre de la réglementation communautaire, il n'a pas autorité pour prendre des mesures d'une autre nature afin de promouvoir l'emploi, voire la commercialisation d'un dispositif médical. Enfin, les établissements publics de santé sont caractérisés en France par une autonomie budgétaire laissant chaque chef d'établissement responsable de la politique d'achat.
