@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222544
+
+- Question : [SEQ000222544](seq000222544.md) — Conseil de l'ordre des masseurs-kinésithérapeutes
+
+## Réponse
+
+*Santé, JO du 2000-03-30, page 1170*
+
+Réponse. - La loi du 4 février 1995 portant diverses mesures d'ordre social a prévu la création des masseurs-kinésithérapeutes. En raison, d'une part, de l'opposition des professionnels salariés quant à la mise en place de cette structure et, d'autre part, de la non exhaustivité du fichier d'enregistrement des professionnels remettant en cause la régularité de la constitution du corps électoral et, partant, la validité des élections aux conseils de l'ordre, celles-ci n'ont pas été organisées. Par jugement en date du 29 novembre 1999, le Conseil d'Etat a enjoint au Gouvernement de fixer une date pour procéder aux élections du conseil de l'ordre. Toutefois, dès avant le jugement précité, la ministre de l'emploi et de la solidarité et la secrétaire d'Etat à la santé et à l'action sociale avaient décidé de donner suite à la proposition de création d'un office des professions paramédicales qui seraient chargé de proposer des règles professionnelles pour ces professions, de veiller à leur respect et de diffuser des règles de bonnes pratiques paramédicales. M. Philippe Nauche, député de la Corrèze, à qui une mission d'étude sur cette question a été confiée, procède actuellement à l'audition des différents partenaires concernés et remettra très prochainement un rapport à ce sujet. C'est en conséquence dans ce cadre que seront prises les décisions nécessaires.
