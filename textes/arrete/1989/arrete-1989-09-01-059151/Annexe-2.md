@@ -14,31 +14,69 @@ ergothérapeute de classe normale, psychomotricien de classe normale
 
 :Echelons : Indices bruts: |
 
-:8e : 493 : |
+:8e : |
 
-:7e : 487 : |
+Situation antérieure : 493 |
 
-:6e : 460 : |
+Au 1er août 1991 : 493 |
 
-:5e : 425 : |
+Au 1er août 1992 : 493 |
 
-au 1er août 1990 : |
+:7e : |
 
-:4e : 380 : |
+Situation antérieure : 487 |
 
-au 1er août 1990 : |
+Au 1er août 1991 : 487 |
 
-:3e : 343 : |
+Au 1er août 1992 : 487 |
 
-au 1er août 1990 : |
+:6e : |
 
-:2e : 311 : |
+Situation antérieure : 460 |
 
-au 1er août 1990 : |
+Au 1er août 1991 : 460 |
 
-:1er : 286 : |
+Au 1er août 1992 : 460 |
 
-==========================Masseur-kinésithérapeute de classe supérieure,
+:5e : |
+
+Situation antérieure : 425 |
+
+Au 1er août 1991 : 425 |
+
+Au 1er août 1992 : 425 |
+
+:4e : |
+
+Situation antérieure : 380 |
+
+Au 1er août 1991 : 382 |
+
+Au 1er août 1992 : 390 |
+
+:3e : |
+
+Situation antérieure : 343 |
+
+Au 1er août 1991 : 348 |
+
+Au 1er août 1992 : 356 |
+
+:2e : |
+
+Situation antérieure : 311 |
+
+Au 1er août 1991 : 317 |
+
+Au 1er août 1992 : 326 |
+
+:1er : |
+
+Situation antérieure : 286
+
+Au 1er août 1991 : 291
+
+Au 1er août 1992 : 301 ==========================Masseur-kinésithérapeute de classe supérieure,
 
 ergothérapeute de classe supérieure, psychomotricien de classe supérieure
 
@@ -80,28 +118,4 @@ psychomotricien surveillant des services médicaux
 
 :1er : 384 : |
 
-==========================Masseur-kinésithérapeute surveillant-chef des services médicaux,
-
-ergothérapeute surveillant-chef des services médicaux,
-
-psychomotricien surveillant-chef des services médicaux
-
 ==========================
-
-:Echelons : Indices bruts: |
-
-:7e : 619 : |
-
-:6e : 586 : |
-
-:5e : 552 : |
-
-:4e : 518 : |
-
-:3e : 489 : |
-
-:2e : 462 : |
-
-:1er : 431 : |
-
-===========================

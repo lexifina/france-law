@@ -10,29 +10,61 @@ diététicien de classe normale
 
 :Echelons : Indices bruts: |
 
-:7e : 487 : |
+:7e : |
 
-:6e : 460 : |
+Situation antérieure : 487 |
 
-:5e : 425 : |
+Au 1er août 1991 : 487 |
 
-au 1er août 1990 : |
+Au 1er août 1992 : 487 |
 
-:4e : 380 : |
+:6e : |
 
-au 1er août 1990 : |
+Situation antérieure : 460 |
 
-:3e : 343 : |
+Au 1er août 1991 : 460 |
 
-au 1er août 1990 : |
+Au 1er août 1992 : 460 |
 
-:2e : 311 : |
+:5e : |
 
-au 1er août 1990 : |
+Situation antérieure : 425 |
 
-:1er : 286 : |
+Au 1er août 1991 : 425 |
 
-==========================Orthophoniste de classe supérieure, orthoptiste de classe supérieure,
+Au 1er août 1992 : 425 |
+
+:4e : |
+
+Situation antérieure : 380 |
+
+Au 1er août 1991 : 382 |
+
+Au 1er août 1992 : 390 |
+
+:3e : |
+
+Situation antérieure : 343 |
+
+Au 1er août 1991 : 348 |
+
+Au 1er août 1992 : 356 |
+
+:2e : |
+
+Situation antérieure : 311 |
+
+Au 1er août 1991 : 317 |
+
+Au 1er août 1992 : 326 |
+
+:1er : |
+
+Situation antérieure : 286
+
+Au 1er août 1991 : 291
+
+Au 1er août 1992 : 301 ==========================Orthophoniste de classe supérieure, orthoptiste de classe supérieure,
 
 diététicien de classe supérieure
 
@@ -73,29 +105,5 @@ diététicien surveillant des services médicaux
 :2e : 423 : |
 
 :1er : 384 : |
-
-===========================Orthophoniste surveillant-chef des services médicaux,
-
-orthoptiste surveillant-chef des services médicaux,
-
-diététicien surveillant-chef des services médicaux
-
-==========================
-
-:Echelons : Indices bruts: |
-
-:7e : 619 : |
-
-:6e : 586 : |
-
-:5e : 552 : |
-
-:4e : 518 : |
-
-:3e : 489 : |
-
-:2e : 462 : |
-
-:1er : 431 : |
 
 ===========================
