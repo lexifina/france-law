@@ -1,5 +1,0 @@
-# Article 38 nouveau
-
-Les frais de fonctionnement des commissions paritaires régionales de la commission d'interprétation, du conseil paritaire national et ceux d'arbitrage par les membres de ce conseil seront à la charge des conseils régionaux des notaires ou du conseil supérieur du notariat, ces organismes devant - de façon permanente - assumer les frais de fonctionnement desdites commissions et les frais de déplacement et de séjour de leurs membres et des témoins qu'elles auraient décidé de citer, à l'exclusion de tous autres.
-
-Les présentes conventions formant deux avenants entrent en vigueur le 1er ocobre 1988.

@@ -1,9 +1,0 @@
-# Article 6 nouveau
-
-(Dispositions à négocier avant le 28 avril 1989).
-
-La commission paritaire nationale de l'emploi et de la formation professionnelle dans le notariat devra faire imprimer, dans les trois mois de la présente convention, des formules de fiches, conformes au modèle ci-dessus, et les distribuer en nombre suffisant dans toute les études.
-
-Chaque membre du personnel des études devra obligatoirement être pourvu d'une fiche, dans les quatre mois des présentes ou dans le mois qui suit la fin de la période d'essai.
-
-Lors des inspections de comptabilité et des contrôles de la caisse de retraite et de prévoyance des clercs et employés de notaire, les inspecteurs contrôleurs devront vérifier la concordance entre ces fiches et le livre de paie : mention devra en être faite dans leur rapport.

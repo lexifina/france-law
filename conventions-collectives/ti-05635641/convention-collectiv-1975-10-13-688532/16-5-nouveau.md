@@ -1,3 +1,0 @@
-# Article 16-5 nouveau
-
-La rupture du contrat, qu'elle émane de l'employeur ou du salarié, ne peut être une cause de suppression de vacances. Le salarié y a toujours droit s'il remplit les conditions voulues.
