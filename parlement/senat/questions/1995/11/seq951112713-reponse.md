@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112713
+
+- Question : [SEQ951112713](seq951112713.md) — Implantation en zone artisanale ou commerciale de relais de tourisme équestre
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-06-06, page 1401*
+
+Réponse. - Au regard du droit de l'urbanisme, l'activité générée par un relais de tourisme équestre ayant pour objet la location de chevaux relève habituellement d'une activité agricole, notamment au regard des nuisances qu'elle est susceptible d'engendrer pour le voisinage. Dans un arrêt du 6 mars 1991 - requête Comte et Kuhn -, le Conseil d'Etat a considéré qu'il convenait de faire application des règles prévues pour les constructions agricoles aux locaux de nature commerciale susceptibles de produire des nuisances semblables à celles d'une activité agricole. Il appartient aux collectivités locales décentralisées, lors de l'élaboration du règlement de leur plan d'occupation des sols ou de la création d'une zone d'activité artisanale et commerciale, d'apprécier la compatibilité d'un relais de tourisme équestre, au regard de la salubrité et des nuisances, avec le développement d'activités artisanales ou commerciales plus classiques ; le ministre chargé de l'urbanisme ne peut toutefois que recommander d'exclure l'implantation de ce type d'activités dans de telles zones pour éviter tout conflit de voisinage prévisible. En revanche, au regard du droit fiscal, et notamment de l'assujettissement à la taxe locale d'équipement, une telle construction relève de la neuvième catégorie prévue à l'article 1585 DI du code général des impôts, catégorie de classement des constructions à usage commercial. Ce classement est conforme à la jurisprudence du Conseil d'Etat rendue spécialement en matière de taxe locale d'équipement. En effet, dans un arrêt du 18 février 1985 (requête Cassigneul), la haute juridiction a jugé qu'un centre équestre devait être regardé comme se livrant à une activité commerciale.
