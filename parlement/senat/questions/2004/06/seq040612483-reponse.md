@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612483
+
+- Question : [SEQ040612483](seq040612483.md) — Fonds départementaux de péréquation de la taxe professionnelle
+
+## Réponse
+
+*Intérieur, JO du 2004-09-02, page 2004*
+
+Les dispositions de l'article 1648 A II du code général des impôts, relatives à la répartition des ressources des fonds départementaux de péréquation de la taxe professionnelle (FDPTP), ont été précisées par le décret n° 88-988 du 17 octobre 1988. L'article 4 de ce décret prévoit que le conseil général, compétent en matière de répartition des ressources des fonds, établit la liste des communes dites concernées qui sont situées à proximité de l'établissement exceptionnel écrêté lorsqu'elles ou leurs établissements publics de coopération intercommunale (EPCI) subissent de ce fait un préjudice ou une charge quelconque et en particulier lorsqu'une partie des salariés de l'établissement écrêté y réside, le nombre de ceux-ci étant un élément déterminant de la répartition. Il précise notamment que le conseil général peut faire figurer sur cette liste les communes qui justifient d'un préjudice ou d'une charge répondant aux critères objectifs qu'il arrête. Il prévoit en outre que figurent obligatoirement les communes, quel que soit leur lieu de situation, où sont domiciliés, au 1er janvier de l'année de l'écrêtement, au moins dix salariés travaillant dans l'établissement et dans lesquelles ces salariés et leurs familles représentent au moins 1 % de la population totale de la commune. Pour l'appréciation de cette dernière condition, le nombre de salariés est multiplié par quatre. Ces dispositions permettent de verser une attribution aux communes situées dans un département limitrophe dès lors que les conditions requises sont respectées. La répartition est alors effectuée par la commission interdépartementale.
