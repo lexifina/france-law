@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009458
+
+- Question : [SEQ031009458](seq031009458.md) — Assiette des cotisations sociales des VRP
+
+## Réponse
+
+*Santé, JO du 2004-09-23, page 2177*
+
+L'article 9 de l'arrêté du 20 décembre 2002 relatif aux frais professionnels déductibles pour le calcul des cotisations de sécurité sociale, entré en vigueur à compter du 1er janvier 2003, a soumis l'application des déductions forfaitaires spécifiques pour frais professionnels dont la liste et les montants figurent à l'article 5 de l'annexe IV du code général des impôts dans sa rédaction en vigueur au 31 décembre 2000, et ce dans la limite de 7600 euros par année civile, à un accord entre l'employeur et ses salariés. L'employeur peut ainsi appliquer la déduction forfaitaire spécifique lorsqu'une convention ou un accord collectif de travail l'a explicitement prévu ou lorsque le comité d'entreprise ou les délégués du personnel ont donné leur accord. A défaut, il appartient à chaque salarié d'accepter ou non cette option. En conséquence, lorsque l'employeur n'est pas autorisé à opter pour la déduction forfaitaire spécifique, l'assiette des cotisations des VRP est assise, conformément aux dispositions de l'article L. 242-1 du code de la sécurité sociale, sur les rémunérations brutes desquelles sont déduits les montants des frais professionnels réels. Lorsque l'employeur est autorisé à opter pour la déduction forfaitaire spécifique soit après accord collectif du travail, soit après accord du salarié, l'assiette des cotisations est constituée par la rémunération globale du salarié, comprenant notamment les frais professionnels, à laquelle est appliqué le taux de 30 % de la déduction forfaitaire spécifique autorisée pour les VRP dans la limite de 7 600 euros par année civile. Il appartient donc désormais aux employeurs et à leur VRP de décider ensemble de l'application ou de la non-application de la déduction forfaitaire spécifique de 30 %.
