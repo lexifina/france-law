@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323640
+
+- Question : [SEQ000323640](seq000323640.md) — Création d'emplois dans le bassin de Saint-Quentin et modalités du financement de l'intervention du cabinet SODIE
+
+## Réponse
+
+*Industrie, JO du 2000-05-04, page 1601*
+
+Réponse. - Le Gouvernement vient d'annoncer qu'il engageait une action de diversification économique dans le bassin d'emploi de Saint-Quentin afin de traiter les conséquences des restructurations de l'industrie du textile-habillement sur l'emploi local. A cet effet, mandat a été donné à un opérateur spécialisé, la Sodie de participer à la redynamisation de l'économie du bassin de Saint-Quentin en aidant des entreprises qui créent des emplois dans la zone. Dans le cadre de la présente mission, le Gouvernement a fixé à 650 le nombre d'emplois à la création effective desquels l'action de diversification devra contribuer. Pour ce faire, la Sodie détecte ou fait apparaître des projets créateurs d'emplois, contribue à leur montage en conseillant les chefs d'entreprise et participe à leur financement en accordant des prêts à taux réduit, sans garantie pour les PME. En contrepartie, les entreprises s'engagent à réaliser un programme de développement significatif avec création d'emplois. Sodie assure le suivi des projets jusqu'à la création effective des emplois. L'expérience des missions de réindustrialisation met en évidence que le montant du financement nécesaire pour accompagner ainsi la création effective d'un emploi varie dans une fourchette de 20 000 à 50 000 francs en fonction du programme de développement de l'entreprise et de son intensité capitalistique. L'action de Sodie est distincte et complémentaire de celle de Cap Développement, vouée à la prospection des investissements étrangers et à la mise en valeur de l'offre territoriale des régions Champagne-Ardenne et Picardie.
