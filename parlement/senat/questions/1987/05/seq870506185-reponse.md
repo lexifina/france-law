@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506185
+
+- Question : [SEQ870506185](seq870506185.md) — Information des détenus à l'égard du Sida
+
+## Réponse
+
+*Justice, JO du 1987-07-02, page 1048*
+
+Réponse. -Des études épidémiologiques effectuées sur des entrants en prison dans quelques établissements pénitentiaires de la région parisienne et de province ont mis en évidence des taux de séropositivité, par rapport au virus du S.I.D.A., plus importants que le taux estimé de la population générale ou le taux enregistré parmi les donneurs de sang. Cette situation s'explique par la forte proportion de toxicomanes parmi les détenus, et en particulier de ceux qui s'injectent de substances stupéfiantes dans le sang. Pour faire face à cette situation, la Chancellerie conduit, en plein accord et avec le soutien du ministère chargé de la santé, une politique de prévention qui s'inscrit dans le cadre du programme national de lutte contre le S.I.D.A. Celle-ci s'articule autour de trois axes : dépistage médical, prise en charge des malades, information. Dès l'examen médical d'entrée, les détenus qui présentent une symtomatologie ou qui en font la demande se voient prescrire un test par le médecin de l'établissement. Après confirmation du résultat, celui-ci est communiqué au détenu séropositif par le personnel médical et suivi d'entretiens personnalisés. Une prise en charge psychologique et un bilan biologique semestriel sont requis pour les porteurs asymptomatiques tandis que des prises en charge en milieu spécialisé s'avèrent nécessaires pour les examens et les oins aux détenus atteints des formes diverses de la maladie. La mise en place d'un dispositif d'information à l'égard des personnels et des détenus constitue le moyen le plus efficace de prévenir la contagion, étant observé que des précautions élémentaires et le respect des règles d'hygiène habituelles suffisent à se protéger.
