@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508430
+
+- Question : [SEQ980508430](seq980508430.md) — Création d'une cour criminelle internationale
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-07-30, page 2439*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger le ministre des affaires étrangères à propos de la position de la France vis-à-vis du projet de Cour criminelle internationale qui fait l'objet de la conférence diplomatique qui vient de s'ouvrir à Rome. La France estime tout d'abord que la compétence de la Cour devrait être, au moins dans un premier temps, limitée aux crimes exceptionnels qui par leur ampleur révulsent la conscience même de l'humanité : génocides, crimes contre l'humanité, crimes de guerre et violations très graves du droit international humanitaire. La France soutient le principe de la complémentarité de la Cour avec les juridictions nationales. Selon ce principe, la Cour n'aura à se saisir qu'en cas de défaillance - volontaire ou involontaire - des autorités nationales. La décision relèvera de la mission impartie à cette Cour. La France a suggéré la création d'une formation des juges qui participera à l'instruction des dossiers dès la phase préliminaire, au côté du procureur. Elle retient l'idée d'une décision d'un commun accord du procureur et de la chambre préliminaire pour engager une procédure. La France estime qu'il devra exister une bonne articulation réciproque entre l'action du conseil de sécurité, indispensable au maintien de la paix dans un monde instable, et le rôle de la Cour. Ce sera une condition indispensable à la réussite de la nouvelle institution. La France est consciente des attentes de l'opinion publique qui n'admet plus l'impunité des grands criminels ; elle souhaite que la juridiction nouvelle qui doit être créée soit indépendante, efficace et qu'elle bénéficie d'un soutien aussi universel que possible. Elle ne ménagera aucun effort pour la réussite de la négociation.
