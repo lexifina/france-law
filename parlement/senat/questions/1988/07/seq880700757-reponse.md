@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700757
+
+- Question : [SEQ880700757](seq880700757.md) — Incorporation de blé impanifiable dans l'alimentation animale
+
+## Réponse
+
+*Agriculture, JO du 1988-09-08, page 983*
+
+Réponse. - La production européenne de céréales s'est fortement développée ces dernières années passant en dix ans de 100 à 137 millions de tonnes (C.E.E. à 10). Dans le même temps, si l'alimentation animale reste le premier débouché des céréales, sa part, par rapport à la production, est passée de 70 à 50 p. 100. Et les taux d'incorporation de céréales dans les aliments composés chutent dans tous les pays de la Communauté, passant de 41,5 p. 100 en 1977 à 28,4 p. 100 en 1987 pour la C.E.E. à 9. Les céréales sont concurrencées, dans les aliments du bétail, par le large ensemble de produits dits de substitution dont une part importante est importée. De fortes distorsions de concurrence se sont ainsi créées entre les régions ou pays favorisant ceux proches des ports d'importation, et entre productions animales. C'est pourquoi, dès l'automne 1987, la France a demandé que soit mise en oeuvre une prime à l'incorporation de céréales en alimentation animale favorisant leur utilisation et essayant d'atténuer ces distorsions. Le conseil des ministres de l'agriculture de la communauté, tenu en juin 1988 à Luxembourg, a accepté le principe d'une aide à l'utilisation accrue des céréales dans le secteur animal. Il s'est engagé à statuer, avant le 31 octobre 1988, sur les modalités d'application d'une prime à l'incorporation. Dans les négociations qui vont reprendre dans les prochaines semaines, la France veillera à ce que soient respectés deux objectifs : accroissement des volumes et des taux de céréales en alimentation animale ; et réduction des écarts de coûts alimentaires entre régions fortes utilisatrices de céréales et régions utilisatrices de produits de substitution.
