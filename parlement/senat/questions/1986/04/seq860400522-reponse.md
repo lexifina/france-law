@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400522
+
+- Question : [SEQ860400522](seq860400522.md) — Renouvellement de la politique familiale
+
+## Réponse
+
+*Affaires sociales, JO du 1986-08-14, page 1157*
+
+Réponse. -Les bases de la politique familiale fixées en 1945 reposaient sur le principe de la compensation du coût de l'enfant ; progressivement, la politique familiale a élargi et diversifié ses interventions afin de répondre de manière globale ou différenciée, selon le cas, aux besoins des familles. A cet égard, des mesures concernant l'accueil des enfants, la création d'un environnement favorable à la famille, la conciliation de la vie familiale et professionnelle et celles prises en faveur des familles défavorisées, témoignent de la nécessaire adaptation de la politique familiale aux mutations sociales. Ces actions sont inscrites dans le programme prioritaire d'exécution n° 8 du 9e Plan qui s'achèvera en 1988. Il convient cependant de renforcer les moyens donnés aux familles dans le cadre d'un plan d'action global qui est au nombre des missions données au ministre des affaires sociales et de l'emploi. Ce plan, à l'étude actuellement, s'ordonne autour des priorités suivantes : encourager la naissance d'un troisième enfant, donner plus de cohérence et d'efficacité au système des prestations familiales, rendre mieux compatibles la vie familiale et la vie professionnelle, renforcer la prise en compte des paramètres familiaux dans les politiques en matière de logement, d'école et d'emploi, enfin rétablir la neutralité de l'impôt sur le revenu à l'égard des familles sans différence de statuts. Les mesures qui seront adoptées devront permettre aux familles, grâce aux moyens qui leur seront accordés, de déterminer plus librement leur choix de vie. Ces mesures seront mises en place par étapes en fonction des possibilités budgétaires.
