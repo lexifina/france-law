@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506152
+
+- Question : [SEQ870506152](seq870506152.md) — Enseignement français à l'étranger: non convocation du Conseil pour l'enseignement français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-08-06, page 1217*
+
+Réponse. -Le Conseil pour l'enseignement français à l'étranger (C.E.F.E.) ne s'est pas réuni depuis le 18 février 1986 pour plusieurs raisons. La création d'un ministère de la coopération de plein exercice, distinct du ministère des affaires étrangères, imposait une modification de la répartition même des représentants de l'administration au sein du C.E.F.E. En outre, la représentation des organisations syndicales telle qu'elle était définie dans le décret du 7 octobre 1982 créant le C.E.F.E. (décret n° 82-859), aurait dû être également redéfinie en fonction des résultats des élections qui ont eu lieu en mai 1986, compte tenu du mode d'attribution des sièges prévus à l'article 3, alinéa 5. A ces données, s'est ajouté le fait que le décret créant le C.E.F.E. a été inclu dans la réflexion générale sur l'ensemble des textes relatifs à l'organisation de l'enseignement français à l'étranger. Cette réflexion comportait, s'agissant du C.E.F.E., un réexamen de la répartition de l'ensemble des membres de ce conseil. Un premier projet a d'ailleurs été porté à la connaissance du Conseil supérieur des Français de l'étranger (C.S.F.E.) fin février 1986. Tout comme pour le projet de texte de décret devant se substituer au décret n° 82-858 relatif à l'organisation de l'enseignement français à l'étranger, un projet de décret concernant la composition du C.E.F.E. sera, maintenant qu'il a reçu l'agrément des trois ministères concernés (affaires étrangères, éducation nationale, coopération), soumis, dans les prochaines semaines, aux instances concernées dans le cadre normal du processus de consultation et de concertation.
