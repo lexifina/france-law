@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818511
+
+- Question : [SEQ990818511](seq990818511.md) — Développement d'une action civique permanente auprès de la jeunesse
+
+## Réponse
+
+*Éducation, JO du 2000-02-03, page 410*
+
+Réponse. - La loi d'orientation de 1989 a inscrit l'éducation civique au c ur du droit à l'éducation. Ainsi, l'apprentissage de la citoyenneté est devenu un objectif majeur à tous les cycles de la scolarité. Dans l'enseignement primaire, l'accent est mis sur la dignité de la personne humaine. En collège, l'enseignement de la discipline (à raison d'une heure hebdomadaire) s'articule sur les droits et obligations de la personne et du citoyen qui organisent la vie collective selon les principes de la démocratie. Dans les lycées, le ministre de l'éducation nationale, de la recherche et de la technologie a décidé le principe d'un enseignement d'éducation civique, juridique et sociale de deux heures mensuelles, qui prend effet dans les classes de seconde dans l'année 1999-2000. Il s'agit d'amener les jeunes lycéens à réfléchir aux enjeux contemporains des différentes dimensions de la citoyenneté en France, dans l'Union européenne et dans le monde. Cet enseignement est obligatoire dans toutes les séries générales, technologiques et professionnelles et sera poursuivi dans les classes de première et de terminale. Cet enseignement en lycée est organisé sous la forme de débats argumentés à partir de dossiers élaborés au préalable par les élèves. On peut aussi y associer des intervenants extérieurs. On choisit de traiter un ou plusieurs thèmes du programme ou des questions d'actualité (par exemple le conflit yougoslave et le droit d'ingérence). Ainsi, en classe de seconde, on pourra illustrer le thème de la citoyenneté et de l'intégration en étudiant la grande pauvreté ou la condition des immigrés. De même, l'étude de la filiation peut éclairer le thème de la citoyenneté et de la transformation des liens familiaux.
