@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902240
+
+- Question : [SEQ020902240](seq020902240.md) — Situation des bureaux de poste en zone rurale
+
+## Réponse
+
+*Industrie, JO du 2003-02-27, page 722*
+
+Dans le cadre de la loi du 2 juillet 1990, La Poste doit accorder une attention toute particulière à sa présence territoriale afin d'assurer un service public de qualité accessible à tous. Des orientations ont été définies dans le contrat de plan de La Poste, pour préciser les conditions d'évolution et d'amélioration du service postal, tant en zone rurale qu'en zone urbaine, notamment dans les quartiers en difficulté. Ces orientations ont fait l'objet d'une large concertation, en particulier avec les représentants des maires et des élus locaux. Le réseau des points de contact de La Poste participe de façon importante à l'aménagement du territoire et deux règles président à son évolution. En premier lieu, toute évolution de la présence postale territoriale doit être précédée d'une concertation dont les outils ont été mis en place au niveau local. En second lieu, toute évolution doit se faire au bénéfice des usagers des services postaux, en leur proposant de nouveaux services, en mettant à leur disposition des services de substitution ou bien en améliorant les services déjà rendus. Une commission départementale de présence postale territoriale (CDPPT) a été créée dans chaque département. Constituée majoritairement d'élus locaux, elle donne son avis sur les projets d'intérêt local et dispose pour ce faire d'un ensemble de pouvoirs. Grâce notamment aux propositions des élus concernés, elle contribue à la modernisation du réseau de La Poste. Les élus doivent utiliser pleinement cette nouvelle forme de concertation mise à leur disposition. S'agissant de la directive postale 2002/39/CE du Parlement et du Conseil du 10 juin dernier, elle prévoit une ouverture graduelle et contrôlée du marché des services postaux, tout en maintenant un service universel.
