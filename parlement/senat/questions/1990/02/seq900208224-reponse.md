@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208224
+
+- Question : [SEQ900208224](seq900208224.md) — Association des collectivités territoriales frontalières à certaines conventions internationales
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-06-14, page 1307*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du Gouvernement sur l'incidence que pourrait avoir l'application de certaines conventions internationales, en particulier sur les ressources des collectivités. Le Gouvernement comprend cette préoccupation, singulièrement dans le cas de textes dont l'application intéresse une région particulière ou qui concerne la coopération transfrontière. Le Gouvernement relève à ce sujet que, s'agissant de l'avenant à la convention fiscale franco-allemande du 21 juillet 1959, plusieurs dispositions ont été inspirées par des demandes d'un grand nombre d'élus de la région. Les accords relatifs aux modifications de frontière font l'objet d'une consultation systématique des autorités locales. En outre, la coopération transfrontière s'effectue notamment au sein des commissions de voisinage instituées par des accords conclus entre les Etats auxquelles peuvent être appelés à participer des représentants des collectivités locales. Le Gouvernement encourage cette participation des collectivités locales dans le cadre des principes d'invisibilité de la République et de la souveraineté nationale affirmés par la constitution et favorise, sur la base des dispositions de la convention cadre européenne du 21 mars 1980, la création de commissions transfrontalières décentralisées. Sensible aux questions évoquées par l'honorable parlementaire, le Gouvernement réfléchit à la possibilité de mieux associer encore les collectivités territoriales aux projets qui les intéressent directement. L'avant-projet de loi cité par l'honorable parlementaire devrait apporter une réponse à cette question.
