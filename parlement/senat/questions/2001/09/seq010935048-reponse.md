@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935048
+
+- Question : [SEQ010935048](seq010935048.md) — Financement des études engagées par certaines communes  du département de la Vienne
+
+## Réponse
+
+*Logement, JO du 2001-12-20, page 4041*
+
+Les communes ou groupements de communes compétents qui souhaitent élaborer ou réviser leurs documents d'urbanisme prennent en charge les dépenses entraînées par les études d'urbanisme nécessaires à l'établissement de ces documents, suivant les dispositions de l'article L. 121-7 du code de l'urbanisme. Cet article précise en outre que ces dépenses font l'objet d'une compensation par l'Etat dans les conditions définies aux articles L. 1614-1 et L. 1614-3 du code général des collectivités locales. Il s'ensuit que les communes bénéficieront d'une compensation au titre de la dotation générale de décentralisation (DGD) instituée par la loi de décentralisation du 7 janvier 1983 pour l'élaboration ou la révision de leurs plans locaux d'urbanisme. Outre leurs moyens propres et la DGD, les collectivités pourront mobiliser des moyens d'études dans le cadre des contrats territoriaux (contrats d'agglomération ou de pays) prévus par la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire (LOADDT). Ces contrats doivent être une occasion supplémentaire de valoriser et de renforcer les capacités d'étude et d'observation des collectivités. S'agissant enfin des communes situées dans les agglomérations de plus de 100 000 habitants ou confrontés à des enjeux particuliers, le gouvernement a confirmé lors du CIADT du 9 juillet 2001 l'intérêt qu'il porte à l'outil " agence d'urbanisme ", notamment pour l'élaboration des documents de planification ou de programmation urbaines à une large échelle, et a retenu l'objectif d'accompagner financièrement la création de quinze nouvelles agences jusqu'à la fin des contrats de plan 2000-2006.
