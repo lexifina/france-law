@@ -1,0 +1,9 @@
+# Réponse à la question SEQ781027578
+
+- Question : [SEQ781027578](seq781027578.md) — Dispensaire du 10, rue Leroux, Paris (16e): situation
+
+## Réponse
+
+*Santé, JO du 1979-01-25, page 192*
+
+(texte non publié dans les données)
