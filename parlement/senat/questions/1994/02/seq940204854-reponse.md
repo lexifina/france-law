@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204854
+
+- Question : [SEQ940204854](seq940204854.md) — Equipiers secouristes de la Croix-Rouge française
+
+## Réponse
+
+*Santé, JO du 1994-03-24, page 683*
+
+Réponse. - La loi no 86-11 du 6 janvier 1986 modifiant le code de la santé publique a généralisé l'obligation d'agrément pour effectuer des transports sanitaires. Les associations secouristes qui assurent des transports de malades ou blessés depuis leurs postes de secours sont ainsi tenues à l'agrément, dans les conditions qui ont été fixées par le décret no 87-965 du 30 novembre 1987. L'une de ces exigences est la qualification des équipages des ambulances, dont un membre au moins doit être titulaire du certificat de capacité d'ambulancier (CCA). Si le ministre délégué à la santé est conscient des difficultés pour les secouristes, par nature bénévoles, de suivre la formation destinée aux ambulanciers, il serait cependant difficile de remettre en question l'homogénéité des conditions d'agrément et les garanties qu'il apporte aux patients transportés au profit des associations secouristes. Certains conseils départementaux de la Croix-Rouge ont d'ailleurs pu obtenir l'agrément dans les conditions de droit commun, en disposant de titulaires du CCA. Toutefois, cette question a été prévue au programme de travail du comité professionnel national des transports sanitaires. En effet, il importe que la solution qui sera apportée assure le nécessaire complément de formation sanitaire aux secouristes la formation au CCA comporte des aspects non enseignés dans le cadre des premiers secours et le respect des missions et compétences des différents intervenants de l'aide médicale urgente et des transports sanitaires. Les associations secouristes ont, en effet, dans le domaine des secours un rôle important, dont l'encouragement ne doit cependant pas se faire au détriment de la sécurité des patients.
