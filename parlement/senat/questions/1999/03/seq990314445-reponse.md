@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314445
+
+- Question : [SEQ990314445](seq990314445.md) — Délai de réponse pour les demandes d'exploitation des stations-service indépendantes en zone rurale
+
+## Réponse
+
+*Industrie, JO du 1999-04-29, page 1425*
+
+Réponse. - Dans le cadre de sa mission d'élaboration et de mise en uvre de programmes ayant pour but l'amélioration du réseau de distribution de carburants, le comité professionnel de la distribution de carburants (CPDC) accorde notamment des aides au maintien de dessertes qui contribuent à lutter efficacement contre les disparitions de stations-service dans les zones rurales mal desservies. En 1998, le CPDC a ainsi instruit plus d'un millier de dossiers. Conscient des préjudices que tout retard dans le traitement d'un dossier pourrait entraîner auprès du requérant, le CPDC a procédé à une simplification des procédures administratives et informatiques et a multiplié les réunions de son conseil d'administration, permettant ainsi une diminution significative des délais de traitement des demandes des exploitants. Le délai d'instruction d'un dossier dépend essentiellement de sa nature et de la diligence dont le requérant a fait preuve pour l'établissement de la demande. Le dossier cité à titre d'exemple relève de ceux dont l'instruction est compliquée. Le requérant a déposé une demande d'aide au maintien de desserte le 1er mars 1997. Malgré deux rappels des services du CPDC, il n'a complété son dossier que le 4 mars 1998, tout en transformant simultanément sa demande en subvention d'investissement. A ce jour, l'instruction du dossier reste ouverte dans l'attente de la production d'informations complémentaires par le requérant. Il sera ensuite examiné par le conseil d'administration du CPDC qui statuera sur l'opportunité de la demande et du montant de l'aide à accorder.
