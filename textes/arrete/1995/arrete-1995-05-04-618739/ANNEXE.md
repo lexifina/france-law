@@ -74,8 +74,6 @@ Domaine national du Palais-Royal (Ile-de-France).
 
 Domaine national de Saint-Cloud (Ile-de-France).
 
-Domaine national des Tuileries (Ile-de-France).
-
 Maison des Jardies (Sèvres, Ile-de-France).
 
 Panthéon (Ile-de-France).
