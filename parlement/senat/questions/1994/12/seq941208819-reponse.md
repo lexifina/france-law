@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208819
+
+- Question : [SEQ941208819](seq941208819.md) — Amélioration de l'étanchéité des livraisons de carburant des stations-services
+
+## Réponse
+
+*Environnement, JO du 1995-02-09, page 337*
+
+Réponse. - Le protocole de Genève (novembre 1991) sur la pollution atmosphérique transfrontière a mis en relief la contribution des composés organiques volatils (dont font partie les vapeurs d'essence) et des oxydes d'azote dans la formation de l'ozone troposphérique. Après l'utilisation des solvants, l'industrie du pétrole est la deuxième source d'émission de composés organiques volatils. Les émissions proviennent des raffineries, des secteurs de distribution et de l'approvisionnement des véhicules. La directive européenne relative à la lutte contre les émissions de composés organiques volatifs résultant du stockage de l'essence et de sa distribution des raffineries aux stations-service dite " étape I " vient d'être adoptée en date du 14 décembre 1994 afin de réduire de 90 p. 100 de ces émissions. La transposition de cette directive dans la législation française s'effectuera au plus tard à la fin de l'année 1995 dans le cadre de la législation des installations classées pour la protection de l'environnement. Les principales dispositions techniques envisagées afin de réaliser l'objectif de réduction sont : le chargement en source (par le bas) des véhicules-citernes car il permet une meilleure récupération des composés organiques volatifs que le chargement par le dôme ; la rétention des composés organiques volatifs dans les véhicules-citernes lors des livraisons d'essence dans les stations-service ; la mise en place d'unités de récupération de vapeurs dans les dépôts ou raffineries destinées à retourner les composés organiques volatifs au stockage, sous forme liquide.
