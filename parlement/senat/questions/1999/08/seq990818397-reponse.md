@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818397
+
+- Question : [SEQ990818397](seq990818397.md) — Professionnels de l'artisanat et interdiction de cumul des mandats
+
+## Réponse
+
+*Intérieur, JO du 1999-09-16, page 3093*
+
+Réponse. - L'honorable parlementaire évoque vraisemblablement l'introduction, dans les projets de lois relatifs au cumul des mandats électoraux et des fonctions électives, de deux amendements instaurant une incompatibilité entre tout mandat et les fonctions de membre de bureaux de chambres de commerce et d'industrie, de chambres de métiers et de chambres d'agriculture. Ces amendements d'origine parlementaire ont été introduits en première lecture et maintenus en seconde lecture par l'Assemblée nationale. Ils seront examinés par le Sénat à l'occasion de la deuxième lecture de ces textes lors de la prochaine session. Le Gouvernement, qui s'en est remis à la sagesse du Parlement sur ce point, est soucieux de trouver un équilibre entre, d'une part, la limitation des situations de cumul, la réglementation des conditions d'exercice des mandats qui doivent permettre aux élus de remplir leurs fonctions en toute indépendance et, d'autre part, la nécessité d'assurer un libre et égal accès aux mandats. Quant à la remise en cause des principes constitutionnels, il convient de faire remarquer que ceux-ci peuvent être contradictoires et qu'il appartient notamment au législateur d'en assurer la conciliation. Ainsi, pour s'en tenir au principe d'égalité, est-il reconnu au législateur la possibilité de régler différemment des situations différentes ou de déroger à ladite égalité pour des raisons d'intérêt général. Sur ce point, il m'apparaît peu probable que la seule circonstance qu'ils soient des représentants des professionnels qui les élisent soit jugée suffisante pour assimiler les membres des bureaux des chambres consulaires à tout autre représentant d'une organisation professionnelle.
