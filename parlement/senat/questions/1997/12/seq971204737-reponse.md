@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204737
+
+- Question : [SEQ971204737](seq971204737.md) — Politique en faveur de l'usage de la langue française
+
+## Réponse
+
+*Culture, JO du 1998-02-05, page 389*
+
+Réponse. - Un bilan de la situation du français et des mesures prises en sa faveur est fourni dans le rapport que le Gouvernement remet au Parlement chaque année le 15 septembre sur l'application de la loi du 4 août 1994 relative à l'emploi de la langue française et sur le statut du français dans les organisations internationales. Les ministères chargés de la culture et des affaires étrangères sont extrêmement vigilants sur le respect du statut du français langue officielle ou de travail dans les organisations multilatérales gouvernementales, et la France, par l'intermédiaire de nos représentations permanentes, intervient en cas de manquement au régime juridique des langues ou de délai exagéré des traductions. Le lancement des nouveaux produits d'information électronique dans les organisations internationales a été marqué par l'usage privilégié, voire exclusif de l'anglais, qui prédomine également dans de nombreuses banques de données. Cependant, comme le montre le rapport au Parlement de 1997, ces supports d'information font désormais l'objet d'un suivi régulier par les représentations permanentes, et les interventions répétées de la France ont permis d'obtenir que le plurilinguisme soit mieux pris en compte notamment par la commission européenne ou les institutions des Nations Unies. Ainsi, le site Europa a été rendu plutilingue en mars 1997. La page d'accueil du site des Nations Unies sur l'Internet est en anglais, espagnol et français ; si un certain nombre d'informations ne sont disponibles qu'en anglais, des progrès importants ont été réalisés depuis un an, et 75 % des documents anglais sont également disponibles en français. Il en est de même pour de nombreux organismes dépendant des Nations Unies et pour d'autres organisations multilatérales.
