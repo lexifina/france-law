@@ -1,0 +1,177 @@
+# Article 1er
+
+La subdivision du titre Ier de l'accord du 18 décembre 1998 en deux chapitre est supprimée, et l'article 1.09 inséré dans le chapitre Ier de la convention collective désormais intitulé « Dispositions générales » est modifié comme suit :
+
+Article 1.09
+
+Organisation du travail
+
+a) Durée du travail :
+
+La durée du travail effectif est le temps pendant lequel le salarié est à la disposition de l'employeur et doit se conformer à ses directives sans pouvoir vaquer librement à des occupations personnelles.
+
+Les temps de trajet à partir du domicile du salarié pour se rendre sur le lieu de travail ou pour y retourner ne sont pas du temps de travail effectif.
+
+Il en est de même pour les temps d'habillage et de déshabillage sur le lieu de travail. Lorsque le port d'une tenue de travail spécifique est imposé par une disposition législative ou réglementaire, ou par le règlement intérieur, ou par le contrat de travail, l'employeur a le choix entre le maintien de ce temps dans le temps de travail ou son exclusion contre paiement d'une « prime d'habillage » due pour chaque jour effectivement travaillé, ou d'une contrepartie équivalente qui constitue une compensation forfaitaire à toutes les opérations d'habillage et de déshabillage nécessaires.
+
+Hormis les cas expressément prévus par la présente convention collective, le décompte des heures de travail est obligatoire. Ce décompte est assuré soit par un système d'enregistrement automatique fiable et infalsifiable, soit par tout autre système imposé par l'employeur ou établi par le salarié lui-même sous la responsabilité de l'employeur.
+
+b) Organisation collective du travail :
+
+1. Dans le cadre d'un horaire prédéterminé.
+
+Le travail s'effectue normalement dans le cadre d'un horaire fixé pour l'ensemble du personnel, ou pour un ou plusieurs groupes bien identifiés de salariés (atelier, bureaux …) ; cet horaire indique la répartition des heures de travail au cours de la journée, et la répartition des jours travaillés au cours de la semaine en excluant le dimanche. Des salariés occupant des emplois de même nature peuvent travailler dans le cadre d'horaires décalés afin de mieux assurer la permanence du service.
+
+Par dérogation, le travail peut être effectué tous les jours de la semaine, dans les établissements admis à donner le repos hebdomadaire par roulement conformément aux articles L. 221-9 et R. 221-4 et suivants du code du travail, et pour les seuls salariés affectés aux activités visées à ce titre par la réglementation ; ce type d'organisation peut nécessiter la mise en place d'équipes travaillant selon un rythme continu de 24 heures sur 24, auquel cas la durée hebdomadaire du travail ne peut excéder 33 heures 36 minutes, en moyenne annuelle.
+
+2. Dans le cadre d'un programme indicatif d'heures.
+
+Les conditions dans lesquelles le travail peut être organisé sur l'année dans le cadre d'un programme indicatif sont indiquées à l'annexe « Annualisation des horaires de travail » de la présente convention collective.
+
+c) Organisation individuelle du travail :
+
+Ne sont pas soumis à un horaire collectif :
+
+– les salariés visés aux paragraphes d à g ci-après ;
+
+– les salariés itinérants visés au chapitre VI ;
+
+– les salariés à temps partiel visés à l'article 1.11 ;
+
+– les salariés placés dans les conditions d'emploi particulières visées à l'article 1.10 e ;
+
+les salariés qui bénéficient d'un système d'horaires individualisés permettant à chacun de choisir ses heures d'arrivée et de départ dans le cadre de plages horaires déterminées ; l'institution d'un tel système nécessite l'accord de l'inspecteur du travail en l'absence de représentants du personnel, et dans le cas contraire leur non-opposition.
+
+d) Forfait assis sur un salaire mensuel :
+
+Lorsque des dépassements fréquents ou répétitifs de l'horaire collectif sont prévisibles, le paiement des heures supplémentaires peut être inclus dans la rémunération mensuelle sous la forme d'un forfait.
+
+Le nombre d'heures sur lequel est calculé le forfait doit être déterminé en respectant la limite du nombre d'heures prévu par le contingent annuel d'heures supplémentaires visé à l'article 1.09 bis, ou, exceptionnellement, d'un nombre supérieur autorisé par l'inspecteur du travail.
+
+L'inclusion du paiement des heures supplémentaires dans la rémunération forfaitaire ne se présume pas. Elle doit résulter d'un accord de volonté non équivoque des parties, d'une disposition expresse du contrat de travail ou d'un avenant à celui-ci.
+
+La rémunération forfaitaire convenue doit être au moins égale au minimum mensuel garanti applicable au salarié, complété par une majoration pour les heures supplémentaires comprises dans le forfait, majoration calculée comme indiqué à l'annexe « Salaires minima ».
+
+Ce forfait s'accompagne d'un mode de contrôle de la durée réelle du travail, qui doit être conforme aux prescriptions de l'article 1.09 a.
+
+e) Forfait en heures sur l'année :
+
+1. Salariés visés.
+
+Les salariés dont le temps de travail est aléatoire et impossible à évaluer par avance, et qui relèvent de l'une ou l'autre des catégories ci-après, peuvent être rémunérés sur la base d'un forfait en heures sur l'année dont les modalités doivent être indiquées dans le contrat de travail ou un avenant à celui-ci :
+
+– cadres qui ne sont pas occupés selon l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auxquels ils sont intégrés, et qui disposent en application de leur contrat de travail d'une liberté reconnue dans l'organisation de leur emploi du temps ;
+
+– salariés itinérants n'ayant pas la qualité de cadre, à condition qu'ils disposent d'une réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des responsabilités découlant de leur contrat de travail, de telle sorte que leur horaire de travail effectif ne puisse être déterminé que a posteriori.
+
+2. Régime juridique.
+
+Conformément à l'article L. 212-15-3, II, du code du travail, l'horaire hebdomadaire peut varier d'une semaine sur l'autre pour s'adapter à la charge de travail, sous réserve que soit respecté l'horaire hebdomadaire moyen sur la base duquel le forfait a été convenu, multiplié par le nombre de semaines travaillées.
+
+Le nombre de semaines travaillées est calculé en déduisant des 52,14 semaines de l'année les semaines de congés payés légaux et conventionnels ainsi que les jours fériés chômés tombant des jours pouvant être travaillés, auxquels le salarié peut prétendre, de telle façon que l'horaire annuel ne puisse excéder 1 600 heures normales de travail effectif, majorées de 20 % au plus, pour des salariés pouvant prétendre, compte tenu de leur temps de présence dans l'entreprise, à des droits complets en matière de congés payés légaux et conventionnels ainsi que de chômage des jours fériés.
+
+Ainsi, l'horaire annuel convenu avec les salariés pouvant prétendre aux droits complets visés ci-dessus sera au plus égal à 1 920 heures. Lorsque le salarié n'a pas acquis ces droits complets, le volume annuel d'heures de travail pour la période considérée est égal à l'horaire annuel contractuellement convenu diminué de 35 heures par semaine de droits manquants.
+
+La durée journalière de travail ne peut excéder 10 heures, la durée hebdomadaire de travail ne peut excéder 48 heures sur une semaine et 42 heures en moyenne sur une période de 12 semaines consécutives, sauf dérogations dans les conditions fixées par les dispositions législatives et, éventuellement, conventionnelles résultant d'un accord d'entreprise ou d'établissement.
+
+La durée journalière peut être portée, par dérogation, à 12 heures pour le personnel d'encadrement des services d'après-vente, sous réserve du respect de la limite de 44 heures en moyenne sur 12 semaines consécutives.
+
+Le temps de travail peut être réparti sur certains ou tous les jours ouvrables de la semaine, en journées ou demi-journées de travail. Le salarié doit bénéficier d'un repos hebdomadaire de 36 heures consécutives incluant le dimanche. Les dérogations exceptionnelles ou temporaires au repos dominical, qui sont celles prévues par l'article 1.10 b, ouvrent droit aux garanties visées par ce même article.
+
+Ce forfait s'accompagne d'un mode de contrôle de la durée réelle du travail, qui doit être conforme aux prescriptions de l'article 1.09 a.
+
+3. Rémunération.
+
+La rémunération mensuelle du salarié est lissée sur la base de l'horaire hebdomadaire moyen convenu.
+
+Le paiement des heures supplémentaires et de leur majoration, y compris la bonification prévue par l'article L. 212-5-1 du code du travail pour les 4 premières heures supplémentaires, est inclus dans la rémunération mensuelle forfaitaire.
+
+De ce fait, la rémunération forfaitaire ne peut être inférieure au minimum mensuel garanti correspondant au classement de l'intéressé, majoré dans les conditions suivantes :
+
+– une majoration égale à 15 % de la référence retenue par l'annexe « Salaires minima », pour un horaire hebdomadaire moyen correspondant à la durée de 35 heures majorée de 10 % au plus (soit une moyenne hebdomadaire supérieure à 35 heures et inférieure ou égale à 38 h 30) ;
+
+– une majoration égale à 25 % de la référence retenue par l'annexe « Salaires minima », pour un horaire hebdomadaire moyen correspondant à la durée de 35 heures majorée de plus de 10 % et de 20 % au plus (soit une moyenne hebdomadaire supérieure à 38 h 30 et inférieure ou égale à 42 heures) ;
+
+Pour le calcul de la rémunération due en cas d'absence indemnisée, la valeur d'une heure d'absence est égale au quotient du salaire mensuel lissé par l'horaire moyen mensuel, qui correspond au 1/12 de l'horaire annuel convenu.
+
+Les heures d'absence sont déduites de la rémunération au moment de l'absence.
+
+f) Forfait en jours :
+
+1. Salariés visés.
+
+Les cadres qui ne sont pas occupés selon l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auxquels ils sont intégrés peuvent, lorsque l'exercice de leurs fonctions nécessite une large autonomie dans l'organisation de leur travail, conclure une convention de forfait en jours dont les modalités doivent être indiquées dans le contrat de travail ou un avenant à celui-ci.
+
+2. Régime juridique.
+
+Le contrat de travail définit les caractéristiques de la fonction qui justifient l'autonomie dont dispose le salarié pour l'exécution de cette fonction.
+
+Le contrat de travail détermine le nombre de jours sur la base duquel le forfait est défini. Une fois déduits du nombre total des jours de l'année les jours de repos hebdomadaires, les jours de congé légaux et conventionnels auxquels le salarié peut prétendre et les jours de réduction d'horaire, le nombre de jours travaillés sur la base duquel le forfait est défini ne peut excéder 217 jours pour une année complète de travail.
+
+Pour les salariés ne bénéficiant pas d'un congé annuel complet, le nombre de jours de travail est augmenté à concurrence du nombre de jours de congés légaux et conventionnels auxquels il ne peut prétendre.
+
+Le forfait en jours est nécessairement annuel. Il est convenu pour une durée d'un an renouvelable, dès la prise d'effet du contrat de travail ou de l'avenant qui le prévoit ; en conséquence, un contrat à durée déterminée conclu de date à date pour une durée inférieure à un an ne peut pas inclure une convention de forfait en jours.
+
+Le temps de travail peut être réparti sur certains ou sur tous les jours ouvrables de la semaine, le salarié bénéficiant du repos hebdomadaire dans les conditions indiquées à l'article 1.10 b ; toutefois, en cas de dérogation exceptionnelle ou temporaire au repos dominical, les garanties suivantes se substituent à celles prévues par l'article 1.10 b : tout dimanche travaillé comptera pour 2 jours de travail, dans le document de contrôle visé à l'article 1.09 a, et donnera droit en outre à une indemnité s'ajoutant à la rémunération forfaitaire, égale à 1/22 de ce forfait.
+
+Le forfait en jours s'accompagne d'un contrôle du nombre de jours travaillés, au moyen d'un document de contrôle faisant apparaître le nombre et la date des journées travaillées, ainsi que la qualification des jours non travaillés en repos hebdomadaires, congés payés, congés conventionnels ou jours de repos au titre de la réduction du temps de travail. Ce document est établi en 2 exemplaires, un pour chacune des parties, et complété au fur et à mesure de l'année ; il est signé chaque semaine par le salarié, puis par l'employeur ou son représentant.
+
+Pour les journées où il exécute sa prestation de travail découlant de son contrat de travail, le salarié n'est pas soumis à un contrôle de ses horaires de travail.
+
+En outre, le salarié ayant conclu une convention de forfait défini en jours bénéficie, chaque année, d'un entretien avec son supérieur hiérarchique au cours duquel seront évoquées l'organisation et la charge de travail de l'intéressé, et l'amplitude de ses journées d'activité. Cette amplitude et cette charge de travail devront rester raisonnables et assurer une bonne répartition, dans le temps, du travail des intéressés.
+
+Les modalités d'affectation, sur un compte-épargne, des journées de repos non prises dans le courant de l'année sont déterminées au niveau de chaque entreprise ou établissement selon le régime de compte épargne-temps applicable.
+
+3. Rémunération.
+
+La rémunération doit tenir compte des responsabilités confiées au salarié dans le cadre de sa fonction. Elle ne peut être inférieure au salaire minimum conventionnel correspondant au classement de l'intéressé pour la durée légale du travail applicable, augmenté d'une majoration de 25 % de la référence retenue par l'annexe « Salaires minima » lorsque le forfait est de 217 jours.
+
+Lorsque le nombre de jours convenu est inférieur à 217 pour une année complète de travail, la rémunération mensuelle par rapport au minimum conventionnel visé ci-dessus ne peut être inférieure à 125 % diminué de 1 % par jour de travail en moins dans la limite de 10. Lorsque le nombre de jours convenu est inférieur à 207, la rémunération mensuelle ne peut être inférieure à 115 % du minimum conventionnel. Le présent alinéa ne s'applique pas aux cadres qui ne bénéficient pas d'un congé annuel complet visés au 4e alinéa du paragraphe a ci-dessus, quel que soit le nombre de jours de travail convenu. Les jours de travail en moins visés par le présent alinéa sont considérés comme des jours de réduction du temps de travail.
+
+La rémunération forfaitaire mensuelle est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie considérée.
+
+Pendant les périodes où le salarié est tenu de fournir la prestation de travail correspondant à la mission qui lui a été confiée, aucune prestation du contrat de travail inférieure à une journée entière ne peut entraîner une retenue sur salaire. La valeur d'une journée de travail sera calculée en divisant le salaire mensuel par 22.
+
+La rémunération du salarié ne peut être réduite du fait d'une mesure de chômage partiel affectant l'entreprise.
+
+Le choix de cette formule de forfait en cours de contrat de travail, pour un salarié précédemment soumis à un horaire, ne peut entraîner une baisse du salaire réel en vigueur à la date de ce choix, quelle que soit la base horaire sur laquelle ce salaire avait été fixé.
+
+Pour le calcul des soldes de rémunération ou des indemnités en cas de cessation du contrat de travail, le nombre de jours de travail que comporte un mois est réputé être égal à 1/12 du nombre de jours inscrit sur le contrat, arrondi au nombre entier supérieur.
+
+g) Forfait sans référence horaire :
+
+1. Salariés visés.
+
+Les cadres placés au moins sur l'indice 160 auxquels sont confiées des responsabilités dont l'importance implique une grande indépendance dans l'organisation de leur emploi du temps, qui sont habilités à prendre des décisions de façon largement autonome, et qui perçoivent une rémunération comprise dans le dernier quartile des rémunérations pratiquées dans l'entreprise ou leur établissement, peuvent conclure une convention de forfait sans référence horaire.
+
+* Peuvent être ainsi concernés, outre les cadres dirigeants, les cadres à qui sont confiées des responsabilités importantes dans l'organisation générale et la bonne marche de l'entreprise, notamment lorsque celle-ci est de petite taille, et qui sont amenés à assumer de ce fait des responsabilités équivalentes à celles du chef d'entreprise en l'absence de ce dernier. *
+
+(1)
+
+2. Régime juridique.
+
+Les modalités d'exercice des responsabilités, qui impliquent une indépendance et une autonomie particulières justifiant le forfait sans référence horaire, doivent être indiquées dans le contrat de travail ou un avenant à celui-ci.
+
+A l'exception des dispositions relatives aux congés payés prévues aux articles L. 223-1 et suivants du code du travail, aucune disposition relative à la réglementation de la durée du travail n'est applicable au cadre dont le contrat de travail prévoit une rémunération selon un forfait sans référence horaire.
+
+3. Rémunération.
+
+La rémunération doit tenir compte des responsabilités confiées au cadre. Elle ne peut être inférieure au minimum mensuel garanti complété d'une majoration égale à 20 % de la référence retenue par l'annexe « Salaires minima ».
+
+La rémunération forfaitaire mensuelle est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie considérée.
+
+La valeur d'une journée de travail sera calculée en divisant le salaire mensuel par 30.
+
+La rémunération du cadre ne peut être réduite du fait d'une mesure de chômage partiel affectant l'entreprise.
+
+NOTA : Arrêté du 11 juillet 2000 art. 1 : Le quatrième alinéa de l'article 1-09 d (Forfait assis sur un salaire mensuel) est étendu sous réserve de l'application de l'article L. 212-5 du code du travail selon lequel les majorations pour heures supplémentaires sont calculées sur la base du salaire effectif versé en contrepartie directe du travail fourni.
+
+Le troisième alinéa du point 2 (Régime juridique) de l'article 1-09 e (Forfait en heures sur l'année) est étendu, s'agissant des salariés itinérants non cadres, sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail et de l'article 1er du décret n° 2000-82 du 31 janvier 2000, qui fixe le niveau du contingent d'heures supplémentaires à 130 heures.
+
+Le troisième alinéa du point 3 (Rémunération) de l'article 1-09 e (Forfait en heures sur l'année) est étendu sous réserve de l'application de l'article L. 212-15-4 du code du travail, qui dispose que la rémunération afférente au forfait doit être au moins égale à la rémunération que le salarié recevrait compte tenu du salaire minimum conventionnel applicable dans l'entreprise et des bonifications ou majorations prévues à l'article L. 212-5 du code du travail.
+
+Le point 1 (Salariés visés) de l'article 1-09 f (Forfait jours) est étendu sous réserve de l'article L. 212-15-3 III du code du travail, qui n'autorise la conclusion de conventions de forfaits en jours que pour les cadres dont la durée du travail ne peut être prédéterminée du fait de la nature des fonctions et des responsabilités exercées et du degré d'autonomie dont ils bénéficient dans l'organisation de leur emploi du temps.
+
+Le premier alinéa du point 1 (Salariés visés) de l'article 1-9 g (Forfait sans référence horaire) est étendu sous réserve de l'application de l'article L. 212-15-1 du code du travail, qui définit la catégorie des cadres dirigeants.
+
+NOTA : (1) Alinéa exclu de l'extension par arrêté du 11 juillet 2000.
