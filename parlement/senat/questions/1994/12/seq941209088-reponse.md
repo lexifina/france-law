@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209088
+
+- Question : [SEQ941209088](seq941209088.md) — Agrément des réseaux de mesures de radioactivité de l'air
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-16, page 378*
+
+Réponse. - Le décret no 88-175 du 9 mai 1988 distingue, dans son article 2, deux types de laboratoires soumis aux procédures d'intercomparaison visant à l'harmonisation des mesures de radioactivité : les laboratoires publics effectuant des contrôles de radioactivité en vertu de dispositions législatives ou réglementaires ; les laboratoires ayant reçu un agrément technique au titre de l'article 3 du décret no 88-715. Les procédures d'intercomparaison sont régulièrement mises en oeuvre pour les laboratoires publics, depuis la parution dudit décret. Le dispositif mis en place est complété par intégration au réseau d'intercomparaison mondial sous la responsabilité de l'Organisation mondiale de la santé (Germon, géré par l'Office de protection contre les rayonnements ionisants). La procédure d'agrément des réseaux de mesure associatifs français se heurte à des difficultés. Il est tout à fait évident que les aspects techniques de la mesure radioactive proprement dite sont actuellement maîtrisés par de nombreux laboratoires grâce aux progrès techniques accomplis dans les dix dernières années. Toutefois, l'objectif de qualité impose que la nature des prélèvements, leur fréquence, l'interprétation des résultats et leur archivage obéissent à des règles exigeantes. Ces règles correspondent à un ensemble de contraintes ressortissant aux procédures d'accréditation des laboratoires et justifiant en priorité de ce qu'il est convenu d'appeler les " bonnes pratiques de laboratoire ". La solution envisagée serait donc de soumettre à la procédure lourde d'agrément technique pour les mesures de radioactivité, nécessitant la désignation d'une commission prévue par le décret, les seuls laboratoires accrédités par un réseau d'essai reconnu à l'échelle nationale.
