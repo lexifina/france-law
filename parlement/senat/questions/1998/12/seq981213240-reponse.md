@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213240
+
+- Question : [SEQ981213240](seq981213240.md) — Agence nationale d'accréditation et d'évaluation en santé et établissements sanitaires de cancérologie
+
+## Réponse
+
+*Santé, JO du 1999-07-08, page 2341*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le secrétaire d'Etat à la santé et à l'action sociale sur le retard pris dans la mise en place de l'agence de l'agence nationale d'accréditation et d'évaluation en santé (ANAES) et lui demande si les établissements sanitaires exerçant une activité en cancérologie seront prioritaires pour la mise en uvre de la procédure d'accréditation. Afin d'assurer l'amélioration continue de la qualité et de la sécurité des soins, l'article L. 710-5 du code de la santé publique prévoit que tous les établissements de santé s'engagent dans la procédure d'accréditation, mise en place par l'ANAES. L'engagement dans cette procédure constitue une démarche volontaire des établissements, soumise au seul respect d'un délai de cinq ans à compter de la publication de l'ordonnance nº 96-346 du 24 avril 1996. C'est le représentant légal de chaque établissement de santé qui définit le calendrier d'engagement de l'ensemble des sites et activités de son établissement, le cas échéant en relation avec l'agence régionale de l'hospitalisation, dans le cadre du contrat d'objectifs et de moyens. Si l'ANAES n'entend pas définir des catégories d'établissements prioritaires pour entrer dans cette procédure, son directeur général s'assurera du calendrier d'engagement global de chaque établissement de santé dans la procédure, conformément à l'article R. 710-6-2. Les établissements sanitaires exerçant une activité en cancérologie peuvent tout à fait décider de rendre prioritaire leur engagement dans la procédure d'évaluation externe, dénommée accréditation, et ce dans les plus brefs délais.
