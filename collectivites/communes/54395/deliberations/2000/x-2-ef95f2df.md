@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération X-2 — Actualisation des tarifs aux douches Saint-Nicolas
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 2000-12-18
+- Objet : Actualisation des tarifs aux douches Saint-Nicolas
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
