@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902922
+
+- Question : [SEQ970902922](seq970902922.md) — Participation des communes aux dépenses d'investissement des collèges publics
+
+## Réponse
+
+*Enseignement scolaire, JO du 1997-11-13, page 3160*
+
+Réponse. - Depuis le 1er janvier 1986, les départements ont la charge des collèges, tant en investissement qu'en fonctionnement. Cependant, il n'est pas apparu possible, lors du transfert de compétences, de supprimer immédiatement toute participation des communes aux dépenses des collèges en raison de la partie importante des dépenses supportées antérieurement par les communes dans ce domaine. La loi no 83-663 du 22 juillet 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat a donc fixé le dispositif applicable en la matière, notamment en ce qui concerne la participation des communes aux dépenses d'investissement des collèges. C'est ainsi qu'une commune peut être appelée à participer à ce type de dépenses, d'une part, au titre du collège dont elle est propriétaire ou qui est implanté sur son territoire et, d'autre part, au titre du collège dans lequel elle envoie un ou plusieurs élèves. Dans l'hypothèse où le collège est implanté dans un autre département, la somme mise à la charge de la commune est calculée par référence, notamment, à la présence d'élèves de son ressort fréquentant ledit collège. Ces dispositions sont, en tout état de cause, d'application temporaire, leur extinction progressive étant prévue par la loi no 90-586 du 4 juillet 1990. Le régime de participation obligatoire des communes aux dépenses d'investissement des collèges prendra fin, en effet, après le 31 décembre 1999, étant rappelé que le dispositif de contribution communale aux dépenses de fonctionnement des collèges est supprimé depuis le 1er janvier 1995.
