@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008085
+
+- Question : [SEQ941008085](seq941008085.md) — Insécurité sur la ligne SNCF Paris-Saint-Lazare - Mantes-la-Jolie
+
+## Réponse
+
+*Intérieur, JO du 1994-12-22, page 3034*
+
+Réponse. - Dans le cadre des orientations définies par le Gouvernement, la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins (DICCILEC) a notamment reçu pour mission de participer, au niveau national, à la prévention des atteintes à la sécurité dans les trains. Cette mission a été confiée à la brigade de sécurité des chemins de fer (BSCF) de la DICCILEC. Composé de 400 fonctionnaires, cette structure créée en 1989 est plus spécialement chargée de la sécurité dans les trains de la banlieue parisienne. S'agissant tout particulièrement de la ligne Paris-Saint-Lazare - Mantes-la-Jolie, ligne considérée comme sensible et qui dessert les gares de Chanteloup-les-Vignes et de Conflans-Fins-d'Oise, cette unité a effectué, entre le 1er janvier et le 15 octobre 1994, 4 599 patrouilles qui ont abouti à l'interpellation de 324 personnes. A la suite des récents événements qui ont opposé, au cours du mois de septembre 1994, deux bandes rivales dans la gare de Chanteloup-les-Vignes, la BSCF, en liaison avec la direction départementale de la sécurité publique des Yvelines, a mis en place, pendant les semaines qui ont suivi, un dispositif de sécurité renforcée dans les trains et dans les gares de la ligne concernée. Ce secteur continue à faire l'objet d'une attention toute particulière de la part des services de la sécurité publique territorialement compétents et de la BSCF. Des opérations sont d'ailleurs effectuées conjointement par ces deux services dont les fonctionnaires sont alors renforcés par des élements des compagnies républicaines de sécurité.
