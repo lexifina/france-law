@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108379
+
+- Question : [SEQ941108379](seq941108379.md) — Malaise au sein de la gendarmerie nationale
+
+## Réponse
+
+*Défense, JO du 1994-12-22, page 3026*
+
+Réponse. - La discussion du projet de loi d'orientation et de programmation sur la sécurité est de nature à susciter un certain nombre d'interrogations parmi le personnel de la gendarmerie nationale, qui craint que des dispositions nouvelles viennent remettre en cause, ou du moins porter partiellement atteinte, au principe fortement établi de la nécessaire parité entre la situation des policiers et celle des gendarmes. Dans tous les textes qui ont concerné la fonction publique depuis l'après-guerre, de l'arbitrage Queuille en 1949 aux discussions de l'accord portant rénovation de la grille indiciaire de la fonction publique, cette parité a été réaffirmée par tous les gouvernements successifs. Le ministre d'Etat, ministre de la défense, continue de veiller, depuis plusieurs années, à ce que la situation des gendarmes ne se détache pas de celle qui est réservée aux policiers. Ainsi, durant les débats à l'Assemblée nationale du 12 octobre 1994, il a été précisé qu'aucune mesure de ce projet de loi ne remet immédiatement en cause cette parité. Par ailleurs, l'un des amendements adoptés par l'Assemblée nationale indique qu'il serait inconcevable que la mise en oeuvre des dispositions relatives à la modernisation du statut spécial des personnels de police et à l'instauration d'indemnités exceptionnelles, conduise à un abandon du principe fondamental de parité entre la police et la gendarmerie. Une étude de fond, diligentée par le ministère de la défense, est en cours de réalisation aux fins, de manière concertée, d'examiner les problèmes suscités par l'application de la parité et de proposer éventuellement des éléments concrets de solution.
