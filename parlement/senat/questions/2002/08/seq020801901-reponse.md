@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801901
+
+- Question : [SEQ020801901](seq020801901.md) — Syndrome de la guerre du Golfe
+
+## Réponse
+
+*Santé, JO du 2003-01-30, page 375*
+
+La pyridostigmine, molécule inhibitrice réversible des cholinestérases, a été citée dans plusieurs études scientifiques internationales parmi les facteurs de risques éventuels du syndrome de la guerre du Golfe. Son utilisation préventive comme agent protecteur vis-à-vis des neurotoxiques de guerre est indiquée dans les instructions militaires de plusieurs pays, pour les soldats susceptibles d'être affectés sur une zone à risque d'emploi de tels agents chimiques létaux. Elle nécessite l'ingestion d'un comprimé toutes les huit heures, débutée plusieurs heures au moins avant d'être soumis au risque, et comporte plusieurs contre-indications médicales. Pour ces raisons, son utilisation préventive en population civile générale n'est pas envisageable dans le contexte de menaces terroristes. Ce médicament est par contre utilisé en thérapeutique humaine dans le traitement de la myasthénie et dispose, dans cette indication, d'une autorisation de mise sur le marché délivrée par l'Agence française de sécurité sanitaire des produits de santé. Par ailleurs, tous les médicaments importés, exportés ou distribués par les établissements de ravitaillement sanitaire du service de santé des armées, ainsi que ceux fabriqués par la pharmacie centrale des armées, à l'exclusion de ceux nécessaires aux besoins spécifiques des armées et destinés à pallier l'absence de spécialité pharmaceutique disponible ou adaptée, doivent avoir une autorisation de mise sur le marché délivrée soit par la Communauté européenne, soit par l'Agence française de sécurité sanitaire des produits de santé (art. L. 5121-8 et L. 5124-8 du code de la santé publique).
