@@ -6,7 +6,7 @@ Les obligations découlant des dispositions énoncées dans la présente annexe 
 
 Module A : (contrôle interne de la fabrication)
 
-1. Le président module écrit la procédure par laquelle le fabricant, ou son mandataire établi dans la Communauté, qui remplit les obligations du point 2, assure et déclare que l'équipement sous pression satisfait aux exigences de la directive qui lui sont applicables. Le fabricant, ou son mandataire établi dans la Communauté, appose le marquage "CE" sur chaque équipement sous pression et établit par écrit une déclaration de conformité.
+1. Le présent module écrit la procédure par laquelle le fabricant, ou son mandataire établi dans la Communauté, qui remplit les obligations du point 2, assure et déclare que l'équipement sous pression satisfait aux exigences de la directive qui lui sont applicables. Le fabricant, ou son mandataire établi dans la Communauté, appose le marquage "CE" sur chaque équipement sous pression et établit par écrit une déclaration de conformité.
 
 2. Le fabricant établit la documentation technique décrite au point 3 ; le fabricant, ou son mandataire établi dans la Communauté, tient celle-ci à la disposition des autorités nationales à des fins d'inspection pendant une durée de dix ans à compter de la date de fabrication du dernier équipement sous pression.
 
@@ -38,9 +38,11 @@ La vérification finale fait l'objet d'une surveillance sous forme de visites à
 
 Durant ces visites, l'organisme habilité doit :
 
-- s'assurer que le fabricant procède effectivement à la vérification finale conformément au point 3.2 de l'annexe I;
+- s'assurer que le fabricant procède effectivement à la vérification finale conformément au point 3.2 de l'annexe I ;
 
-- procéder au prélèvement sur les lieux de fabrication ou d'entreposage d'équipements sous pression à des fins de contrôle. L'organisme habilité apprécie le nombre d'équipements à prélever ainsi que la nécessité d'effectuer ou de faire effectuer sur ces équipements sous pression prélevés tout ou partie de la vérification finale.
+- procéder au prélèvement sur les lieux de fabrication ou d'entreposage d'équipements sous pression à des fins de contrôle.
+
+L'organisme habilité apprécie le nombre d'équipements à prélever ainsi que la nécessité d'effectuer ou de faire effectuer sur ces équipements sous pression prélevés tout ou partie de la vérification finale.
 
 Dans le cas où un ou plusieurs équipements sous pression ne sont pas conformes, l'organisme habilité prend les mesures appropriées.
 
@@ -208,7 +210,9 @@ Durant ces visites, l'organisme habilité doit :
 
 - s'assurer que le fabricant procède effectivement à la vérification finale conformément au point 3.2 de l'annexe 1 ;
 
-- procéder au prélèvement sur les lieux de fabrication ou d'entreposage d'équipements sous pression à des fins de contrôle. L'organisme habilité apprécie le nombre d'équipements à prélever ainsi que la nécessité d'effectuer ou de faire effectuer sur ces équipements sous pression prélevés tout ou partie de la vérification finale.
+- procéder au prélèvement sur les lieux de fabrication ou d'entreposage d'équipements sous pression à des fins de contrôle.
+
+L'organisme habilité apprécie le nombre d'équipements à prélever ainsi que la nécessité d'effectuer ou de faire effectuer sur ces équipements sous pression prélevés tout ou partie de la vérification finale.
 
 Dans le cas où un ou plusieurs équipements sous pression ne sont pas conformes, l'organisme habilité prend les mesures appropriées.
 
@@ -252,7 +256,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -352,7 +356,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notififiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 4.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -436,7 +440,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'évaluation dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée.
 
 3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -536,7 +540,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comprend une visite d'inspection dans les locaux du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 4.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -558,7 +562,9 @@ Il notifie sa décision au fabricant. La notification contient les conclusions d
 
 - les dossiers de qualité, tels que les rapports d'inspection et les données des essais, les données d'étalonnage, les rapports sur les qualifications du personnel concerné, etc.
 
-5.3. L'organisme habilité effectue des audits périodiques pour s'assurer que le fabricant maintient et applique le système de qualité ; il fournit un rapport d'audit au fabricant. La fréquence des audits périodiques est telle qu'une réévaluation complète est menée tous les trois ans.
+5.3. L'organisme habilité effectue des audits périodiques pour s'assurer que le fabricant maintient et applique le système de qualité ;
+
+il fournit un rapport d'audit au fabricant. La fréquence des audits périodiques est telle qu'une réévaluation complète est menée tous les trois ans.
 
 5.4. En outre, l'organisme habilité peut effectuer des visites à l'improviste chez le fabricant. La nécessité de ces visites additionnelles, et leur fréquence, sera déterminée sur la base d'un système de contrôle sur visites géré par l'organisme habilité. En particulier, les facteurs suivants seront pris en considération dans le système de contrôle sur visites :
 
@@ -620,7 +626,7 @@ Le fabricant, ou son mandataire établi dans la Communauté, conserve une copie 
 
 En particulier, l'organisme habilité :
 
-- vérifie que le personnel pour l'assemblage permanent des pièces et les essais non destructifs est qualifié ou approuvé conformément aux points 3.1.2 et 3.1.3 del'annexe 1 ;
+- vérifie que le personnel pour l'assemblage permanent des pièces et les essais non destructifs est qualifié ou approuvé conformément aux points 3.1.2 et 3.1.3 de l'annexe 1 ;
 
 - vérifie le certificat délivré par le fabricant de matériau conformément au point 4.3 de l'annexe 1 ;
 
@@ -716,11 +722,13 @@ Elle comprend en particulier une description adéquate :
 
 - des moyens de surveillance permettant de contrôler l'obtention de la conception et de la qualité requises pour l'équipement sous pression et le fonctionnement efficace du système de qualité.
 
-3.3. L'organisme habilité évalue le système de qualité en vue de déterminer s'il répond aux exigences visées au point 3.2. Les éléments du système de qualité conformes à la norme harmonisé pertinente sont présumés conformes aux exigences correspondantes visées au point 3.2.
+3.3. L'organisme habilité évalue le système de qualité en vue de déterminer s'il répond aux exigences visées au point
+
+3.2. Les éléments du système de qualité conformes à la norme harmonisé pertinente sont présumés conformes aux exigences correspondantes visées au point 3.2.
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il demeure adéquat et efficace.
 
