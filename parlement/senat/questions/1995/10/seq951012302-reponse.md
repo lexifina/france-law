@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012302
+
+- Question : [SEQ951012302](seq951012302.md) — Régime des primes sur recouvrement
+
+## Réponse
+
+*Budget, JO du 1996-01-25, page 144*
+
+Réponse. - Il n'existe actuellement aucun dispositif particulier permettant d'attribuer aux comptables du Trésor une prime spécifique, proportionnelle au montant des créances dont ils parviendraient à obtenir le recouvrement effectif après leur admission en non-valeur. Cette procédure a en effet pour but de constater l'irrécouvrabilité des créances qui en font l'objet, c'est-à-dire l'impossibilité d'en obtenir l'apurement effectif en raison de l'absence, du décès ou de l'insolvabilité du redevable. Elle n'est par conséquent mise en oeuvre que lorsque les différentes actions dont disposent les comptables chargés du recouvrement se sont révélées infructueuses et ne concerne ainsi, par définition, que des créances pour lesquelles ne subsiste plus, au moins dans l'immédiat, aucune possibilité réelle de recouvrement. L'expérience montre, en outre, qu'en dépit de la vigilance dont font preuve en la matière les comptables relevant de la direction de la comptabilité publique, les créances concernées n'offrent que rarement la possibilité de mettre en oeuvre ultérieurement de nouvelles actions en recouvrement. L'institution éventuelle d'une prime spécifique dont serait assorti le recouvrement des créances préalablement admises en non-valeur ne serait donc probablement pas de nature à majorer, de façon significative, le montant des recettes effectivement constatées après le prononcé de telles décisions. Dès lors que celles-ci n'ont pas pour effet de libérer les redevables de leur dette à l'égard du Trésor public, les comptables chargés du recouvrement n'en demeurent pas moins tenus de s'assurer ensuite qu'il n'existe pas de telles possibilités et, bien entendu, de les mettre en oeuvre le cas échéant.
