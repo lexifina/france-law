@@ -8,9 +8,7 @@ ESPECES
 
 POIDS MINIMAL
 
-à prélever
-
-sur un lot
+à prélever sur un lot
 
 (en grammes)
 
@@ -64,12 +62,26 @@ Semences de base autres que de lignées inbred et semences certifiées
 
 |
 
-Sorgho |
+Sorgho
+
+Sorgho du soudan
+
+Sorgho x sorgho du Soudan
+
+|
+
+1 000
+
+1 000
 
 1 000
 
 |
 
 1 000
+
+900
+
+900
 
 |

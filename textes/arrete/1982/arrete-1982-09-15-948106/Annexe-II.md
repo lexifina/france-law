@@ -1,6 +1,6 @@
 # Article Annexe II
 
-CONDITIONS AUXQUELLES DOIVENT SATISFAIRE LES SEMENCES
+Conditions auxquelles doivent satisfaire les semences
 
 A. - Les semences doivent répondre aux normes et autres conditions suivantes, en ce qui concerne la pureté variétale, la faculté germinative, la pureté spécifique, la teneur en humidité et la teneur en semences d'autres espèces de plantes (voir tableau).
 
@@ -8,11 +8,11 @@ B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des s
 
 Les semences doivent répondre aux conditions suivantes :
 
-- Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon du poids prévu à l'annexe n° IV ne doit pas excéder :
+Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe n° IV ne doit pas excéder
 
-un pour les semences de base ;
+- un pour les semences de base ;
 
-trois pour les semences certifiées.
+- trois pour les semences certifiées.
 
 ESPECES
 
@@ -22,7 +22,7 @@ CATÉGORIES
 
 |
 
-PURETÉ minimale variétale (pourcentage de graines),
+PURETÉ minimale variétale (% de graines),
 
 |
 
@@ -32,9 +32,7 @@ germinative
 
 minimale
 
-(pourcentage
-
-de graines).
+(% de graines).
 
 |
 
@@ -42,13 +40,13 @@ PURETÉ
 
 spécifique
 
-minimale (pourcentage en poids).
+minimale (% en poids).
 
 |
 
 HUMIDITE
 
-Maximale (pourcentage en teneur d'eau)
+Maximale (% en teneur d'eau)
 
 |
 
@@ -178,7 +176,7 @@ Semences de base...
 
 |
 
-2 grains rouges.
+1 grain rouge.
 
 |
 
@@ -210,7 +208,7 @@ Semences certifiées
 
 |
 
-5 grains rouges.
+3 grains rouges.
 
 |
 
@@ -238,8 +236,6 @@ Semences de base.
 
 98
 
-.
-
 |
 
 15
@@ -250,7 +246,7 @@ Semences de base.
 
 |
 
-3 (b)
+1 (b)
 
 |
 
@@ -370,7 +366,7 @@ Semences de base...
 
 |
 
--
+99,7
 
 |
 
@@ -382,7 +378,7 @@ Semences de base...
 
 |
 
-15
+16,5
 
 |
 
@@ -406,7 +402,7 @@ Semences certifiées
 
 |
 
--
+99
 
 |
 
@@ -418,7 +414,7 @@ Semences certifiées
 
 |
 
-15
+16,5
 
 |
 
@@ -458,11 +454,11 @@ Semences de base...
 
 |
 
-12
+14
 
 |
 
--
+0
 
 |
 
@@ -488,11 +484,11 @@ Semences certifiées et semences.
 
 |
 
-12
+14
 
 |
 
--
+0
 
 |
 
