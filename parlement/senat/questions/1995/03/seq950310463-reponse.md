@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310463
+
+- Question : [SEQ950310463](seq950310463.md) — Hausse des droits d'accises sur les vins
+
+## Réponse
+
+*Agriculture, JO du 1995-05-18, page 1135*
+
+Réponse. - Le projet de la DG XXI - Union douanière et fiscale - de la Commission européenne de porter le taux minimum d'accises pour le vin à 9,9 écus par hectolitre s'inscrit dans le cadre de la directive communautaire 92-84-CEE du 19 octobre 1992 concernant le rapprochement des taux d'accises sur l'alcool et les boissons alcoolisées. Cette directive prévoit dans son article 8 que " tous les deux ans et, pour la première fois le 31 décembre 1994 au plus tard, le conseil procède, sur la base d'un rapport et, le cas échéant, d'une proposition de la commission, à l'examen des taux d'accises (...) ". Toutefois, à l'heure actuelle, le projet d'un taux minimum de 9,9 écus par hectolitre pour le vin n'a rien d'officiel. Ce n'est pour le moment qu'un projet, qui d'ailleurs ne recueille pas l'assentiment de l'ensemble de la commission et auquel la direction générale VI - agriculture - en particulier est opposée. Ce projet n'a donc pas encore été présenté au conseil des ministres à Bruxelles et rien ne permet de dire qu'il le sera. Ce dossier ne relève pas directement de la compétence du ministère de l'agriculture et de la pêche. Il fait partie des missions du service de la législation fiscale au ministère du budget. Toutefois, si le projet de fixation d'un taux minimum d'accises pour le vin à 9,9 écus par hectolitre devait être officiellement présenté, il sera fait part d'une opposition totale à une telle disposition qui ne peut qu'entraîner une aggravation de la baisse de la consommation de vin, alors qu'une nouvelle OCM viti-vinicole demandant aux viticulteurs européens un nouvel effort d'adaptation de leur production au marché est en pleine discussion.
