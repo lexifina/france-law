@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626426
+
+- Question : [SEQ000626426](seq000626426.md) — TVA applicable à la restauration
+
+## Réponse
+
+*Économie, JO du 2001-01-25, page 261*
+
+Réponse. - La directive du 19 octobre 1992 relative au rapprochement des taux de TVA ne permet pas à la France d'appliquer à la restauration un taux de TVA autre que le taux normal qui a été abaissé à 19,6 % à compter du 1er avril. Elle n'a, sur ce point, pas été modifiée par la directive relative aux services à forte intensité de main-d' uvre dès lors que la restauration ne figure pas sur la liste arrêtée lors du conseil Ecofin du 8 octobre 1999. Dans ces conditions, toutes les opérations de ventes à consommer sur place sont, quels que soient leur forme, leur appellation ou l'établissement dans lequel elles sont réalisées, soumises au taux normal de la TVA. Seules les ventes à emporter de produits alimentaires ou de plats préparés sont passibles du taux réduit. A cet égard, il est rappelé que les établissements de restauration rapide sont, quelle que soit leur spécialité, également soumis à ces règles. Ils sont ainsi imposables au taux normal de la TVA pour leurs ventes à consommer sur place de produits alimentaires, de plats préparés ou de boissons et ne sont soumis au taux réduit qu'au titre de leurs ventes à emporter. Ces dispositions ne sont donc pas susceptibles de créer de distorsions de concurrence entre les différentes formes de restauration. En outre, huit autres membres de l'Union européenne soumettent la restauration à des taux de TVA compris entre 15 et 25 %. Il n'y a donc pas d'exception française dans ce domaine. Enfin, si le Gouvernement est attentif à la situation de la restauration française qui concourt à faire de notre pays la première destination touristique en Europe, il convient également de noter que le chiffre d'affaires de la restauration commerciale a progressé de plus de 7 % en 1999 malgré l'application du taux normal à cette activité.
