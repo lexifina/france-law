@@ -110,6 +110,10 @@ Cannes - Grasse - Antibes.
 
 Antibes, Auribeau-sur-Siagne, Le Bar-sur-Loup, Biot, Cabris, Cannes, Le Cannet, Châteauneuf-Grasse, Grasse, Mandelieu-la-Napoule, Mouans-Sartoux, Mougins, Opio, Pégomas, Reymeinade, Roquefort-les-Pins, La Roquette-sur-Siagne, Le Rouret, Spéracédès, Théoule-sur-Mer, Le Tignet, Valbonne et Vallauris.
 
+Menton-Monaco (communes françaises de l'agglomération de)
+
+Beausoleil, Cap-d'Ail, Castellar, Eze, Gorbio, La Turbie, Menton, Roquebrune-Cap-Martin et Sainte-Agnès.
+
 07 - Ardèche
 
 Valence.
@@ -314,6 +318,12 @@ Hagondange-Briey.
 
 Auboué, Briey, Homécourt, Joeuf et Moutiers.
 
+Aubange, Differdange, Esch-sur-Alzette, Longwy et Petange
+
+(communes françaises de l'agglomération de)
+
+Cosnes-et-Romain, Herserange, Lexy, Longlaville, Longwy, Mont-Saint-Martin, Réhon, Saulnes, Thil et Villerupt.
+
 56 - Morbihan
 
 Lorient.
@@ -327,6 +337,12 @@ Hagondange-Briey.
 (Complément en Meurthe-et-Moselle.)
 
 Amnéville, Bronvaux, Clouange, Gandrange, Hagondange, Maizières-lès-Metz, Marange-Silvange, Mondelange, Montois-la-Montagne, Moyeuvre-Grande, Moyeuvre-Petite, Pierrevillers, Richemont, Rombas, Rosselange, Sainte-Marie-aux-Chênes, Talange et Vitry-sur-Orne.
+
+Aubange, Differdange, Esch-sur-Alzette, Longwy et Petange
+
+(communes françaises de l'agglomération de)
+
+Audun-le-Tiche, Rédange et Russange.
 
 Metz.
 
@@ -360,7 +376,7 @@ Armbouts-Cappel, Bray-Dunes, Bourbourg, Cappelle-la-Grande, Coudekerque-Branche,
 
 Lille.
 
-Anstaing, Armentières, Baisieux, Beauchamp-Ligny, Bondues, Bousbecque, Bouvines, Capinghem, La Chapelle-d’Armentières, Chéreng, Comines, Croix, Deulemont, Don, Emmerin, Englos, Ennetières-en-Weppes, Erquinghem-le-Sec, Erquinghem-Lys, Escobecques, Faches-Thumesnil, Forest-sur-Marque, Fournes-en-Weppes, Frelinghien, Fretin, Gruson, Hallennes-lès-Haubourdin, Halluin, Hantay, Haubourdin, Hellemmes-Lille, Hem, Herlies, Houplin-Ancoisne, Houplines, Illies, Lambersart, Lannoy, Leers, Lesquin, Lezennes, Lille, Linselles, Lomme, Lompret, Loos-lès-Lille, Lys-lès-Lannoy, La Madeleine, Marcq-en-Baroeul, Marquette-lez-Lille, Marquillies, Mons-en-Baroeul, Mouveaux, Neuville-en-Ferrain, Noyelles-lès-Seclin, Pérenchies, Péronnes-en-Mélantois, Prémesques, Quesnoy-sur-Deule, Ronchin, Roncq, Roubaix, Sailly-lez-Lannoy, Sainghein-en-Weppes, Sainghein-en-Mélantois, Saint-André-lez -Lille, Salomé, Santés, Seclin, Sequedin, Temple-Mars, Toufflers, Tourcoing, Tressin, Vendeville, Verlinghem, Villeneuve-d’Ascq, Wambrechies, Warneton, Wasquehal, Wattignies, Wattrelos, Wavrin, Wervicq-Sud, Wicres et Willems.
+Anstaing, Armentières, Baisieux, Beauchamp-Ligny, Bondues, Bousbecque, Bouvines, Capinghem, La Chapelle-d’Armentières, Chéreng, Comines, Croix, Deulemont, Don, Emmerin, Englos, Ennetières-en-Weppes, Erquinghem-le-Sec, Erquinghem-Lys, Escobecques, Faches-Thumesnil, Forest-sur-Marque, Fournes-en-Weppes, Frelinghien, Fretin, Gruson, Hallennes-lès-Haubourdin, Halluin, Hantay, Haubourdin, Hem, Herlies, Houplin-Ancoisne, Houplines, Illies, Lambersart, Lannoy, Leers, Lesquin, Lezennes, Lille, Linselles, Lomme, Lompret, Loos-lès-Lille, Lys-lès-Lannoy, La Madeleine, Marcq-en-Baroeul, Marquette-lez-Lille, Marquillies, Mons-en-Baroeul, Mouveaux, Neuville-en-Ferrain, Noyelles-lès-Seclin, Pérenchies, Péronnes-en-Mélantois, Prémesques, Quesnoy-sur-Deule, Ronchin, Roncq, Roubaix, Sailly-lez-Lannoy, Sainghein-en-Weppes, Sainghein-en-Mélantois, Saint-André-lez -Lille, Salomé, Santés, Seclin, Sequedin, Temple-Mars, Toufflers, Tourcoing, Tressin, Vendeville, Verlinghem, Villeneuve-d’Ascq, Wambrechies, Warneton, Wasquehal, Wattignies, Wattrelos, Wavrin, Wervicq-Sud, Wicres et Willems.
 
 Maubeuge.
 
@@ -424,11 +440,11 @@ Bayonne.
 
 (Complément en Landes.)
 
-Anglet, Arcangues, Bassussany, Bayonne, Biarritz, Bidart, Boucau, Guéthary, Mouguerre et Saint-Pierre-d’Irube, Ciboure, Lahonce, Saint-Jean-de-Luz, Urrugne et Villefranque.
+Anglet, Arcangues, Bassussany, Bayonne, Biarritz, Bidart, Boucau, Guéthary, Mouguerre et Saint-Pierre-d’Irube, Ciboure, Lahonce, Saint-Jean-de-Luz, Urrugne et Villefranque, Hendaye.
 
 Pau.
 
-Aressy, Billère, Bizanos, Gelos, Idron-Lée-Ousse-Sendets, Jurançon, Lescar, Lons, Mazères-Lezons, Meillon, Pau, Rontignon et Uzos, Narcastet, Assat, Baliros, Boeil-Bezing, Bordes, Morlaàs, Serres-Morlaàs et Siros.
+Aressy, Billère, Bizanos, Gelos, Idron-Lée-Ousse-Sendets, Jurançon, Lescar, Lons, Mazères-Lezons, Meillon, Pau, Rontignon et Uzos, Narcastet, Assat, Baliros, Boeil-Bezing, Bordes, Morlaàs, Serres-Morlaàs et Siros, Aussevielle et Poey-de-Lescar.
 
 66 - Pyrénées-Orientales
 
