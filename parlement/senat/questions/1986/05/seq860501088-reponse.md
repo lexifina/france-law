@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501088
+
+- Question : [SEQ860501088](seq860501088.md) — Définition et répression du délit d'ingérence
+
+## Réponse
+
+*Intérieur, JO du 1986-11-06, page 1568*
+
+Réponse. -Aux termes de l'article 175 du code pénal, " il est interdit à tout fonctionnaire, tout officier public, tout agent du Gouvernement de prendre ou de recevoir, soit ouvertement, soit par actes simulés, soit par interposition de personnes, quelque intérêt que ce soit dans les actes, adjudications, entreprises ou régies dont il a ou avait, au moment de l'acte, en tout ou en partie, l'administration ou la surveillance ". Pour que le délit d'ingérence soit constitué, les trois conditions spécifiques prévues par cet article doivent être simultanément réunies : l'agent inculpé doit avoir la qualité de " fonctionnaire " ; prendre ou recevoir un intérêt quelconque, directement ou par personne interposée dans l'affaire envisagée ; avoir l'administration ou la surveillance, en tout ou en partie, de l'affaire au moment où a lieu la prise d'intérêt. Dans le cas évoqué par l'honorable parlementaire, ces trois conditions objectives ne paraissent pas être remplies, dans la mesure où les éléments portés à ma connaissance tendent à écarter toute notion de prise d'intérêt du maire dans l'opération projetée, à savoir l'achat par sa petite-fille d'une parcelle dans un lotissement communal à usage commercial. Toutefois, l'appréciation de l'intérêt que peut prendre le " fonctionnaire " dans l'affaire dont il a " l'administration ou la surveillance " est une question de fait qui relève de la compétence du juge répressif, lequel se prononce au coup par coup selon le cas d'espèce. Les informations communiquées au cas particulier ne sauraient donc préjuger la solution qui pourrait être donnée par les juridictions de l'ordre pénal, saisies d'un tel cas d'espèce.
