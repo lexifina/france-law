@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880309877
+
+- Question : [SEQ880309877](seq880309877.md) — Gestion de la vie locale : signature des décrets
+
+## Réponse
+
+*Collectivités locales, JO du 1988-04-21, page 537*
+
+Réponse. -La loi n° 88-13 du 5 janvier 1988 d'amélioration de la décentralisation a introduit dans ses articles 10, 11 et 12 deux séries de mesures visant, d'une part, à protéger les collectivités locales lorsqu'elles accordent leur garantie à des personnes de droit privé, d'autre part à leur permettre d'appuyer efficacement les initiatives de création et de développement d'entreprises. Ces mesures reposent sur les principes de division et de partage du risque, lui-même limité à un pourcentage fixé des recettes de la section de fonctionnement de la collectivité. Un projet de décret définissant les notions de montant net des annuités d'emprunt, d'emprunt garanti ou cautionné, de recettes réelles de fonctionnement et fixant les différents pourcentages et ratios prudentiels prévus par la loi a été examiné par le comité des finances locales le 16 février 1988, qui a émis un avis favorable. Ce texte, unique pour les communes, les départements et les régions, est actuellement soumis à la signature des ministres et devrait être publié très prochainement. Par ailleurs, la loi d'amélioration de la décentralisation dispose que les communes, les départements et les régions peuvent participer de plein droit au capital d'établissements de crédit ayant pour objet exclusif de garantir des emprunts. Le décret fixant les conditions de participation des collectivités locales à ces établissements a également fait l'objet d'un avis favorable du comité des finances locales dans sa séance du 16 février 1988 et a été examiné par le Conseil d'Etat le 16 mars 1988. Il est actuellement soumis à la signature des ministres et devrait être publié rapidement.
