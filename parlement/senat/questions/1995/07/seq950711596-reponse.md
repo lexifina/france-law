@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711596
+
+- Question : [SEQ950711596](seq950711596.md) — Aide sociale aux personnes âgées
+
+## Réponse
+
+*Travail, JO du 1996-02-15, page 349*
+
+Réponse. - Le séjour d'une personne âgée dans un établissement d'hébergement médicalisé donne lieu à la détermination d'un prix de journée relevant du président du conseil général et d'un forfait de soins journalier relevant du préfet. Ainsi, le prix de journée doit permettre de couvrir les dépenses liées à l'hébergement et le forfait de soins, les dépenses liées aux soins pris en charge de la personne âgée hébergée. Cependant, les modalités actuelles de tarification en établissement d'hébergement pour personnes âgées soulèvent de multiples critiques. Il apparaît nécessaire de clarifier les coûts et les modes de financement des différents types de prestation, ainsi que les compétences respectives des départements et des organismes de sécurité sociale. La réforme de la tarification qui devrait être mise en oeuvre au 1er janvier 1997 prendra en compte ces exigences à partir de règles claires, non soumises à interprétation et non susceptibles d'entraîner des transferts de charges entre les financeurs, personnes hébergées, départements et assurance maladie. Dans cette perspective, une étude portant sur dix-neuf établissements d'hébergement pour personnes âgées a été lancée en 1994 dans sept départements. Elle sera complétée par une mission conjointe IGF-IGAS et devra déboucher sur des dispositions visant à adapter la réglementation en étroite concertation avec les conseils généraux. Cette réforme devrait concerner aussi bien les établissements, publics ou privés, à but lucratif ou non et permettre notamment de clarifier le rôle des départements et des organismes de sécurité sociale dans la prise en charge financière de la dépendance des personnes âgées hébergées en établissement.
