@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105409
+
+- Question : [SEQ980105409](seq980105409.md) — Enseignants français à l'étranger : indemnité de suivi et d'orientation
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-04-09, page 1131*
+
+Réponse. - L'article 3 du décret no 93-55 du 15 janvier 1993 institue la part modulable de l'ISO (indemnité de suivi et d'orientation) et permet d'allouer cette indemnité à un seul professeur principal par division. Ce terme est défini par le ministère de l'éducation nationale dans l'arrêté du 27 août 1992 relatif à la terminologie de l'éducation : " dans un établissement secondaire, unité fonctionnelle de gestion regroupant un certain nombre d'élèves appartenant à une même classe ". La classe est elle-même définie comme étant " chacune des années de formation qui constituent le déroulement d'une scolarité ". Ainsi une classe de sixième peut comporter une ou plusiers divisions. Pour ce qui concerne les établissements de France dépendant du ministère de l'éducation nationale, la division étant définie comme une unité fonctionnelle, la taille et la composition de celle-ci en nombre d'élèves ne sont pas réglementées dans le cadre du décret précité mais appréciées par l'administration qui, pour l'instant, refuse l'attribution de la part modulable de l'ISO à un professeur principal en charge d'une division dont le nombre d'élèves est inférieur à vingt. Pour l'étranger, l'agence qui, dans le cadre de sa mission de service public, exerce une tutelle pédagogique sur les établissements d'enseignement français, a donné, dans sa circulaire AEFE no 3363 du 16 juillet 1997, une appréciation de l'unité fonctionnelle de la division en la limitant au nombre de vingt élèves, tout en autorisant le regroupement de deux classes pour constituer une division. Cela constitue un dispositif certes spécifique au réseau des établissements français, mais plus favorable pour les personnels enseignants.
