@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415574
+
+- Question : [SEQ990415574](seq990415574.md) — Responsabilité des motards
+
+## Réponse
+
+*Équipement, JO du 1999-10-21, page 3486*
+
+Réponse. - L'article R.4-1 du code de la route dispose que " lorsque, sur les routes à sens unique et sur les routes à plus de deux voies, la circulation, en raison de sa densité, s'établit en file ininterrompue sur toutes les voies, les conducteurs doivent rester dans leur file ; ils ne peuvent en changer que pour préparer un changement de direction, en entravant le moins possible la marche normale des autres véhicules ". Lorsque la circulation s'écoule en file ininterrompue, les motocyclistes qui remontent les files ou qui passent alternativement d'une voie à l'autre sans préparer un changement de direction, sont en infraction avec le code de la route. A ce titre, ils sont passibles d'une contravention de deuxième classe d'un montant de 230 francs (article R.233-1º du code de la route). Le ministre ne peut que déplorer le comportement, voire l'incivilité de certains usagers de la route, toutes catégories d'usagers confondues, qui débouche sur une accidentalité préoccupante des motocyclistes. En liaison avec les associations de motards et les autres partenaires concernés, toutes les actions possibles doivent être mises en uvre pour améliorer significativement la sécurité des motards. En cas d'accident, les entreprises d'assurance apprécient la responsabilité des parties en cause au cas par cas et sous le contrôle des tribunaux judiciaires. La table ronde sur la sécurité des conducteurs de motocyclettes de moins de 125 cm3 proposait une modification du code de la route. Un projet de décret dans le sens de cette proposition sera soumis à l'étude de l'instance permanente de concertation et de réflexion concernant les problèmes généraux de la motocyclette et de son usage, qui se réunira dans le courant du mois de septembre.
