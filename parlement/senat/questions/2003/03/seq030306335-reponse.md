@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306335
+
+- Question : [SEQ030306335](seq030306335.md) — Rédaction des projets de lois et circulaires
+
+## Réponse
+
+*Premier ministre, JO du 2003-04-17, page 1311*
+
+La circulaire du Premier ministre, en date du 30 janvier 1997 fixant les règles d'élaboration des textes publiés au Journal officiel comporte, dès sa première partie, un ensemble de prescriptions pour la rédaction des textes et, en particulier, des projets de loi. Ainsi proscrit-elle le recours à des mots étrangers ou à des mots nouveaux qui ne sont pas consacrés par l'usage, de même que l'utilisation des sigles. Tant le Conseil d'Etat que le secrétariat général du Gouvernement s'assurent que le vocabulaire utilisé dans les projets de loi destinés à être inscrits à l'ordre du jour du conseil des ministres répond à ces prescriptions. Il reste qu'un texte peut être, formellement, de qualité honorable, et décontenancer néanmoins le lecteur parce qu'il institue des procédures, des instruments ou des prestations nouvelles, dont la dénomination vient se substituer à des notions antérieures. Tel a pu être l'effet produit, par exemple, par la substitution des plans locaux d'urbanisme aux plans d'occupation des sols. Il s'agit là d'une question qui touche moins à la qualité formelle des textes qu'à la stabilité de la règle de droit. Quant à la rédaction des circulaires, elle est sans doute d'autant plus riche en termes techniques et en abréviations qu'il s'agit souvent de textes adressés par une administration aux agents de ses services déconcentrés. Il n'en est pas moins vrai que, lorsqu'une circulaire est destinée à être utilisée au-delà de la seule sphère des administrations de l'Etat, notamment parce qu'elle est nécessaire à l'information des élus locaux, il convient d'apporter une attention particulière à la clarté et à la simplicité de la langue. Il est veillé au respect de cette exigence lorsqu'un projet de circulaire est soumis à ma signature.
