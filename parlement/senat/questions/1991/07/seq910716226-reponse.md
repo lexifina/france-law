@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716226
+
+- Question : [SEQ910716226](seq910716226.md) — Difficultés de recrutement du personnel infirmier
+
+## Réponse
+
+*Santé, JO du 1991-09-05, page 1902*
+
+Réponse. - Les difficultés de recrutement des infirmiers hospitaliers n'ont pas l'ampleur que semble leur prêter l'honorable parlementaire. Elles sont en effet circonscrites à certaines zones géographiques, dont la région parisienne, et ne revêtent qu'une importance limitée. Ainsi, à titre d'exemple, les emplois d'infirmiers non pourvus à l'administration générale de l'assistance publique à Paris ne représentent que 2 p. 100 du total des emplois. Ceci ne doit nullement conduire à sous-estimer les graves conséquences que pourrait avoir à terme la relative désaffection des infirmiers pour l'hôpital. Aussi le ministre délégué s'attache-t-il à y porter remède. Les réformes statutaires intervenues en application du protocole d'accord du 24 octobre 1988 ainsi que celles actuellement mises en oeuvre selon le calendrier prévu au protocole d'accord du 9 février 1990 devraient, en revalorisant les carrières hospitalières, les rendre plus attractives. Les cadres infirmiers ont pleinement bénéficié de ces mesures de revalorisation avec notamment le classement en catégorie A des infirmiers généraux, des directeurs d'école et des surveillants chefs dotés les uns et les autres d'échelles indiciaires très sensiblement améliorées. Une très large réflexion a par ailleurs été menée, en concertation avec les différentes organisations syndicales, sur le rôle des cadres soignants au sein de l'hôpital ainsi que sur le type de formation qui doit leur être dispensé. Enfin, les structures mises en place au sein de l'hôpital par la loi hospitalière (service infirmier, commission du service de soins infirmiers) qui consacrent la place des infirmiers au sein de l'hôpital public leur permettront de s'exprimer pleinement sur l'ensemble des sujets qui les concernent.
