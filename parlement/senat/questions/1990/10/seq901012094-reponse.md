@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012094
+
+- Question : [SEQ901012094](seq901012094.md) — Suppression de l'allocation de scolarité
+
+## Réponse
+
+*Économie, JO du 1991-01-03, page 20*
+
+Réponse. - Les fonds scolaires départementaux ont été créés en 1951. Ils sont alimentés par l'allocation de scolarité dont le montant est fixé, depuis 1965, à 13 francs par trimestre de scolarité et par élève des écoles et des collèges publics ou privés. L'allocation de scolarité et les fonds qu'elle alimentait ont contribué au financement des constructions scolaires, à l'entretien des bâtiments et des matériels, au développement des transports scolaires, dans une période de forte augmentation de ces dépenses. Une partie de ces dépenses a été prise en charge par la suite par l'Etat, notamment les transports et les manuels scolaires. A l'occasion de la décentralisation, les crédits de transports scolaires et de fonctionnement des collèges ont été intégrés dans la dotation générale de décentralisation. Les crédits d'équipement des collèges ont été regroupés dans la dotation départementale d'équipement scolaire. L'Etat, par ailleurs, poursuit son effort en matière de manuels. Dans ces conditions, l'allocation de scolarité est apparue largement obsolète, dans la mesure où les dépenses dont elle assurait le financement sont désormais prises en charge par d'autres biais. C'est pourquoi, comme le rappelle l'honorable parlementaire, le Gouvernement a proposé au Parlement dans le cadre du projet de loi de finances de supprimer l'allocation de scolarité. Afin de tenir compte de la perte de recettes en résultant pour les collectivités locales, le Gouvernement s'est engagé à ce qu'un décret majore de 40 p. 100 les valeurs imposables à la taxe locale d'équipement qui n'ont pas été revues depuis plusieurs années. La publication de ce texte interviendra dans les meilleurs délais.
