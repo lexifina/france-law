@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136679
+
+- Question : [SEQ011136679](seq011136679.md) — Logement des saisonniers
+
+## Réponse
+
+*Tourisme, JO du 2002-02-21, page 585*
+
+Le Gouvernement s'est engagé, le 9 février 2000, sur un programme d'amélioration des conditions de vie et de travail des salariés saisonniers du tourisme. L'accès au logement est une des actions dont la réalisation est déterminante pour faire progresser concrètement leur situation. Une instruction conjointe des secrétaires d'Etat au tourisme et au logement du 30 juillet 2001 a invité les préfets de dix départements touristiques-pilotes à informer les maires et les présidents d'organismes HLM des mesures prévues par la loi " solidarité et renouvellement urbains " dont ils peuvent bénéficier. Il leur a été également demandé de mettre en place une commission de concertation, associant les principaux intéressés, élus et professionnels, dont le rôle est, d'une part, de procéder à une première évaluation des besoins et projets existants, et, d'autre part, d'examiner, en fonction du nombre de saisonniers et des difficultés rencontrées, la faisabilité de toute opération ainsi que les conditions de financement associant l'Etat, les professionnels et les collectivités territoriales. Des commissions fonctionnent déjà dans le Morbihan, les Côtes-d'Armor, la Loire-Atlantique, les Pyrénées-Orientales, les Alpes-Maritimes, les Hautes-Alpes, la Savoie et la Haute-Savoie. Un chargé de mission interministériel a été nommé à compter du 1er janvier 2002 pour coordonner ce dispositif et veiller au respect de l'engagement pris par le Premier ministre, lors des Assises nationales du tourisme du 17 octobre 2001, de proposer, dès la saison estivale 2002, des logements supplémentaires aux travailleurs saisonniers du tourisme. Dès sa prise de fonction, il établira un bilan des opérations réalisées ou en cours, dans le cadre du plan de mise en place de 6 000 logements sur trois ans.
