@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801827
+
+- Question : [SEQ020801827](seq020801827.md) — Champ d'application de l'article L. 313-3 du code de la consommation relatif à l'usure
+
+## Réponse
+
+*Économie, JO du 2003-01-02, page 42*
+
+Le taux de l'usure ne s'étend pas aux émissions de titres de créance, et ce, pour plusieurs raisons : une émission de titres de créance ne constitue pas un prêt conventionnel au sens de l'article L. 313-3 du code de la consommation relatif au taux de l'usure qui assimile exclusivement aux prêts conventionnels les crédits accordés à l'occasion de vente à tempérament ; l'appréciation du taux ne peut se faire que par rapport à des opérations de même nature comportant des risques analogues et les émissions de titres de créance ne figurent pas dans la nomenclature des prêts (arrêté du 25 juin 1990 et art. D. 313-6 du code de la consommation) pour lesquels le seuil de l'usure est déterminé, ce qui interdit la connaissance a priori d'un taux pour ces émissions ; le dispositif de l'article L. 313-3 a pour objet de protéger l'emprunteur. Or, en matière d'émission de titres de créance, l'emprunteur, émetteur des titres, détermine lui-même le taux et les modalités de l'émission. C'est en faveur du prêteur, c'est-à-dire de l'investisseur qu'a été organisé un dispositif de protection. Les logiques sont donc profondément différentes ; enfin, ces dispositions étant pénalement sanctionnées, elles font l'objet d'une interprétation stricte. En conclusion, si la non-application de la législation sur l'usure aux émissions de titres de créance ne fait pas de doute, il convient de distinguer cette question de celle de l'appel public à l'épargne sur les obligations à haut rendement. Il reviendrait aux autorités de place saisies sur ce point de répondre à la question de la protection de l'épargne et de l'information du public sur ce segment de marché.
