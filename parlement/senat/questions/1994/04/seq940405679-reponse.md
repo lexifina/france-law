@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405679
+
+- Question : [SEQ940405679](seq940405679.md) — Incidence pour le département du Doubs de l'aide gouvernementale au secteur automobile
+
+## Réponse
+
+*Industrie, JO du 1994-10-13, page 2474*
+
+Réponse. - La prime à la reprise des véhicules de plus de dix ans s'est traduite, pour les sept premiers mois de son application, par environ 200 000 commandes supplémentaires (pour environ 315 000 commandes " primées "). C'est ainsi que les experts estiment que le marché français des voitures particulières et des véhicules utilitaires de moins de 5 tonnes devrait croître en 1994 de plus de 14 p. 100 par rapport à 1993 (la moyenne européenne étant de plus 4 p. 100 à 5 p. 100), alors que les prévisions de croissance étaient, au début de l'année, de 2 p. 100 environ, pour le marché français aussi bien que pour le marché européen. Par ailleurs, la prime à la reprise des véhicules de plus de 10 ans, qui sera en vigueur jusqu'au 30 juin 1995, continue d'avoir des effets très significatifs sur le marché. C'est ainsi que les immatriculations du mois d'août étaient en progression de 19,7 p. 100 par rapport à 1993 et que l'on peut estimer que le taux des commandes " primées " par rapport aux commandes totales était encore supérieur à 15 p. 100 au cours de ce même mois. Le Ministère de l'Industrie, des Postes et Télécommunications et du Commerce Extérieur ne dispose pas de données précises sur la répartition par départements de l'évolution des commandes de véhicules. D'après les informations dont il dispose, il apparaît toutefois que le succès de la mesure est plus marqué en province qu'en région parisienne. Quant aux statistiques portant sur les immatriculations, outre le fait qu'elles ne reflètent qu'avec retard l'évolution des commandes, elles ne permettent pas d'isoler les commandes supplémentaires dues à la prime à la reprise des véhicules de plus de 10 ans.
