@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008038
+
+- Question : [SEQ941008038](seq941008038.md) — Avenir de l'institution hippique
+
+## Réponse
+
+*Agriculture, JO du 1995-02-23, page 435*
+
+Réponse. - Le protocole d'accord conclu en décembre 1992 entre l'Etat et l'institution des courses a représenté un premier effort des pouvoirs publics en faveur du secteur des courses pour lui permettre de faire face aux graves difficultés rencontrées et liées notamment à la baisse des enjeux. L'analyse de la situation de cette institution comme la poursuite de cette évolution des enjeux, également constatée en 1993 et 1994, ont conduit les autorités de tutelle à susciter une mission de réflexion et de concertation avec les différents acteurs du monde des courses, dont le rapport lui a été remis le 26 juillet 1994. Les discussions engagées durant l'été avec les représentants de l'institution à partir des conclusions de ce rapport ont donné lieu à la signature, le 27 octobre dernier, d'un avenant au protocole de décembre 1992. Cet avenant comporte un volet financier et un volet institutionnel. Sur le plan financier, une aide supplémentaire de l'Etat en 1995 doit permettre aux sociétés de courses d'améliorer leur situation financière. Le volet institutionnel, quant à lui, prévoit notamment que soient constituées une société unique du galop et une entité nationale regroupant les sociétés mères des deux disciplines et les représentants des structures régionales afin d'améliorer le fonctionnement interne de l'institution des courses. Enfin, le rôle de l'Etat au sein du GIE-PMU sera renforcé. Les textes d'application de ces différentes dispositions sont actuellement en cours d'élaboration. Pour ce qui le concerne, le ministère de l'agriculture et de la pêche a d'ores et déjà saisi pour avis le Conseil supérieur du cheval des orientations qu'il entend voir respectées quant à une réforme de l'organisation de cette institution.
