@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633900
+
+- Question : [SEQ010633900](seq010633900.md) — Critères d'éligibilité aux contrats emploi solidarité
+
+## Réponse
+
+*Emploi, JO du 2002-01-17, page 151*
+
+L'honorable parlementaire a appelé l'attention de la ministre de l'emploi et de la solidarité sur les difficultés rencontrées par les employeurs de contrat emploi-solidarité en milieu rural. La réduction du nombre de CES est intervenue dans un contexte économique favorable. Parallèlement, le recentrage de la mesure CES en faveur des personnes les plus éloignés de l'emploi et des employeurs les plus actifs en terme d'insertion a renforcé son efficacité en matière de lutte contre l'exclusion. Ce recentrage du dispositif en faveur d'une population particulièrement menacée d'exclusion rend particulièrement opportunes et légitimes les obligations mises à la charge des employeurs pour accompagner ces salariés et les aider à préparer la sortie de leur contrat. C'est pourquoi les services du ministère attribuent les CES exclusivement aux employeurs en mesure de proposer systématiquement des actions d'accompagnement et de formation, et capables d'exercer un tutorat permanent afin que les salariés puissent tirer de leur passage en CES un réel bénéfice en termes de resocialisation et d'accès à l'emploi, ce qui exclut le renouvellement systématique de ces contrats auprès des mêmes employeurs. Cependant, consciente que l'amélioration de la situation de l'emploi ne profite pas également à toutes les personnes, la ministre a obtenu pour 2001 une enveloppe supplémentaire de 80 000 CES qui devrait permettre d'améliorer encore la prise en compte des besoins des publics en voie d'exclusion. Ces moyens devraient être prioritairement attribués aux territoires les plus en difficulté au regard de l'emploi, et notamment aux zones rurales où l'offre d'insertion est rare.
