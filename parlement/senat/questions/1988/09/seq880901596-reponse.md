@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901596
+
+- Question : [SEQ880901596](seq880901596.md) — Situation du programme TDF 1-TDF 2
+
+## Réponse
+
+*Postes, JO du 1988-11-03, page 1241*
+
+Réponse. - La mise en oeuvre des satellites TDF-TV SAT du programme franco-allemand de diffusion directe a été décidée au début de 1980, après une série d'études préliminaires. Ils avaient été conçus dans le strict respect des conclusions de la conférence administrative mondiale des radiocommunications (Genève, 1977) qui a jeté les bases de la diffusion par satellite, en fonction de la technologie alors connue pour la réception. Compte tenu des retards pris dans la mise au point, d'une part du lanceur Ariane - qui est maintenant une réussite - et, d'autre part, des tubes de puissance des satellites, des décalages sont intervenues ; ce qui n'est pas anormal pour des technologies aussi complexes. Alors que le premier lancement aurait dû intervenir en 1984, ce n'est que maintenant que le satellite TDF 1 est prêt. On avait, en son temps, conçu un système de forte puissance pour pouvoir desservir des antennes de taille réduite - de l'ordre de 60-80 centimètres de diamètre. Compte tenu de l'extraordinaire évolution des techniques de réception, une puissance de 230 watts (celle de TDF 1) autorise maintenant des antennes de 40-50 centimètres de diamètre. On aurait donc pu envisager de réduire la puissance du satellite mais cela n'est pas souhaitable car c'est une reconfiguration très délicate, sinon impossible, et, en tout cas, longue et coûteuse. Dans un souci de bonne gestion, des modifications techniques du projet ont été écartées. En ce qui concerne, enfin, la participation d'intérêts privés, le précédent gouvernement avait envisagé leurs concours partiel au capital d'une société de gestion des satellites. Cela ne put être mené à terme, par les différents responsables d'alors, du fait du refus de certains partenaires concernés.
