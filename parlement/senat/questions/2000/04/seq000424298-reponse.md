@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424298
+
+- Question : [SEQ000424298](seq000424298.md) — Mesures fiscales applicables aux familles
+
+## Réponse
+
+*Économie, JO du 2000-08-24, page 2922*
+
+Réponse. - En vertu de l'article 197-I, 2º, du code général des impôts, l'avantage en impôt résultant de l'application du quotient familial est limité pour chaque demi-part qui s'ajoute à une part pour les contribuables célibataires, divorcés, séparés ou veufs et à deux parts pour les contribuables mariés. Selon les dispositions de l'article 2 de la loi de finances 1999, le plafond de l'avantage fiscal résultant de l'application du quotient familial a été ramené de 16 380 francs à 11 000 francs par demi-part à compter de l'imposition des revenus de 1998. Le gain budgétaire lié à cette mesure est évalué à 3 350 millions de francs. Parallèlement, le montant de l'abattement sur le revenu imposable accordé aux parents rattachant à leur foyer fiscal un enfant marié ou chargé de famille a été abaissé de 30 330 francs à 20 370 francs par personne prise en charge. En vertu de l'article 157-II, 2º, dudit code, la déduction des pensions alimentaires versées à des enfants majeurs est limitée au montant de l'abattement prévu en cas de rattachement d'enfants mariés ou chargés de famille au foyer fiscal de leurs parents. En conséquence, la limite de déduction des pensions en cause a donc, comme l'abattement pour enfant rattaché, été abaissée de 30 330 francs à 20 370 francs par enfant. Le gain budgétaire lié à cette mesure est évalué à 700 millions de francs. Ce montant a été établi en prenant en compte les revenus de 1997. En effet, pour l'imposition des revenus 1998, les contribuables versant une pension supérieure à 20 370 francs ont en grande majorité déclaré un montant égal à cette limite, rendant impossible toute simulation à partir de ces revenus pour l'année 2000.
