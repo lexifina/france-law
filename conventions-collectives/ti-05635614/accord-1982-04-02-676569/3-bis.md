@@ -1,7 +1,123 @@
 # Article 3 bis
 
-La rémunération perçue par les salariés à temps partiel devra correspondre aux mêmes bases que celle d'un salarié à temps complet bénéficiant des dispositions de l'article 4.
+Dans les entreprises soumises à la convention collective des maisons à succursales de vente au détail d'habillement, l'organisation du travail à temps partiel devra tenir compte des dispositions suivantes qui annulent et remplacent les dispositions de l'article 58 des clauses générales.
 
-Sur la demande du salarié, les contrats à temps partiel d'une durée supérieure à 20 heures pourront être ramenés à une durée réduite du 40e.
+I.-Durée du travail du temps partiel
 
-Les besoins dégagés par la réduction du temps de travail seront satisfaits d'une façon prioritaire en faisant appel aux salariés à temps partiel qui souhaiteraient l'augmentation de leurs horaires.
+1. Tout contrat à temps partiel conclu, à partir de la date d'entrée en vigueur du présent accord et en application du présent paragraphe respectera les dispositions suivantes :
+
+Au plus tard le 1er janvier 2002, les nouveaux contrats de travail à temps partiel devront prévoir une durée hebdomadaire de travail égale ou supérieure à 22 heures hebdomadaires pour les horaires contractuels établis sur une base hebdomadaire ou à l'équivalent de 22 heures hebdomadaires pour les horaires établis contractuellement sur une base différente.
+
+Pour les salariés à temps partiel dont l'horaire de travail était inférieur à 22 heures hebdomadaires, l'entrée dans le dispositif d'un horaire minimum prévu au point 2-I du présent accord implique qu'en cas de refus par le salarié du nouvel horaire, ce salarié sera maintenu dans son horaire antérieur et sera considéré comme un salarié à temps partiel choisi au sens du point 2-II-1 du présent accord.
+
+2. Dans le cadre de ces contrats, la répartition quotidienne des horaires sera déterminée selon l'une des deux modalités suivantes :
+
+-soit la journée comporte une seule séquence de travail et, dans ce cas, sa durée ne peut être inférieure à 3 heures ;
+
+-soit la journée de travail comporte 2 séquences de tavail, séparée par une coupure de 2 heures maximales et, dans ce cas, en contrepartie, la durée du travail de la journée ne peut être inférieure à 6 heures ; en cas de fermeture d'un établissement de plus de 2 heures à l'heure du déjeuner, la coupure peut être supérieure à 2 heures sans pouvoir excéder la durée de ladite fermeture (1).
+
+3. Cependant, des contrats pourront être conclus sur des bases horaires inférieures par appel au volontariat et accord écrit des salariés concernés dans les cas suivants :
+
+a) Les emplois de retouche et de nettoyage, pour lesquels les besoins journaliers ou hebdomadaires en heures de travail n'atteignent pas les minima définis ci-dessus ;
+
+b) (2) Les salariés sous statut scolaire ou universitaire ;
+
+La répartition des horaires convenue au contrat de travail prendra en compte les contraintes issues de leurs horaires scolaires ou universitaires. Néanmoins, pour prendre en compte le désir de ces personnes de bénéficier le plus souvent qu'il leur est possible d'augmentation d'horaire pendant les périodes de vacances scolaires ou universitaires, l'employeur pourra leur proposer, par avenant à durée déterminée, de porter leur horaire de travail à un niveau au moins égal à 22 heures, voire à un niveau temps plein (1). Au terme de cet avenant, l'intéressé retrouve sa durée contractuelle de travail antérieure.
+
+II.-Temps partiel choisi
+
+1. Par application des dispositions de l'article L. 212-4-9 du code du travail, tout salarié à temps complet peut demander, à partir de l'issue de la période d'essai, un horaire à temps partiel sans durée minimale.
+
+La demande de l'intéressé devra être faite auprès de l'employeur par lettre recommandée avec accusé de réception et n'aura pas à être motivée. A la date de cette demande, le salarié dispose de 1 mois pour se rétracter. L'employeur dispose d'un délai de 15 jours à compter de l'expiration du délai de rétractation du salarié pour apporter une réponse. En cas de refus de l'employeur, cette réponse devra être faite selon les modalités du code du travail. En cas d'accord, un avenant au contrat de travail précisera les modalités d'application du temps partiel.
+
+Cet avenant précisera également qu'en cas de création ou de vacance d'un poste à temps complet, le salarié à temps partiel sera prioritaire pour l'affectation sur ce poste pour autant qu'il ait les compétences requises.
+
+2. Tout salarié peut également formuler une demande d'horaire à temps partiel sans durée minimale pour une durée déterminée maximale de 1 an.
+
+La demande de l'intéressé devra être faite auprès de l'employeur par lettre recommandée avec accusé de réception. L'employeur dispose d'un délai de 1 mois à compter de la réception de la demande pour donner sa réponse. L'employeur justifie sa réponse selon les possibilités ou impossibilités liées à l'exploitation de l'établissement concerné. En cas d'accord, un avenant au contrat de travail précisera les modalités d'application du temps partiel.
+
+A l'issue de cette période, le salarié retrouve la durée contractuelle de travail antérieure.
+
+3. De même, pour répondre aux besoins spécifiques de certains salariés, en particulier dans le cas d'exercice de plusieurs emplois, les parties peuvent établir un contrat de travail à temps partiel d'une durée inférieure à 22 heures, dont les clauses relatives à cette durée sont non modifiables et au regard desquels l'employeur ne peut en aucun cas prendre l'initiative d'une modification.
+
+Ce contrat précisera également qu'en cas de création ou de vacance d'un poste à temps complet, le salarié à temps partiel sera prioritaire pour l'affectation sur ce poste pour autant qu'il ait les compétences requises.
+
+III.-Accès aux emplois à temps plein
+
+Quel que soit le type de contrat à temps partiel, le contrat précisera que, en cas de création ou de vacance d'un poste à temps complet, le salarié à temps partiel sera prioritaire pour l'affectation sur ce poste pour autant qu'il ait les compétences requises.
+
+L'entreprise favorisera l'acquisition de ces compétences par la formation.
+
+Les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi à temps complet dans le même établissement ou, à défaut, dans la même entreprise, bénéficient d'une priorité d'affectation sur un poste vacant dans les conditions prévues à l'article L. 212-4-9, alinéa 1, du code du travail.
+
+Lorsqu'un salarié à temps partiel souhaite occuper ou reprendre un emploi à temps complet, il devra en faire la demande par lettre recommandée avec accusé de réception avec un préavis de 2 mois.
+
+IV.-Heures complémentaires
+
+1. Dans le cadre des dispositions prévues à l'article L. 212-4-9 du code du travail, l'employeur informera les instances représentatives du personnel du recours fait aux heures complémentaires.
+
+2. Le nombre d'heures complémentaires envisagées ne peut excéder 1/3 de la durée du travail inscrite dans le contrat, ni porter la durée effective au niveau de l'horaire légal ou conventionnel. Les heures complémentaires effectuées au-delà de 1/10 de la durée hebdomadaire ou mensuelle fixée au contrat de travail donnent lieu à la majoration prévue par la loi.
+
+Lorsque l'entreprise demande des heures complémentaires, elle devra respecter, sauf circonstances exceptionnelles non prévisibles ou nécessité de remplacer un salarié absent (1), un délai de prévenance de 7 jours. Cette condition sera réputée remplie par l'affichage du planigramme hebdomadaire stipulant l'horaire du personnel et par une information individuelle de chaque salarié concerné.
+
+Le recours aux heures complémentaires se fera dans le respect des dispositions légales relatives aux hypothèses et modalités de refus prévues par la loi.
+
+3. Compte tenu des dispositions actuelles de l'article L. 212-4-3 du code du travail et sous réserve que ces dispositions demeurent inchangées, il a été convenu que lorsque :
+
+-pendant une période de 12 semaines (ou pendant une période de 10 semaines dans l'hypothèse où les heures complémentaires ont dépassé 10 % de l'horaire contractuel dans la période considérée de 10 semaines) consécutives ;
+
+-pendant 12 semaines dans une période de 15 semaines, l'horaire moyen réellement effectué par un salarié a dépassé de 2 heures au moins par semaine, ou de l'équivalent mensuel ou annuel de cette durée, l'horaire prévu dans son contrat, celui-ci est modifié sous réserve d'un préavis de 7 jours et, sauf opposition du salarié intéressé, en ajoutant à l'horaire antérieurement fixé la différence entre cet horaire et l'horaire moyen réellement effectué.
+
+4. (3) Ne constituent pas des heures complémentaires, les heures faites par un salarié dans le cadre d'un avenant temporaire modifiant son horaire contractuel, accepté par l'intéressé dans l'un des cas où un contrat à durée déterminée aurait pu être légalement conclu.
+
+5. En raison des nécessités de la formation et de celles de l'organisation du service, les heures de formation éligibles au plan de formation peuvent ne pas être intégrées dans l'horaire habituel de travail, ni être contenues dans cet horaire même augmenté des heures complémentaires. Dans la semaine considérée, le total de la durée du travail et des heures de formation ne peut atteindre la durée légale du travail (4).
+
+Dans ce cas, il est convenu que, sur la base du volontariat, les heures puissent être planifiées dans la semaine, en respectant les règles suivantes (4) :
+
+-les heures de formation peuvent amener un dépassement de l'horaire hebdomadaire dans la limite de 16 heures de formation dans la semaine considérée (5) ;
+
+-ne constituant pas une heure complémentaire, l'heure de formation n'est pas prise en compte au regard de la règle des 12 semaines précisée dans les conditions du 3 ci-dessus. Elle est payée au taux normal de rémunération (non majoré, même dans l'hypothèse où elle conduit à un dépassement de plus de 10 % de l'horaire hebdomadaire contractuel) (6).
+
+V.-Garanties individuelles
+
+Le salarié qui travaille à temps partiel bénéficie des droits reconnus aux salariés à temps complet par la législation en vigueur, la convention collective ou les accords d'entreprise ou d'établissement, sous réserve des modalités spécifiques prévues par la convention collective ou un accord collectif.
+
+Au titre de cette égalité de traitement, les entreprises qui réduisent leur durée du travail en application du présent accord proposeront à leurs salariés à temps partiel déjà présents dans l'entreprise le choix soit de bénéficier d'une réduction proportionnelle de leurs horaires, soit de conserver leurs horaires avec application proportionnelle des garanties de rémunération données aux salariés à temps plein.
+
+Compte tenu de leur durée du travail et de leur ancienneté dans l'entreprise, la rémunération des salariés à temps partiel est proportionnelle à celle d'un salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans l'établissement ou l'entreprise. L'entreprise doit, en particulier, tenir compte de cette proportionnalité pour le respect des salaires minimaux et de la prime d'ancienneté conventionnels.
+
+La période d'essai des salariés à temps partiel ne peut avoir une durée calendaire supérieure à celle des salariés à temps complet.
+
+Ils bénéficient de possibilités identiques en matière de promotion, d'évolution de carrière et d'accès à la formation professionnelle.
+
+En ce qui concerne le temps libre en vue de la recherche d'un nouvel emploi durant la période de délai-congé, les salariés licenciés travaillant à temps partiel bénéficieront d'un temps libre égal à 1/4 de la durée du travail effectif à accomplir pendant la durée du préavis.
+
+Ces absences seront rémunérées comme temps de travail effectif et fixées d'un commun accord ou, à défaut d'accord, un jour au gré du salarié. D'un commun accord, les heures susvisées peuvent être groupées.
+
+L'employeur à temps partiel licencié qui, au cours de la période de délai-congé, aura trouvé un nouvel emploi pourra occuper celui-ci après avoir dûment avisé son employeur, sans être obligé d'accomplir intégralement la période de délai-congé.
+
+VI.-Paie
+
+Le bulletin de paie des salariés à temps partiel devra comporter une indication sur les heures complémentaires effectuées.
+
+Ces informations devront être portées au plus tard sur le premier bulletin qui suit le mois au cours duquel ces heures ont été effectuées.
+
+VII.-Retraite complémentaire
+
+Par application de l'article L. 212-3-1 du code de la sécurité sociale, en cas de passage, avec l'accord du salarié, d'un régime de travail à temps complet à un régime de travail à temps partiel à titre exclusif, et tant que l'activité reste exercée dans ces conditions, l'assiette des cotisations destinées à financer l'assurance vieillesse peut être maintenue à la hauteur du salaire correspondant à son activité exercée à taux plein.
+
+La part salariale correspondant à ce supplément d'assiette n'est pas assimilable, en cas de prise en charge par l'employeur, à une rémunération au sens de l'article L. 242-1 du code de la sécurité sociale.
+
+(1) Termes exclus de l'extension (arrêté du 15 mars 2002, art.
+
+1er).
+
+(2) Point étendu sous réserve de l'application de l'article L. 211-1 du code du travail tel que modifié par l'article 1er de l'ordonnance n° 2001-174 du 22 février 2001 (arrêté du 15 mars 2002, art. 1er).
+
+(3) Point exclu de l'extension (arrêté du 15 mars 2002, art. 1er).
+
+(4) Alinéa exclu de l'extension (arrêté du 15 mars 2002, art. 1er).
+
+(5) Point étendu sous réserve de l'application de l'article L. 212-4-4, alinéa 1er, du code du travail (arrêté du 15 mars 2002, art. 1er).
+
+(6) Point exclu de l'extension (arrêté du 15 mars 2002, art. 1er).
