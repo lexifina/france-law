@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204915
+
+- Question : [SEQ021204915](seq021204915.md) — Conséquences du naufrage du " Prestige "
+
+## Réponse
+
+*Équipement, JO du 2004-02-12, page 367*
+
+Les leçons du naufrage de l'Erika ont été tirées aux plans national, communautaire et international. Au plan national, le naufrage du Prestige, suivi de celui du Tricolor, a démontré les progrès réalisés, tant au plan technique qu'en termes de coordination, de gestion de crise et de lutte contre la pollution. Toutefois, l'organisation de l'action de l'Etat en mer en métropole, qui fait l'objet du décret du 9 mars 1978, mérite d'être amendée compte tenu des évolutions importantes apparues, tant dans les pouvoirs de juridiction de la France (ratification de la convention des Nations unies en 1995) que dans les activités en mer ou dans la menace (terrorisme, immigration clandestine, narcotrafic..) ; plusieurs vagues de déconcentrations et de décentralisations ont en outre modifié notablement l'organisation territoriale de l'Etat. Il est ainsi devenu nécessaire de réexaminer l'organisation mise en place en 1978, notamment en ce qui concerne le pouvoir de coordination du préfet maritime et l'optimisation des moyens qui concourent à l'action de l'Etat en mer. Une meilleure cohérence des administrations et services qui interviennent en mer est à rechercher, particulièrement pour prévenir ou régler les conflits d'usage entre utilisateurs de la mer. Comme l'a décidé le comité interministériel de la mer du 29 avril 2003, un nouveau décret sera pris en 2004 pour mettre en oeuvre ces orientations. En outre, un schéma directeur des moyens qui participent à l'action de l'Etat en mer sera défini par une instruction du Premier ministre prenant en compte les spécificités de chaque façade maritime métropolitaine.
