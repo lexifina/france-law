@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221455
+
+- Question : [SEQ991221455](seq991221455.md) — Mise en place de la Fondation Giacometti
+
+## Réponse
+
+*Culture, JO du 2000-03-23, page 1051*
+
+Réponse. - La ministre de la culture et de la communication rappelle qu'elle a manifesté au début de l'année 1998 sa volonté de favoriser la création d'une fondation " Alberto et Annette Giacometti " alors que cette perspective avait été abandonnée antérieurement. C'est pourquoi elle a chargé M. Jacques Vistel, conseiller d'Etat, de réunir toutes les conditions nécessaires à la création de cette fondation. Il s'agit en l'occurrence de créer un fonds inaliénable des uvres d'Alberto Giacometti, de prévoir une présentation permanente de la collection au public et de permettre l'accès des chercheurs aux archives. Ils convient d'ajouter que la viabilité financière du projet constitue un élément déterminant pour la création de la fondation. Par ailleurs, le tribunal de grande instance de Paris, par une ordonnance du 1er juillet 1999, a désigné un administrateur judiciaire chargé de régler la succession de Mme Annette Giacometti et d'obtenir la reconnaissance d'utilité publique et la création de la fondation Alberto et Annette Giacometti. La mission première de l'administrateur judiciaire est de vérifier et d'actualiser l'inventaire des uvres et des archives. Cette mission, longue et délicate, menée avec le concours de conservateurs, devrait s'achever dans le courant du premier semestre 2000. Elle constitue en tout état de cause un préalable indispensable à l'engagement de la procédure administrative conduisant à la création de la fondation. La ministre de la culture et de la communication précise à l'honorable parlementaire qu'elle confirme sa volonté d' uvrer en faveur de la création d'une fondation reconnue d'utilité publique de plein exercice afin de permettre au grand public de découvrir et mieux connaître l' uvre d'Alberto Giacometti.
