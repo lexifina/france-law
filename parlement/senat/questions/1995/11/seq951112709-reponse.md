@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112709
+
+- Question : [SEQ951112709](seq951112709.md) — Conditions applicables aux études d'impact pour les zones d'aménagement concerté
+
+## Réponse
+
+*Équipement, JO du 1996-01-25, page 153*
+
+Réponse. - Lorsque l'acte de création d'une zone d'aménagement concerté (ZAC) décide que sera applicable un plan d'aménagement de zone à l'intérieur de la ZAC, le rapport de présentation joint au dossier de création doit, conformément à l'article R. 311-3 a du code de l'urbanisme, comprendre l'étude d'impact telle que définie à l'article 2 du décret no 7-1141 du 12 octobre 1977 modifié par le décret no 93-245 du 25 février 1993. Elaborée au stade des études préalables à la création de la ZAC, cette étude d'impact doit notamment comporter : une analyse de l'état initial du site et de son environnement ; une analyse des effets, directs et indirects, temporaires et permanents, du projet sur l'environnement ; les raisons pour lesquelles, notamment du point de vue des préoccupations d'environnement, parmi les partis envisagés, le projet présenté a été retenu ; les mesures envisagées pour supprimer, réduire et, si possible, compenser les conséquences dommageables du projet sur l'environnement, ainsi que l'estimation des dépenses correspondantes ; une analyse des méthodes utilisées pour évaluer les effets du projet sur l'environnement. Le contenu de l'étude d'impact doit être en relation avec l'importance des travaux et aménagements projetés, et avec leurs incidences prévisibles sur l'environnement. Dans le cadre du chantier réglementaire engagé sur la réforme du code de l'urbanisme, une réflexion est actuellement menée en relation notamment avec les ministères concernés, l'association des maires de France (AMF) et les professionnels, sur la place de l'étude d'impact dans la procédure relative aux ZAC, et en particulier sur les avantages et inconvénients à maintenir cette étude au stade du dossier de création.
