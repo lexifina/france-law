@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306809
+
+- Question : [SEQ980306809](seq980306809.md) — Aide technique pour les maires dans le domaine de l'assainissement
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-07-30, page 2453*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant les difficultés que rencontrent les maires en matière de délivrance d'autorisations pour la réalisation d'assainissement non collectif. La loi sur l'eau du 3 janvier 1992 donne des compétences et des obligations nouvelles aux communes dans le domaine de l'assainissement non collectif. Elle précise en particulier que les communes prennent obligatoirement en charge les dépenses de contrôle des systèmes d'assainissement non collectif. A cette fin, elles doivent mettre en place avant le 31 décembre 2005 un service public d'assainissement non collectif. Ce nouveau service public industriel et commercial est financé par une redevance mise à la charge des usagers. Les petites collectivités ont la possibilité de se regrouper en structures intercommunales pour exercer cette nouvelle compétence, ce qui devrait leur permettre de recruter du personnel qualifié ou de faire appel à des prestataires privés. Il convient de souligner le délai important qui a été donné aux communes pour mettre en place le service du contrôle de l'assainissement non collectif, puisqu'elles ont jusqu'au 31 décembre 2005 pour organiser ce service. Pendant cette phase transitoire, il a été demandé aux préfets de maintenir l'action que pouvaient avoir les DDASS en matière de contrôle de l'assainissement non collectif et de développer un appui technique à la mise en place des structures communales ou intercommunales de contrôle technique, de manière à assurer le transfert de compétences vers celles-ci.
