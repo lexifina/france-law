@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104597
+
+- Question : [SEQ971104597](seq971104597.md) — Intégration d'agents territoriaux dans le cadre d'emploi des gardes champêtres
+
+## Réponse
+
+*Intérieur, JO du 1998-02-05, page 406*
+
+Réponse. - Conformément à l'article 2 du décret du 24 août 1994 portant statut particulier de leur cadre d'emplois, les gardes champêtres exécutent les directives que leur donne le maire dans l'exercice de ses pouvoirs de police. Ils assurent les missions qui leur sont spécialement confiées par les lois et les règlements en matière de police rurale, en application notamment du code général des collectivités territoriales. L'article L. 2213-16 du code général des collectivités territoriales précise que la police des campagnes est placée sous la surveillance des gardes champêtres. L'article L. 2213-18 du code précité les charge de rechercher, chacun dans le territoire pour lequel il est assermenté, les contraventions aux règlements et arrêtés de police municipale. L'article L. 2213-14 dispose que les gardes champêtres interviennent dans le cadre de la police des funérailles et des lieux de sépulture, notamment en étant délégués par les maires lors des opérations de surveillance consécutives au décès (exhumation, réinhumation, translation de corps) dans les communes non dotées d'un régime de police d'Etat. Ces missions sont explicitement dévolues aux gardes champêtres et ne peuvent pas être exercées par des fonctionnaires communaux ne relevant pas dudit cadre d'emplois. Par ailleurs, le décret du 24 août 1994 précité prévoit le recrutement de ces agents par la seule voie du concours exerterne. Ainsi les agents titulaires appartenant à d'autres cadres d'emplois de la fonction publique territoriale ou ayant été recrutés en vertu de l'article L. 412-2 du code des communes ne peuvent accéder à ce cadre d'emplois que par cette voie et doivent justifier des titres ou diplômes exigés.
