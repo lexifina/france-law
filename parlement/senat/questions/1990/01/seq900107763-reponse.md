@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107763
+
+- Question : [SEQ900107763](seq900107763.md) — Participation des communes aux dépenses des collèges
+
+## Réponse
+
+*Intérieur, JO du 1990-03-08, page 496*
+
+Réponse. - Le régime de participation des communes aux dépenses des collèges institué par la loi du 22 juillet 1983 (articles 15 à 15-4) n'est plus applicable depuis le 1er janvier 1990. Faute d'adoption par le Parlement, en raison d'un ordre du jour particulièrement chargé lors de la dernière session, du projet de loi présenté par le Gouvernement, qui propose de supprimer progressivement cette participation, le régime applicable à l'année 1990 ne sera arrêté que lors de la session de printemps. Le projet de loi a été soumis, en première lecture, à l'Assemblée nationale, le 19 décembre. Le projet de loi du Gouvernement prévoit une extinction de la participation des communes aux dépenses des collègues, dans un délai maximum de cinq ans pour le fonctionnement et de dix ans pour l'investissement. Les députés, conscients du calendrier d'adoption du projet de loi, ont voté deux amendements prévoyant que le conseil général fixera, avant le 1er juillet 1990, la date à laquelle le département cesse de percevoir une participation des communes respectivement aux dépenses de fonctionnement et d'investissement des collèges et son rythme de décroissance. A compter de l'adoption et de la promulgation de la loi, la participation communale, au taux qu'aura fixé, avant le 1er juillet 1990, le conseil général, aura donc un caractère obligatoire. Il sera arrêté par le département sur la base de l'ensemble de l'exercice budgétaire. Une circulaire va être prochainement envoyée aux préfets afin de leur demander d'appeler particulièrement l'attention des maires de leur département sur la nécessité de prendre en compte, dès à présent et à titre prévisionnel, cette dépense, notamment en ce qui concerne l'équilibre général du budget communal.
