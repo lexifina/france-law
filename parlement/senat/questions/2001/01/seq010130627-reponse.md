@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130627
+
+- Question : [SEQ010130627](seq010130627.md) — Fiscalité des primes pour l'abattage d'un troupeau (cas d'ESB)
+
+## Réponse
+
+*Économie, JO du 2001-04-19, page 1335*
+
+Réponse. - L'indemnité attribuée en compensation de l'abattage d'un troupeau réalisé dans le cadre de la lutte contre l'encéphalopathie spongiforme bovine constitue un revenu soumis au barème de l'impôt sur le revenu dès lors qu'elle a pour objet de couvrir la perte d'animaux inscrits dans un compte de stock. Compte tenu des règles de détermination du résultat des exploitants soumis à un régime de bénéfice réel, ces derniers ne sont effectivement imposés que sur le montant correspondant à la différence entre l'indemnité et la valeur en stock ou en compte d'achats des animaux abattus. Ils peuvent, toutes conditions étant par ailleurs remplies, demander que le montant susvisé soit imposé selon le régime du quotient prévu à l'article 163-0A du code général des impôts qui permet d'atténuer les effets de la progressivité de l'impôt sur le revenu. En outre, ils peuvent, sur option et conformément aux dispositions prévues par l'article 75-0D du code général des impôts issu de la loi de finances pour 2001, rattacher ce montant, par fractions égales, aux résultats de l'exercice au cours duquel l'indemnité est attribuée et des six exercices suivants. Le régime du quotient précité est applicable au titre de ces exercices pour l'imposition de chacune des fractions de ce montant, étant précisé que la condition tenant à l'importance du revenu exceptionnel, normalement prévue pour l'application de ce dispositif, ne sera exigée pour aucune des années concernées par l'étalement. Ces nouvelles dispositions, qui s'appliquent pour la détermination des résultats des exercices clos à compter du 1er janvier 2000, vont dans le sens des préoccupations exprimées.
