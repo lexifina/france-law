@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214072
+
+- Question : [SEQ960214072](seq960214072.md) — Tragédie de la grotte de Montérolier à Buchy (Seine-Maritime)
+
+## Réponse
+
+*Justice, JO du 1996-07-25, page 1927*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il comprend et partage l'émotion suscitée légitimement par le décès, le 21 juin 1995, à Montérolier, de neuf personnes dont trois enfants dans une galerie souterraine. A la suite de ces faits tragiques, une information judiciaire a été ouverte le 26 juin 1995 au tribunal de grande instance de Dieppe pour rechercher les causes de la mort des personnes décédées. Après la plainte du père de l'une des victimes, une nouvelle information judiciaire a été ouverte le 8 août 1995 des chefs d'homicide involontaire et exposition directe d'autrui à un risque immédiat de mort. Le magistrat instructeur en charge de cette procédure particulièrement complexe poursuit activement ses investigations en veillant à ce qu'elles ne souffrent d'aucun retard et qu'aucune diligence ni hypothèse d'enquête ne soient négligées. Dans ce cadre, un transport sur les lieux du drame a été réalisé en présence des parties civiles et d'un collège d'experts, au cours duquel il a été procédé à de multiples prélèvements. A l'issue, de nombreuses expertises judiciaires ont été ordonnées, notamment dans le dessein de procéder à une simulation de processus de l'accident, ainsi que plusieurs auditions de témoins. Les différentes parties civiles ont régulièrement été tenues informées du déroulement de la procédure et le juge d'instruction a, dernièrement, convié l'ensemble des victimes et des familles des personnes décédées à une réunion qui devait permettre de leur apporter une information complète sur l'état actuel de la procédure et de recueillir leurs observations sur ses développements.
