@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607985
+
+- Question : [SEQ030607985](seq030607985.md) — Devenir de l'aviation civile d'affaires et de l'aéroport du Bourget
+
+## Réponse
+
+*Équipement, JO du 2003-09-25, page 2902*
+
+En 1997, le Gouvernement s'est engagé à ce que l'activité de l'aéroport de Paris-Le Bourget soit limitée à l'aviation d'affaires et à l'aviation privée. Cet engagement n'est pas remis en cause. L'arrêt de l'activité commerciale des avions gros et moyens porteurs s'est traduit par une réduction de 20 000 mouvements par an. De fait, le trafic est resté globalement stable ces cinq dernières années, avec 50 000 mouvements en moyenne par an et un nombre de passagers variant de 59 000 à 70 000. Les vols d'affaires représentent maintenant plus de 90 % du trafic global. Les autres mouvements sont constitués des vols militaires de la base aérienne de Dugny et des convoyages d'appareils acheminés au Bourget pour leur maintenance. Les restrictions d'exploitation prévues la nuit, par un arrêté du 17 décembre 1997, ont permis de réduire l'activité entre 22 heures et 6 heures qui, dorénavant, représente moins de 1 000 mouvements par an. La création d'une commission consultative de l'environnement (CCE), prévue à l'article L. 571-13 du code de l'environnement, ne peut pas être envisagée tant que l'aéroport n'est pas doté d'un plan d'exposition au bruit (PEB) approuvé. Aussi, le préfet de la région d'Ile-de-France, soucieux de disposer d'une instance de concertation, a-t-il mis en place une " commission informelle sur les questions environnementales liées à l'exploitation de l'aéroport de Paris-Le Bourget ". Son programme de travail comporte notamment l'analyse des perspectives d'évolution à long terme du trafic et des activités de la plate-forme, ainsi que l'élaboration d'un PEB.
