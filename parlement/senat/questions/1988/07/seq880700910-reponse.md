@@ -1,0 +1,11 @@
+# Réponse à la question SEQ880700910
+
+- Question : [SEQ880700910](seq880700910.md) — Aide au développement du tourisme rural
+
+## Réponse
+
+*Tourisme, JO du 1989-04-20, page 644*
+
+Réponse. - Le tourisme en espace rural constitue un atout fondamental pour une relance économique dans de nombreux " pays " des provinces de France. Le rapport de G. Trigano au Conseil économique et social vient d'en confirmer l'importance. Les agriculteurs sont appelés à jouer un rôle déterminant dans le developpement d'un nouveau tourisme professionnalisé, non seulement en matière de produits agricoles et agro-alimentaires du terroir et/ou d'accueil touristique à la ferme mais également au titre de la gestion des espaces agricoles et naturels ouverts à la pratique d'activités de plein air et de découverte de la nature et du patrimoine. Un financement interministériel conséquent de 350 000 francs a été attribué en 1988 au service d'utilité agricole agriculture et tourisme pour la réalisation d'une étude approfondie des diverses situations d'accueil à la ferme sur mille cas concrets. Cette opération doit contribuer à une meilleure compréhension des éventuelles
+
+difficultés de developpement de cette forme particulièrement intéressante de tourisme en espace rural. Le service d'étude et d'aménagement touristique de l'espace rural (S.E.A.T.E.R.) qui assure un appui technique permanent à de tels investigations et à l'expérimentation de nouvelles formes et organisations de production touristique en espace rural, voit en 1989 ses moyens budgétaires confortés. Dans le cadre de la préparation d'une grande étude de marché, relative à l'offre et à la demande de produits touristiques de l'espace rural, le S.E.A.T.E.R. élargit son partenariat auprès des établissements parapublics et des professionnels du tourisme et des transports concernés. Le fonds d'aide au conseil et à l'innovation touristique (F.A.C.I.T.) doit contribuer d'une manière significative à la mise en forme de nouveaux projets de développement des capacités d'accueil touristique en espace rural. Une dotation budgétaire de 50 millions de francs sera répartie entreles régions au cours des cinq prochaines années pour cette action. Les crédits concerneront pour une part importante l'espace rural.
