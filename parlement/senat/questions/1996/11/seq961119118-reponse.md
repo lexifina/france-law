@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119118
+
+- Question : [SEQ961119118](seq961119118.md) — Instauration d'une négociation entre les collectivités territoriales concernées par la protection de la jeunesse
+
+## Réponse
+
+*Justice, JO du 1997-03-27, page 973*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait savoir à l'honorable parlementaire que la proposition contenue dans le rapport de M. le sénateur Michel Rufin tendant à " ouvrir la négociation entre les collectivités territoriales concernées par la protection de la jeunesse " a retenu toute son attention. Cette proposition prend en compte les efforts accomplis par le ministère de la justice en laision avec celui des affaires sociales et l'assemblée permanente des présidents des conseils généraux pour développer les rapports contractuels entre les collectivités publiques et les juridictions en matière de protection de l'enfance. Les conseils régionaux n'ont pas été associés à cette première démarche. Pourtant, leurs compétences, notamment en matière de formation professionnelle, leur confèrent des responsabilités à l'égard des jeunes en difficulté pris en charge globalement par l'aide sociale à l'enfance au même titre que l'Etat dans les domaines de l'enseignement ou des soins. Il s'agit donc de trouver, entre les différents champs de compétences, les articulations indispensables à la qualité de la prise en charge de ces jeunes tout en respectant la libre administration des collectivités territoriales. La reconnaissance des particularités locales, tant dans la définition des besoins des jeunes que dans les moyens dont disposent les collectivités régionales et départementales, incite le gade des sceaux à privilégier la voie de la négociation sur celle de la réglementation. Le représentant de l'Etat au niveau régional est tout désigné pour prendre les initiatives nécessaires à cette rencontre. Des instructions seront donc données en ce sens aux préfets de région.
