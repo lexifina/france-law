@@ -4,7 +4,7 @@ La présente convention règle sur l'ensemble du territoire national les rapport
 
 - Commerce de gros et importations de fruits, de légumes et de fleurs à l'exception des opérations portant sur le houblon, les légumes secs et les pommes de terre ainsi que des activités d'expédition et d'exportation de fruits et légumes frais.
 
-Numéro I.N.S.E.E. : 692
+Numéro INSEE : 692.
 
 Code A.P.E. : 57-03.
 
@@ -22,7 +22,9 @@ Code A.P.E. : 57-06.
 
 - Commerce de gros de papeterie et d'articles de bureau.
 
-Numéro I.N.S.E.E. : 718-0 Code A.P.E. : 58-11.
+Numéro I.N.S.E.E. : 718-0
+
+Code A.P.E. : 58-11.
 
 - Commerce de gros de matériel électrique et électronique.
 
@@ -48,7 +50,7 @@ Numéro I.N.S.E.E. : 735-0
 
 Code A.P.E. : 59-08.
 
-- Commerce de gros de pièces détachées et accessoires pour automobile Numéro I.N.S.E.E. : 744-0
+Commerce de gros de pièces détachées et accessoires pour automobil Numéro I.N.S.E.E. : 744-0
 
 Code A.P.E. : 58-01.
 
@@ -58,7 +60,7 @@ Numéro I.N.S.E.E. : 768-0
 
 Code A.P.E. : 58-10.
 
-- Commerce de gros du cycle et motocycle et pneumatiques à l'exclusio des pneumatiques automobiles.
+- Commerce de gros du cycle et motocycle et pneumatiques à l'exclusion des pneumatiques automobiles.
 
 Numéro I.N.S.E.E. : 745-1
 
@@ -110,7 +112,11 @@ Code A.P.E. : 58-09.
 
 Code A.P.E. : 58-11 - 58-12 et divers
 
-- Entreprises dont l'activité principale est le commerce, la distribution physique des produits surgelés, congelés et crèmes glacées, à savoir : commerce de gros, plates-formes de distribution spécialisées et entreprises de livraison aux particuliers. Ces activités ne sont pas prévues dans la nomenclature A.P.E.
+- Entreprises dont l'activité principale est le commerce, la distribution physique des produits surgelés, congelés et crèmes glacées.
+
+A savoir : commerce de gros, plates-formes de distribution spécialisées, entreprises de livraison aux particuliers et point de ventes spécialisés.
+
+Ces activités ne sont pas prévues dans la nomenclature A.P.E.
 
 Code A.P.E. : Sans.
 
