@@ -18,6 +18,10 @@ Tableau VI. - Fonctions relevant du service de santé des armées.
 
 Tableau VII. - Fonctions relevant du service des essences des armées.
 
+Tableau VIII. - Fonctions relevant des affaires pénales militaires.
+
+Tableau IX. - Fonctions relevant de la poste interarmées.
+
 TABLEAU I. :
 
 Fonctions relevant de l'armée de terre.
@@ -890,6 +894,66 @@ Responsable du service général à l'administration centrale.
 
 Sous-officier
 
-NOTA :
+TABLEAU N° IX :
 
-NOTA : Décret 2002-830 du 5 mai 2002 art. 4 : Le présent décret prend effet, pour ce qui concerne les postes de chef de section à l'administration centrale et de responsable de l'informatique à l'administration centrale du tableau VIII, le 1er juillet 2000.
+Fonctions relevant de la poste interarmées
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
+
+Directeur de la poste interarmées.
+
+Officier
+
+Adjoint au directeur de la poste interarmées.
+
+Officier
+
+Responsable du détachement de liaison marine.
+
+Officier
+
+Chef de centre de tri postal des armées.
+
+Officier
+
+Adjoint au chef de centre de tri postal.
+
+Officier
+
+Responsable de la cellule marine à Paris du tri interarmées.
+
+Officier
+
+ou sous-officier
+
+Responsable de section au département central de la poste interarmées.
+
+Officier
+
+Responsable de l'acheminement du courrier au département central de la poste interarmées.
+
+Sous-officier
+
+Responsable de l'acheminement du courrier du détachement de liaison marine.
+
+Sous-officier
+
+Chef de bureau postal interarmées.
+
+Officier
+
+ou sous-officier
+
+Adjoint au chef de bureau postal interarmées à Toulon.
+
+Sous-officier
+
+Adjoint au chef de bureau postal interarmées à Brest.
+
+Sous-officier
+
+Responsable du magasin matériel-imprimés du service de la poste interarmées.
+
+Sous-officier.
