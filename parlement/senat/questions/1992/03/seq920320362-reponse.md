@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320362
+
+- Question : [SEQ920320362](seq920320362.md) — Recyclage des CFC utilisés dans les installations frigorifiques
+
+## Réponse
+
+*Économie, JO du 1992-06-11, page 1320*
+
+Réponse. - Le projet de recyclage des gaz CFC, auquel se réfère l'honorable parlementaire et qui a été mis en place par deux entreprises détenant ensemble une très forte position sur le marché français de la distribution des gaz frigorifiques, prévoit que l'amortissement des coûts induits par la récupération et le retraitement de ces fluides, en vue de leur réutilisation au sein d'une organisation commune prenant la forme d'un groupement d'intérêt économique (GIE), est exclusivement supporté par les utilisateurs auxquels il est demandé d'acquitter, lors de l'achat des gaz neufs de type CFC et HCFC, un supplément de prix uniforme dont le montant est fixé dans le cadre d'une entente. Une demande de validation de cet accord au regard des règles de concurrence a été présentée par une entreprise distributrice des gaz CFC et HCFC auprès de la direction générale de la concurrence, de la consommation et de la répression des fraudes. Cette demande fait actuellement l'objet d'une étude pour examiner si elle susceptible de répondre aux exigences de la procédure d'exemption prévue à l'article 10-2 de l'ordonnance du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Il doit être rappelé que l'exemption pour certaines catégories d'accords est strictement limitée aux cas où l'objectif de progrès économique poursuivi par ces accords ne peut être atteint par d'autres méthodes, et notamment par le jeu normal de la concurrence, et à condition qu'il soit également démontré qu'ils réservent aux utilisateurs une partie équitable du profit qui en résulte et qu'ils n'aboutissent pas à supprimer la concurrence pour une partie substantielle des produits en cause.
