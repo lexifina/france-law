@@ -1,0 +1,5 @@
+# Article préambule
+
+Les organisations signataires de l'accord du 22 juin 1999 relatif à la durée du travail (accord national SYNTEC-CICF) ont voulu confier à une commission la charge permanente de procéder au suivi et au bilan de l'exécution de l'accord du 22 juin 1999. Cet engagement prévu au chapitre XII de l'accord national se matérialise par la création d'une association, loi de 1901, dont les membres sont les signataires de l'accord national. Cette association, dénommée ADESATT (Association d'étude et de suivi de l'aménagement du temps de travail dans les métiers du savoir), bénéficie d'une collecte annuelle auprès des entreprises de la branche de 0,2 pour mille de leur masse salariale brute. Compte tenu des moyens dont dispose l'ADESATT, les parties signataires de l'accord du 22 juin 1999 et du présent avenant entendent profiter de cet outil pour rénover les relations paritaires dans l'intérêt des entreprises et des salariés couverts par le champ conventionnel.
+
+Le présent avenant a pour but de codifier les relations entre l'ADESATT, d'une part, et les institutions conventionnelles, d'autre part.
