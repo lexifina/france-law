@@ -1,9 +1,0 @@
-# Article Annexe VI
-
-ZONES DE LA COMMUNAUTÉ RECONNUES " ZONES PROTÉGÉES "
-
-EN CE QUI CONCERNE LE OU LE(S) ORGANISME(S) NUISIBLE(S) CITÉ(S) EN REGARD DE LEUR NOM
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 260 du 09/11/2003 page 19200 à 19203
