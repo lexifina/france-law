@@ -1,0 +1,69 @@
+# Article 6 paragraphe 64
+
+Est considéré comme temps de travail effectif, le temps pendant lequel le salarié travaille effectivement pour l'entreprise, il en découle les dispositions ci-après.
+
+641 - Durée légale.
+
+La durée du travail effectif est fixée, conformément à la loi, soit actuellement à trente-neuf heures par semaine (169 par mois). La durée maximale quotidienne du travail effectif de chaque salarié ne peut excéder dix heures, sauf dérogation spécifique.
+
+La durée moyenne hebdomadaire du travail effectif calculée sur une période quelconque de douze semaines consécutives ne peut être supérieure à 46 heures.
+
+La durée du travail d'une semaine à l'intérieur de cette durée moyenne ne peut excéder quarante-huit heures. Cependant, des dérogations peuvent être accordées conformément aux articles R. 212-2 et suivants du code du travail.
+
+Repos hebdomadaire
+
+Chaque salarié travaillant à temps complet bénéficie au minimum de deux jours de repos hebdomadaire.
+
+Chaque entreprise négociera des aménagements à la présente clause pour tenir compte de ses spécificités techniques, économiques et sociales, pour que les jours de repos hebdomadaire puissent être pris par roulement ou consécutifs (du lundi au dimanche dans une périodicité à négocier), par journée entière ou demi-journée.
+
+642 - Heures supplémentaires.
+
+Il est instauré un contingent d'heures supplémentaires de 130 heures par an et par salarié.
+
+Les heures supplémentaires entrant dans ce contingent peuvent être effectuées sur simple information de l'inspecteur du travail et du comité d'entreprise ou d'établissement s'ils existent, ou à défaut des délégués du personnel.
+
+Il peut être défini dans chaque entreprise que les heures supplémentaires sont soit payées, soit récupérées en temps majoré, à la demande du salarié.
+
+Les heures supplémentaires effectuées au-delà de ce contingent doivent être autorisées par l'inspecteur du travail après avis, s'ils existent, du comité d'entreprise ou d'établissement, ou à défaut des délégués du personnel.
+
+643 - Modulation du temps de travail.
+
+Aux termes de l'article L. 212-8 du code du travail, la durée hebdomadaire peut varier, à condition que sur un an, cette durée n'excède pas en moyenne la durée légale actuelle de trente-neuf heures par semaine.
+
+Seules les heures effectuées au-delà de cette durée moyenne s'imputent sur le contingent d'heures supplémentaires non soumises à autorisation.
+
+Les conditions d'application de cette modulation sont prévues par un accord d'entreprise qui devra préciser :
+
+a) Les limites horaires à l'intérieur desquelles la durée hebdomadaire est susceptible de varier ;
+
+b) Un calendrier prévisionnel des périodes de modulation ;
+
+c) Les procédures d'une révision éventuelle de ce calendrier.
+
+En l'absence d'accord d'entreprise, la modulation peut être une mise en oeuvre au choix selon l'une des modalités suivantes :
+
+- une heure en plus ou en moins par semaine toute l'année ;
+
+- deux heures en plus ou en moins par semaine sur une durée maximale de douze semaines consécutives ou non ;
+
+- trois heures en plus ou en moins par semaine sur une durée maximale de huit semaines consécutives ou non.
+
+643 bis - Durée et organisation du travail.
+
+Dans les entreprises où il existe une ou plusieurs sections syndicales, représentatives des salariés, une négociation portant sur la durée et sur l'organisation du temps de travail sera engagée chaque année.
+
+644 - Temps partiel.
+
+Sont considérés comme salariés à temps partiel, les salariés dont la durée du travail est inférieure d'au moins un cinquième à la durée du travail prévue à la présente convention.
+
+Les salariés à temps complet de l'entreprise sont prioritaires pour accéder au temps partiel. De même pour les salariés à temps partiel qui souhaiteraient accéder au temps complet.
+
+La période d'essai d'un salarié à temps partiel ne peut être d'une durée calendaire supérieure à celle d'un salarié à temps complet.
+
+La rémunération d'un salarié à temps partiel est proportionnelle à la rémunération minimale d'un salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans l'établissement.
+
+Les heures complémentaires prévues au contrat de travail d'un salarié à temps partiel, au plus égales au tiers du temps de base, ne peuvent avoir pour effet de porter la durée hebdomadaire de travail de ce salarié, au niveau de celle prévue à la présente convention.
+
+La rémunération des heures complémentaires n'est soumise à aucune majoration.
+
+La durée journalière du travail des salariés à temps partiel ne pourra être fractionnée plus de deux fois.

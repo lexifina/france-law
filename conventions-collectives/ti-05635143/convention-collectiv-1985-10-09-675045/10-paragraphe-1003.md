@@ -1,0 +1,21 @@
+# Article 10 paragraphe 1003
+
+Dans toutes les entreprises, sans condition d'effectif, l'employeur est tenu de respecter le droit au congé individuel de formation. Dans les entreprises ayant un effectif supérieur à dix salariés l'employeur est assujetti à la participation au financement de la formation. L'employeur peut toujours, en plus des actions imputées sur la participation légale, dispenser des actions telles que la formation sur le terrain.
+
+Pour être imputées sur la participation légale, les actions de formation doivent s'intégrer dans une des catégories suivantes :
+
+- actions d'adaptation ;
+
+- actions de promotion ;
+
+- actions de prévention ;
+
+- actions d'acquisition, d'entretien ou de perfectionnement des connaissances ;
+
+- actions de préformation ;
+
+- actions de préparation à la vie professionnelle ;
+
+- actions de conversion.
+
+De plus, ces actions doivent revêtir la forme de stages, c'est-à-dire de périodes d'études théoriques ou pratiques ayant pour but la formation professionnelle continue et organisées conformément à une progression préalablement établie.

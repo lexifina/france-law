@@ -1,0 +1,43 @@
+# Article 6 paragraphe 68
+
+681 - Egalité de salaire et d'emploi.
+
+A poste et emploi égaux, les employeurs s'engagent à ne pratiquer aucune discrimination dans les rémunérations entre les hommes et les femmes, et entre les salariés français et étrangers.
+
+A cet égard, dans les entreprises, les différents éléments composant le salaire doivent être établis selon des normes identiques.
+
+En outre, les critères de classification, de promotion professionnelle et d'évaluation de postes doivent être communs pour les salariés des deux sexes et pour les salariés français et étrangers.
+
+681 bis - Plan d'égalité professionnelle.
+
+Des mesures seront étudiées au seul bénéfice des femmes afin d'établir l'égalité des chances entre hommes et femmes, en particulier en remédiant aux inégalités de faits qui affectent les chances des femmes.
+
+Ces mesures, définies dans le cadre d'un accord d'entreprise, porteront entre autres sur les sujets suivants :
+
+- l'embauche, qui pour certains postes de travail, pourra être réservée aux femmes. Dans ce cas l'offre d'emploi pourra valablement mentionner que les femmes sont recherchées ;
+
+- certaines formations pourront être proposées aux seules femmes ;
+
+- les objectifs de nomination de femme à certains postes pourront être fixés.
+
+682 - Travailleurs handicapés.
+
+La qualité d'handicapé physique est reconnue exclusivement par la commission technique d'orientation et de reclassement professionnel (COTOREP).
+
+Les entreprises doivent embaucher en priorité des handicapés à concurrence d'un pourcentage minimum fixé par la loi et selon les postes réservés par l'administration.
+
+Lorsque les aptitudes physiques des handicapés les placent, pour le travail qu'ils ont à effectuer, dans des conditions particulières constatées par la COTOREP et le médecin du travail, leur rémunération pourra être diminuée dans les conditions prévues par la loi.
+
+Lorsque cela s'avère nécessaire, un aménagement d'horaire pourra être établi à l'attention des travailleurs handicapés.
+
+Les employeurs pourront adapter les postes de travail correspondants dans les conditions prévues par la législation.
+
+683 - Conditions d'emploi des jeunes salariés.
+
+Le travail de nuit entre 22 heures et 6 heures des jeunes travailleurs de moins de 18 ans est interdit. Cependant, des dérogations peuvent, à titre exceptionnel, être accordées par l'inspecteur du travail.
+
+La durée minimale du repos de nuit des jeunes travailleurs ne peut être inférieure à 12 heures. Cependant, en cas de dérogation admise à l'interdiction du travail de nuit, un repos continu de douze heures doit être assuré aux jeunes travailleurs.
+
+684 - Entreprises extérieures et entreprises de travail temporaire.
+
+Tout employeur qui envisage de faire appel à des entreprises extérieures ou à des entreprises de travail temporaire, est tenu de respecter les règles prévues en la matière par la législation en vigueur.
