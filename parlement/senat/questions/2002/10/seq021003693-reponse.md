@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003693
+
+- Question : [SEQ021003693](seq021003693.md) — Monuments historiques privés : déconnexion entre les subventions de l'Etat et les possibles avantages fiscaux
+
+## Réponse
+
+*Économie, JO du 2003-01-30, page 353*
+
+La déduction des frais de réparation et d'entretien prévue dans le cadre du régime spécifique des monuments historiques à l'article 156 du code général des impôts n'est pas liée à l'octroi d'une subvention. En effet, si l'immeuble procure des recettes imposables (loyer ou droits de visite), le revenu foncier imposable est déterminé dans les conditions prévues aux articles 28 et suivants du code précité, sous déduction notamment des dépenses de réparation et d'entretien visées à l'article 31 du code général des impôts. Si les travaux ont donné lieu à subvention, celle-ci est ajoutée aux recettes de l'année au cours de laquelle elle a été perçue. Par ailleurs, si l'immeuble ne procure aucune recette imposable (immeuble ouvert gratuitement au public notamment), l'article 41 F de l'annexe III au code susvisé, auquel renvoie le 1° ter du II de l'article 156 précité, permet au propriétaire de déduire de son revenu global, sous certaines conditions et limites, tout ou partie des dépenses de réparation et d'entretien précitées. Cela étant, les participations des propriétaires aux travaux de réparation ou d'entretien exécutés ou subventionnés par l'administration des affaires culturelles sont déductibles pour leur montant total. Cette mesure particulière se justifie par l'importance des contraintes que supportent les propriétaires de tels monuments et, notamment, l'obligation de participer financièrement aux travaux lorsqu'ils sont décidés par l'administration. Ces dispositions paraissent répondre aux préoccupations de l'auteur de la question.
