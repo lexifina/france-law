@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713276
+
+- Question : [SEQ040713276](seq040713276.md) — Situation des veuves de fonctionnaires souhaitant se remarier
+
+## Réponse
+
+*Fonction publique, JO du 2004-12-16, page 2902*
+
+L'article 47 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la caisse nationale des agents des collectivités locales, qui a remplacé depuis le 1er janvier 2004 l'article 43 modifié du décret n° 65-773 du 9 septembre 1965, prévoit que le conjoint survivant du fonctionnaire qui contracte un nouveau mariage ou a reconnu vivre en concubinage perd son droit à la pension de réversion. Toutefois, s'il existe des enfants de moins de 21 ans, ils bénéficient de la pension de réversion. Le conjoint survivant représentant généralement ses enfants continue alors à percevoir la pension de réversion au moins jusqu'à leur majorité. En outre, il peut recouvrer son droit à pension lorsque la nouvelle union est dissoute soit par divorce, soit par décès ou à la date de cessation de la vie maritale. Le dispositif actuel est justifié par le fait que le conjoint survivant, remarié ou vivant maritalement, a retrouvé un soutien financier dont l'avait privé le décès de son conjoint fonctionnaire. Il n'est pas envisagé de modifier les dispositions de l'article 47 du décret du 26 décembre 2003, dès lors qu'à la différence du régime général de la sécurité sociale, aucune autre condition que la durée de mariage ou la présence d'enfant issu du couple n'est exigée du conjoint survivant d'un fonctionnaire pour pouvoir prétendre à la réversion de la pension. Dans le régime général de la sécurité sociale, le conjoint survivant doit, en revanche, justifier de ressources personnelles inférieures à un certain montant, appréciées soit à la date du décès, soit à la date de cessation définitive de l'activité, pour pouvoir prétendre à la réversion de droits acquis par le conjoint décédé.
