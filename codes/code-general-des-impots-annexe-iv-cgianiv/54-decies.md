@@ -4,14 +4,10 @@ Est autorisée l'utilisation des machines à timbrer qui suivant les prévisions
 
 Les empreintes fournies par les machines à timbrer doivent comporter les mentions particulières suivantes :
 
-le modèle de la vignette remplacée désigné suivant la nomenclature arrêtée par l'administration des impôts;
+Le modèle de la vignette remplacée désigné suivant la nomenclature arrêtée par l'administration des douanes et droits indirects ;
 
-un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération;
+Un numéro particulier affecté à chaque empreinte suivant l'ordre de la numération ;
 
-les date et heure d'enlèvement exprimées en chiffres.
+Les date et heure d'enlèvement exprimées en chiffres.
 
 L'empreinte apposée sur chaque facture-congé doit être reproduite par décalque sur le duplicata de ce document.
-
-NOTA :
-
-(1) Voir les conditions générales d'utilisation prescrites par les articles 164 L à 164 AL.
