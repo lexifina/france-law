@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017800
+
+- Question : [SEQ961017800](seq961017800.md) — Attribution de véhicules de fonction à certains agents de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1996-11-07, page 2910*
+
+Réponse. - La seule réglementation en ce domaine concerne les frais de déplacement. Ainsi, l'article 29 du décret no 91-573 du 19 juin 1991 relatif aux frais de déplacement de personnel des collectivités territoriales prévoit que " les agents peuvent utiliser leur véhicule personnel pour les besoins du service sur autorisation de leur chef de service et sous réserve que les intéressés satisfassent aux conditions prévues en matière d'assurances par l'article 34 du présent décret. Les autorisations ne sont délivrées que si l'utilisation du véhicule personnel entraîne une économie ou un gain de temps appréciables, (...). L'agent autorisé à utiliser son véhicule personnel pour les besoins du service peut être indemnisé de ses frais de transport sur la base des indemnités kilométriques prévues aux articles 31 et 32 du présent décret... (...) Le paiement de ces indemnités kilométriques est effectué en fonction du kilométrage parcouru par l'agent depuis le 1er janvier de chaque année et d'après le taux correspondant à la puissance fiscale de la voiture... ". En conséquence, il appartient à chaque employeur territorial de vérifier l'exactitude des notes de frais de déplacement des fonctionnaires concernés et de sanctionner tout excès de kilométrage n'entrant pas dans le cadre de la mission confiée, notamment en dehors des heures de service. Toutefois, au nom de la libre administration des collectivités, les conditions d'achat et d'attribution des véhicules de service peuvent faire l'objet d'une délibération de l'assemblée de ces mêmes collectivités.
