@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601563
+
+- Question : [SEQ930601563](seq930601563.md) — Régime de retraite des élus locaux
+
+## Réponse
+
+*Aménagement du territoire, JO du 1993-08-05, page 1330*
+
+Réponse. - La loi no 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux a institué dans son titre IV un nouveau régime de retraite applicable aux titulaires de mandats locaux qui perçoivent une indemnité de fonction. Les élus municipaux qui reçoivent une indemnité de fonction en application des dispositions du code des communes ou de toute autre disposition régissant l'indemnisation de leurs fonctions, les membres du conseil général et les membres du conseil régional sont affiliés au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques (Ircantec). Les pensions versées à ce titre sont cumulables sans limitation avec toutes autres pensions ou retraites. Les maires des villes de 10 000 habitants au moins, les adjoints au maire des villes de 30 000 habitants au moins, les présidents ou les vice-présidents ayant délégation de l'exécutif du conseil général ou du conseil régional qui, pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle et qui ne relèvent plus, à titre obligatoire, d'un régime obligatoire d'assurance vieillesse, sont affiliés à l'assurance vieillesse du régime général de la sécurité sociale. Les élus locaux qui perçoivent une indemnité de fonction, autres que ceux qui, en application des dispositions de la loi du 3 février 1992, ont cessé d'exercer leur activité professionnelle, peuvent constituer une retraite par rente à la gestion de laquelle doivent participer les élus affiliés, et dont la constitution incombe pour moitié à l'élu et pour moitié à la collectivité.
