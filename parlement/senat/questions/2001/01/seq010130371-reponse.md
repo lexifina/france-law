@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130371
+
+- Question : [SEQ010130371](seq010130371.md) — Calcul des revenus donnant droit à la CMU
+
+## Réponse
+
+*Emploi, JO du 2001-08-23, page 2738*
+
+La couverture maladie universelle complémentaire qui donne un droit aux personnes ou familles les plus modestes à une couverture complémentaire sans contrepartie contributive constitue une prestation sociale sous condition de ressources. Le plafond de ressources est actuellement fixé à 43 200 francs par an pour une personne seule ; il est majoré lorsque le foyer comprend plusieurs personnes. L'assiette des ressources prises en compte est déterminée par le décret n° 99-1004 du 1er décembre 1999. Ce décret pose le principe que toutes les ressources, sous réserve des exceptions ou minorations énumérées de manière exhaustive pour répondre à des situations particulières, sont prises en compte, y compris les avantages en nature.L'avantage en nature procuré par un logement occupé par son propriétaire ou à titre gratuit a été fixé de manière forfaitaire à un niveau variant en fonction de la composition du foyer. Cette disposition, inspirée de l'assiette des ressources prises en compte pour l'attribution du revenu minimum d'insertion, répond à un souci d'équité, par rapport aux locataires, dans la mesure du revenu effectivement disponible une fois les dépenses de logement couvertes.S'agissant des personnes bénéfificiant d'une aide personnelle au logement (allocation de logement familiale ou sociale, aide personnalisée au logement), celle-ci n'est également incluse dans les ressources qu'à concurrence d'un forfait fixé au même niveau que l'avantage en nature précité. Il convient de souligner que ce forfait est avantageux pour les demandeurs puisqu'il s'élève, pour une personne seule, à environ 300 francs alors que les allocations en cause s'élèvent en moyenne à 1 000 francs.
