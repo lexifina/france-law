@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203405
+
+- Question : [SEQ890203405](seq890203405.md) — Réglement intérieur de l'administration des PTT concernant les congés
+
+## Réponse
+
+*Postes, JO du 1989-03-16, page 458*
+
+Réponse. - Les dispositions de l'article 5 du décret du 26 octobre 1984 relatif aux congés annuels des fonctionnaires de l'Etat, reprises par l'article 6-12 de la circulaire fonction publique n° 1711 du 30 janvier 1989, prévoient que le congé dû pour une année de service accompli ne peut se reporter d'une année sur l'autre, sauf autorisation exceptionnelle du chef de service. Nonobstant ces dispositions statutaires, il est admis dans l'administration des postes, des télécommunications et de l'espace, que le congé annuel non épuisé à la fin de l'année peut être reporté l'année suivante sous certaines conditions. En effet, si les exigences du service n'ont pas permis d'accorder, en totalité ou en partie, un congé annuel au 31 décembre de l'année considérée, celui-ci doit être attribué en priorité entre le 1er janvier et le 30 avril de l'année suivante. Par ailleurs, tout agent qui, pour une raison quelconque autre que les nécessités du service (notamment congé ordinaire de maladie, de maternité, congé pour accident de service, congé de longue durée ou longue maladie), n'a pas épuisé au 31 décembre la totalité de son droit à congé annuel peut en disposer du 1er janvier au 30 avril inclus, dans la limite de deux fois ses obligations hebdomadaires de travail. Ainsi l'administration des postes, des télécommunications et de l'espace a-t-elle introduit cette dérogation qui permet aux agents de disposer de manière quasi systématique de leur droit à congé annuel pendant une période de seize mois au lieu de douze réglementairement prévus par les textes interministériels. Cette possibilité générale de report constituant une mesure de bienveillance, il importe dans l'intérêt même de tous les agents que cette règle soit strictement observée.
