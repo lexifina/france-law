@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219530
+
+- Question : [SEQ961219530](seq961219530.md) — Cumul de postes par un fonctionnaire de collectivité territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1997-04-24, page 1309*
+
+Réponse. - La voie de l'association constitue un accès particulier à l'enseignement supérieur, réservé à des personnalités extérieures à l'université, professionnels ou universitaires étrangers qui font bénéficier l'université de l'apport de leur compétence et de leur expérience. L'association à mi-temps est réglementée par le décret no 85-733 du 17 juillet 1985 relatif aux maîtres de conférences et professeurs des universités associés ou invités (modifié par le décret no 90-820 du 12 septembre 1990, le décret no 91-266 du 6 mars 1991 et le décret no 92-709 du 23 juillet 1992). Ces dispositions constituent un régime dérogatoire au décret-loi du 29 octobre 1936 relatif aux cumuls des retraites, de rémunérations et de fonctions. Elles permettent à un fonctionnaire territorial non enseignant, qui justifie d'une expérience professionnelle en rapport avec la discipline enseignée, de déposer une demande de candidature directement auprès de l'établissement concerné. Les modalités de rémunération sont fixées par le décret no 85-1145 du 28 octobre 1985 relatif aux conditions de rémunération des personnels enseignants associés ou invités dans les établissements d'enseignement supérieur et de recherche relevant du ministère de l'éducation nationale. Cependant, aux termes de l'article 9 du décret-loi de 1936, le total des rémunérations publiques versées au fonctionnaire en question ne pourra dépasser le montant de son traitement indiciaire principal majoré de 100 %. Enfin, pour exercer ce cumul, le fonctionnaire territorial devra demander l'autorisation de son autorité qui devra déterminer si les fonctions de maître de conférence associé à mi-temps ne portent pas préjudice à l'exercice de l'activité principale.
