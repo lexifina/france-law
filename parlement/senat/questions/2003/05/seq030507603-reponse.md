@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507603
+
+- Question : [SEQ030507603](seq030507603.md) — Soutien aux éleveurs de porcs
+
+## Réponse
+
+*Agriculture, JO du 2003-10-09, page 3033*
+
+Le marché porcin français traverse depuis plusieurs mois une période d'incertitude qui se traduit par un niveau de prix assez faible. Ainsi, en tenant compte des diverses bonifications perçues par les éleveurs de porcs en plus du prix de base, le prix de vente des porcs charcutiers se situe à 1,19 euro/kg de carcasse, alors que le coût de production s'élève à environ 1,30 euro/kg de carcasse. Le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales est intervenu pour que se rétablisse, au niveau européen, des conditions de marché favorables à la reprise des cours de la viande de porc. Ainsi, la Commission européenne a mis en place une aide au stockage privé de viande de porc, à la demande de la France. Cette opération a permis de retirer du marché 111 862 tonnes pour un coût de 45,6 millions d'euros. Le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales a également rassemblé un groupe de banques privées, qui assureront une ouverture de lignes de trésorerie spécifiques pour les éleveurs porcins. Les prêts proposés aux éleveurs seront consentis par les banques aux conditions les plus favorables offertes actuellement par le marché, pour un montant de 60 millions d'euros. La signature des conventions entre les différents partenaires de ce dispositif autorise un versement très rapide des avances aux éleveurs. Les pouvoirs publics vont également participer à un plan de communication qui a débuté en juin et doit permettre de relancer la consommation de viande porcine. Enfin, un dispositif de restructuration des élevages, accompagné de mesures d'allégement des charges financières des éleveurs, fait actuellement l'objet d'une concertation avec les organisations professionnelles concernées.
