@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109786
+
+- Question : [SEQ031109786](seq031109786.md) — Cessation de fonctionnement de la Cour nationale de l'incapacité
+
+## Réponse
+
+*Affaires sociales, JO du 2003-12-25, page 3702*
+
+Ainsi que le rappelle l'honorable parlementaire, les instances du contentieux technique de la sécurité sociale, dont la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail (CNITAAT) constitue la juridiction d'appel, viennent d'être profondément réformées pour répondre à la censure de la Cour de cassation. La base législative de la réforme, qui leur confère le statut de juridictions à part entière, figure à l'article 35 de la loi de modernisation sociale du 17 janvier 2002. Le texte réglementaire d'application de la loi, qui la rend effective, est le décret n° 2003-614 du 3 juillet 2003, publié le 5 juillet. La cour a été constituée selon les nouvelles règles qui la régissent : son président a été nommé par décret du 8 juillet 2003 et ses assesseurs par arrêté du 5 septembre 2003. La nouvelle juridiction a été installée dans sa nouvelle composition le 16 septembre 2003. Il reste à pourvoir les postes de magistrats destinés aux présidents de section de la cour, pour que cette dernière retrouve une activité normale. Monsieur le garde des sceaux, ministre de la justice, s'emploie à l'affectation prochaine de deux magistrats à la cour, sous réserve de l'avis du Conseil supérieur de la magistrature. La CNITAAT, qui reçoit plus de 7 000 appels chaque année, connaît de longue date des retards dans le traitement des affaires. Le nombre de dossiers restant à juger était de 13 318 au 31 décembre 2001, de 12 833 au 31 décembre 2002. Entre le 1er janvier et le 1er septembre 2003, la cour a enregistré 4 334 appels supplémentaires. Elle devrait être très prochainement en mesure d'exercer son activité juridictionnelle dans des conditions qui puissent donner satisfaction aux justiciables.
