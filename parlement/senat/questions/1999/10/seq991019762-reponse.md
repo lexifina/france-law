@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019762
+
+- Question : [SEQ991019762](seq991019762.md) — Attribution des travaux de manutention sur le parc logistique du pont de Normandie
+
+## Réponse
+
+*Équipement, JO du 2000-05-25, page 1867*
+
+Réponse. - S'il est exact que des revendications puissent être formulées sur une extension possible de la priorité d'emploi des ouvriers dockers, le ministre de l'équipement, des transports et du logement a déjà eu l'occasion de rappeler aussi bien aux professionnels qu'aux syndicats, d'une part, le rôle essentiel de la puissance publique dans le développement des infrastructures portuaires de base et, d'autre part, dans le cas de trafics particulièrement exposés à la concurrence, l'implication d'opérateurs privés dans le financement des équipements de superstructure. Le ministre a également manifesté son souhait de voir se développer les implantations logistiques dans les ports. Suite à des difficultés et des incompréhensions entre les ouvriers dockers et les entreprises industrielles et de logistique installées sur le domaine public portuaire, il a été souhaité que des concertations s'engagent entre les différents partenaires, au regard du développement de l'emploi et des conditions économiques des entreprises. En effet, il est certain que la réussite économique ne peut aller sans efficacité sociale. Le projet de développement Port 2000, allié à l'essor de zones logistiques, source de valeur ajoutée pour les ports, est porteur de création de nombreux emplois. Le ministre de l'équipement, des transports et du logement se félicite de l'évolution positive de la situation ces dernières semaines au port du Havre tant en ce qui concerne les décisions d'implantations sur les zones logistiques, que des concertations qui se sont engagées entre les différents acteurs locaux. Ainsi s'esquissent des solutions renforçant la fiabilité de la place portuaire du Havre.
