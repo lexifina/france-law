@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209589
+
+- Question : [SEQ880209589](seq880209589.md) — Election des conseillers généraux
+
+## Réponse
+
+*Intérieur, JO du 1988-03-24, page 412*
+
+Réponse. -L'institution de suppléants a été prévue pour les députés et les sénateurs notamment du fait des incompatibilités entourant l'exercice d'un mandat parlementaire. Or, des imcompatibilités analogues n'existent pas pour le mandat du conseiller général. Par ailleurs, la création d'un suppléant du conseiller général, comme le suggère l'honorable parlementaire, n'irait pas sans inconvénients. Outre qu'elle est étrangère à une tradition républicaine plus que séculaire en ce domaine, elle ne manquerait pas de porter atteinte au lien personnel très fort, en particulier dans les cantons ruraux, qui existe entre les électeurs et le conseiller général qu'ils ont désigné. De plus, une telle réforme pourrait gêner les nombreux candidats isolés qui se refusent à se réclamer d'une formation politique et qui pourraient de ce fait éprouver des difficultés à trouver un suppléant. Quoi qu'il en soit, la transposition aux conseillers généraux du système de la suppléance ne saurait être de nature à éviter des élections partielles consécutives à la démission d'élus soucieux de se mettre en règle à l'égard des dispositions restreignant les cumuls de mandats électifs, puisque le remplacement du titulaire par son suppléant n'a pas lieu en cas de démission du titulaire. Au demeurant, les lois du 30 septembre 1985 sur la limitation du cumul des mandats ont aménagé une période transitoire pour permettre aux élus en situation du cumul de poursuivre leurs mandats jusqu'à leur terme normal. La résorption des cas de cumuls doit ainsi se faire progressivement, lors de l'achèvement de chacun des mandats exercés par l'élu. C'est donc normalement au moment de chaque élection générale que l'élu en situation de cumul renoncera à solliciter le renouvellement d'un mandat.
