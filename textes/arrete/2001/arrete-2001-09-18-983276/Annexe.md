@@ -38,15 +38,9 @@ L'attention des collaborateurs de l'agence est attirée sur le fait que le non-r
 
 4. Dispositions concernant l'information des employés de l'agence
 
-Fonctions
+Le président et le directeur général s'assurent qu'existe au sein de l'agence un " recueil des recommandations déontologiques " présentant différentes options ou suggestions permettant aux employés de l'agence, ainsi qu'à leurs proches, d'éviter de courir des risques en ce domaine. Des recommandations spécifiques à certaines positions peuvent figurer dans ce recueil.
 
-A sa prise de ....................
-
-A cette occasion et à chaque modification dudit recueil ....................
-
-Son élaboration ....................
-
-Sa mise à jour ....................
+Chaque employé de l'agence prend connaissance du contenu de ce recueil, lors de son arrivée en fonction puis une fois par an ; il signe, lors de chaque prise de connaissance, un registre tenu par le responsable du contrôle des risques de l'agence qui est en charge de la disponibilité et de l'actualité du recueil.
 
 Les responsables hiérarchiques de l'agence doivent s'assurer du respect des règles déontologiques au sein de celle-ci.
 
