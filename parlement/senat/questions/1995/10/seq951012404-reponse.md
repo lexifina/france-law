@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012404
+
+- Question : [SEQ951012404](seq951012404.md) — Sécurité des personnes devant l'usage des pétards et feux d'artifice
+
+## Réponse
+
+*Intérieur, JO du 1997-01-16, page 135*
+
+Réponse. - Les pétards, les fusées et les feux d'artifice appartiennent à la famille des artifices de divertissement. Ceux-ci sont réglementés par le décret no 90-897 du 1er octobre 1990 qui a apporté certaines limitations à la distribution et à l'utilisation de ces produits. En effet, ce décret porte classement de ces artifices en quatre groupes (K 1 à K 4) selon les risques qu'ils sont susceptibles d'engendrer. Seuls les artifices de groupe K 1 représentant un risque minime peuvent être acquis librement par des mineurs, des autres (K 2 et K 3) ne peuvent être achetés que par des personnes majeurs. Quant à ceux du groupe K 4, leur utilisation est uniquement réservée aux personnels qualifiés. Par circulaire no 260 du 8 décembre 1993 relative à l'utilisation des pièces d'artifices sur la voie publique, il a été rappelé aux préfets que les maires, en vertu de leurs pouvoirs de police, pouvaient limiter l'emploi des pièces d'artifices dans des lieux et à des époques dé terminés, de même que leur vente, en l'interdisant à certaines catégories de personnes, notamment aux mineurs de moins de dix-huit ans non accompagnés de leurs parents ou non expressément autorisés par eux. Par ailleurs, l'article L. 1 du code de la santé publique permet de lutter contre les bruits de voisinage. Le décret du 5 mai 1988 inclus dans ce code et complété par l'arrêté du 5 mai 1988, a prévu des peines d'amendes sur la base de contraventions de la 3e classe en cas de bruits troublant le voisinage ou la tranquilité d'autrui. La circulaire du 7 juin 1989 publiée au Journal officiel du 9 juillet 1989 a invité les préfets à prendre un arrêté interdisant les bruits gênants par leur intensité (dont les pièces d'artifices).
