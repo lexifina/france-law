@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810347
+
+- Question : [SEQ980810347](seq980810347.md) — Exécution des peines
+
+## Réponse
+
+*Justice, JO du 1999-02-11, page 465*
+
+Réponse. - Le nouveau mode d'organisation des parquets que la chancellerie a généralisé au cours des dernières années sous le nom de traitement en temps réel des procédures pénales et qui consiste en une action rapide et systématisée de la justice pénale ne prend tout son sens que si les décisions de condamnation sont effectivement ramenées à exécution. Dès lors, le garde des sceaux, ministre de la justice a l'honneur de confirmer à l'honorable parlementaire qu'une politique d'exécution des peines doit privilégier une intervention rapide, sans rupture dans le processus de prise en charge judiciaire. C'est tout d'abord ainsi qu'afin de remédier au taux, peu satisfaisant, de recouvrement des amendes, certains parquets ont élaboré, en concertation avec les services du Trésor territorialement compétents, une procédure destinée à rationaliser et à accélérer le recouvrement des amendes prononcées par une juridiction pénale. Ces expériences qui sont suivies par la chancellerie devraient être généralisées. En ce qui concerne les peines privatives de liberté, la réforme, actuellement en cours, des comités de probation et d'assistance aux libérés va permettre d'améliorer la prise en charge des condamnés. En effet, la mutualisation des moyens et de l'activité des personnels d'insertion et de probation travaillant en milieu ouvert avec ceux des travailleurs sociaux intervenant dans les établissements pénitentiaires est de nature à assurer la continuité et l'harmonisation des actions menées tant en milieu fermé qu'en milieu ouvert. De plus, dans un souci de cohérence et d'efficacité des interventions de l'Etat, il est prévu le regroupement de ces moyens dans des services à compétence départementale.
