@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205965
+
+- Question : [SEQ030205965](seq030205965.md) — Enseignement de l'odontologie
+
+## Réponse
+
+*Santé, JO du 2003-07-03, page 2173*
+
+Le ministre de la santé, de la famille et des personnes handicapées indique à l'honorable parlementaire que les conditions dans lesquelles fonctionnent les centres de soins, d'enseignement et de recherche dentaires constituent une de ses préoccupations effectives. Pour ce qui concerne plus spécialement les quatre services hospitaliers d'odontologie qui constituent le terrain de stage des étudiants en chirurgie dentaire de l'université de Paris-V, il a pleinement conscience que ces unités de soins, qui ont été mises en places à l'époque de la création des centres de soins, d'enseignement de recherche dentaires, c'est-à-dire à la fin des années 60, requièrent d'incessantes réfections et mises aux normes. Dans ces conditions, l'assistance Publique-hôpitaux de Paris a intégré dans ses prévisions budgétaires à court et à moyen termes, d'une part la prise en compte de l'amélioration des centres destinés à demeurer sur les sites actuels (il s'agit des services d'odontologie de l'hôpital Louis-Mourier, de l'hôpital Albert-Chenevier et de l'hôpital de Créteil) et, d'autre part, l'opération de transfert du service d'odontologie dénommé " centre Jean-Délibéros " au sein de l'hôpital Bretonneau. L'ensemble de ces opération, très lourdes au plan budgétaire ; devraient permettre, dans des délais relativement acceptables, de mettre un terme aux dysfonctionnements signalés dans l'article de presse que cite l'honorable parlementaire. S'agissant de l'intégration de l'odontologie comme discipline à part entière au sein des disciplines hospitalières, il indique que la réflexion sur l'avenir de l'odontologie hospitalière se poursuit dans ses services et qu'elle devrait se concrétiser, en termes de projets, dans le cadre du plan " Hôpital 2007 ".
