@@ -26,11 +26,11 @@ A. - Substances (ions ou produits)
 
 |
 
-1. Arsenic.
+1. Arsenic (1-1).
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
@@ -38,7 +38,7 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que la pulpe séchée de betteraves sucrières et la pulpe séchée, mélassée de betteraves sucrières
+- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières
 
 |
 
@@ -46,11 +46,51 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- phosphates et aliments des animaux provenant de la transformation de poisson ou d'autres animaux marins
+- tourteau de pression de palmiste
+
+|
+
+4 (1-2)
+
+|
+
+- phosphates et algues marines calcaires
 
 |
 
 10
+
+|
+
+- carbonate de calcium
+
+|
+
+15
+
+|
+
+- oxyde de magnésium
+
+|
+
+20
+
+|
+
+- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins
+
+|
+
+15 (1-2)
+
+|
+
+- farine d'algues marines et matières premières des aliments pour animaux dérivées d'algues marines
+
+|
+
+40 (1-2)
 
 |
 
@@ -62,11 +102,11 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour poissons
+- aliments complets pour poissons et animaux à fourrure
 
 |
 
-4
+6 (1-2)
 
 |
 
@@ -90,7 +130,7 @@ Aliments complémentaires, à l'exception de :
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
@@ -106,11 +146,19 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- phosphates
+- phosphates et algues marines calcaires
 
 |
 
-30
+15
+
+|
+
+- carbonate de calcium
+
+|
+
+20
 
 |
 
@@ -142,7 +190,7 @@ Aliments complémentaires, à l'exception de :
 
 |
 
-30
+15
 
 |
 
@@ -150,7 +198,7 @@ Aliments complémentaires, à l'exception de :
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
@@ -158,7 +206,7 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- aliments d'origine animale
+- aliments d'origine animale, à l'exception des crustacés marins tels que le krill
 
 |
 
@@ -166,11 +214,35 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- phosphates
+- phosphates et crustacés marins tels que le krill
 
 |
 
 2 000
+
+|
+
+- carbonate de calcium
+
+|
+
+350
+
+|
+
+- oxyde de magnésium
+
+|
+
+600
+
+|
+
+- algues marines calcaires
+
+|
+
+1 000
 
 |
 
@@ -182,7 +254,7 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pous bovins, ovins, caprins :
+- aliments complets pour bovins, ovins et caprins :
 
 |
 
@@ -236,11 +308,11 @@ Composés minéraux pour bovins, ovins et caprins
 
 |
 
-Autres aliments complémentaires
+- Autres aliments complémentaires
 
 |
 
-125 (1)
+125 (1-3)
 
 |
 
@@ -408,19 +480,11 @@ B. - Produits
 
 |
 
-1. Aflatoxines B1
+1. Aflatoxine B 1.
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
-
-|
-
-0,05
-
-|
-
-- arachide, coprah, palmiste, graines de coton, babassu, maïs et dérivés de leur transformation
+Toutes les matières premières des aliments pour animaux
 
 |
 
@@ -428,15 +492,19 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
+|
+
 Aliments complets pour bovins, ovins et caprins, à l'exception de :
 
 |
 
-0,05
+0,02
 
 |
 
-- bétail laitier
+|
+
+- aliments complets pour bétail laitier
 
 |
 
@@ -444,11 +512,15 @@ Aliments complets pour bovins, ovins et caprins, à l'exception de :
 
 |
 
-- veaux, agneaux et chevreaux
+|
+
+- aliments complets pour veaux, agneaux et chevreaux
 
 |
 
 0,01
+
+|
 
 |
 
@@ -460,6 +532,8 @@ Aliments complets pour porcs et volailles (à l'exception des jeunes animaux)
 
 |
 
+|
+
 Autres aliments complets
 
 |
@@ -468,19 +542,25 @@ Autres aliments complets
 
 |
 
+|
+
 Aliments complémentaires pour bovins, ovins et caprins (à l'exception des aliments complémentaires pour bétail laitier, veaux, agneaux et chevreaux)
 
 |
 
-0,05
+0,02
 
 |
 
-Aliments complémentaires pour porcs et volailles (à l'exception des jeunes animaux)
+|
+
+Aliments complémentaires pour porc et volailles (à l'exception des jeunes animaux)
 
 |
 
-0,03
+0,02
+
+|
 
 |
 
@@ -548,7 +628,7 @@ Aliments complets, à l'exception de :
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+Matières premières pour aliments pour animaux, à l'exception de :
 
 |
 
@@ -556,11 +636,25 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- tourteaux de graines de coton
+|
+
+- graines de coton
+
+|
+
+5 000
+
+|
+
+|
+
+- tourteaux de graines de coton et farine de graines de coton
 
 |
 
 1 200
+
+|
 
 |
 
@@ -572,6 +666,8 @@ Aliments complets, à l'exception de :
 
 |
 
+|
+
 - aliments complets pour bovins, ovins et caprins
 
 |
@@ -580,11 +676,15 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets peur volailles (à l'exception des volailles de ponte) et veaux
+|
+
+- aliments complets pour volailles (à l'exception des volailles de ponte) et aliments complets pour veaux
 
 |
 
 100
+
+|
 
 |
 
@@ -834,7 +934,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-16. Endosulfan (somme des isomères alpha et bêta et de l'endosulfansulfate calculée sous forme d'endosulfan).
+16. Endosulfan (somme des isomères alpha et bêta et du sulfate d'endosulfan, calculée sous forme d'endosulfan).
 
 |
 
@@ -846,7 +946,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- maïs
+- maïs et produits dérivés de sa transformation
 
 |
 
@@ -854,7 +954,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- graines oléagineuses
+- graines oléagineuses et produits dérivés de leur transformation
 
 |
 
@@ -862,7 +962,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- aliments complets pour poissons
+- aliments complets pour poisson
 
 |
 
@@ -1163,6 +1263,12 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 |
 
 (1) Teneur en fluor pour 1 % de phosphore.
+
+(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
+
+(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
+
+(1-3) Teneur en fluor pour 1 % de phosphore.
 
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
