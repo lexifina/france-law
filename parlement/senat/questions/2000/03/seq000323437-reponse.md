@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323437
+
+- Question : [SEQ000323437](seq000323437.md) — Suppression du caractère obligatoire de la semi-liberté pour les condamnés à une peine assortie d'une période de sûreté supérieure à quinze ans
+
+## Réponse
+
+*Justice, JO du 2000-09-21, page 3265*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que, dans la loi nº 2000-516 du 15 juin 2000 renforçant la protection de la présomption d'innocence et les droits des victimes, le législateur a consacré l'essentiel des propositions faites par la commission sur la libération conditionnelle présidée par M. Farge, dans son rapport remis en février 2000 au garde des sceaux. En effet, la loi contient des dispositions prévoyant l'élargissement des critères d'octroi de la libération conditionnelle, la juridictionnalisation des décisions du juge de l'application des peines en la matière ainsi que le transfert des décisions relevant auparavant du garde des sceaux à la juridiction régionale de la libération conditionnelle créée à cet effet. En revanche, le législateur n'a pas repris la proposition de supprimer le caractère obligatoire de la semi-liberté probatoire pour l'octroi d'une mesure de libération conditionnelle à un détenu condamné à une peine de réclusion à perpétuité assortie d'une peine de sûreté supérieure à quinze ans. Cette obligation, prévue par l'article 720-5 du code de procédure pénale, s'applique par définition aux personnes condamnées pour les infractions les plus graves prévues par le code pénal, notamment les crimes contre l'humanité, les homicides, accompagnées de circonstances aggravantes et certains actes de terrorisme, ce qui explique que la loi prévoit un renforcement des conditions à remplir préalablement à la mise en uvre d'une mesure de libération conditionnelle.
