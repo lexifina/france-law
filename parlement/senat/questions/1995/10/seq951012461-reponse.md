@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012461
+
+- Question : [SEQ951012461](seq951012461.md) — Rationalisation du dispositif global d'information de l'administration
+
+## Réponse
+
+*Premier ministre, JO du 1995-11-23, page 2213*
+
+Réponse. - Comme le souligne l'honorable parlementaire, il est devenu aujourd'hui impératif de rationaliser le dispositif global d'information et l'administration. La commission de coordination de l'action administrative (CCDA), qui exerce la tutelle de ce dispositif, a déjà pris à cet effet un certain nombre d'initiatives. C'est notamment sous son égide qu'a été développé par la direction de la Documentation française le guide télématique des droits et démarches " 3615 Vos Droits " dont la caractéristique la plus notable est de fédérer, grâce à la technique du " reroutage ", les services télématiques d'information juridique et administrative fournis par divers ministères. La saturation des centres interministériels de renseignements administratifs (CIRA), en dépit de leur relative confidentialité, et le constat plus général de l'insuffisance de l'offre de l'information administrative par rapport à la demande ont conduit le Gouvernement à s'interroger sur le devenir de l'ensemble du dispositif interministériel de renseignements administratifs. Il vient en conséquence de demander au comité central d'enquête sur le coût et le rendement des services publics de procéder à une évaluation de ce dispositif, de lui en proposer une organisation plus efficace et d'étudier plus particulièrement la place des CIRA au sein de celui-ci. Cette réflexion s'inscrit dans le cadre de l'entreprise de réforme de l'Etat telle que l'a définie la circulaire du Premier ministre du 26 juillet 1995 (J.O. du 28 juillet). Les grandes lignes de la réforme du dispositif interministériel d'information du public et de renseignements administratifs sur laquelle elle devrait déboucher devraient être entérinées au cours du premier trimestre de l'année prochaine.
