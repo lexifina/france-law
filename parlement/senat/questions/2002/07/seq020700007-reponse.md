@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700007
+
+- Question : [SEQ020700007](seq020700007.md) — Maintien du double affichage des prix en francs et en euros au-delà de 2002
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-10-17, page 2402*
+
+Les principes retenus par le Gouvernement pour le double affichage des prix en euros et en francs sont ceux du volontariat et du pragmatisme. Depuis la fin du cours légal du franc le 18 février 2002, le double affichage repose sur la libre initiative des entreprises afin d'éviter que les consommateurs ne perdent brutalement leurs repères. II répond au souci des entreprises de satisfaire leur clientèle et de lui simplifier l'apprentissage de l'euro sans rupture de nature à surprendre sa confiance. Les pouvoirs publics ont, pour leur part, émis des recommandations adaptées aux attentes des Français. Le double affichage était nécessaire après l'introduction de l'euro fiduciaire et avait été recommandé jusqu'au 30 juin 2002, suivant l'avis du Conseil national de la consommation. A l'approche de l'été, il est apparu qu'une majorité de consommateurs interrogés était favorable à un prolongement de cette période de double affichage. Les entreprises ont répondu à cette attente en maintenant pour une part significative de leurs ventes le double affichage, et les pouvoirs publics les y ont encouragées. La date du 31 décembre 2002 ne constitue pas, dans le cadre de cette démarche commerciale volontaire, une date butoir. La disparition du double affichage en 2003 représente, en revanche, un objectif souhaitable dans la mesure où les consommateurs doivent s'habituer à compter et à penser dans la nouvelle monnaie, ils ne pourront indéfiniment conserver des références en francs. Cette démarche se fait progressivement et ne nécessite pas d'intervention réglementaire.
