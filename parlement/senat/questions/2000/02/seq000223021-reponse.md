@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000223021
+
+- Question : [SEQ000223021](seq000223021.md) — Rééquilibre des relations commerciales entre agriculteurs et distributeurs
+
+## Réponse
+
+*Agriculture, JO du 2000-06-01, page 1945*
+
+Réponse. - Le Premier ministre, alerté par des dysfonctionnements dans les relations commerciales de certains secteurs, notamment alimentaires, provoqués par la disproportion des forces économiques en présence, a décidé à l'issue des assises du commerce et de la distribution de retenir plusieurs orientations destinées à renforcer l'équilibre des relations entre les fournisseurs et la grande distribution dans le projet de loi sur les nouvelles régulations économiques. Le titre Ier du projet de loi traite ainsi de la moralisation des pratiques commerciales, en proposant deux séries de mesures : l'une qui concerne l'ensemble des fournisseurs de la distribution, dont les agriculteurs, l'autre consacrée aux agriculteurs fournisseurs. Les dispositions générales applicables aux relations commerciales sont : la création d'une commission des pratiques commerciales et des relations entre producteurs et distributeurs, afin de mieux observer l'évolution des pratiques commerciales, d'identifier celles qui sont abusives et de favoriser le développement des meilleures pratiques commerciales et une meilleure définition des pratiques abusives ; un renforcement et une meilleure efficacité des poursuites devant les tribunaux. Les dispositions spécifiquement agricoles visent à encadrer la publicité de certaines opérations promotionnelles des fruits et légumes frais susceptibles de fausser l'équilibre du marché de ce secteur sensible et à mieux réglementer l'étiquetage des références aux modes de production des produits agricoles et alimentaires, ainsi que les conditions d'utilisation sur l'étiquetage de ces denrées commerciales et des signes officiels d'identification des produits.
