@@ -6,6 +6,14 @@ Dicotylédones
 
 |
 
+Aconitum corsicum Gayer.
+
+|
+
+Aconit de Corse.
+
+|
+
 Adonis pyrenaica DC.
 
 |
@@ -62,11 +70,59 @@ Andromède.
 
 |
 
-Androsace spp. L.
+Androsace alpina (L.) Lam.
 
 |
 
-Toutes les espèces alpines en coussinets ainsi que Androsace chamaejasme (A. petit Jasmin).
+Androsace des Alpes.
+
+|
+
+Androsace chamaejasme Wulfen.
+
+|
+
+Androsace petit-jasmin.
+
+|
+
+Androsace cylindrica DC.
+
+|
+
+Androsace cylindrique.
+
+|
+
+Androsace helvetica (L.) All.
+
+|
+
+Androsace de Suisse.
+
+|
+
+Androsace pubescens DC.
+
+|
+
+Androsace pubescente.
+
+|
+
+Androsace pyrenaica Lam.
+
+|
+
+Androsace des Pyrénées.
+
+|
+
+Androsace vandellii (Turra) Chiov.
+
+|
+
+Androsace de Vandelli.
 
 |
 
@@ -75,14 +131,6 @@ Anémone coronaria L.
 |
 
 Anémone couronnée.
-
-|
-
-Anémone hortensis L.
-
-|
-
-Anémone des jardins.
 
 |
 
@@ -126,6 +174,14 @@ Arbuste d'argent, Barbe de Jupiter.
 
 |
 
+Apium repens (Jacq) Lag.
+
+|
+
+Ache rampante.
+
+|
+
 Aquilegia alpina L.
 
 |
@@ -134,19 +190,19 @@ Ancolie des Alpes.
 
 |
 
+Aquilegia bertolonii Schott.
+
+|
+
+Ancolie de Bertoloni.
+
+|
+
 Aquilegia viscosa Gouan.
 
 |
 
 Ancolie des Causses.
-
-|
-
-Arenaria biflora L.
-
-|
-
-Sabline à deux fleurs.
 
 |
 
@@ -219,6 +275,14 @@ Armeria soleirolii (Duby) Godron.
 |
 
 Armeria de Soleirol.
+
+|
+
+Artemisia insipida Vill.
+
+|
+
+Armoise insipide.
 
 |
 
@@ -302,12 +366,6 @@ Astragale de Marseille.
 
 |
 
-Astragalus monspessulanus.
-
-|
-
-Astragale de Montpellier. |
-
 Atractylis cancellata L.
 
 |
@@ -316,11 +374,11 @@ Atractyle grillagé.
 
 |
 
-Atragene alpina L.
+Atriplex longipes Drejer.
 
 |
 
-Clématite des Alpes.
+Arroche à long pédoncule.
 
 |
 
@@ -348,6 +406,14 @@ Bouleau nain.
 
 |
 
+Biscutella neustriaca Bonnet.
+
+|
+
+Lunetière de Neustrie.
+
+|
+
 Brassica insularis Moris.
 
 |
@@ -356,35 +422,11 @@ Choux de Corse.
 
 |
 
-Buffonia perennis Pourret.
-
-|
-
-Herbe à Buffon.
-
-|
-
 Buglossoides-gastonii (Bentham) I. M. Johnston.
 
 |
 
 Gremil du Béarn, G. de Gaston.
-
-|
-
-Bupleurum frutiscescens L.
-
-|
-
-Buplèvre sous arbustif.
-
-|
-
-Campanula ailliomi Vill.
-
-|
-
-Campanule des Alpes.
 
 |
 
@@ -436,6 +478,14 @@ Petite centaurée à fleurs de scille.
 
 |
 
+Centranthus trinervis (Viv.) Beguinot.
+
+|
+
+Centranthe à trois nervures.
+
+|
+
 Cephalaria syriaca (L.) Roem et Schultes.
 
 |
@@ -476,19 +526,19 @@ Ciste à feuilles de peuplier.
 
 |
 
+Cistus pouzolzii Delile.
+
+|
+
+Ciste de Pouzolz.
+
+|
+
 Cistus psilocephalus Sweet.
 
 |
 
 Ciste hérissé.
-
-|
-
-Cistus varius Pourret.
-
-|
-
-Ciste variable.
 
 |
 
@@ -580,6 +630,14 @@ Dianthus gallicus Pers.
 
 |
 
+Draba incana L.
+
+|
+
+Drave blanchâtre.
+
+|
+
 Dracocephalum austriacum L.
 
 |
@@ -625,14 +683,6 @@ Erinacea anthyllis Lmk.
 |
 
 Cytise hérisson.
-
-|
-
-Eritrichium nanum (L.) Schrad. ex Gaudin.
-
-|
-
-Myosotis nain des Alpes.
 
 |
 
@@ -684,11 +734,11 @@ Panicaut nain vivipare.
 
 |
 
-Euphorbia esula ssp. thommasiniana (Bertol.) Nyman.
+Euphorbia graminifolia Vill.
 
 |
 
-Euphorbe à feuilles fines.
+Euphorbe à feuilles de graminées.
 
 |
 
@@ -697,14 +747,6 @@ Euphorbia valliniana Belli.
 |
 
 E. de Vallini.
-
-|
-
-Euphorbia variabilis Cesati.
-
-|
-
-E. variable.
 
 |
 
@@ -737,6 +779,14 @@ Garidella nigellastrum L.
 |
 
 Garidelle fausse-nigelle.
+
+|
+
+Gentiana ligustica R. de Vilm. & Chopinet.
+
+|
+
+Gentiane ligure.
 
 |
 
@@ -796,14 +846,6 @@ Benoîte à fruits divers.
 
 |
 
-Halimiocistus sahucii (Coste et Soulié) Janchen.
-
-|
-
-Ciste hybride de Sahuc.
-
-|
-
 Halimione pedunculata Aellen.
 
 |
@@ -836,19 +878,19 @@ Hélianthème à feuilles de Varum.
 
 |
 
-Helichrysum bitterense Coste et Mourret.
-
-|
-
-Immortelle de Béziers.
-
-|
-
 Heracleum minimum Lamarck.
 
 |
 
 Berce naine.
+
+|
+
+Herniaria latifolia Lapeyr. ssp. litardierei Gamis.
+
+|
+
+Herniaire de Litardière.
 
 |
 
@@ -900,6 +942,14 @@ Inule variable.
 
 |
 
+Inula helenioides DC.
+
+|
+
+Inule fausse-aunée.
+
+|
+
 Isatis allionii P.W. Ball.
 
 |
@@ -913,6 +963,14 @@ Jurinea humilis D. C.
 |
 
 Serratule naine.
+
+|
+
+Kosteletzkya pentacarpos (L.) Ledeb.
+
+|
+
+Hibiscus à cinq fruits.
 
 |
 
@@ -945,6 +1003,14 @@ Legousia castellana Sampaio.
 |
 
 Spéculaire de Castille.
+
+|
+
+Leucanthemum crassifolium (Lange) Willk.
+
+|
+
+Marguerite à feuilles épaisses.
 
 |
 
@@ -1012,19 +1078,11 @@ Petit statice.
 
 |
 
-Limonium minutum Fourr.
+Limonium minutum L. s.l.
 
 |
 
-Statice nain de Provence.
-
-|
-
-Limonium oleifolium Miller.
-
-|
-
-Statice à feuilles d'olivier.
+Statices nains du groupe minutum.
 
 |
 
@@ -1060,6 +1118,14 @@ Linaire à vrilles.
 
 |
 
+Linaria flava (Poiret) Desf.
+
+|
+
+Linaire jaunâtre.
+
+|
+
 Linaria reflexa (L.) Desf.
 
 |
@@ -1076,11 +1142,11 @@ Linaire à feuilles de thym.
 
 |
 
-Linaria toutonii A. Chev.
+Lindernia procumbens (Krocker) Philcox
 
 |
 
-Linaire de Touton.
+Lindernie couchée.
 
 |
 
@@ -1092,11 +1158,19 @@ Linnée boréale.
 
 |
 
-Lithodora diffusa I. M. Johnston.
+Lithodora prostrata (Loisel.) Griseb.
 
 |
 
-Gremil prostré.
+Grémil à rameaux étalés.
+
+|
+
+Littorella uniflora (L.) Ascherson
+
+|
+
+Littorelle à une fleur.
 
 |
 
@@ -1113,14 +1187,6 @@ Loeftingia hispartica L.
 |
 
 Loeflingie d'Espagne.
-
-|
-
-Lupinus varius L.
-
-|
-
-Lupin hérissé.
 
 |
 
@@ -1164,14 +1230,6 @@ Salicaire à trois bractées.
 
 |
 
-Matthiola oyensis Men.
-
-|
-
-Matthiole de l'île d'Yeu.
-
-|
-
 Matthiola tricuspidata R. Br.
 
 |
@@ -1204,14 +1262,6 @@ Sabline de Le Brun.
 
 |
 
-Moricandia arvensis (L.) DC.
-
-|
-
-Moricandie.
-
-|
-
 Morisia monanthos (Viv.) Ascherson.
 
 |
@@ -1228,19 +1278,19 @@ Myosotis ténu.
 
 |
 
-Myosotis ruscinonensis Rouy.
-
-|
-
-Myosotis du Roussillon.
-
-|
-
 Nananthea perpusilla DC.
 
 |
 
 Nananthée de Corse.
+
+|
+
+Naufraga balearica Constance & Cannon.
+
+|
+
+Naufraga des Baléares.
 
 |
 
@@ -1300,6 +1350,14 @@ Andromède bleue, Phyllodoce bleue.
 
 |
 
+Physospermum cornubiense (L.) DC.
+
+|
+
+Physospermum de Cornouailles.
+
+|
+
 Phyteuma villarsii R. Schultes.
 
 |
@@ -1324,6 +1382,14 @@ Renouée de Ray.
 
 |
 
+Potentilla delphinensis Gren. & Godron.
+
+|
+
+Potentille du Dauphiné.
+
+|
+
 Potentilla fruticosa L.
 
 |
@@ -1332,11 +1398,43 @@ Potentille arbustive.
 
 |
 
-Primula spp. (sauf P. élatior, P. officinalis, P. acaulis).
+Primula allionii Loisel.
 
 |
 
-(Toutes espèces vivaces de rocher) Primevères rupestres (sauf le coucou, Primevère officinale, Primevère acaulse à grandes fleurs).
+Primevère d'Allioni.
+
+|
+
+Primula auricula L.
+
+|
+
+Oreille d'ours.
+
+|
+
+Primula halleri J.F. Gmelin.
+
+|
+
+Primevère de Haller.
+
+|
+
+Primula marginata Curtis.
+
+|
+
+Primevère marginée.
+
+|
+
+Primula pedemontana Gaudin.
+
+|
+
+Primevère du Piémont.
 
 |
 
@@ -1388,7 +1486,7 @@ Anémone (puslatille) de Haller.
 
 |
 
-Pyrola maritima Warburg.
+Pyrola rotundifolia L. ssp. maritima (Kenyon) E.F. Warburg.
 
 |
 
@@ -1409,6 +1507,14 @@ Ranunculus canuti Cosson.
 |
 
 Bouton d'or de Canut.
+
+|
+
+Ranunculus fontanus C. Presl.
+
+|
+
+Renoncule des fontaines.
 
 |
 
@@ -1476,22 +1582,6 @@ Rhododendron poilu.
 
 |
 
-Rosa x aveyronensis Coste.
-
-|
-
-Rose hybride de l'Aveyron.
-
-|
-
-Rosa serafini Viv.
-
-|
-
-Rose de Serafin.
-
-|
-
 Rouya polygama Coincy.
 
 |
@@ -1516,19 +1606,11 @@ Oseille tubéreuse.
 
 |
 
-Salix cratacgifolia Bertol.
+Salix breviserrata B. Flod.
 
 |
 
-Saule à feuilles d'aubépine.
-
-|
-
-Salix daphnoides Vill.
-
-|
-
-Saule noir.
+Saule à feuilles de myrte.
 
 |
 
@@ -1537,22 +1619,6 @@ Salix lapponum L.
 |
 
 Saule des Lapons.
-
-|
-
-Salix myrsinites L.
-
-|
-
-Saule à feuilles de Myrte.
-
-|
-
-Salix repens L. ssp. arenaria L.
-
-|
-
-Saule des dunes.
 
 |
 
@@ -1596,14 +1662,6 @@ Saxifrage œil de bouc.
 
 |
 
-Saxifraga lantoscana Boiss.
-
-|
-
-Saxifrage de Lantosque.
-
-|
-
 Saxifraga muscoides All.
 
 |
@@ -1633,6 +1691,14 @@ Scandicium stellatum Thellung.
 |
 
 Scandix étoilé.
+
+|
+
+Scorzonera parviflora Jacq.
+
+|
+
+Scorzonère à petites fleurs.
 
 |
 
@@ -1692,6 +1758,14 @@ Seseli de Bocone.
 
 |
 
+Silene coeli-rosa (L.) Godron.
+
+|
+
+Silène d'un rose céleste.
+
+|
+
 Silene salzmanii Badaro ex Moretti.
 
 |
@@ -1705,6 +1779,14 @@ Silene velutina Pourret ex Loisel.
 |
 
 Silène velouté.
+
+|
+
+Sisymbrium supinum L.
+
+|
+
+Sisymbre couché.
 
 |
 
@@ -1820,6 +1902,14 @@ Trèfle à fleurs penchées.
 
 |
 
+Trifolium saxatile All.
+
+|
+
+Trèfle des rochers.
+
+|
+
 Thymelaea tartonraira (L.) All.
 
 |
@@ -1841,6 +1931,14 @@ Thymelaea ruizii Loscos ex Casav.
 |
 
 Passerine de Ruiz.
+
+|
+
+Utricularia ochroleuca R. Hartmann.
+
+|
+
+Utriculaire d'un vert jaunâtre.
 
 |
 
@@ -1868,19 +1966,19 @@ Vesce de Barbazita.
 
 |
 
-Vicia elegantissima R. J. Shuttlew.
-
-|
-
-Vesce élégante.
-
-|
-
 Viola arborescens L.
 
 |
 
 Violette sous-arbustive.
+
+|
+
+Viola cryana Gillot.
+
+|
+
+Violette de Cry.
 
 |
 
@@ -1908,6 +2006,14 @@ Pensée de Rouen.
 
 |
 
+Vitis vinifera L. ssp. sylvestris (C.C. Gmelin) Hegi.
+
+|
+
+Lambrusque, vigne sauvage.
+
+|
+
 Xatartia scabra (Lapeyr.) Meissn.
 
 |
@@ -1917,6 +2023,14 @@ Xataria, Givert des isards.
 |
 
 Monocotylédones
+
+|
+
+Agrostis tenerrima Trin.
+
+|
+
+Agrostis élégant.
 
 |
 
@@ -1944,14 +2058,6 @@ Ail doré.
 
 |
 
-Allium scaberrimum Serres.
-
-|
-
-Ail rude.
-
-|
-
 Althenia barrandonii Duval-Jouve.
 
 |
@@ -1976,19 +2082,19 @@ Diss.
 
 |
 
-Barlia robertiana (Loisel) W. Greuter.
+Bellevalia romana (L.) Reichenb.
 
 |
 
-Orchis à longues bractées.
+Bellevalia de Rome.
 
 |
 
-Bellevalia spp. Lapeyr.
+Bellevalia trifoliata (Ten.) Kunth.
 
 |
 
-Jacinthe de Belleval, toutes les espèces.
+Bellevalia à trois feuilles.
 
 |
 
@@ -2064,14 +2170,6 @@ Laîche à long rhizome.
 
 |
 
-Carex costei Rouy.
-
-|
-
-Laîche de Coste.
-
-|
-
 Carex firma Host.
 
 |
@@ -2085,14 +2183,6 @@ Carex fritschii Waisb.
 |
 
 Laîche de Fritsch.
-
-|
-
-Carex fuliginosa Schkuhr.
-
-|
-
-Laîche couleur de suie.
 
 |
 
@@ -2136,14 +2226,6 @@ Laîche des tourbières, Laîche des vases.
 
 |
 
-Carex michelii Host.
-
-|
-
-Laîche de Micheli.
-
-|
-
 Carex migroglochin Wahlenb.
 
 |
@@ -2168,6 +2250,22 @@ Laîche fausse-brize.
 
 |
 
+Carex reichenbachii Bonnet.
+
+|
+
+Laîche de Reichenbach.
+
+|
+
+Carex repens Bellardi.
+
+|
+
+Laîche rampante.
+
+|
+
 Carex vaginata Tausch.
 
 |
@@ -2184,6 +2282,14 @@ Palmier nain, Doum.
 
 |
 
+Colchicum corsicum Baker.
+
+|
+
+Colchique de Corse.
+
+|
+
 Colchicum cupanii Guss.
 
 |
@@ -2192,27 +2298,11 @@ Colchique de Bertoloni.
 
 |
 
-Colchicum neapolitanum Ten.
-
-|
-
-Colchique de Naples.
-
-|
-
 Coleanthus subtilis Seidl.
 
 |
 
 Coléanthe délicat.
-
-|
-
-Cymodocea nodosa Ascherson.
-
-|
-
-Cymodocée, Paille de mer.
 
 |
 
@@ -2272,11 +2362,91 @@ Fritillaire de Caussols.
 
 |
 
-Gagea spp. Salisb.
+Gagea arvensis (Pers.) Dumort.
 
 |
 
-(Toutes les espèces) Gagea.
+Gagée des champs.
+
+|
+
+Gagea bohemica (Zauscher) Schultes.
+
+|
+
+Gagée de Bohème.
+
+|
+
+Gagea foliosa (J. et C. Presl.) Schultes.
+
+|
+
+Gagée très feuillue.
+
+|
+
+Gagea granatelli (Parl.) Parl.
+
+|
+
+Gagée de Granatelli.
+
+|
+
+Gagea lutea (L.) Ker-Gawler.
+
+|
+
+Gagée jaune.
+
+|
+
+Gagea minima (L.) Ker-Gawler.
+
+|
+
+Petite gagée.
+
+|
+
+Gagea pratensis (Pers.) Dumort.
+
+|
+
+Gagée des prés.
+
+|
+
+Gagea saxatilis (Mert. et Koch) Schultes.
+
+|
+
+Gagée des rochers.
+
+|
+
+Gagea soleirolii F.W. Schultz.
+
+|
+
+Gagée de Soleirol.
+
+|
+
+Gagea spathacea (Hayne) Salisb.
+
+|
+
+Gagée à spathe.
+
+|
+
+Gladiolus dubius Guss.
+
+|
+
+Glaïeul douteux.
 
 |
 
@@ -2312,11 +2482,11 @@ Avoine odorante.
 
 |
 
-Iris perrieri Simonnet.
+Iris aphylla L.
 
 |
 
-Iris de Perrier.
+Iris sans feuilles.
 
 |
 
@@ -2341,14 +2511,6 @@ Iris xiphium L.
 |
 
 Iris d'Espagne.
-
-|
-
-Juncus balticus Willd.
-
-|
-
-Jonc de la Baltique.
 
 |
 
@@ -2400,6 +2562,14 @@ Ivraie du Portugal.
 
 |
 
+Luronium natans (L.) Raf.
+
+|
+
+Flûteau nageant.
+
+|
+
 Merendera filifolia Camb.
 
 |
@@ -2424,11 +2594,19 @@ Ail de Sicile.
 
 |
 
-Ophrys bertoloni Moretti.
+Ophrys aveyronensis (J.J. Wood) Delforge.
 
 |
 
-Ophrys de Bertoloni.
+Ophrys de l'Aveyron.
+
+|
+
+Ophrys bertolonii Moretti s.l.
+
+|
+
+Ophrys du groupe bertolonii.
 
 |
 
@@ -2437,14 +2615,6 @@ Ophrys bornbiliflora Link.
 |
 
 Ophrys bombyx.
-
-|
-
-Ophrys mangini Tallon.
-
-|
-
-Ophrys de Mangin.
 
 |
 
@@ -2472,19 +2642,19 @@ Orchis punaise.
 
 |
 
-Orchis fragrans Pollini.
-
-|
-
-Orchis odorant.
-
-|
-
 Orchis longicornu Poiret.
 
 |
 
 Orchis à long éperon.
+
+|
+
+Orchis provincialis Balbis ssp. pauciflora (Ten.) Camus.
+
+|
+
+Orchis à fleurs peu nombreuses.
 
 |
 
@@ -2520,19 +2690,11 @@ Millet verdâtre.
 
 |
 
-Posidonia oceanica Delille.
+Potamogeton rutilus Wolfg.
 
 |
 
-Pelote de mer, Chiendent marin.
-
-|
-
-Ruscus hypophyllum L.
-
-|
-
-(Petit houx) Herbe aux langues.
+Potamot rougeâtre.
 
 |
 
@@ -2573,6 +2735,14 @@ Serapias neglecta De Not.
 |
 
 Sérapias négligé.
+
+|
+
+Serapias nurrica B. Corrias.
+
+|
+
+Sérapias des nuraghi.
 
 |
 
@@ -2624,11 +2794,19 @@ Tulipe œil de soleil.
 
 |
 
+Tulipa clusiana DC.
+
+|
+
+Tulipe de l'Ecluse.
+
+|
+
 Tulipa gesneriana L.
 
 |
 
-Tulipes de Gesner savoyardes.
+Tulipes de Gesner.
 
 |
 
@@ -2640,11 +2818,27 @@ Tulipe précoce.
 
 |
 
-Tulipa silvestris L.
+Tulipa sylvestris L. ssp. sylvestris.
 
 |
 
-Tulipe sauvage.
+Tulipe sauvage, sous-espèce type.
+
+|
+
+Typha minima Funk.
+
+|
+
+Petite massette.
+
+|
+
+Typha shuttleworthii Koch et Sonder.
+
+|
+
+Massette de Shuttleworth.
 
 |
 
@@ -2680,9 +2874,19 @@ Pinus mugho Turra.
 
 |
 
-Pin Mugho (spontané). |
+Pin Mugho (spontané).
+
+|
 
 Ptéridophytes
+
+|
+
+Asplenium cuneifolium Viv.
+
+|
+
+Doradille à feuilles en coin.
 
 |
 
@@ -2758,6 +2962,14 @@ Doradille laineuse, Notochlaena.
 
 |
 
+Cystopteris diaphana (Bory) Blasdell.
+
+|
+
+Cystoptéris diaphane.
+
+|
+
 Cystopteris montana Desv.
 
 |
@@ -2766,11 +2978,27 @@ Cystopteris des montagnes.
 
 |
 
-Diphasium spp. S. Presl.
+Diphasiastrum alpinum (L.) Holub.
 
 |
 
-(Toutes les espèces) Lycopodes à feuilles planes.
+Lycopode des Alpes.
+
+|
+
+Diphasiastrum complanatum (L.) Holub. s.l.
+
+|
+
+Lycopodes aplatis du groupe complanatum.
+
+|
+
+Diphasiastrum tristachyum (Pursh) Holub.
+
+|
+
+Lycopode petit-cyprès.
 
 |
 
@@ -2790,6 +3018,22 @@ Polystic à crètes.
 
 |
 
+Dryopteris pallida (Bory) Maire et Petitmengin.
+
+|
+
+Dryoptéris pâlissante.
+
+|
+
+Dryopteris tyrrhena Fraser-Jenkins.
+
+|
+
+Dryoptéris tyrrhénienne.
+
+|
+
 Hymenophyllum tunbridgense Sm.
 
 |
@@ -2806,11 +3050,59 @@ H. de Wilson.
 
 |
 
-Isoetes spp. L.
+Isoetes boryana Durieu.
 
 |
 
-Isoetes (toutes espèces).
+Isoète de Bory.
+
+|
+
+Isoetes durieui Bory.
+
+|
+
+Isoète de Durieu.
+
+|
+
+Isoetes echinospora Durieu.
+
+|
+
+Isoète à spores spinuleuses.
+
+|
+
+Isoetes hystrix Bory.
+
+|
+
+Isoète épineux.
+
+|
+
+Isoetes lacustris L.
+
+|
+
+Isoète des lacs.
+
+|
+
+Isoetes setacea Lam.
+
+|
+
+Isoète grêle.
+
+|
+
+Isoetes velata A. Braun.
+
+|
+
+Isoète voilé.
 
 |
 
@@ -2835,6 +3127,14 @@ Marsilea strigosa Willd.
 |
 
 Fougère d'eau à quatre feuilles.
+
+|
+
+Matteucia struthiopteris (L.) Todaro.
+
+|
+
+Matteuccie.
 
 |
 
@@ -2867,6 +3167,14 @@ Polystichum braunii Fée.
 |
 
 Polystic de Braun.
+
+|
+
+Salvinia natans (L.) All.
+
+|
+
+Salvinia nageante.
 
 |
 

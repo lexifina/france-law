@@ -14,14 +14,6 @@ Grand œil de bœuf, Adonis printanier.
 
 |
 
-Campanula stenocaudon Boiss. Rent.
-
-|
-
-Campanule à corolle étroite.
-
-|
-
 Centaurium capitatum Melderis.
 
 |
@@ -54,11 +46,27 @@ Dianthus superbus L.
 
 |
 
-Drosera spp. L.
+Drosera anglica Hudson.
 
 |
 
-(Toutes les espèces) Rossolis, Rosée du Soleil.
+Rossolis à feuilles longues.
+
+|
+
+Drosera intermedia Hayne.
+
+|
+
+Rossolis intermédiaire.
+
+|
+
+Drosera rotundifolia L.
+
+|
+
+Rossolis à feuilles rondes.
 
 |
 
@@ -110,11 +118,19 @@ Laurier-rose.
 
 |
 
-Paeonia spp. L.
+Paeonia mascula (L.) Miller.
 
 |
 
-(Toutes les espèces) Pivoines sauvages.
+Pivoine mâle.
+
+|
+
+Paeonia officinalis L.
+
+|
+
+Pivoine officinale.
 
 |
 
@@ -123,14 +139,6 @@ Polemonium coeruleum L.
 |
 
 Valériane grecque.
-
-|
-
-Pyrola rotundifolia L.
-
-|
-
-Pyrole à feuilles rondes.
 
 |
 
@@ -163,14 +171,6 @@ Senecio rutheniensis Maz. Timb.
 |
 
 Séneçon du Rouergue.
-
-|
-
-Teucrium marum L.
-
-|
-
-Herbe aux chats.
 
 |
 
@@ -210,43 +210,11 @@ Fluteau à feuilles de graminées.
 
 |
 
-Allium victorialis L.
-
-|
-
-Ail Serpentin.
-
-|
-
 Asphodelus arrondeaui Lloyd.
 
 |
 
 Bâton blanc d'Arrondeau.
-
-|
-
-Iris florentina L.
-
-|
-
-Iris de Florence.
-
-|
-
-Potamogeton variifolius Thore.
-
-|
-
-Potamot à feuilles variables.
-
-|
-
-Typha elata Bor.
-
-|
-
-Massette élevée.
 
 |
 
