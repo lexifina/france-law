@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003028
+
+- Question : [SEQ931003028](seq931003028.md) — Répartition des charges scolaires
+
+## Réponse
+
+*Intérieur, JO du 1993-11-18, page 2213*
+
+Réponse. - La loi no 90-586 du 4 juillet 1990 a modifié les dispositions de la loi no 83-663 du 22 juillet 1983, et notamment l'article 15-3, en prévoyant les modalités d'extinction de la participation des communes ou de leurs groupements au financement des collèges. Ainsi, l'article 15-3 a imposé aux conseils généraux de fixer avant le 1er octobre 1990 la date à laquelle le département cesse de percevoir une participation communale aux dépenses d'investissement des collèges et, dans le cas où la suppression est prévue en plusieurs étapes, le rythme de décroissance de cette participation. La loi du 4 juillet 1990 n'a pas apporté de modification dans le mode de calcul de la participation des communes ou de leurs groupements tant en matière de dépenses d'investissement que de dépense de fonctionnement. Ce calcul, appliqué à chaque exercice budgétaire, continue d'intégrer un critère fondé sur le nombre d'élèves de chaque commune fréquentant le collège. S'agissant des enfants de familles sans domicile fixe, il convient de prendre en compte le fait que, d'une manière générale, la brièveté des séjours sur le territoire d'une même commune empêche le calcul d'une participation annuelle de la commune de résidence temporaire. C'est la raison pour laquelle ces enfants sont exclus du calcul visant à fixer la participation des communes ou de leurs groupements, au financement des collèges. Il revient donc au département de prendre en charge ces cas particuliers pendant la période transitoire, tandis que l'extinction de la participation des communes au financement des collèges organisée par la loi du 4 juillet 1990 mettra un terme définitif à cette interrogation.
