@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700796
+
+- Question : [SEQ020700796](seq020700796.md) — Conditions de vie des volontaires civils dans les postes diplomatiques et consulaires
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-12-05, page 2944*
+
+Les volontaires civils internationaux relèvent, en matière de logement, du droit commun. A ce titre, ils sont supposés en assumer la charge. A cet égard, l'indemnité forfaitaire qui leur est servie est réputée couvrir l'ensemble des charges affectées à l'expatriation. Elle est définie par l'article 12 de la loi n° 2000-242 du 14 mars 2000 ainsi que par les articles 18 à 22, 44, 46 et 47 du décret n° 2000-1159 du 30 novembre 2000, portant application des dispositions du code du service national, relatives aux volontaires civils. Cette indemnité se décompose en deux éléments : une part fixe, qui suit les évolutions du point d'indice de la fonction publique (soit 566,90 euros au 1er mars 2002) et une part variable, également appelée indemnité supplémentaire, liée au pays de l'affection (1 083,37 euros pour la Suisse-Berne). Cette partie variable suit les variations du mécanisme change-prix dans les mêmes proportions que les indemnités de résidence servies aux personnels expatriés, relevant du décret n° 67-290 du 28 mars 1967. Il n'est par conséquent pas possible d'appliquer aux volontaires civils internationaux un ajustement différencié. S'agissant plus spécialement des frais de logement, pour tenir compte des pratiques locales du marché locatif résidentiel (paiement par avance par exemple), la direction de la comptabilité publique a admis la possibilité d'étendre le bénéfice d'avances du Trésor aux futurs volontaires internationaux. Cette mesure permet, à ceux qui en font la demande, de disposer, en une seule fois, des moyens financiers nécessaires au respect des clauses de leur contrat de bail.
