@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902646
+
+- Question : [SEQ020902646](seq020902646.md) — Devenir des emplois-jeunes
+
+## Réponse
+
+*Affaires sociales, JO du 2003-01-30, page 340*
+
+L'honorable parlementaire fait part de ses interrogations relatives au devenir du programme " nouveaux services emplois jeunes " au sein des associations et des collectivités territoriales. Il s'interroge en particulier sur le point de connaître les intentions du Gouvernement. Si le ministre des affaires sociales, du travail et de la solidarité a rappelé récemment qu'il n'y avait plus lieu de créer de nouveaux contrats, il s'est en revanche engagé à laisser aller à leur terme de cinq ans les conventions signées. Les associations qui n'ont pu mobiliser des sources de financement alternatives à l'aide de l'Etat pourront bénéficier d'un soutien complémentaire, dégressif, sur trois ans. Concernant les collectivités territoriales, conformément au principe de libre administration, les modalités de pérennisation et de consolidation des emplois relèvent de la responsabilité des employeurs. Les services de l'Etat sont bien évidemment disponibles pour appuyer en tant que de besoin les collectivités, dans l'organisation de formations pour les jeunes ou la mise en place de concours d'accès à la fonction publique territoriale, notamment de troisième voie. Des conventions ont ainsi été conclues entre l'Etat, d'une part, le CNFPT et l'UNCDG, d'autre part. Enfin, les collectivités pourront être naturellement associées aux réflexions qui font l'objet de diagnostics d'ancrage territorial en vue de rechercher différents partenaires publics ou privés intéressés par la ou les nouvelles activités. En dernier lieu, et en partie pour répondre aux besoins exprimés par l'honorable parlementaire, au-delà des dispositifs existants et des initiatives que peuvent prendre les collectivités locales et les associations, la mise en place d'un contrat d'insertion à la vie sociale (CIVIS) est à l'étude.
