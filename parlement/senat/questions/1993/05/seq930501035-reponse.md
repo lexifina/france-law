@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501035
+
+- Question : [SEQ930501035](seq930501035.md) — Renforcement de l'action de l'Agence pour la participation des employeurs à l'effort de construction
+
+## Réponse
+
+*Logement, JO du 1993-08-26, page 1481*
+
+Réponse. - Dans son rapport de novembre 1990 faisant la synthèse de son contrôle de dix des plus importants comités interprofessionnels du logement (CIL), l'inspection générale des finances suggérait que l'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC) puisse développer son rôle de contrôle et d'animation des collecteurs du " 1 p. 100 " logement et indiquait à cet égard diverses voies possibles, en particulier un élargissement des sanctions susceptibles de frapper les organismes défaillants. La loi no 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques a ainsi étendu les prérogatives de contrôle et d'élaboration des règles de gestion relatives au " 1 p. 100 " logement de l'agence à l'ensemble des organismes collecteurs à l'exception des organismes d'HLM ou sociétés d'économie mixte exerçant, à titre principal, une activité de construction, ou d'acquisition de logements sociaux, ceux-ci étant contrôlés par ailleurs. Ces dispositions ont été précisées par le décret no 93-748 du 27 mars 1993 pris en application de cette loi. La loi a également élargi l'échelle des sanctions pouvant être proposées par l'agence au ministre chargé du logement, en prévoyant que des amendes puissent être imposées à un organisme défaillant et des sanctions pénales être infligées aux dirigeants coupables d'abus de biens sociaux. Enfin, la loi dispose que l'agence, sur demande du ministre chargé du logement, pourra être chargée d'une mission de contrôle des opérations réalisées à l'aide du " 1 p. 100 " logement par des organismes utilisateurs mais non collecteurs.
