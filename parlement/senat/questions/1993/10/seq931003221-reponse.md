@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003221
+
+- Question : [SEQ931003221](seq931003221.md) — Statut des professeurs de lycées professionnels de premier grade
+
+## Réponse
+
+*Éducation, JO du 1994-01-20, page 125*
+
+Réponse. - Dans le cadre du plan de revalorisation de la fonction enseignante, les professeurs de lycée professionnel du premier grade ont fait l'objet d'une attention particulière. Ils bénéficient des mesures communes à l'ensemble des enseignants du second degré (indemnité de suivi et d'orientation des élèves, indemnité de première affectation, indemnité de sujétions spéciales pour les enseignants exerçant en zone d'éducation prioritaire, indemnité pour activités péri-éducatives) et d'autre part de la transformation de 5 000 emplois de PLP 1 en PLP 2 chaque année pendant dix ans. Cette dernière mesure devrait permettre à la très grande majorité des PLP 1 de bénéficier d'un reclassement dans le second grade avant leur départ à la retraite. L'adoption d'un nouveau statut des professeurs de lycée professionnel fait suite à l'annulation par le Conseil d'Etat du décret du 31 décembre 1985, qui portait statut de ces personnels. Il est prévu en application de ce nouveau statut de promouvoir par voie d'inscription sur un tableau d'avancement un contingent de PLP du 1er grade au moins égal au nombre des emplois offerts la même année aux concours de recrutement de PLP 2. L'arrêt des recrutements dans le premier grade, le plan de transformation d'emplois ainsi que ces mesures statutaires se conjuguent pour aboutir, à terme, à la généralisation du deuxième grade aux personnels du corps. Toutefois, ce n'est que lorsque la totalité des PLP 1 en activité aura été intégrée dans le grade PLP 2 qu'une assimilation des PLP 1 retraités pourra intervenir par application de l'article L. 16 du code des pensions civiles et militaires. Compte tenu du rythme des transformations d'emplois opérées, cette mesure pourrait intervenir d'ici cinq ans environ.
