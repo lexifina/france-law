@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700221
+
+- Question : [SEQ020700221](seq020700221.md) — Adoption internationale et Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-04-17, page 1311*
+
+Le décret n° 2002-575 du 18 avril 2002 relatif aux organismes autorisés et habilités pour l'adoption (OAA) prévoit qu'ils ne peuvent suivre que les candidats à l'adoption résidant dans un département où ils bénéficient d'une autorisation délivrée par le président du conseil général ou d'une déclaration de fonctionnement. Ces organismes ne sauraient donc, en l'état actuel de la législation, intervenir pour le compte de candidats résidant à l'étranger. Parmi les raisons qui justifient ces dispositions figure en effet l'obligation de suivi des enfants adoptés, prévue par l'article L. 225-16 du code de l'action sociale et des familles. Ce suivi implique nécessairement des rencontres fréquentes avec la famille adoptante et l'enfant, ce qui amène les organismes à ne pas retenir les dossiers des familles françaises résidant à l'étranger. En outre, les Français résidant dans l'un des 50 pays parties à la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale (ce qui couvre la majorité des Français établis à l'étranger) doivent s'adresser, lorsqu'ils s'engagent dans une démarche d'adoption, non pas aux services français, mais aux autorités concernées de leur pays de résidence, conformément au critère de compétence établi par l'article 2 de la convention. Ces pays veillent d'ailleurs au strict respect de leur compétence territoriale. Les services compétents du ministère des affaires étrangères restent toutefois très attentifs aux difficultés que rencontrent nos compatriotes résidant à l'étranger dont les situations sont très diverses et s'efforcent de leur apporter les informations et conseils nécessaires pour orienter utilement leurs demandes.
