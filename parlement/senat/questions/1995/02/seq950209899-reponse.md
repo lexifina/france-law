@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209899
+
+- Question : [SEQ950209899](seq950209899.md) — Droit à la fourniture d'eau et d'énergie pour les personnes en situation de précarité
+
+## Réponse
+
+*Affaires sociales, JO du 1995-04-13, page 875*
+
+Réponse. - La loi du 29 juillet 1992 relative au revenu minimum d'insertion et à la lutte contre l'exclusion sociale et professionnelle a prévu dans ses articles 43-5 et 43-6 la mise en place d'un dispositif national d'aide et de prévention en matière d'impayés d'énergie. Sur le plan local, des conventions signées entre l'Etat, EDF et GDF permettent la création de fonds d'aide aux impayés d'énergie. En plus de l'aide à caractère financier qu'ils procurent, ces fonds constituent des dispositifs qui permettent à de multiples partenaires de travailler ensemble. Outre EDF, GDF et l'Etat, le Secours catholique, la caisse d'allocations familiales, le conseil général, les centres communaux d'action sociale peuvent être parties prenantes de ces fonds. Le travail qui est ainsi entrepris permet d'appréhender le problème des impayés d'énergie dans sa globalité et de le considérer comme un élément significatif de la lutte contre l'exclusion sociale. Ainsi, afin de ne pas limiter l'action à la seule prise en charge des impayés, une expérimentation dans le domaine de la prévention à été engagée dans dix départements. Les objectifs poursuivis sont les suivants : faire face aux impayés sous forme de secours ponctuels, permettre d'effectuer dans les logements les aménagements ou modifications nécessaires pour obtenir un meilleur confort de chauffage au moindre coût énergétique et informer sur le mode d'utilisation des différentes formes de chauffage. Par ailleurs, la prise en charge en faveur des familles démunies d'autres sources d'énergie telles que le bois ou le fioul s'effectue dans le cadre du dispositif des crédits pauvreté-précarité inscrits au chapitre 47-21 du ministère des affaires sociales, de la santé et de la ville.
