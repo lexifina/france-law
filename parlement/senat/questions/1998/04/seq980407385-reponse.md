@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407385
+
+- Question : [SEQ980407385](seq980407385.md) — Groupes d'études et de coordination sur les violences urbaines
+
+## Réponse
+
+*Intérieur, JO du 1998-06-04, page 1812*
+
+Réponse. - Les violences urbaines constituent un phénomène de société qui frappe notre pays, mais également de nombreux autres Etats du monde occidental. Depuis mars 1996, siège au niveau de la direction générale de la police nationale, un groupe d'étude et de coordination sur les violences urbaines (GECVU), qui centralise les informations sur le sujet et étudie les préconisations à mettre en uvre pour essayer de contenir ce phénomène. Une circulaire du 11 mars 1998 adressée aux préfets fixe les quatre orientations données à la lutte contre les violences urbaines : 1o Améliorer, d'abord, la connaissance des auteurs et des modalités des violences urbaines par un renforcement de la recherche et de l'exploitation du renseignement ; 2o Amplifier, ensuite, la recherche des situations de flagrant délit et améliorer la rigueur professionnelle des interpellations auxquelles elles conduisent, pour que la justice puisse apporter la réponse appropriée à ce type d'infraction ; 3o Concentrer des moyens d'investigation plus importants sur les banlieues sensibles ; 4o Conforter l'ordre public pour s'opposer aux exactions, assurer la protection des personnes et des biens, et manifester à la population la volonté de l'Etat d'assurer sa mission régalienne. Mais au-delà de cette action indispensable de la police nationale, la réponse aux violences urbaines - comme les causes qui en sont à l'origine - ne peut, en effet, qu'être multiple et variée, faisant appel à de nombreux acteurs dans le cadre d'une stratégie globale. C'est ce que le Gouvernement s'emploie à faire aujourd'hui, notamment avec la signature des contrats locaux de sécurité.
