@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922737
+
+- Question : [SEQ920922737](seq920922737.md) — Insertion des jeunes privés d'emploi
+
+## Réponse
+
+*Travail, JO du 1992-10-29, page 2444*
+
+Réponse. - Conformément à la volonté du législateur, les contrats emploi-solidarité constituent un dispositif d'aide à l'insertion ou à la réinsertion professionnelle permettant de répondre à des besoins collectifs non satisfaits dans le secteur non marchand. De ce fait, ils ne peuvent être conclus avec des entreprises industrielles, commerciales ou agricoles. Toutefois, plusieurs dispositions offrent la possibilité d'un rapprochement entre les bénéficiaires de contrats emploi-solidarité et les entreprises. D'une part, ces contrats peuvent être rompus à tout moment à l'initiative des salariés pour occuper un autre emploi, en application de l'article L.322-4-8 du code du travail. D'autre part, les salariés sous contrat emploi-solidarité qui étaient chômeurs de longue durée au moment de leur embauche sont toujours considérés comme tels pour ce qui concerne l'accès au contrat de retour à l'emploi, comme l'a précisé la circulaire du 30 juillet 1992 sur les nouvelles dispositions relatives à la mise en oeuvre des contrats emploi-solidarité. En outre, une partie de la formation organisée pendant le mi-temps non travaillé peut se dérouler dans une entreprise. Par ailleurs, il existe un certain nombre d'autres dispositifs d'aide à l'insertion et à la formation professionnelle, destinés aux jeunes de moins de vingt-six ans : contrats d'insertion en alternance (contrats d'orientation, de qualification et d'adaptation), contrats d'apprentissage, en particulier. Ces dispositifs permettent, grâce à des mesures d'exonération des charges sociales patronales, de favoriser l'embauche des jeunes par des entreprises, sans qu'il soit nécessaire de modifier le champ d'application des contrats emploi-solidarité.
