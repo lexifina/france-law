@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017795
+
+- Question : [SEQ911017795](seq911017795.md) — Fonds régional d'intervention locale pour l'emploi
+
+## Réponse
+
+*Travail, JO du 1992-07-30, page 1745*
+
+Réponse. - Vous avez appelé mon attention sur la possibilité de départementaliser le fonds régionalisé d'aide aux initiatives locales pour l'emploi (FRILE). Le FRILE a été créé à la fin de l'année 1988 et mis en place au 1er janvier 1989. Fonds interministériel, il a, à l'origine, pour vocation d'engager au niveau régional avec les conseils régionaux des actions ayant une incidence directe sur l'emploi, complémentaires de celles menées directement par les différents ministères. Il s'agit donc bien d'un fonds spécifique qui ne se substitue pas à l'existant et qui vise un partenariat large au niveau régional afin d'aider des opérations qui s'inscrivent dans un projet global de développement du territoire. Cette intervention ne doit pas faire ignorer les autres dispositifs plus proches du terrain. Tel est le cas de la dotation pour la promotion de l'emploi déconcentrée du niveau départemental, gérée par les directions départementales du travail et de l'emploi. Ce dispositif, qui regroupe plusieurs outils comme le fonds départemental pour l'initiative des jeunes (FDIJ), l'aide au chômeur créateur ou repreneur d'entreprise (l'ACCRE), les conventions de promotion de l'emploi, le chèque conseil..., est consacré au soutien des initiatives locales. Il est donc possible de recourir en priorité, au niveau départemental, à cet instrument. C'est dans ce sens d'ailleurs que le ministre du travail, de l'emploi et de la formation professionnelle et le ministre de l'aménagement du territoire ont signé le 30 avril dernier une circulaire précisant l'articulation des interventions du FRILE et des instruments du ministère du travail, de l'emploi et de la formation professionnelle.
