@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411704
+
+- Question : [SEQ040411704](seq040411704.md) — Application des articles 200 et 238 bis du CGI aux dons faits en faveur des établissements d'enseignement français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-06-10, page 1265*
+
+Les contribuables français ont la capacité, au titre des articles 200 et 238 bis du code général des impôts, de verser des dons à des organismes à caractère éducatif, notamment ceux qui ont pour objectif " la diffusion de la culture, de la langue et des connaissances scientifiques françaises ". Les établissements d'enseignement français à l'étranger, qui relèvent de l'AEFE, répondent parfaitement à la définition précitée. De surcroît, leur enseignement s'adresse à la fois à des jeunes compatriotes et à des étrangers fortement motivés par l'apprentissage de notre langue et très souvent intéressés à poursuivre leurs études en France. Les ressources dont dispose l'AEFE pour faire face à sa mission sont très contraintes. Le ministère des affaires étrangères ne peut donc qu'être favorable au développement de ce type de dons, dès lors qu'ils viennent soutenir les politiques de l'Agence ou de tel ou tel établissement de son réseau, en contribuant à la couverture des budgets adoptés par les différentes instances habilitées. Le ministre des affaires étrangères partage ainsi les interprétations de la loi auxquelles il est fait référence, tout comme l'avis du Conseil économique et social du 29 octobre 2003. Pour que les entreprises et les particuliers soient informés de ces dispositions, le ministre des affaires étrangères a d'ores et déjà saisi son collègue le ministre délégué en charge du budget, seul compétent en matière de fiscalité, pour lui demander que la possibilité d'accorder des dons à des établissements relevant de l'AEFE figure parmi les exemples cités dans le paragraphe afférent de la prochaine notice d'explication jointe à la déclaration d'IRPP.
