@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202770
+
+- Question : [SEQ881202770](seq881202770.md) — Revalorisation des indemnités de fonction des magistrats de l'ordre judiciaire
+
+## Réponse
+
+*Justice, JO du 1989-02-09, page 239*
+
+Réponse. - Dans le cadre de vote de la loi de finances pour 1989, le montant de la nécessaire revalorisation des indemnités de fonctions allouées aux magistrats de l'ordre judiciaire, fixée initialement à 22 millions de francs, avait pu être portée à 49,6 millions de francs à l'issue des débats devant l'Assemblée nationale et le Sénat. Cette première étape a permis de porter à environ 24 p. 100 le rapport moyen entre les indemnités versées aux magistrats et leur rémunération de base, qui était antérieurement de l'ordre de 19 p. 100. Ainsi, il a été possible en 1989 de retenir au profit de l'ensemble des magistrats de la Cour de cassation et des chefs de juridiction des taux de 27 ou 28 p. 100 afin de mieux prendre en compte les charges que représentent des fonctions judiciaires de haut niveau et comportant de lourdes responsabilités. Quant au taux indemnitaire le plus faible, il est passé de 13 à 21 p. 100, réalisant une amélioration notable au profit des magistrats concernés. Ces efforts ont favorisé un rapprochement du régime indemnitaire des magistrats de l'ordre judiciaire de celui des agents de l'Etat appartenant à des corps de niveau comparable. L'objectif de la chancellerie est de parvenir à un alignement du montant des indemnités des magistrats sur celui de ces autres corps exerçant des fonctions juridictionnelles. C'est pourquoi le garde des sceaux se félicite que, à la suite des débats budgétaires devant le Parlement sur le projet de loi de finances pour 1989, une dotation de 18 millions de francs ait été prévue à cette fin, traduisant, dans un contexte de rigueur budgétaire, cette préoccupation essentielle de l'amélioration de la rémunération des sujétions imposées aux magistrats.
