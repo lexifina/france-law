@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807422
+
+- Question : [SEQ940807422](seq940807422.md) — Structures d'accueil des jeunes enfants
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-06, page 2396*
+
+Réponse. - L'octroi d'une prestation de service plus faible aux crèches parentales qu'aux crèches collectives est justifié par des coûts plus réduits, permis par le mode de fonctionnement de ces structures. Les crèches parentales représentent la consécration d'un choix éducatif et d'une implication des parents dans la vie de la structure dont la valeur doit être soulignée, en même temps qu'elles sont un signe du dynamisme et de l'inventivité du secteur associatif de notre pays. Cependant, il faut indiquer que la situation difficile ce certaines de ces crèches s'explique principalement par la fréquente faiblesse des concours financiers communaux. La loi sur la famille du 25 juillet 1994 et les mesures qui l'accompagnent traduisent le souci du Gouvernement de respecter la pluralité des aspirations des familles concernant l'accueil de leurs jeunes enfants. Afin de favoriser le développement des crèches et des haltes-garderies, le Gouvernement a décidé d'augmenter de manière conséquente le budget du Fonds national d'action sociale de la CNAF. Cette enveloppe de moyens financiers complémentaires sera de 600 millions de francs en 1995 et atteindra progressivement 3 milliards en 1999, ce qui représente un doublement de la part du budget d'action sociale que la CNAF consacre aujourd'hui à l'accueil des jeunes enfants. Dans cette optique, la CNAF a adressé au ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, un ensemble de propositions qui sont actuellement à l'étude. Pour ce qui concerne plus particulièrement les crèches parentales, il est envisagé de revaloriser sensiblement le prix plafond, ce qui conduira à une augmentation de la prestation de service versée par les CAF.
