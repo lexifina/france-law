@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109779
+
+- Question : [SEQ031109779](seq031109779.md) — Fusion de communes
+
+## Réponse
+
+*Intérieur, JO du 2005-02-03, page 306*
+
+Le morcellement communal qui caractérise le paysage institutionnel français et les conséquences fâcheuses qui en résultent s'agissant du financement et de la gestion des principaux services publics locaux ont conduit à la mise en oeuvre de nombreuses procédures de fusions de communes, intervenues pour la plupart d'entre elles au cours des années soixante-dix. Il apparaît toutefois aujourd'hui que les communes associées pâtissent d'une insuffisante reconnaissance de leurs spécificités et de leur identité. En effet, alors même qu'elles ont joué un rôle pionnier en matière de regroupement de communes à une époque où l'intercommunalité à fiscalité propre ne disposait que d'une faible assise territoriale, elles ne bénéficient aujourd'hui d'aucune représentation spécifique au sein des établissements publics de coopération intercommunale dont elles sont membres. Conscient de cette carence et comme il s'y était engagé lors de l'examen du projet de loi relatif aux libertés et responsabilités locales en première lecture au Sénat, le Gouvernement ne s'est pas déclaré opposé à l'adoption par l'Assemblée nationale d'un amendement permettant aux communes associées de disposer de droit et à titre consultatif d'un délégué au sein des organes délibérants des EPCI auxquels elles appartiennent. Cette disposition, aujourd'hui codifiée à l'article L. 5211-6 du code général des collectivités territoriales, constitue une avancée significative permettant de prendre en compte dans le cadre de l'intercommunalité les intérêts des communes associées sans conduire à une sur-représentation de ces dernières au sein des organes délibérants des EPCI.
