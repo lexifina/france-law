@@ -4,4 +4,4 @@ Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéf
 
 Les souscriptions de droits sociaux effectuées avec le bénéfice de la déductions prévue à l'article 163 septdecies ou de la réduction d'impôt prévue à l'article 199 undecies ne peuvent donner lieu à la réduction visée au premier alinéa.
 
-Le bénéfice de la réduction est réservé aux contribuables qui ne sont pas redevables de l'impôt sur les grandes fortunes pour l'année au titre de laquelle la réduction est demandée.
+Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite ne sont pas pris en compte pour l'application du présent article.

@@ -6,4 +6,4 @@ a. Les droits sociaux souscrits avec le bénéfice de la réduction d'impôt pr�
 
 b. Les actions des sociétés définies à l'article 238 bis HE.
 
-(1) Voir également art. 248 C.
+c. Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite.

@@ -1,6 +1,6 @@
 # Article 92 B bis
 
-Les dispositions de l'article 92 B sont applicables, sous réserve des dispositions de l'article 80 bis, aux gains retirés des cessions d'actions acquises par le bénéficiaire d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales relatifs à l'ouverture d'options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés.
+Les dispositions de l'article 92 B sont applicables, sous réserve des dispositions de l'article 80 bis, aux gains retirés des cessions d'actions acquises par le bénéficiaire d'une option accordée dans les conditions prévues aux articles 208-1 à 208-8, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales relatifs à l'ouverture d'options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés.
 
 Les dispositions du présent article s'appliquent aux cessions d'actions acquises à la suite d'options ouvertes à compter du 1er janvier 1984. Les titulaires d'options ouvertes antérieurement à cette date peuvent également en demander l'application.
 
