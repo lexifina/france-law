@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112947
+
+- Question : [SEQ951112947](seq951112947.md) — Assouplissement de la réglementation applicable aux entreprises de pompes funèbres implantées en milieu rural
+
+## Réponse
+
+*Fonction publique, JO du 1996-02-15, page 340*
+
+Réponse. - La loi no 93-23 du 8 janvier 1993 modifiant le titre VI du livre III du code des communes et relative à la législation dans le domaine funéraire a expressément inclus le transport de corps avant mise en bière dans la mission de service public du service extérieur des pompes funèbres. Le décret no 94-941 du 24 octobre 1994 relatif aux véhicules assurant le transport de corps avant mise en bière a imposé de nouvelles normes techniques aux véhicules spéciaux destinés aux transports de corps avant mise en bière. Ce texte, qui a été élaboré en concertation avec les opérateurs du secteur funéraire, a recueilli un avis favorable du Conseil national des opérations funéraires, instance consultative composée notamment de représentants des communes et de leurs groupements, des régies et des entreprises de pompes funèbres. Le nouveau dispositif qui maintient la procédure d'agrément des véhicules par les services de la préfecture vise à améliorer la qualité sanitaire des conditions d'exercice de la profession funéraire et à renforcer les normes d'hygiène qui s'appliquent à de telles prestations. Afin de permettre un lissage des coûts suscités par la mise en conformité des véhicules, une période transitoire a été prévue pour l'application des nouvelles dispositions réglementaires. Ainsi, les opérateurs funéraires ont un délai de cinq ans à compter de la date de publication du décret susvisé pour mettre leurs véhicules en conformité avec les prescriptions relatives au système réfrigérant prévu à l'article 3 de ce même décret.
