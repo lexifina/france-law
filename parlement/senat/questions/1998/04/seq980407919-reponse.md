@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407919
+
+- Question : [SEQ980407919](seq980407919.md) — Taxe sur les logements vacants
+
+## Réponse
+
+*Logement, JO du 1998-11-05, page 3554*
+
+Réponse. - La taxe sur certains logements vacants ne porte pas atteinte au droit de la propriété, lequel, à l'instar du droit au logement, a une valeur constitutionnelle. Tout d'abord, la taxe ne s'appliquera que dans les communes appartenant à des zones d'urbanisation continue de plus de deux cent mille habitants où existe un déséquilibre marqué entre l'offre et la demande de logements, au détriment des personnes à revenus modestes et des personnes défavorisées, qui se concrétise par le nombre élevé de demandeurs de logement par rapport au parc locatif et la proportion anormalement élevée de logements vacants par rapport au parc immobilier existant. La taxe ne sera due que pour les logements vacants depuis au moins deux années consécutives, au 1er janvier de l'année d'imposition. Ainsi encadrée, cette nouvelle contribution ne visera que les situations de vacance prolongée dans des zones où la demande de logements est particulièrement forte. En outre, la taxe ne sera pas due en cas de vacance indépendante de la volonté du contribuable. Le Conseil constitutionnel, dans sa décision nº 98-403 DC du 29 juillet 1998, a explicité cette notion de vacance subie en précisant que ne sauraient être assujettis des logements " ayant vocation, dans un délai proche, à disparaître ou à faire l'objet de travaux dans le cadre d'opérations d'urbanisme, de réhabilitation ou de démolition, ou les logements mis en location ou en vente au prix du marché et ne trouvant pas preneur ". Enfin, dans les cas où le logement vacant demeure meublé, de manière à permettre son occupation occasionnelle, il donne lieu au paiement de la taxe d'habitation et non de la taxe sur les logements vacants, les deux contributions étant exclusives l'une de l'autre.
