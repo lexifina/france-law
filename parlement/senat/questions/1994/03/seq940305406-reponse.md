@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305406
+
+- Question : [SEQ940305406](seq940305406.md) — Réglementation des titres du mouvement des vins vendus
+
+## Réponse
+
+*Budget, JO du 1994-12-08, page 2898*
+
+Réponse. - La question posée a trait aux formalités à la circulation qui sont exigées par l'article 443 du code général des impôts pour tout déplacement de vin. Ces formalités consistent en la production obligatoire d'un titre de mouvement appelé " congé " lorsque les récipients ne sont pas revêtus de capsules réprésentatives des droits indirects sur les vins. La fédération des caves coopératives des Bouches-du-Rhône juge ces formalités très contraignantes et inadaptées aux réalités économiques d'aujourd'hui et demande, en conséquence, leur suppression. La direction générale des douanes et droits indirects, qui gère les contributions indirectes depuis le 1er janvier 1993, a d'ailleurs pris conscience de la nécessité d'une réforme progressive de ce secteur. La réforme de cette réforme de fond comprend, en particulier, l'allégement des formalités à la circulation pour les ventes de vin aux particuliers réalisées par les viticulteurs ou les caves coopératives, dans la limite de quatre-vingt-dix litres par acheteur. Une étude préalable approfondie est toutefois apparue nécessaire afin de concilier les impératifs juridiques et de contrôle avec les demandes des opérateurs tout en évitant la constitution de circuits de fraude fiscale ou économique. Il convient en effet d'empêcher que les viticulteurs ou les caves coopératives, par le biais de cette simplification des formalités, ne se soustraient à leur obligations communautaires et nationales telles que les distillations obligatoires. Compte tenu de ces éléments, l'adoption d'une mesure législative visant à simplifier les titres de mouvement qui sont délivrés lors des ventes de vin aux particuliers devrait être prochainement proposée au Parlement.
