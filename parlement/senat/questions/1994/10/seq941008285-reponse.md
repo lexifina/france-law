@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008285
+
+- Question : [SEQ941008285](seq941008285.md) — Exemption de droit de succession pour la transformation de bureaux en logement
+
+## Réponse
+
+*Budget, JO du 1995-03-16, page 628*
+
+Réponse. - Le caractère incitatif de la mesure proposée par l'honorable parlementaire paraît pouvoir être atteint dans le cadre de la législation relative à l'impôt sur le revenu. A cet égard, l'article 33 de la loi no 94-624 du 21 juillet 1994 relative à l'habitat a étendu le champ d'application de la réduction d'impôt pour investissement immobilier locatif aux travaux de transformation en logements de locaux vacants au 1er janvier 1994. Le Gouvernement a entendu d'ailleurs poursuivre les efforts entrepris en la matière, puisqu'il a proposé au Parlement, qui l'a accepté, dans le cadre du projet de loi de finances pour 1995, une extension du champ d'application de cette mesure. En effet, la condition de vacance au 1er janvier 1994 est désormais supprimée et le dispositif bénéficie à toutes les transformations en logements de locaux précédemment affectés à un autre usage réalisées à compter de cette date. Cela étant, en matière de droits d'enregistrement, il est admis que l'exonération partielle prévue en faveur des constructions nouvelles aux articles 793-2-4o, 793 ter et 1055 bis du code général des impôts s'applique aux opérations portant sur des immeubles ayant fait l'objet d'une rénovation lourde ou d'une réhabilitation exceptionnelle, achevés avant le 1er juillet 1994 et acquis entre le 1er juin 1993 et le 31 décembre 1994 sous le régime de la T.V.A. immobilière. Cette exemption est donc susceptible de s'appliquer à certaines opérations de transformation de bureaux en logements dans la mesure où l'acquéreur n'a pas bénéficié, par ailleurs, de la réduction d'impôt précitée en faveur de l'investissement immobilier locatif. Ces précisions sont de nature à répondre aux préoccupations exprimées.
