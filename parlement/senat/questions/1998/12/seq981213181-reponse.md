@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213181
+
+- Question : [SEQ981213181](seq981213181.md) — Contrôle technique des véhicules : meilleure information des consommateurs sur les résultats de l'analyse des gaz d'échappement
+
+## Réponse
+
+*Équipement, JO du 1999-06-10, page 1969*
+
+Réponse. - Il convient d'abord de rappeler que, depuis le 1er janvier 1992, les voitures particulières et les utilitaires légers âgés de plus de 4 ans sont soumis à un contrôle technique périodique au cours duquel sont mesurées les émissions polluantes et, lorsque ces émissions excèdent les seuils réglementaires, une contre-visite après réglage ou réparation est imposée. Ce que souhaite l'honorable parlementaire est donc déjà réalisé depuis plusieurs années. Les émissions de monoxyde de carbone ne sont mesurées lors du contrôle technique que sur les véhicules à essence, et leur taux dans les gaz d'échappement est surtout lié à la technologie du moteur, selon qu'il est ou non catalysé et, s'il n'est pas catalysé, selon la nature et le réglage de la carburation. En première analyse, ces taux ne dépendent pas du choix du carburant utilisé parmi les essences disponibles dans le commerce. Le benzène est un hydrocarbure qui n'est pas mesurable lors des contrôles techniques et qui ne se trouve dans les gaz d'échappement qu'à dose infinitésimale. La seule façon de réduire la teneur en benzène dans l'air est de limiter la teneur en benzène de l'essence. Dans ces conditions, les services techniques du ministère sont dubitatifs quant à une corrélation entre deux paramètres, dont l'un est mesuré et l'autre non, et qui mesurent deux produits dont l'un est le résultat de la combustion et l'autre un imbrûlé du carburant. Le ministère leur a toutefois demandé d'approfondir ce problème avec la Commission de la sécurité des consommateurs.
