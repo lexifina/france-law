@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136348
+
+- Question : [SEQ011136348](seq011136348.md) — Enseignement professionnel : lutte contre les discriminations raciales
+
+## Réponse
+
+*Enseignement professionnel, JO du 2002-02-07, page 370*
+
+Le suivi par le ministère de l'emploi et de la solidarité (direction de la population et des migrations) du dispositif d'appel gratuit " 114 " qu'il a mis en place pour les victimes de discrimination raciale n'a pas juqu'à présent établi de bilan spécifique pour les lycées professionnels en 2000-2001. Une enquête générale réalisée de mai 2000 à octobre 2001 montre que la part des jeunes appelants est en progression, passant de 11 % en mai 2000 à 25 % en mars 2001, la moyenne s'établissant à 20 % des signalements depuis l'ouverture du numéro vert en mai 2000. Les signalements concernent prioritairement l'accès aux lieux de loisirs (11 %), et ciblent beaucoup moins que les adultes les difficultés d'accès à l'emploi ou à la formation professionnelle (3 %). Les mineurs appellent essentiellement pour des questions liées à leur scolarité (rupture scolaire, difficultés d'intégration dans l'établissement). Ils mettent avant tout en cause les institutions publiques et privées et rarement les individus. L'éducation nationale participe à ce dispositif, puisque le ministre et le ministre délégué sont cosignataires d'une circulaire interministérielle du 30 octobre 2001 relative à la relance et à la consolidation du dispositif 114-CODAC (commissions départementales d'accès à la citoyenneté). Dans ce cadre, l'éducation nationale s'est engagée à renforcer la communication sur ce dispositif " 114 " auprès de ses publics scolaires, notamment ceux des lycées professionnels. Elle ne manquera pas de faire un suivi et un bilan particuliers de ces actions dans ses établissements.
