@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700792
+
+- Question : [SEQ880700792](seq880700792.md) — Répartition des compétences : transfert de la charge des cotisations d'assurance personnelle
+
+## Réponse
+
+*Solidarité, JO du 1988-11-17, page 1297*
+
+Réponse. - Les lois n° 82-233 du 2 mars 1982 et n° 83-8 du 7 janvier 1983 ont fixé les principes de base relatifs à tous les transferts de compétences au profit des collectivités territoriales, notamment celui de l'intégralité de la compensation financière des charges transférées par l'Etat, en application duquel les ressources transférées sont équivalentes aux dépenses effectives de l'Etat à la date du transfert de compétences. Les modalités financières de la prise en charge par les départements depuis le 1er janvier 1987 de l'assurance personnelle ne sauraient y faire exception. Les transferts de compétences s'accompagnent, par ailleurs, du transfert des services extérieurs de l'Etat ou parties de services extérieurs correspondants. C'est ainsi que le transfert de compétences dans le domaine de l'action sociale et de la santé a donné lieu à la conclusion dans tous les départements d'une convention de partage des services de la D.D.A.S.S., afin de déterminer enparticulier la répartition des agents. Ces conventions ne paraissent pas toutefois devoir être modifiées à l'occasion du transfert aux départements de l'assurance personnelle. La charge de travail liée à la gestion de la nouvelle compétence transférée paraît en effet relativement faible. Elle équivaut rarement à celle d'un agent à temps plein. Au demeurant, une révision des conventions impliquerait de prendre également en considération et de manière systématique les tâches nouvelles qui incombent à l'Etat, notamment dans le cadre de la loi n° 86-17 du 6 janvier 1986, du décret n° 86-565 du 14 mars 1986 et de la loi n° 85-1098 du 11 octobre 1985.
