@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501132
+
+- Question : [SEQ930501132](seq930501132.md) — Statut des psychologues scolaires
+
+## Réponse
+
+*Enseignement supérieur, JO du 1993-08-26, page 1468*
+
+Réponse. - Les questions soulevées par l'honorable parlementaire appellent un certain nombre de précisions. En premier lieu, les psychologues de l'éducation nationale bénéficient d'une protection statutaire. Les psychologues scolaires sont des fonctionnaires titulaires d'un corps d'enseignement du premier degré. Les conseillers d'orientation-psychologues sont régis, pour le déroulement de leur carrière, par le décret no 91-290 du 20 mars 1991 relatif au statut particulier des directeurs de centres d'information et conseillers d'orientation-psychologues. En second lieu, le choix de créer deux diplômes d'Etat particuliers à l'éducation nationale pour le recrutement des psychologues de ce département ministériel, et non pas celui de prévoir un recrutement au niveau du DESS en psychologie, résulte du constat de l'existence d'une spécificité de la psychologie en milieu scolaire qui nécessite une formation et un déroulement de carrière adaptés. Et pour le diplôme d'Etat de psychologie scolaire, le choix d'un recrutement interne au corps des enseignants du premier degré s'explique par la volonté de ne pas fissurer la cohésion de l'équipe pédagogique au sein de laquelle oeuvrent les psychologues scolaires. En dernier lieu, l'arrêté du 14 janvier 1993 désignant les fonctions dans lesquelles les fonctionnaires et agents publics peuvent faire usage du titre de psychologue, paru au Journal officiel du 28 mars 1993, a entendu permettre aux instituteurs, professeurs des écoles et PEGC nommés dans des fonctions de psychologues scolaires ainsi qu'aux conseillers d'orientation-psychologues, recrutés antérieurement à la création des deux diplômes d'Etat mentionnés précédemment, de faire usage du titre de psychologue dans l'exercice de leurs fonctions.
