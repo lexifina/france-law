@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900510007
+
+- Question : [SEQ900510007](seq900510007.md) — Mise en oeuvre d'un " label " multicritères
+
+## Réponse
+
+*Consommation, JO du 1990-08-23, page 1811*
+
+Réponse. - Les travaux de mise en place d'un label éco-produits sont déjà largement entamés en France. A la suite du rapport de M. le député Alain Brune à la commission de la production et des échanges de l'Assemblée nationale, un groupe de travail interministériel a conclu à la possibilité et à la nécessité d'une mise en oeuvre rapide. Les ministres de l'industrie et de l'aménagement du territoire, de l'environnement et de la consommation ont demandé à l'Afnor de faire des propositions pour la mise en oeuvre rapide des propositions du rapport de M. Brune. L'association française de normalisation est prête à élaborer notamment avec le laboratoire national des essais, les premiers cahiers des charges expérimentaux. Il est ressorti des premiers travaux du comité consultatif, présidé par M. Alain Brune, chargé d'apprécier les propositions de l'Afnor que le choix d'un label environnement multicritères, qui permet une évaluation globale du produit, semble s'imposer pourdeux raisons essentielles : le label éco-produits doit présenter des garanties réelles pour le consommateur. En effet, au motif de valoriser une amélioration d'un élément d'un produit, il ne peut être question d'avaliser une démarche aboutissant à présenter sous ce label des produits non protecteurs de l'environnement pour d'autres caractéristiques ; le label éco-produit doit être compatible avec les orientations communautaires, pour pouvoir bénéficier d'une reconnaissance de nos partenaires européens. Or, les travaux en cours, à Bruxelles s'orientent vers un label multicritères couvrant toute la durée de vie des produits de leur fabrication jusqu'à leur destruction.
