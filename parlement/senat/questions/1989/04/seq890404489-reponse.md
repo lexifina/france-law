@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404489
+
+- Question : [SEQ890404489](seq890404489.md) — Nature alimentaire des créances salariées
+
+## Réponse
+
+*Justice, JO du 1989-09-07, page 1461*
+
+Réponse. - En matière prud'homale, le pouvoir réglementaire a prévu, à une date récente, décret du 15 décembre 1982, une exécution provisoire de droit beaucoup plus large que celle dont bénéficient les jugements rendus par les autres tribunaux de l'ordre judiciaire. C'est ainsi qu'en vertu de l'article R. 516-18 du code du travail, les décisions du bureau de conciliation accordant le versement de provisions sur les salaires et accessoires du salaire, les commissions et diverses indemnités - notamment de congés payés, de préavis et de licenciement - sont exécutoires de droit dans la limite de six mois de salaire ; de leur côté, les jugements rendus par les bureaux de jugement ordonnant le paiement de sommes au titre des rémunérations et indemnités mentionnées à l'article R. 516-18, sont, en vertu de l'article R. 516-37 du code du travail, eux aussi exécutoires de droit à titre provisoire dans la limite maximum de neuf mois de salaire. Cette situation, justifiée par la nature des créances salariales mentionnées aux articles précités du code du travail, mais dérogatoire au principe de l'effet suspensif de l'appel, rend difficile d'envisager l'élargissement, souhaité par l'honorable parlementaire, de l'exécution provisoire de droit à l'ensemble des décisions prud'homales qui comprennent également des condamnations à des dommages et intérêts. Par ailleurs, les dispositions du nouveau code de procédure civile ne permettent pas, en cas d'appel, d'obtenir l'arrêt de l'exécution provisoire lorsque celle-ci est de droit. Enfin, il n'existe pas de statistiques particulières permettant de connaître l'évolution des demandes à exécution provisoire en matière prud'homale.
