@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Session extraordinaire. Liquidation de la pension de retraite revenant à Marie Jeanne Serverolles veuve de Jean Paul Escribe ancien employé au service des droits de place p. 4
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1919-06-01
+- Objet : Session extraordinaire. Liquidation de la pension de retraite revenant à Marie Jeanne Serverolles veuve de Jean Paul Escribe ancien employé au service des droits de place p. 4
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
