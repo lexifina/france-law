@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040211011
+
+- Question : [SEQ040211011](seq040211011.md) — Déremboursement des médicaments homéopathiques
+
+## Réponse
+
+*Santé, JO du 2004-03-18, page 662*
+
+L'attention du ministre de la santé, de la famille et des personnes handicapées, est appelée sur la baisse de 65 % à 35 % du taux de remboursement par l'assurance maladie des produits homéopathiques. Les arguments économiques, financiers, scientifiques et médicaux avancés en faveur du maintien du remboursement au taux initial appellent les réponses suivantes. D'un point de vue économique, le risque que la baisse du taux de remboursement ne génère un transfert des prescriptions homéopathiques vers des prescriptions plus coûteuses n'a jamais été démontré lors de baisses de taux de remboursement antérieures, du fait principalement d'une couverture complémentaire maladie largement étendue dans notre pays. De plus, les assurés qui ne disposeraient pas de couverture complémentaire n'auraient aucun intérêt financier à se tourner vers des produits allopathiques dont le taux de remboursement, s'agissant de maladies bénignes, est dans la plupart des cas le même que pour l'homéopathie. Sur un plan financier, il est également indiqué que cette mesure serait pénalisante pour les patients qui, justement, coûtent le moins cher à l'assurance maladie. Sur ce point, il faut rappeler que le choix du taux de remboursement est fixé en fonction de critères médicaux. Sur le plan scientifique et médical, l'homéopathie n'a fait l'objet d'aucune évaluation scientifique avant d'être admise au remboursement. En l'absence d'analyses scientifiques de la performance des produits, il était cohérent de s'inscrire dans la règle qui prévoit un taux de prise en charge à 35 % pour les médicaments n'intervenant pas dans une pathologie grave, cas le plus fréquent pour les médicaments homéopathiques.
