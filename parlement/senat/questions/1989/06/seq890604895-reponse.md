@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604895
+
+- Question : [SEQ890604895](seq890604895.md) — Acheminement des colis d'aide d'urgence vers le tiers monde
+
+## Réponse
+
+*Équipement, JO du 1989-12-07, page 2032*
+
+Réponse. - Dans sa question n° 4895 du 1er juin 1989 adressée au ministre de l'équipement, du logement, des transports et de la mer et transmise, pour attribution, au ministre de la coopération et du développement, l'honorable parlementaire demande les raisons qui auraient motivé la suppression de l'acheminement par fer et par mer de l'aide d'urgence à destination du tiers-monde. Le ministre de la coopération et du développement a l'honneur de préciser à l'honorable parlementaire qu'aucune décision n'a été prise par les autorités françaises tendant à privilégier ou à supprimer, par principe, un mode de transport particulier, pour le bon acheminement de cette aide. De nombreuses aides d'urgence ont, encore tout récemment, été ainsi envoyées par mer, à Djibouti et au Sénégal par exemple. L'aide d'urgence à destination de l'Arménie a été, à la suite du tremblement de terre, envoyée pour l'essentiel par chemin de fer, par route et par voie maritime. Il est exactque le recours au mode de transport aérien est assez fréquent, mais il se justifie par une double nécessité : acheminer rapidement des biens qui - par nature - doivent arriver sans délais à leur lieu de destination ; acheminer ces biens en des endroits où, souvent, n'existe aucun moyen de transport, ou aucun moyen fiable. La poursuite de l'effort humanitaire de la France demeure une priorité du Gouvernement puisque cette année environ 300 millions de francs ont été engagés par l'Etat dans des opération qui ont permis d'apporter un secours rapide à des populations touchées par une catastrophe naturelle ou par un conflit.
