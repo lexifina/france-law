@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108649
+
+- Question : [SEQ871108649](seq871108649.md) — Taux de la taxe additionnelle de droit au bail
+
+## Réponse
+
+*Budget, JO du 1988-01-21, page 85*
+
+Réponse. -L'article 1635 A du code général des impôts assujettit à la taxe additionnelle au droit de bail, au taux de 3,5 p. 100, les logements achevés avant le 1er septembre 1948, et au taux de 0,5 p. 100, les logements achevés entre le 1er septembre 1948 et le 31 décembre 1975. Cette distinction est justifiée par la différence dans le régime des aides à l'amélioration de l'habitat que peuvent obtenir les propriétaires des logements. Le propriétaire bailleur d'un logement construit avant le 1er septembre 1948 peut en effet bénéficier d'une subvention destinée à financer l'ensemble des travaux d'amélioration du confort dès lors que le logement répond aux critères de recevabilité définis par le conseil d'administration de l'Agence nationale pour l'amélioration de l'habitat (A.N.A.H.) tandis que le propriétaire-bailleur d'un logement achevé entre le 1er septembre 1948 et le 31 décembre 1975 ne peut bénéficier d'une subvention que pour les seuls travaux destinés a` économiser l'énergie. L'article 42 de la loi de finances pour 1988, qui supprime l'affectation du produit de la taxe additionnelle au droit de bail au profit de l'A.N.A.H., n'apporte sur ce point aucune modification au régime existant. S'agissant du problème plus particulier soulevé par l'honorable parlementaire des propriétaires de maisons anciennes entièrement restaurées, il convient de souligner que, dès lors que les transformations apportées par les travaux sont susceptibles d'assimiler les immeubles réhabilités à une construction nouvelle, la taxe additionnelle au droit de bail n'est plus exigible sur les locations d'immeubles construits avant 1948, sous réserve que les travaux d'amélioration n'aient pas été financés avec le concours de l'A.N.A.H.
