@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606800
+
+- Question : [SEQ940606800](seq940606800.md) — Minoration des salaires des adultes handicapés employés dans les CAT
+
+## Réponse
+
+*Affaires sociales, JO du 1994-09-15, page 2255*
+
+Réponse. - Les ateliers protégés bénéficient d'une subvention d'investissement versée par le ministère du travail, de l'emploi et de la formation professionnelle. Cette subvention est, depuis plusieurs années, dans un contexte budgétaire difficile, en progression. Elle a atteint en 1994, en loi de finances initiale, 25 millions de francs en crédits de paiement, incluant 10 millions de francs de mesures nouvelles. Il s'est agi là d'une progression exceptionnelle qui marque l'intérêt du Gouvernement pour les investissements en ateliers protégés. Cela a permis d'accompagner constamment la création de places en ateliers protégés qui atteint 3 600 places dans les quatre dernières années, assurant ainsi, dans une large mesure, l'emploi des personnes handicapées. Un audit général des ateliers protégés permettra de disposer d'éléments précis sur les modalités et les besoins d'investissement des ateliers protégés. En ce qui concerne les centres d'aide par le travail, leur situation financière est hétérogène, sans que la nature du handicap du public accueilli ou de l'activité de production ne le justifie. Certains établissements se trouvent ainsi dans une situation financière plus difficile que d'autres. La priorité est donc actuellement de corriger les situations particulièrement inéquitables. Cela étant, la dotation budgétaire destinée à financer les dépenses de fonctionnement des centres d'aide par le travail s'élève à 4 889 859 225 francs en 1994, dont 110 millions de francs destinés à la création de 2 000 places nouvelles. D'ores et déjà, le Gouvernement a pris l'engagement de reconduire en 1995 cette mesure et de créer 2 000 places supplémentaires et de dégager le financement nécessaire dans le cadre du projet de loi de finances.
