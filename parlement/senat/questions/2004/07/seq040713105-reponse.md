@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713105
+
+- Question : [SEQ040713105](seq040713105.md) — Licenciements des cadres âgés
+
+## Réponse
+
+*Relations du travail, JO du 2004-10-21, page 2408*
+
+L'attention du Gouvernement a été appelée sur les licenciements pour faute grave de cadres âgés de cinquante ans. L'honorable parlementaire observe que ces licenciements sont souvent suivis de négociations entre employeurs et salariés sur le dédommagement de ces derniers, privés, du fait de la faute grave alléguée, d'indemnités de licenciement. Il regrette que cette méthode, utilisée par certaines sociétés, leur permette de se soustraire aux obligations légales concernant le licenciement de salariés de plus de cinquante ans. Il importe dans de telles situations de rappeler que les salariés peuvent contester en justice le bien-fondé de leur licenciement malgré le versement d'une indemnité transactionnelle. Une transaction est nulle lorsqu'elle est destinée à réaliser une fraude à la loi ; le salarié n'est donc pas lié par l'engagement qu'il a pris de ne pas ester en justice. Il peut dès lors, aux termes de l'article L. 122-14-4 du code du travail, si le juge conclut à l'absence de cause réelle et sérieuse, se voir proposer la réintégration ou allouer une indemnité dont le montant ne peut être inférieur aux salaires des six derniers mois. Ce même article prévoit par ailleurs la possibilité de condamner l'employeur au remboursement des indemnités ASSEDIC perçues par son salarié en raison de ce licenciement sans cause réelle et sérieuse. Cet article prévoit enfin, si la faute grave ou lourde n'est pas reconnue, la transmission aux organismes concernés de la copie du jugement. Ceci permet notamment de procéder au recouvrement de la contribution Delalande non versée au titre du licenciement pour faute grave ou lourde de salariés de plus de cinquante ans.
