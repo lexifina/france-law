@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414863
+
+- Question : [SEQ960414863](seq960414863.md) — Augmentation de la redevance de frais de garderie dans le cadre du régime forestier
+
+## Réponse
+
+*Agriculture, JO du 1997-02-06, page 361*
+
+Réponse. - L'honorable parlementaire a fait part de l'inquiétude des communes forestières des Landes sur l'augmentation des frais de garderie à la suite du vote de la loi de finances pour 1996. Le Gouvernement a été sensible aux nombreuses interventions qui lui sont parvenues sur le projet de loi de finances qui prévoyait une hausse plus substantielle, et il s'est employé à faire émerger une solution de compromis : le ministère de l'agriculture, de la pêche et de l'alimentation a été conduit à effectuer un redéploiement budgétaire à hauteur de 80 millions de francs pour l'année 1996. La part que l'Etat conserve dans le financement du régime forestier reste encore supérieur à 80 %. De plus dans la loi de finances pour 1997, le versement compensateur a été établi à 851 millions de francs (675 MF en 1996). Il convient de souligner que la structure du budget de l'office national des forêts pour 1996, n'est pas, dans les grandes masses, différente de celle des autres années : le chiffre d'affaires total de l'établissement devrait, malgré une baisse des prix sur certains bois, atteindre les 3,5 milliards de francs. Toutefois, contrairement à 1995, l'exercice 1996 sera déficitaire et l'établissement devra mobiliser une partie de ses réserves financières pour équilibrer ses comptes. La structure détaillée des comptes de l'office national des forêts, le bilan de ses activités dans la gestion des forêts ou des dunes pour le compte de l'Etat (1,754 million d'hectares) et pour le compte des collectivités (2,665 millions d'hectares), ainsi que la répartition de ses personnels (7 130 fonctionnaires, 5 663 ouvriers) font l'objet d'un rapport annuel remis chaque année au Parlement.
