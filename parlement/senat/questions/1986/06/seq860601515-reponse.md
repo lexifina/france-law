@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601515
+
+- Question : [SEQ860601515](seq860601515.md) — Camping sauvage
+
+## Réponse
+
+*Collectivités locales, JO du 1986-08-28, page 1210*
+
+Réponse. -Aux termes de l'article L. 233-31 du code des communes, "la taxe de séjour est établie sur les personnes qui ne sont pas domiciliées dans la commune et n'y possèdent pas une résidence à raison de laquelle elles sont passibles de la taxe d'habitation ". En conséquence, les personnes non imposables à la taxe d'habitation et non domiciliées dans la commune qui pratiquent le camping en dehors des terrains aménagés sont bien redevables de la taxe de séjour dans les mêmes conditions que les personnes séjournant dans des campings aménagés. Toutefois, des difficultés pratiques se poseront pour assurer dans de telles circonstances le recouvrement de cette taxe. En effet, l'article L. 233-42 du code des communes prévoit que la taxe est perçue par l'intermédiaire des logeurs, hôteliers et propriétaires et versée par eux, sous leur responsabilité dans la caisse du receveur municipal. Comme dans le cas du camping en dehors des terrains aménagés, il est fréquent que l'accord des propriétaires n'ait pas été expressément donné, leur responsabilité dans le recouvrement de la taxe s'avérera difficile à établir dans ces conditions. En ce qui concerne la situation de ces personnes au regard de la taxe d'enlèvement des ordures ménagères, elle résulte des dispositions de l'article 1520 du code général des impôts. Aux termes de cet article, la taxe d'enlèvement des ordures ménagères " porte sur toutes les propriétés soumises à la taxe foncière sur les propriétés bâties... ". Il en résulte que les personnes pratiquant le camping sauvage ou sur un terrain leur appartenant se trouve situées en dehors du champ d'application de cette taxe.
