@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104097
+
+- Question : [SEQ971104097](seq971104097.md) — Mesures incitatives à la reprise d'une activité
+
+## Réponse
+
+*Emploi, JO du 1998-06-18, page 1950*
+
+Réponse. - Il existe aujourd'hui des mécanismes d'intéressement pour les bénéficiaires des différents dispositifs de minima sociaux et d'indemnisation du chômage. Cependant, le passage des bénéficiaires de ces minima à l'emploi demeure difficile, parce que, d'une part, la ressource supplémentaire apportée par une activité salariée peut être neutralisée par la réduction de l'allocation (c'est le cas notamment de l'allocation de parent isolé), et qu'il existe, d'autre part, des coûts (garde d'enfant, transport, frais professionnels divers) auxquels le salarié doit faire face. De ce fait, le gain net procuré par un retour à l'emploi peut être faible, voire nul. Par ailleurs, les mécanismes d'incitation à l'activité mis en place sont complexes et rendent parfois difficile à calculer le niveau des ressources dont vont disposer les personnes bénéficiaires de minima sociaux qui s'apprêtent à reprendre un emploi. Pour remédier à cette situation, le Gouvernement a décidé, dans son programme de prévention et de lutte contre les exclusions, de simplifier et d'harmoniser les mécanismes d'intéressement des différents dispositifs de minima sociaux. Désormais, les bénéficiaires de l'allocation spécifique de solidarité, du revenu minimum d'insertion et de l'allocation de parent isolé qui reprennent une activité faiblement rémunérée pourront cumuler pendant un an, dans certaines limites, leur allocation et leur salaire. Ainsi, une personne en ASS reprenant un emploi au SMIC à mi-temps cumulera intégralement (dans la limite de 50 % du SMIC) ce salaire avec son allocation pendant quatre-vingt-dix jours d'activité professionnelle, à 50 % pendant cent quatre ving jours suivant l'activité et à 25 % pendant les quatre-vingt-dix derniers jours (sous certaines conditions).
