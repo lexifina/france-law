@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107823
+
+- Question : [SEQ900107823](seq900107823.md) — Conditions acoustiques dans les établissements publics
+
+## Réponse
+
+*Environnement, JO du 1990-04-05, page 721*
+
+Réponse. - La mauvaise qualité acoustique des locaux et bâtiments publics ainsi que leur sensibilité aux bruits extérieurs posent de plus en plus de problèmes aux collectivités locales. Dans le cadre des actions pilotes menées avec nombre de villes, le secrétariat d'Etat chargé de l'environnement a pris la mesure des difficultés rencontrées. Il a mis en chantier, avec d'autres départements ministériels, l'élaboration de documents méthodologiques destinés à donner aux services locaux de l'Etat et aux collectivités locales les éléments nécessaires à une bonne prise en compte de l'acoustique dans le rattrapage des défauts de bâtiments existants et dans la réalisation de nouvelles constructions. Ainsi, dès 1988, le centre de documentation pédagogique de Toulouse a publié, avec l'aide du secrétariat d'Etat chargé de l'environnement, le document " Réduire le bruit en milieu scolaire " destiné à sensibiliser les élus et les gestionnaires. En 1989, deux guides de recommandations techniques ont été éditées, l'un avec le secrétariat d'Etat à la jeunesse et aux sports : " Maîtrise de l'acoustique dans les équipements de sports ", et l'autre avec le ministère de l'éducation nationale : " L'acoustique des locaux scolaires ". Enfin, pour inciter les collectivités locales soucieuses d'améliorer leurs bâtiments publics, en particulier ceux du milieu scolaire, le secrétariat d'Etat chargé de l'environnement est amené à participer aux études préalables de diagnostic et à des travaux de rattrapage. Il soutient les activités du centre d'information et de documentation sur le bruit consacrées aux campagnes d'information et de sensibilisation menées en milieu scolaire. De plus, il n'exclut pas d'avoir à réglementer dans ce domaine.
