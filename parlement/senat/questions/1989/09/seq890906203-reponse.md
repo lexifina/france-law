@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906203
+
+- Question : [SEQ890906203](seq890906203.md) — Qualité de l'eau en Franche-Comté
+
+## Réponse
+
+*Environnement, JO du 1990-01-04, page 32*
+
+Réponse. - En différentes régions du territoire, on a observé des phénomènes d'eutrophisation des rivières, imputables en partie à la sécheresse estivale. Ces phénomènes ont parfois rendu difficile la production d'eau potable : des mesures ont été prises par les autorités locales, maires et préfets, et par les responsables des services de distribution d'eau pour que les populations continuent d'être alimentées avec une eau ne présentant pas de risques pour la santé publique. Mais on ne peut imputer à la seule sécheresse ces phénomènes qui ont une origine plus chronique : depuis plusieurs années, les services chargés de suivre l'évolution de la qualité des eaux superficielles et les agences de bassin observent un accroissement de l'eutrophisation des eaux dû aux apports en azote et phosphore. C'est pourquoi le secrétariat d'Etat chargé de l'environnement a demandé aux préfets d'établir des cartes départementales de zones à risques, du point de vue de l'eutrophisation, et d'élaborer des programmes départementaux pour lutter contre cette nuisance. Ces programmes comprendront en particulier la mise en place d'installations de déphosphatation ou de dénitrification des eaux usées domestiques ou industrielles partout où cela s'avérera nécessaire. Par ailleurs, depuis 1984, le secrétariat d'Etat chargé de l'environnement et le ministère de l'agriculture et de la forêt mettent en oeuvre un programme d'information et de sensibilisation du monde agricole sur la fertilisation raisonnée des sols et l'utilisation de pratiques culturales adaptées. La lutte contre la pollution d'origine agricole devrait être une des priorités des futurs programmes d'intervention des agences de bassin, ce qui rendra sans doute nécessaire l'extension de la redevance de pollution aux nitrates.
