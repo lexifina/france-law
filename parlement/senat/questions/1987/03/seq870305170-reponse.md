@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305170
+
+- Question : [SEQ870305170](seq870305170.md) — Refonte du code rural
+
+## Réponse
+
+*Agriculture, JO du 1987-05-28, page 843*
+
+Réponse. -Comme le souligne l'honorable parlementaire, certains livres du code rural ont déjà été codifiés par décrets (livres IV, V, VIII). Par ailleurs, les livres I du code rural relatif à l'aménagement de l'espace rural et équipement et III relatif à l'aménagement des structures agricoles, feront l'objet d'une actualisation pour y intégrer les textes récents concernant l'aménagement foncier. Le livre II relatif à la protection de la nature contient les dispositions législatives et réglementaires visant le titre Ier : protection de la faune et de la flore ; le titre II : chasse ; le titre III : pêche en eau douce et gestion des ressources piscicoles, et le titre IV : espace naturel. Ce livre a été examiné par la commission supérieure de codification et de simplification des textes législatifs et réglementaires. La nature juridique des dispositions de ce livre du code rural a été examinée par le Conseil constitutionnel et appréciée dans sa décision n° 87-149 du 20 février 1987 (Journal officiel du 26 février 1987). Les décrets de codification correspondants devraient être examinés par le Conseil d'Etat dans les prochains mois. Les travaux relatifs au livre VI concernant la Caisse nationale de crédit agricole n'apparaissent pas opportuns dans l'immédiat en raison de l'éventuel nouveau statut de la Caisse nationale. Les livres VII visant les dispositions sociales et IX relatif aux produits agricoles et alimentaires ont fait l'objet d'un inventaire des textes à codifier. Les travaux de codification seront engagés dans les prochaines années. Le code forestier a été codifié par décrets n° 79-113 et 79-114 du 25 janvier 1979.
