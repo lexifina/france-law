@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970422053
+
+- Question : [SEQ970422053](seq970422053.md) — Politique scolaire dans les Ardennes : classes uniques
+
+## Réponse
+
+*Éducation, JO du 1997-05-22, page 1529*
+
+Réponse. - Le maintien du réseau public d'éducation en milieu rural fait partie des grandes priorités du Gouvernement. L'école peut en effet apporter un concours important à la politique d'aménagement du territoire par une action réfléchie et concertée avec les collectivités territoriales et l'ensemble des services publics. Le moratoire a été appliqué strictement, y compris lorsque le nombre d'élèves de la dernière école à classe unique ouverte dans une commune était très faible : c'est ainsi qu'à la rentrée scolaire 1996-1997, plus de 400 écoles à classe unique, qui auraient dû être fermées, compte tenu de leurs faibles effectifs, ont pu être maintenues, dont 16 écoles pour le département des Ardennes. Cette politique a permis de conserver des structures d'accueil de proximité, et dans certains cas de garder un " centre de vie " dans les communes rurales. Elle a aussi, et c'était l'un de ses buts premiers, favorisé la concertation entre des communes proches. Ce moratoire n'a pas pour finalité de figer la situation actuelle, mais constitue au contraire un élément d'incitation déterminant pour poursuivre le dialogue avec les collectivités territoriales soucieuses d'élaborer une offre de scolarisation adaptée aux spécificités de leurs territoires, et d'anticiper les évolutions à venir, en mettant en place des projets de développement qui garantissent la présence d'un service public d'éducation de qualité en milieu rural. Dans le respect de l'annualité budgétaire, la rentrée scolaire 1997 s'effectuera sous le régime du moratoire engagé en mai 1993 : aucune dernière classe de la la dernière école ouverte dans une commune ne sera fermée contre la volonté du maire.
