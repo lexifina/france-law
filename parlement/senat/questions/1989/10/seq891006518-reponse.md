@@ -1,0 +1,11 @@
+# Réponse à la question SEQ891006518
+
+- Question : [SEQ891006518](seq891006518.md) — Liberté de choix de l'enseignement
+
+## Réponse
+
+*Éducation, JO du 1989-12-21, page 2134*
+
+Réponse. - L'article 30 de la loi d'orientation sur l'éducation (n° 89-486 du 10 juillet 1989) prévoit que les dispositions de la loi relatives à l'enseignement sont applicables aux établissements d'enseignement privés dans le respect des dispositions de la loi n° 59-1557 du 31 décembre 1959 sur les rapports entre l'Etat et les établissements d'enseignement privés et de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984). Or, l'article 119-1 de la loi de finances pour 1985 dispose que le montant des crédits affectés à la rémunération des personnels enseignants des classes faisant l'objet d'un des contrats prévus aux articles 4 et 5 de la loi n° 59-1557 du 31 décembre 1959 modifiée est fixé chaque année par la loi de finances en fonction des effectifs d'élèves accueillis et des types de formation dispensés par les établissements d'enseignement privés, et compte tenu des contraintes spécifiques auxquelles sont soumis les établissements d'enseignement public du fait de conditions démographiques, sociales ou linguistiques particulières. Ces dispositions ont été appliquées pour le calcul du nombre d'équivalents-emplois en vue de la mise sous contrat de nouvelles classes au titre des rentrées scolaires de 1985, 1986, 1987, 1988 et 1989 ainsi que pour la préparation du projet de budget pour 1990. Ainsi, au projet de loi de finances pour 1990 sont prévues la consolidation de 364 contrats ouverts à la rentrée de 1989 en surnombre, à proportion des surnombres autorisés dans les établissements publics, et la création de 1 103 contrats supplémentaires pour la rentrée de 1990, calculés à proportion des emplois accordés dans les établissements d'enseignement publics du premier degré (200 emplois) et du second degré (4 500 emplois). Le principe d'égalité de traitement en matière de moyens entre les établissements d'enseignement public et les établissements d'enseignement privés sous contrat, établi par la loi de 1985, a donc é
+
+té strictement respecté depuis cette date et aucune entrave n'a été apportée à la liberté de choix des familles.
