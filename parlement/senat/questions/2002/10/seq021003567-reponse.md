@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003567
+
+- Question : [SEQ021003567](seq021003567.md) — Pompiers volontaires
+
+## Réponse
+
+*Intérieur, JO du 2003-01-16, page 195*
+
+L'honorable parlementaire attire l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les mesures qu'entend prendre le Gouvernement afin d'encourager l'engagement des citoyens dans le corps de sapeurs-pompiers volontaires et notamment la prise en compte des années de volontariat pour le calcul de la retraite des intéressés. Le ministre de l'intérieur, de la sécurité intérieure et des libertés locales a rappelé, dès sa nomination, son vif intérêt pour le volontariat et il a demandé à M. Jean-Paul Fournier, maire de Nîmes, de présider une commission chargée d'effectuer un bilan des actions menées en faveur des sapeurs-pompiers depuis 1990, d'en vérifier l'application réelle sur le terrain et de formuler des propositions en vue de la définition d'une politique de fidélisation et de développement du volontariat que pourraient conduire l'État et les collectivités locales, avec l'appui des acteurs de la profession. Sans attendre les résultats définitifs de la mission volontariat, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales a annoncé le 14 septembre dernier, lors du Congrès national des sapeurs-pompiers, l'extension du bénéfice de la part variable de l'allocation de vétérance aux sapeurs-pompiers volontaires ayant cessé leur activité avant le 1er janvier 1998, ainsi que la création d'un avantage retraite prenant en compte les années passées en qualité de sapeur-pompier volontaire. Ces mesures, ainsi que celles, de nature législative, proposées par la commission Fournier, seront normalement intégrées dans le projet de loi relatif à la modernisation de la sécurité civile soumis au printemps prochain au Parlement.
