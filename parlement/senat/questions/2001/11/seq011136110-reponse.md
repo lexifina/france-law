@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136110
+
+- Question : [SEQ011136110](seq011136110.md) — Prise en compte de l'ancienneté des demandes pour les créations de pharmacies dans certaines communes
+
+## Réponse
+
+*Emploi, JO du 2002-05-02, page 1263*
+
+Selon le principe de l'antériorité figurant à l'article 65 de la loi du 27 juillet 1999 portant création d'une couverture maladie universelle, l'autorité administrative, saisie de plusieurs demandes de créations d'officines de pharmacie concurrentes dont elle sait n'en pouvoir satisfaire qu'une seule, est tenue de faire droit à la première en date, dès lors que celle-ci est accompagnée d'un dossier complet. Toutefois, la conservation de l'antériorité, pour les dossiers déposés avant la publication de la loi du 27 juillet 1999 précitée, résulte de l'article 3 du décret n° 2000-259 du 21 mars 2000 relatif aux modalités de création, de transfert et de regroupement d'officines de pharmacie. Conformément à ce décret, le pharmacien demandeur d'une création d'officine de pharmacie, qui, conformément à la jurisprudence en vigueur avant l'application de la réglementation précitée, n'a pas manifesté l'intention de renoncer à sa demande de création dans la même commune, a conservé le bénéfice de l'antériorité s'il a déposé un dossier complet dans un délai de deux mois à compter de la date de publication du décret du 21 mars 2000, soit à compter du 23 mars 2000. Cependant, le législateur a souhaité favoriser les demandes de création d'officines déposées par les jeunes pharmaciens ou par les pharmaciens ayant cessé d'exercer. C'est la raison pour laquelle le deuxième alinéa de l'article L. 5125-5 du code de la santé publique issu de l'article 65 de la loi susmentionnée prévoit que les demandes de création présentées par des pharmaciens qui n'ont jamais été titulaires d'une licence d'officine ou n'en sont plus titulaires depuis au moins trois ans bénéficient d'une priorité.
