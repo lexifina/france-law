@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902619
+
+- Question : [SEQ930902619](seq930902619.md) — Académie de la Réunion : insuffisance du personnel d'encadrement
+
+## Réponse
+
+*Éducation, JO du 1994-02-10, page 308*
+
+Réponse. - Dans l'enseignement secondaire, cette priorité s'est traduite par la création de 5 050 emplois d'enseignants et de 9 000 heures supplémentaires, 750 emplois étant supprimés dans les lycées professionnels pour tenir compte de l'implantation de classes de quatrième et troisième technologiques dans les collèges. L'administration centrale a procédé à la répartition de ces moyens en fonction de l'évolution de la politique scolaire et en poursuivant le rééquilibrage des dotations académiques, afin de permettre aux académies de préparer la rentrée scolaire dans des conditions aussi équitables que possible. Il a été ainsi attribué à l'académie de la Réunion, dont la situation était légèrement déficitaire au vu du bilan horaire interacadémique de l'année 1992-1993, 172 emplois d'enseignants. Il convient de rappeler que cette académie a bénéficié d'un effort particulièrement significatif et soutenu en matière de créations d'emplois d'enseignants, sa situation dans ce domaine, très déficitaire il est vrai à la rentrée 1987 ( 7,98 p. 100, soit le plus fort déficit de l'ensemble métropole-DOM), étant désormais quasiment à l'équilibre par rapport à la moyenne nationale ( 0,15 p. 100 à la rentrée 1992). Cette académie a en outre reçu pour la rentrée 1993 treize emplois d'encadrement (direction, éducation, documentation, surveillance), dont cinq emplois de maître d'internat - surveillant d'externat et deux emplois de conseiller principal d'éducation, au titre du renforcement des équipes existantes. Sans méconnaître les difficultés que peut encore connaître cette académie, celle-ci a ainsi reçu des moyens comparables à ceux dont disposent les académies de métropole pour la présente année scolaire.
