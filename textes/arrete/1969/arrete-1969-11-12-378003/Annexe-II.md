@@ -42,6 +42,8 @@ h) Chef d’équipe (imprimerie) ayant moins de dix agents sous ses ordres.
 
 4. Cordonniers des services des égouts de la ville de Paris.
 
+(5) Conducteurs et machinistes de poids lourds des services de nettoiement et des transports automobiles municipaux.
+
 C. — Assistance publique de Paris.
 
 1. Ouvriers d'état et aides-ouvriers de la boucherie centrale des hôpitaux de Paris (bouchers d'échaudoirs, bouchers d’étal, charcutiers).
