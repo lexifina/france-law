@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515475
+
+- Question : [SEQ960515475](seq960515475.md) — Allégements des charges sociales patronales liés au maintien de l'emploi
+
+## Réponse
+
+*Industrie, JO du 1996-07-25, page 1925*
+
+Réponse. - Conformément à l'annonce faite le 5 mars dernier par le Gouvernement concernant l'allégement expérimental des charges sociales dans les secteurs textile/habillement/cuir/chaussures, des négociations concernant l'aménagement et la réduction du temps de travail ont été ouvertes par les organisations patronales représentatives du secteur avec les syndicats. Ces négociations se sont conclues par plusieurs accords dans les branches textile et habillement cuir/chaussure portant sur les préretraites anticipées, la réduction des heures supplémentaires et la modulation des horaires dans les secteurs concernés. Ces accords ont d'ailleurs été signés par plusieurs organisations syndicales. Au vu de ces éléments, le Gouvernement a donné son approbation à la conclusion de conventions-cadres avec les organisations patronales dans ces secteurs : convention du 14 mai 1996 pour le textile, du 31 mai 1996 pour l'habillement et du 28 juin 1996 pour les principaux secteurs du cuir et de la chaussure. Conformément à la loi, ces conventions portent sur l'évolution de l'emploi dans le cadre de l'allégement des charges. Dans ces conditions, le dispositif d'allégement des charges peut être mis en oeuvre. Son application est subordonnée, pour les entreprises de plus de cinquante personnes, à la signature de conventions spécifiques. Ces conventions, de même que la convention-cadre, prévoiront un dispositif de suivi. Le dispositif est donc applicable pour les entreprises de moins de cinquante personnes au 1er juin pour le textile et l'habillement et au 1er juillet pour les principaux secteurs du cuir/chaussure.
