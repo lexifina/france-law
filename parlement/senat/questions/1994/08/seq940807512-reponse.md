@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807512
+
+- Question : [SEQ940807512](seq940807512.md) — Statut des ingénieurs et scientifiques exerçant leur profession comme travailleurs indépendants
+
+## Réponse
+
+*Entreprises, JO du 1994-12-29, page 3090*
+
+Réponse. - Les dispositions de la loi du 11 février 1994 relative à l'initiative et à l'entreprise individuelle concernent en règle générale l'ensemble des catégories de travailleurs indépendants. C'est ainsi que les contrats de retraite et de prévoyance sont applicables aux professions libérales et plus particulièrement aux ingénieurs-conseils et chercheurs relevant de la CIPAV (Caisse interprofessionnelle de prévoyance et d'assurance vieillesse). Cette loi fait l'objet des textes d'application suivants : décret no 94-457 du 31 mai 1994 relatif à la réduction d'impôt liée aux rapports en capital des sociétés non cotées ; décret no 94-584 du 6 juillet 1994 relatif à l'assurance fiscale ; décret no 94-738 du 26 août 1994 relatif aux conjoints collaborateurs à temps partiel ; décret no 94-750 du 30 août 1994 relatif aux simplifications comptables ; décret no 94-754 du 31 août 1994 relatif à l'exonération d'une fraction de la cotisation d'assurance maladie ; décret no 94-775 du 5 septembre 1994 relatif aux contrats-groupe fiscalement déductibles ; décret no 94-776 du 30 août 1994 relatif au report d'imposition d'une plus-value immobilière ; décret no 94-852 du 1er octobre 1994 relatif aux relevés des contrats de travail temporaire ; arrêté interministériel du 24 novembre 1994 relatif à la déclaration de création d'entreprise. Une nouvelle série de textes d'application relatifs à la protection sociale devraient être publiés prochainement. De plus, un nombre important de dispositions de cette loi sont directement applicables notamment l'article 47 relatif aux prises et appels de garantie du crédit et diverses dispositions fiscales.
