@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414744
+
+- Question : [SEQ910414744](seq910414744.md) — Incidence des dispositions relatives à la lutte contre la brucellose
+
+## Réponse
+
+*Agriculture, JO du 1991-06-27, page 1317*
+
+Réponse. - La nouvelle réglementation relative à la brucellose bovine a particulièrement renforcé les mesures d'éradication des derniers foyers de la maladie. Ces dispositions ont d'ailleurs été unanimement souhaitées par l'ensemble des partenaires professionnels. Pour leur part, les services vétérinaires s'attachent à appliquer l'arrêté du 20 mars 1990 relatif à la prophylaxie collective de la brucellose bovine ainsi que l'arrêté interministériel du 6 juillet 1990 fixant les mesures financières relatives à la lutte contre la brucellose bovine qui prévoit notamment l'indemnisation par l'Etat de l'abattage des bovins infectés ou contaminés par la brucellose. Ces indemnités sont plafonnées à 1 500 francs par animal dans les cheptels assainis par abattage partiel et à 2 000 francs par animal dans les cheptels assainis par abattage total. Par contre, ces subventions ne sont pas octroyées dans les cas suivants : mort d'un animal quelle qu'en soit la cause, animal introduit dans un cheptel en infraction à la réglementation en vigueur, animaux éliminés à la suite de l'introduction de bovins dans un cheptel en infraction à la réglementation en vigueur, animal marqué et éliminé hors des délais réglementaires, animal vendu selon le mot dit " sans garantie " ou vendu à un prix jugé abusivement bas par le directeur des services vétérinaires ou encore toutes circonstances faisant apparaître une intention abusive de l'éleveur afin de détourner la réglementation de son objet. Ces restrictions sont en effet le gage de la réussite du programme national d'éradication et d'un emploi efficient des fonds publics.
