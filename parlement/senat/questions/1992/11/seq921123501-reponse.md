@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123501
+
+- Question : [SEQ921123501](seq921123501.md) — Dotation de développement rural
+
+## Réponse
+
+*Collectivités locales, JO du 1993-01-21, page 108*
+
+Réponse. - La dotation de développement rural (DDR) bénéficie aux groupements et communes de métropole et d'outre-mer. Les conditions d'éligibilité à la DDR des communes et groupements des départements, circonscriptions territoriales, territoires et collectivités territoriales d'outre-mer sont fixées par les articles 126 et 130 de la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République. Le décret déterminant les modalités de répartition de la quote-part leur revenant est en cours de signature. S'agissant de la métropole, les deux décrets d'application de la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République concernant la dotation de développement rural (DDR) ont été publiés. Le décret n° 92-568 du 30 juin 1992, qui porte sur les modalités de calcul des enveloppes départementales de la DDR des groupements de communes à fiscalité propre (1re part) et de la DDR des groupements de communes (2e part), a été publié au Journal officiel de la République française du 1er juillet 1992. Le décret n° 92-1055 du 28 septembre 1992, qui concerne les modalités de composition de la commission consultative d'élus intervenant dans le cadre de la répartition de la 1re part de la DDR, est paru au Journal officiel du 1er octobre 1992. La deuxième part de la DDR pour 1992, destinée aux communes, a été répartie. Elle s'est élevée à 150 MF en 1992, pour un total de 2 524 communes éligibles. La DDR des communes pour 1993 sera répartie dans le courant du premier trimestre 1993. Elle s'élèvera au plus à 240 MF. Son montant exact sera fixé par le comité des finances locales.
