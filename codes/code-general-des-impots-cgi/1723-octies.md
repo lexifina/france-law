@@ -1,6 +1,6 @@
 # Article 1723 octies
 
-Conformément à l'article L. 333-2 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989 , le montant du versement pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du même code, est dû par le bénéficiaire de l'autorisation de construire. Ce versement peut être mis à la charge du lotisseur ou de l'association foncière urbaine de remembrement (1). En cas de désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation administrative. Lorsqu'il n'excède pas 80 F le versement n'est pas mis en recouvrement .
+Conformément à l'article L. 333-2 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989 ((modifiée)) (M), le montant du versement pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du même code, es t dû par le bénéficiaire de l'autorisation de construire. Ce versement peut être mis à la charge du lotisseur ou de l'association foncière urbaine de remembrement (1). En cas de désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation administrative. Lorsqu'il n'excède pas 80 F le versement n'est pas mis en recouvrement.
 
 Il doit être payé au comptable du Trésor de la situation des biens en deux fractions égales ou en un versement unique lorsque le montant dû n'excède pas 2.000 F.
 
@@ -14,6 +14,4 @@ Le montant donnant lieu à restitution est majoré des intérêts au taux légal
 
 (1) Code de l'urbanisme, art. L. 333-9-1.
 
-NOTA :
-
-Nota : ces dispositions sont applicables aux versements afférents à une taxe dont le fait générateur est postérieur au 31 décembre 1992.
+(M) Modification.
