@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306582
+
+- Question : [SEQ980306582](seq980306582.md) — Fichier national des souscripteurs de contrats d'assurance vie
+
+## Réponse
+
+*Économie, JO du 1998-06-18, page 1940*
+
+Réponse. - En assurance en cas de décès, il revient au bénéficiaire du contrat d'informer la société d'assurance de la disparition de l'assuré afin de pouvoir percevoir le capital garanti, l'assureur n'ayant pas d'autre moyen d'obtenir cette information. Il peut arriver dans certains cas que le bénéficiaire ne soit pas au courant de l'existence du contrat d'assurance et, par conséquent, ne puisse pas faire valoir ses droits sur le capital garanti. Afin de prévenir ce genre de situation, les professionnels conseillent aux souscripteurs de contrats d'assurance en cas de décès de prendre leurs précautions afin qu'à la disparition de l'assuré, le bénéficiaire soit informé de l'existence du contrat. Dans cet esprit, une société commerciale s'est récemment constituée en vue de proposer aux souscripteurs de figurer sur un répertoire en contrepartie du paiement d'un droit d'inscription. Lors de l'ouverture d'une succession, le notaire peut saisir la société gestionnaire du fichier afin qu'elle recherche si elle a connaissance de l'existence d'un contrat dont l'assuré est la personne décédée. Si tel est le cas, la société procède aux démarches nécessaires afin que soit respectée la volonté de l'assuré de voir le bénéficiaire percevoir le capital garanti. Ce projet, tel qu'il a été présenté aux services du ministère de l'économie, des finances et de l'industrie, n'appelle pas d'observation particulière au regard du droit de l'assurance. S'agissant d'une initiative privée d'ordre commercial, son développement relève du libre marché. C'est aux souscripteurs de contrats d'assurance en cas de décès qu'il revient d'apprécier s'ils ont intérêt à se faire inscrire dans un tel fichier.
