@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213040
+
+- Question : [SEQ901213040](seq901213040.md) — Mesures d'austérité concernant les pensions d'anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 1991-05-02, page 928*
+
+Réponse. - Les dispositions prévues par l'article 120-II a) et c) de la loi de finances pour 1991 concernant la réforme des suffixes et l'écrêtement des pensions de veuves ont été annulées par la décision n° 90-285 DC du 28 décembre 1990 du Conseil constitutionnel. Cette annulation rend nécessaire une étude interministérielle sur les conséquences de cette décision dans ces deux domaines. En revanche, il est exclu de rapporter la disposition concernant la non-immutabilité des pensions, en d'autres termes la possibilité de supprimer une pension attribuée pour une maladie désormais guérie ou de l'abaisser lorsque la maladie s'est améliorée. En effet, il n'est pas justifié d'indemniser un préjudice qui a disparu. Cependant, la loi prévoit de soumettre les décisions en la matière à une commission au sein de laquelle les pensionnés seraient représentés. Ainsi leur sera donnée la garantie que de telles décisions ne pourront intervenir arbitrairement. En tout état de cause, dans l'hypothèse où la maladie réapparaîtrait, l'indemnisation serait de nouveau attribuée. Enfin, pour ce qui concerne le " gel " des plus hautes pensions, il convient de rappeler que cette proposition fait suite à la réforme du rapport constant adoptée l'an passé. Cette réforme a apporté aux pensionnés un bénéfice de 300 millions de francs dès 1990. Compte tenu de l'effort ainsi fourni, il n'a pas paru anormal d'en exclure les plus hautes pensions (30 000 francs par mois, nets d'impôts et de la contribution sociale généralisée), sachant que l'allocation tierce personne ou les majorations familiales ne sont pas prises en compte dans cette assiette.
