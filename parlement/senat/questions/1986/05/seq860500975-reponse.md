@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500975
+
+- Question : [SEQ860500975](seq860500975.md) — Pas-de-Calais: aménagement de la RN 25 entre Arras et Lens
+
+## Réponse
+
+*Équipement, JO du 1986-08-14, page 1173*
+
+Réponse. -Le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports est tout à fait conscient des difficultés de circulation rencontrées sur la R.N. 17 (ex-R.N. 25) qui relie Arras et l'autoroute A. 26 à l'autoroute A. 211 et à la rocade miniètre A. 21 à Lens, en direction des pôles de conversion de Béthune à l'ouest, et de Douai-Valenciennes à l'est. Des mesures de sécurité ont déjà été prises, notamment par la mise en place de feux tricolores au carrefour avec le C.D. 49, à Thélus. Par ailleurs, cette route nationale, entre Lens et Thélus, est actuellement à trois voies, comportant des échanges dénivelés entre Vimy et Lens. Sur la section comprise entre Thélus et Arras, l'amélioration de la circulation est liée à la réalisation de la future déviation à deux fois deux voies d'Ecurie, laquelle n'a pu être réalisée jusqu'à présent en raison du coût et de l'importance des opérations urgentes et prioritaires qui ont étéengagées afin de contribuer au redressement économique du Pas-de-Calais en facilitant les échanges entre les différents pôles de conversion. Il n'en demeure pas moins que le projet de déviation d'Ecurie revêt une importance certaine pour l'homogénéité et la sécurité du trafic sur la R.N. 17. C'est pourquoi les emprises de la déviation sont d'ores et déjà réservées dans le plan d'occupation des sols à Rochincourt. Le projet devra faire l'objet d'une étude technique d'avant-projet qui permettra de fixer ses caractéristiques et son coût. Son financement sera examiné avec la plus grande attention dans le cadre des prochains exercices budgétaires.
