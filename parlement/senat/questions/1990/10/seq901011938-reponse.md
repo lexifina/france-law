@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011938
+
+- Question : [SEQ901011938](seq901011938.md) — Information sur les conséquences de la consommation d'alcool par les femmes enceintes
+
+## Réponse
+
+*Santé, JO du 1991-01-03, page 25*
+
+Réponse. - Les méfaits de l'alcoolisation des parents sur leur descendance sont débattus depuis longtemps, qu'il s'agisse de l'effet direct de l'alcool sur les cellules reproductrices, des conséquences de l'alcool sur la vie familiale ou bien encore de l'alcoolisation de la mère pendant la grossesse. Les effets de la consommation d'alcool sur l'embryon et le foetus sont actuellement bien connus et se manifestent par des avortements spontanés, de la prématurité ou de la post-maturité, ou par le syndrome d'alcoolisme foetal ou embryo-foetopathie alcoolique. La prévention de ces pathologies passe par une diminution ou une suppression de la consommation d'alcool par la femme enceinte. L'information des femmes enceintes est ici primordiale. Dans ce but, le nouveau carnet de maternité, utilisé déjà par plusieurs départements, et qui sera généralisé dans les prochains mois, rappelle à deux reprises la nocivité de l'alcool pour la mère et l'enfant, et suggère sa suppression pour créer un environnement favorable à la naissance. Par ailleurs, dans le cadre d'une information plus générale des médecins généralistes sur les problèmes de prise en charge des malades de l'alcool, le ministère chargé de la santé prépare actuellement une brochure où la question particulière de l'alcool et des femmes enceintes sera traitée. La prévention de l'alcoolisation des femmes enceintes et de ses conséquences sur l'enfant à naître passe également par une action plus générale de lutte contre l'alcoolisme et par une diminution globale de la consommation d'alcool, cela plus particulièrement encore chez les jeunes femmes.
