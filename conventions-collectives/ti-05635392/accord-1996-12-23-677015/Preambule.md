@@ -8,6 +8,4 @@ La grille des rémunérations annuelles garanties proposées ne saurait être é
 
 Le présent accord vaut accord de substitution, au sens de l'article L. 132-8, alinéa 6, du code du travail pour l'ensemble des articles concernant la rémunération prévue notamment par les articles 2 et 25 à 35 de la convention collective nationale du 15 mai 1984 expirant le 31 décembre 1996.
 
-Dans l'hypothèse où la chambre sociale de la Cour de cassation rendrait une décision non équivoque dans les contentieux qui lui sont soumis relatifs aux ayants droit à la répartition des pourboires remis aux tables de jeux, le présent accord serait caduc et, en conséquence, devenant inopposable, cesserait tous ses effets.
-
-Dans cette hypothèse, les parties conviennent de se rencontrer afin d'analyser la portée de la décision intervenue et d'en tirer toutes les conséquences.
+Dans l'hypothèse où une juridiction, aux termes d'une décision devenue définitive dans le contentieux engagé les 26 et 28 mars 1997 contre le présent accord devant le tribunal de grande instance de Paris, mettrait en cause tout ou partie de son contenu, les parties conviennent de se rencontrer afin d'analyser la portée de la décision intervenue et d'en tirer toutes les conséquences.
