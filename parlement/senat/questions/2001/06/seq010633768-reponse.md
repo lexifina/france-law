@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633768
+
+- Question : [SEQ010633768](seq010633768.md) — Réglementation des déplacements en rollers, skates et trottinettes
+
+## Réponse
+
+*Équipement, JO du 2001-09-27, page 3114*
+
+Le Gouvernement n'ignore pas les problèmes soulevés par l'arrivée de ces nouveaux usagers de la voie publique que sont les pratiquants de rollers, de skates et autres trottinettes. Plusieurs études ou rapports sur cette question ont été rendus ou doivent l'être prochainement. Le conseil général des ponts et chaussées a rendu un rapport sur la place du roller dans la ville au cours du 1er trimestre 2001. La Commission nationale des consommateurs a également rendu un avis et un rapport portant notamment sur les équipements de sécurité des pratiquants du roller. Enfin, une étude menée à l'initiative du ministère de la jeunesse et des sports a donné lieu à la rédaction d'un livre blanc " Le roller, mode de déplacement doux : état des lieux et perspectives de développement ". Cet ouvrage réalisé en collaboration avec le centre d'études des réseaux, des transports et de l'urbanisme fera l'objet d'une publication prochaine. Il examine les conditions d'usage de l'espace public et la place des pratiquants du roller, visant à mieux les prendre en compte dans la ville. Ce document aborde ce mode de déplacement dans ses différentes composantes (utilitaire, sportive et de loisirs) permettant de compléter l'offre d'espaces appropriés à ces usagers. L'ensemble de ces rapports seront examinés par un groupe de travail interministériel piloté par le ministère de l'intérieur. Ce groupe devra évaluer les réels enjeux de ce type de circulation et dégager les éléments permettant, au niveau local, aux gestionnaires de voirie de prendre en compte les pratiquants du roller pour une meilleur sécurité de l'ensemble des usagers publics.
