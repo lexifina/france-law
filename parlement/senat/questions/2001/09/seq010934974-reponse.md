@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010934974
+
+- Question : [SEQ010934974](seq010934974.md) — Régularisation de la dotation globale de fonctionnement pour l'an 2000
+
+## Réponse
+
+*Économie, JO du 2001-11-22, page 3706*
+
+Le Comité des finances locales (CFL), réuni en sa séance du 12 juillet 2001, a constaté que la dotation globale de fonctionnement (DGF) au titre de 2000 s'établissait, compte tenu de la révision des indices économiques servant de base à son calcul, à 17 058,620 millions d'euros (111 897,210 millions de francs), supérieure de 157,26 millions d'euros (1 031,560 millions de francs) au montant de DGF, hors majorations exceptionnelles, inscrit en loi de finances initiale pour 2000. L'article L. 1613-2 du code général des collectivités territoriales prévoit que, dans l'hypothèse d'une régularisation positive de la DGF, le montant est réparti l'année même de la régularisation, au prorata des sommes perçues au cours de cette même année, soit 2001. Au cours de la séance du 12 juillet dernier, certains membres du CFL ont toutefois souhaité que le montant de la régularisation soit réparti au profit des collectivités ayant bénéficié de la DGF au titre de l'année correspondante, soit 2000, ce qui n'est pas possible en l'état actuel des textes. Par ailleurs, d'autres membres ont souhaité qu'une partie des sommes en cause soit répartie de façon prioritaire en direction des communautés de communes à fiscalité additionnelle. Cette mesure supposerait également une modification législative. Les sommes en cause n'ont ainsi pour l'instant pas été réparties afin de laisser au législateur la possibilité d'examiner ces propositions sur la répartition entre collectivités bénéficiaires de la dotation globale de fonctionnement au titre de 2000. La régularisation positive, qui constitue un effort supplémentaire de l'Etat en faveur des collectivités locales, sera ainsi inscrite dans la prochaine loi de finances rectificative pour 2001.
