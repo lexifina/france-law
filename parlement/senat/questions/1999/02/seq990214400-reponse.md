@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214400
+
+- Question : [SEQ990214400](seq990214400.md) — Développement de l'usage du bois comme source d'énergie
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-04-22, page 1323*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant l'usage du bois comme source d'énergie. Dès la fin de l'année 1997, et notamment dans le cadre des négociations internationales sur la maîtrise de l'effet de serre, le Gouvernement a engagé une réflexion sur la relance des énergies renouvelables en France et notamment du bois énergie, qui représente 4 % des ressources énergétiques de notre pays. Le rapport de M. Jean-Louis Bianco sur la forêt, auquel il est fait référence, apporte, dans ce domaine, la confirmation que le bois énergie constitue aussi l'un des éléments majeurs d'une stratégie forestière pour notre pays. C'est enfin un enjeu en terme d'emploi, au-delà même de son bilan environnemental favorable. Le Gouvernement a donc confirmé, dans la loi de finances pour 1999, l'allocation de 500 millions de francs supplémentaires à l'ADEME (Agence de l'environnement et de la maîtrise de l'énergie) pour une nouvelle politique de l'énergie. Près de 15 % de ces crédits seront consacrés au bois énergie, soit, dans ce domaine, des moyens d'action multipliés par cinq comparés à ceux de 1998. La politique qui est ainsi mise en uvre est cohérente avec les objectifs tracés dans le rapport précité. Elle vise notamment, par contractualisation avec les collectivités territoriales, à développer les réseaux de chaleur collectifs au bois ainsi que le bois énergie industriel tout en recherchant, dans le secteur du chauffage domestique au bois, une amélioration qualitative de l'offre d'appareils (inserts, foyers fermés, chaudières) et de combustible.
