@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120572
+
+- Question : [SEQ991120572](seq991120572.md) — Utilisation de la carte bancaire pour les paiements aux guichets des services publics
+
+## Réponse
+
+*Fonction publique, JO du 2000-02-03, page 423*
+
+Réponse. - L'action déterminée engagée par le Gouvernement pour faciliter le règlement par carte bancaire des sommes de faible montant nécessitant un déplacement des usagers aux guichets des services publics a été poursuivie en 1999 dans divers réseaux du secteur public, notamment dans ceux de la direction générale des impôts (équipement de 145 nouvelles recettes des impôts), des préfectures et sous-préfectures (70 sites) et des affaires étrangères (9 consulats), dans les établissements d'enseignement agricole (100) et dans 32 centres hospitaliers régionaux dont la gestion comptable est assurée par le Trésor public. Ainsi, compte tenu du nombre de sites déjà équipés à la fin de 1998 (environ 2 700), le déploiement du paiement par carte bancaire dans le secteur public stricto sensu dépasse désormais 3 000 sites. Parallèlement, l'équipement des débits de tabac acceptant la carte bancaire en règlement des vignettes automobiles s'est significativement accru, atteignant plus de 5 600 sites à la fin de 1999. Peuvent ainsi être payés par carte bancaire dans de nombreux cas : les vignettes automobiles, les cartes grises et les permis de conduire ; les timbres fiscaux, les amendes et les taxes douanières ; les droits d'inscription et frais de bibliothèque en université et les frais de repas des élèves dans les écoles et les lycées ; les droits d'entrée dans les établissements culturels (musées) ; les frais hospitaliers... Le fonds pour la réforme de l'Etat a largement soutenu la mise en uvre de cette mesure (17,1 MF accordés entre 1996 et 1999, dont 13,7 MF pour les deux années 1998 et 1999).
