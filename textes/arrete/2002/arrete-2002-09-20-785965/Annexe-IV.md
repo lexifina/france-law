@@ -1,0 +1,151 @@
+# Article Annexe IV
+
+VALEURS LIMITES DE REJET POUR LES EFFLUENTS AQUEUX ISSUS DES INSTALLATIONS DE TRAITEMENT DE DÉCHETS
+
+PARAMÈTRE
+
+|
+
+VALEUR LIMITE
+
+de rejet exprimée en concentration massique pour des échantillons non filtrés
+
+|
+
+1. Total des solides en suspension
+
+|
+
+30 mg/l
+
+|
+
+2. Carbone organique total (COT)
+
+|
+
+40 m/l
+
+|
+
+3. Demande chimique en oxygène (DCO)
+
+|
+
+125 mg/l
+
+|
+
+4. Mercure et ses composés, exprimés en mercure (Hg)
+
+|
+
+0,03 mg/l
+
+|
+
+5. Cadmium et ses composés, exprimés en cadmium (Cd)
+
+|
+
+0,05 mg/l
+
+|
+
+6. Thallium et ses composés, exprimés en thallium (Til)
+
+|
+
+0,05 mg/l
+
+|
+
+7. Arsenic et ses composés, exprimés en arsenic (As)
+
+|
+
+0,1 mg/l
+
+|
+
+8. Plomb et ses composés, exprimés en plomb (Pb)
+
+|
+
+0,2 mg/l
+
+|
+
+9. Chrome et ses composés, exprimés en chrome(Cr)
+
+|
+
+0,05 mg/l (dont Cr6+: 0,1 mg/l)
+
+|
+
+10. Cuivre et ses composés, exprimés en cuivre (Cu).
+
+|
+
+0,5 mg/l
+
+|
+
+11. Nickel et ses composés,exprimés en nickel (Ni)
+
+|
+
+0,5 mg/l
+
+|
+
+12. Zinc et ses composés, exprimés en zinc (Zn)
+
+|
+
+1,5 mg/l
+
+|
+
+13 Fluorures
+
+|
+
+15 mg/l
+
+|
+
+14.CN libres
+
+|
+
+0,1 mg/l
+
+|
+
+15. Hydrocarbures totaux
+
+|
+
+5 mg/l
+
+|
+
+16. AOX
+
+|
+
+5 mg/l
+
+|
+
+17. Dioxines et furannes
+
+|
+
+0,3 ng/1
+
+|
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour le total des solides en suspension pour les installations existantes, à condition d'imposer que 80 % des valeurs mesurées ne dépassent pas 30 mg/l et qu'aucune de ces mesures ne dépasse 45 mg/l.
