@@ -2,9 +2,11 @@
 
 01.02.3.1. ETENDUE.
 
-La présente convention s'applique aux différentes catégories de personnels visés à l'annexe I à la présente convention, quel que soit leur contrat de travail - contrat à durée indéterminée ou déterminée - et quelle que soit leur durée de travail - temps complet ou temps partiel.
+La présente convention s'applique aux différentes catégories de salariés visés à l'annexe I à la présente convention, quel que soit leur contrat de travail - contrat à durée indéterminée ou déterminée - et quelle que soit leur durée de travail - temps complet ou temps partiel.
 
-Elle s'applique également aux personnels dont les emplois ne sont pas prévus à ladite Annexe (emplois spécifiques à certains établissements) : des accords d'établissement ou des contrats particuliers déterminent leurs fonctions, conditions d'exercice, classification, etc.).
+Elle s'applique également aux salariés dont les métiers ne sont pas prévus à l'annexe n° I et dont le classement s'effectue alors dans le cadre du contrat de travail par assimilation aux métiers répertoriés à ladite annexe.
+
+En cas de litige sur l'assimilation retenue par l'établissement, celui-ci relève de la commission de conciliation qui peut être saisie dans les conditions prévues à l'article 01.07.2.4.
 
 01.02.3.2. LIMITATION.
 

@@ -1,3 +1,11 @@
-# Article 08.01.6
+# Article 08.01.6.1 Modalités de calcul
 
-Les cadres visés aux articles A1.4.2 et A1.4.3 bénéficient d'une prime de technicité de 4 % par période de 3 ans dans la limite de 16 % (art. A1.4.4.2).
+Les périodes d'arrêt de travail pendant lesquelles le salaire est maintenu en totalité ou en partie sont assimilées à des périodes de travail effectif.
+
+Il en est de même, sans limitation de durée, des arrêts de travail consécutifs à un accident du travail survenu sur le lieu de travail ainsi que des périodes militaires obligatoires et des absences de courte durée autorisées.
+
+Il en est également de même - en cas de suspension du contrat de travail afin d'accomplir le service national - de la durée légale ou extra-légale de celui-ci.
+
+NOTA :
+
+Ancien article 08.01.5.
