@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400333
+
+- Question : [SEQ930400333](seq930400333.md) — Protection des entreprises en difficulté
+
+## Réponse
+
+*Équipement, JO du 1993-11-25, page 2258*
+
+Réponse. - Certaines entreprises de transport routier poursuivant leur activité dans le cadre de la loi du 25 janvier 1985 relative au redressement judiciaire et à la liquidation des entreprises ont tiré profit des garanties offertes par cette procédure pour se livrer à une politique délibérée de concurrence déloyale vis-à-vis de leurs concurrents, en violant systématiquement les réglementations sociales et de sécurité. Tel est notamment le cas de la société dont un véhicule opérant dans des conditions d'exploitation manifestement contraires aux réglementations a provoqué la mort de six personnes sur l'autoroute A 6, le 28 août dernier. La violation systématique des réglementations permet à de telles sociétés de pratiquer des prix très bas et de pratiquer une concurrence déloyale par rapport aux entreprises opérant en respectant les règles de sécurité et de mettre en danger l'existence même de ces dernières. A cet égard, il apparaît que certains tribunaux de commerce ont autorisé des procédures de redressement judiciaire sans que l'entreprise placée sous ce régime ait eu, dès le départ, des possibilités de survie. La longueur excessive des procédures souvent constatée a aggravé les conséquences négatives, pour le secteur, du maintien de ces entreprises sur le marché. Le ministre de l'équipement, des transports et du tourisme a attiré l'attention du ministre d'Etat, ministre de la justice, garde des sceaux, sur les effets extrêmement dommageables pour le secteur et pour la sécurité des usagers de la route que certaines applications ou interprétations locales de la loi du 25 janvier 1985 relative au redressement judiciaire et à la liquidation des entreprises ont pu entraîner.
