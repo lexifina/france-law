@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633993
+
+- Question : [SEQ010633993](seq010633993.md) — Etablissements culturels français à l'étranger : recours plus important aux personnels locaux
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-08-09, page 2596*
+
+Les Journées de la direction générale de la coopération internationale et du développement, organisées, comme chaque année, par ce ministère, à la fin du mois de juillet, permettront de dégager les conclusions de cette enquête et contribueront à la définition d'une charte qui définira la politique du réseau culturel pour les années à venir. Sans préjuger des résultats de la consultation en cours, on peut toutefois observer que les établissements culturels français à l'étranger font déjà largement appel aux personnels de recrutement local, puisque ceux-ci représentent plus de 80 % de l'ensemble de leurs quelque 4 000 agents. Cette proportion est encore plus importante si l'on prend en compte les personnels recrutés sur vacation pour des missions de courte ou moyenne durée (cours de langue sur objectifs ou installation d'une exposition, par exemple). En pratique, seuls les emplois de responsabilité - directeur d'établissement, directeur des cours ou agent comptable - sont aujourd'hui occupés par des agents rémunérés sur le budget de l'Etat. La garantie de la qualité de l'action de ces établissements demande en effet que de tels emplois d'impulsion et de coordination soient occupés par des personnels ayant une formation et une connaissance précises des buts et des méthodes de notre démarche culturelle. Dans les circonstances actuelles, le souci prioritaire du ministère est de se donner les moyens d'améliorer la situation des personnels locaux, tant sur le plan de la rémunération que sur ceux de la protection sociale ou d'un meilleur accès à la formation continue.
