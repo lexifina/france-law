@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314327
+
+- Question : [SEQ910314327](seq910314327.md) — Respect des résolutions de l'ONU
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-09-05, page 1869*
+
+Réponse. - Les autorités françaises sont averties des sentiments que la guerre du Golfe a pu susciter au sein du monde arabe. Ils tiennent, notamment, à la perception selon laquelle la communauté internationale ne manifesterait pas une égale détermination à mettre un terme aux diverses crises qui affectent la région. Sensibles à cette perception, les autorités françaises n'ont jamais manqué de souligner que la règle de droit, dont le respect était exigé dans l'affaire du Golfe, devait être mise en oeuvre de même dans les autres situations de crise affectant le monde arabe. Cela visait particulièrement le conflit israélo-arabe et le problème palestinien, mais aussi la situation au Liban. Une chance sérieuse s'offre aujourd'hui de progresser sur la voie d'un règlement des difficiles problèmes qui affectent depuis trop longtemps cette partie du monde. Les avancées qui seront accomplies dans cette direction seront la meilleure réponse aux préoccupations manifestées parl'honorable sénateur, qui peut avoir l'assurance que le Gouvernement entend y oeuvrer avec toute la détermination qu'appelle la conviction selon laquelle les circonstances présentes doivent être mises à profit. En ce qui concerne plus particulièrement la situation des communautés chrétiennes d'Orient et de leurs églises, l'honorable sénateur sait la sollicitude agissante que la France n'a cessé de leur porter à travers les siècles. L'objectif reste inchangé : il s'agit, dans l'intérêt de tous, d'encourager le dialogue et la compréhension entre les grandes religions monothéistes de cette région. Le Gouvernement continuera d'être guidé par cet objectif en ayant à l'esprit, notamment, les suggestions faites lors de la conférence épiscopale d'Afrique du Nord.
