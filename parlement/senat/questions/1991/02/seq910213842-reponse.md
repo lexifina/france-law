@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213842
+
+- Question : [SEQ910213842](seq910213842.md) — Exercice de la profession de producteur de granulats
+
+## Réponse
+
+*Environnement, JO du 1991-08-22, page 1771*
+
+Réponse. - A la suite de la publication d'un rapport sur l'extraction des granulats réalisé par l'association " La Houssaye-Risle ", l'Union nationale des producteurs de granulats a rédigé un contre-rapport en date du 14 décembre 1990 qui demande en particulier : une application plus stricte de la réglementation, la soumission de toutes les carrières à la procédure d'une étude d'impact, la mise en vigueur d'un système de caution garantissant la remise en état des sites, la mise en place de structures établissant des schémas d'approvisionnement et des plans de réaménagement. Concernant le premier et le deuxième points, l'inscription des carrières à la nomenclature des installations classées pour la protection de l'environnement doit transférer la police des carrières du régime du code minier à celui des installations classées et ainsi améliorer la prise en compte de la protection de l'environnement dans l'activité de l'extraction de granulats. Quant au système de caution garantissant la remise en état du site, il avait été déjà proposé par la profession sous la forme d'un système géré par un organisme mutuel. L'Union nationale des producteurs de granulats reprend cette idée et pourrait l'examiner avec les administrations compétentes, et en particulier celle des finances. Enfin, pour répondre à la dernière proposition, le ministère de l'environnement envisage la mise en oeuvre de schémas d'implantation de carrières sur la base d'un nouveau texte législatif. Il est à souligner qu'actuellement, afin de garantir la ressource en granulats, les pouvoirs publics disposent de l'article 109 du code minier.
