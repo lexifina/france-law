@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Elèves infirmiers et élèves infirmières stagiaires préparant le diplôme d'infirmier psychiatrique organisé en application de l'arrêté du 28 juillet 1965
+Masseurs-kinésithérapeutes :
 
 ==============================
 
@@ -10,11 +10,7 @@ ECHELON : INDICES : DUREE
 
 : NETS : BRUTS : ANC |
 
---------:------:-------:------ |
-
-: 190 : 170 : |
-
-==============================
+--------:------:-------:------ 7 éch : 415 : 330 : 6 éch : 390 : 315 : 3 ans 5 éch : 365 : 395 : 3 ans 4 éch : 340 : 280 : 3 ans 3 éch : 315 : 260 : 3 ans 2 éch : 290 : 245 : 2 ans 1 éch : 275 : 234 : 2 ans ==============================
 
 NOTA :
 
