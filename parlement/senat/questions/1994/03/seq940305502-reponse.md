@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305502
+
+- Question : [SEQ940305502](seq940305502.md) — Conséquences fiscales de la perception par les entreprises d'indemnités versées par les compagnies d'assurance-crédit
+
+## Réponse
+
+*Budget, JO du 1994-06-30, page 1611*
+
+Réponse. - L'article 16 de la loi de finances rectificative pour 1988 prévoit qu'un fournisseur ou un prestataire ne peut récupérer la TVA acquittée au titre d'une opération imposable que lorsque la créance correspondante est devenue définitivement irrécouvrable. Dans la circulaire qui commente cette disposition (BOI 3 D-6-89 du 21 avril 1989), il a été admis, lorsque le débiteur fait l'objet d'une procédure collective, que la taxe puisse être récupérée dès le jugement arrêtant le plan de redressement qui fixe la quotité des créances demeurant impayées, ou dès la date du jugement qui prononce la liquidation judiciaire de l'entreprise défaillante. Il n'y a donc plus lieu, comme dans la réglementation antérieure, d'attendre le certificat du syndic ou le jugement de clôture de liquidation qui pouvait intervenir très tardivement. Ces dispositions ont amélioré de manière sensible la récupération de la TVA en cas d'impayés et il ne paraît pas possible d'aller au-delà, notamment en autorisant la récupération de la taxe dès le versement d'une indemnité par une compagnie d'assurance-crédit. Toute anticipation du moment où un fournisseur serait autorisé à récupérer la TVA pour cause d'impayé aggraverait en effet la situation des entreprises clientes, puisque celles-ci seraient tenues corrélativement de reverser plus tôt la TVA qu'elles ont elles-mêmes déduite, alors qu'elles ont des difficultés de paiement. C'est pourquoi il paraît souhaitable de s'en tenir au dispositif actuel qui constitue un compromis équilibré entre les divers intérêts en présence.
