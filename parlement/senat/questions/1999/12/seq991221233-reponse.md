@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221233
+
+- Question : [SEQ991221233](seq991221233.md) — Taux réduit de TVA applicable aux métiers de l'ameublement
+
+## Réponse
+
+*Économie, JO du 2000-01-27, page 302*
+
+Réponse. - Les Etats membres de la Communauté européenne ont adopté le 22 octobre 1999 une directive qui leur permet, à titre expérimental jusqu'au 31 décembre 2002, d'appliquer le taux réduit de la taxe sur la valeur ajoutée à des activités à forte intensité de main-d' uvre. Une liste annexée à la directive détermine les catégories d'opérations auxquelles l'expérience est ouverte. Il en est ainsi des travaux, autres que de construction ou de reconstruction, effectués dans les logements privés. C'est sur ce fondement que la loi de finances pour 2000 soumet au taux réduit de la taxe sur la valeur ajoutée, à compter du 15 septembre 1999, les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation achevés depuis plus de deux ans. Sont notamment concernés par cette disposition les travaux de revêtement des surfaces, tels que ceux réalisés par les tapissiers décorateurs, comme la pose de papiers peints ou de tissus muraux. Le taux réduit s'applique également à la fourniture assortie de la pose d'équipements qui s'encastrent ou s'incorporent au bâti et ne restent pas à l'état d'éléments dont le désassemblage serait possible sans détériorer ni le bâti, ni le meuble. L'artisanat de l'ameublement peut donc, lorsque ces conditions sont remplies, bénéficier de l'application du taux réduit. En revanche, la fourniture et la pose des autres biens meubles demeurent soumis au taux normal de la taxe, conformément au champ d'application de la directive communautaire qui réserve dans ce domaine le taux réduit aux travaux de nature immobilière.
