@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109734
+
+- Question : [SEQ031109734](seq031109734.md) — Célébration du 60e anniversaire de la Libération dans le Nord - Pas-de-Calais
+
+## Réponse
+
+*Anciens combattants, JO du 2004-01-08, page 63*
+
+Le secrétaire d'Etat aux anciens combattants tient à préciser que la région Nord - Pas-de-Calais n'est pas ignorée de la politique de mémoire, et singulièrement des actions dédiées à la mémoire de la Résistance. En effet, la revue Les Chemins de la mémoire ainsi qu'une plaquette de la collection " Mémoire et citoyenneté " ont été consacrées, en 2001, à la grève des mineurs du Nord - Pas-de-Calais de mai-juin 1941. De plus, dans le cadre des " relais de la mémoire ", opération qui s'est déroulée sur différents sites le 18 juin dernier, le lieu emblématique choisi pour la région Nord - Pas-de-Calais a été la maison natale du général de Gaulle. Celle-ci fait, par ailleurs, l'objet d'une rénovation soutenue par l'Etat. L'année 2004 verra, en outre, la parution d'un guide du tourisme de mémoire pour le territoire du Nord - Pas-de-Calais. Il convient encore de préciser qu'une convention d'intention a été signée par le secrétaire d'Etat aux anciens combattants et par chacun des présidents du conseil régional, du conseil général du Pas-de-Calais et de la communauté d'agglomération en vue de la restauration par l'Etat de la nécropole de Notre-Dame-de-Lorette et de la valorisation du site par les collectivités locales, dont les travaux se poursuivront en 2004. Enfin, le ministère soutient de manière continue des projets initiés par l'association " la Coupole " à Saint-Omer. Ces initiatives témoignent que la région Nord - Pas-de-Calais n'est pas oubliée dans le cadre des actions de mémoire entreprises et soutenues par le secrétaire d'Etat aux anciens combattants.
