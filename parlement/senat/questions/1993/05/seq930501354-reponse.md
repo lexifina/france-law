@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501354
+
+- Question : [SEQ930501354](seq930501354.md) — Utilisation des lamas par l'Office national des forêts
+
+## Réponse
+
+*Agriculture, JO du 1993-11-11, page 2137*
+
+Réponse. - L'Office national des forêts contribue activement au développement du sylvopastoralisme en région Provence - Alpes -Côte d'Azur, en relation étroite avec les chambres d'agriculture, avec des objectifs de protection des forêts contre l'incendie, mais aussi de maintien de la diversité biologique des landes et pelouses ou même d'entretien sylvicole. Les animaux concernés sur les terrains bénéficiant du régime forestier sont essentiellement : des ovins (environ 120 000), des bovins (environ 13 000) et, dans une moindre mesure, des chevaux et des chèvres. En revanche, les lamas ne sont pas utilisés habituellement par ces éleveurs et l'Office national des forêts n'est pas impliqué dans les expériences actuelles recourant aux lamas pour le débroussaillement en région méditerranéenne. Compte tenu des difficultés rencontrées par l'agriculture en région méditerranéenne, l'Office national des forêts s'efforcera prioritairement de contribuer à l'installation d'opérations pastorales en forêt reposant sur des élevages existants, essentiellement ovins et bovins : les caractéristiques des races locales d'animaux domestiques permettent de répondre, sur les plans technique et économique, à l'entretien des milieux ; mais il ne paraît pas opportun de confier à cet établissement un élevage de lamas. Il s'agit là d'une opération de recherches, qui doit être menée d'abord à très petite échelle pour en vérifier l'impact sur les écosystèmes forestiers et en mesurer toutes les conséquences. Il n'entre pas dans la vocation de l'Office national des forêts ni dans ses compétences reconnues de faire une telle recherche.
