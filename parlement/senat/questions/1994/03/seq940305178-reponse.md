@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305178
+
+- Question : [SEQ940305178](seq940305178.md) — Continuité des missions remplies par le centre d'étude des revenus et des coûts (CERC)
+
+## Réponse
+
+*Premier ministre, JO du 1995-02-02, page 251*
+
+Réponse. - L'honorable parlementaire appelle l'attention du Gouvernement sur les moyens nécessaires à la mission d'étude et d'information du nouveau Conseil supérieur de l'emploi, des revenus et des coûts que la loi quinquennale sur l'emploi et la formation professionnelle substitue à l'actuel centre d'étude des revenus et des coûts. Comme l'a souhaité le législateur, le dispositif tend à renforcer l'indépendance et l'autorité du nouveau conseil, à travers non seulement le mode de désignation de ses membres, mais aussi une meilleure séparation fonctionnelle des tâches d'étude par rapport aux tâches d'évaluation et de recommandation. Il concentre l'effort du Conseil sur un rapport annuel. A cet effet, le Conseil pourra mobiliser des moyens d'investigation statistique et d'étude plus importants que ceux dont disposait précédemment le CERC. Le Conseil disposera de moyens autonomes, et notamment de cadres de haut niveau (un rapporteur général, des rapporteurs détachés à temps plein ainsi que des rapporteurs à temps partiel mis à disposition par les grands corps de l'Etat, les administrations et l'université). Il s'appuiera en outre sur une petite équipe permanente d'experts. Il pourra solliciter des administrations les travaux qu'il jugera nécessaires et disposera de crédits d'études et de vacations d'un niveau au moins égal à ceux dont disposait le CERC. De façon générale, le nouveau conseil, jouissant d'une indépendance renforcée, ouvert à des personnalités qualifiées étrangères, et capable, au travers de son rapport annuel, de mobiliser les travaux les plus pertinents des administrations comme des centres académiques, disposera d'une autorité accrue, au plan national comme international.
