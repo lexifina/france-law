@@ -1,10 +1,6 @@
 # Article ANNEXE
 
-ADMINISTRATION CENTRALE ET SERVICES EXTÉRIEURS
-
-Fonctions exercées pouvant ouvrir droit au versement
-
-d'une nouvelle bonification indiciaire
+Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
 Agent d'accueil.
 
@@ -56,7 +52,7 @@ Responsable des méthodes administratives et de l'application des mesures catég
 
 Responsable de la section Frais de déplacements.
 
-Tranche 1990
+TRANCHE 1990
 
 Responsable de secrétariat de directeur.
 
@@ -76,7 +72,9 @@ Chef de salle de centre de gestion des radiocommunications.
 
 Chef de salle du centre de contrôle international des fréquences.
 
-Tranche 1991
+Chargé du bureau d'ordre d'antenne régionale du service national des radiocommunications.
+
+TRANCHE 1991
 
 Bureauticien, assistant d'utilisateur de micro-informatique.
 
@@ -92,11 +90,9 @@ Chef de salle de centre de gestion des radiocommunications.
 
 Gestionnaire comptable et financier.
 
-Tranche 1992
+TRANCHE 1992
 
 Responsable de secrétariat de direction.
-
-Chef de groupement des affaires multilatérales et internationales.
 
 Expert des procédures de contrôles douaniers des équipements de télécommunications.
 
@@ -140,7 +136,7 @@ Emploi de chargé de communication des D.R.I.R.E.
 
 Emploi comportant des fonctions de correspondant informatique.
 
-Tranche 1993
+TRANCHE 1993
 
 Secrétaire de direction.
 
@@ -154,7 +150,7 @@ Chargé de bureau d'ordre d'antenne régionale du service national des radiocomm
 
 Bureauticien-assistant d'utilisateur de micro-informatique.
 
-Tranche 1994
+TRANCHE 1994
 
 Emploi correspondant à une mission de conception ou de coordination requérant une technicité de haut niveau.
 
@@ -167,3 +163,7 @@ Gestionnaire des dossiers de spécifications techniques des équipements radioé
 Chargé de bureau d'ordre d'antenne régionale du service national des radiocommunications.
 
 Responsable local de formation.
+
+TRANCHE 1996
+
+Responsable d'antenne régionale des radiocommunications.
