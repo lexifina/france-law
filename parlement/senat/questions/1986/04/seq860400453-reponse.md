@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400453
+
+- Question : [SEQ860400453](seq860400453.md) — Marché de la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1986-07-10, page 958*
+
+Réponse. -La commission des Communautés européennes a décidé, début 1984, d'allonger le délai de paiement des viandes livrées à l'intervention publique. Il n'est malheureusement pas possible de remédier à cet état de fait sans contrevenir à la réglementation communautaire. D'autre part, l'aggravation du déficit en viande fraîche n'a pas pour unique cause la baisse de la production, la consommation représentant en 1985 91 p. 100 de la production totale. Il convient de souligner également que l'application de mesures de soutien et d'assainissement du marché, en permettant un raffermissement des cours en France, présente également des inconvénients. En effet certains Etats membres limitent volontairement leurs achats afin de conserver un prix de marché interne suffisamment bas pour permettre à leurs viandes d'être plus concurrentielles à l'exportation. La Communauté économique européenne étant une zone de libre circulation, la France ne peut s'opposer à l'importation de viande en provenance de ces Etats membres sans contrevenir aux règles fondamentales du Traité de Rome. Il y a dès lors contradiction entre la volonté de soutien des prix et d'assainissement du marché et celle de limiter les importations. En ce qui concerne le financement de la production de viande bovine, il convient de rappeler qu'une réforme est intervenue récemment améliorant les conditions d'octroi des prêts spéciaux d'élevage. Ces prêts ont notamment été étendus au financement du cheptel de croît et d'engraissement, leur plafond d'encours et leur quotité de financement ont été relevés. A ces mesures vient s'ajouter la baisse annoncée de l'ensemble des taux des prêts bonifiés qui devrait intervenir prochainement et faciliter ainsi le financement de la production de viande bovine.
