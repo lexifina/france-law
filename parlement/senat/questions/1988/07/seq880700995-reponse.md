@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700995
+
+- Question : [SEQ880700995](seq880700995.md) — Compétences des recettes principales des impôts et des fiscalités immobilières
+
+## Réponse
+
+*Économie, JO du 1988-09-15, page 1025*
+
+Réponse. - L'enregistrement peut être défini comme une formalité accomplie par les receveurs des impôts après une analyse d'événements juridiques, constatés ou non par un acte, qui conduit à la perception d'un impôt. Depuis le 1er octobre 1970, pour un nombre d'actes important, la formalité de l'enregistrement est fusionnée avec celle de la publicité foncière, qui est effectuée par le conservateur des hypothèques. Elle recouvre, notamment, les actes portant mutation à titre onéreux de droits réels immobiliers. La formalité de l'enregistrement est effectuée dans les recettes principales des impôts pour les déclarations et les actes qui ne sont pas soumis à la publicité foncière ou qui sont exclus de la formalité fusionnée. Les travaux des services comptables de la direction générale des impôts (conservations des hypothèques et recettes) et des inspecteurs de fiscalité immobilière sont de nature différente et complémentaire. Le rôle du comptable est conditionné par le recouvrement des impôts. En matière de droits d'enregistrement, il doit successivement analyser l'opération ou l'événement juridique, opérer la liquidation et recouvrer les droits avant de procéder à l'accomplissement de la formalité. Toutefois, en ce qui concerne le droit de bail, les recettes sont également chargées de la première relance des redevables défaillants connus de l'administration pour avoir souscrit une déclaration l'année précédente. Le rôle de l'inspection de fiscalité immobilière est double : surveiller la présentation à l'enregistrement des actes ou déclarations et, le cas échéant, conduire les procédures de relance et de taxation d'office ; vérifier les conditions d'application des droits et contrôler l'assiette de l'impôt.
