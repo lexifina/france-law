@@ -1,0 +1,11 @@
+# Réponse à la question SEQ960415183
+
+- Question : [SEQ960415183](seq960415183.md) — Conditions d'accès au fonds d'aide aux jeunes
+
+## Réponse
+
+*Travail, JO du 1996-07-25, page 1933*
+
+Réponse. - Le fonds d'aide aux jeunes mis en place par la loi no 86-905 du 19 décembre 1989 et généralisé par la loi no 92-722 du 29 juillet 1992 relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle constitue un dispositif de lutte contre l'exclusion. Il est destiné aux jeunes de dix-huit à vingt-cinq ans qui connaissent de graves difficultés d'insertion et qui ont besoin d'une aide financière assortie ou non d'un accompagnement social. Financé à parité par l'Etat et le Conseil général, ce fonds est institué par une convention conclue entre les différents partenaires qui s'y associent. Il permet d'apporter aux jeunes en grande difficulté d'insertion sociale ou professionnelle soit un secours d'urgence, soit une aide financière dans le cadre d'un projet d'insertion. L'aide accordée par le fonds est subsidiaire ; elle est attribuée après vérification que tous les droits aux prestations légales aient été ouverts. Tout jeune en très grande di
+
+fficulté âgé de dix-huit à vingt-cinq ans peut prétendre au FAJ en s'adressant aux missions locales et PAIO, aux services sociaux du département, aux centres communaux d'action sociale, aux caisses d'allocations familiales, aux services sociaux d'aide aux migrants, etc. " Un référent " lui est désigné afin de l'aider à formuler sa demande d'aide et élaborer sa démarche d'insertion. C'est pouquoi, pour répondre à la préoccupation de l'honorable parlementaire, l'ensemble des informations concernant cette mesure est plus directement destinée aux acteurs sociaux tels que les éducateurs spécialisés, les équipes de prévention ou de protection judiciaire qui sont susceptibles d'être en contact avec ces jeunes considérés comme prioritaires. Enfin, il y a lieu de rappeler que les jeunes en très grande difficulté peuvent, au cours de leur parcours individuel d'insertion, bénéficier non seulement des diverses mesures existantes - en particulier celles décidées par le Gouvernement à l'occasion du sommet sociale du 21 décembre 1995 : CIE-jeunes et emplois-ville - mais encore d'une nouvelle aide spécifique attribuée par le FAJ.
