@@ -1,9 +1,7 @@
 # Article Annexe I
 
-SCIENCES ECONOMIQUES
+SCIENCES ÉCONOMIQUES
 
-La deuxième épreuve comporte une présentation par le candidat devant le jury d'un enseignement qu'il a effectué ; ce dernier est choisi par le président sur une liste d'au moins trois enseignements fournie par le candidat lors de son inscription.
+La deuxième épreuve comporte une présentation orale par le candidat de ses projets de recherche. Cette présentation d'une durée de vingt minutes est suivie d'une discussion de trente minutes avec le jury.
 
-Cette présentation est suivie d'une discussion avec le jury sur la problématique, les instruments d'analyse et la méthode pédagogique utilisés.
-
-La durée de l'épreuve est fixée par le président. Elle doit être la même pour tous les candidats et ne doit pas excéder quarante-cinq minutes.
+En vue de l'épreuve, le candidat fournit, avec les pièces justificatives présentées à l'appui de la candidature, un document de 10 à 15 pages exposant ses projets.
