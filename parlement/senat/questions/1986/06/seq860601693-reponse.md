@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601693
+
+- Question : [SEQ860601693](seq860601693.md) — Situation de l'usine Renault Véhicule Industriel de Suresnes (Hauts-de-Seine)
+
+## Réponse
+
+*Industrie, JO du 1986-09-18, page 1319*
+
+Réponse. -Renault - Véhicules industriels, confronté à des marchés déprimés depuis plusieurs années, doit adapter ses structures, dans un délai aussi court que possible, pour atteindre son objectif de retour à la rentabilité. Cet effort de redressement s'accompagne d'un examen général des implantations de la société (usines, entrepôts, bureaux) qui excèdent ses besoins réels et entraînent des surcoûts importants d'exploitation. Les effectifs de l'établissement de Suresnes s'élèvent actuellement à 740 personnes. L'évolution du personnel sur ce site s'effectue dans des conditions tout à fait comparables à celles du reste de l'entreprise, l'ajustement des effectifs représentant, à côté des mesures de restructuration, de réorganisation et de gestion, l'une des mesures destinées à assurer un redressement rapide et durable de la société. Cet établissement représentant ensuite, par sa superficie et son emplacement, une implantation susceptible d'être réaménagée dans de meilleures conditions, la Cogedim, société de promotion immobilière appartenant au groupe Paribas, s'est déclarée intéressée par l'acquisition de ces terrains, afin d'y construire un ensemble immobilier à usage de bureaux. Renault - Véhicules industriels se réserverait un droit d'option pour louer une partie du futur programme, ce qui pourrait constituer l'une des solutions à l'étude pour reloger les services de l'entreprise installée à Suresnes. Toutefois, la mise en oeuvre de ce projet reste soumise à la bonne fin des procédures administratives en cours. La cession immobilière à laquelle Renault - Véhicules industriels souhaite procéder à Suresnes est donc avant tout destinée à améliorer la situation financière de l'entreprise.
