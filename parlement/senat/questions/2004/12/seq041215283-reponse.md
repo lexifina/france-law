@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215283
+
+- Question : [SEQ041215283](seq041215283.md) — Service minimum d'électricité aux personnes défavorisées
+
+## Réponse
+
+*Industrie, JO du 2005-03-31, page 933*
+
+Le ministre délégué à l'industrie a installé le 10 décembre 2004 à Bercy un groupe de travail réunissant élus, représentants des collectivités locales, d'associations caritatives, de défense des consommateurs, des fournisseurs d'électricité, ainsi que de la CNIL (Commission nationale de l'informatique et des libertés). Afin d'améliorer l'efficacité des dispositifs existants, notamment du FSE (Fonds de solidarité énergie), le ministre délégué à l'industrie a demandé au groupe de travailler selon quatre axes : 1. L'amélioration de l'échange d'information entre les fournisseurs d'électricité et les services sociaux sur les familles en situation de précarité et connaissant des difficultés de paiement ; 2. La diminution, pour les personnes en situation précaire, du coût de certains services liés à la fourniture d'électricité, tel que le raccordement ; 3. L'encadrement réglementaire des conditions d'interruption de la fourniture de courant ; 4. La mise en place d'actions de sensibilisation à destination des familles en situation de précarité et des travailleurs sociaux. Fin février 2005, le groupe de travail a proposé au ministre deux projets de décret : un décret qui organise l'information des services sociaux en cas d'impayé afin que le consommateur en difficulté puisse éventuellement bénéficier d'une aide du FSL (Fonds de solidarité pour le logement) ; un décret qui étend la tarification spéciale de l'électricité, accessible aux consommateurs démunis, aux services liés à la fourniture particulièrement la mise en service. Ces projets de décrets font actuellement l'objet des consultations nécessaires notamment auprès de la CNIL afin d'être publiés dans les meilleurs délais.
