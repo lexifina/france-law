@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206130
+
+- Question : [SEQ980206130](seq980206130.md) — Activités extra-hospitalières de l'hôpital d'Orsay
+
+## Réponse
+
+*Emploi, JO du 1998-12-24, page 4126*
+
+Réponse. - Jusqu'au 31 décembre 1985, la sectorisation psychiatrique était régie par l'arrêté du 14 mars 1972 fixant les modalités du règlement départemental de lutte contre les maladies mentales. La prise en charge financière des frais de fontionnement des secteurs psychiatriques s'effectuait sur la base de conventions signées entre les établissements de santé, auxquels ces secteurs étaient rattachés, et le représentant de l'Etat dans le département. L'Etat remboursait, après service fait, les dépenses effectivement engagées par les établissements au titre des activités extra-hospitalières, sur les crédits inscrits chaque année au chapitre 47-14, article 30, du budget de l'Etat. La loi nº 85-1468 du 31 décembre 1985 relative à la sectorisation psychiatrique a transféré la gestion des activités de sectorisation psychiatrique aux établissements hospitaliers et mis leur financement à la charge de l'assurance maladie, à compter du 1er janvier 1986. L'absence d'inscription, au budget de l'Etat, de crédits budgétaires suffisants, à compter de l'exercice 1986, n'a pas permis de solder les dépenses engagées au 31 décembre 1985, conformément au droit applicable antérieurement. De ce fait, un certain nombre d'établissements hospitaliers, dont le centre hospitalier d'Orsay, disposent encore d'une créance envers l'Etat au titre de la sectorisation psychiatrique, et il subsiste un problème d'apurement de ces dépenses qui n'a pu, à ce jour, trouvé de solution globale. Ces dernières années, plusieurs établissements hospitaliers ont saisi la juridiction administrative pour obtenir le paiement de leur créance. Dans ces cas, le ministère de l'emploi et de la solidarité s'en est toujours remis à la sagesse du tribunal.
