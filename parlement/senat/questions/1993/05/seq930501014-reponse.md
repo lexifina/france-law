@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501014
+
+- Question : [SEQ930501014](seq930501014.md) — Conditions de mise en oeuvre du parcours résidentiel personnalisé
+
+## Réponse
+
+*Logement, JO du 1993-10-21, page 1961*
+
+Réponse. - La mission de réflexion et de proposition " à la mise en oeuvre des parcours résidentiels personnalisés " lancée en mai 1992 visait à étudier les mesures à prendre pour garantir le droit pour chaque personne d'avoir un logement adapté à ses beoins, les moyens d'y rester et la possibilité d'en changer selon les évolutions de la vie. La mission devait aboutir à des plans d'action concernant différents aspects du logement et à des initiatives d'expériences locales. Il en est résulté une note d'orientation générale, d'une part, et une expérimentation conduite dans quatre départements (Rhône, Seine-et-Marne, Val-d'Oise, Ille-et-Vilaine), d'autre part. Cette expérience désignée comme " mission locale de l'habitat " vise à améliorer la procédure d'attribution des logements sociaux au niveau d'un département, par l'identification des lieux d'accueil de la demande et l'établissement de règles cohérentes figurant dans des protocoles établis entre les services de l'Etat et les organismes de logements sociaux. A l'heure actuelle, le bilan de ces expérimentations, initiées il y a moins d'un an, n'a pas été réalisé. La préoccupation majeure de l'actuel gouvernement est de faciliter l'accès au logement. Un groupe de travail composé de personnalités élues et de responsables d'organismes HLM a été chargé d'engager une réflexion et de faire des propositions pour améliorer les processus d'attribution des logements sociaux. Par ailleurs, un plan de relance de l'offre de logements sous toutes ses formes (constructions de logements locatifs, accession, ventes de logements sociaux aux locataires, etc.) et lancé, apportant ainsi concrètement une réponse aux besoins multiples et variés des demandeurs.
