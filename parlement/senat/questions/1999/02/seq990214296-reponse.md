@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214296
+
+- Question : [SEQ990214296](seq990214296.md) — Extension des compétences de la commission d'accès aux documents administratifs (CADA)
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-29, page 1422*
+
+Réponse. - Le projet de loi relatif aux droits des citoyens dans leurs relations avec les administrations (DCRA), examiné en première lecture par le Sénat le 10 mars 1999, contient diverses dispositions modifiant la loi nº 78-753 du 17 juillet 1978 relative à la liberté d'accès aux documents administratifs, en vue notamment d'étendre les compétences de la commission d'accès aux documents administratifs (CADA). L'objectif poursuivi consiste à améliorer la cohérence des procédures applicables à la communication des documents administratifs quelle que soit leur nature. En premier lieu, le projet prévoit de donneur à la CADA compétence pour donner un avis, au regard des dispositions de la loi du 17 juillet 1978 " Informatique et libertés ", sur le caractère communicable aux tiers des documents administratifs résultant de traitement automatisés d'informations nominatives. En second lieu, la CADA recevra compétence pour connaître des difficultés rencontrées par les personnes en matière de consultation de documents d'archives publiques. En troisième lieu, cette commission verra sa compétence étendue aux documents administratifs dont l'accès est régi par des dispositions particulières (procès-verbaux de conseils municipaux, comptes des communes, listes électorales, extraits de rôles des impôts, statuts des associations régies par le droit local d'Alsace-Moselle, registres d'acquisitions communales). Enfin, le projet étend la compétence de la CADA pour émettre de sa propre initiative des propositions de toute nature pour améliorer l'exercice du droit d'accès aux documents administratifs
