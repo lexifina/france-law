@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213779
+
+- Question : [SEQ960213779](seq960213779.md) — Prévision de disparition d'établissements et services hospitaliers publics en 1996 en Champagne-Ardenne
+
+## Réponse
+
+*Santé, JO du 1996-09-12, page 2367*
+
+Réponse. - L'honorable parlementaire demande de lui citer les établissements hospitaliers publics et les services hospitaliers destinés à disparaître en 1996 dans la région Champagne-Ardenne à la suite des résultats d'une enquête menée par l'administration. Aucune enquête de ce type, qui viserait à déterminer les établissements ou services à supprimer, n'a été conduite récemment, et les informations demandées ne peuvent en conséquence être communiquées. Le cadre dans lequel s'inscrit le dispositif hospitalier public et privé est fixé par le schéma régional d'organisation sanitaire et son annexe. Le SROS de Champagne-Ardenne a été arrêté par le préfet de région le 19 juillet 1994. Il a donné lieu à des études et analyses qui se sont poursuivies depuis pour le compléter et l'enrichir par les volets de soins de suite, de la réanimation et de la dialyse. Les travaux relatifs au schéma de psychiatrie ont été entrepris en 1996. De plus des études spécifiques sur certains établissements de santé, portant sur les établissements peu actifs, les petits services de chirurgie ou certaines maternités, sont en cours pour permettre de préciser certaines orientations du schéma et de son annexe, et mettre en oeuvre le SROS. L'adaptation de l'offre de soins hospitaliers publics et privés est nécessaire, tant pour améliorer la qualité et la sécurité des soins que pour optimiser les moyens. Mettre en oeuvre les objectifs et les orientations du SROS reste une priorité, à laquelle doit adhérer l'ensemble des acteurs, dans une démarche de concertation et de transparence.
