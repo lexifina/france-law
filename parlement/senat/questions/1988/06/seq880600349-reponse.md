@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600349
+
+- Question : [SEQ880600349](seq880600349.md) — Contenu du certificat de travail délivré par l'employeur à l'expiration d'un contrat de travail
+
+## Réponse
+
+*Travail, JO du 1989-01-05, page 37*
+
+Réponse. - Comme l'a rappelé l'honorable parlementaire dans sa question écrite, le certificat de travail délivré par l'employeur à l'expiration du contrat de travail doit mentionner les emplois occupés par le salarié dans l'entreprise et les périodes y afférentes, en vertu de l'article L. 122-16 du code du travail. Dans le cas où le salarié, titulaire d'un contrat à durée indéterminée, occupe un emploi intermittent au sens de l'ordonnance du 11 août 1986 qui comporte par nature une alternance de périodes travaillées et de périodes non travaillées, ou un emploi à temps partiel au sens de l'ordonnance du 26 mars 1982, l'employeur ne pourra remettre à l'intéressé le certificat de travail qu'après la rupture du contrat de travail. Ce certificat de travail devra mentionner la nature de l'emploi ou, le cas échéant, des emplois successivement occupés ainsi que les périodes pendant lesquelles ces emplois ont été tenus. S'agissant de contrats à durée déterminée que les tribunaux judiciaires requalifieraient en un contrat à durée indéterminée, l'ensemble des postes occupés doit figurer sur le certificat de travail, en application de l'article L. 122-16 susvisé. Dans le cas où les contrats à durée déterminée se succèdent de façon discontinue, l'employeur a la faculté de délivrer un certificat de travail à l'issue de chaque contrat à durée déterminée. De ce fait, il peut y avoir autant de certificats de travail que de périodes travaillées. Il n'apparaît pas, dans ces conditions, nécessaire d'adopter des mesures spécifiques sur cette question compte tenu de l'existence des dispositions susvisées qui apportent une solution aux problèmes invoqués par l'honorable parlementaire.
