@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601533
+
+- Question : [SEQ930601533](seq930601533.md) — Elimination des déchets
+
+## Réponse
+
+*Environnement, JO du 1993-08-26, page 1471*
+
+Réponse. - La loi du 13 juillet 1992, relative à l'élimination des déchets ainsi qu'aux installations classées pour la protection de l'environnement, a mis en place une nouvelle politique des déchets. Les dispositions concernant les déchets des ménages portent notamment sur la planification de l'élimination. A cet égard, chaque département doit, dans un délai de trois ans à compter de parution du décret d'application, décret du 3 février 1993 paru le 4 février 1993, être couvert par un plan départemental ou interdépartemental d'élimination des déchets ménagers et assimilés. Les plans permettront d'atteindre les objectifs de la loi du 13 juillet 1992 : organiser le transport des déchets et le limiter en distance et en volume ; valoriser les déchets ; ne plus accueillir en décharge à partir du 1er juillet 2002 que des déchets ultimes et de définir les besoins de création d'installations nouvelles. Par ailleurs, tout exploitant d'une installation de stockage de déchets ménagers et assimilés, à l'exception des décharges internes, est assujetti à une taxe depuis le 1er avril 1993. Son taux est de 20 francs par tonne de déchets réceptionnés, porté à 30 francs si la provenance des déchets est extérieure au périmètre du plan d'élimination. Le produit de la taxe, de l'ordre de 400 MF par an, alimentera le fonds de modernisation des déchets, géré par l'ADEME (agence de l'environnement et de la maîtrise de l'énergie). Son montant servira entre autres à l'aide aux communes recevant sur leur territoire une nouvelle installation intercommunale de traitement de déchets ménagers et assimilés, et à l'aide à la réalisation d'équipements de traitement des déchets ménagers et assimilés, notamment de ceux qui utilisent des techniques innovantes.
