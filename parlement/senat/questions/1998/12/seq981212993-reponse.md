@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212993
+
+- Question : [SEQ981212993](seq981212993.md) — Exploitation du réseau de transport à haute tension confiée à deux gestionnaires distincts
+
+## Réponse
+
+*Industrie, JO du 1999-02-25, page 621*
+
+Réponse. - Le conseil des ministres a adopté le 9 décembre 1998 le texte du projet de loi de modernisation et de développement du service public de l'électricité, et en a saisi le Parlement. Au terme d'une très large concertation, le Gouvernement a souhaité que le pays soit doté d'une loi qui, en rendant le système électrique plus efficace, complète le dispositif législatif, notamment la loi de 1946, et conforte le service public de l'électricité. L'un des facteurs de réussite d'Electricité de France est qu'il s'agit d'une entreprise électrique intégrée qui assure à la fois la production, le transport et la distribution de l'énergie électrique. Le projet de loi propose donc de désigner EDF comme le gestionnaire unique du réseau de transport. Conformément à la directive sur le marché intérieur de l'électricité, ses missions seront d'exploiter et développer l'infrastructure, d'" appeler " les installations de production et d'assurer l'accès des tiers au réseau. Le gestionnaire du réseau fera donc partie de l'entreprise publique. C'est pourquoi de fortes garanties seront données afin d'assurer son indépendante par rapport aux différents acteurs. La séparation de gestion et les moyens mis à la disposition du gestionnaire, le mode de nomination du directeur et l'obligation de garantir la confidentialité des informations commercialement sensibles constituent les principaux aspects de cette indépendance. Une régulation indépendance spécialisée assurera le contrôle de l'accès des tiers au réseau. Enfin, ce dispositif est complété par la séparation comptable de la fonction de transport, la définition d'un tarif d'accès réglementé, le contrôle du budget du gestionnaire de réseau par le régulateur, etc.
