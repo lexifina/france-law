@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106836
+
+- Question : [SEQ891106836](seq891106836.md) — Acquisition d'armes de défense
+
+## Réponse
+
+*Intérieur, JO du 1989-12-28, page 2191*
+
+Réponse. - L'article 15 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions dispose que l'acquisition et la détention d'armes ou de munitions de la première ou de la quatrième catégorie sont interdites, sauf autorisation. L'article 25-5° du décret n° 73-364 du 12 mars 1973 relatif à l'application de ce texte prévoit que la délivrance d'une autorisation d'acquisition et de détention d'une arme de quatrième catégorie à titre de défense est dans tous les cas à la charge du préfet du département du lieu de domicile. A Paris, le préfet compétent est le préfet de police. L'article 26 du décret de 1973 dispose que la demande d'autorisation doit être appuyée : des pièces justificatives du domicile ; d'une déclaration, écrite et signée, faisant connaître l'espèce et le nombre des armes et munitions détenues au moment de la demande, s'il s'agit d'un étranger âgé de vingt et un ans au moins (condition d'âge requise dans tous les cas), de la justification de la qualité de résident ; sont dispensés de cette formalité les membres du corps diplomatique ainsi que les membres du corps consulaire admis à l'exercice de leur activité sur le territoire français. Enfin, au titre de l'article 28 du même texte, la demande d'autorisation accompagnée des pièces justificatives nécessaires est remise, selon le cas, au commissaire de police ou au commandant de brigade de gendarmerie compétents au lieu de domicile, ou, pour les étrangers, au lieu de résidence. Cette requête est transmise à l'autorité préfectorale qui statue après s'être fait délivrer le bulletin n° 2 du casier judiciaire du demandeur. Sa décision est notifiée par l'intermédiaire de l'autorité de police qui a reçu la demande.
