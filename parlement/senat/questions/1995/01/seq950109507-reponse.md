@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109507
+
+- Question : [SEQ950109507](seq950109507.md) — Autoroutes de l'information
+
+## Réponse
+
+*Industrie, JO du 1996-03-28, page 741*
+
+Réponse. - La France a fait du dossier " Société de l'information ", composante européenne du thème " autoroutes de l'information ", une des priorités de sa présidence. Une réunion ministérielle du G7 s'est tenue à Bruxelles les 25 et 26 février 1995 sur ce sujet qui a donné lieu au lancement de onze projets pilotes entre les pays du G7 et la Commission européenne. La France a aussi insisté pour que la Commission présente dans les meilleurs délais son plan d'action effectif sur la mise en oeuvre du rapport Bangemann, examiné lors du conseil industrie du mois d'avril dernier. Dans cette perspective, elle a demandé lors des derniers conseils européens des télécommunications et de l'industrie que la méthodologie globale sur la mise en oeuvre de ce dossier soit examinée dans les plus brefs délais. La présidence espagnole a fait progresser tous les dossiers ouverts sous la présidence française, sur ce thème, qui visent à favoriser le lancement d'expérimentations de nouvelles applications ou de nouveaux services en Europe : un accord politique a été obtenu sur le programme INFO 2000 et sur la décision du conseil relative aux orientations des réseaux transeuropéens de télécommunications lors du conseil télécommunications du 27 novembre dernier tandis que la décision relative au développement de l'EURO-RNIS était adoptée. Les problèmes soulevés par l'émergence de ces nouvelles technologies en matière de propriété intellectuelle sont effectivement importants. Il est nécessaire en effet de disposer d'un cadre réglementaire cohérent permettant d'assurer cette protection et la rémunération associée des auteurs si l'on souhaite voir ce secteur se développer sur notre territoire et diffuser à l'étranger.
