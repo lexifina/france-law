@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927463
+
+- Question : [SEQ000927463](seq000927463.md) — Modalités de paiement dans les marchés publics
+
+## Réponse
+
+*Économie, JO du 2001-12-20, page 4024*
+
+L'observation de délais de paiement à la fois raisonnable et prévisible est évidemment un facteur essentiel pour l'équilibre économique et financier des petites et moyennes entreprises titulaires de marchés publics, qui à défaut peuvent se trouver confrontées à des difficultés sérieuses de trésorerie. C'est pourquoi un effort important a d'ores et déjà été réalisé, afin de définir des délais précis de mandatement. Cela a permis de clairifier la question des délais de paiement et a permis une très forte réduction des difficultés auxquelles avaient pu être confrontées les entreprises. C'est dans le souci de parachever cette nécessaire évolution, en définissant des règles claires pour les entreprises, et en particulier les plus petites d'entre elles, dont la trésorerie peut s'avérer la plus fragile, qu'un encadrement des délais de paiement a été défini par la directive 2000/35/C.E. du Parlement européen et du Conseil du 29 juin 2000 concernant la lutte contre le retard de paiement dans les transactions commerciales et publiées au Journal officiel des Communautés européennes du 8 août 2000. La loi n°, 2001-410 du 15 mai 2001 relative aux nouvelles régularisations économiques et le décret n° 2001-210 du 7 mars 2001 portant code des marchés publics ont transcrit dans le droit français les dispositions de cette directive. Les projets de décrets d'application de l'article 96 du code des marchés publics et relatif à ce point qui doivent être présentés à la fin du mois d'octobre au comité des finances locales prévoient la mise en oeuvre d'un délai maximum de 45 jours, qui devrait répondre à la question posée. Ces décrets seront publiés très prochainement.
