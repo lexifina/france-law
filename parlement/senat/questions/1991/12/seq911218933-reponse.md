@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218933
+
+- Question : [SEQ911218933](seq911218933.md) — Entrepreneurs individuels
+
+## Réponse
+
+*Premier ministre, JO du 1992-06-18, page 1368*
+
+Réponse. - Le Gouvernement poursuit depuis plusieurs années une politique de réduction des charges de toutes les entreprises indépendamment de leur forme juridique ou de leur secteur d'activité. A cet égard, la loi de finances pour 1992 contient plusieurs mesures de nature à alléger les charges fiscales qui pèsent sur les entreprises individuelles. Ainsi, le plafond dans la limite duquel les adhérents à des centres ou à des associations de gestion agréés bénéficient d'un abattement de 20 p. 100 sur leur revenu professionnel est relevé de 426 000 francs à 440 000 francs. Le taux d'imposition des plus-values sur terrains à bâtir est quant à lui ramené de 26 p. 100 à 16 p. 100. Enfin, plusieurs mesures visent à faciliter le développement et la transmission des entreprises individuelles. Il a notamment été dicidé d'alléger les droits sur les cessions de fonds de commerce et portant de 300 000 francs à 500 000 francs le plafond de la fraction de prix soumise au taux de 7 p. 100. Par ailleurs, plusieurs des dispositions adoptées ont eu pour objet d'atténuer le coût de la transformation éventuelle d'une entreprise individuelle en société de capitaux, qu'il s'agisse d'une société anonyme ou d'une société à responsabilité limitée. C'est ainsi que seul un droit fixe de 500 francs est désormais perçu lors des opérations de cette nature et que le régieme de report d'imposition des plus-values dégagées lors de l'apport en société d'une entreprise individuelle est étendue aux profits dégagés sur l'apport des stocks. Compte tenu de ces aménagements, rien ne s'oppose plus, sur le plan fiscal, à ce qu'un entrepreneur individuel transforme juridiquement son exploitation s'il estime qu'un tel changement serait, pour lui fiscalement avantageux.
