@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616890
+
+- Question : [SEQ990616890](seq990616890.md) — Renforcement du dispositif de sécurité de la gare d'Istres
+
+## Réponse
+
+*Équipement, JO du 1999-09-16, page 3087*
+
+Réponse. - Afin d'améliorer encore la sécurité des personnes lors de la traversée des voies dans les gares, Réseau ferré de France vient d'engager un programme pluriannuel d'investissement sur le réseau ferré national. Ce programme s'inscrit dans le prolongement de celui que la SNCF avait arrêté, dès 1996, lorsque avaient été redéfinis les critères d'évaluation de ce type de risque. Le choix de l'équipement d'une signalétique, d'une signalisation lumineuse, de passerelle ou de souterrain est fonction de ces critères qui sont, notamment, le trafic de la ligne, la fréquentation de la gare, les flux simultanés de voyageurs. Dans le cas de la gare d'Istres, l'étude réalisée à cet effet a montré qu'un dispositif d'annonce automatique des circulations ferroviaires permettrait d'améliorer la sécurité des personnes lors du franchissement des voies. Un tel dispositif a été installé en novembre 1996. L'accident survenu en décembre 1998 s'est produit alors que la victime montait dans le train à contre-voie. Outre le risque à la traversée des passages planchétés en gare, cet accident met malheureusement en évidence le danger que constitue la montée dans un train en dehors du quai prévu à cet effet. La SNCF vient de réexaminer les critères pris en compte localement lors de la définition de l'équipement à la traversée des voies de la gare d'Istres pour vérifier s'il est adapté au niveau actuel de risque. Cet examen a confirmé le choix du dispositif en place. En fonction de l'évolution des critères de fréquentation des voyageurs, l'inscription de la gare d'Istres dans le programme d'investissement de RFF devra être examinée.
