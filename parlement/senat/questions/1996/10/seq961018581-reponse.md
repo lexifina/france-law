@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018581
+
+- Question : [SEQ961018581](seq961018581.md) — Difficultés d'obtention du visa rencontrées par les Marocains pensionnés de guerre
+
+## Réponse
+
+*Intérieur, JO du 1997-01-02, page 39*
+
+Réponse. - La délivrance des visas étant de la compétence du ministère des affaires étrangères, ce département ministériel a été interrogé. Il apparaît, après consultation des postes consulaires français au Maroc, que les refus de visa opposés à des pensionnés de guerre, au demeurant assez rares, correspondent à des dossiers incomplets, notamment en ce qui concerne les renseignements à fournir sur les conditions d'hébergement en France. L'honorable parlementaire fait état des conséquences des refus de visa qui ne permettraient pas à certains pensionnés marocains de se rendre en France lorsqu'ils sont convoqués pour des contrôles médicaux. Cette absence les pénaliseraient en ne leur permettant pas d'obtenir une revalorisation de leur pension. Interrogé, le ministère des anciens combattants a fait savoir que les expertises médicales n'étaient pratiquées que dans le cadre d'aggravation des pathologies à l'origine du versement de la pension et non à l'occasion de revalorisations purement mécaniques. Les contrôles médicaux étaient effectués sur place au Maroc, et non en France, jusqu'en janvier 1991. Depuis cette date, les demandes de contrôles médicaux ne sont plus recevables. Compte tenu de ces éléments, le ministère des affaires étrangères n'envisage pas d'assouplissement particulier pour l'obtention de visa pour les Marocains pensionnés de guerre. Leurs déplacements en France ont, sauf exception mentionnée ci-dessus, pour objet une visite familiale ou touristique et ne répondent pas à des impératifs médicaux liés à leur état d'anciens combattants. Ils relèvent donc du droit commun en matière de délivrance de visas par les postes consulaires français au Maroc.
