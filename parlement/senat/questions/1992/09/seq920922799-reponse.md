@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922799
+
+- Question : [SEQ920922799](seq920922799.md) — Personnels gradés de la gendarmerie nationale
+
+## Réponse
+
+*Défense, JO du 1992-12-03, page 2684*
+
+Réponse. - La parité police-gendarmerie n'existe aujourd'hui que pour les grades de gardien de la paix et de gendarme. La situation des gradés de la gendarmerie fait, toutefois, l'objet de la même attention que celle portée aux gendarmes. En effet, les gradés de la gendarmerie ont une grille commune avec celle des sous-officiers des armées classés à l'échelle de solde n° 4 et ont bénéficié, depuis 1975, de toutes les mesures d'amélioration de cette grille, notamment de la création du corps des majors. Des améliorations significatives sont prévues au titre de cette grille indiciaire des sous-officiers et donc des gradés de la gendarmerie dans le cadre de la transposition aux personnels militaires des dispositions du protocole Durafour. C'est ainsi que les adjudants promus au grade d'adjudant-chef bénéficieront de deux échelons supplémentaires créés à compter du 1er août 1996, l'un après vingt-cinq ans de service (indice 462), l'autre exceptionnel pour un contingent de 15 p. 100 des effectifs du grade (indice 472). Les relèvements indiciaires dans chaque échelon vont de 9 à 34 points. En ce qui concerne les majors, dont la grille indiciaire continuera à se dérouler sur vingt-neuf ans de service, ils bénéficieront d'une réévaluation indiciaire pour rejoindre le nouveau plafond de la catégorie B, l'échelon exceptionnel se situera à l'indice 511, ce qui correspond à un relèvement de 27 points. Ces dispositions sont complétées par l'attribution de la nouvelle bonification indiciaire qui permet de mieux rémunérer les titulaires de nombreux postes de responsabilité, en particulier parmi les sous-officiers et ceux qui exigent une technicité particulière.
