@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206379
+
+- Question : [SEQ980206379](seq980206379.md) — Missions de la police nationale
+
+## Réponse
+
+*Intérieur, JO du 1998-03-26, page 988*
+
+Réponse. - La garde des détenus hospitalisés et les présentations de détenus devant les différentes juridictions, instruction, jugement, constituent des charges qui pèsent sur la police nationale et particulièrement sur les services territoriaux de la direction centrale de la sécurité publique. La loi d'orientation et de programmation relative à la sécurité du 21 janvier 1995 prévoyait la possibilité de transférer à l'administration pénitentiaire les missions à caractère pénitentiaire. Une étude technique, réalisée du 2 mars au 26 juillet 1995 par une commission interministérielle présidée par un conseiller d'Etat, a conclu dans un sens défavorable à cette rétrocession. Dans le même temps, une mission d'étude était menée par l'inspection générale des affaires sociales et l'inspection des services judiciaires (IGAS/IGSJ) sur les conséquences des nouveaux textes relatifs à la prise en charge sanitaire des détenus. Parmi les propositions de cette mission, dans son rapport de juin 1995, figure la création dans huit ou neuf établissements hospitaliers universitaires d'unités sécurisées interrégionales (USIR). L'administration pénitentiaire et la direction générale de la police nationale ont engagé des travaux pour déterminer notamment les voies et moyens de l'accueil et de la garde des détenus malades dans ces unités. Cette concertation est appelée à se poursuivre. L'honorable parlementaire peut être assuré de ce que le ministre de l'intérieur est particulièrement attaché à ce que les services de police puissent se consacrer essentiellement à leurs missions prioritaires de lutte contre la délinquance sous toutes ses formes et de protection des citoyens.
