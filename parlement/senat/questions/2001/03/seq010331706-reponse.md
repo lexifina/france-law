@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331706
+
+- Question : [SEQ010331706](seq010331706.md) — Lutte contre les mines antipersonnel : formation au déminage de stagiaires étrangers
+
+## Réponse
+
+*Défense, JO du 2001-05-10, page 1594*
+
+Réponse. - Dans le cadre de la convention d'Ottawa portant interdiction totale des mines antipersonnel, l'action internationale de la France en matière de formation au déminage a été accentuée, notamment par l'accès des stagiaires étrangers et des organisations non gouvernementales (ONG) à l'Ecole supérieure d'application du génie (ESAG) d'Angers. Ainsi, 59 stagiaires militaires étrangers ont été accueillis en 2000 et au cours du premier trimestre 2001 dans cette école et 10 sont inscrits pour suivre une formation. A ce jour, le ministère de la défense n'a pas été saisi de demandes de participation de civils aux stages de l'ESAG. Cependant, lors du dernier séminaire sur l'extension de la convention d'Ottawa au continent africain qui s'est déroulé les 15 et 16 février dernier à Bamako (Mali), une brochure décrivant les formations proposées a été distribué aux participants, représentants étatiques ou appartenant à des ONG. Elle précise en particulier que ces formations sont ouvertes aux organisations civiles à partir de 2001. Plusieurs ONG et organisations régionales africaines, dont la communauté économique des Etats d'Afrique de l'Ouest, sont effectivement intéressées par ces formations, qui seront prises en charge par la Compagnie française d'assurance conformément aux dispositions de la convention cadre établie entre cet organisme et l'état-major de l'armée de terre. De plus, ce séminaire a été l'occasion d'annoncer la création au Bénin d'un centre de formation du génie. Ce centre aura une vocation régionale et sera chargé de former des instructeurs venant de différents pays d'Afrique de l'Ouest.
