@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120029
+
+- Question : [SEQ991120029](seq991120029.md) — Indemnisation des incorporés de force mosellans et alsaciens dans le RAD/KHD
+
+## Réponse
+
+*Anciens combattants, JO du 1999-12-16, page 4149*
+
+Réponse. - Les Alsaciens et Mosellans incorporés de force dans les formations paramilitaires allemandes, notamment le RAD, bénéficient comme victimes de guerre des droits à réparation institués par le législateur : ils ont droit à pension d'invalidité pour les blessures reçues et les maladies contractées au cours de ces services ; d'autre part, leurs périodes de mobilisation forcée comptent comme annualités pour les droits à retraite. Il est donc inexact de prétendre que les anciens incorporés de force au RAD n'ont pas bénéficié de l'attention des pouvoirs publics depuis la fin de la guerre. La question posée par l'honorable parlementaire se réfère certainement à l'indemnisation versée par l'Allemagne en application de l'accord intergouvernemental du 31 mars 1981. Celle-ci vise à réparer le préjudice moral constitué par l'obligation de service sous uniforme ennemi. Il a été considéré que seuls les Alsaciens et Mosellans incorporés dans les armées allemandes y avaient accès et la fondation " Entente franco-allemande " en avait écarté ceux qui avaient été incorporés par force dans les formations paramilitaires. Le secrétaire d'Etat à la défense chargé des anciens combattants a fait admettre une conception plus équitable et la fondation a admis le principe d'une indemnisation particulière pour les RAD. Cependant le nombre de bénéficiaires potentiels est beaucoup plus élevé qu'il n'avait été estimé et un financement complémentaire s'avère nécessaire. Le secrétaire d'Etat à la défense chargé des anciens combattants s'emploie à obtenir les crédits complémentaires.
