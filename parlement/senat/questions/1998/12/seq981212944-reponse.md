@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212944
+
+- Question : [SEQ981212944](seq981212944.md) — Délai moyen d'attente pour les demandes de mutation des fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-01, page 1074*
+
+Réponse. - L'article 60 du titre II du statut général des fonctionnaires de l'Etat prévoit que les affectations des fonctionnaires doivent tenir compte des demandes formulées par les intéressés et de leur situation de famille, sous réserve d'être compatibles avec le bon fonctionnement du service. Priorité est donnée aux fonctionnaires séparés de leur conjoint pour des raisons professionnelles. De même, l'article 62 précise que si les possibilités de mutation sont insuffisantes dans leur corps, les fonctionnaires séparés de leur conjoint pour des raisons professionnelles peuvent, dans toute la mesure compatible avec les nécessités de fonctionnement du service, compte tenu de leur situation particulière bénéficier, en priorité, de la position de détachement et, le cas échéant, d'une mise à disposition. Des dispositions analogues sont prévues pour les fonctionnaires relevant de la fonction publique territoriale et de la fonction publique hospitalière. En termes statistiques, les recensements effectués auprès des administrations ne permettent pas d'obtenir des informations chiffrées sur les mouvements des fonctionnaires de l'ensemble de la fonction publique française au titre du rapprochement des conjoints, ni de définir un délai moyen d'attente pour ces demandes particulières de mutation. En effet, la gestion des procédures de mutation n'est pas uniforme selon les ministères ou les collectivités territoriales. Il convient par ailleurs d'observer que le décalage entre les v ux exprimés par les agents et les possibilités de mutation est très souvent lié à la répartition inégale des emplois sur le territoire. Toutes les demandes même prioritaires ne peuvent donc être immédiatement satisfaites.
