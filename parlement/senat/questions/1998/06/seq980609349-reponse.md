@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609349
+
+- Question : [SEQ980609349](seq980609349.md) — Promotion de la culture qualité
+
+## Réponse
+
+*Industrie, JO du 1998-08-20, page 2718*
+
+Réponse. - Les études démontrent que les chefs des petites entreprises, et surtout de très petites, manquent encore d'informations qui pourraient les convaincre de mettre en place une démarche qualité, malgré les nombreuses actions déjà engagées dans ce domaine par le passé, notamment le soutient du développement de la formation qualifiante et diplômante à la qualité à travers la création de filières de formation de techniciens supérieurs et d'ingénieurs spécialistes en qualité, en formation initiale, permanente et par alternance. On doit aussi mentionner le soutien de la publication d'ouvrages comme le Répertoire des formations à la qualité, le Guide des métiers de la qualité, les Cahiers de la certification ou le lexique " Du bon usage des mots de la qualité ". Le guide évoqué par la question posée s'inscrit dans cette perspective. Il sera prêt à la fin de l'année 1998 et sera tiré à 3 000 exemplaires. Le coût de l'élaboration de cet ouvrage, a savoir la conception, la rédaction, la fabrication et l'édition, est d'environ 400 000 francs. Il sera vendu à un prix volontairement inférieur au coût de revient, à savoir autour de 120-150 francs l'unité. Les chefs d'entreprises pourront se procurrer ce document auprès du département publications-éditions de la délégation à la communication du secrétariat d'Etat à l'industrie. Lors de sa parution, cet ouvrage fera l'objet d'une communication spécifique. Il sera inscrit dans le catalogue des publications du secrétariat d'Etat à l'industrie et sera présenté dans un article du mensuel Industries, sur le site Internet du secrétariat d'Etat à l'industrie (http//www.industrie.gouv.fr), ainsi que par publipostage auprès d'environ 20 000 chefs d'entreprise.
