@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405353
+
+- Question : [SEQ870405353](seq870405353.md) — Cotisations sociales des médecins conventionnés à honoraires libres
+
+## Réponse
+
+*Affaires sociales, JO du 1987-07-30, page 1169*
+
+Réponse. -Les dispositions de la convention nationale des médecins conclue le 29 mai 1980, contestées par les médecins conventionnés à honoraires libres, avaient été annulées par le Conseil d'Etat le 2 décembre 1983 mais validées par une loi n° 84-2 du 2 janvier 1984 avec effet rétroactif au 1er juillet 1980. Toutefois, des instructions étaient données aux U.R.S.S.A.F. en février 1984 pour que celles-ci proposent aux médecins avec lesquels des litiges étaient en cours un désistement réciproque comportant l'abandon par les U.R.S.S.A.F. des majorations de retard encourues depuis les échéances postérieures au 1er juillet 1980. Certains médecins, notamment lorsqu'ils avaient obtenu un jugement favorable à leur thèse en première instance ou en appel, n'avaient pas donné suite à cette proposition. Les jugements rendus en leur faveur ont par la suite été annulés par des arrêts de cour de cassation en date soit du 24 mars 1986, soit du 4 février 1987. Par ailleurs, l'article 16 de la loi n° 87-39 du 27 janvier 1987 portant diverses mesures d'ordre social, qui accorde aux médecins conventionnés à honoraires libres un droit d'option pour l'affiliation au régime d'assurance maladie des travailleurs non salariés, ne comporte pas de dispositions rétroactives. Aucune participation des régimes d'assurance maladie au financement de la protection sociale des médecins à honoraires libres ne peut intervenir pour les périodes postérieures au 1er juillet 1980. Les demandes de remises de majorations de retard éventuellement formulées seront examinées, compte tenu de ce qui précède, par les commissions de recours amiable des U.R.S.S.A.F.
