@@ -1,0 +1,41 @@
+# Article 12 : Attestations de formation initiale et continue (FIMO et FCOS)
+
+12.1. Attestations de formation initiale (FIMO)
+
+a) L'attestation de présence dans l'entreprise au 31 décembre 1999 vaut attestation de formation initiale obligatoire sur la base du modèle en annexe. Une attestation type est délivrée, sous la responsabilité de l'entreprise, aux conducteurs concernés au 1er janvier 2000 (voir modèle 1) ;
+
+b) Pour les personnels reprenant une activité de chauffeur après l'avoir interrompue tel que prévu dans les dispositions de l'article 2-3 du présent accord, une attestation type d'exercice du métier de conducteur routier est délivrée sur présentation des bulletins de paie ou du (des) certificat(s) de travail correspondant à la période d'exercice du métier de conducteur routier selon les modalités fixées au paragraphe a ci-dessus (voir modèle 1). Aucune attestation type de cette nature ne pourra être délivrée à compter du 1er janvier 2002 ;
+
+c) Pour les personnels ayant reçu les formations inutiles diplômantes visées à l'article 2-2 du présent accord, une attestation est délivrée par les organismes ou centres de formation agréés conforme au modèle 2 ;
+
+d) Pour les personnels embauchés dans le cadre de contrat d'insertion par alternance ou d'apprentissage à compter du 1er janvier 2000, une attestation est délivrée par les organismes ou centres de formation agréés dès lors que les personnels concernés ont suivi les actions correspondant à la formation initiale minimale visée à l'article 3 du présent accord. Cette attestation est délivrée sur la base d'un test final d'évaluation des compétences acquises, à défaut de l'obtention d'un diplôme s'inscrivant dans le cadre de ces contrats (voir modèle 2) ;
+
+e) Pour les autres personnels embauchés à compter du 1er janvier 2000 et assujettis à l'obligation de formation initiale minimale, une attestation est délivrée à l'issue de la formation prévue à l'article 4-2. Cette attestation est délivrée sur la base d'un test final d'évaluation des compétences acquises (voir modèle 3) ;
+
+f) L'attestation de formation FIMO détenue par un salarié (en place ou nouvel embauché) ayant effectué sa FIMO dans une autre branche d'activité vaut attestation de formation initiale obligatoire au sens du présent accord ;
+
+g) Les titulaires de l'attestation de présence au 1er juillet 1995 valant attestation de formation initiale obligatoire délivrée par les entreprises dans le cadre de la convention collective nationale des transports routiers et des activités auxiliaires de transport sont dispensés de la FIMO définie au présent accord ;
+
+h) Une attestation valant dispense de formation initiale sera délivrée par l'entreprise pour les salariés exerçant ponctuellement la fonction de chauffeur (salariés sous CDI exerçant moins de 3 mois, soit 507 heures, et salariés sous CDD), conformément au modèle 4.
+
+12.2. Attestations de formation continue (FCOS)
+
+a) Pour les personnels ayant reçu la formation obligatoire visée à l'article 8 du présent accord, une attestation est délivrée par les organismes ou centres de formation agréés ou conformément à l'article 10.
+
+Le renouvellement de la formation visée ci-dessus doit intervenir dans l'année précédant sa fin de validité. La nouvelle attestation prend effet à compter de la date anniversaire de fin de validité.
+
+Cette attestation est valable 5 ans à compter de la date de sa délivrance ; cette validité peut être prolongée pour une durée maximale de 2 ans pour les conducteurs routiers devant partir en retraite dans ce délai ;
+
+b) En application de l'article 7-1, une attestation provisoire de conduite est délivrée par l'entreprise au chauffeur dans l'attente d'une formation FCOS (voir modèle 8) ;
+
+c) L'attestation FCOS détenue au titre d'une autre branche d'activité est reconnue valable.
+
+12.3. Contrôle des attestations FIMO et FCOS
+
+Tout conducteur doit être en mesure de présenter les attestations, visées au présent article, à l'occasion des contrôles sur route.
+
+Une copie de ces attestations est conservée par l'employeur en vue de leur présentation à l'occasion des contrôles en entreprise.
+
+12.4. Etablissement des modèles d'attestations
+
+Les modèles d'attestation type relatifs à la fonction de chauffeur et mentionnés au présent article sont établis et/ou validés par les partenaires sociaux dans le cadre du présent accord.
