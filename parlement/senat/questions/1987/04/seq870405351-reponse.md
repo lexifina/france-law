@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405351
+
+- Question : [SEQ870405351](seq870405351.md) — Situation des médecins appelés en Afrique du Nord entre 1952 et 1962
+
+## Réponse
+
+*Anciens combattants, JO du 1987-05-21, page 801*
+
+Réponse. -La carte du combattant est attribuée dans les mêmes conditions notamment à tous les militaires des armes et des services qui ont appartenu en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 pendant au moins quatre-vingt-dix jours à une unité reconnue combattante par le ministre de la Défense, seul compétent en la matière, ou qui apportent la preuve d'une participation personnelle à six actions de feu ou de combat au cours de leur affectation (lois du 9 décembre 1974 et du 4 octobre 1982). En revanche, le titre de reconnaissance de la Nation est attribué à la seule condition d'avoir été stationné pendant au moins quatre-vingt-dix jours consécutifs ou non en Afrique du Nord sans obligation de présence en unité combattante. La carte du combattant et le titre de reconnaissance ouvrent droit, dans des conditions d'accès diverses, à des statuts différents ce qui en exclut la fusion souhaitée. Enfin, dans le domaine de la retraite, l'anticipation à soixante ans, sans minoration, est possible pour tous depuis avril 1983 (ordonnance n° 82-270 du 26 mars 1982) à la condition de compter 150 trimestres de cotisation. Cette condition se trouve allégée par la prise en compte de la durée des services effectués en Afrique du Nord. La systématisation de l'attribution de la carte du combattant aux titulaires du titre de reconnaissance de la Nation ne parait pas indispensable de ce point de vue. De plus, la notion de risque et d'insécurité parfois avancée, faute de critère quantitatifs, n'a pas été retenue par le législateur pour la reconnaissance du titre d'ancien combattant. Elle ne peut donc être valablement invoquée à l'appui de cette fusion.
