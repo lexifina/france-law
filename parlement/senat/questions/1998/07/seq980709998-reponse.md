@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709998
+
+- Question : [SEQ980709998](seq980709998.md) — Implantations hôtelières
+
+## Réponse
+
+*Tourisme, JO du 1998-11-12, page 3661*
+
+Réponse. - La loi nº 96-603 du 5 juillet 1996 a étendu aux établissements hôteliers la procédure d'autorisation d'exploitation commerciale prévue par la loi nº 73-1193 du 27 décembre 1973. Sont dans le champ d'application de cette loi les hôtels classés ou non classés " tourisme " non assimilables à des logements et qui sont identifiés selon des applications commerciales diverses : résidence hôtelière, résidence-hôtel, hôtel-résidences, village-club... En revanche, sont exclus du champ d'application, d'une part, les établissements assimilables à des logements, dans la mesure où l'accès à ces hébergements concerne à titre principal des catégories de population particulières et, d'autre part, les établissements d'hébergement bénéficiant d'un classement spécifique " tourisme " et qui, à ce titre, sont réglementairement distincts des hôtels. Il s'agit en particulier des résidences de tourisme et des villages de vacances. Afin de permettre de vérifier que tout projet de construction d'une résidence de tourisme n'est pas soumis à cette procédure, le demandeur du permis de construire d'un tel établissement doit joindre à sa demande une attestation de conformité des services préfectoraux certifiant la destination de l'immeuble et la conformité des plans aux normes techniques des résidences de tourisme fixées par l'arrêté du 14 février 1986 modifié du ministre chargé du tourisme. Le Gouvernement déposera avant la fin de l'année 1998, sur le bureau des assemblées parlementaires, un rapport sur l'impact de la procédure d'autorisation d'exploitation commerciale sur l'évolution du parc hôtelier. En fonction des conclusions de ce rapport, il conviendra d'examiner s'il est nécessaire de modifier le champ d'application de la loi de 1973.
