@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918894
+
+- Question : [SEQ990918894](seq990918894.md) — Projets de fermeture des consulats généraux de Mayence et de Leipzig
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-12-23, page 4215*
+
+Réponse. - Le réseau de l'Etat français à l'étranger, comme celui de ses partenaires européens, doit s'adapter à l'évolution du monde. Le Gouvernement est ainsi conduit à effectuer régulièrement une remise à jour de sa carte diplomatique et consulaire. Cet effort de rationalisation répond à la recherche d'une meilleure cohérence et d'une plus grande efficacité de l'ensemble des moyens de l'action extérieure de la France. L'adaptation de notre réseau consulaire s'impose avec encore plus de pertinence au sein de l'Union européenne. C'est dans ce contexte que s'inscrit la fermeture d'un certain nombre de postes, en particulier celui de Leipzig, dont le rôle et l'existence ne sont plus justifiés depuis le transfert à Berlin de l'ambassade de France. En ce qui concerne le consulat général de France à Mayence, ni la taille ni le niveau de ses activités consulaires, notamment dans un pays tel que l'Allemagne, ne peuvent justifier le maintien d'une structure administrative permanente. En revanche, ces activités peuvent être assurées, sans préjudice, depuis Francfort. En dépit de ces fermetures, la présence de la France dans les Länder concernés sera préservée grâce à l'activité et au dynamisme des centres culturels et de coopération linguistique implantés à Leipzig, Erfurt et Mayence. La croissance des échanges entre administrations française et allemande atteste de notre volonté de renforcer les liens entre la France et l'Allemagne, auxquels le Gouvernement demeure particulièrement attaché. Le ministère des affaires étrangères veillera à ce que cette décision ne porte en aucun cas atteinte à la qualité, à l'intensité et à l'avenir de la relation entre la France et les Länder de Saxe-Anhalt, Thuringe et Rhénanie-Palatinat.
