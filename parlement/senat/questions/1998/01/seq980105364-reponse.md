@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105364
+
+- Question : [SEQ980105364](seq980105364.md) — Accroissement du nombre de troubles musculo-squelettiques
+
+## Réponse
+
+*Emploi, JO du 1998-05-28, page 1713*
+
+Réponse. - Les troubles musculo-squelettiques relèvent du tableau 57 relatif aux affections périarticulaires provoquées par certains gestes et postures du travail. Ces affections font effectivement l'objet d'un nombre accru de demandes de reconnaissance de maladies professionnelles. Ainsi, on constate une progression du nombre de maladies indemnisées au titre du tableau 57, soit 4 704 cas en 1995 contre 3 693 cas en 1994. Cette augmentation constante ne résulte pas tant d'une dégradation de l'état de santé au travail, que d'une meilleure prise en compte de la reconnaissance de ces affectations. De plus, la politique de prévention des risques professionnels figure au nombre des priorités d'action des pouvoirs publics. La sécurité sociale y consacre des moyens institutionnels, humains et financiers importants. Ainsi, au cours des dernières années, les travaux de l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles ont permis d'améliorer la compréhension des processus de développement de ces pathologies qui résultent de la conjonction de nombreux facteurs tels que les contraintes biomécaniques, la fréquence de répétitivité, pour lesquels l'INRS a mis au point des méthodes de mesures qui permettront de réaliser des évaluations sur le terrain. Dans cette perspective, la Caisse nationale de l'assurance maladie des travailleurs salariés a présenté un projet auprès de la Commission des communautés européennes intitulé " prévention des troubles musculo-squelettiques ". La commission a décidé de subventionner en 1998 sa réalisation dans le cadre du programme SAFE.
