@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102997
+
+- Question : [SEQ890102997](seq890102997.md) — Suppression d'un poste d'EPS à l'école normale de Guéret (Creuse)
+
+## Réponse
+
+*Éducation, JO du 1989-03-16, page 446*
+
+Réponse. - Le recteur de l'académie de Limoges a effectivement décidé de supprimer un poste d'E.P.S. à l'école normale de Guéret, à compter de la rentrée 1989. Cette décision fait suite à la diminution d'une unité de la dotation en postes de professeurs d'école normale de l'académie. Cette suppression de poste correspond à la solidarité la plus élémentaire entre les académies et les écoles normales, au moment où les effectifs d'élèves-instituteurs en formation dans nombre de ces établissements vont croître sensiblement. En effet, le taux d'encadrement des écoles normales de l'académie de Limoges sera, après suppression d'un poste de professeur à la rentrée 1989, un des plus bas de France : 6,5 élèves-instituteurs et stagiaires de formation continue pour un professeur d'école normale, alors que le taux d'encadrement moyen de l'ensemble des écoles normales se situera à 9,4 élèves et stagiaires pour un professeur. Quant à l'école normale de Guéret, qui assure la formation initiale d'un trentaine d'élèves-instituteurs et la formation continue des quelque 760 instituteurs du département de la Creuse, elle bénéficiera d'un des meilleurs taux d'encadrement de France : moins de cinq élèves et stagiaires par professeur d'école normale. Dans ces conditions, la suppression de l'un des deux postes d'éducation physique et sportive de l'école normale, à la rentrée 1989 (l'E.P.S. était la seule discipline à y être dotée jusqu'ici de deux postes) apparaît légitime, d'autant plus que la formation et l'animation en E.P.S. dans le département continueront à être assurées par un professeur d'école normale, un conseiller pédagogique départemental et trois instituteurs-maîtres-formateurs.
