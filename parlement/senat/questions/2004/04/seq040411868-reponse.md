@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411868
+
+- Question : [SEQ040411868](seq040411868.md) — Compensation tendant à remplacer la baisse de la TVA à 5,5 % dans l'hôtellerie
+
+## Réponse
+
+*Santé, JO du 2004-07-01, page 1463*
+
+Le précédent gouvernement a engagé, début 2004, une concertation avec les organisations professionnelles patronales du secteur de l'hôtellerie et de la restauration pour déterminer les mesures de nature à relancer l'emploi dans ce secteur, dans l'attente de la baisse de la taxe sur la valeur ajoutée à 5,5 % dans la restauration. A l'issue de cette concertation, le 10 mars 2004, la mesure envisagée était celle d'une prime destinée aux entreprises du secteur qui, compte tenu de leur activité, devraient bénéficier de la réduction de la taxe sur la valeur ajoutée. Ce champ comprend ainsi le secteur des hôtels, cafés et restaurants, répertorié à la classe 55 de la nomenclature d'activités françaises de l'Institut national de la statistique et des études économiques, pour les entreprises soumises à la taxe sur la valeur ajoutée à 19,6 % pour tout ou partie de leur activité. De ce fait, les entreprises de la restauration collective sous contrat, les cantines et les restaurants d'entreprise ne sont pas couverts par la mesure. En revanche, la classe 55.2 E " autre hébergement touristique " de ladite nomenclature, qui comprend notamment, d'après l'Institut national de la statistique et des études économiques, les maisons familiales, les centres et les villages de vacances mettant éventuellement à la disposition des touristes des services de restauration de loisirs, de sports et d'installations sanitaires, est bien dans le champ envisagé. Les organisations patronales et le précédent gouvernement sont également convenus que, plutôt qu'une exonération, une aide, dont le principe existe déjà avec succès pour le contrat jeune entreprise, présenterait l'avantage de la simplicité et de la lisibilité pour les entreprises.
