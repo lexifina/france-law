@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414919
+
+- Question : [SEQ910414919](seq910414919.md) — Aide humanitaire en faveur du peuple kurde
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-06-20, page 1271*
+
+Réponse. - Comme aura pu le constater l'honorable parlementaire, l'un des résultats de l'action diplomatique de la France a été d'enclencher un processus de mobilisation de l'assistance humanitaire internationale d'une ampleur considérable. Le conseil de sécurité, à l'initiative de la France, a adopté la résolution 688 qui ouvre la voie à l'exercice, par la communauté internationale, d'un devoir d'intervention humanitaire lorsque les populations civiles sont victimes de violations flagrantes des droits de l'homme. D'autre part, la France a présenté au secrétariat général des Nations unies, le 13 avril, un plan d'ensemble actuellement mis en oeuvre par plusieurs pays, dont le nôtre, ainsi que par les institutions spécialisées des Nations unies, qui sont appelées à terme à en assurer la conduite. Ce plan comporte, d'une part, l'installation en Irak de camps d'accueil des réfugiés et, d'autre part, la mise en place de relais humanitaires jalonnant la route du retour des réfugiés dans leurs foyers. Dans le cadre de cette action, la France a développé son propre effort d'assistance humanitaire : 640 tonnes de vivres, médicaments, tentes, dont 460 larguées par l'aviation française, ont été acheminées depuis la Turquie ; 1 300 tonnes livrées par avion, camion et train à travers l'Iran ; plus d'un millier de militaires français participent à la mise en place de relais humanitaires en Irak. Un train emportant 600 tonnes de vêtements, vivres et autres fournitures d'urgence, a quitté Paris, le 26 avril, à destination de Tabriz. D'autres actions sont en préparation pour assurer la poursuite de l'aide humanitaire française tant que la situation l'exigera.
