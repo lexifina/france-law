@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405813
+
+- Question : [SEQ870405813](seq870405813.md) — Rétablissement du remboursement à 100% pour la sarcoïdose
+
+## Réponse
+
+*Affaires sociales, JO du 1987-09-03, page 1353*
+
+Réponse. -La liste des affections comportant un traitement prolongé et une thérapeutique particulièrement coûteuse a été actualisée en accord avec le Haut Comité médical de la sécurité sociale. L'interprétation de la nouvelle liste donnera prochainement lieu à des recommandations qui devraient permettre de donner au corps médical toutes les précisions techniques nécessaires, notamment pour ce qui concerne la prise en compte des éventuelles suites et séquelles de ces maladies. L'arrêté du 30 décembre 1986, publié au Journal officiel du 22 janvier 1987, prévoit l'exonération du ticket modérateur, sur avis conforme du contrôle médical, pour le traitement des affections de longue durée qui ne figurent pas sur la liste des 30 maladies, en raison de leur faible fréquence. C'est dans le cadre de cette procédure exceptionnelle que le traitement de la sarcoïdose peut, le cas échéant, être pris en charge. Le décret n° 86-1378 du 31 décembre 1986, suivant en cela l'avis des partenaires sociaux gestionnaires de l'assurance maladie, permet de différencier les frais de maladie selon qu'ils se rapportent ou non au traitement d'une affection longue et coûteuse. L'établissement du protocole de soins et l'inscription sur un ordonnancier spécial, mis à la disposition des assurés concernés, des prescriptions relatives au traitement de l'affection grave doivent permettre au corps médical de tenir le plus grand compte de la diversité des situations pathologiques individuelles. Dans les cas difficiles, le doute devra bénéficier au malade. De plus, lorsqu'il y aura divergence d'appréciation sur le programme thérapeutique, les médecins-conseils des caisses d'assurance maladie se concerteront avec le médecin traitant avant d'engager les procédures d'expertise.
