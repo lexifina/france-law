@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917489
+
+- Question : [SEQ910917489](seq910917489.md) — Reconnaissance du handi-sport natation comme sport de haut niveau
+
+## Réponse
+
+*Jeunesse et sports, JO du 1991-11-14, page 2539*
+
+Réponse. - Le décret du 5 mars 1987 confie à la Commission nationale du sport de haut niveau le pouvoir de reconnaître le caractère de haut niveau à des disciplines sportives non olympiques. A cet effet, la commission examine la politique suivie par la fédération en matière de haut niveau et exige, par ailleurs, que des championnats du monde soient régulièrement organisés et qu'ils regroupent un minimum de quinze pays issus de deux continents. La reconnaissance du caractère de haut niveau de disciplines sportives de la fédération handisport a longtemps achoppé en raison de la multiplicité des classements dans les compétitions sportives liées aux différents types de handicaps. En 1990, en accord avec la fédération handisport, le principe a été retenu d'examiner les demandes de cette fédération selon le droit commun, et en particulier de ne retenir que les disciplines où plus de quinze pays participaient aux championnats du monde dans les différents handicaps. Trois disciplines répondent à ce critère : le basket-ball fauteuil roulant, le 1 500 mètres et le marathon fauteuil roulant. La commission examinera prochainement d'autres demandes dans la mesure où la fédération aura complété ses dossiers. Les disciplines en instance sont le ski, la natation, le tennis de table et le tir à la cible. Par ailleurs, la fédération ayant demandé une dérogation au seuil des quinze pays participant aux championnats du monde pour le ski, la commission a souhaité examiner en même temps l'ensemble des demandes pour bien mesurer les conséquences d'un éventuel abaissement de ce seuil.
