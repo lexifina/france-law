@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601618
+
+- Question : [SEQ860601618](seq860601618.md) — SNCF: différences de tarifications
+
+## Réponse
+
+*Transports, JO du 1986-09-25, page 1366*
+
+Réponse. -Le domaine d'application de la tarification de la banlieue de Paris coïncide avec la région des transports parisiens. Dans cette zone, les transports en commun de voyageurs sont placés sous l'autorité du syndicat des transports parisiens, qui en fixe les tarifs. La tarification de la banlieue est une tarification de section à section, le prix du transport dépendant du nombre de sections parcourues et non de la distance exacte, d'où des différences tarifaires qui peuvent en effet être sensibles à l'occasion du franchissement d'une section. S'agissant des personnes âgées, il convient de rappeler qu'elles peuvent bénéficier, sous conditions de ressources, de titres de transport dénommés " cartes Améthyste " délivrés à la seule initiative des départements et accordant la gratuité ou le demi-tarif dans les transports en commun (R.A.T.P. et S.N.C.F.) à l'intérieur de la région des transports parisiens. Ces titres sont délivrés par les départements qui, sous le contrôle du syndicat des transports parisiens, en fixent les caractéristiques (nature de la réduction et ayants droit). Dans ce cadre, le département des Yvelines délivre une " carte améthyste " qui donne droit au demi-tarif sur le réseau de la R.A.T.P. et de la S.N.C.F.-banlieue : aux personnes âgées de soixante-cinq ans et plus, non imposables sur le revenu ou ayant un impôt non mis en recouvrement ; aux invalides âgés de soixante à soixante-cinq ans allocataires du Fonds national de solidarité et titulaires de la carte d'invalidité aux taux minimum de 80 p. 100 et aux handicapés bénéficiaires de l'allocation adultes handicapés ; aux anciens combattants et veuves de guerre de soixante-quinze ans et plus sans condition de ressources.
