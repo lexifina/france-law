@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515799
+
+- Question : [SEQ960515799](seq960515799.md) — Qualité des eaux de baignade en 1995
+
+## Réponse
+
+*Équipement, JO du 1996-07-18, page 1848*
+
+Réponse. - La qualité des eaux de baignade est un des facteurs majeurs qui favorise la fréquentation des touristes français et étrangers dans notre pays et tout particulièrement sur le littoral. Le ministère chargé de la santé et celui de l'environnement ont présenté le bilan annuel des contrôles de la qualité des eaux effectués durant l'année 1995. La fondation pour l'éducation à l'environnement en Europe décerne chaque année aux communes le Pavillon Bleu d'Europe. Ce label a pour objectif principal de sensibiliser les décideurs élus et fonctionnaires des collectivités locales, les gestionnaires des ports de plaisance, les professionnels et le grand public à la qualité de la vie et à la protection de l'environnement marin. Il met en évidence par une campagne de presse annuelle, à laquelle le ministère chargé du tourisme s'associe, les villes du littoral qui font des efforts exemplaires et mènent des actions significatives en faveur de l'environnement. Il confère à ces communes et à ces ports un label distinctif d'impact international reconnu par les touristes et crée une émulation propre à maintenir et intensifier les investissements en matière d'environnement. Il concrétise la réussite d'un développement touristique et économique du littoral équilibré et fondé sur la prise en compte réelle de l'environnement. Enfin, dans le cadre de la campagne d'accueil Bonjour 1996, la direction du tourisme a réalisé un guide d'information pratique publié en trois langues à destination des touristes français et étrangers. Ce document précise, entre autres, diverses initiatives menées dans le domaine de la qualité des eaux de baignade. Il est distribué dans les 34 bureaux et représentations de Maison de la France à l'étranger.
