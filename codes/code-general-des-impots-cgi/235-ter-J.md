@@ -6,6 +6,6 @@ La déclaration des employeurs mentionnés à l'article 235 ter F doit être acc
 
 II La déclaration prévue au I, doit être produite au plus tard le 5 avril de l'année suivant celle au cours de laquelle les dépenses définies à l'article L 950-2 du code du travail ont été effectuées.
 
-En cas de cession ou de cessation d'entreprise, la déclaration afférente à l'année en cours et, le cas échéant, celle afférente à l'année précédente, sont déposées dans les trente jours de la cession ou de la cessation. En cas de décès de l'employeur, ces déclarations sont déposées dans les six mois qui suivent la date du décès.
+En cas de cession ou de cessation d'entreprise, la déclaration afférente à l'année en cours et, le cas échéant, celle afférente à l'année précédente, sont déposées dans les soixante jours de la cession ou de la cessation. En cas de décès de l'employeur, ces déclarations sont déposées dans les six mois qui suivent la date du décès.
 
-En cas de redressement judiciaire , elles sont produites, dans les trente jours de la date du jugement.
+En cas de redressement judiciaire , elles sont produites, dans les soixante jours de la date du jugement.

@@ -22,6 +22,6 @@ pour le triticale : 23,25 F La taxe est perçue par la direction générale des 
 
 II. Les éleveurs producteurs de céréales peuvent obtenir la restitution de la taxe visée au I correspondant aux quantités de céréales contenues dans les aliments qu'ils acquièrent pour la nourriture animale.
 
-Le droit à restitution ne peut s'exercer qu'auprès d'un seul collecteur agréé, dans la limite globale de 150 tonnes par campagne et à concurrence des quantités de céréales équivalentes produites par l'éleveur et livrées audit collecteur agréé (1).
+Le droit à restitution ne peut s'exercer qu'auprès d'un seul collecteur agréé, dans la limite globale de 300 tonnes par campagne et à concurrence des quantités de céréales équivalentes produites par l'éleveur et livrées audit collecteur agréé (1).
 
 (1) Disposition applicable à compter de la campagne 1983-1984.

@@ -12,6 +12,8 @@ II. Le taux de la réduction est porté à 10 p. 100 pour les souscriptions ment
 
 La durée de neuf ans prévue au deuxième alinéa du I est réduite à six ans.
 
-Cette réduction peut être pratiquée chaque année en cas de souscriptions successives ; toutefois, le total des réductions pratiquées jusqu'au 31 décembre 1989 au titre du présent article ne peut excéder 40 000 F pour un couple marié et 20 000 F pour un contribuable célibataire, veuf ou divorcé.
+Cette réduction peut être pratiquée chaque année en cas de souscriptions successives.
 
-III. Un décret fixe les obligations incombant aux contribuables et aux sociétés mentionnés au présent article.
+III. Un décret (1) fixe les obligations incombant aux contribuables et aux sociétés mentionnés au présent article.
+
+(1) Annexe III, art. 46 AB à 46 AG.

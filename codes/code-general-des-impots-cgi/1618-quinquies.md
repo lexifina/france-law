@@ -18,11 +18,11 @@ II. Les taux de la taxe sont fixés comme suit (1) :
 
 : : F : F : |
 
-: Huile d'olive : 0,758 : 0,683 : |
+: Huile d'olive : 0,777 : 0,700 : |
 
-: Huiles d'arachide et de maïs : 0,683 : 0,623 : |
+: Huiles d'arachide et de maïs : 0,700 : 0,638 : |
 
-: Huiles de colza et de pépins de : 0,349 : 0,319 : |
+: Huiles de colza et de pépins de : 0,358 : 0,327 : |
 
 : raisin : : : |
 
@@ -30,11 +30,11 @@ II. Les taux de la taxe sont fixés comme suit (1) :
 
 : huiles d'animaux marins (autres : : : |
 
-: que la baleine) : 0,595 : 0,521 : |
+: que la baleine) : 0,610 : 0,534 : |
 
-: Huiles de coprah et de palmiste : 0,455 : - : |
+: Huiles de coprah et de palmiste : 0,466 : - : |
 
-: Huile de palme et huile de baleine : 0,416 : - : |
+: Huile de palme et huile de baleine : 0,426 : - : |
 
 Pour les produits alimentaires importés incorporant des huiles imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition. Toutefois, pour les produits autres que la margarine, le redevable peut demander l'application d'un tarif forfaitaire, fixé par arrêté du ministre du budget (2) sur des bases équivalentes à celles qui sont retenues pour les produits similaires d'origine nationale.
 
@@ -44,8 +44,8 @@ IV. La taxe spéciale est établie et recouvrée selon les modalités, ainsi que
 
 Seront toutefois fixées par décret (3) les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1986.
+(1) Taux applicables à compter du 1er janvier 1988.
 
-(2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par un arrêté du 2 janvier 1986 (J.O. du 16).
+(2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par un arrêté du 31 décembre 1987 (J.O. du 14 janvier 1988).
 
 (3) Annexe III, art. 333 A à 333 G bis.

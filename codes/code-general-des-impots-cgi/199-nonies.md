@@ -6,6 +6,12 @@ Cette réduction est calculée sur le prix de revient de ces logements dans la l
 
 Elle ne peut être pratiquée qu'une fois et s'applique sur l'impôt dû au titre des revenus de l'année d'achèvement du logement ou de son acquisition si elle est postérieure. Toutefois, pour les logements achevés ou acquis avant le 1er janvier 1985, la réduction s'applique sur l'impôt dû au titre des revenus de 1985.
 
+La réduction s'applique aux logements qui, quelle que soit la date de leur achèvement, remplissent les deux conditions suivantes :
+
+1° La construction doit avoir fait l'objet, avant le 1er octobre 1989, de la déclaration d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit être joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction est demandé.
+
+2° Les fondations doivent être achevées avant le 31 décembre 1989.
+
 Le propriétaire doit s'engager à louer le logement nu à l'usage de résidence principale pendant les neuf années qui suivent celle au titre de laquelle la réduction est effectuée.
 
 En cas de non-respect de l'engagement ou de cession du logement, la réduction pratiquée fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de celle de la cession.
@@ -16,6 +22,8 @@ II. Le taux de la réduction d'impôt prévue au I est porté à 10 p. 100 et la
 
 Cette réduction peut être pratiquée chaque année en cas d'investissements successifs. Elle peut être demandée au titre de l'année au cours de laquelle le montant des paiements effectués pour un même investissement atteint le plafond prévu au deuxième alinéa du I.
 
-III. Un décret fixe les obligations incombant aux contribuables mentionnés au présent article.
+III. Un décret (2) fixe les obligations incombant aux contribuables mentionnés au présent article.
 
-(1) : les dispositions du présent article ne concernent pas les logements que les contribuables ont commencé à faire construire ou qu'ils ont acquis en l'état futur d'achèvement avant le 12 septembre 1984.
+(1) Les dispositions du présent article ne concernent pas les logements que les contribuables ont commencé à faire construire ou qu'ils ont acquis en l'état futur d'achèvement avant le 12 septembre 1984.
+
+(2) Annexe III, art. 46 A et 46 AG.
