@@ -1,0 +1,79 @@
+# Article 1er
+
+L'article 8 de l'accord national professionnel du 27 mai 2004 relatif à la gestion des congés individuels de formation est annulé et remplacé par le texte suivant :
+
+"
+
+Le champ d'application est national et comprend les DOM. Sont concernées les entreprises ayant pour activité principale une des activités définies ci-dessous :
+
+- édition d'enregistrements sonores (22.1 G) ;
+
+- reproduction d'enregistrements sonores (22.3 A) ;
+
+- reproduction d'enregistrements vidéo (22.3 C) ;
+
+- discothèques (55.4 C) ;
+
+- gestion de supports de publicité (74.4 A) ;
+
+- agences, conseil en publicité (74.4 B) ;
+
+- laboratoires techniques de développement et de tirage (74.8 B) ;
+
+- services annexes à la production (uniquement les activités des agents littéraires et artistiques) (74.8 K) ;
+
+- production de films pour la télévision (92.1 A) ;
+
+- production de films institutionnels et publicitaires (92.1 B) ;
+
+- production de films pour le cinéma (92.1 C) ;
+
+- prestations techniques pour le cinéma et la télévision (92.1 D) ;
+
+- distribution de films cinématographiques (92.1 F) ;
+
+- édition et distribution vidéo (92.1 G) ;
+
+- projection de films cinématographiques (92.1 J) ;
+
+- activités de radio (92.2 A) ;
+
+- production de programmes de télévision (92.2 B) ;
+
+- édition de chaînes généralistes (92.2 D) ;
+
+- édition de chaînes thématiques (92.2 E) ;
+
+- distribution de bouquets de programmes de radio et de télévision (92.2 F) ;
+
+- activités artistiques (92.3 A), à l'exception :
+
+- des entreprises qui relèvent de la convention collective de l'animation socio-culturelle ;
+
+- des activités exercées par les autres artistes indépendants : peintres, dessinateurs, sculpteurs, écrivains, etc. ;
+
+- de la restauration d'objets d'art ;
+
+- services annexes aux spectacles (92.3 B), à l'exception des entreprises qui relèvent de la convention collective de l'animation socio-culturelle ;
+
+- gestion de salles de spectacles (92.3 D), à l'exception des entreprises qui relèvent de la convention collective de l'animation socio-culturelle ;
+
+- manèges forains et parcs d'attractions (92.3 F), à l'exception des entreprises qui relèvent de la convention collective de l'animation socio-culturelle ;
+
+- activités diverses du spectacle (92.3 K), à l'exception :
+
+- des entreprises qui relèvent de la convention collective de l'animation socio-culturelle ;
+
+- des activités des écoles, clubs et professeurs de danse ;
+
+- gestionnaires du patrimoine culturel (92.5 C) qui relèvent de la convention collective nationale des espaces de loisirs, d'attractions et culturels (entreprises de droit privé à but lucratif) ;
+
+- gestionnaires du patrimoine naturel (92.5 E) qui relèvent de la convention collective nationale des espaces de loisirs, d'attractions et culturels (entreprises de droit privé à but lucratif) ;
+
+- gestionnaires d'installations sportives (92.6 A) qui relèvent de la convention collective nationale des espaces de loisirs, d'attractions et culturels (entreprises de droit privé à but lucratif) ;
+
+- gestionnaires d'autres installations sportives (92.6 C) qui relèvent de la convention collective nationale des espaces de loisirs, d'attractions et culturels (entreprises de droit privé à but lucratif) ;
+
+- jeux de hasard et d'argent (92.7 A) (uniquement les entreprises adhérentes au syndicat des cercles de jeux de France) ;
+
+- autres gestionnaires d'activités récréatives (92.7 C) qui relèvent de la convention collective nationale des espaces de loisirs, d'attractions et culturels (entreprises de droit privé à but lucratif)."
