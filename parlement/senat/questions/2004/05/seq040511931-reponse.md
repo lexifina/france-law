@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511931
+
+- Question : [SEQ040511931](seq040511931.md) — Projet de circulaire stipulant la non-validation du stage six mois  par le stage de parrainage
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1923*
+
+L'arrêté du 16 septembre 2003 a fixé les conditions de mise en oeuvre du stage six mois que le jeune agriculteur doit réaliser pour justifier de la capacité professionnelle lui permettant de s'installer avec les aides publiques. La circulaire du 19 avril 2004 prévoit que le stage de parrainage, tel qu'il est décrit dans la notification européenne des programmes pour l'installation des jeunes en agriculture et le développement des initiatives locales (PIDIL), ne peut être validé au titre du stage six mois. Il convient de préciser que ces deux stages répondent à des objectifs différents. Le stage pratique de six mois offre au jeune la possibilité de s'ouvrir à des contextes culturels et sociaux nouveaux hors de l'exploitation familiale. En revanche, le stage parrainé par le futur cédant d'une exploitation permet au candidat de se familiariser avec l'exploitation qu'il envisage de reprendre. C'est pourquoi il s'adresse à des candidats remplissant les conditions d'attribution des aides à l'installation et, en particulier, celles relatives à la capacité professionnelle composée du diplôme et du stage six mois. Ainsi, le jeune réalise en premier lieu son stage six mois, puis, s'il a l'opportunité de bénéficier de la transmission-reprise d'une exploitation hors cadre familial, il réalise un stage de parrainage dont le caractère est facultatif. Toutefois, pour répondre à la préoccupation des jeunes agriculteurs, il est envisagé d'améliorer la coordination de ces deux stages et de permettre, dans le cadre de la validation a priori des acquis au titre du stage six mois, la prise en compte de tout ou partie du stage de parrainage.
