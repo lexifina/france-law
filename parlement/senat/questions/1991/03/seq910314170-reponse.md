@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314170
+
+- Question : [SEQ910314170](seq910314170.md) — Enseignement de l'allemand en Alsace et en Moselle
+
+## Réponse
+
+*Éducation, JO du 1991-06-27, page 1326*
+
+Réponse. - Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports est bien conscient de la nécessité de préserver l'enseignement de la langue régionale utilisée en Alsace et en Moselle, dont l'allemand est la forme écrite. C'est pourquoi les instituts universitaires de formation des maîtres (I.U.F.M.), en cours de création dans les académies de Nancy-Metz et de Strasbourg, participeront activement à la formation de professeurs des écoles germanistes, ayant vocation à enseigner l'allemand dans cette langue, aux enfants des écoles primaires. Les I.U.F.M., établissements d'enseignement supérieurs, mettent en place un enseignement obligatoire d'une langue vivante étrangère durant les deux années de formation qui concernera tous les élèves professeurs de l'enseignement du premier degré. Cette langue vivante pourra également être choisie, à titre optionnel, au concours. Les élèves professeurs d'Alsace et de Moselle pourront ainsi être encouragés, localement, à choisir l'allemand comme langue vivante durant leur formation, et en option au concours. Le volume horaire global de ces formations sera défini dans le cadre de l'autonomie pédagogique conférée aux I.U.F.M. Les académies de Strasbourg et de Nancy-Metz, concernées diversement par cette question, adapteront la formation initiale des maîtres à leurs exigences propres. D'ores et déjà, les négociations qui ont lieu au plan académique à l'initiative du recteur, prévoient que les instances régionales et départementales apporteront leur soutien aux diverses actions de formation des maîtres à l'enseignement de l'allemand et en allemand dans les départements concernés.
