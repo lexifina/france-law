@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912047
+
+- Question : [SEQ950912047](seq950912047.md) — Inquiétude des riverains de la Durance, zone Avignon-Mirabeau
+
+## Réponse
+
+*Environnement, JO du 1995-12-21, page 2396*
+
+Réponse. - Madame le ministre de l'environnement a bien pris connaissance de la question posée par l'honorable parlementaire concernant l'inquiétude des riverains de la Durance dans la zone Avignon-Mirabeau. Le tracé de la ligne nouvelle TGV-Méditerranée s'inscrit sur plus de 30 kilomètres dans la basse vallée de la Durance. L'analyse des impacts induits par ce tracé sur ce cours d'eau a fait depuis 1993 l'objet d'examens attentifs des services des ministères en charge des transports et de l'environnement. Ainsi, dans un communiqué de presse commun du 4 février 1994 les ministres ont défini les objectifs, notamment hydrauliques, à atteindre pour l'insertion de cette infrastructure dans la vallée de la Durance. Par ailleurs, en application des décrets no 93-742 et no 93-743 du 29 mars 1993 pris pour l'application de l'article 10 de la loi no 92-3 sur l'eau du 3 janvier 1992, la SNCF a présenté le 31 janvier 1995 une demande d'autorisation de travaux. Dans ce cadre, une analyse des incidences du projet sur l'ensemble des éléments mentionnés à l'article 2 de la loi précitée, et notamment sur les crues, les milieux aquatiques et les ressources en eau, a été réalisée. Ce document a fait l'objet cette année d'une enquête publique et le commissaire-enquêteur a remis récemment son rapport faisant apparaître diverses interrogations. Sur ce constat et à la demande du préfet de Vaucluse, le ministre de l'environnement et le secrétaire d'Etat aux transports ont décidé de diligenter une mission du conseil général des ponts et chaussées et de la mission d'inspection spécialisée de l'environnement afin d'examiner les réponses apportées par la SNCF aux questions posées dans le cadre de cette enquête.
