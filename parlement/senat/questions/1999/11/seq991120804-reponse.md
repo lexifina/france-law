@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120804
+
+- Question : [SEQ991120804](seq991120804.md) — Manifestations diverses d'homophobie
+
+## Réponse
+
+*Justice, JO du 2000-04-06, page 1284*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les articles 225-1 et 225-2 du code pénal répriment de deux ans d'emprisonnement et 200 000 francs d'amende les discriminations opérées entre les personnes en raison de leurs m urs, ce qui est notamment le cas des discriminations homophobes. Ces discriminations sont d'ailleurs aggravées par l'article 432-7 lorsqu'elles sont commises par une personne dépositaire de l'autorité publique, les peines étant alors portées à trois ans d'emprisonnement et 300 000 francs d'amende. Par ailleurs, l'article 226-19 du code pénal réprime de cinq ans d'emprisonnement le fait de mettre ou de conserver dans un fichier informatique des données nominatives faisant apparaître, sans son autorisation, les m urs d'une personne. Il est toutefois vrai que ces dispositions ne sont quasiment pas appliquées devant les tribunaux, car les victimes de ces agissements hésitent à les dénoncer. C'est pourquoi la ministre de la justice a donné un avis favorable à un amendement déposé par M. le député Jean-Pierre Michel et adopté par l'Assemblée nationale lors de l'examen, le 10 février dernier, du projet de loi renforçant la présomption d'innocence et les droits des victimes, dont l'objet est de donner aux associations de lutte contre l'homophobie la possibilité d'exercer les droits reconnus à la partie civile dans de telles hypothèses, ainsi qu'en cas de vilences commises en raison des m urs de la victime. Le texte adopté par l'Assemblée nationale complète ainsi les dispositions de l'actuel article 2-6 du code de procédure pénale, qui ne concerne que les délits de discrimination.
