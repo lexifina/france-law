@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700805
+
+- Question : [SEQ880700805](seq880700805.md) — Elections au CSFE : insuffisance d'enveloppes réglementaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1988-09-15, page 1016*
+
+Réponse. - L'organisation du scrutin au C.S.F.E. dans 256 lieux de vote à l'étranger implique, ainsi que le sait l'honorable parlementaire, un abondant courrier entre le département, les postes et les électeurs. C'est ainsi qu'au cours du mois de mars dernier le département a, sur la base des chiffres des années antérieures majorés de 20 p. 100, adressé aux postes le matériel électoral nécessaire, notamment les enveloppes bleues de scrutin et, en fonction du nombre des électeurs qui avaient exprimé le souhait de voter par correspondance, les enveloppes d'identification. Le poste d'Ottawa, qui compte 716 inscrits, a reçu pour sa part 800 enveloppes bleues de scrutin et 300 enveloppes d'identification. Le consulat de Toronto (2 879 électeurs inscrits) a reçu 4 000 enveloppes bleues de scrutin et 600 enveloppes d'identification. Compte tenu des retards d'acheminement du matériel électoral et de divers problèmes rencontrés par certains postes, le département a autorisé la confection sur place des enveloppes d'identification nécessaires, mais aucun de ces deux postes n'a fait état auprès du département de difficultés d'approvisionnement et n'a sollicité l'envoi de matériel complémentaire avant le scrutin du 29 mai, scrutin au cours duquel la participation a été particulièrement faible dans cette circonscription : Toronto : 269 votants, soit 9,3 p. 100 ; Ottawa : 107 votants, soit 14,9 p. 100 des électeurs inscrits. L'administration envisage la mise à l'étude de mesures concrètes destinées à empêcher le renouvellement de telles situations lors des prochaines élections du C.S.F.E. : modification des enveloppes d'identification et confection par les postes, notamment.
