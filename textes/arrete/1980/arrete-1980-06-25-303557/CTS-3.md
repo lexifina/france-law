@@ -6,6 +6,8 @@ Attestation de conformité
 
 Compte tenu des dispositions particulières d'exploitation de ces établissements, le propriétaire ou le constructeur doit au préalable faire appel à un " bureau de vérification ", bureau centralisateur des demandes et habilité par le ministre de l'intérieur dans les conditions prévues à l'article CTS 4.
 
+La demande du propriétaire ou du constructeur doit parvenir au bureau de vérification dans un délai tel qu'il permette à ce dernier de saisir la commission de sécurité au moins huit jours avant la date prévue pour la première implantation.
+
 § 2. Le rapport du bureau de vérification doit porter sur les domaines suivants :
 
 -la stabilité mécanique de l'ossature (montage et assemblage) ;
