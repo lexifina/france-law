@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213247
+
+- Question : [SEQ981213247](seq981213247.md) — Filière STAPS
+
+## Réponse
+
+*Jeunesse, JO du 1999-04-29, page 1425*
+
+Réponse. - Mme la ministre de la jeunesse et des sports ne méconnaît pas l'inquiétude de très nombreux étudiants et étudiantes inscrits dans les formations universitaires de la filière " sciences et techniques des activités physiques et sportives " (STAPS) qu'elle a eu l'occasion de rencontrer à plusieurs reprises. Elle ne peut cependant apporter d'éléments de réponse qu'en ce qui concerne les compétences de son ministère. En effet, les formations en question relèvent du ministre l'éducation nationale, de la recherche et de la technologie, tout comme la gestion du corps des professeurs d'éducation physique et sportive. S'agissant du recrutement de fonctionnaires par le ministère de la jeunesse et des sports, ce sont actuellement environ 200 postes de conseiller d'animation sportive ou de conseiller technique sportif qui sont inscrits au concours annuel d'accès au corps de professeur de sport, ouvert aux titulaires d'une licence STAPS ou d'un brevet d'Etat d'éducateur sportif du deuxième degré. D'autres débouchés, mais également en nombre limité, existent dans la fonction publique territoriale. Pour pallier les difficultés rencontrées par les diplômés de la filière universitaire STAPS, ou par les étudiants engagés dans cette voie, Mme la ministre entend ouvrir à ceux-ci des possibilités de validation d'acquis et donc d'accès plus facile aux qualifications professionnelles préparées par le ministère de la jeunesse et des sports. Par ailleurs, elle incite les partenaires sociaux du secteur des activités physiques et sportives à développer la création d'emplois qualifiés qui pourraient offrir davantage de débouchés aux jeunes gens et jeunes filles attirés par ces activités professionnelles.
