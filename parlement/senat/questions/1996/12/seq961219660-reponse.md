@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219660
+
+- Question : [SEQ961219660](seq961219660.md) — Situation des personnels de la fonction publique en retraite
+
+## Réponse
+
+*Fonction publique, JO du 1997-06-02, page 1630*
+
+Réponse. - L'article L. 46 du code des pensions prévoit " qu'en cas de réforme statutaire, l'indice de traitement mentionné à l'article L. 15 sera fixé conformément au tableau d'assimilation annexé au décret déterminant les modalités de cette réforme ". En vertu de ce principe de péréquation, la situation des retraités évolue en fonction des mesures catégorielles statutaires intervenues au profit des fonctionnaires de leur corps d'origine, à l'exception de celles qui sont subordonnées, pour les actifs, à une sélection sous une forme quelconque. La jurisprudence du Conseil d'Etat précise, en outre, certaines modalités d'application de ce dispositif légal et en fixe les limites. Ainsi, les fonctionnaires retraités n'ayant plus de carrière ne peuvent faire l'objet d'un avancement. Il n'y a donc pas lieu de leur octroyer le bénéfice de décisions ayant ce caractère. La circulaire du ministre du budget évoquée ici ne remet pas en cause les principes fixés par la loi et la jurisprudence. Elle vise seulement à préciser les conditions de prise en compte de l'ancienneté détenue par l'agent retraité dans le dernier échelon qu'il avait atteint pendant l'activité, lors de l'application de la péréquation prévue par la loi. Dans ce cadre et selon des modalités connues et vérifiées à chaque fois lors de l'avis rendu au moment de l'examen de chaque texte statutaire par le Conseil d'Etat, l'application des dispositions de l'article L. 16 est systématiquement mise en oeuvre dès qu'une réforme statutaire intervient pour un corps de fonctionnaire. Il convient donc sur ce point de rassurer l'ensemble des retraités de la fonction publique.
