@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314504
+
+- Question : [SEQ960314504](seq960314504.md) — Projet de fusion entre la Société nationale Aérospatiale et la Société des avions Marcel Dassault-Bréguet
+
+## Réponse
+
+*Économie, JO du 1996-08-29, page 2216*
+
+Réponse. - Le Président de la République a annoncé en février dernier le rapprochement d'Aérospatiale et de Dassault Aviation, afin de constituer un groupe aéronautique et spatial français, capable de jouer un rôle moteur au niveau européen et de rivaliser avec ses concurrents américains. Les travaux entrepris ont mis en évidence une très large convergence des points de vue sur l'intérêt et la nécessité d'un rapprochement par fusion d'Aérospatiale et de Dassault Aviation. Ces travaux ont porté sur les modalités de l'intégration industrielle et les aspects financiers de la fusion. En particulier, le comité de pilotage a d'ores et déjà procédé à l'analyse du regroupement de certaines fonctions. L'objectif de ces travaux est bien la constitution d'un groupe unique, dont l'Etat, actionnaire majoritaire, détiendra le contrôle effectif et qui sera doté d'une direction et d'une stratégie permettant le développement de son potentiel industriel. Les différentes fonctions, en particulier une partie significative des bureaux d'études et des services d'achat, seront regroupées au sein de centres de compétences communs. La fusion s'accompagnera des mesures d'intégration qui seront nécessaires, pour valoriser au mieux les compétences du nouveau groupe, dans le respect des personnels et des cultures propres à chaque activité. Plusieurs axes de rapprochement au niveau industriel et technologique sont dès à présent identifiés. Les modalités techniques, financières et industrielles de la fusion seront arrêtées avant le 1er janvier 1997. Elles devront être compatibles avec l'ouverture ultérieure du capital qui interviendra dès que possible.
