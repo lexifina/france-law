@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213599
+
+- Question : [SEQ960213599](seq960213599.md) — Conditions d'accueil des gens du voyage sur le territoire des communes
+
+## Réponse
+
+*Intérieur, JO du 1996-04-25, page 1022*
+
+Réponse. - Comme le rappelle, à bon droit, l'honorable parlementaire le principe d'inviolabilité du domicile ne se limite pas à l'habitat sédentaire mais intéresse également les caravanes. L'application de ce principe requiert l'intervention du juge judiciaire ou administratif pour pouvoir expulser des caravanes en stationnement irrégulier. La procédure du référé permet d'obtenir une décision juridictionnelle plus rapide. Les services préfectoraux accordent généralement l'octroi du concours de la force publique pour assurer l'exécution des jugements d'expulsion des caravanes alors même que ce type d'opération nécessite la mobilisation de force, de l'ordre mobiles importantes. Le ministère de l'intérieur est toutefois conscient de la lourdeur de cette procédure, et c'est le motif pour lequel ce problème du stationnement irrégulier doit être également traité en amont par la réalisation d'aires d'accueil légales. Le Premier ministre a chargé le ministre de l'intérieur de coordonner les travaux d'un groupe de travail interministériel chargé d'examiner les problèmes liés aux migrations des gens du voyage. Ce groupe de travail s'est réuni une première fois le 6 mars 1996 au ministère de l'intérieur. D'autres réunions sont prévues dans les prochaines semaines, afin de présenter au Premier ministre les solutions propres à apporter des améliorations dans les différents domaines. Les thèmes de réflexion d'ores et déjà retenus sont l'amélioration du dispositif pénal, la possibilité d'un engagement supérieur de l'Etat pour stimuler la réalisation des aires, la mise sur pied d'un dialogue local plus étroit.
