@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414963
+
+- Question : [SEQ960414963](seq960414963.md) — Difficultés des stations-service traditionnelles
+
+## Réponse
+
+*Industrie, JO du 1996-05-30, page 1335*
+
+Réponse. - Le Gouvernement, sensible aux difficultés rencontrées par les stations-service traditionnelles, a lancé en 1995 une table ronde sur les problèmes de la distribution des carburants à laquelle participent la profession et les administrations concernées. Les conclusions de cette concertation devraient intervenir d'ici à la fin du premier semestre de cette année. Toutefois, certains des problèmes posés dépassent le seul cadre de la distribution de carburants. C'est le cas des règles relatives à l'urbanisme commercial ou au droit de la concurrence. La réforme de l'ordonnance de 1986 relative à la liberté des prix et de la concurrence, qui est en cours d'examen par les parlementaires, devrait permettre de mieux contrecarrer les pratiques de concurrence déloyale, notamment grâce à un durcissement des sanctions et à la création d'un nouveau dispositif sanctionnant les ventes à des prix abusivement bas. En matière d'urbanisme commercial, dans le cadre de la réforme de la loi Royer, le Gouvernement a transmis pour avis au Conseil d'Etat un projet de loi relatif à l'équipement commercial et à l'artisanat. Ce texte prévoit de soumettre à une autorisation d'exploitation commerciale les projets de création ou d'extension de toute installation de distribution au détail de carburants, quelle qu'en soit la surface de vente. Enfin, le comité professionnel de la distribution de carburants (CPDC) a été créé en 1991 pour aider à la restructuration du réseau. Outre les aides à la modernisation et à la diversification, ce comité accorde des aides au maintien de desserte qui contribuent à lutter efficacement contre les disparitions de stations-service dans les zones rurales mal desservies.
