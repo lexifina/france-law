@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130395
+
+- Question : [SEQ010130395](seq010130395.md) — Camp militaire de La Courtine (Creuse)
+
+## Réponse
+
+*Défense, JO du 2001-03-08, page 834*
+
+Réponse. - Les mesures d'adaptation annoncées en 1998 prévoyaient que 182 civils et militaires constitueraient l'effectif permanent du camp de La Courtine. Ces chiffres ont été respectés et même revus à la hausse, puisque l'effectif permanent du camp, aujourd'hui de 213 personnes (135 civils), s'élèvera à 195 personnes en 2002 (151 civils). Le camp de La Courtine accueille 400 à 450 hommes par jour. Son taux de fréquentation, en hausse depuis 1999, est encore faible mais devrait s'améliorer dans les prochaines années. Le niveau actuel d'activités résulte notamment de l'importance des engagements extérieurs qui entraîne des annulations de séjours d'unités, de travaux en cours sur le site de franchissement, et enfin, de l'absence d'une réglementation adaptée pour le réseau routier départemental traversant le camp (projet de mise en place de barrières de sécurité) qui limite la pleine utilisation des champs de tir. Les aménagements d'infrastructure programmés concernent la transformation du dépôt de munitions actuel en dépôt mobile sur roues, le regroupement de l'ensemble tir, la transformation et la rénovation du cercle destiné à être transformé en service de restauration hébergement loisirs. De plus, un investissement est programmé sur les prochaines années au profit du camp bâti et des infrastructures d'accueil afin de rénover, construire et entretenir les bâtiments, les routes, les pistes et les installations de tir. S'agissant enfin de l'impact du camp sur l'économie locale, il peut être estimé à environ 35 millions de francs par an, sans compter les dépenses effectuées sur place par les troupes en man uvre. Les départements de la Creuse et de la Corrèze sont les principaux bénéficiaires de ces retombées économiques.
