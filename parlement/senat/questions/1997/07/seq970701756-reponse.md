@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701756
+
+- Question : [SEQ970701756](seq970701756.md) — Mise en place du " guichet unique emploi "
+
+## Réponse
+
+*Emploi, JO du 1997-10-23, page 2902*
+
+Réponse. - L'ANPE, l'AFPA et les ASSEDIC ont ces dernières années consenti de gros efforts techniques et financiers pour assurer partout un accueil de proximité et de qualité à leurs usagers. C'est dans ce cadre que l'ANPE, notamment, a développé, outre une politique immobilière lui permettant de fluidifier au maximum l'accueil, l'appui et le traitement des demandes des chercheurs d'emploi, une stratégie de partenariat avec : les ASSEDIC qui assurent désormais la prise en charge administrative de la demande d'emploi, dans un souci de meilleure distinction entre la gestion stricte de l'indemnisation du chômage et l'aide à la recherche active d'un emploi ou d'une formation ; les missions locales et les PAIO pour qu'elles évoluent vers des espaces jeunes réunissant l'ensemble des moyens humains, techniques et matériels permettant d'assurer le meilleur soutien aux jeunes sans emploi ; les collectivités territoriales, en leur proposant des conventions de collaboration étroite qui permettent des échanges d'outils et de moyens, notamment informatiques, pour mieux aider les personnes dans leur quête d'emploi ; l'APEC et l'APECITA pour optimiser le traitement spécifique de l'emploi des cadres. C'est donc à travers le renforcement des partenariats que le Gouvernement a décidé d'assurer le maillage du territoire au plus près des utilisateurs, tout en garantissant la cohérence des interventions de chaque organisme. C'est ainsi que la généralisation de l'inscription des demandeurs d'emploi en ASSEDIC, la montée en puissance du réseau jeunes et la multiplication des conventions de collaboration entre l'ANPE et les collectivités locales assurent partout aux demandeurs d'emploi une égale qualité de service dans le respect des compétences de chacun des partenaires.
