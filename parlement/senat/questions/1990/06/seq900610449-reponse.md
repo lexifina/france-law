@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610449
+
+- Question : [SEQ900610449](seq900610449.md) — Etat et répartition des concours privés affectés au centre Georges-Pompidou
+
+## Réponse
+
+*Culture, JO du 1990-08-23, page 1811*
+
+Réponse. - Pour l'exercice 1990, les concours privés affectés au centre Georges-Pompidou s'élèvent au 30 juin 1990 à 4,590 millions de francs, se répartissant entre le musée national d'art moderne : 3,264 millions de francs ; le centre de création industrielle : 0,316 million de francs ; les espaces communs (cinéma, théâtre, danse...) : 0,471 million de francs ; le service audiovisuel : 0,539 million de francs. La liste détaillée de ces apports figure dans le tableau ci-joint en annexe. A ces concours privés s'ajoutent des concours d'organismes publics ou parapublics qui s'élèvent au 30 juin 1990 à 4,995 millions de francs. La part principale concerne le financement de l'exposition Architectures publiques organisée par le C.C.I. pour 2,745 millions de francs dont les financements proviennent de tous les ministères exposant leurs réalisations ou leurs projets et de la Communauté européenne pour ce qui concerne les réalisations étrangères. L'exposition Europan (C.C.I.) a bénéficié en 1990 de 0,500 million de francs de subvention et l'I.R.C.A.M., pour ses activités pédagogiques, de 0,800 million de francs. Le reste des apports publics se répartit entre les espaces communs, le service audiovisuel et les services généraux. A ces montants, il convient d'ajouter des apports en nature représentant plusieurs centaines de milliers de francs, sous la forme d'installations, d'éclairages, de prêts de matériels... Pour l'exercice 1991, les concours extérieurs sont en négociation. Aucun chiffre ne peut être annoncé à la date de juillet 1990. Répartition des concours privés affectés au centre Georges-Pompidou Nota : voir tableau p. 1812.
