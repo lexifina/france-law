@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912225
+
+- Question : [SEQ950912225](seq950912225.md) — Subvention de la Fédération nationale des foyers ruraux (FNFR)
+
+## Réponse
+
+*Budget, JO du 1996-11-21, page 3048*
+
+Réponse. - En 1994 et 1995, une réflexion menée par le ministère de l'agriculture, de la pêche et de l'alimentation avec les principales fédérations nationales des associations du milieu rural a permis de redéfinir les objectifs de l'aide apportée par les crédits " animation rurale ", ainsi que les modalités du conventionnement avec ces organismes. Les objectifs sont clairement recentrés sur l'action fédérative conduite par les structures nationales qui apportent aux associations locales, à leurs responsables et animateurs : l'information, la formation, la capacité d'expertise et d'appui méthodologique qui renforcent l'action associative en milieu rural en lui permettant de s'adapter aux nouveaux enjeux culturels, sociaux et économiques. Pour conforter l'action de ces têtes de réseaux et en favoriser une évaluation permanente, de nouveaux modèles de conventions pluriannuelles ont été mis au point en 1994 et appliqués à partir du 1er janvier 1995. Ces conventions portent sur quatre années et sont accompagnées d'un programme qui fixe dès le départ les critères d'évaluation. Les crédits " animation rurale " permettent aussi d'appuyer - généralement de façon interministérielle - des actions dont le caractère innovant, expérimental et prospectif, justifie une aide nationale. La régulation budgétaire 1995, qui a été volontairement réduite sur les crédits " d'animation rurale ", a été répartie également entre les différents organismes. Ceci a été fait de façon à sauvegarder les actions en cours et en respectant les nouvelles conventions signées. La loi de finances pour 1996 a consolidé les crédits budgétaires réellement disponibles en 1995.
