@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407593
+
+- Question : [SEQ980407593](seq980407593.md) — Dépistage non systématique des cancers du sein et de l'ovaire
+
+## Réponse
+
+*Santé, JO du 2000-07-20, page 2583*
+
+Réponse. - Le rapport d'expertise collective de l'Institut national supérieur d'étude et de recherche médicale (Inserm) sur les risques héréditaires de cancers du sein et de l'ovaire analyse la notion de risque génétique, les mécanismes moléculaires impliquant les gènes de prédisposition, l'organisation des consultations d'oncogénétique, les règles juridiques liées à l'activité de conseil génétique et l'impact psychologique de ces consultations, la place de la chirurgie dans la prévention et le traitement des cancers. Au cours des dix dernières années, une trentaine de gènes de prédispositions sont entrés dans la pratique médicale. Le Gouvernement n'estime pas devoir promouvoir le dépistage systématique en population générale des personnes à haut risque par l'utilisation de tests génétiques, mais un suivi particulier des femmes à risques. Le dépistage systématique d'un cancer, tel celui du sein, est promu, au bénéfice de toutes les femmes de 50 à 74 ans, en les invitant toutes, également, dans déjà trente-deux départements, à bénéficier gratuitement, tous les deux ans, de mammographies de dépistage gratuites. Ce dispositif sera généralisé dans les mois qui viennent. Les femmes présentant des facteurs de risques importants, parmi lesquels l'existence d'un gène de prédisposition découvert par un examen génétique moléculaire, ou la probabilité d'existence d'un gène de prédisposition élevée selon les critères définis par l'expertise collective Inserm-Fédération nationale des centres de lutte contre le cancer, doivent bénéficier d'une surveillance personnalisée auprès d'équipes spécialisées
