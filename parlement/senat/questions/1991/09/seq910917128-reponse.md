@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917128
+
+- Question : [SEQ910917128](seq910917128.md) — Recensement des bénéficiaires d'emploi des handicapés dans les collectivités territoriales
+
+## Réponse
+
+*Intérieur, JO du 1992-08-27, page 1974*
+
+Réponse. - Les personnes admises en CAT ou en ateliers protégés ont été orientées vers ce type d'établissements après avis de la COTOREP. Cet avis doit également être requis lorsque les intéressés quittent ces structures spécialisées pour entrer dans le secteur ordinaire du travail. Cette consultation est prévue par les textes. Les collectivités locales doivent donc s'assurer, avant tout recrutement d'agents ayant auparavant exercé des fonctions dans un CAT ou un atelier protégé, que la COTOREP a reconnu leur capacité à occuper un emploi dans le milieu ordinaire de production. Cette consultation est faite dans l'intérêt des parties (travailleurs handicapés et employeurs). Il n'est toutefois pas possible qu'un recrutement comme non-titulaire, suivi de titularisation, d'une personne handicapée soit opéré sans intervention préalable de la COTOREP. Conformément à l'article 38 de la loi n° 84-53 du 26 janvier 1984, des recrutements sans concours peuvent être effectués, en dehors des cas prévus par la législation sur les emplois réservés, pour des personnes reconnues travailleurs handicapés par la COTOREP et recrutées en qualité d'agent contractuel dans les emplois de catégorie C pendant une période d'un an renouvelable une fois. A l'issue de cette période, les intéressés sont titularisés sous réserve qu'ils remplissent les conditions d'aptitude pour l'exercice de la fonction. Dans ce cadre, fixé par la loi, il ne peut donc être prévu de procédure dérogatoire ou de régularisation pour des agents qui souhaiteraient une reconnaissance comme travailleur handicapé alors qu'ils auraient déjà bénéficié, de fait, des dispositions sus-évoquées.
