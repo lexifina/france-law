@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600121
+
+- Question : [SEQ880600121](seq880600121.md) — Lotissements : transfert des terrains et équipements communs
+
+## Réponse
+
+*Équipement, JO du 1988-07-28, page 870*
+
+Réponse. - C'est précisément pour éviter les désagréments rappelés dans la question posée que le code de l'ubanisme, dans son article R. 315-33, prévoit que le lotisseur a la faculté de consigner des fonds aux fins de différer l'exécution des travaux de finition du lotissement. Pour ce qui relève des rapports entre le lotisseur et la collectivité locale susceptible d'inclure les terrains et équipements communs dans son domaine public, deux cas sont à considérer : le maire est compétent pour autoriser le lotissement au nom de la commune : il est alors à même de vérifier que le programme des travaux présenté par le lotisseur permettra ultérieurement l'incorporation des aménagements collectifs dans le domaine public communal et, dans la négative, de prescrire les dispositions techniques nécessaires ; le maire n'est pas l'autorité compétente pour autoriser le lotissement : l'incorporation ultérieure dans le domaine public communal des aménagements collectifs du lotissement peut alors être conditionnée par la signature, entre la collectivité et le lotisseur, d'une convention déterminant les caractéristiques techniques de ces aménagements et les conditions de cette incorporation ; la convention peut en outre comporter l'engagement du lotisseur de présenter, dans le dossier de demande d'autorisation de lotir, un programme de travaux compatible avec les termes de cette convention. Ainsi, sans qu'il soit besoin de modifier les textes existants, il est d'ores et déjà possible de différer l'exécution des travaux de finition des équipements du lotissement et d'organiser la prise en charge de ces équipements par la collectivité locale sur la base d'une entente préalable entre la collectivité et le lotisseur.
