@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801764
+
+- Question : [SEQ020801764](seq020801764.md) — Moyens de la gendarmerie et en particulier de la brigade de Saint-Porchaire (Charente-Maritime)
+
+## Réponse
+
+*Défense, JO du 2002-10-24, page 2472*
+
+Composée de six militaires, la brigade de gendarmerie de Saint-Porchaire assure les missions de sécurité publique sur le territoire des 13 communes qui forment sa circonscription où résident 9 928 habitants. Deux ordres de dispositions sont mis en oeuvre pour accroître l'efficacité de la brigade de Saint-Porchaire. En premier lieu, cette unité reçoit, en tant que de besoin, le concours de la brigade des recherches et du peloton de surveillance et d'intervention de la gendarmerie de Saintes dont la brigade motorisée apporte également un soutien non négligeable en matière de lutte contre l'insécurité routière. En second lieu, le service de cette brigade est coordonné avec celui de la brigade de Corme-Royal à l'effectif de six sous-officiers dans le cadre d'une mutualisation des ressources de ces unités. Il est toutefois nécessaire, au-delà de ce dispositif, d'attribuer des moyens nouveaux aux brigades de gendarmerie des zones rurales telles que celle de Saint-Porchaire. A cet effet, le projet de loi d'orientation et de programmation pour la sécurité intérieure prévoit notamment une augmentation importante des effectifs de la gendarmerie - 7 000 créations de postes interviendront au cours des cinq prochaines années - ainsi qu'une meilleure organisation territoriale des unités, en particulier par la constitution de communautés de brigades. Ces dispositions permettront aux unités de la gendarmerie nationale de remplir leurs missions dans de meilleures conditions. Elles ont évidemment vocation, en fonction des besoins locaux et des priorités qui sont retenues, à s'appliquer à la brigade de gendarmerie de Saint-Porchaire. En tout état de cause, le renforcement de cette unité fera l'objet d'une étude dès 2003.
