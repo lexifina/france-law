@@ -1,6 +1,4 @@
-# Article ANNEXE
-
-Aides de documentation du secrétariat général du Gouvernement.
+# Article ANNEXE I
 
 Assistants d'administration de l'aviation civile.
 
@@ -18,15 +16,9 @@ Contrôleurs de l'Institut national de la statistique et des études économique
 
 Contrôleurs de la Caisse nationale de crédit agricole.
 
-Contrôleurs des lois sociales en agriculture.
-
-Contrôleurs des services déconcentrés du travail.
-
 Contrôleurs des affaires maritimes.
 
 Contrôleurs du Trésor public.
-
-Contrôleurs de la formation professionnelle.
 
 Contrôleurs des impôts.
 
@@ -36,8 +28,6 @@ Contrôleurs des transports terrestres.
 
 Greffiers des services judiciaires.
 
-Contrôleurs des personnels embarqués d'assistance et de surveillance des affaires maritimes.
-
 Rédacteurs de l'Office national interprofessionnel des céréales.
 
 Secrétaires d'administration et d'intendance des services pénitentiaires.
@@ -45,8 +35,6 @@ Secrétaires d'administration et d'intendance des services pénitentiaires.
 Secrétaires de chancellerie.
 
 Secrétaires administratifs d'administration centrale.
-
-Secrétaires d'intendance de la protection judiciaire de la jeunesse.
 
 Secrétaires administratifs des services déconcentrés de l'agriculture.
 
@@ -70,11 +58,7 @@ Secrétaires administratifs des services déconcentrés des anciens combattants 
 
 Secrétaires administratifs des services déconcentrés des affaires culturelles.
 
-Secrétaires administratifs des services déconcentrés du ministère de la défense.
-
 Secrétaires administratifs de la Caisse nationale militaire de sécurité sociale.
-
-Secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre.
 
 Secrétaires administratifs des affaires sanitaires et sociales.
 
@@ -85,3 +69,13 @@ Secrétaires de documentation au ministère de la culture.
 Techniciens d'art du ministère de la culture.
 
 Techniciens des services culturels et des Bâtiments de France.
+
+Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
+
+Secrétaires administratifs de la protection judiciaire de la jeunesse.
+
+Secrétaires administratifs du ministère de l'économie, des finances et de l'industrie.
+
+Secrétaires administratifs du ministère de la défense.
+
+Secrétaires administratifs de l'Office national interprofessionnel des céréales et contrôleurs du travail.

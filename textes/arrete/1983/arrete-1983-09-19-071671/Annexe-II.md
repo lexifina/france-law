@@ -62,9 +62,11 @@ Directive n° 73-47 C.E.E. du 5 décembre 1972 (Journal officiel C.E. L. 83 du 3
 
 5ème directive, n° 74-203 C.E.E. du 25 mars 1974 (Journal officiel C.E. L. 108 du 22 avril 1974) :
 
-. 6ème directive, n° 75-84 C.E.E. du 20 décembre 1974 (Journal officiel C.E. L. 32 du 5 février 1975) :
+(paragraphe supprimé).
 
-.
+6ème directive, n° 75-84 C.E.E. du 20 décembre 1974 (Journal officiel C.E. L. 32 du 5 février 1975) :
+
+(paragraphe supprimé).
 
 7ème directive, n° 76-372 C.E.E. du 1er mars 1976 (Journal officiel C.E. L. 102 du 15 avril 1976) :
 
@@ -114,15 +116,15 @@ Directive (C.E.) n° 94/14 C.E. du 29 mars 1994 (Journal officiel des communaut�
 
 Directive (C.E.) n° 98/64 C.E. du 3 septembre 1998 (Journal officiel des communautés européennes n° L. 257 du 19 septembre 1998)
 
----acides aminés
+acides aminés
 
----matières grasses brutes
+matières grasses brutes
 
----olaquindox.
+olaquindox.
 
 Directive (C.E.) n° 98/88 C.E. du 13 novembre 1998 (Journal officiel des communautés européennes n° L. 318 du 27 novembre 1998)
 
----identification et estimation, par examen microscopique, des constituants d'origine animale.
+identification et estimation, par examen microscopique, des constituants d'origine animale.
 
 Directive 1999/27/CE du 20 avril 1999 (Journal officiel des Communautés européennes n° L 118) :
 
@@ -137,3 +139,5 @@ Directive 1999/76/CE du 23 juillet 1999 (Journal officiel des Communautés europ
 - lasalocide-sodium ;
 
 Directive 1999/79/CE du 23 juillet 1999 (Journal officiel des Communautés européennes n° L 209) modifiant la troisième directive 72/199/CE (annexe, partie 1) : dosage de l'amidon.
+
+Directive 2000/45/CE de la Commission du 6 juillet 2000 (Journal officiel des Communautés européennes n° L 174 du 13 juillet 2000) portant fixation des méthodes communautaires d'analyse pour la détermination de la vitamine A, de la vitamine E et du tryptophane dans les aliments des animaux.
