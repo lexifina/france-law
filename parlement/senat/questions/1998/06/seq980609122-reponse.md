@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609122
+
+- Question : [SEQ980609122](seq980609122.md) — Guyane : structures d'organisation administrative très réduites
+
+## Réponse
+
+*Tourisme, JO du 1999-01-14, page 134*
+
+Réponse. - Mme la secrétaire d'Etat au tourisme a pris connaissance avec intérêt de la question posée par l'honorable parlementaire au secrétaire d'Etat à l'outre-mer concernant le renforcement des structures de l'administration du tourisme en Guyane et l'implication des collectivités territoriales dans le développement touristique. Aux termes de la loi nº 92-1341 du 23 décembre 1992 portant répartition des compétences dans le domaine du tourisme, il revient à l'Etat de favoriser la coordination des initiatives publiques et privées dans le domaine du tourisme et d'apporter son concours aux actions de développement touristique engagées par les collectivités territoriales. Dans ce domaine comme dans d'autres, l'Etat n'est pas juge de l'opportunité de la politique des collectivités territoriales. Toutefois, il était nécessaire de donner au représentant de l'Etat dans la région les moyens d'assurer pleinement son rôle de coordinateur et d'expert du développement touristique de cette région. La délégation régionale au tourisme en Guyane qui assure, sous l'autorité du préfet de région et de département, la représentation de l'Etat dans le domaine du tourisme, a connu par le passé une complète vacance. Depuis le 15 février 1997, le poste de délégué est confié à un administrateur civil, il est assisté d'une secrétaire. C'est avec la conscience de l'effort particulier nécessité par la situation de la Guyane, qu'un agent supplémentaire a été mis à la disposition du délégué régional au tourisme à compter du 15 juin 1998. Ainsi organisée, notre délégation en Guyane est mieux à même de répondre aux enjeux du développement du tourisme dans cette région.
