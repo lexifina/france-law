@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516592
+
+- Question : [SEQ990516592](seq990516592.md) — Assurances et politique d'aide aux victimes d'actes de délinquance
+
+## Réponse
+
+*Économie, JO du 1999-08-19, page 2797*
+
+Réponse. - Lors du Conseil de sécurité intérieure du 19 avril 1999, le Gouvernement a défini les grands axes de sa politique publique d'aide aux victimes de la délinquance. Un plan d'action sur trois ans, associant les services de l'Etat, les collectivités locales et les associations a été arrêté. Ce plan s'inspire des propositions du rapport du groupe de réflexion sur l'aide aux victimes présidé par Mme Marie-Noëlle Lienemann, auquel l'intervenant se réfère et qui a été remis au Premier ministre le 26 mai 1999. Dans sa proposition 62, le rapport suggérait que les contrats d'assurance de biens ou de responsabilités civile garantissent " une indemnisation réaliste, équivalente à l'usage du bien détruit ". Or, les conditions d'indemnisation des dommages aux biens sont fixées par l'article L. 121-1 du code des assurances qui dispose que l'" indemnité due par l'assureur à l'assuré ne peut dépasser le montant de la valeur assurée au moment du sinistre ". Le non-respect de ce principe indemnitaire conduirait à un enrichissement sans cause prohibé par le code civil et aboutirait vraisemblablement à augmenter le nombre des sinistres volontaires et la fraude à l'assurance. Il n'est donc pas envisageable de modifier la loi sur ce point. En revanche, des solutions spécifiques ont pu être proposées pour aider les victimes dans certains cas particuliers. Ainsi, pour les véhicules incendiés dans le cadre d'actes de violence urbaines, par exemple, une garantie peut être souscrite par les collectivités locales qui souhaiteraient aider, dans le cadre de leur budget d'aide sociale, des propriétaires de véhicules qui auraient perdu leur outil de travail dans ces circonstances. Ce type de garantie a permis d'éviter les inconvénients évoqués ci-dessus.
