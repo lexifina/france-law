@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605406
+
+- Question : [SEQ890605406](seq890605406.md) — Situation des artisans du bâtiment au regard de la réglementation européenne dans les transports routiers
+
+## Réponse
+
+*Équipement, JO du 1989-08-24, page 1336*
+
+Réponse. - L'article 3 du règlement C.E.E. n° 3821-85 du 20 décembre 1985 permet à chaque Etat membre de dispenser d'appareil de contrôle les véhicules visés à l'article 13, § 1, du règlement C.E.E. n° 3820-85, et notamment " les véhicules transportant du matériel ou de l'équipement à utiliser dans l'exercice du métier de leur conducteur, dans un rayon de 50 kilomètres autour de leur point d'attache habituel, à condition que la conduite du véhicule ne représente pas l'activité principale du conducteur... ". Le Gouvernement n'avait effectivement pas pris, à ce jour, de dispositions en ce sens mais va saisir incessamment le Conseil national des transports de cette question. C'est en fonction de l'avis que le conseil rendra qu'une décision sera prise, ceci bien entendu dans un souci scrupuleux du respect des objectifs de la réglementation, à savoir l'harmonisation des conditions de concurrence, l'amélioration des conditions de travail des conducteurs routiers et de la sécurité de la circulation routière. Après avoir examiné la situation particulière des artisans du bâtiment et des travaux publics, le ministre de l'équipement, du logement, des transports et de la mer estime que des avancées sont possibles sur ce dossier à la condition que le régime dérogatoire qui sera instauré soit suffisamment simple et précis pour éviter que cette procédure, qui doit être spécifique au transport occasionnel lié à l'acte de construire des artisans, ne soit abusivement employée. Dans ce cas, en effet, l'esprit qui a présidé à l'instauration de ce règlement destiné à protéger le conducteur et les autres usagers de la route ne serait plus respecté.
