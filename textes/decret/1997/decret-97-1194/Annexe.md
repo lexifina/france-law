@@ -1696,17 +1696,29 @@ Articles 4, 5 et 7.
 
 |
 
-Règlement (CEE) n° 3381/94 du Conseil du 19 décembre 1994 modifié, instituant un régime communautaire de contrôle des exportations de biens à double usage et arrêté du 12 mars 1996 relatif à la délivrance d'un certificat international d'importation et d'un certificat de vérification de livraison pour l'importation de biens à double usage
+Règlement (CEE) n° 1334/2000 du Conseil du 22 juin 2000 instituant un régime communautaire de contrôles des exportations de biens à double usage et décret n° 2001-1192 du 13 décembre 2001 relatif au contrôle à l'exportation, à l'importation et au transfert de biens et technologies à double usage
 
-1
+1 |
+
+Autorisation d'exportation et de transfert concernant les biens à double usage, civil et militaire. |
+
+Article 6.2 du règlement et articles 1er et 2 du décret. |
+
+2 |
+
+Enregistrement de l'autorisation générale communautaire d'exportation n°EU001. |
+
+Article 6.1 du règlement et article 6 du décret. |
+
+3
 
 |
 
-Délivrance d'un certificat international d'importation et de vérification des livraisons concernant des biens à double usage, civil et militaire.
+Délivrance d'un certificat international d'importation et d'un certificat de vérification de livraison pour l'importation des biens à double usage, civil et militaire.
 
 |
 
-Article 17 du règlement et articles 3 et 6 de l'arrêté.
+Article 19 du règlement et article 8 du décret.
 
 |
 
@@ -1892,11 +1904,11 @@ Décret n° 71-753 du 10 septembre 1971 modifié pris pour l'application de l'ar
 
 |
 
-Autorisations d'importation et d'exportation de poudres et substances explosives.
+Autorisations de transfert, d'importation et d'exportation de poudres et substances explosives.
 
 |
 
-Articles 4, 5, 7 et 8.
+Articles 4, 5, 7, 8-1 à 8-9.
 
 |
 
@@ -1949,20 +1961,6 @@ Autorisation de fermeture d'un entrepôt fiscal de stockage d'huiles minérales.
 |
 
 Article 5.
-
-|
-
-Décret n° 95-613 du 5 mai 1995 relatif au contrôle de l'exportation des biens à double usage
-
-1
-
-|
-
-Autorisation d'exportation et de transfert concernant des biens à double usage, civil et militaire.
-
-|
-
-Articles 1er et 2.
 
 |
 
