@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701443
+
+- Question : [SEQ020701443](seq020701443.md) — Institut national du patrimoine
+
+## Réponse
+
+*Culture, JO du 2002-09-05, page 1947*
+
+L'Institut national du patrimoine est un établissement public à caractère administratif qui a pour mission d'assurer la formation des conservateurs et des restaurateurs du patrimoine. Il peut en outre concourir à la formation permanente de personnes exerçant leur activité dans le domaine du patrimoine, accueillir des étudiants ou stagiaires étrangers, organiser des séminaires et des colloques et réaliser des publications liées à ses missions. La direction de l'architecture et du patrimoine exerce un rôle au sein de l'établissement par l'entremise de son représentant qui siège au sein du conseil d'administration. S'agissant de la rémunération des dirigeants de l'établissement, il convient de distinguer la situation du directeur qui occupe un emploi budgétaire et celle du président du conseil d'administration qui, comme l'ensemble des membres de celui-ci, exerce ses fonctions à titre gratuit, ses frais de déplacement et de séjour pouvant être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat (art. 11 du décret statutaire). Les charges de fonctionnement du budget prévisionnel de l'établissement pour 2002 sont de 7 135 655 euros, dont 3 239 655 euros pour les charges de personnel. Les recettes propres de l'établissement s'élèvent à 635 833 euros. Ses autres ressources sont uniquement constituées par les subventions de fonctionnement et d'investissement du ministère de la culture et de la communication dont le montant total s'élève pour 2002 à 6 538 239 euros. Ces subventions représentent en moyenne chaque année 90 % des recettes de fonctionnement de l'établissement.
