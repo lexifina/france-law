@@ -8,49 +8,53 @@ La prise en charge des verres, de la monture et des suppléments est assurée da
 
 La liste des équipements pris en charge (montures et verres) ainsi que leur prix limite de vente, le cas échéant en sus des tarifs, sont fixés conformément aux tableaux suivants :
 
-I. - Avant le seizième anniversaire :
+I. - Avant le dix-huitième anniversaire
 
 NOMENCLATURE
 
 |
 
-PRIX LIMITE DE VENTE
-
-(en francs)
+CODES DE SAISIE
 
 |
 
-MONTANT MAXIMUM
+CODES TIPS
 
-pris en charge
+|
+
+PRIX LIMITES
+
+de vente
+
+(en euros)
+
+|
+
+MONTANT
+
+maximum pris
+
+en charge
 
 en sus du tarif
 
-(en francs)
+(en euros)
 
 |
 
-Equipements comprenant les verres et la monture
+Monture
 
 |
 
-|
+LUN
 
 |
 
-Verres simple foyer, sphériques
+202A01
 
 |
 
-|
-
-|
-
-Verre simple foyer, de sphère allant de - 6,00 à + 6,00
-
-|
-
-358
+30,49
 
 |
 
@@ -58,23 +62,19 @@ Verre simple foyer, de sphère allant de - 6,00 à + 6,00
 
 |
 
-Verre simple foyer, de sphère allant de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
+Sphère de - 6 à + 6
 
 |
 
-550
+VER
 
 |
 
--
+202A00.11
 
 |
 
-Verre simple foyer, de sphère située en dehors de la zone - 10,00 à + 10,00
-
-|
-
-790
+12,04
 
 |
 
@@ -82,31 +82,19 @@ Verre simple foyer, de sphère située en dehors de la zone - 10,00 à + 10,00
 
 |
 
-Verres simple foyer, sphéro-cylindriques
+Sphère de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
 
 |
 
-|
+VER
 
 |
 
-Verre simple foyer, de cylindre inférieur ou égal à + 4,00 et de sphère agent de - 6,00 à + 6,00
+202A00.12
 
 |
 
-396
-
-|
-
--
-
-|
-
-Verre simple foyer, de cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
-
-|
-
-676
+26,68
 
 |
 
@@ -114,23 +102,19 @@ Verre simple foyer, de cylindre inférieur ou égal à + 4,00 et de sphère situ
 
 |
 
-Verre simple foyer, de cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
+Sphère située en dehors de la zone - 10,00 à + 10,00
 
 |
 
-566
+VER
 
 |
 
--
+202A00.13
 
 |
 
-Verre simple foyer, de cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
-
-|
-
-810
+44,97
 
 |
 
@@ -138,31 +122,19 @@ Verre simple foyer, de cylindre supérieur à + 4,00 et de sphère située en de
 
 |
 
-Verres multi-focaux ou progressifs, sphériques
+Cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-|
+VER
 
 |
 
-Verre multi-focal ou progressif, de sphère allant de - 4,00 à + 4,00
+202A00.21
 
 |
 
-714
-
-|
-
--
-
-|
-
-Verre multi-focal ou progressif, de sphère située en dehors de la zone allant de - 4,00 à + 4,00
-
-|
-
-768
+14,94
 
 |
 
@@ -170,31 +142,19 @@ Verre multi-focal ou progressif, de sphère située en dehors de la zone allant 
 
 |
 
-Verres mufti-focaux ou progressifs, sphéro-cylindriques
+Cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
 
 |
 
-|
+VER
 
 |
 
-Verre multi-focal ou progressif, quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+202A00.22
 
 |
 
-712
-
-|
-
--
-
-|
-
-Verre mufti-focal ou progressif, quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00
-
-|
-
-1 014
+36,28
 
 |
 
@@ -202,200 +162,396 @@ Verre mufti-focal ou progressif, quelle que soit la puissance du cylindre et pou
 
 |
 
-II. - A partir du seizième anniversaire :
+Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
+
+|
+
+VER
+
+|
+
+202A00.23
+
+|
+
+27,90
+
+|
+
+-
+
+|
+
+Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+
+|
+
+VER
+
+|
+
+202A00.24
+
+|
+
+46,50
+
+|
+
+-
+
+|
+
+Sphère allant de - 4,00 à + 4,00
+
+|
+
+VER
+
+|
+
+202A00.31
+
+|
+
+39,18
+
+|
+
+-
+
+|
+
+Sphère située en dehors de la zone allant de - 4,00 à + 4,00
+
+|
+
+VER
+
+|
+
+202A00.32
+
+|
+
+43,30
+
+|
+
+-
+
+|
+
+Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+
+|
+
+VER
+
+|
+
+202A00.41
+
+|
+
+43,60
+
+|
+
+-
+
+|
+
+Quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00
+
+|
+
+VER
+
+|
+
+202A90.42
+
+|
+
+66,62
+
+|
+
+-
+
+|
+
+II. - A partir du dix-huitième anniversaire
 
 NOMENCLATURE
 
 |
 
-PRIX LIMITE DE VENTE
+CODES
 
-de l'équipement
-
-(verres + montures)
-
-(en francs)
+liquidation
 
 |
 
-MONTANT MAXIMUM
-
-pris en charge
-
-en sus du tarif
-
-(en francs)
+CODES TIPS
 
 |
 
-Equipements comprenant les verres et la monture
+MONTANT maximum pris
+
+en charge en sus
+
+du tarif
+
+(en euros)
 
 |
 
-|
+PRIX LIMITE
+
+de vente
+
+(en euros)
 
 |
 
-Verres simple foyer, sphériques
+Monture
 
 |
 
-|
+OPM
 
 |
 
-Verre simple foyer, de sphère allant de - 6,00 à + 6,00
+202A01
 
 |
 
-358
+20,02
 
 |
 
-309,35
+22,87
 
 |
 
-Verre simple foyer, de sphère allant de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
+Sphère de - 6 à + 6
 
 |
 
-500
+OP1
 
 |
 
-427,35
+202A00.11
 
 |
 
-Verre simple foyer, de sphère située en dehors de la zone - 10,00 à + 10,00
+13,57
 
 |
 
-500
+15,85
 
 |
 
-381,35
+Sphère de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
 
 |
 
-Verres simple foyer, sphéro-cylindriques
+0P3
 
 |
 
-|
+202A00.12
 
 |
 
-Verre simple foyer, de cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
+22,56
 
 |
 
-396
+26,68
 
 |
 
-329,40
+Sphère située en dehors de la zone - 10,00 à + 10,00
 
 |
 
-Verre simple foyer, de cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+0P3
 
 |
 
-500
+202A00.13
 
 |
 
-391,35
+19,06
 
 |
 
-Verre simple foyer, de cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
+26,68
 
 |
 
-500
+Cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-399,35
+0P2
 
 |
 
-Verre simple foyer, de cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+202A00.21
 
 |
 
-500
+15,09
 
 |
 
-357,35
+18,75
 
 |
 
-Verres multi-focaux ou progressifs, sphériques
+Cylindre inférieur à égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
 
 |
 
-|
+0P3
 
 |
 
-Verre multi-focal ou progressif, de sphère allant de - 4,00 à + 4,00
+202A00.22
 
 |
 
-700
+19,82
 
 |
 
-403,35
+26,68
 
 |
 
-Verre multi-focal ou progressif, de sphère située en dehors de la zone allant de - 4,00 à + 4,00
+Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-700
+0P3
 
 |
 
-533,35
+202A00.23
 
 |
 
-Verres multi-focaux ou progressifs, sphéro-cylindriques
+20,43
 
 |
 
-|
+26,68
 
 |
 
-Verre multi-focal ou progressif, quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
 
 |
 
-720
+0P3
 
 |
 
-565,35
+202A00.24
 
 |
 
-Verre multi-focal ou progressif, quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00
+17,23
 
 |
 
-900
+26,68
 
 |
 
-559,35
+Sphère allant de - 4,00 à + 4,00
+
+|
+
+0P4
+
+|
+
+202A00.31
+
+|
+
+34,61
+
+|
+
+47,92
+
+|
+
+Sphère située en dehors de la zone allant de - 4,00 à + 4,00
+
+|
+
+0P4
+
+|
+
+202A00.32
+
+|
+
+31,10
+
+|
+
+41,92
+
+|
+
+Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+
+|
+
+0P5
+
+|
+
+202A00.41
+
+|
+
+33,08
+
+|
+
+43,45
+
+|
+
+Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+
+|
+
+0P6
+
+|
+
+202A00.42
+
+|
+
+32,62
+
+|
+
+57,17
 
 |
