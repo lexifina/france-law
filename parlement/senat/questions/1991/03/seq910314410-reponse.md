@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314410
+
+- Question : [SEQ910314410](seq910314410.md) — Seuil de radioactivité du plutonium retenu par le SCPRI
+
+## Réponse
+
+*Santé, JO du 1991-08-08, page 1720*
+
+Réponse. - Le ministre délégué à la santé rappelle que, aux termes de la réglementation existante (notamment décrets du 2 octobre 1986, du 18 avril 1988, avis au J.O. du 6 juin 1970, etc.), le dépôt en décharge classique de déchets comportant une certaine radioactivité n'est possible que si la concentration, dans la masse des déchets des radioéléments en cause, quelle que soit leur nature, ne dépasse pas 74 becquerels par gramme (74 kilobecquerels par kilogramme). En revanche, si cette concentration est dépassée et qu'il s'agit de radioéléments du groupe I (auquel appartiennent certains émetteurs alpha tels que le plutonium 239), il n'est alors pas autorisé d'en rejeter en décharge plus de 3,7 kilobecquerels au total. Ces dispositions figurent explicitement au paragraphe 5,5 du communiqué du service central de protection contre les rayonnements ionisants du 25 octobre 1990 (n° 19382), relatif à la décharge de Saint-Aubin et diffusé à l'ensemble des agences de presse. Dans le cas de cette décharge, le chiffre publié dans la presse de 2153 becquerels de plutonium par kilogramme (soit 2,15 becquerels par gramme), trouvé dans un prélèvement de terre, respecte, en tout état de cause, ces dispositions puisqu'il ne représente que 1/35 de la limite de concentration massique de 74 becquerels par gramme. Quant à la règle de sûreté de 370 000 becquerels par kilogramme évoquée par l'honorable parlementaire, elle ne vise que les colis fermés déposés en décharges spécialisées. Le communiqué précise sans équivoque que cette règle n'était mentionnée, à la suite des dispositions réglementaires précitées, qu'à titre de comparaison.
