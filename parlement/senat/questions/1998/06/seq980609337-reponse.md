@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609337
+
+- Question : [SEQ980609337](seq980609337.md) — Frais de garde dans les tribunaux
+
+## Réponse
+
+*Justice, JO du 1999-02-18, page 538*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les objets saisis au cours d'une enquête et mis sous scellés judiciaires peuvent soit être conservés au greffe de la juridiction sous la responsabilité du greffier en chef (art. R. 812-3 du code de l'organisation judiciaire), soit en raison de leur taille ou de leur volume être placés en gardiennage sur réquisition du procureur de la République, du magistrat instructeur ou de l'officier de police judiciaire. Les objets conservés dans la salle de pièces à conviction de la juridiction n'entraînent aucun frais de justice. Seuls les objets placés en gardiennage chez un gardien prestataire de services entraînent des frais de justice. Il convient de préciser que les coûts élevés de gardiennage de certains objets peuvent s'expliquer par le fait que les juridictions ne peuvent restituer des pièces à conviction relatives à des décisions non définitives ; il est nécessaire, dans ce cas, d'attendre l'expiration des délais de prescription de la peine. Afin de réduire le coût de ces dépenses, le délai de conservation de l'article 41-1 du code de procédure pénale va être ramené à six mois au lieu de trois ans actuellement ainsi que le prévoit le projet de loi NOR : JUSX9800051L/B1 relatif aux alternatives aux poursuites et renforçant l'efficacité de la procédure pénale. De plus, des instructions prévoyant la mise en place d'un fichier des objets placés en gardiennage permettant un suivi du coût du gardiennage dès la saisie de l'objet sont en cours d'élaboration avec les ministères de l'intérieur et de la défense, et seront prochainement adressées aux juridictions et aux services concernés.
