@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112404
+
+- Question : [SEQ981112404](seq981112404.md) — Moyens alloués à la médecine scolaire
+
+## Réponse
+
+*Enseignement scolaire, JO du 1999-03-18, page 877*
+
+Réponse. - Au titre de l'exercice 1998, le potentiel global de la médecine scolaire a été augmenté de 150 équivalents temps plein. Ainsi, lors de la dernière rentrée scolaire, le taux moyen d'encadrement en personnels titulaires, contractuels et vacataires, était d'un médecin pour 6 390 élèves. A cet égard, il y a lieu de rappeler qu'antérieurement à la prise en charge de la médecine scolaire par l'éducation nationale, intervenue le 1er janvier 1991, ce service disposait d'un médecin pour 8 200 élèves. Le renforcement des effectifs est poursuivi en 1999 par l'inscription dans la loi de finances d'une mesure de création de 30 emplois de médecin. Enfin, sans mésestimer l'importance du rôle joué par les médecins scolaires au sein de la communauté éducative, il importe de souligner que la mise en uvre des mesures présentées le 11 mars 1998 par la ministre déléguée, chargée de l'enseignement scolaire, dans le cadre du plan de relance pour la santé scolaire, conduit à une mobilisation accrue de tous les personnels de l'éducation nationale, notamment par des actions de formation ; elle implique également un renforcement du partenariat entre les services de santé scolaire, les services hospitaliers, les médecins généralistes et tous les acteurs susceptibles de contribuer à l'organisation de réseaux locaux en faveur des publics fragilisés. A partir des orientations nationales et dans le cadre des plans académiques élaborés à partir des réalités sanitaires et sociales constatées sur le terrain, les interventions dans le premier et le second degrés des personnels de santé seront réorganisées dans la perspective d'une utilisation optimale des emplois et des moyens.
