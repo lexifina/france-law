@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709624
+
+- Question : [SEQ980709624](seq980709624.md) — Distorsions en matière de réductions des tarifs des transports publics
+
+## Réponse
+
+*Équipement, JO du 1998-09-17, page 3001*
+
+Réponse. - La réduction tarifaire attribuée aux invalides de guerre n'est pas une réduction à caractère social, mais une mesure de réparation à l'égard des personnes concernées, réparation à la charge de la Nation inscrite au budget du ministère des anciens combattants. La situation des invalides de guerre et celle des invalides civils ne sont donc pas comparables sur le plan du droit. Les invalides civils ne bénéficient pas, sur le réseau de la SNCF, de réductions tarifaires en raison de leur handicap, mais il convient toutefois de signaler que l'accompagnateur d'une personne handicapée ayant un taux d'invalidité égal ou supérieur à 80 % bénéficie d'une réduction de 50 %. Dans le cas où la personne handicapée bénéficie de l'avantage " tierce personne ", ou lorsqu'elle est atteinte de cécité, l'accompagnateur bénéficie de la gratuité du transport en train. Cette dispositon est à caractère social et l'Etat prend alors en charge les incidences financières sur les comptes de la SNCF. L'objectif de cette disposition n'est pas d'attribuer un avantage tarifaire aux handicapés par rapport à une personne valide, mais de contribuer à ne pas pénaliser les handicapés pour lesquels l'assistance d'une tierce personne est reconnue indispensable. Les personnes qui souffrent d'un handicap civil bénéficient bien entendu des réductions accordées à tout autre usager, qu'il s'agisse de réductions à caractère social, telles que celles pour les familles nombreuses, ou de réductions à caractère commercial, telles que les prix " Découverte à deux " pour les personnes voyageant à deux ou les prix " Découverte 12-25 " pour les jeunes de 12 à 25 ans ou bien encore les réductions au titre de la carte " Senior ".
