@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816758
+
+- Question : [SEQ910816758](seq910816758.md) — Taxe BAPSA sur les betteraves
+
+## Réponse
+
+*Agriculture, JO du 1992-10-08, page 2290*
+
+Réponse. - Le Gouvernement s'est engagé à démanteler progressivement les taxes sur les productions agricoles (céréales, betteraves et oléagineux) finançant le Bapsa, parallèlement à la mise en oeuvre de la réforme des cotisations sociales prévue par la loi n° 90-85 du 23 janvier 1990. Si la réduction de ces taxes a été réalisée à des rythmes différents, cet engagement est globalement respecté : depuis 1989, ces trois taxes ont été réduites de 45 p. 100, alors que les cotisations ont été calculées en 1991, à raison de 40 p. 100 sur la nouvelle assiette constituée par les revenus professionnels. Au terme de la réforme, ces taxes à la charge des producteurs seront complètement supprimées. En ce qui concerne la taxe Bapsa sur les betteraves livrées à la sucrerie et à la distillerie prévue par l'article 1617 du code général des impôts, elle a été réduite de 12,6 p. 100 au cours de la campagne 1989-1990 jusqu'au taux minimum de 4 p. 100 prévu par cet article. Pour permettre la poursuite ultérieure de la réduction de cette taxe, l'article 1617 a été modifié par la loi n° 91-1407 du 31 décembre 1991 de manière à supprimer le taux minimum antérieurement prévu. Pour la campagne 1991-1992, le taux de 4 p. 100 a été reconduit. Pour la campagne 1992-1993, le taux de la taxe sera fixé en tenant compte de l'objectif de parallélisme entre le passage des cotisations sur la base fiscale et le démantèlement des taxes BAPSA sur les produits agricoles, comme, naturellement, de la nécessité d'éviter un alourdissement excessif des cotisations sociales pesant sur l'ensemble des agriculteurs du fait de la réduction de ces taxes.
