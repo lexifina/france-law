@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506332
+
+- Question : [SEQ940506332](seq940506332.md) — Délivrance de cartes d'abonnement par les sociétés d'autoroutes
+
+## Réponse
+
+*Équipement, JO du 1994-07-14, page 1769*
+
+Réponse. - Dans le cadre de leur politique commerciale, les sociétés concessionnaires d'autoroutes peuvent s'orienter, là où le besoin s'en fait sentir en raison de la fréquence des déplacements réguliers et notamment des trajets pendulaires domicile-travail, vers des formules d'abonnement tarifaire. C'est ainsi que la Société des autoroutes du Sud de la France (ASF) propose pour les autoroutes A 63, de la frontière espagnole à Bayonne, A 62, de Langon à Bordeaux, A 68, de Gémil et Saint-Jory à Toulouse et A 8 et A 51, sur Coudoux - Aix-en-Provence - Marseille, plusieurs formules d'abonnement par des contrats adaptés aux caractéristiques des déplacements. Les produits offerts prennent la forme de cartes à décompte, de cartes hebdomadaires à coupons détachables sur un trajet prédéterminé, de cartes forfaitaires offrant des réductions allant de 30 à 50 p. 100 pour les abonnés utilisant les sections autoroutières dans le cadre de leurs déplacements domicile-travail. Ces produits sont de plus en plus souvent associés au télépéage qui offre plus de commodité à l'usager. Le trajet entre Valence et Lyon ne répond pas aux caractéristiques du déplacement domicile-travail et la société ASF en toute logique n'offre pas de possibilités d'abonnement tarifaire avec réduction. En effet, si ce tronçon de cent kilomètres, très chargé en trafic de transit avec une forte proportion de poids lourds, peut être emprunté régulièrement par quelques usagers, il n'y a pas sur cet itinéraire un potentiel suffisant de mouvements pendulaires domicile-travail justifiant la mise en oeuvre d'un système d'abonnement.
