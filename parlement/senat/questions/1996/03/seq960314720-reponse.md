@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314720
+
+- Question : [SEQ960314720](seq960314720.md) — Moyens de lutter contre l'utilisation d'un médicament détourné de son usage
+
+## Réponse
+
+*Santé, JO du 1996-06-13, page 1464*
+
+Réponse. - Le problème soulevé par l'honorable parlementaire concerne principalement la spécialité pharmaceutique Rohypnol, à base d'une benzodiazépine, le flunitrazepam. Depuis déjà plusieurs années ce produit faisait l'objet d'une surveillance très étroite ayant conduit progressivement à restreindre les conditions de sa prescription. L'examen des données ainsi recueillies relatives aux cas de déviations d'usage, d'usage abusif et de dépendance tant sur le plan national qu'international, et plus particulièrement au risque lié au dosage fort, a conduit les laboratoires Produits Roche, en liaison avec l'Agence du médicament, à prendre la décision de cesser la commercialisation du dosage fort, Rohypnol 2 mg, en premier lieu dans les officines de ville à compter du 1er avril 1996 et dans un délai de 3 mois dans les hôpitaux. Parallèlement, les mêmes dispositions s'appliquent au produit essentiellement similaire, le flunitrazepam RPG. En revanche, il a été considéré que le flunitrazepam à faible dosage, 1 mg, peut demeurer sur le marché dès lors qu'il reste soumis à surveillance comme les autres substances psychotropes. Au-delà des faits relevés par l'observation de l'usage du flunitrazepam 2 mg se pose le problème plus complexe des polytoxicomanies associées aux benzodiazépines existant sous des dosages forts. Le retrait total de la substance en cause ne peut être la solution idéale en raison d'un risque de report vers d'autres produits. Certaines benzodiazépines font déjà l'objet d'une surveillance particulière aux niveaux national et international et une réflexion complémentaire est engagée sur le rapport bénéfice/risque des dosages forts d'hypnotiques et d'anxiolytiques.
