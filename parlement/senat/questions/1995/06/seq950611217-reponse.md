@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611217
+
+- Question : [SEQ950611217](seq950611217.md) — Fonctionnement des commissions techniques d'orientation et de reclassement professionnel
+
+## Réponse
+
+*Solidarité entre les générations, JO du 1995-08-31, page 1690*
+
+Réponse. - L'honorable parlementaire souligne les efforts consacrés par les pouvoirs publics à la modernisation des commissions techniques d'orientation et de reclassement professionnel (COTOREP) et la nécessité de prolonger cette politique dans le souci du respect des droits de l'usager. Près d'un an après la mise en oeuvre de la circulaire d'orientation no 94-130 du 1er août 1994 relative à la modernisation des COTOREP, sous le timbre conjoint des ministères concernés chargés des affaire sociales et du travail, un premier bilan fait état des facteurs d'améliorations quantitatives et qualitatives suivants : quatre cinquièmes des COTOREP disposent désormais d'un secrétariat unique, contre deux tiers en 1992 et la moitié des commissions ont procédé à la nomination d'un médecin-coordonnateur, assurant la coordination, le tri initial des dossiers et la coordination entre les équipes techniques des première et deuxième sections ; deux tiers de COTOREP ont un stock de demandes inférieur à 4 mois de fonctionnement, seul un cinquième d'entre elles ont un stock d'instances supérieur à 6 mois ; l'informatisation des commissions est pratiquement réalisée sur l'ensemble du territoire national. Par ailleurs, suite aux recommandations de l'inspection générale des affaires sociales, une réforme de la médecine de main-d'oeuvre est en cours pour améliorer le statut des médecins et la qualité des expertises médicales. En outre, un nouveau formulaire de certificat médical, support de l'information, sera progressivement diffusé auprès des médecins ; mis en conformité avec les dispositions du guide-barème et plus lisible, il permettra une meilleure orientation des dossiers dès leur réception.
