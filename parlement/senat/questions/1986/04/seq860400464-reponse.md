@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400464
+
+- Question : [SEQ860400464](seq860400464.md) — Rétablissement des prêts bonifiés à moyen terme ordinaire
+
+## Réponse
+
+*Économie, JO du 1986-07-10, page 964*
+
+Réponse. -Supprimés en 1983, les prêts à moyen terme ordinaire (M.T.O.), tout en étant les moins bonifiés de la gamme des prêts à l'agriculture, ne répondaient pas au principe de sélectivité qui doit régir la bonification d'intérêts. Comme le sait l'honorable parlementaire, un ensemble de mesures privilégiant les actions prioritaires que finançait le prêt M.T.O. a été mis en place : un prêt pour les productions végétales spéciales a été créé, et les plafonds des prêts aux jeunes agriculteurs et des prêts spéciaux à l'élevage ont été relevés. Les décisions les plus récentes confirment la priorité que le Gouvernement attache à ces actions : au 1er juillet 1986 le taux des prêts aux jeunes agriculteurs sera réduit de 2 points et l'encours maximum par emprunteur porté à 500 000 francs, le taux des autres prêts diminuera de 1 point, hormis celui des prêts fonciers réduit de 0,75 point. Par ailleurs, les agriculteurs ont la possibilité de financer leurs investissements courants au moyen de prêts bancaires aux entreprises, le complément pouvant être trouvé en prêts non bonifiés, en particulier auprès du Crédit agricole. A titre de comparaison, pour une enveloppe M.T.O. de 4 250 millions de francs en 1983, 2 856 millions de prêts bancaires aux entreprises (P.B.E) ont été distribués au secteur agricole en 1985 ainsi que 6 917 millions de prêts non bonifiés. Ces conditions de financement ont été, en outre, récemment améliorées grâce à la baisse du taux des P.B.E. de 9,25 à 8,75 p. 100, et à la réduction d'un point du taux des prêts à l'agriculture non bonifiés du Crédit agricole. Ces taux, désormais compris selon les durées entre 10,40 et 11,20 p. 100, sont eux-mêmes, en moyenne, inférieurs au taux de 11 p. 100 pratiqué pour les M.T.O. en 1983 et 1984.
