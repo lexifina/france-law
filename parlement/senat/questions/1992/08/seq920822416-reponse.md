@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822416
+
+- Question : [SEQ920822416](seq920822416.md) — Vacance de postes d'infirmier
+
+## Réponse
+
+*Santé, JO du 1993-03-29, page 606*
+
+Réponse. - Par la signature des protocoles d'accord du 15 novembre 1991, le Gouvernement s'est engagé deans une réforme profonde de la situation professionnelle des infirmiers hospitaliers. L'ensemble des mesures prises a permis de revaloriser de manière significative cette profession et de redresser notablement la situation décrite par l'honorable parlementaire. Un point précis de ces mesures a été effectué lors de la réunion de suivi des protocoles du 3 novembre 1992. Au niveau des textes, les décrets des 2 et 20 janvier 1992, trois arrêtés du 2 janvier 1922 et plusieurs circulaires intervenues entre décembre 1991 et octobre 1992 fixent notamment les modalités d'attribution d'un certain nombre de primes (primes d'encadrement, primes spécifiques à certains agents, prime spécialisée de début de carrière) et d'indemnités (travail du dimanche et des jours fériés). Par ailleurs, des enveloppes de postes supplémentaires (5 000 au titre de 1992/1993) ont été ventilées au profit des établissements pour permettre la mise en place de la réduction du travail de nuit et de faire face, dans de meilleures conditions, à des charges d'activité accrues. Les quotas d'élèves dans les écoles d'infirmières ont été relevés de façon importante (18 608, soit plus de 3 500 étudiants par rapport à 1991). Le dispositif d'allocations d'études aux élèves infirmiers a été mis en place dans un certain nombre de régions et particulièrement en Ile-de-France. Une circulaire du 23 décembre 1991 a incité l'ensemble des établissements à se mobiliser pour la signature rapide de contrats portant sur l'amélioration de conditions de travail susceptibles d'être soutenus par l'Etat : 283 contrats étaient déposés au 1er octobre 1992.
