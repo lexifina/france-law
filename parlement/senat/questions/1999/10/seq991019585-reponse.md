@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019585
+
+- Question : [SEQ991019585](seq991019585.md) — Visas pour des ressortissants bulgares
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-12-23, page 4216*
+
+Réponse. - Le Gouvernement a engagé depuis plus d'un an une politique des visas destinée à faciliter la venue dans notre pays des étrangers susceptibles de contribuer au développement des relations entre la France et leurs pays d'origine. S'agissant plus particulièrement des conditions de délivrance des visas en Bulgarie, le Gouvernement estime en effet nécessaire de renforcer les relations franco-bulgares et de ne pas entraver les déplacements entre nos deux pays. Dans cette perspective, l'ambassade de France à Sofia délivre déjà des visas de circulation valables pour plusieurs séjours. Les conditions d'accueil et l'information du public ont également été améliorées. La majorité des visas est par ailleurs traitée dans la journée, ce qui n'est pas le cas dans tous les consulats des partenaires européens de la France. Il a été récemment demandé à la représentation diplomatique française d'amplifier ces efforts, afin de faciliter les échanges contribuant au développement des relations bilatérales, en proposant plus systématiquement des visas de circulation et en étendant la dispense de comparution personnelle accordée aux personnalités du monde politique, économique et culturel. Les justificatifs sollicités seront allégés dans la limite compatible avec les accords de Schengen. L'accueil, en particulier celui des personnes venant de province, fera l'objet d'une attention particulière. Les déplacements dans le cadre d'échanges entre communes françaises et bulgares devraient, dans ce contexte, être rendus plus aisés, les visas étant délivrés au vu d'une invitation avec prise en charge des frais de séjour.
