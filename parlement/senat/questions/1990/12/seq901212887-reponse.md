@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212887
+
+- Question : [SEQ901212887](seq901212887.md) — Embauche des pilotes dans les compagnies aériennes françaises
+
+## Réponse
+
+*Équipement, JO du 1991-03-14, page 544*
+
+Réponse. - La réglementation issue de la réforme des licences du personnel navigant de 1988 a reçu l'avis favorable du conseil du personnel navigant professionnel de l'aéronautique civile au sein duquel siègent notamment les organisations syndicales représentatives des pilotes. Il n'est pas envisagé à court terme de modification notable des règles mises en places il y a moins de deux ans. Concernant les licences étrangères, les demandes de validation des titres détenus par un pilote français ou par un pilote étranger sont étudiées au cas par cas, suivant une procédure réglementaire qui prévoit en l'occurence la consultation d'un groupe d'experts issu du conseil du personnel navigant. Aucune discrimination tenant à la nationalité du titulaire de la licence n'est faite au cours de l'instruction du dossier ; seul l'aspect technique est examiné. L'embauche dans une entreprise française est laissée à l'appréciation de l'employeur dès lors que le demandeur détient les titres requis par la réglementation française, y compris par validation de titres étrangers lorsqu'ils sont reconnus. Dans ce cadre, à la suite d'une table ronde tenue en juillet 1990 par le ministre de l'équipement, du logement, des transports et de la mer, les entreprises qui emploient, proportionnellement à leurs effectifs, le plus de navigants titulaires de licences étrangères validées ont été invitées à revenir progressivement, en trois ans, à une situation plus satisfaisante. En outre, une discrimination fondée sur la nationalité du candidat serait contraire, en ce qui concerne les ressortissants des Etats membres de la Communauté européenne, aux dispositions du traité de Rome.
