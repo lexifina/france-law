@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903042
+
+- Question : [SEQ970903042](seq970903042.md) — Enregistrement par magnétophone des interrogatoires et confrontations en cours de garde à vue
+
+## Réponse
+
+*Justice, JO du 1998-01-22, page 248*
+
+Réponse. - Le garde des sceaux, ministre de la justice, rappelle à l'honorable parlementaire que la commission présidée par le premier président de la Cour de cassation et installée le 21 janvier 1997 a reçu directement du président de la République une mission de réflexion et de proposition sur la justice, qui s'articulait autour de deux sujets majeurs : d'une part, la question des moyens pouvant assurer un meilleur respect de la présomption d'innocence ; d'utre part, la question de l'indépendance de la justice à l'égard du pouvoir politique. Les conclusions du rapport de la mission ont été portées à la connaissance du ministère de la justice en juillet 1997. S'inspirant de ces conclusions, le garde des sceaux a présenté devant le conseil des ministres du 29 octobre dernier les orientations générales d'une réforme profonde de la justice qui vise à restaurer la confiance des citoyens dans l'institution judiciaire. Il est ainsi proposé une meilleure protection de la présomption d'innocence et un reforcement du contrôle de la police judiciaire qui se concrétisera notamment par l'intervention de l'avocat dès la première heure de la garde à vue, par l'instauration de délais légaux d'enquête, par la prise en compte effective dans la carrière des officiers de police judiciaire de l'évaluation judiciaire de leur comportement et par la participation de l'inspection générale des services judiciaires aux enquêtes administratives dont ces officiers peuvent faire l'objet. En revanche, la proposition consistant à enregistrer par magnétophone les interrogatoires et les confrontations en cours de garde à vue n'a pas, en l'état, été retenue.
