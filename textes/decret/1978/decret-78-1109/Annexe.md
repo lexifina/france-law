@@ -14,7 +14,7 @@ Restitution de son arôme au moyen des substances aromatisantes récupérées lo
 
 2° Jus de fruit concentré.
 
-Produit obtenu, à partir de fruits, par élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, la concentration est d'au moins 50 p. 100.
+Produit obtenu, à partir de jus de fruits, par élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, la concentration est d'au moins 50 p. 100.
 
 3° Nectar de fruit.
 
