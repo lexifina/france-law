@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515288
+
+- Question : [SEQ910515288](seq910515288.md) — Construction par les collectivités locales de logements de service dans les collèges
+
+## Réponse
+
+*Éducation, JO du 1991-12-05, page 2699*
+
+Réponse. - L'article 16 du décret n° 86-428 du 14 mars 1986 relatif aux concessions de logement accordées aux personnels de l'Etat dans les établissements publics locaux d'enseignement (E.P.L.E.) prévoit que " tout établissement créé à compter de la date du transfert de compétences doit comporter un nombre de logements correspondant au moins à celui des concessions déterminées en application des dispositions qui précèdent ". Celles-ci font notamment l'objet de l'article 2 du décret du 14 mars 1986 précité qui prévoit que " sont logés par nécessité absolue de service (...) : a) les agents de direction, de gestion et d'éducation, dans les limites fixées à l'article 3 ci-après, en fonction de l'importance de l'établissement (c'est-à-dire de son classement pondéré) ; b) les agents soignants, ouvriers et de service, dans les conditions définies à l'article 4 ci-après (c'est-à-dire selon qu'il y a externat simple, demi-pension ou internat) ". Il convient d'observer par ailleurs que l'article R. 94 du code du domaine de l'Etat précise qu'" il y a nécessité absolue de service lorsque l'agent ne peut accomplir normalement son service sans être logé dans les bâtiments où il doit exercer ses fonctions ". Par conséquent, il appartient à l'autorité académique, compte tenu de l'intérêt particulier à chaque E.P.L.E., de décider, après consultation de la collectivité de rattachement de l'établissement, de l'octroi ou du refus à l'agent qui en aura fait la demande d'une dérogation à l'obligation de logement faite aux agents bénéficiaires d'une concession de logement par nécessité absolue de service.
