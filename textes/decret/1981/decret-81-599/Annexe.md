@@ -1,6 +1,6 @@
 # Article Annexe
 
-1. Brevets d'invention, certificats d'utilité et certificats d'addition.
+1. Brevets d'invention, certificats d'utilité, certificats d'addition et certificats complémentaires de protection.
 
 Dépôt (1).
 
@@ -25,6 +25,8 @@ Maintien en vigueur.
 Supplément pour requête tardive de l'avis documentaire (3).
 
 Supplément pour paiement tardif de la redevance annuelle (3).
+
+Certificat complémentaire de protection.
 
 2. Brevets européens.
 
