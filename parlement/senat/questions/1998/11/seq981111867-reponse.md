@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111867
+
+- Question : [SEQ981111867](seq981111867.md) — Remise en état de la centrale thermique de Champagne-sur-Oise (Val-d'Oise)
+
+## Réponse
+
+*Industrie, JO du 1999-03-11, page 785*
+
+Réponse. - La question posée évoque la remise en état et la transformation de la centrale thermique de Champagne-sur-Oise. EDF peut être amenée à prendre des décisions de mise en arrêt garanti ou de déclassement de certaines tranches des centrales thermiques classiques, afin d'optimiser le coût de fonctionnement du système électrique national au bénéfice du service public et de respecter les contraintes environnementales. Ces évolutions doivent évidemment se faire dans le respect des dispositions du statut du personnel des industries électriques et gazières, après toutes les concertations utiles avec le personnel. Il va également de soi que les décisions de mise en arrêt garanti ou de déclassement doivent être précédées d'une information des élus locaux et doivent faire l'objet, en tant que de besoin, de mesures d'accompagnement. Le secrétaire d'Etat à l'industrie a demandé au président d'EDF d'y apporter une grande attention. L'expérience du récent déclassement de la centrale de Pont-sur-Sambre paraît avoir valeur d'exemple en la matière, avec une pleine association des élus locaux. La centrale thermique de Champagne-sur-Oise qui possède deux tranches au charbon de 250 MW est en phase d'adaptation. La tranche 1, à déclasser date de 1961, est en mauvais état et n'est pas nécessaire du point de vue du système. La tranche 2, performante, date de 1965 (160 000 heures de fonctionnement en 1998, il reste un potentiel de 40 000 heures à raison de 2 000 à 4 000 heures par an). Elle est en position intéressante en vue des approvisionnements charbon. Elle est appelée après les " charbons bord de mer " et donc avant toutes les autres tranches charbon y compris Blénod La Maxe.
