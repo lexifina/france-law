@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310223
+
+- Question : [SEQ950310223](seq950310223.md) — Conséquences du gel des crédits du ministère de la défense
+
+## Réponse
+
+*Défense, JO du 1995-04-27, page 998*
+
+Réponse. - La mesure de gel, récemment décidée par le Gouvernement, qui porte sur une vingtaine de milliards de francs de crédits, s'inscrit dans le cadre des régulations budgétaires auxquelles ont eu recours, ces dernières années, tous les gouvernements soucieux de préserver l'équilibre des finances publiques. Cette mesure conjoncturelle s'applique à l'ensemble des départements ministériels, au prorata des mesures nouvelles prévues par le budget, c'est-à-dire des dépenses non obligatoires. Pour la défense, elle se traduit par la mise en réserve de 7,1 milliards de francs de crédits. S'il devait se prolonger, voire se transformer en annulation, ce gel pourrait devenir un réel sujet de préoccupation pour ceux qui ont le souci de la défense de notre pays et de nos emplois industriels. A la différence de la plupart des autres départements ministériels, la défense dispose cependant, en matière d'effectifs et d'équipement, d'une loi de programmation qui a été votée il y a moins d'un an à une très large majorité. Le respect de la première annuité de cette loi de programmation, confirmé par le budget de 1995, devrait ainsi rester une priorité politique. En outre, si les deux dernières gestions budgétaires ont également connu des gels de dotations, aucun d'eux ne s'est traduit, pour le ministère de la défense, par une annulation de crédits. Cette situation est d'autant plus remarquable qu'à la différence de ce qui avait cours avant 1993, les armées ont bénéficié dans le même temps du remboursement de l'intégralité des dépenses de rémunérations et de fonctionnement dont elles ont fait l'avance au titre des opérations extérieures.
