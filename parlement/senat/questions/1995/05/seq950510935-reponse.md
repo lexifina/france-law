@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950510935
+
+- Question : [SEQ950510935](seq950510935.md) — Procédure d'instruction des dossiers indemnité spéciale montagne
+
+## Réponse
+
+*Agriculture, JO du 1995-08-03, page 1540*
+
+Réponse. - Les indemnités compensatoires de handicaps naturels versées aux agriculteurs de montagne et des autres zones défavorisées représentent, chaque année, plus de deux milliards de francs. Elles sont soumises au système intégré de gestion et de contrôle mis en oeuvre dans toute l'Union européenne, qui comporte une réglementation stricte en matière de délai dans le dépôt des dossiers de demandes d'aides. Un barême de pénalités s'applique pour un retard dans la limite de 20 jours ouvrables. Au-delà, la prime ne peut plus être attribuée. Ces règles correspondent aux obligations de contrôle, car il est nécessaire de vérifier que les éleveurs détiennent bien les animaux qu'ils ont déclarés. Dans un objectif de plus grande efficacité dans la circulation des dossiers, il a été précisé que les maires pouvaient jouer un rôle de liaison entre les éleveurs qui demandent à bénéficier de ces aides et la direction départementale de l'agriculture et de la forêt (DDAF) chargée d'instruire ces dossiers. Cependant, seule la date de réception de la demande à la DDAF peut être retenue. Aussi, si le dossier n'est pas adressé à la direction départementale dans les délais réglementaires et si le retard n'est imputable qu'aux services de la mairie, l'exploitant pénalisé est en droit de demander que cette dernière lui verse des dommages-intérêts. La police d'assurance contractée par le maire peut éventuellement couvrir ce genre de risques. Cependant, afin de limiter ces cas, les services du ministère de l'agriculture, de la pêche et de l'alimentation veillent à ne pas accroître le nombre de procédures faisant appel au concours des maires.
