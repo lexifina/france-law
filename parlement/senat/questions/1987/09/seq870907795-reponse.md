@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907795
+
+- Question : [SEQ870907795](seq870907795.md) — Situation de l'emploi dans la haute vallée de l'Aude
+
+## Réponse
+
+*Équipement, JO du 1988-02-04, page 159*
+
+Réponse. -Depuis plusieurs années, le Gouvernement a pris des mesures pour aider à la reconversion des secteurs d'Alès et de la haute vallée de l'Aude (Languedoc-Roussillon) : 1°) le bassin d'Alès fait l'objet d'une action de reconversion industrielle avec, notamment, l'intervention de la société de conversion des charbonnages, Sofirem. Cette action a été renforcée en 1984 avec la mise en oeuvre de mesures sociales particulières, la création d'un fonds d'industrialisation du bassin houiller, la mise en place d'une équipe d'animation. En 1987, le Gouvernement a décidé de confirmer le dispositif et de poursuivre l'action de reconversion : l'équipe d'animation (chargé de mission à l'animation économique, chargé de mission à l'emploi) placée auprès du sous-préfet d'arrondissement est confortée ; le fonds d'industrialisation du bassin minier recevra une dotation au moins égale à 5 millions de francs l'an prochain ; des moyens spécifiques sur le F.I.A.T. sont affectés pour la réhabilitation des friches industrielles et la rénovation des cités minières ; enfin la société Sofirem poursuit son action en liaison avec l'association de promotion Adira ; 2 o) les difficultés industrielles que connaît la haute vallée de l'Aude ont conduit le milieu local à réagir : un comité de pilotage des actions économiques a été mis en place en 1986 pour tenter de redynamiser le tissu économique. La D.A.T.A.R. avait déjà soutenu cette initiative en 1986 par l'attribution d'une subvention de 0,15 million de francs. En 1987, une nouvelle aide de 0,25 million de francs sera apportée pour permettre la poursuite et le développement de ces actions.
