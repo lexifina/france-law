@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734364
+
+- Question : [SEQ010734364](seq010734364.md) — Travaux de construction inachevés pour cause de faillite de constructeurs
+
+## Réponse
+
+*Logement, JO du 2001-09-27, page 3135*
+
+L'honorable parlementaire attire l'attention sur la situation des accédants à la propriété qui doivent faire face aux défaillances successives de leur promoteur et de son organisme de caution. C'est notamment le cas de plusieurs familles qui se trouvent en difficulté après avoir souscrit un contrat de construction de maisons individuelles régi par la loi n° 90-1129 du 19 décembre 1990, dont le constructeur est en liquidation judiciaire, et qui ont pour garant l'entreprise d'assurance ICD (Compagnie internationale pour le développement), elle-même en liquidation judiciaire suite au retrait de son agrément par la commission de contrôle des assurances, le 7 novembre 2000. La loi de 1990 précitée institue, en cas de défaillance du constructeur, une garantie de livraison délivrée par un établissement financier ou une entreprise d'assurance agréés. La pratique a révélé des faillites de ces organismes. La loi n° 99-532 du 25 juin 1999 relative à l'épargne et à la sécurité financière a institué un fonds de garantie pour les établissements financiers défaillants. En ce qui concerne les entreprises d'assurance, il n'existe pas à ce jour un fonds pour garantir ces entreprises défaillantes. Le projet de loi portant " diverses dispositions d'ordre économique et financier ", qui a été adopté par le conseil des ministres du 30 mai dernier et déposé au Sénat, prévoit la création d'un tel dispositif. C'est dans ce cadre que des mesures devront être prévues pour que ce fonds puisse indemniser les maîtres d'ouvrage victimes de la faillite d'ICD. Davantage de précisions pourront être apportées ultérieurement à ce sujet par M. le ministre de l'économie, des finances et de l'industrie, qui est à l'origine de ce projet de loi.
