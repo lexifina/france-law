@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208951
+
+- Question : [SEQ941208951](seq941208951.md) — Situation des sapeurs-pompiers volontaires
+
+## Réponse
+
+*Intérieur, JO du 1995-01-12, page 96*
+
+Réponse. - Depuis plusieurs années, un programme d'action a été engagé en faveur des sapeurs-pompiers volontaires. Il vise, notamment, à leur permettre d'exercer leurs missions dans de meilleures conditions de sécurité et d'efficacité, ainsi qu'à leur reconnaître, garantir et aménager la nécessaire disponibilité que requiert leur engagement. Actuellement, plusieurs textes vont dans ce sens, notamment la circulaire interministérielle du 28 septembre 1993 qui favorise la disponibilité des sapeurs-pompiers volontaires relevant des statuts de la fonction publique de l'Etat, territoriale et hospitalière, soit seulement 16 p. 100 d'entre eux. Ces derniers bénéficient, sous réserve des nécessités de service, de décharges de service et d'autorisations d'absence destinées exclusivement à leur permettre de partir en missions opérationnelles, ainsi qu'en formation. Ces mesures n'ont toutefois apporté qu'une réponse partielle à la question de la disponibilité des sapeurs-pompiers volontaires. La poursuite du programme d'action en leur faveur passe maintenant par une sensibilisation de l'opinion publique à la question du volontariat et par la reconnaissance de garanties effectives à la disponibilité des sapeurs-pompiers volontaires. S'agissant des sapeurs-pompiers volontaires exerçant des activités professionnelles dans le secteur privé, des solutions sont d'ores et déjà envisagées pour leur permettre de suivre des périodes de formation en prenant en compte la charge supportée par les employeurs. Les orientations qui seront retenues à ce sujet figureront dans un projet de loi, actuellement en cours d'élaboration, relatif au développement du volontariat dans les corps de sapeurs-pompiers.
