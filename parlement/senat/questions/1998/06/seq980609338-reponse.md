@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609338
+
+- Question : [SEQ980609338](seq980609338.md) — Respect de la convention interdisant le travail des enfants jusqu'à la fin de leur scolarité
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-08-06, page 2543*
+
+Réponse. - La France s'est mobilisée de longue date pour lutter contre le travail des enfants et contribuer à son éradication en France et dans le monde. Sur le plan national, notre pays qui avait été, dès 1841, l'un des tout premiers à limiter le travail des enfants, a bien entendu ratifié la convention 138 élaborée par l'Organisation internationale du travail. L'application de la convention 138 a fait l'objet de plusieurs rapports du Gouvernement adressés à l'OIT, établis par le ministère de l'agriculture et par la direction des relations du travail du ministère de l'emploi et de la solidarité. Mme Aubry s'est également engagée à réaliser pour le 20 novembre 1998, journée nationale des droits de l'enfant, un rapport sur la situation du travail des enfants en France. Sur le plan international, la convention 138, ainsi que le souligne justement l'honorable parlementaire, n'est ratifiée que par une cinquantaine de pays et n'est que rarement appliquée. C'est pourquoi la France plaide chaque année au sein de l'OIT pour une ratification plus large et pour une application plus rigoureuse de cet instrument. Ainsi Mme Aubry, lors de la récente conférence internationale du travail en juin dernier, a-t-elle lancé un appel pour que cet instrument soit ratifié par le plus grand nombre de pays et que les Etats qui en sont parties acceptent le contrôle de l'OIT. De même, la France vient de participer activement au projet d'une nouvelle convention de l'OIT, qui vise à compléter la convention 138 par une interdiction immédiate des pires formes du travail des enfants. Ce texte, qui a fait l'objet de discussions positives lors de la dernière conférence internationale du travail, devrait être adopté en juin 1999.
