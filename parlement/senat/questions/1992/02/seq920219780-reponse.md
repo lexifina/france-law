@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219780
+
+- Question : [SEQ920219780](seq920219780.md) — Supplément familial de traitement
+
+## Réponse
+
+*Fonction publique, JO du 1992-03-19, page 678*
+
+Réponse. - Le supplément familial de traitement (S.F.T.), qui a été institué par la loi du 25 septembre 1942 validée par l'ordonnance du 6 janvier 1945, est un complément du traitement attribué aux agents publics ayant au moins un enfant à charge, au sens de la législation relative aux prestations familiales du régime général de sécurité sociale. Les règles de liquidation du S.F.T. sont fixées par la titre IV du décret n° 85-1148 du 24 octobre 1985 modifié, relatif à la rémunération des personnels civils et militaires de l'Etat et des personnels des collectivités territoriales. Le montant du S.F.T. est composé d'un élément fixe calculé en fonction du rang de l'enfant, et d'un élémént proportionnel calculé en pourcentage du traitement indiciaire brut. Toutefois, les taux de la part proportionnelle ont été aménagés afin d'atténuer sensiblement la hiérarchisation du S.F.T. ; ainsi, la part variable ne peut être inférieure à celle afférente à l'indice majoré 446, ni supérieure à celle afférente à l'indice majoré 716. Il en résulte que le versement du S.F.T. est plutôt dégressif par rapport au traitement. Enfin, la modicité du montant du S.F.T. attribué aux agents publics ayant un seul enfant à charge résulte du caractère très progressif du mode de liquidation du S.F.T. en fonction du rang de l'enfant. Cette progressivité est une caractéristique commune à la plupart des systèmes de compléments familiaux, qui concentrent délibérément l'aide sur les enfants de deuxième et surtout de troisième rang et plus. Le Gouvernement n'envisage pas de revaloriser le montant du S.F.T. versé au titre d'un enfant unique.
