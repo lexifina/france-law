@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711581
+
+- Question : [SEQ950711581](seq950711581.md) — Inégalité de traitement faite aux professions libérales en matière de fiscalité dérogatoire instituée par la loi d'orientation pour l'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-09-21, page 1814*
+
+Réponse. - Les articles 44, 45 et 46 de la loi du 4 février 1995 ont pour objet de modifier, dans un sens favorable à l'aménagement du territoire, les dispositions antérieures du code général des impôts qui organisent des exonérations d'impôt sur les sociétés (art. 44 sexies du CGI) et de taxe professionnelle (art. 1465 du CGI). Elles ne modifient pas de manière importante le champ d'application de ces exonérations qui intéressent les entreprises constituées sous forme sociétaire. Toutefois le 2o de l'article 44 sexies introduit une disposition nouvelle permettant aux professions libérales constituées sous forme de sociétés de bénéficier de l'exonération d'impôt sur les bénéfices, sous certaines conditions d'embauche, ce qui n'existait pas auparavant. En second lieu, dans le même but de soutenir la création d'emploi dans les zones en difficultés, territoires ruraux de développement prioritaire et zones de redynamisation urbaines, le II de l'article 44 de la loi du 4 février 1995 introduit une disposition nouvelle de réduction du droit de mutation pour acquisition de fonds de commerce ou de clientèle. Cette disposition bénéficiera, outre aux commerçants, aux membres des professions libérales quelle que soit la forme juridique sous laquelle ils exercent leur activité. Ainsi les mesures nouvelles introduites par les articles visés de la loi d'orientation pour l'aménagement et le développement du territoire concernent les professions libérales. Il convient de mesurer les effets de ces dispositions avant d'envisager leur éventuelle extension.
