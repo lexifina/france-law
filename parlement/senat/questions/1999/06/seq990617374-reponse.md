@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617374
+
+- Question : [SEQ990617374](seq990617374.md) — Spoliations subies par les familles juives durant la Seconde Guerre mondiale
+
+## Réponse
+
+*Premier ministre, JO du 1999-08-19, page 2740*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le Premier ministre sur les spoliations subies par les familles juives durant la Seconde Guerre mondiale et sur le rôle de la SACEM, au cours de la période 1939-1945, contribuant à spolier les auteurs et compositeurs de confession juive. La mission présidée par Jean Mattéoli travaille maintenant depuis 1997 sur la question des spoliations subies par les personnes considérées comme juives par le régime de Vichy. Les deux rapports d'étape qui ont été remis au Premier ministre attestent de l'ampleur des spoliations et de la gravité des préjudices dont ont été victimes les familles juives durant cette période, comme le note avec raison l'honorable parlementaire. Ces travaux montrent aussi que des restitutions ont eu lieu immédiatement après la Seconde Guerre mondiale. La mission devrait remettre au Gouvernement ses conclusions au début de l'an prochain et faire des propositions quant aux mesures à prendre pour indemniser les victimes ou leurs ayant-droits, lorsque cela est possible, ou réparer de façon collective les dommages subis. D'ores et déjà, une instance destinée à examiner les demandes des victimes des spoliations intervenues du fait des législations antisémites en vigueur pendant l'Occupation va, sur la suggestion de la commission Mattéoli, être mise en place. Le décret créant cette commission va être prochainement publié au Journal officiel. S'agissant enfin de la société des auteurs-compositeurs et éditeurs de musique (SACEM), celle-ci a accepté que la mission Mattéoli puisse étendre à ses archives ses investigations, ce dont le Gouvernement se réjouit.
