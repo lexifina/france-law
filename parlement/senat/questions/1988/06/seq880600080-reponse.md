@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600080
+
+- Question : [SEQ880600080](seq880600080.md) — Indemnité forfaitaire accordée aux personnes contraintes au travail en pays ennemi
+
+## Réponse
+
+*Anciens combattants, JO du 1988-08-25, page 936*
+
+Réponse. - La loi n° 51-538 du 14 mai 1951 portant statut des personnes contraintes au travail en pays ennemi a reconnu le droit des bénéficiaires de ce statut à divers dédommagements au titre de la législation sur les dommages de guerre ou pour pertes de biens résultant d'un fait survenu au cours de la période de contrainte. La loi susmentionnée a, en outre, prévu en son article 11 l'attribution d'un avantage particulier : l'indemnité forfaitaire. Cette indemnité, créée par la loi n° 53-1340 du 31 décembre 1953 (art. 44), correspond à un droit personnel destiné, à l'époque, à compenser partiellement les pertes de salaires subies aussi bien par les réfractaires au service du travail obligatoire que par les personnes astreintes au travail hors du territoire français, donc bénéficiaires du statut des personnes contraintes au travail en pays ennemi. Cette indemnité forfaitaire de 110 francs pour les personnes contraintes au travail avait alors pour objet de favoriser la réinsertion sociale des intéressés. Elle a désormais perdu son utilité première et son maintien revêt essentiellement un caractère symbolique. Il y a lieu de noter, par ailleurs, que les personnes concernées sont ressortissantes de l'Office national des anciens combattants et victimes de guerre et ont pu ou peuvent encore, en cas de besoin, bénéficier des nombreuses prestations sociales de cet établissement public (rééducation professionnelle, secours, etc.). C'est pourquoi la revalorisation demandée par l'honorable parlementaire ne paraît pas revêtir actuellement un caractère prioritaire.
