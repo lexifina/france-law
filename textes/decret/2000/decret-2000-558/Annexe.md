@@ -42,77 +42,33 @@ Bordeaux.
 
 Ariège, Aveyron, Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gers, Gironde, Haute-Garonne, Hautes-Pyrénées, Haute-Vienne, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne, Vienne.
 
-DÉPARTEMENTS
-
-Région terre Ile-de-France.
-
-Saint-Germain-en-Laye.
-
-Essonne, Hauts-de-Seine, Paris, Seine-Saint-Denis, Seine-et-Marne, Val-de-Marne, Val-d'Oise, Yvelines.
-
-Région terre Nord-Est.
-
-Aisne, Nord, Oise, Pas-de-Calais, Somme.
-
-Metz.
-
-Ardennes, Aube, Bas-Rhin, Côte-d'Or, Doubs, Haute-Marne, Haut-Rhin, Haute-Saône, Jura, Marne, Meurthe-et-Moselle, Meuse, Moselle, Nièvre, Saône-et-Loire, territoire de Belfort, Vosges, Yonne.
-
-Région terre Nord-Ouest.
-
-Rennes.
-
-Calvados, Cher, Côtes-d'Armor, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Mayenne, Manche, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée.
-
-Région terre Sud-Est.
-
-Ain, Allier, Ardèche, Cantal, Drôme, Puy-de-Dôme, Haute-Loire, Haute-Savoie, Isère, Loire, Rhône, Savoie.
-
-Lyon.
-
-Alpes-Maritimes, Alpes-de-Haute-Provence, Aude, Bouches-du-Rhône, Corse-du-Sud, Gard, Hautes-Alpes, Haute-Corse, Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse.
-
-Région terre Sud-Ouest.
-
-Bordeaux.
-
-Ariège, Aveyron, Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gers, Gironde, Haute-Garonne, Hautes-Pyrénées, Haute-Vienne, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne, Vienne.
-
 TABLEAU B
 
 Marine
 
-Région maritime atlantique
+Région maritime Atlantique-Manche-mer du Nord
 
-Brest
+ARRONDISSEMENTS MARITIMES
 
-Comprend le littoral situé entre la frontière belge et la frontière espagnole
+DÉPARTEMENTS
 
-ARRONDISSEMENT MARITIME DE CHERBOURG
+Atlantique.
 
-ARRONDISSEMENT MARITIME DE BREST
+Ariège, Ardennes, Aube, Aveyron, Bas-Rhin, Charente, Charente-Maritime, Cher, Corrèze, Côtes-d'Armor, Côte-d'Or, Creuse, Deux-Sèvres, Dordogne, Doubs, Eure-et-Loir, Finistère, Gers, Gironde, Haute-Garonne, Haute-Vienne, Haute-Marne, Haut-Rhin, Haute-Saône, Hautes-Pyrénées, Ille-et-Vilaine, Indre, Indre-et-Loire, Jura, Landes, Loir-et-Cher, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Maine-et-Loire, Marne, Mayenne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Pyrénées-Atlantiques, Saône-et-Loire, Sarthe, Tarn, Tarn-et-Garonne, Territoire de Belfort, Vendée, Vienne, Vosges, Yonne.
 
-Cherbourg
+Manche-mer du Nord.
 
-Brest
-
-Limité :
-
-Au nord, par l'intersection du trait de côte et de la frontière belge.
-
-Au sud, par le point de la côte sur le méridien 1° 34, ouest à la limite des départements de la Manche et d'Ille-et-Vilaine.
-
-Limité :
-
-Au nord, par le point de la côte sur le méridien 1° 34 , ouest à la limite de la Manche et d'Ille-et-Vilaine.
-
-Au sud, par l'intersection du trait de côte et de la frontière espagnole.
+Aisne, Calvados, Eure, Manche, Nord, Oise, Orne, Pas-de-Calais, Seine-Maritime, Somme.
 
 Région maritime Méditerranée
 
-Toulon
+ARRONDISSEMENT MARITIME
 
-Comprend le littoral méditerranéen continental de la frontière espagnole à la frontière italienne et le littoral de la Corse.
+DÉPARTEMENTS
+
+Méditerranée.
+
+Ain, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Cantal, Corse-du-Sud, Drôme, Gard, Haute-Corse, Haute-Loire, Haute-Savoie, Hautes-Alpes, Hérault, Isère, Loire, Lozère, Puy-de-Dôme, Pyrénées-Orientales, Rhône, Savoie, Var, Vaucluse.
 
 TABLEAU C
 
@@ -136,17 +92,11 @@ Gendarmerie
 
 RÉGIONS DE GENDARMERIE
 
-LÉGIONS DE GENDARMERIE
-
 GROUPEMENTS DE GENDARMERIE DÉPARTEMENTALE
 
 Ile-de-France.
 
-Ile-de-France.
-
 Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise, Val-de-Marne, Yvelines.
-
-Metz.
 
 Alsace.
 
@@ -168,17 +118,13 @@ Lorraine.
 
 Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
-Lille.
-
 Nord - Pas-de-Calais.
 
-Nord, Pas-de-Calais.
+Nord Lille, Nord Valenciennes, Pas-de-Calais.
 
 Picardie.
 
 Aisne, Oise, Somme.
-
-Bordeaux.
 
 Aquitaine.
 
@@ -196,8 +142,6 @@ Poitou-Charentes.
 
 Charente, Charente-Maritime, Deux-Sèvres, Vienne.
 
-Lyon.
-
 Auvergne.
 
 Allier, Cantal, Haute-Loire, Puy-de-Dôme.
@@ -205,8 +149,6 @@ Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 Rhône-Alpes.
 
 Ain, Ardèche, Drôme, Haute-Savoie, Isère, Loire, Rhône, Savoie.
-
-Rennes.
 
 Basse-Normandie.
 
@@ -227,8 +169,6 @@ Eure, Seine-Maritime.
 Pays de la Loire.
 
 Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
-
-Marseille.
 
 Corse.
 
