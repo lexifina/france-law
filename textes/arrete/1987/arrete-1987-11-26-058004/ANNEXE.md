@@ -12,9 +12,7 @@ L'Aa. |
 
 En aval du pont de la D. 928 à Saint-Omer. |
 
-Nord, Pas-de-
-
-Calais. |
+Nord, Pas-de-Calais. |
 
 La Slack. |
 
@@ -48,11 +46,15 @@ Somme. |
 
 La Bresle. |
 
-De l'estuaire au pont de la N. 28 à Blangy-sur-Bresle. |
+En aval du pont de la D7 à Hodeng-au-Bosc. |
 
-Somme, Seine-
+Seine-Maritime. |
 
-Maritime. |
+La Bresle. |
+
+En aval du pont de la D 25 à Sénarpont. |
+
+Somme. |
 
 Bassin Seine-Normandie
 
@@ -64,7 +66,19 @@ DEPARTEMENTS concernés |
 
 L'Yères. |
 
-De son embouchure au moulin de Sept-Meules. |
+De son embouchure au moulin haut à Criel-sur-Mer |
+
+Seine-Maritime. |
+
+La Rançon |
+
+En aval du pont de la D 33 à Saint-Wandrille-Rançon |
+
+Seine-Maritime. |
+
+L'Austreberthe |
+
+En aval du pont de la D 86 à Saint-Pierre-de-Varenge-ville. |
 
 Seine-Maritime. |
 
@@ -88,7 +102,7 @@ Seine-Maritime. |
 
 La Varenne. |
 
-De son confluent avec la Bethune jusqu'au |
+De son confluent avec la Béthune jusqu'au chemin vicinal entre la D154 et la D15, limite des communes de Saint-Hellier et Sévis (Orival). |
 
 Seine-Maritime. |
 
@@ -118,9 +132,21 @@ Seine-Maritime. |
 
 La Seine. |
 
+De la limite de salure des eaux jusqu'au barrage de Poses. |
+
+Eure. |
+
+La Seine. |
+
 Du point de salure des eaux au barrage de Poses. |
 
 Seine-Maritime. |
+
+L'Eure. |
+
+De sa confluence avec la Seine jusqu'aux ponts de la D77, au Vaudreuil |
+
+Eure. |
 
 L'Andelle. |
 
@@ -136,37 +162,85 @@ Eure. |
 
 La Touques. |
 
-En aval de son confluent avec l'Orbiquet. |
+Sur tout son cours dans les départements. |
+
+Calvados, Orne. |
+
+Le Chaussey. |
+
+En aval du pont de la D140, commune de Blangy-le-Château. |
+
+Calvados. |
+
+La Paquine. |
+
+En aval du pont de la D 263 à Rocques jusqu'à son confluent avec la Touques. |
 
 Calvados. |
 
 La Calonne. |
 
-Sur tout son cours dans le département. |
+Sur tout son cours dans le département |
+
+Eure. |
+
+La Calonne. |
+
+Sur tout son cours dans le département |
 
 Calvados. |
 
 L'Orbiquet. |
 
-En aval du pont de la D 2. |
+En aval du pont de la déviation en aval de la commune d'Orbec. |
+
+Calvados. |
+
+L'Ancre. |
+
+Sur tout son cours dans le département. |
 
 Calvados. |
 
 La Dives. |
 
-En aval du pont de la N 13. |
+En aval du pont de la D 40, commune de Saint-Pierre-sur-Dives. |
+
+Calvados. |
+
+La Dorette. |
+
+Sur tout son cours dans le département. |
+
+Calvados. |
+
+La Vie. |
+
+En aval du pont de la D 111 b, commune de Saint-Michel-de-Livet |
 
 Calvados. |
 
 L'Orne. |
 
-En aval de son confluent avec la Maire, commune de Sérans. |
+En aval du barrage EDF de Rabodanges, commune de Rabodanges (61). |
 
 Calvados, Orne |
 
+L'Odon. |
+
+En aval du pont de la D216, commune de Longvillers |
+
+Calvados. |
+
+La Laize. |
+
+En aval du pont de la D6, communes de Tournebu et Fontaine-le-Pin |
+
+Calvados. |
+
 La Seulles. |
 
-En aval du pont de Saint-Gabriel. |
+En aval du pont de la D13, commune de Tilly-sur-Seulles. |
 
 Calvados |
 
@@ -178,9 +252,15 @@ Manche. |
 
 La Vire. |
 
-En aval de son confluent avec la Souleuvre, commune de Campeaux (Calvados). |
+En aval de son confluent avec la Virène, commune de Vire. |
 
-Calvados, Manche. |
+Calvados. |
+
+La Vire. |
+
+Sur tout son cours dans le département |
+
+Manche. |
 
 La Saire. |
 
@@ -208,7 +288,7 @@ Manche. |
 
 Le Thar. |
 
-En aval du pont de la D. 105 à Saint-Pierre-Langers. |
+En aval du pont de la D105 reliant les communes de Saint-Jean-des-Champs et La Lucerne-d'Outremer |
 
 Manche. |
 
@@ -426,21 +506,27 @@ DEPARTEMENTS concernés |
 
 La Dordogne. |
 
-De son confluent avec la Garonne jusqu'au barrage E.D.F. du Sablier à Argentât. |
+De son confluent avec la Garonne jusqu'au barrage EDF du Sablier à Argentât (19). |
 
-Gironde, Dordogne, Corrèze. |
+Gironde, Dordogne, Corrèze, Lot. |
 
 L'Isle. |
 
-De son confluent avec la Dordogne jusqu’au barrage de Laubardemont, commune de Sablons-de-Guitres. |
+A l'aval du pont de la D 21 à Saint-Médard-de-Guizière. |
 
-Gironde, Dordogne. |
+Gironde. |
+
+La Vézère |
+
+A l'aval du barrage de Pey-rissac à sa confluence avec la Dordogne. |
+
+Corrèze, Dordogne. |
 
 La Dronne. |
 
-En aval du barrage de Coutras. |
+A l'aval du pont de la D 730 à la Roche-Chalais (24). |
 
-Gironde. |
+Gironde, Dordogne, Charente-Maritime. |
 
 La Souvigne. |
 
@@ -488,9 +574,9 @@ DEPARTEMENTS concernés |
 
 L'Adour. |
 
-De son embouchure jusqu’à son confluent avec le Leez. |
+A l'aval du ruisseau du Hourclat. |
 
-Landes, Gers. |
+Pyrénées-Atlantiques, Landes, Gers, Hautes- Pyrénées. |
 
 Le Luy. |
 
@@ -510,21 +596,81 @@ De son confluent avec les Gaves réunis jusqu'au confluent des Gaves d'Aspe et d
 
 Pyrénées-Atlantiques. |
 
-Le Gave de Pau. |
+Le gave de Pau. |
 
-En aval du barrage d'Artix. |
+A l'aval du pont de Saint-Sauveur, commune de Luz (65). |
+
+Hautes-Pyrénées, Pyrénées-Atlantiques, Landes. |
+
+Le gave d'Ossau. |
+
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
-La Nive. |
+Le gave d'Aspe. |
 
-Jusqu'au barrage de Saint-Martin-d'Arossa. |
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+Le gave de Lourdios. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+Le Vert. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+Le Saison ou gave de Mauléon. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+La Nive de Béhérobie. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+La Nive d'Arnéguy. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+La Nive des Aldudes ou de Baigorry. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+Le Bastan. |
+
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+Le Laurhibar. |
+
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
 La Nivelle. |
 
-Jusqu'au barrage de Olha. |
+Sur tout son cours dans le département. |
+
+Pyrénées-Atlantiques. |
+
+La Bidassoa. |
+
+Sur tout son cours dans le département. |
 
 Pyrénées-Atlantiques. |
 
