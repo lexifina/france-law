@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120099
+
+- Question : [SEQ991120099](seq991120099.md) — Aménagement du territoire en Ile-de-France
+
+## Réponse
+
+*Budget, JO du 2000-03-23, page 1049*
+
+Réponse. - La politique que met en uvre le Gouvernement en matière d'aménagement du territoire intègre la préoccupation de la correction des déséquilibres dont le document exposant la stratégie de l'Etat dans la région Ile-de-France a fait état à juste titre. C'est ainsi qu'ont été prises plusieurs mesures qui tendent à promouvoir un véritable aménagement du territoire francilien. Les règles régissant l'implantation et l'extension d'activités administratives et privées en Ile-de-France vont être modifiées de telle sorte que les seuils à partir desquels ces opérations seront soumises à l'agrément seront relevés. Le Gouvernement, enfin, s'est saisi du dossier de l'aménagement de la plaine de France qui constitue aujourd'hui un territoire prioritaire du point de vue du rééquilibrage économique et social de la région. Il a décidé la constitution d'une mission de préfiguration des outils et objectifs que l'Etat se donnera pour cette zone située entre Roissy et le sud du département de la Seine-Saint-Denis. En ce qui concerne, l'ancien fonds d'aménagement de la région Ile-de-France (FARIF), la suppression dans la loi de finances pour 2000 du compte d'affectation spéciale recevant le produit de la taxe sur les bureaux s'est accompagnée d'une transformation de la nomenclature d'autorisation des chapitres sur lesquels sont désormais ouverts les crédits destinés à supporter les mêmes dépenses que l'ancien FARIF. Ainsi la représentation nationale est-elle en mesure de s'assurer que l'intégralité des moyens affectés par le FARIF en Ile-de-France en 1999 restera consacrée à des dépenses d'aménagement de cette région puisque des articles ad hoc ont été créés dans les bleus budgétaires concernés (logement, urbanisme, routes, transports terrestres, ville).
