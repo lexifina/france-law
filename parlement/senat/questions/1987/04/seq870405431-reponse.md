@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405431
+
+- Question : [SEQ870405431](seq870405431.md) — Conséquences des quotas laitiers sur la valeur des terres en location
+
+## Réponse
+
+*Agriculture, JO du 1988-02-11, page 192*
+
+Réponse. -Le statut juridique des quotas est défini par les règlements communautaires, d'une part, et par le décret n° 87-608 du 31 juillet 1987 - paru au Journal officiel du 2 août 1987 - fixant les modalités de transfert des quantités de références laitières entre producteurs de lait, d'autre part. Les conditions d'application de ce décret sont définies dans la circulaire DEPSE/SDSA/C n° 7011 du 14 août 1987. Les articles 1er et 2 du décret traitent du transfert total d'une exploitation et envisagent successivement l'installation en production laitière ou la réunion d'exploitations laitières. Dans ce dernier cas, un prélèvement de 50 p 100 est opéré si la quantité de référence après transfert excède un seuil fixé par arrêté ministériel au niveau de 200 000 litres. En cas de démembrement d'une exploitation, la quantité de référence est répartie en fonction de la superficie correspondante à l'exclusion des bois, landes, friches, étangs et cultures pérennes. Si la superficie transférée est inférieure à 20 hectares, la quantité de référence correspondante est ajoutée à la réserve nationale. Les quantités de références laitières affectées à la réserve nationale en application du décret sont tenues à la disposition de la commission mixte du département concerné en vue d'une attribution aux producteurs jugés prioritaires. Ces dispositions générales s'appliquent en cas de faire-valoir direct ou de fermage. Dans ce dernier cas, l'article 6 du décret permet de plus au bailleur de mettre à la disposition du preneur, en cas de reprise d'exploitation, la quantité de référence correspondante.
