@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108585
+
+- Question : [SEQ871108585](seq871108585.md) — Intentions du Gouvernement pour la suite des privatisations
+
+## Réponse
+
+*Économie, JO du 1988-02-04, page 154*
+
+Réponse. -Il est vrai que les marchés financiers internationaux ont subi ces dernières semaines une forte baisse, qui s'est répercutée sur le marché boursier français. La baisse de la Bourse de Paris a été comparable à celle connue par plusieurs grandes places étrangères, ce qui prouve bien que la crise trouve son origine dans les déséquilibres qui affectent l'économie internationale et non pas, évidemment, dans les opérations de privatisation réalisées jusqu'à présent. C'est pour tenir compte de l'évolution de la situation depuis le lancement de l'offre publique de vente de la Compagnie financière de Suez qu'il a été décidé d'offrir des facilités de paiement, sur une période d'un an, aux particuliers et aux salariés qui avaient souscrit des actions Suez. Sur le fond, la référence à un " assèchement du marché financier " est d'autant moins pertinente que le Gouvernement a affecté les produits de la privatisation au désendettement de l'Etat, par l'intermédiaire de la Caisse d'amortissement de la dette publique, et au désendettement des entreprises publiques. L'effort ainsi réalisé en faveur du désendettement de l'Etat a lui-même deux effets bénéfiques : permettre au Trésor de faire moins appel que par le passé au marché financier, permettre une réorientation de l'épargne rendue disponible au profit des entreprises. Quant à la suite du programme de privatisation, le Gouvernement a toujours indiqué, d'une part, que ces opérations correspondaient à une nécessité fondamentale pour l'économie française, d'autre part, que leur mise en oeuvre se ferait avec pragmatisme et en fonction des capacités effectives du marché financier.
