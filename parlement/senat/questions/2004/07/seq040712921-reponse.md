@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712921
+
+- Question : [SEQ040712921](seq040712921.md) — Utilisation de cocardes tricolores sur les véhicules
+
+## Réponse
+
+*Intérieur, JO du 2004-09-02, page 2005*
+
+Comme le souligne l'honorable parlementaire, l'article 50 du décret n° 89-655 du 13 septembre 1989 modifié, relatif aux cérémonies publiques, préséances, honneurs civils et militaires, précise que l'utilisation de cocardes et insignes particuliers aux couleurs nationales sur les véhicules automobiles est interdite, sauf en ce qui concerne le Président de la République, les membres du Gouvernement, les membres du Parlement, le président du Conseil constitutionnel, le vice-président du Conseil d'État, le président du conseil économique et social, les préfets dans leur département ou dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les sous-préfets dans leur arrondissement, les représentants de l'État dans les territoires d'outre-mer. Il s'agit d'une liste limitative et l'usage des cocardes par d'autres autorités n'a donc aucun fondement réglementaire. Compte tenu de la très large concertation qui a présidé à l'élaboration de ce décret, il n'est pas envisagé actuellement de modifier les dispositions de l'article 50 en étendant le bénéfice de ce signe distinctif à d'autres autorités publiques. Les dérogations à ces dispositions étant tout à fait exceptionnelles, les élus locaux ne peuvent, en aucun cas, apposer des cocardes ou insignes aux couleurs nationales sur leurs véhicules. Il y a lieu de souligner le risque majeur de banalisation de la cocarde dans l'hypothèse de son apposition sur les véhicules de tous les élus locaux que compte notre pays. En revanche, rien ne s'oppose à ce que les élus locaux désirant que leur véhicule soit doté d'un signe distinctif, adoptent le timbre, sceau ou blason de leur collectivité, complété par la mention de leur mandat, dans les conditions fixées par l'assemblée délibérante.
