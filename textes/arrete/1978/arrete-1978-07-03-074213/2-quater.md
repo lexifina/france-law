@@ -1,6 +1,6 @@
 # Article 2 quater
 
-A compter du 1er juillet 1999 pour l'application de l'article R. 351-17-5 :
+A compter du 1er juillet 2000 pour l'application de l'article R. 351-17-5 :
 
 Le taux de participation personnelle (TP) du ménage exprimé en francs pour 10 000 F de ressources est calculé selon la formule suivante :
 
@@ -64,19 +64,19 @@ TR représente un premier taux complémentaire obtenu par l'application de taux 
 
 0 F pour la tranche de ressources entre 0 et le revenu minimal ;
 
-6,37 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 759 F ;
+6,34 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 853 F ;
 
-32,23 F pour 10 000 F dans la tranche de ressources de 18 760 F à 28 604 F ;
+32,07 F pour 10 000 F dans la tranche de ressources de 18 854 F à 28 747 F ;
 
-13,90 F pour 10 000 F dans la tranche de ressources de 28 605 F à 42 077 F ;
+13,83 F pour 10 000 F dans la tranche de ressources de 28 748 F à 42 287 F ;
 
-17,94 F pour 10 000 F dans la tranche de ressources de 42 078 F à 58 245 F ;
+17,85 F pour 10 000 F dans la tranche de ressources de 42 288 F à 58 536 F ;
 
-15,82 F pour 10 000 F dans la tranche de ressources de 58 246 F à 71 615 F ;
+15,74 F pour 10 000 F dans la tranche de ressources de 58 537 F à 71 973 F ;
 
-5,80 F pour 10 000 F dans la tranche de ressources de 71 616 F à 111 931 F ;
+5,77 F pour 10 000 F dans la tranche de ressources de 71 974 F à 112 491 F ;
 
-2,60 F pour 10 000 F dans la tranche de ressources au-dessus de 111 931 F ;
+2,59 F pour 10 000 F dans la tranche de ressources au-dessus de 112 491 F ;.
 
 TR, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche ;
 
@@ -102,23 +102,23 @@ PAR PERSONNE à charge supplémentaire
 
 |
 
-1 371 F
+1 385 F
 
 |
 
-1 679 F
+1 696 F
 
 |
 
-1 889 F
+1 908 F
 
 |
 
-2 164 F
+2 186 F
 
 |
 
-275 F
+278 F
 
 |
 

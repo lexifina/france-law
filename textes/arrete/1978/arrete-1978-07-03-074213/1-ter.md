@@ -1,9 +1,9 @@
 # Article 1 ter
 
-Le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 39 500 F ;
+1° Le montant prévu au 1 du I de l'article R. 351-7-1 est fixé à 40 000 F.
 
-- le coefficient prévu au 2° du I de l'article R. 351-7-1 est fixé à :
+2° Le coefficient prévu au 2 du I du même article est fixé à 13.
 
-17 lorsque la signature du contrat de prêt mentionnés pour le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 est intervenue avant le 1er juillet 1988 ;
+NOTA :
 
-22 lorsque la signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 est intervenue après le 30 juin 1988.
+NOTA : Arrêté 2000-07-07 art. 12 : Les dispositions du présent arrêté sont applicables à compter du 1er juillet 2000, à l'exception de celles du 2° de l'article 1er de l'arrêté du 3 juillet 1978, modifié par l'article 1er ter, applicables à compter du 1er octobre 2000.
