@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700437
+
+- Question : [SEQ970700437](seq970700437.md) — Difficultés rencontrées par les communes pour la fixation d'un certain nombre de tarifs municipaux
+
+## Réponse
+
+*Fonction publique, JO du 1997-08-28, page 2222*
+
+Réponse. - Il s'avère que le Conseil d'Etat, selon une jurisprudence constante, considère que la discrimination tarifaire entre usagers d'un même service public implique, à moins qu'elle ne soit la conséquence d'une loi, qu'il existe entre les usagers des différences de situation appréciables ou que cette mesure soit justifiée par une nécessité d'intérêt général en rapport avec l'objet ou les conditions d'exploitation du service. S'agissant des écoles de musique, la haute assemblée fait valoir que les différences de revenus entre les familles des élèves ne sont pas constitutives, en ce qui concerne l'accès au service public, de différences de situation justifiant des exceptions au principe d'égalité qui régit cet accès et qu'il existe, eu égard à l'objet du service et à son mode de financement, aucune nécessité d'intérêt général justifiant, pour la fixation des droits d'inscription, une discrimination fondée sur les seules différences de ressources entre les usagers. Cependant, il convient à mon sens de prendre en considération, au regard du " critère d'intérêt général en rapport avec les conditions d'exploitation au service ", tel qu'il résulte de la jurisprudence, le montant significatif des participations financières demandées aux familles pour l'accès aux écoles de musique, de danse et d'art dramatique et les risques d'exclusion qu'il peut engendrer pour les enfants des familles les plus modestes. Dès lors, la prise d'une disposition législative permettant aux collectivités locales d'établir des tarifications basées sur les revenus des familles des élèves fréquentant ces écoles me paraît souhaitable. Le ministère de la culture et de la communication vient d'être saisi à cet effet.
