@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103512
+
+- Question : [SEQ861103512](seq861103512.md) — Disparition des tarifs réduits SNCF
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-03-12, page 377*
+
+Réponse. -Les aides accordées par le secrétariat d'Etat à la jeunesse et aux sports aux clubs sportifs pour favoriser leurs déplacements sont de plusieurs ordres : d'une part, l'aide concernant les tarifs réduits sur les lignes S.N.C.F. sera financée sur le budget du secrétariat d'Etat à la jeunesse et aux sports, à hauteur de 10 millions de francs, somme légèrement supérieure à celle de 1986. Sur proposition du Gouvernement, ce crédit a été voté par les groupes composant la majorité parlementaire de l'Assemblée nationale et du Sénat ; d'autre part, les aides complémentaires en faveur des clubs qui ne peuvent utiliser les chemins de fer pour leurs déplacements en raison de la spécificité du matériel sportif transporté seront financées sur les crédits du Fonds national pour le développement du sport. Cette aide, dont le montant avait été fixé en 1986 à 14 millions de francs, sera portée en 1987 à 30 millions de francs. Au total, 40 millions de francs sont affectés aux déplacements des clubs, ce qui représente une augmentation de 187 p. 100 par rapport à l'année dernière. Enfin, une nouvelle convention cadre établie avec la S.N.C.F. est actuellement en préparation. Elle déterminera les pourcentages de réduction accordés aux groupements sportifs. Ces pourcentages varient comme précédemment, en fonction de l'importance des groupes, entre 20 et 50 p. 100. En raison du coût financier de l'opération, il n'est pas envisagé de les modifier. Toutes ces informations démontrent l'importance des mesures prises en faveur des clubs et témoignent de l'attention privilégiée portée par le Gouvernement à l'ensemble du mouvement sportif.
