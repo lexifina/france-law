@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238796
+
+- Question : [SEQ020238796](seq020238796.md) — Prolifération des missiles balistiques
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-04-18, page 1100*
+
+Le développement de la prolifération des missiles balistiques représente un risque pour la stabilité et la sécurité internationales, notamment dans les régions les moins stables. La France attache donc une importance particulière au renforcement des instruments de lutte contre la prolifération balistique. Lors du Conseil européen de Goeteborg, les quinze Etats membres de l'Union européenne ont adopté, sur proposition de la France, une déclaration appelant à l'universalisation du code de conduite international contre la prolifération des missiles balistiques. Une position commune sur la lutte contre la prolifération balistique a été adoptée à la suite de cette déclaration, le 23 juillet 2001. Conformément à son engagement dans ce domaine, la France a proposé d'accueillir la première réunion à vocation universelle sur le code de conduite, les 7 et 8 février 2002. Cette réunion a permis de réunir les délégations de 86 Etats. Elle a été qualifiée de succès par les participants. Les Etats balistiques non membres du régime de contrôle de la technologie des missiles (MTCR) ont tous accepté de participer à cet exercice, à l'exception de la Corée du Nord. La Chine, l'Inde, le Pakistan, l'Iran, Israël étaient pour leur part présents. A cette occasion, la présidence espagnole de l'Union européenne a fait part de sa disponibilité à accueillir une deuxième séance de consultations sur le code de conduite, au printemps 2002. Le code devrait être définitivement adopté lors d'une réunion internationale, qui devrait se tenir à La Haye à la fin de l'année 2002. Par ailleurs, la France est membre du MTCR et assure le secrétariat de ce régime. Elle met donc en oeuvre une politique rigoureuse de contrôle aux exportations des missiles et des technologies de missiles.
