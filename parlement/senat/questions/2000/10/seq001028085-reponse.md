@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028085
+
+- Question : [SEQ001028085](seq001028085.md) — Avenir des emplois-jeunes du mouvement associatif
+
+## Réponse
+
+*Emploi, JO du 2002-04-04, page 974*
+
+L'honorable parlementaire s'interroge sur le point de savoir quelles sont les différentes mesures que le ministère de l'emploi et de la solidarité entend mettre en application dans le cadre de la consolidation du programme " nouveaux services emplois-jeunes ". Plus précisément, il exprime le souhait que des mesures d'accompagnement du dispositif s'organisent afin que les associations puissent maintenir les nouvelles activités. Ces mesures de consolidation prises par le Gouvernement ont été annoncées le 6 juin 2001. Elles mettent l'accent notamment sur la consolidation des activités créées. Il convient vis-à-vis des activités créées de leur donner l'appui et le temps nécessaires à ce que les nouveaux services trouvent leur équilibre. L'Etat a permis la création d'activités et de services que le marché ne crée pas spontanément en leur apportant une aide financière et technique constante, sur une durée de cinq ans. Bon nombre de ces services n'ont plus ou n'auront plus au terme de cette durée besoin de l'aide de l'Etat. En revanche, certaines activités associatives, de qualité, à l'apport social reconnu, qui se sont souvent développées sous des formes originales, peuvent avoir besoin d'une aide complémentaire. Des aides spécifiques sont prévues pour celles-ci au moyen de conventions (report sur une période complémentaire de trois ans d'une partie de l'aide initiale assorti d'une prime de consolidation de 15 245 euros) ou de conventions pluriannuelles (d'une durée de trois ans, d'un montant modulable par poste de 10 671,44 euros par an en moyenne) qui permettront d'accompagner ces associations dans leur démarche de consolidation et d'équilibre. Les crédits d'aide au conseil seront également fortement renforcés.
