@@ -1,0 +1,17 @@
+# Délibération portant avis sur le projet d'arrêté du ministre de l'Economie, des Finances et de la Privatisation autorisant la création d'un traitement informatisé de calcul de la taxe professionnelle et des taxes annexes ou assimilées
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-76
+- Date : 1987-07-07
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654049
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978, pris pour l'application des chapitres 1er à IV et VII de la loi n° 78-17 du 6 janvier 1978 ; Vu le Code général des Impôts ; Vu le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation autorisant la création d'un traitement de calcul de la taxe professionnelle et des taxes annexes ou assimilées ; Après avoir entendu Monsieur Jean-Emile VIE en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation tend à autoriser la création d'un traitement automatisé dont la finalité principale est la gestion de la taxe professionnelle et des taxes annexes ou assimilées qui lui sont additionnelles, par les centres départementaux d'assiette ; Considérant que l'application est sans incidences sur les procédures de détermination de l'impôt, fixées par le Code général des Impôts, mais vise à faciliter les tâches de calcul et de gestion imparties aux services fiscaux ; Considérant que seront seules traitées sur mini-ordinateur, des informations concernant les contribuables relevant exclusivement de la compétence territoriale de ces centres ; Considérant que ces informations concernent : - l'identité des redevables : noms, prénoms, raison sociale, forme juridique, adresse, n° SIRET, code APE, n° FRP - leur situation économique et financière : activité, évolution des établissements, caractéristiques des immobilisations corporelles utilisées par le contribuable à usage professionnel, nombre de salariés, chiffre d'affaires - le cas échéant bénéfices non commerciaux - régime d'imposition des revenus, bases et taux de cotisations de taxes professionnelles, annexes ou assimilées, de même que les coordonnées des services de la comptabilité publique et de la Direction Générale des Impôts compétents ; Considérant que la durée de conservation des données collectées sur support magnétique est limitée à un an ;
+
+Considérant que seuls sont destinataires des informations les agents des services fiscaux et ceux des services de la comptabilité publique, qui reçoivent copie sur support magnétique de la liste des assujettis et des rôles d'imposition ; que ces agents sont tenus au secret professionnel, en application des dispositions de l'article L. 103 du Livre des Procédures Fiscales ; Considérant que les collectivités bénéficiaires des taxes et qui en fixent les taux, reçoivent également copie des matrices d'imposition éditées sur support papier ; Considérant que le droit d'accès prévu à l'article 34 de la loi du 6 janvier 1978 s'exerce auprès des directions des services fiscaux territorialement compétents ;
+
+Emet un avis favorable au projet d'arrêté susvisé. Le Président : Jacques FAUVET
