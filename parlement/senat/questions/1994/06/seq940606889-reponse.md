@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606889
+
+- Question : [SEQ940606889](seq940606889.md) — Etude intermodale relative au Corridor Nord
+
+## Réponse
+
+*Équipement, JO du 1994-09-01, page 2155*
+
+Réponse. - L'étude intermodale Corridor Nord a pour objectif d'établir un diagnostic de la situation du système de transport dans le nord de la France aux horizons 2000 et 2010 et d'aboutir à des propositions multimodales en termes de nouvelles infrastructures de transport ou de mesures d'exploitation sur les infrastructures existantes. A ce titre, des projets tels que le TGV Picard ou l'autoroute A 1 bis, mais aussi des mesures de modulations temporelles et spatiales des péages ou un développement de la technique de transport combiné rail-route entrent dans le champ de cette étude. Le caractère novateur de la méthode d'analyse intermodale, l'étendue géographique de la zone d'étude et l'importance des projets qui y sont pris en compte n'ont pas permis aux maîtres d'oeuvre, la direction des routes et la direction des transports terrestres, de respecter des délais qui avaient initialement été fixés. Une première phase de réflexion a consisté en une analyse rétrospective sur vingt ans de l'évolution des trafics des différents modes de transport dans la zone. Cette analyse a de plus été complétée par un premier recueil des prévisions de trafic faites de manière hétérogènes par les opérateurs de transports. Une deuxième phase, dont certains aspects sont proches du domaine de la recherche, est en cours d'achèvement. Outre l'établissement de nouvelles projections de trafic multimodales sur une base d'hypothèses socio-économiques communes, cette phase comprendra notamment une évaluation environnementale de la zone d'étude, un volet concernant l'aménagement du territoire mesuré au travers de l'accessibilité des espaces et une estimation de la qualité du service de transport offert.
