@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716763
+
+- Question : [SEQ960716763](seq960716763.md) — Elaboration de la carte scolaire avec les élus locaux
+
+## Réponse
+
+*Éducation, JO du 1996-08-22, page 2152*
+
+Réponse. - Les mesures d'aménagement du réseau scolaire relèvent de la compétence des autorités départemementales de l'éducation nationale, qui apprécient les modifications à apporter à la " carte scolaire " en fonction non seulement des priorités recensées dans le département mais aussi des priorités nationales, parmi lesquelles demeure le développement de la scolarisation des jeunes enfants de deux ans dans les zones d'éducation prioritaire. Toutefois, lors de l'examen du projet de loi de programmation du " nouveau contrat pour l'école " au Sénat les 4 et 5 juillet 1995, l'engagement a été pris de créer, à titre expérimental dans plusieurs départements, un observatoire des flux d'élèves du premier degré. L'observatoire départemental des flux d'élèves du premier degré, présidé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, est composé notamment d'élus locaux et de représentants des services départementaux de l'éducation nationale. Il a pour mission d'étudier les flux d'élèves et de prévoir, à moyen terme, les évolutions par secteurs. Les élus du département apportent, dans cette instance, leur concours à ces travaux. Au stade actuel de l'expérimentation, il apparaît que les perspectives ouvertes par l'observatoire départemental des flux d'élèves du premier degré sont étendues. En effet, indépendamment de la contribution que les travaux de l'observatoire des flux apportent à la politique scolaire départementale du premier degré, cet observatoire va dans le sens d'un partenariat affirmé et fructueux entre les responsables que sont les inspecteurs d'académie, direecteurs des services départementaux de l'éducation nationale, d'une part, et les élus locaux, d'autre part.
