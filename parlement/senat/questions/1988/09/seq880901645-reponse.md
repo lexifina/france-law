@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901645
+
+- Question : [SEQ880901645](seq880901645.md) — Vacance d'un poste de greffier à Ussel (Corrèze)
+
+## Réponse
+
+*Justice, JO du 1988-12-01, page 1365*
+
+Réponse. - L'effectif budgétaire de cette juridiction se compose d'un greffier en chef et de trois fonctionnaires de catégorie C. Le poste de greffier en chef a été proposé à des greffiers remplissant les conditions d'ancienneté requises pour accéder au choix au grade de greffier en chef. Pour la réalisation de cette promotion, les dispositions statutaires imposent, d'une part, l'inscription des candidats sur un tableau d'avancement établi une fois par an au vu des propositions faites par les chefs de cour et, d'autre part, l'avis de la commission administrative paritaire dans laquelle sont représentés les greffiers en chef. A la suite du départ en retraite survenu en juillet 1987 du greffier en chef alors affecté au tribunal d'instance d'Ussel, faute de candidat en mutation, ce poste a été pourvu par la nomination d'un greffier en chef recruté au choix après avis de la première commission administrative utile qui s'est réunie le 31 mai 1988. Ce fonctionnaire a été installé dès le 1er septembre 1988. Il exercera effectivement ses fonctions au tribunal d'instance d'Ussel à l'issue d'une formation actuellement dispensée par l'Ecole nationale des greffes et qui se terminera le 27 janvier 1989. Ces délais ne sont pas de nature à obérer le fonctionnement du tribunal, compte tenu de son volume d'activité. Selon les statistiques locales fournies pour l'année 1987, le tribunal d'instance d'Ussel a jugé 181 dossiers civils, 251 affaires nouvelles étaient inscrites au répertoire général 479 ordonnances d'injonction de payer ont été délivrées, 168 saisies-arrêts sur salaires autorisées, 202 dossiers de tutelle d'incapables majeurs étaient ouverts. Le tribunal de police a examiné 389 affaires.
