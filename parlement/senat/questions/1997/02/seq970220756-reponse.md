@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220756
+
+- Question : [SEQ970220756](seq970220756.md) — Mode de calcul du supplément familial de traitement des fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 1997-05-02, page 1378*
+
+Réponse. - Comme son nom l'indique, le supplément familial de traitement est calculé par référence à la situation familiale mais aussi au traitement statutaire du fonctionnaire. Cette double référence entraîne l'effet de hiérarchisation constaté par l'honorable parlementaire. Il convient de noter toutefois que l'existence, pour le calcul du supplément familial de traitement, d'un indice plancher (IM 446) et d'un indice plafond (IM 716) réduit l'impact des différences de traitement. Ainsi le rapport entre le SFT minimal et le SFT maximal n'est-il que de 1,51 pour 2 enfants, 1,55 pour 3 enfants et au plus 1,58 au-delà, tandis que le rapport entre le minimum de traitement (IM 233) et le traitement afférent au sommet de l'échelle-chiffre (IM 818) est de 3,5. A cet égard, le décret no 85-1148 du 24 octobre 1985 modifié, relatif à la rémunération des personnels civils et militaires de l'Etat et des personnels des collectivités territoriales, prévoit qu'il est servi en sus des prestations familiales obligatoires. De ce fait, cet élément de la rémunération prévu par l'article 20 de la loi no 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, ne peut être assimilé totalement à une prestation familiale, celles-ci étant versées soit forfaitairement, soit sous conditions de ressources. Dès lors toute hypothèse de réforme du supplément familial de traitement doit être envisagée dans le cadre plus large de l'évolution des conditions de rémunération des fonctionnaires et de la politique familiale dans son ensemble. L'objectif de maîtrise des finances publiques et de réduction du déficit budgétaire ne permet pas d'envisager actuellement une réforme de ce régime.
