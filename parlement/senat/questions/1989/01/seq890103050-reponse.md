@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103050
+
+- Question : [SEQ890103050](seq890103050.md) — Revalorisation tarifaire des prestations des établissements thermaux
+
+## Réponse
+
+*Économie, JO du 1989-05-11, page 745*
+
+Réponse. - La loi portant diverses mesures d'ordre social du 30 juillet 1987 prévoit en son article 28 qu'est inséré dans le code de la sécurité sociale un article L. 162-38 qui définit les modalités de fixation des prix des prestations de services prises en charge par les régimes obligatoires de sécurité sociale et donc, notamment, des prestations des établissements thermaux. Ce texte précise que la fixation des prix, qui relève de la compétence des ministres chargés de l'économie, de la santé et de la sécurité sociale, " tient compte de l'évolution des charges, des revenus et du volume d'activité des praticiens ou entreprises concernés ". Ces différentes données doivent permettre aux ministres intéressés d'apprécier la situation particulière du secteur dont ils fixent les prix. En ce qui concerne les établissements thermaux, la procédure de fixation des tarifs, suivie chaque année, associe les organisations professionnelles et les administrations intéressées. Au cours des réunions organisées dans ce cadre, sont examinées et discutées les données prévues par la loi pour l'établissement du dossier tarifaire. L'évolution des charges retenue au cours des discussions a été la suivante : salaires 3,5 p. 100, énergie 2,1 p. 100, autres charges 2,4 p. 100. Le déplafonnement des cotisations d'allocations familiales se traduirait dans ce secteur par une économie correspondant à 0,4 p. 100 des charges globales. Enfin, le volume d'activité se serait réduit en 1988 - la fréquentation des stations thermales aurait baissé de 3 à 4 p. 100 - ce qui n'est pas de nature à favoriser des gains de productivité sensibles et a conduit à retenir une augmentation des tarifs, du même ordre de grandeur que l'augmentation des charges.
