@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414988
+
+- Question : [SEQ960414988](seq960414988.md) — Elèves en difficulté ou handicapés : observatoire national de la prévention
+
+## Réponse
+
+*Éducation, JO du 1996-05-30, page 1326*
+
+Réponse. - La prévention de la difficulté scolaire est une mission fondamentale de l'école et, à ce titre, figure parmi les 158 décisions du nouveau contrat pour l'école. Cette action suppose une collaboration étroite des intervenants chargés de prévenir la difficulté scolaire : enseignants, médecins et infirmières de l'éducation nationale, psychologues scolaires, rééducateurs, assistants sociaux... Durant l'année 1994-1995, a été mis en place un groupe de réflexion dont le pilotage a été confié au directeur des centres nationaux de l'adaptation et de l'intégration scolaires et au conseiller technique de la direction des écoles. Ce groupe de travail a recensé des sites expérimentaux où des pratiques innovantes de collaboration entre différents services de prévention avaient été repérées. Le travail de cette " unité de suivi " a abouti à une journée nationale de réflexion le 22 mars 1995 à Suresnes, journée qui été l'occasion de présenter des actions de mise en relation de différents acteurs de la prévention dans quelques départements. Cette manifestation a donné lieu à la publication d'actes largement diffusés. Dans la perspective d'un élargissement de la mesure, au premier trimestre 1995-1996, le directeur des écoles a sollicité l'ensemble des inspecteurs d'académie, directeurs de services départementaux de l'éducation nationale, afin que ceux-ci réfléchissent aux conditions de mise en oeuvre d'une collaboration plus étroite et plus efficace entre l'école et l'ensemble de ses partenaires chargés de prévenir la difficulté scolaire. Un bilan d'étape sera fourni en fin d'année scolaire 1995-1996.
