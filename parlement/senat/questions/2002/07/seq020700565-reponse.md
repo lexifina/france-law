@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700565
+
+- Question : [SEQ020700565](seq020700565.md) — Sépulture de soldats de la " Grande Armée "
+
+## Réponse
+
+*Anciens combattants, JO du 2002-08-22, page 1864*
+
+A la suite de la découverte des restes mortels de soldats de la Grande Armée à proximité de la ville de Vilnius (Lituanie), une mission du ministère de la défense s'est rendue sur les lieux du 10 au 14 avril 2002, afin de procéder à une expertise. Ces investigations ont permis de relever sur ce site 730 soldats de l'armée napoléonienne, mais la probabilité d'autres découvertes aux alentours n'est pas à exclure. Le secrétaire d'Etat aux anciens combattants tient à préciser à l'honorable parlementaire qu'il n'est pas envisagé de rapatrier les corps de ces combattants, l'usage, en ce domaine, étant de donner aux soldats morts au cours de conflits sur un territoire étranger une sépulture sur le lieu même de leur décès. Ce n'est, en effet, qu'à partir de la Première Guerre mondiale que certains des soldats morts pour la France en territoire étranger, et qui ont pu être identifiés, ont été rapatriés à la demande de leurs proches, pour être inhumés dans des sépultures familiales. Des cimetières français ont ainsi été créés dans les pays où ces combats se sont déroulés, tels en Belgique, en Italie et sur les sites de l'ancien front d'Orient, afin d'honorer la mémoire de tous les soldats qui sont demeurés sur place. Dans le respect de ce principe, il est prévu, en accord avec les autorités municipales locales, d'inhumer les restes des soldats découverts à Vilnius dans un cimetière de cette ville, en créant en son sein une sépulture commune qui sera surmontée d'une stèle commémorative. La conception de cet ossuaire permettra de recueillir les corps d'autres soldats de l'armée napoléonienne qui pourraient être découverts ultérieurement en Lituanie.
