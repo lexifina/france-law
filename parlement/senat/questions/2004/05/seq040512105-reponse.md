@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512105
+
+- Question : [SEQ040512105](seq040512105.md) — Difficultés persistantes de la production porcine
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1926*
+
+La filière porcine est confrontée, depuis dix-huit mois, à une crise importante. Pour faire face à cette situation, le Fonds d'allégement des charges (FAC) a été mobilisé à hauteur de 5 millions d'euros. De plus, une enveloppe complémentaire de 2 millions a été décidée en décembre 2003. Une enveloppe plus spécifique de 5 millions d'euros sur le même fonds a également été ouverte pour les élevages hors-sol (dont les élevages porcins) ayant subi des pertes consécutives à la canicule. Ces mesures ont permis une réduction effective de l'endettement des éleveurs. En revanche, la mise en place d'une mesure de report en fin de tableau d'amortissement de l'annuité des emprunts en cours ne permetes d'apporter une solution pérenne aux éleveurs. En effet, une " année blanche " conduirait à reporter en fin de période de remboursement la cause des difficultés actuelles des éleveurs. Pour cette raison, une telle mesure n'est pas envisagée par le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales. De plus, cette mesure ne serait pas compatible avec les règles communautaires encadrant les aides d'Etat et le droit de la concurrence. Sur le plus long terme, un plan d'accompagnement de la restructuration de la filière a été élaboré en concertation avec les responsables professionnels concernés. Doté d'une première enveloppe de 15 millions d'euros, ce plan vise à restaurer la compétitivité de la filière française et à préserver ainsi son potentiel de production et les milliers d'emplois qu'elle représente. Les différentes actions de ce plan sont en cours de mise en oeuvre.
