@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323778
+
+- Question : [SEQ000323778](seq000323778.md) — Assouplissement de la réglementation relative à la distance d'implantation entre les bâtiments agricoles et les maisons d'habitation
+
+## Réponse
+
+*Agriculture, JO du 2000-10-12, page 3472*
+
+Réponse. - Les dispositions de l'article 105 de la loi nº 99-574 d'orientation agricole du 9 juillet 1999 instauraient le principe de réciprocité des distances d'implantation ou d'extension de bâtiments agricoles ; toutefois, elles pouvaient générer des contraintes supplémentaires pour les agriculteurs et créer des problèmes d'aménagement de l'espace, particulièrement en zone de montagne. Elles ont été supprimées par un amendement déposé par le rapporteur du projet de loi " solidarité et renouvellement urbains ", lors du vote en première lecture à l'Assemblée nationale. Devant le Sénat, la question de la réciprocité a fait l'objet d'un nouveau débat, au regard d'une proposition d'amendement permettant le maintien du principe de réciprocité assorti de dérogations, tenant compte des spécificités locales, notamment pour les agriculteurs. Il avait été demandé aux services du ministère de l'agriculture et de la pêche d'être particulièrement attentifs à la recherche d'une solution acceptable. Cette proposition d'amendement répond à cet objectif, en s'inscrivant dans le prolongement de la réflexion qu'ils ont conduite avec les représentants professionnels agricoles. L'amendement susvisé a été adopté par le Sénat en première lecture, avec l'accord du Gouvernement. Ensuite, en seconde lecture, l'Assemblée nationale a confirmé ce dispositif, en l'amendant simplement afin d'assurer une entrée en vigueur plus rapide à partir de la promulgation de la loi prévue pour la fin de l'année. La perspective d'application des nouvelles dispositions doit permettre localement d'appliquer l'actuel L. 111-3 du code de l'urbanisme avec discernement dans l'esprit du texte qui a été adopté.
