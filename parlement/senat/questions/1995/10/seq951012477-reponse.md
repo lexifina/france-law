@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012477
+
+- Question : [SEQ951012477](seq951012477.md) — Prime à l'amélioration de l'habitat (PAH)
+
+## Réponse
+
+*Logement, JO du 1995-11-16, page 2174*
+
+Réponse. - La volonté du Gouvernement de soutenir l'amélioration de l'habitat privé se traduit par un effort budgétaire très important aussi bien en faveur de la prime à l'amélioration de l'habitat (PAH) que des subventions de l'Agence nationale pour l'amélioration de l'habitat (ANAH). Globalement, la dotation budgétaire de ces deux types d'aides a été fortement augmentée à partir de 1993, engendrant un volume de travaux de plus de 13 milliards de francs. Ainsi, la réhabilitation du parc locatif privé connaît depuis quelques années une très forte croissance. Pour 1995, la loi de finances initiale reconduisait les dotations de 1994, mais 725 millions de francs ont dû être réorientés vers l'accession sociale à la propriété, dont le financement était insuffisant (PAP). Des crédits supplémentaires ont été ouverts par le collectif budgétaire de juillet dernier. Le conseil d'administration de l'ANAH du 11 juillet 1995 a pu décider la majoration de certaines de ses subventions afin de réduire le nombre de logements vacants et d'accélérer la remise sur le marché locatif de logements privés destinés à accueillir des personnes défavorisées. Cet effort en faveur de l'amélioration de l'habitat et de la réduction de la vacance sera maintenu malgré les contraintes budgétaires ; la ligne PAH dans le projet de loi de finances pour 1996 est dotée de 600 millions de francs correspondant à la dotation votée par la loi de finances pour 1995. Ces mesures concernent : les logements vacants remis sur le marché et conventionnés, les logements vacants loués à des organismes agréés aux fins de sous-location à des personnes défavorisées dans le cadre des interventions spéciales à caractère social, les logements loués dans le cadre des programmes sociaux thématiques.
