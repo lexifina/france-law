@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128951
+
+- Question : [SEQ001128951](seq001128951.md) — Coût d'un passeport en France et au sein de l'Union européenne
+
+## Réponse
+
+*Économie, JO du 2001-04-12, page 1268*
+
+Réponse. - L'article 24 de la loi de finances rectificative pour 2000 (nº 2000-1353 du 30 décembre 2000) modifie le I de l'article 953 du code général des impôts en prolongeant la durée de validité des passeports ordinaires de cinq à dix ans. Cette modification ne s'accompagne pas d'un relèvement de la taxe de 400 francs actuellement perçue. Toutefois, par dérogation au principe ci-dessus exposé, la durée de validité des passeports délivrés à un mineur ou portant inscription d'un mineur de moins de quinze ans est de cinq ans. Le tarif applicable est fixé à 200 francs pour les passeports délivrés à un mineur. Par ailleurs, le renouvellement d'un passeport jusqu'à concurrence de sa durée de validité, lié notamment à l'inscription ou à la radiation d'enfants, est effectué gratuitement. Enfin, la durée de validité des passeports délivrés à titre exceptionnel et pour un motif d'urgence dûment justifié ou délivrés par une autorité qui n'est pas celle du lieu de résidence ou de domicile du demandeur est de six mois. Le tarif applicable est fixé à 200 francs. Cette réforme, en allégeant sensiblement le coût annuel des passeports, répond aux préoccupations exprimées. S'agissant des droits de chancellerie, vu l'article 3 de la loi 55-136 du 2 février 1955 qui donne compétence au pouvoir réglementaire pour les matières faisant l'objet du décret-loi du 28 août 1937 relatif aux droits de chancellerie, le tarif des droits à percevoir dans les chancelleries diplomatiques et consulaires et en territoire français est fixé par le décret nº 81-778 du 13 août 1981. A ce jour, aucune modification n'est prévue.
