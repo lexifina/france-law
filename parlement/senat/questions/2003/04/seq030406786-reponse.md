@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406786
+
+- Question : [SEQ030406786](seq030406786.md) — Suspension par l'Etat des aides départementales à l'installation des jeunes agriculteurs du conseil général des Bouches-du-Rhône
+
+## Réponse
+
+*Agriculture, JO du 2003-07-24, page 2383*
+
+Dans le cadre de la loi de finances 2003, le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales a mis en place le Fonds d'incitation et de communication pour l'installation en agriculture (FICIA) destiné à financer les programmes pour l'installation et le développement des initiatives locales (PIDIL). Ces programmes ont pour objectif d'accompagner financièrement et en partenariat avec les collectivités territoriales l'installation des jeunes hors cadre familial et des jeunes réalisant un projet sur des exploitations familiales ayant besoin d'être confortées au plan économique. Ces aides doivent cependant rester cohérentes avec les objectifs du Plan de développement rural national (PDRN), en particulier pour ce qui concerne le niveau de capacité professionnelle requis pour bénéficier des aides à l'installation. Seuls les candidats à l'installation justifiant de la capacité professionnelle agricole pourront donc en bénéficier. Ce programme d'aides est en cours d'examen auprès de la commission européenne. Dès sa validation par les autorités communautaires, les dispositions réglementaires précisant les modalités de mise en oeuvre de ces programmes seront publiées. L'agrément du PIDIL par les autorités communautaires permettra aux collectivités territoriales qui le souhaitent de compléter les efforts financiers de l'Etat sans avoir à solliciter la validation de leur dispositif d'aides par la Commission. Pour toute autre intervention en faveur des agriculteurs, un agrément préalable doit être obtenu de la part de la Commission européenne.
