@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209083
+
+- Question : [SEQ941209083](seq941209083.md) — Réseau Numéris à la Réunion
+
+## Réponse
+
+*Industrie, JO du 1995-03-16, page 641*
+
+Réponse. - L'honorable parlementaire évoque dans cette question trois aspects ; d'une part, la connexion Numéris de la Réunion vers l'étranger, d'autre part, la compatibilité des différentes versions Numéris, enfin la tarification. Le service Numéris vers l'étranger est accessible au départ des départements d'outre-mer (DOM), dont la Réunion depuis le 9 décembre 1994. Il est vrai que cette ouverture a tardé à venir, mais il faut savoir que les opérateurs étrangers montraient peu d'empressement pour y procéder, estimant la demande trop faible. Néanmoins France Télécom a décidé unilatéralement d'ouvrir le service des DOM vers l'étranger. Deux pays semblent d'accord pour une ouverture bilatérale, la Belgique et l'Allemagne. Par ailleurs, depuis son ouverture, Numéris a connu trois évolutions, dénommées VN2, VN3 et VN4. Chaque évolution implique une compatibilité, non seulement avec les DOM, mais aussi avec les réseaux étrangers de type RNIS. Le ministère de l'industrie, des postes et télécommunications et du commercer extérieur, veille à ce que les conditions d'agrément des terminaux RNIS restent le plus stable possible, dans un contexte d'évolution du réseau RNIS français vers l'Euro RNIS. S'agissant de la tarification Numéris en mode numérique des DOM vers l'étranger, celle-ci obéit aux mêmes règles que celles de la métropole vers l'étranger, c'est-à-dire l'absence de modulation horaire. A cet égard, il est prévu de faire évoluer à la baisse - la tarification des transmissions Numéris en mode numérique, de façon à la rendre identique par paliers successifs à celle des transmissions Numéris en mode vocal, ce qui représente une baisse d'environ 30 p. 100.
