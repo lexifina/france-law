@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802502
+
+- Question : [SEQ930802502](seq930802502.md) — Abandon des emballages en plastique pour l'envoi des journaux, revues et imprimés
+
+## Réponse
+
+*Industrie, JO du 1994-02-03, page 250*
+
+Réponse. - Depuis une huitaine d'années, l'envoi de journaux, revues et imprimés... sous bandes ou enveloppes en papier est remplacé progressivement par un conditionnement en film polyéthylène. Actuellement, le routage sous film polyéthylène représente environ 75 p. 100 du marché. Cette situation peut être expliquée par le moindre coût du film polyéthylène par rapport à la bande papier. En outre, les cadences de routage ont été plus que doublées. Ainsi, la cadence s'élève actuellement à plus de 250 journaux par minute avec un film en polyéthylène, alors qu'avec le matériau papier, la cadence est limitée par le temps de prise de colle. Par ailleurs, les risques de déchirure sont plus limités avec le plastique et la protection à la pluie et à l'humidité pour les abonnés vivant en pavillons par exemple est renforcée. En ce qui concerne l'analyse environnementale du problème, le film en polyéthylène (entre 1,96 gramme et 2,15 grammes) est plus léger qu'une bande papier. La combustion du polyéthylène ne dégage que de l'eau et du gaz carbonique, ce qui en fait un déchet éliminable par incinération avec les déchets ménagers. En conclusion, la situation actuelle du routage pour envoi des journaux, favorable au matériau plastique, reflète les nécessités du marché et d'une plus grande productivité. Sur le plan environnemental, l'incinération des déchets ménagers avec récupération de l'énergie permet de valoriser les déchets en polyéthylène, dont le pouvoir calorifique est significatif tandis que, parallèlement, le papier journal et le routage papier font l'objet d'un recyclage après une collecte sélective.
