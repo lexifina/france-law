@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533093
+
+- Question : [SEQ010533093](seq010533093.md) — Institut de l'Internet
+
+## Réponse
+
+*Éducation, JO du 2001-07-12, page 2325*
+
+Le ministre de l'éducation nationale rappelle que la création prochaine d'une école de l'Internet à Marseille s'inscrit dans le cadre de la décision du comité interministériel d'aménagement du territoire du 18 mai 2000. Conformément à la volonté du Gouvernement, l'école de l'Internet de Marseille a vocation à répondre à la forte demande d'ingénieurs compétents dans les sciences et technologies de l'information et de la communication. A partir d'un programme mastaire, d'une durée de deux ans, consacré aux applications des nouvelles technologies, un réseau d'écoles de l'Internet pourra se constituer. Parallèlement, la labélisation de écoles de l'Internet permettra d'accélérer la modernisation des formations supérieures. A la différence de l'Institut pluridisciplinaire de l'université d'Oxford, la future école de l'Internet de Marseille n'est pas essentiellement consacrée à la recherche mais d'abord vouée à la formation à l'instar des autres écoles d'ingénieurs. Actuellement, la recherche en matière de nouvelles technologies de l'information et de la communication s'appuie sur de nombreux organes de recherche installés dans les grandes villes universitaires. Parmi les laboratoires, outre le centre national de la recherche scientifique (CNRS), interviennent en ces domaines le centre d'innovation en télécommunications et intégration de services (CITI) à Lyon, le laboratoire bordelais de recherche en informatique (LABRI) à Bordeaux, l'institut national de recherche informatique et automatique (INRIA) à Grenoble, le laboratoire d'automatique et d'analyse des systèmes (LAAS) à Toulouse, le laboratoire de recherches informatiques et de ses applications (LORIA) à Nancy...
