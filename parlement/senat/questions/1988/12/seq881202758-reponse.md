@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202758
+
+- Question : [SEQ881202758](seq881202758.md) — Eventuelle réforme de l'orthographe
+
+## Réponse
+
+*Premier ministre, JO du 1989-06-01, page 832*
+
+Réponse. - Le Premier ministre tient à rassurer l'honorable parlementaire quant à l'orthographe de la langue française. Une réflexion est engagée sur ce problème ; elle n'est pas achevée. Tout comme l'honorable parlementaire, le Premier ministre pense que l'on ne saurait " refuser à notre langue toute possibilité d'évolution ", mais que cette évolution devrait se faire sans qu'aucun préjudice ne soit porté à l'étymologie des mots que l'orthographe actuelle, hélas, est bien loin de respecter toujours. Il partage également l'opinion que les avis de l'Académie française doivent être pris en considération et ne manquera pas d'accorder l'attention qu'elles méritent aux dernières propositions de modification de l'orthographe de certains mots faites par l'illustre compagnie, en 1975, comme celle, par exemple, consistant, par respect de l'étymologie, à écrire autant de r dans chariot que dans charrette, autant de p dans chausse-trappe que dans trappe, ou de t dans embatre que dans battre, anomalies qu'elle jugeait particulièrement choquantes. Il serait également utile de réfléchir aux propositions, souvent plus radicales, que la même compagnie faisait en 1905 (bijous, chous, rume, rinocéros). Depuis trois siècles, l'Académie française, comme c'est son rôle, n'a cessé de faire évoluer l'orthographe, avec prudence et sagesse. Tout récemment encore, elle proposait de modifier des éditions postérieures du fascicule 1 de son dictionnaire, publié pourtant l'année précédente (1986). Ces variations mêmes montrent combien les opinions des plus qualifiés peuvent balancer et indiquent clairement que pour l'Académie, l'orthographe est, par excellence, susceptible de révisions.
