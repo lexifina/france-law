@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203635
+
+- Question : [SEQ890203635](seq890203635.md) — Exonération de taxe foncière sur les propriétés bâties
+
+## Réponse
+
+*Économie, JO du 1989-03-23, page 493*
+
+Réponse. - L'article 14-I de la loi de finances pour 1984 a réduit de vingt-cinq à quinze ans la durée de l'exonération prévue à l'article 1383 du code général des impôts en faveur des constructions achevées avant le 1er janvier 1973. Le Parlement a adopté cette disposition pour deux raisons. La première tient à l'égalité de traitement entre contribuables locaux. Depuis 1973, seuls les logements construits à l'aide de prêts aidés par l'Etat, accordés en fonction d'un plafond de ressources, peuvent bénéficier d'une exonération de longue durée de quinze ans. L'exonération de vingt-cinq ans s'appliquait avant 1973 quels que soient les revenus du bénéficiaire. De ce fait, des logements semblables étaient exonérés pour vingt-cinq ans ou quinze ans selon qu'ils avaient été achevés avant ou après 1973. La réduction de vingt-cinq ans à quinze ans a donc permis de rétablir une certaine égalité entre les propriétaires. En tout état de cause, les propriétaires de constructions achevées avant 1973 auront bénéficié, quels qu'ils soient, d'une exonération au moins équivalente à celle qui, depuis 1983, ne profite qu'aux logements financés à l'aide de prêts aidés par l'Etat. La deuxième raison tient au coût exorbitant que représentait le maintien de l'exonération de vingt-cinq ans pour l'Etat qui compense aux communes la perte de recettes résultant des exonérations temporaires de taxe foncière. Il n'est pas envisagé de revenir sur cette disposition. Cela dit, les personnes qui rencontrent de réelles difficultés pour s'acquitter de leur taxe foncière peuvent s'adresser aux services de la comptabilité publique ou à ceux de la direction générale des impôts afin d'obtenir des délais de paiement ou des remises gracieuses.
