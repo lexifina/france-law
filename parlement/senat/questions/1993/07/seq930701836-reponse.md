@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701836
+
+- Question : [SEQ930701836](seq930701836.md) — Suite réservée à l'opération Renouveau Campagnes
+
+## Réponse
+
+*Entreprises, JO du 1993-10-21, page 1954*
+
+Réponse. - A la date du 2 juillet 1993, 600 annonces sont parues sur le serveur mis en place dans le cadre de l'opération " Renouveau Campagnes ". Celui-ci a enregistré environ 4 000 connexions mensuelles. 84 communes ont bénéficié d'une aide du ministère pour la création d'un commerce de type multiple rural. Cependant, la fermeture des derniers commerces est l'un des principaux symptômes de la fragilité économique et démographique en zone rurale. Actuellement, la moitié des communes françaises comptent moins de 350 habitants, et plus de mille d'entre elles en ont moins de 50. Seule une commune sur deux dispose encore d'un petit commerce de proximité. Le ministre des entreprises et du développement économique, chargé des petites et moyennes entreprises et du commerce et de l'artisanat, a donc décidé de donner une nouvelle envergure à cette politique. L'urgence de la situation a ainsi conduit le comité interministériel d'aménagement du territoire à entériner, le 12 juillet dernier, la proposition du ministre de lancement de l'opération " 1 000 Villages de France ". L'objectif de cette opération s'intègre dans la politique d'aménagement du territoire définie par le Gouvernement et vise à revitaliser d'ici à deux ans un millier de villages en y maintenant ou en y recréant des activités commerciales et en y favorisant la mise à disposition de l'ensemble de la population des services minimaux, tant publics que privés nécessaires à la satisfaction de ses besoins les plus élémentaires. L'objectif est de restructurer ainsi 1 000 sites. La circulaire de mise en place de cette opération intitulée " 1 000 Villages de France " sera prochainement adressée aux préfets.
