@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110652
+
+- Question : [SEQ040110652](seq040110652.md) — Statut des professionnels du tourisme
+
+## Réponse
+
+*Affaires sociales, JO du 2004-03-25, page 702*
+
+L'honorable parlementaire a bien voulu attirer l'attention de M. le ministre des affaires sociales, du travail et de la solidarité sur la question du statut des professionnels du tourisme tels les guides interprètes régionaux ou les guides conférenciers. Il s'interroge notamment sur la possibilité d'accorder à ces professionnels un statut plus protecteur en leur garantissant les mêmes avantages financiers que ceux accordés aux autres salariés en contrat à durée déterminée. Il s'interroge également sur l'accès de cette profession au contrat de projet proposé dans le rapport de M. Michel de Virville. Compte tenu des évolutions récentes de la jurisprudence de la Cour de cassation, le rapport suggère d'initier une réflexion sur le régime applicable au contrat à durée déterminée d'usage. Il propose en particulier de garantir aux salariés employés sous ce type de contrat le versement de l'indemnité de précarité prévue pour les autres contrats à durée déterminée. Si le principe d'un tel versement devait être retenu, ce ne serait qu'après consultation des partenaires sociaux et analyse des effets sur l'emploi de cette disposition. En outre, selon les conclusions de ce rapport, la création d'un contrat de projet pourrait être envisagée. Ce contrat de travail ne devrait toutefois se substituer ni au contrat à durée indéterminée qui doit demeurer la forme générale de la relation de travail, ni au contrat à durée déterminée qui demeure limité aux emplois non durables et aux cas de recours énumérés par le code du travail. Il appartient désormais au Gouvernement d'étudier ces propositions en relation avec les partenaires sociaux. Aucune décision ne sera prise avant qu'une étude complète n'ait été menée sur les avantages pour l'emploi de telles propositions.
