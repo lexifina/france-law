@@ -150,13 +150,15 @@ COT
 
 |
 
-Toutefois, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en œuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter, ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente dans les cas où le COT et le SO2 ne proviennent pas de l'incinération de déchets.
 
-- 1 020 mg/m³ lorsque le débit massique en oxydes de soufre est supérieur ou égal à 200 kg/h ;
+Ainsi, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en œuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
 
-- 1 620 mg/m³ lorsque le débit massique en oxydes de soufre est inférieur à 200 kg/h.
+1 020 mg/m³ lorsque le débit massique en oxydes de soufre est supérieur ou égal à 200 kg/h ;
 
-Dans ce cas néanmoins, la teneur en soufre dans les déchets à l'entrée du four devra être limitée à 5 000 mg/kg. Cette limite est portée à 8 000 mg/kg en ce qui concerne les huiles usagées.
+1 620 mg/m³ lorsque le débit massique en oxydes de soufre est inférieur à 200 kg/h.
+
+Dans ce cas néanmoins, la teneur en soufre dans les déchets dangereux à l'entrée du four devra être limitée à 5 000 mg/kg. Cette limite est portée à 8 000 mg/kg en ce qui concerne les huiles usagées.
 
 Pour les substances organiques à l'état de gaz ou de vapeur, exprimées en carbone organique total, une mesure à l'émission est réalisée lorsque l'installation n'incinère pas de déchets, pour déterminer la valeur moyenne sur une période de trente jours des moyennes journalières.
 
@@ -192,7 +194,7 @@ P < 50 MW
 
 |
 
-SO2
+SO2 :
 
 |
 
@@ -228,15 +230,15 @@ Combustibles produits sur le territoire national
 
 |
 
-Ou taux de désulfuration ≥ 90 %
+ou taux de désulfuration ≥ 90 %
 
 |
 
-Ou taux de désulfuration ≥ 92 %
+ou taux de désulfuration ≥ 92 %
 
 |
 
-Ou taux de désulfuration ≥ 95 %
+ou taux de désulfuration ≥ 95 %
 
 |
 
@@ -456,9 +458,7 @@ Chlorure d'hydrogène (HCI)
 
 |
 
-10mg/m3
-
-(moyenne journalière) (*)
+10mg/m3 (moyenne journalière) (*)
 
 |
 
