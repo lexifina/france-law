@@ -1,14 +1,18 @@
 # Article ANNEXE VIII
 
-A. - Taux des vacations des attachés des établissements publics autres que les centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
+Montants au 1er janvier 1990 et au 1er avril 1990. A. - Taux des vacations des attachés des établissements publics autres que les centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
 
-1. Taux 263,77 :
+1. Taux aux :
+
+1er janvier 1990 : 265,58
+
+1er avril 1990 : 268,77
 
 - anciens chefs de clinique de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens assistants d'un hôpital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
+- anciens assistants d'un h^opital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens chefs de clinique ou anciens assistants des universités - assistants des hôpitaux (nouveau régime) ;
+- anciens chefs de clinique ou anciens assistants des universités - assistants des h^opitaux (nouveau régime) ;
 
 - anciens praticiens hospitaliers universitaires ;
 
@@ -18,11 +22,15 @@ A. - Taux des vacations des attachés des établissements publics autres que les
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-2. Taux 224,31 :
+2. Taux aux :
 
-- anciens internes des hôpitaux publics ;
+1er janvier 1990 : 225,92
 
-- titulaires d'un D.E.S. ou d'un diplôme sanctionnant l'internat de recherche ;
+1er avril 1990 : 228,63
+
+- anciens internes des h^opitaux publics ;
+
+- titulaires d'un D.E.S. ou d'un dipl^ome sanctionnant l'internat de recherche ;
 
 - médecins spécialistes qualifiés ;
 
@@ -30,19 +38,27 @@ A. - Taux des vacations des attachés des établissements publics autres que les
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-3. Taux 198,26 :
+3. Taux aux :
+
+1er janvier 1990 : 199,74
+
+1er avril 1990 : 202,14
 
 Toutes autres catégories.
 
 B. - Taux des vacations des attachés des centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
 
-1. Taux 317,42 :
+1. Taux aux :
+
+1er janvier 1990 : 319,50
+
+1er avril 1990 : 323,33
 
 - anciens chefs de clinique de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens assistants d'un hôpital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
+- anciens assistants d'un h^opital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens chefs de clinique ou anciens assistants des universités - assistants des hôpitaux (nouveau régime) ;
+- anciens chefs de clinique ou anciens assistants des universités - assistants des h^opitaux (nouveau régime) ;
 
 - anciens praticiens hospitaliers universitaires ;
 
@@ -52,11 +68,15 @@ B. - Taux des vacations des attachés des centres hospitaliers régionaux faisan
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-2. Taux 264,93 :
+2. Taux aux :
 
-- anciens internes des hôpitaux publics ;
+1er janvier 1990 : 266,75
 
-- titulaires d'un D.E.S. ou d'un diplôme sanctionnant l'internat de recherche ;
+1er avril 1990 : 269,95
+
+- anciens internes des h^opitaux publics ;
+
+- titulaires d'un D.E.S. ou d'un dipl^ome sanctionnant l'internat de recherche ;
 
 - médecins spécialistes qualifiés ;
 
@@ -64,6 +84,10 @@ B. - Taux des vacations des attachés des centres hospitaliers régionaux faisan
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-3. Taux 235,39 :
+3. Taux aux :
+
+1er janvier 1990 : 237,06
+
+1er avril 1990 : 239,90
 
 Toutes autres catégories.
