@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314611
+
+- Question : [SEQ960314611](seq960314611.md) — Pérennité des instituts régionaux de travail social
+
+## Réponse
+
+*Travail, JO du 1996-11-07, page 2918*
+
+Réponse. - Les centres de formation agréés pour préparer les certificats et diplômes d'Etat en travail social au titre desquels figurent les instituts régionaux en travail social sont pour l'essentiel subventionnés par le ministère du travail et des affaires sociales. Les crédits affectés et alloués à ces établissements au titre des formations d'assistant de service social, d'éducateur spécialisé, d'éducateur technique spécialisé, d'éducateur de jeunes enfants, de conseillère en économie sociale et familiale et de moniteur-éducateur ont progressé de plus de 86 millions de francs depuis 1986, soit une revalorisation de p 23,6 % en dix ans. A ce jour, aucun centre de formation n'a été contraint de fermer pour cause d'insuffisance de financement. La baisse de 0,5 % des crédits inscrits en loi de finances initiale 1996 par rapport à ceux délégués en 1995 a été compensée en cours de gestion 1996 dans le cadre d'un décret de virement afin de garantir les moyens de fonctionnement des écoles et leur permettre de mener à bien la mission qui leur est confiée. Les crédits disponibles sur le chapitre 43-33, article 20, affectés à ces actions en 1996 progressent donc de 1,21 % par rapport à ceux effectivement délégués en 1995. Le ministère du travail et des affaires sociales entend poursuivre ces efforts. C'est pourquoi, sur la base du rapport d'évaluation du dispositif de formation des travailleurs sociaux remis au ministre en avril 1995 et compte tenu des résultats de la concertation menée auprès de l'ensemble des partenaires ministériels, institutionnels ou associatifs, un plan d'action prioritaire a été retenu dès cette année tendant à clarifier et consolider les fondements juridiques, administratifs et financiers des centres de formation.
