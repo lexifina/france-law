@@ -374,7 +374,13 @@ Legionella spp. |
 
 |
 
-Leptospira interrogans (tous sérotypes) |
+Leptospira interrogans icterohemorragiae |
+
+2 |
+
+V |
+
+Leptospira interrogans (autres sérotypes) |
 
 2 |
 
@@ -795,6 +801,12 @@ Streptococcus pyogenes |
 |
 
 Streptococcus spp. |
+
+2 |
+
+|
+
+Streptococcus suis |
 
 2 |
 
@@ -1434,19 +1446,25 @@ Reovirus |
 
 Retroviridae : |
 
-(g) |
+|
 
 Virus de l'immuno-déficience humaine |
 
 3 |
 
-|
+(*) |
 
 Virus de leucémies humaines à cellules T (HTLV), types 1 et 2 |
 
 3 |
 
-|
+(*) |
+
+Virus SIV |
+
+3 |
+
+(*) (g) |
 
 Rhabdoviridae : |
 
@@ -1716,6 +1734,12 @@ Cryptosporidium spp. |
 
 |
 
+Cyclospora cayetanensis |
+
+2 |
+
+|
+
 Dipetalonema streptocerca |
 
 2 |
@@ -1738,19 +1762,19 @@ Echinococcus granulosus |
 
 3 |
 
-|
+(*) |
 
 Echinococcus multilocularis |
 
 3 |
 
-|
+(*) |
 
 Echinococcus vogeli |
 
 3 |
 
-|
+(*) |
 
 Entamoeba histolytica |
 
@@ -1798,13 +1822,13 @@ Leishmania brasiliensis |
 
 3 |
 
-|
+(*) |
 
 Leishmania donovani |
 
 3 |
 
-|
+(*) |
 
 Leishmania ethiopica |
 
@@ -1900,7 +1924,7 @@ Plasmodium falciparum |
 
 3 |
 
-|
+(*) |
 
 Plasmodium (humain et simien) spp. |
 
@@ -1966,7 +1990,7 @@ Taenia solium |
 
 3 |
 
-|
+(*) |
 
 Toxocara canis |
 
@@ -2008,7 +2032,7 @@ Trypanosoma brucei rhodesiense |
 
 3 |
 
-|
+(*) |
 
 Trypanosoma cruzi |
 
@@ -2218,7 +2242,7 @@ Variante de la vaccine |
 
 (g) |
 
-Il n'existe actuellement aucune preuve de maladie de l'homme par les rétrovirus d'origine simienne. Par mesure de précaution, un confinement de niveau 3 est recommandé pour les travaux exposant à ces derniers |
+Il n'existe actuellement aucune preuve de maladie de l'homme par les autres rétrovirus d'origine simienne. Par mesure de précaution, un confinement de niveau 3 est recommandé pour les travaux exposant à ces rétrovirus. |
 
 (h) |
 
