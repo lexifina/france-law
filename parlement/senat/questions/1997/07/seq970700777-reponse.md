@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700777
+
+- Question : [SEQ970700777](seq970700777.md) — Promotion des énergies renouvelables
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-09-11, page 2358*
+
+Réponse. - Mme le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec attention, de la question posée par l'honorable parlementaire concernant les efforts conduits en faveur de la promotion des énergies renouvelables. L'Etat doit renforcer son implication financière au niveau de l'aide à la décision, de la recherche et du lancement des technologies innovantes. Le secteur privé doit être associé davantage aux actions d'économies d'énergie et de développement des énergies renouvelables rentables ou proches de la rentabilité. Il est essentiel d'accroître les coopérations avec les producteurs d'énergie, de développer les politiques de maîtrise de la demande d'énergie. A ce titre, l'information et l'éducation doivent être renforcées, de même des incitations et une diversification de l'offre doivent être privilégiées, comme, par exemple, l'institution d'une obligation d'études comparatives " choix de l'énergie ", à l'instar de celle du département de la Savoie pour que les énergies renouvelables soient prises en compte dans les bâtiments publics, par l'Etat, les régions et les départements. Les efforts déjà effectués en vue de favoriser le développement des énergies renouvelables doivent être poursuivis, notamment : en maintenant une fiscalité avantageuse dans les DOM favorisant l'implantation d'énergies renouvelables (par exemple, chauffe-eau solaires) ; en favorisant l'électrification des sites isolés par des énergies renouvelables, particulièrement en utilisant le fonds d'amortissement des charges d'électrification ; en veillant au bon déroulement du plan Eole 2005. Enfin, la fiscalité - et particulièrement la fiscalité sur les ressources épuisables - doit être étudiée de façon approfondie.
