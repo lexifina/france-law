@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608139
+
+- Question : [SEQ030608139](seq030608139.md) — Laïcité
+
+## Réponse
+
+*Jeunesse, JO du 2003-10-02, page 2986*
+
+Le principe de laïcité de l'enseignement public impose à l'Etat une stricte neutralité des enseignants et des programmes d'enseignement, afin de garantir un égal respect de toutes les opinions et croyances des élèves. Il convient de faire une distinction entre les activités d'enseignement proprement dites, pour lesquelles la neutralité doit être strictement respectée, et les épreuves d'examens nationaux, qui se situent en dehors de tout acte d'enseignement et qui, dans le respect du principe d'égalité de traitement des candidats, sont ouvertes tout à la fois aux candidats scolarisés dans les établissements d'enseignement publics, aux candidats scolarisés dans les établissements d'enseignement privés et aux candidats libres. L'organisation des examens nationaux nécessite l'utilisation de nombreux locaux, adaptés aux différentes épreuves, et en particulier de locaux situés dans des établissements privés. Si, dans la mesure du possible, il apparaît souhaitable d'éviter la présence de signes religieux dans les salles où se déroulent les épreuves, il ne saurait pour autant être exigé que ceux-ci soient enlevés ou masqués systématiquement. Les services des examens et concours, lors des réunions préparatoires à l'organisation des épreuves, demandent aux responsables des établissements privés qu'ils fassent le nécessaire pour que les salles qui accueilleront les candidats soient préparées pour respecter au mieux la neutralité inscrite dans les règles d'éthique de la République. Parfois, comme c'est sans doute le cas ici, une statue, un crucifix ou un tableau peuvent avoir été oubliés par négligence. Il sera rappelé au recteur de l'académie de Nantes d'insister plus particulièrement auprès des établissements scolaires privés concernés sur le respect de cet usage, lors des prochaines sessions d'examen.
