@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017921
+
+- Question : [SEQ961017921](seq961017921.md) — Allocation spécifique de solidarité
+
+## Réponse
+
+*Travail, JO du 1997-04-03, page 1065*
+
+Réponse. - Le Gouvernement a décidé de modifier les conditions d'accès à l'allocation de solidarité spécifique à compter du 1er janvier 1997. Antérieurement au 1er janvier 1997, et pour les couples, le plafond de ressources au-delà duquel l'ASS ne peut plus être versée s'établissait à 140 fois le montant de l'allocation journalière, soit 10 360 francs par mois. Ce plafond permettait à un bénéficiaire de l'ASS de cumuler son montant mensuel (2 200 francs au taux simple et 3 200 francs au taux majoré) avec un revenu de son conjoint ou concubin supérieur au SMIC. S'il disposait d'un revenu compris entre 140 et 110 fois le montant de l'ASS journalière, une différentielle lui était versée. Afin de réduire la différence entre ce plafond et celui en vigueur pour d'autres minima sociaux comme l'allocation pour adultes handicapés ou le RMI, le décret no 96-1118 du 20 décembre 1996 ramène ce plafond à 110 (la différentielle sera alors perçue pour un revenu mensuel compris entre 80 et 110 fois l'ASS journalière). Cette réforme ne s'applique donc qu'à des couples qui ne se trouveront pas privés de ressources. Les enquêtes réalisées permettent d'estimer à 15 000 le nombre de personnes qui, à terme, ne pourront, du fait de la réforme, bénéficier de l'ASS et à 15 000 celles qui ne percevront plus qu'une allocation différentielle. Par contre, afin de ne pas entraîner une baisse des ressources des allocataires en cours, le Gouvernement a décidé de n'appliquer le plafond opposable aux couples qu'au flux des nouveaux entrants à compter du 1er janvier 1997. Ce nouveau plafond ne sera donc pas applicable lors du renouvellement semestriel de l'allocation des allocataires en cours.
