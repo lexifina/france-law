@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409543
+
+- Question : [SEQ900409543](seq900409543.md) — Textes d'application de la loi relative aux conditions de reconnaissance de la qualité de combattant volontaire de la Résistance
+
+## Réponse
+
+*Anciens combattants, JO du 1990-07-26, page 1646*
+
+Réponse. - La question posée par l'honorable parlementaire n'a pas échappé à l'attention du secrétaire d'Etat qui en a déjà été saisi par de nombreux parlementaires, à la suite d'une démarche d'une association de résistants. Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre tient à insister sur le fait que la loi n° 89-295 du 10 mai 1989, qui a ouvert la possibilité aux demandeurs de carte de combattant volontaire de la résistance dont les services n'avaient pu être homologués, de pouvoir néanmoins voir leurs dossiers examinés, est le résultat d'une longue préparation ainsi que d'une consultation des anciens résistants eux-mêmes. Il en est de même du décret n° 89-771 du 19 octobre 1989 pris pour l'application de la loi précitée. Il convient de souligner que ce décret est conforme à la loi susvisée et a reçu l'avis favorable du conseil d'Etat qui n'aurait pas manqué de relever une quelconque contradiction avec le texte de loi. En tout état de cause, la commission nationale chargée de donner un avis sur l'attribution des cartes de combattant volontaire de la résistance examinera avec le plus grand soin les dossiers transmis notamment sur la base d'attestations de membres de la résistance intérieure française. Il est ajouté que cette commission ne peut être contestée car, compte tenu de sa composition, elle est à même d'apprécier les dossiers qui lui sont soumis en toute connaissance de cause. Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre tient enfin à souligner qu'il veillera personnellement à l'application concrète, dans un esprit d'équité, des dispositions législatives et réglementaires en cause.
