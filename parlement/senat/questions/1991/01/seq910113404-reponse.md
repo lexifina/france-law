@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113404
+
+- Question : [SEQ910113404](seq910113404.md) — Engagement financier des collectivités territoriales pour la construction d'établissements d'enseignement supérieur
+
+## Réponse
+
+*Éducation, JO du 1991-04-25, page 875*
+
+Réponse. - L'article 18 de la loi n° 90-587 du 4 juillet 1990 a ouvert à l'Etat la possibilité de confier aux collectivités territoriales ou à leurs groupements la maîtrise d'ouvrage de constructions ou d'extensions d'établissements d'enseignement supérieur. Le quatrième alinéa de l'article 18 dispose que cette dévolution, par l'Etat, de la maîtrise d'ouvrage aux collectivités ou à leurs groupements, s'accompagne de l'éligibilité des dépenses exposées par ces derniers au fonds de compensation pour la T.V.A. Par circulaire interministérielle (éducation nationale, jeunesse et sports, budget, intérieur), en date du 21 décembre 1990, adressée aux préfets de région et aux recteurs d'académie, il a été précisé que l'engagement financier des collectivités territoriales ou de leurs groupements, qui tient compte le cas échéant de l'apport immobilier de ces derniers, devra être au minimum égal aux deux tiers du coût toutes taxes comprises de l'opération à réaliser. Il convient d'ajouter que, conformément au droit commun applicable au fonds de compensation pour la T.V.A. : 1° Les subventions spécifiques versées par l'Etat aux collectivités ou aux groupements, maîtres d'ouvrage, étant calculées T.V.A. incluse, devront en conséquence être déduites des dépenses réelles d'investissement prises en compte pour le calcul des attributions du fonds de compensation pour la T.V.A. ; 2° Les participations financières à ces travaux versées à la collectivité ou au groupement, maître d'ouvrage, par des personnes autres que l'Etat ne devront pas être déduites de l'assiette permettant le calcul des attributions.
