@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222622
+
+- Question : [SEQ000222622](seq000222622.md) — Conditions de délivrance des visas
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-03-23, page 1044*
+
+Réponse. - Le ministère des affaires étrangères est conscient des insuffisances qui peuvent être constatées dans le fonctionnement des services des visas de certains postes à l'étranger. Elles sont dues pour l'essentiel aux fortes contraintes pesant sur les effectifs et les équipements. Pour y remédier, un effort important a été entrepris depuis 1997, dans le cadre de la mise en uvre de la nouvelle politique des visas. L'accueil du public a été amélioré dans de nombreux postes avec un programme de rénovation des locaux consulaires. Ce programme sera poursuivi ou intensifié. Les moyens en personnel ont été renforcés, en particulier en affectant des agents titulaires dans les sections des visas les plus sensibles. Des actions de formation ont été développées, en France (à l'Institut de formation à l'administration consulaire) ou à l'étranger (sessions de formation régionales permettant de toucher tous les agents d'une zone donnée). A la fin de l'année, tous les agents auront bénéficié d'une formation récente sur la politique des visas. La qualité du service rendu devrait en être sensiblement améliorée. Ce ministère s'attache également à mieux prévenir le risque de corruption passive, au demeurant fort réduit, de personnels consulaires, en renforçant l'encadrement, en revenant à une plus grande mobilité des agents et en réduisant la proportion des recrutés locaux, plus vulnérables. Dès 1998, il a mis fin au recours systématique à ce type de recrutement auquel les restrictions budgétaires l'avaient contraint depuis 1993. Lorsque l'effort de prévention ne suffit pas et que des cas sont signalés, des enquêtes sont systématiquement menées qui conduisent à des sanctions disciplinaires et, le cas échéant, à des poursuites pénales.
