@@ -1,19 +1,13 @@
-# Article 6.3 : Personnel d'encadrement exerçant une mission sans référence horaire
+# Article 6.3 : Cadres occupés selon l'horaire collectif
 
-Le contrat de travail, ou un avenant à celui-ci, peut prévoir que le salarié exerce sa fonction sans référence horaire et que sa rémunération est forfaitaire.
+Conformément à l'article L. 212-15-2 du code du travail, sont soumis à l'horaire de l'entreprise ou de l'établissement et au mode d'organisation du temps de travail qui y est appliqué, les cadres relevant des catégories I, II ou III de la classification professionnelle, dont la fonction et les conditions d'exercice de celle-ci sont compatibles avec un horaire déterminé et contrôlé.
 
-Cette formule de forfait sans référence horaire ne peut être convenue
+La rémunération du personnel concerné peut être forfaitisée sur la base d'un horaire hebdomadaire, mensuel (1). Elle comprend alors le paiement des heures supplémentaires et des majorations y afférentes que le salarié peut être amené à effectuer. Le nombre d'heures excédant la durée légale du travail et sur lequel est calculé le forfait doit être déterminé dans la limite du contingent annuel d'heures supplémentaires fixé à l'article 1.5 du présent accord.
 
-qu'avec des membres du personnel d'encadrement qui exercent une fonction répondant à un ou plusieurs des critères suivants :
+Les modalités d'application des présentes dispositions sont définies par le contrat de travail ou un avenant à celui-ci.
 
-autonomie dans l'organisation et la gestion du temps de travail, importance du niveau de responsabilité, fonction nécessitant des déplacements fréquents en dehors de l'entreprise...
-
-La rémunération forfaitaire est fixée en tenant compte du niveau de responsabilité du salarié. Elle est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie considérée.
-
-Pour tenir compte des sujétions et contraintes auxquelles ils sont soumis, et en considération de ce mode d'organisation du travail, les salariés concernés bénéficient en contrepartie de 10 jours ouvrés de congés supplémentaires par période entière de 12 mois, ou de toute autre contrepartie représentant un avantage équivalent. Ces jours de congés supplémentaires peuvent être affectés au compte épargne temps lorsqu'il existe. Sauf disposition contraire, cette contrepartie ne se cumule pas avec les avantages particuliers de même nature déjà existants dans l'entreprise.
-
-NOTA : Arrêté du 21 décembre 1999 art. 1 : L'article 6-3 du chapitre VI est étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail.
+NOTA : (1) Termes exclus de l'extension par arrêté du 19 décembre 2000.
 
 NOTA :
 
-NOTA : Arrêté du 21 décembre 1999 art. 1 : L'article 6-3 du chapitre VI est étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail.
+NOTA : (1) Termes exclus de l'extension par arrêté du 19 décembre 2000.
