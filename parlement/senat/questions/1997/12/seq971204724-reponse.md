@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204724
+
+- Question : [SEQ971204724](seq971204724.md) — Congé individuel de formation
+
+## Réponse
+
+*Emploi, JO du 1998-11-26, page 3793*
+
+Réponse. - Depuis 1993 plusieurs textes ont modifié l'organisation de la collecte des contributions du congé individuel de formation afin de favoriser l'accès des salariés à ce congé. En premier lieu, la loi du 20 décembre 1993 a impulsé une recomposition du réseau des OPACIF en réduisant leur nombre et en rationalisant la mobilisation des fonds disponibles. Le décret d'application du 28 octobre 1994 de la loi susvisée pose la règle de l'agrément d'un seul organisme par région à compétence interprofessionnelle. La loi de finances pour 1996 du 30 décembre 1995 a mis en place une instance de péréquation entre les organismes excédentaires et ceux ayant des besoins de financement au-delà de leurs ressources disponibles. Par arrêté du 5 juin 1996 cette mission de péréquation a été confiée au COPACIF. La création d'un secrétariat d'Etat à la formation professionnelle montre l'importance que le Gouvernement attache au développement de la formation. Dès son arrivée, Madame Nicole Pery, secrétaire d'Etat à la formation professionnelle, a annoncé une réforme en profondeur. La secrétaire d'Etat a souligné avec force qu'un des objectifs est de réduire les inégalités d'accès à la formation. Si le congé individuel de formation, dans ses principes et dans sa mise en uvre, répond bien à cet objectif, il est clair qu'un trop faible nombre de salariés, environ 25 000 par an, peut y accéder. En tout état de cause, on peut penser qu'un droit à la qualification assorti des moyens concrets de mise en uvre et un processus de reconnaissance et de validation de l'expérience acquise, en milieu professionnel notamment, seront des axes de la réforme annoncée. Dans ce cadre, le droit individuel pour les salariés à se former et à se qualifier reste plus que jamais d'actualité.
