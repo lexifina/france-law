@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214431
+
+- Question : [SEQ990214431](seq990214431.md) — Instauration d'une aide universelle au créateur d'entreprise
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-05-27, page 1801*
+
+Réponse. - Le recul du nombre de créations d'entreprises depuis le début de la décennie est un réel sujet de préoccupation. C'est pour cette raison que diverses mesures ont été prises afin d'apporter un soutien et un accompagnement aux porteurs de projets de création d'entreprise. Ainsi, le décret nº 98-1228 du 29 décembre 1998 pris pour l'application de l'article L. 351-24 du code du travail et modifiant ce code et l'arrêté du 29 décembre 1998 relatif à l'aide à la création ou à la reprise d'entreprise permettent d'accorder une avance remboursable pour certaines catégories de personnes : les jeunes de moins de vingt-six ans remplissant les conditions pour bénéficier de contrats " emploi-jeunes ", les bénéficiaires de revenus de solidarité (RMI, ASS, API), les salariés repreneurs de leur entreprise en difficulté. Cette avance remboursable est un prêt sans intérêt financé par l'Etat attribué après une expertise du projet de création ou de reprise, attribué à une personne physique qui s'engage à l'intégrer au capital de la société créée ou reprise ou à l'utiliser pour le fonctionnement de l'entreprise individuelle créée ou reprise. L'octroi de cette aide peut être associé à l'engagement du bénéficaire de suivre une formation à la création ou à la gestion de l'entreprise ou de l'accompagnement qu'il se sera engagé à accepter. L'attribution de cette avance est également subordonnée à l'obtention d'un financement complémentaire. Les organismes ayant pour objet le soutien à la création et à la reprise d'entreprise pourront, après une mise en concurrence dans les conditions fixées par le code des marchés publics, décider l'attribution et la gestion de l'avance remboursable.
