@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860701878
+
+- Question : [SEQ860701878](seq860701878.md) — Cérémonies officielles: ordre des préséances
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-02-26, page 278*
+
+Réponse. -Comme l'indique l'honorable parlementaire, l'ordre de préséance des corps et des autorités françaises dans les cérémonies publiques reste fixé par un décret du 16 juin 1907. Ce texte a été modifié à plusieurs reprises et, en dernier lieu, par un décret du 2 décembre 1958. Les changements intervenus depuis cette date, qu'il s'agisse de créations de nouvelles institutions ou de modifications apportées au rôle d'organes existants, n'ont fait l'objet d'aucune codification, mais ont été, en revanche, pris en compte par le protocole pour l'organisation des manifestations officielles. Ainsi, pour répondre aux points soulevés par l'honorable parlementaire, le président de la Commission nationale informatique et libertés vient-il, à Paris, immédiatement après le représentant du conseil supérieur de la magistrature et avant les membres du conseil constitutionnel. De même, dans les départements, les présidents du conseil régional, du conseil général, du comité économique et social, de la chambre régionale des comptes sont placés après les parlementaires et avant le général, commandant la région militaire ; en outre, les membres de l'assemblée parlementaire européenne, du conseil régional et du conseil général figurent après les grands croix et grands officiers de l'Ordre national du mérite et avant le premier président de la cour d'appel. En 1984, le Premier ministre a confié à M. Jacques Gandouin, préfet, la mission de conduire une réflexion d'ensemble sur les problèmes de préséance et de proposer les solutions qu'imposaient à cet égard les modifications survenues dans les structures politiques et administratives françaises. Un rapport a été remis par l'intéressé le 29 mars 1985. Ses conclusions demeurent à l'étude.
