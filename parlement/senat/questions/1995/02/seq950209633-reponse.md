@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209633
+
+- Question : [SEQ950209633](seq950209633.md) — Nouvelle approche de l'aide financière internationale
+
+## Réponse
+
+*Économie, JO du 1995-03-09, page 567*
+
+Réponse. - La France, en sa qualité d'actionnaire de la Banque mondiale, suit avec une extrême attention les impacts sociaux de la mise en oeuvre de projets de développement financés par la Banque mondiale. Certains projets - infrastructures, barrages - peuvent avoir pour conséquence des déplacements de population qui en étant regrettables en raison de leurs conséquences économiques et sociales sont souvent nécessaires à l'amélioration des conditions de vie générales des populations des pays en développement. Dans chacun des projets qu'elle finance, la Banque mondiale s'efforce de réduire au maximum le nombre des personnes à déplacer. Dans ce cadre, la France a toujours veillé au sein du conseil d'administration de la Banque mondiale à ce que les conditions nécessaires à une réinstallation réussie soit réunies : consultations des populations locales, bonne évaluation de l'effort financier à fournir (valeur des biens, remplacement des terres agricoles), individualisation du projet de réinstallation aux côtés du projet d'infrastructure et application de conditions croisées afin que la réinstallation des populations déplacées ait effectivement lieu parallèlement à la réalisation des travaux, mise en place par les autorités locales de compensations financières afin d'assurer aux populations déplacées un revenu au moins égal à celui dont elles disposaient. Certains projets en cours (Sardar Sorovar en Inde, Pakmum en Thaïlande) ont soulevé de gros problèmes de réinstallation des populations déplacées que la Banque mondiale, à la demande de son conseil d'administration, s'efforce de résoudre. Il demeure néanmoins que le facteur fondamental en la matière reste la volonté politique des autorités nationales de réussir la réinstallation des populations.
