@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208978
+
+- Question : [SEQ871208978](seq871208978.md) — Régime social des pluri-actifs
+
+## Réponse
+
+*Affaires sociales, JO du 1988-03-10, page 327*
+
+Réponse. -Les articles R. 615-2 à R. 615-5 du code de la sécurité sociale fixent les règles de détermination de l'activité principale en cas d'exercice d'activités professionnelles différentes. C'est ainsi que lorsqu'une personne exerce au cours d'une année civile une activité salariée et une activité indépendante, son activité salariée est réputée principale, en application de l'article R. 615-3 du code de la sécurité sociale, dès lors que cette personne a accompli, au cours de l'année de référence au moins 1 200 heures de travail salarié lui ayant procuré un revenu au moins égal à celui retiré de son activité non salariée. Il ne me paraît pas souhaitable de modifier cette réglementation en vue d'apprécier l'activité principale au regard du seul critère de la durée du travail, comme le souhaite l'honorable parlementaire. Il est, en effet, difficile d'évaluer avec une précision suffisante, et plus encore de contrôler, le temps consacré à l'exercice d'une profession indépendante. C'est pourquoi il est tenu compte de la seule durée de l'activité salariée, soit 1 200 heures par an, qui correspondent à l'exercice d'une telle activité plus qu'à mi-temps. A ce critère clair et aisément vérifiable s'ajoute un second critère constitué par la comparaison des revenus tirés des activités salariées et non salariées. En tout état de cause, il paraît équitable que, pour apprécier l'importance respective de deux activités simultanées, il soit tenu compte à la fois des revenus qu'elles procurent et du temps qui leur est consacré. Supprimer l'un de ces critères ne manquerait d'ailleurs pas de susciter les revendications de ceux des pluri-actifs qui s'estimeraient lésés par le choix ainsi fait.
