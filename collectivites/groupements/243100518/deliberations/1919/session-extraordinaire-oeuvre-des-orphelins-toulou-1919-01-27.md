@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Session extraordinaire. Oeuvre des orphelins toulousains de la guerre (approuvée par arrêté ministériel du 13 juin 1918). Versement entre les amins du trésorier de l'oeuvre ds sommes recueillies par le receveur municipal p. 28
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1919-01-27
+- Objet : Session extraordinaire. Oeuvre des orphelins toulousains de la guerre (approuvée par arrêté ministériel du 13 juin 1918). Versement entre les amins du trésorier de l'oeuvre ds sommes recueillies par le receveur municipal p. 28
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
