@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113524
+
+- Question : [SEQ990113524](seq990113524.md) — Statut des directeurs d'OPHLM
+
+## Réponse
+
+*Fonction publique, JO du 1999-03-18, page 885*
+
+Réponse. - L'examen de la situation des directeurs d'offices publics d'habitations à loyer modére (OPHLM) de moins de 10 000 logements s'inscrit dans le cadre des orientations tirées du rapport que M. Rémy Schwartz, maître des requêtes au Conseil d'Etat, a remis au Gouvernement, relatif au recrutement, à la formation et au déroulement de carrière des fonctionnaires territoriaux. Le rapporteur suggère notamment un assouplissement de certains seuils de création des grades et des emplois, corrélativement à l'introduction de mécanismes favorisant la transparence et la régulation des carrières. Aussi le Gouvernement envisage-t-il, sans remettre en cause le système des seuils, d'adapter un certain nombre d'entre eux pour mieux tenir compte de la réalité des besoins des collectivités territoriales. Il en sera ainsi notamment du seuil de base des emplois fonctionnels communaux de direction, actuellement fixé à 5 000 habitants, qui devrait être abaissé à 3 500 habitants, ce qui suppose le vote d'un texte législatif, actuellement à l'étude. Dans le prolongement de cette modification, d'autres aménagements de niveau réglementaire, pourraient être opérés, portant sur les autres seuils de base des emplois fonctionnels territoriaux, s'agissant en particulier des emplois de direction des établissements publics de coopération intercommunale et des OPHLM. Aussi, il est confirmé que l'hypothèse d'une redéfinition du seuil concernant les directeurs d'OPHLM, en dessous du seuil actuel de 10 000 logements, est à l'étude et devrait aboutir dans le courant de l'année, en même temps que les autres orientations retenues en matière de seuils démographiques.
