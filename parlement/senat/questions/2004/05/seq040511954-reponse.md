@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511954
+
+- Question : [SEQ040511954](seq040511954.md) — Prise en charge des frais de déplacement du domicile à l' établissement, pour toutes personnes handicapées
+
+## Réponse
+
+*Personnes handicapées, JO du 2004-11-25, page 2698*
+
+Les maisons d'accueil spécialisé (MAS) sont des établissements médico-sociaux qui assurent de manière permanente l'hébergement, certains soins médicaux, les aides à la vie courante et les soins d'entretien, ainsi que des activités de vie sociale, pour des personnes handicapées adultes n'ayant pu acquérir un minimum d'autonomie et dont l'état de santé nécessite une surveillance médicale et des soins constants. Les frais de transport entre le domicile de la famille du jeune adulte handicapé et la MAS qui l'héberge ne sont pas couverts par les sommes versées aux MAS par l'assurance maladie. Ces frais ne peuvent être pris en charge dans les conditions prévues aux articles R. 322-10 et suivants du code de la sécurité sociale puisque seuls les frais des transport prescrits pour les patients se déplaçant dans le but de recevoir des soins ou subir des examens sont pris en charge par l'assurance maladie. Par ailleurs, il ne peut être envisagé, dans un contexte de développement de l'accueil de jour ou temporaire, et sans remettre davantage en cause les conditions de l'équilibre financier de l'assurance maladie, de généraliser les conditions de prise en charge des frais de transport des enfants handicapés, accueillis dans les établissements d'éducation spéciale, aux adultes handicapés hébergés en maison d'accueil spécialisé ou en foyer d'accueil médicalisé. En cas de difficultés avérées d'un assuré pour faire face à ses dépenses de transport, les prestations supplémentaires des caisses primaires d'assurance maladie peuvent, le cas échéant, être sollicitées pour couvrir tout ou partie de ces dépenses, ces prestations étant soumises à condition de ressources.
