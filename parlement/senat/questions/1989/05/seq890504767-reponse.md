@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504767
+
+- Question : [SEQ890504767](seq890504767.md) — Besoins financiers des CUMA
+
+## Réponse
+
+*Agriculture, JO du 1989-08-24, page 1314*
+
+Réponse. - L'attention du ministre de l'agriculture et de la forêt a été appelée sur les difficultés d'accès aux financements bonifiés réservés aux Cuma. Convaincu que l'organisation collective des agriculteurs est une condition de la réussite du processus d'adaptation poursuivi par l'agriculture française, et que les Cuma jouent à ce titre un rôle éminent de rationalisation des investissements et de réduction des coûts de production, le ministre de l'agriculture et de la forêt est particulièrement sensible à cette préoccupation. L'attribution aux Cuma de financements privilégiés est en effet l'indispensable levier par lequel l'efficacité propre de ces structures collectives peut donner toute sa mesure. C'est pourquoi, face à l'allongement des délais de réalisation des prêts spéciaux constaté à la fin de l'année 1988, le Gouvernement s'était engagé à mettre en place en 1989 les moyens nécessaires pour faire face aux besoins annuels de financement des Cumaet pour résorber les files d'attente accumulées depuis l'an dernier. C'est ainsi que les quotas provisoires mis en place au premier semestre de 1989 dans l'attente de la fixation définitive des enveloppes de prêts bonifiés pour 1989 avaient été augmentés de 50 p. 100 par rapport à la référence de 1988, ceci par dérogation aux règles de simple reconduction pratiquées dans ces circonstances. Les montants définitifs des enveloppes de prêts bonifiés pour 1989 sont désormais arrêtés. L'enveloppe des M.T.S.-Cuma se monte à 700 MF, en hausse de 55 p. 100 par rapport à l'enveloppe initiale de 1988. Cette progression très substantielle, ainsi que l'actualisation des modalités de répartition des contingents alloués aux caisses régionales de Crédit agricole permettront de revenir en peu de temps à une situation normale.
