@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705592
+
+- Question : [SEQ890705592](seq890705592.md) — Avenir de la gare d'Avion (Pas-de-Calais)
+
+## Réponse
+
+*Équipement, JO du 1989-09-28, page 1588*
+
+Réponse. - Dans le cadre de l'autonomie de gestion que lui a conférée la loi d'orientation des transports intérieurs du 30 décembre 1982, la S.N.C.F. se doit de prendre des dispositions permettant de concilier ses objectifs d'équilibre financier avec la nécessité de maintenir un service adapté aux besoins de la population. En ce qui concerne le service voyageurs, elle a été amenée à examiner les conditions d'ouverture au public des gares qui présentent un coût élevé eu égard à leur faible activité. C'est ainsi qu'elle envisage de modifier en janvier 1990 le régime d'exploitation de la gare d'Avion dans le Pas-de-Calais en y maintenant toutefois la présence d'un agent six heures par jour. Ces mesures de réorganisation n'affecteront en rien la desserte proprement dite. D'ores et déjà, deux distributeurs automatiques de titres de transport y sont installés pour permettre aux voyageurs de prendre leurs billets pour de courtes distances. Quant à la sécurité des voyageurs, lorsqu'un point d'arrêt est susceptible de changer de régime d'exploitation, les éventuelles particularités en matière de visibilité, de densité des circulations ferroviaires, du nombre de voies et d'importance de la fréquentation sont systématiquement examinées. Le ministre de l'équipement, du logement, des transports et de la mer a demandé à l'établissement public de veiller à la bonne information des responsables des collectivités locales concernées et de rechercher autant que possible, en concertation avec ceux-ci et avec d'autres partenaires, des solutions satisfaisantes aux problèmes qui pourraient apparaître au niveau local.
