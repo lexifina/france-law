@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104561
+
+- Question : [SEQ971104561](seq971104561.md) — Stages de préparation à l'examen des emplois réservés pour les travailleurs handicapés organisés par l'ONACVG
+
+## Réponse
+
+*Emploi, JO du 1999-11-25, page 3867*
+
+Réponse. - L'honorable parlementaire souligne l'importance que revêtent, pour les travailleurs handicapés, les stages de préparation à l'examen des emplois réservés de 1re catégorie mis en place par l'Office national des anciens combattants et victimes de guerre. Outre les sessions qu'évoque madame la sénatrice, depuis 1998, l'ONAC a organisé quatre nouvelles sessions avec l'aide financière du fonds d'insertion pour les personnes handicapées (AGEFIPH) et de la direction départementale du travail, de l'emploi et de la formation professionnelle de Paris. Soixante stagiaires ont ainsi pu préparer l'examen des emplois réservés. Le taux de réussite aux deux premières sessions a été sensiblement équivalent à celui constaté les années précédentes. Parallèlement, le fonds ministériel d'insertion des travailleurs handicapés, mis en place par le ministère de la fonction publique, a permis à l'ONAC d'étendre cette formation aux personnes habitant la province, grâce à la participation des ERP (écoles de rééducation professionnelle). Dorénavant, la personne handicapée pourra bénéficier d'une formation à distance avec un suivi individualisé. D'ores et déjà, deux sessions ont été organisées à Rennes et Lyon au second trimestre 1999. La réussite aux examens ne sera connue qu'en décembre 1999. Ainsi non seulement l'avenir des stages de préparation aux emplois réservés, qui concerne désormais quelques capitales régionales, paraît assuré, mais encore l'implication des ERP dans le processus de formation des travailleurs handicapés permet à ceux-ci d'envisager plus sereinement la préparation de diplômes ou de concours.
