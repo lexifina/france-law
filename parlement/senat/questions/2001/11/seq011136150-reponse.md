@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136150
+
+- Question : [SEQ011136150](seq011136150.md) — Situation des enseignants des SEGPA et EREA
+
+## Réponse
+
+*Éducation, JO du 2002-02-21, page 570*
+
+D'une manière générale, les instituteurs et les professeurs des écoles doivent un service hebdomadaire de vingt-six heures d'enseignement et d'une heure en moyenne annuelle consacrée à des travaux au sein des équipes pédagogiques, à des conférences et à la tenue des conseils d'écoles obligatoires. Compte tenu des conditions particulières de leurs fonctions, les enseignants spécialisés exerçant dans les sections d'enseignement général et professionnel adapté (SEGPA) des collèges et dans les établissements régionaux d'enseignement adapté (EREA) bénéficient, cependant, d'un service hebdomadaire d'une durée sensiblement inférieure à celle de leurs collègues des classes maternelles et élémentaires. La circulaire n° 74-148 du 19 avril 1974 prévoyait ainsi pour eux un service hebdomadaire de vingt-quatre heures en présence d'élèves. La circulaire n° 94-204 du 13 juillet 1994 a réduit ce service à vingt-trois heures. Les heures consacrées à la coordination et à la synthèse (une ou deux heures hebdomadaires suivant le cas) sont rémunérées en heures supplémentaires. La rénovation des SEGPA se poursuit conformément aux dispositions prévues par les notes de service de 1996 et de 1998, l'objectif étant de placer les élèves dans un cursus conduisant à une formation qualifiante de niveau V. Dans le cadre des orientations sur l'avenir du collège, le ministre de l'éducation nationale a confirmé la mission assignée aux SEGPA. Il entend que leur intégration au sein des collèges soit poursuivie et améliorée. Au regard de ces ambitions, la situation des personnels enseignants du premier degré exerçant en SEGPA fait l'objet d'un examen attentif.
