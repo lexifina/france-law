@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136188
+
+- Question : [SEQ011136188](seq011136188.md) — Attributions de chèques-vacances dans les très petites entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-02-14, page 502*
+
+Le système des chèques-vacances, mis en place par l'ordonnance n° 82-283 du 26 mars 1982, modifiée par la loi n° 99-584 du 12 juillet 1999, poursuit un objectif social : permettre à des salariés aux revenus modestes de financer à meilleur coût leurs projets de vacances. Cet objectif s'appuie sur un contrôle des ressources des demandeurs. Le choix du revenu fiscal de référence introduit une plus grande objectivité dans l'appréciation des ressources d'un foyer fiscal. La mise en oeuvre des chèques-vacances dans l'entreprise, quelle que soit sa taille, est laissée à la libre appréciation de l'employeur. Elle est un élément du dialogue social dans l'entreprise et tout particulièrement dans la très petite entreprise. C'est pour cette raison que le Gouvernement a choisi, pour les entreprises de moins de cinquante salariés, une mesure incitative supplémentaire en exonérant la contribution de l'employeur des cotisations et contributions prévues par la législation du travail et de la sécurité sociale. De plus, le projet de loi pour le développement des petites entreprises et de l'artisanat, qui sera prochainement examiné par l'Assemblée nationale, ouvre la possibilité de mettre en place, dans les entreprises de moins de cinquante salariés dépourvues de comité d'entreprise, des comités des activités sociales et culturelles. La création d'un tel comité pourra se faire par accord étendu ou par un accord interentreprises. Les chèques-vacances entreront naturellement dans les compétences de ces comités, qui seront un instrument de meilleure diffusion de cet avantage social auprès des salariés modestes des petites enteprises.
