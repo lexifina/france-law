@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102981
+
+- Question : [SEQ890102981](seq890102981.md) — Prix de l'essence sur les autoroutes
+
+## Réponse
+
+*Consommation, JO du 1989-03-16, page 441*
+
+Réponse. - Au 2 janvier 1989, le prix moyen de vente des carburants dans les stations-service sur autoroutes s'établissait à 5,17 francs le litre, ce qui représentait un écart de 27 centimes par rapport au prix moyen observé sur l'ensemble du réseau routier national. L'essentiel de cette différence s'explique par les charges spécifiques qui pèsent sur ces stations et qui sont constituées par les redevances payées aux sociétés d'autoroutes et par les frais de personnel supplémentaires générés par l'obligation de service imposée à ces stations, de jour comme de nuit, 365 jours par an. Il est vrai que le surcoût réel entraîné par ces charges supplémentaires est inférieur à celui répercuté dans leurs prix de vente par les compagnies pétrolières. C'est pourquoi, afin de parvenir à des prix coïncidant mieux avec la réalité des coûts, les ministres concernés par l'attribution des concessions de stations-service sur autoroutes ont décidé d'améliorer cette procédured'attribution, en ouvrant plus largement les appels de candidatures à tous les opérateurs titulaires du permis A 5 de distribution d'essence, soit environ quatre-vingts opérateurs. Cette ouverture à la concurrence aura évidemment un effet positif sur le niveau des prix pratiqués. D'ores et déjà, lors de la dernière attribution de concessions de stations-service sur autoroutes en septembre 1988, plusieurs de ces nouveaux opérateurs ont pu soumissionner : c'est ainsi que la société Leclerc s'est vu attribuer une concession sur l'autoroute A 31 près de Dijon. Le Gouvernement entend conforter cette politique de la concurrence et continuera à favoriser l'attribution de concessions de stations-service sur autoroute à de nouveaux opérateurs.
