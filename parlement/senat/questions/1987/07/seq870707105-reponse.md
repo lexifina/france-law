@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707105
+
+- Question : [SEQ870707105](seq870707105.md) — Difficultés des maires salariés
+
+## Réponse
+
+*Intérieur, JO du 1987-10-08, page 1601*
+
+Réponse. -Le Gouvernement est pleinement conscient de la nécessité d'améliorer les conditions d'exercice des mandats locaux pour réussir la décentralisation. Tirant les leçons des échecs rencontrés entre 1981 et 1986 pour les projets de statut de l'élu local, lourdes constructions juridiques et financières qui se sont révélées irréalistes, et n'ont pu être traduites concrètement, le Gouvernement estime qu'il faut traiter les problèmes de façon pragmatique dans l'ordre de leur priorité. C'est pourquoi il s'attache d'abord à améliorer la disponibilité des maires, en commençant par les élus qui rencontrent les difficultés les plus aiguës, c'est-à-dire ceux qui exercent une activité professionnelle salariée dans le secteur privé. Dans cet esprit, le ministre délégué auprès du ministre de l'intérieur, chargé des collectivités locales, après avoir réuni un groupe de travail comprenant des maires désignés par l'association des maires de France, a engagé des contacts avec le Conseil national du patronat français pour définir les modalités selon lesquelles les entreprises pourraient faciliter l'exercice des mandats locaux par leurs salariés. Cette négociation concerne les maires - et cela quel que soit le nombre des habitants de la commune - certaines catégories, adjoints ou conseillers délégués, ainsi que les conseillers généraux et régionaux. Le ministre ne manquera pas de rendre compte du résultat de ces contacts dans les délais les plus rapides qu'il lui sera possible. Par ailleurs, le ministre préoccupé par le niveau des retraites des maires vient de présenter à l'association des maires de France une proposition tendant à améliorer sur une base volontaire leurs retraites complémentaires.
