@@ -6,7 +6,7 @@ II. - La communauté ou le syndicat d'agglomération nouvelle visés à l'articl
 
 Toutefois, l'obligation de diminuer le taux de taxe professionnelle dans une proportion au moins égale soit à la diminution du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la plus importante de ces diminutions lorsque ces deux taux sont en baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne s'applique pas. Lorsque l'établissement public de coopération intercommunale fait application de cette disposition au titre d'une année, la variation à la hausse du taux de taxe d'habitation ou du taux moyen pondéré de la taxe d'habitation et des taxes foncières à prendre en compte pour la détermination du taux de taxe professionnelle conformément au deuxième alinéa du b du 1 du I de l'article 1636 B sexies est réduite de moitié pendant les deux années suivantes.
 
-Pour l'application du b du I, ainsi que des 2 et 3 du I de l'article 1636 B sexies :
+Pour l'application du b du 1, ainsi que des 2 et 3 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font application des dispositions du II de l'article 1609 nonies C, le taux moyen pondéré tient compte du produit perçu par l'établissement public de coopération intercommunale ;
 
