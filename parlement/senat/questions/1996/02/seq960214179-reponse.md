@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214179
+
+- Question : [SEQ960214179](seq960214179.md) — Moyens pour lutter contre l'ecstasy
+
+## Réponse
+
+*Santé, JO du 1996-05-02, page 1090*
+
+Réponse. - Le secrétaire d'Etat à la santé et à la sécurité sociale a l'honneur de porter à la connaissance de l'honorable parlementaire les différents moyens mis en oeuvre pour lutter contre l'ecstasy. L'Observatoire français des drogues et des toxicomanies estime entre 10 000 et 25 000 le nombre de consommateurs occasionnels ou réguliers d'ecstasy. Plus que le nombre absolu, c'est l'évolution des saisies et des procédures effectuées lors de raves et dans les discothèques, ainsi que le niveau de consommation constaté chez certains de nos voisins européens, qui incitent à une action spécifique. La presse a rapporté quelques cas de décès enregistrés à l'étranger. En France, aucun cas de décès n'a, à l'heure actuelle, été formellement rattaché à la consommation d'ecstasy. Les centres d'études et d'informations sur les pharmacodépendances (CEIP) ont mis en place une étude spécifique sur les décès des toxicomanes, en collaboration avec les parquets et les instituts médico-légaux, afin de mieux connaître ce paramètre. Les différents services de l'Etat se sont mobilisés dès 1995 sur le problème de l'ecstasy. La mission antidrogue du ministère de l'intérieur (MILAD) et la gendarmerie nationale ont diffusé un document à l'attention de leurs services respectifs rappelant les moyens légaux de poursuite des vendeurs, mais aussi des organisateurs négligents de soirées rave et des consommateurs. Sur le plan préventif, la DGLDT s'est orientée vers une communication en direction des personnes en rapport avec les adolescents (enseignants, éducateurs, travailleurs sociaux, etc.). Un document en préparation sera diffusé très prochainement.
