@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615830
+
+- Question : [SEQ910615830](seq910615830.md) — Maintien d'un potentiel industriel sur les terrains libérés par le démantèlement de l'IRCHA
+
+## Réponse
+
+*Industrie, JO du 1992-03-05, page 560*
+
+Réponse. - La réorganisation des activités très diversifiées qui relevaient jusqu'ici de l'Institut national de recherche en chimie appliquée (I.R.C.H.A.) a essentiellement visé à maintenir et développer les acquis, les compétences et le potentiel des équipes de chercheurs et techniciens. A cette fin, suivant leurs spécialités ou leur localisation géographique, ces équipes ont été intégrées à des organismes technologiques, publics ou parapublics, en mesure de valoriser leurs travaux dans des cadres élargis et renforcés tout en leur apportant une dynamique nouvelle. S'agissant du site de Vert-le-Petit, sur lequel les activités de fabrication en chimie fine seront maintenues dans une enceinte autonome, il s'est avéré que l'importance de l'ensemble constitué par les locaux de recherche et l'administration ainsi que les terrains attenants, ne justifiait pas, dans la configuration actuelle, une occupation parcellisée. Il est de plus rapidement apparu utile de rapprocherles équipes concernées, traitant respectivement de la protection de l'environnement et de la définition de matériaux nouveaux, de leurs partenaires potentiels à proximité de la métropole de l'Essonne : centre universitaire et technologique en cours de développement à Evry, centre de recherches de la Société nationale des poudres et explosifs au Bouchet. A l'issue de ces mouvements qui devraient intervenir au cours de l'année prochaine, l'Etat disposera à Vert-le-Petit d'un ensemble homogène, libre d'occupation, ce qui devrait faciliter la recherche de nouveaux utilisateurs dans une zone dont les études d'urbanisme et les schémas de développement s'accordent à souligner l'avenir prometteur.
