@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103624
+
+- Question : [SEQ931103624](seq931103624.md) — Vente du patrimoine immobilier locatif des sociétés d'assurances
+
+## Réponse
+
+*Logement, JO du 1994-03-03, page 495*
+
+Réponse. - Les dispositions arrêtées dans le plan de relance du logement, notamment sur les plans financiers et fiscaux, ont pour objet d'inciter les propriétaires-bailleurs à mettre sur le marché de la location des logements locatifs privés. Depuis quelques années, le parc de logements locatifs privés tend à diminuer en même temps que les sociétés d'assurances se dégagent de ce type de placement. Cette tendance doit être combattue. Des mesures ont été prises dans ce sens et sont destinées à rendre la confiance dans l'investissement immobilier. Le rachat de ce patrimoine par les offices d'HLM ne doit pas être une solution à rechercher ni à développer. En effet, l'objet des PLA est avant tout de financer des programmes de construction neuve et d'augmenter ainsi l'offre de logements sociaux, de même qu'à travers elle, l'offre globale de logements. De plus, le rachat de ce patrimoine par les HLM pose de nombreuses questions de principe. En effet, la vocation du parc locatif HLM est d'accueillir des familles à revenus modestes. Ses locataires doivent répondre aux conditions de plafonds de ressources, ce qui n'est pas le cas des locataires de logements des compagnies d'assurances. Aussi, il n'est pas souhaitable de favoriser et d'encourager la vente du patrimoine locatif des sociétés d'assurances qui accueillent d'autres catégories de la population. Ce parc locatif contribue à offrir un logement à des populations ne remplissant pas les conditions d'attribution de logements HLM et à maintenir un parc locatif privé. Les mesures du plan de relance devraient modifier le comportement des bailleurs institutionnels en matière de gestion patrimoniale et locative.
