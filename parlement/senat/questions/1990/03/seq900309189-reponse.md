@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309189
+
+- Question : [SEQ900309189](seq900309189.md) — Définition d'une politique de l'offre de santé
+
+## Réponse
+
+*Solidarité, JO du 1990-08-30, page 1919*
+
+Réponse. - Le contrôle de l'offre de santé et la prévention sont deux axes essentiels de la politique du Gouvernement en matière de santé, qui se complètent au niveau des actions concrètes. Ainsi, afin de limiter dans l'avenir le nombre de médecins, le numerus clausus de fin de première année des études médicales a-t-il été fortement baissé, passant de plus de 8 000 durant les années 1970-1978 à 4 000 aujourd'hui. Parallèlement, les actions de prévention, notamment face au tabac, à l'alcool, à la drogue ou au SIDA ont été fortement développées. La place des médecins et leurs emplois dans des rôles de prévention font actuellement l'objet de réflexions et de premières mesures. Ainsi, deux disciplines spécifiques, en médecine du travail et en santé publique, ont été crées dans le concours d'internat en médecine, afin d'affirmer l'importance de ces spécialités et de leur assurer un flux de formation. D'autres adaptations du recrutement des médecins du travail sont par ailleurs envisagées. En ce qui concerne la médecine scolaire, une réorganisation est en cours afin d'en améliorer l'efficacité, par sa mise sous la responsabilité du ministère de l'éducation nationale, de la jeunesse et des sports. Les différentes mesures ne peuvent se faire que progressivement, car elles ont des conséquences financières tant pour les entreprises, qui rémunèrent les médecins du travail, que pour la sécurité sociale, qui a en charge les médecins des hôpitaux, que pour l'Etat, qui emploie les médecins inspecteurs de la santé ou les médecins scolaires. Le ministère de la solidarité, de la santé et de la protection sociale compte cependant continuer à agir dans ce sens, qui correspond aux besoins de la santé publique.
