@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305388
+
+- Question : [SEQ940305388](seq940305388.md) — Prévention du risque sismique en France
+
+## Réponse
+
+*Logement, JO du 1994-06-09, page 1446*
+
+Réponse. - L'honorable parlementaire souligne à juste titre que les constatations faites à la suite du tremblement de terre du 14 janvier 1994 à Los Angeles ont mis en exergue la pertinence du code sismique californien. A l'instar des Etats-Unis, la France a travaillé depuis longtemps à la prévention du risque parasismique et aujourd'hui un dispositif complet de réglementation est en place. Il sera en dernier lieu mis en application pour les maisons individuelles au mois d'août 1994. Cette réglementation, récemment actualisée, s'appuie sur la loi du 22 juillet 1987 relative à la prévention des risques majeurs (article 41) ; le décret du 14 mai 1991 relatif à la prévention du risque sismique qui définit le nouveau zonage sismique et les différentes classes de bâtiments ; l'arrêté du 16 juillet 1992 qui fixe la classification et les règles de construction parasismiques applicables aux bâtiments de la catégorie dite à risque normal. Parallèlement, une évolution de la réglementation actuelle, visant notamment à utiliser, dans les règles de calcul, des coefficients rendant mieux compte de l'effet dynamique des secousses sismiques, est étudiée par un groupe de travail dirigé par M. Tanzi, ingénieur général des Ponts et Chaussées. Ces nouvelles règles, en cours de mise en point, proches des modes de calcul californien, mériteront de se substituer progressivement aux règles actuelles. Dans un premier temps, cette novation s'appliquera aux bâtiments à risques élevés, à savoir les constructions de classe C et D au sens du décret du 14 mai 1991 (bâtiments d'habitation de plus de 28 mètres, immeubles de grande hauteur (IGH), établissements recevant du public (ERP) des trois premières catégories,...).
