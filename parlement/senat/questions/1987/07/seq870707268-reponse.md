@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707268
+
+- Question : [SEQ870707268](seq870707268.md) — Mesures en faveur des producteurs de légumes du Finistère
+
+## Réponse
+
+*Agriculture, JO du 1987-11-12, page 1795*
+
+Réponse. -Le ministre de l'agriculture a pris un ensemble de mesures pour aider les producteurs de légumes touchés par le gel de janvier 1987. Tout a été mis en oeuvre, à la suite notamment d'une mission effectuée sur place par des fonctionnaires du ministère, pour que les indemnisations du fonds de garantie des calamités agricoles puissent parvenir dans les plus brefs délais aux agriculteurs dont les pertes sont maintenant intégralement connues. La diligence mise à l'instruction de ces dossiers a permis de soumettre les indemnisations à l'approbation de la commission nationale du 16 septembre dernier. L'arrêté interministériel correspondant en date du 12 octobre 1987 a fixé à 18 864 875 francs le montant des indemnités à allouer aux agriculteurs concernés pour les pertes subies sur les cultures de choux-fleurs, carottes et artichauts. Par ailleurs, il a été décidé de mettre en place un dispositif exceptionnel tendant à alléger les intérêts dus sur les concours de trésorerie accordés par la caisse régionale de Crédit agricole du Finistère, pour tenir compte des difficultés de trésorerie rencontrées par les producteurs de légumes du département. Les agriculteurs ayant souscrit un prêt par suite de difficultés occasionnées par ce gel bénéficieront d'une prise en charge totale de deux points d'intérêts pendant la durée à courir jusqu'à la réalisation éventuelle d'un prêt calamités ou à défaut pour une durée d'un an. S'ajoutant à l'application rapide du régime de garantie des calamités tant pour les indemnisations que pour les prêts spéciaux, ces facilités exceptionnelles devraient permettre aux agriculteurs touchés par le gel de reconstituer leur trésorerie dans des conditions satisfaisantes.
