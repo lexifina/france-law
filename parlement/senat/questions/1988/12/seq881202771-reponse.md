@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202771
+
+- Question : [SEQ881202771](seq881202771.md) — Préscolarisation en Guyane
+
+## Réponse
+
+*Éducation, JO du 1989-06-22, page 960*
+
+Réponse. - Le ministère de l'éducation nationale, de la jeunesse et des sports est parfaitement conscient des difficultés que rencontre le département de la Guyane pour assurer la préscolarisation des jeunes enfants français et étrangers résidant dans ce département, compte tenu d'un accroissement démographique naturel (4 p. 100 par an) supérieur à celui de métropole et d'une immigration importante. C'est pourquoi un effort financier important a été consenti par l'Etat ces toutes dernières années, tant dans le domaine des constructions scolaires que dans celui de l'attribution de postes budgétaires d'enseignants, ce qui a permis d'améliorer considérablement la situation comme le montrent les éléments chiffrés ci-après : nota voir tableau p.960 Le département de la Guyane a ainsi disposé en 1987 et 1988 de 35 et 37 emplois d'instituteur supplémentaires ; ce nombre a été porté à 55 emplois nouveaux pour 1989. Les constructions scolaires du premier degré, qui relèvent normalement de la seule compétence des communes, continuent, en Guyane (comme dans les autres départements d'outre-mer), d'être partiellement prises en charge par l'Etat. Ainsi, dans le cadre des contrats de plan signés entre l'Etat et les régions, pour la période de 1989 à 1993, 20 MF sont prévus à cet effet, ce qui représente environ le doublement des dotations précédemment attribuées. C'est ainsi que l'enveloppe accordée à la Guyane, à ce titre, pour 1989 s'élève à 6 MF, alors qu'elle était de 2,3 MF en 1987 et en 1988. Cet effort considérable devrait permettre de résorber le retard constaté, notamment par la préscolarisation des enfants de deux et trois ans, lesquels devraient accomplir ultérieurement, de ce fait, une meilleure scolarité.
