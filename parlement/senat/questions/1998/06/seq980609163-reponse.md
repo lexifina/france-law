@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609163
+
+- Question : [SEQ980609163](seq980609163.md) — Etat des populations des communes
+
+## Réponse
+
+*Intérieur, JO du 1998-07-30, page 2485*
+
+Réponse. - Un état exact de la population résidant sur le territoire de chaque commune est établi à l'occasion du recensement général de la population. Le dernier a été réalisé en 1990. Le prochain recensement général de la population qui permettra de disposer de nouvelles populations pour l'ensemble des communes des départements de la métropole et de l'outre-mer, et de la collectivité territoriale de Saint-Pierre-et-Miquelon, aura lieu entre le 8 mars et le 3 avril 1999. Les résultats du dénombrement qui permet d'obtenir des comptages de population (en particulier d'établir une nouvelle population légale) seront disponibles dans le courant du 2e semestre 1999 et le décret authentifiant ces résultats sera publié avant le 31 décembre 1999. Les nouveaux chiffres de population seront, sous réserve de dispositions législatives ou réglementaires contraires, pris en considération pour l'application des lois et des règlements à compter du 1er janvier 2000. Entre deux recensements, il n'est pas prévu de mesure générale permettant d'actualiser la population de toutes les communes. Toutefois des dispositions ont été prises pour réviser la population des communes en expansion rapide. En effet, si la population d'une commune s'accroît rapidement par suite de la réalisation de programmes de construction importants sur son territoire, cette commune peut demander à bénéficier d'un recensement complémentaire. Seules les personnes habitant des logements neufs et résidant dans d'autres communes au dernier recensement sont prises en compte au titre de cet accroissement de population. Il s'agit donc de nouveaux résidents dans la commune.
