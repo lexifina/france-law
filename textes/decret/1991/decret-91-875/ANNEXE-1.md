@@ -180,9 +180,7 @@ Assistant technique.
 
 |
 
-Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret
-
-n° 50-1248 du 6 octobre 1950 modifié).
+Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).
 
 |
 
@@ -382,13 +380,11 @@ Prime de service et de rendement
 
 (décret n° 72-18 du 5 janvier 1972
 
-modifié)
+modifié) et indemnités horaires
 
-et indemnités horaires pour travaux
+pour travaux supplémentaires
 
-supplémentaires (IHTS) (décret
-
-n° 50-1248
+(IHTS) (décret n° 50-1248
 
 du 6 octobre 1950 modifié).
 
@@ -592,7 +588,7 @@ Indemnité de sujétion spéciale (décret n° 91-910 du 6 septembre 1991).
 
 |
 
-Coordinatrice de crèches.
+Coordinatrices territoriales d'établissements et services d'accueil des enfants de moins de six ans.
 
 |
 
