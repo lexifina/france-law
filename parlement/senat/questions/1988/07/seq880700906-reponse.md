@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700906
+
+- Question : [SEQ880700906](seq880700906.md) — Coût des infrastructures en milieu rural et en milieu urbain
+
+## Réponse
+
+*Agriculture, JO du 1988-11-17, page 1283*
+
+Réponse. - Le coût très élevé de l'exode rural au plan des équipements collectifs des zones abandonnées, défavorisées ou en démographie décroissante n'a pas échappé à l'attention des services du ministère de l'agriculture et de la forêt. En tout état de cause, un minimum de qualité des services publics ruraux est assuré, notamment pour retenir les populations des zones économiquement affaiblies. D'autre part, la politique volontariste de revitalisation de ces zones, passant par la création d'activités et d'emplois, impose le maintien de ces sercices publics de base. S'agissant de la comparaison des coûts entre les équipements collectifs urbains et ruraux, il ne semble pas que des études aient été faites compte tenu de la difficulté de comparer des situations différentes notamment celles des zones urbanisées depuis longtemps par rapport à celles qui l'ont été récemment. Il faut cependant signaler : 1° qu'en matière d'alimentation en eau potable, les services duministère de l'agriculture et de la forêt suivent l'évolution des prix de l'eau en milieu urbain et rural et du poids des charges des investissements correspondants au moyen d'enquêtes périodiques, portant sur un échantillon statistique représentatif de collectivités distributrices réparties sur l'ensemble du territoire national ; 2° qu'en matière de collecte et de traitement des ordures ménagères, ces mêmes services veillent au maintien convenable du service public, tenant compte de la complémentarité entre population urbaine et rurale dans le choix des systèmes de collecte et de traitement à l'intérieur d'aires géographiques suffisamment étendues.
