@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112698
+
+- Question : [SEQ951112698](seq951112698.md) — Transport des bagages des agents en poste à Mayotte à l'occasion des congés administratifs
+
+## Réponse
+
+*Outre-mer, JO du 1996-02-08, page 271*
+
+Réponse. - Les dispositions du décret no 50-690 du 2 juin 1950 ont complété le texte original du décret du 3 juillet 1897 portant règlement sur les indemnités de route et de séjour, les concessions de passage et les frais de voyage des fonctionnaires affectés outre-mer. A Mayotte, ces textes anciens ne sont plus applicables qu'en ce qui concerne le congé administratif de six mois séparant deux séjours de deux ans, le régime général des déplacements étant rattaché au droit commun réglé par le décret no 89-271 du 12 avril 1989 fixant les modalités de règlement des frais de changement de résidence entre les départements d'outre-mer et la métropole. A l'occasion du congé administratif interséjour, les fonctionnaires relèvent donc encore du décret du 2 janvier 1950 précité, qui indique une franchise exprimée en tonnage, selon un barème détaillé. Nonobstant les détails pittoresques relevés par l'honorable parlementaire, ce même texte précise sans ambiguïté que ladite franchise est applicable à l'exclusion des objets mobiliers. Cette restriction, appliquée au tonnage précisé par le décret du 2 juin 1950 indique que celui-ci n'est pas un forfait global, mais une limite supérieure que les bagages nécessaires à un retour provisoire ne devraient, en principe, que difficilement atteindre puisque les voyages sont, aujourd'hui, systématiquement effectués par voie aérienne et ne réclament plus l'équipement requis pour une traversée de plusieurs semaines. Afin toutefois de clarifier définitivement cette situation, une refonte complète du décret de 1897 et des textes dérivés est actuellement à l'étude.
