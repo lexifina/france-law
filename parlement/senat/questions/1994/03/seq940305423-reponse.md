@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305423
+
+- Question : [SEQ940305423](seq940305423.md) — Accès des représentants du personnel aux dossiers administratifs des agents des collectivités locales
+
+## Réponse
+
+*Intérieur, JO du 1994-06-16, page 1496*
+
+Réponse. - L'article 35 du décret no 89-299 du 17 avril 1989 prévoit que toutes facilités doivent être données aux commissions administratives paritaires par les collectivités et établissements pour leur permettre de remplir leurs attributions. Communication doit leur être donnée de toutes pièces et documents nécessaires à l'accomplissement de leur mission huit jours au moins avant la date de la séance. Certaines de ces pièces et certains de ces documents peuvent avoir un caractère nominatif. La commission d'accès aux documents administratifs considère qu'" est nominatif le document qui porte une appréciation ou un jugement de valeur sur une personne nommément désignée ". Or la loi no 78-753 du 17 juillet 1978, complétée par la loi no 79-587 du 11 juillet 1979, pose comme principe que seuls les intéressés ont accès aux documents nominatifs les concernant. Ce principe ne saurait toutefois faire obstacle à la communication aux membres d'une commission administrative paritaire de toutes les pièces et de tous les documents de caractère nominatif dont la connaissance est nécessaire à l'exercice de leur mission, l'article 30 de la loi no 84-53 du 26 janvier 1984 donnant compétence aux commissions administratives paritaires pour connaître des questions d'ordre individuel. En revanche, les membres d'une commission administrative paritaire manqueraient à l'obligation de discrétion professionnelle à laquelle ils sont soumis s'ils rendaient publics les pièces et les documents à caractère nominatif qui sont ainsi portés à leur connaissance par l'administration.
