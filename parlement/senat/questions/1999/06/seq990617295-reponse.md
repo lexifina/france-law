@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617295
+
+- Question : [SEQ990617295](seq990617295.md) — Commerce électronique international : conséquences sur les ressources de l'Etat
+
+## Réponse
+
+*Économie, JO du 2000-06-01, page 1959*
+
+Réponse. - Selon la réglementation douanière communautaire, l'importation dans l'Union européenne de marchandises en provenance de pays tiers est soumise à des formalités de dédouanement, qui comprennent, notamment, l'application de droits et taxes. Ces règles s'appliquent à toutes les marchandises, qu'il s'agisse de biens échangés entre entreprises ou de biens acquis par des particuliers à la suite d'achats par correspondance ou par Internet. Le développement du commerce électronique ne présente pas de difficultés nouvelles pour les services douaniers qui ont mis en place des procédures simplifiées et informatisées, permettant de faciliter le dédouanement, tout en améliorant la fiabilité des opérations de contrôle et de taxation. Une démarche de lutte contre la fraude par Internet a par ailleurs été engagée par la direction générale des douanes et droits indirects pour détecter d'éventuels trafics frauduleux portant sur des marchandises prohibées ou fortement taxées. Enfin, l'essor du commerce électronique ne justifie pas la création de taxes spécifiques, mais nécessite le réexamen de certains des principes qui s'appliquent aux impôts existants en vue de garantir la clarté et la neutralité du traitement fiscal. Les règles de TVA doivent notamment être aménagées de telle sorte qu'elles assurent une parfaite égalité de concurrence entre les opérateurs établis dans le pays tiers et les opérateurs établis dans l'Union. Des travaux sont actuellement en cours tant au niveau européen qu'au sein de l'OCDE en vue d'examiner les problèmes spécifiques du commerce électronique et de définir les règles de taxation des opérations tout en évitant des risques de distorsions de concurrence avec d'autres formes de commerce.
