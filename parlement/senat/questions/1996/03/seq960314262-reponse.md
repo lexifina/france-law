@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314262
+
+- Question : [SEQ960314262](seq960314262.md) — Imprimerie braille
+
+## Réponse
+
+*Fonction publique, JO du 1996-04-04, page 817*
+
+Réponse. - L'insertion des personnes handicapées, et en particulier des non-voyants, dans la fonction publique, constitue une des préoccupations du Gouvernement. Ainsi, pour répondre à un souhait largement formulé par les associations de personnes handicapées et relayé par les parlementaires, des efforts en matière d'information, de formation et d'expertise vont être conduits par les administrations afin de faciliter l'accès et l'intégration des handicapés au sein des services. A cette fin, il convient d'encourager le développement de certaines réalisations déjà faites au profit des agents non-voyants pour leur permettre, en particulier, d'accéder à la documentation administrative. Tel est effectivement le cas de l'imprimerie braille située à la sous-préfecture d'Etampes. Aussi bien, le ministère de la fonction publique étudie-t-il actuellement, en liaison avec le ministère de l'intérieur, les modalités à partir desquelles les prestations effectuées par cette imprimerie pourraient, le cas échéant, être étendues à des agents non-voyants relevant d'autres administrations. A cette fin, le Gouvernement a confié conjointement à l'inspection générale de l'administration et à l'inspection générale des affaires sociales, une étude visant à déterminer les besoins potentiels des différents services publics, les modalités techniques de fabrication de ces documents ainsi que leur coût, les structures juridiques et comptables paraissent les mieux adaptées aux objectifs poursuivis, ainsi que les divers partenaires susceptibles d'être associés à ces actions d'information. Le rapport de mission, remis récemment, envisage différentes orientations possibles qui font actuellement l'objet d'un examen attentif.
