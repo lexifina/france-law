@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734280
+
+- Question : [SEQ010734280](seq010734280.md) — Electricité de France
+
+## Réponse
+
+*Industrie, JO du 2001-08-23, page 2763*
+
+La création du " marché intérieur de l'électricité " est intervenue en application de la directive européenne du 18 décembre 1996. Elle a eu pour effet de confronter Electricité de France (EDF) à l'ouverture des marchés européens, qui se traduit par une compétition de plus en plus vive et une tendance à la concentration des grands opérateurs du secteur énergétique. Dans ce contexte, l'ambition légitime de l'établissement est de demeurer l'un des acteurs majeurs de la scène énergétique internationale. Cette ambition a été confortée par le contrat de groupe conclu entre l'Etat et l'entreprise publique pour la période 2001-2003. Elle doit inciter EDF à conclure des partenariats et à acquérir des participations dans des groupes énergétiques, à l'instar des opérations réalisées au cours de ces dernières années, notamment en Grande-Bretagne en Allemagne. L'opération récemment entreprise en Italie, en partenariat avec un groupe industriel italien, s'inscrit dans cette même perspective. Le statut d'établissement public à caractère industriel et commercial, qui est celui d'EDF, est compatible avec les règles de concurrence et avec la possibilité d'acquérir des participations à l'étranger et, dans les directives européennes, rien ne préjuge du caractère public ou privé des entreprises. C'est pourquoi le statut d'EDF a été maintenu par la loi du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité et qui a transposé la directive européenne du 18 décembre 1996. Au demeurant, il n'est pas dans l'intention du Gouvernement d'ouvrir le capital d'EDF, ainsi que le secrétaire d'Etat à l'industrie l'a indiqué à l'Assemblée nationale le 7 février 2001.
