@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700501
+
+- Question : [SEQ970700501](seq970700501.md) — Prise en charge d'un processus d'intégration de la police municipale par le Centre national de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1997-12-25, page 3667*
+
+Réponse. - L'article 17 bis du décret no 97-392 du 22 août 1997, modifiant notamment le décret du 24 août 1994 portant statut particulier du cadre d'emplois des agents de police municipale, prévoit que sont intégrés dans ce cadre d'emplois les fonctionnaires titulaires d'un emploi créé sur la base de l'article L. 412-2 du code des communes, dont les missions relèvent des pouvoirs de police du maire, et qui à ce titre ont été agréés par le procureur de la République et assermentés selon les modalités prévues à l'article R. 250-1 du code de la route. L'article 17 bis prévoit, en outre, que cette intégration est subordonnée à la réussite à un examen professionnel dont les modalités sont fixées par un arrêté du 24 avril 1997. Compte tenu de ces éléments, et notamment de l'agrément accordé par le procureur de la République, il convient de considérer que ces agents présentent les garanties nécessaires à l'exercice des missions qui leur sont confiées. Les fonctionnaires bénéficiant d'une telle mesure d'intégration sont donc titularisés immédiatement dans le cadre d'emplois, sans être astreints à la formation obligatoire de six mois qui ne concerne que les stagiaires issus du concours. S'agissant de l'intervention du Centre national de la fonction publique territoriale dans ce processus, il a été demandé à cet organisme de mettre en place une préparation à l'examen professionnel précité. Enfin, les agents intégrés dans le cadre d'emplois des agents de police municipale pourront bénéficier d'une formation continue relative notamment aux compétences de policiers municipaux, également organisée par le Centre national de la fonction publique territoriale.
