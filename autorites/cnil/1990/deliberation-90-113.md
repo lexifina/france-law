@@ -1,0 +1,19 @@
+# Délibération relative à la demande d'avis présentée par l'assistance publique de Paris concernant la mise en place dans le service de chirurgie générale de l'hôpital Boucicaut d'une messagerie entre praticiens hospitaliers et leurs correspondants.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-113
+- Date : 1990-11-06
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652284
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles ler, 15, 19, 21, 20, 26, 27, 29, 34 et 40 ; Vu l'article 378 du code pénal relatif au secret professionnel ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ; Vu le projet d'acte réglementaire présenté par l'Assistance Publique de Paris ;
+
+Après avoir entendu Monsieur Gérard JAQUET en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ; Considérant que le Directeur de l'Assistance Publique de Paris a saisi la Commission d'une demande d'avis concernant la mise en place d'une messagerie vidéotex dans le service de chirurgie générale de l'hôpital BOUCICAUT ; Considérant que la finalité de l'application est d'établir des liaisons entre les praticiens hospitaliers de ce service et les médecins libéraux correspondants qui en auront manifesté le souhait ; qu'à cet effet, le système permettra, outre des échanges de message de type professionnel, des communications d'informations de nature médicale concernant les patients hospitalisés ou en cours d'hospitalisation ;
+
+Considérant qu'en application des articles 26 et 27 de la loi du 6 janvier 1978, les patients sont informés de l'usage de la messagerie de même que de leur droit d'accès et de rectification qui s'exerce auprès du médecin chef de service, par affichage dans le service de chirurgie générale et dans les cabinets des médecins de ville correspondants ; Considérant que le système fonctionnera sur la base d'un serveur sur micro-ordinateur implanté dans le service hospitalier précité, relié par l'intermédiaire du réseau téléphonique commuté, à des minitels situés chez les praticiens libéraux ; Considérant que l'utilisation dans un système de soins d'un réseau de transmission public et de terminaux de type minitel, comporte un risque important de divulgation d'informations nominatives, de nature à porter atteinte à la vie privée et à l'intimité des personnes concernées ;
+
+Considérant dès lors, que conformément à l'article 29 de la loi du 6 janvier 1978, des mesures particulières de sécurité doivent être prises afin de garantir la confidentialité des données médicales ainsi transmises ; Considérant qu'en l'espèce la procédure d'identification des correspondants et de sécurisation des transmissions repose sur l'utilisation par les différents intervenants, d'un "porte-clé minitel" ; que cette technique offre des garanties similaires à celles de l'ensemble d'une carte à micro-processeur et d'un lecteur de carte ; Considérant que l'utilisation du porte-clé minitel permettra en outre, en l'espèce, de crypter l'identité des patients ; Considérant que l'ensemble du dispositif de sécurité paraît satisfaisant ; qu'il importe toutefois, compte-tenu de son caractère novateur, d'en suivre avec vigilance la mise en application et d'aller se rendre compte sur place des conditions de fonctionnement du système ;
+
+Emet un avis défavorable au projet d'acte réglementaire qui lui est soumis ; Décide de procéder à une mission de contrôle auprès du service de chirurgie générale de l'hôpital BOUCICAUT et d'en charger Monsieur Gérard JAQUET et les agents de la CNIL que le Président désignera à cet effet. Jacques FAUVET.
