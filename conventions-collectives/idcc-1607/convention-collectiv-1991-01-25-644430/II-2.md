@@ -26,7 +26,7 @@ Cette orientation prioritaire s'exercera conjointement avec d'autres domaines en
 
 -formation aux relations publiques et à la publicité, etc.
 
-L'ensemble des entreprises, quel que soit leur effectif, devra consacrer, en plus de l'obligation légale, 0,15 p. 100 de la masse salariale brute à la formation professionnelle, en fonction de l'orientation prioritaire ci-dessus définie.
+L'ensemble des entreprises de 10 salariés et plus devra consacrer, en plus de l'obligation légale, 0,05 % de la masse salariale brute à la formation professionnelle, comme prévu par l'article 16 " Les dispositions financières ", paragraphe a, de l'accord pour l'accès des salariés à la formation tout au long de la vie professionnelle et le renforcement de leurs qualifications, du chapitre IX " Mises à jour et avenants ".
 
 Dès lors que cette priorité aura été respectée, les demandes de formation professionnelle individuelles non satisfaites, à condition qu'elles s'intègrent dans le cadre du plan de formation de l'entreprise, pourront s'imputer sur ce budget.
 
