@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516692
+
+- Question : [SEQ990516692](seq990516692.md) — Formation continue pour tous les enseignants dans leur champ disciplinaire
+
+## Réponse
+
+*Éducation, JO du 2000-05-25, page 1861*
+
+Réponse. - Dans un contexte de forte évolution des missions de l'école et de réforme des divers niveaux d'enseignement au service de la réussite de tous les élèves, la formation continue des personnels enseignants des premier et second degrés constitue un enjeu stratégique. Elle doit permettre, par l'accompagnement des évolutions de la politique éducative, une plus grande efficacité de l'enseignement et, notamment, une diversification des pratiques pédagogiques liée à l'hétérogénéité croissante des publics scolaires. Les données statistiques recueillies au cours des dernières années confirment que 60 %, en moyenne, des 2 200 000 journées-stagiaires réalisées dans le cadre des plans académiques et départementaux sont consacrées aux formations disciplinaires. Depuis la rentrée scolaire 1999, l'effort a particulièrement porté sur la réforme des lycées et la formation des enseignants de seconde générale et technologique aux nouveaux programmes de français, mathématiques et physique ainsi qu'au nouvel enseignement d'éducation civique, juridique et sociale. Des séminaires, des réunions interacadémiques, des actions académiques ont permis d'aborder avec les personnels d'encadrement, les formateurs et les enseignants les implications didactiques et pédagogiques de ces programmes. Dans le même temps, des actions de formation relatives au projet et à la vie de l'établissement, à la diversité des publics, à la prévention des conduites à risque et de la violence sont proposées aux enseignants et aux équipes éducatives. Elles doivent conduire toutes les catégories de personnels à mieux remplir la mission essentielle d'éducation confiée à l'école.
