@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314265
+
+- Question : [SEQ960314265](seq960314265.md) — Service volontaire européen
+
+## Réponse
+
+*Affaires européennes, JO du 1996-05-30, page 1313*
+
+Réponse. - La commission a fait publiquement connaître, le 12 septembre dernier, son projet de " service volontaire européen " dont l'objectif est, en substance, de permettre à des jeunes, sur une base de volontariat, d'effectuer des tâches d'intérêt général dans un autre Etat membre que celui de leur résidence. Ces volontaires devraient travailler en priorité à des actions sociales, dans les quartiers en difficulté, les zones rurales et les régions connaissant des problèmes d'environnement. La France a appelé de ses voeux la mise en oeuvre d'un tel projet qui permette de mobiliser, comme le Président de la République l'a souligné dans le mémorandum pour un modèle social européen présenté au Conseil de Turin, les jeunes qui le souhaitent sur le front de la solidarité et du mieux-vivre. Cette initiative a fait l'objet de discussions entre le commissaire européen en charge de la jeunesse, Mme Edith Cresson, et les ministres concernés des Etats membres ainsi que de plusieurs sessions de travail à Bruxelles au niveau des administrations, afin de définir les modalités de cette action pilote. En effet, comme le souligne l'honorable parlementaire, un certain nombre de points restent à être précisés avant le démarrage effectif de ce programme, tels que la couverture sociale qui pourrait être octroyée à ces jeunes volontaires. S'agissant plus particulièrement de l'articulation avec les programmes de service national obligatoire, militaire ou civil, qui peuvent exister dans les Etats membres, il s'agit d'une question qui mérite d'être approfondie, étant entendu que les définitions des obligations de service national relèvent des compétences des Etats.
