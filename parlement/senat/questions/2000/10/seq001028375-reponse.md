@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028375
+
+- Question : [SEQ001028375](seq001028375.md) — Acceptation de succession sous bénéfice d'inventaire
+
+## Réponse
+
+*Justice, JO du 2001-01-25, page 282*
+
+Réponse. - La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que lorsqu'un héritier a déclaré ne prendre cette qualité que sous bénéfice d'inventaire, cette déclaration doit être précédée ou suivie d'un inventaire revêtant la forme d'un acte notarié. Le notaire qui y procède doit y mentionner tous les biens, deniers, papiers et valeurs laissés par le défunt. Il doit faire toute diligence pour mener à bien sa mission et peut éventuellement se faire assister par un commissaire-priseur pour l'aider à évaluer les biens. S'agissant d'une obligation légale, le notaire ne peut se soustraire à l'élaboration de l'inventaire prescrit par l'article 794 du code civil et il ne peut y suppléer par la production d'un état estimatif dressé par un commissaire-priseur. Il n'est pas porté à la connaissance de la Chancellerie des difficultés en la matière. Toutefois, si un notaire ne respectait pas cette obligation, la chambre des notaires du ressort serait, en matière disciplinaire, compétente pour instruire la plainte de l'héritier. En outre, le notaire qui n'aurait pas établi d'inventaire fidèle et exact dans les formes prévues par la loi, serait susceptible de voir sa responsabilité civile professionnelle engagée si ce manquement devait s'avérer préjudiciable. En effet, la jurisprudence a considéré que l'héritier qui, ayant déclaré accepter sous bénéfice d'inventaire, n'est pas en mesure de produire un inventaire établi dans les formes prévues par la loi, doit être condamné comme héritier pur et simple à l'égard du créancier successoral qui l'a poursuivi. En conséquence, aucune modification textuelle n'apparaît nécessaire.
