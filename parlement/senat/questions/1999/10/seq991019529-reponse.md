@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019529
+
+- Question : [SEQ991019529](seq991019529.md) — Négligence des menaces liées à l'hypertension artérielle
+
+## Réponse
+
+*Santé, JO du 2000-09-28, page 3341*
+
+Réponse. - Les pouvoirs publics sont conscients de la nécessité d'améliorer la prise en charge de l'hypertension artérielle en France. A cet effet des travaux et des actions sont mis en uvre pour améliorer la situation : l'Agence nationale d'accréditation et d'évaluation en santé a publié des recommandations professionnelles concernant le diagnostic et le traitement de cette pathologie. La Caisse nationale d'assurance maladie des travailleurs salariés, en collaboration avec les deux autres principaux régimes d'assurance maladie, a réalisé une étude, commencée en 1999, sur la prise en charge médicale des personnes atteintes d'hypertension artérielle sévère et à ce titre exonérées du ticket modérateur. Il ressort de celle-ci que 47 % des patients ne bénéficient pas d'un contrôle tensionnel optimum. Parmi les malades de moins de soixante ans, en ce qui concerne les diabétiques et les insuffisants rénaux, l'insuffisance du contrôle est particulièrement préoccupante. Cette étude s'est accompagnée d'une campagne de l'assurance maladie vers les médecins traitants : les médecins-conseils des services médicaux ont rencontré 10 000 praticiens pour mieux faire connaître à ceux-ci les principales recommandations de l'ANAES. Parallèlement, par une série d'actions menées dans les régions en direction du public, journées de sensibilisation, stands d'information, l'attention des patients est appelée afin que les personnes s'efforcent de mieux contrôler leur hygiène de vie en portant leurs efforts sur la diminution de la charge pondérale, la limitation importante de la prise d'alcool et l'exercice d'une activité physique suffisante. Le deuxième volet de l'étude sera réalisé au dernier trimestre de l'année 2000 pour évaluer l'impact de cette campagne.
