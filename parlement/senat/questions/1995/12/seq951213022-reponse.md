@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213022
+
+- Question : [SEQ951213022](seq951213022.md) — Réactualisation des montants forfaitaires annuels des redevances dues aux communes
+
+## Réponse
+
+*Fonction publique, JO du 1996-06-27, page 1597*
+
+Réponse. - La réactualisation des montants forfaitaires annuels des redevances dues aux communes pour occupation de leur domaine public par les ouvrages de transport et de distribution d'électricité et de gaz combustible implique une modification des articles R. 374-3 pour les redevances dues par Gaz de France et R. 375-9 du code des communes pour celles dues par EDF. Il s'agit de l'article R. 375-12 pour les redevances dues par l'ensemble des ouvrages établis par un particulier en vertu de permissions de voirie. Les articles R. 375-9 et R. 375-12 du code des communes résultent du décret no 56-151 du 27 janvier 1956 qui n'a jamais été modifié. L'article R. 374-3 relatif au gaz résulte des dispositions du décret no 58-367 du 2 avril 1958. Ces deux décrets sont des mesures d'application de la loi no 53-661 du 1er août 1953 qui a fixé le régime juridique de ces redevances. Lors des discussions relatives à l'élaboration des modèles de cahiers des charges relatifs à la distribution publique de l'électricité et du gaz, le problème de l'actualisation des montants forfaitaires de ces redevances a déjà été soulevé par les représentants des collectivités locales. Si le principe d'une revalorisation des redevances pour occupation du domaine public à des fins privatives ne semble pas rencontrer d'objection majeure, il apparaît toutefois nécessaire de prendre en compte le particularisme des réseaux d'un service public empruntant le domaine public. La création d'un groupe de travail réunissant les partenaires intéressés pourrait être envisagée afin qu'une concertation s'engage sur la modification éventuelle des deux décrets précités.
