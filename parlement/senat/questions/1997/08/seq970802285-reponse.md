@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802285
+
+- Question : [SEQ970802285](seq970802285.md) — Reconnaissance étatique d'une responsabilité des collectivités locales en matière de lutte contre le chômage
+
+## Réponse
+
+*Emploi, JO du 1998-06-18, page 1947*
+
+Réponse. - L'attention de Mme la ministre de l'emploi et de la solidarité est appelée sur la responsabilité des collectivités locales en matière de lutte contre le chômage et sur l'éventualité d'un " droit à l'expérimentation " dans ce domaine. L'action du ministère de l'emploi et de la solidarité en matière de lutte contre le chômage est marquée par la nécessité d'une adaptation optimale de l'action publique aux réalités locales. Ainsi, le programme " nouveaux emplois/nouveaux services " repose sur une mise en uvre locale, en partenariat avec tous les acteurs pertinents, au premier rang desquels les collectivités locales. De même, la généralisation de la globalisation des aides à l'emploi des publics les plus en difficulté vise à sortir d'une logique de guichet et à susciter la définition de plans d'actions locaux, construits sur le fondement d'un diagnostic fin des besoins locaux du marché du travail. L'Etat se doit donc de poursuivre dans le sens d'une plus grande prise en compte des réalités locales, afin de clarifier le sens de son action et de nouer des partenariats clairs avec les collectivités locales. Cependant, il n'est pas souhaitable de susciter des ambiguïtés sur les responsabilités respectives de l'Etat et des collectivités locales dans le domaine de l'emploi. C'est pourquoi la ministre de l'emploi et de la solidarité ne souhaite pas créer un " droit à l'expérimentation " hors du cadre actuel de répartition des compétences. C'est au contraire à partir d'une répartition claire des compétences que des coopérations intelligentes pourront être développées.
