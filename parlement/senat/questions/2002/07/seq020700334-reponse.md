@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700334
+
+- Question : [SEQ020700334](seq020700334.md) — Loi sur l'eau : établissement des périmètres de protection des captages
+
+## Réponse
+
+*Écologie, JO du 2002-11-07, page 2636*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question posée au Premier ministre, relative aux difficultés d'application de la loi du 3 janvier 1992 en ce qui concerne l'établissement des périmètres de protection des captages d'eau. En effet, il n'existe actuellement qu'un faible nombre de captages d'eau potable protégés par des périmètres de protection, alors que la loi sur l'eau de 1964 fixait déjà cette obligation pour tous les nouveaux captages. Fin 2001, 65 % des périmètres ne disposaient pas encore d'une déclaration d'utilité publique. Le rapport de l'instance d'évaluation de " la politique de préservation de la ressource en eau destinée à la consommation humaine ", publié fin octobre 2001 par le commissariat général du plan, a fait un ensemble de propositions pour améliorer cette situation. Ces propositions seront prises en compte dans la concertation générale sur la réforme de la politique de l'eau que la ministre entend mener en 2003 pour mettre au point un nouveau projet de loi sur l'eau et définir les modalités d'application, en France, de la directive cadre européenne sur l'eau, dont l'un des principaux objectifs est de restaurer la qualité des ressources en eau des Etats membres de l'Union européenne à l'horizon 2015. Sans attendre les résultats de cette concertation, en liaison avec le ministère chargé de la santé, le ministère de l'écologie et du développement durable a donné des instructions aux préfets pour qu'ils mobilisent les services de l'Etat concernés et les agences de l'eau pour faire élaborer, en liaison avec les collectivités locales s'y approvisionnant, des plans de gestion des ressources en eaux superficielles les plus dégradées.
