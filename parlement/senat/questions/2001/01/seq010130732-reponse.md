@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130732
+
+- Question : [SEQ010130732](seq010130732.md) — Prévention des accidents de sports et de loisirs
+
+## Réponse
+
+*Jeunesse, JO du 2001-04-12, page 1285*
+
+Réponse. - Dans le cadre de son action concernant les sports et les loisirs, Mme la ministre de la jeunesse et des sports met en uvre de nombreuses dispositions visant à prévenir les accidents de sports et de loisirs, tant par le biais de la qualification et l'adaptation de l'encadrement de ces activités que par l'information des pratiquants et l'aménagement d'un environnement favorable et sécurisant. Concernant plus particulièrement le public mineur, la réglementation actuelle prend en compte les risques spécifiques liés à la pratique des activités physiques et sportives en centres de vacances et de loisirs et fixe des règles d'encadrement en conséquence. Par ailleurs, des travaux sont en cours pour adapter les fonctionnements des centres de vacances et de loisirs à l'évolution des pratiques sociétales, en termes notamment d'accession à l'autonomie des enfants et des jeunes, tout en assurant les conditions de leur sécurité physique et morale. Afin de renforcer l'information et l'éducation du public dès son plus jeune âge sur les multirisques de la vie en société, des rencontres régulières ont lieu avec les organisateurs de centres de vacances et de loisirs pour les sensibiliser aux risques potentiels liés à certaines pratiques et concevoir, avec eux, les moyens de responsabiliser les enfants et les jeunes, de manière progressive, en fonction de leur âge et de leurs capacités. Dans ce même sens, un guide ressource va être élaboré sur les outils pédagogiques accessibles aux animateurs afin d'encourager entre autres l'éducation à la consommation, à la prévention des risques domestiques et à la sécurité routière pendant le temps libre des enfants et des jeunes.
