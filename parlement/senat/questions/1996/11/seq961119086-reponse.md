@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119086
+
+- Question : [SEQ961119086](seq961119086.md) — Non-diffusion des programmes de la chaîne TV5 aux Etats-Unis
+
+## Réponse
+
+*Francophonie, JO du 1997-02-20, page 545*
+
+Réponse. - La chaîne de télévision francophone TV 5 diffuse désormais ses émissions dans le monde entier, sa récente installation sur le satellite Asiasat lui permettant de couvrir l'Asie et l'Océanie. Seuls les Etats-Unis ne disposent pas, à ce jour, d'un véritable programme audiovisuel francophone. La diffusion de programmes en langue française aux Etats-Unis était, en effet, jusqu'en octobre dernier, limitée à un module quotidien de deux heures, en semaine, sur International Channel, canal diffusé auprès de 7 millions de foyers câblés. Depuis octobre 1996 est également diffusée une soirée francophone le samedi, comportant un film de qualité. Comme le souligne l'honorable parlementaire, cette situation n'est pas satisfaisante pour la diffusion de la langue et de la culture françaises. Les ministres responsables de TV 5 (France, Canada, Québec, Suisse, communauté française de Belgique), conscients de l'urgence à répondre à une forte demande d'un public francophone et de la nécessité d'avoir une présence audiovisuelle digne de ce nom dans un pays aussi important que les Etats-Unis, ont décidé, lors de leur dernière conférence qui s'est tenue le 17 octobre 1996 à Montebello (Canada), d'étendre au territoire des Etats-Unis, en l'adaptant, le programme diffusé par TV 5 en Amérique latine. Cette solution permettra, pour un coût relativement modeste, d'offrir à tous les foyers américains qui le souhaitent des programmes en français 24 heures sur 24 assistés de sous-titrages partiels disponibles soit en anglais, soit en espagnol. Ce projet devrait aboutir avant la fin de l'année 1997.
