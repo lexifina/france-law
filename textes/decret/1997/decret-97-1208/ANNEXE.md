@@ -203,3 +203,17 @@ Décisions à caractère financier relatives à l'exécution des décisions de j
 2
 
 Décisions amiables d'indemnisation des préjudices résultant de la mise en oeuvre de la responsabilité de l'Etat à raison de l'activité des services du ministère de la jeunesse et des sports.
+
+Décret n° 2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau.
+
+1
+
+Décision de validation d'une filière d'accès au sport de haut niveau
+
+Article 6
+
+2
+
+Décision d'inscription sur la liste des " pôles France " et des " pôles Espoirs "
+
+Article 9
