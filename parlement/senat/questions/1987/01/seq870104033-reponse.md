@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104033
+
+- Question : [SEQ870104033](seq870104033.md) — Bilan du programme de recherche Aliment 2000
+
+## Réponse
+
+*Agriculture, JO du 1988-04-07, page 456*
+
+Réponse. -Le programme Aliment 2000 a été lancé par le ministère de l'agriculture et le ministère de la recherche et de l'enseignement supérieur pour coordonner et promouvoir les actions de développement technologique dans la transformation agricole et alimentaire pour les années 1986, 1987 et 1988. La qualité du choix des sujets de recherche et des partenaires tant scientifiques qu'industriels a permis aux deux ministères d'apporter au secteur agroalimentaire environ 144 millions de francs sur les deux années 1986 et 1987 pour des programmes de recherche développement. Cet effort a été accompagné par des actions de formation dans le domaine alimentaire et par la priorité donnée dans l'attribution des concours financiers de l'Etat aux programmes d'équipement revêtant un intérêt technologique particulier. De nombreuses opérations ont pu ainsi être menées sur les quatre thèmes principaux retenus pour le programme Aliment 2000 : Nutrition-Toxicologie Alimentaire, Promotion de la qualité des produits, Développement des biotechnologies, Nouvelles techniques de génie industriel agroalimentaire. Les premiers résultats, tels qu'ils ont pu être exposés lors d'un récent colloque, illustrent la réussite de l'action engagée. Cette réussite, marquée notamment par la multiplication des contacts entre chercheurs publics et industriels, a paru suffisamment concluante pour que, dès cette année, le ministère de la recherche et de l'enseignement supérieur fasse de l'alimentation le second de ses programmes nationaux. Le ministère de l'agriculture bénéficiera, quant à lui, d'un accroissement de près d'un tiers des crédits de la ligne recherche développement en industries agricoles et alimentaires pour 1988.
