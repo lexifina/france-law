@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617057
+
+- Question : [SEQ990617057](seq990617057.md) — Enregistrement vidéo de l'audition des mineurs victimes d'agressions sexuelles
+
+## Réponse
+
+*Justice, JO du 1999-12-09, page 4077*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de rappeler à l'honorable parlementaire l'importance des buts poursuivis par les dispositions de la loi du 17 juin 1998 prévoyant l'enregistrement sonore ou audiovisuel des auditions de mineurs victimes d'infractions de nature sexuelle. Il s'agit principalement d'épargner au mineur le traumatisme lié à la multiplication des auditions qui le forcent à revivre, en la décrivant, l'agression subie. L'enregistrement audiovisuel permet également de prendre en considération les élements non verbalisés (attitudes, silences, mimiques...) de l'audition qui peuvent être déterminants pour la compréhension et l'interprétation des réponses de l'enfant. La pertinence de ce dispositif a du reste été soulignée par la commission mixte paritaire parlementaire qui a choisi de le généraliser en le rendant obligatoire alors qu'il ne constituait qu'une faculté dans le projet de loi. Pour mettre en uvre ces nouvelles dispositions, une circulaire a été adressée le 20 avril 1999 aux juridictions. Cette circulaire écarte naturellement toute confusion des rôles et ne confie en aucune manière une fonction de cameraman au magistrat. Il est prévu que les opérations d'enregistrement soient confiées soit à une personne qualifiée requise, soit, de préférence, à un fonctionnaire de la police nationale ou à un militaire de la gendarmerie formé à l'utilisation du matériel vidéo. Par ailleurs, il convient de rappeler que les magistrats en charge de l'affaire peuvent toujours s'opposer à l'enregistrement par une décision motivée.
