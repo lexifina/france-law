@@ -1,6 +1,6 @@
 # Article 238 bis HN
 
-Sont admises en déduction du revenu ou du bénéfice mentionnés respectivement au 2 de l'article 13 et au premier alinéa du I de l'article 209, selon les modalités définies aux articles 163 unvicies ou 217 nonies, les sommes versées au titre de la souscription de parts de copropriété de navires armés au commerce, lorsque les conditions ci-après définies sont remplies (1):
+Sont admises en déduction du revenu ou du bénéfice mentionnés respectivement au 2 de l'article 13 et au premier alinéa du I de l'article 209, selon les modalités définies aux articles 163 unvicies ou 217 nonies, les sommes versées au titre de la souscription de parts de copropriété de navires armés au commerce, lorsque les conditions ci-après définies sont remplies (1) :
 
 a) La souscription est effectuée avant le 31 décembre 2000 ;
 
@@ -25,3 +25,5 @@ Dans le cas où l'une des conditions fixées au a et b et d à h du premier alin
 Lorsqu'un souscripteur autre que l'entreprise visée au f du premier alinéa ne respecte pas l'engagement prévu au c du même alinéa, le montant des sommes déduites est ajouté, selon le cas, au revenu net global de chaque année ou au bénéfice de chaque exercice au cours de laquelle ou au titre duquel les versements ont été effectués.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+Les dispositions du présent article cessent de s'appliquer aux investissements qui n'ont pas fait l'objet d'une demande d'agrément parvenue à l'autorité administrative avant le 15 septembre 1997.
