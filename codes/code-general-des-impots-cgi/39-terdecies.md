@@ -20,4 +20,6 @@ Des liens de dépendance sont réputés exister entre deux entreprises :
 
 3 (Abrogé)
 
-1) Décret à émettre.
+4 Les distributions par les sociétés de capital-risque de produits et plus-values nets éxonérés en application du 3° septies de l'article 208 sont soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à long terme.
+
+(1) Décret à émettre
