@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424156
+
+- Question : [SEQ000424156](seq000424156.md) — Politique québécoise en faveur de la création d'entreprises
+
+## Réponse
+
+*Jeunesse, JO du 2000-06-08, page 2090*
+
+Réponse. - Depuis plusieurs années, l'Office franco-québécois pour la jeunesse (OFQJ) a fait de l'insertion professionnelle des jeunes l'une de ses priorités. De nombreux programmes (formation et emploi, mobilité étudiante, mobilité des jeunes travailleurs...) sont mis en uvre afin de permettre à des jeunes Français et Québécois, à travers une expérience de formation ou de stage dans le pays partenaire, de construire un parcours de formation ou de définir un projet professionnel. Ces dispositifs concernent chaque année environ 2 000 jeunes, soit les deux tiers du public de l'OFQJ. Par ailleurs, des initiatives spécifiques visent à soutenir la démarche entrepreunariale des jeunes : la section québécoise de l'OFQJ a décerné, pour la première fois en 1999, dix bourses dans le cadre du volet franco-québécois du " concours québécois en entrepreneurship " à dix jeunes entrepreneurs de différentes régions du Québec. Ces lauréats remportent un séjour professionnel en France qui leur permettra d'explorer le marché français et éventuellement d'y développer des partenariats commerciaux ; dans le même temps, la section française de l'OFQJ organisait la 2e édition de son concours " talents, parcours d'entreprise " et envoyait ses lauréats au Québec. Dans les deux cas, les secteurs d'activités sont extrêmement variés : boulangerie, mode, illustration, matériel pédagogique, nouveau procédés électroniques ou encore multimédia avec participation au Marché international du multimédia (MIM) de Montréal. L'insertion par l'économique et le soutien à la création d'entreprises par les jeunes en France et au Québec trouvent donc une place importante dans les échanges franco-québécois en matière de jeunesse.
