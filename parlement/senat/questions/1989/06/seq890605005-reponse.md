@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605005
+
+- Question : [SEQ890605005](seq890605005.md) — Allocation d'insertion
+
+## Réponse
+
+*Travail, JO du 1990-01-11, page 79*
+
+Réponse. - La situation évoquée est celle des jeunes demandeurs d'emploi sursitaires âgés de seize à vingt-cinq ans qui effectuent le service national à la fin de leurs études et qui, s'inscrivant à l'A.N.P.E. plus de douze mois après la date de l'obtention de leur diplôme ou de la fin des études, perdent le bénéfice de l'allocation d'insertion. En fait, conformément aux articles L. 351-9 (1°) et R. 351-7 (1°) du code du travail, peuvent percevoir une allocation d'insertion les personnes âgées de seize à vingt-cinq ans qui au moment de leur inscription comme demandeur d'emploi remplissent les conditions suivantes : a) soit, pour ceux de plus de dix-huit ans, avoir accompli depuis moins de douze mois un cycle complet de l'enseignement secondaire ou supérieur ; b) soit, depuis moins de douze mois, être titulaire d'un diplôme de l'enseignement technologique ou avoir achevé un stage de formation professionnelle conduisant soit à un diplôme de l'enseignement technologique homologué, soit à une qualification professionnelle reconnue dans les classifications d'une convention collective de branche ; c) soit avoir accompli le service national depuis moins de six mois ; d) soit avoir la qualité de soutien de famille en apportant effectivement à celle-ci une aide indispensable. En conséquence, avoir suivi un cycle complet d'enseignement supérieur et avoir accompli le service national, constituent deux faits générateurs de droit à l'allocation d'insertion. Lorsque le taux d'indemnisation est le même, seul le plus récent est retenu, à savoir, en l'occurrence, le service national. Il n'y a donc pas lieu, dans ce cas précis, de neutraliser la période du service national pour qu'il y ait une admission au bénéfice de l'allocation d'insertion.
