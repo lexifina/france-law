@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215189
+
+- Question : [SEQ041215189](seq041215189.md) — Harmonisation de la législation relative au bus utilisé pour le ramassage scolaire et les sorties
+
+## Réponse
+
+*Intérieur, JO du 2005-02-03, page 306*
+
+Hormis dans des circonstances très particulières, la réglementation nationale applicable aux transports en commun d'enfants ne pose pas d'obligation en matière d'accompagnement des enfants transportés. Il appartient donc à la personne publique responsable des enfants au moment de leur transport de déterminer les modalités d'encadrement des enfants. Ainsi, le ministère de la jeunesse, de l'éducation nationale et de la recherche a établi des règles d'encadrement des sorties scolaires afin de garantir la sécurité des enfants lors de ces sorties. La circulaire n° 99-136 du 21 septembre 1999, publiée au Bulletin officiel n° 7 du 23 septembre 1999 relative à l'organisation des sorties scolaires exige que les élèves soient encadrés par deux adultes au moins. Ces règles s'appliquent y compris dans le cadre du transport. L'organisation et le financement des transports scolaires (" ramassage " scolaire) relèvent, pour leur part, de la compétence du département et dans les périmètres de transports urbains, de la compétence de l'autorité organisatrice des transports urbains. La responsabilité des transports scolaires et de la surveillance des élèves dans ce cadre ne relève donc pas de la même autorité que pour les sorties scolaires. Elle répond aux exigences fixées par chaque autorité en charge de ces transports scolaires. En tout état de cause, aucune réglementation nationale n'impose l'utilisation de cars spécialisés dans le transports d'enfants et donc une différenciation physique des places réservées aux enfants par rapport à celles des adultes.
