@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801929
+
+- Question : [SEQ020801929](seq020801929.md) — Maintien des pharmacies dans les zones rurales et de montagne
+
+## Réponse
+
+*Santé, JO du 2003-01-30, page 375*
+
+Selon des études récentes, l'activité et la rentabilité des officines rurales se sont développées au cours des deux dernières années. Des statistiques économiques confirment cette tendance en faisant apparaître que le chiffre d'affaires des officines rurales a davantage progressé en 2001 que celui des officines implantées en ville ou dans les centres commerciaux. Les pharmaciens qui exercent dans les zones rurales et de montagne occupent une place essentielle dans le système de soins. Ce sont des partenaires incontournables au service de la santé et il n'apparaît pas que le problème de leur maintien se pose à court terme. En ce qui concerne la réduction sensible des effectifs des professionnels de santé, prévue à l'horizon 2005, elle rend indispensable le développement d'une véritable politique démographique qui réponde aux enjeux de notre époque. Il faut en effet absolument garantir à la population un accès satisfaisant aux professionnels, qu'ils exercent en milieu urbain ou en milieu rural, en cabinet libéral ou au sein des établissements de santé publics ou privés. C'est pourquoi, le ministre de la santé, de la famille et des personnes handicapées, avait mis en place en juillet dernier la mission " Démographie des professions de santé " sous la présidence du doyen Berland. Il vient d'en recevoir le rapport (consultable sur le site du ministère de la santé : www.santé.gouv.fr). Ce rapport comporte une série de propositions dont certaines appellent des décisions urgentes qui seront prises au cours des prochaines semaines et d'autres qui nécessitent des consultations complémentaires.
