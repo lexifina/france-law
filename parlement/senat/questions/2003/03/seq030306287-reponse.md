@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306287
+
+- Question : [SEQ030306287](seq030306287.md) — Financement de l'aide médicale d'Etat
+
+## Réponse
+
+*Affaires sociales, JO du 2003-09-25, page 2895*
+
+L'aide médicale de l'Etat vise à permettre un accès aux soins pour toute personne étrangère en situation irrégulière résidant sur notre sol qui ne peut donc bénéficier du droit commun (assurance maladie ou couverture universelle). Ce principe n'a jamais été remis en cause. Depuis sa mise en place le 1er janvier 2000, le dispositif connaît une évolution extrêmement rapide : le nombre de bénéficiaires a doublé et la dépense correspondante est très largement supérieure aux dotations fixées par les lois de finances depuis sa mise en place. C'est pour ces raisons qu'a été prévue lors du PLF 2003 l'instauration par décret d'un ticket modérateur plafonné et prévoyant cependant que les affections graves, les grossesses et les actes de prévention seraient pris en charge à 100 %. En outre, le Parlement a adopté des dispositions permettant l'accès à la médecine de ville et les enfants mineurs ont été réintégrés dans le dispositif de l'AME. Toutefois, l'état des lieux auquel a procédé la mission de l'inspection générale des affaires sociales à la fin de l'année 2002 met en évidence que les procédures d'admission à l'aide médicale de l'Etat sont fondées le plus souvent sur des déclarations sur l'honneur. De même, ce rapport constate que le recours fréquent à la procédure d'admission immédiate empêche de contrôler les dossiers de manière satisfaisante. Or l'aide médicale de l'Etat ne peut pas être attribuée en dehors de toute vérification des conditions de résidence en France et de ressources prévue par la loi. C'est pourquoi le Gouvernement souhaite améliorer le contrôle de ce dispositif sans remettre en cause le principe essentiel de l'accès aux soins pour tous.
