@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890805956
+
+- Question : [SEQ890805956](seq890805956.md) — Doubles nationaux français et soviétiques résidant en Arménie
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-02-08, page 269*
+
+Réponse. - Comme le sait l'honorable parlementaire, le Gouvernement français s'emploie à défendre et à promouvoir les droits de l'homme, en particulier celui de la libre circulation des personnes, conformément aux différents engagements pris dans le cadre de la C.S.C.E. et notamment aux dispositions du document de clôture de la réunion de Vienne. S'agissant des familles de doubles nationaux français et soviétiques résidant en Arménie, leur situation souvent dramatique à la suite du séisme survenu dans cette région, a fait et continue de faire l'objet d'une attention particulière et d'une action soutenue de la part des autorités françaises, action qui a permis de trouver une issue heureuse dans la plupart des cas. C'est ainsi que le cas de Mme Solovieva, épouse Robailo, a pu être résolu dès l'automne 1989. Dès la remise d'un passeport soviétique, l'intéressée s'est vu délivrer un visa de long séjour par notre ambassade en U.R.S.S. et a pu se rendre en France. S'agissant des trois familles Tchakerian (comprenant en tout treize personnes), les intéressés qui ont reçu en décembre 1989 l'autorisation de quitter l'U.R.S.S. doivent arriver en France dans le courant du mois de janvier 1990. Enfin, M. et Mme Koulakian ayant obtenu, au début de l'année, un passeport pour se rendre à l'étranger, devraient arriver prochainement en France où ils seront hébergés par les soins du comité d'entraide aux Français rapatriés. Il reste, à la connaissance du ministère des affaires étrangères, trois cas de binationaux français et soviétiques résidant en Arménie pour lesquels une solution heureuse n'a pas encore été trouvée. Il va de soi que les autorités françaises continuent de prêter, au règlement de ces cas, toute l'attention qu'ils méritent.
