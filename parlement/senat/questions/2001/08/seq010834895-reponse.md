@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010834895
+
+- Question : [SEQ010834895](seq010834895.md) — Choix d'une langue relais européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2002-02-14, page 453*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la proposition d'adopter une seule langue relais pour faire face aux difficultés de traduction auxquelles le Parlement européen sera confronté dans une Europe à 27 membres. La réflexion sur l'adoption de plusieurs langues relais pour faciliter le travail de traduction et d'interprétation est à l'évidence nécessaire. Le prochain élargissement de l'Union va porter de 11 à 21 le nombre des langues officielles de l'Union. Les institutions européennes emploient d'ores et déjà plus de 3 000 traducteurs et 820 interprètes. L'introduction d'une nouvelle langue implique le recrutement de 40 interprètes supplémentaires. Si aucune mesure n'est entreprise, l'accroissement prévisible des coûts et les difficultés logistiques qui ne manqueront pas de se poser risquent, paradoxalement, de mettre en péril le plurilinguisme, qui est un des fondements de la construction européenne et auquel la France est particulièrement attachée. Le recours au système des langues relais, à partir desquelles une seconde interprétation ou traduction sera effectuée vers les autres langues, doit donc être envisagé. Il va de soi que les efforts de rationalisation devront aller de pair avec une promotion active du plurilinguisme car la diversité linguistique fait partie de l'identité européenne et de la légitimité du système institutionnel de l'Union. En outre, l'expérience a montré que toute tentative visant à instaurer un régime discriminatoire ferait sans nul doute le jeu de l'unilinguisme. Les autres propositions du rapport PODESTA sont actuellement à l'étude. En tout état de cause, les autorités françaises accorderont une extrême attention aux suites qui leur seront données.
