@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108596
+
+- Question : [SEQ871108596](seq871108596.md) — Situation sociale des directeurs d'écoles privées
+
+## Réponse
+
+*Éducation, JO du 1987-12-24, page 2011*
+
+Réponse. -Dans les premières années d'application de la loi n° 59-1557 du 31 décembre 1959, la question a déjà été posée de savoir si l'Etat devait tenir compte, pour le calcul de la rétribution des maîtres des écoles privées sous contrat qui assurent des fonctions de direction, de l'avantage indiciaire dont les directeurs des écoles publiques bénéficiaient déjà. Dans deux arrêts rendus le 13 juillet 1966 (arrêt Guyomard) et le 5 octobre 1966 (arrêt Demoy), se fondant sur l'article 5, 1er alinéa, de la loi du 31 décembre 1959, qui n'a pas été modifié depuis lors, le Conseil d'Etat a jugé que " ... la rénumération due par l'Etat à un maître... est celle afférente au service accompli par ce maître dans la ou les classes faisant l'objet du contrat ; que ce service ne peut être qu'un service d'enseignement... ". Par ailleurs l'article 119-I de la loi de finances pour 1985 (loi n° 84-1208 du 29 décembre 1984) dispose que " le montant des crédits affectués à la rénumération des personnels enseignants des classes faisant l'objet d'un des contrats prévus aux articles 4 et 5 de la loi n° 59-1557 du 31 décembre 1959 modifiée, au titre de leurs tâches d'enseignement, est déterminé chaque année pour la loi de finances ". Ainsi les lois en vigueur, et la jurisprudence du Conseil d'Etat, ne semblent pas permettre d'étendre par la voie réglementaire aux directeurs des écoles privées les avantages prévus par le nouveau statut de maître directeur des écoles primaires publiques. Cependant, comme le ministre de l'éducation nationale l'a indiqué au Sénat lors du débat budgétaire, une commission sera constituée pour examiner les différents aspects de ce problème.
