@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716298
+
+- Question : [SEQ910716298](seq910716298.md) — Egalité entre l'homme et la femme pour la transmission du nom patronymique
+
+## Réponse
+
+*Premier ministre, JO du 1992-05-28, page 1209*
+
+Réponse. - Lors de la journée internationale de la femme, le 8 mars 1982, François Mitterrand avait en effet cité, parmi les réformes à entreprendre dans le cadre du code civil, celle de la transmission du nom au même titre que celles de la gestion des biens communs et de la gestion des biens propres des enfants. Un projet de loi relatif à l'égalité des époux dans les régimes matrimoniaux et des parents dans la gestion des biens des enfants mineurs a été déposé en 1985 à l'Assemblée nationale par le Gouvernement. Les débats parlementaires d'alors ont fait apparaître la complexité de la question ainsi que des réponses à y apporter et, à l'époque, le Parlement a rejeté une réforme du système de la transmission du nom pour adopter la disposition relative au nom d'usage qui permet à toute personne majeure ou mineure d'ajouter à son nom, à titre d'usage, le nom du parent qui ne lui a pas été transmis (art. 43 de la loi n° 85-1372 du 23 décembre 1985, Journal officiel du26 décembre 1985). Prenant acte de cette volonté du Parlement, le secrétariat d'Etat aux droits des femmes et à la consommation concentrera son action sur l'application des dispositions relatives au nom d'usage. Afin de garantir l'égalité entre femme et homme en tous les domaines, il est souhaitable notamment de développer l'information sur le nom des époux ; en direction du grand public, en premier lieu (les femmes comme les hommes ignorent, le plus souvent, qu'il n'existe aucune obligation d'utilisation du nom du conjoint) et, en second lieu, en direction des personnels d'organismes publics, para-publics, privés, qui, en systématisant une faculté (l'usage du nom de l'époux) ne traitent pas égalitairement femmes et hommes.
