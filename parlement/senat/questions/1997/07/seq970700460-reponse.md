@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700460
+
+- Question : [SEQ970700460](seq970700460.md) — Evaluation de la loi relative à la lutte contre le tabagisme et l'alcoolisme
+
+## Réponse
+
+*Emploi, JO du 1998-01-08, page 98*
+
+Réponse. - L'évaluation de la loi du 10 janvier 1991 relative à la lutte contre le tabagisme et l'alcoolisme est conduite par une commission restreinte et pluridisciplinaire mise en place le 24 mars 1997, sous l'égide du commissariat général du Plan, chargé de coordonner le dispositif interministériel d'évaluation des politiques publiques. M. Guy Berger, président de chambre à la Cour des comptes assure la présidence de l'instance, Mme le docteur Anne-Chantal Rousseau, inspecteur à l'inspection générale des affaires sociales, en est le rapporteur général. La commission est composée des représentants des principaux ministères concernés, de personnalités qualifiées, d'un représentant du Haut Comité de la santé publique, d'un représentant d'une association de consommateurs, ainsi que de deux élus. Le commissariat général du Plan apporte un appui méthodologique et logistique pour les études, enquêtes et auditions nécessaires à l'évaluation. Il s'agit d'estimer l'impact des dispositions de la loi sur les comportements ainsi que sur les secteurs d'activités concernés. Dans un premier temps, l'instance a rédigé un cahier des charges des travaux à commander à des équipes de chercheurs. Les résultats des études et enquêtes devraient être disponibles en juin 1998. Parallèlement, il a été procédé à des auditions d'experts et chercheurs travaillant dans le domaine de la santé publique sur les problèmes liés à la consommation d'alcool et de tabac. La seconde étape des travaux de l'instance consiste en la poursuite des auditions et, notamment, des professions et associations concernées par les mesures contenues dans la loi. L'instance rendra ses conclusions à l'automne 1998 au plus tard.
