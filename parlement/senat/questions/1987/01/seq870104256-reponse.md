@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104256
+
+- Question : [SEQ870104256](seq870104256.md) — Ecoles de musique en milieu rural
+
+## Réponse
+
+*Culture, JO du 1987-06-25, page 1002*
+
+Réponse. -Dans le cadre de la politique mise en oeuvre par le Gouvernement en faveur des enseignements artistiques, le développement de l'enseignement de la musique constitue l'un des objectifs prioritaires des actions conduites par le ministre de la culture et de la communication. L'Etat intervient financièrement de manière régulière au profit de 124 conservatoires nationaux de régions et écoles nationales de musique, dont certaines, départementales, ont été spécialement adaptées au milieu rural. Ces établissements constituent des pôles de développement pour l'ensemble des écoles municipales. Le ministère entend soutenir par ailleurs certaines actions significatives en faveur des écoles municipales ; maintenir les montants attribués au titre de l'enseignement et de la formation dans le cadre des crédits déconcentrés a pour finalité d'aider les initiatives locales dans ce domaine ; aider au démarrage ou à la réorganisation d'écoles locales (notamment dans le cadre d'une coopération intercommunale) ; aider à l'organisation de rencontres pédagogiques locales et de stages locaux de formation continue des professeurs des écoles de musique ; ces stages devraient permettre aux professeurs de musique de passer le diplôme d'Etat, garantie de qualité instrumentale et pédagogique. Par ailleurs, le ministre de la culture et de la communication souhaite conclure de nouvelles conventions de développement culturel avec des communes et des départements. Leur contenu devra porter en priorité sur la mise en valeur du patrimoine et sur l'éducation artistique. Ces conventions pourront ainsi contribuer au développement de l'enseignement musical en milieu rural.
