@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314875
+
+- Question : [SEQ990314875](seq990314875.md) — Responsabilité des enseignants
+
+## Réponse
+
+*Éducation, JO du 1999-05-06, page 1501*
+
+Réponse. - Dans un contexte de fort développement du recours à des procédures pénales, il est effectivement important d'éviter un phénomène de paralysie qui conduirait les membres de l'enseignement à prendre le moins d'initiatives possible, afin de réduire les risques encourus. C'est pourquoi, lors de la conférence de presse du 17 février 1999, au cours de laquelle a été présenté le rapport de l'inspection générale de l'administration de l'éducation nationale faisant le bilan, après un an d'application, des nouvelles instructions relatives aux sorties scolaires dans les écoles maternelles et élémentaires publiques, Mme la ministre déléguée chargée de l'enseignement scolaire a indiqué qu'elle reste attachée à l'organisation de sorties scolaires, tout en étant très vigilante quant à la mise en jeu de la responsabilité pénale des enseignants. C'est dans ce but que deux groupes de travail comprenant notamment des représentants des trois principaux syndicats du premier degré et des deux principales fédérations de parents d'élèves ont été mis en place. Le travail du premier groupe s'articulera autour des recommandations contenues dans le rapport de l'inspection générale et consistera à approfondir la valeur et le contenu des sorties scolaires au regard des objectifs de l'école. Le second groupe devra amener une réflexion d'ensemble qui permettra de préciser les règles de responsabilité applicables en matière d'accidents scolaires, compte tenu des inquiétudes croissantes et légitimes des membres de l'enseignement de voir leur responsabilité pénale recherchée pour des faits involontaires, commis à l'occasion de l'accomplissement de leurs fonctions.
