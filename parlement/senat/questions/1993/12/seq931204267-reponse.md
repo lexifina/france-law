@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204267
+
+- Question : [SEQ931204267](seq931204267.md) — Atteinte à l'intégrité sexuelle sur mineur et prescription triennale
+
+## Réponse
+
+*Justice, JO du 1994-03-17, page 605*
+
+Réponse. - En application des articles 7 et 8 du code de procédure pénale, l'action publique se prescrit par dix ans en matière criminelle et trois ans en matière correctionnelle. Toutefois, par exception à la règle de la prescription décennale, lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorisé sur elle, l'alinéa 3 de l'article 7 prévoit que ce délai est réouvert ou court nouveau au profit de la victime, pour la même durée, à partir de sa majorité. Cette exception concerne en particulier les faits de viol. L'adoption d'une exception similaire pour les délits commis sur un mineur seraient ainsi visés les faits d'attentats à la pudeur de même que l'assimilation de cette infraction à un crime au regard de la prescription, pourraient être envisagées. Il n'est toutefois pas certain que ces modifications permettraient une répression plus efficace de ces agissements particulièrement odieux. De telles dispositions permettraient en effet l'engagement de poursuites de très longues années après la commission des faits. La preuve de ceux-ci deviendrait alors difficile à rapporter, ce qui permettrait à leur auteur présumé de bénéficier d'un non-lieu ou d'une relaxe, aggravant ainsi la douloureuse situation des victimes. Il paraît dès lors préférable que les parquets s'attachent en cette matière à obtenir un meilleur signalement de ces infractions. Ainsi se trouvera véritablement renforcée la protection des mineurs, qui constitue, comme le démontrent les dispositions de la loi du 1er février 1994 instituant une peine incompressible, une des priorités gouvernementales.
