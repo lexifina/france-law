@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008060
+
+- Question : [SEQ941008060](seq941008060.md) — Aide à la scolarité
+
+## Réponse
+
+*Affaires sociales, JO du 1994-11-17, page 2716*
+
+Réponse. - L'article 23 de la loi du 25 juillet 1994 relative à la famille crée une aide à la scolarité attribuée sous condition de ressources pour chaque enfant scolarisé de onze à seize ans. Cette prestation, financée par l'Etat, répond à une volonté de maîtrise des finances publiques et de simplification. La complexité du dispositif des bourses se traduisait, en effet, par un coût exorbitant par rapport aux aides accordées, soit 250 francs pour un montant moyen de bourse de 650 francs. Le versement de la nouvelle aide par les caisses d'allocations familiales constituera également une mesure de simplification : les familles n'auront aucune démarche spécifique à effectuer, les caisses disposant des éléments d'information nécessaires (âge de l'enfant, ressources des parents) pour identifier les familles bénéficiaires. D'autre part, le ministre d'Etat tient à souligner que l'aide à la scolarité sera revalorisée comme les prestations familiales et progressera ainsi conformément aux prix. En 1994, près d'un million d'enfants devraient en bénéficier. De plus, l'article 23 précité prévoit un dispositif permettant de garantir aux bénéficiaires d'une bourse durant l'année scolaire 1993-1994 le versement d'une allocation exceptionnelle servie par le ministère de l'éducation nationale et destinée à compléter, pour l'année scolaire 1994-1995, l'aide à la scolarité si le montant de celle-ci était inférieur à celui de la bourse antérieurement reçue. Ces dispositions législatives, ainsi que la création envisagée dans le cadre du " Nouveau contrat pour l'école " d'un fonds social collégien, devraient permettre de traiter, au cas par cas, la situation des familles en difficulté.
