@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870706910
+
+- Question : [SEQ870706910](seq870706910.md) — Garanties des emprunts aux organismes d'HLM pour la réalisation de leurs opérations de constructions à usage locatif
+
+## Réponse
+
+*Équipement, JO du 1987-08-13, page 1293*
+
+Réponse. -Depuis le 1er janvier 1986, la Caisse des dépôts et consignations (C.D.C.) distribue directement les prêts locatifs aidés (P.L.A.) aux organismes d'H.L.M. et sociétés d'économie mixte (S.E.M.), au vu de la décision favorable émise par lereprésentant de l'Etat dans le département. La C.D.C. doit obtenir une garantie de la part d'une ou plusieurs collectivités locales, d'une chambre de commerce et d'industrie (C.C.I.) dûment habilitée par leur ministre de tutelle, ou de la caisse de garantie du logement social (C.G.L.S). La garantie de la C.G.L.S. peut être sollicitée lorsque la C.D.C. estime insuffisamment fiable celle apportée par une collectivité locale - trop petite au regard du financement à garantir, ou trop endettée - ou lorsque l'organisme ne peut ou ne veut obtenir la garantie d'une collectivité. Les critères de la décision de la C.G.L.S. ont été explicités par la circulaire n° 86-81 du 28 novembre 1986 publiée dans le Bulletin officiel du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports du 19 décembre 1986 : position des collectivités locales et C.C.I. concernées par la garantie ; équilibre financier de l'opération envisagée : santé financière de l'organisme. Ainsi, la situation financière d'une commune peut-elle jouer un rôle dans une demande de garantie faite à l'initiative de la C.D.C. auprès de la C.G.L.S., mais ne pourra, en aucun cas, être un motif de refus de garantie par cette dernière. Le principe d'autonomie des collectivités locales ne semble donc pas remis en cause par les nouvelles règles de fonctionnement de la C.G.L.S. telles que définies par l'arrêté du 4 septembre 1986.
