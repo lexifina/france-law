@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213055
+
+- Question : [SEQ951213055](seq951213055.md) — Réforme tarifaire des abonnements téléphoniques professionnels
+
+## Réponse
+
+*Poste, JO du 1996-02-22, page 421*
+
+Réponse. - L'honorable parlementaire évoque la création, par France Télécom, d'un contrat professionnel présence conçu pour les clients disposant de trois lignes et plus par site. Le tarif de l'abonnement de ce contrat, proposé par France Télécom, a été homologué par mes services et ceux du ministère de l'économie et des finances pour être applicable le 1er septembre 1995. Il correspond à l'adaptation de l'offre de l'entreprise aux besoins de sa clientèle, avec l'amélioration des prestations fournies, ainsi qu'à une meilleure orientation des prix vers les coûts. Cette mesure concerne l'ensemble des utilisateurs, y compris les collectivités locales, disposant de trois lignes et plus par site. Il convient à cet égard de rappeler le principe d'égalité de traitement, principe affirmé dans le cahier des charges de France Télécom. De plus, ce rééquilibrage s'accompagne en outre d'un effort de simplification : alors que par le passé coexistaient différents abonnements selon le type de ligne, ce nouveau contrat correspond désormais à un tarif unique d'abonnement par ligne (65 francs hors taxes par mois). Ces évolutions sont conformes aux orientations du contrat de plan signé entre l'Etat et France Télécom et s'inscrivent dans un contexte de baisse globale des tarifs : l'évolution du prix du téléphone et des liaisons louées sera inférieure en moyenne, sur la période 1995-1998, de 5,25 p. 100 à l'évolution des prix à la consommation. La mise en oeuvre de cet abonnement relève de la responsabilité de France Télécom. A ce titre, France Télécom conseillera les utilisateurs pour optimiser la desserte de leur installation en fonction de leur besoin en trafic.
