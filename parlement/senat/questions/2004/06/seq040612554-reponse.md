@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612554
+
+- Question : [SEQ040612554](seq040612554.md) — Sécurité des vêtements pour bébés
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2004-07-29, page 1734*
+
+La confection de vêtements pour bébés et enfants ne relève pas en matière de sécurité, et notamment en ce qui concerne les risques d'arrachage et d'ingestion de petits accessoires tels que les boutons et les agrafes, d'une réglementation particulière. Ces articles doivent répondre à l'obligation générale de sécurité prévue par le code de la consommation. L'article L. 221-1 précise ainsi que les produits et les services doivent, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel présenter la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. Pour prévenir tout risque d'étouffement susceptible de survenir à la suite de l'avalement d'un petit élément détachable par un bébé ou un très jeune enfant, les professionnels peuvent se référer à la norme NF EN 71-1 - sécurité des jouets - partie 1 : propriétés mécaniques et physiques (publiée en décembre 1998). Ce référentiel prévoit en effet des essais de dimension, de traction et de torsion, qui peuvent servir à évaluer le risque d'avalement et la résistance des petits éléments détachables des vêtements pour enfants. Dans le cadre de sa mission de surveillance de la sécurité des produits industriels et plus généralement du respect des règles tenant à la protection des consommateurs, la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) mène régulièrement des enquêtes dans le secteur du textile-habillement afin de vérifier la qualité et la sécurité des produits mis sur le marché.
