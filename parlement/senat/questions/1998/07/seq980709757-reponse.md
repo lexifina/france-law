@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709757
+
+- Question : [SEQ980709757](seq980709757.md) — Rapport sur la toxicité de l'alcool
+
+## Réponse
+
+*Santé, JO du 1999-03-25, page 990*
+
+Réponse. - La toxicité de l'alcool, soit du fait d'une consommation régulière excessive, soit du fait d'une consommation aiguë conduisant à l'ivresse, n'est pas une donnée scientifique nouvelle. La fréquence très importante des hospitalisations provoquées ou aggravées par une consommation d'alcool excessive, et les 50 000 décès liés chaque année à la toxicité de l'alcool, directement, par cirrhose hépatique, psychose alcoolique ou cancer des voies aérodigestives supérieures, ou indirectement, notamment du fait d'accidents de voiture, de suicides, de l'aggravation de pathologies, sont des faits connus depuis de très nombreuses années. Par ailleurs, les conséquences sociales importantes, tant au niveau familial que professionnel, font de la consommation excessive de l'alcool un danger potentiel à long terme pour les personnes. Ce rappel d'une réalité sur laquelle depuis plus d'un siècle de grands scientifiques et de nombreuses associations attirent régulièrement l'attention ne vise pas à diaboliser la consommation d'alcool, mais bien à faire prendre conscience de la nécessité de poursuivre et d'amplifier les actions d'éducation pour permettre au plus grand nombre de maintenir leur consommation d'alcool dans des limites compatibles avec le respect de leur santé, physique, psychologique et sociale, et à améliorer la réponse sanitaire pour prendre en charge les personnes en difficulté importante du fait de leur consommation d'alcool. La transformation des centres d'hygiène alimentaire en établissements médico-sociaux, centre de cure ambulatoire en alcoologie, financés par l'assurance maladie depuis le 1er janvier 1999, va dans le sens de l'amélioration et de l'intégration de ces prises en charge dans les dispositifs de droit commun.
