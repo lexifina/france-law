@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214283
+
+- Question : [SEQ990214283](seq990214283.md) — Ouverture le dimanche de certaines activités commerciales
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-05-20, page 1702*
+
+Réponse. - Le principe de la réglementation relative au repos hebdomadaire des salariés est celui du repos dominical. Le respect de ce principe, posé à l'article L. 221-5 du code du travail, constitue une règle protectrice non seulement des salariés mais de nombreux équilibres de la vie sociale : équilibre entre vie familiale et vie professionnelle, équilibre entre les différents types de commerce, équilibre entre les souhaits des consommateurs et les conditions de travail des salariés. Il ne paraît pas souhaitable de remettre en cause la règle du repos dominical, avant tout destinée à la protection des salariés et de leur vie familiale. Il est nécessaire cependant de rappeler qu'il existe de nombreuses dérogations à la règle. Les premières sont accordées de plein droit et de façon permanente à une série de professions et d'industries limitativement énumérées par le code du travail. Les autres, à caractère temporaire, ont été élaborées afin de permettre l'adaptation du principe à la situation particulière de chaque commerçant et aux évolutions de la vie sociale. C'est ainsi qu'il existe des dérogations individuelles (art. L. 221-6, L. 221-7 et L. 221-8-1 du code du travail) ou collectives (art. L. 221-19), destinées à s'accorder aux particularités de certaines situations, zones géographiques ou périodes de l'année. Ces régimes dérogatoires sont fondés sur la satisfaction des besoins de la population au cours du dimanche et permettent une modulation du principe du repos dominical en faveur de l'activité commerciale. L'ensemble de ces dispositions constitue un ensemble cohérent et équilibré au regard des exigences sociales et commerciales de notre société. Il ne paraît pas souhaitable de le modifier.
