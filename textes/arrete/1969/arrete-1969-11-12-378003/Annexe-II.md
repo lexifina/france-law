@@ -10,7 +10,7 @@ A. — Préfecture de police.
 
 2. Infirmière de l'inspection générale des services techniques d'hygiène.
 
-3. Service des explosifs du laboratoire central : ingénieur en chef, ingénieurs et ingénieurs adjoints et techniciens.
+3. Service des explosifs du laboratoire central : ingénieur en chef, ingénieurs et ingénieurs adjoints, techniciens principaux et techniciens.
 
 4. Laboratoire de toxicologie: ingénieurs, aides techniques principaux, aides techniques et aides de laboratoire.
 
