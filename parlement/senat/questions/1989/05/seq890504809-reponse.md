@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504809
+
+- Question : [SEQ890504809](seq890504809.md) — Régime d'exonération des bénéfices en matière de création d'entreprises nouvelles
+
+## Réponse
+
+*Budget, JO du 1989-09-14, page 1496*
+
+Réponse. - L'article 14 de la loi de finances pour 1989 a pour objet de faciliter la création d'entreprises qui exercent une activité réellement nouvelle. Les avantages qu'il prévoit permettent à ces entreprises, qui sont soumises à des risques plus importants, d'améliorer leurs fonds propres et contribuent ainsi à assurer leur pérennité. L'application de ces avantages à des entreprises qui reprennent ou prolongent des activités préexistantes n'aurait pas les mêmes justifications et porterait atteinte à l'égalité de la concurrence. C'est pourquoi le texte adopté par le Parlement écarte du dispositif les sociétés créées dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités préexistantes ou qui reprennent de telles activités ainsi que les sociétés détenues directement ou indirectement pour plus de 50 p. 100 par d'autres sociétés. Il n'est donc pas envisagé d'aménager l'article 44 sexies du code général des impôts ni d'assouplir ses modalités d'application dans le sens souhaité par l'honorable parlementaire. Cela étant, ces dispositions permettent d'associer des partenaires financiers extérieurs à hauteur de la moitié du capital de l'entreprise et des professionnels pour l'autre moitié sous réserve que ces derniers n'exercent pas des fonctions dans des sociétés dont l'activité est similaire ou complémentaire à celle de l'entreprise nouvelle ou des fonctions de direction dans une autre société. D'autre part les entreprises qui ne remplissent pas les conditions bénéficient des mesures prises en vue d'alléger les charges de toutes les entreprises et en particulier la réduction du taux de l'impôt sur les sociétés et de la baisse de certains droits d'enregistrement.
