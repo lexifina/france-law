@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633878
+
+- Question : [SEQ010633878](seq010633878.md) — Situation politique au Tchad
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-08-09, page 2595*
+
+En dépit de certains dysfonctionnements, la mise en place du matériel électoral et les opérations de vote se sont déroulées de façon satisfaisante, lors du scrutin présidentiel du 20 mai, selon l'avis de la trentaine d'observateurs internationaux. Aucun débordement majeur n'a été signalé. Après l'examen des recours, le Conseil constitutionnel a proclamé le 13 juin les résultats définitifs confirmant la réélection de M. Idriss Deby au premier tour. Des tensions sont apparues dans l'attente des résultats définitifs : les six candidats à l'élection présidentielle ont été arrêtés temporairement et molestés, tandis qu'un jeune militant était tué. Une manifestation de femmes devant l'ambassade de France a été également sévèrement dispersée. La France a appelé publiquement les autorités et les représentants de l'opposition à la retenue. Toutes les personnes arrêtées ont été relâchées. La France s'est associée à la rédaction de la déclaration de l'Union européenne du 21 juin dernier, qui a pris acte des résultats définitifs de l'élection présidentielle en regrettant les nombreuses carences dans l'organisation du scrutin et les irrégularités qui s'en sont suivies. La France partage les inquiétudes exprimées par l'Union européenne quant à la limitation de certaines libertés durant la période électorale et l'utilisation de la force pour la dispersion de manifestations citoyennes. Elle demeure, avec ses partenaires européens, attentive aux mesures prises pour assurer un progrès dans l'organisation des scrutins prévus en 2002 et poursuit sa coopération bilatérale visant à améliorer l'état de droit et le respect des libertés publiques au Tchad.
