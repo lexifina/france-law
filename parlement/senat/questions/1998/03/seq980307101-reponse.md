@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307101
+
+- Question : [SEQ980307101](seq980307101.md) — Réglementation applicable aux élevages piscicoles
+
+## Réponse
+
+*Agriculture, JO du 1998-07-16, page 2310*
+
+Réponse. - Un projet de recommandation concernant le bien-être des poissons d'élevage a été présenté par le Royaume-Uni, lors de la 34e réunion du comité permanent de la Convention sur la protection des animaux dans les élevages du Conseil de l'Europe à Strasbourg en octobre 1997. Ce projet prévoit des normes de densité pour les truites et les saumons ainsi que des pratiques d'élevage incompatibles avec les réalités économiques actuelles de la filière française, premier producteur de truites européen. A la demande de la délégation française, formulée lors de la présentation de ce projet, le Comité permanent précité a reconnu que des négociations ne pourraient s'envisager qu'après obtention de résultats scientifiques objectifs sur le sujet. Une étude réalisée par l'INRA, le CNEVA et l'IFREMER est actuellement cofinancée par les pouvoirs publics afin de disposer de tels résultats. De plus, une enquête sera très prochainement réalisée par le ministère de l'agriculture et de la pêche afin de bien identifier et quantifier les pratiques françaises en matière d'élevage piscicole. Plusieurs réunions de concertation et d'information regroupant les scientifiques, les professionnels et les représentants de l'administration ont déjà été organisées afin d'anticiper les négociations à venir. Lors de ces négociations, la démarche adoptée par la France lors des discussions relatives au bien-être des autres espèces animales sera poursuivie, dans le sens de la promotion de solutions équilibrées entre les impératifs de protection de l'animal et l'intérêt des consommateurs, notamment les moins aisés qui souhaitent se procurer des produits de qualité à des prix abordables.
