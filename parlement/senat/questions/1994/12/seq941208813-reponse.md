@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208813
+
+- Question : [SEQ941208813](seq941208813.md) — Situation des pilotes chômeurs
+
+## Réponse
+
+*Travail, JO du 1995-04-13, page 906*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre du travail, de l'emploi et de la formation professionnelle sur les inquiétudes de l'Association générale des élèves pilotes de l'aviation civile face à l'absence de débouchés pour des professionnels qui doivent continuer à se former et à financer eux-mêmes cette formation, afin de maintenir leur niveau de compétences professionnelles. En effet, de nombreux pilotes, déjà lourdement endettés pour financer leur formation initiale, ne peuvent prendre en charge le coût des contrôles nécessaires au renouvellement de leur licence. L'agence nationale pour l'emploi dénombre, à ce jour, plus de 1 300 navigants techniques demandeurs d'emploi. La direction générale de l'aviation civile au ministère de l'équipement, des transports et du tourisme, qui assure la formation des élèves pilotes de ligne, ne dispose pas de moyens budgétaires lui permettant de prévoir des aides spécifiques pour les navigants confrontés à ces difficultés. Le ministère du travail, de l'emploi et de la formation professionnelle se trouve dans une situation analogue. Il est toutefois important de prévenir l'exclusion du marché du travail des personnes concernées, en conservant un potentiel de pilotes qualifiés qui permettra, le moment venu, de faire face à la reprise attendue. Une réflexion est actuellement menée sur les conditions d'une éventuelle prise en charge partielle du coût de ce maintien des compétences. Par ailleurs, le Parlement vient de voter une loi prévoyant la cessation de l'activité des pilotes et copilotes du transport aérien en qualité de navigants professionnels à l'âge de 60 ans ; cette disposition devrait produire des effets positifs sur la situation de l'emploi devenue particulièrement difficile dans ce secteur.
