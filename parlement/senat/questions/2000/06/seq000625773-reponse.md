@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625773
+
+- Question : [SEQ000625773](seq000625773.md) — Fonctionnement du bureau des étrangers de la préfecture de l'Hérault
+
+## Réponse
+
+*Intérieur, JO du 2000-08-31, page 3032*
+
+Réponse. - Les services de la préfecture de l'Hérault ont dû faire face depuis quelques années à une augmentation significative des demandes d'autorisation ou de délivrance de titre de toute nature provoquée notamment par la forte progression de la population, y compris étrangère du département. Ce phénomène a entraîné un engorgement de l'ensemble des services. S'agissant plus particulièrement des dossiers suivis par le service des étrangers, s'il est vrai que les délais d'instruction des demandes d'admission au séjour de primo-immigrants ou d'étrangers en situation irrégulière sont relativement longs et n'ont pu être réduits compte tenu du flux des demandes (plus de 500 nouveaux dossiers par mois), il a toutefois été décidé de ne pas pénaliser les personnes dont le renouvellement du titre de séjour revêt une importance particulière, en matière de versement des prestations sociales notamment. C'est pourquoi le renouvellement des titres de séjour intervient dans un délai moyen de cinq semaines. Conscient qu'une solution ponctuelle et partielle ne saurait régler une situation administrativement difficile et humainement sensible, le ministère de l'intérieur a souhaité apporter une réponse plus globale à la question de l'amélioration de l'accueil des usagers. Ces actions s'inscrivent dans le cadre des " assises de la modernisation des préfectures " qui prévoient une réflexion approfondie en matière d'accueil des étrangers avec notamment le développement de nouvelles procédures comme le renouvellement par voie postale d'un grand nombre de titres de séjour et la simplification des démarches effectuées au guichet. Ces différentes solutions seront mises en uvre d'ici à la fin de l'année et feront alors l'objet d'une large information.
