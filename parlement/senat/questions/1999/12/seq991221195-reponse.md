@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221195
+
+- Question : [SEQ991221195](seq991221195.md) — Indemnité d'éloignement des magistrats et fonctionnaires en service dans les TOM
+
+## Réponse
+
+*Économie, JO du 2000-04-06, page 1258*
+
+Réponse. - Depuis la parution des décrets nº 96-1026 et nº 96-1028 relatifs à la situation des fonctionnaires et magistrats affectés dans les territoires d'outre-mer et au versement d'une indemnité d'éloignement, la durée d'affectation a été réduite à deux ans renouvelables une seule fois et le versement des fractions de l'indemnité d'éloignement intervient avant le départ et à l'issue du séjour dans le territoire. Les agents affectés avant 1996 restent régis par les dispositions fixées antérieurement. Cependant, le Conseil d'Etat a précisé dans l'arrêt Joubert du 20 avril 1998 que " le maintien dans un territoire au-delà d'une durée égale à deux séjours réglementaires ne saurait ouvrir droit à une nouvelle indemnité d'éloignement ". En outre, il considère que la seconde fraction doit être versée à l'issue du séjour afin de couvrir les charges afférentes au retour (CE du 31 mars 1999. Belin c/ministre de l'éducation nationale, de la recherche et de la technologie). Par ailleurs, la Cour administrative d'appel de Paris a, dans l'arrêt Pitron du 12 juin 1995, rappelé que le congé administratif pendant une même période d'affectation ne constitue ni un retour ni un déplacement effectif, seul le retour définitif en métropole déclenchant la mise en paiement de la seconde fraction, et la juridiction d'appel n'a pas considéré que la période de congé administratif intermédiaire devait être prise en compte dans la liquidation de la seconde fraction de l'indemnité d'éloignement. Dans ces conditions, le congé administratif intermédiaire ne peut constituer un élément à prendre en considération dans le versement de l'indemnité d'éloignement.
