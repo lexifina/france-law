@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019496
+
+- Question : [SEQ991019496](seq991019496.md) — Budget de l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 2000-02-03, page 412*
+
+Réponse. - La redéfinition des missions de l'Institut national de recherche pédagogique (INRP) entreprise depuis la nomination de Philippe Meirieu à la tête de cet établissement public en juin 1998 vise à développer le rôle de relais et d'appui à l'innovation de l'Institut. Cette redéfinition doit permettre à l'INRP de s'orienter davantage vers une recherche pédagogique appliquée, au service des praticiens du système scolaire. L'établissement doit ainsi mutualiser et mémoriser les recherches sur les pratiques pédagogiques actuellement menées dans l'ensemble du système éducatif (établissements scolaires, universités, instituts universitaires de formation des maîtres >IUFM>) et favoriser la diffusion dans les classes des résultats les plus pertinents de ces recherches. L'Institut organise, à cette fin, un réseau de correspondants implantés dans les IUFM ainsi que dans les établissements scolaires. Les propositions prises par le directeur de l'INRP sur la mission de l'école ne minimise pas l'importance de la transmission des connaissances. Ce professeur des universités, éminent chercheur en éducation qui dirige cet institut, estime nécessaire de s'interroger sur les conditions à remplir pour que cette transmission s'effectue correctement. Loin d'écarter les savoirs fondamentaux, il s'agit au contraire de garantir leur acquisition. Il ne s'agit pas non plus de mettre en cause l'autorité des enseignants mais bien de la raffermir en donnant à ces derniers les moyens de l'exercer. Enfin, la référence à l'environnement sociologique des élèves a comme seul objectif de prendre en compte les différences sociales et de combiner tous les moyens mobilisables, humains et pédagogiques pour donner à tous les mêmes chances de réussite.
