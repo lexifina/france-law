@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213254
+
+- Question : [SEQ951213254](seq951213254.md) — Valorisation de la qualification professionnelle des coiffeurs
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-02-01, page 211*
+
+Réponse. - Le ministre des petites et moyennes entreprises, du commerce et de l'artisanat a été alerté, à plusieurs reprises, sur les conséquences du développement de la concurrence exercée par les coiffeurs à domicile ; aussi, il a demandé aux services concernés de veiller à ce que l'activité de coiffeur à domicile soit exercée en conformité avec les réglementations en vigueur en matière sociale et fiscale. A ce titre, une convention nationale de lutte contre le travail clandestin a été signée avec la Fédération nationale de la coiffure. Toute activité non déclarée doit être portée à la connaissance du préfet du département concerné. Le ministre a également été alerté sur la question de la présence effective de personnel qualifié dans les salons à établissements multiples. Aussi, une adaptation de la loi du 23 mai 1946 est à l'étude notamment pour introduire une qualification professionnelle minimale pour les coiffeurs exerçant à domicile et trouver une solution opérationnelle à la question des salons à établissements multiples. Les services du ministère sont chargés de rédiger, en concertation avec les professionnels, les textes qui seront soumis rapidement à un examen interministériel. Par ailleurs, le Premier ministre a annoncé le 12 octobre dernier, devant l'Union professionnelle artisanale, le dépôt d'un projet de loi qui sera présenté au Parlement au cours de l'actuelle session, qui comprendra une mesure dans le domaine de la qualification préalable à l'installation pour certains métiers dont l'exercice est susceptible de mettre en jeu la santé et la sécurité des consommateurs.
