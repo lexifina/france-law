@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902859
+
+- Question : [SEQ970902859](seq970902859.md) — Aide de la France pour l'entrée de la Roumanie dans l'Alliance atlantique
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-10-23, page 2877*
+
+Réponse. - La Roumanie a fait de son adhésion à l'Alliance atlantique de sa politique étrangère. La France, comme l'avait indiqué le président de la République dès février 1997 lors de son voyage à Bucarest, soutient les aspirations de la Roumanie à rejoindre au plus vite l'Alliance atlantique. En effet, l'élargissement de l'OTAN comme celui de l'Union européenne participent de la reconstitution de la grande famille européenne autour des valeurs de démocratie et d'économie de marché. De plus, il est important de ne pas créer de nouvelles fractures Nord-Sud sur notre continent au moment où nou s effaçons les lignes de partage issues de la guerre froide. Enfin, dans l'intérêt de tous les membres de l'alliance, il convient de renforcer le flanc sud de l'OTAN, d'où proviendront à l'avenir les menaces les plus sérieuses pour la sécurité de la stabilité européennes. Avec une majorité d'alliés, la France a donc souhaité que le premier élargissement décidé lors du Sommet de Madrid, en juillet dernier comprenne la Roumanie et la Slovénie, en plus de la Pologne, de la République tchèque et de la Hongrie. Cet élargissement à cinq pays n'a pas pu recueillir de consensus à ce stade. A l'instigation de la France, il a toutefois été mentionné que la question serait rééexaminée lors du prochain Sommet en 1999 et que les candidatures roumaine et slovène feraient alors l'objet d'une attention particulière. La France, avec ses partenaires, entend poursuivre son action en faveur de la Roumanie, dans la perspective des prochaines échéances concernant l'élargissement de l'OTAN.
