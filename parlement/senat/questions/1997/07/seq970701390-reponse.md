@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701390
+
+- Question : [SEQ970701390](seq970701390.md) — Nouveau virus retrouvé dans le sang d'un donneur sain
+
+## Réponse
+
+*Santé, JO du 1998-11-12, page 3653*
+
+Réponse. - Il n'existe pas à ce jour de réactif de dépistage sérologique validé et enregistré pour dépister en routine l'infection à virus HHV-8. L'information scientifique publiée dans le journal The Lancet du 1er mars 1997 concernant la présence du virus herpès HHV-8 chez un donneur de sang en bonne santé a retenu toute l'attention des autorités sanitaires. Toutefois, les connaissances épidémiologiques sur ce virus sont encore très imparfaites. De la famille des virus herpès, il est essentiellement localisé dans les globules blancs (leucocytes). La mesure de déleucocytation systématique des produits sanguins labiles annoncée par le secrétaire d'Etat à la santé en décembre 1996 est donc apparue comme une mesure de prévention adaptée vis-à-vis de sa transmission par transfusion. L'efficacité de cette mesure est en effet suggérée, dans le cas d'espèce, par les résultats d'une étude montrant l'absence de détection du virus chez des patients multitransfusés par des produits sanguins appauvris en globules blancs (The Lancet 1997, 350, page 217). L'intérêt de la déleucocytation est reconnu par le comité de sécurité transfusionnelle placé auprès du secrétaire d'Etat dans son rapport du 19 février 1998. Cette mesure de déleucocytation systématique a été généralisée à l'ensemble des produits sanguins labiles cellulaires distribués par les établissements de transfusion sanguine le 1er avril 1998. Par ailleurs, la direction générale de la santé réunit un groupe d'experts chargé d'étudier l'intérêt et les modalités d'introduction des techniques de biologie moléculaires permettant de détecter les génomes viraux sur les dons de sang et sur les produits issus du corps humain destinés à être greffés.
