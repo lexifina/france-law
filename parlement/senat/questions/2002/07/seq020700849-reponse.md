@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700849
+
+- Question : [SEQ020700849](seq020700849.md) — Collectes de sang
+
+## Réponse
+
+*Santé, JO du 2002-10-17, page 2407*
+
+Depuis de nombreuses années, la France est autosuffisante en produits sanguins labiles (PSL). Cette autosuffisance nationale est assurée au prix d'un effort permanent de l'EFS et des associations de donneurs de sang bénévoles dans l'organisation des collectes et dans le recrutement de donneurs de sang bénévoles. Cependant, deux régions (Ile-de-France, PACA) connaissent une situation plus difficile en la matière, ce qui les rend dépendantes des autres établissements régionaux de l'EFS pour leur approvisionnement en PSL. La région Alpes-Méditerranée et notamment le département des Alpes-Maritimes sont dans cette situation. En 2001, cette région a cédé 173 249 concentrés de globules rouges (CGR) aux hôpitaux, 128 984 provenaient de prélèvements régionaux, 44 265 de prélèvements effectués dans d'autres établissements de l'EFS. C'est donc grâce à la solidarité interne des établissements de l'EFS que les patients hospitalisés en Alpes-Méditerranée reçoivent les PSL dont ils ont besoin pour se soigner. En revanche, cet établissement de l'EFS est celui qui a connu la plus forte hausse des prélèvements en 2001. En effet, les efforts réalisés dans l'organisation de collectes, notamment mobiles, et donc la promotion du don, ont permis d'augmenter de 6,7 % les prélèvements 2001 par rapport à 2000. Les chiffres du premier semestre 2002 confirment également cette tendance. Ainsi, si l'autosuffisance locale en matière de prélèvement n'est pas assurée, en aucun cas cette contrainte ne se traduit par une pénurie de produits pour les malades de cette région. Le recours à du sang issu de don rémunéré n'a donc pas lieu d'être envisagé dans ces conditions.
