@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700827
+
+- Question : [SEQ970700827](seq970700827.md) — Conditions d'exonération pour l'embauche du premier au cinquantième salarié dans le secteur agricole
+
+## Réponse
+
+*Emploi, JO du 1997-10-30, page 2996*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre de l'emploi et de la solidarité sur les formalités relatives à l'attribution de l'exonération de charges sociales pour l'embauche du premier au cinquantième salarié dans le secteur agricole qui incombent à la direction départementale du travail de l'emploi et de la formation professionnelle et non à la mutualité sociale agricole. Il lui demande s'il ne serait pas envisageable que la mutualité sociale agricole ait le pouvoir de décision en la matière, étant détentrice de toutes les informations nécessaires. Lors d'une embauche avec exonération de charges sociales pour la création d'emplois dans les zones de revitalisation rurale, l'employeur doit, pour des raisons de simplicité, déclarer l'embauche dans les trente jours suivant celle-ci à la direction départementale du travail de l'emploi et de la formation professionnelle quel que soit le secteur. Pour le secteur agricole, après réception par la DDTEFP de l'imprimé composé de quatre volets, le volet 2 est envoyé à l'inspection du travail et de l'emploi et de la politique sociale agricoles (ITEPSA) et le volet 3 à la mutualité sociale agricole (MSA). L'ITEPSA vérifie que l'employeur n'a pas procédé à un licenciement dans les douze mois précédant l'embauche. Il appartient aux caisses de mutualité sociale agricole de contrôler la régularité des déclarations et l'exactitude des sommes cotisées. En cas de fausse déclaration ou de non-respect des conditions posées par le législateur, les caisses de MSA effectuent des redressements sur la base de cotisations normalement dues.
