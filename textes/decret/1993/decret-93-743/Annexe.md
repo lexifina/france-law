@@ -1,14 +1,16 @@
 # Article ANNEXE
 
-1.1.0. Installations, ouvrages, travaux permettant le prélèvement dans un système aquifère autre qu'une nappe d'accompagnement d'un cours d'eau, d'un débit total :
+1.1.0. Sondage, forage, création de puits ou d'ouvrage souterrain, non destiné à un usage domestique, exécuté en vue de la recherche ou de la surveillance d'eaux souterraines ou en vue d'effectuer un prélèvement temporaire ou permanent dans les eaux souterraines y compris dans les nappes d'accompagnement de cours d'eau : D.
 
-1° Supérieur ou égal à 80 m3/h A
+1.1.1. Prélèvements permanents ou temporaires issus d'un forage, puits ou ouvrage souterrain dans un système aquifère à l'exclusion de nappes d'accompagnement de cours d'eau, par pompage, drainage, dérivation ou tout autre procédé :
 
-2° Supérieur à 8 m3/h, mais inférieur à 80 m3/h D
+1° Capacité totale maximale des installations de prélèvement supérieure ou égale à 80 m3/heure : A ;
 
-1.2.0. Rejets d'effluents sur le sol ou dans le sous-sol, à l'exclusion des bassins d'infiltration visés à la rubrique 5.3.0, de l'épandage visé à la rubrique 5.4.0, ainsi que des réinjections visées à la rubrique 1.3.1 A
+2° Capacité totale maximale des installations de prélèvement supérieure à 8 m3/heure mais inférieure à 80 m3/heure : D.
 
-1.3.0. Recharge artificielle des eaux souterraines A
+1.2.0. Rejets d'effluents sur le sol ou dans le sous-sol, à l'exclusion des bassins d'infiltration visés à la rubrique 5.3.0, aux épandages visés aux rubriques 5.4.0 et 5.5.0, ainsi que des réinjections visées à la rubrique 1.3.1 A
+
+1.3.0. Recharge artificielle des eaux souterrainesA
 
 1.3.1. Réinjection dans une même nappe des eaux prélevées pour la géothermie, l'exhaure des mines et carrières ou lors des travaux de génie civil, la capacité totale de réinjection étant :
 
@@ -20,7 +22,7 @@
 
 1.4.0. Canalisations de transports d'hydrocarbures ou de produits chimiques liquides dont le produit du diamètre extérieur par la longueur est égal ou supérieur à 5 000 mètres carrés A
 
-1.5.0. Ouvrages, installations, travaux qui étaient soumis à autorisation en application du décret-loi du 8 août 1935 et des décrets qui en ont étendu le champ d'application
+1.5.0. - rubrique supprimée.
 
 1.6.0. - Les travaux de recherche, la création et les essais de cavités et les travaux d'exploitation des stockages souterrains d'hydrocarbures liquides ou liquéfiés soumis aux dispositions de l'ordonnance n° 58-1332 du 23 décembre 1958 :
 
