@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314831
+
+- Question : [SEQ990314831](seq990314831.md) — Création de plan d'eau artificiel
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-06-03, page 1859*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la création de plans d'eau artificiels. La multiplication de plans d'eau à l'amont de cours d'eau de première catégorie piscicole est en effet susceptible d'entraîner un réchauffement des eaux ainsi que l'introduction d'espèces à l'origine de déséquilibres biologiques et d'aboutir ainsi à un véritable déclassement de ces cours d'eau. Des instructions ont été adressées aux services afin de renforcer l'application des règles existantes en matière de contrôle de création de plans d'eau, en application de la loi du 3 janvier 1992 et des schémas directeurs d'aménagement et de gestion des eaux (SDAGE). Certains tribunaux ont d'ailleurs condamné des propriétaires à remettre en état des petits ruisseaux qu'ils avaient transformés en fossés ou en plans d'eau, sans solliciter les autorisations requises et en contradiction avec la préservation des écosystèmes aquatiques. Un projet de décret modifiant la nomenclature " Eau " annexée au décret nº 93-743 du 29 mars 1993 a été transmis pour avis au Conseil d'Etat afin d'abaisser le seuil d'autorisation de création de plan d'eau à un hectare sur les bassins versants de première catégorie piscicole. Cette mesure de renforcement du contrôle de la création de plans d'eau sera accompagnée de la publication par arrêté ministériel de prescriptions techniques applicables aux créations de plans d'eau de moindre importance, soumises à simple déclaration, afin de protéger le milieu aquatique. Le préfet pourra, si nécessaire, renforcer ces prescriptions par des arrêtés individuels complémentaires, prenant en compte la sensibilité du milieu.
