@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113428
+
+- Question : [SEQ990113428](seq990113428.md) — Non-remplacement de professeurs d'histoire-géographie au lycée Gabriel-Fauré de Paris
+
+## Réponse
+
+*Éducation, JO du 1999-06-17, page 2058*
+
+Réponse. - Le remplacement des personnels enseignants des lycées et collèges constitue l'une de mes préoccupations constantes, afin d'assurer la permanence et la qualité du service public d'éducation. Cependant, la gestion du remplacement des enseignants dans le second degré n'est pas aisée, car il s'agit bien souvent de faire face à l'imprévisible, les absences de courte durée (moins de quinze jours) étant particulièrement difficile à gérer. Il revient aux établissements de rechercher les solutions permettant la prise en charge des élèves dont le professeur est absent pour une brève période, soit en rétribuant un enseignant volontaire de l'établissement en heures supplémentaires, soit en recrutant des vacataires. Des remplacements sont également assurés par des professeurs contractuels. De plus, depuis les deux dernière rentrées scolaires, le réemploi des anciens maîtres auxiliaires a été préféré au recrutement de nouveaux agents non titulaires. Pour les absences de moyenne ou de longue durée (supérieure à quinze jours), il est fait appel aux titulaires remplaçants, soit au total 4 314 professeurs au titre de l'année 1998. C'est ainsi que, pour les absences d'enseignants en histoire-géographie dans trois classes de seconde au lycée Gabriel-Fauré à la fin du mois de janvier 1999, il a été fait appel à des remplaçants dans la première quinzaine du mois de février. Cependant, il n'apparaît pas toujours possible d'assurer la suppléance dès le début du congé. Les enseignants qui se voient confier des remplacements peuvent en effet être amenés à assurer une suppléance plus longue par suite notamment d'une prolongation de congé (congé de maladie par exemple) rendant plus difficile une gestion prévisionnelle des suppléances.
