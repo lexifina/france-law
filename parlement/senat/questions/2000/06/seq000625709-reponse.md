@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625709
+
+- Question : [SEQ000625709](seq000625709.md) — Assimilation des lignes électriques de haute tension à des établissements classés
+
+## Réponse
+
+*Logement, JO du 2001-10-25, page 3400*
+
+Lors du débat à l'Assemblée nationale sur la loi de solidarité et de renouvellement urbains (SRU), deux amendements ont été proposés consistant à assimiler les lignes à haute tension à des installations classées. Pendant la discussion au Sénat, le secrétaire d'Etat au logement a indiqué pourquoi il n'était pas favorable à cette mesure et s'est effectivement engagé à trouver une meilleure issue. Une concertation a eu lieu avec le ministère de l'industrie qui a permis de dégager une solution. L'article 5 de la loi SRU n° 2000-1208 du 13 décembre 2000 a modifié la loi du 15 juin 1906 sur les distributions d'énergie en insérant un article 12 bis qui prévoit notamment qu'après déclaration d'utilité publique précédée d'une enquête publique, des servitudes d'utilité publique concernant l'utilisation du sol, ainsi que l'exécution de travaux soumis au permis de construire, peuvent être instituées au voisinage d'une ligne électrique aérienne de tension supérieure ou égale à 130 kilovolts. Ces servitudes sont instituées par arrêté du préfet du département concerné et comportent, en tant que de besoin, la limitation ou l'interdiction du droit d'implanter des bâtiments à usage d'habitation et des établissements recevant du public. Elles ne peuvent faire obstacle aux travaux d'adaptation, de réfection ou d'extension de constructions existantes édifiées en conformité avec les dispositions législatives et réglementaires en vigueur avant l'institution desdites servitudes, à condition que ces travaux n'entraînent pas d'augmentation significative de la capacité d'accueil d'habitants dans les périmètres où les servitudes ont été instituées. Ces dispositions permettent de préserver l'avenir sans porter préjudice aux situations existantes.
