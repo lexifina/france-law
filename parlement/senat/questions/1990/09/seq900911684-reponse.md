@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911684
+
+- Question : [SEQ900911684](seq900911684.md) — Masseurs kinésithérapeutes, rééducateurs
+
+## Réponse
+
+*Affaires sociales, JO du 1990-11-15, page 2441*
+
+Réponse. - La revalorisation de la lettre-clé AMM qui rémunère l'activité des masseurs-kinésithérapeutes est effectuée par le biais d'avenants tarifaires à la convention nationale de la profession négociés entre les parties signataires du texte conventionnel et approuvés ensuite par arrêtés interministériels. Les pouvoirs publics étudient actuellement les propositions de revalorisation tarifaire formulées par les parties conventionnelles. Par ailleurs, en application des dispositions de l'arrêté du 28 janvier 1986 modifié, il appartient à la Commission permanente de la nomenclature générale des actes professionnels, de faire des propositions au ministre chargé de la sécurité sociale sur les actualisations de la nomenclature qui lui apparaissent souhaitables. Dans le cadre de ses travaux, la commission a désigné un rapporteur pour examiner les modifications à apporter à la nomenclature en ce qui concerne les actes de rééducation et de réadaptation fonctionnelles effectués notamment par les masseurs-kinésithérapeutes. La Commission a fait parvenir à l'administration des propositions qui font actuellement l'objet d'une étude par les services. Par ailleurs, les différentes organisations professionnelles d'auxiliaires médicaux ont formulé à diverses reprises, le voeu de se voir doter d'instances disciplinaires et de règles professionnelles dont l'application interviendra par décret. Aussi, les travaux menés en collaboration étroite avec les représentants des différentes professions intéressées au sein des groupes de travail qui se sont tenus en 1988 et 1989 ont-ils abouti à un projet de loi actuellement soumis à l'examen de la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale.
