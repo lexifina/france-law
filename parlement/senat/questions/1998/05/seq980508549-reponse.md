@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508549
+
+- Question : [SEQ980508549](seq980508549.md) — Régime d'assurance-chômage des emplois-jeunes
+
+## Réponse
+
+*Emploi, JO du 1998-09-24, page 3071*
+
+Réponse. - L'honorable parlementaire demande si les collectivités locales pourront bénéficier du même régime d'assurance chômage pour les contrats signés dans le cadre du programme " Nouveaux services - Nouveaux emplois " que pour les anciens emplois de ville. Il convient de relever que les collectivités locales et les établissements publics administratifs autres que ceux de l'Etat peuvent adhérer sur option révocable au régime d'assurance chômage pour l'ensemble de leur personnel non-titulaire. Seules les collectivités et les établissements publics, qui restent en auto-assurance, seraient concernés par l'adhésion à un régime particulier dérogatoire. Les régimes particuliers existent actuellement pour les contrats emploi-solidarité, les emplois de ville et les contrats d'apprentissage. Les partenaires sociaux, qui ont été saisis le 29 septembre 1997 d'une demande visant à la création d'un tel régime particulier pour les contrats du programme " Nouveaux services - Nouveaux emplois ", ont examiné cette demande le 6 janvier 1998 et n'ont pu encore aboutir à un accord sur ce point. Aussi, à ce jour, les règles de droit commun d'indemnisation du chômage des salariés non-titulaires employés par les collectivités territoriales continuent-elles de s'appliquer pour les contrats conclus dans le cadre du programme " Nouveaux services - Nouveaux emplois ". Autrement dit, les collectivités territoriales ont la possibilité d'adhérer au régime d'assurance chômage pour l'ensemble de leur personnel non-titulaire, ou d'assurer elles-mêmes la couverture du risque chômage des jeunes employés au titre du programme " Nouveaux services - Nouveaux emplois ".
