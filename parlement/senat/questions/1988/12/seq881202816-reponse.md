@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202816
+
+- Question : [SEQ881202816](seq881202816.md) — Financement de l'enseignement agricole
+
+## Réponse
+
+*Agriculture, JO du 1989-03-09, page 401*
+
+Réponse. - Le montant des crédits inscrits au budget du ministère de l'agriculture et de la forêt pour l'exercice 1989 permettra d'appliquer intégralement, dès le 1er janvier 1989, aux établissements à rythme approprié par alternance le décret du 14 septembre 1988. Ce texte réglementaire, publié après accord général de tous les partenaires concernés, assurera une meilleure répartition de l'aide publique entre les centres de formation intéressés : la résorption des disparités sera une résultante du nouveau mode de calcul de la subvention, qui s'apparente à un système d'allocation forfaitaire versée en fonction du nombre d'élèves. De ce fait, les crédits inscrits au chapitre 43-22, article 20, tiennent compte aussi bien des effectifs d'élèves scolarisés dans les établissements fonctionnant selon un rythme approprié que de ceux scolarisés dans les établissements dispensant leurs cours selon le rythme traditionnel. Ils correspondent : pour 372,6 millions de francs, au versement d'une part de l'aide financière destinée aux établissements à rythme approprié (article 5 de la loi du 31 décembre 1984) conformément aux dispositions du décret du 14 septembre 1988, d'autre part à celui des subventions accordées à leurs organisations fédératives et aux centres de formation pédagogique de leurs formateurs ; pour 203,1 millions de francs au versement aux établissements à temps plein classique, visés à l'article 4 de la loi du 31 décembre 1984, d'une part d'une allocation calculée en fonction de l'effectif et d'un montant moyen de 4 000 francs à l'élève, d'autre part de subventions accordées à leurs organisations fédératives et à leurs centres de formation pédagogique.
