@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008290
+
+- Question : [SEQ871008290](seq871008290.md) — Ouverture d'une chancellerie déléguée à Lausanne
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-12-17, page 1961*
+
+Réponse. -Les contraintes affectant à la fois les effectifs et les moyens budgétaires du ministères des affaires étrangères ont rendu inévitables la suppression ou le déclassement de 24 postes consulaires au cours des six dernières années. Ces mesures, pour difficile qu'il ait été de les prendre, ont cependant permis au ministère des affaires étrangères de procéder à une meilleure redistribution de ses moyens dans le monde. Au cours de la même période, 4 ambassades et 14 consulats et chancelleries détachées ont pû être ouverts ou réouverts dans des zones géographiques prioritaires. Dans ce contexte, la transformation en 1985 de notre consulat à Lausanne en antenne consulaire, composée de 3 agents de catégorie C ne semblait pas devoir entraîner de difficultés particulières, compte tenu notamment de la proximité de Genève. Toutefois, afin de faciliter la gestion quotidienne de l'antenne consulaire de Lausanne, le ministère des affaires étrangères a récemment décider de l'élever au rang de chancellerie détachée. Cette dernière sera dirigée par un secrétaire de chancellerie prélevé sur les effectifs du consulat général de Genève et assisté de 3 agents de catégorie C. Le ministère des affaires étrangères est en train d'examiner les moyens de procéder à la mise en place de cette nouvelle chancellerie détachée dans les meilleures délais. Il est prévu qu'elle s'effectue à l'occasion des relèves d'agents de catégorie B en poste à Genève et lorsqu'auront été achevées les études actuellement en cours pour, d'une part, établir une connexion informatique directe entre Lausanne et Genève et, d'autre part, régler la question de l'agrandissement ou du déménagement des locaux aujourd'hui occupés par l'antenne consulaire.
