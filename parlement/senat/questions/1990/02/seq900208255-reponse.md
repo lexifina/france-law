@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208255
+
+- Question : [SEQ900208255](seq900208255.md) — Groupes publics ou privés face au marché mondial
+
+## Réponse
+
+*Économie, JO du 1990-05-17, page 1064*
+
+Réponse. - Les entreprises du secteur public disposent de nombreux moyens financiers pour saisir les opportunités susceptibles de conforter leur stratégie de croissance externe et de consolider leurs investissements de capacité en France. Tout d'abord, il convient de noter que l'amélioration de leurs résultats leur donne les moyens de rémunérer les capitaux dont elles ont besoin et de s'autofinancer. De plus, elles ont la possibilité de trouver sur le marché financier des capitaux propres sous la forme de certificats d'investissement ou de titre subordonné à durée indéterminée (T.S.D.I.). En outre, des rapprochements entre entreprises publiques peuvent, lorsque cela est possible, faire jouer des synergies utiles. Enfin, les dotations en capital peuvent venir en supplément pour financer leur croissance externe et leurs investissements de capacité en France. Une enquête effectuée par le Crédit national en 1988 montre ainsi que le ratio moyen d'endettement sur fondspropres des entreprises publiques industrielles est inférieur à celui des plus grands groupes privés français. Pour leur part, les entreprises du secteur privé se sont vu donner des moyens nouveaux pour renforcer leurs fonds propres. L'ouverture et le décloisonnement des marchés financiers, la création et le développement du second marché boursier ou la réduction de l'impôt sur les sociétés pour les bénéfices réinvestis font partie de ces facilités nouvelles. Plus largement, publiques ou privées, les entreprises françaises bénéficient de la politique macroéconomique mise en oeuvre par le Gouvernement qui vise à assurer par la désinflation leur compétitivité.
