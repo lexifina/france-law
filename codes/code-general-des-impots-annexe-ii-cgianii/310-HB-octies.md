@@ -60,6 +60,6 @@ Teneur en soufre des fiouls lourds ou résidus lourds pétroliers :
 
 NF M 07 025.
 
-Ou toute autre norme nationale d'un Etat membre de la Communauté économique européenne reconnue équivalente.
+Ou toute autre norme nationale d'un Etat membre de la Communauté européenne reconnue équivalente.
 
 En cas de modification de l'une des normes ci-dessus, l'homologation de la norme modifiée entraîne substitution des dispositions de cette dernière à celles de la norme précédente pour l'application des spécifications définies au 1. L'arrêté d'homologation fixe le cas échéant des délais d'application et des dispositions transitoires.

@@ -2,7 +2,9 @@
 
 I. - Le remboursement forfaitaire institué par l'article 298 quater bénéficie :
 
-a) Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une personne redevable de la taxe sur la valeur ajoutée au titre de ces mêmes animaux, soit, en vue de l'abattage, à une personne redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à des personnes morales non assujetties qui réalisent des acquisitions intracommunautaires imposables dans l'Etat membre de la Communauté économique européenne où arrive le bien expédié ou transporté, soit à l'exportation ; b) Aux exploitants agricoles qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu des dispositions du a.
+a) Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une personne redevable de la taxe sur la valeur ajoutée au titre de ces mêmes animaux, soit, en vue de l'abattage, à une personne redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à des personnes morales non assujetties qui réalisent des acquisitions intracommunautaires imposables dans l'Etat membre de la Communauté européenne où arrive le bien expédié ou transporté, soit à l'exportation ;
+
+b) Aux exploitants agricoles qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu des dispositions du a.
 
 II. - Le remboursement forfaitaire alloué au revendeur est liquidé sur la différence entre le prix de vente et le prix d'achat de l'animal vivant.
 
@@ -10,14 +12,20 @@ L'application de ces dispositions est subordonnée à la publication d'un décre
 
 Dans le cas visé au I-b le remboursement forfaitaire est liquidé dans les conditions suivantes :
 
-Le montant global du remboursement forfaitaire alloué au vendeur et au revendeur est décompté à partir des ventes d'animaux vivants réalisées par le revendeur;
+Le montant global du remboursement forfaitaire alloué au vendeur et au revendeur est décompté à partir des ventes d'animaux vivants réalisées par le revendeur ;
 
-Dans la limite de ces ventes, celui-ci délivre à ses fournisseurs des attestations concernant les achats d'animaux effectués au cours de la même année ou au cours de l'année précédente;
+Dans la limite de ces ventes, celui-ci délivre à ses fournisseurs des attestations concernant les achats d'animaux effectués au cours de la même année ou au cours de l'année précédente ;
 
-Le remboursement forfaitaire est versé aux fournisseurs sur la base des attestations qu'ils ont reçues; il est versé au revendeur sur la différence entre le montant de ses ventes et celui des attestations qu'il a délivrées.
+Le remboursement forfaitaire est versé aux fournisseurs sur la base des attestations qu'ils ont reçues ; il est versé au revendeur sur la différence entre le montant de ses ventes et celui des attestations qu'il a délivrées.
 
 (1) Annexe III, art. 65 A.
 
 (2) Annexe II, art. 267 ter.
 
 (3) Annexe II, art. 267 bis-7.
+
+NOTA :
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des deux derniers alinéas du II du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux articles L. 171-1 et L. 245-29 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.
