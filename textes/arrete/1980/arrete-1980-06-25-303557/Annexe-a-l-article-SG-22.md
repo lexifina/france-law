@@ -1,4 +1,4 @@
-# Article Annexe à l'article SG 22
+# Article Annexe 1
 
 Composition du registre de sécurité
 
