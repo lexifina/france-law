@@ -1,4 +1,4 @@
-# Article Annexe
+# Article ANNEXE
 
 Caisse régionale de crédit agricole mutuel de l'Ain : 212 334.
 
@@ -318,7 +318,7 @@ Caisse régionale de crédit agricole mutuel de l'Yonne :
 
 Caisse régionale de crédit agricole mutuel de la Guadeloupe :
 
-108 597.
+108 587.
 
 Caisse régionale de crédit agricole mutuel de la Martinique :
 
