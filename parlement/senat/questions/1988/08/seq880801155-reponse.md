@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801155
+
+- Question : [SEQ880801155](seq880801155.md) — Attribution des plaques GIG et GIC aux grands invalides possesseurs de véhicules non soumis à permis de conduire
+
+## Réponse
+
+*Intérieur, JO du 1988-10-27, page 1197*
+
+Réponse. - La circulaire interministérielle 86-19 du 14 mars 1988 relative aux conditions d'attribution et d'utilisation des macarons G.I.C. prévoit que le macaron en question " doit être apposé derrière le pare-brise des véhicules immatriculés (à l'exclusion de tous les autres véhicules) utilisés pour le transport de la personne handicapée, que celle-ci soit le conducteur ou le passager ". Par " autres véhicules ", il faut essentiellement entendre les voiturettes, considérées comme des cyclomoteurs. Parmi les propriétaires de celles-ci (environ 10 000 sont mises en circulation par an), la plupart n'ont jamais passé leur permis de conduire et seule une minorité d'entre eux sont des invalides, ne remplissant d'ailleurs que rarement les conditions d'attribution du macaron G.I.C. Ces véhicules semblent d'autre part difficilement aménageables pour leur conduite par une personne très handicapée, ayant notamment perdu l'usage de ses membres inférieurs. De plus, ces véhicules peuvent se garer aisément, eu égard à leur faible encombrement, et n'étant pas immatriculés ils ne font que très exceptionnellement l'objet d'un procès-verbal pour stationnement irrégulier. Dans ces conditions, il est préférable de laisser la possibilité de garer leurs véhicules, en particulier sur les emplacements de stationnement réservés à cet effet, aux invalides les plus gravement handicapés (arborant le macaron G.I.G. ou G.I.C.) ou aux personnes valides les transportant, qui bénéficient alors temporairement des facilités de stationnement conférées par lesdits macarons.
