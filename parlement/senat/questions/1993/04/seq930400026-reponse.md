@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400026
+
+- Question : [SEQ930400026](seq930400026.md) — Utilisation d'un nouveau procédé de traitement des eaux
+
+## Réponse
+
+*Environnement, JO du 1993-07-22, page 1202*
+
+Réponse. - Les questions relatives à la qualité de l'eau destinée à la consommation humaine et, par voie de conséquence, celles qui touchent au traitement des eaux naturelles en vue de les rendre propres à être consommées sont de la compétence du ministère chargé de la santé. Les procédés, appareils et substances utilisées en vue de ce traitement doivent avoir fait l'objet d'une agrément par ce ministère, après avis du Conseil supérieur d'hygiène publique de France. Le ministère de l'environnement considère que le traitement bactériologique de l'eau est envisageable par divers procédés. Le chlore et ses dérivés sont parmis les bactéricides les plus puissants et les plus sûrs dont on dispose. La quasi-disparition des grandes maladies d'origine hydrique est à leur actif. Leurs effets secondaires font toutefois paraître souhaitable, dans certaines conditions, de leur trouver des procédés de remplacement ou de complément aussi efficaces. A cet égard les procédés dit de nanofiltration par membranes paraissent effectivement extrêmement prometteurs. Des expérimentations ont été conduites par les constructeurs ou les utilisateurs potentiels de ces procédés et le Conseil supérieur d'hygiène publique de France a déjà été saisi de plusieurs demandes d'agrément, voire de mise en service d'unités pilotes comme à Auvers-sur-Oise, auxquelles il a en général été porté à donner un avis favorable. Le choix des filières de traitement et des procédés employés, sous réserve de l'accord des services de la santé, reste naturellement la prérogative des collectivités, communes et syndicats de communes, responsables de la distribution de l'eau.
