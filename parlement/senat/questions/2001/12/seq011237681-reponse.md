@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237681
+
+- Question : [SEQ011237681](seq011237681.md) — Modalités de prélèvement par La Poste des cotisations de pension civile sur le traitement
+
+## Réponse
+
+*Industrie, JO du 2002-03-14, page 801*
+
+Une circulaire n° 113/28/B4 du 11 décembre 1947 de la direction du budget prévoyait que les retenues pour pension de retraite ainsi que les cotisations de sécurité sociale devaient être normalement acquittées pour les périodes d'interruption volontaire du travail liées à des mouvements de grève, bien que non rémunérées. Ces dispositions étaient appliquées depuis lors dans les différentes administrations, ainsi qu'à La Poste et à France Télécom. Cependant, le 8 septembre 1995, le Conseil d'Etat a rendu un avis Noyau selon lequel, en cas de grève d'un fonctionnaire, l'administration ne peut opérer, sur la fraction du traitement non payée pour service non fait, ni retenue pour pension ni cotisation d'assurance maladie, maternité et invalidité. Cette position a été confirmée par un arrêt Grondin du 28 octobre 1998. Par un nouvel arrêt Grondin du 19 avril 2000, le Conseil d'Etat a enjoint au ministre de l'économie, des finances et de l'industrie, sous astreinte financière, d'abroger les dispositions incriminées de la circulaire du 11 décembre 1947. La direction du budget a abrogé ces dispositions le 26 juin 2000. Il y a donc lieu de ne plus opérer de retenue pour pension ni de prélever de cotisations de sécurité sociale sur les rémunérations que les agents n'ont pas perçues en cas de grève. En conséquence, La Poste travaille sur une modification de ses programmes informatiques de paie afin de les mettre en conformité avec cette nouvelle réglementation. Dans cette attente, La Poste donne toujours une suite favorable aux demandes des agents qui sollicitent le remboursement des cotisations pension civile correspondant à la fraction du traitement non perçue pour service non fait.
