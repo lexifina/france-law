@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213227
+
+- Question : [SEQ951213227](seq951213227.md) — Délai de réclamation en matière de taxe professionnelle
+
+## Réponse
+
+*Budget, JO du 1996-04-18, page 933*
+
+Réponse. - L'article 1647 B sexies du code général des impôts prévoit que les dégrèvement au titre du plafonnement de la cotisation de taxe professionnelle en fonction de la valeur ajoutée de l'entreprise est accordé sur demande du redevable. Cette demande, assimilée par le législateur à une réclamation, doit donc être adressée au service des impôts dans le délai général de réclamation prévu par l'article R. 196-2 du livre des procédures fiscales, soit au plus tard le 31 décembre de l'année suivant la mise en recouvrement du rôle. Par ailleurs, le redevable a la faculté (article 1679 quinquies du même code) de réduire par anticipation le montant du solde de sa cotisation du montant de dégrèvement attendu du plafonnement. Pour le comptable du trésor, la somme déduite représente une créance qui ne pourra être définitivement apurée qu'après instruction de la demande de plafonnement. Il importe donc que celle-ci soit déposée le plus tôt possible, c'est-à-dire dès la clôture des comtpes sociaux de l'entreprise pour l'exercice en cause. Quant aux dispositions de l'article R. 211-1, qui autorisent l'administration fiscale à réparer spontanément des erreurs de taxation commises au détriment de contribuables, elles ne peuvent trouver à s'appliquer dans l'hypothèse évoquée. En effet, cette procédure vise à réparer les erreurs manifestes de taxation qui, laissées en l'état, entraîneraient une atteinte grave à l'équité. Il n'est donc pas d'usage d'y recourir pour réparer la négligence d'une entreprise qui a laissé expirer le délai dans lequel la demande de plafonnement en fonction de la valeur ajoutée doit être déposée.
