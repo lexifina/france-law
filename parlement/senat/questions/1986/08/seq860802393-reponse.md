@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802393
+
+- Question : [SEQ860802393](seq860802393.md) — Enseignement de l'instruction civique et de la morale
+
+## Réponse
+
+*Éducation, JO du 1986-10-16, page 1454*
+
+Réponse. -L'arrêté du 23 avril 1985 fixe la durée hebdomadaire de la scolarité élémentaire à vingt-sept heures et prévoit qu'une heure doit être consacrée à l'éducation civique. A l'occasion de la publication, par arrêté du 15 mai 1985, des programmes et instructions pour l'école élémentaire, le Centre national de documentation pédagogique (C.N.D.P.), organisme sous tutelle du ministère de l'éducation nationale, a produit deux sortes de supports : des numéros de la revue Textes et documents pour la classe, en particulier le numéro 379, " L'Ecole de la République ", et le numéro 398, " Les Institutions françaises " ; douze émissions télévisées coproduites avec T.F. 1 dans la série " Le Chemin des écoliers " et intitulées " Citoyen en herbe ", réparties sur l'année scolaire 1985-1986. Les cassettes de ces films sont disponibles cette année dans les centres régionaux de documentation pédagogique. Par ailleurs, plusieurs centres régionaux de documentation pédagogique ont édité des jeux de diapositives, transparents pour rétroprojection, brochures, etc., sur ces sujets. En outre, le ministère de l'éducation nationale a publié des compléments aux programmes et instructions, directement adressés aux instituteurs ; l'un d'eux a porté sur " Les Symboles de la République ". Un autre, d'une vingtaine de pages, devrait être diffusé ultérieurement et préciser certains points du contenu de cette discipline. Enfin, de nombreux éditeurs ont publié des manuels d'éducation civique, parfois assortis d'un livre du maître entre lesquels il appartient aux enseignants d'exercer librement leur choix, comme pour l'ensemble des manuels scolaires.
