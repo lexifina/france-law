@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035593
+
+- Question : [SEQ011035593](seq011035593.md) — Transport ferroviaire régional de voyageurs
+
+## Réponse
+
+*Équipement, JO du 2002-02-28, page 670*
+
+Le transfert aux régions des compétences en matière de transports collectifs d'intérêt régional est inscrit dans la loi relative à la solidarité et au renouvellement urbain. Il constitue une réforme majeure dans le domaine des transports ferroviaires, dont les implications financières sont considérables et qui a nécessité de la part de l'Etat un effort sans précédent. En 2001, l'Etat a consacré aux services régionaux de voyageurs 7,5 milliards de francs (environ 1,14 milliard d'euros), qui étaient versés soit aux sept régions expérimentales, soit à la SNCF pour les treize autres régions françaises concernées. En 2002, l'Etat prévoit une dotation de plus de 1,5 milliard d'euros (9,88 milliards de francs) à verser aux régions au titre du transfert de compétences, ce qui représente 30 % d'augmentation entre ces deux années et 70 % depuis 1997. En plus de la compensation des charges transférées correspondant à l'exploitation, la loi prévoit une dotation complémentaire nécessaire pour aider les régions à renouveler le parc de matériel roulant affecté aux services transférés. Il s'agit là d'une innovation par rapport aux modalités de compensation financière des transferts de compétences réalisés par le passé. Les réunions de travail menées avec les représentants de l'Association des régions de France sur la dotation de renouvellement du matériel roulant ont conduit à des solutions équilibrées, le montant initial ayant été revalorisé de 50 % au cours de cette concertation. En ce qui concerne les relations financières entre les régions et la SNCF, celles-ci sont définies dans le cadre des conventions que les régions passent avec la SNCF pour fixer les conditions d'exploitation et de financement des services transférés.
