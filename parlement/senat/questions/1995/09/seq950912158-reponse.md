@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912158
+
+- Question : [SEQ950912158](seq950912158.md) — Fixation des indemnités des élus locaux à la suite du renouvellement des conseils municipaux
+
+## Réponse
+
+*Fonction publique, JO du 1995-11-16, page 2169*
+
+Réponse. - La circulaire du 19 juin 1995 ayant pour objet le rappel des mesures à prendre à la suite du renouvellement général des conseils municipaux portait notamment sur les règles applicables en matière d'indemnités de fonctions, tant en ce qui concerne les maires et les conseillers que les adjoints. Compte tenu des contraintes matérielles inhérentes à la mise en place des nouveaux conseils, j'ai, conjointement avec le secrétaire d'Etat au budget, demandé aux préfets et aux trésoriers-payeurs généraux de permettre le versement des indemnités des élus des conseils municipaux et des assemblées délibérantes des établissements publics de coopération intercommunales à compter de la date d'installation des nouvelles assemblées. Le télégramme du 13 septembre 1995 insistait sur le caractère exceptionnel de cette dérogation et rappelait les règles applicables en matière d'indemnités de fonctions. A la suite de la diffusion de ces directives, de nombreuses difficultés sont apparues tenant au fait que la règle constante selon laquelle un arrêté municipal exécutoire est nécessaire pour conférer des délégations de fonctions aux adjoints a bien souvent été perdue de vue. C'est pourquoi un télégramme en date du 12 octobre 1995, également cosigné par le secrétaire d'Etat au budget, a été adressé aux préfets et aux trésoriers-payeurs généraux pour autoriser une dérogation également exceptionnelle en ce qui concerne le versement d'indemnités aux adjoints, afin de tenir compte des difficultés liées à l'installation des nouvelles équipes municipales au cours de l'été.
