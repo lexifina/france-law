@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220530
+
+- Question : [SEQ970220530](seq970220530.md) — Lycée climatique et sportif de Font-Romeu
+
+## Réponse
+
+*Jeunesse, JO du 1997-05-08, page 1438*
+
+Réponse. - Construit avant les Jeux olympiques de Mexico 1968, le lycée climatique et sportif de Font-Romeu avait, notamment, pour vocation de devenir le centre national d'entraînement en altitude. Les évolutions intervenues au cours des trente années qui viennent de s'écouler conduisent au constat que le lycée de Font-Romeu n'occupe pas aujourd'hui la place qui lui paraissait destinée dans le dispositif français du sport de haut niveau. Cela se traduit, en particulier, par un taux d'occupation insuffisant pour un établissement auquel l'Etat consacre d'importants moyens. C'est pourquoi des réflexions ont été engagées en vue de confier des missions complémentaires au lycée de Font-Romeu, principalement sous forme de support à des formations universitaires en sciences et techniques des activités physiques et sportives. Compte tenu des orientations qui ont été exprimées par les collectivités territoriales, des études sont en cours en vue de faire passer le collège et le lycée de Font-Romeu sous le régime juridique de droit commun des établissements publics locaux d'enseignement : le département des Pyrénées-Orientales aurait la charge du collège, la région Languedoc-Roussillon ayant la charge du lycée. Un organisme commun de gestion du centre d'entraînement en altitude sera créé associant le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministère de la jeunesse et des sports, la région, le département et tout autre organisme intéressé. Chacun contribuera aux dépenses de personnel de ce centre. Cet effort de l'ensemble des partenaires doit permettre le bon fonctionnement des établissements scolaires et du centre d'entraînement en altitude à la rentrée 1997.
