@@ -1,107 +1,159 @@
 # Article Annexe VII
 
-Le coefficient d de qualité est donné par la relation :
+" Le coefficient d de qualité est donné par la relation :
 
-d = d1 + d2 + d3 dans laquelle
+" d = d1 + d2
 
-VII-1 d1 dépend de la qualité ou de la présence de certaines prestations intérieures au logement regroupées dans les rubriques suivantes :
+" dans laquelle :
 
-- électricité ;
+" VII.1. - d1 dépend de la qualité technique de l'opération appréciée selon la méthode Qualitel complétée, en ce qui concerne l'enveloppe extérieure, à l'aide des tables d'investissements établies par le Centre scientifique et technique du bâtiment (C.S.T.B.) et publiées par l'association Qualitel.
 
-- plomberie-sanitaire ;
+" Le coefficient d1 est donné par la relation :
 
-- traitement des accès, conduits de fumée.
+" d1 = d1 Base + M1 + M2 + M3 + M4 + M5
 
-Le coefficient d1 est déterminé à partir de la cotation rubrique par rubrique de l'opération :
+" dans laquelle d1 Base est une majoration de base, M1, M2, M3, M4 et M5 des majorations complémentaires. Celles-ci ne peuvent s'appliquer qu'aux opérations qui ont obtenu la majoration de base.
 
-d = N1 +N2 +N3, expression dans laquelle
+" VII.1.1. - Majoration de base.
 
-N1, N2 et N3 représentent les cotations de la qualité de l'opération pour les rubriques citées plus haut et sur lesquelles le maître d'ouvrage s'est engagé dans la fiche citée à l'article 2.2. du présent arrêté.
+" Lorsque tous les logements de l'opération bénéficient du label Qualitel,
 
-VII-1.1. Pour chacune de ces rubriques la cotation globale d'une opération est obtenue à partir de la cotation d'un seul logement, étant entendu que tous les logements ont une qualité au moins égale à celle du logement utilisé pour la cotation de la rubrique envisagée.
+" d1 Base = 0,150 pour les immeubles collectifs,
 
-VII-1.2. Cotation de chaque rubrique pour un logement.
+" d1 Base = 0,135 pour les maisons individuelles.
 
-VII-1.2.1. Electricité : les critères pris en compte figurent dans les rubriques k22 et g3 du guide Qualitel.
+" VII.1.2. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique 1 " Protection contre les bruits émis à l'intérieur du bâtiment " de la méthode Qualitel.
 
-- s'il n'est pas prévu de distribution électrique intérieure N1 =
+" A la majoration de base définie au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M1 déterminée en fonction du nombre total de points obtenus à la rubrique 1 " Protection contre les bruits émis à l'intérieur du bâtiment " de la méthode Qualitel.
 
-- 0,01 ;
+" La majoration complémentaire M1 est donnée par la formule :
 
-- si le logement ne répond pas aux critères d'attribution de la note 4 de la rubrique k22 du guide Qualitel ou si l'équipement électrique ne répond pas aux critères d'attribution de la note 4 de la rubrique g3, N1 = 0 ;
+M1 = ((0,334 U - 2,68)/100) X pour les immeubles collectifs
 
-- si le logement répond aux critères d'attribution ci-dessus.
+" et par la formule :
 
-N1 = 0,01.
+M1 =((0,3 U - 1,8)/100) X pour les maisons individuelles
 
-VII-1.2.2. Plomberie-sanitaire.
+" où U est égal à la plus petite des valeurs X et (Xo + 2), X étant la moyenne des cotations T des logements et Xo la plus petite des cotations.
 
-La rubrique j221 de la méthode Qualitel indique le nombre de points apportés par la présence d'un équipement. Soit t la somme de ces points. Cette valeur est comparée à celle donnée par le tableau suivant :
+" VII.1.3. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique m " Protection contre les bruits émis à l'extérieur du bâtiment " de la méthode Qualitel.
 
-Type I et II : t mini = 11
+" A la majoration de base définie au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M2 déterminée en fonction de la cotation de la rubrique m " Protection contre les bruits émis à l'extérieur du bâtiment " de la méthode Qualitel.
 
-Type III à V : t mini = 13
+" La majoration complémentaire M2 est donnée par la formule :
 
-Type VI et plus : t mini = 15.
+M2 = (NIc + 1,5 N30 + 2 N35 + 2,5 N40)/100 N
 
-- si t est inférieur à tmini ou si la robinetterie n'est pas conforme à la marque NF ou si la note partielle j22a du guide Qualitel (production d'eau chaude) est 1 alors N2 = - 0,015.
+" où NIc, N30, N35, N40 représentent le nombre de logements ayant obtenu la note 5 à la rubrique m de la méthode Qualitel et dont l'isolement de façade requis est respectivement égal à Ic (isolement courant), 30 dB (A), 35 dB (A), et 40 dB (A), N étant le nombre total de logements. Pour l'application de cette formule, les logements présentant des isolements requis multiples sont pris en compte au titre de l'isolement requis le plus important.
 
-- sinon, N2 = 3 (t-tmini) / 1000.
+" VII.1.4. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique q " Coût d'entretien des façades et des toitures " de la méthode Qualitel et des tables d'investissements établies par le C.S.T.B. et publiées par l'association Qualitel.
 
-1.2.3. Autres prestations : ces prestations ne sont pas prises en compte dans la méthode Qualitel. La cotation est :
+" A la majoration de base définie au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M3 déterminée en fonction de la cotation de la rubrique q " Coût d'entretien des façades et des toitures " de la méthode Qualitel et des classes d'investissement de chaque type d'ouvrage qui figurent dans les tables d'investissements établies par le C.S.T.B. et publiées par l'association Qualitel.
 
-N3 = N'3 + N"3.
+" La majoration complémentaire M3 est donnée par la formule :
 
-- Traitement des accès : N'3 est donnée par la formule :
+" M3 = (1,282 + 1,785 I - 0,285 (P / Sh) (I + 1))/ 100
 
-N'3 = E/Bv x 1,28
+" où P / Sh est la valeur du rapport obtenu à la rubrique q de la méthode Qualitel.
 
-dans laquelle E est le surcoût dû aux équipements et produits permettant d'améliorer la sécurité des accès (hall d'entrée et logements).
+" I dépend du coût d'investissement pris en compte à partir des classes d'investissement pi de chaque type d'ouvrages, classes qui figurent dans les tables d'investissements établies par le C.S.T.B. et publiées par l'association Qualitel. Les surfaces si de chaque type d'ouvrage sont soit les surfaces forfaitaires définies dans la rubrique q de la méthode Qualitel, soit les surfaces réelles fournies par le maître d'ouvrage.
 
-N'3 est plafonnée à 0,005.
+" I est donné par la formule :
 
-- conduits de fumée, si chaque logement bénéficie de la présence d'un conduit de fumée N"3 = 0,005,
+" (Pi Si)/Sh
 
-Sinon, N"3 = 0.
+" dans laquelle :
 
-VII-2 d2 dépend du niveau de qualité de l'isolation acoustique des logements vis-à-vis des bruits extérieurs et intérieurs au bâtiment. Il est la somme des majorations suivantes :
+" Pi Si est la somme des produits pi si.
 
-VII-2.1. d'2 : bruits intérieurs :
+" Sh est la surface habitable de l'opération.
 
-d'2 est déterminé en fonction de la cotation U de l'opération calculée à partir des cotations T de tous les logements définies à l'aide de la rubrique L du guide Qualitel.
+" M3 a pour limite supérieure 0,025.
 
-Si on appelle X la moyenne des cotations T des logements et Xo la plus petite de ces cotations, U est égal à la plus petite des valeurs X et Xo + 2 et la majoration vaut :
+" VII.1.5. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique s " Niveau prévisionnel des charges de chauffage et d'eau chaude sanitaire " de la méthode Qualitel.
 
-d'2 = 0,0025 (U +(U - 100)), expression dans laquelle on ne tient compte que des valeurs positives du terme (U - 10).
+" A la majoration de base prévue au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M4 déterminée en fonction de la cotation de la rubrique s " Niveau prévisionnel des charges de chauffage et d'eau chaude sanitaire " de la méthode Qualitel.
 
-VII-2.2. d"2 : bruits extérieurs :
+" Les valeurs d'application de M4, déterminées en fonction de la note obtenue par l'ensemble des logements à la rubrique s, sont données par le tableau suivant :
 
-d"2 est donnée par la formule :
+:-----------------------------: |
 
-d"2 = (2 S30 + 4 S35 + 5 (S40 + S45)) / 100S
+: NOTE : SANS : |
 
-formule dans laquelle S30, S35, S40 et S45 représentent les surfaces de façades pour lesquelles il existe un niveau d'isolation réglementaire en application de l'arrêté du 6 octobre 1978 respectivement égal à 30, 35, 40 ou 45d B(A), S étant la surface totale de façades.
+: obtenue : contribution : |
 
-VII-3. d3 dépend à la fois du coût d'investissement et du coût d'entretien de l'enveloppe du bâtiment.
+: à la : solaire : |
 
-d3 = (d3 entretien + d3 investissement) : 2.
+: rubrique s :---------------: |
 
-Si d3 entretien est inférieur ou égal à d3 investissement : d3 = d3 entretien.
+: : 4 : 5 : |
 
-VII-3.1. Le coût d'entretien est exprimé par la valeur P déterminée conformément aux dispositions du paragraphe Q3 de la méthode Qualitel en retenant conventionnellement la note N' figurant dans le calcul de P, égale à 4 pour les occultations dans le cas des ouvertures non munies d'occultations.
+:-------------:---------------: |
 
-d3 entretien est donné par la formule suivante :
+: Maisons : : : |
 
-d3 entretien = 0,04 + 0,025 (2 - P/s)
+:individuelles: 0,035 : 0,050 : |
 
-expression dans laquelle s représente la surface de l'enveloppe.
+: Immeubles : : : |
 
-Dans le cas où le calcul conduit à une valeur négative, d3 entretien est pris égal à zéro.
+: collectifs : 0,020 : 0,035 : |
 
-VII-3.2. Le coût d'investissement est pris en compte à partir des notes d'investissement pi de chaque type d'ouvrages, notes qui figurent dans la table des classes d'investissement publiées par l'association Qualitel. Les surfaces Si de chaque type d'ouvrages sont soit les surfaces forfaitaires définies dans la rubrique Q du guide Qualitel, soit les surfaces réelles fournies par le maître d'ouvrage.
+:-----------------------------: |
 
-d3 investissement est donné par la formule suivante :
+:-----------------------------: |
 
-d3 investissement = 0,06 x (Pisi/SH).
+: NOTE : AVEC : |
 
-expression dans laquelle SH est la surface habitable de l'opération.
+: obtenue : contribution : |
+
+: à la : solaire : |
+
+: rubrique s :---------------: |
+
+: : 4 : 5 : |
+
+:-------------:---------------: |
+
+: Maisons : : : |
+
+:individuelles: 0,050 : 0,060 : |
+
+: Immeubles : : : |
+
+: collectifs : 0,035 : 0,045 : |
+
+:-----------------------------: |
+
+" VII.I.6. - Majoration complémentaire déterminée en fonction de la cotation de la rubrique e " Accessibilité " de la méthode Qualitel.
+
+" A la majoration de base prévue au paragraphe VII.1.1 ci-dessus, peut s'ajouter une majoration complémentaire M5 déterminée en fonction de la cotation de la rubrique e " Accessibilité " de la méthode Qualitel.
+
+" La majoration complémentaire M5 est donnée par la formule : " M5 = (3,33 NA + 0,33 N)/ 100 N
+
+" M5 ayant pour limite supérieure 0,020 ; toutefois, pour les immeubles collectifs de moins de quatre étages au-dessus du rez-de-chaussée comportant un ascenseur desservant chaque étage, la majoration complémentaire M5 est donnée par la formule : " M5 = (3,33 NA + 1,33 N)/ 100 N
+
+" M5 ayant pour limite supérieure 0,030.
+
+" Dans les formules ci-dessus, NA représente le nombre de logements ayant obtenu la note 3 à la rubrique e de la méthode Qualitel, ce nombre ne devant pas être inférieur à 20 p. 100 des logements de l'opération, N étant le nombre total de logements.
+
+" VII.2. - d2 dépend des prestations qui ne sont pas prises en compte dans la méthode Qualitel, regroupées dans les rubriques suivantes :
+
+" - traitement des accès ;
+
+" - conduits de fumée.
+
+" La cotation est :
+
+d2 = N1 + N2
+
+" - N1 (traitement des accès) : N1 est donné par la formule :
+
+" N1 = E/Bv
+
+" N1 = E/Bv
+
+" dans laquelle E est le surcoût dû aux équipements et produits permettant d'améliorer la sécurité des accès (hall d'entrée et logements).
+
+" N1 est plafonné à 0,005 ;
+
+" - N2 (conduits de fumée) : si chaque logement bénéficie de la présence d'un conduit de fumée, N2 = 0,005. "
