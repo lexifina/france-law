@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810363
+
+- Question : [SEQ980810363](seq980810363.md) — Droit au travail
+
+## Réponse
+
+*Emploi, JO du 1999-01-28, page 291*
+
+Réponse. - Le principe posé par la loi des 2 et 17 mars 1791, en vertu duquel " il est libre à toute personne d'exercer telle profession, art ou industrie qui lui convient " et réaffirmé dans le préambule de la Constitution de 1946, connaît des aménagements nécessaires au bon fonctionnement de certaines professions. Ainsi, des textes spéciaux subordonnent l'exerce de certaines activités à une autorisation administrative préalable. On rencontre généralement ce régime préventif lorsque sont en jeu des intérêts majeurs de sécurité ou d'ordre public. Ainsi la création d'une officine de pharmacie est subordonnée à la délivrance d'une licence (article 571 du code de la santé publique). Sont également soumises à l'obtention d'un agrément les professions d'assistance maternelle, conformément à l'article L. 123-1 du code de la famille et de l'aide sociale ainsi que celle d'agent de mannequins enfants, conformément à l'article L. 211-6 du code du travail. L'auteur de la décision administrative portant autorisation d'exercer, dès lors qu'il est compétent, peut toujours en prononcer le retrait s'il lui apparaît que les conditions qui ont fondé sa décision ne sont plus respectées. La décision de retrait d'autorisation ou d'agrément qui est obligatoirement motivée et notifiée à l'intéressé, peut faire l'objet concomitamment d'un recours gracieux devant l'autorité ministérielle, auteur de l'acte administratif, et d'un recours contentieux devant le tribunal administratif. Il apparaît, compte tenu notamment des voies de recours offertes aux citoyens, que les régimes d'autorisation administrative ou d'agrément qui, au demeurant, conservent un caractère tout à fait exceptionnel, ne sont pas contraires au principe constitutionnel du droit au travail.
