@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718062
+
+- Question : [SEQ990718062](seq990718062.md) — Conditions d'attribution de la carte du combattant
+
+## Réponse
+
+*Défense, JO du 1999-08-19, page 2790*
+
+Réponse. - L'arrêté interministériel du 12 janvier 1994 fixe la liste des opérations extérieures ouvrant droit au bénéfice de la carte du combattant, au titre de l'article L. 253 ter du code des pensions militaires d'invalidité et des victimes de guerre. La parution de cet arrêté permet aux services historiques des armées d'entreprendre un travail d'analyse et d'exploitation des archives afin de définir les unités combattantes répondant aux conditions prescrites par ce texte. Conformément aux dispositions de la loi nº 93-7 du 4 janvier 1993 relative aux conditions d'attribution de la carte du combattant, ce travail s'effectue selon un ordre chronologique, afin de satisfaire les combattants des conflits les plus anciens. Concernant l'armée de terre, les listes d'unités ayant combattu sur les territoires concernés par l'arrêté du 12 janvier 1994 et déjà publiées au Bulletin officiel des armées font l'objet du tableau suivant :( NOTA Voir tableau page 2790 ). Pour la marine nationale, la liste des bâtiments et unités ayant participé aux opérations du Liban, entre le 11 juin 1982 et le 21 avril 1989, a été publiée le 5 octobre 1998. Celle des opérations menées dans le golfe d'Oman et le golfe Persique, entre le 30 juillet 1987 et le 15 juillet 1991, sera diffusée en octobre 1999. Enfin, la liste des unités combattantes ayant pris part aux opérations du Tchad qui, pour la marine, se limite à des formations de l'aéronautique navale, est en cours d'élaboration et sera publiée avant la fin de l'année 1999. S'agissant de l'armée de l'air, les listes d'unités combattantes publiées au Bulletin officiel des armées sont reprises dans le tableau ci-après :( NOTA Voir tableau page 2790 ).
