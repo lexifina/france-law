@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320630
+
+- Question : [SEQ920320630](seq920320630.md) — Institution d'une redevance pollution pour les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1992-06-25, page 1422*
+
+Réponse. - L'accord cadre, précisant les conditions d'insertion des agriculteurs dans le dispositif général des agences de l'eau, a pour objectif de renforcer les actions préventives destinées à réduire la pollution des eaux par les nitrates. L'accord signé entre le ministre de l'agriculture et de la forêt et le ministre de l'environnement tient compte des spécificités de l'agriculture et prévoit notamment trois dispositions essentielles : 1° un calendrier d'application très progressif sur dix ans en s'appuyant à la fois sur trois grandes catégories d'exploitation successivement concernées par le dispositif, sur une interrogation progressive sur cinq ans pour chacune des catégories et sur l'affectation d'un coefficient progressif affecté au montant de la redevance. Ainsi le dispositif n'acquiert son plein effet qu'en l'an 2002 ; 2° un dispositif spécifique au secteur agricole permettant à ceux ayant adopté les bonnes pratiques agricoles de ne pas payer de redevance; 3° le dispositif d'aides aux investissements précède celui de la redevance qui, en tout état de cause, doit permettre de faire bénéficier les exploitants agricoles de la solidarité des autres usagers du bassin. De plus, un effort spécifique sera conduit dans les zones de captages avec les concours des consommateurs. Par ailleurs, un espace de négociation est proposé à la profession agricole tant au niveau national qu'au niveau des instances de bassin. En particulier, un groupe de travail technique va être constitué pour proposer les aménagements techniques contenus dans les arrêtés complémentaires à celui pris le 10 décembre 1991 par le ministre de l'environnement.
