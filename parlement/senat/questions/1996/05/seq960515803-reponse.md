@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515803
+
+- Question : [SEQ960515803](seq960515803.md) — Aménagement du temps de travail dans la métallurgie
+
+## Réponse
+
+*Emploi, JO du 1996-08-08, page 2068*
+
+Réponse. - Les négociations de branche sur l'aménagement et la réduction du temps de travail qui ont été entamées sous l'impulsion de l'accord national interprofessionnel sur l'emploi du 31 octobre 1995 revêtent une grande importance. Le ministre délégué pour l'emploi suit avec une particulière attention leur déroulement et leurs résultats, qui ont été examinés notamment à l'occasion d'une récente réunion entre le Gouvernement et les partenaires, le 8 juillet, sous l'égide du Premier ministre. Au 2 juillet 1996, 17 accords de branche avaient été signés, dont 12 dans des branches de plus de 10 000 salariés. Le 10 juillet, un accord a été également signé dans les magasins à dominance alimentaire et les entrepôts d'alimentation. L'accord signé le 3 mai dans la métallurgie est l'accord qui concerne l'effectif le plus nombreux, plus de 1,8 million de salariés. Compte tenu de sa portée, il n'est pas surprenant que son contenu ait été regardé de très près par tous les acteurs de la négociation sociale et suscite des appréciations contradictoires. Si le thème de la maîtrise des heures supplémentaires trouve un écho plutôt limité dans cet accord, il faut relever qu'il aborde plusieurs autres aspects de la réorganisation du temps de travail, et que les effets sur l'emploi d'accords conclus au niveau de la branche sont par nature assez difficiles à cerner a priori. Il est, en tout état de cause, essentiel que la mise en oeuvre opérationnelle des démarches de réorganisation au niveau des entreprises, dans le cadre général défini par les accords de branche, s'opère selon des modalités qui favorisent la sauvegarde, la stabilisation et le développement de l'emploi.
