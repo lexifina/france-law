@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501135
+
+- Question : [SEQ930501135](seq930501135.md) — Unité de stockage de chlore de l'entreprise Gazechim, à Mitry-Mory (Seine-et-Marne)
+
+## Réponse
+
+*Industrie, JO du 1993-09-16, page 1653*
+
+Réponse. - L'Etat n'a entrepris aucune démarche visant à aboutir au déménagement de l'entreprise Gazechim, à Mitry-Mory. La délocalisation de cet établissement, existant avant l'adoption de la direction dite " Seveso " et situé en pleine zone industrielle n'est pas d'actualité. Toutefois, consciente des dangers présentés par cette activité, la direction régionale de l'industrie, de la recherche et de l'environnement a fait procéder à une mise à jour de l'étude des dangers en 1992 et fait réaliser par l'Institut national de l'environnement et des risques (INERIS) un audit de sûreté début 1993. L'INERIS a notamment conclu que " les travaux réalisés améliorent la sécurité du poste de remplissage de chlore ". L'exécution de ces travaux visant à minimiser le risque d'accident ou à en limiter les conséquences vient compléter les mesures de limitation de l'urbanisation (périmètre de protection de 1 000 mètres prescrit par arrêté préfectoral en 1987). Le plan particulier d'intervention de cet établissement a été approuvé par le préfet de Seine-et-Marne, le 22 janvier 1993. Enfin, dans un souci de concertation et sur proposition de la direction régionale de l'industrie, de la recherche et de l'environnement, une commission locale d'information a été créée par le préfet de Seine-et-Marne le 15 juillet 1993. Cette instance, dont le maire de Mitry-Mory est naturellement membre, se réunira pour la première fois dès le mois de septembre 1993. L'ensemble de ces dispositions paraît de nature à assurer un niveau satisfaisant de protection et d'information des populations.
