@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601382
+
+- Question : [SEQ930601382](seq930601382.md) — Mise en chantier de l'autoroute A 89 Clermont-Ferrand-Bordeaux
+
+## Réponse
+
+*Équipement, JO du 1993-09-02, page 1527*
+
+Réponse. - En reliant les villes de Bordeaux et de Clermont-Ferrand, l'autoroute A 89 doit permettre d'assurer une grande liaison transversale Est-Ouest et contribuer au désenclavement des régions traversées. Elle constitue donc à ce titre l'un des outils majeurs de la grande politique d'aménagement du territoire que le Gouvernement entend conduire. Les procédures relatives à cette opération sont désormais bien avancées puisque la bande de 300 mètres de la future autoroute est d'ores et déjà connue en Dordogne, à l'est de Périgueux, en Corrèze, et sur une partie du département du Puy-de-Dôme. Elle devrait par ailleurs l'être prochainement entre Bordeaux et Périgneux. Les difficultés rencontrées dans la mise au point du tracé dans le parc naturel des Volcans d'Auvergne ont conduit à relancer les études dans ce secteur à l'intérieur d'un nouveau périmètre d'investigation. Aussi, après un examen approfondi du dossier, et afin de ne pas retarder l'avancement de cette opération d'une importance considérable, l'enquête publique est envisagée dans un premier temps entre Bordeaux et le réseau national existant à l'entrée du département du Puy-de-Dôme. Cette solution permettra de lancer, dans les meilleurs délais possibles, et au plus tard au début de 1994, la procédure préalable à la déclaration d'utile publique sur l'essentiel de l'itinéraire déjà défini tout en offrant, dans l'attente du résultat des études complémentaires en cours dans la région du parc des Volcans, un raccordement sur la R.N. 89, aux environs de Laqueuille, permettant une liaison correcte vers Clermont-Ferrand.
