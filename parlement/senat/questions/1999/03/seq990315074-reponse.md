@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990315074
+
+- Question : [SEQ990315074](seq990315074.md) — Limites du dispositif relatif à l'interruption volontaire de grossesse
+
+## Réponse
+
+*Santé, JO du 1999-07-01, page 2242*
+
+Réponse. - L'honorable parlementaire appelle l'attention de M. le secrétaire d'Etat à la santé et à l'action sociale sur le problème du dispositif relatif à l'interruption volontaire de grossesse. Des difficultés particulières ayant en effet été signalées à la direction des hôpitaux en matière de fonctionnement du dispositif hospitalier de prise en charge des IVG, une circulaire du 22 juillet 1998 a rappelé aux directeurs des agences régionales de l'hospitalisation, aux directeurs départementaux des affaires sanitaires et sociales et aux directeurs d'établissements publics de santé, la nécessité d'organiser la permanence des soins en matière d'IVG, notamment durant la période estivale. Cette circulaire rappelait également aux établissements concernés, à l'attention de leurs personnels médical et para-médical, la possibilité légale de ramener à deux jours seulement le délai normal d'une semaine de réflexion si le terme des dix semaines risquait d'être dépassé pour ces femmes en situation de détresse. Il revient ainsi aux corps d'inspection des services déconcentrés de s'assurer de la conformité du fonctionnement des structures d'orthogénie aux règles en vigueur. L'accréditation ne paraît pas nécessairement le bon moyen pour encourager les services hospitaliers à développer des unités d'orthogénie. Par contre plusieurs propositions du rapport du professeur Nisand sur l'IVG, destinées à améliorer l'accès au dispositif de l'IVG en France, sont à l'étude, que ce soit en matière de rationalisation des structures, de simplification des procédures existantes ou d'amélioration de l'accès à la contraception.
