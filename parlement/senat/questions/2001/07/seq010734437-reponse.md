@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734437
+
+- Question : [SEQ010734437](seq010734437.md) — Terre d'asile
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-27, page 3092*
+
+La France a toujours témoigné au Haut-Commissariat des Nations unies pour les réfugiés son soutien et sa confiance. Elle a, de même, toujours marqué son attachement à la convention de Genève de 1951 relative au statut des réfugiés et à l'exercice du droit d'asile. En raison de l'intérêt qu'il porte au Haut-Commissariat et à ses missions, le ministère des affaires étrangères lui accorde, dans la limite de ses moyens, un important appui financier. La contribution annuelle versée au Haut-Commissariat a augmenté de 25 % en deux ans, passant de 44 MF en 1999 à 51 MF en 2001, ce qui représente la deuxième contribution volontaire de la France à une organisation multilatérale. En cas de crises particulières, des versements exceptionnels sont effectués pour aider l'organisation à faire face à des besoins imprévus. S'il est exact que l'ensemble de ces financements n'a placé notre pays, à titre bilatéral, qu'au quinzième rang des donateurs en 2000, il convient de souligner que la France apporte également un important soutien au Haut-Commissariat par le biais des financements communautaires, où sa quote-part s'élève à près de 18 %. C'est ainsi que, pour l'année 2000, l'appui global de la France s'est élevé à environ 110 MF. Un effort considérable a par ailleurs été fait pour accroître les moyens de l'Office français de protection des réfugiés et apatrides (OFPRA) pour lui permettre de recruter, au cours de l'année 2000, cent dix agents supplémentaires. Grâce à cet effort, l'OFPRA a été en mesure de rendre un nombre accru de décisions (30 278) et d'augmenter le taux de convocation des demandeurs d'asile, qui est actuellement de 60 %. Il a pour objectif de généraliser cette procédure de convocation à l'ensemble des demandeurs.
