@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616033
+
+- Question : [SEQ960616033](seq960616033.md) — Coopération franco-allemande dans le domaine de l'éducation
+
+## Réponse
+
+*Éducation, JO du 1996-08-29, page 2220*
+
+Réponse. - Le service culturel de l'ambassade de la République fédérale d'Allemagne a transmis au ministre le 7 novembre 1995 un projet d'invitation du Gouvernement fédéral à l'intention de hauts fonctionnaires des rectorats sur le thème " Le travail des administrations scolaires sur la base de notre structure fédérale ". Le séjour en Allemagne était prévu du 21 au 28 janvier 1996. Le service culturel a ensuite adressé directement l'invitation à différents rectorats (une douzaine), l'objectif étant d'obtenir un minimum de six réponses positives. N'ont pas été saisis les rectorats ayant déjà été invités à un programme de ce type en 1992. N'ayant obtenu que deux réponses positives, les autorités allemandes ont annulé le voyage. Les raisons qui n'ont pas permis aux rectorats concernés de donner suite à l'invitation ont été essentiellement : le délai relativement court entre la réception de l'invitation et la date du voyage en Allemagne ; l'impossibilité pour certains responsables de s'absenter de leur poste pendant une semaine ; la désignation de participants à un moment où il était procédé à un changement de recteur. Il sera demandé à la partie allemande de prévoir à l'avenir un délai plus long entre la diffusion de l'invitation et la date du voyage. Par ailleurs, le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, animé par un vif désir de développer la coopération éducative franco-allemande, prépare, en étroite coopération avec le ministère des affaires étrangères et les autorités allemandes concernées aux plans fédéral et régional, une série de mesures destinées à renforcer les relations franco-allemandes dans les domaines de l'enseignement et de la recherche.
