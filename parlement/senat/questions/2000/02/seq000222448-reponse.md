@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222448
+
+- Question : [SEQ000222448](seq000222448.md) — Départements d'outre-mer (DOM) et plans d'action d'accueil, d'information et d'orientation (AIO) contenus dans les plans régionaux de développement des formations (PRDF) insuffisants
+
+## Réponse
+
+*Outre-mer, JO du 2000-03-23, page 1085*
+
+Réponse. - L'honorable parlementaire appelle l'attention de monsieur le secrétaire d'Etat à l'outre-mer sur les conclusions du rapport du comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue et en particulier sur l'insuffisance des plans d'action en matière d'accueil, d'information et d'orientation des jeunes de moins de 26 ans contenus dans les programmes régionaux de développement des formations. Il convient de rappeler que l'élaboration des programmes régionaux de développement des formations relève de la compétence exclusive des conseils régionaux. Le rapport précité met en relief un paradoxe : si les conseils régionaux se sont vu confier la compétence de droit commun pour la formation professionnelle des jeunes par la loi quinquennale nº 93-1313 du 20 novembre 1993, ils n'ont pas obligation de financer les structures ayant en charge l'accueil et l'orientation des jeunes (missions locales, permanences d'accueil, d'information et d'orientation...). Le rapport souligne cependant que plusieurs initiatives prometteuses sont engagées dans les départements d'outre-mer en collaboration ou à l'initiative des conseils régionaux : la création d'une mission locale régionale en Guyane ; la création d'une cité des métiers en Guadeloupe ; une expérimentation à la Réunion visant à coordonner l'ensemble des structures d'accueil, indépendamment du public accueilli, et à créer des plates-formes de préparation à l'insertion. L'ensemble de ces initiatives visent à rendre plus efficace l'action des structures d'accueil et d'orientation des jeunes.
