@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705512
+
+- Question : [SEQ890705512](seq890705512.md) — Règle du pénultième concernant les collectivités locales
+
+## Réponse
+
+*Budget, JO du 1989-09-14, page 1497*
+
+Réponse. - Il faut, tout d'abord, rappeler que, conformément à la réglementation en vigueur, c'est pour des raisons techniques que les attributions du fonds de compensation pour la taxe sur la valeur ajoutée (F.C.T.V.A.) interviennent au cours de la deuxième année consécutive au paiement de la dépense. En effet, le dispositif de compensation de la T.V.A. est subordonné à la production des comptes administratifs des collectivités bénéficiaires. Or ces comptes, qui servent de base au calcul des dotations, doivent être votés avant le 1er octobre de l'année suivant l'exercice considéré et c'est généralement à la fin de l'année que les préfets sont en mesure, après les vérifications nécessaires, d'établir les états permettant de fixer les droits à remboursement de chaque collectivité. Lors de sa séance du 28 février 1989, le comité des finances locales a demandé au Gouvernement d'étudier les conditions dans lesquelles pourrait être atténuée la charge de trésorerieque provoque, pour les collectivités locales, le différé de deux ans dans le versement du fonds. Il apparaît que, si l'Etat devait compenser aux collectivités locales la charge de trésorerie en cause, la dépense budgétaire serait de l'ordre de 2,6 milliards de francs. Cette évaluation est établie sur la base d'un taux d'intérêt de 9,5 p. 100 (qui est proche de celui actuellement pratiqué par divers établissements financiers accordant des prêts relais au titre du F.C.T.V.A.) appliqué, durant deux ans, à une dotation budgétaire voisine de 14 milliards de francs. Une telle dépense n'est pas compatible avec les contraintes budgétaires de l'Etat. Il ne peut donc être envisagé de mettre en place un dispositif aussi coûteux de compensation des charges de trésorerie résultant du différé de deux ans.
