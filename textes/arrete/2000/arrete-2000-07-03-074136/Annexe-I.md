@@ -44,11 +44,11 @@ Amisol :
 
 - 35, rue du Pré-la-Reine, 63000 Clermont-Ferrand : de 1910 à 1974.
 
-Everitube : 63750 Messeix : de 1979 à 1985.
+Distrimat/Franconit/Everitube :
 
-Franconit/Everitube :
+- 63700 Saint-Eloy : de 1972 à 1984.
 
-- 63700 Saint-Eloy : de 1974 à 1984.
+Everitube : 63750 Messeix : de 1973 à 1985.
 
 Bourgogne
 
@@ -262,9 +262,9 @@ Valeo :
 
 Lorraine
 
-Arjomary Prioux :
+Arjomary Prioux/Arjo-Wiggins :
 
-- usine d'Arches, BP 29, 88380 Arches : de 1960 à 1989.
+- usine d'Arches, BP 29, 88380 Arches : de 1960 à 1992.
 
 Aubertin SA :
 
@@ -340,7 +340,7 @@ Saliens Industries (Moulin de Saliens Villebrumier) :
 
 Wanner Isofi Isolation/Wanner Isofi/Wanner Industrie :
 
-- 97, route d'Albi, 31200 Toulouse, puis 19, chemin de la Menude, 31770 Colomiers, puis 82400 Golfech : de 1950 à 1999.
+- 97, route d'Albi, 31200 Toulouse, et 19, chemin de la Menude, 31770 Colomiers, et 82400 Golfech : de 1950 à 1999.
 
 Nord - Pas-de-Calais
 
@@ -420,9 +420,7 @@ M. Regne Félix :
 
 - 61100 Ségrie-Fontaine : de 1960 à 1977.
 
-SMLS Briens Lamoureux :
-
-- route de Coutances, 50180 Agneaux : de 1966 à 1981.
+SMSL Briens Lamoureux, route de Coutances, 50180 Agneaux : de 1966 à 1996.
 
 Société Regnier :
 
@@ -634,9 +632,9 @@ Wanner/Wanner Isofi/Wanner Industrie :
 
 - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ;
 
-- 31, boulevard Magallon, 13015 Marseille : de 1967 à 1987 ;
+- 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ;
 
-- 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence : de 1987 à 1997 ;
+- 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ;
 
 - 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
 
