@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407110
+
+- Question : [SEQ030407110](seq030407110.md) — Devenir des centres d'information et d'orientation de Loire-Atlantique
+
+## Réponse
+
+*Jeunesse, JO du 2003-06-12, page 1917*
+
+Ce projet s'inscrit dans le cadre de la réforme constitutionnelle sur l'organisation décentralisée de la République adoptée par le Congrès le 6 mars dernier. Il sera soumis prochainement au Parlement. Afin de répondre aux attentes des Français d'un service public de qualité, plus proche d'eux, concernant l'orientation, l'échelon régional est considéré comme le mieux à même de mettre en cohérence le conseil à l'orientation et l'information sur les métiers, activités partagées par divers organismes (CIO, ONISEP, PAIO, AFPA, missions locales...). En conséquence, ce sont désormais les régions qui auront la responsabilité des centres d'information et d'orientation et de leurs personnels. La collaboration entre le conseil régional et le rectorat sera renforcée et devrait permettre de construire une offre d'information et de conseil en orientation cohérente. Dans ce nouveau cadre, les personnels en fonction dans les CIO (directeurs de CIO et conseillers d'orientation-psychologues) continueront à participer directement aux missions du service public de l'éducation. Ils continueront notamment d'apporter leur expertise aux établissements d'enseignement sous la forme du conseil à la communauté éducative dont ils demeureront membres à part entière et du conseil individuel aux élèves. Les conseillers d'orientation-psychologues et les directeurs de CIO ont vocation à intégrer la fonction publique territoriale, dans des conditions à définir. Mais ceux qui souhaiteront néanmoins conserver leur statut de fonctionnaire d'Etat le pourront, tout en bénéficiant d'un détachement de longue durée dans la fonction publique territoriale. Les modalités de ces dispositions seront discutées avec les représentants des personnels, dans un esprit de large ouverture.
