@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415672
+
+- Question : [SEQ990415672](seq990415672.md) — Nombre d'écoutes téléphoniques ordonnées par les magistrats de l'ordre judiciaire
+
+## Réponse
+
+*Justice, JO du 1999-09-30, page 3236*
+
+Réponse. - La ministre de la justice porte à la connaissance de l'honorable parlementaire que les interceptions judiciaires réalisées sur le réseau fixe ont été au nombre de 11 453 pour l'année 1994, de 11 299 pour l'année 1995, de 9 336 pour l'année 1996, de 9 219 pour l'année 1997 et de 7 487 pour l'année 1998. Ces chiffres résultent des statistiques de l'exploitant France Telecom. Le montant des dépenses spécifiques aux écoutes téléphoniques pour l'année 1998 n'est pas connu, mais le montant global des frais résultant des réquisitions adressées à France Telecom, qui concerne, outre les interceptions téléphoniques, notamment les recherches tendant à l'identification de l'origine des appels téléphoniques et à leurs abonnés, s'élève à 129 millions de francs en 1998. Les modalités des interceptions judiciaires sont très strictement définies par les articles 100 à 100-7 du code de procédure pénale, lesquels confèrent au juge d'instruction le pouvoir exclusif d'ordonner, lorsque les nécessités de l'information l'exigent, des interceptions de communications qui sont effectuées sous son autorité et sous son contrôle. La décision, prise par écrit, doit comporter tous les éléments d'identification de la ligne à intercepter, l'infraction qui motive le recours à l'interception ainsi que la durée de celle-ci qui ne peut excéder quatre mois. Le contrôle du magistrat s'exerce sur le respect des formalités qui s'attachent aux opérations d'interception et d'enregistrement des correspondances ainsi que sur ses résultats. La décision de prolongation, qui doit satisfaire aux mêmes conditions de fond et de forme que la décision initiale, ne peut d'ailleurs avoir lieu sans que le juge d'instruction en apprécie l'utilité.
