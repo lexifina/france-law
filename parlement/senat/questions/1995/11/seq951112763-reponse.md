@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112763
+
+- Question : [SEQ951112763](seq951112763.md) — Aménagement des modalités de calcul du plafonnement des dégrèvements de la taxe professionnelle en fonction de la valeur ajoutée
+
+## Réponse
+
+*Économie, JO du 1996-03-28, page 717*
+
+Réponse. - La modification des règles applicables pour le calcul du plafonnement des cotisations en fonction de la valeur ajoutée a pour objectif d'apporter plus de clarté et de responsabilité dans le fonctionnement de la taxe professionnelle tout en stabilisant le coût pour l'Etat des dégrèvements résultant du plafonnement. Afin d'apporter à la représentation nationale une information complète sur les conséquences de cette mesure, le Gouvernement s'est engagé à présenter au Parlement, avant le dépôt du projet de loi de finances pour 1997, un rapport analysant les conséquences d'une répartition, entre les entreprises et les collectivités locales, de la différence entre les cotisations calculées aux taux de l'année d'imposition et les cotisations calculées aux taux de 1995, pour le calcul du plafonnement de la taxe professionnelle, en précisant notamment les données économiques et financières du partage de la charge résultant de ce gel des taux. Ce rapport comportera également une évaluation du taux maximum de plafonnement de la taxe professionnelle par rapport à la valeur ajoutée, compatible avec les exigences de compétitivité des entreprises. En outre, le conseil des impôts a engagé une étude approfondie sur la taxe professionnelle, qui fera l'objet de son prochain rapport. Le Gouvernement entend proposer, dès cette année, les axes d'une réforme de la taxe professionnelle. A cet égard, des réflexions sont en cours pour étudier la possibilité de remplacer ou de compléter un des éléments de la base d'imposition actuelle par la valeur ajoutée.
