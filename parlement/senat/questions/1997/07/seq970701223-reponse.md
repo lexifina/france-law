@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701223
+
+- Question : [SEQ970701223](seq970701223.md) — Bilan du tutorat dans les établissements d'enseignement supérieur
+
+## Réponse
+
+*Éducation, JO du 1997-09-11, page 2371*
+
+Réponse. - Le tutorat qui a été développé depuis la rentrée universitaire 1996 dans les universités à l'intention des étudiants de premier cycle, et notamment de première année, s'inscrit dans le cadre réglementaire défini par l'arrêté du 26 janvier 1992 relatif au diplôme d'études universitaires générales, à la licence et à la maîtrise. L'arrêté du 9 avril 1997 qui est intervenu depuis lors a maintenu et précisé ce dispositif. L'objectif du tutorat est d'accompagner l'étudiant, d'un point de vue méthodologique et pédagogique, et de favoriser ainsi sa réussite universitaire. Les caractéristiques de ce tutotat comme les modalités d'organisation relèvent des choix pédagogiques et des initiatives des établissements ainsi que des compétences et ressources matérielles dont ils disposent. Les universités de Lyon ont mis en place des dispositifs adaptés à la singularité de chacun de ces établissements et à la spécificité disciplinaire des formations de premier cycle qu'ils organisent. Ainsi l'une des universités a privilégié les actions d'auto-formation et de documentation, une autre plutôt l'articulation entre le travail de tutorat accompli par des étudiants avancés et celui des enseignants, une autre des actions ciblées. Il convient d'ajouter que certains de ces établissements avaient expérimenté et développé, avant la rentrée universitaire 1996, des dispositifs de tutorat. Chacune des universités a reçu les moyens nécessaires à l'organisation des dispositifs qu'elles avaient proposés pour l'année universitaire 1996-1997 afin de financer les bourses de stages des étudiants-tuteurs et de pourvoir aux heures spécifiques nécessaires à l'encadrement de ceux-ci par les enseignants responsables.
