@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003848
+
+- Question : [SEQ971003848](seq971003848.md) — Demande de renseignements concernant des personnes décédées lors d'une guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1998-03-05, page 748*
+
+Réponse. - L'une des préoccupations du secrétariat d'Etat aux anciens combattants, pour mener à bien la politique de mémoire de l'Etat est le rôle de la communication. A ce titre, la proposition de l'honorable parlementaire en ce domaine corrobore le résultat de l'étude menée par la délégation à la mémoire et à l'information historique (DMIH), chargée des dossiers et fichiers des victimes de guerre lui permettant de répondre à un volumineux courrier. En effet, l'existence d'une fiche à l'usage du public, précisant les différentes coordonnées des circuits internes anciens combattants, se justifie sans conteste. Ainsi toute demande, relative à une personne décédée lors de l'un des grands conflits contemporains, arriverait normalement au service compétent de la DMIH. De même, pour faire face, dans des délais raisonnablement courts à cette énorme demande d'information de la part du public, la DMIH a entrepris la mise en oeuvre de l'informatisation de l'ensemble du fichier 1914-1918 comportant 1 million quatre cent mille fiches cartonnées dont la lisibilité devient difficile. Ce travail de longue haleine prendra plusieurs années. Il sera complété, dans une deuxième phase, par une autre source d'information émanant des fichiers informatiques, en cours de réalisation dans les vingt directions interdépartementales du secrétariat d'Etat aux anciens combattants, en vue de la réactualisation des registres des nécropoles. De cette manière, les importantes recherches que nécessite chaque demande, seront amplement simplifiées et raccourcies tant pour les agents que pour les requérants. Outre le gain de temps considérable, l'informatisation assurera une plus grande sécurité au niveau de la conservation des dossiers-papier.
