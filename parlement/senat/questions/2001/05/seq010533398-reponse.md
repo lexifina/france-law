@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533398
+
+- Question : [SEQ010533398](seq010533398.md) — Décret d'application précisant les modalités d'accueil en milieu professionnel des collégiens et lycéens
+
+## Réponse
+
+*Enseignement professionnel, JO du 2002-03-28, page 918*
+
+Une interprétation stricte des anciennes dispositions de l'article L. 211-1 du code du travail qui interdisent tout accès en milieu professionnel aux élèves soumis à l'obligation scolaire ne suivant pas un enseignement alterné, est à l'origine des difficultés de mise en place par les collèges des séquences d'observation en entreprise pour leurs élèves des classes de quatrième et de troisième. L'ordonnance n° 2001-174 du 22 février 2001 transportant la directive 94/33/CE du Conseil du 22 juin 1994 relative à la protection des jeunes au travail, publiée au Journal officiel de la République française du 24 février 2001, a modifié l'article L. 211-1 du code du travail et donne désormais un fondement légal à des pratiques déjà existantes de partenariat entre les collèges et les entreprises. Ces dispositions législatives permettent l'organisation de " visites d'information et de séquences d'observation " en milieu professionnel pour les élèves soumis à l'obligation scolaire. Un décret d'application doit préciser les modalités d'accueil des élèves en milieu professionnel et définir les modèles de convention régissant les rapports entre l'établissement scolaire et l'entreprise ou l'organisme d'accueil en milieu professionnel. Il est en préparation au ministère de l'éducation nationale. Il doit faire l'objet de consultations interministérielles avant sa publication. Dans l'attente de la publication de ce texte, les établissements sont encouragés à mettre en place, dans le cadre de l'éducation à l'orientation, toutes les actions qui peuvent élargir le champ d'observation des différents métiers et favoriser une représentation positive de la voie professionnelle.
