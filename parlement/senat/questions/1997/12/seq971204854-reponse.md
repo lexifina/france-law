@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204854
+
+- Question : [SEQ971204854](seq971204854.md) — Réduction d'impôt sur le revenu pour réalisation de travaux dans un logement
+
+## Réponse
+
+*Économie, JO du 1998-04-16, page 1233*
+
+Réponse. - L'article 199 sexies D du code général des impôts accorde, sous certaines conditions, une réduction d'impôt aux contribuables qui, entre le 1er janvier 1997 et le 31 décembre 2001, font réaliser des gros travaux dans l'habitation principale dont ils sont propriétaires. Ouvrent droit à cet avantage les dépenses de grosses réparations, d'amélioration et de ravalement à l'exception des dépenses de construction, de reconstruction, d'agrandissement, de décoration, d'équipement mobilier ou d'entretien. Les opérations de dépose et de pose de revêtements de sols tels que moquettes, sols plastiques, parquets ou carrelages constituent des travaux de décoration ou d'entretien et ne peuvent donc entrer dans le champ d'application de la réduction d'impôt. Ces dépenses sont en revanche susceptibles d'ouvrir droit au crédit d'impôt institué par l'article 74 de la loi de finances pour 1998 en faveur des personnes qui, entre le 1er janvier 1998 et le 31 décembre 2000, réalisent dans leur habitation principale, située en France et achevée depuis plus de deux ans, des dépenses d'entretien ou de revêtement des surfaces, autres que celles qui ont le caractère de réparations locatives. Pour une même habitation, le montant des dépenses ouvrant droit à crédit d'impôt est fixé, au titre de l'année, à 5 000 F pour une personne célibataire, veuve ou divorcée et à 10 000 F pour un couple marié ; ces sommes sont majorées de 500 F par personne à charge, 750 F pour le second enfant et 1 000 F par enfant à partir du troisième. Le crédit d'impôt, égal à 15 % de ces dépenses, est accordé sur présentation des factures des entreprises ayant réalisé les travaux. Si le montant du crédit d'impôt excède l'impôt dû, l'excédent est restitué au contribuable.
