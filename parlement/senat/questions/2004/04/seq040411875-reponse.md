@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411875
+
+- Question : [SEQ040411875](seq040411875.md) — Manque de moyens du centre hospitalier de Creil et du centre hospitalier interdépartemental de Clermont pour la prise en charge sanitaire des détenus de Liancourt
+
+## Réponse
+
+*Santé, JO du 2004-07-22, page 1674*
+
+L'attention du ministre de la santé et de la protection sociale est appelée sur le manque de moyens du centre hospitalier de Creil et du centre hospitalier interdépartemental de Clermont-de-l'Oise pour assurer le fonctionnement de deux unités de consultation et de soins ambulatoires (UCSA) du nouvel établissement pénitentiaire de Liancourt. Le nouveau centre pénitentiaire de Liancourt devait ouvrir, courant 2004, avec une capacité de 596 places (284 places pour le centre de détention et 212 places pour la maison d'arrêt). L'ouverture de ce nouveau centre devait permettre la fermeture de l'actuel établissement pénitentiaire qui est de 202 places. Afin de faire face à l'augmentation de capacité de la nouvelle UCSA, dépendant, d'une part, du centre hospitalier Laennec de Creil en ce qui concerne les soins somatiques et, d'autre part, du centre hospitalier interdépartemental de Clermont-de-l'Oise pour les soins psychiatriques, des crédits supplémentaires ont été alloués aux établissements hospitaliers concernés et notifiés dès le début 2004. L'administration pénitentiaire a décidé de ne pas fermer l'ancien établissement de Liancourt mais de conserver sur cet établissement 200 places. Elle en a informé le ministère de la santé et de la protection sociale de cette décision fin avril 2004. Des crédits supplémentaires ont pu être dégagés dans le cadre de la campagne budgétaire 2004 et notifiés, dès le 18 mai, aux établissements concernés afin d'assurer la continuité du fonctionnement de l'ancienne UCSA.
