@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223895
+
+- Question : [SEQ921223895](seq921223895.md) — Sort du franc dans le système monétaire européen
+
+## Réponse
+
+*Économie, JO du 1993-02-11, page 245*
+
+Réponse. - Les faits viennent une nouvelle fois de démontrer que, loin de permettre une détente des taux d'intérêt à long terme, des dévaluations (par exemple celles de la lire, de la peseta et de l'escudo) se traduisent par une hausse de taux d'intérêt, provoquée par la défiance des investisseurs vis-à-vis des économies de ces pays et de la stabilité de leur monnaie, ainsi que de la capacité des gouvernements à mettre en oeuvre une politique de retour à la croissance sans tensions inflationnistes. La dévaluation d'une monnaie est comprise par les opérateurs comme la sanction d'une mauvaise gestion, ce qui ne fait que renforcer les incertitudes quant à la capacité de ce pays de se rapprocher des économies les plus fortes. Cette défiance se traduit généralement par l'existence d'une " prime de risque " (c'est-à-dire que les taux d'intérêt des monnaies jugées faibles sont supérieurs à ceux des monnaies jugées fortes). Cette " prime de risque " représente la couverture du prêteur contre toute nouvelle dévaluation qui viendrait sanctionner un retour de l'inflation et donc à terme une nouvelle perte de compétitivité. Enfin, la dévaluation d'une devise doit pour être efficace s'accompagner de la mise en place d'une politique économique rigoureuse généralement peu propice à une baisse des taux. L'action du gouvernement français vise pour sa part à établir une croissance saine, sans résurgences de tensions inflationnistes, seul moyen susceptible de garantir la stabilité du marché des changes et ainsi de permettre une réduction progressive du différentiel de taux avec nos principaux partenaires économiques. Cette politique a également permis à notre pays de gagner des parts de marché à l'étranger.
