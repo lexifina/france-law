@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102291
+
+- Question : [SEQ881102291](seq881102291.md) — Droit de vote des Français de l'étranger aux élections législatives
+
+## Réponse
+
+*Intérieur, JO du 1989-01-19, page 103*
+
+Réponse. - En raison des abus et de l'abondant contentieux auxquels les règles antérieures ont donné lieu, la loi n° 82-974 du 19 novembre 1982 a supprimé la faculté précédemment offerte aux Français, établis hors de France et dépourvus d'attache réelle avec une commune, de s'inscrire sur les listes électorales d'une commune de plus de 30 000 habitants de leur choix. Le problème que soulève l'inscription de ces citoyens, lorsqu'ils ne peuvent se prévaloir des dispositions de l'article L. 12 du code électoral, a été évoqué à diverses reprises après le vote de la loi précitée. S'il paraît en effet légitime que des Français ne pouvant justifier d'aucune attache avec une collectivité territoriale ne participent pas à l'élection des organes de ces collectivités, on peut, en revanche, s'interroger sur l'opportunité d'offrir à cette catégorie de citoyens le moyen de participer aux élections législatives, par lesquelles s'exprime la souveraineté nationale. Mais, quelleque soit la solution envisagée à cet effet, elle serait dérogatoire au droit commun et se heurterait à la difficulté, pratiquement insurmontable, de la preuve à apporter par ses bénéficiaires qu'ils ne remplissent aucune des conditions d'inscription prévues par le droit commun de l'article L. 12. Au demeurant, pour ne pas retomber dans les abus précédemment dénoncés, il faudrait également régler le problème du bureau de vote de rattachement de ces électeurs, afin d'éviter que l'inscription de ces derniers ne soit géographiquement concentrée. Bien qu'aucune solution satisfaisante n'ait encore pu être dégagée, les études se poursuivent en liaison avec le ministère des affaires étrangères.
