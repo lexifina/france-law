@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305272
+
+- Question : [SEQ940305272](seq940305272.md) — Dysfonctionnement du mécanisme informatique de l'URSSAF
+
+## Réponse
+
+*Affaires sociales, JO du 1994-09-15, page 2255*
+
+Réponse. - Les URSSAF mobilisent tous leurs moyens pour adresser aux employeurs de personnel de maison des bulletins de paie préétablis afin de permettre à ces employeurs de remettre dans les délais utiles les fiches de paie à leurs salariés. La mise à disposition de bulletins de salaire n'a pas un caractère obligatoire ; cette mesure est plutôt un service rendu, fortement préconisé pour favoriser la création d'emplois familiaux en facilitant les formalités administratives à la charge des employeurs concernés. L'URSSAF de Paris adresse chaque année à 58 000 employeurs sur les 100 000 cotisants recensés un volume d'environ 700 000 bulletins, en double exemplaire, accompagnés chaque fois de notices explicatives. Il apparaît que, seule l'échéance du mois de janvier 1994 a subi un retard du fait de l'annonce démentie par la suite d'un imminent changement du taux de la cotisation au régime de retraite complémentaire, retard dont le motif a d'ailleurs été dûment signalé a ux usagers. Concernant le problème de résiliation d'une assurance volontaire signalé par l'honorable parlementaire, il doit être précisé que c'est la caisse primaire d'assurance maladie qui a seule compétence en ce domaine. L'URSSAF n'intervient que pour recouvrer la cotisation due au titre de ce régime. Une liaison informatique entre ces deux organismes est donc nécessaire. De ce fait, il a pu être observé des retards préjudiciables aux assurés. C'est pourquoi le Gouvernement entend porter ses efforts sur l'amélioration du recouvrement des cotisations de sécurité sociale, en particulier en région parisienne, en vue d'améliorer pour les usagers les conditions de fonctionnement de ces services, et sur l'intensification de la coordination entre les organismes de sécurité sociale.
