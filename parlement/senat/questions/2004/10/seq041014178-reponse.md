@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014178
+
+- Question : [SEQ041014178](seq041014178.md) — Avenir des éleveurs de races à viande du grand Massif central
+
+## Réponse
+
+*Agriculture, JO du 2005-01-20, page 160*
+
+Dans les négociations internationales en cours, la vigilance du Gouvernement est entière pour défendre les spécificités de l'agriculture et, en particulier, de l'élevage français afin de ne pas hypothéquer ses intérêts alors même que la réforme de la PAC est en cours de mise en oeuvre. Cette réforme, décidée en juin 2003 à Luxembourg, entrera en application en France au 1er janvier 2006. Le Gouvernement a choisi cette date pour ménager une période de transition. L'année 2005 permettra ainsi aux filières de se préparer et aux pouvoirs publics de mettre en place, en consultation avec les organisations professionnelles, les dispositifs traduisant cette réforme, dans un souci de simplification maximale. Il y a lieu de rappeler que la France a décidé, parmi les choix possibles en matière d'élevage bovin, de conserver le couplage le plus élevé entre les soutiens et l'acte de production. Ceci est particulièrement clairement illustré par la pérennisation de la PMTVA, qui contribue efficacement au maintien d'une activité d'élevage, notamment dans les régions du grand Massif central. Au niveau national, des décisions de nature à apporter un soutien complémentaire très significatif au secteur de l'élevage sont d'ores et déjà prises. Le Gouvernement maintient le complément national à la PMTVA. Parallèlement, au 1er janvier 2005, sera mis en place le plan en faveur des bâtiments d'élevage qui est destiné à conforter un secteur de l'élevage confronté aux évolutions de la politique agricole et de la société. Avec la mobilisation de fonds communautaires, 80 millions d'euros seront consacrés à ce plan en 2005. Le dispositif est appelé à monter en charge pour atteindre 120 millions d'euros en 2007.
