@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919010
+
+- Question : [SEQ990919010](seq990919010.md) — Définition des termes de conserve et de contrat de culture
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4051*
+
+Réponse. - L'article 101-XVII de la loi d'orientation agricole du 9 juillet 1999 a introduit, à l'initiative du Parlement, une modification à l'article 35 de l'ordonnance du 1er décembre 1986 relative à la liberté des prix et de la concurrence, qui soumet désormais à un délai de paiement réglementé (trente jours à fin de décade de livraison) les achats de " plats cuisinés et de conserves fabriquées à partir de produits alimentaires périssables, à l'exception des achats de produits saisonniers effectués dans le cadre de contrats dits de culture ". Il est exact que des difficultés d'application de cette disposition sont apparues entre les distributeurs et les industriels transformateurs de produits alimentaires. Une note d'information à destination des professionnels concernés est en cours d'élaboration, en concertation entre le ministère de l'agriculture et de la pêche et le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat, qui est chargé de l'application de la réglementation en cause. Elle permettra d'indiquer, dans le respect de la volonté exprimée par le législateur, les produits effectivement soumis à cette nouvelle disposition. D'ores et déjà, il peut cependant être indiqué que l'exemption, introduite par l'article 101-XVII de la loi d'orientation agricole, aux achats effectués dans le cadre de contrats de culture ne s'applique pas aux achats opérés par un distributeur ou un négociant ou un autre industriel auprès d'un industriel transformateur, sauf s'ils sont couverts par les dispositions de la loi nº 64-678 du 4 juillet 1964 sur le régime contractuel en agriculture (art. L. 631-1 et suivants du code rural).
