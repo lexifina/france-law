@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210092
+
+- Question : [SEQ950210092](seq950210092.md) — Promotion au grade de chevalier de la Légion d'honneur d'un éditeur poursuivi judiciairement
+
+## Réponse
+
+*Culture, JO du 1995-03-23, page 691*
+
+Réponse. - Le parcours de M. Alain Moreau dans l'édition française ne se limite pas à la publication du livre incriminé, " Suicide mode d'emploi ", publié en 1982. Au moment où la proposition de nomination de M. Moreau au grade de Chevalier dans l'ordre national de la Légion d'honneur a été établie, l'intéressé qui n'est plus éditeur bénéficiait d'un casier judiciaire vierge et il ne pouvait lui être indéfiniment reproché d'avoir, publié jadis un livre que d'aucuns jugèrent contestable. En outre, la carrière de M. Moreau dans la production audiovisuelle était de nature à justifier une reconnaissance pour le travail qu'il avait effectué à la tête de " Caméra continentale " en faveur de la création de fiction, à un moment où la production française et européenne se voyait sévèrement minée par la concurrence américaine. Cependant, un élément nouveau, postérieur aux décisions prises apparaît : l'éditeur et les auteurs comparaissent devant la 16e chambre correctionnelle dans le cadre d'une poursuite engagée après une réédition de ce livre en 1989. Si les valeurs républicaines déterminent en France une totale liberté en matière de presse et d'édition dans le cadre des lois existantes, contrevenir aux dispositions légales, en matière d'initiation au suicide, en violation de la loi du 31 décembre 1987, expose auteurs et éditeurs aux sanctions pénales prévues par la loi. De ce fait, le ministre de la culture et de la francophonie a donc demandé au grand chevalier de la Légion d'honneur l'application de l'article 49 du code de la Légion d'honneur, prévoyant une nouvelle vérification des qualifications du bénéficiaire dans l'intérêt de l'ordre notamment dans l'attente du jugement qui sera rendu au mois d'avril.
