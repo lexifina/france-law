@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970120115
+
+- Question : [SEQ970120115](seq970120115.md) — Associations et SACEM
+
+## Réponse
+
+*Culture, JO du 1997-03-13, page 766*
+
+Réponse. - La Société des auteurs, compositeurs et éditeurs de musique (SACEM), société civile dont le régime est défini par le titre II du livre III du code de la propriété intellectuelle, est chargée par ses sociétaires de percevoir les droits des auteurs et compositeurs de musique, et de répartir les rémunérations qui leur sont légalement dues conformément aux dispositions dudit code. Les communes ou associations, qui organisent des animations musicales ou la sonorisation de locaux, utilisent à ce titre le répertoire musical représenté par cette société d'auteurs. Elles ne peuvent, ce faisant, déroger à leur obligation de verser la juste rémunération due aux auteurs. Consciente des difficultés qu'engendre le paiement de ces droits pour les associations locales organisant des manifestations à caractère social ou philanthropique, la SACEM a toujours cherché à simplifier ses règles générales de tarification ainsi que ses rapports avec les diffuseurs d'oeuvres musicales. Un partenariat et des protocoles d'accord ont été développés avec de nombreuses fédérations d'associations. Cette concertation a permis à la SACEM de proposer à ces établissements une tarification spécifique qui paraît adaptée : simplification des conditions de tarification, paiement forfaitaire, réduction ou gratuité dans le cas de manifestations à but social ou humanitaire dont le budget n'excède pas 1 500 francs et ne donnant pas lieu à une entrée payante. De manière générale, le Gouvernement n'envisage pas de proposer au Parlement une limitation du droit d'auteur dont la mise en oeuvre doit continuer de faire l'objet de relations contractuelles entre les représentants des auteurs et les utilisateurs d'oeuvres protégées.
