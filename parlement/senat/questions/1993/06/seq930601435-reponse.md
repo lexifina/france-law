@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601435
+
+- Question : [SEQ930601435](seq930601435.md) — Transfert de l'Institut national de la propriété industrielle à Lille
+
+## Réponse
+
+*Premier ministre, JO du 1994-01-27, page 181*
+
+Réponse. - L'honorable parlementaire brosse un tableau particulièrement sombre des mesures dites de délocalisation qui consistent à transférer des activités publiques d'Ile-de-France en province. Ses préoccupations sont partagées par le Gouvernement en ce qui concerne l'impact de ces décisions sur des budgets publics et la situation familiale des agents concernés. Au demeurant, et dans un souci de mieux aménager le territoire, de telles opérations doivent être poursuivies dans des conditions à la fois plus économes des deniers publics et plus respectueuses de la concertation entre toutes les parties concernées. Le comité interministériel d'aménagement du territoire, qui s'est réuni le 12 juillet 1993 à Mende, a fixé à cet égard un cadre de référence méthodologique qui devrait satisfaire l'auteur de la présente question. En outre, le plan d'accompagnement social dont bénéficieront les personnes volontaires pour suivre leur service a été amélioré. Il n'est pas question de rester insensibles au déclin de certains bassins d'emploi, d'une partie des zones rurales dépeuplées ou vieillissantes, aux villes victimes de douloureuses mutations industrielles. En transférant des activités de haut niveau technologique, des centres de décision importants en province, celle-ci gagne en prestige, en dynamisme. Des pôles bien structurés et reliés entre eux peuvent alors garantir un maillage harmonieux de notre pays et offrir des débouchés professionnels à tous les niveaux, y compris les plus élevés désormais bien répartis géographiquement. Le choix du développement à long terme ne saurait donc céder au confort du statuo quo.
