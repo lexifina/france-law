@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700402
+
+- Question : [SEQ020700402](seq020700402.md) — Fiscalité locale applicable aux habitations légères de loisirs (HLL)
+
+## Réponse
+
+*Économie, JO du 2002-09-05, page 1951*
+
+Le régime fiscal applicable aux habitations légères de loisirs (HLL) est conditionné par l'examen de la situation de fait propre à chaque installation. En matière de taxe foncière sur les propriétés bâties, sont imposables les constructions qui sont fixées au sol à perpétuelle demeure et qui présentent le caractère de véritables bâtiments. Dès lors, sont passibles de cet impôt les HLL qui reposent sur des fondations ou une assise en maçonnerie telles qu'il soit impossible de les déplacer sans les démolir. Cela étant, dans l'hypothèse où l'HLL ne serait pas passible de la taxe foncière sur les propriétés bâties, le terrain sur lequel la construction est implantée serait passible de la taxe foncière sur les propriétés non bâties. En ce qui concerne la taxe d'habitation, sont imposables les HLL qui sont simplement posées sur le sol ou sur des supports de toute nature et qui ne disposent pas en permanence de moyens de mobilité. Il convient cependant de distinguer deux situations. Si l'HLL est à la disposition d'une personne, cette dernière est imposable à la taxe d'habitation dans les conditions de droit commun. En revanche, dans l'hypothèse où l'HLL fait l'objet d'occupations précaires et successives s'apparentant à un régime hôtelier, il y a lieu de distinguer selon que le gestionnaire des HLL est ou non imposable à la taxe professionnelle sur son activité de loueur. S'il est soumis à la taxe professionnelle, les HLL ne sont pas passibles de la taxe d'habitation (art. 1407-II-1° du code général des impôts). Dans le cas contraire, le loueur supportera la taxe d'habitation. Enfin, il est précisé que l'imposition à la taxe d'habitation des HLL est indépendante de leur situation au regard de la taxe foncière sur les propriétés bâties.
