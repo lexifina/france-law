@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701855
+
+- Question : [SEQ970701855](seq970701855.md) — Diplôme national de technologie spécialisé
+
+## Réponse
+
+*Éducation, JO du 1998-11-26, page 3789*
+
+Réponse. - Le diplôme de technologie spécialisée créé par le décret nº 94-959 du 4 novembre 1994 a été mis en place, à titre expérimental, dans certains établissements publics de l'enseignement supérieur et de l'enseignement du second degré à compter de la rentrée 1995-1996. Les titulaires du DNTS préparé en IUT pour les années scolaires 1995-1996 et 1996-1997 sont respectivement au nombre de 612 (sur un effectif de 661 étudiants - soit 92,581 % de diplômés) et de 715 (sur un effectif de 848 étudiants - soit 84,71 % de diplômés) dont 97 (sur un effectif de 126 - soit 76,98 % de diplômés) et 105 (sur un effectif de 141 - soit 74,46 % de diplômés) pour le département du Rhône dans les spécialités suivantes : - Génie logiciel (gestionnaire de base de données), - Informatique et génie civil, - Conception et production automatisée, - Technicien animateur de la qualité, - Formation supérieure technico-commerciale. Les titulaires du DNTS préparé dans un lycée pour l'année scolaire 1995-1996 n'ont pas fait l'object de statistiques précises dans la mesure où la mise en place s'est réalisée plus tardivement. En revanche, pour l'année scolaire 1996-1997, les enquêtes effectuées permettent de dénombrer 267 titulaires du DNTS sur un effectif de 280 élèves (soit 95,35 % de diplômés), dont 12 (sur 12) dans le département du Rhône pour la spécialité : productique outillages plastiques. A la rentrée 1997, 35 spécialités (23 dans le secteur secondaire, 12 dans le secteur tertiaire) sont préparées dans 18 IUT et 14 (10 dans le secteur secondaire, 4 dans le secteur tertiaire) dans 27 lycées publics et privés sous contrat. L'expérimentation a été reconduite pour l'année scolaire 1998-1999 par un arrêté du 5 octobre 1998 par au JO du 13 octobre 1998.
