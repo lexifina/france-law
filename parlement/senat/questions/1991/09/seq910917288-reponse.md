@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917288
+
+- Question : [SEQ910917288](seq910917288.md) — Election des membres d'un conseil syndical de copropriété
+
+## Réponse
+
+*Justice, JO du 1991-12-12, page 2801*
+
+Réponse. - Dans le souci d'améliorer et de faciliter la gestion de l'immeuble en copropriété, l'article 21 de la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis a prévu qu'un conseil syndical assiste le syndic et contrôle sa gestion. Organe de contrôle et d'assistance sans pouvoir de décision, le conseil syndical n'est pas pourvu de la personnalité juridique. Ses membres, dont le nombre est fixé soit par le règlement de copropriété soit par l'assemblée générale, sont désignés dans les conditions de l'article 25, c'est-à-dire à la majorité des voix de tous les copropriétaires, et sur deuxième convocation, à la majorité simple de l'article 24. A défaut d'obtention de la majorité requise, ils peuvent être désignés par justice. Dans la situation particulière envisagée par l'honorable parlementaire, la question de l'ordre du jour portant sur la composition du conseil syndical se décomposerait en principe en autant de votes qu'il y a de candidats. Dans cette situation, sous réserve de l'appréciation des tribunaux, on peut considérer que si un vote est intervenu à la majorité absolue (plus de 50 p. 100 des voix de tous les copropriétaires) au cours de la première réunion, pour désigner un membre du conseil syndical, ou refuser sa désignation, la résolution sera respectivement adoptée ou rejetée et ne devra pas faire l'objet d'un nouveau vote lors d'une seconde convocation. En revanche, si un candidat, lors de la première réunion, n'a recueilli qu'une majorité simple (inférieure à 50 p. 100 des voix de tous les copropriétaires) pour ou contre sa désignation, l'assemblée, sur la deuxième convocation, statuera en ce qui le concerne dans les conditions de l'article 24.
