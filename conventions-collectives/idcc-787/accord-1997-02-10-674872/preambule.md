@@ -1,0 +1,5 @@
+# Article préambule
+
+L'adaptation des normes d'organisation des temps de travail aux exigences techniques et économiques particulières de chaque cabinet, voire de chaque bureau ou site, est une nécessité en raison du souci de concilier en permanence qualité de la prestation fournie et niveau des honoraires compatibles avec les possibilités de la clientèle. Ces aménagements d'horaires, pour concilier aspirations sociales et objectifs économiques, doivent s'accompagner de réduction des temps de travail, voire de création d'emplois. Le vecteur naturel de cette optimisation des horaires est l'accord collectif de travail, tout spécialement lorsque ces normes adaptées dérogent aux dispositions légales, réglementaires, voire conventionnelles.
+
+Les effectifs généralement modestes des cabinets, comme la faible pénétration des organisations syndicales dans la profession, rendent toutefois difficile la mise en oeuvre de stratégies conformes à cet objectif. C'est la raison pour laquelle, par le présent accord, sont mis en place, à titre expérimental, les moyens de favoriser le droit à la négociation collective des conditions de travail des personnels des cabinets.
