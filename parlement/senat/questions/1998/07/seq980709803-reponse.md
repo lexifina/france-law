@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709803
+
+- Question : [SEQ980709803](seq980709803.md) — Aménagement des voies navigables de l'Est et du Sud-Est
+
+## Réponse
+
+*Équipement, JO du 1999-06-10, page 1961*
+
+Réponse. - La politique du Gouvernement en matière de développement du réseau de voies navigables s'inscrit dans une approche multimodale des besoins de transport, visant à favoriser un rééquilibrage entre les différents modes. Le Gouvernement prépare actuellement les projets de schémas de services multimodaux qui remplaceront les actuels schémas directeurs par mode, dans le cadre de la révision de la loi d'orientation sur l'aménagement et le développement du territoire. Ces schémas permettront de préciser les orientations nationales et régionales en matière de transport, qui devraient être prises en compte par les différents partenaires financiers dans la préparation des prochains contrats de plan. Dans cette perspective, une priorité sera donnée à la restauration et la mise en valeur du réseau de voies navigables existant, dont la fiabilité doit impérativement être améliorée pour redonner toute sa crédibilité au transport fluvial. Par ailleurs, conformément à la décision du comité interministériel sur l'aménagement et le développement du territoire de décembre 1997, une réflexion plurimodale sur les moyens de répondre aux besoins d'acheminement des marchandises entre la mer du Nord et la Méditerranée, suite à l'arrêt du projet Saône-Rhin, a été engagée conjointement avec le ministère de l'aménagement du territoire et de l'environnement. Enfin, en ce qui concerne les voies nouvelles à grand gabarit, les études des projets Seine-Nord et Seine-Est se poursuivent. Il s'agit de disposer des éléments utiles à une prise en compte dans les schémas de services multimodaux de manière à pouvoir arrêter, après la concertation nécessaire, les décisions gouvernementales aux différentes étapes de l'élaboration de ces projets.
