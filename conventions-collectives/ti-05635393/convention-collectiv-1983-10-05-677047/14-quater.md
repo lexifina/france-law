@@ -1,3 +1,3 @@
-# Article 14 QUATER
+# Article 14 quater
 
-Les salariés employés à temps partiel bénéficient des avantages de la convention collective.
+Les salariés à temps partiel bénéficient des avantages de la convention collective.
