@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204825
+
+- Question : [SEQ021204825](seq021204825.md) — Transfert au Panthéon des cendres de George Sand
+
+## Réponse
+
+*Culture, JO du 2004-04-22, page 917*
+
+Le bicentenaire de la naissance de George Sand est célébré avec éclat. De très nombreuses manifestations sont organisées en France et à l'étranger pour illustrer toutes les facettes de l'oeuvre de George Sand. Le ministère de la culture et de la communication a mis en place une mission chargée de coordonner les manifestations organisées dans le cadre de l'année George Sand. L'année George Sand s'est ouverte à l'Assemblée nationale le 3 février par une lecture de textes politiques de l'auteur. La clôture aura lieu au Sénat les 9 et 10 décembre avec un colloque " George Sand : littérature et politique ". Le 3 juillet, un hommage national lui sera rendu sur le domaine national de Nohant - sa maison familiale - où elle est enterrée et à laquelle elle était très attachée. D'importantes expositions lui sont consacrées à Paris, à Chambéry et dans trois villes du département de l'Indre. Des colloques sont organisés en France (à Cerisy, à Clermont-Ferrand et à Grenoble...) et à l'étranger (New York, Tokyo, Hanovre, etc.). Des artistes lui rendent hommage dans leurs créations : la marionnettiste Emilie Valantin, la chorégraphe Karine Saporta, les metteures en scène Jeanne Champagne et Astrid Mamina (à Kinshasa) et d'autres moins connus. Le plus décisif est sans doute l'élan éditorial qu'accompagne le Centre national du livre pour rendre ses oeuvres accessibles au plus large public dans des collections de poche : plus de quatre-vingt-dix romans et nouvelles sont à découvrir, une correspondance (vingt-sept volumes aujourd'hui édités), une importante oeuvre autobiographique et des écrits politiques en cours de réédition. En revanche, le transfert des cendres de George Sand n'a pas été envisagé, d'autres formes d'hommage ayant été privilégiées.
