@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525419
+
+- Question : [SEQ000525419](seq000525419.md) — Situation du collège/lycée Jacques-Decour à Paris 9e
+
+## Réponse
+
+*Éducation, JO du 2000-09-28, page 3326*
+
+Réponse. - La répartition des emplois administratifs, techniques, ouvriers et de service (ATOS) s'effectue au niveau national sur la base d'un classement académique permettant de comparer la dotation en emplois de chaque académie au regard de ses charges. Au sein de ce classement, l'académie de Paris occupe actuellement le 2e rang avec un excédent théorique de 979 emplois. En raison de sa situation favorable par rapport à la moyenne nationale, à la rentrée 1999, 60 emplois ont été redéployés de sa dotation vers des académies déficitaires confrontées à des difficultés sociales et à des hausses des effectifs d'élèves. A la rentrée 2000, compte tenu des besoins recensés dans les autres académies placées dans les derniers rangs du classement, Paris n'a pu être retenu au nombre des attributaires des 810 emplois créés en loi de finances. Toutefois, l'académie ne subira pas de nouveaux redéploiements d'emplois, mais sera au contraire bénéficiaire de 16 équivalents-temps-plein (ETP), qui viendront renforcer les moyens de remplacement des personnels ATOS, ainsi que d'un ETP d'infirmière et de 3 ETP d'assistante sociale. Au plan local, la ventilation des moyens relève de la compétence du recteur. Conformément aux règles de déconcentration, il appartient à ce dernier de procéder, dans le cadre des moyens globaux dont il dispose, au renforcement éventuel de la dotation de la cité scolaire Jacques-Decour. Ce dernier se tient à la disposition de l'intervenant pour lui donner toutes les informations souhaitées sur la situation de cet établissement. Le renforcement éventuel des effectifs IATOS de l'académie de Paris sera envisagé lorsque le volume des moyens ouverts en loi de finances 2001 sera connu.
