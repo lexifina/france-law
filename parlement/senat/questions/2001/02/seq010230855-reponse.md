@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230855
+
+- Question : [SEQ010230855](seq010230855.md) — Dépistage des maladies neuro-dégénératives
+
+## Réponse
+
+*Santé, JO du 2001-08-23, page 2784*
+
+Il existe actuellement un consensus des experts en défaveur du dépistage systématique de la maladie d'Alzheimer en population générale du fait de l'absence d'arguments thérapeutiques pour l'étayer, et des questions éthiques qu'il soulèverait. La mise en place d'une démarche diagnostique la plus précoce possible est en revanche, maintenant, unanimement recommandée (colloque européen : maladie d'Alzheimer : de la recherche à l'action, Paris, 13 décembre 2000). Cette démarche diagnostique pluridisciplinaire poursuit trois objectifs principaux : permettre de donner des réponses et d'accompagner les patients et leurs familles, inscrire précocement les patients dans une filière de prise en charge, et augmenter l'espérance de vie sans incapacité par une amélioration de la prise en charge médicale, sociale, environnementale. Le diagnostic doit s'accompagner impérativement d'un projet de soin qui ne se limite pas à la charge médicamenteuse. Cette démarche repose sur la sensibilisation des acteurs médico-sociaux s'occupant de personnes âgées au repérage des signes d'alerte, l'exploration par le médecin traitant des fonctions cognitives à partir des premiers signes d'appel évocateurs, la confirmation et la précision du diagnostic au sein d'une consultation mémoire ou d'un centre mémoire de référence. Des recommandations pratiques pour le diagnostic de la maladie ont été élaborées par l'Agence nationale d'accréditation et d'évaluation en santé (ANAES), en février 2000. Sur un plan plus général, suite au rapport remis par M. le professeur J.F. Girard, la mise en place d'un dispositif spécifique de prise en charge des démences est actuellement à l'étude.
