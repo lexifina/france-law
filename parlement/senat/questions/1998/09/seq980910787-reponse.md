@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910787
+
+- Question : [SEQ980910787](seq980910787.md) — Régime des plus-values de cession de fonds de commerce
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-03-11, page 798*
+
+Réponse. - La plus-value réalisée lors de la cession d'un fonds de commerce, notamment lorsque ce fonds a été exploité durant une longue période, ne traduit pas seulement un phénomène d'érosion monétaire, mais trouve sa source essentielle dans la valorisation des éléments du fonds acquise tout au long de l'activité professionnelle, grâce au travail de l'exploitant. La plus-value représente donc, au moins en partie, un revenu différé. L'alignement du régime de taxation des plus-values réalisées lors de la cession d'un fonds de commerce sur celui des plus-values des particuliers ne peut dès lors être envisagé. Les plus-values réalisées par les entreprises qui relèvent de l'impôt sur le revenu bénéficient déjà d'un régime d'imposition favorable lorsque le fonds a été acquis depuis plus de deux ans, puisqu'elles sont taxées au taux proportionnel de 16 % (26 % si l'on prend en compte les prélèvements sociaux). De plus, les petites entreprises bénéficient d'autres mesures d'allégement. Ainsi, lorsque les recettes de l'année de cession, ramenées à douze mois, et celles de l'année précédente n'excèdent pas le double des limites du régime des micro-entreprises prévu à l'article 50-0 du code général des impôts dans sa rédaction issue de l'article 7 de la loi de finances pour 1999, et que l'activité est exercée depuis au moins cinq ans, les plus-values réalisées sont exonérées. Par ailleurs, les entreprises qui optent pour le régime réel simplifié d'imposition peuvent, à la date d'option, constater en franchise d'impôt la plus-value acquise au titre des éléments incorporels. En outre, les adhérents des centres de gestion agréés bénéficient d'un abattement sur les plus-values à long terme.
