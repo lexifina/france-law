@@ -1,3 +1,3 @@
-# Article 1
+# Article 1er
 
-Il sera créé, au sein de l'A.F.D.A.S., dans les plus brefs délais, une section " Publicité " distincte.
+Il sera créé, au sein de l'AFDAS, dans les plus brefs délais, une section "Publicité distincte.
