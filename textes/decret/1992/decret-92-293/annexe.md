@@ -1,9 +1,5 @@
 # Article Annexe
 
-Fonction exercée pouvant ouvrir droit
-
-au versement d'une nouvelle bonification indiciaire
-
 Gestionnaire utilisateur de la base de données Magistrats, service des T.A. et C.A.A.
 
 Gestionnaire financier et comptable (service des T.A. et des C.A.A.).
@@ -32,7 +28,7 @@ Responsable de la gestion des membres du Conseil d'Etat.
 
 travaux documentaires.
 
-Adjoint du chef du bureau Equipement, inrastructure et logistique. Responsable du bureau d'aide judiciaire.
+Adjoint du chef du bureau Equipement, infrastructure et logistique Responsable du bureau d'aide judiciaire.
 
 Responsable du service dactylographique informatisé du contentieux.
 
@@ -73,3 +69,29 @@ Assistant du responsable des ordonnancements concernant les greffes des juridict
 Responsable du bureau du courrier.
 
 Deuxième adjoint au responsable du service de reprographie.
+
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire au titre de la 6e tranche
+
+Responsable du suivi financier des affaires immobilières.
+
+Responsable du suivi de la jurisprudence des tribunaux administratifs et des cours administratives d'appel et de la préparation de l'édition du recueil Lebon.
+
+Assistant du responsable administratif et logistique du service informatique.
+
+Assistant de l'ordonnateur principal.
+
+Assistant de secrétariat au bureau central.
+
+Assistant de secrétariat au bureau des greffes.
+
+Responsable de la tenue des inventaires Mobilier national.
+
+Secrétariat particulier du président de la section du rapport et des études.
+
+Gestionnaire financier et comptable (chargé des frais et ordre de mission).
+
+Adjoint du responsable du bureau d'aide juridictionnelle.
+
+Deuxième adjoint au responsable du secrétariat particulier du vice-président.
+
+Adjoint du responsable du SDIC.
