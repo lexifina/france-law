@@ -520,7 +520,35 @@ Récépissés : articles 16, 17 et 18.
 
 |
 
-Décisions entrant dans le champ des compétences de la direction générale des stratégies industrielles
+Décisions entrant dans le champ des compétences de la direction générale de l'industrie, des technologies de l'information et des postes
+
+Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques
+
+1
+
+|
+
+Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques (décision conjointe avec le ministre chargé des transports.
+
+|
+
+Article 15
+
+|
+
+.Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de constriction
+
+1
+
+|
+
+Habilitation des organismes à effectuer les tâches d'attestation de conformité des produits de construction. Décision conjointe avec le ministre chargé de l'équipement et du logement.
+
+|
+
+Article 1er-III.
+
+|
 
 Code de la santé publique
 
