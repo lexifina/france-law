@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306504
+
+- Question : [SEQ030306504](seq030306504.md) — Sécurité des équipements pour l'EPS
+
+## Réponse
+
+*Enseignement scolaire, JO du 2003-05-22, page 1686*
+
+L'enquête de l'Observatoire national de la sécurité à laquelle il est fait référence a porté sur les départements de Dordogne, Seine-et-Marne, Hauts-de-Seine, Cher et de La Réunion. Ne visant pas uniquement l'état des lieux ou la vétusté des équipements elle portait aussi sur la vérification et la maintenance. C'est avant tout le défaut d'entretien qui est pointé dans le résultat de cette enquête. En ce qui concerne la maintenance des équipements sportifs, il convient de rappeler qu'elle est généralement assurée par l'établissement, qui les a le plus souvent achetés sur ses fonds propres. La collectivité de rattachement à qui il revient d'assumer les charges matérielles liées à l'exécution des programmes d'éducation physique et sportive ne saurait toutefois s'exonérer de ses obligations en matière d'équipement et de maintenance. Dans le cas où la réglementation prévoit des contrôles, comme pour les cages de buts de hand-ball et football ou les panneaux de basket, l'état des équipements apparaît comme bien meilleur. Le ministère de l'éducation nationale a élaboré un référentiel de la sécurité des équipements utilisés pour l'éducation physique et sportive dans le second degré. Sans portée réglementaire, il peut cependant servir d'outil de gestion. L'obligation d'un contrôle périodique du matériel utilisé en EPS n'est pas du ressort des commissions de sécurité et ne doit pas conduire à la mise en place d'une commission de contrôle spécialisée que les ministères de l'intérieur, des sports, de l'équipement, du logement et des transports ne souhaitent pas créer. L'objectif à atteindre serait sans doute l'instauration d'une obligation de contrôle périodique par les professionnels compétents.
