@@ -38,13 +38,17 @@ Informatique, bureautique : 35 heures
 
 Radiothérapie, radiophysique, radiobiologie, technologie, dosimétrie : 170 heures
 
-Techniques d'électrophysiologie : 100 heures
+Techniques d'électrophysiologie : 35 heures
 
 Techniques d'explorations en imagerie médicale (radiodiagnostics, conventionnel et numérique, ultrasonographie, I.R.M.) : 400 heures
 
 Médecine nucléaire : 60 heures
 
 Anglais technique : 20 heures
+
+Anglais professionnel : 40 heures
+
+Enseignements liés au projet pédagogique des élèves : 45 heures
 
 Enseignement pratique
 
@@ -68,13 +72,19 @@ Stages d'initiation en début de formation :
 
 Stages d'approfondissement :
 
-Imagerie : 1 155 heures
+Imagerie : 1 235 heures
 
-Radiothérapie : 420 heures
+Radiothérapie : 460 heures
 
 Soins cliniques : 420 heures
 
 Electrophysiologie : 320 heures
+
+Stages complémentaires aux stages d'approfondissement :
+
+- soins adaptés à l'imagerie médicale et interventionnelle : 120 heures
+
+- imagerie : médecine nucléaire : 80 heures
 
 A partir de la deuxième année, les stages d'imagerie devront comporter 150 heures de garde.
 
