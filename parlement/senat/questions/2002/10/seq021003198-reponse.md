@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003198
+
+- Question : [SEQ021003198](seq021003198.md) — TVA sur les actions de formation professionnelle
+
+## Réponse
+
+*Économie, JO du 2003-03-27, page 1044*
+
+L'article 261-4-4°-a du code général des impôts exonère de taxe sur la valeur ajoutée les opérations effectuées dans le cadre de la formation professionnelle continue, telle qu'elle est définie par les dispositions législatives et réglementaires qui la régissent, assurée soit par des personnes morales de droit public, soit par des personnes de droit privé titulaires d'une attestation délivrée par l'autorité administrative reconnaissant qu'elles remplissent les conditions fixées pour exercer leur activité dans le cadre de la formation professionnelle continue. Ainsi, seules les actions de formation définies à l'article L. 900-2 du code du travail et caractérisées par l'article R. 950-4 du même code sont susceptibles d'être exonérées de TVA. Bien entendu, l'exonération de TVA s'applique également aux prestations légalement assimilées à des actions de formation, telles que les bilans de compétences, pour lesquels l'article L. 900-2 du code du travail a été complété par les dispositions de l'article 16 de la loi n° 91-1405 du 31 décembre 1991. Demeurent donc essentiellement soumises à la TVA les prestations qui ne relèvent pas de la formation professionnelle au sens du livre IX du code du travail ou qui, relevant effectivement de la formation professionnelle continue, sont dispensées par des personnes de droit privé qui s'abstiennent de demander l'attestation susvisée. Dans cette hypothèse, le taux de TVA applicable à ces prestations est le taux normal de 19,60 %, dès lors qu'elles ne figurent pas au nombre des opérations que les Etats membres sont autorisés à soumettre au taux réduit de la TVA, en application de l'annexe H de la directive n° 92/77/CEE du 19 octobre 1992.
