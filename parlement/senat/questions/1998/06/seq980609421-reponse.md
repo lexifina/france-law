@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609421
+
+- Question : [SEQ980609421](seq980609421.md) — Abaissement du plafond de l'abattement spécifique de 10 % sur les retraites
+
+## Réponse
+
+*Économie, JO du 1998-07-16, page 2323*
+
+Réponse. - La loi de finances pour 1997 a prévu une réduction progressive du plafond de l'abattement de 10 % sur les pensions et retraites. Ce plafond, fixé à 24 000 F pour l'imposition des revenus de 1997, correspond à un montant annuel de pensions perçues par les membres du foyer fiscal supérieur à 240 000 F. Cette réduction n'affecte donc pas la situation de la très grande majorité des retraités, mais concerne seulement 4 % de l'ensemble des foyers fiscaux déclarant des pensions. En raison du principe de l'annualité budgétaire, il ne peut être préjugé des règles d'imposition des années suivantes. Cela étant, différentes mesures fiscales témoignent de l'attention que les pouvoirs publics portent à la situation des personnes retraitées. Ainsi, les personnes retraitées de condition modeste ou moyenne bénéficient d'un abattement spécial sur le revenu net global lorsqu'elles ont plus de 65 ans. En outre, les personnes seules qui ont eu des enfants ont droit à une demi-part supplémentaire de quotient familial. S'agissant enfin du montant des pensions, il importe de prendre en compte les perspectives financières des régimes avant de décider de nouvelles mesures. Notre pays va être confronté dans les années qui viennent à un choc démographique important, les générations nombreuses d'après guerre prenant leur retraite alors que le nombre d'actifs sera stable. C'est pourquoi le Premier ministre a annoncé qu'une mission était confiée au commissaire général au Plan. Portant sur l'ensemble des régimes et devant donner lieu à une concertation avec les différents partenaires intéressés, elle permettra de déterminer des règles consensuelles d'évolution des retraites.
