@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000121730
+
+- Question : [SEQ000121730](seq000121730.md) — Versement des pensions vieillesse par l'Office djiboutien de protection sociale
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-03-09, page 858*
+
+Réponse. - Le ministre des affaires étrangères veille à ce que les contacts avec la direction de l'organisme de protection sociale djiboutien (OPS) s'intensifient, afin d'apporter une réponse aussi efficace que possible aux difficultés rencontrées par les retraités français dans la gestion de leurs dossiers auprès de cet organisme. Toutefois, à la lumière des éléments recueillis récemment par le consulat général de France à Djibouti, il convient de souligner l'extrême fragilité de la situation financière de l'OPS. En effet, les retards dans le paiement des pensions dues à nos compatriotes proviennent essentiellement de difficultés de trésorerie de la caisse djiboutienne. Le consulat général confirme que dix Français résidant à Pondichéry sont victimes du non-versement de leurs pensions djiboutiennes. Deux d'entre eux totalisent au moins quinze années de cotisation, quatre entre dix et quinze années, trois moins de dix années et le dernier est titulaire d'une rente accident de travail. Dans ce contexte, les services du ministère des affaires étrangères, vivement préoccupés par l'ampleur du préjudice occasionné à nos ressortissants ayant travaillé à Djibouti et l'absence d'amélioration dans la gestion de leurs dossiers, souhaitent qu'une solution allant dans le sens des intérêts des pensionnés français soit trouvée rapidement. Aussi étudient-ils actuellement, en liaison avec les autorités djiboutiennes, les voies qui permettraient de régler la situation des pensionnés français soit trouvée rapidement. Aussi étudient-ils actuellement, en liaison avec les autorités djiboutiennes, les voies qui permettraient de régler la situation des pensionnés français de l'OPS et de procéder au règlement des arriérés.
