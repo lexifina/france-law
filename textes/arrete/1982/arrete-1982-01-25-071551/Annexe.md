@@ -24,7 +24,7 @@ Nota. : Ces critères sont basés sur le produit sans E 470.
 
 E 474 Sucroglycérides :
 
-Description chimique : produit obtenu par réaction de sucre (saccharose) avec une huile ou une graisse alimentaire, ce qui donne essentiellement des mono- et diesters de saccharose d'acide gras mélangés à des mono- et triglycérides résiduels provenant de cette graisse ou de cette huile. Aucun solvant organique autre que l'acétate d'éthyle, l'isopropanol ou la diméthylformamide ne peut être utilise pour leur préparation.
+Description chimique : produit obtenu par réaction de sucre (saccharose) avec une huile ou une graisse alimentaire, ce qui donne essentiellement des mono- et diesters de saccharose d'acide gras mélangés à des mono- et triglycérides résiduels provenant de cette graisse ou de cette huile. Aucun solvant organique autre que le cyclohexane, le diméthylformamide, l'acétate diéthyle, l'isobutanol et l'isopropanol ne peut être utilisé pour leur préparation. Teneur totale en cyclohexane et en isobutanol : pas plus de 10 mg/kg pris séparément ou ensemble.
 
 Description : solides mous, gels rigides ou poudre, blancs ou blanchâtres.
 
