@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414908
+
+- Question : [SEQ910414908](seq910414908.md) — Réduction des crédits en faveur de l'enseignement agricole privé
+
+## Réponse
+
+*Agriculture, JO du 1991-07-11, page 1441*
+
+Réponse. - Compte tenu de certaines difficultés économiques entraînant de moindres rentrées fiscales, le Gouvernement a dû prendre des mesures de restriction et régulation de la dépense publique. Cette opération visant à sauvegarder les grands équilibres financiers et monétaires contraint les différentes branches de l'activité à une concentration accrue de leurs structures et de leurs moyens. Bien que l'enseignement soit jugé comme secteur prioritaire dans l'attribution des crédits publics, les établissements sont appelés eux aussi à procéder à une gestion plus rigoureuse des crédits budgétaires qui leur sont alloués, ces derniers ne pouvant être distribués abstraction faite de la conjoncture générale actuelle. Cependant, l'effort d'auto-discipline auquel se trouve soumis le secteur de l'enseignement agricole privé devrait rester modéré, la dotation importante du chapitre 43-22 et la possibilité de procéder à des virements de crédits d'article à article à l'intérieur de ce même chapitre atténuant la rigueur de l'annulation de 38 millions de francs, appliquée au mois de mars dernier sur les articles 20 et 30 du chapitre. Conscient des difficultés de trésorerie auxquelles sont confrontés nombre de centres, le ministre de l'agriculture et de la forêt, en même temps qu'il incite les intéressés à se regrouper ou à conclure des accords de partenariat avec des établissements bénéficiant d'autres sources de financement public, recherche conjointement avec le ministre d'Etat, ministre de l'économie, des finances et du budget, les moyens de relever le taux des aides publiques nécessaires au fonctionnement des différents types d'établissements agricoles privés ayant passé contrat avec l'Etat pour tout ou partie de leurs formations.
