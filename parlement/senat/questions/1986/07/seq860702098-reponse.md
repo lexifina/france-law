@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702098
+
+- Question : [SEQ860702098](seq860702098.md) — Développement de l'enseignement bilingue en France
+
+## Réponse
+
+*Éducation, JO du 1986-09-25, page 1351*
+
+Réponse. -L'enseignement des langues vivantes, dont l'enseignement bilingue constitue un des aspects privilégiés, est l'objet de la part du ministère de l'éducation nationale d'une grande attention. A cet égard, il convient de souligner que, dès la classe de sixième de collège, les élèves peuvent bénéficier d'un enseignement bilingue, soit au sein de sections bilingues, soit au sein de sections internationales ou encore à l'intérieur des établissements binationaux. En effet, les sections bilingues ouvertes dans les langues suivantes : allemand, anglais, espagnol, russe, italien, portugais, permettent un renforcement de la pratique de la langue par un horaire renforcé et par l'enseignement dans celles-ci de certaines disciplines : technologie, éducation musicale, dessin d'art ou éducation physique et sportive. De même l'organisation de la scolarité tant dans les sections internationales que dans les classes de collège des lycées franco-allemands prévoit, à partir d'un programme établi en concertation avec les autorités des pays concernés, l'enseignement d'un certain nombre de disciplines à des groupes mixtes d'élèves, dans la langue de chacun des pays partenaires. Par ailleurs, le renforcement de ces structures particulières, qui offrent un cadre privilégié au développement d'un enseignement bilingue, ne peut être envisagé, en tout état de cause, qu'en fonction de l'état des demandes exprimées par les familles pour ce type de scolarité, des moyens disponibles et également, en ce qui concerne plus particulièrement les sections internationales de collège ou les établissements franco-allemands, de la présence d'une certaine proportion d'élèves étrangers.
