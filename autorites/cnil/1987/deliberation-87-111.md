@@ -1,0 +1,15 @@
+# Délibération sur une demande de modification de l'acte réglementaire relatif à une procédure automatisée de collecte des informations nécessaires à l'ouverture du droit à l'allocation parentale d'éducation, présentée par la Caisse nationale d'allocations familiales
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-111
+- Date : 1987-11-17
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654084
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Vu le décret n° 85-420 du 30 avril 1985 relatif à l'utilisation du Répertoire National d'Identification des Personnes Physiques par des organismes de sécurité sociale et de prévoyance ; Vu la délibération de la CNIL n° 87-02 du 13 janvier 1987 relative à la mise en oeuvre d'une procédure automatisée de collecte des informations nécessaires à l'ouverture du droit à l'allocation parentale d'éducation ; Après avoir entendu Monsieur Roland CADET Commissaire en son rapport et Madame Charlotte-Marie PITRAT Commissaire du Gouvernement, en ses observations ;
+
+Considérant que par la délibération susvisée du 13 janvier 1987, la Commission a donné un avis favorable à un projet d'acte réglementaire prévoyant la transmission entre la Caisse Nationale d'assurance vieillesse et la Caisse Nationale des allocations familiales d'informations nécessaires à l'ouverture du droit à l'allocation parentale d'éducation ; Considérant que la recherche de ces informations par la Caisse nationale d'assurance vieillesse est largement commandée par la connaissance du numéro de sécurité sociale des intéressés ; que le nouveau projet d'arrêté présenté par la Caisse Nationale d'allocations familiales a pour objet d'obtenir ce numéro dans tous les cas où elle ne le possèderait pas ; Considérant qu'un semblable objet et les modalités prévues par ce projet ne soulèvent aucune remarque particulière de la Commission ; qu'il lui apparaît cependant qu'il n'était pas nécessaire de la saisir d'un nouveau projet d'acte réglementaire et qu'il eût suffit de demander la modification de l'acte réglementaire antérieurement approuvé et de le compléter dans le sens indiqué ci-dessous ; Considérant enfin que la recherche éventuelle du numéro de sécurité sociale des intéressés nécessite la transmission de nouvelles informations à la Caisse Nationale d'assurance vieillesse par la Caisse Nationale d'allocations familiales et que, la Caisse vieillesse présente à la Commission une modification de son propre projet d'acte réglementaire pour prévoir l'échange d'informations ; que cette modification ne soulève aucune objection ;
+
+Emet un avis favorable au projet qui lui est soumis. Le Président, Jacques FAUVET
