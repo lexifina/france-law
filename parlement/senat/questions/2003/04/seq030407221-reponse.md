@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407221
+
+- Question : [SEQ030407221](seq030407221.md) — Date de la commémoration de la fin de la guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 2003-06-26, page 2078*
+
+Les anciens combattants des conflits d'Afrique du Nord souhaitent voir le souvenir de ces heures douloureuses et de ceux qui sont morts pour la France honoré au cours d'une journée nationale. Comme le souligne l'honorable parlementaire, le secrétaire d'Etat aux anciens combattants considère qu'il revient d'abord au monde combattant d'aboutir à un accord sur cette demande légitime. Il n'appartient pas à l'Etat d'imposer une solution qui ne manquerait pas d'encourager de nouvelles polémiques et de rouvrir les blessures du passé. Afin de créer les conditions favorables à l'émergence d'un tel accord, le secrétaire d'Etat a confié à M. Jean Favier, membre de l'Institut, la présidence d'une commission composée des présidents des principales associations représentatives des anciens combattants. Il l'a chargée de proposer une date pour la commémoration de la guerre d'Algérie. Cette commission s'est réunie les 6 novembre et 22 janvier derniers. Les conclusions de ses travaux ont été remis par M. Favier au secrétaire d'Etat aux anciens combattants. La proposition de la commission Favier est de retenir le 5 décembre comme journée d'hommage à la mémoire des " morts pour la France " pendant la guerre d'Algérie et les combats du Maroc et de la Tunisie. Ce jour-là, en effet, lors de l'inauguration par le Président de la République du mémorial national de la guerre d'Algérie et des combats du Maroc et de la Tunisie, un hommage national, unanime et solennel, a été rendu aux morts pour la France en Afrique du Nord. Le Gouvernement étudie actuellement les suites qu'il apportera aux conclusions de la commission Favier.
