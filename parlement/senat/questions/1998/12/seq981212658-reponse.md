@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212658
+
+- Question : [SEQ981212658](seq981212658.md) — Triplement des taxes sur les cartes de résidents français en Côte-d'Ivoire
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-02-25, page 595*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur le triplement des taxes de cartes de résidents français en Côte-d'Ivoire et lui demander qu'une négociation sur ce sujet soit menée à l'occasion de la réunion de la commission franco-ivoirienne. Dès la promulgation de la loi ivoirienne du 29 juillet 1998 relative à l'identification des personnes et au séjour des étrangers, les autorités françaises ont demandé le respect par la Côte-d'Ivoire de de la convention bilatérale relative à la circulation et au séjour des personnes en vigueur depuis le 1er avril 1995, qu'il s'agisse des principes généraux de réciprocité et d'égalité qu'elle édicte, des durées de titres de séjour qu'elle mentionne ou des procédures de règlement amiable qu'elle instaure. Dès lors, après que des échanges de notes diplomatiques n'aient pas permis d'aboutir à un accord, des négociations ont été conduites dans le cadre de la commission mixte tenue à Abidjan les 14 et 15 décembre et le ministre délégué à la coopération s'est entretenu, au plus haut niveau, de ce sujet. Dans le cadre de l'application d'un texte de portée internationale auquel les deux parties ont réaffirmé leur attachement, la Côte-d'Ivoire s'est engagée à en respecter les principes de réciprocité et d'égalité et, pour ce faire, à délivrer des cartes pluriannuelles de séjour, à adapter ses tarifs à ceux qui sont pratiqués en France et à mettre en uvre très vite ces décisions. Notre représentant diplomatique et consulaire à Abidjan, ainsi que les ministères des affaires étrangères et Conseil national de sécurité ivoiriens ont été chargés d'en définir les modalités pratiques.
