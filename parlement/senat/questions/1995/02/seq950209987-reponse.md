@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209987
+
+- Question : [SEQ950209987](seq950209987.md) — Suppression d'emplois à la direction générale des douanes et droits indirects
+
+## Réponse
+
+*Économie, JO du 1995-11-02, page 2084*
+
+Réponse. - La restructuration de l'administration des douanes effectuée dans le cadre de la réalisation du Marché unique européen n'a nullement affecté son efficacité, notamment en matière de lutte contre les trafics frauduleux. Les résultats obtenus en 1994 en témoignent. Ainsi, les services douaniers ont constaté en 1994 plus de 30 000 infractions dans le domaine du commerce international. Les droits et taxes en cause dans ces opérations s'élevaient à près d'un milliard de francs, soit presque deux fois plus qu'en 1993. S'agissant du domaine des contributions indirectes, récemment transféré de la direction générale des impôts à celle des douanes, le renforcement des contrôles en 1994 dans le secteur des tabacs, des alcools ou de la viticulture s'est traduit par une progression très sensible des infractions relevées (soit p 45 p. 100 par rapport à 1993) et des droits et taxes en jeu (plus du double par rapport à 1993). A ces résultats obtenus en matière de protection des intérêts économiques et financiers, tant communautaires que nationaux, doivent être ajoutés ceux relevant de la prévention et de la répression des trafics illicites qui menacent la sécurité ou la santé des citoyens. La douane a intercepté en 1994 plus de 54 tonnes de produits stupéfiants divers, soit une augmentation de 36 p. 100 par rapport à 1993. Elle a ainsi été à l'origine de plus de 80 p. 100 des quantités de drogues saisies en France. Les résultats déjà connus pour l'année 1995 viennent confirmer cette tendance et traduisent pleinement les effets positifs de la réorganisation de la douane.
