@@ -2,11 +2,15 @@
 
 CGIB Banque pour la construction et l'équipement, Paris.
 
-The Chase Manhattan Bank (National Association), agence, Paris. Chase Manhattan SA, Paris.
+The Chase Manhattan Bank (National Association), agence, Paris.
+
+Chase Manhattan SA, Paris.
 
 Chemical Bank, agence, Neuilly-sur-Seine (Hauts-de-Seine).
 
-Chemical Bank (France) SA, Neuilly-sur-seine (Hauts-de-Seine). Citibank NA, agence, Puteaux (Hauts-de-Seine).
+Chemical Bank (France) SA, Neuilly-sur-seine (Hauts-de-Seine).
+
+Citibank NA, agence, Puteaux (Hauts-de-Seine).
 
 Citibank SA, Puteaux (Hauts-de-Seine).
 
@@ -36,7 +40,9 @@ Compagnie financière Midland, Paris.
 
 Compagnie générale de banque - Soficam, Paris.
 
-Compagnie générale de crédit aux particuliers - Credipar, Paris. Compagnie internationale de banque, Paris.
+Compagnie générale de crédit aux particuliers - Credipar, Paris.
+
+Compagnie internationale de banque, Paris.
 
 Compagnie parisienne de réescompte, Paris.
 
@@ -194,7 +200,9 @@ Saudi Lebanese Bank for the Middle East, Paris.
 
 Société agenaise de crédit - SAC Agen (Lot-et-Garonne).
 
-Société anonyme de crédit à l'industrie française (CALIF), Paris. Société anonyme professionnelle de crédit (SAPC), Paris.
+Société anonyme de crédit à l'industrie française (CALIF), Paris.
+
+Société anonyme professionnelle de crédit (SAPC), Paris.
 
 Société anonyme régionale de crédit automobile (SARCA), Bourg-en-Bresse (Ain).
 
@@ -270,7 +278,9 @@ Standard Chartered Bank PLC, agence, Paris.
 
 State Bank of India, agence, Paris.
 
-Trade Development Bank (France) - American Express Bank, Paris. Union bancaire pour la construction - Unibac, Paris.
+Trade Development Bank (France) - American Express Bank, Paris.
+
+Union bancaire pour la construction - Unibac, Paris.
 
 Union bancaire du Nord, Paris.
 
@@ -301,3 +311,15 @@ Union tunisienne de banques, Paris.
 Via banque, Paris.
 
 Wormser frères, Paris.
+
+NOTA :
+
+L'article 222 IV de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie dispose :
+
+" Dans toutes les dispositions législatives et réglementaires en vigueur :
+
+1° La référence au territoire de la Nouvelle-Calédonie est remplacée par la référence à la Nouvelle-Calédonie ;
+
+2° La référence à l'assemblée territoriale de la Nouvelle-Calédonie est remplacée par la référence au congrès de la Nouvelle-Calédonie ;
+
+3° La référence à l'exécutif de la Nouvelle-Calédonie est remplacée par la référence au gouvernement de la Nouvelle-Calédonie. "
