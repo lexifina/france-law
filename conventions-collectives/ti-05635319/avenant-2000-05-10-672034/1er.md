@@ -1,0 +1,5 @@
+# Article 1er
+
+L'article 2 « Champ d'application » de l'accord du 9 septembre 1998 est rédigé de la manière suivante :
+
+Sont concernés par le présent accord l'ensemble des salariés (ouvriers, ETAM et cadres) quelle que soit la forme de leur contrat de travail, sous réserve des dispositions applicables aux jeunes travailleurs, et les salariés intérimaires occupés dans les entreprises du bâtiment qui appliquent à leurs ouvriers la convention collective nationale du 8 octobre 1990 concernant les ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962 (c'est-à-dire occupant jusqu'à 10 salariés) et dont l'activité est visée à l'annexe I du présent accord.
