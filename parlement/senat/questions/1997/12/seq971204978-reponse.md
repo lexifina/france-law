@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204978
+
+- Question : [SEQ971204978](seq971204978.md) — Prêt à taux zéro
+
+## Réponse
+
+*Logement, JO du 1998-01-22, page 251*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur les modifications apportées aux règles d'attribution du prêt à taux zéro. Le gouvernement précédent a débudgétisé le financement de ce prêt et assuré par un prélèvement sur la collecte du 1 % à hauteur de 7 milliards par an sa couverture jusqu'au 31 décembre 1998 seulement... Le gouvernement actuel a décidé de maintenir ce dispositif en 1998 alors même que son financement n'est plus assuré en 1999 et que les prêts accordés en 1998 induiront une dépense de 3,5 milliards en 1999. Alors que sont explorées diverses voies de solutions nouvelles, compte tenu de cette difficulté majeure, il a été indispensable dès 1998 de procéder à certains ajustements afin de mieux maîtriser l'impact budgétaire 1999. Parmi tous les choix possibles, il est apparu que de concentrer le bénéfice du prêt à taux zéro sur les familles qui acquièrent leur logement pour la première fois était le plus équitable. Les ménages déjà propriétaires ont en effet plus de facilité pour financer leur accession grâce à l'apport personnel que constitue la revente de leur bien, une revente qui ne peut qu'exceptionnellement être moins avantageuse que le prêt à taux zéro, dont le montant varie de 120 000 à 180 000 F. La notion de primo-accédant recouvre désormais les ménages qui n'ont pas été propriétaires au cours des deux dernières années, et non plus au cours des cinq dernières années comme cela avait été envisagé initialement. En outre, il est possible de transférer le prêt à taux zéro sur une acquisition ultérieure dès lors qu'il y a mobilité, qu'elle soit professionnelle ou familiale. Enfin, concernant la mobilité professionnelle, il est possible d'obtenir un second prêt à taux zéro si les autres conditions (plafond de ressources...) sont remplies.
