@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813526
+
+- Question : [SEQ040813526](seq040813526.md) — Utilisation de la messagerie électronique d'une entreprise pour la diffusion de tracts syndicaux
+
+## Réponse
+
+*Relations du travail, JO du 2004-10-21, page 2408*
+
+L'attention du Gouvernement a été appelée sur l'utilisation de la messagerie de l'entreprise par un syndicat. L'utilisation par les syndicats d'une entreprise de l'intranet et de la messagerie interne de celle-ci est prévue par la loi n° 2004-391 du 4 mai 2004 relative à la formation professionnelle tout au long de la vie et au dialogue social. La nouvelle rédaction de l'article L. 412-8 du code du travail précise qu'un accord d'entreprise peut autoriser la mise à disposition des publications et des tracts de nature syndicale, soit sur un site syndical mis en place sur l'intranet de l'entreprise, soit par diffusion sur sa messagerie électronique. Dans ce dernier cas, cette diffusion doit être compatible avec les exigences de bon fonctionnement du réseau informatique de l'entreprise et ne pas entraver l'accomplissement du travail. La première condition est donc celle de la négociation préalable par l'employeur et les délégués syndicaux de l'entreprise d'un accord, à défaut duquel l'accès par les organisations syndicales à l'intranet et à la messagerie électronique de l'entreprise ne peut être considéré comme légitime. Cet accord doit notamment préciser les conditions d'accès (des organisations syndicales et les règles techniques visant à préserver la liberté de choix des salariés d'accepter ou de refuser un message. La Commission nationale de l'informatique et des libertés a récemment publié des préconisations à ce sujet, aux termes desquelles il est recommandé que les organisations syndicales informent clairement et préalablement les salariés de l'utilisation de la messagerie professionnelle.
