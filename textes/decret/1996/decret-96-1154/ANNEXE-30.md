@@ -8,7 +8,7 @@ Bas-Vernet : site 1
 
 - avenue Frédéric-Bartholdi jusqu'à la limite Sud des parcelles section IN 145 et 144 ;
 
-- limite Sud des parcelles section IN 145 et 144 jusqu'au chemin de Baixas ;
+- limite sud des parcelles section IN 145 et 144 jusqu'au chemin de Baixas par limite sud et ouest de la parcelle section IN n° 134 ;
 
 - chemin de Baixas jusqu'aux limites Nord des parcelles section IN 116, 117, 136, 77, 85, 81, 79, 82, 203, 207, 204, 41, 38, 41 pour rejoindre la rue François-Rude ;
 
@@ -96,9 +96,9 @@ Haut-Vernet : site 2
 
 - avenue de Salanque jusqu'au chemin départemental n° 76 ;
 
-- chemin départemental n° 76 jusqu'à la limite Nord de la parcelle section DE n° 428 ;
+- chemin départemental n° 76 jusqu'à la limite sud de la parcelle section DE 428, puis longer la limite sud-ouest jusqu'à la limite nord-ouest de la parcelle section DE 428 ;
 
-- limite Nord de la parcelle section DE n° 428 jusqu'à la limite Est des parcelles section DE n°s 428, 430, 432, 436, 126 et 438 ;
+- limite nord-ouest des parcelles section DE n°s 428, 432, 434, 436, 126 et 438 en incluant linéairement pour partie la parcelle n° 430, jusqu'à la limite est de la parcelle DE n° 438 ;
 
 - limite Est de la parcelle section DE n° 438 jusqu'au CD n° 76 ;
 
