@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716251
+
+- Question : [SEQ910716251](seq910716251.md) — Plan d'enterrement des lignes PTT
+
+## Réponse
+
+*Postes, JO du 1991-09-19, page 2038*
+
+Réponse. - France Télécom est parfaitement conscient des avantages que présentent les lignes enterrées, tant pour la collectivité (meilleure protection de l'environnement) que pour lui-même (moindre vulnérabilité du réseau aux intempéries). Aussi, s'efforce-t-il de procéder le plus possible à l'enterrage des lignes d'abonnés. Dans les zones urbaines, l'enterrage est la règle. Dans les zones rurales, il convient de distinguer deux types de câbles : tout d'abord, les câbles de transport, qui sont ceux contenant le plus grand nombre de lignes d'abonnés et représentant la partie terminale côté central ; puis en second lieu, les câbles de distribution, de plus faible capacité, représentant la partie terminale côté abonné. Les câbles de transport sont progressivement tous enterrés. En revanche, il n'est pas possible de procéder à l'enterrage systématique des câbles de distribution, car, dans certaines régions tout au moins, le dispersion de l'habitat oblige à poser des câbles de faible contenance et de longueur élevée. En outre, tenu de raccorder dans les meilleurs délais toute personne formulant une demande, l'exploitant public est souvent conduit à opter pour la technique aérienne, plus rapide à mettre en oeuvre. Il convient enfin de signaler que, dans les sites naturels et protégés, France Télécom a mis sur pied depuis longtemps, en liaison avec E.D.F., un programme dit " d'effacement " des lignes aériennes. Il prend en charge 50 p. 100 de ces travaux dans les sites urbains protégés, les 50 p. 100 restants étant pris en charge par la commune. Dans les sites naturels, il prend, en règle générale, la totalité du coût des travaux à sa charge. Pour 1991, le budget afférent à ces travaux est de 20 p. 100 supérieur à celui de l'année précédente.
