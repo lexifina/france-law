@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606702
+
+- Question : [SEQ870606702](seq870606702.md) — Fonctionnement des tribunaux de grande instance et d'instance de Nice
+
+## Réponse
+
+*Justice, JO du 1987-08-20, page 1331*
+
+Réponse. -La situation du tribunal de grande instance de Nice n'avait pas échappé à l'attention de la chancellerie : cette juridiction figurant au nombre de celles dont la charge de travail par magistrat est supérieure à la moyenne nationale, ses effectifs ont été récemment renforcés par le recrutement à titre temporaire de deux magistrats. Cette mesure a permis de réduire la durée moyenne de traitement des affaires civiles qui est passée de 16,8 mois en 1984 à 14,3 mois en 1986. Ce tribunal aura de la sorte jugé en 1986 plus d'affaires qu'il n'en a enrôlées. En ce qui concerne le tribunal d'instance de Nice, il est exact que l'un des magistrats qui y est affecté doit le quitter en septembre prochain. Mais il est d'ores et déjà prévu de pourvoir à son remplacement dès avant la fin de l'année. En outre, un emploi de juge placé auprès du premier président, créé par la loi de finances pour 1987, a été localisé dans la cour d'appel d'Aix-en-Provence. Il sera désormais possible au premier président de désigner ce juge pour remédier tant aux empêchements momentanés qu'aux vacances d'emplois. La situation du tribunal d'instance de Nice s'est, du reste, améliorée de façon sensible : la durée moyenne de traitement des affaires civiles a été réduite de 7,2 mois en 1984 à 6,2 mois en 1986, année au cours de laquelle cette juridiction, elle aussi, a jugé plus d'affaires civiles qu'elle n'en a enrôlées. Quant aux effectifs de fonctionnaires de ces deux juridictions, les emplois existants sont pratiquement tous pourvus. En outre, le tribunal de grande instance et le tribunal d'instance de Nice seront respectivement dotés d'un mini-ordinateur Intertechnique et d'un micro-ordinateur Forum dans le courant du quatrième trimestre de 1987.
