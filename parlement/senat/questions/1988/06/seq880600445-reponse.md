@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600445
+
+- Question : [SEQ880600445](seq880600445.md) — Cessation d'activité agricole pour raisons économiques
+
+## Réponse
+
+*Agriculture, JO du 1988-09-22, page 1047*
+
+Réponse. - Dans les circonstances économiques et financières difficiles qui obligent un certain nombre d'agriculteurs à quitter leur profession, des mesures ont été prises visant effectivement à réformer le dispositif d'aide aux mutations professionnelles. Le décret n° 88-529 du 4 mai 1988 a prévu deux types d'avantages, sous la forme d'une aide à la formation et d'une prime au départ. C'est ainsi que les agriculteurs en difficulté, qui cessent d'exploiter, peuvent bénéficier d'un stage rémunéré, assorti d'une prise en charge des frais de formation. La rémunération des stagiaires est égale à celle versée aux travailleurs non salariés, dans le dispositif de droit commun, soit 4 225,50 francs par mois. La durée de ces stages est fixée à six mois, mais cette durée peut être dépassée lorsque la formation suivie conduit à une qualification qui ne peut être acquise plus rapidement, et pour laquelle il existe un besoin spécifique. Quant à la prime de départ, elleest fixée à 20 000 francs par un arrêté du 4 mai 1988. Il peut être accordé deux primes de départ par exploitation. Sont concernés par ces mesures, non seulement les agriculteurs qui ont exercé à titre principal une activité agricole pendant une durée d'au moins cinq ans précédant immédiatement la date de dépôt de la demande, mais encore leur conjoint exerçant une activité agricole et leurs aides familiaux et associés d'exploitation. Par ailleurs, le Gouvernement vient d'adopter un dispositif visant notamment à harmoniser les moyens à mettre en oeuvre, dans le contexte économique actuel, afin de venir en aide aux agriculteurs en difficulté.
