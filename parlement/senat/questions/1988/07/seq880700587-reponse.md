@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700587
+
+- Question : [SEQ880700587](seq880700587.md) — Apurement des créances fiscales dans le cadre d'un plan de redressement
+
+## Réponse
+
+*Économie, JO du 1988-12-15, page 1425*
+
+Réponse. - Pendant la période d'observation ouverte à la suite du jugement de redressement judiciaire, les comptables publics sont consultés sur les délais qui leur sont proposés. Ils disposent de trente jours pour se prononcer, l'inobservation de ce délai valant acceptation tacite. Des remises, modérations ou transactions portant sur les créances fiscales peuvent également être accordées sauf pour le principal en matière de taxes sur le chiffre d'affaires, de contributions indirectes ou de droits d'enregistrement. Des cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés peuvent être consentis après consultation de la commission des chefs des services financiers et des représentants des organismes de sécurité sociale. S'il existe des possibilités sérieuses de redressement et de règlement du passif, le tribunal arrête un plan de continuation de l'entreprise. Il donne alors acte des délais et remises acceptés par les créanciers, notamment deceux accordés par le Trésor en matière fiscale. Pour les créanciers ayant refusé d'accorder les délais et remises qui leur avaient été demandés, le tribunal impose des délais de paiement, qui sont uniformes et qui peuvent excéder la durée du plan. En revanche, il ne peut pas leur imposer des remises. Les modalités de règlement du passif ainsi déterminées doivent être strictement respectées. A défaut, et sous certaines conditions, les comptables publics peuvent, comme les autres créanciers, demander la résolution du plan. Si le plan de redressement organise une cession de l'entreprise, les créanciers publics sont payés sur le prix de cession suivant leur rang. Ils ne peuvent remettre en cause le montant, la ventilation et les modalités de paiement du prix.
