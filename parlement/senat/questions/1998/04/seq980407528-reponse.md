@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407528
+
+- Question : [SEQ980407528](seq980407528.md) — Action de la douane dans la gestion de l'embargo concernant la vache folle
+
+## Réponse
+
+*Budget, JO du 1998-07-16, page 2315*
+
+Réponse. - En 1997, les services douaniers ont procédé au contrôle de 256 332 moyens de transport dans le cadre de la crise de l'encéphalopathie spongiforme bovine (ESB). Ces contrôles ont notamment permis d'identifier des lots de marchandises nécessitant des vérifications complémentaires de la part des autorités sanitaires. Les marchandises ont fait l'objet d'une consignation douanière dans l'attente d'une décision définitive des services vétérinaires. Ces derniers ont décidé le refoulement des marchandises pour 30 constatations et leur destruction pour 4 constatations, soit quelque 234 tonnes de marchandises non conformes à la réglementation en vigueur qui ont donc été refoulées ou détruites. Depuis le début de cette crise (de mars 1996 jusqu'au 12 mars 1998), 484 407 moyens de transport ont été contrôlés par la douane. Aucun objectif quantitatif global ne peut être fixé a priori dans la mesure où les situations diffèrent selon les régions. Les services des directions régionales des douanes de Dunkerque, de Normandie et de Bretagne sont particulièrement concernées par d'éventuels trafics en provenance du Royaume-Uni. Les services douaniers demeurent toutefois mobilisés sur l'ensemble du territoire dans le cadre d'un dispositif national de surveillance. A cet égard, un protocole de coopération a été signé dans la direction générale des douanes et droits indirects et la direction générale de la concurrence, de la consommation et de la répression des fraudes en vue de favoriser l'échange d'informations et la mise en uvre d'actions communes dans le domaine de l'ESB et d'accroître ainsi l'efficacité du dispositif de contrôle existant.
