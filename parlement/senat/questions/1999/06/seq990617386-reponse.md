@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617386
+
+- Question : [SEQ990617386](seq990617386.md) — Situation des communes avec emprise de terrains militaires
+
+## Réponse
+
+*Économie, JO du 1999-08-05, page 2658*
+
+Réponse. - Conformément aux articles 1382, 1394 et 1408 du code général des impôts, les emprises militaires (constructions et terrains) font l'objet d'exonérations permanentes au titre des taxes directes locales comme c'est également le cas pour les autres propriétés publiques non productrices de revenu. Ces exonérations ne donnent pas lieu à compensation par l'Etat, ce qui conduit l'auteur de la question à demander soit la mise en place d'une dotation de compensation spécifique, soit un concours particulier de la dotation globale de fonctionnement (DGF) des communes. Ces exonérations permanentes, entraînées par les emprises militaires, sont prises en compte dans le calcul de l'effort fiscal défini aux articles L. 2334-5 et L. 2334-6 du code général des collectivités territoriales lorsque les communes concernées ont plus de 10 % de leur territoire communal occupés par des terrains militaires. Ce critère est retenu dans les modalités de calcul des attributions versées aux communes éligibles à la dotation de solidarité urbaine et aux deux fractions de la dotation de solidarité rurale au sein de la dotation globale de fonctionnement. Il fait partie également des critères d'éligibilité des communes à la part principale du Fonds national de péréquation (FNP). En conséquence, dans la mesure où le manque à gagner résultant d'exonérations permanentes relatives à la fiscalité directe locale est pris en compte dans le mécanisme de répartition de la DGF et du FNP, il ne peut être envisagé de prévoir une compensation particulière à ce titre. Par ailleurs, si la présence d'emprises militaires n'est pas productrice de revenus fiscaux, il n'en reste pas moins qu'elle procure, le plus souvent, une activité économique aux communes d'accueil.
