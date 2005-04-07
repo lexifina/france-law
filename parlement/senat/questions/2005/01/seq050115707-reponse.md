@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115707
+
+- Question : [SEQ050115707](seq050115707.md) — Conséquences de la hausse du prix de l'énergie sur les ménages
+
+## Réponse
+
+*Économie, JO du 2005-04-07, page 982*
+
+Le Gouvernement est conscient des difficultés rencontrées par les ménages du fait de l'augmentation du prix du fioul domestique. Il convient toutefois de souligner que le fioul domestique ne se trouve pas dans une situation atypique en matière de taxation. En effet, l'article 265-3 du code des douanes national prévoit que tout hydrocarbure destiné à être utilisé comme combustible est assujetti à la taxe intérieure de consommation. Ce principe de taxation sera en outre étendu lors de la transposition de la directive 2003/96/CE « restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité » aux produits dits énergétiques. Par ailleurs, le niveau d'imposition de ce produit, taxé en France à hauteur de 5,66 EUR/hl, se situe dans la moyenne des taux pratiqués par l'ensemble des Etats membres de l'Union européenne. Certes, en raison même de son niveau réduit de taxation, le fioul domestique s'est révélé plus sensible aux variations des cours du pétrole survenues en 2004 que d'autres produits pétroliers plus imposés et ayant bénéficié, de ce fait, de l'effet de l'amortisseur fiscal. Toutefois, toute baisse de la fiscalité sur ce produit serait hautement préjudiciable pour l'équilibre des finances publiques. Dès lors, une baisse du taux de la taxe intérieure sur les produits pétroliers sur le fioul domestique à usage combustible n'est donc pas envisageable, s'agissant d'un produit qui, en ce qu'il est destiné au chauffage des ménages, est d'ores et déjà sept fois moins taxé que son équivalent destiné à la carburation, le gazole, actuellement imposé au taux de 41,69 EUR/hl.
