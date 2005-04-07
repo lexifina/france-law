@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115522
+
+- Question : [SEQ050115522](seq050115522.md) — Utilisation des cavités souterraines par les spéléologues
+
+## Réponse
+
+*Intérieur, JO du 2005-04-07, page 992*
+
+L'article 552 du code civil indique que la propriété du sol emporte la propriété du dessus et du dessous. Dès lors, le propriétaire d'un terrain possède également les cavités souterraines comprises dans le périmètre de sa propriété. A ce titre, il est responsable des dommages induits par ces cavités, excepté dans le cas des cavités minières qui sont cédées momentanément à un exploitant avant de revenir à son propriétaire, lorsque toutes les nuisances ont été maîtrisées. Lorsqu'il n'existe aucun titre notarié de propriété afférent à une cavité, celle-ci constitue un bien vacant et sans maître au titre de l'article 713 du code civil et appartient à la commune sur le territoire de laquelle elle se situe. Cependant, si la commune renonce à exercer ce droit, l'Etat en devient propriétaire de plein droit. Dès lors, la responsabilité de la commune ou, le cas échéant, de l'Etat, peut être engagée du fait des dommages consécutifs à l'existence ou à l'utilisation de ces cavités. Enfin, il n'existe pas de dispositions législatives ou réglementaires qui confèrent au maire la faculté de soumettre l'activité des spéléologues à un régime d'autorisation préalable sur le territoire de la commune, (CAA Marseille, 3 mai 2004, fédération française de spéléologie). Toutefois, au terme de l'article L. 2212-2 du code général des collectivités territoriales, la police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Il appartient donc au maire de prendre les mesures nécessaires afin de prévenir les risques afférents à l'exploration des cavités souterraines situées sur le territoire de la commune.
