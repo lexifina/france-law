@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215797
+
+- Question : [SEQ050215797](seq050215797.md) — Harmonisation des régimes indemnitaires des agents travaillant pour les communautés d'agglomération
+
+## Réponse
+
+*Fonction publique, JO du 2005-04-07, page 989*
+
+L'article 64 de la loi du 12 juillet 1999, relative au renforcement et à la simplification de la coopération intercommunale, a ouvert la possibilité pour les établissements publics de coopération intercommunale (EPCI) de décider du maintien, à titre individuel, des avantages acquis, en application de l'article 111, alinéa 3, de la loi du 26 janvier 1984, par les agents, au titre de l'emploi qu'ils occupaient auparavant dans la collectivité membre de l'EPCI. Sont concernés les avantages ayant le caractère de complément de rémunération, tel le treizième mois. La loi du 27 février 2002 relative à la démocratie de proximité (art. 46) a complété ce dispositif en prévoyant que les agents transférés conservent, s'ils y ont intérêt, le bénéfice du régime indemnitaire qui leur était applicable. Ce régime est constitué de l'ensemble des primes et indemnités obtenues par les fonctionnaires au titre de l'article 88 de la loi du 26 janvier 1984, c'est-à-dire l'ensemble des primes et indemnités attribuées sur décision de l'assemblée délibérante de la collectivité territoriale. Ces deux articles permettent aux agents transférés d'une commune membre vers une structure intercommunale, en cas de transfert de compétence, de conserver le bénéfice du régime indemnitaire qui leur était applicable. Il n'est pas prévu de proposer au Parlement une extension de ces avantages à l'ensemble des agents des EPCI laquelle aurait pour conséquence d'alourdir le budget intercommunal. Toutefois, s'il le souhaite, l'organe délibérant de l'EPCI peut moduler les primes des autres agents dans le respect du dispositif prévu à l'article 88 de la loi du 26 janvier 1984 et réduire ainsi l'écart existant entre les différents agents.
