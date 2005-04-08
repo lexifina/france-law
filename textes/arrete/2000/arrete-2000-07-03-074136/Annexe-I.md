@@ -44,13 +44,13 @@ Etablissements Piques/Exploitation des établissements Piques, 21440 Poncey-sur-
 
 Eternit, établissement de Vitry, BP 8, 71600 Paray-le-Monial : de 1941 à 1997 ;
 
-Isothelme, 89150 Saint-Valérien : de 1960 à 1996 ;
-
 Patouret Dubois, 89200 Avallon : de 1890 à 1997 ;
 
 Porteret Beaulieu Industries, BP 11, 21310 Mirebeau-sur-Bèze : de 1940 à 1996 ;
 
 SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1996 ;
+
+SERCI Isothelme, 89150 Saint-Valérien, de 1960 à 1996 ;
 
 Wanner/Wanner Isofi, 71100 Chalon-sur-Saône : de 1933 à 1977.
 
@@ -62,9 +62,11 @@ Eternit, établissement de Saint-Grégoire, BP 1, 35761 Saint-Grégoire Cedex : 
 
 Le Mastic Breton, 35530 Noyal-sur-Vilaine : de 1960 à 1985.
 
+SA CAPIC, 7, Hent-Kamm, 29000 Quimper : de 1978 à 1993.
+
 Centre
 
-Ets Preault, puis Regeltex, puis Ancienne Manufacture d'Antony, 14, boulevard d'Anvaux, 36000 Châteauroux : de 1976 à 1993 ;
+Ets Preault, puis Regelflex, puis Ancienne Manufacture d'Antony, 14, boulevard d'Anvaux, 36000 Châteauroux, de 1976 à 1996 ;
 
 Everitube/Everite SA, usine Le Grignon, 37160 Descartes : de 1920 à 1996 ;
 
@@ -80,7 +82,7 @@ Champagne-Ardenne
 
 Forbo Sarlino, 63, rue Gosset, 51100 Reims : de 1960 à 1984 ;
 
-Foseco, chemin Noir, 08350 Donchery : de 1961 à 1976 ;
+FOSECO, chemin Noir, 08350 Donchery : de 1961 à 1983.
 
 Corse
 
@@ -298,6 +300,8 @@ Ferrettite/DCP/Doneco-Ferrettite/Celtite Profilex/DFC/ Covaldi/EPC : Villiers-Sa
 
 Rieter Automotive, 60650 La Chapelle-aux-Pots : de 1960 à 1988 ;
 
+SA Fichet Bauche, 80460 Oust-Marest : de 1969 à 1977 ;
+
 Valeo, espace industriel Nord, 5, rue Roger-Dumoulin, BP 0926, 80009 Amiens Cedex 1 : de 1958 à 1992.
 
 Provence-Alpes-Côte d'Azur
@@ -324,7 +328,7 @@ Société Soprema étanchéité, 5, impasse Mourre, BP 786, 84036 Avignon Cedex 
 
 Technisol, route du Jaï, 13220 Châteauneuf-lès-Martigues : de 1959 à 1984 ;
 
-Travisol Fos/Sudisdec, 535, chemin du Chaland, BP 189, 13774 Fos-sur-Mer : de 1964 à 1972 ;
+Travisol/SUDISOLEC, 535, chemin du Chaland, BP 189, 13774 Fos-sur-Mer, de 1964 à 1996 ;
 
 Wanner/Wanner Isofi/Wanner Industrie, route de Roquevaire, 13400 Aubagne : de 1933 à 1977 ; - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ; - 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ; - 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ; - 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
 
