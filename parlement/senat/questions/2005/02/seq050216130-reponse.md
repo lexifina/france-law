@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216130
+
+- Question : [SEQ050216130](seq050216130.md) — Absence d'amélioration significative dans l'application des lois
+
+## Réponse
+
+*Premier ministre, JO du 2005-04-14, page 1049*
+
+L'objectif d'une publication rapide de l'ensemble des mesures nécessaires à l'application des lois fait l'objet d'une préoccupation constante de la part du Gouvernement. Une réunion interministérielle coprésidée par le secrétaire général du Gouvernement et le cabinet du Premier ministre est organisée à la suite de la publication de chaque loi afin de recenser les textes nécessaires à son application et d'élaborer un calendrier prévisionnel de préparation et de publication de ces textes. Le respect de ce calendrier, qui, sauf exception dûment justifiée, ne prévoit pas de délai de publication supérieur à six mois à compter de la promulgation de la loi, est vérifié notamment au moyen d'indicateurs de suivi faisant apparaître pour chaque loi et chaque ministère le nombre de mesures prises ou à prendre. Ces indicateurs constituent un moyen efficace de sensibilisation des administrations à l'objectif de mise en oeuvre rapide des réformes adoptées par le Parlement. Un bilan destiné à mesurer les efforts accomplis est effectué tous les six mois. L'ensemble de ces mesures a contribué à une amélioration de la situation au cours de l'année 2004 : au 30 juin 2004, sur 888 mesures réglementaires nécessaires pour l'application des 67 lois votées sous l'actuelle législature, le Gouvernement avait publié 369 textes, soit un taux d'exécution de 42 %. Au 30 novembre de la même année, ce sont 578 textes qui ont été publiés, sur un total de 1 199 mesures réglementaires nécessaires à l'application des 88 lois votées, soit un taux d'exécution de 48 %. Le taux d'effort global, c'est-à-dire le rapport entre le nombre de décrets pris pendant la période du 30 juin au 30 novembre 2004 et le nombre de décrets restant à prendre au 30 juin 2004 est de 40,3 %.
