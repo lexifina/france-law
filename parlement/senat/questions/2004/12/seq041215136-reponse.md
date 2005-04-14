@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215136
+
+- Question : [SEQ041215136](seq041215136.md) — Situation de la mission culturelle française en Égypte
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-04-14, page 1049*
+
+Dans la ligne des orientations fixées par le ministère des affaires étrangères, notre ambassadeur en Egypte a procédé à une harmonisation des grilles de salaires des agents de recrutement local de l'ambassade au Caire, des consulats généraux d'Alexandrie et du Caire ainsi que du centre français de culture et de coopération. Cette mise en place d'une nouvelle grille, qui interviendra en 2005, était devenue indispensable à la suite du mécontentement croissant des agents de recrutement local de tous les services français en Egypte et du décalage existant entre les rémunérations servies par notre ambassade au Caire et celles servies par les ambassades et les institutions internationales de taille comparable. Ce décalage affectait également les rémunérations entre les agents des différents services de l'ambassade de France. En effet, les recrutés locaux français et égyptiens à diplômes équivalents, à compétences et à fonctions égales étaient rémunérés avec un différentiel de un à quatre au détriment des recrutés locaux égyptiens. Cette discrimination ne pouvait perdurer. Aucun des contrats de recrutés locaux français n'est remis en cause. Ils seront menés à leur terme dans les conditions initialement convenues. D'ores et déjà, de nouvelles embauches de recrutés locaux français ont été opérées sur la base des salaires déterminés par la nouvelle grille et conformes aux niveaux observés à la fois dans les entreprises internationales implantées en Egypte et dans les représentations diplomatiques notamment celles de l'Union européenne. Par ailleurs, il est prévu de poursuivre, y compris pour les nouveaux contrats, le versement des salaires en euros.
