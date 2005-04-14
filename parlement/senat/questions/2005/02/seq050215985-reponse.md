@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215985
+
+- Question : [SEQ050215985](seq050215985.md) — Situation des chambres d'agriculture
+
+## Réponse
+
+*Agriculture, JO du 2005-04-14, page 1054*
+
+Le financement des chambres d'agriculture est, conformément à l'article 1604 du code général des impôts, d'une part, assuré par le produit de la taxe additionnelle sur le foncier non bâti, et, d'autre part, de subventions et des services payants fournis par les chambres d'agriculture. La ressource assise sur le foncier non bâti constitue près de la moitié des recettes des chambres d'agriculture, et sert à couvrir les dépenses générées par l'ensemble des missions de service public et de représentation que ces compagnies assurent. En application de l'article L. 514-1 du code rural, l'augmentation maximale du produit de la taxe que chaque chambre départementale peut inscrire à son budget est fixée, chaque année, par la loi de finances initiale. Toutefois, à titre exceptionnel, une chambre d'agriculture peut être autorisée à majorer ce taux compte tenu de sa situation financière, ainsi que des actions nouvelles mises en oeuvre ou des investissements à réaliser, dans le cadre de conventions conclues avec l'Etat. En outre, la couverture des dépenses entraînées par la participation des chambres d'agriculture à la réalisation de programmes agricoles généraux, peut selon les termes de l'article R. 514-1 du code rural, être prise en charge par des subventions ou des avances remboursables du Fonds national de péréquation et d'actions professionnelles des chambres d'agriculture (FNAPCA). Enfin, et après avis de l'assemblée permanente des chambres d'agriculture (APCA), une mission chargée d'étudier le financement des chambres d'agriculture a été constituée. Le rapport de cette mission alimentera la réflexion engagée dans le cadre de la loi de modernisation agricole.
