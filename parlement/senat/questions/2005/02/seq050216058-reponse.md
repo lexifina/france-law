@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216058
+
+- Question : [SEQ050216058](seq050216058.md) — Frais d'avoués
+
+## Réponse
+
+*Justice, JO du 2005-04-14, page 1082*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'en vertu de l'article 9 du décret n° 80-608 du 30 juillet 1980 fixant le tarif des avoués près les cours d'appel, la rémunération de ces officiers ministériels est constituée par un émolument proportionnel à l'importance de l'affaire. Aux termes du décret précité, cet émolument proportionnel résulte soit de l'application d'un barème dégressif dont les tranches sont exprimées en unités de base, soit de la détermination d'un multiple de l'unité de base arrêté par un magistrat de la cour d'appel selon les modalités qui figurent au texte. Le montant de l'unité de base s'élève à 2,70 euros depuis l'entrée en vigueur du décret n° 2003-429 du 12 mai 2003. Le résultat du calcul, tel qu'il apparaît sur les états de frais mentionnés à l'article 5, doit être arrondi à l'euro le plus proche ainsi qu'en dispose expressément l'article 9. S'agissant des conséquences d'un changement de titulaire de l'office sur le coût de la prestation, le mécanisme institué par le décret tarifaire permet de rétribuer l'avoué, compte tenu du degré d'avancement de la procédure au moment où il cesse ses fonctions. Dès lors, le compte de chacun des clients dans les écritures comptables de l'office, qui enregistre les provisions et les acomptes versés, doit être régularisé en fonction des événements procéduraux ou de la cessation d'activité de l'office, ce qui ne peut entraîner de dépens supplémentaire. Enfin, le droit à déduction de la TVA payée sur les émoluments des avoués, ouvert aux seuls redevables de la taxe sur la valeur ajoutée, ne peut concerner les parties à une procédure de divorce.
