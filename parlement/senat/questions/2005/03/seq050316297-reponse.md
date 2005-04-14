@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316297
+
+- Question : [SEQ050316297](seq050316297.md) — Extension de l'aide juridictionnelle
+
+## Réponse
+
+*Justice, JO du 2005-04-14, page 1083*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'aux termes de l'article 31 de la loi du 10 juillet 1991, l'avocat au Conseil d'Etat et à la Cour de cassation qui prête son concours au bénéficiaire de l'aide juridictionnelle perçoit une rétribution de l'Etat fixée selon des barèmes établis par décret en Conseil d'Etat. S'agissant de l'appel d'une ordonnance de référé liberté porté devant le Conseil d'Etat, la demande d'aide juridictionnelle doit être présentée auprès du bureau d'aide juridictionnelle de cette juridiction. La rétribution de l'avocat au Conseil d'Etat et à la Cour de cassation qui prête son concours au bénéficiaire de l'aide juridictionnelle est déterminée, non par le barème annexé à l'article 90 du décret du 19 décembre 1991, applicable aux seules procédures engagées devant le tribunal administratif et la cour administrative d'appel, mais par l'article 93 du décret susvisé. Ce texte prévoit, pour une procédure engagée devant le juge des référés, une rétribution forfaitaire de 153 euros. Toutefois, à compter du 1er janvier 2005, la compétence d'appel du Conseil d'Etat en matière de reconduite à la frontière, prévue par l'article 22 bis de l'ordonnance du 2 novembre 1945, est transférée aux cours administratives d'appel. La rétribution de l'avocat qui prête son concours au bénéficiaire de l'aide juridictionnelle à l'occasion de cette procédure n'est donc plus déterminée par l'article 93 précité, mais par la ligne XIV.3 « référé liberté et référé provision » de la rubrique XIV « Tribunal administratif et cour administrative d'appel » du barème annexé à l'article 90 susvisé. Le coefficient de rétribution est fixé à 8 unités de valeur, soit 166,72 euros hors taxe.
