@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216037
+
+- Question : [SEQ050216037](seq050216037.md) — Situation des groupements d'intérêt public au regard du droit fiscal
+
+## Réponse
+
+*Économie, JO du 2005-04-14, page 1071*
+
+Conformément aux dispositions de la sixième directive taxe sur la valeur ajoutée (TVA) les groupements d'intérêt public (GIP), lorsqu'ils sont qualifiés de personne morale de droit public par le texte qui les institue ou, à défaut, lorsqu'ils peuvent y être assimilés en raison de la qualité de leurs membres et de leur financement, sont, en matière de taxe sur la valeur ajoutée, soumis au régime prévu par l'article 256 B du code général des impôts. Ils ne sont alors assujettis à la TVA pour l'activité de leurs services administratifs, sociaux, éducatifs, culturels et sportifs que lorsque leur non-assujettissement est susceptible de provoquer des distorsions dans les conditions de la concurrence. A défaut de relever des dispositions spécifiquement prévues pour les personnes morales de droit public, les GIP sont soumis aux règles de droit commun de la TVA définies par les articles 256 et suivants du code général des impôts. Les GIP peuvent ainsi, le cas échéant, bénéficier de l'exonération de TVA prévue à l'article 261 B du code déjà cité au titre des services rendus à leurs membres et du régime de la franchise en base prévue à l'article 293 B du même code. En revanche, ils ne peuvent bénéficier des dispositions de l'article 261-7-1° b du code général des impôts et, plus particulièrement, de la franchise de 60 000 euros dès lors qu'en permettant à certains de leurs membres appartenant au secteur lucratif de bénéficier de meilleures conditions de fonctionnement, ils présentent un caractère lucratif et ce quand bien même ils ne rechercheraient pas de profits pour eux-mêmes.
