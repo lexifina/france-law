@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205508
+
+- Question : [SEQ030205508](seq030205508.md) — Respect de la laïcité dans les établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 2005-04-14, page 1075*
+
+La loi n° 2004-228 du 15 mars 2004, qui s'inscrit dans le cadre de l'application de principe constitutionnel de laïcité, interdit le port de signes ou de tenues manifestant une appartenance religieuse dans les écoles, collèges et lycées publics. Toutefois, ainsi que le précise sa circulaire d'application du 18 mai 2004, parue au Journal officiel du 22 mai 2004, elle s'applique à l'ensemble des élèves qui fréquentent ces établissements mais pas aux candidats, « qui viennent pour les épreuves d'un examen ou d'un concours dans les locaux d'un établissement public d'enseignement et qui ne deviennent pas de ce seul fait des élèves de l'enseignement public. Ceux-ci doivent toutefois se soumettre aux règles d'organisation de l'examen qui visent notamment à garantir le respect de l'ordre et de la sécurité, à permettre la vérification de l'identité des candidats ou à prévenir les risques de fraudes ». En conséquence, si le port de signes et tenues manifestant une appartenance religieuse n'est pas interdit par la loi pour participer à un examen, notamment au baccalauréat, même se déroulant dans les locaux d'un établissement public d'enseignement, le ou la candidate ne pourra avoir accès à la salle d'examen que si sa tenue répond aux`conditions énoncées ci-dessus. En outre, le respect du principe d'égalité de traitement entre les candidats, qui est un principe intangible, s'oppose à ce que les candidats puissent choisir leur examinateur. Par ailleurs, si la présence d'un tiers est admise au cours des épreuves orales du baccalauréat, en raison du caractère « public » de ces épreuves et dans la mesure où cela ne perturbe pas le bon déroulement des épreuves, en revanche, aucune présence extérieure n'est tolérée au cours des épreuves écrites.
