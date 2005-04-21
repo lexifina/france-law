@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215775
+
+- Question : [SEQ050215775](seq050215775.md) — Référentiel dans les rapports sur le contrôle interne des entreprises
+
+## Réponse
+
+*Justice, JO du 2005-04-21, page 1154*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les articles L. 225-37 et L. 225-68 du code de commerce font obligation au président du conseil d'administration ou au président du conseil de surveillance, selon le cas, de rendre compte, dans un rapport joint au rapport de gestion, des procédures de contrôle interne mises en place par la société. Si la teneur des informations devant figurer dans ce rapport n'a fait l'objet d'aucune définition réglementaire, certaines organisations professionnelles d'entrepreneurs ont en revanche publié une contribution commune sur le sujet, qui constitue une référence satisfaisante à destination des intéressés. La définition par les pouvoirs publics d'un référentiel contraignant n'apparaît pas opportune, une certaine souplesse étant nécessaire dans l'appréciation des informations devant être rapportées, afin de tenir compte des spécificités de la société concernée. Une définition au niveau de la place n'est pas davantage souhaitable, l'obligation de rapport posée par la loi ne s'imposant pas aux seules sociétés cotées mais à l'ensemble des sociétés anonymes. S'agissant du périmètre de ces dispositions, le texte circonscrit l'obligation de rapport aux procédures mises en place par la société. Pour les sociétés têtes de groupe, cette obligation conduit donc à rapporter pour le moins sur les procédures ayant trait à leur activité, ainsi que sur les procédures liées au processus de consolidation des comptes, qu'il leur appartient de mettre en oeuvre conformément aux obligations posées en la matière par le code de commerce.
