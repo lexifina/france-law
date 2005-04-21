@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030909124
+
+- Question : [SEQ030909124](seq030909124.md) — Ratification de la convention Unidroit
+
+## Réponse
+
+*Culture, JO du 2005-04-21, page 1138*
+
+Le développement du trafic illicite des biens culturels et l'exportation des biens culturels illicitement sortis du territoire des pays qui connaissent des conflits ou des situations de crises politiques est une préoccupation du Gouvernement et du ministère de la culture et de la communication. Membre de l'ICOM (Conseil international des musées), la France met en oeuvre pour ses collections publiques les principes et pratiques professionnelles d'acquisition de biens culturels du code de déontologie pour les musées de l'ICOM, qui s'inspire des normes juridiques issues des conventions internationales existantes dans ce domaine. La convention de l'UNESCO de 1970 concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites des biens culturels, ratifiée par la France et la majeure partie des pays mentionnés par l'honorable parlementaire, permet d'apporter dès à présent des solutions aux légitimes revendications de biens illicitement exportés et appartenant au patrimoine culturel de ces pays. La ratification de la convention Unidroit du 24 juin 1995 sur les biens culturels volés ou illicitement exportés, en cours de ratification par la France, devrait permettre de conforter les demandes judiciaires en retour des biens illicitement exportés et ainsi contribuer à la politique générale de lutte contre le trafic illicite des biens culturels. S'agissant de l'Irak, pays mentionné par l'honorable parlementaire, il y a lieu de rappeler que le règlement communautaire 1210/2003 du Conseil du 7 juillet 2003 prévoit l'interdiction d'importation et d'exportation du territoire de la Communauté européenne des biens culturels irakiens exportés ou illicitement sortis d'Irak depuis le 6 août 1990.
