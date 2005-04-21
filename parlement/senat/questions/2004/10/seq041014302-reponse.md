@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014302
+
+- Question : [SEQ041014302](seq041014302.md) — Pensions des fonctionnaires des institutions communautaires
+
+## Réponse
+
+*Affaires européennes, JO du 2005-04-21, page 1131*
+
+L'honorable parlementaire a bien voulu interroger la ministre déléguée aux affaires européennes sur la question des pensions des fonctionnaires des institutions communautaires. Il est possible de prendre en compte, pour le calcul des droits à pension par le régime de retraite de la sécurité sociale française, des droits à pensions acquis sous le régime communautaire, dans les conditions suivantes ; le régime autonome des Communautés européennes a été établi par un règlement communautaire et, à ce titre, fait partie de plein droit de l'ordre juridique interne. Cependant, il ne peut être considéré comme un régime obligatoire de sécurité sociale au sens du code de la sécurité sociale française. Dans cette perspective, les périodes accomplies au sein d'institutions européennes ne peuvent être prises en compte directement pour la détermination des droits à pension par le régime de retraite de la sécurité sociale française. Les fonctionnaires et agents des Communautés, soumis au statut de la fonction publique communautaire, bénéficient, en vertu de l'accord du 27 juillet 1992 entre la France et les Communautés européennes, de la possibilité du transfert de leurs droits à pension. Conformément à cet accord, il appartient ainsi aux fonctionnaires des Communautés, lorsqu'ils deviennent assurés du régime général français après avoir cessé leurs fonctions auprès des Communautés européennes, de demander la prise en compte par le régime général français des cotisations qu'ils auraient versées au régime de retraite des Communautés. Cette demande de transfert constitue ainsi un préalable nécessaire à la prise en compte, pour le calcul des droits à pension, des trimestres de cotisations au régime de retraite des Communautés.
