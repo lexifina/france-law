@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913912
+
+- Question : [SEQ040913912](seq040913912.md) — Contribution des sections locales des partis politiques au financement des campagnes électorales
+
+## Réponse
+
+*Intérieur, JO du 2005-04-21, page 1146*
+
+Les partis politiques sont les seules personnes morales habilitées à intervenir dans le financement des campagnes électorales. En effet, la jurisprudence du Conseil constitutionnel, comme celle du Conseil d'Etat considèrent qu'une personne morale de droit privé qui s'est assigné un but politique ne peut être regardée comme un parti ou un groupement politique au sens de l'article L. 52-8 du code électoral que si elle relève des articles 8, 9 et 9-1 de la loi du 11 mars 1988 relative à la transparence financière de la vie politique ou s'est soumise aux règles fixées par les articles 11 à 11-7 de cette loi qui imposent notamment aux partis et groupements politiques de ne recueillir des fonds que par l'intermédiaire d'un mandataire qui peut être soit une personne physique dont le nom est déclaré à la préfecture, soit une association de financement agréée par la Commission nationale des comptes de campagne et des financements politiques. Les partis pouvant disposer de structures locales, notamment à l'échelon départemental, la commission nationale considère que celles-ci ne peuvent contribuer au financement de la campagne d'un candidat qu'à la condition, soit de figurer expressément dans le périmètre de la certification des comptes d'ensemble du parti par deux commissaires aux comptes qui ont donc vérifié l'absence de financement par une personne morale, soit de déposer directement des comptes certifiés. Le Gouvernement est favorable à ce que les solutions dégagées par la jurisprudence et la pratique de la commission, en la matière, soient reprises dans la loi, afin que leur application en soit facilitée.
