@@ -40,9 +40,7 @@ Inspection générale de la santé et de la population.
 
 Ministère de l'urbanisme, du logement et des transports
 
-Inspection générale de la construction.
-
-Inspection générale de l'équipement.
+Inspecteurs généraux et inspecteurs de l’équipement.
 
 Inspecteurs généraux des monuments historiques chargés des sites et paysages.
 
@@ -52,7 +50,7 @@ Conservateurs régionaux des Bâtiments de France.
 
 Ministère du commerce, de l'artisanat et du tourisme
 
-Inspection générale du tourisme.
+Inspecteurs généraux et inspecteurs de l’équipement.
 
 Ministère du travail, de l'emploi et de la formation professionnelle
 
