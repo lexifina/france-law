@@ -8,7 +8,7 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 1. Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
 
-2. Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
+2. Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la diretion du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
 3. Responsable de la gestion comptable au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
 
@@ -113,3 +113,29 @@ Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonction
 4. Secrétaire ou expert de catégorie C :
 
 Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes, ou agent exerçant des fonctions autonomes en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier, informatique ou technique.
+
+TABLEAU IV
+
+Date d'effet : 1er janvier 2002.
+
+A. - Fonctions exercées à l'administration centrale du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
+
+1. Chargé de mission ou expert de catégorie A :
+
+Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou exerçant des fonctions requérant une expérience de spécialiste dans le domaine des marchés publics.
+
+2. Assistant ou expert de catégorie B :
+
+Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonctions particulièrement importantes ou des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique et appelé à former d'autres agents, à assister les cadres dans leurs fonctions ou à encadrer un effectif important.
+
+3. Secrétaire ou expert de catégorie C :
+
+Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes, ou agent exerçant des fonctions autonomes en matière de gestion de personnel ou dans un domaine logistique, administratif, financier, informatique ou technique.
+
+B. - Fonctions exercées dans les services déconcentrés du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
+
+1. Secrétaire général d'une direction régionale de l'environnement ;
+
+2. Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement de Nord - Pas-de-Calais ;
+
+3. Responsable de la gestion comptable ou de la gestion du personnel en direction régionale de l'environnement.
