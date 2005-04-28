@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316538
+
+- Question : [SEQ050316538](seq050316538.md) — Lutte contre la pollution due aux sacs en plastique non biodégradables
+
+## Réponse
+
+*Écologie, JO du 2005-04-28, page 1205*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux sacs de caisse. Chacun peut constater qu'une trop large distribution de ces sacs à usage unique représente un gaspillage de ressources naturelles. Par ailleurs, l'abandon de ces sacs dans le milieu naturel, résultant d'actes d'incivisme, représente une pollution visuelle, mais aussi un risque pour la faune. Des initiatives ont été prises au cours des derniers mois par différents acteurs. Ainsi, la grande distribution a pris des engagements sur le sujet en novembre 2003 et a annoncé, un an après, une diminution de 15 % des quantités de sacs de caisse distribués. Ce sont des premiers pas encourageants mais il est effectivement nécessaire d'aller au-delà, comme ont su le faire d'autres pays. Il convient cependant d'examiner de façon approfondie les avantages et les inconvénients des différentes solutions à même de réduire les quantités de sacs de caisse distribués. Par ailleurs, dans un domaine où la sensibilisation du consommateur est essentielle, une solution n'est efficace que si elle est bien acceptée par une large partie des habitants, à l'instar de la démarche suivie en Corse et qui a abouti à l'été 2003. A cette fin, le ministre de l'écologie et du développement durable a installé le 11 février 2005 un groupe de travail réunissant des parlementaires, des producteurs de différents types de sacs, des distributeurs, des représentants du monde associatif et des experts. Il examinera l'ensemble des solutions possibles, leurs inconvénients, et déterminera les actions à privilégier. Il devra remettre ses conclusions pour la fin du mois de mai 2005, afin de prendre des décisions avant l'été.
