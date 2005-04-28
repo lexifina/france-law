@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913701
+
+- Question : [SEQ040913701](seq040913701.md) — Prévention des accidents de la vie courante chez les personnes âgées
+
+## Réponse
+
+*Solidarités, JO du 2005-04-28, page 1217*
+
+La prévention des accidents de la vie courante, en particulier la réduction des chutes chez les personnes âgées, est un des objectifs inscrits dans le rapport annexé à la loi relative à la politique de santé publique du 9 août 2004. La survenue de ces accidents, et plus particulièrement des chutes chez les personnes âgées, est souvent d'origine plurifactorielle (environnement, poly pathologies, médications, troubles sensoriels...), et la modification du comportement des personnes âgées vis-à-vis de leur mode de vie et de leur habitat est souvent très difficile. Depuis plusieurs années, de nombreuses actions sont entreprises dans ce domaine. Ainsi, l'Institut national pour la prévention et l'éducation à la santé (INPES) produit chaque année des documents et organise des campagnes d'information sur la prévention des accidents de la vie courante, notamment chez les personnes âgées. Concernant la prévention des chutes, un référentiel de bonnes pratiques est en cours d'élaboration par un groupe d'experts francophones (Belgique, France, Québec et Suisse) coordonné par l'INPES. Il fournira des recommandations pratiques en matière de prévention des chutes (dépistage et interventions) et sera destiné aux coordinateurs de programmes de santé, aux formateurs et aux intervenants du secteur sanitaire et social auprès des personnes âgées. Sa diffusion est prévue au printemps prochain. De plus, dans le plan urgence 2007, les hôpitaux sont appelés à développer les services de courts séjours gériatriques et des pôles d'évaluation gériatriques. Ces pôles proposent des évaluations globales aux personnes âgées ; parmi les facteurs de risque évalués figurent les troubles de l'équilibre, les troubles sensoriels.
