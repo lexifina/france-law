@@ -32,7 +32,7 @@ Des valeurs limites de concentration différentes peuvent être fixées par l'ar
 
 - lorsque la station d'épuration de l'installation a un rendement au moins égal à 85 % pour la DCO, sans toutefois que la concentration dépasse 300 mg/l, et à 90 % pour la DBO5 et les MEST, sans toutefois que la concentration dépasse 100 mg/l.
 
-Pour les installations assurant le traitement des cadavres, déchets ou sous-produits d'origine animale, à l'exclusion du traitement des plumes et duvets, et d'une manière générale, des installations assurant une activité exclusive de lavage de sous-produits, les flux spécifiques ne dépassent pas :
+Pour les installations assurant le traitement des sous-produits d'origine animale, à l'exclusion du traitement des plumes et duvets, et d'une manière générale, des installations assurant une activité exclusive de lavage de sous-produits, les flux spécifiques ne dépassent pas :
 
 DBO5 : 150 g/t de matières premières ;
 
