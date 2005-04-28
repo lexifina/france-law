@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813463
+
+- Question : [SEQ040813463](seq040813463.md) — Remise en cause des accords d'entreprises portant sur la réduction du temps de travail
+
+## Réponse
+
+*Relations du travail, JO du 2005-04-28, page 1216*
+
+L'attention du gouvernement a été appelée sur la situation de certaines entreprises qui dénoncent ou révisent leur accord relatif à l'application des 35 heures. La dénonciation et la révision des accords collectifs doivent respecter un certain nombre de principes qui constituent des garanties minimales.La révision d'un accord collectif portant sur une réduction du temps de travail ne peut émaner que des organisations signataires de l'accord initial. Toutes les organisations syndicales représentatives doivent être convoquées à la négociation mais seules les organisations représentatives signataires de cet accord sont habilitées à signer des avenants portant révision dudit accord. Ainsi, pour l'entreprise Bosch un accord de 1999 sur la réduction du temps de travail a été renégocié et a donné lieu à un nouvel accord signé le 21 avril 2004 prévoyant une nouvelle durée du travail applicable dans cette entreprise. Pour les entreprises ayant dénoncé un accord collectif qui prévoyait une réduction de la durée du travail, conformément à la législation en vigueur, cette dénonciation doit être précédée d'un préavis de trois mois et les effets de l'accord dénoncé sont applicables jusqu'à l'entrée en vigueur d'un nouvel accord qui lui est substitué ou à défaut pendant une période d'un an. Le délai d'un an pendant lequel cet accord continue à s'appliquer est de nature à inciter les partenaires sociaux à conclure un nouvel accord sur la durée du travail applicable dans l'entreprise. Enfin, la loi du 4 mai 2004 relative a la formation professionnelle tout au long de la vie et au dialogue social tend à renforcer la légitimité des accords collectifs conclus en favorisant le droit d'opposition.
