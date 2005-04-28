@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316497
+
+- Question : [SEQ050316497](seq050316497.md) — Réforme de l'administration départementale des anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 2005-04-28, page 1204*
+
+A la demande du Premier ministre, des réflexions ont été engagées par les préfets sur la base de la circulaire du 16 novembre 2004 afin d'améliorer l'organisation et le fonctionnement des services déconcentrés de l'Etat. Afin de dissiper les inquiétudes apparues, dans ce cadre, quant aux statuts et missions des directions interdépartementales des anciens combattants et victimes de guerre et des services départementaux de l'Office national des anciens combattants et victimes de guerre (ONAC), le Premier ministre a demandé que le travail engagé soit conduit « sans idée d'intégration ou de fusion » et que la spécificité du monde combattant et des organismes cités dans la circulaire soit parfaitement respectée. Dans le domaine particulier des institutions en charge du monde combattant, les évolutions attendues de la circulaire s'inscrivent donc, le cas échéant, uniquement dans le registre des aménagements matériels visant à conférer une plus grande efficacité à l'activité de ces structures. Celles-ci poursuivent, en revanche, selon leurs logiques et leurs calendriers respectifs, les démarches de modernisation déjà engagées. Dans le cas de l'ONAC, dont l'existence était menacée en 2002, il s'agit du contrat d'objectifs et de moyens qui garantit la pérennité de cet établissement public. Le Gouvernement est résolument attaché au monde combattant et aux institutions qui sont à son service, comme l'illustre l'ensemble de l'action conduite depuis 2002 (augmentation des crédits, décristallisation, amélioration des conditions d'attribution de la carte du combattant, augmentation des pensions de veuves...), qui atteste de l'attention portée à ses légitimes attentes et de la volonté d'y répondre.
