@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316361
+
+- Question : [SEQ050316361](seq050316361.md) — Modalités de calcul de la PVR
+
+## Réponse
+
+*Équipement, JO du 2005-04-28, page 1208*
+
+La référence à la possibilité de calculer la participation pour voie nouvelle et réseaux (PVNR) en liaison avec le coefficient d'occupation des sols (COS) soulevait des problèmes dans la mise en oeuvre du calcul de la participation. En premier lieu, des difficultés techniques d'application sont apparues dans les secteurs où des COS différenciés ont été mis en place. Par exemple, en présence d'un COS à usage d'habitat et d'un COS pour les commerces, la PVNR ne pouvait pas être calculée. Au moment de la délibération, il était en effet impossible de connaître les différentes affectations que recevrait chaque terrain, de même que, pour un terrain, la part qui allait être destinée au commerce et à l'habitat. Ensuite sont apparus des problèmes d'équité en cas de modification des COS : la délibération spécifique instituant la participation sur un secteur étant pérenne, il n'y avait pas de possibilité de rectifier le montant dû par mètre carré de terrain. La PVNR restait fondée sur les COS initiaux. Ainsi, en l'absence de COS sur certaines parcelles, le coefficient affecté à ces parcelles était représentatif de la moyenne des COS du secteur : en cas de mise en place ultérieurement d'un COS supérieur à cette moyenne, le montant de la délibération restant inchangé, il y avait inégalité au profit des propriétaires dont le terrain avait fait l'objet du nouveau COS. De même, dans le cas soulevé par l'honorable parlementaire, lorsqu'il y avait révision à la hausse d'un COS extrêmement bas dans une zone destinée à être urbanisée ultérieurement, la participation restait exigible sur les montants originels. En conclusion, la référence à la superficie de terrain offre la stabilité d'une « unité de mesure » que ne possède pas la pondération due aux coefficients d'occupation des sols.
