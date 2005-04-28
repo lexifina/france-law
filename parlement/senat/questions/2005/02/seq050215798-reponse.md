@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215798
+
+- Question : [SEQ050215798](seq050215798.md) — Régime applicable aux logements loués meublés aux étudiants
+
+## Réponse
+
+*Logement, JO du 2005-04-28, page 1213*
+
+La loi du 18 janvier 2005 de programmation pour la cohésion sociale a généralisé des dispositions existantes encadrant la location de logements meublés et destinées à apporter une protection aux locataires. Désormais, toute personne occupant un logement meublé à titre de résidence principale doit bénéficier d'un contrat de location écrit d'une durée minimale de douze mois. Le non-renouvellement du bail par le propriétaire doit être motivé par la décision de vendre ou de reprendre le logement pour l'habiter, ou par un autre motif légitime et sérieux. Par ailleurs, le bail peut être résilié à tout moment par le locataire, sous réserve du respect d'un préavis d'un mois. Les bailleurs propriétaires de plus de quatre logements, en particulier les bailleurs professionnels, étaient déjà tenus d'observer ces dispositions avant l'entrée en vigueur de la loi de programmation pour la cohésion sociale. Ce régime s'applique bien à tous les étudiants locataires d'un logement meublé pendant l'année universitaire, quel que soit le nombre de logements loués par le bailleur. Dans une telle situation, le logement meublé est, en effet, considéré comme la résidence principale de l'étudiant. Aussi, le Gouvernement a-t-il décidé d'apporter quelques adaptations au régime de la location meublée, afin de prendre mieux en compte la situation particulière des étudiants. Dans le projet de loi « Habitat pour tous », qui sera présenté au printemps en Conseil des ministres, il sera ainsi proposé d'abaisser de douze mois à neuf mois, soit une durée correspondant à celle de l'année universitaire, la durée minimale des baux conclus avec des étudiants par les propriétaires de logements meublés.
