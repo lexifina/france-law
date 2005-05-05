@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612701
+
+- Question : [SEQ040612701](seq040612701.md) — Volume d'emballage en plastique faisant l'objet d'un recyclage
+
+## Réponse
+
+*Écologie, JO du 2005-05-05, page 1274*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux emballages en matières plastiques. S'agissant de ce matériau, l'objectif communautaire de recyclage fixé à 15 % pour l'année 2001 a été atteint en 2002. Cependant, le caractère recyclable d'un matériau n'est pas le seul à considérer lors de la conception d'un emballage. Le matériau choisi doit en premier lieu être adapté à la fonction que doit remplir l'emballage, notamment en termes de protection du produit emballé. Du point de vue écologique, un matériau plus léger permettra de diminuer la consommation d'énergie lors du transport du bien emballé. Par ailleurs, la consommation de matières premières nécessaire pour fabriquer le matériau est aussi à considérer. Au total, le choix du plastique pour emballer des biens n'est pas une solution systématiquement moins favorable pour l'environnement que l'emploi d'autres matériaux. S'agissant du recyclage, la contribution versée aux organismes agréés par les personnes qui mettent sur le marché des produits emballés destinés aux ménages, en application du décret n° 92-377 du 1er avril 1992, dépend du type de matériau. Afin d'assurer une équité globale du système et éviter que la contribution pour les matériaux les mieux recyclés soit plus élevée du fait de taux de collectes sélectives plus importants, les contributions perçues pour les matériaux les moins bien recyclés couvrent une partie des frais afférents à la collecte sélective des autres matériaux. Cette règle permet ainsi de répondre aux préoccupations exprimées dans la présente question.
