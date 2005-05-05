@@ -2,25 +2,21 @@
 
 Pour ce qui concerne les redevances radioélectriques du service fixe, les modalités de calcul de ces redevances sont précisées dans les chapitres A, B et C ci-après.
 
-A. - La redevance de mise à disposition
-
-de fréquences radioélectriques du service fixe
+A. - La redevance de mise à disposition de fréquences radioélectriques du service fixe
 
 a) Cette redevance s'applique aux fréquences supérieures à 29,7 MHz.
 
-II. - Le b du chapitre B est complété par les alinéas suivants :
-
 Lorsqu'une bande ou une sous-bande de fréquences a été attribuée à un exploitant sur une surface géographique inférieure à celle du territoire métropolitain, avec application d'une redevance par MHz forfaitaire, le montant de la redevance de gestion annuelle est multiplié par le rapport entre la surface couverte par l'attribution de fréquences et la surface totale du territoire métropolitain.
 
-Par dérogation aux dispositions de l'alinéa précédent, pour les fréquence attribuées à un exploitant sur les départements d'outre-mer, le montant de la redevance de gestion est fixé à 1 524 euros.
+Par dérogation aux dispositions de l'alinéa précédent, pour les fréquence attribuées à un exploitant sur les départements d'outre-mer, le montant de la redevance de gestion est fixé à 1 524 euros ;
 
-b) Bandes de fréquences où l'Autorité de régulation des télécommunications a dans le tableau national de répartition des bandes de fréquences un statut d'affectataire de type exclusif ou en partage prioritaire (statut B1 dans le Tableau national ou désignation de canaux prioritaires dans l'annexe A5 du Tableau national) : lorsqu'une bande ou une sous-bande de fréquences est attribuée à un exploitant avec application d'une redevance par MHz forfaitaire, le montant de la redevance (exprimé en francs) est égal à un coefficient a exprimé en francs, dont la valeur est fixée par arrêté conjoint du ministre chargé du budget et du ministre chargé des télécommunications, après avis de l'Autorité de régulation des télécommunications, multiplié par le rapport DF/F, où DF est la largeur de la bande ou sous-bande attribuée à l'exploitant et F la fréquence centrale du plan de fréquences du service fixe exploité dans la bande de fréquences considérée.
+b) Bandes de fréquences où l'Autorité de régulation des communications électroniques et des postes a dans le tableau national de répartition des bandes de fréquences un statut d'affectataire de type exclusif ou en partage prioritaire (statut B1 dans le Tableau national ou désignation de canaux prioritaires dans l'annexe A5 du Tableau national) : lorsqu'une bande ou une sous-bande de fréquences est attribuée à un exploitant avec application d'une redevance par MHz forfaitaire, le montant de la redevance (exprimé en francs) est égal à un coefficient a exprimé en francs, dont la valeur est fixée par arrêté conjoint du ministre chargé du budget et du ministre chargé des communications électroniques, après avis de l'Autorité de régulation des communications électroniques et des postes, multiplié par le rapport DF/F, où DF est la largeur de la bande ou sous-bande attribuée à l'exploitant et F la fréquence centrale du plan de fréquences du service fixe exploité dans la bande de fréquences considérée ;
 
-c) Bandes de fréquences où l'Autorité de régulation des télécommunications n'a un statut d'affectataire ni exclusif ni en partage prioritaire dans le tableau national de répartition des bandes de fréquences : lorsqu'une bande ou une sous-bande de fréquences est attribuée à un exploitant avec application d'une redevance par MHz forfaitaire, le montant de la redevance (exprimé en francs) est égal au montant calculé au b ci-dessus divisé par 10.
+c) Bandes de fréquences où l'Autorité de régulation des communications électroniques et des postes n'a un statut d'affectataire ni exclusif ni en partage prioritaire dans le tableau national de répartition des bandes de fréquences : lorsqu'une bande ou une sous-bande de fréquences est attribuée à un exploitant avec application d'une redevance par MHz forfaitaire, le montant de la redevance (exprimé en francs) est égal au montant calculé au b ci-dessus divisé par 10 ;
 
-d) Lorsque la même bande ou sous-bande de fréquences a été attribuée à plusieurs exploitants avec application d'une redevance par MHz forfaitaire, le montant de la redevance s'appliquant à chaque exploitant est égal à celui calculé au b ci-dessus divisé par le nombre d'exploitants concernés.
+d) Lorsque la même bande ou sous-bande de fréquences a été attribuée à plusieurs exploitants avec application d'une redevance par MHz forfaitaire, le montant de la redevance s'appliquant à chaque exploitant est égal à celui calculé au b ci-dessus divisé par le nombre d'exploitants concernés ;
 
-e) Lorsqu'une bande ou sous-bande de fréquences a été attribuée à un exploitant sur une surface géographique inférieure à celle du territoire métropolitain avec application d'une redevance par MHz forfaitaire, le montant de la redevance s'appliquant à l'exploitant est égal à celui calculé au b ci-dessus multiplié par le rapport entre la surface couverte par l'attribution de fréquences et la surface totale du territoire métropolitain.
+e) Lorsqu'une bande ou sous-bande de fréquences a été attribuée à un exploitant sur une surface géographique inférieure à celle du territoire métropolitain avec application d'une redevance par MHz forfaitaire, le montant de la redevance s'appliquant à l'exploitant est égal à celui calculé au b ci-dessus multiplié par le rapport entre la surface couverte par l'attribution de fréquences et la surface totale du territoire métropolitain ;
 
 f) Dans le cas des liaisons fixes bilatérales établies par un exploitant dans des bandes ou sous-bandes de fréquences avec application d'une redevance par liaison, le montant de la redevance (exprimé en francs) est égal au coefficient a défini au b ci-dessus divisé par 208 millions et multiplié par le barème suivant :
 
@@ -268,25 +264,21 @@ L supérieure à 56 MHz
 
 Les liaisons fixes bilatérales utilisant des fréquences comprises entre 29,7 MHz et 1 GHz sont soumises à une redevance annuelle de 525 F par liaison de largeur de bande 12,5 kHz.
 
-Pour les liaisons fixes unilatérales, la redevance est égale à 50 % de celle prévue pour les liaisons fixes bilatérales.
+Pour les liaisons fixes unilatérales, la redevance est égale à 50 % de celle prévue pour les liaisons fixes bilatérales ;
 
 g) L'établissement de liaisons fixes temporaires par un exploitant dans des bandes ou sous-bandes de fréquences relevant de l'alinéa f ci-dessus donne lieu à une redevance par jour d'utilisation égale au montant calculé au f divisé par 30.
 
-B. - La redevance de gestion
-
-des fréquences radioélectriques du service fixe
+B. - La redevance de gestion des fréquences radioélectriques du service fixe
 
 a) Cette redevance s'applique aux fréquences supérieures à 29,7 MHz.
-
-II. - Le b du chapitre B est complété par les alinéas suivants :
 
 Lorsqu'une bande ou une sous-bande de fréquences a été attribuée à un exploitant sur une surface géographique inférieure à celle du territoire métropolitain, avec application d'une redevance par MHz forfaitaire, le montant de la redevance de gestion annuelle est multiplié par le rapport entre la surface couverte par l'attribution de fréquences et la surface totale du territoire métropolitain.
 
 Par dérogation aux dispositions de l'alinéa précédent, pour les fréquence attribuées à un exploitant sur les départements d'outre-mer, le montant de la redevance de gestion est fixé à 1524 euros.
 
-b) Les exploitants bénéficiant d'une attribution de bandes ou sous-bandes de fréquences avec application d'une redevance par MHz forfaitaire sont soumis à une redevance de gestion annuelle de 3500000 F.
+b) Les exploitants bénéficiant d'une attribution de bandes ou sous-bandes de fréquences avec application d'une redevance par MHz forfaitaire sont soumis à une redevance de gestion annuelle de 3500000 F ;
 
-c) Les exploitants qui, au titre d'une licence, ne sont pas concernés par le b sont soumis à une redevance de gestion annuelle de 200 F par liaison pour les attributions relatives à cette licence.
+c) Les exploitants qui, au titre d'une licence, ne sont pas concernés par le b sont soumis à une redevance de gestion annuelle de 200 F par liaison pour les attributions relatives à cette licence ;
 
 C. - Les fréquences de transport audiovisuel
 
