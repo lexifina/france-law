@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406851
+
+- Question : [SEQ030406851](seq030406851.md) — Dépassement des quotas laitiers
+
+## Réponse
+
+*Agriculture, JO du 2005-05-05, page 1265*
+
+L'Italie estime, depuis la mise en place des quotas en 1984, que la quantité nationale de référence qui lui avait alors été attribuée est inférieure à sa production et à ses besoins. De fait, ce pays est un importateur important de produits laitiers, notamment de lait de consommation. Les importations représentent ainsi 56 % de ses besoins. L'Italie a connu des difficultés depuis 1984 pour respecter son quota national, régulièrement dépassé, ainsi que pour répercuter au niveau de ses producteurs les prélèvements supplémentaires pour dépassement de la référence nationale. L'Etat italien a ainsi dépensé, depuis 1995-1996 et jusqu'à 2002, plus de 1,2 milliard d'euros, se substituant aux producteurs. Cette situation a toutefois connu une évolution favorable à partir de 2003. Les autorités italiennes, sur la demande insistante de la Commission, ont en effet pris l'engagement d'une application plus stricte du système de quotas, notamment en matière de prélèvement supplémentaire. Pour le passé, un échéancier de paiement des dépassements individuels a été agréé au Conseil ECOFIN du 3 juin 2003 pour régulariser la situation des producteurs concernés. Pour l'avenir, l'Italie a adopté une loi pour assainir la gestion des quotas. En outre, l'Italie a bénéficié, dès la campagne laitière 1999-2000, des hausses de quota programmées dans l'Agenda 2000 à partir de la campagne 2006-2007 pour la plupart des Etats membres, dont la France. Enfin, les exigences renforcées de vérification de la production laitière, fondées notamment sur des contrôles au niveau de l'exploitation au cours de la campagne laitière, qui ont été introduites lors de la réforme de la PAC devraient permettre à l'avenir un meilleur respect de son quota de la part de chaque producteur.
