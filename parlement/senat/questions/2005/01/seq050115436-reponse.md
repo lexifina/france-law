@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115436
+
+- Question : [SEQ050115436](seq050115436.md) — Politique en faveur de la tapisserie d'Aubusson
+
+## Réponse
+
+*Culture, JO du 2005-05-05, page 1272*
+
+La dotation de 168 000 euros est reconduite pour 2005. En ce qui concerne l'achat des maquettes pour 2005, sont arrêtées le choix de deux maquettes. La première commandée à l'artiste Gérard Garouste et la seconde à l'artiste Marc Couturier, pour ce dernier il s'agit d'un jeu de trois ou quatre maquettes. Seront tissés en 2005 les tapis ras d'après les maquettes de Marc Couturier pour l'église du Moutier de la ville à Felletin. Cette commande publique vient clôturer le cycle de restauration qui permet de voir aujourd'hui toutes les strates historiques de cet édifice, du Moyen-Age au xxe siècle. Pour cette production la ville participe à la production du tissage à hauteur de 10 à 15 % du montant TTC de la fabrication. Ensuite est tissée la tapisserie d'après la maquette de Gérard Garouste pour l'escalier d'honneur de l'hôtel de ville d'Aubusson. Pour ce projet, la ville participe financièrement à la réalisation du tissage avec un budget de 15 200 euros. Pour le rayonnement de la tapisserie aubussonnaise en France et à l'étranger en 2005 l'exposition Métissages, initiée par la délégation aux arts plastiques et le Centre national des arts plastiques et qui contient quelques tapisseries aubussonnaises, continue sa tournée, jusqu'au mois d'août, au Mexique et est présentée à Monterrey et Mexico City. Ensuite à l'automne 2005 Tenture 2001, projet initié par nos services en partenariat avec la région Limousin et le conseil général de la Creuse, qui regroupe onze tapisseries est présentée au Musée départemental de la tapisserie, à Aubusson, ce projet est coordonné et géré par la société des amis du musée.
