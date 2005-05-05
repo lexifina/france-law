@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215836
+
+- Question : [SEQ050215836](seq050215836.md) — Création d'une Agence pour la culture française à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-05-05, page 1263*
+
+La question de la création d'une agence culturelle à l'étranger, chargée de gérer l'ensemble des établissements culturels à travers le monde, doit s'apprécier au regard de la spécificité du réseau culturel français à l'étranger ainsi que des évolutions en cours dans le cadre de la stratégie ministérielle de réforme du ministère des affaires étrangères. Ce réseau s'est bâti au fil du temps. Il est composé de deux grandes familles d'établissements : d'une part, des établissements à autonomie financière, centres et instituts culturels, qui sont des services extérieurs de l'Etat, d'autre part, des alliances françaises, qui sont des associations de droit local. L'Alliance française est engagée dans un processus de modernisation, qui vise notamment à adosser le réseau des alliances à l'étranger sur une fondation, bâtie sur un partenariat public-privé. Par ailleurs, l'évolution du dispositif des centres culturels en Europe est l'un des chantiers prioritaires de la stratégie ministérielle de réforme du ministère des affaires étrangères et fait l'objet d'une étude réalisée par l'inspection générale des affaires étrangères. Un autre chantier de cette stratégie concerne l'évolution de l'action des opérateurs culturels, notamment l'Association française d'action artistique (AFAA), opérateur privilégié des manifestations culturelles à l'étranger dont le ministère des affaires étrangères exerce la tutelle conjointement avec le ministère de la culture et de la communication. et dans ce cadre général qu'une réflexion sur l'opportunité de créer ou non une agence doit être menée, avec le souci de développer l'influence de la France dans le monde à l'aide des structures le mieux adaptées à cet objectif.
