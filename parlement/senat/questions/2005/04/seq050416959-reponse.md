@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050416959
+
+- Question : [SEQ050416959](seq050416959.md) — Enseignement des sciences de la vie et de la terre
+
+## Réponse
+
+*Éducation, JO du 2005-05-05, page 1286*
+
+La loi d'orientation et de programme pour l'avenir de l'école, adoptée par le Parlement, réaffirme la place dévolue aux enseignements scientifiques dans la formation générale des élèves des collèges et des lycées. Le rapport annexé à la loi prévoit en effet que « la culture humaniste et scientifique », dont les sciences de la vie et de la Terre sont une des parties prenantes, doit faire partie du socle commun de connaissances et de compétences à acquérir à l'issue de la scolarité obligatoire. Au-delà, la nécessité d'attirer plus de jeunes vers des études scientifiques est clairement affirmée puisque, au nombre des objectifs généraux fixés dans ce rapport, l'augmentation de 15 % de la proportion d'étudiants suivant une formation supérieure scientifique, hors formations de santé, a été retenue. La loi n'entend pas remettre en cause, dans ses orientations, les fondements de ces enseignements et notamment les travaux pratiques pédagogiquement justifiés. Par ailleurs l'institution d'un conseil pédagogique dans les collèges et les lycées doit permettre d'apporter une plus grande attention aux conditions d'enseignement des disciplines. En participant à l'élaboration des aspects pédagogiques du projet d'établissement et en veillant à la cohérence et au suivi des enseignements à chaque niveau de la scolarité, cette instance a vocation à promouvoir les pratiques pédagogiques qui favorisent la réussite des élèves. Pour ce qui est des sciences de la vie et de la Terre, ces pratiques devront naturellement s'inscrire dans le respect des contraintes techniques et de sécurité propres à cet enseignement.
