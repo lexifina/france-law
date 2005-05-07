@@ -8,7 +8,7 @@ A - Personnes physiques.
 
 2. Etre âgé de vingt-cinq ans révolus ;
 
-3. N'avoir subi aucune condamnation, déchéance ou sanction prévue par la loi du 30 août 1947 sur l'assainissement des professions industrielles et commerciales ;
+3. N'avoir subi aucune condamnation, déchéance ou sanction prévue par le chapitre VIII du titre II du livre 1er du code de commerce ;
 
 4. Ne pas être frappé d'une interdiction provisoire d'exercice, en application des dispositions de l'article 1750 du code général des impôts ;
 
