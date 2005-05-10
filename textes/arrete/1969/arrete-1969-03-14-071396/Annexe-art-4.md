@@ -8,7 +8,7 @@ Le gestionnaire du marché pourvoit au secrétariat du comité et fixe l'ordre d
 
 Le comité se réunit de plein droit au moins deux fois par an. Il est en outre convoqué à la demande soit de son président, soit d'au moins un tiers de ses membres, soit du directeur du marché.
 
-Le commissaire du Gouvernement, le préfet qui exerce les pouvoirs de police, le contrôleur d'Etat, le directeur du marché ou leurs représentants assistent de plein droit aux séances avec voix consultative. En outre, le gestionnaire et le président du comité peuvent y inviter toute personne dont ils jugeraient l'audition nécessaire en raison de son expérience.
+Le commissaire du Gouvernement, le préfet qui exerce les pouvoirs de police, le membre du corps du contrôle général économique et financier, le directeur du marché ou leurs représentants assistent de plein droit aux séances avec voix consultative. En outre, le gestionnaire et le président du comité peuvent y inviter toute personne dont ils jugeraient l'audition nécessaire en raison de son expérience.
 
 Sur leur demande, écrite et motivée, le comité peut décider d'entendre tout usager du marché ou toute personne intéressée par les activités qui s'y déroulent.
 

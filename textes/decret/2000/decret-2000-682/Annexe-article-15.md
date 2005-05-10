@@ -26,7 +26,7 @@ Sauf urgence, la résiliation est prononcée après que l'entreprise a été mis
 
 15.3. Résiliation d'un commun accord
 
-A tout moment, le port et l'entreprise peuvent convenir d'une résiliation de la convention dans des conditions arrêtées par eux. La résiliation ne peut prendre effet sans accord préalable du conseil d'administration du port, du commissaire du Gouvernement et du contrôleur d'Etat.
+A tout moment, le port et l'entreprise peuvent convenir d'une résiliation de la convention dans des conditions arrêtées par eux. La résiliation ne peut prendre effet sans accord préalable du conseil d'administration du port, du commissaire du Gouvernement et du membre du corps du contrôle général économique et financier.
 
 15.4. Indemnisation
 

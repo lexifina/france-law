@@ -36,7 +36,7 @@ L'emprunt public.
 
 V. - Le Contrôle de l'exécution du budget
 
-Les contrôles internes : l'inspection générale des finances, les contrôleurs financiers, les comptables publics.
+Les contrôles internes : l'inspection générale des finances, les membres du corps du contrôle général économique et financier, les comptables publics.
 
 Les contrôles externes : la Cour des Comptes, la cour de discipline budgétaire et financière, les contrôles parlementaires.
 
