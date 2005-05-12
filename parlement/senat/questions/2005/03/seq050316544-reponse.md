@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316544
+
+- Question : [SEQ050316544](seq050316544.md) — Inquiétudes de la filière laitière
+
+## Réponse
+
+*Agriculture, JO du 2005-05-12, page 1347*
+
+L'aide à la cessation d'activité laitière (ACAL), dispositif financé jusqu'à présent uniquement à partir d'un prélèvement effectué sur les producteurs en dépassement de leur quantité de référence laitière au terme de la campagne laitière précédente, a fait apparaître pour 2005 un besoin de financement complémentaire d'environ 25 millions d'euros. Les dossiers de demande de cessation ont en effet représenté un montant d'environ 63 millions d'euros et dépassé la ressource constituée par les prélèvements passés, qui se montait à 38 millions d'euros. Afin de redistribuer les quantités de référence laitières ainsi libérées à compter de la prochaine campagne laitière, à des producteurs déterminés à poursuivre la production, un effort financier exceptionnel de l'Etat a été décidé afin d'accepter l'intégralité des dossiers. Cette décision a été annoncée à l'assemblée générale de la Fédération nationale des producteurs de lait à Saint-Malo, le 17 mars 2005. Cette mesure va permettre de conforter, dès cette année et avant la mise en oeuvre du découplage des aides agricoles qui interviendra en 2006, de très nombreuses exploitations laitières qui souhaitent poursuivre leur activité. Plus de 330 000 tonnes de lait, soit 1,5 % du quota français, seront ainsi redistribuées, sur la base de priorités qui seront définies au sein du conseil de direction de l'Office national interprofessionnel du lait et des produits laitiers (ONILAIT), ainsi que des commissions départementales d'orientation agricole (CDOA). Cette mesure s'inscrit dans le programme stratégique élaboré pour la filière laitière en 2004, à la demande du Premier ministre, et contribuera à l'adaptation de la filière laitière française.
