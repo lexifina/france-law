@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316632
+
+- Question : [SEQ050316632](seq050316632.md) — Défense de la langue française au sein des institutions européennes
+
+## Réponse
+
+*Affaires européennes, JO du 2005-05-12, page 1345*
+
+Le Gouvernement est très attaché à la diversité linguistique de l'Union européenne et mène en la matière une politique ambitieuse. Il a ainsi régulièrement soutenu les réformes structurelles, notamment dans le cadre de la Convention européenne sur l'avenir de l'Europe, susceptibles de faire vivre cette diversité. Il veille également à ce que l'ensemble des institutions de l'Union, y compris la Banque centrale européenne (BCE), respectent ce principe, posé notamment par le règlement n° 1/58 du Conseil du 15 avril 1958 portant fixation du régime linguistique de la Communauté européenne. Le Gouvernement a aussi la volonté de promouvoir l'usage du français au sein des institutions européennes. Le français, langue officielle de trois pays fondateurs, occupe en effet une place singulière dans la construction européenne qu'il convient de préserver. La France a ainsi consacré cette année 2 millions d'euros en faveur de l'apprentissage de notre langue par les fonctionnaires non francophones, actuels ou futurs, des institutions européennes, ainsi que par les fonctionnaires des Etats membres appelés à négocier à Bruxelles. Les agents de l'Etat sont par ailleurs tenus, en vertu de la circulaire du Premier ministre en date du 14 février 2003 relative à l'emploi de la langue française, de privilégier systématiquement l'emploi de notre langue dans les enceintes et négociations internationales. Il convient toutefois d'admettre que cette obligation ne saurait s'imposer au président de la Banque centrale européenne, qui n'est pas le représentant de notre pays mais le président d'une institution dont l'indépendance est garantie par le traité instituant la Communauté européenne.
