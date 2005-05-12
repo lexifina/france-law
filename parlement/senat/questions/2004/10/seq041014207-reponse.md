@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014207
+
+- Question : [SEQ041014207](seq041014207.md) — Situation précaire du secteur de la radiothérapie
+
+## Réponse
+
+*Solidarités, JO du 2005-05-12, page 1358*
+
+L'attention du ministre des solidarités, de la santé et de la famille est appelée sur la situation de la radiothérapie libérale en France. A la suite du protocole signé le 28 mars 2002 entre la CNAMTS et le syndicat national des radiothérapeutes oncologues (SNRO), l'arrêté du 18 juin 2002 (J.O. du 20 juin 2002) a sensiblement revalorisé les actes de préparation au traitement radiothérapique (qui permettent de déterminer la bonne dose d'irradiation et de cibler la tumeur en préservant les tissus sains) ainsi que les actes permettant le suivi du bon déroulement du traitement (contrôle qualité). L'impact financier de cette revalorisation des actes de radiothérapie a été estimé à environ 15,2 M EUR. La mesure n° 45 du plan Cancer lancé par le Président de la République s'échelonnant entre 2003 et 2007 a pour but de rénover rapidement le parc d'appareils de radiothérapie, afin de stopper le retard pris depuis plusieurs années, et de mettre à disposition des patients les techniques nouvelles, plus efficaces et moins invalidantes. Pour ce faire, elle prévoit de poursuivre le plan d'extension de 55 autorisations pour le territoire national ; supprimer d'ici 2005 la totalité des « cobalts » encore en activité ; remplacer 50 accélérateurs d'ici à 2007 ; mettre en place les ressources humaines, médicales et paramédicales permettant de faire fonctionner ces machines dans des conditions conformes aux standards ; mettre en place un programme de développement de la radiothérapie avec les pays en voie de développement, qui pourra s'appuyer sur l'installation sur place des machines remplacées (cobalt, par exemple), qui seront utiles dans le contexte local.
