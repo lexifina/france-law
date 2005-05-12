@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417145
+
+- Question : [SEQ050417145](seq050417145.md) — Diplôme requis pour la pratique de l'ostéopathie
+
+## Réponse
+
+*Solidarités, JO du 2005-05-12, page 1361*
+
+L'article 75 de la loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé a reconnu le titre d'ostéopathe. La responsabilité de la définition des conditions de formation des ostéopathes et de leurs conditions d'exercice a été confiée à la Haute Autorité en santé, installée depuis le 22 décembre 2004, dans le cadre de l'évaluation des pratiques professionnelles. Un groupe de travail interministériel, éducation nationale et santé, est chargé de mettre en place la réforme du système LMD (licence, mastère, doctorat) de l'ensemble des professions paramédicales. Cette phase de consultations se termine. Le Gouvernement entend, en tout état de cause, prendre les décrets d'application permettant de mettre en oeuvre cet article 75 dans un délai de six mois. Par ailleurs, les seuls actes susceptibles d'être pris en charge par l'assurance maladie sont ceux pratiqués par les professions médicales, soit par les auxiliaires médicaux. Or l'utilisation du titre d'ostéopathe ne confère aux professionnels concernés ni la qualité de professions médicales, ni celle d'auxiliaires médicaux. Il n'est donc pas possible de prendre actuellement en charge les actes professionnels utilisant le titre d'ostéopathe. L'article 42 de la loi n° 2004-810 du 13 août 2004 relative à l'assurance maladie prévoit que « les conditions d'inscription d'un acte ou d'une prestation, leur inscription ou leur radiation sont décidées par l'Union nationale de caisses d'assurance maladie, après avis de la Haute Autorité de santé et de l'Union nationale des organismes d'assurance maladie complémentaire ». Ce serait le cas pour l'éventuelle inscription d'actes d'ostéopathie.
