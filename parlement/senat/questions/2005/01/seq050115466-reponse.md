@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115466
+
+- Question : [SEQ050115466](seq050115466.md) — Inflation des références alimentaires
+
+## Réponse
+
+*Agriculture, JO du 2005-05-19, page 1412*
+
+La politique publique menée en matière de signes d'identification de la qualité et de l'origine a toujours eu pour objectif de préserver tant la diversité du patrimoine alimentaire français que des pratiques agricoles inscrites dans une stratégie de développement durable. Néanmoins, à côté de ce dispositif encadré de façon réglementaire, coexistent de nombreuses démarches marketing de différenciation des produits, qui parfois peuvent créer une certaine confusion entre les signes officiels de qualité et les démarches privées d'entreprise. Le ministère chargé de l'agriculture, par le biais d'un dispositif réglementaire mais aussi par le dépôt de marques collectives, encadre l'usage des signes de qualité et de certaines mentions valorisantes. Ainsi, dans le cas du Label Rouge, l'usage du logo - propriété du ministère - est protégé dans plusieurs pays du monde où ces produits peuvent être commercialisés. De plus, le ministère chargé de la consommation a inscrit dans le code de la consommation la possibilité de punir « quiconque aura utilisé un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label agricole ou d'une certification ». Son encadrement juridique désormais ancien a ainsi récemment permis la condamnation par la cour d'appel de Versailles d'une société de services intervenant dans le secteur agro-alimentaire et dont la marque incluait le mot label, considérant que cela « relevait du parasitisme ». Les juges ont estimé que « dans l'esprit du consommateur, le terme label est associé à Label Rouge et, en utilisant ce terme, la société condamnée a cherché à tirer avantage des investissements réalisés par les promoteurs de cette marque distinctive pour construire sa réputation ».
