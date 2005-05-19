@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215984
+
+- Question : [SEQ050215984](seq050215984.md) — Reconversion agricole des parcelles touchées par la maladie de la Sharka
+
+## Réponse
+
+*Agriculture, JO du 2005-05-19, page 1412*
+
+La préservation des productions de pêche et d'abricot nécessite une action forte visant à réduire la contamination des vergers par la sharka. Cette maladie est présente dans plusieurs régions de France et malgré les efforts engagés par les pouvoirs publics et la profession, son incidence reste importante dans la Drôme. La poursuite de la lutte contre la sharka doit nécessairement reposer sur une stratégie privilégiant la détection précoce de la maladie et l'arrachage préventif des arbres isolés contaminés, dans les secteurs encore peu touchés. Par ailleurs, afin d'engager une réflexion sur la lutte contre cette maladie et sur la situation particulière des zones fortement contaminées, notamment dans certaines communes du département de la Drôme, un chargé de mission national a été nommé. M. Jean-Luc Dairien s'est vu confier la charge d'évaluer l'impact économique et environnemental du développement de la sharka et de formuler des propositions de redynamisation des zones concernées, notamment en examinant les opportunités de reconversion vers d'autres activités, de même que les aspects relatifs à l'exploitation, la commercialisation et l'environnement. Les professionnels ont pu faire part de leurs préoccupations lors de cette mission. A la suite de la remise du rapport de mission, une concertation a été mise en place avec les professionnels de la filière. Une clarification des priorités et des moyens que les professionnels et l'Etat mettront en oeuvre devrait permettre de dégager, d'ici à la fin du mois de mai prochain, les orientations les plus appropriées, tant d'un point de vue phytosanitaire qu'économique.
