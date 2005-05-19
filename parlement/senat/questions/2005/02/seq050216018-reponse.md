@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216018
+
+- Question : [SEQ050216018](seq050216018.md) — Dégrèvement des frais généraux des entreprises pour favoriser le commerce extérieur
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1423*
+
+Dès lors qu'ils sont engagés dans l'intérêt de l'entreprise sise en France, les frais généraux liés à la prospection, aux frais de déplacement, de restauration et de logement constituent des dépenses déductibles de l'assiette de l'impôt sur les sociétés dans les conditions de droit commun. Par ailleurs, conscient de la nécessité d'encourager les entreprises françaises, notamment de taille modeste, à s'implanter sur les marchés étrangers, le Gouvernement a mis en oeuvre, dans le cadre de la loi de finances pour 2005, un crédit d'impôt pour dépenses de prospection commerciale au titre des dépenses engagées par les petites et moyennes entreprises (PME) en vue d'exporter des services, des biens et des marchandises en dehors de l'espace économique européen, crédit lié à l'embauche d'une personne affectée au développement de ces exportations. Ce dispositif vient ainsi compléter plusieurs mécanismes d'incitation à la conquête de parts de marché à l'étranger tels que l'assurance prospection gérée par la Coface qui permet aux PME de bénéficier d'une avance correspondant à 65 % des dépenses de prospection et qui n'est remboursée qu'en cas de succès des démarches, les aides destinées à travers les contrats de plan Etat-Région à couvrir une partie des frais engagés par les PME notamment pour des études de marchés étrangers ou le recrutement de personnels qualifiés, ou l'action du soutien individualisé à la démarche export des PME (SIDEX) qui prend en charge une partie des dépenses de voyages internationaux et de séjour ainsi que les coûts de traduction ou les frais externes (frais d'étude, conseil juridique...).
