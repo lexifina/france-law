@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316353
+
+- Question : [SEQ050316353](seq050316353.md) — Versement des aides décidées par le centre communal d'aide sociale
+
+## Réponse
+
+*Solidarités, JO du 2005-05-19, page 1448*
+
+En application des articles L. 123-4 à 6 et R. 123-21 et R. 123-22 du code de l'action sociale et des familles, l'attribution des prestations d'un centre communal d'action sociale relève de son conseil d'administration qui peut, en cette matière, déléguer ses pouvoirs à son président ou à son vice-président. Pour ce qui concerne les prestations d'aides sociales facultatives, il peut être observé qu'il a été jugé par le conseil d'Etat que les contestations pouvant naître de l'application de mesures facultatives décidées par les départements dans le cadre de leurs compétences en matière d'action sociale relèvent des juridictions administratives de droit commun (conseil d'Etat, 28 avril 2004, n° 259214, Mme X). Le conseil d'administration du centre communal d'action sociale ou son président ou vice-président, s'ils en ont reçu délégation, peuvent prendre une décision de refus d'octroi d'une aide sociale du Centre communal d'action sociale. A cet égard, il a été jugé que l'attribution d'une allocation exceptionnelle qui présente un caractère gracieux, par le Centre communal d'action sociale de Paris, ne constituait pas un droit pour les personnes qui satisfont aux conditions de son attribution fixées par le règlement des prestations sociales de la ville de Paris (cour administrative d'appel de Paris 31 décembre 2004 instance n° 01PA03061). Pour autant, s'agissant des retraits d'actes créateurs de droit, il apparaît que la jurisprudence administrative ne reconnaît pas la possibilité de retirer des actes ayant eu pour conséquence la création de droits et ne souffrant d'aucune illégalité. Pour ce qui concerne les demandes de dommages et intérêts et en vertu d'une jurisprudence constante, le préjudice doit pouvoir être quantifié et établi.
