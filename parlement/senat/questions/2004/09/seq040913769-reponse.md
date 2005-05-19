@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913769
+
+- Question : [SEQ040913769](seq040913769.md) — Lutte contre la prolifération des publicités non désirées
+
+## Réponse
+
+*Écologie, JO du 2005-05-19, page 1416*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux conséquences pour certaines collectivités locales de l'apposition sur les boîtes aux lettres d'un autocollant refusant les courriers publicitaires non adressés. La prévention est l'un des axes prioritaires de la politique des déchets. L'opération d'incitation à l'apposition de cet autocollant rentre dans le cadre de cet objectif. Les imprimés publicitaires et gratuits tiennent en effet une place importante dans les déchets ménagers, dont la masse va toujours croissant. Par ailleurs, cette opération contribue au développement de l'éco-citoyenneté. En effet, l'apposition de l'autocollant est un geste simple qui permet à chacun de participer aisément à la protection de l'environnement, et donc de considérer davantage cette problématique. Une telle initiative contribue à une plus grande sensibilisation des Français à la prévention et à la gestion des déchets. L'autocollant « Stop-Pub ! » stipule explicitement que le refus de recevoir des courriers non adressés ne concerne pas les journaux d'information des collectivités. Cependant, l'organisation actuelle des diffuseurs ne leur permet pas de distribuer les seuls bulletins d'information communale dans les boîtes aux lettres sur lesquelles l'autocollant « Stop-Pub ! » est apposé. Cela revient à effectuer une prestation supplémentaire. Le groupe « La Poste », qui est un acteur important de la diffusion de ces imprimés, travaille actuellement à définir une offre qui répondra aux préoccupations exprimées dans la présente question et prévoira une diffusion adaptée de l'information des collectivités territoriales.
