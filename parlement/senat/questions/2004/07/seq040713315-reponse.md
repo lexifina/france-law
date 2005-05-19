@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713315
+
+- Question : [SEQ040713315](seq040713315.md) — Actions de préférence : application de la procédure des " avantages particuliers "
+
+## Réponse
+
+*Justice, JO du 2005-05-19, page 1441*
+
+Le garde des sceaux fait connaître à l'honorable parlementaire que le dernier alinéa de l'article 169 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales, tel que modifié par le décret n° 2005-112 du 10 février 2005 relatif aux valeurs mobilières émises par les sociétés commerciales, énonce qu'« en cas de stipulation d'avantages particuliers ou d'émission d'actions de préférence donnant lieu à l'application de l'article L. 228-15 du code de commerce, le rapport décrit et apprécie chacun des avantages particuliers ou des droits particuliers attachés aux actions de préférence. S'il y a lieu, il indique, pour ces droits particuliers, quel mode d'évaluation a été retenu et pourquoi il a été retenu, et justifie que la valeur des droits particuliers correspond, au moins à la valeur nominale des actions de préférence à émettre augmentée éventuellement, de la prime d'émission. » Ainsi, cette disposition est de nature à lever les incertitudes sur ce point. En outre, la procédure des avantages particuliers, visée au premier alinéa de l'article L. 228-15 du code de commerce doit être appliquée lors de l'émission d'actions de préférence au profit d'actionnaires nommément désignés. Or, l'émission d'actions, décidée par l'assemblée générale extraordinaire, n'a lieu que si l'action est souscrite par une personne qui devient immédiatement actionnaire. Ainsi, l'article L. 228-15 alinéa 1er, vise les actionnaires déjà existants et les actionnaires qui le deviennent au moment de la souscription à condition toutefois que ces actionnaires soient nommément désignés.
