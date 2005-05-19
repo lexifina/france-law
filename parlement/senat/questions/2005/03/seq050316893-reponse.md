@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316893
+
+- Question : [SEQ050316893](seq050316893.md) — Contrats de partenariat : recettes d'exploitation perçues par le cocontractant
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1427*
+
+Aux termes de l'article L. 1414-12, le code général des collectivités territoriales précise : « Un contrat de partenariat comporte nécessairement des clauses relatives... d) A la rémunération du cocontractant, aux conditions dans lesquelles sont pris en compte et distingués, pour son calcul, les coûts d'investissement, de fonctionnement et de financement et, le cas échéant, les recettes que le cocontractant peut être autorisé à se procurer en exploitant les ouvrages ou équipements pour répondre à d'autres besoins que ceux de la personne publique contractante, aux motifs et modalités de ses variations pendant la durée du contrat et aux modalités de paiement, notamment aux conditions dans lesquelles, chaque année, les sommes dues par la personne publique à son cocontractant et celles dont celui-ci est redevable au titre de pénalités ou de sanctions font l'objet d'une compensation ; ». Les contrats de partenariat sont un nouvel outil de la commande publique par lequel la personne publique rémunère directement le partenaire privé de sa prestation. L'obligation de distinguer, au sein de cette rémunération, ce qui relève de l'investissement, du fonctionnement et du financement a pour objet d'assurer la transparence des relations financières entre les deux parties. Par ailleurs, le partenaire privé pourra dans certains cas exploiter l'ouvrage en dehors des besoins propres à la personne publique. Là également, pour des raisons de transparence financière, et afin de faire bénéficier la personne publique de cette rémunération annexe, il est prévu que ces éventuelles recettes doivent obligatoirement être prises en compte dans les modalités de rémunération du partenaire privé.
