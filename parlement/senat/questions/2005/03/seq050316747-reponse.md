@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316747
+
+- Question : [SEQ050316747](seq050316747.md) — Réforme de l'administration des finances en Limousin
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1426*
+
+Les réformes engagées par la direction générale des impôts (DGI) dans le cadre de la réforme du ministère de l'économie, des finances et de l'industrie ont pour principal objectif de placer l'usager, particulier ou entreprise, au centre de l'organisation administrative afin de lui rendre un service de meilleure qualité, plus simple et plus efficace. Ce programme conduit à une plus grande rationalisation de l'action de l'administration en fonction des publics concernés, tout en veillant à ce que la taille des services leur permette d'exercer correctement leurs missions. Il assure en conséquence une meilleure égalité de traitement au sein de chaque catégorie de contribuables, étant entendu que la DGI maintiendra, dans toutes ses implantations, son service de proximité pour les particuliers et les entreprises, y compris en milieu rural. S'agissant de la direction du contrôle fiscal du Sud-Ouest, la suppression de son antenne située à Limoges ne diminuera en rien le service fiscal de proximité rendu aux usagers. En effet, cette structure n'avait pas de contact direct avec les usagers de Limoges qui continueront à bénéficier, s'ils le souhaitent, d'un recours hiérarchique de premier niveau auprès de l'inspecteur principal responsable de la brigade de vérification interrégionale de Limoges et de la tenue à Limoges de l'interlocution, recours de deuxième niveau. Par ailleurs, la situation des agents concernés fait l'objet d'un suivi personnalisé et les entretiens destinés à préciser les futures affectations n'ont pas révélé de difficulté particulière, d'autant plus que les modifications organisationnelles en cause ne nécessiteront pas en pratique de mutations géographiques.
