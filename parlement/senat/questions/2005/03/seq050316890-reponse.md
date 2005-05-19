@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316890
+
+- Question : [SEQ050316890](seq050316890.md) — Application des dispositions de l'article 44-1 du code des marchés publics
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1427*
+
+Le nouvel article 44-1 du code des marchés publics, issu de la loi n° 2005-102 du 11 février 2005, impose désormais aux pouvoirs adjudicateurs de vérifier la recevabilité des candidatures à un marché public au regard de l'obligation définie par l'article L. 323-1 du code du travail. Ainsi, les personnes assujetties à cette obligation doivent avoir souscrit, au cours de l'année précédant celle au cours de laquelle a eu lieu le lancement de la consultation, la déclaration annuelle visée à l'article L. 323-8-5 du code du travail ou, s'ils en sont redevables, versé la contribution visée à l'article L. 323-8-2 de ce code. Les employeurs mentionnés à l'article L. 323-1 du code du travail doivent également justifier de l'application éventuelle des dispositions des articles L. 323-8, L. 323-8-1 et L. 323-8-2 de ce même code. Afin de vérifier la recevabilité des candidatures au regard de ces dispositions, il convient que les acheteurs publics demandent aux candidats assujettis à l'obligation définie à l'article L. 323-1 du code du travail de fournir, à l'appui de leur candidature, une attestation sur l'honneur, dûment datée et signée, certifiant qu'ils ont satisfait aux obligations prévues par les articles précités du code du travail. A cet égard, il convient de noter que l'article 46 du code des marchés publics n'a pas été modifié par la loi du 11 février 2005. Il n'y a donc pas lieu de demander au candidat auquel il est envisagé d'attribuer le marché d'autres pièces que l'attestation sur l'honneur fournie à l'appui de la candidature au titre de l'article 44-1 du code des marchés publics.
