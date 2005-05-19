@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713089
+
+- Question : [SEQ040713089](seq040713089.md) — Rémunérations des chefs de contrôle dans les conservations des hypothèques
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1419*
+
+Les textes régissant la publicité foncière prévoient que les pièces formalisées, les états et les certificats peuvent être obtenus à la conservation des hypothèques. Toutefois, les usagers ont toujours eu la possibilité d'obtenir le renvoi des pièces par la voie postale moyennant le paiement de frais de correspondance. Ces frais, dont le système a été modernisé en 1985, sont tarifés forfaitairement par l'administration. La somme versée par l'usager se décompose en des frais forfaitaires d'affranchissement et une redevance forfaitaire de 0,40 euros par envoi pour la rémunération du travail supplémentaire accompli par l'agent, qui n'est pas toujours le chef de contrôle, chargé du renvoi des pièces. La redevance forfaitaire perçue au titre de ce travail, accompli en dehors des heures normales de service et sous la responsabilité de l'agent qui en est chargé, est plafonnée. Comme il est rappelé dans la question, la direction générale des impôts mène actuellement, en partenariat avec le Conseil supérieur du notariat, le projet informatique Téléactes, destiné à permettre la télétransmission par les notaires des formalités à publier ou des demandes de renseignements, sans coût postal. Le retour des pièces aux notaires après leur traitement s'effectuera naturellement sous la même forme dématérialisée. Les notaires n'auront donc plus à faire supporter à leurs clients les coûts de renvoi des pièces par la voie postale. Le travail supplémentaire afférent à cette tâche disparaîtra au fur et à mesure de l'utilisation de Téléactes, c'est-à-dire de manière très progressive. L'ensemble des apports et des effets de cette application est étudié attentivement.
