@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316440
+
+- Question : [SEQ050316440](seq050316440.md) — Tarification des réparations de matériel agricole
+
+## Réponse
+
+*Économie, JO du 2005-05-19, page 1424*
+
+Les travaux d'entretien et de réparation effectués par les garagistes font l'objet de contrôles réguliers et récurrents de la part des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes au même titre que d'autres secteurs d'activité. Depuis la libre fixation des prix des produits et des services en 1986, les relevés de prix effectués par les services de contrôle s'inscrivent dans le cadre d'enquêtes plus larges ayant pour objet de vérifier le fonctionnement normal du marché et de rechercher d'éventuelles pratiques anticoncurrentielles réprimées par les articles L. 420-1 et L. 420-2 du code de commerce. Toute fixation concertée des prix par les professionnels, tout abus de position dominante ou de dépendance économique sont susceptibles de faire l'objet d'une procédure contentieuse devant le Conseil de la concurrence, compétent pour qualifier et sanctionner ces pratiques. Par ailleurs, les agriculteurs qui s'estimeraient victimes de pratiques restrictives de concurrence exercées par les garagistes telles que des discriminations tarifaires peuvent également obtenir un dédommagement du préjudice subi en engageant des procédures contentieuses auprès des tribunaux civils. Les organisations professionnelles représentant les agriculteurs peuvent bien entendu introduire directement de telles actions contentieuses conformément à l'article L. 442-6 du code de commerce. Dans ce cadre, les exploitants agricoles peuvent également saisir la direction départementale de la concurrence, de la consommation et de la répression des fraudes territorialement compétente, pour qu'une enquête soit effectuée et qu'une intervention du ministre devant la juridiction commerciale soit, le cas échéant, envisagée.
