@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417206
+
+- Question : [SEQ050417206](seq050417206.md) — Commerce de proximité en milieu rural
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-05-26, page 1509*
+
+Le Gouvernement est conscient de l'intérêt que présente le plan de dynamisation du commerce de proximité pour les associations de commerçants des communes de moins de 30 000 habitants. Aussi, n'est-il pas opposé à ce que le critère de population puisse être appliqué avec la souplesse nécessaire pour tenir compte de contextes spécifiques. Ainsi, pour l'appréciation de ce critère, sera-t-il possible de prendre en compte la population touristique. De même, rien ne s'oppose à ce que des associations de commerçants unissent leurs forces dans le cadre d'une intercommunalité pour établir un plan d'action commun. Comme le précise le document relatif aux modalités de sélection des projets, le comité régional pourra proposer de rendre éligible un dossier qui ne correspondrait pas exactement à tous les critères de validation, si un contexte particulier ou l'intérêt particulier du plan proposé le justifiait. Les critères d'évaluation des plans d'action (capacité du demandeur à porter le projet, conformité du plan d'action aux objectifs du dispositif, intérêt qualitatif des actions proposées) seront donc à cet égard déterminants. Le dispositif est destiné à soutenir les projets innovants en milieu urbain et les limites de l'enveloppe financière réservée à cet appel à projets imposeront une grande sélectivité des lauréats. Aussi, dans l'hypothèse où un plan d'action proposé ne serait pas sélectionné, la collectivité concernée aurait toujours la faculté, en liaison avec l'association de commerçants, de présenter un dossier classique de demande de subvention au fonds d'intervention pour les services, l'artisanat et le commerce (FISAC) pour le financement d'une opération urbaine ou d'une opération collective de modernisation en milieu rural.
