@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115737
+
+- Question : [SEQ050115737](seq050115737.md) — Suppression de la section BTS électronique du lycée Charles Jully de Saint-Avold
+
+## Réponse
+
+*Éducation, JO du 2005-05-26, page 1497*
+
+Les sections de technicien supérieur « système électronique » font l'objet de 122 implantations dans 26 académies. L'académie de Nancy-Metz, avec 10 implantations, est largement au-dessus de la moyenne nationale, alors que de 1999 à 2004, le nombre d'élèves inscrits en première année du BTS « systèmes électroniques » est en forte réduction dans l'académie, passant de 207 à 159, et particulièrement au lycée Charles-Jully de 22 à 12. Enfin, depuis deux rentrées scolaires, il est observé une baisse de 6 % des effectifs en terminale STI, principal vivier de recrutement des BTS industriels. Il ressort de ces éléments que l'offre de formation en brevets de technicien supérieur industriels au lycée Charles Jully est surdimensionnée par rapport au nombre d'étudiants en STI, d'autant que 52 % des élèves titulaires d'un baccalauréat technologique industriel poursuivent des études vers un BTS industriel dans l'académie de Nancy-Metz. Les travaux effectués dans le cadre de la restructuration et l'optimisation des formations dispensées dans l'académie ont permis d'identifier le lycée Charles-Jully comme celui des innovations dans le domaine de la productique, de la plasturgie et de l'automatisme. La nécessité de prendre en compte l'aménagement du territoire conduit par ailleurs à donner au lycée Condorcet de Schoeneck la vocation de lycée des métiers de l'électronique et de réseaux informatiques. Enfin, si l'on envisage les licences professionnelles liant le lycée Charles-Jully et l'université de Metz, celles-ci ne concernent pas le domaine de l'électronique, mais le management industriel et tertiaire et les sciences de la production industrielle.
