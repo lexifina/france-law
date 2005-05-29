@@ -1,6 +1,6 @@
-# Article Annexe EX-1-R, art. 6
+# Article 6
 
-1. Dans les industries extractives, l'utilisation de la poudre noire à l'état pulvérulent, même sous forme de cartouche, est interdite.
+Produits explosifs autorisés : 1. Dans les industries extractives, l'utilisation de la poudre noire à l'état pulvérulent, même sous forme de cartouche, est interdite.
 
 2.1. Seuls peuvent être employés dans les industries extractives des produits explosifs :
 
@@ -60,7 +60,7 @@
 
 2.14. L'exploitant de l'industrie extractive, ou l'utilisateur des produits explosifs si ce n'est pas l'exploitant, doit tenir à la disposition de l'autorité administrative les déclarations de conformité, les attestations d'examen "CE" de type, les agréments et les autorisations d'utilisation ou les attestations en vue d'utilisation, les notices ou les modes d'emploi et les fiches de données de sécurité rédigés en langue française des produits explosifs qui sont utilisés dans l'exploitation.
 
-3. Toutefois, le ministre chargé des mines peut, par arrêté, après avoir pris l'avis de la commission des recherches scientifiques sur la sécurité dans les mines et carrières :
+3. Toutefois, le ministre chargé des mines peut, par arrêté :
 
 - autoriser l'utilisation d'un produit explosif pour un usage non prévu par la décision d'agrément.
 

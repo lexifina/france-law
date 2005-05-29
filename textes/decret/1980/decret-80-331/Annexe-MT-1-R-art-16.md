@@ -1,8 +1,8 @@
-# Article Annexe MT-1-R, art. 16
+# Article 16
 
-1. Les moteurs doivent être d'un type certifié par un laboratoire agréé par le ministre chargé des mines.
+Certification : 1. Les moteurs doivent être d'un type certifié par un laboratoire agréé par le ministre chargé des mines.
 
-Les conditions de certification sont définies par un arrêté du ministre chargé des mines, sur avis de la commission des recherches scientifiques sur la sécurité dans les mines et les carrières.
+Les conditions de certification sont définies par un arrêté du ministre chargé des mines.
 
 Le silence gardé pendant plus d'un an par le ministre chargé des mines sur une demande d'agrément d'organismes vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
