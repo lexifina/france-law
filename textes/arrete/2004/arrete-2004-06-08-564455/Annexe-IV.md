@@ -49,3 +49,17 @@ Organisation du travail, gestion administrative et budgétaire d'une unité ou d
 Communication, interface et gestion de partenariats.
 
 |
+
+Chef de service dans l'action sociale. |
+
+ARAFDES, institut de formation des cadres de l'action sociale, Lyon (arrêté du 19 mars 1999, publié au JO du 27 mars 1999, portant homologation de titres et diplômes de l'enseignement technologique). |
+
+Expertise technique.
+
+Management d'équipe.
+
+Organisation du travail, gestion administrative et budgétaire d'une unité ou d'un service.
+
+Communication, interface et gestion de partenariats.
+
+|
