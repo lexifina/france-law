@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417083
+
+- Question : [SEQ050417083](seq050417083.md) — Financement de l'ADAVEM 49
+
+## Réponse
+
+*Justice, JO du 2005-05-31, page 1582*
+
+Le garde des sceaux, ministre de la justice, remercie l'honorable parlementaire de l'intérêt qu'il porte à la politique menée en faveur des victimes, dont la mise en oeuvre repose en grande partie sur l'action irremplaçable des associations d'aide aux victimes. L'association d'aide aux victimes et de médiation du département de Maine-et-Loire (ADAVEM 49) joue un rôle essentiel au sein du ressort de la cour d'appel d'Angers. En effet, l'ancienneté de l'association et sa connaissance du terrain sont particulièrement précieuses. L'augmentation constante de son activité et la multiplication des lieux de permanence témoignent en outre de sa vitalité. L'ADAVEM 49 a bénéficié, en ce qui concerne l'aide aux victimes, d'un soutien financier constant du ministère de la justice depuis ces trois dernières années puisque la subvention qui lui a été attribuée a augmenté de près de 40 % entre 2002 et 2004, passant de 40 000 euros à 55 000 euros. La subvention versée en 2004 correspond au montant sollicité par l'association. Il convient de rappeler que l'attribution des subventions aux associations locales relève, dans le cadre de la gestion déconcentrée des crédits d'intervention, des chefs de cour d'appel auxquels sont délégués les crédits en matière d'associations d'aide aux victimes. A cet égard, la chancellerie a appelé l'attention des cours d'appel sur la nécessité de veiller à ce que les subventions soient attribuées en priorité aux associations qui se mobilisent pour élargir leurs horaires de permanence, pour recruter des personnels qualifiés dans le soutien psychologique et pour aller au-devant des victimes les plus fragilisées. Pour l'année 2005, les crédits délégués à la cour d'appel d'Angers au titre de l'aide aux victimes correspondent aux crédits demandés.
