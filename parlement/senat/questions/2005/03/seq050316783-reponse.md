@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316783
+
+- Question : [SEQ050316783](seq050316783.md) — Réglementation applicable aux voyages d'études organisés par les groupements de communes
+
+## Réponse
+
+*Intérieur, JO du 2005-05-31, page 1574*
+
+Seul l'article L. 2123-15 du code général des collectivités locales évoque, pour les communes, la notion de voyage d'études. Il rappelle que les dispositions des articles L. 2123-12 à L. 2123-14 du même code relatives au droit à la formation des élus locaux, et plus particulièrement aux modalités de prise en charge par la collectivité des frais de déplacement, de séjour, d'enseignement et des pertes de revenu, ne sont pas applicables aux voyages d'études des conseils municipaux. Il indique ensuite que les délibérations relatives à ces voyages précisent leur objet, qui doit avoir un lien direct avec l'intérêt de la commune, ainsi que leur coût prévisionnel. S'agissant des établissements publics de coopération intercommunale, il n'est pas prévu de disposition législative particulière concernant les voyages d'études qu'ils pourraient être amenés à organiser. Il convient toutefois de noter que les communes, dans la mesure où les voyages d'études organisés répondent aux critères du mandat spécial, peuvent prendre en charge les frais liés à ces déplacements en vertu des dispositions de l'article L. 2123-18 relatif au remboursement des frais que nécessite l'exécution des mandats spéciaux. Or les établissements publics de coopération intercommunale bénéficient également de la possibilité de prendre en charge les frais engagés par leurs membres dans le cadre de l'exécution d'un mandat spécial, conformément à l'article L. 5211-14 du code général des collectivités territoriales. Aussi, de la même façon que les communes, dans la mesure où les voyages d'études organisés par ces structures correspondent aux critères du mandat spécial, elles peuvent les prendre en charge au titre de l'article L. 5211-14 susmentionné.
