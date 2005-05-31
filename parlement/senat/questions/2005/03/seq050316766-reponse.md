@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316766
+
+- Question : [SEQ050316766](seq050316766.md) — Conséquences pour les communes des dérogations scolaires
+
+## Réponse
+
+*Éducation, JO du 2005-05-31, page 1563*
+
+L'article L. 212-8 du code de l'éducation détermine en effet les conditions et les modalités de répartition des charges de fonctionnement des écoles maternelles et élémentaires publiques accueillant des enfants résidant dans une autre commune. Il énonce les situations dans lesquelles la commune de résidence, sans que l'accord de son maire doive être recueilli, est tenue de participer aux charges de fonctionnement de l'école de la commune d'accueil. C'est le cas lorsque la commune de résidence n'a pas de capacité d'accueil suffisante, lorsque l'enfant poursuit son cycle scolaire (maternel ou primaire) commencé durant l'année scolaire précédente dans la commune d'accueil et lorsque l'inscription de l'enfant est motivée soit par des contraintes liées aux obligations professionnelles des parents, soit par la scolarisation d'un frère ou d'une soeur dans l'établissement scolaire de la même commune, soit par des raisons médicales. Ce dispositif se fonde sur la prise en compte des besoins particuliers, mais aussi légitimes, des familles. Cependant, pour concilier les difficultés propres aux communes situées en milieu rural et les demandes des familles, l'article 113 de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux, qui a modifié l'article L. 212-8 du code de l'éducation, indique que, désormais, lorsque l'inscription d'un enfant dans une autre commune est justifiée par des motifs liés aux obligations professionnelles des parents, la commune de résidence n'est tenue de participer financièrement que si elle « n'assure pas directement ou indirectement la restauration et la garde des enfants ou si elle n'a pas organisé un service d'assistantes maternelles agréées ».
