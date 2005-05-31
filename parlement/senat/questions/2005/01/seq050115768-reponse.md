@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115768
+
+- Question : [SEQ050115768](seq050115768.md) — Appellation " montagne "
+
+## Réponse
+
+*Agriculture, JO du 2005-05-31, page 1534*
+
+La dénomination « montagne », définie dans le code rural aux article R.644-1 et suivants, pris en application de la loi d'orientation agricole (LOA) du 9 juillet 1999, précise les conditions d'utilisation du terme « montagne ». Cette nouvelle base législative répondait à une mise en cause du dispositif national antérieur par la Cour de justice européenne. Le choix a été fait de privilégier dans ce dispositif la simplicité et l'efficacité. La seule contrainte retenue est la nécessité pour toutes les opérations - depuis la production des matières premières jusqu'au conditionnement des produits - de se situer en zone de montagne. Toutefois, des dérogations sont possibles par produit ou catégories de produits : elles sont alors précisées dans des règlements techniques nationaux. Un règlement technique national montagne concernant le lait et les produits laitiers a été validé par un arrêté du 20 février 2004. Il permet un traitement harmonisé sur l'ensemble du territoire des demandes d'autorisation d'utiliser la mention « montagne ». Une extension des zones de montagne relève des conditions fixées par la directive 75/268/CEE du conseil du 28 avril 1975 sur l'agriculture de montagne et de certaines zones défavorisées et de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection des zones de montagne. La classification des communes repose sur le calcul d'une note de handicap, sur la base de critères d'appréciation de l'altitude et de la pente. L'ensemble de ces réglementations concourt à promouvoir le développement économique des zones de montagne ainsi qu'à maintenir l'emploi et les outils industriels à l'intérieur de ces zones, participant ainsi au développement durable et à l'aménagement du territoire.
