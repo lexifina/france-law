@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316871
+
+- Question : [SEQ050316871](seq050316871.md) — Relations sino-taïwanaises
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-05-31, page 1531*
+
+La position de la France sur la question de Taiwan est bien connue. Elle est constante et sans ambiguïté. Le Président de la République a ainsi rappelé lors de sa visite en Chine en octobre dernier l'opposition de la France à toute initiative unilatérale susceptible de remettre en cause le statu quo. De manière générale, les autorités françaises ne cessent d'oeuvrer pour le dialogue entre les deux rives, seul moyen de parvenir à un règlement pacifique de cette question. Récemment, la France et ses partenaires européens ont relevé avec satisfaction les mesures constructives adoptées de part et d'autre du détroit, notamment l'accord. sur les liaisons aériennes directes, à l'occasion du Nouvel An chinois. Comme l'Union européenne l'a souligné dans sa déclaration du 3 mars dernier, ce type de coopération concrète est en effet utile pour promouvoir le dialogue et la compréhension entre les deux rives. A la suite de l'adoption de la loi « anti-sécession » le 14 mars par l'Assemblée nationale populaire de Chine, l'Union européenne a publié une déclaration qui met l'accent sur la nécessité pour les deux parties de développer les initiatives qui contribuent au dialogue et demande à celles-ci d'éviter toute action unilatérale susceptible de rompre le statu quo ou d'accroître la tension. Les autorités françaises, en ce qui les concerne, se sont prononcées à titre national le 15 mars sur cette loi. Lors de son déplacement en Chine du 20 au 23 avril, le Premier ministre a de nouveau souligné le prix que la France attache aux assurances réitérées de la Chine de privilégier le développement des échanges et le dialogue entre les deux rives.
