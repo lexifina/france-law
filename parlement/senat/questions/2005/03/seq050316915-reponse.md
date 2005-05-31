@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316915
+
+- Question : [SEQ050316915](seq050316915.md) — Eclairage et signalisation des poids lourds
+
+## Réponse
+
+*Équipement, JO du 2005-05-31, page 1568*
+
+Le code de la route et les textes d'application prévoient que le gabarit des véhicules dont la largeur excède 2,10 mètres est signalé par des feux d'encombrement (deux vers l'avant et deux vers l'arrière) placés le plus près possible de la largeur hors tout du véhicule et à la hauteur maximale possible. Ces feux doivent émettre une lumière de couleur blanche vers l'avant et de couleur rouge vers l'arrière. Ces prescriptions sont conformes aux dispositions applicables au niveau international (règlement de Genève R. 48) et communautaire (directive 75/756/CEE modifiée). Par ailleurs, pour apprécier la catégorie du véhicule que l'on suit, les poids lourds disposent de dispositifs de signalisation complémentaires arrière réfléchissants. Ces dispositifs sont différents pour les véhicules à moteur et les remorques permettant notamment d'apprécier s'il s'agit d'un véhicule seul (à moteur), ou d'un ensemble de véhicules (véhicule à moteur + remorque). Ces dispositifs sont également conformes aux dispositions internationales et communautaires. L'arrêté du 22 octobre 2004 relatif à l'éclairage et à la signalisation des véhicules a rendu obligatoire la signalisation par barres rétro-réfléchissantes à l'arrière des camions et de leurs remorques, pour tous les véhicules mis pour la première fois en circulation à compter du 1er avril 2005 et pour tous les véhicules mis en circulation avant cette date à compter du 1er avril 2006. La réglementation française étant conforme aux dispositions internationales et communautaires, aucune modification réglementaire n'est prévue pour ce qui concerne ces aspects particuliers.
