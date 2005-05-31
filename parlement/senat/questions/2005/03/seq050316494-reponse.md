@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316494
+
+- Question : [SEQ050316494](seq050316494.md) — Irrégularité des bourses agricoles
+
+## Réponse
+
+*Agriculture, JO du 2005-05-31, page 1540*
+
+L'évolution des taux et des barèmes de versement des bourses sur critères sociaux a été faite en application du principe de parité avec l'éducation nationale. Les bourses de l'enseignement technique agricole ont ainsi connu les évolutions suivantes : doublement de la prime d'équipement et mise en place des bourses au mérite en 2001 ; mise en place d'un complément de bourse, dit « prime à l'internat » réservée aux élèves boursiers internes en 2002 ; augmentation de la part de bourse en 2003. Parallèlement, chaque année une revalorisation des plafonds de ressources a été effectuée à l'identique à celle de l'éducation nationale. En ce qui concerne l'enseignement supérieur, les plafonds de ressources ainsi que les échelons de bourses sont revalorisés annuellement de la même façon que pour les bourses relevant de l'éducation nationale. Depuis 2001, les effectifs de boursiers croissent dans l'enseignement technique agricole secondaire, alors qu'ils diminuent dans l'enseignement supérieur court. Les pourcentages d'élèves boursiers sont de 35 % dans l'enseignement secondaire, alors qu'ils atteignent 43 % dans l'enseignement supérieur court. L'exercice budgétaire 2004 s'est soldé par un report de charges de 3,5 millions d'euros, soit une proportion moyenne de 8 % des besoins non couverts, ayant pu varier selon les régions. La situation a été régularisée dès les premières semaines de l'année 2005, l'arriéré ayant été intégralement délégué aux services déconcentrés afin de le verser aux familles. Pour l'année 2005, la situation reste tendue, le chapitre budgétaire ayant été doté à hauteur de 73,272 millions d'euros. Le ministre se montrera vigilant sur ce point dans le cadre de l'exécution budgétaire 2005.
