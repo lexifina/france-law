@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608224
+
+- Question : [SEQ030608224](seq030608224.md) — Education nationale : participation des parents d'élèves aux négociations
+
+## Réponse
+
+*Éducation, JO du 2005-05-31, page 1557*
+
+La loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales est entrée en vigueur le 1er janvier 2005. La préparation de ce texte a reposé sur les assises des libertés locales qui se sont déroulées, partout en France, d'octobre 2002 février 2003. A l'issue de cette concertation, les travaux parlementaires ont abouti à ce que la loi réaffirme expressément que l'éducation est un service public national dont l'organisation et le fonctionnement sont assurés par l'Etat, sous réserve des compétences attribuées par la loi aux collectivités territoriales pour les associer au développement de ce service public (art. 75, L. 211-1). La loi détaille en outre les compétences qui relèvent exclusivement de l'Etat. Elles comprennent la définition des voies de formation, la fixation des programmes nationaux, l'organisation et le contenu des enseignements ; la définition et la délivrance des diplômes nationaux et la collation des grades et des titres universitaires ; le recrutement et la gestion des personnels qui relèvent de sa responsabilité ; la répartition des moyens qu'il consacre à l'éducation, afin d'assurer en particulier l'égalité d'accès au service public ; le contrôle et l'évaluation des politiques éducatives en vue d'assurer la cohérence d'ensemble du système éducatif. L'avenir du service public de l'éducation nationale a en outre fait l'objet d'un deuxième texte de loi (loi d'orientation sur l'école votée en mars 2005) qui, à l'issue d'une nouvelle concertation associant l'ensemble des partenaires concernés directement par le service public de l'éducation nationale (dont les parents d'élèves), rappelle avec force que l'éducation constitue une priorité nationale parmi les missions de l'Etat.
