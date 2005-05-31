@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713204
+
+- Question : [SEQ040713204](seq040713204.md) — Montant par kilomètre des travaux d'amélioration effectués au cours des dix dernières années sur les routes nationales, notamment pour la région Lorraine
+
+## Réponse
+
+*Équipement, JO du 2005-05-31, page 1564*
+
+Le ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer a publié sur son site internet, le 7 juillet dernier, deux cartes représentant les indicateurs « taux et densités d'accidents graves » sur le réseau routier national enregistrés sur la période 1998-2000. Ces cartes vont être actualisées dans les prochaines semaines avec des données d'accidents plus récentes couvrant la période 2000-2002. Il sera ainsi possible de constater l'évolution des indicateurs utilisés entre les deux périodes. S'agissant de la région Lorraine, l'Etat a investi 4,8 millions d'euros, sur la période 2000-2004 du 12e plan, pour les opérations retenues au plan régional d'aménagements de sécurité. Les collectivités territoriales qui participent à ces opérations, dans le cadre du contrat de plan conclu entre l'Etat et la région, ont apporté un financement complémentaire qui vient s'ajouter à cette enveloppe. De plus, sur cette même période allant de 2000 à 2004, 3,8 millions d'euros ont été attribués par l'Etat au titre des aménagements de sécurité d'initiative locale sur le réseau routier national des quatre départements lorrains. A titre indicatif, sur l'ensemble du réseau national, le montant moyen des crédits spécifiquement affectés par l'Etat aux aménagements de sécurité du réseau existant a été, au cours de ces dernières années, de l'ordre de 1 000 euros par kilomètre et par an. Il convient de préciser que d'autres travaux relevant de programmes d'entretien, de réhabilitation ou de construction concourent à l'amélioration du réseau routier et de la sécurité routière.
