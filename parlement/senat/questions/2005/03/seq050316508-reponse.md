@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316508
+
+- Question : [SEQ050316508](seq050316508.md) — Lutte contre la fièvre catarrhale dans l'élevage
+
+## Réponse
+
+*Agriculture, JO du 2005-05-31, page 1540*
+
+La fièvre catarrhale ovine est une maladie virale transmise par des insectes piqueurs. Elle touche préférentiellement les ovins, chez lesquels elle peut entraîner des mortalités importantes. Compte tenu de sa gravité, des garanties sanitaires lors de mouvements de ruminants entre pays sont exigées, entraînant un blocage des zones infectées par cette maladie. Actuellement, la présence de la fièvre catarrhale en France est limitée à la Corse, où la maladie est endémique depuis l'année 2000. Cependant, son apparition en 2004 en Espagne ainsi que l'identification pour la première fois à l'automne 2004 d'insectes vecteurs dans le département du Var augmentent considérablement le risque d'introduction de la maladie en France continentale. L'impact économique de l'apparition de la fièvre catarrhale sur le territoire continental de la France serait élevé tant en termes de santé animale que de limitation des ventes d'animaux. Dans ce contexte et afin de préserver la santé des cheptels des Etats membres de l'Union européenne, aucun mouvement de bovins, ovins ou caprins à partir des zones communautaires infectées, et notamment d'Espagne et du Portugal, n'est autorisé. Ainsi, seules les introductions de taureaux de combat en provenance des régions indemnes de la maladie sont possibles. Le ministère de l'agriculture, de l'alimentation, de la pêche et de la ruralité ne prendra aucun risque susceptible de mettre en danger la santé du cheptel français. Par ailleurs, afin de détecter précocement toute circulation virale et prévenir une éventuelle extension de la maladie en France métropolitaine, un plan de surveillance et de contrôle renforcé a été mis en place depuis avril 2005 dans les départements à risque du pourtour méditerranéen.
