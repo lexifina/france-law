@@ -1,0 +1,3 @@
+# Article 1er
+
+A compter de la date de signature du présent accord, la classification nationale des emplois des ouvriers, employés, techniciens et agents de maîtrise de l'exploitation d'équipements thermiques et de génie climatique établie par les accords des 28 janvier et 18 avril 1991 (avenant n° 16 et son annexe), et du 8 janvier 1998 (avenant n° 25 : Classification incinération) est remplacée, à l'exception de la partie qui définit le personnel d'exploitation (avenant n° 16) et de celle qui définit l'activité des entreprises qui relèvent de la classification incinération (avenant n° 25), par le texte suivant :
