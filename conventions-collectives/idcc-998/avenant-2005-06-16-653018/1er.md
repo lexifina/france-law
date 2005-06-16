@@ -1,0 +1,77 @@
+# Article 1er
+
+Le sous-article 21.1 " Salaire minimal " de l'article 21 " Salaire minimal et salaire réel " de la convention collective nationale des ouvriers, employés, techniciens, agents de maîtrise de l'exploitation d'équipements thermiques et de génie climatique est remplacé par les 2 sous-articles 21.1 et 21.2.
+
+21.1. Négociations de branche sur les salaires
+
+Les négociations relatives aux salaires conventionnels ont lieu dans les conditions fixées à l'article L. 132-12 du code du travail.
+
+Une réunion paritaire nationale se tiendra chaque fois que l'évolution de la conjoncture le nécessitera, sur demande de l'une ou l'autre partie et après accord des deux parties pour discuter des paramètres du présent article. En tout état de cause, elle se réunira une fois avant la fin de l'année civile pour étudier les questions salariales de l'année suivante.
+
+21.2. Rémunérations minimales
+
+Un salaire minimum mensuel garanti de branche (SMMGB) pour la durée légale du travail est fixé au niveau 1 de la classification.
+
+Afin de tenir compte de l'évolution des modes de rémunération et des spécifités des entreprises, il est fixé une rémunération minimale annuelle professionnelle garantie (RMAPG) pour la durée légale du travail et pour chaque niveau hiérarchique de la classification des emplois.
+
+Le rapport entre la rémunération minimale annuelle professionnelle garantie (RMAPG) afférente au niveau 9 et celle afférente au niveau 1 ne peut être inférieur à 1,68.
+
+Le salaire minimum mensuel garanti de branche (SMMGB) et chacune de ces rémunérations minimales annuelles professionnelles garanties (RMAPG) feront l'objet d'une négociation dans le cadre des dispositions prévues au sous-article 21.1 ci-dessus.
+
+Il est précisé que l'écart relatif (en pourcentage) entre les niveaux ne pourra être modifié que par accord de branche.
+
+Les rémunérations minimales annuelles professionnelles garanties (RMAPG) s'entendent au titre d'une année civile et comprennent l'ensemble des éléments de rémunération versés mensuellement ou à périodicité plus longue que le mois et soumis à cotisations sociales, à l'exception :
+
+- des heures supplémentaires et des majorations pour heures supplémentaires ;
+
+- des remboursements de frais professionnels ;
+
+- des sommes versées au titre de l'intéressement et de la participation prévue par les dispositions légales ;
+
+- des sommes perçues au titre de l'indemnité de panier ;
+
+- des sommes perçues au titre de l'indemnité pour travaux salissants ;
+
+- des sommes perçues au titre de la prime d'incommodité ;
+
+- des sommes perçues au titre de la majoration pour servitude particulière du personnel d'exploitation ;
+
+- des sommes perçues au titre de la prime de quart ;
+
+- des sommes perçues au titre de l'indemnité compensatrice de transport ;
+
+- des sommes perçues au titre de l'indemnité journalière d'éloignement ;
+
+- des sommes perçues au titre des indemnités du service d'intervention d'urgence conventionnelles ou du service d'intervention programmé en vigueur au sein de l'entreprise ;
+
+- des primes ou gratifications exceptionnelles versées dans l'année, ne résultant pas d'accords d'entreprises ;
+
+- de la prime d'ancienneté conventionnelle ou en vigueur au sein de l'entreprise ;
+
+- de toute somme versée au titre de la régulation de la rémunération minimale annuelle garantie correspondant à l'année civile précédente ;
+
+- des indemnités compensatrices de congés payés ;
+
+- de l'indemnité conventionnelle ou légale de départ en retraite ;
+
+- de l'indemnité conventionnelle ou légale de licenciement.
+
+En fin d'année civile, la rémunération brute annuelle effectivement perçue par le salarié au titre de l'année considérée incluant :
+
+- la somme des salaires mensuels ;
+
+- la prime de vacances conventionnelle ;
+
+- les gratifications ou mois supplémentaires versés en cours d'année ou en fin d'année, en application d'accords d'entreprise ;
+
+- les avantages en nature pour leur valeur déclarée sera comparée à la rémunération minimale annuelle professionnelle garantie (RMAPG) correspondant à la classification de ce salarié.
+
+En tant que de besoin, la situation du salarié sera régularisée par le versement d'un complément permettant de respecter la rémunération minimale annuelle professionnelle garantie (RMAPG).
+
+Toutefois, si le salarié n'a pas exercé son activité chez un même employeur pendant une année civile complète ou s'il a été absent, ces absences n'ayant pas fait l'objet d'une rémunération complète par l'employeur, la comparaison sera effectuée pro rata temporis pour l'année civile considérée selon la règle en vigueur dans l'entreprise.
+
+De même, si le salarié a été promu en cours d'année civile à un niveau supérieur, cette comparaison sera effectuée pro rata temporis pour l'année civile considérée, afin de tenir compte de la durée d'emploi dans son ancienne et dans sa nouvelle situation.
+
+Les montants du salaire minimum mensuel garanti de branche (SMMGB) fixé au niveau 1 de la classification et des rémunérations minimales annuelles professionnelle garanties (RMAPG) par la présente classification professionnelle feront l'objet d'un accord séparé distinct de la classification.
+
+Le sous-article 21.2 " Salaire réel " de la convention collective du 7 février 1979 devient le sous-article 21.3.
