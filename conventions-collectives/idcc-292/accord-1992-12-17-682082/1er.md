@@ -1,3 +1,3 @@
-# Article 1
+# Article 1er
 
-Le présent avenant s'applique aux cadres répondant aux définitions prévues à la rubrique " Niveau cadres " figurant à l'annexe I sous le titre " Classification des emplois, cadres et coefficients " de l'accord de classification du 15 octobre 1979.
+Le présent avenant détermine les conditions particulières de travail du personnel cadre dont la classification est prévue dans l'accord du 16 décembre 2004.
