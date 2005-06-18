@@ -651,3 +651,17 @@ Evaluation de l'importance d'une découverte archéologique
 Dernier alinéa de l'article 5.
 
 |
+
+Décret n° 2005-675 du 16 juin 2005 portant organisation du cycle d’enseignement professionnel initial et création des diplômes nationaux d’orientation professionnelle de musique, de danse et d’art dramatique
+
+1
+
+|
+
+Délivrance des diplômes nationaux d’orientation professionnelle de musique, de danse et d’art dramatique.
+
+|
+
+Premier alinéa de l’article 4.
+
+|
