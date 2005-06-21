@@ -1,0 +1,7 @@
+# Article 1er
+
+Le présent accord, ci-après désigné " l'accord ", concerne :
+
+- d'une part, les organismes de contrôle laitier du territoire métropolitain ci-après désignés par le sigle OCL ;
+
+- d'autre part, l'ensemble des salariés de ces OCL, toutes catégories confondues, quelle que soit la nature de leur contrat de travail, travaillant à temps complet ou à temps partiel, à l'exclusion des salariés des chambres d'agriculture.
