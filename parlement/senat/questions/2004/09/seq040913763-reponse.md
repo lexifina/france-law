@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913763
+
+- Question : [SEQ040913763](seq040913763.md) — Droits d'auteur
+
+## Réponse
+
+*Culture, JO du 2005-06-23, page 1714*
+
+Le ministre de la culture et de la communication a l'honneur d'informer l'honorable parlementaire que les sociétés de perception et de répartition des droits d'auteur étant constituées sous forme de sociétés civiles, les dispositions pénales réprimant les abus de biens sociaux prévues par le titre IV du livre deuxième du code de commerce relatif aux sociétés commerciales ne peuvent leur être applicables. L'attribution des sommes prévues par l'article L. 321-9 du code de la priorité intellectuelle (CPI) est néanmoins assortie de diverses garanties tendant à éviter des conflits d'intérêts. Dans les sociétés, il est en effet d'usage constant que le bénéficiaire d'une aide culturelle ne participe pas aux décisions concernant l'attribution d'une aide culturelle à son bénéfice et dans certaines sociétés où la procédure d'attribution est soumise à l'examen d'une commission les statuts prévoient comme à l'ADAMI que lorsqu'un membre de la société a un intérêt direct à l'attribution d'une subvention, il ne participe ni aux débats ni au vote de la commission compétente pour l'attribution de la subvention. L'article R. 321-10 du CPI prévoit par ailleurs que l'allocation d'une aide doit faire l'objet d'une convention entre la société et le bénéficiaire de l'aide. Enfin, le montant et l'utilisation des aides font l'objet d'un rapport spécial du commissaire aux comptes en application de l'article L. 321-9 du CPI. Quant à l'éventualité de poursuites fiscales, il appartient au ministère chargé des finances d'examiner si la pratique décrite est de nature à justifier une saisine de la commission des infractions fiscales dont l'avis préalable est la condition de recevabilité d'une plainte, conformément aux dispositions de l'article L. 228 du livre des procédures fiscales.
