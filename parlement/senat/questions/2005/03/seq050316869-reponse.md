@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316869
+
+- Question : [SEQ050316869](seq050316869.md) — Avenir de l'OFAJ
+
+## Réponse
+
+*Jeunesse et sports, JO du 2005-06-23, page 1719*
+
+L'Office franco-allemand pour la jeunesse (OFAJ), qui travaille depuis plus de quarante ans au rapprochement des jeunes Allemands et Français, est l'objet d'une réforme globale qui vise à adapter ses pratiques à un environnement nouveau et à moderniser sa gestion. Cette réforme est issue des résultats d'un groupe de travail bigouvernemental à partir de deux évaluations (l'une par des experts nommés par les deux ministres chargés de la jeunesse, l'autre par une mission parlementaire franco-allemande). Sur la base de ces travaux, les gouvernements français et allemand ont signé, le 26 avril 2005, un nouvel accord intergouvernemental portant sur la réforme de l'Office franco-allemand de la jeunesse. Les principaux éléments de réforme ont porté à la fois sur les objectifs et les structures de l'OFAJ. Ainsi, l'OFAJ disposera d'un conseil d'administration restreint, composé de quatorze membres, au sein duquel figureront, aux côtés des représentants de l'Etat, parlementaires, représentants des collectivités territoriales, mais également deux jeunes de moins de vingt-sept ans. Le Conseil d'administration définira les orientations stratégiques de la politique de l'OFAJ. Parallèlement, la représentation des partenaires associatifs de l'OFAJ sera assurée par un conseil d'orientation, composé de 24 membres. L'office et ses programmes feront désormais l'objet d'une évaluation régulière selon des modalités définies par les deux gouvernements. Enfin, le nouvel accord définit également les nouvelles missions de l'office. Les activités de l'office et les échanges bilatéraux de jeunes seront recentrés sur l'apprentissage interculturel, le soutien à l'engagement citoyen, la qualification professionnelle ainsi que l'incitation à l'apprentissage de la langue.
