@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216239
+
+- Question : [SEQ050216239](seq050216239.md) — Organisation des courses cyclistes
+
+## Réponse
+
+*Jeunesse et sports, JO du 2005-06-23, page 1718*
+
+Les contraintes qui pèsent sur les organisateurs de courses cyclistes, notamment au regard des règles de sécurité, imposent la présence d'une ambulance, et qu'un médecin soit joignable et disponible, dès lors que l'épreuve se déroule sur un circuit supérieur ou égal à dix kilomètres. Ces dispositions sont édictées dans le règlement type des épreuves cyclistes sur la voie publique, document rédigé par la Fédération française de cyclisme (FFC) dans le cadre de la délégation que cette fédération a reçue du ministère de la jeunesse, des sports et de la vie associative (MJSVA) en matière de sport cycliste. Ce document a récemment fait l'objet d'une étude approfondie entre la fédération et les services du MJSVA pour aménager un certain nombre de dispositions qui étaient devenues extrêmement contraignantes du fait notamment de la nouvelle définition donnée du « poste de secours ». La nouvelle rédaction, prenant en compte les réalités du terrain et les impératifs de la sécurité, a exigé la présence, en lieu et place du « poste de secours » antérieurement prévu, de deux secouristes titulaires de l'attestation de formation aux premiers secours (AFPS) appelés à faire face « dans l'urgence et avec efficacité aux premiers secours nécessaires en cas d'accident », ce qui correspond précisément à la compétence reconnue par l'AFPS. Lors de cette révision, la question s'est également posée des mesures supplémentaires de sécurité prévues pour les circuits de plus de dix kilomètres. Il n'est pas apparu souhaitable, pour des raisons évidentes de sécurité, de revenir sur des dispositions existantes depuis plus de dix ans, que connaissent bien les organisateurs, et qui ont fait la preuve de leur efficacité.
