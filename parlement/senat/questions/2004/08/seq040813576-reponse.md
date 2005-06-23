@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813576
+
+- Question : [SEQ040813576](seq040813576.md) — Redressement du marché de l'or à Paris et réduction des contraintes fiscales
+
+## Réponse
+
+*Économie, JO du 2005-06-23, page 1715*
+
+Euronext Paris a cessé de procéder à la procédure de cotation sur le marché libre de l'or le 16 septembre 2004, en raison du nombre d'intervenants insuffisant sur ce marché. Une solution alternative a été mise en place et proposée aux épargnants encore détenteurs d'or physique qui souhaitent revendre leur or, puisque naturellement la cessation de l'organisation de la procédure de cotation par Euronext Paris n'a pas de conséquence sur la capacité de chacun de négocier comme auparavant les pièces et lingots sur le territoire français. Ainsi, il a été décidé qu'un cours de référence de l'or fin serait quotidiennement calculé sur la base du cours londonien de référence et que ce prix indicatif, ainsi que la référence de Londres, seraient transmis à la presse financière via le canal d'information que constitue la Cote bleue. La taxe forfaitaire sur le prix de vente codifiée à l'article 150 V bis du code général des impôts est, pour les métaux précieux, les bijoux, objets d'art, de collection ou d'antiquité, représentative de l'imposition des plus-values réalisées par les particuliers dans le cadre de la gestion de leur patrimoine privé à laquelle elle se substitue. Elle a été créée pour des raisons de commodité, afin d'éviter les difficultés liées à la justification de la date et du prix d'acquisition des objets vendus et tout particulièrement des biens fongibles comme les métaux précieux. La taxation forfaitaire n'est pas en principe pénalisante ou dissuasive au regard des choix d'investissement par les particuliers. Cela étant, une réflexion sera entreprise afin d'expertiser les mesures d'adaptation envisageables pour tenir compte des conditions actuelles du marché de l'or.
