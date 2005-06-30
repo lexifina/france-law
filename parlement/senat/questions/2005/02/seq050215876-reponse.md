@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215876
+
+- Question : [SEQ050215876](seq050215876.md) — Valeur d'acquisition par succession
+
+## Réponse
+
+*Économie, JO du 2005-06-30, page 1777*
+
+L'article 50 de la loi de finances rectificative pour 2004 a modifié la définition du prix d'acquisition à retenir pour le calcul des plus-values immobilières réalisées lors de la cession d'un bien acquis à titre gratuit. Ainsi, pour les cessions de biens réalisées à compter du 1er janvier 2005, le prix d'acquisition à titre gratuit s'entend nécessairement de la valeur retenue pour la détermination des droits de mutation à titre gratuit. Cette définition, qui, est également celle applicable en matière de plus-values de cession de valeurs mobilières et de droits sociaux, permet de prévenir tout écart entre l'évaluation retenue pour l'application des droits de mutation à titre gratuit et, celle retenue pour le calcul de la plus-value. Le prix d'acquisition à titre gratuit continue donc à s'entendre de la valeur vénale du bien au jour de la mutation à titre gratuit qui l'a fait entrer dans le patrimoine du cédant au sens de l'article 761 du code général des impôts diminuée, le cas échéant, de l'abattement prévu à l'article 764 bis du même code. La circonstance que le cédant bénéficie d'une exonération ou d'abattements, autres que celui prévu à l'article 764 bis du code général des impôts, est sans incidence sur la valeur vénale à retenir pour la détermination de la plus-value imposable. Par ailleurs, il est admis, lorsque la succession ne devait donner lieu à aucune imposition ou lorsqu'elle n'était pas imposable en France, de retenir la valeur qui figure dans l'attestation immobilière à la condition que celle-ci corresponde à la valeur du bien, précisée ci-dessus, au jour de la mutation à titre gratuit qui l'a fait entrer dans le patrimoine du cédant.
