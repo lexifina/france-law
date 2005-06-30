@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316754
+
+- Question : [SEQ050316754](seq050316754.md) — Indemnisation des Français de Côte d'Ivoire
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-06-30, page 1763*
+
+Dès les premiers jours suivant leur retour, des mesures ont été adoptées, visant à faciliter un accès rapide des Français rapatriés de Côte d'Ivoire à diverses prestations sociales : prestations familiales, revenu minimum d'insertion, couverture maladie universelle, inscriptions scolaires et inscriptions sur les listes de demandeurs de logement social. S'agissant de leur réinstallation sur le territoire national, le Gouvernement a souhaité manifester à nos compatriotes la solidarité de la nation en leur étendant, à titre exceptionnel, par décret n° 2004 du 10 décembre 2004, le bénéfice de mesures prévues en 1962 en faveur des rapatriés des pays précédemment placés sous la souveraineté française et qui accédaient à l'indépendance. Le décret n° 1388-2004 du 23 décembre 2004 a institué, par ailleurs, des aides financières destinées à couvrir les premières dépenses de réinstallation. L'octroi d'une subvention de reclassement pour les personnes souhaitant se réinstaller durablement en France pour y créer une entreprise est également prévue. Ce dispositif obéissait à un objectif précis : aider, dans une situation d'urgence, nos compatriotes à se réinsérer dans le milieu français. Dans ce contexte, il ne prévoit pas l'indemnisation des pertes matérielles et de revenus subies en Côte d'Ivoire du fait des événements qui s'y sont produits. Il convient de rappeler qu'aucun dispositif permanent n'existe dans la législation française autorisant l'indemnisation, au titre de la solidarité nationale, des Français expatriés ayant subi des pertes matérielles du fait de troubles politiques survenus dans un Etat étranger.
