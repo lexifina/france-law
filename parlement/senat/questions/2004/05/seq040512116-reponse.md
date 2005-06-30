@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512116
+
+- Question : [SEQ040512116](seq040512116.md) — Difficultés soulevées par l'application des dispositions de l'article 788-II et III du code général des impôts
+
+## Réponse
+
+*Économie, JO du 2005-06-30, page 1773*
+
+Le III de l'article 788 du code général des impôts dans sa rédaction issue de la loi de finances pour 2005 prévoit, en matière de droits de succession, l'application sous certaines conditions d'un abattement sur la part nette de tout héritier, donataire ou légataire, correspondant soit à la valeur des biens reçus du défunt et remis par le successible à une fondation reconnue d'utilité publique, répondant aux conditions fixées au b du 1 de l'article 200 du code précité, soit aux sommes versées par celui-ci à une association reconnue d'utilité publique répondant aux mêmes conditions, à l'Etat ou à un organisme mentionné à l'article 794 du même code en remploi des sommes, droits ou valeurs reçus du défunt. Ces dispositions ont été commentées dans une instruction du 28 janvier 2005 (BOI 7 G-2-05). Elles ont vocation à s'appliquer uniquement lorsque le don est effectué en faveur d'organismes exerçant leur activité en France. Toutefois, ce principe de territorialité ne s'oppose pas à la prise en compte des dons faits à des associations françaises qui ont pour objet de recueillir des dons, d'organiser et de contrôler, à partir de la France, un programme humanitaire d'aide en faveur des populations en détresse dans le monde. Il est précisé que la circonstance, par l'effet le cas échéant d'une convention internationale, la transmission du bien par le successible à une association étrangère soit elle-même exonérée de droits de mutation à titre gratuit, est sans incidence sur l'application des règles de territorialité du III de l'article 788 du code général des impôts.
