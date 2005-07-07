@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216147
+
+- Question : [SEQ050216147](seq050216147.md) — Enseignants mis à disposition
+
+## Réponse
+
+*Éducation, JO du 2005-07-07, page 1829*
+
+Au sein du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, les personnels enseignants mis à disposition ont connu plusieurs organes gestionnaires depuis 2000. Un bilan des mises à disposition depuis 2000 est en cours de réalisation par la DESCO. Toutefois, les informations suivantes peuvent d'ores et déjà être communiquées. Les enseignants sont affectés au sein de quatre catégories d'organismes : les autres administrations de l'Etat et les établissements publics administratifs, les organismes publics et privés, les organisations intergouvernementales et les associations. Concernant les années 2000 à 2003, les mises à disposition ont représenté 942 équivalents temps plein ou ETP ( année scolaire 2000-2001), 936 ETP (année scolaire 2001-2002) et 904 ETP (année scolaire 2002-2003). Au titre de l'année scolaire 2003-2004, les mises à disposition concernaient 1 168 personnes physiques, soit 1 091 ETP dont 249 ont fait l'objet d'un remboursement à l'Etat. Dans une logique d'efficience du partenariat et de ses moyens, la DESCO a souhaité renforcer les outils d'évaluation des personnels mis à disposition. Elle met ainsi en place une politique de conventionnement visant à définir plus précisément les activités des personnels mis à disposition et assignant des objectifs à l'organisme bénéficiaire. Les durées des mises à disposition sont variables selon la convention conclue entre le ministère et l'organisme bénéficiaire. En tout état de cause, les mises à disposition de personnels enseignants ne peuvent excéder six années conformément à l'article 6 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions.
