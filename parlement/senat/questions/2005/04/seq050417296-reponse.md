@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417296
+
+- Question : [SEQ050417296](seq050417296.md) — Guichet unique pour l'accueil des étudiants étrangers
+
+## Réponse
+
+*Éducation, JO du 2005-07-07, page 1832*
+
+Le Gouvernement a rendu publiques un certain nombre de mesures relatives à l'attractivité de la France pour les étudiants étrangers. En effet, le Premier ministre a présenté, le 7 février 2005, trente-cinq mesures visant en particulier à attirer les meilleurs étudiants étrangers et les meilleurs chercheurs internationaux, à améliorer l'accueil des personnes étrangères de haute qualification. La douzième mesure a trait à l'amélioration des procédures administratives relatives à l'entrée et au séjour des étudiants étrangers qui prévoit la simplification des démarches à effectuer par les étudiants étrangers avec la possibilité de créer des guichets d'accueil au sein des établissements d'enseignement supérieur leur permettant de déposer leur demande de titre de séjour. Seule la remise effective du titre de séjour nécessitera un déplacement en préfecture. La création de tels guichets uniques est déjà pratiquée par les deux tiers des établissements. Elle résulte d'une convention signée entre l'université et les services préfectoraux, conformément aux articles L. 712-2 et L. 712-3 combinés du code de l'éducation, qui consiste « à prendre en charge les rendez-vous en préfecture pour les demandes de cartes de séjour des étudiants étrangers, délivrer un accusé de réception de prise de rendez-vous, éditer des convocations et transmettre à l'étranger la liste des pièces à fournir pour la préfecture ». Ce dispositif ayant largement fait ses preuves tant pour les services administratifs que pour les candidats étrangers, le ministère ne peut qu'encourager sa généralisation, laquelle devrait intervenir à court terme.
