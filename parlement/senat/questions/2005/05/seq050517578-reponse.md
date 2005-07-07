@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517578
+
+- Question : [SEQ050517578](seq050517578.md) — Nuisances générées par l'entraînement d'avions militaires au-dessus de Grostenquin
+
+## Réponse
+
+*Défense, JO du 2005-07-07, page 1822*
+
+Conformément au décret n° 99-16 du 8 janvier 1999 portant réglementation de la circulation aérienne militaire, les équipages de l'armée de l'air effectuent leurs activités aériennes sur l'ensemble du territoire national dans le respect des règles de vol prescrites par la réglementation en vigueur. Les entraînements sont toujours réalisés avec le souci d'assurer le meilleur niveau de sécurité des équipages tout en limitant, autant que possible, les désagréments subis par les populations. Les vols font l'objet de programmes bien précis, autorisés par les commandants d'unité, conformément aux directives de l'état-major de l'armée de l'air. Les avions de combat évoluant dans la zone où se situe la commune de Grostenquin respectent les règles de la circulation aérienne militaire du vol à vue, qui prévoit de ne pas descendre en dessous de 500 pieds (150 mètres), et les conditions de survol des agglomérations, indiquées sur les cartes aéronautiques. La réglementation en vigueur prévoit une hauteur minimale de survol de 1 000 pieds (300 mètres) pour les très petites agglomérations, dans un rayon de 600 mètres. S'agissant des contrôles sur les conditions d'exécution de ces entraînements, l'observation visuelle à terre d'un survol ne permet pas de vérifier si les règles en matière d'altitude et de vitesse sont respectées. L'armée de l'air opère ces vérifications sur le vol des avions de combat par restitution radar des trajectoires. Ces informations sont alors conservées pendant un mois, en application du règlement de circulation aérienne 2-10 du 29 janvier 1999 et de l'arrêté du 20 octobre 2004 relatif aux enregistrements des données relatives à la gestion du trafic aérien, à leur conservation et à leur restitution.
