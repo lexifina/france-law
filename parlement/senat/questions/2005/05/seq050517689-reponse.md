@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517689
+
+- Question : [SEQ050517689](seq050517689.md) — Critères d'obtention de la carte du combattant en Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 2005-07-07, page 1820*
+
+Les dispositions inscrites à l'article 123 de la loi de finances pour 2004, permettent, depuis le 1er juillet 2004, de reconnaître la qualité de combattant aux intéressés, dès lors qu'ils totalisent 4 mois de présence sur les territoires concernés, sans obligation d'avoir appartenu à une unité combattante. La prise en compte, pour l'attribution de la carte du combattant, d'une certaine durée de présence en Afrique du Nord, est justifiée par le risque encouru par les militaires exposés à l'insécurité générée par les méthodes de guérilla employées durant ces conflits. Ce dispositif ne saurait donc s'appliquer qu'assorti de la condition contraignante d'avoir effectivement subi la tension résultant du risque diffus. Il doit dès lors se limiter aux périodes et aux territoires concernés par ces opérations, excluant la prise en compte de la période passée en métropole par les militaires évacués sanitaires, avant d'avoir pu satisfaire au temps de service requis. A contrario, les périodes d'hospitalisation passées dans les différents hôpitaux militaires en Algérie entrent de plein droit dans le dispositif militaire en cause et sont, par conséquent, prises en compte dans le calcul de la durée de présence exigée par les textes. Il convient toutefois de noter que des dispositions particulières exonèrent certaines catégories d'évacués sanitaires de la condition de durée de présence sur les territoires d'Afrique du Nord. Il en est ainsi des militaires qui ont été évacués pour blessure reçue ou maladie contractée en unité combattante. Il n'est pas envisagé de modifier ce dispositif.
