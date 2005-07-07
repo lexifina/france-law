@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316614
+
+- Question : [SEQ050316614](seq050316614.md) — Tarification EDF-GDF pour les collectivités locales
+
+## Réponse
+
+*Industrie, JO du 2005-07-07, page 1834*
+
+La loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électricité et au service public de l'énergie a défini les conditions d'exercice de l'éligibilité sans pour autant traiter explicitement de la question des nouveaux sites. Quant à la loi n° 2004-803 du 9 août 2004, en son article 30, destiné à préciser les conditions d'exercice de l'éligibilité, celui-ci n'effectue pour l'Etat, les établissements publics et les collectivités locales aucune distinction entre les contrats existants et les nouveaux contrats. Deux nouvelles dispositions adoptées par le Parlement en deuxième lecture du projet de loi d'orientation sur l'énergie vont clarifier cette question. La première disposition, article 13 sexies, précise que jusqu'au 31 décembre 2007 tout nouveau site de consommation de gaz naturel éligible peut prétendre aux tarifs réglementés mentionnés à l'article 7 de la loi du 3 janvier 2003, à condition que « ces droits n'aient pas été précédemment exercés pour ce site, par ce consommateur ou par une autre personne ». La seconde disposition, article 13 quinquies, complétant l'article 30 de la loi du 9 août 2004 précitée, précise que « lorsqu'elles exercent ces droits pour un de leurs sites de consommation, ces personnes appliquent les procédures dudit code déterminées en fonction de la consommation de ce site et peuvent conserver le ou les contrats de fourniture de leurs autres sites de consommation ». Ces deux articles, s'ils étaient définitivement adoptés dans la loi d'orientation sur l'énergie, permettraient de répondre pleinement aux soucis des collectivités locales pour l'exercice de leur éligibilité.
