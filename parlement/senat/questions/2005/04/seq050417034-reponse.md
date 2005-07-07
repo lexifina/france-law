@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417034
+
+- Question : [SEQ050417034](seq050417034.md) — Bilan de la gratuité des livres scolaires fournis
+
+## Réponse
+
+*Éducation, JO du 2005-07-07, page 1831*
+
+Si la gratuité de l'enseignement s'applique aux activités obligatoires qui se déroulent dans les établissements scolaires publics, dans le cadre de l'emploi du temps des élèves, les fournitures individuelles qui restent à terme la propriété exclusive de l'élève, et dont font partie les manuels scolaires, ne relèvent pas de ce principe et restent à la charge des familles. Cependant, des collectivités publiques peuvent, de manière spécifique, prévoir leur prise en charge, totale ou partielle. C'est le cas par exemple pour les manuels scolaires au collège, acquis sur crédits d'Etat, et prêtés aux élèves au titre de l'aide apportée aux familles. En l'absence d'une mesure nationale similaire pour les manuels scolaires en lycée, des conseils régionaux ont fait le choix, depuis plusieurs années, d'assurer leur gratuité ou de participer à celle-ci, au moyen de crédits versés aux établissements, d'aides directes aux familles sous forme de cartes à puce ou de chèques-livres, ou d'achats de collections qui deviennent propriété de l'établissement et sont prêtées aux élèves. Libres de leur décision en ce domaine, les conseils régionaux le sont aussi dans le choix des modalités de l'aide qu'ils désirent mettre en place. A la rentrée 2004, la quasi-totalité des conseils régionaux avaient choisi d'assurer, totalement ou partiellement, cette gratuité. Il n'est pas prévu, actuellement, de dresser un bilan national de ces actions. Cependant, des conseils régionaux, notamment le conseil régional de Bretagne, ont d'ores et déjà mené des études sur ce thème avant d'opter pour les modalités pratiques de mise en oeuvre de la gratuité qui leur paraissaient les plus adaptées.
