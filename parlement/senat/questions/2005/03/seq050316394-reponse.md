@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316394
+
+- Question : [SEQ050316394](seq050316394.md) — Situation des foyers ruraux
+
+## Réponse
+
+*Agriculture, JO du 2005-07-07, page 1817*
+
+Le ministère de l'agriculture et de la pêche soutient les associations d'animation rurale par l'intermédiaire de conventions financières, de mises à disposition de fonctionnaires et du financement de postes FONJEP. Les foyers ruraux ont à cet égard bénéficié en 2004 de quarante-trois postes FONJEP et de cinq mises à disposition. Conscient des difficultés de trésorerie rencontrées par ces associations, dans le contexte budgétaire de l'année 2004, le ministère a versé un soutien exceptionnel aux associations qui bénéficiaient de conventions pluriannuelles pour la période 2000-2003, afin de les aider à passer le cap de la fin de l'année. Ainsi, en tenant compte des subventions, des mises à disposition et des postes FONJEP, la Confédération nationale des foyers ruraux a perçu, au titre de l'année 2004, 71 % de la dotation 2003, soit 912 285 euros. Pour l'année 2005, le soutien financier du ministère sera attribué, à titre transitoire et expérimental, selon les lignes directrices publiées par voie électronique sur son site Internet, qui prennent en considération les orientations prises avec la loi du 23 février 2005 relative au développement des territoires ruraux. La Confédération nationale des foyers ruraux a présenté une demande dans ce cadre ; le montant qui pourra lui être attribué sera déterminé après examen de l'ensemble des demandes. Par la suite, le ministère prévoit de lancer un appel à projets en septembre 2005, afin que les actions des organismes intervenant dans l'animation et le développement des territoires ruraux, les conventions annuelles et pluriannuelles ouvertes pour une nouvelle période, et le soutien qu'il apporte, soient effectifs dès le début de l'année 2006.
