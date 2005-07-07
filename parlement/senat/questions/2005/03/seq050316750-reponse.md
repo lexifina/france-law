@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316750
+
+- Question : [SEQ050316750](seq050316750.md) — Cession de commerce sous forme de location gérance
+
+## Réponse
+
+*Économie, JO du 2005-07-07, page 1825*
+
+L'article 1684-3 du code général des impôts dispose que le propriétaire d'un fonds de commerce est solidairement responsable avec l'exploitant de cette entreprise des impôts directs établis à raison de l'exploitation de ce fonds. Cette responsabilité du propriétaire du fonds de commerce qui n'est effectivement pas limitée dans le temps s'applique uniquement aux impôts liés à l'exploitation du fonds de commerce laissés impayés par l'exploitant. Elle trouve son fondement dans le fait que ce dernier ne dispose pas d'actif pour garantir le recouvrement des impôts liés à l'exploitation du fonds de commerce. Cependant, le propriétaire peut se prémunir contre une éventuelle mise en cause en exigeant le dépôt d'un cautionnement lors de la signature du contrat de location-gérance. Par ailleurs, au cours de la période d'exploitation, il lui est possible de se tenir informé sur l'évolution de la situation fiscale du locataire-gérant. En effet, l'article L. 105 du livre des procédures fiscales dispose que les comptables chargés du recouvrement des impôts directs délivrent des bordereaux de situation aux personnes qui en font la demande dans la mesure où ces documents concernent les contribuables eux-mêmes ou les personnes auxquelles le paiement de l'impôt peut être demandé à leur place. Enfin, si le propriétaire du fonds de commerce est mis en cause pour recouvrer les impôts laissés impayés par le gérant, il lui est toujours possible de présenter au trésorier-payeur général une demande en décharge de responsabilité sur les fondements de l'article L. 247 du livre des procédures fiscales précisant que l'administration peut décharger de leur responsabilité les personnes tenues au paiement d'impositions dues par un tiers.
