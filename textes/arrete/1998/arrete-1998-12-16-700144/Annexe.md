@@ -12,7 +12,7 @@ COMPTABLE
 
 |
 
-Musée d'Orsay.
+Musée du Moyen Age, thermes et hôtel de Cluny.
 
 |
 
@@ -20,7 +20,7 @@ Payeur général du Trésor.
 
 |
 
-Musée des thermes et de l'hôtel de Cluny.
+Musée Picasso, à Paris.
 
 |
 
@@ -28,31 +28,7 @@ Payeur général du Trésor.
 
 |
 
-Musée Picasso.
-
-|
-
-Payeur général du Trésor.
-
-|
-
-Musée des arts africains et océaniens.
-
-|
-
-Payeur général du Trésor.
-
-|
-
-Musée des arts et traditions populaires.
-
-|
-
-Payeur général du Trésor.
-
-|
-
-Musée Guimet et d'Ennery.
+Musée des civilisations de l'Europe et de la Méditerranée.
 
 |
 
@@ -68,22 +44,6 @@ Payeur général du Trésor.
 
 |
 
-Musée Eugène-Delacroix (ordonnateur secondaire : directeur du musée d'Orsay).
-
-|
-
-Payeur général du Trésor.
-
-|
-
-Musée Hébert (ordonnateur secondaire : directeur du musée d'Orsay).
-
-|
-
-Payeur général du Trésor.
-
-|
-
 Musée des châteaux de Malmaison et de Bois-Préau.
 
 |
@@ -92,7 +52,7 @@ Trésorier-payeur général des Hauts-de-Seine.
 
 |
 
-Musée des antiquités nationales au château de Saint-Germain-en-Laye.
+Musée d'archéologie nationale (des origines à l'an mille), château de Saint-Germain-en-Laye.
 
 |
 
@@ -100,7 +60,7 @@ Trésorier-payeur général des Yvelines.
 
 |
 
-Musée de la Renaissance au château d'Ecouen.
+Musée de la Renaissance, château d'Ecouen.
 
 |
 
@@ -108,7 +68,7 @@ Trésorier-payeur général du Val-d'Oise.
 
 |
 
-Musée de la céramique.
+Musée de la céramique, à Sèvres.
 
 |
 
@@ -124,7 +84,7 @@ Trésorier-payeur général des Pyrénées-Atlantiques.
 
 |
 
-Musée Magnin.
+Musée Magnin, à Dijon.
 
 |
 
@@ -132,7 +92,7 @@ Trésorier-payeur général de la Côte-d'Or.
 
 |
 
-Musée Adrien-Dubouché.
+Musée de la porcelaine Adrien Dubouché, à Limoges.
 
 |
 
@@ -140,11 +100,11 @@ Trésorier-payeur général de la Haute-Vienne.
 
 |
 
-Musée des deux victoires.
+Musée Clemenceau et de Lattre de Tassigny, à Mouilleron-en-Pareds.
 
 |
 
-Trésorier-payeur général de la Loire-Atlantique.
+Trésorier-payeur général de la Loire-Alantique.
 
 |
 
@@ -156,7 +116,7 @@ Trésorier-payeur général des Alpes-Maritimes.
 
 |
 
-Musée des Granges de Port-Royal à Magny-les-Hameaux.
+Musée de Port-Royal des Champs, à Magny-les-Hameaux.
 
 |
 
@@ -164,7 +124,7 @@ Trésorier-payeur général des Yvelines.
 
 |
 
-Musée de préhistoire des Eyzies-de-Tayac.
+Musée de la préhistoire des Eyzies-de-Tayac.
 
 |
 
