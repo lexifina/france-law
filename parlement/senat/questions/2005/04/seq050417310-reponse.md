@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417310
+
+- Question : [SEQ050417310](seq050417310.md) — Révision du zonage ICHN
+
+## Réponse
+
+*Agriculture, JO du 2005-07-14, page 1894*
+
+Les indemnités compensatoires de handicaps naturels (ICHN), dans le dispositif actuel de la programmation 2000-2006, visent à soutenir les exploitants des zones de montagne, des autres zones défavorisées ainsi que des zones affectées de handicaps spécifiques. Cette mesure du règlement développement rural vise à maintenir une communauté rurale viable tout en préservant l'espace naturel. La délimitation des zones défavorisées est fondée sur des critères physiques pour les zones de montagne et sur des critères physiques et économiques pour les autres zones. Dans le projet de règlement concernant le soutien au développement rural pour la période 2007-2013, la Commission a proposé que la délimitation soit fondée uniquement sur des critères physiques, notamment pour répondre aux observations de la Cour des comptes européenne. Compte tenu des conséquences qu'impliquerait cette réforme, les autorités françaises ont fait part de leur inquiétude auprès du commissaire européen chargé de l'agriculture et du développement rural et lors des réunions du Conseil des ministres de l'agriculture. Le maintien de l'agriculture dans les zones difficiles figure au rang des priorités de la délégation française. Celle-ci veillera à ce que l'exercice d'actualisation des zones selon des critères physiques objectifs ne remette pas en cause les équilibres actuels. A la demande de la France, le Conseil des ministres de l'agriculture a décidé de reporter l'examen de la délimitation des zones défavorisées pour continuer l'expertise de ce dossier et conclure l'exercice sereinement. Les dispositions de l'actuel règlement resteront en vigueur jusqu'en 2010.
