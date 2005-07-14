@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316476
+
+- Question : [SEQ050316476](seq050316476.md) — Surpopulation carcérale
+
+## Réponse
+
+*Justice, JO du 2005-07-14, page 1915*
+
+Le garde des sceaux, ministre de la justice, porte à la connaissance de l'honorable parlementaire que le programme de construction de 13 200 places de détention, annoncé le 21 novembre 2002, privilégie en premier lieu les zones géographiques qui sont les plus touchées par les phénomènes de délinquance et présentent à l'heure actuelle un important déficit en capacité d'incarcération. Il vise par ailleurs à permettre aux condamnés d'effectuer leur peine d'emprisonnement dans des établissements situés à distance raisonnable de leur lieu de résidence habituelle afin de favoriser le maintien des liens familiaux et la mise en oeuvre de projets de réinsertion. Dans ce cadre, le recensement des besoins confronté à l'analyse de l'état du patrimoine pénitentiaire n'a pas permis de retenir la Moselle au titre des départements visés par le programme de modernisation, puisqu'elle dispose d'ores et déjà d'un établissement de construction récente et de forte capacité, en l'occurrence la maison d'arrêt de Metz-Queuleu mise en service en 1979. La Lorraine sera toutefois dotée d'un nouvel établissement de 690 places qui sera réalisé sur le territoire de l'agglomération de Nancy. Ce centre pénitentiaire, qui permettra de couvrir les besoins prioritaires sur ce secteur géographique et de concrétiser la fermeture de la maison d'arrêt de Nancy, contribuera à pallier les phénomènes récurrents de surencombrement affectant l'établissement de Metz en accueillant notamment les condamnés originaires du département de la Moselle. S'agissant plus spécifiquement de la commune de Boulay, le projet de réalisation d'un centre de détention de 400 places a été abandonné en 1988. Le site d'implantation, la caserne Grossetit, a par conséquent été remis, le 16 juin 1995, au ministère de la défense.
