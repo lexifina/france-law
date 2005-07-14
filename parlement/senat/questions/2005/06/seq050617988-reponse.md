@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617988
+
+- Question : [SEQ050617988](seq050617988.md) — Prix de cession d'un bien soumis à déclaration d'intention d'aliéner
+
+## Réponse
+
+*Transports et équipement, JO du 2005-07-14, page 1920*
+
+Les articles L. 213-2 et R. 213-5 du code de l'urbanisme prévoient que la déclaration d'intention d'aliéner, par laquelle le propriétaire d'un bien soumis à préemption manifeste son intention de l'aliéner, indique de manière obligatoire les prix et conditions de l'aliénation projetée. Ce sont ces prix et conditions indiqués dans la déclaration d'intention d'aliéner qui lient le titulaire du droit de préemption lorsque celui-ci décide d'acquérir un bien aux prix et conditions de la déclaration d'intention d'aliéner. Le coût de la cession peut être exprimé de manière globale ou être ventilé (prix de l'immeuble, contrepartie, différentes dépenses liées à l'aliénation...). La Cour de cassation a estimé que ne pouvaient être opposées au titulaire du droit de préemption que les conditions de la vente expressément prévues dans la déclaration d'intention d'aliéner. Ainsi, en l'absence d'indication sur le montant des honoraires de l'agence dans la déclaration d'intention d'aliéner, la commune titulaire du droit de préemption n'est pas tenue au-delà des conditions financières figurant dans la déclaration (Civ. 3e, 10 mars 1993 : Bull. civ. III : AJPI 1994, 931, note Le Coq). La rémunération des intermédiaires doit donc figurer dans la déclaration d'intention d'aliéner pour être opposable au titulaire du droit de préemption. Le titulaire du droit de préemption devra prendre en compte le montant global de la cession et non le seul prix de l'immeuble. S'agissant des meubles meublants, ils n'ont pas à figurer dans la déclaration d'intention d'aliéner, puisqu'ils sont, de par leur nature mobilière, exclus du champ d'application des droits de préemption du code de l'urbanisme.
