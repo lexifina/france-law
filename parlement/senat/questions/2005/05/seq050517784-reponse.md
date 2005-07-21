@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517784
+
+- Question : [SEQ050517784](seq050517784.md) — Changement d'appellation de la carte "Fréquence Plus"
+
+## Réponse
+
+*Culture, JO du 2005-07-21, page 1965*
+
+L'honorable parlementaire s'inquiète auprès du ministre de la culture et de la communication de la décision de la compagnie Air France de changer l'appellation de la carte Fréquence Plus en Flying Blue et l'interroge sur une éventuelle intervention de sa part auprès de la direction de cette compagnie. Le changement d'appellation de ce programme de fidélité résulte de l'alliance des deux compagnies KLM et Air France ; cette alliance constitue désormais le premier groupe aérien européen. Tout comme l'honorable parlementaire, le ministre a trouvé cette décision particulièrement inopportune. En laissant penser que l'anglais est la seule langue comprise par les clients du groupe Air France-KLM, elle contribue à affaiblir la position du français sur le plan international et décourage tous ceux qui parient sur son avenir ou font l'effort de l'apprendre. Elle persuade l'usager que la construction de l'Europe, à laquelle la constitution du groupe Air France-KLM apporte une éminente contribution, implique obligatoirement le recours à une langue qui n'est pas celle de nos concitoyens. Enfin, ce choix est contraire à la politique du Gouvernement, qui vise à concilier la libre circulation des personnes et des biens, la protection et l'information des consommateurs ou des usagers et l'emploi de la langue française auquel nos concitoyens sont légitimement attachés. Une solution plus respectueuse de notre langue, tout en étant compréhensible par les non-francophones, aurait été préférable. Le ministre est donc très rapidement intervenu en ce sens auprès du président d'Air France afin que soient examinées les possibilités d'infléchir cette décision.
