@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517806
+
+- Question : [SEQ050517806](seq050517806.md) — Organisation des entreprises libérales
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-07-21, page 1983*
+
+Le projet de création d'offices régionaux des entreprises libérales (OREL), porté par la Commission nationale de concertation des professions libérales (CNCPL), a été transmis au ministre des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales en novembre 2004. Ce projet de création a suscité des réactions négatives de la part d'un certain nombre d'ordres professionnels, relevant plus particulièrement de la santé. Les principaux arguments avancés par ces derniers reposent notamment sur le fait que, d'une part, les missions qui seraient dévolues aux OREL seraient déjà assurées par eux et que, d'autre part, le principe de la cotisation obligatoire pour financer ce projet serait difficile à faire admettre. Lors des travaux préparatoires menés par la CNCPL sur ce projet, le sondage réalisé dans le cadre de l'étude portant sur la mise en place de structures d'accueil et d'accompagnement des professionnels libéraux a montré que, même s'ils sont très favorables à la création de structures spécifiquement dédiées, une majorité d'entre eux ne souhaitent pas contribuer à leur financement. Dans ces conditions, et dans la mesure où le Gouvernement s'est engagé à ne pas augmenter les charges pesant sur les entreprises, il apparaît très difficile, en l'absence d'un consensus au sein des professionnels libéraux, d'envisager la mise en place de structures financées par une cotisation obligatoire, même d'un montant faible. En tout état de cause, lors de l'examen du projet de loi en faveur des petites et moyennes entreprises, le Sénat n'a pas retenu l'amendement visant la création des OREL.
