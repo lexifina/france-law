@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517698
+
+- Question : [SEQ050517698](seq050517698.md) — Délivrance d'un visa à un ascendant de Français
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-07-21, page 1958*
+
+En application de l'article L. 313-11, 6° du code de l'entrée et du séjour des étrangers et du droit d'asile, l'étranger qui est père ou mère d'un enfant français mineur résidant en France bénéficie de plein droit de la carte de séjour temporaire portant la mention « vie privée et familiale », sous réserve qu'il ne présente pas de menace pour l'ordre public et à la condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de l'enfant ou depuis au moins un an. Pour se prévaloir de cette qualité, le parent étranger d'un enfant français doit apporter la preuve de la nationalité française de son enfant et du lien de filiation qui les unit, justifier de la résidence en France de l'enfant et prouver qu'il contribue effectivement, à proportion de ses ressources et de celles de l'autre parent, à l'entretien et à l'éducation de l'enfant depuis sa naissance ou depuis au moins un an. Dès lors que ces conditions sont remplies, une demande de visa d'établissement peut être instruite selon les procédures habituelles applicables au visa de court séjour, facilité accordée au titre du statut privilégié dont bénéficie notamment cette catégorie de demandeurs. Le visa délivré comporte les mentions « famille de Français » et « carte de séjour à solliciter dès l'arrivée ». Les demandes de visa de court séjour pour visite familiale déposées dans ce cadre sont également instruites dans les mêmes conditions. Cependant le visa ne comporte, dans ce cas, que la mention « famille de Français ». Si les conditions énoncées ci-dessus ne sont pas remplies, un visa comportant la mention « famille de Français » ne pourra pas être délivré.
