@@ -6,4 +6,8 @@ II. - Le crédit d'impôt est plafonné au montant des dépenses de personnel af
 
 III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8, 238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-IV. - Le nombre moyen annuel d'apprentis mentionné au I s'apprécie en fonction du nombre d'apprentis dont le contrat avec l'entreprise a été conclu depuis au moins six mois.
+IV. - Le nombre moyen annuel d'apprentis mentionné au I s'apprécie en fonction du nombre d'apprentis dont le contrat avec l'entreprise a été conclu depuis au moins un mois.
+
+NOTA :
+
+NOTA : Loi 2005-841 2005-07-26 art. 36 VII : Les dispositions du IV s'appliquent aux exercices ouverts à compter du 1er janvier 2005.
