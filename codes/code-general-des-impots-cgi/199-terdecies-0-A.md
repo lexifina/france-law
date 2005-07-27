@@ -14,6 +14,8 @@ d) en cas d'augmentation de capital, le chiffre d'affaires hors taxes de la soci
 
 e) plus de 50 % des droits sociaux attachés aux actions ou parts de la société sont détenus directement, soit uniquement par des personnes physiques, soit par une ou plusieurs sociétés formées uniquement de personnes parentes en ligne directe ou entre frères et soeurs ainsi qu'entre conjoints, ayant pour seul objet de détenir des participations dans une ou plusieurs sociétés répondant aux conditions des c et d.
 
+Pour la détermination du pourcentage prévu au premier alinéa, les participations des sociétés de capital-risque, des sociétés unipersonnelles d'investissement à risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à risques, des fonds d'investissement de proximité ou des fonds communs de placement dans l'innovation (1).
+
 La condition prévue au premier alinéa n'est pas exigée en cas de souscription au capital d'entreprises solidaires au sens de l'article L. 443-3-1 du code du travail.
 
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2006. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
@@ -49,3 +51,7 @@ VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
+
+NOTA :
+
+NOTA (1) Loi 2005-842 2005-07-26 art. 2 II : Les dispositions du présent alinéa s'appliquent aux versements réalisés à compter du 1er janvier 2005.
