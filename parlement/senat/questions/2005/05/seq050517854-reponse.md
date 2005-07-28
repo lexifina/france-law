@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517854
+
+- Question : [SEQ050517854](seq050517854.md) — Parité artificielle yuan-dollar
+
+## Réponse
+
+*Affaires européennes, JO du 2005-07-28, page 2027*
+
+L'honorable parlementaire a bien voulu appeler l'attention de la ministre déléguée aux affaires européennes sur la parité yuan-dollar. Sous réserve d'accords régionaux spécifiques, le régime extérieur de la monnaie est de la compétence souveraine de chaque Etat. En particulier, la fixation du taux de change n'entre pas dans le cadre des accords ayant institué l'Organisation mondiale du commerce (OMC). Plus spécifiquement, l'accord sur les sauvegardes de 1994, annexé à l'article 19 de l'accord général sur les tarifs douaniers et le commerce (AGETAC ou GATT) de 1994, ne vise que l'accroissement des importations d'un produit causant des dommages à une branche nationale de production, accroissement lié aux conditions de production ou de prix de ce produit dans un autre pays, et non à une question générale de taux de change. L'idée de rechercher la responsabilité de la Chine au titre de l'accord sur les sauvegardes, du fait de la fixation du taux de change du renmibi, semble donc impraticable. Sur ce sujet néanmoins, la France, avec ses partenaires du G 7 Finances, demande régulièrement que les taux de change et notamment celui du renminbi disposent d'une flexibilité accrue. Dans sa déclaration du 16 avril, le G 7 Finances réaffirmait ainsi que « les taux de change doivent refléter les fondamentaux économiques... Nous insistons sur le fait que plus de flexibilité dans les taux de change est souhaitable pour les pays ou zones économiques majeures où elle fait défaut, afin de promouvoir des ajustements lissés et étendus dans le système financier international, sur la base de mécanismes de marché. »
