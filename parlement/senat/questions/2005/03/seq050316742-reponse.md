@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316742
+
+- Question : [SEQ050316742](seq050316742.md) — Stations d'eaux usées avec rejet en mer non liées à une opération d'urbanisation nouvelle
+
+## Réponse
+
+*Écologie, JO du 2005-07-28, page 2035*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant la construction de stations d'eaux usées avec rejet en mer non liées à une opération d'urbanisation nouvelle. Deux autorisations exceptionnelles ont, à ce jour, été accordées au titre de la disposition introduite dans l'article L. 146-8 du code de l'urbanisme en 1994 permettant la construction d'une station d'épuration avec rejet en mer non liée à une opération d'urbanisme. Il s'agit de la station d'épuration du cap Sicié sur la commune de La Seyne-sur-Mer (Var) par arrêté du 30 août 1994 et de l'extension du lagunage de La Ville-ès-Nonais en Ille-et-Vilaine, par arrêté du 15 mars 2005. La construction de la station d'épuration du cap Sicié a permis de répondre à l'absence de traitement des eaux usées de l'agglomération ouest de Toulon, qui jusqu'alors rejetait ses eaux usées directement en mer via un émissaire. Cette station d'épuration, conforme à la directive européenne relative au traitement des eaux usées, est entièrement enterrée. Dans le cas de La Ville-ès-Nonais, l'extension du lagunage consiste à créer un deuxième bassin de 3 000 m² et à diviser le bassin actuel de 6 000 m² en deux parties à l'aide d'une digue afin d'améliorer le traitement des effluents non satisfaisant actuellement. Ce projet a été considéré comme la meilleure alternative en termes de coûts pour la collectivité et d'insertion dans l'environnement. A ce jour, aucune demande de dérogation à la loi littorale relative à la construction de station d'épuration en mer non liée à une opération d'urbanisme n'est en instruction au ministère de l'écologie et du développement durable.
