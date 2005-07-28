@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316502
+
+- Question : [SEQ050316502](seq050316502.md) — Structures d'enseignement pour enfants précoces
+
+## Réponse
+
+*Éducation, JO du 2005-07-28, page 2041*
+
+La loi d'orientation et de programme pour l'avenir de l'école promulguée le 23 avril dernier dispose que des aménagements appropriés du cursus scolaire doivent être prévus, dans le premier et le second degrés, au profit des élèves intellectuellement précoces ou manifestant des aptitudes particulières, afin de leur permettre de développer pleinement leurs potentialités ; la scolarité peut être accélérée en fonction du rythme d'apprentissage. Les élèves intellectuellement précoces qui rencontrent des difficultés pourront bénéficier d'un parcours personnalisé de réussite éducative ; pour ces élèves dont le profil d'apprentissage est souvent complexe, l'approche individualisée permettra de tenir compte à la fois de l'avance intellectuelle et des décalages potentiels entre les différents secteurs du développement (intellectuel, moteur, affectif, social) qui induisent des perturbations de l'efficience scolaire. La loi prévoit également que des établissements scolaires pourront se regrouper pour proposer des structures d'accueil adaptées ; les solutions qui ont été expérimentées pourront ainsi être multipliées et adaptées, d'autres seront recherchées pour correspondre aux besoins diagnostiqués et aux ressources locales. La formation des enseignants prendra en compte la connaissance des besoins particuliers des élèves et des réponses à leur apporter ; la précocité intellectuelle appartient à ce registre de préoccupations. Les textes d'application de la loi sont en cours d'élaboration ; des directives précises seront données afin que, pour les élèves intellectuellement précoces comme pour les autres, l'école valorise leurs capacités et leurs talents.
