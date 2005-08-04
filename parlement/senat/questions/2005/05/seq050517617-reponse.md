@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517617
+
+- Question : [SEQ050517617](seq050517617.md) — Avis de la commission d'appel d'offres pour une augmentation du montant initial d'un marché
+
+## Réponse
+
+*Économie, JO du 2005-08-04, page 2086*
+
+Il résulte de la lecture combinée des articles L. 2122-22-4° du code général des collectivités territoriales et 28 du code des marchés publics que le maire peut, par délégation du conseil municipal, être chargé, pour la durée de son mandat de prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de fournitures et de services qui peuvent être passés selon la procédure adaptée, lorsque les crédits sont inscrits au budget. Toutefois, l'article 49-1 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques apporte une restriction à cette délégation de l'assemblée délibérante dans la mesure où il ne précise pas que l'obligation de transmission à la commission d'appel d'offres pour avis, et au conseil municipal pour délibération, d'un projet d'avenant augmentant de plus de 5 % le montant initial d'un marché ne concerne que les marchés ayant été passés selon une procédure formalisée. Il s'ensuit que l'article 49-1 trouve à s'appliquer lorsque le projet d'avenant augmente de plus de 5 % le montant initial d'un marché formalisé ou passé selon la procédure adaptée. En conséquence, la passation de tout projet d'avenant à un marché formalisé ou passé selon la procédure adaptée entraînant une augmentation du montant global du marché supérieure à 5 % doit être soumise pour avis à la commission d'appel d'offres et être autorisée par une délibération du conseil municipal quand bien même le maire dispose d'une délégation pour l'exécution des marchés qui peuvent être passés selon la procédure adaptée.
