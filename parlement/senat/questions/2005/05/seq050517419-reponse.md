@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517419
+
+- Question : [SEQ050517419](seq050517419.md) — Indemnisation des victimes de la pollution provoquée par le naufrage du "Prestige"
+
+## Réponse
+
+*Économie, JO du 2005-08-11, page 2127*
+
+A la suite du sinistre du Prestige, le Gouvernement a confié à différents corps d'inspection une mission d'évaluation des dommages potentiels. Comme dans le cas du sinistre de l'Erika, il était effectivement redouté un impact majeur sur l'économie dépendant de la fréquentation touristique. On rappellera que dans ce dernier sinistre les demandes d'indemnisation déposées concernant ce secteur d'activité étaient au nombre de près de 4 000 pour un montant dépassant 130 millions d'euros. Les conséquences du naufrage du Prestige, pour de multiples facteurs, n'ont pas eu cette ampleur dramatique. A ce jour, en effet, les demandes déposées au titre des activités touristiques s'élèvent à environ 150 demandes, pour un montant total d'un peu plus de 17 millions d'euros. En revanche, le Gouvernement ne peut que partager le souci exprimé quant au caractère inquiétant du rythme des indemnisations. Le ministre de l'économie, des finances et de l'industrie est récemment intervenu personnellement auprès de l'administrateur du FIPOL pour lui faire part des délais anormaux mis par ses services dans le traitement des demandes. En effet, seul un quart des dossiers déposés dans ce secteur a abouti à un règlement. S'agissant enfin du niveau d'indemnisation actuellement fixé à 15 % des préjudices reconnus, le Gouvernement, près de trois ans après le sinistre, est persuadé qu'il pourrait être relevé mais cela passe par un nécessaire travail d'expertise des dossiers déposés que le FIPOL n'a pas encore mené à son terme. L'Etat continue à rechercher avec les deux autres Etats concernés, en vue du comité exécutif d'octobre prochain, tous les moyens d'accélérer l'indemnisation des victimes et le relèvement du taux d'indemnisation.
