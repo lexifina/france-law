@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618080
+
+- Question : [SEQ050618080](seq050618080.md) — Revalorisation de la valeur du point des pensions militaires d'invalidité
+
+## Réponse
+
+*Anciens combattants, JO du 2005-08-11, page 2121*
+
+Le ministre délégué aux anciens combattants souhaite rappeler à l'honorable parlementaire que le Gouvernement a décidé, dans le cadre du budget pour 2005, de modifier l'article L. 8 bis du code des pensions militaires d'invalidité et des victimes de la guerre. L'article 117 de la loi de finances pour 2005 précise à cet effet que la valeur du point de pension militaire d'invalidité est désormais révisée proportionnellement à l'évolution de l'indice INSEE des traitements bruts de la fonction publique de l'État, à la date de cette évolution, et non plus de manière rétroactive comme dans le dispositif en vigueur depuis 1990. Cet indice sera donc désormais la seule référence pour l'évolution du point de pension militaire d'invalidité. Cette amélioration était souhaitée par de nombreuses associations d'anciens combattants et met fin à un système peu clair que le Gouvernement souhaitait réformer. Le décret n° 2005-597 du 27 mai 2005 fixant la valeur du point d'indice de pension militaire d'invalidité au 1er janvier 2005 en application de l'article R. 1 du code des pensions militaires d'invalidité et des victimes de la guerre, a été publié au Journal officiel de la République française du 29 mai 2005. Celle-ci est ainsi fixée, à cette date, à 12,89 EUR ; cette valeur a été portée, par ce même texte en application des dispositions de l'article 117 déjà cité, à 12,95 EUR au 1er février 2005, compte tenu de la variation de l'indice d'ensemble des traitements de la fonction publique de l'État. Ces dispositions permettent une revalorisation régulière des pensions militaires d'invalidité ou de la retraite du combattant.
