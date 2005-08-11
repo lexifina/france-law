@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316273
+
+- Question : [SEQ050316273](seq050316273.md) — Escroqueries sur le réseau Internet
+
+## Réponse
+
+*Économie, JO du 2005-08-11, page 2127*
+
+Le commerce sur internet a progressé de façon spectaculaire (60 % en 2004), même si ce mode de vente à distance ne représente encore que 3 % du commerce de détail en France. Tous les litiges rencontrés sur internet ne constituent pas des escroqueries. S'agissant des infractions les plus courantes (information du consommateur sur les prix et sur l'identité du vendeur, délai de réflexion accordé par l'acheteur, obligation de livraison dans un délai de trente jours, etc.), elles sont régies par le code de la consommation, ainsi que par la loi sur la confiance dans l'économie numérique du 21 juin 2004 qui est venue préciser les obligations du vendeur sur internet. Le respect de ces dispositions est strictement contrôlé par les services de l'Etat dans les mêmes conditions que l'est le commerce classique. En outre, les sites de vente sur internet font l'objet d'une surveillance constante du Centre de surveillance du commerce électronique, mis en place en novembre 2000, qui s'attache à prévenir le développement de pratiques illicites pouvant s'opérer au détriment du cyberconsommateur. Près de 1 500 contrôles ont ainsi été réalisés pour l'année 2004, qui ont abouti à un taux d'infractions présumées de 30 %. Ces infractions aux dispositions du code de la consommation et de la loi du 21 juin 2004 (défaut d'informations obligatoires sur les supports publicitaires, de respect des règles relatives à la publicité des prix ou à la publicité trompeuse et, en nombre plus restreint, infractions aux obligations sur la sécurité des produits et à la réglementation sur les soldes) ont donné lieu à des rappels de réglementation ou des procès-verbaux selon la gravité des manquements relevés.
