@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618422
+
+- Question : [SEQ050618422](seq050618422.md) — Moyens des CAF
+
+## Réponse
+
+*Sécurité sociale, JO du 2005-08-11, page 2137*
+
+Les négociations menées par la Caisse nationale des allocations familiales et l'Etat pour la signature de la convention d'objectifs et de gestion 2005-2008, portant plus particulièrement sur l'évolution du fonds national d'action sociale (FNAS) de la branche, sont terminées. Le ministre délégué à la sécurité sociale, aux personnes âgées, aux personnes handicapées et à la famille est maintenant en mesure de vous préciser que pour la période 2005-2008, les ressources du FNAS augmenteront de 7,5 % par an, soit une augmentation de plus de 30 % sur la période. Ce sont ainsi 2,4 milliards d'euros supplémentaires qui iront à l'action sociale de la branche famille. Les montants consacrés au FNAS auront presque doublé entre 2002 et 2008. Ces augmentations permettront de respecter l'ensemble des engagements déjà pris par les caisses, notamment auprès des collectivités locales et des centres sociaux. 26 000 places de crèches ont déjà été créées depuis 2002. 31 000 places supplémentaires seront réalisées sur la période 2005-2008. 15 000 places supplémentaires seront créées, conformément aux objectifs fixés par le Premier ministre. Les financements seront orientés en priorité vers les territoires dont les besoins sociaux sont les plus importants, notamment ceux qui souffrent d'un retard en matière d'équipements pour la petite enfance. Ces engagements seront tenus et intégrés dans la future convention d'objectifs et de gestion dont la signature interviendra dans la deuxième quinzaine du mois de juillet. Ainsi, la politique familiale que le Gouvernement entend mener s'adaptera aux besoins des jeunes couples pour leur permettre d'avoir et d'élever le nombre d'enfants qu'ils souhaitent et de mieux concilier leur vie familiale et professionnelle.
