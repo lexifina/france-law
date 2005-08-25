@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417382
+
+- Question : [SEQ050417382](seq050417382.md) — Congés payés des entreprises du paysage
+
+## Réponse
+
+*Agriculture, JO du 2005-08-25, page 2166*
+
+L'attention du ministère de l'agriculture et de la pêche a été attirée sur la question de l'affiliation aux caisses de congés payés du bâtiment et des travaux publics des entreprises paysagistes. Lors de la discussion du projet de loi relatif au développement des territoires ruraux, les parlementaires avaient souhaité clarifier les conditions de cette affiliation. Cependant, il s'est avéré que cette question relevait du domaine réglementaire. C'est pourquoi le Gouvernement s'est engagé à préparer un décret afin de prendre en compte les préoccupations exprimées par les Parlementaires. Ce décret s'appliquera non seulement aux entreprises paysagistes mais aussi à l'ensemble des entreprises dites « mixtes ». Il prévoit l'exonération de l'obligation d'affiliation pour les entreprises dès lors que leur activité de bâtiment et de travaux publics n'est pas significative. Pour les entreprises qui ne seraient pas exonérées de cette affiliation, le texte organise le service de congés sur la base des avantages conventionnels prévus par la convention collective appliquée dans l'entreprise et non de ceux prévus par les conventions collectives du bâtiment et des travaux publics. Dès lors, le surcoût lié à l'affiliation aux caisses de congés sera neutralisé et tous les salariés de l'entreprise bénéficieront d'un régime de congés payés équivalent. Un projet allant dans ce sens a été présenté le 1er juillet 2005 aux organisations professionnelles représentant les secteurs du paysage, du bâtiment et des travaux publics, ainsi qu'aux caisses de congés payés. Les professionnels vont examiner au regard des situations concrètes d'exécution des travaux paysagers si le projet de décret répond à leurs préoccupations. Dans l'affirmative, le décret pourra être publié à l'automne.
