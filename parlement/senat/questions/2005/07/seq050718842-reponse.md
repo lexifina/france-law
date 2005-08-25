@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718842
+
+- Question : [SEQ050718842](seq050718842.md) — Edification d'une stèle à la gloire de l'OAS
+
+## Réponse
+
+*Anciens combattants, JO du 2005-08-25, page 2175*
+
+Le ministre délégué aux anciens combattants tient à préciser à l'honorable parlementaire que la dénomination des rues, places ou édifices publics relève de la compétence exclusive des communes. Jusqu'à l'intervention de la loi n° 70-1297 du 31 décembre 1970 sur la gestion communale et les libertés communales, les délibérations des conseils municipaux relatives à des dénominations constituant des hommages publics étaient soumises à autorité préalable des autorités supérieures. Il n'est pas envisagé de revenir sur ces dispositions incompatibles avec le principe de libre administration des communes. Ainsi, lorsque la délibération est prise dans le respect des formes et des procédures, l'Etat ne peut s'opposer au choix d'une municipalité. Cependant, le ministre a fait connaître qu'il condamnait ces initiatives qui choquent légitimement tous ceux qui sont attachés à l'oeuvre historique du général de Gaulle et au respect des institutions de la République contre lesquelles les membres de l'OAS ont recouru aux moyens les plus violents et les plus condamnables. Le Gouvernement, conscient de la vivacité des blessures qui marquent encore toutes les composantes de la communauté nationale à propos de cette page douloureuse de l'histoire de la France, s'efforce, au contraire, d'apaiser les passions que ravive ce genre d'initiative qui crée un risque important pour la cohésion nationale. La volonté du Gouvernement est que toutes les victimes de la guerre d'Algérie puissent trouver la sérénité plus de quarante ans après la fin de ce conflit. S'agissant plus particulièrement de la ville de Marignane, le maire a annulé la cérémonie annoncée, à la suite de l'intervention du ministre délégué aux anciens combattants et du préfet.
