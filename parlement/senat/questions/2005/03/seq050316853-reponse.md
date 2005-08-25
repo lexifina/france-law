@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316853
+
+- Question : [SEQ050316853](seq050316853.md) — Réimplantation de vignes sur les côtes de Moselle
+
+## Réponse
+
+*Affaires européennes, JO du 2005-08-25, page 2163*
+
+L'honorable parlementaire a bien voulu interroger la ministre déléguée aux affaires européennes sur la position du Gouvernement en ce qui concerne la plantation nouvelle de vignes de consommation familiale. Le décret n° 2002-1486 du 20 décembre 2002 relatif à la gestion du potentiel de production viticole, pris en application des règlements communautaires, autorise dans certaines conditions restrictives, les plantations de vignes aptes à produire des vins d'appellation d'origine, les vignes destinées à produire des vins de pays et la plantation de vignes à des fins très particulières (remembrement, expérimentation, vignes mères de greffon). Ainsi, à titre d'illustration, le développement d'une production, qu'il s'agisse d'un vin d'appellation d'origine ou d'un vin de pays, n'est possible que si l'existence d'une demande supérieure à l'offre est prouvée. Cette exigence se traduit par la mise en place pour chaque production de « tableaux de bord » retraçant la santé économique de chaque dénomination. Les contingents d'autorisations de plantation sont arrêtés sur la base de ces tableaux de bord et en fonction des demandes exprimées par les syndicats de défense des vins de pays ou des vins d'appellation concernés. Dans le contexte actuel du marché viti-vinicole, caractérisé par une baisse de la consommation intérieure et une concurrence accrue à l'exportation, la réglementation nationale ne permet pas la plantation de vignes aptes à produire des vins pour la consommation familiale. En conséquence, aucune plantation de vignes de raisin de cuve n'est possible dans ce seul objectif.
