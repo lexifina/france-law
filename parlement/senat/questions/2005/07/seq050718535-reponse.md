@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718535
+
+- Question : [SEQ050718535](seq050718535.md) — Subventions aux associations
+
+## Réponse
+
+*Jeunesse et sports, JO du 2005-08-25, page 2197*
+
+La vie associative constitue pour notre pays un élément essentiel au renforcement du lien social et de la solidarité entre les générations. La création, depuis 2004, d'un ministère chargé de la vie associative ainsi que le lancement, en 2005, de la conférence nationale de la vie associative témoignent de la reconnaissance par le Gouvernement du rôle éminent joué par les associations dans notre société. Dès la constitution du nouveau gouvernement, le ministre de la jeunesse, des sports et de la vie associative a évoqué avec le Premier ministre, M. Dominique de Villepin, l'importance qui s'attachait, dans un contexte budgétaire contraint, à préserver dans la mesure du possible les financements consacrés aux réseaux nationaux de jeunesse et d'éducation populaire, ainsi qu'à la formation des bénévoles au travers du conseil de développement de la vie associative. Les décisions nécessaires ont donc été prises et les associations se sont vu notifier par les services du ministère de la jeunesse, des sports et de la vie associative, il y a quelques jours, le montant de leur subvention 2005. Ces financements ont été accordés en privilégiant les actions qui s'inscrivent dans le coeur des politiques ministérielles en direction de la jeunesse et pour le soutien à l'éducation populaire. Les acteurs historiques des réseaux nationaux de jeunesse et d'éducation populaire, membres du CNAJEP, continueront ainsi à bénéficier des financements nécessaires au développement de leurs activités. L'ensemble de ces mesures, qui répondent aux préoccupations des responsables du CNAJEP, leur ont été récemment présentées lors d'une réunion qui s'est tenue au ministère de la jeunesse, des sports et de la vie associative.
