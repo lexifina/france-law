@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718519
+
+- Question : [SEQ050718519](seq050718519.md) — Devenir de la sécurité sociale minière
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-08-25, page 2202*
+
+Le Gouvernement est particulièrement attentif à la situation du régime minier et au maintien des droits spécifiques des mineurs et de leurs familles. La baisse démographique de la population minière et les difficultés financières qui en résultent ont conduit le Gouvernement à demander un état des lieux du régime aux inspections générales des affaires sociales et des finances afin d'envisager l'avenir du régime dans la perspective d'une meilleure qualité de service rendu aux assurés et d'une garantie de leurs droits. Pour accompagner la mise en place d'une politique de qualité de service, le Gouvernement a procédé à l'adaptation des structures administratives par le décret n° 2004-1172 du 2 novembre 2004 et a autorisé le libre choix du professionnel de santé aux affiliés du régime, sans modification de leur droit aux prestations. Pour faciliter l'exercice de ce droit, ceux-ci seront prochainement dotés de la carte Vitale. Cette mesure permet un accès aux soins de proximité à une population vieillissante souvent confrontée à des problèmes de mobilité. Pour autant, le libre choix du professionnel de santé n'interdit pas aux affiliés du régime minier de conserver leur médecin minier comme médecin traitant. Parallèlement, le réseau de soins du régime minier, qui a démontré son savoir-faire, va être modernisé et ouvert à l'ensemble de la population, en particulier dans des régions sous-équipées sur le plan sanitaire. Cette réforme, qui vise à pérenniser les acquis du régime minier, a été soutenue par le conseil d'administration de la Caisse autonome nationale de la sécurité sociale dans les mines, qui s'est prononcée lors de sa séance du 16 juin en faveur du décret précité et de la convention d'objectifs et de gestion, qui a été signée le 30 mai 2005.
