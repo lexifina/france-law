@@ -1,5 +1,7 @@
 # Article Annexe
 
+<
+
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -968,7 +970,7 @@ Article 1er.
 
 |
 
-Décisions entrant dans le champ des compétences de la direction du Trésor
+Décisions entrant dans le champ des compétences de la direction générale du Trésor et de la politique économique
 
 Code des assurances
 
@@ -1034,30 +1036,6 @@ Articles L. 325-1, R. 325-11 et R. 325-12.
 
 Code des caisses d'épargne
 
-1
-
-|
-
-Décision entraînant la perte des intérêts acquis par le titulaire d'un premier livret de caisse d'épargne visé à l'article 5 du code des caisses d'épargne.
-
-|
-
-Article 17.
-
-|
-
-2
-
-|
-
-Décision relative aux caractéristiques des prêts octroyés sur les fonds d'épargne, par la Caisse des dépôts et consignations, dans le secteur du logement social et de la politique de la ville ainsi que les décisions relatives à la gestion de ces encours.
-
-|
-
-Article 19.
-
-|
-
 Code de la construction et de l'habitation
 
 1
@@ -1114,6 +1092,130 @@ Loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992), article 71, et loi
 
 |
 
+Code monétaire et financier
+
+1
+
+|
+
+Décision d’inscrire une agence de notation sur la liste prévue à l’article D. 213-3.
+
+|
+
+Article D.* 213-4.
+
+|
+
+2
+
+|
+
+Décision de frapper les contrevenants aux dispositions du 3
+
+e
+
+alinéa de l’article L. 221-1 d’une
+
+pénalité.
+
+|
+
+Article R.* 221-7.
+
+|
+
+3 |
+
+Décision de frapper les contrevenants aux dispositions des articles L. 221-13 à L. 221-17 et aux dispositions des articles R. 221-37 à R. 221-39, R. 221-42, R. 221-45, D. 221-46, R. 221-47 et R. 221-54 et décision de retrait total ou partiel de l’habilitation à délivrer le compte sur livret d’épargne populaire prévue à l’article R. 221-56.
+
+|
+
+Article R.* 221-57.
+
+|
+
+4 |
+
+Signature de la convention entre le ministre et l’organisme délivrant des plans d’épargne
+
+populaire.
+
+|
+
+Article R.* 221-67.
+
+|
+
+5 |
+
+Sanction de l’infraction aux règles prévues à l’article L. 221-26 par la perte des intérêts du
+
+livret jeune.
+
+|
+
+Article R.* 221-82.
+
+|
+
+6 |
+
+Signature de la convention avec l’organisme délivrant des livrets jeune.
+
+|
+
+Article R.* 221-99.
+
+|
+
+7 |
+
+Retrait d’habilitation d’un organisme délivrant le livret jeune.
+
+|
+
+Article R.* 221-102.
+
+|
+
+8 |
+
+Autorisation de remettre des amendes encourues en application de l’article L. 312-3.
+
+|
+
+Article D.* 351-4.
+
+|
+
+9 |
+
+Autorisation pour les sociétés de développement régional d’apporter leur concours à des
+
+sociétés privées qui ont pour objet statutaire de contribuer directement au développement,
+
+à la conversion ou à l’adaptation des activités mentionnées à l’article R. 516-21.
+
+|
+
+Article R.* 516-22.
+
+|
+
+10 |
+
+Accord préalable du ministre chargé des postes et télécommunications et à agrément du
+
+ministre chargé de l’économie permettant l’offre, par La Poste, pour son compte propre, de
+
+nouveaux produits d’épargne et de placements financiers.
+
+|
+
+Article R.* 518-44.
+
+|
+
 Loi de finances rectificative pour 1971
 
 1
@@ -1138,7 +1240,7 @@ Autorisation des sociétés de développement régional (SDR) à porter leur par
 
 |
 
-Article 1 c.
+Article 1.
 
 |
 
@@ -1166,8 +1268,6 @@ Décision entrainant la perte par le titulaire d'un livret d'épargne populaire 
 
 |
 
-Article 19.
-
 |
 
 Décret n° 83-359 du 2 mai 1983 pris pour l'application de l'article 94-II de la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981)
@@ -1179,8 +1279,6 @@ Décret n° 83-359 du 2 mai 1983 pris pour l'application de l'article 94-II de l
 Habilitation des intermédiaires financiers teneurs de comptes.
 
 |
-
-Article 1er.
 
 |
 
@@ -1196,8 +1294,6 @@ Refus d'autorisation d'un investissement direct étranger en France.
 
 |
 
-Article 12.
-
 |
 
 Décret n° 90-116 du 5 février 1990 relatif au plan d'épargne populaire
@@ -1209,8 +1305,6 @@ Décret n° 90-116 du 5 février 1990 relatif au plan d'épargne populaire
 Signature de la convention entre l'Etat et un organisme gestionnaire d'épargne populaire.
 
 |
-
-Article 1er.
 
 |
 
@@ -1237,8 +1331,6 @@ Décret n° 92-137 du 13 février 1992 relatif aux titres de créances négociab
 Agrément des agences de notation appelées à noter les programmes d'émission des titres de créances négociables.
 
 |
-
-Article 6.
 
 |
 
@@ -1293,8 +1385,6 @@ Décret n° 96-367 du 2 mai 1996 relatif au livret jeune
 Décision entraînant la perte des intérêts acquis par le titulaire en méconnaissance de la réglementation sur le livret jeune.
 
 |
-
-Article 5.
 
 |
 
