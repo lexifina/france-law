@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316345
+
+- Question : [SEQ050316345](seq050316345.md) — Fresques murales
+
+## Réponse
+
+*Transports et équipement, JO du 2005-09-01, page 2262*
+
+Le régime juridique de ce type d'installation est défini avec précision, mais les textes sont dispersés dans le code de l'urbanisme. L'article L. 421-1, 2e alinéa, du code de l'urbanisme prévoit que « le même permis de construire est exigé pour les travaux exécutés sur les constructions existantes, lorsqu'ils ont pour effet d'en changer la destination, de modifier leur aspect extérieur ou leur volume ou de créer des niveaux supplémentaires ». Toutefois, l'article R. 422-2 (m) dudit code soumet à simple déclaration de travaux les travaux qui ne créent pas de surface de plancher et qui ne créent pas plus de 20 mètres carrés de surface hors oeuvre brute sur un terrain déjà bâti. Les fresques murales sont donc soumises aux dispositions précitées et doivent faire l'objet d'une déclaration de travaux car elles ne constituent pas des constructions d'oeuvre d'art au sens des dispositions de l'article R. 421-1 du code de l'urbanisme qui exclut du champ du permis de construire les statues, monuments et oeuvres d'art. La rédaction du code de l'urbanisme peut parfois sembler confuse. L'article 20 de la loi de simplification du droit n° 2004-1343 du 9 décembre 2004 autorise le Gouvernement à prendre par ordonnance les mesures nécessaires pour redéfinir le champ d'application et simplifier les règles de délivrance des déclarations et autorisations d'utiliser le sol, regrouper les procédures de délivrance des actes et redéfinir les procédures de contrôle de la conformité des travaux. Actuellement, l'élaboration d'un avant-projet d'ordonnance et de décret est en cours d'achèvement et fait l'objet d'une concertation très large.
