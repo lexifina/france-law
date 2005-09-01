@@ -1,10 +1,8 @@
 # Article annexe 1
 
-ANNEXE TABLEAUX ANNEXES
-
 REGIONS représentées au comité de bassin :
 
-Rhône-Méditerranée-Corse
+Rhône-Méditerranée
 
 NOMBRE de représentants :
 
@@ -22,7 +20,7 @@ Rhône-Alpes : 1
 
 DEPARTEMENTS représentés au comité de bassin :
 
-Rhône-Méditerranée-Corse :
+Rhône-Méditerranée :
 
 NOMBRE de représentants :
 
@@ -35,12 +33,6 @@ Saône-et-Loire : 1
 Champagne-Ardenne :
 
 Haute-Marne : 1
-
-Corse :
-
-Corse-du-Sud : 1
-
-Haute-Corse : 1
 
 Franche-Comté :
 
