@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618205
+
+- Question : [SEQ050618205](seq050618205.md) — Station marine d'Endoume
+
+## Réponse
+
+*Écologie, JO du 2005-09-01, page 2249*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à la vente de trois des quatre bâtiments de la station marine d'Endoum, e à Marseille. Elle a immédiatement adressé une lettre au directeur général du Centre national de la recherche scientifique (CNRS), dans laquelle elle indique son attachement à la recherche sur la biodiversité marine et à la préservation des espaces littoraux remarquables comme celui des calanques. Il appartiendra effectivement à cet organisme de définir, avec sa tutelle, quelles sont ses priorités en matière de recherche sur les écosystèmes littoraux et de considérer avec un esprit de responsabilité l'importance de maintenir un nombre minimum d'observatoires et de structures de recherche de terrain capables de traiter ces problèmes scientifiques complexes dans toutes leurs dimensions. Plus généralement, la ministre de l'écologie et du développement durable souhaite saisir cette occasion pour réaffirmer son attachement à la stratégie nationale de la biodiversité que le Gouvernement a voulu avec force et qui se traduira par une série de plans d'action. A cet égard, un plan d'action recherche est en préparation. Il est souhaitable que les travaux de la station marine d'Endoume contribuent à cet ensemble de recherches et d'observations au niveau national. Les collectivités locales se sont mobilisées pour défendre cette station, le CNRS a été alerté. La ministre de l'écologie et du développement durable souhaite que chacun prenne ses responsabilitésafin qu'une solution satisfaisante et durable soit trouvée dans l'intérêt de la recherche en écologie du littoral en général et de la Méditerranée en particulier.
