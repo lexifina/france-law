@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618067
+
+- Question : [SEQ050618067](seq050618067.md) — Statut des établissements publics d'habitations à loyer modéré
+
+## Réponse
+
+*Emploi, JO du 2005-09-01, page 2256*
+
+Le projet de loi Habitat pour tous, qui sera examiné par le Parlement dans les mois qui viennent, prévoit de moderniser le statut des offices publics d'habitations à loyer modéré (OPHLM) et celui des offices publics d'aménagement et de construction (OPAC), en les unifiant sous le nouveau statut des offices publics de l'habitat (OPH), qui seront des établissements publics à caractère industriel et commercial. Cette réforme vise à assurer la permanence d'un secteur public de l'habitat social performant et à donner aux collectivités locales des outils efficaces pour la mise en oeuvre de leur politique locale de l'habitat. Elle conforte le statut public des offices, qui restent des établissements publics locaux. Elle ne constitue en aucune manière une atteinte aux missions de service public assurées par les offices dans le domaine du logement social. Ce projet ne remet pas en cause le statut des fonctionnaires en poste dans ces organismes. Ils conservent tous les droits attachés à leur statut dont celui de faire carrière dans leur propre établissement ou dans un autre établissement, voire une collectivité. Ils pourront donc rester en position normale d'activité au sein de l'établissement. Ils pourront également, s'ils le souhaitent, être soumis aux conditions d'emploi et de rémunération des salariés employés au sein de l'établissement selon les règles du droit du travail. Si le statut d'établissement public industriel et commercial ne permet plus, depuis la réforme du statut général de la fonction publique réalisée en 1983, le recrutement direct de fonctionnaires, les offices publics de l'habitat pourront toutefois recruter des fonctionnaires par la voie du détachement ou par mutation à la suite d'une promotion ou d'un concours.
