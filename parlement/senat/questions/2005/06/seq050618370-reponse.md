@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618370
+
+- Question : [SEQ050618370](seq050618370.md) — Droits des gendarmes originaires d'un département d'outre-mer
+
+## Réponse
+
+*Défense, JO du 2005-09-08, page 2303*
+
+Le régime des bénéfices de campagne attribués aux militaires, qu'ils soient originaires de la métropole ou d'un département d'outre-mer, est fixé par les articles L. 12 C et R. 14 à R. 19 du code des pensions civiles et militaires de retraite (CPCMR). Ces bénéfices sont fonction soit de la nature des services effectués (opérations de guerre, service sur le pied de guerre, temps de captivité), soit du territoire où sont accomplis les services. Dans ce cadre, les services effectués outre-mer ouvrent droit à des bénéfices de campagne. L'article R. 14 C du CPCMR prévoit toutefois que les militaires originaires d'un département ou territoire d'outre-mer ne peuvent bénéficier de bonifications pour campagne lorsqu'ils sont en service sur leur territoire d'origine. En effet, cet avantage de pension reposé en particulier sur des critères de dépaysement. Est, à cet égard, considéré originaire d'un département ou territoire d'outre-mer le militaire : né et domicilié au moment de son recrutement, dans un département ou territoire d'outre-mer ; né dans un département ou territoire d'outre-mer et dont l'un au moins des ascendants directs, père ou mère, est lui-même né dans ce département ou territoire et y réside ; dont les ascendants directs, père et mère, sont nés et résident dans un département ou territoire d'outre-mer, même s'il n'y est pas né. Le titre IV de l'instruction n° 24700 P/DEF/GEND/P/SO du 3 août 1988 évoquée par l'honorable parlementaire ne fait que confirmer l'application de ces règles générales aux sous-officiers de gendarmerie originaires d'un département d'outre-mer, en matière de solde, de frais de déplacement et de droit au bénéfice de campagne retenu dans la liquidation de la pension.
