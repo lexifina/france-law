@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517434
+
+- Question : [SEQ050517434](seq050517434.md) — Publication des décrets prévus à l'article 8 de la loi de santé publique
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-08, page 2312*
+
+La loi n° 2004-806 relative à la politique de santé publique fixe un ensemble cohérent d'objectifs de santé publique et affirme la responsabilité de l'Etat dans le processus d'élaboration et de réalisation des programmes. L'article L. 1411-11 du code de la santé publique prévoit ainsi que le préfet de région arrête, après avis de la conférence de santé publique CRS, le plan régional de santé publique (PRSP) et dispose d'un groupement régional de santé publique (GRSP) pour assurer sa mise en oeuvre. La mise en place effective du dispositif au 1er janvier 2006 suppose effectivement que soient publiés au préalable plusieurs textes d'ordre réglementaire, à savoir deux décrets en Conseil d'Etat pour préciser le rôle, la composition et les modalités de fonctionnement, d'une part des CRS, d'autre part des GRSP, et un décret simple pour définir la convention constitutive type de ces derniers. Après une large procédure de concertation qui témoigne de la volonté d'ouverture et de partenariat des pouvoirs publics, les organismes d'assurance maladie dont la consultation est obligatoire et la Haute Assemblée ont été officiellement saisis début juillet des projets de texte. La publication des décrets devrait donc intervenir au plus tard début septembre. La procédure de concertation liée à l'élaboration des PRSP ayant d'ores et déjà été lancée dans les régions, ce calendrier permet aux acteurs régionaux de disposer du délai nécessaire pour prendre en compte la diversité des situations locales, approfondir les diagnostics et définir les équilibres permettant à chacun de trouver, selon ses compétences et ses priorités, sa juste place dans la conduite des actions de santé publique.
