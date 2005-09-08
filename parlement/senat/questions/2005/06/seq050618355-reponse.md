@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618355
+
+- Question : [SEQ050618355](seq050618355.md) — Situation à venir des centres d'activités aéronautiques sportives et de loisir
+
+## Réponse
+
+*Jeunesse et sports, JO du 2005-09-08, page 2312*
+
+Le ministre de la jeunesse, des sports et de la vie associative est attentif au devenir des activités aéronautiques sportives et de loisirs, considérant notamment que la culture aéronautique française, reconnue et respectée au niveau international, est due pour une grande part à l'engagement et aux résultats sportifs des dizaines de milliers de pratiquants qui, au sein des huit fédérations de sports aériens, vivent leur passion du vol sous toutes ses formes. C'est dans cet esprit qu'il a sollicité l'an dernier M. le sénateur Belot pour la conduite d'une mission sur l'aviation sportive et de loisirs. Le rapport a été remis au Premier ministre en novembre 2004. Saisi par le président du Conseil national des fédérations aéronautiques et sportives du projet d'arrêté évoqué, et conscient des difficultés que les dispositions envisagées étaient susceptibles de faire peser sur le développement de ces activités, le ministre est intervenu pour approfondir les réflexions en cours et faire entendre le point de vue des fédérations. A l'issue de cette concertation interministérielle, et à l'occasion de la venue du Premier ministre au salon du Bourget, les services du ministre chargé des transports ont annoncé que ce projet n'était plus d'actualité. Pour l'avenir, le ministre de la jeunesse, des sports et de la vie associative reste vigilant afin que les pratiquants, licenciés ou non auprès d'une fédération sportive, puissent continuer à satisfaire leur passion et que les associations et leurs bénévoles puissent continuer à s'engager dans le développement et l'encadrement d'un tissu aéronautique qui joue un rôle important auprès des jeunes et qui suscite de nombreuses vocations vers les métiers de l'aéronautique.
