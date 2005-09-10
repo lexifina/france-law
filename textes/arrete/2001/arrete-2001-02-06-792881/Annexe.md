@@ -942,7 +942,7 @@ Chlorure d'argent déposé sur dioxyde de titane.
 
 |
 
-Chlorure de benzéthonium.
+Chlorure de benzéthonium (INCI).
 
 |
 
@@ -950,7 +950,9 @@ Chlorure de benzéthonium.
 
 |
 
-Produits de rinçage uniquement.
+a) Produits rincés ;
+
+b) Produits non rincés autres que les produits d'hygiène buccale
 
 |
 
@@ -1013,6 +1015,16 @@ Carbamate de 3-iodo-2-propynylbutyle.
 |
 
 Contient de l'iode.
+
+|
+
+57 |
+
+Méthylisothiazolinone (INCI) |
+
+0,01 % |
+
+|
 
 |
 
