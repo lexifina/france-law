@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050416948
+
+- Question : [SEQ050416948](seq050416948.md) — Dernier acompte dans le règlement des marchés publics
+
+## Réponse
+
+*Économie, JO du 2005-09-15, page 2357*
+
+Il est exact que le juge financier sanctionne par un débet le comptable public qui paie la totalité des sommes résultant d'un marché public dans le cadre d'acomptes. Ainsi, en reprochant au comptable de ne pas disposer, pour le règlement du dernier acompte, des pièces justificatives afférentes au solde, le juge requalifie le paiement du dernier acompte en paiement du solde. De même, il est exact qu'aucun texte n'interdit que le solde d'un marché public puisse être nul, voire négatif. Aucune disposition du code des marchés publics n'interdit à un acheteur public de régler par acomptes successifs la totalité d'un marché au fur et à mesure de son exécution. Il peut donc être procédé au paiement du dernier acompte dès lors que les prestations correspondantes ont été réalisées. Le montant versé des acomptes cumulé représente alors 95 % du montant du marché si une retenue de garantie est prévue au contrat ou 100 % du montant du marché dans le cas contraire. Dans ces conditions, la direction générale de la comptabilité publique a pris l'attache d'associations représentatives des élus afin de résoudre les difficultés rencontrées et de permettre un déroulement harmonieux de l'exécution financière des marchés publics. Il en est résulté, le 16 juin 2005, l'envoi d'une lettre-circulaire à l'ensemble des trésoriers-payeurs généraux. Cette lettre-circulaire rappelle la réglementation, notamment la nécessité de distinguer les deux phases que constituent le dernier acompte et le solde. De plus, pour éviter toute ambiguïté, elle prévoit la certification par l'ordonnateur qu'il s'agit du dernier acompte lors du mandatement de ce dernier si le montant total du marché est atteint. Le principe de cette certification a reçu l'aval des associations précitées.
