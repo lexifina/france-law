@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050818972
+
+- Question : [SEQ050818972](seq050818972.md) — Respect de normes nationales de sécurité contre l'inflammabilité des produits de rembourrage
+
+## Réponse
+
+*Économie, JO du 2005-09-15, page 2359*
+
+Les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes ont été chargés d'élaborer un projet de décret relatif à la sécurité de certains meubles rembourrés. Ce projet prévoit que les meubles rembourrés devront respecter une exigence de résistance à l'allumage par une cigarette incandescente. Cette option constitue une première étape de réglementation, qui pourra être ultérieurement renforcée. La consultation interministérielle sur ce texte est actuellement presque achevée ; il sera ensuite soumis aux professionnels et à la commission de la sécurité des consommateurs et notifié à la Commission européenne. Ce projet constitue un des moyens mis en oeuvre pour lutter contre les incendies domestiques, dans le cadre de la démarche générale voulue par le Gouvernement pour mieux prévenir les accidents de la vie courante. Avec l'élaboration d'une réglementation, cette lutte passe en effet par la réalisation d'une campagne d'information et de sensibilisation en matière d'incendies domestiques. Cette campagne, menée en 2004, prévoit en particulier la diffusion de conseils de vigilance (comportements à risque à proscrire pour prévenir les incendies, gestes à adopter en cas d'incendie, vérification des installations de gaz, d'électricité et de chauffage), ainsi que des incitations à équiper les habitations en détecteurs-avertisseurs de fumées. La diffusion des dépliants de cette campagne sera reconduite en 2005, à l'occasion notamment de manifestations organisées en direction du grand public auxquelles les pouvoirs publics participent avec d'autres partenaires publics ou privés.
