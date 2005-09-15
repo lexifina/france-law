@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718929
+
+- Question : [SEQ050718929](seq050718929.md) — Financement des associations de jeunesse et d'éducation populaire
+
+## Réponse
+
+*Jeunesse et sports, JO du 2005-09-15, page 2365*
+
+La vie associative constitue pour notre pays un élément essentiel au renforcement du lien social et de la solidarité entre les générations. La création, depuis 2004, d'un ministère chargé de la vie associative, ainsi que le lancement, en 2005, de la conférence nationale de la vie associative, témoignent de la reconnaissance par le Gouvernement du rôle éminent joué par les associations dans notre société. Dès la constitution du nouveau gouvernement, le ministre de la jeunesse, des sports et de la vie associative a évoqué avec le Premier ministre, M. Dominique de Villepin, l'importance qui s'attachait, dans un contexte budgétaire contraint, à préserver dans la mesure du possible les financements consacrés aux réseaux nationaux de jeunesse et d'éducation populaire, ainsi qu'à la formation des bénévoles au travers du conseil de développement de la vie associative. Les décisions nécessaires ont donc été prises et les associations se sont vues notifier par les services du ministère de la jeunesse, des sports et de la vie associative, il y a quelques jours, le montant de leur subvention 2005. Ces financements ont été accordés en privilégiant les actions qui s'inscrivent dans le coeur des politiques ministérielles en direction de la jeunesse et pour le soutien à l'éducation populaire. L'ensemble de ces mesures, qui répondent aux préoccupations des responsables du comité pour les relations nationales et internationales des associations de jeunesse et d'éducation populaire (CNAJEP), leur ont été récemment présentées lors d'une réunion qui s'est tenue au ministère de la jeunesse, des sports et de la vie associative.
