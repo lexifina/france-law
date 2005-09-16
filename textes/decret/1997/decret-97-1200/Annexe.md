@@ -204,6 +204,14 @@ Article 2.
 
 |
 
+2 |
+
+Reconnaissance de qualification, en vue de l’inscription en France à un tableau régional d’architectes, des personnes physiques titulaires de diplômes, certificats et autres titres délivrés par un Etat tiers lorsque ces diplômes, certificats et autres titres ont été reconnus dans un Etat membre de la Communauté européenne et permettent d’y exercer légalement la profession d’architecte.
+
+|
+
+Article 5-1. |
+
 Décret n° 83-4 du 4 janvier 1983 modifié portant application de l'article 89 de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle
 
 1
