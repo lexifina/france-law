@@ -1,0 +1,5 @@
+# Article 1er
+
+Pour tout chauffeur-livreur nouvellement recruté, non titulaire de sa FIMO, la formation pourra avoir lieu dans les 3 mois suivant son embauche pour le motif justifié suivant : délai d'obtention d'une place auprès de l'organisme de formation.
+
+L'entreprise et le chauffeur devront pouvoir produire un document prouvant l'inscription nominative du chauffeur au stage de formation et la date de sa réalisation.
