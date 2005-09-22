@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718921
+
+- Question : [SEQ050718921](seq050718921.md) — Apprentissage en matière de restauration des monuments historiques
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-09-22, page 2419*
+
+Une des conditions économiques fondamentales du développement de l'apprentissage dans un secteur déterminé, et, de manière générale, de la formation professionnelle initiale, est que les entreprises de ce secteur aient des perspectives d'activité suffisantes et pérennes. Au-delà de mesures spécifiques de soutien, l'orientation des jeunes vers des métiers dont les débouchés resteront limités ne doit pas être encouragée plus que nécessaire alors que d'autres secteurs vitaux pour le développement de l'économie connaissent une situation tendue sur le marché du travail. Dans ce contexte, le ministère des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales demeure très attentif au maintien et à la promotion du patrimoine vivant. L'article 23 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises, crée un label « entreprise du patrimoine vivant » qui a pour objectif de permettre aux entreprises qui détiennent un savoir-faire rare, renommé ou ancestral, reposant sur la maîtrise de techniques traditionnelles ou de haute technicité, de mieux médiatiser et de valoriser leurs spécificités auprès de leurs clients mais aussi dans leurs efforts de recrutement. Les textes d'application qui définiront plus précisément le champ d'application et le mode de gestion du dispositif sont en cours d'élaboration. Ils mettront également en place un système d'appui du ministère des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales en faveur des entreprises labellisées.
