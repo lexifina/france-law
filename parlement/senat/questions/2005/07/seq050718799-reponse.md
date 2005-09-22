@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718799
+
+- Question : [SEQ050718799](seq050718799.md) — Financement de la protection sociale des non salariés agricoles
+
+## Réponse
+
+*Agriculture, JO du 2005-09-22, page 2409*
+
+Concernant le financement du régime de protection sociale des non-salariés agricoles, il convient tout d'abord de rappeler qu'il n'existe aucun risque de non-versement des prestations par ce régime. Comme c'est le cas depuis plus de quarante ans pour les régimes agricoles, et comme c'est le cas pour l'ensemble des régimes de base de sécurité sociale, les engagements pris seront tenus par la collectivité nationale. Il est cependant exact que des difficultés portant sur l'équilibre comptable de ce régime sont apparues en 2004 et 2005. Le Gouvernement est pleinement conscient du fait que si un déficit peut être accepté sur une ou deux années, il est nécessaire de trouver rapidement des solutions permettant de retrouver un équilibre pérenne. Ces solutions doivent tenir compte du fait que, compte tenu de la situation démographique du régime, plus de 80 % de ces recettes proviennent de l'Etat, sous la forme de taxes affectées, et des autres régimes de sécurité sociale, par les mécanismes de compensation démographique. Elles doivent donc s'inscrire dans les grands équilibres des finances publiques. Une mission commune des inspections générales des finances, des affaires sociales et de l'agriculture a été chargée d'étudier les différentes solutions et a remis son rapport au Gouvernement. Au vu notamment de ce rapport, différentes hypothèses sont en cours de discussion entre l'ensemble des partenaires concernés. Un plan d'ensemble pourra être proposé dans le cadre des projets de lois de finances et de financement de la sécurité sociale pour 2006.
