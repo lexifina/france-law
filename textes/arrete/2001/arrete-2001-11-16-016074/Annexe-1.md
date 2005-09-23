@@ -762,11 +762,11 @@ X
 
 |
 
-Dunes maritimes des rivages méditerranéens
+Dunes maritimes des rivages atlantiques, de la mer du Nord et de la Baltique
 
 |
 
-22
+21
 
 |
 
@@ -800,11 +800,19 @@ X
 
 |
 
-Dunes à Euphorbia terracina
+Dunes côtières fixées à végétation
+
+herbacée (dunes grises)
 
 |
 
-2220
+2130
+
+|
+
+*
+
+|
 
 |
 
@@ -813,10 +821,6 @@ Dunes à Euphorbia terracina
 |
 
 X
-
-|
-
-|
 
 |
 
@@ -928,44 +932,6 @@ X
 
 |
 
-Dunes intérieures, anciennes et décalcifiées
-
-|
-
-23
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Landes psammophiles sèches à Calluna et Genista
-
-|
-
-2310
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
 Dunes intérieures avec pelouses ouvertes à Corynephorus et Agrostis
 
 |
@@ -1036,13 +1002,9 @@ Eaux oligotrophes très peu minéralisées des plaines sablonneuses (Littorellet
 
 |
 
-X
-
 |
 
 |
-
-X
 
 |
 
@@ -1059,8 +1021,6 @@ Eaux oligotrophes très peu minéralisées sur sols généralement sableux de l'
 |
 
 |
-
-X
 
 |
 
@@ -1464,6 +1424,8 @@ X
 
 |
 
+X
+
 |
 
 X
@@ -1585,24 +1547,6 @@ X
 |
 
 X
-
-|
-
-FOURRÉS SCLEROPHYLLES (MATORRALS)
-
-|
-
-5
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1820,49 +1764,11 @@ X
 
 |
 
-Phryganes
-
-|
-
-54
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Phryganes ouest-méditerranéennes des sommets de falaise (Astralago-Plantaginetum subulatae)
 
 |
 
 5410
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-Phryganes endémiques du Euphorbio-Verbascion
-
-|
-
-5430
 
 |
 
@@ -1979,6 +1885,8 @@ Pelouses calaminaires du Violetalia calaminariae
 |
 
 |
+
+X
 
 |
 
@@ -2118,6 +2026,8 @@ X
 
 |
 
+X
+
 |
 
 X
@@ -2159,6 +2069,8 @@ Pelouses steppiques subpannoniques
 6240
 
 |
+
+*
 
 |
 
@@ -2809,6 +2721,8 @@ Eboulis médio-européens siliceux des régions hautes
 X
 
 |
+
+X
 
 |
 
@@ -3468,6 +3382,8 @@ X
 
 |
 
+X
+
 |
 
 Galeries et fourrés riverains méridionaux (Nerio-Tamaricetea et Securinegion tinctoriae)
@@ -3546,6 +3462,8 @@ X
 
 |
 
+X
+
 |
 
 Forêts à Quercus ilex et Quercus rotundifolia
@@ -3565,6 +3483,8 @@ X
 X
 
 |
+
+X
 
 |
 
@@ -3771,6 +3691,124 @@ Bois méditerranéens à Taxus baccata
 |
 
 *
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+LANDES ET FOURRÉS TEMPÉRÉS
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fourrés de Salix spp. subarctiques |
+
+4080
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+FORÊTS
+
+|
+
+9
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Forêts de l'Europe tempérée
+
+|
+
+91
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vieilles chênaies des îles britanniques
+
+à Ilex et Blechnum
+
+|
+
+91A0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+Frênaies thermophiles à Fraxinus
+
+angustifolia
+
+|
+
+91B0
+
+|
 
 |
 
