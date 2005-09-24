@@ -914,6 +914,44 @@ X
 
 |
 
+Cheloniidae
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tortue Caouanne (Caretta caretta)
+
+|
+
+1224
+
+|
+
+*
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Emydidae
 
 |
@@ -1752,8 +1790,6 @@ X
 
 |
 
-X
-
 |
 
 X
@@ -2112,8 +2148,6 @@ X
 
 |
 
-X
-
 |
 
 Azuré de la Sanguisorbe (Maculinea teleius)
@@ -2181,8 +2215,6 @@ Damier du frêne (Hypodryas materna)
 X
 
 |
-
-X
 
 |
 
@@ -2329,8 +2361,6 @@ X
 |
 
 |
-
-X
 
 |
 
@@ -2556,7 +2586,11 @@ Vertigo angustior
 
 |
 
+X
+
 |
+
+X
 
 |
 
@@ -2635,6 +2669,8 @@ Unio crassus
 |
 
 |
+
+X
 
 |
 
@@ -3652,6 +3688,30 @@ X
 
 |
 
+Statice à rameaux raides
+
+(Limonium strictissimum)
+
+|
+
+1643
+
+|
+
+*
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Polygonaceae
 
 |
@@ -3905,6 +3965,26 @@ Scrophulariaceae
 |
 
 |
+
+|
+
+|
+
+|
+
+Euphraise naine (Euphrasia nana) |
+
+1720
+
+|
+
+*
+
+|
+
+|
+
+X
 
 |
 
@@ -4240,6 +4320,8 @@ Dicrane verte (Dicranum viride)
 
 |
 
+X
+
 |
 
 |
@@ -4247,6 +4329,8 @@ Dicrane verte (Dicranum viride)
 X
 
 |
+
+X
 
 |
 
@@ -4267,6 +4351,24 @@ X
 |
 
 X
+
+|
+
+|
+
+Mannia triandra |
+
+1379
+
+|
+
+|
+
+|
+
+X
+
+|
 
 |
 
@@ -4312,6 +4414,24 @@ X
 
 |
 
+Riella helicophylla |
+
+1391
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Sphaigne de La Pylaie (Sphagnum pylaisii)
 
 |
@@ -4329,5 +4449,9 @@ Sphaigne de La Pylaie (Sphagnum pylaisii)
 |
 
 X
+
+|
+
+Colonne P : habitats et espèces signalés par * : prioritaires, au sens de l'article L. 414-4-IV du code de l'environnement.
 
 |
