@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617906
+
+- Question : [SEQ050617906](seq050617906.md) — Situation des médecins généralistes
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-29, page 2486*
+
+Le ministre de la santé et des solidarités tient à rappeler tout d'abord l'attachement fort du Gouvernement à la médecine générale. La réforme de l'assurance maladie a notamment consacré la fonction de médecin traitant, qui est dans la quasi-totalité des cas un médecin généraliste. Par ailleurs, 99 % des médecins généralistes sont d'ores et déjà entrés dans le dispositif. Le médecin traitant aura pour principale mission d'assurer la coordination des soins entre l'ensemble des médecins qui interviennent dans la prise en charge d'un patient. A cet effet, il sera chargé d'orienter celui-ci vers un autre médecin en fonction des besoins de l'assuré. Le rôle central du médecin généraliste dans la réforme du parcours coordonné de soins montre que la spécificité de sa mission est pleinement reconnue et rémunérée. Le médecin traitant percevra pour chaque patient en affection de longue durée (ALD) une rémunération forfaitaire annuelle de quarante euros. Le nouveau texte conventionnel a prévu également une majoration de cinq euros en plus du tarif de la consultation pour les enfants âgés de zéro à vingt-quatre mois. Le ministre signale également les dispositions de l'avenant n° 4 à la convention, qui ont revalorisé de façon substantielle la rémunération des astreintes versées aux médecins généralistes de permanence. L'ensemble de ces mesures, attendues par la profession, participe à la valorisation du rôle du médecin généraliste. S'agissant de la démographie, le ministre entend prochainement prendre des initiatives complémentaires pour prévenir le risque de carence de l'offre médicale dans certaines zones.
