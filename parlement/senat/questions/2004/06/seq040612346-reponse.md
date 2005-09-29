@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612346
+
+- Question : [SEQ040612346](seq040612346.md) — Pensions de vieillesse et certificats de vie : discrimination entre Français de l'étranger et Français de métropole
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-29, page 2484*
+
+Afin de bénéficier d'une continuité du versement de leur pension de retraite jusqu'à leur décès, les assurés doivent régulièrement fournir aux caisses concernées une attestation d'existence. Cette obligation, fixée par le code civil (article 1983), selon lequel « le propriétaire d'une rente viagère n'en peut demander les arrérages qu'en justifiant de son existence », impose aux intéressés de faire compléter par les autorités locales du pays de résidence (en France ou à l'étranger) ladite attestation. Le fait que, pour les Français résidant en métropole et dans les DOM-TOM, une attestation sur l'honneur suffise n'est pas transposable pour les Français de l'étranger, pour deux raisons principalement : d'une part, à l'inverse des premiers, ces derniers ne subissent aucun contrôle de la part des organismes nationaux versant les pensions ; d'autre part, aucun recoupement d'informations ne permet d'établir de manière certaine le non-décès des Français résidant à l'étranger. En métropole ou dans les DOM-TOM, les services de l'état civil avertissent les différentes caisses des décès survenus. Ce partage de l'information permet un recoupement avec les déclarations sur l'honneur envoyées par les intéressés. Ces échanges n'existent pas avec les services administratifs des Etats étrangers sur le territoire desquels résident les pensionnés. Conscient néanmoins que ces pensionnés peuvent rencontrer des difficultés particulières pour s'acquitter de cette obligation, une enquête est diligentée auprès des caisses de retraite pour harmoniser les pratiques et éviter ainsi les suspensions systématiques de droit en cas de retard de présentation de cette attestation d'existence.
