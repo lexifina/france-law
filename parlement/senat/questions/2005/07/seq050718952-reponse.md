@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718952
+
+- Question : [SEQ050718952](seq050718952.md) — Loyers impayés
+
+## Réponse
+
+*Justice, JO du 2005-09-29, page 2480*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le juge de l'exécution, qui intervient sur les difficultés d'exécution des jugements civils et autres actes exécutoires, peut octroyer des délais de paiement ou suspendre le paiement d'une dette, mais non l'effacer. En revanche, dans le cadre d'une situation de surendettement, le dossier, qui est en premier lieu étudié par une commission de surendettement des particuliers, est ensuite examiné par le juge de l'exécution qui peut éventuellement prononcer l'ouverture d'une procédure de rétablissement personnel. Il est alors tenu de convoquer le débiteur et les créanciers connus et d'apprécier la bonne foi du premier (article L. 332-6 du code de la consommation). Si la liquidation se poursuit, qui inclut souvent une vente amiable ou forcée des biens du débiteur, le juge prononce la clôture de la procédure lorsque l'actif réalisé permet de désintéresser les créanciers. Mais lorsque l'actif réalisé est insuffisant pour ce faire ou lorsque le débiteur ne possède rien d'autre que des biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité professionnelle, le juge prononce la clôture pour insuffisance d'actif (article L. 339-9 du même code). Une telle décision n'est donc prise qu'à l'issue d'une procédure au cours de laquelle la commission de surendettement et le juge de l'exécution évaluent la mauvaise foi du débiteur. Or en raison du principe constitutionnel de la séparation des pouvoirs, il n'appartient pas au ministre de la justice d'intervenir dans des instances en cours ni de donner des instructions aux magistrats indépendants, seuls souverains pour apprécier l'existence de manoeuvres dilatoires de débiteurs de mauvaise foi.
