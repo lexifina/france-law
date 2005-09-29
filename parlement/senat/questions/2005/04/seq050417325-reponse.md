@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417325
+
+- Question : [SEQ050417325](seq050417325.md) — Blocage des crédits PLS
+
+## Réponse
+
+*Emploi, JO du 2005-09-29, page 2476*
+
+La loi de programmation pour la cohésion sociale définit les moyens nécessaires à la production de 500 000 logements locatifs sociaux entre 2005 et 2009. 90 000 logements sociaux seront ainsi financés en 2005, dont 58 000 à l'aide d'un prêt PLUS ou PLAI, 22 000 d'un prêt PLS, ainsi que 10 000 par l'association foncière logement. Pour la région Provence-Alpes-Côte d'Azur, un objectif de réalisation de 5 610 logements sociaux a été fixé pour l'année 2005, dont 3 840 en PLUS et PLAI et 1 770 en PLS. Cet objectif correspond à une progression sensible par rapport au résultat obtenu en 2004 de 4 281 logements sociaux financés, qui était déjà en forte hausse en comparaison du résultat de 3 161 logements sociaux financés en 2003. Les objectifs de l'année 2005 ont été répartis au sein de chacun des territoires qui composent la région de façon à répondre au mieux aux besoins de la population. Les enveloppes de prêts PLS, PLUS et PLAI ont été notifiées au préfet de région simultanément, et aucune instruction n'a été donnée pour n'engager la consommation de l'enveloppe PLS qu'une fois atteints les objectifs de financement en PLUS et PLAI. Les objectifs de financement de logements sociaux en PLUS, PLAI et PLS constituent un ensemble cohérent qui favorisera la mixité sociale. Il convient donc que les partenaires locaux se mobilisent autant pour atteindre les objectifs qui ont été fixés pour le PLUS et le PLAI que ceux qui l'ont été pour le PLS. Les objectifs de production de logements locatifs sociaux progresseront encore au cours des quatre prochaines années. Sur l'ensemble du territoire national, ils atteindront ainsi 100 000 en 2006 et 2007, dont 27 000 bénéficiant de PLS et 105 000 en 2008 et 2009, dont 32 000 bénéficiant de PLS.
