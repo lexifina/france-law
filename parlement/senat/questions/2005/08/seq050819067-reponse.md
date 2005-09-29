@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050819067
+
+- Question : [SEQ050819067](seq050819067.md) — Elimination des déchets médicaux
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-29, page 2494*
+
+Le décret 97-1048 du 6 novembre 1997, qui réglemente l'élimination des déchets résultant d'activités de soins à risques (DASRI), précise que la responsabilité de l'élimination de ces déchets produits dans le cadre du traitement à domicile incombe « à la personne physique qui exerce l'activité productrice de déchets ». Ainsi, les patients, comme les personnes diabétiques qui pratiquent eux-mêmes les soins, sont responsables de l'élimination (conditionnement, collecte et traitement) des déchets produits dans le cadre de l'autotraitement. Cependant, les maires qui sont chargés de l'organisation de la collecte des déchets des ménages ont une part de responsabilité dans la protection des employés chargés de cette collecte. A ce titre, mais aussi pour offrir un service à leurs administrés, ils peuvent favoriser ou organiser, à l'échelle communale, la mise en place de collectes sélectives ou de dispositifs d'apport volontaire des déchets piquants ou coupants des malades en autotraitement et des professionnels de santé. Afin de prévenir les risques présentés par une élimination inadaptée des déchets générés par les patients en autotraitement, le ministère de la santé a engagé depuis l'automne 2003 plusieurs études visant à analyser les dispositifs mis en place pour collecter et traiter les déchets produits par les personnes en autotraitement et à proposer des pistes d'amélioration. A la suite de ces travaux, le ministère de la santé organisera, en collaboration avec les ministères chargés de l'environnement et du travail, une journée nationale d'information et d'échanges sur cette problématique et ses solutions en novembre 2005. Les collectivités locales, les associations de patients et de professionnels de santé seront invitées à y participer.
