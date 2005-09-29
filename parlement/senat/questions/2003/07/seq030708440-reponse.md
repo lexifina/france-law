@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708440
+
+- Question : [SEQ030708440](seq030708440.md) — Aliments pour animaux : instauration d'une garantie financière pour les professionnels
+
+## Réponse
+
+*Agriculture, JO du 2005-09-29, page 2459*
+
+Le règlement (CE) 183/2005 du Parlement européen et du Conseil établissant des exigences en matière d'hygiène des aliments pour animaux a été adopté le 12 janvier 2005. Ce règlement prescrit des règles générales d'hygiène, depuis la production primaire des aliments pour animaux jusqu'à l'alimentation des animaux producteurs de denrées alimentaires, ainsi que des conditions et des modalités permettant d'assurer la traçabilité des aliments pour animaux. Ce règlement renforce également la notion de responsabilité des opérateurs, instaurée par le règlement 178/2002. En effet, il impose aux opérateurs, en dehors de la production primaire, une souscription à des garanties financières permettant de couvrir les coûts directement consécutifs au retrait du marché, au traitement et à la destruction des aliments pour animaux, des animaux et des denrées alimentaires qui en sont issues. Ces garanties financières sont spécifiques à ce secteur de l'alimentation animale et ne trouvent pas d'équivalence en alimentation humaine. La Commission européenne doit présenter au Parlement européen et au Conseil, au plus tard le 8 février 2006, un rapport sur ces garanties financières ainsi que des propositions législatives pour qu'un tel système de garanties soit réaliste et applicable au niveau de la Communauté. De ce rapport dépendra la mise en oeuvre effective de ce dispositif pour les opérateurs. La Commission ne prévoit pas actuellement la mise en place de garanties financières par les pouvoirs publics. Les services du ministère de l'agriculture et de la pêche suivent avec attention l'évolution de ce dossier.
