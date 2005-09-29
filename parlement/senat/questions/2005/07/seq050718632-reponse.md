@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718632
+
+- Question : [SEQ050718632](seq050718632.md) — Soutien à la recherche en lettres et SHS
+
+## Réponse
+
+*Enseignement supérieur, JO du 2005-09-29, page 2477*
+
+Le ministère chargé de l'enseignement supérieur et de la recherche ne privilégie pas les sciences dites « dures » et ne marque pas un désintérêt pour les lettres, les sciences humaines et les sciences sociales (SHS), loin s'en faut. Il accorde aux disciplines qui composent l'ensemble du secteur des SHS toute la place qui doit leur revenir dans le dispositif de recherche français. Ainsi, la recherche en SHS est menée par 20 000 enseignants-chercheurs universitaires et 2 600 chercheurs appartenant à des organismes de recherche différents. Ces effectifs représentent près de 35 % des effectifs de la recherche française, ce qui montre bien l'effort de la collectivité nationale en la matière. La politique scientifique menée par le ministère chargé de l'enseignement supérieur et de la recherche, depuis plusieurs années, a été d'augmenter les moyens affectés au secteur des SHS - qu'il s'agisse de postes, d'allocations de recherche ou de crédits de soutien de base. En ce qui concerne le budget alloué en 2005 à l'ensemble des SHS dans le cadre de la nouvelle Agence nationale de la recherche (ANR), il ne représente pas 1,1 % de l'enveloppe globale, mais s'élève à 25 millions d'euros sur un total de 600 millions d'euros, soit 4,16 % de l'ensemble. Cette somme a plus que doublé par rapport à celle qui était attribuée l'année dernière pour les SHS à l'ancien Fonds national de la science (FNS). En ne tenant compte que des crédits incitatifs, la progression des enveloppes budgétaires consacrées aux SHS est très significative, comme l'indiquent les chiffres suivants : FNS-2003 : 10,2 millions d'euros pour les SHS ; FNS-2004 : 11,4 millions d'euros pour les SHS ; ANR 2005 25 millions d'euros pour les SHS.
