@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210328
+
+- Question : [SEQ031210328](seq031210328.md) — Base informatique sur les médicaments
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-29, page 2483*
+
+L'article 47 de la loi de financement de la sécurité sociale pour 2001 a prévu la mise en oeuvre par l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) d'une banque de données administratives et scientifiques sur les médicaments et les dispositifs médicaux, destinée à servir de référence pour l'information des professionnels de santé et des administrations compétentes en matière de produits de santé. Le rôle de cette base de données a été renforcé ultérieurement par le décret n° 2002-1216 du 30 septembre 2002 relatif à la prescription de médicaments en dénomination commune qui a précisé que les mentions devant être portées sur une prescription libellée en dénomination commune doivent figurer dans cette base de données. Cette base de données est aujourd'hui librement accessible sur le site internet de l'AFSSAPS. Elle comprend notamment le répertoire des spécialités pharmaceutiques qui présente pour les spécialités pharmaceutiques ayant obtenu une autorisation de mise sur le marche (AMM) soit un extrait reprenant l'ensemble des informations pharmaceutiques et réglementaires (comprenant la dénomination, la composition en substances actives, le nom du ou des titulaires de l'AMM, la date de l'AMM, son statut, ses différentes présentations, la date de déclaration de leur commercialisation), soit, pour les spécialités autorisées depuis le 1er janvier 2002, l'ensemble des données figurant dans le résumé des caractéristiques du produit (RCP) et la notice des médicaments concernés. La mise à disposition des informations est réalisée progressivement par les services de l'agence.
