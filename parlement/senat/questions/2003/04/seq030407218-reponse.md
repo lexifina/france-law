@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407218
+
+- Question : [SEQ030407218](seq030407218.md) — Situation des personnels des services des urgences et attribution d'une prime de risque
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-09-29, page 2482*
+
+Les personnels qui assurent de manière quasi permanente le fonctionnement des services d'urgences des établissements publics de santé peuvent être confrontés - en raison de la nature même de ces unités, qui constituent souvent la voie d'accès aux soins hospitaliers - à des situations de violence ou subir l'agressivité de certains patients. Ces situations, qui ne sont pas contestées, restent toutefois marginales par rapport à l'activité générale de ces services. C'est la raison pour laquelle le décret n° 92-6 du 2 janvier 1992 portant attribution d'une indemnité forfaitaire de risque à certains agents de la fonction publique hospitalière, modifié en 1994 pour tenir compte de la situation particulière des structures de soins implantées dans les établissements pénitentiaires, ne vise pas les personnels des services d'urgences des établissements publics de santé. Le ministre de la santé et des solidarités tient cependant à rappeler que des crédits supplémentaires ont régulièrement été délégués aux agences régionales de l'hospitalisation pour financer des projets locaux de prévention de la violence, en priorité sur les sites d'accueil du public. Ces crédits ont permis, grâce à l'adaptation des structures et à la formation des personnels, de réduire considérablement les risques et leur impact sur les personnels concernés ainsi que de pallier les situations les plus difficiles, tandis qu'une réflexion était conduite à l'initiative de la direction de l'hospitalisation et de l'organisation des soins en partenariat avec toutes les institutions concernées pour apporter des réponses structurelles et institutionnelles au problème de la violence dans les établissements hospitaliers publics.
