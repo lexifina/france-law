@@ -32,15 +32,31 @@ Techniciens supérieurs ;
 
 Bibliothécaires ;
 
-Ouvriers professionnels.
+Ouvriers professionnels ;
+
+Maîtres ouvriers ;
+
+Secrétaires de documentation ;
+
+Chargés d'études documentaires ;
+
+Bibliothécaires adjoints ;
+
+Techniciens de la filière technique et scientifique de la préfecture de police ;
+
+Ingénieurs de la filière technique et scientifique de la préfecture de police.
 
 2° Corps dont le statut particulier n'est pas fixé par référence à un autre corps ou cadre d'emplois :
 
-Attachés des services.
+Attachés des services ;
 
-Gardiens de chalet de nécessité.
+Gardiens de chalet de nécessité ;
 
-Caissiers.
+Caissiers ;
+
+Personnels de maîtrise ;
+
+Agents de maîtrise de la préfecture de police.
 
 B. - Corps alignés sur la fonction publique territoriale :
 
@@ -56,15 +72,17 @@ Assistants socio-éducatifs.
 
 C. - Corps alignés sur la fonction publique hospitalière :
 
-Secrétaires médicaux et sociaux.
+Secrétaires médicaux et sociaux ;
 
-Infirmiers.
+Infirmiers ;
 
-Psychologues.
+Psychologues ;
+
+Personnels de rééducation.
 
 II. - Personnels du centre d'action sociale
 
-Corps alignés sur la fonction publique de l'Etat :
+A. Corps alignés sur la fonction publique de l'Etat :
 
 Agents administratifs :
 
@@ -78,6 +96,14 @@ Ouvriers professionnels ;
 
 Maîtres ouvriers.
 
+B. - Corps dont le statut particulier n'est pas fixé par référence à un autre corps ou cadre d'emplois :
+
+Personnels de maîtrise.
+
+C. - Corps alignés sur la fonction publique hospitalière :
+
+Préparateurs en pharmacie.
+
 III. - Personnels des autres établissements publics
 
 Corps alignés sur la fonction publique de l'Etat :
@@ -90,4 +116,6 @@ Secrétaires administratifs ;
 
 Ouvriers professionnels ;
 
-Maîtres ouvriers.
+Maîtres ouvriers ;
+
+Chefs des services économiques.
