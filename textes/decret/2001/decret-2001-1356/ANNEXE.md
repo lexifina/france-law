@@ -16,19 +16,11 @@ A. - Fonctions exercées en administration centrale
 
 7. Chef de l'inspection des services pénitentiaires.
 
-8. A compter du 11 janvier 2003 :
+8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
 
-Chef du département de l'état-major de sécurité de la direction de l'administration pénitentiaire.
+9. Secrétaire général.
 
-8. A compter du 1er janvier 2004 :
-
-Supprimer la mention :
-
-Chef du département de l'état-major de sécurité de la direction de l'administration pénitentiaire.
-
-Ajouter la mention :
-
-Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
+10. Sous-directeur, adjoint au chef d'un service d'administration centrale.
 
 B. - Fonctions exercées dans les services territoriaux
 
