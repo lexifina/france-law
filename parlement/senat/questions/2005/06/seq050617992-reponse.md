@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617992
+
+- Question : [SEQ050617992](seq050617992.md) — Décrets d'application attendus par les victimes des marnières et cavités souterraines
+
+## Réponse
+
+*Écologie, JO du 2005-10-06, page 2543*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux décrets d'application des dispositions de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages, se rapportant au financement par le fonds de prévention des risques naturels majeurs des mesures de prévention contre le risque d'effondrement de cavités souterraines. L'article L. 561-3 du code de l'environnement, introduit par l'article 61 de la loi du 30 juillet 2003, a en effet repris et élargi le dispositif spécifique à la prévention des effondrements des cavités souterraines et des marnières instauré par l'article 159 de la loi n° 2002-296 du 27 février 2002 relative à la démocratie de proximité, dont l'un des volets ouvrait la possibilité de faire contribuer le fonds de prévention des risques naturels majeurs au financement des opérations de reconnaissance des cavités, ainsi qu'à celui de l'acquisition amiable d'immeubles ou du traitement ou du comblement des cavités, lorsque le risque qu'elles représentent menace gravement des vies humaines. Depuis la publication du décret n° 2005-29 du 12 janvier 2005 modifiant le décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques naturels majeurs et menaçant gravement des vies humaines ainsi qu'au fonds de prévention des risques naturels majeurs, ce dispositif de financement est en vigueur et a d'ailleurs fait l'objet récemment d'une première tranche de délégations de crédits auprès des préfets de département.
