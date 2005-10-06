@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718776
+
+- Question : [SEQ050718776](seq050718776.md) — Zones de revitalisation rurale
+
+## Réponse
+
+*Agriculture, JO du 2005-10-06, page 2537*
+
+La loi relative au développement des territoires ruraux permet une actualisation des zones de revitalisation rurale (ZRR). En effet, cet outil créé par la loi du 4 février 1995 sur l'aménagement et le développement des territoires méritait d'être repensé et amélioré comme le Gouvernement s'y était engagé lors du comité interministériel (CIADT) du 3 septembre 2003. Cette actualisation intègre les évolutions démographiques et socio-économiques. Non seulement la densité démographique du canton ou de l'arrondissement doit être faible ou très faible, mais encore doit être satisfait un au moins des critères socio-économiques suivants : déclin de la population, déclin de la population active, forte proportion d'emplois agricoles. En outre, ce classement est désormais subordonné à l'adhésion de la commune à un établissement public de coopération intercommunal (EPCI) à fiscalité propre. Une disposition transitoire est prévue jusqu'au 31 décembre 2006 pour les communes éligibles mais qui n'appartiendraient pas à un EPCI à fiscalité propre. Le décret d'application, qui définit les seuils chiffrés applicables aux critères retenus par la loi, a été adressé au Conseil d'Etat au début du mois de septembre par le ministère délégué à l'aménagement du territoire. Ce décret reprend, comme le Gouvernement s'y était engagé lors du débat parlementaire, les seuils antérieurs. Les ZRR devraient concerner dorénavant 5 millions d'habitants contre 4,4 millions selon les dispositions de la loi de 1995. Toutefois, compte tenu de l'actualisation des données démographiques en fonction des résultats du recensement de 1999, certaines communes sortiront du dispositif alors qu'un nombre plus important y rentreront. La publication du décret devrait intervenir dans un délai rapproché.
