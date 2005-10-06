@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511975
+
+- Question : [SEQ040511975](seq040511975.md) — Lutte contre les chenilles processionnaires du pin
+
+## Réponse
+
+*Agriculture, JO du 2005-10-06, page 2535*
+
+L'arrêté du 5 mars 2004 relatif à l'utilisation par voie aérienne de produits phytosanitaires a permis de renforcer le cadre réglementaire applicable aux traitements aériens mis en oeuvre pour protéger les cultures. La lutte contre les chenilles processionnaires du pin relève toutefois principalement de motifs de protection de la santé publique. En effet, ces chenilles sont dotées de propriétés urticantes provoquant des symptômes qui, chez certains sujets sensibles, sont à l'origine de complications médicales. Le ministère de l'agriculture et de la pêche a préparé conjointement avec les ministères en charge de la santé et de l'écologie une note de service précisant les mesures à mettre en oeuvre dans le cadre de la lutte par voie aérienne contre ces insectes urticants. Cette note organisera la lutte au niveau départemental sous l'autorité du Préfet, après avis des services compétents. Pour des raisons de cohérence de l'action administrative, il est prévu que les arrêtés préfectoraux d'organisation de la lutte reprennent les dispositions de l'arrêté du 5 mars 2004, à l'exception de la distance minimale de sécurité de 50 mètres vis-à-vis des zones sensibles, afin de rendre possible la lutte près des habitations. Il sera également demandé aux préfets de préconiser l'usage des produits phytosanitaires ne bénéficiant pas d'un classement dans les catégories toxiques et écotoxiques, et de recommander l'utilisation de produits à base de Bacillus thuringiensis autorisés à cet effet. Cette note de service, en cours de signature, sera prochainement transmise aux préfets afin que la lutte contre ces chenilles urticantes soit réalisée dans un cadre garantissant la sécurité et l'efficacité des traitements mis en oeuvre.
