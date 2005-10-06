@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618126
+
+- Question : [SEQ050618126](seq050618126.md) — Départ en retraite des femmes fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 2005-10-06, page 2548*
+
+La modification des modalités d'attribution de la bonification pour enfants par la loi du 21 août 2003 résulte essentiellement des conséquences de la jurisprudence européenne (arrêt Griesmar), à laquelle le droit national était tenu de se conformer. La Cour de justice des communautés européennes a, en effet, considéré que le régime de retraite des fonctionnaires étant un régime professionnel, il est soumis au principe d'égalité des rémunérations entre hommes et femmes. En outre, le juge a estimé que la bonification doit servir à compenser un préjudice de carrière. C'est pourquoi, le nouvel article L. 12 du code des pensions accorde à l'ensemble des fonctionnaires, homme ou femme, une bonification d'un an pour chacun de leurs enfants nés ou adoptés avant le 1er janvier 2004, sous réserve qu'ils justifient d'une interruption d'activité de deux mois, dans le cadre d'un congé maternité, parental, d'adoption de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans. Cette condition d'interruption d'activité pour bénéficier de la bonification du régime des fonctionnaires (un an par enfant) suppose que la mère (ou le père, désormais) était fonctionnaire au moment où l'enfant est né. Si l'enfant est né avant le recrutement de sa mère dans la fonction publique, celle-ci peut obtenir une majoration de durée d'assurance de deux ans par enfant (article L. 351-4 du code de la sécurité sociale), dès lors qu'elle a exercé une activité dans le secteur privé permettant la validation d'un trimestre au moins. Le droit est également ouvert au régime général, en l'absence d'activité salariée ou d'affiliation volontaire à ce régime, si la personne bénéficiait de l'assurance vieillesse des parents au foyer.
