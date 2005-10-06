@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617913
+
+- Question : [SEQ050617913](seq050617913.md) — Mise aux normes des usines d'incinération d'ordures ménagères
+
+## Réponse
+
+*Écologie, JO du 2005-10-06, page 2542*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux difficultés rencontrées pour la mise en conformité des usines d'incinération d'ordures ménagères avec les dispositions de l'arrêté ministériel du 20 septembre 2002 à l'échéance du 28 décembre 2005. Il est vrai que le respect d'exigences environnementales et sanitaires renforcées soulève dans certains cas des difficultés. Cependant, l'effort en cours est nécessaire. Il convient de rappeler que les normes applicables à compter du 28 décembre 2005 sont connues depuis longtemps, puisque la directive sur l'incinération des déchets a été adoptée en 2000, et mises en oeuvre depuis plusieurs années dans de nombreux pays européens. Il faut également souligner que le comité de la prévention et de la précaution, dans son avis sur les incinérateurs d'ordures ménagères rendu public le 27 janvier 2005, confirme l'importance du respect de la réglementation en matière d'incinération, et notamment le respect de l'échéance du 28 décembre 2005. Le maintien en fonctionnement de fours non conformes au-delà de cette date ne serait pas acceptable. Les fours non conformes devront être arrêtés, jusqu'à la fin des travaux de mise en conformité, et une solution alternative devra être mise en oeuvre pour le traitement des déchets. La recherche de solutions alternatives est déjà avancée sur plusieurs sites. Elle doit être menée activement sur l'ensemble des sites concernés afin de permettre le choix et la mise en oeuvre, dès janvier 2006, de filières provisoires optimisées d'un point de vue technique, environnemental et économique. Tous les acteurs concernés doivent rester mobilisés pour atteindre l'objectif fixé.
