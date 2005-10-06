@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316430
+
+- Question : [SEQ050316430](seq050316430.md) — Situation des médecins de montagne
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-10-06, page 2559*
+
+L'attention du ministre est appelée sur la situation des médecins de montagne et plus généralement sur la lutte contre la désertification médicale des régions rurales. Assurer l'égal accès aux soins partout sur le territoire est une priorité du Gouvernement. Le ministre partage les préoccupations qui sont énoncées quant au risque de désertification sanitaire, notamment en zone de montagne et précise que, d'ores et déjà, des outils ont été mis en place pour prévenir ce risque. La convention médicale approuvée en février dernier prévoit ainsi la possibilité pour les médecins de montagne de signer un contrat de bonne pratique qui permet de compenser en partie les surcoûts liés à l'exercice en station de montagne : le médecin qui adhère à ce contrat s'engage à disposer d'un équipement (radiographie, stérilisation, urgence) conforme aux normes actuelles, à organiser la continuité de soins du patient après la première intervention et à suivre des formations sur l'urgence et la traumatologie ; en échange, l'assurance maladie lui verse une indemnité de 2 000 euros par an destiné à faciliter ces investissements. Au-delà de cette mesure immédiate, la convention prévoit la possibilité d'aide à l'installation dans des zones déficitaires en médecins. La loi sur le développement des territoires ruraux ouvre également aux collectivités territoriales la possibilité d'allouer des aides à l'installation et des bourses d'études. L'incitation financière n'est toutefois qu'une partie de la réponse. D'autres voies doivent être également explorées comme l'incitation à un exercice regroupé. Le ministre entend soumettre à la concertation des propositions dans le cadre d'un plan global d'action relatif à la démographie des professions de santé.
