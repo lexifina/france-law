@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417357
+
+- Question : [SEQ050417357](seq050417357.md) — Transferts de compétences aux collectivités locales d'outre-mer
+
+## Réponse
+
+*Budget, JO du 2005-10-06, page 2540*
+
+La compensation financière des transferts de compétences aux régions d'outre-mer prévus par la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ne pourra plus être assurée à compter de 2006 par l'affectation d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers (TIPP). Au 1er janvier 2006, le montant de la TIPP perçu par chaque région sera obtenu par l'application d'une fraction de tarif de la TIPP aux quantités de carburants vendues aux consommateurs finals sur le territoire de chaque région. Ce dispositif ne pourra s'appliquer dans les régions d'outre-mer, parce qu'il n'y existe pas d'assiette de la TIPP localisable. Le transfert d'une autre ressource fiscale n'est pas envisagé à ce stade, faute de dispositifs techniques adaptés. Les travaux sur la compensation financière des transferts de compétences, menés en 2004 lors de la préparation de la loi du 13 août 2004 et de la loi de finances pour 2005, avaient déjà montré la difficulté de procéder pour les régions d'outre-mer à une compensation par la voie fiscale. Il n'existe pas en effet d'imposition nationale dont l'assiette puisse être rattachée au territoire d'une collectivité, indépendamment des travaux qui sont aujourd'hui conduits sur le transfert aux départements de la taxe sur les contrats d'assurance automobile. Le Gouvernement s'oriente donc, à l'occasion de la préparation du projet de loi de finances pour 2006, vers l'attribution aux régions d'outre-mer d'un abondement à la dotation générale de décentralisation (DGD), au titre de la compensation des transferts de compétences, effectués en application de la loi n° 2004-809 du 13 août 2004.
