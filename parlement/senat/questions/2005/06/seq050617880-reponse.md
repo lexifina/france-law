@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617880
+
+- Question : [SEQ050617880](seq050617880.md) — Distinction entre les agents des polices municipales et nationale
+
+## Réponse
+
+*Intérieur, JO du 2005-10-06, page 2552*
+
+L'article L. 412-52 du code des communes, issu de l'article 9 de la loi du 15 avril 1999 relative aux polices municipales, précise que les équipements (tenue, carte professionnelle, véhicules...) des policiers municipaux doivent « n'entraîner aucune confusion avec ceux utilisés par la police nationale et la gendarmerie nationale ». Aussi, le décret n° 2004-102 du 30 janvier 2004 relatif à la tenue des agents de police municipale a veillé à l'application de ce principe en définissant une tenue sensiblement différente de celles des policiers nationaux et des gendarmes. Celui-ci fixe, notamment, de manière très précise les dimensions des lettres des inscriptions « police municipale » figurant sur les tenues, afin de s'assurer de leur lisibilité et d'éviter toute confusion. En outre, si la couleur dominante de l'uniforme est le bleu, attribut traditionnel des agents de police français, une différenciation essentielle réside toutefois dans l'existence de trois bandes de couleur « bleu gitane » autour de la poitrine. Les pantalons, de couleur bleu foncé, sont également pourvus d'un passepoil de couleur bleu gitane. La signalisation des véhicules de service des agents de police municipale a été récemment fixée par le décret n° 2005-425 du 28 avril 2005. Les véhicules de police municipale devront être blancs et notamment comporter trois bandes de couleur bleu gitane sur les faces latérales, ce qui les différencie nettement des véhicules de la gendarmerie nationale, qui sont bleus, et de ceux de la police nationale, qui comportent une large bande latérale rouge et deux petites bandes bleues de part et d'autre.
