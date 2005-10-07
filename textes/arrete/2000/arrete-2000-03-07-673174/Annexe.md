@@ -22,6 +22,8 @@ Concours externe pour l'accès au corps des techniciens paramédicaux civils du 
 
 Concours externe pour l'accès au corps des préparateurs en pharmacie civils du service de santé des armées.
 
+Concours externe pour l'accès au corps des techniciens du ministère de la défense.
+
 Concours de catégorie C
 
 Concours externe pour l'accès au corps des agents techniques de l'électronique.
