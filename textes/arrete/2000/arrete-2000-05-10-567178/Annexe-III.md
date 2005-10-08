@@ -34,7 +34,11 @@ En cohérence avec les procédures du point 2 (Identification et évaluation des
 
 Leur articulation avec les plans d'opération interne prévus à l'article 17 du décret du 21 septembre 1977 est précisée.
 
-Ces procédures font l'objet de mises en oeuvre expérimentales régulières et, si nécessaire, d'aménagements.
+Ces procédures font l'objet :
+
+- d'une formation spécifique dispensée à l'ensemble du personnel concerné travaillant dans l'établissement, y compris le personnel d'entreprises extérieures appelé à intervenir momentanément dans l'établissement ;
+
+- de mises en oeuvre expérimentales régulières et, si nécessaire, d'aménagement.
 
 6. Gestion du retour d'expérience
 

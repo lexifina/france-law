@@ -10,13 +10,11 @@ RUBRIQUES
 
 |
 
-SUBSTANCES
-
-ou préparations concernées
+SUBSTANCES OU PRÉPARATIONS CONCERNÉES
 
 |
 
-SEUIL
+SEUILS
 
 |
 
@@ -26,7 +24,7 @@ SEUIL
 
 |
 
-Substances ou préparations très toxiques telles que définies à la rubrique 1000, à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature et à l'exclusion de l'uranium et ses composés, du brome et du fluor.
+Substances ou préparations très toxiques telles que définies à la rubrique 1000, à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature et à l'exclusion de l'uranium et de ses composés, et du brome et du fluor.
 
 |
 
@@ -52,8 +50,6 @@ Brome.
 
 1115
 
-1116
-
 |
 
 Dichlorure de carbonyle ou phosgène.
@@ -61,6 +57,14 @@ Dichlorure de carbonyle ou phosgène.
 |
 
 300 kg
+
+|
+
+1116
+
+|
+
+|
 
 |
 
@@ -78,6 +82,10 @@ Substances ou préparations toxiques telles que définies à la rubrique 1000, �
 
 |
 
+|
+
+|
+
 1135
 
 1136
@@ -92,9 +100,11 @@ Ammoniac.
 
 |
 
-1137
+|
 
-1138
+|
+
+1137
 
 |
 
@@ -103,6 +113,14 @@ Chlore.
 |
 
 10 t
+
+|
+
+1138
+
+|
+
+|
 
 |
 
@@ -134,11 +152,11 @@ Chlorure d'hydrogène anhydre liquéfié.
 
 |
 
-Substances ou préparations toxiques particulières, à l'exclusion des polychlorodibenzofuranes et polychlorodibenzodioxines.
+Substances ou préparations toxiques particulières.
 
 |
 
-1 kg
+0,5 t
 
 |
 
@@ -214,6 +232,18 @@ Diisocyanate de toluylène.
 
 |
 
+1155
+
+|
+
+Agropharmaceutique (dépôt de produits)...
+
+|
+
+100 t
+
+|
+
 1156
 
 |
@@ -246,17 +276,17 @@ Trioxyde de soufre.
 
 |
 
-Substances ou préparations dangereuses pour l'environnement très toxiques (A) et/ou toxiques (B) pour les organismes aquatiques telles que définies à la rubrique 1000 à l'exclusion des substances ou des préparations dangereuses visées explicitement ou par famille par d'autres rubriques.
+Substances ou préparations dangereuses pour l'environnement très toxiques (A) et/ou toxiques (B) pour les organismes aquatiques telles que définies à la rubrique 1000, à l'exclusion des substances ou des préparations dangereuses visées explicitement ou par famille par d'autres rubriques.
 
 |
 
-A. Très toxique
+A. très toxique :
+
+100 t
+
+B. toxique :
 
 200 t
-
-B. Toxique
-
-500 t
 
 |
 
@@ -264,7 +294,7 @@ B. Toxique
 
 |
 
-Substances ou préparations comburantes telles que définies à la rubrique 1000 à l'exclusion des substances visées explicitement ou par famille par d'autres rubriques.
+Substances ou préparations comburantes telles que définies à la rubrique 1000, à l'exclusion des substances visées explicitement ou par famille par d'autres rubriques.
 
 |
 
@@ -282,7 +312,11 @@ Peroxydes organiques.
 
 |
 
-50 1
+50 t
+
+|
+
+|
 
 |
 
@@ -298,27 +332,53 @@ Oxygène.
 
 |
 
-1310
-
-1311
-
-1312
-
-1313
-
-1320
-
-1321
+1230
 
 |
 
-Dans les cas suivants:
+Engrais composés à base de nitrate de potassium :
 
-1. Substances ou préparations qui créent un risque d'explosion par le choc, la friction, le feu ou d'autres sources d'ignition (phrase de risque R2).
+|
 
-2. Substances pyrotechniques (ou un mélange de substances) destinées à produire un effet calorifique, lumineux, sonore, gazeux, ou fumigène ou une combinaison de tels effets, grâce à des réactions chimiques exothermiques auto-entretenues non détonantes.
+|
 
-3. Substances ou préparations explosibles ou pyrotechniques contenues dans des objets.
+1. Constitués de nitrate de potassium sous forme de granules et de microgranules.
+
+|
+
+5 000 t
+
+|
+
+2. Constitués de nitrate de potassium sous forme cristalline.
+
+|
+
+1 250 t
+
+|
+
+|
+
+Poudres, explosifs et autres produits explosifs.
+
+|
+
+|
+
+Substances et préparations explosibles.
+
+|
+
+Dans les cas suivants :
+
+|
+
+1310
+
+|
+
+1. Substances, préparations ou objets qui relèvent de la division 1.4 de l'accord ADR (Nations unies).
 
 |
 
@@ -326,13 +386,37 @@ Dans les cas suivants:
 
 |
 
-Dans les cas suivants:
+1311
 
-- substances ou préparations qui créent de grands risques d'explosion par le choc, la friction, le feu ou d'autres sources d'ignition (phrase de risque R3).
+|
+
+2. Substances, préparations ou objets qui relèvent de l'une des divisions suivantes de l'accord ADR : 1.1, 1.2, 1.3, 1.5 ou 1.6 ou relèvent des phrases de risque R2 ou R3.
 
 |
 
 10 t
+
+|
+
+1312
+
+|
+
+Note : lorsqu'une substance ou une préparation fait l'objet à la fois d'une classification au titre de l'accord ADR et de l'attribution d'une phrase de risque R2 ou R3, la classification au titre de l'accord ADR prévaut sur l'attribution de la phrase de risque.
+
+|
+
+|
+
+1313
+
+|
+
+1320
+
+|
+
+1321
 
 |
 
@@ -352,11 +436,55 @@ Nitrate d'ammonium.
 
 |
 
-Engrais simples solides à base de nitrates (ammonitrates, sulfonitrates,...) correspondant aux spécifications de la norme NFU 42-001 (ou à la norme européenne équivalente) ou engrais composés à base de nitrates, dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 %.
+Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen no 2003/2003 ou à la norme française équivalente NFU 42-001 :
+
+|
+
+|
+
+- susceptibles de subir une décomposition auto-entretenue ;
+
+|
+
+5 000 t
+
+|
+
+- contiennent une teneur en azote due au nitrate d'ammonium :
 
 |
 
 1 250 t
+
+|
+
+- supérieure à 24,5 % en poids, à l'exception des mélanges de nitrate d'ammonium avec de la dolomie, du calcaire et/ou du carbonate de calcium, dont la pureté est d'au moins 90 % ;
+
+|
+
+|
+
+- supérieure à 28 % en poids pour les mélanges de nitrate d'ammonium avec de la dolomie, du calcaire et/ou du carbonate de calcium, dont la pureté est d'au moins 90 % ;
+
+|
+
+|
+
+- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium.
+
+|
+
+|
+
+1332
+
+|
+
+Nitrate d'ammonium : matières hors spécifications ou engrais ne satisfaisant pas au test de détonabilité.
+
+|
+
+10 t
 
 |
 
@@ -376,7 +504,7 @@ Gaz inflammables.
 
 |
 
-Gaz inflammables liquéfiés (stockage en réservoir manufacturé de) à l'exception de ceux visés explicitement par d'autres rubriques de la nomenclature.
+Gaz inflammables liquéfiés (stockage en réservoir manufacturé), à l'exception de ceux visés explicitement par d'autres rubriques de la nomenclature.
 
 |
 
@@ -388,7 +516,7 @@ Gaz inflammables liquéfiés (stockage en réservoir manufacturé de) à l'excep
 
 |
 
-Gazomètres et réservoirs de gaz comprimés renfermant des gaz inflammables, à l'exclusion des gaz visés explicitement par d'autres rubriques:
+Gazomètres et réservoirs de gaz comprimés renfermant des gaz inflammables, à l'exclusion des gaz visés explicitement par d'autres rubriques :
 
 |
 
@@ -424,6 +552,10 @@ Hydrogène.
 
 |
 
+|
+
+|
+
 1417
 
 1418
@@ -435,6 +567,10 @@ Acétylène.
 |
 
 5 t
+
+|
+
+|
 
 |
 
@@ -462,17 +598,15 @@ Amines inflammables liquéfiées.
 
 |
 
-1431
-
-1432
-
-1433
-
 |
 
 Liquides inflammables :
 
 |
+
+|
+
+1431
 
 |
 
@@ -484,11 +618,19 @@ Liquides inflammables :
 
 |
 
-- catégorie B ;
+1432
 
 |
 
-5 000 t
+- catégories B et C ;
+
+|
+
+2 500 t
+
+|
+
+1433
 
 |
 
@@ -504,7 +646,7 @@ Liquides inflammables :
 
 |
 
-Acide chlorosulfurique, oleums.
+Acide chlorosulfurique, oléums.
 
 |
 
@@ -540,7 +682,7 @@ Substances ou préparations dégageant des gaz toxiques au contact de l'eau, à 
 
 |
 
-Alcools de bouche d'origine agricole, eaux de vie et liqueurs.
+Alcools de bouche d'origine agricole, eaux-de-vie et liqueurs.
 
 |
 
