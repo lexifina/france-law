@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215989
+
+- Question : [SEQ050215989](seq050215989.md) — Fraude à l'assurance chômage
+
+## Réponse
+
+*Emploi et travail, JO du 2005-10-13, page 2629*
+
+Le comportement frauduleux est susceptible d'être réprimé, devant le juge judiciaire, sur la base de l'article L. 365-1 du code du travail qui institue un délit spécifique de « fraude ou de fausse déclaration » aux régimes d'indemnisation des salariés privés d'emploi. Cet article permet au juge répressif de sanctionner aussi bien celui qui a effectivement obtenu le versement indu d'allocations par fraude ou fausse déclaration, que ce soit pour son propre compte ou pour le compte d'un tiers, que celui qui a tenté, sans y parvenir en pratique, d'obtenir un tel versement, que ce soit pour son propre compte ou le compte d'un tiers. Il permet également de réprimer l'infraction commise mais aussi d'ordonner la restitution des sommes indûment perçues. En outre, le juge peut faire application de l'article 313-1 du code pénal, qui sanctionne le délit général « d'escroquerie », et l'article 313-3, alinéa 1er, qui réprime la « tentative » d'escroquerie. L'acte de poursuite peut viser plusieurs incriminations possibles mais le juge répressif opte nécessairement pour l'une d'entre elles, une personne ne pouvant être sanctionnée deux fois pour les mêmes faits. En signant l'attestation destinée à l'Assedic, l'employeur certifie que les renseignements indiqués sont exacts, notamment le motif de la rupture. L'employeur, par sa signature, est donc responsable du contenu de l'attestation et engage sa responsabilité sauf à invoquer l'erreur matérielle ou le dol. L'employeur peut également saisir les services compétents de l'assurance chômage en vue de faire contrôler les conditions d'attribution de l'allocation d'assurance chômage.
