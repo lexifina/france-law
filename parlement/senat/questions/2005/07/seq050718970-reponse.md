@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718970
+
+- Question : [SEQ050718970](seq050718970.md) — Propos désobligeants du maire de Tokyo à l'encontre de la langue française
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-10-13, page 2619*
+
+La visite officielle de travail du Président de la République au Japon, en mars 2005, a souligné la vitalité et la densité de nos échanges culturels et économiques avec le Japon, bien connues par tous ceux qui entendent être les acteurs d'un partenariat fort entre nos deux pays. Les partenaires de la France au Japon ont pu constater que les échanges culturels ont été marqués, récemment, par les campagnes d'Edufrance pour la promotion des études dans notre pays, auxquelles une personnalité comme M. Heisuke Hironaka, mathématicien japonais lauréat de la médaille Fields, a apporté son précieux concours. La déclaration conjointe pour un nouveau partenariat franco-japonais, adoptée par le Président de la République et le Premier ministre Junichiro Koizumi, met l'accent sur le renforcement de nos coopérations. En vue d'accroître de manière significative les échanges humains, notamment culturels et scientifiques, nos deux pays souhaitent par exemple développer les initiatives publiques ou privées permettant aux jeunes Français et Japonais de faire des stages dans l'autre pays. Dans le cadre de cette déclaration, nous voulons aussi mettre à profit les expériences du collège doctoral franco-japonais ou de l'association franco-japonaise des échanges de jeunes pour développer l'enseignement et l'apprentissage de la langue du partenaire. Dans le domaine économique, les partenaires de la France au Japon ont relevé la signature, en février dernier, d'une convention bilatérale de sécurité sociale, qui constitue un signal fort pour la communauté d'affaires des deux pays. La signature d'une convention fiscale bilatérale devra encore compléter ce dispositif.
