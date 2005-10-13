@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215913
+
+- Question : [SEQ050215913](seq050215913.md) — Déchets d'activités de soins à risques infectieux
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-10-13, page 2658*
+
+Le décret 97-1048 du 6 novembre 1997 réglemente l'élimination des déchets d'activités de soins à risques infectieux (DASRI). Ce texte précise en effet que la responsabilité de l'élimination des DASRI produits dans le cadre du traitement à domicile incombe à la personne physique qui exerce l'activité productrice de déchets. Ainsi, les patients, comme les diabétiques qui pratiquent eux-mêmes les soins, sont responsables de l'élimination (conditionnement, collecte et traitement) des déchets produits dans le cadre de l'autotraitement. Les maires sont chargés de l'organisation de la collecte des déchets des ménages et n'ont pas légalement en charge l'élimination des DASRI. Cependant, ils sont responsables de la protection des employés chargés de cette collecte, et à ce titre, mais aussi pour offrir un service à leurs administrés, ils peuvent favoriser ou organiser, au niveau communal, la mise en place de collectes sélectives ou de dispositifs d'apport volontaire des déchets piquants ou coupants des malades en auto traitement et des professionnels de santé. La direction générale de la santé (DGS) a engagé depuis l'automne 2003 plusieurs études afin d'analyser les dispositifs mis en place dans les régions et proposer des voies d'amélioration. A la suite de ces travaux, la DGS organisera, en collaboration avec les ministères chargés de l'environnement et du travail, une journée nationale d'informations et d'échanges sur cette problématique et ses solutions en novembre 2005 : les collectivités locales, les associations de patients et de professionnels de santé y seront conviées. Par ailleurs, une réflexion est en cours sur la prise en charge financière de l'élimination de tels déchets.
