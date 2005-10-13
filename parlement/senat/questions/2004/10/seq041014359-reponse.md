@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014359
+
+- Question : [SEQ041014359](seq041014359.md) — Possibilité de récupération par la commune de la TVA sur les travaux d'aménagement d'un local pour les associations
+
+## Réponse
+
+*Intérieur, JO du 2005-10-13, page 2633*
+
+Les articles L. 1615-1 à L. 1615-12 du code général des collectivités territoriales (CGCT) fixent les conditions dans lesquelles une dépense est éligible au fonds de compensation pour la TVA (FCTVA). En principe, la dépense doit être engagée par un bénéficiaire du fonds pour un équipement dont il est propriétaire et qui relève de sa compétence pour agir dans le domaine concerné. L'article L. 1615-7 du code général des collectivités territoriales précise que les dépenses réalisées par une collectivité au titre d'un équipement mis à disposition d'un tiers non éligible au sens de l'article 1615-2 du CGCT ne peuvent en principe ouvrir droit à une attribution de ce fonds. Or, les associations ne sont pas visées à l'article L. 1615-2 du CGCT. Il a toutefois été admis, dans la circulaire du 24 septembre 1994 relative au fonds de compensation pour la TVA, la possibilité d'attribuer ce fonds lorsque la mise à disposition d'un équipement à un tiers non éligible, comme une association, n'est que partielle et ne fait pas obstacle à l'accès au plus grand nombre des usagers potentiels dans des conditions d'égalité caractéristiques du service public. Il en est notamment ainsi lorsque le mode de gestion du bien par l'association n'est pas différent de celui de la collectivité propriétaire si elle l'exploitait directement et que les conditions d'utilisation du bien sont caractéristiques du fonctionnement du service public. L'activité exercée dans les locaux ne doit pas, par ailleurs, être soumise à la TVA. Si ces conditions sont réunies, la construction du bâtiment mis à disposition d'une association loi de 1901 ouvre droit à attribution du FCTVA.
