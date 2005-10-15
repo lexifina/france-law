@@ -180,11 +180,7 @@ Chaque partie entre pour moitié dans la notation.
 
 L'épreuve fait l'objet d'une notation unique sur 20.
 
-Durée de l'entretien : 20 minutes, dont 10 minutes d'exposé du candidat et 10 minutes de réponse à des questions ; préparation :
-
-5 minutes ; coefficient 1.
-
-Epreuve facultative
+Durée de l'entretien : 20 minutes, dont 10 minutes d'exposé du candidat et 10 minutes de réponse à des questions ; coefficient 1.<RL Epreuve facultative
 
 Les candidats peuvent demander à subir une épreuve orale facultative portant soit :
 
@@ -257,3 +253,7 @@ La quatrième épreuve écrite d'admissibilité et la quatrième épreuve orale 
 Les candidats indiquent au moment de leur inscription au concours externe spécial la langue dans laquelle ils désirent subir ces deux épreuves.
 
 Le programme des épreuves du concours est publié au Bulletin officiel du ministère de l'éducation nationale (BOEN).
+
+NOTA :
+
+Arrêté du 5 décembre 2006 art. 3 : Les dispositions du présent arrêté prennent effet à compter de la session de l'année 2007 des concours.
