@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214920
+
+- Question : [SEQ041214920](seq041214920.md) — Mention des fabriques d'Alsace-Moselle dans la liste des bénéficiaires du FCTVA
+
+## Réponse
+
+*Économie, JO du 2005-10-20, page 2716*
+
+L'article 1er du décret du 30 décembre 1809 relatif aux fabriques des églises, modifié par décret du 18 mars 1992, prévoit que les fabriques des églises sont des établissements publics chargés d'administrer les paroisses. Ces établissements veillent à la gestion des biens et revenus destinés au bon fonctionnement du culte dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, en application du 3° de l'article 37 ainsi que des articles 49 et 92 du décret du 30 décembre 1809 modifié et du 3° de l'article L. 2543-3 du code général des collectivités territoriales. La réponse du Gouvernement à la question écrite n° 6619 du 9 juin 1994, posée par M. André Bohl, ancien sénateur, précise que les églises paroissiales et les presbytères constituent les édifices cultuels nécessaires à l'exercice public du culte dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. En particulier, l'affectation exclusive des presbytères et de leurs dépendances à l'habitation des curés ou des desservants doit être regardée comme concourant au service public du culte dans les départements soumis au concordat (avis du Conseil d'Etat du 26 avril 1994). Par conséquent, les travaux effectués sur ces édifices sont, en cas d'insuffisance des ressources de la fabrique, une charge obligatoire des communes et les dépenses en cause ouvrent droit au bénéfice du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA). Ainsi, les dépenses engagées dans les conditions indiquées ci-dessus ne sont pas mentionnées dans la circulaire intérieur-finances NOR INT/B/94/00257C du 23 septembre 1994, mais elles sont éligibles au FCTVA.
