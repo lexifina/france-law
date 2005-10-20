@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618357
+
+- Question : [SEQ050618357](seq050618357.md) — Situation des volontaires internationaux à leur retour en France
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-10-20, page 2711*
+
+A la suite de la suspension de la conscription, la loi n° 2000-242 du 14 mars 2000 a instauré la possibilité pour les jeunes des deux sexes de se mettre volontairement au service de la nation en effectuant un volontariat civil. Le volontariat civil peut s'effectuer dans le domaine de la prévention, de la sécurité et de la défense civiles, dans celui de la cohésion sociale et de la solidarité ainsi qu'en matière de coopération internationale et d'aide humanitaire. Les volontaires civils internationaux ont ainsi remplacé, dans le domaine de l'action de l'Etat à l'étranger, les anciens coopérants du service national. Les volontariats civils ne sont donc ni une forme de fonctionnariat ni une forme de salariat. Les volontaires ne signent pas de contrat. Il s'agit d'un service national civil qui vise, d'une part, à permettre à des jeunes de moins de vingt-huit ans d'apporter un concours volontaire, personnel et temporaire à la communauté nationale dans le cadre d'une mission d'intérêt général et, d'autre part, à développer la solidarité et le sentiment d'appartenance à la nation. Dès lors, il n'est actuellement pas envisagé de modifier les dispositions juridiques applicables aux volontaires civils afin de les faire bénéficier de l'allocation d'assurance prévue par les articles L. 351-4 et L. 351-12 du code du travail au profit des salariés involontairement privés d'emploi. En vertu des dispositions du code du service national, les volontaires civils internationaux bénéficient d'une protection sociale équivalente à celle du régime général français de sécurité sociale, d'une indemnité mensuelle et d'une indemnité supplémentaire destinée à tenir compte des conditions d'existence propres à chaque pays étranger.
