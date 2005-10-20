@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617969
+
+- Question : [SEQ050617969](seq050617969.md) — Application de la surtaxe "premix" aux nouveaux "prêts à boire" à base de vin
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-10-20, page 2736*
+
+D'après l'enquête ESCAPAD 2003 réalisée par l'Observatoire français des drogues et des toxicomanies (OFDT), l'alcool est la substance psychoactive la plus consommée chez les 17-18 ans (8 jeunes sur 10) devant le tabac (1 jeune sur 2). Parmi les garçons, l'usage régulier de l'alcool est à présent supérieur à celui du cannabis (21,2 % pour l'alcool contre 14,6 % pour le cannabis), Entre 2002 et 2003, il a augmenté de 2,4 points chez les garçons de 17-18 ans et de 1,4 point chez les filles (de 6,1 à 7,5 %), Or, les boissons « premix » et autres « alcopops » sont destinées à fidéliser les publics les plus jeunes avec ces boissons alcoolisées dont le fort goût en alcool ou l'amertume ont été masqués par l'ajout d'autres produits. C'est pourquoi, une surtaxe a été adoptée, dans le cadre de la loi du 9 août 2004 relative à la santé publique, pour en dissuader la consommation. Toutefois, cette disposition législative est actuellement contournée, des boissons sucrées à base de vin étant, depuis l'adoption de cette disposition, apparues sur le marché. De manière générale, la taxation des boissons « premix » est relativement difficile à élaborer. En effet, ce type de boissons n'a pas de définition propre. Par conséquent, d'autres boissons alcoolisées plus traditionnelles et non destinées aux jeunes peuvent être facilement impactées par cette taxation. Afin de mettre un terme à ces difficultés, il conviendrait de déterminer, au niveau communautaire, une définition des prémix. Une telle définition n'existant pas encore, l'administration des douanes travaille actuellement avec le ministère de la santé sur un nouveau projet de taxation de ces nouvelles boissons sucrées à base de vin.
