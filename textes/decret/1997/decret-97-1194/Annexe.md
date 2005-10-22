@@ -1612,9 +1612,7 @@ Décret n° 83-228 du 22 mars 1983 modifié fixant le régime de l'autorisation 
 
 |
 
-Décisions portant réduction de la redevance domaniale en matière de cultures
-
-marines sur le domaine public maritime.
+Décisions portant réduction de la redevance domaniale en matière de cultures marines sur le domaine public maritime.
 
 |
 
@@ -1674,7 +1672,9 @@ Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
-Code des douanes communautaire et dispositions d'application du code des douanes communautaire
+Réglementations de la Communauté européenne que l
+
+’administration des douanes est chargée d’appliquer
 
 1
 
@@ -1825,6 +1825,66 @@ Délivrance d'un certificat international d'importation et d'un certificat de v�
 |
 
 Article 19 du règlement et article 8 du décret.
+
+|
+
+Règlement (CE) n
+
+°
+
+1383/2003 du 22 juillet 2003 concernant l’intervention des autorités douanières à l’égard
+
+de marchandises soupçonnées de porter atteinte à certains droits de propriété intellectuelle ainsi que les
+
+mesures à prendre à l’égard de marchandises portant atteinte à certains droits de propriété intellectuelle
+
+1 |
+
+Acceptation de la demande d’intervention du titulaire d’un droit de propriété intellectuelle.
+
+|
+
+7 de l’article 5.
+
+|
+
+2 |
+
+Refus de traitement d’une demande d’intervention du titulaire d’un droit de propriété intellectuelle,
+
+lorsque la demande d’intervention ne contient pas les informations obligatoires énumérées au 5
+
+de l’article 5.
+
+|
+
+8 de l’article 5.
+
+|
+
+3
+
+|
+
+Fixation et prorogation de la période pendant laquelle les autorités douanières doivent intervenir
+
+après qu’une demande du titulaire de droit de propriété intellectuelle a été acceptée.
+
+|
+
+1 de l’article 8.
+
+|
+
+4 |
+
+Refus de renouvellement de la demande d’intervention du titulaire d’un droit de propriété
+
+intellectuelle.
+
+|
+
+Article 12.
 
 |
 
