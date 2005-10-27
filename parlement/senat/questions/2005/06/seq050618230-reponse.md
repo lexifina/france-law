@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618230
+
+- Question : [SEQ050618230](seq050618230.md) — Fiscalité applicable aux achats de poêle à granulés de bois
+
+## Réponse
+
+*Budget, JO du 2005-10-27, page 2784*
+
+La liste des équipements éligibles au crédit d'impôt issu de la refonte de l'article 200 quater du code général des impôts opérée par l'article 90 de la loi de finances pour 2005 a été fixée par l'arrêté du 9 février 2005 paru au Journal officiel du 15 février 2005. Dans ce cadre, les équipements de production d'énergie utilisant une source d'énergie renouvelable éligibles au crédit d'impôt au taux de 40 % comprennent notamment les équipements de chauffage ou de production d'eau chaude qui fonctionnent au bois et autres biomasses et qui affichent un rendement énergétique supérieur ou égal à 65 % selon les référentiels des normes en vigueur. Sous réserve du respect de certaines normes, il en est ainsi des poêles, des foyers fermés, des inserts de cheminées intérieures, des cuisinières utilisées comme mode de chauffage et de production d'eau chaude sanitaire ainsi que de certaines chaudières autres que les chaudières à basse température et les chaudières à condensation éligibles par ailleurs au crédit d'impôt respectivement au taux de 15 % et de 25 %. La mention des normes techniques requises par l'arrêté précité sur la facture délivrée par l'installateur de ces équipements conditionne l'application de l'avantage fiscal. Il en est également ainsi pour les poêles à granulés de bois, dès lors qu'ils ont été testés selon la norme requise pour les poêles à bois ordinaires (NF EN 13 240). Dans ce cadre, c'est l'attestation délivrée par le fabricant de l'équipement indiquant que celui-ci a été testé avec succès selon la norme NF EN 13 240 qui constituera le justificatif de l'éligibilité au crédit d'impôt.
