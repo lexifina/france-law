@@ -1,0 +1,11 @@
+# Réponse à la question SEQ050819088
+
+- Question : [SEQ050819088](seq050819088.md) — Réduction des délais pour l'obtention du statut de réfugié
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-10-27, page 2780*
+
+En 2003, l'Office français de protection des réfugiés et apatrides (OFPRA) a enregistré 62 000 demandes d'asile alors que le ministère de l'intérieur en recevait 28 000 au titre de l'asile territorial. L'année précédant le regroupement des procédures en application de la loi du 10 décembre 2003 entrée en vigueur le 1er janvier 2004, le nombre total de demandes d'asile s'élevait par conséquent à 90 000. En 2004, l'OFPRA, devenu guichet unique pour le traitement des demandes d'asile, a enregistré 65 600 demandes, ce qui représente une hausse de 5,8 % par rapport aux demandes enregistrées par l'office l'année précédente et une baisse de 27 % de la demande d'asile totale. Cette baisse très significative correspond au mouvement observé dans la plupart des pays industrialisés. Dans le même temps, en raison du tassement de la demande d'asile en 2004 et des moyens accrus accordés à l'OFPRA, le délai moyen de traitement des premières demandes d'asile a été divisé par deux. Il était égal à trois mois fin 2004. Le nombre de dossiers en instance est stabilisé entre 11 000 et 12 000. Il correspond à une capacité de traitement par l'OFPRA en deux mois. Le délai moyen de traitement des demandes d'asile de 2000 à 2004 exprimé ci-après correspond au nombre moyen de jours écoulés entre la date de dépôt de la demande d'asile à l'Office français de protection des réfugiés et apatrides (OFPRA) et la date de décision d'accord ou de rejet de l'OFPRA. Le calcul est effectué sur la base des premières demandes d'asile, c'est-à-dire hors réexamens et annulations et hors mineurs accompagnants.
+
+<!DEBTAB><div align="center"><center><table border="1"><tr><th></th><th>2000</th><th>2001</th><th>2002</th><th>2003</th><th>2004</th></tr><tr><td align="center">Délai moyen en jours calendaires</td><td align="center">169</td><td align="center">217</td><td align="center">324</td><td align="center">258</td><td align="center">130</td></tr><tr><td align="center">Délai moyen en jours ouvrés</td><td align="center">121</td><td align="center">155</td><td align="center">231</td><td align="center">184</td><td align="center"> 93</td></tr></table></center></div><!FINTAB>
