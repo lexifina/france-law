@@ -36,7 +36,7 @@ Cherbourg
 
 |
 
-De 1968 à 1973
+De 1968 à 1975 et les années 1978, 1980 et 1983
 
 |
 
