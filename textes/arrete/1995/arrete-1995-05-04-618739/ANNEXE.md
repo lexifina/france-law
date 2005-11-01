@@ -34,8 +34,6 @@ Site mégalithique de la Table des marchands à Locmariaquer (Bretagne).
 
 Château d'Azay-le-Rideau (Centre).
 
-Château de Chambord (Centre).
-
 Château de Châteaudun (Centre).
 
 Château de Chaumont (Centre).
