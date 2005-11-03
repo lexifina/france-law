@@ -1,13 +1,27 @@
-# Article Annexe II tableau 91
+# Article Annexe II : Tableau n° 91
 
-DESIGNATION DES MALADIES :
+Broncho-pneumopathie chronique obstructive du mineur de charbon
 
-Bronchopneumopathie chronique obstructive entraînant un déficit respiratoire chronique. Elle est caractérisée par l'association de signes cliniques tels que dyspnée, toux, hypersécrétion bronchique et d'un syndrome ventilatoire de type obstructif avec un volume expiratoire maximal par seconde (V.E.M.S.) abaissé d'au moins 40 % par rapport à la valeur moyenne théorique. Cet abaissement doit être constaté en dehors de tout épisode aigu.
+DÉSIGNATION DE LA MALADIE
 
-DELAI DE PRISE EN CHARGE :
+|
 
-5 ans (sous réserve d'une durée d'exposition de 10 ans).
+DÉLAI de prise en charge
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CETTE MALADIE :
+|
+
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie
+
+|
+
+Broncho-pneumopathie chronique obstructive entraînant un déficit respiratoire chronique. Elle est caractérisée par l'association de signes cliniques tels que dyspnée, toux, hypersécrétion bronchique et d'un syndrome ventilatoire de type obstructif avec un volume expiratoire maximal par seconde (VEMS) abaissé d'au moins 30 % par rapport à la valeur moyenne théorique. Cet abaissement doit être constaté en dehors de tout épisode aigu.
+
+|
+
+10 ans (sous réserve d'une durée d'exposition de 10 ans)
+
+|
 
 Travaux au fond dans les mines de charbon.
+
+|
