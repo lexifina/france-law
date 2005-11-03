@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718566
+
+- Question : [SEQ050718566](seq050718566.md) — Implantation des caisses du RSI
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-11-03, page 2872*
+
+L'Instance nationale provisoire (INP), responsable de l'élaboration de la cartographie du futur régime social des indépendants (RSI) conformément à l'ordonnance n° 2005-299 du 31 mars 2005, a retenu le principe d'une organisation géographique, avec affiliation des assurés en fonction du lieu de la résidence principale. L'implantation territoriale des caisses du RSI est ainsi basée sur le principe d'une caisse régionale par région administrative. Seules les régions Ile-de-France, Rhône-Alpes et Provence-Alpes-Côte d'Azur font exception à ce principe, étant donné le grand nombre de leurs ressortissants, très supérieur à celui des autres régions. Par ailleurs, afin d'assurer un service de proximité avec l'assuré et prendre en compte les situations locales, la mise en place dans certaines régions de caisses déléguées et la création d'antennes ont été proposées. Les propositions de l'INP, permettant une répartition équilibrée de l'accueil et du suivi des affiliés entre les différentes régions, résultent d'un large consensus puisqu'elles ont été adoptées, notamment pour chaque région, à l'unanimité ou à une très large majorité. Aussi le Gouvernement a-t-il décidé de confirmer les orientations de l'INP, qui seront reprises dans la préparation des textes réglementaires à venir, textes qui préciseront par ailleurs les modalités d'action des caisses au niveau des régions dans le domaine de la gestion du risque maladie. S'agissant de la région Nord-Pas-de-Calais, le siège de la caisse régionale sera localisé à Lille. Arras sera le siège d'une caisse déléguée, compétente pour l'ensemble des missions sur le département du Pas-de-Calais, et rattachée à la caisse régionale.
