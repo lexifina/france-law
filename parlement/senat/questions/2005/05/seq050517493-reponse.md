@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517493
+
+- Question : [SEQ050517493](seq050517493.md) — Mise en place de la télévision numérique terrestre, notamment dans la Creuse
+
+## Réponse
+
+*Culture, JO du 2005-11-03, page 2860*
+
+L'honorable parlementaire interroge le ministre de la culture et de la communication sur l'existence d'un calendrier prévisionnel de l'évolution de la couverture de la télévision numérique terrestre (TNT) dans le département de la Creuse. Le calendrier initial de déploiement de la TNT décidé par le Conseil supérieur de l'audiovisuel (CSA) le 8 juin 2004 prévoit une extension progressive du taux de couverture. Celui-ci était de 35 % de la population au 31 mars 2005 pour le démarrage ; aujourd'hui de 50 %, puis s'étendra à 65 % à la fin du premier semestre 2006 et à 85 % en 2007. Le CSA a décidé, le 19 juillet 2005, de la mise en service d'un émetteur à Guéret entre le 15 juillet 2006 et le 15 octobre 2006. Le département de la Creuse bénéficiera alors d'un premier niveau de couverture. Afin de veiller à ce que l'ensemble des Français puissent bénéficier d'une offre de télévision en qualité numérique, un groupe de travail, coprésidé par le CSA et la direction du développement des médias, a été mis en place en avril dernier. Ses premières conclusions sont attendues courant octobre 2005. Outre l'accélération du calendrier de déploiement pour les sites pour lesquels les modalités techniques de diffusion des services sont arrêtées, ce groupe, qui associe acteurs privés et administrations concernées, doit examiner l'ensemble des différents moyens envisageables pour assurer l'accès de tous aux programmes de télévision numérique : l'extension de la couverture de la TNT, que ce soit par l'installation de nouveaux émetteurs ou l'augmentation de la puissance des émetteurs déjà installés, mais également la recherche de la complémentarité avec les autres vecteurs de diffusion ou de distribution de la télévision.
