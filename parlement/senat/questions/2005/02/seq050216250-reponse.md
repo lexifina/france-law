@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050216250
+
+- Question : [SEQ050216250](seq050216250.md) — Adhésion d'un syndicat mixte à un autre syndicat mixte
+
+## Réponse
+
+*Intérieur, JO du 2005-11-10, page 2914*
+
+Dans sa décision n° 265 938 du 5 janvier 2005 le Conseil d'Etat a considéré qu'un syndicat mixte fermé, c'est-à-dire ne comprenant que des communes et des EPCI, ne pouvait pas adhérer à un syndicat mixte ouvert, dans la mesure où le législateur qui n'a notamment pas prévu de procédure spécifique de consultation des membres dudit syndicat ne semble pas l'avoir autorisé. Cette décision n'apparaît pas transposable de façon certaine à l'ensemble des syndicats mixtes, d'une part parce que le mécanisme dit « de la représentation substitution » peut parfois conduire automatiquement à l'inclusion d'un syndicat mixte dans un autre syndicat mixte et, d'autre part, parce qu'en matière d'élimination des déchets ménagers et assimilés le législateur a prévu des modalités particulières de transfert en cascade de cette compétence. Toutefois, eu égard aux incertitudes que soulève la position du Conseil d'Etat, il apparaît préférable qu'une clarification législative intervienne rapidement afin de sécuriser une pratique dans certains cas très pertinente. C'est la raison pour laquelle le Gouvernement s'est déclaré favorable à l'adoption par le Sénat, lors de l'examen en première lecture du projet de loi sur l'eau et les milieux aquatiques, d'un amendement autorisant l'adhésion d'un syndicat mixte à un autre syndicat mixte. La modification législative adoptée par le Sénat, et qui doit maintenant être approuvée par l'Assemblée nationale, autorise l'adhésion des syndicats mixtes fermés compétents en matière d'eau, d'assainissement ou d'élimination des ordures ménagères à d'autres syndicats mixtes ouverts mentionnés aux articles L. 5721-1 et suivants du CGCT.
