@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718836
+
+- Question : [SEQ050718836](seq050718836.md) — Suppression des bourses d'enseignement supérieur
+
+## Réponse
+
+*Éducation, JO du 2005-11-10, page 2913*
+
+En 2004, l'Etat a consacré 4,5 milliards d'euros pour l'action sociale en faveur des étudiants, dont 1,3 milliard pour les bourses d'enseignement supérieur sur critères sociaux. Compte tenu de l'effort de la nation en matière d'aide sociale, les étudiants se doivent d'observer deux principes : l'assiduité aux cours et la présence aux examens. En cas de manquement à ces deux principes, la réglementation relative aux modalités d'attribution des bourses d'enseignement supérieur sur critères sociaux prévoit soit la suspension de la bourse, soit le reversement des sommes indûment perçues. Dans ce dernier cas, la sanction doit être modulée en fonction de la situation sociale de l'étudiant. Ainsi, cette dernière est-elle systématiquement prise en compte et peut avoir des conséquences sur la procédure d'émission d'un ordre de reversement. Trois cas peuvent alors apparaître : la révision de l'échéancier, le remboursement partiel de la bourse ou l'annulation pure et simple de la dette. Tous les contrôles afférents à l'assiduité et à la présence aux examens sont opérés sous la responsabilité des chefs d'établissement et relayés par les services du réseau des oeuvres universitaires et scolaires. Pour l'instant, il n'est pas envisagé de modifier les règles en vigueur. Cependant, soucieux d'améliorer les prestations apportées aux étudiants, le Premier ministre a confié à M. Wauquiez, député de Haute-Loire, une mission sur le dispositif actuel des aides directes dont les conclusions et les propositions seront remises au ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche à la fin de l'année 2005.
