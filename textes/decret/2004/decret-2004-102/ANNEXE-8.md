@@ -6,7 +6,7 @@ Casquette souple de couleur bleu foncé avec l'inscription "police municipale" e
 
 2. Blousons et vestes
 
-Blouson de couleur bleu foncé, avec l'inscription "police municipale", en blanc, sur les faces avant et arrière.
+Blouson de couleur bleu foncé, marqué sur les faces avant et arrière "police municipale" en blanc ou gris rétro-réfléchissant, au-dessus d'une bande en tissu rétro-réfléchissant gris, située autour de la poitrine et composée de trois bandes de couleur bleu gitane.
 
 3. Pulls et vestes polaires (en hiver)
 
@@ -41,3 +41,7 @@ Chaussettes noires, ou de couleur gris foncé ou bleu foncé.
 Galonnage sur grade de poitrine pour les polos ou blousons.
 
 Cordon de sifflet blanc non obligatoire.
+
+NOTA :
+
+Conformément à l'article 10 du décret n° 2013-1113 du 4 décembre 2013, les articles 1er, 2,4 à 6 et 8 et les annexes du décret n° 2004-102 du 30 janvier 2004 sont abrogés à compter de la publication de l'arrêté fixant les caractéristiques de la tenue des agents de police municipale prévu par l'article L. 511-4 du code de la sécurité intérieure (Arrêté du 5 mai 2014 nor INTD1405705A).

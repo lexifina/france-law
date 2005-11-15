@@ -2,7 +2,7 @@
 
 1. Couvre-chef
 
-Casque de moto blanc, entouré de trois bandes de couleur bleu gitane de part et d'autre de la visière, interrompues, sur la face arrière, par un carré gris de 3 cm de côté, comportant l'inscription "police municipale" en bleu gitane.
+Casque de moto blanc, entouré de trois bandes de couleur bleu gitane de part et d'autre de la visière, interrompues, sur la face arrière, par un rectangle gris, comportant l'inscription "police municipale" en bleu gitane.
 
 Lorsque le véhicule n'est pas utilisé, il est possible de porter un calot de couleur bleu foncé ou bleu gitane.
 
@@ -51,3 +51,7 @@ Galonnages sur épaulettes rigides ou manchons de couleur bleu gitane.
 Insigne de poitrine.
 
 Cordon de sifflet blanc non obligatoire.
+
+NOTA :
+
+Conformément à l'article 10 du décret n° 2013-1113 du 4 décembre 2013, les articles 1er, 2,4 à 6 et 8 et les annexes du décret n° 2004-102 du 30 janvier 2004 sont abrogés à compter de la publication de l'arrêté fixant les caractéristiques de la tenue des agents de police municipale prévu par l'article L. 511-4 du code de la sécurité intérieure (Arrêté du 5 mai 2014 nor INTD1405705A).

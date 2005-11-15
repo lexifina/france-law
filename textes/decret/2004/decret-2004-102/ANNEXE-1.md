@@ -1,13 +1,5 @@
 # Article ANNEXE 1
 
-Couleurs
-
-Pour la couleur appelée "bleu gitane", le numéro de Pantone est 18-4051 TP.
-
-Pour la couleur appelée "bleu foncé", le numéro de Pantone est 19-4025 TP.
-
-Pour la couleur appelée "bleu ciel", le numéro de Pantone est 14-4115 TP.
-
 Dimensions
 
 Les dimensions des lettres des mots "police" et "municipale" ne peuvent être augmentées, à partir des minima indiqués dans la présente annexe, que de manière identique.
@@ -131,3 +123,7 @@ Le nom de l'établissement public de coopération intercommunale qui a recruté 
 Les épaulettes rigides, manchons souples, manchons plastifiés et grades de poitrine sur bande auto-agrippante sont de couleur bleu gitane.
 
 Les éléments ou signes portés sur ces écussons et insignes ne doivent avoir aucun lien avec une organisation politique, syndicale ou une appartenance religieuse.
+
+NOTA :
+
+Conformément à l'article 10 du décret n° 2013-1113 du 4 décembre 2013, les articles 1er, 2,4 à 6 et 8 et les annexes du décret n° 2004-102 du 30 janvier 2004 sont abrogés à compter de la publication de l'arrêté fixant les caractéristiques de la tenue des agents de police municipale prévu par l'article L. 511-4 du code de la sécurité intérieure (Arrêté du 5 mai 2014 nor INTD1405705A).
