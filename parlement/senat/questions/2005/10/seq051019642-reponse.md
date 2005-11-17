@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019642
+
+- Question : [SEQ051019642](seq051019642.md) — Promotion de l'utilisation des huiles végétales pures
+
+## Réponse
+
+*Agriculture, JO du 2005-11-17, page 2974*
+
+En termes de bilan énergétique et de limitation de gaz à effet de serre, l'utilisation en carburation de l'huile végétale pure (non transformée chimiquement) - HVP - est favorable. Cette utilisation est techniquement possible dans les moteurs à injection indirecte moyennant une modification du système d'alimentation. Cependant, l'usage des HVP dans les moteurs de conception plus récente pose le problème de la garantie des constructeurs, qui considèrent que ce produit n'est pas adapté aux systèmes d'injection directe et, a fortiori, aux dispositifs d'injection à haute pression. Au plan de la combustion et de l'impact sur les émissions polluantes, il apparaît nécessaire de préciser les spécifications techniques des HVP. A cet effet, un accord-cadre conclu pour trois ans vient d'être signé par l'Agence de développement et de la maîtrise de l'énergie (ADEME) et la Fédération nationale des coopératives d'utilisation du matériel agricole (FNCUMA) afin d'acquérir des références sur la qualité des huiles (spécifications, suivi de consommation, niveau des émissions) permettant de définir des valeurs et des seuils susceptibles d'être retenus dans le cadre d'une normalisation au niveau national ou communautaire. S'agissant des huiles végétales pures, l'article 12 de la loi d'orientation agricole, à l'issue du débat à l'Assemblée nationale, propose d'autoriser dans un premier temps leur utilisation comme carburant agricole dans les exploitations ayant produit les grains dont l'huile est issue. Au terme d'un an et au vu d'un bilan de l'autoconsommation de ces huiles végétales pures, leur utilisation et leur commercialisation comme carburant agricole pourront être autorisées par décret.
