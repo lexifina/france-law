@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618180
+
+- Question : [SEQ050618180](seq050618180.md) — Délimitation d'une zone non constructible autour des stations d'épuration
+
+## Réponse
+
+*Écologie, JO du 2005-11-17, page 2983*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant la délimitation d'une zone non constructible autour des stations d'épuration. Il n'existe pas de dispositions législatives et réglementaires nationales imposant que des zones non aedificandi soient prévues autour des stations d'épuration urbaines ou fixant les règles de délimitation de ces zones s'il en existe. Il revient aux communes et à leurs groupements compétents en matière d'urbanisme et de délivrance des autorisations de construire d'apprécier au cas par cas la nécessité de prévoir des zones non constructibles autour des stations d'épuration. De telles zones peuvent être souhaitables compte tenu des risques de nuisances, en particulier olfactives, que peuvent générer certaines stations d'épuration des eaux usées urbaines existantes et qui peuvent rendre peu opportune l'implantation de constructions à leur proximité immédiate. En revanche, ces zones peuvent être réduites, voire supprimées, si les communes et les usagers des services d'assainissement peuvent prendre en charge au titre de leur compétence et de l'assainissement collectif les dépenses nécessaires à la suppression des nuisances en stations d'épuration. Inversement, lorsque les communes estiment souhaitable de modérer pour leurs habitants le prix du service d'assainissement en recourant à des procédés de traitement des eaux usées ne nécessitant pas des procédés coûteux de suppression de toutes les odeurs, il est préférable qu'elles puissent implanter ces installations de traitement à l'écart des habitations. En la matière, les choix relèvent donc de la responsabilité des communes à qui il revient d'arbitrer entre les intérêts des populations locales.
