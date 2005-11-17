@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718912
+
+- Question : [SEQ050718912](seq050718912.md) — Substances actives fipronil et imidaclopride et directive européenne 91/414/CEE
+
+## Réponse
+
+*Agriculture, JO du 2005-11-17, page 2969*
+
+La suspension de la mise sur le marché de la spécialité Gaucho pour le traitement des semences de maïs est effective depuis le 25 mai 2004. De même, l'interdiction d'utilisation des produits phytopharmaceutiques à base de fipronil a été confirmée par l'arrêté ministériel du 19 avril 2005. Ces décisions ont été prises sur la base de l'article L. 110-1 du code de l'environnement relatif au principe de précaution. En 2004, dans le cadre de l'évaluation scientifique des substances actives phytosanitaires au niveau communautaire, les autorités françaises ont proposé de ne pas inclure le fipronil sur la liste des substances actives phytosanitaires autorisées compte tenu de préoccupations majeures pour l'environnement, les espèces sauvages (organismes aquatiques, oiseaux et mammifères sauvages) et plus spécifiquement l'entomofaune. L'autorité européenne de sécurité des aliments (AESA) est en train d'évaluer le dossier du fipronil et devrait rendre son avis à la Commission européenne pour le début de l'année 2006. L'imidaclopride, substance active du « Gaucho », est également en cours de réévaluation au niveau communautaire. L'Etat membre rapporteur, l'Allemagne, a rendu en juin ses conclusions à l'AESA. Dans ces conditions, son avis pourrait être disponible à la fin de l'année 2006. Au niveau français, l'enquête prospective multifactorielle animée par l'Agence française de sécurité sanitaire des aliments et mise en oeuvre par les services régionaux de la protection des végétaux et les directions départementales des services vétérinaires touche à sa fin. Ses résultats pourraient être disponibles pour la fin de l'année 2005.
