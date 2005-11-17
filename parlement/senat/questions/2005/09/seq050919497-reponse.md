@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919497
+
+- Question : [SEQ050919497](seq050919497.md) — Prix de l'énergie et difficultés des producteurs maraîchers
+
+## Réponse
+
+*Agriculture, JO du 2005-11-17, page 2973*
+
+Particulièrement attentif à la réduction des charges en agriculture,le Gouvernement a pris une série de mesures substantielles pour limiter l'impact de la hausse des produits pétroliers, pour la période allant du 1er juillet au 31 décembre 2004 : remboursement de 4 centimes d'euro par litre de fioul domestique utilisé dans les activités agricoles et 0,71 euro par millier de kilowattheure sur le gaz naturel utilisé comme combustible par les serristes ; prolongation de ces mesures jusqu'au 31 juillet 2005 ; le 13 septembre, le Premier ministre a décidé de porter à 5 centimes d'euro le remboursement par litre de fioul, à 0,95 euro le remboursement par millier de kilowattheure de gaz naturel et à défiscaliser de 50 % le fioul lourd. Cela représente un effort supplémentaire pour l'Etat de 30 MEUR jusqu'au 31 décembre 2005. D'autres mesures d'ordre fiscal viennent compléter ce dispositif et contribuent à la baisse des charges en agriculture : la déduction pour aléas (DPA) pourra désormais être utilisée de façon permanente pour lisser les variations des cours de l'énergie ; le Premier ministre a également annoncé que, conformément à la demande de M. le Président de la République à Murat, la taxe sur le foncier non bâti baissera de 20 %, dès 2006, pour les exploitants agricoles. La loi de finances initiale pour 2006 précise que les propriétaires bailleurs devront reverser la totalité de cet avantage à leur fermier. Cette baisse de 140 MEUR sera intégralement compensée aux communes par l'Etat ; enfin, la réforme fiscale, annoncée par le Premier ministre le 1er septembre, concerne tous les Français et s'appliquera bien entendu aux horticulteurs, maraîchers et pépiniéristes.
