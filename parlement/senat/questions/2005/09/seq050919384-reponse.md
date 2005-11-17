@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919384
+
+- Question : [SEQ050919384](seq050919384.md) — Moyens financiers alloués aux communes forestières de la Meuse
+
+## Réponse
+
+*Agriculture, JO du 2005-11-17, page 2972*
+
+L'engagement financier pris par l'Etat au titre du plan Chablis pour la reconstitution des forêts sinistrées s'élève à 915 MEUR sur une période de dix ans. Environ 600 MEUR, soit près de 65 % du total prévu, ont été engagés à mi-parcours du plan. La dotation programmée pour l'année 2005, en légère progression par rapport à 2004, a été répartie entre les régions en tenant compte des surfaces à reconstituer et du rythme d'avancement des travaux. S'agissant de la région Lorraine, la dotation 2005 destinée aux aides à la reconstitution des forêts sinistrées appartenant aux communes ou aux propriétaires privés s'élève à 13,3 MEUR, cofinancement européen compris. Cette enveloppe représente plus de 22 % du total disponible, sur la base des crédits votés en loi de finances pour 2005. Le préfet de région est chargé de la répartition de la dotation entre les départements. Un bilan à mi-parcours sera réalisé d'ici à la fin de l'année 2005 avec les professionnels par le ministère de l'agriculture et de la pêche. Il permettra d'estimer les besoins pour les prochaines années en fonction de l'avancement des opérations de reconstitution. Pour l'année 2006, les dotations proposées au projet de loi de finances sont en légère progression, tant en autorisation d'engagement qu'en crédits de paiement, en tenant compte d'une modification du taux de cofinancement FEOGA, qui passe de 40 % à 50 %. Une attention toute particulière sera portée à la région Lorraine, après le vote de la loi de finances, lors de la répartition des dotations. Dans un contexte budgétaire contraint, le ministère de l'agriculture et de la pêche s'emploie à maintenir les dotations réservées à la reconstitution des forêts à un niveau en rapport avec l'importance de ce chantier.
