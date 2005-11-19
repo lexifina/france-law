@@ -138,7 +138,7 @@ Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
-- fourrages verts
+- fourrages verts (produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.)
 
 |
 
@@ -300,19 +300,19 @@ Aliments complets, à l'exception de :
 
 |
 
-Composés minéraux pour bovins, ovins et caprins
+Aliments complémentaires ayant une teneur en phosphore inférieure ou égale à 4 %
 
 |
 
-2 000
+500
 
 |
 
-- Autres aliments complémentaires
+Aliments complémentaires ayant une teneur en phosphore supérieure à 4 %
 
 |
 
-125 (1-3)
+125 pour 1 % de phosphore
 
 |
 
@@ -320,7 +320,7 @@ Composés minéraux pour bovins, ovins et caprins
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+Matières premières pour aliments des animaux
 
 |
 
@@ -328,7 +328,13 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- aliments provenant de la transformation de poisson ou d'autres animaux marins
+A l'exception de :
+
+|
+
+|
+
+- aliments provenant de la transformation de poissons ou d'autres animaux marins
 
 |
 
@@ -336,11 +342,25 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-Aliments complets, à l'exception de :
+- carbonate de calcium
+
+|
+
+0,3
+
+|
+
+Aliments complets
 
 |
 
 0,1
+
+|
+
+A l'exception de :
+
+|
 
 |
 
@@ -352,11 +372,17 @@ Aliments complets, à l'exception de :
 
 |
 
-Aliments complémentaires, à l'exception de :
+Aliments complémentaires
 
 |
 
 0,2
+
+|
+
+A l'exception de :
+
+|
 
 |
 
@@ -1267,8 +1293,6 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 (1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
 
 (1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
-
-(1-3) Teneur en fluor pour 1 % de phosphore.
 
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
