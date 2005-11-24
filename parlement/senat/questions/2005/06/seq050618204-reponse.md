@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618204
+
+- Question : [SEQ050618204](seq050618204.md) — Achèvement des sections reliant les autoroutes A 20 et A 71
+
+## Réponse
+
+*Transports et équipement, JO du 2005-11-24, page 3060*
+
+Lors du comité interministériel d'aménagement et de développement du territoire (CIADT) du 18 décembre 2003, le Gouvernement a décidé d'apporter des crédits supplémentaires pour financer la mise à deux fois deux voies de la route Centre-Europe-Atlantique (RCEA) en complément de ceux inscrits au volet routier du contrat de plan Etat-région. Le CIADT prévoyait ainsi une participation financière conséquente de l'Agence de financement des infrastructures de transport de France (AFITF) afin d'achever le doublement complet de cet axe entre l'A 20 et l'A 71 par l'aménagement de la section entre Gouzon et le département de l'Allier, non inscrite au contrat de plan. La convention relative au financement de la section Gouzon-Lamaids entre l'Etat et l'AFITF en application de cette décision du CIADT a été approuvée en juin 2005 par le conseil d'administration de l'AFITF. Elle permettra, dès 2005, la mise en place de 74 millions d'euros, dont 62 millions provenant de l'AFITF et 12 millions du conseil régional. Concernant les opérations inscrites au volet complémentaire RCEA du contrat de plan, l'avenant permettant d'intégrer les financements issus du FEDER de 2003 a été signé par le préfet de région et le président du conseil régional. Les travaux en cours entre Parsac et Gouzon seront donc achevés comme l'ont été ceux de la section située entre Parsac et la route départementale 990, dont la mise en service est intervenue à la fin de l'année 2004. Le plan de financement de l'ensemble de la section reliant l'A 20 et l'A 71 est donc aujourd'hui approuvé par tous les partenaires financiers et permet d'envisager la réalisation complète du doublement de cette partie de la RCEA à l'horizon 2009.
