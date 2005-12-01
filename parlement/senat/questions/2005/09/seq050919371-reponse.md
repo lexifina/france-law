@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919371
+
+- Question : [SEQ050919371](seq050919371.md) — Ecocertification de la forêt limousine
+
+## Réponse
+
+*Agriculture, JO du 2005-12-01, page 3096*
+
+Les acteurs de la filière forêt bois ont engagé une démarche de certification forestière en 2001 en choisissant le schéma de certification du programme européen des forêts certifiiées (PEFC). En septembre 2005, près de 4 millions d'hectares de forêt étaient certifiés PEFC et 780 entreprises disposaient d'une chaîne de contrôle permettant le suivi des bois. En métropole, la totalité des forêts domaniales dites de production, 40 % des forêts de collectivités et 12 % de forêts privées, sont ainsi actuellement certifiées. En région Limousin, près de 60 000 hectares de forêts sont certifiés PEFC sur une superficie forestière totale de 574 000 hectares. L'essentiel de la certification concerne la forêt privée avec près de 1 700 propriétaires qui se sont engagés dans la démarche, ce qui représente 51 000 hectares de surfaces certifiées. C'est ainsi que près de 10 % de la forêt limousine est concernée par la certification. La moindre représentation de la forêt publique (environ 5 % des surfaces en Limousin) explique un taux de certification plus faible que la moyenne nationale, compensé cependant par une forte évolution des adhésions. Cinquante-six entreprises ont mis en place une chaîne de contrôle, plus des trois quarts étant des entreprises d'exploitation forestière ou des scieries. Les efforts conjugués des propriétaires publics et privés devraient permettre dans les années à venir de développer plus largement la certification forestière. La croissance régulière des marchés de bois certifiés (en 2004, plus de 20 % de la récolte totale française) sera un élément important pour inciter plus largement les propriétaires privés à adhérer à un schéma de certification forestière.
