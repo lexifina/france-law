@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050818987
+
+- Question : [SEQ050818987](seq050818987.md) — Situation des centres de santé en soins infirmiers (CSSI)
+
+## Réponse
+
+*Santé et solidarités, JO du 2005-12-01, page 3110*
+
+L'attention du ministre de la santé et des solidarités est appelée sur la situation difficile des centres de santé infirmiers à la suite des augmentations de salaires décidées par l'accord de branche du 29 mars 2002 portant sur l'aide à domicile. Le ministre précise que ses services sont en train d'y travailler après avoir rencontré les représentants de l'Union nationale des associations coordinatrices de soins et santé (UNACSS). Les conditions de mise en oeuvre des pistes envisagées lors de cette rencontre sont en cours d'examen. Des solutions aux difficultés rencontrées par les centres devront également être recherchées dans le cadre conventionnel qui relève de la compétence de l'UNCAM conformément à l'article L. 162-31-1 du code de la sécurité sociale. Le ministre rappelle d'ailleurs que les partenaires conventionnels ont d'ores et déjà, au cours de ces dernières années, signé plusieurs avenants favorables aux centres de santé. Ainsi, les signataires se sont entendus sur les diverses modalités de rémunération des activités des centres de santé, sur les conditions dans lesquelles les organismes d'assurance maladie participent aux actions d'accompagnement de l'informatisation des centres de santé à des fins notamment de télétransmission ainsi que sur le montant de la dotation annuelle pour le financement de la formation professionnelle. En outre, les centres de santé en soins infirmiers ont eu également la possibilité de bénéficier, de façon optionnelle, d'un forfait de coordination dont le montant est fonction du nombre d'équivalents temps plein de professionnels de santé travaillant dans le centre.
