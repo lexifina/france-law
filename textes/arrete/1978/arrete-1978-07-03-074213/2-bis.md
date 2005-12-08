@@ -56,19 +56,19 @@ I
 
 |
 
-251,16
+255,68
 
 |
 
-302,92
+308,37
 
 |
 
-342,36
+348,52
 
 |
 
-49,65
+50,54
 
 |
 
@@ -76,19 +76,19 @@ II
 
 |
 
-218,89
+222,83
 
 |
 
-267,92
+272,74
 
 |
 
-301,48
+306,91
 
 |
 
-43,87
+44,66
 
 |
 
@@ -96,19 +96,19 @@ III
 
 |
 
-205,15
+208,84
 
 |
 
-248,71
+253,19
 
 |
 
-278,85
+283,87
 
 |
 
-39,97
+40,69
 
 |
 
@@ -120,4 +120,4 @@ Les montants obtenus par l'application de ces pourcentages sont arrondis au fran
 
 NOTA :
 
-NOTA : Arrêté du 30 avril 2004 - article 12 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2003.
+NOTA : Arrêté du 7 décembre 2005 - article 4 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de septembre 2005.
