@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050819095
+
+- Question : [SEQ050819095](seq050819095.md) — Situation des entreprises locales de distribution d'électricité (ELD)
+
+## Réponse
+
+*Industrie, JO du 2005-12-08, page 3182*
+
+La proposition de nouveaux tarifs d'utilisation des réseaux publics d'électricité que la commission de régulation de l'énergie (CRE) a transmise au ministre de l'économie, des finances et de l'industrie et au ministre délégué à l'industrie le 29 juillet dernier est susceptible d'entraîner une baisse significative des recettes de certains distributeurs en raison notamment de la diminution des tarifs en basse tension. Le Gouvernement n'a pas manqué de soulever cette difficulté et d'en faire part au régulateur. Il ressort de l'analyse menée que les futurs tarifs ne sauraient avoir une incidence immédiate sur les comptes intégrés des distributeurs non nationalisés (DNN). En effet, la quasi totalité des utilisateurs raccordés en basse tension n'ont pas exercé leur éligibilité et sont redevables des tarifs réglementés pour lesquels la moindre recette d'acheminement est exactement compensée par une augmentation des recettes incombant à l'activité de fourniture. Les conséquences des futurs tarifs sur les comptes des DNN devraient donc rester limitées jusqu'au 1er juillet 2007. A cette échéance, la CRE devrait soumettre au Gouvernement une nouvelle proposition tarifaire. Toutefois, si les nouveaux tarifs avaient des conséquences notables, le Gouvernement aménagerait provisoirement le Fond de péréquation de l'électricité. Cet aménagement serait destiné à assurer la transition entre le nouveau tarif et la proposition tarifaire que soumettra la CRE en 2007. Dans cette perspective, le ministre de l'économie, des finances et de l'industrie et le ministre délégué à l'industrie ont décidé d'approuver la proposition de la CRE, l'entrée en vigueur des nouveaux tarifs étant programmée au 1er janvier 2006.
