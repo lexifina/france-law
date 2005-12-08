@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517676
+
+- Question : [SEQ050517676](seq050517676.md) — Substitution d'autres financements de l'Etat aux crédits européens épuisés en Lorraine
+
+## Réponse
+
+*Aménagement du territoire, JO du 2005-12-08, page 3168*
+
+Les crédits européens affectés aux zones en soutien transitoire dansle cadre du programme objectif 2 de Lorraine se sont élevés à 31,6 millions d'euros pour la période 2000-2005. Dès 2001, de nombreux projets ont été soumis au comité régional de programmation qui a sélectionné, parmi les actions proposées, celles qui étaient susceptibles d'avoir le plus fort effet structurant pour le développement local. La diminution des sommes restant à programmer est la traduction de l'avancement du programme. L'importante mobilisation du partenariat régional a ainsi permis d'éviter le dégagement d'office et d'assurer une bonne exécution du programme. Toutefois, malgré les consignes données aux Préfets de régions de pratiquer une programmation très réactive en déprogrammant les projets qui ne pourraient se réaliser à court terme, le montant des crédits ne permet pas toujours de satisfaire l'ensemble des besoins des territoires. De plus la programmation en zone transitoire s'achève au 31 décembre 2005. Ainsi, la demande de subvention européenne pour le contournement de la commune de Grundviller n'a pas pu aboutir. La dotation d'équipement (D.G.E.), dont les conditions d'utilisation sont fixées par la commission des élus, ne peut s'appliquer à des travaux pouvant bénéficier de subventions spécifiques. Or, dans le cas de Grundviller, les travaux de voirie relèvent du régime d'aides du département. Cela étant, les travaux d'élargissement du pont de l'Albe, qui ont été financés par l'État, ont été achevés à la fin septembre 2005. Cet élargissement permet désormais de dégager la traversée de Grundviller des passages de convois exceptionnels.
