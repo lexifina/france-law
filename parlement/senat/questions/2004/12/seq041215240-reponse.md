@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215240
+
+- Question : [SEQ041215240](seq041215240.md) — Coût d'élimination des déchets des laboratoires pharmaceutiques
+
+## Réponse
+
+*Écologie, JO du 2005-12-08, page 3170*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à l'élimination des emballages de médicaments. Conformément au décret n° 92-377 du 1er avril 1992 relatif à l'élimination et à la valorisation des déchets d'emballages ménagers, chaque producteur de produits emballés à destination des ménages est tenu de contribuer ou de pourvoir à l'élimination de l'ensemble de ses déchets d'emballages. Pour ce faire, les producteurs peuvent recourir aux services d'un organisme agréé, tel Adelphe ou Eco-Emballages, moyennant une contribution financière dont les bases sont fixées dans le cahier des charges de l'agrément. Ils peuvent aussi mettre en place un dispositif de collecte et de valorisation de leurs emballages, qui doit alors être approuvé par les pouvoirs publics. Enfin, ils peuvent recourir à un système de consigne. Concernant les emballages de médicaments, l'approbation délivrée par les pouvoirs publics à l'association Cyclamed n'a pas été renouvelée, notamment du fait des faibles performances du dispositif de collecte et de recyclage des emballages de médicaments. L'industrie du médicament devra tenir informés les pouvoirs publics des dispositions prises pour remplir les obligations qui lui incombent au titre du décret n° 92-377 du 1er avril 1992. Par ailleurs, le ministère de la santé et des solidarités travaille conjointement avec le ministère de l'écologie et du développement durable à l'amélioration du dispositif de reprise des médicaments non utilisés, afin d'accroître le taux de collecte et de sécuriser leur circuit de valorisation à des fins humanitaires.
