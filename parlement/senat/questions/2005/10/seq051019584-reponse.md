@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019584
+
+- Question : [SEQ051019584](seq051019584.md) — Situation des jeunes agents du MAE expatriés, à leur retour à Paris
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-12-08, page 3160*
+
+S'agissant de l'attribution des logements sociaux, le ministère des affaires étrangères considère comme prioritaires les agents de retour de l'étranger. Il est cependant indispensable que les agents constituent un dossier des le mois d'avril pour unretour en France prévu en août ou en septembre. Dans la mesure où ce ministère n'est propriétaire d'aucun de ces appartements, la procédure est relativement longue et dure en moyenne de six à huit semaines avant que le demandeur ne soit assuré que le logement lui est attribué. En effet, son dossier doit être validé par l'organisme collecteur puis transmis à la commission du bailleur, souverain dans l'attribution des logements sociaux. Par ailleurs, le candidat au logement ne peut entrer dans les lieux et avoir par conséquent une adresse officielle que lorsque le précédent locataire est parti, ce qui, dans la grande majorité des cas, se produit au cours de l'été. Dans ces conditions, trouver un système satisfaisant de garde de jeunes enfants pour les agents de retour de l'étranger est en effet compliqué. Bien que ce problème ne diffère malheureusement pas sensiblement de celui de nombreux parents établis à Paris, ce ministère demeure néanmoins très attentif à cette question. C'est pourquoi il attribue aux agents en fonction à l'administration centrale une prestation garde d'enfants qui vient en complément des aides apportées par la caisse d'allocations familiales et la fonction publique (dans la limite de la dépense engagée) ; son montant est calculé notamment en fonction des revenus du couple ou du parent isolé. Par ailleurs, l'équipe d'assistantes sociales du MAE apporte son soutien aux agents en s'efforçant de faciliter leurs démarches auprès des organismes compétents.
