@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417289
+
+- Question : [SEQ050417289](seq050417289.md) — Entretien des routes et TGV
+
+## Réponse
+
+*Transports et équipement, JO du 2005-12-08, page 3188*
+
+En l'absence de dispositions législatives ou réglementaires sur la propriété des ponts, la jurisprudence a dégagé les principes qui s'appliquent en la matière. Depuis l'arrêt du conseil d'État du 14 décembre 1906, préfet de l'Hérault (CE, 14 décembre 1906, préfet de l'Hérault, Rec. p. 918), les ponts sont des éléments constitutifs des voies dont ils relient les parties séparées de façon à assurer la continuité du passage. Cette solution a été réaffirmée à plusieurs reprises par le juge administratif et récemment dans sa décision « Département de la Somme » (CE, Département de la Somme, 26 septembre 2001). Dans cette dernière décision, la Haute Assemblée rappelle qu'en vertu des dispositions de l'article L. 131-2 du code de la voirie routière « les dépenses relatives à la construction, à l'aménagement et à l'entretien des routes départementales sont à la charge du département » et en déduit que, par suite, l'ouvrage constitué par le pont litigieux dans cette espèce relève, depuis sa construction, de la voirie départementale dont le département a l'obligation d'assurer l'entretien. Cette obligation de gestion et d'entretien incombe au propriétaire de la voirie portée par le pont, quelle que soit l'identité de la personne qui a construit ou financé la construction du pont et quelle que soit l'antériorité de l'ouvrage porté par rapport à l'ouvrage franchi. En conséquence, dans le cas précis évoqué, la gestion et l'entretien du pont incombent au gestionnaire de la voirie portée, c'est-à-dire à la commune. Des conventions peuvent toutefois être négociées entre les collectivités pour la répartition des frais afférents.
