@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050819007
+
+- Question : [SEQ050819007](seq050819007.md) — Suppression de la participation financière des communes à la scolarisation privée dans d'autres communes
+
+## Réponse
+
+*Éducation, JO du 2005-12-08, page 3175*
+
+L'article 89 de la loi du 13 août 2004 modifié par l'article 89 de la loi du 23 avril 2005 précise que « les trois premiers alinéas de l'article 218-8 du code de l'éducation sont applicables pour le calcul des contributions des communes aux dépenses obligatoires, concernant les classes des écoles privées sous contrat d'association ». Pour appliquer correctement l'article, il faut revenir à la règle fondamentale de la parité et de la loi Debré. Le principe de la contribution des communes pour les élèves scolarisés à l'extérieur de leur commune de résidence s'appliquait déjà aux écoles privées, comme aux écoles publiques mais, ce principe n'était assorti d'aucun dispositif permettant de résoudre les éventuels conflits surgissant entre les communes. Désormais, en l'absence d'accord entre communes, le préfet interviendra pour fixer la répartition des contributions entre celles-ci. Il le fera dans le respect de la loi Debré. Ainsi, cet article ne saurait mettre à la charge de la commune de résidence une contribution supérieure à celle qui lui incomberait si les élèves concernés étaient scolarisés dans une école publique. L'application effective de l'article 89 permettra de corriger la rupture de parité, sans pour autant fragiliser les finances des communes et le réseau des écoles publiques. Une circulaire interministérielle à destination des préfets est en cours de rédaction pour expliciter le dispositif. Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche fait confiance aux établissements et aux collectivités pour privilégier le dialogue.
