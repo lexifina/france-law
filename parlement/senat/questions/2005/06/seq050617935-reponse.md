@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617935
+
+- Question : [SEQ050617935](seq050617935.md) — Pensions de réversion de la marine marchande
+
+## Réponse
+
+*Transports et équipement, JO du 2005-12-15, page 3245*
+
+La pension d'ancienneté constitue un avantage personnel qui n'est dû qu'au bénéficiaire qui en fait la demande. Ce principe a été confirmé maintes fois par la jurisprudence dans le domaine de l'assurance vieillesse. Cela signifie que ni le conjoint d'un assuré décédé, ni ses héritiers ne peuvent réclamer un droit à pension dont le titulaire ne s'était pas prévalu. Pour ce qui est du régime de retraite des marins géré par l'Établissement national des invalides de la marine (ENIM), la circulaire no 34/01 du 29 novembre 2001, relative à la validation rétroactive des périodes d'enseignement maritime au titre de la promotion sociale, n'a pas créé de droits nouveaux à l'égard des marins pensionnés. Les marins ont donc eu la possibilité, aussi bien avant qu'après la parution de cette circulaire, de demander et d'obtenir, dans les conditions prévues par la réglementation en vigueur, la validation rétroactive de périodes de formation continue qu'ils ont accomplies. Une telle validation entraîne, en effet, une révision des droits du pensionné, modifiant par voie de conséquence, lors du décès du marin, l'assiette de calcul de la pension de réversion en faveur du conjoint survivant. Mais la circulaire visée ci-dessus n'a pas eu pour objet et ne peut avoir pour effet d'ouvrir ou de rouvrir des droits en faveur des veuves de marins qui, de leur vivant, n'ont pas souhaité ou n'ont pas été en mesure de solliciter une validation rétroactive de telles périodes. Il ne peut donc légalement être envisagé de recalculer des droits éventuels pour ces veuves titulaires de pension de réversion. Une telle mesure irait à l'encontre du principe dégagé par la jurisprudence et rappelé ci-dessus.
