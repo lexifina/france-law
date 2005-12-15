@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019619
+
+- Question : [SEQ051019619](seq051019619.md) — Campagne double pour les anciens combattants fonctionnaires et revalorisation de la retraite du combattant
+
+## Réponse
+
+*Anciens combattants, JO du 2005-12-15, page 3227*
+
+Comme le sait l'honorable parlementaire, l'étude menée par un inspecteur général des affaires sociales sur l'attribution de la « campagne double » aux anciens combattants fonctionnaires et assimilées est achevée. Elle a donné lieu à une large concertation. Le rapport final a été remis au ministre délégué aux anciens combattants en juillet 2005. Les prochains mois vont être consacrés à des analyses juridiques complémentaires afin d'orienter la décision du Gouvernement. Pour ce qui concerne la retraite du combattant, le ministre indique à l'honorable parlementaire que, lors des débats budgétaires à l'Assemblée nationale sur les crédits de la mission « anciens combattants, mémoire et lien avec la nation », le 8 novembre dernier, le Gouvernement a présenté un amendement, qui a été adopté, et qui prévoit l'augmentation de l'indice de référence de la retraite du combattant de deux points. Dès le 1er juillet 2006, il sera porté à trente-cinq points, ce qui correspond à un montant annuel de 456,05 euros. Le ministre rappelle que l'indice de référence de la retraite du combattant, indexé sur l'évolution des traitements bruts de la fonction publique en application du rapport constant défini à l'article L. 8 bis du code des pensions militaires d'invalidité et des victimes de la guerre, était basé sur l'indice 33 depuis 1978. Cette mesure sans précédent depuis près de trente ans, et qui représente un effort budgétaire de dix-huit millions d'euros dans le projet de loi de finances, atteste à la fois de l'attention que le Gouvernement porte au monde combattant et du respect de ses engagements envers les associations.
