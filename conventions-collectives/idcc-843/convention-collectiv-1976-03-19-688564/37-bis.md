@@ -22,11 +22,11 @@
 
 3. Les partenaires sociaux décident que le fonds d'action professionnelle et sociale, créé le 1er juillet 1981 dans le cadre du fonds de péréquation, demeure.
 
-Les partenaires sociaux rappellent que le fonds d'action professionnelle et sociale a été créé afin de permettre des actions ou réalisations collectives ou individuelles au bénéfice des membres des professions relevant de la convention collective nationale.
+Les partenaires sociaux rappellent que le fonds d'action professionnelle et sociale a été créé afin de permettre des actions ou réalisations collectives ou individuelles au bénéfice des membres des professions relevant de la convention collective nationale. Il a également pour objet le financement à titre exceptionnel d'allocation équivalant à tout ou partie des avantages auxquels auraient eu droit certains salariés s'ils avaient satisfait à toutes les conditions requises à la convention collective et de dossiers présentant un caractère social et humain. Ces dossiers après instruction par les services d'ISICA Prévoyance sont soumis pour décision au comité national paritaire de la boulangerie (CNPB) qui fonctionne au sein d'ISICA et qui a été institué par l'accord paritaire du 22 janvier 1958. Les décisions du CNPB sont souveraines.
 
 4. Les partenaires sociaux ont décidé de désigner, pour une durée de 2 ans maximum, ISICA Prévoyance comme organisme gestionnaire du fonds de péréquation et du FAPS.
 
-5. Le taux de cotisation du fonds de péréquation est fixé à 0,12 % du salaire brut limité au plafond de la sécurité sociale. Le taux de cotisation du FAPS est fixé à 0,06 % du salaire brut limité au plafond de la sécurité sociale.
+5. Le taux de cotisation du fonds de péréquation est fixé à 0,16 % du salaire brut limité au plafond de la sécurité sociale. Le taux de cotisation du FAPS est fixé à 0,06 % du salaire brut limité au plafond de la sécurité sociale.
 
 Les cotisations du fonds de péréquation et du FAPS sont à la charge exclusive de l'employeur.
 
