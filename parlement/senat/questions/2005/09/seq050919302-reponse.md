@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919302
+
+- Question : [SEQ050919302](seq050919302.md) — Droit à la retraite des objecteurs de conscience
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-12-22, page 3295*
+
+La situation du personnel des chambres de métiers et de l'artisanat est déterminée par un statut établi en application de la loi n° 52-1311 du 10 décembre 1952, par une commission paritaire nationale (CPN 52) présidée par le représentant du ministre chargé de l'artisanat et composée de 6 présidents de chambres désignés par le bureau de l'assemblée des présidents de chambres et de 6 représentants du personnel des chambres désignés par les organisations syndicales les plus représentatives. Cette commission a donc toute compétence pour fixer les règles à caractère statutaire applicables à tous les personnels des chambres de métiers et de l'artisanat, qu'il s'agisse de personnel titulaire ou non titulaire. Ce statut ainsi élaboré prévoit d'une part, en son article 17, que pour le calcul de l'ancienneté, il est tenu compte du temps passé sous les drapeaux et, d'autre part, en son article 32 que pendant la durée légale de son service national, l'agent est placé dans une position spéciale dite « sous les drapeaux ». S'agissant des droits à la retraite pour un agent d'une chambre de métiers et de l'artisanat ayant effectué son service national en tant qu'objecteur de conscience, ce statut a créé, en son article 50, une autre commission nationale paritaire (CPN 50), composée de 6 présidents de chambres et de 6 représentants des salariés qui, en vertu de l'article 53 du statut, est seule compétente pour donner un avis sur l'interprétation du statut et connaître des difficultés de principe nées de son application. L'agent dont les missions effectuées au titre de l'objection de conscience ne sont pas prises en compte dans le calcul de sa pension doit par conséquent saisir la CPN 50 afin qu'elle donne son avis sur cette question.
