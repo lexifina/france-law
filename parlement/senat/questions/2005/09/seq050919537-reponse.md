@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919537
+
+- Question : [SEQ050919537](seq050919537.md) — Réforme de la taxe professionnelle
+
+## Réponse
+
+*Budget, JO du 2005-12-22, page 3287*
+
+Les simulations approfondies réalisées à la suite du rapport de la commission de réforme de la taxe professionnelle montrent que tous les scénarios de réforme consistant à généraliser l'assiette constituée par la valeur ajoutée se traduisent par un alourdissement de la charge fiscale supportée par les entreprises de services, qui ne pourrait être corrigé qu'au prix d'un coût budgétaire trop élevé. Dès lors, le Gouvernement privilégie une solution visant à corriger les situations de surimposition et à soutenir l'investissement. Le premier volet de la réforme consiste ainsi à rendre effectif le plafonnement de l'imposition à 3,5 % de la valeur ajoutée produite par l'entreprise. Le dégrèvement sera pour une très large partie pris en charge par l'Etat, sur la base d'une cotisation de référence calculée, en règle générale, au taux de l'année 2004. Le solde du dégrèvement, correspondant aux augmentations de taux constatées depuis 2004, serait pris en charge par les collectivités territoriales, avec plusieurs mécanismes de garantie. Cette mesure permettra de rendre à la taxe professionnelle son véritable caractère d'impôt local. Le second volet de la réforme est la pérennisation du dégrèvement au titre des investissements nouveaux. Les investissements neufs éligibles à l'amortissement dégressif ouvriraient ainsi droit à un dégrèvement de taxe professionnelle égal respectivement à la totalité, aux deux tiers, et à un tiers de la cotisation de taxe professionnelle pour la première année au titre de laquelle ces biens sont compris dans la base d'imposition et pour les deux années suivantes. Cette réforme, qui figure dans le projet de loi de finances pour 2006, va dans le sens des préoccupations de l'auteur de la question.
