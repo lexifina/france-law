@@ -1,5 +1,3 @@
-# Article 1
+# Article 1er
 
-Le régime est établi sur les bases suivantes :
-
-Une allocation de fin de carrière est allouée, selon les modalités fixées dans les articles suivants, à tout salarié relevant de la convention collective nationale qui termine sa carrière à l'âge de soixante ans ou au-delà et compte au moins ses dix dernières années de fonction dans la profession.
+Une allocation de fin de carrière est allouée, selon les modalités fixées dans les articles suivants, à tout salarié relevant de la convention collective nationale qui termine sa carrière à l'âge légal ou au-delà et compte au moins ses 10 dernières années de fonction de la profession.
