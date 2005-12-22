@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019989
+
+- Question : [SEQ051019989](seq051019989.md) — Français membres du personnel de service à l'ambassade de Tunis : salaires
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-12-22, page 3283*
+
+La grille de rémunérations mise en place en 2004 et ajustée en 2005 a été réalisée dans un souci de simplification et a regroupé sur quatre niveaux de qualification, au lieu de huit précédemment, la dizaine de fonctions correspondant à des emplois de service. Le ministère des affaires étrangères s'est efforcé de limiter les disparités de rémunération entre nationalités et d'adapter les salaires à la réalité du marché local. Par ailleurs, le ministère des affaires étrangères s'est attaché à améliorer l'évolution de carrière des agents : ainsi la grille mise en place en Tunisie prévoit une évolution à l'ancienneté de 3 % jusqu'au 5e échelon puis de 4 % pour les suivants, soit une évolution salariale de 67 % sur l'ensemble de la carrière au lieu de 30 % selon l'ancienne grille. Les agents du poste ont ainsi connu une hausse moyenne de leur rémunération de 18 % entre 2003 et 2005 pour les agents de service et de 20 % pour les agents de bureau en application du nouveau cadre salarial. Parallèlement, un mécanisme de prise en compte de l'augmentation du coût de la vie, qui concerne l'ensemble des agents de recrutement local, a été mis en place. Une commission interministérielle, chargée de statuer sur les revalorisations de salaires au titre de la compensation de l'augmentation du coût de la vie, se réunit tous les ans et décide du taux de revalorisation nécessaire pour compenser l'inflation constatée l'année précédente, en référence au taux publié par le FMI. A ce titre, l'ensemble des agents de recrutement local en Tunisie a pu bénéficier d'une augmentation salariale additionnelle de 3,10 % en 2003, de 2,70 % en 2004 et de 2 % en 2005.
