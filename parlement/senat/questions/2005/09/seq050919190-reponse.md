@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919190
+
+- Question : [SEQ050919190](seq050919190.md) — Impôt sur le revenu des personnes veuves handicapées ayant élevé un ou plusieurs enfants
+
+## Réponse
+
+*Budget, JO du 2005-12-29, page 3349*
+
+Le système du quotient familial a pour objet de proportionner l'impôt sur le revenu aux facultés contributives de chaque contribuable, celles-ci étant attribuées en fonction du nombre de personnes qui vivent du revenu du foyer. Seules les charges de famille du contribuable doivent donc normalement être prises en considération pour la détermination du nombre de parts dont il peut bénéficier. De ce point de vue, la demi-part supplémentaire accordée au titre d'enfants majeurs qui ne sont plus à charge constitue une importante dérogation, puisqu'elle ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité. C'est pourquoi la loi prévoit qu'elle ne peut se cumuler avec les autres majorations de quotient familial. En effet, il ne serait pas équitable qu'une personne seule dispose du même quotient familial qu'un couple soumis à imposition commune. Toutefois, l'avantage maximum en impôt procuré par la demi-part accordée au titre de l'invalidité est fixé à un niveau plus élevé que celui résultant de la demi-part supplémentaire accordée aux personnes seules sans charge de famille ayant un enfant majeur imposé séparément, âgé de plus de vingt-cinq ans. Ainsi, pour l'imposition des revenus de 2004, l'avantage maximum en impôt procuré par l'avantage de quotient familial accordé au titre de l'invalidité peut atteindre 2 721 euros, alors qu'il est limité à 814 euros en ce qui concerne la demi-part supplémentaire accordée aux personnes seules sans charge de famille dont tous les enfants majeurs imposés distinctement sont âgés de plus de vingt-cinq ans.
