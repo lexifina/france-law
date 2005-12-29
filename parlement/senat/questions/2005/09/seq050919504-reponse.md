@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919504
+
+- Question : [SEQ050919504](seq050919504.md) — Congé pour adoption des fonctionnaires français en poste à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-12-29, page 3338*
+
+Le cinquième alinéa de l'article 122-26 du code du travail réserve le bénéfice du congé d'adoption aux agents « à qui un service départemental d'aide sociale à l'enfance, un organisme français autorisé pour l'adoption ou l'Agence française de l'adoption confie un enfant en vue de son adoption ». Ces dispositions visent à éviter que les salariés qui adoptent des enfants en dehors d'un cadre légal ne puissent s'en prévaloir pour obtenir un congé d'adoption. Toutefois, l'alinéa suivant ajoute que « les dispositions de l'alinéa précédent sont applicables à la personne salariée titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille et de l'aide sociale (devenus les articles 225-2 et 225-15 du code de l'action sociale et des familles) lorsqu'elle adopte ou accueille un enfant en vue de son adoption par décision de l'autorité étrangère compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français ». Il en résulte que les agents de l'Etat en service à l'étranger peuvent bénéficier d'un congé d'adoption, même s'ils n'ont pas recours à un organisme français autorisé pour l'adoption mais s'adressent à un organisme étranger, dès lors qu'ils sont simplement titulaires de l'agrément prévu par le code de l'action sociale et des familles. Dans la mesure où les agents de l'Etat peuvent bénéficier d'un congé d'adoption, quel que soit l'organisme d'adoption auquel ils ont recours, dès lors qu'ils ont obtenu en France l'agrément nécessaire pour adopter un enfant, il ne paraît pas nécessaire de modifier les dispositions de l'article 122-26 du code du travail.
