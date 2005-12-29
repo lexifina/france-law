@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718867
+
+- Question : [SEQ050718867](seq050718867.md) — Travaux de protection des piscines
+
+## Réponse
+
+*Transports et équipement, JO du 2005-12-29, page 3368*
+
+Les particuliers sont en effet contraints, par la loi n° 2003-9 du 3 janvier 2003 et son décret d'application du 7 juin 2004, de protéger leurs piscines, et ont pour cela le choix entre, notamment, abri, barrière, couverture de sécurité ou alarme. Les propriétaires ont le choix entre plusieurs systèmes de protection. Il existe une grande variété de systèmes de protection proposés sur le marché, et le régime d'autorisation d'urbanisme applicable est le régime de droit commun. Il n'existe aucune règle spécifique pour les systèmes de sécurité pour les piscines, c'est le régime général qui s'applique selon les caractéristiques de chaque installation. Ainsi, les systèmes de protection tels que les barrières, les alarmes ou les installations de couverture de piscine de type « bâche », ayant pour simple fonction de protéger le bassin contre les intempéries ou les chutes de personnes, sont exclus du champ du permis de construire, et donc de la déclaration de travaux lorsqu'en application de l'article L. 421-1, 4e alinéa, elles ne constituent pas une construction. S'agissant des abris de piscines, la réglementation est peu lisible. En ce qui concerne les règles relatives au droit de l'urbanisme, les couvertures qui ont pour effet de transformer les piscines à l'air libre en « piscines couvertes » entrent dans le champ d'application du permis de construire dès lors que leur superficie est supérieure à 20 mètres carrés. En dessous de ce seuil, une simple déclaration de travaux est requise. Une réforme est actuellement menée pour revoir en profondeur la rédaction du code de l'urbanisme, aujourd'hui parfois confuse, et le champ d'application du permis de construire sera l'un des points importants de cette réforme.
