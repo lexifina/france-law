@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019720
+
+- Question : [SEQ051019720](seq051019720.md) — Conditions de délivrance du titre de capacité de transporteur routier
+
+## Réponse
+
+*Transports et équipement, JO du 2005-12-29, page 3369*
+
+La capacité de transport est exigée des dirigeants des entreprises de transport routier et non des chauffeurs routiers. Le décret n° 99-752 du 30 août 1999 relatif aux transports routiers de marchandises réglemente l'exercice de la profession de transporteurs publics routiers de marchandises et de loueurs de véhicules industriels avec conducteur destinés au transport de marchandises. Les entreprises de transport public routier de marchandises immatriculées au registre du commerce et des sociétés ou au répertoire des métiers doivent, pour exercer leur activité, être également inscrites au registre des transporteurs et des loueurs tenu par le préfet de la région où elles ont leur siège. Cette inscription est soumise aux conditions d'honorabilité professionnelle, de capacité financière et de capacité professionnelle. Pour répondre à la condition de capacité professionnelle, la personne qui assure la direction permanente et effective de l'activité transport ou de location de l'entreprise doit être titulaire du certificat de capacité professionnelle. Ce certificat peut être obtenu par la réussite à l'examen professionnel organisé par le ministère en charge des transports, par équivalence de certains diplômes, ou encore sur justification d'une expérience professionnelle de cinq ans dans la direction d'une entreprise de transport. Dans ce dernier cas, la personne qui souhaite obtenir le certificat est entendue par une commission consultative régionale qui comprend notamment des représentants de la profession. La réglementation française est conforme à la directive n° 96/26/CE du conseil du 29 avril 1996 modifiée.
