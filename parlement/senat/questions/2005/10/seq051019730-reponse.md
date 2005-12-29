@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019730
+
+- Question : [SEQ051019730](seq051019730.md) — Extension de la loi n° 2005-882 aux coopératives d'utilisateurs de matériel agricole (CUMA)
+
+## Réponse
+
+*Agriculture, JO du 2005-12-29, page 3343*
+
+La Loi n° 2005-882 du 2 août 2005 relative aux petites et moyennes entreprises (PME-PMI) prévoit d'ores et déjà des dispositions destinées à faciliter la création de groupements d'employeurs sous forme coopérative, mais elle exclut le secteur agricole. En effet, plusieurs organisations professionnelles agricoles, craignant que des groupements d'employeurs soient déstabilisés par cette nouvelle disposition, n'ont pas souhaité qu'elle soit ouverte pour le secteur agricole. Le Gouvernement a donc proposé au Parlement de rediscuter le cas particulier du secteur agricole dans le cadre du débat sur le projet de loi d'orientation agricole (LOA). Le débat qui s'est tenu au cours de ces dernières semaines à l'Assemblée nationale, puis au Sénat, a finalement conduit à autoriser les CUMA, mais pas les autres coopératives agricoles, à développer, au bénéfice exclusif de leurs membres, des activités de groupement d'employeurs. La petite loi issue du Sénat prévoit que cette prestation complémentaire sera plafonnée à un pourcentage maximum de la masse salariale de chaque CUMA qui sera fixée par décret. Par contre, afin de ne pas créer de distorsion de concurrence, avec les autres groupements d'employeurs, les allégements de charges sociales liés à cette activité ne seront pas applicables aux CUMA. Cet encadrement constitue une garantie raisonnable pour éviter une dérive au regard de l'objet social des coopératives. Il permet un bon équilibre, ce qui a conduit le Gouvernement à soutenir cette disposition qui satisfait, par ailleurs, la fédération nationale des CUMA. Pour qu'elle devienne définitive, il revient au Parlement d'adopter cette disposition après le travail de la commission mixte paritaire.
