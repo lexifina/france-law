@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051020021
+
+- Question : [SEQ051020021](seq051020021.md) — Bonifications pour enfants nés avant la titularisation d'une fonctionnaire territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2005-12-29, page 3361*
+
+En application du 2° de l'article 15 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales (CNRACL), une bonification d'un an est octroyée aux fonctionnaires ayant interrompu leur activité pendant une durée égale au moins à deux mois pour chacun de leurs enfants nés ou adoptés avant le 1er janvier 2004. Dans le cas d'une mère de famille ayant eu ses enfants avant d'être fonctionnaire titulaire, plusieurs hypothèses peuvent être envisagées. Si la naissance a eu lieu alors qu'elle était stagiaire et qu'elle a ensuite été titularisée, la bonification est accordée si elle a interrompu son activité dans les conditions prévues par le décret précité. Si, au moment de la naissance, elle était agent non titulaire de la fonction publique et que la période a été validée, la bonification d'un an par enfant lui est acquise dans les mêmes conditions. Si la période n'a pas été validée, aucune bonification ne peut lui être servie au titre de la CNRACL. En revanche, à condition d'avoir été affiliée au régime général de sécurité sociale pendant au moins un trimestre, elle peut bénéficier au titre de ce régime d'un droit à majoration de durée d'assurance de deux ans par enfant. Il en est de même si les enfants sont nés alors qu'elle était en activité dans le secteur privé. Ainsi, en l'état actuel des textes applicables, ce n'est que dans l'hypothèse où la mère de famille n'a exercé aucune activité avant d'être fonctionnaire qu'elle ne peut bénéficier d'un droit à avantage familial pour la retraite.
