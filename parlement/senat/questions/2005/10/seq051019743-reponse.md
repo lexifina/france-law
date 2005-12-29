@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019743
+
+- Question : [SEQ051019743](seq051019743.md) — Modalités de l'examen d'aptitude à la profession d'avocat
+
+## Réponse
+
+*Justice, JO du 2005-12-29, page 3363*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'arrêté applicable est l'arrêté du 11 septembre 2003. Il résulte des premier et deuxième alinéas de l'article 8 de cet arrêté du 11 septembre 2003 fixant le programme et les modalités de l'examen d'aptitude à la profession d'avocat que « lors des épreuves, les candidats peuvent utiliser les codes et recueils de lois et décrets annotés, à l'exclusion des codes commentés. Ils peuvent également se servir de codes ou recueils de lois et décrets ne contenant aucune indication de doctrine ou de jurisprudence, sans autres notes que des références à des textes législatifs réglementaires ». Ainsi, dorénavant, cet arrêté autorise les codes annotés et interdit les seuls codes commentés. Les quatrième et cinquième alinéas de l'article 8 de l'arrêté du 11 septembre 2003 précité précisent pour leur part que les candidats « doivent, à tout moment, se prêter aux surveillances et vérifications nécessaires. Tout incident est soumis au jury qui peut prononcer la nullité de la composition ». Par conséquent, le constat d'une fraude peut conduire au prononcé, par le jury de l'examen d'aptitude à la profession d'avocat, de la nullité de la composition du candidat auteur de la fraude. Les candidats peuvent également introduire des recours contre les décisions du jury. En effet, l'article 14 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques précise que « les recours à l'encontre des décisions concernant la formation professionnelle sont soumis à la cour d'appel compétente ».
