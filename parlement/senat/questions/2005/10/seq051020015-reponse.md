@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051020015
+
+- Question : [SEQ051020015](seq051020015.md) — Grippe aviaire
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-12-29, page 3340*
+
+Le Gouvernement français porte une attention toute particulière à la situation de nos compatriotes résidant à l'étranger au regard des risques engendrés par l'épizootie de grippe aviaire. Nos ressortissants dans les zones les plus exposées ont été pris en compte prioritairement puisque le ministère des affaires étrangères vient d'expédier 52 000 boîtes de Tamiflu à nos postes diplomatiques et consulaires de la région Asie. Cette distribution sera poursuivie dans les semaines à venir en vue d'assurer la protection de nos compatriotes de l'Asie centrale, du pourtour de l'Europe et du Moyen-Orient. Par ailleurs, une commande a été passée afin que des masques de protection puissent être acheminés dans les délais appropriés aux mêmes postes bénéficiaires de l'envoi de Tamiflu. Parallèlement, le ministère des affaires étrangères a mis en place un réseau de médecins « grippe aviaire », auprès de notre dispositif diplomatique et consulaire. Une session de formation de ces médecins a été organisée à Paris par la direction des Français à l'étranger (DFAE) les 30 novembre, 1er et 2 décembre pour rendre ce dispositif totalement opérationnel. Par ailleurs, la DFAE qui suit ce dossier avec la plus grande vigilance a été renforcée en moyens humains pour être en mesure de suivre avec toute l'attention requise le dossier grippe aviaire, en liaison avec le ministère de la santé, notamment la délégation interministérielle récemment créée sur cette question. Enfin, la situation de nos communautés françaises a fait l'objet d'un traitement spécifique dans le plan national de lutte contre la grippe aviaire, qui sera rendu public par le Gouvernement.
