@@ -24,7 +24,7 @@ Lors de l'offre de l'avance remboursable sans intérêt, le montant total des re
 
 En cas de modification de la composition du foyer fiscal du bénéficiaire de l'avance remboursable sans intérêt au cours de l'année retenue pour la détermination du montant total des ressources, les revenus du bénéficiaire sont corrigés en tenant compte de la variation des revenus résultant de cette modification, le cas échéant de manière forfaitaire. Les modalités de calcul de ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 38 690 euros.
+Le montant total des ressources à prendre en compte ne doit pas excéder 51 900 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
 
@@ -38,6 +38,8 @@ Les modalités de calcul du crédit d'impôt et de détermination de ce taux son
 
 Le crédit d'impôt résultant de l'application des premier et deuxième alinéas fait naître au profit de l'établissement de crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables sans intérêt et par fractions égales sur les exercices suivants.
 
+En cas de fusion, la créance de la société absorbée est transférée à la société absorbante. En cas de scission ou d'apport partiel d'actif, la créance est transmise à la société bénéficiaire des apports à la condition que l'ensemble des prêts à taux zéro y afférents et versés à des personnes physiques par la société scindée ou apporteuse soient transférés à la société bénéficiaire des apports.
+
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté conjoint du ministre chargé de l'économie et du ministre chargé du logement.
 
 IV. - Une convention conclue entre l'établissement de crédit mentionné au I et l'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation définit les modalités de déclaration par l'établissement de crédit des avances remboursables, le contrôle de l'éligibilité des avances remboursables et le suivi des crédits d'impôt.
@@ -45,3 +47,9 @@ IV. - Une convention conclue entre l'établissement de crédit mentionné au I e
 V. - L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné au IV est tenu de fournir à l'administration fiscale dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
 VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+
+NOTA :
+
+NOTA : Loi 2005-1719 2005-12-30 art. 31 III Finances pour 2006 :
+
+dispositions d'application.

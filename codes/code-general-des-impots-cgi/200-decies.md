@@ -20,11 +20,11 @@ Le crédit d'impôt peut être versé par anticipation, sur demande du bénéfic
 
 IV. - Le crédit d'impôt n'est pas accordé lorsque le montant des revenus au sens du IV de l'article 1417 afférents à l'année au cours de laquelle s'achève la période de six mois mentionnée au b du I excède :
 
-20 000 Euros pour la première part de quotient familial des personnes célibataires, veuves ou divorcées ;
+25 000 Euros pour la première part de quotient familial des personnes célibataires, veuves ou divorcées ;
 
-40 000 Euros pour les deux premières parts de quotient familial des personnes soumises à imposition commune.
+50 000 Euros pour les deux premières parts de quotient familial des personnes soumises à imposition commune.
 
-Les montants mentionnés aux deuxième et troisième alinéas sont majorés de 3 421 Euros pour chacune des demi-parts suivantes et de la moitié de cette somme pour chacun des quarts de part suivants.
+Les montants mentionnés aux deuxième et troisième alinéas sont majorés de 4 276 Euros pour chacune des demi-parts suivantes et de la moitié de cette somme pour chacun des quarts de part suivants.
 
 Pour l'application de ces limites, lorsque survient l'un des événements mentionnés aux 4, 5, 6 et 7 de l'article 6, le montant des revenus déclarés au titre de la période au cours de laquelle la durée d'activité mentionnée au b du I est arrivée à échéance fait l'objet d'une conversion en base annuelle.
 
@@ -34,6 +34,6 @@ V. - Un décret précise, en tant que de besoin, les modalités d'application du
 
 NOTA :
 
-NOTA : Ordonnance 2005-895 2005-08-02 art 5 II :
+NOTA : Loi 2005-1719 2005-12-30 art. 76 XV Finances pour 2006 :
 
-La délivrance irrégulière par l'employeur d'attestations permettant à un contribuable d'obtenir le crédit d'impôt mentionné à l'article 200 decies du code général des impôts entraîne l'application d'une amende égale à 25 % des sommes indûment mentionnées sur ces documents.
+Ces dispositions s'appliquent à compter de l'imposition des revenus de 2006.

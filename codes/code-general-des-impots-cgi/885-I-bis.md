@@ -1,6 +1,6 @@
 # Article 885 I bis
 
-Les parts ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou libérale ne sont pas comprises dans les bases d'imposition à l'impôt de solidarité sur la fortune, à concurrence de la moitié de leur valeur si les conditions suivantes sont réunies :
+Les parts ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou libérale ne sont pas comprises dans les bases d'imposition à l'impôt de solidarité sur la fortune, à concurrence des trois quarts de leur valeur si les conditions suivantes sont réunies :
 
 a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un engagement collectif de conservation pris par le propriétaire, pour lui et ses ayants cause à titre gratuit avec d'autres associés ;
 
@@ -31,3 +31,9 @@ En cas de non-respect des conditions prévues au a ou au b par suite d'une fusio
 Au-delà du délai de six ans, l'exonération partielle accordée au titre de la période d'un an en cours lors du non-respect de l'une des conditions prévues au a ou au b est seule remise en cause.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les obligations déclaratives incombant aux redevables et aux sociétés.
+
+NOTA :
+
+NOTA : Loi 2005-1719 2005-12-30 art. 26 III Finances pour 2006 :
+
+dispositions d'application.
