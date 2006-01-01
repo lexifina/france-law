@@ -10,7 +10,7 @@ Toutefois, cette condition n'est pas exigée dans les cas suivants :
 
 a) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants du logement à titre principal est titulaire de la carte d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ;
 
-b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-9 ou L. 541-1 à L. 541-3 du même code ;
+b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même code ;
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal est victime d'une catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale.
 
@@ -47,9 +47,3 @@ IV. - Une convention conclue entre l'établissement de crédit mentionné au I e
 V. - L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné au IV est tenu de fournir à l'administration fiscale dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
 VI. - Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
-
-NOTA :
-
-NOTA : Loi 2005-1719 2005-12-30 art. 31 III Finances pour 2006 :
-
-dispositions d'application.
