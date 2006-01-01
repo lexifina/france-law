@@ -1,11 +1,3 @@
 # Article 1929 septies
 
-En cas de redressement judiciaire, des cessions de rang de privilège ou d'hypothèque visant à garantir les créances du Trésor public ou l'abandon de ces sûretés peuvent être consentis dans les conditions précisées par décret en Conseil d'Etat (1).
-
-(1) Annexe II 396 bis A.
-
-NOTA :
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux plans de sauvegarde ou de redressement judiciaire.
+Conformément au quatrième alinéa de l'article L. 626-6 du code de commerce, et au I de l'article L. 631-19 du même code, les administrations financières peuvent, dans le cadre du plan de sauvegarde ou du plan de redressement prévus respectivement aux articles L. 626-1 et L. 631-2, décider des cessions de rang de privilège ou d'hypothèque ou de l'abandon de ces sûretés.
