@@ -1,8 +1,6 @@
 # Article Annexe Tableau IV
 
-Tableau IV
-
-Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales
+Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
 TRIBUNAUX DE GRANDE INSTANCE
 
