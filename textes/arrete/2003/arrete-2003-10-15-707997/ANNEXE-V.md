@@ -2,7 +2,7 @@
 
 Le directeur des politiques économique et internationale, président.
 
-L'Office national interprofessionnel des fruits et légumes et de l'horticulture (secrétariat).
+L'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture (secrétariat).
 
 Fédération nationale des producteurs de fruits (FNPF) :
 
