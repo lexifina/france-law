@@ -1,7 +1,0 @@
-# Article Annexe article R210-17
-
-Les demandes, offres et décisions du titulaire du droit de préemption et des propriétaires prévues par le présent titre sont notifiées par lettre recommandée avec demande d'avis de réception, par acte d'huissier ou par dépôt contre décharge.
-
-NOTA :
-
-Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence à la collectivité territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée par la référence à la collectivité départementale.
