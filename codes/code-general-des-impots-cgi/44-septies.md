@@ -1,8 +1,8 @@
 # Article 44 septies
 
-I. - Les sociétés créées pour reprendre une entreprise industrielle en difficulté qui fait l'objet d'une cession ordonnée par le tribunal en application des articles L. 621-83 et suivants du code de commerce bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des II à IX.
+I. - Les sociétés créées pour reprendre une entreprise industrielle en difficulté qui fait l'objet d'une cession ordonnée par le tribunal en application de l'article L. 626-1, de l'article L. 631-22 ou des articles L. 642-1 et suivants du code de commerce bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des II à IX.
 
-Cette exonération peut être également accordée lorsque la procédure de redressement judiciaire n'est pas mise en oeuvre, ou lorsque la reprise concerne des branches complètes et autonomes d'activité industrielle et est effectuée dans le cadre de cessions ordonnées par le juge-commissaire en application de l'article L. 622-17 du code de commerce, ou lorsque la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de l'entreprise cédante.
+Cette exonération peut être également accordée lorsque les procédures de sauvegarde ou de redressement judiciaire ne sont pas mises en oeuvre, ou lorsque la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de l'entreprise cédante.
 
 N'ouvrent pas droit au bénéfice de l'exonération les activités exercées dans l'un des secteurs suivants : transports, construction de véhicules automobiles, construction de navires civils, fabrication de fibres artificielles ou synthétiques, sidérurgie, industrie charbonnière, production ou transformation de produits agricoles, pêche, aquaculture.
 
@@ -81,9 +81,3 @@ d. Le financement de l'opération de reprise est assuré à 25 % au moins par le
 Le non-respect de l'une de ces conditions ou de l'un de ces engagements entraîne le retrait de l'agrément visé et rend immédiatement exigible l'impôt sur les sociétés selon les modalités prévues au IX.
 
 IX. - Lorsqu'une société créée dans les conditions prévues au I interrompt, au cours des trois premières années d'exploitation, l'activité reprise ou est affectée au cours de la même période par l'un des événements mentionnés au premier alinéa du 2 de l'article 221, l'impôt sur les sociétés dont elle a été dispensée en application du présent article devient immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article 1727 et décompté à partir de la date à laquelle il aurait dû être acquitté.
-
-NOTA :
-
-Nota : Loi 2004-1485 2004-12-30 art. 41 II 1° : Les obligations déclaratives des sociétés concernées par l'exonération prévue à l'article 44 septies du code général des impôts sont fixées par décret.
-
-Les dispositions de l'article 44 septies sont applicables aux résultats des exercices clos à compter du 16 décembre 2003, et jusqu'au 31 décembre 2006 inclus.

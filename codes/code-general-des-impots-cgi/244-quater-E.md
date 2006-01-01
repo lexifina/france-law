@@ -22,7 +22,7 @@ d. Des travaux de rénovation d'hôtel.
 
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions publiques attribuées en vue de financer ces investissements.
 
-4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de redressement judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité.
+4° Les investissements réalisés par les petites et moyennes entreprises en difficulté peuvent ouvrir droit au crédit d'impôt prévu au 1° si elles ont reçu un agrément préalable délivré dans les conditions prévues à l'article 1649 nonies. Une entreprise est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire ou lorsque sa situation financière rend imminente sa cessation d'activité.
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun.
 
@@ -37,9 +37,3 @@ Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables lor
 Lorsque l'investissement est réalisé par une société soumise au régime d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du II doivent, en outre, conserver les parts ou actions de cette société ou ce groupement pendant un délai de cinq ans à compter de la réalisation de l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces parts ou actions.
 
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
-
-NOTA :
-
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux plans de sauvegarde ou de redressement judiciaire.
