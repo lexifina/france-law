@@ -30,14 +30,10 @@ C. - Fonctions exercées au Commissariat général du Plan
 
 2° Commissaire adjoint au Plan.
 
-D. - Fonctions exercées à la Délégation à l'aménagement du territoire et à l'action régionale
+D. - Fonctions exercées à la Délégation interministérielle à l'aménagement et à la compétitivité des territoires
 
 1° Délégué à l'aménagement du territoire.
 
 2° Directeur d'administration centrale.
 
 3° Sous-directeur d'administration centrale.
-
-NOTA :
-
-NOTA : la date d'entrée en vigueur du décret 2001-1067 à été modifiée par le décret 2001-1156 du 7 décembre 2001.
