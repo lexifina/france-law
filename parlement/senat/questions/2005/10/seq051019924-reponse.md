@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019924
+
+- Question : [SEQ051019924](seq051019924.md) — Validation des activités professionnelles d'apprentissage pour la retraite
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-01-05, page 24*
+
+La question de la prise en compte pour la retraite des périodes d'apprentissage se pose effectivement pour des périodes accomplies par certains apprentis avant 1972, qui ont fait l'objet de validation insuffisante, ou d'absence totale de validation compte tenu d'un défaut de cotisations de la part de l'employeur et de l'apprenti. Du reste, certains apprentis n'étaient alors pas rémunérés. Dans ce contexte, un dispositif de régularisation de cotisations est ouvert en application des dispositions de l'article R. 351-11 du code de la sécurité sociale. Une lettre ministérielle du 23 septembre 1999 en précise les modalités. Sont ainsi éligibles : les apprentis dont le report au compte porte trace de cotisations versées mais dont le montant est insuffisant pour valider toute la période d'apprentissage. La preuve de leur activité salariée est inutile, puisqu'elle est déjà constituée par les cotisations figurant sur le compte ; les apprentis dont le report au compte ne porte trace d'aucune cotisation pour la période d'apprentissage et qui apportent par tous moyens la preuve de leur activité salariée. La régularisation, qui ne doit pas être confondue avec un dispositif de rachat de cotisations, s'opère à travers le versement de cotisations sur la base d'une assiette, variable selon l'année de rachat, et d'un taux, correspondant au taux de cotisations en vigueur à l'époque. La direction de la sécurité sociale a procédé à un rappel des différentes règles, à travers une circulaire en date du 19 janvier 2004, qui précise notamment que le taux est limité aux seules cotisations vieillesse. Tout a été ainsi fait pour que le coût soit le plus limité possible.
