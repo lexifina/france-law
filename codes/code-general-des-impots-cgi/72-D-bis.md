@@ -4,9 +4,9 @@ I. - Les exploitants agricoles soumis à un régime réel d'imposition et qui on
 
 Cette déduction s'exerce à la condition que, à la clôture de l'exercice, l'exploitant ait inscrit à un compte d'affectation ouvert auprès d'un établissement de crédit une somme provenant des recettes de l'exploitation de cet exercice au moins égale au montant de la déduction. L'épargne professionnelle ainsi constituée doit être inscrite à l'actif du bilan de l'exploitation.
 
-Les sommes déposées sur le compte peuvent être utilisées au cours des sept exercices qui suivent celui de leur versement en cas d'intervention de l'un des aléas d'exploitation dont la liste est fixée par décret.
+Les sommes déposées sur le compte peuvent être utilisées au cours des sept exercices qui suivent celui de leur versement en cas d'intervention de l'un des aléas d'exploitation dont la liste est fixée par décret ou pour le règlement de primes et cotisations d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
 
-Lorsque les sommes déposées sur le compte sont utilisées en cas d'intervention de l'un des aléas d'exploitation mentionnés au troisième alinéa, la déduction correspondante est rapportée au résultat de l'exercice au cours duquel le retrait est intervenu.
+Lorsque les sommes déposées sur le compte sont utilisées en cas d'intervention de l'un des aléas d'exploitation ou pour le règlement de primes et cotisations d'assurance mentionnés au troisième alinéa, la déduction correspondante est rapportée au résultat de l'exercice au cours duquel le retrait est intervenu.
 
 Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des sept exercices qui suivent celui de leur versement, la déduction correspondante est rapportée aux résultats du septième exercice suivant celui au titre duquel elle a été pratiquée.
 
@@ -14,10 +14,12 @@ Lorsque des sommes déposées sur le compte sont utilisées à des emplois autre
 
 II. - L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser les sommes déposées sur le compte au cours des sept exercices qui suivent celui au titre duquel la déduction correspondante a été pratiquée.
 
-La transmission à titre gratuit d'une exploitation individuelle dans les conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de la transmission n'est pas considérée pour l'application du I comme une cessation d'activité si le ou les bénéficiaires de la transmission remplissent les conditions ouvrant droit à la déduction et s'engagent à utiliser les sommes déposées sur le compte au cours des cinq exercices qui suivent celui au titre duquel la déduction correspondante a été pratiquée dans les conditions et les limites définies au I (1).
+La transmission à titre gratuit d'une exploitation individuelle dans les conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de la transmission n'est pas considérée pour l'application du I comme une cessation d'activité si le ou les bénéficiaires de la transmission remplissent les conditions ouvrant droit à la déduction et s'engagent à utiliser les sommes déposées sur le compte au cours des sept exercices qui suivent celui au titre duquel la déduction correspondante a été pratiquée dans les conditions et les limites définies au I.
 
 III. - Le compte ouvert auprès d'un établissement de crédit est un compte courant qui retrace exclusivement les opérations définies au I.
 
 NOTA :
 
-Nota : (1) Ces dispositions sont applicables pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2004.
+Loi 2006-11 2006-01-05 art. 67 II JORF 6 janvier 2006 :
+
+" Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2006, sauf celles du 2° du A du I qui s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2004. "
