@@ -1,9 +1,5 @@
 # Article ANNEXE
 
-ANNEXE À L'ARRÊTÉ DU 13 MARS 1991
-
-Liste des commissions, conseils et comités devant figurer sur l'arrêté ministériel prévu à l'article 3 du décret n° 90-437 du 28 mai 1990
-
 Conseil général des mines
 
 Conseil d'évaluation scientifique des écoles des mines.
@@ -30,7 +26,7 @@ Conseil supérieur de l'électricité et du gaz.
 
 Conseil technique de la distribution du gaz.
 
-Commission spéciale de sécurité des transports de gaz combustible par canalisations.
+Commission de sécurité du transport, de la distribution et de l'utilisation du gaz combustible par canalisations.
 
 Commission de sécurité des stockages souterrains.
 
@@ -114,4 +110,4 @@ Commission interministérielle des matériels d'imprimerie et de reproduction (C
 
 NOTA :
 
-NOTA : Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des décrets des 12 mars 1986, 12 avril 1989, 28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du présent décret à compter du 1er novembre 2006.
+Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du présent décret à compter du 1er novembre 2006.
