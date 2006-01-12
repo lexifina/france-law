@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019676
+
+- Question : [SEQ051019676](seq051019676.md) — Reconnaissance de la responsabilité de la France dans le sort harki
+
+## Réponse
+
+*Anciens combattants, JO du 2006-01-12, page 78*
+
+La loi du 23 février 2005 reconnaît officiellement la tragédie de la guerre d'Algérie et le drame du rapatriement, et rend hommage aux victimes civiles, aux disparus et à leurs familles. Elle reconnaît également les massacres de harkis et les exactions commises durant la guerre et après le 19 mars 1962. Deux mesures témoigneront, dans les prochains mois, de la force de ce principe posé par la loi : pour mieux faire connaître le patrimoine, l'histoire, la culture et les traditions que portent les rapatriés, l'Etat s'associera au projet de mémorial national de la France de l'outre-mer conçu à l'initiative du maire de Marseille. Ce mémorial présentera l'oeuvre de la France outre-mer et encouragera la recherche et la transmission aux jeunes générations de cet héritage historique ; par ailleurs, pour mener une réflexion objective et apaisée sur cette période tragique de l'histoire de la France, la création d'une fondation pour la mémoire de la guerre d'Algérie et des combats du Maroc et de la Tunisie, à laquelle l'Etat prêtera son concours, est prévue par l'article 3 de la loi. Cette fondation aura un rôle central et deviendra ainsi un lieu privilégié d'études et de recherches sur cette période douloureuse. En mettant à disposition des historiens et des chercheurs un cadre scientifique, elle facilitera la recherche de la vérité. La fondation permettra aussi d'accueillir et de faire participer les témoins et acteurs de toutes nationalités. La mission de préfiguration de la fondation pour la mémoire de la guerre d'Algérie et des combats du Maroc et de Tunisie a été confiée au préfet Benmebarek. A l'issue de ces travaux le texte procédant à la création de cette fondation sera publié.
