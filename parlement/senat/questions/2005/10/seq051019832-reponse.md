@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019832
+
+- Question : [SEQ051019832](seq051019832.md) — Liste des lois votées depuis plus d'un an en attente de décrets d'application
+
+## Réponse
+
+*Justice, JO du 2006-01-12, page 94*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, s'agissant de la loi n° 2002-1138 du 9 septembre 2002 d'orientation et de programmation pour la justice, le décret devant être pris pour l'application des dispositions de l'article 18, relatif à la détention des mineurs de treize à seize ans, devrait intervenir au second semestre 2006. Le décret devant être pris pour l'application de l'article 48 de cette même loi, qui concerne la fixation des modalités de garde, d'escorte et de transport des détenus hospitalisés en raison de leurs troubles mentaux, devrait être publié au cours du premier semestre 2006, en fonction de l'avancement des discussions actuellement en cours avec la direction générale de la police nationale et la direction générale de la gendarmerie nationale. Le décret pris sur le fondement de l'article 64 de la loi n° 2004-130 du 11 février 2004 réformant le statut de certaines professions judiciaires ou juridiques, des experts judiciaires, des conseils en propriété industrielle et des experts en ventes aux enchères publiques, et relatif aux comptes séparés des huissiers, est actuellement soumis à l'examen du Conseil d'Etat. S'agissant de la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et modifiant la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, le premier décret d'application est intervenu le 20 octobre 2005 et le second, actuellement en cours de finalisation, devrait intervenir d'ici à la fin de l'année.
