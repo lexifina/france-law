@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120249
+
+- Question : [SEQ051120249](seq051120249.md) — Commerce équitable
+
+## Réponse
+
+*Agriculture, JO du 2006-01-12, page 73*
+
+La commercialisation équitable de cacao, évoquée dans la question, est une initiative conduite par agriculteurs français et développement international (AFDI). Elle constitue un appui, dans la durée, à une organisation camerounaise de producteurs de cacao, afin de renforcer ses capacités et de lui permettre de mieux négocier les conditions de valorisation de sa production. Il ne s'agit pas à proprement parler d'une initiative de commerce équitable, mais d'une action qui s'inscrit dans une logique de coopération internationale entre agriculteurs français et camerounais. Concernant le commerce équitable, ses principes essentiels, fondés sur la juste rémunération des producteurs, le respect des droits fondamentaux des personnes, l'établissement de relations durables entre partenaires économiques, la préservation de l'environnement, répondent à la conception française de l'agriculture. Le commerce équitable est également un outil de développement, de sensibilisation aux réalités du Sud et aux relations Nord-Sud, et une force de proposition pour un autre commerce. Dans la continuité des déclarations françaises tenues à Johannesburg en matière de lutte contre la pauvreté et la réduction des inégalités, le ministère des affaires étrangères soutient un projet de développement du commerce équitable au profit des pays de la zone de solidarité prioritaire, afin d'une part de développer les parts de marché du commerce équitable en France, et d'autre part d'insérer de nouveaux producteurs et transformateurs dans les filières du commerce équitable, à travers des programmes conduits dans plusieurs pays, en partenariat avec d'autres bailleurs de fonds.
