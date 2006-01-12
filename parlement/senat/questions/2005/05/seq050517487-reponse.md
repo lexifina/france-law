@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517487
+
+- Question : [SEQ050517487](seq050517487.md) — Office franco-allemand pour la jeunesse
+
+## Réponse
+
+*Jeunesse et sports, JO du 2006-01-12, page 94*
+
+L'Office franco-allemand pour la jeunesse (OFAJ), qui travaille depuis plus de quarante ans au rapprochement des jeunes allemands et français, est l'objet d'une réforme globale qui vise à adapter ses pratiques à un environnement nouveau et à moderniser sa gestion. Un accord a ainsi été signé en marge du conseil franco-allemand des ministres du 26 avril 2005. Cette réforme est issue des résultats d'un groupe de travail bigouvernemental qui a statué à partir de deux évaluations. L'une a été réalisée par des experts nommés par les deux ministres de la jeunesse ; l'autre par une mission d'information de l'Assemblée nationale et du Bundestag. Les gouvernements français et allemand ont notamment décidé de retenir une majorité de préconisations présentées par les deux assemblées, dont la réforme du conseil d'administration, afin de séparer les fonctions de gestion, et donc d'attribution des moyens, de celles d'orientation, donc de définition des programmes. Un conseil d'administration chargé des décisions stratégiques et administratives et composé de représentants des administrations publiques, des deux parlements et de jeunes a été créé. A ses côtés, un conseil d'orientation, composé de représentants des champs d'intervention de l'office et largement ouvert sur la société civile, est chargé d'appuyer le conseil d'administration en élaborant des avis et recommandations sur les orientations et les programmes. Ainsi, conformément aux préconisations des parlementaires, cette répartition assure la participation pleine et entière de la société civile aux actions de l'office. Elle supprime tout risque de conflit d'intérêt en séparant l'orientation programmatique et l'affectation des moyens, et permet une gestion administrative et financière de l'OFAJ plus efficace.
