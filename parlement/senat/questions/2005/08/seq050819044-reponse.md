@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050819044
+
+- Question : [SEQ050819044](seq050819044.md) — Test de dépistage des EST à l'abattoir sur les ovins de réforme
+
+## Réponse
+
+*Agriculture, JO du 2006-01-12, page 70*
+
+Au début de l'année 2005, une souche d'encéphalopathie spongiforme transmissible (EST) ne pouvant pas être distinguée d'une souche d'encéphalopathie spongiforme bovine (ESB) a été mise en évidence sur une chèvre française. L'Agence française de sécurité sanitaire des aliments (AFSSA) a souligné, dans son avis du 19 avril 2005, que les mesures alors en place ne permettaient pas d'évaluer le risque représenté par l'ESB chez les petits ruminants avec une précision satisfaisante. Les connaissances ont depuis lors largement évolué dans la filière caprine où un programme de dépistage systématique des caprins de réforme collectés par l'équarrissage ou abattus a été mis en place. Ce programme, portant déjà sur plus de 130 000 tests, a permis de détecter une dizaine de cheptels atteints de tremblante, mais n'a mis en évidence aucun cas d'ESB. Afin d'apprécier la situation sanitaire au regard de cette maladie dans l'espèce ovine, un programme de dépistage renforcé spécifique à cette espèce a été engagé récemment. Ses modalités pratiques ont été déterminées en s'appuyant sur une consultation des acteurs du dépistage et sur un rapport de l'AFSSA du 2 septembre dernier portant précisément sur cette question. Le dépistage sera ciblé, dans un premier temps, sur la totalité des animaux collectés par l'équarrissage pendant six mois. En fonction des résultats ainsi obtenus, il pourra être envisagé d'intensifier le dépistage déjà en place des ovins conduits à l'abattoir. Le ministère de l'agriculture et de la pêche a, par ailleurs, sollicité la Commission européenne afin que ce programme de dépistage renforcé chez les ovins fasse l'objet, comme le programme de dépistage renforcé chez les caprins, d'une approche et d'un financement communautaires.
