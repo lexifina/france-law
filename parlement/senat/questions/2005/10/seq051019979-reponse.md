@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019979
+
+- Question : [SEQ051019979](seq051019979.md) — Position française à la conférence ministérielle de l'OMC à Hong-Kong
+
+## Réponse
+
+*Agriculture, JO du 2006-01-12, page 72*
+
+L'accord-cadre agricole négocié à l'OMC en juillet 2004 peut permettre de protéger les secteurs dits sensibles d'une ouverture du marché européen trop dommageable, et de préserver la PAC réformée. C'est ce résultat final qui doit être obtenu à la fin des négociations et qui constitue le point clé du mandat de négociation donné à la Commission européenne par les Etats membres sur le volet agricole. La France en a récemment rappelé les termes. Ainsi, la France a réaffirmé très fermement qu'elle ne pourra pas accepter un accord final qui amènerait à réformer la PAC de 2003 et mettre en péril l'agriculture européenne par une ouverture excessive de son marché aux importations en provenance des pays tiers. Un accord ne serait donc acceptable pour la France que si le principe de la préférence communautaire était maintenu, particulièrement pour les filières les plus sensibles. Elle a notamment demandé à la Commission de ne pas faire de nouvelle proposition sur le volet agricole avant de démontrer, de façon convaincante, que cette proposition n'occasionnerait pas de nouvelle réforme de la PAC, et ne mettrait pas en péril les principaux secteurs agricoles européens menacés par les importations, notamment celui de la viande bovine. La conférence ministérielle de l'OMC à Hong-Kong a adopté, le 19 décembre 2005, une déclaration à l'unanimité qui ne remet pas en cause les accords de Luxembourg de juin 2003 réformant la politique agricole commune. Dans la continuité des dernières actions entreprises au niveau communautaire, et notamment lors de la conférence ministérielle de Hong-Kong, les autorités françaises resteront donc très attentives aux évolutions de la suite des négociations.
