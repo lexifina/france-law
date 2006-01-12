@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718600
+
+- Question : [SEQ050718600](seq050718600.md) — Situation du centre hospitalier Simone Veil d'Eaubonne
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-01-12, page 114*
+
+L'attention du ministre de la santé et des solidarités est appelée sur la situation du centre hospitalier Simone-Veil d'Eaubonne. Il rappelle qu'une convention tripartite signée le 1er décembre 2004, entre l'Etat, le conseil général et l'établissement prévoyait la création de 24 postes d'auxiliaires de vie, pour les années budgétaires 2005 et 2006. Le sénateur indique que, à la date de la question, seul un emploi a été pourvu alors que les besoins sont urgents. Il explique que les services de l'Etat n'ont pas tenu leurs engagements quant au financement de ces 24 postes. Aux termes de la convention tripartite, il est effectivement prévu de financer vingt-quatre postes d'auxiliaires de vie. Cependant, le financement de ces postes relèvent de la section budgétaire « hébergement » de la compétence tarifaire du Conseil général et non celle de l'Etat, au travers des ressources de l'assurance maladie. Dans le cadre de cette convention, les crédits de l'assurance maladie ont d'ores et déjà financé « l'effet mécanique », à savoir les charges antérieurement supportées indûment par la section « hébergement » pour un montant de 1 259 286 euros. Il faut donc souligner que l'Etat a intégralement tenu ses engagements. Après étude du dossier par les services du ministère de la santé et de solidarités, il apparaît que l'hôpital procède progressivement aux recrutements de ces auxiliaires. A ce jour, 12 agents ont été recrutés. Dans l'attente que l'effectif soit complet, du personnel intérimaire avait été affecté à la maison de retraite et l'hôpital avait mis en place cet été une organisation permettant de faire face aux besoins des pensionnaires en cas de fortes chaleurs, conformément au « plan bleu » et au plan « canicule ».
