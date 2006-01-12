@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120313
+
+- Question : [SEQ051120313](seq051120313.md) — Attribution de la qualité de combattant à titre posthume : situation des veuves
+
+## Réponse
+
+*Anciens combattants, JO du 2006-01-12, page 79*
+
+Il est confirmé à l'honorable parlementaire que en l'absence de texte autorisant la délivrance de la carte du combattant à titre posthume, seules des attestations de droits à la carte du combattant peuvent être délivrées aux veuves. L'établissement de ces attestations est subordonné à la condition expresse que les personnes décédées aient disposé d'un droit à la carte du combattant au regard des dispositions législatives ou réglementaires en vigueur au moment de leur décès. Grâce à cette attestation, les veuves des anciens combattants peuvent se prévaloir de la qualité de ressortissantes à l'Office national des anciens combattants et victimes de guerre en application des dispositions du 6e alinéa de l'article D. 432 du code des pensions militaires d'invalidité et des victimes de la guerre. Elles ont vocation à prétendre au patronage de cet établissement public et à l'aide matérielle qu'il est susceptible d'apporter. Pour ce qui concerne la demi-part supplémentaire accordée aux anciens combattants âgés de plus de soixante-quinze ans, l'article 195-f du code général des impôts précise en son 1er alinéa que ce bénéfice est également accordé aux veuves des titulaires de la carte du combattant, âgées de plus de soixante-quinze ans. Ces dispositions ne prévoient pas cet avantage pour les veuves de plus de soixante-quinze ans ayant obtenu une attestation de droits à la carte du combattant dans les conditions ci-dessus énumérées. En tout état de cause, la décision d'appliquer aux veuves titulaires de l'attestation de droits à la carte du combattant au titre de l'article 195 du code susvisé relève de la compétence du ministre de l'économie, des finances et de l'industrie.
