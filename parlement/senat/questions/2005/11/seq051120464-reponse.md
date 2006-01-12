@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120464
+
+- Question : [SEQ051120464](seq051120464.md) — Montant et calendrier de versement de la PMTVA - primes animales
+
+## Réponse
+
+*Agriculture, JO du 2006-01-12, page 75*
+
+A la suite des accords de Luxembourg de juin 2003 réformant la politique agricole commune, la France a fait le choix de maintenir la prime à la vache allaitante (PMTVA) totalement couplée (part communautaire et part nationale). Cette mesure favorise la pérennité de l'élevage allaitant qui constitue une spécificité française et un secteur très important dans certaines régions. La PMTVA comportait, en 2004, une part communautaire de deux cents euros par tête et une part nationale de cinquante euros pour les quarante premières vaches et de 25,85 euros pour les suivantes. En 2005, la PAC réformée a introduit une modulation des aides directes qui occasionne une réduction de 3 % de la part communautaire de la PMTVA. En outre, le montant des crédits communautaires affectés à la PMTVA en 2005 est plafonné au montant versé sur la moyenne 2000-2002, soit 710 millions d'euros. De ce fait, le montant unitaire de la part communautaire de la PMTVA doit être réduit afin d'éviter tout dépassement de ce plafond. Afin de ne pas pénaliser les éleveurs, le ministère de l'agriculture et de la pêche a décidé le versement de la prime payable sous forme d'une avance à partir du 2 novembre, le versement du solde intervenant en 2006. Cette solution a permis à chaque éleveur de recevoir avant la fin de l'année une partie conséquente de l'aide soit 93 % de la part communautaire et 60 % de la part nationale. Tenant compte des versements effectués, le versement du solde de la part nationale interviendra au début de l'année 2006. Celui de la part communautaire interviendra avant le 30 juin 2006, dans la limite du plafond de 710 millions d'euros.
