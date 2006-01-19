@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051020041
+
+- Question : [SEQ051020041](seq051020041.md) — Application du code d'alerte national pour les Français de l'étranger
+
+## Réponse
+
+*Intérieur, JO du 2006-01-19, page 171*
+
+L'honorable parlementaire attire l'attention de M. le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire sur l'application aux Français établis hors de France du code d'alerte national. Le décret n° 2005-1269 du 12 octobre 2005, relatif au code d'alerte national et aux obligations des services de radio et de télévision et des détenteurs de tout autre moyen de communication au public et pris en application de l'article 8 de la loi de modernisation de la sécurité civile du 13 août 2004, crée des obligations à l'égard des services de radio et de télévision publics et privés, pour la diffusion à titre gracieux des messages d'alerte et des consignes de sécurité, en cas de menace ou d'agression au sens du code de la défense ou de risques majeurs (accidents, sinistres ou catastrophes). Ce texte qui fait des médias des partenaires essentiels de l'Etat dans les situations de crise, est un des éléments essentiels du dispositif de protection générale de la population. Conformément aux dispositions du 1° du I de l'article 5 du décret susvisé, un arrêté élaboré conjointement par le ministère de l'intérieur et de l'aménagement du territoire et par le ministère de la culture et de la communication fixera la liste des radios et télévisions qui seront soumises à ces obligations. L'honorable parlementaire peut être assuré qu'à l'occasion de l'élaboration de cet arrêté, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, en collaboration avec le ministre de la culture et de la communication, portera une attention particulière aux possibilités offertes par les services de radio et de télévision français destinés à l'information de nos ressortissants à l'étranger.
