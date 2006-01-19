@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120544
+
+- Question : [SEQ051120544](seq051120544.md) — Baisse du budget du défenseur des enfants
+
+## Réponse
+
+*Premier ministre, JO du 2006-01-19, page 159*
+
+L'honorable parlementaire appelle l'attention de M. le Premier ministre sur le défenseur des enfants, autorité de l'Etat, indépendante qui, dans le cadre de ses attributions, ne reçoit d'instruction d'aucune autre autorité. Sa mission consiste à défendre et à promouvoir les droits de l'enfant consacrés par la loi ou par un engagement international régulièrement ratifié ou approuvé. Il peut également identifier d'éventuels dysfonctionnements et formuler des propositions de réforme des textes législatifs ou réglementaires relatifs aux droits des enfants. Par ailleurs, il est chargé de mettre en place des actions d'information et de formation sur les droits de l'enfant. Enfin, chaque année, le défenseur des enfants publie un rapport d'activité qui est remis au Président de la République et au Parlement. Pour mener à bien ses activités, le défenseur des enfants dispose des crédits qui étaient inscrits jusqu'en 2003 dans le budget des services généraux du Premier ministre. Depuis le 1er janvier 2004 ses crédits sont rattachés au budget du ministère de la santé et des solidarités. Pour 2006, avec la mise en oeuvre de la LOLF, le défenseur des enfants constitue une sous-action du programme 124 « Conduite et soutien des politiques sanitaires et sociales » inclus dans la mission « Solidarité et intégration ». Les crédits alloués à cette institution pour 2006 s'élèvent à 1 907 579 euros en loi de finances initiale et ce montant est identique à celui voté par le Parlement en 2005. Le défenseur des enfants a ainsi perçu au titre de l'année 2005 la totalité de ses crédits qui n'ont donc subi aucune amputation.
