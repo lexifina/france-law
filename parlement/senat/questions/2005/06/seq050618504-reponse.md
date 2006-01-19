@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618504
+
+- Question : [SEQ050618504](seq050618504.md) — Transfert de la gestion des routes aux départements
+
+## Réponse
+
+*Transports et équipement, JO du 2006-01-19, page 173*
+
+S'appuyant sur le principe de subsidiarité, selon lequel les collectivités territoriales ont vocation à prendre les décisions pour l'ensemble des compétences pouvant être mises en oeuvre à leur échelon, la loi du 13 août 2004 relative aux libertés et responsabilités locales prévoit de limiter le dossier public routier national à un réseau cohérent d'autoroutes et de routes d'intérêt national ou européen. Les autres routes ont donc vocation à être transférées aux départements. La majorité des départements, consultés sur le projet de futur réseau national au premier trimestre 2005, a émis un avis globalement favorable. L'Etat a tenu compte des remarques formulées à l'occasion de cette concertation en ajoutant à son projet initial 1 800 kilomètres de routes nationales dont il envisageait initialement le transfert. Ainsi, le futur réseau national comporterait 11 800 kilomètres de routes nationales et d'autoroutes non concédées et 8 000 kilomètres d'autoroutes concédées tandis que 18 000 kilomètres de routes nationales actuelles seraient transférés aux départements. Le projet de décret fixant ce futur réseau national vient d'être transmis pour avis au Conseil d'Etat. Des arrêtés préfectoraux préciseront dans chaque département l'étendue des transferts de routes et pourront être pris dès la publication du décret précité. Ils prendront effet au 1er janvier de l'année qui suivra leur signature soit, pour la plupart des départements, au 1er janvier 2006. En tout état de cause, en l'absence de prise de l'arrêté préfectoral, le transfert interviendra de droit le 1er janvier 2008, date butoir fixée par la loi.
