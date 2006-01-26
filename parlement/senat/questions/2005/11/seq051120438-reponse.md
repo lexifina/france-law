@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120438
+
+- Question : [SEQ051120438](seq051120438.md) — Modalités de calcul des droits à la retraite
+
+## Réponse
+
+*Fonction publique, JO du 2006-01-26, page 221*
+
+Afin de mettre l'article L. 24 du code des pensions (3°, I) en conformité avec le droit communautaire, l'article 136 de la loi de finances rectificative pour 2004 a modifié l'ancien dispositif de départ à la retraite anticipée réservé aux femmes fonctionnaires, mères de trois enfants et justifiant d'au moins quinze ans de services. Le décret d'application n° 2005-449 du 10 mai 2005 de cet article est venu préciser les nouvelles modalités de ce départ anticipé à la retraite. Ce droit est désormais étendu aux fonctionnaires masculins et est ouvert à celles et ceux qui remplissent les trois conditions cumulatives suivantes : justifier de quinze ans de services civils et militaires effectifs, être parent d'au moins trois enfants (légitimes,naturels ou adoptés, vivants ou décédés par fait de guerre) ou d'un enfant vivant, âgé de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 %, justifier, à l'occasion de la naissance, de l'adoption ou de l'arrivée de l'enfant au foyer, d'une période de non-activité continue minimale de deux mois. La référence aux enfants vivants s'explique par le caractère familial de la mesure qui vise à maintenir la possibilité d'une retraite anticipée aux fonctionnaires souhaitant interrompre leur activité professionnelle pour se consacrer à l'éducation de leurs enfants ou aux soins d'un handicapé lourd. Cette référence n'a pas été modifiée par les nouvelles dispositions. C'est pourquoi, dans le cas d'une mère qui a eu la douleur de perdre un enfant, malgré la dimension humaine indéniable de cette situation, il existe un obstacle juridique à l'ouverture du droit, en l'absence de trois enfants vivants au moment de la demande.
