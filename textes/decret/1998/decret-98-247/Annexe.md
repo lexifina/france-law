@@ -96,7 +96,7 @@ Réparation d'objets d'art, 36.1 K/92.3 A partiel.
 
 Finition et restauration de meubles, dorure, encadrement, 36.1 K.
 
-Spectacle de marionnettes, 92.3 J partiel.
+Spectacle de marionnettes, 92.3 KP partiel.
 
 Préparation de plantes et de fleurs et compositions florales, 52.4 X/52.6 E partiel.
 
