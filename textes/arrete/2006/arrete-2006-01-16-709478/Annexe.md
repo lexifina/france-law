@@ -1,0 +1,3 @@
+# Article Annexe
+
+Les annexes du présent arrêté seront publiées au Bulletin officiel de la jeunesse et des sports, qui sera disponible auprès du Centre national de documentation pédagogique, 60732 Sainte-Geneviève Cedex.
