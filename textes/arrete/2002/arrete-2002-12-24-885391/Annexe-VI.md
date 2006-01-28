@@ -1,7 +1,5 @@
 # Article Annexe VI
 
-Annexe VI
-
 Catégories de sources et code NOSE-p à déclarer
 
 IPPC
@@ -316,7 +314,7 @@ Installations pour l'élimination ou la valorisation des déchets dangereux (> 1
 
 |
 
-109.03
+109.01
 
 |
 

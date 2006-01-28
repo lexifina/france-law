@@ -1,7 +1,5 @@
 # Article Annexe II
 
-Annexe II
-
 Émissions dans l'air
 
 POLLUANTS
@@ -110,7 +108,7 @@ Exprimé en carbone total
 
 |
 
-100 000
+30 000
 
 |
 
