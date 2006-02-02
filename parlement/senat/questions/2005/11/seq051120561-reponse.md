@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120561
+
+- Question : [SEQ051120561](seq051120561.md) — Pouvoirs du maire pour un marché dont le montant est supérieur à son montant prévisionnel qui figure dans la délibération qui l'y autorise
+
+## Réponse
+
+*Intérieur, JO du 2006-02-02, page 296*
+
+Il ressort de la jurisprudence « commune de Montélimar », qui est à l'origine des nouvelles dispositions contenues dans l'article L. 2122-21-1 du code général des collectivités territoriales, que l'assemblée délibérante ne saurait se prononcer sans disposer des éléments essentiels permettant d'éclairer sa décision. Lorsque la délibération intervient à l'issue d'une procédure de passation de marché public, les éléments essentiels sont le nom du titulaire et le montant exact du marché. Lorsqu'elle est prise avant l'engagement de la procédure, les principaux éléments disponibles sont le besoin à satisfaire et l'estimation du montant du marché. L'évaluation du montant prévisionnel doit se faire avec la plus grande sincérité et d'une manière réaliste prenant objectivement en compte les prix pratiqués dans le secteur concerné, de manière à ce que la différence entre le montant final et le montant initial demeure marginale. Il s'ensuit que l'autorisation donnée au maire avant l'engagement de la procédure n'est pas remise en cause lorsque le montant final est supérieur au montant initialement estimé tant que l'augmentation constatée peut être justifiée par la prise en compte de coûts en liaison avec l'objet du marché et pour lesquels la collectivité ne disposait objectivement pas d'éléments permettant de les évaluer et de les intégrer dans son calcul du montant prévisionnel. Dans le cas contraire et en raison de l'impact que cela a sur les finances locales, une nouvelle délibération approuvant le montant final du marché paraît devoir être préconisée à l'issue de la procédure.
