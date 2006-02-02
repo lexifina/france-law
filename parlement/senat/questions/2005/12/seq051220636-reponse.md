@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220636
+
+- Question : [SEQ051220636](seq051220636.md) — Conséquences de la modification de la législation israélienne relative à l'âge de la retraite sur les salariés de l'ambassade, des consulats et des centres culturels français en Israël
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-02-02, page 265*
+
+Dans le cadre de la loi de redressement de l'économie israélienne de juillet 2003, les autorités israéliennes ont décidé de reculer progressivement l'âge de la retraite des salariés israéliens, de soixante-cinq à soixante-sept ans pour les hommes et de soixante à soixante-deux ans pour les femmes. Selon le vade-mecum du recrutement local 2001 (fiche n° 2), qui est conforme à la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, « les services de l'Etat à l'étranger peuvent [...] faire appel à des personnels contractuels recrutés sur place, sur des contrats de travail soumis au droit local [...] ». Dans ces conditions, conformément à la législation israélienne et au vade-mecum du recrutement local, l'ambassade et les consulats présents sur le sol israélien appliquent le droit local. En tout état de cause, aucun des recrutés locaux employés par nos représentations diplomatiques et consulaires n'a été obligé de partir à la retraite avant le nouvel âge légal. Il n'existe qu'un seul cas tout à fait particulier de mise à la retraite à soixante-cinq ans. Il concernait un « contractuel Paris », c'est-à-dire un agent contractuel sous contrat parisien soumis au droit français. En application de l'article 10 du décret du 18 juin 1969, celui-ci ne pouvait pas travailler au-delà de l'âge de soixante-cinq ans. L'attention du ministre des affaires étrangères a déjà été attiré sur ce cas particulier par Mme Cerisier-ben Guiga, sénatrice des Français établis hors de France. Il a fait l'objet d'une réponse en date du 7 décembre 2005.
