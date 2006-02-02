@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120299
+
+- Question : [SEQ051120299](seq051120299.md) — Situation des officiers de port issus de la marine marchande
+
+## Réponse
+
+*Transports et équipement, JO du 2006-02-02, page 310*
+
+Le code des pensions de retraite des marins (CPRM) dispose, dans son principe, que les marins titulaires de pension sont soumis, en matière de cumul, aux dispositions du titre III du livre II du code des pensions civiles et militaires de retraite (CPCMR). La loi n° 2003-775 du 21 août 2003 portant réforme des retraites a modifié, à compter du 1er janvier 2004, le régime de cumul emploi-retraite propre aux fonctionnaires. Bien que le régime de retraite des marins n'ait pas été directement concerné par la loi d'août 2003, la situation des marins issus de la marine marchande susceptibles d'être pensionnés depuis le 1er janvier 2004 se trouve néanmoins modifiée au regard des règles de cumul emploi-retraite, compte tenu des dispositions de principe du CPRM rappelées ci-dessus. Les officiers et officiers de port adjoints issus de la marine marchande qui, auparavant, pouvaient à partir de cinquante-cinq ans cumuler une pension proportionnelle de marin pour quinze années au moins de services maritimes avec l'exercice de leur activité rémunérée à temps complet, sont effectivement concernés par le plafonnement apporté par le législateur au cumul de revenus d'activité avec une pension dans la limite d'un tiers de la pension pour les fonctionnaires civils. Les possibilités d'une évolution de la loi sur ce point particulier ont été étudiées en vue d'autoriser les anciens marins, recrutés dans un emploi public avant le 1er janvier 2004, et devenant titulaires d'une pension proportionnelle de marin, à cumuler intégralement le montant de leur pension avec les revenus d'activité tirés de cet emploi public, sans qu'il soit possible à ce stade de déroger, dans le contexte actuel, aux dispositions de cette loi récente.
