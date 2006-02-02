@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014248
+
+- Question : [SEQ041014248](seq041014248.md) — Bassin sidérurgique lorrain : permis de construire et plans d'urbanisme
+
+## Réponse
+
+*Économie, JO du 2006-02-02, page 280*
+
+Un travail important est en cours afin d'établir des cartes d'aléas liés aux anciennes exploitations minières. En particulier, le programme d'étude des zones à présomption d'aléas miniers des mines de fer de Lorraine permettra de produire, d'ici à fin 2007, les cartes d'aléas sur les trois bassins Sud, Centre et Nord. L'élaboration des plans de prévention des risques miniers (PPRM) se poursuit parallèlement : les cartes d'aléas de 25 communes réparties sur les départements de la Meuse, de la Meurthe-et-Moselle et de la Moselle ont été remises dans les mairies en mars 2004 dont, en particulier, les municipalités de toutes les communes du bassin d'ennoyage Nord. Le PPRM, règlement d'urbanisme qui vaut servitudes, devrait permettre de lever, dans certains cas, le gel des permis de construire du fait d'une meilleure connaissance du risque. En février 2005, de nouvelles cartes d'aléas établies en 2004 ont été communiquées à 11 communes ; 24 autres recevront leurs cartes en 2006 et le complément en 2007. L'impossibilité de disposer, sur les bassins Sud et Centre, des études et investigations nécessaires pour élaborer les cartes d'aléas a imposé à l'Etat de se réapproprier la connaissance la plus précise possible des ouvrages miniers et de développer une méthodologie d'analyse du risque qui lui faisait défaut. Aujourd'hui, grâce à Géodéris, cette méthodologie est appliquée sur l'ensemble des mines de fer de Lorraine. L'échéance de l'aboutissement de ce travail dans les trois ans permettra de dissiper les incertitudes actuelles et d'envisager un développement plus favorable des communes concernées.
