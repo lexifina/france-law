@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019641
+
+- Question : [SEQ051019641](seq051019641.md) — Alcoolisation des jeunes
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-02-02, page 305*
+
+D'après l'enquête ESCAPAD 2003 réalisée par l'Observatoire français des drogues et des toxicomanies (OFDT), l'alcool est la substance psychoactive la plus consommée chez les 17-18 ans (huit jeunes sur dix) devant le tabac (un jeune sur deux). Parmi les garçons, l'usage régulier de l'alcool est à présent supérieur à celui du cannabis (21,2 % pour l'alcool contre 14,6 % pour le cannabis). Entre 2002 et 2003, il a augmenté de 2,4 points chez les garçons de 17-18 ans et de 1,4 point chez les filles (de 6,1 à 7,5 %). Or, les boissons prémix et autres « alcopops » sont destinées à fidéliser les publics les plus jeunes avec ces boissons alcoolisées dont le fort goût en alcool ou l'amertume ont été masqués par l'ajout d'autres produits dont le sucre ou un édulcolrant. C'est pourquoi une surtaxe a été adoptée, dans le cadre de la loi du 9 août 2004 relative à la santé publique, pour en dissuader la consommation. Toutefois, cette disposition législative est actuellement contournée. En effet, des boissons identiques réapparaissent et, grâce à une recette modifiée, sont exonérées de cette surtaxe. De manière générale, la taxation des boissons prémix est relativement difficile à élaborer. En effet, ce type de boissons n'a pas de définition propre. Par conséquent, d'autres boissons alcoolisées plus traditionnelles et non destinées aux jeunes peuvent être facilement impactées par cette taxation. Afin de mettre un terme à ces difficultés, il conviendrait de déterminer, au niveau communautaire, une définition des prémix. Une telle définition n'existant pas encore, l'administration des douanes travaille actuellement avec le ministère de la santé sur un nouveau projet de taxation de ces nouvelles boissons sucrées alcoolisées.
