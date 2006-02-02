@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919439
+
+- Question : [SEQ050919439](seq050919439.md) — Application de l'article L. 480-1 du code de l'urbanisme en cas d'occupation des lieux
+
+## Réponse
+
+*Transports et équipement, JO du 2006-02-02, page 309*
+
+Outre les officiers et agents de police judiciaire, l'article L. 480-1 du code de l'urbanisme prévoit que certains fonctionnaires et agents de l'Etat et des collectivités publiques, commissionnés à cet effet et assermentés, sont habilités à dresser procès-verbal des infractions qu'ils constatent. Si les officiers et agents de police judiciaire sont tenus de suivre les règles de procédure pénale, dont ils tirent une compétence générale, les fonctionnaires et agents de l'Etat et des collectivités publiques, commissionnés et assermentés, ne sauraient exercer leurs attributions de police judiciaire que dans les strictes limites des pouvoirs accordés par le code de l'urbanisme, qui limite ceux-ci à la seule constatation des faits. Dans l'hypothèse la plus simple et la plus fréquente, les constatations des infractions au code de l'urbanisme sur les constructions ou travaux visibles de l'extérieur sont effectuées depuis la voie publique et ne nécessitent donc pas l'accord d'une quelconque personne. Dans le cas contraire, sachant que la jurisprudence fait une appréciation extensive de la notion de domicile, lors des constatations effectuées à l'intérieur d'une propriété, l'agent verbalisateur doit préalablement rechercher l'accord manuscrit de l'occupant ou recueillir son accord verbal et le consigner dans le procès-verbal. En cas de refus d'accès à la propriété, l'agent doit consigner le refus opposé par l'occupant dans le procès-verbal et transmettre celui-ci au ministère public, qui peut ordonner une enquête préliminaire, voire saisir le juge d'instruction en vue d'ordonner une visite domiciliaire sur commission rogatoire délivrée aux officiers de police judiciaire.
