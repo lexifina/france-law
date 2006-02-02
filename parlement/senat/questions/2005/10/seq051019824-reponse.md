@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019824
+
+- Question : [SEQ051019824](seq051019824.md) — Prorogation de la période transitoire pour les plans locaux d'urbanisme
+
+## Réponse
+
+*Transports et équipement, JO du 2006-02-02, page 309*
+
+Les plans d'occupation des sols (POS) doivent en principe être mis en forme de plan local d'urbanisme (PLU) à l'occasion de leur prochaine révision. Toutefois, pour leur permettre d'évoluer tout en restant en forme de POS par le biais de la révision simplifiée, une procédure transitoire a été instaurée. La révision simplifiée permet de changer les dispositions d'un PLU pour permettre la réalisation d'une construction ou d'une opération, à caractère public ou privé, présentant un intérêt général pour la commune. Cette procédure est ouverte aux POS jusqu'au 1er janvier 2006 pour leur permettre d'évoluer sans passer immédiatement en forme de PLU, tout en incitant à terme à ce passage. La loi du 1er août 2003 relative à la rénovation urbaine a complété le code de l'urbanisme d'un article L. 300-6 qui permet aux communes d'utiliser la procédure de déclaration de projet, prévue par l'article L. 126-1 du code de l'environnement, pour adapter leurs schémas de cohérence territoriale (SCOT) et leurs PLU à une action ou une opération d'aménagement. Dans ces conditions, les communes qui ne souhaitent pas encore élaborer un PLU peuvent parfaitement faire évoluer leur POS pour intégrer rapidement des opérations à caractère d'intérêt général sans pour autant le mettre en forme de PLU à l'aide de la déclaration de projet, et ce même après le 1er janvier 2006. Toutefois, conscient que cette dernière faculté ne permet pas de répondre à l'ensemble des préoccupations exprimées par les communes, le Gouvernement a prévu, dans le cadre du projet de loi portant engagement national pour le logement en cours d'examen au Parlement, de prolonger la possibilité d'effectuer des révisions simplifiées des POS jusqu'au 1er janvier 2010.
