@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220686
+
+- Question : [SEQ051220686](seq051220686.md) — Loi SRU : critères de pénalisation
+
+## Réponse
+
+*Emploi, JO du 2006-02-02, page 288*
+
+L'article 55 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) fait obligation aux communes de plus de 3 500 habitants (1 500 en Ile-de-France) de disposer sur leur territoire, au terme de vingt ans, d'au moins 20 % de logements locatifs sociaux. Les communes déficitaires sont soumises chaque année à un prélèvement sur leurs ressources fiscales directement proportionnel au nombre de logements sociaux manquants par rapport à cet objectif de 20 %. Ce nombre est calculé annuellement sur la base de l'inventaire contradictoire effectué entre les services de l'Etat et la commune pour décompter les logements sociaux et les résidences principales, inventaire qui ne prend en compte que les logements sociaux effectivement mis en service. Peuvent venir en déduction de ce prélèvement les dépenses que la commune a effectuées deux ans avant pour favoriser la création de logements locatifs sociaux. C'est ainsi que si la commune a participé financièrement à la création de logements sociaux qui font l'objet d'un permis de construire, quelle que soit la date de livraison de ces logements, ces dépenses viendront en déduction du prélèvement. Moyennant un effort financier permanent en faveur de la création de logements locatifs sociaux, de niveau relativement modéré pour la commune, le prélèvement n'est en principe jamais perçu. Les débats en deuxième lecture au Sénat du projet de loi portant « Engagement national pour le logement », au premier trimestre 2006, pourront être l'occasion d'évaluer si les communes soumises aux obligations de l'article 55 de la loi SRU et qui investissent durablement en faveur du logement social versent effectivement ou non ledit prélèvement.
