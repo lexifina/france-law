@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (4)
+# Article Annexe I à l'art. R434-32 (4)
 
 3 - RACHIS
 

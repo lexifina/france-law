@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (2)
+# Article Annexe I à l'art. R434-32 (2)
 
 1 - MEMBRE SUPERIEUR.
 
@@ -578,7 +578,7 @@ Pseudarthroses de la diaphyse humérale :
 
 |
 
-(Au voisinage de l'épaule et du coude, voir Epaule ballante » ou Coude ballant»).
+(Au voisinage de l'épaule et du coude, voir Epaule ballante ou Coude ballant).
 
 |
 

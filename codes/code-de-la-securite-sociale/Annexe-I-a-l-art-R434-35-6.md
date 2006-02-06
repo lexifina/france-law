@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (6)
+# Article Annexe I à l'art. R434-32 (6)
 
 5 - OTO-RHINO-LARYNGOLOGIE
 

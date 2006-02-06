@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (9)
+# Article Annexe I à l'art. R434-32 (9)
 
 8 - APPAREIL DIGESTIF
 

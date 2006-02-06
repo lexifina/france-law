@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (1)
+# Article Annexe I à l'art. R434-32 (1)
 
 CHAPITRE PRELIMINAIRE
 
@@ -24,7 +24,7 @@ L'estimation de l'état général n'inclut pas les infirmités antérieures - qu
 
 3° L'âge. Cet élément, qui souvent peut rejoindre le précédent, doit être pris en considération sans se référer exclusivement à l'indication tirée de l'état civil, mais en fonction de l'âge organique de l'intéressé. Il convient ici de distinguer les conséquences de l'involution physiologique, de celles résultant d'un état pathologique individualisé. Ces dernières conséquences relèvent de l'état antérieur et doivent être estimées dans le cadre de celui-ci.
 
-On peut ainsi être amené à majorer le taux théorique affecté à l'infirmité, en raison des obstacles que les conséquences de l'âge apportent à la réadaptation et au reclassement professionel.
+On peut ainsi être amené à majorer le taux théorique affecté à l'infirmité, en raison des obstacles que les conséquences de l'âge apportent à la réadaptation et au reclassement professionnel.
 
 4° Facultés physiques et mentales. Il devra être tenu compte des possibilités de l'individu et de l'incidence que peuvent avoir sur elles les séquelles constatées. Les chiffres proposés l'étant pour un sujet normal, il y a lieu de majorer le taux moyen du barème, si l'état physique ou mental de l'intéressé paraît devoir être affecté plus fortement par les séquelles que celui d'un individu normal.
 

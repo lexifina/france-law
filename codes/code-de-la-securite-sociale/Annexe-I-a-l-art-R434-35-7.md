@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (7)
+# Article Annexe I à l'art. R434-32 (7)
 
 6 OPHTALMOLOGIE
 

@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (8)
+# Article Annexe I à l'art. R434-32 (8)
 
 7 - STOMATOLOGIE
 
