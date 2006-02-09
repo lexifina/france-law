@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120284
+
+- Question : [SEQ051120284](seq051120284.md) — Résumé en langue française dans les dépliants de l'ANPE rédigés en langue étrangère
+
+## Réponse
+
+*Culture, JO du 2006-02-09, page 359*
+
+L'honorable parlementaire s'inquiète auprès du ministre de la culture et de la communication de la diffusion par l'Agence nationale pour l'emploi, à l'intention des demandeurs d'emploi étrangers, d'un dépliant qui détaille les services que rendent les ASSEDIC et l'ANPE. Ce dépliant, en effet, serait édité et diffusé dans plusieurs langues étrangères. Si le recours aux langues étrangères est parfaitement justifié pour atteindre des populations non francophones qui pourraient être éloignées du service public de l'emploi, en revanche, cette mission de service public remplie par l'ANPE nécessite de proposer également une information en langue française, comme le prévoient les textes légaux et réglementaires. A cet égard, le Premier ministre avait rappelé, dans une circulaire du 14 février 2003, le rôle exemplaire que doivent jouer les agents publics en matière d'emploi du français. Cette obligation a été rappelée par le Premier ministre dans le rapport sur l'emploi de la langue française que le gouvernement vient de remettre au Parlement pour l'année 2005. Les services du ministère de la culture et de la communication (délégation générale à la langue française et aux langues de France) sont donc très rapidement intervenus en ce sens auprès du directeur général de l'ANPE. Ce dernier a fait savoir que les dépliants, édités en application des mesures adoptées par le conseil interministériel à l'intégration du 10 avril 2003, sont bien imprimés en français, et non seulement en anglais et en arabe, et sont remis, depuis juin 2003, aux personnes qui recherchent un emploi et qui ont signé un contrat d'accueil et d'intégration.
