@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220637
+
+- Question : [SEQ051220637](seq051220637.md) — Baisse du budget alloué en 2006 aux anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 2006-02-09, page 357*
+
+Comme le sait l'honorable parlementaire, l'article 125 de la loi n° 2005-719 du 30 décembre 2005 de finances pour 2006 prévoit une augmentation du montant de la retraite du combattant de 2 points d'indice, le portant ainsi à 35 points au 1er juillet 2006 au lieu des 33 points appliqués depuis 1978. Cette mesure est sans précédent depuis près de trente ans et représente un effort budgétaire de 18 MEUR. Elle atteste à la fois de l'attention que le Gouvernement porte au monde combattant et du respect de ses engagements envers les associations. Pour ce qui concerne les veuves, le ministre délégué aux anciens combattants souhaite rappeler à l'honorable parlementaire que leur situation a constitué l'une des priorités des lois de finances pour 2004 et 2005. Une forte revalorisation de 15 points d'indice de leurs pensions a été décidée dans le budget des anciens combattants pour 2004. 12 MEUR de crédits nouveaux en 2004 et 11,84 MEUR en 2005 ont permis à 130 000 veuves de bénéficier de cette mesure. Par ailleurs, les veuves, pensionnées ou non, sont toutes ressortissantes de l'ONAC, et peuvent prétendre, à ce titre, à l'aide matérielle, morale et administrative dispensée par cet établissement public placé sous la tutelle du ministre. En outre, le Gouvernement a remis au Parlement le rapport, prévu par la loi de finances pour 2004, sur les anciens combattants et les veuves d'anciens combattants âgés de plus de soixante ans, dont les ressources sont inférieures au salaire minimum de croissance. Comme l'a souligné le ministre délégué aux anciens combattants lors des débats budgétaires, un groupe de travail chargé d'étudier de façon approfondie ce sujet sera constitué dans la perspective du budget pour 2007. Les parlementaires y seront associés.
