@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120165
+
+- Question : [SEQ051120165](seq051120165.md) — Développement du sous-titrage sur TV5
+
+## Réponse
+
+*Coopération, JO du 2006-02-09, page 358*
+
+Le ministère des affaires étrangères considère que le sous-titrage en langues étrangères est un enjeu majeur pour l'avenir de TV5 dans un contexte audiovisuel mondial très concurrentiel. Il est la clé pour conquérir un public significatif au delà des cercles francophones et justifier le maintien en bonne place de la chaîne sur des réseaux saturés. Aussi le ministère a-t-il, comme les autres partenaires francophones de la chaîne, adopté le plan stratégique d'entreprise proposé par son président pour la période 2006-2009 dont le développement du sous-titrage est une des grandes orientations. Mais cet objectif a un coût auquel la chaîne devra faire face. Le ministère des affaires étrangères a obtenu pour 2006 la reconduction de la dotation inscrite au PLF 2005. Par ailleurs, le ministère, en fin d'exercice 2005, a versé une subvention exceptionnelle qui permettra d'abonder le budget 2006 de TV5. Le ministère est tout à fait conscient que les ressources propres de la chaîne, recettes publicitaires essentiellement, qui lui permettraient d'autofinancer partiellement son plan stratégique, sont relativement limitées. Cette situation budgétaire difficile a conduit la ministre déléguée à la coopération, au développement et à la francophonie à demander à la dernière Conférence des ministres responsables de TV5 que le déséquilibre actuel du financement public de TV5 (la contribution française représente 84 % des contributions des gouvernements partenaires) soit corrigé. On peut espérer que nos partenaires aient entendu le message. Dans l'immédiat seule la partie québécoise a fait part de l'effort financier qu'elle consentira dans le cadre du budget 2006 de la chaîne, le montant final des contributions des autres partenaires n'étant pas encore connu.
