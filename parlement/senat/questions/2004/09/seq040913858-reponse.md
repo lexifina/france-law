@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913858
+
+- Question : [SEQ040913858](seq040913858.md) — Difficultés d'utilisation par les communes associées des documents cadastraux et fiscaux sur cédérom
+
+## Réponse
+
+*Économie, JO du 2006-02-09, page 360*
+
+Dans un souci de modernisation et d'amélioration du service rendu aux collectivités territoriales, les informations cadastrales sont transmises aux communes, à compter de 2004, sur cédéroms. Ceux-ci incluent le logiciel VisDGI, qui permet la sélection, la consultation et l'édition de données foncières et fiscales sans qu'il soit nécessaire d'acquérir d'autres logiciels ou de recourir à des prestataires de services. La lecture du cédérom VisDGI requiert l'utilisation d'un micro-ordinateur standard, aux performances courantes, et sans aucune connexion à l'internet. Compte tenu des modalités de délivrance de la matrice cadastrale qui préexistaient à la diffusion des cédéroms, les communes associées sont désormais destinataires d'un exemplaire du cédérom VisDGI cadastre, qui contient les mêmes données que la commune centre de rattachement. En revanche, les communes associées ne sont pas visées par l'article L. 135 B du Livre des procédures fiscales, en vertu duquel l'administration fiscale est tenue de transmettre chaque année aux collectivités locales et à leurs groupements dotés d'une fiscalité propre les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit. Les communes associées n'ont en effet pas de compétence propre en matière de fiscalité directe locale : elles ne votent pas elles-mêmes les taux d'imposition. Elles ne recevaient donc pas précédemment les rôles d'impôts locaux et le changement de support de diffusion ne modifie pas cette situation. Les copies de rôles continuent donc à être transmises uniquement à la commune centre.
