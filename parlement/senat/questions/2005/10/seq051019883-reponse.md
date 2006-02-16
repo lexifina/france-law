@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019883
+
+- Question : [SEQ051019883](seq051019883.md) — Réduction des délais de paiement des collectivités publiques
+
+## Réponse
+
+*Emploi et travail, JO du 2006-02-16, page 418*
+
+L'attention du ministre délégué à l'entreprise, au travail et à l'insertion professionnelle des jeunes a été attirée sur les difficultés financières rencontrées par des organismes de formation, difficultés liées à des retards de paiement par les collectivités publiques. Les collectivités publiques sont tenues par le code des marchés publics, en son article 96, de payer leurs prestataires, quelle que soit la nature de la prestation réalisée, après service fait, dans un délai maximum de quarante-cinq jours à la réception de la facture. Le défaut de paiement dans ce délai ouvre de plein droit le bénéfice d'intérêts moratoires à compter du jour suivant l'expiration du délai. Le taux applicable est le taux d'intérêt légal en vigueur à la date à laquelle les intérêts moratoires ont commencé à courir, augmenté de deux points (article 5-II du décret n° 2002-232 du 21 février 2002). A titre dérogatoire, les établissements publics de santé et les établissements du service de santé des armées bénéficient d'un délai de paiement de cinquante jours. Il n'y a pas de délai de prescription pour demander le paiement des intérêts moratoires. Dans ces conditions, il appartient aux organismes de formation, dont l'institut régional de formation des adultes, de demander le paiement des intérêts moratoires passé le délai de quarante ou cinquante jours, selon la collectivité publique débitrice, après la réception et le non-rejet de la facture par ladite collectivité publique. Cette disposition du code des marchés, lourde de conséquences financières pour les collectivités publiques, a pour objectif de les inciter à acquitter certaines de leurs créances dans les plus brefs délais.
