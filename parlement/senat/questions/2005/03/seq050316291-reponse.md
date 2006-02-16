@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316291
+
+- Question : [SEQ050316291](seq050316291.md) — Droits successoraux en France et en Grande-Bretagne
+
+## Réponse
+
+*Justice, JO du 2006-02-16, page 439*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'en matière de succession internationale, la loi successorale compétente est la loi de l'Etat dans lequel le défunt avait son dernier domicile. Cependant, lorsque la succession comprend des immeubles situés dans d'autres Etats, la loi successorale applicable à la dévolution de ces immeubles est la loi de l'Etat sur lesquels ils sont situés. Cette scission des lois successorales applicables a pour effet de créer une pluralité de masses successorales. Cependant, en matière de passif, la jurisprudence française considère que l'héritier a l'obligation de comprendre dans les comptes à rendre aux créanciers l'ensemble des valeurs successorales, quelle que soit leur situation, dans la mesure où le droit de poursuite des créanciers fait abstraction de la situation des biens. Ainsi, le cas échéant, les créanciers de la succession d'un ressortissant anglais domicilié en France pourront recouvrer leurs créances sur l'ensemble des biens de la succession, et les héritiers ayant accepté purement et simplement la succession soumise à la loi française seront tenus au-delà des forces de la succession, y compris à l'égard de créanciers domiciliés à l'étranger. La Commission européenne a publié, le 1er mars 2005, un livre vert sur les successions et les testaments, visant à harmoniser les règles de conflit de loi en cette matière. Le Gouvernement a accueilli favorablement une telle démarche qui devrait conduire à l'élaboration d'un instrument destiné à permettre la désignation, de façon uniforme dans l'Union européenne, de la loi applicable à une succession.
