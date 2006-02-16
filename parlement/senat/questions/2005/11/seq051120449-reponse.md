@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120449
+
+- Question : [SEQ051120449](seq051120449.md) — Procédures de passation des marchés publics par les SDIS
+
+## Réponse
+
+*Intérieur, JO du 2006-02-16, page 436*
+
+Les dispositions applicables aux services départementaux d'incendie et de secours (SDIS) pour la signature de leurs marchés sont contenues dans l'article L. 1424-30 du code général des collectivités territoriales. Si un parallèle pouvait être fait jusqu'à l'entrée en vigueur de l'ordonnance n° 2005-645 du 6 juin 2005 entre les modalités de signature des marchés des SDIS et celles applicables aux marchés des département (le président du conseil d'administration du SDIS comme le président du conseil général agit en tant qu'exécutant des délibérations de l'organe délibérant ; il peut recevoir délégation pour certains marchés uniquement), il en va différemment désormais. En effet, le président du conseil général peut à présent solliciter l'autorisation de signer les marchés autres que ceux pour lesquels il a reçu délégation avant de lancer la procédure. Il s'agit là d'une faculté alternative à la procédure de droit commun qui consistait et continue à consister à solliciter l'autorisation à l'issue de la procédure, une fois l'identité du titulaire et le montant du marché connus. Si en application de l'article L. 3241-1 du code général des collectivités territoriales, les SDIS sont soumis aux dispositions applicables au département pour ce qui concerne le régime de leurs actes, ils sont régis par des dispositions spécifiques pour ce qui concerne le fonctionnement de leur conseil d'administration et les attributions de leur président et/ou de leur directeur. En conséquence, les nouvelles dispositions n'ont aucune incidence sur les conditions dans lesquelles les marchés de ces établissements publics peuvent être signés.
