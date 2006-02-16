@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121259
+
+- Question : [SEQ060121259](seq060121259.md) — Suppression des perceptions en milieu rural et indemnité facultative de conseil versée par les communes
+
+## Réponse
+
+*Budget, JO du 2006-02-16, page 407*
+
+Ainsi qu'il a déjà été exposé au parlementaire, la restructuration en cours des trésoreries répond à l'objectif assigné à la direction générale de la comptabilité publique d'amélioration de l'efficience de ses structures et de la qualité du service rendu aux usagers. Or les trésoreries rurales sont généralement soumises à de fortes contraintes organisationnelles et fonctionnelles, ce qui les fragilise et ne leur permet pas d'accomplir leurs missions de manière optimale. Leur regroupement, à l'issue d'une large concertation, conformément aux directives du Premier ministre et aux recommandations de la conférence nationale sur les services publics en milieu rural, contribue à pallier ces inconvénients, notamment parce qu'elles disposent alors de moyens humains plus conséquents. En effet, la complexité croissante de la réglementation en vigueur exige des agents des trésoreries d'avoir des connaissances de plus en plus pointues sur un grand nombre de sujets, ce que le travail au sein d'une équipe réduite ne permet pas toujours. De plus, le comptable, à la tête d'une équipe renforcée, peut déléguer la réalisation de certaines activités afin de développer son activité de conseil aux collectivités. Au final, les communes bénéficient donc de davantage de prestations de conseil et d'un conseil de meilleure qualité. En tout état de cause, comme le souligne le parlementaire, l'attribution d'une indemnité de conseil au comptable par les communes est entièrement facultative, et les conseils municipaux sont libres de choisir de ne pas la voter s'ils considèrent qu'elle n'est pas justifiée.
