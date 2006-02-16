@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718960
+
+- Question : [SEQ050718960](seq050718960.md) — Prévention des attentats
+
+## Réponse
+
+*Intérieur, JO du 2006-02-16, page 423*
+
+Pour lutter contre des réseaux de plus en plus informés et polymorphes, à la fois organes de recrutement, de financement et de soutien logistique, des pôles de lutte contre l'islamisme radical ont été créés le 27 janvier 2005. Placés sous l'autorité du préfet de région, ces pôles régionaux regroupent les services des douanes, du fisc, de la santé publique et de la police notamment, auxquels ils font appel autant que de besoin. Ils privilégient l'action préventive et, à ce titre, sont un outil majeur d'une stratégie proactive de lutte antiterroriste. Ainsi, par exemple, les salles de prière peuvent faire l'objet de contrôles par les commissions de sécurité afin que la réglementation en matière d'établissement recevant du public soit respectée. En cas d'inexécution, la fermeture du lieu peut être prononcée. Ce type de contrôle permet aussi de mobiliser les fidèles et l'association gestionnaire face aux risques de noyautage par des groupes radicaux. De même, sont recherchés les prédicateurs qui développent des discours haineux envers l'Occident et qui prêchent un islam incompatible avec les valeurs démocratiques et républicaines de la France. Depuis le mois de janvier, 7 prédicateurs ont ainsi fait l'objet d'un arrêté de reconduite à la frontière. Au total, ce sont 1 049 individus impliqués à des degrés divers au sein de la mouvance islamiste qui ont été contrôlés. En outre, certains commerces, tels ceux de restauration rapide, font l'objet d'un suivi particulier de la part des pôles régionaux, dans la mesure où ils se situent à la croisée des chemins entre financement et endoctrinement. Les enquêtes sanitaires peuvent conduire à la fermeture de ces points de fixation nécessaires aux groupes salafistes.
