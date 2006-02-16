@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051221018
+
+- Question : [SEQ051221018](seq051221018.md) — Distribution des journaux d'information locale aux administrés ayant apposé l'autocollant interdisant la publicité dans leur boîte aux lettres
+
+## Réponse
+
+*Industrie, JO du 2006-02-16, page 420*
+
+Dans le cadre de la politique de développement durable, La Poste s'est engagée à respecter les dispositifs qui concernent les restrictions relatives à la distribution de la publicité non adressée (PNA). Le président de La Poste avait, toutefois, personnellement attiré à plusieurs reprises l'attention du ministre de l'environnement sur la difficulté d'une distribution des seuls bulletins d'information des collectivités locales dans les boîtes aux lettres qui affichent cet autocollant. Conscient des difficultés posées par la non-distribution de ces bulletins d'information dans les boîtes aux lettres qui affichent cet autocollant, le groupe La Poste a créé, en 2004, une offre spécifique, Municipost, qui permet, de garantir une distribution des messages non adressés, émanant des collectivités locales, dans toutes les boîtes aux lettres des petites et moyennes communes. Municipost est une offre « tout en un » qui permet de distribuer en publicité non adressée (PNA) tout document jusqu'à 150 grammes : un journal municipal, une information sur l'organisation d'un événement ou la mise en place de nouveaux services municipaux ou encore une consultation des habitants des communes sur des projets. En 2005, après une période d'expérimentation, Mediapost a décidé de faire évoluer les modalités de son offre du service rendu en améliorant la qualité de service, en permettant la distribution des documents sur des périmètres communaux (jusqu'aux communes voisines) avec un dépôt dans l'ensemble des bureaux de poste. Ces mesures répondent aux attentes des élus.
