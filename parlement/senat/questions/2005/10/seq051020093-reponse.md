@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051020093
+
+- Question : [SEQ051020093](seq051020093.md) — Compensation des dépenses faites par les communes pour l'organisation des élections
+
+## Réponse
+
+*Intérieur, JO du 2006-02-16, page 433*
+
+Plusieurs dispositions du code électoral mettent à la charge de l'Etat les dépenses résultant pour les communes de l'organisation des élections au suffrage universel, nationales et locales, et du référendum. S'agissant du référendum local, l'Etat ne prend en charge que les dépenses résultant des consultations organisées sur la base de l'article L. 2113-3 du code général des collectivités territoriales. En premier lieu, une subvention pour frais d'assemblée électorale est versée aux communes en application de l'article L. 70 du code électoral. Cette subvention, qui couvre les dépenses engagées par les communes pour la tenue des bureaux de vote ainsi que l'achat et l'entretien des panneaux électoraux, est calculée sur la base de 38,11 euros par bureau de vote et 0,09 euro par électeur inscrit. Elle représente pour le budget de l'Etat une dépense globale de plus de 6,2 millions d'euros par tour de scrutin. D'autre part, en application des articles L. 62 et L. 69 du code électoral, l'Etat verse chaque année aux communes, y compris les années sans scrutin, une subvention pour l'achat et l'entretien des isoloirs. Le taux de cette subvention, qui a représenté en 2005 une dépense totale de 350 000 euros, est de 5,40 euros par bureau de vote, sauf dans les communes ou collectivités où l'organisation d'un double scrutin n'est pas prévue par la loi (Paris, Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie, Polynésie française et Wallis-et-Futuna). Pour ces collectivités, la subvention est de 3,85 euros par bureau de vote. Enfin, le remboursement par l'Etat aux communes de l'achat des urnes transparentes et de l'achat ou de la location de machines à voter a représenté en 2005 une dépense totale de 900 000 euros.
