@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220621
+
+- Question : [SEQ051220621](seq051220621.md) — Inquiétude des ménages quant à la réforme du paiement de la redevance audiovisuelle
+
+## Réponse
+
+*Budget, JO du 2006-02-23, page 491*
+
+L'article 41 de la loi de finances pour 2005 maintient, pour les redevables déjà soumis à la redevance audiovisuelle en 2004, le principe selon lequel la redevance audiovisuelle est acquittée annuellement et d'avance, en une seule fois et pour une période de douze mois, cette période commençant à l'issue de la période au titre de laquelle la redevance audiovisuelle était due en 2004. Par exemple, lorsque la redevance audiovisuelle a été acquittée en novembre 2004 pour la période du 1er novembre 2004 au 31 octobre 2005, la redevance audiovisuelle qui est acquittée en novembre (ou décembre) 2005 couvre la période du 1er novembre 2005 au 31 octobre 2006. Il n'y a donc pas de double imposition pour la période du 1er janvier 2005 au 31 octobre 2005. Au surplus, aucun avis de redevance audiovisuelle n'ayant été envoyé après le 30 novembre 2004, les redevables devaient, en principe, pour 2004, acquitter la redevance audiovisuelle avant le 1er janvier 2005. Il résulte de ces modalités que les redevables ont effectué un paiement en 2004 et un paiement en 2005 pour des périodes d'imposition différentes. Enfin, il est rappelé que pour les contribuables nouvellement imposés à la redevance audiovisuelle à compter du 1er janvier 2005, la redevance audiovisuelle est due en novembre (ou décembre) de l'année N au titre de l'année civile N. Ainsi, un contribuable qui détient pour la première fois un téléviseur au 1er janvier de l'année 2005, acquitte la redevance audiovisuelle pour la première fois en novembre (ou décembre) 2005 pour la période du 1er janvier 2005 au 31 décembre 2005. Ces précisions répondent aux préoccupations exprimées.
