@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051221094
+
+- Question : [SEQ051221094](seq051221094.md) — Compétence du préfet en matière d'interdiction des sonneries nocturnes
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 543*
+
+L'article L. 2212-1 du code général des collectivités territoriales dispose que « le maire est chargé, sous le contrôle administratif du représentant de l'Etat dans le département, de la police municipale, de la police rurale et de la publication des actes de l'Etat qui y sont relatifs ». L'article L. 2212-2-2° dudit code prévoit que la police municipale comprend « le soin de réprimer les atteintes à la tranquillité publique (...) telles que les bruits, y compris les bruits de voisinage... » Il appartient donc au maire de prendre, en vertu de son pouvoir de police municipale, les mesures nécessaires destinées à assurer, à la demande d'un requérant, le repos et la tranquillité de la nuit (CE - 3 avril 1968 - Jardin). Toutefois, de telles mesures ne peuvent être prises, d'une façon générale et absolue, sur le territoire de la commune (CE - 5 février 1960 - commune de Mougins). Le représentant de l'Etat dans le département peut prendre pour toutes les communes du département ou plusieurs d'entre elles, et dans tous les cas où il n'y a pas été pourvu par les autorités municipales, toutes mesures relatives au maintien de la salubrité, de la sûreté et de la tranquillité publiques. Ce droit ne peut être exercé par le préfet à l'égard d'une seule commune qu'après une mise en demeure au maire restée sans résultat (art. L. 2215-1 du code général des collectivités territoriales). Toutefois, ce pouvoir de substitution ne peut s'exercer, sur tout le territoire du département, si l'atteinte à la tranquillité publique n'est pas démontrée pour l'ensemble des communes (CE - janvier 1987 - Auclair).
