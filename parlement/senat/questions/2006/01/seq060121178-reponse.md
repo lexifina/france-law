@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121178
+
+- Question : [SEQ060121178](seq060121178.md) — Attribution du titre de reconnaissance de la Nation aux militaires ayant fait partie des troupes d'occupation en Allemagne et en Autriche
+
+## Réponse
+
+*Anciens combattants, JO du 2006-02-23, page 490*
+
+Le ministre délégué aux anciens combattants rappelle à l'honorable parlementaire que le titre de reconnaissance de la nation (TRN), créé initialement par l'article 77 de la loin° 67-1114 du 21 décembre 1967, pour les militaires de tous grades et de toutes armes ayant pris part aux opérations d'Afrique du Nord, à une époque où ces opérations n'ouvraient pas droit à la carte du combattant, a été ultérieurement étendu par la loi n° 93-7 du 4 janvier 1993 aux militaires des forces armées françaises et aux personnes civiles de nationalité française, tels que définis à l'article L. 253 bis du code des pensions militaires d'invalidité et des victimes de la guerre, permettant ainsi de distinguer ceux des militaires et des personnels civils ayant servi pendant quatre-vingt-dix jours au moins au cours de conflits, opérations ou missions ouvrant droit à la carte du combattant. Pour autant, la loi du 4 janvier 1993 précitée n'a pas modifié la nature du titre en question qui marque la participation à un conflit armé comportant donc un risque d'ordre militaire. Or, la situation des troupes d'occupation qui ont servi en Allemagne et en Autriche après la Seconde Guerre mondiale ne correspond pas, quel qu'ait été leur mérite, aux conditions rappelées ci-dessus, puisqu'elles n'ont pas servi en période de conflit. En effet, la période retenue pour la délivrance du TRN au titre de cette période et pour les opérations qui se sont déroulées sur le territoire européen débute le 2 septembre 1939 et se termine le 8 mai 1945. Le ministre précise qu'il n'est pas envisageable de modifier ces dispositions.
