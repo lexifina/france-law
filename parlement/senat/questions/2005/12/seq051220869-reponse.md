@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220869
+
+- Question : [SEQ051220869](seq051220869.md) — Participation d'une commune à un fonds de concours
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 542*
+
+Par dérogation aux principes de spécialité et d'exclusivité qui caractérisent les établissements publics de coopération intercommunale, l'article 186 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales a assoupli les conditions de versement de fonds de concours entre les communes et les EPCI à fiscalité propre dont elles sont membres. Cet assouplissement a pour objectif de permettre de mieux prendre en compte les besoins de cofinancement de certaines opérations entre les EPCI à fiscalité propre et leurs communes membres, notamment en milieu rural. Cependant, cet article n'autorise les communes à verser des fonds de concours à l'EPCI auquel elles appartiennent que si trois conditions sont remplies. Tout d'abord, le versement de fonds de concours doit donner lieu à des délibérations concordantes, adoptées à la majorité simple, du conseil communautaire et du ou des conseils municipaux concernés. Ensuite, le fonds de concours doit contribuer à financer un équipement, qu'il s'agisse de dépenses d'investissement ou de fonctionnement afférentes à cet équipement. Enfin, le bénéficiaire du fonds de concours, en l'espèce la communauté de communes, doit assurer une part du financement au moins égale au montant des fonds de concours alloués par ses communes membres. Par conséquent, une commune qui refuse de participer à un fonds de concours n'adoptera pas de délibération concordante, première condition à la création du fonds de concours. Dans la mesure où chaque collectivité se prononce, aucune d'entre elles ne peut se retrouver contrainte de verser un fonds de concours contre son gré.
