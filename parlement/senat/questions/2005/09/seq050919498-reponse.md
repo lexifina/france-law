@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919498
+
+- Question : [SEQ050919498](seq050919498.md) — Schéma de cohérence territoriale (SCOT)
+
+## Réponse
+
+*Transports et équipement, JO du 2006-02-23, page 549*
+
+La loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) a créé les schémas de cohérence territoriale (SCOT) mais a maintenu en vigueur les schémas directeurs qui avaient été approuvés avant la date de parution de ladite loi. Les schémas directeurs, bien que soumis aux mêmes règles juridiques, ne sont pas pour autant devenus des schémas de cohérence territoriale. Des dispositions transitoires codifiées à l'article L. 122-18 du code de l'urbanisme prévoient que leur révision doit être approuvée au plus tard dans un délai de dix ans sous peine de caducité. Ainsi, à la date du 14 décembre 2010, si la révision de ces schémas n'a pas été décidée et approuvée, ceux-ci seront caducs. Il n'a pas été envisagé à ce jour d'introduire de nouvelles dispositions législatives afin de reporter la date butoir du 13 décembre 2010, bien que, comme le souligne l'honorable parlementaire, un certain délai soit nécessaire pour réviser les SCOT. Néanmoins, les schémas directeurs ont déjà un établissement public compétent car si ce n'était pas le cas à la date de parution de la loi SRU, un établissement public compétent devait être mis en place avant le 1er janvier 2002 sous peine de caducité. De plus, la plupart de ces schémas sont actuellement en cours de révision, ce qui diminue la durée nécessaire à celle-ci et les délais nécessaires sont moins importants que pour l'élaboration d'un nouveau SCOT. Si l'établissement public n'a pas encore lancé sa procédure de révision, il peut le faire en ce début d'année 2006, ce qui lui donne le temps de réaliser les études, d'établir les choix et d'approuver le SCOT avant l'année 2010.
