@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019726
+
+- Question : [SEQ051019726](seq051019726.md) — Décisions des SAFER
+
+## Réponse
+
+*Agriculture, JO du 2006-02-23, page 484*
+
+Avant de décider si elles vont ou non exercer leur droit de préemption, les SAFER se doivent de mettre en parallèle les situations respectives, en termes de superficie et de potentiel économique, de l'acquéreur amiable et des exploitants qui pourraient être éventuellement candidats à l'attribution dans le cadre des publicités réglementaires. Le droit de préemption des SAFER doit, en effet, être mis en oeuvre par référence à des objectifs prévus à l'article L. 143-2 du code rural et non pas en faveur d'une personne identifiée et prédéterminée. Cette évaluation des situations en présence avait, en son temps, été estimée nécessaire par la Cour des comptes. Dans le cas de caractéristiques identiques des exploitations, et a fortiori si l'acquéreur amiable dispose de moins de superficie, pour s'installer ou avant agrandissement, que les agriculteurs environnants, il paraît évident que la notion même de structures agricoles entrera davantage en ligne de compte qu'une éventuelle contiguïté. Cette notion de contiguïté ne peut être, en tant que telle, un critère majeur d'intervention comme de rétrocession. Les exploitants disposant déjà de superficies très importantes ont des probabilités supérieures d'être plus ou moins contigus à d'autres parcelles venant à se libérer. En regard, c'est la viabilité du projet de l'acquéreur que les comités techniques départementaux doivent normalement être attachés à apprécier. Ceci n'interdit évidemment pas que les SAFER puissent mener par ailleurs des opérations pour améliorer le parcellaire, par des échanges multilatéraux notamment, aboutissant à des réductions du nombre des îlots d'exploitation.
