@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618189
+
+- Question : [SEQ050618189](seq050618189.md) — Droit d'accès à sa propriété du riverain d'un parking municipal
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 503*
+
+Les riverains des voies publiques, classées comme telles et affectées à la circulation générale, jouissent d'un droit appelé droit d'accès. Le riverain dispose sur ces voies d'une servitude de passage qui lui permet d'accéder en véhicule à sa propriété. Ce droit n'est inscrit dans aucun texte mais est consacré par une jurisprudence du Conseil d'Etat (CE 16 juillet 1937, sieur Trivier : Lebon, p. 703 - TA Rennes 6 décembre 1989, Foulon). Ces droits ne sont cependant conférés que pour les voies publiques et leurs dépendances. Ainsi, si l'emplacement considéré fait partie du domaine public de la commune mais n'a pas le caractère de voie publique, le riverain n'a aucun droit à l'utiliser pour accéder à sa propriété en véhicule (CE Mme Pinaud, 7 nov. 1979). Dans le cas de l'aménagement d'un parking par une commune, il convient de considérer que le changement d'affectation d'un terrain nu à usage agricole en parc de stationnement public a pour effet d'intégrer ce terrain au domaine public routier. En effet, la jurisprudence constante considère que les parcs ou places de stationnement sont intimement liés à l'affectation de la voie publique et doivent donc être considérés comme une dépendance de la route (CE, 24 janvier 1973, Spiteri et Krehl - CE, 18 octobre 1995, commune de Brive-la-Gaillarde - CAA Douai, 29 janvier 2004, commune d'Haubourdin). Il en résulte que les riverains d'un parking public doivent pouvoir jouir du droit d'accès à leur propriété et des dispositions doivent être prévues pour assurer la desserte des immeubles bordant un parc de stationnement nouvellement créé.
