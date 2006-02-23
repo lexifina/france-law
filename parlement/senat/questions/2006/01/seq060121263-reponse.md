@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121263
+
+- Question : [SEQ060121263](seq060121263.md) — Maintien de la perception de Vigy
+
+## Réponse
+
+*Budget, JO du 2006-02-23, page 492*
+
+Les agents affectés en Moselle bénéficient des mêmes règles de mutation et de promotion que les autres agents du Trésor public, mais le département de la Moselle connaît un taux de rotation de ses effectifs supérieur au reste du territoire. Aussi, la succession de trois comptables à la tête de la trésorerie de Vigy en 2005 découle non d'une politique programmée de dévitalisation, ou d'une restructuration inavouée de la trésorerie, mais d'un concours de circonstances auquel la Trésorerie générale a eu à coeur d'apporter les meilleures solutions possible. Ainsi, au 1er novembre 2005, le comptable assurant jusqu'alors l'intérim de la trésorerie de Vigy ayant obtenu une mutation, le trésorier-payeur général a décidé de confier l'intérim de ce poste à l'adjointe de la trésorerie voisine de Maizières-lès-Metz. Ce fonctionnaire de catégorie A consacre désormais près des trois quarts de son temps de travail aux activités de la trésorerie de Vigy, soit davantage que son prédécesseur. Cette démarche témoigne de l'absence de volonté de la direction locale de démanteler la trésorerie en dehors de toute concertation avec les partenaires du Trésor public. Bien entendu, le Trésor public, à l'image de l'ensemble des administrations françaises, participe à l'effort' d'accroissement de la productivité et de réduction des effectifs exigé par la représentation nationale. En conséquence, la réflexion sur les modalités d'amélioration de la qualité du service rendu dans ce contexte contraint devra être poursuivie, en temps utile, dans le strict respect des conclusions de la conférence nationale sur les services publics en milieu rural et en étroite concertation avec les élus concernés.
