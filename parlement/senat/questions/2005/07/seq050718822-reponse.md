@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718822
+
+- Question : [SEQ050718822](seq050718822.md) — Difficultés rencontrées par les communautés de communes souhaitant mener des projets communs
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 504*
+
+Les communautés de communes désirant mener conjointement des projets à l'échelle de leur territoire peuvent mettre en place des formes d'organisation différentes selon le niveau d'intégration souhaité. Les communautés de communes peuvent choisir en cas de collaboration pérenne sur un projet de constituer un syndicat mixte dit « fermé » régi par les articles L. 5711-1 et suivants du code général des collectivités territoriales (CGCT). Les communautés de communes transfèrent à ce nouvel établissement public les compétences qu'elles souhaitent mutualiser. C'est alors le syndicat mixte qui mettra en oeuvre le projet commun. Toutefois si cette collaboration devait toucher plusieurs compétences la question de la fusion des communautés de communes, suivant la procédure de l'article L. 5211-41-3 du CGCT, serait à examiner. Par ailleurs, l'article 192-1 de la loi du 13 août 2004 relative aux libertés et responsabilités locales, codifié aux articles L. 5221-1 et L. 5221-2 du CGCT a étendu aux EPCI et aux syndicats mixtes la possibilité de participer aux instances de concertation que sont les ententes intercommunales. Il s'agit d'une forme de coopération souple non institutionnelle permettant d'organiser les modalités de création ou gestion en commun d'équipements ou de services. Il est enfin possible à une communauté de communes d'effectuer un certain nombre de prestations pour le compte d'une autre communauté de communes dans le cadre de conventions conclues à titre onéreux et respectant les prescriptions du code des marchés publics. Cette forme particulière d'intervention doit être prévue dans les statuts des communautés de communes concernées.
