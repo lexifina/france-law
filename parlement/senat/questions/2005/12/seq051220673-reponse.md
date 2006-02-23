@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220673
+
+- Question : [SEQ051220673](seq051220673.md) — Rationalisation du périmètre des intercommunalités
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 510*
+
+Le développement de l'intercommunalité a conduit à une profonde restructuration de l'organisation administrative locale, faisant des EPCI des acteurs locaux de premier plan. Ce développement n'est cependant pas exempt de critiques formulées notamment par la Cour des comptes, tant sur la complexité de la carte intercommunale et sur les coûts qu'elle génère que sur l'insuffisance des compétences exercées pour porter de véritables projets intercommunaux de développement et d'aménagement local. Face à ce constat, il est de la responsabilité de l'Etat et des élus d'engager une réflexion globale sur la cohérence de la carte intercommunale dans chacun des départements pour tendre à plus d'efficacité dans l'action publique. Les préfets ont reçu des instructions à cette fin. Il leur a été récemment demandé d'élaborer, en étroite concertation avec les élus, un schéma prospectif du développement de l'intercommunalité recensant et programmant les évolutions souhaitables avec le souci de renforcer la cohérence des périmètres des établissements publics de coopération intercommunale à fiscalité propre et de rationaliser les transferts de compétences. Ce schéma n'a cependant pas vocation à entériner la disparition des communautés de communes de moins de 5 000 habitants. Sa mise en oeuvre repose sur des critères objectifs s'articulant pour l'essentiel autour de la notion de bassin de vie. Ce dernier peut être défini comme un territoire présentant une cohérence géographique, sociale, culturelle et économique, et exprimant des besoins homogènes en matière d'activités et de services. La conjonction de ces éléments peut justifier localement que soient érigées des communautés de communes dont les seuils de population sont sans incidence sur la pertinence de leurs périmètres.
