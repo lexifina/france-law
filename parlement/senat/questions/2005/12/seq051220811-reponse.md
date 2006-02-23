@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220811
+
+- Question : [SEQ051220811](seq051220811.md) — Réglementation relative à l'entretien disciplinaire d'un employé de la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 512*
+
+Les règles applicables dans le cas où une sanction disciplinaire est envisagée à l'encontre d'un fonctionnaire territorial sont fixées par les articles 4 et 5 du décret n° 89-677 du 18 septembre 1989 relatif à la procédure disciplinaire applicable aux fonctionnaires territoriaux. Aux termes de l'article 4, l'autorité investie du pouvoir disciplinaire informe par écrit l'intéressé de la procédure disciplinaire engagée contre lui, lui précise les faits qui lui sont reprochés et lui indique qu'il a le droit d'obtenir la communication intégrale de son dossier individuel au siège de l'autorité territoriale et la possibilité de se faire assister par un ou plusieurs conseils de son choix. L'intéressé doit disposer d'un délai suffisant pour prendre connaissance de ce dossier et organiser sa défense. Les pièces du dossier et les documents annexés doivent être numérotés. L'article 5 prévoit que, lorsqu'il y a lieu de saisir le conseil de discipline, le fonctionnaire poursuivi est invité à prendre connaissance, dans les mêmes conditions, du rapport de saisine ainsi que des pièces annexées à ce rapport. Les dispositions de l'article 4 imposent donc à l'autorité territoriale d'informer l'intéressé par écrit de l'intention de lui infliger une sanction disciplinaire. Cette lettre doit mentionner les précisions requises par cet article (griefs retenus contre l'agent, droit d'obtenir communication intégrale de son dossier, droit de se faire assister par un ou plusieurs défenseurs de son choix). A cette fin, il appartient à l'autorité territoriale d'adresser une lettre recommandée avec avis de réception pour justifier que cette formalité a été respectée.
