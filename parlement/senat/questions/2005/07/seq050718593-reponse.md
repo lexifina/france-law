@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718593
+
+- Question : [SEQ050718593](seq050718593.md) — Responsabilité du maire et délégation de signature
+
+## Réponse
+
+*Intérieur, JO du 2006-02-23, page 504*
+
+Aux termes de l'article L. 2122-18 du code général des collectivités territoriales, le maire peut, sous sa surveillance et sa responsabilité, déléguer par arrêté une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints, ou dès lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal. Ni simple délégation de signature, ni délégation de pouvoir, la délégation de fonctions est une forme intermédiaire de délégation. La délégation de signature permet à l'autorité administrative de se décharger de formalités purement matérielles en autorisant un ou plusieurs collaborateurs qui lui sont subordonnés à signer certains documents en ses nom, lieu et place, sous son contrôle et sa responsabilité. L'autorité délégante conserve pleinement sa compétence dans les matières qui font l'objet de la délégation de signature. Celle-ci se distingue de la délégation de pouvoir qui consiste, pour l'autorité délégante, à se dessaisir en partie des pouvoirs qui lui ont été conférés, au profit d'une autorité subordonnée, en modifiant ainsi la répartition des compétences. Or, il convient de noter que la délégation de fonctions qui permet au maire de confier à un adjoint l'exercice d'une de ses compétences, n'a pas pour effet de le priver de ses pouvoirs en la matière. Le maire demeure libre d'exercer les attributions qu'il a déléguées et doit contrôler et surveiller la façon dont les adjoints ou conseillers remplissent les fonctions qui leur sont déléguées (cf. CE 18 mars 1955, de Peretti). Le maire ne peut donc être exonéré de la responsabilité qu'il tient de sa qualité de chef de l'administration communale.
