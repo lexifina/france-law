@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051221024
+
+- Question : [SEQ051221024](seq051221024.md) — Problème fiscal rencontré par les commerçants et artisans victimes de vandalisme
+
+## Réponse
+
+*Budget, JO du 2006-02-23, page 491*
+
+Les redevables de la taxe sur la valeur ajoutée (TVA) qui relèvent du régime simplifié d'imposition doivent déposer une déclaration annuelle et verser quatre acomptes trimestriels. Ils peuvent demander un remboursement trimestriel du crédit de TVA constitué par la taxe déductible ayant grevé les acquisitions de biens constituant des immobilisations lorsque ce crédit est au moins égal à 760 euros. Néanmoins, lorsque l'entreprise est amenée à supporter d'importantes dépenses grevées de TVA qui ne constituent pas des immobilisations, elle peut acquitter le montant de la TVA réellement due à raison des opérations réalisées au titre du trimestre écoulé, après imputation de la TVA déductible sur immobilisation, lorsque la taxe réellement due est inférieure d'au moins 10 % au montant de l'acompte trimestriel exigible. Elle peut également suspendre le paiement des acomptes dès lors que le montant des acomptes déjà versés au titre de l'année ou de l'exercice est égal ou supérieur au montant de la taxe qui sera finalement due au titre de cette période. Par ailleurs, les entreprises placées sous le régime simplifié d'imposition ont également la faculté de se placer sous le régime dit « du mini-réel », ce qui leur permet de rester sous le régime simplifié pour l'imposition de leurs bénéfices tout en relevant du régime réel normal pour la TVA. Elles peuvent alors déposer des demandes de remboursement de crédits de TVA dans les conditions de droit commun, c'est-à-dire à l'issue de chaque trimestre civil, à condition que chacune des déclarations présente un solde créditeur et que le montant à rembourser soit au moins égal à 760 euros. Cette procédure appelle donc une réponse positive aux préoccupations exprimées par l'auteur de la question.
