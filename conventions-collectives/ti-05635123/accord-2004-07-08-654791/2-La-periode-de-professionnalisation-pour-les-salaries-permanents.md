@@ -1,4 +1,4 @@
-# Article 2 : La période de professionnalisation pour les salariés permanents
+# Article 2
 
 Les périodes de professionnalisation ont pour objet de favoriser par des actions de formation le maintien dans l'emploi de salariés permanents titulaires d'un contrat à durée indéterminée.
 
@@ -20,25 +20,27 @@ Les périodes de professionnalisation ont pour objet :
 
 2. Soit de permettre à un salarié permanent de participer à une action de formation dont l'objectif de qualification est défini par la CPNE de la branche. La CPNE examine annuellement les actions concernées et les modalités de mise en place au bénéfice des salariés permanents de la branche.
 
+Sont accessibles prioritairement au titre des périodes de professionnalisation les actions menant aux qualifications de niveaux II à V figurant à l'annexe I de l'accord du 23 janvier 1986 relatif à la classification des personnels permanents des entreprises de travail temporaire.
+
 Article 2.2
 
 Les salariés permanents concernés
 
-Les périodes de professionnalisation sont ouvertes :
+Les périodes de professionnalisation sont ouvertes aux salariés ayant au moins un an d'ancienneté dans l'entreprise de travail temporaire :
 
-- aux salariés dont la qualification est insuffisante au regard de l'évolution des technologies et de l'organisation du travail ;
+- dont la qualification est insuffisante au regard de l'évolution des technologies et des métiers ainsi que de l'organisation du travail ;
 
-- aux salariés qui comptent 20 ans d'activité professionnelle, ou âgés d'au moins 45 ans et disposant d'une ancienneté minimale de 1 an de présence dans l'entreprise qui les emploie souhaitant consolider la seconde partie de leur carrière professionnelle ;
+- qui comptent 20 ans d'activité professionnelle, ou âgés d'au moins quarante ans et qui souhaitent consolider la seconde partie de leur carrière professionnelle ;
 
-- aux salariés qui envisagent la création ou la reprise d'une entreprise ;
+- qui envisagent la création ou la reprise d'une entreprise ;
 
-- aux personnes ayant interrompu leur activité professionnelle pour s'occuper de leurs enfants ou de leur conjoint ou ascendants en situation de dépendance ;
+- ayant interrompu leur activité professionnelle pour s'occuper de leurs enfants ou de leur conjoint ou ascendants en situation de dépendance ;
 
 - aux bénéficiaires de l'obligation d'emploi tels que prévus à l'article L. 323-3 du code du travail dont les travailleurs handicapés ;
 
-- aux salariés permanents qui sont reconnus définitivement inaptes par le médecin du travail à occuper un emploi correspondant à leur qualification antérieure.
+- aux salariés permanents qui sont reconnus définitivement inaptes par le médecin du travail à occuper un emploi correspondant à leur qualification antérieure ;
 
-Sont accessibles prioritairement au titre des périodes de professionnalisation les actions menant aux qualifications de niveaux II à V figurant à l'annexe I de l'accord du 23 janvier 1986 relatif à la classification des personnels permanents des entreprises de travail temporaire.
+- accédant à une qualification différente ou supérieure.
 
 Article 2.3
 
@@ -46,13 +48,13 @@ La durée et le contenu de la période de professionnalisation
 
 La durée de la période de professionnalisation est définie d'un commun accord entre l'employeur et le salarié permanent, elle doit être cohérente avec l'objectif de professionnalisation défini.
 
-La période de professionnalisation doit comporter au minimum 105 heures de formation.
+La période de professionnalisation doit comporter au minimum 70 heures de formation.
 
-Le salarié permanent peut bénéficier, en plus d'une action de formation, d'actions d'évaluation, de bilan de compétences, de validation des acquis de l'expérience professionnelle ou d'un accompagnement externe réalisés par un organisme de formation externe ou par l'entreprise lorsqu'elle dispose d'un service de formation.
+Le salarié permanent peut bénéficier, en plus d'une action de formation, d'actions d'évaluation, de bilan de compétences, de validation des acquis de l'expérience professionnelle ou d'un accompagnement externe, réalisées par un organisme de formation externe ou par l'entreprise lorsqu'elle dispose d'un service de formation interne répondant aux critères fixés par l'OPCA de branche.
 
 L'action de formation est prise en charge financièrement par l'OPCA de branche sur la base d'un forfait horaire et dans les limites définies par accord de branche.
 
-Lorsque les travaux de l'observatoire prospectif des métiers et des qualifications de la branche seront disponibles, les catégories de salariés, pour lesquels les actions d'accompagnement et de formation liées à une période de professionnalisation donnent lieu en priorité à une participation financière de l'OPCA de branche, seront définies.
+Lorsque les travaux de l'observatoire prospectif des métiers et des qualifications de la branche seront disponibles, les catégories de salariés pour lesquels les actions d'accompagnement et de formation liées à une période de professionnalisation donnent lieu en priorité à une participation financière de l'OPCA de branche seront définies.
 
 Article 2.4
 
