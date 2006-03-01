@@ -256,11 +256,7 @@ Etablissements avec locaux réservés au sommeil
 
 |
 
--
-
 |
-
--
 
 |
 
@@ -496,7 +492,7 @@ Plein air (établissements de)
 
 (*) Ces activités sont interdites en sous-sol.
 
-(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 2
+(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 20
 
 |
 
