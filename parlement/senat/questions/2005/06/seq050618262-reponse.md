@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618262
+
+- Question : [SEQ050618262](seq050618262.md) — Modification de la réglementation sur les refuges de montagne
+
+## Réponse
+
+*Aménagement du territoire, JO du 2006-03-02, page 608*
+
+La définition législative des refuges de montagne intervenue dans le cadre de la loi sur le développement des territoires ruraux du 23 février 2005 précise que leurs caractéristiques feront l'objet d'un décret. Il convient de rappeler que les refuges ont déjà fait l'objet de travaux interministériels menés par le ministère chargé du tourisme, qui ont donné lieu à un rapport d'inspection générale en 2000. Aucune suite n'ayant été donnée aux préconisations de ce rapport, la mesure législative rend toute son actualité à ce sujet. Et ce sont dix départements ministériels qui sont partie prenante dans l'élaboration du décret. Il s'agit d'appréhender, tout à la fois, la situation des biens, des personnes et des espaces. Le pilotage de la réflexion interministérielle en cours a été confié à la DATAR. Les particularités du refuge, bâtiment isolé mais ouvert au public, établissement assurant à la fois une mission d'intérêt général et un service commercial, rendent complexe la démarche devant aboutir à un texte réglementaire qui doit rester simple et clair. Quant à la question de l'accès des enfants mineurs aux refuges dans le cadre des voyages scolaires, elle fait également partie des sujets importants traités dans le cadre des travaux interministériels d'élaboration du décret. Les différents partenaires, dont le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, entendent bien prendre en compte à la fois l'intérêt des enfants mineurs et celui des propriétaires et gardiens de refuges, notamment dans le cas de séjours incluant une ou plusieurs nuitées. Il est en effet important que les atouts de la montagne soient mis en valeur tant sur le plan culturel et pédagogique que dans le domaine des loisirs.
