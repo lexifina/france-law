@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919540
+
+- Question : [SEQ050919540](seq050919540.md) — Indication du montant prévisionnel du marché figurant à l'article 1er de l'ordonnance n° 2005-645 et concurrence
+
+## Réponse
+
+*Intérieur, JO du 2006-03-02, page 629*
+
+L'article L. 2122-21-1 introduit dans le code général des collectivités territoriales par l'ordonnance n° 2005-645 du 6 juin 2005 dispose que la délibération chargeant le maire de souscrire un marché déterminé prise avant l'engagement de la procédure de passation du marché doit comporter la définition de l'étendue du besoin à satisfaire et le montant prévisionnel du marché. Il ressort de la jurisprudence « commune de Montélimar », qui est à l'origine des nouvelles dispositions, que l'assemblée délibérante ne saurait se prononcer sans disposer des éléments essentiels permettant d'éclairer sa décision. Lorsque la délibération intervient à l'issue d'une procédure de passation de marché public, les éléments essentiels sont le nom du titulaire et le montant exact du marché. Lorsqu'elle est prise avant l'engagement de la procédure, les principaux éléments disponibles sont le besoin à satisfaire et l'estimation du montant du marché. La publication de ce dernier élément donne effectivement une indication sur les sommes provisionnées par la collectivité pour satisfaire le besoin qu'elle a identifié. Toutefois, dans la mesure où l'évaluation du montant prévisionnel se fait avec la plus grande sincérité et d'une manière réaliste, prenant objectivement en compte des prix pratiqués dans le secteur concerné, l'effet induit tant à la hausse qu'à la baisse sur les propositions présentées ne peut qu'être marginal. Par ailleurs, il convient d'observer qu'il est toujours possible de ne faire délibérer l'assemblée qu'à l'issue de la procédure. Dans ce cadre, la stricte confidentialité du montant estimé par la collectivité peut être pleinement assurée.
