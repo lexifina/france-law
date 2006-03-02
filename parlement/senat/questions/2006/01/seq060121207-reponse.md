@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121207
+
+- Question : [SEQ060121207](seq060121207.md) — Certificats médicaux de contre-indication à une vaccination
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-03-02, page 640*
+
+Les vaccinations obligatoires sont prescrites par les articles L. 3111-2 (diphtérie et tétanos), L. 3111-3 (poliomyélite), L. 3111-4 (diphtérie, tétanos, poliomyélite, hépatite B et typhoïde pour les professionnels) et L. 3112-1 (tuberculose) du code de la santé publique. Certaines de ces vaccinations peuvent faire l'objet de contre-indications. Toutefois, en la matière, les textes d'autorisation de mise sur le marché constituent la seule référence opposable, ainsi que l'indique la circulaire DGS n° 97-267 du 8 avril 1997. Les certificats médicaux de contre-indication ne sauraient être généraux et absolus, car il n'existe pas de contre-indications médicales reconnues à toutes les vaccinations. Un certificat établi en ce sens est donc contraire à la législation. Le médecin délivrant un certificat dit « de complaisance » s'expose aux sanctions pénales de l'article 441-8 du code pénal en vertu duquel « le faux et l'usage de faux sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende ». Par ailleurs, le Conseil national de l'ordre des médecins a pour mission, en vertu de l'article L. 4122-1 du code de la santé publique, de « veiller notamment à l'observation, par tous les membres de l'ordre, des devoirs professionnels et des règles édictées par le code de déontologie ». Les conseils régionaux exercent les attributions générales de l'ordre sous le contrôle du Conseil national. Ils sont chargés de la juridiction disciplinaire, et les décisions sont susceptibles d'appel devant le Conseil national et de recours devant le Conseil d'Etat. Les médecins mis en cause ont donc tous les moyens de défense et d'appel.
