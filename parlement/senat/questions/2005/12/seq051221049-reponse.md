@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051221049
+
+- Question : [SEQ051221049](seq051221049.md) — Financement des associations habilitées justice
+
+## Réponse
+
+*Justice, JO du 2006-03-02, page 635*
+
+M. le ministre de la justice a l'honneur de faire connaître à l'honorable parlementaire que le projet de loi de finances concernant les crédits de la protection judiciaire de la jeunesse pose des hypothèses volontaristes en matière de maîtrise des dépenses. Ce volontarisme est imposé par une croissance des dépenses du secteur associatif résultant des mesures confiées par l'autorité judiciaire, plus rapide que l'évolution des dépenses de l'Etat. Malgré les contraintes budgétaires, les crédits consacrés à ce secteur augmentent régulièrement, passant de 246 millions d'euros en 2004 à 270 millions d'euros en 2006. Ils ont en outre été abondés en cours d'année, en fonction de l'augmentation des prescriptions des magistrats, de 21 millions en 2004 et l'ont été à nouveau en 2005 d'un montant de 25 millions d'euros. Dans ce cadre budgétaire contraint, la protection judiciaire de la jeunesse s'efforcera prioritairement de recentrer l'hébergement des jeunes majeurs, qui représente 40 % du budget consacré aux associations avec des prix de journée unitaires élevés, sur la prise en charge des jeunes majeurs les plus en difficulté. Il apparaît possible dans certains cas, que des dispositifs de droit commun se substituent à une protection judiciaire. Les lignes budgétaires consacrées à la prise en charge des mineurs délinquants sont toutes en augmentation par rapport à 2004 et 2005. Pour l'exercice 2006, une concertation étroite sera organisée entre les services déconcentrés de la protection judiciaire de la jeunesse et le secteur associatif sur l'évolution des besoins. En effet, les mesures prises en charge par le secteur associatif étant prescrites par l'autorité judiciaire, l'évolution de l'activité reste soumise à aléas.
