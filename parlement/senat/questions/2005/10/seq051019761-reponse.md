@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019761
+
+- Question : [SEQ051019761](seq051019761.md) — Schéma de cohérence territoriale (SCOT)
+
+## Réponse
+
+*Transports et équipement, JO du 2006-03-02, page 643*
+
+La loi solidarité et renouvellement urbains (SRU) du 13 décembre 2000 a prévu des dispositions transitoires codifiées à l'article L. 122-18 du code de l'urbanisme qui rendent obligatoire la révision des schémas directeurs au plus tard dix ans après la publication de la loi précitée, soit à la date du 14 décembre 2010. Si la révision de ces schémas n'a pas été approuvée à cette date, ceux-ci seront caducs. Les établissements publics de schémas directeurs doivent donc délibérer à ce sujet et entreprendre les études nécessaires le plus rapidement possible. Le législateur a jugé qu'un délai de dix ans était suffisant. Au 1er janvier 2005, on dénombrait 125 schémas de cohérence territoriale (SCOT) en cours d'élaboration, dont quarante-trois révisions de schémas directeurs. La durée de quatre ans pour l'élaboration d'un SCOT paraît un maximum, et il semble possible, sur la base des acquis issus d'un précédent schéma directeur, d'élaborer une révision sous forme de SCOT d'ici à la mi-2008, si cette révision est engagée sans délai. Pour faciliter le financement de ces études, le Gouvernement a mis en place une mesure d'impulsion dite subvention de « 1 euro par habitant », créée le 1er janvier 2004 et pour une durée de quatre ans, soit jusqu'en décembre 2007. La dotation générale de décentralisation (DGD) relative aux documents d'urbanisme permet également de contribuer au financement des démarches d'élaboration de SCOT. Le ministère continuera à accompagner ces démarches en 2006 et 2007. La DGD et le dispositif « 1 euro par habitant » ont permis de cofinancer quatre-vint-cinq SCOT en 2005.
