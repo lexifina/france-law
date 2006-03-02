@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121129
+
+- Question : [SEQ060121129](seq060121129.md) — Statut juridique des campings municipaux
+
+## Réponse
+
+*Transports et équipement, JO du 2006-03-02, page 645*
+
+L'organisation et le fonctionnement des terrains de camping municipaux sont semblables à ceux pratiqués dans le privé puisque « l'exploitation d'un terrain de camping constitue une activité de même nature que celles auxquelles peut se livrer un particulier ou une entreprise privée » (CAA Nancy, 20 mars 2003, Mme Marie-Thèrese M.). Le camping municipal exploité dans les conditions de la concurrence est un service public industriel et commercial, les ressources de cette activité provenant principalement des droits de place, c'est-à-dire de redevances payées par l'usager. Les conflits concernant les agents de ce service public relèvent de la juridiction judiciaire (TC, 18 avril 2005, commune de Barr). Pour permettre l'encaissement des droits de place sans passer par un comptable public, il peut être instauré une régie de recettes ; cette création comme le nom du régisseur doivent être approuvés par le comptable public. Le régisseur, agissant sous le contrôle et la responsabilité du comptable public, doit être considéré comme subordonné à ce dernier, sans pour autant qu'il puisse bénéficier de cette qualité. Quel que soit le mode de gestion utilisée, les terrains de camping sont obligatoirement classés, conformément à l'arrêté du 11 janvier 1993 relatif au classement des terrains aménagés pour l'accueil des campeurs et des caravanes. Leur exploitation est soumise à une double autorisation administrative, l'autorisation d'aménager délivrée par le maire lorsque la commune s'est doté d'un plan local d'urbanisme au titre du code de l'urbanisme et le classement délivré par le préfet au titre de la réglementation du tourisme.
