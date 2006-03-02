@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121181
+
+- Question : [SEQ060121181](seq060121181.md) — Distorsions de population entre les circonscriptions législatives
+
+## Réponse
+
+*Intérieur, JO du 2006-03-02, page 623*
+
+Pour réduire les disparités les plus manifestes entre les cinq circonscriptions législatives les plus peuplées et les cinq circonscriptions législatives les moins peuplées, l'honorable parlementaire propose de regrouper les deux circonscriptions législatives de la Lozère et de partager les trois autres circonscriptions les moins peuplées (Hautes-Alpes 2e, Guyane lre, Corse-du-Sud 1re) entre les circonscriptions voisines. De fait, la solution proposée réduirait à un siège de député la représentation des départements indiqués, alors que la pratique républicaine, depuis 1914, assure au moins deux sièges de députés par département. Par ailleurs, un remodelage des circonscriptions législatives doit être fondé sur des critères démographiques conformément au principe constitutionnel de l'égalité des citoyens devant le suffrage. Un groupe de travail présidé par un conseiller d'Etat a été constitué afin de préciser la portée de l'obligation de remodelage au regard de ce principe, et d'en proposer une méthode de mise en oeuvre. Il vient de rendre ses conclusions. Il a toutefois été décidé de ne pas engager de remodelage avant l'échéance de la présente législature. Une telle initiative, en intervenant à moins de deux ans de l'expiration des pouvoirs de l'Assemblée nationale, aurait en effet été contraire à l'usage républicain. La préparation des prochaines élections législatives se déroulera donc dans le cadre des circonscriptions actuelles. Il a toutefois été pris bonne note des observations du conseil constitutionnel, publiées le 8 juillet dernier, aux termes desquelles le remodelage devra être entrepris au lendemain des prochaines élections législatives.
