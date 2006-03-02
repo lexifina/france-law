@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316308
+
+- Question : [SEQ050316308](seq050316308.md) — Marchés publics : dossiers de consultation des entreprises
+
+## Réponse
+
+*Intérieur, JO du 2006-03-02, page 623*
+
+L'article 41 du code des marchés publics issu du décret du 7 janvier 2004 modifié prévoit que « les pièces nécessaires à la consultation des candidats à un marché leur sont remises gratuitement. Toutefois, la personne responsable du marché peut décider que les pièces nécessaires à la consultation des candidats à un marché leur sont remises contre paiement des frais de reprographie ». S'agissant des collectivités territoriales, il leur appartient en fonction de la stratégie qu'elles souhaitent adopter de fixer un mode de transmission de dossier de consultation. La transmission doit néanmoins s'effectuer dans les règles de transparence et permettre l'égal accès des candidats éventuels à la commande publique. Conformément aux dispositions de l'article 41 précité, la collectivité locale peut, sur la base d'une délibération fixant le taux applicable à la reprographie, exiger le paiement du dossier de consultation constitué de huit documents distincts (règlement de la consultation, lettre de candidature et habilitation du mandataire par ses cotraitants, déclaration du candidat, état annuel des certificats reçus, acte d'engagement, discussion avec les candidats sur la teneur de leur offre, mise au point du marché, présentation du sous-traitant ou acte spécial). Il est par ailleurs utile de souligner que, conformément aux dispositions de l'article R. 2131-1 du code général des collectivités territoriales, le règlement de la consultation, qui figure au nombre des pièces du dossier de consultation ainsi que la délibération de l'assemblée délibérante fixant les tarifs de remboursement à la charge des entreprises sont transmissibles au représentant de l'Etat au titre du contrôle de légalité.
