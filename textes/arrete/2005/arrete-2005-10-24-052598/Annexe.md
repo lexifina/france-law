@@ -2,7 +2,7 @@
 
 Partie 1 : Départements mentionnés à l'article 3.
 
-Les départements des LANDES (40), de la LOIRE-ATLANTIQUE (44) et de la VENDEE (85).
+Le départements des LANDES (40), de la LOIRE-ATLANTIQUE (44) et de la VENDEE (85).
 
 Partie 2 : Liste des communes mentionnées à l'article 3.
 

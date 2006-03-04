@@ -18,7 +18,7 @@ Département de la Côte-d'Or : cantons de Liernais, Précy-sous-Thil, Saulieu.
 
 Département de la Nièvre : cantons de Château-Chinon, Châtillon-en-Bazois, Corbigny, Fours, Lormes, Luzy, Montsauche-les-Settons, Moulins-Engilbert.
 
-Département de Saône-et-Loire : cantons de Bourbon-Lancy, Issy-l'Evêque, Lucenay-l'Evêque, Mesvres, Saint-Léger-sous-Beuvray.
+Département de Saône-et-Loire : cantons de Bourbon-Lancy, Issy-l'Evêque, Lucenay-l'Evêque, Mesvres, Saint-Léger-sous-Beuvray, Châtenay, Pierreclos, Saint-Pierre-le-Vieux, Saint-Racho, Serrières.
 
 Département de l'Yonne : cantons d'Avallon, Quarré-les-Tombes, Vézelay.
 
