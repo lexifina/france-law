@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050417313
+
+- Question : [SEQ050417313](seq050417313.md) — Situation des anciens naturalisés d'origine algérienne
+
+## Réponse
+
+*Justice, JO du 2006-03-09, page 723*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'aux termes de l'article 30 du code civil, la charge de la preuve, en matière de nationalité française, incombe à celui dont la nationalité est en cause. Il appartient ainsi aux originaires d'Algérie se réclamant du statut civil de droit commun de justifier de ce statut qui a permis la conservation de la nationalité française au moment, de l'indépendance de ce pays. La preuve de l'accession au statut civil de droit commun antérieurement à la loi du 4 février 1919 sur l'accession des indigènes d'Algérie aux droits politiques s'effectue par la production d'un décret pris en application du sénatus-consulte du 14 juillet 1865 dont une attestation peut être délivrée par le ministère chargé des naturalisations. L'accession au statut de droit commun résultant de la loi du 4 février 1919 se prouve, quant à elle, par la production du jugement d'admission à la qualité de citoyen français. La production de ce titre est essentielle et la mention en marge apposée sur une copie d'acte d'état civil ne saurait s'y substituer. Toutefois, dans un souci de souplesse et afin de tenir compte des situations particulières, l'article 32-2 du code civil énonce que la nationalité française des personnes de statut civil de droit commun, nées en Algérie avant le 3 juillet 1962, sera tenue pour établie, si ces personnes ont joui de façon constante de la possession d'état de français. Un mode subsidiaire de preuve de la nationalité française pour les originaires d'Algérie de statut civil de droit commun existe donc déjà sans qu'il soit nécessaire d'envisager d'autre dispositif.
