@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121171
+
+- Question : [SEQ060121171](seq060121171.md) — Champ d'exonération de la taxe d'habitation, notamment pour les étudiants
+
+## Réponse
+
+*Économie, JO du 2006-03-09, page 717*
+
+Conformément aux articles 1407 et 1408 du code général des impôts, la taxe d'habitation est due pour tous les locaux meublés affectés à l'habitation et est établie au nom des personnes qui ont, à quelque titre que ce soit, la disposition ou la jouissance des locaux imposables. Les étudiants qui ont la disposition privative d'un logement indépendant du domicile de leurs parents et non situé dans une résidence universitaire gérée par le centre régional des oeuvres universitaires et scolaires ou, dans des conditions analogues, par un autre organisme, sont donc imposables à la taxe d'habitation dans les conditions de droit commun. Toutefois, les étudiants de condition modeste qui occupent des logements indépendants peuvent bénéficier du plafonnement de la taxe d'habitation en fonction du revenu prévu par l'article 1414-A du code précité, qui permet d'adapter le poids de la cotisation au niveau du revenu de l'étudiant lui-même ou de sa famille dans le cas où l'étudiant est rattaché au foyer fiscal de ses parents. Dans ce dernier cas, le dégrèvement est accordé par voie contentieuse sur présentation de l'avis d'imposition à l'impôt sur le revenu établi au nom des parents. Ce dispositif permet donc de prendre en compte la situation des étudiants disposant de revenus modestes ou rattachés à un foyer fiscal modeste en leur permettant de bénéficier d'un dégrèvement de taxe d'habitation corrélé au montant de leur revenu. En tout état de cause, les étudiants qui resteraient soumis à la taxe d'habitation peuvent présenter, auprès des services des impôts, des demandes de modération ou de remise gracieuse. Il n'est donc pas envisagé de modifier la législation en vigueur.
