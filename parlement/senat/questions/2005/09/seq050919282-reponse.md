@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919282
+
+- Question : [SEQ050919282](seq050919282.md) — Obtention d'un certificat de nationalité pour un Français mais d'un parent né à l'étranger.
+
+## Réponse
+
+*Justice, JO du 2006-03-09, page 725*
+
+Le garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire que la délivrance d'une carte nationale d'identité ne nécessite pas nécessairement la production d'un certificat de nationalité française. En effet, l'article 4 du décret n° 55-1397 du 22 octobre 1955 ne vise ce cas que lorsque les actes d'état civil produits par le requérant ne suffisent pas, par eux-mêmes, à établir sa qualité de Français. S'agissant des certificats de nationalité française, la chancellerie s'attache à en améliorer la délivrance et a envoyé des instructions en ce sens, notamment par la circulaire du 24 décembre 1998, aux greffiers en chef des tribunaux d'instance. L'accent a été mis sur les dispositions de l'article 30-2 du code civil qui permet d'établir la nationalité française d'une personne au regard de sa possession d'état de Français et de celle du parent susceptible de la lui avoir transmise. Plus précisément, la circulaire du 1er octobre 2004 prévoit que la preuve de l'appartenance d'un intéressé à la fonction publique ou l'existence d'un mandat électif réservé aux seuls Français suffit pour justifier de cette possession d'état et en conséquence de la nationalité française. Enfin, le décret n° 2005 du 13 mai 2005 a inséré un nouvel article R. 321-30-1 au sein du code de l'organisation judiciaire afin de simplifier l'examen des demandes de certificat présentées par les personnes nées et résidant à l'étranger. La délivrance de ces certificats ressort depuis le 14 mai 2005 de la compétence du tribunal d'instance du 1er arrondissement de Paris (service de la nationalité).
