@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120257
+
+- Question : [SEQ051120257](seq051120257.md) — Donation et régime matrimonial aux Pays-Bas et en France
+
+## Réponse
+
+*Justice, JO du 2006-03-09, page 722*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, pour être reconnu en France, le mariage conclu à l'étranger doit être valable tant au regard de la loi du lieu de célébration que de la loi personnelle de chacun des futurs époux qui en régit les conditions de fond. Le mariage suppose que la loi personnelle de chacun des futurs époux l'autorise. Ainsi, au regard de la loi française, deux Français de même sexe ne pourront valablement se marier à l'étranger, même si la loi du lieu de célébration reconnaît ce mariage, dans la mesure où leur loi personnelle, la loi française, le prohibe. Il en va de même du mariage d'un Français à l'étranger avec une personne étrangère de même sexe. Dans les autres cas, la jurisprudence admet de tirer certaines conséquences d'unions contractées régulièrement à l'étranger alors même qu'elles seraient déclarées nulles si elles l'avaient été en France. Dès lors, sous réserve de l'appréciation souveraine des juges et des règles de conflits de loi, un mariage homosexuel valablement célébré à l'étranger entre deux personnes de nationalité étrangère pourra produire des effets en France, notamment sur le plan patrimonial et successoral. Ainsi, à titre d'exemple, les époux pourront valablement changer de régime matrimonial, selon les règles prévues par la convention de La Haye du 14 mars 1978. Le changement de régime matrimonial n'aura une pleine efficacité que dans la mesure où la loi applicable au régime matrimonial accepte la possibilité d'un tel changement. De même, les époux pourront se consentir une donation entre époux dont les effets s'exerceront sous réserve de la reconnaissance d'une telle libéralité par la loi successorale applicable.
