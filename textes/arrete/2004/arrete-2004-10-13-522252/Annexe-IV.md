@@ -8,7 +8,7 @@ La vitesse particulaire des vibrations émises, mesurée selon la méthode défi
 
 1. Valeurs limites de la vitesse particulaire
 
-3.2. Sources continues ou assimilées
+1.1. Sources continues ou assimilées
 
 Sont considérées comme sources continues ou assimilées :
 
@@ -16,15 +16,143 @@ Sont considérées comme sources continues ou assimilées :
 
 - les sources émettant des impulsions à intervalles assez courts sans limitation du nombre d'émissions.
 
-Les valeurs limites applicables sont fixées dans le tableau I ci-après.
+Les valeurs limites applicables sont fixées dans le tableau I ci-après :
 
-3.3. Sources impulsionnelles à impulsions répétées
+FREQUENCES
 
-Sont considérées comme sources impulsionnelles à impulsions répétées, toutes les sources émettant des impulsions à intervalles assez courts mais supérieurs à 1 s et dont la durée d'émissions est inférieure à 500 ms. Le nombre d'émissions est limité.
+|
 
-Les valeurs limites applicables sont fixées dans le tableau II ci-après.
+4 Hz-8 Hz
 
-Dans les deux cas, si les fréquences correspondant aux vitesses particulaires couramment observées pendant la période de mesure s'approchent de 0,5 Hz des fréquences de 8,30 et 100 Hz, la valeur limite à retenir est celle correspondant à la bande fréquence immédiatement inférieure.
+|
+
+8 Hz-30 Hz
+
+|
+
+30 Hz-100 Hz
+
+|
+
+Constructions résistantes
+
+|
+
+5 mm/s
+
+|
+
+6 mm/s
+
+|
+
+8 mm/s
+
+|
+
+Constructions sensibles
+
+|
+
+3 mm/s
+
+|
+
+5 mm/s
+
+|
+
+6 mm/s
+
+|
+
+Constructions très sensibles
+
+|
+
+2 mm/s
+
+|
+
+3 mm/s
+
+|
+
+4 mm/s
+
+|
+
+1.2. Sources impulsionnelles à impulsions répétées
+
+Sont considérées comme sources impulsionnelles à impulsions répétées toutes les sources émettant des impulsions à intervalles assez courts mais supérieurs à 1 s et dont la durée d'émissions est inférieure à 500 ms.
+
+Les valeurs limites applicables sont fixées dans le tableau II ci-après :
+
+FREQUENCES
+
+|
+
+4 Hz-8 Hz
+
+|
+
+8 Hz-30 Hz
+
+|
+
+30 Hz-100 Hz
+
+|
+
+Constructions résistantes
+
+|
+
+8 mm/s
+
+|
+
+12 mm/s
+
+|
+
+15 mm/s
+
+|
+
+Constructions sensibles
+
+|
+
+6 mm/s
+
+|
+
+9 mm/s
+
+|
+
+12 mm/s
+
+|
+
+Constructions très sensibles
+
+|
+
+4 mm/s
+
+|
+
+6 mm/s
+
+|
+
+9 mm/s
+
+|
+
+Quelle que soit la nature de la source, lorsque les fréquences correspondant aux vitesses particulaires couramment observées pendant la période de mesure s'approchent de 0,5 Hz des fréquences de 8, 30 et 100 Hz, la valeur limite à retenir est celle correspondant à la bande fréquence immédiatement inférieure. Si les vibrations comportent des fréquences en dehors de l'intervalle 4-100 Hz, il convient de faire appel à un organisme qualifié agréé par le ministre chargé de l'environnement.
 
 2. Classification des constructions
 
