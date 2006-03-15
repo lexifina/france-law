@@ -1,0 +1,3 @@
+# Article 23 BIS
+
+Tout salarié père d'un enfant peut bénéficier d'un congé de paternité pris dans les 4 mois qui suivent la naissance de l'enfant. Ce délai peut être reporté en cas d'hospitalisation de l'enfant ou de décès de la mère. Le congé de paternité doit alors être pris dans les 4 mois qui suivent la fin de l'hospitalisation ou la fin du congé dont bénéficie le père, en cas de décès de la mère, au titre de l'article L. 122-26-1 du code du travail. Ce congé de 11 jours calendaires consécutifs, porté à 18 jours en cas de naissances multiples, est cumulable avec les 3 jours de congé pour naissance prévus à l'article 25 de la présente convention collective nationale (art. L. 122-25-4 du code du travail).
