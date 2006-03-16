@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019793
+
+- Question : [SEQ051019793](seq051019793.md) — Obligations des communes en matière de logement social
+
+## Réponse
+
+*Emploi, JO du 2006-03-16, page 782*
+
+L'article 55 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbain (SRU) fait obligation aux communes de plus de 3 500 habitants (1 500 en Ile-de-France) situées dans une agglomération de plus de 50 000 habitants de disposer sur leur territoire, à terme de vingt ans, d'au moins 20 % de logements locatifs sociaux. L'entrée en application de cet article 55 est intervenue le 1er janvier 2002 et l'effort demandé aux communes consiste à résorber leur déficit en logements sociaux par fractions de 15 % tous les trois ans. L'article 55 de la loi SRU prévoit qu'un bilan est effectué à l'issue de chaque période triennale. Le premier bilan, qui porte donc sur la période 2002-2003-2004, a été méthodiquement dressé par les préfets au cours de l'année 2005. Ce bilan a conduit les préfets, après examen contradictoire avec les maires concernés puis avis des comités régionaux de l'habitat (CRH), conformément à la procédure prévue à l'article L. 302-9-1 du code de la construction et de l'habitation, à prononcer des arrêtés de carence entraînant une majoration du prélèvement opéré par logement social manquant. La loi a été appliquée avec rigueur : sur 735 communes concernées en métropole par le rattrapage indispensable de l'offre de logements locatifs sociaux, 127 arrêtés de carence sont déjà venus sanctionner effectivement les communes manifestement défaillantes, dont 66 arrêtés de carence prononcés en Ile-de-France ; environ 30 arrêtés de carence supplémentaires sont prévus au début de l'année 2006, visant des communes appartenant aux départements qui ont donné lieu le plus tardivement à examen de leur situation en CRH.
