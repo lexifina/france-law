@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120250
+
+- Question : [SEQ051120250](seq051120250.md) — Information des communes membres d'une communauté d'agglomération sur la taxe professionnelle
+
+## Réponse
+
+*Intérieur, JO du 2006-03-16, page 790*
+
+La mise en oeuvre, par un établissement public de coopération intercommunale (EPCI), de la taxe professionnelle unique (TPU) implique que ses communes membres renoncent à percevoir cette taxe. Il s'agit donc d'un choix politique fort qui traduit leur volonté de mettre en commun leurs ressources dans le cadre d'une structure de coopération intégrée. Toutefois, ces communes n'en sont pas moins informées de l'évolution des bases de taxe professionnelle situées sur leur territoire. En effet, les services fiscaux communiquent en fin d'année à chaque commune un état récapitulatif indiquant le montant global des bases imposées au titre des quatre taxes directes locales. Cet état fiscal est un document public. Pour les communes membres d'un EPCI à TPU, cet état indique le montant des bases de taxe professionnelle imposées au profit de l'EPCI sur leur territoire ainsi que les produits correspondants. Chaque commune, qu'elle soit membre d'un EPCI à TPU ou non, connaît donc les bases de taxe professionnelle imposées sur son territoire et leur évolution d'une année sur l'autre. L'administration fiscale communique, par ailleurs, aux collectivités locales et à leurs groupements une copie des rôles généraux des impôts locaux émis à leur profit. Ces rôles comportent l'identité du redevable, son lieu d'imposition et le détail du calcul de l'imposition. A partir de ces informations, et en les rapprochant des données de l'année précédente, chaque collectivité est en mesure de vérifier l'imposition ou non d'une entreprise à la taxe professionnelle et d'étudier l'évolution des bases de cette taxe.
