@@ -1,8 +1,8 @@
 # Article ANNEXE II
 
-Les déchets suivants ne peuvent pas être admis dans une installation de stockage de déchets ménagers et assimilés :
+Les déchets suivants ne peuvent pas être admis dans une installation de stockage de déchets non dangereux :
 
-- déchets dangereux définis par le décret en Conseil d'Etat pris en application de l'article L. 541-24 du code de l'environnement ;
+- déchets dangereux définis par le décret n° 2002-540 du 18 avril 2002 ;
 
 - déchets d'activités de soins et assimilés à risques infectieux ;
 
@@ -14,7 +14,7 @@ Les déchets suivants ne peuvent pas être admis dans une installation de stocka
 
 - déchets d'emballages visés par le décret n° 94-609 du 13 juillet 1994 ;
 
-- déchets qui, dans les conditions de mise en décharge, sont explosibles, corrosifs, comburants, facilement inflammables ou inflammables, conformément aux définitions du décret en Conseil d'Etat pris en application de l'article L. 541-24 du code de l'environnement ;
+- déchets qui, dans les conditions de mise en décharge, sont explosibles, corrosifs, comburants, facilement inflammables ou inflammables, conformément aux définitions du décret n° 2002-540 du 18 avril 2002 ;
 
 - déchets dangereux des ménages collectés séparément ;
 

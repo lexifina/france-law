@@ -1,117 +1,65 @@
 # Article ANNEXE I
 
-I. - Définition des catégories de déchets admissibles
+1. Caractérisation de base
 
-Les déchets admissibles dans les décharges de déchets ménagers et assimilés sont répartis, en fonction de leur comportement prévisible en cas de stockage et des modalités alternatives d'élimination, en deux catégories :
+La caractérisation de base est la première étape de la procédure d'admission ; elle consiste à caractériser globalement le déchet en rassemblant toutes les informations destinées à montrer qu'il remplit les critères correspondant à la mise en décharge pour déchets non dangereux. La caractérisation de base est exigée pour chaque type de déchets. S'il ne s'agit pas d'un déchet produit dans le cadre d'un même processus, chaque lot de déchets devra faire l'objet d'une caractérisation de base.
 
-La catégorie D :
+a) Informations à fournir :
 
-Cette catégorie est composée de déchets dont le comportement en cas de stockage est fortement évolutif et conduit à la formation de lixiviats chargés et de biogaz par dégradation biologique. La plupart des déchets ménagers et assimilés bruts, tels que collectés sans séparation particulière auprès des ménages, issus des activités d'entretien urbain, de certaines activités artisanales, commerciales ou industrielles, appartiennent à cette catégorie. Ces déchets ne sont en général pas ultimes, notamment parce que leur caractère polluant peut encore être réduit ;
+- source et origine du déchet ;
 
-La catégorie E :
+- informations concernant le processus de production du déchet (description et caractéristiques des matières premières et des produits) ;
 
-Cette catégorie est composée de déchets dont le comportement en cas de stockage est peu évolutif, dont la capacité de dégradation biologique est faible, et qui présentent un caractère polluant modéré. Cette catégorie peut être divisée en quatre sous-catégories en fonction de la possibilité, aux conditions techniques et économiques au moment de la publication du présent arrêté, de les traiter de manière complémentaire afin d'en extraire une part valorisable ou d'en réduire encore le caractère polluant et de leur similitude physique et chimique.
+- données concernant la composition du déchet et son comportement à la lixiviation, le cas échéant ;
 
-Ces quatre sous-catégories sont les suivantes :
+- apparence du déchet (odeur, couleur, apparence physique) ;
 
-La sous-catégorie E 1 :
+- code du déchet conformément à l'annexe II du décret n° 2002-540 du 18 avril 2002 ;
 
-Cette catégorie est composée de déchets de la catégorie E qui peuvent rapidement faire l'objet de traitement afin d'en extraire une part valorisable. Ces déchets font ou peuvent faire l'objet d'obligations particulières d'élimination, tant en application de textes nationaux qu'en application de dispositions particulières éventuellement arrêtées dans le cadre du plan d'élimination des déchets ménagers et assimilés du département d'implantation de l'installation de stockage ;
+- au besoin, précautions supplémentaires à prendre au niveau de l'installation de stockage.
 
-La sous-catégorie E 2 :
+b) Essais à réaliser :
 
-Cette catégorie est composée de déchets de la catégorie E qui peuvent rapidement faire l'objet de traitement afin d'en extraire une part valorisable tout en étant essentiellement de nature minérale. Ces déchets font ou peuvent faire l'objet d'obligations particulières d'élimination, tant en application de textes nationaux qu'en application de dispositions particulières éventuellement arrêtées dans le cadre du plan d'élimination des déchets ménagers et assimilés du département d'implantation de l'installation de stockage ;
+Le contenu de la caractérisation, l'ampleur des essais requis en laboratoire et les relations entre la caractérisation de base et la vérification de la conformité dépendent du type de déchets. Il convient cependant de réaliser le test de potentiel polluant basé sur la réalisation d'un essai de lixiviation. Le test de lixiviation à appliquer est le test de lixiviation normalisé NF EN 12457-2. L'analyse des concentrations contenues dans le lixiviat porte sur les métaux (As, Ba, Cr total, Cu, Hg, Mo, Ni, Pb, Sb, Se et Zn), les fluorures, l'indice phénols, le carbone organique total sur éluat ainsi que sur tout autre paramètre reflétant les caractéristiques des déchets en matière de lixiviation. La siccité du déchet brut et sa fraction soluble sont également évaluées.
 
-La sous-catégorie E 3 :
+Les essais réalisés lors de la caractérisation de base doivent toujours inclure les essais prévus à la vérification de la conformité et, si nécessaire, un essai permettant de connaître la radioactivité.
 
-Cette catégorie est composée de déchets de la catégorie E n'appartenant pas aux sous-catégories précédemment décrites et de nature essentiellement minérale ;
+Les tests et analyses relatifs à la caractérisation de base peuvent être réalisés par le producteur du déchet, l'exploitant de l'installation de stockage de déchets ou tout laboratoire compétent.
 
-La sous-catégorie E 4 :
+Il est possible de ne pas effectuer les essais correspondant à la caractérisation de base après accord de l'inspection des installations classées dans les cas suivants :
 
-Cette catégorie est composée de déchets contenant de l'amiante lié. Ce sont par exemple des déchets de matériaux en amiante-ciment et des revêtements en vinyl-amiante (autres que les débris et poussières qui ne sont pas admissibles et relèvent de l'annexe II du présent arrêté) ;
+- toutes les informations nécessaires à la caractérisation de base sont déjà connues et dûment justifiées ;
 
-La sous-catégorie E 5 :
+- le déchet fait partie d'un type de déchets pour lequel la réalisation des essais présente d'importantes difficultés ou entraînerait un risque pour la santé des intervenants ou, le cas échéant, pour lequel on ne dispose pas de procédure d'essai ni de critère d'admission.
 
-Ce sont les autres déchets de la catégorie E.
+c) Dispositions particulières :
 
-II. - Déchets admissibles par catégorie
+Dans le cas de déchets régulièrement produits dans un même processus industriel, la caractérisation de base apportera des indications sur la variabilité des différents paramètres caractéristiques des déchets. Le producteur des déchets informe l'exploitant du centre de stockage de déchets des modifications significatives apportées au procédé industriel à l'origine du déchet.
 
-La catégorie D comprend notamment les déchets suivants :
+Si des déchets issus d'un même processus sont produits dans des installations différentes, une seule caractérisation de base peut être réalisée si elle est accompagnée d'une étude de variabilité entre les différents sites sur les paramètres de la caractérisation de base montrant leur homogénéité.
 
-Les ordures ménagères ;
+Ces dispositions relatives aux déchets régulièrement produits dans le cadre d'un même procédé industriel ne s'appliquent pas aux déchets issus d'installations de regroupement ou de mélange de déchets.
 
-Les objets encombrants d'origine domestique avec composants fermentescibles ;
+d) Caractérisation de base et vérification de la conformité :
 
-Les déchets de voirie ;
+La fréquence de la vérification de la conformité ainsi que les paramètres pertinents qui y seront recherchés sont déterminés sur la base des résultats de la caractérisation de base. En tout état de cause, la vérification de la conformité est à réaliser au plus tard un an après la caractérisation de base et à renouveler au moins une fois par an.
 
-Les déchets industriels et commerciaux assimilables aux déchets ménagers ;
+La caractérisation de base est également à renouveler lors de toute modification importante de la composition du déchet. Une telle modification peut en particulier être détectée durant la vérification de la conformité.
 
-Les déchets verts ;
+Les résultats de la caractérisation de base sont conservés par l'exploitant de l'installation de stockage et tenus à la disposition de l'inspection des installations classées jusqu'à ce qu'une nouvelle caractérisation soit effectuée ou jusqu'à trois ans après l'arrêt de la mise en décharge du déchet.
 
-Les boues provenant de la préparation d'eau potable ou d'eau à usage industriel, lorsqu'elles ne présentent pas un caractère spécial, dont la siccité est à 30 % ;
+2. Vérification de la conformité
 
-Les boues de stations d'épuration urbaines dont la siccité est à 30 % ;
+Quand un déchet a été jugé admissible à l'issue d'une caractérisation de base, une vérification de la conformité est réalisée au plus tard un an après et est renouvelée une fois par an. Dans tous les cas, l'exploitant veille à ce que la portée et la fréquence de la vérification de la conformité soient conformes aux prescriptions de la caractérisation de base.
 
-Les matières de vidange ;
+La vérification de la conformité vise à déterminer si le déchet est conforme aux résultats de la caractérisation de base.
 
-Les boues et matières de curage et de dragage des cours d'eau et des bassins fortement évolutives, lorsqu'elles ne présentent pas un caractère spécial ;
+Les paramètres déterminés comme pertinents lors de la caractérisation de base doivent en particulier faire l'objet de tests. Il est vérifié que le déchet satisfait aux valeurs limites fixées pour ces paramètres pertinents.
 
-Les boues fermentescibles et fortement évolutives de dégrillage ;
+Les essais utilisés pour la vérification de la conformité sont choisis parmi ceux utilisés pour la caractérisation de base.
 
-Les déchets fermentescibles et fortement évolutifs de l'industrie et de l'agriculture - lorsqu'ils ne constituent pas des déchets industriels spéciaux -, et notamment :
+Les tests et analyses relatifs à la vérification de la conformité sont réalisés dans les mêmes conditions que ceux effectués pour la caractérisation de base.
 
-- les boues provenant du lavage et du nettoyage dont la siccité est à 30 % ;
+Les déchets exemptés des obligations d'essai pour la caractérisation de base dans les conditions prévues au dernier alinéa du 1 b de la présente annexe sont également exemptés des essais de vérification de la conformité. Ils doivent néanmoins faire l'objet d'une vérification de leur conformité avec les informations fournies lors de la caractérisation de base.
 
-- les boues provenant du traitement in situ des effluents et dont la siccité est à 30 % ;
-
-- les déchets de l'industrie du cuir à l'exception de ceux contenant du chrome ;
-
-- les déchets de l'industrie du textile ;
-
-- les déchets provenant de la production primaire de l'agriculture, de l'horticulture, de la chasse, de la pêche, de l'aquaculture ;
-
-- les déchets provenant de la préparation et de la transformation de la viande, des poissons et autres aliments d'origine animale ;
-
-- les déchets provenant de la préparation et de la transformation des fruits, des légumes, des céréales, des huiles alimentaires, du cacao et du café, de la production de conserves et du tabac ;
-
-- les déchets de la transformation du sucre ;
-
-- les déchets provenant de l'industrie des produits laitiers ;
-
-- les déchets de boulangerie, pâtisserie, confiserie ;
-
-- les déchets provenant de la production de boissons alcooliques et non alcooliques ;
-
-- les déchets provenant de la transformation du bois et de la fabrication de panneaux et de meubles ;
-
-- les déchets provenant de la production et de la transformation de papier, de carton et de pâte à papier ;
-
-Les déchets de bois, papier, carton.
-
-La sous-catégorie E 1 comprend notamment les déchets suivants :
-
-- les déchets de plastique, de métaux et ferrailles ou de verre ;
-
-- les refus de tri non fermentescibles et peu évolutifs ;
-
-- les déchets industriels et commerciaux assimilables aux ordures ménagères, non fermentescibles et peu évolutifs ;
-
-- les objets encombrants d'origine domestique sans composants fermentescibles et évolutive ;
-
-- les résidus de broyage de biens d'équipement dont la teneur en PCB est < 50 mg/kg.
-
-La sous-catégorie E 2 comprend notamment les déchets suivants :
-
-- les mâchefers issus de l'incinération des déchets, sauf dispositions réglementaires spécifiques contraires ;
-
-- les cendres et suies issues de la combustion du charbon ;
-
-- les sables de fonderie dont la teneur en phénols totaux de leur fraction lixiviable est < 50 mg/kg de sable rapporté à la matière sèche.
-
-La sous-catégorie E 3 comprend notamment les déchets suivants :
-
-- les boues, poussières, sels et déchets non fermentescibles et peu évolutifs, issues de l'industrie qui ne sont pas des déchets spéciaux ;
-
-- les déchets minéraux à faible potentiel polluant qui ne sont pas des déchets industriels spéciaux ;
-
-- les déchets minéraux provenant de la préparation d'eau non potable ou d'eau à usage industriel, lorsqu'ils ne présentent pas un caractère spécial, dont la siccité est à 30 % (à l'exception des boues d'hydroxydes métalliques).
+Les résultats des essais sont conservés par l'exploitant de l'installation de stockage et tenus à la disposition de l'inspection des installations classées pendant une durée de trois ans après leur réalisation.
