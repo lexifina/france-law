@@ -1,0 +1,13 @@
+# Article préliminaire 2
+
+Reconnaissant que l'ensemble des salariés de la branche doit pleinement bénéficier de la formation professionnelle tout au long de la vie, les parties signataires recommandent aux entreprises une attention particulière pour les besoins de formation des publics suivants :
+
+- les salariés rencontrant une difficulté d'insertion professionnelle et les salariés rencontrant des problèmes d'adaptation à leur emploi ;
+
+- les salariés dont la qualification est insuffisante au regard des évolutions prévisibles des techniques, technologies, contenus et organisations du travail ;
+
+- les salariés handicapés et ceux déclarés inaptes à leur emploi par la médecine du travail ou ayant des restrictions médicales demandant un changement ou aménagement d'emploi.
+
+Les salariés ayant interrompu ou aménagé leur activité professionnelle, notamment à la suite d'un congé parental, d'un congé de maternité ou d'une longue maladie ou encore de l'exercice d'un mandat syndical ou électif, d'une suspension de contrat pour congé sabbatique ou création d'entreprise ou réengagé à la suite d'une rupture ;
+
+Les salariés sans qualification reconnue par un diplôme, un titre ou une certification.
