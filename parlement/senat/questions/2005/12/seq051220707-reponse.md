@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220707
+
+- Question : [SEQ051220707](seq051220707.md) — Aide aux familles en difficulté
+
+## Réponse
+
+*Sécurité sociale, JO du 2006-03-23, page 872*
+
+La responsabilisation des familles à l'égard du comportement de leurs enfants est, pour le ministre délégué à la famille, une question essentielle. La famille est en effet un lieu de transmission de valeurs indispensables à la construction de l'individu. L'éclatement de plus en plus fréquent de la cellule familiale, la multiplication des familles monoparentales ou recomposées fragilisent l'exercice de l'autorité parentale. Il est donc apparu nécessaire de soutenir les parents dans la restauration de leur autorité. Le ministère a donc développé plusieurs types d'action. Les réseaux d'écoute, d'appui et d'accompagnement des parents (REAAP) permettent à ceux-ci de se regrouper, avec ou sans professionnels, pour s'informer et trouver des repères dans l'échange et la communication. Des conférences suivies de débats sont notamment organisées dans ce cadre sur des sujets éducatifs. Le projet de loi sur l'égalité des chances prévoit d'élargir ce dispositif, avec la création d'un « contrat de responsabilité parentale » qui serait conclu entre le président du conseil général, en charge de la protection de l'enfance, et la famille, dans les situations où l'enfant est en difficulté pour des raisons liées à l'exercice de l'autorité parentale, notamment en cas d'absentéisme scolaire. Ce contrat, dont l'initiative reviendrait au maire, au préfet, au chef d'établissement scolaire ou a l'inspecteur d'académie selon les cas, offrirait aux parents un soutien et un accompagnement social, leur rappellerait leurs droits et leurs devoirs au regard de la loi. La conclusion et le respect de ce contrat seraient obligatoires sous peine de sanctions.
