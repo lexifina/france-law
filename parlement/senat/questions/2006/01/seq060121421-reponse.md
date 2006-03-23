@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121421
+
+- Question : [SEQ060121421](seq060121421.md) — Position du Gouvernement sur les périodes de soldes
+
+## Réponse
+
+*Économie, JO du 2006-03-23, page 852*
+
+Le ministre de l'économie, des finances et de l'industrie, conscient du fait que les soldes constituent un enjeu économique important pour le secteur du commerce et un temps fort des achats des Français qui façonnent leur comportement de consommateurs, a engagé une réflexion visant à moderniser la réglementation sur les soldes dans la perspective de mieux l'adapter à la réalité économique, aux intérêts des professionnels et aux attentes des consommateurs. En effet, le régime actuel des soldes date de 1996 et, depuis lors, différentes évolutions se sont produites, notamment l'accélération de la rotation des collections et des gammes de produits, liée à l'évolution des habitudes de consommation et du rythme du progrès technologique. La démarche engagée s'effectue dans un large esprit de concertation puisque le ministre a décidé de consulter le 28 février le Conseil national de la consommation (CNC) qui regroupe des représentants des professionnels, des consommateurs et des principales instances consultatives spécialisées et qui, à ce titre, a vocation à accueillir cette réflexion. Par ailleurs, préalablement à cette réunion, de très nombreux contacts ont été pris avec les professionnels des différents secteurs économiques concernés par le phénomène des soldes ainsi qu'avec les principales associations de consommateurs afin de recueillir leur avis sur le régime actuel des soldes et les éventuelles modifications qu'ils souhaiteraient y voir apporter. C'est en fonction du résultat de ces différentes consultations et sur la base d'une expertise approfondie de l'impact économique des soldes qu'il sera décidé des suites à donner à la réflexion ainsi engagée.
