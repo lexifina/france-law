@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014004
+
+- Question : [SEQ041014004](seq041014004.md) — Situation des cadres salariés d'associations d'accueil et de réinsertion sociale
+
+## Réponse
+
+*Cohésion sociale, JO du 2006-03-23, page 846*
+
+Le protocole 137 de la convention SOP du 1er octobre 2001, agréé par arrêté ministériel du 16 avril 2002 (JO du 26 avril 2002), revalorise la rémunération des cadres exerçant dans les centres d'hébergement et de réinsertion sociale (CHRS). L'application de cette mesure permet aux cadres de la convention SOP de bénéficier des conditions de rémunération alignées sur celles des autres conventions du secteur de l'hébergement. En 2002, le financement de cette mesure a été pris en compte sur le montant de la provision constituée au plan national pour le financement des mesures salariales susceptibles d'être agréées en cours d'exercice avec effet sur les budgets 2002. Les directions départementales des affaires sanitaires et sociales ont reçu une dotation calculée sur la base d'un taux uniforme. Cependant, il est apparu que le coût de cette mesure était, dans certains départements, largement supérieur à la dotation notifiée. Pour remédier à cette situation, il a été demandé en premier lieu aux directions régionales des affaires sanitaires et sociales de procéder à un ajustement des dotations 2003 dès lors qu'il était constaté des déséquilibres entre les départements susceptibles d'engendrer des difficultés pour les établissements concernés. Une modulation du taux d'actualisation des dotations allouées en fonction des besoins de chaque établissement a pu alors intervenir. En second lieu, des financements supplémentaires sont venus compléter les dotations initiales pour solder cet avenant, source de nombreux contentieux. Ainsi en 2004, des mesures nouvelles d'un montant de 8,92 MEUR ont été affectées à la revalorisation de la masse salariale des établissements, permettant de couvrir, notamment, les incidences du protocole 137.
