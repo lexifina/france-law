@@ -1,9 +1,9 @@
 # Article Annexe
 
-(1) Le plan annexé au présent décret petit être consulté :
+(1) Ce plan peut être consulté :
 
-Au service central de sûreté des installations nucléaires, 13, rue de Bourgogne, Paris (7e) ;
+– à la direction générale de la sûreté nucléaire et de la radioprotection, 6, place du Colonel-Bourgoin, Paris (12e) ;
 
-A la préfecture de la Drôme, à Valence ;
+– à la préfecture de la Drôme ;
 
-Au service de l'industrie et des mines Rhône-Alpes, 11, rue Curie, Lyon.
+– à la direction régionale de l’industrie, de la recherche et de l’environnement, 2, rue Antoine-Charial, Lyon (Rhône).
