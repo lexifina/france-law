@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121435
+
+- Question : [SEQ060121435](seq060121435.md) — Fermeture de la mission économique à Miami
+
+## Réponse
+
+*Commerce extérieur, JO du 2006-03-23, page 848*
+
+La fermeture de la mission économique de Miami s'inscrit dans le cadre de la réorganisation des réseaux nord-américains qui s'articule autour de trois axes : accentuation du service aux entreprises et la promotion du territoire français ; reconfiguration de la carte des implantations visant à améliorer les synergies et la couverture du territoire américain ; amélioration de la productivité sur les fonctions support (gestion/comptabilité) et recentrage des travaux régaliens sur les priorités du Gouvernement. Les gains de productivité dégagés seront en grande majorité consacrés à accroître notre capacité d'intervention en faveur des entreprises et au renforcement des moyens d'action de l'Agence française pour les investissements internationaux. Si des petites implantations n'ayant pas la taille critique seront fermées (Los Angeles et Miami), des pôles mieux structurés vont émerger à San Francisco et Atlanta. En ce qui concerne plus particulièrement la mission économique d'Atlanta, dont la compétence couvrira le sud-est des Etats-Unis, elle verra ses effectifs nettement renforcés - de 4 à 11,5 agents de 2006 à 2008 - pour le service aux entreprises et la promotion du territoire français. En outre, la mission d'Atlanta assurera également le service d'accueil et d'orientation des entreprises approchant pour la première fois le réseau américain. Elle disposera donc de moyens suffisants pour couvrir la région de Miami distante seulement de 1 000 km environ. Atlanta est en outre aussi une base traditionnelle d'approche des marchés des Caraïbes et de l'Amérique centrale depuis les Etats-Unis.
