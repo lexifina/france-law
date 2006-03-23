@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120330
+
+- Question : [SEQ051120330](seq051120330.md) — Évolution du projet de Centre Pompidou Metz
+
+## Réponse
+
+*Culture, JO du 2006-03-23, page 849*
+
+La création d'une antenne du Centre national d'art et de culture Georges-Pompidou à Metz pose la question du statut juridique le plus adéquat dès lors qu'il s'agit d'associer en l'occurrence des collectivités territoriales, l'Etat et un établissement public national. L'établissement public de coopération culturelle (EPCC), créé par la loi du 4 janvier 2002, apparaît comme un mode de gestion approprié pour le projet envisagé. Toutefois, les dispositions, telles qu'elles résultent de la loi actuelle, ne donnent pas tous les moyens d'assurer la coopération des partenaires en présence dans les conditions les plus satisfaisantes. En effet, le Centre national d'art et de culture Georges-Pompidou, établissement public national, acteur majeur du projet de centre à Metz, ne peut en l'état être partie à l'EPCC puisque la loi du 4 janvier 2002 n'a pas prévu, parmi les partenaires possibles de l'EPCC, les établissements publics nationaux. La même question se pose pour l'antenne du Louvre à Lens. Afin de remédier à certaines lacunes de la loi, constatées à l'occasion de sa mise en oeuvre, le sénateur Ivan Renar étudie actuellement une proposition de loi visant à modifier la loi du 4 janvier 2002. La possibilité d'associer des établissements publics nationaux a été précisément envisagée. C'est pourquoi, avant d'arrêter un statut juridique pour l'antenne du centre Pompidou de Metz, il apparaît nécessaire d'attendre la modification de la loi du 4 janvier 2002 qui rendrait possible le choix de l'EPCC, dès lors que les dispositions permettant la participation d'un établissement public national seraient retenues.
