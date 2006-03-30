@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121345
+
+- Question : [SEQ060121345](seq060121345.md) — Inquiétudes des accompagnateurs de montagne
+
+## Réponse
+
+*Jeunesse et sports, JO du 2006-03-30, page 939*
+
+L'inquiétude des accompagnateurs en moyenne montagne, représentés par leur syndicat (le syndicat national des accompagnateurs en montagne - SNAM), porte sur l'évolution des diplômes délivrés par le ministère de la jeunesse, des sports et de la vie associative. Cette rénovation repose sur une volonté : d'adapter les diplômes en fonction de l'évolution des situations professionnelles observées et en devenir ; d'organiser cette filière de diplômes afin de favoriser la possibilité de carrière et la mobilité pour les professionnels du secteur ; de prendre en compte les évolutions de la formation professionnelle dans les contextes français (répertoire national des certifications professionnelles, notamment) et européen. Elle a débuté par la construction du brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS), dont douze spécialités ont été créées à ce jour. Ce travail se poursuit par la rénovation des certifications de niveaux III et II. A cet effet, une note d'opportunité a été présentée le 31 janvier 2005 devant la Commission professionnelle consultative (CPC) des métiers du sport et de l'animation qui l'a validée. Compte tenu des inquiétudes manifestées par le SNAM auprès de mes services, des échanges ont eu lieu afin de garantir leur appartenance à la filière professionnelle de l'alpinisme, dans des certifications articulées avec les autres certifications de l'alpinisme. A ce titre, leur spécificité, leur appartenance à un environnement spécifique et les conséquences qui en découlent en terme de maîtrise des parcours et des contenus de formation seront maintenues.
