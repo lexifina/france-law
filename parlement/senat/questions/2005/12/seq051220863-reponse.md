@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220863
+
+- Question : [SEQ051220863](seq051220863.md) — Taxe LKW-Maut appliquée aux poids lourds en Alsace
+
+## Réponse
+
+*Transports et équipement, JO du 2006-03-30, page 944*
+
+La possibilité d'instaurer une taxe sur la circulation des poids lourds en Alsace est désormais offerte par l'article 27 de la loi n° 2006-10 du 5 janvier 2006 relative à la sécurité et au développement des transports. Elle permet en effet d'instituer en région Alsace, à titre expérimental et pour une durée de cinq ans, une taxe sur les poids lourds de 12 tonnes et plus lorsqu'ils empruntent des routes ou portions de routes d'usage gratuit à proximité d'axes autoroutiers à péage situés ou non sur le territoire français. Cette disposition législative a été notifiée à la Commission européenne ainsi qu'aux autres Etats membres, en application de la directive 99/62 du 17 juin 1999. Ceux-ci pourront donc faire connaître leur avis. L'article 27 de la loi du 5 janvier 2006 prévoit explicitement qu'un décret en Conseil d'Etat est nécessaire afin de préciser les modalités d'application de la mesure et de déterminer les conditions dans lesquelles il sera procédé à une évaluation au terme de la période d'expérimentation. Sans préjuger de l'efficacité d'une telle mesure, il convient de souligner la complexité de sa mise en place en raison de l'existence de plusieurs axes parallèles de domanialités différentes : l'Etat pour l'autoroute A35, les départements du Haut et du Bas-Rhin pour les principales voiries qui la doublent. En tout état de cause, afin d'éviter de nouveaux reports de trafic indésirables, la coordination des études menées par les collectivités territoriales et l'Etat doit être poursuivie. Le préfet de la région Alsace doit engager une concertation avec tous les acteurs locaux intéressés, pour déterminer les modalités de cette taxe à inclure dans le futur décret.
