@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919387
+
+- Question : [SEQ050919387](seq050919387.md) — Déductibilité fiscale des rachats de cotisations Préfon
+
+## Réponse
+
+*Budget, JO du 2006-03-30, page 919*
+
+En application du c du 2 du I de l'article 163 quater vicies du code général des impôts relatif à la déduction du revenu net global des cotisations d'épargne retraite, l'excédent par rapport à la limite annuelle de déduction définie au a du 2 du I du même article qui correspond à des rachats de droits effectués à certains régimes facultatifs de retraite complémentaire, notamment au régime Prefon-retraite, est admis en déduction à titre temporaire et de manière dégressive jusqu'en 2012. Pour l'application de ce régime dérogatoire, il sera admis que les rachats de droits effectués par les personnes concernées, c'est-à-dire par les personnes affiliées aux dits régimes au plus tard le 31 décembre 2004, ou après cette date si elles ont la qualité de fonctionnaire ou d'agent public en activité, s'entendent non seulement des cotisations versées par les intéressés au titre d'années antérieures à leur affiliation mais aussi des cotisations supplémentaires versées au cours d'une année en vue d'augmenter leurs droits à retraite au titre d'années postérieures, par exemple pour le régime Prefon-retraite sous la forme de cotisations « différentielles » égales à la différence entre la classe de cotisations à laquelle les affiliés cotisent l'année du « rachat » et celle, inférieure, à laquelle ils ont initialement cotisé. Les dispositions contraires de l'instruction du 21 février 2005, publiée au Bulletin officiel des impôts sous la référence 5 B-11-05, et notamment le paragraphe n° 73 de ladite instruction, seront modifiées en ce sens. L'ensemble de ces précisions répondent totalement aux préoccupations exprimées par l'auteur de la question.
