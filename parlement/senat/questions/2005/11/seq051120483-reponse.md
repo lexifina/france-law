@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120483
+
+- Question : [SEQ051120483](seq051120483.md) — Régime indemnitaire des personnels ATOSS et IATOSS
+
+## Réponse
+
+*Agriculture, JO du 2006-03-30, page 916*
+
+Les honorables parlementaires appellent l'attention du ministère de l'agriculture et de la pêche sur la différence de régime indemnitaire entre les personnels administratifs, techniques, ouvriers, de service et de santé (ATOSS) et les ingénieurs administratifs, techniques, ouvriers, de service et de santé (IATOSS) de l'enseignement agricole par rapport aux autres personnels de grade équivalent au ministère de l'agriculture et de la pêche. La mise en place de l'aménagement et de la réduction du temps de travail dans les établissements d'enseignement a rapproché la durée de temps de travail des personnels de l'enseignement agricole de celle des autres agents du ministère. C'est pourquoi l'harmonisation progressive de leur régime indemnitaire avec ceux des corps équivalents des services déconcentrés a été décidée. Cette harmonisation s'inscrit plus globalement dans la politique d'harmonisation des régimes indemnitaires des différents corps du ministère de l'agriculture et de la pêche, qui consiste à réduire les écarts existant entre secteurs d'affectation, entre les filières et entre corps homologues. Il faut noter que les moyens financiers nécessaires pour mener à son terme cette politique sont importants. Pour les personnels ATOSS, l'harmonisation s'est traduite par une première mesure en 2002 qui a permis d'augmenter les primes versées dans les secteurs de l'enseignement technique et supérieur de 10 à 25 % selon les corps. Elle s'est poursuivie, en fonction des crédits disponibles, par des revalorisations successives de 2 % en 2003, de 3 % en 2004 et de 2 % en 2005. En 2006, la revalorisation devrait se situer dans les mêmes proportions. L'harmonisation se poursuit selon un calendrier tenant compte des disponibilités budgétaires.
