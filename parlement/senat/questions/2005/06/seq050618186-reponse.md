@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618186
+
+- Question : [SEQ050618186](seq050618186.md) — Transmission au contrôle de légalité d'un marché passé sans formalité préalable
+
+## Réponse
+
+*Intérieur, JO du 2006-03-30, page 935*
+
+En application de l'article L. 2122-22 4° du code général des collectivités territoriales, le maire peut recevoir délégation du conseil municipal pour « prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés sans formalité préalable en raison de leur montant ». Cela comprend notamment la décision de signer le marché. L'article L. 2131-2 1° prévoit que les décisions prises dans le cadre de cette délégation doivent être transmises au titre du contrôle de légalité ; le 4° du même article exonère toutefois de l'obligation de transmission les marchés passés sans formalité préalable en raison de leur montant. Aucune disposition ne précise la forme que doit revêtir la décision de signer. C'est ainsi que le Conseil d'Etat a pu juger que la décision de conclure un contrat peut se matérialiser par la signature apposée sur le contrat (CE, 10 novembre 1967, Tixier). Le maire n'est donc pas tenu de prendre une décision formelle, distincte de la signature apposée sur le contrat. Dans le cas d'un marché passé sans formalité préalable en raison de son montant, par dérogation au 1° de l'article L. 2131-2, la décision constituée par la signature ne saurait être transmise faute de quoi la dérogation prévue au 4° ne pourrait jamais être mise en oeuvre, le contrat se trouvant de fait systématiquement transmis. Lorsque, en revanche, le maire prend un arrêté formalisant sa décision de conclure le contrat, la dérogation précitée n'entre pas en jeu et le droit commun défini au 1° de l'article L. 2131-2 s'applique : la décision doit alors être transmise au représentant de l'Etat dans le département pour qu'elle acquiert un caractère exécutoire.
