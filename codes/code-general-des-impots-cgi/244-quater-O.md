@@ -1,6 +1,6 @@
 # Article 244 quater O
 
-I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
+I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement et exclusivement chargés de la conception de nouveaux produits dans un des secteurs ou métiers mentionnés au III et aux ingénieurs et techniciens de production chargés de la réalisation de prototypes ou d'échantillons non vendus ;
 
@@ -31,11 +31,3 @@ V. - Les subventions publiques reçues par les entreprises à raison de dépense
 VI. - Les mêmes dépenses ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt mentionné au I et dans celle d'un autre crédit d'impôt.
 
 VII. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis. Ce plafond s'apprécie en prenant en compte la fraction du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C. Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
-
-NOTA :
-
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 45 V, VI :
-
-"V. - Un décret fixe les conditions d'application des I à IV et notamment les obligations déclaratives incombant aux entreprises concernées.
-
-"VI - Les dispositions du présent article s'appliquent aux crédits d'impôt calculés au titre des dépenses exposées entre le 1er janvier 2006 et le 31 décembre 2007."

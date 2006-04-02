@@ -1,6 +1,6 @@
 # Article 244 quater K
 
-I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
+I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont réalisé soit un chiffre d'affaires inférieur à 50 millions d'euros au cours de l'année au titre de laquelle les dépenses mentionnées au II ont été exposées, soit un total de bilan inférieur à 43 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés employés au cours de cette période. Le capital des sociétés doit être entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant à la composition du capital doit être remplie par la société mère du groupe.
 
@@ -23,7 +23,3 @@ V. - Le crédit d'impôt prévu au I s'applique dans les limites prévues par le
 Lorsque ces sociétés ou groupements ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
 VI. - Un décret fixe les conditions d'application du présent article.
-
-NOTA :
-
-Nota : Loi 2004-1485 2004-12-30 art. 46 II : Ces dispositions s'appliquent aux dépenses exposées entrent le 1er janvier 2005 et le 31 décembre 2007.
