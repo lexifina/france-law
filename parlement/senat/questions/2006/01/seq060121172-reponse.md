@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121172
+
+- Question : [SEQ060121172](seq060121172.md) — Adaptation des normes de construction au risque sécheresse
+
+## Réponse
+
+*Transports et équipement, JO du 2006-04-06, page 1032*
+
+Depuis plusieurs années le Gouvernement a pris conscience des conséquences de la sécheresse sur les sols argileux. C'est pourquoi le ministère de l'écologie et du développement durable a mis en oeuvre un ambitieux programme de repérage des sols à risques. Cette cartographie est consultable sur le site www.argiles.fr qui sera achevé sous trois ans. Des plans de prévention des risques (PPR) relatifs aux mouvements de terrain peuvent être élaborés dans ces zones et comporter des dispositions constructives appropriées pour les bâtiments neufs et existants. Il n'est pas exclu de définir, par analogie avec la réglementation parasismique, un cadre réglementaire minimum applicable à l'ensemble des territoires concernés. Néanmoins, même en l'absence de PPR, tout constructeur ou maître d'oeuvre, et à défaut toute entreprise, doit s'assurer des caractéristiques du sol sur lequel doit être édifié un bâtiment. Tout contrat de construction de maison individuelle, passé en application des articles L. 231-1 et 2 du code de la construction et de l'habitation, doit décrire la consistance et les caractéristiques techniques du bâtiment à construire, y compris tous les travaux d'adaptation au sol. Si, en cours d'exécution, des travaux supplémentaires s'avèrent indispensables à l'implantation ou à l'utilisation de l'immeuble, le constructeur doit les réaliser sans majoration de prix, l'article R. 231-5 du même code dispose en effet que le prix convenu inclut s'il y a lieu les frais d'études de sol pour l'implantation du bâtiment. Il paraîtrait donc anormal qu'un constructeur au sens de l'article L. 231-1 précité signe un tel contrat sans un minimum d'information sur la portance du sol concerné.
