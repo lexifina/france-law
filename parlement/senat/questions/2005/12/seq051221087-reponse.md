@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051221087
+
+- Question : [SEQ051221087](seq051221087.md) — Aide de l'État pour l'emploi d'un salarié à domicile
+
+## Réponse
+
+*Budget, JO du 2006-04-06, page 996*
+
+L'aide au financement des emplois de service par les particuliers ne s'apprécie pas uniquement à travers la réduction d'impôt évoquée par l'auteur de la question mais aussi en fonction des allocations à caractère social versées par l'Etat et les collectivités locales. Il en est ainsi notamment de la prestation d'accueil du jeune enfant pour les familles et de l'allocation personnalisée d'autonomie pour les personnes âgées dépendantes. Les personnes de situation modeste bénéficient à travers ces prestations d'un taux de prise en charge public de leurs dépenses d'aide à domicile qui peut parfois atteindre des niveaux très importants. Par ailleurs, le crédit d'impôt tout comme l'actuelle réduction d'impôt procure un avantage différé dans le temps puisqu'il ne serait accordé qu'au moment de la liquidation de l'impôt, soit l'année suivant celle de la dépense. Dès lors, il n'apporterait pas aux foyers modestes l'aide en trésorerie dont ils ont immédiatement besoin pour financer l'emploi d'une aide à domicile. C'est pourquoi il est apparu préférable de privilégier une autre voie à travers le chèque emploi service universel (CESU) institué dans le cadre de la loi du 26 juillet 2005 relative au développement des services à la personne. Le CESU permet en effet aux entreprises, comme à toute autre personne morale de droit public ou privé (mutuelle, collectivité locale, association...), de participer sous la forme d'un abondement au financement de l'emploi d'un salarié au domicile des particuliers. Ce dispositif répond ainsi, contrairement au crédit d'impôt, au besoin immédiat de trésorerie des personnes les plus démunies et semble de ce fait plus adapté à leurs besoins.
