@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121324
+
+- Question : [SEQ060121324](seq060121324.md) — Respect des engagements pris lors de la conférence ministérielle de Hong Kong
+
+## Réponse
+
+*Agriculture, JO du 2006-04-06, page 992*
+
+Les dernières négociations de l'Organisation mondiale du commerce (OMC), lors de la conférence ministérielle à Hongkong, ont abouti à une déclaration importante, qui constitue un accord d'étape mais qui ne conclut pas le cycle de négociations entamé à Doha en 2001. Le résultat obtenu est satisfaisant dans la mesure où l'essentiel a été préservé et où il conforte le cadre de notre agriculture jusqu'en 2013. A Hongkong, après le développement, c'est le volet agricole qui a principalement fait l'objet des négociations. La France a défendu le principe d'un accord garantissant le parallélisme des efforts. Les subventions à l'exportation pour les produits agricoles seront supprimées, conformément aux engagements qui avaient été pris en juillet 2004. Mais l'Europe a obtenu, notamment grâce à l'insistance de la France, que ces soutiens à l'exportation soient maintenus jusqu'au 31 décembre 2013, alors que ses partenaires poussaient à l'adoption d'une date plus rapprochée. Cette échéance est cohérente avec le cadre budgétaire qui a été négocié la même semaine à Bruxelles. Par ailleurs, l'engagement pris à Hongkong est conditionné au respect d'un strict parallélisme des efforts : l'UE ne procédera au démantèlement progressif de ses subventions à l'exportation que si ses partenaires font de même et au même rythme qu'elle pour ce qui concerne leurs propres subventions indirectes à l'exportation. Sont ainsi visés par la déclaration de Hongkong : les pratiques américaines d'aide alimentaire, de fait commerciale, et les crédits à l'exportation dans leur composante subventionnée et les pratiques non concurrentielles des monopoles d'exportation des pays du groupe de Cairns.
