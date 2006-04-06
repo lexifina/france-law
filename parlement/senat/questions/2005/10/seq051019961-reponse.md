@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019961
+
+- Question : [SEQ051019961](seq051019961.md) — Conséquences des restrictions budgétaires imposées aux caisses primaires d'assurance maladie
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-04-06, page 1028*
+
+Le développement des nouvelles technologies de l'information et de la communication dans le domaine de l'assurance maladie, à travers notamment la généralisation de la carte VITALE, modifie les relations entre les caisses de sécurité sociale et leurs usagers et oblige ces dernières à revoir leur organisation et leur politique d'accueil. Les caisses primaires d'assurance maladie mettent notamment en place une organisation plus efficiente permettant de consolider et améliorer la qualité du service rendu à l'usager qui demeure une préoccupation constante des organismes de sécurité sociale. Le rattachement des très petites unités de traitement des dossiers à des centres plus importants constitue l'un des éléments de cette réorganisation. Il garantit une égale qualité dans tous les centres. Cette évolution permet de redéployer une partie des moyens humains vers les fonctions d'accueil du public. C'est ainsi que la caisse primaire d'assurance maladie de Mulhouse a décidé de transformer le centre de traitement de Masevaux en point d'accueil, situé depuis le 3 octobre 2005 à la mairie. Par ailleurs, les sites de Saint-Louis, Altkirch et Thann demeurent des centres de traitement qui accueillent les assurés huit heures par jour du lundi au vendredi. De plus, dans un souci de proximité pour les assurés, deux nouveaux points d'accueil ont été ouverts récemment, d'une part, au bureau de poste « Côteaux » de Mulhouse qui accueille le public tous les matins de la semaine et, d'autre part, depuis le 5 octobre 2005, à la maison du bassin potassique situé à Wittenheim et accessible trois après-midi par semaine.
