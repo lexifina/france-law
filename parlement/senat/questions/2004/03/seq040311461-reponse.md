@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311461
+
+- Question : [SEQ040311461](seq040311461.md) — Inscription du test Papillomavirus humains (HPV) dans la nomenclature des actes médicaux
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-04-06, page 1025*
+
+L'attention du ministre de la santé et des solidarités est appelée sur l'éventuelle inscription à la nomenclature générale des actes professionnels (NGAP) du test HPV (Human Papillomavirus). A l'heure actuelle, ce test est inscrit à la nomenclature des actes de biologie médicale (NABM), car il s'agit d'une technique de biologie moléculaire classiquement pratiquée par les biologistes. Ce test est inscrit dans le respect des recommandations de l'Agence nationale d'accréditation et d'évaluation en santé (ANAES) sur la conduite à tenir devant un frottis cervico-utérin anormal. Par ailleurs, l'ANAES ne recommande pas d'utiliser ce test en remplacement du frottis. Fin novembre 2004, l'ANAES, devenue depuis la Haute Autorité de santé (HAS), a transmis son avis sur l'inscription du test « HPV » à la NGAP. Cet avis est favorable, mais assorti de recommandations particulières, notamment sur la nécessité d'une formation spécifique à la biologie moléculaire et sur celle d'une réalisation du test dans les mêmes conditions que celles d'un laboratoire d'analyse de biologie médicale. Dès lors, conformément aux dispositions de l'article L. 162-1-7 du code de la sécurité sociale, résultant de l'article 42 de la loi du l3 août 2004 relative à l'assurance maladie, il appartient à l'Union nationale des caisses d'assurance maladie (UNCAM) de définir les conditions d'inscription d'un tel acte dans la liste des actes pris en charge ou remboursés par l'assurance maladie, après avis de la HAS et de l'Union nationale des organismes d'assurance maladie complémentaire (UNOC).
