@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221638
+
+- Question : [SEQ060221638](seq060221638.md) — Rémunération des collaborateurs de cabinet
+
+## Réponse
+
+*Collectivités territoriales, JO du 2006-04-06, page 998*
+
+Les collaborateurs de cabinet sont engagés pour occuper des emplois non permanents régis par l'article 110 de la loi du 26 janvier 1984 précitée. Ils ne peuvent donc pas être éligibles au contrat à durée indéterminée. Les collaborateurs de cabinet sont engagés pour occuper des emplois non permanents régis par l'article 110 de la loi du 26 janvier 1984 précitée et par le décret n° 87 du 16 décembre 1987 récemment modifié par le décret n° 2005-618 du 30 mai 2005 s'agissant des conditions de détermination de leur rémunération. L'article 7 du décret du 16 décembre 1987 prévoit que la rémunération des collaborateurs de cabinet est composée d'un traitement indiciaire, de l'indemnité de résidence et du supplément familial de traitement y afférents ainsi que, le cas échéant, d'indemnités. Le traitement et le régime indemnitaire sont déterminés par l'autorité territoriale en tenant compte d'un plafond fixé à 90 % respectivement du traitement à l'indice terminal et du montant des indemnités de l'emploi de référence qui est, au choix de l'autorité territoriale, soit l'emploi administratif fonctionnel de direction le plus élevé de la collectivité occupé par un fonctionnaire ; soit l'emploi de grade administratif le plus élevé détenu par un fonctionnaire en activité dans la collectivité. Ainsi, seule la filière administrative peut être prise en compte, qu'il s'agisse de l'emploi fonctionnel ou de l'emploi de grade. Par ailleurs, la rémunération du collaborateur de cabinet peut comprendre, si l'autorité territoriale le souhaite, un régime indemnitaire qui tient compte, sous réserve du plafond susmentionné, des primes et indemnités instituées par l'assemblée délibérante et servies au titulaire de l'emploi fonctionnel ou de grade pris pour référence.
