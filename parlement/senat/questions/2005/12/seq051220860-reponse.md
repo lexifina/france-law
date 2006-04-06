@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220860
+
+- Question : [SEQ051220860](seq051220860.md) — Financement des stages pour les jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 2006-04-06, page 991*
+
+Dans un contexte budgétaire contraint des dépenses publiques, l'installation est une priorité du ministère de l'agriculture et de la pêche. Aussi, l'ensemble des moyens relatifs au dispositif d'accompagnement de l'installation des jeunes agriculteurs ont-ils été consolidés. En 2006, 6 MEUR ont pu être dégagés pour les stages préparatoires à l'installation (SPI) et les stages « Six mois ». Pour l'avenir, il est prévu de rassembler dans une action unique l'ensemble des financements consacrés à l'installation pour assurer un pilotage cohérent de cette politique d'appui au renouvellement des exploitations agricoles. Enfin, il paraît nécessaire de conduire, avec les organisations professionnelles agricoles, une réflexion sur la simplification et l'adaptation des outils qui contribuent à cette politique, en recherchant des modalités qui permettent de mieux prendre en compte les particularités de chaque territoire et la diversité des projets. Cette démarche se fera dans le cadre d'assises de l'installation organisées conjointement dans chaque région avec le concours des collectivités locales qui souhaiteront s'y associer. La manière dont les stages préparatoires à l'installation pourraient évoluer doit notamment être examinée : un bilan du fonctionnement de ces dispositifs sera fait dans un esprit d'ouverture et avec l'objectif de répondre encore davantage aux attentes des candidats à l'installation. Les jeunes qui souhaitent s'installer sont de mieux en mieux formés. Ce sont souvent des diplômés de l'enseignement agricole qui ont eu l'occasion de réaliser des périodes de stage en exploitation pour acquérir leur diplôme. Le ministère de l'agriculture et de la pêche devra faciliter la prise en compte de ces périodes de stage déjà réalisées.
