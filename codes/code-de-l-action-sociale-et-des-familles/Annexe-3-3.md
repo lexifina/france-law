@@ -646,11 +646,21 @@ de l'article R. 314-188 = B 4
 
 |
 
+incorporation des résultats des exercices antérieurs "dépendance" = C 2, soins = C3 |
+
+|
+
+|
+
+|
+
+|
+
 BASE DE CALCUL DES TARIFS JOURNALIERS /
 
-"dépendance" = D 2 soit A 2 - (B 2 + B4)
+"dépendance" = D 2 soit [A 2 - (B 2 + B4)]
 
-"soins" = D 3 soit A3 - B 3
++ C2 "soins" = D 3 soit A3 - B 3 + C3
 
 |
 
