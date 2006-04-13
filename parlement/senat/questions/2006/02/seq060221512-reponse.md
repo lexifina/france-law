@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221512
+
+- Question : [SEQ060221512](seq060221512.md) — Présence postale en milieu rural
+
+## Réponse
+
+*Intérieur, JO du 2006-04-13, page 1079*
+
+Pour financer la contribution de La Poste à l'aménagement du territoire, la loi de régulation des activités postales du 20 mai 2005 prévoit la création du fonds postal national de péréquation territoriale. Les modalités de fonctionnement de ce fonds doivent être précisées par un décret pris après avis de la Commission supérieure du service public des postes et télécommunications. Ce décret est actuellement en cours de préparation au sein des services du ministère de l'économie, des finances et de l'industrie. Les ressources de ce fonds proviendront notamment de l'abattement de 85 % des bases de la fiscalité locale, accordé « en raison des contraintes de desserte de l'ensemble du territoire et de la participation à l'aménagement du territoire qui s'imposent à La Poste » aux termes de l'article 21 de la loi du 2 juillet 1990. Cet avantage fiscal devrait présenter un caractère stable au cours des prochaines années, et procurer à La Poste une économie de charges de l'ordre de 150 millions d'euros. Le fonds disposera donc de cette ressource pour concourir au financement de la mission d'aménagement du territoire de la Poste. Les aménagements prévus par la loi de finances pour 2006 en matière de taxe professionnelle ne devraient pas avoir d'impact sensible sur la dotation du fonds. Dans ces conditions, le Gouvernement n'envisage pas d'abonder ce fonds par des crédits supplémentaires. Ce ne pourrait être qu'à la suite d'un bilan de l'action de restructuration du réseau postal dans le respect des obligations d'aménagement du territoire, à horizon de deux ou trois ans, que cette question devrait être examinée.
