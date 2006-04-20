@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121344
+
+- Question : [SEQ060121344](seq060121344.md) — Épandage agricole des boues de stations d'épuration
+
+## Réponse
+
+*Agriculture, JO du 2006-04-20, page 1127*
+
+L'épandage agricole des boues produites par les stations d'épuration est une pratique ancienne qui est strictement encadrée par le décret n° 97-1133 du 8 décembre 1997 et son arrêté d'application du 8 janvier 1998. Cette réglementation qui transpose la législation communautaire dans ce domaine vise à favoriser cette filière de valorisation, compte tenu de son intérêt agronomique et économique, tout en préservant la qualité des sols et des récoltes. On enregistre une amélioration continue de la qualité des boues et un perfectionnement des pratiques d'épandage, avec notamment la proposition, faite aux collectivités locales traitant les eaux usées et aux industriels possédant leur propre station d'épuration, d'un label de certification de l'ensemble de la filière d'épandage agricole. L'actuel projet de loi sur l'eau prévoit de compléter ce dispositif par la création d'un fonds de garantie des risques liés à l'épandage agricole des boues urbaines et industrielles. L'ensemble de ce dispositif n'autorise donc que l'épandage agricole de boues de station d'épuration conformes à la réglementation. Il est à souligner que l'efficacité de la réglementation nationale applicable aux épandages de boues est attestée par les observations de la cellule nationale de veille sanitaire. Cette dernière n'a, à ce jour, relevé aucune « pollution » dont la responsabilité serait imputable à un épandage effectué conformément à la réglementation. Dans ce contexte, hormis le cas de l'agriculture biologique, mode de production interdisant le recours à l'emploi de substances chimiques de synthèse, l'épandage de boues de stations d'épuration par les agriculteurs, dans des conditions conformes à la réglementation est bien autorisé.
