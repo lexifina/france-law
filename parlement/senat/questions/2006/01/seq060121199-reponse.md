@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121199
+
+- Question : [SEQ060121199](seq060121199.md) — Acte de mutation d'immeuble
+
+## Réponse
+
+*Budget, JO du 2006-04-20, page 1129*
+
+L'article 10 de la loi de finances pour 2004 a réformé en profondeur le régime fiscal des plus-values immobilières des particuliers, en le rendant plus simple mais également plus compréhensible pour le contribuable. La mesure consiste à décharger les contribuables de toute obligation déclarative. Le dépôt de la déclaration de plus-value et le paiement de l'impôt y afférent sont effectués par le notaire, à la conservation des hypothèques du lieu de situation du bien aliéné, à l'appui du document à publier, dans les deux mois de la date de l'acte. Ce nouveau régime s'applique pour l'imposition des plus-values réalisées lors des cessions à titre onéreux intervenues à compter du 1er janvier 2004. L'absence de déclaration entraîne le refus du dépôt ou de la formalité de l'enregistrement. Lorsque la plus-value est exonérée ou lorsque la cession ne donne pas lieu à imposition, aucune déclaration n'est déposée. L'acte de cession doit cependant préciser, sous peine de refus de dépôt ou de la formalité de l'enregistrement, la nature et le fondement de l'exonération ou de l'absence de taxation. Ces mentions doivent être portées dans la partie normalisée de l'acte énonçant les déclarations fiscales obligatoires et dans l'extrait d'acte (art. 255 de l'annexe III au code général des impôts). Lorsque l'impôt sur le revenu correspondant à la plus-value a été acquitté, le vendeur qui entend ultérieurement se prévaloir d'une mesure d'exonération, doit déposer une demande contentieuse auprès du centre des impôts du lieu de situation de l'immeuble. Cette demande n'est pas subordonnée au dépôt d'un acte notarié rectificatif auprès de la conservation des hypothèques.
