@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121134
+
+- Question : [SEQ060121134](seq060121134.md) — Financement des interventions des SDIS sur le réseau routier et autoroutier
+
+## Réponse
+
+*Intérieur, JO du 2006-04-20, page 1152*
+
+L'honorable parlementaire attire l'attention de M. le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire sur l'interprétation et l'application des textes relatifs au financement des interventions des SDIS sur le réseau routier et autoroutier prévu par l'article 125 de la loi n° 2002-276 du 27 février 2002 complétant l'article L. 1424-42 du code général des collectivités territoriales (CGCT). L'article L. 1424-42 du CGCT, modifié par l'article 125 de la loi n° 2002-276 du 27 février 2002, relative à la démocratie de proximité, permet désormais aux services départementaux d'incendie et de secours (SDIS) de demander aux sociétés concessionnaires d'ouvrages routiers et autoroutiers le remboursement des frais engagés par l'établissement public à l'occasion des interventions effectuées sur ce réseau. Cette disposition législative a fait l'objet de l'arrêté du 7 juillet 2004, conjoint au ministre de l'intérieur et de l'équipement, qui prévoit que les modalités de cette prise en charge sont fixées par une convention signée entre le SDIS et la société concessionnaire, sur la base des coûts forfaitaires précisés par la convention. C'est pourquoi, il appartient aux parties concernées de déterminer conjointement les conditions dans lesquelles cette prise en charge est assurée. En tout état de cause, les services compétents de la direction de la défense et de la sécurité civiles ont diligenté une enquête auprès des SDIS afin de faire le point sur les conditions d'application de cet arrêté au plan local et les éventuelles difficultés qui ont pu apparaître.
