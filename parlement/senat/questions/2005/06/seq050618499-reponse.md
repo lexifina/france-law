@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618499
+
+- Question : [SEQ050618499](seq050618499.md) — Situation des orphelins d'inspecteurs et contrôleurs du travail tués dans l'exercice de leur mission de contrôle
+
+## Réponse
+
+*Fonction publique, JO du 2006-04-20, page 1142*
+
+L'article L. 50-II du code des pensions fixe les conditions particulières de versement des pensions aux ayants droit de fonctionnaires tués en service et énumère les différentes catégories de fonctionnaires ouvrant droit à ces prestations spécifiques. Celles-ci ne peuvent, en effet, être inférieures au total des pensions dont le fonctionnaire disparu aurait pu bénéficier. Ce dispositif ne mentionne pas les contrôleurs et inspecteurs du travail. Toutefois, dans le cas particulier de Mme Sylvie Tremouille, les ayants cause (conjoint et orphelin) ont bénéficié d'une décision interministérielle exceptionnelle leur accordant le droit reconnu aux fonctionnaires cités à l'article L. 50-II du code des pensions. Une mesure de cette nature peut toujours être prise lors d'évènements tragiques et exceptionnels. C'est pourquoi, il n'est pas envisagé de recourir à une modification législative. Les ayants droit ont également bénéficié du capital décès de l'article D. 712-24 du code de la sécurité sociale, sous forme de trois versements annuels (2004, 2005 et 2006) d'un montant égal à chaque fois à une année de traitement brut perçu par le fonctionnaire disparu. Dans ces circonstances particulières, le capital décès représente, en effet, le triple de la prestation habituelle. En ce qui concerne M. Daniel Buffière, il n'avait pas la qualité de fonctionnaire, mais relevait de la Mutualité sociale agricole. Les ayants cause ont perçu le capital décès prévu par le code de la sécurité sociale (art. L. 361-1) ainsi qu'une rente accident du travail leur permettant de faire face à leurs difficultés matérielles.
