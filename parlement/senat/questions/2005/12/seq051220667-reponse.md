@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220667
+
+- Question : [SEQ051220667](seq051220667.md) — Imposition d'une redevance sur l'eau prélevée "sur ressources menacées" pour les communes de Brouderdorff et Niderviller
+
+## Réponse
+
+*Écologie, JO du 2006-04-20, page 1134*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant l'imposition d'une redevance sur l'eau majorée dans les communes de Brouderdorff et à Niderviller. La redevance de prélèvement est basée sur le décret du 14 septembre 1966 qui précise que « des redevances peuvent être réclamées auprès des personnes qui rendent l'action de l'agence nécessaire ou utile : soit qu'elles contribuent à la détérioration de la qualité de l'eau, soit qu'elles effectuent des prélèvements sur la ressource en eau (...) ». La majoration pour prélèvement dans une ressource menacée s'ajoute à la redevance de prélèvement. Elle est due à l'abaissement du niveau de la nappe des grès du trias inférieur, compte tenu de sa surexploitation liée aux exhaures miniers, aux prélèvements industriels et aux captages d'alimentation en eau potable. Depuis une longue période, les prélèvements sont en effet supérieurs au renouvellement de la nappe. La situation tend cependant à s'améliorer avec la réduction progressive de l'exhaure des mines. Les prévisions d'évolution soulignent un retour à l'équilibre avec une lente remontée de la nappe à partir de 2020. Par conséquent, la modulation de la redevance de prélèvement sera revue dès le 1er janvier 2007, pour la durée du IXe programme (2007-2012), afin de tenir compte de cette évolution. Elle devra également, le cas échéant, tenir compte de l'encadrement parlementaire lié à la loi sur l'eau et les milieux aquatiques, adoptée en première lecture par le Sénat le 14 avril 2005.
