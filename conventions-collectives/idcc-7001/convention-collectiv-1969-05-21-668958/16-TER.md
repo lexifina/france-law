@@ -1,0 +1,11 @@
+# Article 16 TER
+
+Compte tenu des spécificités locales ou propres à l'organisation de chaque entreprise, la fixation et les modalités d'accomplissement de la journée de solidarité instituée par la loi n° 2004-626 du 30 juin 2004 seront, dans la branche coopération bétail et viande, déterminées comme suit :
+
+A défaut d'accord collectif d'entreprise ou d'établissement ou dans les entreprises non dotées de délégué syndical, après consultation du comité d'entreprise ou, à défaut, des délégués du personnel s'ils existent, l'accomplissement de la journée de solidarité pourra s'effectuer :
+
+- soit par choix d'un jour précédemment non travaillé (sauf jour férié) ;
+
+- soit par imputation sur les compteurs de modulation à due concurrence de 7 heures ;
+
+- soit par recours au fractionnement en heures dans la limite de 7 heures.
