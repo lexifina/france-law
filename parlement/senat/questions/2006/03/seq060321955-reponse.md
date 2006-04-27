@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060321955
+
+- Question : [SEQ060321955](seq060321955.md) — Prix du lait
+
+## Réponse
+
+*Agriculture, JO du 2006-04-27, page 1200*
+
+L'honorable parlementaire a appelé l'attention du ministère de l'agriculture et de la pêche sur les mesures de soutien en faveur des producteurs laitiers dans le cadre de l'accord sur le prix du lait du 26 janvier 2006. Par la nomination d'un médiateur, M. Jean-Daniel Benard, l'Etat a encouragé le rapprochement des positions des familles professionnelles qui a permis la signature de cet accord fixant une recommandation interprofessionnelle sur l'évolution du prix du lait. Sur la base de cet accord, la baisse du prix du lait à la production est compensée pour la majorité des producteurs par l'aide directe laitière (ADL) qui a été versée par anticipation le 18 octobre 2005. L'ADL a représenté, pour l'année 2005, un montant global de 573 millions d'euros (soit 23,65 euros par 1 000 litres de lait versé à 105 000 producteurs et un montant moyen de 5 450 euros par producteur). En outre, les transformateurs, qui avaient demandé une prise en compte de la valorisation moindre des produits industriels, ont vu cette demande satisfaite. La fabrication de ces produits industriels redevient donc rentable, confortant ainsi la pérennité de cette activité et réduisant le risque d'un abandon de collecte. Cet accord redonne de la visibilité à la filière laitière ; cette visibilité est nécessaire pour poursuivre la modernisation de cette filière et pour reprendre la réflexion au sein du Centre national interprofessionnel de l'économie laitière (CNIEL) sur les évolutions indispensables. Une des réflexions essentielles portera sur la définition d'un contrat cadre de collecte entre producteurs et transformateurs pour encadrer leurs relations commerciales et sécuriser la situation des producteurs face au risque de dénonciation de leurs relations avec la laiterie à laquelle ils livrent leur lait.
