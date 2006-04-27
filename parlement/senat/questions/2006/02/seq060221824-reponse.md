@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221824
+
+- Question : [SEQ060221824](seq060221824.md) — Chaînes télévisées diffusées en France sans l'accord du CSA
+
+## Réponse
+
+*Culture, JO du 2006-04-27, page 1204*
+
+A la suite de la diffusion en novembre 2003 par la chaîne Al Manar d'une série intitulée « Diaspora » au caractère antisémite, le Gouvernement a décidé de renforcer les pouvoirs de contrôle et de sanction du Conseil supérieur de l'audiovisuel (CSA) à l'égard des services de télévision diffusés par satellite. La loi n° 2004-669 du 9 juillet 2004 relative aux communications électroniques et aux services de communication audiovisuelle a en conséquence étendu les pouvoirs de sanction de l'autorité de régulation aux opérateurs de réseaux satellitaires. La faculté lui a été également reconnue de saisir en référé le président de la section du contentieux du Conseil d'Etat pour faire cesser la diffusion d'un service de télévision dont les programmes portent atteinte à l'ordre public. Sur cette base, le CSA a ainsi successivement obtenu la fin de la diffusion sur le territoire français des services de télévision Al Manar et Sahar 1. La loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers a également supprimé le conventionnement des services de télévision extra-européens dans la mesure où cette procédure avait pu apparaître comme constituant un frein à la mise en oeuvre des procédures précédentes. Lorsque de tels programmes sont diffusés par des distributeurs de services français, comme TPS, le CSA dispose également des moyens lui permettant d'enjoindre à ces opérateurs commerciaux de ne plus proposer de tels programmes à leurs abonnés. Le CSA a ainsi été doté des moyens les plus larges pour empêcher la diffusion en France de programmes incitant à la haine raciale ou à caractère antisémite ou raciste.
