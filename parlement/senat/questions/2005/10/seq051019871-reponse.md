@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019871
+
+- Question : [SEQ051019871](seq051019871.md) — Dispositif du chèque-emploi entreprises
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-04-27, page 1229*
+
+L'ordonnance n° 2003-1213 du 18 décembre 2003 a institué un « titre emploi entreprise », destiné à simplifier les obligations en matière sociale des entreprises à l'occasion de l'embauche et de l'emploi de salariés. Ce titre emploi entreprise (TEE) était proposé, à titre facultatif, aux entreprises de dix salariés au plus ou aux entreprises, sans conditions d'effectif, embauchant des salariés pour une courte durée, moins de cent jours par an. Ce dispositif de simplification a, en effet, suscité l'opposition d'un groupe d'experts-comptables. C'est pourquoi un nouveau décret du 10 août 2005 a réservé le titre emploi entreprise aux seuls emplois occasionnels, pour l'emploi de salariés moins de cent jours ou sept cents heures par an. Par ailleurs, l'ordonnance n° 2005-903 du 2 août 2005 prise dans le cadre du plan d'urgence pour l'emploi et complétée par un décret du 26 août 2005 a institué un « chèque-emploi pour les très petites entreprises » (CETPE), destiné à simplifier l'emploi permanent dans les entreprises de cinq salariés au plus. Le dispositif du CETPE est très proche du TEE, à l'exception de l'effectif de l'entreprise et du fait que le CETPE peut comporter une formule de chèque pour rémunérer le salarié. L'élaboration de cette ordonnance a été précédée d'une phase de discussion avec le Conseil supérieur de l'ordre des experts-comptables qui a conduit à la signature par le conseil de l'ordre et les pouvoirs publics d'une convention comportant des engagements réciproques. En outre, l'ordonnance comporte une disposition permettant aux experts-comptables de proposer le CETPE à leurs clients. Le « chèque-emploi pour les très petites entreprises » a été mis en oeuvre au 1er septembre 2005 et, à ce jour, a enregistré près de 19 000 adhésions.
