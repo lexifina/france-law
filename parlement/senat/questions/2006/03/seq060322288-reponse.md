@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322288
+
+- Question : [SEQ060322288](seq060322288.md) — Précisions à fournir lors de la publication des sondages politiques
+
+## Réponse
+
+*Intérieur, JO du 2006-04-27, page 1227*
+
+La loi du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion a pour objet de réguler la réalisation et la publication des sondages portant sur les intentions de vote aux élections politiques. Est notamment prévue par cette loi, dans son article 2, l'obligation de mentionner lors de la publication d'un sondage le nom et la qualité de son acheteur. L'article 3 de la loi du 19 juillet 1977 prévoit en outre qu'une notice doit être déposée auprès de la commission des sondages avant la publication ou la diffusion de tout sondage. Celle-ci comprend l'objet du sondage, la méthode d'interrogation utilisée, le choix et la composition de l'échantillon, le texte intégral des questions posées, la proportion des personnes n'ayant pas répondu à chacune des questions, les limites d'interprétation des résultats publiés et, le cas échéant, la méthode utilisée pour en déduire les résultats de caractère indirect qui seraient publiés. Toute personne dispose du droit de consulter cette notice et la commission des sondages a le pouvoir d'ordonner la publication, concomitamment au sondage, d'une ou plusieurs des indications y figurant. Dans les deux mois précédant un scrutin, la commission peut également contraindre tout diffuseur d'un sondage contrevenant aux dispositions de la loi à publier une mise au point dans des conditions de publicité équivalentes à celles données au sondage. Avec ces différentes possibilités, dont elle n'hésite pas à faire usage, la commission des sondages, autorité administrative indépendante, dispose de moyens suffisants pour garantir une bonne information du public sur la fiabilité des sondages publiés. Le Gouvernement n'envisage pas de modification de la législation sur ce point.
