@@ -1,0 +1,110 @@
+# Délibération portant avis sur le projet d'arrêté présenté par le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, et créant un traitement de données à caractère personnel relatif aux espaces numériques de travail "ENT".
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-104
+- Date : 2006-04-27
+- Publication : 2019-11-13
+- NOR : CNIX0609751X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652026
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie le 20 janvier 2006 par le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche d'une demande d'avis portant sur un projet d'arrêté créant un traitement de données à caractère personnel relatif aux espaces numériques de travail "ENT" ;
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et notamment ses articles 27-II, 4° et 27-III ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Après avoir entendu M. Francis Delattre, commissaire, en son rapport et Mme Pascale Compagnie, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+Le Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche a saisi la CNIL d'une demande d'avis, portant sur un projet d'arrêté créant un traitement de données à caractère personnel relatif aux espaces numériques de travail (ENT), conformément aux dispositions de l'article 27-II, 4° de la loi du 6 janvier 1978 modifiée.
+
+Destinés aux élèves et à leurs parents, aux étudiants, aux enseignants, aux personnels administratifs et plus généralement à tous les membres de la communauté éducative de l'établissement scolaire et à l'ensemble de la communauté des établissements d'enseignement supérieur, les ENT sont des sites web portail permettant d'accéder, via un point d'entrée unique et sécurisé, à un bouquet de services numériques.
+
+Le Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche indique que le déploiement des ENT est prioritaire dans la mesure où ils participent à l'apprentissage et à la maîtrise des nouvelles technologies de l'information et de la communication. La Commission considère à cet égard que la mise en oeuvre des ENT doit contribuer à la sensibilisation des enseignants, des élèves et de leurs parents aux principes de la protection des données à caractère personnel.
+
+Afin de promouvoir l'implantation d'ENT, le Ministère a établi un schéma directeur appelé "Schéma Directeur des Espaces Numériques de Travail (SDET)" qui a pour objectif de fournir aux écoles, établissements scolaires, établissements d'enseignement supérieurs, inspections académiques, rectorats, aux collectivités territoriales, éditeurs de solutions ENT, éditeurs de services en ligne et de contenus et prestataires de services :
+
+- des éléments de choix d'un espace numérique de travail,
+
+- un guide méthodologique pour leur mise en oeuvre,
+
+- un ensemble de préconisations fonctionnelles organisationnelles, techniques pour les guider dans la réalisation ou l'adaptation de produits et de services.
+
+La Commission relève que ce document fera l'objet d'une mise à jour annuelle dans une perspective d'adaptation aux évolutions des réglementations, des technologies et des usages.
+
+La Commission souligne que si cette mise à jour a pour conséquence de modifier les dispositions de l'arrêté portant autorisation du traitement, un nouveau projet d'arrêté devra lui être soumis. Dans tous les cas, elle demande au ministère à être consultée sur les nouvelles versions du Schéma Directeur des Espaces Numériques de Travail.
+
+Sur le champ d'application du dispositif ENT
+
+Les ENT peuvent être implantés dans les écoles, les établissements publics locaux d'enseignement et dans les établissements d'enseignement supérieur.
+
+Un projet ENT étant au carrefour des compétences éducatives de plusieurs institutions publiques qui sont a minima une autorité académique (services déconcentrés de l'Etat), l'établissement scolaire et une collectivité locale (commune, structure intercommunale, département, région), la Commission recommande qu'une convention soit élaborée entre le responsable de traitement, à savoir le chef de l'établissement scolaire ou universitaire et les différents partenaires du projet ENT afin de définir leurs rôles respectifs au sein du projet.
+
+Les ENT s'adressent à l'ensemble des personnes exerçant une activité au sein d'un établissement scolaire, à savoir les élèves, les parents d'élèves, les étudiants, les enseignants, les personnels administratifs, techniques et d'encadrement des établissements d'enseignement.
+
+Sur la procédure de formalités applicable
+
+Le projet présenté par le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche porte sur la mise en oeuvre d'un téléservice mis à disposition des usagers de la communauté éducative de l'enseignement scolaire et de l'enseignement supérieur préalablement dotés d'un identifiant propre au système. Ce téléservice relève de la procédure d'autorisation par arrêté pris après avis de la CNIL conformément à l'article 27-II-4° de la loi du 6 janvier 1978 modifiée.
+
+La Commission prend acte que l'article 7 du projet d'arrêté fait référence à un acte réglementaire unique, conformément aux dispositions de l'article 27-III. Dès lors, chaque établissement de l'enseignement scolaire ou supérieur décidant de l'implantation d'un ENT devra procéder auprès de la CNIL à un engagement de conformité. Cette déclaration faite par le responsable de l'établissement l'engagera à respecter les dispositions prévues dans l'arrêté et notamment le Schéma Directeur des Espaces Numériques de Travail et ses annexes, les finalités, les droits des personnes et les mesures de sécurité nécessaires à la protection de données à caractère personnel.
+
+Sur les finalités du traitement
+
+Les ENT ont pour objet de proposer à la communauté éducative des contenus à vocation pédagogique et éducative ainsi que de diffuser des informations administratives ou relatives à la vie scolaire et au fonctionnement de l'établissement. Les finalités poursuivies par ce traitement sont légitimes dès lors que toutes les garanties sont prises afin que chaque catégorie d'utilisateur ne puisse accéder qu'aux seules informations le concernant.
+
+Sur les données à caractère personnel traitées
+
+La Commission prend acte de ce que les données à caractère personnel traitées par l'application ENT sont d'une part, les données nécessaires à la création d'un compte ENT issues de systèmes d'information mis en oeuvre dans le cadre de la gestion administrative des élèves, des étudiants, des personnels et des apprentis et d'autre part, les données à caractère pédagogique, administrative et éducative diffusées et produites dans le cadre de l'utilisation d'un compte ENT.
+
+Sur les destinataires des données à caractère personnel et la gestion des accès aux comptes ENT
+
+La Commission prend acte de que les destinataires des données à caractère personnel sont exclusivement les utilisateurs habilités des ENT.
+
+La Commission relève que l'alinéa 2 de l'article 5 du projet d'arrêté prévoit que chaque utilisateur ne peut accéder qu'aux seules informations concernant son environnement, son rôle et ses fonctions. Elle estime que cette disposition trop large devrait être ainsi rédigée "Chaque utilisateur ne peut accéder qu'aux seules informations le concernant".
+
+Sur l'information des personnes
+
+La Commission relève que l'article 5 du projet d'acte réglementaire prévoit que le droit d'accès et de rectification aux données s'exerce sur simple demande, par voie postale ou électronique, des intéressés auprès des chefs d'établissements, des présidents ou directeurs d'établissements d'enseignement supérieur, à savoir les responsables des traitements mis en oeuvre dans le cadre d'un ENT. L'article 8 précise également que les dispositions de l'arrêté doivent être accessibles à chaque utilisateur à partir de la page d'accueil de l'ENT.
+
+La Commission rappelle toutefois que chaque responsable de traitement devra s'assurer que les mentions d'information prescrites à l'article 32 de la loi du 6 janvier 1978 modifiée en août 2004 ont été précisées sur la page d'accueil du portail ENT et qu'elles ont été communiquées lors de la phase de création d'un compte ENT.
+
+La Commission demande à cet égard au Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche que des modèles de mentions d'information soient prévus dans son Schéma Directeur des Espaces Numériques de Travail.
+
+Il appartient également à chaque responsable de traitement d'informer les personnes concernées de la transmission de leurs données à caractère personnel dans l'annuaire ENT et de leur offrir la possibilité de s'opposer à bénéficier des services numériques prévus dans le cadre de l'utilisation d'un ENT.
+
+Enfin, la Commission appelle l'attention de chaque responsable de traitement sur la nécessité d'encadrer les conditions d'utilisation de la messagerie électronique afin d'éviter que celle-ci ne soit utilisée à des fins étrangères à celles auxquelles elle est destinée.
+
+Sur la durée de conservation des données
+
+L'article 6 du projet d'arrêté dispose que les données à caractère personnel traitées dans le cadre d'un compte ENT sont mises à jour au début de chaque année scolaire ou universitaire et, en tout état de cause, sont supprimées dans les trois mois suivant la fermeture du compte ENT. Il précise également que les contributions présentant un caractère pédagogique, scientifique ou informatif peuvent être conservées sauf opposition de la personne concernée.
+
+Ces dispositions n'appellent pas d'observations particulières de la Commission.
+
+Sur les mesures prises pour assurer la sécurité du dispositif
+
+La Commission relève que les mesures prises pour assurer la sécurité du dispositif sont définies dans différentes annexes du Schéma Directeur des Espaces Numériques de Travail.
+
+Elle prend également acte de ce que le projet d'acte réglementaire précise que la déclaration de conformité engage le responsable d'un établissement scolaire ou universitaire à assurer les mesures de sécurité nécessaires à la protection des données à caractère personnel.
+
+A cet égard, la CNIL demande au ministère de prendre toute mesure de nature à vérifier que les établissements concernés respectent les exigences de sécurité qu'il a définies et qu'il en tienne informé la Commission.
+
+La Commission appelle également l'attention des responsables de traitement sur la nécessité de sensibiliser les utilisateurs des ENT aux mesures élémentaires de sécurité telles que la nondivulgation de leurs identifiants de connexion à leur compte ENT.
+
+Concernant les mesures d'authentification, la Commission considère qu'une authentification forte doit être prévue si la mise à jour et la consultation des notes par les enseignants et les utilisateurs sont entièrement dématérialisées.
+
+Concernant la confidentialité des échanges de données, la Commission estime que les échanges de données doivent être intégralement chiffrés.
+
+Par ailleurs, la Commission relève que la sécurisation des Web Services n'est pas envisagée à court terme compte tenu de la complexité de leur mise en oeuvre. Cependant, considérant que la sécurité des Web Services est un élément important qui vise à renforcer la sécurité globale d'un portail ENT, la Commission estime que le ministère devrait prévoir un délai pour la mise en oeuvre des dispositifs de sécurisation des Web Services.
+
+Enfin, la Commission demande que le ministère lui transmette, dans les meilleurs délais, l'annexe relative à la stratégie d'exploitation qui doit définir une politique d'exploitation des traces et préciser les profils d'habilitation des personnels chargés de l'administration du système informatique et le cadre dans lequel les actions de maintenance logicielle et matérielle sont accomplies.
+
+Le président Alex TURK.
