@@ -1,5 +1,7 @@
 # Article Annexe (partie 3)
 
+LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSMETIQUES
+
 NUMÉRO D'ORDRE
 
 |
@@ -2189,22 +2191,6 @@ Distillats sous vide (pétrole) (n° CAS 70592-78-8).
 |
 
 Distillats sous vide (pétrole), résidus de pétrole (n° CAS 68955-27-1).
-
-|
-
-615
-
-|
-
-Distillats supérieurs (goudron de houille), exempts de fluorène (n° CAS 84989-10-6), contenant >0,005 % m/m de benzo[a]pyrène.
-
-|
-
-616
-
-|
-
-Distillats supérieurs (goudron de houille), riches en fluorène (n° CAS 84989-11-7), contenant >0,005 % m/m de benzo[a]pyrène.
 
 |
 
@@ -5455,3 +5441,9 @@ Vinclozoline ; N-3,5-dichlorophényl-5-méthyl-5-vinyl-1,3oxazolidine-2,4-dione 
 Zirame (n° CAS 137-30-4).
 
 |
+
+687
+
+|
+
+Dinitrotoluène, qualité technique (n° CAS : 121-14-2) |
