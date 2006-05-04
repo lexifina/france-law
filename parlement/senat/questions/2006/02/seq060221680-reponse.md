@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221680
+
+- Question : [SEQ060221680](seq060221680.md) — Rémunération du plan d'épargne logement
+
+## Réponse
+
+*Économie, JO du 2006-05-04, page 1273*
+
+L'article 10 de la loi de financement de la sécurité sociale pour 2006 (loi n° 2005-1579 du 19 décembre 2005) a modifié le régime social des plans d'épargne logement (PEL) dont la durée contractuelle est échue. Cette durée contractuelle, fixée par l'article R. 315-28 du code de la construction et de l'habitation, est de dix ans pour les plans ouverts à compter du 1er avril 1992, ou est celle prévue par le contrat initial ou par un avenant conclu avant le 1er avril 1992 pour les plans ouverts avant cette dernière date. Au-delà de ce terme contractuel, le plan peut être conservé par son titulaire, mais ce dernier ne peut plus y effectuer de nouveaux versements. En outre, les sommes figurant sur le plan, qui demeurent rémunérées par la banque, ne produisent plus ni prime d'épargne ni droits à prêts. L'article 10 de la loi de financement de la sécurité sociale pour 2006, en anticipant, à compter du 1er janvier 2006, le paiement des prélèvements sociaux dus sur les intérêts des PEL dès la date du dixième anniversaire du plan ou, s'il est différent, dès son terme contractuel, ne porte pas atteinte à l'économie des contrats légalement conclus. En effet, d'une part, le régime social prévu par le législateur pour les intérêts des PEL ne constitue pas une clause contractuelle de ce plan et, d'autre part, la modification apportée au régime social des PEL ne concerne que ceux arrivés à échéance, et n'a donc pas d'effet rétroactif. En outre, cette mesure ne créée pas d'imposition supplémentaire aux prélèvements sociaux, mais ne fait qu'anticiper leur paiement qui intervenait, jusqu'à présent, lors du dénouement du plan.
