@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322002
+
+- Question : [SEQ060322002](seq060322002.md) — Situation des polycotisants frontaliers
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-05-04, page 1290*
+
+La coordination entre les régimes de sécurité sociale des différents Etats membres est assurée par le règlement communautaire n° 1408/71. Concernant les pensions de vieillesse, ce règlement prévoit la totalisation des périodes accomplies dans chaque Etat pour l'ouverture et le calcul du droit. Mais chaque Etat ne rémunère ensuite que la partie de la carrière d'assurance accomplie sous sa législation, calculée au vu des périodes accomplies sous sa législation. Le règlement ne vise pas en effet à harmoniser les législations nationales, chaque Etat calcule sa part de pension en suivant ses propres règles nationales. La prise en compte des périodes effectuées dans d'autres Etats est limitée par les dispositions de l'article 47 du règlement, qui dispose que si la législation d'un Etat prévoit que le calcul des prestations repose sur un gain ou des cotisations versées, l'institution compétente ne se basera que sur les seuls gains ou cotisations constatées pendant les périodes accomplies sous la législation qu'elle applique. La législation française fait dépendre le montant de la pension, du salaire annuel moyen calculé à terme à partir des vingt-cinq meilleures années d'assurance. En outre, les régimes d'assurance vieillesse de nos partenaires de l'Union européenne présentent des modes de liquidation très différents de celui du système français, à l'exemple du régime allemand où le montant de la pension est déterminé à partir de trois éléments : la somme des points de rémunération personnels, le multiplicateur lié à l'âge de départ à la retraite et la valeur actuelle de la pension. Une extension des dispositions de l'article R. 173-4-3 du code de la sécurité sociale, privée de sens dans un tel cadre, n'est par conséquent pas envisagée.
