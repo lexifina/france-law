@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612555
+
+- Question : [SEQ040612555](seq040612555.md) — Affaires étrangères : rythme des mutations de personnel à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-05-04, page 1262*
+
+Le changement de résidence des personnels expatriés est inhérent à l'existence d'un réseau diplomatique : l'expérience de toutes les diplomaties confirme cette nécessité d'un équilibre entre les personnels locaux et le personnel d'encadrement, expatrié dans un même poste pour une durée limitée. Cette mobilité géographique est une contrainte pour les agents, mais elle est aussi vécue comme l'un des traits originaux de la condition diplomatique et consulaire. Le coût des changements de résidence dépend de plusieurs facteurs. 1. Le mode de prise en charge, qui a été à plusieurs reprises réformé au fur et à mesure de l'évolution de l'économie des transports internationaux ; le département examine actuellement une simplification du dispositif actuel. 2. L'effectif global auquel s'applique la mobilité géographique ; à cet égard, la baisse régulière des effectifs du ministère, en particulier les effectifs expatriés dans le réseau, garantit une réduction substantielle de la dépense. Il en va ainsi actuellement de l'impact de la baisse de l'effectif d'assistants techniques. 3. La durée des fonctions dans un poste : celle-ci doit prendre en compte la durée dans les fonctions de l'affectation, mais aussi la succession des affectations à l'étranger. 4. L'effectif susceptible d'être affecté dans des fonctions spécifiques, ce qui conduit à ralentir ou à accélérer la rotation. Au total, les temps d'affectation varient selon les catégories d'agents et les postes. Leur détermination ne peut obéir exclusivement à des considérations financières, même si la recherche de marges de manoeuvre financières est une préoccupation constante.
