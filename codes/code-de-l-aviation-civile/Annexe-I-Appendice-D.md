@@ -1,5 +1,5 @@
-# Article Annexe I : Appendice D
+# Article Annexe I : Appendice 4
 
-TABLEAU DES CONDITIONS METEOROLOGIQUES DE VOL A VUE ET LIMITATIONS DE VITESSE
+BALLONS LIBRES NON HABITES
 
-(tableaux non reproduits).
+RESERVE

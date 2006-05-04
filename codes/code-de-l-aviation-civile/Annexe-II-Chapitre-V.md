@@ -1,105 +1,115 @@
-# Article Annexe II : Chapitre V
+# Article Annexe II : Chapitre 5
 
-CHAPITRE V : Service d'alerte
+Service d'alerte
 
-5.1. Bénéficiaires.
+5.1 Mise en œuvre
 
-Le service d'alerte est assuré :
+5.1.1 Le service d'alerte est assuré :
 
-a) A tout aéronef en vol contrôlé ;
+a) à tous les aéronefs auxquels est assuré le service du contrôle de la circulation aérienne ;
 
-b) A tout autre aéronef ayant communiqué un plan de vol ;
+b) à tout autre aéronef ayant communiqué un plan de vol ;
 
-c) A tout aéronef n'ayant pas communiqué de plan de vol, lorsqu'un organisme de la circulation aérienne estime qu'il possède suffisamment d'éléments lui permettant de douter de la sécurité de l'aéronef ou de ses occupants ;
+c) à tout aéronef que l'on sait ou que l'on croit être l'objet d'une intervention illicite ;
 
-d) A tout aéronef que l'on sait ou croit être l'objet d'une intervention illicite.
+d) à tout aéronef n'ayant pas communiqué de plan de vol, lorsqu'un organisme de la circulation aérienne estime qu'il possède suffisamment d'éléments lui permettant de douter de la sécurité de l'aéronef ou de ses occupants.
 
-5.2. Organismes chargés d'assurer le service d'alerte.
+5.1.2 Les centres d'information de vol ou les centres de contrôle régional servent de centres de rassemblement de tous les renseignements relatifs à un aéronef en difficulté se trouvant dans la région d'information de vol ou dans la région de contrôle intéressée et transmettent ces renseignements au centre de coordination de sauvetage intéressé.
 
-5.2.1. Les centres de contrôle régional ou les centres d'information de vol servent de centres de rassemblement de tous les renseignements relatifs à un aéronef en difficulté se trouvant dans la région d'information de vol ou dans la région de contrôle intéressée et transmettent ces renseignements au centre de coordination de sauvetage intéressé.
+5.1.3 Lorsqu'un aéronef se trouvant sous le contrôle d'une tour de contrôle d'aérodrome, d'un organisme de contrôle d'approche ou évoluant dans la circulation d'aérodrome d'un aérodrome doté d'un organisme AFIS, est en difficulté, cette tour ou ces organismes avertit immédiatement le centre d'information de vol ou le centre de contrôle régional responsable, qui prévient à son tour le centre de coordination de sauvetage; toutefois, si la nature du cas d'urgence est telle que la notification est superflue, il n'est pas nécessaire d'avertir le centre de contrôle régional, le centre d'information de vol ou le centre de coordination de sauvetage.
 
-5.2.2. Lorsqu'un aéronef se trouvant sous le contrôle d'une tour de contrôle ou d'un centre de contrôle d'approche ou évoluant dans la circulation d'aérodrome d'un aérodrome doté d'un organisme AFIS est en difficulté, cette tour de contrôle, ce centre de contrôle d'approche ou cet organisme AFIS avertit immédiatement le centre de contrôle régional ou le centre d'information de vol désigné qui prévient à son tour le centre de coordination de sauvetage intéressé.
+§5.1.3 - Différence OACI - voir tableau récapitulatif
 
-Toutefois, si la nature du cas d'urgence est telle que la notification serait superflue, il ne sera pas nécessaire d'avertir le centre de contrôle régional, le centre d'information de vol ou le centre de coordination de sauvetage.
+5.1.3.1 Néanmoins, si l'urgence de la situation l'exige, la tour de contrôle d'aérodrome, l'organisme de contrôle d'approche, ou l'organisme AFIS responsable alerte d'abord les organismes locaux de secours susceptibles d'apporter une aide immédiate et prend les dispositions nécessaires pour déclencher leur intervention.
 
-5.2.3. Néanmoins, si l'urgence de la situation l'exige, la tour de contrôle d'aérodrome, le centre de contrôle d'approche ou l'organisme AFIS responsable alerte d'abord les organismes locaux de secours susceptibles d'apporter une aide immédiate et prend les dispositions nécessaires pour déclencher leur intervention.
+§5.1.3.1 - Différence OACI - voir tableau récapitulatif
 
-5.3. Mise en alerte des centres de coordination de sauvetage.
+5.2 Alerte des centres de coordination de sauvetage
 
-5.3.1. Sans préjudice des autres circonstances qui peuvent justifier de telles mesures, un aéronef sera considéré comme étant en difficulté et les centres de coordination de sauvetage en seront avisés lorsque les organismes de la circulation aérienne se trouvent en présence de l'un des cas suivants :
+5.2.1 Sans préjudice des autres circonstances qui peuvent justifier une telle mesure, les organismes des services de la circulation aérienne, sauf dans le cas indiqué en 5.5.1, alertent les centres de coordination de sauvetage dès qu'un aéronef est considéré comme étant en difficulté, dans les cas suivants :
 
-1. Phase d'incertitude (Incerfa) :
+a) Phase d'incertitude :
 
-a) Lorsque aucune communication n'a été reçue d'un aéronef, après un certain délai qui suit l'heure à laquelle une communication aurait dû être reçue ou l'heure à laquelle a été effectuée la première tentative infructueuse de communication avec cet aéronef, si cette dernière heure est antérieure à la première ; ou
+1) lorsqu'aucune communication n'a été reçue d'un aéronef dans les 30 minutes qui suivent l'heure à laquelle une communication aurait dû être reçue ou l'heure à laquelle a été effectuée la première tentative infructueuse de communication avec cet aéronef, si cette dernière heure est antérieure à la première, ou
 
-b) Lorsqu'un aéronef n'arrive pas, après un certain délai qui suit la dernière heure d'arrivée prévue notifiée aux organismes de la circulation aérienne ou la dernière heure d'arrivée calculée par ces organismes si cette dernière heure est postérieure à la première,
+2) lorsqu'un aéronef n'arrive pas dans les 30 minutes qui suivent la dernière heure d'arrivée prévue notifiée aux organismes des services de la circulation aérienne ou la dernière heure d'arrivée prévue calculée par ces organismes, si cette dernière heure est postérieure à la première,
 
 à moins qu'il n'existe aucun doute quant à la sécurité de l'aéronef et de ses occupants.
 
-2. Phase d'alerte (Alerfa) :
+b) Phase d'alerte :
 
-a) Lorsque, après la phase d'incertitude, les tentatives pour entrer en communication avec l'aéronef ou les demandes de renseignements à d'autres sources appropriées n'ont apporté aucune information sur l'aéronef ; ou
+1) lorsque, après la phase d'incertitude, les tentatives pour entrer en communication avec l'aéronef ou les demandes de renseignements à d'autres sources appropriées n'ont apporté aucune information sur l'aéronef, ou
 
-b) Lorsqu'un aéronef qui a reçu l'autorisation d'atterrir n'atterrit pas dans les cinq minutes qui suivent l'heure prévue d'atterrissage et qu'il n'a pas été établi de nouvelle communication avec l'aéronef ; ou
+2) lorsqu'un aéronef qui a reçu l'autorisation d'atterrir n'atterrit pas dans les 5 minutes qui suivent l'heure prévue d'atterrissage et qu'il n'a pas été établi de nouvelle communication avec l'aéronef, ou
 
-c) Lorsque les renseignements reçus indiquent que le fonctionnement de l'aéronef est compromis, sans que, toutefois, l'éventualité d'un atterrissage forcé soit probable,
+3) lorsque les renseignements reçus indiquent que le fonctionnement de l'aéronef est compromis, sans que, toutefois, l'éventualité d'un atterrissage forcé soit probable,
 
-à moins que des indices concluants apaisent toute appréhension quant à la sécurité de l'aéronef et de ses occupants ; ou
+à moins que des indices concluants apaisent toute appréhension quant à la sécurité de l'aéronef et de ses occupants, ou
 
-d) Lorsque l'on sait ou que l'on croit qu'un aéronef est l'objet d'une intervention illicite.
+4) lorsque l'on sait ou que l'on croit qu'un aéronef est l'objet d'une intervention illicite.
 
-3. Phase de détresse (Detresfa) :
+c) Phase de détresse :
 
-a) Lorsque, après la phase d'alerte, l'échec de nouvelles tentatives pour entrer en communication avec l'aéronef et de nouvelles demandes de renseignements plus largement diffusées indiquent que l'aéronef est probablement en détresse ; ou
+1) lorsque, après la phase d'alerte, l'échec de nouvelles tentatives pour entrer en communication avec l'aéronef et de nouvelles demandes de renseignements plus largement diffusées indiquent que l'aéronef est probablement en détresse, ou
 
-b) Lorsque l'on estime que l'aéronef doit avoir épuisé son combustible ou que la quantité qui lui reste est insuffisante pour lui permettre de se poser en lieu sûr ; ou
+2) lorsque l'on estime que l'aéronef a épuisé son carburant ou que la quantité qui lui reste est insuffisante pour lui permettre de se poser en lieu sûr, ou
 
-c) Lorsque les renseignements reçus indiquent que le fonctionnement de l'aéronef est compromis au point qu'un atterrissage forcé est probable ; ou
+3) lorsque les renseignements reçus indiquent que le fonctionnement de l'aéronef est compromis au point qu'un atterrissage forcé est probable, ou
 
-d) Lorsque l'on a été informé ou qu'il est à peu près certain que l'aéronef a effectué un atterrissage forcé ou est sur le point de le faire,
+4) lorsque l'on a été informé ou qu'il est à peu près certain que l'aéronef a effectué un atterrissage forcé ou est sur le point de le faire, à moins qu'il ne soit à peu près certain que l'aéronef et ses occupants ne sont pas menacés d'un danger grave et imminent et n'ont pas besoin d'une aide immédiate.
 
-à moins qu'il ne soit à peu près certain que l'aéronef et ses occupants ne sont pas menacés d'un danger grave et imminent et n'ont pas besoin d'une aide immédiate.
+5.2.2 La notification comporte ceux des renseignements suivants dont on dispose, présentés dans l'ordre ci-après :
 
-5.3.2. Les règles de déclenchement des phases d'urgence applicables par les organismes de la circulation aérienne, en particulier les délais de déclenchement des phases d'urgence en fonction des circonstances sont précisées par arrêté du ministre chargé de l'aviation civile.
+a) INCERFA, ALERFA et DETRESFA, selon la phase d'urgence ;
 
-5.3.3. La notification des phases d'urgence auprès des centres de coordination de sauvetage comporte ceux des renseignements dont disposent les organismes de la circulation aérienne présentés dans l'ordre ci-après :
+b) organisme et personne qui appelle ;
 
-a) Selon la phase, Incerfa, Alerfa ou Detresfa ;
+c) nature du cas d'urgence ;
 
-b) Organisme émetteur ;
+d) renseignements significatifs tirés du plan de vol ;
 
-c) Nature du cas d'urgence ;
+e) organisme ayant établi le dernier contact, heure et moyen utilisé ;
 
-d) Renseignements essentiels tirés du plan de vol ;
+f) dernier compte rendu de position et façon dont il a été établi ;
 
-e) Dernière communication avec l'aéronef en précisant l'organisme, l'heure, la fréquence radio ;
+g) couleur et signes distinctifs de l'aéronef ;
 
-f) Dernière position de l'aéronef en précisant le lieu, l'heure et les moyens de localisation ;
+h) marchandises dangereuses transportées comme fret ;
 
-g) Couleur et signes distinctifs de l'aéronef ;
+i) mesures prises par l'organisme qui adresse la notification ;
 
-h) Mesures prises pour faciliter les recherches ;
+j) autres observations utiles.
 
-i) Autres observations.
+5.2.2.1 Ceux des renseignements spécifiés en 5.2.2 qui ne sont pas disponibles au moment où la notification est adressée au centre de coordination de sauvetage sont demandés par un organisme de la circulation aérienne avant la déclaration d'une phase de détresse, si l'on est à peu près certain que cette phase est déclarée.
 
-5.3.3.1. Les renseignements spécifiés en 5.3.3 qui ne sont pas disponibles au moment où la notification est adressée au centre de coordination de sauvetage sont demandés par l'organisme de la circulation aérienne avant la déclaration d'une phase de détresse, si l'on est à peu près certain que cette phase sera déclarée. Ces renseignements doivent comprendre l'autonomie, le nombre de personnes à bord et les fréquences utilisées pour la détresse dont disposent les survivants, lorsque ces renseignements qui figurent dans le plan de vol n'ont pas été transmis.
+5.2.3 Outre la notification indiquée en 5.2.1, le centre de coordination de sauvetage reçoit sans délai :
 
-5.3.3.2. Dans le cas d'un vol non contrôlé, les renseignements sur la progression du vol reçus par l'organisme de la circulation aérienne desservant la région d'information de vol dans laquelle se trouve l'aéronef seront conservés afin d'être disponibles en cas de besoin pour les opérations de recherches et de sauvetage.
+a) tous renseignements supplémentaires utiles, particulièrement en ce qui concerne l'évolution de l'état d'urgence, suivant les différentes phases; ou
 
-5.3.4. Outre la notification dont il est question en 5.3.3 les organismes de la circulation aérienne transmettent sans délai, aux centres de coordination de sauvetage :
+b) l'indication que l'état d'urgence n'existe plus.
 
-a) Tous renseignements supplémentaires utiles, particulièrement en ce qui concerne l'évolution de l'état d'urgence, suivant les différentes phases ; ou
+Note. - L'annulation des mesures prises par le centre de coordination de sauvetage est de la responsabilité de ce centre.
 
-b) L'indication que l'état d'urgence n'existe plus.
+5.3 Utilisation des installations de télécommunications
 
-Note. - Il incombe au centre de coordination de sauvetage d'annuler les mesures dont il a pris l'initiative.
+Les organismes des services de la circulation aérienne utilisent, s'il y a lieu, toutes les installations de télécommunications disponibles, afin de tenter d'entrer et de rester en communication avec l'aéronef en difficulté et d'obtenir des nouvelles de cet aéronef.
 
-5.4. Notification à l'exploitant.
+5.4 Repérage sur carte de la position de l'aéronef en difficulté
 
-5.4.1. Lorsqu'un centre de contrôle régional ou un centre d'information de vol estime qu'un aéronef se trouve dans une phase d'incertitude ou d'alerte il en avise l'exploitant, lorsque cela est possible, avant d'alerter le centre de coordination de sauvetage. Si l'aéronef se trouve dans une phase de détresse c'est le centre de coordination de sauvetage qui doit être averti immédiatement en premier.
+Lorsqu'on estime que l'état d'urgence existe, la route suivie par l'aéronef en difficulté est tracée sur une carte, de manière à déterminer la position future probable de l'aéronef et son rayon d'action maximal à partir de sa dernière position signalée. Les routes des autres aéronefs signalés dans le voisinage de l'aéronef en difficulté sont également portées sur la carte, de manière à déterminer leur position ultérieure probable et leur rayon d'action maximal.
 
-5.4.2. Tous les renseignements communiqués au centre de coordination de sauvetage par le centre de contrôle régional ou le centre d'information de vol sont également transmis sans retard à l'exploitant, lorsque cela est possible.
+Selon les moyens de surveillance disponibles, des dispositions équivalentes peuvent être prises.
 
-5.5. Notification aux aéronefs évoluant à proximité : d'un aéronef en état d'urgence.
+5.5 Notification à l'exploitant
 
-Lorsqu'un organisme de la circulation aérienne estime qu'un aéronef se trouve en difficulté, il en informe dès que possible les autres aéronefs qui se trouvent à proximité en précisant la nature du cas d'urgence. Toutefois, s'il s'agit d'une intervention illicite, il n'en sera pas fait mention dans les communications air-sol à moins que cela n'ait été fait auparavant dans les échanges de communication avec l'aéronef en cause et que l'on soit certain que cette mention n'aggravera pas la situation.
+5.5.1 Lorsqu'un centre de contrôle régional ou un centre d'information de vol estime qu'un aéronef est dans la phase d'incertitude ou d'alerte, il en avise, lorsque cela est possible, l'exploitant avant d'alerter le centre de coordination de sauvetage.
+
+Note. - Si un aéronef se trouve dans la phase de détresse, il y a lieu d'aviser immédiatement le centre de coordination de sauvetage, conformément aux dispositions de 5.2.1.
+
+5.5.2 Tous les renseignements communiqués au centre de coordination de sauvetage par le centre de contrôle régional ou le centre d'information de vol sont également transmis sans retard à l'exploitant, lorsque cela est possible.
+
+5.6 Notification aux aéronefs évoluant à proximité d'un aéronef en état d'urgence
+
+5.6.1 Lorsqu'un organisme des services de la circulation aérienne estime qu'un aéronef se trouve en état d'urgence, les autres aéronefs que l'on sait être à proximité de l'aéronef en état d'urgence sont informés dès que possible de la nature du cas d'urgence, sauf dans le cas prévu en 5.6.2.
+
+5.6.2 Lorsqu'un organisme des services de la circulation aérienne sait ou croit qu'un aéronef est l'objet d'une intervention illicite, il n'est pas fait mention de la nature du cas d'urgence dans les communications ATS air-sol, à moins qu'il n'en ait été fait mention auparavant dans les communications émanant de l'aéronef en cause et que l'on ne soit certain qu'une telle mention n'aggravera pas la situation.
