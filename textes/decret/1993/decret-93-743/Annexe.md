@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 1.1.0. Sondage, forage, création de puits ou d'ouvrage souterrain, non destiné à un usage domestique, exécuté en vue de la recherche ou de la surveillance d'eaux souterraines ou en vue d'effectuer un prélèvement temporaire ou permanent dans les eaux souterraines y compris dans les nappes d'accompagnement de cours d'eau : D.
 
@@ -8,15 +8,15 @@
 
 2° Capacité totale maximale des installations de prélèvement supérieure à 8 m3/heure mais inférieure à 80 m3/heure : D.
 
-1.2.0. Rejets d'effluents sur le sol ou dans le sous-sol, à l'exclusion des bassins d'infiltration visés à la rubrique 5.3.0, aux épandages visés aux rubriques 5.4.0 et 5.5.0, ainsi que des réinjections visées à la rubrique 1.3.1 A
+1.2.0. Rejets d'effluents sur le sol ou dans le sous-sol, à l'exclusion des rejets des ouvrages visés aux rubriques 5.1.0, 5.2.0 et 5.3.0, aux épandages visés aux rubriques 5.4.0 et 5.5.0, ainsi que des réinjections visées à la rubrique 1.3.1A
 
 1.3.0. Recharge artificielle des eaux souterrainesA
 
 1.3.1. Réinjection dans une même nappe des eaux prélevées pour la géothermie, l'exhaure des mines et carrières ou lors des travaux de génie civil, la capacité totale de réinjection étant :
 
-1° Supérieure ou égale à 80 m3/h A
+1° Supérieure ou égale à 80 m3/hA
 
-2° Supérieure à 8 m3/h, mais inférieure à 80 m3/h D
+2° Supérieure à 8 m3/h, mais inférieure à 80 m3/hD
 
 1.3.2. Travaux de recherche et d'exploitation de gîtes géothermiques A
 
