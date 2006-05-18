@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422635
+
+- Question : [SEQ060422635](seq060422635.md) — Fusion de Gaz de France avec le groupe Suez
+
+## Réponse
+
+*Économie, JO du 2006-05-18, page 1388*
+
+Le projet de fusion entre Gaz de France et Suez permettrait de créer un véritable champion de l'énergie et de contribuer à la sécurité énergétique de notre pays. Gaz de France et Suez sont deux entreprises d'une très grande complémentarité. Ce sont deux très beaux groupes, mais ils sont d'une taille moyenne quand on les compare aux géants de l'énergie européens. Ils ont élaboré un projet industriel porteur de croissance et d'emplois, qui leur permettra de faire face aux enjeux du monde de l'énergie de demain. Le groupe fusionné serait le n° 1 mondial du gaz naturel liquéfié, et l'un des principaux électriciens européens. Il restera dépositaire des missions de Gaz de France auxquels nos concitoyens sont très attachés. Les engagements pris par Gaz de France dans son contrat de service public seront respectés ; le statut du personnel ne sera pas modifié ; ce projet industriel ne sera pas destructeur d'emplois, bien au contraire : il est porteur de croissance et d'investissements. Le Gouvernement a indiqué qu'il soutenait le projet, comme l'ont fait le gouvernement belge et les principaux actionnaires de Suez. Le Gouvernement a engagé une concertation approfondie avec les partenaires sociaux. Les organisations syndicales ont posé plus de soixante-dix questions auxquelles des réponses seront apportées. Ce processus de concertation se poursuivra tout au long de l'élaboration du projet de fusion, afin que les préoccupations et les remarques de salariés de ces groupes soient pleinement prises en compte. Dans le cadre de ce processus, le Parlement sera appelé à se prononcer sur un projet de loi prévoyant les adaptations nécessaires pour rendre possible la mise en oeuvre de ce projet industriel.
