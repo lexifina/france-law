@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121364
+
+- Question : [SEQ060121364](seq060121364.md) — Manque d'information des médecins sur la grippe aviaire
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-05-18, page 1395*
+
+Le rôle des professionnels de santé libéraux et hospitaliers est essentiel dans la gestion des crises sanitaires. Leur formation est donc un point important du plan de lutte contre la grippe aviaire. Les initiatives prises localement ne sont plus suffisantes pour diffuser une information harmonisée avec l'évolution de la situation. C'est la raison pour laquelle le ministre de la Santé et des Solidarités a décidé de lancer une campagne nationale de formation à la grippe aviaire qui a débuté le 6 avril 2006. Cette formation se fera en cascade afin de permettre sa diffusion rapidement. Elle concernera les professionnels de santé libéraux et salariés hospitaliers ou non (médecins, dentistes, infirmiers, masseurs-kinésithérapeutes, pharmaciens) et devra permettre de répondre aux questions que ces professionnels se posent dans leur pratique quotidienne. Elle débutera par la formation de formateurs régionaux qui transmettront leur connaissance à des formateurs locaux. Le dispositif devrait permettre à l'ensemble des professionnels concernés qui le souhaitent, de se former d'ici la fin de l'année 2006. Les directions régionales des affaires sanitaires et sociales seront chargées localement de mettre en oeuvre cette campagne et de dresser un bilan régulier de la diffusion de cette formation auprès des professionnels. Cette formation s'appuiera sur la diffusion, début mai, d'un kit d'information élaboré en lien avec les différents représentants des professions de santé. Outre de présenter la grippe aviaire sous ses aspects animale et santé humaine, le contenu de ce kit précise les différentes conduites à tenir en fonction des phases d'alerte successives prévues par le plan de lutte gouvernemental.
