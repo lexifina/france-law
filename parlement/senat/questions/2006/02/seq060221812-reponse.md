@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221812
+
+- Question : [SEQ060221812](seq060221812.md) — Pratique artistique amateur
+
+## Réponse
+
+*Culture, JO du 2006-05-18, page 1378*
+
+L'honorable parlementaire a souhaité connaître les mesures que le ministère de la culture et de la communication envisage de prendre pour sécuriser la démarche artistique de choristes amateurs, mise en oeuvre sous l'impulsion du grand théâtre de Reims et du centre d'art polyphonique de Champagne-Ardenne. Le grand théâtre de Reims, à l'occasion de l'opéra de Mozart La flûte enchantée, a été dans l'obligation, pour respecter le droit, d'établir des contrats de travail. En effet, le grand théâtre de Reims est une SARL à financement public, dont la gestion est désintéressée. Cependant, il s'agit d'une société commerciale et, en l'état actuel du droit et sous réserve de l'appréciation souveraine des tribunaux, cette forme juridique interdit tout recours à des bénévoles. Un projet de loi en cours d'élaboration vise à aménager les conditions de participation des amateurs à des spectacles professionnels organisés par des structures à but lucratif, lorsque cette participation s'inscrit dans un parcours de formation artistique. Dans ce cadre uniquement, des amateurs pourraient participer à des spectacles lucratifs sans être rémunérés. Dans l'attente de la publication de la loi, qui abrogera le décret n° 53-1253 du 19 décembre 1953 relatif à l'organisation des spectacles amateurs et leurs rapports avec les entreprises de spectacles professionnelles, le ministre de la culture et de la communication a demandé à la délégation interministérielle à la lutte contre le travail illégal (DILTI) d'attirer l'attention du directeur départemental du travail, de l'emploi et de la formation professionnelle de la Marne sur ce dossier.
