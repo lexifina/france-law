@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121105
+
+- Question : [SEQ060121105](seq060121105.md) — Situation des familles employant des étrangers au pair
+
+## Réponse
+
+*Budget, JO du 2006-05-18, page 1376*
+
+La réduction d'impôt sur le revenu accordée pour l'emploi d'un salarié à domicile, prévue à l'article 199 sexdecies du code général des impôts, a pour but de favoriser la création d'emplois pour le développement des services aux personnes à leur domicile. Entrent dans le champ d'application de ce dispositif les rémunérations versées aux employés au pair qui exercent des activités domestiques dans les conditions de droit commun, c'est-à-dire dans le cadre d'un véritable contrat de travail qui relève de la convention collective nationale des salariés du particulier employeur. En revanche, tel n'est pas le cas des stagiaires aides familiaux qui sont de jeunes étrangers venus en France dans le but de perfectionner leurs connaissances linguistiques et, éventuellement, professionnelles et d'accroître leur culture générale par une meilleure connaissance du pays de séjour. Ils sont en effet placés au pair, c'est-à-dire accueillis temporairement au sein d'une famille en contrepartie de certaines prestations. Cette définition est donnée par l'article 2 de l'accord européen sur le placement au pair du 24 novembre 1969, ratifié par la France (décret n° 71-797 publié au Journal officiel du 26 septembre 1971). Ces dispositions précisent ainsi que les stagiaires aides familiaux placés au pair ne sont liés à la famille d'accueil que par un simple accord de placement au pair fixant les droits et obligations des deux parties. En conséquence, bien que redevable de cotisations sociales sur une assiette forfaitaire (à l'exclusion de la cotisation d'assurance chômage), la famille d'accueil n'est pas considérée comme un employeur au sens du code du travail.
