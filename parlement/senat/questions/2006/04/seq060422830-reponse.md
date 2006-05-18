@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422830
+
+- Question : [SEQ060422830](seq060422830.md) — Plus-values : disparités sur les cessions d'études notariales
+
+## Réponse
+
+*Économie, JO du 2006-05-18, page 1389*
+
+Loin de pénaliser les entreprises ou d'engendrer des dépenses supplémentaires, la loi de finances rectificative pour 2005 renforce considérablement l'ensemble des dispositifs permettant d'exonérer ou de reporter l'imposition des plus-values professionnelles. Ainsi, l'article 35 de cette loi crée un nouvel article 151 septies A dans le code général des impôts qui prévoit, sous réserve du respect de certaines conditions, une exonération totale des plus-values professionnelles en faveur des entrepreneurs individuels, qu'ils exercent leur activité professionnelle en direct ou dans le cadre d'une société soumise au régime fiscal des sociétés de personnes, en cas de cession à titre onéreux de l'entreprise ou de l'intégralité des droits ou parts qu'ils détiennent dans cette société dès lors que cette cession intervient dans le cadre du départ à la retraite de l'exploitant ou de l'associé. Cette mesure, à laquelle fait référence l'auteur de la question, témoigne d'un effort particulier consenti par le Gouvernement pour accompagner et favoriser la transmission des entreprises. Il s'agit d'un dispositif incitatif qui s'applique aux plus-values réalisées à compter du 1er janvier 2006. En ce qui concerne les professionnels qui ont cédé leur activité en 2005, il n'est pas envisagé de leur appliquer rétroactivement le bénéfice de ces nouvelles dispositions. En effet, l'économie d'impôt dont bénéficierait ainsi le vendeur constituerait un effet d'aubaine. Toutefois, il est rappelé que ces opérations étaient susceptibles de bénéficier des dispositifs favorables d'exonération existants, prévus aux articles 151 septies et 238 quaterdecies du code général des impôts, qui s'appliquaient à la très grande majorité des petites entreprises.
