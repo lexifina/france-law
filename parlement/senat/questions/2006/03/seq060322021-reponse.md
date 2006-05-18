@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322021
+
+- Question : [SEQ060322021](seq060322021.md) — Contrat de partenariat : caractère public des ouvertures des candidatures et des offres selon la procédure décrite à l'article L. 1414-7 du CGCT
+
+## Réponse
+
+*Économie, JO du 2006-05-18, page 1386*
+
+L'article L. 1414-8 du code général des collectivités territoriales indique expressément que lorsque les contrats de partenariat sont passés selon la procédure d'appel d'offres, l'ouverture des plis contenant les candidatures et des plis contenant les offres ne sont pas publiques et que les candidats n'y sont pas admis. Il n'existe pas de disposition expresse concernant l'ouverture des candidatures et des offres dans la procédure de dialogue compétitif. Toutefois une jurisprudence établie censure, pour les délégations de service public, la présence, aux réunions de la commission d'ouverture des plis, de personnes non membres de la commission (notamment le secrétaire général et le directeur des services techniques de la commune, ou encore le représentant d'une entreprise candidate à la délégation), et ce alors que le code général des collectivités territoriales ne précise pas non plus que les réunions de cette commission ne sont pas publiques et que les candidats n'y sont pas admis (CAA Marseille, 15 juin 2004, commune d'Alès-en-Cévennes, n° 00MA01382, AJDA2004.1872 ; CAA Marseille, 19 octobre 2004, Société des eaux de Marseille, n° 03MA02333 ; TA Strasbourg, 22 septembre 1999, Association S. Eau S., n° 97196). Dans ces conditions il est fortement déconseillé de procéder à l'ouverture des candidatures et des offres en présence d'un public dans le cadre de la procédure du dialogue compétitif, et ce d'autant plus que l'ouverture des plis contenant les candidatures est opérée par la même commission que celle qui y procède dans le cadre d'une délégation de service public.
