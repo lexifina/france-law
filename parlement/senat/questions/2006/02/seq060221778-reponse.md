@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221778
+
+- Question : [SEQ060221778](seq060221778.md) — Refonte de la catégorie C
+
+## Réponse
+
+*Fonction publique, JO du 2006-05-18, page 1391*
+
+A la suite des négociations salariales des 21 décembre 2004 et 29 mars 2005, le Gouvernement a annoncé une mesure de refonte du bas de la grille de rémunération des fonctionnaires au moyen de la fusion des deux premières échelles de rémunération de la catégorie C (échelle 2 et 3), justifiée par le relèvement de l'indice minimum de rémunération de la fonction publique, porté de l'indice majoré 263 à 275 au 1er juillet 2005, consécutivement à la revalorisation du SMIC. En conséquence, les décrets relatifs à la refonte des échelles de rémunération de la catégorie C dans l'ensemble des fonctions publiques, ont fusionné les échelles 2 et 3 de rémunération et ajusté l'architecture des échelles 3, 4 et 5 de la grille de rémunération des catégories C. Cette réforme s'est traduite pour la fonction publique territoriale par la publication de trois décrets en date du 28 octobre 2005. Ces décrets ont par ailleurs prévu de nouvelles modalités de reprise d'ancienneté, visant à améliorer ou à clarifier les règles précédentes de classement initial dans le cadre d'emplois, en prenant davantage en compte la variété de la situation antérieure des agents recrutés. Compte tenu du principe de non-rétroactivité, il n'est toutefois pas possible d'appliquer ces nouvelles règles aux fonctionnaires déjà titularisés à la date d'entrée en vigueur du décret du 28 octobre 2005 précité. Le protocole signé le 25 janvier dernier entre le ministre de la fonction publique et trois organisations syndicales représentatives de la fonction publique (CFDT, UNSA et CFTC) prévoit une nouvelle étape de réforme de la rémunération et de la structure de la catégorie C, afin d'améliorer les perspectives d'évolution de carrière et de promotion de ces agents.
