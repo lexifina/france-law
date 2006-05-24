@@ -282,6 +282,22 @@ Décisions de règlement amiable des demandes en indemnités mettant en cause la
 
 |
 
+Code de l'éducation.
+
+1
+
+|
+
+Délivrance du diplôme professionnel "un des meilleurs ouvriers de France".
+
+Délivrance du titre de "un des meilleurs ouvriers de France" honoris causa.
+
+|
+
+Article R.* 338-10.
+
+|
+
 ENSEIGNEMENT SUPÉRIEUR
 
 Code de la sécurité sociale
