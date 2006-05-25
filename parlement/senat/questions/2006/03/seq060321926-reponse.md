@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060321926
+
+- Question : [SEQ060321926](seq060321926.md) — Valorisation de l'huile d'olive dans la chaîne alimentaire
+
+## Réponse
+
+*Agriculture, JO du 2006-05-25, page 1444*
+
+Les campagnes de promotion relatives aux produits agricoles sur le marché intérieur (Union européenne) peuvent bénéficier du soutien des pouvoirs publics, conformément à la réglementation communautaire (règlement Conseil n° 2826/2000 du 19 décembre 2000). Dans ce cadre, les pouvoirs publics soutiennent la promotion de l'huile d'olive. A ce titre, une première campagne sur l'huile d'olive, menée par l'association française interprofessionnelle de l'olive (AFIDOL), s'est déroulée en 2005. En 2006 et 2007, une seconde campagne, plus large, valorisera chacune des huiles végétales (tournesol, olive, colza et noix) selon leur composition particulière. Elle montrera l'intérêt de recourir à la diversité pour concilier plaisir et santé. En outre, les bienfaits sur la santé de la consommation d'huile d'olive dans le cadre d'une alimentation variée et équilibrée, tels que reconnus dans le régime méditerranéen, sont d'ores et déjà valorisés par l'agence Pour la recherche et l'information en fruits et légumes (APRIFEL). Par ailleurs, le programme national nutrition santé (PNNS), qui vise à améliorer l'état de santé de la population au travers de la nutrition, recommande de privilégier les matières grasses d'origine végétale telles que l'huile d'olive et l'huile de colza. Enfin, la promotion des aliments en termes de santé et de plaisir doit permettre, d'une part, de valoriser la qualité des produits (nutritionnelle, gustative, liée aux modes de culture ou à l'origine...) et, d'autre part, d'informer les consommateurs sur le rôle de chaque aliment dans le cadre d'une alimentation variée et équilibrée. Cette promotion ne devrait pas se limiter à la prévention des maladies chroniques au risque d'entraîner une médicalisation de l'alimentation.
