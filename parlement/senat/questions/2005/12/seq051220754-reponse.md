@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220754
+
+- Question : [SEQ051220754](seq051220754.md) — Contrôle des mariages mixtes à l'étranger
+
+## Réponse
+
+*Justice, JO du 2006-05-25, page 1461*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la lutte contre les détournements de l'institution matrimoniale à des fins migratoires constitue une priorité du Gouvernement. Le projet de loi relatif au contrôle de la validité des mariages adopté par l'Assemblée nationale en première lecture le 22 mars dernier et qui doit être examiné par le Sénat à la fin du mois de mai 2006 a précisément pour objet d'insérer dans le code civil un nouveau dispositif de contrôle des mariages contractés par des Français à l'étranger, au terme duquel seuls les mariages dont la validité aura été préalablement vérifiée pourront faire l'objet d'une transcription sur les registres de l'état civil français et seront opposables à l'administration. Avant de se marier devant une autorité étrangère, le futur époux français devra solliciter auprès du consulat ou de l'ambassade un certificat de capacité à mariage, dont la délivrance sera subordonnée au respect des conditions de validité du mariage imposées par le droit français. S'il estime que ces conditions ne sont pas réunies, le ministère public pourra faire opposition et, si le mariage est toutefois célébré par l'autorité étrangère, la transcription de l'acte de mariage ne pourra avoir lieu qu'après mainlevée de l'opposition par le tribunal. L'époux français qui se sera marié devant une autorité étrangère sans avoir sollicité le certificat de capacité à mariage ne pourra, quant à lui, obtenir la transcription de son mariage, après une audition par les autorités consulaires ou diplomatiques, qu'en vertu d'une décision prise en ce sens soit par l'officier de l'état civil diplomatique ou consulaire, soit, en cas de doute, par l'autorité judiciaire.
