@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121414
+
+- Question : [SEQ060121414](seq060121414.md) — Mesures de prophylaxie de la brucellose bovine
+
+## Réponse
+
+*Agriculture, JO du 2006-05-25, page 1443*
+
+L'excellence de la situation sanitaire des élevages français vis-à-vis de la brucellose bovine a conduit, en septembre 2005, à la reconnaissance par la Commission européenne du statut officiellement indemne de la France. L'obtention de ce statut constitue le résultat de l'action conjuguée de l'ensemble des partenaires impliqués dans la lutte contre la maladie depuis de nombreuses années. En conséquence, le dépistage de la brucellose au sein des cheptels bovins a été allégé, de manière à permettre aux éleveurs de bénéficier de cette nouvelle situation. Les difficultés pratiques que pouvait entraîner l'application de ces nouvelles mesures, et en particulier celles liées à la rapidité de leur mise en oeuvre, ont été discutées lors d'une réunion à la fin du mois de septembre 2005, à laquelle participaient les représentants des laboratoires départementaux. Cette réunion a permis de définir des modalités opérationnelles tenant compte des contraintes de chacun pour l'application de la réforme, dès la campagne de prophylaxie 2005-2006. Le dispositif de lutte contre la brucellose bovine a ainsi pu être adapté à la réalité de la situation sanitaire, dans de brefs délais. Par ailleurs, le projet de décret pris en application de la loi sur le développement des territoires ruraux en matière d'épidémiologie fait actuellement l'objet d'une large consultation, notamment auprès de l'association des départements de France et de l'association des directeurs des laboratoires vétérinaires d'analyse. Ce projet prévoit que des arrêtés définiront les modalités selon lesquelles les départements, par l'intermédiaire des laboratoires d'analyses départementaux, participeront à la collecte et au traitement de données épidémiologiques.
