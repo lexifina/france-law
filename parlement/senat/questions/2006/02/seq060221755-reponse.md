@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221755
+
+- Question : [SEQ060221755](seq060221755.md) — Accès du public au dossier toxicologique des OGM
+
+## Réponse
+
+*Agriculture, JO du 2006-05-25, page 1444*
+
+Les données contenues dans les dossiers de demande d'autorisation de mise sur le marché d'OGM sont communiquées au public dans les conditions de la loi de 1978 relative à la liberté d'accès aux documents administratifs et de l'article 25 de la directive 2001/18/CE, relatif à la confidentialité des données contenues dans les dossiers. Toutefois, lorsqu'il s'agit d'un dossier déposé dans un autre Etat membre dans le cadre d'une procédure communautaire, la commission d'accès aux documents administratifs (CADA) a estimé, dans son avis du 8 avril 2005, que les autorités françaises ne peuvent pas communiquer au public les données qui ont été considérées comme confidentielles par cet Etat membre. Afin que le public puisse accéder aux données relatives aux OGM de façon homogène dans tous les Etats membres, le Gouvernement a demandé une harmonisation de l'interprétation de l'article 25 de la directive 2001/18/CE relative à la dissémination volontaire d'OGM dans l'environnement à la Commission européenne. Les décrets d'application de la loi portant transposition de la directive 2001/18/CE, actuellement en cours d'examen, préciseront quelles informations ne peuvent être maintenues confidentielles. Le dossier relatif au maïs MON 863 a été déposé auprès des autorités allemandes. Les autorités françaises ne sont donc pas en mesure de communiquer les informations reconnues confidentielles par cet Etat membre. Par ailleurs, il convient de rappeler que les différentes instances nationales et communautaires indépendantes chargées de l'évaluation des risques pour la santé et l'environnement liés aux OGM ont examiné toutes les données toxicologiques relatives au maïs MON 863 et ont conclu à l'absence de risque pour la consommation de ce maïs.
