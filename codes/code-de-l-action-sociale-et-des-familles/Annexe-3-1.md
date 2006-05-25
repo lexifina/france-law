@@ -6,6 +6,8 @@ a) Calcul du prix de journée "hébergement" :
 
 D1 / I
 
+a bis) Calcul du prix de revient " hébergement " : (A1-B1) / I.
+
 b) Calcul du tarif journalier " dépendance " pour les GIR 1 et 2 :
 
 (D2 X H1) / K1
