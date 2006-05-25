@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322354
+
+- Question : [SEQ060322354](seq060322354.md) — Caractère verbal de la décision du maire de passer un marché sans formalité préalable
+
+## Réponse
+
+*Collectivités territoriales, JO du 2006-05-25, page 1452*
+
+Si l'article L. 2122-23 du code général des collectivités territoriales précise le régime applicable aux décisions prises par le maire en vertu de l'article L. 2122-22, et en particulier prévoit qu'elles peuvent être signées par un adjoint ou un conseiller municipal agissant par délégation du maire dans les conditions fixées à l'article L. 2122-18, sauf disposition contraire dans la délibération portant délégation, il ne saurait être déduit de ces dispositions que ces décisions doivent revêtir une forme particulière. Ainsi, s'agissant du cas particulier de la décision de signer un marché entrant dans le champ de la délégation consentie à l'exécutif local, il ne ressort d'aucune disposition que celle-ci doit être formalisée par l'adoption d'un arrêté. Il s'ensuit que la signature apposée sur le contrat constitue en elle-même la décision prise par le maire ou un adjoint ou un conseiller municipal au sens des articles L. 2122-22 et L. 2122-23 du code général des collectivités territoriales. Dans ces conditions, il se peut qu'il n'existe pas de décision formelle adoptée antérieurement à la signature proprement dite du marché par laquelle l'exécutif local s'autoriserait à signer ledit marché. Dans cette hypothèse, la décision que constitue la signature n'aura pas à être transmise au contrôle de légalité pour acquérir un caractère exécutoire car cela reviendrait à transmettre le marché et ferait échec à l'application de la dérogation à l'obligation de transmission des marchés établie par la loi MURCEF pour les contrats entrant dans le champ de la délégation susceptible d'être consentie à l'exécutif local.
