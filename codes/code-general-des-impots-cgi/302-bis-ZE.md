@@ -2,7 +2,7 @@
 
 Il est institué une contribution sur la cession à un service de télévision des droits de diffusion de manifestations ou de compétitions sportives.
 
-Cette contribution est due par toute personne mentionnée aux articles 7, 11, 16 ou 18 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, ainsi que par toute personne agissant directement ou indirectement pour son compte.
+Cette contribution est due par toute personne mentionnée aux articles L. 121-1, L. 122-2, L. 122-12, L. 131-1 ou L. 331-5 du code du sport, ainsi que par toute personne agissant directement ou indirectement pour son compte.
 
 La contribution est assise sur les sommes hors taxe sur la valeur ajoutée perçues au titre de la cession des droits de diffusion.
 
@@ -13,7 +13,3 @@ Le taux de la contribution est fixé à 5 % du montant des encaissements.
 La contribution est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée.
 
 Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
-
-NOTA :
-
-NOTA : Le produit de cette contribution est affecté au compte d'affectation spéciale n° 902-17 "Fonds national pour le développement du sport, voir Loi 99-1172 Finances pour 2000 art. 59 II du 30 décembre 1999.
