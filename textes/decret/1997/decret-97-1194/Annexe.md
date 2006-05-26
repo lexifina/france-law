@@ -2334,6 +2334,24 @@ Article 2, alinéa 2.
 
 |
 
+Décret n
+
+°
+
+2006-595 du 23 mai 2006 relatif à l’attribution du label “entreprise du patrimoine vivant”
+
+1
+
+|
+
+Attribution du label “entreprise du patrimoine vivant”.
+
+|
+
+Article 2 et 3.
+
+|
+
 Décisions entrant dans le champ des compétences de la direction du commerce intérieur
 
 Décret n° 95-1140 du 27 octobre 1995 relatif à l'affectation de l'excédent du produit de la taxe d'aide au commerce et à l'artisanat
