@@ -820,6 +820,46 @@ Articles 15, 17, 18, 19 et 20-I.
 
 |
 
+Décret n
+
+°
+
+2006-600 du 23 mai 2006 (obligations)
+
+1
+
+|
+
+Fixation des obligations d’économie d’énergie.
+
+|
+
+Article 5.
+
+|
+
+2 |
+
+Fixation du montant du prélèvement compensatoire, annulation des certificats
+
+d’économie d’énergie.
+
+|
+
+Article 7, alinéas 2 et 3.
+
+|
+
+3 |
+
+Mise en demeure et sanctions.
+
+|
+
+Article 9, alinéas 1 et 2.
+
+|
+
 Haut fonctionnaire de défense auprès du ministre chargé de l'industrie
 
 Décret n° 2001-144 du 15 février 2001 définissant les conditions du prélèvement d'échantillons de produits chimiques prévu par l'article 51 de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
