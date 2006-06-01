@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322168
+
+- Question : [SEQ060322168](seq060322168.md) — Situation des petites communes rurales non éligibles à la dotation de développement rural (DDR)
+
+## Réponse
+
+*Intérieur, JO du 2006-06-01, page 1537*
+
+La dotation de développement rural (DDR) avait pour unique objet, depuis sa création par la loi n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République, de favoriser le développement et la solidarité en milieu rural. Alors que, depuis sa création, la DDR bénéficiait tant aux groupements de communes qu'aux communes rurales, la loi n° 99-586 du 12 juillet 1999, relative au renforcement et à la simplification de la coopération intercommunale, a réservé cette dotation aux seuls établissements publics de coopération intercommunale (EPCI) à fiscalité propre. La nécessité de renforcer l'intercommunalité en zone rurale a plaidé, à l'époque, pour que les sommes attribuées au titre de la DDR transitent exclusivement par les groupements. Le but de ce resserrement était ainsi de promouvoir l'intercommunalité comme vecteur du développement économique. Cet objectif demeure aujourd'hui, tant il est vrai que la mutualisation des moyens doit être soutenue pour permettre l'émergence de projets structurants. Toutefois, l'article 140 de la loi de finances pour 2006 a créé une seconde part au sein de la DDR, réservée aux projets destinés à maintenir et développer les services au public en milieu rural. Cette seconde part bénéficie tant aux EPCI à fiscalité propre éligibles à la première part de la DDR qu'aux communes éligibles à la seconde fraction de la dotation de solidarité rurale. Dans ce cadre, les communes rurales peuvent, dès lors qu'elles remplissent les conditions d'éligibilité, bénéficier de la DDR pour des projets dont l'objectif est le maintien et le développement des services au public en milieu rural.
