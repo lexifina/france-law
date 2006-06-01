@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220709
+
+- Question : [SEQ051220709](seq051220709.md) — Baisse du taux de TVA dans la restauration
+
+## Réponse
+
+*Affaires européennes, JO du 2006-06-01, page 1499*
+
+L'honorable parlementaire a bien voulu appeler l'attention de la ministre déléguée aux affaires européennes sur les négociations relatives à la mise en place du taux réduit de TVA dans le secteur de la restauration. Le Gouvernement reste fortement mobilisé sur l'objectif de la baisse du taux de la taxe sur la valeur ajoutée (TVA) dans le secteur de la restauration. Malgré les signes encourageants qui ont pu être donnés par nos partenaires au cours de ces trois années de négociation et la détermination très forte du Gouvernement de les rallier à sa proposition d'extension du taux réduit de la TVA aux services de la restauration, il n'a pas été possible d'obtenir l'accord unanime qui aurait permis l'application de cette mesure dans le respect du droit communautaire. Cela étant, le compromis qui a été obtenu par la présidence autrichienne entre les vingt-cinq Etats membres de l'Union lors du conseil des ministres des finances de l'Union européenne du 24 janvier dernier prévoit qu'une étude sera confiée à des experts indépendants afin d'évaluer l'impact que pourrait avoir sur le marché intérieur l'application de taux réduits sur les services qui sont rendus localement. Il est important de relever que cette étude portera notamment, à la demande de la France, sur les services de restauration. Si ce rapport, qui sera remis au conseil par la Commission avant la fin de l'année 2007, conclut comme nous l'estimons que des mesures de ce type n'induisent pas de perturbations dans le bon fonctionnement du marché intérieur, la France disposera d'arguments de poids pour solliciter la poursuite des négociations sur ces nouvelles bases.
