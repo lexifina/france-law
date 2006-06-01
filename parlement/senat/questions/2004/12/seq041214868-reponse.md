@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214868
+
+- Question : [SEQ041214868](seq041214868.md) — Revalorisation des indemnités forfaitaires de déplacement des élus
+
+## Réponse
+
+*Intérieur, JO du 2006-06-01, page 1527*
+
+Les frais de déplacement et de séjour exposés par les membres d'un conseil général, soit pour l'exercice d'un mandat spécial, soit pour prendre part aux réunions de leur assemblée et aux séances de commissions ou d'organismes dont ils font partie ès qualités, peuvent être pris en charge par leur collectivité conformément aux dispositions du code général des collectivités territoriales, qui renvoient ainsi aux modalités prévues par le décret du 28 mai 1990 et aux différents barèmes fixés par ses arrêtés d'application. Il convient au préalable de préciser qu'outre le remboursement des frais de mission au titre du décret précité, qui a été rendu applicable aux élus locaux dans un souci de simplification administrative et de transparence, d'autres indemnités sont allouées aux titulaires de mandats locaux en vue de compenser leurs dépenses diverses, dont celles de déplacement, qu'ils engagent pour l'exercice de leur mandat. A cet égard, les conseils généraux peuvent verser une indemnité de fonctions à l'ensemble de leurs membres, dans les conditions fixées par la loi. Par ailleurs, les modalités spécifiques de l'imposition des élus locaux prennent en compte les frais qu'ils sont susceptibles de supporter au titre de ces déplacements, en particulier sous la forme d'une fraction représentative de frais d'emplois non soumise à la retenue à la source. Toutefois, le Gouvernement réfléchit actuellement à une révision des différents textes régissant le règlement des frais de déplacement et de séjour, qui permettrait notamment une amélioration des conditions de cette prise en charge.
