@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322211
+
+- Question : [SEQ060322211](seq060322211.md) — Prise en charge de la protection des canalisations de transport de fluides sous pression par le concessionnaire de l'ouvrage
+
+## Réponse
+
+*Industrie, JO du 2006-06-01, page 1526*
+
+Les recommandations de la direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE) Rhône-Alpes évoquées dans la question s'inscrivent dans le cadre des actions effectuées par les préfets en application de l'article L. 121.2 du code de l'urbanisme. Elles ont pour objet de limiter, autant que possible, l'exposition des riverains des canalisations de transport aux risques présentés par ces ouvrages. Un arrêté interministériel en cours de signature, destiné à réglementer la sécurité des canalisations de transport, mettra à la charge entière des exploitants des canalisations le coût des dispositions compensatoires qui seront nécessaires chaque fois qu'un établissement recevant du public (ERP) existant et répondant à certains critères de taille se trouvera dans la zone des dangers létaux induite par ces canalisations. Les travaux correspondants seront étalés sur une période de douze ans à compter de la publication de cet arrêté. En ce qui concerne les projets de construction nouvelle d'ERP, ou d'extension d'ERP existants dont la taille avant élargissement ne rendait pas l'arrêté précité applicable, il n'existe pas à ce jour de règle fixant la répartition de la charge des dispositions compensatoires entre l'aménageur et l'exploitant de la canalisation. Néanmoins, il est communément admis que le principe d'antériorité s'applique, et donc que c'est à l'aménageur de prendre en charge ces coûts lorsque la canalisation est implantée dans une zone qui, à la date de sa mise en service, n'était pas constructible et était située en dehors du domaine public.
