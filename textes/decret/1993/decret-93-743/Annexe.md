@@ -24,42 +24,34 @@
 
 1.5.0. - rubrique supprimée.
 
-1.6.0. - Les travaux de recherche, la création et les essais de cavités et les travaux d'exploitation des stockages souterrains d'hydrocarbures liquides ou liquéfiés soumis aux dispositions de l'ordonnance n° 58-1332 du 23 décembre 1958 :
+1.6.0. - Les travaux de recherche, de création, d'essais, d'aménagement ou d'exploitation des stockages souterrains soumis aux dispositions du décret n° 2006-649 du 2 juin 2006 :
 
-a) Travaux de forage de recherche dont la durée est supérieure à un an : A ;
+a) Travaux de création et d'aménagement de cavités visés au 4° de l'article 3 A
 
-b) Autres travaux de forage de recherche : D ;
+b) Travaux de forage de puits visés au 5° de l'article 3 A
 
-c) Création et essais de cavités de stockage : A ;
+c) Essais visés au 6° de l'article 3 A
 
-d) Travaux d'exploitation : A.
+d) Mise en exploitation d'un stockage souterrain visée au 7° de l'article 3 A
 
-1.6.1. Les travaux de recherche et d'exploitation des stockages souterrains des produits chimiques de base à destination industrielle, soumis aux dispositions de la loi n° 70-1324 du 31 décembre 1970 et des stockages souterrains de déchets radioactifs :
+e) Travaux de forage de recherche de cavités ou de formations souterraines visés au 2° de l'article 4 D
 
-a) Travaux de recherche nécessitant un ou plusieurs forages de durée de vie supérieure à un an A
+f) Travaux de forage de puits de contrôle visés au 3° de l'article 4 D
 
-b) Autres travaux de recherche D
+g) Essais visés au 4° de l'article 4 D
 
-c) Travaux d'exploitation A
+1.6.1. Les travaux de recherche et d'exploitation des stockages souterrains de déchets radioactifs :
 
-1.6.2. Les travaux de recherche et d'exploitation des stockages souterrains de gaz soumis aux dispositions de l'ordonnance n° 58-1132 du 25 novembre 1958 :
+1.6.2. a) Travaux d'exploitation de mines effectués dans le cadre de l'autorisation d'exploitation mentionnée à l'article 21 du code minier : D
 
-a) Travaux de forage de recherche dont la durée est supérieure à un an : A ;
+b) autres travaux d'exploitation : A
 
-b) Autres travaux de forage de recherche : D ;
+1.6.3. Travaux de recherches de mines :
 
-c) Travaux d'exploitation impliquant des forages de puits destinés à l'injection ou au soutirage de gaz : A.
+a) Travaux de recherche visés au 2° de l'article 3 du décret n° 2006-649 du 2 juin 2006 : A ;
 
-1.6.3.
+b) Autres travaux de recherche visés au même décret : D
 
-a) Travaux d'exploitation de mines effectués dans le cadre de l'autorisation d'exploitation mentionnée à l'article 21 du code minier ; D
+NOTA :
 
-b) autres travaux d'exploitation A
-
-1.6.4. Travaux de recherches des mines :
-
-a) Pour les hydrocarbures liquides ou gazeux, lorsque les travaux nécessitent un ou plusieurs forages de durée de vie supérieure à un an
-
-b) Pour les autres substances, lorsque les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de couches du sous-sol, ou sont réalisés, sauf dans le département de la Guyane, sur des terrains humides ou des marais A
-
-c) Autres travaux de recherches de mines D
+Décret 2006-881 2006-07-17 art. 5 : Les dispositions des décrets n° 93-742 et n° 93-743 du 29 mars 1993 dans leur rédaction antérieure à leur modification par le présent décret demeurent applicables aux demandes d'autorisation ou aux déclarations qui ont été reçues par le préfet avant le 1er octobre 2006.
