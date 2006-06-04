@@ -226,17 +226,27 @@ Article 2 (dernier alinéa du 1°).
 
 |
 
-Décret n° 95-427 du 19 avril 1995 relatif aux titres miniers
+Décret n
+
+°
+
+2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain
 
 1
 
 |
 
-Prolongation de concession de mines.
+Décisions relatives aux permis exclusifs de recherches de mines et de stockage souterrain en
+
+matière d’octroi du titre initial, de rejet, de prolongation, de prolongation exceptionnelle pour les
+
+mines d’hydrocarbures, d’extension, de mutation et de fusion.
 
 |
 
-Article 28.
+Articles 23, 49, 50,
+
+51, 52 et 53.
 
 |
 
@@ -244,11 +254,41 @@ Article 28.
 
 |
 
-Extension de concession de mines.
+Décisions relatives aux concessions de mines et de stockage souterrain : rejet de la demande de
+
+concession.
 
 |
 
-Article 30.
+Article 31.
+
+|
+
+3 |
+
+Décisions prises au titre du contrôle des sociétés minières et de stockage souterrain et des contrats
+
+passés entre elles pour la recherche et l’exploitation.
+
+|
+
+Article 43, 4
+
+°.
+
+|
+
+4 |
+
+Décisions relatives au permis d’exploitation dans les départements d’outre-mer en matière d’octroi
+
+du titre initial, de prolongation, d’extension, de mutation, d’amodiation, de renonciation et de
+
+retrait.
+
+|
+
+Articles 35 et 40.
 
 |
 
