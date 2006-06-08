@@ -1,5 +1,7 @@
 # Article ANNEXE
 
+LISTE DES INSTANCES RELEVANT DU MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE ET DE L'ENVIRONNEMENT
+
 Direction générale de l'administration et du développement
 
 Comité de la prévention et de la précaution, institué par l'arrêté du 30 juillet 1996.
@@ -56,7 +58,7 @@ Conseil national du bruit, institué en application du décret n° 82-538 du 7 j
 
 Conseil supérieur des installations classées, institué par le décret n° 76-1323 du 29 décembre 1976.
 
-Commission départementale des carrières, instituée en application du décret n° 94-486 du 9 juin 1994.
+Commission départementale de la nature, des paysages et des sites, instituée en application du décret n° 94-486 du 9 juin 1994 (1).
 
 Comité de gestion de la taxe parafiscale sur les huiles de base, institué en application de l'arrêté du 31 août 1994.
 
@@ -109,3 +111,7 @@ Commission nationale de l'examen pour l'obtention du permis de chasser, institu�
 Conseil d'administration de l'Office national de la chasse, institué en application des articles R. 221-8 et suivants du code rural.
 
 Commissions départementales des sites, perspectives et paysages, instituées en application de la loi n° 93-24 du 8 janvier 1993 par le décret n° 98-865 du 23 septembre 1998.
+
+NOTA :
+
+Le décret n° 94-486 est abrogé par l'article 20 IX du décret n° 2006-665.
