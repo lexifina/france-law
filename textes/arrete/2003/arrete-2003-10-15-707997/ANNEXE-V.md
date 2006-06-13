@@ -1,6 +1,6 @@
 # Article ANNEXE V
 
-Le directeur des politiques économique et internationale, président.
+Le directeur général des politiques économique, européene et internationale, président.
 
 L'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture (secrétariat).
 
