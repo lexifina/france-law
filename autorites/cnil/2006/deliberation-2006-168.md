@@ -1,0 +1,62 @@
+# Délibération portant avis sur un projet de décret pris pour l'application, à titre expérimental, de l'article L. 625-3 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-168
+- Date : 2006-06-13
+- Publication : 2019-11-13
+- NOR : CNIX0609607X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652165
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie pour avis par le ministère de l'intérieur et de l'aménagement du territoire d'un projet de décret en Conseil d'Etat pris pour l'application de l'article L. 625-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, relatif aux modalités de mise en oeuvre d'un dispositif agréé de numérisation et de transmission, par les entreprises de transport aux autorités françaises chargées du contrôle aux frontières, des documents de voyage et des visas (dans sa version du 18 mai 2006) ;
+
+Vu la Convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données .
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel ;
+
+Vu le code de l'entrée et du séjour des étrangers et du droit d'asile, notamment ses articles L. 625-1 et L. 625-3 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Après avoir entendu M. François Giquel, commissaire, en son rapport, et Mme Pascale Compagnie, commissaire du Gouvernement, en ses observations;
+
+Emet l'avis suivant
+
+La loi du 26 novembre 2003 relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité a modifié l'ordonnance du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, et notamment son article 20 bis, dont les dispositions sont désormais intégrées au code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+L'article L. 625-1 de ce code prévoit ainsi une amende d'un montant maximal de 5000 euros à l'encontre de l'entreprise de transport aérien ou maritime qui débarque sur le territoire français, en provenance d'un autre Etat, un étranger non ressortissant d'un Etat membre de l'Union européenne et démuni du document de voyage et, le cas échéant, du visa requis.
+
+L'article L. 625-3 réduit le montant maximal de l'amende à 3000 euros si l'entreprise utilise, sur le lieu d'embarquement des passagers, un dispositif agréé de numérisation et de transmission aux autorités françaises chargées du contrôle aux frontières des documents de voyages et des visas.
+
+Conformément à cet article, le ministère de l'intérieur a saisi pour avis la CNIL du projet de décret d'application de ces dispositions législatives. Ce projet de décret en Conseil d'Etat doit fixer les modalités de mise en oeuvre de ce dispositif, en précisant la durée de conservation des données et les conditions de mise à jour des informations enregistrées, les catégories de personnes pouvant y accéder et les modalités d'habilitation de celles-ci ainsi que les conditions dans lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
+
+L'article 1er du projet de décret dispose que sont autorisées, à titre expérimental, la mise en place et l'utilisation, par les compagnies aériennes Air France et Swiss, respectivement sur les lieux d'embarquement des passagers des aéroports de Conakry (Guinée) et de Yaoundé (Cameroun), d'un dispositif agréé de numérisation et de transmission, aux autorités chargées du contrôle aux frontières à l'aéroport de Roissy - Charles de Gaulle, des documents de voyage et, s'ils sont requis, des visas des passagers.
+
+La finalité de ce dispositif est de lutter contre l'entrée irrégulière des étrangers en France en prévenant les fraudes documentaires et les usurpations d'identité et en permettant l'identification des étrangers qui, parfois, sont dépourvus de tout document de voyage et de visa à leur arrivée en France, alors même que de tels documents ont pu être présentés au moment de l'embarquement.
+
+Selon le ministère de l'intérieur, le caractère expérimental du dispositif prévu par le projet de décret permettra d'apprécier, au terme d'une période d'un an, les éventuelles difficultés d'ordres technique et opérationnel et d'en tirer les conséquences dans le cadre de la généralisation et de la pérennisation du dispositif. Les deux compagnies aériennes Air France et Swiss se sont portées volontaires pour mener à bien cette expérimentation.
+
+La Commission prend acte du fait que la numérisation des titres de voyage ne concerne que les ressortissants d'un pays non membre de l'Union européenne, conformément à l'article L. 625-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+Les articles 2 à 9 du projet de décret décrivent les modalités de mise en oeuvre du dispositif : conditions de numérisation des documents de voyage et, le cas échéant, des visas par les deux entreprises de transport aérien participant à l'expérimentation, cheminement et réception du CD-ROM contenant les données personnelles numérisées, exploitation des données par les fonctionnaires habilités de la police de l'air et des frontières, durée de conservation des données enregistrées sur le CD-ROM, modalités d'exercice des droits d'accès et de rectification des personnes concernées, exclusion du droit de s'opposer à la numérisation des titres de voyage, non exploitation des données numérisées dans le cadre d'un autre traitement automatisé de données à caractère personnel, et durée de l'expérimentation.
+
+La Commission prend acte du fait que le terme "exploitées" (article 4) s'entend comme une simple lecture des images afin de vérifier l'authenticité des documents de voyage et des visas et de permettre, le cas échéant, l'identification des étrangers dépourvus de tout document à leur arrivée en France.
+
+Elle relève également que la durée de conservation sur le CD-ROM des images numérisées, limitée à soixante-douze heures à compter de la remise de ce support aux fonctionnaires de police par le commandant de bord (article 5), sera suffisante pour permettre aux services de police de procéder aux vérifications nécessaires.
+
+En outre, elle observe que les images contenues dans le CD-ROM ne seront pas enregistrées dans un traitement automatisé de données à caractère personnel (article 8). Seules la consultation informatique et l'impression des images numérisées seront rendues possibles, excluant ainsi la création ou l'enrichissement d'un traitement à partir de ces données.
+
+La Commission prend acte de ces modalités de mise en oeuvre du dispositif et demande que lui soit transmis, à l'occasion de la future demande d'extension et de pérennisation du dispositif, un bilan de l'expérimentation ainsi conduite.
+
+Elle rappelle également qu'une information conforme à l'article 32 de la loi du 6 janvier 1978 modifiée doit être donnée aux personnes concernées par le dispositif.
+
+La Commission considère enfin que le projet de décret présenté constitue l'acte réglementaire portant création du traitement de données à caractère personnel envisagé au sens des articles 26 et 29 de la loi du 6 janvier 1978 modifiée.
+
+Le président, Alex TURK
+
+Guy ROSIER Vice-Président Délégué
