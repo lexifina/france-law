@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121115
+
+- Question : [SEQ060121115](seq060121115.md) — Défaut de parution de décret d'application
+
+## Réponse
+
+*Écologie, JO du 2006-06-15, page 1656*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à la procédure de consignation prévue à l'article 514-1 du code de l'environnement. Dans les cas où l'exploitant n'obtempère pas à l'arrêté de mise en demeure, le préfet peut contraindre ce dernier à consigner entre les mains du comptable public une somme correspondant au montant des travaux à réaliser. Dans de tels cas, deux situations peuvent se présenter. Si, après consignation, l'exploitant réalise lui-même les travaux, les sommes consignées lui sont restituées au fur et à mesure de l'exécution des mesures prescrites. En général, cette procédure de restitution des sommes ne présente pas de difficulté particulière dans sa mise en oeuvre. Dans le cas contraire, le code de l'environnement autorise le préfet à utiliser ces sommes pour régler les dépenses liées à l'exécution d'office des travaux par un tiers qu'il aura désigné. Cette procédure est longtemps restée inefficace en raison notamment des difficultés évoquées dans la question. Conscients de ces problèmes de mise en oeuvre, les services du ministère de l'écologie et du développement durable ont entrepris, en liaison avec la direction générale de la comptabilité publique du ministère de l'économie des finances et de l'industrie, la rédaction d'une procédure permettant une utilisation rapide et directe des sommes consignées pour financer les travaux d'office ordonnés par le préfet. Ces instructions devraient être transmises par voie de circulaires aux préfets et aux trésoriers-payeurs généraux vers la fin du premier semestre de 2006.
