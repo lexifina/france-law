@@ -1,0 +1,17 @@
+# Article 33 bis
+
+En application des dispositions légales, les signataires conviennent de fixer la date de la journée de solidarité au lundi de Pentecôte. Sa durée est de 7 heures, les heures effectuées au-delà sont des heures supplémentaires. Néanmoins, toute entreprise relevant de la branche est libre de déterminer le jour supplémentaire travaillé par un accord entre l'employeur et chacun de ses salariés :
+
+- soit un jour férié précédemment chômé autre que le 1er Mai ;
+
+- soit un jour de RTT, lorsque la réduction du temps de travail est organisée sur l'année ;
+
+- soit tout autre jour précédemment non travaillé, en application des modalités d'organisation de l'entreprise ;
+
+- ou de fractionner les 7 heures sur l'année.
+
+Dans le cas particulier où le lundi de Pentecôte était déjà travaillé dans l'entreprise avant l'entrée en vigueur de la loi, les modalités de fixation de la journée de solidarité sont définies par l'employeur, après accord avec les salariés concernés et consultation des institutions représentatives du personnel si elles existent, en application de l'article L. 212-16, alinéa 5, du code du travail.
+
+Les salariés ayant changé d'employeur et se trouvant dans le cas où il leur est demandé d'effectuer à nouveau une journée de solidarité peuvent, au choix, refuser de travailler durant cette journée sans que cela puisse constituer une faute ou un motif de licenciement, ou travailler durant cette nouvelle journée de solidarité et être rémunérés.
+
+Le travail de la journée de solidarité ne constitue pas une modification du contrat de travail.
