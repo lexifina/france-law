@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060321995
+
+- Question : [SEQ060321995](seq060321995.md) — Prise en compte du risque ESB chez les petits ruminants
+
+## Réponse
+
+*Agriculture, JO du 2006-06-15, page 1648*
+
+A la suite de la découverte d'un cas d'encéphalopathie spongiforme bovine (ESB) sur une chèvre au début de l'année 2005, des programmes de surveillance renforcés des encéphalopathies spongiformes transmissibles (EST) ont été progressivement mis en oeuvre en France, à l'équarrissage et à l'abattoir, sur les caprins puis sur les ovins. Deux souches d'EST présentant un profil différent de celui communément observé en cas de tremblante ont été isolées, au début de l'année 2006, sur les cerveaux de brebis analysées dans le cadre de la surveillance à l'équarrissage. Conformément aux procédures prévues, les prélèvements ont immédiatement fait l'objet d'analyses complémentaires au niveau du laboratoire communautaire de référence de Weybridge, au Royaume-Uni. D'après les premières conclusions, les caractéristiques de ces souches sont différentes de l'ESB. Ces résultats doivent être confirmés par des tests biologiques, après inoculation à des souris, qui nécessitent un délai d'environ une année. Dans l'attente, les programmes de surveillance renforcés sont complétés par un dépistage systématiques des EST à l'abattoir dans l'espèce ovine, engagé depuis la fin du mois de mars. Enfin, les ministres chargés de la santé, de l'agriculture et de la consommation ont saisi, le 15 mars, l'Agence française de sécurité sanitaire des aliments (AFSSA) sur l'évaluation des risques liés à la présence d'ESB dans l'espèce ovine, notamment pour préciser la faisabilité et l'utilité de la mise en oeuvre d'un dépistage à partir de prélèvements de tissus périphériques. Les réponses de l'AFSSA sont attendues pour le début de l'été.
