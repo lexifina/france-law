@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523175
+
+- Question : [SEQ060523175](seq060523175.md) — Statut des offices de tourisme intercommunaux
+
+## Réponse
+
+*Tourisme, JO du 2006-06-15, page 1673*
+
+La loi n° 2006-437 du 14 avril 2006 portant diverses dispositions relatives au tourisme a modifié l'article L. 134-5 du code du tourisme en ouvrant la possibilité à deux ou plusieurs groupements de communes de créer conjointement, au moyen d'un syndicat mixte, un seul office de tourisme « intercommunautaire ». Cette mesure se justifie par le fait qu'un territoire pertinent d'un point de vue touristique ne correspond pas toujours aux frontières administratives des communes ou des structures intercommunales qui le composent. Par principe, l'influence de cet office de tourisme intercommunautaire a vocation à s'étendre sur un vaste ensemble territorial. Dès lors, il faut donner à cette structure de solides garanties de sécurité juridique. C'est pourquoi, le législateur a encadré cette ouverture en privilégiant une forme d'organisation, celle de l'établissement public industriel et commercial, seule catégorie d'organisme local du tourisme bénéficiant d'un encadrement juridique précis (articles L. 133-4 à L. 133-10 du code du tourisme et R. 2231-31 à R. 2231-49 du code général des collectivités territoriales). En effet, il est essentiel de maintenir un lien juridique étroit entre les collectivités territoriales (les communes) et l'office de tourisme ainsi institué à l'échelle supra communautaire, que seule la forme d'établissement public peut garantir par une présence majoritaire des élus au sein de son comité de direction. Par ailleurs, le nombre important de collectivités territoriales concernées par la création d'un office de tourisme intercommunautaire devrait permettre, par une mutualisation des moyens, de doter ce nouvel outil du tourisme local des capacités de fonctionnement nécessaires à son bon développement.
