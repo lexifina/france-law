@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422677
+
+- Question : [SEQ060422677](seq060422677.md) — Avis des associations de consommateurs devant les CDEC
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2006-06-15, page 1670*
+
+Le décret n° 93-306 du 9 mars 1993, relatif à l'autorisation d'exploitation commerciale de certains magasins de commerce de détail et de certains établissements hôteliers, aux observatoires et aux commissions d'équipement commercial, fixe les règles de fonctionnement des commissions départementales d'équipement commercial (CDEC). L'article 8 de ce décret indique que le représentant des associations de consommateurs ainsi que son suppléant sont désignés en son sein par le collège des consommateurs et usagers du comité départemental de la consommation. Il convient de noter cependant qu'il s'agit d'une désignation intuitu personae : dès lors le représentant des consommateurs ne se détermine pas en fonction d'un mandat et peut adopter la position qu'il souhaite en séance au vu des éléments présentés en CDEC. Il en est, d'ailleurs, de même pour les présidents des chambres consulaires. L'article 17 dispose que la CDEC se prononce par un vote à bulletins nominatifs et que la décision motivée, signée par le président, indique le sens du vote émis par chacun des membres. Ces dispositions permettent ainsi aux associations de suivre les positions défendues par leurs représentants. Ce système fonctionne de manière satisfaisante et il ne paraît pas souhaitable, à ce stade, d'alourdir la procédure en soumettant les membres de la CDEC à l'obligation de formuler leurs avis par écrit. En effet, cette obligation, qui ne saurait être imposée seulement à certains membres de la CDEC, ne serait pas compatible avec le caractère oral des auditions qui complètent le dossier constitué pour la réunion de la commission départementale.
