@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051019792
+
+- Question : [SEQ051019792](seq051019792.md) — Avenir des abattoirs en France
+
+## Réponse
+
+*Agriculture, JO du 2006-06-15, page 1648*
+
+La nouvelle réglementation communautaire en matière de sécurité sanitaire des aliments est entrée en application le 1er janvier 2006 sous la terminologie générique de « paquet hygiène ». Elle ne génère pas, en particulier dans le domaine des abattoirs, de dispositions nouvelles en termes d'infrastructure et d'équipement. En effet, la priorité est donnée au fonctionnement des outils et aux plans de maîtrise sanitaire mis en oeuvre par les opérateurs. Un certain nombre d'abattoirs français ne satisfont pas aux normes communautaires. Quelques-uns d'entre eux ne pourront poursuivre leur activité s'ils ne s'engagent pas rapidement dans une mise à niveau sanitaire tant structurelle que fonctionnelle. Par ailleurs, outre le respect des exigences sanitaires, la décision de maintien ou de fermeture d'un abattoir intègre les paramètres économiques liés d'une part au fonctionnement de l'outil et d'autre part à l'impact sur les filières animales régionales. A cette fin, un travail visant à reconsidérer, d'ici à la fin 2006, le schéma national des abattoirs, en tenant compte des paramètres sanitaires et économiques précités, a été engagé par les services du ministère de l'agriculture et de la pêche. Les préfets de région y sont associés. Dans le cas particulier de la région Languedoc-Roussillon, le conseil régional a financé une étude sur la situation des abattoirs d'animaux de boucherie. Cette analyse, très complète, a été réalisée à l'automne 2005. Elle propose différents scenarii, qui tiennent compte de la situation économique des outils d'abattage, des productions et des besoins de consommation locaux... Ses conclusions seront exploitées, entre autres, dans le cadre du travail ministériel précité.
