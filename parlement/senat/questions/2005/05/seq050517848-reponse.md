@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517848
+
+- Question : [SEQ050517848](seq050517848.md) — Réglementation de la production de fromages au lait cru
+
+## Réponse
+
+*Agriculture, JO du 2006-06-22, page 1712*
+
+Les conditions sanitaires de la production des denrées alimentaires sont réglementées par la réglementation communautaire, regroupée sous la dénomination de « paquet hygiène » et entrée en vigueur le 1er janvier 2006. Cette réglementation définit le lait cru. Elle vise explicitement les fromages au lait cru en prévoyant des règles d'hygiène pour la production et la mise en marché de ces produits. Elle maintient le principe de la reconnaissance pour les produits bénéficiant de caractéristiques traditionnelles. Par ailleurs, la France s'est particulièrement engagée dans les négociations portant sur le règlement communautaire relatif aux critères microbiologiques, afin qu'à ce niveau aussi il soit tenu compte des particularités du lait cru. Parallèlement, la France a toujours oeuvré pour que les produits au lait cru fassent l'objet d'une reconnaissance au niveau international, alors même qu'ils suscitaient une opposition forte, notamment des pays anglo-saxons ou scandinaves. Le Codex alimentarius, enceinte de l'Organisation pour l'agriculture et l'alimentation (FAO) et de l'Organisation mondiale de la santé (OMS) qui établit des normes internationales sur les produits alimentaires, a entériné, en février 2003, la reconnaissance du principe selon lequel les produits au lait cru ont vocation de fait à participer au commerce mondial. Le Codex alimentarius admet en outre que la pasteurisation n'est pas la seule méthode pour maîtriser la qualité bactériologique de ces produits. Ainsi la préservation de produits à caractère patrimonial, compatibles avec la protection de la santé publique, est une des priorités des services du ministère de l'agriculture et de la pêche dans les négociations communautaires et internationales.
