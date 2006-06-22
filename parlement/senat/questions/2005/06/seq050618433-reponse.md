@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618433
+
+- Question : [SEQ050618433](seq050618433.md) — Réhabilitation des décharges intercommunales et aides aux collectivités
+
+## Réponse
+
+*Écologie, JO du 2006-06-22, page 1721*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative au financement des travaux de réhabilitation de l'ancienne décharge de Bitche. Tout d'abord, il convient de rappeler que la décharge de Bitche pour laquelle le syndicat de communes du Pays de Bitche (SCPB) a bénéficié d'une d'autorisation d'exploitation en octobre 1982 a été fermée en juin 2002. Avec la notification de cet arrêt définitif, le SCPB a présenté un programme de travaux destiné à la remise en état du site, conformément aux dispositions de l'article 34-1 du décret n° 77-1133 du 21 septembre 1977 modifié. Il s'agit en pareil cas de mettre en place une couverture finale sur le stockage des déchets, d'installer un réseau de collecte du biogaz ou encore de créer un bassin étanche de stockage des lixiviats. Cependant, ces travaux n'ont jamais été réalisés. L'absence de tels équipements, surtout dans un contexte géologique défavorable, conduit nécessairement à une dégradation de la situation environnementale et à un alourdissement des travaux nécessaires pour y remédier. Le préfet de la Moselle, constatant l'inaction du SCPB malgré plusieurs mises en demeure, a donc pris récemment un arrêté de consignation de la somme correspondant au montant de travaux à réaliser pour la réhabilitation du site. Le SCPB devrait bénéficier d'aides du conseil général de la Moselle et de l'agence de l'eau Rhin-Meuse pour la réalisation des travaux. Cette affaire montre l'importance pour les exploitants de décharge de constituer des provisions suffisantes pour permettre une réelle remise en état du site.
