@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422861
+
+- Question : [SEQ060422861](seq060422861.md) — Statut des consuls honoraires de France
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-06-22, page 1710*
+
+La France dispose, à ce jour, de 502 agences consulaires qui forment un réseau très diversifié. Elles n'ont pas toutes le même profil d'activité, dans certains cas, les motifs politiques, économiques ou culturels pouvant prévaloir sur les compétences administratives alors qu'ailleurs ils pourront être accessoires. Les consuls honoraires sont des relais particulièrement utiles en marge de nos représentations officielles, notamment dans les pays au vaste territoire ou à la géographie physique très étirée ou insulaire. En 2006, avec la mise en application de la LOLF, un changement important est intervenu dans l'aide financière apportée aux consuls honoraires. La subvention pour insuffisance de recettes jusqu'alors accordée au vu du compte rendu d'activité de l'année échue a été modernisée. Intégrée dans l'enveloppe globale de crédits de fonctionnement du poste, elle est versée par l'ambassadeur ou le chef de poste consulaire en début d'exercice budgétaire. Par ailleurs, afin de développer la formation et l'information des consuls honoraires, un extranet est en cours d'élaboration. Ce site sera activé à la fois par le poste consulaire, qui pourra y insérer des informations locales, et par l'administration centrale pour la mise à jour d'informations d'ordre général. La suggestion d'inviter périodiquement l'ensemble des consuls honoraires pour une rencontre avec le ministre des affaires étrangères et les principales instances nationales mérite d'être examinée avec attention. Les exemples danois, suédois et allemands sont, à cet égard, des sources d'inspiration. Mais il convient de souligner que les réseaux correspondants s'appuient davantage sur les consuls honoraires et comptent moins de postes consulaires de plein exercice que le réseau français.
