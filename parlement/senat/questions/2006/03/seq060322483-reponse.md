@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322483
+
+- Question : [SEQ060322483](seq060322483.md) — Manifestations des étudiants et lycéens
+
+## Réponse
+
+*Intérieur, JO du 2006-06-29, page 1785*
+
+Se positionner de manière discrète tout en préservant une capacité de réaction rapide pour intervenir a été l'impératif des forces de l'ordre pour gérer ces manifestations. En effet, les étudiants et les lycéens ont souhaité assurer leur propre gestion du service d'ordre et se faisaient fort de protéger les cortèges et d'en évincer les fauteurs de troubles. En effet, les organisateurs ont estimé qu'une présence trop ostensible des effectifs de police et de gendarmerie était provocatrice et attentatoire à la liberté de manifester. Aussi, cette contrainte a-t-elle été prise en compte par les forces de l'ordre et des dispositifs de protection périphériques bien en amont des manifestations proprement dites ont été mis en place. C'est ainsi que la présence des services de sécurité a été accrue dans le réseau de transport urbain et les gares qui desservent la banlieue parisienne avec pour objectif de repérer et écarter les casseurs. Cette mission a été rendue délicate par la difficulté d'identifier les fauteurs de troubles en l'absence d'arrivées groupées sans porter atteinte de manière excessive à la liberté d'aller et venir. L'intervention des policiers et des gendarmes ne devait pas conduire à créer un trouble public supérieur à celui auquel elles avaient à faire face en interpellant des individus très jeunes et très mobiles au sein d'une foule dense. Le recours aux interpellations différées à l'aide du marquage à distance et de la vidéo a donc été privilégié. Au total, 4 350 personnes ont été interpellées. Les forces de maintien de l'ordre ont fait leur travail avec professionnalisme au cours de services longs et éprouvants. Leurs actions ont été empreintes de discernement, maîtrise et fermeté malgré les conditions souvent difficiles qui les entouraient.
