@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623519
+
+- Question : [SEQ060623519](seq060623519.md) — Modification du balisage des fermes éoliennes
+
+## Réponse
+
+*Transports et équipement, JO du 2006-06-29, page 1796*
+
+A l'extérieur des zones grevées de servitudes aéronautiques de dégagement, le balisage des éoliennes est prescrit en application de l'article R. 244-1 du code de l'aviation civile dont les modalités d'application sont précisées par un arrêté ministériel du 25 juillet 1990 et une instruction technique du 16 novembre 2000. Selon l'article 2 de l'arrêté du 25 juillet 1990, peuvent être soumises à un balisage diurne et nocturne les installations dont la hauteur au-dessus du sol ou de l'eau dépasse 80 mètres hors agglomération et 130 mètres en agglomération, sauf dans certaines zones où un balisage peut être prescrit dès lors que la hauteur de l'obstacle dépasse 50 mètres. Les caractéristiques des feux de balisage qui figurent dans l'instruction précitée sont conformes aux normes et recommandations de l'Organisation de l'aviation civile internationale (OACI). L'intensité lumineuse minimale prescrite est adaptée aux impératifs de sécurité. Pour les éoliennes de hauteur inférieure à 150 mètres, des nouveaux matériels sont en cours d'évaluation. Ils utilisent des feux fixes de moyenne intensité, moins gênants que les feux à éclats à luminosité égale. En cas de résultats positifs de l'évaluation, la réglementation pourrait être amendée pour autoriser ces matériels la nuit, en fonction de l'environnement aéronautique. Par ailleurs, les travaux en cours au sein de l'OACI permettent d'envisager, à moyen terme, l'introduction de dispositions spécifiques aux éoliennes. Ces dispositions pourraient alors être moins contraignantes que les prescriptions actuelles qui s'appliquent à tous les types d'obstacles. La réglementation nationale sera adaptée dès la publication des nouvelles spécifications internationales.
