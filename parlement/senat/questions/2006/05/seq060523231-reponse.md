@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523231
+
+- Question : [SEQ060523231](seq060523231.md) — "Marché du sexe" à la Coupe du monde de football
+
+## Réponse
+
+*Jeunesse et sports, JO du 2006-06-29, page 1790*
+
+Le ministre de la jeunesse, des sports et de la vie associative a mené depuis 2002 une politique volontariste visant à réaffirmer et à défendre les valeurs du sport. C'est au nom de ces valeurs et principes éthiques que le ministre promeut le modèle d'organisation du sport français reposant sur l'unité entre le sport amateur et professionnel, sur la complémentarité entre le haut niveau et un sport accessible au plus grand nombre, notamment aux publics en difficulté. Le ministre ne conçoit le sport qu'en tant qu'il défend le respect de la personne humaine, alors même que la prostitution et la traite constituent une négation de ce principe. Le ministre de la jeunesse, des sports et de la vie associative a eu l'occasion d'évoquer cette grave question avec Mme Utta Von Der Leyen, ministre allemande de la famille, des personnes âgées, de la femme et de la jeunesse, lors du sommet franco-allemand tenu à Berlin le 14 mars 2006. Il lui a adressé un courrier faisant suite à cette rencontre. Indépendamment de cette intervention directe, il a pris l'initiative, avec le président de la Fédération française de football, de s'adresser aux passionnés de football susceptibles de se rendre en Allemagne pour la Coupe du monde de football. C'est ainsi qu'un message est délivré au public à l'occasion des matchs amicaux préparatoires à la Coupe du monde qui se joueront à compter du mois de mai. Le premier a eu lieu lors du match France-Mexique le 27 mai au Stade de France. Le ministre de la jeunesse, des sports et de la vie associative est déterminé à s'engager pour rappeler que le sport ne peut et ne doit être associé à des entreprises à ce point étrangères à son esprit et contraires au respect de la personne humaine.
