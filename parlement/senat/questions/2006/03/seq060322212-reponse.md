@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322212
+
+- Question : [SEQ060322212](seq060322212.md) — Compensation financière pour les communes soumises à une obligation de protection de pipelines
+
+## Réponse
+
+*Industrie, JO du 2006-06-29, page 1779*
+
+Le renforcement de la sécurité dans les zones traversées par des pipelines a pour objet de limiter l'exposition des riverains des canalisations de transport aux risques présentés par ces ouvrages. Dans le cadre d'un projet d'arrêté interministériel en cours de finalisation, destiné à réglementer la sécurité des canalisations de transport, la règle est que l'exploitant d'une canalisation de transport existante sera tenu, lorsque l'urbanisation se densifiera à proximité de cette canalisation et à partir de certains seuils de densité de population dans la zone des dangers, de renforcer la sécurité de l'ouvrage et d'en supporter intégralement le coût. Ce coût ne sera qu'exceptionnellement à la charge de l'aménageur en cas de constructions de certaines catégories d'immeubles de grande hauteur (IGH) ou d'établissements recevant du public (ERP) susceptibles de recevoir plus de cent personnes, eu égard au principe de l'antériorité, et si l'aménageur maintient son projet à l'endroit prévu. Il convient par ailleurs de signaler l'existence, pour les canalisations de transport de gaz et d'hydrocarbures, d'une redevance d'occupation du domaine public des communes et de celui des départements déterminée en application des articles L. 2331-2, L. 2333-84 à 86, L. 3333-8 à 10, R. 2333-114 à 120 et R. 3333-12 à 17 du code général des collectivités territoriales. Dans le cadre de la réforme d'harmonisation et de simplification des dispositions législatives et réglementaires qui a été engagée en matière de canalisations de transport, l'élargissement de l'application de cette redevance aux canalisations de transport de produits chimiques, ainsi que la revalorisation de l'assiette sont actuellement à l'étude.
