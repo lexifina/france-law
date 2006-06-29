@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523002
+
+- Question : [SEQ060523002](seq060523002.md) — Situation des groupements d'employeurs multisectoriels spécialisés dans l'activité agricole
+
+## Réponse
+
+*Agriculture, JO du 2006-06-29, page 1771*
+
+Jusqu'à la loi d'orientation agricole du 5 janvier 2006, seuls les chefs d'exploitations ou d'entreprises agricoles et les groupements d'employeurs exclusivement composés d'exploitants ou de sociétés civiles agricoles pouvaient bénéficier des allégements de cotisations patronales de sécurité sociale pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi prévus par l'article L. 741-16 du code rural. Un exploitant agricole qui décidait d'adhérer ou de constituer un groupement d'employeurs multisectoriel perdait en conséquence le bénéfice de ces allégements. L'article 27 de la loi d'orientation agricole a modifié l'article L. 741-16 du code rural afin d'étendre, dans certaines conditions, le bénéfice des taux réduits de cotisations sur salaires pour l'emploi de travailleurs occasionnels auxdits groupements multisectoriels. Ainsi, ces taux réduits vont désormais être applicables aux groupements d'employeurs qui sont composés pour partie seulement d'exploitants ou de sociétés civiles agricoles exerçant une ou plusieurs activités de productions agricoles visées aux 1° et 4° de l'article L. 722-1 du code rural et dont le chiffre d'affaires est réalisé majoritairement avec ces adhérents. Les taux réduits s'appliquent à ces groupements d'employeurs multisectoriels au titre des mises à disposition de salariés auprès des exploitants ou sociétés civiles agricoles exerçant une ou plusieurs des activités susvisées. Ces dispositions constituent donc une évolution favorable, même si elles ne s'étendent pas à l'ensemble des groupements d'employeurs multisectoriels.
