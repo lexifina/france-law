@@ -1,0 +1,93 @@
+# Article 1er
+
+Cet avenant modifie le champ d'application de l'accord du 29 mai 1989, tel que défini à l'article 1er du titre de la convention collective du négoce de l'ameublement, rendant applicable l'accord de prévoyance ainsi que ses avenants sur l'ensemble du territoire national, dont les DOM, entre les employeurs et les salariés des professions dont l'activité professionnelle exclusive ou principale est référencée dans la nomenclature d'activités instaurée par le décret n° 92-1129 du 2 octobre 1992 sous les codes NAF suivants :
+
+ACTIVITES ENTRANT
+
+dans le champ d'application de la présente convention
+
+|
+
+CODE NAF
+
+|
+
+Commerce de détail de l'ameublement
+
+|
+
+52.4 H
+
+|
+
+Commerce de détail de luminaires
+
+|
+
+52.4 J
+
+|
+
+Commerce de détail de tapis et moquettes
+
+|
+
+52.4 U
+
+|
+
+Commerce de détail de meubles et sièges en vannerie
+
+|
+
+52.4 J et H
+
+|
+
+Centrales et groupements d'achats des professions visées par la présente convention
+
+|
+
+51.1 U
+
+|
+
+Commerce de gros en ameublement
+
+|
+
+51.4 S
+
+|
+
+Intermédiaires du commerce en meubles
+
+|
+
+51.1 J
+
+|
+
+Entrepôts d'ameublement
+
+|
+
+63.1 E
+
+|
+
+Organisations syndicales d'employeurs des professions entrant dans le champ d'application de la présente convention
+
+|
+
+91.1 A
+
+|
+
+Location de meubles et sièges
+
+|
+
+71.4 B
+
+|
