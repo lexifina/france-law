@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221793
+
+- Question : [SEQ060221793](seq060221793.md) — Prise en charge du transport ferroviaire des schlamms en vue de leur recyclage
+
+## Réponse
+
+*Industrie, JO du 2006-07-06, page 1860*
+
+Lors de la création, en 1995, de la Société nationale d'Electricité et de Thermie (SNET), les Charbonnages de France (CdF) ont apporté à la société à la fois les centrales thermiques mais également les bassins de décantation de Lorraine dont les schlamms, dans le cadre de leur recyclage, devaient servir de combustible. La société SODELIF, filiale de la SNET, exploite depuis cette date les différents bassins mis à sa disposition. Elle est aujourd'hui amenée à utiliser le bassin du siège 2 de la Houve, ce qui pose la question du moyen de transport adéquat à l'acheminement de ces schlamms jusqu'au site de la centrale Emile-Huchet de Carling. Le recours au transport routier apparaît pour l'ensemble des acteurs locaux comme une solution difficilement envisageable compte tenu des risques environnementaux liés à la circulation. Un transport par chemin de fer est de loin préférable et rendu possible par la desserte des deux installations, la mine et la centrale. Compte tenu de la reprise de l'exploitation des bassins du siège 2 par la SODELIF, l'arrêté préfectoral du 5 août 2005 a prévu un partage de responsabilité entre l'ancien et le nouvel exploitant pour la mise en sécurité des installations. Toutefois, ces obligations résiduelles pour CdF n'incluent pas la prise en charge financière d'une partie des coûts de transport des schlamms, qui n'est manifestement pas lié à une nécessité de mise en sécurité des bassins. De plus, il serait manifestement contraire au droit de la concurrence qu'un établissement public, dont la date de dissolution est désormais connue, apporte de quelque façon que ce soit une aide à une entreprise du secteur concurrentiel comme la SNET.
