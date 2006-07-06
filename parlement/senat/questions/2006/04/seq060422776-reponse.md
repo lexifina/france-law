@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422776
+
+- Question : [SEQ060422776](seq060422776.md) — Activité du service départemental d'incendie et de secours de la Haute-Saône
+
+## Réponse
+
+*Intérieur, JO du 2006-07-06, page 1865*
+
+L'honorable parlementaire attire l'attention de M. le ministre d'État, ministre de l'intérieur et de l'aménagement du territoire sur la situation du service départemental d'incendie et de secours (SDIS) de la Haute-Saône. L'article L. 1424-42 du code général des collectivités territoriales, modifié par l'article 124 de la loi n° 2002-276 du 27 février 2002, relative à la démocratie de proximité, permet désormais aux services départementaux d'incendie et de secours de demander aux établissements hospitaliers sièges des SAMU le remboursement des interventions effectuées par l'établissement public, à la demande de la régulation médicale du centre 15, en cas de carence des transporteurs sanitaires privés. Dans l'attente de l'arrêté prévu par cette disposition législative, actuellement en cours d'élaboration, la prise en charge de ces interventions fait l'objet d'une convention entre le SDIS et l'établissement hospitalier. A cet égard, il est indiqué à l'honorable parlementaire que les dotations régionales destinées aux établissements de santé, fixées par circulaire DHOS/F2/DSS/1A/2005/473 du 18 octobre 2005, ont intégré, pour l'année 2005, une revalorisation à hauteur de 92 EUR, du forfait payable aux SDIS. Les services de la direction de la défense et de la sécurité civiles ont demandé aux SDIS de rendre compte des difficultés rencontrées au plan local pour obtenir le remboursement de ces interventions effectuées en carence des ambulanciers privés, et le ministère de la santé et des solidarités, direction de l'hospitalisation et de l'organisation des soins (DHOS), a fait savoir qu'il interviendrait auprès des agences régionales de l'hospitalisation (ARH) afin que ce remboursement soit effectif.
