@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422954
+
+- Question : [SEQ060422954](seq060422954.md) — Projet de rénovation du programme de baccalauréat technologique STAE
+
+## Réponse
+
+*Agriculture, JO du 2006-07-06, page 1838*
+
+La création du baccalauréat technologique série « Sciences et technologies de l'agronomie et du vivant, agronomie-alimentation-environnement-territoires », à la rentrée 2006, suscite des questions sur la faisabilité et la lisibilité de ce diplôme. Ce nouveau baccalauréat technologique propose une alternative à la filière générale. Le regroupement des « sciences exactes » et des « sciences expérimentales », telles que la biologie, l'agronomie et les technologies actuelles du monde agricole, permet d'acquérir les enseignements fondamentaux nécessaires à la poursuite d'études. La création d'une série unique regroupant tous les champs de compétences de l'enseignement agricole offre aux élèves un choix plus large et moins prédéterminé vers l'enseignement supérieur tout en unifiant la filière technologique préparatoire. Cette solution propose une réponse adaptée aux jeunes qui ne souhaitent pas suivre un cursus fondé uniquement sur les sciences exactes sans diminuer la possibilité de suivi d'études longues. La consultation organisée a suscité un très grand nombre de remarques qui ont été analysées par les inspecteurs de l'enseignement agricole en charge de ce dossier. Elles ont permis d'enrichir les référentiels de diplôme, qui ont été favorablement accueillis lorsqu'ils ont été présentés aux instances consultatives. L'application, dès 2006, de cette réforme doit permettre l'accès du plus grand nombre de nos élèves à l'enseignement supérieur. Elle précèdera la refonte des formations du même type au ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche. Un plan d'accompagnement, actuellement mis en oeuvre, facilitera le travail des équipes pédagogiques pour la préparation de la rentrée 2006-2007.
