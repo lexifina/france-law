@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221731
+
+- Question : [SEQ060221731](seq060221731.md) — Conditions d'obtention de la nationalité française
+
+## Réponse
+
+*Cohésion sociale, JO du 2006-07-06, page 1844*
+
+Les dispositions de l'article 68 de la loi n° 2003-1119 du 26 novembre 2003, relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité, ont modifié l'article 21-24 du code civil, en subordonnant l'acquisition de la nationalité française à une nouvelle condition. L'étranger qui souhaite être naturalisé ou réintégré dans la nationalité française doit en effet justifier d'une connaissance suffisante, selon sa condition, non seulement de la langue française, mais aussi des « droits et devoirs conférés par la nationalité française ». Cette nouvelle exigence doit permettre de s'assurer de la volonté du postulant d'accepter et de partager les principes et les valeurs de notre Républidelaque. Une brochure d'information présentant les institutions de notre pays et ses valeurs est remise à toute personne sollicitant la nationalité française. Elle doit lui permettre de se préparer aux questions qui lui seront posées au cours de l'entretien individuel prévu à l'article 43 du décret n° 93-1362 du 30 décembre 1993 modifié, au cours duquel un agent désigné par le préfet ou l'autorité consulaire vérifie le degré d'assimilation à la communauté française du candidat. Sont ainsi appréciées la connaissance de la langue française et les connaissances civiques des postulants. Les questions relatives aux droits et devoirs conférées par la nationalité française posées au cours de cet entretien sont soit fermées, c'est-à-dire appelant une réponse par oui ou non, soit à choix multiple quand elles portent sur l'organisation politique et administrative de la France, les libertés publiques, les obligations de tout citoyen français. La mise en place de cette procédure est prévue pour le début de l'année 2007.
