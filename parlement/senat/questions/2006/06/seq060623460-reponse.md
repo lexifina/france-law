@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623460
+
+- Question : [SEQ060623460](seq060623460.md) — Eventuelle fermeture d'une base PNC stationnée à Roissy-Charles-de-Gaulle
+
+## Réponse
+
+*Transports et équipement, JO du 2006-07-06, page 1873*
+
+En 1992, la compagnie United Airlines a ouvert à l'aéroport Paris-Charles-de-Gaulle une base de personnels navigants. Répondant alors aux préoccupations de l'administration française du travail, United Airlines a privilégié le recrutement de personnels de nationalité française sans aucune contrepartie de quelque nature que ce soit. Fin 2005, 264 personnes, dont 183 de nationalité française, étaient rattachées à cette base. A la suite des événements du 11 septembre 2001, United Airlines a connu de grandes difficultés financières. La compagnie a été placée sous le régime du chapitre 11 de la loi américaine sur les faillites en décembre 2002. Depuis 2001, cette compagnie a réduit ses effectifs de moitié (ils sont passés de 100 000 à 50 000) et a fermé cinq de ses bases dans le monde. Au début de cette année, la compagnie a décidé la fermeture de la base de Paris-Charles-de-Gaulle, à compter du 1er mai 2006. Elle a proposé à tous les personnels navigants rattachés à cette base de rejoindre soit celle de Francfort, soit celle de Londres. Sur les 264 salariés concernés, seuls 93 ont refusé les propositions qui leur ont été faites. La compagnie et le syndicat américain représentant les salariés, l'AFA (Association of Flight Attendants), ont conclu récemment, sous l'égide de l'inspection du travail des transports, un accord permettant de répondre aux préoccupations de ces personnels. Ainsi, le bénéfice du régime d'assurance chômage leur sera ouvert, une prestation de reclassement financée par la compagnie sera mise en place et une allocation forfaitaire de 4 000 euros leur sera versée. Enfin, United Airlines s'est également engagée à faciliter le reclassement de ses anciens salariés dans des compagnies françaises.
