@@ -62,8 +62,6 @@ Eternit, établissement de Saint-Grégoire, BP 1, 35761 Saint-Grégoire Cedex : 
 
 Le Mastic Breton, 35530 Noyal-sur-Vilaine : de 1960 à 1985.
 
-SA CAPIC, 7, Hent-Kamm, 29000 Quimper : de 1978 à 1993.
-
 Centre
 
 Ets Preault, puis Regelflex, puis Ancienne Manufacture d'Antony, 14, boulevard d'Anvaux, 36000 Châteauroux, de 1976 à 1996 ;
@@ -82,7 +80,7 @@ Champagne-Ardenne
 
 Forbo Sarlino, 63, rue Gosset, 51100 Reims : de 1960 à 1984 ;
 
-FOSECO, chemin Noir, 08350 Donchery : de 1961 à 1983.
+Foseco, chemin Noir, 08350 Donchery : de 1961 à 1983 ;
 
 Corse
 
@@ -299,8 +297,6 @@ Ferodo/Ferodo/Abex/Necto/Abex Industries SA/American Bracklock Abex Pagid Equipe
 Ferrettite/DCP/Doneco-Ferrettite/Celtite Profilex/DFC/ Covaldi/EPC : Villiers-Saint-Paul, ZI Nogent, 60104 Creil : de 1929 à 1996 ;
 
 Rieter Automotive, 60650 La Chapelle-aux-Pots : de 1960 à 1988 ;
-
-SA Fichet Bauche, 80460 Oust-Marest : de 1969 à 1977 ;
 
 Valeo, espace industriel Nord, 5, rue Roger-Dumoulin, BP 0926, 80009 Amiens Cedex 1 : de 1958 à 1992.
 
