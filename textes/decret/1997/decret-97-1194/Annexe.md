@@ -292,6 +292,38 @@ Articles 35 et 40.
 
 |
 
+Décret n
+
+°
+
+2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
+
+substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental
+
+métropolitains
+
+1
+
+|
+
+Prolongation de concession.
+
+|
+
+Article 31.
+
+|
+
+2 |
+
+Extension de concession.
+
+|
+
+Article 7.
+
+|
+
 Décisions entrant dans le champ des compétences de la direction de la sûreté des installations nucléaires
 
 Décret n° 63-1228 du 11 décembre 1963 modifié relatif aux installations nucléaires
@@ -897,6 +929,50 @@ Mise en demeure et sanctions.
 |
 
 Article 9, alinéas 1 et 2.
+
+|
+
+Décret n°
+
+2006-798 du 6 juillet 2006 relatif à la prospection, à la recherche et à l’exploitation de
+
+substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental
+
+métropolitains
+
+1
+
+|
+
+Décisions relatives aux permis exclusifs de recherche : octroi,
+
+rejet, prolongation, mutation et extension.
+
+|
+
+Articles 7, 15, 31 et 32.
+
+|
+
+2 |
+
+Rejet de demande de concession.
+
+|
+
+Article 15.
+
+|
+
+3 |
+
+Octroi ou rejet de demande d’autorisation de prospection
+
+préalables.
+
+|
+
+Articles 26 et 28.
 
 |
 
