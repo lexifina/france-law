@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523281
+
+- Question : [SEQ060523281](seq060523281.md) — Conditions d'expédition du Journal officiel Lois et décrets
+
+## Réponse
+
+*Premier ministre, JO du 2006-07-13, page 1907*
+
+L'expédition du Journal officiel Lois et décrets sur support papier est toujours réalisée le jour même de sa parution. Les exemplaires sont directement retirés par la Poste dans les locaux de la direction des Journaux officiels. Cette procédure, parfaitement rodée, n'a pas subi de modification durant la période récente et aucun dysfonctionnement n'a été identifié. La souscription au mode de routage « presse urgente », contractée auprès de la Poste, permet d'assurer la distribution du Journal officiel dans un délai de J + 1 auprès des abonnés. Un autre marché passé avec la Poste garantit un service de livraison par véhicule auprès des ministères, soit 2 200 abonnés, dès la sortie du Journal officiel Lois et décrets. En dehors de ce cadre, la direction des Journaux officiels ne peut maîtriser les éventuels aléas qui pourraient affecter les flux postaux ou les circuits internes de traitement du courrier propres à chaque administration. S'agissant de la diffusion électronique, il convient de rappeler qu'en sus des possibilités de consultation offertes sur le site www.legifrance.gouv.fr, une version électronique authentifiée, opposable au même titre que la version papier, est disponible de façon gratuite et permanente depuis le 2 juin 2004, sur le site www.journal-officiel.gouv.fr. La présentation ergonomique de cette édition favorise l'accessibilité des personnes à capacités réduites. La version au format PDF permet, en particulier, une lecture aisée. La police de caractères utilisée est plus grande que celle employée sur le support papier et le logiciel de visualisation autorise le libre dimensionnement de la page à l'écran.
