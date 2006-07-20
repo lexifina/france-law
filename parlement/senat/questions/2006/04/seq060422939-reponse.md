@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422939
+
+- Question : [SEQ060422939](seq060422939.md) — Report de l'imposition des plus-values en cas de partage des parts
+
+## Réponse
+
+*Économie, JO du 2006-07-20, page 1955*
+
+Le II de l'article 151 nonies du code général des impôts prévoit un régime de report d'imposition des plus-values réalisées en cas de transmission à titre gratuit des parts d'une société dans laquelle l'associé exerce son activité professionnelle. Ce report est en outre assorti d'une exonération en cas de poursuite de l'activité pendant cinq ans. En cas de partage avec soulte, dans le cadre d'une donation ou d'une indivision successorale, une telle opération est considérée en principe comme une cession à titre onéreux qui aboutit à la remise en cause du report d'imposition. Cela étant, afin de ne pas pénaliser la transmission des entreprises, il sera admis que le report soit maintenu sous réserve que la donation et le partage soient réalisés au sein du même acte ou que le partage de l'indivision successorale se déroule avant l'expiration du délai maximal de dépôt de la déclaration prévue par l'article 641 du code général des impôts, soit une année à compter du décès. Dans ces situations, le nouvel associé doit prendre les dispositions nécessaires au respect des conditions précisées au II de l'article 151 nonies. Toutefois cette tolérance reste sans incidence sur la répartition de la charge fiscale liée à la quote-part de plus-value en report propre à chacun des bénéficiaires de la transmission. Ce faisant, chaque bénéficiaire demeure redevable de l'impôt sur les plus-values afférent aux parts reçues à l'occasion de la transmission à titre gratuit jusqu'à l'exonération acquise au terme du délai de cinq ans. Ces précisions seront reprises dans une instruction à paraître prochainement, qui commentera le dispositif prévu au II de l'article 151 nonies du code général des impôts tel qu'il résulte de la loi de finances rectificative pour 2005.
