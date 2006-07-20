@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221716
+
+- Question : [SEQ060221716](seq060221716.md) — Allongement de la durée moyenne de l'instruction
+
+## Réponse
+
+*Justice, JO du 2006-07-20, page 1966*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les données relatives à la durée moyenne des procédures d'instruction ne sont disponibles qu'à compter de 1988 et que, du fait d'une modification des modalités de calcul en 1994, les comparaisons ne peuvent s'effectuer avec pertinence qu'entre 1995 et 2004. La durée moyenne des instructions judiciaires est désormais calculée, pour chaque mis en examen, par soustraction entre la date de l'ordonnance de clôture et celle du réquisitoire introductif. Entre 1995 et 2004, elle est passée, tous contentieux confondus, de 16,8 mois à 21,8 mois, soit un allongement de cinq mois. En matière criminelle, l'augmentation de la durée des informations judiciaires est de moins de trois mois sur la même période de dix ans, évoluant de 19,4 mois à 23,2 mois. Pour pallier, notamment, l'aggravation de cette tendance et améliorer l'efficacité du service public de la justice, un guide relatif aux principes directeurs de l'organisation des parquets est diffusé depuis mars 2006. Parmi les préconisations figure ainsi l'amélioration du suivi des dossiers d'instruction par l'organisation de réunions périodiques avec les magistrats instructeurs et par l'établissement, deux fois par an, d'un bilan des procédures en cours, par année d'ouverture et par cabinet. Force est de constater, toutefois, que l'institution judiciaire n'a pas la maîtrise exclusive de l'instruction préparatoire. En effet, le code de procédure pénale, notamment en ses articles 81, 89-1, 113-3 et 116, permet aux parties civiles comme à la personne mise en examen ou au témoin assisté, de demander au juge d'instruction de procéder à certains actes.
