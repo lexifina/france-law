@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623432
+
+- Question : [SEQ060623432](seq060623432.md) — Reconnaissances de paternité de complaisance
+
+## Réponse
+
+*Justice, JO du 2006-07-20, page 1966*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le droit de la filiation ne conditionne pas la validité de la reconnaissance de paternité ou de maternité à la preuve de la vérité biologique de la filiation ainsi établie. Si l'auteur de la reconnaissance s'engage par cet acte à assumer toutes les conséquences juridiques résultant de la filiation et que la reconnaissance n'est pas contestée, elle peut valablement établir un lien de filiation qui n'est pas conforme à la vérité biologique. Toutefois, les reconnaissances frauduleuses d'enfants souscrites par des personnes dont l'intention n'est pas d'assumer les obligations et responsabilités parentales mais de rechercher un avantage lié à la qualité de parent sont manifestement contraires à l'ordre public et à l'intérêt de l'enfant. C'est pourquoi, soucieux de préserver cette institution fondamentale du droit de la famille et de protéger les enfants contre de tels détournements, le Gouvernement a, dans l'ordonnance du 4 juillet 2005 réformant la filiation, étendu les pouvoirs d'action du ministère public, qui pourra intenter une action dès lors qu'il apparaîtra que la filiation a été établie en fraude à la loi. Ces nouvelles dispositions entreront en vigueur le 1er juillet 2006. Par ailleurs, le Gouvernement a, dans la loi relative à l'immigration et l'intégration, introduit un dispositif spécifique applicable à Mayotte, destiné à prévenir les reconnaissances frauduleuses en permettant au procureur de la République de surseoir ou de s'opposer à leur enregistrement. En effet, la collectivité départementale de Mayotte paraît particulièrement exposée à ce phénomène.
