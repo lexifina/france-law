@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316656
+
+- Question : [SEQ050316656](seq050316656.md) — Convention médicale
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-07-20, page 1967*
+
+Les médecins généralistes ont bénéficié, au cours des quatre dernières années, de revalorisations importantes de leurs honoraires. Le tarif de la consultation est passé de 18,5 à 20 euros en 2003 et sera revalorisé à 21 euros au 1er août prochain. La consultation pour les enfants de moins de 2 ans a été portée à 25 euros en 2005 ; celle pour les enfants de 2 à 6 ans vient d'être augmentée à 23 euros. Ce sont des mesures significatives, qui ont été rendues possibles par l'engagement des médecins dans une démarche de maîtrise médicalisée. Le parcours de soins coordonnés, instauré par la loi du 13 août 2004 relative à l'assurance maladie, a renforcé la place du médecin généraliste dans l'offre de soins. En effet, le médecin traitant, fonction remplie dans plus de 99 % des cas par des omnipraticiens, a pour principale mission d'assurer la coordination des soins entre l'ensemble des médecins qui interviennent dans la prise en charge d'un patient. A cet effet, il est chargé d'orienter celui-ci vers un autre médecin en fonction des besoins de l'assuré. La spécificité de son exercice est pleinement reconnue et plus de 99 % des médecins généralistes sont médecins traitants. Le rôle primordial du médecin généraliste dans le parcours coordonné de soins est également valorisé en termes de rémunérations. Il perçoit pour chaque patient en affection de longue durée (ALD) une rémunération forfaitaire annuelle de 40EUR ainsi qu'une majoration de 5 euros en plus du tarif de la consultation pour les enfants âgés de 0 à 24 mois. Chaque médecin a ainsi pu bénéficier, en moyenne, d'une augmentation de sa rémunération d'environ 5 600 euros.
