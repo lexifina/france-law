@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322301
+
+- Question : [SEQ060322301](seq060322301.md) — Relèvement du seuil d'autorisation des remblaiements de lits majeurs de cours d'eau
+
+## Réponse
+
+*Écologie, JO du 2006-07-20, page 1951*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux relèvements du seuil d'autorisation des remblaiements de lits majeurs de cours d'eau prévus dans les projets de décret pris pour l'application de l'ordonnance de simplification du 18 juillet 2005 relative à la police de l'eau et de la pêche. L'objectif majeur de l'ordonnance n° 2005-805 du 18 juillet 2005 est de simplifier les procédures liées à l'exercice de ces deux polices et vise plus particulièrement à limiter le nombre de procédures d'autorisation prévues au titre de la police de l'eau. Ces procédures sont en effet lourdes, longues et coûteuses, tant pour l'administration que pour les bénéficiaires de ces opérations. En contrepartie, l'ordonnance permet au préfet de s'opposer à une opération soumise simplement à une déclaration dans un délai qu'il est proposé de fixer à deux mois, dans un souci général de réduire les délais administratifs vis-à-vis des usagers, s'il apparaît que l'opération est incompatible avec les dispositions du schéma directeur d'aménagement et de gestion des eaux (SDAGE) ou du schéma d'aménagement et de gestion des eaux (SAGE) ou si elle porte atteinte aux intérêts mentionnés à l'article L. 211-1 du code de l'environnement, qui comprennent notamment la prévention des risques liés aux inondations, une atteinte d'une gravité telle qu'aucune prescription ne permettrait d'y remédier. Cette mesure de simplification ne va donc pas à l'encontre des exigences de protection des personnes et des biens vis-à-vis des risques liés aux inondations.
