@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623495
+
+- Question : [SEQ060623495](seq060623495.md) — Illégalité du supplément acquitté par les curistes pour frais de dossier
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-07-27, page 2017*
+
+L'attention du ministre de la santé et des solidarités a été appelée sur la situation des cures thermales et les frais de dossier de 10 euros imposés par certains établissements thermaux aux curistes. Le Gouvernement s'est constamment opposé à cette mesure et le ministre de la santé et des solidarités a eu l'occasion de demander aux partenaires de la convention thermale d'ouvrir un dialogue sans a priori ni condition afin de convenir d'une solution qui respecte les intérêts de chacun, et en particulier des curistes. La Caisse nationale d'assurance maladie et le Conseil national des établissements thermaux, représentant la profession, viennent de conclure un accord. Cet accord prévoit une revalorisation de 6 % du forfait thermal pris en charge par l'assurance maladie, à hauteur de 4 % dans un premier temps et 2 % complémentaires en 2007. La profession s'est engagée à retirer immédiatement les frais de dossier. Cet accord représente une étape importante dont le Gouvernement se félicite. La procédure de validation de cet avenant sera engagée sans délai par le Gouvernement. Ce résultat positif est dû à l'engagement de chacun et à l'esprit de responsabilité qui a prévalu de la part de toutes les parties. Cet accord est aussi un retour au cadre conventionnel. Il permet désormais aux parties intéressées de reprendre les discussions, sur les sujets d'intérêt pour l'avenir du thermalisme comme la reconnaissance médicale du thermalisme, la diversification des activités des établissements ou la politique touristique en faveur d'une plus forte attractivité du thermalisme.
