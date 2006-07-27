@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121280
+
+- Question : [SEQ060121280](seq060121280.md) — Fonds pour l'insertion des personnes handicapées dans la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 2006-07-27, page 2008*
+
+Le fonds pour l'insertion des personnes handicapées dans la fonction publique a pour objet de renforcer la portée de l'obligation d'emploi de 6 % de travailleurs handicapés en imposant aux administrations qui ne respectent pas la leur le versement d'une contribution à un fonds analogue à celui géré par l'AGEFIPH (Association de gestion du fonds pour l'insertion des personnes handicapées) pour le secteur concurrentiel. La mise en place de ce dispositif doit permettre, d'une part, d'atteindre progressivement cet objectif légal de 6 % et, d'autre part, de présenter un dispositif rénové et renforcé en matière de suivi et d'insertion des agents publics handicapés. Son texte d'application (décret n° 2006-501 du 3 mai 2006 relatif au fonds pour l'insertion des personnes handicapées dans la fonction publique, paru au JO du 4 mai 2006) fixe les règles de constitution, de fonctionnement et de pilotage de ce nouvel outil d'incitation. A ce titre, il est rappelé que le fonds est érigé en établissement public administratif de l'Etat dont la gestion administrative est confiée à la Caisse des dépôts et consignations. Cette dernière a donc entrepris, consécutivement à la parution du décret précité, d'organiser et de lancer le premier appel à déclaration auprès de l'ensemble des employeurs publics, dont les collectivités locales et leurs établissements publics autres qu'industriels et commerciaux. Les déclarations, paiements et demandes de financements s'effectueront de manière dématérialisée, sur une plateforme en ligne dédiée au fonds, accessible depuis l'adresse « www.fiphfp.fr ».
