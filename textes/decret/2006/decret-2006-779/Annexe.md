@@ -256,11 +256,11 @@ Régie supérieure à 18000 euros : 20
 
 13 |
 
-24. Chef d'agrès, chef d'équipe ou chef de groupe de sapeurs-pompiers.
+24. (Abrogé)
 
 |
 
-16 |
+|
 
 25. Gardiens d'HLM. |
 
