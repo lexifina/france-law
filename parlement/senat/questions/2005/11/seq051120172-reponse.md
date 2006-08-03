@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051120172
+
+- Question : [SEQ051120172](seq051120172.md) — Mise en oeuvre de la procédure Handiscol'
+
+## Réponse
+
+*Éducation, JO du 2006-08-03, page 2059*
+
+Le montant du financement des matériels pédagogiques adaptés pour les élèves handicapés (8 millions d'euros en 2001) a été consolidé à hauteur de 23 millions d'euros en loi de finances 2004. Un gel budgétaire comparable d'environ 15 % par rapport aux crédits inscrits en loi de finances les a affectés en 2004 comme en 2005. Les crédits délégués à ce titre aux académies en 2005 n'ont donc pas subi de diminution par rapport à l'année 2004. Ils ont été intégrés dans les dotations globalisées premier et second degré des rectorats. En effet, dans le cadre de l'expérimentation de la loi organique relative aux lois de finances (LOLF) pour l'enseignement scolaire du premier degré, tous les crédits premier degré ont été globalisés dans un programme « enseignement scolaire public du premier degré », regroupant d'une part les crédits de rémunération, d'autre part les crédits de fonctionnement et d'intervention. S'agissant du second degré, les crédits relatifs au matériel pédagogique adapté ont été inclus dans la dotation globalisée du chapitre 37-81. Les recteurs ont ensuite réparti ces crédits en liaison avec les services départementaux. En 2006, dans le cadre de la mise en place de la LOLF, les crédits relatifs au matériel pédagogique adapté premier et second degré sont regroupés dans le programme « Vie de l'élève ». Chaque recteur est désormais responsable d'un budget opérationnel de programme académique. Il lui appartient de le ventiler, entre les départements, en liaison avec les inspections académiques. Les inspecteurs d'académie sont ensuite chargés de la mise en place des crédits dans le cadre des priorités définies au niveau national et en fonction des particularités locales et des projets pédagogiques.
