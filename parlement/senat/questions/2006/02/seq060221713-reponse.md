@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221713
+
+- Question : [SEQ060221713](seq060221713.md) — Capacité d'une régie au regard des travaux d'infrastructure liés au fonctionnement du SPIC
+
+## Réponse
+
+*Intérieur, JO du 2006-08-03, page 2068*
+
+Les collectivités territoriales, les établissements publics, les établissements publics de coopération intercommunale et les syndicats mixtes ont la possibilité de constituer une régie dotée de la personnalité morale et de l'autonomie financière pour l'exploitation directe d'un service public à caractère industriel et commercial, en application des articles L. 1412-1 et L. 2221-4 du code général des collectivités territoriales (CGCT). Une régie dotée de la personnalité morale et de l'autonomie financière constitue alors un établissement public local, conformément à l'article L. 2221-10 du même code, et dispose d'un budget propre, préparé par l'ordonnateur et voté par le conseil d'administration. Le budget d'une régie dotée de la personnalité morale et de l'autonomie financière est divisé en une section d'exploitation et une section d'investissement, conformément à l'article R. 2221-43 du CGCT Les dépenses et les recettes de la section d'investissement du budget sont également fixées par décret, codifié aux articles R. 2221-45 et R. 2221-46 dudit code. Par ailleurs, les dispositions de la loi du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée sont applicables aux établissements publics des collectivités territoriales lorsqu'ils réalisent des ouvrages de bâtiment, d'infrastructure ou d'équipements industriels destinés à leur exploitation en tant que maître d'ouvrage. Une régie dotée de la personnalité morale et de l'autonomie financière, en qualité d'établissement public local, peut dès lors être maître d'ouvrage des travaux d'infrastructures liés au fonctionnement du service public à caractère industriel et commercial.
