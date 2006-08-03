@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121252
+
+- Question : [SEQ060121252](seq060121252.md) — Assouplissement des recrutements dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2006-08-03, page 2064*
+
+Le Gouvernement entend garantir l'attractivité de la fonction publique territoriale, dans le respect du principe d'égal accès aux emplois publics. Dans cet esprit, la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale encadre les modalités de création d'emplois par les collectivités territoriales et fixe une obligation générale de publicité de la vacance d'emploi créé ou devenu vacant, afin de permettre à chacun de se porter candidat. Un délai raisonnable, estimé au cas par cas mais globalement fixé à deux mois par la jurisprudence, doit dès lors être observé entre la date de publicité effective et la date de la décision de nomination de l'autorité (CAA de Nancy, 20 février 2003, commune de Vesoul). Un poste correspondant à un emploi permanent ainsi déclaré vacant doit être pourvu prioritairement par un fonctionnaire, selon les mécanismes prévus pour ce faire (mutation, avancement de grade, détachement, nomination après inscription sur liste d'aptitude établie après concours ou promotion interne). Les fonctionnaires sont recrutés par concours sauf dérogation particulière, ce que rappelle l'article 36 de la loi du 26 janvier 1984. Cette règle est gage du respect de l'exigence d'égalité. Elle doit s'articuler avec le principe de libre administration des collectivités territoriales. Aussi, aux termes de l'article 44 de la loi du 26 janvier 1984, l'inscription sur une liste d'aptitude établie à l'issue d'un concours ne vaut pas recrutement, la nomination demeurant du ressort exclusif de l'autorité territoriale. L'application des règles relatives au recrutement des agents territoriaux s'effectue sous le contrôle du juge administratif.
