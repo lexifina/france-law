@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512265
+
+- Question : [SEQ040512265](seq040512265.md) — Règles de cumul des rémunérations des fonctionnaires territoriaux en congé spécial
+
+## Réponse
+
+*Fonction publique, JO du 2006-08-03, page 2061*
+
+Les fonctionnaires territoriaux occupant l'un des emplois fonctionnels mentionnés à l'article 53 de la loi n° 84-53 du 26 janvier 1984 peuvent bénéficier dans les conditions définies à l'article 99 de cette loi et selon les modalités prévues par le décret n° 88-614 du 6 mai l988 d'un congé spécial. Aux termes de l'article 8 de ce décret, le fonctionnaire en congé spécial perçoit les émoluments du traitement indiciaire afférent aux grade, classe et échelon atteints à la date de mise en congé, augmentés de l'indemnité de résidence et, s'il y a lieu, du supplément familial de traitement. Ce même article prévoit que le fonctionnaire peut percevoir durant ce congé « une autre rémunération publique » mais le montant de ses émoluments au titre du congé spécial est alors réduit au seul montant de la retenue pour pension. De même, si l'intéressé perçoit une rémunération privée, le montant des émoluments du congé spécial est réduit en fonction de l'importance de cette rémunération, voire ramené au seul montant de la retenue pour pension. Ce décret fixe donc, en son article 8, des dispositions particulières de cumul de rémunérations publiques ou privées avec les émoluments perçus au titre du congé spécial. Dès lors, les revenus qui présentent le caractère de rémunérations publiques ou privées entrent dans le champ d'application de l'article 8 précité et ne peuvent, notamment lorsqu'il s'agit de rémunérations publiques, être cumulés avec les émoluments perçus au titre du congé spécial. Tel est le cas des revenus liés à des heures d'enseignements dispensées auprès du Centre national de la fonction publique territoriale.
