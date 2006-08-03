@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523223
+
+- Question : [SEQ060523223](seq060523223.md) — Crédit d'impôt pour production d'énergie renouvelable à partir de la force hydraulique
+
+## Réponse
+
+*Économie, JO du 2006-08-03, page 2057*
+
+A compter de l'imposition des revenus 2005, le crédit d'impôt mentionné à l'article 200 quater du code général des impôts est recentré sur deux objectifs : le développement durable et les économies d'énergie. Il s'agit, d'une part, d'améliorer significativement la qualité de l'isolation thermique et l'efficacité des équipements de chauffage et de production d'une eau chaude sanitaire et, d'autre part, d'encourager l'acquisition d'équipements de production d'énergie utilisant une source d'énergie renouvelable et de pompes à chaleur performantes. Ce crédit d'impôt s'applique aux dépenses payées ou réalisées entre le 1er janvier 2005 et le 31 décembre 2009, dans la limite d'un plafond pluriannuel de 8 000 euros, pour une personne seule, et de 16 000 euros pour un couple. Un arrêté du ministre chargé du budget, en date du 9 février 2005, modifié le 12 décembre 2005, fixe la liste des équipements, matériaux et appareils éligibles ainsi que les critères de performance qui leur sont attachés. Dans ce cadre, les systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse sont compris dans la liste des équipements éligibles au titre des équipements de production d'énergie utilisant une source d'énergie renouvelable. Il convient de rappeler, également, que le champ d'application de cet avantage fiscal a été limité aux équipements et matériaux installés dans l'habitation principale du contribuable, à l'exclusion de ceux qui sont installés dans d'autres locaux afin de consacrer l'essentiel de l'effort budgétaire à l'incitation d'équipements performants susceptibles d'être utilisés quotidiennement.
