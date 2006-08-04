@@ -1,43 +1,75 @@
-# Article Annexe II tableau 62
+# Article Annexe II : Tableau n° 62
 
-DESIGNATION DES MALADIES :
+AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LES ISOCYANATES ORGANIQUES.
 
-Blépharo-conjonctivite récidivante
+DÉSIGNATION DES MALADIES
 
-DELAI de prise en charge : 3 jours
+|
 
-DESIGNATION DES MALADIES :
+DÉLAI de prise en charge
 
-Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+|
 
-DELAI de prise en charge : 7 jours
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-DESIGNATION DES MALADIES :
+|
 
-Syndrome bronchique récidivant
+Blépharo-conjonctivite récidivante.
 
-DELAI de prise en charge : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+3 jours
 
-Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+|
 
-DELAI de prise en charge : 7 jours
+Travaux exposant à l'inhalation ou à la manipulation d'isiocyanates organiques, notamment : - fabrication et application de vernis et laques de polyuréthanes, fabrication de fibres synthétiques ; - préparation des mousses polyuréthanes et application de ces mousses à l'état liquide ; - fabrication et utilisation des colles à base de polyuréthanes ; - fabrication et manipulation de peintures contenant des isocyanates organiques.
 
-DESIGNATION DES MALADIES :
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.
+
+|
+
+7 jours
+
+|
+
+Syndrome bronchique récidivant.
+
+|
+
+7 jours
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.
+
+|
+
+7 jours
+
+|
 
 Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
-DELAI de prise en charge : 15 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
+15 jours
 
-Travaux exposant à l'inhalation ou à la manipulation d'isocyanates organiques, notamment :
+|
 
-- fabrication et application de vernis et laques de polyuréthanes, fabrication de fibres synthétiques ;
+Pneumopathie interstitielle aiguë ou subaiguë d'hypersensibilité objectivée par : - des signes respiratoires (toux, dyspnée) et/ou des signes généraux ; - des signes radiographiques et/ou tomodensitométriques compatibles, lorsqu'ils existent ; - une diminution de la DLCO ou une hypoxie d'effort ; - des signes immunologiques significatifs : présence d'anticorps précipitants dans le sérum contre l'agent pathogène présumé responsable ou, à défaut, lymphocytose au lavage broncho-alvéolaire.
 
-- préparation des mousses polyuréthanes et application de ces mousses à l'état liquide ;
+|
 
-- fabrication et utilisation des colles à base de polyuréthanes ;
+30 jours
 
-- fabrication et manipulation de peintures contenant des isocyanates organiques.
+|
+
+Pneumopathie d'hypersensibilité chronique avec altération des explorations fonctionnelles respiratoires (trouble ventilatoire restrictif ou obstructif), signes radiologiques compatibles et signes immunologiques significatifs : présence d'anticorps précipitants dans le sérum contre l'agent pathogène présumé responsable ou, à défaut, lymphocytose au lavage broncho-alvéolaire.
+
+|
+
+3 ans
+
+|
