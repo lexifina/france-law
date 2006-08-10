@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422910
+
+- Question : [SEQ060422910](seq060422910.md) — Délai d'attribution de la carte d'ancien combattant
+
+## Réponse
+
+*Anciens combattants, JO du 2006-08-10, page 2115*
+
+S'agissant de la procédure d'instruction des demandes de cartes du combattant, le ministre délégué aux anciens combattants précise à l'honorable parlementaire que les délais en partie incompressibles qu'elle comporte résultent notamment de la consultation des commissions départementales des anciens combattants chargées d'émettre des avis sur les demandes et des opérations de vérification indispensables effectuées en liaison avec le bureau central des archives administratives militaires (BCAAM). Le délai d'instruction observé en 2005 entre le dépôt de la demande de carte et la notification de la décision n'excède généralement pas six mois. Certaines disparités peuvent être observées entre les départements en raison notamment de la fréquence des commissions départementales. En 2005, une moyenne d'un peu moins de trois commissions départementales par an a été observée sur l'ensemble des services départementaux de l'Office national des anciens combattants et victimes de guerre. Il est ajouté que les mesures de simplification des modalités de vérification des services effectués ont récemment été arrêtées par le bureau central des archives administratives militaires (BCAAM). La vérification des services des postulants prend désormais en compte les conditions d'attribution de la carte du combattant notamment pour l'Afrique du Nord. Pour les conflits du Maroc et de Tunisie et la guerre d'Algérie, la vérification peut simplement se limiter à la présence sur le territoire lorsque cette dernière est supérieure à quatre mois. Leur mise en vigueur depuis le 1er janvier 2005 devrait se traduire à court terme par une diminution des délais actuellement constatés.
