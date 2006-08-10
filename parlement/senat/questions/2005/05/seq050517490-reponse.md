@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517490
+
+- Question : [SEQ050517490](seq050517490.md) — Situation des tribunaux de l'outre-mer
+
+## Réponse
+
+*Justice, JO du 2006-08-10, page 2135*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qui a bien voulu l'interroger sur la situation des juridictions d'outre-mer que le Conseil supérieur de la magistrature a fixé depuis plusieurs années des orientations quant à la politique de nomination des magistrats outre-mer consistant à écarter toute promotion d'un magistrat en fonction outre-mer dans un autre poste outre-mer, plus généralement à éviter tout déroulement de carrière, fût-il sans avancement, qui ne se situerait que dans les juridictions d'outre-mer et à favoriser des affectations en alternance outre-mer et en métropole. Le Conseil supérieur de la magistrature ayant toutefois indiqué dans ses rapports annuels qu'il ne s'interdisait pas d'examiner au cas par cas des situations individuelles pouvant appeler les décisions différentes et que les principes énoncés étaient susceptibles de connaître des exceptions justifiées par la pénurie de candidats ou le profil du poste à pourvoir, la Chancellerie a à plusieurs reprises, en cas de vacances de postes et à défaut de candidats n'exerçant pas déjà outre-mer, fait des propositions de nominations dérogatoires aux orientations générales. Au cours de l'année 2005, pour 295 magistrats exerçant en outre-mer, 98 mouvements sont intervenus, dont 64 à l'arrivée parmi lesquels 4 concernaient des magistrats déjà outre-mer. L'ensemble de ces mouvements a permis de renforcer sensiblement les effectifs des cours et des juridictions d'outre-mer, en réduisant le nombre de postes vacants, de telle sorte qu'au 1er juillet 2006 300 magistrats sont en fonction pour un nombre d'emplois de 322, comprenant 20 emplois localisés au titre de la structure de référence pour l'année 2006.
