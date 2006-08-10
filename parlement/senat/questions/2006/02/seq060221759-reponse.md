@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221759
+
+- Question : [SEQ060221759](seq060221759.md) — Création d'un baccalauréat professionnel "sécurité-prévention"
+
+## Réponse
+
+*Éducation, JO du 2006-08-10, page 2129*
+
+La rénovation du baccalauréat professionnel des métiers de la sécurité option police nationale, diplôme de niveau IV de la sécurité est terminée. Ce nouveau baccalauréat professionnel qui devrait être prochainement publié s'intitulera « sécurité-prévention ». Il s'est agi d'une profonde rénovation de ce diplôme puisque, jusqu'alors exclusivement préparé dans les écoles de police nationale, le nouveau baccalauréat professionnel sera notamment préparé en formation initiale sous statut scolaire, dans les lycées professionnels publics ou privés sous contrat. Ce diplôme sera ouvert à l'ensemble des titulaires de BEP. Les diplômés du nouveau baccalauréat professionnel auront vocation à constituer une partie des viviers des concours de recrutement de gardiens de la paix et de sapeurs-pompiers. Ils bénéficieront à cet effet d'allègements ou de dispenses d'épreuves. Ce baccalauréat professionnel ne donne un accès direct à l'emploi que dans le champ de la sécurité privée qui néanmoins est peu demandeuse d'un niveau IV de qualification. Le référentiel des activités professionnelles et des compétences a été élaboré, dans l'objectif de développer une culture commune à l'ensemble des métiers de la sécurité et de la sûreté. Ce nouveau diplôme sera mis en place dès la rentrée 2006 avec une première session d'examen en 2008. L'ouverture d'une section préparant à ce nouveau diplôme s'inscrira dans le cadre du plan régional de développement des formations professionnelles, élaboré conjointement par la région et le rectorat de l'académie et, s'agissant d'un dossier aussi spécifique, en étroite relation avec les employeurs publics et privés concernés.
