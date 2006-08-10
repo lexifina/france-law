@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121116
+
+- Question : [SEQ060121116](seq060121116.md) — Scolarisation des lycéens originaires de Mayotte dans l'académie de Limoges et situation en Creuse.
+
+## Réponse
+
+*Éducation, JO du 2006-08-10, page 2126*
+
+Le vice-rectorat de Mayotte s'est toujours préoccupé de la question de l'accueil et de la scolarisation dans les établissements métropolitains des jeunes Mahorais. Pour répondre à ce problème, il a développé des partenariats par voie conventionnelle avec des académies métropolitaines. Un travail précis de recensement des principales académies concernées par la venue d'élèves mahorais a été effectué. Celui-ci a fait l'objet d'un bilan au cours de l'année 2005. Il en ressort que la grande majorité des lycéens mahorais se concentre dans les académies de Toulouse, Rennes, Orléans-Tours, Bordeaux, Grenoble, Clermont-Ferrand, la Réunion et Limoges dont dépend le département de la Creuse. Le vice-recteur de Mayotte s'est donc adressé aux recteurs de ces académies afin de développer le dispositif de partenariat ci-dessus évoqué. Parallèlement, le vice-rectorat de Mayotte, par le développement de l'offre de formation au sein de la collectivité départementale et par l'accent mis sur l'information et l'orientation, a considérablement limité les départs dont un trop grand nombre conduisent à mettre l'élève dans une situation d'échec. De plus, le vice-rectorat de Mayotte assure désormais une préparation au départ vers la métropole des élèves. Enfin, il a sollicité la collectivité départementale de Mayotte afin que soit envisagée la mise en place, en métropole, d'un réseau d'acteurs sociaux qui aura pour mission de faciliter l'installation matérielle des élèves et de les accompagner tout au long de leur scolarité. La collectivité départementale, qui n'apparaît pas défavorable à un tel projet, en étudie les conditions de mise en oeuvre.
