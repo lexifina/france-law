@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623355
+
+- Question : [SEQ060623355](seq060623355.md) — Soutien de l'Union européenne à l'activité de la Fédération des banques alimentaires
+
+## Réponse
+
+*Affaires européennes, JO du 2006-08-24, page 2171*
+
+L'honorable parlementaire a bien voulu interroger la ministre déléguée aux affaires européennes sur le devenir du soutien de l'Union européenne à l'activité de la Fédération des banques alimentaires. Le rapprochement continu du prix des produits agricoles européens avec les cours mondiaux, engagé depuis plusieurs années, implique une diminution progressive du niveau d'intervention communautaire et donc du niveau des stocks agricoles. Il s'agit là d'une évolution souhaitable - à la fois pour renforcer la compétitivité de nos exportations agricoles et pour limiter les coûts budgétaires liés à la gestion de stocks trop importants - mais dont les conséquences sur l'approvisionnement des associations caritatives et humanitaires doivent impérativement être neutralisées. L'aide alimentaire européenne apportée aux associations caritatives atteint en France la moitié de l'aide alimentaire distribuée. Conscient que l'élargissement à vingt-cinq allait faire apparaître des besoins importants dans les nouveaux Etats membres, la France a, dès 2004, alerté la Commission à plusieurs reprises et a entrepris de nombreuses actions. Le 17 mai 2005, à l'initiative de la France, une lettre cosignée par sept ministres européens de l'agriculture (Espagne, Grèce, Hongrie, Italie, Pologne, Portugal et France) a été envoyée, accompagnée d'un document de travail, au commissaire européen à l'agriculture, pour attirer son attention sur le rôle primordial que joue le PEAD au sein des organisations caritatives et sur la nécessité de pérenniser et d'assouplir le dispositif actuel. Des contacts sont par ailleurs régulièrement entretenus auprès du Parlement européen pour faire progresser ce dossier.
