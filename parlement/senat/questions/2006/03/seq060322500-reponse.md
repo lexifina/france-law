@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322500
+
+- Question : [SEQ060322500](seq060322500.md) — Nombre insuffisant de conseillers d'orientation-psychologues
+
+## Réponse
+
+*Éducation, JO du 2006-08-24, page 2204*
+
+La loi n° 2005-380 du 23 avril 2005 d'orientation et de programme pour l'avenir de l'école prévoit que l'orientation et les formations proposées aux élèves tiennent compte de leurs aspirations, de leurs aptitudes et des perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement du territoire. Dans ce cadre, les élèves élaborent leur projet d'orientation scolaire et professionnelle avec l'aide des parents, des enseignants, des personnels d'orientation et des autres professionnels compétents. Les administrations concernées, les collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent. Des actions sont prévues au collège afin que les élèves préparent dans les meilleures conditions, avec les professeurs, les conseillers d'orientation- psychologues et l'ensemble des représentants de la communauté éducative, leur poursuite d'études et leur avenir professionnel. L'éducation à l'orientation implique tous les membres de l'équipe éducative. Aussi la situation des effectifs des conseillers d'orientation-psychologues doit-elle être appréciée par rapport à celle de l'ensemble des membres de l'équipe éducative. Le nombre d'emplois de conseiller d'orientation-psychologue est à mettre en perspective avec l'évolution des effectifs d'élèves et des moyens d'orientation au cours de ces dernières années. En effet, de la rentrée 2000 à la rentrée 2006, la baisse des effectifs du second degré public a été de l'ordre de - 3,3 %, alors que les moyens d'orientation ont au total été maintenus.
