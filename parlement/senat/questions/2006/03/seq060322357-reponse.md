@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322357
+
+- Question : [SEQ060322357](seq060322357.md) — FCTVA pour les travaux des communes sur les routes départementales
+
+## Réponse
+
+*Collectivités territoriales, JO du 2006-08-24, page 2190*
+
+En application de l'article L. 131-2 du code de la voirie routière, les dépenses relatives à la construction, à l'aménagement et à l'entretien des routes départementales sont à la charge du département. Par conséquent, les travaux effectués sur la chaussée et ses dépendances (trottoirs, caniveaux...), quelle que soit leur nature, incombent normalement au propriétaire de la voie, en l'occurrence, le département. Toutefois, les communes sont amenées régulièrement à réaliser des travaux d'aménagement ou de mise en sécurité en agglomération sur les dépendances de la voirie départementale mais aussi nationale. Plus généralement, il apparaît que les collectivités territoriales interviennent fréquemment, par convention, sur le domaine routier d'une autre collectivité territoriale ou de l'Etat. Afin de tenir compte de cette situation, l'article L. 1615-2 (6e alinéa) du code général des collectivités territoriales, issu de la loi de finances pour 2004, permet aux collectivités territoriales et à leurs groupements de bénéficier du fonds de compensation pour la TVA au titre des opérations qu'ils effectuent directement sur la voirie d'une autre collectivité territoriale ou de l'Etat, sous réserve de la signature préalable d'une convention entre le propriétaire de la voirie concernée et la collectivité territoriale ou le groupement qui prend en charge et réalise les travaux. Cette disposition permet donc aux collectivités territoriales qui réalisent des travaux d'investissement sur le domaine public routier d'une autre collectivité territoriale ou de l'État, notamment pour des travaux d'aménagement et de mise en sécurité, de bénéficier du FCTVA, sans nécessairement recourir à un mandat de maîtrise d'ouvrage.
