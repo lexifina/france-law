@@ -1,0 +1,11 @@
+# Réponse à la question SEQ060221668
+
+- Question : [SEQ060221668](seq060221668.md) — Couverture en téléphonie mobile du département de la Moselle
+
+## Réponse
+
+*Aménagement du territoire, JO du 2006-08-24, page 2179*
+
+Au niveau national, 3 000 communes, dont le centre-bourg n'est couvert par aucun opérateur de téléphonie mobile, ont été recensées dans le cadre d'une concertation régionale avec les élus locaux et les opérateurs, conduite début 2003. En Moselle, 17 communes ont ainsi été recensées :
+
+<!DEBTAB><div align="center"><center><table border="1"><tr><th>DÉPARTEMENT</th><th>COMMUNES</th></tr><tr><td align="center">57</td><td align="center">Belles-Fôrets</td></tr><tr><td align="center">57</td><td align="center">Bousseviller</td></tr><tr><td align="center">57</td><td align="center">Budling</td></tr><tr><td align="center">57</td><td align="center">Colmen</td></tr><tr><td align="center">57</td><td align="center">Flastroff</td></tr><tr><td align="center">57</td><td align="center">Hanviller</td></tr><tr><td align="center">57</td><td align="center">Haspelschiedt</td></tr><tr><td align="center">57</td><td align="center">Lafrimbolle</td></tr><tr><td align="center">57</td><td align="center">Liederschiedt</td></tr><tr><td align="center">57</td><td align="center">Obergailbach</td></tr><tr><td align="center">57</td><td align="center">Rolbing</td></tr><tr><td align="center">57</td><td align="center">Roppeviller</td></tr><tr><td align="center">57</td><td align="center">Sturzelbronn</td></tr><tr><td align="center">57</td><td align="center">Turquestein-Blancrupt</td></tr><tr><td align="center">57</td><td align="center">Waldhouse</td></tr><tr><td align="center">57</td><td align="center">Waldweistroff</td></tr><tr><td align="center">57</td><td align="center">Walschbronn</td></tr></table></center></div><!FINTAB>Le ministre délégué à l'aménagement du territoire a obtenu des opérateurs une accélération très forte du programme gouvernemental afin de garantir que les 3 000 communes concernées puissent être couvertes d'ici fin 2007. Dès fin 2006, la moitié du programme devrait être achevée. A fin juin 2006, près de 800 communes avaient été couvertes au niveau national, contre 91 en juin 2005. En Moselle, la commune d'Hanviller a ainsi été desservie.
