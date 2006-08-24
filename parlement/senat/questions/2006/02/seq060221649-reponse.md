@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221649
+
+- Question : [SEQ060221649](seq060221649.md) — Transposition dans le droit français des directives européennes relatives au biocarburant
+
+## Réponse
+
+*Écologie, JO du 2006-08-24, page 2193*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à la transposition de la directive communautaire n° 2003/30/CE en droit français et à l'exonération de TIPP pour les huiles végétales pures. La loi n° 2005-781 du 13 juillet 2005, fixant les orientations de la politique énergétique, a fixé comme axe de développement des biocarburants les objectifs indicatifs de pénétration pour utilisation dans les transports prévus par la directive 2003/30/CE, à savoir 2 % en 2005 et 5,75 % en 2010. Elle transpose en cela les dispositions relatives à l'incorporation de biocarburants dans les carburants traditionnels de cette directive en droit français. Les huiles végétales pures (HVP) ne sont pas incorporées aujourd'hui comme biocarburants dans les carburants traditionnels, sauf pour la carburation des engins agricoles. Elles présentent en effet des caractéristiques qui ne permettent pas leur usage par les véhicules actuellement commercialisés en France. Outre les problèmes d'homogénéité de composition, les huiles végétales pures peuvent nuire à la durabilité des moteurs des véhicules diesel actuellement sur le marché. Il ne serait par ailleurs pas possible de contrôler les émissions polluantes des véhicules actuellement commercialisés, s'ils venaient à être alimentés par des HVP, et notamment les émissions d'oxydes d'azote. Enfin, les HVP ne sont pas utilisables par grand froid, ce qui rendrait difficile leur généralisation sur le territoire. Il n'y a donc pas lieu, du moins aujourd'hui, d'envisager une exonération de taxation des HVP au titre de la TIPP.
