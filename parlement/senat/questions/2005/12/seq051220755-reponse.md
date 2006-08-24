@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220755
+
+- Question : [SEQ051220755](seq051220755.md) — Modalités d'acquisition de la nationalité française par un mariage célébré à l'étranger
+
+## Réponse
+
+*Justice, JO du 2006-08-24, page 2221*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le projet de loi relatif à l'immigration et à l'intégration récemment adopté par l'Assemblée nationale et le Sénat comprend des dispositions renforçant les conditions d'acquisition de la nationalité française à raison du mariage. Le délai de communauté de vie nécessaire pour souscrire une déclaration de nationalité française sur le fondement de l'article 21-2 du code civil est désormais de quatre ans au lieu de deux, et ce, à la condition qu'à la date de la déclaration la communauté de vie tant affective que matérielle n'ait pas cessé entre les époux depuis le mariage et que le conjoint français ait conservé sa nationalité. Lorsque le couple justifie d'une communauté de vie égale à quatre ans, le conjoint étranger doit en outre attester d'une résidence ininterrompue et régulière en France depuis trois années. A défaut, l'acquisition de la nationalité française est subordonnée à la preuve soit d'une communauté de vie du couple de cinq ans, soit d'une inscription du conjoint français pendant la durée de la communauté de vie à l'étranger au registre des Français établis hors de France. Dans la continuité des travaux menés par le comité interministériel de contrôle de l'immigration, les dispositions adoptées par les parlementaires tendent ainsi à lutter contre les fraudes à l'acquisition de la nationalité française par le biais de mariages célébrés sans réelle intention matrimoniale. Le dispositif relatif aux conjoints établis hors de France devrait permettre pour sa part d'atteindre cet objectif sans constituer cependant un frein à l'expatriation de nos concitoyens.
