@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712909
+
+- Question : [SEQ040712909](seq040712909.md) — Attitude de la France sur une demande d'extradition
+
+## Réponse
+
+*Justice, JO du 2006-08-24, page 2216*
+
+Le garde des sceaux, ministre de la justice, a l'honneur de communiquer les éléments suivants à l'honorable parlementaire qui a bien voulu l'interroger sur les suites données par la France à la demande d'extradition des autorités italiennes concernant Cesare Battisti. En janvier 2003, les autorités italiennes ont présenté à la France une demande d'extradition concernant Cesare Battisti pour l'exécution d'une peine de réclusion criminelle à perpétuité assortie de l'isolement de jour pendant six mois, prononcée par trois arrêts, rendus respectivement le 13 décembre 1988, le 16 février 1990 et le 31 mars 1993 par la cour d'assises de Milan, pour des faits d'homicides avec circonstances aggravantes. Par arrêt du 30 juin 2004 la chambre de l'instruction de Paris s'est prononcée favorablement sur la demande d'extradition de Cesare Battisti, décision confirmée par la Cour de cassation le 13 octobre 2004. Le 23 octobre 2004, M. le Premier ministre a signé un décret accordant aux autorités italiennes l'extradition de Cesare Battisti. Le 18 mars 2005 le Conseil d'Etat a rejeté le recours exercé contre ce décret. Dans sa décision, la plus haute juridiction administrative a jugé que les déclarations faites le 20 avril 1985 par le Président de la République française constituaient de simples déclarations d'intention dépourvues d'effet de droit. Depuis lors, la Cour européenne des droits de l'homme est saisie d'un recours formé par M. Battisti contre la décision du gouvernement de la République française. L'issue de cette procédure sera bien évidemment prise en compte par les autorités exécutives françaises.
