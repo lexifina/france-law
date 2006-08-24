@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623424
+
+- Question : [SEQ060623424](seq060623424.md) — Interdiction de statistiques sur l'origine ethnique dans certaines entreprises
+
+## Réponse
+
+*Justice, JO du 2006-08-24, page 2223*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, si la collecte par les employeurs de données à caractère personnel relatives à l'origine nationale, ethnique ou raciale de leurs employés ou candidats à l'embauche peut ouvrir la voie à des atteintes à la vie privée et à des discriminations très graves, en revanche, la mise en oeuvre d'outils statistiques de mesure de la diversité d'origines des intéressés peut, dès lors qu'elle a lieu dans le respect des principes de fond et des procédures édictés par la loi 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, permettre la poursuite de buts légitimes et notamment la lutte contre de telles discriminations. C'est pourquoi la Commission nationale de l'informatique et des libertés (CNIL) a adopté sur ce sujet le 5 juillet 2005 des recommandations nuancées, prenant en compte notamment la légitimité des finalités poursuivies, les catégories de données traitées, les conditions de leur anonymisation ainsi que la qualité de l'information délivrée aux instances représentatives du personnel et aux employés concernés. L'application, sous le contrôle de la CNIL, des principes de proportionnalité et de licéité des traitements de données à caractère personnel édictés par la loi du 6 janvier 1978 précitée ainsi que les dispositions de lutte contre la discrimination ou de prévention de celle-ci figurant aux articles 225-1 à 225-4 du code pénal et L. 121-6 et L. 122-45 du code du travail constituent d'ores et déjà un cadre de protection suffisant, sans qu'il soit besoin d'interdire toute forme de collecte de données relatives à la nationalité ou au lieu de naissance.
