@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723932
+
+- Question : [SEQ060723932](seq060723932.md) — Exonération des exploitations arboricoles de l'Ardèche de la taxe sur le foncier non bâti
+
+## Réponse
+
+*Agriculture, JO du 2006-08-24, page 2178*
+
+Face à la grave crise à laquelle est confrontée la filière arboricole, le Gouvernement a décidé en 2005 la mise en place d'un ensemble de mesures financières exceptionnelles de soutien et vient de présenter en mars une stratégie nationale afin de donner des perspectives de développement pour ce secteur en difficulté. Sur le plan fiscal, s'agissant de la taxe foncière sur les propriétés non bâties, des instructions constantes sont adressées aux comptables du Trésor pour qu'ils examinent avec la plus grande bienveillance les demandes de délais de paiement ou de remises des pénalités formulées par les contribuables qui, en raison de graves difficultés dûment justifiées, ne peuvent s'acquitter de leurs impôts aux échéances légales. Toutefois, devant la fragilité de la production sus-évoquée, des instructions ont été données aux services fiscaux afin que les arboriculteurs puissent, au cas par cas, se voir accorder des dégrèvements de la taxe précitée. En revanche, une exonération totale de taxe pour une catégorie de producteurs ne peut être envisagée car elle serait contraire au principe d'égalité des contribuables devant l'impôt et présenterait un caractère anti-communautaire, étant assimilée à une aide. En outre, dans le cadre de la loi de finances pour 2006, une exonération à hauteur de 20 % de la taxe foncière sur les propriétés non bâties a été adoptée en faveur des exploitants agricoles en faire valoir direct ainsi qu'une diminution équivalente du montant des charges des fermiers. Ces dispositions témoignent de la ferme volonté du Gouvernement d'accompagner les arboriculteurs dans leurs difficultés actuelles et vont dans le sens des préoccupations formulées par l'honorable parlementaire.
