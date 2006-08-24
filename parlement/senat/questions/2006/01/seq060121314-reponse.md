@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060121314
+
+- Question : [SEQ060121314](seq060121314.md) — Avenir de Radio France internationale
+
+## Réponse
+
+*Culture, JO du 2006-08-24, page 2191*
+
+Le ministre de la culture et de la communication réaffirme l'importance qu'il accorde à la place de média de référence de Radio France internationale (RFI). En vertu de l'article 44 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication, la Société nationale de programme RFI « est chargée de contribuer à la diffusion de la culture française par la conception et la programmation d'émissions de radio en français ou en langue étrangère destinées aux auditoires étrangers ainsi qu'aux Français résidant à l'étranger ». Cette mission de service public n'est nullement remise en cause par le lancement de la chaîne française d'information internationale dénommée récemment France 24, la télévision et la radio étant des médias complémentaires. La convention signée entre l'Etat et la chaîne prévoit ainsi que celle-ci pourra utiliser les ressources à l'étranger de RFI dans le cadre de contrats spécifiques conclus avec cette entreprise. S'agissant du budget de RFI, la redevance affectée à RFI en 2006 progresse de 4 % par rapport à la loi de finances initiale de 2005 pour s'établir à 55,86 M EUR. Le montant total des ressources publiques affecté à RFI s'élèvent ainsi à 128 M EUR, ce qui représente une progression de 1,7 % par rapport à 2005. Le budget 2006 de RFI va lui permettre de poursuivre la numérisation de sa production engagée depuis 2003. RFI s'attachera également à développer ses sites internet. Par conséquent, les moyens consacrés à RFI lui permettront de garantir à ses 44 millions d'auditeurs la continuité d'un service public de qualité qui remplit en outre, un rôle déterminant pour l'identité, l'attractivité et le rayonnement de notre pays en Europe, en Afrique et au Moyen-Orient.
