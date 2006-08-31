@@ -1,3 +1,3 @@
 # Article Annexe
 
-Le présent arrêté et son annexe seront publiés au Bulletin officiel de l'éducation nationale du 14 septembre 2000, vendu au prix de 15 F, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+Le présent arrêté et son annexe seront publiés au Bulletin officiel du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche du 21 septembre 2006. L'arrêté et son annexe seront disponibles au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique. Ils seront diffusés en ligne à l'adresse suivante : http://www.cndp.fr.
