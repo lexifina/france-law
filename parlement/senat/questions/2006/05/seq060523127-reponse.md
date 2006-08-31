@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523127
+
+- Question : [SEQ060523127](seq060523127.md) — Augmentation du cours du cuivre
+
+## Réponse
+
+*Économie, JO du 2006-08-31, page 2276*
+
+Au cours des années quatre-vingt-dix, les prix des métaux ont atteint des niveaux anormalement bas. Néanmoins, depuis 2003, la tendance s'est inversée sous l'effet de la pression de la demande mondiale. Les prix de nombreux métaux, dont le cuivre, atteignent des niveaux exceptionnellement élevés. Les marchés de matières premières, pour des raisons essentiellement géologiques, ont eu de tout temps un caractère international et leur niveau de prix résulte globalement d'échanges sur les marchés mondiaux. Concernant le cuivre, son prix de référence en Europe est le plus souvent celui qui résulte des cotations au comptant et à terme sur le London Metal Exchange (LME : bourse de marchandises de Londres). Le caractère structuré du marché du cuivre offre une relative sécurité dans les échanges avec la présence de stock, à différents stades de la filière (producteurs, LME, consommateurs), mais offre aussi en contrepartie des possibilités de spéculation pour des investisseurs à la recherche de plus-values. La libéralisation des échanges et l'émergence de la Chine comme acteur majeur de ces marchés est un fait incontournable. Les entreprises doivent en tenir compte pour pérenniser leurs flux d'approvisionnement à un moindre coût. Les services du ministère de l'économie, des finances et de l'industrie restent attentifs à l'évolution de la situation Dès 2004, les entreprises ont été invitées à adopter une plus grande vigilance dans leurs relations contractuelles, avec leurs fournisseurs, par la négociation de contrats intégrant des clauses de prix. Par ailleurs, le développement des opérations de veille, au besoin avec l'appui des fédérations professionnelles, devrait contribuer à une meilleure maîtrise des prix.
