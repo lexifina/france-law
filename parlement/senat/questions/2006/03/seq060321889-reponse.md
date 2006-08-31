@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060321889
+
+- Question : [SEQ060321889](seq060321889.md) — Composition des commissions permanentes des collèges et des lycées
+
+## Réponse
+
+*Éducation, JO du 2006-08-31, page 2281*
+
+Le décret n° 2005-1145 du 9 septembre 2005, qui a modifié le décret n° 85-924 du 30 août 1985 modifié relatif aux établissements publics locaux d'enseignement, contient des dispositions visant à faire évoluer le fonctionnement des instances des établissements scolaires vers une plus grande souplesse. Ainsi, pour que la commission permanente puisse se réunir plus facilement, sa composition a été allégée, ce qui a conduit à ne pas retenir la présence d'un représentant de la commune siège dans cette instance, au profit d'un représentant de la collectivité compétente pour la gestion des dossiers techniques évoqués en commission permanente. En revanche, la commune siège est largement représentée au conseil d'administration ; celui-ci peut désormais déléguer certaines de ses attributions à la commission permanente. Cependant sont exclues de cette possibilité de délégation les décisions les plus importantes : ce qui relève de l'autonomie pédagogique et éducative de l'établissement, le budget, le projet d'établissement, le règlement intérieur, le contrat d'objectifs... La commune reste ainsi étroitement associée à la prise des décisions essentielles au fonctionnement et au pilotage de l'établissement. En outre, l'ensemble des décisions prises par la commission permanente sont communiquées aux membres du conseil d'administration. Enfin, la commission permanente peut inviter d'autres membres de la communauté éducative, dont elle jugerait la présence utile ou nécessaire, à participer à ses travaux ; il peut s'agir, le cas échéant, d'un représentant de la commune siège. L'ensemble de ces dispositions garantit le maintien des liens nécessaires entre les communes, les collèges et les lycées.
