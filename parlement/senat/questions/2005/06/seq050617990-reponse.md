@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617990
+
+- Question : [SEQ050617990](seq050617990.md) — Protection des mineurs contre la pornographie
+
+## Réponse
+
+*Justice, JO du 2006-08-31, page 2293*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'article 227-24 du code pénal dispose effectivement que le fait soit de fabriquer, soit de transporter ou de diffuser, par quelque moyen que ce soit et quel qu'en soit le support un message à caractère pornographique susceptible d'être vu ou perçu par un mineur est puni de trois ans d'emprison-nement et de 75 000 euros d'amende. Néanmoins, le concept même de pornographie est sujet à interprétation en fonction notamment de la nécessaire prise en compte de l'évolution des moeurs et du respect de la liberté d'expression. Le critère le plus fréquemment utilisé en jurisprudence est soit la nature souvent odieuse et dégradante de l'image, soit la description ou la représentation de l'acte sexuel. A ce titre, la seule photographie d'un nu ne saurait, sous réserve de l'appréciation souveraine des magistrats, constituer en soi l'infraction prévue à l'article 227-24 du code pénal. Par ailleurs, il convient de préciser que l'article 14 de la loi du 16 juillet 1949 habilite le ministre de l'intérieur à interdire l'exploitation à la vue du public des publications de toute nature présentant un danger pour la jeunesse en raison de leur caractère licencieux ou pornographique. Les publications auxquelles s'appliquent ces interdictions sont désignées par arrêtés. L'irrespect de ces prescriptions est puni par une peine d'un an d'emprisonnement et 3 750 euros d'amende. Enfin, l'article R. 624-2 du code pénal réprime les messages contraires à la décence par une peine d'amende de la 4e classe, soit 750 euros au maximum.
