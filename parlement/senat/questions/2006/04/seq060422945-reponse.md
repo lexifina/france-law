@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422945
+
+- Question : [SEQ060422945](seq060422945.md) — Boissons sucrées dans les cantines scolaires et obésité infantile
+
+## Réponse
+
+*Éducation, JO du 2006-08-31, page 2286*
+
+L'enfance et l'adolescence sont des étapes déterminantes pour l'acquisition de comportements alimentaires bénéfiques pour la santé et au développement de l'activité physique. Ces habitudes alimentaires se construisent au niveau familial et l'école contribue à cette éducation à la nutrition. Face aux enjeux de santé publique que représentent les problèmes de surpoids et d'obésité, le ministère chargé de l'éducation nationale a développé depuis plusieurs années une véritable politique nutritionnelle et alimentaire à destination des établissements scolaires en lien avec le programme national nutrition santé (PNNS). La priorité est donnée à une approche globale de promotion et d'éducation à la santé qui vise à faire adopter aux élèves des comportements responsables en matière de santé. Les actions de prévention et d'éducation dans le domaine de la nutrition et de l'alimentation sont définies dans les projets d'école ou d'établissement et mises en oeuvre par les équipes éducatives en collaboration avec les partenaires de proximité. En ce qui concerne plus particulièrement la restauration scolaire, il est important pour les collectivités territoriales qui ont en responsabilité ce service, de s'appuyer sur les recommandations de la circulaire interministérielle n° 2001-118 du 25 juin 2001 relative à la composition des repas servis en restauration scolaire et à la sécurité des aliments. Celle-ci préconise que les repas proposés doivent être équilibrés, variés, de bonne qualité et répondre aux besoins de croissance des jeunes scolarisés. Par ailleurs, elle précise qu'à table, l'eau est « la boisson de tous les jours ». Il est également conseillé que des fontaines à eau soient mises à disposition des élèves dans les établissements scolaires.
