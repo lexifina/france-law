@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322165
+
+- Question : [SEQ060322165](seq060322165.md) — Situation des titulaires du BEP maritime de cultures marines et du certificat d'aptitude à la conduite des moteurs des navires conchylicoles
+
+## Réponse
+
+*Transports et équipement, JO du 2006-08-31, page 2296*
+
+Une réforme des formations menant à la délivrance des titres de formation professionnelle maritimes permettant l'exercice des fonctions sur les navires armés à la pêche et aux cultures marines est en cours. Cette réforme vise à améliorer l'attractivité du secteur de la pêche, dans cette perspective, les référentiels de formation seront modernisés et les deux baccalauréats professionnels créés en 2005 seront complètement intégrés aux filières de formation. Pour permettre aux marins de passer de la filière pêche à la filière commerce et inversement, des troncs communs de formation et des « passerelles » seront mis en place. L'une des mesures de cette réforme consistera à modifier les dispositions du décret n° 93-1342 du 28 décembre 1993 relatives à l'âge minimum requis pour exercer les fonctions de capitaine et d'officier à bord des navires de pêche fixées dans le tableau II figurant en annexe de ce décret. Il est par ailleurs prévu, entre autres mesures, de ramener à dix-huit ans l'âge minimum requis pour exercer les fonctions de capitaine ou de patron à bord des navires de pêche et des navires conchylicoles. Parallèlement, la création d'un nouveau brevet, spécifique aux cultures marines, devrait permettre de répondre à l'évolution des navires spécialisés dans cette activité et aux besoins des professionnels, qui sont associés aux référentiels de formation en cours d'élaboration, Dans l'attente de ces nouvelles dispositions, il a été demandé aux services des affaires maritimes d'instruire avec bienveillance les demandes de dérogation qui pourraient être sollicitées.
