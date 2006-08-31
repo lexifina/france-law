@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322038
+
+- Question : [SEQ060322038](seq060322038.md) — Aides de l'État aux associations en charge de la prévention routière dans les écoles
+
+## Réponse
+
+*Transports et équipement, JO du 2006-08-31, page 2295*
+
+L'article 10 de la loi n° 2003-495 du 12 juin 2003 renforçant la lutte contre la violence routière stipule que le Gouvernement présente au Parlement, chaque année, un rapport sur les conditions d'utilisation du produit des amendes engendrées par les infractions au code de la route. Ce rapport précise en particulier la répartition entre l'Etat et les collectivités locales ainsi que les conditions effectives d'affectation de ce produit à des actions de sécurité routière. Le produit des amendes perçu par l'effet du système du contrôle automatisé sert d'abord à autofinancer le projet. Ainsi, l'investissement en 2003 et 2004 a-t-il été légèrement inférieur aux recettes puisque l'implantation des appareils n'a commencé qu'en octobre 2003. L'investissement pour ces deux années s'est élevé à 104 394 206 euros pour un produit encaissé de 111 169 045 euros. En ce qui concerne l'année 2005, l'investissement s'est élevé à 132 915 267 euros et le produit des amendes, reversé au budget général, à 204 925 306 euros. La loi de finances pour 2006, a encadré les ressources provenant des amendes du contrôle automatisé : 140 millions d'euros seront versés sur le compte d'affectation spéciale pour les radars (financement de la tranche des 500 radars supplémentaires, maintenance du parc existant, modernisation du fichier national du permis de conduire [FNPC]) ; 100 millions d'euros pour l'agence de financement des infrastructures de transports français (AFITF) ; le solde au bénéfice des collectivités locales, qui pourront ainsi soutenir les initiatives les plus pertinentes des associations en matière d'éducation routière.
