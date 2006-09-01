@@ -7,3 +7,5 @@ Ministère de la défense.
 Ministère de la culture et de la communication.
 
 Ministères chargés des affaires sociales.
+
+Ministères des affaires étrangères.
