@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115615
+
+- Question : [SEQ050115615](seq050115615.md) — Organisme HLM et conventions Etat-UESL du 27 octobre 2004
+
+## Réponse
+
+*Emploi, JO du 2006-09-07, page 2343*
+
+L'accroissement des engagements signés avec l'Etat par les partenaires sociaux, gestionnaires des fonds du « 1 % logement », en faveur du logement locatif social et de la politique de rénovation urbaine rend aujourd'hui nécessaire la mobilisation de l'ensemble des ressources « 1 % » disponibles, pour tous les collecteurs de la participation des entreprises à l'effort de construction (PEEC), y compris ceux non associés à l'Union d'économie sociale pour le logement (UESL). C'est pourquoi l'Etat s'est engagé, dans la convention conclue le 27 octobre 2004 avec l'UESL pour la mise en oeuvre du plan de cohésion sociale qui prévoit le financement de 500 000 nouveaux logements locatifs sociaux (hors programme national de rénovation urbaine) sur la période 2005-2009, à proposer une disposition législative conduisant au reversement de deux tiers de la collecte « 1 % » réalisée par les organismes HLM et les SEM de logement social aux collecteurs associés de l'UESL. L'article 101 de loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement (ENL) organise les modalités de ce versement. La loi ENL limite cependant ce reversement à la collecte « 1 % » des organismes HLM et des SEM réalisée du 1er janvier 2006 au 31 décembre 2009. C'est-à-dire sur la durée du plan de cohésion sociale (à l'exception de l'année 2005 antérieure à la publication de la loi ENL). La loi prévoit en outre que l'organisme constructeur sera libre de choisir le comité interprofessionnel du logement (CIL) bénéficiaire. Ces modalités permettront aux organismes constructeurs de logements sociaux d'établir un réel partenariat avec le CIL de leur choix pour réunir tous les financements nécessaires au montage de leurs opérations locatives sociales.
