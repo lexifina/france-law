@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723933
+
+- Question : [SEQ060723933](seq060723933.md) — Moyens et effectifs destinés à la sécurité sur la commune de Creil (Oise)
+
+## Réponse
+
+*Intérieur, JO du 2006-09-07, page 2351*
+
+Entre le 1er janvier 2001 et le 1er août 2006, le volume des effectifs affectés à la circonscription de sécurité publique de Creil a augmenté de manière significative (+ 7 %). Une analyse plus fine montre que les gradés et gardiens de la paix ont été renforcés par l'arrivée de 13 membres supplémentaires de ce corps. L'effectif de fonctionnement annuel, qui indique le nombre de personnels dont un service a besoin pour assurer ses missions compte tenu de la superficie de la zone de compétence, de sa population, de l'évolution de la délinquance dans cette aire géographique et des circonstances locales particulières, est atteint à 98,26 %. D'ici au 31 décembre de cette année, il est prévu l'affectation de trois nouveaux personnels. Toutefois, le critère des effectifs ne constitue que l'un des éléments d'analyse en matière de lutte contre la délinquance. C'est ainsi que les services sont réorganisés afin de mieux utiliser le potentiel disponible. Cela se traduit notamment par une substitution des personnels administratifs aux policiers afin de renforcer les missions de voie publique, un accueil de qualité et un travail d'investigation qui conditionnent le maintien même de la sécurité de proximité. Enfin, l'adaptation des services de police aux évolutions de la délinquance a conduit à une réforme des modes d'organisation. Ainsi, notamment, les services territoriaux bénéficient du potentiel des forces mobiles dans la lutte contre les violences urbaines et la délinquance de voie publique. Le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, met donc tout en oeuvre pour garantir, en tous lieux et en toutes circonstances, l'autorité de l'Etat ainsi que le droit fondamental à la sécurité, première des libertés.
