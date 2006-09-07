@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523169
+
+- Question : [SEQ060523169](seq060523169.md) — Disparition des horodateurs acceptant des pièces de monnaie
+
+## Réponse
+
+*Économie, JO du 2006-09-07, page 2336*
+
+Le développement d'une criminalité organisée spécialisée dans le pillage des horodateurs conduit beaucoup de municipalités à réduire considérablement, voire à supprimer, le paiement par pièces, et à y substituer le paiement par une carte privative ou par la carte Monéo, porte-monnaie électronique assimilé à une carte de paiement au sens de l'article L. 132-1 du code monétaire et financier. Le Conseil de la concurrence, dans un avis du 18 septembre 2003 relatif aux conditions de commercialisation du porte-monnaie électronique Monéo, recommande, pour les horodateurs, la coexistence de plusieurs moyens de paiement et de privilégier l'accessibilité à Monéo vert qui est de nature à garantir le libre choix de l'utilisateur puisqu'elle évite que le client soit captif de la banque. Enfin, selon une jurisprudence constante, la chambre criminelle de la Cour de cassation juge que « le paiement ne s'impose qu'aux usagers désireux de stationner dans la zone réglementée et qui doivent donc se plier aux modalités régulièrement fixées et publiées par l'autorité publique. Les impératifs techniques peuvent commander l'emploi de certains moyens de paiement parmi ceux ayant cours légal sans pour autant que l'impossibilité d'utiliser certaines pièces ou billets puisse être considérée comme constituant le refus sanctionné par l'article R. 642-3 du nouveau code pénal » (Cour de cassation - chambre criminelle 11 juin 1992 ; Cour de cassation - chambre criminelle 19 janvier 1994 ; Cour de cassation - chambre criminelle 1er février 2000) réglementée, et qu'en choisissant de le faire il se soumet volontairement aux prescriptions arrêtées par l'autorité publique.
