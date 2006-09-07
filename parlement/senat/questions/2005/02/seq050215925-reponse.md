@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215925
+
+- Question : [SEQ050215925](seq050215925.md) — Équivalences pour l'exercice de la nouvelle profession d'avocat
+
+## Réponse
+
+*Justice, JO du 2006-09-07, page 2353*
+
+Le garde des sceaux, ministre de la justice, confirme à l'honorable parlementaire que le titre d'ancien élève de l'Ecole nationale des impôts (ENI) ayant suivi avec succès le cycle d'enseignement professionnel des inspecteurs-élèves des impôts est reconnu comme équivalent à la maîtrise en droit pour l'exercice de la profession d'avocat. Cette situation trouve son origine dans l'organisation des professions juridiques telle qu'elle résultait de l'application de la loi n° 71-1130 du 31 décembre 1971 et du décret n° 72-670 du 13 juillet 1972 relatif à l'usage du titre de conseil juridique. Le décret prévoyait que la liste des titres et diplômes permettant l'inscription sur une liste de conseils juridiques était fixée par arrêté. C'est ainsi que le titre d'ancien élève de l'ENI ayant suivi avec succès le cycle d'enseignement professionnel des inspecteurs des impôts a fait l'objet d'un arrêté du 8 février 1984. A la suite de l'adoption de la loi de fusion des professions d'avocat et de conseil juridique (cf. loi n° 90-1259 du 31 décembre 1990 et décret n° 91-1197 du 27 novembre 1991), les titres ou diplômes équivalents à la maîtrise en droit ont fait l'objet d'un arrêté du 26 décembre 1991 (abrogé par l'arrêté du 7 août 1995, lui-même abrogé par l'arrêté du 25 novembre 1998) qui a repris en ce qui concerne les anciens élèves de l'ENI la même rédaction que celle de l'arrêté de 1984. En l'état, la Chancellerie n'est pas saisie, par les représentants de la profession d'avocat, d'une demande de modification de l'arrêté du 25 novembre 1998 ajoutant le titre d'ancien élève de l'Ecole nationale des douanes ayant suivi avec succès le cycle d'enseignement professionnel des élèves-inspecteurs des douanes. Une telle modification n'est donc pas envisagée.
