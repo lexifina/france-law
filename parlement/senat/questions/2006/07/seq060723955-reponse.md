@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723955
+
+- Question : [SEQ060723955](seq060723955.md) — Modalités définies par le décret n° 2003-1036 pour bénéficier d'une retraite anticipée
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-09-07, page 2357*
+
+Il doit préalablement être rappelé que, avec le dispositif de retraite anticipée prévu par l'article 23 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et mis en oeuvre par le décret n° 2003-1036 du 30 octobre 2003, il est pour la première fois dérogé, dans le régime général et les régimes alignés, au principe d'ouverture du droit à la retraite à partir de soixante ans. Cette dérogation, les pouvoirs publics ont entendu la réserver aux personnes qui ont commencé à travailler jeunes et dont l'importance des droits acquis par les cotisations qu'elles ont versées témoigne à la fois d'une longue activité professionnelle et d'un effort contributif important. Les conditions de durée d'assurance posées par le décret précité sont cohérentes avec cet objectif et n'ont nullement le caractère restrictif avancé par l'honorable parlementaire. On soulignera notamment que les cotisations requises pour valider quatre trimestres d'assurance sont inférieures à celles dues pour une activité à mi-temps, de sorte qu'un assuré ayant une année travaillé six mois au SMIC puis connu six mois de chômage (par exemple) dispose, pour cette année, d'une durée d'assurance cotisée de quatre trimestres. Dans ce contexte, l'assimilation à des périodes cotisées de certaines périodes non cotisées, à savoir d'une part les périodes d'indemnisation au titre de l'assurance maladie, maternité et accident du travail, et d'autre part les périodes de service national, sont limitées chacune à quatre trimestres. Ainsi, les assurés peuvent bénéficier au total, de huit trimestres réputés cotisés sur l'ensemble de leur carrière.
