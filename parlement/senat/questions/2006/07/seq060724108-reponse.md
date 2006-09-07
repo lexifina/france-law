@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724108
+
+- Question : [SEQ060724108](seq060724108.md) — Indemnisation des conseillers prud'homaux
+
+## Réponse
+
+*Justice, JO du 2006-09-07, page 2355*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le projet de loi et les deux projets de décrets élaborés à partir du rapport remis par le procureur général honoraire Henri Desclaux le 5 octobre 2005 écarte toute forfaitisation de l'indemnisation des conseillers prud'hommes. D'une part, ces projets conservent, s'agissant des conseillers prud'hommes du collège salarié, le mécanisme du maintien du salaire pour les fonctions juridictionnelles exercées pendant les heures de travail. D'autre part, le projet de décret s'est appuyé sur le rapport précité pour déterminer les durées moyennes d'études de dossiers et de rédaction des décisions rendues par les conseillers prud'hommes. En outre, le texte prévoit que ces durées peuvent être dépassées lorsque la complexité du dossier, le nombre de parties à l'instance et la multiplicité des chefs de demande le justifient. Il a été tenu compte des observations formulées par les partenaires sociaux à l'occasion du Conseil supérieur de la prud'homie du 5 mai 2006 et le caractère « exceptionnel » des dépassements a été supprimé. Il convient de souligner que le taux des vacations versées pour indemniser les conseillers prud'hommes du collège « salarié » en dehors des heures de travail, les conseillers au chômage ou à la retraite et les conseillers prud'hommes du collège « employeur », sera augmenté dans une proportion qui est en cours d'évaluation budgétaire. Ces projets de textes accroissent également le nombre d'activités indemnisables et améliorent la prise en charge des frais de déplacement des conseillers prud'hommes pour l'exercice de leur mission. Ainsi, l'indemnisation des conseillers prud'hommes pour l'exercice de leur fonction sera plus équitable.
