@@ -6,10 +6,14 @@ II. - La personne qui sollicite le versement par anticipation du crédit d'impô
 
 La demande est adressée ou déposée auprès du service des impôts du lieu du domicile du demandeur au 1er janvier de l'année de la demande. La personne produit à cet effet le formulaire de demande de versement anticipé établi par l'administration, dûment complété et signé, accompagné des documents suivants :
 
-1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+1° Un relevé d'identité bancaire ou de caisse d'épargne à son nom ;
 
 2° Une copie de pièce d'identité à son nom ;
 
 3° Une copie des bulletins de salaires justifiant de l'activité professionnelle exercée au cours des six premiers mois d'activité ;
 
 4° L'attestation du ou des employeurs mentionnée à l'article 46 AX.
+
+NOTA :
+
+Article périmé en conséquence de la péremption de l'article 200 decies du code général des impôts.
