@@ -1,0 +1,48 @@
+# Délibération portant avis sur le projet d'arrêté portant modification de l'arrêté du 29 août 1991 relatif au traitement informatisé du fichier national transfrontière.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-197
+- Date : 2006-09-14
+- Publication : 2019-11-13
+- NOR : CNIX0609692X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652235
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère de l'intérieur d'une demande d'avis relative à la modification du traitement automatisé de données à caractère personnel dénommé "fichier national transfrontière".
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et notamment l'article 26 ;
+
+Vu la loi n° 2006-64 du 23 janvier 2006, relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers, notamment son article 7 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Vu la délibération n° 91-045 de la Commission nationale de l'informatique et des libertés du 11 juin 1991 portant avis sur le projet d'arrêté du ministre de l'intérieur portant création du traitement automatisé transfrontière ;
+
+Après avoir entendu M. François Giquel, commissaire, en son rapport et Mme Pascale Compagnie, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+La Commission a été saisie, le 22 juin 2006, par le ministère de l'intérieur d'un dossier de formalités préalables portant sur la modification du traitement "fichier national transfrontière" (FNT) créé par un arrêté du 29 août 1991 et sur lequel la CNIL s'était prononcée dans une délibération n° 91-045 du 11 juin 1991.
+
+Ce traitement relève de l'article 26-I 1° et 2° de la loi du 6 janvier 1978 modifiée.
+
+La Commission constate que la modification envisagée du traitement FNT s'inscrit dans le cadre de l'application de l'article 7 de la loi du 23 janvier 2006 relative à la lutte contre le terrorisme. Elle permet d'étendre les finalités de cette application à la lutte contre l'immigration clandestine et à la lutte contre le terrorisme. A cet effet, le dispositif technique du fichier sera modifié afin de permettre, outre la saisie manuelle des cartes d'embarquement et de débarquement, une lecture optique des documents de voyages, des titres d'identité ou visas des passagers ayant recours à des transporteurs aériens, maritimes ou terrestres.
+
+La Commission prend acte qu'en l'état, le traitement ne concerne que les passagers aériens provenant, ou à destination, de pays limitativement énumérés et figurant sur une liste fixée par décision du ministre de l'Intérieur communiquée à la CNIL.
+
+La Commission constate que la proposition de modification de l'arrêté du 29 août 1991 étend la liste des services ayant accès aux données du traitement FNT aux services de la police et de la gendarmerie nationales et des douanes chargés du contrôle de l'immigration clandestine ainsi qu'aux services des directions générales de la police et de la gendarmerie nationales chargés des missions de prévention et de répression du terrorisme au sens de la loi du 23 janvier 2006, dont la liste est fixée par l'arrêté du 31 mars 2006 modifié.
+
+La Commission prend acte qu'il n'y a pas d'interconnexion entre le fichier national transfrontière et le fichier des personnes recherchées ou le système d'information Schengen, d'une part, et que la liste des pays concernés lui sera communiquée, d'autre part.
+
+La Commission observe que le projet d'arrêté modificatif fixe la durée de conservation des données à trois ans, conformément à la demande qui avait été faite par la CNIL dans sa délibération du 11 juin 1991 et à la mise en oeuvre qui a été faite depuis lors.
+
+Conformément à l'article 32 de la loi du 6 janvier 1978 modifiée, les personnes susceptibles d'être concernées par le traitement sont informées des droits qui leur sont ouverts au titre de la loi précitée au moyen d'affiches apposées aux points de contrôles frontaliers. La Commission estime que ces notes d'information doivent être complétées par la mention des finalités du traitement ainsi que par les catégories de services compétents pour accéder aux données.
+
+Le président, Alex TURK.
