@@ -1,0 +1,48 @@
+# Délibération portant avis sur le projet d'arrêté créant, à titre expérimental, un traitement automatisé de données à caractère personnel relatives aux passagers, enregistrées dans le système de contrôle des départs des transporteurs aériens.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-198
+- Date : 2006-09-14
+- Publication : 2019-11-13
+- NOR : CNIX0609772X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652236
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère de l'intérieur d'une demande d'avis sur le projet d'arrêté portant création, à titre expérimental, d'un traitement automatisé de données à caractère personnel relatives aux passagers enregistrées dans le système de contrôle des départs des transporteurs aériens, en application de l'article 7 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, notamment son article 26 ;
+
+Vu l'article 7 de la loi n° 2006-64 du 23 janvier 2006, relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Après avoir entendu M. François Giquel, commissaire, en son rapport et Mme Pascale Compagnie, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+La Commission a été saisie, le 18 juillet 2006, par le ministère de l'intérieur d'un dossier de formalités préalables accompagné d'un projet d'arrêté portant création, à titre expérimental, d'un traitement automatisé de données à caractère personnel relatives aux passagers enregistrées dans le systèmes de contrôle des départs des transporteurs aériens, dénommé "fichier des passagers aériens" (FPA), en application de l'article 7 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.
+
+La Commission constate que ce traitement a pour finalités l'amélioration du contrôle aux frontières, la lutte contre l'immigration clandestine et la prévention et la répression des actes de terrorisme.
+
+Ce traitement relève de l'article 26-1 1° et 2° de la loi du 6 janvier 1978 modifiée.
+
+La Commission relève que le ministère de l'intérieur distingue, à juste titre, dans l'annexe II du projet d'arrêté, les services ayant accès à l'application, d'une part, au titre du contrôle aux frontières et de la lutte contre l'immigration clandestine, et d'autre part, au titre de la lutte contre le terrorisme. Cette liste n'appelle pas de remarques particulières de la Commission.
+
+La Commission constate que l'interconnexion, prévue à l'article 7.III de la loi du 23 janvier 2006 conduit à une vérification systématique des données parvenues au ministère de l'intérieur (direction centrale de la police de l'air et des frontières) au titre du FPA par rapport au fichier des personnes recherchées (FPR) et au système d'information Schengen (SIS). La mention "connu" ou "inconnu" est alors ajoutée au fichier FPA pour chaque voyageur.
+
+La Commission observe, cependant, que la mention "connu" ou "inconnu" figurant dans le FPA ne sera pas mise à jour. Or, cette notion peut être évolutive dans le temps. La CNIL demande, par conséquent, à ce que l'effacement de cette mention "connu" ou "inconnu" intervienne dans un délai de vingt quatre heures, par un dispositif technique similaire à celui mis en oeuvre pour bloquer l'accès des agents chargés de l'immigration, afin d'éviter le maintien d'informations périmées au sein du FPA. Par ailleurs, la Commission rappelle que les services chargés de la lutte contre le terrorisme disposent d'un accès direct au FPR.
+
+La Commission estime que l'exercice du droit d'accès prévu par l'article 6 du projet d'arrêté sera dépourvu d'effet si l'arrêté n'est pas publié et donc le traitement non connu.
+
+La Commission demande à être saisie, préalablement à leur diffusion des modèles de notes d'information destinées aux passagers concernés. Elle rappelle que celles-ci devront préciser les destinataires des informations recueillies, les finalités de ce recueil obligatoire et les modalités des droits d'accès et de rectification.
+
+Dans l'hypothèse, où l'arrêté, en application de l'article 3 du projet de décret fixant à titre expérimental les modalités de transmission au ministère de l'intérieur des données relatives aux passagers par les transporteurs aériens ne serait pas publié, le sens de l'avis de la Commission à publier à l'appui de ce décret est : FAVORABLE.
+
+Le président Alex TURK.
