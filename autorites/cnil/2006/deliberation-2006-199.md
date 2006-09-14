@@ -1,0 +1,52 @@
+# Délibération portant avis sur le projet de décret en Conseil d'Etat fixant, à titre expérimental, les modalités de transmission au ministère de l'intérieur des données relatives aux passagers par les transporteurs aériens.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-199
+- Date : 2006-09-14
+- Publication : 2019-11-13
+- NOR : CNIX0609771X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652237
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère de l'intérieur d'une demande d'avis sur le projet de décret en Conseil d'Etat fixant, à titre expérimental, les modalités de transmission au ministère de l'intérieur des données relatives aux passagers par les transporteurs aériens, en application de l'article 7 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la directive communautaire du 29 avril 2004 concernant l'obligation pour les transporteurs de communiquer les données relatives aux passagers ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel ;
+
+Vu la loi n° 2006-64 du 23 janvier 2006, relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Après avoir entendu M. François Giquel, commissaire, en son rapport et Mme Pascale Compagnie, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+La Commission a été saisie, le 18 juillet 2006, par le ministère de l'intérieur, d'un projet de décret en Conseil d'Etat fixant, à titre expérimental pour une durée de deux ans, les modalités de transmission au ministère de l'intérieur des données relatives aux passagers par les transporteurs aériens, et dispensant de publication l'acte réglementaire portant création du traitement de ces données.
+
+La Commission constate que la création d'un traitement de données à caractère personnel relatives aux passagers des transporteurs aériens et enregistrées dans les systèmes de réservation et de contrôle des départs s'inscrit dans le cadre de l'application de l'article 7 de la loi du 23 janvier 2006 relative à la lutte contre le terrorisme et de la transposition de la directive communautaire 2004/82/CE du Conseil du 29 avril 2004.
+
+La Commission demande que l'article 1er du projet de décret comporte explicitement les finalités du traitement pour lequel il définit les modalités de transmission des données, à savoir "le contrôle aux frontières et la lutte contre l'immigration clandestine".
+
+Dans la mesure où l'article 2 du projet de décret prévoit qu'il soit procédé à une évaluation de l'expérimentation, la Commission estime que le bilan de celle-ci doit lui être communiqué et que les termes "et un bilan est communiqué à la CNIL" doivent en conséquence être ajoutés à la fin de cet article.
+
+L'article 3 du projet de décret vise à dispenser de publication le projet d'arrêté portant création du traitement, conformément aux dispositions du III de l'article 26 de la loi du 6 janvier 1978 modifiée.
+
+A cet égard, la CNIL rappelle que ce traitement est prévu par la loi du 23 janvier 2006 susvisée qui ne fait, sur ce point, que transposer la directive communautaire du 29 avril 2004 concernant l'obligation pour les transporteurs de communiquer les données relatives aux passagers . Elle souligne que les services ayant accès aux informations sont énumérés dans un arrêté du 31 mars 2006 publié au journal officiel, que la liste des données est contenue dans la directive communautaire à l'origine de ce traitement et que l'interconnexion avec le fichier des personnes recherchées (FPR) et le système d'information Schengen (SIS) figure dans le III de l'article 7 de la loi.
+
+Ainsi, l'essentiel des éléments du traitement qui doivent, aux termes de l'article 29 de la loi informatique et libertés, figurer dans l'acte réglementaire créant le traitement (finalités, données enregistrées, interconnexions, destinataires) ont d'ores et déjà été rendus publics.
+
+Dès lors, l'acte réglementaire prévu ne comporte que des informations dont la publication ne serait pas de nature à porter atteinte à la sûreté de l'Etat et à la sécurité publique. Quant à la souplesse nécessaire pour adapter et faire évoluer la liste des pays concernés, elle peut être recherchée dans la même voie que celle retenue pour le fichier national transfrontière vu par l'arrêté du 29 août 1991, c'est à dire en renvoyant l'établissement de cette liste à une décision du ministre de l'intérieur qui serait communiquée à la CNIL.
+
+La Commission relève, en outre, le paradoxe à prévoir, comme le fait le projet d'arrêté portant création du traitement qui lui a été soumis, un droit d'accès aux données enregistrées alors même que les citoyens n'auraient pas été informés de l'existence du traitement et donc de la possibilité d'exercer ce droit.
+
+La directive du 29 avril 2004 fait déjà peser sur les transporteurs aériens une obligation d'information des personnes concernées (article 6.2) ce que reprend le VI de l'article 7 de la loi du 23 janvier 2006, mais cela n'épuise pas l'obligation propre qui est faite au responsable du traitement par la loi du 6 janvier 1978, d'autant plus que les données fournies par les transporteurs sont complétées par le ministère de l'intérieur après rapprochement avec le FPR et le SIS.
+
+Le président, Alex TURK.
