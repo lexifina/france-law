@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623397
+
+- Question : [SEQ060623397](seq060623397.md) — Taxis clandestins à l'aéroport de Roissy - Charles-de-Gaulle
+
+## Réponse
+
+*Intérieur, JO du 2006-09-21, page 2446*
+
+L'article 2 ter de la loi n° 95-66 du 20 janvier 1995, modifiée, relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi dans sa rédaction issue de l'article 37-1 de la loi n° 2004-204 du 9 mars 2004 relative à l'adaptation de la justice aux évolutions de la criminalité dispose : « Le fait d'effectuer à la demande et à titre onéreux le transport particulier de personnes et de bagages sans être titulaire d'une autorisation de stationnement sur la voie publique en attente de clientèle, ou d'exercer l'activité de conducteur de taxi sans être titulaire de la carte professionnelle en cours de validité, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. Les personnes physiques coupables de l'infraction prévue au présent article encourent également les peines complémentaires suivantes : 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; 2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 3° La confiscation du véhicule qui a servi à commettre l'infraction ; 4° L'interdiction, pour une durée de cinq ans au plus, d'entrer et de séjourner dans l'enceinte d'une ou plusieurs infrastructures aéroportuaires ou portuaires, d'une gare ferroviaire ou routière, ou de leurs dépendances, sans y avoir été préalablement autorisé par les autorités de police territorialement compétentes. » Des instructions en ce sens sont régulièrement rappelées par les préfets territorialement compétents. En conséquence, et sous réserve de leur application par les forces de l'ordre, les textes actuellement en vigueur, répondent au souci exprimé par l'honorable parlementaire.
