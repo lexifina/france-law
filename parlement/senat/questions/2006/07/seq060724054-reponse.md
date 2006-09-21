@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724054
+
+- Question : [SEQ060724054](seq060724054.md) — Conséquences de la revalorisation du barème d'évaluation des droits démembrés
+
+## Réponse
+
+*Budget, JO du 2006-09-21, page 2432*
+
+L'article 19 de la loi de finances pour 2004 a actualisé le barème des valeurs respectives de l'usufruit et de la nue-propriété servant à la liquidation des droits de mutation en tenant compte d'un rendement des actifs et d'une espérance de vie plus proche des réalités actuelles. Cette disposition, codifiée à l'article 669 du code général des impôts, s'applique indistinctement à toutes les transmissions réalisées à compter du 1er janvier 2004. Cependant, il est apparu que, dans certains cas, l'addition, d'une part, de la quotité servant d'assiette à la donation de la nue-propriété consentie avant le 1er janvier 2004 et, d'autre part, de la quotité servant d'assiette à la détermination de la renonciation à l'usufruit ou de sa transmission au conjoint survivant après cette date revenait à retenir une quotité excédant 100 % de la pleine propriété. Dès lors, dans une précédente réponse ministérielle (n° 38802, publiée au Journal officiel de l'Assemblée nationale le 28 mars 2006, p. 3385), il a été admis dans l'hypothèse précitée que la quotité de la valeur de l'usufruit servant d'assiette à la liquidation des droits soit plafonnée de manière que son addition à celle ayant servi d'assiette à la liquidation de la donation de la nue-propriété n'excède pas 100 %. Cette mesure de faveur, transitoire, est' applicable aux transmissions d'usufruit intervenues à compter du 1er janvier 2004. Dans ces conditions, les redevables peuvent déposer des demandes en restitution à compter de la date de publication de la présente réponse ou, en cas de litige en cours, opposer cette solution à l'administration fiscale. Ces précisions sont de nature à répondre aux préoccupations exprimées.
