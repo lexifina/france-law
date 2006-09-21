@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724020
+
+- Question : [SEQ060724020](seq060724020.md) — Vigilance des consommateurs
+
+## Réponse
+
+*Économie, JO du 2006-09-21, page 2436*
+
+La direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), qui compte parmi ses missions la protection des consommateurs, reçoit des appels des consommateurs pour lesquels elle a mis en place une cellule de réponse téléphonique spécialisée. La tarification, fixée à 12 centimes d'euro la minute, est liée à celle du numéro du portail gouvernemental 39-39, « Allô service public », géré par La Documentation française, qui répond à toutes les demandes d'information administrative. Les questions les plus spécifiques dans le domaine de la consommation sont renvoyées vers le service Info service consommation géré par la DGCCRF avec des agents de la direction spécialisés dans ce domaine. Ce tarif, fixé à 0,12 euro, qui est donc celui du portail général d'« Allo service public », fait partie des plus faibles parmi les tarifs des numéros spéciaux dont le prix est unifié sur l'ensemble du territoire. La durée moyenne des appels étant de trois à quatre minutes le prix moyen de la communication ne dépasse pas 50 centimes d'euro pour l'appelant, soit un montant raisonnable, équivalent au prix d'un timbre. Cette participation modeste joue aussi un rôle de « ticket modérateur » qui permet d'éviter les appels non justifiés au service. Il n'est pas envisagé de modifier ce dispositif. Il convient d'ajouter que la très large majorité des appels concerne des demandes d'information ou d'orientation, et constituent donc un service rendu aux appelants. Les autres appels, et en particulier les plaintes, ne justifient pas, par leur nombre, la création d'un numéro spécifique alors que le choix d'un numéro unique, facilement mémorisable pour l'ensemble des appels des usagers français, est un facteur important de simplification.
