@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623453
+
+- Question : [SEQ060623453](seq060623453.md) — Entretien des chemins d'exploitation en cas de remembrement
+
+## Réponse
+
+*Agriculture, JO du 2006-09-28, page 2485*
+
+En application de l'article L. 161-6 du code rural, les chemins d'exploitation créés lors d'un aménagement foncier et appartenant à l'association foncière peuvent être incorporés dans la voirie rurale, domaine privé de la commune, par une délibération du conseil municipal prise sur proposition du bureau de l'association foncière. Dans ce cas, en application de l'article L. 161-7, l'entretien de ces chemins est financé par la commune au moyen d'une taxe répartie en raison de l'intérêt de chaque propriété aux travaux. Aucun texte législatif ou réglementaire ne peut contraindre la commune à donner son accord. Toutefois, l'usage des chemins par tout ou partie des habitants de la commune et non par les seuls agriculteurs est de nature à influer sur la décision du conseil municipal. Si la commune refuse d'intégrer ces chemins dans son domaine privé, l'association foncière a qualité pour assurer l'entretien et la gestion des travaux connexes à l'opération d'aménagement foncier tels que les chemins d'exploitation en application des dispositions des articles L. 133-1 et R. 133-8. Les dépenses correspondantes sont alors réparties par le bureau, proportionnellement à la surface attribuée à chaque propriétaire dans l'opération d'aménagement foncier, la taxe syndicale étant recouvrée comme en matière de contribution directe. Enfin, si l'intégration directe des chemins d'exploitation au domaine privé de la commune résulte de la maîtrise d'ouvrage exercée par la commune, en application de l'article L. 133-2, sur les travaux connexes à l'opération d'aménagement foncier, la réalisation et l'entretien sont payés par les impôts locaux.
