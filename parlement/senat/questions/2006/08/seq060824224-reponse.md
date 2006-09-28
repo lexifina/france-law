@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060824224
+
+- Question : [SEQ060824224](seq060824224.md) — Blogs et comptes de campagne
+
+## Réponse
+
+*Intérieur, JO du 2006-09-28, page 2498*
+
+Les candidats peuvent créer et utiliser des sites internet dans leurs campagnes électorales à l'occasion des élections législatives, quelle que soit la dénomination que revêtent ces sites. En l'occurrence, les règles applicables aux sites internet valent également pour les sites interactifs qualifiés de « blogs ». Lorsqu'un « blog » est utilisé à des fins de propagande électorale, l'ensemble des dépenses liées à cet outil doit donc figurer dans le compte de campagne du candidat. Par ailleurs, l'article L. 52-8 du code électoral prévoit que les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués. Afin d'éviter le risque de requalification en financement par des personnes morales en méconnaissance de ces dispositions, il est donc recommandé que les sites des candidats n'affichent pas de message publicitaire. Toutefois, dans une décision Elections municipales de Lons du 18 octobre 2002, le Conseil d'État a jugé que l'utilisation d'un service gratuit d'hébergement de sites internet, avec bandeau ou fenêtres publicitaires sur les sites hébergés, ne méconnaissait pas les dispositions de l'article L. 52-8 du code électoral, dès lors que la gratuité de l'hébergement du site internet de la liste en contrepartie de la diffusion de message publicitaire ne constituait pas un avantage spécifique à la liste ou au candidat.
