@@ -1,0 +1,111 @@
+# Délibération portant avis sur le projet de décret pris pour l'application des I et II de l'article 6 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-219
+- Date : 2006-09-28
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652245
+
+La Commission nationale de l'informatique et des libertés ;
+
+Saisie pour avis par le ministère de l'intérieur et de l'aménagement du territoire d'un projet de décret en Conseil d'Etat pris pour l'application du 1 et II de l'article 6 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers ;
+
+Vu la Convention n'108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel ;
+
+Vu la loi n°2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Vu la délibération n° 2005-208 du 10 octobre 2005 portant avis sur le projet de loi relatif à la lutte contre le terrorisme de la Commission nationale de l'informatique et des libertés ;
+
+Après avoir entendu M. Didier Gasse, commissaire, en son rapport, et Mme Pascale Compagnie, commissaire du Gouvernement, en ses observations;
+
+Emet l'avis suivant :
+
+Objet de la saisine
+
+Le ministère de l'intérieur a saisi pour avis la Commission nationale de l'informatique et des libertés, le 1er août 2006, d'un projet de décret pris pour l'application des I et II de l'article 6 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.
+
+Dans le cadre de la lutte contre le terrorisme, cet article institue au bénéfice des agents spécialement désignés et individuellement habilités des services de police et de gendarmerie nationales la possibilité d'exiger la communication :
+
+- des données conservées par les opérateurs de communications électroniques en application de l'article L. 34-1 du code des postes et des communications électroniques, à savoir les données techniques relatives à l'identification des numéros d'abonnement ou de connexion à des services de communications électroniques, au recensement de l'ensemble des numéros d'abonnement ou de connexion d'une personne désignée, à la localisation des équipements terminaux utilisés, aux communications d'un abonné portant sur la liste des numéros appelés et appelants, à la durée et la date des communications ;
+
+- des données traitées et conservées par les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN) qui sont, d'une part, les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne et, d'autre part, les personnes physiques ou morales qui assurent, même à titre gratuit, pour mise à disposition du public par des services de communication au public en ligne, le stockage de signaux, d'écrits, d'images, de sons ou de messages de toute nature fournis par des destinataires de ces services.
+
+Le projet de décret en Conseil d'Etat transmis à la CNIL a pour objet de fixer les modalités de mise en oeuvre de ce dispositif, en précisant la procédure de suivi des demandes, les conditions et la durée de conservation des données transmises.
+
+Il convient d'indiquer que, conformément à l'article 32 de la loi du 23 janvier 2006 précitée, les dispositions de l'article 6 précité sont applicables jusqu'au 31 décembre 2008.
+
+Observation préliminaire relative aux personnes concernées par l'obligation de communication
+
+Si l'article 6 la loi du 23 janvier 2006 vise à élargir le cadre légal relatif au traitement des données de trafic, il convient de souligner qu'il le fait dans le prolongement de l'article 5 de la loi du 23 janvier 2006 qui étend la liste des opérateurs de communications électroniques définis à l'article L. 34-1 du code des postes et des communications électroniques en y incluant les personnes qui, au titre d'une activité professionnelle principale ou accessoire, offrent au public une connexion permettant une communication en ligne par l'intermédiaire d'un accès au réseau, y compris à titre gratuit.
+
+Dans sa délibération n° 2005-208 du 10 octobre 2005, portant avis sur le projet de loi de lutte contre le terrorisme, la Commission avait indiqué qu'une telle définition soulevait des incertitudes et que les catégories de personnes physiques ou morales concernées devraient être précisées. En effet, la Commission estimait nécessaire de déterminer si les entreprises, les administrations, les universités ou encore les espaces publics numériques qui assurent un accès à leurs salariés, agents, étudiants ou au public étaient concernés par cette obligation de communication, la CNIL étant fréquemment interrogée sur ce point.
+
+Or, l'article 6 de la loi du 23 janvier 2006 se réfère à cette définition pour déterminer les opérateurs de communications électroniques assujettis à une obligation de communication. Le même article, lorsqu'il définit les personnes concernées par cette obligation dans le cadre de la LCEN, n'apporte pas davantage de précision.
+
+Il apparaît ainsi que le champ d'application du projet de décret n'est pas clairement défini en ce qui concerne les personnes concernées par une obligation de communication.
+
+La Commission considère dès lors qu'elle ne dispose pas de l'ensemble des éléments nécessaires pour lui permettre de s'assurer du caractère réellement proportionné des dispositions qui lui sont soumises tant au regard des principes relatifs à la protection des données à caractère personnel que des libertés individuelles.
+
+Elle appelle en conséquence l'attention du gouvernement sur la nécessité de définir précisément le champ d'application de l'article 6 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme.
+
+Par ailleurs, s'agissant des données traitées et conservées par les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la LCEN, la Commission observe qu'il s'agit "des données de nature à permettre l'identification de quiconque a contribué à la création du contenu ou de l'un des contenus des services" dont la définition a été renvoyée à un décret en Conseil d'Etat, pris après avis de la CNIL, actuellement en cours d'élaboration.
+
+Il s'ensuit que la Commission doit, là aussi, se prononcer sur un projet de décret dont la portée n'est pas clairement définie dans la mesure où la deuxième catégorie des données susceptibles d'être transmises aux services de police et de gendarmerie n'est pas établie.
+
+La Commission estime dès lors que le dispositif prévu au titre du II de l'article 6 de la loi du 23 janvier 2006 ne pourra être mis en oeuvre tant que le décret précisant la nature des données traitées et conservées par les prestataires mentionnés aux 1 et 2 du 1 de l'article 6 de la LCEN ne sera pas intervenu.
+
+Sur le contenu du projet de décret
+
+L'article 1er prévoit que les données conservées et traitées par les opérateurs de communications électroniques et les fournisseurs d'accès prestataires pourront être exigées par les agents, individuellement désignés et spécialement habilités, des services de police et de gendarmerie nationales, chargés des missions de prévention des actes de terrorisme au sens de la loi du 23 janvier 2006.
+
+La Commission demande que le projet de décret fasse explicitement référence au fait que la liste des services de police et de gendarmerie nationales pouvant avoir accès aux données est fixée dans l'arrêté prévu à l'article 33 de la loi n° 2006-64 du 23 janvier 2006.
+
+L'article 2 dispose notamment que les demandes de communications de données doivent comporter les informations suivantes le nom, le prénom et la qualité du demandeur, ainsi que son service d'affectation et l'adresse de celui-ci ;
+
+des éléments suffisants de motivation ;
+
+les données requises.
+
+Les éléments de motivation des demandes ne seront pas transmis aux opérateurs ni aux fournisseurs d'accès et prestataires, mais uniquement à la personnalité qualifiée mentionnée à l'article L. 34-1-1 du code des postes et des communications électroniques. Cette personnalité est désignée pour une durée de trois ans renouvelable par la Commission nationale de contrôle des interceptions de sécurité, sur proposition du ministre de l'intérieur.
+
+L'article 4 dispose, en premier lieu, que "les demandes approuvées sont transmises aux opérateurs ou aux fournisseurs d'accès et prestataires selon des modalités sécurisées permettant d'en assurer le suivi, définies par voie de convention ou, à défaut d'arrêté".
+
+La transmission des demandes de communication de données donnera lieu, selon les indications du ministère de l'intérieur, à la mise en oeuvre d'un traitement automatisé de données à caractère personnel.
+
+La Commission estime que ce dispositif devra, d'une part, permettre aux opérateurs ou aux fournisseurs d'accès et prestataires de s'assurer que la demande qui leur est transmise a bien été approuvée par la personnalité qualifiée et, d'autre part, garantir l'authenticité des approbations ainsi que leur intégrité.
+
+La Commission prend acte que la transmission des demandes s'effectuera selon des modalités sécurisées permettant d'en assurer le suivi.
+
+S'agissant de la nature du texte dans lequel seront fixées les modalités de sécurisation des transmissions, si la voie réglementaire devait finalement être retenue, la Commission demande à en être de nouveau saisie pour avis. Si, en revanche, était confirmé le renvoi à une convention entre le ministère de l'intérieur et les prestataires, opérateurs ou fournisseurs d'accès le soin de déterminer des éléments aussi importants que la définition des mesures de sécurité appliquées au traitement de données concerné, la Commission demande que le projet de convention, et non sa copie déjà signée, lui soit soumis pour avis, en même temps que le dossier de formalités préalables afférent.
+
+Par ailleurs, la Commission souhaite que le projet de décret indique que seuls les employés individuellement désignés des services en charge de ces demandes des opérateurs ou des fournisseurs d'accès prestataires, ont accès aux demandes de communication des données.
+
+En second lieu, l'article 4 prévoit que les demandes de communication de données "sont enregistrées et conservées pendant une durée d'un an dans un traitement automatisé mis en oeuvre par le ministère de l'intérieur".
+
+La Commission prend acte, comme cela est indiqué dans le rapport adressé au Premier ministre accompagnant le projet de décret, qu'un dossier de formalité préalable, relatif à la mise en oeuvre de ces traitements, lui sera adressé.
+
+L'article 6 dispose, tout d'abord, que "les données sont transmises par les opérateurs ou les fournisseurs d'accès prestataires selon des modalités sécurisées permettant d'en assurer le suivi, définies par voie de convention ou, à défaut, d'arrêté".
+
+Comme la Commission l'a indiqué à l'article 4, le projet de décret devrait préciser que les données sont transmises par les employés appartenant aux services en charge de ces demandes, des opérateurs ou des fournisseurs d'accès prestataires et individuellement désignés.
+
+De même, la Commission prend acte que la transmission des demandes s'effectuera selon des modalités sécurisées permettant d'en assurer le suivi et insiste pour que le dispositif mis en oeuvre garantisse l'authenticité des données transmises et leur intégrité.
+
+S'agissant de la nature du texte dans lequel seront fixées les modalités de sécurisation des transmissions, la Commission émet sur ce point les mêmes observations que celles figurant sur ce sujet à l'article 4 du présent projet de décret.
+
+L'article 6 dispose ensuite que les données transmises "sont enregistrées et conservées pendant une durée de trois ans dans des traitements automatisés mis en oeuvre par le ministère de l'intérieur et le ministère de la défense".
+
+La Commission prend acte, comme cela lui a été confirmé par le ministère de l'intérieur, que les traitements visés à l'article 6 feront l'objet de dossiers de formalités préalables qui lui seront transmis.
+
+Enfin, la Commission constate que le ministère de l'intérieur et le ministère de la défense ne seront destinataires et ne conserveront dans les traitements précités que des données correspondant aux demandes qu'ils auront respectivement introduites.
+
+La Commission relève également que, selon les indications apportées par le ministère de l'intérieur, le traitement des données communiquées par les opérateurs ou les fournisseurs d'accès et prestataires aura pour unique objet la conservation et la consultation et ne sera par interconnecté ou rapproché avec d'autres traitements.
+
+Le président, Alex TURK.
