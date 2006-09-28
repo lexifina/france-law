@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523249
+
+- Question : [SEQ060523249](seq060523249.md) — Résorption des points noirs du bruit
+
+## Réponse
+
+*Transports et équipement, JO du 2006-09-28, page 2503*
+
+La réglementation française sur le bruit impose des seuils de protection acoustique sur les seuls ouvrages neufs. Toutefois, dans sa volonté de limiter les nuisances occasionnées par son réseau routier, l'Etat a institué par voie de circulaires une politique de résorption des points noirs du bruit (PNB). Elle ne constitue pas une obligation pour les sociétés concessionnaires d'autoroutes. Cependant, celles-ci acceptent de participer à l'effort mené par l'Etat dans ce domaine pour une meilleure intégration des infrastructures dont elles ont la responsabilité. Les circulaires du 12 juin 2001 et du 25 mai 2004 ont défini les PNB comme des zones soumises à un niveau de bruit supérieur à 70 dB(A), en période diurne (6 heures - 22 heures) et 65 dB(A) en période nocturne (22 heures - 6 heures). Elles ont prescrit des obligations de résultats après travaux consistant à ramener le niveau sonore des façades à des niveaux équivalents aux seuils fixés par la réglementation (65 dB(A) en période diurne et 60 dB(A) en période nocturne). Pour y parvenir, deux types de mesures peuvent être prises : le traitement à la source en bordure de voirie (écran du type merlon ou mur antibruit) et la protection individuelle par isolation des façades. Le type des protections à mettre en place ainsi que la détermination des priorités pour la réalisation des travaux sont déterminés par une analyse du contexte local (trafic, urbanisation...) et de l'importance des travaux à réaliser à l'échelle du réseau de chaque gestionnaire. En toute hypothèse, les sociétés concessionnaires d'autoroutes se sont engagées à résorber à terme tous les PNB déterminés par les observatoires du bruit.
