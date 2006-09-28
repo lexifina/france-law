@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316623
+
+- Question : [SEQ050316623](seq050316623.md) — Création d'une piscine dans une zone pouvant être l'objet d'affaissements miniers
+
+## Réponse
+
+*Transports et équipement, JO du 2006-09-28, page 2502*
+
+La construction d'une piscine sur un terrain supportant déjà un bâtiment fait l'objet d'une simple déclaration de travaux suivant l'article R. 422-2-m du code de l'urbanisme. Cependant, dans le cas où la parcelle concernée est située dans un secteur minier, le document d'urbanisme, s'il existe, doit faire apparaître les secteurs où l'existence de risques naturels tels qu'érosions (...), affaissements, éboulements (...) justifient que soient interdites ou soumises à des conditions spéciales les constructions et installations de toute nature permanente ou non, (...) selon l'article R. 123-11-b du code de l'urbanisme. A défaut d'un tel document, les dispositions d'ordre public de l'article R. 111-2 du code de l'urbanisme relatives au cas de refus pour atteinte à la salubrité et à la sécurité publique sont applicables pour une construction susceptible de subir un risque d'une telle nature. Le champ d'application de ces dispositions concerne également les projets de construction qui sont exemptés de permis de construire par le code de l'urbanisme, mais relèvent d'autres autorisations de construire (déclaration de travaux par exemple). Ces dispositions permettent à l'autorité compétente en matière d'autorisation d'urbanisme de prévoir des prescriptions spéciales et peuvent conduire à rendre la réalisation de la construction illégale. Il convient de souligner qu'en dehors de l'application des dispositions d'ordre public issues du code de l'urbanisme le propriétaire du sol engage sa responsabilité s'il construit sciemment sur un terrain qu'il sait instable par application des dispositions de droit commun de la responsabilité civile contrôlées par le juge judiciaire.
