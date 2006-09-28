@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523342
+
+- Question : [SEQ060523342](seq060523342.md) — Modalités de recrutement des ATSEM
+
+## Réponse
+
+*Fonction publique, JO du 2006-09-28, page 2493*
+
+Les métiers concernant la petite enfance sont, de par leur nature, sensibles et supposent la maîtrise de qualifications avérées. Ainsi, l'accès aux fonctions d'agents territoriaux spécialisés des écoles maternelles (ATSEM) répond-il à des exigences strictes de détention de diplôme au regard des missions qui leur sont dévolues. Le décret n° 92-850 du 28 août 1992 portant statut particulier du cadre d'emplois des agents territoriaux spécialisés des écoles maternelles prévoit que les intéressés sont chargés de l'assistance au personnel enseignant pour la réception, l'animation et l'hygiène des très jeunes enfants ainsi que de la préparation et la mise en état de propreté des locaux et du matériel servant directement à ces enfants. Ils participent à la communauté éducative. Le recrutement de ces fonctionnaires s'effectue par la voie d'un concours sur titres avec épreuves ouvert aux candidats titulaires du certificat d'aptitude professionnelle (CAP) « Petite enfance ». Il s'agit d'un diplôme à caractère professionnel dont la formation est réellement en adéquation avec les missions confiées aux agents de ce cadre d'emplois. Le brevet d'études professionnelles (BEP) « Carrières sanitaires et sociales » présente quant à lui un caractère trop généraliste pour ce domaine très précis d'activité. La compétence des lauréats du concours d'ATSEM dépend en effet étroitement de la pertinence du choix des titres ou diplômes requis des candidats. L'exigence du CAP Petite enfance tend ainsi à faciliter le recrutement dans ce cadre d'emplois de fonctionnaires au profil adapté aux besoins des employeurs locaux susceptibles d'assurer sans délai un service de qualité auprès des très jeunes enfants.
