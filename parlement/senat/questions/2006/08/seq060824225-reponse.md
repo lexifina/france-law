@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060824225
+
+- Question : [SEQ060824225](seq060824225.md) — Sites internet personnels et comptes de campagne
+
+## Réponse
+
+*Intérieur, JO du 2006-10-05, page 2548*
+
+L'article L. 52-12 du code électoral prévoit que tout candidat aux élections législatives est tenu d'établir un compte de campagne retraçant, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses engagées ou effectuées en vue de l'élection, hors celles de la campagne officielle, par lui-même ou pour son compte, au cours de la période mentionnée à l'article L. 52-4. Sont réputées faites pour son compte les dépenses exposées directement au profit du candidat et avec l'accord de celui-ci, par les personnes physiques qui lui apportent leur soutien, ainsi que par les partis et groupements politiques qui ont été créés en vue de lui apporter leur soutien ou qui lui apportent leur soutien. Le candidat estime et inclut, en recettes et en dépenses, les avantages directs ou indirects, les prestations de services et dons en nature dont il a bénéficié. Dans la mesure où un candidat dispose d'un site Internet personnel et que ce site n'est pas utilisé en vue de l'élection, les frais afférents à la mise en ligne et à la maintenance de ce site n'ont pas à être intégrés dans le compte de campagne. Toutefois, la commission nationale des comptes de campagne et des financements politiques est seule compétente pour apprécier si une dépense a été engagée en vue de l'élection. Durant l'année qui précède l'élection, il est donc recommandé aux candidats disposant d'un site Internet personnel de veiller à ce qu'aucune des informations y figurant ne soit assimilable à de la propagande électorale. En cas d'incertitude, il est préférable que le candidat intègre l'ensemble des dépenses liées à cet outil dans son compte de campagne.
