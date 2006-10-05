@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221788
+
+- Question : [SEQ060221788](seq060221788.md) — Renforcement de l'attractivité des métiers liés au service domestique
+
+## Réponse
+
+*Cohésion sociale, JO du 2006-10-05, page 2540*
+
+Le plan de développement des services à la personne, qui a donné lieu à la loi n° 2005-841 du 26 juillet 2005, prévoit certaines mesures permettant de renforcer la formation et la qualification des professionnels des services à la personne. En effet, les mesures proposées visent à définir et construire des parcours de professionnalisation spécifiques aux métiers des services à la personne, et à augmenter les procédures de validation des acquis de l'expérience. Ainsi, l'ensemble des acteurs de la formation s'est mobilisé récemment pour permettre une montée en charge de la professionnalisation des salariés du secteur des services à la personne. A cette fin, se sont tenues le 7 mars 2006 les assises de la professionnalisation rassemblant l'ensemble des acteurs de la formation, les organismes collecteurs paritaires agréés, les régions, mais également l'ensemble des opérateurs des services à la personne. S'agissant des acteurs associatifs, au-delà de leur participation aux assises de la professionnalisation, plusieurs fédérations du secteur social et médico-social telles que l'UNASSAD, l'ADMR, la FNAID, l'ADESSA ont signé des accords-cadres avec le ministère de l'emploi concernant le recrutement de jeunes en contrat d'avenir dans le secteur des services à la personne. Enfin, s'agissant des gestionnaires du chèque emploi service universel (CESU) leur action relative à une meilleure adéquation entre l'offre et la demande dans le secteur des services à la personne se traduira aussi par une large information sur le fonctionnement du CESU auprès de ses utilisateurs, qu'ils soient salariés ou employeurs.
