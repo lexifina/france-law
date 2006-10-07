@@ -1,7 +1,5 @@
 # Article Annexe
 
-<
-
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -2226,11 +2224,19 @@ Décret n° 71-753 du 10 septembre 1971 modifié pris pour l'application de l'ar
 
 |
 
-Autorisations de transfert, d'importation et d'exportation de poudres et substances explosives.
+Autorisations d’importation, d’exportation, de transfert simple, de
+
+transferts multiples et de transit de produits explosifs.
 
 |
 
-Articles 4, 5, 7, 8-1 à 8-9.
+Articles 6-1 (premier et deuxième alinéas), 8-1 (premier alinéa),
+
+8-2 (I, premier et troisième alinéas, II et III), 8-4 (I, premier
+
+alinéa, II et III, premier alinéa), 8-5 (premier et troisième
+
+alinéas), 8-7 et 8-8.
 
 |
 
