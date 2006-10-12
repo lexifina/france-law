@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051220817
+
+- Question : [SEQ051220817](seq051220817.md) — Refus de photocopies lors d'un pourvoi en cassation
+
+## Réponse
+
+*Justice, JO du 2006-10-12, page 2611*
+
+Le garde des sceaux, ministre de la justice, fait savoir à l'honorable parlementaire que l'article 602 du code de procédure pénale prévoit que le rapport du conseiller rapporteur est fait à l'audience et est essentiellement oral, tout comme les réquisitions de l'avocat général. Si le rapport prend la forme d'un écrit, et même s'il figure au dossier, il appartient à son auteur et ne constitue pas une pièce de la procédure. Il en résulte que, dans le cadre d'un pourvoi en cassation contre une décision pénale, aucune disposition légale n'impose au conseiller rapporteur de communiquer à quiconque son projet de rapport. Cette règle a d'ailleurs été rappelée par la Cour de cassation (crim., 6 mars 2001, bull. crim. n° 58). Certes, l'arrêt Reinhardt et Slimane-Kaïd c/ France rendu par la Cour européenne des droits de l'homme le 31 mars 1998 pose le principe que, dès lors que l'avocat général se voit communiquer le rapport, les parties doivent également bénéficier de cette communication, et ce afin de respecter les exigences du procès équitable (CEDH 31 mars 1998, Reinhardt et Slimane-Kaïd c/ France : D. 1998. Somm. 366, obs Baudoux ; procédures 1998, n° 177, obs. Buisson ; JCP 1999. I. 105, obs. Sudre ; RS crim. 1999. 401, obs. Koering-Joulin ; JCP 1999. II. 10074 note Soler ; RTD civ. 1998. 511, obs Marguénaud). Toutefois, la Cour européenne des droits de l'homme n'ayant pas prescrit de modalités particulières pour cette communication, elle peut revêtir la forme d'une mise à disposition du rapport le temps nécessaire à son recopiage. En l'état, il n'est pas envisagé de modifier une pratique qui satisfait aux exigences de la Convention européenne des droits de l'homme.
