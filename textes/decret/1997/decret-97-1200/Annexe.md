@@ -673,3 +673,17 @@ Délivrance des diplômes nationaux d’orientation professionnelle de musique, 
 Premier alinéa de l’article 4.
 
 |
+
+Décret n° 2006-1248 du 12 octobre 2006 relatif au classement des établissements d’enseignement public de la musique, de la danse et de l’art dramatique
+
+1
+
+|
+
+Décisions de classement, de renouvellement, de changement de catégorie, de mise en demeure, de radiation ou de refus de classement des établissements d’enseignement public de la musique, de la danse et de l’art dramatique et de poursuite de l’instruction de la demande.
+
+|
+
+Les décisions du ministre chargé de la culture prévues aux articles 1er, 4, 5, 6 et 7.
+
+|
