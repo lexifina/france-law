@@ -10,7 +10,7 @@ Détournement de moyen de transport de passagers (avion - train - bateau - autob
 
 Empoisonnement.
 
-Enlèvement, séquestration, rapt (d'enfant), prise d'otage.
+Enlèvement, séquestration, prise d'otage.
 
 Génocide et autres crimes contre l'humanité.
 
@@ -24,25 +24,19 @@ Vol avec violences sur personne vulnérable.
 
 Agressions sexuelles.
 
-Exhibition sexuelle.
-
 Proxénétisme.
 
 Viol.
 
 Trafic international de stupéfiants.
 
+Traite des êtres humains en bande organisée ou avec tortures et actes de barbarie.
+
 Infractions contre les biens
 
-Vol en bande organisée (véhicules, or et métaux précieux, bijoux, armes).
+Vol en bande organisée.
 
 Vol à main armée.
-
-Vol de fret.
-
-Blanchiment des produits des crimes et des délits.
-
-Contrefaçon/falsification de monnaies et moyens de paiement.
 
 Atteintes à la paix publique
 
@@ -51,3 +45,7 @@ Actes de terrorisme.
 Association de malfaiteurs.
 
 Atteintes aux intérêts fondamentaux de la nation.
+
+NOTA :
+
+Conformément à l'article 1 du décret n° 2013-1268 du 27 décembre 2013, le décret n° 2001-583 du 5 juillet 2001 est abrogé au 31 décembre 2015.

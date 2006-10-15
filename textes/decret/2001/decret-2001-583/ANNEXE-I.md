@@ -10,7 +10,9 @@ Détournement de moyen de transport de passagers (avion - train - bateau - autob
 
 Empoisonnement.
 
-Enlèvement, séquestration, rapt (d'enfant), prise d'otage.
+Enlèvement, séquestration, prise d'otage.
+
+Exploitation de la mendicité aggravée ou en bande organisée.
 
 Génocide et autres crimes contre l'humanité.
 
@@ -26,23 +28,19 @@ Violences volontaires ayant entraîné une ITT supérieure à 8 jours.
 
 Vol avec violences.
 
-Vol avec violences sur personne vulnérable.
-
 Agressions sexuelles.
 
 Atteintes sexuelles sur mineur.
 
 Corruption de mineur.
 
-Exhibition sexuelle.
-
 Proxénétisme.
 
 Viol.
 
-Trafic de stupéfiants autre que le trafic international.
-
 Trafic international de stupéfiants.
+
+Traite des êtres humains.
 
 Infractions contre les biens
 
@@ -78,7 +76,9 @@ Infractions à la législation sur les sociétés commerciales.
 
 Infractions en matière boursière.
 
-Infractions informatiques.
+Atteintes aux systèmes de traitement automatisés de données.
+
+Violation de secret (professionnel, de fabrique).
 
 Atteintes à la paix publique
 
@@ -94,4 +94,6 @@ Atteintes aux intérêts fondamentaux de la nation.
 
 Recel de malfaiteurs.
 
-Violation de secret (professionnel, de fabrique).
+NOTA :
+
+Conformément à l'article 1 du décret n° 2013-1268 du 27 décembre 2013, le décret n° 2001-583 du 5 juillet 2001 est abrogé au 31 décembre 2015.
