@@ -1,0 +1,160 @@
+# Délibération dispensant de déclaration les traitements mis en oeuvre par les comités d'entreprises ou d'établissements, les comités centraux d'entreprises, les comités de groupe ou les comités interentreprises ou les délégués du personnel pour la gestion de leurs activités sociales et culturelles.(DI-010)
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2006-230
+- Date : 2006-10-17
+- Publication : 2016-03-24
+- NOR : CNIA0600022X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017651773
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la convention n° 108 du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code du travail ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, notamment le premier alinéa du II de l'article 24 ;
+
+Après avoir entendu M. Hubert Bouchet, commissaire, en son rapport et Mme Pascale Compagnie, commissaire du Gouvernement, en ses observations;
+
+Formule les observations suivantes :
+
+Les traitements de gestion des activités sociales et culturelles mis en oeuvre par les comités d'entreprises ou d'établissements, ainsi que par les comités centraux d'entreprises, les comités de groupe, les comités interentreprises ou les délégués du personnel sont des traitements courants qui ne sont pas susceptibles de porter atteinte à la vie privée des salariés et des membres de leurs familles.
+
+La Commission estime, en conséquence, qu'il y a lieu de faire application des dispositions de l'article 24-II de la loi du 6 janvier 1978 modifiée et de dispenser ces traitements de toute formalité déclarative préalable dès lors qu'ils répondent aux conditions prévues aux articles 2 à 8 suivants.
+
+Décide :
+
+Article 1er
+
+Sont dispensés de déclaration les traitements de données à caractère personnel qui répondent aux conditions suivantes.
+
+Article 2 : finalités du traitement
+
+Le traitement peut avoir tout ou partie des finalités suivantes :
+
+- Gestion administrative : création et gestion de la base de données, réalisation d'états statistiques ou de listes d'ouvrants droit ou d'ayants droit, envoi du courrier ;
+
+- Historique de l'utilisation des subventions ;
+
+- Historique de suivi de commandes ;
+
+- Gestion de l'activité chèque emploi ;
+
+- Gestion des activités chèques cadeaux ;
+
+- Gestion des activités de distribution de cadeaux ;
+
+- Gestion des activités de billetterie, spectacles et loisirs ;
+
+- Gestion des activités voyage et séjours ;
+
+- Gestion des activités sportives ;
+
+- Gestion des prêts d'ouvrages ;
+
+- Attribution de primes de crèche, garderie, nourrice ;
+
+- Attribution de bourses ;
+
+- Offres promotionnelles, adhésions à des clubs de consommateurs adressées directement par le responsable du traitement.
+
+Article 3 : données traitées
+
+Les données relatives à l'identification de l'employé peuvent être communiquées aux comités d'entreprise par le service de gestion des ressources humaines de l'organisme employeur. Les données qui peuvent être transmises par le service de gestion des ressources humaines sont les suivantes : nom, prénom, coordonnées professionnelles.
+
+L'employé doit être dûment informé de la finalité de cette communication ainsi que de la nature des informations le concernant et des modalités prévues pour s'opposer le cas échéant à cette transmission.
+
+L'employé s'opposant à cette transmission doit néanmoins pouvoir bénéficier des activités sociales et culturelles du comité d'entreprise dès lors qu'il fournit directement à celui-ci les données nécessaires à son inscription.
+
+Les données traitées par les comités d'entreprises pour la réalisation des finalités décrites à l'article 2 sont :
+
+a) pour l'identification de l'employé /
+
+- nom, prénom, photographie (facultatif), sexe, date et lieu de naissance, coordonnées professionnelles, coordonnées personnelles (facultatif) ;
+
+- le cas échéant, coordonnées des personnes à prévenir en cas d'urgence ;
+
+b) pour la situation familiale :
+
+- situation matrimoniale ;
+
+- personnes à charge / ayants droit: nom, prénom, sexe, date de naissance, lien avec l'ouvrant droit, nombre d'enfants ;
+
+c) pour les éléments professionnels :
+
+- matricule interne, date d'embauche, service, statut ;
+
+d) pour la situation financière :
+
+- montants de revenus d'activité (avis d'imposition), mutuelle, prime, part fiscale ;
+
+- références du compte bancaire.
+
+Le recueil des informations relatives à la situation financière des personnes concernées visées par l'article 4 est facultatif et doit être présenté en tant que tel lors de la collecte des informations.
+
+En cas de mise en place d'un système de quotient familial permettant l'évaluation et la modulation des droits de l'employé aux différentes prestations proposées par le comité d'entreprise, l'absence de communication des éléments financiers nécessaires pour établir le quotient familial ou du quotient lui-même par le salarié ne peut pas aboutir à exclure celui-ci de l'octroi d'une activité sociale et/ou culturelle. Par conséquent, le salarié doit être informé qu'en cas de refus de sa part de produire les éléments financiers, sa contribution pourra s'élever au montant le plus élevé.
+
+e) pour les prestations offertes
+
+- nature de la prestation : pour les séjours (dates de début et de fin ; lieu du séjour, none de l'organisme, coût du séjour, coût supporté par la famille ;
+
+- montant de la prestation, type de paiement (espèces, chèques, bons d'achat), numéros des bons d'achat, références du moyen de paiement.
+
+Article 4 : personnes concernées
+
+Sont concernées par le traitement les salariés employés ou ayant été employés par des organismes visés à l'article L. 431-1 du code du travail ainsi que les membres de leurs familles.
+
+Article 5 : destinataires des données
+
+Seules les données visées à l'article 3 strictement nécessaires à l'accomplissement de leurs missions sont communiquées en tant que de besoin aux destinataires suivants en fonction de leurs attributions :
+
+- pour le comité d'entreprise ou d'établissement : secrétariat, trésorier, élus ;
+
+- l'expert comptable (interne ou externe) du comité d'entreprise ou d'établissement le commissaire aux comptes ;
+
+- les prestataires et fournisseurs de services et de chèques cadeaux , les organismes de voyage ;
+
+- les résidences de vacances.
+
+Dans le cas de gestion d'activités sociales et culturelles par d'autres institutions sociales telles que le comité central d'entreprise ou le comité interentreprises, les destinataires des données visées à l'article 3 sont strictement identifiés en fonction de leur rôle dans la programmation, la mise en place et le suivi des activités sociales et culturelles confiées à ces institutions sociales.
+
+Article 6 : durée de conservation
+
+Les données visées à l'article 3 ne sont pas conservées par le service gestionnaire au-delà de la période d'admission du salarié au bénéfice des prestations sociales et culturelles sauf en ce qui concerne l'historique de l'utilisation de ces prestations et le suivi des commandes par les salariés qui sont conservés pendant une période glissante de 2 ans maximum à compter de l'exécution de la prestation.
+
+Article 7 : information des personnes concernées
+
+Les personnes concernées sont informées de l'identité du responsable du traitement, des finalités poursuivies, du caractère obligatoire ou facultatif des réponses à apporter, des conséquences éventuelles, à leur égard, d'un défaut de réponse, des destinataires des données, et de leur droit d'opposition au traitement de leurs données ainsi que de leur droit d'accès aux données les concernant et de rectification de ces données.
+
+Cette information est délivrée à tout employé sur les formulaires de collecte, par la remise d'un document écrit ou par voie électronique. Les personnes doivent, sur les formulaires de collecte, être mises en mesure de s'opposer, de manière simple et explicite, au traitement de leurs données.
+
+Lorsque les données sont utilisées à des fins d'offres promotionnelles à l'exception d'opérations de prospection politique ou syndicale, les personnes concernées sont informées qu'elles peuvent s'y opposer sans frais et sans justification.
+
+L'envoi d'offres promotionnelles par voie électronique est subordonné au recueil du consentement préalable des personnes concernées.
+
+Dans ces deux hypothèses, les personnes doivent avoir été mises en mesure, au moment de la collecte de leurs données, de consentir, dans le cas d'une sollicitation électronique, ou de s'opposer, dans tout autre cas de sollicitation, de manière simple et explicite à une utilisation de leurs données à des fins d'offres promotionnelles.
+
+Dans le cas d'une collecte via un formulaire, le droit d'opposition ou le recueil du consentement préalable doit s'exprimer par un moyen simple tel que l'apposition d'une case à cocher.
+
+Article 8 : sécurité
+
+Le responsable du traitement prend toutes précautions utiles pour préserver la sécurité des données visées à l'article 3 et, notamment, empêcher qu'elles soient déformées, endommagées ou que des tiers non autorisés y aient accès.
+
+En particulier, des mesures permettant de contrôler les accès au traitement et de sécuriser les communications des données sont mises en oeuvre, telles que le recours à des procédures de mots de passe individuels.
+
+Article 9 : exclusion du bénéfice de la dispense de déclaration
+
+Tout traitement non conforme aux dispositions des articles 2 à 8 de la présente décision doit faire l'objet d'une déclaration auprès de la CNIL.
+
+Ne peut prétendre au bénéfice de la dispense de déclaration en référence à la présente décision le traitement comportant la transmission de données visées à l'article 3 vers des pays tiers à l'Union européenne, y compris lorsque cette transmission est réalisée dans le cadre d'opérations de sous-traitance.
+
+Article 10
+
+La présente délibération est publiée au Journal officiel de la République française.
+
+Le président Alex TURK.
