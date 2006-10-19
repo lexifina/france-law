@@ -1,0 +1,19 @@
+# Article 43 bis
+
+Le père salarié bénéficie, à sa demande, d'un congé de paternité conformément à la loi, sous réserve d'informer son employeur, par lettre remise en mains propres contre décharge ou par envoi en recommandé avec accusé de réception, au moins 1 mois à l'avance, des dates auxquelles il entend prendre son congé. (1)
+
+Le congé doit être pris dans les 4 mois suivant la naissance.
+
+Ce congé peut être reporté au-delà de 4 mois dans l'un des cas suivants :
+
+-L'hospitalisation de l'enfant : en ce cas, le congé de paternité doit être pris dans les 4 mois qui suivent la fin de l'hospitalisation ;
+
+-Le décès de la mère : en ce cas, le congé de paternité doit être pris dans les 4 mois qui suivent la fin du congé dont bénéficie le père en vertu des dispositions de l'article L. 122-26-10 du code du travail.
+
+Le congé de paternité est considéré comme une période de travail effectif pour la détermination des droits que le salarié tient de son ancienneté, pour le calcul de ses droits à congés payés, ou encore pour le calcul de l'intéressement ou de la participation.
+
+Les entreprises et établissements ne peuvent déroger au présent article que de manière plus favorable.
+
+(1) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 122-25-4 du code du travail (arrêté du 12 juillet 2007, art. 1er).
+
+(Arrêté du 12 juillet 2007, art. 1er)
