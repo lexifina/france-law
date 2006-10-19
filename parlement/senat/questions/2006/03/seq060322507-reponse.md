@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322507
+
+- Question : [SEQ060322507](seq060322507.md) — Retraite pour les longues carrières
+
+## Réponse
+
+*Sécurité sociale, JO du 2006-10-19, page 2667*
+
+La loi portant réforme des retraites d'août 2003 a introduit plusieurs dispositions nouvelles comme le droit à une retraite anticipée pour les assurés ayant commencé jeune et ayant effectué une longue carrière dans le secteur privé. Elle a également posé le principe d'une harmonisation des conditions d'ouverture du droit à pension au taux plein pour les fonctionnaires et les salariés du secteur privé (durée portée de 150 à 160 trimestres). La loi a prévu que ces dispositions nouvelles s'appliqueraient aux pensions liquidées postérieurement à son entrée en vigueur et, s'agissant des anciens fonctionnaires radiés, aux radiations prenant effet postérieurement à cette date. Elle n'est donc pas applicable, dans un souci de sécurité juridique, aux agents dont la pension a déjà été liquidée. Cette règle est cohérente avec le caractère définitif de la liquidation des pensions dans les régimes de retraite. Tel est le cas des anciens fonctionnaires qui ont été radiés des cadres avant 2004, y compris ceux qui n'avaient pas encore atteint lors de leur radiation l'âge minimal requis pour percevoir immédiatement leur pension. Leur pension a été liquidée à la date de radiation alors même qu'elle ne pouvait être mise en paiement immédiatement, les intéressés recevant alors un « certificat de pension à jouissance différée ». Il est à noter que cette situation n'est pas forcément sans avantage pour les intéressés. Si elle ne permet pas aux intéressés de bénéficier de certaines mesures considérées comme plus avantageuses, elle permet cependant d'éviter l'application des nouvelles dispositions de calcul plus rigoureuses, comme la décote. Il n'est donc pas envisagé de modifier ces règles de cohérence en matière d'entrée en vigueur de mesures nouvelles.
