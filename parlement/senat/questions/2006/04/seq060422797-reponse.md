@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422797
+
+- Question : [SEQ060422797](seq060422797.md) — Chèque emploi très petites entreprises (CETPE)
+
+## Réponse
+
+*Emploi et travail, JO du 2006-10-19, page 2661*
+
+L'attention du ministre délégué à l'emploi, au travail et à l'insertion professionnelle des jeunes a été appelée sur le fonctionnement du chèque emploi au bénéfice des très petites entreprises (chèque emploi TPE), qui, tout en constituant une simplification des formalités administratives, demeure complexe, générant ainsi un frein à son développement. Le dispositif destiné aux très petites entreprises permet, de la même façon que le dispositif destiné aux particuliers employeurs, de nombreuses simplifications administratives quant aux formalités d'embauche et de gestion du personnel. Pour autant, le chèque emploi TPE n'en respecte pas moins d'autres réglementations liées au code du travail et au code de la sécurité sociale. En effet, l'employeur doit s'acquitter directement auprès de chaque organisme concerné des contributions destinées au financement de la formation professionnelle, au service de la santé au travail ainsi qu'aux régimes facultatifs ou individuels de protection sociale, la taxe d'apprentissage et le cas échéant, la participation au fonds de développement pour l'insertion professionnelle des personnes handicapées. L'adhésion au dispositif du chèque emploi TPE est largement facilitée par la clarté du site de l'URSSAF, www.emploitpe.fr. L'employeur est accompagné tout au long de ses démarches d'adhésion par l'ensemble des informations et des explications accessibles par ce biais. Bien entendu, la démarche des formalités administratives simplifiées souhaitée par l'Etat est évolutive. L'URSSAF, quel que soit le dispositif de simplification qu'elle gère, vise son amélioration afin de mieux prendre en compte les besoins des usagers.
