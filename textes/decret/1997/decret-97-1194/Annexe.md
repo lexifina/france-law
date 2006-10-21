@@ -622,6 +622,30 @@ Article 1er-III.
 
 |
 
+Décret n
+
+°
+
+2006-1279 du 19 octobre 2006 relatif à la sécurité du transport ferroviaire et à l’interopérabilité
+
+des systèmes ferroviaires
+
+1
+
+|
+
+Habilitation des organismes mettant en oeuvre la procédure d’évaluation de la conformité ou
+
+de l’aptitude à l’emploi des constituants d’interopérabilité et la procédure de vérification
+
+“CE” des sous-systèmes. Décision conjointe avec le ministre chargé des transports.
+
+|
+
+Article 41.
+
+|
+
 Code de la santé publique
 
 1
