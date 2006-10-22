@@ -2,19 +2,17 @@
 
 TABLEAU I.A
 
-Date d'effet : 1er janvier 2000
-
 Fonctions exercées dans les services déconcentrées du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
 1. Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
 
-2. Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la diretion du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
+2. Chef du service d'administration générale commun aux directions départementales de l'agriculture et de la forêt et aux directions départementales des services vétérinaires ou commun aux directions de l'agriculture et de la forêt et aux directions des services vétérinaires dans les départements d'outre-mer ou du service d'administration générale de la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
-3. Responsable de la gestion comptable au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
+3. Responsable de la gestion comptable au sein des directions régionales ou du service d'administration générale commun aux directions départementales de l'agriculture et de la forêt et aux directions départementales des services vétérinaires ;
 
-4. Responsable de la gestion comptable ou de la paye dans les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou à la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
+4. Responsable de la gestion comptable ou de la paye dans le service d'administration générale commun aux directions de l'agriculture et de la forêt et aux directions des services vétérinaires dans les départements d'outre-mer ou à la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
-5. Responsable de la gestion des personnels au sein des directions régionales ou départementales de l'agriculture et de la forêt ;
+5. Responsable de la gestion des personnels au sein des directions régionales ou du service d'administration générale commun aux directions départementales de l'agriculture et de la forêt et aux directions départementales des services vétérinaires ;
 
 6. Responsable des procédures administratives liées à la gestion des aides à l'agriculture au sein des directions départementales de l'agriculture et de la forêt traitant les volumes de dossiers les plus importants ;
 
@@ -34,11 +32,11 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 14. Contrôleur de pépinière ;
 
-15. Responsable d'un centre de congélation ou d'un centre de transfert d'embryons aux Haras nationaux ;
+15.(Supprimé) ;
 
 16. Chef de dépôt d'étalons aux Haras nationaux ;
 
-17. Manipulateur d'échographe aux Haras nationaux ;
+17. (Supprimé) ;
 
 18. Contrôleur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
 
@@ -58,15 +56,11 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 TABLEAU I.B
 
-Date d'effet : 1er janvier 2001
-
 Fonctions exercées dans les services déconcentrés du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
 23. Assistant de service social chargé de responsabilités importantes.
 
 TABLEAU II
-
-Date d'effet : 1er janvier 2000
 
 Fonctions exercées dans les établissements d'enseignement technique agricole ou d'enseignement supérieur agricole et vétérinaire pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
@@ -94,8 +88,6 @@ II. - Etablissements d'enseignement technique agricole :
 
 TABLEAU III
 
-Date d'effet : 1er janvier 2001
-
 Fonctions exercées à l'administration centrale du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
 1. Chargé de mission ou chef de bureau :
@@ -115,8 +107,6 @@ Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonction
 Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes, ou agent exerçant des fonctions autonomes en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier, informatique ou technique.
 
 TABLEAU IV
-
-Date d'effet : 1er janvier 2002.
 
 A. - Fonctions exercées à l'administration centrale du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
 
