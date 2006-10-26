@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724076
+
+- Question : [SEQ060724076](seq060724076.md) — Mise en place du "diagnostic de performance énergétique"
+
+## Réponse
+
+*Emploi, JO du 2006-10-26, page 2706*
+
+Le décret d'application de l'ordonnance du 8 juin 2005 sur le logement et la construction, qui prévoit le contenu, la forme et les modalités d'établissement du diagnostic de performance énergétique, au moment des ventes des biens immobiliers, a été publié au Journal officiel du 15 septembre 2006. Les arrêtés d'application sont également publiés. La réalisation de ces diagnostics sera obligatoire à l'occasion de la vente de chaque logement ou bâtiment à compter du 1er novembre 2006. Ces diagnostics réalisés par des professionnels permettront d'identifier les consommations prévisionnelles d'énergie des logements et des bâtiments mis en vente. La lecture du diagnostic de performance sera facilitée par une estimation chiffrée en euros et par l'utilisation de la double étiquette : celle permettant de connaître la consommation d'énergie (comme pour l'électroménager et désormais les voitures) et celle permettant de connaître l'impact de ces consommations sur l'effet de serre. Plus de 3 000 professionnels se sont déjà formés à la réalisation de ces diagnostics. Un dossier complet d'explication de ce nouveau dispositif est disponible sur le site www.logement.gouv.fr. La fourniture de cette étiquette énergie sera étendue aux livraisons de bâtiments neufs dont la demande de permis de construire sera déposée à compter du 1er juillet 2007 et aux bâtiments et logements loués à compter du 1er juillet 2007. Cette étiquette énergie est un grand progrès dans l'information des usagers : elle permettra notamment à chaque ménage français qui achète un bien immobilier de mieux mesurer l'impact sur l'effet de serre de ses choix d'énergie et mieux évaluer la facture d'énergie qu'il devra payer.
