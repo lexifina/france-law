@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623387
+
+- Question : [SEQ060623387](seq060623387.md) — Élection du président d'un SIVOM
+
+## Réponse
+
+*Intérieur, JO du 2006-10-26, page 2716*
+
+Lorsque, en application de l'article L. 5214-21 du code général des collectivités territoriales, une communauté de communes se substitue à ses communes membres au sein d'un syndicat de communes pour certaines compétences, ce syndicat devient un syndicat mixte relevant des dispositions de l'article L. 5711-1. Ainsi, le syndicat mixte est soumis aux règles communes applicables aux établissements publics de coopération intercommunale et aux règles spécifiques aux syndicats de communes. Sont donc transposables les dispositions de l'article L. 5212-16 qui régissent le fonctionnement des syndicats « à la carte ». Dans ce cas, les communes au titre des compétences qu'elles ont transférées au syndicat, d'une part, la communauté de communes, qui adhère au syndicat par substitution au titre de ses compétences, d'autre part, sont représentées par des délégués qui sont appelés à participer aux délibérations du comité syndical en fonction de leur objet. Tous les délégués prennent part au vote pour les affaires présentant un intérêt commun à tous les membres du syndicat mixte et notamment pour l'élection du président et des membres du bureau, le vote du budget, l'approbation du compte administratif et les décisions relatives aux modifications des conditions initiales de composition, de fonctionnement et de durée du syndicat. Dans les autres cas, ne prennent part au vote que les délégués représentant soit les communes concernées soit la communauté de communes par l'affaire mise en délibération. Le président prend part à tous les votes sauf pour l'adoption du compte administratif ou pour les affaires où il aurait un intérêt personnel.
