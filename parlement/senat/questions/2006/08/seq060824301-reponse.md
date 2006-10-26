@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060824301
+
+- Question : [SEQ060824301](seq060824301.md) — Situation des artisans bouchers-charcutiers au regard de la nouvelle politique européenne de développement rural
+
+## Réponse
+
+*Agriculture, JO du 2006-10-26, page 2701*
+
+La mise en oeuvre du règlement de développement rural est l'occasion de rechercher un développement cohérent et équilibré du monde rural. De nombreux acteurs souhaitent en particulier participer activement à l'élaboration de la programmation. Cette démarche s'inscrit pleinement dans la territorialisation de la mise en oeuvre de la programmation de développement rural, traduite par un important volet déconcentré qui comporte notamment l'ensemble de l'axe 3 relatif à la qualité de la vie en milieu rural et à la diversification de l'économie rurale. Le plan stratégique national, en conformité avec les priorités de l'Union européenne, a par ailleurs arrêté comme priorité au titre de l'axe 3 la création d'emplois en lien avec le maintien et le développement de l'attractivité des territoires ruraux pour les positionner comme des pôles de développement, en s'appuyant sur la diversité des ressources, des activités et des acteurs. Ainsi, au-delà de la diversification des activités des exploitations agricoles, c'est aussi le maintien et le développement des micro-entreprises dans tous les domaines de l'économie rurale qui est recherché. Ce travail d'élaboration du volet régional est réalisé en concertation avec les collectivités territoriales mais aussi avec les partenaires locaux du développement rural (professionnels agricoles mais aussi représentants des autres secteurs d'activité au travers notamment des différentes chambres consulaires) et c'est dans ce cadre que l'amélioration de la qualité de la vie en milieu rural et la diversification de l'économie rurale seront recherchées.
