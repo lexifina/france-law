@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014152
+
+- Question : [SEQ041014152](seq041014152.md) — Marge de solvabilité des mutuelles
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-10-26, page 2722*
+
+Le décret n° 2002-720 du 2 mai 2002 relatif aux règles prudentielles applicables aux mutuelles a prévu, conformément aux directives européennes n° 73/239/CEE du 24 juillet 1973 et n° 79/267/CEE du 5 mars 1979, modifiées par les directives n° 92/49 CEE et 92/96 CEE des 18 juin et 10 novembre 1992, la constitution d'un certain niveau de fonds propres et d'une marge de solvabilité suffisante pour faire face aux engagements pris envers les assurés et faire face aux aléas d'exploitation. Toutefois, afin de ne pas imposer aux petites mutuelles des contraintes de fonds propres disproportionnées au regard de la nature des opérations pratiquées, ce décret comprenait des dispositions spécifiques permettant de déroger au minimum de fonds de garantie sous certaines conditions, et notamment que le montant annuel des cotisations émises, accessoires compris et annulations déduites, ne dépasse pas 500 000 euros pour l'assurance vie et 1 000 000 d'euros pour les branches non vie. Ces seuils n'ayant pas été actualisés depuis vingt ans, les directives n° 2002/12/CE et 2002/13/CE du 5 mars 2002 ont procédé à leur relèvement en les portant à cinq millions d'euros. Mais ces directives prévoyaient également une actualisation en cohérence des éléments servant à déterminer la solvabilité des organismes assureurs (calcul de la marge de solvabilité, montant minimal du fonds de garantie). Il n'était donc pas juridiquement possible d'adapter les seuils précités sans adapter parallèlement l'ensemble des règles prudentielles. Aussi, le décret n° 2004-486 du 28 mai 2004 a relevé les seuils relatifs au montant annuel des cotisations émises, accessoires compris et annulations déduites, à cinq millions d'euros.
