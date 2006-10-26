@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060824247
+
+- Question : [SEQ060824247](seq060824247.md) — Échec des négociations de l'OMC
+
+## Réponse
+
+*Agriculture, JO du 2006-10-26, page 2700*
+
+A la fin du mois de juillet, le directeur général de l'Organisation mondiale du commerce (OMC), M. Pascal Lamy, a suspendu sine die les négociations du cycle de Doha, après avoir constaté leur blocage. Aussi, tant que le cycle de négociation n'est pas conclu, le commerce international des produits agricoles reste régi par les règles négociées lors du cycle d'Uruguay. A ce stade, les principes figurant dans l'accord-cadre de juillet 2004 et dans l'accord de Hong-Kong ne sont pas juridiquement contraignants pour l'Union européenne. En particulier, le principe d'élimination des restitutions communautaires en 2013 ne s'appliquera pas de manière autonome si le cycle n'est pas conclu. En effet, son application est conditionnée, d'une part, à un effort équivalent d'élimination par nos partenaires, de leurs propres subventions à l'exportation et, d'autre part, à la conclusion d'un accord global couvrant tous les sujets du cycle. La négociation du cycle de Doha s'opère selon le régime de « l'engagement unique », ce qui signifie que rien n'est définitivement conclu tant que l'ensemble des sujets du cycle ne fait pas l'objet d'un accord (« il n'y a d'accord sur rien tant qu'il n'y a pas d'accord sur tout »). Le Gouvernement français sera particulièrement vigilant au respect de ce principe. De plus, il continuera à tout faire pour que toute décision prise dans le cadre de l'OMC soit compatible à la fois avec les perspectives financières (prévues jusqu'en 2013) et la réforme de la PAC décidée en 2003, convaincu en effet qu'aucun accord international ne doit mettre en péril le modèle agricole européen auquel la France est attachée.
