@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU REVERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 Fonctions relevant des armées et des services communs
 
@@ -16,15 +16,11 @@ exercées
 
 |
 
-Adjoint au chef de bureau, de section, de service ou de centre
-
-en organisme ministériel ou interarmées
+Adjoint à un chef de bureau, de service ou de centre en organisme ministériel ou interarmées
 
 |
 
-Officier
-
-|
+Officier |
 
 Fonctions relevant de l'armée de terre
 
@@ -40,9 +36,7 @@ exercées
 
 |
 
-Adjoint au chef de bureau, de section, de service ou de centre
-
-en organisme ministériel ou interarmées
+Chef de corps de 1er ou 2e niveau et assimilé
 
 |
 
@@ -50,7 +44,7 @@ Officier
 
 |
 
-Chef de corps de premier niveau et assimilé
+Chef de bureau en administration centrale ou en organisme ministériel
 
 |
 
@@ -58,77 +52,19 @@ Officier
 
 |
 
-Chef de corps de deuxième niveau et assimilé
-
-|
-
-Officier
-
-|
-
-Commandant d'unité élémentaire d'intervention
+Commandant en second dans une formation
 
 |
 
 Officier |
 
-Chef de section en unité élémentaire d'intervention
+Chef de service et chef du bureau " opérations " dans une formation
 
 |
 
-Officier ou sous-officier
+Officier |
 
-|
-
-Commandant d'unité élémentaire d'instruction ou de commandement et de soutien
-
-|
-
-Officier
-
-|
-
-Chef de section en unité élémentaire d'instruction
-
-|
-
-Officier ou sous-officier
-
-|
-
-Chef de section en unité élémentaire de commandement et de soutien ou équivalent
-
-|
-
-Officier ou sous-officier
-
-|
-
-Officier d'ordinaire
-
-|
-
-Officier ou sous-officier
-
-|
-
-Fonctions relevant de la marine
-
-DÉSIGNATION DE LA FONCTION
-
-|
-
-NIVEAU
-
-des responsabilités
-
-exercées
-
-|
-
-Adjoint à un chef de bureau à l'administration centrale, chef de bureau dans
-
-un organisme de région dans un grand état-major
+Commandant d'unité élémentaire
 
 |
 
@@ -136,10 +72,36 @@ Officier
 
 |
 
-Conseiller technique ou spécialiste marine dans un organisme Partin ou Partex
+Chef de section en unité élémentaire
 
 |
 
-Officier ou officier marinier
+Officier ou sous-officier
+
+|
+
+Chef de détachement, chef de centre spécialisé, chef de district
+
+|
+
+Officier ou sous-officier |
+
+Chef de section en administration centrale ou en organisme ministériel
+
+|
+
+Officier ou sous-officier |
+
+Directeur de service restauration-loisirs
+
+|
+
+Officier ou sous-officier |
+
+Responsable de restauration
+
+|
+
+Officier ou sous-officier
 
 |
