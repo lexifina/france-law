@@ -8,7 +8,75 @@ A. - Exigences essentielles de sécurité en matière de conception et de constr
 
 1. Catégorie de conception :
 
-(Tableau non reproduit).
+CATEGORIE DE CONCEPTION
+
+|
+
+FORCE DU VENT
+
+(échelle de Beaufort)
+
+|
+
+HAUTEUR SIGNIFICATIVE DE VAGUE
+
+à considérer (H 1/3, en mètres)
+
+|
+
+Bateaux conçus pour la navigation :
+
+|
+
+|
+
+|
+
+A. "En haute mer".
+
+|
+
+Plus de 8.
+
+|
+
+Plus de 4.
+
+|
+
+B. "Au large".
+
+|
+
+Jusqu'à 8 compris.
+
+|
+
+Jusqu'à 4 compris.
+
+|
+
+C. "A proximité de la côte".
+
+|
+
+Jusqu'à 6 compris.
+
+|
+
+Jusqu'à 2 compris.
+
+|
+
+D. "En eaux protégées".
+
+|
+
+Jusqu'à 4 compris. |
+
+Jusqu'à 0,3 compris.
+
+|
 
 Définitions :
 
@@ -108,7 +176,7 @@ Une attention particulière doit être accordée :
 
 La charge maximale, recommandée par le constructeur et exprimée en kilogrammes, est déterminée selon la catégorie de conception mentionnée au point 1, la stabilité et le francs bord mentionnés au point 3.2 et la flottabilité mentionnée au point 3.3 de la présente annexe.
 
-Cette charge tient compte des personnes, du carburant, de l'eau, des provisions et des équipements divers et est indiquée sur la plaque du constructeur.
+Cette charge tient compte des personnes, du carburant, de l'eau, des provisions et des équipements divers.
 
 3.7. Emplacement du radeau de sauvetage.
 
@@ -260,7 +328,143 @@ Les moteurs de propulsion doivent répondre aux exigences essentielles suivantes
 
 Les moteurs de propulsion doivent être conçus, construits et montés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues à partir du tableau suivant :
 
-Tableau 1 : non reproduit
+Tableau 1 :
+
+|
+
+(g\k Wh)
+
+|
+
+TYPE
+
+|
+
+MONOXYDE DE CARBONE
+
+CO = A + B/Pn
+
+|
+
+HYDROCARBURES
+
+HC= A + B/Pn
+
+|
+
+OXYDES D'AZOTE
+
+NOx
+
+|
+
+PARTICULES
+
+PT
+
+|
+
+A
+
+|
+
+B
+
+|
+
+n
+
+|
+
+A
+
+|
+
+B |
+
+n |
+
+Deux temps à explosion...........
+
+|
+
+150,0 |
+
+600,0
+
+|
+
+1,0
+
+|
+
+30,0 |
+
+100,0 |
+
+0,75
+
+|
+
+10,0
+
+|
+
+Sans objet
+
+|
+
+Quatre temps à explosion.......
+
+|
+
+150,0
+
+|
+
+600,0
+
+|
+
+1,0 |
+
+6,0 |
+
+50,0 |
+
+0,75
+
+|
+
+15,0
+
+|
+
+Sans objet |
+
+Allumage par compression.....
+
+|
+
+5,0 |
+
+0 |
+
+0 |
+
+1,5
+
+|
+
+2,0
+
+|
+
+0,5 |
+
+9,8 |
+
+1,0 |
 
 Où A, B et n sont des constantes conformément au tableau, et Pn la puissance nominale du moteur en kW ; les émissions gazeuses sont mesurées conformément à la norme EN ISO 8178-1 : 1996.
 
