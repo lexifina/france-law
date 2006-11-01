@@ -1,0 +1,5 @@
+# Article 1er
+
+Les dispositions suivantes viennent annuler et remplacer la rédaction de l'article 10 de l'avenant n° 83 à la convention collective nationale du 10 mars 1976.
+
+(Voir cet article).
