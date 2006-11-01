@@ -1,7 +1,5 @@
 # Article ANNEXE
 
-À L'ARRÊTÉ RELATIF À LA COMMISSION DU MINISTÈRE DE LA DÉFENSE ET DU MINISTÈRE CHARGÉ DE L'AVIATION CIVILE CONCERNANT LA SÉCURITÉ DE LA GESTION DU TRAFIC AÉRIEN
-
 1. Attributions de la commission mixte de sécurité
 
 de la gestion du trafic aérien (CMSA)
@@ -86,4 +84,4 @@ Les coprésidents établissent conjointement le règlement intérieur de la CMSA
 
 3.6. Frais
 
-Les fonctions de membre de la CMSA n'appellent pas de rémunérations spécifiques. Toutefois, les membres de la CMSA peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par les décrets n° 89-271 du 12 avril 1989 et n° 90-437 du 28 mai 1990.
+Les fonctions de membre de la CMSA n'appellent pas de rémunérations spécifiques. Toutefois, les membres de la CMSA peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006.
