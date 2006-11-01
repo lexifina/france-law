@@ -1,0 +1,123 @@
+# Article Annexe I
+
+PROGRAMME DE L'ÉPREUVE D'ADMISSIBILITÉ N° 2
+
+Option n° 1 : droit administratif
+
+a) L'organisation administrative :
+
+Notions générales, décentralisation, déconcentration, cadres territoriaux de l'organisation administrative.
+
+L'administration de l'Etat : administration centrale, services à compétence nationale, services déconcentrés, le préfet.
+
+Les autorités administratives indépendantes.
+
+Les collectivités territoriales : la région, le département, la commune, les collectivités à statut spécial, les groupements de collectivités territoriales.
+
+b) La justice administrative :
+
+La séparation des autorités administratives et judiciaires, le tribunal des conflits.
+
+L'organisation de la justice administrative, le Conseil d'Etat, les cours administratives d'appel, les tribunaux administratifs.
+
+c) La réglementation juridique de l'activité administrative :
+
+Les sources du droit administratif.
+
+Le principe de légalité, le contrôle de la légalité, la hiérarchie des normes.
+
+Les actes administratifs unilatéraux, le pouvoir réglementaire.
+
+Les contrats de l'administration.
+
+La responsabilité administrative.
+
+La notion de service public, les différents types de services publics et les différents modes de gestion.
+
+Les relations entre l'administration et les usagers, la procédure administrative non contentieuse.
+
+Option n° 2 : droit pénal et procédure pénale
+
+Droit pénal :
+
+- éléments constitutifs de l'infraction ;
+
+- classification des infractions ;
+
+- classification et échelle des peines ;
+
+- causes d'aggravation et d'atténuation des peines ;
+
+- extinction de la peine ;
+
+Procédure pénale :
+
+- organisation judiciaire pénale, compétence pénale ;
+
+- action publique et action civile ;
+
+- juge d'instruction et chambre d'instruction ;
+
+- juge d'application des peines ;
+
+- voies de recours ;
+
+- procédure d'aménagement des peines.
+
+Option n° 3 : réglementation pénitentiaire
+
+A. - Organisation administrative
+
+L'organisation du ministère de la justice.
+
+L'organisation de l'administration pénitentiaire.
+
+Les relations avec les autorités extérieures, judiciaires et administratives.
+
+Les missions des différentes catégories de personnels.
+
+Les notions générales sur la gestion économique et comptable des établissements pénitentiaires.
+
+Les établissements en gestion mixte.
+
+B. - Les régimes de détention
+
+La classification des établissements pénitentiaires.
+
+Les différentes catégories de détenus.
+
+Les différents régimes de détention.
+
+C. - L'individualisation de l'exécution de la peine
+
+Le greffe judiciaire : titre de détention, l'écrou, les registres, l'exécution des peines.
+
+L'orientation et l'affectation des condamnés.
+
+Le rôle du juge de l'application des peines et de la commission d'application des peines.
+
+D. - La sûreté
+
+La sécurité des établissements pénitentiaires : moyens, situations, rôle du personnel.
+
+L'action disciplinaire.
+
+Les mesures d'isolement.
+
+Le règlement intérieur.
+
+E. - La politique d'insertion
+
+Les actions de préparation à l'insertion et à la sortie.
+
+Le travail pénitentiaire et la formation professionnelle.
+
+Le maintien des relations familiales : visite, correspondance, téléphone...
+
+Les intervenants extérieurs, visiteurs et aumôniers.
+
+La prise en charge médicale et sanitaire.
+
+F. - Les règles pénitentiaires européennes
+
+Notions sur les règles pénitentiaires européennes.
