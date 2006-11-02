@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050718665
+
+- Question : [SEQ050718665](seq050718665.md) — Financement du logement social via le livret A
+
+## Réponse
+
+*Économie, JO du 2006-11-02, page 2766*
+
+Le livret A et le livret bleu sont des produits qui jouent un rôle central dans le financement de la construction de logements sociaux tout en permettant aux épargnants, notamment les plus modestes, de bénéficier sur l'ensemble du territoire d'une épargne sûre, liquide et correctement rémunérée. Le dispositif actuel de collecte et de centralisation du livret A et du livret bleu a démontré dans la durée sa capacité à réaliser ces objectifs grâce à un adossement des prêts au logement social sur les dépôts collectés. Il a ainsi permis d'assurer le financement de l'ensemble des organismes de logement social de manière équitable et équilibrée. Ce mécanisme d'adossement a prouvé sa fiabilité et sa solidité depuis de nombreuses décennies. L'une des forces de ce dispositif réside en effet dans sa grande stabilité et prévisibilité dans la durée. Le Gouvernement a adressé, vendredi 29 septembre, sa réponse à la mise en demeure de la Commission européenne sur les droits spéciaux octroyés à La Poste, aux Caisses d'épargne et au Crédit mutuel pour la distribution de livrets A et bleu. La mise en demeure présente les griefs à l'encontre du dispositif de distribution de ces livrets. Ces griefs ont également été transmis directement par la commission aux entreprises en cause (La Poste, les Caisses d'épargne et le Crédit mutuel) afin qu'elles donnent leurs points de vue sur l'analyse formulée par la commission. La réponse reprend chacun des griefs présentés par la Commission européenne en juin dernier sur le livret A et le livret bleu et y apporte une réponse détaillée démontrant que le dispositif actuel n'est pas contraire aux exigences communautaires.
