@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924503
+
+- Question : [SEQ060924503](seq060924503.md) — Respect des délais de paiement
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2006-11-02, page 2770*
+
+Le Gouvernement a engagé une concertation sur les délais de paiement et la sous-traitance industrielle. Cette concertation a déjà permis d'aboutir à un certain nombre de mesures. Un code de bonnes pratiques a été conclu le 28 juin 2006, dans la filière automobile, entre le comité des constructeurs français d'automobiles, la fédération des industries pour les équipements de véhicules et la fédération des industries mécaniques, qui comprend une série d'engagements partagés par l'ensemble de la filière pour améliorer la relation clients-fournisseurs, et qui sera transmis pour avis et validation à la commission d'examen des pratiques commerciales (CEPC). Les autres filières industrielles ont été invitées à s'engager dans la préparation d'un tel code. Par ailleurs, les possibilités de mobilisation des créances-clients ont été renforcées pour les PME. OSEO BDPME proposera prochainement un nouveau produit financier adapté aux besoins des PME, appelé AVANCE+. Jusqu'ici réservé à la mobilisation des créances sur donneur d'ordre public, le produit AVANCE+ permettra aux petites entreprises de mobiliser directement auprès d'OSEO BDPME des créances sur les grands donneurs d'ordre privés. OSEO interviendra dans le respect du principe de subsidiarité par rapport au secteur bancaire. Le dispositif sera mis en place dans le cadre d'une expérimentation sur dix-huit mois. Enfin, l'observatoire des délais de paiement a été réactivé et modernisé. M. Jean-Paul Betbeze, membre du conseil d'analyse économique et coauteur d'un rapport sur les délais de paiement, présidera un observatoire recentré sur sa mission d'évaluation, d'observation statistique et d'analyse économique. Il comprendra des experts de ces domaines ainsi que des représentants des entreprises.
