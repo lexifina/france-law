@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050819117
+
+- Question : [SEQ050819117](seq050819117.md) — Concours et examens de la fonction publique territoriale : liste complémentaire de lauréats
+
+## Réponse
+
+*Fonction publique, JO du 2006-11-02, page 2769*
+
+La combinaison des articles 40 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale aux termes desquels « la nomination aux grades et emplois de la fonction publique territoriale est de la compétence exclusive de l'autorité territoriale » et de l'article 44 de cette même loi qui précise que « l'inscription sur une liste d'aptitude ne vaut pas recrutement » permet à une collectivité territoriale qui a déclaré un poste vacant lors de l'ouverture d'un concours de ne pas recruter l'un des lauréats de ce concours. C'est ainsi que la liste d'aptitude établie à la suite de l'organisation d'un concours territorial comprend, d'une part, classés par ordre alphabétique, les candidats déclarés aptes à ce concours par le jury, et, d'autre part, les candidats inscrits sur les listes d'aptitude établies au titre de concours précédents et qui remplissent encore les conditions d'inscription, la durée de validité de la liste d'aptitude étant de trois ans. De fait, ces dispositions ne militent pas en faveur de l'instauration de listes complémentaires d'admission aux concours territoriaux, en dehors des cas où elles existent déjà, et qui concernent des recrutements dans des écoles de formation (conservateurs, administrateurs). Une telle mesure est d'autant moins souhaitable qu'elle s'articulerait difficilement avec l'absence de classement par ordre de mérite des lauréats sur les listes d'admission, qui résulte de la volonté des collectivités territoriales de recruter librement leurs agents à partir des listes d'aptitude.
