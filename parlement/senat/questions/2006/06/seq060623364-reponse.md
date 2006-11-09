@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623364
+
+- Question : [SEQ060623364](seq060623364.md) — Hausse des prix du pétrole et situation des pêcheurs audois
+
+## Réponse
+
+*Agriculture, JO du 2006-11-09, page 2813*
+
+Certaines entreprises de pêche sont en effet fortement impactées par la hausse des cours du pétrole depuis 2004. La charge « carburant » de certains navires, comme les chalutiers, peut représenter jusqu'à 30 % des charges. L'équipage des navires supporte cette charge compte tenu du mode de rémunération dit « à la part » en vigueur dans le domaine de la pêche artisanale. Dans ce contexte, le Gouvernement contribue au fonctionnement du fonds de prévention des aléas pêche (FPAP) qui a permis depuis novembre 2004 d'amortir la hausse des cours en assurant un prix du gazole inférieur au prix du marché. Ainsi, en septembre 2006, les prix ont été assurés à 40 centimes/litre. En avril 2006, le Gouvernement a élaboré un plan pour aider la profession en vue de l'arrêt programmé des aides versées par le FPAP. Ces mesures sont destinées à aider les entreprises qui connaissent des difficultés liées aux intempéries (6 millions d'euros versés en juin), à la cessation d'activité (les primes à la sortie de flotte ont été défiscalisées), au gazole (mesures de sauvetage et de restructuration). Les pêcheurs de l'Aude qui exercent leur activité en Méditerranée sont éligibles à ces mesures dès lors qu'ils peuvent justifier de difficultés. S'agissant des mesures de sauvetage et de restructuration, les entreprises qui souhaitent bénéficier des aides prévues à ce titre (restructuration de la dette, avances de trésorerie) doivent présenter un audit financier mettant en exergue les difficultés financières et un plan de restructuration indiquant les mesures qui seront mises en oeuvre pour réduire la consommation d'énergie. La commission régionale d'attribution des aides Languedoc-Roussillon est installée et attend le dépôt des premiers audits.
