@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517399
+
+- Question : [SEQ050517399](seq050517399.md) — Jurisprudence pour les irrégularités concernant le second tour d'élections municipales et cantonales
+
+## Réponse
+
+*Intérieur, JO du 2006-11-09, page 2823*
+
+Il ne suffit pas que des irrégularités soient établies pour entraîner l'annulation des opérations électorales. L'annulation de l'élection par le juge n'intervient que si ces irrégularités ont altéré la sincérité du scrutin, c'est-à-dire si, du fait de leur nature ou de leur ampleur et de l'écart de voix entre le candidat élu et ses adversaires, les irrégularités ont conduit à l'élection d'un candidat qui n'aurait peut-être pas été élu en l'absence des irrégularités. Dans le cas des élections municipales dans les communes de moins de 3 500 habitants qui se déroulent au scrutin majoritaire en application de l'article L. 252 du code électoral, les élections ne seront annulées que si des irrégularités sont susceptibles d'avoir conduit à l'élection d'un candidat au lieu d'un autre. Selon le nombre de sièges à pourvoir, le juge pourra donc confirmer l'élection de certains candidats élus avec un écart de voix supérieur à l'influence des irrégularités sur le scrutin et annuler l'élection des candidats élus avec un écart de voix inférieur à cette influence. En cas d'annulation d'une élection se déroulant au scrutin majoritaire à deux tours (élection législative, élection cantonale ou élection municipale dans une commune de moins de 3 500 habitants), il y a lieu de procéder à une nouvelle élection, ainsi que le précisent les articles LO 178, L. 221 et L. 251 du code électoral. Cette nouvelle élection se déroule selon les dispositions de droit commun et par conséquent en deux tours de scrutin, même si le dispositif du jugement n'évoque que l'annulation des opérations électorales du second tour de scrutin.
