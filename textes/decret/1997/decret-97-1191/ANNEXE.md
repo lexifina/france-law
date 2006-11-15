@@ -120,53 +120,37 @@ Convention relative à la détermination de l'Etat responsable de l'examen d'une
 
 Décision de prise en charge par la France d'un demandeur d'asile sur la requête d'un Etat signataire de la convention de Schengen du 19 juin 1990 ou de la convention de Dublin du 15 juin 1990.
 
-Décret n° 46-448 du 18 mars 1946 modifié portant application des articles 8 et 36 de l'ordonnance du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
+Code de l'entrée et du séjour des étrangers et du droit d'asile
 
 1
 
-Interdiction à un étranger de résider dans un ou plusieurs départements.
+Décision refusant l'entrée en France à un demandeur d'asile.
 
-Alinéa 4 de l'article 2.
-
-Décret n° 82-440 du 26 mai 1982 modifié portant application des articles 23, 24, 25 bis, 27 ter, 28 et 33 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France :
-
-1
-
-Expulsion d'un étranger selon la procédure d'urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique.
-
-Article 2.
-
-2
-
-Fixation du pays de renvoi pour un étranger faisant l'objet d'une expulsion prononcée en urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique.
-
-2e alinéa de l'article 3 bis.
+R. 223-4
 
 3
 
-Assignation à résidence d'un étranger faisant l'objet d'une expulsion prononcée en urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique et qui ne peut déférer à cette mesure.
+Habilitation d'une association humanitaire, agrément individuel d'un membre d'association pour accéder à la zone d'attente et décision autorisant des visites supplémentaires.
 
-Article 4.
-
-4
-
-Assignation à résidence d'un étranger qui fait l'objet d'une décision d'interdiction du territoire prononcée par une juridiction judiciaire et qui ne peut déférer à cette mesure.
-
-Article 4.
+R. 321-3
 
 5
 
-Remise à un Etat membre de la Communauté européenne d'un demandeur d'asile lorsque la demande de l'intéressé est présentée à la frontière et que son examen relève de la responsabilité de cet Etat.
+Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.
 
-1er alinéa de l'article 11.
+R. 523-2
 
-Décret n° 82-442 du 27 mai 1982 modifié pris pour l'application des articles 5, 5-1 et 5-3 de l'ordonnance du 2 novembre 1945 modifiée relative aux conditions d'entrée et de séjour des étrangers en France, en ce qui concerne l'admission sur le territoire français
+7
 
-1
+Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.
 
-Refus d'admission en France d'un étranger se présentant à la frontière et demandant à bénéficier du droit d'asile.
+R. 531-2
 
-Article 12.
+9
+
+Assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire.
+
+R. 625-2
 
 COURSES ET JEUX
 
