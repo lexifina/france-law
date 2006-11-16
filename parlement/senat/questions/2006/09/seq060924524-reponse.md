@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924524
+
+- Question : [SEQ060924524](seq060924524.md) — Protection des consommateurs contre les risques liés aux incendies domestiques
+
+## Réponse
+
+*Économie, JO du 2006-11-16, page 2887*
+
+Les services du ministère de l'économie, des finances et de l'industrie ont été chargés d'élaborer un décret relatif à la sécurité de certains meubles rembourrés. Ce texte prévoit qu'ils devront respecter une exigence de résistance à l'allumage par une cigarette incandescente. La conformité aux normes permettra d'attester du respect de cette exigence de sécurité. Ces normes, certes non obligatoires, peuvent d'ores et déjà être utilisées par les industriels dans la conception de leurs produits. La consultation interministérielle étant achevée, le projet a été soumis aux professionnels, avec lesquels deux réunions se sont tenues, les 10 mai et 15 septembre 2006, en présence des administrations et organismes concernés. A la suite de ces réunions, le projet a été réexaminé et modifié sur quelques points particuliers. Il va être prochainement notifié à la Commission européenne, puis transmis pour avis à la Commission de la sécurité des consommateurs (CSC). Ce texte est conçu comme une première étape de réglementation, qui pourrait être complétée ultérieurement par la fixation d'exigences supplémentaires, après réalisation des études scientifiques nécessaires pour s'assurer que ces nouvelles exigences ne comportent pas de risques induits pour la santé et l'environnement, notamment en raison de l'utilisation de produits d'ignifugation que les fabricants seraient susceptibles d'utiliser. La transmission à la Commission européenne d'un premier projet de décret pourrait être l'occasion de lui demander de lancer de telles études, le caractère communautaire de celles-ci permettant d'en faire partager les conclusions par les partenaires européens de la France et de légitimer plus facilement pour l'avenir une réglementation plus exigeante.
