@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422575
+
+- Question : [SEQ060422575](seq060422575.md) — Adaptation des variations du prix des produits pétroliers aux prix des biens et services
+
+## Réponse
+
+*Économie, JO du 2006-11-16, page 2886*
+
+Conscient des difficultés rencontrées tant par les professionnels que les particuliers du fait du renchérissement du prix du carburant, le Gouvernement a choisi de traiter rapidement les situations les plus difficiles en mettant en place des mesures de soutien spécifiques aux métiers les plus directement touchés (transporteurs routiers, agriculteurs et pêcheurs), et en obtenant des grandes entreprises pétrolières qu'elles aménagent leurs modalités d'ajustement des prix à la pompe au cours du pétrole de manière plus favorable aux consommateurs. Dans un second temps, la loi de finances pour 2006 a mis en place des mesures destinées à aider notre économie à s'adapter à un prix du pétrole durablement élevé (incitation fiscale aux économies d'énergie ou recours aux énergies les moins polluantes) et à poursuivre l'effort national en faveur des biocarburants qui peuvent constituer une réponse appropriée à la variation du prix du pétrole. En particulier, le Gouvernement est déterminé à soutenir sans réserve le développement de la filière de superéthanol E85, qui permet d'offrir au consommateur une véritable alternative aux carburants fiouls grâce à la souplesse de la technologie flex fuel. Sur la base du rapport qui lui a été remis par la mission mandatée en juin dernier pour préparer un plan d'action, le Gouvernement entend mettre en place toutes les conditions favorables au développement de cette filière d'ici à fin 2006. C'est dans cette dernière voie, mais également en créant les conditions d'une meilleure information du consommateur, que le Gouvernement entend poursuivre ses efforts dans les prochains mois.
