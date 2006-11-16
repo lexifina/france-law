@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723908
+
+- Question : [SEQ060723908](seq060723908.md) — Situation de la section consulaire à Santiago du Chili
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-11-16, page 2875*
+
+Le réseau consulaire français s'est enrichi de plusieurs postes d'assistants sociaux ces dernières années, notamment à la suite des conclusions du rapport de Mme Monique Cerisier ben Guiga sur l'exclusion sociale dans les communautés françaises à l'étranger. En 2001, un poste d'assistant a ainsi été créé dans les consultas de Beyrouth, Djibouti et Tel-Aviv. Un poste supplémentaire a été également créé au consulat général à Tananarive. Au total, treize consulats sont actuellement dotés d'un assistant social ou d'une assistante sociale : Alger, Barcelone, Beyrouth, Buenos Aires, Casablanca, Dakar, Djibouti, Libreville, Pondichéry, Rabat, Tananarive, Tel-Aviv et Tunis. Cette situation est le résultat d'un rééquilibrage permanent des effectifs au regard d'un examen approfondi des besoins des communautés françaises. C'est ainsi qu'un poste d'assistant social a été créé à Alger en 2004 et un autre supprimé à Amsterdam en 2005. Si le poste de Santiago n'est pas pourvu en 2006, en revanche, celui de Buenos Aires sera maintenu ; son titulaire prendra ses fonctions dans les prochaines semaines. Par ailleurs, le ministère des affaires étrangères n'a pas ménagé ses efforts pour développer la formation, en particulier en matière sociale, afin de doter les autres consulats d'agents ayant une compétence affirmée pour traiter des dossiers sociaux. Ce sera le cas à Santiago du Chili où la gestion des affaires sociales sera reprise par un agent titulaire de notre ambassade à l'automne 2006. Parallèlement, le ministère mène une politique de simplification administrative qui vise notamment à dégager du temps en faveur de ceux de nos compatriotes en difficulté afin d'apporter à leur situation une attention particulière.
