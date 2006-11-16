@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523299
+
+- Question : [SEQ060523299](seq060523299.md) — Situation au Tchad
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-11-16, page 2874*
+
+Le Tchad est un pays dont l'unité nationale, la souveraineté et la stabilité doivent être soutenues. Le président Déby, lors de sa réélection en 2001, a opté pour des choix visant à assurer la réforme de son pays. Ces choix ont été réaffirmés lors de sa récente investiture du 8 août 2006, faisant suite à sa seconde réélection. Tout au long de la crise tchadienne, entre octobre 2005 et avril 2006, la France a tenu à établir la distinction qui s'impose entre les rébellions armées et les partis politiques légalistes, avec lesquels elle a maintenu un contact. C'est pourquoi la France incite le gouvernement tchadien à favoriser les voies du dialogue avec son opposition politique et la société civile, dès lors que ces interlocuteurs institutionnels ne prônent pas le recours à la violence. Aussi, la France considère que les élections présidentielles qui viennent de se tenir au Tchad, de même que les échéances électorales à venir en 2007, peuvent et doivent être l'occasion pour la nation tchadienne d'un dialogue constructif et concret, susceptible d'aboutir à la réconciliation et à la stabilité du pays. Ce dialogue est notamment encouragé par l'Union européenne qui s'est impliquée dans la mise en oeuvre d'un processus de réconciliation nationale au Tchad. Une première étape du dialogue politique inter-tchadien s'est tenue à N'Djamena, du 28 juillet au 3 août 2006. Les conclusions de ce dialogue politique, qui portent essentiellement sur les réformes à apporter au cadre électoral, ont été saluées par l'Union européenne qui les a intégrées à sa propre feuille de route, dans le cadre d'un dialogue politique au titre de l'article 8 de l'accord de Cotonou.
