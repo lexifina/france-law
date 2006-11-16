@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924356
+
+- Question : [SEQ060924356](seq060924356.md) — Situation des retraités français ayant travaillé au Congo
+
+## Réponse
+
+*Affaires étrangères, JO du 2006-11-16, page 2876*
+
+La non-observation par le Congo des dispositions de la convention de sécurité sociale du 11 février 1987 préoccupe vivement le ministère des affaires étrangères. De nombreux ressortissants français, ayant travaillé au Congo et ayant cotisé régulièrement au régime local d'assurance vieillesse, sont en effet aujourd'hui privés des revenus auxquels ils ont droit. Dans l'espoir de débloquer les dossiers en souffrance, diverses démarches ont donc été régulièrement entreprises auprès des autorités congolaises, notamment au niveau ministériel. Notre consul général et notre ambassadeur à Brazzaville sont mobilisés sur ce sujet, en appui aux interventions fréquentes du CLEISS (Centre des liaisons européennes et internationales de sécurité sociale). Ces démarches n'ayant cependant pas abouti jusqu'à présent, de nouvelles solutions ont été explorées. Ainsi le ministère des affaires étrangères a engagé une réflexion, en concertation avec les autres ministères concernés, sur la mise en place d'une procédure permettant l'établissement d'un lien entre les concours financiers français dans les Etats africains défaillants et le paiement des arriérés de pension aux retraités français. Il s'avère néanmoins indispensable d'effectuer au préalable un travail d'identification et de vérification des droits des pensionnés français. A cet effet, le ministère des affaires étrangères va réaliser prochainement une mission d'audit au Congo qui devrait permettre d'établir une évaluation précise des droits de nos compatriotes retraités ayant effectué tout ou partie de leur vie professionnelle dans ce pays.
