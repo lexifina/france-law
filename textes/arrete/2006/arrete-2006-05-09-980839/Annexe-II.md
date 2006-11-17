@@ -68,9 +68,11 @@ a) Chlorhydrate de pyridoxine.
 
 b) Pyridoxine-5'-phosphate.
 
-10. Acide folique
+10. Folates
 
 a) Acide ptéroylmonoglutamique.
+
+b) L-méthylfolate de calcium.
 
 11. Vitamine B12
 
@@ -157,6 +159,8 @@ Diphosphate ferrique (pyrophosphate ferrique).
 Saccharate ferrique.
 
 Fer élémentaire (issu de la réduction du carbonyle, de la réduction électrolytique et de la réduction de l'hydrogène).
+
+Bisglycinate ferreux.
 
 Carbonate de cuivre.
 

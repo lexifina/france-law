@@ -24,7 +24,7 @@ Acide pantothénique (mg).
 
 Vitamine B6 (mg).
 
-Acide folique (µg).
+Folates (µg).
 
 Vitamine B12 (µg).
 
