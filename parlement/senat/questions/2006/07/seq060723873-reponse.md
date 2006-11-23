@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723873
+
+- Question : [SEQ060723873](seq060723873.md) — Indemnités d'élu municipal
+
+## Réponse
+
+*Intérieur, JO du 2006-11-23, page 2957*
+
+La loi posant comme principe, régulièrement rappelé par le juge administratif, que les fonctions électives sont gratuites, les indemnités susceptibles d'être allouées aux titulaires de mandats locaux doivent être prévues par une disposition législative expresse. Le code général des collectivités territoriales prévoit bien que les élus locaux qui représentent leur collectivité locale au sein du conseil d'administration ou du conseil de surveillance d'une société d'économie mixte locale (SEML) peuvent à ce titre percevoir une rémunération ou des avantages particuliers, à condition d'y être autorisés par une délibération expresse de l'assemblée qui les a désignés, et que ladite rémunération est, conformément à son article L. 2123-20-II, incluse dans le plafond des indemnités susceptibles d'être perçues par un élu local. Il convient de préciser en revanche qu'aucune règle de portée générale n'ouvre un tel droit au titre de l'ensemble des sociétés anonymes dont les collectivités locales peuvent être actionnaires, et que le fondement juridique de cette rémunération devra donc être recherché au cas par cas. S'agissant de la retenue à la source libératoire de l'impôt sur le revenu effectuée, sur le fondement de l'article 204-0 bis du code général des impôts, sur les indemnités de fonction des élus locaux, cette fiscalisation particulière n'est pas applicable aux rémunérations versées par les SEML comme indiqué dans la circulaire interministérielle du 14 mai 1993 (JO du 28 mai 1993). En tout état de cause, seules les indemnités répondant à la définition du premier alinéa de l'article 204-0 bis précité sont susceptibles de bénéficier de ce régime. À ce jour, aucune jurisprudence ne semble être intervenue à ce sujet.
