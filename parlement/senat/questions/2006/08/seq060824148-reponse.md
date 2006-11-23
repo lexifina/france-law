@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060824148
+
+- Question : [SEQ060824148](seq060824148.md) — Motivation des délibérations des jurys de concours administratif
+
+## Réponse
+
+*Éducation, JO du 2006-11-23, page 2949*
+
+Après la proclamation des résultats d'admissibilité, les candidats non admissibles au concours de recrutement de professeurs des écoles et, après la proclamation des résultats d'admission, les candidats admis et non admis reçoivent le relevé des notes qu'ils ont obtenues à chaque épreuve. Ils peuvent obtenir sur leur demande un double de leurs copies comme pour tout concours de recrutement de la fonction publique. Cependant, ni les dispositions de la loi du 11 juillet 1979 relative à la motivation des actes administratifs, ni aucune autre disposition législative ou réglementaire n'imposent au jury de motiver ses délibérations, ni les notes qu'il attribue. L'appréciation de la qualité des prestations des candidats à un concours relève de la compétence souveraine du jury. C'est pourquoi il n'existe aucune procédure d'appel des décisions des jurys dès lors que ceux-ci ont fonctionné et délibéré de façon régulière. Ce principe de souveraineté des jurys s'impose quand bien même les notes attribuées par le jury apparaîtraient différentes des résultats obtenus par un candidat au cours de sa formation. Un concours est une opération de sélection effectuée entre des candidats évalués les uns par rapport aux autres, sur la base d'une appréciation comparative compte tenu d'un nombre limité de postes offerts au titre d'une session, et non au regard d'un minimum de connaissances exigibles ou d'un niveau d'études atteint. A cet égard, la lecture des rapports des jurys constitue une aide précieuse pour la préparation d'un concours, les présidents de jury veillant à préciser ce qui est attendu des candidats lors des épreuves.
