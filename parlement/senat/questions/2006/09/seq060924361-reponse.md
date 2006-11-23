@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924361
+
+- Question : [SEQ060924361](seq060924361.md) — Applicabilité des frais de garderie aux indemnités encaissées pour l'expropriation d'une forêt
+
+## Réponse
+
+*Agriculture, JO du 2006-11-23, page 2936*
+
+Le régime forestier mis en oeuvre par l'Office national des forêts (ONF) dans les forêts des collectivités, notamment des communes forestières, s'effectue sans aucune facturation d'honoraires. Le financement de service public est assuré par une contribution forfaitaire obligatoire dite « frais de garderie » que toute collectivité propriétaire d'une forêt relevant du régime forestier est tenue d'acquitter. Cette contribution est calculée non pas en fonction de l'importance des prestations exécutées par l'ONF mais sur la seule base des recettes que la collectivité tire de sa propriété forestière, notamment des ventes de bois sur pied ou façonnés. L'ensemble des frais de garderie ne couvrant pas le coût total du régime forestier, l'Etat contribue à l'équilibre financier de ce service public par un versement compensateur. Lorsque les bois sont ravagés par un sinistre (incendie) et que la collectivité victime obtient de l'auteur du sinistre ou de son assureur une réparation de ce préjudice, la part de l'indemnité correspondant à la valeur des bois est assimilée à l'encaissement par anticipation du « prix » des bois que la commune aurait encaissée si elle avait pu commercialiser ceux-ci quelques années plus tard. Cette part d'indemnité entre donc dans l'assiette des frais de garderie. En cas d'expropriation sur la base du même raisonnement, l'ONF inclut dans l'assiette des frais de garderie la part de l'indemnité d'expropriation correspondant à la valeur des bois sur pied. A la suite d'un recours contentieux formé par une commune contre un ordre de recouvrement de frais de garderie calculés sur cette base, la juridiction administrative devrait être appelée à décider de la validité de cette pratique.
