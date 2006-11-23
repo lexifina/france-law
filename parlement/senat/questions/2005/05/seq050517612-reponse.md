@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517612
+
+- Question : [SEQ050517612](seq050517612.md) — Obligations des membres du Conseil constitutionnel
+
+## Réponse
+
+*Intérieur, JO du 2006-11-23, page 2955*
+
+L'article 2 du décret n° 59-1292 du 13 novembre 1959 dispose que « les membres du Conseil constitutionnel s'interdisent en particulier pendant la durée de leurs fonctions (...) de laisser mentionner leur qualité de membre du Conseil constitutionnel dans tout document susceptible d'être publié et relatif à toute activité publique ou privée ». L'article 5 du même décret précise que le Conseil constitutionnel apprécie, le cas échéant, si l'un de ses membres a manqué aux obligations générales et particulières mentionnées aux articles 1er et 2 du décret. L'article 6 prévoit que, dans le cas prévu à l'article 5, le Conseil constitutionnel se prononce au scrutin secret à la majorité simple des membres le composant, y compris ses membres de droit. Enfin, l'article 7 du décret pose que pour l'application de ces dispositions, le Conseil constitutionnel peut recourir, s'il y a lieu, à la procédure de constatation d'une démission d'office prévue à l'article 10 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel. Aux termes de ces dispositions, il appartient donc aux seuls membres du Conseil constitutionnel, et à aucune autre autorité gouvernementale ou juridictionnelle, d'apprécier le respect ou non par l'un de ses membres des obligations lui incombant. Par une ordonnance du juge des référés en date du 6 mai 2005 (CE, Hoffer, Req. 280 214), le Conseil d'Etat a d'ailleurs rappelé que « le Conseil constitutionnel est seul juge du respect par ses membres des obligations qui s'imposent à eux » et qu'« il n'appartient donc pas à la juridiction administrative de connaître d'une contestation touchant aux conditions de mise en oeuvre de cette compétence ».
