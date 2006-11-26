@@ -24,9 +24,7 @@ Nombre de points attribués
 
 2. Responsable de circonscription ou d'unité territoriale d'action sanitaire et sociale des
 
-départements.
-
-|
+départements. |
 
 35
 
@@ -56,9 +54,7 @@ coordination des activités des établissements et services d'accueil ; encadrem
 
 de ces établissements et services d'accueil ; définition des orientations relatives aux relations avec
 
-les institutions et avec les familles.
-
-|
+les institutions et avec les familles. |
 
 19
 
@@ -100,9 +96,7 @@ Autres structures : 20
 
 10. Encadrement d'un service administratif comportant au moins vingt agents, à l'exception des
 
-fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée.
-
-|
+fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée. |
 
 25
 
@@ -116,9 +110,7 @@ gestion immobilière et foncière, de contentieux ou d'actions liées au dévelo
 
 l'aménagement de la collectivité, à l'exception des fonctions exercées au titre de l'article 53 de la loi
 
-du 26 janvier1984 modifiée.
-
-|
+du 26 janvier1984 modifiée. |
 
 25
 
@@ -128,9 +120,7 @@ du 26 janvier1984 modifiée.
 
 l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispositions du décret n° 2001-
 
-1274 du 27 décembre 2001 et du décret n° 2001-1367 du 28 décembre 2001.
-
-|
+1274 du 27 décembre 2001 et du décret n° 2001-1367 du 28 décembre 2001. |
 
 25
 
@@ -148,9 +138,7 @@ l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispo
 
 de musique non agréées et des écoles d'arts plastiques qui ne sont pas habilitées à dispenser tout
 
-ou partie de l'enseignement conduisant à un diplôme d'Etat ou à un diplôme agréé par l'Etat.
-
-|
+ou partie de l'enseignement conduisant à un diplôme d'Etat ou à un diplôme agréé par l'Etat. |
 
 30
 
@@ -184,9 +172,7 @@ ou partie de l'enseignement conduisant à un diplôme d'Etat ou à un diplôme a
 
 relevant dont l'importance ne justifie pas la présence d'un ingénieur, ou dans un établissement
 
-public local d'enseignement.
-
-|
+public local d'enseignement. |
 
 15
 
@@ -202,9 +188,7 @@ public local d'enseignement.
 
 20. Responsable d'un service municipal de police, dans la limite d'un agent responsable par
 
-commune.
-
-|
+commune. |
 
 Agent ayant sous ses
 
@@ -256,9 +240,11 @@ Régie supérieure à 18000 euros : 20
 
 13 |
 
-24. (Abrogé)
+24. Chef d'agrès exerçant des fonctions de commandement de véhicules d'intervention comprenant au moins deux équipes, et d'une particulière technicité supposant une expérience de 7 ans au moins ou emploi équivalent supposant la même expérience et nécessitant l'encadrement de proximité d'au moins 5 sapeurs-pompiers.
 
 |
+
+16
 
 |
 
@@ -388,9 +374,7 @@ deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvis�
 
 commune de moins de 2000 habitants selon les critères du décret n° 88-546 du
 
-06 mai 1988 relatif aux emplois fonctionnels dans les établissements publics.
-
-|
+06 mai 1988 relatif aux emplois fonctionnels dans les établissements publics. |
 
 15 |
 
