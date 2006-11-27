@@ -24,7 +24,7 @@ Cette durée minimale peut être portée jusqu'à 24 mois notamment pour les per
 
 Les actions d'évaluation, de personnalisation du parcours de formation, d'accompagnement externe et de formation, dont bénéficie le titulaire du contrat de professionnalisation, doivent être d'une durée comprise entre 15 %, sans être inférieure à 150 heures, et 25 % de la durée totale du contrat ou de l'action de professionnalisation.
 
-La durée des actions peut être portée au-delà de 25 % pour certaines catégories de bénéficiaires, notamment pour les jeunes n'ayant pas achevé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ou pour les personnes qui visent des formations diplômantes.
+La durée des actions peut être portée au-delà de 25 % pour certaines catégories de bénéficiaires, notamment pour les jeunes n'ayant pas achevé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ou pour les personnes qui visent les formations diplômantes ou un CQP validé par la branche.
 
 Les salariés âgés de moins de 26 ans perçoivent pendant la durée du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée un salaire minimum calculé en fonction de leur âge et de leur niveau de formation.
 
