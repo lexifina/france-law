@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724095
+
+- Question : [SEQ060724095](seq060724095.md) — Inscription à l'ordre du jour du Parlement du projet de loi portant création d'une délégation parlementaire pour le renseignement
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2006-11-30, page 3013*
+
+Le ministre délégué aux relations avec le Parlement partage le souhait de l'honorable parlementaire de voir aboutir la création d'une délégation parlementaire pour le renseignement. En effet, l'évolution des menaces qui pèsent sur la sécurité de nos concitoyens a contribué à nourrir un débat légitime sur le fonctionnement de nos services de renseignement. A l'instar de ce qui se fait dans plusieurs Etats occidentaux, il apparaît nécessaire que la France se dote d'un organisme parlementaire chargé de veiller à l'activité des services de renseignement civils et militaires. A la demande du Premier ministre, le ministre délégué aux relations avec le Parlement a donc présenté un projet de loi lors du conseil des ministres du 8 mars 2006. A ce jour, aucune date d'examen en séance publique n'a été programmée compte tenu des contraintes constitutionnelles de calendrier qui conduisent à consacrer une part importante de la présente session à l'examen du projet de loi de finances et du projet de loi de financement de la sécurité sociale pour 2007. En outre, alors que la session 2006-2007 sera substantiellement raccourcie par les échéances électorales, le Gouvernement devra consacrer l'essentiel de l'ordre du jour restant à l'examen des textes prioritaires : il s'agit notamment des réformes de la participation, du dialogue social, de la justice, des tutelles, de la protection de l'enfance, de la parité... Bien évidemment, si une opportunité d'inscription à l'ordre du jour du projet de loi portant création d'une délégation parlementaire pour le renseignement se présentait, le Gouvernement ne manquerait pas de la saisir.
