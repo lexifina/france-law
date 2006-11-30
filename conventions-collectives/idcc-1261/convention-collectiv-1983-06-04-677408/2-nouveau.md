@@ -2,9 +2,9 @@
 
 2.1. Dispositions générales
 
-2.1.1. Les salariés à temps complet peuvent, à leur demande, accéder au travail à temps partiel à condition d'avoir 2 ans d'ancienneté dans l'entreprise et dans le poste (1).
+2.1.1. Les salariés à temps complet peuvent, à leur demande, accéder au travail à temps partiel (1).
 
-2.1.2. Le salarié doit présenter sa demande par lettre recommandée avec accusé de réception 1 mois avant la mise en application du nouvel horaire de travail. Il bénéficie d'une priorité de retour à temps plein pendant 3 ans (1).
+2.1.2. Le salarié doit présenter sa demande par lettre recommandée avec accusé de réception 1 mois avant la mise en application du nouvel horaire de travail. Il bénéficie d'une priorité de retour à temps plein (1).
 
 2.1.3. L'employeur peut refuser la demande notamment pour les motifs
 
@@ -18,7 +18,7 @@ Il dispose d'un délai de 1 mois à compter de la réception de la demande du sa
 
 2.1.4. En cas de contestation, la commission paritaire nationale de conciliation peut être saisie.
 
-2.1.5. Les salariés à temps partiel bénéficient des dispositions de la convention collective nationale au prorata de leur temps de travail (2).
+2.1.5. Les salariés à temps partiel bénéficient des dispositions de la convention collective nationale au prorata de leur temps de travail.
 
 2.1.6. Durée minimale de travail.
 
@@ -30,11 +30,7 @@ Au cours d'une même journée, il ne peut y avoir plus d'une interruption d'acti
 
 Certains emplois peuvent déroger à ces limites (soit parce qu'ils comportent 2 interruptions, soit parce qu'ils comportent 1 interruption de plus de 2 heures). Dans ce cas, à défaut d'autres contreparties fixées par le contrat de travail, les salariés bénéficient d'une indemnité fixée à 1 Euros par jour dès lors qu'il y a 2 interruptions ou une interruption de plus de 2 heures.
 
-2.2. Temps partiel annualisé (3)
-
-Tous les emplois correspondant à une alternance de périodes travaillées et non travaillées, et dont la durée de travail annuelle en heures est inférieure à la durée annuelle conventionnelle, peuvent donner lieu à des embauches à temps partiel annualisé conformément à l'accord de branche.
-
-Le contrat de travail à temps partiel annualisé peut prévoir le lissage de la rémunération.
+2.2. Temps partiel annualisé (abrogé).
 
 2.3. Temps partiel modulé
 
@@ -50,8 +46,4 @@ Le bilan annuel du travail à temps partiel dans l'entreprise est effectué dans
 
 Un bilan sera fait annuellement en commission paritaire nationale.
 
-(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 212-4-9 du code du travail (arrêté du 4 décembre 2003, art. 1er).
-
-(2) Article étendu sous réserve de l'application des dispositions de l'article L. 212-4-5 du code du travail (arrêté du 4 décembre 2003, art. 1er).
-
-(3) Article étendu en tant qu'il se réfère, pour le recours au temps partiel annualisé, à l'accord de branche du 8 juin 1999 sur la réduction du temps de travail, étendu par arrêté du 23 décembre 1999 et maintenu en vigueur conformément à la loi n° 2000-37 du 19 janvier 2000 modifiée relative à la réduction négociée du temps de travail (arrêté du 4 décembre 2003, art. 1er).
+NOTA : (1) Termes exclus de l'extension par arrêté du 4 décembre 2003.
