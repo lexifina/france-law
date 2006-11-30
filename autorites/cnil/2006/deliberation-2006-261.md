@@ -1,0 +1,87 @@
+# Délibération portant avis sur un projet de décret en Conseil d'Etat relatif à l'enregistrement, à la conservation et au traitement par les greffes des tribunaux d'instance, le greffe du tribunal de grande instance de Paris et les agents diplomatiques et consulaires des données à caractère personnel relatives à la formation, la modification et la dissolution du pacte civil de solidarité et abrogeant les décrets n° 99-1090 et 99-1091 du 21 décembre 1999.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2006-261
+- Date : 2006-11-30
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017651872
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie pour avis par le ministre de la Justice d'un projet de décret en Conseil d'État relatif à l'enregistrement, à la conservation et au traitement par les greffes des tribunaux d'instance, le greffe du tribunal de grande instance de Paris et les agents diplomatiques et consulaires des données à caractère personnel relatives à la formation, la modification et la dissolution du pacte civil de solidarité et abrogeant les décrets n° 99-1090 et 99-1091 du 21 décembre 1999 ;
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code civil, notamment ses articles 49 et 515-1 à 515-7 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et notamment son article 11-4 °;
+
+Vu le décret n° 62-921 du 3 août 1962 modifiant certaines règles relatives aux actes de l'état civil, et notamment son article 10 ;
+
+Vu ensemble les décrets n° 99-1090 et 99-1091 du 21 décembre 1999 relatifs aux conditions de collecte, de traitement et de conservation des informations relatives à la formation, la modification et la dissolution du pacte civil de solidarité et autorisant la mise en oeuvre par les greffes des tribunaux d'instance, le greffe du tribunal de grande instance de Paris et les agents diplomatiques et consulaires français ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Vu la délibération n° 99-056 du 25 novembre 1999 portant avis sur les projets de décret en Conseil d'État relatifs aux mesures d'application de la loi n° 99-944 du 15 novembre 1999 relative au pacte civil de solidarité et à l'informatisation des registres d'inscription des pactes civils de solidarité ;
+
+Vu le projet de décret en Conseil d'État du ministre de la Justice relatif à l'enregistrement, à la conservation et au traitement par les greffes des tribunaux d'instance, le greffe du tribunal de grande instance de Paris et les agents diplomatiques et consulaires des données à caractère personnel relatives à la formation, la modification et la dissolution du pacte civil de solidarité et abrogeant les décrets n° 99-1090 et 99-1091 du 21 décembre 1999 ;
+
+Vu le projet de décret du ministre de la Justice relatif à la déclaration, la modification, la dissolution et la publicité du pacte civil de solidarité abrogeant le décret n° 99-1089 du 21 décembre 1999 et modifiant l'article 10 du décret n° 62-921 du 3 août 1962 ;
+
+Après avoir entendu, M. Patrick DELNATTE, commissaire, en son rapport et Mme Pascale COMPAGNIE, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+La Commission a été saisie pour avis par le ministre de la Justice d'un projet de décret en Conseil d'État relatif à l'enregistrement, à la conservation et au traitement par les greffes des tribunaux d'instance, le greffe du tribunal de grande instance de Paris et les agents diplomatiques et consulaires des données à caractère personnel relatives à la formation, la modification et la dissolution du pacte civil de solidarité et abrogeant les décrets n° 99-1090 et 99-1091 du 21 décembre 1999.
+
+Ce texte est accompagné d'un projet de décret prévoyant les modalités pratiques de mise en oeuvre du nouveau régime de publicité du pacte civil de solidarité, ainsi qu'une modification du décret du 3 août 1962, permettant l'inscription d'une mention concernant la déclaration, la modification et la dissolution du pacte civil de solidarité en marge de l'extrait d'acte de naissance sans filiation.
+
+Le projet de décret soumis à l'avis de la Commission, qui constitue le texte d'application des dispositions de la loi du 15 novembre 1999 relative au pacte civil de solidarité, prévu à l'article 15 de ce texte, a pour objet d'organiser la mise en oeuvre de l'article 14-1 de la loi du 15 novembre 1999 précitée, d'une part, et des articles 515-3, 515-3-1 et 515-7 du code civil, tels qu'il résultent de la loi du 23 juin 2006 portant réforme des successions et des libéralités, d'autre part.
+
+Cette première modification concerne la réalisation de statistiques anonymes relatives aux pactes enregistrés (nombre de pactes conclus ou ayant pris fin entre personnes de sexe différent, de sexe féminin et de sexe masculin, nombre de pactes ayant pris fin en application de chacun des cas mentionnés à l'article 515-7 du code civil, durée moyenne des pactes) et à l'âge moyen des personnes concernées.
+
+La seconde modification vise à définir les modalités du nouveau régime de publicité du pacte civil de solidarité applicable à compter du 1er janvier 2007, quelle que soit la date de conclusion du pacte.
+
+S'agissant de l'élargissement des statistiques devant être effectuées chaque semestre par les tribunaux d'instance, la Commission prend acte que le projet de décret qui lui est soumis pour avis se limite à inscrire, au titre des finalités des registres informatisés des pactes civils de solidarité, les nouvelles possibilités de réalisation de statistiques voulues par le législateur et que la disposition correspondante rappelle que l'élaboration de ces statistiques est limitée "à la production d'informations rendues anonymes".
+
+La Commission observe que la réalisation de ces statistiques implique nécessairement la collecte du sexe des personnes concluant un pacte civil de solidarité, qui est explicitement prévue par l'article 4 du projet de décret ; elle prend acte qu'aux termes mêmes de la disposition qui permet la réalisation de ces statistiques anonymes, c'est par dérogation aux dispositions du I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, que ces statistiques distinguent les données relatives aux pactes conclus entre personnes de sexe différent, personnes de sexe féminin et personnes de sexe masculin.
+
+Dans la mesure toutefois où la collecte de cette information est nouvelle, le ministère de la Justice devra transmettre à la Commission une déclaration modificative des registres informatisés des pactes civils de solidarité déclarés en 1999.
+
+La Commission observe ensuite qu'il résulte des dispositions des dispositions de la loi du 23 juin 2006 précitée que le nouveau régime de publicité de conclusion, de modification et de dissolution du pacte civil de solidarité prend la forme d'une mention inscrite en marge de l'acte de naissance de chaque partenaire, avec indication de l'identité de l'autre partenaire.
+
+Le projet de décret relatif à la déclaration, la modification, la dissolution et la publicité du pacte civil de solidarité abrogeant le décret n° 99-1089 du 21 décembre 1999 et modifiant l'article 10 du décret n° 62-921 du 3 août 1962, transmis pour information à la Commission, prévoit que cette mention figurera en marge des extraits d'acte de naissance sans filiation, que tout requérant peut obtenir sans avoir à justifier sa demande.
+
+Le projet de décret soumis à la Commission organise les modalités de ce nouveau régime de publicité et en tire les conséquences s'agissant des registres informatisés des pactes civils de solidarité.
+
+Dans la mesure notamment où le projet de décret soumis à la Commission fait disparaître l'obligation, pesant sur le greffe des tribunaux d'instance du lieu de résidence des partenaires au pacte civil de solidarité, de transmettre au greffe du tribunal d'instance de leur lieu de naissance leur déclaration conjointe de contracter un tel pacte, ce texte prévoit le versement aux archives, à échéance de dix-huit mois à compter du 1er janvier 2007, des registres tenus par les greffes des tribunaux d'instance du lieu de naissance des partenaires.
+
+Dans la mesure où la publicité du pacte civil de solidarité est désormais assurée par une mention en marge de l'acte de naissance de chacun des partenaires, le projet de décret prévoit le maintien des registres tenus par les greffes des tribunaux d'instance du lieu de résidence des partenaires, sans possibilité de communication des informations traitées.
+
+Afin d'assurer le même régime de publicité aux pactes conclus entre partenaires français et entre un partenaire français et un partenaire de nationalité étrangère né à l'étranger, le même projet de texte prévoit le maintien du registre spécifique tenu par le greffe du tribunal de grande instance de Paris et la possibilité de communication des informations traitées, qui sont identiques à celles figurant dans les registres tenus par les greffes des tribunaux d'instance, à tout requérant en faisant la demande.
+
+La Commission prend acte des modifications apportées aux registres informatisés des pactes civils de solidarité, telles que rappelées ci-dessus, et demande à être rendue destinataire de la déclaration modificative correspondante.
+
+Au-delà de cette observation, la Commission souligne que les dispositions de la loi du 23 juin 2006 précitée, complétée par celles du projet de décret soumis pour avis à la Commission et par celles du projet de décret qui lui a été transmis pour information, ont, contrairement au choix qui avait été fait en 1999, pour effet d'ouvrir largement la publicité autour du pacte civil de solidarité, d'une part, et autour de l'identité des personnes concluant un tel pacte, d'autre part.
+
+S'il n'appartient pas à la Commission de remettre en cause les choix faits par le législateur et le gouvernement, il lui revient cependant de tirer les conséquences de ces choix au regard de la protection qu'institue la loi du 6 janvier 1978.
+
+La Commission prend ainsi acte de la volonté du gouvernement et du législateur de modifier profondément le régime de publicité du pacte civil de solidarité et de passer d'un régime prévoyant la communication des informations concernant le pacte et ses signataires à une série d'organismes et de personnes limitativement énumérées par les textes applicables à un régime de publicité permettant à tout requérant d'obtenir ces informations.
+
+Elle observe également que ce nouveau régime de publicité, prenant la forme d'une mention marginale appelée à figurer sur les extraits d'acte de naissance qui sont susceptibles d'être demandés par tout requérant, rapproche le formalisme de la conclusion, la modification et la dissolution de ce contrat des actes courants de l'état civil et qu'il en résulte nécessairement une banalisation du pacte civil de solidarité.
+
+La Commission souligne enfin que ce nouveau régime de publicité portera non seulement sur la conclusion, la modification ou la dissolution du pacte, mais également sur l'identité de l'autre partenaire, à l'instar des actes de l'état civil dont la publicité est établie par une mention en marge de l'acte de naissance.
+
+Aussi, la Commission considère que la volonté du gouvernement et du législateur d'assimiler la conclusion, la modification et la dissolution du pacte civil de solidarité à un acte banal de la vie civile, d'une part, et de lui assurer, par une mention marginale faisant apparaître l'identité de l'autre partenaire sur l'acte de naissance de chaque signataire du pacte, la même publicité qu'à tous les actes de l'état civil, d'autre part, traduit une évolution des mentalités, tant à l'égard du pacte civil de solidarité qu'à l'égard des personnes qui en concluent un, et singulièrement à l'égard des couples homosexuels qui, ne pouvant se marier, souhaitent organiser leur vie commune par l'intermédiaire de ce contrat.
+
+Sept ans après l'adoption de la loi sur le pacte civil de solidarité et de ses décrets d'application, la Commission, comme le gouvernement et le législateur, souhaite tirer les conclusions de l'évolution des conditions, tant du point de vue de l'état de la société à l'égard du pacte civil de solidarité que du point de l'encadrement juridique de ce contrat, qui avaient pu, en 1999, justifié l'adoption de mesures de protection particulière au regard de la loi du 6 janvier 1978.
+
+La Commission considère que la modification du régime de publicité de la conclusion, de la modification et de la dissolution du pacte civil de solidarité par l'intermédiaire d'une mention marginale faisant apparaître l'identité de chaque partenaire ne justifie plus qu'une protection spécifique entoure la collecte et le traitement des données relatives aux pactes civils de solidarité et à leurs signataires, informations que tout requérant peut obtenir, le cas échéant, en demandant un extrait d'acte de naissance.
+
+Elle considère en conséquence que les modifications des registres informatisés des pactes civils de solidarité relèvent de la procédure de la déclaration ordinaire.
+
+Le président, Alex TURK.
