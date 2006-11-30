@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924586
+
+- Question : [SEQ060924586](seq060924586.md) — Mise en place d'un crédit d'impôt-création
+
+## Réponse
+
+*Industrie, JO du 2006-11-30, page 3011*
+
+Face à la concurrence des pays à faible coût de main-d'oeuvre, la mise en place d'une politique industrielle en faveur de la création et du design constitue un enjeu majeur pour nos entreprises. Au plan national, des mesures d'incitation fiscale ont été aménagées et créées afin de favoriser et défendre la création, source de compétitivité pour notre économie. Mis en place en 1999, le crédit d'impôt création (CIC) a été amélioré en 2006. Ces améliorations, adoptées en loi de finances pour l'année 2006, permettent désormais une meilleure prise en compte des dépenses en matière de protection et défense de la propriété industrielle. En effet, l'assiette des dépenses éligibles, jusqu'à présent restreinte aux seuls frais de dépôt de dessins et modèles, est étendue aux frais de défense dans la limite de 60 000 euros par an. La part en volume du CIC est, par ailleurs, doublée et portée de 5 % à 10 % des dépenses éligibles. Enfin, ce dispositif réservé jusque-là aux seuls lecteurs du textile, de l'habillement et du cuir a été élargi à l'ensemble des industries de mode et création (bijouterie, joaillerie, orfèvrerie, lunetterie, arts de la table, jouet, ameublement). Au plan européen, la France défend activement au sein des instances communautaires le concept d'innovation non technologique. Elle soutient en particulier l'idée d'une aide aux entreprises, non limitée au plafond « de minimis » de 100 000 euros sur trois ans. Les négociations en cours avec la Commission européenne et relatives à la révision du règlement d'exemption des aides d'Etat dites « de minimis » pourraient aboutir à un doublement du plafond ainsi porté à 200 000 euros sur trois ans.
