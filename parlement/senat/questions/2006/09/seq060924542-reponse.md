@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924542
+
+- Question : [SEQ060924542](seq060924542.md) — Moyens des troupes de l'opération Baliste au Liban
+
+## Réponse
+
+*Défense, JO du 2006-11-30, page 3007*
+
+Compte tenu des capacités opérationnelles importantes du bâtiment de projection et de commandement (BPC) « Mistral », la marine nationale a proposé son déploiement dans le cadre de l'opération Baliste, lancée en juillet 2006, au début de la crise au Proche-Orient, afin d'assurer la protection et l'évacuation des ressortissants français du Liban. L'appareillage du « Mistral » dans des délais très restreints, alors qu'il était toujours sous la garantie du constructeur, a nécessité la livraison, en urgence, de matériels afin de garantir, dans la durée, sa totale disponibilité. A cet effet, en accord avec la marine nationale, l'industriel a prélevé, en moins de quarante-huit heures, des matériels de rechange en provenance du BPC « Tonnerre ». Cette opération technique, qui a concerné six pièces de rechange sur les milliers existantes à bord du navire, est indépendante du processus administratif d'admission au service actif du BPC « Mistral ». Le déploiement de ce navire, d'une durée de quarante-cinq jours, a confirmé toutes ses qualités opérationnelles dans le cadre d'une telle opération : évacuation massive de ressortissants, assistance aux populations, soutien santé, gestion de crises, transport opérationnel et de fret. Sa disponibilité a été remarquable. Ce retour d'expérience démontre ainsi que, dans les circonstances de la crise au Proche-Orient, le choix d'utiliser ce bâtiment en voie d'admission au service actif, pour une mission parfaitement adaptée à ses capacités, était pertinent. Le déploiement du « Mistral » dans le cadre de l'opération Baliste a par ailleurs conforté les analyses du ministère de la défense ayant conduit à la réalisation de ce programme de bâtiment particulièrement novateur.
