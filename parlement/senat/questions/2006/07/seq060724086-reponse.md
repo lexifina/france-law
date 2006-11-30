@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724086
+
+- Question : [SEQ060724086](seq060724086.md) — Barème de notation
+
+## Réponse
+
+*Éducation, JO du 2006-11-30, page 3009*
+
+Pour les épreuves de l'examen du baccalauréat général et du baccalauréat technologique les correcteurs des épreuves écrites et les examinateurs pour les épreuves orales apprécient le travail des candidats par une note de 0 à 20 points entiers. Si l'exercice ou la composition comportent plusieurs parties les concepteurs des sujets déterminent un barème en fonction de l'importance accordée à chacune des parties de l'épreuve et la note est toujours calculée sur 20 points. Si le total des points attribués au candidat fait apparaître une évaluation en demi-point, la note finale de l'épreuve est ramenée au nombre de points entiers immédiatement supérieur. Les épreuves obligatoires sont affectées d'un coefficient multiplicateur qui en fixe le niveau d'importance par rapport à l'ensemble des épreuves de la série d'examen. Ce coefficient s'applique quelle que soit la valeur de la note. En revanche, pour les épreuves facultatives et l'épreuve de « travaux personnels encadrés » (TPE) seuls sont pris en compte les points au-dessus de la moyenne de 10 sur 20. Ils sont ensuite multipliés par 2 pour ce qui concerne les TPE et la première épreuve facultative, par 3 si cette épreuve facultative est le latin ou le grec ancien. En série « scientifique », par exemple, le candidat doit obtenir 250 ou 260 points, selon la spécialité choisie, pour réussir l'examen. Les résultats de la session 2006 ont montré que beaucoup d'académies ont obtenu un taux de réussite élevé dans cette série, parfois supérieur à 85 %. Dans certains cas, il a été constaté que des candidats particulièrement brillants étaient proches de 500 ou 520 points sans les points des épreuves facultatives et des TPE. L'addition de ces points leur a donc permis de dépasser 20 sur 20.
