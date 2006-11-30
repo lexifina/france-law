@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221604
+
+- Question : [SEQ060221604](seq060221604.md) — Délai de publication du décret d'application de l'article 130 de la loi n°2004-806 du 9 août 2004 relative à la politique de santé publique
+
+## Réponse
+
+*Santé et solidarités, JO du 2006-11-30, page 3014*
+
+L'article 130 de la loi n° 2004-806 du 9 août 2004 relative à la politique de santé publique a prévu que les techniciens de laboratoire peuvent effectuer les prélèvements de sang veineux ou capillaire au lobule de l'oreille, à la pulpe des doigts, au pli du coude, au dos de la main en région malléolaire en dehors du laboratoire ou des services d'analyses de biologie médicale en vue de telles analyses et sur prescription médicale, que ce soit au domicile du patient ou dans un établissement de soins privé ou public. Il prévoit que les conditions d'obtention du certificat de capacité de prélèvements seront complétées par un arrêté du ministre chargé de la santé et que les techniciens qui possèdent déjà le certificat de capacité de prélèvements à la date d'entrée en vigueur de la loi devront suivre une formation complémentaire dans des conditions fixées par arrêté du ministre chargé de la santé. Cet arrêté, daté du 13 mars 2006, est paru au Journal officiel du 20 avril 2006. Il a été modifié par un arrêté du 12 juillet 2006 paru au Journal officiel du 23 août 2006. Il fixe les nouvelles conditions de délivrance du certificat de capacité pour effectuer des prélèvements sanguins en vue d'analyses de biologie médicale qui incluent dans ces épreuves un stage comportant une formation de niveau 2 aux gestes et soins d'urgence, conforme à l'arrêté du 3 mars 2006 relatif à l'attestation de formation aux gestes et soins d'urgence. Il prévoit également les modalités selon lesquelles les techniciens titulaires du certificat pourront effectuer les prélèvements en cause.
