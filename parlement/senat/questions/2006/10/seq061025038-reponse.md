@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061025038
+
+- Question : [SEQ061025038](seq061025038.md) — Amélioration des compétences managériales des dirigeants des PME en phase de développement
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2006-11-30, page 3013*
+
+Le Gouvernement mesure la nécessité d'assurer aux chefs de petites et moyennes entreprises la meilleure formation en matière de gestion afin d'assurer la pérennité et le développement de leurs entreprises. En effet, la mise en place de formations initiales appropriées et de mesures d'accompagnement adaptées aux besoins des créateurs et des repreneurs d'entreprises permet de réduire de moitié les faillites pendant leurs premières années d'activité. Aussi, la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises a prévu que les actions de formation initiale et d'accompagnement dédiées aux matières transversales telles que la gestion, accomplies par les créateurs et repreneurs d'entreprises, pourront être prises en charge financièrement. Ainsi, les fonds d'assurance formation des chefs d'entreprise de l'artisanat et du commerce sont-ils tenus, par l'article 2 de la loi, de réserver un pourcentage de leurs ressources au financement de ce type d'action de formation. Pour les créateurs d'entreprises cette prise en charge financière est accordée sous réserve de l'inscription des bénéficiaires au répertoire des métiers ou au registre du commerce et des sociétés. Parallèlement, le contenu même des stages proposés aux créateurs et repreneurs d'entreprises par les réseaux consulaires (stage de préparation à l'installation pour les artisans, stage d'initiation à la gestion pour les commerçants) sera prochainement modifié, afin de les rendre encore plus efficaces. Le projet de décret permettant l'application de cette mesure est en cours d'examen par le Conseil d'Etat.
