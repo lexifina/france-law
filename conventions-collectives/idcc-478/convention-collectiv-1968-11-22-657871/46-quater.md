@@ -20,7 +20,7 @@ L'exercice du DIF peut s'articuler avec d'autres dispositifs de départ en forma
 
 3. Bénéficiaires
 
-Tout salarié titulaire d'un contrat à durée indéterminée (CDI), à temps complet ou à temps partiel et justifiant de 1 an d'ancienneté dans l'entreprise bénéficie du DIF. Pendant la suspension de son contrat de travail dans le cadre d'un congé parental, le salarié acquiert des droits au DIF à hauteur de 50 %.
+Tout salarié titulaire d'un contrat à durée indéterminée (CDI), à temps complet ou à temps partiel et justifiant de 1 an d'ancienneté dans l'entreprise bénéficie du DIF. La période d'absence du salarié pour un congé de maternité, d'adoption, de présence parentale ou pour un congé parental d'éducation est intégralement prise en compte.
 
 Les salariés en contrat à durée déterminée (CDD) bénéficient du DIF après 4 mois de présence consécutifs ou non dans l'entreprise, au cours des 12 derniers mois.
 
