@@ -46,7 +46,7 @@ Caserne Faucher à Bordeaux (33) |
 
 Ex-hôpital Bayen à Châlons-en-Champagne (51) |
 
-31 712 m2
+31 703 m2
 
 |
 
@@ -62,7 +62,7 @@ Casernement de la Fontaine du Berger à Orcines (63) |
 
 Détachement air 922 à Doullens (80) |
 
-119 121 m2
+119 643 m2
 
 |
 
