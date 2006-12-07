@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924509
+
+- Question : [SEQ060924509](seq060924509.md) — Le droit de choisir entre madame et mademoiselle
+
+## Réponse
+
+*Justice, JO du 2006-12-07, page 3058*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'emploi des termes « Madame » et « Mademoiselle » ne repose sur aucune disposition législative ou réglementaire. Résultant exclusivement de l'usage et ne constituant pas un élément de l'état civil, l'utilisation de l'une ou l'autre de ces appellations selon la situation matrimoniale de la femme ne peut, dès lors, être imposée. Par le passé, deux circulaires ont été adressées à l'ensemble des ministères afin de sensibiliser davantage les administrations publiques et de les inviter à faciliter, pour les femmes qui le souhaitent, l'emploi du terme « Madame ». Plus largement, il est recommandé aux différentes administrations d'éviter toute précision ou appellation susceptible de contraindre la divulgation de l'état matrimonial de l'intéressée dans ses relations avec les tiers, ce qui, outre son caractère attentoire à la vie privée de l'intéressée, peut être perçu comme vexatoire. Enfin, il n'existe pas en France de fichier informatique national alimentant les logiciels des différentes administrations. En revanche, il existe un répertoire national d'identification des personnes physiques (RNIPP) dans lequel sont inscrites les personnes nées sur le territoire de la République française et en tant que de besoin les personnes nées à l'étranger. Ce répertoire, dont le contenu est défini par le décret du 22 janvier 1982, comporte pour chaque personne son état civil (nom, prénoms, date et lieu de naissance), ainsi que le numéro d'inscription au répertoire (NIR) de treize chiffres. Il ne comporte pas d'information relative à la situation matrimoniale. Par ailleurs, ses conditions de consultation sont strictement encadrées par la loi.
