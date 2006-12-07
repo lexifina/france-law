@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523032
+
+- Question : [SEQ060523032](seq060523032.md) — Modalités d'assujettissement des travailleurs frontaliers à l'impôt sur le revenu
+
+## Réponse
+
+*Affaires européennes, JO du 2006-12-07, page 3044*
+
+La fiscalité directe relève en principe de la compétence des Etats membres et non de l'Union européenne. Ceux-ci doivent l'exercer dans le respect du droit communautaire, notamment des grands principes sur la liberté de circulation des personnes, des capitaux, des services et d'établissement. Au niveau international, le domaine des impôts directs est donc régi par les conventions fiscales bilatérales. Le modèle de convention fiscale de l'OCDE dont s'inspire la France prévoit en principe l'imposition des traitements et salaires privés sur le lieu d'exercice de l'activité. La France a cependant prévu des clauses spécifiques avec plusieurs de ses voisins, afin de permettre aux travailleurs frontaliers d'être imposables sur leur lieu de résidence. Ce n'est que la contrepartie des charges publiques liées aux résidents. Tel est le cas de la convention fiscale franco-belge du 10 mars 1964 modifiée. La Belgique a demandé en 2003 l'ouverture de négociations sur la suppression de ce régime. La France veillera au maintien du régime existant pour les travailleurs frontaliers qui en bénéficient aujourd'hui et, en tout état de cause, en l'absence de conclusion d'une nouvelle convention, le régime actuel continue de s'appliquer. Il apparaît toutefois que l'administration fiscale belge fait une application plus restrictive qu'auparavant de ce régime, notamment sur le périmètre frontalier visé par l'accord. La France a donc fait part à la Belgique des difficultés engendrées par ces évolutions récentes et proposé de nouvelles discussions visant à assurer le respect de l'esprit des textes en vigueur.
