@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924532
+
+- Question : [SEQ060924532](seq060924532.md) — Récupération de la TVA lors de la vente de véhicules automobiles à l'étranger
+
+## Réponse
+
+*Budget, JO du 2006-12-07, page 3049*
+
+Il ressort des dispositions de la directive n° 77/388/CEE du 17 mai 1977 modifiée que les règles de taxe sur la valeur ajoutée (TVA) s'appliquent dans les mêmes conditions aux livraisons de bateaux et de véhicules automobiles. Elles varient toutefois selon qu'il s'agit de biens neufs ou d'occasion. Les livraisons de moyens de transport neufs réalisées à destination d'un assujetti dans un autre Etat membre de la Communauté européenne, d'une part, et les livraisons à l'exportation, d'autre part, ouvrent droit à déduction ou au remboursement de la TVA acquittée au titre de l'achat du moyen de transport dans les conditions de droit commun, alors même qu'elles sont exonérées de TVA. Les livraisons de moyens de transport d'occasion acquis auprès d'assujettis ayant eu la possibilité de déduire, même partiellement, la taxe afférente à l'achat du véhicule, à savoir les assujettis revendeurs ou utilisateurs qui ont réalisé des importations, des acquisitions intracommunautaires taxées ou des achats de biens auprès d'assujettis ayant facturé de la taxe au titre de sa livraison, suivent le même régime que celui des livraisons de moyens de transport neufs. En revanche, les livraisons de moyens de transport d'occasion réalisées par des assujettis revendeurs de véhicules acquis sans TVA auprès d'un non-redevable de la taxe ou d'une personne qui n'est pas autorisée à la facturer sont soumises à la TVA selon le régime de la marge qui correspond à la différence entre le prix de vente et le prix d'achat du bien d'occasion. Par ailleurs, les assujettis revendeurs peuvent appliquer le régime général de la TVA pour chaque livraison de bien d'occasion.
