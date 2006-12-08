@@ -532,17 +532,19 @@ Si le flux horaire total de COV (cf. note 1) dépasse 2 Kg/h, la valeur limite e
 
 II. - Cas particuliers pour certaines activités de revêtement :
 
-Application de revêtement adhésif sur support quelconque :
+II.1 Application de revêtement adhésif sur support quelconque :
 
 (Toute activité dans laquelle une colle est appliquée sur une surface, à l'exception des revêtements et des adhésifs entrant dans des procédés d'impression.)
 
 - si la consommation de solvants est supérieure à 5 tonnes par an et inférieure ou égale à 15 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 50 mg/m³. En cas d'utilisation d'une technique permettant la réutilisation des solvants récupérés, la valeur limite d'émission exprimée en carbone total est de 150 mg/m³, sauf en cas d'utilisation de composés mentionnés au IV et V ci-après ;
 
+Le flux annuel des émissions diffuses ne doit pas dépasser 25 % de la quantité de solvants utilisée ;
+
 - si la consommation de solvants est supérieure à 15 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 50 mg/m³. En cas d'utilisation d'une technique permettant la réutilisation des solvants récupérés, la valeur limite d'émission canalisée exprimée en carbone total est de 150 mg/m³, sauf en cas d'utilisation de composés mentionnés au IV et V ci-après.
 
 Le flux annuel des émissions diffuses ne doit pas dépasser 20 % de la quantité de solvants utilisée.
 
-Application de revêtement sur un support en bois :
+II.2 Application de revêtement sur un support en bois :
 
 - si la consommation de solvants est supérieure à 15 tonnes par an et inférieure ou égale à 25 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 100 mg/m³ pour l'ensemble des activités de séchage et d'application du revêtement dans des conditions maîtrisées.
 
@@ -552,7 +554,7 @@ Le flux annuel des émissions diffuses ne doit pas dépasser 25 % de la quantit�
 
 Le flux annuel des émissions diffuses ne doit pas dépasser 20 % de la quantité de solvants utilisée.
 
-Application de revêtement, notamment sur support métal, plastique, textile, carton, papier, à l'exception des activités couvertes par les rubriques 2445, 2450 et 2930 de la nomenclature des installations classées :
+II.3 Application de revêtement, notamment sur support métal, plastique, textile, carton, papier, à l'exception des activités couvertes par les rubriques 2445, 2450 et 2930 de la nomenclature des installations classées :
 
 - si la consommation de solvants est supérieure à 5 tonnes par an et inférieure ou égale à 15 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimés en carbone total, est de 100 mg/m³. Cette valeur s'applique à l'ensemble des activités de séchage et d'application, effectuées dans des conditions maîtrisées.
 
@@ -566,23 +568,27 @@ Le flux annuel des émissions diffuses ne doit pas dépasser 20 % de la quantit�
 
 Lorsque les activités de revêtement ne peuvent pas être réalisées dans des conditions maîtrisées (telles que la construction navale, le revêtement des aéronefs...), l'exploitant peut déroger à ces valeurs, s'il est prouvé que l'installation ne peut, d'un point de vue technique et économique, respecter cette valeur, pour autant qu'il n'y ait pas de risques significatifs pour la santé humaine ou l'environnement. L'exploitant devra démontrer qu'il fait appel aux meilleures techniques disponibles. On entend par "conditions maîtrisées" , les conditions selon lesquelles une installation fonctionne de façon à ce que les COV libérés par l'activité soient captés et émis de manière contrôlée, par le biais soit d'une cheminée, soit d'un équipement de réduction, et ne soient, par conséquent, plus entièrement diffus.
 
-Application de revêtement sur fil de bobinage (toute activité de revêtement de conducteurs métalliques utilisés pour le bobinage des transformateurs, des moteurs par exemple).
+II.4 Application de revêtement sur fil de bobinage (toute activité de revêtement de conducteurs métalliques utilisés pour le bobinage des transformateurs, des moteurs par exemple).
 
 Si la consommation de solvants est supérieure à 5 tonnes par an, le total des émissions de COV (canalisées et diffuses) est inférieur ou égal à 10 grammes par kilogramme de fil revêtu si le diamètre du fil est inférieur ou égal à 0,1 millimètre et de 5 grammes par kilogramme de fil revêtu pour les fils de diamètre supérieur.
 
-Laquage en continu (toute activité dans laquelle une bobine de feuillard, de l'acier inoxydable, de l'acier revêtu ou une bande en alliage de cuivre ou en aluminium est revêtu d'un ou plusieurs films dans un procédé continu).
+II.5 Laquage en continu (toute activité dans laquelle une bobine de feuillard, de l'acier inoxydable, de l'acier revêtu ou une bande en alliage de cuivre ou en aluminium est revêtu d'un ou plusieurs films dans un procédé continu).
 
 Si la consommation de solvants est supérieure à 25 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 50 mg/m³. En cas d'utilisation d'une technique permettant la réutilisation du solvant récupéré, la valeur limite d'une émission canalisée, exprimée en carbone total, est de 150 mg/m³, sauf en cas d'utilisation de produits mentionnés au IV et V ci-après.
 
 Pour les installations déclarées avant le 1er janvier 2001, le flux annuel des émissions diffuses ne dépasse pas 10 % de la quantité de solvants utilisée.
 
-Pour les installations déclarées à compter du 1er janvier 2001, le flux annuel des émissions diffuses ne dépasse pas 10 % de la quantité de solvants utilisée.
+Pour les installations déclarées à compter du 1er janvier 2001, le flux annuel des émissions diffuses ne dépasse pas 5 % de la quantité de solvants utilisée.
+
+II.6. - Stratification de bois ou de plastique :
+
+Si la consommation de solvants est supérieure à 5 tonnes par an, le total des émissions de COV (canalisées et diffuses) est inférieur ou égal à 30 grammes par mètre carré de bois ou de plastique stratifié.
 
 III. - Valeurs limites d'émission en COV, NOx, CO et CH4 en cas d'utilisation d'une technique d'épuration des émissions canalisées par oxydation thermique :
 
 Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination des COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m³ ou 50 mg par m³ si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation.
 
-Dans le cadre de l'étude d'impact prévue à l'article 3.4 du décret du 21 septembre 1977 susvisé, l'exploitant examine notamment la possibilité d'installer un dispositif de récupération secondaire d'énergie. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
+En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
 - (cf. note 2) NOx (en équivalent NO2) : 100 mg par m³ ;
 
