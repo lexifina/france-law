@@ -1,0 +1,7 @@
+# Article IV.3
+
+Pour les salariés engagés sous contrat à durée indéterminée, le salaire minimum applicable est augmenté de 3 % après 12 mois d'ancienneté dans l'entreprise. Cette augmentation de 3 % du salaire minimum est applicable dès l'embauche du salarié, si celui-ci peut justifier d'une ancienneté dans la fonction et dans la branche de 3 ans. Le salarié devra alors justifier de ses périodes d'emploi dans la fonction et dans la branche, étant entendu que les périodes de travail sous CDDU seront prises en compte à hauteur de 2 fois leur durée nominale.
+
+Pour les salariés engagés sous contrat à durée indéterminée, le salaire minimum applicable est augmenté de 6 % (incluant les 3 % ci-dessus) après 4 années d'ancienneté dans la fonction au sein de l'entreprise. Il est en outre augmenté de 10 % (incluant les 6 % ci-dessus) après 8 années d'ancienneté dans la fonction au sein de l'entreprise. Les salariés dont le salaire d'embauche, ou le salaire lors de l'accès à la fonction, est inférieur à 1,5 fois le salaire minimum applicable, devront bénéficier, après 4 années d'ancienneté dans la fonction au sein de l'entreprise, d'un salaire au moins égal à 106 % de leur salaire d'embauche ou d'accès à la fonction et, après 8 années d'ancienneté dans la fonction au sein de l'entreprise, d'un salaire au moins égal à 110 % de leur salaire d'embauche ou d'accès à la fonction.
+
+(1) Article étendu sous réserve de l'application des dispositions de l'article L. 122-3-3 du code du travail (arrêté du 24 juillet 2007, art. 1er).

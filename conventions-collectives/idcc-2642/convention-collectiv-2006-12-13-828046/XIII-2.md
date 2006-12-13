@@ -1,0 +1,3 @@
+# Article XIII.2
+
+La présente convention est conclue pour une durée indéterminée.
