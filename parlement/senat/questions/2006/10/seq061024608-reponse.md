@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024608
+
+- Question : [SEQ061024608](seq061024608.md) — Situation de l'industrie papetière
+
+## Réponse
+
+*Économie, JO du 2006-12-14, page 3102*
+
+Les entreprises productrices de papiers et cartons ont subi la baisse des prix de vente et une augmentation de leurs coûts de production, notamment un renchérissement très important du prix de l'électricité. Aussi le Gouvernement a proposé, à l'issue d'une table ronde avec les industriels intéressés et les producteurs d'énergie, la création d'un consortium des entreprises « électro-intensives ». Ce dispositif, permis par la loi de finances rectificative pour 2005, vise à permettre à ces entreprises d'obtenir les meilleurs prix et une visibilité grâce à la conclusion de contrats d'approvisionnement à long terme. Pour les entreprises qui ont fait jouer leur éligibilité, le projet de loi relatif au secteur de l'énergie, adopté le 8 novembre 2006 par le Parlement, crée un tarif réglementé transitoire d'ajustement du marché dont elles peuvent bénéficier à leur demande auprès de leur fournisseur. Ce tarif, établi par arrêté du ministre chargé de l'énergie, ne peut être supérieur de plus de 25 % au tarif réglementé de vente hors taxes applicable à un site de consommation présentant les mêmes caractéristiques. Ce tarif s'applique de plein droit aux contrats en cours. Toute entreprise qui en fait la demande avant le 1er juillet 2007 peut en bénéficier pour une durée de deux ans renouvelable. L'ensemble de ces dispositions, en visant à assurer un prix compétitif de l'énergie contribue à une politique énergétique conforme aux objectifs définis par la loi de programme du 13 juillet 2005. Par ailleurs, un effort particulier a été fait pour favoriser l'investissement des entreprises, notamment en allégeant la taxe professionnelle.
