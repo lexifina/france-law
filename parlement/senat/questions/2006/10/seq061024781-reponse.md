@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024781
+
+- Question : [SEQ061024781](seq061024781.md) — TVA sur les travaux d'ébénisterie
+
+## Réponse
+
+*Économie, JO du 2006-12-21, page 3170*
+
+Les travaux de menuiserie et d'ébénisterie ne figurent pas en tant que tels sur la liste communautaire des biens et services susceptibles de bénéficier du taux réduit prévu par la directive n° 92/77 du 19 octobre 1992 relative au rapprochement des taux de taxe sur la valeur ajoutée (TVA) dans la communauté européenne (annexe H). Ils relèvent par conséquent du taux normal de la taxe. Cela étant, s'ils consistent en des travaux d'amélioration, de transformation, d'aménagement et d'entretien des locaux d'habitation achevés depuis plus de deux ans, ils peuvent être soumis au taux réduit de TVA prévu par l'article 279-0 bis du code général des impôts (CGI) qui transpose la directive n° 99/85 du 22 octobre 1999, autorisant l'application à titre expérimental d'un taux réduit de TVA à certains services à forte densité de main-d'oeuvre au nombre desquels figurent les travaux de réparation et de rénovation de logements privés. Cette mesure est de portée générale et s'applique à tous les locaux affectés à l'habitation répondant à cette condition d'ancienneté, quelles que soient par ailleurs leurs caractéristiques, y compris lorsqu'ils présentent un intérêt historique ou patrimonial. Le taux réduit de TVA s'applique notamment aux travaux de menuiserie et d'ébénisterie portant sur des équipements incorporés au bâti et adaptés à la configuration des locaux, c'est-à-dire destinés à demeurer durablement à leur emplacement initial sans pouvoir être démontés et récupérés pour être réinstallés ailleurs en l'état. Les travaux portant sur des biens mobiliers relèvent en revanche dans tous les cas du taux normal de la taxe.
