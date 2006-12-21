@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050617952
+
+- Question : [SEQ050617952](seq050617952.md) — Seconde part de l'aide publique de l'Etat aux partis politiques
+
+## Réponse
+
+*Intérieur, JO du 2006-12-21, page 3176*
+
+Un seul parlementaire (1 sénateur) ne s'est rattaché à aucun parti politique pour l'attribution de la seconde fraction de l'aide publique au titre de l'année 2006. On en comptait deux (1 député et 1 sénateur) en 2005, dix (10 sénateurs) en 2004, treize (2 députés et 11 sénateurs) en 2003, vingt-quatre (13 députés et 11 sénateurs) en 2002, douze (2 députés et 10 sénateurs) en 2001, treize (2 députés et 11 sénateurs) en 2000, onze (1 député et 10 sénateurs) en 1999, quatorze (3 députés et 11 sénateurs) en 1998, douze (1 député et 11 sénateurs) en 1997, vingt-six (13 députés et 13 sénateurs) en 1996, trente (9 députés et 21 sénateurs) en 1995, trente et un (8 députés et 23 sénateurs) en 1994 et trente-quatre (11 députés et 23 sénateurs) en 1993, date du premier renouvellement de l'Assemblée nationale suivant l'entrée en vigueur de la loi n° 90-55 du 15 janvier 1990 relative à la limitation des dépenses électorales et à la clarification du financement des activités politiques. Aux termes de l'article 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique, la seconde fraction de l'aide publique est attribuée aux partis et groupements politiques bénéficiaires de la première fraction, proportionnellement au nombre de députés et de sénateurs qui ont déclaré au bureau de leur assemblée y être inscrits ou s'y rattacher. Le nombre de parlementaires ne s'étant revendiqués d'aucun parti politique n'entre donc pas en compte dans le calcul du montant des sommes attribuées à chaque parti ou groupement politique au titre de la seconde fraction de l'aide publique.
