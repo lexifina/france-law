@@ -2,11 +2,11 @@
 
 Préciser dans le texte l'organisme qui assure la maîtrise d'oeuvre de l'identification.
 
-Engagement de l'agent identificateur auprès de l'établissement départemental/interdépartemental de l'élevage ou du maître d'oeuvre de l'identification délégué.
+Engagement de l'agent identificateur auprès de l'établissement de l'élevage ou du maître d'oeuvre de l'identification délégué.
 
-Entre M. ..., agent identificateur, et ..., établissement départemental ou interdépartemental de l'élevage ou maître d'oeuvre de l'identification dans le département de ...
+Entre M. ..., agent identificateur, et ..., établissement de l'élevage ou maître d'oeuvre de l'identification dans le département de ...
 
-Je soussigné, M. ..., déclare avoir pris connaissance des documents explicatifs, délivrés par l'établissement départemental ou interdépartemental de l'élevage ou le maître d'oeuvre de l'identification, relatifs aux opérations d'identification des bovins et de l'obligation qui m'est faite d'accomplir ces opérations d'identification telles que prévues par le cahier des charges national validé par le ministre chargé de l'agriculture, réalisé en conformité avec la réglementation communautaire et nationale en vigueur.
+Je soussigné, M. ..., déclare avoir pris connaissance des documents explicatifs, délivrés par l'établissement de l'élevage ou le maître d'oeuvre de l'identification, relatifs aux opérations d'identification des bovins et de l'obligation qui m'est faite d'accomplir ces opérations d'identification telles que prévues par le cahier des charges national validé par le ministre chargé de l'agriculture, réalisé en conformité avec la réglementation communautaire et nationale en vigueur.
 
 Ces obligations portent plus particulièrement sur les points suivants :
 
@@ -42,12 +42,12 @@ Restitution du matériel d'identification
 
 Dispositions générales
 
-10. Je suis informé qu'en cas de non-respect de mes obligations mon habilitation peut être suspendue temporairement ou retirée définitivement par le directeur de l'établissement départemental ou interdépartemental de l'élevage, sans préjudice des actions encourues au titre du décret n° 98-764 du 28 août 1998 et de l'article 444-4 du code pénal, lors de toute constatation de non-respect des termes de mon engagement.
+10. Je suis informé qu'en cas de non-respect de mes obligations mon habilitation peut être suspendue temporairement ou retirée définitivement par le directeur de l'établissement de l'élevage, sans préjudice des actions encourues au titre du décret n° 98-764 du 28 août 1998 et de l'article 444-4 du code pénal, lors de toute constatation de non-respect des termes de mon engagement.
 
 Date et signature.
 
 Vu l'agent identificateur.
 
-Vu l'établissement départemental ou interdépartemental de l'élevage (ou le maître d'oeuvre de l'identification).
+Vu l'établissement de l'élevage (ou le maître d'oeuvre de l'identification).
 
-Après réception par l'établissement départemental ou interdépartemental de l'élevage de la déclaration signée, un exemplaire est remis à l'agent identificateur.
+Après réception par l'établissement de l'élevage de la déclaration signée, un exemplaire est remis à l'agent identificateur.

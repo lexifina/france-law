@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-I-A. - Déclaration du détenteur-éleveur auprès de l'établissement départemental/interdépartemental de l'élevage
+I-A. - Déclaration du détenteur-éleveur auprès de l'établissement de l'élevage
 
 Préciser dans le texte l'organisme qui assure la maîtrise d'oeuvre de l'identification
 
@@ -68,7 +68,7 @@ Restitution du matériel d'identification
 
 Dispositions générales
 
-18. Sur demande d'un agent mandaté par l'établissement départemental ou interdépartemental de l'élevage ou le maître d'oeuvre délégué le cas échéant ou de tout agent mandaté de la direction départementale des services vétérinaires ou de la direction départementale de l'agriculture et de la forêt, communiquer toute information utile et présenter tous mes animaux, toutes les marques auriculaires agréées en stock ainsi que tous les documents d'identification dont je dispose.
+18. Sur demande d'un agent mandaté par l'établissement de l'élevage ou le maître d'oeuvre délégué le cas échéant ou de tout agent mandaté de la direction départementale des services vétérinaires ou de la direction départementale de l'agriculture et de la forêt, communiquer toute information utile et présenter tous mes animaux, toutes les marques auriculaires agréées en stock ainsi que tous les documents d'identification dont je dispose.
 
 19. Faciliter l'accès à mes animaux en assurant notamment leur contention.
 
@@ -84,11 +84,11 @@ Date et signature.
 
 Vu le détenteur.
 
-Vu l'établissement départemental ou interdépartemental de l'élevage.
+Vu l'établissement de l'élevage.
 
-Après réception par l'établissement départemental ou interdépartemental de l'élevage de la déclaration signée, un exemplaire est remis au détenteur.
+Après réception par l'établissement de l'élevage de la déclaration signée, un exemplaire est remis au détenteur.
 
-I-B. - Déclaration du détenteur-opérateur commercial auprès de l'établissement départemental/interdépartemental de l'élevage
+I-B. - Déclaration du détenteur-opérateur commercial auprès de l'établissement de l'élevage
 
 Préciser dans le texte l'organisme qui assure la maîtrise d'oeuvre de l'identification.
 
@@ -136,7 +136,7 @@ Circulation des animaux
 
 Dispositions générales
 
-13. Sur demande d'un agent mandaté par l'établissement départemental ou interdépartemental de l'élevage ou le maître d'oeuvre délégué le cas échéant ou de tout agent mandaté de la direction départementale des services vétérinaires ou de la direction départementale de l'agriculture et de la forêt, communiquer toute information utile et présenter tous mes animaux ainsi que tous les documents d'identification dont je dispose.
+13. Sur demande d'un agent mandaté par l'établissement de l'élevage ou le maître d'oeuvre délégué le cas échéant ou de tout agent mandaté de la direction départementale des services vétérinaires ou de la direction départementale de l'agriculture et de la forêt, communiquer toute information utile et présenter tous mes animaux ainsi que tous les documents d'identification dont je dispose.
 
 14. Faciliter l'accès à mes animaux en assurant notamment leur contention.
 
@@ -148,6 +148,6 @@ Date et signature.
 
 Vu le détenteur.
 
-Vu l'établissement départemental ou interdépartemental de l'élevage.
+Vu l'établissement de l'élevage.
 
-Après réception par l'établissement départemental ou interdépartemental de l'élevage de la déclaration signée, un exemplaire est remis au détenteur.
+Après réception par l'établissement de l'élevage de la déclaration signée, un exemplaire est remis au détenteur.

@@ -12,13 +12,13 @@ Tenir à jour un registre des montes naturelles ou artificielles pour toutes les
 
 En cas de monte naturelle, ou de monte artificielle privée avec une mise en place de la semence assurée par mes soins, transmettre à les informations relatives à la monte de chacune de ces femelles au plus tard dans le mois qui précède la naissance présumée de leur veau ;
 
-Informer l'établissement départemental ou interdépartemental de l'élevage de la constitution et de l'épuisement d'un stock de semences destiné à l'insémination artificielle, en monte privée ;
+Informer l'établissement de l'élevage de la constitution et de l'épuisement d'un stock de semences destiné à l'insémination artificielle, en monte privée ;
 
 Transmettre pour chaque naissance à ..., en même temps que les informations relatives à l'identification, les informations nécessaires à la certification des filiations, ainsi que les informations complémentaires, au plus vite et au plus tard dans les sept jours suivant la naissance, selon les modalités techniques définies par l'EDE ;
 
-Accepter la visite de tout agent mandaté par l'établissement départemental ou interdépartemental de l'élevage ou par l'institut de l'élevage ;
+Accepter la visite de tout agent mandaté par l'établissement de l'élevage ou par l'institut de l'élevage ;
 
-Sur demande d'un agent mandaté par l'établissement départemental ou interdépartemental de l'élevage ou par l'institut de l'élevage, communiquer toute information dont je dispose, utile à la mise en oeuvre des procédures de certification, et présenter tous mes animaux soumis à ce dispositif de certification, en en facilitant l'accès et en assurant, notamment, leur contention ;
+Sur demande d'un agent mandaté par l'établissement de l'élevage ou par l'institut de l'élevage, communiquer toute information dont je dispose, utile à la mise en oeuvre des procédures de certification, et présenter tous mes animaux soumis à ce dispositif de certification, en en facilitant l'accès et en assurant, notamment, leur contention ;
 
 Payer à les sommes ... dont je suis redevable pour les opérations de certification, sur présentation de la facture correspondante ;
 
@@ -28,6 +28,6 @@ Date et signature : ...
 
 Vu le détenteur-naisseur : ...
 
-Vu l'établissement départemental ou interdépartemental de l'élevage : ...
+Vu l'établissement de l'élevage : ...
 
-Après réception par l'établissement départemental ou interdépartemental de l'élevage de la déclaration signée, un exemplaire est remis au détenteur-naisseur.
+Après réception par l'établissement de l'élevage de la déclaration signée, un exemplaire est remis au détenteur-naisseur.

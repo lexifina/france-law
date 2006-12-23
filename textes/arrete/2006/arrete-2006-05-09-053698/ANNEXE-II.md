@@ -14,9 +14,9 @@ Le directeur départemental des impôts ou son représentant.
 
 Représentants des organisations professionnelles départementales
 
-Le président de l'établissement départemental ou interdépartemental de l'élevage ou son représentant.
+Le président de l'établissement de l'élevage ou son représentant.
 
-Le directeur de l'établissement départemental ou interdépartemental de l'élevage ou son représentant.
+Le directeur de l'établissement de l'élevage ou son représentant.
 
 Le président de la chambre d'agriculture ou son représentant.
 
@@ -46,6 +46,6 @@ Un représentant des associations d'éleveurs agréées.
 
 Un représentant des vétérinaires praticiens.
 
-Le secrétariat de la commission est assuré par le directeur de l'établissement départemental ou interdépartemental de l'élevage.
+Le secrétariat de la commission est assuré par le directeur de l'établissement de l'élevage.
 
 La commission départementale peut s'entourer de personnalités choisies en raison de leur compétence et qui siègent avec voix consultative.
