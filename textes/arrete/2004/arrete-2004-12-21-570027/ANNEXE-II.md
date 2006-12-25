@@ -118,6 +118,8 @@ Directeur hors classe
 
 |
 
+10
+
 |
 
 |
@@ -563,6 +565,8 @@ Conseillers techniques de service social
 |
 
 |
+
+1
 
 |
 
