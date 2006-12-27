@@ -22,9 +22,9 @@ b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92
 
 II. - Le tarif de la taxe est le suivant :
 
-3,92 Euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+3,92 euros par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, ou de la Confédération suisse ;
 
-7,04 Euros par passager embarqué vers d'autres destinations ;
+7,04 euros par passager embarqué vers d'autres destinations ;
 
 1,17 euro par tonne de courrier ou de fret embarquée.
 
@@ -76,8 +76,8 @@ b) Le délai maximum entre les heures programmées respectives de l'arrivée et 
 
 c) L'aéroport de destination finale est distinct de celui de provenance initiale et ne fait pas partie du même système aéroportuaire.
 
-Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées mensuellement à l'Agence française de développement.
+Ces sommes sont recouvrées dans les conditions fixées au V. Elles sont reversées mensuellement à l'Agence française de développement (1).
 
 NOTA :
 
-NOTA : Loi n° 2005-1720 du 30 décembre 2005, art. 22 III : le VI de l'article 302 bis K est applicable à compter du 1er juillet 2006.
+(1) Ces dispositions sont applicables à compter du 1er juillet 2006.
