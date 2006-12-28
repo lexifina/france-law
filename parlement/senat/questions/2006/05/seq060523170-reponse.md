@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060523170
+
+- Question : [SEQ060523170](seq060523170.md) — Accueil éducatif collectif des enfants de moins de six ans
+
+## Réponse
+
+*Jeunesse et sports, JO du 2006-12-28, page 3229*
+
+L'article 10 de l'ordonnance n° 2055-1092 du 1er septembre 2005 limite l'accès des accueils collectifs à caractère éducatif aux seuls enfants scolarisés, s'ils ont moins de six ans, modifiant ainsi l'article L. 2324-1 du code de la santé publique. Cette ordonnance a d'abord modifié les articles L. 227-4 et suivants du code de l'action sociale et des familles qui confient au représentant de l'Etat dans le département la protection des mineurs accueillis collectivement hors du domicile parental à l'occasion des vacances scolaires, des congés professionnels ou des loisirs et fixent notamment l'âge minimum de référence à l'âge d'entrée à l'école maternelle, soit deux ou trois ans selon les cas. En effet, l'accueil de loisirs tel qu'il est défini à l'article R. 227-1 du code de l'action sociale et des familles ne peut qu'être complémentaire de l'école. Dans la très grande majorité des cas, les enfants de moins de six ans sont scolarisés à l'école maternelle. A défaut, ils restent accueillis dans des garderies traditionnelles de type crèches ou haltes garderies. Celles-ci sont placées sous le contrôle du président du conseil général et bénéficient du concours de personnels capables d'assurer un accompagnement de qualité adapté à la petite enfance. En conséquence, l'article 10 précité vise la seule mise en cohérence du code de la santé publique avec le code de l'action sociale et des familles sur l'aspect relatif à l'âge des enfants accueillis. Ce faisant, l'Etat réaffirme la spécificité de chacun de ces accueils de manière à ce que des modes de garde adaptés aux âges des enfants soient proposés aux parents.
