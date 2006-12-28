@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024866
+
+- Question : [SEQ061024866](seq061024866.md) — Documents de travail rédigés en langue française pour les manifestations scientifiques sur le territoire français
+
+## Réponse
+
+*Éducation, JO du 2006-12-28, page 3227*
+
+Le programme-cadre pour la recherche et le développement vise à mobiliser la recherche européenne pour la rendre plus performante et compétitive en rassemblant dans chaque thématique la « masse critique » de spécialistes dispersée à travers l'Europe. En visant cet objectif, la Commission européenne (CE) met en place des projets de recherche impliquant au moins trois États membres de l'Union européenne (UE). Le contrat type existe dans toutes les langues de l'UE. Cependant, afin de pouvoir répondre dans les temps à la demande des sujets de recherche où la compétition internationale exige la mise en place rapide des moyens, la CE élabore un premier document, en adaptant le contrat type, dans une seule langue. Le choix de l'anglais est dicté par le texte scientifique spécialisé soumis à l'appel à projets de la CE. En effet, pour assurer une évaluation internationale équitable des projets soumis, il est suggéré aux postulants de soumettre leur texte en anglais afin d'éviter les problèmes d'évaluation introduits par la qualité de la traduction. Le texte de la convention, ainsi préparé rapidement en anglais, est par la suite signé par tous les partenaires de tous les pays. Il faut noter que, lors de cette signature, le Centre national de la recherche scientifique (CNRS) demande systématiquement à la CE l'envoi, par la suite, du texte français de la convention. Le CNRS est le premier organisme de recherche européen en termes d'engagements dans la recherche collaborative européenne, ayant signé plus de 670 contrats de recherche avec la Commission européenne dans le 6e programme-cadre. Cela témoigne de sa qualité et de son attractivité vis-à-vis de ses partenaires scientifiques.
