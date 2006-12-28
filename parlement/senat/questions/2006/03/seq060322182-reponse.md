@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060322182
+
+- Question : [SEQ060322182](seq060322182.md) — Relance de l'éducation prioritaire
+
+## Réponse
+
+*Éducation, JO du 2006-12-28, page 3225*
+
+Le 8 février 2006, après deux mois de réflexion et de concertation avec les organisations syndicales et les fédérations de parents d'élèves, le plan de relance de l'éducation prioritaire a été présenté. Une nouvelle carte de l'éducation prioritaire se dessine, gouvernée par une nouvelle logique. Elle s'appuie sur un renforcement du pilotage tant national que local, et vise des publics et non pas seulement des territoires. En effet, il s'agit de donner vraiment plus à ceux qui en ont vraiment besoin selon des critères nationaux objectifs, précis et pertinents, tant sociaux que scolaires, devant traduire fidèlement la situation concrète des élèves. 249 réseaux « ambition réussite », constituant le premier niveau de la nouvelle architecture de l'éducation prioritaire (EP1), ont ainsi été créés. Ces établissements scolaires voient leurs moyens renforcés en raison des difficultés sociales et scolaires particulièrement importantes que rencontrent les élèves accueillis en leur sein. Les autres établissements scolaires actuellement en éducation prioritaire y sont maintenus. D'une part, il n'y a pas eu de sortie du champ de l'éducation prioritaire à la rentrée 2006 et, d'autre part, il pourra être décidé au niveau académique, pour tous les établissements, d'adapter les dotations afin de tenir compte des difficultés et des besoins des élèves. A partir de la rentrée scolaire 2007, les établissements susceptibles de sortir du champ de l'éducation prioritaire seront uniquement ceux qui auront vu leur environnement socio-économique s'améliorer de manière significative, sur la base d'une méthode concertée et contractualisée.
