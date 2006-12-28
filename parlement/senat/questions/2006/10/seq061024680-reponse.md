@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024680
+
+- Question : [SEQ061024680](seq061024680.md) — Situation des étrangers incorporés dans les formations de travailleurs entre 1940 et 1944
+
+## Réponse
+
+*Anciens combattants, JO du 2006-12-28, page 3217*
+
+Le ministre délégué aux anciens combattants tient à préciser à l'honorable parlementaire qu'aucun statut ne prend en compte la situation des personnes ayant été contraintes de travailler pour l'organisation Todt sur le territoire français, dans ses frontières de 1940, qu'elles soient de nationalité française ou non. Seuls le préjudice et les dommages subis par les personnes transférées, par contrainte, et astreintes au travail dans les pays ennemis, les pays étrangers occupés par l'ennemi ou les départements du Bas-Rhin, du Haut-Rhin et de la Moselle annexés de fait par l'ennemi, ont été réparés par le législateur par la loi n° 51-538 du 14 mai 1951 portant création du statut des personnes contraintes au travail en pays ennemi. Les étrangers de nationalité britannique, polonaise et tchécoslovaque, les apatrides ayant possédé l'une de ces nationalités ainsi que les réfugiés statutaires (Allemands, Arméniens, Espagnols, Russes,...) peuvent au même titre que les Français et les ressortissants des pays d'outre-mer prétendre au statut de personnes contraintes au travail en pays ennemi. Il en est de même pour le statut des réfractaires qui a reconnu le geste de ceux qui, par patriotisme et malgré les sanctions qu'ils encouraient et les recherches dont ils seraient l'objet, ont volontairement enfreint, avant le 6 juin 1944, l'obligation qui leur était faite, sous la contrainte, de participer, en quelque pays que ce soit, territoire métropolitain compris, à l'activité d'entreprise dont la production était directement ou indirectement profitable à l'économie de guerre de l'Allemagne.
