@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924343
+
+- Question : [SEQ060924343](seq060924343.md) — Affiliation à la sécurité sociale
+
+## Réponse
+
+*Sécurité sociale, JO du 2006-12-28, page 3239*
+
+En France, comme dans de nombreux pays européens, l'affiliation à un régime de sécurité sociale déterminé par la loi est obligatoire. C'est la mise en oeuvre du choix fait, dès 1945, d'organiser une sécurité sociale protégeant solidairement l'ensemble de la population quelles que soient les caractéristiques d'âge ou de santé des citoyens. En conséquence, la personne qui exerce son activité en France est obligatoirement affiliée au régime légal de sécurité sociale dont elle relève (régime général des salariés, régime de non-salariés, régimes spéciaux). Et, à ce titre, elle est assujettie aux cotisations de sécurité sociale, à la CSG et à la CRDS. Ces obligations d'affiliation et de cotisation aux régimes de sécurité sociale sont en conformité avec les règles européennes : d'une part, le respect de la législation de sécurité sociale du pays où s'exerce l'activité est à la base du règlement communautaire n° 1408/71 qui organise la coordination des régimes de sécurité sociale des travailleurs migrants ; d'autre part, la Cour de justice des Communautés européennes a confirmé que les règles de la concurrence du traité et les directives relatives à l'assurance n'étaient pas pertinentes en la matière (arrêts C-159/91 et C-160/91 « Pistre et Poucet » du 17 février 1993 et C-238/94 « Garcia » du 26 mars 1996). Il est en effet de jurisprudence communautaire constante que la sécurité sociale ne constitue pas une activité économique au sens des règles du traité (arrêt « Nazairdis SAS » du 27 octobre 2005, C-266/04 et suivants, point 54). En conformité avec le droit européen, les personnes qui exercent une activité professionnelle en France ne peuvent donc se soustraire à l'obligation créée par la loi de s'affilier et de cotiser aux régimes français de sécurité sociale.
