@@ -82,7 +82,7 @@ Le préfet peut, sur demande de l'exploitant, dès lors que la commodité du voi
 
 - à au moins 200 mètres des lieux de baignade (à l'exception des piscines privées) et des plages ;
 
-- à au moins 500 mètres en amont des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles. Des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet.
+- à au moins 500 mètres en amont des piscicultures et des zones conchylicoles. Des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet.
 
 Les bâtiments fixes d'élevage de volailles sont séparés les uns des autres par une distance d'au moins 10 mètres.
 
@@ -90,7 +90,7 @@ En cas de nécessité et en l'absence de solution technique propre à garantir l
 
 2.1.2. Cas de certains bâtiments d'élevage de volailles
 
-Les volières où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré sont implantées à au moins 50 mètres des habitations des tiers ou des locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers. En outre, les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
+Les volières où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré sont implantées à au moins 50 mètres des habitations des tiers ou des locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers. En outre, les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
 
 Pour les enclos, y compris les parcours, où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré, les clôtures sont implantées :
 
@@ -98,7 +98,7 @@ Pour les enclos, y compris les parcours, où la densité est inférieure ou éga
 
 - à au moins 10 mètres des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau. Cette distance est d'au moins 20 mètres pour les palmipèdes.
 
-En outre, les distances à respecter vis à vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles sont les mêmes que celles décrites au 2.1.1.
+En outre, les distances à respecter vis à vis des lieux de baignade, des plages, des piscicultures et des zones conchylicoles sont les mêmes que celles décrites au 2.1.1.
 
 Toutes les précautions sont prises pour éviter l'écoulement direct de boues et d'eau polluée vers les cours d'eau, le domaine public et les terrains des tiers.
 
@@ -110,7 +110,7 @@ L'élevage de porcs en plein air est implanté sur un terrain de nature à suppo
 
 Les limites des parcelles utilisées sont situées à au moins 50 mètres des habitations des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance) ou des locaux habituellement occupés par des tiers, des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers.
 
-Les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
+Les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
 
 Toutes les précautions sont prises pour éviter l'écoulement direct de boues et d'eau polluée vers les cours d'eau, le domaine public et les terrains des tiers.
 
@@ -354,7 +354,9 @@ En zone d'excédent structurel, les dispositions fixées par les arrêtés relat
 
 5.6.2. Traitement sur un site spécialisé
 
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier ou du livre V du code de l'environnement.
+Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ie
+
+r ou du livre V du code de l'environnement.
 
 L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
 
@@ -500,7 +502,7 @@ L'épandage des effluents d'élevage et des produits issus de leur traitement es
 
 - à moins de 200 mètres des lieux de baignade (à l'exception des piscines privées) et des plages ; le préfet peut, sur demande de l'exploitant, réduire cette distance jusqu'à 50 mètres pour l'épandage de composts élaborés conformément au 5.8.5 ;
 
-- à moins de 500 mètres en amont des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles ; des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet ;
+- à moins de 500 mètres en amont des piscicultures et des zones conchylicoles ; des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet ;
 
 - à moins de 35 mètres des berges des cours d'eau ; cette limite est réduite à 10 mètres si une bande de 10 mètres enherbée ou boisée et ne recevant aucun intrant est implantée de façon permanente en bordure des cours d'eau ;
 
