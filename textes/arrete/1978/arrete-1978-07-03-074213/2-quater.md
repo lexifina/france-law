@@ -90,7 +90,7 @@ Personne seule
 
 |
 
-222,83
+229,07
 
 |
 
@@ -98,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-272,74
+280,38
 
 |
 
@@ -106,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-306,91
+315,50
 
 |
 
@@ -114,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-44,66
+45,91
 
 |
 
@@ -130,4 +130,4 @@ TL exprimé en % est arrondi à la troisième décimale.
 
 NOTA :
 
-NOTA : Arrêté du 7 décembre 2005 - article 4 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de septembre 2005.
+NOTA : Arrêté du 23 décembre 2006 art. 7 : Les dispositions du présent arrêté sont applicables pour les prestations dues à compter du mois de janvier 2007.
