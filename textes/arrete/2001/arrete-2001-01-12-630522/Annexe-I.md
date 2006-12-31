@@ -126,59 +126,11 @@ Aliments complémentaires, à l'exception de :
 
 |
 
-2. Plomb.
+2. Plomb (a).
 
 |
 
-Matières premières des aliments pour animaux, à l'exception de :
-
-|
-
-10
-
-|
-
-- fourrages verts (produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.)
-
-|
-
-40
-
-|
-
-- phosphates et algues marines calcaires
-
-|
-
-15
-
-|
-
-- carbonate de calcium
-
-|
-
-20
-
-|
-
-- levures
-
-|
-
-5
-
-|
-
-Aliments complets
-
-|
-
-5
-
-|
-
-Aliments complémentaires, à l'exception de :
+Matières premières des aliments pour animaux, à l'exception :
 
 |
 
@@ -186,81 +138,7 @@ Aliments complémentaires, à l'exception de :
 
 |
 
-- aliments minéraux
-
-|
-
-15
-
-|
-
-3. Fluor.
-
-|
-
-Matières premières des aliments pour animaux, à l'exception de :
-
-|
-
-150
-
-|
-
-- aliments d'origine animale, à l'exception des crustacés marins tels que le krill
-
-|
-
-500
-
-|
-
-- phosphates et crustacés marins tels que le krill
-
-|
-
-2 000
-
-|
-
-- carbonate de calcium
-
-|
-
-350
-
-|
-
-- oxyde de magnésium
-
-|
-
-600
-
-|
-
-- algues marines calcaires
-
-|
-
-1 000
-
-|
-
-Aliments complets, à l'exception de :
-
-|
-
-150
-
-|
-
-- aliments complets pour bovins, ovins et caprins :
-
-|
-
-|
-
-- en lactation
+- des fourrages verts (b) ;
 
 |
 
@@ -268,15 +146,31 @@ Aliments complets, à l'exception de :
 
 |
 
-- autres
+- des phosphates et des algues marines calcaires ;
 
 |
 
-50
+15
 
 |
 
-- aliments complets pour porcs
+- du carbonate de calcium ;
+
+|
+
+20
+
+|
+
+- des levures.
+
+|
+
+5
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d'oligoéléments, à l'exception de :
 
 |
 
@@ -284,23 +178,83 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour volailles
+- l'oxyde de zinc ;
 
 |
 
-350
+400
 
 |
 
-- aliments complets pour poussins
+- l'oxyde manganeux, du carbonate de fer, du carbonate de cuivre.
 
 |
 
-250
+200
 
 |
 
-Aliments complémentaires ayant une teneur en phosphore inférieure ou égale à 4 %
+Additifs appartenant aux groupes fonctionnels des agents liants et des antimottants, à l'exception de :
+
+|
+
+30
+
+|
+
+- clinoptilolite d'origine volcanique.
+
+|
+
+60
+
+|
+
+Prémélanges.
+
+|
+
+200
+
+|
+
+Aliments complémentaires, à l'exception des :
+
+|
+
+10
+
+|
+
+- aliments minéraux.
+
+|
+
+15
+
+|
+
+Aliments complets.
+
+|
+
+5
+
+|
+
+3. Fluor (c).
+
+|
+
+Matières premières des aliments pour animaux, à l'exception :
+
+|
+
+150
+
+|
+
+- des aliments d'origine animale, à l'exception des crustacés marins tels que le krill ;
 
 |
 
@@ -308,11 +262,127 @@ Aliments complémentaires ayant une teneur en phosphore inférieure ou égale à
 
 |
 
-Aliments complémentaires ayant une teneur en phosphore supérieure à 4 %
+- des crustacés marins tels que le krill ;
+
+|
+
+3 000
+
+|
+
+- des phosphates ;
+
+|
+
+2 000
+
+|
+
+- du carbonate de calcium ;
+
+|
+
+350
+
+|
+
+- de l'oxyde de magnésium ;
+
+|
+
+600
+
+|
+
+- des algues marines calcaires.
+
+|
+
+1 000
+
+|
+
+Vermiculite (E 561).
+
+|
+
+3 000
+
+|
+
+Aliments complémentaires :
+
+|
+
+|
+
+- contenant ≤ 4 % de phosphore ;
+
+|
+
+500
+
+|
+
+- contenant > 4 % de phosphore ;
 
 |
 
 125 pour 1 % de phosphore
+
+|
+
+Aliments complets, à l'exception des :
+
+|
+
+150
+
+|
+
+- aliments complets pour bovins, ovins et caprins.
+
+|
+
+|
+
+- - en lactation.
+
+|
+
+30
+
+|
+
+- - autres.
+
+|
+
+50
+
+|
+
+- aliments complets pour porcs.
+
+|
+
+100
+
+|
+
+- aliments complets pour volaille.
+
+|
+
+350
+
+|
+
+- aliments complets pour poussins.
+
+|
+
+250
 
 |
 
@@ -400,9 +470,7 @@ Farine de poisson
 
 |
 
-60
-
-(exprimé en nitrite de sodium)
+60 (exprimé en nitrite de sodium)
 
 |
 
@@ -410,9 +478,7 @@ Aliments complets, à l'exception de :
 
 |
 
-15
-
-(exprimé en nitrite de sodium)
+15 (exprimé en nitrite de sodium)
 
 |
 
@@ -420,11 +486,11 @@ Aliments complets, à l'exception de :
 
 |
 
-6. Cadmium.
+6. Cadmium (d).
 
 |
 
-Matières premières pour aliments des animaux d'origine végétale
+Matières premières des aliments pour animaux d'origine végétale.
 
 |
 
@@ -432,7 +498,7 @@ Matières premières pour aliments des animaux d'origine végétale
 
 |
 
-Matières premières pour aliments des animaux d'origine animale, à l'exception de :
+Matières premières des aliments pour animaux d'origine animale.
 
 |
 
@@ -440,13 +506,15 @@ Matières premières pour aliments des animaux d'origine animale, à l'exception
 
 |
 
-- aliments pour animaux familiers.
+Matières premières des aliments pour animaux d'origine minérale, à l'exception des :
 
 |
 
+2
+
 |
 
-Phosphates
+- phosphates.
 
 |
 
@@ -454,35 +522,45 @@ Phosphates
 
 |
 
-Aliments complets pour bovins, ovins et caprins, à l'exception de :
+Additifs appartenant au groupe d'oligoéléments, à l'exception :
 
 |
 
-1
+10
 
 |
 
-- aliments complets pour veaux, agneaux et chevreaux.
+- de l'oxyde de cuivre, de l'oxyde manganeux, de l'oxyde de zinc et du sulfate manganeux monohydrate.
+
+|
+
+30
+
+|
+
+Additifs appartenant aux groupes fonctionnels des agents liants et des antimottants.
+
+|
+
+2
+
+|
+
+Prémélanges.
+
+|
+
+15
+
+|
+
+Aliments minéraux :
 
 |
 
 |
 
-Autres aliments complets, à l'exception de :
-
-|
-
-0,5
-
-|
-
-- aliments pour animaux familiers.
-
-|
-
-|
-
-Aliments minéraux
+- contenant < 7 % de phosphore ;
 
 |
 
@@ -490,7 +568,47 @@ Aliments minéraux
 
 |
 
-Autres aliments complémentaires pour bovins, ovins et caprins
+- contenant ≥ 7 % de phosphore.
+
+|
+
+0,75 pour 1 % de phosphore, avec un maximum de 7,5
+
+|
+
+Aliments complémentaires pour animaux familiers ;
+
+|
+
+2
+
+|
+
+Autres aliments complémentaires.
+
+|
+
+0,5
+
+|
+
+Aliments complets pour bovins, ovins et caprins et aliments pour poissons, à l'exception :
+
+|
+
+1
+
+|
+
+- des aliments complets pour animaux familiers.
+
+|
+
+2
+
+|
+
+- des aliments complets pour veaux, agneaux et chevreaux et autres aliments complets.
 
 |
 
@@ -908,15 +1026,31 @@ Tous les aliments, à l'exception de:
 
 |
 
-13. Camphéchlore (toxaphène).
+13. Camphéchlore (toxaphène) - somme des congénères indicateurs CHB 26, 50 et 62 (e).
 
 |
 
-Tous les aliments
+- Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson.
 
 |
 
-0,1
+0,02
+
+|
+
+- Huile de poisson.
+
+|
+
+0,2
+
+|
+
+- Aliments pour poissons.
+
+|
+
+0,05
 
 |
 
@@ -1140,31 +1274,31 @@ Tous les aliments, à l'exception de :
 
 |
 
-21. Dioxine (somme des dibenzo-paradioxines polychlorées [PCDD] et des dibenzofuranes polychlorées [PCDF]), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) PCDD/F.
+21. Dioxines [somme des dibenzoparadioxines polychlorées (PCDD) et des dibenzofuranes polychlorés (PCDF), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) (f)].
 
 |
 
-a) Toutes les matières premières d'origine végétale pour aliments des animaux, y compris les huiles végétales et les sous-produits.
+a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.
 
 |
 
-0,75 ng OMS-PCDD/F-TEQ/kg (2).
+0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-b) Minéraux au sens du décret du 15 septembre 1986 susvisé.
+b) Huiles végétales et leurs sous-produits.
 
 |
 
-1,0 ng OMS-PCDD/F-TEQ/kg (2).
+0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-c) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe des agents liants, antimottants et coagulants autorisés en vertu du décret du 28 novembre 1973 susvisé.
+c) Matières premières d'origine minérale pour aliments des animaux.
 
 |
 
-0,75 ng OMS-PCDD/F-TEQ/kg (2).
+1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
@@ -1172,15 +1306,15 @@ d) Matières grasses animales, y compris les matières grasses du lait et de l'�
 
 |
 
-2,0 ng OMS-PCDD/F-TEQ/kg (2).
+2,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-e) Autres produits d'animaux terrestres, y compris le lait, les produits laitiers, les œufs et les ovoproduits.
+e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.
 
 |
 
-0,75 ng OMS-PCDD/F-TEQ/kg (2).
+0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
@@ -1188,15 +1322,15 @@ f) Huile de poisson.
 
 |
 
-6 ng OMS-PCDD/F-TEQ/kg (2).
+6,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-g) Poissons, autres animaux aquatiques, leurs produits et sousproduits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (3).
+g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).
 
 |
 
-1,25 ng OMS-PCDD/F-TEQ/kg (2).
+1,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
@@ -1204,23 +1338,155 @@ h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières gras
 
 |
 
-2,25 ng OMS-PCDD/F-TEQ/kg (2).
+2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-i) Aliments complets ou complémentaires pour animaux, à l'exception des aliments pour animaux à fourrure, pour animaux familiers et pour poissons.
+i) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolitephonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe fonctionnel des liants et des antiagglomérants.
 
 |
 
-0,75 ng OMS-PCDD/F-TEQ/kg (2).
+0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
 
 |
 
-j) Aliments pour poissons et aliments pour animaux familiers.
+j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.
 
 |
 
-2,25 ng OMS-PCDD/F-TEQ/kg (2).
+1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
+
+|
+
+k) Prémélanges.
+
+|
+
+1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
+
+|
+
+l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.
+
+|
+
+0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
+
+|
+
+m) Aliments pour poissons. Aliments pour animaux familiers.
+
+|
+
+2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
+
+|
+
+21 bis. Somme des dioxines et des PCB de type dioxine [somme des dibenzoparadioxines polychlorées (PCDD), des dibenzofuranes polychlorés (PCDF) et des polychlorobiphényles (PCB), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) (f)].
+
+|
+
+a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.
+
+|
+
+1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g)
+
+|
+
+b) Huiles végétales et leurs sous-produits.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+c) Matières premières d'origine minérale pour aliments des animaux.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.
+
+|
+
+3,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.
+
+|
+
+1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+f) Huile de poisson.
+
+|
+
+24,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).
+
+|
+
+4,5 ng OMS-PCDD/F-PCB-TEQ/kg (g)
+
+|
+
+h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.
+
+|
+
+11,0 ng OMS-PCDD/F-PCB-TEQ/kg (g)
+
+|
+
+i) Additifs appartenant au groupe fonctionnel des liants et des anti-agglomérants.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+k) Prémélanges.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.
+
+|
+
+1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
+
+|
+
+m) Aliments pour poissons, aliments pour animaux familiers.
+
+|
+
+7,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
 
 |
 
@@ -1288,6 +1554,286 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 
 |
 
+CONGÉNÈRE
+
+|
+
+VALEUR DU TEF
+
+|
+
+Dibenzo-p-dioxines (PCDD)
+
+|
+
+|
+
+2,3,7,8,-TCDD
+
+|
+
+1
+
+|
+
+1,2,3,7,8-PeCDD
+
+|
+
+1
+
+|
+
+1,2,3,4,7,8-HxCDD
+
+|
+
+0,1
+
+|
+
+1,2,3,6,7,8-HxCDD
+
+|
+
+0,1
+
+|
+
+1,2,3,7,8,9-HxCDD
+
+|
+
+0,1
+
+|
+
+1,2,3,4,6,7,8-HpCDD
+
+|
+
+0,01
+
+|
+
+OCDD
+
+|
+
+0,0001
+
+|
+
+Dibenzofuranes (PCDF)
+
+|
+
+|
+
+2,3,7,8-TCDF
+
+|
+
+0,1
+
+|
+
+1,2,3,7,8-PeCDF
+
+|
+
+0,05
+
+|
+
+2,3,4,7,8-PeCDF
+
+|
+
+0,5
+
+|
+
+1,2,3,4,7,8-HxCDF
+
+|
+
+0,1
+
+|
+
+1,2,3,6,7,8-HxCDF
+
+|
+
+0,1
+
+|
+
+1,2,3,7,8,9-HxCDF
+
+|
+
+0,1
+
+|
+
+2,3,4,6,7,8-HxCDF
+
+|
+
+0,1
+
+|
+
+1,2,3,4,6,7,8-HpCDF
+
+|
+
+0,01
+
+|
+
+1,2,3,4,7,8,9-HpCDF
+
+|
+
+0,01
+
+|
+
+OCDF
+
+|
+
+0,0001
+
+|
+
+PCB de type dioxine PCBs
+
+|
+
+|
+
+PCB non-ortho + PCB mono-ortho
+
+|
+
+|
+
+PCB non-ortho
+
+|
+
+|
+
+PCB 77
+
+|
+
+0,0001
+
+|
+
+PCB 81
+
+|
+
+0,0001
+
+|
+
+PCB 126
+
+|
+
+0,1
+
+|
+
+PCB 169
+
+|
+
+0,01
+
+|
+
+PCB mono-ortho
+
+|
+
+|
+
+PCB 105
+
+|
+
+0,0001
+
+|
+
+PCB 114
+
+|
+
+0,0005
+
+|
+
+PCB 118
+
+|
+
+0,0001
+
+|
+
+PCB 123
+
+|
+
+0,0001
+
+|
+
+PCB 156
+
+|
+
+0,0005
+
+|
+
+PCB 157
+
+|
+
+0,0005
+
+|
+
+PCB 167
+
+|
+
+0,00001
+
+|
+
+PCB 189
+
+|
+
+0,0001
+
+|
+
+Abréviations utilisées : T = tetra ; Pe = penta ; Hx = hexa ; Hp = hepta ; O = octa ; CDD = chlorodibenzodioxine ; CDF = chlorodibenzofurane ; CB = chlorobiphényle.
+
+|
+
 (1) Teneur en fluor pour 1 % de phosphore.
 
 (1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
@@ -1297,3 +1843,27 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
 (3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
+
+(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
+
+(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
+
+- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
+
+- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane
+
+- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.
+
+(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].
+
+(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
+
+(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
