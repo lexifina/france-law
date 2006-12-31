@@ -8,7 +8,7 @@ Elle est assise sur les rémunérations retenues pour l'assiette de la taxe d'ap
 
 Le montant de la contribution est versé aux organismes collecteurs agréés mentionnés à l'article L. 118-2-4 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement insuffisant au plus tard à la date précitée, le montant de la contribution est versé au comptable de la direction générale des impôts, lors du dépôt de la déclaration prévue à l'article 229, majoré de l'insuffisance constatée.
 
-Les organismes mentionnés au quatrième alinéa reversent au comptable de la direction générale des impôts les sommes perçues en application du même alinéa au plus tard le 31 mars de la même année.
+Les organismes mentionnés au quatrième alinéa reversent au comptable de la direction générale des impôts les sommes perçues en application du même alinéa au plus tard le 30 avril de la même année.
 
 II. - Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas admises en exonération de la contribution mentionnée au I.
 

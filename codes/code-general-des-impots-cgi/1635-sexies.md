@@ -8,7 +8,7 @@ II. – Les impositions visées au I sont établies et perçues dans les conditi
 
 2° En ce qui concerne la taxe professionnelle :
 
-a) La base d'imposition est établie conformément au I de l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°, 2° et 3° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
+a) La base d'imposition est établie conformément au I de l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°, 2°, 3°, 3° bis, 3° quater, 5° et 6° de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
 
 Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède la base de l'année précédente multipliée par la variation des prix à la consommation constatée par l'Institut national de la statistique et des études économiques pour l'année de référence définie à l'article 1467 A.
 

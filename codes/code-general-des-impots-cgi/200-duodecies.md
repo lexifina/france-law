@@ -8,8 +8,12 @@ I. - Les personnes domiciliées en France au sens de l'article 4 B qui changent 
 
 3° La nouvelle habitation principale doit se situer à plus de 200 kilomètres de celle précédemment occupée avant le début de l'activité mentionnée au 1°.
 
-II. - Le crédit d'impôt sur le revenu est égal à 1 500 euros. Il est accordé au titre de l'année au cours de laquelle s'achève la période de six mois mentionnée au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée, après prise en compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et à l'article 200 octies, des autres crédits d'impôt et des prélèvements ou retenues non libératoires. Si le montant du crédit d'impôt sur le revenu est supérieur à celui de l'impôt dû, l'excédent est restitué.
+II. - Le crédit d'impôt sur le revenu est égal à 2 000 euros. Il est accordé au titre de l'année au cours de laquelle s'achève la période de six mois mentionnée au 1° du I et s'impute sur l'impôt afférent aux revenus de l'année considérée, après prise en compte des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis et à l'article 200 octies, des autres crédits d'impôt et des prélèvements ou retenues non libératoires. Si le montant du crédit d'impôt sur le revenu est supérieur à celui de l'impôt dû, l'excédent est restitué.
 
 Le crédit d'impôt sur le revenu est accordé une seule fois par bénéficiaire au titre de la période d'activité qui a débuté entre le 1er juillet 2005 et le 31 décembre 2007.
 
-III. - Un décret précise les modalités d'application du présent article.
+III. - (abrogé)
+
+NOTA :
+
+Loi 2006-1771 2006-12-30 art. 74 II : " Le 1° du I est applicable aux contribuables dont la période de six mois d'activité mentionnée au 1° du I de l'article 200 duodecies du code général des impôts s'achève après le 31 décembre 2006. "
