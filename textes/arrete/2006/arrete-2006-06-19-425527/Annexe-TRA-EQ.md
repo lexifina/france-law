@@ -31,3 +31,33 @@ Relevé de trafic donnant le nombre de voyages réalisés en France par l'UTI co
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-EQ-02
+
+Pneus d'autobus à basse résistance au roulement
+
+1. Secteur d'application :
+
+Transport collectif par autobus.
+
+2. Dénomination :
+
+Montage, sur l'essieu arrière d'un autobus non articulé ou sur les deux essieux arrière d'un autobus articulé, de pneus à bande large, à basse résistance au roulement. Chaque pneu à bande large remplace 2 pneus simples en monte jumelée.
+
+3. Conditions pour la délivrance de certificats :
+
+Les pneumatiques doivent avoir un gain énergétique 4 % par rapport à l'utilisation de pneus simples en monte jumelée, validé par un essai réalisé par l'UTAC ou tout autre organisme de certification reconnu par l'International Automobile Task Force (IATF).
+
+Fourniture d'une copie du contrat d'entretien des pneus achetés.
+
+4. Durée de vie conventionnelle :
+
+Egale à la durée du contrat d'entretien.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60

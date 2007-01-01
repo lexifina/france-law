@@ -169,3 +169,97 @@ Sans objet.
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-07
+
+Rideaux de nuit sur meubles frigorifiques de type vertical
+
+à température positive
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux de distribution alimentaire au public de produits frais tels qu'hypermarchés, supermarchés, petits magasins alimentaires.
+
+2. Dénomination :
+
+Mise en place de rideaux de nuit sur un mètre linéaire de meubles frigorifiques de vente de type vertical positif ouvert à groupe extérieur durant les périodes de fermeture au public (12 heures par jour).
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle :
+
+7 ans.
+
+5. Montant de certificats en kWh cumac :
+
+4 700 kWh cumac/mètre linéaire.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-08
+
+Luminaire pour lampe iodure métallique céramique
+
+à ballast électronique
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination :
+
+Installation d'un luminaire pour lampe iodure métallique céramique à ballast électronique.
+
+3. Conditions pour la délivrance de certificats :
+
+Installation réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+12 ans pour les commerces ; 15 ans pour les autres bâtiments.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-09
+
+Luminaire pour lampe fluorescente compacte
+
+à ballast électronique séparé
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination :
+
+Installation d'un luminaire pour lampes fluorescentes compactes à ballast électronique séparé.
+
+3. Conditions pour la délivrance de certificats :
+
+Installation réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+12 ans pour les commerces.
+
+15 ans pour les bureaux, l'enseignement, la santé, l'hôtellerie-restauration.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60

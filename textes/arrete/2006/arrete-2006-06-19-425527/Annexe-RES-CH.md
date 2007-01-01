@@ -35,3 +35,117 @@ Pour les sources d'énergie UIOM-déchets, géothermie et autres : 20 ans.
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-02
+
+Injection de mousse isolante dans un caniveau de réseau de chaleur
+
+1. Secteur d'application :
+
+Réseaux de chaleur.
+
+2. Dénomination :
+
+Injection de mousse isolante dans un caniveau enterré contenant une canalisation de transport de chaleur, pour réduire les déperditions thermiques.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour une canalisation de diamètre nominal de la tuyauterie aller DN, le montant unitaire lu dans la table ci-dessous doit être multiplié par :
+
+- la longueur L en mètres de canalisation de diamètre nominal de la tuyauterie aller DN,
+
+et
+
+- par un facteur d'utilisation proportionnel à la durée moyenne d'utilisation annuelle x en mois de la forme x/12.
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-03
+
+Réhabilitation d'un poste de livraison de chaleur (bâtiment tertiaire)
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m², et raccordés à un réseau de chauffage urbain.
+
+2. Dénomination :
+
+Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison par des équipements neufs :
+
+- échangeurs ;
+
+- régulation ;
+
+- pompes ;
+
+- isolation thermique.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-04
+
+Réhabilitation d'un poste de livraison de chaleur
+
+(bâtiment résidentiel)
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : appartements existants raccordés à un réseau de chauffage urbain.
+
+2. Dénomination :
+
+Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison par des équipements neufs :
+
+- échangeurs ;
+
+- régulation ;
+
+- pompes ;
+
+- isolation thermique.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montant unitaire pour un appartement en kWh cumac
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.

@@ -107,3 +107,43 @@ Vous pouvez consulter le tableau dans le JO
 n° 156 du 07/07/2006 texte numéro 28
 
 (1) La puissance installée sera calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-EC-04
+
+Luminaire d'éclairage extérieur
+
+1. Secteur d'application :
+
+Eclairage public existant, autoroutier, routier, urbain, dit fonctionnel , permettant simultanément tous les types de circulation (motorisée ou piétonne).
+
+Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies piétonnes.
+
+Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
+
+Cette opération ne concerne pas les illuminations de mise en valeur des sites.
+
+2. Dénomination :
+
+Installation d'un luminaire d'éclairage extérieur.
+
+3. Conditions pour la délivrance de certificats :
+
+Est éligible à cette action tout luminaire qui respecte les quatre exigences suivantes :
+
+- ensemble optique fermé d'un indice de protection (IP) de 55 minimum ;
+
+- optique conçue pour une lampe tubulaire claire ;
+
+- efficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation 80 lumens par watt ;
+
+- valeur du pourcentage de flux de lampe sortant du luminaire installé, directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) 3 % en éclairage fonctionnel et < 20 % en éclairage d'ambiance.
+
+4. Durée de vie conventionnelle :
+
+25 ans.
+
+5. Montant de certificats en kWh cumac :
+
+6 400 kWh cumac

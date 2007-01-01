@@ -36,7 +36,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-EN-02
 
-Isolation des murs par l'intérieur
+Isolation des murs
 
 1. Secteur d'application :
 
@@ -44,7 +44,7 @@ Bâtiment résidentiel : maisons individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R 1,2 m² k/W sur murs existants.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R 1,2 m² K/W sur murs existants.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -64,7 +64,7 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 156 du 07/07/2006 texte numéro 28
+n° 303 du 31/12/2006 texte numéro 60
 
 Certificats d'économies d'énergie
 
@@ -133,3 +133,69 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EN-05
+
+Isolation des toitures terrasses
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : appartements existants.
+
+2. Dénomination :
+
+Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique R 2 m²K/W.
+
+3. Conditions pour la délivrance de certificats :
+
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+
+Les isolants doivent être mis en oeuvre selon les DTU séries 40 à 43 ou avis technique.
+
+Mise en place réalisée par un professionnel.
+
+Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+
+4. Durée de vie conventionnelle :
+
+35 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EN-06
+
+Isolation de combles ou de toitures DOM
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants ou neufs en l'absence de réglementation thermique, dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Mise en place d'une isolation thermique de résistance thermique R 1,2 m² K/W en comble ou en toiture.
+
+3. Conditions pour la délivrance de certificats :
+
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+Informations à fournir impérativement : type de logement (maison individuelle ou appartement) et ancienneté du bâtiment (avant ou après 1975).
+
+4. Durée de vie conventionnelle :
+
+25 ans.
+
+5. Montant de certificats en kWh cumac :
+
+400 kWh cumac/m² d'isolant posé
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
