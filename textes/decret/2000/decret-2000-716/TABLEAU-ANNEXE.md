@@ -12,7 +12,7 @@ PROPORTION STATUTAIRE concours externe/concours interne
 
 CORPS : Personnels scientifiques
 
-Chefs de laboratoire : concours sur titres et travaux
+Chefs de laboratoire de 1re classe : concours sur titres et travaux
 
 % autorisé pour le recours à la liste complémentaire : 200
 
@@ -22,7 +22,7 @@ PROPORTION STATUTAIRE concours externe/concours interne
 
 CORPS : Personnels scientifiques
 
-Chefs de projet : concours sur titres et travaux
+Chefs de laboratoire de 2me classe : concours sur titres et travaux
 
 % autorisé pour le recours à la liste complémentaire : 200
 
