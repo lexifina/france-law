@@ -390,6 +390,34 @@ Article 11.
 
 Décisions entrant dans le champ des compétences de la direction de la comptabilité publique
 
+Décret n° 83-228 du 22 mars 1983 modifié fixant le régime de l'autorisation des exploitations de cultures marines et arrêté du 22 novembre 1983 modifié approuvant le cahier des charges types des autorisations d'exploitation de cultures marines sur le domaine public maritime
+
+1
+
+|
+
+Décisions portant réduction de la redevance domaniale en matière de cultures marines sur le domaine public maritime.
+
+|
+
+Article 2 du décret et article 1er de l'arrêté.
+
+|
+
+Décret n° 86-455 du 14 mars 1986 portant suppression des commissions des opérations immobilières et de l'architecture et fixant les modalités de consultation du service des domaines
+
+1
+
+|
+
+Accord à la décision de passer outre lorsque le montant du projet excède les seuils prévus par l'article 9 du décret n° 86-455 du 14 mars 1986.
+
+|
+
+Article 9, 2e alinéa.
+
+|
+
 Décret n° 81-371 du 15 avril 1981 relatif à la tenue automatisée des comptabilités de l'Etat
 
 1
@@ -403,8 +431,6 @@ Décisions d'agrément des logiciels comptables. Décision conjointe avec le min
 Article 5.
 
 |
-
-Décisions entrant dans le champ des compétences de la direction générale des impôts
 
 Code du domaine de l'Etat
 
@@ -1610,15 +1636,25 @@ Article 1912-3.
 
 Livre des procédures fiscales
 
+Décisions entrant dans le champ des compétences de la direction générale des impôts
+
 1
 
 |
 
-Décharge gracieuse de responsabilité concernant des personnes tenues au paiement d'impositions dues par un tiers, au-delà des seuils de compétence des trésoriers-payeurs généraux prévus par le a de l'article R. 247-10 du livre des procédures fiscales.
+Décharge gracieuse de responsabilité concernant des personnes tenues au paiement d’impositions dues par un tiers,
+
+au-delà des seuils de compétence des trésoriers-payeurs généraux prévus par le
+
+a
+
+de l’article R. 247-10 du livre des
+
+procédures fiscales.
 
 |
 
-Article R. 247-10 (b et c).
+Article R. 247-10 c.
 
 |
 
@@ -1678,8 +1714,6 @@ Article 5, 1er alinéa.
 
 |
 
-Décisions entrant dans le champ des compétences de la direction générale des impôts
-
 Code du domaine de l'Etat
 
 1
@@ -1736,23 +1770,17 @@ Livre des procédures fiscales
 
 |
 
-Sauf en matière de contributions indirectes, de taxe professionnelle et de taxes additionnelles à cette taxe, les décisions sur les demandes des contribuables tendant à obtenir une modération, remise ou transaction, au-delà des seuils de compétence fixés par les a et b de l'article R. 247-4.
+Sauf en matière de contributions indirectes, les décisions sur les demandes des contribuables tendant à obtenir une
+
+modération, remise ou transaction, au-delà du seuil de compétence fixé au
+
+a
+
+de l’article R. 247-4.
 
 |
 
-Article R. 247-4 c et d.
-
-|
-
-2
-
-|
-
-Décisions sur les demandes des contribuables tendant à obtenir une remise ou une modération en matière de taxe professionnelle et taxes additionnelles à cet impôt, au-delà du seuil de compétence fixé par le a de l'article R. 247-5-A.
-
-|
-
-Article R. 247-5-A b et c.
+Article R. 247-4 b.
 
 |
 
@@ -1781,34 +1809,6 @@ Désignation des membres des commissions régionales chargées d'examiner les de
 |
 
 Article 6, 1er alinéa.
-
-|
-
-Décret n° 83-228 du 22 mars 1983 modifié fixant le régime de l'autorisation des exploitations de cultures marines et arrêté du 22 novembre 1983 modifié approuvant le cahier des charges types des autorisations d'exploitation de cultures marines sur le domaine public maritime
-
-1
-
-|
-
-Décisions portant réduction de la redevance domaniale en matière de cultures marines sur le domaine public maritime.
-
-|
-
-Article 2 du décret et article 1er de l'arrêté.
-
-|
-
-Décret n° 86-455 du 14 mars 1986 portant suppression des commissions des opérations immobilières et de l'architecture et fixant les modalités de consultation du service des domaines
-
-1
-
-|
-
-Accord à la décision de passer outre lorsque le montant du projet excède les seuils prévus par l'article 9 du décret n° 86-455 du 14 mars 1986.
-
-|
-
-Article 9, 2e alinéa.
 
 |
 
