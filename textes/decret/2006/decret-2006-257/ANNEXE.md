@@ -14,9 +14,9 @@ CORPS d'intégration
 
 Fonctionnaires classés, au sein de la catégorie II, au 7e échelon du principalat, ou, au sein de la catégorie I, au 7e échelon au moins de la classe normale ou au 2e échelon au moins du principalat de 2e classe, ou dans un grade supérieur.
 
-Personnels exerçant les fonctions mentionnées à l'article 21 du décret du 3 décembre 1983 susvisé.
+Personnels exerçant les fonctions mentionnées à l'article 2 du décret n° 2006-1732 du 23 décembre 2006 portant dispositions statutaires relatives au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur.
 
-Attaché d'administration scolaire et universitaire.
+Attaché d'administration de l'éducation nationale et de l'enseignement supérieur.
 
 Fonctionnaires classés, au sein de la catégorie II, au 7e échelon du principalat, ou, au sein de la catégorie I, au 7e échelon au moins de la classe normale ou au 2e échelon au moins du principalat de 2e classe, ou dans un grade supérieur.
 
