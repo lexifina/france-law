@@ -1,6 +1,6 @@
 # Article Annexe I
 
-En application du décret du 4 septembre 1979 fixant les conditions de production des vins de pays, du décret du 19 octobre 1974 et de l'arrêté du 20 novembre 1974 relatifs aux examens analytique et organoleptique des vins à appellation d'origine contrôlée, du décret du 30 novembre 1960 relatif aux vins délimités de qualité supérieure, les laboratoires qui en font la demande sont agréés, suivant le cas, sur proposition ou avis des organismes compétents, en l'occurrence l'Institut national des appellations d'origine (I.N.A.O.) et l'Office national interprofessionnel des vins (Onivins).
+En application du décret du 4 septembre 1979 fixant les conditions de production des vins de pays, du décret du 19 octobre 1974 et de l'arrêté du 20 novembre 1974 relatifs aux examens analytique et organoleptique des vins à appellation d'origine contrôlée, du décret du 30 novembre 1960 relatif aux vins délimités de qualité supérieure, les laboratoires qui en font la demande sont agréés, suivant le cas, sur proposition ou avis des organismes compétents, en l'occurrence l'Institut national de l'origine et de la qualité (I.N.A.O.) et l'Office national interprofessionnel des vins (Onivins).
 
 La D.G.C.C.R.F. instruit les dossiers de demande d'agrément de ces laboratoires et vérifie le respect des conditions requises pour cet agrément.
 
