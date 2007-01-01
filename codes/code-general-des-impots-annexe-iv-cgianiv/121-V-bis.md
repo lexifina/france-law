@@ -10,7 +10,7 @@ Le secrétaire général des affaires économiques ou le fonctionnaire en tenant
 
 Le directeur des services fiscaux ;
 
-Le directeur de la concurrence et de la consommation ;
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
 Le chef du service dont relève l'activité à encourager ;
 
