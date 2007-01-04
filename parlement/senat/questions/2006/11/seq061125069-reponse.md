@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125069
+
+- Question : [SEQ061125069](seq061125069.md) — Application du nouveau code des marchés publics aux achats d'eau en gros
+
+## Réponse
+
+*Économie, JO du 2007-01-04, page 26*
+
+Les dispositions de l'article 137 du code des marchés publics transposent les dispositions de l'article 26 (a) de la directive n° 2004/17 du 31 mars 2004. De la même façon, les dispositions de l'article 135 (2°) transposent celles du 1 et 2 de l'article 4 de la même directive. Conformément aux dispositions de l'article 137 du code, une collectivité territoriale qui passe un marché pour acheter de l'eau n'est pas soumise aux règles de procédure et de publicité du code des marchés publics pour cet achat dès lors qu'elle peut être qualifiée d'entité adjudicatrice exerçant l'activité d'exploitation mentionnée au premier alinéa du 2° de l'article 135. Une collectivité territoriale qui assure la maîtrise d'ouvrage des travaux du réseau peut être considérée comme une entité adjudicatrice au sens de l'article 135 (2°) dans la mesure où elle met à disposition d'un exploitant le réseau. Cette lecture de l'article 137 du code est du reste conforme à la directive n° 2004/17 puisque celle-ci précise que la « présente directive ne s'applique pas aux marchés pour l'achat d'eau, pour autant qu'ils soient passés par des entités adjudicatrices exerçant une ou les deux activités visées à l'article 4, paragraphe 1 », ces deux activités étant, d'une part, la mise à disposition ou l'exploitation, et d'autre part, l'alimentation. Dès lors, l'article 137 s'applique à l'achat d'eau de la collectivité territoriale qui assure la maîtrise d'ouvrage de travaux du réseau d'eau puisque, ayant une activité de mise à disposition du réseau, elle peut être qualifiée d'entité adjudicatrice. A ce titre, elle est donc dispensée du respect des règles de procédures et de publicité pour son achat d'eau.
