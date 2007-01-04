@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060723902
+
+- Question : [SEQ060723902](seq060723902.md) — Mutation dans l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 2007-01-04, page 30*
+
+Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche a souhaité améliorer les conditions de vie des couples dont l'un ou les deux membres travaillent pour l'éducation nationale et qui se retrouvent séparés dans des académies ou départements différents. Ainsi, les principes généraux définis pour les opérations de mutations 2007 dans les notes de service annuelles (NS n° 2006-173 et NS n° 2006-174 du 8 novembre 2006 parues au BOEN spécial n° 8 du 16 novembre 2006) prennent obligatoirement en compte la mise en oeuvre des dispositions légales et réglementaires (et plus précisément celles édictées par l'article 60 de la loi n° 84-16 du 11 janvier 1984) de priorité de traitement des demandes de certains agents, notamment les rapprochements de conjoints. Dans le cadre des opérations interdépartementales ou interacadémiques du mouvement 2007 des personnels enseignants du premier et du second degrés et des personnels d'éducation et d'orientation (y compris donc les conseillers principaux d'éducation), les demandes de rapprochement de conjoints seront donc examinées dans le respect de la loi qui impose, en effet, « dans toute la mesure compatible avec le bon fonctionnement du service » de ne pas contraindre un fonctionnaire à vivre durablement séparé de sa famille. Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche a pour objectif de limiter au maximum à deux ans les durées de séparation, notamment pour les couples avec enfants, grâce à l'octroi d'un nouveau régime de bonifications mises en place pour 2007 permettant le rapprochement de conjoints séparés en tenant compte de la situation familiale (nombre d'enfants) mais aussi de la durée de séparation.
