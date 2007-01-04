@@ -6,10 +6,10 @@ Hommes
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 253 du 31/10/2006 texte numéro 16
+n° 2 du 03/01/2007 texte numéro 15
 
 Femmes
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 253 du 31/10/2006 texte numéro 16
+n° 2 du 03/01/2007 texte numéro 15
