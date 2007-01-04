@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125097
+
+- Question : [SEQ061125097](seq061125097.md) — Inquiétude des accouveurs face aux pertes occasionnées par la crise de la grippe aviaire
+
+## Réponse
+
+*Agriculture, JO du 2007-01-04, page 18*
+
+La baisse de consommation de viandes de volailles en France entre les mois de novembre 2005 et avril dernier et les fermetures d'une partie de nos marchés à l'export ont eu des conséquences économiques importantes sur l'ensemble de la filière, pour laquelle des mesures de soutien ont été prises dès le mois de novembre 2005. Une enveloppe de 20 millions d'euros destinés aux entreprises du secteur de la volaille de chair a été mobilisée afin de permettre aux préfets de région d'indemniser rapidement les pertes de ces entreprises dans la limite d'un plafond de 150 000 euros par entreprise. La répartition de cette enveloppe financière s'est effectuée en fonction du nombre d'entreprises et du volume d'abattage de volailles dans chaque région. Le secteur de l'accouvage était éligible à ce dispositif. Sous l'impulsion de la France, l'Organisation commune de marché de la volaille a été modifiée au cours du conseil des ministres de l'agriculture du 25 avril 2006 afin de mettre en place un programme complémentaire qui sera cofinancé à hauteur de 50 % par l'Union européenne. Pour les entreprises d'accouvage et de sélection génétique les premières aides versées dans le cadre de minimis sont complétées par une indemnisation de la destruction et la transformation des oeufs à couver et de la réforme anticipée des troupeaux reproducteurs. Le secteur de la dinde est également éligible à l'ensemble de ce dispositif. Cette indemnité est en cours de versement par l'office de l'élevage. Par ailleurs, le décret concernant la prise en compte des viandes de volaille dans la réglementation sur les produits périssables est actuellement en cours de signature.
