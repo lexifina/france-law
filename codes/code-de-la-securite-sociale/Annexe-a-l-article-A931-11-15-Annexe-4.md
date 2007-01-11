@@ -1,4 +1,4 @@
-# Article Annexe à l'article A. 931-11-15  Annexe 4
+# Article Annexe à l'article A931-11-15
 
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.
 
@@ -18,7 +18,9 @@ f) La liste des pays où l'institution ou l'union exerce son activité, d'une pa
 
 g) Un tableau indiquant, par pays d'établissement, l'effectif moyen annualisé du personnel salarié en distinguant les personnels affectés à la proposition des règlements ou des contrats des autres personnels, et, au sein de chacun de ces deux ensembles, les catégories suivantes : personnels de direction, cadres, non-cadres ;
 
-h) La liste des règlements ou des contrats types d'assurance directe nouvellement proposés au cours de l'exercice. Chaque règlement ou contrat type est identifié par sa dénomination et l'indication de la catégorie ou sous-catégorie, définie à l'état C 4 figurant à l'annexe à l'article A. 931-11-17, à laquelle il appartient. Les différentes versions d'un règlement ou d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts.
+h) La liste des règlements ou des contrats types d'assurance directe nouvellement proposés au cours de l'exercice. Chaque règlement ou contrat type est identifié par sa dénomination et l'indication de la catégorie ou sous-catégorie, définie à l'état C 4 figurant à l'annexe à l'article A. 931-11-17, à laquelle il appartient. Les différentes versions d'un règlement ou d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts ;
+
+i) La liste des tables mentionnées au b de l'article A. 931-10-10 et établies durant l'année.
 
 A l'appui de cette liste, l'institution ou l'union conserve à la disposition des fonctionnaires visés à l'article R. 951-1-1 un dossier relatif à chacun des règlements ou contrats types en cours. Ce dossier comprend un spécimen :
 
