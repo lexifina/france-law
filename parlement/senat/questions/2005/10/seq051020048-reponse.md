@@ -1,0 +1,9 @@
+# Réponse à la question SEQ051020048
+
+- Question : [SEQ051020048](seq051020048.md) — Modalités de la mise en oeuvre des aides aux chantiers d'insertion
+
+## Réponse
+
+*Cohésion sociale, JO du 2007-01-11, page 72*
+
+L'attention du Gouvernement a été appelée sur les modalités d'information par l'Etat des associations d'insertion sur les mesures nouvelles de la politique de l'emploi. Le Gouvernement partage le souhait exprimé de raccourcir les délais entre la publication des lois et leur application concrète sur les territoires. Les discussions préalables à la rédaction des textes d'application relatifs aux modalités de conventionnement des ateliers et chantiers d'insertion et à l'attribution d'une aide à l'accompagnement ont empêché la publication de ces textes en début d'année. La circulaire n° 2005-41 relative aux ateliers et chantiers d'insertion a été publiée le 28 novembre 2005. Afin d'assurer la mise en oeuvre dès 2005 des mesures annoncées, les services du ministère avaient reçu pour instruction de pré-instruire les demandes des structures. Les traits principaux du régime de l'aide à l'accompagnement et les crédits disponibles leur étaient connus. Instruction avait été ainsi donnée aux services déconcentrés de mener les discussions nécessaires avec les employeurs potentiels afin de leur permettre d'assurer leurs missions dans un cadre juridique renouvelé et de telle sorte qu'à la parution des textes les aides puissent être effectivement mobilisées. Au 16 décembre 2005, près de la moitié des crédits pour 2005 avaient ainsi été engagés. Sans ce travail préalable, un tel taux d'engagement n'aurait pu être atteint. Désormais l'ensemble des textes nécessaires à la mise en oeuvre du plan de cohésion sociale sont publiés. Ils permettent aux structures d'assurer leurs missions d'accès et de retour à l'emploi des personnes les plus exclues.
