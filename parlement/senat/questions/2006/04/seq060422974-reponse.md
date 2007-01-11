@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422974
+
+- Question : [SEQ060422974](seq060422974.md) — Attribution aux propriétaires de résidences mobiles terrestres des prestations logement
+
+## Réponse
+
+*Emploi, JO du 2007-01-11, page 78*
+
+En application de la jurisprudence de la chambre sociale de la Cour de cassation (arrêt Contival du 8 mars 1989), seuls les ménages ayant pour résidence principale un mobile-home ou une caravane ayant perdu tout moyen de mobilité peuvent prétendre à l'allocation de logement. Ces caravanes immobilisées sont soumises à la taxe d'habitation classique selon une jurisprudence constante du Conseil d'Etat depuis 1986. L'arrêt du Conseil d'Etat du 27 juillet 2005 est relatif aux ressources prises en compte pour le bénéfice de la protection complémentaire en matière de santé. Le fait que la Haute Juridiction ait considéré qu'une caravane « doit être regardée comme un logement dès lors que celle-ci offre des conditions d'habitation analogues à celles d'un logement situé dans un immeuble bâti » ne suffit pas pour ouvrir le droit au bénéfice des aides personnelles au logement, qui reste subordonné à des conditions de décence du logement. Par ailleurs, les aires d'accueil aménagées telles que prévues par la loi n° 2006-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage sont éligibles à l'allocation de logement temporaire (ALT) versée au gestionnaire. Enfin, l'ouverture du droit aux aides au logement pour les gens du voyage est actuellement débattue au sein d'un groupe de travail institué par la commission nationale consultative des gens du voyage. L'application de l'article 92 de la loi de finances pour 2006, qui instaure une taxe annuelle d'habitation sur les résidences mobiles terrestres constituant une habitation principale, a été repoussée à l'année 2008 par le Parlement lors de l'examen du projet de loi de finances pour 2007.
