@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024624
+
+- Question : [SEQ061024624](seq061024624.md) — Information des parties à un contentieux administratif
+
+## Réponse
+
+*Justice, JO du 2007-01-18, page 132*
+
+L'honorable parlementaire regrette le peu de temps dont disposent les parties, avant l'audience, pour demander la communication du sens des conclusions du commissaire du gouvernement, comme elles en ont la faculté devant les juridictions administratives. Devant les tribunaux administratifs et les cours administratives d'appel, l'article R. 613-2 du code de justice administrative précise que si le président de la formation de jugement n'a pas pris d'ordonnance de clôture, l'instruction est close trois jours francs avant la date de l'audience indiquée dans l'avis d'audience. Devant le Conseil d'Etat, conformément aux dispositions de l'article R. 613-5 du même code, l'instruction est close soit après que les avocats au Conseil d'Etat ont formulé leurs observations orales, soit, en l'absence d'avocat, après appel de l'affaire à l'audience. Dans ces conditions, il pourrait difficilement être envisagé de fixer un délai préalable minimum pour l'information des parties qui le souhaitent, eu égard au déroulement actuel de la procédure. En effet, le commissaire du gouvernement doit prendre en considération, pour déterminer le sens de ses conclusions, les arguments échangés par les parties dans d'ultimes mémoires, jusque dans les tout derniers jours qui précèdent l'audience, conformément à la pratique de nombreux avocats. Le sens des conclusions ne peut donc être communiqué que dans les jours - en pratique la veille ou le vendredi pour une audience tenue le lundi - voire les heures qui précèdent l'audience. Une modification de cette pratique ne serait envisageable que si la date de clôture de l'instruction était avancée, ce qui conduirait à figer plus tôt le débat contradictoire et ne serait à l'avantage ni des parties ni de leurs avocats.
