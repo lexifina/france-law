@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125530
+
+- Question : [SEQ061125530](seq061125530.md) — Mise en oeuvre en 2007 des mesures agro-environnementales
+
+## Réponse
+
+*Agriculture, JO du 2007-01-18, page 124*
+
+Les agriculteurs qui bénéficiaient d'une prime au maintien des systèmes d'élevage extensifs (PMSEE) et qui se sont engagés en 2002 dans un contrat territorial d'exploitation (CTE) herbager, pourront dès 2007 entrer dans le nouveau dispositif national qui sera mis en place, sous réserve du respect des conditions d'éligibilité à ce dispositif. Ces conditions d'éligibilité ont été définies en concertation étroite avec les organisations professionnelles, en tenant compte du cadre fixé par la Commission européenne, et dans l'objectif de permettre aux bénéficiaires actuels d'une aide agroenvironnementale de gestion des surfaces en herbe de bénéficier du nouveau dispositif. Elles prévoient ainsi que l'exploitation présente un taux de chargement inférieur ou égal à 1,4 UGB par hectare de surface fourragère et détienne des éléments de biodiversité correspondant à 20 % de la surface engagée. Enfin, les exploitations devront respecter un taux minimal de spécialisation herbagère, qui sera fixé au niveau départemental entre 50 % et 75 %, ainsi, pour les départements qui en feront le choix, qu'un taux minimal de chargement. L'ensemble de ces critères d'accès est de nature à garantir l'efficacité environnementale de la mesure et de favoriser son approbation par la Commission Européenne, tout en permettant aux actuels bénéficiaires de CTE herbager ou de prime herbagère agroenvironnementale (PHAE) d'intégrer le dispositif sans d'importantes contraintes supplémentaires. En particulier, s'agissant du taux de chargement, une dérogation est prévue pour que le seuil de 1,4 n'exclue pas d'actuels bénéficiaires. L'ensemble de ces conditions est décrit dans le projet de plan de développement rural hexagonal, qui devra être approuvé par la Commission européenne.
