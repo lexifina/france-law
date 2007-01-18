@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024775
+
+- Question : [SEQ061024775](seq061024775.md) — Comment réformer l'OMC?
+
+## Réponse
+
+*Agriculture, JO du 2007-01-18, page 121*
+
+Les difficultés rencontrées aujourd'hui pour conclure le cycle de Doha traduisent les intérêts divergents des membres de l'Organisation mondiale du commerce (OMC) sur de nombreux sujets et l'incapacité actuelle de certains membres à s'engager sur la voie du compromis. Mais elles soulignent également plusieurs dysfonctionnements dans la façon dont ces négociations sont conduites. Ainsi, peu à peu, le contenu des discussions s'est focalisé très largement sur la seule négociation agricole, au profit de quelques pays agro-exportateurs. Les sujets dits « de Singapour » (investissement, concurrence, marchés publics), les aspects non strictement tarifaires, et les questions non commerciales ont depuis longtemps été écartés ou relégués au second plan. Par ailleurs, les négociations sur les services ou sur les biens industriels n'ont pas bénéficié du même niveau d'attention que la négociation agricole du cycle de Doha. Au final, on demande à quelques acteurs dont principalement l'Union européenne de faire l'essentiel des contributions au cycle de négociation. En outre, les avancées actuelles sur les sujets d'intérêt réel pour les pays en développement sont très réduites, et beaucoup reste à faire pour obtenir un résultat conforme à l'ambition initiale. Malgré ces difficultés, la France reste attachée aux discussions commerciales multilatérales, car elles sont le meilleur moyen de fixer des règles communes et d'y associer un maximum de pays, y compris parmi les plus pauvres. Si une nouvelle phase de négociation s'engage, la France s'impliquera donc fortement pour faire partager cette vision de la négociation, pour rééquilibrer les discussions et les recentrer sur l'objectif de développement initialement fixé.
