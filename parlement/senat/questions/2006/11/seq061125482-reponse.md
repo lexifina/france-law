@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125482
+
+- Question : [SEQ061125482](seq061125482.md) — Moyens mis à disposition d'un maire pour l'obtention d'un extrait de casier judiciaire bulletin n° 2
+
+## Réponse
+
+*Justice, JO du 2007-01-18, page 133*
+
+Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire, qu'en application de l'article R. 80 du code de procédure pénale, le bulletin n° 2 est réclamé au service du casier judiciaire national automatisé par lettre, télégramme, télétransmission ou support magnétique avec l'indication de l'état civil de la personne dont le bulletin est demandé, de la qualité de la personne requérante ainsi que du motif de la demande. Dans ce cadre réglementaire, le service du casier judiciaire est naturellement prêt à étudier la mise en place de tout dispositif permettant de traiter avec efficacité les demandes de bulletin n° 2 d'une autorité visée aux articles 776 et 776-1 du code de procédure pénale qui serait totalement démunie de poste informatique ou d'accès à un poste mis à sa disposition et qui le saisirait expressément de cette difficulté. Par ailleurs, l'équipement informatique des collectivités territoriales dépasse le seul cadre des demandes d'extraits de casier judiciaire et ne saurait relever de l'attribution de subventions imputées sur le budget de fonctionnement de la justice alors que l'administration en ligne constitue un levier essentiel de la modernisation des échanges des collectivités territoriales avec l'administration centrale. Il doit être enfin souligné que l'agence pour le développement de l'administration électronique (l'ADAE), placée sous l'autorité du ministre délégué au budget et à la réforme de l'Etat, travaille en étroite collaboration en ce sens notamment avec les représentants desdites collectivités.
