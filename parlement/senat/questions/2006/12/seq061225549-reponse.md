@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225549
+
+- Question : [SEQ061225549](seq061225549.md) — Statut du fermage et baux ruraux
+
+## Réponse
+
+*Agriculture, JO du 2007-01-25, page 170*
+
+Le régime des baux ruraux à long terme fait l'objet de dispositions particulières au sein du statut du fermage. Si le bail à long terme de droit commun est conclu pour une durée d'au moins dix-huit ans selon l'article L. 416-1 du code rural, il existe d'autres baux à long terme avec leur spécificité tels le bail de carrière ou le bail conclu pour vingt-cinq ans au moins tel qu'il est prévu à l'article L. 416-3 du code rural. En ce qui concerne ce dernier, la loi prévoit qu'il peut être convenu que ce bail se renouvelle à son expiration, sans limitation de durée, par tacite reconduction. Dans ce cas, chacune des parties peut décider d'y mettre fin chaque année sans que soient exigées les conditions énoncées à la section VIII du chapitre ler du présent titre. Le congé prend effet à la fin de la quatrième année suivant celle au cours de laquelle il a été donné. Ce même article prévoit expressément que les dispositions de l'article L. 416-1 (alinéas 2, 3 et 4) et celles de l'article L. 416-2, alinéa 3, ne sont pas applicables au bail conclu pour vingt-cinq ans au moins. En raison de l'absence de précision dans la loi sur le sort de ce bail ne comportant pas de clause de tacite reconduction et afin de mettre un terme aux jurisprudences divergentes, l'ordonnance du 13 juillet 2006 a prévu que, « en l'absence de clause de tacite reconduction, le bail prend fin au terme stipulé sans que le bailleur soit tenu de délivrer congé ». Le propriétaire qui consent un bail dont la durée initiale est de vingt-cinq ans au moins doit en effet pouvoir prétendre à la reprise de son bien étant précisé que l'insertion de la clause de tacite reconduction peut toujours faire l'objet d'une négociation entre les parties.
