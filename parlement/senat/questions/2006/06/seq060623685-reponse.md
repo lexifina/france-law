@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623685
+
+- Question : [SEQ060623685](seq060623685.md) — Inconvénients et risques de la vaccination antituberculinique par le BCG
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-02-01, page 252*
+
+La vaccination généralisée des enfants avant leur entrée en collectivité permet aujourd'hui d'éviter 800 cas de tuberculose chaque année, dont au moins 16 cas de formes graves (comme les méningites). Ce résultat est obtenu grâce à une couverture vaccinale actuelle à 95 % des enfants de 6 ans. Depuis la suppression du vaccin Monovax, qui s'administrait au moyen d'une bague par multipuncture, la vaccination contre la tuberculose se pratique désormais par injection intradermique, pratique qui prévaut dans tous les autres pays européens. L'injection intradermique rend effectivement la vaccination, notamment des enfants en bas âge, un peu plus contraignante et comporte un risque légèrement plus important de réaction locale cutanée. Le directeur général de la santé a saisi le conseil supérieur d'hygiène publique de France (CSHPF) afin qu'il lui indique les modalités de mise en oeuvre des nouvelles recommandations issues du travail de la commission d'audition publique sur la vaccination BCG. Sous la présidence de la société française de santé publique, cette commission, composée de 19 membres d'horizon divers, a émis des recommandations en faveur de la suppression de l'obligation vaccinale. Elle préconise de cibler les vaccinations et propose des critères prenant en compte les niveaux de risques d'exposition de la population au bacille de Koch. En Guyane, l'obligation de vaccination serait maintenue. Dès lors que le Conseil d'hygiène publique de France se sera prononcé, ces recommandations seront intégrées dans la stratégie d'actions prioritaires contre la tuberculose que le ministère de la santé et des solidarités publiera au cours du premier trimestre de l'année 2007.
