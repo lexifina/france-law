@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724088
+
+- Question : [SEQ060724088](seq060724088.md) — Perspectives de carrière des éducateurs de jeunes enfants
+
+## Réponse
+
+*Fonction publique, JO du 2007-02-01, page 242*
+
+La réforme du diplôme d'Etat d'éducateur de jeunes enfants a rapproché la durée de cette formation de celle des autres diplômes de niveau III du travail social, tel le diplôme d'Etat d'assistant de service social ou celui d'éducateur spécialisé. Cette harmonisation de la formation conduit à examiner si des conséquences statutaires doivent en être tirées. Cette question concerne aussi bien la fonction publique hospitalière que la fonction publique territoriale. En effet, des dispositions comparables se retrouvent dans les corps et cadres d'emplois homologues de ces deux fonctions publiques. M. Xavier Bertrand, ministre de la santé et des solidarités, a mené une concertation avec les partenaires sociaux qui a débouché sur un protocole d'accord signé le 19 octobre 2006 par cinq organisations syndicales représentatives de la fonction publique hospitalière (CFDT, FO, UNSA, CFTC, et CFE-CGC) qui prend appui sur l'accord signé par M. Christian Jacob, ministre de la fonction publique le 25 janvier 2006 sur l'amélioration des carrières, et qui comprend un certain nombre de mesures statutaires. Le protocole d'accord prévoit pour les éducateurs de jeunes enfants de la fonction publique hospitalière, actuellement classés en catégorie II à trois grades comme ceux de la fonction publique territoriale, le classement dans un corps à deux grades, une bonification de douze mois d'ancienneté et la reprise totale des services antérieurs sans limitation de durée pour les personnels nouvellement recrutés. La transposition de ces mesures aux éducateurs territoriaux de jeunes enfants donnera lieu à une consultation du Conseil supérieur de la fonction publique territoriale.
