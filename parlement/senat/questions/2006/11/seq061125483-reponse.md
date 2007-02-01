@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125483
+
+- Question : [SEQ061125483](seq061125483.md) — Engagements agro-environnementaux (EAE)
+
+## Réponse
+
+*Agriculture, JO du 2007-02-01, page 230*
+
+Les engagements agro-environnementaux (EAE) qui ont été mis en place dans le Finistère en application du décret du 20 août 2003 et de l'arrêté de la même date ainsi que de l'arrêté préfectoral du 24 novembre 2005 sont des engagements contractualisés pour une période de cinq ans et selon un cahier des charges précis. Les cahiers des charges des EAE proposés dans le Finistère sont très variés et permettent en conséquence aux agriculteurs qui y souscrivent un choix très large d'actions agro-environnementales à respecter pour toute la durée du contrat. Il existe également d'autres dispositifs proposés aux agriculteurs qui prévoient d'autres engagements en matière agronomique, mais dès lors que le cumul n'a pas été prévu et autorisé par les cahiers des charges des EAE, ils ne sont pas ouverts aux agriculteurs déjà titulaires d'un EAE. Concernant la possibilité de changer d'engagement en cours de contrat, cela n'est admis dans la réglementation européenne que dans le cas où il est possible d'apporter la preuve d'un bénéfice supplémentaire pour l'environnement, ce qui n'est pas le cas des engagements liés aux cultures énergétiques. La nouvelle programmation (2007-2013) permettra, par l'intermédiaire du dispositif des mesures agro-environnementales territorialisées du programme de développement rural hexagonal, de mettre en oeuvre de nouveaux cahiers des charges. Les actions seront définies au niveau régional et donc bien adaptées au contexte local. Enfin, les sanctions financières prises en cas de non-respect du cahier des charges permettront, dans le cadre de la nouvelle programmation, de mieux prendre en compte des modifications de situation imprévisibles au moment de la signature.
