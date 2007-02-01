@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924433
+
+- Question : [SEQ060924433](seq060924433.md) — Interruption du service téléphonique en Auvergne
+
+## Réponse
+
+*Industrie, JO du 2007-02-01, page 244*
+
+La privatisation de France Télécom n'a pas d'incidence sur la continuité du service public des communications électroniques qui reste garantie par l'article L. 35 du code des postes et des communications électroniques. France Télécom exerce à la fois des activités de service public et des activités qui n'en relèvent pas. En particulier, l'opérateur a été désigné, par trois arrêtés du 3 mars 2005, après appel à candidatures, pour fournir les trois composantes du service universel des communications électroniques. A ce titre, France Télécom fournit à toute personne qui en fait la demande un service téléphonique à un prix abordable. Le cahier des charges annexé à l'arrêté de désignation détermine les conditions de fourniture de cette composante du service universel. Il prévoit notamment que l'opérateur « assure en permanence la disponibilité de ce service' pour l'ensemble des utilisateurs [...] dans le respect des principes d'égalité, de continuité et d'adaptabilité ». A cet égard, l'article 5 des conditions générales d'abonnement au service téléphonique stipule que : « France Télécom s'engage également à rétablir le service téléphonique dans les 48 heures (jours ouvrables) qui suivent la signalisation par le client du dérangement à son service après-vente. L'accueil téléphonique du service après-vente est ouvert 24 heures sur 24 et 7 jours sur 7. En cas de non-respect de ce délai, France Télécom s'engage à verser au client une indemnité forfaitaire d'un montant égal à deux mois d'abonnement au service téléphonique souscrit par le client. Cette indemnité n'est plus due dans les cas où le retard n'est pas imputable à France Télécom en raison de la survenue d'une cause étrangère ».
