@@ -88,7 +88,7 @@ Outre son président, la commission exécutive comporte ... membres :
 
 - les membres représentant l'Etat (direction départementale des affaires sanitaires et sociales, direction départementale du travail, de l'emploi et de la formation professionnelle et inspection d'académie), désignés par le préfet et par le recteur d'académie compétent :
 
-- les membres représentants des organismes locaux d'assurance maladie et d'allocations familiales du régime général, désignés par les directeurs de ces organismes :
+- les membres représentants des organismes locaux d'assurance maladie et d'allocations familiales du régime général, désignés par ces organismes.
 
 - et autres :
 
