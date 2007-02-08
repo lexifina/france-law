@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724004
+
+- Question : [SEQ060724004](seq060724004.md) — Financement des entreprises d'insertion par l'économique
+
+## Réponse
+
+*Emploi et travail, JO du 2007-02-08, page 294*
+
+L'attention du Gouvernement a été appelée sur les inquiétudes liées au financement de l'insertion par l'activité économique. Le soutien aux structures de l'insertion par l'activité économique, qui jouent un rôle essentiel dans la lutte contre le chômage menée par le Gouvernement, est prioritaire et leur effort pour développer un outil d'accès à l'emploi efficace au service de ceux qui sont le plus éloignés du marché du travail doit être accompagné par l'Etat. Le plan de cohésion sociale consacre d'ailleurs des moyens sans précédent à leur développement avec la création d'une aide à l'accompagnement dans les ateliers et chantiers d'insertion de 24 millions d'euros par an, l'augmentation des crédits du fonds départemental d'insertion, de 13,4 millions d'euros en 2005 à 21 millions d'euros en 2007 (actuellement prévus dans le projet de loi de finances pour 2007), et le financement de 13 000 postes dans les entreprises d'insertion en 2005 pour atteindre 14 479 postes dès 2007. Les acteurs de l'insertion par l'activité économique redoutent que les engagements souscrits en 2005 soient amputés des crédits de paiement qui n'ont pas été reportés, en application des nouvelles dispositions de la loi organique relative aux lois de finances. A cet égard, l'évolution des règles budgétaires est sans incidence sur les engagements pris par le Gouvernement en faveur de l'insertion par l'activité économique et les crédits inscrits en loi de finances initiale pour 2006 permettent de consolider les acquis de 2005. Le ministre de l'emploi, de la cohésion sociale et du logement est vigilant sur ce point.
