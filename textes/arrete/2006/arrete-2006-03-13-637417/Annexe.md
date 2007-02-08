@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 MODALITÉS D'APPRÉCIATION D'UNE MOBILITÉ PÉDESTRE RÉDUITE ET DE LA PERTE D'AUTONOMIE DANS LE DÉPLACEMENT
 
 1. Critère relatif à la réduction importante de la capacité
@@ -19,6 +17,8 @@ Ce critère est rempli dans les situations suivantes :
 - ou la personne a systématiquement recours à l'une des aides suivantes pour ses déplacements extérieurs :
 
 - une aide humaine ;
+
+- une prothèse de membre inférieur ;
 
 - une canne ou tous autres appareillages manipulés à l'aide d'un ou des deux membres supérieurs (exemple : déambulateur) ;
 
