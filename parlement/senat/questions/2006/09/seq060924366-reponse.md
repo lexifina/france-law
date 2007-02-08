@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924366
+
+- Question : [SEQ060924366](seq060924366.md) — Mise en oeuvre de l'article 109 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains
+
+## Réponse
+
+*Transports et équipement, JO du 2007-02-08, page 299*
+
+L'article 109 de la loi SRU a inséré un article 5-1 à la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains. Contrairement à l'article 5 de cette même loi, l'article 5-1 ne prévoit pas de décret pour son application et est donc applicable directement. Ce texte a déjà permis à des employeurs de rembourser, en tout ou partie, le coût des abonnements de transports collectifs de leurs salariés dans certaines agglomérations. Ces employeurs ont pu, dans ce cas, bénéficier d'une exonération de charges sociales en application des dispositions de la circulaire 2003/07 du 7 janvier 2003 du ministère de l'emploi et de la cohésion sociale. En revanche, le dispositif fiscal applicable en région parisienne n'a pas été étendu à la province. Le dispositif de prise en charge partielle par les employeurs du coût des déplacements domicile - travail de leurs salariés est sur le point d'être complété par les dispositions relatives au chèque-transport figurant dans la loi n° 2006-1770 du 30 décembre 2006 relative au développement de la participation et de l'actionnariat salarié, dont les dispositions d'application devraient être prises très prochainement. Pour ce qui concerne la fonction publique de l'Etat, le décret n° 2006-1663 du 22 décembre 2006 permet aux agents utilisant les transports collectifs pour se rendre sur leur lieu de travail de bénéficier d'une prise en charge allant jusqu'à 50 % de leur abonnement. Ces dispositions sont entrées en vigueur au 1er janvier 2007.
