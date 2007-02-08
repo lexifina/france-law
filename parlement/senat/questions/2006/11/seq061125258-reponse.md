@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125258
+
+- Question : [SEQ061125258](seq061125258.md) — Conditionnalité des aides communautaires
+
+## Réponse
+
+*Agriculture, JO du 2007-02-08, page 286*
+
+Depuis deux ans, la mise en oeuvre de la conditionnalité sur le terrain se déroule dans les meilleures conditions possibles. En 2007, entrent dans le champ de la conditionnalité des exigences relatives au bien-être animal. Comme pour les années antérieures, la réflexion a été conduite selon les principes qui ont toujours guidé l'action des pouvoirs publics dans ce domaine, c'est-à-dire pragmatisme, progressivité et pédagogie. Le dispositif applicable en 2007 a été élaboré en concertation avec l'ensemble des représentants professionnels agricoles et a été présenté lors du Conseil supérieur d'orientation de l'agriculture du 6 novembre 2006. Le bien-être animal se caractérise par de nombreuses normes communautaires à respecter. Afin de prendre en compte les préoccupations des agriculteurs au regard du bien-être animal, il a été décidé de regrouper en un seul élément d'appréciation les normes de même nature. Cette méthode permet d'éviter qu'un agriculteur soit pénalisé dès lors qu'une seule norme ne serait pas respectée. Par ailleurs, le ministère de l'agriculture et de la pêche a donné les instructions nécessaires pour que les contrôles sur place ne soient réalisés que par des techniciens titulaires des directions départementales des services vétérinaires ayant une bonne connaissance et une bonne pratique du sujet afin que la part de subjectivité inhérente à ce type de contrôle soit réduite. Enfin, pour que chaque éleveur ait une bonne connaissance des exigences qu'il doit respecter, chaque élément d'appréciation fera l'objet d'une description détaillée dans des fiches techniques réalisées par le ministère de l'agriculture et de la pêche, qui seront mises à disposition des agriculteurs dès février prochain.
