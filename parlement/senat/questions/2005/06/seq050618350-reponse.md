@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618350
+
+- Question : [SEQ050618350](seq050618350.md) — Services sociaux des établissements hospitaliers
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-02-08, page 299*
+
+Le protocole du 19 octobre 2006 conclu entre les organisations syndicales signataires et le Gouvernement a prévu une série de mesures relatives à l'amélioration des déroulements et débouchés de carrière de la filière socio-éducative. La première série de mesures vise les cadres socio-éducatifs. Ceux-ci vont connaître les mêmes conditions statutaires que les cadres de santé : recrutement sur titres parmi les titulaires du certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale (CAFERUIS), corps à deux grades IB terminaux 740 et 780, prime d'encadrement. La deuxième série de mesures concerne l'ensemble des corps de catégorie B de la filière : reprise totale des services effectués antérieurement au recrutement, bonification de douze mois pour les titulaires d'un diplôme délivré après trois années d'études supérieures conduisant à la profession d'assistant socio-éducatif, d'éducateur de jeunes enfants et d'éducateur technique spécialisé, la création d'un emploi d'animateur sportif, la création d'un deuxième grade pour les éducateurs techniques spécialisés ainsi que le passage de trois à deux grades du corps des éducateurs de jeunes enfants. Enfin, le protocole du 19 octobre 2006 prévoit la mise en extinction du corps des moniteurs d'atelier ; ceux-ci seront désormais recrutés dans le corps des éducateurs techniques spécialisés. Les textes relatifs aux statuts particuliers des cadres socio-éducatifs et des moniteurs d'atelier ont recueilli l'avis du Conseil supérieur de la fonction publique hospitalière les 15 novembre et 20 décembre 2006. Les textes relatifs aux corps de catégorie B seront soumis à l'avis des membres du Conseil supérieur dans sa prochaine séance.
