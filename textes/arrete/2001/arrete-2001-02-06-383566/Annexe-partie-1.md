@@ -3158,49 +3158,7 @@ Thiourée et ses dérivés, sauf exception reprise dans l'arrêté fixant la lis
 
 |
 
-a) Le crâne, y compris la cervelle et les yeux, les amygdales et la moelle épinière :
-
-|
-
-- de bovins âgés de plus de douze mois ;
-
-|
-
-- d'ovins et de caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
-
-|
-
-et les ingrédients qui en dérivent ;
-
-|
-
-b) La rate d'ovins et de caprins et les ingrédients qui en dérivent.
-
-|
-
-Les dérivés du suif peuvent cependant être utilisés sous réserve de l'application des méthodes suivantes qui doivent être strictement certifiées par le producteur :
-
-|
-
-- transestérification ou hydrolyse à un minimum de 200 °C et sous une pression correspondante appropriée, pendant 20 minutes (glycérol, acides gras et esters d'acides gras),
-
-|
-
-- saponification au NaOH 12 M (glycérol et savon) :
-
-|
-
-- procédé discontinu : 95 °C pendant 3 heures
-
-|
-
-ou
-
-|
-
-- procédé continu : 140 °C, 2 bars (2 000 hPa), pendant 8 minutes, ou conditions équivalentes.
-
-|
+Matières de catégorie 1 et matières de catégorie 2, telles que définies aux articles 4 et 5 du règlement (CE) n° 1774/2002 du Parlement européen et du Conseil (**), et ingrédients dérivés. |
 
 177
 
@@ -3429,5 +3387,7 @@ Zoxazolamine.
 (1) La présence de substances radioactives naturelles et de substances radioactives provenant des contaminations artificielles ambiantes est admise pour autant que les substances radioactives ne soient pas enrichies pour la fabrication de produits cosmétiques et que leur concentration respecte les normes de base fixées dans le décret 66-450 du 20 juin 1966 relatif aux principes généraux de protection contre les rayonnements ionisants.
 
 (*) Directive 76/768/CEE du Conseil du 27 juillet 1976 concernant le rapprochement des législations des Etats membres relatives aux produits cosmétiques.
+
+(**) Règlement (CE) n° 1774/2002 modifié du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.
 
 |
