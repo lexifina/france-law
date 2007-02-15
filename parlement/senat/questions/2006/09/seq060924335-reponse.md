@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924335
+
+- Question : [SEQ060924335](seq060924335.md) — Modalités d'organisation du concours national des villes et villages fleuris
+
+## Réponse
+
+*Tourisme, JO du 2007-02-15, page 355*
+
+Le Conseil national des villes et villages fleuris (CNVVF) a délégué aux régions, et plus particulièrement aux comités régionaux du tourisme, l'attribution aux communes des labels une, deux ou trois fleurs. Il a confié aux départements le soin de recueillir les inscriptions des communes au concours national des villes et villages et fleuris, de sélectionner et de proposer à la région celles qui sont candidates au label une fleur. Le CNVVF édite tous les ans et adresse à tous les maires de France le règlement national qui ne prévoit aucun système de quotas. L'article 5 du règlement précise en effet qu'« il n'y a pas de limitation du nombre de communes au label une, deux ou trois fleurs dans les régions, ni par département, ni par catégorie ». Or il s'avère que certaines régions ont souhaité limiter les candidatures des communes qui avaient concouru pour obtenir le label une fleur proposées par les départements. Alerté de cette dérive, le président du CNVVF a réuni le 29 mars 2006 l'ensemble des présidents des jurys régionaux afin de préciser plusieurs points du règlement. Il a donc été convenu à cette occasion de supprimer les quotas là où ils avaient été instaurés. En revanche, l'attention des départements a été sollicitée pour davantage de rigueur dans la sélection des communes susceptibles d'obtenir la première fleur afin de ne pas alourdir l'organisation du concours régional. S'agissant plus particulièrement de la région Lorraine, la CNVVF a rencontré à plusieurs reprises depuis septembre 2006 les acteurs concernés afin de les aider pour la réorganisation du concours régional afin qu'il soit dès 2007 conforme au règlement du concours national.
