@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070125999
+
+- Question : [SEQ070125999](seq070125999.md) — Décrets d'application concernant le droit de préemption urbain en matière de baux commerciaux
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2007-02-15, page 352*
+
+L'article 58 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises a instauré un droit de préemption au profit des communes sur les cessions de fonds de commerce, de fonds artisanaux, ainsi que sur celles des baux commerciaux. Jusqu'alors, une telle possibilité, dans le domaine commercial, n'existait que pour les « murs » des locaux commerciaux. Désormais, toute cession de fonds de commerce, de fonds artisanal ou de bail commercial, inscrite dans un périmètre de sauvegarde délimité par le conseil municipal, devra être subordonnée, sous peine de nullité, à une déclaration préalable, faite par le cédant, à la commune. Cette dernière dispose alors d'un délai de 2 mois pour se porter éventuellement acquéreuse du fonds ou du bail commercial. Les modalités d'application de ce texte doivent être précisées par un décret en Conseil d'Etat dont l'élaboration a été confiée au ministère des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales. Ce projet de décret doit être contresigné par les ministères de l'équipement, de l'intérieur, de l'économie, des finances et de l'industrie et de la justice. A noter qu'il prévoit notamment les garanties apportées pour que le prix proposé par la commune corresponde à la valeur du fonds de commerce sur le marché et pour que l'exercice de la liberté d'entreprendre soit assuré. En tout état de cause, avant l'adoption définitive de ce décret, la large concertation qui a déjà prévalu à l'occasion des travaux préparatoires à l'élaboration du décret, se poursuivra, notamment avec les représentants des organisations professionnelles les plus représentatives du commerce.
