@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125234
+
+- Question : [SEQ061125234](seq061125234.md) — Statut des élèves sages-femmes
+
+## Réponse
+
+*Enseignement supérieur, JO du 2007-02-15, page 349*
+
+Le Gouvernement a annoncé son intention de procéder rapidement à l'adaptation des parcours de formation de certains professionnels de santé au dispositif LMD (également dénommé processus de Bologne). C'est dans cette perspective que le ministre de la santé et des solidarités et le ministre délégué à l'enseignement supérieur et à la recherche ont demandé au professeur Christian Thuillez d'animer un groupe de travail chargé de définir les conditions de cette adaptation pour les professions médicales et pharmaceutiques. Les professions médicales regroupant médecins, odontologistes et sages-femmes, les étudiants sages-femmes sont naturellement concernés. Sur le fondement (des conclusions du rapport remis par le professeur Thuillez au début du mois de juillet dernier, les travaux préparatoires à une réorganisation des cursus ont été entrepris. Cette réorganisation permettra d'assurer la nécessaire convergence du parcours universitaire, jalonné, le cas échéant, par les diplômes qui lui sont attachés, et du parcours de formation professionnelle, sanctionné par le diplôme d'Etat, seul diplôme autorisant l'exercice. Le cahier des charges de la formation professionnelle sera finalisé dans les tout premiers mois de l'année 2007. Dans le cadre de leur autonomie, ainsi que de la procédure de contractualisation quadriennale, les UFR et universités qui le souhaiteront pourront dès lors, sur la base de ce cahier des charges, solliciter l'habilitation du parcours de formation qu'elles souhaitent proposer. Ainsi, dès la rentrée 2007, dans le meilleur des cas, ou la rentrée de 2008, au plus tard, les étudiants pourront-ils s'inscrire en première année de licence. Une telle inscription conférera ipso facto aux intéressés un statut d'étudiant.
