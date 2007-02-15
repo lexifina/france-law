@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225544
+
+- Question : [SEQ061225544](seq061225544.md) — Taxe d'aide au commerce et à l'artisanat
+
+## Réponse
+
+*Économie, JO du 2007-02-15, page 346*
+
+Le Gouvernement a été amené à réformer la TACA ces dernières années, suite à la suppression de la taxe sur les achats de viande (TAV). L'effet combiné pour les moyennes et grandes surfaces de la hausse de la TACA et de la disparition de la TAV s'est traduit par une diminution globale de la pression fiscale. Néanmoins, la réforme entreprise a pu générer des effets de transfert entre redevables : le champ de la TACA n'étant pas le même que celui de la TAV, la hausse du taux de cette taxe a pu créer des difficultés pour certains commerçants. Conscient de cette situation, le Gouvernement a souhaité trouver une solution durable et équitable, de nature à répondre dans les meilleurs délais aux préoccupations des professions concernées. A cet effet, une mission d'étude et de proposition a été confiée dans un premier temps à un magistrat de la Cour des comptes, en lui demandant d'envisager toutes les modalités d'évolution de cette taxe permettant de ménager à la fois le nécessaire équilibre général du budget de l'Etat, et un niveau de prélèvement acceptable pour les secteurs d'activité concernés, indispensables à l'économie du pays. Le rapport issu de cette mission a servi de base aux réflexions menées depuis, en étroite concertation avec le Parlement. Ces réflexions ont débouché sur la présentation de deux amendements parlementaires au projet de loi de finances rectificative pour 2005, puis au projet de loi de finances rectificative pour 2006. L'effet cumulé de ces deux dispositions sera en 2007 une baisse du taux inférieur de la TACA de 28 %, par rapport à 2005. Cette réforme a donc permis une atténuation non négligeable de la charge fiscale pesant sur les commerçants au titre de la TACA.
