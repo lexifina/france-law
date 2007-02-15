@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060924357
+
+- Question : [SEQ060924357](seq060924357.md) — Démarches administratives par Internet
+
+## Réponse
+
+*Éducation, JO du 2007-02-15, page 348*
+
+L'inscription des étudiants dans les universités demeure, conformément à la réglementation en vigueur, annuelle et personnelle. Elle peut être obtenue par correspondance. Afin de faciliter les démarches des étudiants et le travail des services de la scolarité, certaines universités ont mis en place une procédure de préinscription sur internet comprenant le téléchargement et l'impression d'un dossier d'inscription et la liste des pièces à fournir directement. Ce dossier doit être rempli et apporté lors de l'inscription définitive. Certains établissements prévoient à cet égard la mise à disposition d'ordinateurs dans une salle réservée à cet effet. En outre, afin de pallier tout dysfonctionnement des services de télécommunication et d'éviter aux étudiants habitant dans des zones rurales éloignées des grandes agglomérations de se déplacer, cette procédure de préinscription peut être réalisée par courrier adressé à l'université. Il s'agit d'une inscription provisoire qui ne deviendra définitive qu'après paiement par l'étudiant des droits de scolarité correspondant au diplôme poursuivi et délivrance par les services universitaires d'une carte d'étudiant. Le président de l'université fixe les périodes et modalités des opérations d'inscription. La réglementation prévoit que les candidats à une première inscription en première année doivent y avoir satisfait avant le 31 juillet de l'année de la rentrée universitaire ou avoir retiré un dossier avant cette date pour les bacheliers reçus en septembre, sauf dérogation accordée par le recteur sur proposition du président. Aucune inscription ou réinscription ne peuvent de même être prises au-delà de la date du 15 octobre.
