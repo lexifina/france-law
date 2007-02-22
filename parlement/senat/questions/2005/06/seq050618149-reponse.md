@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050618149
+
+- Question : [SEQ050618149](seq050618149.md) — Qualité pour réaliser des auditions préalables à un mariage
+
+## Réponse
+
+*Justice, JO du 2007-02-22, page 402*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'aux termes de l'article 63 du code civil, l'audition préalable des futurs époux est réalisée par l'officier de l'état civil. Il en résulte que, en principe, cette tâche incombe au maire et à ses adjoints, qui seuls ont la qualité d'officier d'état civil en application de l'article L. 2122-32 du code général des collectivités territoriales. Toutefois. l'article L. 2122-18 du même code dispose que, par arrêté, le maire peut déléguer, sous sa surveillance et responsabilité, une partie de ses fonctions à un ou plusieurs de ses adjoints et, en l'absence de ces derniers ou dès lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal. Il en résulte que, sous les réserves qui viennent d'être rappelées, le maire peut déléguer un conseiller municipal afin de procéder à l'audition des futurs époux. Il convient d'ailleurs de préciser que la loi n° 2006-399 du 4 avril 2006 renforçant la prévention et la répression des violences commises au sein du couple ou contre les enfants a modifié l'article 63 du code civil afin de prévoir pareille faculté à l'égard des fonctionnaires titulaires des services de l'état civil. Toutefois, dans un cas comme dans l'autre, eu égard à l'importance de la mission confiée par la loi aux officiers de l'état civil en matière de lutte contre les mariages frauduleux il revient au maire de veiller personnellement à ce que les conseillers municipaux et fonctionnaires auxquels il confie cette mission disposent des compétences nécessaires pour l'exercer pleinement.
