@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070125869
+
+- Question : [SEQ070125869](seq070125869.md) — Prêts spéciaux de modernisation
+
+## Réponse
+
+*Agriculture, JO du 2007-02-22, page 390*
+
+L'honorable parlementaire souhaite connaître les intentions gouvernementales relatives à l'avenir des prêts spéciaux de modernisation pour l'agriculture. Une réflexion a été menée par le Gouvernement sur l'utilisation des prêts bonifiés, notamment pour tenir compte des observations formulées par la Cour des comptes. Les prêts bonifiés aux jeunes agriculteurs, dont les taux ont été abaissés au maximum avec 1 % en zone défavorisée et 2,5 % ailleurs, n'ont pas été remis en cause. Les prêts bonifiés pour l'aménagement de dettes en cas de situation de crise conjoncturelle sont également maintenus. Il en va de même pour faire face aux situations de calamité agricole. La moindre attractivité des prêts dits « prêts spéciaux de modernisation », consécutive à la baisse générale des taux de marché et à la montée en puissance des autres formes d'aide comme le « Plan bâtiment d'élevage » ou le « Plan végétal pour l'environnement », a conduit à ne plus privilégier ce mode de soutien à l'investissement. Ainsi, il n'a pas été prévu de dotation budgétaire en 2007 pour les « prêts spéciaux de modernisation ». Cependant, pour assurer une transition, les services déconcentrés peuvent utiliser la fongibilité de leur enveloppe d'autorisation d'engagement de prêts bonifiés pour accorder de tels prêts aux exploitants dont le plan d'investissement a été agréé en 2005 ou en 2006. Enfin, les investissements collectifs réalisés par les coopératives d'utilisation de matériel agricole continueront à bénéficier de la bonification. Ainsi, le travail de réexamen des prêts bonifiés, préconisé par la Cour des comptes, s'est opéré sans que soit remis en cause les soutiens apportés à l'installation des jeunes agriculteurs.
