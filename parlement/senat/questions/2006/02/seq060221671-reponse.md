@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060221671
+
+- Question : [SEQ060221671](seq060221671.md) — Prévention des risques d'inondation dans la gestion de l'après-mines
+
+## Réponse
+
+*Industrie, JO du 2007-02-22, page 402*
+
+Les études réalisées sur l'ennoyage d'anciens bassins houillers n'ont pas fait ressortir de risque de mouvements de terrain ayant des répercussions en surface, mais uniquement celui de mouvements résiduels de faible importance non susceptibles de dommages sur les biens immobiliers et les infrastructures. Toutefois, en ce qui concerne le bassin houiller lorrain, une surveillance par des mesures de nivellement sera maintenue jusqu'à la fin de la remontée de la nappe des grès vosgiens pour confirmer la stabilité des terrains. Par ailleurs, dans le secteur du sillon profond, une interdiction de construire est imposée pendant l'ennoyage ; cette contrainte figure d'ores et déjà dans le plan local d'urbanisme de la commune de Freyming-Merlebach. Après remontée, l'eau de la nappe se stabilisera à un niveau inférieur à celui qui existait avant l'exploitation. L'arrêt des exhaures entraînera également une réduction du débit de certains cours d'eau, compte tenu des déversements miniers qui étaient réalisés dans ceux-ci, sans toutefois qu'il en résulte un déclassement de leur qualité en étiage. Dans les fonds de vallées concernées par une remontée de la nappe, en particulier dans les cuvettes d'affaissement, des dispositifs de rabattement (pompage, drain) sont prévus. Ces dispositifs seront dimensionnés pour faire face aux périodes de très hautes eaux et seront associés à un réseau de piézomètres de contrôle de la nappe. Enfin, un projet de schéma d'aménagement et de gestion des eaux (SAGE) couvrant le bassin houiller est en cours d'élaboration entre les collectivités locales concernées.
