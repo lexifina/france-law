@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724061
+
+- Question : [SEQ060724061](seq060724061.md) — Italiens sous contrôle judiciaire
+
+## Réponse
+
+*Justice, JO du 2007-02-22, page 405*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'une information judiciaire a été ouverte le 27 juin 2003 au tribunal de grande instance de Paris des chefs d'association de malfaiteurs en vue de préparer des actes de terrorisme, détention de plusieurs documents falsifiés et falsification de documents administratifs de manière habituelle, dans le cadre de laquelle les deux personnes de nationalité italienne auxquelles il est fait référence dans sa question ont été mises en examen et placées sous mandat de dépôt avant d'être remises en liberté et placées sous contrôle judiciaire le 20 décembre 2003 par la chambre de l'instruction. N'ayant pas respecté les obligations du contrôle judiciaire, le magistrat instructeur a délivré des mandats d'arrêt à leur encontre le 26 janvier 2005. Elles ont été ainsi à nouveau interpellées le 25 mai 2005, mises en examen de manière supplétive et replacées en détention provisoire jusqu'à leur placement sous contrôle judiciaire en mai 2006. L'information n'ayant finalement pas permis de mettre en évidence l'existence d'un dessein terroriste, le magistrat instructeur a renvoyé par une ordonnance du 16 octobre 2006 les deux personnes de nationalité italienne, avec trois complices, devant le tribunal correctionnel pour y être jugées des chefs de détention de documents administratifs falsifiés, falsification de documents administratifs de manière habituelle et usage. Le procès devait avoir lieu à compter du 17 janvier 2007, mais, pour tenir compte de l'empêchement de plusieurs avocats, le tribunal correctionnel de Paris a renvoyé le dossier aux 4, 5 et 6 avril 2007.
