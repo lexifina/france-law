@@ -2186,6 +2186,14 @@ Laîche de Fritsch.
 
 |
 
+Carex glacialis Mackensie.
+
+|
+
+Laîche des glaciers.
+
+|
+
 Carex grioletii Roemer.
 
 |
