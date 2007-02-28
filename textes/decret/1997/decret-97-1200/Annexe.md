@@ -687,3 +687,65 @@ Décisions de classement, de renouvellement, de changement de catégorie, de mis
 Les décisions du ministre chargé de la culture prévues aux articles 1er, 4, 5, 6 et 7.
 
 |
+
+Décret n° 2006-1067 du 25 août 2006 pris pour l’application de l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication
+
+1
+
+|
+
+Décision d’attribution de la subvention d’installation aux services de radio mentionnés à l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+|
+
+Article 3.
+
+|
+
+2
+
+|
+
+Décision d’attribution de la subvention d’équipement aux services de radio mentionnés à l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+|
+
+Article 4.
+
+|
+
+3
+
+|
+
+Décision d’attribution de la subvention d’exploitation aux services de radio mentionnés à l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+|
+
+Article 5.
+
+|
+
+4
+
+|
+
+Décision d’attribution de la subvention sélective à l’action radiophonique aux services de radio mentionnés à l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+|
+
+Article 6.
+
+|
+
+5
+
+|
+
+Décision d’attribution de la subvention d’installation aux services de radio mentionnés à l’article 80 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication en cas de contrat de location-gérance.
+
+|
+
+Article 14.
+
+|
