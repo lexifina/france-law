@@ -4,7 +4,7 @@ DÉFINITION DE L'EMPLOI
 
 justifiant de l'obtention de la nouvelle bonification indiciaire
 
-1. Conseiller artistique auprès du directeur des Monnaies et médailles.
+1. Conseiller artistique auprès du directeur de l'établissement public La Monnaie de Paris.
 
 2. Exercice de fonctions impliquant des responsabilités d'encadrement ou une qualification technique particulièrement importante dans les secteurs administratifs, culturels, industriels, commerciaux ou comptables.
 
@@ -20,4 +20,4 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 NOTA :
 
-*Le décret n° 91-1060 du 14 octobre 1991 est annulé en tant qu'il concerne l'attribution de la nouvelle bonification indiciaire aux emplois comportant l'exercice à temps plein de fonctions itinérantes dans le service de la redevance audiovisuelle.*
+Le décret n° 91-1060 du 14 octobre 1991 est annulé en tant qu'il concerne l'attribution de la nouvelle bonification indiciaire aux emplois comportant l'exercice à temps plein de fonctions itinérantes dans le service de la redevance audiovisuelle.
