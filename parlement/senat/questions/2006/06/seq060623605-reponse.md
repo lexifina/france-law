@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623605
+
+- Question : [SEQ060623605](seq060623605.md) — Aménagement de l'A 31
+
+## Réponse
+
+*Transports et équipement, JO du 2007-03-01, page 489*
+
+La saturation progressive de l'autoroute A 31 entre Toul et Thionville, liée aux multiples fonctions qu'elle assume aujourd'hui, constitue un handicap important pour l'économie régionale et nationale auquel il convient de remédier. S'agissant de la section centrale de l'A 31, entre Dieulouard et Fey, les prévisions actuelles de trafic démontrent qu'elle sera saturée dès 2015 dans sa configuration actuelle à deux fois deux voies, et à l'horizon de 2025, si elle est élargie à deux fois trois voies. Par ailleurs, l'élargissement de la section centrale de l'A 31 ne permet pas de séparer le trafic de transit du trafic local, ce qui peut se traduire par une dégradation du niveau de service offert actuellement sur l'A 31 sur laquelle le mélange actuel des flux s'avère pénalisant pour la sécurité et la fluidité. L'élargissement ne peut constituer une solution durable. En revanche, la réalisation de la section centrale de l'A 32, entre Dieulouard et Retonfey, permettra de délester l'A 31 d'une part importante de poids lourds en transit dans le sillon mosellan et du trafic d'échange longues distances. Le gain de capacité obtenu, s'il peut être absorbé en partie par la création d'une troisième voie sur l'A 31, permet de réserver cette dernière et le réseau adjacent à l'écoulement du trafic local. C'est pourquoi, dans le cadre des études relatives à ce projet, l'hypothèse d'une réalisation complète de l'A 32 entre Toul et Thionville est privilégiée. Les études menées dans la perspective de la création de ce nouvel axe autoroutier prennent bien en compte l'hypothèse d'optimisation des infrastructures existantes.
