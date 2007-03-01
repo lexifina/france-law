@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061025040
+
+- Question : [SEQ061025040](seq061025040.md) — Plafonnement des moyens mis à la disposition des groupes d'élus
+
+## Réponse
+
+*Intérieur, JO du 2007-03-01, page 475*
+
+Les moyens qui peuvent être mis à la disposition des groupes d'élus, dans les communes de plus de 100 000 habitants, sont précisés dans le II de l'article L. 2121-28 du code général des collectivités territoriales. Le deuxième alinéa de ce paragraphe II énumère les moyens matériels qui peuvent être affectés à l'usage des groupes d'élus : local administratif, matériel de bureau, prise en charge des frais de documentation, de courrier et de télécommunications. Le troisième alinéa permet au maire d'affecter une ou plusieurs personnes aux groupes d'élus, dans les conditions fixées par le conseil municipal et sur proposition des représentants de chaque groupe. Ce même alinéa prévoit que le conseil municipal ouvre au budget de la commune, sur un chapitre spécialement créé à cet effet, les crédits nécessaires à ces dépenses, sans qu'ils puissent excéder 30 % du montant total des indemnités versées chaque année aux membres du conseil municipal. Ainsi, comme le rappelle la circulaire du 6 mars 1995 prise pour l'application de ces dispositions législatives (JO du 26 mars 1995, page 4856), les dépenses de fonctionnement des groupes d'élus que la commune a la faculté de prendre en charge sont plafonnées pour les dépenses de rémunération des personnels affectés auprès de chaque groupe d'élus. En revanche, les dépenses relatives à l'affectation d'un local, à l'achat de matériel de bureau ou à la prise en charge des frais de documentation, de courrier et de télécommunications de chaque groupe ne sont pas plafonnées. Il appartient à l'assemblée délibérante d'en fixer le montant par délibération.
