@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060724000
+
+- Question : [SEQ060724000](seq060724000.md) — Recrutement des pharmaciens adjoints
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-03-01, page 484*
+
+Le pharmacien titulaire d'une officine a l'obligation de se faire assister par un ou plusieurs pharmaciens adjoints, selon l'importance du chiffre d'affaires réalisé. Cette obligation se justifie par le fait que le pharmacien est tenu à l'exercice personnel et qu'une officine ne peut rester ouverte en l'absence de pharmacien. Le montant du chiffre d'affaires au-delà duquel cette obligation s'applique est réévalué chaque année en se basant sur l'augmentation du prix des médicaments remboursables. Le chiffre ainsi obtenu se rapproche du chiffre d'affaires moyen des officines et devient donc de moins en moins contraignant. Par ailleurs, le numerus clausus qui détermine le nombre d'étudiants autorisés à s'inscrire en deuxième année de pharmacie est lui aussi régulièrement réévalué depuis 2003. Pour ces raisons, le déficit en pharmaciens adjoints, inégalement ressenti sur l'ensemble du territoire, a tendance à se résorber. Par ailleurs, des solutions sont recherchées avec les représentants de la profession pour modifier les règles actuelles. En effet, le chiffre d'affaires réalisé ne reflète pas véritablement l'activité de la pharmacie alors que l'acte de dispensation, qui ne peut être assuré que par un pharmacien ou par un préparateur sous le contrôle effectif d'un pharmacien, et qui est indépendant du prix du médicament, n'est pas pris en compte. De même il conviendrait de rendre la carrière des pharmaciens adjoints plus attractive en leur proposant un statut plus adapté. Une ouverture importante a été cependant apportée par la loi du 2 août 2005 qui leur permet à présent d'entrer plus facilement dans le capital d'une pharmacie, puisqu'ils peuvent se voir attribuer des parts en industrie.
