@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070126007
+
+- Question : [SEQ070126007](seq070126007.md) — Report des crédits non consommés en 2006 suite à la réforme du service public de l'équarrissage
+
+## Réponse
+
+*Agriculture, JO du 2007-03-01, page 453*
+
+L'attention du ministère de l'agriculture et de la pêche a été attirée sur le coût de l'élimination des matériaux à risque spécifié chez les artisans bouchers, charcutiers et traiteurs. La réforme du service public de l'équarrissage (SPE) engagée depuis 2004 a visé à mettre notre dispositif national en conformité avec les règles de financement définies au plan communautaire, à en rationaliser le fonctionnement et à en limiter le coût. La volonté du législateur a été de réduire le périmètre du service public à la stricte activité d'équarrissage concernant les cadavres d'animaux collectés en exploitations agricoles et les cas d'urgence. Ainsi, depuis le 1er janvier 2006, la collecte et l'élimination des colonnes vertébrales de bovins considérées comme matériel à risque spécifié produites au niveau des boucheries artisanales ne relèvent plus du SPE. Les artisans sont donc tenus depuis cette date de contracter avec les équarrisseurs. Les aménagements des délais de collecte permettant depuis le 1er octobre 2005 de passer à une collecte mensuelle au lieu d'une collecte hebdomadaire laissent espérer une économie de 40 % sur le prix des prestations, sans compter la déduction de la taxe sur la valeur ajoutée (TVA), impossible dans le cadre du SPE. Afin d'accompagner la filière dans cette réforme, le Gouvernement a décidé qu'une aide de minimis de 10 millions d'euros (500 euros par raison sociale) pourrait être attribuée, à titre transitoire sur 2006. Cette mesure d'accompagnement a été mise en oeuvre par le ministère des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales. Il lui appartient donc de se prononcer sur l'éventuelle reconduction sur 2007 de ce dispositif.
