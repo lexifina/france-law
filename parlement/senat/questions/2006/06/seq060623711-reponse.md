@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623711
+
+- Question : [SEQ060623711](seq060623711.md) — Libération d'Ingrid Betancourt
+
+## Réponse
+
+*Affaires étrangères, JO du 2007-03-01, page 450*
+
+La recherche de la libération de Mme Ingrid Betancourt et de Mme Clara Rojas, sa directrice de campagne, ainsi que le sort des otages en Colombie sont une priorité constante de l'action du ministre des affaires étrangères. Sa forte implication est pleinement partagée par l'ensemble des autorités françaises, qui sont entièrement mobilisées sur cette question afin de parvenir à la conclusion d'un accord humanitaire qui pourrait ouvrir la voie à la libération des otages. La sécurité des otages revêt pour nous une importance cardinale. C'est la raison pour laquelle notre pays, comme il l'avait déjà fait à plusieurs reprises dans le passé, notamment par la voix du président de la République, a tenu, dès le 20 octobre 2006, et à nouveau le 15 janvier dernier, à marquer sa très ferme hostilité à toute opération de sauvetage des otages par la force, car cela ne pourrait que mettre leur vie en péril. Nous demeurons toutefois convaincus qu'une solution pacifique est possible en Colombie. Aussi renouvelons-nous de façon constante notre invitation à ce que tous les acteurs renouent le fil d'un dialogue permettant de conduire à un accord humanitaire. Le Président Alvaro Uribe a confirmé, le 21 décembre dernier, son accord aux contacts établis par la France, l'Espagne et la Suisse avec les FARC. Les propositions des trois pays, qui ont été pleinement appuyées par l'Union européenne, visent à faciliter l'engagement des négociations visant à la conclusion d'un accord humanitaire. Dans cette perspective, notre pays est soucieux que les contacts nécessaires puissent se développer dans la plus grande discrétion. La France demeure entièrement disponible pour accompagner, avec d'autres, la Colombie dans la recherche d'une solution de paix bénéficiant à l'ensemble de sa population.
