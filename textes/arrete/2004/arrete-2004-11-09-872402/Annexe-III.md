@@ -188,7 +188,7 @@ a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié po
 
 b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
 
-2. Et sont affectées de la phrase de risque R 59 :
+2. (Paragraphe supprimé)
 
 2.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 59 pour une concentration individuelle supérieure ou égale :
 
@@ -220,11 +220,13 @@ I. - Pour l'environnement aquatique
 
 Les limites de concentration fixées dans les tableaux suivants et exprimées en pourcentage poids/poids déterminent la classification de la préparation en fonction de la concentration individuelle de la ou des substances présentes, dont la classification est aussi indiquée.
 
-Tableau 1
+Tableau 1 a
 
-TOXICITÉ AQUATIQUE AIGUË ET EFFETS NÉFASTES À LONG TERME
+Toxicité aquatique aiguë et effets néfastes à long terme
 
-CLASSIFICATION DE LA SUBSTANCE
+CLASSIFICATION
+
+de la substance
 
 |
 
@@ -248,15 +250,15 @@ N, R 50-53
 
 |
 
-Cn ≥ 25 %
+Voir le tableau 1b
 
 |
 
-2,5 % ≤ Cn < 25 %
+Voir le tableau 1b
 
 |
 
-0,25 % ≤ Cn < 2,5 %
+Voir le tableau 1b
 
 |
 
@@ -270,7 +272,7 @@ Cn ≥ 25 %
 
 |
 
-2,5 % ≤ Cn < 25 %
+2,5 % ≤ Cn <25 %
 
 |
 
@@ -286,27 +288,19 @@ Cn ≥ 25 %
 
 |
 
-Tableau 2
+Pour les préparations contenant une substance classée N, R 50-53, il y a lieu d'appliquer les limites de concentration et la classification qui en résulte comme indiqué au tableau 1b.
 
-TOXICITÉ AQUATIQUE AIGUË
+Tableau 1 b
 
-CLASSIFICATION
+Toxicité aquatique aiguë et effets néfastes à long terme des substances qui sont très toxiques pour l'environnement aquatique
 
-de la substance
+VALEUR CL50 ou CE50
 
-|
-
-CLASSIFICATION
-
-de la préparation N, R 50
+[ CL(E)50 ] d'une substance classée N, R 50-53 (mg/l)
 
 |
 
-N, R 50
-
-|
-
-Cn ≥ 25 %
+CLASSIFICATION DE LA PRÉPARATION
 
 |
 
@@ -314,7 +308,151 @@ N, R 50-53
 
 |
 
+N, R 51-53
+
+|
+
+R 52-53
+
+|
+
+0,1 < CL(E)50 ≤ 1
+
+|
+
 Cn ≥ 25 %
+
+|
+
+2,5 % ≤ Cn <25 %
+
+|
+
+0,25 ≤ Cn <2,5 %
+
+|
+
+0,01 < CL(E)50 ≤ 0,1
+
+|
+
+Cn ≥ 2,5 %
+
+|
+
+0,25 % ≤ Cn < 2,5 %
+
+|
+
+0,025 % ≤ Cn < 0,25 %
+
+|
+
+0,001 < CL(E)50 ≤ 0,01
+
+|
+
+Cn ≥ 0,25 %
+
+|
+
+0,025 % ≤ Cn < 0,25 %
+
+|
+
+0,002 5 % ≤ Cn < 0,025 %
+
+|
+
+0,000 1 < CL(E)50 ≤ 0,001
+
+|
+
+Cn ≥ 0,025 %
+
+|
+
+0,002 5 % ≤ Cn < 0,025 %
+
+|
+
+0,000 25 % ≤ Cn < 0,002 5 %
+
+|
+
+0,000 01 < CL(E)50 ≤ 0,000 1
+
+|
+
+Cn ≥ 0,002 5 %
+
+|
+
+0,000 25 % ≤ Cn < 0,0025 %
+
+|
+
+0,000 025 % ≤ Cn < 0,000 25 %
+
+|
+
+Pour les préparations contenant des substances de valeur CL50 ou CE50 inférieure à 0,000 01 mg/l, les limites de concentration correspondantes sont calculées en conséquence (à des intervalles de facteur 10).
+
+|
+
+Tableau 2
+
+Toxicité aquatique aiguë
+
+Valeur CL50 ou CE50 [ CL(E)50 ] d'une substance classée N, R 50 ou N, R 50-53 (mg/l)
+
+|
+
+Classification de la préparation N, R 50
+
+|
+
+0,1 < CL(E)50 ≤ 1
+
+|
+
+Cn ≥ 25 %
+
+|
+
+0,01 < CL(E)50 ≤ 0,1
+
+|
+
+Cn ≥ 2,5 %
+
+|
+
+0,001 < CL(E)50 ≤ 0,01
+
+|
+
+Cn ≥ 0,25 %
+
+|
+
+0,000 1 < CL(E)50 ≤ 0,001
+
+|
+
+Cn ≥ 0,025 %
+
+|
+
+0,000 01 < CL(E)50 ≤ 0,0001
+
+|
+
+Cn ≥ 0,002 5 %
+
+|
+
+Pour les préparations contenant des substances de valeur CL50 ou CE50 inférieure à 0,000 01 mg/l, les limites de concentration correspondantes sont calculées en conséquence (à des intervalles de facteur 10).
 
 |
 
@@ -396,7 +534,7 @@ Les limites de concentration fixées dans les tableaux suivants et exprimées en
 
 Tableau 5
 
-DANGEREUX POUR LA COUCHE D'OZONE
+Dangereux pour la couche d'ozone
 
 CLASSIFICATION
 
@@ -404,33 +542,13 @@ de la substance
 
 |
 
-CLASSIFICATION
+CLASSIFICATION DE LA
 
-de la préparation N, R 59
+préparation N, R 59
 
 |
 
 N et R 59
-
-|
-
-Cn ≥ 0,1 %
-
-|
-
-CLASSIFICATION
-
-de la substance
-
-|
-
-CLASSIFICATION
-
-de la préparation R 59
-
-|
-
-R 59
 
 |
 
