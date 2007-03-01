@@ -749,3 +749,17 @@ Décision d’attribution de la subvention d’installation aux services de radi
 Article 14.
 
 |
+
+Décret n° 2006-1464 du 28 novembre 2006 relatif à la promotion des économies d’énergie dans les messages publicitaires des entreprises du secteur énergétique
+
+1
+
+|
+
+Mise en demeure et sanctions.
+
+|
+
+Article 4 (alinéas 1, 2 et 3).
+
+|
