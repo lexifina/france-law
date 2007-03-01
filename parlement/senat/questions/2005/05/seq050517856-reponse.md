@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050517856
+
+- Question : [SEQ050517856](seq050517856.md) — Mise sur le marché français du véhicule Logan
+
+## Réponse
+
+*Industrie, JO du 2007-03-01, page 463*
+
+La mise sur le marché du véhicule Logan est soumise, comme l'ensemble des véhicules mis sur le marché en France, aux réglementations techniques européennes en matière d'environnement et de sécurité. Conformément au règlement européen sur la distribution des véhicules, les distributeurs sont libres de commercialiser ce modèle dès lors qu'ils se conforment à la réglementation. En pratique, il est effectivement constaté que des consommateurs en France ont fait le choix de ce véhicule, dont la première cible clientèle reste néanmoins celle des pays émergents et des nouveaux entrants de l'Union européenne. Il n'appartient pas à la puissance publique de s'immiscer dans les choix du consommateur. Il convient toutefois de noter que ces ventes restent à l'échelle du marché français relativement limitées, inférieures à 1 % du marché. Enfin, d'un point de vue industriel, le succès de la Logan, sur le marché mondial, se traduit également par des créations d'activités sur des sites français d'équipementiers et sous-traitants, bien que l'assemblage soit effectué en Roumanie, les pièces fabriquées en France représentent environ 10 % du coût du véhicule. Plus généralement, le Gouvernement est fortement mobilisé pour soutenir l'emploi dans la filière automobile. Le plan d'action annoncé par le Premier ministre le 29 novembre 2006 comporte des mesures en faveur de l'innovation et de la recherche, de la formation des salariés, et en faveur des équipementiers et sous-traitants automobiles au travers d'une réduction des délais de paiement, qui a été négociée en interne à la filière pour aboutir signée par les fédérations industrielles concernées le 24 janvier 2007 au ministère de l'économie des finances et de l'industrie.
