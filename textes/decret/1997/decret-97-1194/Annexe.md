@@ -1024,6 +1024,26 @@ Articles 26 et 28.
 
 |
 
+Décret n
+
+°
+
+2006-1464 du 28 novembre 2006 relatif à la promotion des économies d’énergie dans les
+
+messages publicitaires des entreprises du secteur énergétique
+
+1
+
+|
+
+Mise en demeure et sanctions.
+
+|
+
+Article 4 (alinéas 1, 2 et 3).
+
+|
+
 Haut fonctionnaire de défense auprès du ministre chargé de l'industrie
 
 Décret n° 2001-144 du 15 février 2001 définissant les conditions du prélèvement d'échantillons de produits chimiques prévu par l'article 51 de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
