@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060623555
+
+- Question : [SEQ060623555](seq060623555.md) — Situation des laboratoires de biologie médicale
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-03-01, page 483*
+
+L'attention du ministre de la santé et des solidarités a été appelée sur la décision de l'Union nationale des caisses d'assurance maladie (UNCAM) de diminuer la cotation de certains actes de biologie courants. Cette décision a été prise après avis d'une commission de hiérarchisation composée de professionnels et de représentants de l'assurance maladie, qui s'est, dans le cas présent, réunie trois fois pour examiner les propositions de L'UNCAM. De plus, comme l'a rappelé la Haute Autorité de santé (HAS), qui a été consultée sur cette question, cette décision ne remet pas en cause la réalisation technique ou le bénéfice clinique des actes concernés, mais uniquement leur cotation. Il n'y a donc pas de motif sanitaire qui puisse s'opposer à cette décision. L'économie associée à cette mesure a été évaluée par l'assurance maladie à 96 millions d'euros en année pleine, ce qui représente une incidence de 126 millions d'euros pour les laboratoires. Il faut rappeler que les recommandations du rapport de la Cour des comptes accompagnant le projet de loi de financement de la sécurité sociale pour 2006 indiquaient qu'il était « indispensable que la nomenclature soit fréquemment actualisée en abaissant la cotation de ceux pour lesquels les progrès techniques permettent des économies d'échelle ». Enfin, en concertation étroite avec les représentants de la profession, une réflexion de fond sur l'évolution du secteur de la biologie sera engagée, afin de mieux adapter la réglementation actuelle, qui complique le fonctionnement des laboratoires, et de donner aux laboratoires de ville qui le souhaitent la possibilité de mieux s'organiser.
