@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050919470
+
+- Question : [SEQ050919470](seq050919470.md) — Conditions de vérification de l'honorabilité des futurs agents de sécurité travaillant en Suisse
+
+## Réponse
+
+*Affaires étrangères, JO du 2007-03-08, page 524*
+
+La procédure évoquée dans cette question est prévue par la Convention européenne d'entraide judiciaire en matière pénale de 1959 (CEEJMP). Ce texte prévoit, dans son article 13, alinéa 2, la communication des extraits de casier judiciaire (bulletin n° 2) chaque fois que la même demande aurait abouti en France, pour le même motif, à la délivrance du même extrait. Ainsi, les préfectures en France demandent et obtiennent le bulletin n° 2 des employés des entreprises de gardiennage. Il est donc possible aux autorités suisses de demander et d'obtenir ce même bulletin pour une personne, de nationalité française ou ayant vécu en France, recrutée par une société suisse de gardiennage. La convention dispose par ailleurs (art. 15, al. 3) que les demandes seront adressées par le ministère de la justice de la partie requérante au ministère de la justice de la partie requise. En ce qui concerne la Suisse, les demandes sont donc transmises par l'Office fédéral de la justice au service du casier judiciaire national du ministère de la justice français et sont traitées de la même manière que celles provenant des préfectures françaises. La France ne peut agir sur les délais de transmission entre les différentes échelles de compétence à l'intérieur de la Confédération. Par ailleurs, l'ensemble de la procédure a été définie par une convention internationale qui devrait donc, si l'on souhaitait réviser le processus, être modifiée. Or cela implique une négociation dont l'issue, compte tenu de la diversité tant des partenaires engagés que de leurs intérêts, ne peut être envisagée qu'à très long terme.
