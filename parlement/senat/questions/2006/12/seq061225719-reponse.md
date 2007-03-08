@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225719
+
+- Question : [SEQ061225719](seq061225719.md) — Pensions des militaires du bataillon des marins-pompiers
+
+## Réponse
+
+*Défense, JO du 2007-03-08, page 527*
+
+Lors de l'examen parlementaire du projet de loi de modernisation de la sécurité civile, le Gouvernement a, par un amendement, étendu aux militaires du bataillon de marins-pompiers de Marseille le bénéfice du supplément de pension accordé, en vertu de l'article L. 83 du code des pensions civiles et militaires de retraite (CPCMR), aux militaires de la brigade des sapeurs-pompiers de Paris. Cet avantage est égal à 0,50 % de leur solde de base pour chaque année d'activité passée au sein de cette unité. Le décret du 26 mai 2005, mis en application, prévoit expressément que cette disposition législative est applicable aux pensions de retraite liquidées à compter du 14 août 2004. Un supplément de pension est une mesure différente de celle consistant à intégrer une indemnité dans le calcul de la pension de retraite de certaines catégories d'agents civils ou militaires. Les primes qui sont intégrées dans le traitement pour le calcul des droits à pension des fonctionnaires ou des militaires sont, en contrepartie, soumises à retenue pour pension. Tel n'est pas le cas de l'indemnité pour risques que perçoivent tant les marins-pompiers de Marseille que les sapeurs-pompiers de Paris. Conformément au principe de non-rétroactivité des lois, la mesure adoptée dans le cadre de la loi du 13 août 2004 de modernisation de la sécurité civile n'a entraîné des droits qu'aux situations nouvelles intervenues à compter de sa date d'entrée en vigueur (le 14 août 2004). Faire évoluer ce dispositif nécessiterait la mise en oeuvre d'un texte législatif pour étendre le bénéfice de l'article L. 83 du CPCMR aux pensions liquidées avant le 14 août 2004.
