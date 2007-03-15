@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125526
+
+- Question : [SEQ061125526](seq061125526.md) — Programme du concours d'attaché d'administration
+
+## Réponse
+
+*Intérieur, JO du 2007-03-15, page 603*
+
+Le recrutement des attachés d'administration, aux termes de l'article 4 du décret n° 2005-1215 du 26 septembre 2005 portant dispositions statutaires communes applicables aux corps des attachés d'administration et à certains corps analogues, s'effectue « à titre principal, par la voie des instituts régionaux d'administration ». Ces instituts relèvent de l'autorité de la direction générale de l'administration et de la fonction publique mise à disposition du ministre chargé de la fonction publique. En ce qui concerne les examens et concours organisés par le ministère de l'intérieur et de l'aménagement du territoire, une attention toute particulière est portée à la bonne adaptation des épreuves aux profils et aux compétences recherchées. Ainsi, le ministère a, depuis 2002, professionnalisé un certain nombres d'épreuves de concours en privilégiant les connaissances purement scolaires et universitaires. Cette démarche s'est poursuivie par la mise en oeuvre de nouvelles modalités d'épreuves d'examens professionnels de promotion de grade qui placent les candidats en situation de réalité professionnelle en visant à leur permettre de dégager des propositions argumentées et des solutions à partir d'un scénario initial. Enfin, une réflexion est actuellement menée, dans le cadre du projet de loi sur la modernisation de la fonction publique en cours d'examen par le Parlement, sur la prise en compte de la reconnaissance des acquis de l'expérience professionnelle (RAEP) dans les concours internes et examens. Il s'agit de définir de nouvelles modalités de sélection consistant à vérifier, par des épreuves spécifiques, les compétences acquises par le candidat lors d'une ou plusieurs expériences professionnelles antérieures.
