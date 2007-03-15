@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125495
+
+- Question : [SEQ061125495](seq061125495.md) — Amélioration de la protection sociale des artisans
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2007-03-15, page 609*
+
+Les salariés et les exploitants agricoles perçoivent des prestations en nature ou en espèce en cas d'accident du travail (article L. 411-1 du code du travail) ou de maladies reconnues comme étant d'origine professionnelle (article L. 461-1 du code de la sécurité sociale). A l'inverse, les assurés du régime social des indépendants (RSI) ne bénéficient pas de couverture du risque accident du travail et maladie professionnelle (AT/MP). Toutefois, en cas de maladie ou d'accident lié au travail, les artisans et les commerçants bénéficient d'une prise en charge des soins par l'assurance maladie. De plus, en cas d'arrêts de travail consécutifs, ils peuvent prétendre à des indemnités journalières. Des pensions d'invalidité peuvent également leur être versées. Le conseil d'administration de la CANAM du 28 juin 2004 et les conseils d'administration des CMR ont étudié l'opportunité de créer un risque AT/MP. Les organisations professionnelles avaient été saisies et leurs avis étaient partagés. Il fut décidé de reporter la décision après la création du RSI. La question de la création d'un risque AT/MP se pose donc actuellement dans le cadre de ce nouveau régime. Sa mise en place, effective depuis le 1er juillet 2006, doit être l'occasion d'améliorer la qualité de services rendus aux affiliés. C'est pourquoi les pouvoirs publics sont favorables à ce que les travaux sur la création d'un risque AT/MP soit repris par le RSI. Ils devront fournir les données objectives, notamment en termes d'effectifs concernés et d'incidence sur l'équilibre des régimes et le niveau des cotisations, nécessaires à une prise de décision adaptée aux besoins et aux attentes des professionnels indépendants.
