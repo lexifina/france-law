@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070125903
+
+- Question : [SEQ070125903](seq070125903.md) — Situation des droits de l'homme en République centrafricaine
+
+## Réponse
+
+*Affaires étrangères, JO du 2007-03-15, page 585*
+
+La République centrafricaine est considérée comme un Etat en situation de « post-crise ». Le retour à la démocratie a été entériné par les élections présidentielles et législatives du printemps 2005. Mais la Centrafrique demeure un Etat fragile, tant sur le plan économique que sécuritaire. Le fonctionnement de la justice, en particulier, s'en ressent. Financièrement exsangue, ce pays n'a pas les moyens d'assurer le fonctionnement de services publics efficaces. Les besoins en moyens de fonctionnement et en formation des administrations - dont la justice - sont particulièrement importants. L'Etat peine à contrôler l'ensemble du territoire, comme le démontrent régulièrement les actions criminelles de « coupeurs de route » ou les incursions de groupes rebelles. Dans le cadre de ses actions de coopération en Centrafrique, la France apporte un soutien à la formation de l'années centrafricaine ainsi que des forces de gendarmerie et de police. Ces programmes de « refondation » demanderont plusieurs armées pour faire sentir leurs effets. Leur objectif est de permettre l'émergence de forces citoyennes, respectueuses de la loi, et en mesure d'assurer la sécurité du pays. Par ailleurs, le futur document cadre de partenariat, qui liera la France et la République centrafricaine, prévoit des actions visant à promouvoir l'Etat de droit (justice et police), en partenariat avec la Commission européenne. Enfin, aux côtés du représentant spécial du Secrétaire général des Nations unies en Centrafrique, la France ne manque pas de rappeler, chaque fois que nécessaire, à ses partenaires centrafricains l'importance qu'elle attache au respect des droits de l'homme et des principes de bonne gouvernance, afin que cessent impunités et dérapages.
