@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226120
+
+- Question : [SEQ070226120](seq070226120.md) — Contentieux financiers liés au transfert de joueurs de football
+
+## Réponse
+
+*Jeunesse et sports, JO du 2007-03-15, page 609*
+
+Le ministre de la jeunesse, des sports et de la vie associative est intervenu le 31 janvier dernier devant la mission d'information parlementaire sur les conditions de transferts des joueurs professionnels de football et sur le rôle des agents sportifs. A cette occasion, il a rappelé sa conviction que le règlement du problème posé par les rétrocommisions versées aux agents par les clubs (qui est une pratique internationale) est lié à celui de l'assainissement et à la traçabilité des flux financiers occasionnés par les opérations de transferts au niveau international, qui deviennent d'un usage commun. C'est un sujet qu'il a évoqué à plusieurs reprises avec le président de la FIFA, estimant qu'une réflexion doit être conduite en partenariat étroit avec les instances du football sur la notion juridique du transfert et la mise en place d'un dispositif permettant la centralisation et la sécurisation des flux financiers générés par les opérations de transferts internationaux. Il a annoncé qu'il alertera une nouvelle fois le président récemment élu de l'UEFA, Michel Platini, sur ce sujet afin qu'il s'en saisisse en liaison avec le président de la FIFA. Sur la question précise de la rémunération des agents sportifs, le ministre chargé des sports est opposé à la remise en cause du principe législatif de la rémunération de l'agent par la partie qui l'emploie. Lorsque l'agent est celui du joueur, leur relation doit rester essentielle et incontournable, et, dans ce cas, le paiement de l'agent doit rester de la responsabilité du joueur et ne saurait être confiée de quelque façon que ce soit au club.
