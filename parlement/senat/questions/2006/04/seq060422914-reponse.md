@@ -1,0 +1,9 @@
+# Réponse à la question SEQ060422914
+
+- Question : [SEQ060422914](seq060422914.md) — Régime des conventions entre communes pour effectuer des prélèvements d'eau
+
+## Réponse
+
+*Intérieur, JO du 2007-03-15, page 596*
+
+L'article L. 210-1 du code de l'environnement indique que l'eau fait partie du patrimoine commun de la nation. L'usage de l'eau appartient à tous, dans le cadre des lois, des règlements et des droits antérieurement établis. Les articles L. 214-1 et suivants du même code précisent ainsi que les prélèvements effectués sur les eaux superficielles ou souterraines sont soumis à autorisation ou à déclaration, en fonction de l'importance du prélèvement, et peuvent être refusés par l'autorité administrative en raison de dangers qu'ils présentent et de la gravité de leurs effets sur la ressource en eau et les écosystèmes aquatiques. Les prélèvements de plusieurs communes sur la même ressource en eau sont donc possibles, sous réserve de respecter les procédures liées aux prélèvements et les règles de la domanialité quant à l'accès et à l'occupation des terrains y donnant accès. En outre, dans le cas où une commune souhaiterait effectuer des prélèvements d'eau en vue de la consommation humaine, la mise en place de périmètres de protection des captages s'impose. L'article L. 1321-2 du code de la santé publique prévoit en particulier que les terrains compris dans le périmètre de protection immédiate sont à acquérir en pleine propriété par le bénéficiaire de la déclaration d'utilité publique. Si ces terrains appartiennent à une commune qui n'est pas celle qui exploite le prélèvement d'eau, l'article L. 1321-2 du code de la santé publique, modifié par l'article 23 de la loi n° 2006-1772 du 30 décembre 2006 sur l'eau et les milieux aquatiques, permet désormais aux deux communes concernées de procéder par convention de gestion.
