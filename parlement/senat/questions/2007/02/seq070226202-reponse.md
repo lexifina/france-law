@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226202
+
+- Question : [SEQ070226202](seq070226202.md) — Situation de certains parlementaires frappés d'inéligibilité
+
+## Réponse
+
+*Justice, JO du 2007-03-22, page 650*
+
+Le garde des sceaux, ministre de la justice, informe l'honorable parlementaire qu'en l'état des dispositifs statistiques, il n'est pas possible de connaître le nombre de parlementaires ayant fait l'objet d'une condamnation pénale comportant une sanction d'inéligibilité. Il peut être néanmoins indiqué que, sur le plan national, en 2005, 2 148 condamnations ont été prononcées avec une mesure de privation des droits civiques en application de l'article 132-26 du code pénal. Les données pour l'année 2006 ne seront disponibles qu'à l'automne 2007. Ce nombre de condamnations connaît une baisse régulière depuis plusieurs années : 5 826 condamnations en 2000, 4 636 en 2001, 3 851 en 2002, 3 194 en 2003 et 2 552 en 2004. En 2005, sur l'ensemble des condamnations, 39 ont été assorties de la seule privation du droit d'éligibilité. En outre, en application de l'article L. 7 du code électoral, ne doivent pas être inscrites sur la liste électorale, pendant un délai de cinq ans à compter de la date à laquelle la condamnation est devenue définitive, les personnes condamnées pour des infractions à caractère économique ou financier. Il s'agit principalement des infractions de concussion, corruption active et passive, trafic d'influence, prise illégale d'intérêts, menaces et actes d'intimidation commis contre les personnes exerçant une fonction publique, soustraction, détournement ou destruction de biens d'un dépôt public. Pour ces infractions, la peine d'incapacité électorale résulte de plein droit de la condamnation (peine accessoire) et n'a donc pas à être prononcée par la juridiction de condamnation. En 2005, 968 condamnations ont été prononcées pour des infractions qui prévoient cette peine accessoire contre 808 en 2004.
