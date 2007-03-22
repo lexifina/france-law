@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226212
+
+- Question : [SEQ070226212](seq070226212.md) — Situation des sites de raffinage Shell
+
+## Réponse
+
+*Industrie, JO du 2007-03-22, page 650*
+
+La direction de Shell France a effectivement informé le Gouvernement de son projet de cession de ses trois raffineries situées en France. Selon la direction de Shell France, cette décision résulte en effet d'une volonté de recentrage du groupe sur les activités d'exploration-production et sur les sites dégageant une marge plus importante, bien que le contexte économique soit orienté favorablement pour l'industrie du raffinage. Toutefois, Shell conservera ses activités commerciales en France et ses produits de marque, et maintiendra sa présence dans les énergies nouvelles. Les trois raffineries concernées disposent d'atouts leur assurant une certaine pérennité, par l'intégration à des unités industrielles voisines à des infrastructures d'acheminement du pétrole brut, par des marchés stables et des produits de haute valeur ajoutée. Les manifestations d'intérêt reçues par Shell France en témoignent. Des investissements réguliers ont par ailleurs été réalisés, d'environ 40 MEUR par an sur la période 2002-2007. Toutefois, le Gouvernement sera dans les prochains mois particulièrement vigilant quant à la nature des projets industriels que les acquéreurs apporteront ainsi qu'aux conditions sociales de ces opérations. Il s'agira notamment de veiller à ce que les acquéreurs présentent les capacités techniques et financières requises pour opérer les installations dans les meilleures conditions de sécurité, de sûreté et d'environnement, et pour assurer la poursuite des investissements, de manière à maintenir la compétitivité à long terme de l'outil industriel. Le ministre délégué à l'industrie a déjà écrit dans ce sens au président de Shell France.
