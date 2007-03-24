@@ -1062,6 +1062,24 @@ Article 7, premier alinéa.
 
 |
 
+Code de l’environnement
+
+1
+
+|
+
+Approbation par le Premier ministre et le ministre de l’économie et des
+
+finances de certaines délibérations à caractères budgétaire ou financier
+
+prises par le conseil d’administration des agences de l’eau.
+
+|
+
+Article R. 213-41.
+
+|
+
 2. Décisions administratives individuelles prises par le ministre
 
 Décisions entrant dans le champ des compétences de la direction du personnel et de l'administration
@@ -4471,5 +4489,21 @@ Fixation du montant des indemnités dues en cas de modification du ressort des t
 |
 
 2e alinéa de l'article 12-3.
+
+|
+
+Code de l’environnement
+
+1
+
+|
+
+Décision d’agrément de l’organisme de contrôle des installations
+
+thermiques.
+
+|
+
+Article R. 224-40.
 
 |
