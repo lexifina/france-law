@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326481
+
+- Question : [SEQ070326481](seq070326481.md) — Voies de recours d'un particulier contre une construction illicite
+
+## Réponse
+
+*Transports et équipement, JO du 2007-03-29, page 711*
+
+Dans l'hypothèse où le maire ne juge pas utile d'exercer les poursuites lorsqu'une infraction à l'article L. 480-4 du code de l'urbanisme est constituée, un riverain peut saisir le préfet afin que celui-ci se substitue au maire dans le cadre de son pouvoir hiérarchique. Dans le cas où il existe une décision administrative préalable de refus de faire constater l'infraction, la personne intéressée peut alors saisir le tribunal administratif d'une requête dirigée contre cette décision, assortie d'une injonction faite au maire ou au préfet, à titre de mesure d'exécution, de faire dresser procès-verbal et d'en transmettre copie au procureur de la République. Cette requête peut être assortie d'une requête en référé-suspension. Le particulier peut également saisir l'autorité judiciaire, par dépôt de plainte directement auprès du procureur de la République, ou auprès de la brigade de gendarmerie, ou du commissariat, ou du bureau de police proche de son domicile, qui appréciera la suite à lui donner. La plainte avec constitution de partie civile au procès pénal devant le juge d'instruction compétent a pour effet de mettre l'action publique en mouvement, notamment par l'engagement de poursuites, sauf ordonnance de refus d'informer si les faits rapportés ne peuvent légalement comporter une poursuite, ou s'ils ne peuvent admettre aucune qualification pénale. Enfin, dans l'hypothèse où le particulier estime subir un préjudice direct et personnel découlant des faits en cause, il peut prendre l'initiative d'une procédure en soumettant ses prétentions au juge civil. Cette requête peut être assortie d'une requête en référé.
