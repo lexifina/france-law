@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024886
+
+- Question : [SEQ061024886](seq061024886.md) — Visas d'entrée à La Réunion
+
+## Réponse
+
+*Affaires étrangères, JO du 2007-03-29, page 690*
+
+Les demandes de visas présentées par les hommes d'affaires et les chefs d'entreprise étrangers, en particulier lorsqu'ils sont recommandés par nos missions économiques et les chambres de commerce et d'industrie locale, bénéficient d'un traitement personnalisé : elles sont instruites par nos postes diplomatiques et consulaires selon des procédures simplifiées, avec un minimum de formalités et dans les meilleurs conditions de rapidité. La délivrance de visas de circulation d'une durée de validité minimum d'un an, comportant plusieurs entrées, est désormais la règle pour les acteurs de nos relations économiques qui peuvent ainsi circuler sans formalités entre la France métropolitaine et d'outre-mer et leur pays d'origine. Par ailleurs, plusieurs mesures facilitant l'entrée des étrangers à la Réunion ont été introduites ou sont en cours de négociation. A compter du 1er juin 2005, au terme d'une concertation avec les ministères de l'outre-mer et de l'intérieur et la préfecture de la Réunion afin de raccourcir les délais de délivrance des visas consulaires de court séjour des ressortissants sud-africains, mauriciens et seychellois qui se rendent à la Réunion, le régime de l'information préalable du préfet a été supprimé et remplacé par la délivrance directe des visas avec information simultanée du préfet. Pour Maurice, la suppression de l'obligation de visa pour les séjours inférieurs à quinze jours, accompagnée de la conclusion d'un accord de réadmission, a été annoncée lors de la visite en France du Premier ministre mauricien en mars 2006. Les projets ont été transmis aux autorités mauriciennes courant août. Cet accord de circulation devrait alléger les procédures, car des visas de « régularisation » ne devront plus être apposés sur les passeports des Mauriciens.
