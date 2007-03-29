@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225647
+
+- Question : [SEQ061225647](seq061225647.md) — Procédure de concertation pour la rédaction du décret prévu à l'article L. 4362-11 du code de la santé publique
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-03-29, page 710*
+
+La population est confrontée à des délais importants et croissants d'accès aux soins en ophtalmologie et, en conséquence, aux équipements optiques. La situation est aggravée dans certaines régions où le déficit relatif de médecins ophtalmologistes est encore plus important. Cette situation peut être améliorée notamment en donnant la possibilité aux opticiens-lunetiers, sous conditions, d'adapter la prescription initiale du médecin à l'évolution de l'acuité visuelle de la personne. Tel est l'objet des articles L. 4362-10 et L. 4362-11 du code de la santé publique nouvellement adoptés. Cette mesure a fait l'objet d'une concertation associant les professionnels de la vision et les différents partenaires institutionnels. S'agissant de l'adaptation de lentilles, la Cour de cassation a confirmé dans plusieurs arrêts (Cass., 17 janvier 1981 ; Cass., 9 mai 1985 ; Cass., 10 mai 1988 ; Cass., 22 février 1990) le caractère exclusivement médical de cet acte. Concernant l'optométrie, cette discipline est enseignée en France, mais ne fait pas l'objet d'une réglementation dans le code de la santé publique. Les personnes qui effectueraient des actes relevant de la compétence des ophtalmologistes, des orthoptistes ou des opticiens-lunetiers, dont la formation et l'exercice sont règlementés, sans en posséder les titres légalement requis, seraient en situation d'exercice illégal. Les actes tels que l'adaptation de lentilles correctrices, le diagnostic et le traitement des pathologies oculaires relèvent de la compétence directe des ophtalmologistes. Dans le cadre actuel de l'organisation des soins en France, la reconnaissance des optométristes n'est pas pour l'instant envisagée.
