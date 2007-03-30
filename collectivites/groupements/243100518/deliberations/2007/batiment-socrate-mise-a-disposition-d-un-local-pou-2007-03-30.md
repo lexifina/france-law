@@ -1,0 +1,10 @@
+# Toulouse métropole : délibération — Bâtiment Socrate : Mise à disposition d'un local pour le réseau Pyramide (formation à distance)
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 2007-03-30
+- Nature : Délibération
+- Séance : conseil
+- Objet : Bâtiment Socrate : Mise à disposition d'un local pour le réseau Pyramide (formation à distance)
+- Acte publié : http://deliberations.toulouse.fr/data/archive/doc5313.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5d2808999ce2e75655f50c0d
