@@ -1,77 +1,37 @@
 # Article Annexe I
 
-Valeurs en francs applicables jusqu'au 31 décembre 2001
+NOMBRE de personnes destinées à occuper le logement : 1
 
-NOMBRE DE PERSONNES composant le ménage : 1
+ZONE A (en euros) : 19 005
 
-ILE-DE-FRANCE : 99 727
+ZONE B OU C (en euros) : 15 183
 
-PROVINCE : 79 672
+NOMBRE de personnes destinées à occuper le logement : 2
 
-NOMBRE DE PERSONNES composant le ménage : 2
+ZONE A (en euros) : 27 895
 
-ILE-DE-FRANCE : 146 381
+ZONE B OU C (en euros) : 22 205
 
-PROVINCE : 116 524
+NOMBRE de personnes destinées à occuper le logement : 3
 
-NOMBRE DE PERSONNES composant le ménage : 3
+ZONE A (en euros) : 33 500
 
-ILE-DE-FRANCE : 175 794
+ZONE B OU C (en euros) : 26 705
 
-PROVINCE : 140 133
+NOMBRE de personnes destinées à occuper le logement : 4
 
-NOMBRE DE PERSONNES composant le ménage : 4
+ZONE A (en euros) : 39 118
 
-ILE-DE-FRANCE : 205 270
+ZONE B OU C (en euros) : 31 199
 
-PROVINCE : 163 718
+NOMBRE de personnes destinées à occuper le logement : 5
 
-NOMBRE DE PERSONNES composant le ménage : 5
+ZONE A (en euros) : 44 751
 
-ILE-DE-FRANCE : 234 835
+ZONE B OU C (en euros) : 35 713
 
-PROVINCE : 187 403
+Par personne supplémentaire :
 
-Par personne supplémentaire
+ZONE A (en euros) : 5 623
 
-Ile-de-France : + 29 500
-
-Province : + 23 600
-
-Valeurs en euros applicables à compter du 1er janvier 2002
-
-NOMBRE DE PERSONNES composant le ménage : 1
-
-ILE-DE-FRANCE : 15 204
-
-PROVINCE : 12 146
-
-NOMBRE DE PERSONNES composant le ménage : 2
-
-ILE-DE-FRANCE : 22 316
-
-PROVINCE : 17 764
-
-NOMBRE DE PERSONNES composant le ménage : 3
-
-ILE-DE-FRANCE : 26 800
-
-PROVINCE : 21 364
-
-NOMBRE DE PERSONNES composant le ménage : 4
-
-ILE-DE-FRANCE : 31 294
-
-PROVINCE : 24 959
-
-NOMBRE DE PERSONNES composant le ménage : 5
-
-ILE-DE-FRANCE : 35 801
-
-PROVINCE : 28 570
-
-Par personne supplémentaire
-
-Ile-de-France : 4 498
-
-Province : 3 598
+ZONE B OU C (en euros) : 4 498
