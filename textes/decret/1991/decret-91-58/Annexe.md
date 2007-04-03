@@ -1,6 +1,6 @@
 # Article Annexe
 
-(Classement prenant effet du 1er avril 1998)
+.
 
 GRADES OU EMPLOIS
 
@@ -18,9 +18,9 @@ OBSERVATIONS
 
 |
 
-I. - Emplois communs aux deux exploitants publics
+I. - EMPLOIS COMMUNS À LA POSTE
 
-La Poste et France Télécom
+ET À FRANCE TÉLÉCOM
 
 |
 
@@ -174,7 +174,7 @@ Agent d'exploitation
 
 |
 
-279-474
+290-479
 
 |
 
@@ -184,7 +184,7 @@ Assistant administratif
 
 |
 
-267-449
+287-449
 
 |
 
@@ -218,11 +218,11 @@ Technicien
 
 |
 
-Aide-technicien
+Aide-technicien des installations
 
 |
 
-277-474
+290-479
 
 |
 
@@ -326,7 +326,7 @@ Dessinateur
 
 |
 
-267-449
+287-449
 
 |
 
@@ -344,7 +344,7 @@ Chef surveillant
 
 |
 
-252-365
+281-388
 
 |
 
@@ -354,7 +354,7 @@ Agent de service
 
 |
 
-252-365
+281-388
 
 |
 
@@ -364,7 +364,7 @@ Agent des services techniques de 2e classe
 
 |
 
-252-365
+281-388
 
 |
 
@@ -402,7 +402,7 @@ Mécanicien dépanneur
 
 |
 
-267-449
+287-449
 
 |
 
@@ -702,7 +702,7 @@ Agent d'exploitation
 
 |
 
-267-449
+287-449
 
 |
 
@@ -712,7 +712,7 @@ Préposé
 
 |
 
-267-449
+287-449
 
 |
 
@@ -790,7 +790,7 @@ C - Conducteur d'automobiles de 1re catégorie
 
 |
 
-267-449
+287-449
 
 |
 
@@ -850,7 +850,7 @@ Agent d'exploitation
 
 |
 
-267-449
+287-449
 
 |
 
