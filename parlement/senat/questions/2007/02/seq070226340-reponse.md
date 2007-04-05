@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226340
+
+- Question : [SEQ070226340](seq070226340.md) — Définition du seuil minimal de versement des aides personnelles au logement
+
+## Réponse
+
+*Emploi, JO du 2007-04-05, page 740*
+
+Conformément à l'engagement qui avait été pris devant les parlementaires, le Gouvernement a fait passer le seuil de non-versement des aides personnelles au logement de 24 à 15 euros, permettant ainsi à 117 000 foyers supplémentaires de bénéficier d'une aide dès le 1er janvier 2007. Les aides personnelles au logement ont vocation à atténuer des charges de loyer ou de remboursement d'emprunt qui sont exigibles chaque mois. Le regroupement, par exemple sur un trimestre, des aides mensuelles les plus faibles, versées aux allocataires dont les revenus sont relativement les plus élevés, ne permettrait plus de maintenir la même périodicité entre les charges de logement et le versement de l'allocation et rendrait l'instruction des dossiers encore plus complexe, notamment en cas de changement de situation des ménages pendant la période concernée. Par ailleurs, les aides personnelles au logement ont été revalorisées depuis le 1er janvier 2007. Les loyers plafonds ont été actualisés de 2,8 % et le forfait de charge de 1,8 %. Pour l'avenir, conformément à l'article 26 de la loi du 5 mars 2007 instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale, les loyers plafonds et les forfaits de charges entrant dans le calcul des aides personnelles au logement seront indexés chaque année, au 1er janvier, sur l'évolution du nouvel indice des loyers (IRL) entré en vigueur début 2006. Cette révision annuelle automatique des barèmes d'aide personnalisée au logement (APL) et d'allocation logement (AL) permettra de stabiliser, toutes choses égales par ailleurs, la part de leur revenu consacré à leur dépense de logement par les ménages modestes.
