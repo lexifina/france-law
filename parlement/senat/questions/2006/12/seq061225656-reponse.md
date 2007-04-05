@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225656
+
+- Question : [SEQ061225656](seq061225656.md) — Québec : reconnaissance des diplômes français
+
+## Réponse
+
+*Éducation, JO du 2007-04-05, page 738*
+
+En ce qui concerne la reconnaissance des diplômes universitaires français par les autorités éducatives québécoises, l'accord-cadre franco-québécois sur la reconnaissance des diplômes et la validation des études, entre la conférence des présidents d'université (CPU), la conférence des directeurs d'écoles et de formations d'ingénieurs (CDEFI) et la conférence des recteurs et des principaux des universités du Québec (CREPUQ), signé à Paris le 20 février 1996, est le document de référence sur lequel s'appuyer en cas de litige. Il a été complété par un avenant signé par les mêmes partenaires le 6 juin 2005 afin de l'actualiser suite aux réformes introduites dans le cursus universitaire français. Il faut toutefois préciser que cet accord n'a force que de recommandation et que les établissements d'enseignement supérieur québécois disposent d'une totale autonomie. En outre, les collèges d'enseignement général et professionnel, établissements à cheval sur l'enseignement secondaire général et l'enseignement supérieur technologique, ne font pas partie de la CREPUQ et ne sont donc pas signataires de l'accord-cadre. Il existe cependant un protocole de coopération entre l'assemblée des directeurs d'instituts universitaires de technologie (ADIUT) et la fédération des Cégeps, signé le 9 avril 1999, auquel il est possible de se référer, puisque son objectif principal est de favoriser la mobilité étudiante. Enfin, l'accord de reconnaissance réciproque sur l'exercice de la profession d'ingénieur entre la commission des titres d'ingénieur (CTI) et le conseil canadien des ingénieurs (CCI), signé le 21 octobre 1999, qui permet à un ingénieur français d'exercer au Canada, vaut pour l'ensemble du territoire canadien, y compris le Québec.
