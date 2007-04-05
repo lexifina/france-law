@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226126
+
+- Question : [SEQ070226126](seq070226126.md) — Aides publiques accordées à une brasserie
+
+## Réponse
+
+*Agriculture, JO du 2007-04-05, page 736*
+
+L'unité de production de bière Kronenbourg située à Champigneulles (Meurthe-et-Moselle) a été cédée au groupe allemand Frankfurter Brauhaus (TCB) le 18 décembre 2006 et l'activité a démarré le 2 janvier 2007 avec un effectif réduit de salariés dont le contrat a été conclu sur la base des tarifs salariaux de la Frankfurter Brauhaus, inférieurs de 30 à 40 % aux salaires de l'exploitant précédent. Pour les soixante personnes reprises, Kronenbourg s'est engagée, dans le cadre du plan social, à leur verser le différentiel de rémunération pendant cinq ans. La politique commerciale du groupe TCB est radicalement différente de celle de son prédécesseur. La production du site de Champigneulles, comme celle importée des brasseries d'Allemagne, est exclusivement tournée vers le « hard discount », en canettes d'aluminium et sous marque de distributeur. La charge salariale et les frais commerciaux réduits ont permis à l'usine de Champigneulles des ventes à un prix inférieur à celui pratiqué par des marques, sans avoir bénéficié d'aides ou d'exonérations fiscales. Des investissements sont envisagés sur 2007 et 2008 pour augmenter la capacité de production actuelle de 1,5 millions d'hectolitres et retrouver celle de 2,7 millions d'hectolitres antérieure à l'achat. Si cet objectif est atteint, l'effectif du personnel passera à 170 salariés. L'activité de cette unité de production est suivie avec attention par les services de la préfecture de la Meurthe-et-Moselle. Les aides éventuelles à l'investissement ne pourront être octroyées que dans le cadre strict de la réglementation en vigueur, ce qui obligera l'entreprise à augmenter ses fonds propres.
