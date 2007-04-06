@@ -1196,7 +1196,7 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-Service des bacs et passage d'eau du conseil général, hôtel du département. Quai Jean-Moulin, 76101 Rouen Cedex 1. De 1947 à 1996.
+service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
 
@@ -1867,7 +1867,3 @@ Weizsaecker et Carrière Industrie (WCI) :
 - 30, rue Lenghenaer, 59140 Dunkerque : depuis 1930.
 
 Whessoe, rue de Bitche, 62100 Calais : de 1961 à 1995.
-
-NOTA :
-
-Arrêté du 2 mars 2007, Art. 1 : L'arrêté du 25 mars 2003 susvisé est retiré, en tant qu'il inscrit l'établissement Catogni Feltrin, 5, avenue du Meilleur-Ouvrier-de-France, 33700 Mérignac, depuis 1970.
