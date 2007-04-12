@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226367
+
+- Question : [SEQ070226367](seq070226367.md) — Modification des régimes de cotisations sociales pour les exploitants agricoles nouvellement installés
+
+## Réponse
+
+*Agriculture, JO du 2007-04-12, page 774*
+
+L'assiette des cotisations et contributions sociales des exploitants agricoles est constituée par l'ensemble des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu. Toutefois, les cotisations sociales des nouveaux installés sont calculées sur une assiette forfaitaire régularisable. Ces cotisations sont régularisées lorsque les revenus professionnels sont définitivement connus. Le mode de calcul de cette assiette forfaitaire amène dans certains cas les chefs d'exploitation ou d'entreprise agricole nouveaux installés à faire une avance de trésorerie qui leur est remboursée lorsque la caisse de Mutualité sociale agricole (MSA) procède à la régularisation. C'est pourquoi, après concertation avec les organisations professionnelles et la caisse centrale de la MSA, il a été décidé de modifier les modalités de calcul de cette assiette forfaitaire. Un projet de décret fixant l'assiette forfaitaire régularisable à un montant équivalent à celui des assiettes minimum lorsqu'elles existent et à 600 salaires minimum interprofessionnel de croissance (smic) dans le cas contraire est en cours de signature. Cet abaissement de l'assiette forfaitaire régularisable doit permettre d'éviter dans le plus grand nombre de cas les avances de trésorerie. Il convient enfin de noter que les jeunes chefs d'exploitation ou d'entreprise agricole peuvent bénéficier, y compris en cas d'application de cette assiette minimum, des exonérations jeunes agriculteurs. Par ailleurs, depuis 2004, la dotation jeune agriculteur est exclue de l'assiette des cotisations et contributions sociales.
