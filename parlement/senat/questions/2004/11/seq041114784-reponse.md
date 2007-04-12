@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114784
+
+- Question : [SEQ041114784](seq041114784.md) — Indemnité des adjoints au maire des communes de 500 à 999 habitants
+
+## Réponse
+
+*Intérieur, JO du 2007-04-12, page 783*
+
+A l'occasion de l'adoption de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité, un barème autonome a été introduit à l'article L. 2123-24 du code général des collectivités territoriales pour déterminer le montant des indemnités maximales pouvant être allouées aux adjoints au maire pour l'exercice effectif de leurs fonctions. Jusqu'à cette modification législative, le régime indemnitaire des adjoints était calculé par référence au barème applicable au maire des communes comprises dans la même strate de population. La création de ce barème autonome pour les adjoints au maire a été accompagnée d'une revalorisation de leur régime indemnitaire dans des proportions sensiblement identiques à celle opérée pour les maires par la loi du 5 avril 2000 relative à la limitation du cumul des mandats électoraux et des fonctions électives et à leurs conditions d'exercice. S'agissant des communes appartenant à la strate 500-999 habitants, le taux servant de base de calcul a progressé d'environ 21 %, ce qui, combiné aux réévaluations régulières des traitements de la fonction publique, a permis une augmentation, entre 1992 et 2002 de près de 40 % du montant mensuel maximal des indemnités dont peuvent bénéficier les adjoints au maire de ces communes. Le législateur ayant entendu moduler l'indemnisation des élus locaux, et notamment des adjoints au maire, en fonction des responsabilités exercées et de la charge de travail liée au nombre d'habitants de la commune, il n'est pas envisagé de modifier les dispositions contenues dans l'article L. 2123-24 en revalorisant certaines strates de population.
