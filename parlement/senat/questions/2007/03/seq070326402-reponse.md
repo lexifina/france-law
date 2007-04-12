@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326402
+
+- Question : [SEQ070326402](seq070326402.md) — Bilan actuel des expérimentations du placement sous surveillance électronique mobile (PSEM)
+
+## Réponse
+
+*Justice, JO du 2007-04-12, page 794*
+
+Le garde des sceaux, ministre de la justice, informe l'honorable parlementaire que le recours au placement sous surveillance électronique mobile (PSEM) a débuté dès l'été 2006 dans les établissements pénitentiaires situés dans le ressort des cours d'appel de Douai et de Caen, et que l'expérimentation a été étendue depuis janvier 2007 à l'ensemble des établissements des directions régionales des services pénitentiaires de Rennes, Lille, Paris et de Marseille. La première phase d'expérimentation se limite uniquement aux mesures de libération conditionnelle et ne concerne que les personnes condamnées à une peine d'au moins sept ans d'emprisonnement pour un crime ou un délit encourant une mesure de suivi socio-judiciaire et ayant donné leur consentement. Ainsi, six personnes ont été admises en libération conditionnelle assortie d'un PSEM et aucune n'a été ré-écrouée ni n'a été mise en cause dans une nouvelle procédure. Ce dispositif concerne les détenus qui ne peuvent prétendre à un aménagement de peine dit classique du fait de la dangerosité et du risque de récidive qu'ils présentent et qui nécessitent un encadrement adapté, tant technique que social, afin d'éviter tout nouveau passage à l'acte. Cette expérimentation a permis de constater que le dispositif est techniquement opérationnel et qu'il a été favorablement accueilli par les condamnés et leur entourage. Aussi, dès la publication du décret en Conseil d'Etat prévu par la loi du 12 décembre 2005, le PSEM pourra-t-il être ordonné non seulement dans le cadre de la libération conditionnelle mais aussi de la surveillance judiciaire et du suivi socio-judiciaire avant d'être généralisé en 2008.
