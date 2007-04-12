@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125436
+
+- Question : [SEQ061125436](seq061125436.md) — Alignement des avantages sociaux de la police et de la gendarmerie
+
+## Réponse
+
+*Intérieur, JO du 2007-04-12, page 788*
+
+Les militaires bénéficient d'une réduction de 75 % sur les tarifs de la SNCF. Il n'est pas envisagé d'extension de cet avantage aux fonctionnaires de police, qui sont des personnels civils de l'État. Toutefois, les policiers affectés à Paris ou dans les départements de la petite couronne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne) peuvent se voir octroyer une carte de circulation annuelle qui leur permet de voyager gratuitement sur l'ensemble des six zones du réseau RATP. En outre, l'ensemble des personnels de l'État et de ses établissements publics à caractère administratif dont la résidence administrative est située à l'intérieur de la zone de compétence de l'autorité organisatrice des transports parisiens, bénéficie de la prise en charge partielle du prix des titres d'abonnement qui correspondent aux déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail (décret n° 82-887 du 18 octobre 1982 et circulaire FP/7/N° 1772 du 11 juillet 1991). Ce principe fait l'objet d'une extension par l'article 69 de la loi n° 2006-1770 du 30 décembre 2006 pour le développement de la participation et de l'actionnariat salarié et portant diverses dispositions d'ordre économique et social qui crée le « chèque transport ». Le décret d'application n° 2006-1663 du 22 décembre 2006 ainsi que la circulaire du 25 janvier 2007 déterminent les conditions de prise en charge partielle du prix des titres d'abonnement qui correspondent aux déplacements effectués entre leur résidence habituelle et leur lieu de travail par les personnels de l'Ëtat et ses établissements publics administratifs qui travaillent hors de la région Ile-de-France.
