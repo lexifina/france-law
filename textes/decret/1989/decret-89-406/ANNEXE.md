@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-CONTRAT TYPE ENTRE L'ETAT ET LES ENSEIGNANTS D'ETABLISSEMENTS SOUS CONTRAT RELEVANT DE L'ARTICLE 4 DE LA LOI DU 31 DECEMBRE 1984
+CONTRAT TYPE ENTRE L'ETAT ET LES PERSONNELS ENSEIGNANTS ET DE DOCUMENTATION D'ETABLISSEMENTS SOUS CONTRAT RELEVANT DE L'ARTICLE L. 813-8 DU CODE RURAL
 
 Entre les soussignés :
 
-Le ministre de l'agriculture ou son représentant,
+Le ministre chargé de l'agriculture ou son représentant,
 
 D'une part,
 
@@ -14,9 +14,9 @@ D'autre part,
 
 il a été convenu ce qui suit :
 
-Art. 1er. - Le présent contrat est expressément régi par la loi n° 84-1285 du 31 décembre 1984 et par ses décrets d'application, en particulier les décrets n° 88-922 du 14 septembre 1988 modifié et n° ... ... du ... ... (présent décret).
+Art. 1er. - Le présent contrat est régi par les articles L. 813-1 à L. 813-8 et les articles R. 813-1 à R. 813-41 du code rural.
 
-Art. 2. - Le ministre de l'agriculture emploie le cocontractant en qualité d'enseignant contractuel pour exercer dans le secteur sous contrat de l'établissement dénommé ... ... (nom, n° ... ..., adresse ... ...), placé sous la responsabilité de ... ... (association ou organisme).
+Art. 2. - Le ministre chargé de l'agriculture emploie le cocontractant en qualité d'enseignant contractuel pour exercer dans le secteur sous contrat de l'établissement dénommé ... ... (nom, n° ... ..., adresse ... ...), placé sous la responsabilité de ... ... (association ou organisme).
 
 (Eventuellement : deuxième établissement d'exercice).
 
@@ -52,7 +52,7 @@ Le présent contrat ne peut être prolongé au-delà de la date de résiliation 
 
 Il prend effet à compter du
 
-Le ministre de l'agriculture
+Le ministre chargé de l'agriculture
 
 (ou son représentant)
 
