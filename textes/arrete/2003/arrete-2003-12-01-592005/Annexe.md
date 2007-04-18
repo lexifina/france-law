@@ -182,9 +182,7 @@ Le procès-verbaux sont signés par le président et le secrétaire. Ils sont é
 
 Article 8
 
-Les membres du conseil d'administration ne peuvent recevoir aucune rétribution à raison des fonctions qui leur sont confiées.
-
-Des remboursements de frais sont possibles selon les modalités et dans les limites fixées par le conseil d'administration.
+Des remboursements de frais aux membres du conseil d'administration sont possibles selon les modalités et dans les limites fixées par le conseil d'administration.
 
 Article 9
 
