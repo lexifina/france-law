@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225772
+
+- Question : [SEQ061225772](seq061225772.md) — Rémunération des travailleurs handicapés stagiaires
+
+## Réponse
+
+*Emploi et travail, JO du 2007-04-19, page 829*
+
+L'attention du Gouvernement a été appelée sur la diminution du montant de l'enveloppe budgétaire consacrée, en 2007, à la rémunération des stagiaires de la formation professionnelle. La loi du 4 mai 2004 relative à la formation professionnelle et la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ont confirmé le rôle et l'importance de la formation professionnelle en faveur des personnes handicapées. Enjeux essentiels pour le Gouvernement, la formation et la qualification des personnes handicapées requièrent que soient mobilisés les moyens budgétaires nécessaires pour poursuivre les actions engagées. Le ministre délégué à l'emploi, au travail et à l'insertion professionnelle des jeunes tient donc à préciser qu'un effort important a été effectué au cours de l'exercice précédent pour compléter la ligne de crédits de rémunération des stagiaires afin d'assurer la poursuite des actions engagées grâce aux redéploiements désormais autorisés par les dispositions de la loi organique n° 2001-692 du 1er août 2001 relative à la loi de finances. S'agissant plus particulièrement de l'exercice 2007, il a été décidé d'abonder, par redéploiement interne, la ligne de crédits affectés en 2007 à la rémunération des stagiaires de la formation professionnelle, pour les amener au niveau des dépenses effectuées en 2006. Le ministre délégué à l'emploi, au travail et à l'insertion professionnelle des jeunes tient enfin à rappeler que les acteurs du service public de l'emploi se mobilisent pour mettre en oeuvre l'ensemble des solutions permettant de garantir l'accompagnement et la réinsertion des travailleurs handicapés.
