@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326591
+
+- Question : [SEQ070326591](seq070326591.md) — Inquiétudes des propriétaires de mobile home
+
+## Réponse
+
+*Tourisme, JO du 2007-04-19, page 836*
+
+Les rapports entre les professionnels, les propriétaires ou gestionnaires de terrains de camping et les consommateurs louant une parcelle sont régis par le contrat de location d'un « emplacement loisirs » et par le règlement intérieur du site concerné. De manière générale, les professionnels de l'hôtellerie de plein air pratiquent la conclusion d'un contrat d'une durée d'un an pour éviter l'élection de domicile. La recommandation n° 05-01 de la commission des clauses abusives relative aux contrats d'hôtellerie de plein air et aux contrats de location d'emplacements de résidence mobile de loisirs, publiée au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes (BOCCRF) du 23 juin 2005, prévoit, dans ses articles 5 à 9, que les clauses d'un contrat stipulant « que toute installation laissée sans entretien, jugée vétuste ou à l'état d'épave, fera l'objet d'une mise en demeure demandant son remplacement ou son éviction » et que « dans les quinze jours sans réponse de l'intéressé, le responsable du site procédera à l'éviction ou à la destruction de l'épave aux frais de l'intéressé », présentent un caractère abusif. Cette recommandation ne traite pas de la durée du contrat et de son renouvellement. Préalablement à la signature de leur contrat et pour connaître leurs droits et obligations, les consommateurs peuvent prendre l'attache de la Fédération française de camping caravaning qui a pour rôle principal de les informer et de défendre leurs intérêts, ainsi que de la Fédération nationale de l'hôtellerie de plein air qui a élaboré un modèle de contrat de location.
