@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226241
+
+- Question : [SEQ070226241](seq070226241.md) — Renouvellement des cartes grises des véhicules à moteur
+
+## Réponse
+
+*Intérieur, JO du 2007-04-19, page 832*
+
+Aux termes de l'article 10 de l'arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules, pour obtenir le renouvellement de l'immatriculation d'un véhicule déjà immatriculé l'acquéreur doit présenter, notamment, une pièce justificative de son domicile. A l'occasion du rétablissement de l'obligation de présenter un justificatif de domicile en 2005, des instructions ont été adressées aux services préfectoraux afin de préciser les cas particuliers qui pourraient se présenter et les documents pouvant être acceptés. A cet effet, la circulaire NOR/INT/D/05/00034/C du 8 mars 2005 sur le rétablissement de présentation d'un justificatif de domicile lors d'une demande de certificat d'immatriculation d'un véhicule précise qu'une personne habitant chez un particulier doit communiquer les pièces suivantes : un document fourni par l'hébergeant attestant sur l'honneur la résidence du demandeur à son domicile, une pièce d'identité et un justificatif de domicile de l'hébergeant, un document officiel montrant la réalité de la résidence du demandeur au domicile de l'hébergeant tel qu'une feuille d'imposition (ou de non-imposition), une carte de sécurité sociale (attestation Vitale), un titre d'allocations familiales, un document de l'Agence nationale pour l'emploi... En conséquence, la circulaire en question permet de réimmatriculer un véhicule au nom d'une personne hébergée chez un tiers ne disposant pas nécessairement de factures à son nom. Cette démarche administrative est facilitée dès lors que la liste des pièces à fournir n'est pas exhaustive afin de simplifier la requête de tout demandeur.
