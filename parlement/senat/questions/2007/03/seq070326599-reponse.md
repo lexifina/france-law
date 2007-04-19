@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326599
+
+- Question : [SEQ070326599](seq070326599.md) — Revalorisation de la valeur du point de retraite du régime complémentaire d'assurance vieillesse des professions libérales
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-04-19, page 836*
+
+En France, les régimes complémentaires obligatoires (RCO) sont gérés par les professionnels du secteur d'activité concerné selon les principes d'autonomie et de responsabilité. Les organes d'administration fixent librement les modalités de financement et d'attribution de droits aux ressortissants du régime. Le RCO des artisans obéit aux mêmes règles. L'assemblée générale des représentants élus de la profession adopte les mesures de gestion du régime, l'Etat ne disposant que d'un pouvoir d'homologation du règlement adopté. Le contexte financier actuel du RCO des artisans est lié à une distribution importante de points de retraite gratuits (sans cotisation) au moment de la constitution du régime. Des mesures de redressement, sous forme de plans pluriannuels, ont dû être prises en répartissant l'effort sur l'ensemble des ressortissants, actifs et retraités. Il appartient donc à la profession, après une large concertation interne, de fixer librement les nouvelles modalités d'un redressement du régime et d'en soumettre la mise en oeuvre à l'Etat. La solidarité nationale s'exerce déjà en faveur des retraités du commerce et de l'artisanat, le régime vieillesse de base des artisans et des commerçants bénéficiant d'un effort financier important de l'Etat et des autres régimes. En effet, le financement de ce régime n'est pas assuré par les seules cotisations des assurés, mais bénéficie d'un transfert important provenant des autres régimes au titre de la compensation démographique, ainsi que de l'apport de la contribution sociale de solidarité des sociétés (C3S).
