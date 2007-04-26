@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061125502
+
+- Question : [SEQ061125502](seq061125502.md) — Prise en charge des visites d'aptitude pour les sportifs de haut niveau
+
+## Réponse
+
+*Jeunesse et sports, JO du 2007-04-26, page 868*
+
+L'article L. 231-6 du code du sport prévoit que les fédérations sportives délégataires assurent l'organisation de la surveillance médicale particulière à laquelle sont soumis leurs licenciés inscrits sur la liste des sportifs de haut niveau ainsi que les licenciés inscrits dans les filières d'accès au sport de haut niveau (espoirs). De ce fait, ce sont les fédérations sportives qui ont la charge financière de cette surveillance médicale notamment grâce à l'aide de l'Etat par le biais des conventions d'objectifs signées entre les fédérations et le ministère de la jeunesse, des sports et de la vie associative. Avant 2004, cette aide était exclusivement dirigée vers les sportifs de haut niveau dans l'attente de la définition du concept de « filière d'accès au sport de haut niveau ». C'est pourquoi le suivi médical des espoirs était pris en charge par la part régionale du contrat de plan Etat-région (CPER) en Provence - Alpes - Côte-d'Azur (PACA), pour toute la durée du CPER. Depuis 2004, le ministère chargé des sports soutient financièrement la quasi-totalité du coût de cette surveillance médicale tant pour les sportifs de haut niveau que pour les sportifs dans les filières d'accès au sport de haut niveau (espoirs). Cette aide doit être reconduite et confortée en 2007. Ainsi, la fin du CPER en PACA ne devrait pas affecter financièrement le centre médico-sportif de Hyères en 2007. En effet, si celui-ci est sollicité pour réaliser les examens médicaux des sportifs soumis à la surveillance médicale réglementaire précitée, ils devront faire l'objet d'une prise en charge financière intégrale par les fédérations sportives concernées.
