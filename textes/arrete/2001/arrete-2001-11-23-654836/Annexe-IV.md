@@ -8,23 +8,19 @@ I. - Modalités d'exécution
 
 Les épreuves d'éducation physique et sportives ont lieu à l'Ecole polytechnique à Palaiseau pendant les épreuves orales. Elles sont jugées par la commission spéciale constituée conformément à l'article 8.
 
-1o Les épreuves de course, de saut et de lancer du poids sont exécutées conformément aux règlements de la Fédération française d'athlétisme et aux dispositions supplémentaires précisées ci-après :
+1° Les épreuves de courses sont exécutées conformément aux règlements de la Fédération française d'athlétisme et aux dispositions supplémentaires précisées ci-après :
 
 - courses de 100 mètres et 80 mètres : par séries de deux ou trois candidats ;
 
-- courses de 1 000 mètres et 600 mètres : par séries d'environ dix candidats ;
+- courses de 1 000 mètres et 600 mètres : par séries d'environ dix candidats.
 
-- saut en hauteur avec élan : trois sauts sont permis à chaque hauteur ; un insuccès au troisième saut fait considérer comme acquise la hauteur précédemment franchie. Chaque candidat commence à une hauteur quelconque égale ou supérieure à la hauteur minimale. Il pourra sauter à volonté à toute hauteur qui suivra la hauteur minimale et renoncer ainsi à un ou plusieurs sauts à une hauteur donnée et avoir encore droit de sauter à une hauteur supérieure. Si le renoncement survient après un ou deux échecs, le nombre d'essais autorisé à une hauteur supérieure est réduit d'autant ;
-
-- lancer du poids : chaque candidat a droit à trois essais du meilleur bras. Seul le meilleur essai est retenu.
-
-2o L'épreuve de natation est exécutée conformément aux règlements de la Fédération française de natation.
+2° L'épreuve de natation est exécutée conformément aux règlements de la Fédération française de natation.
 
 II. - Notation
 
 Toute performance comprise entre deux performances cotées au barème est cotée comme la performance inférieure. Toute performance inférieure à la performance cotée 1 au barème est cotée zéro.
 
-La non-participation à l'une des épreuves, pour quelque raison que ce soit, entraîne la note zéro pour cette épreuve. Chaque épreuve est affectée du coefficient 1. Le total de l'ensemble des épreuves est ainsi coté de 0 à 100.
+La non-participation à l'une des épreuves, pour quelque raison que ce soit, entraîne la note zéro pour cette épreuve. La moyenne des notes sur 20 obtenues à chacune des trois épreuves est affectée d'un coefficient global de 5.
 
 III. - Barèmes
 
@@ -39,22 +35,6 @@ POINTS
 |
 
 1 000 MÈTRES
-
-|
-
-SAUT EN HAUTEUR
-
-avec élan
-
-(en mètres)
-
-|
-
-LANCER DU POIDS
-
-de 5 kg
-
-(en mètres)
 
 |
 
@@ -74,15 +54,7 @@ nage libre
 
 |
 
-2'54''
-
-|
-
-1,70
-
-|
-
-12
+2'53''
 
 |
 
@@ -102,14 +74,6 @@ nage libre
 
 |
 
-1,68
-
-|
-
-11,70
-
-|
-
 33''
 
 |
@@ -122,15 +86,7 @@ nage libre
 
 |
 
-2'58''
-
-|
-
-1,66
-
-|
-
-11,40
+2'59''
 
 |
 
@@ -146,15 +102,7 @@ nage libre
 
 |
 
-3'
-
-|
-
-1,63
-
-|
-
-11,10
+3'03"
 
 |
 
@@ -170,15 +118,7 @@ nage libre
 
 |
 
-3'03''
-
-|
-
-1,60
-
-|
-
-10,70
+3'07''
 
 |
 
@@ -194,15 +134,7 @@ nage libre
 
 |
 
-3'08''
-
-|
-
-1,56
-
-|
-
-10,30
+3'11''
 
 |
 
@@ -218,15 +150,7 @@ nage libre
 
 |
 
-3'10''
-
-|
-
-1,52
-
-|
-
-9,90
+3'16''
 
 |
 
@@ -242,15 +166,7 @@ nage libre
 
 |
 
-3'14''
-
-|
-
-1,48
-
-|
-
-9,50
+3'21''
 
 |
 
@@ -266,15 +182,7 @@ nage libre
 
 |
 
-3'18
-
-|
-
-1,44
-
-|
-
-9,10
+3'27"
 
 |
 
@@ -290,15 +198,7 @@ nage libre
 
 |
 
-3'22''
-
-|
-
-1,40
-
-|
-
-8,70
+3'33''
 
 |
 
@@ -314,15 +214,7 @@ nage libre
 
 |
 
-3'26''
-
-|
-
-1,36
-
-|
-
-8,30
+3'39''
 
 |
 
@@ -338,15 +230,7 @@ nage libre
 
 |
 
-3'30''
-
-|
-
-1,32
-
-|
-
-7,90
+3'47''
 
 |
 
@@ -362,15 +246,7 @@ nage libre
 
 |
 
-3'35''
-
-|
-
-1,28
-
-|
-
-7,50
+3'55''
 
 |
 
@@ -386,15 +262,7 @@ nage libre
 
 |
 
-3'40''
-
-|
-
-1,25
-
-|
-
-7,10
+4'03''
 
 |
 
@@ -410,15 +278,7 @@ nage libre
 
 |
 
-3'45''
-
-|
-
-1,22
-
-|
-
-6,70
+4'12''
 
 |
 
@@ -434,15 +294,7 @@ nage libre
 
 |
 
-3'50''
-
-|
-
-1,19
-
-|
-
-6,20
+4'22''
 
 |
 
@@ -458,15 +310,7 @@ nage libre
 
 |
 
-3'55''
-
-|
-
-1,16
-
-|
-
-5,70
+4'33''
 
 |
 
@@ -482,15 +326,7 @@ nage libre
 
 |
 
-4'
-
-|
-
-1,13
-
-|
-
-5,20
+4'45"
 
 |
 
@@ -506,15 +342,7 @@ nage libre
 
 |
 
-4'05''
-
-|
-
-1,10
-
-|
-
-4,70
+4'59''
 
 |
 
@@ -530,21 +358,13 @@ nage libre
 
 |
 
-4'10''
-
-|
-
-1,07
-
-|
-
-4,20
-
-|
+Epreuve terminée (1) |
 
 67''
 
 |
+
+(1) Dans la limite d'un temps ne dépassant pas 6 minutes.
 
 B. - Barème féminin
 
@@ -557,22 +377,6 @@ POINTS
 |
 
 600 MÉTRES
-
-|
-
-SAUT EN HAUTEUR
-
-avec élan
-
-(en mètres)
-
-|
-
-LANCER DU POIDS
-
-de 3 kg
-
-(en mètres)
 
 |
 
@@ -592,15 +396,7 @@ nage libre
 
 |
 
-1'56'
-
-|
-
-1,40
-
-|
-
-9,80
+1'50'
 
 |
 
@@ -616,15 +412,7 @@ nage libre
 
 |
 
-1'57''6
-
-|
-
-1,38
-
-|
-
-9,50
+1'53''
 
 |
 
@@ -640,15 +428,7 @@ nage libre
 
 |
 
-1'53''3
-
-|
-
-1,36
-
-|
-
-9,20
+1'56''
 
 |
 
@@ -664,15 +444,7 @@ nage libre
 
 |
 
-2'01''1
-
-|
-
-1,33
-
-|
-
-8,90
+2'00''
 
 |
 
@@ -688,15 +460,7 @@ nage libre
 
 |
 
-2'03''1
-
-|
-
-1,30
-
-|
-
-8,55
+2'04''
 
 |
 
@@ -712,15 +476,7 @@ nage libre
 
 |
 
-2'05''2
-
-|
-
-1,27
-
-|
-
-8,20
+2'08''
 
 |
 
@@ -736,15 +492,7 @@ nage libre
 
 |
 
-2'07''5
-
-|
-
-1,24
-
-|
-
-7,85
+2'12''
 
 |
 
@@ -760,15 +508,7 @@ nage libre
 
 |
 
-2'09''9
-
-|
-
-1,21
-
-|
-
-7,50
+2'17''
 
 |
 
@@ -784,15 +524,7 @@ nage libre
 
 |
 
-2'12''5
-
-|
-
-1,18
-
-|
-
-7,10
+2'22''
 
 |
 
@@ -808,15 +540,7 @@ nage libre
 
 |
 
-2'15''2
-
-|
-
-1,15
-
-|
-
-6,70
+2'27''
 
 |
 
@@ -832,15 +556,7 @@ nage libre
 
 |
 
-2'18''
-
-|
-
-1,12
-
-|
-
-6,30
+2'33''
 
 |
 
@@ -856,19 +572,11 @@ nage libre
 
 |
 
-2'21''
+2'39''
 
 |
 
-1,10
-
-|
-
-5,90
-
-|
-
-58''5
+56''5
 
 |
 
@@ -880,15 +588,7 @@ nage libre
 
 |
 
-2'24''1
-
-|
-
-1,07
-
-|
-
-5,50
+2'46''
 
 |
 
@@ -904,15 +604,7 @@ nage libre
 
 |
 
-2'27''4
-
-|
-
-1,04
-
-|
-
-5 ,10
+2'53''
 
 |
 
@@ -928,15 +620,7 @@ nage libre
 
 |
 
-2'30''8
-
-|
-
-1,01
-
-|
-
-4,70
+3'01''
 
 |
 
@@ -952,15 +636,7 @@ nage libre
 
 |
 
-2'34''4
-
-|
-
-0,98
-
-|
-
-4,40
+3'10''
 
 |
 
@@ -976,15 +652,7 @@ nage libre
 
 |
 
-2'38''1
-
-|
-
-0,95
-
-|
-
-4,10
+3'20''
 
 |
 
@@ -1000,15 +668,7 @@ nage libre
 
 |
 
-2'41''9
-
-|
-
-0,92
-
-|
-
-3,80
+3'31''
 
 |
 
@@ -1024,15 +684,7 @@ nage libre
 
 |
 
-2'45''9
-
-|
-
-0,89
-
-|
-
-3,50
+3'44''
 
 |
 
@@ -1048,18 +700,12 @@ nage libre
 
 |
 
-2'50''
-
-|
-
-0,86
-
-|
-
-3,20
+Epreuve terminée (1)
 
 |
 
 1'25''
 
 |
+
+(1) Dans la limite d'un temps ne dépassant pas 4 minutes et 30 secondes.
