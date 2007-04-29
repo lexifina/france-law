@@ -12,13 +12,13 @@
 
 6. La capacité de stockage des matières premières et des produits finis, ainsi que le tonnage de production journalier prévu.
 
-7. Une attestation de la potabilité de l'eau, à défaut, une attestation de raccordement au réseau public ou une copie de l'arrêté préfectoral autorisant l'utilisation d'eau d'une autre origine, avec éventuellement le résultat des analyses effectuées sur l'eau avant et après une opération de vaporisation.
+7. Les modalités d'approvisionnement en eau.
 
 8. Le plan de nettoyage et, le cas échéant, de désinfection de l'établissement.
 
 9. Le plan de lutte contre les animaux indésirables.
 
-10. L'organigramme du personnel d'encadrement des activités visées dans les conditions d'agrément, avec précisions sur les qualifications (diplômes, expériences professionnelles) et les responsabilités ; le plan de formation du personnel.
+10. L'organigramme du personnel d'encadrement, avec précisions sur les qualifications (diplômes, expériences professionnelles) et les responsabilités ; le plan de formation du personnel.
 
 11. Un résumé de l'analyse des points critiques en fonction des dangers potentiels identifiés, la liste des principaux points critiques et les procédures mises en place pour leur maîtrise.
 

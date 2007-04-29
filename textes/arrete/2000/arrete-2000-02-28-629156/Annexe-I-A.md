@@ -36,9 +36,7 @@ Précisions à fournir selon l'activité.
 
 Pour la fabrication et/ou la commercialisation ou distribution d'aliments composés :
 
-- les matières premières utilisées présentent-elles toujours des teneurs en substances et produits indésirables inférieures à celles fixées à l'annexe I de l'arrêté du 16 mars 1989 modifié fixant les teneurs maximales pour les substances et produits indésirables dans l'alimentation animale ?
-
-- des produits protéiques d'origine animale interdits dans l'alimentation des ruminants par l'arrêté du 8 juillet 1996 sont-ils utilisés pour la fabrication d'aliments composés destinés à d'autres animaux ?
+- des produits protéiques d'origine animale interdits dans l'alimentation des ruminants par l'arrêté du 18 juillet 2006 sont-ils utilisés pour la fabrication d'aliments composés destinés à d'autres animaux ?
 
 - indiquer les catégories (1) auxquelles appartiennent les additifs incorporés dans les aliments.
 
@@ -48,12 +46,8 @@ Pour la fabrication et la commercialisation ou distribution de matières premiè
 
 - coproduits de la fabrication d'acides aminés par fermentation ;
 
-- acides aminés et leurs sels ;
-
-- analogues hydroxylés des acides aminés.
-
 Pour la fabrication et/ou la commercialisation ou distribution d'additifs : indiquer le nom spécifique de chaque additif, son numéro CE, et la catégorie (1) auquel il appartient.
 
 Pour la fabrication et/ou la commercialisation ou distribution de pré-mélanges comportant des additifs : indiquer les catégories (1) auxquelles appartiennent les additifs incorporés dans les pré-mélanges.
 
-(1) Antibiotiques, substances ayant des effets antioxygènes (en précisant si une teneur maximale dans l'aliment complet est fixée), substances aromatiques et apéritives, coccidiostatiques et autres substances médicamenteuses, agents émulsifiants, stabilisants, épaississants et gélifiants, matières colorantes y compris les pigments (en précisant s'il s'agit de caroténoïdes et xanthophylles), agents conservateurs, vitamines, provitamines et substances à effet analogue chimiquement bien définies, vitamines (en précisant s'il s'agit de vitamines A et D), oligo-éléments (en précisant s'il s'agit de cuivre ou sélénium), facteurs de croissance, agents liants, antimottants et coagulants, régulateurs d'acidité, enzymes, microorganismes, liants de radionucléides.
+(1) Substances ayant des effets antioxygènes (en précisant si une teneur maximale dans l'aliment complet est fixée), substances aromatiques et apéritives, coccidiostatiques et histomonostatiques, agents émulsifiants, stabilisants, épaississants et gélifiants, matières colorantes y compris les pigments (en précisant s'il s'agit de caroténoïdes et xanthophylles), agents conservateurs, vitamines, provitamines et substances à effet analogue chimiquement bien définies, vitamines (en précisant s'il s'agit de vitamines A et D), oligo-éléments (en précisant s'il s'agit de cuivre ou sélénium), Diformiate de potassium, agents liants, antimottants et coagulants, régulateurs d'acidité, enzymes, microorganismes, liants de radionucléides, acides aminés, leurs sels et produits analogues, urée et ses dérivés.
