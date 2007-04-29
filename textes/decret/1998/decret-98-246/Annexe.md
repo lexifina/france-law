@@ -1,5 +1,7 @@
 # Article Annexe
 
+Liste relative aux métiers entrant dans le champ des activités mentionnées au I de l'article 16 de la loi du 5 juillet 1996.
+
 I. - Entretien et réparation des véhicules et des machines :
 
 réparateur d'automobiles, carrossier, réparateur de cycles et motocycles, réparateur de matériels agricoles, forestiers et de travaux publics.
@@ -12,7 +14,7 @@ III. - Mise en place, entretien et réparation des réseaux et des équipements 
 
 IV. - Ramonage : ramoneur.
 
-V. - Soins esthétiques à la personne autres que médicaux et paramédicaux : esthéticien.
+V. - Soins esthétiques à la personne autres que médicaux et paramédicaux et modelages esthétiques de confort sans finalité médicale : esthéticien.
 
 VI. - Réalisation de prothèses dentaires : prothésiste dentaire.
 
