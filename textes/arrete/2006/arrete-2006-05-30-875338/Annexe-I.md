@@ -288,19 +288,41 @@ sur plaque base métallique, supplément
 
 |
 
-Réparation de fracture de la plaque base
+Prothèses dentaire adjointes :
 
 |
+
+|
+
+|
+
+|
+
+Réparation de fracture de la plaque base en matière plastique |
 
 21,50
 
 |
 
-65
+65,00
 
 |
 
 43,50
+
+|
+
+Réparation de fracture de la plaque base métallique, non compris s'il y a lieu, le remontage des dents sur matière plastique |
+
+32,25
+
+|
+
+65,00
+
+|
+
+32,75
 
 |
 
@@ -604,7 +626,7 @@ Traitement des dysmorphoses :
 
 |
 
-464 (*)
+464
 
 |
 
@@ -757,10 +779,6 @@ non renouvelable
 |
 
 187,62
-
-|
-
-(*) Ce montant n'est applicable qu'à 4 semestres.
 
 |
 
