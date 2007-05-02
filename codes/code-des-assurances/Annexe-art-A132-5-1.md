@@ -1,4 +1,4 @@
-# Article Annexe à l'article A132-5-1
+# Article Annexe art. A132-5-1
 
 Formule de calcul de la valeur de transfert à l'adhésion, en l'absence de contre-assurance décès et d'engagement exprimés en unités de compte :
 
