@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061225767
+
+- Question : [SEQ061225767](seq061225767.md) — Stages à la formation d'esthéticienne
+
+## Réponse
+
+*Emploi et travail, JO du 2007-05-03, page 906*
+
+L'attention du Gouvernement a été appelée sur la formation des esthéticiennes, en particulier sur l'existence de certaines formations payantes s'accompagnant de stages non rémunérés pouvant s'étendre à deux années dans la même entreprise qui renouvelle les stagiaires. Comme vous le savez, la loi pour l'égalité des chances votée le 31 mars 2006 aborde ce sujet sensible. Ainsi, son article 9 précise que la conclusion d'une convention est rendue obligatoire pour les stages en milieu professionnel ne relevant pas de la formation professionnelle continue avec le versement obligatoire d'une gratification en cas de durée de stage supérieure à trois mois consécutifs. Le décret n° 2006-1093 du 29 août 2006 (Journal officiel du 31 août 2006) pris pour l'application de l'article 9 précité mentionne la procédure d'élaboration et de signature des conventions de stage en entreprise qui sont obligatoirement conclues entre les établissements d'enseignement supérieur, relevant de la formation initiale, et les entreprises pour les stages d'une durée supérieure à trois mois consécutifs. De plus, des accords relatifs à la formation professionnelle peuvent être négociés sur ces thématiques. Ainsi, à titre indicatif, un avenant du 6 juillet 2004 relatif aux contrats de professionnalisation pour la branche de la parfumerie esthétique porte sur la rémunération des jeunes sous contrat de professionnalisation. Ces dispositions concourent aux objectifs assignés à la formation professionnelle tout au long de la vie en matière d'insertion professionnelle, d'emploi, de développement des compétences et d'accès aux différents niveaux de la qualification professionnelle, objectifs partagés entre le Gouvernement et les partenaires sociaux.
