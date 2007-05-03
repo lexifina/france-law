@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326494
+
+- Question : [SEQ070326494](seq070326494.md) — Permission de sortie pour les obsèques d'un ascendant du condamné
+
+## Réponse
+
+*Justice, JO du 2007-05-03, page 912*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire l'intérêt qu'il porte aux permissions de sortir accordées aux détenus pour se rendre auprès d'un membre de sa proche famille, gravement malade ou décédé. Des permissions de sortir peuvent être accordées aux condamnés sur le fondement de l'article D. 144 du code de procédure pénale en cas de circonstances familiales graves (maladie ou décès d'un proche parent). Aucune condition de délai n'est requise pour les condamnés exécutant une ou plusieurs peine(s) d'emprisonnement inférieure(s) ou égale(s) à cinq ans. Dans le cas contraire, ils doivent justifier de l'accomplissement de la moitié de leur peine, ou des deux tiers, en cas de récidive légale. Pour des circonstances exceptionnelles, ces sorties peuvent être autorisées sous escorte pour tous les condamnés, quelle que soit la peine prononcée ou la durée d'exécution de celle-ci, sur le fondement de l'article 723-6 du code de procédure pénale. Ces décisions sont prises par le juge de l'application des peines, qui statue après avoir recueilli l'avis de la commission de l'application des peines, sauf en cas d'urgence. Ce magistrat examine les conditions juridiques de recevabilité de la demande conformément aux exigences du code de procédure pénale. Il apprécie, par ailleurs, le bien-fondé et l'opportunité de la requête en fonction de la situation personnelle du condamné et de sa famille, et rend une décision motivée au cas d'espèce. En cas de rejet de la demande, le condamné peut faire appel de la décision dans un délai de vingt-quatre heures à compter de sa notification.
