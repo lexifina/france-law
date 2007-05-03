@@ -1,17 +1,47 @@
 # Article ANNEXE
 
-CORPS : Agents d'exploitation des travaux publics de l'Etat (branche routes-bases aériennes).
+CORPS
 
-POURCENTAGE DE POSTES OFFERTS QUI POURRONT ÊTRE POURVUS PAR LA NOMINATION DE CANDIDATS INSCRITS SUR LA LISTE COMPLEMENTAIRE :
+|
 
-400
+POURCENTAGE
 
-PROPORTION STATUTAIRE : Néant (concours unique)
+de postes offerts qui
 
-CORPS : Agents d'exploitation des travaux publics de l'Etat (branche voies navigables-ports maritimes).
+pourront être pourvus par la
 
-POURCENTAGE DE POSTES OFFERTS QUI POURRONT ÊTRE POURVUS PAR LA NOMINATION DE CANDIDATS INSCRITS SUR LA LISTE COMPLEMENTAIRE :
+nomination de candidats inscrits
 
-400
+sur la liste complémentaire
 
-PROPORTION STATUTAIRE : Néant (concours unique)
+|
+
+PROPORTION
+
+statutaire
+
+|
+
+Personnels d'exploitation des travaux publics de l'Etat (branche routes-bases aériennes).
+
+|
+
+400 |
+
+Néant
+
+(concours unique)
+
+|
+
+Personnels d'exploitation des travaux publics de l'Etat (branche voies navigables-ports maritimes).
+
+|
+
+400 |
+
+Néant
+
+(concours unique)
+
+|
