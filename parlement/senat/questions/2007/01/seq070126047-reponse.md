@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070126047
+
+- Question : [SEQ070126047](seq070126047.md) — Attribution de la croix du combattant volontaire avec agrafe «missions extérieures » aux appelés du contingent
+
+## Réponse
+
+*Défense, JO du 2007-05-03, page 900*
+
+La ministre de la défense considère que la demande d'attribution de la croix du combattant volontaire (CCV) aux appelés du contingent qui ont participé à des opérations militaires au titre d'opérations extérieures (OPEX) est légitime, dans la mesure où les intéressés, qui n'étaient pas tenus de participer aux OPEX, ont manifesté leur volontariat, ont été affectés en unités combattantes, se sont vu attribuer la médaille commémorative afférente au conflit donné et, enfin, sont titulaires de la carte du combattant. La CCV, créée en 1981, peut être attribuée, assortie des barrettes correspondantes, au titre de la Seconde Guerre mondiale et des conflits d'Indochine, de Corée et d'Afrique du Nord. A ce jour, il n'existe pas de CCV avec barrette « Missions extérieures ». L'étude menée par les services du ministère de la défense à la demande de la ministre a révélé que plusieurs dizaines d'appelés réunissaient toutes les conditions exigées pour obtenir une telle décoration. Afin de mieux prendre en compte la particularité et la diversité des actions militaires menées sur les théâtres d'opérations extérieurs, un nouveau projet relatif à la définition de nouveaux critères d'attribution de la carte du combattant a été étudié parallèlement à ces réflexions sur la CCV. Cette évolution permettrait à un plus grand nombre d'appelés volontaires, non encore titulaires de la carte du combattant, de prétendre à l'attribution de la CCV. Ce projet n'ayant toutefois pas encore abouti, la barrette « missions extérieures » sera créée dès maintenant afin de pouvoir récompenser le personnel réunissant déjà les conditions d'octroi de la CCV.
