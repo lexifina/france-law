@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326668
+
+- Question : [SEQ070326668](seq070326668.md) — Collecte sélective et élimination des déchets d'activité de soins à risque
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-05-03, page 916*
+
+Avec le développement des alternatives à l'hospitalisation et des traitements administrés par les patients eux-mêmes par voie parentérale (diabète, hépatites, VIH...), ce sont près de 2 millions de personnes qui utilisent, chaque année, à leur domicile, des produits piquants-coupants présentant des risques particuliers (infectieux et toxicologiques). Actuellement, ces déchets sont le plus souvent jetés dans le circuit des ordures ménagères, exposant les personnels du ramassage des ordures ménagères ou des centres de tri sélectif à des risques d'accident. Cette situation n'est pas satisfaisante. Il est nécessaire de mettre en place une filière spécifique pour leur élimination. Afin de sécuriser la collecte et le transport de ces déchets, les services du ministère de la santé et des solidarités travaillent, en collaboration avec ceux du ministère de l'écologie et du développement durable et du ministère de l'intérieur, à l'élaboration d'une réglementation nationale visant à offrir aux usagers, en tout point du territoire, une solution adaptée au problème de la collecte et de l'élimination de leurs déchets de soins. En ce sens, des aménagements spécifiques des dispositions réglementaires sont actuellement en cours d'évaluation au niveau des services techniques concernés, portant notamment sur les modalités d'entreposage des installations de regroupement des déchets d'activités de soins à risques infectieux produits par les ménages pour de faibles quantités de déchets regroupés, l'objectif poursuivi étant de faciliter l'activité de regroupement de ces déchets en s'efforçant de concilier les contraintes du patient avec les exigences de sécurité sanitaire.
