@@ -110,7 +110,7 @@ Inspecteurs du Trésor.
 
 Inspecteurs des impôts.
 
-Attachés de l’Institut national de la statistique et des études économiques.
+Attachés statisticiens de l'Institut national de la statistique et des études économiques
 
 Agents de recouvrement du Trésor.
 
