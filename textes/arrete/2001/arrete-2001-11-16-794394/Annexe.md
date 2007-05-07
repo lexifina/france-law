@@ -54,11 +54,15 @@ Puffin cendré
 
 Puffin des Baléares
 
+Puffinus Yellkouan.
+
 |
 
 Calonectris diomedea.
 
 Puffinus mauretanicus.
+
+Puffin yelkouan.
 
 |
 
@@ -70,9 +74,13 @@ HYDROBATIDAE
 
 Océanite tempête
 
+Oceanodroma leuchorhoa
+
 |
 
 Hydrobates pelagicus.
+
+Océanite culblanc.
 
 |
 
@@ -326,6 +334,8 @@ Faucon d'Eléonore
 
 Faucon pèlerin
 
+Falco vespertinus
+
 |
 
 Falco naumanni.
@@ -335,6 +345,8 @@ Falco columbarius.
 Falco eleonorae.
 
 Falco peregrinus.
+
+Faucon Kobez.
 
 |
 
@@ -496,11 +508,15 @@ Pluvier guignard
 
 Pluvier doré
 
+Charadrius alexandrinus
+
 |
 
 Eudromias morinellus.
 
 Pluvialis apricaria.
+
+Gravelot à collier interrompu.
 
 |
 
@@ -550,6 +566,8 @@ Goéland railleur
 
 Goéland d'Audouin
 
+Larus minutus.
+
 |
 
 Larus melanocephalus.
@@ -557,6 +575,8 @@ Larus melanocephalus.
 Larus genei.
 
 Larus audouinii.
+
+Mouette pygmée.
 
 |
 
