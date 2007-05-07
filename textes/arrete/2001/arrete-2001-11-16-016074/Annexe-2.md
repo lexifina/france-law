@@ -1,7 +1,5 @@
 # Article Annexe 2
 
-.
-
 NOM DES ESPÈCES
 
 |
@@ -606,6 +604,8 @@ Vison d'Europe (Mustela lutreola)
 
 |
 
+*
+
 |
 
 |
@@ -843,6 +843,62 @@ Marsouin commun (Phocoena phocoena)
 |
 
 X
+
+|
+
+Crustacea
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Decapoda
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Ecrevisse des torrents
+
+(Austropotamobius torrentium)
+
+|
+
+1093
+
+|
+
+*
+
+|
+
+|
+
+|
+
+X
+
+|
 
 |
 
@@ -1706,8 +1762,6 @@ Loche de rivière (Cobitis taenia)
 
 |
 
-X
-
 |
 
 X
@@ -1807,8 +1861,6 @@ Grande alose (Alosa alosa)
 |
 
 |
-
-X
 
 |
 
@@ -1988,6 +2040,28 @@ X
 
 |
 
+Carabe variolé (Carabus variolosus)
+
+|
+
+4014
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
 Grand Capricorne (Cerambyx cerdo)
 
 |
@@ -2088,6 +2162,62 @@ X
 
 |
 
+Rhysodes sulcatus |
+
+4026
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+Stephanopachys linearis |
+
+1926
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+Stephanopachys substriatus |
+
+1927
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
 Taupin violacé (Limoniscus violaceus)
 
 |
@@ -2171,6 +2301,28 @@ X
 |
 
 X
+
+|
+
+Cuivré de la Bistorte (Lycaena helle)
+
+|
+
+4038
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
 
 |
 
@@ -2296,6 +2448,28 @@ X
 
 |
 
+Gortyna borelii lunata
+
+|
+
+4035
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Isabelle de France (Graellsia isabellae)
 
 |
@@ -2403,6 +2577,26 @@ X
 |
 
 X
+
+|
+
+Agrion orné (Coenagrion ornatum) |
+
+4045
+
+|
+
+*
+
+|
+
+|
+
+|
+
+X
+
+|
 
 |
 
@@ -2554,6 +2748,26 @@ Gastropoda
 
 |
 
+Anisus vorticulus |
+
+4056
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
 Escargot de Quimper (Elona quimperiana)
 
 |
@@ -2585,8 +2799,6 @@ Vertigo angustior
 |
 
 |
-
-X
 
 |
 
@@ -3282,6 +3494,30 @@ X
 
 |
 
+Serratule à feuilles de chanvre d'eau
+
+(Serratula lycopifolia)
+
+|
+
+4087
+
+|
+
+*
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 Cruciferae
 
 |
@@ -3453,6 +3689,46 @@ Coléanthe délicat (Coleanthus subtilis)
 |
 
 X
+
+|
+
+Iridaceae
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Glaïeul des marais (Gladiolus
+
+palustris)
+
+|
+
+4096
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
 
 |
 
@@ -4389,6 +4665,8 @@ X
 |
 
 |
+
+X
 
 |
 

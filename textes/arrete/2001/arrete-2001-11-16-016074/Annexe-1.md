@@ -332,7 +332,7 @@ Marais et prés salés atlantiques et continentaux
 
 |
 
-13
+14
 
 |
 
@@ -513,6 +513,8 @@ X
 |
 
 |
+
+X
 
 |
 
@@ -753,6 +755,8 @@ Dépressions humides intradunales
 |
 
 |
+
+X
 
 |
 
@@ -1006,6 +1010,8 @@ Eaux oligotrophes très peu minéralisées des plaines sablonneuses (Littorellet
 
 |
 
+X
+
 |
 
 X
@@ -1114,7 +1120,7 @@ X
 
 |
 
-Lacs et mares dystrophes naturels
+Mares et lacs dystrophes naturels
 
 |
 
@@ -1127,8 +1133,6 @@ Lacs et mares dystrophes naturels
 X
 
 |
-
-X
 
 |
 
@@ -1158,15 +1162,13 @@ X
 
 |
 
-X
-
 |
 
 X
 
 |
 
-Eaux courantes, tronçons de cours d'eaux à dynamique naturelle et semi-naturelle (lits mineurs, moyens et majeurs) dont la qualité de l'eau ne présente pas d'altération significative
+Eaux courantes - tronçons de cours d'eaux à dynamique naturelle et semi-naturelle (lits mineurs, moyens et majeurs) dont la qualité de l'eau ne présente pas d'altération significative
 
 |
 
@@ -1197,6 +1199,8 @@ Rivières alpines avec végétation ripicole herbacée
 X
 
 |
+
+X
 
 |
 
@@ -1521,6 +1525,28 @@ X
 |
 
 |
+
+|
+
+|
+
+Fourrés de Salix spp. subarctiques
+
+|
+
+4080
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
 
 |
 
@@ -1890,6 +1916,8 @@ X
 
 |
 
+X
+
 |
 
 |
@@ -2025,8 +2053,6 @@ X
 X
 
 |
-
-X
 
 |
 
@@ -2589,6 +2615,8 @@ Formations pionnières alpines du Caricion bicoloris-atrofuscae
 X
 
 |
+
+X
 
 |
 
@@ -3382,8 +3410,6 @@ X
 
 |
 
-X
-
 |
 
 Galeries et fourrés riverains méridionaux (Nerio-Tamaricetea et Securinegion tinctoriae)
@@ -3483,8 +3509,6 @@ X
 X
 
 |
-
-X
 
 |
 
