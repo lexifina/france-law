@@ -16,7 +16,7 @@ Nombre de points par emploi
 
 |
 
-Secrétaire général des ministères chargés des affaires sociale
+Secrétaire général des ministères chargés des affaires sociales
 
 |
 
@@ -68,14 +68,6 @@ Nombre de points par emploi
 
 |
 
-Délégué général :
-
-|
-
-|
-
-|
-
 Délégué général à l'emploi et à la formation professionnelle
 
 |
@@ -92,7 +84,15 @@ Directeur général d'administration centrale :
 
 |
 
+Directeur général du travail (à compter du 22 août 2006)
+
 |
+
+1
+
+|
+
+180
 
 |
 
@@ -136,10 +136,6 @@ Directeur d'administration centrale :
 
 |
 
-|
-
-|
-
 Directeur de l'animation de la recherche, des études et des statistiques
 
 |
@@ -152,7 +148,7 @@ Directeur de l'animation de la recherche, des études et des statistiques
 
 |
 
-Directeur des relations du travail
+Directeur , adjoint au directeur général du travail (à compter du 22 août 2006)
 
 |
 
@@ -240,10 +236,6 @@ Délégué :
 
 |
 
-|
-
-|
-
 Délégué interministériel à l'insertion professionnelle et sociale des jeunes en difficulté
 
 |
@@ -269,6 +261,18 @@ Délégué interministériel à la lutte contre le travail illégal
 |
 
 Délégué aux affaires européennes et internationales
+
+|
+
+1
+
+|
+
+140
+
+|
+
+Délégué interministériel à l'innovation, à l'expérimentation sociale et à l'économie sociale (à compter du 13 février 2006)
 
 |
 
@@ -322,7 +326,7 @@ Chef de service ou sous-directeur exerçant les fonctions de Directeur général
 
 |
 
-Chef de service, direction de l'animation de la recherche, des études et des statistiques
+Chef de service, direction générale du travail (à compter du 22 août 2006)
 
 |
 
@@ -334,7 +338,7 @@ Chef de service, direction de l'animation de la recherche, des études et des st
 
 |
 
-Chef de service, direction des relations du travail
+Chef de service, direction de l'animation, de la recherche, des études et des statistiques
 
 |
 
@@ -406,11 +410,11 @@ Chef de service, direction de la population et des migrations
 
 |
 
-Chef de service, direction de la sécurité sociale
+Chef de service, direction de la sécurité sociale (à compter du 3 janvier 2006)
 
 |
 
-1
+2
 
 |
 
@@ -470,7 +474,7 @@ Chef du service des droits des femmes et de l'égalité
 
 |
 
-Chef du service de l'information et de la communication
+Chef du service, de l'information et de la communication
 
 |
 
@@ -482,7 +486,7 @@ Chef du service de l'information et de la communication
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur au développement de l'activité et de l'emploi
+Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de l'insertion et de la cohésion sociale (à compter du 12 octobre 2005)
 
 |
 
@@ -494,7 +498,7 @@ Délégation générale à l'emploi et à la formation professionnelle : sous-di
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des marchés de l'emploi et de la formation professionnelle
+Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des politiques de formation et du contrôle (à compter du 12 octobre 2005)
 
 |
 
@@ -506,7 +510,7 @@ Délégation générale à l'emploi et à la formation professionnelle : sous-di
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des branches et entreprises
+Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des mutations économiques (à compter du 12 octobre 2005)
 
 |
 
@@ -518,7 +522,7 @@ Délégation générale à l'emploi et à la formation professionnelle : sous-di
 
 |
 
-Direction des relations du travail : sous-directeur de la négociation collective
+Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du service public de l'emploi (à compter du 12 octobre 2005)
 
 |
 
@@ -530,7 +534,19 @@ Direction des relations du travail : sous-directeur de la négociation collectiv
 
 |
 
-Direction des relations du travail : sous-directeur des conditions de travail et de la protection contre les risques du travail
+Direction générale du travail, sous-directeur des relations individuelles et collectives du travail (à compter du 22 août 2006)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale du travail, sous-directeur des conditions de travail, de la santé et de la sécurité au travail (à compter du 22 août 2006)
 
 |
 
@@ -734,7 +750,7 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de la formation tout au long de la vie
+Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du Fonds social européen (à compter du 12 octobre 2005)
 
 |
 
@@ -746,31 +762,7 @@ Délégation générale à l'emploi et à la formation professionnelle : sous-di
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des formations en alternance et de l'insertion des jeunes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du contrôle national de la formation professionnelle (à compter du 25 avril 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction des relations du travail : sous-directeur du droit des salariés
+Direction générale du travail, sous-directeur des conseils des prud'hommes et du support (à compter du 22 août 2006)
 
 |
 
@@ -1134,10 +1126,6 @@ Directeur de projet :
 
 |
 
-|
-
-|
-
 Secrétaire général des ministères chargés des affaires sociales (à compter du 9 février 2005)
 
 |
@@ -1150,11 +1138,11 @@ Secrétaire général des ministères chargés des affaires sociales (à compter
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle
+Délégation générale à l'emploi et à la formation professionnelle (à compter du 3 mai 2006)
 
 |
 
-1
+2
 
 |
 
@@ -1198,18 +1186,6 @@ Direction de l'administration générale et de la modernisation des services
 
 |
 
-Délégation générale à l'emploi et à la formation professionnelle / direction de l'animation de la recherche, des études et des statistiques (à compter du 30 décembre 2004)
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Direction générale de la santé
 
 |
@@ -1222,19 +1198,7 @@ Direction générale de la santé
 
 |
 
-Direction générale de l'action sociale (à compter du 23 juin 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de l'administration générale, du personnel et du budget (à compter du 23 juin 2003)
+Direction générale de l'action sociale (à compter du 12 août 2005)
 
 |
 
@@ -1246,11 +1210,23 @@ Direction de l'administration générale, du personnel et du budget (à compter 
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins
+Direction de l'administration générale, du personnel et du budget (à compter du 28 mai 2006)
 
 |
 
-4
+3
+
+|
+
+80
+
+|
+
+Direction de l'hospitalisation et de l'organisation des soins (à compter du 12 août 2005)
+
+|
+
+3
 
 |
 
@@ -1285,10 +1261,6 @@ Nombre de points par emploi
 |
 
 Chef de mission :
-
-|
-
-|
 
 |
 
@@ -1835,90 +1807,6 @@ Bourgogne
 |
 
 Champagne-Ardenne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Corse
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Franche-Comté
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haute-Normandie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Limousin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Lorraine
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Picardie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Poitou-Charentes
 
 |
 
