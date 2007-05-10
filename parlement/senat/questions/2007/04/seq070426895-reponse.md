@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070426895
+
+- Question : [SEQ070426895](seq070426895.md) — Conséquences du décret n° 2007-199  pour la protection sociale des veuves
+
+## Réponse
+
+*Santé et solidarités, JO du 2007-05-10, page 992*
+
+L'attention du ministre de la santé et des solidarités a été appelée sur la disposition de l'article 9 du décret n° 2007-199 du 14 février 2007, relatif à la carte Vitale sur les droits aux prestations d'assurance maladie et maternité. Contrairement aux craintes qui ont été relayées, ce décret ne réduit en rien les droits des conjoints survivants. En effet, les personnes titulaires d'une pension ou rente de vieillesse de la part d'un régime obligatoire et qui n'exercent aucune activité salariée ont droit et ouvrent droit aux prestations en nature de l'assurance maladie et maternité sans limitation de durée. Elles ne sont donc pas concernées par le dispositif du maintien de droits. En cas de décès du titulaire de la pension ou de la rente, le conjoint ayant droit, titulaire d'une pension de réversion, continue à bénéficier de ces avantages. Les conjoints dans cette situation ne sont donc pas non plus concernés par le dispositif du maintien de droits. De même, les conjoints parents de trois enfants ne sont pas concernés par ce décret, bénéficiant d'une couverture automatique. L'objet de l'article 9 du décret du 14 février 2007 est d'améliorer le dispositif de lutte contre la fraude et les abus, afin que les personnes qui ne résident plus en France et ont cessé leur activité professionnelle ne bénéficient plus indûment d'une prise en charge de leurs soins lors de leurs séjours temporaires sans versement de cotisations. Pour ce faire, l'article 9 du décret ramène de quatre à un an la durée pendant laquelle les personnes qui cessent de relever d'un régime professionnel continuent à bénéficier des prestations en nature de ce régime. La durée pour la prestation en l'espèce demeure quant à elle inchangée.
