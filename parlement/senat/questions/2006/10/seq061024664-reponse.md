@@ -1,0 +1,9 @@
+# Réponse à la question SEQ061024664
+
+- Question : [SEQ061024664](seq061024664.md) — Couverture des frais de justice concernant un président d'OPAC
+
+## Réponse
+
+*Emploi, JO du 2007-05-10, page 972*
+
+Le président de l'Office public d'aménagement et de construction (OPAC), devenu le président de l'office public de l'habitat (OPH) en application de l'ordonnance n° 2007-137 du 1er février 2007 relative aux offices publics de l'habitat, laquelle a transformé tous les offices existants en OPH, doit être considéré comme le représentant légal de l'office, en l'absence de texte contraire, notamment d'application de l'article L. 421-11 du code de la construction et de l'habitation. Avant l'entrée en vigueur de l'ordonnance précitée, l'article R. 421-19 de ce code applicable aux OPAC disposait expressément que le président de l'OPAC représentait l'office en justice. En conséquence, sous réserve de l'appréciation souveraine des tribunaux sur ce point, toutes poursuites, diligentées par un locataire ou par un tiers, qui viseraient le président pour des actes commis dans le cadre de ses fonctions, peuvent être assimilées à des poursuites dirigées contre l'office. Dès lors, l'intéressé est en droit de demander la prise en charge des frais de justice correspondants. Dans le cas où une faute personnelle, détachable de ses fonctions, serait démontrée par l'instance, cette protection fonctionnelle ne pourrait cependant plus être mise en jeu. Une telle interprétation fondée sur la qualité du défendeur au sein de l'office ne saurait en revanche, sous réserve de l'appréciation souveraine des tribunaux, être étendue au bénéfice des administrateurs des OPH, à plus forte raison lorsqu'une procédure pénale a été engagée intuitu personae à leur encontre et alors même qu'elle se serait terminée sur une relaxe ou un non-lieu.
