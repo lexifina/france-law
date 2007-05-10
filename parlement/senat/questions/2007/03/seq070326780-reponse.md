@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326780
+
+- Question : [SEQ070326780](seq070326780.md) — Situation des éleveurs de veaux de boucherie
+
+## Réponse
+
+*Agriculture, JO du 2007-05-10, page 948*
+
+Depuis plusieurs mois, la filière du veau de boucherie est confrontée à d'importantes difficultés liées à un déséquilibre entre l'offre et la demande de viande de veau, ainsi qu'au renchérissement des coûts de production. Cette situation affecte la rentabilité du secteur et le revenu des éleveurs. Afin de préserver cette filière et de rechercher des voies de solution, une table ronde s'est tenue le 13 avril 2007 au ministère de l'agriculture et de la pêche avec la présence des représentants professionnels de la filière. A cette occasion, le Conseil général de l'alimentation et des espaces ruraux (CGAAER) a présenté les résultats de sa récente mission réalisée dans le secteur du veau de boucherie à la demande du ministère. Il a été recommandé que l'interprofession adopte rapidement un plan permettant de restaurer la compétitivité de la filière et de rétablir les équilibres de marché. Les débats ont fait ressortir la nécessité d'élaborer, dans les meilleurs délais, un cadre interprofessionnel destiné notamment à mieux maîtriser la production et à relancer le secteur, tout en tenant compte de la situation des éleveurs. L'Etat accompagnera cet effort de l'interprofession, notamment par le financement de programmes de recherche et de développement et de campagne de promotion de la viande de veau. Dans l'immédiat et afin d'apporter un soutien aux éleveurs de veaux de boucherie en difficulté, une première enveloppe de 200 000 euros a été dégagée au titre du fonds d'allègement des charges (FAC) pour prendre en charge des intérêts de prêts professionnels des éleveurs à moyen et long termes. En outre, les caisses de mutualité sociale agricole (MSA) ont eu pour instruction de prêter une attention particulière (sous forme d'échéancier) aux éleveurs ainsi en difficulté.
