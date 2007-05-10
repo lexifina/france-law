@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326563
+
+- Question : [SEQ070326563](seq070326563.md) — Procédure d'adhésion à des syndicats intercommunaux
+
+## Réponse
+
+*Intérieur, JO du 2007-05-10, page 981*
+
+En application des dispositions de l'article L. 5211-18 du code général des collectivités territoriales (CGCT), l'initiative de la procédure d'adhésion de communes nouvelles à un syndicat intercommunal appartient soit aux conseils municipaux des communes nouvelles, soit au syndicat, soit enfin au représentant de l'État. S'il s'agit de la commune, l'article L. 5211-18-1-1° précise bien que seule une délibération du conseil municipal est à l'origine de cette demande. Le maire de la commune ne peut donc pas se substituer à son organe délibérant. En revanche, cette modification statutaire peut être lancée sans la délibération préalable du conseil municipal, lorsqu'elle est lancée à l'initiative du syndicat, par une délibération de l'organe délibérant de celui-ci, conformément à l'article 5211-18-1-2° du CGCT. La délibération du syndicat doit alors être notifiée aux conseils municipaux de toutes les communes membres qui disposent d'un délai de trois mois pour se prononcer. La commune pour laquelle le maire a présenté une demande d'adhésion est consultée, comme toutes les autres communes. Par ailleurs, l'adhésion suppose une délibération favorable des communes membres du syndicat à la majorité qualifiée prévue par l'article L. 5211-5 du CGCT, pour la création, c'est-à-dire par les deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou par la moitié au moins des conseils municipaux représentant les deux tiers de la population. Dans le cas où la population d'une commune est supérieure au quart de la population totale, l'accord de son organe délibérant est obligatoire.
