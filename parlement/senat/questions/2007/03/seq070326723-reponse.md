@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326723
+
+- Question : [SEQ070326723](seq070326723.md) — Situations excluant le rappel d'impôt pour les déficits fonciers déduits
+
+## Réponse
+
+*Budget, JO du 2007-05-10, page 958*
+
+Aux termes de l'article 156-1-3° du code général des impôts, les déficits fonciers qui résultent de dépenses déductibles autres que les intérêts d'emprunt sont imputables sur le revenu global, au titre de l'impôt sur le revenu, dans la limite annuelle de 10 700 euros. Lorsque le revenu global du contribuable est insuffisant pour absorber le déficit foncier imputable, l'excédent du déficit est imputable dans les conditions de droit commun sur les revenus globaux des six années suivantes. La fraction du déficit supérieure à cette limite, ainsi que celle correspondant aux intérêts d'emprunt, est imputable uniquement sur les revenus fonciers des dix années suivantes. Le bénéfice de l'imputation du déficit sur le revenu global n'est toutefois définitivement acquis que lorsque l'immeuble est donné en location jusqu'au 31 décembre de la troisième année suivant celle au titre de laquelle l'imputation du déficit a été pratiquée. Lorsqu'il est constaté que cette condition n'est pas respectée, l'imputation du déficit foncier sur le revenu global doit en principe être remise en cause, sous réserve de trois exceptions prévues par la loi en faveur des contribuables qui connaissent une situation exceptionnelle susceptible d'occasionner une situation financière difficile. Cette liste comprend ainsi le décès, l'invalidité et le licenciement du contribuable ou de l'un des époux soumis à imposition commune à l'impôt sur le revenu. Il ne peut être envisagé d'étendre à la mise en retraite cette liste d'exceptions justifiées par leur caractère imprévisible et indépendant de la volonté du contribuable.
