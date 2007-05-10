@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326680
+
+- Question : [SEQ070326680](seq070326680.md) — Comportement des sociétés de prêt à la consommation
+
+## Réponse
+
+*Économie, JO du 2007-05-10, page 971*
+
+La lutte contre le surendettement des particuliers, et notamment les conditions dans lesquelles sont proposés et distribués les crédits à la consommation constituent une des préoccupations majeures du Gouvernement. Au cours des dernières années, plusieurs textes législatifs sont venus renforcer la protection et l'information du consommateur en matière de crédit. Ainsi, la loi de sécurité financière n° 2003-706 du 1er août 2003 a encadré et clarifié les messages publicitaires relatifs aux crédits à la consommation. Elle a aussi facilité la résiliation des contrats de crédit renouvelables dès lors que l'établissement de crédit y apportait des modifications. S'agissant des crédits renouvelables dont les plafonds évoluent à la hausse sans le consentement positif de l'emprunteur, ils ont fait l'objet d'une mesure spécifique destinée à protéger le consommateur : la loi Chatel n° 2005-67 du 28 janvier 2005 a en effet introduit dans le code de la consommation l'obligation pour le prêteur d'établir une nouvelle offre préalable de crédit pour toute augmentation du capital consenti. Cette mesure est entrée en vigueur le 2 août 2005. Elle est d'application pénale et toute infraction à cette disposition est passible d'une amende de 1 500 euros en vertu de l'article L. 311-34 du code de la consommation. Par ailleurs, la jurisprudence de la Cour de cassation constante met à la charge du banquier ou de l'établissement de crédit un devoir de mise en garde à l'égard du candidat à l'emprunt et engage leur responsabilité en cas d'octroi de prêt excessif au regard de la surface financière d'un emprunteur profane (cass.com. 3 mai 006 ; cass.1re civ. 12 juillet 2005 ; cass.com. 20 juin 2006).
