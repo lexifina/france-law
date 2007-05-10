@@ -1,103 +1,203 @@
 # Article Annexe 1-3
 
-Les formes juridiques de sociétés commerciales désignées à l'article R. 123-57 sont les suivantes :
+ANNEXE AUX ARTICLES R. 123-57 ET 123-58
 
-1. Pour l'Allemagne :
+1° Pour l'Allemagne :
 
-die Aktiengesellschaft, die Kommanditgesellschaft auf Aktien, die Gesellschaft mit beschränkter Haftung.
+die Aktiengesellschaft ;
 
-2. Pour la Belgique :
+die Kommanditgesellschaft auf Aktien ;
 
-de naamloze vennootschap, de commanditaire vennootschap op aandelen, de personenvennootschap met beperkte aansprakelijkheid.
+die Gesellschaft mit beschränkter Haftung ;
 
-3. Pour l'Italie :
+2° Pour l'Autriche :
 
-società per azioni, società in accomandita per azioni, società a responsabilità limitata.
+die Aktiengesellschaft ;
 
-4. Pour le Luxembourg :
+die Gesellschaft mit beschraenkter Haftung ;
 
-la société anonyme, la société en commandite par actions, la société à responsabilité limitée.
+3° Pour la Belgique :
 
-5. Pour les Pays-Bas :
+de naamloze vennootschap ;
 
-de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid.
+de commanditaire vennootschap op aandelen ;
 
-6. Pour le Royaume-Uni :
+de personenvennootschap met beperkre aansprakelijheid ;
 
-companies incorporated with limited liability.
+4° Pour la Bulgarie :
 
-7. Pour l'Irlande :
+акционерно дружество ;
 
-companies incorporated with limited liability.
+дружество с ограничена отговорност ;
 
-8. Pour le Danemark :
+командитно дружество с акции ;
 
-aktieselskab, kommanditaktieselskab, anpartsselskab.
+5° Pour Chypre :
 
-9. Pour la Grèce :
+Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση ;
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié, édition annexe, n° 0073 du 27 mars 2007, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/jo/period/?datePubli=27%2F03%2F2007+%3E+27%2F03%2F2007
+ιδιωτικές εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση ;
 
-ανώνυμη εταιρία, εταιρία περιορισμένης ευθύνης, ετερόρρυθμη κατά μετοχές εταιρία.
+6° Pour le Danemark :
 
-10. Pour l'Espagne :
+aktieselskab ;
 
-la sociedad anónima, la sociedad comanditaria por acciones, la sociedad de responsabilidad limitada.
+kommanditaktieselskab ;
 
-11. Pour le Portugal :
+anpartsselskab ;
 
-a sociedade anónima de responsabilidade limitada, a sociedade en comandita por acçoes, a sociedade por quotas de responsabilidade limitada.
+7° Pour l'Espagne :
 
-12. Pour l'Autriche :
+la sociedad anonima ;
 
-die Aktiengesellschaft, die Gesellschaft mit beschränkter Haftung.
+la sociedad en comandita por acciones ;
 
-13. Pour la Finlande :
+la sociedad de responsabilidad limitada ;
 
-yksityinen osakeyhtiö, privat aktiebolag, julkinen osakeyhtiö, publikt aktiebolag.
+8° Pour l'Estonie :
 
-14. Pour la Suède :
+aktsiaselts ;
 
-aktiebolag.
+osaühing ;
 
-15. Pour la République tchèque :
+9° Pour la Finlande :
 
-spolecnost s rucením omezeným, akciová spolecnost.
+yksityinen osakeyhtiö/privat aktiebolag ;
 
-16. Pour l'Estonie :
+yulkinen osakeyhtiö/publikt aktiebolag ;
 
-aktsiaselts, osaühing.
+10° Pour la France :
 
-17. Pour Chypre :
+la société anonyme ;
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié, édition annexe, n° 0073 du 27 mars 2007, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/jorf/jo/period/?datePubli=27%2F03%2F2007+%3E+27%2F03%2F2007
+la société en commandite par actions ;
 
-Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση, ιδιωτικές εταιρείες περιορισμένης ευθύνης με μετοχές ή με εγγύηση.
+la société à responsabilité limitée ;
 
-18. Pour la Lettonie :
+la société par actions simplifiée ;
 
-akciju sabiedriba, sabiedriba ar ierobežotu atbildidu, komanditsa-biedriba.
+11° Pour la Grèce :
 
-19. Pour la Lituanie :
+ανώνυμη εταιρία, εταιρία περιορισμένης ευθύνης, ετερόρ-
 
-akcine bendrove, uždaroji akcine bendrove.
+ρυθμη κατά μετοχές εταιρία ;
 
-20. Pour la Hongrie :
+12° Pour la Hongrie :
 
-részvénytársaság, korlátolt felelosségu társaság.
+részvénytársaság ;
 
-21. Pour Malte :
+korlátolt felelosségu társaság ;
 
-kumpanija pubblika, public limited liability company, kumpanijaprivata, private limited liability company.
+13° Pour l'Irlande :
 
-22. Pour la Pologne :
+the public company limited by shares ;
 
-spólka z ograniczona odpowiedzialnoscia, spólka komandytowoakcyjna, spólka akcyjna.
+the public company limited by guarantee and having a share capital ;
 
-23. Pour la Slovénie :
+the private company limited by shares or by guarantee ;
 
-delniška družba, družba z omejeno odgovornostjo, komaditna delniška družba.
+14° Pour l'Italie :
 
-24. Pour la Slovaquie :
+sociétà per azioni ;
 
-akciová spolocnost, spolocnost srucením obmedzeným’.
+sociétà in accomandita per azioni ;
+
+sociétà a responsabilità limitata ;
+
+15° Pour la Lettonie :
+
+Akciju sabiedriba ;
+
+sabiedriba ar ierobezotu atbildibu ;
+
+komanditsabiedriba ;
+
+16° Pour la Lituanie :
+
+akcine bendrove ;
+
+uzdaroji akcine bendrove ;
+
+17° Pour le Luxembourg :
+
+la société anonyme ;
+
+la société en commandite par actions ;
+
+la société à responsabilité limitée ;
+
+18° Pour Malte :
+
+kumpanija pubblika ;
+
+public limited liability company ;
+
+kumpanija privata ;
+
+private limited liability company ;
+
+19° Pour les Pays-Bas :
+
+de naamloze vennootschap ;
+
+de besloten vennootschap met beperkte aansprakelijkheid ;
+
+20° Pour la Pologne :
+
+spólka z ograniczona odpowiedzialnoscia :
+
+spólka komandytowoakcyjna ;
+
+spólka akcyjna ;
+
+21° Pour le Portugal :
+
+sociedade anonima ;
+
+sociedade en commandita por acçoes ;
+
+sociedade por quotas ;
+
+22° Pour la Roumanie :
+
+societate pe acţiuni ;
+
+societate eu răspundere limitată ;
+
+societate în comandita pe acţiuni ;
+
+23° Pour le Royaume-Uni :
+
+the public company limited by shares ;
+
+the public company limited by guarantee and having a share capital ;
+
+the private company limited by shares or by guarantee ;
+
+24° Pour la Slovaquie :
+
+akciová spolecnost ;
+
+spolecnost s rucením obmedzeným’;
+
+25° Pour la Slovénie :
+
+delniska druzba ;
+
+druzba z omejeno odgovornostjo ;
+
+26° Pour la Suède :
+
+aktiebolag ;
+
+komaditna delniska druzba ;
+
+27° Pour la République tchèque :
+
+spolecnost s rucením omezeným ;
+
+akciová spolecnost.
+
+NOTA :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0108 du 10 mai 2007, texte n° 44, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3A1KVlTcAAvQbIdFIPFXFNFmfxzFwzSueKU6XPpxsjE=
