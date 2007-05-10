@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070326732
+
+- Question : [SEQ070326732](seq070326732.md) — Utilisation de l'électricité produite par des panneaux photovoltaïques
+
+## Réponse
+
+*Industrie, JO du 2007-05-10, page 977*
+
+L'électricité provenant de panneaux photovoltaïques installés par des particuliers peut être librement utilisée par les intéressés pour leur propre usage dans les deux cas suivants. Dans un premier cas, les installations de production d'électricité dont la puissance installée est inférieure à 450 kW pour celles situées en France continentale, et à 45 kW pour celles situées dans les zones non interconnectées, sont réputées déclarées : aucune démarche particulière n'est nécessaire pour qu'un producteur particulier produise de l'électricité et la consomme. Pour les puissances installées supérieures à ces seuils, un récépissé de déclaration ou une autorisation d'exploiter, obtenus conformément au décret n° 2000-877 du 7 septembre 2000, est nécessaire pour qu'un producteur puisse produire de l'électricité et la consommer pour son propre usage. Dans un second cas, un particulier peut produire de l'électricité et demander le bénéfice de l'obligation d'achat de cette énergie. Il doit alors disposer d'un récépissé de déclaration ou d'une autorisation d'exploiter ainsi que d'un certificat d'obligation d'achat. Dans ce cadre, le producteur peut choisir de vendre le surplus de sa production d'électricité, c'est-à-dire la quantité d'électricité fournie par son installation, déduction faite de la quantité d'électricité utilisée pour sa propre consommation. Il peut aussi opter pour la vente de la totalité de l'électricité produite, auquel cas, il ne peut la consommer. Enfin, comme toute construction, l'installation de panneaux solaires photovoltaïques est soumise aux dispositions du code de l'urbanisme.
