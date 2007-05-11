@@ -2,11 +2,9 @@
 
 Tableau de correspondance
 
-AGENTS non TITULAIRES
+CATEGORIE D'AGENTS NON TITULAIRES AU SENS
 
-au sens de l'arrêté préfectoral 0n° 3647 du 17 décembre 2002
-
-portant statut des personnels contractuels de la collectivité départementale de Mayotte
+de l'arrêté préfectoral n° 3647 du 17 décembre 2002 portant statut des personnels contractuels de la collectivité départementale de Mayotte
 
 |
 
@@ -34,8 +32,6 @@ Ingénieur
 
 |
 
-Agents contractuels recrutés sur le fondement de contrats individuels du niveau de la catégorie A et au moins situés dans la grille des contractuels Bac + 3
-
 |
 
 Fonctions d'encadrement du niveau de la catégorie A, d'expertise de haut niveau.
@@ -46,11 +42,23 @@ Attaché
 
 |
 
-Agents contractuels recrutés sur le fondement de contrats individuels du niveau de la catégorie A et au moins situés au 3ème échelon dans la grille des contractuels Bac + 2
+|
+
+Médecin |
+
+Médecin de 2e classe |
 
 |
 
-Fonctions de direction d'équipes, d'adjoint d'agent de catégorie A, d'expertise particulière
+Sage-femme |
+
+Sage-femme de classe normale |
+
+Agents contractuels recrutés sur le fondement de contrats individuels du niveau de la catégorie A et au moins situés au 3 ème échelon dans la grille des contractuels Bac + 2
+
+|
+
+Fonctions de direction d'équipes, d'adjoint d'agents de catégorie A, d'expertise particulière
 
 |
 
@@ -62,31 +70,37 @@ Educateur de jeunes enfants
 
 |
 
-Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie B et au moins situés au 8ème échelon dans la grille des contractuels Bac.
+Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie B et au moins situés au 8 ème échelon dans la grille des contractuels Bac.
 
 |
 
-Fonctions de direction d'équipes, d'adjoint d'agent de catégorie A, d'expertise particulière
+Fonctions de direction d'équipes, d'adjoint d'agents de catégorie A, d'expertise particulière
 
 |
 
-Assistant de conservation de 2ème classe.
+Assistant de conservation de 2 ème classe.
 
 Moniteur-éducateur.
 
 Animateur.
 
-Educateur des activités physiques et sportives de 2ème classe
+Educateur des activités physiques et sportives de 2 ème classe
 
 |
 
+|
+
+Infirmier |
+
+Infirmier de classe normale |
+
 Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et au moins situés :
 
-- au moins au 5ème échelon de la grille des contractuels Bac ;
+-au moins au 5e échelon de la grille des contractuels Bac ;
 
-- au 6ème, 7ème, 8ème, 9ème, 10ème ou 11ème échelon de la grille des contractuels BEP ;
+-au 6 e, 7e, 8e, 9e, 10e ou 11e échelon de la grille des contractuels BEP ;
 
-- au 8ème, 9ème, 10ème, 11ème, 12ème ou 13ème échelon de la grille des contractuels CAP.
+-au 8e, 9e, 10e, 11e, 12e ou 13e échelon de la grille des contractuels CAP.
 
 |
 
@@ -100,35 +114,15 @@ Contrôleur de travaux.
 
 |
 
-Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et au moins situés :
-
-- au moins au 5ème échelon de la grille des contractuels Bac ;
-
-- au 6ème, 7ème, 8ème, 9ème, 10ème ou 11ème échelon de la grille des contractuels BEP ;
-
-- au 8ème, 9ème, 10ème, 11ème, 12ème ou 13ème échelon de la grille des contractuels CAP.
-
-|
-
 Fonctions d'encadrement d'un groupe d'agents d'exécution
 
 |
 
-Adjoint administratif.
+Adjoint administratif territorial de 1re classe
 
-Agent technique.
+Adjoint technique territorial de 1re classe.
 
-Agent qualifié du patrimoine de 2ème classe.
-
-|
-
-Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et au moins situés :
-
-- au moins au 5ème échelon de la grille des contractuels Bac ;
-
-- au 6ème, 7ème, 8ème, 9ème, 10ème ou 11ème échelon de la grille des contractuels BEP ;
-
-- au 8ème, 9ème, 10ème, 11ème, 12ème ou 13ème échelon de la grille des contractuels CAP.
+Adjoint territorial du patrimoine de 1re classe.
 
 |
 
@@ -136,28 +130,22 @@ Fonctions d'exécution
 
 |
 
-Agent administratif.
+Adjoint administratif territorial de 2e classe.
 
-Agent d'entretien.
+Adjoint technique territorial de 2e classe
 
-Agent de salubrité.
+Agent territorial du patrimoine de 2e classe.
 
-Agent du patrimoine de 2ème classe.
+Aide-opérateur des activités physiques et sportives
 
-Aide opérateur des activités physiques et sportives.
+Agent social territorial de 2e classe
 
-agent social.
+Auxiliaire de soins territorial de 1re classe
 
-Auxiliaire de soins.
+Auxiliaire de puériculture territorial de 1re classe
 
-Auxiliaire de puériculture.
+Adjoint territorial d'animation de 2e classe
 
-Agent d'animation.
-
-Conducteur.
-
-Gardien d'immeuble.
-
-Agent spécialisé de 2ème classe des écoles maternelles
+Agent territorial spécialisé de 1re classe des écoles maternelles.
 
 |
