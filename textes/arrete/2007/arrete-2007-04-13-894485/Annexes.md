@@ -1,0 +1,9 @@
+# Article Annexes
+
+Annexes non reproduites.
+
+NOTA :
+
+La liste des types d'habitats naturels et des espèces de faune et flore sauvages justifiant la désignation du site Natura 2000 vallée de la Boutonne figure en annexe au présent arrêté.
+
+Cette liste ainsi que les cartes visées à l'article 1er peuvent être consultées aux préfectures de la Charente-Maritime et des Deux-Sèvres, à la direction régionale de l'environnement de Poitou-Charentes ainsi qu'à la direction de la nature et des paysages au ministère de l'écologie et du développement durable.
