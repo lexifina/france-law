@@ -1104,7 +1104,7 @@ Oiseaux
 
 |
 
-Struthioniformes.
+Aptérygiformes.
 
 |
 
@@ -1128,7 +1128,303 @@ Tinamous.
 
 |
 
-Craciformes.
+Sphénisciformes.
+
+|
+
+Sphéniscidés spp.
+
+|
+
+Manchots.
+
+|
+
+Gaviiformes.
+
+|
+
+Gaviidés spp.
+
+|
+
+Plongeons.
+
+|
+
+Podicipédiformes.
+
+|
+
+Podicipédidés spp.
+
+|
+
+Grèbes.
+
+|
+
+Procellariiformes.
+
+|
+
+Diomédéidés spp.
+
+|
+
+Albatros.
+
+|
+
+Procellariidés spp.
+
+|
+
+Pétrels, fulmars, puffins.
+
+|
+
+Hydrobatidés spp.
+
+|
+
+Pétrels tempête.
+
+|
+
+Pélécanoïdidés spp.
+
+|
+
+Pétrels plongeurs.
+
+|
+
+Pélécaniformes.
+
+|
+
+Phaethontidés spp.
+
+|
+
+Phaétons.
+
+|
+
+Pélécanidés spp.
+
+|
+
+Pélicans.
+
+|
+
+Sulidés spp.
+
+|
+
+Fous.
+
+|
+
+Anhingidés spp.
+
+|
+
+Anhingas.
+
+|
+
+Frégatidés spp.
+
+|
+
+Frégates.
+
+|
+
+Ciconiiformes.
+
+|
+
+Ardéidés spp.
+
+|
+
+Hérons, butors, aigrettes.
+
+|
+
+Balaenicipitidés spp.
+
+|
+
+Bec en sabot.
+
+|
+
+Scopidés spp.
+
+|
+
+Ombrettes.
+
+|
+
+Ciconiidés spp.
+
+|
+
+Cigognes, tantales, jabirus, marabouts.
+
+|
+
+Phoenicoptéridés spp.
+
+|
+
+Flamants.
+
+|
+
+Ansériformes.
+
+|
+
+Anhimidés spp.
+
+|
+
+Kamichis.
+
+|
+
+Nettapus spp.
+
+|
+
+Anserelles.
+
+|
+
+Merganetta spp.
+
+|
+
+Merganettes.
+
+|
+
+Falconiformes.
+
+|
+
+Cathartidés spp.
+
+|
+
+Vautours du Nouveau Monde.
+
+|
+
+Pandionidés spp.
+
+|
+
+Balbuzards.
+
+|
+
+Accipitridés spp., à l'exception de :
+
+|
+
+Autours, éperviers, buses, aigles...
+
+|
+
+Accipiter spp.
+
+|
+
+Autours, éperviers.
+
+|
+
+Buteogallus spp.
+
+|
+
+Buses.
+
+|
+
+Parabuteo spp.
+
+|
+
+Buses.
+
+|
+
+Buteo spp.
+
+|
+
+Buses.
+
+|
+
+Aquila spp.
+
+|
+
+Aigles.
+
+|
+
+Hieraaetus spp.
+
+|
+
+Aigles.
+
+|
+
+Spizaetus spp.
+
+|
+
+Spizaètes.
+
+|
+
+Sagitariidés spp.
+
+|
+
+Serpentaires.
+
+|
+
+Falconidés spp., à l'exception de : Falco spp.
+
+|
+
+Faucons, caracaras, à l'exception des faucons du genre : Falco.
+
+|
+
+Galliformes.
+
+|
+
+Mégapodidés spp.
+
+|
+
+Talégalles et Leipoa.
 
 |
 
@@ -1137,18 +1433,6 @@ Cracidés spp.
 |
 
 Hoccos, ortalides et pénélopes.
-
-|
-
-Mégapodidés spp.
-
-|
-
-Talégalles et leipoa.
-
-|
-
-Galliformes.
 
 |
 
@@ -1200,7 +1484,7 @@ Faisan à queue rousse.
 
 |
 
-Lophura inomata.
+Lophura inornata.
 
 |
 
@@ -1232,7 +1516,7 @@ Eperonnier de Bornéo.
 
 |
 
-Rheinardia ocellata.
+Rheinartia ocellata.
 
 |
 
@@ -1264,91 +1548,87 @@ Tétras, lagopèdes, cupidon.
 
 |
 
-Ansériformes.
+Gruiformes.
 
 |
 
-Anhimidés spp.
+Otididés spp.
 
 |
 
-Kamichis.
+Outardes.
 
 |
 
-Piciformes.
+Cariamidés spp.
 
 |
 
-Ramphastinés spp.
+Cariamas.
 
 |
 
-Toucans et toucanets.
+Charadriiformes.
 
 |
 
-Bucérotiformes.
+Jacanidés spp.
 
 |
 
-Bucérotidés spp.
+Jacanas.
 
 |
 
-Calaos.
+Stercorariidés spp.
 
 |
 
-Coraciiformes.
+Labbes.
 
 |
 
-Brachyptéraciidés spp.
+Laridés spp.
 
 |
 
-Rolliers.
+Goélands, mouettes, sternes.
 
 |
 
-Leptosomatidés spp.
+Rynchopidés spp.
 
 |
 
-Rolliers.
+Becs-en-ciseaux.
 
 |
 
-Momotidés spp.
+Alcidés spp.
 
 |
 
-Motmots.
+Guillemots, pingouins, macareux.
 
 |
 
-Todidés spp.
+Columbiformes.
 
 |
 
-Todiers.
+Goura spp.
 
 |
 
-Alcédinidés spp.
+Gouras.
 
 |
 
-Martins-pêcheurs.
+Otidiphaps nobilis
 
 |
 
-Méropidés spp.
-
-|
-
-Guépiers.
+Otidiphaps noble.
 
 |
 
@@ -1488,7 +1768,7 @@ Amazona vittata.
 
 |
 
-Amazone de Porto Rico.
+Amazone de Porto-Rico.
 
 |
 
@@ -1536,7 +1816,7 @@ Psittacula echo.
 
 |
 
-Perruche écho.
+Perruche echo.
 
 |
 
@@ -1592,7 +1872,7 @@ Brotogeris chrysopterus.
 
 |
 
-Conure ou toui para.
+Conure ou Toui para.
 
 |
 
@@ -1612,6 +1892,70 @@ Toui à queue pourprée.
 
 |
 
+Strigiformes.
+
+|
+
+Tytonidés spp.
+
+|
+
+Chouettes.
+
+|
+
+Strigidés spp., à l'exception de Bubo bubo.
+
+|
+
+Chouettes, hibous, à l'exception du grand-duc.
+
+|
+
+Caprimulgiformes.
+
+|
+
+Stéatornithidés spp.
+
+|
+
+Guacharo.
+
+|
+
+Podargidés spp.
+
+|
+
+Podarges.
+
+|
+
+Nyctibiidés spp.
+
+|
+
+Ibijau.
+
+|
+
+Aegothelidés spp.
+
+|
+
+Egothèles.
+
+|
+
+Caprimulgidés spp.
+
+|
+
+Engoulevents.
+
+|
+
 Apodiformes.
 
 |
@@ -1624,15 +1968,11 @@ Martinets, salanganes.
 
 |
 
-Hémiprocnidés spp.
+Hemiprocnidés spp.
 
 |
 
 Hémiprocnées.
-
-|
-
-Trochiliformes.
 
 |
 
@@ -1644,311 +1984,219 @@ Colibris.
 
 |
 
-Strigiformes.
+Trogoniformes.
 
 |
 
-Tytonidés spp.
+Trogonidés spp.
 
 |
 
-Chouettes, hibous.
+Trogons.
 
 |
 
-Strigidés spp., à l'exception de Bubo bubo.
+Coraciiformes.
 
 |
 
-Chouettes, hibous, à l'exception du grand duc.
+Alcedinidés spp.
 
 |
 
-Aegothelidés spp..
+Martins-pêcheurs, martins-chasseurs.
 
 |
 
-Egothèles.
+Todidés spp.
 
 |
 
-Podargidés spp.
+Todiers.
 
 |
 
-Podarges.
+Momotidés spp.
 
 |
 
-Batrachostomidés spp.;
+Motmots.
 
 |
 
-Chouettes.
+Méropidés spp.
 
 |
 
-Stéatornithidés spp. ;
+Guépiers.
 
 |
 
-Guacharo.
+Coraciidés spp.
 
 |
 
-Nyctibiidés spp.
+Rolliers.
 
 |
 
-Ibijau.
+Brachypteraciidés spp.
 
 |
 
-Eurostopodidés spp.
+Rolliers.
 
 |
 
-Engoulevents.
+Leptosomatidés spp.
 
 |
 
-Caprimulgidés spp. ;
+Rolliers.
 
 |
 
-Engoulevents.
+Upupidés spp.
 
 |
 
-Gruiformes.
+Huppes.
 
 |
 
-Otididés spp.;
+Phoeniculidés spp.
 
 |
 
-Outardes.
+Moqueurs.
 
 |
 
-Cariamidés spp.
+Bucérotidés spp.
 
 |
 
-Cariamas.
+Calaos.
 
 |
 
-Ciconiiformes :
+Piciformes.
 
 |
 
-|
-
-|
-
-Charadriiformes.
-
-|
-
-Jacanidés spp.;
-
-|
-
-Jacanas.
-
-|
-
-Laridés spp.
-
-|
-
-Labbes, guillemots, macareux, puffins, sternes, goélands, mouettes.
-
-|
-
-Falconiformes.
-
-|
-
-Accipitridés spp., à l'exception de :
-
-|
-
-Autours, éperviers, buses, aigles.
-
-|
-
-Accipiter spp.;
-
-|
-
-Autours, éperviers.
-
-|
-
-Buteogallus spp.;
-
-|
-
-Buses ;
-
-|
-
-Parabuteo spp.;
-
-|
-
-Buses ;
-
-|
-
-Buteo spp.;
-
-|
-
-Buses ;
-
-|
-
-Aquila spp. ;
-
-|
-
-Aigles ;
-
-|
-
-Sagitariidés spp.
-
-|
-
-Serpentaires.
-
-|
-
-Falconidés spp., à l'exception de : Falco spp.
-
-|
-
-Faucons, caracaras, à l'exception des faucons du genre Falco.
-
-|
-
-Pélécaniformes.
+Ramphastidés spp.
 
 |
 
-Phaethontidés spp.
+Toucans, toucanets.
 
 |
 
-Phaetons.
+Passériformes.
 
 |
 
-Sulidés spp.
+Eurylaimidés spp.
 
 |
 
-Fous.
+Eurylaimes.
 
 |
 
-Ciconiiformes.
+Cotingidés spp.
 
 |
 
-Ardéidés spp.
+Cotingas.
 
 |
 
-Hérons, butors, blongios, aigrettes.
+Pipridés spp.
 
 |
 
-Phoenicoptériformes.
+Manakins.
 
 |
 
-Phoenicoptéridés spp.
+Ptilonorhynchidés spp.
 
 |
 
-Flamants.
+Oiseaux à berceaux, oiseaux jardiniers.
 
 |
 
-Pélécaniformes.
+Paradisaeidés spp.
 
 |
 
-Pélécanidés spp.
+Paradisiers.
 
 |
 
-Pélicans, becs en sabots.
+Dicruridés spp.
 
 |
 
-Ciconiiformes.
+Drongos.
 
 |
 
-Ciconiidés spp.
+Cinclidés spp.
 
 |
 
-Cigognes, vautours américains.
+Cincles.
 
 |
 
-Pélécaniformes.
+Nectaridés spp.
 
 |
 
-Frégatidés spp.
+Souimangas.
 
 |
 
-Frégates.
+Pipraeidea spp.
 
 |
 
-Sphéniciformes spp.
+Organistes.
 
 |
 
-Spénicidés spp.
+Euphonia spp.
 
 |
 
-Pingouins, manchots.
+Organistes.
 
 |
 
-Gaviiformes.
+Chlorophonia spp.
 
 |
 
-Gaviidés spp.
+Organistes.
 
 |
 
-Plongeons.
+Chlorochrysa spp.
 
 |
 
-Procellariiformes.
+Organistes.
 
 |
 
-Procellariidés spp.
+Tangara spp.
 
 |
 
-Pétrels, puffins, albatros, océanites.
+Callistes.
 
 |
 
@@ -2137,12 +2385,6 @@ Tortues fouisseuses américaines.
 |
 
 Squamata :
-
-|
-
-|
-
-|
 
 Sauria.
 
@@ -2824,10 +3066,6 @@ Amphibiens
 
 |
 
-|
-
-|
-
 Caudata.
 
 |
@@ -3046,7 +3284,7 @@ Grenouilles à nez pointu.
 
 (*) Toutefois, l'obligation d'autorisation et de marquage ne s'applique pas :
 
-- aux animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités applicables à ce type d'animaux ;
+- aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 

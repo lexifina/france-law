@@ -2,7 +2,7 @@
 
 ESPÈCES
 
-(A l'exclusion des espèces inscrites à l'annexe 2 du présent arrêté)
+(à l'exclusion des espèces inscrites à l'annexe 2 du présent arrêté)
 
 |
 
@@ -32,15 +32,13 @@ Mammifères
 
 |
 
-40
+40, sauf si l'effectif ne comprend que des oiseaux :
 
-Sauf si l'effectif ne comprend que des oiseaux : 60
-
-Sauf si l'effectif ne comprend que des passereaux granivores et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
+60, sauf si l'effectif ne comprend que des passereaux granivores et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
 
 |
 
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338-97 susvisé
+Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé
 
 |
 
@@ -80,7 +78,7 @@ Oiseaux
 
 |
 
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338-97 susvisé (à l'exception de celles figurant en annexe VIII du règlement [CE] n° 1808-2001 susvisé)
+Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé (à l'exception de celles figurant en annexe X du règlement (CE) n° 865/2006 susvisé)
 
 |
 
@@ -88,9 +86,7 @@ Espèces dont la capture est interdite en application de l'article L. 411-1 du c
 
 |
 
-60
-
-Sauf si l'effectif ne comprend que des passereaux et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
+60, sauf si l'effectif ne comprend que des passereaux granivores et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
 
 |
 
@@ -126,7 +122,7 @@ Gruiformes, ciconiiformes
 
 |
 
-Passerereaux granivores : fringilidés, estrildidés, plocéidés, embérizidés
+Passerereaux granivores : plocéidés, embérizidés, fringilidés à l'exception de Serinus canaria, estrildidés à l'exception de Poephila (syn Taeniopygia) guttata castanotis et Chloebia gouldiae
 
 |
 
@@ -166,7 +162,13 @@ Charadriidés
 
 |
 
-Psittaciformes de petite taille : Agapornis spp., Bolborhynchus spp., Forpus spp., Neophema spp., Psephotus spp., Nymphicus hollandicus, Melopsittacus undulatus, Larthamus discolor
+Psittaciformes :
+
+|
+
+|
+
+Psittaciformes de petite taille : Bolborhynchus spp., Forpus spp., Neophema spp., Psephotus spp., Lathamus discolor, Agapornis spp. à l'exception de Agapornis fischeri, A. personatus et A. roseicollis
 
 |
 
@@ -174,7 +176,7 @@ Psittaciformes de petite taille : Agapornis spp., Bolborhynchus spp., Forpus spp
 
 |
 
-Psittaciformes : Alisterus spp., Aprosmictus spp., Aratinga spp., Barnardius spp., Brotegeris spp., Cyanoliseus spp., Cyanoramphus spp., Myiopsitta spp., Platycercus spp., Polytelis spp., Psittacula spp., Pyrrhura spp., Nandayus nenday
+Psittaciformes : Alisterus spp., Aprosmictus spp., Aratinga spp., Barnardius spp., Brotogeris spp., Cyanoliseus spp., Cyanoramphus spp., Myiopsitta spp., Platycercus spp., Polytelis spp., Pyrrhura spp., Nandayus nenday, Psittacula spp. à l'exception de Psittacula krameri manillensis
 
 |
 
@@ -182,7 +184,7 @@ Psittaciformes : Alisterus spp., Aprosmictus spp., Aratinga spp., Barnardius spp
 
 |
 
-Autres psittaciformes
+Autres psittaciformes, à l'exception de Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
 
 |
 
@@ -190,7 +192,7 @@ Autres psittaciformes
 
 |
 
-Autres espèces
+Autres espèces, à l'exception Serinus canaria, Poephila (syn. Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
 
 |
 
@@ -206,7 +208,7 @@ Reptiles
 
 |
 
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338-97 susvisé
+Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé
 
 |
 
@@ -264,11 +266,19 @@ Espèces d'amphibiens
 
 |
 
-Autres espèces animales
+Oiseaux
 
 |
 
 |
+
+|
+
+Serinus canaria, Poephila (syn Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
+
+|
+
+Pas d'effectifs maximaux
 
 |
 
@@ -282,6 +292,8 @@ Pas d'effectifs maximaux
 
 * Ne sont pas comptabilisés dans cette rubrique :
 
-- les animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités appliquables à ce type d'animaux ;
+- les oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+
+|
