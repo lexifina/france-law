@@ -496,9 +496,7 @@ Information au représentant de l'Etat de l'assignation aux fins de constat de r
 
 |
 
-Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par
-
-la loi n° 98-657 du 29 juillet 1998.
+Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par la loi n° 98-657 du 29 juillet 1998.
 
 |
 
@@ -540,7 +538,9 @@ Notification à la personne expulsée de la consignation du produit de la vente.
 
 |
 
-Art. 206, alinéa 3, du décret n° 92-755 du 31 juillet 1992.
+Art. 206, alinéa 3, du décret
+
+n° 92-755 du 31 juillet 1992.
 
 |
 
@@ -556,7 +556,9 @@ Notification à la personne expulsée de la mise sous enveloppe scellée des pap
 
 |
 
-Art. 207, alinéa 2, du décret n° 92-755 du 31 juillet 1992.
+Art. 207, alinéa 2, du décret
+
+n° 92-755 du 31 juillet 1992.
 
 |
 
@@ -592,7 +594,9 @@ Requête aux fins de pratiquer une mesure conservatoire.
 
 |
 
-Art. 210 du décret n° 92-755 du 31 juillet 1992.
+Art. 210 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
@@ -612,7 +616,9 @@ Projet de répartition du prix en matière de distribution de deniers.
 
 |
 
-Art. 284 du décret n° 92-755 du 31 juillet 1992.
+Art. 284 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
@@ -698,15 +704,15 @@ Saisie immobilière.
 
 |
 
-Préparation et rédaction du pouvoir aux fins de saisie immobilière.
+Rédaction du bordereau en vue de la publication du commandement.
 
 |
 
-Art. 673 du code de procédure civile ancien.
+Art. 18 du décret n° 2006-936 du 27 juillet 2006.
 
 |
 
-25
+20
 
 |
 
@@ -714,11 +720,11 @@ Art. 673 du code de procédure civile ancien.
 
 |
 
-Rédaction du bordereau en vue de la publication d'un commandement valant saisie immobilière.
+Mention en marge au bureau des hypothèques.
 
 |
 
-Art. 674 du code de procédure civile ancien.
+Art. 43 du décret n° 2006-936 du 27 juillet 2006.
 
 |
 
@@ -864,6 +870,8 @@ Art. 5-1 du décret n° 73-216 du 1er mars 1973.
 
 |
 
+|
+
 44
 
 |
@@ -882,11 +890,15 @@ Art. 5-1 du décret n° 73-216 du 1er mars 1973.
 
 |
 
+|
+
 45
 
 |
 
-Notification de la modification ou de la mainlevée de la demande.
+Notification de la modification ou
+
+de la mainlevée de la demande.
 
 |
 
@@ -897,5 +909,49 @@ Art. 5-1 du décret n° 73-216 du 1er mars 1973.
 |
 
 7
+
+|
+
+Inventaire estimatif de l'actif
+
+et du passif des successions
+
+vacantes.
+
+|
+
+46
+
+|
+
+Inventaire en cas de succession vacante.
+
+|
+
+Art. 809-2 du code civil.
+
+|
+
+25
+
+|
+
+|
+
+47
+
+|
+
+Délivrance d'une copie de l'inventaire
+
+dressé en cas de succession vacante.
+
+|
+
+Art. 1345 du NCPC.
+
+|
+
+10
 
 |
