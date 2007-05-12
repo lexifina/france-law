@@ -2,7 +2,7 @@
 
 Tableau de correspondance
 
-AGENTS TITULAIRES DE LA COLLECTIVITÉ DEPARTEMENTALE
+AGENTS TITULAIRES DE LA COLLECTIVITÉ TERRITORIALE
 
 de Mayotte régis par l'arrêté préfectoral 066 PEL
 
@@ -10,7 +10,7 @@ du 3 février 1984 portant organisation, classement hiérarchique et échelonnem
 
 |
 
-LES FONCTIONS CORRESPONDANT
+FONCTIONS CORRESPONDANT
 
 à celles dévolues au cadre d'emplois d'accueil
 
@@ -108,23 +108,15 @@ Contrôleur de travaux.
 
 |
 
-d°
-
-|
-
 Fonctions d'encadrement d'un groupe d'agents d'exécution
 
 |
 
-Adjoint administratif.
+Adjoint administratif territorial de 1re classe.
 
-Agent technique.
+Adjoint technique territorial de 1re classe.
 
-Agent qualifié du patrimoine de 2e classe.
-
-|
-
-d°
+Adjoint territorial du patrimoine de 1re classe
 
 |
 
@@ -132,32 +124,84 @@ Fonctions d'exécution
 
 |
 
-Agent administratif.
+Adjoint administratif territorial de 2e classe.
 
-Agent d'entretien.
+Adjoint technique territorial de 2e classe.
 
-Agent de salubrité.
+Adjoint territorial du patrimoine de 2e classe.
 
-Agent du patrimoine de 2e classe.
+Opérateur territorial des activités physiques et sportives de 2e classe.
 
-Aide opérateur des activités physiques et sportives.
+Agent social territorial de 2e classe. Auxiliaire de soins territorial de 1re classe.
 
-Agent social.
+Auxiliaire de puériculture territorial de 1re classe.
 
-Auxiliaire de soins.
+Adjoint territorial d'animation de 2e classe.
 
-Auxiliaire de puériculture.
-
-Agent d'animation.
-
-Conducteur.
-
-Gardien d'immeubles.
-
-Agent spécialisé de 2e classe des écoles maternelles.
+Agent territorial spécialisé de 1re classe des écoles maternelles.
 
 |
 
 .
 
+AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE
+
+de Mayotte régis par l'arrêté préfectoral 069 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire du corps médical et paramédical diplômé d'Etat
+
+|
+
+FONCTIONS CORRESPONDANT
+
+à celles dévolues au cadre d'emplois d'accueil
+
+|
+
+GRADE D'INTÉGRATION
+
+dans un cadre d'emplois de la fonction publique territoriale
+
+|
+
+Infirmier.
+
+|
+
+Fonctions correspondant à celles dévolues aux membres du cadre d'emplois d'accueil.
+
+|
+
+Infirmier territorial de classe normale et de classe supérieure.
+
+|
+
 .
+
+AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE
+
+de Mayotte régis par l'arrêté préfectoral 068 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire des médecins, pharmaciens chimistes et vétérinaires biologistes
+
+|
+
+FONCTIONS CORRESPONDANT
+
+à celles dévolues au cadre d'emplois d'accueil
+
+|
+
+GRADE D'INTÉGRATION
+
+dans un cadre d'emplois de la fonction publique territoriale
+
+|
+
+Médecin.
+
+|
+
+Fonctions correspondant à celles dévolues aux membres du cadre d'emplois d'accueil.
+
+|
+
+Médecin territorial de 1re classe.
+
+|
