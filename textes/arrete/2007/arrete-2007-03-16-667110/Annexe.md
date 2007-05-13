@@ -228,7 +228,7 @@ Il s'agit d'une prise en charge quotidienne au total supérieure à deux heures,
 
 |
 
-Les soins de nursing lourds peuvent être assurés par la structure d'HAD si elle est associée à au moins une autre prise en charge par l'HAD en EHPA.
+Les soins de nursing lourds peuvent être assurés par la structure d'HAD s'ils sont associés à au moins une autre prise en charge par l'HAD en EHPA.
 
 |
 
