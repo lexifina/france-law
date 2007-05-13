@@ -40,6 +40,32 @@ TOTAL
 
 |
 
+Mesures de reconduction
+
+|
+
+Mesures nouvelles
+
+|
+
+Mesures de reconduction
+
+|
+
+Mesures nouvelles
+
+|
+
+Mesures de reconduction
+
+|
+
+Mesures nouvelles
+
+|
+
+|
+
 6021
 
 |
@@ -53,6 +79,16 @@ Produits pharmaceutiques et produits à usage médical
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -72,7 +108,19 @@ Fournitures hôtelières sauf 602261 "couches, alèses et produits absorbants"
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -94,7 +142,19 @@ Couches, alèses et produits absorbants
 
 |
 
+●
+
+|
+
 100%
+
+|
+
+100%
+
+|
+
+●
 
 |
 
@@ -120,6 +180,16 @@ Produits pharmaceutiques et produits à usage médical
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 |
@@ -136,7 +206,19 @@ Fournitures hôtelières sauf 6032261"couches, alèses et produits absorbants"
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -158,7 +240,19 @@ Couches, alèses et produits absorbants
 
 |
 
+●
+
+|
+
 100%
+
+|
+
+100%
+
+|
+
+●
 
 |
 
@@ -180,7 +274,19 @@ Produits d'entretien
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -202,7 +308,19 @@ Fournitures hôtelières sauf compte 606261"couches, alèses et produits absorba
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -224,7 +342,19 @@ Couches, alèses et produits absorbants
 
 |
 
+●
+
+|
+
 100%
+
+|
+
+100%
+
+|
+
+●
 
 |
 
@@ -250,6 +380,16 @@ Fournitures médicales
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 |
@@ -267,6 +407,16 @@ Prestations à caractère médical
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -290,6 +440,16 @@ Ergothérapie
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 |
@@ -307,6 +467,16 @@ Entretien et réparation sur biens mobiliers: matériel et outillage médicaux
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -330,6 +500,16 @@ Maintenance du matériel médical
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 |
@@ -339,6 +519,12 @@ Maintenance du matériel médical
 |
 
 Primes d'assurance maladie, maternité, accident du travail
+
+|
+
+|
+
+|
 
 |
 
@@ -366,6 +552,12 @@ PERSONNEL EXTERIEUR A L'ETABLISSEMENT
 
 |
 
+|
+
+|
+
+|
+
 62113
 
 |
@@ -379,6 +571,16 @@ Personnel et paramédical Personnel intérimaire: médical
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -402,6 +604,16 @@ Médecins
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 |
@@ -418,7 +630,19 @@ Blanchissage à l'extérieur
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -440,7 +664,19 @@ Nettoyage à l'extérieur
 
 |
 
+70%
+
+|
+
 30%
+
+|
+
+30%
+
+|
+
+●
 
 |
 
@@ -455,6 +691,12 @@ Nettoyage à l'extérieur
 |
 
 IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des impôts)
+
+|
+
+|
+
+|
 
 |
 
@@ -482,6 +724,12 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
 
 |
 
+|
+
+|
+
+|
+
 635
 
 |
@@ -489,6 +737,16 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
 AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 
 |
+
+|
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -509,6 +767,16 @@ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 autres impôts, taxes et versements assimilés (autres organismes)
 
 |
+
+|
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -538,11 +806,25 @@ CHARGES DE PERSONNEL
 
 |
 
-68: Dotations aux amortissements et aux provisions sauf matériel médical
+|
+
+|
+
+|
+
+68 : Dotations aux amortissements et aux provisions sauf matériel médical
 
 |
 
 |
+
+|
+
+|
+
+|
+
+●
 
 |
 
@@ -564,11 +846,21 @@ Dotations aux amortissements du matériel médical
 
 |
 
+●
+
+|
+
+●
+
+|
+
 |
 
 |
 
-681518: Dotations aux provisions: autres provisions pour risques (pathologies lourdes)
+|
+
+681518 : Dotations aux provisions : autres provisions pour risques (pathologies lourdes)
 
 |
 
@@ -577,6 +869,16 @@ Dotations aux amortissements du matériel médical
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -594,6 +896,14 @@ TOTAL DES CHARGES D'EXPLOITATION :
 
 |
 
+●
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -605,6 +915,14 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
 
 |
 
@@ -622,13 +940,21 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION
 
 |
 
+●
+
+|
+
+|
+
 |
 
 |
 
 |
 
-734-3: Contribution de l'assurance maladie au titre
+|
+
+734-3 : Contribution de l'assurance maladie au titre
 
 de l'article R. 314-188 = B 4
 
@@ -638,6 +964,16 @@ de l'article R. 314-188 = B 4
 
 |
 
+●
+
+|
+
+|
+
+|
+
+●
+
 |
 
 ●
@@ -646,7 +982,15 @@ de l'article R. 314-188 = B 4
 
 |
 
-incorporation des résultats des exercices antérieurs "dépendance" = C 2, soins = C3 |
+incorporation des résultats des exercices antérieurs "dépendance" = C 2, soins = C3
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -680,9 +1024,29 @@ BASE DE CALCUL DES TARIFS JOURNALIERS /
 
 |
 
+●
+
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -700,6 +1064,16 @@ QUOTE PART DES CHARGES NETTES RELATIVES AUX AIDES-SOIGNANTES ET AUX AMP IMPUTEE 
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 ●
@@ -707,6 +1081,18 @@ QUOTE PART DES CHARGES NETTES RELATIVES AUX AIDES-SOIGNANTES ET AUX AMP IMPUTEE 
 |
 
 PRODUCTION TOTALE DE POINTS GIR DE L'ETABLISSEMENT = F
+
+|
+
+●
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -738,6 +1124,16 @@ E /(GMP multiplié par la capacité occupée)
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 ●
@@ -752,6 +1148,16 @@ VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F
 
 |
 
+●
+
+|
+
+|
+
+|
+
+●
+
 |
 
 ●
@@ -763,6 +1169,18 @@ VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F
 |
 
 PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = G 1
+
+|
+
+●
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -796,9 +1214,33 @@ PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 3 ET 4 = G 2
 
 |
 
+●
+
+|
+
+●
+
+|
+
+●
+
+|
+
 |
 
 PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 5 ET 6 = G 3
+
+|
+
+●
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -832,9 +1274,33 @@ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LES GROUPES ISO-RESSOURCES 1 ET 2
 
 |
 
+●
+
+|
+
+●
+
+|
+
+●
+
+|
+
 |
 
 PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RESSOURCES 3 ET 4 = G 2 / F = H 2
+
+|
+
+●
+
+|
+
+●
+
+|
+
+●
 
 |
 
@@ -868,6 +1334,18 @@ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RESSOURCES 5 ET 6 
 
 |
 
+●
+
+|
+
+●
+
+|
+
+●
+
+|
+
 |
 
 NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les
@@ -877,6 +1355,14 @@ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 1 à 6 = J
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
 
 |
 
@@ -898,6 +1384,14 @@ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = K 1
 
 |
 
+●
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -911,6 +1405,14 @@ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les PERSONNES C
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
 
 |
 
@@ -930,6 +1432,14 @@ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les PERSONNES C
 
 |
 
+●
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -943,6 +1453,14 @@ Pourcentage du nombre de journées prévisionnelles "dépendance" et "soins" des
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
 
 |
 
@@ -962,6 +1480,14 @@ Pourcentage du nombre de journées prévisionnelles "dépendance" et "soins" des
 
 |
 
+●
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -975,6 +1501,14 @@ Pourcentage du nombre de journées prévisionnelles "dépendance" et "soins" des
 |
 
 ●
+
+|
+
+●
+
+|
+
+|
 
 |
 
@@ -996,6 +1530,16 @@ D 2 X H 1 / K 1
 
 |
 
+●
+
+|
+
+|
+
+|
+
+●
+
 |
 
 ●
@@ -1016,6 +1560,16 @@ D 2 X H 2 / K 2
 
 |
 
+●
+
+|
+
+|
+
+|
+
+●
+
 |
 
 ●
@@ -1035,6 +1589,16 @@ D 2 X H 3 / K 3
 ●
 
 |
+
+●
+
+|
+
+|
+
+|
+
+●
 
 |
 
@@ -1060,6 +1624,16 @@ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 1 ET 2
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 ●
@@ -1077,6 +1651,16 @@ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 3 ET 4
 |
 
 ●
+
+|
+
+●
+
+|
+
+●
+
+|
 
 |
 
@@ -1100,6 +1684,16 @@ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 5 ET 6
 
 |
 
+●
+
+|
+
+●
+
+|
+
+|
+
 |
 
 ●
@@ -1118,13 +1712,23 @@ DOTATION GLOBALE DE FINANCEMENT "SOINS" = D3 + B 4
 
 |
 
+●
+
 |
 
 ●
 
 |
 
-Répartition des charges de personnel salarie dans un établissement relevant des articles L. 342-1 A L. 342-6
+|
+
+|
+
+●
+
+|
+
+Répartition des charges de personnel salarié dans un établissement relevant des articles L. 342-1 A L. 342-6
 
 PERSONNEL
 

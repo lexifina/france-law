@@ -2332,15 +2332,7 @@ Résultat affecté au compte 10686 : excédent affecté à la réserve de compen
 
 |
 
-Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation
-
-|
-
-●
-
-|
-
-●
+Résultat affecté au compte 10 687 : excédent affecté à la réserve de compensation des charges d'amortissement
 
 |
 
@@ -2348,7 +2340,11 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 
 |
 
-●
+|
+
+|
+
+|
 
 |
 
@@ -2356,29 +2352,7 @@ Résultat affecté au compte 110 : excédent affecté à la réduction des charg
 
 |
 
-●
-
 |
-
-|
-
-|
-
-●
-
-|
-
-|
-
-Résultat affecté au compte 111 : excédent affecté au financement des mesures d'exploitation
-
-|
-
-●
-
-|
-
-●
 
 |
 
@@ -2386,7 +2360,7 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 
 |
 
-●
+Résultat affecté au compte 110 : excédent affecté à la réduction des charges d'exploitation (établissement public) ;
 
 |
 
@@ -2394,7 +2368,11 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 
 |
 
-●
+|
+
+|
+
+|
 
 |
 
@@ -2402,21 +2380,7 @@ Résultat affecté au compte 111 : excédent affecté au financement des mesures
 
 |
 
-●
-
 |
-
-|
-
-Résultat affecté au compte 119 : Report à nouveau déficitaire
-
-|
-
-●
-
-|
-
-●
 
 |
 
@@ -2424,7 +2388,7 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 
 |
 
-●
+Résultat affecté au compte 111 : excédent affecté au financement de mesures d'exploitation non reconductibles (établissement public)
 
 |
 
@@ -2432,7 +2396,11 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 
 |
 
-●
+|
+
+|
+
+|
 
 |
 
@@ -2440,7 +2408,149 @@ Résultat affecté au compte 119 : Report à nouveau déficitaire
 
 |
 
-●
+|
+
+|
+
+|
+
+|
+
+Dépenses refusées par l'autorité de tarification en application de l'article R. 314-52 (compte 114)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Résultat affecté au compte 119 : report à nouveau déficitaire (établissement public)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Résultat affecté au compte 11 510 : excédent affecté à la réduction des charges d'exploitation (établissement privé)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Résultat affecté au compte 11 511 : excédent affecté au financement de mesures d'exploitation non reconductibles (établissement privé)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Résultat affecté au compte 11 519 : report à nouveau déficitaire (établissement privé).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
