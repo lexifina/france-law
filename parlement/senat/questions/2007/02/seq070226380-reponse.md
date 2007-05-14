@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070226380
+
+- Question : [SEQ070226380](seq070226380.md) — Création à titre expérimental de zones franches urbaines ou frontalières
+
+## Réponse
+
+*Aménagement du territoire, JO du 2007-05-14, page 1013*
+
+Les zones rurales fragiles disposent, à travers les mesures prises par la loi n° 154-2005 du 23 février 2005 relative au développement des territoires ruraux, d'un dispositif extrêmement incitatif. Ainsi, on recense principalement, au titre des mesures fiscales : l'exonération de taxe professionnelle (art. 1465 A du CGI) ; l'exonération de l'impôt sur le revenu ou d'impôt sur les sociétés (art. 44 sexies du CGI) ; l'exonération de la taxe foncière sur les propriétés bâties (art. 1383 A, 1464 B et C du CGI) ; un système d'amortissements anticipé (article 39 quinquies D du CGI) ; l'exonération des taxes pour frais de chambres de commerce et d'industrie et pour frais de chambres des métiers et de l'artisanat (art. 1602 A du CGI) ; l'exonération de la taxe foncière sur les propriétés bâties (art. 1383 A, 1383 D, 1464 B et 1602 A de CGI) ; les mesures en faveur de l'immobilier touristique (art. 199 decies E et F du CGI) ; la déduction forfaitaire majorée prévue par l'article 91 de la loi 2003-590 modifiée (urbanisme et habitat) ; l'exonération des cotisations sociales (art. L. 242-1 du code de la sécurité sociale et L. 741.10 du code rural). Divers dispositifs plus ciblés (poste, santé etc.) s'appliquent également dans les zones de revitalisation rurale. 13 667 communes pour 70 départements sont concernées par l'ensemble de ces mesures qui intéressent une population de plus de 5 millions d'habitants. Il apparaît ainsi que l'arsenal fiscal incitatif applicable aux zones rurales sensibles « franchise » largement les territoires concernés. Une évaluation prévue par la loi permettra, de surcroît, d'en mesurer la portée en 2009.
