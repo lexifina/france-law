@@ -4,76 +4,76 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel de technicien(ne) métreur(se) en enveloppe bâtiment-fermetures.
+Titre professionnel de technicien(ne) métreur (-euse) en menuiseries fermetures et équipements.
+
+Ancien intitulé : technicien(ne) métreur (-euse) en enveloppe bâtiment-fermetures.
 
 Niveau : IV.
 
-Code NSF : 234 n.
+Code NSF : 234n.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) métreur(se) en enveloppe bâtiment-fermetures participe à l'élaboration technique d'un projet d'installation d'ouvrages en bois et matériaux dérivés tels que menuiseries et fermetures extérieures, éléments participant au clos-couvert d'un bâtiment. Il (elle) contribue à la détermination des procédés techniques, des méthodes d'organisation et du coût de la future opération. Avant la réalisation du chantier, il (elle) participe à la prévision et à l'organisation des différents outils et moyens permettant l'exécution des travaux dans les meilleures conditions de délais et de coûts. Puis il (elle) assure le suivi technique, administratif et budgétaire d'un ou plusieurs chantiers jusqu'au parfait achèvement des ouvrages.
+Le technicien(ne) métreur (-euse) en menuiseries fermetures équipements participe à l'élaboration technique d'un projet de clos et de protection d'un bâtiment par la pose de menuiseries extérieures et de fermetures. Il contribue à la détermination des procédés techniques, des méthodes d'organisation et du coût de la future opération. Avant la réalisation du chantier, il participe à la prévision et à l'organisation des différents outils et moyens permettant l'exécution des travaux dans les meilleurs conditions de délais et de coûts. Puis il assure le suivi technique, administratif et budgétaire d'un ou plusieurs chantiers jusqu'au parfait achèvement des ouvrages.
 
-Il (elle) exerce principalement au bureau durant la phase de conception et sur chantier durant la phase de réalisation. Il (elle) se déplace souvent sur les chantiers et auprès des partenaires participant à la construction. Certaines de ses activités peuvent entraîner des dépassements d'horaires.
+Il exerce principalement au bureau durant la phase de conception et sur chantier durant la phase de réalisation. Il se déplace souvent sur les chantiers et auprès des partenaires participant à la construction. Certaines de ses activités peuvent entraîner des dépassements d'horaires.
 
-Il (elle) organise et exécute les tâches qui lui sont confiées sous la responsabilité du chef d'entreprise ou du chargé d'affaires. En fonction de l'organisation et de la taille de l'entreprise et des activités, le (la) technicien(ne) métreur(se) peut être amené(e) à travailler seul(e) ou en équipe.
+Il organise et exécute les tâches qui lui sont confiées sous la responsabilité du chef d'entreprise ou du chargé d'affaires. En fonction de l'organisation et de la taille de l'entreprise et des activités, le technicien métreur peut être amené à travailler seul ou en équipe.
 
-Capacités attestées et descriptif des composantes de la certification
+Capacités attestées et descriptif des composants
 
-1. Chiffrer une affaire en enveloppe bâtiment-fermetures
+de la certification
 
-Chiffrer une affaire en menuiseries et fermetures extérieures.
+1. Chiffrer une affaire en menuiseries fermetures et équipements
 
-Chiffrer une affaire en façade légère.
+Chiffrer une affaire de menuiserie extérieure.
 
-Chiffrer une affaire en couverture industrielle.
+Chiffrer une affaire de fermetures.
 
-Chiffrer une affaire en étanchéité.
+Chiffrer une affaire de miroiterie.
 
-2. Réaliser l'étude technique d'exécution d'une affaire en enveloppe bâtiment-fermetures
+Chiffrer une affaire de façade légère.
 
-Réaliser l'étude technique d'exécution d'une affaire en menuiseries et fermetures extérieures.
+2. Réaliser l'étude technique d'exécution d'une affaire
 
-Réaliser l'étude technique d'exécution d'une affaire en façade légère.
+en menuiseries fermetures et équipements
 
-Réaliser l'étude technique d'exécution d'une affaire en couverture industrielle.
+Réaliser l'étude technique d'exécution d'une affaire de menuiserie extérieure.
 
-Réaliser l'étude technique d'exécution d'une affaire en étanchéité.
+Réaliser l'étude technique d'exécution d'une affaire de fermetures.
 
-3. Réaliser le suivi et le contrôle d'un chantier en enveloppe bâtiment-fermetures
+Réaliser l'étude technique d'exécution d'une affaire de miroiterie.
 
-Réaliser le suivi et le contrôle d'un chantier en menuiseries et fermetures extérieures.
+Réaliser l'étude technique d'exécution d'une affaire de façade légère.
 
-Réaliser le suivi et le contrôle d'un chantier en façade légère.
+3. Réaliser le suivi et le contrôle d'un chantier
 
-Réaliser le suivi et le contrôle d'un chantier en couverture industrielle.
+en menuiseries fermetures et équipements
 
-Réaliser le suivi et le contrôle d'un chantier en étanchéité.
+Réaliser le suivi et le contrôle d'un chantier de menuiserie extérieure.
 
-Secteurs d'activités ou types d'emploi
+Réaliser le suivi et le contrôle d'un chantier de fermetures.
 
-accessibles par le détenteur du titre
+Réaliser le suivi et le contrôle d'un chantier de miroiterie.
+
+Réaliser le suivi et le contrôle d'un chantier de façade légère.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
 
 Les grandes, moyennes et petites entreprises d'enveloppe du bâtiment.
 
-Codes ROME :
+Code ROME : néant.
 
-61223 - Chargé d'études techniques du BTP ;
+Réglementation de l'activité : néant.
 
-61232 - Conducteur de travaux du BTP.
-
-Réglementation de l'activité :
-
-Néant.
-
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+NOTA :
+
+Arrêté du 3 mai 2007 art. 1 : L'arrêté du 5 mai 2004 relatif au titre professionnel de technicien (ne) métreur (euse) en enveloppe bâtiment-fermeture est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur de l'arrêté du 3 mai 2007.
