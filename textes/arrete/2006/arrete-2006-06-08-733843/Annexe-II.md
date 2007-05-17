@@ -4,35 +4,35 @@ PIÈCES À JOINDRE À LA DEMANDE D'AGRÉMENT
 
 1° Note de présentation de l'entreprise
 
-2.1. Organisation générale.
+1.1. Organisation générale.
 
-2.2. Organigrammes fonctionnels et répartition des différentes catégories de personnel.
+1.2. Organigrammes fonctionnels et répartition des différentes catégories de personnel.
 
 2° Description des activités de l'entreprise
 
-2.3. La liste des catégories de produits correspondant à des procédés de fabrication identifiés, leur description et leur utilisation prévisible attendue.
+2.1. La liste des catégories de produits correspondant à des procédés de fabrication identifiés, leur description et leur utilisation prévisible attendue.
 
-2.4. La liste des matières premières, ingrédients, des matériaux de conditionnement et d'emballage et leur description.
+2.2. La liste des matières premières, ingrédients, des matériaux de conditionnement et d'emballage et leur description.
 
-2.5. La description des circuits d'approvisionnement et de commercialisation des produits envisagés.
+2.3. La description des circuits d'approvisionnement et de commercialisation des produits envisagés.
 
-2.6. Les diagrammes de fabrication.
+2.4. Les diagrammes de fabrication.
 
-2.7. Les tonnages ou les volumes de production annuels et la capacité journalière maximale et minimale.
+2.5. Les tonnages ou les volumes de production annuels et la capacité journalière maximale et minimale.
 
-2.8. La liste et les procédures de gestion des sous-produits animaux et des déchets.
+2.6 La liste et les procédures de gestion des sous-produits animaux et des déchets.
 
-2.9. La capacité de stockage des matières premières, des produits intermédiaires et des produits finis.
+2.7. La capacité de stockage des matières premières, des produits intermédiaires et des produits finis.
 
-2.10. Un plan de situation à l'échelle au 1/1 000 minimum, indiquant les délimitations de l'établissement, les accès et les abords.
+2.8. Un plan de situation à l'échelle au 1/1 000 minimum, indiquant les délimitations de l'établissement, les accès et les abords.
 
-2.11. Un plan de masse, à l'échelle de 1/500 à 1/1 000 présentant l'ensemble des bâtiments de l'établissement, les éléments de voirie, les circuits d'arrivée d'eau potable/d'eau de mer et d'évacuation des eaux résiduaires et pluviales.
+2.9. Un plan de masse, à l'échelle de 1/500 à 1/1 000 présentant l'ensemble des bâtiments de l'établissement, les éléments de voirie, les circuits d'arrivée d'eau potable/d'eau de mer et d'évacuation des eaux résiduaires et pluviales.
 
 Le plan de situation et le plan de masse peuvent faire l'objet d'un seul plan.
 
-2.12. Un plan d'ensemble de l'établissement, à l'échelle de 1/100 à 1/300 selon la taille des locaux, indiquant la disposition des locaux de travail et des locaux à usage du personnel.
+2.10. Un plan d'ensemble de l'établissement, à l'échelle de 1/100 à 1/300 selon la taille des locaux, indiquant la disposition des locaux de travail et des locaux à usage du personnel.
 
-2.13. La description détaillée d'un point de vue sanitaire de l'ensemble des locaux, de l'équipement et du matériel utilisé, ainsi que les conditions de fonctionnement.
+2.11. La description détaillée d'un point de vue sanitaire de l'ensemble des locaux, de l'équipement et du matériel utilisé, ainsi que les conditions de fonctionnement.
 
 3° Le plan de maîtrise sanitaire
 
@@ -42,7 +42,7 @@ Il comprend les éléments nécessaires à la mise en place et les preuves de l'
 
 - des bonnes pratiques d'hygiène ou prérequis ;
 
-- du plan d'analyse des dangers et des points critiques pour leur maîtrise (plan HACCP) fondé sur les 7 principes HACCP retenus par le règlement (CE) n° 852/2004 ;
+- du plan d'analyse des dangers et des points critiques pour leur maîtrise (plan HACCP) fondé sur les sept principes HACCP retenus par le règlement (CE) n° 852/2004 ;
 
 - de la gestion des produits non conformes et de la traçabilité.
 
@@ -100,9 +100,11 @@ Le plan de maîtrise sanitaire comprend :
 
 3.3. Les procédures de traçabilité et de gestion des produits non conformes (retrait, rappel...).
 
-4° Cas particulier des marchés de gros et des halles de criée
+4° Cas particulier des marchés de gros
 
-Le règlement intérieur.
+et des halles de criée
+
+Le règlement intérieur élaboré par l'exploitant de l'établissement reprenant les principales règles d'hygiène que les vendeurs et les acheteurs doivent respecter et décrivant les modalités d'utilisation des parties communes. Ce règlement intérieur est porté à la connaissance des usagers de l'établissement.
 
 La composition, comprenant l'identification des responsables, des entités propriétaires et des entités chargées de l'exploitation.
 
@@ -114,4 +116,4 @@ Conformément aux dispositions des règlements (CE) n° 1907/90 et n° 2295/2003
 
 - la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des oeufs ;
 
-- les procédures de fonctionnement, permettant le classement des oeufs par catégorie de qualité et de poids.
+- les procédures de fonctionnement permettant le classement des oeufs par catégorie de qualité et de poids.
