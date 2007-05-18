@@ -26,7 +26,7 @@ Il (elle) exerce son activité le plus généralement :
 
 Il (elle) exécute les opérations à partir d'un ordre de réparation sur lequel sont consignés les travaux à réaliser définis par son responsable hiérarchique et le client.
 
-Placé(e) sous le contrôle direct d'un agent d'un niveau de qualification supérieur, il (elle) intervient conformément à des procédures indiquées. Ses interventions portent sur des vérifications de conformité simples et bien définies. Les consignes sont fournies par un ordre de réparation. Il (elle) utilise la documentation technique de chacun des véhicules sur lesquels il (elle) intervient. Celle-ci précise les modes opératoires et les données techniques du constructeur.
+Placé(e) sous le contrôle direct d'un agent d'un niveau de qualification supérieur, il (elle) intervient conformément à des procédures indiquées. Ses interventions portent sur des vérifications de conformité simples et bien définies. Les consignes sont fournies par un ordre de réparation. Il (elle) utilise la documentation technique de chacun des véhicules sur lesquels il intervient. Celle-ci précise les modes opératoires et les données techniques du constructeur.
 
 Le permis de conduire B est nécessaire pour les déplacements en dépannage.
 
@@ -46,11 +46,13 @@ Procéder aux réglages des véhicules conformément aux préconisations du cons
 
 Renseigner les documents de gestion et de suivi de l'entretien des véhicules industriels.
 
-2. Assurer la maintenance d'un parc de véhicules industriels par l'échange des organes et des pièces d'usure
+2. Assurer la maintenance d'un parc de véhicules industriels
+
+par l'échange des organes et des pièces d'usure
 
 Procéder au remplacement des pièces et composants d'usure des systèmes de freinage des véhicules industriels.
 
-Procéder à l'échange standard de sous-ensembles des véhicules industriels.
+Procéder à l'échange standard de sous ensembles des véhicules industriels.
 
 Monter des équipements et accessoires optionnels sur supports prééquipés.
 
@@ -92,6 +94,6 @@ Bases légales et réglementaires :
 
 Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
+Décret n° 2002-1029 du 2 août 2002 ;
 
-Arrêté du 25 novembre 2002 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 25 novembre 2002.
