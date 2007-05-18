@@ -52,6 +52,8 @@ Dans certaines conditions, des unités capitalisables complémentaires, regroup�
 
 - Voile : le moniteur de voile encadre les activités de multicoque, dériveur, croisière (jusqu'à 12 milles d'un abri) et planche à voile pour tout public et sur tout lieu de pratique de l'activité. Au-delà de 12 milles d'un abri, le moniteur peut encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille, possédant les diplômes requis.
 
+- Surf : le moniteur de surf encadre des activités surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard), pour tout public et sur tout lieu de pratique de l'activité.
+
 2/ Supports constitutifs d'une mention plurivalente (composé de deux supports choisis dans des groupes différents) :
 
 Groupe A :
