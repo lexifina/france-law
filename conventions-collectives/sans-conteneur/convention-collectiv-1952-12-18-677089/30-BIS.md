@@ -13,3 +13,5 @@ En ce qui concerne les cadres dotés d'un coefficient inférieur à 350 les disp
 Ces appointements des cadres confirmés dont le coefficient est égal ou supérieur à 350 sont déterminés forfaitairement de gré à gré. En plus du salaire minimum garanti de la profession découlant du coefficient hiérarchique de l'intéressé, la rémunération globale tient compte de compléments résultant de la valeur individuelle, des conditions de travail et de l'expérience acquise.
 
 Les modalités qui précèdent ne font pas obstacle à des dispositions ou des accords particuliers plus favorables qui pourraient être appliqués ou signés au sein de chaque entreprise.
+
+L'augmentation de la prime d'ancienneté ne peut en aucun cas se substituer aux éventuelles augmentations de salaires.
