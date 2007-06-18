@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070426803
+
+- Question : [SEQ070426803](seq070426803.md) — Parrainages des candidats à l'élection présidentielle
+
+## Réponse
+
+*Intérieur, JO du 2007-06-18, page 1073*
+
+Pour participer à l'élection du Président de la République, tout candidat doit être présenté par au moins 500 élus d'au moins 30 départements ou collectivités d'outre-mer différents, sans que plus d'un dixième d'entre eux puissent être les élus d'un même département ou d'une même collectivité d'outre-mer. En outre, le dernier alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République au suffrage universel précise que le nom et la qualité des citoyens qui ont proposé les candidats inscrits sur la liste sont rendus publics par le Conseil constitutionnel huit jours au moins avant le premier tour de scrutin, dans la limite du nombre requis pour la validité de la candidature. La publicité des noms des élus habilités à présenter un candidat à l'élection présidentielle n'est donc prévue que dans la limite de 500. En 1981, il a été décidé que le choix de ces 500 personnes se ferait par tirage au sort et que la forme de publicité retenue serait la publication au Journal officiel. Ainsi, les personnes ayant présenté des candidats qui ont recueilli un nombre de présentations peu supérieur à 500 ont une probabilité élevée de voir leur nom publié. À l'inverse, cette probabilité est faible lorsque les candidats ont recueilli plusieurs milliers de présentations. Par ailleurs, en l'absence de publication de l'intégralité des noms des élus concernés, les chiffres publiés par la presse quant au nombre de présentations recueillies par tel ou tel candidat émanent nécessairement de sources non officielles et invérifiables. Ils n'appellent donc pas de commentaire de la part du ministère de l'intérieur.
