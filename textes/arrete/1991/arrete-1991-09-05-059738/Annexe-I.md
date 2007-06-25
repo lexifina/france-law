@@ -1,169 +1,321 @@
 # Article Annexe I
 
-Ingénieur subdivisionnaire
+ÉCHELONS
 
-10e échelon (1)
+|
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut : 750 9e échelon :
+INDICES BRUTS
 
-Situation antérieure : indice brut : 701
+|
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+Ingénieur hospitalier en chef de classe exceptionnelle
+
+|
+
+|
+
+7e échelon
+
+|
+
+HEB
+
+|
+
+6e échelon
+
+|
+
+HEA
+
+|
+
+5e échelon
+
+|
+
+1015
+
+|
+
+4e échelon
+
+|
+
+966
+
+|
+
+3e échelon
+
+|
+
+901
+
+|
+
+2e échelon
+
+|
+
+830
+
+|
+
+1er échelon
+
+|
+
+750
+
+|
+
+Ingénieur hospitalier en chef de classe normale
+
+|
+
+|
+
+10e échelon
+
+|
+
+966
+
+|
+
+9e échelon
+
+|
+
+901
+
+|
+
+8e échelon
+
+|
+
+852
+
+|
+
+7e échelon
+
+|
+
+772
+
+|
+
+6e échelon
+
+|
+
+701
+
+|
+
+5e échelon
+
+|
+
+655
+
+|
+
+4e échelon
+
+|
+
+612
+
+|
+
+3e échelon
+
+|
+
+562
+
+|
+
+2e échelon
+
+|
+
+513
+
+|
+
+1er échelon
+
+|
+
+450
+
+|
+
+Ingénieur hospitalier principal
+
+|
+
+|
+
+9e échelon
+
+|
+
+966
+
+|
+
+8e échelon
+
+|
+
+916
+
+|
+
+7e échelon
+
+|
+
+864
+
+|
+
+6e échelon
+
+|
+
+811
+
+|
+
+5e échelon
+
+|
+
+759
+
+|
+
+4e échelon
+
+|
+
+701
+
+|
+
+3e échelon
+
+|
+
+641
+
+|
+
+2e échelon
+
+|
+
+593
+
+|
+
+1er échelon
+
+|
+
+541
+
+|
+
+Ingénieur hospitalier
+
+|
+
+|
+
+10e échelon
+
+|
+
+750
+
+|
+
+9e échelon
+
+|
 
 710
 
-8e échelon :
+|
 
-Situation antérieure : indice brut : 659
+8e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 668
 
-7e échelon :
+|
 
-Situation antérieure : indice brut : 612
+7e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 621
 
-6e échelon :
+|
 
-Situation antérieure : indice brut : 579
+6e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 588
 
-5e échelon :
+|
 
-Situation antérieure : indice brut : 528
+5e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 540
 
-4e échelon :
+|
 
-Situation antérieure : indice brut : 482
+4e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 492
 
-3e échelon :
+|
 
-Situation antérieure : indice brut : 448
+3e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 458
 
-2e échelon :
+|
 
-Situation antérieure : indice brut : 420
+2e échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 430
 
-1er échelon :
+|
 
-Situation antérieure : indice brut : 379
+1er échelon
 
-Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+|
 
 379
 
-(1) Echelon créé à compter du 1er aou^t 1993.
-
-Ingénieur en chef
-
-:------------------------: |
-
-: ECHELON : INDICE BRUT : |
-
-:----------:-------------: |
-
-: 9e : 966 : |
-
-: 8e : 916 : |
-
-: 7e : 864 : |
-
-: 6e : 811 : |
-
-: 5e : 759 : |
-
-: 4e : 701 : |
-
-: 3e : 641 : |
-
-: 2e : 593 : |
-
-: 1er : 541 : |
-
-:------------------------: |
-
-Ingénieur en chef de 1re catégorie
-
-2e classe
-
-:------------------------: |
-
-: ECHELON : INDICE BRUT : |
-
-:----------:-------------: |
-
-: 8e : 771 : |
-
-: 7e : 732 : |
-
-: 6e : 681 : |
-
-: 5e : 635 : |
-
-: 4e : 581 : |
-
-: 3e : 530 : |
-
-: 2e : 480 : |
-
-: 1er : 450 : |
-
-:------------------------: |
-
-1re classe
-
-:------------------------: |
-
-: ECHELON : INDICE BRUT : |
-
-:----------:-------------: |
-
-: 4e : 966 : |
-
-: 3e : 901 : |
-
-: 2e : 830 : |
-
-: 1er : 750 : |
-
-:------------------------: |
-
-Hors classe
-
-:------------------------: |
-
-: ECHELON : INDICE BRUT : |
-
-:----------:-------------: |
-
-: 3e : HEA : |
-
-: 2e : 1015 : |
-
-: 1er : 946 : |
-
-:------------------------: |
+|

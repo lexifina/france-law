@@ -1,7 +1,57 @@
 # Article Annexe II
 
-3e échelon : indice brut : HEB
+ÉCHELONS
 
-2e échelon : indice brut : HEA
+|
 
-1er échelon : indice brut : 830
+INDICES BRUTS
+
+|
+
+Hors-échelle B
+
+|
+
+Chevron III
+
+|
+
+Hors-échelle B
+
+|
+
+Chevron II
+
+|
+
+Hors-échelle A
+
+|
+
+Chevron III
+
+|
+
+Hors-échelle A
+
+|
+
+Chevron II
+
+|
+
+Hors-échelle A
+
+|
+
+Chevron I
+
+|
+
+1er échelon
+
+|
+
+830
+
+|
