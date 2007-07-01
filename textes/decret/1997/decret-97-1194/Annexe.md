@@ -716,21 +716,7 @@ Article 8-1.
 
 |
 
-Décret 28 septembre 1938 modifié portant organisation des chambres régionales de commerce et d'industrie
-
-1
-
-|
-
-Autorisation de transfert de la gestion d'un établissement, ouvrage ou service d'une chambre de commerce et d'industrie à une chambre régionale de commerce et d'industrie. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 6, alinéa 10.
-
-|
-
-Décret n° 64-1200 du 4 décembre 1964 modifié portant création d'une assemblée permanente des chambres de commerce et d'industrie
+R. 712-13 du code de commerce
 
 1
 
@@ -741,70 +727,6 @@ Fixation des contributions des chambres de commerce et d'industrie et des chambr
 |
 
 Article 11.
-
-|
-
-Décret n° 72-950 du 3 octobre 1972 modifié relatif aux groupements interconsulaires
-
-1
-
-|
-
-Convocation de l'assemblée générale d'un groupement interconsulaire. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 9.
-
-|
-
-2
-
-|
-
-Fixation des contributions des chambres de commerce et d'industrie aux groupements interconsulaires. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 11, alinéa 1.
-
-|
-
-3
-
-|
-
-Inscription d'office au budget d'un groupement interconsulaire. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 11, alinéa 2.
-
-|
-
-4
-
-|
-
-Approbation de l'inscription au budget des chambres de commerce et d'industrie d'un crédit spécial représentant leur part contributive aux dépenses du groupement interconsulaire. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 11, alinéa 3.
-
-|
-
-Décret n° 91-739 du 18 juillet 1991 relatif aux chambres de commerce et d'industrie, aux chambres régionales de commerce et d'industrie, à l'assemblée des chambres françaises de commerce et d'industrie et aux groupements interconsulaires
-
-2
-
-|
-
-Approbation des budgets primitifs et rectificatifs. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 54.
 
 |
 
