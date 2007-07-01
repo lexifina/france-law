@@ -1,6 +1,6 @@
-# Article préambule
+# Article KALIARTI000018195903
 
-Dans le souci de favoriser l'évolution professionnelle des salariés du secteur de la restauration rapide, les parties signataires au présent avenant ont convenu des modalités permettant à tout salarié n'ayant pas eu accès au niveau II après 3 ans de travail effectif dans l'entreprise d'y accéder moyennant formation réussie.
+Dans le souci de favoriser l'évolution professionnelle des salariés du secteur de la restauration rapide, les parties signataires au présent avenant ont convenu des modalités permettant à tout salarié n'ayant pas eu accès au niveau II après 2 ans de travail effectif dans l'entreprise d'y accéder moyennant formation réussie.
 
 Ce salarié pourra, à sa demande, accéder à un poste de niveau II, après validation par le responsable d'établissement. Cette promotion sera effective même s'il n'y a pas de vacance d'un poste de niveau II.
 
