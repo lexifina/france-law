@@ -116,8 +116,4 @@ Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 e
 
 Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
 
-Les montants obtenus par l'application de ces pourcentages sont arrondis au franc le plus proche.
-
-NOTA :
-
-NOTA : Arrêté du 23 décembre 2006 art. 7 : Les dispositions du présent arrêté sont applicables pour les prestations dues à compter du mois de janvier 2007.
+Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.
