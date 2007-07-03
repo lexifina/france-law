@@ -26,7 +26,7 @@ Dans l'hypothèse où la totalité des sommes collectées n'aura pas été dépe
 
 Pour les syndicats de salariés, la part du solde de ce fonds sera répartie entre les organisations syndicales représentatives dans le champ d'application de la convention :
 
--à raison d'un montant forfaitaire versé aux fédérations. Ce montant forfaitaire est égal à vingt et une fois le défraiement conventionnel. Son versement sera fonction de la participation des représentants aux réunions des instances mises en place dans le cadre de la présente convention ;
+-à raison d'un montant forfaitaire versé aux fédérations. Ce montant forfaitaire est égal à 114 fois le défraiement conventionnel. Son versement sera fonction de la participation des représentants aux réunions des instances mises en place dans le cadre de la présente convention ;
 
 -au prorata du résultat en nombre de voix des élections au conseil de gestion du Fonds national d'activités sociales des entreprises artistiques et culturelles (voir art. 3.3.3).
 
