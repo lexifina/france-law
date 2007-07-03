@@ -14,7 +14,7 @@ Un protocole d'accord sera signé afin de déterminer les modalités particuliè
 
 Le scrutin désignera :
 
--par extension de la loi, 1 délégué du personnel dans les entreprises de 10 salariés et moins ;
+-par extension de la loi, 1 délégué du personnel dans les entreprises dont l'effectif est de 5 à 10 salariés, équivalent temps plein, et comportant au moins un salarié en CDI à temps plein ;
 
 -1 titulaire et 1 suppléant dans les entreprises de 11 à 25 salariés ;
 
