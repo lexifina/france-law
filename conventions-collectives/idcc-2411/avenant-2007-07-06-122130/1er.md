@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Le présent avenant s'applique à tous les salariés cadres et non cadres employés sous contrat à durée indéterminée et sous contrat à durée déterminée de droit commun par les entreprises relevant du champ d'application de la convention collective des chaînes thématiques.
 
