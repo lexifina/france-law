@@ -26,11 +26,11 @@ Article 2.2
 
 Les salariés permanents concernés
 
-Les périodes de professionnalisation sont ouvertes aux salariés ayant au moins un an d'ancienneté dans l'entreprise de travail temporaire :
+Les périodes de professionnalisation sont ouvertes aux salariés ayant au moins 1 an d'ancienneté dans l'entreprise de travail temporaire :
 
 - dont la qualification est insuffisante au regard de l'évolution des technologies et des métiers ainsi que de l'organisation du travail ;
 
-- qui comptent 20 ans d'activité professionnelle, ou âgés d'au moins quarante ans et qui souhaitent consolider la seconde partie de leur carrière professionnelle ;
+- qui comptent 20 ans d'activité professionnelle, ou âgés d'au moins 40 ans et qui souhaitent consolider la seconde partie de leur carrière professionnelle ;
 
 - qui envisagent la création ou la reprise d'une entreprise ;
 
@@ -49,6 +49,8 @@ La durée et le contenu de la période de professionnalisation
 La durée de la période de professionnalisation est définie d'un commun accord entre l'employeur et le salarié permanent, elle doit être cohérente avec l'objectif de professionnalisation défini.
 
 La période de professionnalisation doit comporter au minimum 70 heures de formation.
+
+Toutefois, lorsque la période de professionnalisation a pour objectif, dans le cadre de son maintien dans l'emploi, de faire monter en compétences le salarié permanent, en vue de lui permettre de faire face à des demandes discriminatoires à l'occasion d'une relation commerciale, la période de professionnalisation devra comporter au minimum 14 heures de formation. Les programmes de formation pouvant être utilisés dans ce cadre feront l'objet d'une validation devant les instances de l'OPCA de la branche.
 
 Le salarié permanent peut bénéficier, en plus d'une action de formation, d'actions d'évaluation, de bilan de compétences, de validation des acquis de l'expérience professionnelle ou d'un accompagnement externe, réalisées par un organisme de formation externe ou par l'entreprise lorsqu'elle dispose d'un service de formation interne répondant aux critères fixés par l'OPCA de branche.
 
