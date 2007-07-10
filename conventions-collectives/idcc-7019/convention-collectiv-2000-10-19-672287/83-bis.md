@@ -1,0 +1,13 @@
+# Article 83 bis
+
+Les salariés conchylicoles peuvent accomplir des heures choisies au-delà du contingent d' heures supplémentaires applicable dans l' entreprise.
+
+Cette faculté d' accomplir des heures choisies est subordonnée à deux conditions :
+
+- l' employeur et le salarié doivent être d' accord pour l' accomplissement des heures choisies ; cet accord doit être formulé par écrit et doit notamment préciser le maximum d' heures choisies qu' il est envisagé de réaliser ;
+
+- l' accomplissement des heures choisies ne doit pas entraîner un dépassement des durées maximales hebdomadaires de travail, fixées à 48 heures par semaine, et 44 heures en moyenne sur une période de 12 semaines consécutives.
+
+En ce qui concerne la rémunération des heures choisies, la majoration de salaire à laquelle elles ouvrent droit est fixée à 25 %.
+
+Les heures choisies n' ouvrent pas droit au repos compensateur obligatoire. Par ailleurs, l' employeur n' a pas à solliciter de l' inspecteur du travail l' autorisation pour l' accomplissement d' heures au-delà du contingent d' heures supplémentaires.
