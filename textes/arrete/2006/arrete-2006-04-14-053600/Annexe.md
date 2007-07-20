@@ -1,20 +1,274 @@
-# Article ANNEXE
+# Article Annexe
 
-Le dossier de demande d'agrément doit être envoyé à l'adresse suivante :
+Le dossier de demande d'agrément doit être envoyé à l'adresse suivante : Autorité de sûreté nucléaire, direction des rayonnements ionisants et de la santé, 6, place du Colonel-Bourgoin, 75572 Paris Cedex 12. Site internet à consulter : www.asn.fr. Chemin d'accès :
 
-Direction générale de la sûreté nucléaire et de la radioprotection, sous-direction rayonnements ionisants et santé, 6, place du Colonel-Bourgoin, 75572 Paris Cedex 12.
-
-Ou par courrier électronique à l'adresse suivante :
-
-SD7-agrement-radonasn.minefi.gouv.fr.
-
-Site internet à consulter : www.asn.gouv.fr, chemin d'accès :
-
-domaines/radioprotection/radon.
+espace professionnels/radioprotection/radon.
 
 Il doit comporter les informations et pièces suivantes :
 
-(tableau non reproduit).
+PIÈCES
+
+|
+
+POUR PREMIÈRE DEMANDE
+
+|
+
+POUR UN RENOUVELLEMENT
+
+|
+
+1. Informations générales relatives à l'organisme
+
+|
+
+a) Dénomination de l'organisme.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+b) Adresses.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+c) Description des activités.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+d) Organigramme.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+e) Nom de la personne engageant la responsabilité de l'organisme.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+f) Attestation d'assurance.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+2. Nature de la demande
+
+|
+
+Nature de la demande.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+3. Organisation interne
+
+|
+
+a) Système d'assurance qualité.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+b) Manuel de qualité.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+c) Agréments ou habilitations.
+
+|
+
+A fournir.
+
+|
+
+Non nécessaire (sauf changement).
+
+|
+
+4. Informations relatives aux moyens matériels et à la compétence des agents
+
+|
+
+a) Matériels de mesure.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+b) Maintien des performances.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+c) Nombre d'agents par site.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+d) Liste nominative des agents et compétences.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+e) Organismes et attestation de formation.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+5. Rapport d'intervention
+
+|
+
+a) Rapport d'intervention.
+
+|
+
+Fournir un rapport d'une intervention déjà réalisée ou le modèle détaillé de rapport d'intervention prévu.
+
+|
+
+Fournir au moins un rapport d'intervention en appui du rapport d'activité pour chaque niveau d'agrément.
+
+|
+
+b) Délais de remise des rapports.
+
+|
+
+A fournir.
+
+|
+
+A fournir.
+
+|
+
+6. Rapport d'activité
+
+|
+
+a) Rapport d'activité.
+
+|
+
+Sans objet.
+
+|
+
+A fournir.
+
+|
+
+b) Fiches synthétiques de bilan d'activité.
+
+|
+
+Sans objet.
+
+|
+
+A fournir.
+
+|
 
 Commentaires :
 
@@ -48,9 +302,7 @@ b) En cas d'adoption d'un système d'assurance de la qualité, décrire l'organi
 
 c) Agréments ou habilitations obtenus dans tous les domaines d'intervention de l'organisme.
 
-4. Informations relatives aux moyens matériels
-
-et à la compétence des agents
+4. Informations relatives aux moyens matériels et à la compétence des agents
 
 a) Matériels de mesures employés pour chacun des niveaux demandés.
 
@@ -62,7 +314,7 @@ c) Effectif du personnel : nombre d'agents (par site) qui participent à la mise
 
 d) Liste nominative de ces agents, en précisant les compétences de chacun d'entre eux. Distinguer, si nécessaire, entre le niveau 1 et 2.
 
-La compétence des agents est acquise par des formations professionnelles répondant aux exigences fixées par le directeur général de la sûreté nucléaire et de la radioprotection ou pour tout autre moyen équivalent (à justifier).
+La compétence des agents est acquise par des formations professionnelles répondant aux exigences fixées par l'Autorité de sûreté nucléaire ou pour tout autre moyen équivalent (à justifier).
 
 Dans le cas d'agents appartenant à une collectivité locale, préciser si ces agents sont assermentés.
 
@@ -72,7 +324,7 @@ e) Préciser les organismes qui ont dispensé les formations à la mesure du rad
 
 a) Si l'organisme a déjà réalisé des interventions concernant la mesure du radon dans des bâtiments, le dossier doit comporter au moins en rapport d'intervention, pour chaque niveau N1 et N2.
 
-Il doit être accompagné d'une fiche récapitulant les principales informations recueilles lors de la visite, selon le modèle établi par le directeur général de la sûreté nucléaire et de la radioprotection.
+Il doit être accompagné d'une fiche récapitulant les principales informations recueilles lors de la visite, selon le modèle établi par l'Autorité de sûreté nucléaire.
 
 Joindre, si possible, un rapport d'intervention concernant un établissement où un résultat supérieur à 400 Bq/m3 a été attribué à au moins une zone homogène.
 
