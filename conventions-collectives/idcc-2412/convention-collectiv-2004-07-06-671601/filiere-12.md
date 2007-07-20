@@ -1,104 +1,114 @@
-# Article KALIARTI000005830991
+# Article KALIARTI000018661220
 
-Filière 12 : exploitation, maintenance (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur d'exploitation
+CATÉGORIE
 
-DEFINITION DE FONCTION
+|
 
-Encadre et supervise les équipes et les installations techniques d'un ou plusieurs sites.
+DÉFINITION DE FONCTION
 
-CATEGORIE : II
+|
 
-EMPLOI :
+|
 
-DEFINITION DE FONCTION
+|
 
-CATEGORIE : III A
+I |
 
-EMPLOI : Responsable d'exploitation
+|
 
-DEFINITION DE FONCTION
+Responsable d'exploitation |
 
-Encadre une ou plusieurs équipes techniques et les installations sur un site.
+Responsable d'exploitation |
 
-CATEGORIE : III A
+|
 
-EMPLOI : Superviseur transfert numérique
+Assure la gestion et la maintenance du parc et des outils de transfert de données affectés à la production. |
 
-DEFINITION DE FONCTION
+Administrateur système et réseaux |
 
-Encadre et supervise les opérations de transfert des fichiers numériques sur les différents supports (vidéo, 35 mm, etc.).
+Administratrice système et réseaux |
 
-CATEGORIE : III A
+II |
 
-EMPLOI : Ingénieur système
+Supervise la gestion et la maintenance du parc et des réseaux informatiques et des logiciels d'exploitation et de production affectés à la production. |
 
-DEFINITION DE FONCTION
+Superviseur transfert de données |
 
-Assure la gestion des logiciels d'exploitation.
+Superviseuse transfert de données |
 
-CATEGORIE : III A
+III A |
 
-EMPLOI : Ingénieur réseau
+Encadre et supervise les opérations de transfert de données. |
 
-DEFINITION DE FONCTION
+Superviseur de calcul |
 
-Assure la gestion du ou des réseaux informatiques.
+Superviseuse de calcul |
 
-CATEGORIE : III B
+|
 
-EMPLOI :
+Encadre et supervise une équipe de gestionnaires de calculs. |
 
-DEFINITION DE FONCTION
+Technicien système et réseau |
 
-CATEGORIE : IV
+Technicienne système et réseau |
 
-EMPLOI : Opérateur système
+|
 
-DEFINITION DE FONCTION
+Assure la maintenance du parc et des réseaux informatiques et des logiciels d'exploitation et de production. |
 
-Assure la maintenance des logiciels d'exploitation.
+Infographiste scripteur |
 
-CATEGORIE : IV
+Infographiste scripteuse |
 
-EMPLOI : Opérateur réseau
+III B |
 
-DEFINITION DE FONCTION
+Conçoit des modules complémentaires aux logiciels de création et de production d'images utilisés dans le cadre de la production, par le biais d'une interface de programmation ou d'un langage de commandes. |
 
-Assure la maintenance du ou des réseaux informatiques.
+Technicien de maintenance |
 
-CATEGORIE : IV
+Technicienne de maintenance |
 
-EMPLOI : Opérateur transfert numérique
+|
 
-DEFINITION DE FONCTION
+Assure la maintenance des équipements d'une production. |
 
-Assure le transfert des données numériques sur un support chimique. CATEGORIE : V
+Opérateur transfert de données |
 
-EMPLOI : Assistant d'exploitation (+)
+Opératrice transfert de données |
 
-DEFINITION DE FONCTION
+IV |
 
-Assiste les ingénieurs dans la maintenance technique des installations.
+Assure la gestion et le transfert de données. |
 
-CATEGORIE : V
+Gestionnaire de calcul |
 
-EMPLOI : Assistant opérateur transfert numérique (+)
+Gestionnaire de calcul |
 
-DEFINITION DE FONCTION
+|
 
-Assiste l'opérateur dans le suivi et le bon déroulement des opérations de transfert. VI
+Gère et optimise le parc calcul en fonction d'un planning de production. |
 
-CATEGORIE : VI
+Assistant opérateur transfert de données* |
 
-EMPLOI :
+Assistante opératrice transfert de données* |
 
-DEFINITION DE FONCTION
+V |
 
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+Assiste le suivi et le bon déroulement des opérations de transfert de données. |
+
+|
+
+|
+
+VI |
+
+|
+
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
 
 NOTA :
 

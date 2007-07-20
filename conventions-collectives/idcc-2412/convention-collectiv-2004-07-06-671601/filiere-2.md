@@ -1,92 +1,116 @@
-# Article KALIARTI000005830981
+# Article KALIARTI000018661250
 
-Filière 2 : réalisation (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Réalisateur
+CATÉGORIE
 
-DEFINITION DE FONCTION
+|
 
-Maître d'oeuvre de l'adaptation, du style et du découpage, il dirige les opérations d'étude, de préparation et de réalisation d'une oeuvre.
+DÉFINITION DE FONCTION
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur artistique
+Réalisateur |
 
-DEFINITION DE FONCTION
+Réalisatrice |
 
-Veille tout au long de la production au respect du style et des critères artistiques et graphiques d'une oeuvre sous la direction du réalisateur.
+|
 
-CATEGORIE : I
+Maître d'oeuvre de l'adaptation, du style et du découpage, il dirige et coordonne en collaboration avec les responsables des équipes artistiques et techniques les opérations d'étude, de préparation et de réalisation d'une oeuvre dans le respect des contraintes de production dont il a été informé. |
 
-EMPLOI : Directeur d'écriture
+Directeur artistique |
 
-DEFINITION DE FONCTION
+Directrice artistique |
 
-Encadre et supervise le travail des scénaristes conformément à la bible et selon les impératifs de la production sous la direction du réalisateur. Ce travail tel que défini ci-avant ne constitue pas une activité d'auteur.
+I |
 
-CATEGORIE : I
+Veille au respect du style et des critères artistiques et graphiques d'une oeuvre sous la direction du réalisateur. |
 
-EMPLOI : Chef story-boarder
+Directeur d'écriture (1) |
 
-DEFINITION DE FONCTION
+Directrice d'écriture (1) |
 
-Dirige une équipe de story-boarders et veille au respect de l'unité de l'oeuvre sous la direction du réalisateur.
+|
 
-CATEGORIE : II
+Encadre et supervise le travail des scénaristes conformément à la bible, en collaboration avec le réalisateur et / ou la production. |
 
-EMPLOI : Story-boarder
+Chef story-boarder |
 
-DEFINITION DE FONCTION
+Chef story-boardeuse |
 
-Assure l'adaptation graphique, le développement du découpage et le timing du story-board sous la direction du réalisateur.
+II |
 
-CATEGORIE : III A
+Dirige une équipe de story-boarder et veille au respect de l'unité de l'oeuvre sous la direction du réalisateur. |
 
-EMPLOI : 1er assistant réalisateur
+Story-boarder |
 
-DEFINITION DE FONCTION
+Story-boardeuse |
 
-Assiste et coordonne le suivi de la réalisation à tous les stades d'exécution.
+III A |
 
-CATEGORIE : III B
+Assure l'adaptation graphique, le développement du découpage et le timing du story-board sous la direction du réalisateur. |
 
-EMPLOI : Script
+1er assistant réalisateur |
 
-DEFINITION DE FONCTION
+1re assistante réalisatrice |
 
-Assure la continuité du story-board, pendant le tournage, sous la direction du réalisateur dans le cadre des productions en volume.
+|
 
-CATEGORIE : IV
+Assiste le réalisateur et coordonne le suivi de la réalisation à tous les stades d'exécution. |
 
-EMPLOI :
+Scripte |
 
-DEFINITION DE FONCTION
+Scripte |
 
-CATEGORIE : V
+III B |
 
-EMPLOI : 2e assistant réalisateur (+)
+Assure la continuité du story-board, pendant le tournage, sous la direction du réalisateur dans le cadre des productions en volume. |
 
-DEFINITION DE FONCTION
+2e assistant réalisateur* |
 
-Exécute les travaux de préparation, de coordination de la réalisation.
+2e assistante réalisatrice* |
 
-CATEGORIE : V
+IV |
 
-EMPLOI : Assistant story-boarder
+Exécute les travaux de préparation, de coordination de la réalisation. |
 
-DEFINITION DE FONCTION
+Coordinateur d'écriture |
 
-(+) Exécute la mise au net du story-board.
+Coordinatrice d'écriture |
 
-CATEGORIE : VI
+|
 
-EMPLOI :
+Assiste le ou les directeurs d'écriture dans le suivi et la coordination des travaux d'écriture. |
 
-DEFINITION DE FONCTION
+Assistant directeur artistique* |
 
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+Assistante directrice artistique* |
+
+|
+
+Assiste le directeur artistique dans son travail de vérification du respect du style et des critères artistiques et graphiques. |
+
+Assistant story-boarder* |
+
+Assistante story-boardeuse* |
+
+V |
+
+Exécute la mise au net du story-board. |
+
+|
+
+|
+
+VI |
+
+|
+
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+
+(1) Ce travail, objet du contrat, est indépendant d'une activité d'auteur. |
 
 NOTA :
 

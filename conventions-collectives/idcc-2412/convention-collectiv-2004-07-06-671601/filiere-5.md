@@ -1,82 +1,110 @@
-# Article KALIARTI000005830984
+# Article KALIARTI000018661234
 
-Filière 5 : animation (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur animation
+CATÉGORIE
 
-DEFINITION DE FONCTION :
+|
 
-Encadre et supervise le travail artistique et technique des équipes d'animation sur une production ou un ensemble de productions.
+DÉFINITION DE FONCTION
 
-CATEGORIE : II
+|
 
-EMPLOI : Chef animateur
+Directeur animation |
 
-DEFINITION DE FONCTION :
+Directrice animation |
 
-Dirige le "jeu" des personnages et/ou des effets spéciaux ou supervise l'animation d'une séquence. Assure la cohérence du rythme, de la continuité ainsi que le travail d'animation et de synchronisation d'une équipe d'animateurs.
+I |
 
-CATEGORIE : II
+Encadre et supervise le travail artistique et technique des équipes d'animation sur une production ou un ensemble de productions. |
 
-EMPLOI : Responsable des assistants animateurs
+Chef animateur |
 
-DEFINITION DE FONCTION :
+Chef animatrice |
 
-Encadre et assure la cohérence artistique du travail de l'ensemble des équipes d'assistants animateurs et d'intervallistes sur une production.
+II |
 
-CATEGORIE : III A
+Dirige le « jeu » des personnages et / ou des effets spéciaux ou supervise l'animation d'une séquence. Assure la cohérence du rythme, de la continuité ainsi que le travail d'animation et de synchronisation d'une équipe d'animateurs. |
 
-EMPLOI : Animateur
+Chef infographiste 2D |
 
-DEFINITION DE FONCTION :
+Chef infographiste 2D |
 
-Porte à l'écran le "jeu" des personnages et/ou les animations d'effets spéciaux requis par la réalisation. Détermine une suite de poses clés définissant le mouvement et son rythme et établit une charte précisant le nombre de dessins intermédiaires et leurs positions dans l'espace. II est susceptible de rédiger la feuille d'exposition de ses animations.
+Encadre l'équipe chargée de la fabrication, de la mise en place, du positionnement des éléments composant les plans. |
 
-CATEGORIE : III B
+Chef assistant |
 
-EMPLOI : Chef assistant
+Chef assistante |
 
-DEFINITION DE FONCTION :
+III A |
 
-Prépare et participe à la production du travail artistique de son équipe composée d'assistants animateurs et d'intervallistes.
+Encadre et assure la cohérence artistique du travail d'une équipe d'assistants animateurs et d'intervallistes sur une production. Il contrôle également le travail effectué par des studios tiers. |
 
-CATEGORIE : III B
+Animateur |
 
-EMPLOI : Animateur adjoint
+Animatrice |
 
-DEFINITION DE FONCTION :
+III B |
 
-Complète les poses clés et la feuille d'exposition d'un animateur ou d'un chef animateur, au sein d'une scène ou d'un plan. Pour assurer la lisibilité d'une animation et son meilleur rendu avant son passage à l'étape de traitement suivante.
+Porte à l'écran le « jeu » des personnages, des éléments et / ou des effets visuels numériques à animer qui constituent le plan dans le respect du story-board et de la mise en place technique. |
 
-CATEGORIE : IV
+Figurant mocap |
 
-EMPLOI : Assistant animateur (+)
+Figurante mocap |
 
-Animateur retouche temps réel
+Fournit une référence de mouvement destinée à être adaptée par les animateurs. |
 
-DEFINITION DE FONCTION :
+Infographiste 2D |
 
-Reprend les esquisses des animateurs et les conforme aux normes du model-sheet.
+Infographiste 2D |
 
-Corrige et conforme les courbes de trajectoire après la capture de mouvement.
+Assure la fabrication, la mise en place et le positionnement des éléments composant le plan. |
 
-CATEGORIE : V
+Assistant animateur* |
 
-EMPLOI : Intervalliste (+)
+Assistante animatrice* |
 
-DEFINITION DE FONCTION :
+IV |
 
-Exécute les dessins intermédiaires selon la cadence définie par l'animateur et les dessins de l'assistant animateur.
+Assiste la fabrication de tout ou partie des personnages, des éléments et / ou des effets visuels numériques à animer. |
 
-CATEGORIE : VI
+Opérateur capture de mouvement |
 
-EMPLOI :
+Opératrice capture de mouvement |
 
-DEFINITION DE FONCTION :
+Assure l'enregistrement des données numériques liées à la capture de mouvement. |
 
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+Opérateur retouche temps réel |
+
+Opératrice retouche temps réel |
+
+V |
+
+Corrige et conforme les courbes de trajectoire après la capture de mouvement. |
+
+Intervalliste* |
+
+Intervalliste* |
+
+Exécute les dessins intermédiaires selon la cadence définie par l'animateur et les dessins de l'assistant animateur. |
+
+Assistant infographiste 2D* |
+
+Assistante infographiste 2D* |
+
+Assiste la fabrication de tout ou partie du plan. |
+
+|
+
+|
+
+VI |
+
+|
+
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
 
 NOTA :
 

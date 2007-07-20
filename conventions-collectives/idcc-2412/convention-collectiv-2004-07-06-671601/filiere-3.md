@@ -1,86 +1,106 @@
-# Article KALIARTI000005830982
+# Article KALIARTI000018661242
 
-Filière 3 : conception (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur de modélisation
+CATÉGORIE
 
-DEFINITION DE FONCTION :
+|
 
-Encadre et supervise le travail artistique et technique des équipes de modélisation sur une production ou un ensemble de productions.
+DÉFINITION DE FONCTION
 
-CATEGORIE : II
+|
 
-EMPLOI : Chef dessinateur d'animation
+Directeur de modélisation |
 
-DEFINITION DE FONCTION :
+Directrice de modélisation |
 
-Conçoit la représentation graphique des personnages (attitude et expressions), des accessoires, des lieux et des effets spéciaux dans le respect du style défini par la bible.
+I |
 
-CATEGORIE : II
+Encadre et supervise le travail artistique et technique des équipes de modélisation sur une production ou un ensemble de productions. |
 
-EMPLOI : Superviseur de modélisation
+Chef dessinateur d'animation |
 
-DEFINITION DE FONCTION :
+Chef dessinatrice d'animation |
 
-Encadre une équipe d'infographistes, prépare le travail de modélisation, veille à la bonne exécution des objets et modèles et à l'optimisation des techniques mises en oeuvre.
+|
 
-CATEGORIE : III A
+Conçoit la représentation graphique des personnages (attitude et expressions), des accessoires, des lieux et des effets spéciaux dans le respect du style défini par la bible. |
 
-EMPLOI : Chef modèles couleurs
+Superviseur de modélisation |
 
-DEFINITION DE FONCTION :
+Superviseuse de modélisation |
 
-Recherche et propose les modèles couleurs des personnages et des accessoires. Supervise leur exécution et déclinaison.
+II |
 
-CATEGORIE : III B
+Encadre une équipe d'infographistes, prépare le travail de modélisation, veille à la bonne exécution des objets et modèles et à l'optimisation des techniques mises en oeuvre. |
 
-EMPLOI : Dessinateur d'animation
+Chef modèles couleurs |
 
-DEFINITION DE FONCTION :
+Chef modèles couleurs |
 
-Exécute et adapte techniquement les modèles des personnages, accessoires, lieux et effets spéciaux.
+|
 
-CATEGORIE : III B
+Recherche et propose les modèles couleurs, les textures des personnages et des accessoires. Supervise leur exécution et déclinaison. |
 
-EMPLOI : Infographiste de modélisation
+|
 
-DEFINITION DE FONCTION :
+|
 
-Exécute les bases de données des personnages, accessoires, lieux et effets spéciaux en 3 dimensions à partir de plans ou de dessins. CATEGORIE : IV
+III A |
 
-EMPLOI : Coloriste modèle
+|
 
-DEFINITION DE FONCTION :
+Dessinateur d'animation |
 
-Exécute les modèles couleurs des personnages et accessoires.
+Dessinatrice d'animation |
 
-CATEGORIE : V
+|
 
-EMPLOI : Assistant dessinateur d'animation (+)
+Exécute et adapte techniquement les modèles des personnages, accessoires, lieux et effets spéciaux. |
 
-DEFINITION DE FONCTION :
+Infographiste de modélisation |
 
-Assure la mise au net et le formatage des planches de modèles personnages, accessoires, lieux et effets spéciaux.
+Infographiste de modélisation |
 
-CATEGORIE : V
+III B |
 
-EMPLOI : Assistant infographiste de modélisation (+)
+Exécute la fabrication de tout ou partie des travaux de modélisation, de texture, d'articulation et de dynamique. |
 
-DEFINITION DE FONCTION :
+Coloriste modèle |
 
-Exécute les sous-ensembles des bases de données.
+Coloriste modèle |
 
-CATEGORIE : VI
+IV |
 
-EMPLOI : Assistant modèles couleurs (+)
+Exécute les modèles couleurs et textures des personnages et accessoires. |
 
-DEFINITION DE FONCTION :
+Assistant dessinateur d'animation* |
 
-Assiste le coloriste modèle dans l'exécution des modèles couleurs des personnages et accessoires.
+Assistante dessinatrice d'animation* |
 
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+|
+
+Assure la mise au net et le formatage des planches de modèles personnages, accessoires, lieux et effets spéciaux. |
+
+Assistant infographiste de modélisation |
+
+Assistante infographiste de modélisation |
+
+V |
+
+Assiste la fabrication de tout ou partie des travaux de modélisation, de texture, d'articulation et de dynamique. |
+
+Opérateur digitalisation |
+
+Opératrice digitalisation |
+
+VI |
+
+Exécute la capture des points de digitalisation d'un modèle. |
+
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
 
 NOTA :
 

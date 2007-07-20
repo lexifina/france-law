@@ -1,88 +1,84 @@
-# Article KALIARTI000005830985
+# Article KALIARTI000018661232
 
-Filière 6 : décors, rendu et éclairage (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur décor
+CATÉGORIE
 
-DEFINITION DE FONCTION :
+|
 
-Encadre et supervise le travail artistique et technique des équipes de décorateurs sur une production ou un ensemble de productions.
+DÉFINITION DE FONCTION
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur rendu et éclairage
+Directrice décor |
 
-DEFINITION DE FONCTION :
+I |
 
-Encadre et supervise le travail artistique et technique des équipes chargées du rendu et de l'éclairage sur une production ou un ensemble de productions.
+Encadre et supervise le travail artistique et technique des équipes de décorateurs sur une production ou un ensemble de productions. |
 
-CATEGORIE : II
+Directrice rendu et éclairage |
 
-EMPLOI : Chef décorateur
+Encadre et supervise le travail artistique et technique des équipes chargées du rendu et de l'éclairage sur une production ou un ensemble de productions. |
 
-DEFINITION DE FONCTION :
+Chef décoratrice |
 
-Encadre une équipe de décorateurs. Traduit par l'exécution de maquettes " décor " et de décors clés les directions de la réalisation. Participe à l'élaboration des modèles couleurs. CATEGORIE : II
+II |
 
-EMPLOI : Superviseur rendu et éclairage
+Encadre une équipe de décorateurs. Traduit par l'exécution de maquettes « décor » et de décors clés les directions de la réalisation. Participe à l'élaboration des modèles couleurs. |
 
-DEFINITION DE FONCTION :
+Superviseuse rendu et éclairage |
 
-Encadre une équipe d'infographistes, veille à la continuité du rendu et de l'éclairage sur la production.
+Encadre une équipe d'infographistes, veille à la continuité du rendu, de l'éclairage et à la finalisation de la composition des plans sur la production. |
 
-CATEGORIE : III A
+|
 
-EMPLOI :
+III A |
 
-DEFINITION DE FONCTION :
+|
 
-CATEGORIE : III B
+Décoratrice |
 
-EMPLOI : Décorateur
+III B |
 
-DEFINITION DE FONCTION :
+Assure l'exécution des éléments constituant un décor : couleurs, ambiances, lumières. |
 
-Assure l'exécution des éléments constituant un décor : couleurs, ambiances, lumières.
+Infographiste rendu et éclairage |
 
-CATEGORIE : III B
+Définit l'ensemble des paramètres liés au rendu (textures, couleurs) des personnages, des accessoires et des décors et assure la mise au point et la continuité de l'éclairage. Il peut assurer la finalisation de la composition du plan. |
 
-EMPLOI : Infographiste rendu et éclairage
+Matt painter |
 
-DEFINITION DE FONCTION :
+Produit et retouche, manuellement ou sur palette, les décors intérieurs ou extérieurs pour les intégrer à des sources visuelles originales. |
 
-Définit l'ensemble des paramètres liés au rendu (textures, couleurs) des personnages, des accessoires et des décors et assure la mise au point et la continuité de l'éclairage.
+|
 
-CATEGORIE : IV
+IV |
 
-EMPLOI :
+|
 
-DEFINITION DE FONCTION :
+Assistante décoratrice* |
 
-CATEGORIE : V
+V |
 
-EMPLOI : Assistant décorateur (+)
+Assiste la fabrication de tout ou partie des éléments à mettre en couleur. |
 
-DEFINITION DE FONCTION :
+Assistante infographiste rendu et éclairage* |
 
-Assure le report du lay-out décor et exécute des décors raccord.
+Assiste la fabrication de tout ou partie des travaux de rendu et de mise en place de l'éclairage et de finalisation de la composition du plan. |
 
-CATEGORIE : V
+|
 
-EMPLOI : Assistant infographiste rendu et éclairage (+)
+|
 
-DEFINITION DE FONCTION :
+|
 
-Applique les paramètres de rendu et d'éclairage pré-définis et met au point des scènes raccord.
+VI |
 
-CATEGORIE : VI
+|
 
-EMPLOI :
-
-DEFINITION DE FONCTION :
-
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
 
 NOTA :
 

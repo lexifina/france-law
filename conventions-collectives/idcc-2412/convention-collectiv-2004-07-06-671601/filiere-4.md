@@ -1,96 +1,122 @@
-# Article KALIARTI000005830983
+# Article KALIARTI000018661236
 
-Filière 4 : lay-out (2D/3D)
+FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
-CATEGORIE : I
+|
 
-EMPLOI : Directeur lay-out
+CATÉGORIE
 
-DEFINITION DE FONCTION :
+|
 
-Encadre et supervise le travail artistique et technique des équipes de lay-out sur une production ou un ensemble de productions.
+DÉFINITION DE FONCTION
 
-CATEGORIE : II
+|
 
-EMPLOI : Chef feuille d'exposition
+Directeur lay-out |
 
-DEFINITION DE FONCTION :
+Directrice lay-out |
 
-Encadre et dirige l'équipe chargée de la rédaction des feuilles d'exposition. Veille à l'unité des feuilles d'exposition.
+I |
 
-CATEGORIE : II
+Encadre et supervise le travail artistique et technique des équipes de lay-out sur une production ou un ensemble de productions. |
 
-EMPLOI : Chef lay-out
+Chef feuille d'exposition |
 
-DEFINITION DE FONCTION :
+Chef feuille d'exposition |
 
-Encadre une équipe sur une production. Prépare les travaux de lay-out et s'assure de leur cohérence avec les directives du story-board pour engager les étapes de fabrication des décors et de l'animation.
+|
 
-CATEGORIE : III A
+Encadre et dirige l'équipe chargée de la rédaction des feuilles d'exposition. Veille à l'unité des feuilles d'exposition. |
 
-EMPLOI : Vérificateur lay-out
+Chef cadreur d'animation |
 
-DEFINITION DE FONCTION :
+Chef cadreuse d'animation |
 
-Contrôle les lay-out produits par des studios tiers.
+II |
 
-CATEGORIE : III B
+Encadre une équipe en charge du travail de cadrage et de timing selon les intentions du story-board. |
 
-EMPLOI : Animateur feuille d'exposition
+Chef lay-out |
 
-DEFINITION DE FONCTION :
+Chef lay-out |
 
-Définit le rythme de l'animation sur les feuilles d'exposition.
+|
 
-CATEGORIE : III B
+Encadre une équipe sur une production. Prépare les travaux de mise en place technique et s'assure de leur cohérence avec les directives du story-board pour engager les étapes de fabrication des décors et de l'animation. Contrôle les lay-out produits par des studios tiers. |
 
-EMPLOI : Dessinateur lay-out
+|
 
-DEFINITION DE FONCTION :
+|
 
-Assure l'adaptation du story-board par la mise en place, plan par plan, des éléments de décors, du posing des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques.
+III A |
 
-CATEGORIE : III B
+|
 
-EMPLOI : Infographiste lay-out
+Cadreur d'animation |
 
-DEFINITION DE FONCTION :
+Cadreuse d'animation |
 
-Assure l'adaptation du story-board par la mise en place, plan par plan et aux normes techniques 3D usitées, des décors, des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques.
+|
 
-CATEGORIE : IV
+Assure la simulation, la mise en place des paramètres de mouvements de caméra avec leurs vitesses dans le respect du timing du story-board. |
 
-EMPLOI : Détecteur d'animation
+Animateur feuille d'exposition |
 
-DEFINITION DE FONCTION :
+Animatrice feuille d'exposition |
 
-Assure la détection et le report du son et des codes bouches sur les feuilles d'exposition.
+|
 
-CATEGORIE : IV
+Décompose le rythme de l'animation sur les feuilles d'exposition. Assure et / ou vérifie le positionnement des codes-bouche. |
 
-EMPLOI : Traceur lay-out
+Dessinateur lay-out |
 
-DEFINITION DE FONCTION :
+Dessinatrice lay-out |
 
-Assure la duplication des éléments de lay-out et le report des informations directrices (lumières, ombres, effets, etc.) pour les intervenants des autres départements.
+III B |
 
-CATEGORIE : V
+Assure l'adaptation du story-board par la mise en place, plan par plan, des éléments de décor, du posing des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques. |
 
-EMPLOI : Assistant lay-out (+)
+Infographiste lay-out |
 
-DEFINITION DE FONCTION :
+Infographiste lay-out |
 
-Assure la mise au net des travaux et exécute des plans raccord.
+|
 
-CATEGORIE : V
+Assure l'adaptation du story-board par la mise en place, plan par plan et aux normes techniques 3D usitées, des décors, des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques. Peut assurer le report du son et des codes-bouche du plan. |
 
-EMPLOI : Assistant infographiste lay-out (+).
+Détecteur d'animation |
 
-DEFINITION DE FONCTION :
+Détectrice d'animation |
 
-Exécute des plans raccord aux normes techniques 3D appliquées à la production.
+IV |
 
-(+) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé.
+Assure la détection et le report du son et des codes-bouche sur les feuilles d'exposition. |
+
+Assistant dessinateur lay-out* |
+
+Assistante dessinatrice lay-out* |
+
+V |
+
+Assure la mise au net des travaux et exécute des plans raccord. |
+
+Assistant infographiste lay-out* |
+
+Assistante infographiste lay-out* |
+
+|
+
+Assiste la fabrication de tout ou partie des travaux de mise en place technique. |
+
+|
+
+|
+
+VI |
+
+|
+
+(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
 
 NOTA :
 
