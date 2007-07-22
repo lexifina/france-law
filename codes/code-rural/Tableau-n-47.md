@@ -1,6 +1,6 @@
 # Article Tableau n° 47
 
-Affections consécutives à l'inhalation de poussières d'amiante
+Affections consécutives à l’inhalation de poussières d’amiante
 
 DÉSIGNATION DES MALADIES
 
@@ -18,47 +18,29 @@ susceptibles de provoquer ces maladies
 
 |
 
-A. - Asbestose : fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires. Complications : insuffisance respiratoire aiguë, insuffisance ventriculaire droite.
+A. – Asbestose : fibrose pulmonaire confirmée par examen tomodensitométrique (1), qu’il y ait ou non des modifications des explorations fonctionnelles respiratoires.
 
 |
 
-20 ans
+40 ans (sous réserve d’une durée d’exposition de 2 ans)
 
 |
 
-Travaux exposant à l'inhalation de poussières d'amiante, notamment :
+Travaux exposant à l’inhalation de poussières d’amiante notamment :
 
-Travaux d'équipement, d'entretien ou de maintenance effectués sur des matériels ou dans des locaux et annexes revêtus ou contenant des matériaux à base d'amiante.
+Travaux d’équipement, d’entretien ou de maintenance effectués sur des matériels ou dans des locaux et annexes revêtus ou contenant des matériaux à base d’amiante. |
 
-Application, destruction et élimination de produits à base d'amiante :
+B. – Lésions pleurales bénignes avec ou sans
 
-- amiante projeté ;
+modifications des explorations fonctionnelles
 
-- calorifugeage au moyen de produits contenant de l'amiante ;
+respiratoires :
 
-- démolition d'appareils et de matériaux contenant de l'amiante, déflocage.
+– plaques calcifiées ou non, péricardiques ou
 
-Travaux de pose et de dépose de calorifugeage contenant de l'amiante.
+pleurales, unilatérales ou bilatérales, lorsqu’elles
 
-|
-
-B. - Lésions pleurales bénignes, avec ou sans modifications des explorations fonctionnelles respiratoires : pleurésie exsudative ; plaques pleurales plus ou moins calcifiées bilatérales, pariétales, diaphragmatiques ou médiastinales ; plaques péricardiques ; épaississements pleuraux bilatéraux, avec ou sans irrégularités diaphragmatiques.
-
-|
-
-20 ans
-
-|
-
-C. - Dégénérescence maligne broncho-pulmonaire compliquant les lésions parenchymateuses et pleurales bénignes ci-dessus mentionnées.
-
-|
-
-35 ans
-
-|
-
-D. - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde.
+sont confirmées par un examen tomodensitométrique ;
 
 |
 
@@ -66,10 +48,86 @@ D. - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde.
 
 |
 
-E. - Autres tumeurs pleurales primitives.
+Application, destruction et élimination de produits à base d’amiante :
+
+– amiante projeté ;
+
+– calorifugeage au moyen de produits contenant de l’amiante ;
+
+– démolition d’appareils et de matériaux contenant de l’amiante, déflocage.
+
+|
+
+– pleurésie exsudative ;
+
+|
+
+40 ans (sous réserve d’une
+
+durée d’exposition de 5 ans)
+
+|
+
+Travaux de pose et de dépose de calorifurageage contenant de
+
+l’amiante.
+
+|
+
+– épaississement de la plèvre viscérale, soit
+
+diffus, soit localisé, caractérisé par l’existence au contact de l’épaississement, soit de bandes
+
+parenchymateuses, soit d’une atélectasie par
+
+enroulement. Ces anomalies devront être confirmées par un examen tomodensitométrique.
+
+|
+
+40 ans (sous réserve d’une
+
+durée d’exposition de 5 ans)
+
+|
+
+C. – Cancer broncho-pulmonaire primitif associé
+
+aux lésions parenchymateuses et pleurales bénignes ci-dessus mentionnées.
+
+|
+
+40 ans (sous réserve d’une
+
+durée d’exposition de 5 ans)
+
+|
+
+|
+
+D. – Mésothéliome malin primitif de la plèvre, du
+
+péritoine, du péricarde.
 
 |
 
 40 ans
+
+|
+
+|
+
+E. – Autres tumeurs pleurales primitives.
+
+|
+
+40 ans (sous réserve d’une
+
+durée d’exposition de 5 ans)
+
+|
+
+|
+
+(1) Scanner.
 
 |
