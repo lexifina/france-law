@@ -880,9 +880,9 @@ Participation ASM des caisses = revenu x TC x 9,7 %
 
 6.2. Avantages complémentaires de vieillesse
 
-Au titre du régime des avantages complémentaires de vieillesse, prévu à l'article L. 645-2 du code de la sécurité sociale, la participation des caisses à la cotisation due par les chirurgiens-dentistes conventionnés est fixée au double de la cotisation des chirurgiens-dentistes bénéficiaires.
+Au titre du régime des avantages complémentaires de vieillesse, la participation des caisses au financement de la cotisation annuelle obligatoire, prévue à l'article L. 645-2 du code de la sécurité sociale et due par les chirurgiens-dentistes conventionnés, est fixée aux deux tiers du montant de ladite cotisation, tel que fixé par le décret n° 2007-458 du 25 mars 2007 publié au Journal officiel du 28 mars 2007.
 
-En cas de modification du montant de la cotisation due par les chirurgiens-dentistes, un avenant à la présente convention fixera la participation des caisses.
+Au titre du régime des avantages complémentaires de vieillesse, la participation des caisses au financement de la cotisation d'ajustement, prévue à l'article L. 645-3 du code de la sécurité sociale et due par les chirurgiens-dentistes conventionnés est fixée à 50 % du montant de ladite cotisation, tel que fixé par le décret n° 2007-458 du 25 mars 2007 publié au Journal officiel du 28 mars 2007.
 
 6.3. Particularités liées aux cotisations maladies
 
