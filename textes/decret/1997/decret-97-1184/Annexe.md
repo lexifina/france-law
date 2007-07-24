@@ -52,7 +52,7 @@ Article 3
 
 |
 
-Décret n° 97-817 du 5 septembre 1997 érigeant l'Institut des hautes études de défense nationale en établissement public
+Code de la défense
 
 1
 
@@ -62,7 +62,7 @@ Décisions portant admission aux sessions nationales et régionales de l'institu
 
 |
 
-Article 4
+Article R. 1132-15
 
 |
 
@@ -74,7 +74,7 @@ Décisions portant attribution du titre d'ancien auditeur.
 
 |
 
-Article 7
+Article R. 1132-18
 
 |
 
