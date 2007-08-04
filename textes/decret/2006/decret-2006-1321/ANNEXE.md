@@ -4,9 +4,7 @@ SERVICES JUDICIAIRES
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-A compter du 1er janvier 2006
-
-Greffier en chef, coordonnateur du service administratif régional de la cour d'appel.
+Greffier en chef, directeur délégué à l'administration régionale judiciaire du service administratif régional de la cour d'appel.
 
 Greffier en chef, responsable de la gestion des ressources humaines au service administratif régional de la cour d'appel de Paris (emploi fonctionnel).
 
@@ -20,15 +18,19 @@ Greffier en chef, responsable de gestion dans un service administratif régional
 
 - responsable de la gestion informatique.
 
-Greffier en chef, chef de greffe.
+Greffier en chef placé.
 
-Greffier en chef, secrétaire en chef de parquet.
+Greffier en chef, directeur de greffe.
+
+Greffier en chef, directeur de secrétariat de parquet.
 
 Greffier en chef, chef de service chargé de fonctions particulières à la Cour de cassation.
 
+Greffier en chef, responsable de la gestion informatique à la Cour de cassation.
+
 Greffier en chef à la mission de l'inspection des greffes.
 
-Greffier en chef affecté à l'Ecole nationale des greffes, en qualité de :
+Greffier en chef affecté à l'Ecole nationale des greffes en qualité de :
 
 - secrétaire général ;
 
