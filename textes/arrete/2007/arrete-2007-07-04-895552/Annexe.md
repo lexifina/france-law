@@ -1,0 +1,9 @@
+# Article Annexe
+
+A N N E X E
+
+BOURSES D'ENSEIGNEMENT SUPÉRIEUR
+
+BARÈME DES RESSOURCES EN EUROS
+
+Année universitaire 2007-2008
