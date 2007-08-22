@@ -368,6 +368,4 @@ ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
 Agence nationale des titres sécurisés : emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés.
 
-NOTA :
-
-NOTA : Par décision n°s 77702-77985 du 5 juillet 1989, le Conseil d'Etat, statuant au contentieux, a annulé le décret n° 86-249 du 20 février 1986 complétant le décret n° 84-38 du 18 janvier 1984 fixant la liste des établissements publics de l'Etat à caractère administratif prévue au 2° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 en tant qu'il mentionne, dans son annexe, les emplois de catégorie A et B du Centre national de la cinématographie.
+Agence nationale de la recherche : emplois de catégorie A et B nécessaires à l'expertise scientifique et juridique ainsi qu'à l'assistance technique dans tous les domaines de la science fondamentale et appliquée.
