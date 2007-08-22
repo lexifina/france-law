@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 Article 1er
 
@@ -174,8 +174,10 @@ Règlement
 
 La location donne lieu à facturation établie par le loueur. Le prix de la location est payable à réception de facture. Il est payé par le locataire lui-même.
 
-Lorsque le loueur consent au locataire des délais de paiement, la facture établie par le loueur mentionne la date à laquelle le paiement doit intervenir
+Lorsque le loueur consent au locataire des délais de paiement, la facture établie par le loueur mentionne la date à laquelle le paiement doit intervenir.
 
-Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le paiement de pénalités conformément aux dispositions de l'article L. 441-6, alinéa 3, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
+Conformément aux dispositions de l'article L. 441-6, alinéa 9, du code de commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à trente jours à compter de la date d'émission de la facture.
+
+Le paiement est exigible à la réception de la facture et à son lieu d'émission. Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux légal, conformément à l'article L. 441-6, alinéa 10, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
 
 Aucune compensation n'est opérée entre le prix de location et une créance du locataire sur le loueur, quelle qu'en soit la nature.
