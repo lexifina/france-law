@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600099
+
+- Question : [SEQ070600099](seq070600099.md) — Partage des pouvoirs de police
+
+## Réponse
+
+*Intérieur, JO du 2007-08-23, page 1479*
+
+En application de l'article 163 de la loi du 13 août 2004 relative aux libertés et responsabilités locales, codifié à l'article L. 5211-9-2 du CGCT, une partie des pouvoirs de police des maires peut être transférée au président d'un EPCI à fiscalité propre, avec l'accord des maires. Le champ d'application des transferts de pouvoirs de police ainsi autorisés est circonscrit à cinq domaines : l'assainissement, les déchets, la voirie, les aires d'accueil et de stationnement des gens du voyage et les manifestations culturelles et sportives. S'agissant notamment de l'assainissement et des déchets, le président d'un EPCI peut édicter des mesures afin d'assurer la police de la sécurité et de la salubrité publique, sous réserve toutefois que le groupement soit lui-même compétent en matière d'assainissement ou d'élimination des déchets des ménages selon le cas. Le président de l'EPCI est ainsi compétent pour établir un règlement d'assainissement et mettre en oeuvre son application sous la responsabilité d'agents spécialement assermentés. Un pouvoir identique lui est reconnu en matière d'élimination des déchets ménagers. Dans la mesure où un EPCI est bénéficiaire de compétences qui lui sont transférées, il lui appartient d'assumer les charges financières inhérentes à leur exercice, que ces compétences soient des compétences des communes ou qu'elles relèvent des pouvoirs propres des maires. S'agissant des prestations inhérentes à l'exercice des pouvoirs de police qui sont assurées par des agents de police municipale au bénéfice de l'EPCI, leur prise en charge par l'EPCI peut être déterminée, dans des conditions fixées par voie conventionnelle, entre le groupement et les communes intéressées.
