@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700241
+
+- Question : [SEQ070700241](seq070700241.md) — Refus de présidence d'un bureau de vote par un conseiller municipal
+
+## Réponse
+
+*Intérieur, JO du 2007-08-23, page 1480*
+
+Aux termes de l'article L. 2121-5 du code général des collectivités territoriales, tout membre d'un conseil municipal qui, sans excuse valable, a refusé d'accomplir une des fonctions qui lui sont dévolues par la loi, peut être déclaré démissionnaire par le tribunal administratif. Le refus résulte soit d'une déclaration expresse rendue publique par son auteur, soit de l'abstention persistante après avertissement de l'autorité chargée de la convocation. Le membre ainsi démissionnaire ne peut être réélu avant le délai d'un an. Le maire, compétent pour saisir le tribunal administratif, doit avoir adressé un avertissement préalable à l'intéressé, et en conserver la preuve pour pouvoir la produire à l'appui de sa saisine. La démission d'office ne peut être prononcée qu'à la double condition qu'un refus de remplir une fonction dévolue par les lois soit établi et que ce refus ne puisse être justifié par une excuse valable. Sont des fonctions dévolues par la loi les fonctions effectivement prévues par un texte législatif ou réglementaire et constituant une obligation, par exemple le refus pour un conseiller municipal d'exercer la présidence d'un bureau de vote - article R. 43 du code électoral - ou d'exercer les fonctions d'assesseur de bureau de vote - article R. 44 du code électoral - (CE 21 octobre 1992, Alexandre et autres). Les parties intéressées peuvent faire appel de la décision du tribunal administratif dans les conditions de droit commun devant la cour administrative d'appel dans le cadre du contentieux de pleine juridiction et non pas dans celui du contentieux électoral (CE 30 novembre 1992, maire de Rouvres-la-Chétive). Cette procédure est donc entièrement contrôlée par la juridiction administrative.
