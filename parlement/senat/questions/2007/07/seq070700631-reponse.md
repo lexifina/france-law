@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700631
+
+- Question : [SEQ070700631](seq070700631.md) — Sondages d'opinion et fermeture des bureaux de vote
+
+## Réponse
+
+*Intérieur, JO du 2007-08-23, page 1482*
+
+L'article L. 52-2 du code électoral, rendu applicable par la loi organique du 6 novembre 1962 à l'élection du Président de la République, prévoit que, « en cas d'élections générales, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par la voie de la presse ou par tout moyen de communication au public par voie électronique, en métropole, avant la fermeture du dernier bureau de vote sur le territoire métropolitain ». De même, l'article 11 de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion prohibe le jour de chaque scrutin la publication, la diffusion et le commentaire par quelque moyen que ce soit de tout sondage. Lors de l'élection du Président de la République, le décalage de deux heures, en métropole, entre la fermeture des premiers bureaux de vote à 18 heures et la clôture définitive du scrutin à 20 heures a donné lieu, malgré les recommandations de la Commission nationale de contrôle et de la Commission des sondages, à la diffusion d'estimations réalisées par les sondeurs sur divers sites internet basés à l'étranger. Le Conseil constitutionnel, tout comme la Commission nationale de contrôle, dans leur rapport d'observations en ont conclu que, afin de préserver la sincérité du scrutin, il serait notamment souhaitable, pour l'élection présidentielle, d'unifier l'horaire de clôture des bureaux de vote en métropole. Cette mesure, dont l'impact est important pour les communes, sera étudiée par le Gouvernement et pourrait être soumise au Parlement lors de la prochaine modification de la loi organique du 6 novembre 1962.
