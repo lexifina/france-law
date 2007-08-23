@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700623
+
+- Question : [SEQ070700623](seq070700623.md) — Caractère public du rattachement des candidats à un parti politique au moment de leur inscription aux élections législatives
+
+## Réponse
+
+*Intérieur, JO du 2007-08-23, page 1482*
+
+L'article 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence de la vie politique prévoit que la première fraction de l'aide publique de l'État est versée aux partis et groupements qui ont présenté lors des dernières élections législatives des candidats ayant obtenu chacun au moins 1 % des suffrages exprimés dans au moins cinquante circonscriptions. L'attribution de cette aide est effectuée sur la base du parti de rattachement indiqué par les candidats dans leurs déclarations de candidature et sur lequel ceux-ci ne peuvent revenir une fois la période de dépôt des candidatures close. S'il peut s'avérer nécessaire dans les semaines suivant un scrutin de vérifier la concordance entre les documents rédigés par les candidats et détenus par les préfectures, les informations centralisées dans le cadre du fichier des candidats par le ministère de l'intérieur et les listes présentées par les partis politiques, il revient seulement au ministère de l'intérieur d'appliquer la loi du 11 mars 1988 et de prendre acte, sans autres interprétations, de la liste des partis qui ont rempli les conditions requises. Par ailleurs, le décret 2001-777 du 30 août 2001 pris pour l'application des dispositions du troisième alinéa de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et portant création au ministère de l'intérieur d'un fichier des élus et des candidats aux élections au suffrage universel prévoit en son article 4 le caractère communicable des informations liées au parti de rattachement.
