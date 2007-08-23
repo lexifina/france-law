@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700440
+
+- Question : [SEQ070700440](seq070700440.md) — Dispositif de protection dans le cadre de l'ouverture à la concurrence de l'énergie
+
+## Réponse
+
+*Économie, JO du 2007-08-23, page 1473*
+
+Le Gouvernement est particulièrement sensible à la bonne information des consommateurs sur leurs droits depuis le 1er juillet 2007, ainsi que sur les conséquences de leurs choix. C'est dans cet objectif qu'un site internet d'information a été lancé le 23 mai dernier sur le web par les pouvoirs publics : www.energie-info.fr. Ce site est commun au médiateur national de l'énergie, à la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), à la Commission de régulation de l'énergie (CRE) et à la Direction générale de l'énergie et des matières premières (DGEMP). Une actualisation suivie ainsi qu'une amélioration des contenus sont réalisées par ces quatre instances. La fréquentation de ce site est d'ores et déjà importante. Par ailleurs, un feuillet d'information devrait être envoyé à l'ensemble des consommateurs d'électricité et de gaz via les factures d'EDF et de GDF. Préparé en collaboration avec le médiateur, la DGEMP, la CRE et la DGCCRF, ce feuillet donne les grandes lignes de l'ouverture des marchés de l'électricité et du gaz et renvoie le consommateur vers un certain nombre de sources d'information plus précises, notamment le site www.energie-info.fr. Enfin, les services du ministre de l'économie, des finances et de l'emploi répondent aussi à de nombreuses questions de consommateurs et d'association de consommateurs adressées directement aux pouvoirs publics. Le Gouvernement utilise l'ensemble des vecteurs de communication en vue d'informer correctement les consommateurs sur l'ouverture totale des marchés de l'électricité et du gaz depuis le 1er juillet 2007.
