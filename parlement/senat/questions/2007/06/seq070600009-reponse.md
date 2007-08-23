@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600009
+
+- Question : [SEQ070600009](seq070600009.md) — Mise en oeuvre du recours amiable introduit par la loi instituant le droit au logement opposable
+
+## Réponse
+
+*Logement, JO du 2007-08-23, page 1484*
+
+L'article 7 de la loi n° 2007-290 du 5 mars 2007 instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale, codifié à l'article L. 441-2-3 du code de la construction et de l'habitation, a pour objet le recours amiable mentionné à l'article 1er de la loi et qui permet, avant le recours contentieux devant le tribunal administratif, l'exercice du droit au logement. L'article L. 441-2-3 dans sa rédaction issue de cette dernière loi n'est pas d'application immédiate. Son entrée en vigueur est, en effet, subordonnée à la publication du décret en Conseil d'État mentionné au deuxième alinéa du I de l'article L. 441-2-3 et à l'article L. 441-2-6. Ce décret définira les conditions de composition de la commission de médiation ainsi que plus largement les modalités concrètes d'exercice du recours amiable devant la commission. Par ailleurs, l'article L. 441-2-3 renvoie à un décret simple le soin de fixer le délai dans lequel la commission désigne les demandeurs qu'elle reconnaît prioritaires ainsi que le délai en-deçà duquel les personnes désignées à cette fin par la commission doivent s'être vu proposer par le préfet un accueil dans une structure d'hébergement. Les textes d'application de l'article 7 de la loi du 5 mars 2007 seront prochainement soumis à l'avis du Comité de suivi de la mise en oeuvre du droit au logement opposable institué par l'article 13 de la loi du 5 mars 2007, ainsi qu'à celui du Conseil national de l'habitat. Leur publication interviendra à l'automne pour permettre la création d'une commission de médiation dans chaque département avant le 1er janvier 2008, comme la loi le prévoit.
