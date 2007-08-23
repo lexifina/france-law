@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700748
+
+- Question : [SEQ070700748](seq070700748.md) — Appartements de coordination thérapeutique
+
+## Réponse
+
+*Santé, JO du 2007-08-23, page 1487*
+
+Les appartements de coordination thérapeutique (ACT) sont intégrés dans le champ des établissements sociaux et médico-sociaux et soumis au régime des autorisations prévu par les dispositions du code de l'action sociale et des familles. Ainsi, les projets de création, de transformation ou d'extension d'appartements de coordination thérapeutique sont soumis à autorisation, après avis du comité régional de l'organisation sanitaire et sociale. Ces créations, ou extensions, visent à répondre à l'évolution des besoins, tout en tenant compte des données épidémiologiques relatives au VIH-SIDA collectées par l'Institut national de veille sanitaire, ainsi que du taux d'équipement régional constaté. L'Alsace compte d'ores et déjà onze places en appartements de coordination thérapeutique, gérées notamment par l'association GALA qui jouit d'une excellente réputation et qui fait un remarquable travail de terrain. Au titre de l'année 2006, trois places supplémentaires sont accordées à l'Alsace, qui devient ainsi la région la mieux dotée de France, avec 4,96 places pour cent malades du sida, la moyenne nationale étant de 3,56. Cependant, ces places supplémentaires ne suffisent pas à couvrir les besoins. C'est la raison pour laquelle l'effort sera poursuivi en 2007 et 150 nouvelles places seront ouvertes sur l'ensemble du territoire, portant à 1 050 le nombre total de places en France. La ministre de la santé, de la jeunesse et des sports souhaite que, dès cette année, il soit possible d'apporter une réponse positive aux demandes qui sont formulées par l'association GALA et compléter ainsi les trois places déjà accordées en 2006.
