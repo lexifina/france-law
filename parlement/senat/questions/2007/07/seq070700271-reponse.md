@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700271
+
+- Question : [SEQ070700271](seq070700271.md) — Problème de prise en compte des notes des inspecteurs pour des professeurs en poste à l'étranger
+
+## Réponse
+
+*Éducation, JO du 2007-08-23, page 1476*
+
+L'attention du ministre a été appelée sur le problème de la non-prise en compte par certaines inspections académiques des notes et rapports des inspecteurs portant sur les professeurs des écoles exerçant leurs fonctions à l'étranger. En ce qui concerne les personnels en activité en France, si l'inspecteur d'académie a le pouvoir de notation, la note chiffrée, fondée sur l'appréciation pédagogique, est proposée par l'inspecteur de l'éducation nationale (IEN) chargé d'une circonscription du premier degré (article 23 du décret n° 90-680 du 1er août 1990 modifié relatif au statut particulier des professeurs des écoles). Les principes de notation des instituteurs et des professeurs des écoles font l'objet de notes de service publiées par les inspections académiques. Des grilles de notation, propres à chaque département, et données à titre indicatif, sont utilisées par les IEN. Les notes portées sur ces grilles dépendent de l'échelon détenu. En ce qui concerne les instituteurs et les professeurs des écoles placés en position de détachement pour exercer leurs fonctions à l'étranger, ils sont notés par l'organisme d'accueil. Le conseiller de coopération et d'action culturelle propose une note : les services de coopération et d'action culturelle disposent d'un tableau indicatif de notation leur permettant de proposer une notation de l'enseignant. En tout état de cause, la situation des personnels du premier degré détachés à l'étranger ne subit aucun préjudice dans la mesure où ils bénéficient d'un avancement d'échelon à la cadence la plus favorable.
