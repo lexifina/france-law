@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700339
+
+- Question : [SEQ070700339](seq070700339.md) — Montant du plafonnement des frais d'incidents de paiement
+
+## Réponse
+
+*Économie, JO du 2007-08-23, page 1472*
+
+Le Président de la République a reçu, avec le ministre de l'économie, des finances et de l'emploi, les professions financières le 12 juin 2007 afin d'évoquer la contribution de ces derniers à la croissance et à l'emploi. Il a demandé qu'un plan d'action améliorant notamment les relations entre les banques, les assurances et leurs clients soit proposé par le ministre en octobre. Ce plan comprendra le décret d'application concernant le plafonnement des frais bancaires pour incident de paiement, prévu par la loi n° 2007-290 du 5 mars 2007, instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale. D'ici là, dans les limites posées par le droit de la concurrence aux concertations relatives à des sujets tarifaires, le projet de décret sera discuté avec les professionnels, les associations de consommateurs et les représentants des commerçants et des entreprises. Le conseil de la concurrence sera saisi pour avis. Un nécessaire équilibre doit accompagner ce dispositif. Des frais trop élevés peuvent aggraver la situation financière de certains clients, notamment les plus fragilisés. Les impayés, quant à eux, représentent une préoccupation importante pour les entreprises et les commerçants, qu'il convient de réprouver. Il est donc nécessaire de prendre en considération les coûts de traitement par les banques comme le souligne l'auteur de la question, mais aussi de dissuader de tels incidents qui sont préjudiciables au plan économique et social. Les plafonds devront au total respecter plusieurs objectifs, tout en permettant à la concurrence bancaire de jouer son rôle.
