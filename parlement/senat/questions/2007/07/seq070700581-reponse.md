@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700581
+
+- Question : [SEQ070700581](seq070700581.md) — Affiliation au régime agricole des entreprises du secteur agro-alimentaire
+
+## Réponse
+
+*Agriculture, JO du 2007-08-23, page 1464*
+
+Conformément aux articles L. 722-1 et L. 722-20 du code rural, les salariés occupés dans les établissements dirigés par les exploitants agricoles en vue de la transformation, du conditionnement et de la commercialisation de produits agricoles relèvent du régime de protection sociale agricole, lorsque ces activités de transformation, de conditionnement et de commercialisation constituent le prolongement de l'acte de production. Cette notion de prolongement suppose un lien étroit entre ces activités et l'acte de production. Ce lien est effectif dès lors qu'elles portent sur la transformation, le conditionnement et la commercialisation de la production des exploitants et qu'elles sont accomplies par les exploitants eux-mêmes ou par des salariés qu'ils emploient à cet effet. Si les exploitants ont constitué une société destinée à assurer la transformation et la commercialisation de leurs produits, ils doivent détenir la majorité des parts du capital de ladite société pour que les salariés de celle-ci relèvent du régime de protection sociale agricole. Cette règle de rattachement au régime de protection sociale agricole, qui représente une mesure de simplification pour les agriculteurs et leurs salariés concernés, constitue cependant une disposition dérogatoire par rapport aux règles de rattachement de droit commun applicables en matière de sécurité sociale. Il serait difficile d'aller plus avant dans ce sens et d'organiser comme le souhaite l'honorable parlementaire, le rattachement de l'ensemble des entreprises du secteur agroalimentaire au régime agricole, sans remettre directement en cause l'assise professionnelle des différents régimes de sécurité sociale.
