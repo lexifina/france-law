@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700314
+
+- Question : [SEQ070700314](seq070700314.md) — Décret concernant les ostéopathes
+
+## Réponse
+
+*Santé, JO du 2007-08-23, page 1485*
+
+Le décret relatif aux actes professionnels et à l'exercice de l'ostéopathie a été élaboré après de multiples réunions de concertation réunissant les ostéopathes, les étudiants en ostéopathie, les médecins et les kinésithérapeutes. L'article 75 de la loi du 4 mars 2002 ne crée pas une nouvelle profession de santé et ne permet pas de réserver la pratique de l'ostéopathie à telle ou telle profession. En ce qui concerne la formation, le décret n° 2007-435 du 25 mars 2007 relatif aux actes et aux conditions d'exercice de l'ostéopathie décrit son contenu et sa durée horaire. Il permet également aux ostéopathes en exercice de continuer à pratiquer tout en s'assurant de la sécurité des patients grâce, notamment, à la mise en place de commissions régionales auxquelles participeront les ostéopathes au côté des médecins et des kinésithérapeutes. Les matières biologiques et ostéopathiques sont dorénavant obligatoirement enseignées sur une base minimale de 2 660 heures. Les structures de formation actuellement de droit privé doivent se conformer à un cahier des charges rigoureux permettant leur agrément. L'arrêté du 25 mars 2007, paru au Journal officiel du 27 mars, précise le contenu de la formation ainsi que les modalités concernant les demandes d'agrément des établissements de formation. Les structures non agréées ne pourront pas délivrer le titre. Ces dispositions sont en cohérence avec le rapport du doyen Bertrand Ludes rendu public le 25 janvier 2007 et disponible sur le site Internet du ministère chargé de la santé : www.sante.gouv.fr, rubrique « Presse », dans « rapport remis au Gouvernement », « année 2006 ».
