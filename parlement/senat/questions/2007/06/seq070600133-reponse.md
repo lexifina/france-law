@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600133
+
+- Question : [SEQ070600133](seq070600133.md) — Attribution de la carte du combattant aux soldats ayant participé à la libération du territoire
+
+## Réponse
+
+*Anciens combattants, JO du 2007-08-30, page 1533*
+
+Le secrétaire d'État à la défense, chargé des anciens combattants tient à préciser à l'honorable parlementaire qu'en vertu de dispositions successives intervenues depuis 1998, la durée de présence sur le territoire constitue un critère d'attribution de la carte du combattant d'Afrique du Nord s'ajoutant aux conditions antérieures nécessitant notamment l'appartenance à une unité combattante pendant quatre-vingt-dix jours ou la participation à des actions de feu ou de combat. En dernier lieu, la durée de service exigée a été fixée à quatre mois par l'article 123 de la loi de finances pour 2004. Ce critère est justifié par l'exposition au risque diffus dû à l'insécurité provoquée par les méthodes de guérilla spécifiques de la nature des combats menés en Afrique du Nord. Ainsi, la situation des mobilisés en 1940 se rattache à une réalité différente. En effet, pour ce qui concerne le second conflit mondial, le critère fondamental d'attribution de la carte, défini par l'article R. 224 C du code des pensions militaires d'invalidité et des victimes de la guerre, est celui de l'appartenance à une unité combattante pendant quatre-vingt-dix jours. Cependant, des adaptations successives prises dans le cadre de la procédure individuelle prévue par l'article R. 227 après avis de la commission nationale visée à l'article R. 227 bis du même code, ont permis d'assouplir les règles fixées. Quoi qu'il en soit, il appartient au secrétaire d'Etat à la défense chargé des anciens combattants de veiller à ce que l'adaptation des critères donnant vocation à la qualité de combattant soit justifiée par les caractéristiques propres à chaque conflit.
