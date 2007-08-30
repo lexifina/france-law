@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700464
+
+- Question : [SEQ070700464](seq070700464.md) — Recrutement des travailleurs sociaux, infirmiers, aides-soignants de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2007-08-30, page 1543*
+
+L'article 36 de la loi du 26 janvier 1984, portant dispositions statutaires relatives à la fonction publique territoriale, fait du concours la voie d'accès de droit commun aux emplois territoriaux, à l'instar de l'ensemble de la fonction publique. Cette règle générale, qui vise à garantir l'égalité d'accès de tous les candidats aux emplois publics, nécessite l'organisation d'épreuves afin d'opérer une sélection entre candidats possédant les mêmes titres ou diplômes. S'agissant plus particulièrement de la filière médico-sociale, les difficultés rencontrées par les collectivités territoriales pour recruter ces personnels, ainsi que les différences existant entre les modalités d'accès aux autres fonctions publiques n'ont pas échappé au ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, qui a engagé une réflexion tendant à l'allègement des modalités de recrutement des fonctionnaires de ce secteur, actuellement effectué par la voie d'un concours sur titres comprenant une épreuve écrite d'admissibilité et une épreuve orale d'admission. Cette réflexion a été confiée au groupe de travail chargé, au sein du Conseil supérieur de la fonction publique territoriale, du réaménagement des concours et des mécanismes de recrutement dans la fonction publique territoriale. Dans un souci de simplification des concours, il serait envisagé de ne maintenir que la seule épreuve d'entretien afin de garantir une sélection impartiale des candidats. Cette réforme permettrait ainsi de prendre en compte les compétences techniques déjà attestées par les titres ou diplômes détenus par les candidats tout en maintenant le principe du concours.
