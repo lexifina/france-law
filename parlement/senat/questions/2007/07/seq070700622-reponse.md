@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700622
+
+- Question : [SEQ070700622](seq070700622.md) — Procédure d'action de groupe des consommateurs
+
+## Réponse
+
+*Économie, JO du 2007-08-30, page 1541*
+
+Selon un sondage réalisé au printemps 2007 par l'institut du Conseil supérieur de l'audiovisuel (CSA) pour le compte de deux associations de consommateurs, une grande majorité des Français serait favorable à l'introduction d'une action de groupe. Le Gouvernement avait introduit dans le projet de loi en faveur des consommateurs, présenté en conseil des ministres le 8 novembre dernier, des dispositions modifiant le code de la consommation et offrant une nouvelle possibilité d'action en justice, dénommée action de groupe, en complément des différentes actions déjà ouvertes aux associations de consommateurs. Inscrit à l'ordre du jour de l'Assemblée nationale pour un examen en première lecture du 6 au 8 février 2007, ce texte a finalement été retiré par le Gouvernement en raison du nombre important d'amendements que les parlementaires s'apprêtaient à déposer et qui, compte tenu des exigences de calendrier induites par l'interruption des travaux parlementaires à la fin du mois de février, n'auraient pas permis un débat serein et éclairé. Ce projet demeure néanmoins d'actualité. Ainsi, le Président de la République et le Premier ministre ont-ils souhaité que pour la fin 2007, dans le cadre d'une « loi de modernisation de l'économie » devant comprendre un certain nombre de dispositions renforçant la protection des consommateurs et protégeant le pouvoir d'achat, puisse être créée une « action de groupe à la française ». Ce dispositif devra concilier les exigences de protection des consommateurs, de la compétitivité des entreprises et le respect des principes fondamentaux de notre droit, tout en permettant d'éviter les abus et dérives constatés avec d'autres dispositifs en vigueur à l'étranger.
