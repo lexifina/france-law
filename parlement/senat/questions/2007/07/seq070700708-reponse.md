@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700708
+
+- Question : [SEQ070700708](seq070700708.md) — Situation des usagers de La Poste dans les zones rurales frappées par de violents orages
+
+## Réponse
+
+*Économie, JO du 2007-08-30, page 1541*
+
+La Poste, prestataire du service universel, est soumise à des obligations en matière de qualité et d'accessibilité à ses services. Le service universel postal, qui comprend une offre de services d'envois postaux déterminée, est assuré dans le respect des principes d'égalité, de continuité et d'adaptabilité, en recherchant la meilleure efficacité économique et sociale. S'agissant des intempéries qui sont intervenues à Bagnols le 6 juin 2007, le service postal a été fortement perturbé à cette occasion et La Poste a été privée de connexions téléphoniques et informatiques pendant une semaine, du 7 au 14 juin. La procédure d'urgence manuelle habituelle, prévue par La Poste, a été immédiatement déclenchée au sein du bureau de Bagnols. Le service du courrier et celui des colis ont pu être assurés auprès de la clientèle. La Poste a cependant préféré différer la mise en oeuvre du volet de dépannage financier pour les clients ayant leur compte à Bagnols. La Poste dispose, en effet, d'un contrat de dépannage auprès des services de France Télécom. Dans ce cadre, le responsable local du bureau de La Tour-d'Auvergne, comme le maire de Bagnols, ont tout mis en oeuvre, pour pallier cette panne. Cependant, les informations qui leur ont été communiquées n'ont malheureusement pas permis d'en mesurer toute la gravité. De telles situations restent temporaires et exceptionnelles. Cependant afin d'éviter que pareille situation ne se renouvelle, La Poste du Puy-de-Dôme a rappelé à l'ensemble de ses directeurs d'établissements toutes les mesures à appliquer en pareil cas.
