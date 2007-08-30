@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700538
+
+- Question : [SEQ070700538](seq070700538.md) — Aménagement du temps de travail dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2007-08-30, page 1544*
+
+La durée de travail des professeurs, assistants spécialisés et assistants territoriaux d'enseignement artistique est fixée, contrairement aux autres agents de la fonction publique territoriale, par des dispositions propres à leur statut. Ces agents sont soumis à une obligation de servir d'une durée hebdomadaire fixée à seize heures (pour les professeurs d'enseignement artistique) ou vingt heures (pour les assistants spécialisés et les assistants territoriaux d'enseignement artistique) par les décrets du 2 septembre 1991 portant statut particulier de ces cadres d'emplois. La cour administrative d'appel de Bordeaux, par un arrêt du 7 novembre 2002, rappelle que les dispositions de l'article 2 du décret du 2 septembre 1991, par lesquelles les assistants d'enseignement artistique assurent un travail hebdomadaire de vingt heures, constituent un des éléments du statut de ces agents. Ce principe a été confirmé par plusieurs arrêts du 19 décembre 2006 de la cour administrative d'appel de Lyon, selon laquelle « les dispositions du décret du 2 septembre 1991, qui prévoient que les assistants territoriaux spécialisés d'enseignement artistique sont soumis à un régime d'obligations de services, font obstacle à ce que la collectivité territoriale qui les emploie leur applique les textes pris pour la mise en oeuvre, dans la fonction publique territoriale, de la réduction de la durée de travail et de l'annualisation du temps de travail ». La réglementation actuelle portant sur ces cadres d'emplois ne permet donc pas l'annualisation des obligations de service et la réflexion menée sur ce thème n'a pas conduit, pour l'instant, à envisager une évolution dans ce domaine.
