@@ -1,6 +1,6 @@
-# Article Annexe RG-1-R, art. 11
+# Article 11
 
-1. Tout exploitant est tenu d'organiser, sous une forme appropriée compréhensible par chaque personne, une formation suffisante en matière de sécurité et de santé au travail, et notamment à l'occasion :
+Formation : 1. Tout exploitant est tenu d'organiser, sous une forme appropriée compréhensible par chaque personne, une formation suffisante en matière de sécurité et de santé au travail, et notamment à l'occasion :
 
 - de l'embauche ;
 
@@ -21,3 +21,7 @@ Etre répétée périodiquement dans des conditions fixées par l'exploitant apr
 2. La formation doit être dispensée durant le temps de travail. Elle est à la charge de l'exploitant, pour ce qui concerne son propre personnel.
 
 3. Tout exploitant doit veiller à ce que le personnel connaisse les prescriptions réglementaires et les instructions relatives à son travail, édictées ou établies en vue d'assurer sa sécurité et préserver sa santé et ait reçu la formation nécessaire.
+
+4. Les représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, lorsqu'ils existent et selon le cas, les délégués mineurs, les délégués permanents de la surface ou les délégués du personnel concernés bénéficient de la formation nécessaire à l'exercice de leurs missions.
+
+Cette formation est dispensée et renouvelée dans les conditions prévues aux points 1 et 2 du présent article.
