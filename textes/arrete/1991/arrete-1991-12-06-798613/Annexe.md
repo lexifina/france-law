@@ -72,6 +72,8 @@ I.-Administration centrale (y compris le ministère chargé de la jeunesse et de
 
 |
 
+f
+
 |
 
 |
@@ -392,7 +394,7 @@ A
 
 |
 
-Chefs des services administratifs (sauf lorsque ces fonctions sont exercées par des secrétaires généraux d'administration scolaire et universitaire)
+Chefs des services administratifs (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche)
 
 |
 
@@ -492,7 +494,7 @@ A
 
 |
 
-Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des secrétaires généraux d'administration scolaire et universitaire)
+Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche)
 
 |
 
@@ -556,7 +558,7 @@ A
 
 |
 
-4. Personnels nommés dans l'emploi de secrétaire général d'administration scolaire et universitaire
+4. Personnels nommés dans l'emploi d' administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
 |
 

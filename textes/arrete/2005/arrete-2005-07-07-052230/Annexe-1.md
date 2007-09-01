@@ -260,8 +260,6 @@ Lycée français Alioune Blondin Bèye, Luanda.
 
 Arabie saoudite
 
-Section française de la SAIS, Dharan al Khobar.
-
 Section française de la SAIS, Djeddah.
 
 Section française de la SAIS, Riyad.
@@ -285,8 +283,6 @@ Ecole française internationale, Dacca.
 Belgique
 
 Lycée français, Anvers.
-
-Collège français, Gand.
 
 République du Bénin
 
@@ -402,9 +398,7 @@ Lycée français Prins Henrik, Copenhague.
 
 Djibouti
 
-Ecole française Françoise Dolto, Djibouti.
-
-Lycée français Joseph Kessel, Djibouti.
+Lycée français de Djibouti, Djibouti.
 
 République dominicaine
 
@@ -517,8 +511,6 @@ Israël
 Collège français Marc Chagall, Tel-Aviv.
 
 Italie
-
-Ecole française, Florence.
 
 Lycée français Jean Giono, Turin.
 
