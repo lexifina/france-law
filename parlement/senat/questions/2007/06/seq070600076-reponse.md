@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600076
+
+- Question : [SEQ070600076](seq070600076.md) — Aide financière de l'État en faveur de la couverture numérique du territoire
+
+## Réponse
+
+*Écologie, JO du 2007-09-06, page 1577*
+
+Des progrès importants ont été réalisés en quelques années en matière de couverture et de pénétration du haut débit. En 2002, seules 5 000 communes avaient accès à une offre ADSL. Depuis la fin de l'année 2006, le déploiement de l'ADSL est terminé. Mais les foyers restants, qui résident dans environ 3 500 communes, seront durablement hors d'atteinte de cette technologie pour des raisons techniques liées à leur éloignement par rapport au central téléphonique. Pour apporter le haut débit dans ces communes, deux nouvelles licences WIMAX par région ont été attribuées en juillet 2006, assorties d'obligations de déploiement, qui permettront d'atteindre une couverture du haut débit cumulée de l'ordre de 99 % de la population d'ici à mi-2008. Pour le raccordement des communes restantes, le Comité interministériel sur la société de l'information du 11 juillet 2006 a mis en place un plan de couverture doté de 10 millions d'euros. La mesure sera financée par le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, via la dotation globale d'équipement, ainsi que par le ministère de l'éducation nationale, via le programme « soutien à la politique de l'éducation nationale ». Il propose la prise en charge de 5 000 à 8 000 euros par commune, pour un investissement estimé à 10 000 euros. Les communes éligibles seront celles dont la mairie, l'école ou la zone d'activité ne seraient pas couvertes par l'ADSL ou par une technologie équivalente. Les collectivités candidates sont invitées à se faire connaître auprès des préfets qui rechercheront, par souci d'efficacité et de cohérence, un partenariat avec les conseils régionaux et les conseils généraux qui le souhaiteront.
