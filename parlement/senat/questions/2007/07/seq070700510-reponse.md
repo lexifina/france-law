@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700510
+
+- Question : [SEQ070700510](seq070700510.md) — Modalités de classement des trésoreries
+
+## Réponse
+
+*Budget, JO du 2007-09-06, page 1575*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative à l'incidence du classement des trésoreries sur la situation professionnelle des comptables, en particulier, dans les trésoreries municipales. Le décret n° 95-869 du 2 août 1995, modifié, fixant le statut particulier des personnels de catégorie A du Trésor public, prévoit en son article 4 que le classement des postes comptables non centralisateurs intervient par arrêté du ministre chargé du budget. Ce classement repose sur des critères représentatifs d'enjeux, valorisant l'importance des missions attribuées à chaque poste comptable, ainsi que les risques et les difficultés qui leur sont attachés. Les critères pris en compte permettent d'apprécier les masses financières gérées, mais également les volumes d'activité, les relations avec les ordonnateurs et les difficultés d'exercice des missions. Ce sont au total près de trente indicateurs qui participent à ce classement, permettant de couvrir au mieux les différentes missions exercées par les trésoreries. Ces opérations de classement sont effectuées en toute transparence et présentées en comité technique paritaire central. Sur le point particulier des évolutions de carrière des comptables, l'opération de classement ne rompt en aucun cas l'équité. Les progressions de carrière, dès lors que les dossiers des postulants présentent les qualités et aptitudes requises, sont actées dans le cadre des mouvements nationaux de promotion de grade ou de mutation par équivalence : ces opérations sont réalisées après avis des commissions administratives paritaires.
