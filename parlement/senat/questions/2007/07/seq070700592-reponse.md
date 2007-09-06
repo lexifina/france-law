@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700592
+
+- Question : [SEQ070700592](seq070700592.md) — Arrêtés interruptifs de travaux
+
+## Réponse
+
+*Écologie, JO du 2007-09-06, page 1578*
+
+L'article 24 de la loi n° 2000-321 du 12 avril 2000 prévoit que les décisions qui doivent être motivées en application de la loi du 11 juillet 1979, notamment les mesures de police comme les arrêtés interruptifs de travaux, ne peuvent légalement intervenir qu'après que l'intéressé a été mis à même de présenter ses observations. Avant de prendre un arrêté interruptif de travaux à son encontre, le maire doit demander, par lettre recommandée avec accusé de réception, au constructeur de faire connaître au plus vite ses observations écrites ou orales sur les faits qui lui sont reprochés et lui préciser qu'il peut se faire assister ou représenter par un mandataire de son choix. Si les dispositions de cet article permettent de déroger à l'obligation de motivation en cas d'urgence, il est recommandé au maire de justifier, dans la motivation de l'arrêté interruptif de travaux, de l'urgence de la situation pour s'abstraire de l'obligation de respecter cette procédure. Dans le cas contraire, l'arrêté interruptif de travaux pourra être annulé pour non-respect de la procédure contradictoire si les conditions pour y déroger ne sont pas remplies. La procédure contradictoire prévue par l'article 24 de la loi du 12 avril 2000 s'applique aussi lorsque le maire prononce l'interruption des travaux à l'encontre d'un constructeur ayant effectué des travaux sans autorisation. Toutefois, le non-respect de cette procédure n'aura pas pour conséquence l'annulation contentieuse de l'arrêté interruptif de travaux, le maire étant tenu dans ce cas d'ordonner l'interruption des travaux (Conseil d'État, 3 février 2002 « Frontoni », requête n° 240853).
