@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600028
+
+- Question : [SEQ070600028](seq070600028.md) — Processus Lamfalussy
+
+## Réponse
+
+*Affaires européennes, JO du 2007-09-13, page 1613*
+
+Parmi les travaux que la France aura à conduire dans le cadre de sa présidence de l'Union européenne au second semestre 2008, figure la suite à donner au bilan du processus Lamfalussy qui a permis, depuis 2000, de mettre sur pied un mécanisme ad hoc d'élaboration de la réglementation financière et qui a permis des avancées notables dans l'approfondissement du marché intérieur pour les produits et services financiers. Le groupe interinstitutionnel de surveillance du processus Lamfalussy devrait proposer à l'automne prochain des améliorations utiles. Il s'agit notamment d'améliorer l'articulation entre les différents comités réglementaires pour garantir la souplesse du processus législatif en réponse aux innovations financières. Le passage du rapport d'information n° 302 du Sénat, auquel fait référence l'honorable parlementaire, évoque le fonctionnement du niveau 3 de la procédure Lamfalussy qui concerne la coopération entre les régulateurs. Le constat de la nécessité d'une meilleure coordination entre les régulateurs est largement partagé en Europe, compte tenu de l'émergence d'acteurs majeurs paneuropéens qui s'est accélérée dans les derniers mois et pour améliorer la protection du consommateur dans les opérations transfrontières. C'est une exigence en terme d'efficacité, mais aussi de sécurité financière. Il convient de réfléchir sur les moyens de faire davantage converger les pratiques des régulateurs et d'améliorer la transparence financière notamment par une meilleure circulation de l'information. Ce sujet est aussi stratégique pour la poursuite de l'intégration financière en Europe et le renforcement de notre compétitivité. Il figure au premier rang des préoccupations des professionnels. La présidence française devrait en faire l'une de ses priorités.
