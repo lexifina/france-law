@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600026
+
+- Question : [SEQ070600026](seq070600026.md) — État du parc de l'aviation légère de l'armée de terre
+
+## Réponse
+
+*Défense, JO du 2007-09-13, page 1616*
+
+L'évolution des besoins opérationnels de défense et le vieillissement des équipements militaires nécessitent la modification régulière puis le renouvellement des systèmes d'armes. La phase « transitoire », durant laquelle coexistent des systèmes anciens pour lesquels il convient d'optimiser la gestion de fin de vie et des systèmes nouveaux dont la mise en service opérationnelle s'échelonne sur plusieurs années, fait l'objet d'analyses approfondies sur le plan de la cohérence capacitaire ainsi que d'un management rigoureux. Ces analyses permettent, en associant tous les acteurs concernés du ministère de la défense, d'optimiser, notamment par un échéancier de mise en service et une évaluation du coût global des solutions, le passage de relais entre systèmes de générations différentes et de gérer au mieux certains aléas inéluctables (évolution du besoin, contraintes budgétaires, difficultés techniques...). S'agissant des hélicoptères de l'aviation légère de l'armée de terre, et en particulier des Puma, des actions de fond ont été lancées pour augmenter la disponibilité opérationnelle et diminuer les coûts de maintenance. Ces actions sont précisément ciblées sur une diminution de la fréquence des grandes visites de maintenance, une réduction de la durée de ces visites par la mise en oeuvre de méthodes d'optimisation issues du milieu civil, une analyse systématique des travaux de maintenance afin de les adapter au strict nécessaire à la mission militaire, et l'utilisation d'un système d'information logistique commun. Cette dynamique de progrès continu est conduite par le service de la maintenance aéronautique, dans le respect permanent des exigences de sécurité des vols.
