@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700907
+
+- Question : [SEQ070700907](seq070700907.md) — Acquisition de la nationalité française par les ressortissants de l'île Maurice, descendants de Français avant la cession de 1814
+
+## Réponse
+
+*Justice, JO du 2007-09-13, page 1624*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'article 8 du traité de Paris du 30 mai 1814 qui a établi la souveraineté britannique sur 1'île Maurice ne contenait pas de dispositions en matière de nationalité. Dès lors, les règles de droit commun relatives aux cessions de territoires visées à l'article 17-8 du code civil doivent être appliquées s'agissant de la conservation de la nationalité française par les personnes originaires de cette île anciennement française. Ont ainsi perdu la nationalité française au moment de la cession de ce territoire à la Couronne britannique les personnes qui y étaient domiciliées. Leurs descendants, qui ne sont pas français, peuvent acquérir la nationalité française par naturalisation à condition de remplir les conditions fixées par la loi. Il convient d'observer que les dispositions de l'article 21-20 du code civil dispensant de stage les ressortissants des territoires ou Ëtats dont la langue officielle est le français ne s'appliquent pas aux ressortissants de L'île Maurice. En effet, cette ile ne figure pas au nombre des Ëtats ayant le français comme langue officielle. Les ressortissants de l'île Maurice doivent donc remplir les conditions de droit commun relatives à l'acquisition de la nationalité française pour devenir français. Dans ce cadre, un examen au cas par cas est mené permettant notamment à ceux qui ont contribué par leur action au rayonnement de la France et à la prospérité de ses relations économiques internationales (art. 21-21) d'être naturalisés sans condition de stage.
