@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600128
+
+- Question : [SEQ070600128](seq070600128.md) — Transfert aux régions de l'ensemble des compétences transport exercées par les départements
+
+## Réponse
+
+*Écologie, JO du 2007-09-20, page 1664*
+
+L'existence d'une offre pertinente de transports publics est essentielle dans la lutte contre l'augmentation de la circulation automobile et ses effets en matière de congestion, de bruit et de pollution. La loi confie l'organisation des transports réguliers de voyageurs à différentes autorités. En dehors des périmètres de transports urbains, le département organise les transports routiers réguliers à l'exclusion des liaisons d'intérêt régional ou national. À ce titre, il est responsable des transports scolaires. La région est autorité organisatrice des services ferroviaires régionaux ainsi que des services routiers qui concernent au moins deux départements. La coordination entre ces différentes autorités organisatrices, y compris avec les autorités responsables des transports urbains, est nécessaire pour améliorer l'efficacité des politiques de transports et le service à l'usager. Ainsi, de nombreuses autorités organisatrices se sont d'ores et déjà regroupées dans des syndicats mixtes ou ont conclu entre elles des conventions en vue de coordonner les services qu'elles organisent, du point de vue des horaires ou des correspondances via des pôles d'échanges, mais aussi afin de mettre en place des systèmes d'information des voyageurs ou des titres de transport uniques. En l'état actuel des institutions mises en place par les lois de décentralisation, il n'est pas possible d'envisager la disparition d'un niveau territorial d'organisation des transports, il apparaît préférable que les autorités concernées accentuent leurs efforts de coordination en agissant au plus près des attentes de leurs usagers.
