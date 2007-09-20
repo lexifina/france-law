@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700934
+
+- Question : [SEQ070700934](seq070700934.md) — Utilisation de l'article 4 de l'ordonnance n° 2005-901 du 2 août 2005 pour le recrutement des policiers municipaux
+
+## Réponse
+
+*Fonction publique, JO du 2007-09-20, page 1669*
+
+Le recrutement des agents de police municipale répond à des règles spécifiques, définies par le décret n° 94-732 du 24 août 1994 modifié, portant statut particulier de ce cadre d'emplois qui précise, notamment, les exigences déontologiques et statutaires applicables en matière de formation initiale obligatoire et d'agrément de la part des autorités compétentes, incompatibles avec le dispositif du PACTE (Parcours d'accès aux carrières territoriales, hospitalières et de l'État). En effet, le temps de formation imparti dans le PACTE (20 % minimum de la durée du contrat), afin de préparer la qualification visée, n'est pas conciliable avec le suivi de la formation initiale obligatoire prévue avant titularisation pour les agents de police municipale (d'une durée de six mois). De surcroît, le suivi de cette formation propre à ce cadre d'emplois, qui est une condition de l'exercice de la fonction d'agent de police municipale, est en contradiction avec la mise en situation professionnelle que suppose un contrat en alternance, le bénéficiaire du PACTE devant se voir confier des fonctions en rapport avec la qualification visée. Enfin, les agents de police municipale doivent obtenir le double agrément du procureur de la République et du préfet pour occuper leur emploi. Cette procédure d'agrément préalable à l'exercice des fonctions n'est pas non plus compatible avec la formation en alternance qui caractérise le PACTE. Pour ces raisons, le dispositif du PACTE n'est pas adapté pour accéder au cadre d'emplois des agents de police municipale.
