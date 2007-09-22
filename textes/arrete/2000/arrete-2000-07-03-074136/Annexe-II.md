@@ -216,13 +216,13 @@ Carel Fouche Industries, 22, place de Seine, tour Neptune, 92086 Paris-La Défen
 
 CEM Alsthom, 55, avenue Jean-Jaurès, 93350 Le Bourget, de sa création à 1984 ;
 
-Comptoir des matériaux acoustiques (CMA), rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982.
+Comptoir des matériaux acoustiques (CMA), rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982 ;
 
-Copris isolation, rue du Val-de-Richebourg, 95360 Montmagny : de 1964 à 1977.
+Copris isolation, rue du Val-de-Richebourg, 95360 Montmagny : de 1964 à 1977 ;
 
-Fibrociment de Poissy, 78300 Poissy : de 1903 à 1958.
+Fibrociment de Poissy, 78300 Poissy : de 1903 à 1958 ;
 
-Dalami, 78540 Vernouillet : de 1961 à 1986.
+Dalami, 78540 Vernouillet : de 1961 à 1986 ;
 
 DBA-DAT (division Automobile Tourisme), 23-31-33, rue Madame-de-Sanzillon, 91119 Clichy : de 1959 à 1970 ;
 
@@ -234,7 +234,9 @@ Fours Ripoche/CECF/ CFR : 3, rue Ferrus, 75014 Paris, de 1968 à 1996 ; CECF : 4
 
 Française d'isolation industrielle, chemin des Processions, 91240 Saint-Michel-sur-Orge : de 1966 à 1994 ;
 
-Isotherma, 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979.
+ISOMACO, 13-17 rue Saint-Germain, 93230 Romainville : de 1969 à 1984 ;
+
+Isotherma, 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979 ;
 
 Le Joint français, 84, 116, rue Salvador-Allende, 95870 Bezons : de 1907 à 1995 ;
 
@@ -400,7 +402,7 @@ Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
 
 Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
-SA Ateliers Bouchez, entreprise M. Bouchez, 80, rue du 29 juillet, 62100 Calais, de 1958 à 1993.
+SA Ateliers Bouchez, entreprise M. Bouchez, 2, rue Jeanne-d'Arc et 80, rue du 29- juillet, 62100 Calais, de 1958 à 1993 ;
 
 SCREG, avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
@@ -488,7 +490,7 @@ SITUB, BP 123, 76430 Tancarville : de 1960 à 1996 ;
 
 Société Capel/Cape/Cape contracts/Socap, ZI La Métairie, 76170 Lillebonne : de 1965 à 1990 ; BP 15, 76330 Notre-Dame-de-Gravenchon : de 1967 à 1994.
 
-Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : depuis 1973.
+Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
 
 SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994.
 
