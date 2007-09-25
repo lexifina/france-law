@@ -1,3 +1,5 @@
-# Article 17 *ancien  8*
+# Article 17
 
-Les entreprises entrant dans le champ d'application de la convention collective doivent verser au moins 20 p. 100 de leur taxe d'apprentissage à un établissement assurant une formation technique ou commerciale en rapport direct avec la profession. Les exonérations liées à l'accueil des apprentis en entreprise sont libératoires de cette obligation à concurrence de leur montant.
+Les entreprises relevant du champ d'application de la convention collective doivent verser au moins 30 % de leur taxe d'apprentissage aux centres de formation initiale (CFA) reconnus par la branche, qui préparent aux métiers des commerces et des services dans le domaine de l'audiovisuel, de l'électronique et de l'équipement ménager. Les exonérations liées à l'accueil des apprentis en entreprise sont libératoires de cette obligation à concurrence de leur montant.
+
+Le taux de la taxe d'apprentissage ci-dessus indiqué est susceptible de modifications par voie législative, réglementaire ou conventionnelle.

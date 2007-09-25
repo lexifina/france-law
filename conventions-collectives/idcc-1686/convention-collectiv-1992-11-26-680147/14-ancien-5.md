@@ -1,9 +1,5 @@
-# Article 14 *ancien  5*
+# Article 14
 
-Les entreprises entrant dans le champ d'application de la convention collective sont tenues de verser à l'Agefos - P.M.E. :
+Le solde de collecte destiné au financement des formations initiales par la voie de l'apprentissage, selon les dispositions de l'article 12 de l'accord n° 29 relatif à la formation tout au long de la vie du 8 avril 2005, sera affecté à divers établissements en ayant fait la demande assurant une formation par la voie de l'apprentissage pour les métiers spécifiques à la profession.
 
-- leur contribution de 0,1 p. 100 additionnelle à la taxe d'apprentissage destinée au financement des formations en alternance pour les entreprises de moins de dix salariés ;
-
-- 25 p. 100 de la contribution de 0,4 p. 100 destinée au financement de l'alternance pour les entreprises de dix salariés et plus,
-
-conformément au décret n° 93-756 du 29 mars 1993.
+La liste des établissements bénéficiaires est établie chaque année par la CPNEFP visée au chapitre Ier du présent titre après examen des dossiers, du sérieux et de la compétence reconnus aux établissements candidats assurant ou désireux d'assurer une formation par la voie de l'apprentissage conforme aux critères préétablis.

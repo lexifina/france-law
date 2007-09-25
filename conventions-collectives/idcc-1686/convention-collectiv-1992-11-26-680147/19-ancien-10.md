@@ -1,5 +1,3 @@
-# Article 19 *ancien  10*
+# Article 19
 
-La profession se réserve la possibilité d'attribuer les missions confiées à l'Agefos - P.M.E. et/ou aux F.O.N.G.E.C.I.F. par le présent accord à d'autres organismes de son choix en fonction de l'évolution des circonstances ou de la législation en la matière.
-
-*ancien article 5*
+Les partenaires sociaux se réservent la possibilité d'attribuer les missions confiées à l'OPCA désigné par l'accord n° 29 relatif à la formation tout au long de la vie du 8 avril 2005 à un autre organisme de leur choix.

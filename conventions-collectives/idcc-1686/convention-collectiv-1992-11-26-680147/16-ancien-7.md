@@ -1,11 +1,3 @@
-# Article 16 *ancien  7*
+# Article 16
 
-La commission paritaire prévue à l'article 2 a compétence pour fixer chaque année la liste des établissements retenus pour l'attribution des fonds au vu :
-
-- des justifications financières et pédagogiques fournies par les établissements déjà retenus ;
-
-- du sérieux et de la compétence reconnus aux établissements candidats assurant ou désireux d'assurer une formation par la voie de l'apprentissage conforme aux critères préétablis.
-
-Elle détermine dans chaque cas les éléments qui sont nécessaires à son appréciation.
-
-Elle détermine également la répartition des sommes qu'elle attribue entre les différents bénéficiaires.
+La section paritaire professionnelle visée à l'article 11 du présent titre VI a compétence pour fixer chaque année la liste des établissements retenus pour l'attribution des fonds, au vu des justifications financières et pédagogiques fournies par les établissements retenus par la CPNEFP.
