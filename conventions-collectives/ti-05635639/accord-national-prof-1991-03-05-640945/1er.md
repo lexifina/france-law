@@ -1,10 +1,10 @@
 # Article 1
 
-Les dispositions du présent accord sont applicables à l'ensemble des personnels des entreprises exerçant à titre principal une activité de transport de fonds au sens de l'article 1er de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de surveillance, de gardiennage et de transport de fonds.
+Dans les activités de transport de fonds et valeurs au sens de l'article 1er de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité et quel que soit le montant des fonds transportés, les dispositions du présent accord sont applicables :
 
-Dans les entreprises qui exercent des activités de transport de fonds et valeurs à titre accessoire, les dispositions du présent accord sont applicables aux personnels dont les emplois sont spécifiquement définis dans la nomenclature annexée au présent accord.
+- à l'ensemble des personnels des entreprises exerçant à titre principal une activité de transport de fonds et valeurs, de traitement de valeurs et de gestion des automates bancaires ;
 
-ancien article 3
+- aux personnels des entreprises qui exercent des activités à titre accessoire de transport de fonds et valeurs, de traitement de valeurs et de gestion des automates bancaires dont les emplois présentent les caractéristiques correspondant dans leur principe aux descriptifs de tâches et fonctions définis dans la nomenclature annexée au présent accord.
 
 NOTA :
 
