@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700787
+
+- Question : [SEQ070700787](seq070700787.md) — Affichage des délibérations et comptes rendus des séances d'un syndicat mixte
+
+## Réponse
+
+*Intérieur, JO du 2007-09-27, page 1723*
+
+Les syndicats mixtes constitués exclusivement de communes et d'établissements publics de coopération intercommunale (EPCI) et ceux qui comprennent uniquement des EPCI sont soumis, aux termes de l'article L. 5711-1 du code général des collectivités territoriales, aux dispositions communes à l'ensemble des EPCI et à celles qui s'appliquent aux syndicats de communes. Aussi, il convient de se reporter à la réponse apportée à la question écrite n° 11 (JO Sénat du 28 juin 2007) qui porte, dans les mêmes termes, sur l'affichage des comptes rendus des séances d'une communauté de communes ou d'un syndicat intercommunal. En revanche, s'agissant des syndicats mixtes visés par l'article L. 5721-2 du même code, qui incluent des collectivités territoriales de différents niveaux, des groupements de collectivités territoriales, voire des chambres consulaires, le législateur n'a pas prévu de dispositions spécifiques précisant les conditions de l'affichage des délibérations. Toutefois, l'article L. 5721-4 leur rend applicables les dispositions relatives au contrôle de légalité et au caractère exécutoire des actes des autorités départementales, et notamment l'article L. 3131-1 qui prévoit que les actes pris par les autorités départementales sont exécutoires de plein droit dès qu'il a été procédé à leur publication ou « affichage » ou à leur notification aux intéressés ainsi qu'à leur transmission au représentant de l'Etat. Sous le contrôle du juge administratif, l'affichage des délibérations doit, pour remplir sa fonction de publicité, être effectué dans un lieu accessible à toute personne.
