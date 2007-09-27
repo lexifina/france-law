@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700607
+
+- Question : [SEQ070700607](seq070700607.md) — Gestion d'un ouvrage d'interconnexion de réseaux
+
+## Réponse
+
+*Intérieur, JO du 2007-09-27, page 1720*
+
+Les établissements publics de coopération intercommunale (EPCI) sont régis par le principe d'exclusivité. Ainsi, l'adhésion d'une commune à un syndicat intercommunal entraîne dessaisissement total de la compétence transférée et la commune ne peut plus intervenir en la matière (arrêt du Conseil d'État, 16 octobre 1970, commune de Saint-Vallier). Dans le cas où l'ouvrage d'interconnexion de réseaux évoqué dans la question entre dans le champ de la compétence du syndical intercommunal en matière de distribution d'eau et d'assainissement, celui-ci est alors seul responsable de sa gestion et n'a pas à en fixer les conditions par une convention avec la commune dessaisie de sa compétence. En revanche, si l'ouvrage n'entre pas dans le champ de la compétence transférée mais que la commune souhaite que le syndicat le gère pour son compte, sa gestion est possible dans le cadre d'une prestation de services et sous certaines conditions. En premier lieu, le syndicat intercommunal doit être autorisé par ses statuts à réaliser des prestations de service dont la nature et les bénéficiaires doivent être précisément définis. En outre, ces activités doivent toujours se situer dans le prolongement des compétences de l'EPCI, le transfert de compétences étant constitutif des établissements publics de coopération intercommunale et les interventions pour compte d'autrui ne pouvant constituer que l'accessoire de ce qui est la vocation première d'un tel établissement. Enfin, conformément aux dispositions du code des marchés publics, les prestations de services réalisées par un EPCI doivent être soumises aux règles de la concurrence.
