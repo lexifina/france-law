@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701171
+
+- Question : [SEQ070701171](seq070701171.md) — Allocation de remplacement et congé d'adoption des non salariées agricoles
+
+## Réponse
+
+*Agriculture, JO du 2007-09-27, page 1709*
+
+Les conditions relatives à l'attribution et à !a durée de l'allocation de remplacement pour le congé de maternité des exploitantes agricoles, fixées par les articles L. 732-10 à L. 732-14 et R. 732-17 du code rural, sont moins favorables, dans certains cas, que celles applicables aux salariées. Conscient des difficultés rencontrées par les jeunes non salariées agricoles qui désirent concilier maternité et travail sur l'exploitation, le ministre a proposé diverses mesures visant à aligner leur situation sur celle des salariées. Ainsi, deux mesures d'alignement figurent dans un projet de décret actuellement soumis au Conseil d'État : la prise en compte des durées d'assurances accomplies dans un autre régime que celui des non-salariés agricoles dans le délai de dix mois d'affiliation nécessaire pour bénéficier de l'allocation de remplacement, afin de ne pas pénaliser les agricultrices nouvellement installées et le report de tout ou partie de la période de remplacement en cas d'hospitalisation de l'enfant. Un projet de décret en Conseil d'État, en cours d'élaboration, permettra de reporter le bénéfice de l'allocation de remplacement de la période prénatale à la période postnatale, dans la limite de trois semaines, à l'instar de ce qui est prévu pour le régime général depuis la loi du 5 mars 2007. Enfin, le ministre proposera, dans le cadre du projet de loi de financement de la sécurité sociale, que la durée de versement de l'allocation de remplacement soit alignée sur celle du congé de maternité des salariées, en particulier pour la naissance du troisième enfant et en cas de naissances multiples. Il proposera également l'attribution de l'allocation de remplacement au père en cas de décès de la mère du fait de l'accouchement.
