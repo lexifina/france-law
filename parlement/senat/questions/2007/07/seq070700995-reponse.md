@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700995
+
+- Question : [SEQ070700995](seq070700995.md) — Legs à un parti politique ayant le statut d'association
+
+## Réponse
+
+*Intérieur, JO du 2007-09-27, page 1727*
+
+Ainsi que le confirme le neuvième rapport d'activité de la Commission nationale des comptes de campagne et des financements politiques, celle-ci a, lors de sa séance du 11 juillet 2005, estimé que les partis politiques pouvaient recevoir des legs, d'une part, parce que les partis politiques se forment et exercent leur activité librement, aux termes de l'article 4 de la Constitution, et qu'ils ne sont donc pas soumis à la procédure de déclaration des legs mise en place à l'égard des autres associations régies par la loi du 1er juillet 1901 et, d'autre part, parce que le financement des partis est encadré par la loi n° 88-227 du 11 mars 1988 dont l'article 7 dispose que les partis peuvent « acquérir à titre gratuit des biens meubles ou immeubles » : cette disposition n'exclut pas explicitement la possibilité pour les partis politiques de recevoir des legs et doit être interprétée comme l'autorisant. Par ailleurs, si des dispositions particulières ont été prises pour limiter les dons, aucun texte ne fixe les modalités de perception des legs par les partis. Il n'a notamment été prévu aucun plafond. C'est donc la procédure de droit commun qui s'applique. Il appartiendrait au législateur, s'il l'estimait souhaitable, de limiter cette liberté. Il apparaît néanmoins que seuls les partis politiques au sens de la loi du 11 mars 1988, tels qu'ils ont été définis par le Conseil d'État et le Conseil constitutionnel, peuvent percevoir librement des legs. La solution est identique que ces partis soient formés librement dans le cadre de la loi du 11 mars 1988 ou qu'ils soient déclarés dans le cadre de la loi du 1er juillet 1901 ou de la loi locale applicable aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
