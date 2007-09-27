@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700476
+
+- Question : [SEQ070700476](seq070700476.md) — Accessibilité des logements aux personnes handicapées
+
+## Réponse
+
+*Logement, JO du 2007-09-27, page 1734*
+
+La loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées renforce de manière significative les obligations en matière d'accessibilité et d'adaptabilité. Depuis le 1er janvier 2007, de nouvelles règles prises en application de cette loi s'appliquent notamment aux bâtiments d'habitation collectifs ou individuels, aux établissements recevant du public (ERP) et aux installations ouvertes au public (IOP). Le décret du 17 mai 2006, relatif à l'accessibilité des établissements recevant du public, des installations ouvertes au public et des bâtiments d'habitation, prévoit un dispositif de contrôle des constructions neuves et des travaux d'aménagement ou de modification des ERP. Celui-ci interviendra a posteriori pour les bâtiments d'habitation collectifs ou individuels, et a priori ainsi qu'a posteriori pour les ERP et les IOP. Pour les ERP, une autorisation préalable est délivrée au nom de l'État par le préfet ou le maire selon les cas, après avis de la commission consultative départementale de sécurité et d'accessibilité. Pour tous les bâtiments concernés, le contrôle a posteriori se traduit par l'obligation imposée au maître d'ouvrage de toute construction neuve soumise à un permis de construire de faire établir, à la fin des travaux, une attestation visant à apprécier la conformité aux règles d'accessibilité des travaux réalisés. Celle-ci devra être produite par un professionnel compétent et nécessairement indépendant de la maîtrise d'ouvrage du bâtiment concerné. Compte tenu des délais des procédures, il est encore trop tôt pour pouvoir disposer d'un retour sur leur nombre et leurs résultats.
