@@ -12,6 +12,8 @@ A2FL - s1 en plancher, au sol.
 
 Lorsque les produits concernés ne sont pas encore marqués CE, le classement M0 peut également attester de la performance requise ;
 
+Lorsque des produits combustibles, connexes aux isolants incorporés aux parois, sont associés en usine ou sur chantier aux isolants précités, l'ensemble composite obtenu est réputé répondre aux objectifs de sécurité du présent article et du guide d'emploi des isolants combustibles dans les établissements recevant du public à condition que les produits combustibles rapportés ne soient pas en contact avec l'air ambiant.
+
 b) Etre protégés par un écran thermique disposé sur la ou les faces susceptibles d'être exposées à un feu intérieur au bâtiment. Cet écran doit jouer son rôle protecteur, vis-à-vis de l'action du programme thermique normalisé, durant au moins :
 
 1/4 heure pour les parois verticales et les sols ;
@@ -24,4 +26,4 @@ Le "guide d'emploi des isolants combustibles dans les établissements recevant d
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 6 octobre 2004 (NOR : INTE0400842A), ces dispositions sont applicables à compter de leur publication ; toutefois, à titre transitoire, les dispositions du présent article, dans leur rédaction issue de l'arrêté du 10 juillet 1987, pourront être appliquées jusqu'au 31 décembre 2005.
+Arrêté du 4 juillet 2007 annexe : L'application de l'article AM 8 aux revêtements d'isolation acoustique est suspendue pour une durée d'un an.
