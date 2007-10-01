@@ -2,15 +2,15 @@
 
 I. - 1. - Sont déductibles du revenu net global, dans les conditions et limites mentionnées au 2, les cotisations ou les primes versées par chaque membre du foyer fiscal :
 
-a) aux plans d'épargne retraite populaire créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
+a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code des assurances portant réforme des retraites ;
 
-b) à titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs et non par un groupement d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, et sous réserve, d'une part, que ces contrats respectent les règles applicables au plan d'épargne retraite populaire défini par le même article, à l'exception des V et XII du même article, et à condition, d'autre part :
+b) à titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs et non par un groupement d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances, et sous réserve, d'une part, que ces contrats respectent les règles applicables au plan d'épargne retraite populaire défini par le même article, à l'exception des V et XII du même article, et à condition, d'autre part :
 
 1° que le contrat prévoie les modalités de financement des missions du comité de surveillance ;
 
 2° que les représentants du ou des employeurs au comité de surveillance ne détiennent pas plus de la moitié des voix et qu'au moins deux sièges soient réservés, le cas échéant, à un représentant élu des participants retraités et à un représentant élu des participants ayant quitté l'employeur ou le groupement d'employeurs ;
 
-3° que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populaire défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un autre contrat respectant les règles fixées au b ;
+3° que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populaire défini à l'article L. 144-2 du code des assurances ou vers un autre contrat respectant les règles fixées au b ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/CEE et 92/96/CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité.
 
@@ -20,7 +20,7 @@ c) Au régime de retraite complémentaire institué par la Caisse nationale de p
 
 2° et le montant cumulé des cotisations ou primes déductibles en application du 2° de l'article 83 ou, au titre de la retraite supplémentaire, du 2°-0 bis et, au titre de la retraite, du 2°-0 ter y compris les versements de l'employeur, des cotisations ou primes déductibles au titre du 1° du II de l'article 154 bis, de l'article 154 bis-0 A et du 13° du II de l'article 156 compte non tenu de leur fraction correspondant à 15 % de la quote-part du bénéfice comprise entre une fois et huit fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, ainsi que des sommes versées par l'entreprise au plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées en application du 18° de l'article 81.
 
-Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte (1).
+Les membres d'un couple marié ou les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code civil, soumis à imposition commune, peuvent déduire les cotisations ou primes mentionnées au 1, dans une limite annuelle égale au total des montants déductibles pour chaque membre du couple ou chaque partenaire du pacte.
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
 
@@ -43,7 +43,3 @@ II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I 
 2. - Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9 de l'article 93 ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
-
-NOTA :
-
-NOTA : (1) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2007.
