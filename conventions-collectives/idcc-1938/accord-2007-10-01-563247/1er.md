@@ -1,0 +1,3 @@
+# Article 1er
+
+Le barème national des salaires minima garantis est fixé au 1er octobre 2007 et 1er janvier 2008 comme défini à la grille ci-après annexée qui prend en compte une augmentation de 0,8 % de tous les coefficients au 1er octobre et une deuxième augmentation au 1er janvier 2008 de 1,211 % sur les coefficients 120 à 195 et de 0,9 % sur les coefficients suivants. La grille précise les salaires minima mensuels pour un salarié effectuant 35 heures de travail effectif par semaine ou 151,67 heures par mois. Ce salaire minimum inclut le salaire de base et le cas échéant le complément différentiel.
