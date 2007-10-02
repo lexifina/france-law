@@ -1,93 +1,179 @@
-# Article ANNEXE
+# Article ANNEXE 1
 
-CATÉGORIES DE JURYS d'examens, de diplômes ou de concours
+Catégories de jury pour
 
-CLASSEMENT dans les groupes
+|
 
-RÉPARTITION DES ÉPREUVES
+Classement dans les groupes
 
-Taux n° 1 (taux majoré)
+|
 
-Taux n° 2 (taux normal)
+Épreuves certification
 
-Jury d'examen de sélection pour l'accès au cycle de formation préparatoire au certificat d'aptitude aux fonctions de directeur d'établissement social.
+Taux majoré
 
-II
+|
 
-Composition sur un sujet en lien avec les idées et les faits sociaux contemporains.
+DEIS
 
-Note de synthèse à partir d'un dossier d'actualité.
+Diplôme d'État en ingénierie sociale.
 
-Jury d'examen du diplôme supérieur en travail social.
+|
 
-II
+1
 
-Epreuve écrite individuelle relative à l'axe " politiques sociales et action sociale ".
+|
 
-Jury d'examen du diplôme d'Etat d'assistant de service social.
+Épreuve écrite "communication ressources humaines ".
 
-III
+|
 
-Epreuve de synthèse d'un dossier.
+CAFERUIS
 
-Jury d'examen du diplôme d'Etat d'assistant de service social pour les personnes non ressortissantes d'un Etat membre des Communautés européennes, titulaires d'un diplôme de service social reconnu par arrêté du ministre chargé des affaires sociales.
+Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale.
 
-III
+|
 
-Jury d'examen de l'épreuve d'aptitude pour l'accès à la profession d'assistant de service social des ressortissants d'un Etat membre des Communautés européennes mentionnés à l'article 6 du décret n° 80-334 du 6 mai 1980 modifié.
+2
 
-III
+|
 
-Epreuve écrite portant sur la compréhension du contexte social français.
+Épreuve écrite "gestion administrative et budgétaire ".
 
-Jury d'examen de validation du stage d'adaptation pour l'accès à la profession d'assistant de service social des ressortissants d'un Etat membre des Communautés européennes mentionnés à l'article 6 du décret n° 80-334 du 6 mai 1980 modifié.
+|
 
-III
+DEMF
 
-Jury d'examen du diplôme d'Etat d'éducateur de jeunes enfants.
+Diplôme d'État de médiateur familial.
 
-III
+|
 
-Epreuve écrite de psychopédagogie.
+2
 
-Autres épreuves écrites.
+|
 
-Jury d'examen visant à apprécier le niveau de formation générale des candidats aux sélections des centres de formation préparant aux diplômes d'Etat d'assistant de service social, d'éducateur spécialisé et d'éducateur de jeunes enfants.
+|
 
-III
+DEASS
 
-Rédaction d'un exposé portant sur une question d'ordre général.
+Diplôme d'État d'assistant de service social.
 
-Autres épreuves écrites.
+|
 
-Jury du concours interne pour le recrutement de cadres socio-éducatifs de la fonction publique hospitalière.
+3
 
-III
+|
 
-Note de synthèse à partir d'un dossier portant sur l'action d'un établissement dans le dispositif sanitaire et social environnant.
+Note sur la connaissance des politiques sociales.
 
-Jury d'examen de l'attestation nationale de compétence aux fonctions de formateur de terrain intervenant dans le cadre de certaines formations préparant à des certificats ou diplômes d'Etat en travail social.
+|
 
-III
+DEEJE
 
-Jury d'examen du diplôme d'Etat de technicien de l'intervention sociale et familiale.
+Diplôme d'État d'éducateur de jeunes enfants.
 
-IV
+|
 
-Epreuve écrite individuelle sur un sujet en lien avec le programme de l'unité de formation " connaissances spécifiques des publics aidés ".
+3
 
-Ecrit d'une monographie.
+|
 
-Jury d'examen du certificat d'aptitude aux fonctions d'aide à domicile.
+Note de synthèse.
 
-V
+|
 
-Epreuve écrite portant sur un sujet d'ordre professionnel.
+DETISF
 
-Jury d'examen du certificat d'aptitude aux fonctions d'aide médico-psychologique.
+Diplôme d'État de technicien de l'intervention sociale et familiale.
 
-V
+|
 
-Note de réflexion sur la pratique professionnelle.
+3
 
-Autres épreuves écrites.
+|
+
+Note sur la contribution au développement de la dynamique familiale.
+
+|
+
+Examen de niveau préparant aux diplômes d'État d'assistant de service social, d'éducateur spécialisé et d'éducateur de jeunes enfants.
+
+|
+
+3
+
+|
+
+|
+
+Épreuve d'aptitude pour l'accès à la profession d'assistant de service social des ressortissants d'un État membre de l'Union européenne mentionné par l'arrêté du 17 décembre 2004.
+
+|
+
+3
+
+|
+
+|
+
+Validation de stage d'adaptation pour l'accès à la profession d'assistant de service social des ressortissants d'un État membre et autres que ceux de l'Union européenne mentionné par l'arrêté du 17 décembre 2004.
+
+|
+
+3
+
+|
+
+|
+
+Attestation nationale de compétence aux fonctions de formateur de terrain.
+
+|
+
+3
+
+|
+
+|
+
+DEAMP
+
+Diplôme d'État d'aide médico-psychologique.
+
+|
+
+4
+
+|
+
+Note de réflexion sur une problématique professionnelle.
+
+|
+
+DEAVS
+
+Diplôme d'État d'auxiliaire de vie sociale.
+
+|
+
+4
+
+|
+
+3 questions écrites.
+
+|
+
+DEAF
+
+Diplôme d'État d'assistant familial.
+
+|
+
+4
+
+|
+
+Étude de cas.
+
+|
