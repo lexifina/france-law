@@ -1,0 +1,5 @@
+# Article 1er
+
+Le présent avenant a pour objet d'actualiser les dispositions de la convention collective nationale du commerce de détail et de gros à prédominance alimentaire relatives au compte épargne-temps.
+
+Les modifications apportées sont présentées dans l'ordre chronologique des titres et articles existants.
