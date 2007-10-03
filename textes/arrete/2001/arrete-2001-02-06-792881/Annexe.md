@@ -50,11 +50,31 @@ sur l'étiquetage
 
 |
 
-Acide benzoïque, ses sels et ses esters (*).
+Acide benzoïque (n° CAS 65-85-0)son sel de sodium (n° CAS 532-32-1).
 
 |
 
-0,5 % (en acide).
+Produits rincés, sauf d'hygiène buccale : 2,5 % (acide).
+
+Produits d'hygiène buccale : 1,7 % (acide).
+
+Produits non rincés : 0,5 (acide)
+
+|
+
+|
+
+|
+
+1a
+
+|
+
+Les sels d'acide benzoique autres que ceux listés sous le numéro d'ordre 1 et les esters d'acide benzoique
+
+|
+
+0,5 % (acide)
 
 |
 
@@ -66,7 +86,7 @@ Acide benzoïque, ses sels et ses esters (*).
 
 |
 
-Acide propionique et ses sels (*).
+Acide propionique et ses sels.
 
 |
 
@@ -102,11 +122,11 @@ Ne pas employer pour les soins d'enfants en dessous de trois ans (1).
 
 |
 
-Acide sorbique et ses sels (*).
+Acide sorbique et ses sels.
 
 |
 
-0,6% (en acide).
+0,6 % (en acide).
 
 |
 
@@ -118,13 +138,13 @@ Acide sorbique et ses sels (*).
 
 |
 
-Formaldéhyde et paraformaldéhyde.
+Formaldéhyde et paraformaldéhyde (*).
 
 |
 
-0,2% (sauf pour hygiène buccale).
+0,2 % (sauf pour hygiène buccale).
 
-0,1% (pour hygiène buccale).
+0,1 % (pour hygiène buccale).
 
 Concentrations exprimées en formaldéhyde libre.
 
@@ -140,11 +160,11 @@ Interdits dans les aérosols (sprays).
 
 |
 
-0-Phénylphénol et ses sels (*).
+0-Phénylphénol et ses sels.
 
 |
 
-0,2% (en phénol).
+0,2 % (en phénol).
 
 |
 
@@ -156,15 +176,19 @@ Interdits dans les aérosols (sprays).
 
 |
 
-Sels de zinc du pyridine-1-oxy-2-thiol (*) (pyrithione de zinc).
+Pyrithione de zinc (*) (n° CAS 13463-41-7)
 
 |
 
-0,5 %.
+Produits capillaires : 1,0 %
+
+Autres produits : 0,5 %
 
 |
 
-Autorisés dans les produits rincés après usage. Interdits dans les produits pour les soins buccaux.
+Uniquement pour les produits rincés.
+
+Pas d'utilisation dans les produits d'hygiène buccale.
 
 |
 
@@ -183,24 +207,6 @@ niques (*).
 0,2 % (en SO, libre),
 
 |
-
-|
-
-|
-
-10
-
-|
-
-Iodate sodique.
-
-|
-
-0,1 %.
-
-|
-
-Uniquement pour les produits rincés.
 
 |
 
@@ -230,7 +236,7 @@ Contient du chlorobutanol.
 
 |
 
-Acide parahydroxybenzoïque, ses sels et esters (*).
+Acide parahydroxybenzoïque, ses sels et esters.
 
 |
 
@@ -266,7 +272,7 @@ Interdits dans les aérosols (sprays).
 
 |
 
-Acide formique et son sel de sodium (*).
+Acide formique et son sel de sodium.
 
 |
 
@@ -340,7 +346,7 @@ Contient des composés phénylmercuriques.
 
 |
 
-Acide undécylénique et ses sels (*).
+Acide undécylénique et ses sels.
 
 |
 
@@ -356,7 +362,7 @@ Acide undécylénique et ses sels (*).
 
 |
 
-Amino-5-bis (éthyl-2-hexyl)- 1,3 méthyl-5-perhydropyrimidine (*) (Hexétidine).
+Amino-5-bis (éthyl-2-hexyl)- 1,3 méthyl-5-perhydropyrimidine(Hexétidine).
 
 |
 
@@ -390,7 +396,7 @@ Uniquement pour les produits rincés. Eviter la formation de nitrosamines.
 
 |
 
-Bromo-2 nitro-2 propanediol 1,3 (Bronopol) (*).
+Bromo-2 nitro-2 propanediol 1,3 (Bronopol).
 
 |
 
@@ -408,7 +414,7 @@ Eviter la formation de nitrosa­mines.
 
 |
 
-Alcool dichloro-2,4-benzylique (*).
+Alcool dichloro-2,4-benzylique.
 
 |
 
@@ -446,7 +452,7 @@ Critères de pureté :
 
 |
 
-Parachloro-métacrésol (*).
+Parachloro-métacrésol.
 
 |
 
@@ -464,7 +470,7 @@ Interdit dans les produits destinés à entrer en contact avec les muqueuses.
 
 |
 
-Trichloro-2,4,4' hydroxy-2 diphényl-éther (*) (Triclosan).
+Trichloro-2,4,4' hydroxy-2 diphényl-éther (Triclosan).
 
 |
 
@@ -480,7 +486,7 @@ Trichloro-2,4,4' hydroxy-2 diphényl-éther (*) (Triclosan).
 
 |
 
-Parachlorométaxylénol (*).
+Parachlorométaxylénol.
 
 |
 
@@ -496,7 +502,7 @@ Parachlorométaxylénol (*).
 
 |
 
-Imidazolidinyl urée (*)
+Imidazolidinyl urée
 
 |
 
@@ -512,7 +518,7 @@ Imidazolidinyl urée (*)
 
 |
 
-Polyhexaméthylène biguanide (chlorohydrate de) (*).
+Polyhexaméthylène biguanide (chlorohydrate de).
 
 |
 
@@ -528,7 +534,7 @@ Polyhexaméthylène biguanide (chlorohydrate de) (*).
 
 |
 
-Phénoxy-2-éthanol (*).
+Phénoxy-2-éthanol.
 
 |
 
@@ -544,7 +550,7 @@ Phénoxy-2-éthanol (*).
 
 |
 
-Hexaméthylène tétramine (*) (Méthénamine).
+Hexaméthylène tétramine (Méthénamine).
 
 |
 
@@ -576,7 +582,7 @@ Chlorure de 1-(3-chloroallyl)-3,5,7-triaza-1-azonia adamantane.
 
 |
 
-1-Imidazolyl-1-(4-chlorophénoxy) 3,3-diméthyl-butane-2-one (*).
+1-Imidazolyl-1-(4-chlorophénoxy) 3,3-diméthyl-butane-2-one.
 
 |
 
@@ -592,7 +598,7 @@ Chlorure de 1-(3-chloroallyl)-3,5,7-triaza-1-azonia adamantane.
 
 |
 
-Diméthylol, diméthylhydantoïne (*}.
+Diméthylol, diméthylhydantoïne.
 
 |
 
@@ -624,7 +630,7 @@ Alcool benzylique (*).
 
 |
 
-1-Hydroxy-4-méthyl-6 (2,4,4-triméthylpentyl) 2-pyridone et son sel de monoéthanclamine (*)-
+1-Hydroxy-4-méthyl-6 (2,4,4-triméthylpentyl) 2-pyridone et son sel de monoéthanclamine
 
 |
 
@@ -637,24 +643,6 @@ Alcool benzylique (*).
 Pour les produits rincés.
 
 Pour les autres produits.
-
-|
-
-|
-
-36
-
-|
-
-1,2-Dibromo-2,4-dicyanobutane.
-
-|
-
-0,1 %.
-
-|
-
-Ne pas employer dans les produits de protection solaire à une concentration supérieure à 0,025 %.
 
 |
 
@@ -752,7 +740,7 @@ Contient du chloroacétamide.
 
 |
 
-Bis-(p-chlorophényldiguanide)-1,6 hexane: acétate, gluconate et chlorhydrate (*)Chlorhexidine).
+Bis-(p-chlorophényldiguanide)-1,6 hexane: acétate, gluconate et chlorhydrate (Chlorhexidine).
 
 |
 
@@ -768,7 +756,7 @@ Bis-(p-chlorophényldiguanide)-1,6 hexane: acétate, gluconate et chlorhydrate (
 
 |
 
-Phénoxypropanol.
+Phénoxypropanol (*).
 
 |
 
@@ -838,7 +826,7 @@ urée.
 
 |
 
-1,6-Di (4-amidinophénoxy)-n-hexane (hexamidine) et ses sels (incluant l'iséthionate et le para-hydroxybenzoate) (*).
+1,6-Di (4-amidinophénoxy)-n-hexane (hexamidine) et ses sels (incluant l'iséthionate et le para-hydroxybenzoate)
 
 |
 
@@ -1000,34 +988,58 @@ Uniquement pour les produits à éliminer par rinçages.
 
 |
 
+Iodopropynyl butycarbamate (IPBC)
+
 Carbamate de 3-iodo-2-propynylbutyle.
 
 |
 
-0,05 %.
+a) Produits rincés : 0,02 %
+
+b) Produits non rincés : 0,01 %, sauf dans les déodorants/anterspirants : 0,007 5 %
 
 |
 
-1. Ne pas utiliser pour les produits d'hygiène buccale et les produits pour les lèvres.
+Ne pas utiliser pour les produits d'hygiène buccale et les produits pour les lèvres.
 
-2. Si la concentration dans les produits destinés à demeurer sur la peau dépasse 0,02 %, ajouter la mention : contient de l'iode.
+a) Ne pas utiliser dans des préparations destinées à des enfants âgés de moins de 3 ans, sauf dans des produits de bains/des gels douche et des shampooings.
+
+b) Ne pas utiliser dans les lotions et crèmes pour le corps (2)
+
+Ne pas utiliser dans des préparations destinées à des enfants âgés de moins de 3 ans
 
 |
 
-Contient de l'iode.
+a) Ne pas utiliser pour des enfants âgés de moins de 3 ans (3)
+
+b) Ne pas utiliser pour des enfants âgés de moins de 3 ans (4)
 
 |
 
-57 |
+57
 
-Méthylisothiazolinone (INCI) |
+|
 
-0,01 % |
+Méthylisothiazolinone (INCI)
+
+|
+
+0,01 %
+
+|
 
 |
 
 |
 
 (1) Uniquement pour les produits qui pourraient éventuellement être utilisés pour les soins d'enfants en dessous de 3 ans et qui restent en contact prolongé avec la peau.
+
+(2) Concerne tous les produits destinés à être appliqués sur une partie étendue du corps.
+
+(3) Uniquement pour les produits, autres que les produits de bains/gels douche et shampooings, susceptibles d'être utilisés pour des
+
+enfants âgés de moins de 3 ans.
+
+(4) Uniquement pour les produits susceptibles d'être utilisés pour des enfants âgés de moins de 3 ans.
 
 |
