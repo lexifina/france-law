@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700945
+
+- Question : [SEQ070700945](seq070700945.md) — Service public du permis de conduire
+
+## Réponse
+
+*Transports, JO du 2007-10-04, page 1782*
+
+Le Gouvernement est déterminé à améliorer les conditions de passage de l'examen du permis de conduire. Ces dernières années, l'effectif du corps des inspecteurs du permis de conduire et de la sécurité routière a crû de 53 %, soit une évolution sans aucun équivalent dans les autres corps de la fonction publique d'État. Cet effort a été poursuivi en 2007, avec le recrutement de cinquante-cinq inspecteurs du permis de conduire, par la création de quinze postes supplémentaires et le renouvellement de tous les postes vacants. À court terme, et pour répondre de manière concrète aux difficultés observées, des mesures ont été prises pour augmenter la capacité opérationnelle de l'effectif des inspecteurs en termes d'examen, tout spécialement pendant ce second semestre 2007. Des instructions ont été données aux services déconcentrés en charge du permis de conduire pour que la priorité soit donnée au passage des épreuves théoriques et pratiques. L'offre mensuelle de places augmente ainsi de 6 %. Par ailleurs, il sera possible d'organiser des examens supplémentaires pour répondre aux situations les plus criantes. D'importants efforts viennent d'être demandés aux personnels en charge de l'organisation et du déroulement des examens du permis de conduire. Il est par conséquent primordial que les écoles de conduite fassent bon usage des places d'examen qui vont ainsi être débloquées. Elles doivent dispenser une formation complète et présenter des candidats ayant réellement atteint le niveau requis le jour de l'examen. À cet égard, il a été demandé aux responsables locaux de l'éducation routière de maintenir avec les exploitants des écoles de conduite une concertation permanente pour une meilleure gestion de leurs difficultés.
