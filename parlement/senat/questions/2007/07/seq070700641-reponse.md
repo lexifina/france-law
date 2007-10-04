@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700641
+
+- Question : [SEQ070700641](seq070700641.md) — Situation préoccupante de la psychiatrie
+
+## Réponse
+
+*Santé, JO du 2007-10-04, page 1782*
+
+À ce jour, la plupart des études épidémiologiques évaluent la prévalence sur un an des troubles mentaux en France entre 15 % et 20 %. L'augmentation observée depuis plusieurs années de la demande adressée aux professionnels de la psychiatrie et de la santé mentale traduit cependant moins une augmentation des troubles eux-mêmes qu'un changement global de la perception de la psychiatrie et des psychiatres, qui amplifie la connaissance du fait psychique et permet l'expression de la demande. C'est pour répondre à cette priorité de santé publique que le plan psychiatrie et santé mentale, qui couvre une période de quatre ans, a été adopté en avril 2005. Ce plan, qui prévoit un effort financier total de 288 MEUR sur la période 2005-2008, est complété par un volet investissement particulièrement important puisque l,5 milliard d'euros sera attribué sur la période 2006-2010. Cela permettra d'améliorer les conditions d'accueil et de prise en charge des patients à la fois en hospitalisation, mais également sous des formes ambulatoires ou à temps partiel. Les premiers bilans montrent que cette politique nationale a été bien relayée au niveau régional. Les budgets affectés aux établissements ayant une activité de psychiatrie en 2005 (36 MEUR) ont été supérieurs aux crédits annuels prévus (21 MEUR) et cette tendance s'est poursuivie durant la deuxième année de mise en oeuvre du plan. Cela s'est notamment traduit par le financement important de postes de médecins (78 postes sur un an) et de professionnels paramédicaux (603 postes sur un an). La montée en charge de cette politique en 2007 et 2008 sera continue et s'appuiera sur le développement de l'articulation entre les établissements sanitaires, sociaux et médico-sociaux.
