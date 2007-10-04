@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700606
+
+- Question : [SEQ070700606](seq070700606.md) — Constructibilité sur les terrains classés en zone naturelle
+
+## Réponse
+
+*Écologie, JO du 2007-10-04, page 1769*
+
+Le code de l'urbanisme prévoit que les zones protégées en raison de la valeur agricole des sols, qu'il s'agisse des zones NC des anciens plans d'occupation des sols ou des zones A des plans locaux d'urbanisme, ne peuvent recevoir que des constructions nécessaires à l'exploitation agricole, ce qui exclut les permis de construire pour des bâtiments neufs non agricoles. Aucune dérogation à ce dispositif n'est prévue dans la mesure où les constructions, dont il est question ici, ne sont pas des constructions nécessaires à l'activité agricole. Toutefois, l'article R. 123-8 du code de l'urbanisme peut apporter une solution au problème posé par la construction des abris non fermés destinés à protéger les animaux en cas d'intempérie sur des terrains non voués à l'activité agricole et situés en zone A. Il prévoit, en effet, la possibilité, de créer au sein des zones A, des secteurs naturels (zone N), de taille et de capacité d'accueil limitées, dans lesquels les constructions non agricoles sont autorisées. Lors de l'élaboration ou de la révision de son plan local d'urbanisme, la commune a donc la possibilité, en concertation avec les représentants de l'agriculture et notamment, les chambres d'agriculture qui sont obligatoirement associées à l'élaboration et la révision des documents d'urbanisme, de classer en zone N certains secteurs situés au sein d'une zone A ; ceci peut s'appliquer à des secteurs de taille modeste, voire réduits à une parcelle. La loi laisse une totale liberté aux communes dans ce domaine. La seule exigence est que les critères sur lesquels la commune fonde son choix soient explicites.
