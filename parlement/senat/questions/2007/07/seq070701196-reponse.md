@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701196
+
+- Question : [SEQ070701196](seq070701196.md) — Adaptation de la réglementation en matière d'épandage
+
+## Réponse
+
+*Agriculture, JO du 2007-10-04, page 1765*
+
+Un arrêt du Conseil d'État en date du 19 juin 2006 a annulé la partie de l'arrêté du 2 février 2005 fixant les règles techniques auxquelles doivent satisfaire les élevages soumis à déclaration relative aux distances d'interdiction des épandages des effluents animaux par rapport aux piscicultures peu intensives, non soumises à la réglementation des installations classées par la protection de l'environnement (ICPE). Ces distances étaient inférieures à celles prévues pour les piscicultures soumises à la réglementation ICPE. De ce fait, le ministère de l'écologie, du développement et de l'aménagement durables, compétent en matière d'installations classées pour l'environnement, a dû fixer une distance unique d'interdiction d'épandage des effluents, de 500 m par rapport aux piscicultures, quel que soit le régime réglementaire dont elles relèvent. Dans les régions, comme le Limousin, où les lacs et étangs dans lesquels est pratiquée une pisciculture peu intensive sont nombreux, les possibilités d'épandage des effluents d'élevage sont fortement réduites. Le ministère de l'agriculture et de la pêche a saisi de ce problème le ministère de l'écologie, du développement et de l'aménagement durables. Le comité d'orientation pour des pratiques agricoles respectueuses de l'environnement (CORPEN) a été consulté afin d'apporter son expertise sur toutes les distances d'interdiction des épandages par rapport aux points d'eau. Un premier avis devrait être formulé courant octobre. Sa réponse devrait permettre de fixer ces distances d'une manière plus objective, en lien avec le risque réellement encouru.
