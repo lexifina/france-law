@@ -46,9 +46,11 @@ Secrétaires administratifs des services déconcentrés des anciens combattants 
 
 Secrétaires administratifs des services judiciaires.
 
+Secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle.
+
 Secrétaires administratifs du ministère de la culture et de la communication.
 
-Secrétaires administratifs des affaires sanitaires et sociales.
+Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
 Secrétaires d'administration scolaire et universitaire de l'enseignement agricole.
 
@@ -75,3 +77,7 @@ Secrétaires administratifs du Conseil économique et social.
 Secrétaires administratifs des juridictions financières.
 
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
+
+NOTA :
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
