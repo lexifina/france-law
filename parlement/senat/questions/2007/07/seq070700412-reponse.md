@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700412
+
+- Question : [SEQ070700412](seq070700412.md) — Sécurisation des données économiques
+
+## Réponse
+
+*Intérieur, JO du 2007-10-11, page 1827*
+
+L'une des missions historiques de la direction de la surveillance du territoire est de veiller à la protection du patrimoine technologique, scientifique et industriel français afin d'assurer la souveraineté de l'État. Les services de cette direction sont en contact permanent avec près de 4 000 entreprises (grands groupes, MPE, PMI), laboratoires, instituts et universités, qui évoluent dans les secteurs stratégiques et sensibles tels que l'énergie, l'armement, les biotechnologies, l'aéronautique, l'espace ou les technologies de l'information et de la communication, pour leur apporter un soutien opérationnel et technique. Des liens personnalisés sont établis avec les établissements suivis, ce qui permet d'aborder de manière interactive les problématiques particulières auxquelles ils peuvent être confrontés. Des conférences de sensibilisation sont également organisées sur l'ensemble du territoire. Elles ont pour objet de faire prendre conscience à l'auditoire des nouveaux enjeux de la concurrence économique internationale. Une conférence dite « générale » présente l'action de la direction de la surveillance du territoire. Elle a vocation à sensibiliser les auditeurs aux différentes menaces (déstabilisation, concurrence déloyale, espionnage par exemple) et à leur proposer des parades à adopter afin de se prémunir contre ces risques. Une conférence plus spécifique dénommée « informatique » sensibilise l'auditoire aux vulnérabilités et aux risques présentés par les nouveaux systèmes d'information et de communication. Ces conférences, qui touchent un public toujours plus nombreux, rencontrent un accueil très favorable et suscitent de nombreuses réactions de la part de l'assistance.
