@@ -78,7 +78,7 @@ Fonctions administratives correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales.
+Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
 |
 
@@ -92,11 +92,11 @@ Fonctions techniques ou administratives correspondant à celles dévolues au cor
 
 |
 
-Adjoints sanitaires ou adjoints administratifs des services déconcentrés.
+Adjoints sanitaires ou adjoints administratifs des administrations de l'Etat.
 
 |
 
-2. Au sein de la catégorie II, au moins au 7e échelon du principalat (agents sanitaires ou administratifs).
+2. Au sein de la catégorie II, au moins au 7e échelon du principalat (adjoints sanitaires ou administratifs).
 
 |
 
@@ -104,7 +104,7 @@ Fonctions techniques ou administratives correspondant à celles dévolues au cor
 
 |
 
-Agents sanitaires ou agents administratifs des services déconcentrés.
+Adjoints sanitaires ou agents administratifs des services déconcentrés.
 
 |
 

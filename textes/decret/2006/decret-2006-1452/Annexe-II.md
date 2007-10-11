@@ -80,7 +80,7 @@ Fonctions administratives correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales.
+Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
 |
 
@@ -112,7 +112,7 @@ Fonctions administratives correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Adjoints administratifs des services déconcentrés.
+Adjoints administratifs des administrations de l'Etat.
 
 |
 
@@ -124,7 +124,7 @@ Fonctions techniques correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Agents sanitaires.
+Adjoints sanitaires.
 
 |
 
@@ -144,6 +144,6 @@ Fonctions administratives correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Agents administratifs des services déconcentrés.
+Adjoints administratifs des administrations de l'Etat.
 
 |
