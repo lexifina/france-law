@@ -282,7 +282,7 @@ Décisions de règlement amiable des demandes en indemnités mettant en cause la
 
 |
 
-Code de l'éducation.
+Code de l'éducation
 
 1
 
@@ -645,5 +645,17 @@ Décisions de règlement amiable des demandes d'indemnité mettant en cause la r
 Décisions à caractère financier prises pour l'exécution des décisions de justice, pour les litiges relevant de la compétence de l'administration centrale.
 
 |
+
+|
+
+3
+
+|
+
+Agrément pris par le ministre chargé de la recherche en vue de l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement.
+
+|
+
+Article R. 532-1 du code de l'environnement
 
 |
