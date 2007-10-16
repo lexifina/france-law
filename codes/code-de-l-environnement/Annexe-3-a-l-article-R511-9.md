@@ -40,7 +40,7 @@ Coef.
 
 |
 
-Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %, nitrique à plus de 20 % mais à moins de 70 %, phosphorique à plus de 10 %, sulfurique à plus de 25 %, anhydride phosphorique (emploi ou stockage de).
+Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %, nitrique à plus de 20 % mais à moins de 70 %, picrique à moins de 70 %, phosphorique, sulfurique à plus de 25 %, oxydes d'azote, anhydride phosphorique, oxydes de soufre, préparations à base d'acide acétique et d'anhydride acétique (emploi ou stockage de)
 
 |
 
@@ -486,7 +486,9 @@ b) supérieure ou égal à 104
 
 |
 
-2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 104
+2. La valeur de Q est égale ou supérieure à 1 et strictement
+
+inférieure à 104
 
 |
 
@@ -1042,7 +1044,7 @@ A
 
 |
 
-2. Entre 3 000 et 20 000 animaux sevrés
+2. Entre 3 000 et 20 000 animaux
 
 |
 
@@ -1056,7 +1058,9 @@ D
 
 |
 
-2111 (1)
+2111
+
+(1)
 
 |
 
@@ -1530,7 +1534,19 @@ A
 
 |
 
-Silos et installations de stockage de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables, y compris les stockages sous tente ou structure gonflable.
+Silos et installations de stockage de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. En silos ou installations de stockage
 
 |
 
@@ -1559,6 +1575,48 @@ A
 |
 
 b) si le volume total de stockage est supérieur à 5 000 m3, mais inférieur ou égal à 15 000 m3
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Sous structure gonflable ou tente
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) si le volume total de la structure gonflable ou de la tente est supérieur à 100 000 m3
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) si le volume total de la structure gonflable ou de la tente est supérieur à 10 000 m3, mais inférieur ou égal à 100 000 m3
 
 |
 
@@ -2564,7 +2622,7 @@ D
 
 |
 
-Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour les animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221, 2225 et 2226.
+Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, à l'exclusion des activités visées par les rubriques 2220, 2221, 2225 et 2226, mais y compris la fabrication d'aliments pour le bétail.
 
 |
 
@@ -2576,23 +2634,7 @@ Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, tritura
 
 |
 
-1. traitement et transformation destinés à la fabrication de produits alimentaires d'une capacité de production de produits finis supérieure à 300 t/j
-
-|
-
-A
-
-|
-
-3
-
-|
-
-|
-
-|
-
-2. Autres installations que celles visées au 1 :
+La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
 
 |
 
@@ -2606,7 +2648,7 @@ A
 
 |
 
-a) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 500 kW
+1. supérieure à 500 kW
 
 |
 
@@ -2640,7 +2682,7 @@ b) supérieure à 1 MW, mais inférieure à 5 MW
 
 |
 
-b) La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 100 kW mais inférieure ou égale à 500 kW
+2. supérieure à 100 kW, mais inférieure ou égale à 500 kW
 
 |
 
@@ -2658,7 +2700,7 @@ D
 
 |
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 |
 
@@ -4076,11 +4118,15 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 |
 
-2. sans objet
+2. Opérations de dragage des cours d'eau et plans d'eau (à l'exception des opérations présentant un caractère d'urgence destinées à assurer le libre écoulement des eaux), lorsque les matériaux sont utilisés et lorsqu'elles portent sur une quantité à extraire supérieure à 2 000 t
 
 |
 
+A
+
 |
+
+3
 
 |
 
@@ -5684,7 +5730,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -5746,7 +5792,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
 
 |
 
@@ -5924,7 +5970,7 @@ D
 
 |
 
-Engrais simples ou composés à base de phosphore, d'azote ou de potassium (fabrication industrielle par transformation chimique d').
+Superphosphates (fabrication des)
 
 |
 
@@ -6552,7 +6598,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi no 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
+Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi no 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
 
 |
 
@@ -6614,7 +6660,7 @@ Les organismes génétiquement modifiés visés sont ceux définis par la loi no
 
 |
 
-On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
+On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
 
 |
 
@@ -6630,7 +6676,7 @@ On entend par mise en oeuvre au sens de la présente rubrique toute opération o
 
 |
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
 
 |
 
@@ -6647,6 +6693,48 @@ Quelle que soit la capacité
 |
 
 8
+
+|
+
+2685
+
+|
+
+Médicaments (fabrication et division en vue de la préparation de) à usage humain ou vétérinaire, y compris jusqu'à obtention de la forme galénique, en dehors des officines de pharmacie non hospitalières :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Installations employant du personnel défini à l'article R. 5115-4 ou R. 5146-10 du code de la santé publique et non visées par d'autres rubriques de la nomenclature
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Sont également visés par cette rubrique les insecticides et acaricides à usage humain ou vétérinaire et les liquides pour adaptation de lentille de contact
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -7702,7 +7790,7 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 
 |
 
-1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
 
 |
 
@@ -7756,7 +7844,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -7981,6 +8069,12 @@ DC
 |
 
 |
+
+Nota. - Lorsqu'une substance non explicitement visée est susceptible d'être classée dans plusieurs rubriques, elle doit être classée dans la rubrique présentant les seuils les plus bas.
+
+(1) A : autorisation ; D : déclaration ; S : servitude d'utilité publique ; C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage exprimé en kilomètres.
 
 NOTA :
 
