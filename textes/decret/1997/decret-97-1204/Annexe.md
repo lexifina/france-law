@@ -1,284 +1,148 @@
 # Article Annexe
 
-TITRE Ier
+TITRE 1er
 
-Liste des décisions administratives
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES, PRISES AU TITRE DU CODE DE L'ENVIRONNEMENT, PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT SEUL OU CONJOINTEMENT AVEC UN OU PLUSIEURS MINISTRES
 
-individuelles prises par décret
+I. - Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
 
-Néant
-
-TITRE II
-
-Liste des décisions administratives indivi­duelles prises
-
-par un ministre ou conjointe­ment par plusieurs ministres
-
-1. Décisions administratives individuelles prises par le ministre chargé de l'environnement ou le ministre chargé de l'aménagement du territoire, conjointement avec un ou plusieurs ministres
-
-Décret n° 66-700 du 14 septembre 1966 modifié relatif aux agences financières de bassin créées par l'article 14 de la loi n° 64-1245 du 16 décembre 1964 modifiée
-
-1
+Livre IV
 
 |
 
-Approbation de certaines délibérations financières des agences financières de bassin relatives au budget, au compte financier, aux emprunts et aux conditions générales d'attributions de subventions et des prêts. Création de régies de recettes et de dépenses d'une agence.
-
-Décision prise par le ministre de l'environnement et le ministre chargé du bud­get.
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés marins protégés au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé des pêches maritimes.
 
 |
 
-Article 11, 2e alinéa, et article 16, 2e alinéa.
+Article R. 411-9
 
 |
 
-Décret n° 95-79 du 23 janvier 1995 fixant les prescriptions prévues par l'article 2 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit, aux objets bruyants et aux dispositifs d'insonorisation
+|
 
-1
+Autorisations d'introduction dans le milieu naturel d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application du I de l'article L. 411-3, lorsque cette introduction concerne des animaux ou des végétaux appartenant à des espèces qui, compte tenu de leur fort pouvoir de dissémination ou de colonisation, peuvent faire courir un risque particulièrement important au patrimoine naturel et à la diversité biologique. Décisions conjointes du ministre chargé de la protection de la nature et soit du ministre chargé de l'agriculture, soit, lorsqu'il s'agit d'espèces marines, du ministre chargé des pêches maritimes.
 
 |
 
-Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'objet d'une première mise sur le marché.
-
-Ministre de l'environnement, éventuellement conjointement avec un autre ministre.
+Article R. 411-36-I (2°, b)
 
 |
 
-Article 3 a.
+|
 
-Article 4, 4e alinéa.
+Autorisations d'introduction dans le milieu naturel d'animaux ou végétaux appartenant à des espèces figurant sur les listes établies en application du I de l'article L. 411-3, lorsque les espèces dont l'introduction dans la nature est demandée sont des agents utilisés dans la lutte biologique contre les organismes nuisibles, au sens de la deuxième phrase du premier alinéa de l'article L. 251-3 du code rural. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé de l'agriculture.
 
 |
 
-2
+Article R. 411-36-I (3°)
 
 |
 
-Agrément des organismes chargés d'effectuer les mesures des caractéristiques acoustiques des objets bruyants ou des dispositifs d'insonorisation.
+|
 
-Décision prise par le ministre de l'environnement, éventuellement conjointe­ment avec un autre ministre.
+Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage, lorsque la réserve s'étend en zone de chasse maritime. Décision conjointe du ministre chargé de la chasse et du ministre chargé de la mer.
 
 |
 
-Article 8.
-
-Article 9, dernier alinéa.
+Article R. 422-93
 
 |
 
-Décret n° 97-284 du 27 mars 1997 portant création de l'Ins­titution indépendante pour la mesure et le contrôle des nuisances sonores autour de l'aéroport Charles-de-Gaulle
-
-1
+Livre V
 
 |
 
-Nomination des experts.
-
-Arrêté des ministres chargés de l'aviation civile et de l'environnement.
+Désignation des organismes agréés prévus à l'article L. 522-13 pour recevoir les informations relatives aux produits biocides mis sur le marché. Arrêté conjoint des ministres chargés du travail, de l'agriculture, de l'environnement et de la santé.
 
 |
 
-Article 3 du décret.
+Article R. 522-44
 
 |
 
-Arrêté du 21 septembre 1994 définissant la composition et les règles de fonctionnement de la commission consultative d'aide aux riverains des aérodromes
+|
 
-1
+Délivrance et retrait de l'agrément des organismes ou entreprises prenant en charge les emballages usagés de leurs cocontractants. Décision conjointe des ministres chargés de l'environnement, de l'économie, de l'industrie, de l'agriculture et des collectivités territoriales.
 
 |
 
-Nomination des présidents des commissions consultatives d'aide aux riverains.
-
-Arrête du ministre chargé des transports et du ministre chargé de l'environnement.
+Articles R. 543-58 et R. 543-62
 
 |
 
-Article 4 de l'arrêté.
+|
+
+Approbation des modalités de contrôle du système destiné à mesurer la proportion d'emballages éliminés mis en place par chaque producteur. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et de l'agriculture.
 
 |
 
-Code rural
-
-1
+Article R. 543-64
 
 |
 
-Jusqu'au 1er janvier 1999, autorisations exceptionnelles de prélèvement, capture, destruction, transport, utilisation de végétaux ou d'animaux d'espaces protégées, à des fins scientifiques ou autres, et autorisations de naturalisation ou d'exposition d'animaux naturalises appartenant à de telles espèces protégées. Arrêté conjoint ou décision du ministre chargé de l'environnement et du ministre chargé des pêches maritimes ou du ministre chargé de l'agriculture.
+|
+
+Agrément des organismes chargés de délivrer aux opérateurs une attestation de capacité concernant les équipements frigorifiques et climatiques. Arrêté conjoint des ministres chargés de l'environnement et de l'industrie
 
 |
 
-Articles L. 211-2 et R. 211-6, alinéa 2.
+Article R. 543-108
 
 |
 
-2
+|
+
+Agrément des organismes coordonnateurs mentionnés aux articles R. 543-181 et R. 543-188. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
 
 |
 
-Approbation du programme d'aménagement de chaque parc national. Arrêté conjoint du ministre chargé du budget et du ministre chargé de l'environnement.
+Articles R. 543-182 et R. 543-189
 
 |
 
-Articles L. 241-5 et R. 241-29.
+|
+
+Approbation des systèmes individuels d'enlèvement et de traitement des déchets d'équipements électriques et électroniques ménagers mis en place par les producteurs. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités locales.
 
 |
 
-3
+Article R. 543-191
 
 |
 
-Autorisation spéciale de détruire des territoires classés ou en instance de classement en réserve naturelle, ou de les modifier dans leur état ou dans leur aspect. Décision conjointe du ministre chargé de l'urbanisme et du ministre chargé de l'environnement.
+|
+
+Agrément de l'organisme privé gérant la contribution financière en matière de collecte, de valorisation et d'élimination des déchets d'imprimés créée par l'article L. 541-10-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales, de l'économie et de l'industrie.
 
 |
 
-L. 242-9, R. 242-21, alinéa 2, et décret de création de chaque réserve naturelle.
+Article R. 543-207
 
 |
 
-4
+|
+
+Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'objet d'une première mise sur le marché. Arrêté du ministre chargé de l'environnement et, le cas échéant, du ministre ou des ministres compétents.
 
 |
 
-Décisions individuelles relatives a la tutelle et au contrôle administratif et technique des parcs nationaux. Décisions conjointes du ministre chargé de I'environnement et des ministres intéresses.
+Article R. 571-10
 
 |
 
-Articles R. 241-1 à R. 241-71.
+|
 
-Article R. 241-45.
+Délivrance et retrait de l'agrément des organismes chargés de mesurer les caractéristiques acoustiques des objets bruyants et des dispositifs d'insonorisation. Arrêté du ministre de l'environnement et, le cas échéant, du ou des ministres compétents.
 
 |
 
-2. Décisions administratives individuelles prises par le ministre chargé de l'environnement ou le ministre chargé de l'aménagement du territoire
-
-A. - Ministre chargé de l'environnement
-
-Code rural
-
-1
+Articles R. 571-18 et R. 571-22
 
 |
 
-Jusqu'au 1er janvier 1999, autorisations exceptionnelles de prélèvement. capture, destruction, transport, utilisation de végétaux ou d'animaux d'espaces protégées, à des fins scientifiques ou autres et autorisations de naturalisation ou d'exposition d'animaux naturalisés appartenant a de telles espèces protégées.
+II. - Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
-|
-
-Articles L. 211-2 et R. 211-6, alinéa 1.
-
-|
-
-2
-
-|
-
-Jusqu'au 1er janvier 1999, autorisations pour la production, la détention, la cession à titre gratuit au onéreux, l'utilisation, le transport, l'introduction quelle qu'en soit l'origine, l'importation sous tous régimes douaniers, l'exportation, la réexportation de tout ou partie de végétaux d'espèces non cultivées et de leurs semences, dont la liste est taxée par l'arrête interministériel du 20 janvier 1982 modifié relatif a la liste des espèces végétales protégées sur l'ensemble du territoire national.
-
-|
-
-Articles L. 212-1 et R. 212-1 a R. 212-7.
-
-|
-
-3
-
-|
-
-Jusqu'au 1er janvier 2001, délivrance des autorisations accordées en application de la convention sur le commerce international des espaces de faune et de flore sauvages menacées d'extinction signée à Washington le 3 mars 1973, du règlement du Conseil en date du 9 décembre 1996 relatif a la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, du règlement de la Commission en date du 26 mai 1997 et de l'arrêté interministériel pris pour leur application, sur le fondement de l'article L. 212-1 du code rural.
-
-|
-
-Articles L. 212-1 et R. 212-2.
-
-|
-
-4
-
-|
-
-Jusqu'au 1er janvier 1999, délivrance de certificats de capacité aux responsables des établissements détenant des animaux d'espèces non domestiques, autres que les établissements de vente et de transit des espèces de gibier dont la chasse est autorisée.
-
-|
-
-Articles L. 213-2 et R. 213-4.
-
-|
-
-5
-
-|
-
-Nomination des membres du conseil d'administration de la fédération interdépartementale des chasseurs de Paris, Hauts-de Seine, Seine-Saint-Denis et Val-de-Marne.
-
-|
-
-Articles L. 221-4 et R. 221-38, 3e alinéa. (Arrêté ministériel du 18 septembre 1975 portant sta­tut des fédérations départe­mentales des chasseurs, article 3.)
-
-|
-
-6
-
-|
-
-Homologation des modèles de pièges de nature a provoquer des traumatismes physiques aux animaux.
-
-|
-
-Articles L. 227-8 et R. 227-13, 2e alinéa.
-
-|
-
-7
-
-|
-
-Autorisation spéciale de détruire des territoires classés ou en instance de classement en réserve naturelle, ou de les modifier dans leur état ou dans leur aspect.
-
-|
-
-L. 242-9, R. 242-19 a R. 242-21, alinéa 1 et décret de création de chaque réserve naturelle.
-
-|
-
-8
-
-|
-
-Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage.
-
-|
-
-Article R. 222-92, 2e alinéa.
-
-(Arrêté ministériel du 23 sep­tembre 1991 rela­tif aux réserves de chasse et de faune sauvage, article 10.)
-
-|
-
-9
-
-|
-
-Nomination des membres du conseil d'administration des parcs nationaux.
-
-|
-
-Articles R. 241-18, R. 241-19 et R. 241-20.
-
-|
-
-10
-
-|
-
-Approbation de l'élection du président et des vice-présidents du conseil d'administration par les membres des conseils d'administration de chaque parc national.
-
-|
-
-Article R. 241-21, 2e alinéa, et décret de création de chaque parc.
-
-|
-
-11
+Livre Ier
 
 |
 
@@ -286,13 +150,193 @@ Agrément des associations de protection de la nature et de l'environnement exer
 
 |
 
-Article R. 252-13.
+Article R. 141-13
 
 |
 
-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque
+Livre II
 
-1
+|
+
+Agrément des personnes compétentes pour siéger aux comités de bassin et désignation des représentants des milieux socioprofessionnels.
+
+|
+
+Article D. 213-19
+
+|
+
+|
+
+Opposition à une délibération à caractère budgétaire ou financier du conseil d'administration d'une agence de l'eau.
+
+|
+
+Article R. 213-41
+
+|
+
+|
+
+Opposition aux autres délibérations du conseil d'administration d'une agence de l'eau.
+
+|
+
+Article R. 213-41
+
+|
+
+|
+
+Agrément de laboratoires ou d'organismes en vue de la réalisation des analyses, contrôles et évaluations nécessaires pour l'application des législations sur l'eau.
+
+|
+
+Article R. 214-50
+
+|
+
+|
+
+Délivrance, suspension et retrait de l'agrément des organismes chargés de la surveillance de la qualité de l'air.
+
+|
+
+Article R. 221-13
+
+|
+
+|
+
+Désignation de l'organisme chargé de coordonner les programmes de contrôle organisés par la Commission européenne pour s'assurer de la qualité des mesures réalisées par les organismes chargés de la surveillance de la qualité de l'air.
+
+|
+
+Article R. 221-15
+
+|
+
+|
+
+Etablissement de la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre.
+
+|
+
+Article R. 229-9
+
+|
+
+|
+
+Affectation de quotas en raison d'une forte augmentation de production d'une installation donnant lieu à un accroissement d'émission de gaz à effet de serre ou en raison de l'autorisation d'une nouvelle installation.
+
+|
+
+Article R. 229-12
+
+|
+
+|
+
+Autorisation de conserver le bénéfice des quotas d'émission de gaz à effet de serre, en cas d'arrêt de l'exploitation d'une installation.
+
+|
+
+Article R. 229-16
+
+|
+
+|
+
+Modification de la répartition annuelle des quotas en cas de variation exceptionnelle de l'activité d'une installation.
+
+|
+
+Article R. 229-18
+
+|
+
+|
+
+Autorisation de mise en commun de la gestion des quotas délivrés au titre de leurs installations à des exploitants exerçant la même activité.
+
+|
+
+Article R. 229-25
+
+|
+
+|
+
+Décision d'interdiction de tout transfert des quotas délivrés au titre d'une installation en cas d'absence ou d'irrégularité de la déclaration relative aux émissions de gaz à effet de serre.
+
+|
+
+Article R. 229-33
+
+|
+
+|
+
+Agrément des activités de projet prévues par le protocole de Kyoto mises en œuvre hors du territoire national.
+
+|
+
+Article R. 229-42
+
+|
+
+|
+
+Agrément, après avis du ministre chargé des finances, des activités de projet prévues par le protocole de Kyoto mises en œuvre sur le territoire national.
+
+|
+
+Article R. 229-42
+
+|
+
+|
+
+Suspension et cessation de la délivrance des unités de réduction des émissions en cas d'irrégularité dans la mise en œuvre d'une activité de projet sur le territoire national.
+
+|
+
+Article R. 229-44
+
+|
+
+Livre III
+
+|
+
+Nomination des membres du conseil d'administration d'un établissement public de parc national.
+
+|
+
+Article R. 331-26
+
+|
+
+|
+
+Maintien ou levée de l'opposition du commissaire du Gouvernement à une délibération du conseil d'administration d'un établissement public de parc national.
+
+|
+
+Article R. 331-45
+
+|
+
+|
+
+Autorisation de modification de l'état ou de l'aspect d'une réserve naturelle nationale en cas d'avis défavorable d'une des commissions dont la consultation est obligatoire.
+
+|
+
+Article R. 332-25
+
+|
 
 |
 
@@ -300,356 +344,346 @@ Autorisation spéciale de travaux en site classé ou en instance de classement.
 
 |
 
-Articles 9 et 12.
+Article R. 341-12
 
 |
 
-2
+Livre IV
 
 |
 
-Autorisation spéciale de travaux prévue par les décrets instituant des zones de pro­tection.
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce.
 
 |
 
-Articles 17 et 20.
+Article R. 411-8
 
 |
 
-Décret n° 66-699 du 14 septembre 1966 modifié relatif aux comités de bassin créés par l'article 13 de la loi n° 64-1245 du 16 décembre 1964 modifiée
-
-1
-
 |
 
-Arrêtés fixant la liste des membres des comités de bassin, portant agrément des personnes compétentes et désignant les représentants des milieux professionnels.
+Autorisations d'introduction dans le milieu naturel d'animaux appartenant à une espèce de vertébrés, protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse observée ou prévisible de ses effectifs et dont l'aire de répartition excède le territoire d'un département.
 
 |
 
-Articles 2 et 4.
+Article R. 411-36-I (1°)
 
 |
 
-Décret n° 66-700 du 14 septembre 1966 modifié relatif aux agences financières de bassin créées par l'article 14 de la loi n° 64-1245 du 16 décembre 1964 modifiée
-
-1
-
 |
 
-Arrêté fixant la liste des membres des conseils d'administration des agences financières de bassin.
+Délivrance et retrait de l'agrément des conservatoires botaniques nationaux.
 
 |
 
-Article 5.
+Article R. 416-5
 
 |
-
-2
 
 |
 
-Décisions relatives à la tutelle des agences financières de bassin, à l'exception de certaines délibérations financières des agences relatives au budget, au compte financier, aux emprunts et aux conditions générales d'attribution de subventions et des prêts.
+Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage.
 
 |
 
-Articles 1er, 11, 1er alinéa, et 17.
+Article R. 422-93
 
 |
 
-Décret n° 93-742 du 29 mars 1993 modifié relatif aux procé­dures d'autorisation et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 modifiée sur l'eau
+|
 
-1
+Homologation des modèles de pièges de nature à provoquer des traumatismes physiques aux animaux.
 
 |
+
+Article R. 427-15
 
-Agrément de laboratoires ou d'organismes en vue de la réalisation des analyses, contrôles, évaluation nécessaires pour l'application des législations sur l'eau.
+|
 
 |
 
-Article 39.
+Décision de confier la gestion d'une fédération départementale de pêche au préfet en cas de défaillance de celle-ci.
 
 |
 
-Arrêté du 18 avril 1996
+Article R. 434-36
 
-1
+|
 
 |
 
-Désignation des agents chargés des visites de contrôle des laboratoires pour cer­tains types d'analyses d'eaux et de sédi­ments.
+Délivrance et retrait de l'agrément des associations de pêcheurs professionnels en eau douce.
 
 |
 
-Article 7.
+Article R. 434-42
 
 |
 
-Règlement du Conseil n° 2455/92/CEE du 23 juillet 1992 concernant les exportations et importations de certains produits chimiques dangereux
+|
 
-1
+Approbation des statuts des associations de pêcheurs professionnels en eau douce et de leurs modifications.
 
 |
 
-Décisions relatives a l'exportation et a l'importation de certains produits chimiques dangereux.
+Article R. 434-43
 
 |
 
-Articles 3, 4 et 5 du règlement.
-
 |
+
+Décision de confier la gestion d'une fédération agréée de pêche au préfet en cas de défaillance de celle-ci.
 
-Règlement du Conseil n° 259/93 du 1er février 1993 concer­nant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté européenne
+|
 
-1
+Article R. 434-47
 
 |
 
-Décisions relatives au transit d'un déchet sur le territoire national.
+Livre V
 
 |
 
-Articles 3, 6, 9, 23, 24 et 36 du règle­ment.
+Fixation des prescriptions assortissant l'autorisation délivrée aux installations classées mentionnées à l'article L. 512-2.
 
 |
 
-Règlement du Conseil n° 793/93/CFE du 23 mars 1993 concernant l'évaluation et le contrôle des risques présen­tés par les substances existantes
+Article R. 512-42
 
-1
+|
 
 |
 
-Décisions relatives a l'évaluation et au contrôle des risques présentés par les substances existantes.
+Agrément des organismes chargés du contrôle périodique des installations classées prévu à l'article L. 512-11.
 
 |
 
-Articles 9, 10, 12, 13 et 16 du règlement.
+Article R. 512-61
 
 |
 
-Règlement du Conseil n° 3093/94/CEE du 15 décembre 1994 relatif à des substances qui appauvrissent la couche d'ozone
+|
 
-1
+Agrément des laboratoires ou organismes chargés de réaliser des analyses et contrôles prescrits pour des installations classées.
 
 |
 
-Décisions relatives a la production, l'importation, l'exportation, l'offre, l'utilisation et/ou la récupération de substances qui appauvrissent la couche d'ozone.
+Article R. 512-71
 
 |
 
-Articles 3, 4 et 6 du règlement.
+|
 
+Sanction du manquement à l'obligation de constitution de garanties financières faite à certaines installations classées.
+
 |
 
-Loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie
+Article R. 516-4
 
-1
+|
 
 |
 
-Agrément d'organismes chargés par l'Etat de la mise en œuvre de la surveillance de la qualité de l'air.
+Autorisation de l'opération de traitement mentionnée à l'article R. 521-33.
 
 |
 
-Article 3 de la loi, 6e alinéa.
+Article R. 521-34
 
 |
 
-2
-
 |
 
-Agrément des matériels de mesure de la qualité de l'air et de mesure des rejets de substances dans l'atmosphère, ainsi que des laboratoires qui effectuent des ana­lyses et contrôles d'émissions polluantes.
+Autorisation provisoire de mise sur le marché d'une substance active biocide.
 
 |
 
-Article 3 de la loi, 7e alinéa.
+Article R. 522-4
 
 |
 
-Décret n° 77-1133 du 21 septembre 1977 pris pour l'applica­tion de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement
+|
 
-1
+Autorisation de mise sur le marché d'un produit biocide.
 
 |
+
+Article R. 522-14
 
-Agrément des laboratoires ou organismes en vue de la réalisation d'analyses ou de contrôles prescrits au titre de la réglementation des installations classées.
+|
 
 |
 
-Article 40, alinéa 1, du décret.
+Modification des conditions d'utilisation définies dans l'autorisation de mise sur le marché d'un produit biocide.
 
 |
 
-Décret n° 85-217 du 13 février 1985 portant sur le contrôle des produits chimiques
+Article R. 522-21
 
-1
+|
 
 |
 
-Décisions relatives au contrôle des produits chimiques.
+Autorisation de mise sur le marché d'un produit biocide correspondant à une formulation cadre établie par le ministre chargé de l'environnement.
 
 |
 
-Articles 1er, 3, 7, 8, 9, 12, 17, 18, 19, 21.­
+Article R. 522-25
 
 |
 
-Décret n° 95-79 du 23 janvier 1995 fixant les prescriptions prévues par l'article 2 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit et relatives aux objets bruyants et aux dispositifs d'insonorisation
+|
 
-1
+Autorisation de mise sur le marché d'un produit biocide contenant une ou plusieurs substances inscrites sur la liste I définie à l'article R. 522-2.
 
 |
 
-Autorisation pour la fabrication pour le marché intérieur, l'importation, l'utilisation d'un objet ou d'un dispositif à des fins d'expérimentation ou d'essais, de compétition, d'exposition ou de proto­type ou de collection.
+Article R. 522-27
+
+|
 
 |
 
-Article 11.
+Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15, 17 et 23 mentionnés au tableau annexé à l'article R. 522-9.
 
 |
 
-Décret n° 96-850 du 20 septembre 1996 relatif au contrôle de la dissémination volontaire et de la mise sur le marché, à des fins civiles, de produits composés en tout ou en partie d'organismes génétiquement modifiés
+Article R. 522-29
 
-1
+|
 
 |
 
-Autorisation de dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou en par­tie d'organismes génétiquement modi­fiés.
+Autorisation provisoire de mise sur le marché de produits biocides prise en application des 1° et 2° du I de l'article L. 522-7.
 
 |
 
-Article 2.
+Article R. 522-30
 
-Article 11.
+|
 
 |
 
-2
+Autorisation de mise sur le marché en vue d'un essai pouvant entraîner un rejet dans l'environnement d'un produit biocide non autorisé ou de certaines substances actives.
 
 |
 
-Autorisation de mise sur le marché de produits composés en tout ou en partie d'organismes génétiquement modifiés.
+Article R. 522-41
 
 |
 
-Article 18.
+|
 
-Article 26.
+Autorisation et détermination des conditions de toute expérience ou essai portant sur une substance active ou un produit biocide.
 
 |
 
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médi­cale dans la fonction publique
+Article R. 522-42
 
-1
-
 |
-
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représen­tants des personnels siégeant aux comités d'hygiène et de sécurité.
 
 |
 
-Article 8.
+Toutes décisions relatives à l'évaluation et au contrôle des risques présentés par les substances existantes (produits chimiques et biocides) conformément aux articles 9, 10, 12, 13 et 16 du règlement n° 793/93/CEE du 23 mars 1993.
 
 |
 
-Code des marchés publics
+Article R. 523-1
 
-1
+|
 
 |
 
-Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexac­titude des renseignements prévus aux 2, 3 4, 5, 6 de l'article 50 du code des marchés publics.
+Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3, 4 et 5 du règlement n° 304/2003/CE.
 
 |
 
-Article 42.
+Article R. 523-2
 
 |
 
-Autres décisions individuelles
+|
 
-1
+Toutes décisions relatives à la production, l'importation, l'exportation, l'offre, l'utilisation et la récupération de substances qui appauvrissent la couche d'ozone conformément aux articles 3, 4 et 6 du règlement 2037/2000/CEE du 29 juin 2000.
 
 |
 
-Décisions relatives au règlement amiable des litiges résultant de l'activité des ser­vices du ministère.
+Article R. 523-3
 
 |
 
 |
 
-2
+Autorisation de dissémination d'organismes génétiquement modifiés, sauf si cette compétence est dévolue à un autre ministre.
 
 |
 
-Décisions à caractère financier relatives a l'exécution des décisions de justice.
+Article R. 533-1
 
 |
 
 |
 
-B. - Ministre chargé de l'aménagement du territoire
+Autorisation de mise sur le marché d'organismes génétiquement modifiés, sauf si cette compétence est dévolue à un autre ministre.
 
-Code de l'urbanisme
+|
 
-1
+Article R. 533-25
 
 |
 
-Agrément pour l'implantation ou l'utilisation de locaux professionnels en Ile-de-France.
-
 |
 
-Article R. 510-2, 3e, du code de l'urbanisme.
+Toutes décisions relatives au transit d'un déchet sur le territoire national conformément au règlement communautaire mentionné à l'article R. 541-62.
 
 |
-
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médi­cale dans la fonction publique
 
-1
+Article R. 541-63
 
 |
 
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représen­tants des personnels siégeant aux comi­tés d'hygiène et de sécurité.
-
 |
 
-Article 8.
+Approbation de certains systèmes individuels de collecte des déchets électriques et électroniques ménagers.
 
 |
 
-Code des marchés publics
+Article R. 541-184
 
-1
+|
 
 |
 
-Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexac­titude des renseignements prévus aux 2, 3 4, 5, 6 de l'article 50 du code des marchés publics.
+Autorisation de fabrication, d'importation ou d'utilisation d'un objet bruyant ou dispositif d'insonorisation à des fins particulières.
 
 |
 
-Article 42.
+Article R. 541-23
 
 |
 
-Autres décisions individuelles
+I. - Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
 
-1
+TITRE II
 
-|
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT
 
-Décisions relatives au règlement amiable des litiges résultant de l'activité des ser­vices du ministère.
+PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
 
-|
+Autorisation spéciale de travaux prévue par les décrets instituant des zones de protection.
 
 |
 
-2
+Articles 17 et 20 de la loi du 2 mai 1930, abrogés par l'article 72 de la loi n° 83-8.
 
 |
 
-Décisions a caractère financier relatives à l'exécution des décisions de justice.
+II. - Code de l'urbanisme :
 
+Dérogations à l'interdiction du camping et du stationnement des caravanes dans un site classé ou naturel.
+
 |
+
+Article R. 443-9 (2°)
 
 |

@@ -990,15 +990,33 @@ Code de l’environnement
 
 |
 
-Approbation par le Premier ministre et le ministre de l’économie et des
+Opposition du ministre chargé du budget à
 
-finances de certaines délibérations à caractères budgétaire ou financier
+certaines délibérations à caractères budgétaire ou financier
 
 prises par le conseil d’administration des agences de l’eau.
 
 |
 
 Article R. 213-41.
+
+|
+
+.
+
+1
+
+|
+
+Autorisation préalable du ministre chargé de l’énergie en matière d’importation,
+
+d’exportation et de transit de déchets radioactifs.
+
+|
+
+Article R. 542-36 du code
+
+de l’environnement.
 
 |
 
