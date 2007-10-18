@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701136
+
+- Question : [SEQ070701136](seq070701136.md) — Obligation d'emploi de 6% de travailleurs handicapés et nouvelles compétences des régions et départements
+
+## Réponse
+
+*Intérieur, JO du 2007-10-18, page 1880*
+
+Les collectivités locales sont tenues, comme l'État, d'employer 6 % de travailleurs handicapés bénéficiaires de l'obligation d'emploi, dès lors qu'elles emploient plus de vingt agents. Les employeurs publics peuvent s'acquitter de leur obligation par l'emploi direct de personnes handicapées. Depuis le 1er anvier 2006, ils peuvent également s'acquitter de cette obligation par le versement d'une contribution au « Fonds pour l'insertion des personnes handicapées dans la fonction publique », créé par la loi du 11 février 2005. Lors de sa séance du 6 avril 2006 consacrée aux modalités d'évaluation de la compensation financière résultant des transferts des personnels, la Commission consultative sur l'évaluation des charges (CCEC) a examiné la question d'un droit à compensation pour les collectivités du fait de cette obligation nouvelle de versement au fonds précitée. Il est ressorti de ces débats que les cotisations des collectivités territoriales au fonds pour l'insertion des personnes handicapées dans la fonction publique, ne devraient pas augmenter du fait de la décentralisation des 130 000 agents de l'État. En effet, la proportion de personnes handicapées est de 9 % pour les agents de catégories C du ministère de l'éducation nationale et de 5,18% pour les agents relevant du ministère de l'équipement. L'emploi de personnes handicapées dans la proportion de 6 % de l'effectif est donc respectée au sein des personnels transférés du fait de la loi du 13 août 2004. Aucune dépense nouvelle, de nature à ouvrir un droit à compensation, ne sera mise à la charge des collectivités.
