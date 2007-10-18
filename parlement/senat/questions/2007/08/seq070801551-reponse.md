@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801551
+
+- Question : [SEQ070801551](seq070801551.md) — Application des dispositions de la loi n° 2001-2 aux secrétaires de mairie
+
+## Réponse
+
+*Budget, JO du 2007-10-18, page 1871*
+
+Le ministre du budget, des compte publics et de la fonction publique a pris connaissance avec intérêt de la question relative à la situation des secrétaires de mairie. Le législateur a adopté, dans le prolongement du protocole d'accord du 10 juillet 2000 signé par le Gouvernement et six organisations syndicales représentatives de fonctionnaires, la loi du 3 janvier 2001 relative à la résorption de l'emploi précaire et à la modernisation du recrutement dans la fonction publique ainsi qu'au temps de travail dans la fonction publique territoriale. Ce texte prévoyait en particulier, pour les agents non titulaires des collectivités locales et de leurs établissements répondant à un certain nombre de conditions, la possibilité de bénéficier de voies dérogatoires et temporaires d'accès à la fonction publique territoriale, soit par l'intégration directe dans un cadre d'emplois, soit par la présentation à un concours réservé. Conformément aux articles 4 et 6 de cette même loi, les nominations effectuées sur le fondement de l'intégration directe, d'une part, et l'organisation des concours réservés, d'autre part, devaient intervenir durant une période de cinq ans à compter de la publication de la loi, soit jusqu'au 4 janvier 2006. Sous réserve du respect des critères posés par la loi, ces dispositifs étaient applicables aux agents non titulaires exerçant des fonctions relevant du cadre d'emplois des secrétaires de mairie comme de celui des adjoints administratifs territoriaux, y compris ceux qui détenaient plusieurs contrats à temps non complet auprès d'employeurs différents.
