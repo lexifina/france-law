@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801313
+
+- Question : [SEQ070801313](seq070801313.md) — Situation des fonctionnaires travaillant dans un service transféré à une collectivité locale et optant pour le détachement
+
+## Réponse
+
+*Budget, JO du 2007-10-18, page 1870*
+
+Le ministre du budget, des compte publics et de la fonction publique a pris connaissance avec intérêt de la question relative à la situation des fonctionnaires travaillant dans un service transféré à une collectivité locale. Aux termes de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, les fonctionnaires de l'État disposent, à compter de la publication des décrets fixant les transferts définitifs des services, d'un délai de deux ans pendant lequel ils peuvent choisir entre une intégration dans les cadres d'emplois de la fonction publique territoriale et un détachement sans limitation de durée dans ces mêmes cadres d'emplois. Ce détachement, sans limitation de durée, s'applique également aux fonctionnaires qui n'ont exprimé aucun choix à l'issue du délai ouvrant l'option. Le régime du détachement sans limitation de durée, précisé par le décret n° 2005-1785 du 30 décembre 2005, ne remet absolument pas en cause les principes généraux régissant la position de détachement mais prévoit des dispositions spécifiques liées à l'absence de durée du détachement. Ainsi, comme les fonctionnaires bénéficiant d'un détachement de longue durée, les fonctionnaires de l'État détachés, en application de l'article 109 de la loi du 13 août 2004 susmentionnée, conservent, dans cette position, un lien statutaire avec leur administration d'origine et mènent une double carrière dans la fonction publique de l'État et dans la fonction publique territoriale. Ils sont alors placés hors de leur corps d'origine mais continuent à bénéficier de leurs droits à avancement.
