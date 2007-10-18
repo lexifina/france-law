@@ -34,4 +34,6 @@ b) Elle s'applique également aux employeurs et salariés des entreprises et ét
 
 Ces activités sont classées sous le code 63.2e de la nomenclature d'activités française (NAF).
 
-c) La présente convention collective s'applique aux entreprises et établissements français ou étrangers, exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
+c) La présente convention s'applique aux entreprises et établissements qui exercent l'activité d'exploitant d'aéroport et ne relèvent pas de l'article L. 251-2 du code de l'aviation civile. Ces activités sont classées sous le code 63. 2 E de la nomenclature d'activités française (NAF).
+
+d) La présente convention collective s'applique aux entreprises et établissements français ou étrangers, exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
