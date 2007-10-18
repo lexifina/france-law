@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600082
+
+- Question : [SEQ070600082](seq070600082.md) — Régime des plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale
+
+## Réponse
+
+*Économie, JO du 2007-10-18, page 1872*
+
+La question soulevée vise le régime fiscal des cessions de biens affectés à l'activité de sociétés en participation ou de sociétés créées de fait qui sont dépourvues de personnalité morale conformément aux dispositions des articles 1871 et 1873 du code civil et ne peuvent, de ce fait, être titulaires juridiquement d'un patrimoine. Elles disposent en revanche d'un bilan fiscal propre, distinct de celui des associés, en application des dispositions des articles 238 bis L et 238 bis M du code général des impôts et relèvent, sous certaines conditions, du régime d'imposition mentionné à l'article 8 du même code. Pour pouvoir bénéficier du dispositif d'exonération des plus-values prévu à l'article 151 septies du code déjà cité en cas de cession d'une immobilisation, la condition relative au montant des recettes doit être appréciée différemment selon que les biens affectés à l'activité de la société dépourvue de la personnalité morale et soumise au régime d'imposition des sociétés de personnes figurent ou non au bilan fiscal de celle-ci. Lorsque le bien cédé a été inscrit par les associés au bilan fiscal de la société, il convient de retenir pour l'appréciation de ce seuil l'ensemble des recettes réalisées par la société. À l'inverse, si le bien ne figurait pas au bilan fiscal de la société, seule la quote-part des recettes revenant à l'associé qui en est le propriétaire doit être prise en compte pour la mise en oeuvre du régime d'exonération. Bien évidemment, les autres conditions prévues à l'article 151 septies précité doivent également être respectées, pour ouvrir droit à l'exonération totale ou partielle de la plus-value réalisée.
