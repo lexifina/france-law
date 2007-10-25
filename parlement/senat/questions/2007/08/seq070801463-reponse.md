@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801463
+
+- Question : [SEQ070801463](seq070801463.md) — Versement d'EDF aux oeuvres sociales du comité d'entreprise
+
+## Réponse
+
+*Économie, JO du 2007-10-25, page 1929*
+
+Les activités sociales au profit des agents des industries électriques et gazières, actifs et inactifs, ne sont pas financées par un pourcentage de la masse salariale de chacune des entreprises électriques et gazières car elles ne sont pas assujetties au droit commun. Leur mode de financement est prévu par l'article 25 du décret approuvant le statut national de ce personnel qui précise que les dépenses résultant de la création et du fonctionnement des activités sociales sont couvertes au moyen d'un prélèvement de 1 % sur les recettes de distribution de l'électricité et de gaz des entreprises électriques et gazières. Pour 2005, si l'on rapporte le montant du prélèvement sur les recettes de distribution d'électricité et de gaz au montant de la masse salariale des entreprises électriques et gazières, le financement des activités sociales desdites entreprises représente environ 9 % de la masse salariale. S'agissant plus particulièrement d'EDF, ce pourcentage s'établit à environ 8 %. Il convient également d'attirer l'attention sur le fait que ces pourcentages de la masse salariale seraient diminués de quelques points si l'on prenait en compte, dans cette masse de référence, les pensions versées aux agents inactifs des industries électriques et gazières. Ceux-ci bénéficient, en effet, également des oeuvres sociales, financées par le prélèvement de 1 %. Pour la comparaison demandée avec d'autres entreprises publiques (CEA, SNCF, CDF), il peut être indiqué que le pourcentage de la masse salariale, correspondant au versement par ces entreprises de leur contribution aux activités sociales et culturelles de leurs salariés, représente le plus souvent moins de 2 %.
