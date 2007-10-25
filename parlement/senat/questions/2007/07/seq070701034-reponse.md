@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701034
+
+- Question : [SEQ070701034](seq070701034.md) — Transfert à l'administration pénitentiaire de charges incombant aux forces de police et de gendarmerie
+
+## Réponse
+
+*Justice, JO du 2007-10-25, page 1947*
+
+La garde des sceaux, ministre de la justice, informe l'honorable parlementaire de l'intérêt qu'elle porte au transfert à l'administration pénitentiaire des missions de gardes et d'escortes des détenus hospitalisés assurées jusqu'à présent par la police et la gendarmerie nationales. Il a été décidé, en décembre 2006, d'expérimenter la prise en charge par l'administration pénitentiaire, à compter du 1er avril 2007, des missions exercées par la police et la gendarmerie dans les unités hospitalières sécurisées interrégionales (UHSI) de Marseille et de Toulouse. Il s'agit pour les personnels pénitentiaires d'exercer leur service à l'extérieur des établissements, tout en étant armés. Les surveillants volontaires pour assurer ces missions ont tous reçu une formation, en lien avec la police et la gendarmerie nationales, au maniement des armes et à l'appropriation des techniques d'escortes et de gardes en milieu hospitalier. L'accès aux moyens techniques adaptés à ces missions a été acquis, comme l'armement et les moyens de contrainte, ainsi que le dispositif de communication ACROPOL, sachant que les procédures de renfort par les forces de l'ordre sont maintenues pour les gardes et escortes des détenus dangereux. Pour clarifier et harmoniser les responsabilités et les moyens de l'État en matière de sécurité, une mission d'audit de modernisation a été mise en place. Ses conclusions ont été rendues au mois de juillet 2007. Elles font apparaître les besoins en effectifs et en matériels nécessaires à une éventuelle mise en oeuvre d'un transfert plus large. Il n'est pas prévu d'étendre cette expérimentation.
