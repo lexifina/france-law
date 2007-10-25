@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700424
+
+- Question : [SEQ070700424](seq070700424.md) — Critères d'âge pour adopter des enfants
+
+## Réponse
+
+*Travail, JO du 2007-10-25, page 1953*
+
+L'attention de Monsieur le ministre du travail, des relations sociales et de la solidarité a été appelée sur les difficultés rencontrées par certains couples pour être autorisés à adopter compte tenu de la variabilité des critères d'âge au niveau national. Selon l'étude sur l'adoption de l'Institut national d'études démographiques (INED) réalisée en 2004 et portant sur dix départements, seules 13 % des personnes agréées peuvent adopter un enfant né en France. L'institut notait également que les pupilles étaient confiés en priorité aux jeunes couples et que les catégories les moins favorisées socialement et économiquement adoptaient plus souvent un pupille de l'Etat (20 % des cas) que les cadres (9 %). Au-delà de ce constat, l'adoption a pour seul objectif de donner une famille à un enfant qui en est privé. Il revient au tuteur (le préfet) après avis du conseil de famille de choisir les personnes agréées à qui sera confié un pupille de l'Etat. Ce choix s'effectue, conformément aux dispositions de l'article R. 224-17 du code de l'action sociale et des familles, après examen des situations d'adoptants susceptibles d'offrir les conditions d'accueil les plus favorables au pupille dont l'adoption est envisagée. Par conséquent, le seul critère qui doit conduire toute démarche en matière d'adoption et de choix d'une famille adoptive est l'intérêt de l'enfant. Cet intérêt s'apprécie en tenant compte de la situation concrète de l'enfant, de ses besoins et de ses problèmes. La fixation de règles précises au niveau national, en ce qui concerne notamment l'âge des adoptants, n'apparaît pas justifiée compte tenu de la finalité de l'adoption fondée sur le droit de l'enfant de vivre dans une famille.
