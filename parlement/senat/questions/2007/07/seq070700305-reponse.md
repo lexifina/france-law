@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700305
+
+- Question : [SEQ070700305](seq070700305.md) — Difficultés financières des associations éducatives
+
+## Réponse
+
+*Éducation, JO du 2007-10-25, page 1931*
+
+Les associations éducatives complémentaires de l'enseignement public sont des partenaires reconnus du ministère de l'éducation nationale qui leur octroie des moyens conséquents. En 2006, les huit principales associations complémentaires de l'éducation nationale ont bénéficié de 24,5 millions d'euros de subventions au titre de conventions pluriannuelles d'objectifs, auxquels s'ajoutent des subventions complémentaires exceptionnelles destinées à des projets spécifiques. En outre, 363 équivalents temps plein de personnels de l'éducation nationale étaient mis à disposition de ces associations, ce qui représente près de 19 millions d'euros. Il est à noter qu'à compter du 1er novembre 2006, en conformité à la loi de finances pour 2006, ces mises à disposition ont été transformées en détachements, dont le coût financier pour les associations a été compensé par une subvention spécifique. Depuis le 1er janvier 2007 de nouvelles conventions pluriannuelles d'objectifs ont été conclues avec ces associations pour un montant prévisionnel global de plus de 23,3 millions d'euros par an sur quatre ans. Ces conventions définissent de nouvelles formes de collaboration dans un cadre partenarial plus lisible et plus efficace. En conformité avec le nouveau mode d'exécution du budget de l'État induit par la loi organique relative aux lois de finances, ces conventions mettent en place une programmation sur objectifs qui précise le contenu et les modalités du partenariat entre le ministère de l'éducation nationale et ces associations et qui définit des indicateurs permettant d'évaluer l'impact des actions menées.
