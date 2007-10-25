@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801679
+
+- Question : [SEQ070801679](seq070801679.md) — Prise en charge exclusive par une communauté d'agglomération du fonctionnement du syndicat mixte pour la préparation d'un SCOT
+
+## Réponse
+
+*Intérieur, JO du 2007-10-25, page 1945*
+
+En application des articles L. 5216-5 et L. 5214-23-1 du code général des collectivités territoriales (CGCT), l'élaboration d'un SCOT fait partie des compétences dont les communautés d'agglomération et les communautés de communes sont investies au titre de l'aménagement de l'espace. Dès lors que le périmètre du SCOT inclut ces EPCI, ils sont appelés à constituer ensemble un syndicat mixte, celui-ci étant alors chargé, en leur lieu et place, d'élaborer et d'assurer le suivi du SCOT conformément aux dispositions de l'article L. 122-4 du code de l'urbanisme. Le financement de cette compétence incombe au syndicat mixte qui en est titulaire. La participation due par chacun des membres du syndicat mixte est déterminée suivant une clé de répartition arrêtée librement dans les statuts. Aucune disposition légale n'interdit que la participation soit prise en charge, à titre exclusif, par un des membres du syndicat. En ce qui concerne la mise à disposition des services, les membres d'un EPCI peuvent mettre leurs services à la disposition de celui-ci pour l'exercice de ses compétences. Cette possibilité, prévue par l'article L. 5211-4-1 du code général des collectivités territoriales (CGCT), est applicable aux syndicats mixtes fermés en vertu de l'article L. 5711-1 du CGCT. Ainsi une communauté d'agglomération, membre d'un syndicat mixte de SCOT, peut mettre ses services à la disposition de ce syndicat pour l'exercice de ladite compétence. La mise à disposition fait l'objet d'une convention qui fixe les modalités de la mise à disposition du service et, s'il y a lieu, les conditions du remboursement du service ainsi assuré pour le compte du syndicat mixte.
