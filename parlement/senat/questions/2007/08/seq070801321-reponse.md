@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801321
+
+- Question : [SEQ070801321](seq070801321.md) — Modalités des reconduites à la frontière au regard des textes internationaux
+
+## Réponse
+
+*Intérieur, JO du 2007-11-01, page 1990*
+
+L'expulsion, prévue et régie par les articles L. 521-1 et suivants du CESEDA, peut être prononcée à l'encontre d'un étranger dont la présence en France constitue une menace grave pour l'ordre public. Il s'agit d'une mesure strictement individuelle qui, sauf en cas d'urgence absolue, est prononcée à l'issue de la procédure détaillée dans les articles L. 522-1 et L. 522-2 du même code. L'article 4 du protocole numéro 4 à la Convention européenne des droits de l'homme du 4 novembre 1950 interdit les « expulsions collectives » d'étrangers. La Cour européenne des droits de l'homme, dans sa jurisprudence (CEDH, 23 février 1999, n° 45917/99) entend par expulsion collective toute mesure contraignant des étrangers en tant que groupe à quitter un pays, sauf dans les cas où une telle mesure est prise à l'issue et sur la base d'un examen raisonnable et objectif de la situation particulière de chacun des étrangers qui forment le groupe. Si pour l'exécution des expulsions, ainsi que pour celle des autres mesures permettant d'éloigner du territoire national un étranger en situation irrégulière, l'État peut avoir recours à des moyens de transport collectifs, le plus souvent aériens, il ne s'agit donc pas en l'occurrence d'éloignements collectifs au sens de l'article 4, mais du regroupement au sein d'un même vecteur d'individus reconduits en application de mesures individuelles. Il est par ailleurs à noter que, au plan européen, une décision 04/573 du Conseil de l'Europe, en date du 29 avril 2004 fixe les modalités des vols organisés de manière commune par au moins deux États de l'Union. Pour mémoire, la France a organisé ou participé à seize vols groupés, lors des huit premiers mois de l'année en cours.
