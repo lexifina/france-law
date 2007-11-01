@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801461
+
+- Question : [SEQ070801461](seq070801461.md) — Possibilité d'action en justice d'un contribuable à titre personnel et au nom de la commune
+
+## Réponse
+
+*Intérieur, JO du 2007-11-01, page 1990*
+
+L'article L. 2132-5 du CGCT prévoit que tout contribuable, inscrit au rôle de la commune, a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques, avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la commune, et que celle-ci, préalablement appelée à en délibérer, a refusé ou négligé d'exercer. En règle générale, pour la très grande majorité des demandes, on ne peut opposer au demandeur d'une autorisation de plaider l'exception du recours parallèle qui résulterait de la possibilité d'engager lui-même une action. Dans ce cas, il agit, en effet, en son nom propre (avec des intérêts qui peuvent être différents), dans l'autre, au nom de la commune, son intérêt en qualité de contribuable étant alors confondu avec l'intérêt de la commune. Toutefois, le Conseil d'État, dans son arrêt Lodovico Cassinari, 28 avril 2006, a estimé que, dans le cas du recours pour excès de pouvoir, l'exception de recours parallèle ne peut jouer que lorsque le requérant dispose d'une autre action contentieuse qui lui permet d'obtenir le même résultat que l'annulation de la décision qu'il attaque. Dans l'hypothèse contraire, l'annulation de l'acte peut être obtenue par l'exercice d'un simple recours pour excès de pouvoir. Elle ne nécessite pas la mise en oeuvre de la procédure d'autorisation de plaider, qui doit rester un droit exceptionnel, et qui, en tout état de cause, conduit exactement au même résultat (conclusions du commissaire du gouvernement Devys - CE - 28 avril 2006 précité). Dans ce cas, un particulier qui justifie d'un intérêt pour agir, en son nom propre, ne peut demander l'autorisation d'exercer une action au nom de la commune.
