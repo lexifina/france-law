@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700852
+
+- Question : [SEQ070700852](seq070700852.md) — Tarifs pour le TGV-Est
+
+## Réponse
+
+*Transports, JO du 2007-11-01, page 1994*
+
+Les tarifs appliqués sur les destinations de l'Est ont fait l'objet d'une attention particulière afin qu'ils permettent un large accès à la nouvelle offre TGV. La SNCF a réalisé, en phase de concertation préalable, des enquêtes auprès de sa clientèle et des personnes susceptibles d'utiliser le TGV Est, et a consulté des associations d'usagers pour leur présenter son offre commerciale. La tarification retenue a été jugée acceptable par rapport à l'avancée technique offerte. Les comparaisons avec les autres destinations desservies par le TGV doivent être considérées avec précaution. Lyon et Nantes sont plus éloignées de Paris que Metz ou Nancy, alors que le tarif au kilomètre est décroissant avec la distance. Autre facteur de différenciation, le Paris - Metz et le Paris - Nancy s'effectuent pratiquement en totalité à grande vitesse, alors que le Paris - Nantes ne bénéfice pas de cet atout. L'examen des tarifs réalisé a montré que le prix des billets sur les destinations de l'est de la France se situait à des niveaux comparables à celui des autres TGV existants. La SNCF propose toute une série de tarifs réduits dans le cadre de sa gamme commerciale TGV, ce qui permet à près de trois voyageurs sur quatre de bénéficier de prix inférieurs au plein tarif. Par ailleurs, un premier bilan de la mise en exploitation de la LGV est-européenne doit être réalisé d'ici à la fin de l'année par l'observatoire créé pour suivre le fonctionnement de cette ligne et pour collecter, entre autres, les observations sur le positionnement tarifaire. À partir de ces informations, il appartiendra au comité de suivi d'apprécier les mesures à prendre pour répondre aux différentes attentes exprimées, dans le respect des équilibres économiques de la ligne.
