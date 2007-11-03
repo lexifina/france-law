@@ -20,7 +20,7 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 
 c) Eaux.
 
-Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
+Servitudes prévues aux articles L. 215-4 et L. 215-5 (2bis) du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 
@@ -218,13 +218,15 @@ Servitudes d'utilité publique instituées en application de l'article L. 211-12
 
 Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
 
-NOTA :
+Servitudes d'utilité publique instituées en application de l'article 31 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
 
 NOTA :
 
 (1) Articles abrogés par l'article 72 de la loi n° 2001-602.
 
 (2) Les articles L. 531-1 et L. 541-2 sont abrogés par l'article 72 de la loi n° 2001-602.
+
+(2bis) L'article L215-5 a été abrogé par l'article 101 de la loi n° 2006-1772 du 30 décembre 2006 (loi sur l'eau).
 
 (3) Article abrogé par l'article 72 de la loi n° 83-8.
 
