@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700421
+
+- Question : [SEQ070700421](seq070700421.md) — Mesures incitatives pour la promotion des carburants alternatifs
+
+## Réponse
+
+*Économie, JO du 2007-11-08, page 2032*
+
+À l'exception des véhicules de seconde monte, c'est-à-dire des véhicules fonctionnant initialement au moyen d'une énergie traditionnelle et qui, après adaptation, sont capables de rouler au moyen du gaz de pétrole liquéfié (GPL), qui peuvent, sous certaines conditions, bénéficier du crédit d'impôt prévu à l'article 200 quinquies du code général des impôts, seuls les véhicules acquis ou loués à l'état neuf sont éligibles à cet avantage fiscal. Par véhicules neufs, il convient d'entendre, en principe, ceux qui n'ont fait l'objet d'aucune mise en circulation antérieure. Cela étant, il est admis que les véhicules de démonstration soient, pour l'application de cet avantage fiscal, assimilés à des véhicules neufs, toutes les autres conditions étant par ailleurs remplies. Cette mesure est toutefois subordonnée à la condition que le véhicule ait été initialement acquis par un concessionnaire à l'état neuf hors véhicules de démonstration, que le contribuable demandant le bénéfice de l'avantage fiscal soit le premier acquéreur de ce véhicule auprès de ce concessionnaire et que le véhicule soit acquis dans les six mois suivant sa première mise en circulation ou ait parcouru moins de 6 000 kilomètres. Le crédit d'impôt est accordé sur présentation de la copie du certificat d'immatriculation de l'acquéreur et de la facture de vente du véhicule par le concessionnaire mentionnant le kilométrage du véhicule à la date de la cession. Ces précisions ont fait l'objet de commentaires dans le cadre d'une instruction administrative publiée le 30 mars 2007 au Bulletin officiel des impôts, sous la référence 5 B-11-07.
