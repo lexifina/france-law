@@ -636,15 +636,11 @@ Toutes les matières premières des aliments pour animaux
 
 |
 
-|
-
 Aliments complets pour bovins, ovins et caprins, à l'exception de :
 
 |
 
 0,02
-
-|
 
 |
 
@@ -656,15 +652,11 @@ Aliments complets pour bovins, ovins et caprins, à l'exception de :
 
 |
 
-|
-
 - aliments complets pour veaux, agneaux et chevreaux
 
 |
 
 0,01
-
-|
 
 |
 
@@ -676,15 +668,11 @@ Aliments complets pour porcs et volailles (à l'exception des jeunes animaux)
 
 |
 
-|
-
 Autres aliments complets
 
 |
 
 0,01
-
-|
 
 |
 
@@ -696,15 +684,11 @@ Aliments complémentaires pour bovins, ovins et caprins (à l'exception des alim
 
 |
 
-|
-
 Aliments complémentaires pour porc et volailles (à l'exception des jeunes animaux)
 
 |
 
 0,02
-
-|
 
 |
 
@@ -780,15 +764,11 @@ Matières premières pour aliments pour animaux, à l'exception de :
 
 |
 
-|
-
 - graines de coton
 
 |
 
 5 000
-
-|
 
 |
 
@@ -800,15 +780,11 @@ Matières premières pour aliments pour animaux, à l'exception de :
 
 |
 
-|
-
 Aliments complets, à l'exception de :
 
 |
 
 20
-
-|
 
 |
 
@@ -820,15 +796,11 @@ Aliments complets, à l'exception de :
 
 |
 
-|
-
 - aliments complets pour volailles (à l'exception des volailles de ponte) et aliments complets pour veaux
 
 |
 
 100
-
-|
 
 |
 
@@ -1002,27 +974,35 @@ Tous les aliments
 
 |
 
-11. Aldrine. Isolément ou ensemble calculé
+11. Aldrine (j).
 
 |
 
-Tous les aliments, à l'exception de:
+Tous les aliments, à l'exception :
 
 |
 
-0,01
+0,01 (k)
 
 |
 
-12. Dieldrine. sous forme de dieldrine.
+12. Dieldrine.
 
 |
 
-- matières grasses
+- des matières grasses et huiles ;
 
 |
 
-0,2
+0,1 (k)
+
+|
+
+- des aliments pour poissons.
+
+|
+
+0,02 (k)
 
 |
 
@@ -1058,7 +1038,7 @@ Tous les aliments, à l'exception de:
 
 |
 
-Tous les aliments, à l'exception de:
+Tous les aliments, à l'exception :
 
 |
 
@@ -1066,7 +1046,7 @@ Tous les aliments, à l'exception de:
 
 |
 
-- matières grasses
+- des matières grasses et huiles.
 
 |
 
@@ -1078,7 +1058,7 @@ Tous les aliments, à l'exception de:
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1086,7 +1066,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1094,11 +1074,11 @@ Tous les aliments, à l'exception de :
 
 |
 
-16. Endosulfan (somme des isomères alpha et bêta et du sulfate d'endosulfan, calculée sous forme d'endosulfan).
+16. Endosulfan (somme des isomères alpha et bêta et de l'endosulfansulfate, calculée sous forme d'endosulfan).
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1106,7 +1086,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- maïs et produits dérivés de sa transformation
+- du maïs et des produits dérivés de sa transformation ;
 
 |
 
@@ -1114,7 +1094,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- graines oléagineuses et produits dérivés de leur transformation
+- des graines oléagineuses et des produits dérivés de leur transformation, à l'exception de l'huile végétale brute ;
 
 |
 
@@ -1122,7 +1102,15 @@ Tous les aliments, à l'exception de :
 
 |
 
-- aliments complets pour poisson
+- de l'huile végétale brute ;
+
+|
+
+1,0
+
+|
+
+- des aliments complets pour poissons.
 
 |
 
@@ -1134,7 +1122,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1142,7 +1130,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1150,11 +1138,11 @@ Tous les aliments, à l'exception de :
 
 |
 
-18. Heptathlon (somme de l'heptathlon et de l'heptachloreépoxyde, calculée sous forme d'heptachlore).
+18. Heptachlore (somme de l'heptachlore et de l'époxyde d'heptachlore, calculée sous forme d'heptachlore).
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1162,7 +1150,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1174,7 +1162,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1182,7 +1170,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1190,7 +1178,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-20. Hexachlorocyclohexane (HCH) :
+20. Hexachlorocyclohexane (HCH).
 
 |
 
@@ -1202,7 +1190,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1210,7 +1198,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1222,7 +1210,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-Aliments composés, à l'exception de :
+Toutes les matières premières des aliments pour animaux, à l'exception :
 
 |
 
@@ -1230,23 +1218,7 @@ Aliments composés, à l'exception de :
 
 |
 
-- aliments pour bétail laitier
-
-|
-
-0,005
-
-|
-
-Matières premières, pour aliments des animaux, à l'exception de :
-
-|
-
-0,01
-
-|
-
-matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1254,11 +1226,27 @@ matières grasses
 
 |
 
+Tous les aliments composés, à l'exception :
+
+|
+
+0,01
+
+|
+
+- des aliments composés pour le bétail laitier.
+
+|
+
+0,005
+
+|
+
 20.3. Isomères gamma.
 
 |
 
-Tous les aliments, à l'exception de :
+Tous les aliments, à l'exception :
 
 |
 
@@ -1266,7 +1254,7 @@ Tous les aliments, à l'exception de :
 
 |
 
-- matières grasses
+- des matières grasses et des huiles.
 
 |
 
@@ -1867,3 +1855,7 @@ Abréviations utilisées : T = tetra ; Pe = penta ; Hx = hexa ; Hp = hepta ; O =
 (h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
 
 (i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+
+(j) Isolément ou ensemble, exprimée en dieldrine.
+
+(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
