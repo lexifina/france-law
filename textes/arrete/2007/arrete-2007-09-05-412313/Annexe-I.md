@@ -4,7 +4,9 @@ INFORMATIONS FIGURANT DANS LE RAPPORT AU COMITÉ TECHNIQUE PARITAIRE
 
 Emplois
 
-Nombre de fonctionnaires (1) occupant un emploi permanent rémunérés au 31 décembre
+Nombre de fonctionnaires (1)
+
+occupant un emploi permanent rémunérés au 31 décembre
 
 Nombre de fonctionnaires occupant un emploi permanent à temps complet (temps plein, temps partiel) par sexe, par filière (2), par cadre d'emplois (3) et par grade.
 
@@ -26,7 +28,9 @@ Nombre de fonctionnaires classés par sexe et catégorie hiérarchique (4) occup
 
 - en cessation progressive d'activité.
 
-Nombre d'agents non titulaires occupant un emploi permanent rémunérés au 31 décembre
+Nombre d'agents non titulaires
+
+occupant un emploi permanent rémunérés au 31 décembre
 
 Nombre d'agents non titulaires occupant un emploi permanent à temps complet (temps plein, temps partiel) par sexe, par filière (2), par cadre d'emplois (3) et par type de recrutement.
 
@@ -54,7 +58,7 @@ Agents non titulaires recrutés pour occuper des emplois saisonniers ou occasion
 
 Nombre de personnes bénéficiant d'un contrat aidé en poste dans la collectivité territoriale rémunérées au 31 décembre par type de contrat aidé.
 
-Non titulaires employés par les centres de gestion et mis à disposition des collectivités territoriales : nombre total sur l'année (en nombre de personnes physiques), en poste dans la collectivité territoriale au 31 décembre.
+Non-titulaires employés par les centres de gestion et mis à disposition des collectivités territoriales : nombre total sur l'année (en nombre de personnes physiques), en poste dans la collectivité territoriale au 31 décembre.
 
 Nombre d'apprentis rémunérés au 31 décembre.
 
@@ -66,13 +70,17 @@ Autres (agents non classables dans les catégories précédentes) : nombre total
 
 Nationalités
 
-Répartition des agents par nationalité (français, étrangers de l'Union européenne, étrangers hors de l'Union européenne) et par statut (fonctionnaire, non-titulaire, assistant maternel).
+Répartition des agents par nationalité (Français, étrangers de l'Union européenne, étrangers hors de l'Union européenne) et par statut (fonctionnaire, non titulaire, assistant maternel).
 
-Positions statutaires particulières au 31 décembre des agents gérés par la collectivité territoriale
+Positions statutaires particulières au 31 décembre
+
+des agents gérés par la collectivité territoriale
 
 Nombre d'agents en congé parental.
 
-Nombre d'agents en disponibilité (y compris ceux en disponibilité d'office) ou bénéficiaires d'un congé équivalent pour les non-titulaires.
+Nombre d'agents en disponibilité (hors ceux mis en disponibilité d'office) ou bénéficiaires d'un congé équivalent pour les non-titulaires.
+
+Nombre d'agents mis en disponibilité d'office.
 
 Nombre de fonctionnaires en position hors cadre.
 
@@ -80,7 +88,7 @@ Nombre de fonctionnaires en détachement :
 
 - fonctionnaires originaires de la collectivité détachés dans une autre structure (en distinguant emplois fonctionnels, fonction publique de l'Etat, fonction publique hospitalière, autres collectivités, fonction publique d'un Etat de l'Union européenne...) ;
 
-- agents originaires d'une autre structure (en distinguant : emplois fonctionnels, fonction publique de l'Etat, fonction publique hospitalière, autres collectivités territoriales, fonction militaire, fonction publique d'un Etat membre de l'Union européenne, ...) et détachés dans la collectivité.
+- agents originaires d'une autre structure (en distinguant : emplois fonctionnels, fonction publique de l'Etat, fonction publique hospitalière, autres collectivités territoriales, fonction militaire, fonction publique d'un Etat membre de l'Union européenne...) et détachés dans la collectivité.
 
 Nombre d'agents mis à disposition :
 
@@ -100,13 +108,15 @@ Nombre d'agents admis au congé de fin d'activité.
 
 Mouvements du personnel
 
-Nombre d'agents (fonctionnaires, non-titulaires sur emploi permanent) ayant quitté la collectivité durant l'année : recensement par motif (retraite, décharge de service, décès, démission, détachement, mise à disposition, fin de contrat, licenciement...).
+Nombre d'agents (fonctionnaires, non titulaires sur emploi permanent) ayant quitté la collectivité durant l'année : recensement par motif (retraite, décharge de service, décès, démission, détachement, mise à disposition, fin de contrat, licenciement...).
 
 Nombre de nouveaux agents recensés au cours de l'année dans la collectivité (fonctionnaires, non-titulaires sur emploi permanent) arrivés (ou réintégrés) :
 
 - dont recrutement suite à un concours.
 
-Recrutements, titularisations ou promotions d'agents sur emplois permanents
+Recrutements, titularisations ou promotions d'agents
+
+sur emplois permanents
 
 Nombre de recrutements par catégorie hiérarchique (4) et par filière (2) :
 
@@ -140,69 +150,27 @@ Nombre de fonctionnaires bénéficiaires d'un avancement de grade par sexe.
 
 Nombre de fonctionnaires bénéficiaires d'un avancement d'échelon par sexe.
 
-Agents handicapés et inaptes
+Nombre de fonctionnaires bénéficiant d'un avancement de grade par filière et par catégorie hiérarchique.
 
-Pour les collectivités territoriales de plus de 20 agents :
+Agents handicapés
 
-Nombre d'agents handicapés par catégorie hiérarchique (4), statut (fonctionnaire, non-titulaire) et sexe :
+Pour les collectivités territoriales de plus de vingt agents :
 
-Handicapés COTOREP :
+(Les indicateurs sont issus du contenu de la déclaration annuelle au fonds pour l'insertion des personnes handicapées dans la fonction publique défini par l'arrêté du 2 juin 2006.)
 
-- dont recrutés comme contractuels en application de l'article 38 de la loi n° 84-53 du 26 janvier 1984 ;
+Nombre légal de bénéficiaires de l'obligation d'emploi.
 
-- accidentés du travail ou victimes d'une maladie professionnelle ;
+Effectif des bénéficiaires de l'obligation d'emploi pour l'année écoulée :
 
-- fonctionnaires percevant une allocation temporaire d'invalidité.
+Nombre total, nombre par catégorie de bénéficiaires, par catégorie hiérarchique, par sexe, par tranche d'âge et par mode de recrutement.
 
-Anciens militaires titulaires d'une pension d'invalidité.
+Taux d'emploi pour l'année écoulée.
 
-Fonctionnaires inaptes ou reclassés.
+Nombre d'unités déductibles du nombre d'unités manquantes :
 
-Equivalents temps plein de l'ensemble des travailleurs handicapés employés.
+- montant total des dépenses réalisées au cours de l'année écoulée au titre des contrats de fournitures de sous-traitance ou de prestations de services avec des entreprises adaptées, des centres de distribution de travail à domicile ou de centres d'aide par le travail, en application du premier alinéa de l'article L. 323-8 du code du travail ;
 
-Passation de marchés avec des établissements de travail protégé :
-
-- montant total des marchés passés ;
-
-- équivalents bénéficiaires.
-
-Respect des obligations d'emplois (collectivités soumises aux obligations de la loi n° 87-517 du 10 juillet 1987) :
-
-- nombre de travailleurs handicapés employés (équivalents temps plein et équivalents bénéficiaires) ;
-
-- taux d'emploi des travailleurs handicapés.
-
-Recrutement d'agents handicapés par sexe :
-
-Handicapés COTOREP :
-
-- dont recrutés comme contractuels en application de l'article 38 de la loi n° 84-53 du 26 janvier 1984 ;
-
-- accidentés du travail ou victimes d'une maladie professionnelle ;
-
-- fonctionnaires percevant une allocation temporaire d'invalidité ;
-
-Anciens militaires titulaires d'une pension d'invalidité.
-
-Fonctionnaires inaptes ou reclassés.
-
-Pour toutes les collectivités territoriales :
-
-Fonctionnaires inaptes :
-
-- nombre de fonctionnaires ayant demandé à être reclassés au cours de l'année suite à une inaptitude liée à un accident du travail ou une maladie professionnelle ;
-
-- nombre de fonctionnaires ayant demandé à être reclassés au cours de l'année suite à une inaptitude liée à d'autres facteurs ;
-
-- nombre de fonctionnaires effectivement reclassés ;
-
-- nombre de fonctionnaires considérés définitivement inaptes à leur emploi au cours de l'année par le médecin ou les médecins de médecine professionnelle et préventive ;
-
-- nombre de bénéficiaires d'un mi-temps thérapeutique recensés sur l'année ;
-
-- nombre de fonctionnaires bénéficiant d'aménagement d'horaire ou d'aménagement de poste de travail ;
-
-- nombre de fonctionnaires mis en disponibilité d'office.
+- montant total et montants individualisés par agent des dépenses mentionnées aux II, III et IV de l'article 6 du décret n° 2006-501 du 3 mai 2006.
 
 Absences au travail
 
@@ -242,9 +210,9 @@ Compte épargne-temps (décret n° 2004-878 du 26 août 2004 relatif au compte �
 
 Rémunérations et charges
 
-Rémunérations et nouvelle bonification indiciaire (NBI) pour l'ensemble des agents
+Rémunérations et nouvelle bonification indiciaire (NBI)
 
-(au sens de l'article 20 de la loi n° 83-634 du 13 juillet 1983)
+pour l'ensemble des agents (au sens de l'article 20 de la loi n° 83-634 du 13 juillet 1983)
 
 Total des rémunérations annuelles brutes versées aux fonctionnaires (1) rémunérés au 31 décembre :
 
@@ -280,7 +248,7 @@ Indemnités (y compris heures supplémentaires) des personnels non titulaires su
 
 Assurances chômage
 
-Cotisations à l'UNEDIC : montant versé au cours de l'année, nombre d'allocataires agents non titulaires.
+Cotisations à l'Unedic : montant versé au cours de l'année, nombre d'allocataires agents non titulaires.
 
 Allocations chômage versées directement aux bénéficiaires : montant total versé au cours de l'année, nombre d'allocataires fonctionnaires (dispositif L. 351-12, alinéa 2, du code du travail), nombre d'allocataires agents non titulaires, montant versé au cours de l'année pour chaque catégorie d'allocataires.
 
@@ -314,6 +282,22 @@ Rapport du médecin de prévention (art. 26 du décret n° 85-603 du 10 juin 198
 
 Existence des fiches des risques professionnels établies par le médecin (art. 14-1 du décret n° 85-603 du 10 juin 1985).
 
+Nombre de fonctionnaires ayant demandé à être reclassés au cours de l'année suite à une inaptitude liée à un accident du travail ou une maladie professionnelle.
+
+Nombre de fonctionnaires effectivement reclassés au cours de l'année suite à une inaptitude liée à un accident du travail ou une maladie professionnelle.
+
+Fonctionnaires inaptes
+
+Nombre de fonctionnaires ayant demandé à être reclassés au cours de l'année suite à une inaptitude non liée à un accident du travail ou une maladie professionnelle.
+
+Nombre de fonctionnaires effectivement reclassés suite à une inaptitude non liée à un accident du travail ou une maladie professionnelle.
+
+Nombre de fonctionnaires considérés définitivement inaptes à leur emploi au cours de l'année par le médecin ou les médecins de médecine professionnelle et préventive.
+
+Nombre de bénéficiaires d'un temps partiel thérapeutique recensés sur l'année.
+
+Nombre de fonctionnaires bénéficiant d'aménagement d'horaire ou d'aménagement de poste de travail.
+
 Mesures en matière de sécurité au sens du décret n° 85-603 du 10 juin 1985
 
 Nombre d'agents chargés de la mise en oeuvre des actions de sécurité.
@@ -342,7 +326,7 @@ Heures supplémentaires
 
 Nombre total d'heures supplémentaires rémunérées.
 
-Nombre d'heures supplémentaires rémunérées par service.
+Nombre d'heures supplémentaires rémunérées par filière et par cadre d'emplois.
 
 Formation
 
@@ -392,7 +376,7 @@ Coût de la formation
 
 Montant de la cotisation obligatoire versée au Centre national de la fonction publique territoriale.
 
-Coûts des actions de formation prises en charge par les collectivités territoriales (coûts pédagogiques des actions organisées par les collectivités, frais d'inscription à des stages, colloques...), avec mention des versements au Centre national de la fonction publique territoriale au titre des actions organisées en partenariat.
+Coûts des actions de formation prises en charge par les collectivités territoriales (coûts pédagogiques des actions organisées par les collectivités, frais d'inscription à des stages, colloques...) avec mention des versements au Centre national de la fonction publique territoriale au titre des actions organisées en partenariat.
 
 Frais de déplacement des stagiaires.
 
@@ -408,9 +392,17 @@ Nombre de réunions de la commission administrative paritaire (CAP).
 
 Nombre de réunions du comité d'hygiène et de sécurité (CHS).
 
-Participation
+Droit syndical
 
-Nombre de journées d'absence pour motif syndical ou de représentation.
+Nombre de jours d'autorisations spéciales d'absence accordés en application de l'article 13 du décret du 3 avril 1985.
+
+Volume du contingent global d'heures d'autorisations spéciales d'absence calculé en application de l'article 14 du décret du 3 avril 1985.
+
+Nombre d'heures de décharges d'activité de service auxquelles ont droit les organisations syndicales.
+
+Nombre d'heures de décharges d'activité de service effectivement utilisées.
+
+Nombre de jours d'absence pour formation syndicale accordés aux fonctionnaires.
 
 Conflits du travail
 
