@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901813
+
+- Question : [SEQ070901813](seq070901813.md) — Mobile homes et habitat permanent
+
+## Réponse
+
+*Écologie, JO du 2007-11-15, page 2085*
+
+Le code de l'urbanisme comprend la définition des caravanes de tourisme, des résidences mobiles de loisirs et des habitations légères de loisirs. La définition des caravanes des gens du voyage, également appelées résidences mobiles, est prévue par la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage. Le code de l'urbanisme précise en revanche à quelle formalité l'installation ou l'implantation de ces caravanes ou résidences mobiles est soumise au titre du code de l'urbanisme : le stationnement, en dehors d'une aire d'accueil aménagée à cet effet, d'une caravane de gens du voyage est soumis à déclaration préalable si ce stationnement dure plus de trois mois consécutifs ; le stationnement d'une caravane de tourisme, en dehors d'un terrain de camping, est soumis à déclaration préalable lorsqu'il dure plus de trois mois par an, même non consécutifs. Est toutefois dispensé de toute formalité, le garage d'une caravane sur le terrain de la résidence principale de son propriétaire ; l'installation d'une résidence mobile de loisirs n'est soumise à aucune formalité lorsqu'elle est effectuée à l'intérieur d'un terrain de camping et d'un parc résidentiel de loisirs et elle est interdite en dehors de ces emplacements ; l'implantation, à l'intérieur d'un terrain de camping ou d'un parc résidentiel de loisirs, d'une habitation légère de loisirs est soumise à déclaration lorsque cette habitation a une surface hors oeuvre brute supérieure à trente-cinq mètres carrés. En dehors des terrains de camping ou des parcs résidentiels de loisirs, elle est soumise à permis de construire lorsque l'habitation légère de loisirs a une surface supérieure à vingt mètres carrés.
