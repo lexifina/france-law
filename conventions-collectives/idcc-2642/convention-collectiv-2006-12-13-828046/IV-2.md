@@ -16,28 +16,16 @@ Lorsque le contrat de travail (CDDU) à plein temps a une durée égale ou supé
 
 Pour les salariés embauchés sous contrat à durée indéterminée et assimilés, dans les catégories B et C, les salaires minimaux applicables sont fixés sous la forme d'une grille distincte. Les salaires minimaux de la catégorie A ne concernent que des contrats à durée indéterminée ou assimilés.
 
-IV. 2. 2. Importance de la production
+IV. 2. 2. Conditions d'exercice des emplois
 
-(Remplacé par avenant n° 1 du 12 février 2007) (1)
+(1)
 
-Pour certains emplois, les conditions d'exercice de la mission confiée au salarié peuvent varier considérablement.
+Les partenaires sociaux de la production audiovisuelle, tout en affirmant l'unité de la branche tant pour ce qui est des entreprises que pour ce qui est des salariés, reconnaissent que les conditions d'exercice de certaines fonctions techniques ou de production peuvent varier sensiblement d'une production à l'autre, en fonction du genre et de la durée du programme, de la taille de l'équipe mise en oeuvre, du rythme de production, du format et du mode d'exploitation.
 
-Parmi les facteurs de différenciation de cette mission figurent notamment :
+Pour rendre compte de cette variété de situations, ils ont été conduits à identifier des emplois spécialisés et à établir, pour certaines fonctions, des restrictions de recours, liées à l'une ou l'autre de ces situations.
 
-― le genre du programme ;
+Ainsi, ils ont jugé légitime d'interdire de recourir à certains emplois pour la production d'oeuvres audiovisuelles - qui suppose une compétence artistique et technique spécifique -, pour la fiction - qui nécessite la maîtrise de capacités professionnelles particulières -, ou plus spécialement pour la fiction lourde - caractérisée par l'importance des moyens employés, et dont la production met en oeuvre une organisation du travail et des relations professionnelles qui lui sont propres.
 
-― l'importance de l'équipe de production ou de réalisation ;
+Ces restrictions sont précisées dans le tableau des emplois inséré dans le présent titre.
 
-― la complexité technique des moyens mis en oeuvre.
-
-En 2000, un accord d'étape a prévu de synthétiser ces facteurs par le niveau des dépenses horaires françaises.
-
-Un arrêt de la cour d'appel de Paris en date du 25 janvier 2007 a annulé le dispositif ainsi créé.
-
-Les partenaires sociaux de la production audiovisuelle reconnaissent la nécessité de revoir le dispositif initialement prévu. Ils s'engagent à négocier un nouveau dispositif dans un délai de 3 mois à compter de la publication de l'arrêté d'extension de la présente convention collective. Dans l'intervalle et dans la limite de ce délai le dispositif ci-dessous est maintenu.
-
-Les parties sont en conséquence convenues, pour certains emplois occupés sous CDDU, de prévoir, au-delà du minimum conventionnel de référence (M1), un salaire minimum accru (M2), lorsque des conditions particulières d'exercice de la mission du salarié sont réunies. Conscientes de l'importance de retenir un critère de différenciation qui ne dépende pas de la volonté de l'employeur, elles ont retenu le montant des dépenses horaires françaises, selon les critères et définitions mis en oeuvre par le Centre national de la cinématographie.
-
-Le niveau correspondant est applicable aux emplois concernés dès lors que les dépenses horaires françaises (HT) excèdent un montant fixé lors de la négociation annuelle des salaires.
-
-(1) Article étendu sous réserve que la négociation prévue par ledit article aboutisse à la conclusion d'un nouveau dispositif fixant des critères objectifs et vérifiables en relation directe avec la valeur du travail effectué, et ne contrevienne pas au principe « à travail égal, salaire égal » prévu aux articles L. 133-5 et L. 136-2 du code du travail et reconnu par la jurisprudence de la Cour de cassation (Cass. Soc 29 octobre 1996, société Delzongle c / Ponsolle) (arrêté du 24 juillet 2007, art. 1er).
+(1) L'arrêté du 21 mai 2008 (JORF du 28 mai 2008) portant extension de l'avenant n° 2 du 15 novembre 2007, en tant qu'il étend l'article IV. 2. 2. a été annulé par décision du Conseil d'Etat du 23 juillet 2010 (n° 316588).

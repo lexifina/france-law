@@ -84,8 +84,6 @@ Pour les emplois de catégorie B et C, il est d'usage constant au sein de la bra
 
 L'emploi de réalisateur (HN), dans la filière M de la catégorie B, fait l'objet d'une annexe particulière à la présente convention collective.
 
-FILIÈRE |
-
 EMPLOIS DE CATÉGORIE B |
 
 |
@@ -106,7 +104,7 @@ Niveau V |
 
 Niveau VI |
 
-A - Conception |
+A-Conception |
 
 |
 
@@ -114,7 +112,7 @@ A - Conception |
 
 Coordinateur d'écriture (1)
 
-Resp. d'enquête/de recherches
+Responsable d'enquête / de recherches
 
 Documentaliste |
 
@@ -122,7 +120,7 @@ Animatronicien
 
 Illustrateur sonore |
 
-Enquêteur/recherchiste |
+Enquêteur / recherchiste |
 
 Collaborateur artistique |
 
@@ -130,73 +128,101 @@ Collaborateur artistique |
 
 |
 
-B - Costumes |
+B-Costumes |
 
 |
 
 |
 
-Créateur de costumes |
+Créateur de costumes spécialisé
+
+Créateur de costumes (14) |
 
 |
 
-Chef costumier
+Chef costumier spécialisé
+
+Chef costumier (14)
 
 Styliste |
 
-Costumier |
+Costumier spécialisé
 
-Habilleur |
+Costumier (14) |
 
-|
+Habilleur spécialisé
 
-C - Décoration |
-
-|
+Habilleur (14) |
 
 |
 
-Chef décorateur
+C-Décoration |
 
-Décorateur (2) |
+|
+
+|
+
+Chef décorateur spécialisé
+
+Chef décorateur (14)
+
+Décorateur spécialisé (2)
+
+Décorateur (2) (14) |
 
 Chef constructeur
 
-Ensemblier-décorateur
+Ensemblier-décorateurspécialisé
 
-1er ass. décorateur |
+Ensemblier-décorateur (14)
 
-Décorateur peintre
+1er assistantdécorateurspécialisé
 
-Dessinateur en décors
+1er ass. décorateur (14) |
 
-Décorateur tapissier
+Décorateur peintre spécialisé
 
-2e ass. décorateur
+Décorateur peintre (14)
 
-Régisseur d'extérieurs
+Dessinateur en décors spécialisé
 
-Accessoiriste |
+Dessinateur en décors (14)
+
+Décorateur tapissier spécialisé
+
+Décorateur tapissier (14)
+
+2e ass. décorateur spécialisé
+
+2e ass. décorateur (14)
+
+Régisseur d'extérieurs spécialisés
+
+Régisseur d'extérieurs (14)
+
+Accessoiriste spécialisé
+
+Accessoiriste (14) |
 
 Chef d'équipe |
 
 Menuisier-traceur, staffeur
 
-Peintre en lettres/en faux bois
+Peintre en lettres / en faux bois
 
-Maçon/peintre/métallier/serrurier
+Maçon / peintre / métallier / serrurier
 
 Mécanicien
 
-Tapisserie/toupilleur
+Tapisserie / toupilleur
 
-Electricien/machiniste décorateur
+Electricien / machinistedécorateur
 
 Rippeur |
 
 |
 
-E - Techniques du direct |
+E-Techniques du direct |
 
 |
 
@@ -206,11 +232,11 @@ Ing. de la vision |
 
 |
 
-Etalonneurt/Op. de voies
+Etalonneurt / Op. de voies
 
 Ing. de la vision adjoint
 
-Monteur(6) |
+Monteur (6) |
 
 Technicien vidéo
 
@@ -218,39 +244,55 @@ Technicien truquiste |
 
 Op. régie vidéo (3)
 
-Op. magnéto ralenti/Op. magnétoscope
+Op. magnéto ralenti / Op. magnétoscope
 
 Op. synthétiseur |
 
 |
 
-F - Image (OPV = opérateur de prise de vues) |
+F-Image
+
+(OPV = opérateur de prise de vues) |
 
 |
 
-Dir. photo |
+Dir. photo spécialisé
+
+Dir. photo (14) |
 
 Chef OPV (4) |
 
 Superviseur effets spéciaux
 
-Op. spécial (steadycamer)
+Opérateur spécial (steadicamer) spécialisé
 
-Cadreur/OPV (5)
+Op. spécial (steadicamer) (14)
 
-1er Ass. OPV/pointeur |
+Cadreur (14) / OPV (5)
+
+Cadreur spécialisé
+
+1er ass. OPV / pointeur spécialisé
+
+1er ass. OPV / pointeur (14) |
 
 Op. effets temps réel
 
-Photographe de plateau |
+Photographe deplateau spécialisé
 
-Ass. lumière |
+Photographe deplateau (14) |
 
-2e Ass. OPV |
+Assistant lumière spécialisé
+
+Ass. lumière (14) |
+
+2e ass. OPV spécialisé
+
+2e ass. OPV (14) |
 
 Ass. OPV adjoint (*) |
 
-H - Machinistes et électricien |
+H-Machinistes et électriciens |
 
 |
 
@@ -268,13 +310,13 @@ Chef machiniste |
 
 Conducteur de groupe |
 
-Electricien/éclairagiste
+Electricien / éclairagiste
 
 Machiniste |
 
 |
 
-I - Maquillage et coiffure |
+I-Maquillage et coiffure |
 
 |
 
@@ -282,39 +324,51 @@ I - Maquillage et coiffure |
 
 |
 
-Chef maquilleur |
+Chef maquilleur spécialisé
+
+Chef maquilleur (14) |
 
 Maquillage et coiffure spéciaux
 
 Prothésiste |
 
-Coiffeur perruquier |
+Coiffeur perruquier spécialisé
 
-Coiffeur
+Coiffeur perruquier (14) |
 
-Maquilleur |
+Coiffeur spécialisé
 
-|
+Coiffeur (14)
 
-J - Montage |
+Maquilleur spécialisé
 
-|
-
-|
+Maquilleur (14) |
 
 |
 
-Chef monteur |
+J-Montage |
 
 |
 
-Ass. monteur |
+|
 
 |
 
-Ass. monteur adjoint (*) |
+Chef monteur spécialisé
 
-K - Post-production |
+Chef monteur (14) |
+
+|
+
+Ass. monteur spécialisé
+
+Ass. monteur (14) |
+
+|
+
+Assistant monteur adjoint (*) |
+
+K-Post-production |
 
 |
 
@@ -344,11 +398,13 @@ Ass. de post-production |
 
 |
 
-L - Production et régie |
+L-Production et régie |
 
 Producteur exécutif |
 
-Dir. de production |
+Dir. de production spécialisé
+
+Dir. de production (14) |
 
 Dir. artistique
 
@@ -360,15 +416,23 @@ Dir. de programmation
 
 Producteur artistique (7)
 
-Chargé de production (8) |
+Chargé deproduction (8) |
 
-Régisseur général
+Régisseur général spécialisé
 
-Administrateur de production
+Régisseur général (14)
 
-Dir. de la distribution |
+Administrateur de production spécialisé
 
-Régisseur/resp. repérages
+Administrateur de production (14)
+
+Dir. de la distribution spécialisé
+
+Dir. de la distribution (14) |
+
+Régisseur / resp. repérages spécialisé
+
+Régisseur / resp. repérages (14)
 
 Dir. des dialogues
 
@@ -378,17 +442,25 @@ Répétiteur
 
 Resp. des enfants |
 
-Comptable de production
+Comptable de production spécialisé
 
-Ass. de production
+Comptable de production (14)
 
-Régisseur adjoint
+Ass. de production spécialisé
+
+Ass. de production (14)
+
+Régisseur adjoint spécialisé
+
+Régisseur adjoint (14)
 
 Régisseur de plateau
 
 Chef de plateau |
 
-Secrétaire de production |
+Secrétaire de production spécialisé
+
+Secrétaire de production (14) |
 
 Aide de plateau
 
@@ -402,7 +474,7 @@ Ass. d'émission (12)
 
 Régulateur de stationnement |
 
-M - Réalisation |
+M-Réalisation |
 
 Réalisateur |
 
@@ -410,15 +482,21 @@ Réalisateur |
 
 Conseiller technique réalisation
 
-1er ass. réalisateur |
+1er ass. réalisateur spécialisé
 
-Scripte |
+1er ass. réalisateur (14) |
+
+Scripte spécialisée
+
+Scripte (14) |
 
 Ass. réalisateur (9)
 
 Storyboarder |
 
-2e ass. réalisateur |
+2e ass. réalisateur spécialisé
+
+2e ass. réalisateur (14) |
 
 |
 
@@ -426,7 +504,7 @@ Ass. réalisateur adjoint (*)
 
 Ass. scripte adjointe (*) |
 
-N - Son
+N-Son
 
 (OPS = opérateur de prise de son) |
 
@@ -436,13 +514,17 @@ N - Son
 
 |
 
-Chef OPS/ing. du son
+Chef OPS / ing. du son spécialisé
+
+Chef OPS / ing. du son (14)
 
 Mixeur (directs) (10)
 
 Bruiteur
 
-Perchiste/1er ass. son |
+Perchiste / 1er ass. son spécialisé
+
+Perchiste / 1er ass. son (14) |
 
 OPS (11) |
 
@@ -476,7 +558,7 @@ Niveau V |
 
 Niveau VI |
 
-O - Administration |
+O-Administration |
 
 Producteur
 
@@ -502,7 +584,7 @@ Dir. juridique
 
 Dir. technique
 
-Dir. des ressources humaines
+Directeur desressources humaines
 
 Dir. littéraire
 
@@ -592,7 +674,7 @@ Gardien
 
 Agent d'entretien |
 
-P - Commercial et addition |
+P-Commercial et addition |
 
 |
 
@@ -604,13 +686,13 @@ Dir. commercial |
 
 Resp. des ventes
 
-Resp. droits dérivés |
+Resp. droitsdérivés |
 
 Resp. des supports |
 
 Vendeur |
 
-Ass. web/téléphone
+Ass. web / téléphone
 
 Ass. commercial |
 
@@ -638,7 +720,7 @@ Niveau V |
 
 Niveau VI |
 
-Q - Intervenants à l'antenne |
+Q-Intervenants à l'antenne |
 
 Animateur d'émission
 
@@ -660,19 +742,19 @@ Invité intervenant |
 
 Doublure lumière
 
-Figurant (&gt; 30)
+Figurant (& gt ; 30)
 
-Figurant (&lt; 30) |
+Figurant (& lt ; 30) |
 
 |
 
 Dir. = directeur, resp. = responsable, ass. = assistant, ing. = ingénieur, op. = opérateur.
 
-(1) Le coordonnateur d'écriture (script editor) assure la coordination du travail des différents auteurs collaborant à une oeuvre.
+(1) Le coordonnateur d'écriture (script éditor) assure la coordination du travail des différents auteurs collaborant à une oeuvre.
 
-(2) Ne s'applique pas à la création complète de décor.
+(2) Ne s'applique pas à la création de décor.
 
-(3) Le producteur ne peur recourir au CDDU pour cet emploi que s'il n'est pas propriétaire du matériel.
+(3) Le producteur ne peut recourir au CDDU pour cet emploi que s'il n'est pas propriétaire du matériel.
 
 (4) Il n'y a pas de chef OPV en fiction.
 
@@ -684,12 +766,16 @@ Dir. = directeur, resp. = responsable, ass. = assistant, ing. = ingénieur, op. 
 
 (8) Exclut la responsabilité globale de la production.
 
-(9) Exclu pour la fiction.
+(9) Exclut pour la fiction.
 
 (10) Exclut la responsabilité globale du son.
 
-(11) Equipe restreinte seulement hors fiction.
+(11) Equipe restreinte seulement, hors fiction.
 
-(12) Chargé, sous l'autorité d'un resp., de la préparation artistique ou éditoriale.
+(12) Chargé sous l'autorité d'un responsable de la préparation artistique ou éditoriale.
 
-(*) Suppose que les emplois de titulaires soient occupés. |
+(14) Recours interdit pour la fiction lourde, caractérisée par un niveau de dépenses éligibles supérieur à un seuil fixé annuellement.
+
+(*) Suppose que les emplois de titulaires sont occupés. |
+
+(1) L'arrêté du 21 mai 2008 (JORF du 28 mai 2008) portant extension de l'accord du 15 novembre 2007 a été annulé par décision du Conseil d'Etat en tant qu'il étend les stipulations relatives à la grille des salaires minimaux des emplois de catégorie B des techniciens de la production audiovisuelle (n°316588).
