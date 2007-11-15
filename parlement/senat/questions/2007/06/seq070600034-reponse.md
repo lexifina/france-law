@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600034
+
+- Question : [SEQ070600034](seq070600034.md) — Temps de parcours par TGV entre Paris et Metz
+
+## Réponse
+
+*Transports, JO du 2007-11-15, page 2096*
+
+Dans les premières semaines de lancement, la LGV Est Européenne a connu un vrai succès populaire. Plus de deux millions de passagers sont montés à bord des TGV entre le 10 juin et le 31 juillet, représentant une hausse de 80 % par rapport à la même période de l'année dernière. Pour préparer cet événement, la SNCF a diffusé un dossier de presse où étaient indiquées les grandes avancées offertes à la clientèle grâce à cette nouvelle ligne. Considérant les gains de temps substantiels obtenus sur les destinations des régions Est de la France, la durée des trajets entre grandes villes a constitué un point essentiel de cette communication. Le dossier de presse et les supports préparés par le service de presse de la direction de Voyageurs France Europe indiquent un temps de trajet de 1 h 25 sur Paris-Metz. Cependant, des supports de communication réalisés avant que les horaires ne soient finement calés ont bien été réalisés en indiquant 1 h 30 pour cette liaison. Il n'était nullement dans l'intention de la SNCF d'allonger artificiellement la durée de ce trajet, mais de présenter de manière non encore définitive le gain offert par rapport aux 2 h 45 nécessaires auparavant. Les durées figurant sur les supports de communication sont arrondies au chiffre des cinq minutes immédiatement supérieur afin de présenter un message clair et de ne pas communiquer sur plusieurs horaires différents (1 h 22 ou 1 h 23). Cette règle a été appliquée à toutes les destinations de la LGV Est européenne. La durée des trajets n'est jamais arrondie à une durée inférieure à celle indiquée sur les horaires, compte tenu du risque de poursuite encouru par la SNCF pour publicité mensongère.
