@@ -46,6 +46,14 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées. (référence : article 34-1 du décret du 21 septembre 1977).
 
+1.8. Contrôles périodiques
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe IV, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier "Installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
+
 2. Implantation - aménagement
 
 2.1. Règles d'implantation
@@ -286,7 +294,7 @@ a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assaini
 
 - pH (NFT 90-008) 5,5 - 8,5 (9,5 en cas de neutralisation alcaline) ;
 
-- température < 30o C.
+- température < 30 °C.
 
 b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
@@ -364,7 +372,7 @@ L'exploitant prend les dispositions utiles pour éviter la formation de poussiè
 
 6.2. Valeurs limites et conditions de rejet
 
-Les effluents gazeux doivent respecter les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273o Kelvin) et de pression (101,3 kiloPascal) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
+Les effluents gazeux doivent respecter les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273° Kelvin) et de pression (101,3 kiloPascal) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
 
 Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux non dilués. Pour les métaux, les valeurs limites s'appliquent à la masse totale d'une substance émise, y compris la part sous forme de gaz ou de vapeur contenue dans les effluents gazeux.
 
@@ -378,7 +386,7 @@ b.1. Définitions.
 
 On entend par :
 
-- "composé organique volatil" (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15o Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
+- "composé organique volatil" (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
 
 - "solvant organique", tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
 
@@ -396,7 +404,7 @@ Des dérogations aux valeurs limites d'émission diffuses de COV mentionnées ci
 
 I. - Cas général.
 
-Sans objet (3) .
+Sans objet (3).
 
 II. - Activité spécifique :
 
@@ -670,7 +678,7 @@ et jours fériés
 
 |
 
-supérieur à 35 et inférieur ou égal à 45 dB (A)
+Supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
@@ -682,7 +690,7 @@ supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
-supérieur à 45 dB (A)
+Supérieur à 45 dB (A)
 
 |
 
