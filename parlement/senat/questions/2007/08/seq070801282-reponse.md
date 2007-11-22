@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801282
+
+- Question : [SEQ070801282](seq070801282.md) — Recensement des travailleurs handicapés dans une entreprise
+
+## Réponse
+
+*Travail, JO du 2007-11-22, page 2153*
+
+L'attention de M. le ministre du travail, des relations sociales et de la solidarité a été appelée sur la possibilité de permettre aux médecins du travail de recenser les travailleurs handicapés d'une entreprise et de fournir annuellement à l'employeur une liste anonyme des bénéficiaires de l'obligation d'emploi des travailleurs handicapés lui permettant ainsi de mieux cerner son obligation d'emploi. L'obligation d'emploi des travailleurs handicapés instituée par la loi n° 87-517 du 10 juillet 1987 modifiée en faveur de l'emploi des travailleurs handicapés, fait l'objet d'un contrôle par les directions départementales du travail, de l'emploi et de la formation professionnelle qui prennent en compte pour ce contrôle, non pas le fait qu'un salarié présente un handicap ou une inaptitude à un type de poste donné, mais le fait qu'il soit bénéficiaire de l'obligation d'emploi des travailleurs handicapés dont la liste est limitativement fixée à l'article L. 323-3 du code du travail. Cette qualité doit être en outre attestée par une pièce justificative en cours de validité. Or, au nom du principe du respect de la vie privée énoncé à l'article 9 du code civil, seule la personne handicapée peut, par une démarche volontaire, porter à la connaissance de l'employeur ou du médecin du travail sa condition de bénéficiaire de l'obligation d'emploi. La communication aux entreprises assujetties à l'obligation d'emploi des travailleurs handicapés du nombre global dans leur effectif des bénéficiaires de cette obligation, risquerait d'inciter les employeurs à rechercher activement ces bénéficiaires pour les inciter à se faire connaître et par voie de conséquence remettrait en cause la protection de leur vie privée.
