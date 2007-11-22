@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801326
+
+- Question : [SEQ070801326](seq070801326.md) — Délais de délivrance par les services consulaires français de visas aux touristes russes
+
+## Réponse
+
+*Affaires étrangères, JO du 2007-11-22, page 2130*
+
+M. Jean Louis Masson a bien voulu attirer l'attention du ministre des affaires étrangères et européennes M. Bernard Kouchner sur les difficultés rencontrées à Moscou en matière de délivrance des visas. Le ministère des affaires étrangères et européennes s'est mobilisé pour résoudre les contraintes qui pesaient sur une délivrance rapide des visas de court séjour aux ressortissants russes du fait d'une forte augmentation des demandes. Une mission d'évaluation et d'audit, présidée par le directeur des Français de l'étranger et des étrangers en France, s'est rendue en septembre dernier à Moscou. Elle a pu constater une normalisation de la situation au sein du service des visas. La productivité du service s'est accrue de près de 50 % et le stock de visas en attente s'est résorbé. Le délai moyen de délivrance d'un visa de court séjour atteint désormais quatre jours, contre plus d'un mois avant l'été. Ces résultats positifs ont été atteints grâce à la mise en place de mesures préconisées par les missions successives du ministère. L'externalisation auprès d'un prestataire de service d'un premier filtrage des demandes de visa, à compter du 15 juin 2007, a tout d'abord permis de désengorger nos services consulaires, lesquels ont ainsi pu se consacrer au traitement, à proprement parler, des demandes. La dernière mission en date a par ailleurs introduit de nouvelles méthodes de gestion fondées sur des mesures de productivité, sur une rationalisation et une restructuration des services concernés. Enfin, la mission a pu constater que cette normalisation s'effectuait dans des conditions de sécurité, de prévention des fraudes et de professionnalisme accrues.
