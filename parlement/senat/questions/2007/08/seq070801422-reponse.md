@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801422
+
+- Question : [SEQ070801422](seq070801422.md) — Fresque d'Albert Herter à la gare de l'Est à Paris
+
+## Réponse
+
+*Culture, JO du 2007-11-22, page 2135*
+
+La toile intitulée Le Départ des combattants de la gare de l'Est le 2 août 1914 offerte à la France par le peintre américain Albert Herter à la mémoire de son fils tombé au champ d'honneur en 1918 à Château-Thierry a bien été déposée, roulée puis entreposée à la cité du train-musée du chemin de fer à Mulhouse lors des travaux de restructuration de la gare de l'Est en vue de l'arrivée du train à grande vitesse. La restauration et la repose de cette toile sont programmées et figurent explicitement dans le permis de construire. À cette fin, l'agence des gares de la SNCF, maître d'oeuvre, a fait établir des devis comparatifs relatifs à l'opération de restauration. Les délais nécessaires à l'analyse des devis, au choix d'une entreprise chargée de la restauration et à l'engagement financier de la SNCF, devraient impliquer un commencement des travaux sur cette oeuvre au mois de décembre 2007 pour aboutir à une remise en place prévisionnelle de l'oeuvre au cours du troisième trimestre 2008. Il est en outre envisagé d'exposer cette fresque dans un emplacement plus approprié, comme l'a indiqué Guillaume Pépy, directeur général de la SNCF, dans un communiqué de presse paru le 21 août 2007. En effet, dans son dernier emplacement, cette toile reposait sur les chapiteaux des grandes arcades et occultait la partie basse des fenêtres hautes qui s'y trouvent. Cette exposition n'étant pas très convaincante, l'accrochage ne saurait être identique à celui de 1931, sur le quai de tête ou transversal, puisqu'une grosse poutre métallique fait obstacle et que le voisinage de la signalétique et de la publicité ne lui assure plus un cadre en rapport avec la solennité et la gravité du sujet.
