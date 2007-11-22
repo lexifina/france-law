@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801290
+
+- Question : [SEQ070801290](seq070801290.md) — Revalorisation indiciaire du corps des ingénieurs du génie sanitaire
+
+## Réponse
+
+*Fonction publique, JO du 2007-11-22, page 2143*
+
+Le corps des ingénieurs du génie sanitaire a fait l'objet d'une demande de revalorisation indiciaire qui tend à porter l'indice sommital du corps de la hors-échelle A (HEA) à la hors-échelle B (HEB). Dans la fonction publique de l'État, la fixation d'indices terminaux au-delà de la HEA est réservée aux corps d'ingénieurs recrutés à la sortie de l'école polytechnique. Une entorse à ce principe serait susceptible d'entraîner des demandes reconventionnelles de la part des autres corps d'ingénieurs. Dans la fonction publique territoriale, les ingénieurs culminent à la HEB, mais la structure de leur carrière, très différente, rend la comparaison difficile. En effet, leur carrière est construite en quatre grades avec une possibilité de recrutement direct au troisième grade pour les ingénieurs polytechniciens. Elle est plus longue que celle des ingénieurs du génie sanitaire et les indices sommitaux des grades intermédiaires sont moins favorables. En outre, Il convient de veiller au positionnement des ingénieurs du génie sanitaire vis-à-vis des directeurs départementaux et régionaux de l'action sanitaire. En effet, il n'est pas envisageable que les ingénieurs soient mieux rémunérés que les directeurs de l'action sanitaire sous l'autorité hiérarchique desquels ils sont placés. Il n'est donc pas envisagé de prévoir l'accès de tous les ingénieurs du génie sanitaire à la HEB. En revanche, l'accès de certains membres du corps à ce niveau de rémunération est à l'étude et pourrait être envisagé dans le cadre de l'élaboration d'un statut d'emploi réservé aux fonctions exigeant les plus hauts niveaux de responsabilité.
