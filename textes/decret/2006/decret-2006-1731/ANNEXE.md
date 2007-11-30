@@ -2,6 +2,8 @@
 
 CAHIER DES CHARGES TYPE
 
+Sommaire :
+
 Chapitre Ier. - Objet de la concession :
 
 Service concédé.
@@ -136,9 +138,7 @@ Le concessionnaire tient l'ensemble de ces documents à la disposition du minist
 
 Chapitre II
 
-Maintenance, renouvellement,
-
-mise en conformité des ouvrages
+Maintenance, renouvellement, mise en conformité des ouvrages
 
 Article 4
 
@@ -158,9 +158,7 @@ Le préfet peut vérifier, en présence du concessionnaire, la conformité des o
 
 Chapitre III
 
-Planification et développement du réseau public
-
-de transport
+Planification et développement du réseau public de transport
 
 Article 6
 
@@ -178,9 +176,7 @@ I. - Le schéma de développement mentionné à l'article 14 de la loi du 10 fé
 
 Pour l'élaboration de ce schéma, le concessionnaire établit des hypothèses relatives à l'évolution du parc de production, de la consommation nationale et locale et des échanges qui sont cohérentes avec la programmation pluriannuelle des investissements, les schémas de service collectifs de l'énergie et le bilan prévisionnel mentionnés à l'article 6 de la loi du 10 février 2000 précitée.
 
-II. - A sa demande, le concessionnaire a accès à toutes les informations utiles à l'élaboration du schéma de développement auprès des gestionnaires de réseaux publics de distribution, des producteurs raccordés aux réseaux publics, y compris ceux qui produisent pour leur propre usage. Il préserve la confidentialité des informations ainsi obtenues dans les conditions de l'article 16 de la loi du
-
-10 février 2000 précitée et du décret du 16 juillet 2001 pris pour son application.
+II. - A sa demande, le concessionnaire a accès à toutes les informations utiles à l'élaboration du schéma de développement auprès des gestionnaires de réseaux publics de distribution, des producteurs raccordés aux réseaux publics, y compris ceux qui produisent pour leur propre usage. Il préserve la confidentialité des informations ainsi obtenues dans les conditions de l'article 16 de la loi du 10 février 2000 précitée et du décret du 16 juillet 2001 pris pour son application.
 
 Article 8
 
@@ -220,17 +216,13 @@ Raccordement et accès au réseau
 
 Article 13
 
-Raccordement des utilisateurs
-
-et des réseaux publics de distribution
+Raccordement des utilisateurs et des réseaux publics de distribution
 
 I. - Après consultation des représentants des différentes catégories d'utilisateurs et des représentants des gestionnaires des réseaux publics de distribution, le concessionnaire définit des procédures de traitement des demandes de raccordement au réseau public de transport des installations des utilisateurs ainsi que des réseaux publics de distribution. Ces procédures, accompagnées des résultats de la consultation, sont soumises à l'approbation de la Commission de régulation de l'énergie et incluses dans la documentation technique de référence mentionnée à l'article 35. Les procédures approuvées sont publiées.
 
 Ces procédures précisent notamment :
 
-- les règles de hiérarchisation des différentes demandes. Ces règles peuvent tenir compte d'informations techniques ou
-
-administratives relatives à l'installation ou au réseau public de distribution à raccorder ;
+- les règles de hiérarchisation des différentes demandes. Ces règles peuvent tenir compte d'informations techniques ou administratives relatives à l'installation ou au réseau public de distribution à raccorder ;
 
 - les délais de transmission par le concessionnaire d'une proposition technique et financière (6) ; ces délais sont fixés par catégorie d'installation à raccorder ou en fonction des caractéristiques du réseau public de distribution à raccorder ;
 
@@ -262,17 +254,15 @@ Article 14
 
 Accès des utilisateurs au réseau public de transport
 
-I. - Dans le respect des dispositions du présent cahier des charges, le contrat d'accès au réseau mentionné à l'article 23 de la loi du 10 février 2000 précitée ou le contrat de fourniture au tarif réglementé détermine les droits et obligations du concessionnaire
-
-vis-à-vis de l'utilisateur. Le concessionnaire élabore des modèles de contrat d'accès au réseau qu'il soumet pour approbation à la Commission de régulation de l'énergie et qu'il inclut dans la documentation technique de référence.
+I. - Dans le respect des dispositions du présent cahier des charges, le contrat d'accès au réseau mentionné à l'article 23 de la loi du 10 février 2000 précitée ou le contrat de fourniture au tarif réglementé détermine les droits et obligations du concessionnaire vis-à-vis de l'utilisateur. Le concessionnaire élabore des modèles de contrat d'accès au réseau qu'il soumet pour approbation à la Commission de régulation de l'énergie et qu'il inclut dans la documentation technique de référence.
 
 II. - Sauf disposition contraire du présent cahier des charges, le concessionnaire ne peut prétendre à d'autre rémunération pour l'exécution des engagements mentionnés dans les modèles de contrats d'accès au réseau que le tarif d'utilisation des réseaux.
 
 III. - Le concessionnaire peut proposer des prestations techniques complémentaires. Ces prestations, ainsi que les engagements spécifiques mentionnés au II du présent article, font l'objet d'un catalogue de prix.
 
-IV. - Le concessionnaire peut refuser ou interrompre l'accès au réseau :
+IV. - Le concessionnaire peut refuser ou interrompre l'accès au réseau d'un utilisateur :
 
-- en cas de non-respect des dispositions réglementaires ou contractuelles visant à limiter les perturbations générées par ses installations ;
+- en cas de non-respect des dispositions réglementaires ou contractuelles visant à limiter les perturbations générées par les installations de cet utilisateur ;
 
 - en cas de risque grave et immédiat pour la sécurité du personnel du concessionnaire ou des tiers ou pour la sûreté du réseau ;
 
@@ -288,9 +278,7 @@ VI. - Le concessionnaire peut engager toute action en garantie pour la responsab
 
 Article 15
 
-Relations avec les gestionnaires de réseaux publics
-
-de distribution interconnectés au réseau public de transport
+Relations avec les gestionnaires de réseaux publics de distribution interconnectés au réseau public de transport
 
 I. - Dans le respect des dispositions du présent cahier des charges, le contrat mentionné au II de l'article 5 du décret du 26 avril 2001 relatif aux tarifs d'utilisation des réseaux publics de transport et de distribution détermine les droits et obligations du concessionnaire vis-à-vis du gestionnaire de réseau public de distribution concerné. Le concessionnaire élabore des modèles de ce contrat qu'il inclut dans la documentation technique de référence.
 
@@ -298,9 +286,7 @@ II. - Le concessionnaire peut proposer aux gestionnaires des réseaux publics de
 
 III. - Le concessionnaire peut interrompre l'accès au réseau d'un gestionnaire de réseau public de distribution en cas de risque grave et immédiat pour la sécurité du personnel du concessionnaire ou des tiers ou pour la sûreté des réseaux.
 
-IV. - Le concessionnaire peut engager toute action en garantie
-
-pour la responsabilité qu'il aurait à encourir du fait des agissements des gestionnaires de réseaux publics de distribution.
+IV. - Le concessionnaire peut engager toute action en garantie pour la responsabilité qu'il aurait à encourir du fait des agissements des gestionnaires de réseaux publics de distribution.
 
 Article 16
 
@@ -346,9 +332,7 @@ III. - Le concessionnaire répond aux éventuelles demandes d'engagements quanti
 
 IV. - Sauf cas de situation d'exploitation perturbée mentionnée à l'article 19, lorsque le concessionnaire ne respecte pas les engagements mentionnés au II et au III, il dédommage les utilisateurs et les gestionnaires de réseaux publics de distribution en fonction du préjudice subi. Les modalités financières sont précisées dans les contrats d'accès au réseau et dans les contrats mentionnés au II de l'article 5 du décret du 26 avril 2001 précité.
 
-V. - Sauf cas de situation d'exploitation perturbée mentionnée à
-
-l'article 19, le concessionnaire dédommage le producteur en fonction du préjudice subi du fait de l'interruption ou de la restriction de l'évacuation causée par une indisponibilité fortuite d'ouvrages du réseau public de transport situés à l'amont du réseau d'évacuation du site concerné.
+V. - Sauf cas de situation d'exploitation perturbée mentionnée à l'article 19, le concessionnaire dédommage le producteur en fonction du préjudice subi du fait de l'interruption ou de la restriction de l'évacuation causée par une indisponibilité fortuite d'ouvrages du réseau public de transport situés à l'amont du réseau d'évacuation du site concerné.
 
 Sauf cas de situation d'exploitation perturbée mentionnée à l'article 19, lorsque les ouvrages du réseau d'évacuation d'un producteur font l'objet d'indisponibilités fortuites, le concessionnaire rétablit dans les meilleurs délais la disponibilité de ces ouvrages. Il se concerte avec le producteur concerné sur ses prévisions de rétablissement et les moyens à mettre en oeuvre pour l'accélérer.
 
@@ -370,9 +354,7 @@ Toutefois, le concessionnaire ne peut interrompre l'accès au réseau d'un gesti
 
 II. - Le concessionnaire prend à l'égard des utilisateurs des engagements quantitatifs concernant les interruptions programmées pour chacune des liaisons de raccordement. Les contrats d'accès au réseau ou les contrats de fourniture au tarif réglementé précisent ces engagements, ainsi que les modalités de programmation des interruptions.
 
-III. - Le concessionnaire réduit ces interruptions au minimum et les programmes aux périodes susceptibles d'occasionner le moins de gêne pour les utilisateurs et gestionnaires de réseaux publics de distribution, dès lors que ces périodes sont compatibles avec ses propres contraintes d'exploitation. La date, l'heure et la durée des coupures font l'objet d'une coordination entre, d'une part, le concessionnaire, et, d'autre part, les utilisateurs et les gestionnaires des réseaux publics de distribution, en tenant compte
-
-de leurs contraintes d'exploitation respectives.
+III. - Le concessionnaire réduit ces interruptions au minimum et les programmes aux périodes susceptibles d'occasionner le moins de gêne pour les utilisateurs et gestionnaires de réseaux publics de distribution, dès lors que ces périodes sont compatibles avec ses propres contraintes d'exploitation. La date, l'heure et la durée des coupures font l'objet d'une coordination entre, d'une part, le concessionnaire, et, d'autre part, les utilisateurs et les gestionnaires des réseaux publics de distribution, en tenant compte de leurs contraintes d'exploitation respectives.
 
 Si les souhaits exprimés par ces derniers entraînent un surcoût pour le concessionnaire, celui-ci le leur facture à condition de leur en avoir notifié par devis le montant dûment justifié et d'avoir reçu l'acceptation du devis avant le commencement des travaux.
 
@@ -402,9 +384,7 @@ La situation d'exploitation perturbée résulte de circonstances exceptionnelles
 
 1° Les destructions dues à des actes de guerre, émeutes, pillages, sabotages, attentats, atteintes délictuelles ;
 
-2 Les dommages causés par des faits accidentels et non
-
-maîtrisables, imputables à des tiers, tels que les incendies, explosions, chutes d'avion ;
+2° Les dommages causés par des faits accidentels et non maîtrisables, imputables à des tiers, tels que les incendies, explosions, chutes d'avion ;
 
 3° Les catastrophes naturelles au sens de la loi n° 82-600 du 13 juillet 1982 modifiée ;
 
@@ -460,9 +440,7 @@ VII. - Les contrats d'accès aux réseaux, les contrats de fourniture au tarif r
 
 Article 21
 
-Echange d'informations avec les gestionnaires
-
-de réseaux publics de distribution
+Echange d'informations avec les gestionnaires de réseaux publics de distribution
 
 Les gestionnaires de réseaux publics de distribution et le concessionnaire se transmettent toutes les informations de comptage nécessaires à l'exécution des missions mentionnées à l'article 15 de la loi du 10 février 2000 précitée. Le concessionnaire et les gestionnaires de réseaux publics de distribution conviennent de modalités d'échange de ces informations. A défaut, ces modalités sont fixées par la Commission de régulation de l'énergie.
 
@@ -472,9 +450,7 @@ Equilibre et stabilité du système électrique
 
 Article 22
 
-Planification des arrêts des installations
-
-des utilisateurs et sécurité d'approvisionnement
+Planification des arrêts des installations des utilisateurs et sécurité d'approvisionnement
 
 La planification des arrêts des installations de production et des périodes d'inactivité des installations de consommation raccordées aux réseau public de transport ainsi que la planification des travaux sur le réseau public de transport font l'objet d'une coordination entre le concessionnaire et les utilisateurs concernés. Le producteur communique le programme d'arrêt de sa production au concessionnaire.
 
@@ -482,9 +458,7 @@ Le concessionnaire alerte sans délai le ministre chargé de l'énergie si la pr
 
 Article 23
 
-Prévisions de consommation,
-
-programmes d'appel et d'échange
+Prévisions de consommation, programmes d'appel et d'échange
 
 Le concessionnaire agrège la veille pour le lendemain les programmes d'appel des producteurs et les programmes d'échanges sur les interconnexions.
 
@@ -570,9 +544,7 @@ IV. - Le concessionnaire analyse la performance de sa gestion de la sûreté, é
 
 Chapitre VIII
 
-Développement des interconnexions
-
-et gestion des échanges
+Développement des interconnexions et gestion des échanges
 
 Article 29
 
@@ -600,9 +572,7 @@ III. - Le concessionnaire établit et rend publiques des règles d'allocation de
 
 Chapitre IX
 
-Gestion des incidents, délestages
-
-et reconstitution du réseau
+Gestion des incidents, délestages et reconstitution du réseau
 
 Article 31
 
