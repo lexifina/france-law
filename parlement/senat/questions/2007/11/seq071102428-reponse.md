@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102428
+
+- Question : [SEQ071102428](seq071102428.md) — Implantation de défibrillateurs dans les équipements sportifs
+
+## Réponse
+
+*Santé, JO du 2007-12-06, page 2237*
+
+D'après les statistiques du ministère de la santé, de la jeunesse et des sports, les accidents cardiorespiratoires entraînent chaque année près de 50 000 décès. Beaucoup d'accidents surviennent à domicile ou sur la voie publique, et 70 % d'entre eux ont lieu devant des témoins qui le plus souvent ne savent pas pratiquer les gestes adaptés. Les défibrillateurs cardiaques automatisés externes - DAE - sont utiles lorsque l'accident est dû à une fibrillation ventriculaire initiale, soit dans 40 % des cas. Or jusqu'en mai dernier, seuls les professionnels de santé étaient habilités à en utiliser. Depuis cette date, un décret autorise toute personne à le faire - car ce sont des appareils extrêmement sûrs, et la défibrillation ne se produit que si elle est nécessaire. L'utilisation de ces appareils ne doit cependant en aucun cas remplacer l'appel au SAMU et la pratique d'un massage cardiaque externe. Cette mesure a naturellement été prise en concertation avec les professionnels de l'urgence et avec les collectivités locales, qui doivent convenir ensemble, dans un souci d'efficacité, des lieux d'installation. Enfin, il est prévu que les équipes de secours remplissent tous la même fiche ; les données qui seront recueillies permettront de parfaire le dispositif. La ministre de la santé, de la jeunesse et des sports a indiqué sa ferme volonté de voir généraliser l'installation de défibrillateurs, notamment dans les équipements sportifs, en profitant des restructurations entreprises par le Centre national de développement du sport (CNDS), et bien entendu en lien avec les collectivités territoriales maîtres d'ouvrage. Cette installation généralisée est un projet ambitieux qui permettra de sauver des vies.
