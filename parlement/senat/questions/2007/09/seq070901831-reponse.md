@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901831
+
+- Question : [SEQ070901831](seq070901831.md) — Interprétation de l'article L. 212-8 du code de l'éducation en cas de garde alternée
+
+## Réponse
+
+*Éducation, JO du 2007-12-06, page 2232*
+
+Un élève est, en règle générale, inscrit dans une école de sa commune de résidence et le maire délivre le certificat d'inscription qui indique l'école que l'enfant doit fréquenter. Les familles peuvent, toutefois, scolariser leurs enfants dans une école d'une autre commune qui dispose de places disponibles. L'article L. 212-8 du code de l'éducation définit les modalités de répartition intercommunale des dépenses de fonctionnement générées par l'accueil d'enfants de plusieurs communes. Il dispose notamment que cette répartition se fait par accord entre la commune d'accueil et la commune de résidence. À défaut, la contribution de chaque commune est fixée par le représentant de l'État dans le département, après avis du conseil départemental de l'éducation nationale. Le maire de la commune de résidence n'est cependant tenu de participer financièrement, lorsqu'il dispose des capacités d'accueil nécessaires dans son école, que s'il a donné son accord à la scolarisation hors commune et dans un certain nombre de cas de dérogations limitativement énumérées. La situation des élèves qui résident de manière alternée dans deux communes différentes n'est pas prévue par la loi dans la mesure où cette modalité d'exercice de l'autorité parentale s'est développée récemment. Dans ces conditions, la question de la répartition des charges ne peut résulter que d'un accord entre les communes concernées, le maire de la commune d'accueil étant, en tout état de cause, seul compétent pour délivrer le certificat d'inscription dans une école de sa commune, dans la limite de ses capacités d'accueil.
