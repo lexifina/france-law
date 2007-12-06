@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801413
+
+- Question : [SEQ070801413](seq070801413.md) — Calcul de la taxe professionnelle
+
+## Réponse
+
+*Économie, JO du 2007-12-06, page 2228*
+
+Les bases d'imposition à la taxe professionnelle sont constituées de la valeur locative des biens. Cette dernière est représentative d'un loyer théorique, par nature indépendant de la durée d'utilisation du bien. Les dispositions consistant à prendre en compte, pour le calcul de la valeur locative, la valeur d'origine des immobilisations, permettent, de plus, d'assurer la stabilité des bases. Il n'apparaît donc pas possible de moduler la base de la taxe en fonction de l'ancienneté des immobilisations, sauf à rendre instables les bases d'imposition de la taxe professionnelle. Cela étant, diverses mesures ont d'ores et déjà été adoptées pour alléger le poids de la taxe professionnelle et contribuer à créer un environnement fiscal attractif pour les entreprises. Ainsi, l'article 85 de la loi de finances pour 2006 a institué, à compter des impositions établies au titre de 2007, une réforme consistant à corriger les situations de surimposition et à soutenir l'investissement. Le premier volet de la réforme consiste ainsi à rendre effectif le plafonnement de l'imposition à 3,5 % de la valeur ajoutée produite par l'entreprise tout en associant, afin de les responsabiliser, les collectivités territoriales et leurs établissements publics de coopération intercommunale au financement du plafonnement. Le second volet de la réforme est la pérennisation du dégrèvement au titre des investissements nouveaux. Les investissements neufs éligibles à l'amortissement dégressif ouvrent ainsi droit à un dégrèvement de taxe professionnelle égal respectivement à la totalité, aux deux tiers et à un tiers de la cotisation de taxe professionnelle pour la première année au titre de laquelle ces biens sont compris dans la base d'imposition et pour les deux années suivantes.
