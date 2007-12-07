@@ -46,13 +46,15 @@ Campagne viticole au cours de laquelle les matériels de multiplication ont ache
 
 II. - Prescriptions générales relatives aux vignes-mères de porte-greffes
 
-a) Les terrains destinés à la plantation d'une vigne-mère de porte-greffes en plein champ doivent :
+a) Les terrains destinés à la plantation d'une vigne mère de porte greffes en plein champ doivent :
 
-- soit avoir subi un repos du sol d'une durée minimale de 12 ans avant la plantation ;
+- soit avoir subi un repos du sol d'une durée minimale de douze ans avant la plantation ;
 
-- soit avoir subi 10 ans au minimum de repos du sol et être désinfectés avant la plantation.
+- soit avoir subi dix ans au minimum de repos du sol et être désinfectés avant la plantation.
 
-Dans les sables, il est exigé une durée de repos du sol de 3 ans.
+Toutefois cette durée est ramenée à six ans au minimum de repos du sol, sans désinfection avant la plantation, lorsque le précédent est une pépinière de vigne.
+
+Dans les sables, il est exigé une durée de repos du sol de trois ans.
 
 b) La demande d'inscription au contrôle de vignes-mères doit être présentée à l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture dans les deux mois qui suivent la plantation.
 
