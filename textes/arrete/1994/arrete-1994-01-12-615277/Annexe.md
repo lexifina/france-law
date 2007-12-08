@@ -1,187 +1,349 @@
 # Article ANNEXE
 
-Afghanistan :
+Etat ou territoires concernés
 
-Etat ou territoire concerné : Afghanistan Pays et eaux avoisinants
+|
 
-Début de période : 3 octobre 2001
+Début de période
 
-Fin de période : 2 octobre 2005
+|
 
-Cambodge :
+Fin de période
+
+|
+
+Afghanistan Pays et eaux avoisinants, opération Héraclès, Pamir et Epidote |
+
+3 octobre 2001
+
+|
+
+2 octobre 2007
+
+|
 
 Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.
 
-Début de période : 1er novembre 1991
+|
 
-Fin de période : En cours
+1er novembre 1991
 
-Cameroun :
+|
+
+En cours
+
+|
 
 Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo.
 
+|
+
 1re période
 
-Début de période : 17 décembre 1956
+17 décembre 1956
 
-Fin de période : 31 décembre 1958
+|
+
+1re période
+
+31 décembre 1958
+
+|
+
+|
 
 2e période
 
-Début de période : 1er juin 1959
+1er juin 1959
 
-Fin de période : 28 mars 1963
+|
 
-Congo :
+2e période
 
-Etat ou Territoire concerné : Territoire du Congo et pays limitrophes
+28 mars 1963
 
-Début de période : 19 mars 1997
+|
 
-Fin de période : 18 mars 2000
+Territoire du Congo et pays limitrophes
 
-Côte d'ivoire :
+|
 
-Etat ou Territoire concerné : Côte d'ivoire Et ses approches maritimes, opération LICORNE et opération ONUCI
+19 mars 1997
 
-Début de période : 19 septembre 2002
+|
 
-Fin de période : 18 septembre 2006
+18 mars 2000
 
-Gabon :
+|
 
-Etat ou Territoire concerné : Gabon
+Côte d'ivoire, ses approches maritimes et le territoire du Togo, opération Licorne et Calao (ONUCI)
 
-Début de période : 2 juin 2003
+|
 
-Fin de période : 1er juin 2005
+19 septembre 2002
 
-Golfe Persique et golfe d'Oman :
+|
 
-Opérations maritimes du golfe Persique et du golfe d'Oman.
+18 septembre 2008
 
-Début de période : 30 juillet 1987
+|
 
-Fin de période : En cours
+Gabon
 
-Régions du golfe Persique et du golfe d'Oman.
+|
 
-Début de période : 30 juillet 1990
+2 juin 2003
 
-Fin de période : En cours
+|
 
-Irak :
+1er juin 2007
+
+|
+
+Opérations maritimes du golfe Persique et du golfe d'Oman
+
+|
+
+30 juillet 1987
+
+|
+
+En cours
+
+|
+
+Régions du golfe Persique et du golfe d'Oman
+
+|
+
+30 juillet 1990
+
+|
+
+En cours
+
+|
+
+Irak
+
+|
+
+|
+
+|
 
 Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).
 
+|
+
 A compter du 1er avril 1991 et jusqu'à cessation des hostilités
 
-Liban.
+|
 
-Etat ou Territoire concerné : Liban
+|
 
-Début de période : 22 mars 1978
+Liban
 
-Fin de période : 22 mars 2005
+|
 
-Madagascar.
+22 mars 1978
 
-Début de période : 30 mars 1947
+|
 
-Fin de période : 1er octobre 1949
+22 mars 2005
 
-Mauritanie.
+|
 
-1re période
+République du Liban et Isarël, et leurs eaux avoisinantes, opérations Daman (FINUL) et Baliste
 
-Début de période : 1er janvier 1957
+|
 
-Fin de période : 31 décembre 1959
+2 septembre 2006
+
+|
+
+1er septembre 2008
+
+|
+
+Madagascar
+
+|
+
+30 mars 1947
+
+|
+
+1er octobre 1949
+
+|
+
+Mauritanie
+
+|
+
+1re période :
+
+1er janvier 1957
+
+|
+
+1re période :
+
+31 décembre 1959
+
+|
+
+|
 
 2e période
 
-Début de période : 1er novembre 1977
+1er novembre 1977
 
-Fin de période : 30 octobre 1980
+|
 
-Méditerranée orientale (Suez).
+2e période
 
-Début de période : 30 octobre 1956
+30 octobre 1980
 
-Fin de période : 31 décembre 1956
+|
+
+Méditerranée orientale (Suez)
+
+|
+
+30 octobre 1956
+
+|
+
+31 décembre 1956
+
+|
 
 Ouganda
 
-Etat ou Territoire concerné : Ouganda
+|
 
-Début de période : 2 juin 2003
+2 juin 2003
 
-Fin de période : 1er juin 2005
+|
 
-République centrafricaine.
+1er juin 2007
 
-Etat ou Territoire concerné : République centrafricaine
+|
+
+République centrafricaine, opération Boali
+
+|
 
 1re période
 
-Début de période : 20 septembre 1979
+20 septembre 1979
 
-Fin de période : 19 septembre 1982
+|
+
+1re période
+
+19 septembre 1982
+
+|
+
+|
 
 2e période
 
-Début de période : 18 mai 1996
+18 mai 1996
 
-Fin de période : 17 mai 1999
+|
+
+2e période
+
+17 mai 1999
+
+|
+
+|
 
 3e période
 
-Début de période : 3 décembre 2002
+3 décembre 2002
 
-Fin de période : 2 décembre 2004
+|
+
+3e période
+
+2 décembre 2008
+
+|
 
 République démocratique du Congo
 
-Etat ou Territoire concerné : République démocratique du Congo
+|
 
-Début de période : 2 juin 2003
+2 juin 2003
 
-Fin de période : 1er juin 2005
+|
 
-Somalie :
+1er juin 2007
+
+|
 
 Somalie et ses approches maritimes et aériennes.
 
-Début de période : 3 décembre 1992
+|
 
-Fin de période : En cours
+3 décembre 1992
 
-Tchad.
+|
 
-Etat ou territoire concerné : Tchad
+En cours
 
-Début de période : 15 mars 1969
+|
 
-Fin de période : 31 décembre 2005
+Tchad, pays avoisinants.
 
-Timor.
+|
 
-Etat ou Territoire concerné : Timor Oriental
+15 mars 1969
 
-Début de période : 16 septembre 1999
+|
 
-Fin de période : 15 septembre 2001
+31 décembre 2007
 
-Yougoslavie :
+|
 
-Etat ou Territoire concerné : Pays limitrophes et eaux avoisinantes
+Timor Oriental
 
-Début de période : 1er janvier 1992
+|
 
-Fin de période : 31 décembre 2005
+16 septembre 1999
 
-Zaïre (ex-Congo belge).
+|
 
-Début de période : 13 mai 1978
+15 septembre 2001
 
-Fin de période : 12 mai 1981
+|
+
+Yougoslavie : Pays limitrophes et eaux avoisinantes.
+
+|
+
+1er janvier 1992
+
+|
+
+31 décembre 2007
+
+|
+
+Zaïre (ex-Congo belge)
+
+|
+
+13 mai 1978
+
+|
+
+12 mai 1981
+
+|
