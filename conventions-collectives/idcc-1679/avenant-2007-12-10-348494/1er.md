@@ -1,0 +1,71 @@
+# Article 1er
+
+L'article 23 de l'accord du 14 octobre 2004 est ainsi modifié :
+
+Article 23
+
+Mise en place d'un dispositif de formation professionnelle unifié
+
+Le pilotage des organismes professionnels de formation doit être rendu plus efficace.L'offre de formation doit être clarifiée afin d'en améliorer la lisibilité pour les entreprises et pour les salariés. L'accès aux cursus s'en trouvera facilité.
+
+A cette fin, le Groupe Ecole nationale d'assurances, l'Ecole nationale d'assurances (AEA) et l'Ecole nationale d'assurances (ADAP) appartiennent à une seule association (loi de 1901) dont le nom n'est pas encore fixé. Chaque structure entame pour ce qui la concerne les démarches nécessaires pour atteindre cet objectif.
+
+La formation professionnelle de la branche des sociétés d'assurances sera ainsi dispensée par deux structures à vocation complémentaire :
+
+― l'association unifiée ;
+
+― l'Ecole nationale d'assurances-institut du Conservatoire national des arts et métiers.
+
+Les partenaires sociaux conviennent de réexaminer les conventions liant jusqu'à ce jour le Groupe Ecole nationale d'assurances, l'AEA et l'ENASS-institut du CNAM, pour l'adapter au nouveau champ juridique créé par le présent accord. Ces conventions s'attacheront notamment à développer les voies et moyens d'une collaboration, poursuivant l'objectif d'une coordination autour d'un projet pédagogique commun.
+
+23.1. Gouvernance de l'association unifiée
+
+L'association est pilotée par un conseil d'administration qui s'appuie sur un comité scientifique chargé d'analyser les besoins de la profession et d'orienter l'offre de formation de l'association unifiée en réponse à ces besoins. A cette fin, le comité scientifique rend des avis consultatifs au conseil d'administration sur l'offre de formation.
+
+23.1.1. Conseil d'administration.
+
+Le pilotage de l'association est confié à un conseil d'administration composé comme suit :
+
+― 10 représentants des organisations d'employeurs ;
+
+― 10 représentants des organisations syndicales de salariés représentatives au niveau professionnel, à raison de 2 membres par organisation nationale ;
+
+― 1 représentant de l'Ecole nationale d'assurances institut du CNAM, qui a voix consultative.
+
+Le conseil peut associer des personnalités extérieures à ses travaux, à titre consultatif.
+
+23.1.2. Comité scientifique.
+
+L'association unifiée appuie son action sur les orientations stratégiques dégagées par un comité scientifique, composé de dirigeants opérationnels et de directeurs de ressources humaines d'entreprises d'assurances, ainsi que de représentants des organisations représentatives d'employeurs et de salariés de la profession.
+
+Ce comité est présidé par un représentant des organisations représentatives, pour une durée de 3 ans, selon un principe d'alternance entre organisations d'employeurs et organisations de salariés. La première présidence sera confiée à un représentant des organisations de salariés.
+
+23.1.3. Présidence, vice-présidence et direction générale.
+
+La présidence du dispositif unifié est confiée, pour une durée de 3 ans, à un dirigeant issu d'une société d'assurances.
+
+Le conseil d'administration comporte 2 vice-présidences assurées pour une durée de 3 ans.
+
+Une vice-présidence est assurée par un représentant du collège des salariés.
+
+L'autre vice-présidence est assurée par un représentant du collège des employeurs.
+
+La direction générale est assurée par un dirigeant permanent.
+
+23.2. Financement
+
+Le dispositif unifié est financé par :
+
+― les droits d'inscription ;
+
+― les versements des organismes collecteurs des fonds de la formation professionnelle ;
+
+― la taxe d'apprentissage ;
+
+― des subventions ;
+
+― toutes autres ressources autorisées par les dispositions législatives et réglementaires en vigueur.
+
+23.3. Champ d'application
+
+Le présent accord vise les sociétés et organismes, ainsi que leurs salariés, entrant dans le champ d'application de la convention collective nationale des sociétés d'assurances du 27 mai 1992 et de la convention collective nationale de l'inspection d'assurance du 27 juillet 1992.
