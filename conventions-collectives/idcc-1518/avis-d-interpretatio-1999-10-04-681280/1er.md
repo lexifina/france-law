@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Afin de définir la frontière entre la convention collective de l'animation et la convention collective du sport, les partenaires sociaux ont décidé d'apporter les précisions suivantes :
 
@@ -6,4 +6,6 @@ Afin de définir la frontière entre la convention collective de l'animation et 
 
 2. Les bases de loisirs relèvent de la convention collective du sport lorsque leur activité principale est l'organisation de stages sportifs. Dans le cas contraire, elles relèvent de la convention collective correspondant à l'activité principale de base de loisirs, en principe de celle de l'animation.
 
-3. Les structures de type MJC, maisons de quartier, maisons pour tous, amicales laïques, foyers ruraux, ne relèvent pas habituellement de la convention collective du sport.
+3. Les structures de type MJC, maisons de quartier, maisons pour tous, amicales laïques, foyers ruraux ne relèvent pas habituellement de la convention collective du sport.
+
+4. Pour les autres entreprises à but non lucratif exerçant à la fois des activités relevant des champs de l'animation et du sport, la convention collective applicable est déterminée par le rapport entre le nombre d'heures salariées effectuées dans le cadre des activités réglementées par l'article L. 212-1 du code du sport et le nombre d'heures salariées effectuées au titre de l'encadrement d'activités socioculturelles ne relevant pas de l'article précité.
