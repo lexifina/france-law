@@ -1,73 +1,405 @@
 # Article ANNEXE
 
-(Classement prenant effet à compter de la date d'effet des dispositions statutaires)
+Classement prenant effet à la date d'entrée en vigueur des dispositions statutaires
 
 GRADES
 
-CLASSEMENT hiérarchique (indices bruts)
+|
+
+CLASSEMENT
+
+hiérarchique (indices bruts)
+
+|
 
 OBSERVATIONS
 
-I. - LA POSTE
+|
 
-Cadre supérieur 379-966 (1015) (HEA)
+I. La Poste
 
-Echelons fonctionnels.
+|
 
-Cadre de second niveau : 440-841
+|
 
-Cadre de premier niveau : 379-735 (780)
+|
 
-Cadre professionnel : 346-660
+Cadre supérieur
 
-Echelon exceptionnel.
+|
 
-Technicien supérieur : 323-638
+(287309347)
 
-Agent technique et de gestion de niveau supérieur : 425-638
+|
 
-Agent technique et de gestion de second niveau : 384-592 (612)
+Echelons provisoires
 
-Echelon exceptionnel.
+|
 
-Agent technique et de gestion de premier niveau : 306-544 (592) (612)
+Cadre supérieur
 
-Echelons exceptionnels.
+|
 
-Agent professionnel qualifié de second niveau : 290-479
+379966
 
-Agent professionnel qualifié de premier niveau : 287-449
+|
 
-Agent professionnel: 281-388
+|
 
-II. - FRANCE TELECOM
+Cadre supérieur
 
-Cadre supérieur de second niveau : 427-966 (1015) (HE A)
+|
 
-Echelons fonctionnels.
+(1015HEA)
 
-Cadre supérieur de premier niveau : 379-904
+|
 
-Cadre de second niveau : 440-841
+Echelons fonctionnels
 
-Cadre de premier niveau : 379-735 (780)
+|
 
-Echelon exceptionnel.
+Cadre de second niveau
 
-Cadre d'exploitation : 323-638
+|
 
-Agent de maîtrise : 425-638
+(287309347379416)
 
-Collaborateur de second niveau : 384-592 (612)
+|
 
-Echelon exceptionnel.
+Echelons provisoires
 
-Collaborateur de premier niveau : 306-544 (592) (612)
+|
 
-Echelons exceptionnels.
+Cadre de second niveau
 
-Agent professionnel qualifié de second niveau : 290-479
+|
 
-Agent professionnel qualifié de premier niveau : 287-449
+440841
 
-Agent professionnel : 281-388
+|
+
+|
+
+Cadre de premier niveau
+
+|
+
+(287309332357)
+
+|
+
+Echelons provisoires
+
+|
+
+Cadre de premier niveau
+
+|
+
+379735
+
+|
+
+|
+
+Cadre de premier niveau
+
+|
+
+(780)
+
+|
+
+Echelon exceptionnel
+
+|
+
+Cadre professionnel
+
+|
+
+(287309324335)
+
+|
+
+Echelons provisoires
+
+|
+
+Cadre professionnel
+
+|
+
+346660
+
+|
+
+|
+
+Technicien supérieur
+
+|
+
+323638
+
+|
+
+|
+
+Agent technique et de gestion de niveau supérieur
+
+|
+
+425638
+
+|
+
+|
+
+Agent technique et de gestion de second niveau
+
+|
+
+(284307323347370)
+
+|
+
+Echelons provisoires
+
+|
+
+Agent technique et de gestion de second niveau
+
+|
+
+384592
+
+|
+
+|
+
+Agent technique et de gestion de second niveau
+
+|
+
+(612)
+
+|
+
+Echelon exceptionnel
+
+|
+
+Agent technique et de gestion de premier niveau
+
+|
+
+(284)
+
+|
+
+Echelon provisoire
+
+|
+
+Agent technique et de gestion de premier niveau
+
+|
+
+306544
+
+|
+
+|
+
+Agent technique et de gestion de premier niveau
+
+|
+
+(592612)
+
+|
+
+Echelons exceptionnels
+
+|
+
+Agent professionnel qualifié de second niveau
+
+|
+
+(281)
+
+|
+
+Echelon provisoire
+
+|
+
+Agent professionnel qualifié de second niveau
+
+|
+
+290479
+
+|
+
+|
+
+Agent professionnel qualifié de premier niveau
+
+|
+
+(281)
+
+|
+
+Echelon provisoire
+
+|
+
+Agent professionnel qualifié de premier niveau
+
+|
+
+287449
+
+|
+
+|
+
+Agent professionnel
+
+|
+
+281388
+
+|
+
+|
+
+II. France Télécom
+
+|
+
+|
+
+|
+
+Cadre supérieur de second niveau
+
+|
+
+427966 (1015) (HE A)
+
+|
+
+Echelons fonctionnels
+
+|
+
+Cadre supérieur de premier niveau
+
+|
+
+379904
+
+|
+
+|
+
+Cadre de second niveau
+
+|
+
+440841
+
+|
+
+|
+
+Cadre de premier niveau
+
+|
+
+379735 (780)
+
+|
+
+Echelon exceptionnel
+
+|
+
+Cadre d'exploitation
+
+|
+
+323638
+
+|
+
+|
+
+Agent de maîtrise
+
+|
+
+425638
+
+|
+
+|
+
+Collaborateur de second niveau
+
+|
+
+384592 (612)
+
+|
+
+Echelon exceptionnel
+
+|
+
+Collaborateur de premier niveau
+
+|
+
+306544 (592) (612)
+
+|
+
+Echelons exceptionnels
+
+|
+
+Agent professionnel qualifié de second niveau
+
+|
+
+290479
+
+|
+
+|
+
+Agent professionnel qualifié de premier niveau
+
+|
+
+287449
+
+|
+
+|
+
+Agent professionnel
+
+|
+
+281388
+
+|
+
+|
