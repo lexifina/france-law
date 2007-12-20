@@ -64,7 +64,7 @@ Il permet de s'orienter différemment ou de faire demi-tour.
 
 |
 
-Qu'une porte soit située latéralement ou perpendiculairement à l'axe d'une circulation commune, l'espace de manœuvre nécessaire correspond à un rectangle de même largeur que la circulation commune mais dont la longueur varie selon qu'il faut pousser ou tirer la porte.
+Qu'une porte soit située latéralement ou perpendiculairement à l'axe d'une circulation, l'espace de manœuvre nécessaire correspond à un rectangle de même largeur que la circulation mais dont la longueur varie selon qu'il faut pousser ou tirer la porte.
 
 |
 
