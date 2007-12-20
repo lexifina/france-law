@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801402
+
+- Question : [SEQ070801402](seq070801402.md) — Situation des communes face aux commandes publiques par voie électronique
+
+## Réponse
+
+*Économie, JO du 2007-12-20, page 2332*
+
+Aux termes de l'article 56-III-1°,2e alinéa du code des marchés publics 2006, « le pouvoir adjudicateur ne peut refuser de recevoir les candidatures et les offres d'opérateurs économiques qui n'auraient pas respecté son choix » [de transmission des candidatures et des offres]. Une entreprise peut donc effectivement choisir un mode de transmission différent de celui choisi par le pouvoir adjudicateur. Toutefois, l'obligation pour une personne publique de recevoir des candidatures et des offres par voie dématérialisée ne porte que sur les procédures de passation formalisées, c'est-à-dire s'agissant des collectivités territoriales, d'un montant supérieur à 210 000 euros. Par conséquent, cette obligation ne devrait principalement concerner que des collectivités qui disposent d'équipements informatiques adaptés. Celles qui n'en disposeraient pas peuvent néanmoins recourir aux plates-formes de dématérialisation qu'offrent des prestataires de plus en plus nombreux. S'agissant du second point évoqué par l'auteur de la question, le 2° du III de l'article 56 du code des marchés publics (CMP) prévoit qu'à compter du 1er janvier 2010, les pouvoirs adjudicateurs pourront exiger la transmission des candidatures et des offres par voie électronique. Avant cette échéance, les pouvoirs adjudicateurs ne peuvent imposer de telles obligations aux entreprises que dans le cadre de l'expérimentation prévue par l'arrêté du 12 mars 2007 pris en application du III de l'article 56 du CMP et relatif aux expérimentations de dématérialisation des procédures de passation des marchés publics formalisés.
