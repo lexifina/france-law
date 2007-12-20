@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901894
+
+- Question : [SEQ070901894](seq070901894.md) — Placement en garde à vue d'une assistante sociale dans l'exercice de ses fonctions
+
+## Réponse
+
+*Immigration et intégration, JO du 2007-12-20, page 2333*
+
+Seules les personnes bénéficiant d'une immunité sont susceptibles de se soustraire à l'obligation de répondre à la convocation d'un officier de police judiciaire. Les dispositions de l'article L. 622-4 du code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA), mentionnées par l'honorable parlementaire, qui précise que « ne peut donner lieu à poursuite l'aide apportée [...] par une personne physique ou morale, lorsqu'elle était nécessaire à la sauvegarde de la vie et de l'intégrité physique et n'a pas donné lieu à contrepartie », ne créent pas une immunité d'enquête mais une impossibilité, à l'issue des investigations qui auront permis de démontrer que les conditions de cet article sont applicables, de renvoyer la personne en cause devant le tribunal pour y être jugée pour les faits d'aide au séjour irrégulier. La personne citée par l'honorable parlementaire était donc tenue de répondre à la convocation à témoin des services d'enquête et les dispositions de l'article L. 622-4 du CESEDA lui étaient inapplicables à ce stade de la procédure. Il apparaît que, au cours de l'audition, l'officier de police judiciaire a estimé, conformément aux dispositions de l'article 77 du code de procédure pénale, que cette personne, entendue comme témoin, devait faire l'objet d'une mesure de garde à vue. La décision de placement en garde à vue relève du pouvoir souverain d'appréciation de l'officier de police judiciaire, sous le contrôle du procureur de la République, qui en a été informé sans délai. La garde à vue de cette personne s'est donc déroulée sous le contrôle et l'autorité du procureur de la République. L'autorité judiciaire est seule compétente pour apprécier de la validité de cette procédure.
