@@ -10,7 +10,7 @@ Production de chaleur renouvelable en réseau
 
 1. Secteur d'application :
 
-Bâtiment résidentiel collectif et bâtiment tertiaire en France métropolitaine.
+Bâtiment résidentiel collectif et bâtiment tertiaire existant en France métropolitaine.
 
 2. Dénomination :
 
@@ -18,7 +18,9 @@ Mise en place d'un système de production de chaleur renouvelable (géothermie, 
 
 3. Conditions pour la délivrance de certificats :
 
-Cette fiche s'applique aux installations non soumises à la directive 2003/87/CE établissant un système d'échange de quotas d'émissions de gaz à effet de serre.
+Cette opération s'applique aux installations non soumises à la directive 2003/87/CE établissant un système d'échange de quotas d'émissions de gaz à effet de serre.
+
+Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération. Le pourcentage de bâtiments existants alimentés par le réseau doit être fourni.
 
 On utilise pour la chaleur renouvelable nette la définition retenue dans le décret n° 99-360 du 5 mai 1999 portant sur les réseaux classés de distribution de chaleur et de froid qui intègre à la fois les énergies renouvelables et de récupération.
 
@@ -32,9 +34,63 @@ Pour les sources d'énergie UIOM-déchets, géothermie et autres : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+SOURCE D'ÉNERGIE
 
-n° 156 du 07/07/2006 texte numéro 28
+|
+
+COEFFICIENT cumac
+
+|
+
+|
+
+CHALEUR RENOUVELABLE
+
+nette/an
+
+|
+
+|
+
+|
+
+Bois-Energie ― Biogaz
+
+|
+
+11,563
+
+|
+
+X
+
+|
+
+kWhth
+
+|
+
+X
+
+|
+
+C
+
+|
+
+UIOM ― Déchets ― Géothermie ― Autres
+
+|
+
+14,134
+
+|
+
+|
+
+|
+
+C = pourcentage de la surface des bâtiments existants alimentés sur l'ensemble des bâtiments alimentés par le réseau.
 
 Certificats d'économies d'énergie
 

@@ -12,7 +12,7 @@ Bâtiment résidentiel : maisons individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'une isolation thermique de résistance thermique R 2,5 m² k/W en comble ou en toiture.
+Mise en place d'une isolation thermique de résistance thermique R ≥ 5 m² K/W en comble ou en toiture.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -28,9 +28,127 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/m²)
+
+|
+
+2,5 m² K/W ≤ R < 5 m² K/W
+
+(uniquement pour des actions engagées avant le 1er janvier 2008)
+
+|
+
+R ≥ 5 m² K/W
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+550
+
+|
+
+870
+
+|
+
+H1
+
+|
+
+1 200
+
+|
+
+1 900
+
+|
+
+H2
+
+|
+
+450
+
+|
+
+710
+
+|
+
+H2
+
+|
+
+980
+
+|
+
+1 600
+
+|
+
+H3
+
+|
+
+300
+
+|
+
+480
+
+|
+
+H3
+
+|
+
+660
+
+|
+
+1 000
+
+|
 
 Certificats d'économies d'énergie
 
@@ -44,13 +162,13 @@ Bâtiment résidentiel : maisons individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R 1,2 m² K/W sur murs existants.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m² K/W sur murs existants.
 
 3. Conditions pour la délivrance de certificats :
 
 Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-Les isolants doivent être mis en oeuvre selon les DTU 25.42 et 25.41 ou avis technique.
+Les isolants doivent être mis en uvre selon les DTU 25.42 et 25.41 ou avis technique.
 
 Mise en place réalisée par un professionnel.
 
@@ -62,9 +180,127 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT
 
-n° 303 du 31/12/2006 texte numéro 60
+(en kWh cumac/m² d'isolant)
+
+|
+
+1,2 m² K/W ≤ R < 2,4 m² K/W
+
+(uniquement pour des actions engagées avant le 1er janvier 2008)
+
+|
+
+R ≥ 2,4 m² K/W
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+870
+
+|
+
+1 400
+
+|
+
+H1
+
+|
+
+1 900
+
+|
+
+3 100
+
+|
+
+H2
+
+|
+
+710
+
+|
+
+1 100
+
+|
+
+H2
+
+|
+
+1 600
+
+|
+
+2 500
+
+|
+
+H3
+
+|
+
+480
+
+|
+
+750
+
+|
+
+H3
+
+|
+
+1 100
+
+|
+
+1 700
+
+|
 
 Certificats d'économies d'énergie
 
@@ -78,13 +314,13 @@ Bâtiment résidentiel : maisons individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R 1,2 m² k/W sur/sous-plancher.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m² K/W sur/sous plancher.
 
 3. Conditions pour la délivrance de certificats :
 
 Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-Les isolants doivent être mis en oeuvre selon les DTU 25.42 et 25.41 ou avis technique.
+Les isolants doivent être mis en uvre selon les DTU 25.42 et 25.41 ou avis technique.
 
 Mise en place réalisée par un professionnel.
 
@@ -96,9 +332,127 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/m² d'isolant)
+
+|
+
+1,2 m² K/W ≤ R < 2,4 m² K/W
+
+(uniquement pour des actions engagées avant le 1er janvier 2008)
+
+|
+
+R ≥ 2,4 m² K/W
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+1 100
+
+|
+
+1 700
+
+|
+
+H1
+
+|
+
+2 400
+
+|
+
+3 800
+
+|
+
+H2
+
+|
+
+900
+
+|
+
+1 400
+
+|
+
+H2
+
+|
+
+2 000
+
+|
+
+3 100
+
+|
+
+H3
+
+|
+
+600
+
+|
+
+1 000
+
+|
+
+H3
+
+|
+
+1 300
+
+|
+
+2 100
+
+|
 
 Certificats d'économies d'énergie
 
@@ -112,13 +466,13 @@ Bâtiment résidentiel : maisons individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant, correspondant à un coefficient de transmission surfacique Uw 2,5 W/m² k.
+Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant, correspondant à un coefficient de transmission surfacique Uw ≤ 2 W/m² K.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 La fenêtre ou porte-fenêtre aura la certification NF CSTBat, le label ACOTHERM ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-La mise en oeuvre de la fenêtre ou porte-fenêtre sera faite conformément aux DTU et prescriptions des cahiers du CSTB en vigueur pour chacun des matériaux (aluminium, bois et PVC).
+La mise en uvre de la fenêtre ou porte-fenêtre sera faite conformément aux DTU et prescriptions des cahiers du CSTB en vigueur pour chacun des matériaux (aluminium, bois et PVC).
 
 Mise en place réalisée par un professionnel.
 
@@ -130,9 +484,127 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/m²)
+
+|
+
+2 W/m² K < Uw ≤ 2,5 W/m² K
+
+(uniquement pour des actions engagées avant le 1er janvier 2008)
+
+|
+
+Uw ≤ 2 W/m² K
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+Zone climatique
+
+|
+
+Energie de chauffage
+
+|
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+700
+
+|
+
+1 100
+
+|
+
+H1
+
+|
+
+1 700
+
+|
+
+2 700
+
+|
+
+H2
+
+|
+
+550
+
+|
+
+900
+
+|
+
+H2
+
+|
+
+1 400
+
+|
+
+2 200
+
+|
+
+H3
+
+|
+
+400
+
+|
+
+600
+
+|
+
+H3
+
+|
+
+900
+
+|
+
+1 500
+
+|
 
 Certificats d'économies d'énergie
 
@@ -144,15 +616,15 @@ Isolation des toitures terrasses
 
 Bâtiment résidentiel : appartements existants.
 
-2. Dénomination :
+2 Dénomination :
 
-Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique R 2 m²K/W.
+Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique R ≥ 2,6 m² K/W.
 
 3. Conditions pour la délivrance de certificats :
 
 Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-Les isolants doivent être mis en oeuvre selon les DTU séries 40 à 43 ou avis technique.
+Les isolants doivent être mis en uvre selon les DTU séries 40 à 43 ou avis technique.
 
 Mise en place réalisée par un professionnel.
 
@@ -164,9 +636,155 @@ Information à fournir impérativement : ancienneté du bâtiment (avant ou apr�
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT (en kWh cumac/m² d'isolant)
 
-n° 303 du 31/12/2006 texte numéro 60
+|
+
+|
+
+2 m² K/W ≤ R < 2,6 m² K/W
+
+(uniquement pour des actions
+
+engagées avant le 1er janvier 2008)
+
+|
+
+2,6 m² K/W ≤ R < 3,5 m² K/W
+
+|
+
+R ≥ 3,5 m² K/W
+
+|
+
+|
+
+Energie de chauffage
+
+|
+
+Energie de chauffage
+
+|
+
+Energie de chauffage
+
+|
+
+Zone
+
+climatique
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+530
+
+|
+
+840
+
+|
+
+550
+
+|
+
+880
+
+|
+
+1 200
+
+|
+
+1 800
+
+|
+
+H2
+
+|
+
+430
+
+|
+
+680
+
+|
+
+450
+
+|
+
+720
+
+|
+
+950
+
+|
+
+1 500
+
+|
+
+H3
+
+|
+
+290
+
+|
+
+460
+
+|
+
+300
+
+|
+
+480
+
+|
+
+630
+
+|
+
+1 000
+
+|
 
 Certificats d'économies d'énergie
 
