@@ -2,7 +2,7 @@
 
 LISTE DES ACTIONS, DES COÛTS ET DES DÉPENSES ÉLIGIBLES
 
-1. Coûts liés aux plants certifiés dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté, en cohérence avec les orientations contenues dans la circulaire des aides nationales à la rénovation du verger.
+1. Coûts liés aux plants dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté, en cohérence avec les orientations contenues dans la circulaire des aides nationales à la rénovation du verger.
 
 2. Coûts spécifiques (surcoûts) des semences certifiées, mycéliums certifiés et plants certifiés, dans le cadre d'une amélioration de la qualité.
 
@@ -164,4 +164,4 @@ Le matériel est pris en compte par le FO au prorata de son utilisation pour les
 
 NOTA :
 
-NOTA : (1) Ces dispositions sont d'application à partir des fonds opérationnels 2008.
+(1) Ces dispositions sont d'application à partir des fonds opérationnels 2008.
