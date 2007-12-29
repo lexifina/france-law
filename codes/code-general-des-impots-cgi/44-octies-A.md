@@ -34,7 +34,7 @@ Par exception aux dispositions du sixième alinéa du présent II, le contribuab
 
 Le bénéfice exonéré ne peut excéder 100 000 Euros par contribuable et par période de douze mois, majoré de 5 000 Euros par nouveau salarié embauché à compter du 1er janvier 2006 domicilié dans une zone urbaine sensible ou dans une zone franche urbaine et employé à temps plein pendant une période d'au moins six mois. Cette condition est appréciée à la clôture de l'exercice ou de la période d'imposition au titre duquel ou de laquelle l'exonération s'applique.
 
-Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, l'exonération s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Pour les contribuables qui exercent des activités avant le 1er janvier 2006 dans les zones franches urbaines définies au deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 III. - Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal mentionné à l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article et au 4 de l'article 223 I.
 
@@ -43,3 +43,7 @@ Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération a
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 sexies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois qui suivent la publication du décret en Conseil d'Etat procédant à la délimitation de la zone conformément à l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, s'il y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. - Les obligations déclaratives des personnes et organismes auxquels s'applique l'exonération sont fixées par décret.
+
+NOTA :
+
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 : Dispositions applicables aux avantages octroyés à compter du 1er janvier 2007.

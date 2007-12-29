@@ -18,19 +18,19 @@ IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait
 
 Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 
-1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 Euros à 40 Euros ;
+1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 euros à 68 euros ;
 
-2e groupe : aérodrome de Paris - Charles-de-Gaulle : de 10 à 22 ;
+2e groupe : aérodromes de Paris - Charles-de-Gaulle et de Nantes-Atlantique : de 10 euros à 22 euros ;
 
-3e groupe : aérodromes de Bordeaux-Mérignac, Lyon - Saint-Exupéry, Marseille-Provence, Nantes-Atlantique, Nice-Côte d'Azur : de 4 Euros à 8 Euros.
+3e groupe : aérodromes de Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4 euros à 8 euros.
 
-4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 Euros à 3 Euros.
+4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 euros à 3 euros.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe applicable pour chaque aérodrome.
 
 V. - Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 Euros, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de l'aviation civile.
 
-La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe de l'aviation civile.
+La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe "contrôle et exploitation aériens".
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle visée par la déclaration.
 
@@ -55,3 +55,7 @@ Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 4. Le droit de rectification de la taxe par les services de la direction générale de l'aviation civile s'exerce jusqu'à l'expiration d'un délai de trois ans suivant le mois ou le trimestre civil au titre duquel la taxe est due. La prescription est suspendue et interrompue dans les conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
 VII. - Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.
+
+NOTA :
+
+Loi n° 2007-1824 du 25 décembre 2007 art. 96 I : les dispositions du IV de l'article 1609 quatervicies A du code général des impôts telles qu'elles résultent de l'article 96-I de la loi n° 2007-1824 s'appliquent à compter du 1er janvier 2008.

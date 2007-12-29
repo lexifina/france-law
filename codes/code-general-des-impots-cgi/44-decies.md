@@ -60,6 +60,8 @@ VIII. L'effectif salarié est apprécié au dernier jour de l'exercice ou de l'a
 
 IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
 
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+
 X. (abrogé)
 
 XI. Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 208 sexies, 208 quater A ou du régime prévu au présent article, le contribuable peut opter pour ce dernier régime ou demander, le cas échéant, l'agrément prévu au I ou au VI, avant le 1er juillet 1997 s'il exerce déjà son activité en Corse ou, dans le cas contraire, dans les six mois suivant celui de la création de son activité. L'option est irrévocable.
@@ -68,6 +70,4 @@ XII. Les modalités d'application du présent article sont fixées par décret.
 
 NOTA :
 
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux plans de sauvegarde ou de redressement judiciaire.
+Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 L : Dispositions applicables aux avantages octroyés à compter du 1er janvier 2007.

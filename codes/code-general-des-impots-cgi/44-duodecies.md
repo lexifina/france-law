@@ -24,7 +24,9 @@ Lorsque le contribuable n'exerce pas l'ensemble de son activité dans un bassin 
 
 Par exception au sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans un bassin d'emploi à redynamiser. Cette disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
-Lorsque l'activité est créée dans une zone d'aide à finalité régionale, l'exonération s'applique dans les conditions et limites prévues par le règlement (CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale. Dans le cas contraire, elle s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui procèdent aux opérations mentionnées au I dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale.
+
+L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six mois suivant les opérations mentionnées au I.
 
 III. - Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II du présent article, dans la limite du résultat d'ensemble du groupe.
 
@@ -33,3 +35,7 @@ Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du 
 IV. - Les obligations déclaratives des personnes et organismes concernés par l'exonération sont fixées par décret.
 
 V. - (disjoint)
+
+NOTA :
+
+La loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages octroyés à compter du 1er janvier 2007, pour les exercices ouverts entre le 1er janvier 2007 et le 31 juillet 2007, l'option peut être exercée jusqu'au 1er février 2008.
