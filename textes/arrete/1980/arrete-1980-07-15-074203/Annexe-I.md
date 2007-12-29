@@ -4,7 +4,7 @@ Conditions de fabrication ou d'installation
 
 RÉFÉRENCE
 
-de la spécification(indice et date)
+de la spécification (indice et date)
 
 |
 
@@ -20,7 +20,9 @@ de l'obligation de conformité
 
 |
 
-CONDITIONS particulières
+CONDITIONS
+
+particulières
 
 |
 
@@ -38,7 +40,7 @@ Cas des nouveaux matériels
 
 |
 
-ATG B521 (juin 2005)
+ATG B 521 (juin 2005).
 
 |
 
@@ -62,7 +64,7 @@ Pour les alliages d'apport et flux, la preuve de conformité à la spécificatio
 
 |
 
-ATG B524 (juin 2005)
+ATG B 524 (juin 2005).
 
 |
 
@@ -78,7 +80,7 @@ Installations de gaz combustible : tubes de cuivre et assemblages.
 
 |
 
-Ces spécifications ne visent pas la fabrication de conduites montantes, qui sont réalisées dans un atelier fixe de préfabrication.
+Ces spécifications ne visent pas la fabrication de conduites montantes qui sont réalisées dans un atelier fixe de préfabrication.
 
 |
 
@@ -86,7 +88,7 @@ Pour les alliages d'apport et flux, la preuve de conformité à la spécificatio
 
 |
 
-ATG B600 (juin 2005)
+ATG B 600 (juin 2005).
 
 |
 
@@ -108,7 +110,7 @@ Cette spécification définit les éléments de conduites montantes réalisés d
 
 |
 
-CCH AFG 2004-02 (juin 2006)
+CCH AFG 2004-02 (juin 2006).
 
 |
 
@@ -129,5 +131,53 @@ Cette spécification définit les caractéristiques des raccords, leurs règles 
 |
 
 La preuve de conformité à la spécification des raccords sera apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris.
+
+|
+
+CCH AFG 2007-01 (juin 2007).
+
+|
+
+Kits de tuyaux onduleux pliables en acier inoxydable pour le gaz dans les bâtiments avec une pression de service inférieure ou égale a 0,5 bar (kits "PLT").
+
+|
+
+Sans objet
+
+|
+
+1er octobre 2007
+
+|
+
+Cette spécification définit les exigences techniques de construction et de fonctionnement ainsi que les prescriptions d'essai des kits PLT.
+
+|
+
+La preuve de conformité à la spécification des kits PLT sera apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris.
+
+|
+
+CCH AFG 2006-01 (décembre 2007).
+
+|
+
+Tuyaux flexibles courts pour le raccordement d'ouvrages de distribution de gaz par canalisations.
+
+|
+
+1er janvier 2008
+
+|
+
+1er janvier 2008
+
+|
+
+Cette spécification définit les caractéristiques des flexibles courts pour le raccordement d'ouvrages de distribution de gaz par canalisations et leurs règles de mise en oeuvre.
+
+|
+
+La preuve de conformité à la spécification des flexibles courts sera apportée à compter du 1er juin 2011 par l'obtention de la certification les concernants (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris. Dans cette attente, les matériels commercialisés en vue de la réalisation des installations de gaz acceptés par les distributeurs de gaz sont réputés satisfaire aux exigences du CCH AFG correspondant.
 
 |
