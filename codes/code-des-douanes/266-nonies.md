@@ -46,22 +46,6 @@ Matériaux d'extraction.
 
 Matériaux d'extraction, 0,10.
 
-Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des produits assimilés.
-
-Catégorie 1, 0.
-
-Catégorie 2, 381,12.
-
-Catégorie 3, 609,80.
-
-Catégorie 4, 838,47.
-
-Catégorie 5, 1067,14.
-
-Catégorie 6, 1372,04.
-
-Catégorie 7, 1676,94.
-
 Installations classées.
 
 Délivrance d'autorisation :
@@ -94,54 +78,10 @@ Imprimés (Dispositions déclarées non conformes à la Constitution par décisi
 
 5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
 
-7. Les substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des produits assimilés mentionnés au 7 du I de l'article 266 sexies sont réparties en sept catégories affectées d'un taux unitaire spécifique en fonction de leurs caractéristiques écotoxicologiques et toxicologiques définies par les arrêtés pris pour l'application de l'article R. 231-51 du code du travail :
-
-Danger toxicologique, phrase de risque écotoxicologique.
-
-T+ ou T aggravé par l'une des phrases de risque R 33, R 40, R 45, R 46, R 48, R 49 ou R 60 à R 64 :
-
-- R 50/53, R 50 : catégorie 7.
-
-- R 51/53 : catégorie 6.
-
-- R 52/53, R 52 ou R 53 : catégorie 5.
-
-- autres : catégorie 4.
-
-T non aggravé par l'une des phrases de risque précitées ou Xn aggravé par l'une des phrases de risque R 33, R 40, R 48 ou R 62 à R 64 :
-
-- R 50/53, R 50 : catégorie 6.
-
-- R 51/53 : catégorie 5.
-
-- R 52/53, R 52 ou R 53 : catégorie 4.
-
-- autres : catégorie 3.
-
-Xn non aggravé par l'une des phrases de risque précitées, Xi ou C :
-
-- R 50/53, R 50 : catégorie 5.
-
-- R 51/53 : catégorie 4.
-
-- R 52/53, R 52 ou R 53 : catégorie 3.
-
-- autres : catégorie 2.
-
-Autres :.
-
-- R 50/53, R 50 : catégorie 4.
-
-- R 51/53 : catégorie 3.
-
-- R 52/53, R 52 ou R 53 : catégorie 2.
-
-- autres : catégorie 1.
+7. Alinéa abrogé ;
 
 8. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coefficient multiplicateur.
 
 NOTA :
 
-NOTA : Les modifications induites par le 1° du I de l'article 39 de la loi n°2006-1771 du 30 décembre 2006 entrent en vigueur à compter du 1er juillet 2007.
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Conformément à l'article 101 III de la loi n° 2006-1772 du 30 décembre 2006, le 7 de l'article 266 nonies est abrogé à compter du 1er janvier 2008.
