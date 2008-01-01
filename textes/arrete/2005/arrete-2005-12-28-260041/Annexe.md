@@ -66,7 +66,7 @@ Redevance d'organisme de formation de personnel navigant.
 
 |
 
-k9 = 600
+k9 = 700
 
 |
 
@@ -80,12 +80,12 @@ k10 = 1 × Th
 
 Dans le tableau ci-dessus, le montant de Th est fixé au VI ci-dessous.
 
-II. - Le plafond du montant de la redevance d'exploitant d'aéronef, mentionné à l'article 5 du présent arrêté, est fixé à 6 000 000 €.
+II. - Le plafond du montant de la redevance d'exploitant d'aéronefs, mentionné à l'article 5 du présent arrêté, est fixé à 6 000 000 €.
 
 III. - Le seuil mentionné à l'article 7 du présent arrêté, en dessous duquel la redevance de sûreté aérienne de transporteur n'est pas due, est fixé à 1 000 000 de passagers.
 
-IV. - La valeur du coefficient N mentionné à l'article 12 est fixée à 8,69.
+IV. - La valeur du coefficient N mentionné à l'article 12 est fixée à 8,81.
 
 V. - Le tarif des frais d'édition des documents mentionnés à l'article 12 du présent arrêté est fixé, par édition d'un document, à 50 €.
 
-VI. - La valeur du taux horaire mentionné dans le présent arrêté est fixée à 127 €.
+VI. - La valeur du taux horaire mentionné dans le présent arrêté est fixée à 129 €.
