@@ -1,8 +1,8 @@
 # Article 37 quinquies
 
-Les partenaires sociaux ont de nouveau désigné Isica Prévoyance, 26, rue de Montholon, 75305 Paris Cedex 09 comme organisme assureur des garanties de prévoyance susvisées : incapacité de travail, décès et invalidité permanente et totale.
+Les partenaires sociaux ont de nouveau désigné ISICA Prévoyance, institution de prévoyance régie par le code de la sécurité sociale, 26, rue de Montholon, 75305 Paris Cedex 09, comme organisme assureur des garanties de prévoyance susvisées : incapacité de travail, décès et invalidité permanente et totale.
 
-Pour la garantie " Rente éducation ", les partenaires sociaux ont désigné l'OCIRP (organisme commun des institutions de rente et de prévoyance), 10, rue Cambacérès, 75008 Paris, comme organisme assureur. Isica Prévoyance reçoit délégation de la part de l'OCIRP pour appeler les cotisations et régler les prestations.
+Pour la garantie rente éducation, les partenaires sociaux ont désigné l'OCIRP (organisme commun des institutions de rente et de prévoyance) union d'institutions de prévoyance régie par le code de la sécurité sociale, 10, rue Cambacérès, 75008 Paris, comme organisme assureur. ISICA Prévoyance reçoit délégation de la part de l'OCIRP pour appeler les cotisations et régler les prestations.
 
 Les modalités d'organisation de la mutualisation des risques couverts par le présent accord seront réexaminées par la commission nationale paritaire dans un délai de 3 années à compter de la date d'effet du présent accord, conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale.
 

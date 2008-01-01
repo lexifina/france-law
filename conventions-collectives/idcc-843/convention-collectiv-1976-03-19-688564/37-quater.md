@@ -10,4 +10,6 @@ De plus, pour les enfants orphelins de père et mère, la rente est doublée.
 
 Montant de la cotisation
 
-Le taux de cotisation de la rente éducation est de 0,07 % du salaire brut plafonné à la tranche A réparti à raison de 2/3 pour l'employeur (0,05 %) et 1/3 pour le salarié (0,02 %).
+Le taux de cotisation de la rente éducation est de 0,04 % du salaire brut plafonné à la tranche A réparti à raison de 2/3 pour l'employeur et 1/3 pour le salarié.
+
+Compte tenu du taux actuellement en vigueur de 0,04 % du salaire brut plafonné à la tranche A, la commission paritaire nationale a décidé que la cotisation patronale serait au taux de 0,03 % et que la cotisation salariale serait au taux de 0,01 %.
