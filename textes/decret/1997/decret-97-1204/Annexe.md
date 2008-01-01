@@ -6,6 +6,20 @@ LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES, PRISES AU TITRE DU CODE DE L
 
 I. - Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
 
+Livre II
+
+|
+
+Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues.
+
+Arrêté conjoint des ministres chargés de l'énergie et de l'environnement.
+
+|
+
+R. 214-148
+
+|
+
 Livre IV
 
 |
