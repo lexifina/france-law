@@ -1,0 +1,9 @@
+# Article 1er
+
+Le titre VIII de la convention collective de l'animation est complété par le préambule suivant :
+
+« Préambule
+
+Conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale, les partenaires sociaux de la branche professionnelle de l'animation se sont réunis en date du 27 février 2008 afin de procéder à l'étude des modalités d'organisation de la mutualisation du régime de prévoyance.
+
+A l'issue de cette réunion, les partenaires sociaux ont décidé de reconduire AG2R Prévoyance, IONIS GNP, UNPMF en tant qu'organismes assureurs des garanties en cas de décès, d'incapacité et d'invalidité, et l'OCIRP en tant qu'assureur de la garantie rente éducation, du régime de prévoyance de la branche professionnelle de l'animation, pour une nouvelle période de 5 ans (2008-2012). »
