@@ -1,4 +1,4 @@
-# Article Annexe à l'article A. 931-11-9 (1er alinéa)  Annexe I
+# Article Annexe à l'article A931-11-9 (1er alinéa) Annexe I
 
 NOMENCLATURE DES COMPTES
 
@@ -86,7 +86,15 @@ Classe 1 - Capitaux permanents et emprunts.
 
 172 Autres.
 
-18 Comptes de liaison des succursales
+18 Comptes de liaison.
+
+183 Liaisons internes :
+
+1831 Position de change.
+
+1832 Contre-valeur de position de change.
+
+184 Liaisons des succursales.
 
 Classe 2 - Placements.
 
@@ -386,12 +394,6 @@ Classe 4 - Comptes de tiers et de régularisation.
 
 462 Autres.
 
-47 Différences de conversion
-
-476 Différences de conversion (actif).
-
-477 Différences de conversion (passif).
-
 48 Comptes de régularisation
 
 480 Intérêts et loyers acquis et non échus.
@@ -421,6 +423,12 @@ Classe 4 - Comptes de tiers et de régularisation.
 4850 Amortissement des différences sur les prix de remboursement 4855 Report de commissions reçues des réassureurs.
 
 487 Evaluations techniques de réassurance.
+
+489 Ecarts de conversion :
+
+4896 Ecarts de conversion-actif.
+
+4897 Ecarts de conversion-passif.
 
 49 Provisions pour dépréciation
 
@@ -816,8 +824,6 @@ Classe 6 - Charges.
 
 665 Pertes de change.
 
-6650 Pertes de change réalisées.
-
 6652 Dotations à la provision pour pertes de change.
 
 666 Ajustement de valeur des actifs représentatifs des opérations en unités de compte (moins-values non réalisées).
@@ -960,8 +966,6 @@ Classe 7 - Produits.
 
 765 Profits de change.
 
-7650 Profits de change réalisés.
-
 7652 Reprise sur la provision pour perte de change.
 
 766 Ajustement de valeur des actifs représentatifs des opérations en unités de compte (plus-values non réalisées).
@@ -994,8 +998,12 @@ Classe 7 - Produits.
 
 Classe 8 - Comptes spéciaux.
 
-80 Engagements reçus et donnés
+80 Engagements reçus et donnés.
 
-88 Résultat en instance d'affectation
+841 Position de change hors bilan.
+
+842 Contre-valeur de position de change hors bilan.
+
+88 Résultat en instance d'affectation.
 
 Classe 9 - Charges par nature.

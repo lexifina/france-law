@@ -4,1537 +4,977 @@ Les coefficients de modulation par service du taux de base sont fixés ainsi :
 
 Pour les directions départementales de l'équipement (DDE) ou les directions de l'équipement (DE)
 
-SERVICE
+Pour les directions départementales, sous la tutelle du ministère chargé de l'écologie
 
 |
 
-COEFFICIENT
+SERVICE DÉPARTEMENTAL |
 
-|
-
-1 DDE Ain
-
-|
-
-1,00
-
-|
-
-2 DDE Aisne
-
-|
-
-1,10
-
-|
-
-3 DDE Allier
-
-|
-
-0,95
-
-|
-
-4 DDE Alpes-de-Haute-Provence
-
-|
-
-0,85
-
-|
-
-5 DDE Hautes-Alpes
-
-|
-
-0,85
-
-|
-
-6 DDE Alpes-Maritimes
-
-|
-
-0,90
-
-|
-
-7 DDE Ardèche
-
-|
-
-0,95
-
-|
-
-8 DDE Ardennes
-
-|
-
-1,05
-
-|
-
-9 DDE Ariège
-
-|
-
-0,90
-
-|
-
-10 DDE Aube
-
-|
-
-1,05
-
-|
-
-11 DDE Aude
-
-|
-
-0,85
-
-|
-
-12 DDE Aveyron
-
-|
-
-0,95
-
-|
-
-13 DDE Bouches-du-Rhône
-
-|
-
-0,95
-
-|
-
-14 DDE Calvados
-
-|
-
-1,05
-
-|
-
-15 DDE Cantal
-
-|
-
-0,95
-
-|
-
-16 DDE Charente
-
-|
-
-0,95
-
-|
-
-17 DDE Charente-Maritime
-
-|
-
-0,95
-
-|
-
-18 DDE Cher
-
-|
-
-0,95
-
-|
-
-19 DDE Corrèze
-
-|
-
-0195
-
-|
-
-2A DDE Corse-du-Sud
-
-|
-
-0,95
-
-|
-
-2B DDE Haute-Corse
-
-|
-
-0,95
-
-|
-
-21 DDE Côte-d'Or
-
-|
-
-1,00
-
-|
-
-22 DDE Côtes-d'Armor
-
-|
-
-1,05
-
-|
-
-23 DDE Creuse
-
-|
-
-0,95
-
-|
-
-24 DDE Dordogne
-
-|
-
-0,90
-
-|
-
-25 DDE Doubs
-
-|
+COEFFICIENT |
 
-1,00
+1 |
 
-|
+AIN |
 
-26 DDE Drôme
+1,00 |
 
-|
+2 |
 
-0,95
+AISNE |
 
-|
+1,10 |
 
-27 DDE Eure
+3 |
 
-|
+ALLIER |
 
-1,05
+0,95 |
 
-|
+4 |
 
-28 DDE Eure-et-Loir
+ALPES-DE-HAUTE-PROVENCE |
 
-|
+0,85 |
 
-1,00
+5 |
 
-|
+HAUTES-ALPES |
 
-29 DDE Finistère
+0,85 |
 
-|
+6 |
 
-1,05
+ALPES-MARITIMES |
 
-|
+0,90 |
 
-30 DDE Gard
+7 |
 
-|
+ARDECHE |
 
-0,85
+0,95 |
 
-|
+8 |
 
-31 DDE Haute-Garonne
+ARDENNES |
 
-|
+1,05 |
 
-0,90
+9 |
 
-|
+ARIEGE |
 
-32 DDE Gers
+0,90 |
 
-|
+10 |
 
-0,85
+AUBE |
 
-|
+1,05 |
 
-33 DDE Gironde
+11 |
 
-|
+AUDE |
 
-0,90
+0,85 |
 
-|
+12 |
 
-34 DDE Hérault
+AVEYRON |
 
-|
+0,95 |
 
-0,85
+13 |
 
-|
+BOUCHES-DU-RHONE |
 
-35 DDE Ille-et-Vilaine
+0,95 |
 
-|
+14 |
 
-1,00
+CALVADOS |
 
-|
+1,05 |
 
-36 DDE Indre
+15 |
 
-|
+CANTAL |
 
-0,95
+0,95 |
 
-|
+16 |
 
-37 DDE Indre-et-Loire
+CHARENTE |
 
-|
+0,95 |
 
-1,00
+17 |
 
-|
+CHARENTE-MARITIME |
 
-38 DDE Isère................
+0,95 |
 
-|
+18 |
 
-1,00
+CHER |
 
-|
+0,95 |
 
-39 DDE Jura
+19 |
 
-|
+CORREZE |
 
-1,00
+0,95 |
 
-|
+2A |
 
-40 DDE Landes
+CORSE-DU-SUD |
 
-|
+0,95 |
 
-0,90
+2B |
 
-|
+HAUTE-CORSE |
 
-41 DDE Loir-et-Cher
+0,95 |
 
-|
+21 |
 
-1,05
+COTE-D'OR |
 
-|
+1,00 |
 
-42 DDE Loire
+22 |
 
-|
+COTES-D'ARMOR |
 
-0,95
+1,05 |
 
-|
+23 |
 
-43 DDE Haute-Loire
+CREUSE |
 
-|
+0,95 |
 
-0,95
+24 |
 
-|
+DORDOGNE |
 
-44 DDE Loire-Atlantique
+0,90 |
 
-|
+25 |
 
-1,00
+DOUBS |
 
-|
+1,00 |
 
-45 DDE Loiret
+26 |
 
-|
+DROME |
 
-1,00
+0,95 |
 
-|
+27 |
 
-46 DDE Lot
+EURE |
 
-|
+1,05 |
 
-0,90
+28 |
 
-|
+EURE-ET-LOIR |
 
-47 DDE Lot-et-Garonne
+1,00 |
 
-|
+29 |
 
-0,90
+FINISTERE |
 
-|
+1,05 |
 
-48 DDE Lozère
+30 |
 
-|
+GARD |
 
-0,95
+0,85 |
 
-|
+31 |
 
-49 DDE Maine-et-Loire
+HAUTE-GARONNE |
 
-|
+0,90 |
 
-100
+32 |
 
-|
+GERS |
 
-50 DDE Manche
+0,85 |
 
-|
+33 |
 
-1,05
+GIRONDE |
 
-|
+0,90 |
 
-51 DDE Marne
+34 |
 
-|
+HERAULT |
 
-1,05
+0,85 |
 
-|
+35 |
 
-52 DDE Haute-Marne
+ILLE-ET-VILAINE |
 
-|
+1,00 |
 
-105
+36 |
 
-|
+INDRE |
 
-53 DDE Mayenne
+0,95 |
 
-|
+37 |
 
-1,00
+INDRE-ET-LOIRE |
 
-|
+1,00 |
 
-54 DDE Meurthe-et-Moselle
+38 |
 
-|
+ISERE |
 
-1,10
+1,00 |
 
-|
+39 |
 
-55 DDE Meuse
+JURA |
 
-|
+1,00 |
 
-1,05
+40 |
 
-|
+LANDES |
 
-56 DDE Morbihan
+0,90 |
 
-|
+41 |
 
-1,00
+LOIR-ET-CHER |
 
-|
+1,05 |
 
-57 DDE Moselle
+42 |
 
-|
+LOIRE |
 
-1,10
+0,95 |
 
-|
+43 |
 
-58 DDE Nièvre
+HAUTE-LOIRE |
 
-|
+0,95 |
 
-1,00
+44 |
 
-|
+LOIRE-ATLANTIQUE |
 
-59 DDE Nord
+1,00 |
 
-|
+45 |
 
-1,15
+LOIRET |
 
-|
+1,00 |
 
-60 DDE Oise
+46 |
 
-|
+LOT |
 
-1,15
+0,90 |
 
-|
+47 |
 
-61 DDE Orne
+LOT-ET-GARONNE |
 
-|
+0,90 |
 
-1,05
+48 |
 
-|
+LOZERE |
 
-62 DDE Pas-de-Calais
+0,95 |
 
-|
+49 |
 
-1,20
+MAINE-ET-LOIRE |
 
-|
+1,00 |
 
-63 DDE. Puy-de-Dôme
+50 |
 
-|
+MANCHE |
 
-0,95
+1,05 |
 
-|
+51 |
 
-61 DDE rén es-Atlantiques
+MARNE |
 
-|
+1,05 |
 
-0,90
+52 |
 
-|
+HAUTE-MARNE |
 
-65 DDE Hautes-Pyrénées
+1,05 |
 
-|
+53 |
 
-0,90
+MAYENNE |
 
-|
+1,00 |
 
-66 DDE Pyrénées-Orientales
+54 |
 
-|
+MEURTHE-ET-MOSELLE |
 
-0,85
+1,10 |
 
-|
+55 |
 
-67 DDE Bas-Rhin
+MEUSE |
 
-|
+1,05 |
 
-1,10
+56 |
 
-|
+MORBIHAN |
 
-68 DDE Haut-Rhin
+1,00 |
 
-|
+57 |
 
-1,10
+MOSELLE |
 
-|
+1,10 |
 
-69 DDE Rhône
+58 |
 
-|
+NIEVRE |
 
-0,95
+1,00 |
 
-|
+59 |
 
-70 DDE Haute-Saône
+NORD |
 
-|
+1,15 |
 
-1,00
+60 |
 
-|
+OISE |
 
-71 DDE Saône-et-Loire ....
+1,15 |
 
-|
+61 |
 
-1,00
+ORNE |
 
-|
+1,05 |
 
-72 DDE Sarthe
+62 |
 
-|
+PAS-DE-CALAIS |
 
-1,00
+1,20 |
 
-|
+63 |
 
-73 DDE Savoie
+PUY-DE-DOME |
 
-|
+0,95 |
 
-1,05
+64 |
 
-|
+PYRENEES-ATLANTIQUES |
 
-74 DDE Haute-Savoie
+0,90 |
 
-|
+65 |
 
-1,05
+HAUTES-PYRENEES |
 
-|
+0,90 |
 
-76 DDE Seine-Maritime
+66 |
 
-|
+PYRENEES-ORIENTALES |
 
-1,10
+0,85 |
 
-|
+67 |
 
-77 DDE Seine-et-Marne
+BAS-RHIN |
 
-|
+1,10 |
 
-1,10
+68 |
 
-|
+HAUT-RHIN |
 
-78 DDE Yvelines.
+1,10 |
 
-|
+69 |
 
-1,10
+RHONE |
 
-|
+0,95 |
 
-79 DDE Deux-Sèvres..
+70 |
 
-|
+HAUTE-SAONE |
 
-0,95
+1,00 |
 
-|
+71 |
 
-80 DDE Somme
+SAONE-ET-LOIRE |
 
-|
+1,00 |
 
-1,10
+72 |
 
-|
+SARTHE |
 
-81 DDE Tarn
+1,00 |
 
-|
+73 |
 
-0,85
+SAVOIE |
 
-|
+1,05 |
 
-82 DDE Tarn-et-Garonne
+74 |
 
-|
+HAUTE-SAVOIE |
 
-0,90
+1,05 |
 
-|
+76 |
 
-83 DDE Var
+SEINE-MARITIME |
 
-|
+1,10 |
 
-0,90
+77 |
 
-|
+SEINE-ET-MARNE |
 
-84 DDE Vaucluse
+1,10 |
 
-|
+78 |
 
-0,90
+YVELINES |
 
-|
+1,10 |
 
-85 DDE Vendée
+79 |
 
-|
+DEUX-SEVRES |
 
-1,00
+0,95 |
 
-|
+80 |
 
-86 DDE Vienne
+SOMME |
 
-|
+1,10 |
 
-0,95
+81 |
 
-|
+TARN |
 
-87 DDE Haute-Vienne
+0,85 |
 
-|
+82 |
 
-0,95
+TARN-ET-GARONNE |
 
-|
+0,90 |
 
-88 DDE Vosges
+83 |
 
-|
+VAR |
 
-1,05
+0,90 |
 
-|
+84 |
 
-89 DDE Yonne
+VAUCLUSE |
 
-|
+0,90 |
 
-1,00
+85 |
 
-|
+VENDEE |
 
-90 DDE Territoire de Belfort
+1,00 |
 
-|
+86 |
 
-1,00
+VIENNE |
 
-|
+0,95 |
 
-91 DDE Essonne
+87 |
 
-|
+HAUTE-VIENNE |
 
-1,10
+0,95 |
 
-|
+88 |
 
-92 DDE Hauts-de-Seine
+VOSGES |
 
-|
+1,05 |
 
-1,10
+89 |
 
-|
+YONNE |
 
-93 DDE Seine-Saint-Denis
+1,00 |
 
-|
+90 |
 
-1,10
+TERRITOIRE DE BELFORT |
 
-|
+1,00 |
 
-94 DDE Val-de-Marne,
+91 |
 
-|
+ESSONNE |
 
-1,10
+1,10 |
 
-|
+92 |
 
-95 DDE Val-d'Oise
+HAUTS-DE-SEINE |
 
-|
+1,10 |
 
-1,10
+93 |
 
-|
+SEINE-SAINT-DENIS |
 
-971 DDE Guadeloupe
+1,10 |
 
-|
+94 |
 
-0,85
+VAL-DE-MARNE |
 
-|
+1,10 |
 
-972 DDE Martinique.
+95 |
 
-|
+VAL-D'OISE |
 
-0,85
+1,10 |
 
-|
+971 |
 
-973 DDE Guyane
+GUADELOUPE |
 
-|
+0,85 |
 
-0,85
+972 |
 
-|
+MARTINIQUE |
 
-974 DDE Réunion
+0,85 |
 
-|
+973 |
 
-0,85
+GUYANE |
 
-|
+0,85 |
 
-975 DE Saint-Pierre-et-Miquelon
+974 |
 
-|
+REUNION |
 
-0,85
+0,85 |
 
-|
+975 |
 
-976 DE Mayotte
+SAINT-PIERRE-ET-MIQUELON |
 
-|
+0,85 |
 
-0,85
+976 |
 
-|
+MAYOTTE |
 
-Services d'Etat de l'aviation civile outre-mer
+0,85 |
 
 |
 
-0.85
+DULE |
 
-|
+1,10 |
 
 Les directions régionales de l'environnement (DIREN), les directions interrégionales et régionales de l'Etablissement public Météo-France, les directions régionales des affaires maritimes, les unités interrégionales et régionales de l'Etablissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement du siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 0,85. La direction interrégionale d'Ile-de-France de l'Etablissement public Météo-France bénéficie du coefficient de 1,05 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
 
 Pour les directions régionales de l'équipement
 
-SERVICE
+Pour les directions régionales, sous la tutelle du ministère chargé de l'écologie
 
-|
+SERVICE RÉGIONAL |
 
-COEFFICIENT
+COEFFICIENT |
 
-|
+ALSACE |
 
-DRE Alsace
+1,10 |
 
-|
+AQUITAINE |
 
-1,10
+0,90 |
 
-|
+AUVERGNE |
 
-DRE Aquitaine
+0,95 |
 
-|
+BOURGOGNE |
 
-0,90
+1,00 |
 
-|
+BRETAGNE |
 
-DRE Auvergne
+1,00 |
 
-|
+CENTRE |
 
-0,95
+1,00 |
 
-|
+CHAMPAGNE-ARDENNE |
 
-DRE Bourgogne
+1,05 |
 
-|
+CORSE |
 
-1,00
+0,95 |
 
-|
+FRANCHE-COMTE |
 
-DRE Bretagne
+1,00 |
 
-|
+LANGUEDOC-ROUSSILLON |
 
-1,00
+0,85 |
 
-|
+LORRAINE |
 
-DRE Centre
+1,10 |
 
-|
+MIDI-PYRENEES |
 
-1,00
+0,90 |
 
-|
+NORD - PAS-DE-CALAIS |
 
-DRE Champagne-Ardenne
+1,15 |
 
-|
+BASSE-NORMANDIE |
 
-1,05
+1,05 |
 
-|
+HAUTE-NORMANDIE |
 
-DRE Corse
+1,10 |
 
-|
+PAYS DE LA LOIRE |
 
-0,95
+1,00 |
 
-|
+PICARDIE |
 
-DRE Franche-Comté
+1,10 |
 
-|
+POITOU-CHARENTES |
 
-1,00
+0,95 |
 
-|
+PROVENCE-ALPES-COTE D'AZUR |
 
-DRE Languedoc-Roussillon
+0,95 |
 
-|
+RHONE-ALPES |
 
-0,85
+0,95 |
 
-|
+ILE-DE-FRANCE |
 
-DRE Lorraine
+1,10 |
 
-|
+LIMOUSIN |
 
-1,10
-
-|
-
-DRE Midi-Pyrénées
-
-|
-
-0,90
-
-|
-
-DRE Nord - Pas-de-Calais
-
-|
-
-1,15
-
-|
-
-DRE Basse-Normandie
-
-|
-
-1,05
-
-|
-
-DRE Haute-Normandie
-
-|
-
-1,10
-
-|
-
-DRE Pays de la Loire
-
-|
-
-1,00
-
-|
-
-DRE Picardie
-
-|
-
-1,10
-
-|
-
-DRE Poitou-Charentes
-
-|
-
-0,95
-
-|
-
-DRE Provence-Alpes-Côte d'Azur
-
-|
-
-0,95
-
-|
-
-DRE Rhône-Alpes
-
-|
-
-0,95
-
-|
-
-DRE Ile-de-France
-
-|
-
-1,10
-
-|
-
-DRE Limousin
-
-|
-
-0,95
-
-|
-
-.
+0,95 |
 
 Pour les directions interdépartementales des routes
 
-SERVICE
+SERVICE |
 
-|
+COEFFICIENT |
 
-COEFFICIENT
+DIR Ile-de-France |
 
-|
+1,10 |
 
-DIR Ile-de-France
+DIR Nord |
 
-|
+1,15 |
 
-1,10
+DIR Est |
 
-|
+1,10 |
 
-DIR Nord
+DIR Centre-Est |
 
-|
+1 |
 
-1,15
+DIR Méditerranée |
 
-|
+0,95 |
 
-DIR Est
+DIR Massif central |
 
-|
+0,95 |
 
-1,10
+DIR Sud-Ouest |
 
-|
+0,90 |
 
-DIR Centre-Est
+DIR Atlantique |
 
-|
+0,95 |
 
-1
+DIR Centre-Ouest |
 
-|
+0,95 |
 
-DIR Méditerranée
+DIR Ouest |
 
-|
+1,05 |
 
-0,95
+DIR Nord-Ouest |
 
-|
-
-DIR Massif central
-
-|
-
-0,95
-
-|
-
-DIR Sud-Ouest
-
-|
-
-0,90
-
-|
-
-DIR Atlantique
-
-|
-
-0,95
-
-|
-
-DIR Centre-Ouest
-
-|
-
-0,95
-
-|
-
-DIR Ouest
-
-|
-
-1,05
-
-|
-
-DIR Nord-Ouest
-
-|
-
-1,10
-
-|
+1,10 |
 
 Pour les services déconcentrés de l'aviation civile
 
-SERVICE
+SERVICE |
 
-|
+COEFFICIENT |
 
-COEFFICIENT
+DAC |
 
-|
+Direction de l'aviation civile Nord |
 
-DAC
+1,10 |
 
-|
+DAC |
 
-Direction de l'aviation civile Nord
+Direction de l'aviation civile Nord-est |
 
-|
+1,10 |
 
-1,10
+DAC |
 
-|
+Direction de l'aviation civile Centre-Est |
 
-DAC
+0,95 |
 
-|
+DAC |
 
-Direction de l'aviation civile Nord-est
+Direction de l'aviation civile Sud-Est |
 
-|
+0,95 |
 
-1,10
+DAC |
 
-|
+Direction de l'aviation civile Sud |
 
-DAC
+0,90 |
 
-|
+DAC |
 
-Direction de l'aviation civile Centre-Est
+Direction de l'aviation civile Sud-Ouest |
 
-|
+0,90 |
 
-0,95
+DAC |
 
-|
+Direction de l'aviation civile Ouest |
 
-DAC
+1,00 |
 
-|
+DAC |
 
-Direction de l'aviation civile Sud-Est
+Direction de l'aviation civile Antilles-Guyane |
 
-|
+0,85 |
 
-0,95
+SEAC |
 
-|
+Service d'Etat de l'aviation civile en Polynésie française, de Nouvelle-Calédonie et des dépendances |
 
-DAC
+0,85 |
 
-|
+SAC |
 
-Direction de l'aviation civile Sud
+Service de l'aviation civile de SAint-Pierre-et-Miquelon, de la Réunion et des îles Eparses |
 
-|
+0,85 |
 
-0,90
+ADP |
 
-|
+Aéroports de Paris |
 
-DAC
-
-|
-
-Direction de l'aviation civile Sud-Ouest
-
-|
-
-0,90
-
-|
-
-DAC
-
-|
-
-Direction de l'aviation civile Ouest
-
-|
-
-1,00
-
-|
-
-DAC
-
-|
-
-Direction de l'aviation civile Antilles-Guyane
-
-|
-
-0,85
-
-|
-
-SEAC
-
-|
-
-Service d'Etat de l'aviation civile en Polynésie française, de Nouvelle-Calédonie et des dépendances
-
-|
-
-0,85
-
-|
-
-SAC
-
-|
-
-Service de l'aviation civile de SAint-Pierre-et-Miquelon, de la Réunion et des îles Eparses
-
-|
-
-0,85
-
-|
-
-ADP
-
-|
-
-Aéroports de Paris
-
-|
-
-1,10
-
-|
+1,10 |
 
 Pour les services spécialisés
 
-.
+SERVICE |
 
-SERVICE
+COEFFICIENT |
 
-|
+SERVICE DE LA NAVIGATION DU SUD-OUEST (TOULOUSE). |
 
-COEFFICIENT
+0, 90 |
 
-|
+SERVICE DE LA NAVIGATION DU NORD-EST (NANCY). |
 
-Service de la navigation du Sud-Ouest (Toulouse)
+1, 10 |
 
-|
+SERVICE DE LA NAVIGATION DE NORD-PAS-DE-CALAIS |
 
-0,90
+1, 15 |
 
-|
+SERVICE DE LA NAVIGATION DE STRASBOURG. |
 
-Service de la navigation du Nord-Est (Nancy)
+1, 10 |
 
-|
+SERVICE DE LA NAVIGATION DE RHONE-SAONE (LYON). |
 
-1,10
+0, 95 |
 
-|
+SERVICE DE LA NAVIGATION DE LA SEINE. |
 
-Service de la navigation de Nord-Pas-de-Calais
+1, 05 |
 
-|
+SERVICE MARITIME ET DE NAVIGATION DE LANGUEDOC-ROUSSILLON. |
 
-1,15
+0, 90 |
 
-|
+SERVICE MARITIME DU NORD (DUNKERQUE). |
 
-Service de la navigation de Strasbourg
+1, 15 |
 
-|
+SERVICE MARITIME DES PORTS DE BOULOGNE-SUR-MER ET CALAIS. |
 
-1,10
+1, 20 |
 
-|
+SERVICE MARITIME DE LA SEINE-MARITIME (ROUEN). |
 
-Service de la navigation de Rhône-Saône (Lyon)
-
-|
-
-0,95
-
-|
-
-Service de la navigation de la Seine
-
-|
-
-1,05
-
-|
-
-Service maritime et de navigation de Languedoc-Roussillon
-
-|
-
-0,90
-
-|
-
-Service maritime du Nord (Dunkerque)
-
-|
-
-1,15
-
-|
-
-Service maritime des ports de Boulogne-sur-Mer et Calais
-
-|
-
-1,20
-
-|
-
-Service maritime de la Seine-Maritime (Rouen)
-
-|
-
-1,10
-
-|
-
-Service spécial des bases aériennes d'Ile-de-France
-
-|
-
-1,05
-
-|
-
-Service spécial des bases aériennes Sud-Ouest
-
-|
-
-0,90
-
-|
-
-Service spécial des bases aériennes Sud-Est
-
-|
-
-0,95
-
-|
+1, 10 |
 
 Pour les services à compétence nationale
 
-SERVICE
+SERVICE |
 
-|
+COEFFICIENT |
 
-COEFFICIENT
+SERVICE D'ETUDES TECHNIQUES DES ROUTES ET AUTOROUTES. |
 
-|
+1, 05 |
 
-Service d'études techniques des routes et autoroutes
+CENTRE D'ETUDES DES TUNNELS. |
 
-|
+1, 05 |
 
-1,05
+CENTRE D'ETUDES TECHNIQUES MARITIMES ET FLUVIALES. |
 
-|
+1, 05 |
 
-Centre d'études des tunnels
+SERVICE TECHNIQUE DE L'AVIATION CIVILE. |
 
-|
+1, 05 |
 
-1,05
+CENTRE NATIONAL DES PONTS DE SECOURS. |
 
-|
+1, 05 |
 
-Centre d'études techniques maritimes et fluviales
+SERVICE TECHNIQUE DES REMONTEES MECANIQUES ET DES TRANSPORTS GUIDES. |
 
-|
+1, 05 |
 
-1,05
+CENTRE D'ETUDES SUR LES RESEAUX, LES TRANSPORTS, L'URBANISME ET LES CONSTRUCTIONS PUBLIQUES (CERTU). |
 
-|
+0, 95 |
 
-Service technique de l'aviation civile
+BUREAU D'ENQUETES ET D'ANALYSE POUR LA SECURITE DE L'AVIATION CIVILE. |
 
-|
+1, 15 |
 
-1,05
+DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DES OPERATIONS (ECHELON CENTRAL). |
 
-|
+1, 10 |
 
-Centre national des ponts de secours
+CENTRE EN ROUTE DE LA NAVIGATION AERIENNE NORD. |
 
-|
+1, 10 |
 
-1,05
+CENTRE EN ROUTE DE LA NAVIGATION AERIENNE EST. |
 
-|
+1, 10 |
 
-Service technique des remontées mécaniques et des transports guidés
+CENTRE EN ROUTE DE LA NAVIGATION AERIENNE SUD-EST. |
 
-|
+1, 00 |
 
-1,05
+CENTRE EN ROUTE DE LA NAVIGATION AERIENNE SUD-OUEST. |
 
-|
+1, 00 |
 
-Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques
+CENTRE EN ROUTE DE LA NAVIGATION AERIENNE OUEST. |
 
-|
+1, 00 |
 
-0,95
+DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DE LA TECHNIQUE ET DE L'INNOVATION ATHIS-MONS. |
 
-|
+1, 10 |
 
-Bureau d'enquêtes et d'analyse pour la sécurité de l'aviation civile
+DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DE LA TECHNIQUE ET DE L'INNOVATION TOULOUSE. |
 
-|
+1, 05 |
 
-1,15
+SERVICE DE L'INFORMATION AERONAUTIQUE. |
 
-|
+0, 90 |
 
-Direction des services de la navigation aérienne, direction des opérations (échelon central)
+SERVICE D'EXPLOITATION DE LA FORMATION AERONAUTIQUE. |
 
-|
+0, 90 |
 
-1,10
+CENTRE D'EXPLOITATION, DE DEVELOPPEMENT ET D'ETUDES DU RESEAU D'INFORMATION DE GESTION. |
 
-|
+1, 10 |
 
-Centre en route de la navigation aérienne Nord
+SERVICE NATIONAL D'INGENIERIE AEROPORTUAIRE. |
 
-|
-
-1,10
-
-|
-
-Centre en route de la navigation aérienne Est
-
-|
-
-1,10
-
-|
-
-Centre en route de la navigation aérienne Sud-Est
-
-|
-
-1,00
-
-|
-
-Centre en route de la navigation aérienne Sud-Ouest
-
-|
-
-1,00
-
-|
-
-Centre en route de la navigation aérienne Ouest
-
-|
-
-1,00
-
-|
-
-Direction des services de la navigation aérienne, direction de la technique et de l'innovation Athis-Mons
-
-|
-
-1,10
-
-|
-
-Direction des services de la navigation aérienne, direction de la technique et de l'innovation Toulouse
-
-|
-
-1,05
-
-|
-
-Service de l'information aéronautique
-
-|
-
-0,90
-
-|
-
-Service d'exploitation de la formation aéronautique
-
-|
-
-0,90
-
-|
-
-Centre d'exploitation, de développement et d'études du réseau d'information de gestion
-
-|
-
-1,10
-
-|
+1, 05 |
 
 Le personnel ex-STU et ex-CETUR, en affectation au CERTU, conserve, à titre personnel, le coefficient 1,05.
 
@@ -1546,83 +986,51 @@ Les ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ec
 
 Pour les directions, services d'administration centrale, écoles, centres interrégionaux de formation professionnelle et groupements d'intérêt public
 
-SERVICE
+SERVICE |
+
+COEFFICIENT |
 
 |
 
-COEFFICIENT
+Agents en position d'activité dans les directions générales, les directions et les services d'administration centrale du ministère des transports, de l'équipement, du tourisme et de la mer ainsi que dans les autres ministères |
+
+1,05 |
 
 |
 
-|
+Agents en position d'activité à la direction des services de la navigation aérienne (état-major) de la direction générale de l'aviation civile |
 
-Agents en position d'activité dans les directions générales, les directions et les services d'administration centrale du ministère des transports, de l'équipement, du tourisme et de la mer ainsi que dans les autres ministères
-
-|
-
-1,05
+1,05 |
 
 |
 
-|
+Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN (Institut géographique national), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle |
 
-Agents en position d'activité à la direction des services de la navigation aérienne (état-major) de la direction générale de l'aviation civile
-
-|
-
-1,05
+1,05 |
 
 |
 
-|
+Agents affectés au département d'études et d'aménagement touristique de la montagne relevant du groupement d'intérêt public Observation, développement et ingénierie touristiques (ODIT France) |
 
-Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN (Institut géographique national), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle
-
-|
-
-1,05
+1,05 |
 
 |
 
-|
+Agents affectés à l'Ecole nationale des techniciens de l'équipement de Valenciennes |
 
-Agents affectés au département d'études et d'aménagement touristique de la montagne relevant du groupement d'intérêt public Observation, développement et ingénierie touristiques» (ODIT France)
-
-|
-
-1,05
+1,15 |
 
 |
 
-|
+Agents affectés au centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP) |
 
-Agents affectés à l'Ecole nationale des techniciens de l'équipement de Valenciennes
-
-|
-
-1,15
+0,85 |
 
 |
 
-|
+Ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ecole nationale des ponts et chaussées |
 
-Agents affectés au centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP)
-
-|
-
-0,85
-
-|
-
-|
-
-Ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ecole nationale des ponts et chaussées
-
-|
-
-0,80
-
-|
+0,80 |
 
 |
 

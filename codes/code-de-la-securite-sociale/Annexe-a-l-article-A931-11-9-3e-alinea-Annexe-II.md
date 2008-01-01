@@ -1,10 +1,10 @@
-# Article Annexe à l'article A. 931-11-9 (3e alinéa)  Annexe II
+# Article Annexe à l'article A931-11-9 (3e alinéa)  Annexe II
 
 REGLES D'UTILISATION DES COMPTES.
 
-1. Les entreprises liées à une institution de prévoyance ou une union d'institutions de prévoyance sont les entreprises françaises ou étrangères remplissant les conditions prévues par les articles L. 233-16 et L. 233-18 du code de commerce pour être incluses par intégration globale ou par agrégation dans l'ensemble consolidé ou combiné auquel appartient par intégration globale ou par agrégation l'institution de prévoyance ou l'union d'institutions de prévoyance en application des mêmes dispositions à l'exclusion des entreprises autres que d'assurance qui peuvent être laissées en dehors de la consolidation ou de la combinaison en application du 1° ou du 2° du paragraphe II de l'article L. 233-19 du code de commerce.
+1. Les entreprises liées à une institution de prévoyance ou une union d'institutions de prévoyance sont les entreprises françaises ou étrangères remplissant les conditions prévues par les articles L. 233-16 et L. 233-18 du code de commerce pour être incluses par intégration globale ou par agrégation dans l'ensemble consolidé ou combiné auquel appartient par intégration globale ou par agrégation l'institution de prévoyance ou l'union d'institutions de prévoyance en application des mêmes dispositions à l'exclusion des entreprises autres que d'assurance qui peuvent être laissées en dehors de la consolidation en application du 1° ou du 2° du paragraphe II de l'article L. 233-19 du code de commerce ou de la combinaison.
 
-2. Les entreprises avec lesquelles l'institution de prévoyance ou l'union d'institutions de prévoyance ont un lien de participation sont les entreprises autres que les entreprises liées, dans lesquelles l'institution ou l'union détiennent directement ou indirectement une participation au sens de l'article 20 du décret n° 83-1020 du 29 novembre 1983 lorsque les titres représentent au moins 10 % du capital ou lorsqu'ils ont été acquis par offre publique d'achat ou d'échanges.
+2. Les entreprises avec lesquelles l'entreprise d'assurance ou de réassurance a un lien de participation sont les entreprises autres que les entreprises liées, dans lesquelles l'institution ou l'union détiennent directement ou indirectement une participation au sens de l'article 20 du décret n° 83-1020 du 29 novembre 1983 lorsque les titres représentent au moins 10 % du capital ou lorsqu'ils ont été acquis par offre publique d'achat ou d'échanges.
 
 3. Les règles d'utilisation des comptes sont les suivantes :
 
@@ -14,13 +14,15 @@ I. - Classe 1.
 
 2. Les passifs subordonnés portés au compte 160 sont les titres émis et les dettes de toutes natures, venant à un rang inférieur à tous les autres créanciers.
 
+3. Les écarts résultant de la conversion des emprunts libellés en devises et affectés au financement dans les mêmes devises des titres de participation ou des titres dans des entreprises liées ainsi que des dotations des succursales étrangères bénéficiant d'une autonomie économique et financière sont inscrits à un sous-compte rattaché au compte 16.
+
 II - Classe 2.
 
 1. Les acomptes versés sur placements immobiliers sont portés à des comptes rattachés aux comptes concernés. Sont considérées comme acomptes versés toutes avances non capitalisées à des sociétés immobilières non cotées.
 
 2. Les parts de sociétés immobilières cotées sont des placements financiers ; les parts de sociétés immobilières non cotées sont des placements immobiliers.
 
-3. Les placements représentant les provisions techniques afférentes aux opérations en unités de compte sont portés en compte 24, quelle que soit leur nature. Les placements immobiliers autres que ceux portés au compte 24 sont portés aux comptes 21 ou 22. Les placements dans des entreprises liées ou dans des entreprises avec lesquelles existe un lien de participation autres que ceux portés au compte 24, sont portés respectivement aux comptes 25 et 26. Sont portés aux sous-comptes du compte 23, en fonction de leur nature, tous les placements qui ne figurent dans aucun autre compte de la classe 2.
+3. Les placements représentant les provisions techniques afférentes aux opérations en unités de compte sont portés en compte 24, quelle que soit leur nature. Les placements immobiliers autres que ceux portés au compte 24 sont portés aux comptes 21 ou 22. Les écarts résultant de la conversion des titres de participation ou des titres dans des entreprises liées négociés en devises sont inscrits à des sous-comptes rattachés respectivement aux comptes 260 et 250.Les placements dans des entreprises liées ou dans des entreprises avec lesquelles existe un lien de participation autres que ceux portés au compte 24, sont portés respectivement aux comptes 25 et 26. Sont portés aux sous-comptes du compte 23, en fonction de leur nature, tous les placements qui ne figurent dans aucun autre compte de la classe 2.
 
 4. Les institutions ou unions pratiquant des opérations en unités de compte les enregistrent sur titres de toutes natures et parts de sociétés dans les conditions ci-après :
 
@@ -98,9 +100,9 @@ IV - Classe 4.
 
 Des sous-comptes sont créés par compte de tiers, en tant que de besoin, par nature de créance et de dette et par contrepartie.
 
-Les écarts résultant de la conversion en francs, à l'inventaire, des opérations en devises sont portés aux comptes 476 et 477.
-
 Le sous-compte 487 concerne la réassurance acceptée ; il est utilisé en contrepartie des éléments estimés des comptes non reçus des cédantes en application de l'article R. 931-10-39.
+
+Le sous-compte 489 enregistre les écarts de conversion, à l'inventaire, relatifs aux dotations en devises des succursales étrangères bénéficiant d'une autonomie économique et financière, aux opérations sur instruments financiers à terme de devises et aux opérations courantes en devises non liquides de l'activité d'assurance ou de réassurance.
 
 V. - Classe 5.
 
