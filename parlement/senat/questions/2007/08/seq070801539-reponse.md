@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801539
+
+- Question : [SEQ070801539](seq070801539.md) — Référence au décret Crémieux dans le cadre de demandes de certificats de nationalité
+
+## Réponse
+
+*Justice, JO du 2008-01-03, page 39*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le ministère de l'intérieur, de l'outre-mer et des collectivités locales a pris des dispositions, dès le mois de septembre 2007, pour que la production d'un certificat de nationalité française ne soit plus systématiquement exigée lors d'une demande de renouvellement d'une carte nationale d'identité sécurisée périmée depuis moins de dix ans. Cette mesure d'assouplissement s'applique notamment aux personnes nées en Algérie avant l'accession à l'indépendance de ce territoire. Par ailleurs, il convient de rappeler que la loi algérienne du 27 mars 1963 n'a attribué la nationalité algérienne qu'aux seuls musulmans. Dès lors, la loi française n° 66-945 du 20 décembre 1966 est intervenue pour permettre aux personnes n'ayant pas accédé à la nationalité algérienne de conserver la nationalité française de plein droit, et ainsi leur éviter d'être apatrides. En conséquence, la personne originaire d'Algérie, qui ne justifie pas avoir un ascendant ayant accédé à la citoyenneté française en vertu du décret du 24 octobre 1870, dit décret Crémieux, mais sollicite la délivrance d'un certificat de nationalité française en se fondant sur la conservation de cette nationalité du fait des dispositions dérogatoires de la loi française, doit établir qu'elle ne s'est pas vu attribuer la nationalité algérienne. La production d'un acte religieux ne s'impose nullement et la formation reçue par les agents habilités à délivrer les certificats de nationalité française, comme les instructions données pour traiter ces demandes, ne comportent pas cette exigence.
