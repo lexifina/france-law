@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801695
+
+- Question : [SEQ070801695](seq070801695.md) — Conditions de réalisation de la campagne d'affichage officielle pour l'élection présidentielle
+
+## Réponse
+
+*Intérieur, JO du 2008-01-03, page 34*
+
+Dans le cadre de la campagne électorale relative à l'élection du Président de la République, la société Clear Channel a été désignée par l'ensemble des candidats pour procéder à l'affichage de leurs affiches de grand et petit formats. Les candidats ont réalisé ce choix librement. Les frais d'apposition sont pris en charge par l'État conformément l'article 20 du décret n° 2001-213 du 8 mars 2001 relatif à l'élection du Président de la République. Clear Channel ayant bénéficié du mécanisme de subrogation par les candidats, le ministère de l'intérieur, et plus précisément les préfectures, sont chargées de lui rembourser directement les frais d'apposition. Conformément aux articles 17 et 20 du décret du 8 mars 2001 précité, seules les appositions d'une grande affiche et d'une petite affiche sont remboursées par l'État. Une instruction en ce sens a donc été donnée aux préfets, après avoir décliné le recours gracieux déposé par les représentants de la société qui souhaitait la prise en charge des frais d'apposition d'une deuxième affiche grand format. Dans le même temps, au regard de la qualité relative de certaines prestations de cet afficheur, il a été demandé aux préfets de solliciter les maires afin qu'ils transmettent une attestation confirmant la réalité et la qualité des prestations fournies et facturées par Clear Channel. Au regard des informations qui seront transmises, l'ensemble des mesures appropriées sera pris, garantissant ainsi la régularité et le sérieux de l'ensemble du processus de remboursement des dépenses d'affichage électoral.
