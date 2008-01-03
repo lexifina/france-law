@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801656
+
+- Question : [SEQ070801656](seq070801656.md) — Responsabilité du maire en cas d'octroi de permis modificatif de logements dans un périmètre de risque
+
+## Réponse
+
+*Écologie, JO du 2008-01-03, page 20*
+
+La loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages prévoit l'élaboration de plans de prévention des risques technologiques (PPRT) qui ont pour objet de limiter les effets des accidents susceptibles de se produire dans des installations SEVESO avec servitudes (AS) et pouvant entraîner des effets sur l'environnement. Les PPRT visent la protection des personnes et, après leur approbation, ils délimitent un périmètre d'exposition aux risques dans lequel le plan de zonage réglementaire est découpé selon des zones homogènes et progressives de réglementation, assorties d'un règlement fixant les prescriptions applicables à chacune de ces zones, tant pour l'urbanisme futur que pour les habitations existantes, et ce en fonction des principes de réglementation nationale précisés dans le guide méthodologique d'élaboration des PPRT produit par les services du ministère de l'écologie, du développement et de l'aménagement durables. Le plan de prévention des risques technologiques n'a pas vocation à tout interdire dans son périmètre réglementé, et en fonction du niveau de l'aléa technologique auquel est soumis une partie du territoire, la réglementation est progressive et modulée en fonction des critères définis dans le guide méthodologique. Ainsi, le maire peut autoriser un permis de construire modificatif d'un logement existant dans le périmètre réglementé du PPRT, dès lors que les prescriptions applicables à la zone concernée sont respectées. Si tel n'était pas le cas, il conviendrait de refuser le permis modificatif.
