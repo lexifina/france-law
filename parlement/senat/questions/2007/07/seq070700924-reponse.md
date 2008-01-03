@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700924
+
+- Question : [SEQ070700924](seq070700924.md) — Construction d'une canalisation d'eau
+
+## Réponse
+
+*Intérieur, JO du 2008-01-03, page 29*
+
+S'agissant des règles d'urbanisme applicables aux terrains situés en zone ND d'un POS, en application de l'article R. 123-9 du code de l'urbanisme, le règlement d'un POS peut préciser les conditions de desserte de tels terrains par les réseaux publics d'eau potable, sans que cela soit obligatoire. En l'absence de telles dispositions dans le règlement, et s'agissant du raccordement d'immeubles existants (terrains bâtis ou non) à un réseau public d'eau potable qui dessert déjà les propriétés, le droit au raccordement est justifié par le principe d'égalité d'accès des usagers au service public, le refus n'étant possible que sur décision motivée en fonction de la situation considérée. La prise en charge du coût de l'extension du réseau public d'eau réalisée à l'initiative d'une commune pour desservir un hameau incombe à cette collectivité territoriale (CE 24 mai 1991, req. n° 89-675, « Mme Carrère »). Lorsque le financement d'une extension de réseau destinée à desservir des constructions existantes n'est pas prévu au budget communal, les propriétaires de ces constructions intéressés à la réalisation des travaux peuvent néanmoins s'engager ontractuellement à verser une contribution financière en recourant à la technique de l'offre de concours (CE 9 mars 1983, req. n° 25061, « SA Société Lyonnaise des Eaux »), à condition que la convention intervienne à un moment tel qu'elle ne présente aucun lien avec l'opération de construction qui a permis l'édification des bâtiments. La logique qui prévaut dans la jurisprudence citée ci-dessus, en matière de création de réseaux, est également applicable pour les zones ND.
