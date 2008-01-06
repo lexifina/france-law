@@ -2,56 +2,92 @@
 
 En application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
 
-DESIGNATION :
+DÉSIGNATION
 
-Bénéficiaire isolé ou ménage sans personne à charge
+|
 
-TOUTES ZONES (en euros) : 47,82
+TOUTES ZONES
 
-DESIGNATION :
+(en euros)
 
-Bénéficiaire isolé ou ménage ayant une personne à charge
+|
 
-TOUTES ZONES (en euros) : 58,64
+Bénéficiaire isolé ou couple sans personne à charge.
 
-DESIGNATION :
+|
 
-Par personne supplémentaire à charge
+49,14
 
-TOUTES ZONES (en euros) : 10,82
+|
+
+Bénéficiaire isolé ou couple ayant une personne à charge.
+
+|
+
+60,26
+
+|
+
+Par personne supplémentaire à charge.
+
+|
+
+11,12
+
+|
 
 Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux articles R. 351-17 (al. 6), R. 351-17-3 et R. 351-21-4, le montant forfaitaire des charges est fixé comme suit :
 
-DESIGNATION :
+DÉSIGNATION
 
-Bénéficiaire isolé
+|
 
-TOUTES ZONES (en euros) : 23,90
+TOUTES ZONES
 
-DESIGNATION :
+(en euros)
 
-Ménage sans personne à charge
+|
 
-TOUTES ZONES (en euros) : 47,82
+Bénéficiaire isolé.
 
-DESIGNATION :
+|
 
-Bénéficiaire isolé ayant une personne à charge
+24,56
 
-TOUTES ZONES (en euros) : 34,72
+|
 
-DESIGNATION :
+Couple sans personne à charge.
 
-Ménage ayant une personne à charge
+|
 
-TOUTES ZONES (en euros) : 58,64
+49,14
 
-DESIGNATION :
+|
 
-Par personne supplémentaire à charge
+Bénéficiaire isolé ayant une personne à charge.
 
-TOUTES ZONES (en euros) : 10,82
+|
+
+35,68
+
+|
+
+Couple ayant une personne à charge.
+
+|
+
+60,26
+
+|
+
+Par personne supplémentaire à charge.
+
+|
+
+11,12
+
+|
 
 NOTA :
 
-NOTA : Arrêté du 23 décembre 2006 art. 7 : Les dispositions du présent arrêté sont applicables pour les prestations dues à compter du mois de janvier 2007.
+dispositions applicables pour les prestations dues à compter du mois de janvier 2008.

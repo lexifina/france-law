@@ -76,7 +76,7 @@ Par personne à charge supplémentaire
 
 TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
 
-BENEFICIAIRE
+BÉNÉFICIAIRE
 
 |
 
@@ -86,35 +86,35 @@ VALEURS
 
 |
 
-Personne seule
+Personne seule.
 
 |
 
-229,07
+235,39
 
 |
 
-Couple sans personne à charge
+Couple sans personne à charge.
 
 |
 
-280,38
+288,12
 
 |
 
-Personne seule ou couple ayant une personne à charge
+Personne seule ou couple ayant une personne à charge.
 
 |
 
-315,50
+324,21
 
 |
 
-Par personne supplémentaire à charge
+Par personne supplémentaire à charge.
 
 |
 
-45,91
+47,18
 
 |
 
@@ -127,3 +127,7 @@ Pour la détermination de TL, les taux et tranches sont fixés comme suit :
 0,68 % pour la tranche de RL supérieure à 75 %.
 
 TL exprimé en pourcentage est arrondi à la troisième décimale.
+
+NOTA :
+
+dispositions applicables pour les prestations dues à compter du mois de janvier 2008.

@@ -2,9 +2,9 @@
 
 Pour l'application des articles R. 351-17-2 et R. 351-17-3 :
 
-I. - Le montant de l'aide personnalisée est calculée selon la formule :
+I.-Le montant de l'aide personnalisée est calculée selon la formule :
 
-APL = L + C - PP
+APL = L + C-PP
 
 dans laquelle :
 
@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351 sont fixés comme suit :
+II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 
 ZONE
 
@@ -36,9 +36,9 @@ COUPLE SANS PERSONNE
 
 |
 
-PERSONNE SEULE
+PERSONNE SEULE OU COUPLE
 
-ou couple ayant une personne à charge
+ayant une personne à charge
 
 (en euros)
 
@@ -56,19 +56,19 @@ I
 
 |
 
-262,84
+270,09
 
 |
 
-317,00
+325,75
 
 |
 
-358,28
+368,17
 
 |
 
-51,96
+53,39
 
 |
 
@@ -76,19 +76,19 @@ II
 
 |
 
-229,07
+235,39
 
 |
 
-280,38
+288,12
 
 |
 
-315,50
+324,21
 
 |
 
-45,91
+47,18
 
 |
 
@@ -96,19 +96,19 @@ III
 
 |
 
-214,69
+220,62
 
 |
 
-260,28
+267,46
 
 |
 
-291,82
+299,87
 
 |
 
-41,83
+42,98
 
 |
 
@@ -117,3 +117,7 @@ Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 e
 Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
 
 Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.
+
+NOTA :
+
+dispositions applicables pour les prestations dues à compter du mois de janvier 2008.
