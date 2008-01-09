@@ -1,12 +1,46 @@
 # Article 1er
 
-La présente convention collective, ses annexes et ses avenants (2), conclue conformément aux dispositions du titre III du livre Ier du code du travail, et notamment l'article L. 132-4, règle sur l'ensemble du territoire national et les départements d'outre-mer les rapports entre les employeurs et les salariés, quel que soit leur emploi, des entreprises privées exerçant sous une forme quelconque une activité principale qui consiste à fournir aux personnes physiques et morales des services ayant pour objet la sécurité des biens meubles et immeubles et des personnes liées directement ou indirectement à la sécurité de ces biens. Ces entreprises sont considérées comme des entreprises de sécurité, de surveillance et de prévention, au titre de la loi n° 83-629 du 12 juillet 1983.
+1.01. Champ d'application professionnel et territorial
 
-Elle annule et remplace les conventions collectives, les protocoles, avenants et accords conclus antérieurement.
+La présente convention collective, ses annexes et ses avenants, conclue conformément aux dispositions du titre III du livre Ier du code du travail, et notamment de l'article L. 132-4, règle sur l'ensemble du territoire métropolitain et les départements d'outre-mer les rapports entre les employeurs et les salariés des entreprises privées exerçant sous une forme quelconque une activité principale soumise à la loi du 12 juillet 1983 et qui consiste à fournir aux personnes physiques et morales des services ayant pour objet la sécurité des biens meubles et immeubles et des personnes liées directement ou indirectement à la sécurité de ces biens.
 
-Des annexes à la présente convention précisent les dispositions particulières applicables à chacune des catégories de personnel :
+Dans le cadre des dispositions qui précèdent, la présente convention s'applique expressément aux activités :
 
-agents d'exploitation, employés, techniciens, agents de maîtrise et cadres.
+-de prévention et de surveillance ;
+
+-des services de surveillance et d'intervention incendie ;
+
+-de sûreté aéroportuaire, telles que définies à l'article L. 282-8 du code de l'aviation civile ;
+
+-de sûreté portuaire, telles que définies à l'article R. 2324-4 du code des ports maritimes ;
+
+-de sécurité des manifestations sportives, récréatives ou culturelles ;
+
+-de sécurité mobile qui consistent à se déplacer de manière préventive ou à effectuer une levée de doute vers un bien meuble ou immeuble dont l'entreprise, à la garde, en n'empruntant la voie publique que de façon transitoire ;
+
+-de télésurveillance dédiées à la sécurité ;
+
+-de prévention et d'intervention incendie sur les aérodromes, dans les conditions définies par l'arrêté du 9 janvier 2001 et par les articles D. 213-1 et suivants du code de l'aviation civile ;
+
+-de protection rapprochée.
+
+Sont notamment exclues de la présente convention les activités suivantes :
+
+-de transport de fonds ;
+
+-d'agent de recherche privée ;
+
+-de médiation ;
+
+-consistant à procéder à des contrôles de sécurité techniques ou autres relevant du champ d'application de l'entreprise ou du service public donneur d'ordres ;
+
+-de gardien d'immeubles ;
+
+-de sécurité exercées sur la voie publique (patrouilles urbaines et suburbaines) ;
+
+-activité d'installation et de maintenance en tant que seule activité au niveau de l'entreprise.
+
+Des annexes à la présente convention précisent les dispositions particulières applicables à chacune des catégories de personnel : agents d'exploitation, employés administratifs, techniciens, agents de maîtrise et cadres.
 
 Des avenants régionaux ou locaux adapteront, si les parties intéressées en reconnaissent la nécessité, certaines dispositions de la présente convention aux conditions particulières de travail dans la région ou la localité considérée, étant entendu que ces avenants ne pourront être moins favorables que la présente convention.
 
