@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002049
+
+- Question : [SEQ071002049](seq071002049.md) — Maintien du caractère national du diplôme d'État infirmier
+
+## Réponse
+
+*Santé, JO du 2008-01-10, page 70*
+
+Le diplôme d'État d'infirmier conditionne l'exercice de ce métier et il est de la responsabilité de la ministre de la santé, de la jeunesse et des sports de répondre aux besoins sanitaires par une offre de formation performante et adaptée aux attentes des professionnels et du public. À cet égard, l'application de la réforme de l'enseignement supérieur, faisant suite à la signature par la France des accords de Bologne, aux professions paramédicales demande une étude approfondie de l'impact de la reconnaissance des diplômes paramédicaux par référence au schéma universitaire européen licence-master-doctorat (LMD). Les fédérations d'étudiants des filières de santé ont été informées de l'avancée du dossier sur la reconnaissance des diplômes paramédicaux par référence au schéma universitaire européen licence-master-doctorat. Les organismes représentant les instituts de formation et les étudiants ont également été informés du processus de réforme et de reconnaissance des diplômes paramédicaux. Les inspections générales compétentes ont été saisies en septembre pour dresser un état de toutes les incidences du processus sur l'offre en professionnels de santé formés, sur les conditions d'exercice ainsi que sur la situation des instituts et écoles de formation. Cette démarche permettra de faire des propositions concrètes pour une réforme de grande ampleur qui mérite une perspective globale et qui s'inscrit dans un calendrier pluriannuel. Bien évidemment, cette réflexion ne peut avoir pour conséquence de remettre en cause le caractère national de la formation, l'exercice professionnel étant lié à la possession du diplôme d'État.
