@@ -4,4 +4,4 @@
 
 NOTA :
 
-NOTA : Les arrêtés recensés ont modifié l'annexe de l'arrêté du 21 août 2001.
+Les arrêtés recensés ont modifié l'annexe de l'arrêté du 21 août 2001.
