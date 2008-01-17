@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600001
+
+- Question : [SEQ070600001](seq070600001.md) — Recours suspensif pour les étrangers demandant l'asile et maintenus en zone d'attente
+
+## Réponse
+
+*Immigration et intégration, JO du 2008-01-17, page 107*
+
+La Cour européenne des droits de l'homme (CEDH), par l'arrêt « Gebremedhin » du 26 avril 2007, a jugé que, par une application combinée des articles 3 et 13 de la convention européenne des droits de l'homme, un étranger présentant une demande d'asile à la frontière ne disposait pas d'un recours effectif, en tant que le référé qu'il pouvait former auprès de la juridiction administrative à l'encontre d'une décision de refus d'entrée en France au titre de l'asile à la frontière ne présentait pas un caractère suspensif et permettait la mise en oeuvre de la mesure de réacheminement avant que le juge ait statué sur sa demande. Le Gouvernement, tirant les conséquences de cette décision de la Cour européenne des droits de l'homme, a introduit dans la loi n° 2007-1631 du 20 novembre 2007 relative à la maîtrise de l'immigration, à l'intégration et à l'asile un nouvel article L. 213-9 du code de l'entrée et du séjour des étrangers et du droit d'asile conférant un caractère suspensif au recours en annulation introduit par l'étranger non autorisé à entrer sur le territoire au titre de l'asile dans un délai de quarante-huit heures à compter de la notification de la décision de refus d'entrée. Il est par ailleurs à signaler que le ministre de l'immigration, de l'intégration, de l'identité nationale et du codéveloppement, anticipant la promulgation de cette loi dans un souci de conférer sans délai un caractère suspensif au recours formé par un étranger dont l'entrée en France est refusée au titre de l'asile, avait donné instruction dès le début du mois de juillet 2007 aux services de contrôle aux frontières d'une mise en oeuvre immédiate de ce dispositif.
