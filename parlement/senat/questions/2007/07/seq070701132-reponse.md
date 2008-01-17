@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701132
+
+- Question : [SEQ070701132](seq070701132.md) — Modalités de paiement des amendes pénales
+
+## Réponse
+
+*Budget, JO du 2008-01-17, page 100*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative aux modalités de paiement des amendes pénales. À la date du 31 décembre 2006, le ministère de la justice a généralisé les bureaux de l'exécution des peines dans l'ensemble des tribunaux de grande instance. Par ailleurs, la chancellerie a précisé que les dispositions des articles 707-2 et 707-3 du code de procédure pénale, qui permettent au condamné de bénéficier d'une diminution de 20 % dans le cas d'un paiement volontaire du total de la condamnation dans le délai d'un mois, ont vocation à être mises en oeuvre dans ce cadre. Ainsi la circulaire du 14 février 2007, signée par le secrétaire général du ministère de la justice et le directeur général de la comptabilité publique, souligne que l'agent du bureau de l'exécution des peines a non seulement pour mission d'informer le condamné des effets du paiement volontaire en lui remettant un relevé de condamnation pénale, mais il doit également être en mesure de lui offrir la possibilité de payer immédiatement celle-ci en mettant à sa disposition deux outils : un terminal pour les paiements par carte bancaire et un coffre pour les paiements par chèque. La circulaire n'envisage pas le paiement en espèces pour des raisons organisationnelles et pour un souci de sécurité. La chancellerie, d'une part, a renoncé à étendre le périmètre de compétence des régies créées auprès des tribunaux de grande instance et, d'autre part, n'a pas souhaité que le fonctionnaire du bureau de l'exécution des peines participe à un maniement de fonds publics (il peut assister les condamnés dans les opérations de calcul et de paiement sans risquer de voir sa responsabilité engagée).
