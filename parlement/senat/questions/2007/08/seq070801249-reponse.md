@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801249
+
+- Question : [SEQ070801249](seq070801249.md) — Complexité des formalités pour l'accès au bénéfice de l'exonération zone franche urbaine
+
+## Réponse
+
+*Économie, JO du 2008-01-24, page 150*
+
+La simplification des formalités administratives constitue une préoccupation importante du Gouvernement. Pour bénéficier de l'exonération des charges sociales patronales applicable dans les zones franches urbaines au titre d'une nouvelle embauche, l'employeur doit, en application de l'article 12 de la loi n° 96-987 du 14 novembre 1996 et du décret n° 2004-565 du 17 juin 2004, adresser une déclaration spécifique d'embauche à la Direction de l'emploi, du travail et de la formation professionnelle ainsi qu'à l'organisme du recouvrement, c'est-à-dire à l'URSSAF, lorsque le salarié embauché relève du régime général. L'employeur qui ne respecte pas le délai imparti pour accomplir cette déclaration est privé du bénéfice de l'exonération au titre des cotisations relatives au salarié embauché pour la période comprise entre la date d'effet du contrat de travail et la date d'envoi ou de dépôt de la déclaration. Cette formalité déclarative semble susciter des difficultés, par méconnaissance des employeurs et confusion avec la déclaration unique d'embauche. Les services du ministre en charge du budget travaillent actuellement, en lien avec la délégation interministérielle à la ville et l'ACOSS, à une simplification des procédures de nature à éviter une double déclaration lors de l'embauche. En outre, les URSSAF ont été invitées par l'ACOSS à faire preuve de souplesse dans l'application du dispositif lors de contrôles faisant apparaître un défaut d'envoi de la déclaration spécifique d'embauche de salariés pour les entreprises implantées en zones franches urbaines, il est imparti aux employeurs un délai de régularisation.
