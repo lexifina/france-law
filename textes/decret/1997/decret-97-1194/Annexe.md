@@ -2058,6 +2058,36 @@ Article 12.
 
 |
 
+Règlement (CE) du Conseil n
+
+°
+
+423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures
+
+restrictives à l’encontre de l’Iran
+
+1 |
+
+Autorisation et refus d’exportation concernant les biens et technologies énumérés à l’annexe II
+
+du règlement (CE).
+
+|
+
+1. de l’article 3
+
+|
+
+2 |
+
+Suspension, modification, retrait ou abrogation de l’autorisation mentionnée ci-dessus.
+
+|
+
+5. de l’article 3
+
+|
+
 Code des douanes
 
 1
