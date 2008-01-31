@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700969
+
+- Question : [SEQ070700969](seq070700969.md) — Harmonisation européenne du marché des transports
+
+## Réponse
+
+*Transports, JO du 2008-01-31, page 200*
+
+L'harmonisation européenne dans le domaine des transports routiers constitue un objectif essentiel pour la France. Des avancées ont été réalisées et se poursuivent : dans le domaine social, les règles concernant les conditions d'emploi pour les transports de cabotage ont été précisées. Les règles du détachement des travailleurs seront très prochainement précisées par décret ; dans le domaine de la formation, la directive sur la formation obligatoire, initiale et continue, entrera en vigueur en 2009 pour le transport de marchandises. Ceci marquera un progrès important, la plupart des pays n'imposant jusqu'à présent pas de telles formations ; dans le domaine fiscal, la convergence des taux de TIPP sera poursuivie ; dans le domaine de la sécurité, les périodes contrôlées sont progressivement allongées, dans chaque État membre, un niveau minimal de contrôle est fixé et la Commission européenne publiera un compte rendu de statistiques qui permettra d'identifier les progrès et les difficultés éventuellement rencontrées par les États dans la mise en oeuvre de ces directives. Ces mesures essentielles devront être complétées car les disparités demeurent. L'action en faveur de l'harmonisation des conditions de concurrence dans le domaine du transport routier de marchandises constituera une priorité de la présidence française au 2e semestre 2008. Le « paquet routier », qui a été présenté par la Commission en mai dernier, propose des projets de règlements sur l'accès à la profession et l'accès au marché. Il constitue une nouvelle étape très importante, notamment en ce qui concerne le cabotage. Cette activité sera désormais encadrée de façon précise au plan communautaire.
