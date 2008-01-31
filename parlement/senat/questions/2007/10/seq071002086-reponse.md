@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002086
+
+- Question : [SEQ071002086](seq071002086.md) — Mise en oeuvre pour l'autoroute A 4  du dispositif prévu pour les points noirs du bruit
+
+## Réponse
+
+*Transports, JO du 2008-01-31, page 201*
+
+Conformément aux dispositions du contrat d'entreprise pour la période 2004-2008, et par application des recommandations de la circulaire du 24 mai 2004 concernant le bruit des infrastructures de transport terrestre, la SANEF poursuit son programme de traitement des points noirs bruit qui concerne les infrastructures antérieures à la loi du 31 décembre 1992, dite loi « bruit ». A ce titre, des opérations ont été engagées sur l'autoroute A 4 visant à protéger les bâtiments d'habitation dont le permis de construire est antérieur à 1979 subissant une gêne sonore moyenne dépassant les seuils de 70 dB (en LAeq) en période de jour et/ou 65 dB en période de nuit. S'agissant de la commune des Etangs, deux bâtiments d'habitation dépassant ces seuils ont été recensés et traités par la mise en place d'un enrobé acoustique. Cette démarche a permis de résorber ces deux points noirs bruit, tout en réduisant la gêne sonore subie par les bâtiments d'habitation contigus à la section traitée. La pérennité de cette mesure est contrôlée périodiquement. Dans le cadre de sa politique de lutte contre les nuisances sonores, la SANEF mène des actions visant à abaisser les niveaux de bruit routier en deçà de la réglementation, qu'elle finance conjointement avec les collectivités intéressées. Les interventions de la société concessionnaire correspondent à ce qui a été contractuellement défini avec l'État, dans le cadre du contrat d'entreprise en cours. Elles prévoient, pour chaque investissement qui n'est pas rendu obligatoire par la réglementation, un cofinancement de deux tiers par les collectivités locales. Ces investissements seront poursuivis dans le cadre du futur contrat d'entreprise de la société qui couvrira les années 2009-2013.
