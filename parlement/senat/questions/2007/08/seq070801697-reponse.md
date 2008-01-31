@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801697
+
+- Question : [SEQ070801697](seq070801697.md) — Conditions de règlement des factures France Télécom
+
+## Réponse
+
+*Économie, JO du 2008-01-31, page 196*
+
+Le pouvoir libératoire des billets de banque et des pièces métalliques implique qu'un créancier ne peut pas les refuser. Ainsi, l'article R. 642-3 du code pénal punit le fait de refuser de recevoir des pièces de monnaie ou des billets de banque ayant cours légal de l'amende prévue pour les contraventions de la deuxième classe. Les personnes morales peuvent être déclarées responsables pénalement d'une telle infraction. Le fait que France Télécom n'autorise plus le paiement en espèce des factures téléphoniques dans ses agences, en grande partie pour des raisons de sécurité de ses agents comme de ses clients, ne remet pas en cause le pouvoir libératoire de la monnaie, l'opérateur n'interdisant pas tout paiement en espèce. Le contrat d'abonnement au service téléphonique prévoit ainsi que le paiement en numéraire des factures peut s'effectuer à La Poste, et uniquement là, les coûts inhérents à ce paiement étant à la charge des clients. Cette clause du contrat qui détermine le lieu où doit intervenir le paiement se fonde sur le premier alinéa de l'article 1247 du code civil qui dispose que les parties sont libres de déterminer le lieu du paiement. L'article 1248 du code civil prévoit quant à lui que les frais du paiement sont à la charge du débiteur. Il convient toutefois de souligner que les clients de France Télécom disposent de nombreux autres moyens de paiement : prélèvement, chèque, télépaiement par carte bancaire, titres bancaires de paiement... Les usagers peuvent également avoir recours à la gamme de paiements alternatifs offerts par les banques qui sont modernes et adaptés à tous.
