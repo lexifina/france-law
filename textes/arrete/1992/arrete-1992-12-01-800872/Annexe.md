@@ -1,22 +1,38 @@
 # Article Annexe
 
-Désignation de l'emploi justifiant de l'obtention de la nouvelle bonification indiciaire
+DÉSIGNATION DE L'EMPLOI
+
+justifiant de l'obtention
+
+de la nouvelle bonification indiciaire
 
 |
 
-Niveau de l'emploi justifiant de l'obtention de la nouvelle bonification indiciaire
+NIVEAU DE L'EMPLOI
+
+justifiant de l'obtention
+
+de la nouvelle bonification
+
+indiciaire
 
 |
 
-Nombre d'emplois éligibles
+NOMBRE D'EMPLOIS
+
+éligibles
 
 |
 
-Nombre de points par emploi (points en indice majoré)
+NOMBRE DE POINTS
+
+par emploi
+
+(points en indice majoré)
 
 |
 
-Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances
+Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction
 
 |
 
@@ -48,7 +64,7 @@ A
 
 |
 
-Chargé d'études financières et/ou analyste de contreparties
+Chargé d'études financières et / ou analyste de contreparties
 
 |
 
@@ -56,39 +72,7 @@ A
 
 |
 
-2
-
-|
-
-40
-
-|
-
-Secrétaire du conseil d'administration de l'Etablissement de retraite additionnelle de la fonction publique (ERAFP)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40
-
-|
-
-Secrétaire du conseil d'administration de l'Institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (IRCANTEC)
-
-|
-
-A
-
-|
-
-1
+3
 
 |
 
@@ -112,7 +96,7 @@ A
 
 |
 
-Juriste de contentieux au niveau fédéral ou au niveau d'une direction
+Juriste spécialisé
 
 |
 
@@ -120,23 +104,7 @@ A
 
 |
 
-1
-
-|
-
-30
-
-|
-
-Contrôleur de gestion de plusieurs filiales de la CNP Assurances
-
-|
-
-A
-
-|
-
-1
+2
 
 |
 
@@ -160,7 +128,7 @@ A
 
 |
 
-Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département
+Responsable de la gestion statutaire et / ou des affaires générales d'une direction ou d'un département
 
 |
 
@@ -184,7 +152,7 @@ A
 
 |
 
-47
+51 (1)
 
 |
 
@@ -248,7 +216,7 @@ B
 
 |
 
-3
+2
 
 |
 
@@ -272,7 +240,7 @@ B
 
 |
 
-Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en terme de connaissance bancaire ou des marchés financiers
+Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers
 
 |
 
@@ -288,7 +256,7 @@ B
 
 |
 
-Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction
+Chargé du recrutement et / ou des carrières et / ou de la mobilité et / ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction
 
 |
 
@@ -312,7 +280,7 @@ B
 
 |
 
-3
+4
 
 |
 
@@ -320,7 +288,7 @@ B
 
 |
 
-Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais)
+Technicien de maintenance des installations de climatisation et de chauffage (site parisien)
 
 |
 
@@ -336,7 +304,7 @@ B
 
 |
 
-Responsable du secteur des affaires générales du comité social d'établissement ou directeurs administratifs adjoints du comité social d'établissement
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe
 
 |
 
@@ -344,7 +312,7 @@ B
 
 |
 
-3
+2
 
 |
 
@@ -368,7 +336,7 @@ B
 
 |
 
-Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires
+Technicien des opérations post-marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires
 
 |
 
@@ -376,7 +344,7 @@ B
 
 |
 
-35
+34
 
 |
 
@@ -408,7 +376,7 @@ B
 
 |
 
-13
+15
 
 |
 
@@ -456,7 +424,7 @@ B
 
 |
 
-2
+3
 
 |
 
@@ -488,7 +456,7 @@ B
 
 |
 
-37
+38
 
 |
 
@@ -504,7 +472,7 @@ B
 
 |
 
-35
+45
 
 |
 
@@ -512,7 +480,7 @@ B
 
 |
 
-Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site ou chargé d'une responsabilité fonctionnelle particulière
+Assistant de contrôle budgétaire et / ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière
 
 |
 
@@ -520,23 +488,7 @@ B
 
 |
 
-41
-
-|
-
-20
-
-|
-
-Responsable de la gestion des indemnités de caractère social et culturel au niveau fédéral
-
-|
-
-B
-
-|
-
-1
+38
 
 |
 
@@ -552,7 +504,7 @@ B
 
 |
 
-3
+2
 
 |
 
@@ -592,7 +544,7 @@ B
 
 |
 
-Gestionnaire du service intérim interne au niveau fédéral
+Recruteur et gestionnaire des personnels non permanents
 
 |
 
@@ -632,13 +584,11 @@ B
 
 |
 
-8
+8 (1)
 
 |
 
-20
-
-|
+20 |
 
 Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système
 
@@ -656,7 +606,7 @@ B
 
 |
 
-Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux et/ou responsable du standard de Paris
+Responsable du standard de Paris
 
 |
 
@@ -664,7 +614,7 @@ B
 
 |
 
-3
+1
 
 |
 
@@ -672,7 +622,7 @@ B
 
 |
 
-Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service
+Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et / ou dans le domaine des prestations de services
 
 |
 
@@ -712,7 +662,7 @@ B
 
 |
 
-2
+1
 
 |
 
@@ -720,7 +670,7 @@ B
 
 |
 
-Assistant de gestion statutaire et/ou financière et/ou de formation des personnels au niveau d'une branche ou au niveau fédéral
+Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral
 
 |
 
@@ -728,7 +678,7 @@ B
 
 |
 
-21
+25
 
 |
 
@@ -760,7 +710,7 @@ B
 
 |
 
-12
+8
 
 |
 
@@ -776,7 +726,7 @@ B
 
 |
 
-5
+6
 
 |
 
@@ -808,7 +758,7 @@ B
 
 |
 
-113
+103 (1)
 
 |
 
@@ -840,7 +790,7 @@ B
 
 |
 
-16
+23
 
 |
 
@@ -856,7 +806,7 @@ B
 
 |
 
-170
+159 (1)
 
 |
 
@@ -879,3 +829,5 @@ C
 15
 
 |
+
+(1) Le nombre d'emplois éligibles était pour chaque emploi désigné respectivement de 50, 7, 105, et 160 au 1er janvier 2008.
