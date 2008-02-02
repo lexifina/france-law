@@ -620,6 +620,16 @@ Elastomultiester |
 
 |
 
+46
+
+|
+
+Elastoléfine |
+
+1,50
+
+|
+
 (1) Le taux conventionnel de 17 % est appliqué dans les cas où il n'est pas possible de s'assurer si le produit textile
 
 contenant de la laine, des poils, appartient au cycle peigné ou cardé.

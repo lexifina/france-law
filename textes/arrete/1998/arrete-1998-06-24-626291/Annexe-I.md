@@ -570,6 +570,16 @@ Fibre obtenue à partir de l'interaction, au cours de deux phases distinctes ou 
 
 |
 
+46
+
+|
+
+Elastoléfine
+
+|
+
+Fibre composée pour au moins 95 % en masse de macromolécules partiellement réticulées, constituées d'éthylène et d'au moins une autre oléfine, et qui, lorsqu'elle est allongée sous une force de traction jusqu'à atteindre une fois et demie sa longueur d'origine, reprend rapidement et substantiellement sa longueur initiale dès que la force de traction cesse d'être appliquée. |
+
 (1) La dénomination "laine" figurant au numéro 1 peut également être utilisée pour désigner un mélange de fibres provenant de la toison du mouton et de poils mentionnés au numéro 2. Les pourcentages en fibres textiles prévus aux articles 5 à 10 du décret n° 73-356 du 14 mars 1973 modifié sont calculés en appliquant à la mase anhydre de chaque fibre le taux conventionnel fixé en annexe II.
 
 (2) Le mot "fibre" est sous-entendu.
