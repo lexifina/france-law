@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102574
+
+- Question : [SEQ071102574](seq071102574.md) — Recrutés locaux au Sénégal : montant des pensions
+
+## Réponse
+
+*Affaires étrangères, JO du 2008-02-07, page 232*
+
+Les agents de recrutement local à Dakar bénéficient de revalorisations régulières de leurs rémunérations. En effet, la législation sénégalaise prévoit une augmentation annuelle obligatoire de 1 %, qui est appliquée. De plus, depuis la mise en place d'une grille des salaires en 2004, qui s'applique naturellement à l'ensemble de nos agents quelle que soit leur nationalité, des revalorisations au titre du coût vie interviennent régulièrement, la dernière en date de 2007, d'un montant de 2,10 %, c'est-à-dire le taux d'inflation au Sénégal en 2006 constaté par le FMI. Enfin, nos agents de recrutement local bénéficient de revalorisations à l'ancienneté et au mérite qui leur permettent de progresser dans la grille des salaires. Bien que le salaire minimum versé dans le secteur privé soit de 60 euros par mois, la grille des salaires à Dakar fixe à 190 euros le salaire minimum. Enfin, en sus de leur traitement, les agents de recrutement local perçoivent une prime de transport de 198 000 F CFA. Concernant la couverture sociale, les agents de recrutement local français ont la possibilité d'opter pour le régime général français de sécurité sociale. Ils bénéficient dans ce cas de la protection française et notamment d'une couverture pour accident du travail et également retraite. À défaut, ils sont obligatoirement affiliés au régime sénégalais de sécurité sociale : la CSS (caisse de sécurité sociale) qui, elle aussi, couvre les accidents du travail et verse également des allocations familiales ; l'IPRES (Institution de prévoyance retraite du Sénégal) verse des retraites dont le montant est fixé par les autorités sénégalaises.
