@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901983
+
+- Question : [SEQ070901983](seq070901983.md) — Soumission à cotisations sociales des stock-options
+
+## Réponse
+
+*Budget, JO du 2008-02-14, page 291*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt du rapport de la Cour des comptes et examiné sa proposition de soumettre à cotisations sociales les stocks-options. L'octroi de stocks-options et l'attribution gratuite d'actions permettent d'associer davantage les salariés aux résultats de leur entreprise : à ce titre, ces dispositifs constituent un outil précieux pour la gestion des ressources humaines. Cependant, de nombreux observateurs - dont la Cour des comptes dans son dernier rapport sur la sécurité sociale - ont relevé que le prélèvement social n'était pas adapté à ces nouvelles formes de rémunération. C'est pourquoi la loi n° 2007-1786 du 19 décembre 2007 de financement de la sécurité sociale pour 2008 instaure, en son article 13, deux nouvelles contributions, l'une à la charge des employeurs, l'autre à celle des salariés, sur les attributions d'options de souscription ou d'achat d'actions et les attributions gratuites d'actions. Le taux de la contribution patronale est fixé à 10 %. Cette contribution s'appliquera, au choix de l'employeur, soit sur une assiette égale à la juste valeur des options telle qu'estimée pour l'établissement des comptes consolidés pour les sociétés appliquant les normes comptables internationales, soit à 25 % de la valeur des actions, à la date de la décision d'attribution. D'un taux de 2,5 %, la contribution à la charge du salarié sera recouvrée lors de la cession des actions. Enfin, le produit de ces contributions sera affecté aux régimes obligatoires d'assurance maladie. Cette réforme permettra à la sécurité sociale de bénéficier de la dynamique de croissance de ces modes particuliers de rémunération.
