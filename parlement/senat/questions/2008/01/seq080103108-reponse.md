@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103108
+
+- Question : [SEQ080103108](seq080103108.md) — Embauche de salariés saisonniers agricoles étrangers
+
+## Réponse
+
+*Immigration et intégration, JO du 2008-02-14, page 298*
+
+L'article L. 313-10 de la loi du 24 juillet 2006 relative à l'immigration et à l'intégration limite à six mois la durée des contrats saisonniers sans possibilité, comme antérieurement, de déroger jusqu'à huit mois. La loi du 24 juillet 2006, qui tient compte de la structure particulière de l'emploi dans l'agriculture, organise un statut du travailleur saisonnier afin de rendre cette procédure plus attractive, pour répondre aux besoins de la profession et prévenir les détournements. L'article L. 313-10 de la loi précitée, en permettant la délivrance d'une carte de séjour temporaire portant la mention « travailleur saisonnier » pour une durée maximale de trois ans, est avantageux pour l'étranger concerné et l'exploitant agricole. Ce titre de séjour incite les travailleurs saisonniers à rentrer chaque année dans leur pays, leur offre aussi la garantie de pouvoir revenir l'année suivante sous réserve de justifier d'un contrat de travail et de la possibilité de changer d'employeur dans la limite du délai de six mois de séjour autorisé. Les employeurs pourront, si les saisonniers leur ont donné satisfaction, recruter les mêmes personnes pendant trois ans. Des assouplissements ont été apportés dans un certain nombre de métiers agricoles saisonniers en faveur des ressortissants des nouveaux États membres admis dans l'Union européenne qui ne se voient plus opposer la situation de l'emploi. Dès juin 2003 ont été mis en place des guichets uniques gérés en partenariat avec les organismes paritaires et l'ANPE afin de faciliter le rapprochement des employeurs et des demandeurs d'emploi. L'action de ces guichets est coordonnée avec celle des maisons de l'emploi.
