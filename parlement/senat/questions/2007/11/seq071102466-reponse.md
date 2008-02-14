@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102466
+
+- Question : [SEQ071102466](seq071102466.md) — Perception par un agent exerçant les fonctions de directeur général des services de la NBI correspondante
+
+## Réponse
+
+*Fonction publique, JO du 2008-02-14, page 298*
+
+Les décrets n° 2001-1274 du 27 décembre 2001 et n° 2001-1367 du 28 décembre 2001 fixent les conditions dans lesquelles peut être attribuée la nouvelle bonification indiciaire (NBI) aux fonctionnaires occupant certains emplois administratifs de direction de collectivités territoriales ou d'établissements publics locaux assimilés régis par les articles 6 et 7 du décret n° 87-1101 du 30 décembre 1987, portant dispositions statutaires particulières relatives à certains emplois administratifs de direction dans ces mêmes collectivités ou établissements. Il y est précisé à l'article 1er que la NBI est versée mensuellement, à raison de leurs fonctions, aux fonctionnaires détachés sur l'un des emplois de direction visés dans ces textes. Parmi ces emplois de direction figurent celui de directeur général d'une communauté d'agglomération de 40 000 à 150 000 habitants (17° de l'article 1er du décret n° 2001-1274, avec une NBI de 60 points) et celui de directeur général adjoint des services de ce même type d'établissement public (5° de l'article 1er du décret n° 2001-1367, avec une NBI de 35 points). Dans la mesure ou un fonctionnaire est détaché sur un emploi de directeur général adjoint des services d'une communauté d'agglomération comprise entre 40 000 et 150 000 habitants, comme c'est le cas en l'espèce, c'est le montant de la NBI applicable à cet emploi qui doit lui être attribué, soit 35 points. Le fait que le poste de directeur général des services soit vacant depuis plusieurs années est sans incidence sur cette situation, l'attribution de la NBI étant liée à l'emploi sur lequel le fonctionnaire est détaché.
