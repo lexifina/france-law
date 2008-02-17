@@ -58,7 +58,7 @@ Inspecteurs généraux du travail et de la main-d'œuvre.
 
 Ministère de la culture
 
-Inspection générale de l'administration des affaires culturelles.
+Inspection générale des affaires culturelles.
 
 Ministère délégué à la jeunesse et aux sports
 
