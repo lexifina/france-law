@@ -818,8 +818,8 @@ De 10 à 15
 
 |
 
-Dans la limite de 6 877 points.
+Dans la limite de 7 349 points.
 
-Dans la limite de 687 emplois.
+Dans la limite de 743 emplois.
 
 |

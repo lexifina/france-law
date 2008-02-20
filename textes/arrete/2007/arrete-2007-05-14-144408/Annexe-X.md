@@ -448,9 +448,9 @@ De 10 à 15
 
 |
 
-Dans la limite de 670 points.
+Dans la limite de 705 points.
 
-Dans la limite de 67 emplois.
+Dans la limite de 70 emplois.
 
 |
 
