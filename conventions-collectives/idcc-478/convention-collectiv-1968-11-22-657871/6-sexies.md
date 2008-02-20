@@ -1,0 +1,11 @@
+# Article 6 sexies
+
+Le recrutement doit permettre à chacun d'accéder à l'emploi en fonction de ses compétences et des capacités professionnelles requises, appréciées objectivement en dehors de tout présupposé tenant au sexe, à l'orientation sexuelle, aux moeurs, à l'âge, à la situation de famille ou à la grossesse, aux origines, à l'appartenance ou à la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, aux opinions politiques, aux activités syndicales ou mutualistes, aux convictions religieuses, à l'apparence physique, au patronyme, à l'état de santé ou au handicap, au lieu de résidence.
+
+A capacités égales d'occuper un emploi donné, il ne doit exister aucune discrimination de quelque nature que ce soit.
+
+L'information du comité d'entreprise ou, à défaut, des délégués du personnel est requise lorsque sont mises en place dans l'entreprise de nouvelles procédures de recrutement.
+
+Ces procédures doivent être adaptées pour que les recrutements, qu'ils soient effectués en interne ou par l'intermédiaire du service public de l'emploi ou de cabinets spécialisés, soient réalisés dans le cadre de dispositifs de sélection exempts de toute forme de discrimination et visent à une diversification des sources de recrutement.
+
+Lors de l'information annuelle du comité d'entreprise sur le thème de la diversité, un point sera fait sur les procédures de recrutement.
