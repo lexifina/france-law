@@ -1,0 +1,113 @@
+# Délibération n° 2008-044 du 21 février 2008 dispensant de déclaration les traitements automatisés de données à caractère personnel mis en œuvre par les communes pour la tenue et la communication des listes de chambres d’hôtes (DI-011)
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2008-044
+- Date : 2008-02-21
+- Publication : 2016-03-24
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000019796183
+
+La Commission nationale de l’informatique et des libertés,
+
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée le 6 août 2004, notamment son article 24 ;
+
+Vu le code du tourisme, notamment ses articles L. 324-4 et D. 324-15 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié le 25 mars 2007 ;
+
+Sur le rapport de M. Jean-Marie COTTERET, commissaire et les observations de Mme Pascale COMPAGNIE, commissaire du gouvernement ;
+
+Les traitements mis en œuvre par les communes pour l’enregistrement des déclarations, la tenue et la communication au public des listes de chambres d’hôtes, en application des articles L. 324-4 et D. 324-15 du code du tourisme, sont des traitements courants qui ne sont pas susceptibles de porter atteinte à la vie privée ou aux libertés des personnes.
+
+La Commission estime, en conséquence, qu’il y a lieu de faire application des dispositions du II de l’article 24 de la loi du 6 janvier 1978 susvisée et de dispenser ces traitements de toute déclaration préalable dès lors qu’ils répondent aux conditions figurant dans le tableau joint en annexe.
+
+La présente délibération sera publiée au journal officiel de la République française.
+
+Le Président,
+
+Alex TURK
+
+ANNEXE
+
+Dispense de déclaration n° 11 relative aux traitements automatisés de données à caractère personnel mis en œuvre par les communes pour la tenue et la communication des listes de chambres d’hôtes
+
+Tableau des conditions auxquelles doivent répondre les traitements mis en œuvre pour bénéficier de la dispense de déclaration
+
+Secteurs concernés
+
+|
+
+Communes
+
+|
+
+Responsable du traitement
+
+|
+
+La commune décidant de la création du fichier
+
+|
+
+Finalités
+
+|
+
+Enregistrement des déclarations des exploitants de chambres d’hôtes et édition des récépissés de déclaration.
+
+Tenue et communication au public de la liste des chambres d’hôtes de la commune.
+
+Le cas échéant, communication de la liste des chambres d’hôtes aux comités départementaux de tourisme et aux offices de tourisme.
+
+Elaboration de statistiques relatives aux déclarations de chambres d’hôtes et communication de données statistiques au préfet de région, au président du conseil régional et au président du conseil général.
+
+Envoi aux loueurs de chambres d’hôtes de courriers d’information en lien avec leur activité, notamment concernant la collecte et le versement de la taxe de séjour lorsque la commune l’a instituée.
+
+Le cas échéant, alimentation d’un fichier communal de gestion de la taxe de séjour.
+
+|
+
+Données traitées
+
+|
+
+Identité de l’exploitant : nom, prénoms, adresse du domicile si différente de celle où s’exerce l’activité de location de chambre d’hôte. De manière facultative : numéro de téléphone, de télécopie, adresse électronique.
+
+Identification des chambres d’hôtes : adresse postale, maison individuelle ou appartement, étage, nombre de chambres mises en location, nombre maximal de personnes susceptibles d’être accueillies. Périodes de location.
+
+|
+
+Durée de conservation
+
+|
+
+Le temps d’exercice de l’activité de location de chambre d’hôte par le déclarant, ou jusqu’à nouvelle déclaration de celui-ci.
+
+|
+
+Destinataires des données
+
+|
+
+Toute personne demandant communication de la liste des chambres d’hôtes en mairie.
+
+Le cas échéant, les comités départementaux de tourisme et les offices de tourisme.
+
+Le préfet de région, le président du conseil régional et le président du conseil général, pour les données statistiques relatives aux déclarations de chambres d’hôtes.
+
+|
+
+Information et droit d’accès
+
+|
+
+Les personnes concernées sont informées, au moment de la collecte de leurs données, et notamment par une mention sur le formulaire de déclaration en mairie, de l’identité du responsable de traitement, des finalités de celui-ci, du caractère obligatoire ou facultatif des réponses à apporter, des destinataires des informations, de leurs droits d’accès et de rectification et des modalités d’exercice de ces droits.
+
+Le droit d’opposition ne s’applique pas au traitement et à la communication au public par la mairie des déclarations de chambres d’hôte.
+
+|
