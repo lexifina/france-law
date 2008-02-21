@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801248
+
+- Question : [SEQ070801248](seq070801248.md) — Égalité d'accès à la concurrence dans les marchés publics
+
+## Réponse
+
+*Économie, JO du 2008-02-21, page 340*
+
+Les acheteurs publics sont libres de définir le montant des pénalités de retard prévues par le marché. Ils peuvent décider d'en réclamer ou non le versement en fonction, notamment, du fait que le retard pris dans l'exécution des prestations est dû à des circonstances extérieures qui se sont imposées au prestataire ou du caractère exceptionnel de ce retard et de la satisfaction que donne ou non, d'une manière générale, le cocontractant de l'administration. Pour prendre sa décision, l'acheteur public tient également compte des conséquences financières qu'aura, pour la collectivité, le retard pris pour l'exécution des prestations prévues par le marché. Un acheteur qui indiquerait à un candidat, par quelque moyen que ce soit, que les pénalités de retard prévues par le marché ne lui seraient pas appliquées, lui permettant, ce faisant, de présenter une offre ou de proposer un prix plus faible dans son offre, pourrait être poursuivi pour délit de favoritisme, en application des dispositions de l'article L. 432-14 du code pénal. Ce délit est en effet constitué par le fait de procurer ou de tenter de procurer à autrui un avantage injustifié par un acte contraire à la réglementation de la commande publique. L'entreprise qui se verrait attribuer des marchés publics par le biais de telles manoeuvres pourrait, quant à elle, être poursuivie pour recel de favoritisme. De telles manoeuvres peuvent également conduire à l'annulation de la procédure de passation du marché, voire à l'annulation du marché lui-même s'il a déjà été conclu, car elles méconnaissent le principe d'égalité de traitement et de transparence des procédures prévu à l'article 1er du code des marchés publics.
