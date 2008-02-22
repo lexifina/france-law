@@ -262,7 +262,9 @@ CP 1102
 
 |
 
-12 - Caractéristiques des logements en rez-de-chaussée ou en étage desservi par ascenseur ou susceptibles de l'être
+12 - Caractéristiques des logements en rez-de-chaussée ou en étage desservi par
+
+ascenseur ou susceptibles de l'être
 
 CP 1201
 
@@ -275,6 +277,8 @@ CP 1202
 |
 
 |
+
+.
 
 Bâtiments d'habitation collectifs neufs
 
@@ -666,7 +670,27 @@ SO
 
 |
 
-Pas d'âne interdits
+Distance entre 2 ressauts ≥ 2.50 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Pas de ressauts successifs dans une pente
 
 |
 
@@ -783,10 +807,6 @@ SO
 |
 
 Espaces d'usage
-
-|
-
-|
 
 |
 
@@ -1010,7 +1030,19 @@ Volée d'escalier de 3 marches ou plus
 
 |
 
-1 main courante
+Largeur entre mains courantes ≥ 1,00 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
 
 |
 
@@ -1018,7 +1050,75 @@ Volée d'escalier de 3 marches ou plus
 
 |
 
-Hauteur entre 0,80 et 1,00 m
+Hauteur des marches ≤ 17 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Giron des marches ≥ 28 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Mains courantes
+
+|
+
+|
+
+|
+
+de chaque côté
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+hauteur entre 0,80 et 1,00 m
 
 |
 
@@ -1138,6 +1238,190 @@ SO
 
 |
 
+Nez de marches :
+
+|
+
+|
+
+|
+
+- de couleur contrastée
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- non glissant
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- sans rebord excessif
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Volée d'escalier de moins de 3 marches
+
+|
+
+|
+
+|
+
+Appel de vigilance pour les malvoyants à 50 cm en partie haute
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Contremarche de 10 cm mini pour la 1re et la dernière marche
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Nez de marches :
+
+|
+
+|
+
+|
+
+- de couleur contrastée
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- non glissant
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- sans rebord excessif
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
 Repérage des parois vitrées
 
 |
@@ -1175,24 +1459,6 @@ SO
 |
 
 |
-
-|
-
-Bâtiments d'habitation collectifs neufs
-
-Points examinés
-
-|
-
-Constat
-
-|
-
-Commentaires
-
-|
-
-N° du commentaire
 
 |
 
@@ -1388,7 +1654,7 @@ SO
 
 |
 
-Places boxées ou avec contrôle d'accès
+Places "boxées" ou avec contrôle d'accès
 
 |
 
@@ -1477,6 +1743,26 @@ SO
 |
 
 Entrée principale facilement repérable
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Espace de manœuvre avec possibilité de demi-tour devant l'entrée
 
 |
 
@@ -1644,7 +1930,7 @@ SO
 
 |
 
-Signaux liés au fonctionnement des dispositifs d'accès sonores et visuels.
+Signaux liés au fonctionnement des dispositifs d'accès : sonores et visuels.
 
 |
 
@@ -1896,7 +2182,7 @@ SO
 
 |
 
-à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil
+extrémité à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil (sauf portes ouvrant uniquement sur un escalier)
 
 |
 
@@ -2032,7 +2318,7 @@ SO
 
 |
 
-Accessibilité de tous les locaux collectifs, des caves et celliers
+Accessibilité des locaux collectifs, des caves et celliers situés en étages accessibles
 
 |
 
@@ -2484,24 +2770,6 @@ SO
 
 |
 
-Bâtiments d'habitation collectifs neufs
-
-Points examinés
-
-|
-
-Constat
-
-|
-
-Commentaires
-
-|
-
-N° du commentaire
-
-|
-
 Sols non meuble, non glissant, non réfléchissant et sans obstacle à la roue
 
 |
@@ -2522,7 +2790,7 @@ SO
 
 |
 
-Trous en sol : Ø ou largeur ≤ 2cm
+Trous en sol : ø ou largeur ≤ 2 cm
 
 |
 
@@ -2646,6 +2914,66 @@ Si 3 marches ou plus :
 
 |
 
+Largeur entre mains courantes ≥ 1,00 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Hauteur des marches ≤ 17 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Giron des marches ≥ 28 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
 Appel de vigilance pour les malvoyants à 50 cm en partie haute
 
 |
@@ -2686,7 +3014,27 @@ SO
 
 |
 
-1 main courante
+Mains courantes
+
+|
+
+|
+
+|
+
+- de chaque côté
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
 
 |
 
@@ -2774,7 +3122,75 @@ SO
 
 |
 
-Si marches menant à un escalier :
+Nez de marches :
+
+|
+
+|
+
+|
+
+- de couleur contrastée
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- non glissant
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+- sans débord excessif
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Si moins de 3 marches
 
 |
 
@@ -2822,67 +3238,7 @@ SO
 
 |
 
-largeur entre mains courantes ≥ 1 m
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Hauteur des marches ≤ 17 cm
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Giron des marches ≥ 28 cm
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Nez de marches
+Nez de marches :
 
 |
 
@@ -2910,7 +3266,7 @@ SO
 
 |
 
-- antidérapants
+- non glissant
 
 |
 
@@ -3242,7 +3598,7 @@ SO
 
 |
 
-antidérapants
+non glissant
 
 |
 
@@ -3350,7 +3706,7 @@ SO
 
 |
 
-Si ascenseur obligatoire tous les niveaux sont desservis
+Si ascenseur : tous les étages sont desservis
 
 |
 
@@ -3684,6 +4040,66 @@ SO
 
 |
 
+50 lux pour les circulations piétonnes des parc de stationnement
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+20 lux dans les parcs de stationnement (hors ciruclation piétonne)
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Eblouissement/Reflet
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
 Extinction progressive des éclairages temporisés
 
 |
@@ -3840,7 +4256,7 @@ SO
 
 |
 
-espace de manœuvre de porte devant la porte d'entrée (cet espace intègre l'aire de débattement de la porte)
+espace de manœuvre de porte devant la porte d'entrée
 
 |
 
@@ -4528,7 +4944,15 @@ SO
 
 |
 
-Balcon ou terrasse accessible (PC déposé après le 01/01/2008)
+Balcon ou terrasse situé à un niveau accessible du logement, de plus de 60 cm de profondeur (PC déposé après le 01/01/2008)
+
+|
+
+|
+
+|
+
+Accès depuis une pièce de l'unité de vie
 
 |
 
@@ -4548,7 +4972,95 @@ SO
 
 |
 
-Possibilité d'aménager une douche accessible (PC déposé après le 01/01/.2010)
+Largeur > 0,80 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Ressaut
+
+|
+
+|
+
+|
+
+Menuiserie < 2 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Hauteur du rejingo = minimum règle d'art pour la garde d'eau
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Ressaut extérieur < 2 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Possibilité d'aménager une douche accessible (PC déposé après le 01/01/2010)
 
 |
 

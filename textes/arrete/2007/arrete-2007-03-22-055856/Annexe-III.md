@@ -2,6 +2,10 @@
 
 Annexe 3
 
+à l'arrêté du 3 décembre 2007
+
+Annexe 3
+
 à l'arrêté du 22 mars 2007
 
 ATTESTATION DE VÉRIFICATION DE L'ACCESSIBILITÉ AUX PERSONNES HANDICAPÉES
@@ -138,7 +142,7 @@ CP 203
 
 |
 
-3 - Stationnement automobile
+3 - Places de stationnement
 
 CP 301
 
@@ -349,6 +353,8 @@ CP 1801
 |
 
 |
+
+.
 
 Etablissements recevant du public
 
@@ -784,7 +790,27 @@ SO
 
 |
 
-pas d'âne interdits
+Distance entre 2 ressauts ≥ 2.50 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+pas de ressauts successifs dans une pente
 
 |
 
@@ -1116,7 +1142,87 @@ Volée d'escalier de 3 marches ou plus :
 
 |
 
-1 main courante
+Largeur entre mains courantes ≥ 1,20 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Hauteur des marches ≤ 16 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Giron des marches ≥ 28 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Mains courantes
+
+|
+
+|
+
+|
+
+de chaque côté
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
 
 |
 
@@ -1272,7 +1378,123 @@ SO
 
 |
 
-Antidérapants
+Non glissant
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Sans débord excessif
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Volée d'escalier de moins de 3 marches :
+
+|
+
+|
+
+|
+
+Appel de vigilance pour les mal voyants à 50 cm en partie haute
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Contremarche de 10 cm mini pour la 1re et la dernière marche
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Nez de marches :
+
+|
+
+|
+
+|
+
+De couleur contrastée
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Non glissant
 
 |
 
@@ -1436,7 +1658,7 @@ Raccordement au cheminement d'accès
 
 |
 
-Ressaut < 2 cm
+Ressaut ≤ 2 cm
 
 |
 
@@ -1552,7 +1774,7 @@ SO
 
 |
 
-Sortie en fauteuil des places boxées
+Sortie en fauteuil des places "boxées"
 
 |
 
@@ -1696,6 +1918,26 @@ SO
 
 |
 
+Espace de manœuvre avec possibilité de demi-tour devant l'entrée principale
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
 Dispositifs d'accès au bâtiment :
 
 |
@@ -1772,7 +2014,7 @@ SO
 
 |
 
-Hauteur comprise entre 0,90 et 1,30m
+Hauteur comprise entre 0,90 et 1,30 m
 
 Contrôle d'accès et de sortie
 
@@ -2414,6 +2656,66 @@ Si trois marches ou plus :
 
 |
 
+Largeur entre mains courantes ≥ 1,20 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Hauteur des marches ≤ 16 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Giron des marches ≥ 28 cm
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
 Appel de vigilance pour les mal voyants à 50 cm en partie haute
 
 |
@@ -2482,7 +2784,7 @@ SO
 
 |
 
-- antidérapants
+- non glissant
 
 |
 
@@ -2522,7 +2824,27 @@ SO
 
 |
 
-Une main courante :
+Mains courantes :
+
+|
+
+|
+
+|
+
+- de chaque côté
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
 
 |
 
@@ -2610,7 +2932,7 @@ SO
 
 |
 
-Si marches menant à un escalier :
+Si moins de 3 marches :
 
 |
 
@@ -2686,7 +3008,7 @@ SO
 
 |
 
-- antidérapants
+- non glissant
 
 |
 
@@ -2707,66 +3029,6 @@ SO
 |
 
 - sans débord excessif
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Largeur entre mains courantes ≥ 1,20 m
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Hauteur des marches ≤ 16 cm
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-Giron des marches ≤ 28 cm
 
 |
 
@@ -3058,7 +3320,7 @@ SO
 
 |
 
-Antidérapants
+Non glissant
 
 |
 
@@ -3126,7 +3388,7 @@ SO
 
 |
 
-Tous les niveaux sont desservis
+Si ascenseur : Tous les étages comportant des locaux ouverts au public sont desservis
 
 |
 
@@ -3294,23 +3556,7 @@ SO
 
 |
 
-Etablissements recevant du public
-
-Points examinés
-
-|
-
-Constat
-
-|
-
-Commentaires
-
-|
-
-N° du commentaire
-
-|
+.
 
 7. Tapis, escaliers et plans inclinés mécaniques
 
@@ -3476,7 +3722,7 @@ SO
 
 |
 
-pas de ressaut ≥ 2 cm
+pas de ressaut ≤ 2 cm
 
 |
 
@@ -3628,7 +3874,7 @@ SO
 
 |
 
-1,40 m pour les locaux ou zones recevant au moins 100 personnes.
+1,40 m pour les locaux ou zones recevant au moins 100 personnes
 
 |
 
@@ -3668,7 +3914,7 @@ SO
 
 |
 
-0,80 m pour les portiques de sécurité
+0,80 m pour les portiques de sécurité et les sanitaires, douches et cabines non adaptés
 
 |
 
@@ -3716,7 +3962,7 @@ SO
 
 |
 
-à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil
+extrémité à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil (sauf portes ouvrant uniquement sur un escalier et portes des sanitaires, douches et cabines non adaptés)
 
 |
 
@@ -3736,7 +3982,7 @@ SO
 
 |
 
-Effort pour ouvrir une porte ≤ 50 N
+Effort pour ouvrir une porte ≥ 50 N
 
 |
 
@@ -3988,7 +4234,7 @@ SO
 
 |
 
-commandes manuelles, dispositif de sécurité non réservé au personnel et fonctions voir, entendre, parler
+commandes manuelles et fonctions voir, lire, entendre, parler
 
 |
 
@@ -4016,7 +4262,7 @@ SO
 
 |
 
-guichets d'information, vente manuelle et tables ou tablettes si nécessaire de lire, écrire ou utiliser un clavier
+Element de mobilier permettant de lire, écrire ou utiliser un clavier
 
 |
 
@@ -4404,26 +4650,6 @@ Lavabos accessibles :
 
 |
 
-bord supérieur : H ≤ 0,80 m
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
 vide en-dessous de 0,70 x 0,60 x 0,30 m (HxLxP)
 
 |
@@ -4589,6 +4815,66 @@ SO
 |
 
 150 lux pour les escaliers et équipements mobiles
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+50 lux pour les circulations piétonnes des parcs de stationnement
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+20 lux pour les parcs de stationnement (hors circulation piétonnes)
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Eblouissement/Reflet
 
 |
 
@@ -5312,27 +5598,7 @@ SO
 
 |
 
-0,90 m sur les 2 grands côtés du lit
-
-|
-
-R
-
-|
-
-NR
-
-|
-
-SO
-
-|
-
-|
-
-|
-
-1,20 m au pied du lit
+0,90 m sur les 2 grands côtés du lit et 1,20 m au pied du lit ou 1,20 m sur les 2 grands côtés du lit et 0,90 m au pied du lit
 
 |
 
@@ -6029,6 +6295,26 @@ SO
 |
 
 Caractéristiques des caisses adaptées
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Cheminement d'accès aux caisses adaptées ≥ 0,90 m
 
 |
 

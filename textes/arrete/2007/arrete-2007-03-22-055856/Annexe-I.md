@@ -1,24 +1,8 @@
 # Article Annexe I
 
-Vérificateur
-
-Adresse
-
-Téléphone
-
-Fax
-
-Mail/ site web
-
-Date
-
-N° contrat
-
-N° rapport
-
 Annexe l
 
-à l'arrêté du 22 mars 2007
+à l'arrêté du 3 décembre 2007
 
 ATTESTATION DE VÉRIFICATION DE L'ACCESSIBILITÉ AUX PERSONNES HANDICAPÉES
 
@@ -48,7 +32,7 @@ Réf. du PC :
 
 Date du dépôt de demande de PC :
 
-Date du PC
+Date du PC :
 
 Modificatifs éventuels
 
@@ -223,6 +207,8 @@ CP 702
 |
 
 |
+
+.
 
 Maisons individuelles neuves
 
@@ -574,7 +560,7 @@ Seuils et ressauts
 
 |
 
-≤ 2 cm (ou 4 cm si pente < 33 %)
+≥ 2 cm (ou 4 cm si pente < 33 %)
 
 |
 
@@ -614,7 +600,29 @@ SO
 
 |
 
-Pas d'âne interdits
+Distance entre 2 ressauts ≥ 2.50 m
+
+|
+
+R
+
+|
+
+NR
+
+|
+
+SO
+
+|
+
+|
+
+|
+
+Pas de ressauts successifs dans
+
+une pente
 
 |
 
@@ -1362,7 +1370,7 @@ SO
 
 |
 
-Possibilité de sortir des places boxées pour des personnes en fauteuil roulant une fois le véhicule garé
+Possibilité de sortir des places "boxées" pour des personnes en fauteuil roulant une fois le véhicule garé
 
 |
 
@@ -1542,7 +1550,7 @@ SO
 
 |
 
-extrémité de la poignée à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil
+extrémité de la poignée à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil (sauf portes ouvrant uniquement sur un escalier)
 
 |
 
