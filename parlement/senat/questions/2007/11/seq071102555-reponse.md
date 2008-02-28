@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102555
+
+- Question : [SEQ071102555](seq071102555.md) — Pratiques abusives en matière de restitution partielle des dépôts de garantie
+
+## Réponse
+
+*Logement, JO du 2008-02-28, page 404*
+
+L'article 22 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs a été modifié par l'article 10 de la loi pour le pouvoir d'achat, adoptée définitivement par le Parlement le 31 janvier 2008. Il prévoit la possibilité pour le bailleur d'exiger, à la signature du contrat de bail, le versement d'un dépôt de garantie, étant précisé que celui-ci ne peut désormais être supérieur à un mois de loyer. Ce dépôt de garantie est destiné à garantir l'exécution des obligations locatives du locataire, le propriétaire étant en droit de retenir toutes sommes dues à un titre quelconque si le locataire n'a pas exécuté ses obligations. La créance du locataire peut ainsi être constituée par des arriérés de loyer ou de charges, mais aussi par des réparations locatives, ces sommes restant dues devant être justifiées. Toutefois, la Cour de cassation a précisé qu'il n'est pas nécessaire pour le bailleur de produire des factures de travaux acquittées pour justifier sa demande (Cour de cassation, 3e chambre civile, 3 avril 2001). Quant aux indemnités dues au locataire en cas de restitution tardive du dépôt de garantie, il n'apparaît pas pertinent d'en fixer le taux au delà du taux légal en vigueur. En effet, le délai de remboursement du dépôt de garantie au locataire suppose que la régularisation des charges de copropriété soit intervenue avant cette restitution. Or, ce n'est pas toujours le cas, et les tribunaux admettent que le bailleur restitue au locataire sortant 80 % du dépôt de garantie dans ce délai et ne rembourse le solde dû qu'après la régularisation annuelle, sans intérêt.
