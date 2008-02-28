@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002136
+
+- Question : [SEQ071002136](seq071002136.md) — Répartition des charges scolaires dans le cadre d'une garde alternée
+
+## Réponse
+
+*Intérieur, JO du 2008-02-28, page 397*
+
+L'hypothèse d'une dualité du domicile de l'enfant susceptible d'être générée par la mise en oeuvre de la garde alternée, prévue par la loi n° 2002-305 du 4 mars 2002, en cas de divorce des parents n'a pas été envisagée par le législateur qui a retenu le principe de l'unicité du domicile. Les dispositions de l'article L. 212-8 précité peuvent néanmoins s'appliquer. Tout d'abord, la garde alternée ne se traduit pas nécessairement par le partage égalitaire de la résidence de l'enfant chez chacun de ses parents. Dans l'hypothèse où l'enfant séjourne davantage chez l'un que chez l'autre, c'est la commune où l'enfant réside la majorité du temps qui sera considérée comme sa commune de résidence en application de l'article 102 du code civil qui précise que « le domicile de tout Français, quant à l'exercice de ses droits civils, est au lieu de son principal établissement ». Dans l'hypothèse où la résidence de l'enfant se partage de manière totalement égalitaire entre les deux parents, la commune d'accueil doit s'adresser aux deux communes de résidence afin de trouver un accord sur leur participation respective aux dépenses de fonctionnement. Le calcul de la contribution devra nécessairement prendre en compte le fait que l'enfant ne réside dans les communes en question que la moitié du temps. À défaut d'accord entre les communes, il appartiendra au préfet de fixer leur contribution respective. Si l'enfant est scolarisé dans une des communes où il a son domicile, cette dernière qui est à la fois commune d'accueil et de résidence ne peut solliciter la participation financière de l'autre commune de résidence.
