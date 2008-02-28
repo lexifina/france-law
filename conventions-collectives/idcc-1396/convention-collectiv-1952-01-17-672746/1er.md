@@ -14,7 +14,7 @@ Cela comprend :
 
 - la fabrication de produits à base de gibiers, volailles, lapins conservés.
 
-(Ces activités sont principalement comprises dans le chapitre 15.1 E de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 13A et 10. 85Z de la nomenclature des activités française).
 
 Dans l'industrie du poisson
 
@@ -28,7 +28,7 @@ Cela comprend :
 
 - les entreprises transformant les escargots et les achatines.
 
-(Ces activités sont principalement comprises dans le chapitre 15.2 Z de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 20Z et 10. 85Z de la nomenclature des activités française).
 
 Cela ne comprend pas :
 
@@ -46,11 +46,13 @@ Cela comprend :
 
 - les entreprises de transformation et de conservation de pommes de terre ;
 
+- la fabrication de plats préparés à base de pommes de terre ;
+
 - les entreprises de production de purée déshydratée, de pommes chips ;
 
 - la production de farines de pommes de terre.
 
-(Ces activités sont principalement comprises dans le chapitre 15.3 A de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 31Z et 10. 85Z de la nomenclature des activités française).
 
 Dans le secteur de la transformation et conservation de légumes
 
@@ -64,7 +66,7 @@ Cela ne comprend pas :
 
 - la fabrication de légumes au vinaigre.
 
-(Ces activités sont principalement comprises dans le chapitre 15.3 E de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 39A et 10. 85Z de la nomenclature des activités française).
 
 Dans le secteur de la transformation et la conservation des fruits
 
@@ -76,7 +78,7 @@ Cela comprend :
 
 - la production de compotes et de desserts de fruits ;
 
-- la production de coulis et préparations alimentaires, à base de fruits.
+- la production de coulis, de plats préparés et de préparations alimentaires à base de fruits ;
 
 Cela ne comprend pas :
 
@@ -88,11 +90,11 @@ Cela ne comprend pas :
 
 - la production d'aliments adaptés à l'enfant et d'aliments diététiques.
 
-(Ces activités sont principalement comprises dans le chapitre 15.3 F de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 39B et 10. 85Z de la nomenclature des activités française).
 
-La fabrication industrielle de pizzas, quiches, tartes, tourtes
+La fabrication industrielle de pizzas, quiches, tartes, tourtes, sandwichs
 
-(Ces activités sont principalement comprises dans le chapitre 15.8 A de la nomenclature des activités françaises.)
+(Ces activités sont principalement comprises dans les chapitres 10. 85Z et 10. 89Z de la nomenclature des activités françaises.)
 
 Dans le secteur de la fabrication de pâtes alimentaires
 
@@ -102,9 +104,11 @@ Cela comprend :
 
 - la fabrication de couscous garni ;
 
-- la fabrication de pâtes cuites et/ou farcies.
+- la fabrication de pâtes cuites et/ou farcies ;
 
-(Ces activités sont principalement comprises dans le chapitre 15.8 M de la nomenclature des activités françaises.)
+- la fabrication de plats préparés à base de pâtes.
+
+(Ces activités sont principalement comprises dans les chapitres 10.73Z et 10.85Z de la nomenclature des activités françaises.)
 
 Cela ne comprend pas :
 
