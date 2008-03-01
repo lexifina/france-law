@@ -2,45 +2,27 @@
 
 Direction départementale de l'équipement de Maine-et-Loire
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU DE QUALIFICATION
+
+de l'emploi
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
-|
-
-Délégué de l'Etat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-|
-
-Chargé de l'unité
+Mise en œuvre de la politique sociale du logement et de l'habitat. Chargé de la mise en œuvre du droit opposable au logement
 
 |
 
@@ -52,13 +34,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-|
-
-"politique de la ville" Chargé d'études, de l'observatoire et du suivi du plan de relance du logement social
+Chargé de la mise en œuvre de la politique du logement social, du suivi du conventionnement et des bailleurs sociaux
 
 |
 
@@ -70,8 +50,22 @@ A
 
 |
 
-50 points
+50
 
 |
+
+Mise en œuvre de la politique de la ville. Chargé de la rénovation urbaine
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50
 
 |
