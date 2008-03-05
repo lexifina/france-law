@@ -1,0 +1,3 @@
+# Article 1er
+
+Le salaire minimum conventionnel est fixé à 348 points et à 358 points avec sujétions d'internat, au 1er janvier 2008.
