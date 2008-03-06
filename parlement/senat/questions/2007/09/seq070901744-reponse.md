@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901744
+
+- Question : [SEQ070901744](seq070901744.md) — Vignette automobile indexée sur les émissions de gaz carbonique
+
+## Réponse
+
+*Écologie, JO du 2008-03-06, page 441*
+
+Les travaux du Grenelle de l'environnement ont retenu la mise en place d'un mécanisme de bonus-malus sur l'achat de voitures particulières. Ce dispositif a été adopté à la fin de l'année 2007, dans l'article 63 de la loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007 et le décret n° 2007-1873 du 26 décembre 2007 instituant une aide à l'acquisition de véhicules propres. Le bonus concerne les voitures émettant au maximum 130 g CO2/km et le malus celles émettant plus de 160 g CO2/km. En outre, un super-bonus est accordé aux personnes qui mettent leur ancienne voiture à la casse et achètent simultanément un véhicule neuf propre. Pour ce qui est des dates d'entrée en vigueur, le bonus s'applique aux véhicules commandés à compter du 5 décembre 2007 et le malus aux véhicules acquis et immatriculés à partir du 1er janvier 2008. S'agissant des montants, le malus est de 200 euros pour des émissions comprises entre 161 et 165 g CO2, de 750 euros pour 166-200 g CO2, de 1 600 euros pour 201-250 g CO2 et de 2 600 euros au-delà de 250 g CO2. Le bonus s'élève à 1 000 euros pour les véhicules émettant moins de 100 g CO2, à 700 euros pour 101-120 g CO2 et à 200 euros pour 121-130 g CO2. Les véhicules très économes en carburant, notamment électriques, émettant au maximum 60 g CO2, bénéficieront d'un bonus de 5 000 euros. Enfin, lorsque l'acquisition d'un véhicule éligible au bonus sera accompagnée de la mise au rebut d'un véhicule de plus de quinze ans, elle donnera droit à un nouveau bonus de 300 euros. La mise en place de ce dispositif sur les voitures particulières constitue la première application du signal prix écologique.
