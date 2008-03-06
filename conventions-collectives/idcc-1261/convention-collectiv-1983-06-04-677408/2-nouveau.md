@@ -2,13 +2,11 @@
 
 2.1. Dispositions générales
 
-2.1.1. Les salariés à temps complet peuvent, à leur demande, accéder au travail à temps partiel (1).
+2.1.1. Les salariés à temps complet peuvent, à leur demande, accéder au travail à temps partiel à condition d'avoir 2 ans d'ancienneté dans l'entreprise et dans le poste (1).
 
-2.1.2. Le salarié doit présenter sa demande par lettre recommandée avec accusé de réception 1 mois avant la mise en application du nouvel horaire de travail. Il bénéficie d'une priorité de retour à temps plein (1).
+2.1.2. Le salarié doit présenter sa demande par lettre recommandée avec accusé de réception 1 mois avant la mise en application du nouvel horaire de travail. Il bénéficie d'une priorité de retour à temps plein pendant 3 ans (1).
 
-2.1.3. L'employeur peut refuser la demande notamment pour les motifs
-
-suivants :
+2.1.3. L'employeur peut refuser la demande notamment pour les motifs suivants :
 
 -qualification du salarié ;
 
@@ -30,20 +28,18 @@ Au cours d'une même journée, il ne peut y avoir plus d'une interruption d'acti
 
 Certains emplois peuvent déroger à ces limites (soit parce qu'ils comportent 2 interruptions, soit parce qu'ils comportent 1 interruption de plus de 2 heures). Dans ce cas, à défaut d'autres contreparties fixées par le contrat de travail, les salariés bénéficient d'une indemnité fixée à 1 Euros par jour dès lors qu'il y a 2 interruptions ou une interruption de plus de 2 heures.
 
-2.2. Temps partiel annualisé (abrogé).
+2.2. Temps partiel modulé
 
-2.3. Temps partiel modulé
-
-2.4. Les heures complémentaires
+2.3. Les heures complémentaires
 
 Le nombre d'heures complémentaires effectuées par un salarié à temps partiel au cours d'une même semaine ou d'un même mois ne peut être supérieur au tiers de la durée hebdomadaire ou mensuelle de travail prévue dans son contrat.
 
-2.5. Bilan annuel dans l'entreprise
+2.4. Bilan annuel dans l'entreprise
 
 Le bilan annuel du travail à temps partiel dans l'entreprise est effectué dans les conditions prévues à l'article L. 212-4.5 du code du travail.
 
-2.6. Bilan annuel en commission paritaire
+2.5. Bilan annuel en commission paritaire
 
 Un bilan sera fait annuellement en commission paritaire nationale.
 
-NOTA : (1) Termes exclus de l'extension par arrêté du 4 décembre 2003.
+(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 212-4-9 du code du travail (arrêté du 4 décembre 2003, art. 1er).
