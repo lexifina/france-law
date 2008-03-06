@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-Intitulé :
-
-Titre professionnel : conducteur d'installations et de machines automatisées.
+Intitulé : conducteur d'installations et de machines automatisées.
 
 Niveau : V.
 
@@ -10,47 +8,27 @@ Code NSF : 251 u.
 
 Résumé du référentiel d'emploi
 
-Le conducteur d'installations et de machines automatisées effectue, sur des installations automatisées, l'ensemble des actions en vue d'une production conforme aux normes fixées en termes de délai, de qualité, de quantité, dans le respect des règles d'hygiène et de sécurité.
+Le conducteur réalise, au sein d'une équipe, sur des machines et installations automatisées, intégrées ou non dans une ligne de production, l'ensemble des actions concourant à l'obtention d'une production conforme en qualité, coûts et délais, dans le respect des normes d'hygiène, d'environnement et de sécurité définies par l'entreprise.
 
-Il doit être capable de :
+Pour cela, il assure tout ou partie des activités suivantes :
 
-- monter et régler les différents outillages en fonction de la production demandée ;
+-préparation du poste de travail ;
 
-- contrôler les conditions de mise en route en respectant les règles de sécurité et effectuer la mise en marche ;
+-démarrage et arrêt de l'installation ou de la machine ;
 
-- conduire une ou plusieurs machines automatisées ;
+-conduite et surveillance du process de fabrication ;
 
-- assurer le bon fonctionnement en tenant compte des impératifs tels que : qualité, coût, délais, cadence de production définis dans le dossier de fabrication ;
+-contrôle des pièces ou des sous-ensembles fabriqués ;
 
-- gérer les aléas, déclencher l'intervention du service de maintenance en lui communiquant les caractéristiques précises de l'incident ;
+-maintenance préventive de premier niveau ;
 
-- surveiller le déroulement des opérations ou mettre à l'arrêt ;
+-participation à des groupes d'amélioration.
 
-- maintenir l'installation en état de bon fonctionnement et de propreté ;
+Les moyens de production mis en œuvre regroupent généralement plusieurs technologies : mécanique, électricité, pneumatique, hydraulique et informatique.
 
-- rendre compte des résultats et des événements techniques observés au cours de son activité en remplissant les documents de suivi de fabrication.
+Capacités attestées et descriptif des composantes de la certification
 
-Il utilise de plus en plus des terminaux d'ordinateurs en atelier pour saisir les résultats de production. Il travaille dans des entreprises de tailles diverses appartenant à différents secteurs d'activité où la production est fortement automatisée :
-
-l'agroalimentaire, la construction mécanique, dont automobile, la fabrication électronique-électrique et l'électroménager, l'industrie pharmaceutique, l'industrie du verre, l'informatique, la plasturgie, la transformation des papiers, des cartons et des métaux. Il travaille sur des installations de production ou d'assemblage qui comportent des systèmes de commandes câblés ou programmables et qui font appel à plusieurs technologies : électronique, hydraulique, informatique, mécanique et pneumatique. Il exerce son métier en atelier en horaires d'équipes, rarement la journée. L'exécution des tâches s'effectue le plus souvent debout avec des déplacements fréquents autour de l'installation, voire aux divers magasins de stockage.
-
-Les conditions de travail varient en fonction de l'activité de l'entreprise (bruit, chaleur, humidité, poussières...).
-
-L'activité oblige à une vigilance continue et une réactivité immédiate en cas de défaillance.
-
-Capacités attestées et descriptif
-
-des composantes de la certification
-
-1. Lancer et arrêter une installation
-
-ou une machine automatisée
-
-Prendre en compte les paramètres (documents, informations...) nécessaires à la fabrication.
-
-Saisir et enregistrer les informations relatives à la production sur document (informatique ou papier) de gestion de production.
-
-Approvisionner la machine en matière et composants et vérifier les références (étiquettes, bon accord contrôle réception).
+1. Lancer et arrêter une installation ou une machine automatisée
 
 Préparer, en fonction du changement de série, le poste de travail.
 
@@ -58,43 +36,43 @@ Charger un programme.
 
 Assurer la mise en route et l'arrêt des moyens de production en fonction des séries selon les procédures établies.
 
-Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+Réaliser les opérations simples de maintenance productive des outils et des moyens de production en fonction des documents techniques.
 
-2. Conduire et surveiller une opération de production
+Proposer des améliorations techniques (produit ; process) ou organisationnelles (flux ; charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
 
-sur une installation ou sur une machine automatisée
+2. Conduire et surveiller une opération de production sur une installation ou sur une machine automatisée
 
-Assurer le contrôle des paramètres machine et des pièces issues d'une fabrication industrielle.
+Prendre en compte les paramètres (documents, informations...) nécessaires à la fabrication.
 
-Réaliser les opérations simples de maintenance de courte durée des outils et des moyens de production en fonction des documents techniques.
+Approvisionner en matière et composants la machine et vérifier les références (étiquettes ; bon accord contrôle réception).
 
 Conduire et surveiller une opération de production sur machine ou installation automatisée dans le respect des procédures (modes opératoires...) et selon les conditions prévues (qualité, quantité, délais...).
 
-Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+Assurer le contrôle des paramètres-machine et des pièces issues d'une fabrication industrielle.
 
-Secteurs d'activités ou types d'emploi
+Saisir et enregistrer les informations relatives à la production sur document (informatique ou papier) de gestion de production.
+
+Proposer des améliorations techniques (produit ; process) ou organisationnelles (flux ; charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+
+Secteurs d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Automobile, agroalimentaire, électroménager, électronique et électricité, pharmacie, papeterie et emballage.
-
-Codes ROME :
-
-44111 - Agent d'usinage des métaux ;
-
-44211 - Opérateur sur machines automatiques en production électrique et électronique ;
-
-45122 - Opérateur sur machines et appareils de fabrication des industries agroalimentaires ;
-
-45121 - Pilote d'installation des industries agroalimentaires ;
-
-45112 - Opérateur sur appareils de transformation physique ou chimique ;
-
-46231 - Conducteur de machines de façonnage.
+Automobile, agroalimentaire, électroménager, électronique et électricité, pharmacie, plasturgie, métallurgie, entreprises de travail temporaire.
 
 Réglementation de l'activité :
 
 Néant.
+
+Codes ROME :
+
+44211-Opérateur (trice) sur machines automatiques en production électrique et électronique.
+
+4512-Opérateur (trice) sur machines et appareils de fabrication des industries agro alimentaires.
+
+45411-Opérateur (trice) sur machines de finition, contrôle et conditionnement.
+
+46231-Conducteur (trice) de machines de façonnage.
 
 Autorité responsable de la certification :
 
@@ -102,8 +80,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+NOTA :
+
+Arrêté du 4 février 2008 article 1 : Après son réexamen par la commission professionnelle consultative, l'arrêté du 31 juillet 2003 est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur du présent arrêté (6 mars 2013).
