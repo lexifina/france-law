@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-Intitulé :
-
-Titre professionnel : agent de fabrication industrielle.
+Intitulé : agent de fabrication industrielle.
 
 Niveau : V.
 
@@ -10,69 +8,67 @@ Code NSF : 251 u.
 
 Résumé du référentiel d'emploi
 
-Les industries manufacturières délaissent peu à peu l'organisation de leur fabrication en lignes où les opérateurs n'effectuent qu'une série d'opérations répétitives, n'intervenant que sur une petite partie du produit à fabriquer. Pour posséder une meilleure souplesse, l'industrie moderne s'est dotée d'organisations en équipes autonomes ou semi-autonomes, polyvalentes et capables de prendre en charge tout ou partie de la fabrication d'un produit. L'agent de fabrication industrielle (AFI) exerce son activité sur des systèmes de production pas ou peu automatisés : il fait partie d'une unité au sein de laquelle il doit donc :
+L'agent de fabrication industrielle exerce son activité sur des systèmes de production pas ou peu automatisés dans des secteurs professionnels variés (automobile, électroménager...).
 
-- à partir d'instructions reçues, préparer et aménager un poste de travail ; fixer les outils, effectuer les réglages nécessaires et veiller à ce que les machines soient approvisionnées ;
+Polyvalent, il fait partie d'une équipe au sein de laquelle :
 
-- fabriquer les produits en série à l'aide ou non de machines simples ;
+-il prend en compte les documents de production ;
 
-- contrôler tout au long du process sa fabrication ; rendre compte de sa production et des aléas ; renseigner la fiche de suivi de fabrication et livrer le magasin ou le poste suivant ;
+-il fabrique manuellement ou à l'aide de machines simples les produits demandés par le service de gestion de production ;
 
-- proposer, dans son secteur, des améliorations techniques et organisationnelles.
+-il contrôle tout au long du process sa fabrication ;
 
-L'agent de fabrication industrielle travaille au sein d'entreprises très diverses et de secteurs professionnels variés (automobile, électroménager, ferroviaire, etc). Il est polyvalent d'un poste à un autre au sein de son groupe. C'est un acteur autonome, responsable de la qualité de son travail, des délais à tenir et ayant le goût de la résolution de problèmes.
+-il propose, dans son secteur, des améliorations tant techniques qu'organisationnelles.
 
-Il est généralement assujetti à des horaires postés et travaille peu en horaire de journée. L'exécution des tâches s'effectue souvent debout et nécessite, selon les secteurs, le port d'équipements de sécurité ou de propreté. Il est amené à déplacer des charges parfois lourdes à l'aide de moyens de manutention (palan, manipulateur, ...). Il utilise de plus en plus des terminaux d'ordinateurs en atelier pour saisir les résultats de production. Il doit pour cela maîtriser l'utilisation d'un clavier.
+Il peut être amené, dans certains cas et sous la responsabilité du service qualité, à retoucher les produits non conformes sur et hors la ligne de production.
 
-Activités types et descriptif
+La finalité de l'emploi est la réalisation, au sein d'une équipe autonome de fabrication, de l'ensemble des actions concourant à l'obtention d'une production conforme en qualité, quantité, coûts et délais dans le respect des normes d'hygiène, de sécurité et d'environnement définies par l'entreprise.
+
+Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Préparer une production stabilisée industrielle de série
+1. Fabriquer manuellement des pièces
 
-Prendre en compte les paramètres (documents, informations ...) nécessaires à la fabrication.
+ou des sous-ensembles industriels de série
 
-Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges ...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+Prendre en compte les paramètres (documents, informations...) nécessaires à la fabrication.
 
-Configurer, en fonction du changement de série, le poste de travail (équipements, matériels et matériaux).
+Réaliser des opérations répétitives de fabrication (montage, assemblage...) manuelles ou assistées (visseuse...) selon les conditions prévues (qualité, quantité, délais).
 
-2. Fabriquer manuellement et assurer la qualité,
+Assurer les contrôles d'aspect et / ou dimensionnels établis par les gammes techniques à l'aide de moyens de contrôle simples (calibres, tampons, balances...).
 
-des pièces ou des sous-ensembles industriels de série
+Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
 
-Réaliser des opérations répétitives de fabrication (montage, assemblage ...) manuelles ou assistées (visseuse ...) selon les conditions prévues (qualité, quantité, délais ...).
+2. Fabriquer à l'aide de machines simples des pièces
 
-Assurer les contrôles unitaires ou statistiques, d'aspect et/ou dimensionnels établis par les gammes techniques à l'aide de moyens de contrôle simples (calibres, tampons ...).
+ou des sous-ensembles industriels de série
 
-Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges ...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
-
-3. Fabriquer à l'aide de machines simples et assurer la qualité
-
-des pièces ou des sous-ensembles industriels de série
+Prendre en compte les paramètres (documents, informations...) nécessaires à la fabrication.
 
 Monter et démonter des outillages simples.
 
 Assurer la mise en route et l'arrêt des moyens en fonction des séries de production selon les procédures établies.
 
-Réaliser des opérations sur machines de fabrication (montage, assemblage ...) dans le respect des procédures (modes opératoires ... et selon les conditions prévues (qualité, quantité, délais).
+Réaliser des opérations sur machines de fabrication (montage, assemblage...) dans le respect des procédures (modes opératoires...) et selon les conditions prévues (qualité, quantité, délais).
 
-Assurer les contrôles unitaires ou statistiques, d'aspect et/ou dimensionnels établis par les gammes techniques à l'aide de moyens de contrôle simples (calibres, tampons ...).
+Assurer les contrôles d'aspect et / ou dimensionnels établis par les gammes techniques à l'aide de moyens de contrôle simples (calibres, tampons, balances...).
 
-Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges ...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+Proposer des améliorations techniques (produit, process) ou organisationnelles (flux, charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Construction automobile, agroalimentaire, fabrication électroménager, électronique et électricité, pharmacie, plasturgie, métallurgie, mécanique, etc.
-
-Code ROME :
-
-44131 - Agent de montage-assemblage de la construction mécanique.
+Automobile, agroalimentaire, électroménager, électronique et électricité, pharmacie, plasturgie, métallurgie, entreprises de travail temporaire.
 
 Réglementation de l'activité :
 
 Néant.
+
+Code ROME :
+
+44131-Agent de montage-assemblage de la construction mécanique.
 
 Autorité responsable de la certification :
 
@@ -80,8 +76,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
