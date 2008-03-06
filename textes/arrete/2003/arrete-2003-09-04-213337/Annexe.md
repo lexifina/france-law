@@ -1,12 +1,8 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de plaquiste.
+Intitulé : plaquiste.
 
 Niveau : V.
 
@@ -14,11 +10,11 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le plaquiste réalise l'aménagement intérieur des locaux neufs et anciens à partir d'éléments préfabriqués à base de plaque de plâtre. Il construit des plafonds, des doublages et des cloisons. Il réalise les implantations, fixe les ossatures et les plaques de plâtre. Il assure également les travaux de finition en traitant les joints et en réalisant les enduits.
+Le (la) plaquiste réalise l'aménagement intérieur des locaux neufs et anciens à partir d'éléments préfabriqués à base de plaques de plâtre. Il (elle) construit des plafonds, des doublages et des cloisons. Il (elle) réalise les implantations, fixe les ossatures et les plaques de plâtre. Il (elle) assure également les travaux de finition en traitant les joints et en réalisant les enduits.
 
-Il intervient dans les chantiers de construction et de rénovation de tous types de bâtiments publics et privés, parfois en site occupé. Il exerce son activité dans des locaux couverts et fermés, parfois sur des échafaudages, et se trouve très souvent amené à soulever et transporter des charges.
+Il (elle) intervient dans les chantiers de construction et de rénovation de tous types de bâtiments publics et privés, parfois en site occupé. Il (elle) exerce son activité dans des locaux couverts et fermés, parfois sur des échafaudages et se trouve très souvent amené (e) à soulever et transporter des charges.
 
-Il travaille au sein d'entreprises comportant, le plus souvent, moins de vingt salariés, généralement en équipe de deux ou trois personnes, sous la responsabilité d'un chef d'équipe. Il applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
+Il (elle) travaille au sein d'entreprises comportant, le plus souvent, moins de 20 salariés, généralement en équipe de 2 à 3 personnes, sous la responsabilité d'un chef d'équipe. Il (elle) applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il (elle) doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
 
 L'activité suppose de nombreux déplacements pour se rendre sur les différents chantiers. Elle nécessite parfois des horaires adaptés pour terminer un ouvrage.
 
@@ -26,13 +22,11 @@ Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser l'aménagement intérieur de locaux à usage
-
-d'habitation en plaques de plâtre de technicité courante
+1. Réaliser l'aménagement intérieur de locaux à usage d'habitation en plaques de plâtre de technicité courante
 
 Démolir des ouvrages d'agencement intérieur en vue de la rénovation de bâtiments.
 
-Mettre en oeuvre un plafond sur ossature métallique type fourrure, avec pose d'isolants.
+Poser un plafond sur ossature métallique type fourrure, avec pose d'isolants.
 
 Poser et coller des plaques, des complexes de doublages isolants.
 
@@ -42,15 +36,9 @@ Construire des cloisons de distribution avec ossature métallique, comportant la
 
 Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
 
-Organiser ses activités d'aménagement de locaux à usage d'habitation en plaques de plâtre de technicité courante.
+2. Réaliser l'aménagement et l'agencement intérieur de tous types de locaux en plaques de plâtre de technicité particulière
 
-2. Réaliser l'aménagement et l'agencement intérieur de tous types
-
-de locaux en plaques de plâtre de technicité particulière
-
-Mettre en oeuvre un plafond sur ossature métallique avec montants.
-
-Mettre en oeuvre un plafond sur ossature primaire.
+Poser un plafond sur ossature métallique avec montants et sur ossature primaire.
 
 Réaliser un doublage sur ossature métallique type fourrure.
 
@@ -64,33 +52,27 @@ Construire des cloisons et des plafonds courbes en plaques de plâtre.
 
 Poser des plafonds décoratifs et techniques démontables.
 
-Organiser ses activités d'aménagement de locaux recevant du public en plaques de plâtre de technicité particulière.
+Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
 
-CCS : Réaliser des ouvrages d'isolation acoustique,
+CCS : réaliser des ouvrages d'isolation acoustique, thermique et de protection incendie.
 
-thermique et de protection incendie
-
-Mettre en oeuvre des systèmes techniques de protection incendie pour la réalisation de plafonds, de cloisons et de gaines.
+Mettre en œuvre des systèmes techniques de protection incendie pour la réalisation de plafonds, de cloisons et de gaines.
 
 Réaliser des cloisons modulaires sur plancher technique avec barrière phonique.
 
-Secteurs d'activités ou types d'emploi accessibles
+Réaliser des plafonds et des cloisons à hautes performances acoustiques.
 
-par le détenteur du titre
+Secteurs d'activité ou types d'emploi
 
-Petites et moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+accessibles par le détenteur du titre
 
-Entreprises de travail temporaire.
-
-Services d'entretien de sociétés et de services publics.
-
-Code(s) ROME :
-
-42222 - Monteur/monteuse plaquiste en agencements.
+Petites et moyennes entreprises du second œuvre bâtiment intervenant dans le domaine de l'aménagement finitions.
 
 Réglementation de l'activité :
 
 Néant.
+
+Code ROME : 42222-Monteur (se) plaquiste en agencements.
 
 Autorité responsable de la certification :
 
@@ -98,8 +80,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale.
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+NOTA :
+
+Arrêté du 4 février 2008 article 1 : L'arrêté du 4 septembre 2003 est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur du présent arrêté (6 mars 2013).
