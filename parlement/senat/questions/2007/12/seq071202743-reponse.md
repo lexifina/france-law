@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202743
+
+- Question : [SEQ071202743](seq071202743.md) — Responsabilité juridique du conseil d'administration et de son président dans le cadre de la nouvelle gouvernance hospitalière
+
+## Réponse
+
+*Santé, JO du 2008-03-06, page 450*
+
+La réforme de la nouvelle gouvernance hospitalière initiée par l'ordonnance du 2 mai 2005 avait pour but de renforcer le rôle et la responsabilité de cette instance. Cette volonté s'est manifestée par la suppression de certaines attributions antérieures, comme les emprunts, les actions judiciaires et les transactions ou les hommages publics, qui ont été transférées au directeur. Certaines attributions ont été regroupées : ainsi les programmes d'investissement relatifs aux travaux et équipements matériels lourds sont intégrés dans le projet d'établissement et les questions relatives aux effectifs de personnels sont examinées à l'occasion de l'état des prévisions de recettes et de dépenses (EPRD). Enfin, de nouvelles attributions ont été conférées au conseil d'administration, comme la délibération sur la politique d'amélioration continue de la qualité et de la sécurité des soins, la définition de la politique de contractualisation interne ou l'adoption d'un plan de redressement. Il était d'autant plus nécessaire de confier cette compétence au conseil d'administration que le refus de mettre en oeuvre un plan de redressement, comme l'échec éventuel de sa mise en oeuvre, sont susceptibles de déclencher la mise de l'établissement sous une administration provisoire qui peut s'assortir de la suspension du conseil d'administration. En tout état de cause, ces adjonctions témoignent de la volonté du législateur de recentrer l'action du conseil d'administration sur des questions stratégiques en cohérence avec les objectifs ambitieux des réformes en cours.
