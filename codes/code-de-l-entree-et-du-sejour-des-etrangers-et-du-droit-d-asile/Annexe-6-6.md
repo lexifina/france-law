@@ -12,7 +12,7 @@
 
 6° Le résultat des examens médicaux relatifs à la compatibilité du maintien en zone d'attente ou à la détermination de l'âge de l'étranger ;
 
-7° Le(s) visa(s) : type de visa, numéro, date de délivrance, lieu de délivrance, date de validité, consulat de délivrance, nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
+7° Le (s) visa (s) : type de visa, numéro, date de délivrance, lieu de délivrance, date de validité, consulat de délivrance, nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
 
 8° Nature des documents falsifiés, contrefaits ou usurpés ;
 
@@ -20,4 +20,4 @@
 
 10° Informations relatives aux actes de procédures relatifs au refus d'entrée sur le territoire et au maintien en zone d'attente ;
 
-11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par le ministre de l'intérieur.
+11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par le ministre chargé de l'immigration.
