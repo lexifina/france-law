@@ -1,12 +1,8 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFI-CATIONS PROFESSIONNELLES
-
-Intitulé :
-
-Titre professionnel : assistant(e) d'exploitation en transports routiers de marchandises.
+Intitulé : assistant (e) d'exploitation en transports routiers de marchandises.
 
 Niveau : V.
 
@@ -14,21 +10,21 @@ Code NSF : 311 t.
 
 Résumé du référentiel d'emploi
 
-L'assistant(e) d'exploitation en transports routiers de marchandises effectue les opérations techniques et administratives simples relatives à l'activité d'exploitation des transports routiers de marchandises : il (elle) collecte, vérifie et transmet des données et des informations relatives au fret et au déroulement du transport ; il (elle) renseigne les plannings des agents de conduite, prépare et vérifie les documents réglementaires d'exploitation et assure le relevé des temps de travail des conducteurs sur les appareils embarqués. Il (elle) peut assurer le suivi d'opérations simples de transport.
+L'assistant (e) d'exploitation en transports routiers de marchandises exécute les activités de base du service d'exploitation des transports routiers de marchandises : opérations administratives, suivi des opérations de transport et opérations préparatoires aux travaux des exploitants.
 
-Il (elle) organise son activité en fonction des demandes et des consignes données par les techniciens exploitants. Il (elle) les alerte en cas de dysfonctionnement. Il (elle) peut être conduit à utiliser un vocabulaire anglais simple.
+L'assistant (e) d'exploitation enregistre des commandes de transport, participe à la recherche de fret, collecte et complète des données de transport. Il (elle) prépare, contrôle et classe les documents relatifs à la prestation, transmet les données et informations relatives au fret et au déroulement du transport. Il (elle) renseigne les plannings des agent (e) s de conduite, vérifie, enregistre et transmet les éléments relatifs à la facturation, ainsi qu'aux litiges. Il (elle) assure le relevé des temps de travail des conducteurs sur les appareils embarqués (chronotachygraphes) et transmet au service concerné les éléments relatifs à la paie des conducteurs.
 
-L'emploi s'exerce généralement en bureau mais conduit fréquemment à des interventions extérieures, sur le quai ou sur les zones d'entreposage, où il peut être soumis à des niveaux sonores importants ou à des basses températures.
+Il (elle) organise son activité en fonction des demandes et des consignes données par les techniciens exploitants. Il (elle) les alerte en cas de dysfonctionnement. Son activité exige la compréhension et l'expression d'un vocabulaire anglais simple.
 
-Les horaires de travail sont réguliers et peuvent dans certains cas supposer un travail posté (en 3 x 8), de nuit et en fin de semaine.
+L'emploi s'exerce généralement en bureau mais conduit fréquemment à des interventions extérieures, sur le quai ou les zones de stockage. Il (elle) peut être soumis (e) à des niveaux sonores importants (bureau partagé, appels téléphoniques, zone de travail ouverte...).
+
+Les horaires de travail sont réguliers et peuvent dans certains cas supposer un travail posté (en 3 × 8), de nuit et en fin de semaine.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Participer à des opérations simples d'exploitation
-
-de transports routiers de marchandises
+1. Réaliser des opérations simples d'exploitation en transports routiers de marchandises dans le respect des relations avec la clientèle, les prestataires et les services internes
 
 Collecter et vérifier les données relatives à la prestation et renseigner les tableaux de bord de l'exploitation en transport de marchandises.
 
@@ -36,55 +32,51 @@ Collecter et transmettre les informations relatives à la recherche et au dépô
 
 Renseigner un planning des visites liées à la réglementation et à l'activité de l'exploitation en transport de marchandises.
 
-Assurer le suivi des opérations simples et/ou répétitives de collecte et de livraison de marchandises.
+Vérifier le bon déroulement des opérations de collecte et de livraison de marchandises et transmettre les informations.
 
-Recevoir et orienter les appels téléphoniques, éventuellement en anglais, destinés au service exploitation.
+Traiter les appels et demandes téléphoniques et électroniques, qui peuvent être en anglais.
 
-Réaliser des opérations de manutention liées au transport de marchandises.
+Participer ponctuellement, sur les quais, aux contrôles de colis et au traitement de marchandises en souffrance.
 
-Collecter et transmettre aux différents acteurs les informations relatives au déroulement des opérations du transport de marchandises.
+2. Traiter les documents relatifs aux activités de l'exploitation en transports routiers de marchandises dans le respect des réglementations
 
-2. Assurer le traitement des documents réglementaires et administratifs relatifs aux activités de l'exploitation en transports routiers de marchandises
+Contrôler la validité des documents et des équipements obligatoires à bord des véhicules.
 
-Préparer les documents nécessaires au déroulement de la prestation de transport.
+Préparer, récupérer les documents (y compris en anglais) nécessaires au déroulement de la prestation de transport et vérifier leur conformité réglementaire.
 
-Récupérer et vérifier les documents utilisés lors de la prestation de transport.
+Traiter les retours des rapports de tournées en transport de marchandises.
 
-Contrôler la présence et la validité des documents concernant le véhicule et le conducteur et des équipements de sécurité obligatoires à bord des véhicules.
+Traiter les dossiers liés aux opérations de transport (dossiers transport, client, facturation, litige, douane).
 
-Traiter administrativement chaque opération de transport de marchandises.
+Comptabiliser les mouvements de supports de charge utilisés en transport de marchandises.
 
-Assurer le traitement des retours des rapports de tournées en transport de marchandises.
+3. Assurer des opérations relatives à l'enregistrement des paramètres d'activités du conducteur, à l'aide des chronotachygraphes
 
-Contrôler et comptabiliser les mouvements de supports de charge utilisés en transport de marchandises.
+Assurer l'approvisionnement des éléments d'enregistrement (cartes, disques).
 
-Assurer des relances clients sur demande des services de l'entreprise et dans le cadre des recouvrements de facture.
+Collecter, éditer et vérifier les données (disques et contenus de boîtier).
 
-3. Assurer les opérations relatives à l'enregistrement des temps de conduite par les appareils embarqués à bord des véhicules (chronotachygraphes)
-
-Mettre les supports d'enregistrement à disposition du conducteur.
-
-Collecter et vérifier les mentions manuscrites des supports d'enregistrement.
-
-Lire et relever les informations enregistrées.
-
-Classer et archiver les supports contenant les données enregistrées.
+Classer, archiver, et sauvegarder les supports contenant les données enregistrées.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce au sein d'entreprises de transports pour compte d'autrui ou d'entreprises industrielles ou commerciales réalisant les transports de marchandises pour compte propre.
+L'emploi s'exerce au sein de plusieurs types d'entreprise : transport pour compte d'autrui, transport pour compte propre, entreprises industrielles et commerciales.
 
-Codes ROME :
+Type d'emplois accessibles
 
-43331 - Personnel administratif de la circulation internationale des marchandises ;
-
-43314 - Agent de routage.
+Adjoint (e) d'exploitation ; administratif exploitation arrivages-départ ; aide déclarant (e) en douane ; aide exploitant (e) ; assistant (e) affrètement ; chargé (e) du suivi transport ; employé (e) d'exploitation ; employé (e) import-export.
 
 Réglementation de l'activité :
 
 Néant.
+
+Codes ROME :
+
+43331-Personnel administratif de la circulation internationale des marchandises.
+
+43314-Agent de routage.
 
 Autorité responsable de la certification :
 
@@ -92,8 +84,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+NOTA :
+
+Aux termes de l'arrêté du 26 février 2008 article 1er, l'arrêté du 9 mars 2004 susvisé est prorogé pour une durée de cinq ans à compter du 9 mars 2008.
