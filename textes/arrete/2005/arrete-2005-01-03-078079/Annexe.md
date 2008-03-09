@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 GARANTIE À PREMIÈRE DEMANDE
 
 (Remplaçant la retenue de garantie
@@ -26,9 +24,9 @@ Montant garanti (qui ne peut être supérieur à celui de la retenue de garantie
 
 Le présent engagement correspond (2) :
 
-A la garantie du marché de base ;
+- A la garantie du marché de base ;
 
-A un complément de garantie au titre de l'avenant n°
+- A un complément de garantie au titre de l'avenant n°
 
 B. - Engagement
 
@@ -54,15 +52,13 @@ Les sommes payées resteront acquises à la personne publique quel que soit le m
 
 La présente garantie prendra fin dans les conditions prévues à l'article 103 du code des marchés publics.
 
-Par ailleurs, je certifie avoir été agréé par le comité des établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1 du code monétaire et financier.
+Par ailleurs, je certifie avoir été agréé par le comité des établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1 du code monétaire et financier ou par le comité des entreprises d'assurance mentionné à l'article L. 413-1 du code des assurances.
 
 Le droit français est seul applicable au présent engagement ; les tribunaux français sont seuls compétents.
 
 A , le
 
-Signature du représentant
-
-de l'organisme apportant sa garantie
+Signature du représentant de l'organisme apportant sa garantie
 
 CAUTION PERSONNELLE ET SOLIDAIRE
 
@@ -88,9 +84,9 @@ Montant garanti (qui ne peut être supérieur à celui de la retenue de garantie
 
 Le présent engagement correspond (2) :
 
-A la garantie du marché de base ;
+- A la garantie du marché de base ;
 
-A un complément de garantie au titre de l'avenant n°
+- A un complément de garantie au titre de l'avenant n°
 
 B. - Engagement
 
@@ -100,14 +96,14 @@ Le paiement interviendra dans un délai de quinze jours à compter de la récept
 
 Dès lors que j'aurai reçu le justificatif énoncé ci-dessus, je m'engage à effectuer, sur ordre de la personne publique, jusqu'à concurrence de la somme garantie ci-dessus, le versement des sommes dont le titulaire serait débiteur.
 
-Je certifie être agréé par le comité des établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1 du code monétaire et financier.
+Je certifie être agréé par le comité des établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1 du code monétaire et financier ou par le comité des entreprises d'assurance mentionné à l'article L. 413-1 du code des assurances.
 
 Le présent engagement de caution prend fin dans les conditions prévues à l'article 103 du code des marchés publics.
 
 A , le
 
-Signature du représentant
+Signature du représentant de l'organisme apportant sa caution
 
-de l'organisme apportant sa caution
+(1) La retenue de garantie ne peut excéder 5 % du montant initial du marché augmenté, le cas échéant, du montant des avenants, toutes taxes comprises, avant application des clauses de prise en compte des variations des conditions économiques (art. 99 du code des marchés publics).
 
-(1) La retenue de garantie ne peut excéder 5 % du montant initial du marché augmenté, le cas échéant, du montant des avenants, toutes taxes comprises, avant application des clauses de prise en compte des variations des conditions économiques (art. 99 du code des marchés publics). (2) Cocher la case concernée.
+(2) Cocher la case concernée.
