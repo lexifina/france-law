@@ -1,5 +1,11 @@
-# Article 15 TER
+# Article 15 ter
 
-Au cas où, suite à la cessation d'un contrat commercial ou d'un marché public, en tout ou partie, et ce quel que soit le donneur d'ordre, une activité entrant dans le champ d'application de la présente convention collective serait attribuée à un titulaire distinct du titulaire antérieur, la continuité des contrats de travail existants au dernier jour du contrat précédent des salariés du premier employeur affectés à ladite activité depuis au moins 3 mois sera assurée chez l'employeur entrant. A charge pour ce dernier d'assurer les obligations légales et conventionnelles, notamment financières en matière de gestion des effectifs et d'organisation du travail dans le cadre du nouveau contrat.
+Au cas où, suite à la cessation d'un contrat commercial ou d'un marché public, en tout ou partie, et ce quel que soit le donneur d'ordre, une activité entrant dans le champ d'application de la présente convention collective serait attribuée à un titulaire distinct du titulaire antérieur, la continuité des contrats de travail existant au dernier jour du contrat commercial ou du marché précédent, des salariés non cadres du premier employeur affectés à ladite activité depuis au moins 6 mois, sera assurée chez l'employeur entrant.
 
-L'entreprise sortante aura par ailleurs à rembourser à son successeur les sommes prises en charge par ce dernier relatives aux droits acquis par les salariés en matière de congés payés et de primes à périodicité annuelle au titre de la période au cours de laquelle les salariés de l'activité étaient encore employés par l'entreprise sortante.
+A charge pour ce dernier d'assurer les obligations légales et conventionnelles, notamment financières en matière de gestion des effectifs et d'organisation du travail dans le cadre du nouveau contrat.
+
+L'entreprise sortante aura par ailleurs à régler aux salariés transférés les salaires et les sommes à périodicité autre que mensuelle, au prorata du temps passé par celui-ci dans l'entreprise, y compris le prorata de l'indemnité de fin de contrat à durée déterminée et des indemnités de congés payés qu'il a acquis à la date du transfert.
+
+L'entreprise sortante adhérente à une caisse de congés payés devra remettre aux salariés les certificats d'emploi justifiant de leur droit à congés conformément à la législation en vigueur (1). »
+
+(1) C'est-à-dire à la date de signature de l'accord (article L. 223-16 ou L. 3141-30 du code du travail ; art.D. 741-4 du code du travail).

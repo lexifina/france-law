@@ -1,4 +1,4 @@
-# Article 15 QUATER
+# Article 15 quater
 
 Sur demande écrite par courrier en recommandé avec accusé de réception de l'entreprise entrante, l'entreprise sortante communique sous 15 jours calendaires les documents suivants :
 
