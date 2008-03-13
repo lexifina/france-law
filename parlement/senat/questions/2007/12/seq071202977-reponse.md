@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202977
+
+- Question : [SEQ071202977](seq071202977.md) — Suppression du versement de l'allocation adulte handicapé au-delà de 60 ans
+
+## Réponse
+
+*Solidarité, JO du 2008-03-13, page 505*
+
+L'attention de Mme la secrétaire d'État à la solidarité a été appelée sur les modalités de l'attribution de l'allocation adulte handicapé (AAH). L'AAH est un revenu minimum légal, entièrement financé par la solidarité nationale et destiné à assurer un minimum de ressources aux personnes handicapées les plus démunies. Conformément à l'article L. 821-1 du code de la sécurité sociale, le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou d'invalidité. À l'âge de soixante ans, le droit à l'AAH est donc suspendu. Il appartient aux allocataires de faire valoir en priorité leur droit à un avantage vieillesse : pension de retraite, allocation spéciale pour les personnes âgées, aide sociale de l'Etat. Il convient de préciser que, pour les allocataires dont le taux d'incapacité est au moins égal à 80 %, c'est-à-dire les allocataires relevant de l'article L. 821-1 du code de la sécurité sociale, le versement de l'allocation n'est pas interrompu immédiatement à l'âge de soixante ans. Ainsi, dès lors que ces allocataires on fait valoir en priorité un avantage vieillesse, l'AAH peut continuer à être versée à titre subsidiaire si le montant de l'avantage vieillesse est inférieur au montant de l'AAH à taux plein, soit 628,10 euros au 1er janvier 2008. Concernant les personnes dont le taux d'incapacité est compris entre 50 % et 80 %, l'allocation spéciale pour les personnes âgées complète les pensions de vieillesse dont le montant est inférieur au minimum légal. Le montant mensuel de ce minimum légal est égal au montant mensuel de l'AAH à taux plein.
