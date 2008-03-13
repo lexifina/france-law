@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103137
+
+- Question : [SEQ080103137](seq080103137.md) — Retraite agricole et égalité homme-femme
+
+## Réponse
+
+*Agriculture, JO du 2008-03-13, page 485*
+
+Les pouvoirs publics sont pleinement conscients de la situation des retraites agricoles et s'attachent depuis plus d'une décennie à les revaloriser. Des avancées sensibles ont déjà permis d'améliorer la situation des agriculteurs retraités. C'est ainsi qu'un plan pluriannuel de revalorisation des retraites spécifique à l'agriculture a été établi. Il permet aux non-salariés agricoles qui justifient d'une carrière complète de percevoir une pension de retraite de base au moins égale au minimum vieillesse (7 537,30 euros en 2008) pour les chefs d'exploitation ou d'entreprise agricole et au minimum vieillesse différentiel (5 983,97 euros en 2008) pour les conjoints et les aides familiaux. S'agissant de la parité du montant des pensions entre les agricultrices et les agriculteurs, il convient de rappeler qu'en règle générale le montant d'une pension de vieillesse est fonction du montant des cotisations qui ont été acquittées pendant la vie active. Ainsi, l'égalité de montant entre la pension de vieillesse du chef d'exploitation et celle de son conjoint travaillant avec lui sur l'exploitation ne peut être assurée que si le conjoint opte pour le statut de chef d'exploitation. Acquittant les mêmes cotisations que son époux, la femme chef d'exploitation s'ouvre des droits égaux en protection sociale, notamment en assurance vieillesse de base et en assurance vieillesse complémentaire obligatoire (ACO). Notre gouvernement s'est engagé à revaloriser les petites retraites avant la fin du premier semestre 2008. Le ministre de l'agriculture et de la pêche veillera à ce que la situation des agriculteurs les plus modestes, et en particulier celle des agricultrices, soit prise en compte.
