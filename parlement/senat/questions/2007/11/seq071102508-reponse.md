@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102508
+
+- Question : [SEQ071102508](seq071102508.md) — Recomposition de la filière nucléaire française
+
+## Réponse
+
+*Économie, JO du 2008-03-13, page 495*
+
+Le Gouvernement a engagé l'an dernier une réflexion d'ensemble sur l'avenir de la filière nucléaire française, et plus particulièrement sur une possible évolution du capital d'AREVA. Toutefois, cette réflexion ne revêt aujourd'hui aucun caractère d'urgence particulière. Les intentions du Gouvernement sont d'étudier en détail toutes les options envisageables, pour donner au groupe AREVA les moyens de son développement, dans un contexte où l'énergie nucléaire devrait connaître un regain d'intérêt au niveau mondial. Toutes ces options seront examinées en fonction des intérêts de l'entreprise, mais aussi des objectifs du Gouvernement en matière de politique énergétique. En tout état de cause, le cadre législatif actuel traduit un niveau d'exigence élevé en matière de sûreté des installations nucléaires françaises, indépendamment de l'évolution du statut des exploitants. Ce cadre a été récemment renforcé et complété par deux lois : la loi du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire, qui a notamment créé une Autorité de sûreté nucléaire indépendante ainsi qu'un Haut Comité pour la transparence et l'information sur la sécurité nucléaire, (HCTISN) ; la loi du 28 juin 2006 relative à la gestion durable des matières et déchets radioactifs, et notamment son article 20 qui garantit la sécurisation du financement des charges de démantèlement des installations et de gestion des déchets. Par ailleurs, les conditions nécessaires à la transparence en matière nucléaire sont renforcées : les membres du HCTISN seront prochainement nommés ; le plan national de gestion des matières et des déchets radioactifs, dont le premier rapport a été adressé au Parlement en mars 2007, apporte une contribution déterminante à la transparence sur ce sujet.
