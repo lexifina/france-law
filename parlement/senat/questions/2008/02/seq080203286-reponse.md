@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203286
+
+- Question : [SEQ080203286](seq080203286.md) — Attribution de la croix du combattant volontaire avec agrafe "opérations extérieures"
+
+## Réponse
+
+*Défense, JO du 2008-03-13, page 490*
+
+La croix du combattant volontaire (CCV) est une distinction militaire particulièrement symbolique. Créée par le décret n° 81-844 du 8 septembre 1981, elle a vocation à récompenser les volontaires ayant souscrit un engagement au titre d'un conflit, sans avoir été astreints à une quelconque obligation de service, et ayant été affectés dans une unité combattante. Cette décoration ayant été créée pour récompenser un acte individuel d'engagement et non pour reconnaître la disponibilité du militaire telle qu'elle est définie par son statut, c'est en application de ce principe que cette distinction n'a jamais été attribuée aux militaires de carrière ou de la réserve, quels que soient leur armée ou leur service d'appartenance. Dans la mesure où les engagés volontaires de l'armée de terre, de la marine nationale, de l'armée de l'air et de la gendarmerie nationale signent un contrat au titre d'une formation, pour servir en tout temps, en tout lieu et en toutes circonstances, ils ne peuvent donc se prévaloir d'un volontariat pour participer à une opération dans le cadre d'une mission extérieure, car il s'agit pour eux d'accomplir leur devoir dans le cadre de leur contrat. Par conséquent, il ne saurait être envisagé d'étendre les conditions d'attribution de la CCV avec barrette « missions extérieures », fixées par le décret n° 2007-741 du 9 mai 2007, au profit des engagés volontaires ayant participé à des opérations extérieures. Une telle mesure dénaturerait en effet complètement l'esprit de cette distinction et constituerait une rupture de l'équité qui a toujours prévalu entre toutes les générations du feu.
