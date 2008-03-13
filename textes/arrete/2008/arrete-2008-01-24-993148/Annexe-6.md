@@ -1,18 +1,20 @@
 # Article Annexe 6
 
-TABLEAU SYNTHÉTIQUE DES ESPECES D'OISEAUX RÉPUTÉS ÉLEVÉS DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE ET POUVANT À CE TITRE BÉNÉFICIER DE DÉROGATIONS À L'INTERDICTION DES RASSEMBLEMENTS
+TABLEAU SYNTHÉTIQUE DES ESPÈCES D'OISEAUX RÉPUTÉS ÉLEVÉS DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE ET POUVANT À CE TITRE BÉNÉFICIER DE DÉROGATION À L'INTERDICTION DES RASSEMBLEMENTS
 
 ORDRES
 
 |
 
-ESPÈCES RÉPUTÉES ÉLEVÉES DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE ET POUVANT À CE TITRE BÉNÉFICIER
+ESPÈCES RÉPUTÉES ÉLEVÉES DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE
 
-de dérogations vis-à-vis de l'interdiction des rassemblements
+et pouvant à ce titre bénéficier de dérogation vis-à-vis de l'interdiction
+
+des rassemblements
 
 |
 
-Apodiformes.
+Apodiformes
 
 |
 
@@ -20,15 +22,15 @@ Colibris.
 
 |
 
-Columbiformes.
+Columbiformes
 
 |
 
-Toutes espèces (sauf pigeons voyageurs et pigeons de sport).
+Toutes espèces (y compris par dérogation les pigeons voyageurs et pigeons de sport).
 
 |
 
-Cuculiformes.
+Cuculiformes
 
 |
 
@@ -36,7 +38,7 @@ Toutes espèces.
 
 |
 
-Galliformes.
+Galliformes
 
 |
 
@@ -44,7 +46,7 @@ Cailles peintes de Chine et cailles du Japon.
 
 |
 
-Passériformes.
+Passériformes
 
 |
 
@@ -52,7 +54,7 @@ Toutes espèces.
 
 |
 
-Piciformes.
+Piciformes
 
 |
 
@@ -60,7 +62,7 @@ Toucans.
 
 |
 
-Psittaciformes.
+Psittaciformes
 
 |
 
