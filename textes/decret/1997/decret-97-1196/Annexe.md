@@ -23,3 +23,47 @@ Vous pouvez consulter le tableau dans le JO
 n° 300 du 27/12/1997 page 46054 à 46055
 
 =============================================
+
+Code de l'éducation.
+
+1
+
+|
+
+Décisions d'admission dans les lycées de la défense.
+
+|
+
+Article
+
+R. 425-10
+
+|
+
+2
+
+|
+
+Décisions d'admission dans les lycées de la défense.
+
+|
+
+Article
+
+R. 425-12
+
+|
+
+3
+
+|
+
+Décisions de remises totales ou partielles du montant des frais de trousseau et de pension.
+
+|
+
+Article
+
+R. 425-19
+
+|

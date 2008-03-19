@@ -660,7 +660,7 @@ Dernier alinéa de l'article 5.
 
 |
 
-Décret n° 2005-675 du 16 juin 2005 portant organisation du cycle d’enseignement professionnel initial et création des diplômes nationaux d’orientation professionnelle de musique, de danse et d’art dramatique
+Code de l’éducation
 
 1
 
@@ -670,11 +670,23 @@ Délivrance des diplômes nationaux d’orientation professionnelle de musique, 
 
 |
 
-Premier alinéa de l’article 4.
+Article R. 361-11.
 
 |
 
-Décret n° 2006-1248 du 12 octobre 2006 relatif au classement des établissements d’enseignement public de la musique, de la danse et de l’art dramatique
+2
+
+|
+
+Décision de reconnaissance des établissements d’enseignement artistique.
+
+|
+
+Article R. 461-13.
+
+|
+
+.
 
 1
 
@@ -684,7 +696,9 @@ Décisions de classement, de renouvellement, de changement de catégorie, de mis
 
 |
 
-Les décisions du ministre chargé de la culture prévues aux articles 1er, 4, 5, 6 et 7.
+Les décisions du ministre chargé de la culture prévues aux articles R. 461-1,
+
+R. 461-4, R. 461-5, R. 461-6 et R. 461-7.
 
 |
 
