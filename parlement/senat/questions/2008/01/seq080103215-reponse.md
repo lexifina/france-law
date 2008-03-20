@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103215
+
+- Question : [SEQ080103215](seq080103215.md) — Problème des familles franco-allemandes en situation de séparation ou de divorce
+
+## Réponse
+
+*Justice, JO du 2008-03-20, page 571*
+
+La garde des sceaux, ministre de la justice remercie l'honorable parlementaire d'appeler son attention sur les difficultés que peuvent poser les séparations dans certaines familles franco-allemandes. Afin d'aider à surmonter les difficultés susceptibles d'être rencontrées lors de séparations familiales à dimension internationale, les États ont élaboré des instruments internationaux définissant des règles communes, dont le premier objectif est de prendre en compte l'intérêt des enfants concernés. Notamment, la Convention de La Haye du 25 octobre 1980 sur les aspects civils de l'enlèvement international d'enfants a vocation à répondre aux situations dans lesquelles un enfant a été déplacé du pays de sa résidence habituelle vers un autre et institue une coopération destinée à assurer le maintien des liens entre les enfants avec leurs deux parents. Dans ce domaine, la coopération entre les États a été renforcée, au sein de l'Union européenne, par un règlement communautaire 2201/2003 du 27 novembre 2003 sur la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, entré en application en mars 2005. Déjà et avant la communautarisation de la matière, la France avait noué des relations privilégiées avec de nombreux pays, plus particulièrement ceux avec lesquels les échanges étaient plus développés, pour des raisons historiques ou de proximité géographique, notamment avec l'État allemand. Ainsi, dans cet État, et ce depuis juillet 1998, ont été successivement affectés des magistrats de l'ordre judiciaire français, chargés en qualité de juge de liaison, de renforcer et simplifier la coopération entre nos pays en matière d'entraide judiciaire.
