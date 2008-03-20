@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102470
+
+- Question : [SEQ071102470](seq071102470.md) — Continuité territoriale : monopole de compagnies aériennes
+
+## Réponse
+
+*Outre-mer, JO du 2008-03-20, page 575*
+
+Comme l'honorable parlementaire le sait, il n'existe pas de monopole organisé, mais une situation de fait. La Nouvelle-Calédonie est aujourd'hui desservie par la compagnie Air Calin, qui assure en partage de code avec Air France la liaison entre Nouméa et Paris, et, pour ce qui est des collectivités d'outre-mer, la liaison avec Papeete et Wallis. Ces liaisons aériennes sont ouvertes à la concurrence et toute compagnie aérienne est libre de demander à les exploiter. Ce sont des raisons purement commerciales qui expliquent l'exploitation de ces lignes par une seule compagnie, le volume de trafic ne permettant pas une rentabilité considérée comme suffisante par les transporteurs. Le risque de rupture du service en cas d'immobilisation non programmée d'un appareil est essentiellement lié aux caractéristiques de la flotte en service. L'unique exemple de monopole de fait subsistant en outre-mer concerne la Guyane. Le Président de la République a déclaré le 11 février dernier que « exceptionnellement et compte tenu de la situation unique de la Guyane, on envisagera favorablement la défiscalisation d'avion de toute compagnie qui souhaiterait venir faire une offre concurrente sur la ligne Paris Cayenne ». Par ailleurs, l'allègement des obligations de service public entre la métropole et les DOM a été publié au journal de l'Union européenne le 19 octobre dernier, contribue à susciter l'exercice d'une concurrence plus large en ouvrant aux compagnies charters la possibilité d'assurer des vols non réguliers tout en maintenant des obligations tarifaires pour les enfants, ainsi qu'aux personnes devant se déplacer en urgence en raison d'un décès familial, et aux évacuations sanitaires.
