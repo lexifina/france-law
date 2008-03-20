@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord est conclu pour la mise en place de la convention collective des employés et cadres du régime social des indépendants, conclue dans le cadre des articles L. 131-1 et L. 132-1 à L. 132-17-1 du code du travail, et réglant les rapports entre les organismes relevant du régime social des indépendants visé à l'article L. 611-1 du code de la sécurité sociale et le personnel de ces organismes ayant leur siège en France, y compris les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Il est indissociable de cette convention collective.
