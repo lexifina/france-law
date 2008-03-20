@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202758
+
+- Question : [SEQ071202758](seq071202758.md) — Ouverture de nouveaux canaux pour l'usage de la citizen-band
+
+## Réponse
+
+*Économie, JO du 2008-03-20, page 552*
+
+La réglementation française relative aux postes citizen band (CB) a été établie par l'arrêté du 31 mars 1992. Ce texte, publié au Journal officiel du 3 avril 1992, précise que les postes CB fonctionnent en modulation d'amplitude, en modulation de fréquences et en bande latérale unique sur 40 canaux préréglés avec 4 watts maximum de puissance crête dans la bande de fréquences 26,960/27,410 MHz. En France, l'utilisation d'un poste CB n'est soumise à aucune déclaration préalable auprès de l'administration. En outre, il importe de noter que l'usage de postes CB n'est soumise à aucune taxe ou redevance pour l'utilisation du spectre radioélectrique. De ce fait, les cibistes français bénéficient aujourd'hui d'une réglementation parmi les plus souples en Europe. Pour ce qui est de l'extension des classes d'émission et du nombre de canaux autorisés, l'analyse de l'utilisation de la bande de fréquences affectée à la pratique de la CB montre que l'usage des canaux CB est actuellement en nette décroissance. L'utilisation de canaux supplémentaires reste toutefois envisageable si des bandes de fréquences pertinentes devenaient disponibles. Toutefois, la prise en considération des perturbations constatées des installations de télévision hertziennes et les contraintes nouvelles nées des préoccupations du public concernant les rayonnements électromagnétiques justifient une grande prudence quant à une éventuelle évolution de la réglementation pour accorder aux utilisateurs de postes CB des possibilités supplémentaires en termes de puissance, de classes d'émissions et d'installations d'antennes sur les immeubles.
