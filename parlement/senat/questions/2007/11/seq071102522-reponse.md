@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102522
+
+- Question : [SEQ071102522](seq071102522.md) — Mise en place de la commission communale et/ou intercommunale pour l'accessibilité des personnes handicapées prévue à l'article L. 2143-3 du CGCT
+
+## Réponse
+
+*Intérieur, JO du 2008-03-27, page 619*
+
+La circulaire interministérielle du 14 décembre 2007 relative au plan d'action en faveur de l'accessibilité, a précisé les modalités de création des commissions, prévues par la loi du 1er février 2005, dispositif codifié à l'article L. 2143-3 du code général des collectivités territoriales. Toutes les communes de 5 000 habitants et plus doivent créer une commission pour l'accessibilité aux personnes handicapées. Cette commission sera obligatoirement créée auprès de l'établissement public de coopération intercommunale de plus de 5 000 habitants dès lors qu'il exerce les compétences transports ou aménagement du territoire. En outre, les communes de moins de 5 000 habitants ou regroupées dans une structure de coopération intercommunale de moins de 5 000 habitants peuvent décider de créer une telle commission au niveau intercommunal. En application des dispositions du 6e alinéa de l'article L. 2143-3 du code général des collectivités territoriale, lorsqu'une commission intercommunale est créée, celle-ci exerce pour l'ensemble des communes les compétences des commissions communales et est donc seule habilitée à exercer les missions visées au deuxième alinéa de ce même article. Dès lors, il ne peut y avoir de coexistence entre ces deux types de commissions. Ceci étant, rien n'interdit aux communes, afin de favoriser les initiatives locales fondées sur la connaissance du terrain, d'alimenter les travaux de la commission intercommunale, en créant une structure informelle de réflexion et de conseil.
