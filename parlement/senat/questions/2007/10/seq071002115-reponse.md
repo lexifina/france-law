@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002115
+
+- Question : [SEQ071002115](seq071002115.md) — Impossibilité pour l'employeur de licencier avant l'expiration du délai de recours en cas de rejet de la demande de reconnaissance de maladie professionnelle
+
+## Réponse
+
+*Travail, JO du 2008-03-27, page 629*
+
+L'attention de M. le ministre du travail, des relations sociales et de la solidarité a été appelée sur l'articulation du droit du travail et du droit de la sécurité sociale en matière de rupture du contrat de travail pour inaptitude médicale. Il est vrai que l'autonomie de ces deux matières peut favoriser l'apparition de difficultés pratiques lorsque l'employeur, en application de l'article L. 122-24-4 du code du travail, licencie le salarié devenu inapte médicalement sans possibilité de reclassement dans l'entreprise. Il est toutefois important de noter que le délai d'un mois auquel est tenu l'employeur - soit pour reclasser, soit pour licencier, soit pour reprendre le versement des salaires sans contrepartie professionnelle - a été institué dans un souci de protection du salarié qui, inapte à son poste de travail, ne perçoit plus de rémunération tout en ne pouvant pas bénéficier de l'assurance chômage du fait de la persistance de son contrat de travail. De plus, seul le médecin du travail peut intervenir dans le cadre de la santé du salarié pendant son contrat de travail, et il revient donc au seul salarié de décider d'informer ou pas l'employeur de ses démarches relatives à son état de santé. Pour ces motifs, et dans un souci de protection des données médicales de chaque salarié, la jurisprudence constante de la chambre sociale de la Cour de cassation dissocie les procédures, et il ne saurait être reproché à l'employeur d'agir dans le délai que la loi lui impose, alors même qu'il revient au salarié de l'informer de ses éventuelles démarches auprès du médecin de la sécurité sociale.
