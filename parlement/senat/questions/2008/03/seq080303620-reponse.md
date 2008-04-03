@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303620
+
+- Question : [SEQ080303620](seq080303620.md) — Modification des modalités de récupération de la rémunération des gardiens et concierges
+
+## Réponse
+
+*Logement, JO du 2008-04-03, page 674*
+
+Le régime des charges locatives repose sur une recherche d'équilibre entre bailleurs et locataires. Ces charges sont récupérables par le bailleur, sur justification, en contrepartie des services rendus liés à l'usage de la chose louée, des dépenses d'entretien courant et des menues réparations sur les éléments communs de la chose louée ainsi que des impositions correspondant à des services dont le locataire profite directement. S'agissant des gardiens et concierges, leur activité qui a longtemps consisté en l'entretien des parties communes et l'élimination des rejets a fortement évolué ces dernières années du fait des nouvelles attentes des locataires, notamment en ce qui concerne l'état des lieux, la sécurité, la présence et le dialogue avec les locataires. Il apparaît justifié de revoir les modalités de récupération des charges afin d'assurer une juste rémunération des nouvelles tâches effectuées par les gardiens et concierges et ainsi accompagner et consolider ces évolutions. C'est pourquoi, en septembre, le ministre du logement et de la ville a souhaité qu'une concertation relative aux frais de gardiennage soit ouverte au sein de la Commission nationale de concertation (CNC) pour adapter le dispositif actuel de récupération des charges. Les travaux menés par la commission ont permis de dégager une approche partagée sur la nécessité de retenir un système simple et transparent, notamment en ce qui concerne l'assiette et les modalités de calcul de la répartition des charges. Les travaux de la CNC pourront être mis à profit pour élaborer un dispositif tenant compte de la réalité des missions de gardiennage et de la nécessité d'assurer un équilibre entre bailleurs et locataires.
