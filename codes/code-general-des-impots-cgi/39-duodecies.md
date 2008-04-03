@@ -22,7 +22,7 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, constituent un portefeuille distinct.
+Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 142-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L. 441-8 du code des assurances, constituent un portefeuille distinct.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de scission.
 
@@ -57,3 +57,7 @@ Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long 
 Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992.
 
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 65-IV a et VI de la loi n° 2006-1770 du 30 décembre 2006.

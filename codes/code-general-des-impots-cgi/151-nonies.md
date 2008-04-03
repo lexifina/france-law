@@ -34,7 +34,7 @@ L'exonération prévue au deuxième alinéa s'applique à la plus-value en repor
 
 IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activité professionnelle, l'imposition de la plus-value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
 
-IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I du présent article dans les conditions suivantes :
+IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I dans les conditions suivantes :
 
 1° L'actif de la société ou du groupement dont les droits ou parts sont apportés n'est pas principalement constitué de biens immobiliers bâtis ou non bâtis qui ne sont pas affectés par la société ou le groupement à sa propre exploitation, de droits afférents à un contrat de crédit-bail portant sur de tels biens et conclu dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, de droits ou parts de sociétés dont l'actif est principalement constitué des mêmes biens, droits ou parts ;
 
@@ -51,7 +51,3 @@ b) En cas d'échange de droits ou parts, résultant d'une fusion ou d'une scissi
 V.-Les reports d'impositions mentionnés aux II, III et IV sont maintenus en cas d'échange de droits sociaux résultant d'une fusion ou d'une scission jusqu'à la date de cession, de rachat ou d'annulation des droits reçus lors de l'échange.
 
 VI.-Pour l'application des II à V, le ou les bénéficiaires du report d'imposition doivent joindre à la déclaration prévue à l'article 170 au titre de l'année au cours de laquelle les plus-values bénéficiant d'un report d'imposition sont réalisées et des années suivantes un état faisant apparaître les renseignements nécessaires au suivi des plus-values dont l'imposition est reportée. Un décret précise le contenu de cet état.
-
-NOTA :
-
-Loi n° 2007-1824 du 25 décembre 2007 art. 19 VI : L'article 19 de la loi n° 2007-1824 est applicable aux apports réalisés à compter du 1er janvier 2007.

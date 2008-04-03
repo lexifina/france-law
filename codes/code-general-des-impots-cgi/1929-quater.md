@@ -12,7 +12,7 @@ N'est pas soumise à la publicité la part de la taxe professionnelle correspond
 
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes, ainsi que pour les impôts directs et taxes assimilées recouvrés par les comptables de la direction générale des impôts.
 
-4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées.
+4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées et dépassent un seuil fixé par décret en fonction du chiffre d'affaires ou du montant des recettes.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le présent article à la charge de l'administration, quel que soit le montant du paiement.
 
@@ -27,3 +27,7 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 8 bis. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors que le débiteur s'est acquitté de sa dette.
 
 9. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 102 de la loi n° 2005-1720 du 30 décembre 2005.
