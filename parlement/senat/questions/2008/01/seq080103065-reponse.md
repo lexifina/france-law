@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103065
+
+- Question : [SEQ080103065](seq080103065.md) — Assistance juridique aux petites communes
+
+## Réponse
+
+*Intérieur, JO du 2008-04-03, page 670*
+
+Appliquant un souhait exprimé par le ministre de l'intérieur, l'article 97 de la loi n° 2007du 25 décembre 2007 de finances rectificative pour 2007 vient de créer au sein du comité des finances locales (CFL) une formation restreinte dénommée commission consultative d'évaluation des normes (CCEN). Cette commission doit permettre de mesurer l'impact financier des normes réglementaires s'imposant aux collectivités territoriales. Composée de représentants des administrations compétentes de l'Etat, du Parlement et des collectivités territoriales, et présidée par un représentant des collectivités territoriales, cette nouvelle commission est consultée, préalablement à leur adoption, sur l'impact financier des textes réglementaires créant ou modifiant des normes s'imposant aux collectivités territoriales, à leurs groupements et à leurs établissements publics. Sont exclues de cette consultation, les normes justifiées directement par la protection de la sûreté nationale. La commission d'évaluation des normes est par ailleurs chargée d'émettre un avis sur les propositions de textes communautaires ayant un impact technique et financier sur les collectivités territoriales, leurs groupements et leurs établissements publics. Le gouvernement peut la consulter sur tout projet de loi ou d'amendement ayant un impact technique et financier sur les collectivités territoriales et leurs établissements publics. Cette nouvelle commission est donc appelée à jouer aujourd'hui un rôle de concertation déterminant dans l'évaluation préalable de l'impact sur les collectivités territoriales de la production réglementaire de 1'Etat, répondant en cela aux préoccupations exprimées par les élus.
