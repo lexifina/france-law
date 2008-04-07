@@ -1,139 +1,321 @@
 # Article Annexe
 
-Échelons / Indices bruts
+ÉCHELONS
 
-Ingénieur subdivisionnaire
+|
 
-(A) : Situation antérieure.
+INDICES BRUTS
 
-(B) : Situation nouvelle à compter du 1er août 1993.
+|
 
-!------------------------!
+Ingénieur hospitalier en chef de classe exceptionnelle
 
-! ! Indices bruts !
+|
 
-!Echelons!---------------!
+|
 
-! ! A ! B !
+7e échelon
 
-!--------!-------!-------!
+|
 
-! 10e(+) ! - ! 750 !
+HEB
 
-! 9e ! 701 ! 710 !
+|
 
-! 8e ! 659 ! 668 !
+6e échelon
 
-! 7e ! 612 ! 621 !
+|
 
-! 6e ! 579 ! 588 !
+HEA
 
-! 5e ! 528 ! 540 !
+|
 
-! 4e ! 482 ! 492 !
+5e échelon
 
-! 3e ! 448 ! 458 !
+|
 
-! 2e ! 420 ! 430 !
+1015
 
-! 1er ! 379 ! 379 !
+|
 
-!--------!-------!-------!
+4e échelon
 
-(+) : Echelon créé à compter du 1er août 1993.
+|
 
-Ingénieurs principaux
+966
 
-!--------!--------!
+|
 
-!Echelons!Indices !
+3e échelon
 
-! ! bruts !
+|
 
-!--------!--------!
+901
 
-! 9e ! 966 !
+|
 
-! 8e ! 916 !
+2e échelon
 
-! 7e ! 864 !
+|
 
-! 6e ! 811 !
+830
 
-! 5e ! 759 !
+|
 
-! 4e ! 701 !
+1er échelon
 
-! 3e ! 641 !
+|
 
-! 2e ! 593 !
+750
 
-! 1er ! 541 !
+|
 
-!--------!--------!
+Ingénieur hospitalier en chef de classe normale
 
-Ingénieur en chef de 2e classe
+|
 
-!--------!--------!
+|
 
-!Echelons!Indices !
+10e échelon
 
-! ! bruts !
+|
 
-!--------!--------!
+966
 
-! 8e ! 771 !
+|
 
-! 7e ! 732 !
+9e échelon
 
-! 6e ! 681 !
+|
 
-! 5e ! 635 !
+901
 
-! 4e ! 581 !
+|
 
-! 3e ! 530 !
+8e échelon
 
-! 2e ! 480 !
+|
 
-! 1er ! 450 !
+852
 
-!--------!--------!
+|
 
-Ingénieur en chef de 1re classe
+7e échelon
 
-!--------!--------!
+|
 
-!Echelons!Indices !
+772
 
-! ! bruts !
+|
 
-!--------!--------!
+6e échelon
 
-! 4e ! 966 !
+|
 
-! 3e ! 901 !
+701
 
-! 2e ! 830 !
+|
 
-! 1er ! 750 !
+5e échelon
 
-!--------!--------!
+|
 
-Ingénieur en chef hors classe
+655
 
-!--------!--------!
+|
 
-!Echelons!Indices !
+4e échelon
 
-! ! bruts !
+|
 
-!--------!--------!
+612
 
-! 3e ! HEA !
+|
 
-! 2e ! 1015 !
+3e échelon
 
-! 1er ! 946 !
+|
 
-!--------!--------!
+562
+
+|
+
+2e échelon
+
+|
+
+513
+
+|
+
+1er échelon
+
+|
+
+450
+
+|
+
+Ingénieur hospitalier principal
+
+|
+
+|
+
+9e échelon
+
+|
+
+966
+
+|
+
+8e échelon
+
+|
+
+916
+
+|
+
+7e échelon
+
+|
+
+864
+
+|
+
+6e échelon
+
+|
+
+811
+
+|
+
+5e échelon
+
+|
+
+759
+
+|
+
+4e échelon
+
+|
+
+701
+
+|
+
+3e échelon
+
+|
+
+641
+
+|
+
+2e échelon
+
+|
+
+593
+
+|
+
+1er échelon
+
+|
+
+541
+
+|
+
+Ingénieur hospitalier
+
+|
+
+|
+
+10e échelon
+
+|
+
+750
+
+|
+
+9e échelon
+
+|
+
+710
+
+|
+
+8e échelon
+
+|
+
+668
+
+|
+
+7e échelon
+
+|
+
+621
+
+|
+
+6e échelon
+
+|
+
+588
+
+|
+
+5e échelon
+
+|
+
+540
+
+|
+
+4e échelon
+
+|
+
+492
+
+|
+
+3e échelon
+
+|
+
+458
+
+|
+
+2e échelon
+
+|
+
+430
+
+|
+
+1er échelon
+
+|
+
+379
+
+|
