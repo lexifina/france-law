@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102594
+
+- Question : [SEQ071102594](seq071102594.md) — Inquiétudes des producteurs et organisateurs de festivals d'art audiovisuel
+
+## Réponse
+
+*Culture, JO du 2008-04-10, page 715*
+
+Le soutien aux festivals et aux rencontres professionnelles est extrêmement structurant pour le secteur du cinéma et de l'audiovisuel. Ces manifestations, qui visent notamment à découvrir de nouveaux talents, à favoriser la diversité de la création et à mettre en lumière des cinématographies peu diffusées, doivent être encouragées. Jusqu'à présente le ministère de la culture et de la communication et le Centre national de la cinématographie (CNC) intervenaient l'un et l'autre en la matière. A partir de cette année, les interventions du ministère et du CNC seront mieux coordonnées. Ainsi, les festivals présentant un intérêt national et international seront soutenus par le CNC, ce qui est conforme à ses missions. De leur côté, les directions régionales des affaires culturelles (DRAC) se concentreront sur les manifestations d'intérêt local et régional. Le soutien à ces manifestations sera maintenu. En effet, le CNC va subventionner en 2008 une trentaine de manifestation d'intérêt national et international. Par ailleurs, les moyens budgétaires complémentaires qui ont été affectés au ministère de la culture et de la communication permettront aux DRAC de poursuivre leurs actions d'intérêt local et régional dans des conditions comparables à celles des années passées. Enfin, une mission a été confiée à Alain Auclaire, ancien président de l'école nationale supérieure des métiers de l'image et du son (FEMIS), afin de dresser un état des lieux du programme d'aide actuellement mis en oeuvre par le ministère de la culture et de la communication dans le domaine de l'éducation à l'image et de la diffusion culturelle cinématographique, et de formuler des propositions pour leur développement.
