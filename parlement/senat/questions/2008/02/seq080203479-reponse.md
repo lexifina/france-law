@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203479
+
+- Question : [SEQ080203479](seq080203479.md) — Respect de la parité lors de l'élection des vice-présidents des communautés de communes
+
+## Réponse
+
+*Intérieur, JO du 2008-04-10, page 724*
+
+L'article L. 2122-7-2 du code général des collectivités territoriales (CGCT), issu de la loi n° 2007-128 du 31 janvier 2007 tendant à promouvoir l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives, institue pour l'élection des adjoints au maire, dans les communes de 3 500 habitants et plus, un scrutin de liste sans panachage ni vote préférentiel, les listes devant être constituées selon le principe de parité entre les candidats de chaque sexe. L'article L. 5211-2 du même code rendant applicables au président et aux membres de l'organe délibérant des établissements publics de coopération intercommunale (EPCI), ou plus précisément aux membres du bureau, les dispositions relatives au maire et aux adjoints, il se pose la question de la transposition de l'article L. 2122-7-2 à ces établissements. A l'occasion des débats parlementaires relatifs à la loi du 31 janvier 2007 susvisée, il a été clairement affirmé, tant au Sénat qu'à l'Assemblée nationale, que la réforme de la désignation des délégués des EPCI ne pouvait être traitée dans ce cadre mais devait faire l'objet d'une réflexion particulière ultérieure. En tout état de cause, le renvoi opéré par l'article L. 5211-2 aux dispositions applicables au maire et aux adjoints ne joue qu'en tant qu'elles ne sont pas contraires aux dispositions du titre du CGCT concernant les EPCI. Or, les délégués étant désignés par les conseils municipaux, rien ne garantit que la parité sera assurée parmi les membres de l'organe délibérant. Il est donc impossible d'exiger, pour la constitution du bureau d'un EPCI, le respect de la parité. Le scrutin majoritaire à trois tours reste, en conséquence, en vigueur pour l'élection des membres du bureau des EPCI.
