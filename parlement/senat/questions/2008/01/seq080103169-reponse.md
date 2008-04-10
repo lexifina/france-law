@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103169
+
+- Question : [SEQ080103169](seq080103169.md) — Droit de préemption d'une commune sur un immeuble pour le démolir
+
+## Réponse
+
+*Écologie, JO du 2008-04-10, page 718*
+
+Le droit de préemption ne peut être exercé qu'en vue de la réalisation, dans l'intérêt général, des actions ou opérations répondant aux objets définis à l'article L. 300-1 du code de l'urbanisme, à l'exception de ceux visant à sauvegarder ou à mettre en valeur les espaces naturels, ou pour constituer des réserves foncières en vue de permettre la réalisation desdites actions ou opérations d'aménagement. Selon l'article L. 300-1 du code de l'urbanisme, les actions ou opérations d'aménagement ont pour objet de mettre en oeuvre un projet urbain, une politique locale de l'habitat, d'organiser le maintien, l'extension ou l'accueil des activités économiques, de favoriser le développement des loisirs et du tourisme, de réaliser des équipements collectifs, de lutter contre l'insalubrité, de permettre le renouvellement urbain, de sauvegarder ou de mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels. La jurisprudence considère que les travaux d'amélioration de la sécurité d'une voie communale ne constituent pas à eux seuls une opération d'aménagement au sens de l'article L. 300-1 du code de l'urbanisme (Conseil d'Etat, 30 juillet 1997, Ville d'Anger, n° 160469). Elle considère également que des travaux de redressement d'une voie publique ne peuvent justifier une décision de préemption si ces travaux ne sont pas indissociables d'une opération d'aménagement répondant aux objets définis à l'article L. 300-1 du code de l'urbanisme (Cour administrative d'appel de Nantes, 16 juin 1994, Dubois, n° 93NT00712). L'autorité compétente localement est bien sûr la mieux à même d'apprécier si la décision de préemption qu'elle envisage répond ou non à ces critères.
