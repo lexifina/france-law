@@ -12,21 +12,15 @@ Localisation de l'emploi
 
 |
 
-Nombre d'emplois
+Nombre d'emplois |
 
-|
-
-Nombre de points NBI
-
-|
+Nombre de points NBI |
 
 13
 
 |
 
-SGAP de Marseille.
-
-|
+SGAP de la zone de défense Sud |
 
 2
 
@@ -36,21 +30,15 @@ SGAP de Marseille.
 
 |
 
-21
+33 |
+
+SGAP de la zone de défense Sud-Ouest |
+
+2
 
 |
 
-Délégation régionale de Dijon.
-
-|
-
-1
-
-|
-
-30
-
-|
+50 |
 
 31
 
@@ -68,27 +56,11 @@ Délégation régionale de Toulouse.
 
 |
 
-33
-
-|
-
-SGAP du Sud-Ouest.
-
-|
-
-2
-
-|
-
-50
-
-|
-
 35
 
 |
 
-SGAP du Centre-Ouest.
+SGAP de la zone de défense Ouest.
 
 |
 
@@ -128,9 +100,7 @@ Directeur des affaires financières.
 
 |
 
-SGAP du Centre-Est.
-
-|
+SGAP de la zone de défense Est. |
 
 2
 
@@ -140,15 +110,49 @@ SGAP du Centre-Est.
 
 |
 
+21
+
+|
+
+Délégation régionale de Dijon.
+
+|
+
+1
+
+|
+
+30
+
+|
+
 59
 
 |
 
-SGAP du Nord.
+SGAP de la zone de défense Nord. |
 
 |
 
-2
+|
+
+|
+
+Directeur des ressources humaines.
+
+|
+
+1 |
+
+60
+
+|
+
+|
+
+Chargé de mission auprès du préfet délégué pour la sécurité et la défense. |
+
+1
 
 |
 
@@ -156,13 +160,25 @@ SGAP du Nord.
 
 |
 
+|
+
+Directeur de l'administration générale et des finances.
+
+|
+
+1
+
+|
+
+50
+
+|
+
 69
 
 |
 
-SGAP de Lyon.
-
-|
+SGAP de la zone de défense Sud-Est |
 
 2
 
@@ -176,7 +192,7 @@ SGAP de Lyon.
 
 |
 
-SGAP de Versailles.
+SGAP de Versailles
 
 |
 
@@ -202,9 +218,7 @@ Nombre d'emplois
 
 |
 
-Nombre de points NBI
-
-|
+Nombre de points NBI |
 
 13
 
@@ -348,9 +362,7 @@ Nombre d'emplois
 
 |
 
-Nombre de points NBI
-
-|
+Nombre de points NBI |
 
 63
 

@@ -16,13 +16,9 @@ Directions et services
 
 |
 
-Fonctions
+Fonctions |
 
-|
-
-Points NBI
-
-|
+Points NBI |
 
 Cabinet du ministre.
 
@@ -40,7 +36,7 @@ Direction des libertés publiques et des affaires juridiques.
 
 |
 
-Chef du bureau de la nationalité.
+Chef du bureau de la nationalité, des titres d'identité et de voyage.
 
 |
 
@@ -70,7 +66,7 @@ Adjoint au chef du bureau des procédures d'éloignement.
 
 |
 
-Chef du bureau du contentieux des polices et réglementations administratives et des libertés publiques.
+Chef du bureau du contentieux des polices administratives.
 
 |
 
@@ -80,9 +76,7 @@ Chef du bureau du contentieux des polices et réglementations administratives et
 
 |
 
-Chef du bureau de la responsabilité de l'administration, des dommages et de l'assurance.
-
-|
+Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières. |
 
 30
 
@@ -174,7 +168,7 @@ Chef du bureau des affaires juridiques.
 
 |
 
-Chef du bureau du budget, de la programmation et des finances.
+Chef du bureau du budget et de la programmation financière.
 
 |
 
@@ -184,9 +178,7 @@ Chef du bureau du budget, de la programmation et des finances.
 
 |
 
-Chef du bureau des personnels et des métiers.
-
-|
+Chef du bureau du personnel et des compétences. |
 
 30
 
@@ -284,7 +276,7 @@ Chef du bureau du recrutement et promotion professionnelle.
 
 |
 
-Chef du bureau des moyens de l'évaluation et de la prospective.
+Chef du bureau des affaires financières et de l'évaluation de la dépense.
 
 |
 
@@ -336,9 +328,7 @@ Direction générale des collectivités locales.
 
 |
 
-Chef du bureau financement des transferts de compétences.
-
-|
+Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. |
 
 30
 
@@ -346,9 +336,7 @@ Chef du bureau financement des transferts de compétences.
 
 |
 
-Chef du bureau de l'urbanisme, voirie et habitat.
-
-|
+Chef du bureau de l'emploi territorial et de la protection sociale. |
 
 30
 
@@ -356,19 +344,7 @@ Chef du bureau de l'urbanisme, voirie et habitat.
 
 |
 
-Chef du bureau de l'emploi territoriale et de la protection sociale.
-
-|
-
-30
-
-|
-
-|
-
-Chef de cabinet.
-
-|
+Chef de cabinet. |
 
 30
 
@@ -494,7 +470,7 @@ Chef du bureau des affaires juridiques.
 
 |
 
-50
+30
 
 |
 
