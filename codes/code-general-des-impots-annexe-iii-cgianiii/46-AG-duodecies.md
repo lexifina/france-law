@@ -4,17 +4,17 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 1. Pour les baux conclus en 2008, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 145 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 145 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
 2° 184 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
-Pour le calcul des plafonds, il est fait application :
+1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
-a) Dans les départements d'outre-mer et à Mayotte, de la dernière variation annuelle publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail ;
+1° Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte, de la dernière variation annuelle publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail ;
 
-b) En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au 1er décembre de l'année qui précède celle de la conclusion du bail ;
+2° En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au 1er décembre de l'année qui précède celle de la conclusion du bail ;
 
-c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Institut territorial de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
+3° En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Institut territorial de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
@@ -24,15 +24,13 @@ COMPOSITION DU FOYER DU LOCATAIRE
 
 |
 
-PLAFOND ANNUEL DE RESSOURCES
-
-(en euros)
+PLAFOND ANNUEL DE RESSOURCES (en euros)
 
 |
 
 |
 
-Départements d'outre-mer
+Départements d'outre-mer, Saint-Barthélemy, Saint-Martin
 
 et Mayotte
 
@@ -94,7 +92,7 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-61 300
+61 600
 
 |
 
