@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203588
+
+- Question : [SEQ080203588](seq080203588.md) — Propagation du frelon d'origine asiatique
+
+## Réponse
+
+*Agriculture, JO du 2008-04-17, page 764*
+
+Le frelon asiatique (Vespa velutina) est apparu récemment sur le territoire français et semble connaître une expansion très rapide. Sa présence a été signalée pour la première fois en Lot-et-Garonne en 2004 et fin 2007, il était observé dans plusieurs régions du Sud-Ouest de la France. Le frelon asiatique se nourrit notamment d'insectes et peut avoir un comportement de prédation vis-à-vis des abeilles domestiques, ce qui suscite l'inquiétude des apiculteurs. Conscients de l'inquiétude que peut soulever la présence et l'expansion de Vespa Velutina, les services du ministère de l'agriculture et de la pêche et du ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire ont réuni les services de développement apicole et les scientifiques concernés afin de réaliser un état des connaissances disponibles sur cette espèce. En 2007, une étude a été initiée par l'Association de développement apicole d'Aquitaine sur l'incidence du frelon asiatique sur les ruchers d'Aquitaine et a donné des premiers résultats. Des techniques de piégeage ont été notamment conçues et testées ainsi que des appâts. Cette étude d'assistance technique devrait se prolonger en 2008. Parallèlement, une étude de recherche appliquée menée par le Centre national de recherche scientifique (CNRS) et le Muséum national d'histoire naturelle (MNHN), sur la biologie, le comportement et l'impact de Vespa Velutina sur les abeilles sera également financée dans ce cadre. En fonction des résultats, les mesures les plus appropriées en termes d'environnement et d'apiculture seront prises en concertation entre les ministères concernés.
