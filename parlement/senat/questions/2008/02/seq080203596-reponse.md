@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203596
+
+- Question : [SEQ080203596](seq080203596.md) — Recours contre l'élection d'un président de communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2008-04-17, page 779*
+
+L'élection du président d'une communauté de communes, comme de tout autre membre du bureau d'un établissement public de coopération intercommunale, est soumise aux règles applicables aux maire et adjoints, en vertu des dispositions de l'article L. 5211-2 du code général des collectivités territoriales. Elle peut faire l'objet d'un recours en nullité dans les conditions, formes et délais prescrits pour les réclamations contre les élections du conseil municipal, conformément à l'article L. 2122-13 du code susvisé. Comme le rappelle le Conseil d'État dans sa décision n° 280149 du 5 octobre 2005 (communauté de communes du Val-Drouette), confirmant une jurisprudence constante, les désignations litigieuses auxquelles procède un conseil communautaire constituent des opérations électorales ; par suite, les requêtes qui les concernent ont le caractère de litiges en matière électorale, qui relèvent des règles applicables au contentieux de l'élection des conseillers municipaux. Or, en vertu de l'article L. 248 du code électoral, les électeurs, les éligibles et le préfet peuvent arguer de nullité devant le tribunal administratif les opérations électorales de la commune et, par conséquent, celles qui concernent un établissement public de coopération intercommunale dont la commune est membre. Les citoyens inscrits au rôle des contributions directes ou justifiant qu'ils devaient y être inscrits au 1er janvier de l'année de l'élection étant éligibles au conseil municipal en vertu de l'article L. 228 du code électoral, tout contribuable d'une commune membre d'un EPCI, comme tout électeur, peut demander au tribunal administratif l'annulation de l'élection du président de cet EPCI.
