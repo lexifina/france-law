@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901745
+
+- Question : [SEQ070901745](seq070901745.md) — Financement des manuels scolaires dans les collèges
+
+## Réponse
+
+*Éducation, JO du 2008-04-17, page 770*
+
+L'autorisation parlementaire détermine les ressources budgétaires mises à la disposition du ministère de l'éducation nationale pour l'accomplissement de la mission « enseignement scolaire » et le ministère chargé de l'éducation nationale doit s'assurer de la répartition équitable de ces moyens sur le territoire dans le cadre de la détermination des enveloppes académiques. Les crédits destinés aux dépenses pédagogiques - dont ceux consacrés aux manuels scolaires - dans les EPLE sont attribués aux autorités académiques sous la forme d'une enveloppe globale. Il convient de noter que les dotations attribuées aux recteurs dans le cadre de leur budget opérationnel de programme, sont une priorité pour le ministère de l'éducation nationale. Ces dotations ont ainsi progressé de plus de 4 % en 2007 par rapport à 2006 ; bien que l'effort de maîtrise de la dépense publique s'applique également au programme « enseignement scolaire public du second degré » dans le cadre de la loi de finances pour 2008, le ministère de l'éducation nationale s'est efforcé de préserver les dotations académiques en matière de subventions aux EPLE. En outre, dans le respect de l'autonomie des établissements, il n'existe pas de fléchage spécifique dédié aux manuels scolaires. Les EPLE ont toute latitude pour se constituer des réserves de crédits pour le renouvellement des manuels scolaires, chacun gérant de manière autonome en fonction des besoins de l'établissement. Enfin, en s'acquittant des droits de copie au Centre français d'exploitation du droit de la copie, les établissements concourent à indemniser les éditeurs lorsqu'ils ont recours à la photocopie.
