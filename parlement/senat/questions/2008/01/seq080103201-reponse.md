@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103201
+
+- Question : [SEQ080103201](seq080103201.md) — Sécurité des élèves de la maison d'éducation de la Légion d'honneur à Saint-Denis
+
+## Réponse
+
+*Intérieur, JO du 2008-04-17, page 777*
+
+Les services de police de Seine-Saint-Denis sont attentifs à la situation de la maison d'éducation de la Légion d'honneur. Situé dans le centre-ville de Saint-Denis, à proximité de la basilique et de l'hôtel de ville, cet établissement bénéficie de la présence régulière des effectifs de la brigade équestre et des compagnies républicaines de sécurité (CRS). La sécurité de ses locaux a été grandement améliorée par l'installation d'un système de vidéoprotection. En complément des mesures d'accompagnement des élèves, prises en charge par l'établissement, un dispositif policier est mis en place le dimanche soir pour sécuriser le cheminement des pensionnaires. Selon les circonstances, les sorties scolaires font l'objet de mesures similaires. En janvier 2007, une intervention de la mission de prévention et de sécurité urbaine de la direction départementale de la sécurité publique, réalisée à la demande de la surintendante de l'établissement, a permis, en outre, de dispenser des recommandations pour renforcer la sécurité des élèves et de leur encadrement. Par ailleurs, la sécurité dans les transports en commun d'Ile-de-France a fait l'objet d'importantes améliorations. Le service régional de police des transports, créé en 2002, assure une coordination permanente des services de police, de gendarmerie et des services de sécurité de la SNCF et de la RATP. Le meurtre d'une jeune femme commis dans le RER D au mois de novembre 2007 a cependant montré la nécessité de mesures complémentaires. C'est pourquoi la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales a demandé aux opérateurs concernés de renforcer le recours à la vidéosurveillance sur l'ensemble des réseaux de transports en commun.
