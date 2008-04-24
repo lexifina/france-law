@@ -1,0 +1,59 @@
+# Article Annexe I
+
+LISTE DES VOIES ROUTIÈRES OU AUTOROUTIÈRES SUR LESQUELLES LES MISSIONS DE SÉCURITÉ
+
+ET DE PAIX PUBLIQUES SONT ASSURÉES PAR LES SERVICES DE LA GENDARMERIE NATIONALE
+
+DÉPARTEMENT
+
+|
+
+LOCALISATION
+
+|
+
+AXE
+
+|
+
+DÉTAIL
+
+|
+
+PRISE D'EFFET
+
+|
+
+(49) Maine-et-Loire.
+
+|
+
+Angers.
+
+|
+
+A 11.
+
+|
+
+Commune d'Angers : du PR 262 au PR 266.
+
+|
+
+24 avril 2008
+
+|
+
+|
+
+Avrillé.
+
+|
+
+|
+
+Commune d'Avrillé : du PR 266 au PR 269 + 200.
+
+|
+
+|
