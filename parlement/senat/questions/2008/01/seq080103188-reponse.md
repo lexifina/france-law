@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103188
+
+- Question : [SEQ080103188](seq080103188.md) — Éoliennes et fiscalité locale
+
+## Réponse
+
+*Écologie, JO du 2008-04-24, page 825*
+
+Conformément au 1° de l'article 1381 du code général des impôts, sont imposables à la taxe foncière sur les propriétés bâties les ouvrages en maçonnerie présentant le caractère de véritables constructions. Tel est le cas du socle en béton des éoliennes terrestres utilisées pour la production d'électricité dans le cadre d'une centrale électrique. S'agissant des mâts de soutien de ces installations, leurs modalités d'imposition dépendent de leurs caractéristiques propres. Ainsi, les mâts boulonnés au socle en béton ne constituent pas un élément de l'éolienne imposable à la taxe foncière sur les propriétés bâties. En revanche, dès lors que ces mâts sont fixés à perpétuelle demeure aux socles en béton, ils constituent un élément de l'ouvrage et sont situés dans le champ d'application de la taxe foncière sur les propriétés bâties. Cependant, ils sont exonérés de cette taxe sur le fondement de l'article 1382-1° du code précité, dès lors que l'éolienne constitue un moyen d'exploitation d'un établissement industriel. Quant aux parties mécaniques (pales) et électriques des éoliennes, elles sont, en raison de leurs caractéristiques physiques, situées hors du champ d'application de la taxe. Au regard de la taxe locale d'équipement, la nacelle et le local technique d'une éolienne, dans lesquels un homme peut se mouvoir, sont des constructions constitutives de surface de plancher hors oeuvre nette (SHON). La loi n'ayant pas prévu d'exonération de taxe locale d'équipement en faveur des éoliennes, la SHON des constructions précitées doit être assujettie à cette taxe, en application de l'article 317 septies de l'annexe II au code général des impôts, dans la troisième catégorie (locaux industriels) de l'article 1585-D-I du même code.
