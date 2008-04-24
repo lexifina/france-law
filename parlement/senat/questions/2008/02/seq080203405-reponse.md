@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203405
+
+- Question : [SEQ080203405](seq080203405.md) — Corps des chargés d'études documentaires
+
+## Réponse
+
+*Fonction publique, JO du 2008-04-24, page 828*
+
+L'architecture de la filière culturelle de la fonction publique territoriale et le positionnement des cadres d'emplois qui la composent ont fait récemment l'objet d'un rapport rédigé par la formation spécialisée n° 3 du Conseil supérieur de la fonction publique territoriale. Ce rapport, qui a reçu au cours de la séance plénière du 20 février dernier un avis favorable à l'unanimité, préconise de doter les cadres d'emplois de bibliothécaires territoriaux et d'attachés territoriaux de conservation du patrimoine d'un grade d'avancement : aujourd'hui structurés en un grade unique culminant à l'indice brut 780, ces cadres d'emplois verraient leur rémunération maximale revalorisée à l'indice brut 966. À l'appui de cette proposition, le rapport met en évidence les freins à la mobilité nés de l'absence d'homologie entre les corps de chargés d'études documentaires de la fonction publique de l'État, et les cadres d'emplois territoriaux dont le déroulement de carrière est moins attractif. Une instruction des orientations préconisées par ce rapport sera conduite par les services des ministres respectivement chargés des collectivités territoriales et de la fonction publique. Une réflexion sera ainsi engagée sur le positionnement que pourraient occuper les agents titulaires de ces nouveaux grades d'avancement, au regard des missions exercées par les agents relevant des cadres d'emplois de conservateurs. Il sera également tenu compte des éventuelles incidences que pourrait avoir cette réforme sur le déroulement de carrière d'agents relevant d'autres corps de la fonction publique de l'État et exerçant des fonctions comparables, notamment celui des bibliothécaires.
