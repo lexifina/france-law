@@ -16,7 +16,7 @@ A. Fonctions exercées en administration centrale :
 
 7° Délégué adjoint ;
 
-8° Directeur de projet.
+8° Expert de haut niveau ou directeur de projet.
 
 B.-Fonctions de directeur ou d'administrateur général exercées dans les services à compétence nationale et services extérieurs à compétence nationale suivants :
 

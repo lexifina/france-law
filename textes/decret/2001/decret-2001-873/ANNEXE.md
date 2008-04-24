@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1° Chef du service de l'inspection générale de l'environnement.
 
@@ -12,8 +12,8 @@ A. - Fonctions exercées en administration centrale
 
 5° Chef d'un département ou d'une mission directement rattaché au directeur général ou à un directeur.
 
-6° Directeur de projet.
+6° Expert de haut niveau ou directeur de projet.
 
-B. - Fonctions exercées en direction régionale de l'environnement
+B.-Fonctions exercées en direction régionale de l'environnement
 
 Directeur régional de l'environnement.

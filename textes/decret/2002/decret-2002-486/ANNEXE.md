@@ -10,6 +10,6 @@
 
 5° Directeur adjoint.
 
-6° Directeur de projet.
+6° Expert de haut niveau ou directeur de projet.
 
 7° Sous-directeur, chef de service adjoint.
