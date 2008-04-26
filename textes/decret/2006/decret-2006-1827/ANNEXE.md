@@ -34,9 +34,9 @@ Corps des attachés économiques.
 
 Corps des personnels scientifiques de laboratoire du ministère de l'économie, des finances et de l'industrie.
 
-Ministère de l'éducation nationale, de l'enseignement supérieur
+Corps des attachés statisticiens de l'Institut national de la statistique et des études économiques.
 
-et de la recherche
+Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
 Corps des bibliothécaires.
 
@@ -60,6 +60,8 @@ Corps des greffiers en chef des services judiciaires.
 
 Corps des psychologues de la protection judiciaire de la jeunesse.
 
+Corps des directeurs des services de la protection judiciaire de la jeunesse.
+
 Ministère de la santé et des solidarités
 
 Corps des ingénieurs du génie sanitaire.
@@ -77,5 +79,3 @@ Corps des ingénieurs des travaux de la météorologie.
 Corps des délégués au permis de conduire et à la sécurité routière.
 
 Corps des ingénieurs des travaux géographiques et cartographiques de l'Etat.
-
-Corps des attachés statisticiens de l'Institut national de la statistique et des études économiques.
