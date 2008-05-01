@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203599
+
+- Question : [SEQ080203599](seq080203599.md) — Application de l'assurance contre les accidents du travail et les maladies professionnelles
+
+## Réponse
+
+*Agriculture, JO du 2008-05-01, page 870*
+
+Conformément aux dispositions des articles L. 752-1, R. 752-1 et D. 752-1-1 du code rural, les personnes qui exploitent des terres dont la superficie est supérieure au cinquième et inférieure à la moitié de la surface minimum d'installation (SMI) sont assurées à titre obligatoire au régime des accidents du travail et des maladies professionnelles à compter du 1er janvier 2008. L'articulation de ces nouvelles dispositions avec les règles sur le cumul emploi-retraite prévues à l'article L. 731-39 du code rural permet d'exclure du champ de cette affiliation obligatoire les chefs d'exploitation agricoles retraités qui poursuivent l'exploitation d'une parcelle réduite de terres, dont l'importance, en tout état de cause, ne peut dépasser la limite maximale d'un cinquième de la SMI. Par souci d'équité, il avait été admis que la superficie autorisée serait appréciée de manière définitive à la date d'effet de la retraite et qu'en conséquence il n'y aurait pas lieu de réexaminer les dossiers de retraite déjà liquidés, dans le cas d'une révision à la baisse des valeurs de la SMI fixées dans le schéma directeur départemental des structures agricoles. Par assimilation, il convient de considérer que les chefs d'exploitation agricoles retraités, dont la superficie mise en valeur ne dépassait pas le seuil d'un cinquième de la liquidation de leur retraite, sont exclus du champ d'application du régime des accidents du travail et des maladies professionnelles, y compris lorsque leurs terres dépassent par la suite le maximum autorisé du fait d'une révision à la baisse des valeurs de la SMI.
