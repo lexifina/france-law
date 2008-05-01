@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103191
+
+- Question : [SEQ080103191](seq080103191.md) — Retraite des femmes fonctionnaires ayant élevé trois enfants
+
+## Réponse
+
+*Fonction publique, JO du 2008-05-01, page 874*
+
+Afin de mettre l'article L. 24 (3°-I) du code des pensions en conformité avec le droit communautaire, l'article 136 de la loi de finances pour 2004 a modifié l'ancien dispositif de retraite anticipée réservé aux femmes fonctionnaires mères de trois enfants. En application du principe d'égalité des rémunérations défini par la réglementation européenne, ce droit a été étendu aux hommes fonctionnaires et est subordonné à une condition nouvelle d'interruption d'activité fixée à deux mois par le décret n° 2005-449 du 10 mai 2005. Pour bénéficier du nouveau dispositif, trois conditions cumulatives doivent être remplies : justifier de quinze années au moins de services publics effectifs ; être parent d'au moins trois enfants (légitimes, naturels ou adoptés) ou d'un enfant vivant reconnu handicapé à 80 % ; justifier, à l'occasion de la naissance, de l'adoption ou de l'arrivée de l'enfant au foyer, d'une période minimale continue de deux mois d'interruption de son activité. Les enfants recueillis au foyer, comme les enfants du conjoint issus d'un mariage précédent, sont également pris en compte, à condition d'avoir été élevés selon les modalités prévues à l'article L. 18 du code des pensions, c'est-à-dire pendant neuf ans au moins avant leur seizième anniversaire ou avant l'âge auquel ils ont cessé d'être à charge au sens du code de la sécurité sociale. Le dispositif en vigueur ne méconnaît donc pas les évolutions de la société et l'augmentation du nombre de familles recomposées. En revanche, la condition de deux mois d'interruption d'activité est exigée dans toutes les situations. Une dérogation à ce principe dans un cas particulier créerait une inégalité et un déséquilibre injustifiés. Aucun assouplissement de ce dispositif n'est envisagé.
