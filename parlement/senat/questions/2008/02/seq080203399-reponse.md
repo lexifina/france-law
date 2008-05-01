@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203399
+
+- Question : [SEQ080203399](seq080203399.md) — Retraites des anciens exploitants agricoles
+
+## Réponse
+
+*Agriculture, JO du 2008-05-01, page 868*
+
+Le Gouvernement est conscient que malgré les avancées obtenues depuis 2003, qui ont déjà permis d'améliorer très sensiblement la situation des agriculteurs retraités, certains d'entre eux perçoivent des pensions d'un montant très insuffisant. C'est particulièrement le cas des conjoints et des veuves. Le Président de la République s'est engagé à ce qu'une revalorisation de l'ensemble des petites retraites aboutisse avant la fin du premier semestre 2008. Deux premières mesures ont été annoncées : la revalorisation de 25 % sur cinq ans du minimum vieillesse et l'augmentation de 54 à 60 % du taux de réversion, qui permettra une revalorisation sensible des pensions de nombreuses veuves d'agriculteurs. Dans le cadre d'un groupe de travail qu'il a réuni pendant les mois de février et mars, le ministre de l'agriculture et de la pêche a engagé une consultation avec les associations de retraités et les organisations professionnelles pour passer en revue les mesures spécifiques qui pourraient s'appliquer aux petites retraites agricoles, en mesure le coût ainsi que les conditions de leur financement. Les participants ont proposé de donner la priorité aux situations les plus difficiles, notamment celles des retraités à carrière incomplète, des conjoints, et des veuves qui sont jusqu'ici restés à l'écart des revalorisations successives, et de veiller à la pérennité financière du régime. Les propositions issues de leurs travaux seront examinées dans le cadre du rendez-vous sur les retraites qui associera dans les semaines à venir l'ensemble des partenaires sociaux. Le ministre de l'agriculture et de la pêche veillera à ce que la situation des retraités de l'agriculture les plus modestes soit convenablement prise en compte.
