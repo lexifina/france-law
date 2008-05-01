@@ -10,6 +10,10 @@ II. - Peuvent bénéficier des dispositions du I :
 
 2° Les organismes sans but lucratif à caractère cultuel ;
 
-3° Les syndicats professionnels et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail ;
+3° Les syndicats professionnels et leurs unions mentionnés au titre III du livre Ier de la deuxième partie du code du travail ;
 
 4° Les comités d'entreprise.
+
+NOTA :
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.

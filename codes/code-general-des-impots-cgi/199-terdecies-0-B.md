@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 B
 
-I. - Les contribuables domiciliés fiscalement en France au sens de l'article 4 B peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 25 % du montant des intérêts des emprunts contractés pour acquérir, dans le cadre d'une opération de reprise, une fraction du capital d'une société dont les titres ne sont pas admis aux négociations sur un marché réglementé français ou étranger.
+I.-Les contribuables domiciliés fiscalement en France au sens de l'article 4 B peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 25 % du montant des intérêts des emprunts contractés pour acquérir, dans le cadre d'une opération de reprise, une fraction du capital d'une société dont les titres ne sont pas admis aux négociations sur un marché réglementé français ou étranger.
 
 Cette réduction d'impôt s'applique lorsque les conditions suivantes sont remplies :
 
@@ -14,13 +14,13 @@ d) La société reprise a son siège en France ou dans un autre Etat membre de l
 
 e) Le chiffre d'affaires hors taxes de la société reprise n'a pas excédé 40 millions d'euros ou le total du bilan n'a pas excédé 27 millions d'euros au cours de l'exercice précédant l'acquisition.
 
-II. - Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 10 000 Euros pour les contribuables célibataires, veufs ou divorcés et de 20 000 Euros pour les contribuables mariés soumis à imposition commune.
+II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 10 000 euros pour les contribuables célibataires, veufs ou divorcés et de 20 000 euros pour les contribuables mariés soumis à imposition commune.
 
-III. - Les titres dont l'acquisition a ouvert droit à la réduction d'impôt ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne prévu au chapitre III du titre IV du livre IV du code du travail.
+III.-Les titres dont l'acquisition a ouvert droit à la réduction d'impôt ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne prévu au titre III du livre III de la troisième partie du code du travail.
 
-IV. - Les dispositions du 5 du I de l'article 197 sont applicables aux réductions d'impôt prévues au présent article.
+IV.-Les dispositions du 5 du I de l'article 197 sont applicables aux réductions d'impôt prévues au présent article.
 
-V. - Les réductions d'impôt obtenues font l'objet d'une reprise :
+V.-Les réductions d'impôt obtenues font l'objet d'une reprise :
 
 1° Lorsque l'engagement mentionné au a du I est rompu, au titre de l'année au cours de laquelle intervient cette rupture ;
 
@@ -28,4 +28,8 @@ V. - Les réductions d'impôt obtenues font l'objet d'une reprise :
 
 Sous réserve de la condition mentionnée au d du I, ces dispositions ne s'appliquent pas en cas d'invalidité correspondant au classement dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du décès de l'acquéreur.
 
-VI. - En cas de cession des titres ou de non-respect de l'une des conditions mentionnées aux b, c ou d du I au-delà du 31 décembre de la cinquième année suivant celle de l'acquisition, la réduction d'impôt n'est plus applicable à compter du 1er janvier de l'année considérée.
+VI.-En cas de cession des titres ou de non-respect de l'une des conditions mentionnées aux b, c ou d du I au-delà du 31 décembre de la cinquième année suivant celle de l'acquisition, la réduction d'impôt n'est plus applicable à compter du 1er janvier de l'année considérée.
+
+NOTA :
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
