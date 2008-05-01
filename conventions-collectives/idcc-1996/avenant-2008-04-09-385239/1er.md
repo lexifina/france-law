@@ -1,0 +1,53 @@
+# Article 1er
+
+Les dispositions de l'article 4 « Gardes et urgences » de l'accord collectif national susvisé sont remplacées par les dispositions suivantes :
+
+« Article 4
+
+Gardes et urgences
+
+a) Dispositions communes
+
+La programmation individuelle des services de garde et d'urgence doit être portée à la connaissance de chaque salarié concerné 15 jours à l'avance, sauf circonstances exceptionnelles et sous réserve, dans ce dernier cas, que le salarié en soit averti au moins 2 jours ouvrables à l'avance.
+
+Un salarié qui accomplit un service de garde ou d'urgence, quelle qu'en soit la modalité, doit bénéficier d'un repos quotidien d'une durée minimum de 11 heures consécutives.
+
+b) Gardes et urgences à volets ouverts
+
+Les heures de permanence effectuées dans l'officine un jour ouvrable, pendant un service de garde ou d'urgence à volets ouverts tel que défini à l'article L. 5125-22 du code de la santé publique, constituent une période de travail effectif rémunérée sur la base de 100 % du temps passé.
+
+Les heures de permanence effectuées pendant un service de garde ou d'urgence à volets ouverts, un dimanche ou un jour férié autre que le 1er Mai, donnent droit pour le salarié au versement d'une indemnité de sujétion dont le montant brut est égal à une fois et demie la valeur du point conventionnel de salaire par heure de présence. En outre, ces heures de permanence ouvrent droit au bénéfice d'un repos compensateur d'égale durée, conformément aux dispositions de l'article 13 de la convention collective nationale de la pharmacie d'officine.
+
+Les heures de permanence effectuées pendant un service de garde ou d'urgence à volets ouverts le 1er Mai donnent droit pour le salarié, en plus du salaire correspondant au travail effectué et de l'indemnité égale au montant de ce salaire prévue par l'article 13 de la convention collective nationale de la pharmacie d'officine, à un repos compensateur d'égale durée.
+
+En outre, les heures de permanence effectuées dans l'officine pendant un service de garde ou d'urgence à volets ouverts donnent lieu, le cas échéant, et quel que soit le jour de leur accomplissement, aux majorations pour heures de nuit définies à l'article 13 de la convention collective nationale de la pharmacie d'officine ainsi qu'aux majorations ou bonifications prévues par l'article 3.5 du présent accord en cas d'accomplissement d'heures supplémentaires.
+
+c) Gardes et urgences à volets fermés
+
+Les heures de permanence effectuées dans l'officine un jour ouvrable, pendant un service de garde ou d'urgence à volets fermés tel que défini à l'article L. 5125-22 du code de la santé publique, constituent une période de travail effectif. Elles sont indemnisées forfaitairement sur la base de 25 % du temps passé pour les seuls salariés occupés à temps plein, conformément aux dispositions du décret n° 2002-386 du 21 mars 2002 relatif à la durée du travail dans les pharmacies d'officine pendant un service de garde ou d'urgence à volets fermés. Les salariés à temps partiel étant exclus de ce dispositif, ils sont rémunérés sur la base de 100 % du temps passé.
+
+Les heures de permanence effectuées pendant un service de garde ou d'urgence à volets fermés, un dimanche ou un jour férié autre que le 1er Mai donnent droit pour le salarié au versement d'une indemnité de sujétion dont le montant brut est égal à une fois et demie la valeur du point conventionnel de salaire par heure de présence. En outre, ces heures de permanence ouvrent droit au bénéfice du repos compensateur d'égale durée mentionné à l'article 13 de la convention collective nationale de la pharmacie d'officine, sans qu'il soit fait, pour le calcul de la durée de ce repos, application du régime d'heures d'équivalence prévu au présent article.
+
+Les heures de permanence effectuées pendant un service de garde ou d'urgence à volets fermés le 1er Mai donnent lieu, en plus du salaire correspondant au travail effectué, au versement d'une indemnité égale au montant de ce salaire conformément aux dispositions de l'article 13 de la convention collective nationale de la pharmacie d'officine. Cette indemnité est calculée selon le régime d'heures d'équivalence défini par le présent article. Le salarié bénéficie, en outre, d'un repos compensateur d'une durée égale à celle de la garde, sans qu'il soit fait application du régime d'heures d'équivalence pour le calcul de cette durée.
+
+Dans tous les cas, il est accordé au personnel présent dans l'officine l'indemnité spéciale pour dérangement mentionnée à l'article 13 de la convention collective nationale de la pharmacie d'officine.
+
+Les heures de permanence effectuées dans l'officine pendant un service de garde ou d'urgence à volets fermés donnent lieu, le cas échéant, aux majorations ou bonifications prévues par l'article 3.5 du présent accord en cas d'accomplissement d'heures supplémentaires.
+
+En toute hypothèse, les majorations pour heures de nuit définies à l'article 13 de la convention collective nationale de la pharmacie d'officine ne sont jamais dues.
+
+d) Astreintes
+
+Les périodes pendant lesquelles le salarié est tenu de rester à domicile ou à proximité afin d'être en mesure d'intervenir pour assurer un service de garde ou d'urgence constituent des périodes d'astreinte.
+
+En cas d'astreinte un jour ouvrable, le salarié perçoit, pour chaque heure d'astreinte et après déduction du temps passé en intervention, une indemnisation forfaitaire égale à 10 % de son salaire horaire. Le temps passé en intervention (trajet aller-retour domicile-officine et activité dans l'officine) est considéré comme un temps de travail effectif. La rémunération due à ce titre est calculée sur la base de 100 % du temps d'intervention.
+
+En cas d'astreinte le dimanche ou un jour férié autre que le 1er Mai, le salarié perçoit, pour chaque heure d'astreinte et après déduction du temps passé en intervention, l'indemnisation forfaitaire de 10 % mentionnée à l'alinéa précédent. Le temps passé en intervention ouvre droit, quant à lui, à l'octroi d'un repos compensateur d'égale durée, conformément aux dispositions de l'article 13 de la convention collective nationale de la pharmacie d'officine.
+
+En cas d'astreinte le 1er Mai, le salarié perçoit, pour chaque heure d'astreinte et après déduction du temps passé en intervention, une indemnisation forfaitaire égale à 10 % de son salaire horaire. Le temps passé en intervention donne droit, quant à lui, en plus du salaire correspondant au travail effectué, à une indemnité égale au montant de ce salaire, conformément aux dispositions de l'article 13 de la convention collective nationale de la pharmacie d'officine, ainsi qu'à un repos compensateur d'égale durée.
+
+Le temps d'intervention durant une astreinte donne lieu, le cas échéant, à l'application des majorations ou bonifications prévues par l'article 3.5 du présent accord en cas d'accomplissement d'heures supplémentaires.
+
+Dans tous les cas, l'indemnité spéciale pour dérangement et les majorations pour heure de nuit prévues à l'article 13 de la convention collective nationale de la pharmacie d'officine ne sont jamais dues.
+
+En fin de mois, l'employeur doit remettre à chaque salarié concerné un document récapitulant le nombre d'heures d'astreinte effectuées par celui-ci au cours du mois écoulé ainsi que la compensation correspondante. »
