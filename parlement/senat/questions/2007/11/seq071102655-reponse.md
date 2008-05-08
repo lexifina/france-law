@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102655
+
+- Question : [SEQ071102655](seq071102655.md) — Conditions d'attribution de la majoration pour enfants aux conjoints de fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 2008-05-08, page 923*
+
+L'article L. 38 du code des pensions accorde effectivement au conjoint d'un fonctionnaire décédé une pension de réversion égale à 50 % de la pension obtenue par ce fonctionnaire et, le cas échéant, la moitié de la majoration pour enfants affectée à la pension en application de l'article L. 18 du même code. Cette majoration représente un pourcentage de la pension principale (10 % pour 3 enfants). Dès lors, les deux éléments ne peuvent être dissociés et subissent en même temps l'abattement de 50 % prévu en matière de réversion. Conserver le niveau initial de la majoration pour enfants dans une pension de réversion, dont seul le montant principal serait diminué de moitié, reviendrait à rompre totalement cette logique. Il est rappelé que, dans un ménage de fonctionnaires, chaque retraité peut bénéficier de la majoration pour enfants. L'hypothèse envisagée précédemment l'avantagerait particulièrement, au détriment d'un couple dont l'un des membres n'est pas fonctionnaire. De plus, avantager un des membres du couple, sur la base de son sexe, reviendrait à rompre le principe d'égalité homme/femme imposé par la jurisprudence constante de la Cour de justice des communautés européennes (cf. arrêt Griesmar du 29 novembre 2001). Cette mesure serait, par ailleurs, en contradiction avec l'objectif d'une harmonisation entre les régimes de retraite, poursuivi lors de la réforme de 2003 et encore d'actualité pour la deuxième phase de la réforme prévue au deuxième trimestre 2008. En outre, en raison de l'évolution de la société, nombre de veufs (ou de veuves) disposent de ressources personnelles que la pension de réversion ne fait que compléter.
