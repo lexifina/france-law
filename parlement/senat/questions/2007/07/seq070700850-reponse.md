@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700850
+
+- Question : [SEQ070700850](seq070700850.md) — Amélioration de la liaison ferroviaire Baudrecourt-Sarrebruck-Francfort
+
+## Réponse
+
+*Transports, JO du 2008-05-08, page 929*
+
+L'amélioration de la voie ferrée entre Baudrecourt, Saint-Avold et Sarrebruck a fait l'objet de plusieurs études de la part de la SNCF puis de RFF. Celles-ci montrent en particulier que des investissements sur cette ligne, même importants, n'amélioreraient pas sensiblement les temps de trajet, et ne seraient donc pas de nature à modifier les itinéraires actuels et futurs après la mise en service de la seconde phase de la LGV Est européenne. Depuis l'ouverture de la ligne à grande vitesse Est européenne, six trains circulent quotidiennement entre la France et l'Allemagne, opérés respectivement par la Deutsche Bahn et la SNCF : trois TGV passent par Strasbourg en direction de Munich, trois ICE traversent la frontière à Sarrebruck en direction de Francfort. Il n'existe donc aucun train en direction de Francfort passant par Strasbourg. L'équilibre entre les deux itinéraires est parfaitement respecté et n'a pas vocation à être remis en cause. D'une part, le trajet Paris-Francfort est plus court par Sarrebruck, et donc moins onéreux pour les opérateurs ferroviaires, d'autre part, les travaux menés sur le territoire allemand permettront de réduire la durée de trajet de Sarrebruck à Mannheim à soixante neuf minutes. Ces travaux, d'un montant de 400 millions d'euros, ont été présentés, à l'occasion du premier comité de pilotage en vue de la construction du pont de Khel sur le Rhin. Ils consistent, notamment, à rénover complètement les sections Saint-Ingbert-Geistkircherhof et Neustadt-Ludwigshafen, afin de porter la vitesse à 160 km/h sur la quasi totalité de la ligne Sarrebruck-Mannheim.
