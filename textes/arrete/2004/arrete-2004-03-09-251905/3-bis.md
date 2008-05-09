@@ -1,8 +1,10 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de technicien (ne) supérieur (e) en méthodes et exploitation logistique selon le tableau de correspondance figurant ci-dessous.
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de technicien (ne) supérieur (e) en méthodes et exploitation logistique selon le tableau de correspondance figurant ci-dessous :
 
-TECHNICIEN (NE) SUPÉRIEUR (E) EN MÉTHODES
+TECHNICIEN SUPÉRIEUR
+
+en méthodes
 
 et exploitation logistique
 
@@ -10,7 +12,9 @@ et exploitation logistique
 
 |
 
-TECHNICIEN (NE) SUPÉRIEUR (E) EN MÉTHODES
+TECHNICIEN SUPÉRIEUR
+
+en méthodes
 
 et exploitation logistique
 
@@ -30,7 +34,7 @@ Préparer et conduire les évolutions du site logistique.
 
 |
 
-Préparer et conduire les évolutions du site logistique.
+Organiser le suivi d'un projet sur le site logistique.
 
 |
 
@@ -38,7 +42,7 @@ Elaborer des solutions techniques et économiques en réponse aux demandes des c
 
 |
 
-Elaborer des solutions optimisées en termes de qualité / service / coût en réponse aux demandes des clients et des donneurs d'ordres, y compris en anglais.
+Elaborer des solutions optimisées en termes de qualité/service/coût en réponse aux demandes des clients et des donneurs d'ordres, y compris en anglais.
 
 |
 
