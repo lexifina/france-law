@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700603
+
+- Question : [SEQ070700603](seq070700603.md) — Projet de construction d'une salle des fêtes à proximité d'un oléoduc
+
+## Réponse
+
+*Écologie, JO du 2008-05-15, page 960*
+
+Les dispositions encadrant l'évolution de l'urbanisation à proximité des canalisations de transport existantes sont fixées par l'article L. 121-2 du code de l'urbanisme introduit par la loi n° 2000-1208 du 13 décembre 2000 et complété par la loi n° 2004-809 du 13 août 2004. Cet article prévoit désormais que le préfet porte à la connaissance des communes ou de leurs groupements les études techniques dont dispose l'État en matière de prévention des risques et de protection de l'environnement, afin que celles-ci puissent exercer leurs compétences en matière d'urbanisme en toute connaissance de cause. Ce sont en effet ces études de dangers qui permettent de déterminer elles-mêmes, au cas par cas, les distances minimales que le constructeur doit respecter par rapport aux canalisations. S'agissant des valeurs des distances de danger engendrées par les canalisations, les exploitants concernés sont soumis à une mise à jour de leurs études de sécurité qui doit intervenir au plus tard le 15 septembre 2009, conformément à l'article 19 du règlement de sécurité « multifluide » défini par un arrêté ministériel du 4 août 2006. La fourniture de ces éléments à la direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE) permettra de préciser le porter à connaissance et en particulier les valeurs de ces distances. Ce mécanisme explique que les distances minimales à respecter puissent être affinées, à mesure que sont élaborées les études de dangers elles-mêmes. Dans le cas d'espèce, les services n'ont pas appliqué par anticipation une évolution de la législation ; à législation constante, ils ont tenu compte de l'évolution des conclusions des études de dangers.
