@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303709
+
+- Question : [SEQ080303709](seq080303709.md) — Suppression des cours le samedi matin
+
+## Réponse
+
+*Éducation, JO du 2008-05-15, page 963*
+
+Avec la suppression des cours du samedi matin dans toutes les écoles dès la rentrée 2008, l'enseignement se fera désormais du lundi au vendredi. Le samedi matin est donc rendu aux familles qui, dans leur très grande majorité, souhaitent disposer de deux journées pleines pour se retrouver. Avec cette nouvelle organisation de la semaine, la durée hebdomadaire de l'instruction obligatoire passera, pour tous les élèves, de 26 heures à 24 heures, soit un total de 864 heures d'enseignement par an, ce qui reste bien supérieur à la durée moyenne d'enseignement dans les pays qui obtiennent les meilleures performances scolaires. Aux termes du protocole d'accord qui a été conclu par le ministre de l'Education nationale avec deux organisations syndicales du premier degré, ces deux heures ne seront pas perdues pour les élèves, mais réinvesties sous forme d'aide personnalisée aux élèves en difficulté ou de travail en petit groupe. Cela implique une modification substantielle du service horaire des enseignants du premier degré qui se composera désormais de 24 heures hebdomadaires d'enseignement en groupe classe et de 108 heures annuelles consacrées à différentes tâches, telles que l'aide directe aux élèves en difficulté, le travail en équipe, la relation avec les familles, l'implication dans un projet personnalisé de scolarisation d'un élève handicapé ou encore l'animation pédagogique, la formation et la participation aux conseils. Dès la rentrée 2008, la nouvelle organisation du temps scolaire s'articulera autour de la semaine de quatre jours (lundi, mardi, jeudi, vendredi). Cependant, pour tenir compte des diversités locales, des aménagements pourront y être apportés afin de répartir les heures d'enseignement sur neuf demi-journées, excluant le samedi.
