@@ -4,13 +4,13 @@ Liste des espèces non domestiques dont la détention est soumise à autorisatio
 
 et dont le marquage est obligatoire, au sein des élevages d'agrément
 
-(Pour les mammifères, la taxonomie de référence est celle de Wilson et Reeder :
+Pour la taxonomie, les références bibliographiques sont :
 
-Mammal species of the world, édition de 1993)
+1. Pour les mammifères : Mammal Species of the World de Wilson et Reeder, édition de 2005 ;
 
-(Pour les oiseaux, la taxonomie de référence est celle de Howard et Moore :
+2. Pour les oiseaux : The Howard and Moore complete Checklist of the Birds of the World de Howard et Moore, édition de 2003 ;
 
-A complete checklist of the birds of the world, édition de 1980)
+3. Pour les amphibiens et les reptiles : The completely illustrated Atlas of Reptiles and Amphibians for the Terrarium de Obst, Richter et Jacob, édition de 1988 ;
 
 Les signes (*) et (**) (***) renvoient aux précisions figurant à la fin de la présente annexe.
 
@@ -71,6 +71,14 @@ Dama dama.
 |
 
 Daim.
+
+|
+
+Sus scrofa.
+
+|
+
+Sanglier
 
 |
 
@@ -254,19 +262,11 @@ Passeriformes.
 
 |
 
-Passérinés spp. (**).
+Passéridés spp. (**).
 
 |
 
 Moineaux, niverolles.
-
-|
-
-Carduelis cucullata.
-
-|
-
-Tarin rouge.
 
 |
 
@@ -294,11 +294,13 @@ Tortue radiée de Madagascar.
 
 |
 
-(*) L'autorisation et le marquage ne concernent que les animaux des espèces du taxon indiqué sur la liste, reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce.
+(*) L'autorisation et le marquage ne concernent que les animaux des espèces du taxon indiqué sur la liste, reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
-- l'autorisation et le marquage ne s'appliquent pas aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- en ce qui concerne les animaux autres que ceux prélevés dans la nature, l'autorisation et le marquage ne s'appliquent qu'à ceux appartenant à des espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement prévoient des interdictions d'activités applicables à ce type d'animaux ;
+
+- l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
 

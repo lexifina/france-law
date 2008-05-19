@@ -1,5 +1,13 @@
 # Article Annexe A
 
+Pour la taxonomie, les références bibliographiques sont :
+
+1° Pour les mammifères : Mammal Species of the World de Wilson et Reeder, édition de 2005 ;
+
+2° Pour les oiseaux : The Howard and Moore complete Checklist of the Birds of the World de Howard et Moore, édition de 2003 ;
+
+3° Pour les amphibiens et les reptiles : The completely illustrated Atlas of Reptiles and Amphibians for the Terrarium de Obst, Richter et Jacob, édition de 1988.
+
 ESPÈCES
 
 (à l'exclusion des espèces inscrites à l'annexe 2 du présent arrêté)
@@ -32,22 +40,6 @@ Mammifères
 
 |
 
-40, sauf si l'effectif ne comprend que des oiseaux :
-
-60, sauf si l'effectif ne comprend que des passereaux granivores et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
-
-|
-
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé
-
-|
-
-6
-
-|
-
-40
-
 |
 
 Lagomorphes, rongeurs et insectivores
@@ -57,6 +49,20 @@ Lagomorphes, rongeurs et insectivores
 40
 
 |
+
+40
+
+|
+
+40
+
+|
+
+Sus scrofa
+
+|
+
+1
 
 |
 
@@ -68,25 +74,11 @@ Autres espèces
 
 |
 
-|
-
 Oiseaux
 
 |
 
 |
-
-|
-
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé (à l'exception de celles figurant en annexe X du règlement (CE) n° 865/2006 susvisé)
-
-|
-
-6
-
-|
-
-60, sauf si l'effectif ne comprend que des passereaux granivores et/ou des psittaciformes de petite taille et/ou des ansériformes : 100
 
 |
 
@@ -98,19 +90,23 @@ Strigiformes, falconiformes
 
 |
 
+100
+
+|
+
 Ansériformes
 
 |
 
-80
+100
 
 |
 
-Columbiformes, galliformes
+Columbiformes à l'exception de Geopelia cuneata et Streptopelia roseogrisea, galliformes à l'exception de Coturnix chinensis, Coturnix japonica, Colinus virginianus virginianus
 
 |
 
-60
+100
 
 |
 
@@ -130,15 +126,7 @@ Passerereaux granivores : plocéidés, embérizidés, fringilidés à l'exceptio
 
 |
 
-Alaudidés, sturnidés, zostéropidés, irénidés, ictéridés, pycnonotidés et parmi les muscicapidés : muscicapinés, timaliinés
-
-|
-
-40
-
-|
-
-Turdinés
+Alaudidés, sturnidés, zostéropidés, irénidés, ictéridés, pycnonotidés, muscicapidés et timaliidés
 
 |
 
@@ -146,7 +134,15 @@ Turdinés
 
 |
 
-Musophagidés, méliphagidés, nectariniidés, capitonidés
+Turdidés
+
+|
+
+50
+
+|
+
+Musophagidés, méliphagidés, et parmi les ramphastidés : capitoninés, mégalaiminés et lybiinés
 
 |
 
@@ -158,7 +154,7 @@ Charadriidés
 
 |
 
-12
+25
 
 |
 
@@ -180,7 +176,7 @@ Psittaciformes : Alisterus spp., Aprosmictus spp., Aratinga spp., Barnardius spp
 
 |
 
-40
+75
 
 |
 
@@ -192,7 +188,7 @@ Autres psittaciformes, à l'exception de Nymphicus hollandicus, Melopsitaccus un
 
 |
 
-Autres espèces, à l'exception Serinus canaria, Poephila (syn. Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
+Autres espèces, à l'exception de Coturnix chinensis, Coturnix japonica, Colinus virginianus virginianus, Geopelia cuneata, Streptopelia roseogrisea, Serinus canaria, Poephila (syn. Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
 
 |
 
@@ -208,7 +204,7 @@ Reptiles
 
 |
 
-Espèces dont la capture est interdite en application de l'article L. 411-1 du code de l'environnement (*) ou inscrites en annexe A du règlement communautaire (CE) n° 338/97 susvisé
+Astrochelys radiata et espèces du genre Testudo reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 susvisé ou reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement
 
 |
 
@@ -228,9 +224,7 @@ Boa constrictor
 
 |
 
-|
-
-Autres petites espèces : taille adulte pour l'espèce inférieure ou égale à 40 cm pour les tortues ; 1 m pour les lézards ; 1,50 m pour les serpents
+Autres petites espèces : taille adulte pour l'espèce inférieure ou égale à 40 cm pour les tortues ; 1 m pour les lézards ; 1, 50 m pour les serpents
 
 |
 
@@ -238,15 +232,11 @@ Autres petites espèces : taille adulte pour l'espèce inférieure ou égale à 
 
 |
 
-|
-
-Autres grandes espèces : taille adulte pour l'espèce supérieure à 40 cm pour les tortues ; 1 m pour les lézards ; 1,50 m pour les serpents
+Autres grandes espèces : taille adulte pour l'espèce supérieure à 40 cm pour les tortues ; 1 m pour les lézards ; 1, 50 m pour les serpents
 
 |
 
 10
-
-|
 
 |
 
@@ -274,7 +264,9 @@ Oiseaux
 
 |
 
-Serinus canaria, Poephila (syn Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
+|
+
+Coturnix chinensis, Coturnix japonica, Colinus virginianus virginianus, Geopelia cuneata, Streptopelia roseogrisea, Serinus canaria, Poephila (syn Taeniopygia) guttata castanotis, Chloebia gouldiae, Nymphicus hollandicus, Melopsitaccus undulatus, Psittacula krameri manillensis, Agapornis fischeri, A. personatus et A. roseicollis
 
 |
 
@@ -290,9 +282,7 @@ Pas d'effectifs maximaux
 
 |
 
-* Ne sont pas comptabilisés dans cette rubrique :
-
-- les oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+(*) Ne sont pas comptabilisés dans cette rubrique :
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 
