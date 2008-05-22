@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203540
+
+- Question : [SEQ080203540](seq080203540.md) — Extension de la prime de fonction et de résultats des administrateurs au cadre d'emploi des attachés
+
+## Réponse
+
+*Intérieur, JO du 2008-05-22, page 1015*
+
+En application du principe de parité défini à l'article 88 de la loi n° 84-53 du 26 janvier 1984, les fonctionnaires territoriaux peuvent percevoir un régime indemnitaire dans la limite de celui dont bénéficie leur corps de référence à l'État. Le décret du 6 septembre 1991, modifié récemment par le décret du 28 février 2008, détermine les équivalences entre cadres d'emplois territoriaux et corps de l'État. La détermination de ces équivalences a été réalisée lors de la mise en place du régime indemnitaire de la fonction publique territoriale en concertation avec les ministères concernés et en prenant en compte le niveau et la technicité des responsabilités à exercer ainsi que les qualifications qu'elles requièrent. Le régime indemnitaire des agents territoriaux ne peut être modifié ou revalorisé en l'absence de modification des textes indemnitaires applicables à leur corps de référence à l'État, qui sont donc des plafonds s'imposant aux autorités territoriales. En l'état actuel des textes, seuls les administrateurs territoriaux - dont le corps de référence à l'État est celui des administrateurs civils - peuvent bénéficier de l'indemnité de fonction et de résultats instituée par le décret n° 2004-1082 du 13 octobre 2004, au vu des conditions d'attribution de cette indemnité. Dans le cadre des chantiers ouverts en vue de rénover la gestion des ressources humaines dans la fonction publique, la redéfinition des régimes indemnitaires figure parmi les mesures préconisées afin notamment de simplifier l'architecture des régimes indemnitaires existants et de mieux reconnaître les efforts, la valeur professionnelle, le mérite et la performance des agents. Un groupe de travail devrait être mis en place à cette fin.
