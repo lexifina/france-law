@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303686
+
+- Question : [SEQ080303686](seq080303686.md) — Secret professionnel de l'avocat et 3e directive « blanchiment »
+
+## Réponse
+
+*Justice, JO du 2008-05-22, page 1017*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les conséquences dévastatrices du blanchiment de capitaux et du financement du terrorisme justifient la lutte active menée par les États membres de la Communauté européenne en ce domaine. La France s'est bien évidemment engagée dans cette lutte et a ainsi adopté, depuis de nombreuses années, un dispositif national qui résulte en partie de la transposition de directives européennes. Une nouvelle directive du Parlement européen et du Conseil de l'Union européenne en date du 26 octobre 2005 tend au renforcement de ce dispositif auquel les professions du droit sont associées depuis la loi n° 2004-130 du 11 février 2004. La situation des professions juridiques étant tout à fait particulière au regard de leur statut, la loi a soumis ces professionnels à un régime qui leur est propre et donc distinct de celui visant, par exemple, les organismes financiers. Cette spécificité prévaut actuellement dans le projet de loi tendant à transposer la directive du 26 octobre 2005. Les avocats, notamment, se verront appliquer un dispositif compatible avec leur statut, dans le respect des droits fondamentaux garantis par les articles 6 et 8 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales. Le principe de délivrance par TRACFIN de certificat de conformité sur demande de l'avocat ne sera néanmoins pas retenu, n'étant conforme ni à la lettre ni à l'esprit de la directive du 26 octobre 2005, qui s'attacheà la responsabilisation des personnes assujetties et n'envisage pas que l'appréciation d'un soupçon puisse être déléguée.
