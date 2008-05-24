@@ -160,6 +160,8 @@ Centre
 
 Angoulvant, route Nationale, 28380 Saint-Rémy-sur-Avre, puis 10, rue Descartes, 28350 Saint-Lubin-des-Joncherets : de 1971 à 1997 ;
 
+CALFRI ISOLATION, Zone industrielle de Ballan-Miré, 37000 Joué-lès-Tours : De 1967 à 1972 ;
+
 Entreprise SEMT Pielstick, route de Saint-Germain, 18320 Jouet-sur-Aubois, de 1938 à 1987 ;
 
 Fofumi, ZI les Muids, 45160 Olivet, de 1969 à 1985 ;
@@ -169,6 +171,10 @@ Hermann Moritz, 4, rue du Stade, 28480 Chassant, de 1964 à 1986 ;
 Prolifix, avenue du Général-Patton, 45330 Malesherbes : de 1979 à 1983 ;
 
 Sitram Inox, 36170 Saint-Benoît-du-sault : de sa création à 1999 ;
+
+SOCIETE POUJAUD SA, Agence de Chinon, 37420 Avoine : De 1933 à 1996 ;
+
+SOFITHER ISOLATION, Agence de Saint-Laurent-des-Eaux, 41 (centrale), agence de Chinon, 37420 Avoine : De 1973 à 1993 ;
 
 Valéo Thermique Habitacle, Avenue des Près, 28400 Nogent-le-Rotrou : de 1965 à 1992 ;
 
