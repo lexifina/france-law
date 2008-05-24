@@ -70,7 +70,7 @@ Everitube/Everite SA, usine Le Grignon, 37160 Descartes : de 1920 à 1996 ;
 
 Freix, 5, rue Legendre-Genet, 28700 Auneau : de 1960 à 1996 ;
 
-Latty International, 1, rue Xavier-Latty, 28160 Brou : de 1965 à 1998 ;
+Latty International, 1, rue Xavier-Latty, 28160 Brou : de 1965 à 1999 ;
 
 Sime/Ferodo/Valeo, avenue de l'Europe, 18150 La Guerche-sur-l'Aubois : de 1960 à 2000 ;
 
