@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801427
+
+- Question : [SEQ070801427](seq070801427.md) — Fermeture d'un guichet de la gare SNCF de Creil (Oise)
+
+## Réponse
+
+*Transports, JO du 2008-05-29, page 1069*
+
+La SNCF analyse régulièrement la situation de ses points de vente afin de les adapter aux évolutions de la demande et des modes de consommation de la clientèle. Ces études conduisent à ajuster la présence commerciale sur le territoire dans un souci de meilleur service aux usagers et d'efficacité économique. En Ile-de-France, les services commerciaux veillent ainsi à faire évoluer le réseau des points de vente « Grandes Lignes » en fonction de l'existence ou non d'un point de vente « Transilien », du nombre de transactions effectuées à chaque guichet et de l'équipement en automates. Concernant la gare de Creil, la SNCF a signalé qu'aucun projet de fermeture d'un guichet de vente de billets TER n'était à l'étude à ce jour. Par ailleurs, dans le souci de réduire les délais d'attente aux guichets, la SNCF a décidé de mettre en service un automate supplémentaire dans la salle des pas perdus, soit quatre automates au total. En outre, les usagers ne possédant pas de carte bancaire peuvent obtenir leurs titres de transport à l'automate installé sur le quai de la gare qui accepte les espèces. L'horaire de fermeture des guichets en gare de Creil a été effectivement avancé à 21 heures contre 22 h 25 jusqu'au mois de novembre 2006. Cette décision a été prise par la SNCF après la constatation d'une faible activité commerciale durant le milieu de semaine. Toutefois, les jours où la clientèle est plus nombreuse (les samedis, dimanches et jours fériés), l'horaire de fermeture de ces guichets a été maintenu à 22 h 25. De plus, afin d'assurer une présence en gare, un agent d'accueil est en service jusqu'à 22 heures tous les jours de la semaine.
