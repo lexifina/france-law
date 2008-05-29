@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102649
+
+- Question : [SEQ071102649](seq071102649.md) — Développement du parc locatif privé à vocation sociale
+
+## Réponse
+
+*Économie, JO du 2008-05-29, page 1058*
+
+Il résulte des dispositions de l'article 885-E du code général des impôts (CGI) que l'assiette de l'ISF est constituée par la valeur nette, au 1er janvier de l'année d'imposition, de l'ensemble des biens, droits et valeurs imposables appartenant au foyer fiscal soumis à cet impôt. Jusqu'à présent, le Gouvernement a préféré utiliser d'autres outils que l'ISF pour apporter des solutions pertinentes à la crise du logement. Ainsi, pour ce qui concerne l'impôt sur le revenu, plusieurs dispositifs fiscaux concourent au développement de l'offre de logement à loyers maîtrisés, tant dans le secteur locatif social que dans le secteur locatif intermédiaire. Ces dispositifs, également connus sous le nom « Borloo dans l'ancien », prennent la forme de déductions spécifiques, appliquées aux revenus imposables à l'impôt sur le revenu dans la catégorie des revenus fonciers, dont le montant est d'autant plus élevé que le propriétaire bailleur consent un effort de loyers important en faveur de locataires dont les ressources n'excédent pas certains plafonds. Ces dispositifs, qui reposent sur un conventionnement avec l'Agence nationale de l'habitat (ANAH), permettent à celle-ci de mieux tenir compte des conditions locales du marché locatif et de fixer, dans la limite des plafonds retenus par le législateur, des loyers adaptés. Le Gouvernement étudie quelles sont les incitations fiscales les plus adaptées à un développement de l'investissement locatif à caractère social. Il n'est pas certain, à ce stade de la réflexion, qu'une exonération d'ISF ait un effet de même nature que des mesures portant sur la fiscalité des revenus locatifs.
