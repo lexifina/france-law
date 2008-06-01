@@ -8,7 +8,7 @@ de l'arrêté préfectoral n° 3647 du 17 décembre 2002 portant statut des pers
 
 |
 
-LES FONCTIONS CORRESPONDANT
+FONCTIONS CORRESPONDANT
 
 à celles dévolues au cadre d'emplois d'accueil
 
@@ -24,9 +24,13 @@ Agents contractuels recrutés sur le fondement de contrats individuels du niveau
 
 |
 
+Fonctions de direction dans les services mentionnés à l'article 2 du décret n° 87-1097 du 30 décembre 1987 portant statut particulier du cadre d'emplois des administrateurs territoriaux.
+
 Fonctions d'encadrement du niveau de la catégorie A, d'expertise de haut niveau à caractère scientifique et technique
 
 |
+
+Administrateur territorial
 
 Ingénieur
 
@@ -94,7 +98,7 @@ Infirmier |
 
 Infirmier de classe normale |
 
-Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et au moins situés :
+Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et situés :
 
 -au moins au 5e échelon de la grille des contractuels Bac ;
 
@@ -114,6 +118,8 @@ Contrôleur de travaux.
 
 |
 
+|
+
 Fonctions d'encadrement d'un groupe d'agents d'exécution
 
 |
@@ -126,6 +132,8 @@ Adjoint territorial du patrimoine de 1re classe.
 
 |
 
+|
+
 Fonctions d'exécution
 
 |
@@ -134,7 +142,7 @@ Adjoint administratif territorial de 2e classe.
 
 Adjoint technique territorial de 2e classe
 
-Agent territorial du patrimoine de 2e classe.
+Adjoint territorial du patrimoine de 2e classe.
 
 Aide-opérateur des activités physiques et sportives
 
@@ -142,7 +150,7 @@ Agent social territorial de 2e classe
 
 Auxiliaire de soins territorial de 1re classe
 
-Auxiliaire de puériculture territorial de 1re classe
+Auxiliaire de puériculture territorial de 2e classe
 
 Adjoint territorial d'animation de 2e classe
 
