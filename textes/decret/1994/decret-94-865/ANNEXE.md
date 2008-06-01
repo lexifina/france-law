@@ -1,73 +1,39 @@
 # Article ANNEXE
 
-ANNEXE AU DÉCRET INSTITUANT LA NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES DE L'ÉTABLISSEMENT NATIONAL DES INVALIDES DE LA MARINE
+LISTE DE FONCTIONS POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE
 
-Liste des fonctions exercées ouvrant droit au versement de la nouvelle bonification indiciaire
+BONIFICATION INDICIAIRE À L'ÉTABLISSEMENT NATIONAL DES INVALIDES DE LA MARINE
 
-A l'administration centrale de l'établissement
+A. - A l'administration centrale de l'établissement
 
-Chef de secrétariat particulier.
+I. - Fonctions de responsabilités importantes d'encadrement en administration centrale.
 
-Dans les centres de liquidation des prestations
+II. - Fonctions techniques et d'encadrement en ressources humaines.
 
-Chef de centre.
+III. - Fonctions techniques et d'encadrement en logistique, immobilier et informatique.
 
-Chef de service technique.
+IV. - Fonctions d'encadrement dans le domaine de la sécurité sociale des marins.
 
-Chef de service administratif.
+V. - Fonctions techniques dans le domaine de la communication.
 
-Responsable du système informatique.
+VI. - Fonctions d'assistant de chef de service.
 
-Responsable technique.
+B. - Dans les services délocalisés de l'ENIM
 
-Chargé de formation.
+I. - Fonctions d'encadrement des services délocalisés.
 
-Chef de groupe technique ou administratif.
+II. - Fonctions techniques de formation technique.
 
-Assistant bureautique.
+III. - Fonctions techniques et d'encadrement intermédiaires dans le domaine de la liquidation des prestations d'assurance maladie.
 
-Secrétaire du chef de centre.
+IV. - Fonctions techniques et d'encadrement intermédiaires dans le domaine de la liquidation des pensions.
 
-Au Centre national de liquidation des rôles d'équipage
+V. - Fonctions techniques et d'encadrement intermédiaire dans le domaine de l'émission des contributions et cotisations.
 
-Chef de centre.
+VI. - Fonctions logistiques et informatiques.
 
-Chef de service technique.
+VII. - Fonctions de responsable administratif dans les services médicaux.
 
-Chef de service administratif.
+VIII. - Fonctions techniques et d'encadrement dans le domaine de la comptabilité et des marchés publics.
 
-Responsable technique.
-
-Chargé de formation.
-
-Chef de groupe technique ou administratif.
-
-Assistant bureautique.
-
-Secrétaire du chef de centre.
-
-Au centre des pensions (ex centre de gestion et de règlement des pensions)
-
-Chef de centre.
-
-Chef de service technique.
-
-Chef de service administratif.
-
-Chargé de formation.
-
-Chef de groupe technique ou administratif.
-
-Assistant bureautique.
-
-Secrétaire du chef de centre.
-
-Dans les sections locales de l'agence comptable
-
-Fondé de pouvoir.
-
-Responsable comptable.
-
-Assistant bureautique.
-
-Secrétaire du chef de poste comptable secondaire.
+IX. - Fonctions d'assistant de chef de centres.
