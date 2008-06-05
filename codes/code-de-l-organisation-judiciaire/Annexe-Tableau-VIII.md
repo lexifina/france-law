@@ -1,928 +1,28 @@
 # Article Annexe Tableau VIII
 
-Juridictions compétentes en métropole pour connaître, en application de l' article L. 610- 1 du code de commerce, des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
+Siège et ressort des tribunaux de grande instance et de première instance compétents pour connaître des contestations
 
-DÉPARTEMENT
+sur la nationalité française ou étrangère des personnes physiques (annexe de l'article D. 211-10)
 
-|
-
-JURIDICTION
-
-compétente
-
-dans le département
+SIÈGE
 
 |
 
 RESSORT
 
-dans lequel la juridiction
-
-exerce ses attributions
-
-|
-
-Ain
-
-|
-
-TGI de Belley.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Bourg-en-Bresse.
-
-|
-
-Ressort du TGI.
-
-|
-
-Aisne
-
-|
-
-TGI de Laon.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Quentin.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Soissons.
-
-|
-
-Ressort du TGI.
-
-|
-
-Allier
-
-|
-
-TGI de Cusset.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI Montluçon.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Moulins.
-
-|
-
-Ressort du TGI.
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-TGI de Digne.
-
-|
-
-Le département.
-
-|
-
-Alpes (Hautes)
-
-|
-
-TGI de Gap.
-
-|
-
-Le département.
-
-|
-
-Alpes-Maritimes
-
-|
-
-TGI de Grasse.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Nice.
-
-|
-
-Ressort du TGI.
-
-|
-
-Ardèche
-
-|
-
-TGI de Privas.
-
-|
-
-Le département.
-
-|
-
-Ardennes
-
-|
-
-TGI de Charleville-Mézières.
-
-|
-
-Le département.
-
-|
-
-Ariège
-
-|
-
-TGI de Foix.
-
-|
-
-Le département.
-
-|
-
-Aube
-
-|
-
-TGI de Troyes.
-
-|
-
-Le département.
-
-|
-
-Aude
-
-|
-
-TGI de Carcassonne.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Narbonne.
-
-|
-
-Ressort du TGI.
-
-|
-
-Aveyron
-
-|
-
-TGI de Millau.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Rodez.
-
-|
-
-Ressort du TGI.
-
-|
-
-Bouches-du-Rhône
-
-|
-
-TGI d' Aix-en-Provence
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Marseille.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Tarascon.
-
-|
-
-Ressort du TGI.
-
-|
-
-Calvados
-
-|
-
-TGI de Caen.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Lisieux.
-
-|
-
-Ressort du TGI.
-
-|
-
-Cantal
-
-|
-
-TGI d' Aurillac.
-
-|
-
-Le département.
-
-|
-
-Charente
-
-|
-
-TGI d' Angoulême.
-
-|
-
-Le département.
-
-|
-
-Charente-Maritime
-
-|
-
-TGI de la Rochelle.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Rochefort.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saintes.
-
-|
-
-Ressort du TGI.
-
-|
-
-Cher
-
-|
-
-TGI de Bourges.
-
-|
-
-Le département.
-
-|
-
-Corrèze
-
-|
-
-TGI de Brive.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Tulle.
-
-|
-
-Ressort du TGI.
-
-|
-
-Corse-du-Sud
-
-|
-
-TGI d' Ajaccio.
-
-|
-
-Le département.
-
-|
-
-Corse (Haute)
-
-|
-
-TGI de Bastia.
-
-|
-
-Le département.
-
-|
-
-Côte-d' Or
-
-|
-
-TGI de Dijon.
-
-|
-
-Le département.
-
-|
-
-Côtes-d'Armor
-
-|
-
-TGI de Dinan.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Guingamp.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Brieuc.
-
-|
-
-Ressort du TGI.
-
-|
-
-Creuse
-
-|
-
-TGI de Guéret.
-
-|
-
-Le département.
-
-|
-
-Dordogne
-
-|
-
-TGI de Bergerac
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Périgueux.
-
-|
-
-Ressort du TGI.
-
-|
-
-Doubs
-
-|
-
-TGI de Besançon.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Montbéliard.
-
-|
-
-Ressort du TGI.
-
-|
-
-Drôme
-
-|
-
-TGI de Valence.
-
-|
-
-Le département.
-
-|
-
-Essonne
-
-|
-
-TGI d' Evry.
-
-|
-
-Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly.
-
-|
-
-Eure
-
-|
-
-TGI de Bernay.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI d' Evreux.
-
-|
-
-Ressort du TGI.
-
-|
-
-Eure-et-Loir
-
-|
-
-TGI de Chartres.
-
 |
 
-Le département.
-
-|
-
-Finistère
-
-|
-
-TGI de Brest.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Morlaix.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Quimper.
-
-|
-
-Ressort du TGI.
-
-|
-
-Gard
-
-|
-
-TGI d' Alès.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Nîmes.
-
-|
-
-Ressort du TGI.
-
-|
-
-Garonne (Haute)
-
-|
-
-TGI de Saint-Gaudens.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Toulouse.
-
-|
-
-Ressort du TGI.
-
-|
+Cour d'appel d'Agen
 
 Gers
 
 |
 
-TGI d' Auch.
+Auch
 
 |
 
-Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour.
-
-|
-
-Gironde
-
-|
-
-TGI de Bordeaux.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Libourne.
-
-|
-
-Ressort du TGI.
-
-|
-
-Hérault
-
-|
-
-TGI de Béziers.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Montpellier.
-
-|
-
-Ressort du TGI.
-
-|
-
-Ille-et-Vilaine
-
-|
-
-TGI de Rennes.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Malo.
-
-|
-
-Ressort du TGI.
-
-|
-
-Indre
-
-|
-
-TGI de Châteauroux.
-
-|
-
-Le département.
-
-|
-
-Indre-et-Loire
-
-|
-
-TGI de Tours.
-
-|
-
-Le département.
-
-|
-
-Isère
-
-|
-
-TGI de Bourgoin-Jallieu.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Grenoble.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Vienne.
-
-|
-
-Ressort du TGI.
-
-|
-
-Jura
-
-|
-
-TGI de Dole.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Lons-le-Saunier.
-
-|
-
-Ressort du TGI.
-
-|
-
-Landes
-
-|
-
-TGI de Dax.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Mont-de-Marsan.
-
-|
-
-Le département et l'emprise de l'aérodrome d'Aire-sur-l'Adour.
-
-|
-
-Loir-et-Cher
-
-|
-
-TGI de Blois.
-
-|
-
-Le département.
-
-|
-
-Loire
-
-|
-
-TGI de Montbrison.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Roanne.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Etienne.
-
-|
-
-Ressort du TGI.
-
-|
-
-Loire (Haute)
-
-|
-
-TGI du Puy-en-Velay
-
-|
-
-Le département.
-
-|
-
-Loire-Atlantique
-
-|
-
-TGI de Nantes.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Nazaire
-
-|
-
-Ressort du TGI.
-
-|
-
-Loiret
-
-|
-
-TGI de Montargis.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI d'Orléans.
-
-|
-
-Ressort du TGI.
+Ressort du tribunal de grande instance d'Auch.
 
 |
 
@@ -930,11 +30,11 @@ Lot
 
 |
 
-TGI de Cahors.
+Cahors
 
 |
 
-Le département.
+Ressort du tribunal de grande instance de Cahors.
 
 |
 
@@ -942,879 +42,57 @@ Lot-et-Garonne
 
 |
 
-TGI d'Agen.
+[Agen
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance d'Agen et Marmande. (3)]
 
 |
 
-|
-
-TGI de Marmande.
-
-|
-
-Ressort du TGI.
-
-|
-
-Lozère
-
-|
-
-TGI de Mende.
-
-|
-
-Le département.
-
-|
-
-Maine-et-Loire
-
-|
-
-TGI d' Angers.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saumur.
-
-|
-
-Ressort du TGI.
-
-|
-
-Manche
-
-|
-
-TGI d' Avranches.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Cherbourg.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Coutances.
-
-|
-
-Ressort du TGI.
-
-|
-
-Marne
-
-|
-
-TGI de Chalon-sur-Marne.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Reims.
-
-|
-
-Ressort du TGI.
-
-|
-
-Marne (Haute)
-
-|
-
-TGI de Chaumont.
-
-|
-
-Le département.
-
-|
-
-Mayenne
-
-|
-
-TGI de Laval.
-
-|
-
-Le département.
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-TGI de Briey.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Nancy.
-
-|
-
-Ressort du TGI.
-
-|
-
-Meuse
-
-|
-
-TGI de Bar-le-Duc.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Verdun.
-
-|
-
-Ressort du TGI.
-
-|
-
-Morbihan
-
-|
-
-TGI de Lorient.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Vannes.
-
-|
-
-Ressort du TGI.
-
-|
-
-Moselle
-
-|
-
-TGI de Metz.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Sarreguemines.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Thionville.
-
-|
-
-Ressort du TGI.
-
-|
-
-Nièvre
-
-|
-
-TGI de Nevers.
-
-|
-
-Le département.
-
-|
-
-Nord
-
-|
-
-TGI d'Avesnes.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Cambrai.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Douai.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Dunkerque.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI d'Hazebrouck.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Lille.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Valenciennes.
-
-|
-
-Ressort du TGI.
-
-|
-
-Oise
-
-|
-
-TGI de Beauvais.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Compiègne.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Senlis.
-
-|
-
-Ressort du TGI.
-
-|
-
-Orne
-
-|
-
-TGI d'Alençon.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI d'Argentan.
-
-|
-
-Ressort du TGI.
-
-|
-
-Paris
-
-|
-
-TGI de Paris.
-
-|
-
-Le département.
-
-|
-
-Pas-de-Calais
-
-|
-
-TGI d'Arras.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Bethune.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Boulogne-sur-Mer.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Saint-Omer.
-
-|
-
-Ressort du TGI.
-
-|
-
-Puy-de-Dôme
-
-|
-
-TGI de Clermont-Ferrand.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Riom.
-
-|
-
-Ressort du TGI.
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-TGI Bayonne.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Pau.
-
-|
-
-Ressort du TGI.
-
-|
-
-Pyrénées (Hautes)
-
-|
-
-TGI de Tarbes.
-
-|
-
-Le département.
-
-|
-
-Pyrénées-Orientales
-
-|
-
-TGI de Perpignan.
-
-|
-
-Le département.
-
-|
-
-Rhin (Bas)
-
-|
-
-TGI de Saverne.
-
-|
-
-Ressort du TGI.
-
-|
+[Agen
 
 |
 
-TGI de Strasbourg.
+Ressort du tribunal de grande instance d'Agen. (4)]
 
 |
 
-Ressort du TGI.
-
-|
-
-Rhin (Haut)
-
-|
-
-TGI de Colmar.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Mulhouse.
-
-|
-
-Ressort du TGI.
-
-|
-
-Rhône
-
-|
-
-TGI de Lyon.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Villefranche-sur-Saône.
-
-|
-
-Ressort du TGI.
-
-|
-
-Saône (Haute)
-
-|
-
-TGI de Lure.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Vesoul.
-
-|
-
-Le département.
-
-|
-
-Saône-et-Loire
-
-|
-
-TGI de Chalon-sur-Saône.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Mâcon.
-
-|
-
-Ressort du TGI.
-
-|
-
-Sarthe
-
-|
-
-TGI du Mans.
-
-|
-
-Le département.
-
-|
-
-Savoie
-
-|
-
-TGI d'Alberville.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Chambéry.
-
-|
-
-Ressort du TGI.
-
-|
-
-Savoie (Haute)
-
-|
-
-TGI d'Annecy.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Bonneville.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Thonon-les-Bains.
-
-|
-
-Ressort du TGI.
-
-|
-
-Seine (Hauts-de)
-
-|
-
-TGI de Nanterre.
-
-|
-
-Le département.
-
-|
-
-Seine-Maritime
-
-|
-
-TGI de Dieppe.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI du Havre.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Rouen.
-
-|
-
-Ressort du TGI.
-
-|
-
-Seine-et-Marne
-
-|
-
-TGI de Fontainebleau.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Meaux.
-
-|
-
-Ressort du TGI à l'exception de l'emprise de l'aérodrome de Roissy-Charles-de-Gaulle.
-
-|
-
-|
-
-TGI de Melun.
-
-|
-
-Ressort du TGI.
-
-|
-
-Seine-Saint-Denis
-
-|
-
-TGI de Bobigny.
-
-|
-
-Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle.
-
-|
-
-Sèvres (Deux)
-
-|
-
-TGI de Bressuire.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Niort.
-
-|
-
-Ressort du TGI.
-
-|
-
-Somme
-
-|
-
-TGI d'Abbeville.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI d'Amiens.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Péronne.
-
-|
-
-Ressort du TGI.
-
-|
-
-Tarn
-
-|
-
-TGI d'Albi.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-TGI de Castres.
-
-|
-
-Ressort du TGI.
-
-|
-
-Tarn-et-Garonne
-
-|
-
-TGI de Montauban.
-
-|
-
-Le département.
-
-|
+Cour d'appel d'Aix-en-Provence
 
-Territoire-de-Belfort
+Alpes-de-Haute-Provence
 
 |
 
-TGI de Belfort.
+Digne-les-Bains
 
 |
 
-Le département.
+Ressort du tribunal de grande instance de Digne-les-Bains.
 
 |
 
-Val-de-Marne
+Alpes-Maritimes
 
 |
 
-TGI de Créteil.
+Nice
 
 |
 
-Le département et l'emprise de l'aérodrome de Paris-Orly.
+Ressort des tribunaux de grande instance de Grasse et Nice.
 
 |
 
-Val-d'Oise
+Bouches-du-Rhône
 
 |
 
-TGI de Pontoise.
+Marseille
 
 |
 
-Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle.
+Ressort des tribunaux de grande instance d'Aix-en-Provence, Marseille et Tarascon.
 
 |
 
@@ -1822,89 +100,733 @@ Var
 
 |
 
-TGI de Draguignan.
+Toulon
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance de Draguignan et Toulon.
 
 |
 
-|
+Cour d'appel d'Amiens
 
-TGI de Toulon.
-
-|
-
-Ressort du TGI.
+Aisne
 
 |
 
-Vaucluse
+Laon
 
 |
 
-TGI d'Avignon.
+Ressort des tribunaux de grande instance de Laon, Saint-Quentin et Soissons.
 
 |
 
-Ressort du TGI.
+Oise
 
 |
 
-|
-
-TGI de Carpentras.
+Beauvais
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance de Beauvais, Compiègne et Senlis.
 
 |
 
-Vendée
+Somme
 
 |
 
-TGI de la Roche-sur-Yon.
+[Amiens
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne. (3)]
 
 |
 
-|
-
-TGI des Sables-d'Olonnes.
+[Amiens
 
 |
 
-Ressort du TGI.
+Ressort du tribunal de grande instance d'Amiens. (4)]
 
 |
 
-Vienne
+Cour d'appel d'Angers
+
+Maine-et-Loire
 
 |
 
-TGI de Poitiers.
+[Angers
 
 |
 
-Le département.
+Ressort des tribunaux de grande instance d'Angers et Saumur. (3)]
 
 |
 
-Vienne (Haute)
+[Angers
 
 |
 
-TGI de Limoges.
+Ressort du tribunal de grande instance d'Angers. (4)]
 
 |
 
-Le département.
+Mayenne
+
+|
+
+Laval
+
+|
+
+Ressort du tribunal de grande instance de Laval.
+
+|
+
+Sarthe
+
+|
+
+Le Mans
+
+|
+
+Ressort du tribunal de grande instance du Mans.
+
+|
+
+Cour d'appel de Basse-Terre
+
+Guadeloupe
+
+|
+
+Pointe-à-Pitre
+
+|
+
+Ressort des tribunaux de grande instance de Basse-Terre et Pointe-à-Pitre.
+
+|
+
+Cour d'appel de Bastia
+
+Corse-du-Sud
+
+|
+
+Ajaccio
+
+|
+
+Ressort du tribunal de grande instance d'Ajaccio.
+
+|
+
+Haute-Corse
+
+|
+
+Bastia
+
+|
+
+Ressort du tribunal de grande instance de Bastia.
+
+|
+
+Cour d'appel de Besançon
+
+Doubs
+
+|
+
+Besançon
+
+|
+
+Ressort du tribunal de grande instance de Besançon.
+
+|
+
+Montbéliard
+
+|
+
+Ressort du tribunal de grande instance de Montbéliard.
+
+|
+
+Haute-Saône
+
+|
+
+[Vesoul
+
+|
+
+Ressort des tribunaux de grande instance de Lure et Vesoul. (3)]
+
+|
+
+[Vesoul
+
+|
+
+Ressort du tribunal de grande instance de Vesoul. (4)]
+
+|
+
+Jura
+
+|
+
+[Lons-le-Saunier
+
+|
+
+Ressort des tribunaux de grande instance de Dole et Lons-le-Saunier. (3)]
+
+|
+
+[Lons-le-Saunier
+
+|
+
+Ressort du tribunal de grande instance de Lons-le-Saunier. (4)]
+
+|
+
+Territoire de Belfort
+
+|
+
+Belfort
+
+|
+
+Ressort du tribunal de grande instance de Belfort.
+
+|
+
+Cour d'appel de Bordeaux
+
+Charente
+
+|
+
+Angoulême
+
+|
+
+Ressort du tribunal de grande instance d'Angoulême.
+
+|
+
+Dordogne
+
+|
+
+Périgueux
+
+|
+
+Ressort des tribunaux de grande instance de Bergerac et Périgueux.
+
+|
+
+Gironde
+
+|
+
+Bordeaux
+
+|
+
+Ressort des tribunaux de grande instance de Bordeaux et Libourne.
+
+|
+
+Cour d'appel de Bourges
+
+Cher
+
+|
+
+Bourges
+
+|
+
+Ressort du tribunal de grande instance de Bourges.
+
+|
+
+Indre
+
+|
+
+Châteauroux
+
+|
+
+Ressort du tribunal de grande instance de Châteauroux.
+
+|
+
+Nièvre
+
+|
+
+Nevers
+
+|
+
+Ressort du tribunal de grande instance de Nevers.
+
+|
+
+Cour d'appel de Caen
+
+Calvados
+
+|
+
+Caen
+
+|
+
+Ressort des tribunaux de grande instance de Caen et Lisieux.
+
+|
+
+Manche
+
+|
+
+[Coutances
+
+|
+
+Ressort des tribunaux de grande instance d'Avranches, Cherbourg-Octeville et Coutances. (3)]
+
+|
+
+[Coutances
+
+|
+
+Ressort des tribunaux de grande instance de Cherbourg-Octeville et Coutances. (4)]
+
+|
+
+Orne
+
+|
+
+Alençon
+
+|
+
+Ressort des tribunaux de grande instance d'Alençon et Argentan.
+
+|
+
+Cour d'appel de Chambéry
+
+Haute-Savoie
+
+|
+
+Annecy
+
+|
+
+Ressort des tribunaux de grande instance d'Annecy, Bonneville et Thonon-les-Bains.
+
+|
+
+Savoie
+
+|
+
+Chambéry
+
+|
+
+Ressort des tribunaux de grande instance d'Albertville et Chambéry.
+
+|
+
+Cour d'appel de Colmar
+
+Bas-Rhin
+
+|
+
+Strasbourg
+
+|
+
+Ressort des tribunaux de grande instance de Saverne et Strasbourg.
+
+|
+
+Haut-Rhin
+
+|
+
+Mulhouse
+
+|
+
+Ressort des tribunaux de grande instance de Colmar et Mulhouse.
+
+|
+
+Cour d'appel de Dijon
+
+Côte-d'Or
+
+|
+
+Dijon
+
+|
+
+Ressort du tribunal de grande instance de Dijon.
+
+|
+
+Haute-Marne
+
+|
+
+Chaumont
+
+|
+
+Ressort du tribunal de grande instance de Chaumont.
+
+|
+
+Saône-et-Loire
+
+|
+
+Chalon-sur-Saône
+
+|
+
+Ressort des tribunaux de grande instance de Chalon-sur-Saône et Mâcon.
+
+|
+
+Cour d'appel de Douai
+
+Nord
+
+|
+
+[Lille
+
+|
+
+Ressort des tribunaux de grande instance d'Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Hazebrouck, Lille et Valenciennes. (3)]
+
+|
+
+[Lille
+
+|
+
+Ressort des tribunaux de grande instance d'Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Lille et Valenciennes. (4)]
+
+|
+
+Pas-de-Calais
+
+|
+
+Béthune
+
+|
+
+Ressort des tribunaux de grande instance d'Arras, Béthune, Boulogne-sur-Mer et Saint-Omer.
+
+|
+
+Cour d'appel de Fort-de-France
+
+Guyane
+
+|
+
+Cayenne
+
+|
+
+Ressort du tribunal de grande instance de Cayenne.
+
+|
+
+Martinique
+
+|
+
+Fort-de-France
+
+|
+
+Ressort du tribunal de grande instance de Fort-de-France.
+
+|
+
+Cour d'appel de Grenoble
+
+Drôme
+
+|
+
+Valence
+
+|
+
+Ressort du tribunal de grande instance de Valence.
+
+|
+
+Hautes-Alpes
+
+|
+
+Gap
+
+|
+
+Ressort du tribunal de grande instance de Gap.
+
+|
+
+Isère
+
+|
+
+[Grenoble
+
+|
+
+Ressort des tribunaux de grande instance de Bourgoin-Jallieu, Grenoble et Vienne. (3)]
+
+|
+
+[Grenoble
+
+|
+
+Ressort des tribunaux de grande instance de Grenoble et Vienne. (4)]
+
+|
+
+Cour d'appel de Limoges
+
+Corrèze
+
+|
+
+[Tulle
+
+|
+
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)]
+
+|
+
+[Brive-la-Gaillarde
+
+|
+
+Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)]
+
+|
+
+Creuse
+
+|
+
+Guéret
+
+|
+
+Ressort du tribunal de grande instance de Guéret.
+
+|
+
+Haute-Vienne
+
+|
+
+Limoges
+
+|
+
+Ressort du tribunal de grande instance de Limoges.
+
+|
+
+Cour d'appel de Lyon
+
+Ain
+
+|
+
+[Bourg-en-Bresse
+
+|
+
+Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)]
+
+|
+
+[Bourg-en-Bresse
+
+|
+
+Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)]
+
+|
+
+Loire
+
+|
+
+[Saint-Etienne
+
+|
+
+Ressort des tribunaux de grande instance de Montbrison, Roanne et Saint-Etienne. (3)]
+
+|
+
+[Saint-Etienne
+
+|
+
+Ressort des tribunaux de grande instance de Roanne et Saint-Etienne. (4)]
+
+|
+
+Rhône
+
+|
+
+Lyon
+
+|
+
+Ressort des tribunaux de grande instance de Lyon et Villefranche-sur-Saône.
+
+|
+
+Cour d'appel de Metz
+
+Moselle
+
+|
+
+Metz
+
+|
+
+Ressort des tribunaux de grande instance de Metz, Sarreguemines et Thionville.
+
+|
+
+Cour d'appel de Montpellier
+
+Aude
+
+|
+
+Carcassonne
+
+|
+
+Ressort des tribunaux de grande instance de Carcassonne et Narbonne.
+
+|
+
+Aveyron
+
+|
+
+[Rodez
+
+|
+
+Ressort des tribunaux de grande instance de Millau et Rodez. (3)]
+
+|
+
+[Rodez
+
+|
+
+Ressort du tribunal de grande instance de Rodez. (4)]
+
+|
+
+Hérault
+
+|
+
+Montpellier
+
+|
+
+Ressort des tribunaux de grande instance de Béziers et Montpellier.
+
+|
+
+Pyrénées-Orientales
+
+|
+
+Perpignan
+
+|
+
+Ressort du tribunal de grande instance de Perpignan.
+
+|
+
+Cour d'appel de Nancy
+
+Meurthe-et-Moselle
+
+|
+
+Nancy
+
+|
+
+Ressort des tribunaux de grande instance de Briey et Nancy.
+
+|
+
+Meuse
+
+|
+
+Verdun
+
+|
+
+Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
 
 |
 
@@ -1912,21 +834,209 @@ Vosges
 
 |
 
-TGI d'Epinal.
+[Epinal
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)]
 
 |
 
-|
-
-TGI de Saint-Dié.
+[Epinal
 
 |
 
-Ressort du TGI.
+Ressort du tribunal de grande instance d'Epinal. (4)]
+
+|
+
+Cour d'appel de Nîmes
+
+Ardèche
+
+|
+
+Privas
+
+|
+
+Ressort du tribunal de grande instance de Privas.
+
+|
+
+Gard
+
+|
+
+Nîmes
+
+|
+
+Ressort des tribunaux de grande instance d'Alès et Nîmes.
+
+|
+
+Lozère
+
+|
+
+Mende
+
+|
+
+Ressort du tribunal de grande instance de Mende.
+
+|
+
+Vaucluse
+
+|
+
+Avignon
+
+|
+
+Ressort des tribunaux de grande instance d'Avignon et Carpentras.
+
+|
+
+Cour d'appel de Nouméa
+
+Nouvelle-Calédonie
+
+|
+
+Nouméa
+
+|
+
+Ressort du tribunal de première instance de Nouméa.
+
+|
+
+Wallis-et-Futuna
+
+|
+
+Mata-Utu
+
+|
+
+Ressort du tribunal de première instance de Mata-Utu.
+
+|
+
+Cour d'appel d'Orléans
+
+Indre-et-Loire
+
+|
+
+Tours
+
+|
+
+Ressort du tribunal de grande instance de Tours.
+
+|
+
+Loiret
+
+|
+
+Orléans
+
+|
+
+Ressort des tribunaux de grande instance de Montargis et Orléans.
+
+|
+
+Loir-et-Cher
+
+|
+
+Blois
+
+|
+
+Ressort du tribunal de grande instance de Blois.
+
+|
+
+Cour d'appel de Papeete
+
+Polynésie française
+
+|
+
+Papeete
+
+|
+
+Ressort du tribunal de première instance de Papeete.
+
+|
+
+Cour d'appel de Paris
+
+Essonne
+
+|
+
+Evry
+
+|
+
+Ressort du tribunal de grande instance d'Evry.
+
+|
+
+Paris
+
+|
+
+Paris
+
+|
+
+Ressort du tribunal de grande instance de Paris.
+
+|
+
+Seine-et-Marne
+
+|
+
+Melun
+
+|
+
+Ressort des tribunaux de grande instance de Fontainebleau, Meaux et Melun.
+
+|
+
+Seine-Saint-Denis
+
+|
+
+Bobigny
+
+|
+
+Ressort du tribunal de grande instance de Bobigny.
+
+|
+
+Val-de-Marne
+
+|
+
+Créteil
+
+|
+
+Ressort du tribunal de grande instance de Créteil.
 
 |
 
@@ -1934,21 +1044,449 @@ Yonne
 
 |
 
-TGI d'Auxerre.
+Auxerre
 
 |
 
-Ressort du TGI.
+Ressort des tribunaux de grande instance d'Auxerre et Sens.
 
 |
 
+Cour d'appel de Pau
+
+Hautes-Pyrénées
+
 |
 
-TGI de Sens.
+Tarbes
 
 |
 
-Ressort du TGI.
+Ressort du tribunal de grande instance de Tarbes.
+
+|
+
+Landes
+
+|
+
+Mont-de-Marsan
+
+|
+
+Ressort des tribunaux de grande instance de Dax et Mont-de-Marsan.
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+Pau
+
+|
+
+Ressort des tribunaux de grande instance de Bayonne et Pau.
+
+|
+
+Cour d'appel de Poitiers
+
+Charente-Maritime
+
+|
+
+[La Rochelle
+
+|
+
+Ressort des tribunaux de grande instance de Rochefort et La Rochelle. (3)]
+
+|
+
+[La Rochelle
+
+|
+
+Ressort du tribunal de grande instance de La Rochelle. (4)]
+
+|
+
+Saintes
+
+|
+
+Ressort du tribunal de grande instance de Saintes.
+
+|
+
+Deux-Sèvres
+
+|
+
+[Niort
+
+|
+
+Ressort des tribunaux de grande instance de Bressuire et Niort. (3)]
+
+|
+
+[Niort
+
+|
+
+Ressort du tribunal de grande instance de Niort. (4)]
+
+|
+
+Vendée
+
+|
+
+La Roche-sur-Yon
+
+|
+
+Ressort des tribunaux de grande instance de La Roche-sur-Yon et Les Sables-d'Olonne.
+
+|
+
+Vienne
+
+|
+
+Poitiers
+
+|
+
+Ressort du tribunal de grande instance de Poitiers.
+
+|
+
+Cour d'appel de Reims
+
+Ardennes
+
+|
+
+Charleville-Mézières
+
+|
+
+Ressort du tribunal de grande instance de Charleville-Mézières.
+
+|
+
+Aube
+
+|
+
+Troyes
+
+|
+
+Ressort du tribunal de grande instance de Troyes.
+
+|
+
+Marne
+
+|
+
+Reims
+
+|
+
+Ressort des tribunaux de grande instance de Châlons-en-Champagne et Reims.
+
+|
+
+Cour d'appel de Rennes
+
+Côtes-d'Armor
+
+|
+
+[Saint-Brieuc
+
+|
+
+Ressort des tribunaux de grande instance de Dinan, Guingamp et Saint-Brieuc. (3)]
+
+|
+
+[Saint-Brieuc
+
+|
+
+Ressort du tribunal de grande instance de Saint-Brieuc. (4)]
+
+|
+
+Finistère
+
+|
+
+[Quimper
+
+|
+
+Ressort des tribunaux de grande instance de Brest, Morlaix et Quimper. (3)]
+
+|
+
+[Quimper
+
+|
+
+Ressort des tribunaux de grande instance de Brest et Quimper. (4)]
+
+|
+
+Ille-et-Vilaine
+
+|
+
+Rennes
+
+|
+
+Ressort des tribunaux de grande instance de Rennes et Saint-Malo.
+
+|
+
+Loire-Atlantique
+
+|
+
+Nantes
+
+|
+
+Ressort des tribunaux de grande instance de Nantes et Saint-Nazaire.
+
+|
+
+Morbihan
+
+|
+
+Lorient
+
+|
+
+Ressort des tribunaux de grande instance de Lorient et Vannes.
+
+|
+
+Cour d'appel de Riom
+
+Allier
+
+|
+
+[Moulins
+
+|
+
+Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins. (3)]
+
+|
+
+[Cusset
+
+|
+
+Ressort des tribunaux de grande instance de Cusset et Montluçon. (4)]
+
+|
+
+Cantal
+
+|
+
+Aurillac
+
+|
+
+Ressort du tribunal de grande instance d'Aurillac.
+
+|
+
+Haute-Loire
+
+|
+
+Le Puy-en-Velay
+
+|
+
+Ressort du tribunal de grande instance du Puy-en-Velay.
+
+|
+
+Puy-de-Dôme
+
+|
+
+[Clermont-Ferrand
+
+|
+
+Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom. (3)]
+
+|
+
+[Clermont-Ferrand
+
+|
+
+Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
+
+|
+
+Cour d'appel de Rouen
+
+Eure
+
+|
+
+[Evreux
+
+|
+
+Ressort des tribunaux de grande instance de Bernay et Evreux. (3)]
+
+|
+
+[Evreux
+
+|
+
+Ressort du tribunal de grande instance d'Evreux. (4)]
+
+|
+
+Seine-Maritime
+
+|
+
+Rouen
+
+|
+
+Ressort des tribunaux de grande instance de Dieppe, Le Havre et Rouen.
+
+|
+
+Cour d'appel de Saint-Denis
+
+La Réunion
+
+|
+
+Saint-Denis
+
+|
+
+Ressort des tribunaux de grande instance de Saint-Denis et Saint-Pierre.
+
+|
+
+Cour d'appel de Toulouse
+
+Ariège
+
+|
+
+Foix
+
+|
+
+Ressort du tribunal de grande instance de Foix.
+
+|
+
+Haute-Garonne
+
+|
+
+[Toulouse
+
+|
+
+Ressort des tribunaux de grande instance de Saint-Gaudens et Toulouse. (3)]
+
+|
+
+[Toulouse
+
+|
+
+Ressort du tribunal de grande instance de Toulouse. (4)]
+
+|
+
+Tarn
+
+|
+
+Albi
+
+|
+
+Ressort des tribunaux de grande instance d'Albi et Castres.
+
+|
+
+Tarn-et-Garonne
+
+|
+
+Montauban
+
+|
+
+Ressort du tribunal de grande instance de Montauban.
+
+|
+
+Cour d'appel de Versailles
+
+Eure-et-Loir
+
+|
+
+Chartres
+
+|
+
+Ressort du tribunal de grande instance de Chartres.
+
+|
+
+Hauts-de-Seine
+
+|
+
+Nanterre
+
+|
+
+Ressort du tribunal de grande instance de Nanterre.
+
+|
+
+Val-d'Oise
+
+|
+
+Pontoise
+
+|
+
+Ressort du tribunal de grande instance de Pontoise.
 
 |
 
@@ -1956,10 +1494,38 @@ Yvelines
 
 |
 
-TGI de Versailles.
+Versailles
 
 |
 
-Le département.
+Ressort du tribunal de grande instance de Versailles.
+
+|
+
+Tribunal supérieur d'appel de Mamoudzou
+
+Mayotte
+
+|
+
+Mamoudzou
+
+|
+
+Ressort du tribunal de première instance de Mamoudzou.
+
+|
+
+Tribunal supérieur d'appel de Saint-Pierre
+
+Saint-Pierre-et-Miquelon
+
+|
+
+Saint-Pierre
+
+|
+
+Ressort du tribunal de première instance de Saint-Pierre.
 
 |

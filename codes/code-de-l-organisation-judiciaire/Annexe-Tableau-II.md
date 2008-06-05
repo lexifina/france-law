@@ -1,27 +1,17 @@
 # Article Annexe Tableau II
 
-Siège et ressort des tribunaux d'instance
+Liste des secrétariats de parquet autonome
 
-ayant compétence exclusive en matière pénale
+(annexe de l'article R. 123-1)
 
-SIÈGE
-
-|
-
-RESSORT
+JURIDICTIONS DOTÉES D'UN SECRÉTARIAT DE PARQUET AUTONOME
 
 |
 
-Paris |
-
-Les vingt arrondissements de Paris |
-
-Lyon |
-
-La circonscription du Tribunal d'instance de Lyon |
-
-Marseille
+Cour de cassation.
 
 |
 
-La circonscription du Tribunal d'instance de Marseille |
+Tribunal de grande instance de Paris.
+
+|

@@ -1,7 +1,133 @@
 # Article Annexe Tableau V
 
-Siège et ressort des tribunaux d'instance
+Siège et ressort des tribunaux de grande instance compétents pour connaître des actions
 
-NOTA :
+en matière d'obtentions végétales (annexe de l'article D. 211-5)
 
-Décret 2008-145 du 15 février 2008 art. 4 : A compter du 1er janvier 2010, les tableaux I et V annexés au code de l'organisation judiciaire sont remplacés par le tableau A Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tribunaux de grande instance et de première instance, des sections détachées des tribunaux de première instance, des tribunaux d'instance et des juridictions de proximité » annexé au présent décret.
+SIÈGE
+
+|
+
+RESSORT
+
+|
+
+Cour d'appel d'Aix-en-Provence
+
+|
+
+Marseille
+
+|
+
+Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.
+
+|
+
+Cour d'appel de Bordeaux
+
+|
+
+Bordeaux
+
+|
+
+Ressort des cours d'appel d'Agen, Bordeaux et Poitiers.
+
+|
+
+Cour d'appel de Colmar
+
+|
+
+Strasbourg
+
+|
+
+Ressort des cours d'appel de Colmar et Metz.
+
+|
+
+Cour d'appel de Douai
+
+|
+
+Lille
+
+|
+
+Ressort des cours d'appel d'Amiens et Douai.
+
+|
+
+Cour d'appel de Limoges
+
+|
+
+Limoges
+
+|
+
+Ressort des cours d'appel de Bourges, Limoges et Riom.
+
+|
+
+Cour d'appel de Lyon
+
+|
+
+Lyon
+
+|
+
+Ressort des cours d'appel de Chambéry, Grenoble et Lyon.
+
+|
+
+Cour d'appel de Nancy
+
+|
+
+Nancy
+
+|
+
+Ressort des cours d'appel de Besançon, Dijon et Nancy.
+
+|
+
+Cour d'appel de Paris
+
+|
+
+Paris
+
+|
+
+Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+
+|
+
+Cour d'appel de Rennes
+
+|
+
+Rennes
+
+|
+
+Ressort des cours d'appel d'Angers, Caen et Rennes.
+
+|
+
+Cour d'appel de Toulouse
+
+|
+
+Toulouse
+
+|
+
+Ressort des cours d'appel de Montpellier, Pau et Toulouse.
+
+|

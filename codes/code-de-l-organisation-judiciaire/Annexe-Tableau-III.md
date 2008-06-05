@@ -1,70 +1,18 @@
 # Article Annexe Tableau III
 
-Siège et ressort des tribunaux pour enfants
+Liste des maisons de justice et du droit
 
-DÉPARTEMENT
+(annexe de l'article R. 131-11)
 
-|
-
-SIÈGE
+TRIBUNAUX DE GRANDE INSTANCE
 
 |
 
-RESSORT
-
-s'étendant
-
-aux limites territoriales
-
-des tribunaux
-
-de grande instance de
+MAISONS DE JUSTICE ET DU DROIT
 
 |
 
-Cour d'appel d'Agen
-
-|
-
-Gers
-
-|
-
-Auch
-
-|
-
-Auch.
-
-|
-
-Lot
-
-|
-
-Cahors
-
-|
-
-Cahors.
-
-|
-
-Lot-et-Garonne
-
-|
-
-Agen
-
-|
-
-Agen, Marmande.
-
-|
-
-Cour
-
-d'Aix-en-Provence
+Cour d'appel d'Aix-en-Provence
 
 |
 
@@ -72,33 +20,11 @@ Alpes-Maritimes
 
 |
 
-Grasse
-
-|
-
-Grasse.
-
-|
-
-|
-
 Nice
 
 |
 
-Nice.
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-Digne
-
-|
-
-Digne.
+Menton, Nice (Ariane).
 
 |
 
@@ -110,9 +36,7 @@ Aix-en-Provence
 
 |
 
-Aix-en-Provence.
-
-|
+Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.
 
 |
 
@@ -120,17 +44,7 @@ Marseille
 
 |
 
-Marseille.
-
-|
-
-|
-
-Tarascon
-
-|
-
-Tarascon.
+Aubagne.
 
 |
 
@@ -142,53 +56,11 @@ Toulon
 
 |
 
-Toulon.
-
-|
-
-|
-
-Draguignan
-
-|
-
-Draguignan.
+La Seyne-sur-Mer, Toulon.
 
 |
 
 Cour d'appel d'Amiens
-
-|
-
-Aisne
-
-|
-
-Laon
-
-|
-
-Laon
-
-|
-
-|
-
-Saint-Quentin
-
-|
-
-Saint-Quentin.
-
-|
-
-|
-
-Soissons
-
-|
-
-Soissons
 
 |
 
@@ -200,9 +72,7 @@ Beauvais
 
 |
 
-Beauvais.
-
-|
+Méru/Vexin-Thelle-Sablons.
 
 |
 
@@ -210,9 +80,7 @@ Compiègne
 
 |
 
-Compiègne.
-
-|
+Noyon.
 
 |
 
@@ -220,7 +88,7 @@ Senlis
 
 |
 
-Senlis.
+Creil.
 
 |
 
@@ -232,13 +100,11 @@ Amiens
 
 |
 
-Abbeville, Amiens, Péronne.
+Amiens.
 
 |
 
 Cour d'appel d'Angers
-
-|
 
 Maine-et-Loire
 
@@ -248,19 +114,7 @@ Angers
 
 |
 
-Angers, Saumur.
-
-|
-
-Mayenne
-
-|
-
-Laval
-
-|
-
-Laval.
+Angers.
 
 |
 
@@ -272,103 +126,11 @@ Le Mans
 
 |
 
-Le Mans.
-
-|
-
-Cour d'appel de Bastia
-
-|
-
-Corse-du-Sud
-
-|
-
-Ajaccio
-
-|
-
-Ajaccio.
-
-|
-
-Haute-Corse
-
-|
-
-Bastia
-
-|
-
-Bastia.
-
-|
-
-Cour d'appel de Besançon
-
-|
-
-Territoire de Belfort
-
-|
-
-Belfort
-
-|
-
-Belfort.
-
-|
-
-Doubs
-
-|
-
-Besançon
-
-|
-
-Besançon.
-
-|
-
-|
-
-Montbéliard
-
-|
-
-Montbéliard.
-
-|
-
-Haute-Saône
-
-|
-
-Vesoul
-
-|
-
-Lure, Vesoul.
-
-|
-
-Jura
-
-|
-
-Lons-le-Saunier
-
-|
-
-Dole, Lons-le-Saunier.
+Allonnes.
 
 |
 
 Cour d'appel de Bordeaux
-
-|
 
 Charente
 
@@ -394,16 +156,6 @@ Bergerac.
 
 |
 
-|
-
-Périgueux
-
-|
-
-Périgueux.
-
-|
-
 Gironde
 
 |
@@ -412,23 +164,11 @@ Bordeaux
 
 |
 
-Bordeaux.
-
-|
-
-|
-
-Libourne
-
-|
-
-Libourne.
+Bordeaux-Bastide, Bordeaux-Nord.
 
 |
 
 Cour d'appel de Bourges
-
-|
 
 Cher
 
@@ -438,37 +178,11 @@ Bourges
 
 |
 
-Bourges.
-
-|
-
-Indre
-
-|
-
-Châteauroux
-
-|
-
-Châteauroux.
-
-|
-
-Nièvre
-
-|
-
-Nevers
-
-|
-
-Nevers.
+Vierzon.
 
 |
 
 Cour d'appel de Caen
-
-|
 
 Calvados
 
@@ -478,69 +192,13 @@ Caen
 
 |
 
-Caen, Lisieux.
-
-|
-
-Manche
-
-|
-
-Cherbourg
-
-|
-
-Cherbourg.
-
-|
-
-|
-
-Coutances
-
-|
-
-Avranches, Coutances.
-
-|
-
-Orne
-
-|
-
-Alençon
-
-|
-
-Alençon, Argentan.
+Hérouville-Saint-Clair.
 
 |
 
 Cour d'appel de Chambéry
 
-|
-
 Haute-Savoie
-
-|
-
-Annecy
-
-|
-
-Annecy
-
-|
-
-|
-
-Bonneville
-
-|
-
-Bonneville
-
-|
 
 |
 
@@ -548,7 +206,7 @@ Thonon-les-Bains
 
 |
 
-Thonon-les-Bains.
+Annemasse.
 
 |
 
@@ -556,17 +214,23 @@ Savoie
 
 |
 
+Albertville
+
+|
+
+Albertville (La Tarentaise).
+
+|
+
 Chambéry
 
 |
 
-Albertville, Chambéry.
+Aix-les-Bains, Chambéry.
 
 |
 
 Cour d'appel de Colmar
-
-|
 
 Bas-Rhin
 
@@ -577,16 +241,6 @@ Strasbourg
 |
 
 Strasbourg.
-
-|
-
-|
-
-Saverne
-
-|
-
-Saverne.
 
 |
 
@@ -602,8 +256,6 @@ Colmar.
 
 |
 
-|
-
 Mulhouse
 
 |
@@ -614,8 +266,6 @@ Mulhouse.
 
 Cour d'appel de Dijon
 
-|
-
 Côte-d'Or
 
 |
@@ -624,33 +274,11 @@ Dijon
 
 |
 
-Dijon.
-
-|
-
-Haute-Marne
-
-|
-
-Chaumont
-
-|
-
-Chaumont.
+Chenôve.
 
 |
 
 Saône-et-Loire
-
-|
-
-Mâcon
-
-|
-
-Mâcon.
-
-|
 
 |
 
@@ -662,51 +290,25 @@ Chalon-sur-Saône.
 
 |
 
-Cour d'appel de Douai
+Mâcon
 
 |
+
+Mâcon.
+
+|
+
+Cour d'appel de Douai
 
 Nord
 
 |
 
-Lille
+Avesnes-sur-Helpe
 
 |
 
-Lille.
-
-|
-
-|
-
-Valenciennes
-
-|
-
-Valenciennes.
-
-|
-
-|
-
-Avesnes
-
-|
-
-Avesnes.
-
-|
-
-|
-
-Douai
-
-|
-
-Douai.
-
-|
+Aulnoy-Aymeries, Maubeuge.
 
 |
 
@@ -714,17 +316,15 @@ Dunkerque
 
 |
 
-Dunkerque, Hazebrouck.
+Dunkerque.
 
 |
 
-|
-
-Cambrai
+Lille
 
 |
 
-Cambrai.
+Roubaix, Tourcoing.
 
 |
 
@@ -732,13 +332,11 @@ Pas-de-Calais
 
 |
 
-Arras
+Valenciennes
 
 |
 
-Arras.
-
-|
+Denain.
 
 |
 
@@ -746,9 +344,7 @@ Béthune
 
 |
 
-Béthune.
-
-|
+Lens.
 
 |
 
@@ -756,23 +352,37 @@ Boulogne-sur-Mer
 
 |
 
-Boulogne-sur-Mer.
+Calais.
 
 |
 
+Cour d'appel de Fort-de-France
+
+Guyane
+
 |
 
-Saint-Omer
+Cayenne
 
 |
 
-Saint-Omer.
+Saint-Laurent-du-Maroni.
+
+|
+
+Martinique
+
+|
+
+Fort-de-France
+
+|
+
+Fort-de-France.
 
 |
 
 Cour d'appel de Grenoble
-
-|
 
 Drôme
 
@@ -782,19 +392,7 @@ Valence
 
 |
 
-Valence.
-
-|
-
-Hautes-Alpes
-
-|
-
-Gap
-
-|
-
-Gap.
+Romans-sur-Isère.
 
 |
 
@@ -810,51 +408,25 @@ Grenoble.
 
 |
 
-|
-
-Bourgoin-Jallieu
-
-|
-
-Bourgoin-Jallieu.
-
-|
-
-|
-
 Vienne
 
 |
 
-Vienne.
+Villefontaine.
 
 |
 
 Cour d'appel de Limoges
 
-|
-
 Corrèze
 
 |
 
-Brive
+Brive-la-Gaillarde
 
 |
 
-Brive, Tulle.
-
-|
-
-Creuse
-
-|
-
-Guéret
-
-|
-
-Guéret.
+Brive-la-Gaillarde.
 
 |
 
@@ -872,31 +444,7 @@ Limoges.
 
 Cour d'appel de Lyon
 
-|
-
-Ain
-
-|
-
-Bourg-en-Bresse
-
-|
-
-Belley, Bourg-en-Bresse.
-
-|
-
 Loire
-
-|
-
-Roanne
-
-|
-
-Roanne.
-
-|
 
 |
 
@@ -904,7 +452,7 @@ Saint-Etienne
 
 |
 
-Montbrison, Saint-Etienne.
+Saint-Etienne.
 
 |
 
@@ -916,23 +464,11 @@ Lyon
 
 |
 
-Lyon.
-
-|
-
-|
-
-Villefranche-sur-Saône
-
-|
-
-Villefranche-sur-Saône.
+Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 
 |
 
 Cour d'appel de Metz
-
-|
 
 Moselle
 
@@ -942,19 +478,7 @@ Metz
 
 |
 
-Metz.
-
-|
-
-|
-
-Thionville
-
-|
-
-Thionville.
-
-|
+Woippy.
 
 |
 
@@ -962,25 +486,13 @@ Sarreguemines
 
 |
 
-Sarreguemines.
+Forbach.
 
 |
 
 Cour d'appel de Montpellier
 
-|
-
 Aude
-
-|
-
-Carcassonne
-
-|
-
-Carcassonne.
-
-|
 
 |
 
@@ -992,29 +504,7 @@ Narbonne.
 
 |
 
-Aveyron
-
-|
-
-Rodez
-
-|
-
-Millau, Rodez.
-
-|
-
 Hérault
-
-|
-
-Montpellier
-
-|
-
-Montpellier.
-
-|
 
 |
 
@@ -1022,25 +512,19 @@ Béziers
 
 |
 
-Béziers.
+Agde.
 
 |
 
-Pyrénées-Orientales
+Montpellier
 
 |
 
-Perpignan
-
-|
-
-Perpignan.
+Lunel, Montpellier (La Paillade).
 
 |
 
 Cour d'appel de Nancy
-
-|
 
 Meurthe-et-Moselle
 
@@ -1050,59 +534,11 @@ Nancy
 
 |
 
-Nancy.
-
-|
-
-|
-
-Briey
-
-|
-
-Briey.
-
-|
-
-Meuse
-
-|
-
-Verdun
-
-|
-
-Bar-le-Duc, Verdun.
-
-|
-
-Vosges
-
-|
-
-Epinal
-
-|
-
-Epinal, Saint-Dié.
+Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
 
 |
 
 Cour d'appel de Nîmes
-
-|
-
-Ardèche
-
-|
-
-Privas
-
-|
-
-Privas.
-
-|
 
 Gard
 
@@ -1112,47 +548,11 @@ Nîmes
 
 |
 
-Alès, Nîmes.
-
-|
-
-Lozère
-
-|
-
-Mende
-
-|
-
-Mende.
-
-|
-
-Vaucluse
-
-|
-
-Avignon
-
-|
-
-Avignon.
-
-|
-
-|
-
-Carpentras
-
-|
-
-Carpentras.
+Bagnols-sur-Cèze, Nîmes.
 
 |
 
 Cour d'appel d'Orléans
-
-|
 
 Indre-et-Loire
 
@@ -1162,7 +562,7 @@ Tours
 
 |
 
-Tours.
+Joué-lès-Tours.
 
 |
 
@@ -1190,19 +590,7 @@ Orléans.
 
 |
 
-|
-
-Montargis
-
-|
-
-Montargis.
-
-|
-
 Cour d'appel de Paris
-
-|
 
 Essonne
 
@@ -1212,7 +600,7 @@ Evry
 
 |
 
-Evry.
+Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).
 
 |
 
@@ -1224,7 +612,7 @@ Paris
 
 |
 
-Paris.
+Paris (10e), Paris (14e), Paris (17e).
 
 |
 
@@ -1236,9 +624,7 @@ Meaux
 
 |
 
-Meaux.
-
-|
+Chelles, Meaux, Val Maubuée.
 
 |
 
@@ -1246,7 +632,7 @@ Melun
 
 |
 
-Fontainebleau, Melun.
+Pontault-Combault, Savigny-le-Temple.
 
 |
 
@@ -1258,7 +644,7 @@ Bobigny
 
 |
 
-Bobigny.
+Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.
 
 |
 
@@ -1270,85 +656,11 @@ Créteil
 
 |
 
-Créteil.
-
-|
-
-Yonne
-
-|
-
-Auxerre
-
-|
-
-Auxerre, Sens.
-
-|
-
-Cour d'appel de Pau
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-Pau
-
-|
-
-Pau.
-
-|
-
-|
-
-Bayonne
-
-|
-
-Bayonne.
-
-|
-
-Hautes-Pyrénées
-
-|
-
-Tarbes
-
-|
-
-Tarbes.
-
-|
-
-Landes
-
-|
-
-Mont-de-Marsan
-
-|
-
-Mont-de-Marsan.
-
-|
-
-|
-
-Dax
-
-|
-
-Dax.
+Champigny-sur-Marne.
 
 |
 
 Cour d'appel de Poitiers
-
-|
 
 Charente-Maritime
 
@@ -1362,55 +674,7 @@ La Rochelle.
 
 |
 
-|
-
-Rochefort
-
-|
-
-Rochefort, Saintes.
-
-|
-
-Deux-Sèvres
-
-|
-
-Niort
-
-|
-
-Bressuire, Niort.
-
-|
-
-Vendée
-
-|
-
-La Roche-sur-Yon
-
-|
-
-La Roche-sur-Yon, Les Sables d'Olonne.
-
-|
-
-Vienne
-
-|
-
-Poitiers
-
-|
-
-Poitiers.
-
-|
-
 Cour d'appel de Reims
-
-|
 
 Ardennes
 
@@ -1420,7 +684,7 @@ Charleville-Mézières
 
 |
 
-Charleville-Mézières.
+Charleville-Mézières, Sedan.
 
 |
 
@@ -1440,16 +704,6 @@ Marne
 
 |
 
-Châlons-en Champagne
-
-|
-
-Châlons-en Champagne.
-
-|
-
-|
-
 Reims
 
 |
@@ -1460,71 +714,23 @@ Reims.
 
 Cour d'appel de Rennes
 
-|
-
-Côtes d'Armor
+Côtes-d'Armor
 
 |
 
-Guingamp
+[Guingamp
 
 |
 
-Guingamp.
+Lannion (3).]
 
 |
 
-|
-
-Saint-Brieuc
+[Saint-Brieuc
 
 |
 
-Dinan, Saint-Brieuc.
-
-|
-
-Finistère
-
-|
-
-Quimper
-
-|
-
-Quimper.
-
-|
-
-|
-
-Brest
-
-|
-
-Brest, Morlaix.
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Rennes
-
-|
-
-Rennes.
-
-|
-
-|
-
-Saint-Malo
-
-|
-
-Saint-Malo.
+Lannion (4).]
 
 |
 
@@ -1536,107 +742,51 @@ Nantes
 
 |
 
-Nantes.
-
-|
-
-|
-
-Saint-Nazaire
-
-|
-
-Saint-Nazaire.
-
-|
-
-Morbihan
-
-|
-
-Lorient
-
-|
-
-Lorient.
-
-|
-
-|
-
-Vannes
-
-|
-
-Vannes.
+Nantes, Nantes-Rezé.
 
 |
 
 Cour d'appel de Riom
 
-|
-
 Allier
 
 |
 
-Moulins
+Montluçon
 
 |
 
-Cusset, Montluçon, Moulins.
-
-|
-
-Cantal
-
-|
-
-Aurillac
-
-|
-
-Aurillac.
-
-|
-
-Haute-Loire
-
-|
-
-Le Puy
-
-|
-
-Le Puy.
-
-|
-
-Puy-de-Dôme
-
-|
-
-Clermont-Ferrand
-
-|
-
-Clermont-Ferrand, Riom.
+Montluçon.
 
 |
 
 Cour d'appel de Rouen
 
-|
-
 Eure
 
 |
 
-Evreux
+[Bernay
 
 |
 
-Bernay, Evreux.
+Pont-Audemer (3).]
+
+|
+
+[Evreux
+
+|
+
+Evreux, Louviers, Vernon (3).]
+
+|
+
+[Evreux
+
+|
+
+Evreux, Louviers, Pont-Audemer, Vernon (4).]
 
 |
 
@@ -1644,49 +794,23 @@ Seine-Maritime
 
 |
 
-Rouen
-
-|
-
-Rouen.
-
-|
-
-|
-
-Dieppe
-
-|
-
-Dieppe.
-
-|
-
-|
-
 Le Havre
 
 |
 
-Le Havre.
+Fécamp, Le Havre.
+
+|
+
+Rouen
+
+|
+
+Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 
 |
 
 Cour d'appel de Toulouse
-
-|
-
-Ariège
-
-|
-
-Foix
-
-|
-
-Foix.
-
-|
 
 Haute-Garonne
 
@@ -1696,7 +820,7 @@ Toulouse
 
 |
 
-Saint-Gaudens, Toulouse.
+Toulouse, Toulouse-Nord, Toulouse-Ouest.
 
 |
 
@@ -1704,39 +828,15 @@ Tarn
 
 |
 
-Albi
-
-|
-
-Albi.
-
-|
-
-|
-
 Castres
 
 |
 
-Castres.
-
-|
-
-Tarn-et-Garonne
-
-|
-
-Montauban
-
-|
-
-Montauban.
+Mazamet.
 
 |
 
 Cour d'appel de Versailles
-
-|
 
 Eure-et-Loir
 
@@ -1746,7 +846,7 @@ Chartres
 
 |
 
-Chartres.
+Dreux.
 
 |
 
@@ -1758,7 +858,7 @@ Nanterre
 
 |
 
-Nanterre.
+Bagneux, Châtenay-Malabry, Gennevilliers.
 
 |
 
@@ -1770,7 +870,7 @@ Pontoise
 
 |
 
-Pontoise.
+Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel.
 
 |
 
@@ -1782,256 +882,12 @@ Versailles
 
 |
 
-Versailles.
+Les Mureaux, Saint-Quentin-en-Yvelines.
 
 |
 
-(2) Le décret n° 2002-576 du 23 avril 2002 a créé 15 nouveaux TPE. Ce texte est entré en vigueur le 1er septembre 2003 (décret n° 2002-1332 du 31 octobre 2002). Ces 15 nouveaux TPE sont ceux de Saint-Quentin, Compiègne (CA Amiens), Libourne (CA Bordeaux), Thonon-les-Bains (CA Chambéry), Cambrai (CA Douai), Bourgoin-Jallieu (CA Grenoble), Narbonne (CA Montpellier), Carpentras (CA Nîmes), Montargis (CA Orléans), Dax (CA Pau), La Rochelle (CA Poitiers), Châlons-en-Champagne (CA Reims), Guingamp, Saint-Malo (CA Rennes), et Castres (CA Toulouse).
+(3) Applicable jusqu'au 31 décembre 2010.
 
-DEPARTEMENTS D'OUTRE-MER
-
-1° Départements de la Guadeloupe, de la Martinique, de la Guyane et de la Réunion
-
-DÉPARTEMENT
-
-|
-
-SIÈGE
-
-|
-
-RESSORT
-
-s'étendant
-
-aux limites territoriales
-
-des tribunaux
-
-de grande instance de
-
-|
-
-Cour d'appel de Basse-Terre
-
-|
-
-Guadeloupe
-
-|
-
-Basse-Terre
-
-|
-
-Basse-Terre.
-
-|
-
-|
-
-Pointe-à-Pitre
-
-|
-
-Pointe-à-Pitre.
-
-|
-
-Cour d'appel de Fort-de-France
-
-|
-
-Martinique
-
-|
-
-Fort-de-France
-
-|
-
-Fort-de-France.
-
-|
-
-Guyane
-
-|
-
-Cayenne
-
-|
-
-Cayenne.
-
-|
-
-Cour d'appel de Saint-Denis
-
-|
-
-Réunion
-
-|
-
-Saint-Denis-de-la-Réunion
-
-|
-
-Saint-Denis-de-la-Réunion.
-
-|
-
-|
-
-Saint-Pierre
-
-|
-
-Saint-Pierre.
-
-|
-
-2° Département de Saint-Pierre-et-Miquelon
-
-DÉPARTEMENT
-
-|
-
-SIÈGE
-
-|
-
-RESSORT
-
-s'étendant
-
-aux limites territoriales
-
-des tribunaux
-
-de grande instance de
-
-|
-
-Tribunal supérieur d'appel de Saint-Pierre
-
-|
-
-Saint-Pierre-et-Miquelon
-
-|
-
-Saint-Pierre
-
-|
-
-Saint-Pierre.
-
-|
-
-TERRITOIRES D'OUTRE-MER
-
-TERRITOIRE
-
-|
-
-SIÈGE
-
-|
-
-RESSORT
-
-s'étendant
-
-aux limites territoriales
-
-des tribunaux
-
-de première instance de
-
-|
-
-Cour d'appel de Nouméa
-
-|
-
-Nouvelle-Calédonie
-
-|
-
-Nouméa
-
-|
-
-Nouméa.
-
-|
-
-Iles Wallis-et-Futuna
-
-|
-
-Mata-Utu
-
-|
-
-Mata-Utu.
-
-|
-
-Cour d'appel de Papeete
-
-|
-
-Polynésie française
-
-|
-
-Papeete
-
-|
-
-Papeete.
-
-|
-
-MAYOTTE
-
-COLLECTIVITÉ
-
-départementale
-
-|
-
-SIÈGE
-
-|
-
-RESSORT
-
-s'étendant
-
-aux limites territoriales
-
-du tribunal
-
-de première instance de
-
-|
-
-Tribunal supérieur d'appel de Mamoudzou
-
-|
-
-Mayotte
-
-|
-
-Mamoudzou
-
-|
-
-Mamoudzou.
+(4) Applicable à compter du 1er janvier 2011.
 
 |

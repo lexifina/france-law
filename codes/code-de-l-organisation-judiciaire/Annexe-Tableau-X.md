@@ -1,153 +1,47 @@
 # Article Annexe Tableau X
 
-Juridictions compétentes dans les départements d' outre- mer, la Nouvelle-Calédonie, la Polynésie française, les îles Wallis et Futuna, la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte pour connaître, en application de l' article L. 610-1 du code de commerce, des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
+Siège et ressort des tribunaux d'instance et juridictions de proximité
 
-DÉPARTEMENT
+ayant compétence exclusive en matière pénale (annexe de l'article D. 221-1)
 
-ou collectivité territoriale
-
-|
-
-JURIDICTION COMPÉTENTE
-
-dans le département
-
-ou la collectivité territoriale
+SIÈGE
 
 |
 
-RESSORT
+RESSORT |
 
-dans lequel la juridiction
-
-exerce ses attributions
+Cour d'appel d'Aix-en-Provence
 
 |
 
-Guadeloupe
+Marseille
 
 |
 
-Tribunal de grande instance de Basse-Terre.
+Ressort du tribunal d'instance de Marseille.
 
 |
 
-Ressort du TGI.
+Cour d'appel de Lyon
 
 |
 
-|
-
-Tribunal de grande instance de Pointe-à-Pitre.
+Lyon
 
 |
 
-Ressort du TGI.
+Ressort du tribunal d'instance de Lyon.
 
 |
 
-Guyane
+Cour d'appel de Paris
 
 |
 
-Tribunal de grande instance de Cayenne.
+Paris
 
 |
 
-Le département.
-
-|
-
-Martinique
-
-|
-
-Tribunal de grande instance de Fort- de- France.
-
-|
-
-Le département.
-
-|
-
-Réunion
-
-|
-
-Tribunal de grande instance de Saint- Denis.
-
-|
-
-Ressort du TGI.
-
-|
-
-|
-
-Tribunal de grande instance de Saint- Pierre.
-
-|
-
-Ressort du TGI.
-
-|
-
-Mayotte
-
-|
-
-Tribunal de première instance de Mamoudzou.
-
-|
-
-La collectivité territoriale.
-
-|
-
-Saint-Pierre-et-Miquelon
-
-|
-
-Tribunal de première instance de Saint- Pierre.
-
-|
-
-La collectivité territoriale.
-
-|
-
-Nouvelle-Calédonie
-
-|
-
-Tribunal de première instance de Nouméa.
-
-|
-
-La collectivité territoriale.
-
-|
-
-Polynésie française
-
-|
-
-Tribunal de première instance de Papeete.
-
-|
-
-La collectivité territoriale.
-
-|
-
-Wallis-et-Futuna
-
-|
-
-Tribunal de première instance de Mata- Utu.
-
-|
-
-La collectivité territoriale.
+Ressort des vingt tribunaux d'instance de Paris.
 
 |
