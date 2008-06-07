@@ -12,29 +12,29 @@ EXERCICE DE SURVENANCE
 
 20.. (4)
 
-(n - 4)
+(n-4)
 
 |
 
 20.. (4)
 
-(n - 3)
+(n-3)
 
 |
 
 20.. (4)
 
-(n - 2)
+(n-2)
 
 |
 
-20.. (2)(4)
+20.. (2) (4)
 
-(n - 1)
+(n-1)
 
 |
 
-20.. (3)(4)
+20.. (3) (4)
 
 n
 
@@ -50,7 +50,7 @@ Total sinistres
 
 Primes acquises
 
-Pourcentage sinistres/primes acquises
+Pourcentage sinistres / primes acquises
 
 |
 
@@ -74,47 +74,47 @@ Pourcentage sinistres/primes acquises
 
 |
 
-(1) Tableau à établir pour X = n - 2, X = n - 1, X = n.
+(1) Tableau à établir pour X = n-2, X = n-1, X = n.
 
-(2) Colonne vide pour X = n - 2.
+(2) Colonne vide pour X = n-2.
 
-(3) Colonne vide pour X = n - 1 et X = n - 2.
+(3) Colonne vide pour X = n-1 et X = n-2.
 
 (4) Années ainsi modifiées par arrêté du 15 décembre 2005, annexe 3-32.
 
 |
 
-1.14. (cf. note 61) Les entreprises visées à l'article L. 310-1 fournissent également :
+1. 14. (cf. note 61) Les entreprises visées à l'article L. 310-1 fournissent également :
 
-a) La ventilation des rubriques "provisions d'assurance vie, "provisions pour participation aux bénéfices et ristournes et "autres provisions techniques mettant en évidence les provisions techniques issues des opérations d'assurance réalisées dans le cadre d'un patrimoine d'affectation en distinguant les libellés suivants :
+a) La ventilation des rubriques " provisions d'assurance vie, " provisions pour participation aux bénéfices et ristournes et " autres provisions techniques mettant en évidence les provisions techniques issues des opérations d'assurance légalement cantonnées dans une comptabilité auxiliaire d'affectation en distinguant les libellés suivants :
 
-- provisions mathématiques des rentes en cours de constitution - engagements libellés en euros ;
+-provisions mathématiques des rentes en cours de constitution-engagements libellés en euros ;
 
-- provisions mathématiques des rentes en cours de service - engagements libellés en euros ;
+-provisions mathématiques des rentes en cours de service-engagements libellés en euros ;
 
-- engagements d'assurance libellés en unités de compte ;
+-engagements d'assurance libellés en unités de compte ;
 
-- provision technique de diversification ;
+-provision technique de diversification ;
 
-- provision pour participation aux bénéfices ;
+-provision pour participation aux bénéfices ;
 
-- réserve de capitalisation des PERP ;
+-réserve de capitalisation des PERP ;
 
-- provisions pour risque d'exigibilité ;
+-provisions pour risque d'exigibilité ;
 
-- provisions techniques spéciales des opérations en unités de rentes PERP ;
+-provisions techniques spéciales des opérations en unités de rentes PERP ;
 
-- provisions techniques spéciales des opérations en unités de rentes non PERP ;
+-provisions techniques spéciales des opérations en unités de rentes non PERP ;
 
-- provisions techniques spéciales complémentaires PERP ;
+-provisions techniques spéciales complémentaires PERP ;
 
-- provisions techniques spéciales complémentaires non PERP ;
+-provisions techniques spéciales complémentaires non PERP ;
 
-b) Un état récapitulatif par nature d'actif des opérations de changements d'affectation d'actifs à destination ou à partir du patrimoine d'affectation et des plus ou moins-values réalisées dans ce cadre ;
+b) Un état récapitulatif par nature d'actif des opérations de changements d'affectation d'actifs à destination ou à partir d'une comptabilité auxiliaire d'affectation et des plus ou moins-values réalisées dans ce cadre ;
 
-c) En cas d'accord de représentation des engagements, les principales caractéristiques de cet accord et l'engagement reçu par l'organisme d'assurance gestionnaire correspondant au montant résiduel des changements d'affectation d'actifs soumis à clause résolutoire de retour à meilleure fortune, ainsi qu'une information sur les chargements relatifs à la mise en oeuvre de l'accord de représentation des engagements. »
+c) En cas d'accord de représentation des engagements, les principales caractéristiques de cet accord et l'engagement reçu par l'organisme d'assurance gestionnaire correspondant au montant résiduel des changements d'affectation d'actifs soumis à clause résolutoire de retour à meilleure fortune, ainsi qu'une information sur les chargements relatifs à la mise en oeuvre de l'accord de représentation des engagements.
 
-1.15. (cf. note 62) Sont également mentionnés :
+1. 15. (cf. note 62) Sont également mentionnés :
 
 a) Le montant des actifs ayant fait l'objet d'une clause de réserve de propriété ;
 
@@ -122,15 +122,15 @@ b) Les informations prévues par le troisième et le quatrième alinéa de l'art
 
 c) Le solde non amorti correspondant à la différence entre le montant initialement reçu et le prix de remboursement des dettes représentées par un titre émis par l'entreprise ;
 
-d) Les provisions » (cf. note 63) ventilées selon l'objet de chacune en distinguant, au moins, les provisions pour retraites, les provisions pour impôts et les autres provisions ;
+d) Les provisions (cf. note 63) ventilées selon l'objet de chacune en distinguant, au moins, les provisions pour retraites, les provisions pour impôts et les autres provisions ;
 
-e) Le montant global de la contre-valeur en (arrêté du 15 décembre 2005, annexe 3-33) euros » et la composition par devise de l'actif et du passif en devises, ainsi que le montant par devise des (arrêté du 28 décembre 2007, art. 4) écarts » de conversion.
+e) Le montant global de la contre-valeur en euros et la composition par devise de l'actif et du passif en devises, ainsi que le montant par devise des écarts de conversion.
 
-1.16. (cf. note 64) Les entreprises indiquent séparément, pour chacun des postes 2 a, 2 b, 2 c, 2 d, 5 et 6 du tableau des engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation.
+1. 16. (cf. note 64) Les entreprises indiquent séparément, pour chacun des postes 2 a, 2 b, 2 c, 2 d, 5 et 6 du tableau des engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation.
 
 2. Pour le compte de résultat
 
-2.1. (Arrêté du 11 septembre 1995, art. 5-7.) Les entreprises indiquent la ventilation des produits et des charges des placements inscrits au compte de résultat selon le modèle ci-après : »
+2. 1. Les entreprises indiquent la ventilation des produits et des charges des placements inscrits au compte de résultat selon le modèle ci-après :
 
 |
 
@@ -210,11 +210,11 @@ Frais financiers (commission, honoraires, intérêts et agios...)
 
 |
 
-2.2. Les entreprises (Arrêté du 11 septembre 1995, art. 5-8) visées à l'article L. 310-1 » indiquent, dans l'annexe aux comptes sociaux, la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-dessous.
+2. 2. Les entreprises visées à l'article L. 310-1 indiquent, dans l'annexe aux comptes sociaux, la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-dessous.
 
-Pour chacune des catégories définies à l'article A. 344-2 ainsi que pour le total des catégories 22 et 23 ( Total automobile ») et le total des catégories 24, 25 et 26 ( Total dommages aux biens ») est établi un compte technique conforme au modèle ci-après. Un compte technique totalisant l'ensemble de comptes techniques par catégorie est également établi ; le résultat technique de ce compte de totalisation est égal au résultat technique du compte de résultat. Les entreprises agréées à la fois pour les opérations mentionnées au 1° et au 2° de l'article L. 310-1 du code des assurances établissent deux comptes de totalisation séparés, correspondant, respectivement, au compte technique de l'assurance-vie et au compte technique de l'assurance Non-vie du compte de résultat.
+Pour chacune des catégories définies à l'article A. 344-2 ainsi que pour le total des catégories 22 et 23 (Total automobile) et le total des catégories 24, 25 et 26 (Total dommages aux biens) est établi un compte technique conforme au modèle ci-après. Un compte technique totalisant l'ensemble de comptes techniques par catégorie est également établi ; le résultat technique de ce compte de totalisation est égal au résultat technique du compte de résultat. Les entreprises agréées à la fois pour les opérations mentionnées au 1° et au 2° de l'article L. 310-1 du code des assurances établissent deux comptes de totalisation séparés, correspondant, respectivement, au compte technique de l'assurance-vie et au compte technique de l'assurance Non-vie du compte de résultat.
 
-A. - Catégories 1 à 19
+A.-Catégories 1 à 19
 
 RUBRIQUE
 
@@ -256,11 +256,11 @@ Poste II-3 diminué du poste II-10 (1re colonne).
 
 |
 
-A. - Solde de souscription.
+A.-Solde de souscription.
 
 |
 
-(1 - 2 - 3 + 4).
+(1-2-3 + 4).
 
 |
 
@@ -280,7 +280,7 @@ Postes II-8 b et II-11 (1re colonne) du CR diminués du poste II-4 (1re colonne)
 
 |
 
-B. - Charges d'acquisition et de gestion nettes.
+B.-Charges d'acquisition et de gestion nettes.
 
 |
 
@@ -304,11 +304,11 @@ Poste II-7 du CR (1re colonne).
 
 |
 
-C. - Solde financier.
+C.-Solde financier.
 
 |
 
-(7 - 8).
+(7-8).
 
 |
 
@@ -352,11 +352,11 @@ Poste II-8 c du CR non encore pris en compte.
 
 |
 
-D. - Solde de réassurance.
+D.-Solde de réassurance.
 
 |
 
-(10 + 11 + 12 + 13 - 9).
+(10 + 11 + 12 + 13-9).
 
 |
 
@@ -364,7 +364,7 @@ Résultat technique
 
 |
 
-A - B + C + D
+A-B + C + D
 
 |
 
@@ -406,7 +406,7 @@ Postes 3 b, 3 c, 3 e, 3 h et 4 du bilan (passif).
 
 |
 
-B. - Catégories 20 à 39 (1)
+B.-Catégories 20 à 39 (1)
 
 RUBRIQUE
 
@@ -464,7 +464,7 @@ Postes I-4 b, I-5 et I-9 du CR (1re colonne).
 
 |
 
-A. - Solde de souscription.
+A.-Solde de souscription.
 
 |
 
@@ -488,7 +488,7 @@ Postes I-7 b et I-8 (1re colonne) du CR diminués du poste I-3 (1re colonne).
 
 |
 
-B. - Charges d'acquisition et de gestion nettes.
+B.-Charges d'acquisition et de gestion nettes.
 
 |
 
@@ -512,11 +512,11 @@ Poste I-6 du CR (1re colonne).
 
 |
 
-C. - Solde financier.
+C.-Solde financier.
 
 |
 
-(7 - 8).
+(7-8).
 
 |
 
@@ -560,11 +560,11 @@ Poste I-7 d du CR
 
 |
 
-D. - Solde de réassurance.
+D.-Solde de réassurance.
 
 |
 
-(10 + 11 + 12 + 13 - 9).
+(10 + 11 + 12 + 13-9).
 
 |
 
@@ -572,7 +572,7 @@ Résultat technique
 
 |
 
-A - B + C + D
+A-B + C + D
 
 |
 
@@ -628,57 +628,57 @@ Postes 3 f, 3 g et 3 i du bilan (passif).
 
 |
 
-Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques ou sous-rubriques intitulées charges de provisions » sont affectées du signe - en cas de diminution des provisions ; la sous-rubrique variation des primes non acquises (cf. note 65) » est affectée du signe - en cas de diminution des primes non acquises et risques en cours.
+Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques ou sous-rubriques intitulées charges de provisions » sont affectées du signe-en cas de diminution des provisions ; la sous-rubrique variation des primes non acquises (cf. note 65) » est affectée du signe-en cas de diminution des primes non acquises et risques en cours.
 
 La répartition par catégorie des charges figurant au poste I-7 ou II-8 du compte de résultat s'effectue en rapportant à chaque catégorie les frais qui lui sont directement applicables et en ventilant les autres frais généraux aussi exactement que possible suivant leur nature, compte tenu notamment du nombre de contrats, de l'importance des affaires, du nombre des sinistres...
 
-Les produits financiers nets sont, à défaut d'une étude plus poussée, ventilés par catégorie au prorata des provisions techniques nettes de réassurance ; toutefois, (arrêté du 15 décembre 2005, annexe 3-34) les catégories » 10 (contrats relevant de l'article L. 441-1) (arrêté du 15 décembre 2005, annexe 3-34) et 11 (plans d'épargne retraite populaire relevant de l'article 108 de la loi n° 2003-775 du 21 août 2003) reçoivent » exactement les intérêts des placements qui (arrêté du 15 décembre 2005, annexe 3-34) leur » sont affectés.
+Les produits financiers nets sont, à défaut d'une étude plus poussée, ventilés par catégorie au prorata des provisions techniques nettes de réassurance ; toutefois, les catégories 10 (contrats relevant de l'article L. 441-1) et 11 (plans d'épargne retraite populaire relevant de l'article 108 de la loi n° 2003-775 du 21 août 2003) reçoivent exactement les intérêts des placements qui leur sont affectés.
 
 Lorsque les opérations d'une catégorie sont exclusivement relatives à des garanties accessoires au sens des articles R. 321-3 et R. 321-5 du code des assurances, la mention garanties accessoires » est portée dans l'intitulé de la colonne relative à la catégorie concernée.
 
 Pour les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles :
 
-1° Est insérée, après la ligne : Part des réassureurs dans les primes acquises », la ligne suivante : Part des organismes dispensés d'agrément dans les primes acquises. »
+1° Est insérée, après la ligne : " Part des réassureurs dans les primes acquises ", la ligne suivante : " Part des organismes dispensés d'agrément dans les primes acquises ".
 
-2° Est insérée, après la ligne : Part des réassureurs dans les prestations payées », la ligne suivante : Part des organismes dispensés d'agrément dans les prestations payées. »
+2° Est insérée, après la ligne : " Part des réassureurs dans les prestations payées ", la ligne suivante : " Part des organismes dispensés d'agrément dans les prestations payées ".
 
-3° Est insérée, après la ligne : Part des réassureurs dans les charges des provisions pour prestations à payer », la ligne suivante : Part des organismes dispensés d'agrément dans les charges des provisions pour prestations à payer. »
+3° Est insérée, après la ligne : " Part des réassureurs dans les charges des provisions pour prestations à payer ", la ligne suivante : " Part des organismes dispensés d'agrément dans les charges des provisions pour prestations à payer ".
 
-2.3. Les entreprises fournissent également :
+2. 3. Les entreprises fournissent également :
 
 a) La ventilation des charges de personnel selon le modèle suivant :
 
-- salaires ;
+-salaires ;
 
-- pensions de retraite ;
+-pensions de retraite ;
 
-- charges sociales ;
+-charges sociales ;
 
-- autres.
+-autres.
 
-b) (Arrêté du 11 septembre 1995, art. 5-9.) Pour les entreprises visées à l'article L. 310-1, le montant des commissions » afférent à l'assurance directe comptabilisé pendant l'exercice. Ce montant comprend les commissions de toute nature allouées aux courtiers, agents généraux et mandataires de l'entreprise, et notamment les commissions d'acquisition, de renouvellement, d'encaissement, de gestion et de service après vente.
+b) Pour les entreprises visées à l'article L. 310-1, le montant des commissions afférent à l'assurance directe comptabilisé pendant l'exercice. Ce montant comprend les commissions de toute nature allouées aux courtiers, agents généraux et mandataires de l'entreprise, et notamment les commissions d'acquisition, de renouvellement, d'encaissement, de gestion et de service après vente.
 
-(Arrêté du 11 septembre 1995, art. 5-9.) Pour les entreprises visées à l'article L. 310-1-1, le montant des commissions afférent aux acceptations comptabilisé pendant l'exercice. Le montant de commissions relatif aux opérations relevant de la catégorie 19 définie à l'article A. 344-2, d'une part, et le montant de commissions relatif aux opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre part, peuvent être respectivement portés en note au bas du compte technique de l'assurance non-vie et du compte technique de l'assurance-vie du compte de résultat. »
+Pour les entreprises visées à l'article L. 310-1-1, le montant des commissions afférent aux acceptations comptabilisé pendant l'exercice. Le montant de commissions relatif aux opérations relevant de la catégorie 19 définie à l'article A. 344-2, d'une part, et le montant de commissions relatif aux opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre part, peuvent être respectivement portés en note au bas du compte technique de l'assurance non-vie et du compte technique de l'assurance-vie du compte de résultat.
 
 c) La ventilation des primes brutes émises selon le modèle suivant :
 
-- primes d'assurance directe en France ;
+-primes d'assurance directe en France ;
 
-- primes d'assurance directe dans (arrêté du 15 décembre 2005, annexe 3-35) l'Espace économique européen » (hors France) ;
+-primes d'assurance directe dans l'Espace économique européen (hors France) ;
 
-- primes d'assurance directe hors (arrêté du 15 décembre 2005, annexe 3-35) Espace économique européen ».
+-primes d'assurance directe hors Espace économique européen.
 
 d) Le montant, d'une part, des entrées, d'autre part, des sorties de portefeuille.
 
-2.4. Les entreprises indiquent la proportion dans laquelle le résultat de l'exercice a été affecté par des dérogations aux principes généraux d'évaluation en application de la réglementation fiscale et l'écart qui en est résulté.
+2. 4. Les entreprises indiquent la proportion dans laquelle le résultat de l'exercice a été affecté par des dérogations aux principes généraux d'évaluation en application de la réglementation fiscale et l'écart qui en est résulté.
 
-2.5. Les entreprises indiquent la différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices.
+2. 5. Les entreprises indiquent la différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au titre de ces exercices.
 
-2.6. Les entreprises indiquent la ventilation de l'impôt sur les bénéfices entre la partie afférente aux opérations ordinaires et la partie qui se rapporte aux opérations exceptionnelles.
+2. 6. Les entreprises indiquent la ventilation de l'impôt sur les bénéfices entre la partie afférente aux opérations ordinaires et la partie qui se rapporte aux opérations exceptionnelles.
 
-2.7. Les entreprises indiquent la ventilation des produits et des charges exceptionnels et des produits et charges non techniques.
+2. 7. Les entreprises indiquent la ventilation des produits et des charges exceptionnels et des produits et charges non techniques.
 
-2.8. Les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1 :
+2. 8. Les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1 :
 
 a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de réassurance entre le bilan d'ouverture et le bilan de clôture, selon le modèle ci-dessous :
 
@@ -760,7 +760,7 @@ n
 
 |
 
-A. - Participation aux résultats totale (postes I-6 et II-7 du compte de résultat = A 1 + A 2) :
+A.-Participation aux résultats totale (postes I-6 et II-7 du compte de résultat = A 1 + A 2) :
 
 |
 
@@ -802,7 +802,7 @@ A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise »
 
 |
 
-B. - Participation aux résultats des contrats relevant des catégories visées à l'article A. 132-2 :
+B.-Participation aux résultats des contrats relevant des catégories visées à l'article A. 132-2 :
 
 |
 
@@ -858,7 +858,7 @@ B 3 : Montant effectif de la participation aux résultats (3) :
 
 |
 
-- B 3 a Participation attribuée à des contrats (y compris intérêts techniques)
+-B 3 a Participation attribuée à des contrats (y compris intérêts techniques)
 
 |
 
@@ -872,7 +872,7 @@ B 3 : Montant effectif de la participation aux résultats (3) :
 
 |
 
-- B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux bénéfices
+-B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux bénéfices
 
 |
 
@@ -898,13 +898,13 @@ B 3 : Montant effectif de la participation aux résultats (3) :
 
 3. Autres informations
 
-3.1. Le cas échéant, l'entreprise doit indiquer :
+3. 1. Le cas échéant, l'entreprise doit indiquer :
 
-- le nom et le siège de l'entreprise mère qui établit les comptes consolidés, dans lesquels ses comptes sont inclus ;
+-le nom et le siège de l'entreprise mère qui établit les comptes consolidés, dans lesquels ses comptes sont inclus ;
 
-- la mention de l'exemption de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion.
+-la mention de l'exemption de l'obligation d'établir des comptes consolidés et un rapport consolidé de gestion.
 
-3.2. Les entreprises mentionnent :
+3. 2. Les entreprises mentionnent :
 
 a) L'effectif moyen du personnel en activité au cours de l'exercice, ventilé par catégories professionnelles ;
 
