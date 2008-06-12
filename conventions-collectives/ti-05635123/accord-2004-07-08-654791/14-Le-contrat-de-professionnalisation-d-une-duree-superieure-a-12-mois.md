@@ -8,7 +8,7 @@ Le contrat de professionnalisation d'un salarié intérimaire peut être conclu 
 
 Il peut être mis en oeuvre pour tout type de validation.
 
-Les actions de formation prévues au contrat de professionnalisation sont d'une durée comprise entre 15 % et 25 % de la durée totale du contrat sans pouvoir être inférieure à 150 heures.
+Les actions de formation prévues au contrat de professionnalisation sont d'une durée comprise entre 15 % et 25 % de la durée totale du contrat sans pouvoir être inférieure à 150 heures. Toutefois, lorsque le contrat est validé par un diplôme, la durée des actions de formation peut être portée jusqu'à 50 % de la durée totale du contrat.
 
 Article 14.1.1
 
