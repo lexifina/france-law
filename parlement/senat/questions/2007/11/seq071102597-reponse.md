@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102597
+
+- Question : [SEQ071102597](seq071102597.md) — Paiement tardif des subventions aux associations
+
+## Réponse
+
+*Logement, JO du 2008-06-12, page 1168*
+
+Plusieurs mesures concrètes sont en cours de développement afin de simplifier les procédures administratives des associations et pérenniser leur financement. La création de l'Agence nationale pour la cohésion sociale et l'égalité des chances (ACSE) permet d'améliorer les délais de versement des subventions aux associations. Si, en 2007, des retards ont été constatés du fait des délais nécessaires à la mise en place des outils informatiques, désormais, toutes les procédures sont opérationnelles. Le budget 2008 de l'agence a été voté en décembre 2007 pour permettre de déléguer les crédits aux préfets, dès janvier. Les subventions aux associations ont donc pu être versées dès le premier trimestre 2008. De plus, la mise en place, en 2008, du portail internet « Subvention en ligne » outil de dématérialisation du dossier CERFA de demande de subvention, permet une simplification et une plus grande efficacité dans le traitement par l'administration des demandes de subvention. Par ailleurs, la secrétaire d'État chargée de la politique de la ville a évoqué ce sujet lors de la présentation de la dynamique Espoir Banlieue à Vaux-en-Velin, le 22 janvier 2008, en déclarant vouloir faire du « tissu associatif, le pivot de sa démarche ». Enfin, dans le cadre de la nouvelle politique en faveur des banlieues annoncée par le Président de la République le 8 février 2008, il est prévu de multiplier par trois le nombre de conventions pluriannuelles d'objectifs (30 % de conventions en 2008 contre 10 % en 2007) et de permettre le paiement sous quarante-huit heures des petites dépenses des acteurs de la politique de la ville.
