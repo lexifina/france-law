@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303624
+
+- Question : [SEQ080303624](seq080303624.md) — Situation des orthoptistes
+
+## Réponse
+
+*Santé, JO du 2008-06-12, page 1172*
+
+Les négociations entre l'Union nationale des caisses d'assurance maladie (UNCAM) et le Syndicat national autonome des orthoptistes et le Syndicat des orthoptistes de France ont récemment abouti à la signature d'un avenant n° 7 à la convention nationale des orthoptistes libéraux (12 mars 2008). Cet avenant revalorise notamment la valeur de la lettre clef AMY de 0,12 euro, qui atteindra 2,50 euros. L'indemnité forfaitaire de déplacement (IFD) augmente quant à elle de 0,75 euro, atteignant 2,20 euros. Il prévoit en outre un montant d'aide pérenne à la télétransmission. Ces revalorisations prendront effet 6 mois après la publication de cet avenant en application de l'article L. 162-14-1-1 du code de la sécurité sociale, adopté par la loi de financement de la sécurité sociale pour 2008 afin de renforcer la prévention des risques de dépassement de l'ONDAM et qui s'applique en conséquence à l'ensemble des professions de santé. Par ailleurs, l'avenant institue la Commission de hiérarchisation des actes et prestations (CHAP) des orthoptistes au sein de laquelle l'inscription des actes et leur hiérarchisation dans la nomenclature seront désormais discutées avec des représentants de la profession. Il annonce également le souhait des partenaires conventionnels de voir augmenter les coefficients de deux actes (traitement de l'amblyopie et traitement du strabisme dans la nomenclature), lesquels devront dorénavant être examinés en CHAP, avec les représentants de la profession et qui auront pour conséquence la revalorisation en euros de ces deux actes. Enfin, il suggère l'étude des conditions de valorisation de l'acte de simulation de la vision binoculaire et de l'amblyopie, dans le cadre de l'optimisation du parcours de soins.
