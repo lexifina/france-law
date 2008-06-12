@@ -22,20 +22,30 @@ Directeur régional de l'aviation civile aux Antilles-Guyane.
 
 Chef de service d'Etat de l'aviation civile outre-mer.
 
-C.-Fonctions exercées dans les services à compétence nationale, au service technique de la navigation aérienne et au service d'exploitation de la formation aéronautique
+C.-Fonctions exercées dans les services à compétence nationale
 
 Directeur.
 
-Chef de service à compétence nationale.
+Adjoint au directeur des services de la navigation aérienne.
 
 Sous-directeur.
 
-expert de haut niveau ou directeur de projet.
+Chef de service à compétence nationale.
+
+Directeur du cabinet du directeur des services de la navigation aérienne.
+
+Directeur de projet.
 
 Adjoint en route.
 
 Adjoint approches.
 
+Adjoint au directeur de la technique et de l'innovation.
+
+Secrétaire général de la direction de la technique et de l'innovation.
+
 Chef de centre en route de la navigation aérienne.
 
-Chef du service de la navigation aérienne région parisienne.
+Chef du service de la navigation aérienne de la région parisienne.
+
+Chef de l'organisme de Roissy au sein du service de la navigation aérienne de la région parisienne.
