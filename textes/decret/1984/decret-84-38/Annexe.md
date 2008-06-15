@@ -28,7 +28,7 @@ Emplois de catégorie A, B, C et D.
 
 |
 
-Agence de maîtrise d'ouvrage des travaux du ministère de la justice
+Agence de maîtrise d'ouvrage des travaux du ministère de la justice.
 
 |
 
@@ -150,7 +150,7 @@ Emplois de personnels ouvriers.
 
 |
 
-Office national de l'eau et des milieux aquatiques
+Office national de l'eau et des milieux aquatiques.
 
 |
 
@@ -370,7 +370,7 @@ Agence nationale des titres sécurisés
 
 |
 
-Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés.
+Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.
 
 |
 
@@ -399,3 +399,7 @@ Les emplois de catégories A et B requérant des connaissances spécialisées en
 Les emplois de catégories A et B liés à la médiation.
 
 |
+
+NOTA :
+
+Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier 2009.
