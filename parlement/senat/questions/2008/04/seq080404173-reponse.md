@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404173
+
+- Question : [SEQ080404173](seq080404173.md) — Révision du nombre d'heures prévues pour la formation initiale et continue des conducteurs de transport routier de voyageurs
+
+## Réponse
+
+*Transports, JO du 2008-06-19, page 1244*
+
+La formation professionnelle obligatoire des conducteurs du transport routier, mise en place depuis 1995 dans le transport de marchandises, a pour objectif essentiel l'amélioration de la sécurité routière. C'est pour répondre à cet objectif que l'apprentissage des principes élémentaires du secourisme figure, depuis plusieurs années, au programme de ces formations obligatoires qui concernent aussi bien les conducteurs du transport routier de voyageurs que ceux du transport routier de marchandises. L'amélioration de la sécurité routière est également l'un des objectifs prioritaires de la directive communautaire 2003/59/CE du 15 juillet 2003, largement inspirée du dispositif français de formation des conducteurs. Sa transposition a déjà fait l'objet de dispositions législatives et réglementaires, parmi lesquelles l'arrêté du 3 janvier 2008 fixant le programme des formations. Ce programme prévoit notamment l'apprentissage des principes élémentaires du secourisme dont l'enseignement fait partie intégrante d'un thème consacré à la santé et à la sécurité routière et environnementale. La formation initiale minimale obligatoire dans son ensemble dure 140 heures au cours desquelles doivent être abordés des thèmes nombreux et variés, dont l'apprentissage est nécessaire à l'exercice du métier de conducteur routier. Il a donc fallu répartir ces heures afin que chacun des ces thèmes soit traité au mieux pour amener le conducteur à exercer sa mission dans des conditions de sécurité satisfaisantes tant pour lui que pour ses passagers ou pour les autres usagers de la route.
