@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504259
+
+- Question : [SEQ080504259](seq080504259.md) — Budget de la forêt
+
+## Réponse
+
+*Agriculture, JO du 2008-06-19, page 1206*
+
+Un prélèvement a été effectué sur le programme 149 « forêt » lors de la discussion sur la loi de finances 2008. Lors du débat parlementaire, le budget forêt a été modifié in fine par trois amendements pour un montant total de 6,53 millions d'euros en autorisations d'engagement et 3,78 millions d'euros en crédits de paiement. Les deux premiers amendements ont permis un abondement du programme 154 pour l'installation des jeunes agriculteurs pour un montant de 2 millions d'euros et pour le plan de modernisation des bâtiments d'élevage pour un montant de 0,75 million d'euros en autorisations d'engagement. Le troisième concernait les exonérations de charges sociales en milieu rural et s'élevait à 3,78 millions d'euros en autorisations d'engagement et en crédits de paiement. Lors de la discussion parlementaire la nécessité est apparue d'exercer sur divers programmes un prélèvement pour abonder le programme 154 sur les trois priorités susmentionnées. Le programme 149 a été sollicité, comme d'autres programmes, pour satisfaire ces priorités à la demande de l'Assemblée nationale. Pour autant, les enjeux de la filière forestière pour lesquels le ministère de l'agriculture et de la pêche a présenté un plan d'action le 16 janvier 2008 suite aux assises de la forêt ont fait l'objet de nouvelles propositions du comité opérationnel « forêt » dans le cadre du Grenelle de l'environnement. Parmi les propositions figurent des mesures fiscales destinées à encourager les propriétaires forestiers privés à pratiquer une gestion dynamique de leurs forêts. La mise en oeuvre de ces mesures devrait offrir à cette filière les voies et moyens à la hauteur du véritable changement d'échelle qu'appelle le développement des besoins en bois écomatériau de construction et en bois énergie renouvelable d'ici 2020.
