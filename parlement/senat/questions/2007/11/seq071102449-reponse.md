@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102449
+
+- Question : [SEQ071102449](seq071102449.md) — Interopérabilité des réseaux Acropol et Rubis
+
+## Réponse
+
+*Intérieur, JO du 2008-06-19, page 1230*
+
+Le programme Acropol (automatisation des communications radio opérationnelles de police) de déploiement d'un réseau numérique sécurisé de télécommunications au profit de la police nationale a été lancé en 1995. Depuis le mois de juin 2007, les 96 départements métropolitains sont couverts et ce système de transmissions apporte quotidiennement la preuve de son efficacité opérationnelle (confidentialité, identification des interlocuteurs, interrogation des fichiers de police, etc.). L'outre-mer sera équipé en 2009. La gendarmerie nationale dispose pour sa part du réseau Rubis, qui a été déployé de 1994 à 2000 dans l'ensemble des départements métropolitains. L'interopérabilité entre les réseaux Acropol et Rubis est assurée dans tous les départements de métropole, dont la Creuse. Des valises d'interopérabilité ont été mises en place, à cet effet, dans tous les groupements de gendarmerie. Cet équipement permet d'établir des liaisons avec le réseau Acropol de la police, ainsi qu'avec les réseaux téléphoniques. Par ailleurs, la loi du 13 août 2004 de modernisation de la sécurité civile prévoit l'interopérabilité des réseaux de communication radioélectriques des services publics qui concourent aux missions de sécurité civile. Sont notamment concernés la police nationale, la gendarmerie nationale, la sécurité civile, les services d'incendie et de secours (SDIS), la brigade des sapeurs-pompiers de Paris, le bataillon des marins-pompiers de Marseille et les services d'aide médicale d'urgence (SAMU). Acropol constituant le socle de l'infrastructure nationale partageable des transmissions (INPT), les SDIS utiliseront cette infrastructure dans le cadre du programme Antares destiné à accroître les capacités de communication et la couverture d'Acropol.
