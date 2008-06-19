@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103250
+
+- Question : [SEQ080103250](seq080103250.md) — Transports scolaires en Île-de-France
+
+## Réponse
+
+*Écologie, JO du 2008-06-19, page 1213*
+
+La région d'Île-de-France est dans une situation particulière, au regard de l'organisation des transports scolaires, qui implique un très grand nombre d'acteurs. La loi du 13 août 2004 relative aux libertés et responsabilités locales a attribué au syndicat des transports d'Ile-de-France (STIF) la responsabilité de l'organisation du transport scolaire sur l'ensemble de la région, mais a également prévu que pendant un délai de trois ans, à partir du 1er juillet 2005, cette organisation puisse continuer à être assurée par les personnes morales de droit public ou de droit privé qui exerçaient cette responsabilité à la date de publication de la loi. À ce jour, l'intervention de près de 400 organisateurs locaux, déjà impliqués, avant la décentralisation du syndicat, dans l'organisation des services scolaires, a été maintenue. Dans ce cadre, l'honorable parlementaire souhaite qu'une modification législative autorise les collectivités territoriales, auxquelles le syndicat peut d'ores et déjà déléguer la compétence d'organisation du transport scolaire sur leur territoire, à l'exception de la politique tarifaire, à subdéléguer tout ou partie de leur compétence à d'autres acteurs locaux plus proches des usagers. Cette nouvelle organisation permettrait de conserver l'intervention des actuels organisateurs de proximité, tout en harmonisant, sur le territoire des départements qui le souhaiteraient, les conditions de mise en oeuvre du service public des transports scolaires. Cette proposition, qui correspond également à un souhait exprimé par le STIF, a été examinée par l'un des groupes de travail constitué dans le cadre du Grenelle de l'environnement et figure dans le projet de loi dit « Grenelle 2 » qui sera prochainement soumis à l'examen du Parlement.
