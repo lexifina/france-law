@@ -1,123 +1,183 @@
 # Article Annexe
 
-Métiers de l'alimentation.
+Activités relevant de l'artisanat de l'alimentation
 
-Boulangerie-pâtisserie, biscotterie-biscuiterie, pâtisserie de conservation (sauf terminaux de cuisson), 15.8 A à D/15.8 F.
+Transformation et conservation de la viande et préparation de produits à base de viande, 10. 1.
 
-Transformation de viande, boucherie, charcuterie, 15.1/52.2 C ; 52.6 D partiel : commerce de détail de viandes et produits à base de viandes sur éventaires et marchés.
+Transformation et conservation de poissons, de crustacés et de mollusques, 10. 2.
 
-Conservation et transformation des produits de la mer, poissonnerie, 15.2/52.2 E ; 52.6 D partiel : commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés.
+Transformation et conservation de fruits et légumes, 10. 3 (sauf produits de la quatrième gamme).
 
-Fabrication de produits laitiers, 15.5 A à D.
+Fabrication d'huiles et graisses végétales et animales, 10. 4.
 
-Fabrication de glaces et sorbets, chocolaterie et confiserie, 15.5 F/15.8 K.
+Fabrication de produits laitiers, 10. 5.
 
-Conservation et transformation de fruits et légumes, 15.3.
+Travail des grains, fabrication de produits amylacés, 10. 6.
 
-Autres transformations de produits alimentaires (sauf activités agricoles et vinification), 15.4/15.6/15.7/15.8 H/15.8 M à V/15.9.
+Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, 10. 7 (sauf terminaux de cuisson, 10. 71 B).
 
-Métiers du bâtiment.
+Fabrication d'autres produits alimentaires, 10. 8.
 
-Préparation des sites et terrassement, 45.1 A/45.1 B.
+Fabrication d'aliments pour animaux, 10. 9.
 
-Maçonnerie et autres travaux de construction, 45.2 A à F/45.2 N à V.
+Fabrication d'eaux-de-vie naturelles et de spiritueux (inclus dans 11. 01 Z).
 
-Couverture, plomberie, chauffage, 45.2 J à L/45.3 E/45.3 F.
+Fabrication de vins effervescents (inclus dans 11. 02 A).
 
-Menuiserie, serrurerie, 45.4 C/45.4 D.
+Fabrication d'autres boissons, 11. 03 à 11. 07.
 
-Travaux d'installation électrique et d'isolation, 45.3 A/45.3 C/45.3 H.
+Commerce de détail de viandes et de produits à base de viande en magasin spécialisé, 47. 22.
 
-Aménagement, agencement et finition, 45.4 A/45.4 F à M.
+Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé dont préparations à partir de ces produits (inclus dans 47. 23).
 
-Location avec opérateurs de matériel de construction, 45.5.
+Commerce de détail de viande, produits à base de viandes sur éventaires et marchés (inclus dans 47. 81).
 
-Travaux sous-marins de forage, 45.1 D.
+Commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés dont préparations à partir de ces produits (inclus dans 47. 81).
 
-Activités artisanales extractives, 10.3/14 ; 13.2 Z partiel :
+Fabrication de plats prêts à consommer, majoritairement à emporter, associée à la vente au détail (inclus dans 56. 10 C).
 
-Orpaillage.
+Activités relevant de l'artisanat du bâtiment
 
-Métiers de fabrication.
+Orpaillage (inclus dans 07. 29).
 
-Transformation des fibres, tissage, ennoblissement, 17.1/17.2/17.3.
+Autres industries extractives, 08.
 
-Fabrication d'articles textiles, notamment par les couturières, les tailleurs et les modistes ; autres fabrications du textile et de la maille, 17.4/17.5/17.6/17.7/18.2.
+Activités de soutien aux autres industries extractives (inclus dans 09. 90).
 
-Fabrication de vêtements en cuir et fourrure, 18.1/18.3.
+Incinération des déchets non dangereux et production de cendres et scories associés (inclus dans 38. 21 Z).
 
-Travail du cuir et fabrication de chaussures, 19.
+Désamiantage, enlèvement des peintures à base de plomb (inclus dans 39. 00).
 
-Fabrication et réparation d'articles d'horlogerie et bijouterie, 33.5/36.2.
+Construction de bâtiments résidentiels et non résidentiels, 41. 2.
 
-Fabrication d'instruments de musique, 36.3.
+Génie civil, 42 (sauf promotion immobilière de lotissements fonciers viabilisés).
 
-Fabrication d'articles de sport, de jeux et de jouets, 36.4/36.5.
+Travaux de construction spécialisés, 43.
 
-Fabrication et réparation de meubles, 36.1 (sauf 36.1 K).
+Installation de systèmes d'alarme et activités associées de surveillance (inclus dans 80. 20 Z).
 
-Travail du bois, du papier et du carton, 20/21.
+Activités relevant de l'artisanat de fabrication
 
-Imprimerie (sauf journaux), reliure et reproduction d'enregistrements, 22.2 C/22.2 E/22.2 G/22.2 J/22.3.
+Fabrication de textiles, 13.
 
-Travail du verre et des céramiques, 26.1 à 3.
+Fabrication de vêtements, d'articles en fourrure et d'articles à mailles, 14.
 
-Fabrication de matériel agricole, de machines et d'équipements et de matériel de transport, 29/34/35.
+Industrie du cuir et de la chaussure, 15.
 
-Fabrication et réparation de machines de bureau, de matériel informatique, de machines et appareils électriques, d'équipements de radio, de télévision et de communication, 30/31/32/72.5.
+Travail du bois et fabrication d'articles en bois et en liège, en vannerie et sparterie, 16 (sauf fabrication du bois d'industrie : pieux, poteaux, bois de mine...).
 
-Fabrication d'instruments médicaux, de précision et d'optique, 33.1 à 3 ; 33.4 A partiel : fabrication de lunettes sauf verres ; 33.4 B : fabrication d'instruments d'optique et de matériel photographique.
+Industrie du papier et du carton, 17.
 
-Transformation de matières nucléaires, 23.3.
+Imprimerie de labeur, 18. 12.
 
-Fabrication et transformation des métaux ; produits chimiques (sauf principes actifs, sang et médicaments), caoutchouc, matières plastiques et matériaux de construction, 24 (sauf 24.4 A, à l'exclusion de la fabrication d'édulcorants de synthèse, et 24.4 C)/25/26.4 à 8/27/28.
+Activités de prépresse, 18. 13.
 
-Taxidermie, 36.6 E partiel.
+Reliure et activités connexes, 18. 14.
 
-Autres fabrications diverses (sauf taxidermie), 36.6 A/36.6 C/36.6 E.
+Reproduction d'enregistrements, 18. 2.
 
-Récupération, 37.
+Production de brai et de coke de brai (inclus dans 19. 10).
 
-Métiers de service.
+Agglomération de la tourbe (inclus dans 19. 20).
 
-Réparation automobile, 50.2 ; 50.4 partiel : entretien et réparation de motocycles.
+Industrie chimique, 20.
 
-Cordonnerie et réparation d'articles personnels et domestiques, 52.7.
+Fabrication d'édulcorants de synthèse (inclus dans 21. 10).
 
-Entretien et réparation de machines de bureau et de matériel informatique, 72.5.
+Fabrication d'ouates, bandes, gazes et pansements à usage médical et de substances radioactives de diagnostic (inclus dans 21. 20).
 
-Blanchisserie et pressing (sauf libre-service), 93.0 A/93.0 B.
+Fabrication de produits en caoutchouc et en plastique, 22.
 
-Coiffure, 93.0 D.
+Fabrication d'autres produits minéraux non métalliques, 23.
 
-Soins de beauté, 93.0 E.
+Métallurgie, 24.
 
-Réparation d'objets d'art, 36.1 K/92.3 A partiel.
+Fabrication de produits métalliques, 25.
 
-Finition et restauration de meubles, dorure, encadrement, 36.1 K.
+Fabrication de produits informatiques, électroniques et optiques, 26.
 
-Spectacle de marionnettes, 92.3 KP partiel.
+Fabrication d'équipements électriques, 27.
 
-Préparation de plantes et de fleurs et compositions florales, 52.4 X/52.6 E partiel.
+Fabrication de machines et équipements divers, 28.
 
-Travaux photographiques, 74.8 A/74.8 B.
+Industrie automobile, 29.
 
-Etalage, décoration, 74.8 K partiel.
+Fabrication de matériels de transport divers, 30.
 
-Taxis et transports de voyageurs par voitures de remise, 60.2 E.
+Fabrication de meubles, 31.
 
-Ambulances, 85.1 J.
+Autres industries manufacturières, 32 (sauf fabrication de lunettes correctrices et de verres de lunetterie et de contact).
 
-Contrôle technique, 74.3 A.
+Réparation et installation de machines et d'équipements, 33.
 
-Déménagement, 60.2 N.
+Collecte des déchets nucléaires (inclus dans 38. 12).
 
-Pose d'affiches, travaux à façon, conditionnement à façon, 74.4 A partiel ; 74.8 D ; 74.8 F partiel : travaux à façon, à l'exclusion des services de traduction et de domiciliation.
+Traitement et élimination des déchets nucléaires radioactifs (inclus dans 38. 22).
 
-Ramonage, nettoyage, entretien de fosses septiques et désinsectisation, 74.7 ; 90.0 A partiel.
+Démantèlement d'épaves, 38. 31.
 
-Maréchalerie, 92.7 C partiel.
+Récupération de déchets triés, 38. 32.
 
-Embaumement, soins mortuaires, 93.0 G partiel.
+Edition d'imprimés fiduciaires, imprimés commerciaux, formulaires imprimés (inclus dans 58. 19).
 
-Toilettage d'animaux de compagnie, 93.0 N partiel.
+Activités relevant de l'artisanat de service
+
+Maréchalerie (inclus dans 01. 62).
+
+Entretien de fosses septiques (inclus dans 37. 00).
+
+Entretien et réparation de véhicules automobiles, 45. 2.
+
+Entretien et réparation de motocycles (inclus dans 45. 4).
+
+Préparation de plantes et de fleurs et compositions florales en magasins spécialisés (inclus dans 47. 76).
+
+Préparation de plantes et de fleurs et compositions florales sur éventaires et marchés (inclus dans 47. 89).
+
+Transports de voyageurs par taxis y compris à moto et par véhicules de remise, 49. 32.
+
+Services de déménagement, 49. 42.
+
+Services de remorquage et d'assistance routière (inclus dans 52. 21).
+
+Contrôle technique automobile, 71. 20 A.
+
+Pose d'affiches (inclus dans 73. 11).
+
+Activités d'étalagiste (inclus dans 74. 10).
+
+Activités photographiques, 74. 2 (sauf photojournalisme).
+
+Nettoyage courant des bâtiments, 81. 21.
+
+Nettoyage industriel et autres activités de nettoyage des bâtiments dont ramonage, 81. 22.
+
+Désinfection, désinsectisation, dératisation, 81. 29 A.
+
+Autres nettoyages, 81. 29 B (sauf services de voirie et de déneigement).
+
+Services administratifs divers, 82. 11 (limité aux services administratifs de bureau combinés).
+
+Travaux à façon divers, 82. 19 (limité à la duplication et l'expédition de documents et au secrétariat à façon).
+
+Activités de conditionnement, 82. 92.
+
+Ambulances, 86. 90 A.
+
+Spectacle de marionnettes (inclus dans 90. 01).
+
+Restauration d'objets d'art (inclus dans 90. 03 A).
+
+Réparation d'ordinateurs et d'équipements de communication, 95. 1.
+
+Réparation de biens personnels et domestiques, 95. 2.
+
+Blanchisserie-teinturerie dont nettoyage et garde de fourrures, 96. 01 (sauf libre-service).
+
+Coiffure, 96. 02 A.
+
+Soins de beauté dont le modelage esthétique de bien-être et de confort sans finalité médicale, 96. 02 B.
+
+Embaumement, soins mortuaires, thanatopraxie (inclus dans 96. 03).
+
+Toilettage d'animaux de compagnie (inclus dans 96. 09).
