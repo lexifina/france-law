@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700869
+
+- Question : [SEQ070700869](seq070700869.md) — Réforme du régime des catastrophes naturelles
+
+## Réponse
+
+*Intérieur, JO du 2008-06-26, page 1287*
+
+Les délais de parution des arrêtés interministériels constatant l'état de catastrophe naturelle sont respectés pour l'ensemble des phénomènes, à l'exception de la sécheresse. Le traitement des 8 400 demandes communales relatives à la sécheresse 2003 et la mise en oeuvre du dispositif exceptionnel de solidarité nationale de la loi de finances pour 2006, qui a suscité le dépôt de près de 19 000 dossiers de particuliers auprès des 71 préfectures concernées, n'avaient pas jusqu'alors permis d'examiner les demandes communales pour les sécheresses ultérieures à celle de 2003. La commission interministérielle compétente en la matière a repris ses travaux et formulé des avis pour des demandes communales relatives aux sécheresses 2004, 2005 et 2006, dont celles de la Gironde. Au vu de ces avis, trois arrêtés, parus au Journal officiel les 22 février, 4 et 23 avril 2008, ont été pris : 257 décisions favorables sont recensées pour la sécheresse de 2005 en Gironde, dont la commune de Villenave-d'Ornon. Une refonte de la procédure de reconnaissance de l'état de catastrophe naturelle est exposée dans le rapport, prévu par la loi n° 2007-290 du 5 mars 2007, et élaboré par les départements ministériels concernés (ministères de l'intérieur, de l'économie, de l'écologie et du logement). Ce rapport a été transmis par le secrétariat général du Gouvernement aux assemblées parlementaires le 25 janvier 2008. Il propose d'accroître la transparence de la gestion du régime, d'en améliorer le fonctionnement, notamment en termes de délais, de promouvoir les comportements de prévention et d'améliorer la prise en charge du risque sécheresse que la France est l'un des seuls pays européens à recenser dans les catastrophes naturelles.
