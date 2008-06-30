@@ -1,5 +1,7 @@
 # Article Annexe
 
+<
+
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -2085,6 +2087,48 @@ Suspension, modification, retrait ou abrogation de l’autorisation mentionnée 
 |
 
 5. de l’article 3
+
+|
+
+Code de la propriété intellectuelle
+
+0 |
+
+Dispense en matière d’incompatibilités applicables aux conseils en propriété
+
+intellectuelle.
+
+|
+
+Article R. 422-55.
+
+|
+
+1 |
+
+Acceptation et renouvellement de la demande de retenue du propriétaire du dessin
+
+ou modèle déposé ou du bénéficiaire du droit exclusif d’exploitation.
+
+|
+
+Articles R. 523-1
+
+et R. 523-2.
+
+|
+
+2 |
+
+Acceptation et renouvellement de la demande de retenue du propriétaire de la
+
+marque enregistrée ou du bénéficiaire du droit exclusif d’exploitation.
+
+|
+
+Articles R. 716-6
+
+et R. 716-7.
 
 |
 
