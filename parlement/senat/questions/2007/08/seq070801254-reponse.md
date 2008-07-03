@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801254
+
+- Question : [SEQ070801254](seq070801254.md) — Pensions de réversion sans plafonnement lié aux ressources propres
+
+## Réponse
+
+*Travail, JO du 2008-07-03, page 1358*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur les conditions de versement des pensions de retraite. Les pensions de réversion prévues dans les régimes spéciaux sont généralement versées sans conditions de ressources. Il faut cependant souligner que ces prestations recouvrent par une seule pension les pensions qui, dans le régime général, sont attribuées au titre du régime de base et des régimes complémentaires, étant précisé que ces dernières ne sont pas soumises à conditions de ressources. Par ailleurs, les prestations accordées par les régimes spéciaux correspondent à un effort contributif des salariés et des employeurs spécifique. La comparaison doit se faire non pas isolément, sur un type de prestation, mais par une connaissance d'ensemble des droits et obligations qui les caractérisent. Il ne paraît donc pas justifié d'étendre systématiquement à l'ensemble des régimes chacune des dispositions constitutives du droit à réversion les plus favorables existant dans chacun des régimes (âge d'ouverture du droit, condition de non remariage, condition de ressources, taux de la réversion). Le Gouvernement est disposé à approfondir la réforme de la réversion engagée en 2003, sur la base des engagements présidentiels et des questions qui lui auront été soumises dans le cadre des questions et rapports parlementaires. Mais il souhaite pouvoir s'appuyer, notamment, sur les travaux que le Conseil d'orientation des retraites mène actuellement sur les avantages familiaux et conjugaux, travaux dont les conclusions devraient être disponibles à la fin de l'année 2008.
