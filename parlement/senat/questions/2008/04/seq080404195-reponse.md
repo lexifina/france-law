@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404195
+
+- Question : [SEQ080404195](seq080404195.md) — Attribution de la campagne double
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2008-07-03, page 1342*
+
+L'étude réalisée par M. Christian Gal, inspecteur général des affaires sociales en 2005, sur la question de l'éventuelle attribution des bonifications de « campagne double » aux anciens combattants d'Afrique du Nord, fonctionnaires et assimilés a permis d'entendre l'ensemble des parties concernées et d'actualiser les données disponibles sur cette question complexe. Il est apparu nécessaire de disposer d'un éclairage juridique complémentaire sur plusieurs de ses aspects. Le Gouvernement a alors saisi pour avis le Conseil d'État. La haute juridiction a rendu son avis le 30 novembre 2006. Elle a tout d'abord rappelé qu'il résulte de sa décision contentieuse n° 235 776 du 5 avril 2006 - syndicat national et professionnel des officiers de la marine marchande - que la loi n° 99-882 du 18 octobre 1999 relative à la substitution, à l'expression « aux opérations effectuées en Afrique du Nord », de l'expression « à la guerre d'Algérie ou aux combats en Tunisie et au Maroc », qualifiant le conflit en Algérie de « guerre » a créé une situation juridique nouvelle. Elle précise que les personnes « qui ont participé à des opérations de guerre, c'est-à-dire qui ont été exposées à des situations de combat » au cours de la guerre d'Algérie sont susceptibles de bénéficier de la campagne double. Le Gouvernement s'attache donc à définir les circonstances de temps et de lieu permettant d'identifier les situations de combat qui pourraient ouvrir droit à un tel bénéfice, dans le cadre d'une concertation interministérielle qui est en cours.
