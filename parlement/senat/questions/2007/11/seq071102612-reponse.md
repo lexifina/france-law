@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102612
+
+- Question : [SEQ071102612](seq071102612.md) — Devenir des services des tutelles
+
+## Réponse
+
+*Justice, JO du 2008-07-03, page 1352*
+
+La garde des sceaux, ministre la justice, fait connaître à l'honorable parlementaire que la modernisation de l'institution judiciaire est nécessaire pour garantir au justiciable une justice de qualité, et aux magistrats, fonctionnaires et professions judiciaires, des conditions de travail adaptées. C'est dans ce cadre que, par décret n° 2008-145 du 15 février 2008, le nombre de tribunaux d'instance sera progressivement ramené, à compter du 1er janvier 2010, de 473 à 295. Ce regroupement des tribunaux d'instance a pour objectif de centraliser les compétences et les moyens trop dispersés sur l'ensemble du territoire. S'agissant plus particulièrement de la protection des majeurs qui relève de la compétence du juge d'instance, il convient d'observer que, tout en maintenant des implantations de proximité, la nouvelle carte judiciaire permet de mieux structurer les services des tutelles. Cette restructuration s'avère notamment nécessaire pour l'application de la loi du 5 mars 2007 réformant la protection juridique des majeurs. En effet, cette réforme renforce les droits des personnes protégées et donc accroît le rôle du juge ; ainsi, l'audition de la personne lors de l'ouverture ou du renouvellement d'une mesure de protection sera obligatoire. Dans ce cadre, le juge devra se déplacer si nécessaire auprès de la personne. Dés lors, et parce que la restriction des droits et libertés individuelles relève de la compétence exclusive de l'autorité judiciaire, il n'est nullement envisagé de transférer la compétence du juge des tutelles aux élus, mais au contraire, grâce à une organisation judiciaire rationnalisée, de faciliter le suivi et le contrôle des mesures par le magistrat, pour une meilleure prise en compte de l'intérêt des personnes.
