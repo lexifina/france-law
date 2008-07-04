@@ -734,9 +734,7 @@ Bibliothèque départementale de prêt
 
 |
 
-ANNEXE II (suite)
-
-- Région Corse
+Région Corse
 
 Corse-du-Sud
 

@@ -902,7 +902,7 @@ Bibliothèque départementale de prêt
 
 |
 
-Bibliothèque municipale de montargis
+Bibliothèque municipale de Montargis
 
 |
 

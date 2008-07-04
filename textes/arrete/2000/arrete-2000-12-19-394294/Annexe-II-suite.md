@@ -270,7 +270,7 @@ Bibliothèque départementale de prêt
 
 |
 
-- Hauts-de-Seine
+Hauts-de-Seine
 
 Bibliothèque municipale d'Antony
 
@@ -1056,7 +1056,7 @@ Bibliothèque départementale de prêt
 
 |
 
-- Région Languedoc-Roussillon
+Région Languedoc-Roussillon
 
 Aude
 

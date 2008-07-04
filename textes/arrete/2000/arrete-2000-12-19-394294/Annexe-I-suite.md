@@ -1,6 +1,6 @@
 # Article Annexe I (suite)
 
-- Région Languedoc-Roussillon
+Région Languedoc-Roussillon
 
 Aude
 
@@ -638,7 +638,7 @@ Bibliothèque municipale d'Evreux
 
 |
 
-Bibliothèque de la communauté des portes de l'Eure
+Bibliothèque de la communauté d'agglomération des portes de l'Eure
 
 |
 
@@ -704,7 +704,7 @@ Bibliothèque départementale de prêt
 
 |
 
-- Région Picardie
+Région Picardie
 
 Aisne
 
@@ -834,7 +834,7 @@ Bibliothèque de la communauté d'agglomération de La Rochelle
 
 |
 
-46
+6
 
 |
 
@@ -1454,7 +1454,7 @@ Bibliothèque départementale de prêt
 
 |
 
-- Savoie
+Savoie
 
 Bibliothèque municipale d'Aix-les-Bains
 
