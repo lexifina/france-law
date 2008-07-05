@@ -1,4 +1,4 @@
-# Article annexe
+# Article Annexe
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -6,13 +6,15 @@ DÉSIGNATION DE L'EMPLOI
 
 NIVEAU
 
-des responsabilités exercées
+des responsabilités
+
+exercées
 
 |
 
 NOMBRE
 
-D'EMPLOIS
+d'emplois
 
 |
 
@@ -22,7 +24,11 @@ de points par emploi
 
 |
 
-Secrétaire de la commission technique d'orientation et dereclassement professionnel (COTOREP)
+Secrétaire de la commission technique d'orientation et de reclassement professionnel (COTOREP) :
+
+- dans trente départements au titre de la politique de la ville (1) ;
+
+- dans les autres départements.
 
 |
 
@@ -30,39 +36,23 @@ B
 
 |
 
-|
-
-|
-
-- dans 30 départements au titre de la politique de la ville (1)
-
-|
-
-|
-
 24
-
-|
-
-30
-
-|
-
-- dans les autres départements.
-
-|
-
-|
 
 49
 
 |
 
+30
+
 25
 
 |
 
-Contrôle hors section d'inspection, spécialisé dans la répression du travail clandestin et des trafics de main d'oeuvre
+Contrôle hors section d'inspection, spécialisé dans la répression du travail clandestin et des trafics de main-d'œuvre :
+
+- dans trente départements au titre de la politique de la ville (1) ;
+
+- dans les autres départements.
 
 |
 
@@ -70,39 +60,19 @@ B
 
 |
 
-|
-
-|
-
-- dans 30 départements au titre de la politique de la ville (1)
-
-|
-
-|
-
 34
-
-|
-
-24
-
-|
-
-- dans les autres départements.
-
-|
-
-|
 
 18
 
 |
 
+24
+
 19
 
 |
 
-Responsable du secrétariat particulier des directeurs régionaux du travail, de l'emploi et de la formation professionnelle et des directeurs départementaux de 21 directions départementales du travail, de l'emploi et de la formation professionnelle.
+Responsable du secrétariat particulier des directeurs régionaux du travail, de l'emploi et de la formation professionnelle et des directeurs départementaux de vingt et une directions départementales du travail, de l'emploi et de la formation professionnelle.
 
 |
 
@@ -118,7 +88,11 @@ B
 
 |
 
-Secrétaire adjoint de la commission technique d'orientation et de reclassement professionnel (COTOREP)
+Secrétaire adjoint de la commission technique d'orientation et de reclassement professionnel (COTOREP) :
+
+- dans trente départements au titre de la politique de la ville (1) ;
+
+- dans les autres départements.
 
 |
 
@@ -126,15 +100,7 @@ B
 
 |
 
-|
-
-|
-
-- dans 30 départements au titre de la politique de la ville (1)
-
-|
-
-|
+3
 
 3
 
@@ -142,35 +108,15 @@ B
 
 20
 
-|
-
-- dans les autres départements.
-
-|
-
-|
-
-3
-
-|
-
 15
 
 |
 
 Contrôle de la recherche d'emploi :
 
-|
+- dans trente départements au titre de la politique de la ville (1) ;
 
-B
-
-|
-
-|
-
-|
-
-- dans 30 départements au titre de la politique de la ville (1)
+- dans les autres départements.
 
 |
 
@@ -180,29 +126,17 @@ B
 
 127
 
-|
-
-28
-
-|
-
-- dans les autres départements.
-
-|
-
-|
-
 115
 
 |
+
+28
 
 22
 
 |
 
-Responsable de section administrative et financière dans les directions régionales et départementales du travail, de l'emploi
-
-et de la formation professionnelle.
+Responsable de section administrative et financière dans les directions régionales et départementales du travail, de l'emploi et de la formation professionnelle.
 
 |
 
