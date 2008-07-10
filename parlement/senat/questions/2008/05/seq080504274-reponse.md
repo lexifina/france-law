@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504274
+
+- Question : [SEQ080504274](seq080504274.md) — Formation des juges consulaires au droit commercial
+
+## Réponse
+
+*Justice, JO du 2008-07-10, page 1423*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'amélioration de la justice commerciale est une préoccupation constante du ministère de la justice. Si les juges consulaires sont des commerçants élus par leurs pairs, il n'en demeure pas moins qu'un haut niveau de compétence juridique est indispensable au bon fonctionnement des tribunaux de commerce. C'est pourquoi, depuis le décret du n° 2004-1002 du 22 septembre 2004, l'École nationale de la magistrature est compétente pour assurer des sessions de formation professionnelle pour les juges consulaires. Dès lors, toutes les initiatives, telle la mise en place du cursus de « contentieux consulaire » de l'université du Sud Toulon Var, qui visent à assurer une formation approfondie aux juges des tribunaux de commerce, me semblent s'inscrire dans un objectif de qualité de la justice. Au-delà de la seule formation, la spécificité et la technicité des matières que traitent les tribunaux de commerce, ainsi que les données propres à la vie des entreprises nécessitent une pratique régulière et entretenue. Un trop faible volume d'affaires représente un handicap à la qualité de la justice que les acteurs de la vie économique sont en droit d'attendre. Cela implique que ces tribunaux aient un ressort suffisamment étendu. C'est pourquoi, dans le cadre de la réforme globale de la carte judiciaire, la carte des juridictions consulaires sera la première à être très significativement modifiée, le décret n° 2008-146 du 15 février 2008 prévoyant, dès le 1er janvier 2009, la suppression de 55 tribunaux de commerce, ainsi que la création de 5 juridictions consulaires. Ces réformes visent toutes à garantir une plus grande compétence des juges consulaires.
