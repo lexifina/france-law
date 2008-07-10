@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303722
+
+- Question : [SEQ080303722](seq080303722.md) — Méthodes employées par le Royaume-Uni pour lutter contre les incivilités et les « délits mineurs »
+
+## Réponse
+
+*Justice, JO du 2008-07-10, page 1422*
+
+La garde des sceaux, ministre de la justice, indique à l'honorable parlementaire que s'il convient de partager son analyse quant à la nécessité d'apporter une réponse pénale dès la première infraction commise, il apparaît que tous les faits cités en exemple et que le Royaume-Uni qualifie d'incivilités ou de délits mineurs constituent en France des infractions réprimées par le code pénal. De ce fait, dès lors que les faits sont caractérisés et leur auteur identifié, ils peuvent tous faire l'objet d'une réponse pouvant s'apparenter à l'injonction civile décrite par le parlementaire à savoir la mesure d'alternative aux poursuites. Qu'il s'agisse du rappel à la loi, de l'orientation vers une structure sanitaire, sociale ou professionnelle, de la régularisation de la situation constitutive de l'infraction, de la réparation du dommage, d'une médiation pénale ou d'une composition pénale laquelle peut, par exemple, se traduire par la participation du mis en cause à un stage de citoyenneté, les alternatives aux poursuites, véritables réponses judiciaires, permettent d'assurer une réponse pénale rapide tout en évitant ainsi de poursuivre systématiquement les mis en cause devant des juridictions de jugement. Le taux de réponse pénale, qui représente le nombre d'affaires ayant reçu une réponse pénale rapporté au nombre d'affaires enregistrées, s'élève pour l'année 2007 à 83,7 %. Il est en constante augmentation et traduit le souci des autorités judiciaires d'apporter une réponse pénale à tous les comportements infractionnels, fussent-il de faible gravité.
