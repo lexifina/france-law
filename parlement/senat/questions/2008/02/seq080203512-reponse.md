@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203512
+
+- Question : [SEQ080203512](seq080203512.md) — Taxe d'habitation et association
+
+## Réponse
+
+*Économie, JO du 2008-07-10, page 1407*
+
+Conformément au 2° du I de l'article 1407 du code général des impôts, les associations à but non lucratif, qu'elles soient ou non reconnues d'utilité publique, sont redevables de la taxe d'habitation pour les locaux meublés conformément à leur destination, qu'elles occupent à titre privatif et qui ne sont pas retenus pour l'établissement de la taxe professionnelle. En revanche, les locaux auxquels le public a accès et dans lequel il peut circuler librement ne sont pas imposables à la taxe d'habitation. Sans méconnaître l'intérêt qui s'attache à l'action des associations à but non lucratif et notamment aux maisons de retraite et de soins, il ne peut être envisagé d'instituer une exonération de la taxe d'habitation en leur faveur. Une telle mesure ne manquerait pas, en effet, d'être revendiquée par d'autres organismes sans but lucratif tout aussi dignes d'intérêt. Elle se traduirait, en outre, par une perte de ressources pour les collectivités territoriales concernées, sauf à en transférer la charge sur les autres contribuables, notamment les particuliers. Cela étant, lorsque la taxe d'habitation afférente aux locaux d'hébergement des pensionnaires des maisons de retraite sans but lucratif est établie au nom de l'organisme gestionnaire en raison des conditions d'occupation des locaux, ceux-ci peuvent obtenir un dégrèvement correspondant à celui dont auraient bénéficié les pensionnaires s'ils avaient été personnellement imposés à la taxe d'habitation. En outre, à l'occasion de la détermination du montant des subventions qu'elles peuvent attribuer aux établissements spécialisés situés sur leur territoire, les collectivités territoriales peuvent tenir compte du produit des impôts locaux provenant de ces établissements. Ces précisions répondent aux préoccupations exprimées.
