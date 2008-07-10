@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203453
+
+- Question : [SEQ080203453](seq080203453.md) — Fonctionnement des services de formation
+
+## Réponse
+
+*Économie, JO du 2008-07-10, page 1407*
+
+L'Association nationale pour la formation professionnelle (AFPA) exerce une activité d'orientation des demandeurs d'emploi vers des formations professionnelles, qui est partie intégrante de sa contribution au service public de l'emploi (SPE). Ainsi, l'ANPE adresse à I'AFPA des demandeurs d'emploi pour lesquels elle a élaboré un projet personnalisé d'accès à l'emploi et qui ont besoin de préparer un titre professionnel. Sur la base d'un diagnostic établi par les services d'orientation professionnelle (SOP), l'AFPA propose au demandeur d'emploi un parcours de formation, soit dans ses centres, soit dans d'autres organismes de formation. En 2006, sur 100 personnes orientées vers un parcours de formation, 65 l'ont été vers l'AFPA, le reste en dehors de l'association. S'interrogeant sur la localisation des SOP compte tenu de la réorganisation des activités de placement arrêtée par la loi du 13 février 2008, le Parlement a souhaité que lui soit transmis, début 2009, un rapport sur l'opportunité d'un transfert éventuel, des personnels de l'AFPA chargés de l'orientation professionnelle des demandeurs d'emploi au nouvel opérateur du SPE. La ministre de l'économie, de l'industrie et de l'emploi a donc chargé, par lettre du 13 février 2008, l'inspection générale des finances d'établir ce rapport dans le cadre de la mission plus générale qu'elle mène sur l'évolution des relations entre l'AFPA et l'État au-delà du 31 décembre 2008. Sur cette base et en tenant compte de l'avis que rendra prochainement le Conseil de la concurrence, suite à la saisine de la Fédération de la formation professionnelle, sur l'intervention de l'AFPA au titre du SPE et en sa qualité d'organisme de formation, le Gouvernement fera connaître ses propositions.
