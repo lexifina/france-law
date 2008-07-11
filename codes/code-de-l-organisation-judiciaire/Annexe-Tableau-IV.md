@@ -10,13 +10,13 @@ de grande instance
 
 |
 
-SIÈGE
+Siège
 
-du tribunal
+du tribunal d'instance et
 
-d'instance et de la
+de la juridiction
 
-juridiction de proximité
+de proximité
 
 |
 
@@ -3628,7 +3628,7 @@ Aveyron
 
 |
 
-[Millau
+Millau
 
 |
 
@@ -3638,7 +3638,7 @@ Cantons de Campagnac, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Beauzély
 
 |
 
-[Millau
+Millau
 
 |
 
@@ -3648,7 +3648,7 @@ Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ou
 
 |
 
-[Saint-Affrique
+Saint-Affrique
 
 |
 
@@ -3660,7 +3660,7 @@ Rodez
 
 |
 
-[Espalion
+Espalion
 
 |
 
@@ -4464,7 +4464,7 @@ Juvisy-sur-Orge
 
 |
 
-Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge, Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres.
+Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge (uniquement la commune de Juvisy-sur-Orge), Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres.
 
 |
 
@@ -4474,7 +4474,7 @@ Longjumeau
 
 |
 
-A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
+A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Juvisy-sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et de Saulx-les-Chartreux).
 
 |
 
