@@ -1,26 +1,22 @@
 # Article Annexe
 
-A. - Emplois en administration centrale
+A. - Fonctions exercées en administration centrale
 
-1° Vice-président du Conseil général des ponts et chaussées :
+1° Vice-président du Conseil général de l'environnement et du développement durable :
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Vice-président du Conseil général des ponts et chaussées
+Vice-président du Conseil général de l'environnement et du développement durable
 
 |
 
@@ -32,7 +28,7 @@ Vice-président du Conseil général des ponts et chaussées
 
 |
 
-2° Secrétaire général, directeur général, directeur d'administration centrale et délégué interministériel :
+2° Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -42,7 +38,7 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
@@ -58,91 +54,7 @@ Secrétaire général
 
 |
 
-Directeur général du personnel et de l'administration
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Directeur général adjoint, directeur des affaires juridiques, informatiques et logistiques .
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur de la recherche et de l'animation scientifique et technique
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur général de l'urbanisme, de l'habitat et de la construction
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur général des routes
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Directeur général de la mer et des transports
-
-|
-
-1
-
-|
-
-180
-
-|
-
-Directeur des transports ferroviaires et collectifs
+Directeur, adjoint du secrétaire général
 
 |
 
@@ -154,7 +66,139 @@ Directeur des transports ferroviaires et collectifs
 
 |
 
-Directeur des transports maritimes, routiers et fluviaux..
+Directeur des ressources humaines
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des affaires européennes et internationales....
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des affaires juridiques
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de la communication
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Commissaire général du développement durable
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur, adjoint du commissaire général au développement durable
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général de l'énergie et du climat
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur de l'énergie
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général des infrastructures, des transports et de la mer
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur des infrastructures de transport
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des services de transport
 
 |
 
@@ -178,7 +222,19 @@ Directeur des affaires maritimes
 
 |
 
-Directeur de la sécurité et de la circulation routières .
+Directeur général de l'aviation civile
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur du transport aérien
 
 |
 
@@ -190,7 +246,7 @@ Directeur de la sécurité et de la circulation routières .
 
 |
 
-Directeur du tourisme .
+Directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
 
 |
 
@@ -198,23 +254,11 @@ Directeur du tourisme .
 
 |
 
-140
+160
 
 |
 
-Directeur de l'Etablissement national des invalides de la marine
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur des affaires économiques et internationales
+Directeur général de l'aménagement, du logement et de la nature
 
 |
 
@@ -222,7 +266,55 @@ Directeur des affaires économiques et internationales
 
 |
 
-140
+180
+
+|
+
+Directeur de l'habitat, de l'urbanisme et des paysages
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de l'eau et de la biodiversité
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général de la prévention des risques
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Délégué à la circulation et à la sécurité routières
+
+|
+
+1
+
+|
+
+160
 
 |
 
@@ -238,25 +330,7 @@ Délégué interministériel à la ville
 
 |
 
-3° Haut fonctionnaire de défense, haut fonctionnaire pour la sécurité dans les transports, haut fonctionnaire délégué à l'intermodalité ou à l'accessibilité :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points par emploi
-
-|
-
-Haut fonctionnaire de défense
+Délégué aux cadres dirigeants
 
 |
 
@@ -268,43 +342,7 @@ Haut fonctionnaire de défense
 
 |
 
-Haut fonctionnaire pour la sécurité dans les transports
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haut fonctionnaire délégué à l'intermodalité
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haut fonctionnaire délégué à l'accessibilité
-
-|
-
-1
-
-|
-
-80
-
-|
-
-4° Directeur de centre :
+3° Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -314,33 +352,7 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE de points par emploi
-
-|
-
-Directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques
-
-|
-
-1
-
-|
-
-120
-
-|
-
-5° Chef de service, directeur adjoint et délégué interministériel adjoint :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE d'emplois
-
-|
-
-NOMBRE de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
@@ -352,7 +364,7 @@ a) Secrétariat général
 
 |
 
-Chef du service du pilotage des services et de la modernisation
+Chef de service, adjoint du directeur des ressources humaines
 
 |
 
@@ -364,87 +376,7 @@ Chef du service du pilotage des services et de la modernisation
 
 |
 
-Chef du service du personnel et de l'administration
-
-|
-
-1
-
-|
-
-110
-
-|
-
-b) Direction des affaires économiques et internationales
-
-|
-
-|
-
-|
-
-Chef du service économie, statistiques et prospective
-
-|
-
-1
-
-|
-
-100
-
-|
-
-c) Direction de la recherche et de l'animation scientifique et technique
-
-|
-
-|
-
-|
-
-Directeur adjoint .
-
-|
-
-1
-
-|
-
-100
-
-|
-
-d) Service de l'information et de la communication
-
-|
-
-|
-
-|
-
-Chef du service
-
-|
-
-1
-
-|
-
-110
-
-|
-
-e) Direction générale du personnel et de l'administration
-
-|
-
-|
-
-|
-
-Chef du service du personnel
+Chef du service des emplois et des compétences
 
 |
 
@@ -456,7 +388,7 @@ Chef du service du personnel
 
 |
 
-Chef du service des effectifs et du budget
+Chef du service de la gestion du personnel
 
 |
 
@@ -468,15 +400,7 @@ Chef du service des effectifs et du budget
 
 |
 
-f) Direction des affaires juridiques, informatiques et logistiques
-
-|
-
-|
-
-|
-
-Directeur adjoint .
+Chef du service des politiques support et des systèmes d'information
 
 |
 
@@ -488,47 +412,7 @@ Directeur adjoint .
 
 |
 
-g) Direction générale de l'urbanisme, de l'habitat et de la construction
-
-|
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Chef de service
-
-|
-
-3
-
-|
-
-110
-
-|
-
-h) Direction générale des routes
-
-|
-
-|
-
-|
-
-Directeur adjoint
+Chef du service du pilotage et de l'évolution des services
 
 |
 
@@ -540,75 +424,7 @@ Directeur adjoint
 
 |
 
-i) Direction des transports ferroviaires et collectifs
-
-|
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-1
-
-|
-
-110
-
-|
-
-j) Direction des transports maritimes, routiers et fluviaux
-
-|
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-2
-
-|
-
-120
-
-|
-
-k) Direction des affaires maritimes
-
-|
-
-|
-
-|
-
-Directeur adjoint
-
-|
-
-1
-
-|
-
-110
-
-|
-
-l) Direction de la sécurité et de la circulation routières
-
-|
-
-|
-
-|
-
-Directeur adjoint
+Chef du service des affaires financières
 
 |
 
@@ -620,15 +436,7 @@ Directeur adjoint
 
 |
 
-m) Direction du tourisme
-
-|
-
-|
-
-|
-
-Directeur adjoint
+Chef du service de défense, de sécurité et d'intelligence économique
 
 |
 
@@ -636,11 +444,23 @@ Directeur adjoint
 
 |
 
-100
+120
 
 |
 
-n) Direction de l'Etablissement national des invalides de la marine
+Chef de service, adjoint du directeur des affaires juridiques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+b) Commissariat général au développement durable
 
 |
 
@@ -648,7 +468,115 @@ n) Direction de l'Etablissement national des invalides de la marine
 
 |
 
-Directeur adjoint
+Chef du service de la recherche
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'observation et des statistiques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'économie, de l'évaluation et de l'intégration du développement durable
+
+|
+
+1
+
+|
+
+120
+
+|
+
+c) Direction générale de l'énergie et du climat
+
+|
+
+|
+
+|
+
+Chef du service du climat et de l'efficacité énergétique
+
+|
+
+1
+
+|
+
+120
+
+|
+
+d) Direction générale des infrastructures, des transports et de la mer
+
+|
+
+|
+
+|
+
+Chef du service de la gestion du réseau routier national
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'administration générale et de la stratégie
+
+|
+
+1
+
+|
+
+120
+
+|
+
+e) Direction générale de l'aviation civile
+
+|
+
+|
+
+|
+
+Chef du service du secrétariat général
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Adjoint au directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
 
 |
 
@@ -660,7 +588,7 @@ Directeur adjoint
 
 |
 
-o) Délégation interministérielle à la ville
+f) Direction générale de l'aménagement, du logement et de la nature
 
 |
 
@@ -668,7 +596,7 @@ o) Délégation interministérielle à la ville
 
 |
 
-Délégué interministériel adjoint
+Chef du service des affaires générales et de la performance
 
 |
 
@@ -676,11 +604,89 @@ Délégué interministériel adjoint
 
 |
 
-100
+120
 
 |
 
-p) Service central de l'inspection du travail des transports
+g) Direction générale de la prévention des risques
+
+|
+
+|
+
+|
+
+Chef de service, adjoint au directeur général de la prévention des risques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des risques technologiques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de la prévention des nuisances et de la qualité de l'environnement
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des risques naturels et hydrauliques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+h) Délégation à la circulation et à la sécurité routières
+
+|
+
+|
+
+|
+
+Adjoint au délégué, chef de service
+
+|
+
+1
+
+|
+
+110
+
+|
+
+i) Service central de l'inspection du travail des transports
+
+(jusqu'au 31 décembre 2008)
 
 |
 
@@ -700,21 +706,21 @@ Inspecteur général
 
 |
 
-6° Sous-directeur, directeur de projet :
+4° Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint à un chef de service d'administration centrale, secrétaire permanent :
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Direction générale du personnel et de l'administration
+a) Secrétariat général
 
 |
 
@@ -722,19 +728,7 @@ a) Direction générale du personnel et de l'administration
 
 |
 
-Sous-directeur des personnels administratifs, maritimes et des transports terrestres
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur des personnels techniques, d'exploitation et contractuels..
+Sous-directeur de la gestion des ressources en emplois et en compétences
 
 |
 
@@ -742,23 +736,11 @@ Sous-directeur des personnels techniques, d'exploitation et contractuels..
 
 |
 
-110
+90
 
 |
 
-Sous-directeur du recrutement, des concours et de la formation
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la gestion des compétences et des effectifs, du budget du personnel et du fonctionnement des services
+Sous-directeur du développement des compétences et de la formation
 
 |
 
@@ -766,23 +748,11 @@ Sous-directeur de la gestion des compétences et des effectifs, du budget du per
 
 |
 
-110
+90
 
 |
 
-Sous-directeur des affaires financières ....
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur du développement professionnel.
+Sous-directeur des parcours professionnels et des mobilités
 
 |
 
@@ -790,31 +760,11 @@ Sous-directeur du développement professionnel.
 
 |
 
-110
+90
 
 |
 
-Sous-directeur de la maîtrise d'ouvrage des systèmes d'information de personnel et d'administration .
-
-|
-
-1
-
-|
-
-80
-
-|
-
-b) Direction des affaires juridiques, informatiques et logistiques
-
-|
-
-|
-
-|
-
-Sous-directeur de l'éthique et du droit privé.
+Sous-directeur des personnels d'encadrement, maritimes et des contractuels
 
 |
 
@@ -822,23 +772,11 @@ Sous-directeur de l'éthique et du droit privé.
 
 |
 
-110
+90
 
 |
 
-Sous-directeur de l'assistance aux services et du droit public
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur des technologies de l'information
+Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres
 
 |
 
@@ -846,23 +784,11 @@ Sous-directeur des technologies de l'information
 
 |
 
-80
+90
 
 |
 
-Sous-directeur des prestations logistiques et des moyens .
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur du cadre de vie des personnels de l'administration centrale
+Sous-directeur des politiques sociales et des pensions
 
 |
 
@@ -870,19 +796,11 @@ Sous-directeur du cadre de vie des personnels de l'administration centrale
 
 |
 
-80
+90
 
 |
 
-c) Direction des affaires économiques et internationales
-
-|
-
-|
-
-|
-
-Sous-directeur du bâtiment, des travaux publics et des secteurs professionnels
+Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale
 
 |
 
@@ -890,23 +808,11 @@ Sous-directeur du bâtiment, des travaux publics et des secteurs professionnels
 
 |
 
-100
+90
 
 |
 
-Sous-directeur des actions internationales.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'observation statistique de la construction
+Sous-directeur de la conduite et de la gestion des moyens budgétaires des fonctions support
 
 |
 
@@ -914,7 +820,315 @@ Sous-directeur de l'observation statistique de la construction
 
 |
 
-80
+90
+
+|
+
+Sous-directeur d'appui technique et logistique de l'administration centrale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du schéma directeur et de la politique des systèmes d'information
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des systèmes d'information pour les activités support
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la modernisation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du pilotage des services et des écoles
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la conduite et de l'accompagnement du changement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du budget et des contrôles
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des marchés et de la comptabilité
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé de la mer
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du changement climatique et du développement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la régulation européenne
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des échanges internationaux
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'administration générale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'environnement et de l'urbanisme
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'énergie et des transports
+
+|
+
+1
+
+|
+
+90
+
+|
+
+b) Commissariat général au développement durable
+
+|
+
+|
+
+|
+
+Sous-directeur de l'innovation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'animation scientifique et technique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'économie des ressources naturelles et des risques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la mobilité et de l'aménagement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'intégration des démarches de développement durable par les acteurs économiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'intégration des démarches de développement durable dans les politiques publiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'observation de l'énergie et des matières premières
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'observation statistique du logement et de la construction
+
+|
+
+1
+
+|
+
+90
 
 |
 
@@ -926,51 +1140,11 @@ Sous-directeur de l'observation statistique des transports
 
 |
 
-80
+90
 
 |
 
-Sous-directeur des affaires européennes .
-
-|
-
-1
-
-|
-
-100
-
-|
-
-d) Direction de la recherche et de l'animation
-
-|
-
-|
-
-|
-
-scientifique et technique
-
-|
-
-|
-
-|
-
-Sous-directeur du développement scientifique et technique
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur des affaires financières et internationales
+Sous-directeur de l'information environnementale
 
 |
 
@@ -982,163 +1156,7 @@ Sous-directeur des affaires financières et internationales
 
 |
 
-e) Direction générale de l'urbanisme,
-
-|
-
-|
-
-|
-
-de l'habitat et de la construction
-
-|
-
-|
-
-|
-
-Sous-directeur du financement et du budget
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur des interventions urbaines et de l'habitat
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur du droit de l'urbanisme.
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur de la qualité de la construction.
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur des organismes constructeurs.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la planification stratégique.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur du droit de l'habitat..
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'observation et des études.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des métiers de l'aménagement.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-f) Direction générale des routes
-
-|
-
-|
-
-|
-
-Sous-directeur des investissements routiers..
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur des autoroutes et des ouvrages concédés
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur de la gestion du réseau .
+Sous-directeur des méthodes, données et synthèses environnementales
 
 |
 
@@ -1150,7 +1168,7 @@ Sous-directeur de la gestion du réseau .
 
 |
 
-Sous-directeur de la planification et du budget.
+Sous-directeur des affaires générales
 
 |
 
@@ -1162,7 +1180,7 @@ Sous-directeur de la planification et du budget.
 
 |
 
-g) Direction des transports ferroviaires et collectifs
+c) Direction générale de l'énergie et du climat
 
 |
 
@@ -1170,19 +1188,7 @@ g) Direction des transports ferroviaires et collectifs
 
 |
 
-Sous-directeur des infrastructures de transports ferroviaires et collectifs
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur des services de transports ferroviaires et collectifs
+Sous-directeur des marchés de l'énergie et des affaires sociales
 
 |
 
@@ -1190,31 +1196,11 @@ Sous-directeur des services de transports ferroviaires et collectifs
 
 |
 
-100
+90
 
 |
 
-Sous-directeur de la sécurité, de l'organisation et des affaires européennes et internationales des transports ferroviaires et collectifs
-
-|
-
-1
-
-|
-
-100
-
-|
-
-h) Direction des transports maritimes, routiers et fluviaux
-
-|
-
-|
-
-|
-
-Sous-directeur des ports, des voies navigables et du littoral..
+Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques
 
 |
 
@@ -1222,23 +1208,11 @@ Sous-directeur des ports, des voies navigables et du littoral..
 
 |
 
-110
+90
 
 |
 
-Sous-directeur des transports maritimes et fluviaux
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur des transports routiers.
+Sous-directeur du système électrique et des énergies renouvelables
 
 |
 
@@ -1246,7 +1220,183 @@ Sous-directeur des transports routiers.
 
 |
 
-110
+90
+
+|
+
+Sous-directeur de l'industrie nucléaire
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du climat et de la qualité de l'air
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité et des émissions des véhicules
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires générales et de la synthèse
+
+|
+
+1
+
+|
+
+90
+
+|
+
+d) Direction générale des infrastructures, des transports et de la mer
+
+|
+
+|
+
+|
+
+Sous-directeur de la gestion du réseau autoroutier concédé
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des services routiers déconcentrés et du contrôle de gestion
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la construction et de la politique technique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la gestion du réseau routier non concédé et du trafic
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du développement du réseau routier national
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des services ferroviaires et des déplacements urbains
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des ports et du transport fluvial
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des transports routiers
+
+|
+
+1
+
+|
+
+90
 
 |
 
@@ -1258,15 +1408,7 @@ Sous-directeur du travail et des affaires sociales
 
 |
 
-110
-
-|
-
-i) Direction des affaires maritimes
-
-|
-
-|
+90
 
 |
 
@@ -1278,233 +1420,11 @@ Sous-directeur de la sécurité maritime
 
 |
 
-110
+90
 
 |
 
-Sous-directeur des gens de mer et de l'enseignement maritime.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des activités littorales et maritimes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des systèmes d'information maritimes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-j) Secrétariat général de la direction générale de la mer et des transports
-
-|
-
-|
-
-|
-
-Sous-directeur du contrôle de gestion, du pilotage de la performance et du budget.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des affaires générales .
-
-|
-
-1
-
-|
-
-80
-
-|
-
-k) Direction de la sécurité et de la circulation routières
-
-|
-
-|
-
-|
-
-Sous-directeur de la sécurité de la route et de la gestion du trafic
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur de l'éducation routière.
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur de l'action interministérielle et de la communication
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur de la réglementation technique des véhicules
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des actions transversales et des ressources
-
-|
-
-1
-
-|
-
-80
-
-|
-
-l) Direction du tourisme
-
-|
-
-|
-
-|
-
-Sous-directeur des politiques touristiques
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de l'administration générale et de l'évaluation interne
-
-|
-
-1
-
-|
-
-100
-
-|
-
-m) Direction de l'Etablissement national des invalides de la marine
-
-|
-
-|
-
-|
-
-Sous-directeur du personnel, de la modernisation et du pilotage des services
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la sécurité sociale des marins
-
-|
-
-1
-
-|
-
-80
-
-|
-
-7° Chef ou président de mission :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE de points par emploi
-
-|
-
-Direction générale des routes
-
-|
-
-|
-
-|
-
-Président de la mission du contrôle des sociétés concessionnaires d'autoroutes
+Sous-directeur des gens de mer et de l'enseignement maritime
 
 |
 
@@ -1516,29 +1436,7 @@ Président de la mission du contrôle des sociétés concessionnaires d'autorout
 
 |
 
-8° Secrétaire général, secrétaire permanent :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE de points par emploi
-
-|
-
-a) Direction générale de l'urbanisme, de l'habitat et de la construction
-
-|
-
-|
-
-|
-
-Secrétaire général des grandes opérations d'urbanisme
+Sous-directeur des activités maritimes
 
 |
 
@@ -1546,31 +1444,11 @@ Secrétaire général des grandes opérations d'urbanisme
 
 |
 
-110
+90
 
 |
 
-Secrétaire permanent du plan urbanisme, construction et architecture
-
-|
-
-1
-
-|
-
-100
-
-|
-
-b) Direction générale de la mer et des transports
-
-|
-
-|
-
-|
-
-Secrétaire général
+Sous-directeur des systèmes d'information maritimes
 
 |
 
@@ -1578,19 +1456,11 @@ Secrétaire général
 
 |
 
-110
+90
 
 |
 
-c) Direction de la sécurité et de la circulation routières
-
-|
-
-|
-
-|
-
-Secrétaire général de l'Observatoire national interministériel de la sécurité routière
+Sous-directeur des études et de la prospective
 
 |
 
@@ -1598,19 +1468,11 @@ Secrétaire général de l'Observatoire national interministériel de la sécuri
 
 |
 
-100
+90
 
 |
 
-d) Délégation interministérielle à la ville
-
-|
-
-|
-
-|
-
-Secrétaire général
+Sous-directeur du budget et de la synthèse administrative
 
 |
 
@@ -1618,7 +1480,459 @@ Secrétaire général
 
 |
 
-100
+90
+
+|
+
+Chef du service de santé des gens de mer
+
+|
+
+1
+
+|
+
+90
+
+|
+
+e) Direction générale de l'aviation civile
+
+|
+
+|
+
+|
+
+Sous-directeur du développement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des transporteurs et services aériens
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des aéroports
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la construction aéronautique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sûreté et de la défense
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'Europe et de l'international
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des études, des statistiques et de la prospective
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires financières et du contrôle de gestion
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des systèmes d'information et de la modernisation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des méthodes et de la qualité (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels navigants (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la navigabilité et des opérations (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la navigation aérienne, des aéroports et de la sûreté (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+f) Direction générale de l'aménagement, du logement et de la nature
+
+|
+
+|
+
+|
+
+Sous-directeur du financement du logement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des politiques de l'habitat
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la législation de l'habitat et des organismes constructeurs
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la qualité et du développement durable dans la construction
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la qualité du cadre de vie
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'aménagement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des espaces naturels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la protection et de la valorisation des espèces et de leurs milieux
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la protection et de la gestion des ressources en eau et minérales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du littoral et des milieux marins
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires générales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la performance
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Secrétaire permanent du Plan urbanisme construction architecture
+
+|
+
+1
+
+|
+
+90
+
+|
+
+g) Direction générale de la prévention des risques
+
+|
+
+|
+
+|
+
+Sous-directeur des risques accidentels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des risques chroniques et du pilotage
+
+|
+
+1
+
+|
+
+90
+
+|
+
+h) Délégation à la circulation et à la sécurité routières
+
+|
+
+|
+
+|
+
+Sous-directeur de l'action interministérielle
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'éducation routière
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des actions transversales et des ressources
+
+|
+
+1
+
+|
+
+90
 
 |
 
@@ -2118,67 +2432,25 @@ Directeur interdépartemental des routes : Nord, Nord-Ouest, Centre-Ouest, Atlan
 
 |
 
-C. - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
+C - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
-Directeur, chef de service ou chef de centre :
+Directeur ou délégué ou chef de service ou chef de centre :
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Service technique des remontées mécaniques et des transports guidés
+a) Centre d'études sur les réseaux, les transports, l'urbanisme
 
-|
-
-|
-
-|
-
-Chef du service
-
-|
-
-1
-
-|
-
-90
-
-|
-
-b) Centre d'études techniques maritimes et fluviales
-
-|
-
-|
-
-|
-
-Chef du centre
-
-|
-
-1
-
-|
-
-110
-
-|
-
-c) Service d'études techniques des routes et des autoroutes
+et les constructions publiques
 
 |
 
@@ -2198,7 +2470,67 @@ Directeur
 
 |
 
-d) Centre d'études des tunnels
+b) Service technique des remontées mécaniques et des transports guidés
+
+|
+
+|
+
+|
+
+Chef du service
+
+|
+
+1
+
+|
+
+90
+
+|
+
+c) Centre d'études techniques maritimes et fluviales
+
+|
+
+|
+
+|
+
+Chef du centre
+
+|
+
+1
+
+|
+
+110
+
+|
+
+d) Service d'études sur les transports, les routes et leurs aménagements
+
+|
+
+|
+
+|
+
+Directeur
+
+|
+
+1
+
+|
+
+120
+
+|
+
+e) Centre d'études des tunnels
 
 |
 
@@ -2215,5 +2547,25 @@ Directeur
 |
 
 90
+
+|
+
+f) Délégation à l'action foncière et immobilière
+
+|
+
+|
+
+|
+
+Délégué à l'action foncière et immobilière
+
+|
+
+1
+
+|
+
+120
 
 |

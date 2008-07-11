@@ -1,8 +1,10 @@
 # Article Annexe
 
-A. - Fonctions exercées en administration centrale, à l'inspection générale de l'aviation civile et de la météorologie et au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile
+A. - Fonctions exercées en administration centrale
 
-DÉSIGNATION DE LA FONCTION
+1° Vice-président du Conseil général de l'environnement et du développement durable :
+
+DÉSIGNATION DE L'EMPLOI
 
 |
 
@@ -10,7 +12,213 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS par emploi
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Vice-président du Conseil général de l'environnement et du développement durable
+
+|
+
+1
+
+|
+
+180
+
+|
+
+2° Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué :
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Secrétaire général
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur, adjoint du secrétaire général
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des ressources humaines
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des affaires européennes et internationales....
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des affaires juridiques
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de la communication
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Commissaire général du développement durable
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur, adjoint du commissaire général au développement durable
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général de l'énergie et du climat
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur de l'énergie
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général des infrastructures, des transports et de la mer
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur des infrastructures de transport
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des services de transport
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur des affaires maritimes
+
+|
+
+1
+
+|
+
+160
 
 |
 
@@ -26,7 +234,7 @@ Directeur général de l'aviation civile
 
 |
 
-Directeur des affaires stratégiques et techniques
+Directeur du transport aérien
 
 |
 
@@ -34,23 +242,11 @@ Directeur des affaires stratégiques et techniques
 
 |
 
-140
+160
 
 |
 
-Directeur de la régulation économique
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur des programmes aéronautiques et de la coopération
+Directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
 
 |
 
@@ -58,23 +254,11 @@ Directeur des programmes aéronautiques et de la coopération
 
 |
 
-140
+160
 
 |
 
-Directeur du contrôle de la sécurité
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur, secrétaire général
+Directeur général de l'aménagement, du logement et de la nature
 
 |
 
@@ -82,11 +266,71 @@ Directeur, secrétaire général
 
 |
 
-150
+180
 
 |
 
-Adjoint au directeur général de l'aviation civile
+Directeur de l'habitat, de l'urbanisme et des paysages
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur de l'eau et de la biodiversité
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Directeur général de la prévention des risques
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Délégué à la circulation et à la sécurité routières
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Délégué interministériel à la ville
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Délégué aux cadres dirigeants
 
 |
 
@@ -98,7 +342,29 @@ Adjoint au directeur général de l'aviation civile
 
 |
 
-Adjoint au directeur des affaires stratégiques et techniques
+3° Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale :
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+a) Secrétariat général
+
+|
+
+|
+
+|
+
+Chef de service, adjoint du directeur des ressources humaines
 
 |
 
@@ -106,23 +372,11 @@ Adjoint au directeur des affaires stratégiques et techniques
 
 |
 
-100
+120
 
 |
 
-Adjoint au directeur de la régulation économique
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint au directeur du contrôle de la sécurité
+Chef du service des emplois et des compétences
 
 |
 
@@ -130,11 +384,199 @@ Adjoint au directeur du contrôle de la sécurité
 
 |
 
-100
+120
 
 |
 
-Adjoint au secrétaire général
+Chef du service de la gestion du personnel
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des politiques support et des systèmes d'information
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service du pilotage et de l'évolution des services
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des affaires financières
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de défense, de sécurité et d'intelligence économique
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint du directeur des affaires juridiques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+b) Commissariat général au développement durable
+
+|
+
+|
+
+|
+
+Chef du service de la recherche
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'observation et des statistiques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'économie, de l'évaluation et de l'intégration du développement durable
+
+|
+
+1
+
+|
+
+120
+
+|
+
+c) Direction générale de l'énergie et du climat
+
+|
+
+|
+
+|
+
+Chef du service du climat et de l'efficacité énergétique
+
+|
+
+1
+
+|
+
+120
+
+|
+
+d) Direction générale des infrastructures, des transports et de la mer
+
+|
+
+|
+
+|
+
+Chef du service de la gestion du réseau routier national
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'administration générale et de la stratégie
+
+|
+
+1
+
+|
+
+120
+
+|
+
+e) Direction générale de l'aviation civile
+
+|
+
+|
+
+|
+
+Chef du service du secrétariat général
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Adjoint au directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
 
 |
 
@@ -146,7 +588,15 @@ Adjoint au secrétaire général
 
 |
 
-Président de la Commission nationale du client aérien
+f) Direction générale de l'aménagement, du logement et de la nature
+
+|
+
+|
+
+|
+
+Chef du service des affaires générales et de la performance
 
 |
 
@@ -154,27 +604,11 @@ Président de la Commission nationale du client aérien
 
 |
 
-100
+120
 
 |
 
-Directeur de projet
-
-|
-
-4*
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la direction
-
-des affaires stratégiques et techniques
+g) Direction générale de la prévention des risques
 
 |
 
@@ -182,7 +616,7 @@ des affaires stratégiques et techniques
 
 |
 
-Sous-directeur de la prospective, du développement et de l'environnement.
+Chef de service, adjoint au directeur général de la prévention des risques
 
 |
 
@@ -190,23 +624,11 @@ Sous-directeur de la prospective, du développement et de l'environnement.
 
 |
 
-80
+120
 
 |
 
-Sous-directeur de la sécurité et de l'espace aérien
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la sûreté et de la défense
+Chef du service des risques technologiques
 
 |
 
@@ -214,35 +636,11 @@ Sous-directeur de la sûreté et de la défense
 
 |
 
-80
+120
 
 |
 
-Sous-directeur de la stratégie européenne et internationale
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la direction
-
-de la régulation économique
-
-|
-
-|
-
-|
-
-Sous-directeur des entreprises de transport aérien et des dessertes de service public
+Chef du service de la prévention des nuisances et de la qualité de l'environnement
 
 |
 
@@ -250,7 +648,883 @@ Sous-directeur des entreprises de transport aérien et des dessertes de service 
 
 |
 
-80
+120
+
+|
+
+Chef du service des risques naturels et hydrauliques
+
+|
+
+1
+
+|
+
+120
+
+|
+
+h) Délégation à la circulation et à la sécurité routières
+
+|
+
+|
+
+|
+
+Adjoint au délégué, chef de service
+
+|
+
+1
+
+|
+
+110
+
+|
+
+i) Service central de l'inspection du travail des transports
+
+(jusqu'au 31 décembre 2008)
+
+|
+
+|
+
+|
+
+Inspecteur général
+
+|
+
+1
+
+|
+
+110
+
+|
+
+4° Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint à un chef de service d'administration centrale, secrétaire permanent :
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+a) Secrétariat général
+
+|
+
+|
+
+|
+
+Sous-directeur de la gestion des ressources en emplois et en compétences
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du développement des compétences et de la formation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des parcours professionnels et des mobilités
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels d'encadrement, maritimes et des contractuels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des politiques sociales et des pensions
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la conduite et de la gestion des moyens budgétaires des fonctions support
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur d'appui technique et logistique de l'administration centrale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du schéma directeur et de la politique des systèmes d'information
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des systèmes d'information pour les activités support
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la modernisation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du pilotage des services et des écoles
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la conduite et de l'accompagnement du changement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du budget et des contrôles
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des marchés et de la comptabilité
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé de la mer
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du changement climatique et du développement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la régulation européenne
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des échanges internationaux
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'administration générale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'environnement et de l'urbanisme
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires juridiques de l'énergie et des transports
+
+|
+
+1
+
+|
+
+90
+
+|
+
+b) Commissariat général au développement durable
+
+|
+
+|
+
+|
+
+Sous-directeur de l'innovation
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'animation scientifique et technique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'économie des ressources naturelles et des risques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la mobilité et de l'aménagement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'intégration des démarches de développement durable par les acteurs économiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'intégration des démarches de développement durable dans les politiques publiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'observation de l'énergie et des matières premières
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'observation statistique du logement et de la construction
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'observation statistique des transports
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'information environnementale
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des méthodes, données et synthèses environnementales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires générales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+c) Direction générale de l'énergie et du climat
+
+|
+
+|
+
+|
+
+Sous-directeur des marchés de l'énergie et des affaires sociales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du système électrique et des énergies renouvelables
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'industrie nucléaire
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du climat et de la qualité de l'air
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité et des émissions des véhicules
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires générales et de la synthèse
+
+|
+
+1
+
+|
+
+90
+
+|
+
+d) Direction générale des infrastructures, des transports et de la mer
+
+|
+
+|
+
+|
+
+Sous-directeur de la gestion du réseau autoroutier concédé
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des services routiers déconcentrés et du contrôle de gestion
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la construction et de la politique technique
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la gestion du réseau routier non concédé et du trafic
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du développement du réseau routier national
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des services ferroviaires et des déplacements urbains
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des ports et du transport fluvial
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des transports routiers
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du travail et des affaires sociales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la sécurité maritime
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des gens de mer et de l'enseignement maritime
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des activités maritimes
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des systèmes d'information maritimes
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des études et de la prospective
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du budget et de la synthèse administrative
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Chef du service de santé des gens de mer
+
+|
+
+1
+
+|
+
+90
+
+|
+
+e) Direction générale de l'aviation civile
+
+|
+
+|
+
+|
+
+Sous-directeur du développement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des transporteurs et services aériens
+
+|
+
+1
+
+|
+
+90
 
 |
 
@@ -262,95 +1536,11 @@ Sous-directeur des aéroports
 
 |
 
-80
+90
 
 |
 
-Sous-directeur de la concurrence, de la facilitation et des clients du service aérien.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur du transport aérien international
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la direction des programmes
-
-aéronautiques et de la coopération
-
-|
-
-|
-
-|
-
-Sous-directeur des affaires européennes et de la coopération internationale
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la recherche et du développement
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des affaires économiques et financières
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la direction
-
-du contrôle de la sécurité
-
-|
-
-|
-
-|
-
-Sous-directeur des méthodes et de la qualité
+Sous-directeur de la construction aéronautique
 
 |
 
@@ -362,31 +1552,7 @@ Sous-directeur des méthodes et de la qualité
 
 |
 
-Sous-directeur des personnels navigants
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la navigabilité et des opérations
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la navigation aérienne, des aéroports et de la sûreté
+Sous-directeur de la sûreté et de la défense
 
 |
 
@@ -398,17 +1564,31 @@ Sous-directeur de la navigation aérienne, des aéroports et de la sûreté
 
 |
 
-En charge d'une sous-direction
-
-relevant du secrétariat général
+Sous-directeur de l'Europe et de l'international
 
 |
 
-|
+1
 
 |
 
-Sous-directeur de la réglementation et de la gestion des personnels
+90
+
+|
+
+Sous-directeur des études, des statistiques et de la prospective
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels
 
 |
 
@@ -440,11 +1620,11 @@ Sous-directeur des affaires juridiques
 
 |
 
-80
+90
 
 |
 
-Sous-directeur de la modernisation, de l'informatique de gestion et de la formation
+Sous-directeur des systèmes d'information et de la modernisation
 
 |
 
@@ -452,155 +1632,313 @@ Sous-directeur de la modernisation, de l'informatique de gestion et de la format
 
 |
 
-80
+90
 
 |
 
-* Le quatrième emploi de directeur de projet est créé à compter du 1er janvier 2009.
+Sous-directeur des méthodes et de la qualité (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des personnels navigants (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la navigabilité et des opérations (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la navigation aérienne, des aéroports et de la sûreté (jusqu'au 31 décembre 2008)
+
+|
+
+1
+
+|
+
+90
+
+|
+
+f) Direction générale de l'aménagement, du logement et de la nature
+
+|
+
+|
+
+|
+
+Sous-directeur du financement du logement
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des politiques de l'habitat
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la législation de l'habitat et des organismes constructeurs
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la qualité et du développement durable dans la construction
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la qualité du cadre de vie
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'aménagement durable
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des espaces naturels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la protection et de la valorisation des espèces et de leurs milieux
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la protection et de la gestion des ressources en eau et minérales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur du littoral et des milieux marins
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des affaires générales
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de la performance
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Secrétaire permanent du Plan urbanisme construction architecture
+
+|
+
+1
+
+|
+
+90
+
+|
+
+g) Direction générale de la prévention des risques
+
+|
+
+|
+
+|
+
+Sous-directeur des risques accidentels
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des risques chroniques et du pilotage
+
+|
+
+1
+
+|
+
+90
+
+|
+
+h) Délégation à la circulation et à la sécurité routières
+
+|
+
+|
+
+|
+
+Sous-directeur de l'action interministérielle
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'éducation routière
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des actions transversales et des ressources
+
+|
+
+1
+
+|
+
+90
+
+|
 
 B. - Fonctions exercées dans les services déconcentrés
 
-DÉSIGNATION DE LA FONCTION
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Directeur de l'aviation civile nord
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile nord-est
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile centre-est
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile sud-est
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile sud
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile sud-ouest
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur de l'aviation civile ouest
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Direction de l'aviation civile aux Antilles et en Guyane
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service d'État de l'aviation civile en Nouvelle-Calédonie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du service d'État de l'aviation civile en Polynésie française
-
-|
-
-1
-
-|
-
-80
-
-|
-
-C. - Fonctions exercées dans les services à compétence nationale, au service technique de la navigation aérienne et au service d'exploitation de la formation aéronautique
-
-DÉSIGNATION DE LA FONCTION
+DÉSIGNATION DE L'EMPLOI
 
 |
 
@@ -608,7 +1946,53 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS par emploi
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Chef du service d'Etat de l'aviation civile en Nouvelle-Calédonie
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef du service d'Etat de l'aviation civile en Polynésie française
+
+|
+
+1
+
+|
+
+80
+
+|
+
+C. - Fonctions exercées dans les services à compétence nationale
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+1. Direction des services de la navigation aérienne-DSNA
+
+|
+
+|
 
 |
 
@@ -656,91 +2040,7 @@ Adjoint au directeur des services de la navigation aérienne
 
 |
 
-80
-
-|
-
-Adjoint en route du directeur des opérations
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint approches du directeur des opérations
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur de cabinet du directeur des services de la navigation aérienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la technique
-
-et de l'innovation
-
-|
-
-|
-
-|
-
-Adjoint au directeur de la technique et de l'innovation
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction
-
-relevant de la direction des services
-
-de la navigation aérienne
-
-|
-
-|
+110
 
 |
 
@@ -752,7 +2052,7 @@ Sous-directeur de la planification et de la stratégie
 
 |
 
-80
+90
 
 |
 
@@ -764,7 +2064,7 @@ Sous-directeur des ressources humaines
 
 |
 
-80
+90
 
 |
 
@@ -776,21 +2076,11 @@ Sous-directeur des finances
 
 |
 
-80
+90
 
 |
 
-En charge d'un service
-
-de la navigation aérienne
-
-|
-
-|
-
-|
-
-Chef du service de la navigation aérienne Région parisienne
+Adjoint opérationnel au directeur des opérations
 
 |
 
@@ -802,7 +2092,7 @@ Chef du service de la navigation aérienne Région parisienne
 
 |
 
-Chef de l'organisme de Roissy au sein du service de la navigation aérienne Région parisienne
+Adjoint ressources au directeur des opérations
 
 |
 
@@ -814,15 +2104,67 @@ Chef de l'organisme de Roissy au sein du service de la navigation aérienne Rég
 
 |
 
-En charge d'un centre en route de la navigation aérienne
+Directeur du cabinet du directeur des services de la navigation aérienne
 
 |
 
-|
+1
 
 |
 
-Chef du centre en route de la navigation aérienne Nord
+80
+
+|
+
+Adjoint exécutif au directeur de la technique et de l'innovation
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Adjoint stratégique au directeur de la technique et de l'innovation
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Adjoint ressources au directeur de la technique et de l'innovation
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef des services de la navigation aérienne de la région parisienne (SNARP)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de l'organisme de Roissy Le Bourget au sein des SNARP
 
 |
 
@@ -882,7 +2224,235 @@ Chef du centre en route de la navigation aérienne Sud-Ouest
 
 |
 
-En charge d'un service à compétence nationale
+2. Direction de la sécurité de l'aviation civile-DSAC
+
+(à compter du 1er janvier 2009)
+
+|
+
+|
+
+|
+
+Directeur de la sécurité de l'aviation civile
+
+|
+
+1
+
+|
+
+160
+
+|
+
+Adjoint au directeur de la sécurité de l'aviation civile
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur de la sécurité de l'aviation civile Antilles-Guyane
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Centre-Est
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Nord
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Nord-Est
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Ouest
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Sud
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Sud-Est
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la sécurité de l'aviation civile Sud-Ouest
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur "gestion des ressources"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur technique "coopération européenne et réglementation de sécurité"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur technique "personnels navigants"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur technique "navigabilité et opérations"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur technique "aéroports et navigation aérienne"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur technique "sûreté"
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Directeur du cabinet du directeur de la sécurité de l'aviation civile
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur de la sécurité de l'aviation civile océan Indien
+
+|
+
+1
+
+|
+
+80
+
+|
+
+3. Bureau d'enquêtes et d'analyses
+
+pour la sécurité de l'aviation civile-BEA
 
 |
 
@@ -902,6 +2472,14 @@ Directeur du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation c
 
 |
 
+4. Service d'exploitation de la formation aéronautique-SEFA
+
+|
+
+|
+
+|
+
 Chef du service d'exploitation de la formation aéronautique
 
 |
@@ -914,6 +2492,14 @@ Chef du service d'exploitation de la formation aéronautique
 
 |
 
+5. Service technique de l'aviation civile-STAC
+
+|
+
+|
+
+|
+
 Chef du service technique de l'aviation civile
 
 |
@@ -923,5 +2509,17 @@ Chef du service technique de l'aviation civile
 |
 
 100
+
+|
+
+Adjoint au chef du service technique de l'aviation civile
+
+|
+
+1
+
+|
+
+80
 
 |
