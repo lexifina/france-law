@@ -1,5 +1,7 @@
 # Article Annexe II-4 (art. A212-49)
 
+RÉFÉRENTIEL DE CERTIFICATION
+
 UC 1 EC
 
 |
@@ -532,7 +534,7 @@ OI 423 EC
 
 |
 
-de maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident
+De maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident
 
 |
 
@@ -572,6 +574,14 @@ OI 434 EC
 
 |
 
-De prévenir les comportements à risque.
+De prévenir les comportements à risque
+
+|
+
+OI 435 EC
+
+|
+
+D'agir en cas de maltraitance des mineurs
 
 |
