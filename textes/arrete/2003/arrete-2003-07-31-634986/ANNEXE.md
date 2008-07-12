@@ -2,7 +2,7 @@
 
 Intitulé :
 
-Titre professionnel : agent d'intervention sur équipements électroniques.
+Titre professionnel d'agent (e) d'intervention sur équipements électroniques et numériques.
 
 Niveau : V.
 
@@ -10,85 +10,89 @@ Code NSF : 255 r.
 
 Résumé du référentiel d'emploi
 
-A partir des directives données par son responsable et en exploitant les notices d'utilisation du constructeur ainsi que l'instrumentation appropriée, l'agent d'intervention sur équipements électroniques est chargé de l'installation, la mise en service ainsi que de la maintenance corrective et/ou préventive d'appareils, d'équipements, d'installations, ou de systèmes... à forte composante électronique et/ou micromécanique. Il est généralement spécialisé sur un type d'activité, un domaine, un matériel (horodateurs, compteurs de taxis, monnayeurs...).
+A partir de documents constructeurs et en exploitant l'instrumentation appropriée, l'agent (e) d'intervention sur équipements électroniques et numériques est chargé (e) de l'installation, la mise en service ainsi que de la maintenance corrective et / ou préventive d'appareils, d'équipements, d'installations ou de systèmes à forte composante électronique, numérique, informatique et / ou micromécanique (exemples : monnayeurs, caisses enregistreuses, machine à sous, équipements sportifs...).
 
-Bien que travaillant au sein d'une équipe, l'AIEE organise son travail seul ou en équipe selon l'importance des travaux en assumant la responsabilité sur le plan de la technique et de la sécurité.
+Il (elle) est généralement spécialisé (e) sur un type d'activité, un domaine, un matériel.
 
-En contact avec le client, il doit être capable de comprendre la problématique de ce dernier et de lui fournir l'assistance nécessaire pour l'exploitation de ses équipements. Par sa prestation, l'agent contribue à valoriser l'image de marque de sa société.
+Bien que travaillant au sein d'une équipe, il (elle) effectue ses interventions souvent seul (e) en assumant la responsabilité sur le plan de la technique et de la sécurité.
 
-Capacités attestées et descriptif
+En contact avec le client, il (elle) doit être capable de comprendre la problématique de ce dernier et de lui fournir l'assistance nécessaire pour l'exploitation de ses équipements. Par sa prestation, l'agent (e) contribue à valoriser l'image de marque de sa société.
 
-des composantes de la certification
+En installation et mise en service, avec l'intégration des composants de technologie numérique, les circuits tendent à être intelligents » et permettent ainsi par le menu de configurer, paramétrer, régler les équipements. Les installations deviennent évolutives, flexibles et gérées par PC. Dans ce contexte, l'agent (e) d'intervention sur équipements électroniques et numériques doit connaître les caractéristiques des matériels pour proposer une solution aux besoins exprimés par l'utilisateur.
 
-1. Installer et mettre en service
+En maintenance, l'agent (e) d'intervention sur équipements électroniques et numériques diagnostique en utilisant les moyens appropriés, identifie la panne et procède à la remise en état. Après la réparation, il (elle) vérifie le bon fonctionnement de l'installation ou de l'équipement concerné.
 
-les équipements électroniques
+Ses responsabilités sont avant tout d'ordre technique, mais, doté d'une mission de prestation de services, il (elle) lui appartient également, lors de ses interventions, d'expliquer, assister et conseiller l'utilisateur.
 
-Déballer les équipements électroniques et vérifier le contenu.
+Il (elle) doit développer les contacts professionnels, contribuer à l'amélioration technique du matériel de l'entreprise et s'adapter aux évolutions technologiques (recherche sur internet...).
 
-Contrôler la conformité des sources d'alimentation (en énergie électrique).
+Capable de déterminer les limites de ses moyens, il doit savoir prendre la décision de transférer l'intervention vers des services plus compétents.
 
-Exploiter la documentation technique de l'équipement électronique.
+Pouvant intervenir sur un champ d'action étendu, l'agent (e) d'intervention possède une dimension relationnelle et le sens du contact avec le client. Il (elle) réalise une activité polyvalente intégrant parfois des activités annexes d'installation ou de montage. On trouve cet emploi dans des structures diverses dépendant du secteur professionnel.
 
-Interconnecter les appareils d'une installation en respectant les consignes.
+Capacités attestées et descriptif des composantes
 
-Régler, paramétrer, configurer les équipements électroniques de son domaine d'application.
+de la certification
 
-Contrôler le bon fonctionnement de chaque équipement électronique de l'installation.
+1. Installer, mettre en service les équipements électroniques
 
-Assurer le bon fonctionnement de l'installation suivant les spécifications techniques prédéfinies.
+et numériques et assister leurs utilisateurs
 
-Finaliser ses interventions d'installation et de mise en service d'équipements électroniques dans un cadre administratif, organisationnel et comptable.
+Déballer les équipements électroniques et numériques, inventorier et vérifier le contenu.
 
-2. Diagnostiquer et assurer la maintenance
+Contrôler la conformité des sources d'alimentation en énergie électrique.
 
-des équipements électroniques
+Exploiter la documentation technique de l'équipement électronique numérique.
 
-Observer les dysfonctionnements, constater les conséquences et décrire " l'état des lieux " des équipements électroniques de l'installation.
+Interconnecter les équipements d'une installation en respectant les consignes.
 
-Analyser les symptômes et poser un diagnostic sur les équipements électroniques de son domaine d'application.
+Régler, paramétrer, configurer (matériel, logiciel avec ou sans PC) les équipements électroniques et numériques.
 
-Utiliser les appareils de mesure appropriés de son domaine d'application.
+Contrôler et assurer le bon fonctionnement de chaque équipement de l'installation en respectant les spécifications techniques prédéfinies.
 
-Identifier la cause de panne sur équipements électroniques.
+Assister l'utilisateur dans l'exploitation des équipements de l'installation.
 
-Evaluer la faisabilité de l'intervention.
+2. Diagnostiquer et assurer la maintenance des équipements
 
-Remédier aux dysfonctionnements des équipements électroniques de son domaine d'application.
+électroniques et numériques de son domaine d'application
 
-Finaliser ses interventions de maintenance d'équipements électroniques dans un cadre administratif, organisationnel et comptable.
+Observer les dysfonctionnements, repérer et consigner les conséquences occasionnées sur les équipements et leur environnement.
 
-3. Remettre en état (électronique-mécanique) les équipements
+Utiliser les appareils de mesure appropriés à son domaine d'application.
 
-électroniques dans un secteur d'application
+Analyser les symptômes et poser un diagnostic sur les équipements électroniques et numériques en exploitant la documentation.
 
-Procéder aux démontages et remontages d'un sous-ensemble (électronique et/ou mécanique), d'un élément mécanique.
+Identifier la cause de panne sur les équipements électroniques et numériques et évaluer la faisabilité de l'intervention.
 
-Souder, dessouder, interconnecter les composants ou sous-ensembles électroniques.
+Remédier aux dysfonctionnements des équipements électroniques et numériques.
 
-Procéder au changement de composants électroniques, de pièces mécaniques.
+3. Remettre en état (électronique et mécanique)
+
+les équipements électroniques et numériques
+
+Procéder aux démontages et remontages des sous-ensembles électroniques et / ou mécaniques.
+
+Braser, débraser, interconnecter les composants ou sous-ensembles électroniques.
+
+Procéder au changement de composants électroniques et numériques, de pièces mécaniques.
 
 Tester le bon fonctionnement de l'équipement après la remise en état.
-
-Finaliser ses interventions de remise en état des équipements électroniques dans un cadre administratif, organisationnel et comptable.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises tous secteurs assurant la maintenance des équipements électroniques (Horodateur, compteur de taxi, monnayeur, machine à sous...).
-
-RATP, SNCF, service entretien mairie...
+SNCF ; Aéroports de Paris ; RATP ; les PME électricité-électronique-automatisme (ex. : UPS-SCS [France] SAS) ; les sociétés de services en électroniques numériques (ex. : FIT SERVICES TEAM) ; les services techniques de la poste, la mairie...
 
 Codes ROME :
 
-44341 - Polymaintenicien ;
+44341-Polymaintenicien (ne).
 
-52333 - Maintenicien en électronique.
+52333-Maintenicien (ne) en électronique.
 
 Réglementation de l'activité :
 
-Néant.
+Selon les conventions collectives nationales des entreprises de l'électronique.
 
 Autorité responsable de la certification :
 
@@ -96,8 +100,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
