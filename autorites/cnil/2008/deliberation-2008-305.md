@@ -1,0 +1,85 @@
+# Délibération n°2008-305 du 17 juillet 2008 portant avis sur un projet d’arrêté autorisant la mise en œuvre de traitements automatisés dans les communes ayant pour objet la recherche et la constatation des infractions pénales par leurs fonctionnaires et agents habilités
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2008-305
+- Date : 2008-07-17
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000020972751
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie pour avis par le ministère de l’intérieur, de l’outre-mer et des collectivités territoriales et le ministère de la justice le 11 décembre 2007 d’un projet d’arrêté autorisant la mise en œuvre de traitements automatisés dans les communes ayant pour objet la recherche et la constatation des infractions pénales par leurs fonctionnaires et agents habilités ;
+
+Vu la Convention n°108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé de données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu le code de procédure pénale, notamment ses articles 15, 21 et 22 ;
+
+Vu le code général des collectivités territoriales, notamment ses articles L.2212-5 et L.2213-17, L.2512-16 et L.2512-16-1 ;
+
+Vu le code de l’environnement, notamment son article L.571-18 ;
+
+Vu le code de la route, notamment son article L.130-4 ;
+
+Vu le code la santé publique, notamment ses articles L.1312-1 et L.3512-4 ;
+
+Vu le code l’urbanisme, notamment son article L.480-1 ;
+
+Vu le décret n°95-409 du 18 avril 1995 pris en application de l’article 21 de la loi du 31 décembre 1992 relative à la lutte contre le bruit et relatif aux agents de l’Etat et des communes commissionnés et assermentés pour procéder à la recherche et à la constatation des infractions aux dispositions relatives à la lutte contre le bruit ;
+
+Vu la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n°2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, notamment son article 26 ;
+
+Vu le décret n°2005-1309 du 20 octobre 2005 pris pour l’application de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié par le décret n°2007-451 du 25 mars 2007 ;
+
+Après avoir entendu M. Jean-Marie COTTERET, commissaire, en son rapport, et Mme Catherine POZZO DI BORGO, commissaire du Gouvernement adjoint, en ses observations ;
+
+Emet l’avis suivant :
+
+Sur les finalités
+
+La Commission prend acte des finalités du projet d’arrêté, lequel devrait encadrer utilement la mise en œuvre de traitements automatisés de données à caractère personnel mis en œuvre par les communes et ayant pour objet la recherche et la constatation des infractions pénales par leurs fonctionnaires et agents habilités.
+
+Sur les données conservées
+
+La Commission prend acte de la nature des données dont le projet d’arrêté autorise la conservation dans le cadre de l’exercice des missions de police judiciaire par les services de police municipale. Lesdites données paraissent pertinentes et proportionnées aux finalités poursuivies par les traitements concernés.
+
+A cet égard, elle relève que lesdits traitements ne pourront comporter de données relatives à la filiation des victimes ou des personnes mises en cause.
+
+La Commission prend également acte de ce les traitements ne pourront pas comporter de fichier photographique.
+
+Sur les durées de conservation
+
+La Commission prend acte de ce que la durée envisagée de conservation des informations contenues dans les traitements considérés est de trois ans au plus à compter de la date de leur enregistrement, exception faite de celles qui ont trait au suivi des amendes forfaitaires.
+
+Elle prend également acte de ce que le projet d’arrêté prévoit que les données seront ensuite archivées ou détruites, conformément aux dispositions de l’article L. 212-4 du code du patrimoine.
+
+Enfin, elle prend acte de ce que les données enregistrées dans les traitements ayant pour objet le suivi des amendes forfaitaires seront supprimées à compter du paiement de l’amende par le contrevenant dans le délai prévu aux articles 529-1 ou 529-9 du code de procédure pénale, ou à compter de l’expiration de ce délai en cas de non paiement de l’amende.
+
+Sur les destinataires
+
+La Commission prend acte de ce que le projet d’arrêté prévoit que seuls les fonctionnaires et agents individuellement désignés et spécialement habilités par le maire seront autorisés à accéder aux données enregistrées dans le traitement, dans la limite de leurs attributions. Il s’agit là de garanties auxquelles la Commission attache une particulière importance.
+
+Elle prend également acte de ce que pourraient en être destinataires, par l’intermédiaire des responsables de traitement (les maires concernés), à raison de leurs attributions ou de leur droit à en connaître pour l’exercice de leurs missions : les adjoints au maire ayant reçu délégation en matière de police municipale, le procureur de la République et les magistrats de son administration, l’officier de police judiciaire territorialement compétent, les agents du Trésor public pour les données relatives au recouvrement des amendes ainsi que les membres des services d’inspection mentionnés à l’article L.2212-8 du code général des collectivités territoriales, dans le cadre de la procédure de vérification prévue aux termes du même article.
+
+Sur les sécurités
+
+La Commission relève que le projet d’arrêté insiste sur le rôle éminent joué par le maire, responsable du traitement, lequel doit prendre « les mesures nécessaires pour préserver la sécurité des données tant à l’occasion de leur recueil que de leur consultation, de leur communication et de leur conservation ».
+
+A cet égard, il convient de rappeler que tout enregistrement de données dans le traitement doit être effectué par l’agent ayant eu à connaître de l’événement à l’origine dudit enregistrement et que ce dernier ne saurait revenir à une personne spécifiquement affectée à cette tâche. Il s’agit là d’une règle fondamentale dont la violation pourrait emporter la nullité de toute procédure contraventionnelle, ainsi qu’une condition nécessaire de l’efficacité du dispositif de traçabilité, prévu au terme du projet d’arrêté, et sur lequel le maire doit exercer un contrôle.
+
+Sur les droits d’accès et de rectification
+
+Le droit d’accès et de rectification s’exercera conformément aux articles 39 et 40 de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004.
+
+La Commission prend également acte de ce que le projet d’arrêté prévoit que les données conservées dans les traitements pourront être mises à jour, notamment à la demande de l’auteur de l’infraction, en particulier lorsque les faits auront été requalifiés par l’autorité judiciaire. De même, les données relatives à des faits ayant donné lieu à une relaxe devenue définitive ou à une décision de classement sans suite pour insuffisance de charges devront être effacées sans délai.
+
+Sur la mise en œuvre des traitements
+
+La Commission prend acte de ce que la mise en œuvre des traitements considérés sera subordonnée à l’envoi préalable à la Commission d’une déclaration faisant référence à l’arrêté, conformément aux dispositions de l’article 26-IV de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004, et précisant le lieu exact d’implantation du traitement automatisé, les modalités d’exercice du droit d’accès ainsi que l’engagement spécifique du maire qu’ont été mises en œuvre des mesures de sécurité et de confidentialité des données et des modalités d’habilitation individuelle des personnels communaux ayant accès à ces fichiers.
+
+Le Président,
+
+Alex TURK
