@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102486
+
+- Question : [SEQ071102486](seq071102486.md) — Mise en conformité des rejets chimiques du site du laboratoire pharmaceutique Sanofi-Aventis à Vitry-sur-Seine
+
+## Réponse
+
+*Écologie, JO du 2008-07-17, page 1456*
+
+Le site Sanofi-Aventis de Vitry-sur-Seine est un établissement classé SEVESO seuil bas. A ce titre, il fait l'objet d'inspections régulières de la part du Service technique interdépartemental d'inspection des installations classées (STIIIC). Sont également mises à jour, en tant que de besoin, les prescriptions imposées sur ce site et notamment celles concernant les rejets aqueux. Depuis 1995, Sanofi-Aventis a amélioré la condensation des solvants, construit des fosses de décantation des solvants, amélioré le dispositif de détection et de détournement des pollutions accidentelles, supprimé certains rejets chargés en phosphore et amélioré le système de neutralisation des effluents de manière à respecter le pH en continu. Ces actions ont permis une réduction en 10 ans de moitié de la demande chimique en oxygène (DCO) et de trois quarts de la teneur en solvants des effluents en moyennes annuelles. En juin 2007, des valeurs limites et des conditions de rejet plus sévères que celles fixées dans le précédent arrêté ont été imposées à Sanofi-Aventis par arrêté préfectoral. Ces valeurs ont été fixées au regard des meilleures techniques disponibles indiquées dans le document de référence européen relatif au secteur de la chimie fine organique. L'inspection des installations classées s'attache à ce que ces valeurs soient respectées dans les délais fixés. A plusieurs reprises, elle a par ailleurs été amenée à proposer au préfet des sanctions au titre du code de l'environnement. Enfin, Sanofi-Aventis a annoncé récemment une restructuration prochaine du site de Vitry-sur-Seine. Les activités à l'origine du classement SEVESO seraient ainsi transférées vers d'autres sites.
