@@ -1,9 +1,15 @@
 # Article Annexe, art. 33
 
-La dissolution ne peut être prononcée que par une assemblée générale extraordinaire spécialement convoquée à cet effet.
+L'adhésion à l'association en qualité de membre est subordonnée aux conditions suivantes :
 
-Le vote des deux tiers des membres actifs inscrits est requis.
+-acquitter, pour les membres, la cotisation statutaire ;
 
-Dans l'éventualité où la majorité requise n'est pas réunie, une nouvelle assemblée générale extraordinaire sera convoquée dans le mois suivant. Cette assemblée pourra statuer sur la dissolution à la majorité des membres actifs présents.
+-acquitter la cotisation pêche et milieux aquatiques prévue à l'article L. 434-5 du code de l'environnement et la redevance pour protection du milieu aquatique prévue à l'article L. 213-10-12 du code de l'environnement, sauf pour ceux qui l'auraient déjà acquittée dans une autre association agréée ou qui en sont légalement dispensés ;
 
-L'actif social est versé à une ou plusieurs A.A.P.P.M.A. par décision du préfet sur proposition de la fédération. Les livres et archives sont transférés au siège de la fédération.
+-se conformer aux statuts et au règlement intérieur de l'association ;
+
+-respecter les prescriptions législatives et réglementaires concernant l'exercice de la pêche en eau douce et se conformer à l'interdiction de commercialisation du poisson édictée à l'article L. 436-13 et suivants du code de l'environnement.
+
+L'association remet à chacun de ses membres une carte de pêche comportant le nom, le prénom, la date de naissance, l'adresse et la signature du titulaire ou tout autre support permettant l'identification de l'adhérent. Pour les membres actifs, la photographie du titulaire est apposée sur cette carte ou ce support, de manière inamovible. Le modèle de cette carte ou de ce support est arrêté par le conseil d'administration de la fédération départementale.
+
+L'association est tenue d'informer ses membres de l'étendue du domaine piscicole où ils peuvent exercer la pêche et des restrictions à cet exercice qui auraient été décidées dans le cadre du plan de gestion défini à l'article 6 des présents statuts ainsi qu'à l'avis annuel des périodes d'ouvertures de la pêche.

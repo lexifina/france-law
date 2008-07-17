@@ -1,5 +1,5 @@
 # Article Annexe, art. 14
 
-Le président a les pouvoirs les plus étendus pour l'exécution des décisions prises par l'assemblée générale ou le bureau et pour remplir les obligations légales et statutaires imposées aux associations agréées, à charge pour lui de rendre compte de ses actes à l'assemblée générale et au bureau.
+Il est procédé à une élection complémentaire si, avant les six derniers mois de l'échéance du mandat, le nombre des membres du conseil d'administration devient inférieur à sept.
 
-Il ordonnance les dépenses.
+Le mandat des administrateurs ainsi élus expire à l'échéance normale.

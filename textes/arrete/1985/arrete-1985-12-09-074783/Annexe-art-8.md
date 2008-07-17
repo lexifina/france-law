@@ -1,5 +1,5 @@
 # Article Annexe, art. 8
 
-L'association est tenue d'élaborer, de mettre en oeuvre, en conformité avec les orientations départementales de gestion, un plan de gestion piscicole prévoyant les mesures et interventions techniques de protection, d'amélioration et d'exploitation équilibrée des ressources piscicoles de ses droits de pêche.
+L'association est gérée par un conseil d'administration dont le nombre de membres ne peut être inférieur à sept ni supérieur à quinze membres.
 
-A titre transitoire, les opérations de repeuplements piscicoles nécessaires s'effectuent dans le cadre des articles L. 232-10, L. 232-11 et L. 232-12 du code rural sur la base d'un programme approuvé par la fédération et sous le contrôle des agents assermentés du Conseil supérieur de la pêche.
+Le conseil d'administration reflète la composition de l'assemblée générale s'agissant de l'égal accès des hommes et des femmes dans cette instance.

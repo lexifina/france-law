@@ -1,17 +1,11 @@
 # Article Annexe, art. 22
 
-Obligations attachées à l'adhésion :
+Le trésorier procède au recouvrement des recettes et au paiement des dépenses ordonnancées par le président. Il fait tous les encaissements et tient les comptes ouverts au nom de l'association.
 
-L'adhésion à l'association en qualité de membre est subordonnée aux conditions suivantes :
+Il tient, suivant le plan comptable applicable aux associations, une comptabilité, tant en recettes qu'en dépenses.
 
-- acquitter, pour les membres, la cotisation statutaire ;
+Les sommes collectées, au titre de la redevance pour protection du milieu aquatique et de la cotisation pêche et milieux aquatiques, sont enregistrées dans deux sections comptables distinctes de celle de la gestion générale de l'association.
 
-- acquitter la taxe piscicole, sauf pour ceux qui l'auraient déjà acquittée dans une autre association agréée ou qui en sont légalement dispensés en vertu de l'article L. 236-2 du code rural ;
+Il exécute le budget annuel de l'association. Il prépare le compte rendu financier de chaque exercice.
 
-- se conformer aux statuts et au règlement intérieur de l'association ;
-
-- respecter les prescriptions législatives et réglementaires concernant l'exercice de la pêche en eau douce et se conformer à l'interdiction de commercialisation du poisson édictée à l'article L. 236-14 du code rural.
-
-L'association remet à chacun de ses membres une carte de pêche comportant le nom, le prénom, la date de naissance, l'adresse et la signature du titulaire. Pour les membres actifs, la photographie du titulaire est apposée sur cette carte, de manière inamovible. Le modèle de cette carte est arrêté par le conseil d'administration de la fédération.
-
-L'association est tenue d'informer ses membres de l'étendue du domaine piscicole où ils peuvent exercer la pêche et des restrictions à cet exercice qui auraient été décidées dans le cadre du plan de gestion défini à l'article 8 des présents statuts.
+Les comptes sont transmis à la fin de chaque exercice à la fédération départementale ainsi qu'à l'administration chargée de la pêche en eau douce sous couvert de la fédération départementale.

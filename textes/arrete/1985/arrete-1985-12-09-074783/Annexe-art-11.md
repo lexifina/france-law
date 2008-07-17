@@ -1,3 +1,3 @@
 # Article Annexe, art. 11
 
-Les modalités de convocation et de tenue de l'assemblée générale ainsi que les modalités de vote sont précisées au titre VIII.
+L'élection a lieu à bulletins secrets. Sont élus les candidats ayant réuni le plus de suffrages. En cas d'égalité des suffrages, il est procédé à un tirage au sort.
