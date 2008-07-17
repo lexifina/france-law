@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604715
+
+- Question : [SEQ080604715](seq080604715.md) — Avenir des RASED
+
+## Réponse
+
+*Éducation, JO du 2008-07-17, page 1460*
+
+La durée de l'enseignement scolaire dans le premier degré est désormais fixée à 24 heures hebdomadaires dispensées à tous les élèves auxquelles s'ajoutent 2 heures au maximum d'aide personnalisée en très petits groupes pour les élèves rencontrant des difficultés dans leurs apprentissages. Ces deux heures, dégagées dans l'emploi du temps des enseignants, viennent renforcer l'action des maîtres et la différenciation pédagogique qu'ils mettent en oeuvre dans la classe dans le cadre des PPRE (programmes personnalisés de réussite éducative) avec, le cas échéant, la participation d'autres maîtres, notamment les enseignants spécialisés. Il s'agit de proposer une réponse adaptée à chaque élève. Dans ce nouveau contexte, le rôle des enseignants qui exercent dans les RASED devra évoluer. Il conviendra notamment que l'action de ces personnels soit mieux centrée sur les écoles où le nombre et la nature des difficultés rencontrées par les élèves sont plus importants qu'ailleurs. Cela aura, en outre, l'avantage d'éviter une dispersion inutilement coûteuse et de cibler les interventions spécialisées sur la plus grande difficulté. Concernant la formation, il y a eu en 2004 une profonde modification : celle-ci n'a plus la forme théorique qu'elle avait et est devenue aujourd'hui une formation en alternance plus individualisée et plus proche de la réalité des situations d'exercices. Les recteurs disposent des moyens financiers à la mise en oeuvre des formations de spécialisation. Ces moyens sont ainsi gérés au plus près des besoins locaux selon des priorités qui mettent en avant les exigences de spécialisation liées à la prise en charge du handicap avant toute autre.
