@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504314
+
+- Question : [SEQ080504314](seq080504314.md) — Conseil de l'ordre des kinésithérapeutes
+
+## Réponse
+
+*Santé, JO du 2008-07-17, page 1466*
+
+Le masseur-kinésithérapeute, afin d'exercer sa profession conformément aux obligations législatives prévues par le code de la santé publique, doit, d'une part, s'inscrire au tableau tenu par l'ordre national de cette profession, et d'autre part, faire enregistrer ses diplômes, titres, certificats ou autorisations auprès de la direction départementale des affaires sanitaires et sociales du département d'exercice professionnel. Ceci est la caractéristique de toutes les professions de santé disposant d'un ordre professionnel. Le masseur-kinésithérapeute qui ne s'est pas inscrit au tableau de l'ordre se trouve alors en position d'exercice illégal. En outre, le versement de la cotisation ordinale est une obligation légale annuelle pour chaque masseur-kinésithérapeute inscrit au tableau. Cette cotisation permet à l'ordre de gérer l'aspect financier de son fonctionnement, renforce sa capacité de régulation et garantit son indépendance. Le montant de cette cotisation est voté par le conseil national de l'ordre, composé de représentants élus des professionnels salariés et de représentants élus des professionnels libéraux, seul compétent en la matière. En ce qui concerne les masseurs-kinésithérapeutes salariés, il a été fixé à 130 euros pour l'année 2008. Ce montant est inférieur à celui demandé aux masseurs-kinésithérapeutes libéraux. Toutefois, en raison des difficultés rencontrées par certains professionnels, la ministre de la santé, de la jeunesse, des sports et de la vie associative a chargé la direction de l'hospitalisation et de l'organisation des soins (DHOS) de conduire une médiation avec le conseil national de l'ordre des masseurs-kinésithérapeutes. Cette conciliation est actuellement en cours.
