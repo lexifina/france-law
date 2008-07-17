@@ -1,0 +1,143 @@
+# Délibération n°2008-304 du 17 juillet 2008 portant autorisation unique de traitements de données à caractère personnel mis en œuvre par les communes pour la gestion des missions confiées aux services de police municipale, à l’exception de celles ayant pour objet la recherche et la constatation des infractions pénales
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2008-304
+- Date : 2008-07-17
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000020972750
+
+La Commission nationale de l’informatique et des libertés,
+
+Vu la Convention n°108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé de données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu le code général des collectivités territoriales ;
+
+Vu le code des communes ;
+
+Vu le code de procédure pénale ;
+
+Vu la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n°2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel ;
+
+Vu le décret n°2005-1309 du 20 octobre 2005 pris pour l’application de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié par le décret n°2007-451 du 25 mars 2007 ;
+
+Vu le projet d’arrêté autorisant la mise en œuvre de traitements automatisés dans les communes ayant pour objet la recherche et la constatation des infractions pénales par leurs fonctionnaires et agents habilités ;
+
+Vu les délibérations n°2002-001 du 8 janvier 2002, n°2005-002 du 13 janvier 2005, n°2005-019 du 3 février 2005 et n°2006-067 du 16 mars 2006 portant adoption des normes simplifiées n°42, 46, 47 et 51 et la délibération n°2004-096 du 9 décembre 2004 ;
+
+Après avoir entendu M. Jean-Marie COTTERET, commissaire, en son rapport, et Mme Catherine POZZO DI BORGO, commissaire du Gouvernement adjoint, en ses observations ;
+
+Constate que les traitements de données à caractère personnel mis en œuvre par les communes pour la gestion des missions confiées aux services de police municipale relèvent à la fois des dispositions des articles 25-I-3° et 26-I de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004.
+
+Prend acte de ce que lesdits traitements sont autorisés par arrêté conjoint des ministres de l’intérieur et de la justice, pris après avis de la Commission, dès lors qu’ils ont pour objet la recherche et la constatation des infractions pénales, en application de l’article 26-I de la loi précitée.
+
+Constate que les traitements mis en œuvre par les communes concernées portent également sur des données relatives aux infractions, sans lien direct avec l’exercice des missions de police judiciaire dévolues aux fonctionnaires et agents habilités, et, partant, qu’ils ressortent des dispositions de l’article 25-I-3° de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004 et doivent, à ce titre, être autorisés par la Commission.
+
+En vertu de l’article 25-II de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004, la Commission peut adopter une décision unique d’autorisation pour des traitements répondant aux mêmes finalités, portant sur des catégories de données et des catégories de destinataires identiques. Il en résulte que le responsable d’un traitement conforme à la décision unique d’autorisation pourra déclarer son traitement en adressant à la Commission un engagement de conformité à cette décision.
+
+Décide que les communes qui souhaiteront se référer à la présente décision et adresseront, à cette fin, à la Commission une déclaration d’engagement de conformité pour leurs traitements qui répondent à l’ensemble des conditions fixées dans la présent décision unique seront autorisées à mettre en œuvre ces traitements.
+
+Article 1er – Finalités du traitement.
+
+Peuvent faire l’objet d’un engagement de conformité par référence à la présente décision les traitements, informatisés ou non, mis en œuvre par les communes pour la gestion des missions confiées aux services de police municipale, conformément à la loi, à l’exception de celles ayant pour objet la recherche et la constatation des infractions pénales.
+
+Sont ainsi concernées les missions de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques confiées par le maire au service de police municipale, par voie d’arrêté.
+
+Ces missions, définies aux termes des articles L.2212-1 et suivants du code général des collectivités territoriales, concernent en particulier :
+
+la sûreté et la commodité du passage dans les rues, quais, places et voies publiques (circulation et stationnement, mise en fourrière des véhicules, contrôle des édifices menaçant ruine, salubrité publique) ;
+
+les atteintes à la tranquillité publique (notamment la gestion des bruits de voisinage et des attroupements) ;
+
+le maintien du bon ordre lors de rassemblements sur la voie publique ou dans les lieux ouverts au public ;
+
+la prévention et, le cas échéant, le traitement des accidents, fléaux calamiteux et pollutions de toute nature, notamment par la gestion des dispositifs d’alerte communaux en cas de circonstances exceptionnelles (tels que les « fichiers canicules »)
+
+le contrôle des animaux dangereux et la gestion de la fourrière animale ;
+
+la police économique (ouvertures, fermetures et extensions de commerce) ;
+
+la gestion des objets trouvés ou perdus ;
+
+la surveillance de biens réalisée à la demande expresse de leurs propriétaires (telle que celle exercée dans la cadre des opérations « tranquillité vacances ») ;
+
+les opérations funéraires (vacations, exhumation, réinhumation et translation de corps).
+
+Pour l’accomplissement de l’ensemble de ces missions, la présente décision permet la mise en œuvre des fonctionnalités suivantes : registre d’accueil physique et téléphonique du public, gestion des réclamations, des missions et de la « main courante », production des rapports et des procès-verbaux, production de courriers, gestion des carnets de verbalisation, des avis de contravention et du paiement des amendes, fichier des propriétaires de biens placés à leur demande sous la surveillance de la police municipale, fichier des gérants de commerce entrant dans le champ de compétence de la police municipale, fichier des propriétaires de chiens dangereux, fichier des administrés à contacter en cas de circonstances exceptionnelles, production de statistiques d’activité pour le pilotage du service de police municipale et le compte rendu auprès des autorités communales.
+
+La présente décision couvre également la gestion des personnels affectés au service de police municipale dès lors que les traitements de données à caractère personnel mis en œuvre à cette fin sont conformes aux normes adoptées par la Commission n°42 (contrôle d’accès aux locaux, gestion des horaires et gestion de la restauration), n°46 (gestion des ressources humaines), n°47 (gestion de la téléphonie fixe et mobile) et n°51 (géolocalisation des véhicules). Les traitements concernant la rémunération des personnels et les déclarations sociales et fiscales obligatoires sont dispensés de déclaration, conformément à la délibération n°2004-096 du 9 décembre 2004.
+
+En revanche, la présente décision ne concerne ni les dispositifs de cartographie de la délinquance, ni les dispositifs de vidéosurveillance de la voie publique entrant dans le champ d’application de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004.
+
+Article 2 – Catégories de données à caractère personnel enregistrées.
+
+Seules les catégories de données à caractère personnel suivantes peuvent être traitées :
+
+identité et coordonnées des personnes concernées par l’intervention du service de police municipale ;
+
+objet de l’intervention et suites données ;
+
+informations permettant la gestion des moyens matériels et humains nécessaires aux interventions du service de police municipale ;
+
+informations nécessaires à l’établissement des comptes rendus d’intervention, des rapports d’information et des procès-verbaux.
+
+Les photographies susceptibles de permettre l’identification, directe ou indirecte, d’un individu ne peuvent être traitées que dans la mesure où ces données sont adéquates, pertinentes et non excessives au regard des finalités.
+
+De même, les éventuelles zones de commentaire libre ne doivent comporter que des données adéquates, pertinentes et non excessives au regard des missions de police municipale concernées.
+
+Il est interdit de collecter ou de traiter des données à caractère personnel qui font apparaître, directement ou indirectement, les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l’appartenance syndicale des personnes, ou qui sont relatives à la santé ou à la vie sexuelle de celles-ci.
+
+Article 3 – Destinataires des données à caractère personnel.
+
+Sont seuls autorisés à accéder directement aux données énoncées ci-dessus, les fonctionnaires et agents du service de police municipale des communes concernées, dans la limite de leurs attributions respectives.
+
+Peuvent également être destinataires de ces données, par l’intermédiaire du responsable de traitement, à raison de leurs attributions ou de leur droit à connaître de ces données pour l’exercice de leurs missions :
+
+les adjoints au maire ayant reçu délégation en matière de police municipale ;
+
+les personnels d’autres services municipaux, dans le cadre de leurs attributions respectives et pour les seules données nécessaires à leur intervention ;
+
+le procureur de la République et les officiers de police judiciaire territorialement compétents ;
+
+les agents du Trésor public pour les données relatives au recouvrement des amendes.
+
+Article 4 – Durée de conservation des données à caractère personnel.
+
+Les données visées à l’article 2 sont conservées pour la durée strictement nécessaire aux finalités pour lesquelles elles sont collectées et traitées et, en tout état de cause, pas au-delà d’une période de trois ans à compter de leur enregistrement.
+
+Elles sont ensuite archivées ou détruites, dans les conditions prévues à l’article L.212-4 du code du patrimoine.
+
+Article 5 – Mesures de sécurité.
+
+Le maire, responsable du traitement, prend les mesures nécessaires pour préserver la sécurité des données tant à l’occasion de leur recueil que de leur consultation, de leur communication et de leur conservation.
+
+Pour la mise en œuvre des dispositions de l’article 3, les fonctionnaires et agents du service de police municipale ont accès aux traitements informatisés selon des profils d’utilisateurs spécifiques correspondant à leurs attributions. A cet égard, ledit accès ne peut s’effectuer que par un identifiant et un mot de passe individuels, régulièrement renouvelés.
+
+Un dispositif de traçabilité est mis en œuvre et tenu à la disposition du maire pour lui permettre d’exercer sa mission de contrôle.
+
+Article 6 – Information des personnes concernées.
+
+Une information claire et complète des personnes concernées (usagers et personnels) est réalisée. Cette information précise notamment l’identité du responsable de traitement, les objectifs poursuivis, les destinataires des données, ainsi que l’existence d’un droit d’accès et de rectification au bénéfice des personnes identifiées dans le traitement. Elle est réalisée par voie d’affichage, par insertion dans les supports d’information municipaux, y compris sur le site internet des communes concernées, et portée sur les formulaires de collecte de données utilisées par le service de police municipale.
+
+Article 7 – Droit d’accès et de rectification.
+
+Le responsable du traitement garantit à toute personne identifiée dans ledit traitement le droit d’accéder aux données la concernant en d’en demander copie. Elle peut également demander la rectification ou la suppression des données la concernant si elles sont inexactes, incomplètes, équivoques ou périmées.
+
+Ces droits d’accès et de rectification peuvent s’exercer sur place ou sur demande écrite, sur présentation d’un justificatif d’identité.
+
+Article 8
+
+Les traitements de données à caractère personnel mis en en œuvre par les communes ayant pour objet la recherche et la constatation des infractions pénales par leurs fonctionnaires et agents habilités sont autorisés par arrêté conjoint des ministres de l’intérieur et de la justice, pris après avis de la Commission.
+
+Tout autre traitement de données à caractère personnel ayant pour objet la gestion des missions confiées aux services de police municipale, à l’exception de celles ayant pour objet la recherche et la constatation des infractions pénales, qui ne serait pas conforme à la présente décision doit faire l’objet d’une demande d’autorisation auprès de la Commission, dans les formes prescrites aux termes des articles 25-I-3° et 30 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004.
+
+Article 9
+
+La présente délibération sera publiée au Journal officiel de la République française.
+
+Le Président,
+
+Alex TURK
