@@ -98,17 +98,13 @@ UDF - Mouvement démocrate
 
 |
 
-359
+358
 
 |
 
-202
+203 |
 
-|
-
-2 763 146,68
-
-|
+2 768 568,25 |
 
 Parti communiste français (PCF)
 
@@ -138,15 +134,13 @@ Front national (FN)
 
 |
 
-285
+283
 
 |
 
-273
+275 |
 
-|
-
-1 813 549,15
+1 833 059,60
 
 |
 
@@ -154,21 +148,15 @@ Les Verts
 
 |
 
-857 625
+859 781 |
+
+288
 
 |
 
-287
+292 |
 
-|
-
-291
-
-|
-
-1 434 818,37
-
-|
+1 438 266,86 |
 
 Ligue communiste révolutionnaire (LCR)
 
@@ -294,21 +282,15 @@ Mouvement écologiste indépendant (MEI)
 
 |
 
-76 990
-
-|
+77 253 |
 
 72
 
 |
 
-59
+60 |
 
-|
-
-122 414,22
-
-|
+123 356,94 |
 
 Solidarité écologie gauche alternative (SEGA)
 
@@ -318,37 +300,23 @@ Solidarité écologie gauche alternative (SEGA)
 
 |
 
-54
+52 |
 
-|
+32 |
 
-30
-
-|
-
-104 998,34
-
-|
+107 903,07 |
 
 Sous-total I
 
 |
 
-23 691 072
+23 693 491 |
 
-|
+3 063 |
 
-3 067
+2 472 |
 
-|
-
-2 465
-
-|
-
-34 323 317,76
-
-|
+34 348 679,98 |
 
 II. ― Partis et groupements politiques
 
@@ -1088,16 +1056,10 @@ Total
 
 |
 
-23 987 971
+23 990 615 |
 
-|
+3 109 |
 
-3 112
+2 489 |
 
-|
-
-2 483
-
-|
-
-34 686 251,33 |
+34 711 573,53 |
