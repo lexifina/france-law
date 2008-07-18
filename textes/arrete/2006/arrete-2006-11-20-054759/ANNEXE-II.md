@@ -167,3 +167,5 @@ OI 431 EC de respecter les normes réglementaires dans la mise en oeuvre de son 
 OI 432 EC de respecter les normes techniques dans la mise en oeuvre de son animation.
 
 OI 433 EC de prévenir les comportements à risque.
+
+OI 434 EC d'agir en cas de maltraitance des mineurs.
