@@ -96,30 +96,6 @@ AT junior. - Economiste en appui au programme Banque mondiale. - Coopération fr
 
 |
 
-Angola.
-
-|
-
-TE2
-
-|
-
-2
-
-|
-
-Conseiller du vice-ministre de la géologie et des mines de la République d'Angola.
-
-|
-
-14
-
-|
-
-463
-
-|
-
 Arabie saoudite.
 
 |
