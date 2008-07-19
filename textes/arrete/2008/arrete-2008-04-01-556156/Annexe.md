@@ -44,10 +44,6 @@ Zone de protection :
 
 - département du Cantal ;
 
-- département de la Charente : arrondissements d'Angoulême, de Confolens et cantons de Jarnac, de Châteauneuf-sur-Charente et de Rouillac ;
-
-- département de la Charente-Maritime : arrondissement de La Rochelle et cantons d'Aigrefeuille-d'Aunis, d'Aulnay, de Loulay, de Matha, de Saint-Jean-d'Angély, de Surgères ;
-
 - département du Cher ;
 
 - département de la Corrèze ;
@@ -57,8 +53,6 @@ Zone de protection :
 - département des Côtes-d'Armor ;
 
 - département de la Creuse ;
-
-- département de la Dordogne ;
 
 - département du Doubs ;
 
@@ -73,8 +67,6 @@ Zone de protection :
 - département du Gard ;
 
 - département de la Haute-Garonne ;
-
-- département de la Gironde : cantons d'Auros, de Cadillac, de Castillon-la-Bataille, de Grignols, de Langon, de Monségur, de Pellegrue, de Podensac, de Pujols, de La Réole, de Sainte-Foy-la-Grande, de Saint-Macaire, de Sauveterre-de-Guyenne, de Targon ;
 
 - département de l'Hérault ;
 
@@ -99,8 +91,6 @@ Zone de protection :
 - département du Loiret ;
 
 - département du Lot ;
-
-- département de Lot-et-Garonne ;
 
 - département de la Lozère ;
 
@@ -170,7 +160,7 @@ Zone de protection :
 
 - département du Var ;
 
-- département de Vaucluse ;
+- département de Vaucluse :
 
 - département de la Vendée ;
 
@@ -218,14 +208,18 @@ Zone de protection :
 
 - département des Hautes-Pyrénées.
 
-Zone E (sérotypes 1 et 8)
+Zone E (sérotypes 1-8)
 
-Zone de protection :
+Zone réglementée :
 
-― département de la Charente : cantons de Baignes-Sainte-Radegonde, de Barbezieux-Saint-Hilaire, de Brossac, de Cognac-Nord, de Segonzac, de Cognac-Sud, de Cognac ;
+- département de la Charente ;
 
-― département de la Charente-Maritime : arrondissement de Jonzac, de Saintes et cantons de Château-d'Oléron, de Marennes, de Rochefort-Nord, de Royan-Est, de Saint-Agnant, de Saint-Hilaire-de-Villefranche, de Saint-Pierre-d'Oléron, de Saint-Savinien, de Tonnay-Boutonne, de Tonnay-Charente, de La Tremblade, de Royan-Ouest, de Royan, de Rochefort ;
+- département de la Charente-Maritime ;
 
-― département de la Gironde : arrondissements de Blaye, de Lesparre-Médoc, d'Arcachon et cantons de Bazas, de Blanquefort, de Branne, de Captieux, de Carbon-Blanc, de Castelnau-de-Médoc, de Coutras, de Créon, de Fronsac, de Guîtres, de Brède, de Libourne, de Lussac, de Saint-André-de-Cubzac, de Saint-Symphorien, de Villandraut, de Bègles, de Bouscat, de Cenon, de Talence, de Villenave-d'Ornon, de Floirac, de Gradignan, de Lormont, de Mérignac (2e canton), de Saint-Médard-en-Jalles, de Pessac, de Mérignac, de Bordeaux ;
+- département de la Dordogne ;
 
-― département des Landes : cantons de Pissos, de Roquefort, de Sore.
+- département de la Gironde ;
+
+- département de Lot-et-Garonne ;
+
+- département des Landes : cantons de Pissos, de Roquefort et de Sore.
