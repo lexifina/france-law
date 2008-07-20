@@ -102,6 +102,16 @@ MÉTHODE : Mise en solution aux acides fluorhydrique et perchlorique.
 
 RÉFÉRENCE : NF X 31-147
 
+DÉTERMINATION : Mercure
+
+MÉTHODE : Extraction dans l'eau régale.
+
+RÉFÉRENCE : NF ISO 11466
+
+MÉTHODE : Autres méthodes.
+
+RÉFÉRENCE : A préciser.
+
 Agrément type 5 : reliquats azotés
 
 Une note technique est diffusée par l'organisme chargé de la gestion des circuits de contrôle interlaboratoire.
