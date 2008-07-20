@@ -194,7 +194,7 @@ Basse-Normandie
 
 |
 
-Basse-Normandie
+Haute-Normandie
 
 |
 
