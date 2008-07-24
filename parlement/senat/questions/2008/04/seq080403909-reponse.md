@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403909
+
+- Question : [SEQ080403909](seq080403909.md) — Gestion des risques sanitaires
+
+## Réponse
+
+*Agriculture, JO du 2008-07-24, page 1502*
+
+Dans le cadre de la Révision Générale des Politiques Publiques, le Président de la République et le Premier ministre ont souhaité définir, sur proposition du ministre de l'agriculture et de la pêche, un nouveau cadre administratif pour accompagner une politique agricole, alimentaire et de développement durable des territoires ruraux. La cohérence de cette politique publique se traduit dans l'implantation départementale du ministère de l'agriculture et de la pêche, proche des usagers, dans un cadre interministériel. Une présence au plus proche des citoyens et des territoires doit être maintenue, à travers l'administration départementale du ministère de l'agriculture et de la pêche. Celle-ci doit être organisée en fonction des besoins des citoyens sur le territoire et non, comme dans les régions, selon les lignes de découpage des périmètres ministériels. Ces découpages donnent parfois lieu à des difficultés lorsque les compétences sont plurielles, comme cela peut être le cas lors de crises liées à la sécurité alimentaire. La protection des populations et la gestion de crises, qu'elles soient sanitaires, alimentaires ou naturelles, est une des premières missions de l'État au niveau local. C'est pourquoi le conseil de modernisation du 12 juin dernier, a prévu la mise en place de directions de la protection des populations, dont les directions départementales des services vétérinaires constitueront le coeur. Elles assureront notamment la coordination avec les unités départementales de la concurrence, de la consommation et de la répression des fraudes, conformément au principe voulant que les services départementaux de l'État soient organisés en fonction des bénéficiaires de chaque politique publique.
