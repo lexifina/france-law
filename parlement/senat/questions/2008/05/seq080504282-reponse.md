@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504282
+
+- Question : [SEQ080504282](seq080504282.md) — Possibilité pour un élu local, national ou européen d'être indemnisé au titre de l'assurance chômage
+
+## Réponse
+
+*Intérieur, JO du 2008-07-24, page 1516*
+
+Conformément à l'article 1er (paragraphe 1er) du règlement général annexé à la convention signée le 18 janvier 2006 par les partenaires sociaux et relative à « l'aide au retour à l'emploi et à l'indemnisation du chômage », le régime d'assurance chômage assure un revenu de remplacement, dénommé « allocation d'aide au retour à l'emploi », aux salariés involontairement privés d'emploi qui remplissent un certain nombre de conditions, dont la recherche d'un travail. Ainsi que le rappelle la circulaire n° 2006-19 du 21 août 2006 de l'Unedic, l'exercice d'un mandat électif local ne fait pas obstacle au versement de la prestation précitée, sous la réserve expresse que les personnes concernées remplissent les conditions d'attribution de cette allocation et spécialement celle relative à l'accomplissement d'actes positifs et répétés de recherche d'emploi. Par conséquent, le bénéfice d'une indemnité de fonction n'est pas, par principe, incompatible avec le bénéfice de l'allocation d'aide au retour à l'emploi. Le cumul des sommes correspondantes peut être total ou partiel dans certaines situations prévues par les articles 42 et 43 du règlement général précité. S'agissant en revanche des mandats de représentation nationale, ceux-ci sont considérés par l'Unedic comme incompatibles avec la perception des allocations de chômage. La circulaire précitée indique que les parlementaires consacrent normalement tout leur temps à l'accomplissement de leur mandat et ne peuvent, en conséquence, accomplir d'actes positifs et répétés de recherche d'emploi. La situation des parlementaires européens n'est pas visée par ces textes, mais le raisonnement tenu pour les parlementaires nationaux semble pouvoir leur être appliqué.
