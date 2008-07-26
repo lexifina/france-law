@@ -1,8 +1,6 @@
 # Article Annexe
 
-CATÉGORIES PROFESSIONNELLES SUITE À LA NAF
-
-ENTRÉE EN VIGUEUR AU 1er JANVIER 2008
+CATÉGORIES PROFESSIONNELLES SUITE À LA NAF ENTRÉE EN VIGUEUR AU 1er JANVIER 2008
 
 Commerce
 
@@ -5055,6 +5053,12 @@ Autres activités de nettoyage des bâtiments et nettoyage industriel
 |
 
 Désinfection, désinsectisation, dératisation
+
+|
+
+81.29B |
+
+Autres activités de nettoyage nca
 
 |
 
