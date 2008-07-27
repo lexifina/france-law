@@ -1,8 +1,6 @@
 # Article Annexe III-16 b
 
-(art. A322-72 et A322-77).
-
-III-16 b : CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION.
+CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION
 
 ESPACES D'ÉVOLUTION
 
@@ -24,9 +22,9 @@ de l'encadrant de palanquée
 
 EFFECTIF MAXIMUM
 
-de la palanquée
+de la palanquée encadrement
 
-encadrement non compris
+non compris
 
 |
 
@@ -36,21 +34,7 @@ Espace proche :
 
 |
 
-Débutant.
-
-|
-
-P4
-
-|
-
-4 + 1 P4 éventuellement
-
-|
-
-|
-
-Niveau P1.
+Débutant
 
 |
 
@@ -64,15 +48,43 @@ P4
 
 Espace médian :
 
-6 à 20 mètres
+6-20 mètres
 
 |
 
-Niveau P1.
+Débutant en fin de formation
 
 |
 
-En surface : E3 + P4 quand autonomie dans la zone des 10 mètres.
+P4
+
+|
+
+4 + 1 P4 éventuellement
+
+|
+
+|
+
+Niveau P1
+
+|
+
+P4
+
+|
+
+4 + 1 P4 éventuellement
+
+|
+
+|
+
+Niveau P1
+
+|
+
+En surface : E3 + P4 quand autonomie dans la zone des 10 mètres
 
 |
 
@@ -82,7 +94,7 @@ En surface : E3 + P4 quand autonomie dans la zone des 10 mètres.
 
 |
 
-Niveau P2.
+Niveau P2
 
 |
 
@@ -96,11 +108,11 @@ Autonomie
 
 Espace lointain (*) :
 
-20 - 40 mètres
+20-40 mètres
 
 |
 
-Niveau P2.
+Niveau P2
 
 |
 
@@ -112,11 +124,11 @@ P4
 
 |
 
-Au delà de 40 mètres, et dans la limite de 60 mètres (*).
+Au-delà de 40 mètres et dans la limite de 60 mètres (*)
 
 |
 
-Niveaux P3, P4 et P5.
+Niveaux P3, P4 et P5
 
 |
 
