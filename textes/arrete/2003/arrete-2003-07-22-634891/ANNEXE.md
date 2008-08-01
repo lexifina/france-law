@@ -1,122 +1,88 @@
 # Article ANNEXE
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
-
-Intitulé :
-
-Titre professionnel de développeur informatique.
+Intitulé : développeur logiciel.
 
 Niveau : III.
 
-Code NSF : 326 r.
+Code NSF : 326 t (informatique, traitement de l'information, réseaux transmission).
 
 Résumé du référentiel d'emploi
 
-Le développeur en informatique est principalement responsable des opérations de développement liées à la mise en place d'un logiciel ou à la maintenance d'un logiciel existant.
+Le développeur logiciel prend en charge le développement de petites applications informatiques suite à l'expression de besoins d'un client interne ou externe.
 
-Le développeur en informatique étudie le cahier des charges pour définir les fonctionnalités techniques attendues et obtenir un modèle conforme aux souhaits des utilisateurs (dossier de spécifications).
+Il (elle) intervient principalement dans les phases de conception technique, de codage et de tests de ses propres composants logiciels.
 
-Sous la responsabilité d'un chef de projet, le développeur réalise son travail au sein d'une équipe de développement. Selon l'ampleur du chantier, le logiciel peut être structuré en plusieurs modules et la programmation s'étaler sur plusieurs mois, voire plusieurs semestres.
+Il (elle) modélise les données de l'application en s'appuyant sur les besoins exprimés par le client ou par le chef de projet. Il (elle) met en place la base de données de tests.
 
-Dans les services de petite taille, il est exigé une grande polyvalence. Par contre, dans les services importants, les activités sont plus spécialisées.
+Il (elle) conçoit techniquement les composants logiciels, les réalise et les teste.
 
-Ce métier s'exerce dans des contextes variés en fonction :
+Il (elle) est responsable de la partie technique du développement et travaille en lien avec le chef de projet qui en a la responsabilité fonctionnelle.
 
-- du domaine d'applications (informatiques industrielles et embarquées, client/serveur, services internet) ;
+Il (elle) prend en compte les chartes et les normes de l'entreprise à qui est destinée l'application.
 
-- de la taille de l'entreprise ;
+Il (elle) rendra compte régulièrement à sa hiérarchie de ses activités et de l'état d'avancement de ses travaux.
 
-- de l'environnement technique (ordinateurs, systèmes d'exploitation, outils et langages utilisés).
+Il (elle) doit s'adapter rapidement aux évolutions technologiques du secteur informatique.
 
-Une partie de son activité peut s'effectuer à distance, au téléphone ou au travers des réseaux informatiques.
+Ses activités nécessitent de maîtriser le temps relatif aux différentes tâches qui lui sont imparties.
 
-Capacités attestées et descriptif
+Afin de mieux situer les besoins exprimés et de mieux répondre aux attentes du client, comprendre les processus organisationnels de l'entreprise est un plus.
 
-des composantes de la certification
+Il (elle) doit être mobile géographiquement et s'approprier rapidement les environnements des différentes entreprises.
 
-1. Spécifier une application informatique
+Capacités attestées et descriptif des composantes de la certification
 
-Analyser un cahier des charges d'une application informatique.
+1. Développer des composants d'interface
 
-Modéliser les données à informatiser (modèle entité/association).
+Maquetter l'application.
 
-Formaliser le besoin d'automatisation en utilisant une méthode d'analyse.
-
-2. Concevoir techniquement une application informatique
-
-Formaliser et modéliser l'application à développer (données et traitement) en utilisant une méthode d'analyse.
-
-Construire l'interface homme/machine.
-
-Construire la base de données.
-
-Rechercher et capitaliser l'information.
-
-Déployer une application embarquée sur un système cible.
-
-Répartir les données et les traitements sur une architecture client/serveur.
-
-Conception de sites web (graphes de navigation, présentation, échanges de données).
-
-Intégration de composants métiers sur un serveur d'applications.
-
-Faire de la veille technologique.
-
-Assister et former l'utilisateur.
-
-Utiliser l'anglais dans son activité professionnelle en informatique.
-
-3. Programmer une application informatique
-
-Définir et coder un algorithme.
-
-Programmer une application informatique dans un contexte événementiel (état-événement).
-
-Programmer une application informatique avec un langage orienté objet.
-
-Manipuler des données avec un langage de requête (SQL).
-
-Accéder à une base de données par programme.
-
-Réaliser un jeu d'essai pour les tests et recetter le code informatique.
-
-Rechercher et capitaliser l'information.
-
-Programmer avec un langage permettant l'accès aux ressources matérielles (langage C).
-
-Programmer une application informatique dans un contexte multi-tâches.
-
-Programmer dans un contexte où le système cible est différent du système de développement (contexte embarqué).
-
-Intégrer les technologies internet en milieu industriel.
-
-Programmer le SGBD (triggers et procédures stockées).
-
-Programmer en utilisant les outils de développement du serveur.
+Programmer des formulaires et des états.
 
 Programmer des pages web.
 
-Programmer des composants serveurs.
+Manipuler les données avec le langage de requête SQL.
 
-Configurer et administrer un serveur web.
+Développer les composants d'accès aux données.
 
-Assister et former l'utilisateur.
+Installer les composants.
 
-Faire de la veille technologique.
+Assister les utilisateurs.
+
+Organiser son temps.
+
+Communiquer dans un contexte professionnel.
 
 Utiliser l'anglais dans son activité professionnelle en informatique.
 
-Secteurs d'activités ou types d'emploi accessibles
+Actualiser ses compétences techniques.
 
-par le détenteur du titre
+2. Développer la persistance des données
 
-Le développeur en informatique peut être employé dans des entreprises de toutes tailles : sociétés de services en ingénierie informatique (SSII), éditeurs informatiques, entreprises qui intègrent de l'informatique dans leurs produits, fabriquent des matériels informatiques ou utilisent l'informatique (en tant que prestataire interne).
+Modéliser les données.
 
-Il est fréquent que les développeurs de SSII soient détachés pour plusieurs mois, voire plusieurs années, dans une entreprise cliente.
+Mettre en place la base de données.
+
+Manipuler les données avec le langage de requête SQL.
+
+Programmer dans le langage du SGBD : triggers et procédures stockées.
+
+Organiser son temps.
+
+Communiquer dans un contexte professionnel.
+
+Utiliser l'anglais dans son activité professionnelle en informatique.
+
+Actualiser ses compétences techniques.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+
+Société de services et d'ingénierie informatique (SSII) réalisant des prestations en régie ou en forfait dans le développement d'applications informatiques.
+
+Structure utilisatrice, de type grand compte, qui possède un service dédié aux études et développements informatiques.
 
 Code ROME :
 
-32321 - Informaticien d'étude.
+32321 - Informaticien(ne) d'étude.
 
 Réglementation de l'activité :
 
@@ -128,12 +94,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5, L. 335-6 et R. 335-13, R. 338-1 du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
-
-NOTA :
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er août 2008.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
