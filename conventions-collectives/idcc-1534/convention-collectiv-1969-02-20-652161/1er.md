@@ -1,26 +1,26 @@
-# Article 1
+# Article 1er
 
-Article 1er
+En raison de l'entrée en vigueur le 1er janvier 2008 de la nomenclature d'activités française, les parties signataires décident de réécrire le champ d'application de la convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes comme suit :
 
-En raison de l'entrée en vigueur le 1er janvier 1993 de la nomenclature d'activités française, les parties signataires décident de réécrire le champ d'application de la convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes comme suit :
-
-La présente convention collective règle, sur l'ensemble du territoire métropolitain, les rapports entre les employeurs et les salariés des entreprises de l'industrie et des commerces en gros des viandes de boucherie (bovine, porcine, ovine et caprine), des abats de boucherie et de la triperie comestible.
+« La présente convention collective règle, sur l'ensemble du territoire métropolitain, les rapports entre les employeurs et les salariés des entreprises de l'industrie et des commerces en gros des viandes de boucherie (bovine, porcine, ovine et caprine), des abats d'animaux de boucherie (produits tripiers).
 
 La présente convention collective s'applique lorsque l'activité principale des entreprises est l'une ou plusieurs des activités suivantes :
 
-- abattage et dépouille des animaux de boucherie ;
+- abattage des animaux de boucherie ;
 
-- découpe des carcasses en quartiers, pièces et morceaux ;
+- découpe et désossage ;
 
 - transformation des viandes de boucherie ;
 
-- découpe et préparation des abats de boucherie et/ou fabrication de produits à base d'abats de boucherie et de triperie ;
+- découpe et préparation des abats d'animaux de boucherie et / ou fabrication de produits à base d'abats.
+
+Ces activités sont classées sous le code 10. 11 Z de la nomenclature d'activités française de 2008.
 
 - commerce de gros des viandes de boucherie ;
 
-- commerce de gros d'abats de boucherie et de la triperie comestible.
+- commerce de gros d'abats d'animaux de boucherie (produits tripiers).
 
-Ces activités sont classées soit sous le code 151-A, soit sous le code 513-C de la nomenclature d'activités française de 1993.
+Ces activités sont classées sous le code 46. 32 A de la nomenclature d'activités française de 2008.
 
 Restent en dehors du champ d'application les activités principales suivantes :
 
@@ -28,7 +28,7 @@ Restent en dehors du champ d'application les activités principales suivantes :
 
 - commerce de bétail vivant ;
 
-- boucherie hippophagique en gros ;
+- boucherie artisanale ;
 
 - boyauderie (boyaux animaux non comestibles) ;
 
@@ -38,4 +38,4 @@ Restent en dehors du champ d'application les activités principales suivantes :
 
 - commerce de détail ;
 
-- quartier autres que les abats de boucherie en gros et la triperie comestible.
+- 5e quartier autre que les abats d'animaux de boucherie en gros et de produits tripiers transformés.
