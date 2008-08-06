@@ -14,7 +14,9 @@ I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la
 
 6° Des entreprises adaptées mentionnées à l'article L. 5213-13 du même code ;
 
-7° De l'Agence nationale de la recherche.
+7° De l'Agence nationale de la recherche ;
+
+8° Des fondations universitaires et des fondations partenariales mentionnées respectivement aux articles L. 719-12 et L. 719-13 du code de l'éducation lorsqu'elles répondent aux conditions fixées au b du 1 de l'article 200 du présent code.
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
 
@@ -27,7 +29,3 @@ Par dérogation à l'alinéa précédent, la fraction des versements pour laquel
 IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune des pièces justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.
 
 V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
-
-NOTA :
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.

@@ -34,7 +34,9 @@ o) D'obliger le consommateur à exécuter ses obligations lors même que le prof
 
 p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une diminution des garanties pour le consommateur sans l'accord de celui-ci ;
 
-q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat ;
+
+r) De permettre à une banque ou un établissement financier de ne pas rendre effective immédiatement la dénonciation d'un compte joint par l'un des cotitulaires du compte.
 
 2. Portée des points g, j et l :
 
@@ -54,4 +56,4 @@ d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant 
 
 NOTA :
 
-Loi 2005-67 du 28 janvier 2005 art. 7 II : Les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à la date de promulgation de la présente loi.
+Loi n° 2008-776 du 4 août 2008 article 86 III : Le présent article entre en vigueur à compter de la publication du décret visé au troisième alinéa de l'article L. 132-1 du code de la consommation dans sa rédaction résultant de la présente loi et, au plus tard, le 1er janvier 2009.
