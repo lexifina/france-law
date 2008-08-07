@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203312
+
+- Question : [SEQ080203312](seq080203312.md) — Temps de travail des agents territoriaux spécialisés des écoles maternelles
+
+## Réponse
+
+*Budget, JO du 2008-08-07, page 1576*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative au temps de travail des agents territoriaux spécialisés des écoles maternelles. Les agents territoriaux spécialisés des écoles maternelles (ATSEM) sont des fonctionnaires territoriaux de catégorie C, chargés d'assister les enseignants dans les classes maternelles. Ils sont soumis aux dispositions du statut de la fonction publique territoriale, nommés par le maire après avis du directeur de l'école et placés sous l'autorité du directeur pendant le temps scolaire. Les ATSEM peuvent être présents de quelques heures à la totalité du temps scolaire, soit 27 heures hebdomadaires. Afin de compléter leur temps de travail (1 607 heures annuelles pour un agent à temps complet, soit 35 heures hebdomadaires), la semaine scolaire ne comptant que 27 heures, le maire peut leur confier des missions d'entretien des locaux en dehors des heures de classe, de surveillance de la restauration scolaire ou des mêmes missions dans les accueils de loisirs des très jeunes enfants en dehors du domicile parental. Conformément à l'article 4 du décret du 12 juillet 2001 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique territoriale, la collectivité définit, par voie de délibération et auprès du comité technique paritaire compétent, les conditions de mise en place des cycles de travail des ATSEM. Les heures effectuées par les ATSEM, en dehors du temps scolaire, notamment dans le cadre d'une création de garderie en maternelle, ne peuvent être considérées comme des heures complémentaires ou supplémentaires que s'il y a dépassement des bornes horaires définies par le cycle de travail.
