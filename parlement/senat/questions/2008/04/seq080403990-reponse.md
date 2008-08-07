@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403990
+
+- Question : [SEQ080403990](seq080403990.md) — Politique culturelle
+
+## Réponse
+
+*Culture, JO du 2008-08-07, page 1579*
+
+Les crédits du ministère de la culture et de la communication destinés au spectacle vivant ont fait l'objet d'une mesure de dégel qui a notamment permis de préserver les moyens des principales institutions de création et de diffusion. Parallèlement, la ministre de la culture et de la communication a lancé une vaste concertation avec l'ensemble des partenaires du spectacle vivant : représentants des employeurs et des salariés, collectivités territoriales, artistes. Le Premier ministre a accepté de s'appuyer sur les travaux de ces entretiens de Valois, lancés depuis le mois de février, pour arrêter les principales mesures de révision générale des politiques publiques qui concerneront la politique culturelle de l'État en matière de spectacle vivant. Les groupes de travail constitués dans le cadre des entretiens de Valois ont livré une première synthèse de leurs travaux qui proposent des orientations et des pistes de travail. Il s'agit désormais de déterminer celles qui peuvent être retenues et de tester leur validité sur le terrain, en relations avec tous les partenaires concernés. Il a ainsi été décidé de réactiver le conseil national des collectivités territoriales pour la culture, pour développer un dialogue plus structuré avec celles-ci, qui sont les principaux financeurs du spectacle vivant. Se fondant sur les recommandations des entretiens de Valois et des principaux travaux déjà menés dans ce domaine, la ministre souhaite que les financeurs publics de la culture trouvent ensemble les moyens d'une politique culturelle du spectacle vivant dynamique, allant à la rencontre des publics et mobilisant toutes les ressources possibles pour développer les forces créatrices de notre pays.
