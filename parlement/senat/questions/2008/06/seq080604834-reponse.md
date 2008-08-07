@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604834
+
+- Question : [SEQ080604834](seq080604834.md) — Conditions d'obtention du certificat de capacité de mariage pour les Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2008-08-07, page 1573*
+
+En vue de se marier devant les autorités locales sénégalaises, nos ressortissants doivent effectuer les démarches préalables au mariage auprès de notre consulat général à Dakar qui, après publication des bans, leur délivre un certificat de capacité à mariage. L'application de la loi du 14 novembre 2006 relative au contrôle de la validité des mariages impose à nos postes diplomatiques et consulaires une vigilance particulière, notamment à l'égard des mariages de complaisance. Afin de détecter les projets de mariages sans réelle intention matrimoniale, nos postes diplomatiques et consulaires ont la possibilité de procéder à l'audition conjointe ou séparée des époux, comme le prévoit l'article 63 du code civil. Le temps et les moyens humains consacrés à ces auditions et à la rédaction des comptes rendus qui sont communiqués au parquet de Nantes en cas de saisine au titre de l'article 171-4 du code civil, sont à prendre en considération dans les délais de délivrance des certificats de capacité à mariage. Néanmoins, conscient des difficultés résultant de l'allongement de ces délais, notre consulat général à Dakar vient de modifier ses méthodes de travail et l'organisation de ses prises de rendez-vous. Les demandes de certificat de capacité à mariage pourront désormais être transmises par correspondance. Les futurs époux seront convoqués au consulat général en vue de se prêter à l'audition prévue à l'article 63 du code civil, s'il apparaît, au vu des pièces fournies, que cet entretien est nécessaire, notamment au regard des articles 146 et 180 du code civil.
