@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404002
+
+- Question : [SEQ080404002](seq080404002.md) — Optimisation du mode de fonctionnement des centres d'information et d'orientation
+
+## Réponse
+
+*Éducation, JO du 2008-08-21, page 1669*
+
+Le ministère de l'éducation nationale attache la plus grande importance à l'information et l'orientation. Cette dimension est essentielle pour permettre aux élèves de faire leurs choix en connaissance de cause. Au niveau scolaire, il entend lutter contre les préjugés par une meilleure prise en charge par les enseignants de l'articulation lycée/enseignement supérieur : « Au lycée général et technologique, le programme annuel ou pluriannuel d'information sur l'orientation comportera un volet relatif à l'orientation active vers l'enseignement supérieur. Il importe que l'accueil des nouveaux bacheliers dans l'enseignement supérieur soit préparé par une action déterminée d'information, de conseil et d'orientation menée de façon concertée par les établissements d'enseignement supérieur et les lycées. L'information donnée aux lycéens s'appuiera sur les statistiques élaborées par les établissements d'enseignement supérieur concernant les indicateurs de réussite aux examens et aux diplômes, de poursuite d'études et d'insertion professionnelle des étudiants. » (Circulaire préparation de la rentrée 2008, n° 2008-042 du 4 avril 2008 - BO du 10 avril 2008.) Les centres d'information et d'orientation, à l'instar du CIO de l'enseignement supérieur de Paris, participent par leur expertise à cette démarche. Dans les plans académiques de formation des personnels, notamment enseignants, pour le développement de l'accompagnement individuel des élèves en vue de leur orientation, les CIO, leur directeur, leurs personnels techniques sont systématiquement appelés pour leurs compétences propres en appui aux équipes pédagogiques des établissements.
