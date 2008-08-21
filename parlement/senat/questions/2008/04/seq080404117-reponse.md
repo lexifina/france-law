@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404117
+
+- Question : [SEQ080404117](seq080404117.md) — Écrêtement des indemnités d'un maire détenteur d'un mandat parlementaire
+
+## Réponse
+
+*Intérieur, JO du 2008-08-21, page 1683*
+
+Les termes de cette question étant identiques à ceux de la question n° 21835 posée par Mme la députée Zimmermann, la réponse sera donc la même. Conformément à l'article L. 2123-20, II, du code général des collectivités territoriales, l'élu municipal qui est titulaire d'autres mandats électoraux ne peut percevoir, pour l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie l'indemnité parlementaire de base. Les indemnités dépassant ce plafond sont par conséquent écrêtées. Ainsi que le permet le paragraphe III de ce même article, le conseil municipal, et non pas le maire, peut accorder le reversement des sommes résultant de cet écrêtement à d'autres de ses membres. Si elle prévoit que la délibération opérant ce reversement doit être nominative et être assortie, comme toutes les décisions relatives aux indemnités, d'un tableau récapitulant l'ensemble des indemnités allouées aux membres du conseil municipal, la législation ne prescrit pas de modalités de répartition, celle-ci demeurant une faculté. Il convient toutefois de rappeler que la perception d'indemnités de fonction constitue, par principe, une contrepartie aux charges inhérentes à l'exercice effectif des responsabilités électives. Dans ce contexte, le bénéfice de la part écrêtée n'est pas un droit mais peut représenter la compensation d'un surcroît d'activités pour l'élu ou les élus qui sont amenés à suppléer ou à représenter leur maire en situation de cumul. Il est donc loisible au conseil municipal de tenir compte d'une telle situation pour déterminer l'affectation de la part « écrêtée » des indemnités du maire, ce qui est d'ailleurs conforme à la nature et à l'objet d'une indemnité de fonction.
