@@ -6,9 +6,7 @@ LOCALISATION DE L'EMPLOI
 
 |
 
-Conseillers d'administration dans les directions et services de l'administration centrale du ministère de l'intérieur et de l'outre-mer,
-
-de la préfecture de Paris et de la préfecture de police suivants
+Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.
 
 |
 
@@ -46,59 +44,35 @@ Chef du bureau de la nationalité, des titres d'identité et de voyage.
 
 |
 
-Adjoint au chef du bureau du séjour.
-
-|
-
-30
-
-|
-
-|
-
-Adjoint au chef du bureau des procédures d'éloignement.
-
-|
-
-30
-
-|
-
-|
-
 Chef du bureau du contentieux des polices administratives.
 
 |
 
+60
+
+|
+
+|
+
+Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
+
+|
+
+50 |
+
+|
+
+Chef du bureau de la sécurité et de la réglementation routières. |
+
 50
 
 |
 
 |
 
-Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières. |
+Chef du service du fichier national des permis de conduire. |
 
 30
-
-|
-
-|
-
-Chef du bureau de la sécurité et de la réglementation routières.
-
-|
-
-30
-
-|
-
-|
-
-Chef du service du fichier national des permis de conduire.
-
-|
-
-50
 
 |
 
@@ -107,8 +81,6 @@ Chef du service du fichier national des permis de conduire.
 Chef de cabinet.
 
 |
-
-30
 
 |
 
@@ -496,6 +468,16 @@ Chef du pôle de l'action économique et de l'emploi.
 
 |
 
+Chef du pôle de l'action économique et de l'emploi.
+
+|
+
+30
+
+|
+
+|
+
 Chef du bureau du cabinet.
 
 |
@@ -785,6 +767,28 @@ Direction des affaires économiques, sociales et culturelles.
 |
 
 Chef du département des financements publics et de la programmation.
+
+|
+
+30
+
+|
+
+Ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.
+
+|
+
+Chef du bureau du droit de l'éloignement.
+
+|
+
+30
+
+|
+
+|
+
+Chef du département de l'asile à la frontière et de l'admission au séjour.
 
 |
 
