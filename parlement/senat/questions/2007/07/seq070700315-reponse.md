@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700315
+
+- Question : [SEQ070700315](seq070700315.md) — Taux moyen pondéré des taxes d'habitation et taxes foncières des EPCI assujettis à la TPU
+
+## Réponse
+
+*Économie, JO du 2008-08-21, page 1648*
+
+Conformément au II de l'article 1636 B decies du code général des impôts, l'évolution du taux de taxe professionnelle d'un établissement public de coopération intercommunale (ECPI) à taxe professionnelle unique, au titre d'une année, est liée à celle constatée l'année précédente pour le taux moyen pondéré de taxe d'habitation ou le taux moyen pondéré de taxe d'habitation et des taxes foncières pour l'ensemble de ses communes membres. Il en résulte qu'une baisse des bases d'imposition de taxe d'habitation ou de taxes foncières peut, dans certains cas, conduire, au titre d'une année, à une diminution du taux moyen pondéré de ces taxes par rapport à celui de l'année précédente. Comme le relève l'auteur de la question, il a pu en être ainsi, à la suite de l'institution de l'exonération de 20 % des parts communale et intercommunale de la taxe foncière sur les propriétés non bâties afférente aux terrains à usage agricole prévue au I de l'article 1394 B bis du code précité, pour le calcul de la variation du taux moyen pondéré de taxe d'habitation et des taxes foncières entre 2005 et 2006 retenu pour la fixation du taux de taxe professionnelle unique d'un ECPI en 2007. Pour autant, il n'a pas été relevé et signalé des situations dans lesquelles l'effet évoqué aurait rendu indispensable pour 2007 une adaptation des règles de lien entre les taux, étant observé qu'une telle mesure aurait, par ailleurs, créé des différences dans les règles applicables selon l'origine de la baisse des bases d'imposition des taxes foncières des communes membres et complexifié encore les dispositions en vigueur.
