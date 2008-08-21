@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504487
+
+- Question : [SEQ080504487](seq080504487.md) — Intercommunalité
+
+## Réponse
+
+*Intérieur, JO du 2008-08-21, page 1687*
+
+Au 1er janvier 2008, 33 636 communes étaient regroupées dans des établissements publics de coopération intercommunale à fiscalité propre (communautés de communes, communautés d'agglomération, communautés urbaines, syndicats d'agglomération nouvelle), soit 223 communes de plus qu'un an auparavant (33 413). Ainsi, 92 % des communes et 87 % de la population appartiennent à un des quatre types de groupements à fiscalité propre. L'enjeu du fait intercommunal pour les années à venir n'est donc plus d'affirmer son enracinement durable mais de créer les conditions de son développement rationnel. Dans cette perspective, les mesures contenues dans les schémas départementaux d'orientation de l'intercommunalité arrêtés à l'été 2006 par les préfets en liaison avec les élus doivent continuer à être mises en oeuvre. Il s'agit principalement de faciliter les regroupements des EPCI déjà existants en recourant de manière accrue au dispositif de fusion ; de réduire significativement, en fonction des recouvrements de périmètres et de compétences, le nombre de syndicats intercommunaux de service (SIVU, SIVOM) au profit des EPCI à fiscalité propre ; d'inciter les communes isolées à adhérer à une intercommunalité afin que la couverture du territoire national soit achevée. Au-delà, le Gouvernement entend mener une réflexion plus large sur l'avenir de l'intercommunalité, la pertinence des périmètres actuels, les compétences exercées au niveau intercommunal, le recours accru à la mutualisation des services et la légitimité démocratique des intercommunalités à fiscalité propre. Toutes ces questions pourront trouver une réponse dans le projet de loi actuellement en cours de préparation, qui fera l'objet d'une concertation avec les associations représentatives des collectivités territoriales dans les mois à venir.
