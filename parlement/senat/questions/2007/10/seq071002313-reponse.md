@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002313
+
+- Question : [SEQ071002313](seq071002313.md) — Saint-Pierre-et-Miquelon : dispense de passeport accordée aux ressortissants canadiens
+
+## Réponse
+
+*Affaires étrangères, JO du 2008-08-21, page 1630*
+
+Les ressortissants canadiens sont exemptés de visas pour la France par échange de notes des 6 et 17 avril 1950, avec extension aux DFA en 1956. Cette exemption, suspendue le 16 septembre 1986, est rétablie par décision unilatérale en mars 1989 avec extension aux TOM. Bien que les ressortissants canadiens dussent en principe être munis d'un passeport ou d'un titre de voyage en tenant lieu, la pratique s'était instaurée, compte tenu de la situation particulière de l'archipel, d'accepter au débarcadère tout justificatif d'identité probant. Cette tolérance posait toutefois problème. En effet, elle ne reposait sur aucun fondement juridique en dérogeant aux articles L. 111-2 et L. 211-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, et ne faisait pas l'objet de réciprocité. Par ailleurs, plusieurs des justificatifs présentés ne comportaient pas certains éléments d'identification minima (photographie, mention de la nationalité). Ainsi en 2000, le préfet de Saint-Pierre-et-Miquelon soulève le problème des Canadiens qui se présentent à l'arrivée sans aucun document d'identité. La direction de la police des frontières est intervenue à nouveau en janvier 2007 auprès du ministère des affaires étrangères, en insistant sur le problème des groupes d'enfants qui voyageaient sans documents. Dans le souci de faciliter l'accès des ressortissants canadiens au territoire de Saint-Pierre-et-Miquelon, le ministère des affaires étrangères et européennes a engagé une réflexion pour rechercher une solution adaptée au contexte local, tout en respectant la légalité républicaine, et les grands principes qui régissent les relations internationales.
