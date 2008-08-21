@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202981
+
+- Question : [SEQ071202981](seq071202981.md) — Propositions de la Haute Autorité de santé sur les affections de longue durée
+
+## Réponse
+
+*Santé, JO du 2008-08-21, page 1705*
+
+La progression du nombre de personnes en affection de longue durée (ALD) due notamment au fait de l'allongement de l'espérance de vie, des progrès de la médecine et de l'accroissement des maladies chroniques, est un défi majeur pour notre système de santé et d'assurance maladie. Les 9 millions de patients en ALD représentaient 60 % des dépenses d'assurance maladie en 2006 et contribuent selon le Haut Conseil pour l'avenir de l'assurance maladie à 80 % de la croissance de ces dépenses. En outre, ce régime n'est pas exempt dans certains cas de carences dans la prise en charge et le suivi de ces malades. C'est pourquoi la commission ALD de la Haute Autorité de santé (HAS) a mené en 2007, de sa propre initiative et de façon totalement autonome, un travail de réflexion en vue de proposer une actualisation des critères d'admission des patients en ALD. Cette commission observe ainsi qu'en raison des progrès techniques et de l'amélioration des traitements les premiers stades de certaines pathologies restent bénins et relativement peu sévères pour les patients. Cela explique que pour certaines pathologies comme l'hypertension artérielle (HTA) par exemple, la moyenne des dépenses de soins du patient en ALD soit en réalité inférieure à la moyenne des autres usagers de droit commun de notre système de santé. Dans son avis publié le 10 décembre 2007, la HAS estime qu'une mise à jour de ce régime s'impose afin d'en recentrer le bénéfice sur les maladies les plus graves et les plus coûteuses. Il n'est toutefois question nulle part de dégrader la prise en charge à 100 % pour les dépenses de soins des patients en ALD en rapport avec leur maladie. Le Gouvernement poursuit sa réflexion sur les pistes d'évolution et de réforme de ce dispositif.
