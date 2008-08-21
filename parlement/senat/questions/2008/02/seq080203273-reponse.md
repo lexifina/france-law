@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203273
+
+- Question : [SEQ080203273](seq080203273.md) — Pour une meilleure prise en compte des personnes vivant seules (fiscalité et droits de succession)
+
+## Réponse
+
+*Économie, JO du 2008-08-21, page 1652*
+
+L'impôt sur le revenu est établi de manière à tenir compte des facultés contributives de chaque redevable. Celles-ci s'apprécient en fonction du montant du revenu et du nombre de personnes qui vivent de ce revenu au sein du foyer. En application de ce principe, l'impôt sur le revenu des personnes vivant seules est normalement calculé sur une part de quotient familial et celui des personnes mariées sur deux parts. Cette règle permet notamment de traiter de la même façon les couples mariés, ceux liés par un pacte civil de solidarité et ceux qui vivent en concubinage, dont les membres sont assimilés à des célibataires pour le calcul de l'impôt sur le revenu. Cette règle, qui résulte des termes mêmes de la loi, est à la fois équitable et simple d'application. Toute autre solution emporterait des conséquences contraires aux principes du quotient familial, puisque les foyers dépourvus de charge de famille pourraient alors bénéficier d'un nombre de parts supérieur à celui des contribuables qui supportent de telles charges. Par suite, il n'est pas envisagé de modifier les règles sur ce point. Cela étant, le système du quotient familial tient compte de la situation particulière de certaines personnes vivant seules, notamment lorsqu'elles ont un enfant majeur imposé distinctement, en leur attribuant une demi-part supplémentaire de quotient familial. En outre, en raison du mode de calcul de l'impôt, par part de quotient familial, les personnes de condition modeste vivant seules bénéficient pleinement du mécanisme de la décote qui permet, pour l'imposition des revenus 2007, d'annuler ou d'atténuer les cotisations d'impôt inférieures à 838 euros.
