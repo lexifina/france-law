@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504536
+
+- Question : [SEQ080504536](seq080504536.md) — Fièvre catarrhale ovine
+
+## Réponse
+
+*Agriculture, JO du 2008-08-21, page 1633*
+
+Les filières bovine et ovine font actuellement face à des difficultés sanitaires et économiques. Plus de 20 000 nouveaux foyers de fièvre catarrhale ovine (FCO) sérotype 8 et 1 ont été recensés en France depuis le 27 juillet 2007. Depuis mars 2008 un vaste plan de vaccination des ruminants contre ces deux sérotypes est déployé sur l'ensemble du territoire, afin de lutter contre l'extension et les graves effets induits par cette maladie. 31 millions de doses de vaccin ont été distribuées pour bovins et ovins depuis le début de la campagne. 2,7 millions de doses de vaccin ont été réservées aux exploitations exportant des broutards. Ainsi, au 17 juillet, 267 000 doses ont été mises à disposition des vétérinaires en Corrèze. Depuis le 4 mars 2008, l'Italie a déclenché une clause de sauvegarde, interdisant l'entrée de ruminants non vaccinés contre la FCO sur son territoire. Les contacts diplomatiques ont permis notamment d'obtenir la mise en oeuvre à partir du 6 mai d'un protocole qui a réduit les délais de maintien des animaux, originaires de la majeure partie du territoire et destinés à l'Italie, après injection du vaccin contre le sérotype 8. Dans ce contexte, le Premier ministre a mobilisé 6 millions d'euros en faveur des éleveurs. Une aide au maintien des animaux dans les exploitations et un soutien à l'engraissement sont ainsi actuellement en cours d'instruction dans les départements concernés. Ces aides s'ajoutent aux 5 millions d'euros de fonds d'allègement des charges déjà accordés depuis octobre 2007. Par ailleurs, 6 millions d'euros sont consacrés à soutenir les opérateurs de commercialisation touchés par la crise.
