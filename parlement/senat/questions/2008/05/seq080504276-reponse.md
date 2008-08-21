@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504276
+
+- Question : [SEQ080504276](seq080504276.md) — Perte de recette fiscale pour les communes dans le périmètre "Seveso"
+
+## Réponse
+
+*Économie, JO du 2008-08-21, page 1656*
+
+Conformément à l'article 1383 G du code général des impôts, les collectivités territoriales et les établissements publics de coopération intercommunale (EPCI) dotés d'une fiscalité propre peuvent, par une délibération prise avant le 1er octobre d'une année pour être applicable l'année suivante, exonérer de taxe foncière sur les propriétés bâties, à concurrence de 25 % ou de 50 %, les constructions affectées à l'habitation achevées antérieurement à la mise en place d'un plan de prévention des risques technologiques mentionné à l'article L. 515-15 du code de l'environnement et situées dans le périmètre d'exposition aux risques prévu par le plan. Dès lors que l'institution de cette exonération résulte d'une décision des collectivités concernées, la perte de recettes correspondante pour les collectivités territoriales et les EPCI ne fait pas l'objet d'une compensation par l'État. Ces modalités vont dans le sens de la responsabilisation des acteurs et répondent au principe constitutionnel d'autonomie financière des collectivités territoriales. En revanche, la transformation de cette exonération en une exonération de plein droit, assortie d'une compensation par l'État de la perte de recettes correspondante pour les collectivités territoriales et les EPCI ou en un dégrèvement à la charge de l'État, irait à l'encontre de ces principes. Un amendement en ce sens déposé lors de l'examen du texte par le Sénat n'avait d'ailleurs pas été adopté par la représentation nationale pour ces raisons. En tout état de cause, les installations figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement (installations classées « Seveso seuil haut ») sont imposables aux impôts directs locaux dans les conditions de droit commun.
