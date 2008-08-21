@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504339
+
+- Question : [SEQ080504339](seq080504339.md) — Retraite IRCANTEC et indemnité de conseiller municipal
+
+## Réponse
+
+*Intérieur, JO du 2008-08-21, page 1685*
+
+Les termes de cette question étant identiques à ceux de la question n° 22653 posée par Mme la députée Zimmermann, la réponse sera donc la même. Bien que l'exercice d'un mandat électif ne saurait être assimilé à une activité professionnelle, les élus locaux peuvent se constituer, en cette qualité, des droits à pension distincts de ceux acquis au titre de leur emploi. Les maires et les adjoints ainsi que les membres des conseils généraux et régionaux sont affiliés à l'IRCANTEC respectivement depuis la loi du 23 décembre 1972 portant affiliation des maires et des adjoints au régime complémentaire de retraite des agents non titulaires des collectivités publiques et celle du 3 février 1992 relative aux conditions d'exercice des mandats locaux. La réglementation de I'IRCANTEC ne permettait pas à un affilié de faire valoir son droit à perception d'une pension de retraite et de cotiser dans le même temps à ce régime. Toutefois, l'instruction interministérielle du 8 juillet 1996 a précisé que, pour l'application de ce principe, les mandats électifs détenus au sein d'un conseil municipal, d'un conseil général, d'un conseil régional et de l'organe délibérant d'un établissement public de coopération intercommunale constituaient quatre catégories différentes « d'activités » du point de vue de l'affiliation à l'IRCANTEC. Ainsi que le prévoit cette instruction, si un conseiller municipal ne peut bénéficier de la pension acquise au titre de fonctions municipales, rien ne s'oppose en revanche à ce que cet élu puisse recevoir celle résultant, le cas échéant, d'autres catégories de mandat exercées auparavant.
