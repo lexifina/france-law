@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303632
+
+- Question : [SEQ080303632](seq080303632.md) — Responsabilité des clients des loueurs de véhicules routiers
+
+## Réponse
+
+*Justice, JO du 2008-08-21, page 1697*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la spécificité de l'affaire évoquée, tant par la nature du problème posé que par l'ampleur des dégâts causés à l'environnement, ne permet nullement d'en tirer les conséquences qu'il envisage. En effet, dans l'affaire évoquée, le tribunal correctionnel de Paris a reconnu coupable du délit de pollution une compagnie pétrolière après avoir constaté qu'elle s'était investie dans le processus de sélection du navire défectueux, en vérifiant les conditions de sécurité du navire qu'elle avait elle-même définies, et après avoir précisé qu'elle disposait d'un pouvoir de direction et de contrôle sur le choix de ce navire de telle sorte que la déficience de ce système de sélection pouvait justifier l'engagement de sa responsabilité. La condamnation de la compagnie pétrolière est notamment fondée sur l'article 8, alinéa 4, de la loi n° 83-583 du 5 juillet 1983, devenu l'articleL. 218-22-IV du code de l'environnement, qui réprime les agissements de toute personne exerçant, en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire. Ainsi, les conditions de mise en cause de la responsabilité pénale de la compagnie pétrolière ont été précisément évaluées par la juridiction après un examen approfondi des circonstances de l'espèce. Il ne saurait donc être question de considérer qu'une telle solution jurisprudentielle puisse être étendue de manière générale et être opposée aux clients des loueurs de véhicules routiers en cas d'incident dû au mauvais entretien du véhicule.
