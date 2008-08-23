@@ -12,9 +12,7 @@ RÉPUBLIQUE FRANçAISE
 
 Livret de famille
 
-(Application du décret n° 74-449 du 15 mai 1974 modifié
-
-et de l'arrêté du 1er juin 2006)
+(Application du décret n° 74-449 du 15 mai 1974 modifié et de l'arrêté du 1er juin 2006)
 
 3° Page 2 :
 
@@ -22,11 +20,13 @@ Délivrance du livret de famille
 
 Le livret de famille est remis par l'officier de l'état civil :
 
-- lors de la célébration du mariage ;
+-lors de la célébration du mariage ;
 
-- lors de la déclaration de naissance du premier enfant lorsque la filiation est établie à l'égard d'au moins l'un des parents ;
+-lors de la déclaration de naissance du premier enfant lorsque la filiation est établie à l'égard d'au moins l'un des parents ;
 
-- lors de la transcription sur les registres de l'état civil du jugement d'adoption d'un enfant par une personne seule.
+-lors de la transcription sur les registres de l'état civil du jugement d'adoption d'un enfant par une personne seule ;
+
+-à la demande des parents qui en sont dépourvus, à l'occasion de l'établissement d'un acte d'enfant sans vie.
 
 La délivrance, par un officier de l'état civil, d'un livret de famille non conforme aux dispositions réglementaires est passible des sanctions pénales prévues à l'article R. 645-3 du code pénal.
 
@@ -34,21 +34,23 @@ Eléments du livret de famille
 
 Le livret de famille est constitué par la réunion des extraits des actes de l'état civil suivants, selon le cas :
 
-- mariage ;
+-mariage ;
 
-- naissance du ou des père et mère à l'égard desquels la filiation est établie ainsi que naissance de l'enfant.
+-naissance du ou des père et mère à l'égard desquels la filiation est établie ainsi que naissance de l'enfant ;
 
-L'extrait de l'acte d'enfant sans vie figure sur le livret de famille si les parents le demandent, même si cet acte a été dressé antérieurement à la délivrance du livret de famille.
+-naissance du ou des père et mère ainsi qu'indication d'enfant sans vie, date et lieu de l'accouchement.
 
 Le livret de famille est ultérieurement complété, selon le cas, par les extraits des actes de l'état civil suivants :
 
-- mariage des parents ;
+-mariage des parents ;
 
-- naissance du parent à l'égard duquel la filiation est établie ultérieurement à la date de délivrance du livret. Lorsque plusieurs enfants figurent déjà sur le livret de famille, cette mention n'est possible que si ce parent est commun à tous les enfants. Dans les autres cas, le livret de famille est restitué et deux nouveaux livrets sont délivrés, l'un mentionnant les enfants communs aux deux parents, l'autre les enfants pour lesquels la filiation n'est établie qu'à l'égard de l'un des parents ;
+-naissance du parent à l'égard duquel la filiation est établie ultérieurement à la date de délivrance du livret. Lorsque plusieurs enfants figurent déjà sur le livret de famille, cette mention n'est possible que si ce parent est commun à tous les enfants. Dans les autres cas, le livret de famille est restitué et deux nouveaux livrets sont délivrés, l'un mentionnant les enfants communs aux deux parents, l'autre les enfants pour lesquels la filiation n'est établie qu'à l'égard de l'un des parents ;
 
-- décès des enfants mineurs ;
+-décès des enfants mineurs ;
 
-- décès des époux ou parents.
+-décès des époux ou parents.
+
+L'extrait de l'acte d'enfant sans vie figure sur le livret de famille si les parents le demandent, même si cet acte a été dressé antérieurement à la délivrance du livret de famille.
 
 Le livret de famille est également complété par la mention des actes ou jugements ayant une incidence sur un des actes figurant sur le livret, tel que changement de nom, jugement rectificatif, divorce, séparation de corps, etc.
 
@@ -80,9 +82,9 @@ Prénoms
 
 Nom
 
-Né le , à heures ,
+Né le, à heures,
 
-à ,
+à,
 
 de (1)
 
@@ -104,9 +106,9 @@ Prénoms
 
 Nom
 
-Née le , à heures ,
+Née le, à heures,
 
-à ,
+à,
 
 de (1)
 
@@ -122,7 +124,7 @@ Sceau (2)
 
 Mentions marginales (3)
 
-Mariage célébré à , le , à heures
+Mariage célébré à, le, à heures
 
 Les futurs époux ont déclaré (4)
 
@@ -140,15 +142,15 @@ Mentions marginales (3)
 
 (3) Inscrites sur l'acte postérieurement à l'établissement du présent extrait.
 
-(4) Compléter ainsi la formule : " qu'il n'a pas été fait de contrat de mariage " ou " qu'un contrat de mariage a été reçu le ... par Me ..., notaire à ... ".
+(4) Compléter ainsi la formule : "qu'il n'a pas été fait de contrat de mariage" ou "qu'un contrat de mariage a été reçu le... par Me..., notaire à...".
 
 6° Page 12 :
 
 Epoux ou père
 
-Extrait de l'acte de décès n° .....
+Extrait de l'acte de décès n°.....
 
-Décédé le ,
+Décédé le,
 
 à
 
@@ -162,9 +164,9 @@ Mentions marginales (1)
 
 Epouse ou mère
 
-Extrait de l'acte de décès n° .....
+Extrait de l'acte de décès n°.....
 
-Décédée le ,
+Décédée le,
 
 à
 
@@ -182,15 +184,15 @@ Mentions marginales (1)
 
 Premier enfant
 
-Extrait de l'acte de naissance n° .....
+Extrait de l'acte de naissance n°.....
 
-Le , à heures ,
+Le, à heures,
 
-est né(e) (1) ,
+est né (e) (1),
 
-du sexe , à
+du sexe, à
 
-reconnu(e) (2)
+reconnu (e) (2)
 
 par (3)
 
@@ -202,9 +204,9 @@ Sceau
 
 Mentions marginales (4)
 
-Extrait de l'acte de décès n° ....
+Extrait de l'acte de décès n°....
 
-Décédé(e) le ,
+Décédé (e) le,
 
 à
 
@@ -218,7 +220,7 @@ Mentions marginales (4)
 
 (1) Prénoms et nom de famille tels qu'ils résultent de l'acte de naissance ; compléter, le cas échéant, l'indication du nom par :
 
-"suivant déclaration conjointe du .... (date de la déclaration reçue pour le premier enfant commun)".
+"suivant déclaration conjointe du.... (date de la déclaration reçue pour le premier enfant commun)".
 
 (2) Préciser, s'il y a lieu, les date et lieu de la ou des reconnaissances.
 
