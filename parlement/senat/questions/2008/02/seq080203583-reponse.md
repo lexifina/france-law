@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203583
+
+- Question : [SEQ080203583](seq080203583.md) — Accès au logement et droits de mutation à titre onéreux
+
+## Réponse
+
+*Économie, JO du 2008-08-28, page 1733*
+
+Les mutations à titre onéreux d'immeubles anciens affectés à l'habitation, qui n'entrent pas dans le champ d'application de la taxe sur la valeur ajoutée, sont principalement assujetties à un droit de 3,60 % qui est une taxe perçue par le département du lieu de situation de l'immeuble, augmentée d'une taxe communale de 1,20 %. Ces droits ont déjà été sensiblement réduits par les lois de finances pour 1999 et 2000 qui ont supprimé la taxe additionnelle de 1,60 % perçue au profit des régions et ont plafonné à 3,60 % le taux maximal des droits départementaux. L'article 1594 F ter du code général des impôts prévoit par ailleurs la possibilité pour les conseils généraux d'instituer sur l'assiette des droits un abattement d'un montant compris entre 7 600 euros et 46 000 euros, à la condition que l'acquéreur prenne l'engagement de ne pas affecter l'immeuble à un usage autre que celui de l'habitation pendant une durée de trois ans à compter de la date de l'acte d'acquisition. Dans le contexte de la maîtrise des comptes publics, une nouvelle mesure de réduction générale ou d'exonération des droits de mutation à titre onéreux (DMTO) en faveur des acquisitions de résidence principale, aussi digne d'intérêt soit-elle, n'est pas envisagée. Par ailleurs, en matière de DMTO, la perte des recettes qui en résulterait pour les collectivités territoriales concernées devrait être compensée par l'État. Enfin, le Gouvernement s'est déjà fortement engagé en faveur du logement avec la loi n° 2007-1223 du 22 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat qui permet à tout acquéreur d'un immeuble affecté à son habitation principale de bénéficier d'un crédit d'impôt sur le revenu au titre des intérêts des prêts contractés.
