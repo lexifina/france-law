@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705235
+
+- Question : [SEQ080705235](seq080705235.md) — Revalorisation de la rente mutualiste des anciens combattants
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2008-08-28, page 1732*
+
+Le secrétaire d'État à la défense et aux anciens combattants tient à rappeler que le relèvement du plafond de la rente mutualiste a fait l'objet d'un certain nombre de mesures. L'article 125 de la loi de finances pour 2002 avait relevé ce plafond de 110 à 115 points. L'article 114 de la loi de finances pour 2003 a décidé un relèvement exceptionnel du plafond majorable, qui est passé de 115 à 122,5 points. Cette augmentation substantielle de 7,5 points en 2003 a représenté un effort important sur le plan budgétaire. Ce plafond a de nouveau été relevé par l'article 101 de la loi de finances pour 2007 qui l'a porté à 125 points à compter du 1er janvier 2007, soit une hausse de 2,5 points. Il bénéficie en outre des revalorisations régulières du point d'indice intervenues au cours de l'année. Ainsi, compte tenu de la valeur du point d'indice depuis le 1er mars 2008 fixée à 13,45 EUR, le montant du plafond majorable est à l'heure actuelle de 1681,25 EUR. La dotation consacrée aux rentes mutualistes a augmenté de 4 % par rapport à celle de 2007 pour se situer à 226,5 MEUR dans la loi de finances pour 2008, soit un abondement de 9 MEUR pour prendre en compte l'évolution du nombre de bénéficiaires et financer l'augmentation du plafond majorable décidée en loi de finances pour 2007. Le budget pour l'année 2009 étant en phase d'élaboration, il ne peut être préjugé dès à présent des mesures qui interviendront. Toute décision de majoration supplémentaire ultérieure devra cependant s'effectuer à un rythme compatible avec les exigences de maîtrise de dépenses publiques.
