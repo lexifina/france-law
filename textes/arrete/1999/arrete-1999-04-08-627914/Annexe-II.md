@@ -800,11 +800,11 @@ Réduction du risque de fièvre vitulaire.
 
 |
 
-Faible teneur en calcium,
+Faible teneur en calcium.
 
 |
 
-Vaches laitières.
+Vaches laitières
 
 |
 
@@ -816,11 +816,7 @@ Une à quatre semaines avant le vêlage.
 
 |
 
-Mentionner dans le mode d'emploi : "Arrêter l'administration à partir du vêlage."
-
-|
-
-et/ou
+Mentionner dans le mode d'emploi :
 
 |
 
@@ -828,7 +824,9 @@ Phosphore.
 
 |
 
-Faible rapport cations/anions.
+|
+
+"Arrêter l'administration à partir du vêlage."
 
 |
 
@@ -836,7 +834,33 @@ Magnésium.
 
 |
 
+|
+
+|
+
+et/ou
+
+|
+
+|
+
+|
+
+|
+
+Faible rapport cations/anions.
+
+|
+
 Calcium.
+
+|
+
+Une à quatre semaines avant le vêlage.
+
+|
+
+Mentionner dans le mode d'emploi :
 
 |
 
@@ -844,7 +868,17 @@ Phosphore.
 
 |
 
+|
+
+"Arrêter l'administration à partir du vêlage."
+
+|
+
 Sodium.
+
+|
+
+|
 
 |
 
@@ -852,11 +886,107 @@ Potassium.
 
 |
 
+|
+
+|
+
 Chlorures.
 
 |
 
+|
+
+|
+
 Soufre.
+
+|
+
+|
+
+|
+
+ou
+
+|
+
+|
+
+|
+
+|
+
+Teneur élevée en zéolite (aluminosilicate de sodium de synthèse).
+
+|
+
+Teneur en aluminosilicate de sodium de synthèse.
+
+|
+
+Les deux semaines précédant le vêlage.
+
+|
+
+Mentionner dans le mode d'emploi :
+
+|
+
+|
+
+|
+
+"Il faut limiter la quantité d'aliments de manière à ne pas dépasser une dose journalière de 500 g d'aluminosilicate de sodium par animal."
+
+|
+
+|
+
+|
+
+"Arrêter l'administration à partir du vêlage."
+
+|
+
+ou
+
+|
+
+|
+
+|
+
+|
+
+Teneur élevée en calcium sous la forme de sels de calcium à haute disponibilité.
+
+|
+
+Teneur totale en calcium, sources et quantités respectives de calcium.
+
+|
+
+Dès les premiers signes de la parturition et jusqu'à deux jours après celle-ci.
+
+|
+
+Indiquer sur l'emballage, le récipient ou l'étiquette :
+
+|
+
+|
+
+|
+
+- le mode d'emploi, c'est-à-dire le nombre d'applications et la durée avant et après le vêlage ;
+
+|
+
+|
+
+|
+
+- la mention : "Avant utilisation, il est recommandé de demander l'avis d'un vétérinaire."
 
 |
 
@@ -1056,7 +1186,7 @@ Jusqu'à six semaines.
 
 |
 
-Indiquer sur l'emballage, le récipient ou l'étiquette : "Spécialement pour les jeunes animaux nourris intensivement."
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Spécialement pour les jeunes animaux nourris intensivement.
 
 |
 
