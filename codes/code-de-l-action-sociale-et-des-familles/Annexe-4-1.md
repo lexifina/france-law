@@ -2,7 +2,7 @@
 
 BARÈME DES BOURSES D'ÉTUDES PRÉVU À L'ARTICLE D. 451-7
 
-I.-Taux minimaux
+I. - Taux minimaux
 
 ÉCHELONS DES BOURSES
 
@@ -16,7 +16,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-1 er échelon
+1er échelon
 
 |
 
@@ -24,7 +24,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-2 e échelon
+2e échelon
 
 |
 
@@ -32,7 +32,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-3 e échelon
+3e échelon
 
 |
 
@@ -40,7 +40,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-4 e échelon
+4e échelon
 
 |
 
@@ -48,7 +48,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-5 e échelon
+5e échelon
 
 |
 
@@ -56,33 +56,35 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-II.-Plafonds minimaux de ressources
+II. - Plafonds minimaux de ressources
 
 POINTS DE CHARGE
 
 |
 
-MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
+MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES
+
+(EN EUROS)
 
 |
 
-1 er échelon
+1er échelon
 
 |
 
-2 e échelon
+2e échelon
 
 |
 
-3 e échelon
+3e échelon
 
 |
 
-4 e échelon
+4e échelon
 
 |
 
-5 e échelon
+5e échelon
 
 |
 
@@ -518,7 +520,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 
 |
 
-III.-Points de charges minimaux
+III. - Points de charges minimaux
 
 CHARGES DE L'ÉTUDIANT
 
@@ -615,3 +617,13 @@ Le père ou la mère élève seul (e) son ou ses enfants
 1
 
 |
+
+IV. - Conditions d'indépendance de logement et de revenu
+
+Les conditions d'indépendance de logement et de revenu mentionnées à l'article D. 451-7 sont :
+
+- justifier d'une déclaration fiscale différente de celle de ses parents ;
+
+- disposer d'un revenu personnel correspondant au minimum à 50 % du SMIC brut annuel, ou d'un revenu par couple au moins égal à 90 % du SMIC brut annuel si l'étudiant est marié ou a conclu un pacte civil de solidarité défini à l'article 515-1 du code civil, et ceci hors pensions alimentaires versées par les parents ;
+
+- apporter la preuve d'un domicile distinct de celui de ses parents, attesté au moins par un justificatif de domicile à son nom.
