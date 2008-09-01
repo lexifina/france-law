@@ -22,8 +22,6 @@ par emploi
 
 |
 
-|
-
 Référent politique de la ville
 
 |
@@ -37,10 +35,6 @@ A
 |
 
 50 points
-
-|
-
-|
 
 |
 
@@ -66,8 +60,6 @@ par emploi
 
 |
 
-|
-
 Chef du service urbanisme et habitat
 
 |
@@ -81,8 +73,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -102,8 +92,6 @@ A
 
 |
 
-|
-
 Chargé d'études politiques contractuelles
 
 |
@@ -120,8 +108,6 @@ B
 
 |
 
-|
-
 Secrétaire politiques contractuelles de l'Etat
 
 |
@@ -135,10 +121,6 @@ C
 |
 
 10 points
-
-|
-
-|
 
 |
 
@@ -162,8 +144,6 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-|
-
 Chef du bureau des études du logement social
 
 |
@@ -180,8 +160,6 @@ A
 
 |
 
-|
-
 Chargé du conventionnement des études d'habitat et de l'instruction des dossiers de la politique de la ville
 
 |
@@ -195,10 +173,6 @@ B
 |
 
 15 points
-
-|
-
-|
 
 |
 
@@ -224,8 +198,6 @@ par emploi
 
 |
 
-|
-
 Responsable du domaine de la politique de la ville
 
 |
@@ -239,10 +211,6 @@ A
 |
 
 20 points
-
-|
-
-|
 
 |
 
@@ -266,8 +234,6 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-|
-
 Chef de projet politique de la ville
 
 |
@@ -281,8 +247,6 @@ A
 |
 
 40 points
-
-|
 
 |
 
@@ -302,8 +266,6 @@ A
 
 |
 
-|
-
 Chargé de la politique de la ville pour le nord de l'Essonne
 
 |
@@ -317,8 +279,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -338,8 +298,6 @@ B
 
 |
 
-|
-
 Chef du bureau des usagers de l'habitat
 
 |
@@ -353,8 +311,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -374,8 +330,6 @@ A
 
 |
 
-|
-
 Instructeur des dossiers du logement social dans les quartiers prioritaires
 
 |
@@ -389,10 +343,6 @@ B
 |
 
 15 points
-
-|
-
-|
 
 |
 
@@ -416,8 +366,6 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-|
-
 Délégué de l'Etat pour le grand projet de ville, chargé de mission territorial
 
 |
@@ -431,8 +379,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -452,8 +398,6 @@ B
 
 |
 
-|
-
 Chargé de mission politique de la ville
 
 |
@@ -467,10 +411,6 @@ B
 |
 
 20 points
-
-|
-
-|
 
 |
 
@@ -494,8 +434,6 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-|
-
 Chargé de mission politique de la ville
 
 |
@@ -509,8 +447,6 @@ A
 |
 
 50 points
-
-|
 
 |
 
@@ -530,8 +466,6 @@ A
 
 |
 
-|
-
 Chef de la subdivision logement des plus démunis
 
 |
@@ -545,8 +479,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -566,8 +498,6 @@ A
 
 |
 
-|
-
 Chargé de mission études habitat et application de la loi solidarité et renouvellement urbains
 
 |
@@ -581,8 +511,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -602,8 +530,6 @@ A
 
 |
 
-|
-
 Chargé d'études de l'atelier d'urbanisme
 
 |
@@ -617,8 +543,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -638,8 +562,6 @@ A
 
 |
 
-|
-
 Chef de subdivision des arrondissements territoriaux
 
 |
@@ -653,8 +575,6 @@ A
 |
 
 20 points
-
-|
 
 |
 
@@ -674,8 +594,6 @@ B
 
 |
 
-|
-
 Gestionnaire de subventions liées à la politique de la ville
 
 |
@@ -689,8 +607,6 @@ B
 |
 
 30 points
-
-|
 
 |
 
@@ -710,8 +626,6 @@ B
 
 |
 
-|
-
 Assistant amélioration de l'habitat au service de l'habitat
 
 |
@@ -725,8 +639,6 @@ B
 |
 
 10 points
-
-|
 
 |
 
@@ -746,8 +658,6 @@ B
 
 |
 
-|
-
 Chargé de mission pour le logement des plus démunis
 
 |
@@ -761,8 +671,6 @@ B
 |
 
 10 points
-
-|
 
 |
 
@@ -782,7 +690,329 @@ C
 
 |
 
+Responsable du pôle politique de la ville et ingénierie du renouvellement urbain |
+
+A
+
 |
+
+1
+
+|
+
+50 points
+
+|
+
+Chargé d'études politique de la ville et renouvellement urbain au service habitat et renouvellement urbain
+
+|
+
+A
+
+|
+
+4
+
+|
+
+20 points
+
+|
+
+Responsable du pôle logement social
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Adjoint au responsable du pôle logement social
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable du pôle interventions en habitat privé |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable de la cellule éradication de l'habitat indigne |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable du pôle logement des démunis et prévention des expulsions |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable du pôle droit au logement opposable |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chargé de mission gens du voyage et résorption de l'habitat précaire |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chargé de projet mise en œuvre des conventions ANRU
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chargé de mission au pôle études et politiques urbaines au groupe d'analyse et de développement durable des territoires
+
+|
+
+A
+
+|
+
+2
+
+|
+
+20 points
+
+|
+
+Responsable du pôle planification urbaine et aménagement |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable du pôle d'information géographique et statistique des territoires |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable de la subdivision foncière opérationnelle |
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable d'équipe projet bâtiment pour l'ingénierie des projets ANRU
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Instructeur politique de la ville et renouvellement urbain au service habitat et renouvellement urbain |
+
+B
+
+|
+
+2
+
+|
+
+30 points
+
+|
+
+Instructeur financement, logement social, référent ANRU
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Instructeur financement du logement social au service habitat et renouvellement urbain |
+
+B
+
+|
+
+3
+
+|
+
+10 points
+
+|
+
+Chargé d'opération éradication de l'habitat indigne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Instructeur d'opération éradication de l'habitat indigne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Responsable de la commission départementale des aides personnalisées au logement |
+
+B
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Suivi administratif des opérations éradication de l'habitat indigne |
+
+C
+
+|
+
+1
+
+|
+
+20 points
 
 |
 
@@ -806,8 +1036,6 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-|
-
 Chef du bureau du financement locatif et de la politique de la ville
 
 |
@@ -821,8 +1049,6 @@ A
 |
 
 50 points
-
-|
 
 |
 
@@ -842,8 +1068,6 @@ A
 
 |
 
-|
-
 Chargé de la mission "politique de la ville - habitat" pour le territoire Est
 
 |
@@ -857,8 +1081,6 @@ A
 |
 
 50 points
-
-|
 
 |
 
@@ -878,8 +1100,6 @@ A
 
 |
 
-|
-
 Instructeur des dossiers "politique de la ville"
 
 |
@@ -893,8 +1113,6 @@ B
 |
 
 30 points
-
-|
 
 |
 
@@ -914,8 +1132,6 @@ B
 
 |
 
-|
-
 Adjoint au chargé de la mission "politique de la ville - habitat" pour le territoire Est
 
 |
@@ -932,8 +1148,6 @@ B
 
 |
 
-|
-
 Responsable des opérations à la subdivision aménagement et équipement territoriaux - territoire Ouest
 
 |
@@ -947,9 +1161,5 @@ B
 |
 
 30 points
-
-|
-
-|
 
 |
