@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203591
+
+- Question : [SEQ080203591](seq080203591.md) — Installation de paraboles et antennes de télévision à proximité de monuments historiques
+
+## Réponse
+
+*Écologie, JO du 2008-09-04, page 1772*
+
+Le ministre d'État, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire a pris connaissance avec intérêt de la question relative à la multiplication des paraboles et antennes de télévision dans les sites classés ou à proximité de monuments historiques, question qui relève également du ministère de la culture. En application du code de l'urbanisme, toute modification, sans changement de volume, de l'aspect extérieur d'un immeuble est soumise à déclaration préalable auprès de l'autorité compétente en matière d'urbanisme, ce qui est le cas de l'installation d'antennes paraboliques. En outre, les dispositions relatives aux espaces protégés garantissent le contrôle des conditions d'installation de ces antennes à travers notamment les dispositifs d'autorisation préalable à tous travaux (législation sur les monuments historiques) ou à toute modification de l'état des lieux (législation sur les sites classés). Le dispositif réglementaire en vigueur est donc de nature à favoriser un contrôle garantissant une prise en compte efficace des préoccupations relatives à la préservation du cadre de vie et de permettre aux autorités locales de fonder leurs décisions sur des objectifs qualitatifs en matière d'évolution des paysages. Le ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire est toutefois conscient de la nécessité d'une vigilance accrue par les services déconcentrés de l'application effective de la réglementation en la matière afin de limiter l'atteinte visuelle portée aux espaces protégés.
