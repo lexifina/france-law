@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070701059
+
+- Question : [SEQ070701059](seq070701059.md) — Économies d'électricité par la modernisation du parc d'éclairage dans l'habitat
+
+## Réponse
+
+*Écologie, JO du 2008-09-04, page 1771*
+
+Même si leur diffusion n'est pas encore à ce jour satisfaisante, la vente des ampoules basse consommation connaît une augmentation encourageante, puisqu'entre 2003 et 2006, le volume des ventes, dans le secteur résidentiel, a été multiplié par deux, passant d'après les estimations du syndicat de l'éclairage d'un marché annuel de 9 millions de lampes basse consommation à un marché de 16 millions. Les lampes sont soumises à l'étiquetage obligatoire qui compare leur efficacité sur une échelle de A à G. Cette réglementation européenne est en cours de révision. En effet, des travaux sont menés dans le cadre de la mise en ouvre de la directive sur l'écoconception des produits qui imposera de nouvelles réglementations sur les produits de l'éclairage avant la fin de cette année, notamment des seuils de performance minimum et une nouvelle échelle d'étiquetage. Les normes d'application de cette directive actuellement en cours de discussion devraient conduire à terme à faire disparaître du marché ces lampes les moins efficaces. Par ailleurs, dans le cadre du dispositif des certificats d'économies d'énergie, il convient de rappeler que la diffusion des ampoules à basse consommation dans le secteur résidentiel, ainsi que l'éclairage efficace dans le tertiaire, sont éligibles à l'attribution de certificats. Enfin, le Grenelle de l'environnement s'est penché sur des mesures nationales et le comité opérationnel en charge du sujet a préconisé la disparition des ampoules à incandescence dès 2010. Il s'agit également d'introduire la différence de coût écologique dans le prix des produits. À cet égard, le recours à un dispositif de « bonus-malus » est en particulier étudié.
