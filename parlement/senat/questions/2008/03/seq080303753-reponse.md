@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303753
+
+- Question : [SEQ080303753](seq080303753.md) — Simplification des règles de commande publique applicables aux centres communaux et intercommunaux d'action sociale
+
+## Réponse
+
+*Budget, JO du 2008-09-04, page 1769*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative à la non-application, aux centres communaux et intercommunaux d'action sociale, de certaines dispositions, simplifiant les règles de commande publique, applicables aux communes. La loi du 20 décembre 2007 relative à la simplification du droit a étendu le champ de la délégation que le conseil municipal peut accorder au maire pour la durée de son mandat. Elle y a intégré les accords-cadres de moins de 206 000 EUR HT et les avenants à ces contrats ou à des marchés inférieurs à ce plafond qui n'entraînent pas une augmentation supérieure à 5 % du montant initial. Pour l'heure, ces modifications n'ont pas été étendues aux dispositions de l'article R. 123-21 du code de l'action sociale et des familles régissant les centres communaux et intercommunaux d'action sociale (CCAS et CIAS). Par ailleurs, l'ordonnance du 6 juin 2005 a permis aux conseils municipaux, dans les cas où ils ne se sont pas dessaisis en accordant une délégation au maire, d'autoriser celui-ci, par une délibération unique, à lancer une procédure de marché et à signer ce futur contrat. Cette faculté implique toutefois que puisse être mentionnée l'étendue du besoin à satisfaire et le montant prévisionnel du marché. Elle vise ainsi le cas particulier où ces éléments sont connus à ce stade. Une erreur sur ce point pourrait en effet entacher ce marché d'illégalité. Une éventuelle extension de ces dispositifs aux CCAS et CIAS est actuellement à l'étude.
