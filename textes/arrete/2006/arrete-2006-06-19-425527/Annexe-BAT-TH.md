@@ -34,6 +34,148 @@ n° 156 du 07/07/2006 texte numéro 28
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-01-GT
+
+Chaudière de type basse température
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une chaudière de type basse température pour un système de chauffage central à combustible.
+
+3. Conditions pour la délivrance de certificats :
+
+Cette action inclut la mise en œuvre d'une régulation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+USAGE DE LA CHAUDIÈRE |
+
+ZONE
+
+climatique |
+
+MONTANT
+
+unitaire
+
+en kWh
+
+cumac/m² |
+
+X
+
+|
+
+SURFACE
+
+chauffée en m² |
+
+X
+
+|
+
+BRANCHE |
+
+FACTEUR
+
+correctif
+
+|
+
+Chauffage
+
+|
+
+H1
+
+|
+
+340
+
+|
+
+S
+
+|
+
+Bureaux
+
+|
+
+1,3 |
+
+H2 |
+
+280 |
+
+Enseignement
+
+|
+
+0,7 |
+
+H3
+
+|
+
+180
+
+|
+
+Commerces |
+
+1,1 |
+
+Chauffage et eau chaude sanitaire
+
+|
+
+H1
+
+|
+
+380
+
+|
+
+Hôtellerie-restauration |
+
+1,4 |
+
+H2
+
+|
+
+320
+
+|
+
+Santé |
+
+1,1 |
+
+H3
+
+|
+
+220
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-02
 
 Chaudière de type condensation
@@ -68,6 +210,158 @@ n° 156 du 07/07/2006 texte numéro 28
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-02-GT
+
+Chaudière de type condensation
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une chaudière de type condensation pour un système de chauffage central à combustible.
+
+3. Conditions pour la délivrance de certificats :
+
+Cette action inclut la mise en œuvre d'une régulation appropriée.
+
+Elle n'est applicable que sur des installations dont les émetteurs sont dimensionnés de sorte à permettre à la chaudière de condenser.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+USAGE DE LA CHAUDIÈRE
+
+|
+
+ZONE
+
+climatique
+
+|
+
+MONTANT
+
+unitaire
+
+kWh cumac/m²
+
+|
+
+X |
+
+SURFACE
+
+chauffée en m²
+
+|
+
+X
+
+|
+
+BRANCHE |
+
+FACTEUR
+
+correctif
+
+|
+
+Chauffage
+
+|
+
+H1 |
+
+780 |
+
+S
+
+|
+
+Bureaux |
+
+1,3 |
+
+H2 |
+
+630 |
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+430
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Chauffage et eau chaude sanitaire
+
+|
+
+H1
+
+|
+
+830
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+H2
+
+|
+
+720
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+H3
+
+|
+
+510
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-03
 
 Plancher chauffant à eau basse température
@@ -93,6 +387,112 @@ Mise en place réalisée par un professionnel.
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-03-GT
+
+Plancher chauffant à eau basse température
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un plancher chauffant à eau basse température pour un système de chauffage central à combustible.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+X |
+
+SURFACE
+
+chauffée en m² |
+
+X |
+
+BRANCHE |
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+120
+
+|
+
+S |
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+100
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+70
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
 
 Certificats d'économies d'énergie
 
@@ -230,6 +630,114 @@ S = surface chauffée par les radiateurs équipés de robinet thermostatique.
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-04-GT
+
+Robinet thermostatique sur radiateurs existants
+
+appartenant à un système de chauffage central à combustible dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un robinet thermostatique sur des radiateurs existants, appartenant à un système de chauffage central à combustible.
+
+Pour des actions engagées avant le 1er janvier 2008, les radiateurs pourront être neufs.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+12 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+X |
+
+SURFACE
+
+chauffée en m² |
+
+X |
+
+BRANCHE |
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+40
+
+|
+
+S |
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+30
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+20
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-05
 
 Radiateur à chaleur douce pour un chauffage central à combustible
@@ -257,6 +765,114 @@ Mise en place réalisée par un professionnel.
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n°BAT-TH-05-GT
+
+Radiateur à chaleur douce pour un chauffage central
+
+à combustible dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un radiateur à chaleur douce pour un système de chauffage central à combustible.
+
+3. Conditions pour la délivrance de certificats :
+
+Radiateurs dimensionnés à DTnom (delta de température nominale) ≤ 40 K.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+25 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+X |
+
+SURFACE
+
+chauffée en m² |
+
+X |
+
+BRANCHE |
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+80
+
+|
+
+S |
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+70
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+50
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
 
 Certificats d'économies d'énergie
 
@@ -482,6 +1098,114 @@ Santé |
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-08-GT
+
+Programmateur d'intermittence sur une chaudière existante
+
+pour un chauffage central à combustible dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un programmateur d'intermittence à heures fixes sur une chaudière existante pour un système de chauffage central à combustible.
+
+Pour des actions engagées avant le 1er janvier 2008, la chaudière pourra être neuve.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+X |
+
+SURFACE
+
+chauffée en m² |
+
+X |
+
+BRANCHE |
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+80
+
+|
+
+S |
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+90
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+60
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-09
 
 Optimiseur de relance pour un chauffage central à combustible
@@ -510,6 +1234,112 @@ n° 156 du 07/07/2006 texte numéro 28
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-09-GT
+
+Optimiseur de relance pour un chauffage central
+
+à combustible dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un optimiseur de relance équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage central à combustible.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+X |
+
+SURFACE
+
+chauffée en m² |
+
+X |
+
+BRANCHE |
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+150
+
+|
+
+S |
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+130
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+80
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-10
 
 Récupérateur de chaleur à condensation
@@ -535,6 +1365,160 @@ Mise en place réalisée par un professionnel.
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-10-GT
+
+Récupérateur de chaleur à condensation
+
+dans bâtiment de grande taille
+
+Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un récupérateur de chaleur à condensation pour un système de chauffage central à combustible de puissance supérieure ou égale à 30 kW.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+USAGE DE LA CHAUDIÈRE
+
+|
+
+ZONE
+
+climatique
+
+|
+
+MONTANT
+
+kWh cumac/m²
+
+|
+
+X
+
+|
+
+SURFACE
+
+chauffée en m²
+
+|
+
+X
+
+|
+
+BRANCHE
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Chauffage
+
+|
+
+H1 |
+
+150 |
+
+S
+
+|
+
+Bureaux |
+
+1,3 |
+
+H2
+
+|
+
+130
+
+|
+
+Enseignement |
+
+0,7 |
+
+H3
+
+|
+
+80
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Chauffage et eau chaude sanitaire
+
+|
+
+H1
+
+|
+
+170
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+H2
+
+|
+
+140
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+H3
+
+|
+
+100
+
+|
 
 Certificats d'économies d'énergie
 
@@ -824,6 +1808,224 @@ Santé
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-13-GT
+
+Pompe à chaleur de type eau/eau
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une pompe à chaleur (PAC) de type eau/eau sur un système de chauffage électrique direct.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient de performance (COP) mesuré selon la norme EN 14511 pour une température d'évaporation correspondant au point nominal de la norme et une température de sortie d'eau de 35 °C égal ou supérieur à 3,3.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
+|
+
+X
+
+|
+
+SURFACE
+
+chauffée
+
+(en m²)
+
+|
+
+X
+
+|
+
+ZONE
+
+climatique
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Branche d'activité
+
+|
+
+3 ≤COP < 3,3
+
+(uniquement
+
+pour des actions
+
+engagées avant
+
+le 1er janvier 2008)
+
+|
+
+3,3 ≤ COP < 3,5
+
+|
+
+3,5 ≤ COP < 4
+
+|
+
+4 ≤ COP
+
+|
+
+S
+
+|
+
+H1
+
+|
+
+1,1
+
+|
+
+Bureaux
+
+|
+
+850
+
+|
+
+890
+
+|
+
+910
+
+|
+
+960
+
+|
+
+H2
+
+|
+
+0,9
+
+|
+
+Enseignement
+
+|
+
+590
+
+|
+
+610
+
+|
+
+630
+
+|
+
+660
+
+|
+
+H3
+
+|
+
+0,6
+
+|
+
+Commerces
+
+|
+
+620
+
+|
+
+650
+
+|
+
+670
+
+|
+
+700
+
+|
+
+Hôtellerie-restauration
+
+|
+
+560
+
+|
+
+580
+
+|
+
+600
+
+|
+
+630
+
+|
+
+Santé
+
+|
+
+900
+
+|
+
+940
+
+|
+
+970
+
+|
+
+1 010
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-14
 
 Pompe à chaleur de type air/eau
@@ -1066,6 +2268,224 @@ Santé
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-14-GT
+
+Pompe à chaleur de type air/eau
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une pompe à chaleur (PAC) de type air/eau pour un système de chauffage électrique direct.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient de performance (COP) mesuré selon la norme EN 14511 pour une température extérieure de + 7 °C et une température de sortie d'eau de 35 °C égal ou supérieur à 3,3.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
+|
+
+X
+
+|
+
+SURFACE
+
+chauffée
+
+(en m²)
+
+|
+
+X
+
+|
+
+ZONE
+
+climatique
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Branche d'activité
+
+|
+
+3 ≤COP < 3,3
+
+(uniquement
+
+pour des actions
+
+engagées avant
+
+le 1er janvier 2008)
+
+|
+
+3,3 ≤ COP < 3,5
+
+|
+
+3,5 ≤ COP < 4
+
+|
+
+4 ≤ COP
+
+|
+
+S
+
+|
+
+H1
+
+|
+
+1,1
+
+|
+
+Bureaux
+
+|
+
+810
+
+|
+
+840
+
+|
+
+870
+
+|
+
+910
+
+|
+
+H2
+
+|
+
+0,9
+
+|
+
+Enseignement
+
+|
+
+560
+
+|
+
+580
+
+|
+
+600
+
+|
+
+630
+
+|
+
+H3
+
+|
+
+0,6
+
+|
+
+Commerces
+
+|
+
+590
+
+|
+
+620
+
+|
+
+640
+
+|
+
+670
+
+|
+
+Hôtellerie-restauration
+
+|
+
+530
+
+|
+
+550
+
+|
+
+570
+
+|
+
+600
+
+|
+
+Santé
+
+|
+
+860
+
+|
+
+890
+
+|
+
+920
+
+|
+
+960
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-15
 
 Climatiseur de classe A (DOM)
@@ -1135,6 +2555,142 @@ Mise en place réalisée par un professionnel.
 Vous pouvez consulter le tableau dans le JO
 
 n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-16-GT
+
+Système de gestion technique du bâtiment
+
+pour un chauffage électrique dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'un système de gestion technique du bâtiment (GTB) sur un système de chauffage électrique, assurant :
+
+― la programmation journalière et hebdomadaire ou annuelle, par zone, de la fourniture de chaleur selon les quatre allures suivantes : confort, réduit, hors-gel et arrêt ;
+
+― la limitation d'énergie (en fonction de la température extérieure ou par asservissement sur ouverture de fenêtre) ;
+
+― l'optimisation (anticipation) de la relance de chauffage ;
+
+― la possibilité de télésuivi/télégestion.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+12 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+Branche d'activité
+
+|
+
+Zone climatique |
+
+H1
+
+|
+
+H2
+
+|
+
+H3
+
+|
+
+Bureaux
+
+|
+
+190
+
+|
+
+150
+
+|
+
+100
+
+|
+
+Enseignement
+
+|
+
+130
+
+|
+
+110
+
+|
+
+70
+
+|
+
+Commerces
+
+|
+
+140
+
+|
+
+110
+
+|
+
+70
+
+|
+
+Hôtellerie-restauration
+
+|
+
+120
+
+|
+
+100
+
+|
+
+70
+
+|
+
+Santé
+
+|
+
+200
+
+|
+
+160
+
+|
+
+110
+
+|
 
 Certificats d'économie d'énergie
 
@@ -1268,6 +2824,132 @@ Santé
 
 |
 
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-17-GT
+
+Programmateur d'intermittence pour un chauffage électrique
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place sur un système de chauffage électrique d'un programmateur d'intermittence à heures fixes assurant une programmation journalière et hebdomadaire de la fourniture de chaleur selon les quatre allures suivantes : confort, réduit, hors-gel et arrêt.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en kWh cumac/m² |
+
+Branche d'activité |
+
+Zone climatique |
+
+H1
+
+|
+
+H2
+
+|
+
+H3
+
+|
+
+Bureaux
+
+|
+
+170
+
+|
+
+140
+
+|
+
+90
+
+|
+
+Enseignement
+
+|
+
+120
+
+|
+
+100
+
+|
+
+60
+
+|
+
+Commerces
+
+|
+
+120
+
+|
+
+100
+
+|
+
+70
+
+|
+
+Hôtellerie-restauration
+
+|
+
+110
+
+|
+
+90
+
+|
+
+60
+
+|
+
+Santé
+
+|
+
+180
+
+|
+
+150
+
+|
+
+100
+
+|
+
 Certificats d'économie d'énergie
 
 Opération n° BAT-TH-18
@@ -1364,17 +3046,17 @@ par un climatiseur fixe de classe A
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
 
 2. Dénomination :
 
 Remplacement d'un climatiseur existant par un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs à 50 kW froid.
 
-3. Conditions particulières à l'obtention de certificats :
+3. Conditions pour la délivrance de certificats :
 
 L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-Une attestation de dépose de l'ancien climatiseur doit être fournie par l'installateur
+Une attestation de dépose de l'ancien climatiseur doit être fournie par l'installateur.
 
 Pose effectuée par un professionnel (calorifugeage, unités extérieures, récupération des fluides de l'ancienne unité...).
 
@@ -1394,15 +3076,19 @@ BRANCHE D'ACTIVITÉ
 
 MONTANT
 
-(en kWh cumac/m²)
+en kWh cumac
 
 |
+
+X
 
 |
 
 PUISSANCE EN kW
 
 |
+
+X
 
 |
 
@@ -1422,15 +3108,7 @@ Bureaux
 
 |
 
-X
-
-|
-
 P
-
-|
-
-X
 
 |
 
@@ -1728,6 +3406,144 @@ autres locaux (sport compris)
 
 Certificats d'économies d'énergie
 
+Opération n° BAT-TH-23-GT
+
+Ventilation mécanique modulée proportionnelle
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique modulée proportionnelle (simple flux ou double flux).
+
+Le système proportionnel asservit le débit de ventilation en fonction du nombre d'occupants réel du local.
+
+3. Conditions pour la délivrance de certificats :
+
+Les systèmes de ventilation doivent bénéficier d'un avis technique (Atec) en cours de validité ou avoir des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
+|
+
+X
+
+|
+
+TYPE DE LOCAUX
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Zone climatique |
+
+Energie de chauffage
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+2 100
+
+|
+
+2 800
+
+|
+
+Cinémas
+
+|
+
+1
+
+|
+
+H2
+
+|
+
+1 700
+
+|
+
+2 300
+
+|
+
+Salles de volume
+
+supérieur à 250 m³
+
+|
+
+0,6
+
+|
+
+H3
+
+|
+
+1 200
+
+|
+
+1 500
+
+|
+
+Enseignement
+
+|
+
+0,3
+
+|
+
+|
+
+Bureaux, restauration,
+
+autres locaux (sport compris)
+
+|
+
+0,2
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° BAT-TH-24
 
 Ventilation mécanique modulée
@@ -1874,23 +3690,23 @@ autres locaux (sport compris)
 
 Certificats d'économies d'énergie
 
-Opération n° BAT-TH-25
+Opération n° BAT-TH-24-GT
 
-Ventilation mécanique contrôlée
+Ventilation mécanique modulée à détection
 
-simple flux autoréglable
+de présence dans bâtiment de grande taille
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
 
 2. Dénomination :
 
-Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+Mise en place d'une ventilation mécanique modulée à détection de présence (simple flux ou double flux).
 
 3. Conditions pour la délivrance de certificats :
 
-Les systèmes de ventilation doivent bénéficier d'un avis technique en cours de validité conformément aux exigences de la certification CSTBat encadrée par le règlement thermique RT 035/00 ou avoir des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les systèmes de ventilation doivent bénéficier d'un avis technique (Atec) en cours de validité ou avoir des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
 Mise en place réalisée par un professionnel.
 
@@ -1902,17 +3718,27 @@ Mise en place réalisée par un professionnel.
 
 MONTANT
 
-(en kWh cumac/m²)
+en kWh cumac/m²
 
 |
 
-Zone climatique
+X
 
 |
+
+TYPE DE LOCAUX
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Zone climatique |
 
 Energie de chauffage
-
-|
 
 |
 
@@ -1923,6 +3749,114 @@ Electricité
 Combustible
 
 |
+
+H1
+
+|
+
+1 500
+
+|
+
+2 000
+
+|
+
+Cinémas
+
+|
+
+1
+
+|
+
+H2
+
+|
+
+1 200
+
+|
+
+1 700
+
+|
+
+Salles de volume
+
+supérieur à 250 m³
+
+|
+
+0,6
+
+|
+
+H3
+
+|
+
+800
+
+|
+
+1 100
+
+|
+
+Enseignement
+
+|
+
+0,3
+
+|
+
+|
+
+Bureaux, restauration,
+
+autres locaux (sport compris)
+
+|
+
+0,2
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-25
+
+Ventilation mécanique contrôlée
+
+simple flux autoréglable
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
+|
+
+X
 
 |
 
@@ -1936,6 +3870,20 @@ correctif
 
 |
 
+Zone climatique |
+
+Energie de chauffage
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
 H1
 
 |
@@ -1945,10 +3893,6 @@ H1
 |
 
 510
-
-|
-
-X
 
 |
 
@@ -2004,10 +3948,6 @@ Restauration, autres locaux
 
 |
 
-|
-
-|
-
 Bureaux
 
 |
@@ -2016,15 +3956,143 @@ Bureaux
 
 |
 
+Locaux sportifs |
+
+0,2 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-25-GT
+
+Ventilation mécanique contrôlée
+
+simple flux autoréglable dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
 |
+
+X
+
+|
+
+SECTEUR
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Zone climatique |
+
+Energie de chauffage
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+240
+
+|
+
+350
+
+|
+
+Enseignement
+
+|
+
+1
+
+|
+
+H2
+
+|
+
+190
+
+|
+
+290
+
+|
+
+Salles d'un volume
+
+supérieur à 250 m³
+
+|
+
+0,6
+
+|
+
+H3
+
+|
+
+130
+
+|
+
+190
+
+|
+
+Restauration, autres locaux
+
+|
+
+0,6
 
 |
 
 |
 
-Locaux sportifs
+Bureaux
 
 |
+
+0,5
+
+|
+
+Locaux sportifs |
 
 0,2 |
 
@@ -2189,6 +4257,142 @@ Restauration
 Bureaux, autres locaux
 
 (sport compris)
+
+|
+
+0,2
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-26-GT
+
+Ventilation mécanique contrôlée double flux
+
+avec échangeur dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée double flux avec échangeur.
+
+3. Conditions pour la délivrance de certificats :
+
+Une attestation indiquant une efficacité d'échange de 65 % (calcul selon la norme NF EN 51763) et une consommation maxi par ventilateur (filtres et échangeurs inclus) de 0,35 W/(m³/h) est fournie par l'installateur.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac/m²
+
+|
+
+X
+
+|
+
+SECTEUR
+
+|
+
+FACTEUR
+
+correctif
+
+|
+
+Zone climatique |
+
+Energie de chauffage
+
+|
+
+Electricité
+
+|
+
+Combustible
+
+|
+
+H1
+
+|
+
+1 100
+
+|
+
+1 900
+
+|
+
+Cinémas
+
+|
+
+1
+
+|
+
+H2
+
+|
+
+900
+
+|
+
+1 600
+
+|
+
+Salles d'un volume
+
+supérieur à 250 m³
+
+|
+
+0,7
+
+|
+
+H3
+
+|
+
+600
+
+|
+
+1 000
+
+|
+
+Enseignement
+
+|
+
+0,3
+
+|
+
+|
+
+Restauration, bureaux,
+
+autres locaux (sport compris)
 
 |
 
@@ -2563,3 +4767,287 @@ Santé
 |
 
 TCB = Production thermique nette valorisée pour le chauffage/besoins thermiques de chauffage du bâtiment.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-28-GT
+
+Mini-cogénération sans obligation d'achat
+
+dans bâtiment de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une mini-cogénération collective de puissance électrique comprise entre 36 kVA et 250 kVA sans obligation d'achat selon les critères de l'arrêté du 3 juillet 2001.
+
+3. Conditions pour la délivrance de certificats :
+
+Installation, dimensionnement et évaluation du taux de couverture des besoins (TCB) réalisés par un professionnel.
+
+Critères de performances : cogénération à haut rendement avec attestation de garantie d'origine pour les installations supérieures à 36 kVA au sens du décret n° 2006-1118 du 5 septembre 2006 relatif aux garanties d'origine de l'électricité produite à partir de sources d'énergie renouvelables ou par cogénération.
+
+4. Durée de vie conventionnelle :
+
+21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+BÂTIMENT
+
+tertiaire
+
+|
+
+ZONE
+
+climatique
+
+|
+
+kWh cumac/m² |
+
+X
+
+|
+
+SURFACE
+
+chauffée en m² |
+
+X
+
+|
+
+BRANCHE |
+
+FACTEUR
+
+correctif
+
+|
+
+X
+
+|
+
+TCB
+
+|
+
+Moteurs
+
+|
+
+H1
+
+|
+
+420
+
+|
+
+S
+
+|
+
+Bureaux
+
+|
+
+1,3
+
+|
+
+H2
+
+|
+
+340
+
+|
+
+Enseignement
+
+|
+
+0,7
+
+|
+
+H3
+
+|
+
+230
+
+|
+
+Commerces
+
+|
+
+1,1
+
+|
+
+Microturbines
+
+|
+
+H1
+
+|
+
+370
+
+|
+
+Hôtellerie-restauration
+
+|
+
+1,4
+
+|
+
+H2
+
+|
+
+300
+
+|
+
+Santé
+
+|
+
+1,1
+
+|
+
+H3
+
+|
+
+200
+
+|
+
+|
+
+|
+
+TCB = Production thermique nette valorisée pour le chauffage/besoins thermiques de chauffage du bâtiment.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-29
+
+Circulateur à rotor noyé de classe A
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure ou égale à 10 000 m².
+
+2. Dénomination :
+
+Installation d'un circulateur à rotor noyé de classe A dans un système collectif de chauffage ou de conditionnement d'ambiance.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+ZONE CLIMATIQUE
+
+|
+
+MONTANT UNITAIRE
+
+en kWh cumac/kW
+
+|
+
+X
+
+|
+
+PUISSANCE DU MOTEUR EN kW
+
+|
+
+H1
+
+|
+
+21 000
+
+|
+
+P
+
+|
+
+H2
+
+|
+
+20 000
+
+|
+
+H3
+
+|
+
+17 000
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-30
+
+Récupération de chaleur sur groupe de production de froid
+
+pour le préchauffage d'eau chaude sanitaire (DOM)
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique réservés à une utilisation professionnelle, d'une surface totale chauffée inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Mise en place sur un groupe froid d'un condenseur ou d'un désurchauffeur associé à un échangeur thermique afin de préchauffer de l'eau chaude sanitaire (ECS).
+
+3. Conditions pour la délivrance de certificats :
+
+La puissance du condenseur (P condenseur en kW) ou du désurchauffeur (P désurchauffeur en kW) ainsi que le volume moyen d'ECS consommé par jour (VECS en m³/jour) établis par l'étude thermique préalable doivent être fournis.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+9 ans.
+
+5. Montant de certificats en kWh cumac :
+
+― cas d'une récupération sur condenseur :
+
+2 820* Min [P condenseur × 7,5 ; 23,2 × VECS]
+
+― cas d'une récupération sur désurchauffeur :
+
+2 820* Min [P désurchauffeur × 11,25 ; 34,8 × VECS]
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.

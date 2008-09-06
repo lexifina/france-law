@@ -114,13 +114,13 @@ Vous pouvez consulter le tableau dans le JO
 
 n° 303 du 31/12/2006 texte numéro 60
 
-Certificats d'économie d'énergie
+Certificats d'économies d'énergie
 
 Opération n° IND-UT-05
 
-Brûleur haut rendement micromodulant
+Brûleur haut rendement micromodulant sur chaudière
 
-sur chaudière de production de vapeur et d'eau surchauffée
+de production de vapeur ou d'eau surchauffée
 
 1. Secteur d'application :
 
@@ -133,6 +133,8 @@ Installation d'un brûleur haut rendement, micromodulant, avec une plage de modu
 3. Conditions pour la délivrance de certificats :
 
 La puissance nominale de la chaudière doit être comprise entre 2 et 20 MW.
+
+L'installation doit comporter une régulation par mesure d'oxygène dans les fumées.
 
 4. Durée de vie conventionnelle :
 
@@ -148,6 +150,18 @@ MODE DE FONCTIONNEMENT DU SITE
 
 |
 
+|
+
+|
+
+X
+
+|
+
+Pn
+
+|
+
 1 × 8
 
 |
@@ -156,13 +170,11 @@ MODE DE FONCTIONNEMENT DU SITE
 
 |
 
-3 × 8, arrêt WE
+3 × 8 arrêt week-end
 
 |
 
-3 × 8, sans arrêt WE
-
-|
+3 × 8 sans arrêt week-end
 
 |
 
@@ -186,9 +198,7 @@ Montant kWh cumac
 
 |
 
-X Pn |
-
-Avec Pn = puissance nominale de la chaudière, exprimée en kW.
+Avec Pn = Puissance nominale de la chaudière, exprimée en kW.
 
 Certificats d'économies d'énergie
 
@@ -220,7 +230,7 @@ Réalisation par un opérateur participant au réseau national coordonné par la
 
 Certificats d'économies d'énergie
 
-Opération n° IND-UT-07
+Opération n°IND-UT-07
 
 Ordinateur climatique avec module
 
@@ -228,15 +238,15 @@ d'intégration de température
 
 1. Secteur d'application :
 
-Agriculture : serres maraîchères.
+Agriculture : serres maraîchères et horticoles.
 
 2. Dénomination :
 
-Mise en place d'un ordinateur climatique accompagné d'un module d'intégration de température pour la gestion des cultures des serres.
+Mise en place d'un ordinateur climatique accompagné d'un module d'intégration de température pour la gestion des cultures des serres maraîchères et horticoles.
 
 3. Conditions pour la délivrance de certificats :
 
-Mise en place réalisée par un professionnel.
+Installation réalisée par un professionnel.
 
 4. Durée de vie conventionnelle :
 
@@ -244,11 +254,29 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-Montant de kWh cumac par m² de serre chauffé.
+ACTIVITÉ
+
+|
+
+MONTANT EN kWh cumac/m²
+
+de serre chauffée
+
+|
+
+Serres maraîchères
 
 |
 
 140
+
+|
+
+Serres horticoles
+
+|
+
+71
 
 |
 
@@ -505,5 +533,381 @@ Récupération sur réfrigérant d'air
 |
 
 18 400
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-10
+
+Transformateur à haut rendement pour l'alimentation
+
+basse tension d'un site industriel
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un transformateur de distribution privé, à haut rendement (faibles pertes), de type immergé dans l'huile d'une puissance comprise entre 250 et 2 500 kVA et de tension primaire inférieure à 24 kV, pour l'alimentation basse tension d'un site industriel.
+
+3. Conditions pour la délivrance de certificats :
+
+La fiche technique du transformateur indiquant les niveaux de pertes à vide (C0, B0, A0) et de pertes en charge (Bk, Ak), calculés suivant la norme NF EN 50464-1, doit être fournie.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+PERTES À VIDE
+
+|
+
++
+
+|
+
+PERTES EN CHARGE |
+
+X
+
+|
+
+MODE
+
+de fonctionnement
+
+du site |
+
+COEFFICIENT
+
+de pertes
+
+en charge
+
+|
+
+kVA
+
+|
+
+C0
+
+|
+
+B0
+
+|
+
+A0
+
+|
+
+Bk
+
+|
+
+Ak
+
+|
+
+1 × 8
+
+|
+
+0,2
+
+|
+
+250
+
+|
+
+27 900
+
+|
+
+35 900
+
+|
+
+43 300
+
+|
+
+61 900
+
+|
+
+111 400
+
+|
+
+2 × 8
+
+|
+
+0,4
+
+|
+
+315
+
+|
+
+31 000
+
+|
+
+40 900
+
+|
+
+50 800
+
+|
+
+80 500
+
+|
+
+136 200
+
+|
+
+3 × 8 avec arrêt le WE
+
+|
+
+0,5
+
+|
+
+400
+
+|
+
+39 600
+
+|
+
+50 800
+
+|
+
+61 900
+
+|
+
+92 900
+
+|
+
+167 100
+
+|
+
+3 × 8 sans arrêt le WE
+
+|
+
+0,6
+
+|
+
+500
+
+|
+
+47 000
+
+|
+
+60 700
+
+|
+
+73 000
+
+|
+
+111 400
+
+|
+
+198 100
+
+|
+
+|
+
+630
+
+|
+
+54 500
+
+|
+
+70 600
+
+|
+
+86 700
+
+|
+
+136 200
+
+|
+
+235 200
+
+|
+
+800
+
+|
+
+27 200
+
+|
+
+43 300
+
+|
+
+61 900
+
+|
+
+433 300
+
+|
+
+557 200
+
+|
+
+1 000
+
+|
+
+37 100
+
+|
+
+57 000
+
+|
+
+78 000
+
+|
+
+495 300
+
+|
+
+668 600
+
+|
+
+1 250
+
+|
+
+49 500
+
+|
+
+74 300
+
+|
+
+99 100
+
+|
+
+619 100
+
+|
+
+804 800
+
+|
+
+1 600
+
+|
+
+61 900
+
+|
+
+92 900
+
+|
+
+123 800
+
+|
+
+742 900
+
+|
+
+990 500
+
+|
+
+2 000
+
+|
+
+74 300
+
+|
+
+111 400
+
+|
+
+154 800
+
+|
+
+990 500
+
+|
+
+1 361 900
+
+|
+
+2 500
+
+|
+
+86 700
+
+|
+
+130 000
+
+|
+
+179 500
+
+|
+
+1 238 100
+
+|
+
+1 671 500
 
 |

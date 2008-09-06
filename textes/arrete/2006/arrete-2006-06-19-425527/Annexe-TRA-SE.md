@@ -67,3 +67,51 @@ Les sessions de rappel doivent comporter la partie pratique, mais leur partie th
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-03
+
+Covoiturage domicile/travail
+
+1. Secteur d'application :
+
+Transport.
+
+2. Dénomination :
+
+Utilisation partagée d'une voiture pour des trajets domicile-travail appelée covoiturage domicile/travail.
+
+3. Conditions pour la délivrance de certificats :
+
+Le demandeur doit présenter une note décrivant l'organisation mise en place pour le système de covoiturage et indiquant le nombre moyen N d'utilisateurs du covoiturage, calculé sur la base de la réalisation de l'opération sur 12 mois.
+
+4. Durée de vie conventionnelle :
+
+1 an.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT
+
+en kWh cumac
+
+|
+
+X
+
+|
+
+NOMBRE MOYEN
+
+D'UTILISATEURS
+
+|
+
+400
+
+|
+
+N
+
+|

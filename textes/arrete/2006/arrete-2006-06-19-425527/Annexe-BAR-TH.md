@@ -1748,7 +1748,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-09-SE
 
-Chaudière collective de type basse température avec contrat assurant le maintien du rendement énergétique de la chaudière
+Chaudière collective de type basse température
+
+avec contrat assurant le maintien du rendement énergétique de la chaudière
 
 1. Secteur d'application :
 
@@ -1764,19 +1766,17 @@ Les locaux professionnels au sein d'immeubles collectifs existants sont assimil�
 
 Pour la chaudière :
 
-― l'action inclut la mise en uvre d'une régulation ;
+L'action inclut la mise en œuvre d'une régulation.
 
-― elle n'est applicable que sur des installations dont les émetteurs sont dimensionnés de sorte à permettre à la chaudière de condenser ;
+Mise en place réalisée par un professionnel.
 
-― mise en place réalisée par un professionnel ;
-
-― informations à fournir impérativement : ancienneté du bâtiment collectif (avant ou après 1975).
+Informations à fournir impérativement : ancienneté du bâtiment collectif (avant ou après 75).
 
 Pour le contrat :
 
-― le contrat doit être établi avec un professionnel ayant une qualification Qualibat 553 et 554 ou tout dispositif présentant des spécifications techniques équivalentes ;
+Le contrat doit être établi avec un professionnel ayant une qualification Qualibat 553 et 554 ou tout dispositif présentant des spécifications techniques équivalentes.
 
-― le contrat doit comporter une clause par laquelle le prestataire s'engage, dans le cadre des certificats d'économies d'énergie, à maintenir le rendement énergétique de l'appareil installé. Le rendement à maintenir sera défini à partir d'une mesure après installation de l'appareil. Le rendement devra être, par la suite, mesuré au moins une fois par an.
+Le contrat doit comporter une clause par laquelle le prestataire s'engage, dans le cadre des certificats d'économies d'énergie, à maintenir le rendement énergétique de l'appareil installé. Le rendement à maintenir sera défini à partir d'une mesure après installation de l'appareil. Le rendement devra être par la suite mesuré au moins une fois par an.
 
 4. Durée de vie conventionnelle :
 
@@ -1798,11 +1798,13 @@ ZONE CLIMATIQUE
 
 MONTANT
 
-(en kWh cumac
+en kWh cumac
 
-pour un appartement)
+pour un appartement
 
 |
+
+X
 
 |
 
@@ -1839,10 +1841,6 @@ H1
 |
 
 41 000
-
-|
-
-X
 
 |
 
@@ -1968,7 +1966,9 @@ Pour le contrat :
 
 Le montant de kWh cumac attribué à la chaudière sur la base du tableau précédent est augmenté en appliquant un facteur correctif suivant la grille ci-dessous :
 
-DURÉE DU CONTRAT
+DURÉE
+
+du contrat
 
 |
 
@@ -2034,7 +2034,9 @@ correctif
 
 |
 
-8 ans |
+8 ans
+
+|
 
 1,24
 
@@ -4564,19 +4566,21 @@ Ventilation naturelle hygroréglable
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiment résidentiel : maison individuelle et appartement existants.
 
 2. Dénomination :
 
-Mise en place ou remplacement d'une ventilation naturelle hygroréglable dans un logement avec chauffage à combustible.
+Mise en place d'une ventilation naturelle hygroréglable dans un logement avec chauffage à combustible ou électrique.
 
 3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel qui s'assurera que l'étanchéité du bâtiment atteint un niveau de performance compatible avec les performances de la ventilation naturelle hygroréglable.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+Information à fournir impérativement : ancienneté du bâtiment (avant ou après 75).
 
-4. Durée de vie conventionnelle : 16 ans.
+4. Durée de vie conventionnelle :
+
+16 ans.
 
 5. Montant de certificats en kWh cumac :
 
@@ -4609,6 +4613,8 @@ CHAUFFAGE
 électrique
 
 |
+
+X
 
 |
 
@@ -4652,10 +4658,6 @@ H1
 
 |
 
-X
-
-|
-
 0,6
 
 |
@@ -4680,18 +4682,6 @@ X
 
 |
 
-1
-
-|
-
-61 ― 80
-
-|
-
-3
-
-|
-
 H2
 
 |
@@ -4705,6 +4695,18 @@ H2
 |
 
 3 200
+
+|
+
+1
+
+|
+
+61 ― 80
+
+|
+
+3
 
 |
 
@@ -4756,19 +4758,13 @@ H3
 
 |
 
-≥ 6
+6 et +
 
 |
 
 MAISON
 
-individuelle
-
-Zone
-
-climatique
-
-|
+individuelle |
 
 APPAREIL
 
@@ -4791,6 +4787,8 @@ CHAUFFAGE
 électrique
 
 |
+
+X
 
 |
 
@@ -4818,6 +4816,10 @@ principales
 
 |
 
+Zone
+
+climatique |
+
 H1
 
 |
@@ -4831,10 +4833,6 @@ H1
 |
 
 8 500
-
-|
-
-X
 
 |
 
@@ -4930,7 +4928,7 @@ H3
 
 |
 
-1.4
+1,4
 
 |
 
@@ -4938,7 +4936,7 @@ H3
 
 |
 
-≥ 6
+6 et +
 
 |
 
@@ -5713,3 +5711,129 @@ H3
 TCB = Production thermique nette valorisée pour le chauffage/besoins thermiques de chauffage du bâtiment.
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-39
+
+Pompe équipée d'un système
+
+de variation électronique de vitesse
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : appartements existants.
+
+2. Dénomination :
+
+Installation d'une pompe équipée d'un système de variation électronique de vitesse, de puissance comprise entre 0,37 kW et 630 kW, dans un système collectif de chauffage, de conditionnement d'ambiance ou de surpression d'eau.
+
+Les circulateurs à rotor noyé avec variation de vitesse embarquée sont exclus.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+APPLICATION
+
+|
+
+MONTANT UNITAIRE
+
+en kWh cumac |
+
+X |
+
+PUISSANCE DU MOTEUR
+
+de la pompe en kW
+
+|
+
+Chauffage, conditionnement d'ambiance, surpression d'eau
+
+|
+
+21 000
+
+|
+
+|
+
+P |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-40
+
+Circulateur à rotor noyé de classe A
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : appartements existants.
+
+2. Dénomination :
+
+Installation d'un circulateur à rotor noyé de classe A dans un système collectif de chauffage ou de conditionnement d'ambiance.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+ZONE CLIMATIQUE
+
+|
+
+MONTANT UNITAIRE
+
+en kWh cumac
+
+|
+
+X
+
+|
+
+PUISSANCE DU MOTEUR EN kW
+
+|
+
+H1
+
+|
+
+27 000
+
+|
+
+P
+
+|
+
+H2
+
+|
+
+25 000
+
+|
+
+H3
+
+|
+
+21 000
+
+|

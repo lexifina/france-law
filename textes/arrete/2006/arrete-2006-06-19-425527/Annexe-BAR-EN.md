@@ -817,3 +817,39 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 400 kWh cumac/m² d'isolant posé
 
 En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-EN-07
+
+Isolation des murs (DOM)
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants ou neufs en l'absence de réglementation thermique, dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Mise en place sur les murs d'une isolation thermique de résistance thermique R ≥ 1,2 m².K/W.
+
+3. Conditions pour la délivrance de certificats :
+
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+25 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montant unitaire en kWh cumac/m² d'isolant.
+
+|
+
+290
+
+|
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.

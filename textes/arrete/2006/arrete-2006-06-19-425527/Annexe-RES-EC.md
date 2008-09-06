@@ -130,15 +130,13 @@ Installation d'un luminaire d'éclairage extérieur.
 
 3. Conditions pour la délivrance de certificats :
 
-Est éligible à cette action tout luminaire qui respecte les quatre exigences suivantes :
+Est éligible à cette action tout luminaire qui respecte les trois exigences suivantes :
 
-- ensemble optique fermé d'un indice de protection (IP) de 55 minimum ;
+― ensemble optique fermé d'un indice de protection (IP) de 55 minimum ;
 
-- optique conçue pour une lampe tubulaire claire ;
+― éfficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation ≥ 70 lumens par watt ;
 
-- efficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation 80 lumens par watt ;
-
-- valeur du pourcentage de flux de lampe sortant du luminaire installé, directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) 3 % en éclairage fonctionnel et < 20 % en éclairage d'ambiance.
+― valeur du pourcentage de flux de lampe sortant du luminaire installé, directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) ≤ 3 % en éclairage fonctionnel et < 20 % en éclairage d'ambiance.
 
 4. Durée de vie conventionnelle :
 
@@ -146,4 +144,4 @@ Est éligible à cette action tout luminaire qui respecte les quatre exigences s
 
 5. Montant de certificats en kWh cumac :
 
-6 400 kWh cumac
+6 400 kWh cumac/luminaire
