@@ -1,14 +1,14 @@
 # Article Annexe B
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
+FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
 
-1° Chef de service régional ou interrégional et adjoint : directeur zonal de la surveillance du territoire ; directeur zonal des compagnies républicaines de sécurité (CRS) ; directeur régional des renseignements généraux ; directeur interrégional de la police judiciaire (DIPJ) ; directeur de service régional de la police judiciaire ; directeur régional de la police judiciaire ; directeur interrégional de la police aux frontières (PAF) ; chef de la délégation régionale de discipline (IGPN)
+1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal du renseignement intérieur ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur départemental du renseignement intérieur ; chef de la délégation régionale de discipline (IGPN)
 
 DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNATION
+DÉSIGNATION
 
 des villes
 
@@ -21,8 +21,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -138,7 +136,7 @@ Metz
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Nord.
 
 |
 
@@ -150,11 +148,11 @@ Lille
 
 |
 
-80
+70
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Ouest.
 
 |
 
@@ -166,11 +164,11 @@ Rennes
 
 |
 
-80
+70
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Sud-Ouest.
 
 |
 
@@ -182,11 +180,11 @@ Bordeaux
 
 |
 
-80
+70
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Sud.
 
 |
 
@@ -198,11 +196,11 @@ Marseille
 
 |
 
-80
+70
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Sud-Est.
 
 |
 
@@ -214,11 +212,11 @@ Lyon
 
 |
 
-80
+70
 
 |
 
-Directeur zonal de la surveillance du territoire.
+Directeur zonal du renseignement intérieur Est.
 
 |
 
@@ -230,7 +228,7 @@ Metz
 
 |
 
-80
+70
 
 |
 
@@ -278,7 +276,7 @@ Lille
 
 |
 
-60
+80
 
 |
 
@@ -298,7 +296,7 @@ Metz
 
 |
 
-Directeur zonal de la police aux frontières zone Sud-Ouest.
+Directeur zonal de la police aux frontières zone Sud-ouest.
 
 |
 
@@ -810,135 +808,7 @@ Ajaccio
 
 |
 
-Directeur régional des renseignements généraux.
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Rennes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Bordeaux
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Bordeaux
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional des renseignements généraux.
+Directeur régional du renseignement intérieur Corse.
 
 |
 
@@ -950,75 +820,11 @@ Ajaccio
 
 |
 
-80
+60
 
 |
 
-Directeur régional des renseignements généraux.
-
-|
-
-Toulouse
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Rouen
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur régional des renseignements généraux.
-
-|
-
-Montpellier
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Chef de la délégation régionale de discipline/IGPN.
+Chef de la délégation régionale de discipline / IGPN.
 
 |
 
@@ -1034,7 +840,7 @@ Marseille
 
 |
 
-Chef de la délégation régionale de discipline/IGPN.
+Chef de la délégation régionale de discipline / IGPN.
 
 |
 
@@ -1050,13 +856,13 @@ Lyon
 
 |
 
-2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique et commissaire central ; directeur départemental de la sécurité publique, chef de district et commissaire central ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental des renseignements généraux ; chef du service des renseignements généraux ; directeur départemental de la police aux frontières (PAF)
+2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique commissaire central ; directeur départemental de la sécurité publique chef de district commissaire central ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental du renseignement intérieur ; directeur départemental de la police aux frontières (PAF)
 
 DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -1069,8 +875,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -1222,7 +1026,7 @@ Directeur départemental de la sécurité publique et commissaire central.
 
 |
 
-Dijon
+Troyes
 
 |
 
@@ -1231,6 +1035,22 @@ Dijon
 |
 
 60
+
+|
+
+Directeur départemental de la sécurité publique et commissaire central.
+
+|
+
+Dijon
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -1319,6 +1139,22 @@ Directeur départemental de la sécurité publique et commissaire central.
 |
 
 Bordeaux
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur départemental de la sécurité publique et commissaire central.
+
+|
+
+Montpellier
 
 |
 
@@ -1574,9 +1410,9 @@ Directeur départemental de la sécurité publique et commissaire central.
 
 |
 
-Saint-Denis-dela-
+Saint-Denis-
 
-Réunion
+de-la-Réunion
 
 |
 
@@ -1716,7 +1552,7 @@ Marseille
 
 |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central
+Directeur départemental de la sécurité publique, chef de district et commissaire central.
 
 |
 
@@ -1764,7 +1600,7 @@ Pau
 
 |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central
+Directeur départemental de la sécurité publique, chef de district et commissaire central.
 
 |
 
@@ -1812,7 +1648,7 @@ Saint-Etienne
 
 |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central
+Directeur départemental de la sécurité publique, chef de district et commissaire central.
 
 |
 
@@ -1844,7 +1680,7 @@ Metz
 
 |
 
-Directeur départemental de la sécurité publique et chef de circonscription
+Directeur départemental de la sécurité publique et chef de circonscription.
 
 |
 
@@ -1872,7 +1708,7 @@ Lille
 
 |
 
-100
+110
 
 |
 
@@ -2216,6 +2052,22 @@ Directeur départemental adjoint de la sécurité publique et commissaire centra
 
 |
 
+Montpellier
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.
+
+|
+
 Amiens
 
 |
@@ -2360,7 +2212,9 @@ Directeur départemental adjoint de la sécurité publique et commissaire centra
 
 |
 
-Saint-Denis-dela-Réunion
+Saint-Denis-
+
+de-la-Réunion
 
 |
 
@@ -2436,23 +2290,7 @@ Fort-de-France
 
 |
 
-Directeur départemental des renseignements généraux des Hauts-de-Seine.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux de la Seine-Saint-Denis.
+Directeur départemental du renseignement intérieur.
 
 |
 
@@ -2464,91 +2302,11 @@ Bobigny
 
 |
 
-80
+60
 
 |
 
-Directeur départemental des renseignements généraux du Val-de-Marne.
-
-|
-
-Créteil
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux de Seine-et-Marne.
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux des Yvelines.
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux de l'Essonne.
-
-|
-
-Evry
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux du Val-d'Oise.
-
-|
-
-Cergy-Pontoise
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental des renseignements généraux.
+Directeur départemental du renseignement intérieur.
 
 |
 
@@ -2560,27 +2318,11 @@ Bastia
 
 |
 
-80
-
-|
-
-Directeur départemental des renseignements généraux.
-
-|
-
-Arras
-
-|
-
-1
-
-|
-
 60
 
 |
 
-Chef du service de l'arrondissement des renseignements généraux.
+Directeur départemental du renseignement intérieur.
 
 |
 
@@ -2592,7 +2334,7 @@ Bayonne
 
 |
 
-70
+60
 
 |
 
@@ -2628,13 +2370,15 @@ Cayenne
 
 |
 
-3° Chef de circonscription de sécurité publique (CSP) ; chef de district et commissaire central ; commissaire central et commissaire central adjoint de niveau 1
+3° Chef de circonscription de sécurité publique ;
+
+chef de district commissaire central ; commissaire central
 
 DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -2647,8 +2391,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -2688,7 +2430,7 @@ Chef de circonscription.
 
 |
 
-Louviers - Val de Reuil
+Louviers-Val de Reuil
 
 |
 
@@ -2720,7 +2462,7 @@ Chef de circonscription.
 
 |
 
-Dammarie-les-Lys
+Dammarie-les-lys
 
 |
 
@@ -2768,7 +2510,9 @@ Chef de circonscription.
 
 |
 
-Conflans-sainte-Honorine
+Conflans-
+
+Sainte-Honorine
 
 |
 
@@ -3120,7 +2864,9 @@ Chef de district et commissaire central.
 
 |
 
-Saint-Germain-en- Laye
+Saint-Germain-
+
+en-Laye
 
 |
 
@@ -3296,6 +3042,22 @@ Chef de district et commissaire central.
 
 |
 
+Vitry-sur-Seine
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Chef de district et commissaire central.
+
+|
+
 Créteil
 
 |
@@ -3312,7 +3074,7 @@ Chef de district et commissaire central.
 
 |
 
-L'Hay -les-Roses
+L'Hay-les-Roses
 
 |
 
@@ -3348,7 +3110,11 @@ Cergy-Pontoise
 
 |
 
+1
+
 |
+
+60
 
 |
 
@@ -3480,22 +3246,6 @@ Versailles
 
 |
 
-Chef du commissariat divisionnaire.
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-60
-
-|
-
 Commissaire central.
 
 |
@@ -3608,7 +3358,7 @@ Le Kremlin-Bicêtre
 
 |
 
-Commissaire central
+Chef de circonscription.
 
 |
 

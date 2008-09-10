@@ -2,13 +2,13 @@
 
 FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
 
-4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major
+4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major ; chef du service départemental de l'information générale (SDIG)
 
 DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -22,11 +22,9 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
-Chef du service de sécurité de proximité
+Chef du service de sécurité de proximité.
 
 |
 
@@ -42,7 +40,7 @@ Marseille
 
 |
 
-Chef du service de sécurité de proximité
+Chef du service de sécurité de proximité.
 
 |
 
@@ -58,7 +56,7 @@ Lens
 
 |
 
-Chef du service de sécurité de proximité
+Chef du service de sécurité de proximité.
 
 |
 
@@ -74,11 +72,13 @@ Amiens
 
 |
 
-Chef du service de sécurité de proximité
+Chef du service de sécurité de proximité.
 
 |
 
-Saint-Denis-dela-Réunion
+Saint-Denis-
+
+de-la-Réunion
 
 |
 
@@ -87,6 +87,326 @@ Saint-Denis-dela-Réunion
 |
 
 60
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Metz
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Lille
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Rennes
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Bordeaux
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Marseille
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Lyon
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Amiens
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Rouen
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Toulouse
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Montpellier
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Strasbourg
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Ajaccio
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Nice
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Bobigny
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Nanterre
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Evry
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Versailles
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Cergy-Pontoise
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Créteil
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du service départemental de l'information générale.
+
+|
+
+Melun
+
+|
+
+1
+
+|
+
+50
 
 |
 
@@ -350,7 +670,9 @@ Chef de la sûreté départementale.
 
 |
 
-Saint-Denis-dela-Réunion
+Saint-Denis-
+
+de-la-Réunion
 
 |
 
@@ -800,7 +1122,7 @@ DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -814,15 +1136,13 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
+|
+
+Directeur de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget.
 
 |
 
-Directeur de la police aux frontières des aéroports du Bourget et de Roissy -Charles-de-Gaulle.
-
-|
-
-Roissy en France
+Roissy-en-France
 
 |
 
@@ -834,11 +1154,11 @@ Roissy en France
 
 |
 
-Directeur adjoint de la police aux frontières des aéroports du Bourget et de Roissy- Charles-de-Gaulle.
+Directeur adjoint de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget.
 
 |
 
-Roissy en France
+Roissy-en-France
 
 |
 
@@ -882,13 +1202,13 @@ Bastia
 
 |
 
-6° Chef de l'Institut national de la formation de la police nationale ; directeur d'école de police ; directeur de l'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
+6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'école nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
 
 DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -902,11 +1222,9 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
-Chef de l'Institut national de la formation de la police nationale.
+Chef de l'Institut national de la formation de la police nationale (INFPN).
 
 |
 
@@ -922,11 +1240,13 @@ Clermont-Ferrand
 
 |
 
-Directeur de l'Ecole nationale supérieure de police.
+Directeur de l'Ecole nationale supérieure de police (ENSP).
 
 |
 
-Saint-Cyr-au- Mont-d'Or
+Saint-Cyr-
+
+au-Mont-d'Or
 
 |
 
@@ -938,7 +1258,7 @@ Saint-Cyr-au- Mont-d'Or
 
 |
 
-Directeur de l'Ecole nationale supérieure des officiers de police.
+Directeur de l'Ecole nationale supérieure des officiers de police (ENSOP).
 
 |
 
@@ -954,7 +1274,7 @@ Cannes-Ecluse
 
 |
 
-Directeur de l'Ecole nationale de police.
+Directeur de l'Ecole nationale de police (ENP).
 
 |
 
@@ -970,7 +1290,7 @@ Oissel
 
 |
 
-Directeur de l'Ecole nationale de police.
+Directeur de l'Ecole nationale de police (ENP).
 
 |
 
@@ -986,7 +1306,7 @@ Nîmes
 
 |
 
-Directeur de l'Institut national de police scientifique.
+Directeur de l'Institut national de police scientifique (INPS).
 
 |
 
@@ -1008,7 +1328,7 @@ DÉSIGNATION DES EMPLOIS
 
 |
 
-DESIGNTION
+DÉSIGNATION
 
 des villes
 
@@ -1022,11 +1342,9 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
-Chargé de mission auprès du préfet de Corse, du préfet de Corse-du-Sud et du préfet de Haute-Corse, chargé de la coordination des services de sécurité intérieure (PN et GN).
+Chargé de mission auprès du préfet de Corse, préfet de Corse-du-Sud et du préfet de Haute-Corse, chargé de la coordination des services de sécurité intérieure (PN et GN).
 
 |
 
@@ -1042,7 +1360,7 @@ Ajaccio
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Est.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense Est.
 
 |
 
@@ -1074,7 +1392,7 @@ Bordeaux
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud-Est.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud-Est.
 
 |
 
@@ -1090,7 +1408,7 @@ Lyon
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud.
 
 |
 

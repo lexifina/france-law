@@ -18,8 +18,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Directeur des services actifs à la DCSP.
@@ -34,7 +32,7 @@ Directeur des services actifs à la DCSP.
 
 |
 
-Directeur des services actifs à la DCRG.
+Directeur des services actifs à la DCPAF.
 
 |
 
@@ -46,7 +44,7 @@ Directeur des services actifs à la DCRG.
 
 |
 
-Directeur des services actifs à la DCPAF.
+Directeur des services actifs à la DCRI.
 
 |
 
@@ -71,18 +69,6 @@ Directeur des services actifs à la DCCRS.
 |
 
 Directeur des services actifs à la DFPN.
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur des services actifs à la DST.
 
 |
 
@@ -120,8 +106,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Directeur, chef de l'inspection générale des services actifs (IGPN).
@@ -149,8 +133,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -192,7 +174,29 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
+|
+
+Directeur central adjoint opérationnel du renseignement intérieur (DCRI).
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur central adjoint organique du renseignement intérieur (DCRI).
+
+|
+
+1
+
+|
+
+110
 
 |
 
@@ -232,18 +236,6 @@ Directeur central adjoint (DCPJ).
 
 |
 
-Directeur central adjoint (DCRG).
-
-|
-
-1
-
-|
-
-110
-
-|
-
 Directeur central adjoint (DFPN).
 
 |
@@ -256,19 +248,7 @@ Directeur central adjoint (DFPN).
 
 |
 
-Directeur central adjoint (DCSP).
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Directeur adjoint (DST).
+Directeur central adjoint, chef d'état-major (DCSP).
 
 |
 
@@ -293,8 +273,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -324,11 +302,9 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
-Chef d'état-major à la DST.
+Chef d'état-major à la DCRI.
 
 |
 
@@ -336,7 +312,7 @@ Chef d'état-major à la DST.
 
 |
 
-70
+80
 
 |
 
@@ -352,19 +328,7 @@ Chef d'état-major à la DCPJ.
 
 |
 
-Chef d'état-major à la DCRG.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef d'état-major à la DCSP.
+Chef de l'état-major à la DCSP.
 
 |
 
@@ -401,8 +365,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -454,19 +416,7 @@ Chef du cabinet de l'ordre public à la DGPN.
 
 |
 
-Chef du cabinet des affaires européennes internationales à la DGPN.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du cabinet des affaires européennes internationales à la DGPN.
+Chef du cabinet des affaires européennes et internationales à la DGPN.
 
 |
 
@@ -490,7 +440,7 @@ Chef du cabinet mission DOM-TOM, suivi des CSI, aide aux victimes, politique de 
 
 |
 
-Chef du cabinet politique pénale et police judiciaire, chef de la mission de lutte antidrogue (MILAD) à la DGPN.
+Chef du cabinet politique pénale et police judiciaire, chef de la mission de lutte anti-drogue (MILAD) à la DGPN.
 
 |
 
@@ -515,6 +465,30 @@ Chargé de mission auprès du directeur de cabinet à la DGPN.
 |
 
 Coordonnateur des services actifs à la DGPN.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Chargé de mission à la DGPN.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Conseiller, responsable de pôle auprès du DGPN.
 
 |
 
@@ -566,8 +540,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Chef du RAID.
@@ -618,7 +590,7 @@ Chef du service de sécurité du ministère de l'intérieur (SSMI).
 
 |
 
-9° Sous-directeur, coordinateur et adjoint à un chef de service actif
+9° Sous-directeur, coordinateur, conseiller technique, adjoint à un chef de service actif
 
 DÉSIGNATION DES EMPLOIS
 
@@ -631,68 +603,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
-
-|
-
-Sous-directeur des services techniques et informatiques à la DST.
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur du contre-terrorisme et du monde arabe et musulman à la DST.
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de la sécurité, de la protection du patrimoine et de la lutte contre les proliférations à la DST.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur du contre-espionnage et de la contre-ingérence à la DST.
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'administration générale et des supports opérationnels à la DST
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -708,7 +618,7 @@ Sous-directeur des ressources et des études à la DCPJ.
 
 |
 
-Sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ
+Sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ.
 
 |
 
@@ -732,7 +642,7 @@ Sous-directeur chargé de l'antiterrorisme à la DCPJ.
 
 |
 
-Sous-directeur de la police technique et scientifique à Ecully - DCPJ.
+Sous-directeur de la police technique et scientifique à Ecully-DCPJ.
 
 |
 
@@ -744,7 +654,7 @@ Sous-directeur de la police technique et scientifique à Ecully - DCPJ.
 
 |
 
-Coordonnateur opérationnel, adjoint au sous-directeur de la police scientifique à Ecully - DCPJ.
+Coordonnateur opérationnel, adjoint au sous-directeur de la police scientifique à Ecully-DCPJ.
 
 |
 
@@ -756,7 +666,7 @@ Coordonnateur opérationnel, adjoint au sous-directeur de la police scientifique
 
 |
 
-Sous-directeur de la recherche à la DCRG
+Sous-directeur des affaires internationales à la DCRI.
 
 |
 
@@ -768,7 +678,7 @@ Sous-directeur de la recherche à la DCRG
 
 |
 
-Sous-directeur analyse et prospective, faits de société à la DCRG.
+Sous-directeur du contre-terrorisme à la DCRI.
 
 |
 
@@ -780,7 +690,7 @@ Sous-directeur analyse et prospective, faits de société à la DCRG.
 
 |
 
-Sous-directeur des courses et jeux à la DCRG.
+Sous-directeur de la subversion violente à la DCRI.
 
 |
 
@@ -792,7 +702,55 @@ Sous-directeur des courses et jeux à la DCRG.
 
 |
 
-Sous-directeur des ressources et méthodes à la DCRG.
+Sous-directeur du contre-espionnage à la DCRI.
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur de la protection économique à la DCRI.
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur des technologies du renseignement à la DCRI.
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur des supports à la DCRI.
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur de l'administration générale à la DCRI.
 
 |
 
@@ -828,7 +786,7 @@ Sous-directeur des moyens à la DFPN.
 
 |
 
-Sous-directeur des relations extérieures et du management à la DCSP
+Sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP.
 
 |
 
@@ -840,7 +798,7 @@ Sous-directeur des relations extérieures et du management à la DCSP
 
 |
 
-Sous-directeur des missions de police à la DCSP.
+Sous-directeur des services territoriaux à la DCSP.
 
 |
 
@@ -852,7 +810,7 @@ Sous-directeur des missions de police à la DCSP.
 
 |
 
-Sous-directeur des ressources opérationnelles à la DCSP
+Sous-directeur des ressources humaines et de la logistique à la DCSP.
 
 |
 
@@ -864,7 +822,7 @@ Sous-directeur des ressources opérationnelles à la DCSP
 
 |
 
-Conseiller technique auprès du DCSP.
+Sous-directeur de l'information générale à la DCSP.
 
 |
 
@@ -872,7 +830,7 @@ Conseiller technique auprès du DCSP.
 
 |
 
-80
+100
 
 |
 
@@ -900,7 +858,7 @@ Sous-directeur de la logistique à la DCCRS.
 
 |
 
-Sous-directeur des personnels et de la formation à la DCCRS
+Sous-directeur des personnels et de la formation à la DCCRS.
 
 |
 
@@ -912,7 +870,7 @@ Sous-directeur des personnels et de la formation à la DCCRS
 
 |
 
-Sous-directeur des ressources à la DCPAF
+Sous-directeur des ressources à la DCPAF.
 
 |
 
@@ -1020,7 +978,7 @@ Sous-directeur de l'information et de la communication au SCTIP.
 
 |
 
-10° Chef de projet, chef d'un office central ou d'une division nationale opérationnelle ou équivalent
+10° Adjoint à un sous-directeur et chef de projet, chef de service, chef d'un office central ou d'une division nationale opérationnelle, chef d'un cabinet à l'IGPN, et adjoint
 
 DÉSIGNATION DES EMPLOIS
 
@@ -1033,8 +991,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -1050,7 +1006,7 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-(Adjoint au sous-directeur). Responsable opérationnel de coordination centrale et territoriale à la sous-direction de la sécurité, de la protection du patrimoine et de la lutte contre les proliférations à la DST.
+Chef du département des affaires judiciaires à la DCRI.
 
 |
 
@@ -1062,7 +1018,7 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-(Adjoint au sous-directeur). Responsable opérationnel de coordination centrale et territoriale à la sousdirection de l'administration générale et des supports opérationnels à la DST.
+Chef du département de la stratégie à la DCRI.
 
 |
 
@@ -1074,7 +1030,7 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-(Adjoint au sous-directeur). Responsable opérationnel de coordination centrale et territoriale à la sousdirection des services techniques et informatiques à la DST.
+Chef du département de la sécurité à la DCRI.
 
 |
 
@@ -1086,7 +1042,7 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-(Adjoint au sous-directeur). Responsable opérationnel de coordination centrale et territoriale à la sousdirection du contre-terrorisme et du monde arabe et musulman à la DST.
+Adjoint au sous-directeur des affaires internationales à la DCRI.
 
 |
 
@@ -1094,11 +1050,11 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-80
+60
 
 |
 
-(Adjoint au sous-directeur). Responsable opérationnel de la coordination centrale et territoriale à la sous-direction du contre-espionnage et de la contre-ingérence à la DST.
+Adjoint au sous-directeur du contre-terrorisme à la DCRI.
 
 |
 
@@ -1106,11 +1062,203 @@ Chef du service des technologies de la sécurité intérieure à la DAPN.
 
 |
 
-80
+60
 
 |
 
-Chef du département des affaires internationales à la DST.
+Adjoint au sous-directeur du contre-terrorisme à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur de la subversion violente à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur du contre-espionnage à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur de la protection économique à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur des technologies du renseignement, chef du DRT à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur des technologies du renseignement, chef du DROIC à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur des supports à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Adjoint au sous-directeur de l'administration générale à la DCRI.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Chef de division à la sous-direction des affaires internationales à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction de la lutte contre-terrorisme à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction de la subversion violente à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction du contre-espionnage à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du département à la sous-direction de la protection économique à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction des technologies du renseignement à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction des supports à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef de division à la sous-direction de l'administration générale à la DCRI.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Adjoint au sous-directeur des services territoriaux à la DCSP.
 
 |
 
@@ -1122,7 +1270,7 @@ Chef du département des affaires internationales à la DST.
 
 |
 
-Chef de division d'enquêtes judiciaires à la sous-direction du contre-terrorisme et du monde arabe et musulman à la DST.
+Adjoint au sous-directeur de l'information générale à la DSCP.
 
 |
 
@@ -1130,11 +1278,11 @@ Chef de division d'enquêtes judiciaires à la sous-direction du contre-terroris
 
 |
 
-60
+70
 
 |
 
-Chef de département à la sous-direction des services techniques et informatiques à Boullay-les-Troux - DST.
+Adjoint au sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP.
 
 |
 
@@ -1142,11 +1290,35 @@ Chef de département à la sous-direction des services techniques et informatiqu
 
 |
 
-60
+70
 
 |
 
-Adjoint au sous-directeur, chef du bureau de la délinquance urbaine et de l'activité judiciaire à la DCSP.
+Adjoint au sous-directeur des ressources humaines et de la logistique à la DCSP.
+
+|
+
+1
+
+|
+
+70
+
+|
+
+Chef de la division de l'information et des synthèses à la DCSP.
+
+|
+
+1
+
+|
+
+70
+
+|
+
+Chef de la division de l'analyse, de l'information institutionnelle et des faits de société à la DCSP.
 
 |
 
@@ -1158,7 +1330,7 @@ Adjoint au sous-directeur, chef du bureau de la délinquance urbaine et de l'act
 
 |
 
-Adjoint au sous-directeur, chef du bureau de l'expertise et de l'évaluation des performances à la DCSP.
+Chef de la division de l'information économique et sociale à la DCSP.
 
 |
 
@@ -1170,7 +1342,7 @@ Adjoint au sous-directeur, chef du bureau de l'expertise et de l'évaluation des
 
 |
 
-Adjoint au sous-directeur, chef du bureau des personnels à la DCSP.
+Chef de la division des dérives et des violences urbaines ou associées aux manifestations sportives à la DCSP.
 
 |
 
@@ -1182,7 +1354,7 @@ Adjoint au sous-directeur, chef du bureau des personnels à la DCSP.
 
 |
 
-Chef du bureau de l'information à la DCSP.
+Chef de la division des enquêtes, de la documentation et des systèmes d'information à la DCSP.
 
 |
 
@@ -1254,7 +1426,7 @@ Adjoint au sous-directeur, chef du pôle de la lutte contre la grande délinquan
 
 |
 
-Adjoint au sous-directeur chargé de l'antiterrorisme, chef de la division de la logistique opérationnelle à la DCPJ.
+Adjoint au sous-directeur chargé de l'anti-terrorisme, chef de la division de la logistique opérationnelle à la DCPJ.
 
 |
 
@@ -1278,6 +1450,30 @@ Chef de la division des relations internationales à la DCPJ.
 
 |
 
+Chef du service central des courses et jeux (SCCJ) à la DCPJ.
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Adjoint au chef du service central des courses et jeux (SCCJ), chef de la division de la logistique et de la coordination à la DCPJ.
+
+|
+
+1
+
+|
+
+50
+
+|
+
 Chef de la division de la logistique opérationnelle, adjoint au sous-directeur des ressources et des études à la DCPJ.
 
 |
@@ -1290,7 +1486,7 @@ Chef de la division de la logistique opérationnelle, adjoint au sous-directeur 
 
 |
 
-Chef de la division pour la répression de la traite des êtres humains et des violences aux personnes - chef de l'office central pour la répression de la traite des êtres humains (OCTREH) à la DCPJ.
+Chef de la division pour la répression de la traite des êtres humains et des violences aux personnes-chef de l'office central pour la répression de la traite des êtres humains (OCRTEH) à la DCPJ.
 
 |
 
@@ -1302,7 +1498,7 @@ Chef de la division pour la répression de la traite des êtres humains et des v
 
 |
 
-Chef de la division de lutte contre le crime organisé - chef de l'office central de lutte contre le crime organisé (OCLCO) à la DCPJ.
+Chef de la division de lutte contre le crime organisé-chef de l'office central de lutte contre le crime organisé (OCLCO) à la DCPJ.
 
 |
 
@@ -1314,7 +1510,7 @@ Chef de la division de lutte contre le crime organisé - chef de l'office centra
 
 |
 
-Chef de la division pour la répression du trafic illicite des stupéfiants - chef de l'office central de répression du trafic illicite des stupéfiants (OCRTIS) à la DCPJ.
+Chef de la division pour la répression du trafic illicite des stupéfiants-chef de l'office central de répression du trafic illicite des stupéfiants (OCRTIS) à la DCPJ.
 
 |
 
@@ -1338,7 +1534,7 @@ Chef de la division de la protection du patrimoine culturel, économique et tech
 
 |
 
-Chef de la division de lutte contre la grande délinquance financière - chef de l'office central de la répression de la grande délinquance financière (OCRGDF) à la DCPJ.
+Chef de la division de lutte contre la grande délinquance financière-chef de l'office central de la répression de la grande délinquance financière (OCRGDF) à la DCPJ.
 
 |
 
@@ -1374,7 +1570,7 @@ Chef de la division nationale d'investigations financières (DNIF) à la DCPJ.
 
 |
 
-Chef du service central de documentation criminelle (SCDC) à Ecully - DCPJ.
+Chef du service central de documentation criminelle (SCDC) à Ecully-DCPJ.
 
 |
 
@@ -1386,7 +1582,7 @@ Chef du service central de documentation criminelle (SCDC) à Ecully - DCPJ.
 
 |
 
-Chef du service central d'identité judiciaire (SCIJ) à Ecully - DCPJ.
+Chef du service central d'identité judiciaire (SCIJ) à Ecully-DCPJ.
 
 |
 
@@ -1395,114 +1591,6 @@ Chef du service central d'identité judiciaire (SCIJ) à Ecully - DCPJ.
 |
 
 60
-
-|
-
-Adjoint au sous-directeur de la recherche et chef de la division nationale des opérations à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Adjoint au sous-directeur des courses et jeux à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section analyse sociale à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section contestation et violences à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section étrangers et minorités à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section analyse et prospective à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section nationale de recherche opérationnelle à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section personnel à la DCRG.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de la section analyse financière à la DCRG.
-
-|
-
-1
-
-|
-
-50
 
 |
 
@@ -1568,8 +1656,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Chef du bureau des commissaires de police à la DAPN.
@@ -1600,8 +1686,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Directeur de la police judiciaire (DPJ).
@@ -1628,7 +1712,7 @@ Directeur de la police urbaine de proximité (DPUP).
 
 |
 
-Directeur des renseignements généraux (DRG).
+Directeur du renseignement (DR).
 
 |
 
@@ -1678,8 +1762,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Chef de l'inspection générale des services (IGS).
@@ -1708,11 +1790,21 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
+|
+
+Directeur adjoint et sous-directeur des brigades centrales à la DPJ.
 
 |
 
-Directeur adjoint des renseignements généraux à la DRG.
+1
+
+|
+
+110
+
+|
+
+Directeur adjoint du renseignement (DR).
 
 |
 
@@ -1736,18 +1828,6 @@ Directeur adjoint, sous-directeur du soutien opérationnel et logistique à la D
 
 |
 
-Directeur adjoint et sous-directeur des ressources humaines et de la logistique à la DPJ.
-
-|
-
-1
-
-|
-
-110
-
-|
-
 Chef d'état-major, adjoint au directeur de la police urbaine de proximité à la DPUP.
 
 |
@@ -1760,7 +1840,7 @@ Chef d'état-major, adjoint au directeur de la police urbaine de proximité à l
 
 |
 
-Sous-directeur, adjoint au directeur et chef d'état major à la DOPC.
+Sous-directeur, adjoint au directeur et chef d'état-major à la DOPC.
 
 |
 
@@ -1786,11 +1866,9 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
-Sous-directeur chargé des communautés étrangères, de la lutte contre l'immigration clandestine et des ressources à la DRG.
+Sous-directeur chargé des ressources à la DR.
 
 |
 
@@ -1802,7 +1880,7 @@ Sous-directeur chargé des communautés étrangères, de la lutte contre l'immig
 
 |
 
-Sous-directeur, chef d'état-major, chargé de l'information générale et de la mise en oeuvre des dispositifs opérationnels à la DRG.
+Sous-directeur de l'information générale à la DR.
 
 |
 
@@ -1886,19 +1964,7 @@ Sous-directeur de l'administration et des moyens à la DOPC.
 
 |
 
-Sous-directeur des brigades centrales à la DPJ.
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur des brigades centrales à la DPJ.
+Sous-directeur des ressources humaines et de la logistique à la DPJ.
 
 |
 
@@ -1960,8 +2026,6 @@ de bénéficiaires
 
 NOMBRE DE POINTS
 
-par emploi
-
 |
 
 Chef du 1er district à la DOPC.
@@ -2000,7 +2064,7 @@ Chef du 3e district à la DOPC.
 
 |
 
-Adjoint au sous-directeur de la circulation et de la sécurité routières à la DOPC.
+Adjoint au sous-directeur de la circulation et de la sécurité routière à la DOPC.
 
 |
 
@@ -2024,7 +2088,7 @@ Adjoint au sous-directeur de l'ordre public à la DOPC.
 
 |
 
-A la sous-direction de l'ordre public - état-major à la DOPC.
+A la sous-direction de l'ordre public-état-major à la DOPC.
 
 |
 
@@ -2036,7 +2100,7 @@ A la sous-direction de l'ordre public - état-major à la DOPC.
 
 |
 
-A la sous-direction de l'ordre public - état-major à la DOPC.
+A la sous-direction de l'ordre public-état-major à la DOPC.
 
 |
 
@@ -2048,7 +2112,19 @@ A la sous-direction de l'ordre public - état-major à la DOPC.
 
 |
 
-A la sous-direction de l'ordre public - état-major à la DOPC.
+A la sous-direction de l'ordre public-état-major à la DOPC.
+
+|
+
+1
+
+|
+
+50
+
+|
+
+A la sous-direction de l'ordre public-état-major à la DOPC.
 
 |
 
@@ -2120,7 +2196,7 @@ Chef d'état-major à la DPJ.
 
 |
 
-Chef du service de prévention, d'étude et d'orientation antidélinquance à la DPUP.
+Chef du service de prévention, d'étude et d'orientation anti-délinquance à la DPUP.
 
 |
 
@@ -2228,9 +2304,7 @@ Adjoint au chef de l'IGS.
 
 |
 
-6° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux
-
-de la préfecture de police
+6° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux de la préfecture de police
 
 DÉSIGNATION DES EMPLOIS
 
@@ -2243,8 +2317,6 @@ de bénéficiaires
 |
 
 NOMBRE DE POINTS
-
-par emploi
 
 |
 
@@ -2284,7 +2356,7 @@ Chef du 3e secteur à la DPUP.
 
 |
 
-Chef de brigade anticriminalité de nuit à la DPUP.
+Chef de brigade anti-criminalité de nuit à la DPUP.
 
 |
 
@@ -2512,6 +2584,18 @@ Commissaire central adjoint du 18e arrondissement.
 
 |
 
+Commissaire central adjoint du 19e arrondissement.
+
+|
+
+1
+
+|
+
+40
+
+|
+
 Commissaire central adjoint du 20e arrondissement.
 
 |
@@ -2524,7 +2608,7 @@ Commissaire central adjoint du 20e arrondissement.
 
 |
 
-Commissaire central adjoint du 8e arrondissement. Commissaire central adjoint du 8e arrondissement.
+Commissaire central adjoint du 8e arrondissement.
 
 |
 
@@ -2752,18 +2836,6 @@ Chef de la 3e division de police judiciaire à la DPJ.
 
 |
 
-Chef de la 3e division de police judiciaire à la DPJ.
-
-|
-
-1
-
-|
-
-50
-
-|
-
 Chef du service départemental de police judiciaire de Seine-Saint-Denis.
 
 |
@@ -2772,7 +2844,7 @@ Chef du service départemental de police judiciaire de Seine-Saint-Denis.
 
 |
 
-40
+50
 
 |
 
