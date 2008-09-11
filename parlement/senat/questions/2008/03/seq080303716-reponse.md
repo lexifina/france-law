@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303716
+
+- Question : [SEQ080303716](seq080303716.md) — Difficultés rencontrées par les parcs naturels régionaux engagés dans une procédure de révision de leur charte
+
+## Réponse
+
+*Écologie, JO du 2008-09-11, page 1823*
+
+Les quarante-cinq parcs naturels régionaux sont, pour la majorité, engagés dans la procédure de renouvellement de leur classement et donc dans la révision de leur charte, procédure longue et exigeante. Un certain nombre d'entre eux, malgré une prorogation de deux ans, accordée comme le permet la loi, arrivent à l'échéance de leur classement sans que la procédure soit achevée. Cette situation soulève une question juridique nouvelle : celle de la possibilité de procéder ou non au renouvellement du classement de ces parcs après l'échéance du classement précédent. Cette incertitude est levée aujourd'hui, puisque les décrets de renouvellement de classement du parc naturel régional de Chartreuse et du parc naturel régional des Grands Causses, qui étaient dans ce cas, ont été signés par le Premier ministre. Il convient toutefois afin d'éviter qu'une telle situation ne se reproduise, que les parcs naturels régionaux puissent réviser leurs chartes dans les délais, et dans un temps raisonnable, tout en maintenant la qualité de la concertation multipartenariale, essentielle au succès de leur politique, et celle du label. C'est pourquoi des réflexions visant à améliorer la procédure et le pilotage de la révision sont actuellement menées. Les parcs naturels régionaux sont une politique partagée ; aussi, ce travail est conduit en étroite concertation avec l'Association des régions de France et la Fédération des parcs naturels régionaux de France. Les propositions de nature législative issues de cette concertation seront présentées au Parlement dans les meilleurs délais.
