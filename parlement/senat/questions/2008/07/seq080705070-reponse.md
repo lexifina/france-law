@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705070
+
+- Question : [SEQ080705070](seq080705070.md) — Parking à l'entrée des autoroutes
+
+## Réponse
+
+*Transports, JO du 2008-09-11, page 1844*
+
+Conformément aux objectifs fixés à l'issue du Grenelle de l'environnement, le Gouvernement souhaite encourager les mesures destinées à limiter les niveaux d'émissions polluantes liées à l'utilisation des infrastructures de transport routier. À ce titre, le développement du covoiturage, notamment aux abords des grandes agglomérations, constitue une mesure contribuant à l'optimisation de l'usage du réseau routier tout en permettant aux utilisateurs de réduire leurs coûts de déplacement. Concernant plus particulièrement le réseau autoroutier concédé, il convient de préciser qu'une formule d'abonnement dédiée au covoiturage est d'ores et déjà mise en oeuvre sur l'autoroute A 14, accordée à la Société des autoroutes Paris-Normandie, depuis sa mise en service en 1996. Par ailleurs, l'État est favorable à la généralisation de l'implantation de parkings dédiés au covoiturage à l'entrée des autoroutes, en particulier en Île-de-France ou aux abords des grandes agglomérations, sous réserve, d'une part, que les éventuels aménagements techniques et fonciers nécessaires puissent être réalisés et, d'autre part, que des accords puissent être conclus avec l'ensemble des partenaires intéressés. Ce sujet sera abordé dans le cadre des discussions entre l'État et les sociétés concessionnaires d'autoroutes relatives au renouvellement des contrats de plan conclus au titre de la période 2009-2013. L'État a demandé aux sociétés d'autoroutes concernées de se rapprocher de l'autorité organisatrice des transports en Île-de-France (STIF) afin d'étudier différentes mesures d'incitation au covoiturage et la mise en place de parkings-relais destinés à favoriser l'intermodalité.
