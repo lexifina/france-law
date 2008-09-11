@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700441
+
+- Question : [SEQ070700441](seq070700441.md) — Légalisation du recours collectif des consommateurs
+
+## Réponse
+
+*Économie, JO du 2008-09-11, page 1826*
+
+Le Président de la République et le Premier ministre ont souhaité que soient examinées les dispositions aboutissant à l'introduction d'une action de groupe dans le droit français. Plusieurs travaux ont nourri la réflexion du Gouvernement depuis un an. La commission Attali, qui a remis son rapport le 23 janvier, a préconisé d'introduire l'action de groupe pour accroître la confiance des consommateurs dans l'économie de marché. Le rapport Coulon a également confirmé l'intérêt de l'action de groupe, en la présentant comme une contrepartie à la dépénalisation d'une partie du droit des affaires. Ces travaux ont été utiles pour souligner l'intérêt de l'action de groupe qui ne remette pas en cause un certain nombre de principes généraux de notre droit, qui ne soit pas facteur d'insécurité juridique pour les opérateurs économiques et qui permette d'éviter les abus et dérives constatés avec d'autres dispositifs en vigueur à l'étranger. L'action de groupe entrant dans le cadre général de la réflexion sur la responsabilité des entreprises et les sanctions les plus adaptées en cas de manquement, d'irrégularités ou d'abus commis par les entreprises, le Gouvernement examine l'introduction de l'action de groupe dans le projet de loi portant dépénalisation de la vie des affaires. Par ailleurs, dans le cadre des débats du projet de loi de modernisation de l'économie, le secrétaire d'État chargé de l'industrie et de la consommation, porte-parole du Gouvernement s'est engagé à constituer un groupe de travail réunissant les représentants des différents groupes politiques des commissions concernées de l'Assemblée nationale et du Sénat. Une première réunion s'est tenue le 16 juillet dernier. L'objectif est d'aboutir à un texte avant la fin de cette année.
