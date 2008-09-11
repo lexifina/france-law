@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604787
+
+- Question : [SEQ080604787](seq080604787.md) — Circulation de rames de transport de voyageurs dangereuses sur le réseau ferré francilien
+
+## Réponse
+
+*Transports, JO du 2008-09-11, page 1843*
+
+La SNCF a pour priorité de transporter ses voyageurs en sécurité dans le respect de la réglementation en vigueur. Ainsi, la condamnation de portes en exploitation, qui vise en premier lieu à éviter la chute de voyageurs, est réalisée en application de règles internationales de sécurité, qui en admettent la possibilité, sous certaines conditions liées, notamment, à la bonne évacuation des voyageurs. La configuration des « petits gris », avec six portes par voiture, rend possible leur exploitation avec une porte condamnée. Celle-ci doit, toutefois, être limitée dans le temps, la règle étant de rapatrier la voiture concernée vers un des centres de maintenance de la SNCF pour une remise en état dans les plus brefs délais, en principe, dès la fin de la période de pointe où ce matériel a dû circuler. En revanche, il serait dommageable pour la régularité du service d'interdire la circulation éventuelle d'un tel matériel du fait de la très forte fréquentation des trains d'Ile-de-France, notamment, en période de pointe. Compte tenu des contraintes de disponibilité des matériels roulants, une telle interdiction se traduirait par la suppression de trains. Par ailleurs, le STIF et la SNCF ont décidé de remplacer ces rames en inox, anciennes, selon les lignes concernées, soit par des rames à deux étages rénovées dont les premières circuleront dès 2009, soit par des rames de nouvelle génération appelées « Francilien » qui seront progressivement mises en service entre 2009 et 2015. L'État participe à hauteur de 400 millions d'euros versés au STIF au programme d'acquisition des 172 rames du Francilien et de rénovation des rames à deux niveaux, d'un montant total de 2,1 milliards d'euros.
