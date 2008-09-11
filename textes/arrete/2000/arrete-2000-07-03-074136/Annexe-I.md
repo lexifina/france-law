@@ -40,7 +40,7 @@ Bitulac, 71360 Epinac : de 1962 à 1997 ;
 
 Etablissements Knauf-Isba/Ferlam/SAF/Ferodo/Isba Isolation : ZI Sud, route de Lyon, 89000 Auxerre : de 1969 à 1995 ;
 
-Etablissements Piques/Exploitation des établissements Piques, 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : depuis 1906 ;
+ÉTABLISSEMENTS PIQUES/EXPLOITATION DES ÉTABLISSEMENT PIQUES : 21440 Poncey-sur-l'Ignon, puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon, de 1906 à 1999 ;
 
 Eternit, établissement de Vitry, BP 8, 71600 Paray-le-Monial : de 1941 à 1997 ;
 
