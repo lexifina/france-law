@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700499
+
+- Question : [SEQ070700499](seq070700499.md) — Transfert des routes nationales aux départements : harmonisation des numéros
+
+## Réponse
+
+*Transports, JO du 2008-09-11, page 1839*
+
+Dans le cadre des décrets n° 2005-1499 et n° 2005-1500 du 5 décembre 2005 fixant les modalités d'application de l'article 18 de la loi du 13 août 2004 relative aux libertés et responsabilités locales, les collectivités locales gestionnaires des voies transférées par l'arrêté du préfet du département sont dorénavant compétentes pour fixer leur numérotation. Avant ce transfert, il existait déjà des routes départementales en continuité sur plusieurs départements et comportant plusieurs numéros distincts. Cette discontinuité de numérotation n'était pas source d'erreur ou d'accident pour les usagers. Dans d'autres cas, la coordination entre plusieurs départements a permis de maintenir un même numéro sur un itinéraire de part et d'autre de la limite géographique. Il appartient donc à ces collectivités de déterminer leur politique de numérotation, le principe de libre administration faisant obstacle à ce que l'État intervienne dans ce domaine. Toutefois, l'État doit se porter garant d'une base de données nationale de la numérotation des routes départementales à grande circulation, qui le plus souvent supportent des trafics de liaison interdépartementale. Ce travail est en cours de réalisation par le service d'études techniques des routes et autoroutes (SETRA). Cette base de données sera naturellement tenue à la disposition des départements qui souhaitent y avoir accès. Les principes de la signalisation routière pour la numérotation des voies n'ont pas été modifiés. Des usagers qui se déplacent en France peuvent ainsi, comme auparavant, suivre un itinéraire à partir des numéros des routes européennes, des autoroutes, des routes nationales et des routes départementales.
