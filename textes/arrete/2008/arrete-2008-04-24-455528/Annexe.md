@@ -1,12 +1,8 @@
 # Article Annexe
 
-TABLEAU ANNEXE
+TABLEAU ANNEXE : REDEVANCES DE PROCÉDURE
 
-REDEVANCES DE PROCÉDURE
-
-Montant
-
-en euros
+Montant en euros
 
 1. Brevets d'invention, certificat d'utilité et certificats complémentaires de protection
 
@@ -28,7 +24,9 @@ Revendication, soit au moment du dépôt, soit à la suite de modification, à p
 
 Rectification d'erreurs matérielles par requête : 50,00
 
-Requête en poursuite de procédure 100,00 Délivrance et impression du fascicule : 86,00
+Requête en poursuite de procédure 100,00
+
+Délivrance et impression du fascicule : 86,00
 
 Redevance annuelle de maintien en vigueur d'un brevet ou d'un certificat d'utilité :
 
@@ -74,9 +72,11 @@ Redevance annuelle de maintien en vigueur d'un certificat complémentaire : 900,
 
 Recours en restauration (1) : 150,00
 
+Dépôt d'une demande de prorogation d'un certificat complémentaire relatif à un médicament ayant fait l'objet de recherches en vue d'un usage pédiatrique : 450, 00
+
 2. Brevets européens
 
-Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen : 35,00
+Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un brevet européen : 35,00
 
 Etablissement et transmission de copies de la demande de brevet européen :
 
@@ -90,13 +90,15 @@ Transmission d'une demande internationale : 60,00
 
 Préparation d'exemplaires complémentaires : par page et par exemplaire : 0,75
 
-Supplément pour paiement tardif : 50 % des taxes impayées avec un minimum de 60 EUR et un maximum correspondant à 50 % de la taxe internationale de dépôt
+Supplément pour paiement tardif : 50 % des taxes impayées avec un minimum de 60 euros et un maximum correspondant à 50 % de la taxe internationale de dépôt
 
 4. Marques de fabrique, de commerce ou de service
 
 Dépôt :
 
 - premier dépôt jusqu'à trois classes (sous forme de papier) : 225,00
+
+- premier dépôt jusqu'à trois classes (sous forme électronique) : 200, 00
 
 - par classe de produits ou de services (au-delà de trois) : 40,00
 
@@ -138,11 +140,13 @@ correspondante due
 
 Renonciation : 26,00
 
-Demande d'inscription sur le registre national (par titre) : 26,00 avec un maximum de 260 EUR lorsqu'une demande d'inscription vise plusieurs titres
+Demande d'inscription sur le registre national (par titre) : 26,00 avec un maximum de 260 euros lorsqu'une demande d'inscription vise plusieurs titres
 
 Supplément pour traitement accéléré d'une demande d'inscription (par titre) : 50,00
 
 Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission : 26,00
+
+Inscription d'un changement de nom, de forme juridique ou d'adresse : Gratuit.
 
 7. Droits voisins de la propriété industrielle
 
