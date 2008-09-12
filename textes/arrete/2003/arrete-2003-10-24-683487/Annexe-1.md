@@ -4,7 +4,15 @@ Liste des essences soumises aux dispositions du code forestier,
 
 chapitre IV du titre V du livre V, nom botanique et nom commun
 
-Abies alba mill
+Nom botanique
+
+|
+
+Nom commun
+
+|
+
+Abies alba Mill
 
 |
 
@@ -108,7 +116,7 @@ Cèdre de l'Atlas.
 
 |
 
-Cedrus libani A. Richard
+Cedrus libani A.Richard
 
 |
 
@@ -140,6 +148,38 @@ Frêne commun.
 
 |
 
+Juglans major x regia L.
+
+|
+
+Noyer hybride.
+
+|
+
+Juglans nigra L.
+
+|
+
+Noyer noir d'Amérique.
+
+|
+
+Juglans nigra x regia L.
+
+|
+
+Noyer hybride.
+
+|
+
+Juglans regia L.
+
+|
+
+Noyer royal.
+
+|
+
 Larix decidua Mill
 
 |
@@ -168,7 +208,7 @@ Larix x eurolepis Henry
 
 |
 
-Mélèze hybride.
+Melèze hybride.
 
 |
 
@@ -196,7 +236,7 @@ Pin brutia.
 
 |
 
-Pinus canariensis C. Smith
+Pinus canariensis C.Smith
 
 |
 
@@ -284,7 +324,7 @@ Pin pignon.
 
 |
 
-Pinus radiata D. Don
+Pinus radiata D.Don
 
 |
 
@@ -297,6 +337,14 @@ Pinus sylvestris L.
 |
 
 Pin sylvestre.
+
+|
+
+Pinus taeda L.
+
+|
+
+Pin à encens.
 
 |
 
@@ -385,6 +433,22 @@ Robinia pseudoacacia L.
 |
 
 Robinier faux-acacia.
+
+|
+
+Sorbus domestica L.
+
+|
+
+Cormier.
+
+|
+
+Sorbus torminalis L.
+
+|
+
+Alisier torminal.
 
 |
 
