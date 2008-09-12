@@ -1,14 +1,14 @@
-# Article 1
+# Article 1er
 
-a) La présente convention collective règle les rapports entre les employeurs et le personnel au sol, salarié des entreprises et établissements dont l'activité relève des industries du transport aérien, énumérées ci-après :
+a) La CCNTA-PS règle les rapports entre les employeurs et le personnel au sol salarié des entreprises et établissements dont l'activité relève des industries du transport aérien énumérées ci-après :
 
-- transports aériens réguliers de personnes, marchandises et courrier sur des lignes régulières et selon des horaires déterminés ;
+- transport aérien régulier de personnes, marchandises et courrier sur des lignes régulières et selon des horaires déterminés ;
 
-- transports aériens non réguliers de personnes et de marchandises et courrier tels que charters (réguliers ou non), avions-taxis, locations d'avions avec pilote, excursions aériennes.
+- transport aérien non régulier de personnes et de marchandises et courrier tels que charters (réguliers ou non), avions taxis, locations d'avions avec pilote, excursions aériennes.
 
-Ces activités sont classées sous les codes 62.1z, 62.2z de la nomenclature d'activités française (NAF).
+Ces activités sont classées sous les codes 51.10Z et 51.21Z de la nomenclature d'activités française (NAF).
 
-b) Elle s'applique également aux employeurs et salariés des entreprises et établissements dont l'activité relève des services aéroportuaires d'assistance en escale des entreprises de transport aérien, énumérés ci-après et qui ne relèvent pas d'une convention collective étendue :
+b) La CCNTA-PS règle les rapports entre les employeurs et salariés des entreprises et établissements dont l'activité relève des services aéroportuaires d'assistance en escale des entreprises de transport aérien énumérés ci-après et qui ne relèvent pas d'une convention collective étendue :
 
 - assistance administrative au sol et supervision ;
 
@@ -32,8 +32,8 @@ b) Elle s'applique également aux employeurs et salariés des entreprises et ét
 
 - assistance service commissariat.
 
-Ces activités sont classées sous le code 63.2e de la nomenclature d'activités française (NAF).
+Ces activités sont classées sous le code 52.23Z de la nomenclature d'activités française (NAF).
 
-c) La présente convention s'applique aux entreprises et établissements qui exercent l'activité d'exploitant d'aéroport et ne relèvent pas de l'article L. 251-2 du code de l'aviation civile. Ces activités sont classées sous le code 63. 2 E de la nomenclature d'activités française (NAF).
+c) La CCNTA-PS s'applique enfin aux entreprises et établissements qui exercent l'activité d'exploitant d'aéroport et ne relèvent pas de l'article L. 251-2 du code de l'aviation civile. Ces activités sont classées sous le code 52.23Z de la nomenclature d'activités française (NAF).
 
-d) La présente convention collective s'applique aux entreprises et établissements français ou étrangers, exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
+d) La CCNTA-PS s'applique aux entreprises et établissements français ou étrangers exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
