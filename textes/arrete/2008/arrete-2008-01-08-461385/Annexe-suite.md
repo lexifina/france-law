@@ -80,11 +80,7 @@ F. - Les méthodes et outils de l'analyse spatiale :
 
 - les systèmes d'information géographique.
 
-IX. - Analyse, parmi plusieurs sujets proposés, d'un dossier sur l'organisation, les missions et l'action
-
-de la direction générale des douanes et droits indirects
-
-(Epreuve écrite n° 1 du concours interne)
+IX. - Epreuve d'analyse d'un dossier relatif à l'organisation, aux missions et à l'action de la direction générale des douanes et droits indirects, au choix du candidat parmi plusieurs sujets proposés (épreuve n° 2 a du concours interne).
 
 I. - Missions et organisation de la DGDDI :
 
