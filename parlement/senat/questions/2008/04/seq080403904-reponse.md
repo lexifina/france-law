@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403904
+
+- Question : [SEQ080403904](seq080403904.md) — Contribuable autorisé à se constituer partie civile au nom d'une commune
+
+## Réponse
+
+*Intérieur, JO du 2008-09-18, page 1889*
+
+Suivant les dispositions de l'article L. 2132-5 du code général des collectivités territoriales : « Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques, avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la commune, et que celle-ci, préalablement appelée à en délibérer, a refusé ou négligé d'exercer. » Le Conseil d'État dans sa décision Tournois du 23 mars 1927 a posé le principe que toute action doit remplir simultanément les deux conditions d'offrir un intérêt pour la commune et de présenter des chances sérieuses de succès. Le juge administratif procède à cette analyse du bien-fondé de la demande sans se substituer au juge de l'action. Il résulte de la qualité de contribuable, requise pour être recevable à formuler une telle demande, que l'intérêt de la commune ne peut s'entendre que de ses intérêts matériels, à l'exclusion notamment de ses intérêts moraux (CL, 17 juin 1998, Berger). Si les sommes concernées par la prise illégale d'intérêt ont fait l'objet d'un reversement par l'auteur ou les auteurs présumés du délit, le préjudice financier à l'encontre de la commune a cessé. En conséquence, l'action engagée ne présente plus d'intérêt pour la commune ni de chance sérieuse de succès. En outre, le contribuable s'expose, sur requête de la commune, à voir annulée l'autorisation que le tribunal administratif lui avait donnée en vue de déposer au nom de ladite commune une plainte avec constitution de partie civile (CE, 9 novembre 2007, commune de Puttelange-aux-Lacs).
