@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604775
+
+- Question : [SEQ080604775](seq080604775.md) — Situation de l'atelier historique de l'Imprimerie nationale
+
+## Réponse
+
+*Culture, JO du 2008-09-18, page 1876*
+
+La préservation pérenne du patrimoine conservé par l'Atelier du Livre d'Art et de l'Estampe (ALAE) du groupe Imprimerie nationale, société de droit privé détenue à 95 % par l'État, passe par la sortie de l'atelier historique de l'entreprise, comme l'a bien noté la Cour des Comptes dans ses observations. Cette opération, qui relève du ministère de l'Économie, de l'Industrie et de l'Emploi, n'étant pas effectuée à ce jour, le ministère de la Culture et de la Communication peut difficilement avoir, à ce stade, un rôle pilote. Cependant le ministère a contribué, dans son domaine de compétence, à préserver l'essentiel du patrimoine de cet ancien atelier historique de l'Imprimerie nationale : il a depuis longtemps classé au titre des monuments historiques les 500 000 pièces gravées du célèbre cabinet des poinçons ; et il a contribué à la sauvegarde de certains savoir-faire rares détenus par les ouvriers de l'atelier typographique, grâce à des dispositifs de formation financés par la mission des métiers d'art. Au premier semestre le ministère a en outre diligenté une mission pour s'assurer que toutes les conditions requises en matière de conservation et de sécurité sont scrupuleusement respectées dans les locaux d'Ivry-sur-Seine qu'occupe cet atelier depuis 2005. Quant à la concertation interministérielle, elle existe bien et diverses solutions de transfert et d'évolution statutaire de l'ALAE sont à l'étude. Aucune d'entre elles ne s'est révélée satisfaisante à ce jour, aussi bien sur le plan de la poursuite d'une activité économique viable par l'ALAE, que du point de vue du respect des finances publiques, pour lesquelles toute solution, quelle qu'elle soit, sera fort coûteuse.
