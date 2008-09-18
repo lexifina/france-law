@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080805325
+
+- Question : [SEQ080805325](seq080805325.md) — Actualisation du tarif d'utilisation des réseaux publics d'électricité
+
+## Réponse
+
+*Industrie, JO du 2008-09-18, page 1886*
+
+La loi n° 2000-108 du 10 février 2000, relative à la modernisation et au développement du service public de l'électricité, a confié à la Commission de régulation de l'énergie la mission d'élaborer les tarifs d'utilisation des réseaux de transport et de distribution, qui sont ensuite approuvés par les ministres chargés de l'économie et de l'énergie. La Commission de régulation de l'énergie doit veiller, dans sa proposition tarifaire, à ce que les tarifs d'utilisation des réseaux publics couvrent les coûts supportés par les gestionnaires des réseaux publics, notamment en ce qui concerne l'exploitation et la maintenance du réseau, son développement et son adaptation. Les tarifs d'utilisation des réseaux publics d'électricité doivent donc permettre aux gestionnaires des réseaux publics : d'une part, d'assurer les missions de service public qui leur sont confiées et qui sont déclinées au travers du contrat de service public signé entre l'État et EDF ; d'autre part, de respecter les obligations législatives et réglementaires existantes en matière de qualité et de continuité de la fourniture. La Commission de régulation de l'énergie devrait remettre sa proposition tarifaire au Gouvernement dans les prochaines semaines, les nouveaux tarifs étant destinés à se substituer aux tarifs en vigueur approuvés par la décision du 23 septembre 2005. Le Gouvernement sera particulièrement vigilant à ce que les tarifs proposés par la Commission de régulation de l'énergie respectent les principes énoncés ci-dessus, et garantissent aux gestionnaires des réseaux publics les moyens nécessaires à l'exercice de leurs missions.
