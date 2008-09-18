@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203464
+
+- Question : [SEQ080203464](seq080203464.md) — Forages et contrôle des volumes d'eau prélevés dans les nappes phréatiques
+
+## Réponse
+
+*Écologie, JO du 2008-09-18, page 1880*
+
+La réglementation actuelle relative à la police de l'eau soumet, en fonction du débit de prélèvement, les forages non domestiques à autorisation ou à déclaration. Dans les zones en déficit structurel comme les zones de répartition des eaux (ZRE), les seuils de prélèvement sont abaissés pour les ouvrages non domestiques : déclaration pour des prélèvements inférieurs à 8 m³/h, autorisation au-delà. Par ailleurs, l'obligation de comptage est ancienne. L'article L. 214-8 du code de l'environnement, introduit par l'article 12 de la loi sur l'eau 92-3 du 3 janvier 1992, rend obligatoire, pour les ouvrages de prélèvement, la mise en place de « moyens de mesure ou d'évaluation appropriés ». Elle concerne tous les ouvrages de prélèvement en eaux souterraines, même domestiques, et les ouvrages de prélèvements en eaux superficielles, à l'exception des ouvrages domestiques. Ces derniers peuvent cependant faire l'objet d'une obligation de comptage au titre du code de la santé publique. Les arrêtés du 11 septembre 2003 ont précisé la notion de « moyens de mesure ou d'évaluation appropriés ». Depuis le vote de la loi sur l'eau de 1992, les agences de l'eau ont mené des actions incitatives : aide à l'équipement en compteur, développement d'un régime de redevance favorisant le comptage. L'introduction d'une obligation de comptage (écoconditionnalité) pour l'obtention des aides agricoles « PAC » a été également un facteur important dans l'amélioration de la connaissance des volumes prélevés. La loi sur l'eau et les milieux aquatiques du 30 décembre 2006 a amélioré le dispositif en réaffirmant l'obligation de comptage et en introduisant une obligation de déclaration des forages domestiques.
