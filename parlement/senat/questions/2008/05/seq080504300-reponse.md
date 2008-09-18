@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504300
+
+- Question : [SEQ080504300](seq080504300.md) — Situation des maisons d'arrêt de Colmar et de Mulhouse
+
+## Réponse
+
+*Justice, JO du 2008-09-18, page 1896*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'elle porte une grande attention aux situations des maisons d'arrêt de Colmar et de Mulhouse. L'Alsace est dotée à ce jour de cinq établissements pénitentiaires : la maison centrale d'Ensisheim, datant de 1811 (216 places) ; la maison d'arrêt de Strasbourg, datant de 1988 (444 places) ; la maison d'arrêt de Mulhouse, datant de 1889 (298 places) et causant de grandes nuisances aux riverains ; la maison d'arrêt de Colmar, datant de 1919 (120 places) ; le centre de semi-liberté de Souffelweyersheim, datant de 1890 (43 places). La capacité cumulée de ces établissements est de 1 121 places. Le nombre de détenus hébergés y était de 1 520 en août 2008. Pour faire face à cet accroissement du nombre de personnes incarcérées et pour améliorer les conditions matérielles de détention ainsi que les conditions de travail des personnels, la création d'un nouvel établissement en Alsace peut être une solution. Un nouvel établissement pourrait être créé à mi-chemin de Mulhouse et Colmar. La décision de construire un tel équipement ne pourrait intervenir que dans le cadre d'un nouveau programme de construction. La garde des sceaux, ministre de la justice, tient également à vous assurer de la détermination du Gouvernement à développer les aménagements de peine et les alternatives à l'incarcération. Il y a à ce jour 5 951 personnes (dont 3 333 placements sous surveillance électronique) en aménagements de peine, soit une progression d'environ 25 % depuis mai 2007. Dans le ressort de la direction interrégionale des services pénitentiaires d'Alsace-Lorraine, ce sont déjà 13,2 des condamnés qui bénéficient d'un aménagement, contre 11,7 % en moyenne nationale.
