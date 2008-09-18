@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504532
+
+- Question : [SEQ080504532](seq080504532.md) — Délivrance de visas aux ressortissants de la République démocratique du Congo
+
+## Réponse
+
+*Immigration et intégration, JO du 2008-09-18, page 1885*
+
+Depuis plusieurs mois, notre ambassade à Kinshasa a engagé, avec le concours des services compétents de l'administration centrale, une profonde réorganisation de son service des visas. Celle-ci vise à offrir de meilleures conditions d'accès à ce service, en termes de délais de rendez-vous et de qualité d'accueil. Par ailleurs, le recours à un prestataire extérieur pour la prise de rendez-vous est en cours d'examen. Actuellement, les délais d'obtention d'un rendez-vous sont de dix jours environ. Ceux nécessaires à l'instruction des dossiers d'une dizaine de jours également, en tenant compte des procédures et des échanges informatiques mis en place pour les consultations de nos partenaires de l'espace Schengen. Notre ambassade à Kinshasa relève toutefois que le système de rendez-vous qu'elle a mis en place est souvent perturbé par des demandes de visa déposées quelques jours seulement avant la date prévue de leur voyage, demandes qui font subséquemment l'objet de nombreuses interventions locales. S'agissant, d'une manière plus générale, du rapport d'information n° 353 (2006-2007) fait le 27 juin 2007 au nom de la commission des finances, du contrôle budgétaire et des comptes économiques de la nation au Sénat tendant à une réduction significative des délais de prise de rendez-vous et d'instruction des dossiers, le ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire s'est fixé dans ses priorités la réalisation d'un modèle de site internet à l'usage de nos postes consulaires, où seront précisés les délais d'obtention de rendez-vous dans les services des visas.
