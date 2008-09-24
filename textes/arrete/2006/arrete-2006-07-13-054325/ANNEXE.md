@@ -67,3 +67,15 @@ DOMAINES D'EXPERTISE
 Evaluation des effets des agents chimiques sur la santé des travailleurs.
 
 Evaluation des données d'expositions ainsi que des méthodes de mesure applicables à la surveillance atmosphérique et/ou biologique des expositions.
+
+OBJET DES COMITÉS d'experts spécialisés
+
+Expertise en évaluation des risques liés aux substances chimiques dans le cadre de la mise en œuvre du règlement (CE) n° 1907 / 2006 du Parlement européen et du Conseil concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances (REACH).
+
+DOMAINES D'EXPERTISE
+
+Identification des substances prioritaires devant faire l'objet d'évaluations approfondies et / ou de mesures de gestion de risques.
+
+Analyse des risques pour la santé et pour l'environnement liés aux substances chimiques en vue de l'élaboration des dossiers français d'évaluation, de substances candidates à l'autorisation, de restriction et de classification et d'étiquetage.
+
+Impacts sanitaires, environnementaux et socio-économiques des mesures de gestion des risques liés aux substances chimiques en vue de l'élaboration des dossiers français d'autorisation, de restriction et de classification et d'étiquetage.
