@@ -33,3 +33,5 @@ IMMEDIAT :
 4 ANS :
 
 5.9. Eau - Mesure périodique
+
+Les dispositions du point 1.8 sont applicables aux installations existantes dans les conditions fixées par l'article 5 du décret n° 2006-435 du 13 avril 2006 fixant les modalités du contrôle périodique de certaines catégories d'installations classées soumises à déclaration.
