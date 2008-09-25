@@ -38,7 +38,7 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal ;
+- département du Cantal : arrondissements de Saint-Flour, Mauriac et cantons de Aurillac 2e canton, Laroquebrou, Montsalvy, Saint-Cernin, Saint-Mamet-la-Salvetat, Vic-sur-Cère, Aurillac 4e canton, Arpajon-sur-Cère, Jussac, Aurillac ;
 
 - département du Cher ;
 
@@ -60,7 +60,7 @@ Zone de protection :
 
 - département du Finistère ;
 
-- département du Gard ;
+- département du Gard : arrondissements d'Alès, Nîmes et cantons de Lasalle, Quissac, Saint-André-de-Valborgne, Saint-Hippolyte-du-Fort, Sauve, Sumène, Valleraugue ;
 
 - département d'Ille-et-Vilaine ;
 
@@ -190,6 +190,8 @@ Zone de protection :
 
 - département de l'Aveyron : arrondissements de Millau, Villefranche-de-Rouergue et cantons de Bozouls, Cassagnes-Bégonhès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Salvetat-Peyralès, Baraqueville-Sauveterre, Rodez-Ouest, Rodez-Nord, Rodez ;
 
+- département du Cantal : canton de Maurs ;
+
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
@@ -197,6 +199,8 @@ Zone de protection :
 - département de la Corrèze : cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Donzenac, Larche, Meyssac, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Malemort-sur-Corrèze, Brive-la-Gaillarde ;
 
 - département de la Dordogne ;
+
+- département du Gard : cantons de Alzon, Trèves, Vigan ;
 
 - département de la Haute-Garonne ;
 
@@ -224,4 +228,4 @@ Zone de protection :
 
 NOTA :
 
-Décret n° 2008-975 du 19 septembre 2008 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française l'arrêté du 19 septembre 2008.
+Décret n° 2008-997 du 24 septembre 2008 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française l'arrêté du 24 septembre 2008 modifiant l'arrêté du 1er avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale du mouton.
