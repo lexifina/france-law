@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102531
+
+- Question : [SEQ071102531](seq071102531.md) — Périodicité mensuelle pour le versement des pensions
+
+## Réponse
+
+*Travail, JO du 2008-09-25, page 1957*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur la mensualisation du versement des pensions de retraite. Celle-ci est déjà effective dans les principaux régimes de sécurité sociale. Ainsi, les retraités du régime général, de la fonction publique, du régime social des indépendants et de la mutualité sociale agricole, notamment, bénéficient du paiement mensuel de leurs pensions. S'agissant des régimes complémentaires de salariés du secteur privé AGIRC (Assemblée générale des institutions de retraite des cadres) ARCCO (Association des régimes de retraite complémentaire), les pensions sont versées chaque trimestre « à terme à échoir », et non « à terme échu » ce qui est favorable aux intéressés, lesquels perçoivent à chaque échéance trois mois d'avance. Pour autant, et pour des raisons de lisibilité et d'harmonisation avec la retraite de base, un certain nombre de retraités préférerait un versement mensuel qui faciliterait la gestion de leur budget. Il faut donc que ce débat ait lieu, vraisemblablement à l'occasion du rendez-vous 2008 sur les retraites, même si chacun doit être conscient que la décision appartient in fine aux partenaires sociaux gestionnaires de ces régimes de retraite complémentaire. Pour les professions libérales, la fixation de l'échéance du versement des allocations vieillesse complémentaire relève des statuts de chaque section professionnelle. Ainsi, la majorité des sections prévoit une allocation versée trimestriellement et à terme échu, mais certaines sections ont exprimé le souhait de mensualiser le paiement.
