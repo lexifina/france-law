@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705240
+
+- Question : [SEQ080705240](seq080705240.md) — Avenir des centres régionaux de la propriété forestière
+
+## Réponse
+
+*Agriculture, JO du 2008-09-25, page 1931*
+
+Dans l'exercice de la révision générale des politiques publiques (RGPP) mise en oeuvre par le Gouvernement est évoquée l'organisation réformée des dix-neuf établissements publics administratifs (EPA) que constituent les centres régionaux de la propriété forestière (CRPF) et le Centre national professionnel de la propriété forestière (CNPPF). Les CRPF créés par la loi n° 63-810 du 6 août 1963 et par le décret du 13 avril 1966 sont chargés par le code forestier du développement et de l'orientation de la gestion des forêts privées. Le CNPPF prévu par la loi d'orientation sur la forêt du 9 juillet 2001 a été créé pour coordonner l'action de ces 18 CRPF et les représenter auprès du ministre chargé des forêts. Ensemble, ils ont pour objectif d'assurer la gestion durable de la forêt privée française qui représente 11 millions d'hectares pour environ 3,5 millions de propriétaires individuels et de groupements forestiers. En ce qui concerne ces établissements, le Conseil de modernisation des politiques publiques s'est prononcé le 11 juin 2008 en faveur de leur regroupement en un établissement national unique composé d'échelons régionaux. Ce schéma organisationnel sera donc en mesure de maintenir, et même de conforter les missions de développement forestier exercées par les CRPF et le CNPPF, à la mesure des potentialités forestières des régions, et ce conformément aux objectifs de mobilisation du bois dans le cadre de gestion durable fixés par les assises de la forêt. Le ministre de l'agriculture et de la pêche est chargé de la mise en oeuvre de cette décision et procédera dans les meilleurs délais aux réunions de concertation nécessaires pour bâtir les textes avec les centres et le CNPPF.
