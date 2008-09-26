@@ -34,9 +34,7 @@ Ce dossier doit être tenu à la disposition de l'inspection des installations c
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
-L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article 1er de la loi du 19 juillet 1976 (référence :
-
-art. 38 du décret du 21 septembre 1977).
+L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article 1er de la loi du 19 juillet 1976 (référence : art. 38 du décret du 21 septembre 1977).
 
 1.6. Changement d'exploitant
 
@@ -46,13 +44,21 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêté définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées (référence : art. 34-1 du décret du 21 septembre 1977).
 
+1.8. Contrôles périodiques
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe III, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier " installations classées " prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+
 II. Implantation, aménagement.
 
 2.1. (1)
 
 2.2. Intégration dans le paysage
 
-L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site. L'ensemble du site doit être maintenu en bon état de propreté (peinture, plantations, engazonnement, etc.).
+L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site.L'ensemble du site doit être maintenu en bon état de propreté (peinture, plantations, engazonnement, etc.).
 
 2.3. Interdiction d'habitations au-dessus des installations
 
@@ -98,7 +104,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 - 50 % de la capacité globale des réservoirs associés.
 
-Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autorisé que dans des réservoirs en fosse ou assimilés. L'étanchéité des réservoirs doit être contrôlable.
+Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autorisé que dans des réservoirs en fosse ou assimilés.L'étanchéité des réservoirs doit être contrôlable.
 
 Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres admis au transport, volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % la capacité totale avec un minimum de 800 litres si cette capacité excède 800 litres.
 
@@ -107,8 +113,6 @@ La capacité de rétention doit être étanche aux produits qu'elle pourrait con
 Des réservoirs ou récipients contenant des produits susceptibles de réagir dangereusement ensemble ne doivent pas être associés à la cuvette de rétention.
 
 Cette disposition ne s'applique pas aux bassins de traitement des résiduaires.
-
-(1) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2562, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
 
 III. Exploitation, entretien.
 
@@ -150,7 +154,7 @@ Sans préjudice des dispositions du code du travail, des matériels de protectio
 
 L'installation doit être dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur, notamment :
 
-- d'un ou plusieurs appareils d'incendie (bouches, poteaux ...) publics ou privés dont un implanté à 200 mètres au plus du risque, ou des points d'eau, bassins, citernes, etc., d'une capacité en rapport avec le risque à défendre ;
+- d'un ou plusieurs appareils d'incendie (bouches, poteaux...) publics ou privés dont un implanté à 200 mètres au plus du risque, ou des points d'eau, bassins, citernes, etc., d'une capacité en rapport avec le risque à défendre ;
 
 - d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles.
 
@@ -166,23 +170,23 @@ Ces matériels doivent être maintenus en bon état et vérifiés au moins une f
 
 4.3. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine, pour chacune de ces parties de l'installation, la nature du risque (incendie, atmosphères explosives ou émanations toxiques). Ce risque est signalé.
 
 4.4. Matériel électrique de sécurité
 
-Dans les parties de l'installation visées au point 4.3, "Localisation des risques", les installations électriques doivent être réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles doivent être entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc, ni étincelle, ni surface chaude susceptible de provoquer une explosion. Les canalisations ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
+Dans les parties de l'installation visées au point 4.3, " Localisation des risques ", les installations électriques doivent être réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles doivent être entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc, ni étincelle, ni surface chaude susceptible de provoquer une explosion. Les canalisations ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
+Dans les parties de l'installation, visées au point 4. 3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction doit être affichée en caractères apparents.
 
-4.6. "Permis de travail" et/ou "permis de feu" dans les parties de l'installation visée au point 4.3
+4.6. " Permis de travail " et /ou " permis de feu " dans les parties de l'installation visée au point 4.3
 
-Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits, etc.) ne peuvent être effectués qu'après délivrance d'un "permis de travail" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits, etc.) ne peuvent être effectués qu'après délivrance d'un " permis de travail " et éventuellement d'un " permis de feu " et en respectant les règles d'une consigne particulière.
 
-Le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière doivent être établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation doivent être consignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
+Le " permis de travail " et éventuellement le " permis de feu " et la consigne particulière doivent être établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le " permis de travail " et éventuellement le " permis de feu " et la consigne particulière relative à la sécurité de l'installation doivent être consignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations doivent être effectuée par l'exploitant ou son représentant.
 
@@ -190,9 +194,9 @@ Après la fin des travaux et avant la reprise de l'activité, une vérification 
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent doivent être établies, tenues à jour et affichées dans les lieux fréquentés par le personnel. Ces consignes doivent notamment indiquer :
 
-- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.3 "incendie" et, "atmosphères explosives" ;
+- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.3 " incendie " et, " atmosphères explosives " ;
 
-- l'obligation du "permis de travail" pour les parties de l'installation visées au point 4.3 ;
+- l'obligation du " permis de travail " pour les parties de l'installation visées au point 4.3 ;
 
 - les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
@@ -216,7 +220,7 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 V. Eau.
 
-5.1. prélèvements
+5.1. Prélèvements
 
 Les installations de prélèvement d'eau dans le milieu naturel peuvent être munies de dispositifs de mesure totalisateurs de la quantité d'eau prélevée. Ces dispositifs doivent être relevés toutes les semaines si le débit moyen prélevé est supérieur à 10 mètres cubes par jour. Le résultat de ces mesures doit être enregistré et à la disposition de l'inspecteur des installations classées.
 
@@ -240,19 +244,19 @@ La quantité d'eau rejetée doit être mesurée journellement ou à défaut éva
 
 5.5. Valeurs limites de rejet
 
-Sans préjudice des conventions de déversement dans le réseau public (art. L. 35-8 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
+Sans préjudice des conventions de déversement dans le réseau public (art.L. 35-8 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (NFT 90-008) ; 5,5 - 8,5 (9,5 en cas de neutralisation à la chaux) ;
+- pH (NFT 90-008) ; 5, 5-8, 5 (9, 5 en cas de neutralisation à la chaux) ;
 
-- température inférieure à 30° C.
+- température inférieure à 30 °C.
 
 b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration :
 
 - matières en suspension (NFT 90-105) : 600 milligrammes par litre ;
 
-- DCO (NFT 90-101) : 2.000 milligrammes par litre.
+- DCO (NFT 90-101) : 2. 000 milligrammes par litre.
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
@@ -262,11 +266,11 @@ c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissem
 
 d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- indice phénols (NFT 90-109) : 0,3 milligramme par litre si le flux est supérieur à 3 grammes par jour ;
+- indice phénols (NFT 90-109) : 0, 3 milligramme par litre si le flux est supérieur à 3 grammes par jour ;
 
-- chrome hexavalent (NFT 90-112) : 0,1 milligramme par litre si le flux est supérieur à 1 gramme par jour ;
+- chrome hexavalent (NFT 90-112) : 0, 1 milligramme par litre si le flux est supérieur à 1 gramme par jour ;
 
-- cyanures (ISO 6703/2) : 0,1 milligramme par litre si le flux est supérieur à 1 gramme par jour ;
+- cyanures (ISO 6703 / 2) : 0, 1 milligramme par litre si le flux est supérieur à 1 gramme par jour ;
 
 - hydrocarbures totaux (NFT 90-114) : 10 milligrammes par litre si le flux est supérieur à 100 grammes par jour ;
 
@@ -306,7 +310,7 @@ Le débouché des cheminées doit être éloigné au maximum des habitations et 
 
 Les effluents gazeux doivent respecter les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273 kelvins) et de pression (101,3 kilo pascals) après déduction de vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
 
-Poussières : 150 mg/Nm3 composés organiques volatils 50 mg/Nm3, si le flux est supérieur à 2 kg/h (hors méthane).
+Poussières : 150 mg /Nm3 composés organiques volatils 50 mg /Nm3, si le flux est supérieur à 2 kg /h (hors méthane).
 
 Le point de rejet doit dépasser d'au moins 3 mètres les bâtiments dans un rayon de 15 mètres.
 
@@ -324,7 +328,7 @@ En cas d'impossibilité, liée à l'activité ou aux équipements, d'effectuer u
 
 VII. Déchets.
 
-7.1. Récupération - recyclage
+7.1. Récupération-recyclage
 
 Toutes dispositions doivent être prises pour limiter les quantités de déchets produits, notamment en effectuant toutes les opérations de valorisation possibles. Les diverses catégories de déchets doivent être collectées séparément puis valorisées ou éliminées dans des installations appropriées.
 
@@ -338,11 +342,11 @@ La quantité de déchets stockés sur le site ne doit pas dépasser la capacité
 
 Les déchets banals (bois, papier, verre, textile, plastique, caoutchouc etc.) et non souillés par des produits toxiques ou polluants peuvent être récupérés, valorisés ou éliminés dans les mêmes conditions que les ordures ménagères.
 
-Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1.100 litres et qui les remettent au service de collecte et de traitement des communes (décret n° 94-609 du 13 juillet 1994).
+Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes (décret n° 94-609 du 13 juillet 1994).
 
 7.4. Déchets industriels spéciaux
 
-Les déchets industriels spéciaux doivent être éliminés dans des installations autorisées à recevoir ces déchets. L'exploitant doit être en mesure d'en justifier l'élimination ; les documents justificatifs doivent être conservés trois ans.
+Les déchets industriels spéciaux doivent être éliminés dans des installations autorisées à recevoir ces déchets.L'exploitant doit être en mesure d'en justifier l'élimination ; les documents justificatifs doivent être conservés trois ans.
 
 7.5. Brûlage
 
@@ -403,3 +407,5 @@ En fin d'exploitation, tous les produits dangereux ainsi que tous les déchets d
 9.2. Traitement des cuves
 
 Les cuves ayant contenu des produits susceptibles de polluer les eaux doivent être vidées, nettoyées, dégazées et, le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles doivent être rendues inutilisables par remplissage avec un matériau solide inerte.
+
+(1) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2562, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
