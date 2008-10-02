@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705180
+
+- Question : [SEQ080705180](seq080705180.md) — Suppression définitive des restitutions aux exportations
+
+## Réponse
+
+*Agriculture, JO du 2008-10-02, page 1981*
+
+Les réformes de la politique agricole commune (PAC) menées de 1992 à 2003 ont été conduites avec le double objectif de préserver une agriculture durable et de minimiser l'impact sur le commerce. Ceci s'est notamment traduit par un effort de découplage des aides qui sont dorénavant, pour 70 % de leur montant global, déconnectées de la production effective des agriculteurs. De la même manière, les restitutions à l'exportation ont été diminuées très fortement : elles ont été divisées par 30 entre 1990 et aujourd'hui. En 2005, dans le cadre des négociations du cycle de Doha, l'Union européenne a offert de supprimer totalement ses restitutions aux exportations d'ici à 2013 à la condition que ses partenaires prennent des engagements équivalents concernant leurs outils de subventions aux exportations. Il s'agit notamment de l'aide alimentaire américaine en nature, des subventions liées aux crédits à l'exportation utilisés notamment aux États-Unis et au Brésil ainsi que les monopoles exercés par les entreprises d'État présentes par exemple en Australie et au Canada. En effet, l'Union européenne ne souhaite pas être la seule à faire des efforts en abandonnant un outil de rééquilibrage des marchés en cas de crises ; seule la suppression conjointe de toutes les formes d'aides à l'exportation pourra permettre d'avoir les effets attendus, et particulièrement pour les pays en développement. La suite à donner à cette offre dépendra donc de l'évolution des négociations internationales dans les semaines et mois à venir ainsi que de la volonté de nos partenaires à consentir à de réels efforts en faveur des pays les plus pauvres.
