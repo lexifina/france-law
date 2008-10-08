@@ -12,7 +12,7 @@ A2FL - s1 en plancher, au sol.
 
 Lorsque les produits concernés ne sont pas encore marqués CE, le classement M0 peut également attester de la performance requise ;
 
-Lorsque des produits combustibles, connexes aux isolants incorporés aux parois, sont associés en usine ou sur chantier aux isolants précités, l'ensemble composite obtenu est réputé répondre aux objectifs de sécurité du présent article et du guide d'emploi des isolants combustibles dans les établissements recevant du public à condition que les produits combustibles rapportés ne soient pas en contact avec l'air ambiant.
+Les revêtements absorbants acoustiques dont la résistance thermique est inférieure à 0,5 m².K/W ou dont la conductivité thermique est supérieure à 0,065 W/m.K ne sont pas assujettis aux dispositions du présent article.
 
 b) Etre protégés par un écran thermique disposé sur la ou les faces susceptibles d'être exposées à un feu intérieur au bâtiment. Cet écran doit jouer son rôle protecteur, vis-à-vis de l'action du programme thermique normalisé, durant au moins :
 
@@ -27,3 +27,5 @@ Le "guide d'emploi des isolants combustibles dans les établissements recevant d
 NOTA :
 
 Arrêté du 4 juillet 2007 annexe : L'application de l'article AM 8 aux revêtements d'isolation acoustique est suspendue pour une durée d'un an.
+
+(1) Le "guide d'emploi des isolants combustibles dans les établissements recevant du public" est annexé à l'arrêté du 6 octobre 2004 portant approbation de dispositions complétant et modifiant le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public.
