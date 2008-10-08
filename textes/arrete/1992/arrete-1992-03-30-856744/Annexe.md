@@ -20,7 +20,7 @@ Dunkerque |
 
 Dunkerque (Nord) |
 
-20
+12
 
 |
 
@@ -28,7 +28,7 @@ Boulogne-sur-mer |
 
 Boulogne-sur-mer (Pas-de-Calais) |
 
-42
+36
 
 |
 
@@ -40,7 +40,7 @@ Dieppe (Seine-Maritime)
 
 |
 
-40
+21
 
 |
 
@@ -48,7 +48,7 @@ Fécamp |
 
 Fécamp (Seine-Maritime) |
 
-12
+10
 
 |
 
@@ -112,7 +112,7 @@ Saint-Malo |
 
 Saint-Malo (Ille-et-Vilaine) |
 
-40
+30
 
 |
 
@@ -128,7 +128,7 @@ Paimpol |
 
 Paimpol (Côtes d'Armor) |
 
-25
+26
 
 |
 
@@ -136,7 +136,7 @@ Nord-Finistere |
 
 Plougastel-Daoulas (Finistere) |
 
-52
+29
 
 |
 
@@ -160,7 +160,7 @@ Le Guilvinec |
 
 Le Guilvinec (Finistere) |
 
-64
+34
 
 |
 
@@ -192,7 +192,7 @@ La Turballe |
 
 La Turballe (Loire-Atlantique) |
 
-20
+13
 
 |
 
@@ -200,7 +200,7 @@ Loire-Atlantique-Sud |
 
 Le Croisic (Loire-Atlantique) |
 
-26
+18
 
 |
 
@@ -216,7 +216,7 @@ Ile-d'Yeu |
 
 Port-Joinville (Vendée) |
 
-28
+20
 
 |
 
@@ -232,7 +232,7 @@ Les Sables d'Olonne |
 
 Les Sables d'Olonne (Vendée) |
 
-26
+20
 
 |
 
@@ -280,7 +280,7 @@ Port-vendres |
 
 Port-vendres (Pyrénées-Orientales) |
 
-27
+23
 
 |
 
