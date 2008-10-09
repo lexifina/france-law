@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080805354
+
+- Question : [SEQ080805354](seq080805354.md) — Mode de scrutin des élections municipales
+
+## Réponse
+
+*Intérieur, JO du 2008-10-09, page 2035*
+
+Le mode d'élection des conseillers municipaux dans les communes de moins de 3 500 habitants a été conçu pour assurer une grande liberté de choix, notamment par la pratique du panachage. Ce mode de scrutin est conforme à l'esprit qui a animé la loi du 5 avril 1884 fondant les bases républicaines des libertés communales. Il garantit aux électeurs la désignation de citoyens disposant de leur confiance en mettant l'accent sur les personnes plutôt que sur les consignes partisanes. En autorisant dans les communes de moins de 2 500 habitants les candidatures isolées, les listes comprenant plus ou moins de noms qu'il y a de sièges à pourvoir, ainsi que le recours à des personnes non candidates, le mode d'élection actuel permet de pallier le déficit de candidatures dû aux difficultés de constitution des listes dans de nombreuses communes et de favoriser le pluralisme. Ce mode de scrutin s'accompagne toutefois d'opérations de dépouillement complexes. La solution qui consisterait à instituer l'obligation de dépôt de candidature ne résoudrait pas nécessairement cette situation. Elle pourrait de plus engendrer des contraintes nouvelles incompatibles avec la volonté du Gouvernement de supprimer les démarches administratives superflues. L'obligation de dépôt de candidature, si elle concernait 34 000 communes, nécessiterait l'enregistrement de plusieurs centaines de milliers de candidatures dans des délais brefs. Elle pourrait également se solder par une démocratie de proximité moins souple et plus formelle. Toutefois, le Gouvernement est conscient des difficultés posées par la législation en vigueur. En conséquence, il n'est pas opposé à engager une réflexion sur l'évolution du seuil de population.
