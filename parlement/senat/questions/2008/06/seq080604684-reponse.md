@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604684
+
+- Question : [SEQ080604684](seq080604684.md) — Loteries avec pré-tirage
+
+## Réponse
+
+*Économie, JO du 2008-10-09, page 2032*
+
+Depuis le 1er janvier 2007 et en application du règlement n° 2006/2004 du Parlement européen et du Conseil du 27 octobre 2004, un réseau de coopération (réseau CPC) a été mis en place entre autorités de contrôle des États membres de l'Union européenne en charge des questions de consommation. Ce réseau facilite l'échange d'informations entre ces autorités et permet la demande d'enquêtes ou encore, pour les dossiers qui le nécessitent, des requêtes d'action en cessation de la pratique litigieuse constatée. En application du règlement, les autorités requises par leurs homologues ont l'obligation de répondre aux demandes qu'elles reçoivent. Elles ne peuvent refuser de s'exécuter que dans des cas limités prévus par le règlement notamment lorsqu'une procédure judiciaire, par exemple, est en cours. En ce qui concerne plus précisément les pratiques de la société Friedrich Mueller, celles-ci sont connues de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF). C'est la raison pour laquelle les autorités françaises (DGCCRF) ont, dès connaissance des premières plaintes de consommateurs, demandé aux autorités autrichiennes la cessation de ces pratiques. La première demande a été faite le 6 avril 2007. Les autorités autrichiennes ont indiqué avoir connaissance des pratiques de cette société et une enquête a été ouverte par le ministère fédéral des affaires sociales et de la protection des consommateurs sur la base des plaintes de consommateurs français. À la suite de cette enquête, les autorités autrichiennes ont récemment saisi la Cour commerciale de Vienne (Handelsgericht Wien) et lui ont demandé de prendre des mesures provisoires afin de faire cesser l'activité de la société Friedrich Mueller.
