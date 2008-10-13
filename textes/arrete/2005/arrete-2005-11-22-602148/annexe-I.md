@@ -1,7 +1,5 @@
 # Article annexe I
 
-A N N E X E 1
-
 RÈGLES TECHNIQUES APPLICABLES AUX TRACTEURS T1, T2
 
 ET T3 ET DOMAINES DE COMPÉTENCE
@@ -333,6 +331,8 @@ Champ de vision et essuie-glaces (2) (3) (5).
 |
 
 74/347/CEE
+
+2008/2/CE (7)
 
 |
 
@@ -1135,6 +1135,8 @@ X
 (5) Conformité facultative pour la réception CE de petite série, telle que définie à l'article 9 de la directive 2003/37/CE et en nombre limité à la valeur fixée par l'annexe V de la directive 2003/37/CE.
 
 (6) Si le constructeur se réfère à la directive 76/115/CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture.
+
+(7) Applicable à compter du 1er mai 2008 aux nouveaux types de véhicules.
 
 x = applicable en l'état suivant dernier amendement.
 
