@@ -1,0 +1,147 @@
+# Article 1er
+
+L'article 3.4 relatif aux cas de suspension du contrat de travail est annulé et remplacé par le nouvel article 3.4 suivant :
+
+« Le contrat de travail est suspendu notamment dans les cas suivants :
+
+― la maladie ;
+
+― l'accident du travail ou maladie professionnelle ;
+
+― la maternité ou l'adoption ;
+
+― le congé parental d'éducation ;
+
+― le congé de présence parentale ;
+
+― le congé de solidarité familiale ;
+
+― le congé de formation professionnelle à l'initiative du salarié : congé individuel de formation (CIF) ;
+
+― le congé bilan de compétences ;
+
+― le congé validation des acquis de l'expérience (VAE) ;
+
+― le congé pour examen ;
+
+― le congé de formation économique sociale et syndicale ;
+
+― le congé d'enseignement ou de recherche ;
+
+― les congés pour événements familiaux ;
+
+― le mandat parlementaire ;
+
+― le congé sabbatique ;
+
+― le congé pour création d'entreprise ;
+
+― le congé de solidarité internationale...
+
+Ces congés sont indemnisés selon les règles légales et conventionnelles.
+
+Les congés sont pris en compte pour la détermination de tous les avantages légaux et conventionnels liés à l'ancienneté dans l'entreprise selon le tableau ci-dessous.
+
+CAS DE SUSPENSION |
+
+DROIT À ANCIENNETÉ |
+
+DROIT À CONGÉS PAYÉS |
+
+Maladie |
+
+oui |
+
+oui
+
+(3 mois de maladie au
+
+maximum par an) |
+
+Maladie professionnelle et accident du travail |
+
+oui |
+
+oui |
+
+Maternité et adoption |
+
+oui |
+
+oui |
+
+Congé parental |
+
+oui |
+
+non |
+
+|
+
+(pour 50 % de la durée) |
+
+|
+
+Congé de solidarité familiale |
+
+oui |
+
+non |
+
+CIF, VAE |
+
+oui |
+
+oui |
+
+Bilan de compétences, examen |
+
+oui |
+
+oui |
+
+Congé de formation économique |
+
+oui |
+
+oui |
+
+Evénements familiaux |
+
+oui |
+
+oui |
+
+Enseignement ou recherche |
+
+oui |
+
+non |
+
+Congé sabbatique |
+
+non |
+
+non |
+
+Création d'entreprise |
+
+non |
+
+non |
+
+Mandat parlementaire |
+
+oui |
+
+oui |
+
+Solidarité internationale |
+
+oui |
+
+non |
+
+Pendant les périodes de suspension du contrat, le salarié continue à faire partie de l'effectif.
+
+A l'issue de son congé, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente sans préjudice des dispositions spécifiques en matière de congé maternité et d'adoption telles que prévues par les articles L. 1225-17 et suivants du code du travail. »
