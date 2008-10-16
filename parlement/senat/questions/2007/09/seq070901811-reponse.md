@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901811
+
+- Question : [SEQ070901811](seq070901811.md) — Reconnaissance juridique du parrainage civil
+
+## Réponse
+
+*Justice, JO du 2008-10-16, page 2079*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, si elle comprend son souci de voir le rôle et la place des parrain et marraine dans l'éducation de l'enfant reconnus, notamment dans les circonstances difficiles de son existence, il ne saurait pour autant être envisagé de leur conférer un statut spécifique et de faire mention de leur qualité sur les actes de l'état civil. En effet, le parrainage civil, qui procède d'une coutume, ne comporte aucun cérémonial préétabli et ne revêt aucun caractère obligatoire pour le maire sollicité. En outre, l'état civil, qui a pour objet de consigner dans des actes authentiques les éléments relatifs au statut personnel ou familial des personnes, ne saurait contenir des informations relevant d'un engagement d'ordre privé, moral, laïc ou religieux des parents et des parrain et marraine choisis par ces derniers. Par ailleurs, si l'un des parents décède, le survivant peut désigner, par tutelle testamentaire, le parrain ou la marraine comme tuteur de l'enfant. En cas de décès des deux parents et en l'absence de tutelle testamentaire, le nouvel article 404 du code civil, qui entrera en vigueur le 1er janvier 2009, permet, en l'absence de tutelle testamentaire, au conseil de famille de désigner un tuteur au mineur, membre de la famille ou non, selon ce que son intérêt exige. Ainsi, la dévolution automatique de la tutelle à l'ascendant le plus proche est supprimée. Enfin, les parrain et marraine peuvent être appelés par le juge à faire partie du conseil de famille. Ces mesures paraissent de nature à répondre aux préoccupations de l'honorable parlementaire.
