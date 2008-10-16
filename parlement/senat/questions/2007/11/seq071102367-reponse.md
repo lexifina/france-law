@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102367
+
+- Question : [SEQ071102367](seq071102367.md) — Décrets fixant le transfert définitif des services de l'État affectés au dispositif d'allocation du RMI
+
+## Réponse
+
+*Intérieur, JO du 2008-10-16, page 2077*
+
+Le transfert de compétence opéré au profit des départements en matière de RMI, par la loi du 18 décembre 2003, et les transferts au profit des départements et des régions de nouvelles compétences dans le domaine sanitaire et social et en matière de formation, décidés par la loi du 13 août 2004, ont conduit à mettre à disposition de ces collectivités territoriales, au 1er janvier 2004 puis au 1er janvier 2005, des personnels des directions départementales et régionales des affaires sanitaires et sociales. Dès lors, il a paru opportun de régler dans un même texte la situation de l'ensemble de ces personnels de l'État. Cependant, un désaccord s'étant manifesté quant à l'estimation des moyens consacrés par l'État à l'exercice des compétences transférées, l'élaboration du décret fixant les modalités de transfert définitif des services de l'État a nécessité un long travail d'évaluation et la constitution d'une mission d'inspection conjointe IGA/IGAS, qui a rendu ses conclusions au second semestre 2007. Il est également apparu que, dans certains départements, des agents relevant du ministère de l'intérieur intervenaient dans ces matières transférées. Ces agents ont donc été mis à disposition du président du conseil général. À l'issue des différentes consultations prévues par les textes, le décret vient d'être publié au JO du 21 août 2008 (décret n° 2008-791 du 20 août 2008). Cette publication ouvre le délai de deux ans dont disposent les fonctionnaires concernés, en application de l'article 109 de la loi du 13 août 2004, pour opter, soit pour le statut de fonctionnaire territorial, soit pour le maintien de leur statut de fonctionnaire de l'État.
