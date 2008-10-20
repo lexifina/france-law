@@ -1,0 +1,9 @@
+# Paris : acte V44 M — Voeu relatif au financement du logement social.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2008-10-20
+- Nature : VNR
+- Objet : Voeu relatif au financement du logement social.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
