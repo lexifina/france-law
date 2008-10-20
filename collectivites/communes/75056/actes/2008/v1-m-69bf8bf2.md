@@ -1,0 +1,9 @@
+# Paris : acte V1 M — Voeu relatif à la crise économique et à ses conséquences sur la vie des parisiens
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2008-10-20
+- Nature : V
+- Objet : Voeu relatif à la crise économique et à ses conséquences sur la vie des parisiens
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
