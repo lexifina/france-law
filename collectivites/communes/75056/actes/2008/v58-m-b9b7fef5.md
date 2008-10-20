@@ -1,0 +1,9 @@
+# Paris : acte V58 M — Voeu relatif au projet de délibération 2008 DU 184 sur la pertinence du projet de liaison C.D.G. Express et aux solutions alternatives à mettre en oeuvre. (Les Verts)
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2008-10-20
+- Nature : V
+- Objet : Voeu relatif au projet de délibération 2008 DU 184 sur la pertinence du projet de liaison C.D.G. Express et aux solutions alternatives à mettre en oeuvre. (Les Verts)
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
