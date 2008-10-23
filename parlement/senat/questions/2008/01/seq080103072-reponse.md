@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080103072
+
+- Question : [SEQ080103072](seq080103072.md) — Délais d'acheminement des bulletins municipaux par La Poste
+
+## Réponse
+
+*Économie, JO du 2008-10-23, page 2116*
+
+L'offre « Municipost » a été élaborée en 2004 afin de répondre spécifiquement aux besoins de communication des petites communes de France, notamment en ce qui concerne la diffusion des bulletins municipaux. Cette offre de communication non adressée de proximité comporte deux produits : « Municipost standard » et « Municipost Plus », qui cible également les boîtes aux lettres sur lesquelles est apposé un autocollant « Stop ». La signature, le dépôt et la facturation sont effectués simultanément au guichet de n'importe quel établissement postal du département de diffusion. Cette procédure a été mise au point en collaboration avec la direction générale de la comptabilité publique. Toute collectivité locale peut, en outre, bénéficier d'un règlement différé sur simple demande. Dans ces conditions, la facture est émise après distribution du bulletin municipal. Bien évidemment, il existe un délai incompressible de quelques jours nécessaires aux traitements logistique et informatique. Dans le cas général, la commune peut contracter avec le centre de distribution jusqu'au mercredi midi précédant la semaine de diffusion, soit 3 jours ouvrés avant le lundi du début de distribution. Pour une contractualisation auprès d'un autre établissement postal du département, le délai est porté à 6 jours ouvrés. Pour les communes de plus de 6 000 habitants, La Poste propose deux offres spécialement adaptées : « Geo » et « Geo Public Plus ». « Geo » permet d'atteindre toutes les boîtes aux lettres accessibles de la commune et « Geo Public Plus » permet, en outre, l'accès aux boîtes aux lettres « Stop-pub ». Dans tous les cas, les mairies peuvent obtenir toutes les précisions utiles auprès de leur interlocuteur courrier habituel.
