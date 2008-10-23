@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604657
+
+- Question : [SEQ080604657](seq080604657.md) — Délais de paiement
+
+## Réponse
+
+*Économie, JO du 2008-10-23, page 2119*
+
+La réforme des délais de paiement dans les relations industrie-commerce, inscrite dans la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, prévoit un plafonnement des délais de paiement à 60 jours. Cette réforme a pour ambition de permettre à la France de rattraper son retard actuel en matière de délais de paiement, voire de faire mieux que ses partenaires européens, et d'améliorer la compétitivité des entreprises, notamment les PME. En effet, des délais de paiement plus longs obligent les PME à constituer des fonds de roulement importants qui pèsent sans justification sur leurs besoins de financement et les fragilisent. Toutefois, un délai de paiement maximum supérieur à celui prévu par la loi pourra être temporairement accordé à certains secteurs. La loi prévoit la possibilité, pour des secteurs déterminés, de déroger sous condition et temporairement au plafond légal par le biais d'accords interprofessionnels en convenant d'un délai de paiement maximum supérieur au délai légal. La validité de tels accords de dérogation est soumise au respect de plusieurs conditions cumulatives : la motivation de dépassement du délai légal par des raisons économiques objectives et spécifiques au secteur ; le fait, pour l'accord, de prévoir la réduction progressive du délai dérogatoire vers le délai légal mais également, condition supplémentaire rajoutée par l'Assemblée nationale, l'application d'intérêts de retard en cas de non-respect de l'objectif fixé par l'accord ; sa limitation dans la durée, qui ne peut en tout état de cause dépasser le 1er janvier 2012. Ces accords sont reconnus comme satisfaisant à ces conditions par décret après avis du Conseil de la concurrence.
