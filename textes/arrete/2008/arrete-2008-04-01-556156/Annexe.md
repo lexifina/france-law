@@ -56,7 +56,7 @@ Zone de protection :
 
 - département d'Eure-et-Loir ;
 
-- département du Finistère ;
+- département du Finistère : canton de Arzano, Pont-Aven, Quimperlé ;
 
 - département du Gard : arrondissements d'Alès, Nîmes ;
 
@@ -96,7 +96,7 @@ Zone de protection :
 
 - département de la Meuse ;
 
-- département du Morbihan ;
+- département du Morbihan : arrondissement de Vannes, Lorient et cantons de Baud, Cléguérec, Guéméné-sur-Scorff, Josselin, Locminé, Pontivy, Rohan, Saint-Jean-Brévelay ;
 
 - département de la Moselle ;
 
@@ -198,7 +198,9 @@ Zone de protection :
 
 - département de la Dordogne ;
 
-- département du Gard : arrondissement de Vigan ;
+- département du Finistère : arrondissement de Brest, Châteaulin, Morlaix et cantons de Bannalec, Briec, Concarneau, Douarnenez, Fouesnant, Plogastel-Saint-Germain, Pont-Croix, Pont-l'Abbé, Rosporden, Scaër, Quimper 2e canton, Guilvinec, Quimper 3e canton, Quimper, Ouessant ;
+
+- département du Gard : arrondissement du Vigan ;
 
 - département de la Haute-Garonne ;
 
@@ -215,6 +217,8 @@ Zone de protection :
 - département de Lot-et-Garonne ;
 
 - département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil ;
+
+- département du Morbihan : cantons de Faouët, Gourin ;
 
 - département des Pyrénées-Atlantiques ;
 
@@ -234,6 +238,8 @@ Zone de protection :
 
 - département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
 
+.
+
 NOTA :
 
-Décret n° 2008-1062 du 17 octobre 2008 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française l'arrêté du 24 septembre 2008 modifiant l'arrêté du 1er avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale du mouton.
+Décret n° 2008-1090 du 27 octobre 2008 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française l'arrêté du 27 octobre 2008 modifiant l'arrêté du 1er avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale du mouton.
