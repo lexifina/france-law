@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905482
+
+- Question : [SEQ080905482](seq080905482.md) — Opérations commerciales dites "happy hours" dans les bars-cafés
+
+## Réponse
+
+*Santé, JO du 2008-10-30, page 2189*
+
+L'interdiction de la promotion des boissons alcooliques par le biais de tarifs incitatifs dans tous les lieux de vente et de consommation, en particulier lors des « happy hours » (promotion, durant une plage horaire limitée, pratiquée sur les boissons alcoolisées, le plus souvent la bière, auxquelles sont appliquées le prix d'une boisson pour deux consommées), figure parmi les quinze propositions et recommandations formulées en 2007 par le professeur Nordmann de l'académie nationale de médecine, relatives à l'évolution des conduites d'alcoolisation des jeunes. Néanmoins, il n'est pas apparu qu'une disposition législative devait être prise en France à ce sujet. Le plan gouvernemental contre les drogues et les toxicomanies 2008-2011 affirme la nécessité de prévenir les premières consommations, de conduire une action résolue de réduction de l'offre et de diversifier la prise en charge sanitaire des usagers. Il appuie et développe la démarche, initiée avec le plan « santé des jeunes », qui vise à réduire l'offre d'alcool. Le plan prévoit, en particulier, une simplification de la législation pour interdire, et cela pour toutes les catégories de boissons alcooliques, la vente à emporter ou à consommer sur place aux jeunes de moins de 18 ans, ainsi que la vente au forfait ou « open bar » (entrée payante et boissons à volonté). Ces mesures devraient être intégrées à la loi « hôpital, patients, santé, territoires » en cours d'élaboration. C'est dans le prolongement de cette politique que la pratique des « happy hours » mérite quant à elle d'être mieux encadrée, non sur le plan réglementaire, mais en partenariat avec les professionnels.
