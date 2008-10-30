@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705151
+
+- Question : [SEQ080705151](seq080705151.md) — Consultation par les conseillers municipaux des documents préparatoires à une délibération du conseil municipal
+
+## Réponse
+
+*Intérieur, JO du 2008-10-30, page 2183*
+
+Tout conseiller municipal a le droit, dans le cadre de sa fonction, d'être informé des affaires de la commune qui font l'objet d'une délibération, en vertu du principe posé par l'article L. 2121-13 du code général des collectivités territoriales. Le juge administratif, en cas de recours contentieux, vérifie que les conseillers municipaux ont reçu une information suffisante sur l'affaire soumise à délibération. Si l'absence de note explicative de synthèse ou, à défaut, de documents équivalents est de nature à entacher d'illégalité la délibération, le fait qu'un conseiller n'ait pas eu communication de documents qui ne paraissent pas essentiels à son information n'est pas de nature à justifier l'annulation de la délibération (CAA de Bordeaux, 8 juillet 2008 n° 07BX00166 ; CAA de Versailles, 3 juillet 2008 n° 07VE01824). Le droit à l'information des conseillers municipaux, comme de toute autre personne, est par ailleurs garanti par les dispositions de la loi n° 78-753 du 17 juillet 1978 modifiée portant diverses mesures d'amélioration des relations entre l'administration et le public qui a institué la liberté d'accès aux documents administratifs. L'article 1er de cette loi, dans sa rédaction issue de l'ordonnance n° 2005-650 du 6 juin 2005, précise que sont considérés comme documents administratifs, quel que soit le support utilisé, les documents détenus notamment par les collectivités territoriales. Les documents relatifs à la pollution d'une rivière détenus par les services municipaux sont donc en principe communicables, sous le contrôle, le cas échéant, de la commission d'accès aux documents administratifs.
