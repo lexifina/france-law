@@ -1,7 +1,5 @@
 # Article Annexe 1
 
-.
-
 HABITATS NATURELS
 
 d'intérêt communautaire
@@ -219,6 +217,28 @@ Récifs
 |
 
 X
+
+|
+
+|
+
+X
+
+|
+
+Structures sous-marines causées
+
+par des émissions de gaz
+
+|
+
+1180
+
+|
+
+|
+
+|
 
 |
 
