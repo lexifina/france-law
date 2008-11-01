@@ -1,37 +1,87 @@
 # Article Annexe I
 
-NOMBRE de personnes destinées à occuper le logement : 1
+PLAFONDS DE RESSOURCES DU PRÊT D'ACCESSION SOCIALE (PAS) EN APPLICATION DE L'ARTICLE R. 331-66 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION
 
-ZONE A (en euros) : 19 005
+NOMBRE
 
-ZONE B OU C (en euros) : 15 183
+de personnes
 
-NOMBRE de personnes destinées à occuper le logement : 2
+destinées
 
-ZONE A (en euros) : 27 895
+à occuper
 
-ZONE B OU C (en euros) : 22 205
+le logement
 
-NOMBRE de personnes destinées à occuper le logement : 3
+|
 
-ZONE A (en euros) : 33 500
+ZONE A
 
-ZONE B OU C (en euros) : 26 705
+(en euros)
 
-NOMBRE de personnes destinées à occuper le logement : 4
+|
 
-ZONE A (en euros) : 39 118
+ZONE B OU C
 
-ZONE B OU C (en euros) : 31 199
+(en euros)
 
-NOMBRE de personnes destinées à occuper le logement : 5
+|
 
-ZONE A (en euros) : 44 751
+1
 
-ZONE B OU C (en euros) : 35 713
+|
 
-Par personne supplémentaire :
+31 250
 
-ZONE A (en euros) : 5 623
+|
 
-ZONE B OU C (en euros) : 4 498
+23 688
+
+|
+
+2
+
+|
+
+43 750
+
+|
+
+31 588
+
+|
+
+3
+
+|
+
+50 000
+
+|
+
+36 538
+
+|
+
+4
+
+|
+
+56 875
+
+|
+
+40 488
+
+|
+
+5 personnes et plus
+
+|
+
+64 875
+
+|
+
+44 425
+
+|
