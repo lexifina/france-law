@@ -1,0 +1,151 @@
+# Délibération n° 2008-379 du 6 novembre 2008 portant avis sur un projet de décret en Conseil d'Etat portant création d'un traitement automatisé de données à caractère personnel dénommé « ARDOISE - Rédaction de procédure » (dossier n° 1297248)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2008-379
+- Date : 2008-11-06
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000024027829
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie pour avis par le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales le 30 mai 2008 et le 29 septembre 2008 d'un projet de décret en Conseil d'Etat portant création d'un traitement automatisé de données à caractère personnel dénommé Ardoise - Rédaction de procédure ,
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé de données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, et notamment ses articles 8, 26, 32, 41 et 42 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifié par le décret n° 2007-451 du 25 mars 2007 ;
+
+Après avoir entendu M. Jean-Marie Cotteret, commissaire, en son rapport, et Mme Pascale Compagnie, commissaire du Gouvernement, en ses observations,
+
+Emet l'avis suivant :
+
+La commission a été saisie le 30 mai 2008 et le 29 septembre 2008 par le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales d'un dossier de formalités préalables relatif à la mise en œuvre d'un traitement de données à caractère personnel dénommé ARDOISE - Rédaction de procédure (Application de recueil de la documentation opérationnelle et d'informations statistiques sur les enquêtes - Rédaction de procédure), lequel comporte un projet de décret en Conseil d'Etat portant création dudit traitement, en application des dispositions du II de l'article 26 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004.
+
+Selon le ministère de l'intérieur, l'application déclarée consiste en une première version technique d'ARDOISE, limitée en termes de fonctionnalités. En effet, seul le module bureautique sera activé. Ladite application permettra, comme le logiciel de rédaction des procédures (LRP), actuellement utilisé dans les commissariats, de rédiger les procès-verbaux ainsi que les rapports administratifs ou judiciaires. Elle permettra par la suite d'alimenter directement les principaux traitements nationaux, qui composeront le nouveau système d'information destiné à l'investigation de la police nationale (NS2I). En effet, l'application a été conçue pour être le principal vecteur d'alimentation immédiate et cohérente des traitements ARIANE (mutualisation des fichiers STIC et JUDEX), FOVES (refonte du fichier des véhicules volés, des objets traités par le STIC et du fichier des objets signalés de la gendarmerie nationale en un futur fichier des objets et véhicules signalés), STATOP et STAT 4001 (statistiques opérationnelles et institutionnelles).
+
+L'application ARDOISE est définie comme un traitement national, constitué d'une base centrale, structurée en sous-bases logiquement distinctes, propres à chaque unité territoriale.
+
+La version complète de l'application ARDOISE fera l'objet d'une nouvelle demande d'avis.
+
+Sur la mise en œuvre d' ARDOISE et du nouveau système d'information destiné à l'investigation de la police nationale :
+
+Dans son principe, la mise en œuvre de la présente version de l'application ARDOISE vise à permettre aux utilisateurs de se familiariser progressivement avec ce nouveau logiciel de rédaction des procédures. En effet, s'il présente certes des fonctions rédactionnelles équivalentes à celles du LRP (lequel est maintenu dans les services de police parallèlement à cette version d'ARDOISE), il n'en constitue pas moins un outil nouveau d'aide à l'accomplissement des formalités procédurales.
+
+Dans ces conditions, le déploiement progressif de l'application devrait permettre de mettre en évidence les améliorations ou modifications fonctionnelles ou techniques nécessaires, afin que, dans une version définitive, l'outil bureautique retenu permette l'alimentation directe des systèmes d'information nationaux de police judiciaire.
+
+La commission estime que la mise en œuvre de l'application ARDOISE - Rédaction de procédure devrait faire l'objet d'une procédure d'évaluation formalisée, dont les résultats seraient portés à la connaissance de la commission préalablement à l'examen de la version complète d'ARDOISE.
+
+Sur l'application ARDOISE - Rédaction de procédure :
+
+Sur les finalités :
+
+Aux termes de l'article 1er du projet de décret, l'application ARDOISE entend permettre aux services de police, à l'occasion de l'exercice de leurs missions de police judiciaire et administrative, d'assurer la rédaction des procédures judiciaires et administratives et la collecte des informations qui en sont issues .
+
+Le traitement ARDOISE, objet de la présente demande d'avis ne porte que sur la fonction bureautique, laquelle permet aux fonctionnaires de police de rédiger les procès-verbaux et les rapports judiciaires ou administratifs. L'application ARDOISE - Rédaction de procédure n'a vocation ni ne permet l'alimentation directe des fichiers d'antécédents et de recherche actuellement mis en œuvre par le ministère de l'intérieur. Ainsi, la mise en œuvre de cette première version d'ARDOISE ne permet de collecter que les seules informations nécessaires à la rédaction des procédures, à l'exclusion de toutes autres données.
+
+C'est pourquoi la commission considère que les dispositions du premier alinéa de l'article 1er du projet de décret, qui ont trait aux finalités du traitement, devraient être modifiées afin de préciser que le traitement vise à assurer la rédaction des procédures judiciaires et administratives .
+
+Enfin, elle estime nécessaire que les procédures administratives visées à l'article 1er du projet de décret soient expressément définies aux termes d'un acte réglementaire.
+
+Sur les données conservées :
+
+Sur la rédaction des procédures judiciaires :
+
+Il est précisé aux termes du second alinéa de l'article 1er du projet de décret qu'il peut être procédé à l'enregistrement des données à caractère personnel de la nature de celles mentionnées au I de l'article 8 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004, dans la stricte mesure où ces données sont nécessaires à la poursuite des finalités du traitement.
+
+Elle prend acte de ce que le ministère de l'intérieur a indiqué que la collecte de données sensibles serait subordonnée aux circonstances particulières ou à la nature de l'infraction, dans le cadre des procédures judiciaires.
+
+La commission considère qu'il devrait néanmoins être précisé aux termes du projet de décret que les données précitées pourront être traitées dans le cadre de l'établissement des documents de procédure à partir du recueil des déclarations des personnes entendues et, s'agissant des zones formatées de saisie, dans les seuls cas où elles concerneront les personnes mises en causes ou les victimes.
+
+En outre, à l'instar de ce qui est prévu aux termes du second alinéa de l'article 1er du décret du 5 juillet 2001 modifié relatif au système de traitement des infractions constatées (STIC), la commission estime que le second alinéa de l'article 1er du projet de décret devrait être modifié afin qu'il soit précisé que l'application peut traiter des données à caractère personnel de la nature de celles mentionnées à l'article 8 de la loi du 6 janvier 1978 dans les seuls cas où ces informations résultent de la nature ou des circonstances de l'infraction ou se rapportent à des signes physiques particuliers, objectifs et permanents, en tant qu'éléments de signalement des personnes, dès lors que ces éléments sont nécessaires à la recherche et à l'identification des auteurs des infractions pénales objet des procédures judiciaires .
+
+La commission considère qu'il devrait également être interdit de sélectionner une catégorie particulière de personnes à partir des données de la nature de celles énoncées à l'article 8 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004, et estime que le projet de décret devrait être modifié en ce sens. En effet, le traitement ayant pour but exclusif la rédaction des procédures, l'article 3 du projet de décret devrait préciser dans un premier alinéa que l'accès aux données n'est possible que par l'intermédiaire du numéro de la procédure, à l'exclusion de tout autre mode de recherche.
+
+La commission prend acte de ce que le projet de décret a été modifié afin qu'il soit précisé que sont également enregistrées les informations qui concernent les faits objet de l'enquête, les lieux, date de l'infraction ainsi que les informations relatives aux objets y compris celles qui sont indirectement nominatives . Elle estime toutefois que la notion de personne mise en cause , qui figure dans l'annexe au projet de décret, devrait être précisée aux termes de ce dernier, en faisant référence aux dispositions du II de l'article 21 de la loi n° 2003-239 du 18 mars 2003, modifiée.
+
+Elle prend acte de ce que le thésaurus relatif à l'état des personnes ne comporte plus que quinze rubriques, lesquelles décrivent soit une situation objective (évadé, détenu, décédé, touriste, auto-stoppeur, usager des transports en commun), soit des états de vulnérabilité particulière. Ces rubriques qui caractérisent l'état des victimes ou selon les cas des personnes mises en cause ne sont remplies que dans la stricte mesure où elles peuvent aider les enquêteurs dans la recherche des auteurs d'infractions.
+
+S'agissant du thésaurus relatif au mobile apparent , la commission relève qu'il ne permet d'enregistrer que des données susceptibles d'orienter les investigations et de permettre de relever, le cas échéant, des circonstances aggravantes à l'encontre des personnes mises en cause.
+
+En tout état de cause, la commission estime que les thésaurus relatifs à l' état des personnes et au mobile apparent devraient être portés à la connaissance du public par les moyens les plus adaptés à l'occasion de la publication du décret portant création du traitement au Journal officiel.
+
+Sur la rédaction des procédures administratives :
+
+Dans la mesure où l'application ARDOISE a été essentiellement conçue comme un outil de police judiciaire et qu'elle sera, à terme, le principal vecteur d'alimentation d'ARIANE, il convient de veiller à ce que le traitement des données enregistrées au cours de procédures administratives soit assorti de garanties strictes. À cet égard, la commission estime que lesdites données devraient être enregistrées dans une sous-base cloisonnée, au sein de chacune des applications locales d'ARDOISE.
+
+En outre, la commission considère que la nature de la procédure administrative doit être mentionnée lors de l'accomplissement des opérations de saisie.
+
+Par ailleurs, la commission prend acte de ce que l'enregistrement éventuel des données sensibles relevant de l'article 8 ne pourra être effectué par le biais de zones structurées de saisie.
+
+Elle relève toutefois que le ministère de l'intérieur a précisé que certaines des données sensibles pourraient apparaître dans le corps du rapport ou du procès-verbal, dès lors qu'elles seraient nécessaires aux besoins de l'enquête.
+
+La commission considère qu'un tel recueil de données ne peut être envisagé qu'à raison de circonstances particulières et dans des cas très exceptionnels définis en fonction de la nature des procédures administratives concernées et, à tout le moins, ne devrait pouvoir être envisagé, s'agissant des données relatives aux activités politiques, syndicales, philosophiques ou religieuses, que dans les seuls cas où leur manifestation serait susceptible de porter atteinte à la sécurité publique ou à la sûreté de l'Etat.
+
+Sur les mécanismes de rappel d'identité :
+
+Les mécanismes de rappel d'identité donnent la faculté au rédacteur d'accéder à un certain nombre d'informations concernant la personne présente devant lui, à commencer par l'information selon laquelle ladite personne est déjà connue du service de police considéré et ce, quelles qu'en soient les raisons (y compris en tant que victime), dès lors que son identité est déjà enregistrée dans l'application locale.
+
+En outre, la possibilité offerte par l'application de rapatrier des données d'identification supplémentaires ( grande identité ), dès lors que cette même personne a été entendue soit comme mis en cause soit par ce qu'elle a fait l'objet d'une procédure administrative, est également de nature à fournir au rédacteur des informations supplémentaires la concernant.
+
+Aussi, outre qu'ils rendent immédiatement disponibles des données à caractère personnel dont la nécessité est contestable, ces mécanismes de rappel d'identité, par l'attention qu'ils attirent sur la situation de la personne concernée, sont susceptibles d'entraîner de la part du rédacteur l'accomplissement de recherches complémentaires la concernant au sein de la base locale, sans que ces investigations ne soient justifiées.
+
+Enfin, la commission tient à rappeler que s'agissant du STIC, conformément à l'article 6 du décret du 5 juillet 2001 modifié, dans le cadre des missions, enquêtes ou interventions définies à l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, les données à caractère personnel figurant dans le traitement qui se rapportent à des procédures judiciaires en cours ou closes, à l'exception des cas où sont intervenues des mesures ou décisions mentionnées au quatrième alinéa de l'article 3 et des données relatives aux victimes, peuvent être consultées sans autorisation du ministère public .
+
+Dans ces conditions, la commission souhaite que l'application soit modifiée de façon à ce que les mécanismes de rappel d'identité ne donnent pas lieu au croisement du module relatif aux procédures administratives avec celui relatif aux procédures judiciaires.
+
+Sur les durées de conservation :
+
+Comme indiqué aux termes de l'article 2 du projet de décret, les données collectées pourraient être conservées dans l'application ARDOISE pendant cinq ans, à compter de la transmission de la procédure à l'autorité judiciaire ou administrative compétente.
+
+Si, selon le ministère de l'intérieur, la durée de conservation envisagée correspond au délai moyen pendant lequel l'intérêt opérationnel commande que les services de police puissent accéder aux procédures rédigées précédemment , aucune précision n'a pu être donnée en ce sens.
+
+En outre, ainsi que l'a précisé le ministère de l'intérieur, il convient de rappeler qu'ARDOISE ne constitue pas une base de recherche.
+
+Dans ces conditions, sans préjuger de l'avis qu'elle rendra, le moment venu, sur la version complète de l'application ARDOISE, la commission émet des réserves quant à la durée de conservation retenue, dès lors que, en l'état, l'application n'a d'autre finalité que d'assurer la rédaction des procédures judiciaires et administratives. C'est pourquoi elle considère que le second alinéa de l'article 2 du projet de décret devrait être modifié comme suit : Ces données et informations sont conservées pendant un délai maximal de cinq ans. Au sein de ce délai et, dès lors que la procédure a été transmise à l'autorité compétente, l'accès aux données et informations considérées ne pourra être effectué que de façon strictement encadrée et dans le but exclusif de la réouverture éventuelle de la procédure concernée et sur la base de son seul numéro.
+
+Sur les destinataires :
+
+La commission prend acte de la liste des destinataires définie aux termes de l'article 3 du projet de décret, soit :
+
+- les fonctionnaires de la police nationale, individuellement désignés et spécialement habilités par leur supérieur hiérarchique mettant en œuvre le traitement mentionné à l'article 1er ;
+
+- les militaires de la gendarmerie nationale en fonction dans un service de police mettant en œuvre le traitement mentionnée à l'article 1er individuellement désignés et spécialement habilités par le chef du service concerné ;
+
+- les magistrats du parquet ;
+
+- les magistrats instructeurs pour les infractions dont ils sont saisis ;
+
+- les personnels investis de missions de police administrative individuellement désignés et spécialement habilités par le représentant de l'Etat pour les données et informations mentionnées au II de l'annexe au présent décret.
+
+Elle estime toutefois qu'il pourrait être précisé aux termes du projet de décret que les agents individuellement désignés et spécialement habilités ne pourront accéder qu'aux données enregistrées dans l'application locale, dans la limite du besoin d'en connaître.
+
+Sur les droits des personnes :
+
+Le ministère de l'intérieur considère que le droit d'information prévu au I de l'article 32 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004, et le droit d'opposition prévu à l'article 38 de la même loi ne s'appliquent pas au traitement considéré.
+
+Pour ce faire, il invoque aussi bien les dispositions du V que du VI de l'article 32 de la loi précitée.
+
+Dans la mesure où le législateur a expressément reconnu aux personnes faisant l'objet d'une inscription dans les fichiers de police judiciaire la possibilité, sous certaines conditions, de demander la rectification des données en cas de requalification judiciaire et, s'agissant des victimes, l'effacement des données les concernant, la commission estime que l'information des personnes sur l'existence et les conditions d'exercice de ces droits, ainsi que sur leur droit d'accès doit être reconnue et garantie par des mesures spécifiques.
+
+En conséquence, elle prend acte de ce que le projet de décret a été complété et prévoit dans son article 4 l'information des victimes. Elle considère néanmoins que les personnes faisant l'objet d'une procédure administrative devraient également pouvoir être informés de leurs droits.
+
+Ainsi, la commission estime que des mentions d'informations pourraient être ainsi portées dans le formulaire de rappel des droits ainsi que sur des affiches apposées au sein des commissariats.
+
+Sur les sécurités :
+
+La commission considère que le projet de décret devrait comporter, à l'instar de ce qui est prévu dans le décret du 5 juillet 2001 modifié relatif au STIC, une mention selon laquelle les consultations font l'objet d'un enregistrement comprenant l'identifiant du consultant, la date et l'heure de la consultation .
+
+Dans le cadre de la sécurité des accès, la commission recommande la mise en place d'une politique de mots de passe, constitués d'au moins six caractères.
+
+Enfin, elle estime qu'une mesure de chiffrement devrait être mise en place dans le cadre de la procédure de sauvegarde.
+
+Fait le 6 novembre 2008.
+
+Le président,
+
+A. Türk
