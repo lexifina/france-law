@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005711
+
+- Question : [SEQ081005711](seq081005711.md) — Décentralisation de services administratifs dans la région messine
+
+## Réponse
+
+*Premier ministre, JO du 2008-11-06, page 2225*
+
+Dans le cadre de l'accompagnement des restructurations de la défense, le Gouvernement met en oeuvre un dispositif d'aides, exceptionnel par son ampleur, pour accompagner les territoires les plus fragiles sur les voies d'un autre développement. Il comporte des contrats et des plans de redynamisation auxquels 320 millions d'euros sont affectés, des mesures d'exonérations fiscales et sociales en cours de définition et la cession des actifs immobiliers selon une procédure qui sera dérogatoire au droit commun. Ce plan comporte également un dispositif sans précédent de transfert d'emplois des administrations centrales, notamment vers l'agglomération messine. L'objectif du Gouvernement est de réaliser, dans les six années qui viennent, un redéploiement de 5 000 emplois publics issus des différents ministères, en favorisant la création de pôles de compétence administrative cohérents dans les principales villes touchées par les restructurations, dont Metz en tout premier lieu. Le Président de la République a fixé, pour l'agglomération messine, un objectif de 1 500 emplois, dont une partie sera intégrée dans un pôle statistiques en cours de définition. De manière générale, le travail d'identification des emplois susceptibles d'être concernés par ce programme est bien avancé. Chaque opération relève toutefois d'un calendrier et d'un processus de décision qui lui est propre, en fonction notamment de la nature juridique du service concerné. Une concertation est également nécessaire avec les représentants des personnels. La complexité technique de ces opérations et leur dimension humaine interdit toute précipitation. C'est le gage de leur succès.
