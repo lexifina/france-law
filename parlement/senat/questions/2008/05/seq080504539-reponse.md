@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504539
+
+- Question : [SEQ080504539](seq080504539.md) — Accès des élèves de l'École nationale des chartes aux écoles d'application
+
+## Réponse
+
+*Culture, JO du 2008-11-06, page 2228*
+
+Les statuts des conservateurs du patrimoine pour la fonction publique de l'État et pour la fonction publique territoriale ont été modifiés par les décrets du 20 août 2007 et du 27 mars 2008. L'ouverture à tous les candidats diplômés du niveau bac + 3 du concours de l'Institut national du patrimoine (INP) dans la spécialité « archives », jusque-là réservé aux chartistes, a été préparée en lien étroit avec l'École des chartes et sa tutelle, le ministère de l'enseignement supérieur et de la recherche. Il en a été de même pour la fixation des nouvelles modalités et des épreuves du concours, publiées par arrêté du 8 novembre 2007. Au demeurant, bien préparés par la qualité de leur formation, axée sur les sciences de l'homme et de la société et les métiers de la culture et du patrimoine, les chartistes présentaient d'ores et déjà avec succès le concours de l'INP dans les autres spécialités, comme ils en ont le droit. En ce qui concerne l'organisation de la scolarité à l'École des chartes, elle relève de la compétence du ministère de l'enseignement supérieur et de la recherche, de même que les conditions d'organisation du concours d'entrée à l'ENSSIB. Les deux ministères n'en partagent pas moins le souci de se concerter étroitement, de façon que toute décision qui pourrait intervenir soit consensuelle et réponde à l'exigence de maintenir à un même niveau d'excellence le recrutement des conservateurs du patrimoine et celui des conservateurs des bibliothèques. Il est évident à cet égard, que les candidatures des élèves de l'École nationale des chartes contribuent éminemment à cette excellence.
