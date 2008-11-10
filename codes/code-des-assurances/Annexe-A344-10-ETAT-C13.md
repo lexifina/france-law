@@ -4,7 +4,7 @@
 
 Part des réassureurs dans les sinistres
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état retraçant la part des cessionnaires et rétrocessionnaires dans les sinistres.
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées au 1° du III de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état retraçant la part des cessionnaires et rétrocessionnaires dans les sinistres.
 
 Tableau A
 
@@ -524,7 +524,7 @@ XXXXX
 
 (2) Y compris les contrats pluriannuels à prime unique ou non révisable des catégories 20 à 31.
 
-(3) Les autres ressources » sont la part des cessionnaires et rétrocessionnaires dans les participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées.
+(3) Les autres ressources sont la part des cessionnaires et rétrocessionnaires dans les participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées.
 
 (4) Hors contrats pluriannuels à prime unique ou non révisable et affaires assimilées en application de l'article A. 344-10.
 
