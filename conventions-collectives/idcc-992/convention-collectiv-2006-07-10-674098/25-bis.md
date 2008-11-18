@@ -1,5 +1,9 @@
 # Article 25 bis
 
+La garantie décès s'applique à l'ensemble du personnel y compris les apprentis, à l'exclusion des cadres et des salariés en contrat à durée déterminée inférieure à 3 mois.
+
+(1)
+
 1. Garantie décès :
 
 - définition : en cas de décès d'un salarié, un capital est versé à un bénéficiaire désigné ;
@@ -28,6 +32,10 @@ Selon cette garantie, le capital prévu au 6e alinéa du présent article est é
 
 - âge limite du salarié : au plus 60 ans ;
 
-- ancienneté du salarié : au minimum 2 ans dans l'entreprise ;
+- Condition d'ancienneté exigée : 1 an dans l'entreprise ;
 
 - nature de la garantie : versement d'un capital égal à 100 % du salaire annuel brut.
+
+(1) Termes exclus de l'extension comme étant contraire aux dispositions de l'article L. 1242-14 du code du travail qui prévoit que les dispositions légales et conventionnelles ainsi que celles qui résultent des usages, applicables aux salariés titulaires d'un contrat de travail à durée indéterminée, s'appliquent également aux salariés titulaires d'un contrat à durée déterminée à l'exclusion des dispositions concernant la rupture du contrat de travail.
+
+(Arrêté du 10 juillet 2009, art. 1er)
