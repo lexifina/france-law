@@ -44,7 +44,7 @@ Zone de protection :
 
 - département de la Côte-d'Or ;
 
-- département des Côtes-d'Armor : arrondissements de Dinan, Lannion et cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lanvollon, Moncontour, Paimpol, Pléneuf-Val-André, Plérin, Plœuc-sur-Lié, Plouagat, Ploufragan, Plouguenast, Plouha, Pontrieux, Quintin, Saint-Brieuc ;
+- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plérin, Ploufragan, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, Roche-Derrien, Saint-Brieuc, Tréguier ;
 
 - département de la Creuse ;
 
@@ -194,7 +194,7 @@ Zone de protection :
 
 - département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
-- département des Côtes-d'Armor : cantons de Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
+- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
 
 - département de la Dordogne ;
 
@@ -237,3 +237,7 @@ Zone de protection :
 - département de la Vienne : cantons de Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
 
 - département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
+
+NOTA :
+
+Décret n° 2008-1189 du 18 novembre 2008 article 1 : Entre en vigueur immédiatement à compter de sa publication au Journal officiel de la République française l'arrêté du 17 novembre 2008 modifiant l'arrêté du 1er avril 2008 définissant les zones réglementées relatives à la fièvre catarrhale du mouton.
