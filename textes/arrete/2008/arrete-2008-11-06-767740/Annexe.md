@@ -1,0 +1,53 @@
+# Article Annexe
+
+DROIT À COMPENSATION DES DÉPARTEMENTS AU TITRE DE LA PRISE EN CHARGE DES INDEMNITÉS DE SERVICE FAIT DES PERSONNELS TRANSFÉRÉS AU 1er JANVIER 2007 DANS LE DOMAINE DES PORTS DÉPARTEMENTAUX MARITIMES
+
+DÉPARTEMENTS
+
+|
+
+DROIT À COMPENSATION
+
+en euros (valeur 2005)
+
+|
+
+Calvados
+
+|
+
+32 367
+
+|
+
+Côtes-d'Armor
+
+|
+
+64 495
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+10 237
+
+|
+
+Vendée
+
+|
+
+7 191
+
+|
+
+Total
+
+|
+
+114 290
+
+|
