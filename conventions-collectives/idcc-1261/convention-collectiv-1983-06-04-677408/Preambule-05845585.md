@@ -1,3 +1,3 @@
-# Article KALIARTI000005845585
+# Article Préambule
 
-Le régime de prévoyance, institué par l'accord paritaire du 5 février 2004, fait l'objet d'une annexe V à la présente convention collective.
+Conformément à la loi n° 89-1009 du 31 décembre 1989 dite « loi Evin », il a été choisi d'instituer un régime de prévoyance obligatoire et collectif au profit de l'ensemble des salariés cadres et non cadres de toutes les associations visées par le champ d'application de la convention collective nationale du 4 juin 1983, conformément aux souhaits exprimés par les partenaires sociaux.
