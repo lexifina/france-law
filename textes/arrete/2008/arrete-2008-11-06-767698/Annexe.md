@@ -1,0 +1,53 @@
+# Article Annexe
+
+DROIT À COMPENSATION DES DÉPARTEMENTS AU TITRE DE LA PRISE EN CHARGE DES COMPTES ÉPARGNE-TEMPS DES PERSONNELS TRANSFÉRÉS AU 1er JANVIER 2007 DANS LE DOMAINE DES PORTS DÉPARTEMENTAUX MARITIMES
+
+DÉPARTEMENTS
+
+|
+
+DROIT À COMPENSATION
+
+en euros (valeur 2007)
+
+|
+
+Calvados
+
+|
+
+0
+
+|
+
+Côtes-d'Armor
+
+|
+
+0
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+1 392
+
+|
+
+Vendée
+
+|
+
+0
+
+|
+
+Total
+
+|
+
+1 392
+
+|
