@@ -1,0 +1,53 @@
+# Article Annexe
+
+DROIT À COMPENSATION DES DÉPARTEMENTS AU TITRE DE LA PRISE EN CHARGE DES FRAIS DE FONCTIONNEMENT HORS PERSONNELS ET DES VACATIONS DES SERVICES TRANSFÉRÉS AU 1er JANVIER 2007 DANS LE DOMAINE DES PORTS DÉPARTEMENTAUX MARITIMES
+
+DÉPARTEMENTS
+
+|
+
+DROIT À COMPENSATION
+
+en euros (valeur 2005)
+
+|
+
+Calvados
+
+|
+
+2 065
+
+|
+
+Côtes-d'Armor
+
+|
+
+2 574
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+3 591
+
+|
+
+Vendée
+
+|
+
+3 048
+
+|
+
+Total
+
+|
+
+11 278
+
+|
