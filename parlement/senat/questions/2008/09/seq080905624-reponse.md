@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905624
+
+- Question : [SEQ080905624](seq080905624.md) — Droit d'amendement dans les conseils généraux
+
+## Réponse
+
+*Intérieur, JO du 2008-11-20, page 2332*
+
+Les membres des assemblées des collectivités territoriales tiennent de leur mandat électif le droit de délibérer sur les affaires dont ils sont saisis. Dans le cadre des débats portant sur une affaire soumise au conseil municipal, comme au conseil général ou au conseil régional, les conseillers ont la faculté de déposer des amendements au projet de délibération présenté par le président de séance. La cour administrative d'appel de Paris, dans sa décision du 12 février 1998, n° 96PA01170, a rappelé que le droit d'amendement est inhérent au pouvoir délibérant des conseils généraux. En conséquence, s'il appartient au conseil général de réglementer ce droit, il ne saurait légalement le faire que sous réserve de ne pas porter atteinte à son exercice effectif. Au cas d'espèce, le juge administratif a considéré qu'était entachée d'excès de pouvoir la disposition du règlement intérieur d'un conseil général qui subordonnait la recevabilité de tout amendement à son dépôt préalable en commission. Une telle procédure qui autorise le renvoi en commission d'un amendement directement soumis au conseil général lors d'une séance, ne garantit pas l'examen de l'amendement par l'assemblée intéressée avant l'adoption définitive du texte auquel il se rapporte, et porte donc atteinte à l'exercice effectif du droit d'amender le texte soumis à la délibération du conseil. À la lumière de ce précédent jurisprudentiel il apparaît que le renvoi en commission d'un amendement, décidé par le président de séance alors que le conseil général est appelé à voter, sans attendre, sur l'affaire qui fait l'objet de l'amendement, porte également atteinte au droit d'amendement reconnu aux élus.
