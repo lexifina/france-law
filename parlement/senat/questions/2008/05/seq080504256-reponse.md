@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504256
+
+- Question : [SEQ080504256](seq080504256.md) — Transfert des parcs et ateliers de l'équipement
+
+## Réponse
+
+*Écologie, JO du 2008-11-20, page 2325*
+
+Le projet de loi relatif au transfert des parcs de l'équipement aux départements et à l'évolution de la situation des ouvriers des parcs et ateliers (OPA) vient d'être déposé devant le Parlement. Ce texte prévoit le transfert d'une large part de ces services aux départements, devenus utilisateurs majoritaires des parcs depuis le transfert des routes nationales d'intérêt local. Ce transfert, qui a été défini à la suite d'une concertation très approfondie avec les collectivités départementales, se déroulera en deux vagues, au 1er janvier 2010 et au 1er janvier 2011. S'agissant de la situation des personnels de l'État travaillant dans les parcs, les dispositions du projet de loi permettront leur transfert aux collectivités, qu'il s'agisse des fonctionnaires pour lesquels le dispositif mis en place à l'occasion du transfert des services routiers aux départements sera reconduit, ou des OPA qui constituent la plus grande part des personnels des parcs. Pour ces derniers, la loi prévoit la création d'un cadre juridique d'agents contractuels de droit public à durée indéterminée, commun à l'État et aux collectivités. Ce nouveau cadre de « personnels techniques spécialisés » concernera l'ensemble des OPA, soit près de 8 000 agents. Ce dispositif innovant permettra également de faciliter la mobilité entre les deux fonctions publiques. Le régime spécial de retraite des OPA sera maintenu pour les agents actuellement en activité. Parallèlement aux transferts des parcs, l'État accueillera dans ses services les agents qui ne seraient pas transférés aux départements, et ajustera l'organisation des services intervenant sur le réseau national pour garantir la continuité du service public auprès des usagers.
