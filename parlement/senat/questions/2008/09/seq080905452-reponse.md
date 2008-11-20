@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905452
+
+- Question : [SEQ080905452](seq080905452.md) — Retraite d'adjoint au maire
+
+## Réponse
+
+*Intérieur, JO du 2008-11-20, page 2331*
+
+L'exercice d'un mandat électif ne saurait être assimilé à une activité professionnelle. Les élus locaux peuvent toutefois se constituer, en cette qualité, des droits à pension, en particulier auprès de l'IRCANTEC. La réglementation applicable à ce régime complémentaire ne permet pas à un affilié, sauf dérogations expressément prévues, de faire valoir son droit à perception d'une pension de retraite et d'y cotiser dans le même temps. Deux précisions doivent être apportées à cet égard. En premier lieu, l'instruction interministérielle du 8 juillet 1996 a précisé que, pour l'application de ce principe, les mandats électifs détenus au sein d'un conseil municipal, d'un conseil général, d'un conseil régional et de l'organe délibérant d'un établissement public de coopération intercommunale constituaient quatre catégories différentes « d'activités » du point de vue de l'affiliation à l'IRCANTEC. Ainsi que le prévoit cette instruction, rien ne s'oppose à ce qu'un président de syndicat de communes en exercice puisse recevoir la pension IRCANTEC résultant, le cas échéant, d'autres catégories de mandat. En second lieu, il convient de rappeler qu'un conseiller municipal ne peut, par définition, cotiser à l'IRCANTEC que s'il bénéficie d'une indemnité de fonction. L'article L. 2123-28 du code général des collectivités territoriales dispose en effet que « les élus qui perçoivent une indemnité de fonction... sont affiliés au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques ». Par conséquent, un élu municipal qui ne reçoit pas une telle indemnité et qui a demandé à liquider les droits acquis au titre de ses anciennes fonctions d'adjoint au maire ne contrevient pas au principe susmentionné.
