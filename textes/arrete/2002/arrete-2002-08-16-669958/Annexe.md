@@ -270,18 +270,6 @@ Centre universitaire de formation et de recherche Jean-François Champollion
 
 |
 
-Centre universitaire de formation et de recherche Jean-François Champollion
-
-|
-
-5
-
-|
-
-5
-
-|
-
 Observatoire de la Côte d'Azur
 
 |
@@ -399,5 +387,35 @@ Ecole nationale supérieure de chimie de Clermont-Ferrand
 |
 
 3
+
+|
+
+Ecole nationale supérieure de céramique industrielle |
+
+3
+
+|
+
+3
+
+|
+
+Institut d'études politiques de Toulouse |
+
+3
+
+|
+
+3
+
+|
+
+Ecole nationale supérieure de chimie de Paris |
+
+7
+
+|
+
+7
 
 |
