@@ -1,4 +1,6 @@
-# Article ANNEXE
+# Article Annexe
+
+Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du code des pensions militaires d'invaladité et des victimes de la guerre
 
 Etat ou territoires concernés
 
@@ -12,13 +14,17 @@ Fin de période
 
 |
 
-Afghanistan Pays et eaux avoisinants, opération Héraclès, Pamir et Epidote |
+Afghanistan, pays et eaux avoisinants, notamment le Kirghizstan
+
+Opérations Héraclès, Pamir et Epidote
+
+|
 
 3 octobre 2001
 
 |
 
-2 octobre 2007
+2 octobre 2009
 
 |
 
@@ -96,11 +102,19 @@ Gabon
 
 |
 
-1er juin 2007
+1er juin 2009
 
 |
 
-Opérations maritimes du golfe Persique et du golfe d'Oman
+Golfe Persique et golfe d'Oman
+
+|
+
+|
+
+|
+
+Opérations maritimes
 
 |
 
@@ -108,19 +122,17 @@ Opérations maritimes du golfe Persique et du golfe d'Oman
 
 |
 
-En cours
+29 juillet 2003
 
 |
 
-Régions du golfe Persique et du golfe d'Oman
-
-|
+Opérations militaires |
 
 30 juillet 1990
 
 |
 
-En cours
+29 juillet 2003
 
 |
 
@@ -150,7 +162,7 @@ Liban
 
 |
 
-22 mars 2005
+22 mars 2007
 
 |
 
@@ -228,7 +240,7 @@ Ouganda
 
 |
 
-1er juin 2007
+1er juin 2009
 
 |
 
@@ -284,7 +296,7 @@ République démocratique du Congo
 
 |
 
-1er juin 2007
+1er juin 2009
 
 |
 
@@ -300,7 +312,7 @@ En cours
 
 |
 
-Tchad, pays avoisinants.
+Tchad et pays avoisinants, notamment le Cameroun
 
 |
 
@@ -308,7 +320,7 @@ Tchad, pays avoisinants.
 
 |
 
-31 décembre 2007
+31 décembre 2009
 
 |
 
@@ -324,7 +336,7 @@ Timor Oriental
 
 |
 
-Yougoslavie : Pays limitrophes et eaux avoisinantes.
+Yougoslavie, pays et eaux avoisinantes
 
 |
 
@@ -332,7 +344,7 @@ Yougoslavie : Pays limitrophes et eaux avoisinantes.
 
 |
 
-31 décembre 2007
+31 décembre 2009
 
 |
 
