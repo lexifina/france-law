@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403940
+
+- Question : [SEQ080403940](seq080403940.md) — Permis poids lourd
+
+## Réponse
+
+*Transports, JO du 2008-11-27, page 2388*
+
+Les places d'examen du permis de conduire relevant des catégories du groupe lourd, pour les candidats inscrits dans le cadre d'un titre professionnel de la conduite routière lors d'un CAP-BEP conduite et services dans les transports routiers, sont attribuées selon les demandes émises par les centres organisateurs. Le département de la Drôme reçoit, en cas de besoin, des inspecteurs du permis de conduire et de la sécurité routière en renfort afin de maintenir une offre de places d'examen la plus proche possible découlant des droits d'examen des écoles de conduite. Lors du conseil des ministres relatif à la sécurité routière du 21 décembre 2007, le Président de la République a demandé que le permis de conduire soit réformé afin de faciliter l'accès des jeunes à la conduite et d'améliorer la sécurité routière. Le conseil général des ponts et chaussées a remis, le 19 mai 2008, un rapport d'audit et des propositions de réforme concernant la formation à la conduite et l'examen du permis de conduire. Ce rapport constitue une base de travail, afin de rendre le permis d'accès plus facile, plus rapide et moins cher pour les publics en difficulté, et d'améliorer la sécurité routière en sensibilisant les nouveaux conducteurs. Les propositions de ce rapport ont fait l'objet d'une très large concertation avec les professions concernées, sous l'égide de la déléguée interministérielle à la sécurité routière. Les mesures pratiques de la réforme sont en voie de finalisation. Les grandes orientations de cette modernisation du permis de conduire seront soumises à un comité interministériel de la sécurité routière. La question d'une éventuelle évolution de l'organisation de l'examen du permis poids lourds est étudiée attentivement dans le cadre de cette réflexion.
