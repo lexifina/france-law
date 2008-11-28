@@ -6,7 +6,9 @@ des élevages marins
 
 |
 
-siège du comité |
+siège du comité
+
+|
 
 nombre de
 
@@ -128,7 +130,7 @@ Paimpol |
 
 Paimpol (Côtes d'Armor) |
 
-26
+25
 
 |
 
@@ -320,7 +322,7 @@ Var |
 
 Toulon (Var) |
 
-20
+12
 
 |
 
