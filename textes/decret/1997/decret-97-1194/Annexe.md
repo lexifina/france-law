@@ -1844,6 +1844,32 @@ Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
+Convention douanière de Genève relative au transport
+
+international de marchandises sous le couvert de carnets TIR, du 14 novembre 1975
+
+1
+
+|
+
+Habilitation des associations à délivrer des carnets TIR et à se porter caution.
+
+|
+
+Article 6 §1.
+
+|
+
+2 |
+
+Habilitation des personnes physiques et morales à utiliser des carnets TIR.
+
+|
+
+Article 6 §4.
+
+|
+
 Réglementations de la Communauté européenne que l
 
 ’administration des douanes est chargée d’appliquer
@@ -1852,11 +1878,27 @@ Réglementations de la Communauté européenne que l
 
 |
 
-Délivrance de renseignements tarifaires contraignants et de renseignements contraignants en matière d'origine.
+Délivrance, suspension et retrait des certificats d’opérateurs économiques agréés.
 
 |
 
-Article 12 du code des douanes communautaire.
+Article 5
+
+bis
+
+du code des douanes communautaire.
+
+Articles 14
+
+bis
+
+à 14
+
+tervicies
+
+des dispositions
+
+d’application du code des douanes communautaire.
 
 |
 
@@ -1864,11 +1906,13 @@ Article 12 du code des douanes communautaire.
 
 |
 
-Ajustement de la valeur en douane.
+Délivrance de renseignements tarifaires contraignants ou de renseignements contraignants en
+
+matière d’origine.
 
 |
 
-Article 156 bis des dispositions d'application du code des douanes communautaire.
+Article 12 du code des douanes communautaire.
 
 |
 
@@ -1876,13 +1920,21 @@ Article 156 bis des dispositions d'application du code des douanes communautaire
 
 |
 
-Agrément des logiciels des déclarations douanières établies par procédés informatiques.
+Autorisation unique d’admission de certaines marchandises au bénéfice d’un traitement tarifaire f
+
+avorable, en raison de leur destination particulière, valable dans plusieurs Etats membres de
+
+la Communauté européenne.
 
 |
 
-Article 61 b du code des douanes communautaire.
+Articles 21, 82, 89 et 90 du code des douanes
 
-Articles 183-4 et 224 des dispositions d'application du code des douanes communautaire.
+communautaire.
+
+Articles 291 à 300 des dispositions d’application du
+
+code des douanes communautaire.
 
 |
 
@@ -1890,13 +1942,17 @@ Articles 183-4 et 224 des dispositions d'application du code des douanes communa
 
 |
 
-Autorisation unique de placement de marchandises sous un régime douanier économique et autorisations liées à ce régime (admission temporaire, perfectionnement actif, perfectionnement passif, entrepôt douanier ou transformation sous douane), valable dans plusieurs Etats membres de la Communauté européenne.
+Autorisation unique de procédure de domiciliation valable dans plusieurs Etats membres de la
+
+Communauté européenne et simplifications liées à cette procédure de domiciliation.
 
 |
 
-Articles 85, 100, 103, 106, 108, 109, 110, 111, 116, 118, 123, 128, 132, 138, 139, 140, 147, 149, 154, 155, 157 du code des douanes communautaire.
+Article 76 du code des douanes communautaire.
 
-Articles 505, 506, 511, 512, 517, 519, 523, 524, 525, 536, 539, 547, 551, 553, 556, 558, 559, 561, 563, 570, 576, 580, 581, 582, 585 bis, 588, 589, 598, 601, 605, 617, 619, 621, 631, 639, 642, 652, 654, 659, 661, 665, 692, 694, 698, 699, 713, 714, 718, 719, 721, 722, 723, 733, 742, 751, 753, 755, 756, 758, 759, 761, 767, 776 et 777 des dispositions d'application du code des douanes communautaire.
+Articles 263 et 283 à 288 des dispositions
+
+d’application du code des douanes communautaire.
 
 |
 
@@ -1904,11 +1960,29 @@ Articles 505, 506, 511, 512, 517, 519, 523, 524, 525, 536, 539, 547, 551, 553, 5
 
 |
 
-Autorisation de procédure simplifiée de transit communautaire par voie d'arrangements bilatéraux ou multilatéraux entre les Etats membres de la Communauté européenne.
+Autorisation unique de placement de marchandises sous un régime douanier économique,
+
+valable dans plusieurs Etats membres de la Communauté européenne, et autorisations liées à
+
+ce régime (perfectionnement actif, perfectionnement passif, entrepôt douanier, transformation
+
+sous douane, et admission temporaire à condition que ce dernier régime soit sollicité au
+
+moyen du formulaire de l’annexe 67 des dispositions d’application du code des douanes
+
+communautaire).
 
 |
 
-Article 97-2 a du code des douanes communautaire.
+Articles 85 à 90, 100, 103, 105, 106, 108, 109, 110, 111,
+
+115 à 119, 122, 123, 125, 128, 132, 138, 139, 140,
+
+147, 149, 154, 155 et 157 du code des douanes
+
+communautaire.
+
+Articles 229, 268, 269 §1, 270, 272 §1, 275, 276, 500 à 504, 506, 508, 510, 511 à 514, 515 à 517, 520 à 521, 523, 526, 527, 533, 534, 537 à 539, 540, 541 à 546, 547 bis , 553, 555 à 562, 563 à 578, 579, 581, 586, 588 et 590 à 592 des dispositions d’application du code des douanes communautaire.
 
 |
 
@@ -1916,11 +1990,17 @@ Article 97-2 a du code des douanes communautaire.
 
 |
 
-Autorisation de création d'une zone franche.
+Autorisation de procédure simplifiée de transit communautaire par voie d’arrangements
+
+bilatéraux ou multilatéraux entre les Etats membres de l’Union européenne.
 
 |
 
-Article 167, paragraphe 1, du code des douanes communautaires.
+Article 97 §2
+
+a
+
+du code des douanes communautaire.
 
 |
 
@@ -1928,11 +2008,15 @@ Article 167, paragraphe 1, du code des douanes communautaires.
 
 |
 
-Dispense ou aménagement du cautionnement en matière de douane.
+Autorisation de création d’une zone franche.
 
 |
 
-Articles 189, paragraphes 3 et 5, et 190 du code des douanes communautaire.
+Article 167 §1 du code des douanes communautaire.
+
+Article 800 des dispositions d’application du code des
+
+douanes communautaire.
 
 |
 
@@ -1940,11 +2024,19 @@ Articles 189, paragraphes 3 et 5, et 190 du code des douanes communautaire.
 
 |
 
-Remise ou remboursement de droits en application de décisions de la Commission européenne.
+Décision de remise ou de remboursement de droits en application de décisions de la
+
+Commission européenne.
 
 |
 
-Articles 236 à 239 du code des douanes communautaire.
+Articles 236 et 239 du code des douanes
+
+communautaire.
+
+Articles 871, 875, 905 et 908 §3 des dispositions
+
+d’application du code des douanes communautaire.
 
 |
 
@@ -1952,11 +2044,159 @@ Articles 236 à 239 du code des douanes communautaire.
 
 |
 
-Autorisation unique d'admission de certaines marchandises au bénéfice d'un traitement tarifaire favorable, en raison de leur destination particulière, valable dans plusieurs Etats membres de la Communauté européenne.
+Agrément des imprimeurs de certificats.
 
 |
 
-Articles 291, 292, 294, 296, 297, 301, 302 et 303 des dispositions d'application du code des douanes communautaire.
+Article 50 § 3 des dispositions d’application du code
+
+des douanes communautaire.
+
+|
+
+10 |
+
+Autorisation d’ajustement de la valeur en douane relative à des commissions, à des redevances
+
+ou au produit de la revente, et autorisation d’ajustement concernant plusieurs bureaux de
+
+dédouanement.
+
+|
+
+Article 156
+
+bis
+
+des dispositions d’application du code
+
+des douanes communautaire.
+
+|
+
+11 |
+
+Autorisation de création d’une ligne régulière.
+
+|
+
+Article 313
+
+ter
+
+§1 des dispositions d’application du
+
+code des douanes communautaire.
+
+|
+
+12 |
+
+Autorisation d’établissement du manifeste servant à justifier le statut communautaire des
+
+marchandises au plus tard le lendemain du départ du navire.
+
+|
+
+Article 324
+
+sexies
+
+des dispositions d’application du
+
+code des douanes communautaire.
+
+|
+
+13 |
+
+Agrément des imprimeries pour réaliser l’impression et l’assemblage des formulaires T2M.
+
+|
+
+Article 327 §7 des dispositions d’application du code
+
+des douanes communautaire.
+
+|
+
+14 |
+
+Autorisation d’utiliser les procédures simplifiées de transit par chemin de fer ou grands
+
+conteneurs.
+
+|
+
+Articles 372, 413, 414, 426 des dispositions
+
+d’application du code des douanes communautaire.
+
+|
+
+15 |
+
+Agrément des scellés spéciaux par type.
+
+|
+
+Article 386 des dispositions d’application du code des
+
+douanes communautaire.
+
+|
+
+16 |
+
+Autorisation donnée à une compagnie aérienne d’utiliser un manifeste transmis par un système
+
+d’échange électronique de données comme déclaration de transit (procédure simplifiée de
+
+niveau 2).
+
+|
+
+Article 445 §1 des dispositions d’application du code
+
+des douanes communautaire.
+
+|
+
+17 |
+
+Autorisation d’utilisation du manifeste maritime comme déclaration de transit (procédures
+
+simplifiées de niveaux 1 et 2).
+
+|
+
+Articles 447 et 448 des dispositions d’application du
+
+code des douanes communautaire.
+
+|
+
+18 |
+
+Exclusion temporaire ou définitive du bénéfice des dispositions de la convention TIR.
+
+|
+
+Article 457
+
+bis
+
+des dispositions d’application du code
+
+des douanes communautaire.
+
+Article 38 de la convention douanière de Genève
+
+relative au transport international de marchandises
+
+sous le couvert de carnets TIR, du
+
+14 novembre 1975.
 
 |
 
@@ -1999,6 +2239,30 @@ Délivrance d'un certificat international d'importation et d'un certificat de v�
 Article 19 du règlement et article 8 du décret.
 
 |
+
+Règlement (CE) n
+
+°
+
+1917/2000 de la Commission
+
+du 7 septembre 2000 fixant certaines dispositions d’application du règlement (CE) n
+
+o
+
+1172/95 du Conseil en ce
+
+qui concerne la statistique du commerce extérieur
+
+1 |
+
+Autorisation de simplification de la déclaration d’exportation applicable aux ensembles
+
+industriels.
+
+|
+
+Article 16. |
 
 Règlement (CE) n
 
