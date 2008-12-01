@@ -1,5 +1,3 @@
 # Article II.2
 
-Tous les employeurs de salariés d'entreprises artisanales du bâtiment entrant dans le champ d'application du présent accord contribuent au financement du droit à la négociation collective par le versement à l'association paritaire d'une cotisation égale à 0,05 % des salaires entrant dans l'assiette des cotisations de sécurité sociale.
-
-Cette cotisation est recouvrée par les caisses de prévoyance en même temps et dans les mêmes conditions que la cotisation affectée au financement de la formation professionnelle continue.
+Toutes les entreprises du bâtiment employant jusqu'à 10 salariés et entrant dans le champ d'application du présent accord contribuent au financement du droit à la négociation collective par le versement à l'APNAB (Association paritaire nationale pour le développement de la négociation collective dans l'artisanat du bâtiment), créée en application de l'article III.1 de l'avenant n° 1 du 4 mai 1995, d'une cotisation égale à 0,15 % des salaires entrant dans l'assiette des cotisations de sécurité sociale.
