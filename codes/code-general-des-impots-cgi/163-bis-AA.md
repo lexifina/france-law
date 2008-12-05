@@ -1,6 +1,6 @@
 # Article 163 bis AA
 
-Les sommes revenant aux salariés au titre de la participation des salariés aux résultats de l'entreprise, en application du titre II du livre III de la troisième partie du code du travail, sont exonérées d'impôt sur le revenu.
+Les sommes revenant aux salariés au titre de la participation des salariés aux résultats de l'entreprise, en application du titre II du livre III de la troisième partie du code du travail, sont exonérées d'impôt sur le revenu lorsqu'elles ont été affectées dans les conditions prévues à l'article L. 3323-2 du même code.
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées aux plans d'épargne constitués conformément au titre III du livre III de la troisième partie du code du travail dans les conditions prévues à l'article L. 3324-12 du code précité. Les dispositions des articles L. 3332-25 et L. 3332-26 de ce code sont alors applicables.
 
@@ -13,7 +13,3 @@ Cette exonération est maintenue dans les mêmes conditions dans le cas où les 
 Cette exonération est également maintenue dans les mêmes conditions lorsque ces mêmes sommes sont retirées par les salariés pour être affectées à la constitution du capital d'une société ayant pour objet exclusif de racheter tout ou partie du capital de leur entreprise dans les conditions prévues à l'article 83 bis.
 
 Pour ouvrir droit aux exonérations prévues au présent article, les accords de participation doivent avoir été déposés à la direction départementale du travail et de l'emploi du lieu où ils ont été conclus.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 17-I de la loi n° 2006-1770 du 30 décembre 2006 et des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
