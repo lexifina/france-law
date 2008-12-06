@@ -2894,6 +2894,38 @@ Sulfate de carbone.
 
 |
 
+|
+
+|
+
+C8F17SO2X (18) sulfonate de perfluorooctane (SPFO)
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+(18) C8F17SO2X.
+
+X = OH.
+
+X = sel métallique (O-M +) préciser.
+
+X = halogénure préciser.
+
+X = amide préciser.
+
+X = autre dérivé préciser.
+
 (*) Pour les installations de combustion de puissance thermique supérieure à 20 MW, ce seuil est fixé à 0.
 
 (**) Pour les installations d'incinération de déchets non dangereux de capacité supérieure à 3 tonnes par heure et les installations d'incinération de déchets dangereux de capacité supérieure à 10 tonnes par jour, ce seuil est fixé à 0.
@@ -2933,19 +2965,3 @@ Sulfate de carbone.
 (16) Masse totale des composés de triphénylétain, exprimée en tant que masse de triphénylétain.
 
 (17) Masse totale de xylène (ortho-xylène, méta-xylène, para-xylène).
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 62 du 13/03/2008 texte numéro 1
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 62 du 13/03/2008 texte numéro 1
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 62 du 13/03/2008 texte numéro 1
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 62 du 13/03/2008 texte numéro 1
