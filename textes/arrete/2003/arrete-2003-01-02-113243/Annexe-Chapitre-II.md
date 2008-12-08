@@ -6,13 +6,13 @@ Introduction générale
 
 1. Cette annexe contient la liste :
 
-a) Des substances incorporées à la matière plastique afin de modifier les caractéristiques techniques du produit fini, notamment les additifs polymériques » et qui restent dans le produit fini ;
+a) Des substances incorporées à la matière plastique afin de modifier les caractéristiques techniques du produit fini, notamment les additifs polymériques et qui restent dans le produit fini ;
 
 b) Des substances favorisant la polymérisation.
 
-Aux fins de la présente annexe, les substances visées aux points a et b sont ci-après dénommées additifs ».
+Aux fins de la présente annexe, les substances visées aux points a et b sont ci-après dénommées additifs.
 
-Aux fins de la présente annexe, on entend par additifs polymériques » tout polymère et / ou prépolymère et / ou oligomère susceptibles d'être ajoutés à des matières plastiques pour obtenir un effet technique, mais qui ne peuvent pas être utilisés en l'absence d'autres polymères comme principal composant structurel des matériaux et objets finis. Ils incluent également les substances qui peuvent être ajoutées au milieu de polymérisation.
+Aux fins de la présente annexe, on entend par additifs polymériques tout polymère et / ou prépolymère et / ou oligomère susceptibles d'être ajoutés à des matières plastiques pour obtenir un effet technique, mais qui ne peuvent pas être utilisés en l'absence d'autres polymères comme principal composant structurel des matériaux et objets finis. Ils incluent également les substances qui peuvent être ajoutées au milieu de polymérisation.
 
 La liste ne comprend pas :
 
@@ -24,11 +24,11 @@ c) Les solvants.
 
 2. Les substances suivantes ne sont pas incluses même si elles sont utilisées intentionnellement et sont autorisées :
 
-c) Les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium et de sodium des acides, phénols ou alcools autorisés. Cependant, les désignations contenant acide (s)... sels » figurent dans les listes si l'acide ou les acides libres correspondants n'y figurent pas ;
+c) Les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium et de sodium des acides, phénols ou alcools autorisés. Cependant, les désignations contenant acide (s)... sels figurent dans les listes si l'acide ou les acides libres correspondants n'y figurent pas ;
 
 d) Les sels (y compris les sels doubles et les sels acides) de zinc des acides, phénols ou alcools autorisés. Pour lesdits sels, une LMS de groupe égale à 25 mg / kg (exprimé en Zn) s'applique. La restriction prévue pour le zinc (Zn) s'applique également :
 
-1° Aux substances dont les dénominations contiennent acide (s)... sels » et qui figurent dans les listes si l'acide ou les acides libres correspondants n'y figurent pas ;
+1° Aux substances dont les dénominations contiennent acide (s)... sels et qui figurent dans les listes si l'acide ou les acides libres correspondants n'y figurent pas ;
 
 2° Aux substances visées à la note 38 du chapitre V de la présente annexe.
 
@@ -36,15 +36,15 @@ d) Les sels (y compris les sels doubles et les sels acides) de zinc des acides, 
 
 a) Les substances qui pourraient être contenues dans le produit fini, telles que :
 
-- les impuretés présentes dans les substances utilisées ;
+-les impuretés présentes dans les substances utilisées ;
 
-- les intermédiaires de réaction ;
+-les intermédiaires de réaction ;
 
-- les produits de décomposition.
+-les produits de décomposition.
 
 b) Les mélanges de substances autorisées.
 
-Les matériaux et objets qui contiennent les substances indiquées aux points a et b doivent satisfaire aux exigences de l'article 3 du décret n° 92-631 du 8 juillet 1992 susvisé.
+Les matériaux et objets qui contiennent les substances indiquées aux points a et b doivent satisfaire aux exigences de l'article 3 du règlement (CE) n° 1935 / 2004 susvisé.
 
 4. Les substances doivent être de bonne qualité technique en ce qui concerne les critères de pureté.
 
@@ -58,21 +58,21 @@ Colonne 3 (dénomination) : la dénomination chimique ;
 
 Colonne 4 (restrictions et / ou spécifications). Elles peuvent comprendre :
 
-- la limite de migration spécifique (LMS) dans la denrée alimentaire ou le liquide simulateur ;
+-la limite de migration spécifique (LMS) dans la denrée alimentaire ou le liquide simulateur ;
 
-- la limite de migration spécifique dans la denrée alimentaire ou le liquide simulateur, exprimée pour le groupement ou la somme des substances indiquées, LMS (T) ;
+-la limite de migration spécifique dans la denrée alimentaire ou le liquide simulateur, exprimée pour le groupement ou la somme des substances indiquées, LMS (T) ;
 
-- la quantité maximale de substance autorisée dans le matériau ou objet fini (QM) ;
+-la quantité maximale de substance autorisée dans le matériau ou objet fini (QM) ;
 
-- la quantité maximale de substance autorisée dans le matériau ou objet, exprimée pour le groupement ou la somme des substances indiquées, QM (T) ;
+-la quantité maximale de substance autorisée dans le matériau ou objet, exprimée pour le groupement ou la somme des substances indiquées, QM (T) ;
 
-- la quantité maximale de substance autorisée dans le matériau ou objet, exprimée en mg, pour 6 dm ² de surface en contact avec les denrées alimentaires (QMS) ;
+-la quantité maximale de substance autorisée dans le matériau ou objet, exprimée en mg, pour 6 dm ² de surface en contact avec les denrées alimentaires (QMS) ;
 
-- la quantité maximale de substance autorisée dans le matériau ou objet, exprimée en mg, du groupement ou de la somme des substances indiquées, pour 6 dm ² de la surface en contact avec les denrées alimentaires, QMS (T) ;
+-la quantité maximale de substance autorisée dans le matériau ou objet, exprimée en mg, du groupement ou de la somme des substances indiquées, pour 6 dm ² de la surface en contact avec les denrées alimentaires, QMS (T) ;
 
-- toute autre restriction indiquée de manière expresse ;
+-toute autre restriction indiquée de manière expresse ;
 
-- toute spécification concernant la substance ou le polymère.
+-toute spécification concernant la substance ou le polymère.
 
 6. Si une substance figurant sur la liste comme composé spécifique est également couverte par un terme générique, les restrictions applicables à cette substance sont celles qui sont indiquées pour le composé spécifique.
 
@@ -194,22 +194,6 @@ Acétone.
 
 |
 
-30340
-
-|
-
-330198-91-9
-
-|
-
-12-(acétoxy) stéarate de 2, 3-bis (acétoxy) propyle.
-
-|
-
-Usage interdit à partir du 1er juillet 2008.
-
-|
-
 30370
 
 |
@@ -235,8 +219,6 @@ Acide acétylacétique, sels.
 Mono-et diglycérides d'acides gras, acétylés.
 
 |
-
-Usage interdit à partir du 1er juillet 2008.
 
 |
 
@@ -916,6 +898,20 @@ LMS = 5 mg / kg (somme du composé, de sa forme oxydée [phosphate de bis (2, 4-
 
 |
 
+38875
+
+|
+
+002162-74-5 |
+
+Bis (2, 6-diisopropylphényl) carbodiimide.
+
+|
+
+LMS = 0, 05 mg / kg. A utiliser derrière une couche de PET.
+
+|
+
 38879
 
 |
@@ -1006,7 +1002,7 @@ LMS (T) = 0, 6 mg / kg (28).
 
 |
 
-QMS = 0, 05 mg / 6 dm ².
+LMS = 0, 05 mg / kg
 
 |
 
@@ -1644,15 +1640,11 @@ LMS = 0, 05 mg / kg.
 
 |
 
-46700
+45703 |
 
-|
+491589-22-1 |
 
--
-
-|
-
-5, 7-di-tert-butyl-3-(3, 4-diméthylphényl)-2 (3H) benzofuranone contenant : a) 5, 7-di-tert-butyl-3-(2, 3-diméthy-phényl) 2 (3H)-benzofuranone (80-100 % p / p) et b) 5, 7-di-tert-butyl-3-(2, 3-diméthylphényl) 2 (3H)-benzofuranone (0-20 % p / p).
+Acide cis-1, 2-cyclohexanedicarboxylique, sel de calcium.
 
 |
 
@@ -1713,6 +1705,22 @@ Dammar.
 Acide n-décanoïque.
 
 |
+
+|
+
+46700
+
+|
+
+-
+
+|
+
+5, 7-di-tert-butyl-3-(3, 4-diméthylphényl)-2 (3H) benzofuranone contenant : a) 5, 7-di-tert-butyl-3-(2, 3-diméthy-phényl) 2 (3H)-benzofuranone (80-100 % p / p) et b) 5, 7-di-tert-butyl-3-(2, 3-diméthylphényl) 2 (3H)-benzofuranone (0-20 % p / p).
+
+|
+
+LMS = 5 mg / kg.
 
 |
 
@@ -1965,6 +1973,20 @@ LMS = 0, 6 mg / kg.
 |
 
 LMS (T) = 6 mg / kg (15).
+
+|
+
+48960
+
+|
+
+- |
+
+Acide 9, 10-dihydroxy stéarique et ses oligomères.
+
+|
+
+LMS = 5mg / kg
 
 |
 
@@ -2444,6 +2466,18 @@ Acide glutarique.
 
 |
 
+55910
+
+|
+
+736150-63-3 |
+
+Acétates de glycérides monohydrogénés d'huile de ricin.
+
+|
+
+|
+
 55920
 
 |
@@ -2708,8 +2742,6 @@ Monolaurate diacétate de glycérol.
 
 |
 
-Usage interdit à partir du 1er juillet 2008.
-
 |
 
 56880
@@ -2965,6 +2997,18 @@ Acide chlorhydrique.
 |
 
 |
+
+60025
+
+|
+
+-
+
+|
+
+Homopolymères et / ou copolymères hydrogénés du 1-décène et / ou 1-dodécène et / ou 1-octène. |
+
+Conformément aux spécifications indiquées au chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras. |
 
 60030
 
@@ -3225,6 +3269,20 @@ Phosphure de fer.
 |
 
 Pour les polymères et copolymères de PET uniquement.
+
+|
+
+62280
+
+|
+
+00904417-1
+
+|
+
+Copolymère d'isobutylène et de butène.
+
+|
 
 |
 
@@ -3636,13 +3694,11 @@ Méthylhydroxypropylcellulose.
 
 |
 
-2-méthyl-4-isothiazolin-3-one.
+2-méthyl-4-isothiazole-3-one.
 
 |
 
-LMS = ND (LD = 0, 02 mg / kg, tolérance analytique comprise).
-
-|
+LMS = 0, 5 mg / kg.A utiliser uniquement dans des dispersions ou émulsions aqueuses de polymères et à des concentrations n'entraînant pas d'effet antimicrobien à la surface du polymère ou de l'aliment proprement dit. |
 
 66905
 
@@ -3940,6 +3996,18 @@ Acide palmitique.
 
 |
 
+70480
+
+|
+
+000111-06-08 |
+
+Palmitate de butyle.
+
+|
+
+|
+
 71020
 
 |
@@ -4168,11 +4236,7 @@ b) Plastifiant dans des matériaux et des objets à usage unique en contact avec
 
 c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final.
 
-LMS = 30 mg / kg simulant de denrée alimentaire.
-
-Usage interdit à partir du 1er juillet 2008.
-
-|
+LMS = 30 mg / kg simulant de denrée alimentaire. |
 
 74640
 
@@ -4193,8 +4257,6 @@ a) Plastifiant dans des matériaux et des objets réutilisables en contact avec 
 b) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final ;
 
 LMS = 1, 5 mg / kg simulant de denrée alimentaire.
-
-Usage interdit à partir du 1er juillet 2008.
 
 |
 
@@ -4217,8 +4279,6 @@ a) Plastifiant dans des matériaux et des objets réutilisables en contact avec 
 b) Auxiliaire technologique dans des polyoléfines à des concentrations pouvant aller jusqu'à 0, 05 % dans le produit final ;
 
 LMS = 0, 3 mg / kg simulant de denrée alimentaire.
-
-Usage interdit à partir du 1er juillet 2008.
 
 |
 
@@ -4246,8 +4306,6 @@ c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % 
 
 LMS (T) = 9 mg / kg simulant de denrée alimentaire (42).
 
-Usage interdit à partir du 1er juillet 2008.
-
 |
 
 75105
@@ -4272,11 +4330,7 @@ b) Plastifiant dans des matériaux et des objets à usage unique en contact avec
 
 c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final.
 
-LMS (T) = 9 mg / kg simulant de denrée alimentaire (42).
-
-Usage interdit à partir du 1er juillet 2008.
-
-|
+LMS (T) = 9 mg / kg simulant de denrée alimentaire (42). |
 
 76329
 
@@ -4306,6 +4360,22 @@ Pimélate de calcium.
 
 |
 
+76463
+
+|
+
+-
+
+|
+
+Acide polyacrylique, sels.
+
+|
+
+LMS (T) = 6 mg / kg (36) (acide acrylique).
+
+|
+
 76721
 
 |
@@ -4321,6 +4391,38 @@ Polydiméthylsiloxane (pm > 6 800).
 |
 
 Conformément aux spécifications indiquées au chapitre IV.
+
+|
+
+76723
+
+|
+
+167883-16-1
+
+|
+
+Polydiméthylsiloxane terminant par un 3-aminopropyle polymérisé avec le 4, 4'diisocyanate de dicyclohexyleméthane.
+
+|
+
+Conformément aux spécifications indiquées au chapitre IV de l'annexe.
+
+|
+
+76725
+
+|
+
+661476-41-1
+
+|
+
+Polydiméthylsiloxane terminant par un 3-aminopropyle polymérisé avec le 1-isocyanato-3-isocyanatométhyl-3, 5, 5-triméthylcyclohexane.
+
+|
+
+Conformément aux spécifications indiquées au chapitre IV de l'annexe
 
 |
 
@@ -4351,8 +4453,6 @@ LMS = 6 mg / kg.
 Esters du polyester d'acide adipique avec le glycérol ou le pentaérythritol avec des acides gras linéaires à nombre pair d'atomes de carbone (entre C12 et C22).
 
 |
-
-Usage interdit à partir du 1er juillet 2008.
 
 |
 
@@ -4386,11 +4486,7 @@ Polyesters de 1, 2-propanediol et / ou 1, 3-et / ou 1, 4-butanediol et / ou poly
 
 |
 
-LMS = 30 mg / kg.
-
-Usage interdit à partir du 1er juillet 2008.
-
-|
+LMS = 30 mg / kg. |
 
 76960
 
@@ -4448,6 +4544,34 @@ Esters du polyéthylèneglycol avec les acides aliph. monocarb. (C6-C22). Et leu
 
 |
 
+77732
+
+|
+
+-
+
+|
+
+Polyéthylène glycol (EO = 1-30, typiquement 5) éther du butyl 2-cyano 3-(4-hydroxy-3-méthoxyphényl) acrylate.
+
+|
+
+LMS = 0, 05 mg / kg. A utiliser uniquement dans le PET. |
+
+77733
+
+|
+
+-
+
+|
+
+Polyéthylèneglycol (EO = 1-30, typiquement 5) éther du butyl-2-cyano-3-(4-hydroxyphényl) acrylate.
+
+|
+
+LMS = 0, 05 mg / kg. A utiliser uniquement dans le PET. |
+
 77895
 
 |
@@ -4461,6 +4585,22 @@ Ether monoalkylique (C16-C18) du polyéthylèneglycol (OE = 2-6).
 |
 
 LMS = 0, 05 mg / kg et conformément aux spécifications indiquées au chapitre IV.
+
+|
+
+77897
+
+|
+
+-
+
+|
+
+Ester sulfurique du monoalkyléther (alkyle linéaire et / ou ramifié, C8-20) de polyéthylèneglycol (EO = 1-50), sel de sodium.
+
+|
+
+LMS = 5 mg / kg
 
 |
 
@@ -5532,11 +5672,7 @@ Huile de soja époxydée.
 
 |
 
-LMS = 60 mg / kg. Cependant, dans le cas des joints en PVC utilisés pour assurer l'étanchéité des pots en verre contenant des préparations pour nourrissons et des préparations de suite, ou contenant des aliments pour bébés destinés aux nourrissons et enfants en bas âge, au sens de l'arrêté du 1er juillet 1976 relatif aux aliments destinés aux nourrissons et aux enfants en bas âge, la LMS est réduite à 30 mg / kg.
-
-Usage interdit à partir du 1er juillet 2008.
-
-|
+LMS = 60 mg / kg. Cependant, dans le cas des joints en PVC utilisés pour assurer l'étanchéité des pots en verre contenant des préparations pour nourrissons et des préparations de suite, ou contenant des aliments pour bébés destinés aux nourrissons et enfants en bas âge, au sens de l'arrêté du 1er juillet 1976 relatif aux aliments destinés aux nourrissons et aux enfants en bas âge, la LMS est réduite à 30 mg / kg. |
 
 88800
 
@@ -5589,6 +5725,20 @@ Stéaramide.
 |
 
 Acide stéarique.
+
+|
+
+|
+
+89120
+
+|
+
+000123-95-5
+
+|
+
+Stéarate de butyle.
 
 |
 
@@ -5946,8 +6096,6 @@ Tri-n-butyl acétyl citrate.
 
 |
 
-Usage interdit à partir du 1er juillet 2008.
-
 |
 
 94320
@@ -6089,6 +6237,20 @@ Eau.
 Conformément au décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
 
 |
+
+95858
+
+|
+
+-
+
+|
+
+Cires, paraffiniques, raffinées, produites à partir de charges d'alimentation dérivées du pétrole ou d'hydrocarbures synthétiques.
+
+|
+
+LMS = 0, 05 mg / kg et conformément aux spécifications du chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras. |
 
 95859
 
@@ -6307,6 +6469,22 @@ Adipate de bis (2-éthylhexyle).
 |
 
 LMS = 18 mg / kg (1).
+
+|
+
+34130
+
+|
+
+-
+
+|
+
+Alkyle linéaire à nombre pair d'atomes de carbone (C12-C20) diméthylamines.
+
+|
+
+LMS = 30 mg / kg
 
 |
 
@@ -7256,6 +7434,22 @@ LMS = 30 mg / kg.
 
 |
 
+53670
+
+|
+
+032509-66-3
+
+|
+
+Bis [3, 3-bis (3-tert-butyl-4-hydroxyphényl) butyrate] d'éthylène glycol.
+
+|
+
+LMS = 6 mg / kg
+
+|
+
 54880
 
 |
@@ -7898,7 +8092,7 @@ Résines (hydrogénées) d'hydrocarbures pétroliers.
 
 |
 
-LMS = 5 mg / kg (1) et conformément aux spécifications du chapitre VI.
+Conformément aux spécifications indiquées au chapitre IV de l'annexe.
 
 |
 
@@ -8535,3 +8729,11 @@ butane.
 LMS = 5 mg / kg.
 
 |
+
+NOTA :
+
+Les dispositions de l'article 1er et celles prévues à la section A du chapitre II de l'annexe pour les numéros de référence 30340, 30401, 56800, 74560, 74640, 74880, 75100, 75105, 76815, 76866, 88640 et 93760 entrent en vigueur le lendemain de la publication du présent arrêté.
+
+Les autres dispositions de l'arrêté du 19 novembre 2008 entrent en vigueur le 7 mars 2009.
+
+Toutefois, les matériaux et objets en matière plastique destinés à être mis au contact des denrées alimentaires conformes aux dispositions de l'arrêté du 2 janvier 2003 applicables antérieurement à l'entrée en vigueur du présent arrêté peuvent être fabriqués et importés dans la Communauté européenne jusqu'au 7 mars 2010 et peuvent être commercialisés jusqu'à épuisement des stocks.
