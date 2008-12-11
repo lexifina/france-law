@@ -126,11 +126,11 @@ ARABIE SAOUDITE
 
 |
 
-RIYAL
+EURO
 
 |
 
-545
+158
 
 |
 
@@ -190,7 +190,7 @@ EURO
 
 |
 
-147
+175
 
 |
 
@@ -222,11 +222,11 @@ BAHREIN
 
 |
 
-DINAR DE BAHREIN
+EURO
 
 |
 
-66
+200
 
 |
 
@@ -234,11 +234,11 @@ BANGLADESH
 
 |
 
-TAKA
+EURO
 
 |
 
-7 200
+130
 
 |
 
@@ -282,11 +282,11 @@ BENIN
 
 |
 
-FRANC CFA
+EURO
 
 |
 
-81 000
+145
 
 |
 
@@ -318,11 +318,11 @@ BOLIVIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-170
+70
 
 |
 
@@ -402,11 +402,11 @@ BURKINA FASO
 
 |
 
-FRANC CFA
+EURO
 
 |
 
-50 270
+145
 
 |
 
@@ -450,11 +450,11 @@ CAMEROUN
 
 |
 
-FRANC CFA
+EURO
 
 |
 
-53 940
+120
 
 |
 
@@ -522,11 +522,11 @@ CHYPRE
 
 |
 
-LIVRE CYPRIOTE
+EURO
 
 |
 
-110
+190
 
 |
 
@@ -546,11 +546,11 @@ COMORES
 
 |
 
-FRANC COMORIEN
+EURO
 
 |
 
-38 500
+150
 
 |
 
@@ -606,11 +606,11 @@ COREE DU SUD
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-185
+210
 
 |
 
@@ -642,11 +642,11 @@ CROATIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-147
+142
 
 |
 
@@ -738,11 +738,11 @@ EMIRATS ARABES UNIS
 
 |
 
-DIRHAM DES EMIRATS
+EURO
 
 |
 
-754
+300
 
 |
 
@@ -1058,11 +1058,11 @@ HONGRIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-132
+175
 
 |
 
@@ -1158,7 +1158,7 @@ EURO
 
 |
 
-170
+220
 
 |
 
@@ -1250,11 +1250,11 @@ KOWEIT
 
 |
 
-DINAR DE KOWEIT
+EURO
 
 |
 
-85
+245
 
 |
 
@@ -1362,7 +1362,7 @@ EURO
 
 |
 
-147
+173
 
 |
 
@@ -1466,11 +1466,11 @@ MALTE
 
 |
 
-LIVRE MALTAISE
+EURO
 
 |
 
-45
+105
 
 |
 
@@ -1514,11 +1514,11 @@ MAURITANIE
 
 |
 
-OUGUIYA
+EURO
 
 |
 
-50 000
+143
 
 |
 
@@ -1567,6 +1567,18 @@ EURO
 |
 
 102
+
+|
+
+MONTENEGRO
+
+|
+
+EURO
+
+|
+
+150
 
 |
 
@@ -1706,11 +1718,11 @@ OMAN
 
 |
 
-RIAL OMANI
+EURO
 
 |
 
-90
+265
 
 |
 
@@ -1778,11 +1790,11 @@ PAPOUASIE-NOUVELLE-GUINEE
 
 |
 
-KINA
+EURO
 
 |
 
-402
+172
 
 |
 
@@ -2002,7 +2014,7 @@ FRANC CFA
 
 |
 
-SERBIE ET MONTENEGRO
+SERBIE
 
 |
 
@@ -2042,11 +2054,11 @@ SINGAPOUR
 
 |
 
-DOLLAR DE SINGAPOUR
+EURO
 
 |
 
-301
+200
 
 |
 
@@ -2210,11 +2222,11 @@ TCHAD
 
 |
 
-FRANC CFA
+EURO
 
 |
 
-124 000
+225
 
 |
 
@@ -2318,11 +2330,11 @@ TURQUIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-124
+165
 
 |
 
@@ -2382,7 +2394,7 @@ EURO
 
 |
 
-245
+195
 
 |
 
@@ -2390,11 +2402,11 @@ VIETNAM
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-135
+158
 
 |
 
