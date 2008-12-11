@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905528
+
+- Question : [SEQ080905528](seq080905528.md) — Nature d'un marché prolongeant un accord-cadre
+
+## Réponse
+
+*Économie, JO du 2008-12-11, page 2492*
+
+Les procédures détaillées par les directives communautaires s'imposent aux États membres pour les marchés publics d'un montant estimé supérieur aux seuils d'application de ces directives. L'appellation donnée aux différentes procédures par les textes communautaires a été reprise dans le droit français, à l'exception toutefois du cas des marchés à bons de commande. Pour autant, il est incontestable qu'en droit communautaire les marchés français dits « à bons de commande » sont bien une variété des accords-cadres communautaires, et c'est d'ailleurs ce que le Conseil d'État a confirmé dans son arrêt « commune de Nanterre » du 8 août 2008. Dans les avis de publicité, ils doivent, par suite, être identifiés comme des accords-cadres. Cette différence de dénomination a pour objectif de permettre une meilleure appréhension des règles respectivement applicables à ces deux types de contrats que sont les accords-cadres et les marchés à bons de commande. Les premiers ne peuvent être mis à exécution qu'après organisation d'une mise en concurrence s'ils ont plusieurs titulaires, alors que les seconds puisent dans le marché lui-même les règles d'attribution des bons de commande, sans qu'il soit procédé à une mise en concurrence. Il est à noter que ce besoin de différencier ces deux contrats a également été ressenti par la Commission européenne dans ses deux fiches explicatives sur les accords-cadres puisqu'elle les a respectivement identifiés, pour les besoins de sa démonstration, sous l'appellation d'accords-cadres et de contrats-cadres. Le droit français connaissant déjà les marchés à bons de commande, c'est cette appellation qui a été conservée pour la transposition des règles applicables aux accords-cadres communautaires sans remise en concurrence.
