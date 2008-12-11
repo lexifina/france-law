@@ -11,3 +11,9 @@ Les opérations du contrôle sanitaire officiel de l'arthrite encéphalite capri
 4. Prélèvements de sang et de lait destinés au diagnostic sérologique (à l'unité) ;
 
 5. Actes de marquage des animaux infectés (à l'unité).
+
+Les actes mentionnés aux 4° et 5° peuvent également être rémunérés selon un tarif horaire (1).
+
+NOTA :
+
+(1) Les modifications induites par l'arrêté du 5 décembre 2008 (AGRG0828936A) ont été annulées par décision du Conseil d'Etat n° 323496, en date du 17 février 2010.
