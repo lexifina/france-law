@@ -1,0 +1,10 @@
+# Toulouse métropole : délibération — Délégation des aides à la pierre - Opération Cité jardins "av Latécoère à Blagnac et Rte de Bayonne à Toulouse" : attribution de subventions exceptionnelles
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 2008-12-12
+- Nature : Délibération
+- Séance : conseil
+- Objet : Délégation des aides à la pierre - Opération Cité jardins "av Latécoère à Blagnac et Rte de Bayonne à Toulouse" : attribution de subventions exceptionnelles
+- Acte publié : http://deliberations.toulouse.fr/data/archive/doc7207.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5d2808999ce2e75655f50c0d
