@@ -1,16 +1,12 @@
-# Article Annexe I
+# Article Annexe VI
 
-CONCOURS SUR ÉPREUVES OUVERT AUX CAPITAINES OU LIEUTENANTS DE VAISSEAU
+CONCOURS SUR ÉPREUVES OUVERT AUX CAPITAINES OU OFFICIERS DE GRADE CORRESPONDANT ISSUS DU CORPS DES OFFICIERS DES ARMES DE L'ARMÉE DE TERRE, DES CORPS DES OFFICIERS DE MARINE OU DES OFFICIERS SPÉCIALISÉS DE LA MARINE OU DES CORPS DES OFFICIERS DE L'AIR, DES OFFICIERS MÉCANICIENS DE L'AIR ET DES OFFICIERS DES BASES DE L'AIR
 
-OU ASSIMILÉS DES CORPS DES OFFICIERS DES TROIS ARMÉES ET DES FORMATIONS RATTACHÉES
-
-(Art. 6 [3°] du décret du 22 décembre 1975 susvisé)
+(2° de l'article 8 du décret n° 2008-946 du 12 septembre 2008)
 
 I. - Nature, forme et programme de l'épreuve d'admissibilité
 
 L'épreuve d'admissibilité comprend une seule épreuve écrite : une épreuve de culture générale (durée : 4 heures ; coefficient 20).
-
-Epreuve de culture générale
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
@@ -24,7 +20,7 @@ Les épreuves d'admission comprennent :
 
 - une épreuve orale d'aptitude générale (durée : 45 minutes ; coefficient 20) ;
 
-- des épreuves sportives dont la moyenne des notes est affectée du coefficient 10 :
+- des épreuves sportives dont la moyenne des notes est affectée du coefficient 10 ;
 
 - une épreuve de natation ;
 
@@ -54,17 +50,15 @@ Pour cet entretien, le président du jury dispose, à titre indicatif, du dossie
 
 2.2.1. Epreuve de natation
 
-Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné. Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille.
+Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné.
+
+Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille.
 
 Les concurrents sont répartis par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à cinq nageurs.
 
 2.2.2. Epreuve de course de demi-fond
 
-Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne.
-
-Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
-
-Les candidats effectuent cette épreuve, par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
+Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve, par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
 
 2.2.3. Epreuve de course de vitesse
 
@@ -100,7 +94,7 @@ COURSE 3 000 M
 
 |
 
-CORDE (5 M)
+CORDE 5 M
 
 |
 
@@ -142,35 +136,35 @@ F
 
 |
 
-0'29"6
+0' 29'' 6
 
 |
 
-0'36"2
+0' 36'' 2
 
 |
 
-6"47
+6'' 47
 
 |
 
-7"61
+7'' 61
 
 |
 
-10'29"
+10' 29''
 
 |
 
-12'58"
+12' 58''
 
 |
 
-4"05
+4'' 05
 
 |
 
-5"99
+5' 99
 
 |
 
@@ -178,35 +172,35 @@ F
 
 |
 
-0'30"2
+0' 30'' 2
 
 |
 
-0'37"2
+0' 37'' 2
 
 |
 
-6"51
+6'' 51
 
 |
 
-7"69
+7'' 69
 
 |
 
-10'41"
+10' 41''
 
 |
 
-13'16"
+13' 16''
 
 |
 
-4"16
+4'' 16
 
 |
 
-6"49
+6'' 49
 
 |
 
@@ -214,35 +208,35 @@ F
 
 |
 
-0'30"8
+0' 30'' 8
 
 |
 
-0'38"4
+0' 38'' 4
 
 |
 
-6"56
+6'' 56
 
 |
 
-7"77
+7'' 77
 
 |
 
-10'53"
+10' 53''
 
 |
 
-13'37"
+13' 37''
 
 |
 
-4"27
+4'' 27
 
 |
 
-7"04
+7'' 04
 
 |
 
@@ -250,35 +244,35 @@ F
 
 |
 
-0'31"6
+0' 31'' 6
 
 |
 
-0'39"7
+0' 39'' 7
 
 |
 
-6"61
+6'' 61
 
 |
 
-7"86
+7'' 86
 
 |
 
-11'06"
+11' 06''
 
 |
 
-13'59"
+13' 59''
 
 |
 
-4"41
+4'' 41
 
 |
 
-7"63
+7'' 63
 
 |
 
@@ -286,35 +280,35 @@ F
 
 |
 
-0'32"3
+0' 32'' 3
 
 |
 
-0'41"1
+0' 41'' 1
 
 |
 
-6"65
+6'' 65
 
 |
 
-7"96
+7'' 96
 
 |
 
-11'21"
+11' 21''
 
 |
 
-14'23"
+14' 23''
 
 |
 
-4"56
+4'' 56
 
 |
 
-8"28
+8'' 28
 
 |
 
@@ -322,35 +316,35 @@ F
 
 |
 
-0'33"1
+0' 33'' 1
 
 |
 
-0'42"7
+0' 42'' 7
 
 |
 
-6"70
+6'' 70
 
 |
 
-8"07
+8'' 07
 
 |
 
-11'36"
+11' 36''
 
 |
 
-14'49"
+14' 49''
 
 |
 
-4"73
+4'' 73
 
 |
 
-8"97
+8'' 97
 
 |
 
@@ -358,35 +352,35 @@ F
 
 |
 
-0'35"1
+0' 35'' 1
 
 |
 
-0'44"5
+0' 44'' 5
 
 |
 
-6"82
+6'' 82
 
 |
 
-8"18
+8'' 18
 
 |
 
-11'53"
+11' 53''
 
 |
 
-15'17"
+15' 17''
 
 |
 
-4"93
+4'' 93
 
 |
 
-9"73
+9'' 73
 
 |
 
@@ -394,35 +388,35 @@ F
 
 |
 
-0'36"5
+0' 36'' 5
 
 |
 
-0'46"5
+0' 46'' 5
 
 |
 
-6"89
+6'' 89
 
 |
 
-8"31
+8'' 31
 
 |
 
-12'10"
+12' 10''
 
 |
 
-15'48"
+15' 48''
 
 |
 
-5"16
+5'' 16
 
 |
 
-10"55
+10'' 55
 
 |
 
@@ -430,35 +424,35 @@ F
 
 |
 
-0'38"0
+0' 38'' 0
 
 |
 
-0'48"8
+0' 48'' 8
 
 |
 
-6"97
+6'' 97
 
 |
 
-8"44
+8' 44''
 
 |
 
-12'29"
+12' 29''
 
 |
 
-16'21"
+16' 21''
 
 |
 
-5"43
+5'' 43
 
 |
 
-11"44
+11'' 44
 
 |
 
@@ -466,35 +460,35 @@ F
 
 |
 
-0'39"7
+0' 39'' 7
 
 |
 
-0'51"3
+0' 51'' 3
 
 |
 
-7"06
+7'' 06
 
 |
 
-8"58
+8'' 58
 
 |
 
-12'50"
+12' 50''
 
 |
 
-16'58"
+16' 58''
 
 |
 
-5"75
+5'' 75
 
 |
 
-12"40
+12'' 40
 
 |
 
@@ -502,35 +496,35 @@ F
 
 |
 
-0'41"7
+0' 41'' 7
 
 |
 
-0'54"1
+0' 54'' 1
 
 |
 
-7"15
+7'' 15
 
 |
 
-8"73
+8'' 73
 
 |
 
-13'12"
+13' 12''
 
 |
 
-17'37"
+17' 37''
 
 |
 
-6"13
+6'' 13
 
 |
 
-13"08
+13'' 08
 
 |
 
@@ -538,35 +532,35 @@ F
 
 |
 
-0'43"9
+0' 43'' 9
 
 |
 
-0'57"2
+0' 57'' 2
 
 |
 
-7"25
+7'' 25
 
 |
 
-8"89
+8'' 89
 
 |
 
-13'36"
+13' 36''
 
 |
 
-18'19"
+18' 19''
 
 |
 
-6"60
+6'' 60
 
 |
 
-13"36
+13'' 36
 
 |
 
@@ -574,35 +568,35 @@ F
 
 |
 
-0'46"4
+0' 46'' 4
 
 |
 
-1'00"8
+1' 00'' 8
 
 |
 
-7"36
+7'' 36
 
 |
 
-9"06
+9'' 06
 
 |
 
-14'02"
+14' 02''
 
 |
 
-19'06"
+19' 06''
 
 |
 
-7"19
+7'' 19
 
 |
 
-14"04
+14'' 04
 
 |
 
@@ -610,35 +604,35 @@ F
 
 |
 
-0'49"1
+0' 49'' 1
 
 |
 
-1'04"7
+1' 04'' 7
 
 |
 
-7"47
+7'' 47
 
 |
 
-9"25
+9'' 25
 
 |
 
-14'29"
+14' 29''
 
 |
 
-19'56"
+19' 56''
 
 |
 
-7"95
+7'' 95
 
 |
 
-14"32
+14'' 32
 
 |
 
@@ -646,35 +640,35 @@ F
 
 |
 
-0'52"3
+0' 52'' 3
 
 |
 
-1'09"1
+1' 09'' 1
 
 |
 
-7"60
+7'' 60
 
 |
 
-9"45
+9'' 45
 
 |
 
-14'59"
+14' 59''
 
 |
 
-20'51"
+20' 51''
 
 |
 
-9"
+9''
 
 |
 
-15"00
+15'' 00
 
 |
 
@@ -682,27 +676,27 @@ F
 
 |
 
-0'56"0
+0' 56'' 0
 
 |
 
-1'14"0
+1' 14'' 0
 
 |
 
-7"70
+7'' 70
 
 |
 
-9"70
+9'' 70
 
 |
 
-15'30"
+15' 30''
 
 |
 
-21'40"
+21' 40''
 
 |
 
@@ -718,27 +712,27 @@ F
 
 |
 
-0'59"8
+0' 59'' 8
 
 |
 
-1'19"6
+1' 19'' 6
 
 |
 
-7"88
+7'' 88
 
 |
 
-9"89
+9'' 89
 
 |
 
-16'05"
+16' 05''
 
 |
 
-22'54"
+22' 54''
 
 |
 
@@ -746,7 +740,7 @@ F
 
 |
 
-3,0 m (1)
+3 m (1)
 
 |
 
@@ -754,27 +748,27 @@ F
 
 |
 
-1'04"2
+1' 04'' 2
 
 |
 
-1'25"8
+1' 25'' 8
 
 |
 
-8"03
+8'' 03
 
 |
 
-10"14
+10'' 14
 
 |
 
-16'42"
+16' 42''
 
 |
 
-24'04"
+24' 04''
 
 |
 
@@ -790,27 +784,27 @@ F
 
 |
 
-1'09"3
+1' 09'' 3
 
 |
 
-1'32"7
+1' 32'' 7
 
 |
 
-8"20
+8'' 20
 
 |
 
-10"40
+10'' 40
 
 |
 
-17"22"
+17' 22''
 
 |
 
-25'19"
+25' 19''
 
 |
 
@@ -818,7 +812,7 @@ F
 
 |
 
-2,0 m (1)
+2 m (1)
 
 |
 
@@ -826,27 +820,27 @@ F
 
 |
 
-1'14"9
+1' 14'' 9
 
 |
 
-1'40"5
+1' 40'' 5
 
 |
 
-8"38
+8'' 38
 
 |
 
-10"69
+10'' 69
 
 |
 
-18'05"
+18' 05''
 
 |
 
-26'42"
+26' 42''
 
 |
 
@@ -854,7 +848,7 @@ F
 
 |
 
-1,50 m (1)
+1,5 m (1)
 
 |
 
@@ -862,14 +856,12 @@ F
 
 |
 
-Note attribuée à tout candidat qui ne se présente pas à une épreuve, ne l'exécute pas en totalité, ou accomplit une performance inférieure à celle sanctionnée par la note 1.
+Note attribuée à tout candidat qui ne se présente pas à une épreuve, ne l'exécute pas en totalité ou accomplit une performance inférieure à celle sanctionnée par la note 1.
 
 |
 
-(1) Avec les limitations de temps suivantes : 9 secondes pour les garçons et 15 secondes pour les filles sans que la marque des 5 mètres ne soit touchée.
+(1) Avec les limitations de temps suivantes : 9 secondes pour les garçons et 15 secondes pour les filles sans que la marge des 5 mètres ne soit touchée.
 
-Nota.
-
-- En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
+Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
 |

@@ -1,28 +1,30 @@
-# Article Annexe III
+# Article Annexe I
 
-CONCOURS SUR ÉPREUVES OUVERT AUX TITULAIRES
+CONCOURS SUR ÉPREUVES OUVERT AUX CANDIDATS TITULAIRES D'UN DIPLÔME VALIDANT LA FIN DE PREMIÈRE ANNÉE DU GRADE DE MASTER OU D'UN CERTIFICAT DE SCOLARITÉ VALIDANT L'ANNÉE PRÉCÉDANT CELLE DE L'ATTRIBUTION DU GRADE DE MASTER
 
-D'UN DIPLÔME DE FIN DE DEUXIÈME CYCLE DE L'ENSEIGNEMENT SUPÉRIEUR
+(1° de l'article 6 du décret n° 2008-946 du 12 septembre 2008 susvisé)
 
-(Art. 7 [2°] du décret du 22 décembre 1975 susvisé)
+CONCOURS SUR ÉPREUVES OUVERT AUX FONCTIONNAIRES CIVILS DE L'ÉTAT, DES COLLECTIVITÉS TERRITORIALES, D'UN ÉTABLISSEMENT PUBLIC OU D'UN ORGANISME INTERNATIONAL
 
-I. - Nature, forme et programmes des épreuves d'admissibilité
+(2° de l'article 6 du décret n° 2008-946 du 12 septembre 2008 susvisé)
+
+I.-Nature, forme et programmes des épreuves d'admissibilité
 
 Les épreuves d'admissibilité comprennent :
 
-- une épreuve de culture générale (durée : 5 heures ; coefficient 5) ;
+― une épreuve de culture générale (durée : 5 heures ; coefficient 5) ;
 
-- une épreuve de synthèse de dossier (durée : 4 heures ; coefficient 5) ;
+― une épreuve de synthèse de dossier (durée : 4 heures ; coefficient 5) ;
 
-- une épreuve à option (durée 4 heures ; coefficient 6).
+― une épreuve à option (durée 4 heures ; coefficient 6).
 
-1.1. Epreuve de culture générale
+1. 1. Epreuve de culture générale
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
-Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du xxe siècle.
+Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
 
-1.2. Epreuve de synthèse de dossier
+1. 2. Epreuve de synthèse de dossier
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier et à les restituer par écrit sous la forme d'un exposé clair, précis et concis.
 
@@ -30,41 +32,41 @@ Elle consiste en la rédaction en trois pages maximum d'une synthèse objective,
 
 Le dossier, d'un volume maximum de vingt pages, rassemble des documents d'origines diverses (extraits de presse, ouvrages, données statistiques...) portant sur des idées ou des faits d'actualité.
 
-1.3. Epreuve à option
+1. 3. Epreuve à option
 
 Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
-- géographie économique et humaine ;
+― géographie économique et humaine ;
 
-- histoire ;
+― histoire ;
 
-- sciences économiques ;
+― sciences économiques ;
 
-- gestion ;
+― gestion ;
 
-- mathématiques ;
+― mathématiques ;
 
-- physique ;
+― physique ;
 
-- chimie ;
+― chimie ;
 
-- biologie ;
+― biologie ;
 
-- technologies de l'information et de la communication ;
+― technologies de l'information et de la communication ;
 
-- droit pénal ;
+― droit pénal ;
 
-- droit administratif ;
+― droit administratif ;
 
-- droit constitutionnel et libertés publiques ;
+― droit constitutionnel et libertés publiques ;
 
-- droit communautaire et européen ;
+― droit communautaire et européen ;
 
-- relations internationales ;
+― relations internationales ;
 
-- langues (au choix : allemand, anglais, espagnol, italien).
+― langues (au choix : allemand, anglais, espagnol, italien).
 
-a) Option géographie économique et humaine
+a) Option géographie économique et humaine :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -72,85 +74,85 @@ La répartition de la population dans le monde
 
 Démographie :
 
-- le mouvement naturel de la population :
+― le mouvement naturel de la population :
 
-- les données fondamentales (natalité, mortalité, solde naturel, structures par âges, par sexes, pyramides des âges...) ;
+― les données fondamentales (natalité, mortalité, solde naturel, structures par âges, par sexes, pyramides des âges...) ;
 
-- les facteurs d'évolution (scientifiques et techniques, économiques et politiques, culturels et religieux...) ;
+― les facteurs d'évolution (scientifiques et techniques, économiques et politiques, culturels et religieux...) ;
 
-- les mouvements migratoires :
+― les mouvements migratoires :
 
-- les migrations internes ;
+― les migrations internes ;
 
-- les migrations internationales ;
+― les migrations internationales ;
 
-- les résultantes démographiques (perspectives et prévisions) : différents types de pays (structures et évolutions).
+― les résultantes démographiques (perspectives et prévisions) : différents types de pays (structures et évolutions).
 
 Peuplement :
 
-- les inégalités du peuplement et leurs explications (naturelles et historiques, économiques, sociales et culturelles) ;
+― les inégalités du peuplement et leurs explications (naturelles et historiques, économiques, sociales et culturelles) ;
 
-- peuplement et développement (la double inégalité) :
+― peuplement et développement (la double inégalité) :
 
-- pays vieux et pays jeunes ;
+― pays vieux et pays jeunes ;
 
-- pays riches et pays pauvres ;
+― pays riches et pays pauvres ;
 
-- opposition des centres et des périphéries :
+― opposition des centres et des périphéries :
 
-- l'explosion urbaine ;
+― l'explosion urbaine ;
 
-- les ruralités ;
+― les ruralités ;
 
-- l'état du monde en 2020 ; les effets de la croissance démographique, du vieillissement, du renforcement des contrastes de richesse et de dynamisme économique, les tensions et les conflits potentiels.
+― l'état du monde en 2020 ; les effets de la croissance démographique, du vieillissement, du renforcement des contrastes de richesse et de dynamisme économique, les tensions et les conflits potentiels.
 
 L'organisation de l'espace géographique
 
 Villes et systèmes de villes :
 
-- les fondements de la concentration (centralité et polarisation) ;
+― les fondements de la concentration (centralité et polarisation) ;
 
-- la ville (son organisation et son fonctionnement) ;
+― la ville (son organisation et son fonctionnement) ;
 
-- villes et agglomérations urbaines :
+― villes et agglomérations urbaines :
 
-- les fonctions urbaines et les activités ;
+― les fonctions urbaines et les activités ;
 
-- la société urbaine (ses structures et ses comportements) ;
+― la société urbaine (ses structures et ses comportements) ;
 
-- l'espace urbain et sa différenciation (centre et périphérie, les banlieues, l'extension de la périurbanisation et ses conséquences) ;
+― l'espace urbain et sa différenciation (centre et périphérie, les banlieues, l'extension de la périurbanisation et ses conséquences) ;
 
-- les mutations récentes, économiques, sociales et culturelles ; leur expression spatiale ; la crise des villes ;
+― les mutations récentes, économiques, sociales et culturelles ; leur expression spatiale ; la crise des villes ;
 
-- la croissance des grandes villes ; métropoles et mégapoles ; concentration quantitative et qualitative, concentration de la richesse et de la pauvreté. Les ségrégations socio-spatiales. Tensions et conflits ;
+― la croissance des grandes villes ; métropoles et mégapoles ; concentration quantitative et qualitative, concentration de la richesse et de la pauvreté. Les ségrégations socio-spatiales. Tensions et conflits ;
 
-- les relations entre ville et campagne, entre ville et région. Les réseaux urbains et les systèmes de villes ;
+― les relations entre ville et campagne, entre ville et région. Les réseaux urbains et les systèmes de villes ;
 
-- les transports internes et externes ; le rôle croissant des communications et l'importance de la vie de relation.
+― les transports internes et externes ; le rôle croissant des communications et l'importance de la vie de relation.
 
 Régions, territoires, Etats, grands ensembles géoéconomiques : les principes fondamentaux de l'organisation de l'espace et de la régionalisation :
 
-- la région :
+― la région :
 
-- les facteurs d'émergence et de prise en compte de la réalité régionale (identité et limites) ;
+― les facteurs d'émergence et de prise en compte de la réalité régionale (identité et limites) ;
 
-- les différents types de régions (régions géographiques, régions administratives, régions homogènes, régions polarisées...) ;
+― les différents types de régions (régions géographiques, régions administratives, régions homogènes, régions polarisées...) ;
 
-- les territoires : l'apparition d'un nouveau concept et l'affirmation d'une nouvelle réalité résultant d'une appropriation individuelle et collective de l'espace. Sa prise en compte dans la nouvelle organisation administrative de la France (pays et communautés) ;
+― les territoires : l'apparition d'un nouveau concept et l'affirmation d'une nouvelle réalité résultant d'une appropriation individuelle et collective de l'espace. Sa prise en compte dans la nouvelle organisation administrative de la France (pays et communautés) ;
 
-- les Etats et la gestion de leur territoire :
+― les Etats et la gestion de leur territoire :
 
-- maillages, limites et contrôle ;
+― maillages, limites et contrôle ;
 
-- les tendances à la décentralisation ;
+― les tendances à la décentralisation ;
 
-- les Etats et leurs relations internationales :
+― les Etats et leurs relations internationales :
 
-- notions élémentaires de géopolitique ; les frontières, leur rôle et leur signification ;
+― notions élémentaires de géopolitique ; les frontières, leur rôle et leur signification ;
 
-- les tendances récentes à l'intégration ; la construction européenne et la constitution des grands ensembles géoéconomiques (UE, ALENA, MERCOSUR, APEC, ASEAN) ;
+― les tendances récentes à l'intégration ; la construction européenne et la constitution des grands ensembles géoéconomiques (UE, ALENA, MERCOSUR, APEC, ASEAN) ;
 
-- le rôle accru des grandes organisations internationales (FMI, Banque mondiale, OMC).
+― le rôle accru des grandes organisations internationales (FMI, Banque mondiale, OMC).
 
 La mondialisation, la globalisation, les interdépendances
 
@@ -194,85 +196,21 @@ L'aménagement du territoire et les principaux types d'action (régionalisation,
 
 La protection de l'environnement :
 
-- problèmes posés par la production alimentaire et sa gestion ; par l'eau, sa distribution et son traitement ; par l'approvisionnement énergétique... ;
+― problèmes posés par la production alimentaire et sa gestion ; par l'eau, sa distribution et son traitement ; par l'approvisionnement énergétique... ;
 
-- problèmes des risques naturels et des actions destructrices de l'homme (pollutions, déforestations, désertification, épuisement des ressources...) ;
+― problèmes des risques naturels et des actions destructrices de l'homme (pollutions, déforestations, désertification, épuisement des ressources...) ;
 
-- problèmes de protection du patrimoine.
+― problèmes de protection du patrimoine.
 
 Le concept de développement durable et sa prise en compte dans les politiques de précaution.
 
-b) Option histoire contemporaine
+b) Option histoire contemporaine :
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
+Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur le programme suivant :
 
-La France de 1871 à 1914
+La France de 1871 à nos jours : politique, économie, civilisations, relations internationales, aucun domaine n'étant exclu.
 
-Les conséquences du conflit.
-
-La conquête de la République (1871-1879).
-
-La République s'organise (1879-1885).
-
-Crises sociales, politiques et redressement (1885-1899).
-
-La République radicale et la laïcité (1899-1914).
-
-L'expansion coloniale sous la IIIe République (1871-1914).
-
-La France de 1918 à 1939
-
-La France à la fin de la Première Guerre mondiale.
-
-La politique intérieure et extérieure de la France de 1919 à 1939.
-
-Les crises sociales et politiques.
-
-La France dans la Seconde Guerre mondiale
-
-Les origines et les prémices du conflit (1936-1939).
-
-L'entrée en guerre, la conduite des opérations en Europe et la défaite de 1940.
-
-La France de 1940 à 1944 :
-
-- le régime de Vichy, son action et son évolution ;
-
-- la vie quotidienne des Français de 1940 à 1944 ;
-
-- Résistance et Collaboration.
-
-L'occupation, les visées allemandes.
-
-L'Empire français pendant la guerre.
-
-La période 1944-mai 1945.
-
-La genèse d'une France nouvelle (1945-1962)
-
-La France à la sortie de la Seconde Guerre mondiale. - Le Gouvernement provisoire.
-
-La vie politique en France sous la IVe République.
-
-La croissance économique et la mise en place de l'Etat social.
-
-La IVe République et les problèmes coloniaux.
-
-1958-1962 : mise en place d'un nouveau régime et la fin d'une époque.
-
-La construction européenne
-
-L'émergence de l'idée européenne et les projets ou réalisations jusqu'en 1945.
-
-1945-1957 : vers une Communauté européenne : le Conseil de l'Europe, la Communauté européenne du charbon et de l'acier (CECA), la Communauté européenne de défense (CED), la Communauté européenne de l'énergie atomique (EURATOM) et la Communauté économique européenne (CEE).
-
-1957-1969 : L'adolescence de la CEE.
-
-1969-1985 : La 2e relance de la construction européenne.
-
-1985-1992 : La 3e relance de la construction européenne.
-
-c) Option sciences économiques
+c) Option sciences économiques :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -294,17 +232,17 @@ La macro-économie
 
 Les agents et les opérations comptables :
 
-- la comptabilité nationale ;
+― la comptabilité nationale ;
 
-- l'équilibre comptable et l'équilibre économique.
+― l'équilibre comptable et l'équilibre économique.
 
 L'équilibre macro-économique avec des prix flexibles : l'approche classique et néoclassique.
 
 L'équilibre macro-économique avec des prix rigides :
 
-- l'approche keynésienne ;
+― l'approche keynésienne ;
 
-- le modèle IS-LM.
+― le modèle IS-LM.
 
 La théorie du déséquilibre et les fondements micro-économiques de la macro-économie.
 
@@ -338,7 +276,7 @@ Politique budgétaire et politique fiscale.
 
 Politique monétaire.
 
-d) Option gestion
+d) Option gestion :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -348,7 +286,7 @@ Théories traditionnelles, théorie des relations humaines.
 
 Théories de la contingence, théorie des systèmes.
 
-Approches nouvelles : théorie de la décision, analyse stratégique, théorie des ressources et des compétences, écologie des populations et évolutionnisme, néo-institutionnalisme...
+Approches nouvelles : théorie de la décision, analyse stratégique, théorie des ressources et des compétences, écologie des populations et évolutionnisme, néo-institutionnalisme.
 
 Les grandes fonctions
 
@@ -384,9 +322,9 @@ Le diagnostic et la dynamique concurrentielle : l'analyse des forces concurrenti
 
 Le diagnostic et la dynamique organisationnelle :
 
-- l'analyse technologique ;
+― l'analyse technologique ;
 
-- l'analyse du potentiel de l'organisation (chaîne de valeur).
+― l'analyse du potentiel de l'organisation (chaîne de valeur).
 
 Les choix stratégiques
 
@@ -394,7 +332,7 @@ Stratégies intersectorielles et interentreprises.
 
 Stratégies internationales.
 
-La mise en oeuvre des choix stratégiques.
+La mise en œuvre des choix stratégiques.
 
 Quelques problématiques actuelles
 
@@ -408,129 +346,125 @@ La gestion de la flexibilité.
 
 La gestion de l'innovation et du changement.
 
-e) Option mathématiques
+e) Option mathématiques :
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et/ou des problèmes figurant au programme ci-après.
-
-L'usage de calculatrices, règles à calculs, tables de logarithmes ou tout autre matériel est formellement interdit.
+Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et / ou des problèmes figurant au programme ci-après :
 
 Analyse
 
 Espace vectoriel, normes :
 
-- normes sur un espace vectoriel réel ou complexe (définitions, propriétés, notions associées) ;
+― normes sur un espace vectoriel réel ou complexe (définitions, propriétés, notions associées) ;
 
-- suite de fonctions (les espaces vectoriels considérés dans ce paragraphe sont de dimension finie sur R ou C et les applications sont définies sur une partie d'un tel espace vectoriel et à valeur dans une autre) :
+― suite de fonctions (les espaces vectoriels considérés dans ce paragraphe sont de dimension finie sur R ou C et les applications sont définies sur une partie d'un tel espace vectoriel et à valeur dans une autre) :
 
-- équivalence des normes suite de Cauchy ;
+― équivalence des normes, suite de Cauchy ;
 
-- notions de topologie, voisinage, continuité, continuité uniforme, parties compactes ;
+― notions de topologie, voisinage, continuité, continuité uniforme, parties compactes ;
 
-- espaces préhilbertiens réels ou complexes. Produit scalaire, inégalité de Cauchy-Schwarz, norme : famille orthonormale, méthode de Schmidt. Existence d'une base orthonormale dans un espace de dimension finie. Projection orthogonale sur un sous-espace de dimension finie.
+― espaces préhilbertiens réels ou complexes. Produit scalaire, inégalité de Cauchy-Schwarz, norme : famille orthonormale, méthode de Schmidt. Existence d'une base orthonormale dans un espace de dimension finie. Projection orthogonale sur un sous-espace de dimension finie.
 
 Fonctions d'une variable réelle, calcul différentiel et intégral (les fonctions étudiées sont définies sur un intervalle et à valeurs dans un espace vectoriel de dimension finie sur R et C) :
 
-- dérivation :
+― dérivation :
 
-- opérations algébriques sur les dérivées ;
+― opérations algébriques sur les dérivées ;
 
-- fonctions de classe Ck (k entier naturel ou k infini), fonctions de classes Ck par morceaux ;
+― fonctions de classe Ck (k entier naturel ou k infini), fonctions de classes Ck par morceaux ;
 
-- intégration sur un segment :
+― intégration sur un segment :
 
-- propriétés de l'intégrale ;
+― propriétés de l'intégrale ;
 
-- primitives d'une fonction continue sur un intervalle. Intégration par parties, changement de variable ;
+― primitives d'une fonction continue sur un intervalle. Intégration par parties, changement de variable ;
 
-- inégalité des accroissements finis pour une fonction de classe C¹ sur un segment (a, b). Caractérisation des fonctions constantes et des fonctions lipschitziennes sur un intervalle ;
+― inégalité des accroissements finis pour une fonction de classe C1 sur un segment (a, b). Caractérisation des fonctions constantes et des fonctions lipschitziennes sur un intervalle ;
 
-- formule de Taylor : formule de Taylor à l'ordre p reste intégral pour une fonction de classe Cp + ¹, inégalité de Taylor-Lagrange. Intégration des développements limités. Théorème de Taylor-Young.
+― formule de Taylor : formule de Taylor à l'ordre p, reste intégral pour une fonction de classe Cp + 1, inégalité de Taylor-Lagrange. Intégration des développements limités. Théorème de Taylor-Young.
 
 Séries :
 
-- séries de nombres réels ou complexes :
+― séries de nombres réels ou complexes :
 
-- séries convergentes, divergentes, absolument convergentes. Critère de convergence de Cauchy. Convergence d'une série absolument convergente ;
+― séries convergentes, divergentes, absolument convergentes. Critère de convergence de Cauchy. Convergence d'une série absolument convergente ;
 
-- séries à termes positifs. Emploi des relations de comparaison pour l'étude de la convergence ;
+― séries à termes positifs. Emploi des relations de comparaison pour l'étude de la convergence ;
 
-- séries alternées. Convergence d'une série alternée, majoration du reste ;
+― séries alternées. Convergence d'une série alternée, majoration du reste ;
 
-- opérations sur les séries ;
+― opérations sur les séries ;
 
-- suites et séries de fonctions (les fonctions considérées dans ce paragraphe sont à valeurs réelles ou complexes) :
+― suites et séries de fonctions (les fonctions considérées dans ce paragraphe sont à valeurs réelles ou complexes) :
 
-- convergence simple, convergence uniforme d'une série de fonctions ;
+― convergence simple, convergence uniforme d'une série de fonctions ;
 
-- suites et séries uniformément convergentes de fonctions sur un intervalle ;
+― suites et séries uniformément convergentes de fonctions sur un intervalle ;
 
-- séries entières (les coefficients des séries entières considérés dans ce paragraphe sont réels ou complexes) :
+― séries entières (les coefficients des séries entières considérés dans ce paragraphe sont réels ou complexes) :
 
-- séries entières d'une variable complexe ;
+― séries entières d'une variable complexe ;
 
-- séries entières d'une variable réelle. Développement en série entière ;
+― séries entières d'une variable réelle. Développement en série entière ;
 
-- définition de exp(z) ou (cz), cos(z), sin(z) pour z complexe. Exponentielle d'une somme ;
+― définition de exp (z) ou (cz), cos (z), sin (z) pour z complexe. Exponentielle d'une somme ;
 
-- séries de Fourier ; théorème de Dirichlet sur le développement en série de Fourier d'une fonction périodique de classe C¹ par morceaux, formule de Parseval pour de telles fonctions.
+― séries de Fourier ; théorème de Dirichlet sur le développement en série de Fourier d'une fonction périodique de classe C1 par morceaux, formule de Parseval pour de telles fonctions.
 
 Equations différentielles :
 
-- systèmes linéaires d'ordre 1 à coefficients constants. Etude du système X' = AX, où A est une matrice diagonalisable à éléments réels ou complexes, résolution du problème de Cauchy ;
+― systèmes linéaires d'ordre 1 à coefficients constants. Etude du système X'= AX, où A est une matrice diagonalisable à éléments réels ou complexes, résolution du problème de Cauchy ;
 
-- équations linéaires scalaires d'ordre 2. Equation du type x'' + a(t)x' + b(t)x = c(t), où a, b, c sont continues sur un intervalle à valeurs réelles ou complexes. Théorème d'existence et d'unicité d'une solution au problème de Cauchy. Résolution dans le cas où a, b sont des constantes. Méthode de variation des constantes ;
+― équations linéaires scalaires d'ordre 2. Equation du type x''+ a (t) x'+ b (t) x = c (t), où a, b, c sont continues sur un intervalle à valeurs réelles ou complexes. Théorème d'existence et d'unicité d'une solution au problème de Cauchy. Résolution dans le cas où a, b sont des constantes. Méthode de variation des constantes ;
 
-- notions sur les équations non linéaires :
+― notions sur les équations non linéaires :
 
-- solutions d'une équation différentielle x' = f(t, x) (resp x'' = f(t, x, x'), où f est de classe C' sur un ouvert de R² (resp. de classe C² sur un ouvert de R³). Théorème d'existence et d'unicité locales de solutions au problème de Cauchy. Résolution de l'équation x' = a(t)g(x), où a est continue sur un intervalle de R et g est de classe C¹ et ne s'annulant pas sur un intervalle de R.
+― solutions d'une équation différentielle x'= f (t, x) (resp x''= f (t, x, x')), où f est de classe C'sur un ouvert de R ² (resp. de classe C ² sur un ouvert de R ³). Théorème d'existence et d'unicité locales de solutions au problème de Cauchy. Résolution de l'équation x'= a (t) g (x), où a est continue sur un intervalle de R et g est de classe C ¹ et ne s'annulant pas sur un intervalle de R.
 
 Fonctions de plusieurs variables réelles :
 
-- calcul différentiel (les fonctions considérées dans ce paragraphe sont définies sur un ouvert de Rp à valeurs de R³) :
+― calcul différentiel (les fonctions considérées dans ce paragraphe sont définies sur un ouvert de Rp à valeurs de R ³) :
 
-- applications de classe C¹, différentielle, matrice jacobienne, jacobien ;
+― applications de classe C ¹, différentielle, matrice jacobienne, jacobien ;
 
-- définition des fonctions de classe Ck sur un ouvert de Rp à valeurs dans Rn (k entier naturel ou k infini) ;
+― définition des fonctions de classe Ck sur un ouvert de Rp à valeurs dans Rn (k entier naturel ou k infini) ;
 
-- points critiques d'une fonction de classe C¹ sur un ouvert de Rp ; condition nécessaire d'existence d'un extremum local. Pour une fonction numérique de classe C¹ sur un ouvert de R² ; formule de Taylor-Young, étude de l'existence d'un extremum local en un point critique ;
+― points critiques d'une fonction de classe C ¹ sur un ouvert de Rp ; condition nécessaire d'existence d'un extremum local. Pour une fonction numérique de classe C ¹ sur un ouvert de R ² ; formule de Taylor-Young, étude de l'existence d'un extremum local en un point critique ;
 
-- calcul intégral :
+― calcul intégral :
 
-- intégrales doubles et triples. Propriétés. Calcul en coordonnées cartésiennes. Changement de variables ; cas du passage en coordonnées polaires ;
+― intégrales doubles et triples. Propriétés. Calcul en coordonnées cartésiennes. Changement de variables ; cas du passage en coordonnées polaires ;
 
-- intégrale curviligne d'une forme différentielle de degré 1 continue sur un ouvert de Rp.
+― intégrale curviligne d'une forme différentielle de degré 1 continue sur un ouvert de Rp.
 
 Algèbre
 
 Algèbre linéaire et multilinéaire (dans ce chapitre le corps de base est R ou C) :
 
-- dualité des espaces vectoriels de dimension finie. Bases associées d'un espace E et de son dual E*. Orthogonalité ;
+― dualité des espaces vectoriels de dimension finie. Bases associées d'un espace E et de son dual E*. Orthogonalité ;
 
-- calcul matriciel et systèmes d'équations linéaires ;
+― calcul matriciel et systèmes d'équations linéaires ;
 
-- réduction des endomorphismes et des matrices carrées :
+― réduction des endomorphismes et des matrices carrées :
 
-- valeurs propres d'un endomorphisme, sous espaces propres, vecteurs propres ;
+― valeurs propres d'un endomorphisme, sous espaces propres, vecteurs propres ;
 
-- réduction d'un endomorphisme en dimension finie. Polynôme caractéristique, ordre de multiplicité d'une valeur propre. Endomorphisme diagonalisable ;
+― réduction d'un endomorphisme en dimension finie. Polynôme caractéristique, ordre de multiplicité d'une valeur propre. Endomorphisme diagonalisable ;
 
-- valeurs propres d'une matrice carrée, vecteurs propres. Diagonalisation de matrices carrées.
+― valeurs propres d'une matrice carrée, vecteurs propres. Diagonalisation de matrices carrées.
 
 Espaces vectoriels euclidiens (les espaces vectoriels considérés dans ce chapitre sont de dimension finie sur R) :
 
-- géométrie des espaces euclidiens :
+― géométrie des espaces euclidiens :
 
-- endomorphisme symétrique ; matrice associée dans une base orthonormale ;
+― endomorphisme symétrique ; matrice associée dans une base orthonormale ;
 
-- automorphismes orthogonaux, groupe orthogonal, groupe spécial orthogonal (rotations), matrices orthogonales, changement de base orthogonale ;
+― automorphismes orthogonaux, groupe orthogonal, groupe spécial orthogonal (rotations), matrices orthogonales, changement de base orthogonale ;
 
-- réduction des endomorphismes symétriques. Réduction d'un endomorphisme symétrique dans une base orthonormale. Diagonalisation d'une matrice symétrique au moyen d'une matrice orthogonale. Définition d'une forme quadratique. Endomorphisme symétrique associé. Définition des formes quadratiques définies positives.
+― réduction des endomorphismes symétriques. Réduction d'un endomorphisme symétrique dans une base orthonormale. Diagonalisation d'une matrice symétrique au moyen d'une matrice orthogonale. Définition d'une forme quadratique. Endomorphisme symétrique associé. Définition des formes quadratiques définies positives.
 
-f) Option physique
+f) Option physique :
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et/ou des problèmes figurant au programme ci-après.
-
-L'usage de calculatrices, règles à calcul, tables de logarithmes ou tout autre matériel est formellement interdit.
+Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et / ou des problèmes figurant au programme ci-après :
 
 Mécanique
 
@@ -544,11 +478,11 @@ Electrostatique du vide et des milieux diélectriques linéaires et isotropes : 
 
 Electrocinétique :
 
-- lois des circuits. Réseaux. Sources de tension. Sources de courant. Courants continus, courants alternatifs. Impédance électrique complexe. Puissance en régime continu et en régime sinusoïdal ;
+― lois des circuits. Réseaux. Sources de tension. Sources de courant. Courants continus, courants alternatifs. Impédance électrique complexe. Puissance en régime continu et en régime sinusoïdal ;
 
-- oscillations électriques libres, forcées et entretenues. Résonances. Analogie électromécanique ;
+― oscillations électriques libres, forcées et entretenues. Résonances. Analogie électromécanique ;
 
-- production et distribution de l'énergie électrique. Sécurité électrique.
+― production et distribution de l'énergie électrique. Sécurité électrique.
 
 Magnétostatique du vide et des milieux magnétiques linéaires et isotropes : induction magnétique. Force magnétique.
 
@@ -556,31 +490,31 @@ Induction électromagnétique et auto-induction : force électromotrice. Génér
 
 Equations de Maxwell :
 
-- ondes progressives et ondes stationnaires. Ondes électromagnétiques monochromatiques planes. Polarisation. Réflexion, réfraction. Effet Doppler. Radar ;
+― ondes progressives et ondes stationnaires. Ondes électromagnétiques monochromatiques planes. Polarisation. Réflexion, réfraction. Effet Doppler. Radar ;
 
-- dispersion des ondes électromagnétiques dans les milieux. Vitesse de groupe et vitesse de phase. Propagation dans les lignes. Guides métalliques. Résonances dans les cavités. Systèmes rayonnants, antennes.
+― dispersion des ondes électromagnétiques dans les milieux. Vitesse de groupe et vitesse de phase. Propagation dans les lignes. Guides métalliques. Résonances dans les cavités. Systèmes rayonnants, antennes.
 
 Ondes électromagnétiques dans le domaine du visible et l'infra-rouge :
 
-- modèle du rayon lumineux. Indice de réfraction. Miroirs. Dioptre. Prisme. Lentilles minces. Association de deux lentilles minces. Lunette terrestre et lunette astronomique. Télescope. Jumelles. Microscope ;
+― modèle du rayon lumineux. Indice de réfraction. Miroirs. Dioptre. Prisme. Lentilles minces. Association de deux lentilles minces. Lunette terrestre et lunette astronomique. Télescope. Jumelles. Microscope ;
 
-- interférences. Principe de Huygens-Fresnel. Diffraction. Fibres optiques. Principe de fonctionnement des lasers ;
+― interférences. Principe de Huygens-Fresnel. Diffraction. Fibres optiques. Principe de fonctionnement des lasers ;
 
-- photométrie énergétique. Flux, intensité, luminance, éclairement énergétique. Notions de photométrie visuelle.
+― photométrie énergétique. Flux, intensité, luminance, éclairement énergétique. Notions de photométrie visuelle.
 
 Electronique et électricité
 
 Généralités :
 
-- lois de conservation, courant électrique, dipôle élémentaire. Eléments passifs ;
+― lois de conservation, courant électrique, dipôle élémentaire. Eléments passifs ;
 
-- lois de Kirchhoff, théorèmes généraux, dualité.
+― lois de Kirchhoff, théorèmes généraux, dualité.
 
 Composants électroniques et circuits RLC en régime permanent et transitoire :
 
-- impédances complexes, fonctions de transfert, puissance complexe et adaptation d'impédance. Boucles de réaction ;
+― impédances complexes, fonctions de transfert, puissance complexe et adaptation d'impédance. Boucles de réaction ;
 
-- réponse d'un circuit en régime sinusoïdal.
+― réponse d'un circuit en régime sinusoïdal.
 
 Ampli opérationnel en régime linéaire et saturé : montage suiveur, inverseur, non inverseur, sommateur, soustracteur, intégrateur, oscillateur.
 
@@ -602,13 +536,13 @@ Caractéristiques générales du noyau atomique.
 
 Radioactivité naturelle et artificielle :
 
-- désintégration radioactive. Période. Activité. Filiations radioactives. Réactions nucléaires. Notion de section efficace. Energie de liaison. Fission. Fusion. Principe de fonctionnement de réacteurs nucléaires ;
+― désintégration radioactive. Période. Activité. Filiations radioactives. Réactions nucléaires. Notion de section efficace. Energie de liaison. Fission. Fusion. Principe de fonctionnement de réacteurs nucléaires ;
 
-- méthodes nucléaires d'analyses.
+― méthodes nucléaires d'analyses.
 
 Eléments de radioprotection et de sauvegarde de la vie humaine.
 
-g) Option chimie
+g) Option chimie :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -628,7 +562,7 @@ Etats d'un système ; variables d'état ; fonctions d'état.
 
 Modèle des gaz parfaits.
 
-Premier principe ; états standard ; enthalpie de formation ; énergie de liaison.
+Premier principe ; états standards ; enthalpie de formation ; énergie de liaison.
 
 Second principe ; entropie.
 
@@ -638,7 +572,7 @@ Propriétés des solutions ; potentiel chimique ; loi de Henry ; activité ; loi
 
 Equilibres physiques ; changements d'état ; diagrammes de changement de phase.
 
-Equilibres ioniques ; sels faiblement solubles ; acides et bases ; solutions tampon.
+Equilibres ioniques ; sels faiblement solubles ; acides et bases ; solutions tampons.
 
 Equilibres d'oxydoréduction ; nombre d'oxydation ; réactions d'oxydoréduction ; électrodes et piles ; équation de Nernst ; électrolyse.
 
@@ -688,7 +622,7 @@ Analyse thermique ; analyse thermométrique (ATD, AED) ; analyse thermomécaniqu
 
 Cristallographie ; diffraction des rayons X.
 
-h) Option biologie
+h) Option biologie :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -714,55 +648,55 @@ Biologie et physiologie animales
 
 (le programme est restreint aux mammifères)
 
-Fonction de relation : Organisation structurale, fonctionnelle et régulation des systèmes assurant la fonction de relation :
+Fonction de relation : organisation structurale, fonctionnelle et régulation des systèmes assurant la fonction de relation :
 
-- la transmission de l'information au sein de l'organisme : communications nerveuses et humorales ;
+― la transmission de l'information au sein de l'organisme : communications nerveuses et humorales ;
 
-- les fonctions sensorielles (définition et description générale de la fonction sensorielle à partir d'exemples) ;
+― les fonctions sensorielles (définition et description générale de la fonction sensorielle à partir d'exemples) ;
 
-- les organes et cellules sensorielles spécialisés ; la transduction des stimuli sensoriels en potentiel de récepteur puis en message nerveux propagé ; intéroception ; extéroception) ;
+― les organes et cellules sensorielles spécialisés ; la transduction des stimuli sensoriels en potentiel de récepteur puis en message nerveux propagé ; intéroception ; extéroception) ;
 
-- mouvements réflexes, mouvements volontaires ;
+― mouvements réflexes, mouvements volontaires ;
 
-- le fonctionnement des effecteurs : muscle et squelette.
+― le fonctionnement des effecteurs : muscle et squelette.
 
 Fonction de nutrition : Organisation structurale, fonctionnelle et régulation des systèmes assurant la fonction de nutrition :
 
-- les besoins alimentaires ;
+― les besoins alimentaires ;
 
-- l'alimentation et la digestion ;
+― l'alimentation et la digestion ;
 
-- la respiration ;
+― la respiration ;
 
-- la circulation ;
+― la circulation ;
 
-- les grandes voies du métabolisme et leur régulation à l'échelle de l'organisme ;
+― les grandes voies du métabolisme et leur régulation à l'échelle de l'organisme ;
 
-- l'excrétion.
+― l'excrétion.
 
 Fonction de reproduction, le développement et la croissance :
 
-- la détermination et la différenciation du sexe ;
+― la détermination et la différenciation du sexe ;
 
-- la gamétogenèse et la fécondation ;
+― la gamétogenèse et la fécondation ;
 
-- le développement embryonnaire et postembryonnaire, leurs déterminismes ;
+― le développement embryonnaire et postembryonnaire, leurs déterminismes ;
 
-- physiologie embryonnaire, foetale et néonatale ;
+― physiologie embryonnaire, fœtale et néonatale ;
 
-- la parturition et la lactation ;
+― la parturition et la lactation ;
 
-- le cycle de reproduction ;
+― le cycle de reproduction ;
 
-- la maîtrise de la reproduction humaine.
+― la maîtrise de la reproduction humaine.
 
 Le maintien de l'intégrité et de l'identité de l'organisme :
 
-- immunologie : réactions immunitaires non spécifiques et spécifiques, l'immunité cellulaire et humorale, dérèglements et déficiences du système immunitaire, principe de l'immunothérapie ;
+― immunologie : réactions immunitaires non spécifiques et spécifiques, l'immunité cellulaire et humorale, dérèglements et déficiences du système immunitaire, principe de l'immunothérapie ;
 
-- le milieu intérieur : la régulation des paramètres sanguins, l'hémostase, le bilan hydrique et l'osmorégulation ;
+― le milieu intérieur : la régulation des paramètres sanguins, l'hémostase, le bilan hydrique et l'osmorégulation ;
 
-- les réactions de l'organisme en fonction de son milieu de vie.
+― les réactions de l'organisme en fonction de son milieu de vie.
 
 Biologie et physiologie végétales
 
@@ -772,33 +706,33 @@ Cytologie, histologie et anatomie des angiospermes.
 
 Croissance et développement :
 
-- la cellule végétale et les tissus végétaux, structure, mise en place, rôle ;
+― la cellule végétale et les tissus végétaux, structure, mise en place, rôle ;
 
-- croissance et organogenèse : cellule apicale, notion de méristème, d'organogenèse illimitée et d'histogenèse ;
+― croissance et organogenèse : cellule apicale, notion de méristème, d'organogenèse illimitée et d'histogenèse ;
 
-- les rythmes de croissance, les corrélations, les régulateurs de croissance.
+― les rythmes de croissance, les corrélations, les régulateurs de croissance.
 
 Reproduction sexuée :
 
-- la méïose, la fécondation, le zygote, l'alternance de générations ;
+― la méïose, la fécondation, le zygote, l'alternance de générations ;
 
-- la fleur : édification, structure, fonctionnement ; l'ovule et la graine, la germination, le fruit ;
+― la fleur : édification, structure, fonctionnement ; l'ovule et la graine, la germination, le fruit ;
 
-- physiologie de la floraison : mise à fleur, vernalisation, photopériodisme.
+― physiologie de la floraison : mise à fleur, vernalisation, photopériodisme.
 
 Multiplication végétative :
 
-- diversité de la multiplication végétative naturelle et artificielle ;
+― diversité de la multiplication végétative naturelle et artificielle ;
 
-- la culture in vitro, bases biologiques et physiologiques, intérêts.
+― la culture in vitro, bases biologiques et physiologiques, intérêts.
 
 Importance du sol dans la biologie de la plante.
 
 La nutrition :
 
-- nutrition minérale : absorption, transport, utilisation de l'eau et des éléments minéraux, transpiration ;
+― nutrition minérale : absorption, transport, utilisation de l'eau et des éléments minéraux, transpiration ;
 
-- photosynthèse ; photorespiration ; devenir des constituants synthétisés ; autotrophie ; hétérotrophie.
+― photosynthèse ; photorespiration ; devenir des constituants synthétisés ; autotrophie ; hétérotrophie.
 
 Ecologie
 
@@ -834,11 +768,9 @@ La sortie des eaux des vertébrés.
 
 Hominisation.
 
-i) Option technologies de l'information et de la communication
+i) Option technologies de l'information et de la communication :
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après.
-
-L'usage de calculatrices, règles à calculs, tables de logarithmes ou tout autre matériel est formellement interdit.
+Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
 Réseaux et communications
 
@@ -848,7 +780,7 @@ Transmission et supports de communication.
 
 Réseaux locaux (Ethernet, Token Ring, haut débit, FDDI).
 
-Protocoles réseau TCP/IP.
+Protocoles réseau TCP / IP.
 
 Administration de réseaux.
 
@@ -870,7 +802,7 @@ Les cartes vidéo.
 
 Les périphériques particuliers (multimédia...).
 
-Internet/intranet
+Internet / intranet
 
 Les principaux outils et moteurs de recherche. Méthodologie.
 
@@ -884,7 +816,7 @@ Gestion des ressources.
 
 Gestion de la mémoire.
 
-Les entrées/sorties.
+Les entrées / sorties.
 
 Algorithmique
 
@@ -912,7 +844,7 @@ Les fonctions d'un système de gestion de bases de données relationnelles (SGBD
 
 Les organisations (hiérarchique, réseau, relationnel, objet).
 
-Le modèle relationnel de E.F. CODD.
+Le modèle relationnel de EF CODD.
 
 Les bases de données réparties.
 
@@ -936,7 +868,7 @@ La propriété intellectuelle.
 
 La criminalité informatique.
 
-j) Option droit pénal
+j) Option droit pénal :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -1040,59 +972,59 @@ Définition, objet et sources du droit spécial.
 
 Les infractions contre les personnes :
 
-- les infractions de nature purement corporelle :
+― les infractions de nature purement corporelle :
 
-- atteintes volontaires à la vie d'autrui (meurtre, empoisonnement) ;
+― atteintes volontaires à la vie d'autrui (meurtre, empoisonnement) ;
 
-- atteintes volontaires à l'intégrité d'autrui (violences) ;
+― atteintes volontaires à l'intégrité d'autrui (violences) ;
 
-- homicides involontaires ;
+― homicides involontaires ;
 
-- atteintes involontaires à l'intégrité d'autrui ;
+― atteintes involontaires à l'intégrité d'autrui ;
 
-- les infractions de mise en danger :
+― les infractions de mise en danger :
 
-- mise en danger délibérée d'autrui (délit de risques causés à autrui) ;
+― mise en danger délibérée d'autrui (délit de risques causés à autrui) ;
 
-- conduite en état alcoolique ;
+― conduite en état alcoolique ;
 
-- omission de porter secours à personne en péril ;
+― omission de porter secours à personne en péril ;
 
-- infractions en matière de stupéfiants ;
+― infractions en matière de stupéfiants ;
 
-- les infractions de nature sexuelle :
+― les infractions de nature sexuelle :
 
-- agressions sexuelles (viol et autres agressions, exhibition sexuelle, harcèlement sexuel) ;
+― agressions sexuelles (viol et autres agressions, exhibition sexuelle, harcèlement sexuel) ;
 
-- atteintes sexuelles non violentes sur mineur ;
+― atteintes sexuelles non violentes sur mineur ;
 
-- les infractions contre l'enfant et la famille :
+― les infractions contre l'enfant et la famille :
 
-- non-respect d'obligations pécuniaires (abandon de famille) ;
+― non-respect d'obligations pécuniaires (abandon de famille) ;
 
-- non-respect de l'obligation de garde (non-représentation d'enfant) ;
+― non-respect de l'obligation de garde (non-représentation d'enfant) ;
 
-- atteintes à l'intégrité physique ou psychique ou à la moralité du mineur (privations d'aliments ou de soins, abandon moral, diffusion de messages pornographiques ou violents).
+― atteintes à l'intégrité physique ou psychique ou à la moralité du mineur (privations d'aliments ou de soins, abandon moral, diffusion de messages pornographiques ou violents).
 
 Les infractions contre les biens :
 
-- les incriminations fondamentales concernant les appropriations frauduleuses :
+― les incriminations fondamentales concernant les appropriations frauduleuses :
 
-- vol, escroquerie, abus de confiance, recel de choses ;
+― vol, escroquerie, abus de confiance, recel de choses ;
 
-- les destructions, détériorations et dégradations de biens.
+― les destructions, détériorations et dégradations de biens.
 
 Autres infractions :
 
-- infractions contre les intérêts publics :
+― infractions contre les intérêts publics :
 
-- faux et usage de faux, corruption active et corruption passive, prise illégale d'intérêt ;
+― faux et usage de faux, corruption active et corruption passive, prise illégale d'intérêt ;
 
-- infractions en matière de sociétés :
+― infractions en matière de sociétés :
 
-- abus de biens sociaux.
+― abus de biens sociaux.
 
-k) Option droit administratif
+k) Option droit administratif :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -1106,21 +1038,21 @@ L'organisation administrative
 
 L'administration d'Etat :
 
-- l'administration centrale, le Président de la République ;
+― l'administration centrale, le Président de la République ;
 
-- le Premier ministre, les ministres, l'administration consultative, les autorités administratives indépendantes ;
+― le Premier ministre, les ministres, l'administration consultative, les autorités administratives indépendantes ;
 
-- l'administration d'Etat déconcentrée (préfet, sous-préfet), les services extérieurs de l'Etat.
+― l'administration d'Etat déconcentrée (préfet, sous-préfet), les services extérieurs de l'Etat.
 
 Les collectivités locales :
 
-- la région, le département, la commune, les groupements de collectivités locales, le statut de Paris-Lyon-Marseille, le contrôle administratif des collectivités locales.
+― la région, le département, la commune, les groupements de collectivités locales, le statut de Paris-Lyon-Marseille, le contrôle administratif des collectivités locales.
 
 Les établissements publics.
 
 Les rapports entre les personnes publiques :
 
-- centralisation, décentralisation et déconcentration.
+― centralisation, décentralisation et déconcentration.
 
 L'action de l'administration
 
@@ -1128,27 +1060,27 @@ Le principe de la légalité administrative.
 
 L'objet de l'action de l'administration :
 
-- la théorie générale des services publics ;
+― la théorie générale des services publics ;
 
-- la police administrative.
+― la police administrative.
 
 La responsabilité administrative extracontractuelle :
 
-- la responsabilité de l'administration ; la responsabilité pour faute, la responsabilité sans faute ;
+― la responsabilité de l'administration ; la responsabilité pour faute, la responsabilité sans faute ;
 
-- la responsabilité du fonctionnaire et ses rapports avec celle de l'administration.
+― la responsabilité du fonctionnaire et ses rapports avec celle de l'administration.
 
 La justice administrative
 
 Les principales juridictions administratives :
 
-- le Conseil d'Etat ;
+― le Conseil d'Etat ;
 
-- les cours administratives d'appel ;
+― les cours administratives d'appel ;
 
-- les tribunaux administratifs.
+― les tribunaux administratifs.
 
-Le partage des compétences entre les juridictions administratives et judiciaires, le Tribunal des conflits.
+Le partage des compétences entre les juridictions administratives et judiciaires, le tribunal des conflits.
 
 Les recours contentieux ; les prérogatives de l'administration, la distinction des recours contentieux, la procédure contentieuse, le recours pour excès de pouvoir, les voies de recours.
 
@@ -1158,7 +1090,7 @@ La théorie générale du droit de la fonction publique ; les sources, la compos
 
 Le régime juridique de la fonction publique ; la carrière du fonctionnaire, les droits et obligations du fonctionnaire.
 
-l) Option droit constitutionnel et libertés publiques
+l) Option droit constitutionnel et libertés publiques :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -1174,27 +1106,27 @@ Etude de l'Etat unitaire et de l'Etat fédéral.
 
 Typologie des régimes politiques et formes d'Etat correspondantes :
 
-- forme monocratique ;
+― forme monocratique ;
 
-- forme oligarchique ;
+― forme oligarchique ;
 
-- forme démocratique.
+― forme démocratique.
 
 Les grands systèmes politiques contemporains :
 
-- les systèmes autoritaires, les systèmes totalitaires ;
+― les systèmes autoritaires, les systèmes totalitaires ;
 
-- les systèmes démocratiques modernes.
+― les systèmes démocratiques modernes.
 
 La notion de droit constitutionnel
 
 Les sources du droit constitutionnel :
 
-- les lois constitutionnelles ;
+― les lois constitutionnelles ;
 
-- la supériorité des lois constitutionnelles sur les lois ordinaires et le contrôle de la constitutionnalité des lois ;
+― la supériorité des lois constitutionnelles sur les lois ordinaires et le contrôle de la constitutionnalité des lois ;
 
-- les déclarations de droit et leur valeur juridique.
+― les déclarations de droit et leur valeur juridique.
 
 Les rapports du droit constitutionnel et du droit international.
 
@@ -1204,19 +1136,19 @@ La Constitution de la Ve République
 
 Ses principes fondamentaux :
 
-- souveraineté nationale et séparation des pouvoirs.
+― souveraineté nationale et séparation des pouvoirs.
 
 Les organes fondamentaux de l'Etat et leurs fonctions :
 
-- le Président de la République ;
+― le Président de la République ;
 
-- le Gouvernement ;
+― le Gouvernement ;
 
-- le Parlement ;
+― le Parlement ;
 
-- le Conseil constitutionnel et le contrôle de constitutionnalité ;
+― le Conseil constitutionnel et le contrôle de constitutionnalité ;
 
-- le pouvoir judiciaire et son indépendance.
+― l'autorité judiciaire et son indépendance.
 
 Libertés publiques
 
@@ -1224,157 +1156,159 @@ Les principes généraux des libertés publiques
 
 La notion de libertés publiques :
 
-- la liberté ;
+― la liberté ;
 
-- la classification bipartite des libertés publiques (libertés individuelles et libertés collectives).
+― la classification bipartite des libertés publiques (libertés individuelles et libertés collectives).
 
 Les sources des libertés publiques :
 
-- la source constitutionnelle ;
+― la source constitutionnelle ;
 
-- la source conventionnelle ;
+― la source conventionnelle ;
 
-- la source législative ;
+― la source législative ;
 
-- la source réglementaire ;
+― la source réglementaire ;
 
-- les sources jurisprudentielles ;
+― les sources jurisprudentielles ;
 
-- la hiérarchie des sources.
+― la hiérarchie des sources.
 
 La protection des libertés publiques :
 
-- le contrôle juridictionnel (la protection contre la loi et la protection contre les actes de l'administration) ;
+― le contrôle juridictionnel (la protection contre la loi et la protection contre les actes de l'administration) ;
 
-- le contrôle non juridictionnel (le Médiateur de la République et le renforcement de la garantie des administrés).
+― le contrôle non juridictionnel (le Médiateur de la République et le renforcement de la garantie des administrés).
 
 Les limites aux libertés publiques :
 
-- les régimes exceptionnels (l'article 16 de la Constitution, l'état de siège, l'état d'urgence, la théorie des circonstances exceptionnelles).
+― les régimes exceptionnels (l'article 16 de la Constitution, l'état de siège, l'état d'urgence, la théorie des circonstances exceptionnelles).
 
 Les principales libertés publiques
 
 Les libertés individuelles :
 
-- la protection de la vie privée ;
+― la protection de la vie privée ;
 
-- la sûreté personnelle ;
+― la sûreté personnelle ;
 
-- la liberté d'aller et venir ;
+― la liberté d'aller et venir ;
 
-- le droit à la vie.
+― le droit à la vie.
 
 Les libertés collectives :
 
-- la liberté de réunion ;
+― la liberté de réunion ;
 
-- la liberté de manifestation ;
+― la liberté de manifestation ;
 
-- la liberté d'association ;
+― la liberté d'association ;
 
-- la liberté de la presse ;
+― la liberté de la presse ;
 
-- la liberté de communication audiovisuelle ;
+― la liberté de communication audiovisuelle ;
 
-- la liberté religieuse ;
+― la liberté religieuse ;
 
-- la liberté de l'enseignement.
+― la liberté de l'enseignement.
 
-m) Option droit communautaire et européen
+m) Option droit communautaire et européen :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
-Droit communautaire général/les aspects institutionnels
+Droit communautaire général / les aspects institutionnels
 
 Les étapes de la construction européenne :
 
-- création des Communautés ;
+― création des Communautés ;
 
-- évolution des Communautés ;
+― évolution des Communautés ;
 
-- les Communautés dans l'Union européenne.
+― les Communautés dans l'Union européenne.
 
 Le système institutionnel des communautés européennes :
 
-- statut et compétences ;
+― statut et compétences ;
 
-- institutions et organes/répartition des pouvoirs ;
+― institutions et organes / répartition des pouvoirs ;
 
-- finances de l'Union européenne ;
+― finances de l'Union européenne ;
 
-- relations extérieures des Communautés.
+― relations extérieures des Communautés.
 
 Le système juridique des Communautés européennes :
 
-- sources du droit communautaire : les différents types d'actes ;
+― sources du droit communautaire : les différents types d'actes ;
 
-- caractères du droit communautaire : le principe d'applicabilité immédiate/le principe d'applicabilité directe/le principe de primauté ;
+― caractères du droit communautaire : le principe d'applicabilité immédiate / le principe d'applicabilité directe / le principe de primauté ;
 
-- mise en oeuvre du droit communautaire.
+― mise en œuvre du droit communautaire.
 
 Le système judiciaire des Communautés européennes :
 
-- les organes juridictionnels communautaires ;
+― les organes juridictionnels communautaires ;
 
-- les différents types de recours ;
+― les différents types de recours ;
 
-- coopération judiciaire dans les Communautés européennes.
+― coopération judiciaire dans les Communautés européennes.
 
 L'Europe en perspective :
 
-- l'Europe dans le monde ;
+― l'Europe dans le monde ;
 
-- l'Europe de la défense ;
+― l'Europe de la défense ;
 
-- l'Europe de la police et de la justice.
+― l'Europe de la police et de la justice.
 
-Droit communautaire matériel/actions et politiques
+Droit communautaire matériel / actions et politiques
 
 des Communautés européennes
 
 Droit du marché intérieur :
 
-- la liberté de circulation des marchandises (interdiction des droits de douane et taxes d'effet équivalent, interdiction des restrictions quantitatives aux échanges et des mesures d'effet équivalent) ;
+― la liberté de circulation des marchandises (interdiction des droits de douane et taxes d'effet équivalent, interdiction des restrictions quantitatives aux échanges et des mesures d'effet équivalent) ;
 
-- des personnes (champ d'application, le contenu de la libre circulation) ;
+― des personnes (champ d'application, le contenu de la libre circulation) ;
 
-- des services ;
+― des services ;
 
-- des capitaux ;
+― des capitaux ;
 
-- les règles de concurrence ;
+― les règles de concurrence ;
 
-- les règles applicables aux entreprises privées et publiques (ententes, position dominante et concentration) ;
+― les règles applicables aux entreprises privées et publiques (ententes, position dominante et concentration) ;
 
-- les aides accordées par les Etats (principe d'interdiction des aides étatiques, dérogations, rôle significatif de la Commission européenne).
+― les aides accordées par les Etats (principe d'interdiction des aides étatiques, dérogations, rôle significatif de la Commission européenne).
 
 L'Union économique et monétaire.
 
 La politique sociale et la cohésion économique et sociale :
 
-- politique sociale :
+― politique sociale :
 
-- contexte (politique, juridique, socio-économique) ;
+― contexte (politique, juridique, socio-économique) ;
 
-- champ d'action (thématique et modalités de mise en oeuvre) ;
+― champ d'action (thématique et modalités de mise en œuvre) ;
 
-- réglementation (processus de décisions et réalisations) ;
+― réglementation (processus de décisions et réalisations) ;
 
-- cohésion économique et sociale :
+― cohésion économique et sociale :
 
-- l'aide aux régions (actions structurelles, démarches pragmatiques, les principes et les thèmes centraux) ;
+― l'aide aux régions (actions structurelles, démarches pragmatiques, les principes et les thèmes centraux) ;
 
-- les différents types d'actions (l'action par objectif et par les initiatives communautaires).
+― les différents types d'actions (l'action par objectif et par les initiatives communautaires).
 
 Politique agricole commune.
 
 Politique des transports.
 
-Politique commerciale commune/relations entre l'Union européenne et l'Organisation mondiale du commerce.
+Politique commerciale commune / relations entre l'Union européenne et l'Organisation mondiale du commerce.
 
-Les services publics et l'Union européenne : hétérogénéité des conceptions nationales : les institutions européennes et le service public.
+Les services publics et l'Union européenne : hétérogénéité des conceptions nationales :
 
-n) Option relations internationales
+Les institutions européennes et le service public.
+
+n) Option relations internationales :
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
 
@@ -1382,17 +1316,17 @@ Histoire des relations internationales depuis 1945
 
 La période 1945-1990 :
 
-- les rapports Est-Ouest ;
+― les rapports Est-Ouest ;
 
-- la décolonisation, le non-alignement et les rapports Nord-Sud.
+― la décolonisation, le non-alignement et les rapports Nord-Sud.
 
 Les recompositions après 1990 :
 
-- l'effondrement de l'URSS et la fin de la bipolarité ;
+― l'effondrement de l'URSS et la fin de la bipolarité ;
 
-- les transformations en Europe ;
+― les transformations en Europe ;
 
-- l'effacement du tiers monde.
+― l'effacement du tiers monde.
 
 Les données fondamentales des relations internationales
 
@@ -1402,23 +1336,23 @@ Grands principes juridiques des relations internationales. Rapports de la force 
 
 Acteurs des relations internationales :
 
-- les Etats (éléments constitutifs, principes juridiques d'égalité et de souveraineté et la hiérarchie entre les Etats, indépendance, compétences, fonction et transformation des Etats, droit des peuples à disposer d'eux-mêmes, succession d'Etats) ;
+― les Etats (éléments constitutifs, principes juridiques d'égalité et de souveraineté et la hiérarchie entre les Etats, indépendance, compétences, fonction et transformation des Etats, droit des peuples à disposer d'eux-mêmes, succession d'Etats) ;
 
-- les organisations internationales ; origines et théorie générale. L'Organisation des Nations unies et les institutions spécialisées, les organisations régionales ;
+― les organisations internationales ; origines et théorie générale.L'Organisation des Nations unies et les institutions spécialisées, les organisations régionales ;
 
-- les acteurs privés des relations internationales. L'individu, les sociétés multinationales, les organisations non gouvernementales (ONG). Rôle de la société civile dans les relations internationales.
+― les acteurs privés des relations internationales.L'individu, les sociétés multinationales, les organisations non gouvernementales (ONG). Rôle de la société civile dans les relations internationales.
 
 Présentation sommaire des sources du droit international :
 
-- les traités internationaux, coutume, principes généraux du droit ;
+― les traités internationaux, coutume, principes généraux du droit ;
 
-- les actes des organisations internationales ;
+― les actes des organisations internationales ;
 
-- les actes unilatéraux.
+― les actes unilatéraux.
 
 Les instruments des relations internationales
 
-L'outil diplomatique. Pouvoir central (Président de la République, gouvernement, ministère des affaires étrangères, pouvoir de contrôle du Parlement). Les agents diplomatiques et consulaires (statut, fonctions). Les relations diplomatiques.
+L'outil diplomatique. Pouvoir central (Président de la République, Gouvernement, ministère des affaires étrangères, pouvoir de contrôle du Parlement). Les agents diplomatiques et consulaires (statut, fonctions). Les relations diplomatiques.
 
 La négociation internationale.
 
@@ -1434,7 +1368,7 @@ Les nouveaux domaines de l'action internationale
 
 Le phénomène de la mondialisation et ses effets.
 
-Les relations commerciales, économiques et financières, l'Organisation mondiale du commerce (OMC), présentation sommaire des organismes financiers internationaux et des organisations d'intégration économiques régionales en dehors du cadre européen : Accord de libre-échange nord-américain (ALENA), Mercado comun del Sur (MERCOSUR).
+Les relations commerciales, économiques et financières, l'Organisation mondiale du commerce (OMC), présentation sommaire des organismes financiers internationaux et des organisations d'intégration économiques régionales en dehors du cadre européen : Accord de libre-échange nord-américain (ALENA), Mercado Comun del Sur (MERCOSUR).
 
 La protection internationale des droits de l'homme.
 
@@ -1468,19 +1402,19 @@ L'élargissement de l'Union européenne.
 
 L'Union économique et monétaire.
 
-o) Option langue vivante étrangère
+o) Option langue vivante étrangère :
 
-Cette épreuve doit permettre d'évaluer à la fois le niveau de culture linguistique (tournures idiomatiques, grammaire, vocabulaire...), les connaissances didactiques, littéraires de la langue et de la civilisation du pays choisi par chaque candidat. L'épreuve de langue vivante étrangère consiste à réaliser :
+Cette épreuve doit permettre d'évaluer à la fois le niveau de culture linguistique (tournures idiomatiques, grammaire, vocabulaire...), les connaissances didactiques, littéraires de la langue et de la civilisation du pays choisi par chaque candidat.L'épreuve de langue vivante étrangère consiste à réaliser :
 
-- une traduction (thème et version) ;
+― une traduction (thème et version) ;
 
-- une composition écrite, dans la langue choisie relative à une question d'actualité ou de société se rapportant au pays concerné.
+― une composition écrite, dans la langue choisie relative à une question d'actualité ou de société se rapportant au pays concerné.
 
 Les langues proposées au choix des candidats sont les suivantes : allemand, anglais, espagnol, italien.
 
 L'usage du dictionnaire monolingue ou bilingue est interdit.
 
-II. - Nature, forme et programmes des épreuves d'admission
+II.-Nature, forme et programmes des épreuves d'admission
 
 Les épreuves d'admission comprennent :
 
@@ -1504,25 +1438,25 @@ Une épreuve de course (distance 3 000 mètres).
 
 Une épreuve de course (distance 50 mètres).
 
-2.1. Nature, forme et programmes des épreuves orales
+2. 1. Nature, forme et programmes des épreuves orales
 
-2.1.1. Epreuve d'aptitude générale
+2. 1. 1. Epreuve d'aptitude générale
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
 
 Elle comporte :
 
-- un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
+― un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-- un entretien individuel du candidat avec le président et les vice-présidents du jury. Il débute par un exposé d'une durée de 15 à 20 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
+― un entretien individuel du candidat avec le président et les vice-présidents du jury. Il débute par un exposé d'une durée de 15 à 20 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
 
 Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de 20 minutes.
 
 Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
-2.1.2. Epreuve sur l'organisation générale de la défense
+2. 1. 2. Epreuve sur l'organisation générale
 
-et de la sécurité intérieure
+de la défense et de la sécurité intérieure
 
 Cette épreuve est destinée à mettre en relief les connaissances des candidats sur les choix nationaux de politique de défense et de sécurité.
 
@@ -1538,21 +1472,21 @@ La souveraineté nationale.
 
 La défense dans un contexte européen :
 
-- concept et problématique.
+― concept et problématique.
 
 Les menaces : risques et vulnérabilité :
 
-- les déséquilibres démographiques ;
+― les déséquilibres démographiques ;
 
-- les conflits régionaux interethniques ;
+― les conflits régionaux interethniques ;
 
-- les menaces chimiques et biologiques ;
+― les menaces chimiques et biologiques ;
 
-- la menace nucléaire ;
+― la menace nucléaire ;
 
-- le terrorisme ;
+― le terrorisme ;
 
-- les facteurs d'insécurité.
+― les facteurs d'insécurité.
 
 Les fondements et la doctrine
 
@@ -1572,9 +1506,9 @@ L'organisation générale de la défense.
 
 La défense militaire :
 
-- les grands acteurs (gendarmerie nationale, armée de terre, armée de l'air, marine nationale) ;
+― les grands acteurs (gendarmerie nationale, armée de terre, armée de l'air, marine nationale) ;
 
-- le rôle de la gendarmerie dans la défense opérationnelle du territoire.
+― le rôle de la gendarmerie dans la défense opérationnelle du territoire.
 
 La défense économique.
 
@@ -1582,11 +1516,11 @@ La défense civile.
 
 Le dispositif de sécurité intérieure :
 
-- les acteurs ;
+― les acteurs ;
 
-- les partenariats.
+― les partenariats.
 
-2.1.3. Epreuve de langue vivante étrangère
+2. 1. 3. Epreuve de langue vivante étrangère
 
 Cette épreuve consiste à commenter dans la langue choisie, puis à traduire, en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec l'examinateur.
 
@@ -1594,39 +1528,39 @@ Le candidat opte pour l'une des langues suivantes : allemand, anglais, espagnol,
 
 L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation d'une trentaine de minutes.
 
-2.2. Nature, forme et barème des épreuves sportives
+2. 2. Nature, forme et barème des épreuves sportives
 
-2.2.1. Epreuve de natation
+2. 2. 1. Epreuve de natation
 
 Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné. Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille.
 
 Les concurrents sont répartis par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à cinq nageurs.
 
-2.2.2. Epreuve de course de demi-fond
+2. 2. 2. Epreuve de course de demi-fond
 
 Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne.
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
 
-Les candidats effectuent cette épreuve, par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
+Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
 
-2.2.3. Epreuve de course de vitesse
+2. 2. 3. Epreuve de course de vitesse
 
-Il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide de starting blocks.
+Il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide de starting-blocks.
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
 
-Les candidats effectuent cette épreuve, par groupes d'importance numérique aussi semblable que possible.
+Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible.
 
-2.2.4. Epreuve de grimper de corde
+2. 2. 4. Epreuve de grimper de corde
 
 Il s'agit de grimper à la corde lisse en style libre et en temps limité une seule fois une corde de 5 mètres mesurés du sol.
 
 Le départ s'effectue debout, sur un pied à l'initiative du candidat. Le chronomètre est déclenché lorsque le deuxième pied du candidat quitte le sol. Le chronomètre est arrêté lorsque le candidat touche la marque des 5 mètres. Si le temps atteint 9 secondes pour les garçons et 15 secondes pour les filles sans que la marque des 5 mètres ne soit touchée, le candidat est arrêté et la hauteur grimpée est prise en compte selon le barème donné.
 
-La corde est marquée tous les 50 centimètres, de 1,5 mètre à 6 mètres.
+La corde est marquée tous les 50 centimètres, de 1, 5 mètre à 6 mètres.
 
-2.2.5. Barème des épreuves sportives
+2. 2. 5. Barème des épreuves sportives
 
 NOTES
 
@@ -1686,35 +1620,35 @@ F
 
 |
 
-0'29"6
+0'29''6
 
 |
 
-0'36"2
+0'36''2
 
 |
 
-6"47
+6''47
 
 |
 
-7"61
+7''61
 
 |
 
-10'29"
+10'29''
 
 |
 
-12'58"
+12'58''
 
 |
 
-4"05
+4''05
 
 |
 
-5"99
+5''99
 
 |
 
@@ -1722,35 +1656,35 @@ F
 
 |
 
-0'30"2
+0'30''2
 
 |
 
-0'37"2
+0'37''2
 
 |
 
-6"51
+6''51
 
 |
 
-7"69
+7''69
 
 |
 
-10'41"
+10'41''
 
 |
 
-13'16"
+13'16''
 
 |
 
-4"16
+4''16
 
 |
 
-6"49
+6''49
 
 |
 
@@ -1758,35 +1692,35 @@ F
 
 |
 
-0'30"8
+0'30''8
 
 |
 
-0'38"4
+0'38''4
 
 |
 
-6"56
+6''56
 
 |
 
-7"77
+7''77
 
 |
 
-10'53"
+10'53''
 
 |
 
-13'37"
+13'37''
 
 |
 
-4"27
+4''27
 
 |
 
-7"04
+7''04
 
 |
 
@@ -1794,35 +1728,35 @@ F
 
 |
 
-0'31"6
+0'31''6
 
 |
 
-0'39"7
+0'39''7
 
 |
 
-6"61
+6''61
 
 |
 
-7"86
+7''86
 
 |
 
-11'06"
+11'06''
 
 |
 
-13'59"
+13'59''
 
 |
 
-4"41
+4''41
 
 |
 
-7"63
+7''63
 
 |
 
@@ -1830,35 +1764,35 @@ F
 
 |
 
-0'32"3
+0'32''3
 
 |
 
-0'41"1
+0'41''1
 
 |
 
-6"65
+6''65
 
 |
 
-7"96
+7''96
 
 |
 
-11'21"
+11'21''
 
 |
 
-14'23"
+14'23''
 
 |
 
-4"56
+4''56
 
 |
 
-8"28
+8''28
 
 |
 
@@ -1866,35 +1800,35 @@ F
 
 |
 
-0'33"1
+0'33''1
 
 |
 
-0'42"7
+0'42''7
 
 |
 
-6"70
+6''70
 
 |
 
-8"07
+8''07
 
 |
 
-11'36"
+11'36''
 
 |
 
-14'49"
+14'49''
 
 |
 
-4"73
+4''73
 
 |
 
-8"97
+8''97
 
 |
 
@@ -1902,35 +1836,35 @@ F
 
 |
 
-0'35"1
+0'35''1
 
 |
 
-0'44"5
+0'44''5
 
 |
 
-6"82
+6''82
 
 |
 
-8"18
+8''18
 
 |
 
-11'53"
+11'53''
 
 |
 
-15'17"
+15'17''
 
 |
 
-4"93
+4''93
 
 |
 
-9"73
+9''73
 
 |
 
@@ -1938,35 +1872,35 @@ F
 
 |
 
-0'36"5
+0'36''5
 
 |
 
-0'46"5
+0'46''5
 
 |
 
-6"89
+6''89
 
 |
 
-8"31
+8''31
 
 |
 
-12'10"
+12'10''
 
 |
 
-15'48"
+15'48''
 
 |
 
-5"16
+5''16
 
 |
 
-10"55
+10''55
 
 |
 
@@ -1974,35 +1908,35 @@ F
 
 |
 
-0'38"0
+0'38''0
 
 |
 
-0'48"8
+0'48''8
 
 |
 
-6"97
+6''97
 
 |
 
-8"44
+8''44
 
 |
 
-12'29"
+12'29''
 
 |
 
-16'21"
+16'21''
 
 |
 
-5"43
+5''43
 
 |
 
-11"44
+11''44
 
 |
 
@@ -2010,35 +1944,35 @@ F
 
 |
 
-0'39"7
+0'39''7
 
 |
 
-0'51"3
+0'51''3
 
 |
 
-7"06
+7''06
 
 |
 
-8"58
+8''58
 
 |
 
-12'50"
+12'50''
 
 |
 
-16'58"
+16'58''
 
 |
 
-5"75
+5''75
 
 |
 
-12"40
+12''40
 
 |
 
@@ -2046,35 +1980,35 @@ F
 
 |
 
-0'41"7
+0'41''7
 
 |
 
-0'54"1
+0'54''1
 
 |
 
-7"15
+7''15
 
 |
 
-8"73
+8''73
 
 |
 
-13'12"
+13'12''
 
 |
 
-17'37"
+17'37''
 
 |
 
-6"13
+6''13
 
 |
 
-13"08
+13''08
 
 |
 
@@ -2082,35 +2016,35 @@ F
 
 |
 
-0'43"9
+0'43''9
 
 |
 
-0'57"2
+0'57''2
 
 |
 
-7"25
+7''25
 
 |
 
-8"89
+8''89
 
 |
 
-13'36"
+13'36''
 
 |
 
-18'19"
+18'19''
 
 |
 
-6"60
+6''60
 
 |
 
-13"36
+13''36
 
 |
 
@@ -2118,35 +2052,35 @@ F
 
 |
 
-0'46"4
+0'46''4
 
 |
 
-1'00"8
+1'00''8
 
 |
 
-7"36
+7''36
 
 |
 
-9"06
+9''06
 
 |
 
-14'02"
+14'02''
 
 |
 
-19'06"
+19'06''
 
 |
 
-7"19
+7''19
 
 |
 
-14"04
+14''04
 
 |
 
@@ -2154,35 +2088,35 @@ F
 
 |
 
-0'49"1
+0'49''1
 
 |
 
-1'04"7
+1'04''7
 
 |
 
-7"47
+7''47
 
 |
 
-9"25
+9''25
 
 |
 
-14'29"
+14'29''
 
 |
 
-19'56"
+19'56''
 
 |
 
-7"95
+7''95
 
 |
 
-14"32
+14''32
 
 |
 
@@ -2190,35 +2124,35 @@ F
 
 |
 
-0'52"3
+0'52''3
 
 |
 
-1'09"1
+1'09''1
 
 |
 
-7"60
+7''60
 
 |
 
-9"45
+9''45
 
 |
 
-14'59"
+14'59''
 
 |
 
-20'51"
+20'51''
 
 |
 
-9"
+9''
 
 |
 
-15"00
+15''00
 
 |
 
@@ -2226,35 +2160,35 @@ F
 
 |
 
-0'56"0
+0'56''0
 
 |
 
-1'14"0
+1'14''0
 
 |
 
-7"70
+7''70
 
 |
 
-9"70
+9''70
 
 |
 
-15'30"
+15'30''
 
 |
 
-21'40"
+21'40''
 
 |
 
-3,5 m (1)
+3, 5 m (1)
 
 |
 
-3,5 m (1)
+3, 5 m (1)
 
 |
 
@@ -2262,27 +2196,27 @@ F
 
 |
 
-0'59"8
+0'59''8
 
 |
 
-1'19"6
+1'19''6
 
 |
 
-7"88
+7''88
 
 |
 
-9"89
+9''89
 
 |
 
-16'05"
+16'05''
 
 |
 
-22'54"
+22'54''
 
 |
 
@@ -2290,7 +2224,7 @@ F
 
 |
 
-3,0 m (1)
+3 m (1)
 
 |
 
@@ -2298,35 +2232,35 @@ F
 
 |
 
-1'04"2
+1'04''2
 
 |
 
-1'25"8
+1'25''8
 
 |
 
-8"03
+8''03
 
 |
 
-10"14
+10''14
 
 |
 
-16'42"
+16'42''
 
 |
 
-24'04"
+24'04''
 
 |
 
-2,5 m (1)
+2, 5 m (1)
 
 |
 
-2,5 m (1)
+2, 5 m (1)
 
 |
 
@@ -2334,27 +2268,27 @@ F
 
 |
 
-1'09"3
+1'09''3
 
 |
 
-1'32"7
+1'32''7
 
 |
 
-8"20
+8''20
 
 |
 
-10"40
+10''40
 
 |
 
-17722"
+17'22''
 
 |
 
-25'19"
+25'19''
 
 |
 
@@ -2362,7 +2296,7 @@ F
 
 |
 
-2,0 m (1)
+2 m (1)
 
 |
 
@@ -2370,35 +2304,35 @@ F
 
 |
 
-1'14"9
+1'14''9
 
 |
 
-1'40"5
+1'40''5
 
 |
 
-8"38
+8''38
 
 |
 
-10"69
+10''69
 
 |
 
-18'05"
+18'05''
 
 |
 
-26'42"
+26'42''
 
 |
 
-1,5 m (1)
+1, 5 m (1)
 
 |
 
-1,50 m (1)
+1, 5 m (1)
 
 |
 
@@ -2410,8 +2344,8 @@ Note attribuée à tout candidat qui ne se présente pas à une épreuve, ne l'e
 
 |
 
-(1) Avec les limitations de temps suivantes : 9 secondes pour les garçons et 15 secondes pour les filles sans que la marque des 5 mètres ne soit touchée.
+(1) Avec les limitations de temps suivantes : 9 secondes pour les garçons et 15 secondes pour les filles sans que la marge des 5 mètres ne soit touchée.
 
-Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
+Nota. ― En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
 |
