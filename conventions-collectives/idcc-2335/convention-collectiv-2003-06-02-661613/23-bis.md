@@ -1,0 +1,31 @@
+# Article 23 bis
+
+1° Convention de stage
+
+Les stages effectués en agence par tout élève ou étudiant âgé d'au moins 16 ans, ne relevant pas de la formation professionnelle continue, font obligatoirement l'objet de la signature d'une convention entre le stagiaire, l'employeur et l'établissement d'enseignement.
+
+La convention de stage doit obligatoirement comporter les clauses figurant à l'article 3 du décret n° 2006-1093 du 29 août 2006, dont notamment :
+
+- la définition des activités confiées au stagiaire en fonction des objectifs de formation ;
+
+- les dates de début et de fin du stage ;
+
+- la durée hebdomadaire maximale de présence du stagiaire dans l'agence. La présence, le cas échéant, du stagiaire dans l'agence un jour férié doit être indiquée ;
+
+- le montant de la gratification versée au stagiaire et les modalités de son versement.
+
+2° Gratification
+
+Tous les stages d'une durée supérieure à 3 mois consécutifs doivent obligatoirement être rémunérés. La durée de stage s'apprécie compte tenu de la convention de stage et des éventuels avenants qui ont pour effet de prolonger le stage.
+
+La gratification est due au stagiaire sans préjudice du remboursement des frais éventuellement engagés pour effectuer le stage et des avantages offerts.
+
+Elle est due au stagiaire à compter du premier jour du premier mois de stage et lui est versée mensuellement.
+
+En application de l'article 6-1 du décret n° 2006-1093 du 29 août 2006, le montant horaire de la gratification due au stagiaire est fixé à 12, 5 % du plafond horaire de la sécurité sociale.
+
+En cas de suspension ou de résiliation de la convention de stage, le montant de la gratification due au stagiaire est proratisé en fonction de la durée de stage effectuée.
+
+3° Prise en compte de la durée du stage dans la période d'essai
+
+En cas d'embauche dans l'agence à l'issue du stage intégré à un cursus pédagogique réalisé lors de la dernière année d'études, la durée du stage est déduite de la période d'essai, sans que cela ait pour effet de réduire cette dernière de plus de la moitié.
