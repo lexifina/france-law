@@ -10,9 +10,19 @@ La classification des cadres comporte 5 catégories permettant de prendre en com
 
 - la nature, l'importance et la structure de l'établissement.
 
-Cadre A : coefficient de 330 à 409.
+Cadre A : coefficient de 330 à 409 (1).
 
 Cette catégorie concerne les cadres soignants, des services techniques ou administratifs, débutants ainsi que les cadres autodidactes exerçant ou ayant exercé des fonctions d'encadrement dans la position AM.
+
+Cadre confirmé
+
+Un minimum de coefficients compris dans l'échelle de coefficient initiale est attribué au cadre A qui remplit les conditions suivantes :
+
+― soit justifier d'une expérience professionnelle de 5 années dans son emploi repère et dans l'entreprise ;
+
+― soit justifier d'une expérience professionnelle de 3 années et avoir débuté, en accord avec l'employeur, une formation complémentaire de niveau I ou II de l'éducation nationale, en lien avec son emploi repère.
+
+Ce minimum de coefficient est fixé à 350.
 
 Cadre B : coefficient de 410 à 454.
 
@@ -35,3 +45,5 @@ Les cadres dirigeants ne sont pas soumis aux dispositions du titre Ier et aux ch
 Sont considérés comme ayant la qualité de cadre dirigeant, les cadres auxquels sont confiées des responsabilités dont l'importance implique une grande indépendance dans l'organisation de leur emploi du temps, qui sont habilités à prendre des décisions de façon largement autonome, et qui perçoivent une rémunération se situant dans les niveaux les plus élevés des systèmes de rémunération pratiqués dans l'entreprise ou leur établissement.
 
 La délégation de pouvoir suppose compétence et moyens permettant de l'assumer.
+
+(1) Les dispositions de l'avenant n° 14 du 18 décembre 2008 concernant le niveau cadre A : la filière hébergement et vie sociale, la filière administrative et services techniques et la filière soins.
