@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504632
+
+- Question : [SEQ080504632](seq080504632.md) — Intégration des études infirmières dans le dispositif LMD
+
+## Réponse
+
+*Santé, JO du 2008-12-18, page 2549*
+
+La formation des infirmiers relève, en France, de l'enseignement professionnel. Faisant suite à la signature par la France des accords de Bologne, l'application de la réforme de l'enseignement supérieur aux professions paramédicales demande une étude approfondie de l'impact de la reconnaissance des diplômes paramédicaux par référence au schéma universitaire européen licence, master, doctorat (LMD). Les organisations professionnelles et les organisations d'étudiants des professions paramédicales ont été informées des modalités de cette étude par une lettre du 25 juillet 2007. Le procédé mis en place consiste à saisir les inspections générales compétentes pour dresser un état de toutes les incidences du processus sur l'offre des professionnels de santé formés, sur leurs conditions d'exercice ainsi que sur la situation des instituts et écoles de formation. Ces saisines ont conduit à la publication en octobre 2008 d'un rapport relatif à « l'évaluation de l'impact du dispositif LMD sur les formations et le statut des professions paramédicales » ; ce rapport de l'Inspection générale des affaires sociales (IGAS) et de l'Inspection générale de l'administration de l'éducation nationale et de la recherche (IGAENR) a été remis aux ministres le 7 octobre 2008. Il permet de lancer le travail préparatoire à la réforme des études d'infirmières. Il se fera en étroite concertation avec les professionnels, les étudiants et l'ensemble des acteurs concernés. L'objectif du Gouvernement est bien de reconnaître la formation des infirmiers au niveau licence et de leur permettre la poursuite d'études au-delà en master et doctorat.
