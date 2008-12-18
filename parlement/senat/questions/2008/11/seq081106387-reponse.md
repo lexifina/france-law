@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106387
+
+- Question : [SEQ081106387](seq081106387.md) — Inquiétudes sur l'avenir de l'enseignement des sciences économiques et sociales
+
+## Réponse
+
+*Éducation, JO du 2008-12-18, page 2547*
+
+Le contenu de l'enseignement des sciences économiques et sociales a fait l'objet d'un travail d'analyse entrepris par une commission présidée par Roger Guesnerie, professeur au Collège de France, de février à juin 2008. Cette commission, conformément à la demande du ministre de l'éducation nationale, avait une mission d'audit des programmes et des manuels de sciences économiques et sociales du lycée. Le ministre demandait en particulier à la commission de s'assurer du respect de la pluralité des courants de pensée constitutifs du domaine des sciences économiques et sociales ainsi que de la qualité des supports pédagogiques utilisés. La commission devait, par ailleurs, réfléchir à la pertinence et la cohérence des programmes au regard des exigences de formation de citoyens éclairés et de préparation à des études supérieures. Cette commission était invitée à faire toutes les propositions utiles pour améliorer la qualité de ces programmes. D'ores et déjà, des recommandations de la commission ont été prises en compte lors de la mise en oeuvre de la réforme des lycées. Ainsi est-il prévu d'intégrer les sciences économiques et sociales, dès la classe de seconde, au sein d'un groupe de disciplines dénommées « sciences de la société » dont l'enseignement sera modulaire. Les élèves qui le souhaitent pourront ainsi suivre un enseignement de SES de 3 heures par semaine, pendant un ou deux semestres (l'horaire actuel étant de 2 h 30, en enseignement optionnel). Un groupe d'experts est mis en place par la direction générale de l'enseignement scolaire pour travailler à l'élaboration des nouveaux programmes de la classe de seconde.
