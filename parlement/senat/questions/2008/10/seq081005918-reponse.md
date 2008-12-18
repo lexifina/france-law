@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005918
+
+- Question : [SEQ081005918](seq081005918.md) — Mise en place de l'ordre national des infirmiers
+
+## Réponse
+
+*Santé, JO du 2008-12-18, page 2550*
+
+Instauré par la loi n° 2006-1668 du 21 décembre 2006, l'ordre professionnel des infirmiers groupe obligatoirement tous les infirmiers habilités à exercer leur profession en France, à l'exception de ceux régis par le statut général des militaires. Chargé d'une mission de service public, l'ordre assure la défense et la promotion de toute la profession infirmière quel que soit le mode d'exercice des professionnels. Véritable structure au service de la profession infirmière mais également des usagers, l'ordre dispose d'un champ d'action important. Il étudie notamment les projets ou questions qui lui sont soumises par le ministre chargé de la santé concernant l'exercice de la profession. Il participe également au suivi de la démographie infirmière. Il a en outre, en lien avec la Haute autorité de santé, un rôle à jouer dans la définition des recommandations ainsi que dans l'évaluation des pratiques professionnelles. Il organise la profession dans le cadre d'une mission de service public que l'État lui a déléguée. Ainsi, une cotisation ordinale fixée annuellement par le Conseil national de l'ordre doit être obligatoirement versée par chaque personne physique ou morale inscrite au tableau de l'ordre afin de lui permettre d'assumer son fonctionnement et de garantir son indépendance. Cette cotisation est ainsi un préalable indispensable à l'accomplissement effectif des missions confiées à l'ordre. Les élections du Conseil national de l'ordre ont eu lieu le 25 novembre 2008. Il y a tout lieu de penser que cette cotisation tiendra compte de l'importance démographique de la profession infirmière (498 000 infirmiers) et que, par conséquent, les conseillers de l'ordre adopteront une mesure juste et raisonnable.
