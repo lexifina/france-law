@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905635
+
+- Question : [SEQ080905635](seq080905635.md) — Coupures d'électricité
+
+## Réponse
+
+*Écologie, JO du 2008-12-18, page 2545*
+
+Le décret n° 2007-1826 du 24 décembre 2007 et son arrêté d'application de même date, qui entrent progressivement en vigueur à compter de juin 2008, permettent aux collectivités organisatrices de la distribution publique d'électricité, c'est-à-dire les communes ou leurs syndicats compétents en matière de distribution d'électricité, de faire respecter les niveaux de la qualité de l'électricité. Ce décret offre un cadre aux acteurs concernés, visant à mettre à leur disposition des outils communs de mesure de la qualité de l'électricité et de son amélioration. Ce cadre réglementaire ne se substitue pas au dispositif contractuel établi entre les autorités organisatrices et leurs concessionnaires, mais permet de faire respecter des niveaux planchers de qualité qui pourront être rendus progressivement plus contraignants. Au fur et à mesure des progrès enregistrés dans les niveaux moyens atteints, et de résorber les situations individuelles les plus dégradées. L'article 18 du décret précité permet notamment à l'autorité organisatrice, lorsqu'elle constate que le nombre de coupures chez un client excède les valeurs limites fixées par arrêté du ministre chargé de l'énergie, de demander au gestionnaire du réseau de distribution de procéder à une analyse du dysfonctionnement constaté. Au vu des résultats, l'autorité organisatrice peut demander au gestionnaire du réseau de distribution de prendre les mesures permettant de remédier au dysfonctionnement. Des instructions ont été adressées aux préfets de département pour s'assurer de la mise en oeuvre de cette nouvelle réglementation. En outre, une mission d'évaluation a été mise en place pour en assurer le suivi.
