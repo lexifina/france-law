@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504463
+
+- Question : [SEQ080504463](seq080504463.md) — Régime juridique des sections de communes
+
+## Réponse
+
+*Intérieur, JO du 2008-12-25, page 2615*
+
+Dotées de la personnalité morale, les sections de commune sont définies par l'article L. 2411-I du code général des collectivités territoriales comme « toute partie d'une commune possédant à titre permanent ou exclusif des biens ou des droits distincts de ceux de la commune ». Ces sections sont propriétaires de biens immobiliers (pâturages, forêts, landes, marais...), mobiliers (matériels agricoles...) ou de droits collectifs, leurs ayants droit n'en ont que la seule jouissance collective. Leur gestion est assurée par le conseil municipal et le maire et, dans certains cas, par une commission syndicale composée d'électeurs de la section. Les sections de commune sont perçues à la fois comme une source de contraintes pour les maires et comme un frein à l'aménagement et au développement de l'espace rural. Elles constituent néanmoins un enjeu particulièrement sensible dès lors que les ayants droit en tirent quelques revenus ou avantages. À la suite des travaux menés par le groupe d'étude et de réflexion sur l'évolution souhaitable du régime des biens sectionaux des communes, le rapport remis en mars 2003 par M. Lemoine, inspecteur général de l'administration, a proposé différentes options parmi lesquelles figurait l'extinction progressive de ce régime qui apparaît lourd, complexe et inadapté, en mettant fin notamment à la création de nouvelles sections de commune. Il convient maintenant d'approfondir les conclusions du rapport Lemoine par une expertise associant les différentes parties prenantes, le Gouvernement étant conscient de l'inadaptation du régime juridique actuel et de l'intérêt de limiter la constitution de nouvelles sections.
