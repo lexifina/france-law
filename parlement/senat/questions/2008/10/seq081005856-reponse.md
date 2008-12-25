@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005856
+
+- Question : [SEQ081005856](seq081005856.md) — Désignation des délégués des communes dans les intercommunalités
+
+## Réponse
+
+*Intérieur et collectivités territoriales, JO du 2008-12-25, page 2620*
+
+Les intercommunalités à fiscalité propre lèvent l'impôt et construisent une large part des nouveaux équipements urbains. Il est donc naturel, comme l'avait fait le rapport Mauroy de 2000, de soulever la question de leur légitimité démocratique. C'est pourquoi le secrétaire d'État à l'intérieur et aux collectivités territoriales a travaillé à l'élaboration d'un projet de loi de modernisation de la démocratie locale, comprenant, une disposition relative à l'élection des conseillers communautaires au suffrage universel direct, selon des modalités proches de celles en vigueur à Paris, Marseille et Lyon. Il faut que communes et intercommunalité partagent la même légitimité, tout en préservant la place des communes conformément à la position exprimée par le Président de la République au congrès de l'association des maires de France. C'est pourquoi l'hypothèse d'une élection directe du président de l'intercommunalité a été écartée. En effet, d'éventuelles évolutions ne doivent pas remettre en cause la commune, qui constitue la collectivité territoriale la mieux connue et appréciée de nos concitoyens selon de nombreuses études. Saisi par le Président de la République, dans le cadre d'une large mission de simplification des collectivités territoriales et de renforcement des libertés locales, le comité sur la réforme des collectivités locales, présidé par M. Édouard Balladur, ancien Premier ministre, fera probablement des propositions sur ce sujet. Le projet sur la démocratie locale sera bien évidement amendé en fonction des conclusions du comité Balladur, qui seront rendues le 1er mars 2009, et sera déposé au printemps 2009.
