@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005988
+
+- Question : [SEQ081005988](seq081005988.md) — Participation d'agents de la force publique à des activités illicites de surveillance et de fichage visant un responsable politique
+
+## Réponse
+
+*Intérieur, JO du 2008-12-25, page 2618*
+
+Tout écart portant atteinte à la déontologie et à l'image de la police nationale est combattu avec fermeté, et le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales attache en particulier la plus grande importance au strict respect des règles de consultation des fichiers de police. L'accès à la plupart de ces fichiers s'effectue par un portail sécurisé dont les règles de fonctionnement permettent de limiter les accès, de maîtriser et de connaître précisément les personnes autorisées à consulter le fichier ; les traces de toute intervention effectuée sont conservées cinq ans. Des contrôles sont effectués périodiquement par le service gestionnaire du portail d'accès, ainsi qu'un suivi statistique du volume de connexions mensuelles, permettant de mener des vérifications a priori sur l'usage des fichiers. Lorsque des fonctionnaires consultent ces fichiers ou utilisent des informations qui y figurent à des fins personnelles et non prévues par les textes, l'inspection générale de la police nationale est saisie dans un cadre administratif et, le cas échéant, dans un cadre judiciaire. Le nombre d'infractions liées à l'utilisation abusive de fichiers à des fins personnelles demeure toutefois très limité. S'agissant de l'affaire évoquée par le l'honorable parlementaire, elle fait l'objet d'une information judiciaire, couverte par le secret de l'instruction. Il peut cependant être indiqué que l'un des fonctionnaires de police mis en cause a d'ores et déjà fait l'objet d'une mesure de suspension administrative.
