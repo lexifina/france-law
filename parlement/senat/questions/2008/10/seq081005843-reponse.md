@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005843
+
+- Question : [SEQ081005843](seq081005843.md) — Mention de la nationalité d'origine sur les notices individuelles des agents
+
+## Réponse
+
+*Affaires étrangères, JO du 2008-12-25, page 2603*
+
+L'une des spécificités du ministère des affaires étrangères et européennes est d'employer des fonctionnaires qui, pour un grand nombre, servent à l'étranger. Lorsqu'elle se déplace dans les ambassades et consulats, l'inspection générale réserve systématiquement un entretien à chacun des personnels titulaires, entretien préparé à l'aide de la notice individuelle. Pour des raisons pratiques, ce questionnaire reprend de manière synthétique tous les éléments d'information sur la situation personnelle, familiale et administrative de l'agent, de même que sur ses qualifications et son parcours professionnel, données que chaque fonctionnaire a déjà dû fournir à l'administration lors de son entrée dans la fonction publique. Si l'entretien est l'occasion d'un échange approfondi avec l'agent sur ses attributions au sein du poste, le déroulement de sa carrière et ses voeux pour les années à venir, il est aussi destiné à juger de l'adéquation entre son profil et son affectation éventuelle dans un nouveau poste. La question relative à la nationalité d'origine du fonctionnaire et de celle de son conjoint (qui figure également sur le formulaire de demande d'affectation à l'étranger) constitue l'un des éléments d'appréciation de l'administration. De fait, elle vise aussi bien à protéger la personne qu'à s'assurer du bon fonctionnement du poste. La réponse n'induit d'ailleurs aucune conséquence automatique sur la situation des personnels concernés. Le ministère n'estime pas, dans ces conditions, opportun de retirer les renseignements relatifs à la nationalité d'origine de l'agent et de son conjoint de la notice individuelle.
