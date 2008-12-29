@@ -32,6 +32,8 @@ Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans
 
 Jusqu'au 31 décembre 2010, le montant de l'avance remboursable sans intérêt est majoré d'un montant maximum de 15 000 Euros pour les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et donnant lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou par un groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article L. 312-2-1 du code de la construction et de l'habitation. Les ressources des ménages bénéficiaires de cette majoration doivent être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de l'article R. 331-1 du même code.
 
+Le montant de l'avance remboursable sans intérêt est majoré, dans des conditions fixées par décret en Conseil d'Etat, d'un montant maximum de 20 000 € pour les opérations portant sur la construction ou l'acquisition de logements neufs ou en l'état futur d'achèvement dont le niveau élevé de performance énergétique globale, déterminé dans des conditions fixées par décret et justifié par le bénéficiaire de l'avance, est supérieur à celui qu'impose la législation en vigueur (1).
+
 Un décret en Conseil d'Etat définit les caractéristiques financières et les conditions d'attribution de l'avance remboursable sans intérêt.
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre les mensualités dues au titre de l'avance remboursable sans intérêt et les mensualités d'un prêt consenti à des conditions normales de taux à la date d'émission de l'offre de l'avance remboursable sans intérêt.
@@ -48,4 +50,8 @@ IV.-Une convention conclue entre l'établissement de crédit mentionné au I et 
 
 V.-L'organisme chargé de gérer le Fonds de garantie de l'accession sociale à la propriété mentionné au IV est tenu de fournir à l'administration fiscale dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit les informations relatives aux avances remboursables sans intérêt versées par chaque établissement de crédit, le montant total des crédits d'impôt correspondants obtenus ainsi que leur suivi.
 
-VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L, ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+
+NOTA :
+
+(1) Loi n° 2008-1425 du 27 décembre 2008 article 100 II : Le I s'applique aux avances remboursables émises pour la construction ou l'acquisition de logements neufs ou en l'état futur d'achèvement à compter du premier jour du premier mois suivant la publication du décret en Conseil d'Etat mentionné au I, et au plus tard à compter du 1er janvier 2010.
