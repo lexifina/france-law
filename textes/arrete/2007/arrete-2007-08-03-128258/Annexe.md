@@ -52,11 +52,11 @@ Jusqu'au 31 décembre 2010 :
 
 Paris-Louqsor (Egypte).
 
-Jusqu'au 28 février 2011 et à raison d'un maximum cumulé de deux fréquences hebdomadaires :
+Jusqu'au 28 février 2011 :
 
-Paris-Maurice (île Maurice) ;
+Paris―Maurice (île Maurice) ;
 
-Lyon-Maurice (île Maurice).
+Lyon―Maurice (île Maurice).
 
 Jusqu'au 31 juillet 2011 :
 
@@ -119,3 +119,11 @@ Paris―Marrakech (Maroc) ;
 Paris―La Havane (Cuba) ;
 
 Paris―Santiago (Cuba).
+
+Jusqu'au 30 novembre 2013 :
+
+Marseille―Maurice (île Maurice) ;
+
+Nantes―Maurice (île Maurice) ;
+
+Toulouse―Maurice (île Maurice).
