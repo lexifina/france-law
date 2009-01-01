@@ -28,7 +28,7 @@ Emplois de catégorie A, B, C et D.
 
 |
 
-Agence de maîtrise d'ouvrage des travaux du ministère de la justice.
+Agence de maîtrise d'ouvrage des travaux du ministère de la justice
 
 |
 
@@ -54,7 +54,7 @@ Emplois de catégorie A, B et C.
 
 |
 
-Agence nationale pour l'emploi
+Institution mentionnée à l'article L. 5312-1 du code du travail
 
 |
 
@@ -218,7 +218,7 @@ Ecole polytechnique
 
 |
 
-Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B.
+Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B
 
 |
 
@@ -250,15 +250,15 @@ Etablissement public du musée du quai Branly
 
 |
 
-- emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
+-emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
 
-- emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
+-emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
 
-- emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
+-emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
 
-- emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
+-emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
 
-- emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
+-emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
 
 |
 
@@ -402,4 +402,4 @@ Les emplois de catégories A et B liés à la médiation.
 
 NOTA :
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier 2009.

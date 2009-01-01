@@ -2,7 +2,7 @@
 
 Les établissements, organismes et sociétés entrant, pour leurs missions de service public, dans les prévisions de l'article 1er sont :
 
-1° L'Agence nationale pour l'emploi (ANPE) ;
+1° L' institution mentionnée à l'article L. 5312-1 du code du travail (ANPE) ;
 
 2° L'Agence nationale de valorisation de la recherche (ANVAR) ;
 

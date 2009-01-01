@@ -62,16 +62,6 @@ Président du conseil d'administration
 
 |
 
-Agence nationale pour l'emploi
-
-|
-
-Directeur général
-
-|
-
-|
-
 Agence nationale pour l'indemnisation des Français d'outre mer
 
 |
@@ -575,6 +565,16 @@ Institution nationale des Invalides
 |
 
 Directeur
+
+|
+
+|
+
+Institution mentionnée à l'article L. 5312-1 du code du travail
+
+|
+
+Directeur général
 
 |
 
