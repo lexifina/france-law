@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905611
+
+- Question : [SEQ080905611](seq080905611.md) — Création d'un syndicat mixte intermodal régional des transports
+
+## Réponse
+
+*Écologie, JO du 2009-01-01, page 28*
+
+La loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) a créé une forme particulière de syndicat mixte constitué entre autorités organisatrices de transport pour exercer trois compétences obligatoires (coordination des services organisés par les membres, mise en place d'un système d'information des usagers et recherche d'une tarification coordonnée et de titres de transports uniques ou unifiés) et, le cas échéant, des compétences facultatives (organisation de services de transport régulier ou à la demande, réalisation et gestion des équipements et infrastructures de transports). Ces compétences sont exercées sur un périmètre librement fixé par le syndicat mixte SRU lui-même. En l'état actuel du droit, une autorité organisatrice de transports qui serait constituée sous la forme de syndicat mixte ne peut adhérer à un syndicat mixte SRU. À l'occasion de l'examen du projet de loi de programme relatif à la mise en oeuvre du Grenelle de l'environnement, l'Assemblée nationale a adopté une disposition destinée à permettre des expérimentations donnant compétence aux autorités organisatrices des transports concernées de confier à un syndicat mixte des compétences élargies en matière d'organisation et de coordination des transports collectifs sur un territoire. Enfin, le Gouvernement a inclus, dans le projet de loi de transition environnementale, une disposition législative permettant à un syndicat mixte compétent en matière de transport d'adhérer à un syndicat mixte relevant de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains.
