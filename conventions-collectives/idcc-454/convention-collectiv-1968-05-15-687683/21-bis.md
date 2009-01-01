@@ -4,7 +4,7 @@ Il est institué un régime minimum obligatoire de prévoyance au plan national 
 
 La notion de salarié s'entend pour tous les bénéficiaires d'un contrat de travail à durée déterminée ou indéterminée, à temps complet ou à temps partiel, et quelle que soit leur ancienneté.
 
-La notion de salarié présent à l'effectif comprend tous les salariés au travail ou en arrêt pour cause de maladie, maternité, accident ou congés parentaux au jour de l'entrée en vigueur du régime de prévoyance.
+La notion de salarié présent à l'effectif comprend tous les salariés au travail ou en arrêt pour cause de maladie, maternité, accident ou congés parentaux ainsi que tout salarié dont la suspension de son contrat de travail prévue par le code du travail, donne lieu à un maintien de salaire total ou partiel ou au versement d'indemnités journalières complémentaires financées au moins pour partie par l'employeur.
 
 I. - Garantie décès. - Assureur GNP
 
