@@ -42,8 +42,4 @@ II.-Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I s'
 
 2.-Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9 de l'article 93 ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 65-IV A et VI de la loi n° 2006-1770 du 30 décembre 2006 et des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9 de l'article 93 ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.

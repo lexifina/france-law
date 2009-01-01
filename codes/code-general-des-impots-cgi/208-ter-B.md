@@ -1,8 +1,6 @@
 # Article 208 ter B
 
-I. - Les intérêts des sommes inscrites aux comptes spéciaux sur livrets ouverts, dans des conditions définies par décret, par les caisses de crédit mutuel adhérentes à la confédération nationale du crédit mutuel au nom des organismes énumérés au II sont soumis au prélèvement sur les produits de placements à revenu fixe selon les modalités prévues au II bis de l'article 125 A.
-
-Les organismes qui reçoivent de tels intérêts n'ont pas à les comprendre dans leurs revenus imposables.
+I. - Les organismes qui reçoivent des intérêts des sommes inscrites sur les comptes spéciaux sur livrets ouverts avant le 1er janvier 2009, dans des conditions définies par décret, par les caisses de crédit mutuel adhérentes à la Confédération nationale du crédit mutuel n'ont pas à les comprendre dans leurs revenus imposables.
 
 II. - Peuvent bénéficier des dispositions du I :
 
@@ -13,7 +11,3 @@ II. - Peuvent bénéficier des dispositions du I :
 3° Les syndicats professionnels et leurs unions mentionnés au titre III du livre Ier de la deuxième partie du code du travail ;
 
 4° Les comités d'entreprise.
-
-NOTA :
-
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
