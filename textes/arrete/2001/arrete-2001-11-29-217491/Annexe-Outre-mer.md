@@ -96,7 +96,7 @@ par emploi
 
 |
 
-Chef du service des constructions publiques
+Adjoint au chef du service habitat, aménagement, urbanisme et construction
 
 |
 
@@ -112,7 +112,7 @@ A
 
 |
 
-Chef de la cellule ville, chargé des problèmes d'insalubrité et du logement social
+Chef de cellule ville, chargé des problèmes d'insalubrité et du logement social
 
 |
 

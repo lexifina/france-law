@@ -1,6 +1,6 @@
 # Article Annexe B
 
-B. - Fonctions exercées dans les services déconcentrés du ministère chargé de l'éducation nationale
+B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ DE L'ÉDUCATION NATIONALE
 
 Désignation des emplois correspondant aux fonctions mentionnées au II de l'article 1er du décret du 26 octobre 2001
 
@@ -410,7 +410,7 @@ Recteur de l'académie de Strasbourg
 
 |
 
-4. Secrétaire général d'académie, en fonctions dans les académies de
+4. Secrétaire général d'académie en fonctions dans les académies de
 
 |
 
@@ -418,11 +418,11 @@ Recteur de l'académie de Strasbourg
 
 |
 
-Créteil, Lille, Versailles
+Créteil, Lille, Versailles, Aix-Marseille, Bordeaux, Grenoble, Lyon, Nantes, Rennes, Toulouse, Montpellier, Orléans-Tours, Nancy-Metz
 
 |
 
-3
+13
 
 |
 
@@ -430,11 +430,11 @@ Créteil, Lille, Versailles
 
 |
 
-Aix-Marseille, Bordeaux, Grenoble, Lyon, Montpellier, Nancy-Metz, Nantes, Orléans-Tours, Paris, Rennes, Toulouse
+Paris, Amiens, Nice, Rouen, Poitiers, Strasbourg, Dijon, Caen, Reims, La Réunion
 
 |
 
-11
+10
 
 |
 
@@ -442,11 +442,11 @@ Aix-Marseille, Bordeaux, Grenoble, Lyon, Montpellier, Nancy-Metz, Nantes, Orléa
 
 |
 
-Amiens, Besançon, Caen, Clermont-Ferrand, Corse, Dijon, Guadeloupe, Guyane, Limoges, Martinique, Nice, Paris (chancellerie), Poitiers, Reims, Réunion, Rouen, Strasbourg
+Besançon, Clermont-Ferrand, Corse, Guadeloupe, Guyane, Limoges, Martinique, Paris (chancellerie)
 
 |
 
-17
+8
 
 |
 

@@ -42,6 +42,8 @@ A
 
 2
 
+1 (5)
+
 |
 
 40
@@ -152,7 +154,13 @@ A
 
 |
 
-51 (1)
+52
+
+54 (3)
+
+55 (4)
+
+57 (5)
 
 |
 
@@ -169,6 +177,8 @@ A
 |
 
 2
+
+1 (3)
 
 |
 
@@ -224,7 +234,7 @@ B
 
 |
 
-Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement
+Développeur micro informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement
 
 |
 
@@ -240,7 +250,7 @@ B
 
 |
 
-Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers
+Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissances bancaires ou des marchés financiers
 
 |
 
@@ -248,7 +258,7 @@ B
 
 |
 
-17
+16
 
 |
 
@@ -312,7 +322,7 @@ B
 
 |
 
-2
+1
 
 |
 
@@ -344,7 +354,7 @@ B
 
 |
 
-34
+38
 
 |
 
@@ -376,7 +386,7 @@ B
 
 |
 
-15
+19
 
 |
 
@@ -440,7 +450,7 @@ B
 
 |
 
-6
+5
 
 |
 
@@ -448,7 +458,7 @@ B
 
 |
 
-Gestionnaire de plusieurs systèmes d'information
+Gestionnaire de plusieurs systèmes d'information..
 
 |
 
@@ -456,7 +466,7 @@ B
 
 |
 
-38
+36
 
 |
 
@@ -472,7 +482,7 @@ B
 
 |
 
-45
+49
 
 |
 
@@ -488,7 +498,7 @@ B
 
 |
 
-38
+39
 
 |
 
@@ -584,11 +594,15 @@ B
 
 |
 
-8 (1)
+8
+
+10 (4)
 
 |
 
-20 |
+20
+
+|
 
 Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système
 
@@ -606,7 +620,7 @@ B
 
 |
 
-Responsable du standard de Paris
+Responsable du standard de Paris....
 
 |
 
@@ -678,7 +692,7 @@ B
 
 |
 
-25
+24
 
 |
 
@@ -710,7 +724,7 @@ B
 
 |
 
-8
+6
 
 |
 
@@ -726,7 +740,7 @@ B
 
 |
 
-6
+7
 
 |
 
@@ -758,7 +772,11 @@ B
 
 |
 
-103 (1)
+95
+
+94 (3)
+
+90 (4)
 
 |
 
@@ -766,7 +784,7 @@ B
 
 |
 
-Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraite de Bordeaux
 
 |
 
@@ -790,7 +808,7 @@ B
 
 |
 
-23
+22
 
 |
 
@@ -806,7 +824,7 @@ B
 
 |
 
-159 (1)
+158
 
 |
 
@@ -822,12 +840,20 @@ C
 
 |
 
-10
+9
+
+8 (2)
 
 |
 
-15
+15 |
 
-|
+(1) A compter du 1er janvier 2009
 
-(1) Le nombre d'emplois éligibles était pour chaque emploi désigné respectivement de 50, 7, 105, et 160 au 1er janvier 2008.
+(2) A compter du 1er février 2009
+
+(3) A compter du 1er mars 2009
+
+(4) A compter du 1er avril 2009
+
+(5) A compter du 1er mai 2009

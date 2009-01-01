@@ -26,9 +26,9 @@ Exercice de fonctions ou acquis professionnels jugés équivalents aux précéde
 
 |
 
-EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR,
+EXERCICE DE FONCTIONS CORRESPONDANT AU TITRE DE PREMIER CONTRÔLEUR ET
 
-DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
+DE CONTRÔLEUR
 
 FONCTIONS EXERCÉES
 
@@ -40,31 +40,31 @@ QUALIFICATION ET EXPÉRIENCE
 
 |
 
-Premier contrôleur dans un CRNA, Orly et Roissy.
+Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans le groupe A.
 
 |
 
-Détention de la qualification correspondante depuis au moins neuf ans.
+Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins neuf ans.
 
 |
 
-Premier contrôleur d'approche.
+Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes B ou C.
 
 |
 
-Détention de la qualification correspondante depuis au moins dix ans.
+Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins dix ans.
 
 |
 
-Contrôleur d'approche.
+Contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes D ou E.
 
 |
 
-Détention de la qualification correspondante depuis au moins onze ans.
+Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins onze ans.
 
 |
 
-Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.
+Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service
 
 |
 
@@ -73,8 +73,6 @@ Exercice de ces fonctions pendant au moins vingt ans pour les ICNA parvenus au g
 |
 
 Exercice de fonctions ou acquis professionnels jugés équivalents aux précédents.
-
-|
 
 |
 
