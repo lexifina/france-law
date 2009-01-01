@@ -20,8 +20,6 @@ Contrôleurs des services techniques du matériel du ministère de l'intérieur.
 
 Contrôleurs des transports terrestres.
 
-Secrétaires d'administration et d'intendance des services pénitentiaires.
-
 Secrétaires de chancellerie.
 
 Secrétaires administratifs d'administration centrale.
@@ -32,7 +30,7 @@ Secrétaires administratifs de l'industrie et de l'aménagement du territoire.
 
 Secrétaires administratifs de l'intérieur et de l'outre-mer.
 
-Secrétaires d'administration scolaire et universitaire.
+Secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
 
 Secrétaires administratifs de l'Office national des forêts.
 
@@ -43,8 +41,6 @@ Secrétaires administratifs de la police nationale.
 Secrétaires administratifs de l'équipement.
 
 Secrétaires administratifs des services déconcentrés des anciens combattants et des victimes de guerre.
-
-Secrétaires administratifs des services judiciaires.
 
 Secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle.
 
@@ -62,8 +58,6 @@ Techniciens des services culturels et des Bâtiments de France.
 
 Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
 
-Secrétaires administratifs de la protection judiciaire de la jeunesse.
-
 Secrétaires administratifs du ministère de l'économie, des finances et de l'industrie.
 
 Secrétaires administratifs du ministère de la défense.
@@ -78,6 +72,8 @@ Secrétaires administratifs des juridictions financières.
 
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
 
+Secrétaires administratifs du ministère de la justice.
+
 NOTA :
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er octobre 2009.
