@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005834
+
+- Question : [SEQ081005834](seq081005834.md) — Livret bleu du Crédit mutuel et application de l'article L. 221-3 du code monétaire et financier
+
+## Réponse
+
+*Économie, JO du 2009-01-01, page 31*
+
+La loi n° 2008-776 du 4 août 2008 de modernisation de l'économie (LME) réaffirme l'interdiction de détenir simultanément, pour une même personne, plusieurs livrets A à compter du 1er janvier 2009. Cette loi s'inscrit dans la continuité de la situation actuelle, dans laquelle une même personne n'a le droit de détenir qu'un seul livret A ou un seul livret bleu (compte spécial sur livret du Crédit mutuel), le cumul entre ces deux livrets n'étant pas autorisé. La seule exception à ce principe de mono-détention concerne la détention simultanée d'un livret A et d'un livret bleu ouverts tous les deux avant le 1er septembre 1979 (date d'entrée en vigueur du décret n° 79-730 du 30 août 1979 qui a supprimé cette faculté) : la LME ne remettant pas en cause les livrets ouverts avant l'entrée en vigueur de la réforme, les personnes dans cette situation pourront donc continuer à détenir ces deux livrets. Toutefois, si une personne dans cette situation souhaitait effectuer le transfert d'un de ces deux livrets et conserver son autre livret, elle se placerait dans une situation illégale. En effet, un tel transfert consisterait nécessairement en la clôture d'un livret ouvert avant le 1er septembre 1979 et l'ouverture d'un livret après cette date, ce qui signifie que cette personne détiendrait simultanément un livret ouvert avant le 1er septembre 1979 et un livret ouvert après cette date, contrevenant alors à l'article L. 221-3 du code monétaire et financier. En conclusion, les personnes détenant un livret A et un livret bleu ouverts tous les deux avant le 1er septembre 1979 pourront continuer à bénéficier de ce cumul postérieurement au 1er janvier 2009, sous réserve de ne transférer aucun de ces deux livrets.
