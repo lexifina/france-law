@@ -1,16 +1,34 @@
 # Article Annexe 7-3
 
-SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE DANS LES DÉPARTEMENTS D'OUTRE-MER
+Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer
+
+DÉPARTEMENT
+
+|
+
+TRIBUNAL
+
+de grande instance
+
+|
+
+SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE
+
+|
+
+Siège
+
+|
+
+Ressort
+
+|
 
 Cour d'appel de Basse-Terre
 
 |
 
-Guadeloupe.
-
-|
-
-Basse-Terre.
+Guadeloupe
 
 |
 
@@ -18,13 +36,11 @@ Basse-Terre
 
 |
 
-Ressort du tribunal de grande instance de Basse-Terre.
+Basse-Terre
 
 |
 
-|
-
-Pointe-à-Pitre.
+Ressort du tribunal de grande instance de Basse-Terre
 
 |
 
@@ -32,7 +48,11 @@ Pointe-à-Pitre
 
 |
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre.
+Pointe-à-Pitre
+
+|
+
+Ressort du tribunal de grande instance de Pointe-à-Pitre
 
 |
 
@@ -40,11 +60,7 @@ Cour d'appel de Fort-de-France
 
 |
 
-Martinique.
-
-|
-
-Fort-de-France.
+Martinique
 
 |
 
@@ -52,15 +68,15 @@ Fort-de-France
 
 |
 
-Ressort du tribunal de grande instance de Fort-de-France.
+Fort-de-France
 
 |
 
-Guyane.
+Ressort du tribunal de grande instance de Fort-de-France
 
 |
 
-Cayenne.
+Guyane
 
 |
 
@@ -68,7 +84,11 @@ Cayenne
 
 |
 
-Ressort du tribunal de grande instance de Cayenne.
+Cayenne
+
+|
+
+Ressort du tribunal de grande instance de Cayenne
 
 |
 
@@ -76,11 +96,7 @@ Cour d'appel de Saint-Denis-de-la-Réunion
 
 |
 
-Réunion.
-
-|
-
-Saint-Denis.
+La Réunion
 
 |
 
@@ -88,18 +104,22 @@ Saint-Denis
 
 |
 
-Ressort du tribunal de grande instance de Saint-Denis.
+Saint-Denis
 
 |
 
-|
-
-Saint-Pierre.
+Ressort du tribunal de grande instance de Saint-Denis
 
 |
 
+Saint-Pierre
+
 |
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Saint-Pierre
+
+|
+
+Ressort du tribunal de grande instance de Saint-Pierre
 
 |
