@@ -1,8 +1,8 @@
 # Article Annexe Tableau VIII
 
-Siège et ressort des tribunaux de grande instance et de première instance compétents pour connaître des contestations
+Siège et ressort des tribunaux de grande instance et de première instance compétents pour connaître des
 
-sur la nationalité française ou étrangère des personnes physiques (annexe de l'article D. 211-10)
+contestations sur la nationalité française ou étrangère des personnes physiques (annexe de l'article D. 211-10)
 
 SIÈGE
 
@@ -60,7 +60,7 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 
 Cour d'appel d'Aix-en-Provence
 
-Alpes-de-Haute-Provence
+Alpes -de-Haute-Provence
 
 |
 
@@ -634,6 +634,18 @@ Ressort des tribunaux de grande instance de Grenoble et Vienne. (4)]
 
 Cour d'appel de Limoges
 
+Creuse
+
+|
+
+[Guéret
+
+|
+
+Ressort du tribunal de grande instance de Guéret.
+
+|
+
 Corrèze
 
 |
@@ -651,18 +663,6 @@ Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)]
 |
 
 Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)]
-
-|
-
-Creuse
-
-|
-
-Guéret
-
-|
-
-Ressort du tribunal de grande instance de Guéret.
 
 |
 
@@ -688,7 +688,7 @@ Ain
 
 |
 
-Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)]
+Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (9)]
 
 |
 
@@ -696,7 +696,7 @@ Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)]
 
 |
 
-Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)]
+Ressort du tribunal de grande instance de Bourg-en-Bresse. (10)]
 
 |
 
@@ -768,7 +768,7 @@ Aveyron
 
 |
 
-Ressort des tribunaux de grande instance de Millau et Rodez. (3)]
+Ressort des tribunaux de grande instance de Millau et Rodez. (9)]
 
 |
 
@@ -776,7 +776,7 @@ Ressort des tribunaux de grande instance de Millau et Rodez. (3)]
 
 |
 
-Ressort du tribunal de grande instance de Rodez. (4)]
+Ressort du tribunal de grande instance de Rodez. (10)]
 
 |
 
@@ -834,7 +834,7 @@ Vosges
 
 |
 
-[Epinal
+Epinal
 
 |
 
@@ -842,7 +842,7 @@ Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)]
 
 |
 
-[Epinal
+Epinal
 
 |
 
@@ -940,18 +940,6 @@ Ressort du tribunal de grande instance de Tours.
 
 |
 
-Loiret
-
-|
-
-Orléans
-
-|
-
-Ressort des tribunaux de grande instance de Montargis et Orléans.
-
-|
-
 Loir-et-Cher
 
 |
@@ -961,6 +949,18 @@ Blois
 |
 
 Ressort du tribunal de grande instance de Blois.
+
+|
+
+Loiret
+
+|
+
+Orléans
+
+|
+
+Ressort des tribunaux de grande instance de Montargis et Orléans.
 
 |
 
@@ -1054,18 +1054,6 @@ Ressort des tribunaux de grande instance d'Auxerre et Sens.
 
 Cour d'appel de Pau
 
-Hautes-Pyrénées
-
-|
-
-Tarbes
-
-|
-
-Ressort du tribunal de grande instance de Tarbes.
-
-|
-
 Landes
 
 |
@@ -1075,6 +1063,18 @@ Mont-de-Marsan
 |
 
 Ressort des tribunaux de grande instance de Dax et Mont-de-Marsan.
+
+|
+
+Hautes-Pyrénées
+
+|
+
+Tarbes
+
+|
+
+Ressort du tribunal de grande instance de Tarbes.
 
 |
 
@@ -1529,3 +1529,7 @@ Saint-Pierre
 Ressort du tribunal de première instance de Saint-Pierre.
 
 |
+
+(9) Applicable jusqu'au 30 septembre 2009
+
+(10) Applicable à compter du 1er octobre 2009
