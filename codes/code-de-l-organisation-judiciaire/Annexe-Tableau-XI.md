@@ -48,18 +48,6 @@ Canton de La Ciotat. (3)]
 
 |
 
-[Forcalquier
-
-|
-
-Manosque
-
-|
-
-Cantons de Manosque-Nord, Manosque-Sud-Est, Manosque-Sud Ouest, Reillanne et Valensole. (3)]
-
-|
-
 [Fréjus
 
 |
@@ -69,18 +57,6 @@ Saint-Tropez
 |
 
 Cantons de Grimaud et Saint-Tropez. (3)]
-
-|
-
-[Menton
-
-|
-
-Villefranche-sur-Mer
-
-|
-
-Cantons de Beausoleil et Villefranche-sur-Mer. (3)]
 
 |
 
@@ -123,20 +99,6 @@ Creil
 Cantons de Chantilly, Creil-Nogent-sur-Oise, Creil-Sud, Montataire et Neuilly-en-Thelle. (3)]
 
 |
-
-Cour d'appel d'Angers
-
-|
-
-[Mamers
-
-|
-
-La Ferté-Bernard
-
-|
-
-[Mamers Cantons de La Ferté-Bernard, Montmirail et Tuffé. (3)]
 
 |
 
@@ -225,18 +187,6 @@ Cantons d'Athis-de-l'Orne, Flers-Nord, Flers-Sud, Messei et Tinchebray. (3)]
 |
 
 Cour d'appel de Chambéry
-
-|
-
-[Bonneville
-
-|
-
-Sallanches
-
-|
-
-Cantons de Chamonix-Mont-Blanc, Saint-Gervais-les-Bains et Sallanches. (3)]
 
 |
 
@@ -381,18 +331,6 @@ Crest
 |
 
 Cantons de Bourdeaux, Crest-Nord, Crest-Sud et Saillans. (3)]
-
-|
-
-[Grenoble
-
-|
-
-Voiron
-
-|
-
-Cantons de Saint-Laurent-du-Pont et Voiron (1)]
 
 |
 
@@ -652,18 +590,6 @@ Canton de Saint-Jean-de-Luz. (3)]
 
 |
 
-[Mont-de-Marsan
-
-|
-
-Sabres
-
-|
-
-Cantons de Mimizan, Morcenx, Parentis-en-Born, Pissos et Sabres. (3)]
-
-|
-
 Cour d'appel de Poitiers
 
 |
@@ -728,18 +654,6 @@ Cour d'appel de Rouen
 
 |
 
-[Evreux
-
-|
-
-Vernon
-
-|
-
-Cantons de Vernon-Nord et Vernon-Sud. (3)]
-
-|
-
 [Le Havre
 
 |
@@ -760,6 +674,6 @@ Cantons de Fécamp, Goderville et Valmont. (3)]
 
 |
 
-(1) applicable jusqu'au 31 décembre 2008. (3) applicable jusqu'au 31 décembre 2009.
+(3) applicable jusqu'au 31 décembre 2009.
 
 |
