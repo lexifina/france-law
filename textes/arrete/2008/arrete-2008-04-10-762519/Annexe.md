@@ -156,7 +156,7 @@ Corps des conseillers d'administration scolaire et universitaire
 
 régi par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire
 
-et universitaire et fixant les dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire
+et universitaire et fixant les dispositions applicables à l'emploi d'administrateur de l'éducation nationale, de l'enseignement et de la recherche
 
 Conseiller d'administration scolaire et universitaire hors classe
 
