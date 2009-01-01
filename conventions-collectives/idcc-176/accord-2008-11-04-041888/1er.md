@@ -1,0 +1,7 @@
+# Article 1er
+
+Pour l'année 2009, la cotisation afférente au risque décès-incapacité-invalidité, fixée à 1,50 % de la base des cotisations par l'article 19 de l'accord du 22 juin 2007 relatif au régime de prévoyance des salariés, sera appelée à 96,66 % de son montant, soit au taux de 1,45 % de la base des cotisations.
+
+Pour l'année 2009, les cotisations afférentes au risque maladie-chirurgie-maternité, fixées à 1,17 % du plafond de la sécurité sociale et à 0,90 % de la base des cotisations par l'article 19 de l'accord du 22 juin 2007 relatif au régime de prévoyance des salariés, seront appelées respectivement à 94,9 % et 95,6 % de leurs montants, soit au taux de 1,11 % du plafond de la sécurité sociale et au taux de 0,86 % de la base des cotisations. Compte tenu de l'augmentation envisagée de la CMU, les taux de cotisation ci-dessus définis sont majorés de 106,3 % de leurs montants, soit un taux de 1,18 % du plafond de la sécurité sociale et un taux de 0,91 % de la base des cotisations. Ces cotisations avec l'augmentation envisagée de la CMU restent inchangées par rapport à l'année 2008.
+
+Pour l'année 2009, les cotisations afférentes au risque maladie-chirurgie-maternité seront appelées à hauteur de 55 % des cotisations appelées majorées de la CMU, pour les salariés bénéficiant du régime local de la sécurité sociale des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, soit 0,65 % du plafond de la sécurité sociale et 0,50 % de la base des cotisations.
