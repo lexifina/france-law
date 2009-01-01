@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005850
+
+- Question : [SEQ081005850](seq081005850.md) — Débordement du réseau d'assainissement communal
+
+## Réponse
+
+*Intérieur, JO du 2009-01-01, page 38*
+
+Les termes de cette question étant identiques à ceux de la question n° 32341 posée par Mme la députée Zimmermann, la réponse sera donc la même. Suivant les dispositions de l'article L. 2224-11 du code général des collectivités territoriales, les services publics d'eau et d'assainissement sont financièrement gérés comme des services à caractère industriel et commercial. Les communes peuvent exploiter directement des services d'intérêt public à caractère industriel et commercial (art. L. 2221-1 du CGCT) ou déléguer par contrat la gestion desdits services à un délégataire public ou privé (art. L. 1411-1). En matière d'assainissement, la délégation recouvre généralement l'exploitation du service, mais peut aussi concerner la construction et l'entretien des ouvrages. Si les pluies d'orage peuvent présenter, à raison de leur durée et de leur intensité exceptionnelle et imprévisible, le caractère d'un évènement de force majeure, les conséquences dommageables des inondations peuvent être aggravées par l'insuffisance ou le mauvais entretien des ouvrages communaux. Dans le cas d'une exploitation directe par la commune, sa responsabilité administrative peut être engagée du fait de ces dommages. Cette responsabilité peut être partagée avec le constructeur des ouvrages, dans le cas de vice de conception (CE-12 mars 1975 - commune de Boissy-le-Cutté). Si l'exploitation du réseau a été déléguée par contrat d'affermage, le délégataire, en charge d'assurer la surveillance, le bon fonctionnement et l'entretien du réseau, est seul responsable des dommages causés aux tiers. La responsabilité de la commune ne saurait être engagée, hors le cas d'insolvabilité du délégataire (CAA Nantes - 27 mai 1993).
