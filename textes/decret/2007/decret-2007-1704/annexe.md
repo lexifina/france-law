@@ -4,7 +4,7 @@ TABLEAU DE CORRESPONDANCE
 
 CATÉGORIE D'AGENTS NON TITULAIRES
 
-Arrêté préfectoral n° 3647 PREF/SG/DRH du 17 décembre 2002 portant statut des personnels contractuels de la collectivité départementale de Mayotte
+Arrêté préfectoral n° 3647 PREF / SG / DRH du 17 décembre 2002 portant statut des personnels contractuels de la collectivité départementale de Mayotte
 
 |
 
@@ -52,6 +52,6 @@ Fonctions correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Adjoints administratifs des services judiciaires.
+adjoints administratifs du ministère de la justice .
 
 |
