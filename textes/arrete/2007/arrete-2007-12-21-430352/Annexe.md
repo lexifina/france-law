@@ -86,7 +86,7 @@ Ingénieurs divisionnaires des travaux publics de l'Etat
 
 |
 
-9
+10
 
 |
 
@@ -130,7 +130,7 @@ Officiers de ports du 1er grade
 
 |
 
-5
+7
 
 |
 
@@ -142,7 +142,7 @@ Inspecteurs principaux des affaires maritimes de 2e classe
 
 |
 
-12
+15
 
 |
 
@@ -162,7 +162,7 @@ Professeurs techniques de l'enseignement maritime hors classe
 
 |
 
-5
+7
 
 |
 
