@@ -1,8 +1,8 @@
 # Article Annexe 6-1
 
-JURIDICTIONS COMPÉTENTES EN MÉTROPOLE POUR CONNAÎTRE,
+Juridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
 
-EN APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX COMMERCANTS ET ARTISANS
+des procédures applicables aux commerçants et artisans
 
 DÉPARTEMENT
 
@@ -16,2284 +16,1614 @@ RESSORT
 
 |
 
-Ain.
+Ain
 
 |
 
-TC de Bourg-en-Bresse.
+TC de Bourg-en-Bresse
 
 |
 
-Le département.
+Le département
 
 |
 
-Aisne.
+Aisne
 
 |
 
-TC de Chauny.
+TC de Saint-Quentin
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TGI de Laon.
+TC de Soissons
 
 |
 
-Ressort du TGI, à l'exception du ressort des TC de Chauny et de Vervins.
+Ressort du TC
 
 |
 
-|
-
-TC de Saint-Quentin.
-
-|
-
-Ressort des TC de Saint-Quentin et de Vervins.
-
-|
-
-|
-
-TC de Soissons.
-
-|
-
-Ressort du TC.
-
-|
-
-Allier.
-
-|
-
-TC de Cusset.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Montluçon.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Moulins.
-
-|
-
-Ressort du TC.
-
-|
-
-Alpes-de-Haute-Provence.
-
-|
-
-TGI de Digne.
-
-|
-
-Ressort du TGI, à l'exception du ressort du TC de Manosque.
-
-|
-
-|
-
-TC de Manosque.
-
-|
-
-Ressort du TC.
-
-|
-
-Alpes (Hautes-).
-
-|
-
-TC de Gap.
-
-|
-
-Le département.
-
-|
-
-Alpes-Maritimes.
-
-|
-
-TC d'Antibes.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Cannes.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Grasse.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Menton.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Nice.
-
-|
-
-Ressort du TC.
-
-|
-
-Ardèche.
-
-|
-
-TC d'Annonay.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC d'Aubenas.
-
-|
-
-Ressort du TC.
-
-|
-
-Ardennes.
-
-|
-
-TC de Charleville-Mézières.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Sedan.
-
-|
-
-Ressort du TC.
-
-|
-
-Ariège.
-
-|
-
-TC de Foix.
-
-|
-
-Le département.
-
-|
-
-Aube.
-
-|
-
-TC de Troyes.
-
-|
-
-Le département.
-
-|
-
-Aude.
-
-|
-
-TC de Carcassonne.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Narbonne.
-
-|
-
-Ressort du TC.
-
-|
-
-Aveyron.
-
-|
-
-TC de Millau.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Rodez.
-
-|
-
-Ressort du TC.
-
-|
-
-Bouches-du-Rhône.
-
-|
-
-TC d'Aix-en-Provence.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC d'Arles.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Marseille.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Salon-de-Provence.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Tarascon.
-
-|
-
-Ressort du TC.
-
-|
-
-Calvados.
-
-|
-
-TC de Bayeux.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Caen.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Condé-sur-Noireau.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Honfleur.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Lisieux.
-
-|
-
-Ressort du TC.
-
-|
-
-Cantal.
-
-|
-
-TC d'Aurillac.
+Allier
 
 |
 
-Le département.
+TC de Cusset
 
 |
 
-Charente.
+Ressort du TC
 
 |
 
-TC d'Angoulême.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Cognac.
-
-|
-
-Ressort du TC.
-
-|
-
-Charente-Maritime.
-
-|
-
-TC de Marennes.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Rochefort.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de La Rochelle.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Saintes.
-
-|
-
-Ressort du TC.
-
-|
-
-Cher.
-
-|
-
-TC de Bourges.
-
-|
-
-Le département.
-
-|
-
-Corrèze.
-
-|
-
-TC de Brive.
-
-|
-
-Ressort du TC.
-
-|
-
-|
-
-TC de Tulle.
-
-|
-
-Ressort du TC.
-
-|
-
-Corse-du-Sud.
-
-|
-
-TC d'Ajaccio.
-
-|
-
-Le département.
-
 |
 
-Corse (Haute-).
+TC de Montluçon
 
 |
 
-TC de Bastia.
+Ressort du TC
 
 |
 
-Le département.
+Alpes-de-Haute-Provence
 
 |
 
-Côte-d'Or.
+TC de Manosque
 
 |
 
-TC de Beaune.
+Le département
 
 |
 
-Ressort du TC.
+Alpes (Hautes-)
 
 |
 
-|
-
-TC de Dijon.
+TC de Gap
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Côtes-d'Armor.
+Alpes-Maritimes
 
 |
 
-TGI de Dinan.
+TC d'Antibes
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
 |
 
-TGI de Guingamp.
+TC de Cannes
 
 |
 
-Ressort du TGI.
-
-|
+Ressort du TC
 
 |
 
-TC de Saint-Brieuc.
-
 |
 
-Ressort du TC.
+TC de Grasse
 
 |
 
-Creuse.
+Ressort du TC
 
 |
-
-TGI de Guéret.
 
 |
 
-Le département.
+TC de Nice
 
 |
 
-Dordogne.
+Ressort du TC
 
 |
 
-TC de Bergerac.
+Ardèche
 
 |
 
-Ressort du TC.
-
-|
+TC d'Aubenas
 
 |
 
-TC de Périgueux.
+Le département
 
 |
 
-Ressort du TC.
+Ardennes
 
 |
 
-|
-
-TC de Sarlat.
+TC de Sedan
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Doubs.
+Ariège
 
 |
 
-TC de Besançon.
+TC de Foix
 
 |
 
-Ressort du TC.
-
-|
+Le département
 
 |
 
-TGI de Montbéliard.
+Aube
 
 |
 
-Ressort du TGI.
+TC de Troyes
 
 |
 
-Drôme.
+Le département
 
 |
 
-TC de Romans.
+Aude
 
 |
 
-Ressort du TC.
+TC de Carcassonne
 
 |
 
-|
-
-TGI de Valence.
+Ressort du TC
 
 |
 
-Ressort du TGI, à l'exception du ressort du TC de Romans.
-
 |
 
-Essonne.
+TC de Narbonne
 
 |
 
-TC d'Evry.
+Ressort du TC
 
 |
 
-Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly.
+Aveyron
 
 |
 
-Eure.
+TC de Rodez
 
 |
 
-TC d'Evreux.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Bouches-du-Rhône
 
 |
 
-TC de Pont-Audemer.
+TC d'Aix-en-Provence
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
-
-Eure-et-Loir.
 
 |
 
-TC de Chartres.
+TC de Marseille
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC de Dreux.
+TC de Salon-de-Provence
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Finistère.
-
 |
 
-TC de Brest.
+TC de Tarascon
 
 |
-
-Ressort du TC.
 
-|
+Ressort du TC
 
 |
 
-TC de Morlaix.
+Calvados
 
 |
-
-Ressort du TC.
 
-|
+TC de Caen
 
 |
 
-TC de Quimper.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
 |
 
-Gard.
+TC de Lisieux
 
 |
 
-TC d'Alès.
+Ressort du TC
 
 |
 
-Ressort du TC.
+Cantal
 
 |
 
-|
-
-TC de Nîmes.
+TC d'Aurillac
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Garonne (Haute-).
+Charente
 
 |
 
-TC de Saint-Gaudens.
+TC d'Angoulême
 
 |
 
-Ressort du TC.
-
-|
+Le département
 
 |
 
-TC de Toulouse.
+Charente-Maritime
 
 |
 
-Ressort du TC.
+TC de La Rochelle
 
 |
 
-Gers.
+Ressort du TC
 
 |
 
-TC d'Auch.
-
 |
 
-Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour.
+TC de Saintes
 
 |
 
-Gironde.
+Ressort du TC
 
 |
 
-TC de Bordeaux.
+Cher
 
 |
-
-Ressort du TC.
 
-|
+TC de Bourges
 
 |
 
-TC de Libourne.
+Le département
 
 |
 
-Ressort des TC de Blaye et Libourne.
+Corrèze
 
 |
 
-Hérault.
+TC de Brive-la-Gaillarde
 
 |
 
-TC de Béziers.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Corse-du-Sud
 
 |
 
-TC de Montpellier.
+TC d'Ajaccio
 
 |
-
-Ressort du TC.
 
-|
+Le département
 
 |
 
-TC de Clermont-l'Hérault.
+Corse (Haute)
 
 |
-
-Ressort du TC.
 
-|
+TC de Bastia
 
 |
 
-TC de Sète.
+Le département
 
 |
 
-Ressort du TC.
+Côte-d'Or
 
 |
 
-Ille-et-Vilaine.
+TC de Dijon
 
 |
 
-TC de Rennes.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Côtes-d'Armor
 
 |
 
-TC de Saint-Malo.
+TC de Saint-Brieuc
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Indre.
+Creuse
 
 |
 
-TC de Châteauroux.
+TC de Guéret
 
 |
 
-Le département.
+Le département
 
 |
 
-Indre-et-Loire.
+Dordogne
 
 |
 
-TC de Tours.
+TC de Bergerac
 
 |
 
-Le département.
+Ressort du TC
 
 |
-
-Isère.
 
 |
 
-TGI de Bourgoin-Jallieu.
+TC de Périgueux
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
-|
-
-TC de Grenoble.
+Doubs
 
 |
 
-Ressort du TC.
-
-|
+TC de Besançon
 
 |
 
-TC de Vienne.
+Ressort du TC
 
 |
 
-Ressort du TC.
+Drôme
 
 |
 
-Jura.
+TC de Romans-sur-Isère
 
 |
 
-TC de Dôle.
+Le département
 
 |
 
-Ressort du TC.
+Essonne
 
 |
 
-|
-
-TC de Lons-le-Saunier.
+TC d'Evry
 
 |
 
-Ressort du TC.
+Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly
 
 |
 
-Landes.
+Eure
 
 |
 
-TC de Dax.
+TC d'Evreux
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC de Mont-de-Marsan.
+TC de Bernay
 
 |
 
-Ressort du TC et l'emprise de l'aérodrome d'Aire-sur-l'Adour.
+Ressort du TC
 
 |
 
-Loir-et-Cher.
+Eure-et-Loir
 
 |
 
-TC de Blois.
+TC de Chartres
 
 |
 
-Le département.
+Le département
 
 |
 
-Loire.
+Finistère
 
 |
 
-TGI de Montbrison.
+TC de Brest
 
 |
 
-Ressort du TGI.
-
-|
+Ressort du TC
 
 |
 
-TC de Roanne.
-
 |
-
-Ressort du TC.
 
-|
+TC de Quimper
 
 |
 
-TC de Saint-Etienne.
+Ressort du TC
 
 |
 
-Ressort du TC.
+Gard
 
 |
 
-Loire (Haute-).
+TC de Nîmes
 
 |
 
-TC du Puy-en-Velay.
+Le département
 
 |
 
-Le département.
+Garonne (Haute-)
 
 |
 
-Loire-Atlantique.
+TC de Toulouse
 
 |
 
-TC de Nantes.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Gers
 
 |
 
-TC de Saint-Nazaire.
+TC d'Auch
 
 |
 
-Ressort du TC.
+Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour
 
 |
 
-Loiret.
+Gironde
 
 |
 
-TC de Montargis.
+TC de Bordeaux
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC d'Orléans.
+TC de Libourne
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Lot.
+Hérault
 
 |
 
-TC de Cahors.
+TC de Béziers
 
 |
 
-Le département.
+Ressort du TC
 
 |
-
-Lot-et-Garonne.
 
 |
 
-TC d'Agen.
+TC de Montpellier
 
 |
 
-Ressort du TC.
-
-|
+Ressort du TC
 
 |
 
-TC de Marmande.
+Ille-et-Vilaine
 
 |
 
-Ressort du TC.
+TC de Rennes
 
 |
 
-|
-
-TC de Villeneuve-sur-Lot.
+Ressort du TC
 
 |
 
-Ressort du TC.
-
 |
 
-Lozère.
+TC de Saint-Malo
 
 |
 
-TGI de Mende.
+Ressort du TC
 
 |
 
-Le département.
+Indre
 
 |
 
-Maine-et-Loire.
+TC de Châteauroux
 
 |
 
-TC d'Angers.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Indre-et-Loire
 
 |
 
-TC de Saumur.
+TC de Tours
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Manche.
+Isère
 
 |
 
-TC de Cherbourg.
+TC de Grenoble
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC de Coutances.
+TC de Vienne
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Marne.
+Jura
 
 |
 
-TC de Châlons-en-Champagne.
+TC de Lons-le-Saunier
 
 |
-
-Ressort du TC.
 
-|
+Le département
 
 |
 
-TC d'Epernay.
+Landes
 
 |
-
-Ressort du TC.
 
-|
+TC de Dax
 
 |
 
-TC de Reims.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
 |
 
-Marne (Haute-).
+TC de Mont-de-Marsan
 
 |
 
-TC de Chaumont.
+Ressort du TC et l'emprise de l'aérodrome d'Aire-sur-l'Adour
 
 |
 
-Ressort du TC.
-
-|
+Loir-et-Cher
 
 |
 
-TC de Saint-Dizier.
+TC de Blois
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Mayenne.
+Loire
 
 |
 
-TC de Laval.
+TC de Roanne
 
 |
 
-Le département.
+Ressort du TC
 
 |
 
-Meurthe-et-Moselle.
-
 |
 
-TC de Briey.
+TC de Saint-Etienne
 
 |
-
-Ressort du TC.
 
-|
+Ressort du TC
 
 |
 
-TC de Nancy.
+Loire (Haute-)
 
 |
 
-Ressort du TC.
+TC du Puy-en-Velay
 
 |
 
-Meuse.
+Le département
 
 |
 
-TC de Bar-le-Duc.
+Loire-Atlantique
 
 |
-
-Ressort du TC.
 
-|
+TC de Nantes
 
 |
 
-TC de Verdun.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
 |
 
-Morbihan.
+TC de Saint-Nazaire
 
 |
 
-TC de Lorient.
+Ressort du TC
 
 |
 
-Ressort du TC.
-
-|
+Loiret
 
 |
 
-TC de Vannes.
+TC d'Orléans
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Moselle.
+Lot
 
 |
 
-TGI de Metz.
+TC de Cahors
 
 |
 
-Ressort du TGI.
+Le département
 
 |
 
-|
-
-TGI de Sarreguemines.
+Lot-et-Garonne
 
 |
 
-Ressort du TGI.
-
-|
+TC d'Agen
 
 |
 
-TGI de Thionville.
+Le département
 
 |
 
-Ressort du TGI.
+Lozère
 
 |
 
-Nièvre.
+TC de Mende
 
 |
 
-TC de Nevers.
+Le département
 
 |
 
-Le département.
+Maine-et-Loire
 
 |
 
-Nord.
+TC d'Angers
 
 |
 
-TGI d'Avesnes.
+Le département
 
 |
 
-Ressort du TGI.
+Manche
 
 |
 
-|
-
-TC de Cambrai.
+TC de Cherbourg-Octeville
 
 |
 
-Ressort du TC.
-
-|
+Ressort du TC
 
 |
 
-TC de Douai.
-
 |
-
-Ressort du TC.
 
-|
+TC de Coutances
 
 |
 
-TC de Dunkerque.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
-|
+Marne
 
 |
 
-TGI d'Hazebrouck.
+TC de Châlons-en-Champagne
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
 |
 
-TC de Lille.
+TC de Reims
 
 |
-
-Ressort du TC.
 
-|
+Ressort du TC
 
 |
 
-TC de Roubaix-Tourcoing.
+Haute-Marne
 
 |
-
-Ressort du TC.
 
-|
+TC de Chaumont
 
 |
 
-TC de Valenciennes.
+Le département
 
 |
 
-Ressort du TC.
+Mayenne
 
 |
 
-Oise.
+TC de Laval
 
 |
 
-TC de Beauvais.
+Le département
 
 |
-
-Ressort du TC.
 
-|
+Meurthe-et-Moselle
 
 |
 
-TC de Compiègne.
+TC de Briey
 
 |
-
-Ressort du TC.
 
-|
+Ressort du TC
 
 |
-
-TC de Senlis.
 
 |
 
-Ressort du TC.
+TC de Nancy
 
 |
 
-Orne.
+Ressort du TC
 
 |
 
-TC d'Alençon.
+Meuse
 
 |
 
-Ressort du TC.
-
-|
+TC de Bar-le-Duc
 
 |
 
-TC d'Argentan.
+Le département
 
 |
 
-Ressort du TI.
+Morbihan
 
 |
 
-|
-
-TC de Condé-sur-Noireau.
+TC de Lorient
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Paris.
-
 |
 
-TC de Paris.
+TC de Vannes
 
 |
 
-Le département.
+Ressort du TC
 
 |
 
-Pas-de-Calais.
+Moselle
 
 |
 
-TC d'Arras.
+TGI de Metz
 
 |
 
-Ressort du TC.
+Ressort du TGI
 
 |
 
 |
 
-TGI de Béthune.
+TGI de Sarreguemines
 
 |
-
-Ressort du TGI.
 
-|
+Ressort du TGI
 
 |
-
-TC de Boulogne.
 
 |
 
-Ressort du TC.
-
-|
+TGI de Thionville
 
 |
 
-TC de Calais.
+Ressort du TGI
 
 |
 
-Ressort du TC.
+Nièvre
 
 |
 
-|
-
-TC de Saint-Omer.
+TC de Nevers
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Puy-de-Dôme.
+Nord
 
 |
 
-TC de Clermont-Ferrand.
+TC de Douai
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC de Riom.
+TC de Dunkerque
 
 |
 
-Ressort du TC.
-
-|
+Ressort du TC
 
 |
 
-TC de Thiers.
-
 |
 
-Ressort du TC.
+TC de Lille
 
 |
 
-Pyrénées-Atlantiques.
+Ressort du TC
 
 |
-
-TC de Bayonne.
 
 |
 
-Ressort du TC.
-
-|
+TC de Roubaix-Tourcoing
 
 |
 
-TC de Pau.
+Ressort du TC
 
 |
 
-Ressort des TC de Pau et d'Oloron-Sainte-Marie.
-
 |
 
-Hautes-Pyrénées.
+TC de Valenciennes
 
 |
 
-TC de Bagnères-de-Bigorre.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
-|
+Oise
 
 |
 
-TC de Tarbes.
+TC de Beauvais
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
-
-Pyrénées-Orientales.
 
 |
 
-TC de Perpignan.
+TC de Compiègne
 
 |
 
-Le département.
+Ressort du TC
 
 |
 
-Rhin (Bas-).
+Orne
 
 |
 
-TGI de Saverne.
+TC d'Alençon
 
 |
 
-Ressort du TGI.
+Le département
 
 |
 
-|
-
-TGI de Strasbourg.
+Paris
 
 |
 
-Ressort du TGI.
+TC de Paris
 
 |
 
-Rhin (Haut-).
+Le département
 
 |
 
-TGI de Colmar.
+Pas-de-Calais
 
 |
 
-Ressort du TGI.
-
-|
+TC d'Arras
 
 |
 
-TGI de Mulhouse.
+Ressort du TC
 
 |
 
-Ressort du TGI.
-
 |
 
-Rhône.
+TC de Boulogne-sur-Mer
 
 |
 
-TC de Lyon.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
-|
+Puy-de-Dôme
 
 |
 
-TC de Villefranche-Tarare.
+TC de Clermont-Ferrand
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Saône (Haute-).
+Pyrénées-Atlantiques
 
 |
 
-TGI de Lure.
+TC de Bayonne
 
 |
-
-Ressort du TGI.
 
-|
+Ressort du TC
 
 |
-
-TC de Vesoul-Gray.
 
 |
 
-Ressort du TC.
+TC de Pau
 
 |
 
-Saône-et-Loire.
+Ressort du TC
 
 |
 
-TC de Chalon-sur-Saône.
+Pyrénées (Hautes-)
 
 |
 
-Ressort du TC.
-
-|
+TC de Tarbes
 
 |
 
-TC du Creusot.
+Le département
 
 |
 
-Ressort du TC.
+Pyrénées-Orientales
 
 |
 
-|
-
-TC de Mâcon.
+TC de Perpignan
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Sarthe.
+Rhin (Bas-)
 
 |
 
-TC de Mamers.
+TGI de Saverne
 
 |
 
-Ressort du TC.
-
-|
+Ressort du TGI
 
 |
 
-TC de Mans.
-
 |
 
-Ressort du TC.
+TGI de Strasbourg
 
 |
 
-Savoie.
+Ressort du TGI
 
 |
 
-TGI d'Albertville.
+Rhin (Haut-)
 
 |
-
-Ressort du TGI.
 
-|
+TGI de Colmar
 
 |
 
-TC de Chambéry.
+Ressort du TGI
 
 |
-
-Ressort du TC.
 
 |
 
-Savoie (Haute-).
+TGI de Mulhouse
 
 |
 
-TGI d'Annecy.
+Ressort du TGI
 
 |
 
-Ressort du TGI.
+Rhône
 
 |
 
-|
-
-TGI de Bonneville.
+TC de Lyon
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
 |
 
-TGI de Thonon-les-Bains.
+TC de Villefranche-sur-Saône
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
-Hauts-de-Seine.
+Saône (Haute-)
 
 |
 
-TC de Nanterre.
+TC de Vesoul
 
 |
 
-Le département.
+Le département
 
 |
 
-Seine-Maritime.
+Saône-et-Loire
 
 |
 
-TC de Dieppe.
+TC de Chalon-sur-Saône
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC d'Elbeuf.
+TC de Mâcon
 
 |
 
-Ressort du TC.
-
-|
+Ressort du TC
 
 |
 
-TC du Havre.
+Sarthe
 
 |
 
-Ressort du TC.
+TC du Mans
 
 |
 
-|
-
-TC de Neufchâtel-en-Bray.
+Le département
 
 |
 
-Ressort du TC.
-
-|
+Savoie
 
 |
 
-TC de Rouen.
+TC de Chambéry
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Seine-et-Marne.
+Savoie (Haute-)
 
 |
 
-TC de Meaux.
+TC d'Annecy
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
-
-TC de Melun.
-
-|
-
-Ressort du TC.
 
-|
+TC de Thonon-les-Bains
 
 |
 
-TC de Montereau.
+Ressort du TC
 
 |
-
-Ressort du TC.
 
-|
+Seine (Hauts-de-)
 
 |
 
-TC de Provins.
+TC de Nanterre
 
 |
 
-Ressort du TC.
+Le département
 
 |
 
-Seine-Saint-Denis.
+Seine-Maritime
 
 |
 
-TC de Bobigny.
+TC de Dieppe
 
 |
 
-Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle.
+Ressort du TC
 
 |
-
-Sèvres (Deux-).
 
 |
 
-TGI de Bressuire.
+TC du Havre
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
 |
 
-TC de Niort.
+TC de Rouen
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Somme.
+Seine-et-Marne
 
 |
 
-TC d'Abbeville.
+TC de Meaux
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC d'Amiens.
+TC de Melun
 
 |
 
-Ressort du TC d'Amiens et du TGI de Péronne.
+Ressort du TC
 
 |
 
-Tarn.
+Seine-Saint-Denis
 
 |
-
-TC d'Albi.
-
-|
-
-Ressort du TC.
 
-|
+TC de Bobigny
 
 |
 
-TC de Castres.
+Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle
 
 |
 
-Ressort du TC.
+Sèvres (Deux-)
 
 |
 
-Tarn-et-Garonne.
+TC de Niort
 
 |
 
-TC de Montauban.
+Le département
 
 |
 
-Le département.
+Somme
 
 |
 
-Territoire de Belfort.
+TC d'Amiens
 
 |
 
-TC de Belfort.
+Le département
 
 |
 
-Le département.
+Tarn
 
 |
 
-Val-de-Marne.
+TC d'Albi
 
 |
 
-TC de Créteil.
+Ressort du TC
 
 |
-
-Le département et l'emprise de l'aérodrome de Paris-Orly.
 
 |
 
-Val-d'Oise.
+TC de Castres
 
 |
 
-TC de Pontoise.
+Ressort du TC
 
 |
 
-Le département à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle.
+Tarn-et-Garonne
 
 |
 
-Var.
+TC de Montauban
 
 |
 
-TC de Brignoles.
+Le département
 
 |
 
-Ressort du TC.
-
-|
+Territoire de Belfort
 
 |
 
-TC de Draguignan.
+TC de Belfort
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-|
-
-TC de Fréjus.
+Val-de-Marne
 
 |
 
-Ressort du TC.
-
-|
+TC de Créteil
 
 |
 
-TC de Saint-Tropez.
+Le département et l'emprise de l'aérodrome de Paris-Orly
 
 |
 
-Ressort du TC.
+Val-d'Oise
 
 |
 
-|
-
-TC de Toulon.
+TC de Pontoise
 
 |
 
-Ressort du TC.
+Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle
 
 |
 
-Vaucluse.
+Var
 
 |
 
-TC d'Avignon.
+TC de Draguignan
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TGI de Carpentras.
+TC de Fréjus
 
 |
 
-Ressort du TGI.
+Ressort du TC
 
 |
 
-Vendée.
-
 |
 
-TC de La Roche-sur-Yon.
+TC de Toulon
 
 |
 
-Le département.
+Ressort du TC
 
 |
 
-Vienne.
+Vaucluse
 
 |
 
-TC de Poitiers.
+TC d'Avignon
 
 |
 
-Le département.
+Le département
 
 |
 
-Vienne (Haute-).
+Vendée
 
 |
 
-TC de Limoges.
+TC de La Roche-sur-Yon
 
 |
 
-Le département.
+Le département
 
 |
 
-Vosges.
+Vienne
 
 |
 
-TC d'Epinal.
+TC de Poitiers
 
 |
-
-Ressort du TC.
 
-|
+Le département
 
 |
 
-TC de Mirecourt.
+Vienne (Haute-)
 
 |
-
-Ressort du TC.
 
-|
+TC de Limoges
 
 |
 
-TC de Saint-Dié.
+Le département
 
 |
 
-Ressort du TC.
+Vosges
 
 |
 
-Yonne.
+TC d'Epinal
 
 |
 
-TC d'Auxerre.
+Le département
 
 |
 
-Ressort du TC.
-
-|
+Yonne
 
 |
 
-TC de Joigny.
+TC d'Auxerre
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
 |
 
-TC de Sens.
+TC de Sens
 
 |
 
-Ressort du TC.
+Ressort du TC
 
 |
 
-Yvelines.
+Yvelines
 
 |
 
-TC de Versailles.
+TC de Versailles
 
 |
 
-Le département.
+Le département
 
 |
