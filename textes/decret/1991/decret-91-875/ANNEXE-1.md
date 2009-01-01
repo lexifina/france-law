@@ -926,19 +926,11 @@ Conservateur en chef.
 
 |
 
-Conservateur de 1re classe.
+Conservateur.
 
 |
 
-Conservateur de 1re classe.
-
-|
-
-Conservateur de 2e classe.
-
-|
-
-Conservateur de 2e classe.
+Conservateur.
 
 |
 
