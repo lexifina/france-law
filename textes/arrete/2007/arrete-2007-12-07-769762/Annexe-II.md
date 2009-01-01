@@ -1,8 +1,6 @@
 # Article Annexe II
 
-LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTICLE R. 213-48-13 DU
-
-CODE DE L'ENVIRONNEMENT RELATIF À LA REDEVANCE POUR POLLUTIONS DIFFUSES
+LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTICLE R. 213-48-13 DU CODE DE L'ENVIRONNEMENT ET CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU MÊME CODE
 
 Substances toxiques ou très toxiques
 
@@ -18,7 +16,15 @@ NOM
 
 |
 
-1,3 dichloropropene.
+1, 3 dichloropropene.
+
+|
+
+71751-41-2
+
+|
+
+abamectine.
 
 |
 
@@ -26,15 +32,7 @@ NOM
 
 |
 
-Alphamethrine.
-
-|
-
-41083-11-8
-
-|
-
-Azocyclotin.
+alpha-cypermethrine.
 
 |
 
@@ -42,7 +40,7 @@ Azocyclotin.
 
 |
 
-Azoxystrobine.
+azoxystrobine.
 
 |
 
@@ -50,7 +48,7 @@ Azoxystrobine.
 
 |
 
-Benfuracarbe.
+benfuracarbe.
 
 |
 
@@ -58,7 +56,15 @@ Benfuracarbe.
 
 |
 
-Betacyfluthrine (CIPAC n° 482).
+beta-cyfluthrine.
+
+|
+
+82657-04-3
+
+|
+
+bifenthrine.
 
 |
 
@@ -66,15 +72,15 @@ Betacyfluthrine (CIPAC n° 482).
 
 |
 
-Brodifacoum.
+brodifacoum.
 
 |
 
-1689-99-2
+28772-56-7
 
 |
 
-Bromoxynil (octanoate).
+bromadiolone.
 
 |
 
@@ -82,15 +88,23 @@ Bromoxynil (octanoate).
 
 |
 
-Bromoxynil phenol.
+bromoxynil (phenol).
 
 |
 
-50-14-6
+1689-99-2
 
 |
 
-Calciferol.
+bromoxynil octanoate.
+
+|
+
+74-83-9
+
+|
+
+bromure de methyle.
 
 |
 
@@ -98,23 +112,7 @@ Calciferol.
 
 |
 
-Captane.
-
-|
-
-1563-66-2
-
-|
-
-Carbofuran.
-
-|
-
-55285-14-8
-
-|
-
-Carbosulfan.
+captane.
 
 |
 
@@ -122,7 +120,7 @@ Carbosulfan.
 
 |
 
-Chlormephos.
+chlormephos.
 
 |
 
@@ -130,7 +128,7 @@ Chlormephos.
 
 |
 
-Chlorophacinone.
+chlorophacinone.
 
 |
 
@@ -138,7 +136,7 @@ Chlorophacinone.
 
 |
 
-Chloropicrine.
+chloropicrine (trichloronitromethane).
 
 |
 
@@ -146,7 +144,7 @@ Chloropicrine.
 
 |
 
-Chlorothalonil.
+chlorothalonil.
 
 |
 
@@ -154,39 +152,15 @@ Chlorothalonil.
 
 |
 
-Chlorpyriphos ethyl.
+chlorpyrifos-éthyl.
 
 |
 
-67-97-0
+20427-59-2
 
 |
 
-Colecalciferol.
-
-|
-
-81-81-2
-
-|
-
-Coumafene.
-
-|
-
-5836-29-3
-
-|
-
-Coumatetralyl.
-
-|
-
-535-89-7
-
-|
-
-Crimidine.
+cuivre de l'hydroxyde de cuivre.
 
 |
 
@@ -194,7 +168,7 @@ Crimidine.
 
 |
 
-Cyanamide hydrogene.
+cyanamide.
 
 |
 
@@ -202,7 +176,7 @@ Cyanamide hydrogene.
 
 |
 
-Cyfluthrine (CIPAC n° 385).
+cyfluthrine.
 
 |
 
@@ -210,15 +184,7 @@ Cyfluthrine (CIPAC n° 385).
 
 |
 
-Deltamethrine.
-
-|
-
-10311-84-9
-
-|
-
-Dialiphos.
+deltamethrine.
 
 |
 
@@ -226,7 +192,7 @@ Dialiphos.
 
 |
 
-Dichlorvos.
+dichlorvos.
 
 |
 
@@ -234,7 +200,23 @@ Dichlorvos.
 
 |
 
-Difenacoum.
+difenacoum.
+
+|
+
+104653-34-1
+
+|
+
+difethialone.
+
+|
+
+2699-79-8
+
+|
+
+difluorure de sulfuryle.
 
 |
 
@@ -242,7 +224,7 @@ Difenacoum.
 
 |
 
-Diphacinone.
+diphacinone.
 
 |
 
@@ -250,23 +232,15 @@ Diphacinone.
 
 |
 
-Diphenylamine.
+diphenylamine.
 
 |
 
-85-00-7
+85-00-7 ; 4032-26-2 ; 94021-76-8
 
 |
 
-Diquat dibromure.
-
-|
-
-115-29-7
-
-|
-
-Endosulfan.
+diquat et ses sels.
 
 |
 
@@ -274,7 +248,7 @@ Endosulfan.
 
 |
 
-Esfenvalerate.
+esfenvalerate.
 
 |
 
@@ -282,7 +256,7 @@ Esfenvalerate.
 
 |
 
-Ethoprophos.
+ethoprophos.
 
 |
 
@@ -290,15 +264,23 @@ Ethoprophos.
 
 |
 
-Fenazaquin.
+fenazaquin.
 
 |
 
-13356-08-6
+111812-58-9
 
 |
 
-Fenbutatin oxyde.
+fenpyroximate.
+
+|
+
+120068-37-3
+
+|
+
+fipronil.
 
 |
 
@@ -306,15 +288,15 @@ Fenbutatin oxyde.
 
 |
 
-Flocoumafen.
+flocoumafen.
 
 |
 
-136426-54-5
+79622-59-6
 
 |
 
-Fluquinconazole.
+fluazinam.
 
 |
 
@@ -322,15 +304,15 @@ Fluquinconazole.
 
 |
 
-Formaldehyde.
+formaldehyde.
 
 |
 
-22259-30-9
+23422-53-9
 
 |
 
-Formetanate.
+formetanate-chlorhydrate.
 
 |
 
@@ -338,7 +320,31 @@ Formetanate.
 
 |
 
-Fosthiazate.
+fosthiazate.
+
+|
+
+111-30-8
+
+|
+
+glutaraldehyde.
+
+|
+
+57520-17-9
+
+|
+
+guazatine triacetate.
+
+|
+
+67485-29-4
+
+|
+
+hydramethylnon.
 
 |
 
@@ -346,7 +352,15 @@ Fosthiazate.
 
 |
 
-Ioxynil.
+ioxynil.
+
+|
+
+2961-62-8
+
+|
+
+ioxynil (sel de sodium).
 
 |
 
@@ -354,15 +368,15 @@ Ioxynil.
 
 |
 
-Ioxynil octanoate.
+ioxynil octanoate.
 
 |
 
-556-61-6
+55965-84-9
 
 |
 
-Isothiocyanate de methyl.
+isothiazoline.
 
 |
 
@@ -370,7 +384,7 @@ Isothiocyanate de methyl.
 
 |
 
-Lambda cyhalothrine.
+lambda cyhalothrine.
 
 |
 
@@ -378,31 +392,15 @@ Lambda cyhalothrine.
 
 |
 
-Methiocarbe.
+methiocarbe.
 
 |
 
-10265-92-6
+7632-00-0
 
 |
 
-Methamidophos.
-
-|
-
-16752-77-5
-
-|
-
-Methomyl.
-
-|
-
-54-11-5
-
-|
-
-Nicotine.
+nitrite de sodium.
 
 |
 
@@ -410,23 +408,7 @@ Nicotine.
 
 |
 
-Oxamyl.
-
-|
-
-301-12-2
-
-|
-
-Oxydemeton methyl.
-
-|
-
-1910-42-5
-
-|
-
-Paraquat dichlorure.
+oxamyl.
 
 |
 
@@ -434,15 +416,31 @@ Paraquat dichlorure.
 
 |
 
-Phenamiphos.
+phenamiphos.
 
 |
 
-2310-17-0
+1305-99-3
 
 |
 
-Phosalone.
+phosphure de calcium.
+
+|
+
+20859-73-8
+
+|
+
+phosphure d'aluminium.
+
+|
+
+12057-74-8
+
+|
+
+phosphure de magnesium.
 
 |
 
@@ -450,15 +448,15 @@ Phosalone.
 
 |
 
-Propargite.
+propargite.
 
 |
 
-31218-83-4
+175013-18-0
 
 |
 
-Propetamphos.
+pyraclostrobine.
 
 |
 
@@ -466,7 +464,7 @@ Propetamphos.
 
 |
 
-Pyridabene.
+pyridabene.
 
 |
 
@@ -474,7 +472,7 @@ Pyridabene.
 
 |
 
-Pyrimicarbe.
+pyrimicarbe.
 
 |
 
@@ -482,23 +480,31 @@ Pyrimicarbe.
 
 |
 
-Rotenone.
+rotenone.
 
 |
 
-507-60-8
+79538-32-2
 
 |
 
-Scilliroside.
+tefluthrine.
 
 |
 
-731-27-1
+72459-58-6
 
 |
 
-Tolylfluanide.
+triazoxide.
+
+|
+
+523-15-078
+
+|
+
+zetacypermethrine.
 
 |
 
@@ -506,11 +512,13 @@ Tolylfluanide.
 
 |
 
-Zirame.
+zirame.
 
 |
 
-Substances cancérogènes, mutagènes ou toxiques pour la reproduction de catégorie 1 ou 2
+Substances cancérogènes, mutagènes ou toxiques
+
+pour la reproduction de catégorie 1 ou 2
 
 NUMÉRO CAS
 
@@ -520,19 +528,11 @@ NOM
 
 |
 
-10605-21-7
+61789-60-4
 
 |
 
-Carbendazime.
-
-|
-
-39300-45-3
-
-|
-
-Dinocap.
+poix.
 
 |
 
@@ -540,7 +540,7 @@ Dinocap.
 
 |
 
-Flumioxazine.
+flumioxazine.
 
 |
 
@@ -548,7 +548,7 @@ Flumioxazine.
 
 |
 
-Flusilazole.
+flusilazole.
 
 |
 
@@ -556,7 +556,15 @@ Flusilazole.
 
 |
 
-Linuron.
+linuron.
+
+|
+
+33629-47-9
+
+|
+
+butraline.
 
 |
 
@@ -574,7 +582,7 @@ NOM
 
 |
 
-Diuron.
+diuron.
 
 |
 
@@ -582,7 +590,7 @@ Diuron.
 
 |
 
-Isoproturon.
+isoproturon.
 
 |
 
@@ -600,7 +608,7 @@ NOM
 
 |
 
-2,4 d.
+2, 4-d.
 
 |
 
@@ -608,7 +616,15 @@ NOM
 
 |
 
-Sels de 2,4 d.
+sels de 2, 4 d.
+
+|
+
+1928-43-4
+
+|
+
+2, 4 d, (ester d'éthyl hexyle).
 
 |
 
@@ -616,7 +632,23 @@ Sels de 2,4 d.
 
 |
 
-2,4 db.
+2, 4-db.
+
+|
+
+1214-39-7
+
+|
+
+6-benzyladenine.
+
+|
+
+135410-20-7
+
+|
+
+acetamipride.
 
 |
 
@@ -624,7 +656,7 @@ Sels de 2,4 d.
 
 |
 
-Acetochlore.
+acetochlore.
 
 |
 
@@ -632,7 +664,7 @@ Acetochlore.
 
 |
 
-Acibenzolar s methyl.
+acibenzolar-s-methyl.
 
 |
 
@@ -640,7 +672,31 @@ Acibenzolar s methyl.
 
 |
 
-Aclonifen.
+aclonifène.
+
+|
+
+101007-06-1
+
+|
+
+acrinathrine.
+
+|
+
+68515-73-1
+
+|
+
+alkyl polysaccharides.
+
+|
+
+584-79-2, 28434-00-6 ; 84030-86-4
+
+|
+
+allethrine.
 
 |
 
@@ -648,15 +704,7 @@ Aclonifen.
 
 |
 
-Aminotriazole.
-
-|
-
-33089-61-1
-
-|
-
-Amitraze.
+aminotriazole.
 
 |
 
@@ -664,7 +712,7 @@ Amitraze.
 
 |
 
-Azimsulfuron.
+azimsulfuron.
 
 |
 
@@ -672,7 +720,23 @@ Azimsulfuron.
 
 |
 
-Benalaxyl.
+benalaxyl.
+
+|
+
+1861-40-1
+
+|
+
+benfluraline.
+
+|
+
+98730-04-2
+
+|
+
+benoxacor.
 
 |
 
@@ -680,23 +744,47 @@ Benalaxyl.
 
 |
 
-Bensulfuron methyl.
+bensulfuron methyl.
 
 |
 
-56634-95-8
+25057-89-0
 
 |
 
-Bromoxynil heptanoate.
+bentazone.
 
 |
 
-63-25-2
+149877-41-8
 
 |
 
-Carbaryl.
+bifenazate.
+
+|
+
+188425-85-6
+
+|
+
+boscalid.
+
+|
+
+56634-92-8
+
+|
+
+bromoxynil heptanoate.
+
+|
+
+116255-48-2
+
+|
+
+bromuconazole.
 
 |
 
@@ -704,7 +792,7 @@ Carbaryl.
 
 |
 
-Carfentrazone ethyl.
+carfentrazone-ethyl.
 
 |
 
@@ -712,15 +800,15 @@ Carfentrazone ethyl.
 
 |
 
-Chloridazone.
+chloridazone.
 
 |
 
-80-33-1
+101-21-3
 
 |
 
-Chlorofenizon.
+chlorprophame.
 
 |
 
@@ -728,7 +816,7 @@ Chlorofenizon.
 
 |
 
-Chlorpyriphos methyl.
+chlorpyriphos-methyl.
 
 |
 
@@ -736,7 +824,7 @@ Chlorpyriphos methyl.
 
 |
 
-Chlorsulfuron.
+chlorsulfuron.
 
 |
 
@@ -744,7 +832,23 @@ Chlorsulfuron.
 
 |
 
-Chlortoluron.
+chlortoluron.
+
+|
+
+142891-20-1
+
+|
+
+cinidon-ethyl.
+
+|
+
+105512-06-9
+
+|
+
+clodinafop-propargyl.
 
 |
 
@@ -752,7 +856,39 @@ Chlortoluron.
 
 |
 
-Clopyralid.
+clopyralid.
+
+|
+
+99607-70-2
+
+|
+
+cloquintocet-mexyl.
+
+|
+
+33956-49-9
+
+|
+
+codlemone.
+
+|
+
+120116-88-3
+
+|
+
+cyazofamid.
+
+|
+
+122008-85-9
+
+|
+
+cyhalofop butyl.
 
 |
 
@@ -760,7 +896,7 @@ Clopyralid.
 
 |
 
-Cyhexatin.
+cyhexatin.
 
 |
 
@@ -768,7 +904,7 @@ Cyhexatin.
 
 |
 
-Cymoxanil.
+cymoxanil.
 
 |
 
@@ -776,7 +912,7 @@ Cymoxanil.
 
 |
 
-Cypermethrine.
+cypermethrine.
 
 |
 
@@ -784,7 +920,15 @@ Cypermethrine.
 
 |
 
-Cyproconazole.
+cyproconazole.
+
+|
+
+121552-61-2
+
+|
+
+cyprodinil.
 
 |
 
@@ -792,15 +936,7 @@ Cyproconazole.
 
 |
 
-Dazomet.
-
-|
-
-584-79-2
-
-|
-
-Depallethrine.
+dazomet.
 
 |
 
@@ -808,7 +944,15 @@ Depallethrine.
 
 |
 
-Desmediphame.
+desmediphame.
+
+|
+
+-
+
+|
+
+di-1-p-menthene.
 
 |
 
@@ -816,7 +960,15 @@ Desmediphame.
 
 |
 
-Diazinon.
+diazinon.
+
+|
+
+1918-00-9 ; 1007-85-9 ; 2300-66-5 ; 1982-69-0
+
+|
+
+dicamba et ses sels.
 
 |
 
@@ -824,23 +976,23 @@ Diazinon.
 
 |
 
-Dichlobenil.
+dichlobenil.
 
 |
 
-97-17-6
+15165-67-0
 
 |
 
-Dichlofenthion.
+dichlorprop p.
 
 |
 
-75736-33-3
+-
 
 |
 
-Diclobutrazol.
+dichlorprop p (sels).
 
 |
 
@@ -848,7 +1000,7 @@ Diclobutrazol.
 
 |
 
-Diclofop methyl.
+diclofop-methyl.
 
 |
 
@@ -856,7 +1008,15 @@ Diclofop methyl.
 
 |
 
-Dicofol.
+dicofol.
+
+|
+
+83164-33-4
+
+|
+
+diflufenican.
 
 |
 
@@ -864,7 +1024,15 @@ Dicofol.
 
 |
 
-Dimethachlore.
+dimethachlore.
+
+|
+
+163515-14-8
+
+|
+
+dimethenamid-p.
 
 |
 
@@ -872,15 +1040,15 @@ Dimethachlore.
 
 |
 
-Dimethomorphe.
+dimethomorphe.
 
 |
 
-76714-88-0
+76714-88-0 ; 83657-24-3
 
 |
 
-Diniconazole.
+diniconazole.
 
 |
 
@@ -888,7 +1056,7 @@ Diniconazole.
 
 |
 
-Dithianon.
+dithianon.
 
 |
 
@@ -896,31 +1064,39 @@ Dithianon.
 
 |
 
-Dodemorphe.
+dodemorphe.
 
 |
 
-133855-98-8
+2439-10-3
 
 |
 
-Epoxiconazole.
+dodine.
 
 |
 
-30043-49-3
+33956-49-9
 
 |
 
-Ethidimuron.
+e, e-8, 10-dodecadiene-1-ol.
 
 |
 
-29973-13-5
+106325-08-0
 
 |
 
-Ethiophencarbe.
+epoxiconazole.
+
+|
+
+16672-87-0
+
+|
+
+ethephon.
 
 |
 
@@ -928,7 +1104,15 @@ Ethiophencarbe.
 
 |
 
-Ethofumesate.
+ethofumesate.
+
+|
+
+80844-07-1
+
+|
+
+etofenprox.
 
 |
 
@@ -936,7 +1120,7 @@ Ethofumesate.
 
 |
 
-Etoxazole.
+etoxazole.
 
 |
 
@@ -944,7 +1128,7 @@ Etoxazole.
 
 |
 
-Famoxadone.
+famoxadone.
 
 |
 
@@ -952,7 +1136,7 @@ Famoxadone.
 
 |
 
-Fenamidone.
+fenamidone.
 
 |
 
@@ -960,7 +1144,7 @@ Fenamidone.
 
 |
 
-Fenarimol.
+fenarimol.
 
 |
 
@@ -968,7 +1152,7 @@ Fenarimol.
 
 |
 
-Fenbuconazole.
+fenbuconazole.
 
 |
 
@@ -976,15 +1160,7 @@ Fenbuconazole.
 
 |
 
-Fenhexamid.
-
-|
-
-122-14-5
-
-|
-
-Fenitrothion.
+fenhexamide.
 
 |
 
@@ -992,7 +1168,15 @@ Fenitrothion.
 
 |
 
-Fenoxycarbe.
+fenoxycarbe.
+
+|
+
+67306-00-7
+
+|
+
+fenpropidine.
 
 |
 
@@ -1000,7 +1184,7 @@ Fenoxycarbe.
 
 |
 
-Fenpropimorphe.
+fenpropimorphe.
 
 |
 
@@ -1008,7 +1192,7 @@ Fenpropimorphe.
 
 |
 
-Flazasulfuron.
+flazasulfuron.
 
 |
 
@@ -1016,7 +1200,7 @@ Flazasulfuron.
 
 |
 
-Florasulam.
+florasulam.
 
 |
 
@@ -1024,7 +1208,15 @@ Florasulam.
 
 |
 
-Fluazifop p butyl.
+fluazifop-p-butyl.
+
+|
+
+13141-86-1
+
+|
+
+fludioxonil.
 
 |
 
@@ -1032,7 +1224,15 @@ Fluazifop p butyl.
 
 |
 
-Flufenacet.
+flufenacet.
+
+|
+
+361377-29-9
+
+|
+
+fluoxastrobine.
 
 |
 
@@ -1040,7 +1240,15 @@ Flufenacet.
 
 |
 
-Flupyrsulfuron methyle.
+flupyrsulfuron-methyl.
+
+|
+
+69377-81-7
+
+|
+
+fluroxypyr.
 
 |
 
@@ -1048,7 +1256,7 @@ Flupyrsulfuron methyle.
 
 |
 
-Fluroxypyr (ester 1 methylheptyl).
+fluroxypyr (ester 1-methylheptyl).
 
 |
 
@@ -1056,7 +1264,15 @@ Fluroxypyr (ester 1 methylheptyl).
 
 |
 
-Flurtamone.
+flurtamone.
+
+|
+
+66332-96-5
+
+|
+
+flutolanil.
 
 |
 
@@ -1064,7 +1280,23 @@ Flurtamone.
 
 |
 
-Folpel.
+folpel.
+
+|
+
+173159-57-4
+
+|
+
+foramsulfuron.
+
+|
+
+39148-24-8
+
+|
+
+fosetyl-al.
 
 |
 
@@ -1072,23 +1304,31 @@ Folpel.
 
 |
 
-Glyphosate.
+glyphosate.
 
 |
 
-72619-32-0
+40465-66-5
 
 |
 
-Haloxyfop r.
+glyphosate (sel d'ammonium).
 
 |
 
-79983-71-4
+38641-94-0
 
 |
 
-Hexaconazole.
+glyphosate (sel d'isopropylamine).
+
+|
+
+-
+
+|
+
+heptamethyltrisiloxane modifie polyalkyleneoxide.
 
 |
 
@@ -1096,7 +1336,15 @@ Hexaconazole.
 
 |
 
-Hexythiazox.
+hexythiazox.
+
+|
+
+10004-44-1
+
+|
+
+hymexazol.
 
 |
 
@@ -1104,7 +1352,7 @@ Hexythiazox.
 
 |
 
-Imazalil.
+imazalil.
 
 |
 
@@ -1112,15 +1360,31 @@ Imazalil.
 
 |
 
-Imazamox.
+imazamox.
 
 |
 
-144550-36-7
+105827-78-9
 
 |
 
-Iodosulfuron.
+imidaclopride.
+
+|
+
+173584-44-6
+
+|
+
+indoxacarbe.
+
+|
+
+144550-36-7 ; 185119-76-0
+
+|
+
+iodosulfuron (methyl-sodium).
 
 |
 
@@ -1128,7 +1392,15 @@ Iodosulfuron.
 
 |
 
-Iprodione.
+iprodione.
+
+|
+
+82558-50-7
+
+|
+
+isoxaben.
 
 |
 
@@ -1136,7 +1408,7 @@ Iprodione.
 
 |
 
-Isoxaflutole.
+isoxaflutole.
 
 |
 
@@ -1144,7 +1416,15 @@ Isoxaflutole.
 
 |
 
-Kresoxim methyl.
+kresoxim-methyl.
+
+|
+
+2164-08-1
+
+|
+
+lenacile.
 
 |
 
@@ -1152,7 +1432,15 @@ Kresoxim methyl.
 
 |
 
-Lufenuron.
+lufenuron.
+
+|
+
+8018-01-7
+
+|
+
+mancozebe.
 
 |
 
@@ -1160,7 +1448,7 @@ Lufenuron.
 
 |
 
-Malathion.
+malathion.
 
 |
 
@@ -1168,7 +1456,7 @@ Malathion.
 
 |
 
-Mcpb.
+mcpb.
 
 |
 
@@ -1176,7 +1464,15 @@ Mcpb.
 
 |
 
-Mecoprop.
+mecoprop.
+
+|
+
+66423-05-0
+
+|
+
+mecoprop p sel de potassium.
 
 |
 
@@ -1184,7 +1480,39 @@ Mecoprop.
 
 |
 
-Mecoprop p (et ses sels).
+mecoprop-p.
+
+|
+
+66423-09-4
+
+|
+
+mecoprop-p (sels de dimethylamine).
+
+|
+
+135590-91-9
+
+|
+
+mefenpyr diethyl.
+
+|
+
+110235-47-7
+
+|
+
+mepanipyrim.
+
+|
+
+24307-26-4
+
+|
+
+mepiquat-chlorure.
 
 |
 
@@ -1192,15 +1520,15 @@ Mecoprop p (et ses sels).
 
 |
 
-Mesotrione.
+mesotrione.
 
 |
 
-137-42-8
+57837-19-1
 
 |
 
-Metam sodium.
+metalaxyl.
 
 |
 
@@ -1208,15 +1536,39 @@ Metam sodium.
 
 |
 
-Metamitrone.
+metamitrone.
 
 |
 
-18691-97-9
+137-42-8 ; 6734-80-1
 
 |
 
-Methabenzthiazuron.
+metam-sodium.
+
+|
+
+125116-23-6
+
+|
+
+metconazole.
+
+|
+
+139528-85-1
+
+|
+
+metosulame.
+
+|
+
+220899-03-6
+
+|
+
+metrafenone.
 
 |
 
@@ -1224,7 +1576,7 @@ Methabenzthiazuron.
 
 |
 
-Metribuzine.
+metribuzine.
 
 |
 
@@ -1232,15 +1584,15 @@ Metribuzine.
 
 |
 
-Metsulfuron methyle.
+metsulfuron methyle.
 
 |
 
-2212-67-1
+51596-10-2
 
 |
 
-Molinate.
+milbemectine.
 
 |
 
@@ -1248,15 +1600,15 @@ Molinate.
 
 |
 
-Myclobutanil.
+myclobutanil.
 
 |
 
-300-76-5
+19044-88-3
 
 |
 
-Naled.
+oryzalin.
 
 |
 
@@ -1264,7 +1616,7 @@ Naled.
 
 |
 
-Oxadiargyl.
+oxadiargyl.
 
 |
 
@@ -1272,7 +1624,15 @@ Oxadiargyl.
 
 |
 
-Oxadiazon.
+oxadiazon.
+
+|
+
+42874-03-3
+
+|
+
+oxyfluorfene.
 
 |
 
@@ -1280,7 +1640,15 @@ Oxadiazon.
 
 |
 
-Pendimethaline.
+pendimethaline.
+
+|
+
+219714-92-2
+
+|
+
+penoxsulame.
 
 |
 
@@ -1288,7 +1656,7 @@ Pendimethaline.
 
 |
 
-Phenmediphame.
+phenmediphame.
 
 |
 
@@ -1296,7 +1664,7 @@ Phenmediphame.
 
 |
 
-Phosmet.
+phosmet.
 
 |
 
@@ -1304,7 +1672,47 @@ Phosmet.
 
 |
 
-Phoxime.
+phoxime.
+
+|
+
+1918-02-1
+
+|
+
+piclorame.
+
+|
+
+6753-47-5
+
+|
+
+piclorame, sel de triisopropylamine.
+
+|
+
+137641-05-5
+
+|
+
+picolinafene.
+
+|
+
+117428-22-5
+
+|
+
+picoxystrobine.
+
+|
+
+-
+
+|
+
+polymere d'amine gras.
 
 |
 
@@ -1312,7 +1720,15 @@ Phoxime.
 
 |
 
-Prochloraze.
+prochloraze.
+
+|
+
+75747-77-2
+
+|
+
+prochloraze-manganese.
 
 |
 
@@ -1320,7 +1736,7 @@ Prochloraze.
 
 |
 
-Propachlore.
+propachlore.
 
 |
 
@@ -1328,7 +1744,15 @@ Propachlore.
 
 |
 
-Propanil.
+propanil.
+
+|
+
+111479-05-1
+
+|
+
+propaquizafop.
 
 |
 
@@ -1336,7 +1760,7 @@ Propanil.
 
 |
 
-Propiconazole.
+propiconazole.
 
 |
 
@@ -1344,7 +1768,7 @@ Propiconazole.
 
 |
 
-Propoxycarbazone sodium.
+propoxycarbazone sodium.
 
 |
 
@@ -1352,7 +1776,7 @@ Propoxycarbazone sodium.
 
 |
 
-Propyzamide.
+propyzamide.
 
 |
 
@@ -1360,7 +1784,7 @@ Propyzamide.
 
 |
 
-Prosulfocarbe.
+prosulfocarbe.
 
 |
 
@@ -1368,15 +1792,39 @@ Prosulfocarbe.
 
 |
 
-Prosulfuron.
+prosulfuron.
 
 |
 
-129630-19-9
+178928-70-6
 
 |
 
-Pyraflufen ethyl.
+prothioconazole.
+
+|
+
+123312-89-0
+
+|
+
+pymetrozine.
+
+|
+
+129630-19-9 ; 129630-17-7
+
+|
+
+pyraflufen-ethyl.
+
+|
+
+1698-60-8 ; 58858-18-7
+
+|
+
+pyrazone.
 
 |
 
@@ -1384,7 +1832,15 @@ Pyraflufen ethyl.
 
 |
 
-Pyridate.
+pyridate.
+
+|
+
+53112-28-0
+
+|
+
+pyrimethanil.
 
 |
 
@@ -1392,7 +1848,7 @@ Pyridate.
 
 |
 
-Pyrimiphos methyl.
+pyrimiphos methyl.
 
 |
 
@@ -1400,7 +1856,39 @@ Pyrimiphos methyl.
 
 |
 
-Quinoxyfene.
+quinoxyfene.
+
+|
+
+100646-51-3
+
+|
+
+quizalofop-p-ethyl.
+
+|
+
+122931-48-0
+
+|
+
+rimsulfuron.
+
+|
+
+175217-20-6
+
+|
+
+silthiofam.
+
+|
+
+130561-48-7
+
+|
+
+sintofen.
 
 |
 
@@ -1408,7 +1896,15 @@ Quinoxyfene.
 
 |
 
-S metolachlore.
+s-metolachlore.
+
+|
+
+168316-95-8
+
+|
+
+spinosad.
 
 |
 
@@ -1416,15 +1912,7 @@ S metolachlore.
 
 |
 
-Spiroxamine.
-
-|
-
-81591-81-3
-
-|
-
-Sulfosate.
+spiroxamine.
 
 |
 
@@ -1432,7 +1920,7 @@ Sulfosate.
 
 |
 
-Sulfosulfuron.
+sulfosulfuron.
 
 |
 
@@ -1440,7 +1928,7 @@ Sulfosulfuron.
 
 |
 
-Tau fluvalinate.
+tau-fluvalinate.
 
 |
 
@@ -1448,7 +1936,7 @@ Tau fluvalinate.
 
 |
 
-Tebuconazole.
+tebuconazole.
 
 |
 
@@ -1456,7 +1944,7 @@ Tebuconazole.
 
 |
 
-Tebufenozide.
+tebufenozide.
 
 |
 
@@ -1464,7 +1952,7 @@ Tebufenozide.
 
 |
 
-Tetraconazole.
+tetraconazole.
 
 |
 
@@ -1472,7 +1960,23 @@ Tetraconazole.
 
 |
 
-Thiabendazole.
+thiabendazole.
+
+|
+
+111988-49-9
+
+|
+
+thiaclopride.
+
+|
+
+153719-23-4
+
+|
+
+thiamethoxam.
 
 |
 
@@ -1480,7 +1984,15 @@ Thiabendazole.
 
 |
 
-Thifensulfuron methyle.
+thifensulfuron methyl.
+
+|
+
+1762-95-4
+
+|
+
+thiocyanate d'ammonium.
 
 |
 
@@ -1488,7 +2000,7 @@ Thifensulfuron methyle.
 
 |
 
-Thiophanate methyl.
+thiophanate-methyl.
 
 |
 
@@ -1496,7 +2008,7 @@ Thiophanate methyl.
 
 |
 
-Thirame.
+thirame.
 
 |
 
@@ -1504,15 +2016,7 @@ Thirame.
 
 |
 
-Triallate.
-
-|
-
-82097-50-5
-
-|
-
-Triasulfuron.
+triallate.
 
 |
 
@@ -1520,15 +2024,31 @@ Triasulfuron.
 
 |
 
-Trichloracetate de sodium.
+trichloroacetate de sodium.
 
 |
 
-52-68-6
+55335-06-3
 
 |
 
-Trichlorfon.
+triclopyr.
+
+|
+
+64700-56-7
+
+|
+
+triclopyr, ester de 2-butoxyéthyle.
+
+|
+
+57213-69-1
+
+|
+
+triclopyr, sel de triisopropylamine.
 
 |
 
@@ -1536,19 +2056,35 @@ Trichlorfon.
 
 |
 
-Trifloxystrobine.
+trifloxystrobine.
 
 |
 
-1582-09-8
+126535-15-7
 
 |
 
-Trifluraline.
+triflusulfuron-methyle.
 
 |
 
-Dont substances minérales :
+131983-72-7
+
+|
+
+triticonazole.
+
+|
+
+156053-68-5
+
+|
+
+zoxamide.
+
+|
+
+Dont substances minérales
 
 NUMÉRO CAS
 
@@ -1562,7 +2098,15 @@ NOM
 
 |
 
-Chlorate de sodium.
+chlorate de sodium.
+
+|
+
+7758-98-7
+
+|
+
+sulfate de cuivre.
 
 |
 
@@ -1570,6 +2114,38 @@ Chlorate de sodium.
 
 |
 
-Cuivre de l'oxyde cuivreux.
+cuivre de l'oxyde cuivreux.
+
+|
+
+7440-50-8
+
+|
+
+cuivre.
+
+|
+
+1332-65-6
+
+|
+
+cuivre de l'oxychlorure de cuivre.
+
+|
+
+12069-69-1
+
+|
+
+cuivre du carbonate de cuivre.
+
+|
+
+8011-63-0
+
+|
+
+cuivre du sulfate tetracuivrique et tricalcique.
 
 |
