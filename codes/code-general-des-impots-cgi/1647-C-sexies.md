@@ -16,7 +16,7 @@ En cas de changement d'exploitant, le nouvel exploitant peut demander le bénéf
 
 III.-Pour bénéficier du crédit d'impôt, les redevables indiquent chaque année sur la déclaration et dans le délai prévu au I de l'article 1477 le nombre de salariés employés depuis au moins un an au 1er janvier de l'année du dépôt de cette déclaration. Les redevables tenus aux obligations du II de l'article 1477 indiquent sur la déclaration provisoire le nombre de salariés employés depuis au moins un an au 1er janvier de l'année suivant celle du changement d'exploitant ou employés au 1er janvier de l'année suivant celle de la création de l'établissement. Pour les redevables non tenus à ces déclarations, les indications sont portées sur papier libre dans les mêmes délais.
 
-IV.-Le crédit d'impôt s'applique après les dégrèvements prévus aux articles 1647 C à 1647 C quinquies.
+IV.-Le crédit d'impôt s'applique après les dégrèvements prévus aux articles 1647 C à 1647 C quinquies A.
 
 N'ouvrent pas droit au crédit d'impôt les emplois situés dans les établissements où est exercée à titre principal une activité relevant de l'un des secteurs suivants, définis selon la nomenclature d'activités française de l'Institut national de la statistique et des études économiques : construction automobile, construction navale, fabrication de fibres artificielles ou synthétiques et sidérurgie.
 
@@ -28,4 +28,4 @@ VI.-Le bénéfice du crédit d'impôt est subordonné au respect du règlement (
 
 NOTA :
 
-Modification effectuée en conséquence de la péremption de l'article 1464 G.
+LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 22 V : le présent article s'applique aux cotisations établies à compter de 2009 s'agissant des établissements créés en 2008 et aux cotisations établies à compter de 2010 dans les autres cas.

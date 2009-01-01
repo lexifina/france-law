@@ -14,7 +14,7 @@ Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excè
 
 Cette réduction est supprimée à compter des impositions établies au titre de 2000 ;
 
-b) La base d'imposition est déclarée avant le 1er mai de l'année précédant celle de l'imposition au lieu du principal établissement ;
+b) La base d'imposition est déclarée l'année précédant celle de l'imposition au lieu du principal établissement jusqu'à une date fixée par décret et au plus tard le deuxième jour ouvré suivant le 1er mai ;
 
 3° Les bases d'imposition de La Poste font l'objet d'un abattement égal à 85 % de leur montant, en raison des contraintes de desserte de l'ensemble du territoire national et de participation à l'aménagement du territoire qui s'imposent à cet exploitant. L'abattement ne donne pas lieu à compensation par l'Etat ;
 
