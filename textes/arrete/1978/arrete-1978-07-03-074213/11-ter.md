@@ -12,27 +12,27 @@ TOUTES ZONES
 
 |
 
-Bénéficiaire isolé ou couple sans personne à charge.
+Bénéficiaire isolé ou couple sans personne à charge
 
 |
 
-49,14
+50, 59
 
 |
 
-Bénéficiaire isolé ou couple ayant une personne à charge.
+Bénéficiaire isolé ou couple ayant une personne à charge
 
 |
 
-60,26
+62, 04
 
 |
 
-Par personne supplémentaire à charge.
+Par personne supplémentaire à charge
 
 |
 
-11,12
+11, 45
 
 |
 
@@ -48,46 +48,42 @@ TOUTES ZONES
 
 |
 
-Bénéficiaire isolé.
+Bénéficiaire isolé
 
 |
 
-24,56
+25, 28
 
 |
 
-Couple sans personne à charge.
+Couple sans personne à charge
 
 |
 
-49,14
+50, 59
 
 |
 
-Bénéficiaire isolé ayant une personne à charge.
+Bénéficiaire isolé ayant une personne à charge
 
 |
 
-35,68
+36, 73
 
 |
 
-Couple ayant une personne à charge.
+Couple ayant une personne à charge
 
 |
 
-60,26
+62, 04
 
 |
 
-Par personne supplémentaire à charge.
+Par personne supplémentaire à charge
 
 |
 
-11,12
+11, 45
 
 |
-
-NOTA :
-
-dispositions applicables pour les prestations dues à compter du mois de janvier 2008.

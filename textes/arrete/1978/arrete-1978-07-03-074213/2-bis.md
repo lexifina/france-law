@@ -30,23 +30,23 @@ PERSONNE SEULE
 
 COUPLE SANS PERSONNE
 
-à charge
-
-(en euros)
+à charge (en euros)
 
 |
 
-PERSONNE SEULE OU COUPLE
+PERSONNE SEULE
 
-ayant une personne à charge
+ou couple
 
-(en euros)
+ayant une personne
+
+à charge (en euros)
 
 |
 
-PAR PERSONNE À CHARGE
+PAR PERSONNE
 
-supplémentaire
+à charge supplémentaire
 
 (en euros)
 
@@ -56,19 +56,19 @@ I
 
 |
 
-270,09
+278, 06
 
 |
 
-325,75
+335, 36
 
 |
 
-368,17
+379, 03
 
 |
 
-53,39
+54, 97
 
 |
 
@@ -76,19 +76,19 @@ II
 
 |
 
-235,39
+242, 33
 
 |
 
-288,12
+296, 62
 
 |
 
-324,21
+333, 77
 
 |
 
-47,18
+48, 57
 
 |
 
@@ -96,19 +96,19 @@ III
 
 |
 
-220,62
+227, 13
 
 |
 
-267,46
+275, 35
 
 |
 
-299,87
+308, 72
 
 |
 
-42,98
+44, 25
 
 |
 
@@ -117,7 +117,3 @@ Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 e
 Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
 
 Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.
-
-NOTA :
-
-dispositions applicables pour les prestations dues à compter du mois de janvier 2008.
