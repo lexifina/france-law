@@ -1,0 +1,69 @@
+# Article 1er
+
+Les dispositions suivantes annulent et remplacent l'article 6.1.1 de la présente convention collective.
+
+« Les salariés absents pour cause de maladie constatée par certificat médical et à condition d'avoir justifié dans les 2 jours ouvrables de cette incapacité bénéficient d'une indemnisation correspondant à une fraction de leur rémunération antérieure dans les conditions prévues au tableau ci-après.
+
+ANCIENNETÉ |
+
+INDEMNISATION |
+
+DÉLAI DE CARENCE
+
+pour le versement des indemnités |
+
+1 an |
+
+30 jours à 90 % puis 30 jours à 66 % |
+
+à partir du 8e jour |
+
+3 ans |
+
+40 jours à 90 % puis 30 jours à 66 % |
+
+à partir du 8e jour |
+
+5 ans |
+
+50 jours à 90 % puis 30 jours à 66 % |
+
+à partir du 6e jour |
+
+10 ans |
+
+60 jours à 90 % puis 50 jours à 66 % |
+
+à partir du 3e jour |
+
+15 ans |
+
+70 jours à 90 % puis 60 jours à 66 % |
+
+à partir du 3e jour |
+
+20 ans |
+
+80 jours à 90 % puis 70 jours à 66 % |
+
+à partir du 3e jour |
+
+25 ans |
+
+90 jours à 90 % puis 90 jours à 66 % |
+
+à partir du 3e jour |
+
+Le délai pour le versement des indemnités est applicable à chaque arrêt de travail hormis le cas où la sécurité sociale considère qu'une nouvelle interruption du travail est, en fait, la prolongation d'un arrêt de travail antérieur. Dans ce cas, la période d'indemnisation se poursuit immédiatement dans les limites prévues ci-dessus en fonction de l'ancienneté du salarié à la date du premier arrêt.
+
+Pour la détermination des conditions d'indemnisation, il est tenu compte des indemnisations déjà effectuées au cours des 12 mois précédant l'arrêt de travail de telle sorte que, si plusieurs absences pour maladie ou accident ont été indemnisées au cours de ces 12 mois, la durée totale et les montants d'indemnisation n'excèdent pas les limites définies ci-dessus.
+
+En cas d'hospitalisation, l'indemnisation est versée dès le premier jour d'hospitalisation.
+
+Les garanties d'indemnisation ci-dessus accordées s'entendent déduction faite de l'allocation brute que l'intéressé perçoit des caisses de la sécurité sociale ou de caisses complémentaires.
+
+En tout état de cause, ces garanties ne doivent pas conduire à verser à l'intéressé, compte tenu des sommes de toutes provenances, telles qu'elles sont définies ci-dessus, perçues à l'occasion de la maladie ou de l'accident de travail, un montant supérieur à la rémunération nette qu'il aurait effectivement perçue s'il avait continué à travailler.
+
+La rémunération à prendre en considération est celle correspondant à la moyenne des 3 derniers mois de salaires (gratifications exclues).
+
+L'employeur peut assurer le versement de l'indemnisation suivant la même périodicité que le salaire. Dans ce cas, l'employeur est subrogé dans les droits du salarié concernant les remboursements des prestations versées par la sécurité sociale et l'organisme de prévoyance. »
