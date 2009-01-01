@@ -24,15 +24,15 @@ Les périodes prises en compte pour la constitution du droit à pension de vieil
 
 1° Les périodes d'activité statutaires effectuées à temps plein ou à temps partiel au sein d'un organisme ou d'une entreprise dont le personnel relève du statut national du personnel des industries électriques et gazières :
 
-a) Les emplois, fonctions ou postes correspondant à chacune des catégories de services sédentaires », actifs » et insalubres » sont ceux indiqués dans le complément de la présente annexe III ;
+a) Les emplois, fonctions ou postes correspondant à chacune des catégories de services sédentaires , actifs et insalubres sont ceux indiqués dans le complément de la présente annexe III ;
 
-b) Les services sédentaires » sont comptés pour leur durée ;
+b) Les services sédentaires sont comptés pour leur durée ;
 
 c) Pour les personnes dont le recrutement en qualité d'agent statutaire a été effectué avant le 1er janvier 2009 :
 
-- Les services classés actifs » sont bonifiés d'un sixième de la durée des services effectifs dans ladite catégorie ;
+- Les services classés actifs sont bonifiés d'un sixième de la durée des services effectifs dans ladite catégorie ;
 
-- Les services classés insalubres » sont bonifiés d'un tiers de la durée des services effectifs dans ladite catégorie ;
+- Les services classés insalubres sont bonifiés d'un tiers de la durée des services effectifs dans ladite catégorie ;
 
 d) Les périodes prises au titre du compte épargne temps constitué dans les industries électriques et gazières sont comptées pour leur durée.
 
@@ -148,6 +148,8 @@ L'admission dans les grandes écoles et classes du second degré préparatoires 
 
 Ces trimestres ne doivent pas avoir donné lieu à une validation dans un régime de retraite de base obligatoire.
 
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 17 et 17-1 de la présente annexe.
+
 Article 9
 
 Décompte des prestations
@@ -192,7 +194,7 @@ II.-Lorsque la durée d'assurance, définie au III ci-après, est supérieure au
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance, au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge de soixante ans et en sus du nombre de trimestres mentionné à l'alinéa précédent. Lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
 
-Le nombre de trimestres correspondant est arrondi à l'entier supérieur.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
 Le taux du coefficient de majoration est égal, par trimestre supplémentaire dans la limite de vingt trimestres, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
 
@@ -412,13 +414,43 @@ II.-Une majoration de pension est accordée aux agents en situation de handicap 
 
 La pension ainsi majorée ne peut excéder celle qui aurait été obtenue par application du pourcentage maximum mentionné au quatrième alinéa de l'article 9 ci-dessus. Elle ne peut non plus excéder, majoration pour enfants comprise, le salaire de référence tel que déterminé à l'article 18 suivant.
 
+Article 17-1
+
+I. ― L'âge de soixante ans mentionné au 1° du I de l'article 16 est abaissé pour les assurés relevant du régime spécial de retraite et d'invalidité du personnel des industries électriques et gazières qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 9 de la présente annexe et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+
+1° A cinquante-six ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, et ayant commencé leur activité avant l'âge de seize ans ;
+
+2° A cinquante-huit ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, minorée de quatre trimestres, et ayant commencé leur activité avant l'âge de seize ans ;
+
+3° A cinquante-neuf ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, minorée de huit trimestres, et ayant commencé leur activité avant l'âge de dix-sept ans.
+
+Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant commencé leur activité avant l'âge de seize ou dix-sept ans les assurés justifiant :
+
+― soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire ;
+
+― soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire.
+
+Pour l'application de la condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés définie aux 1°, 2° et 3° ci-dessus, sont réputées avoir donné lieu à cotisations :
+
+― les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la plus favorable étant retenue ;
+
+― les périodes pendant lesquelles les assurés ont été placés en congé de maladie statutaire ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire.
+
+Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
+
+Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des régimes considérés.
+
+Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte la bonification pour enfant mentionnée à l'article 12, les majorations de durée d'assurance mentionnées aux articles 14 et 15 et les périodes d'interruption d'activité mentionnées au 1° de l'article 4, à l'article 5 et à l'article 7.
+
+II. ― L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour l'application des dispositions du I et du II de l'article 45, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.
+
 Article 18
 
 Détermination du salaire de référence
 
 Les salaires ou traitements annuels servant au calcul de la pension, assortis de la majoration résidentielle prévue à l'article 9 du statut national du personnel, sont déterminés sur la base du coefficient hiérarchique, ancienneté comprise, détenu depuis six mois au moins au moment de la cessation des services validables pour la pension.A défaut, ils sont déterminés sur la base du coefficient détenu antérieurement.
 
-Le montant de la gratification dite de fin d'année », fixée à l'article 14 du statut national du personnel, est à ajouter à ces salaires ou traitements annuels.
+Le montant de la gratification dite de fin d'année , fixée à l'article 14 du statut national du personnel, est à ajouter à ces salaires ou traitements annuels.
 
 La condition des six mois n'est pas opposable lorsque la liquidation intervient à la suite de l'invalidité ou du décès de l'agent ou pendant un arrêt de travail consécutif à une longue maladie, un accident de travail ou une maladie professionnelle.
 
@@ -514,7 +546,7 @@ Article 20
 
 Revalorisation des pensions
 
-A compter du 1er janvier 2009, les pensions sont revalorisées du taux prévu pour les fonctionnaires de l'Etat en application de l'article L. 16 du code des pensions civiles et militaires de retraite, sous réserve des dispositions transitoires du III de l'article 45.
+A compter du 1er janvier 2009, les pensions sont revalorisées du taux et à la date prévus pour les fonctionnaires de l'Etat en application de l'article L. 16 du code des pensions civiles et militaires de retraite, sous réserve des dispositions transitoires du III de l'article 45.
 
 Article 21
 
@@ -558,7 +590,7 @@ II.-L'ex-conjoint remarié avant le décès de l'ouvrant droit est exclu du droi
 
 III.-Pour les mariages contractés avant le 18 juillet 1978, le conjoint non séparé dont la pension de réversion est susceptible du fait des règles de partage d'être inférieure à 50 % de la réversion ou d'être inférieure à 55 %, 60 %, 65 %, 70 % ou 75 % de la réversion pendant la période où il justifie de la charge effective et permanente de respectivement un, deux, trois, quatre ou cinq enfants et plus, âgés de moins de vingt ans au jour du décès de l'ouvrant droit, bénéficie d'une pension de réversion élevée à 50 % de la réversion ou respectivement aux taux visés ci-dessus en cas d'enfants à charge.
 
-IV.-Si la durée des services de l'ouvrant droit admissibles en liquidation au titre du premier alinéa de l'article 9 est inférieure ou égale à dix trimestres, la pension de réversion est substituée à titre définitif pour les bénéficiaires visés au I du présent article et au prorata des durées respectives de chaque mariage, par un capital décès à hauteur de 50 % du dernier salaire annuel d'activité de l'agent, gratification dite de fin d'année » incluse, hors primes.
+IV.-Si la durée des services de l'ouvrant droit admissibles en liquidation au titre du premier alinéa de l'article 9 est inférieure ou égale à dix trimestres, la pension de réversion est substituée à titre définitif pour les bénéficiaires visés au I du présent article et au prorata des durées respectives de chaque mariage, par un capital décès à hauteur de 50 % du dernier salaire annuel d'activité de l'agent, gratification dite de fin d'année incluse, hors primes.
 
 V.-En cas de décès suite à un accident du travail ou une maladie professionnelle et dans le cas où l'agent décédé totalise moins de quinze ans de services, la pension de réversion est calculée sur la base de soixante trimestres au minimum. Par dérogation au premier alinéa de l'article 1er, le bénéfice de la pension de réversion est également accordé lorsque l'agent décédé justifie de moins d'un an d'affiliation.
 
@@ -732,7 +764,7 @@ Le temps passé en situation d'invalidité est validé, sans contrepartie de cot
 
 L'ancienneté servant de base au calcul de la pension est constituée des périodes prises en compte pour bénéficier, en inactivité, des avantages prévus aux articles 26 et 28 du statut national.
 
-L'agent placé en position d'invalidité conserve le bénéfice du classement dans la catégorie actifs » ou insalubres » de l'emploi qu'il occupait avant sa mise en invalidité uniquement pour la détermination de l'âge d'ouverture des droits à pension de vieillesse.
+L'agent placé en position d'invalidité conserve le bénéfice du classement dans la catégorie actifs ou insalubres de l'emploi qu'il occupait avant sa mise en invalidité uniquement pour la détermination de l'âge d'ouverture des droits à pension de vieillesse.
 
 Article 38
 
@@ -760,7 +792,7 @@ Paiement des pensions
 
 Les prestations prévues aux titres II, III et IV sont payées par trimestre d'avance le premier jour ouvré des mois de janvier, avril, juillet et octobre de chaque année par virement et sont acquises aux ayants droit en cas de décès du prestataire bénéficiaire en cours de trimestre.
 
-Si le montant annuel brut de la pension de vieillesse, y compris les avantages complémentaires, est inférieur à un seuil fixé par arrêté du ministre chargé de la sécurité sociale et revalorisé au 1er janvier de chaque année conformément à l'article 20 de la présente annexe, la pension est payée en un capital libératoire unique égal à quinze fois le montant annuel brut de la pension.
+Si le montant annuel brut de la pension de vieillesse, y compris les avantages complémentaires, est inférieur à un seuil fixé par arrêté du ministre chargé de la sécurité sociale et revalorisé conformément à l'article 20 de la présente annexe, la pension est payée en un capital libératoire unique égal à quinze fois le montant annuel brut de la pension.
 
 Article 41
 
@@ -798,7 +830,7 @@ II.-Le coefficient de minoration prévu au I de l'article 10 n'est applicable qu
 
 L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du I de l'article 10 ci-dessus diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
 
-III.-Le coefficient de revalorisation des pensions applicable au 1er janvier 2009 est fixé par arrêté du ministre chargé de la sécurité sociale conformément aux dispositions du premier alinéa de l'article L. 16 du code des pensions civiles et militaires de retraite.
+III.-Le coefficient de revalorisation des pensions applicable au 1er avril 2009 est fixé par arrêté du ministre chargé de la sécurité sociale conformément aux dispositions du premier alinéa de l'article L. 161-23-1 du code de la sécurité sociale.
 
 IV.-Par dérogation à l'article 16 et sous réserve de justifier d'une durée minimale de services de quinze ans l'agent dont le conjoint est :
 
@@ -876,7 +908,7 @@ Complément relatif aux prestations invalidité,
 
 vieillesse, décès
 
-Pour l'application des dispositions du a 1° de l'article 2 de la présente annexe 3, les trois catégories de services insalubres », actifs » et sédentaires » sont ainsi définies :
+Pour l'application des dispositions du a 1° de l'article 2 de la présente annexe 3, les trois catégories de services insalubres , actifs et sédentaires sont ainsi définies :
 
 a) Services insalubres.
 
