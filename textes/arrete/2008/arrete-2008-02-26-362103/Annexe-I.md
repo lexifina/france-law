@@ -32,7 +32,7 @@ Lorsque les troupeaux sont élevés en batterie :
 
 ― soit d'un échantillon de 250 g de coquilles constitué de 25 unités de 10 g de coquilles d'œufs brisées provenant de 25 paniers d'éclosoirs distincts. Si les œufs à couver d'un même troupeau de reproducteurs occupent pour cette éclosion plus d'un éclosoir, cet échantillon composite est prélevé dans chacun des éclosoirs. Ces prélèvements peuvent être réunis avant l'envoi au laboratoire et soumis à l'analyse sous la forme d'un seul échantillon composite ;
 
-― soit, et uniquement si le chargement en éclosoir se fait en casiers empilables, d'une chiffonnette passée sur un maximum de surfaces dans tous les éclosoirs où les œufs de ce troupeau sont éclos.
+― soit, et uniquement si le chargement en éclosoir se fait en casiers empilables, d'une chiffonnette passée sur un maximum de surfaces dans tous les éclosoirs où les œufs de ce troupeau sont éclos. Si les œufs à couver d'un même troupeau de reproducteurs occupent pour cette éclosion plus d'un éclosoir, le prélèvement est constitué par une chiffonnette pour chaque éclosoir occupé par le troupeau. Ces échantillons peuvent être réunis avant l'envoi au laboratoire et soumis à l'analyse sous la forme d'un seul échantillon composite.
 
 2.2. Des prélèvements sont effectués dans l'exploitation où est détenu le troupeau dans un délai de quatre semaines à compter de l'entrée en ponte ou du passage à l'unité de ponte et au plus tard lorsque les reproductrices ont 26 semaines d'âge, puis au cours des huit semaines qui précèdent la fin du cycle de production. Les prélèvements sont constitués pour chaque troupeau :
 

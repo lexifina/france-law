@@ -20,28 +20,54 @@ III.-Les analyses de muscles profonds doivent être réalisées dans le cadre du
 
 Chapitre II : Laboratoires
 
-I.-Sans préjudice d'autres dispositions relatives aux laboratoires agréés, les laboratoires chargés du diagnostic des infections à salmonelles à partir d'analyses obligatoires ou officielles, au sens de l'article R. 200-1 du code rural , sont agréés conformément aux critères d'agrément spécifiques suivants :
+Les prélèvements officiels, prévus par l'article R. 200-1 du code rural, réalisés par la direction départementale des services vétérinaires ou un vétérinaire sanitaire désigné par celle-ci, sont analysés dans des laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A.
 
-1. Le laboratoire est accrédité selon les programmes n° s 59 et 116 du COFRAC selon le type de prélèvement effectué.
+Les autres prélèvements obligatoires prévus par le présent arrêté sont analysés :
 
-2. La réalisation des analyses de recherche des salmonelles doit être effectuée dans le cadre du programme d'accréditation n° 116 du COFRAC selon les textes de référence correspondant à la norme NF U 47 100 ou à la norme NF U 47 101, en fonction du type de prélèvement effectué.
+- soit dans les laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A ;
 
-3. Le laboratoire dispose des capacités de sérotypage en routine des sérovars les plus fréquemment isolés dans l'environnement des filières de production animale listés à l'annexe C de la norme NF U 47 100 ou de la norme NF U 47 101.
+- soit dans les laboratoires reconnus chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point B.
 
-4. Les échantillons doivent être traités le jour de leur arrivée au laboratoire, ou être réfrigérés jusqu'à leur analyse, qui doit être effectuée au maximum le jour ouvrable suivant le jour de leur réception. Le délai maximal entre la date de prélèvement et celle de démarrage de l'analyse est de 4 jours, sauf cas de force majeure. En cas d'alerte ou d'urgence, ou sur demande du directeur départemental des services vétérinaires, le laboratoire s'organise pour réduire au maximum le délai de rendu des résultats.
+A. - Laboratoires agréés
 
-5. Le responsable du laboratoire est tenu d'informer dans les plus brefs délais le directeur départemental des services vétérinaires du département où se trouve le couvoir et / ou l'élevage où a été effectué le prélèvement concerné de tout résultat positif de recherche de Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté.
+1. Le laboratoire est accrédité pour les programmes n° 116 et/ou n° 59 du COFRAC selon les matrices sur lesquelles les analyses sont mises en œuvre.
 
-6. Le responsable du laboratoire est tenu de transmettre au fur et à mesure tous les résultats de recherche de Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté, sous forme informatisée au système d'information du ministère chargé de l'agriculture, dès lors qu'un tel système est opérationnel et, pendant la période transitoire, au directeur départemental des services vétérinaires du département où a été réalisé le prélèvement, sous la forme et avec la périodicité demandées par celui-ci.
+2. Les analyses de recherche des salmonelles doivent être effectuées dans le cadre du programme d'accréditation n° 116 du COFRAC selon les textes de référence correspondant à la norme NF U 47 100 ou à la norme NF U 47 101, ou dans le cadre du programme d'accréditation n° 59 du COFRAC selon la norme ISO 6579, ou selon toute méthode alternative validée AFNOR selon la norme 16140, en fonction du type de prélèvement effectué.
 
-7. Le laboratoire est tenu d'expédier au laboratoire national de référence pour les salmonelles de Ploufragan les souches conformément à l'article 28 du présent arrêté.
+3. Le laboratoire dispose des capacités de sérotypage en routine des sérovars les plus fréquemment isolés dans l'environnement des filières de production animale et listés à l'annexe C de la norme NF U 47 100.
 
-II.-Les laboratoires chargés du diagnostic des infections à salmonelles à partir d'analyses d'autocontrôles, au sens de l'article R. 200-1 du code rural, sont tenus de respecter les exigences suivantes :
+4. Au laboratoire, les échantillons sont réfrigérés jusqu'à l'analyse, qui doit avoir lieu dans les 48 heures suivant la réception et dans les 96 heures après l'échantillonnage.
 
-1. La réalisation des analyses de recherche des salmonelles doit être effectuée selon les textes de référence correspondant à la norme NF U 47 100 ou à la norme NF U 47 101, en fonction du type de prélèvement effectué.
+5. Le laboratoire participe :
 
-2. Le responsable du laboratoire est tenu d'informer dans les plus brefs délais le directeur départemental des services vétérinaires du département où se trouve le couvoir ou l'élevage où a été effectué le prélèvement concerné de tout résultat positif de recherche de Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant l'identité de l'élevage et du bâtiment ou de l'enclos où est détenu le troupeau ayant fait l'objet du prélèvement, le lieu et la nature du prélèvement, la filière et le stade de production concernés et l'âge des animaux à la date du prélèvement.
+- pour le programme n° 116, à tous les essais interlaboratoires organisés par le laboratoire national de référence pour les salmonelles ;
 
-Ces analyses devront être réalisées dans des laboratoires reconnus dès que les arrêtés prévus aux articles R. 202-22 et suivants du code rural entreront en application.
+- pour le programme n° 59, a minima une fois par an pour les essais concernés, à un essai interlaboratoires organisé par un organisateur de comparaisons interlaboratoires (OCIL) accrédité par le COFRAC ou par tout organisme européen équivalent signataire de l'accord multilatéral de reconnaissance.
 
-Les propriétaires de troupeaux s'assurent, chacun en ce qui les concerne, du respect des dispositions ci-dessus relatives aux analyses d'autocontrôles.
+6. Le responsable du laboratoire est tenu d'informer dans les plus brefs délais le directeur départemental des services vétérinaires du département où se trouve le couvoir ou l'élevage où a été effectué le prélèvement concerné de tout résultat positif de recherche de Salmonella enteritidis, Salmonella Hadar, Salmonella infantis, Salmonella typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté.
+
+7. Le responsable du laboratoire est tenu de transmettre au fur et à mesure de leur obtention tous les résultats de recherche de Salmonella enteritidis, Salmonella Hadar, Salmonella infantis, Salmonella typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté, sous forme informatisée au système d'information du ministère chargé de l'agriculture, dès lors qu'un tel système est opérationnel, et, pendant la période transitoire, au directeur départemental des services vétérinaires du département où a été réalisé le prélèvement. Il informe sans délai le directeur départemental des services vétérinaires de la réception de prélèvements non conformes, notamment quant au support de prélèvement ou lorsqu'il est en mesure de suspecter des anomalies de prélèvement au regard de la réception de matériel non souillé ou au regard de cultures stériles.
+
+8. Le laboratoire est tenu d'expédier les souches isolées, conformément à l'article 28 du présent arrêté, au laboratoire national de référence pour les salmonelles.
+
+9. En cas d'urgence justifiée du fait des impacts importants des délais d'analyse, notamment sur la dissémination de l'infection dans la pyramide de production, la sécurité du consommateur, l'économie de l'élevage, le laboratoire s'organise, à la demande du DDSV, pour conduire les analyses et rendre les résultats dans les meilleurs délais.
+
+B. - Laboratoires reconnus
+
+1. Le laboratoire est accrédité pour les programmes n° 116 et/ou n° 59 du COFRAC selon les matrices sur lesquelles les analyses sont mises en œuvre.
+
+2. Les analyses de recherche des salmonelles doivent être effectuées dans le cadre du programme d'accréditation n° 116 du COFRAC selon les textes de référence correspondant à la norme NF U 47 100 ou à la norme NF U 47 101, ou dans le cadre du programme d'accréditation n° 59 du COFRAC selon la norme ISO 6579, ou selon toute méthode alternative validée AFNOR selon la norme 16140, en fonction du type de prélèvement effectué.
+
+3. Le laboratoire dispose des capacités de sérotypage en routine des sérovars les plus fréquemment isolés dans l'environnement des filières de production animale listés à l'annexe C de la norme NF U 47 100.
+
+4. Au laboratoire, les échantillons sont réfrigérés jusqu'à l'analyse, qui doit avoir lieu dans les 48 heures suivant la réception et dans les 96 heures après l'échantillonnage.
+
+5. Pour ce qui concerne les essais réalisés selon la méthode NF U 47 100 ou la méthode NF U 47 101, ou dans le cadre du programme d'accréditation n° 59 du COFRAC selon la norme ISO 6579 ou selon toute méthode alternative validée AFNOR selon la norme 16140, le laboratoire participe, a minima tous les deux ans, aux essais interlaboratoires organisés par le laboratoire national de référence pour les salmonelles ou aux essais organisés par les organisateurs de comparaisons interlaboratoires (OCIL) accrédités à cette fin par le COFRAC ou par tout organisme européen équivalent signataire de l'accord multilatéral de reconnaissance.
+
+6. Le responsable du laboratoire est tenu d'informer dans les plus brefs délais le directeur départemental des services vétérinaires du département où se trouve le couvoir ou l'élevage où a été effectué le prélèvement concerné de tout résultat positif de recherche de Salmonella enteritidis, Salmonella Hadar, Salmonella infantis, Salmonella typhimurium et Salmonella Virchow, pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté ;
+
+7. Le responsable du laboratoire est tenu de transmettre au fur et à mesure de leur obtention tous les résultats de recherche de Salmonella enteritidis, Salmonella Hadar, Salmonella infantis, Salmonella typhimurium et Salmonella Virchow pour les volailles de reproduction, en précisant les informations listées à l'annexe II, chapitre Ier, point 1 (II), du présent arrêté, sous forme informatisée au système d'information du ministère chargé de l'agriculture, dès lors qu'un tel système est opérationnel, et, pendant la période transitoire, au directeur départemental des services vétérinaires du département où a été réalisé le prélèvement. Il informe sans délai le directeur départemental des services vétérinaires de la réception de prélèvements non conformes, notamment quant au support de prélèvement, ou lorsqu'il est en mesure de suspecter des anomalies de prélèvement au regard de la réception de matériel non souillé ou au regard de cultures stériles.
+
+8. Le laboratoire est tenu d'expédier les souches isolées, conformément à l'article 28 du présent arrêté, au laboratoire national de référence pour les salmonelles.
+
+9. Le formulaire figurant en annexe IV du présent arrêté est adressé par tout laboratoire demandant la reconnaissance pour les activités d'analyse prévues au présent arrêté à la préfecture du département de son lieu d'implantation (direction départementale des services vétérinaires).
