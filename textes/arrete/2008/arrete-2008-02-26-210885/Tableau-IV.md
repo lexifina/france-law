@@ -1,6 +1,6 @@
 # Article Tableau IV
 
-Barème par futur reproducteur de l'étage multiplication souche label
+Barème par futur reproducteur de l'étage multiplication souche lourde
 
 ÂGE À L'ABATTAGE
 
