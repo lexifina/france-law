@@ -32,7 +32,7 @@ Lorsque les troupeaux sont élevés en batterie :
 
 ― soit, si l'exploitant n'utilise pas de fonds d'éclosoirs, d'un échantillon de 250 g de coquilles constitué de 25 unités de 10 g de coquilles d'œufs brisées provenant de 25 paniers d'éclosoirs distincts. Si les œufs à couver d'un même troupeau de reproducteurs occupent pour cette éclosion plus d'un éclosoir, cet échantillon composite est prélevé dans chacun des éclosoirs. Ces prélèvements peuvent être réunis avant l'envoi au laboratoire où ils sont soumis à l'analyse sous la forme d'un seul échantillon composite ;
 
-― soit, et uniquement si le chargement en éclosoir se fait en casiers empilables, d'une chiffonnette passée sur un maximum de surfaces dans les éclosoirs où les œufs de ce troupeau sont éclos.
+― soit, et uniquement si le chargement en éclosoir se fait en casiers empilables, d'une chiffonnette passée sur un maximum de surfaces dans les éclosoirs où les œufs de ce troupeau sont éclos. Si les œufs à couver d'un même troupeau de reproducteurs occupent pour cette éclosion plus d'un éclosoir, le prélèvement est constitué par une chiffonnette pour chaque éclosoir occupé par le troupeau. Ces échantillons peuvent être réunis avant l'envoi au laboratoire et soumis à l'analyse sous la forme d'un seul échantillon composite. ¶
 
 1.2.2. A trente-quatre et à cinquante semaines, les prélèvements prévus au point 1.2.1 de la présente annexe sont complétés par deux prélèvements de 10 œufs bêchés non éclos, chacun issu de chaque troupeau à contrôler. Si et seulement si le nombre d'œufs bêchés non éclos est insuffisant, il est toléré de remplacer quelques œufs par des poussins de tri. Ces prélèvements sont soumis à l'analyse sous la forme de deux échantillons distincts.
 
@@ -154,7 +154,7 @@ Les prélèvements sont constitués pour chaque troupeau :
 
 ― d'une chiffonnette frottée sur le maximum de surfaces, à raison d'une chiffonnette de 1 000 à 20 000 poules hébergées dans le bâtiment d'élevage, deux chiffonnettes de 20 001 à 50 000 poules, trois chiffonnettes de 50 001 à 80 000 poules, et quatre chiffonnettes au-delà de 80 000 poules. Ces chiffonnettes sont soumises séparément à l'analyse. Les troupeaux de moins de 1 000 poules sont exemptés de ce contrôle par chiffonnettes ;
 
-― d'un échantillon de 500 g d'aliment prélevé à la livraison de l'aliment ou à défaut après la sortie du silo dans les sites hébergeant plus de 80 000 volailles.
+― d'un échantillon de 500 g d'aliment prélevé à la livraison de l'aliment ou à défaut après la sortie du silo dans les sites hébergeant plus de 80 000 volailles. Ce prélèvement est réalisé indépendamment pour chaque troupeau du site.
 
 II. ― Dans les exploitations hébergeant plus de 1 000 poules, un troupeau au moins par exploitation est contrôlé au moins une fois par an par un agent des services vétérinaires. Le directeur départemental des services vétérinaires peut déléguer les prélèvements au vétérinaire sanitaire lui-même aux frais de l'exploitant. Ce contrôle officiel par les autorités est réalisé lorsque les animaux atteignent 24 semaines dans tous les troupeaux de pondeuses gardés dans des installations où le cheptel précédent a été infecté par Salmonella Enteritidis ou Salmonella Typhimurium. Les frais d'analyses sont à la charge de l'Etat.
 

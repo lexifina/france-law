@@ -86,17 +86,39 @@ Le directeur départemental des services vétérinaires peut demander la recherc
 
 2. Troupeaux de rente
 
-2.1 I. - Les prélèvements de confirmation sont constitués pour chaque troupeau à contrôler :
+2.1 I.- Les prélèvements de confirmation sont constitués a minima, pour chaque troupeau à contrôler :
 
-- d'un pot de 60 fientes cæcales fraîches différentes, pesant chacune au moins 1 g, prélevées au hasard en au moins 5 points différents du bâtiment dans lequel les oiseaux sont détenus, constituant un seul échantillon pour l'analyse ;
+a) Lorsque le troupeau est en cage :
 
-- et de 5 chiffonnettes frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus, et replacées dans le contenant d'origine étanche et stérile. Ces chiffonnettes sont soumises séparément à l'analyse.
+- de cinq chiffonnettes passées sur les surfaces d'un maximum de tapis de fientes et replacées chacune dans le contenant d'origine étanche et stérile. Le prélèvement est effectué, si possible, après mise en fonctionnement des tapis à l'extrémité de déchargement des batteries. Lorsque le bâtiment comporte plusieurs étages de batterie, les fientes de chaque étage de batterie doivent être ainsi échantillonnées. Ces chiffonnettes sont soumises séparément à l'analyse ;
 
-Le prélèvement de fientes peut être remplacé par deux chiffonnettes, traînées sur la litière et les caillebotis, ou une paire de chaussettes.
+- de deux chiffonnettes passées sur le maximum de surfaces afin de récolter les poussières accumulées, notamment sous les cages dans lesquelles les oiseaux sont détenus, et replacées chacune dans le contenant d'origine étanche et stérile. Ces chiffonnettes sont soumises séparément à l'analyse ;
 
-Dans les élevages en batterie, le pot de fientes peut être remplacé par une chiffonnette, frottée sur le maximum de surfaces des tapis de fientes et replacée dans le contenant d'origine étanche et stérile ou, lorsque ces tapis ne sont pas accessibles, frottée sur un minimum de vingt fonds de cages par rangée.
+b) Lorsque le troupeau est au sol ou en libre parcours :
 
-II. - Dans les élevages de poules pondeuses d'œufs de consommation, un prélèvement supplémentaire de trente œufs est effectué pour mettre en évidence une contamination de surface des œufs par Salmonella Enteritidis ou Salmonella Typhimurium suivant une méthode fixée par instruction du ministre chargé de l'agriculture. Ces prélèvements constituent trois échantillons composites de dix œufs chacun aux fins de l'analyse.
+- de cinq paires de chaussettes, représentant la totalité de la surface du poulailler, replacées chacune dans leur emballage d'origine et envoyées séparément au laboratoire. Ces paires de chaussettes sont soumises séparément à l'analyse ;
+
+- d'une chiffonnette destinée à récolter les poussières du tapis à œufs du bâtiment dans lequel les oiseaux sont détenus, et replacée dans le contenant d'origine étanche et stérile ;
+
+- d'une chiffonnette destinée à récolter les poussières, frottée sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus et replacée dans le contenant d'origine étanche et stérile.
+
+Lorsque les prélèvements de confirmation sont réalisés dans le cadre d'une suspicion de toxi-infection alimentaire collective, ceux-ci sont constitués de la façon suivante :
+
+a) Lorsque le troupeau est en cage :
+
+- de dix chiffonnettes passées sur le maximum de surfaces des tapis de fientes et replacées chacune dans le contenant d'origine étanche et stérile. Le prélèvement est effectué après mise en fonctionnement des tapis à l'extrémité de déchargement des batteries. Lorsque le bâtiment comporte plusieurs étages de batterie, les fientes de chaque étage de batterie doivent être ainsi échantillonnées. Ces chiffonnettes sont soumises séparément à l'analyse ;
+
+- de deux chiffonnettes passées sur le maximum de surfaces afin de récolter les poussières accumulées sous les cages dans lesquelles les oiseaux sont détenus et replacées chacune dans le contenant d'origine étanche et stérile. Ces chiffonnettes sont soumises séparément à l'analyse ;
+
+b) Lorsque le troupeau est au sol ou en libre parcours :
+
+- de six paires de chaussettes replacées chacune dans leur emballage d'origine et envoyées séparément au laboratoire. Ces paires de chaussettes sont soumises séparément à l'analyse ;
+
+- de deux chiffonnettes destinées à récolter les poussières du tapis à œufs du bâtiment dans lequel les oiseaux sont détenus, et replacées chacune dans le contenant d'origine étanche et stérile. Ces chiffonnettes sont soumises séparément à l'analyse ;
+
+- de deux chiffonnettes destinées à récolter les poussières, frottées sur le maximum de surfaces situées à l'intérieur du bâtiment dans lequel les oiseaux sont détenus, et replacées chacune dans le contenant d'origine étanche et stérile. Ces chiffonnettes sont soumises séparément à l'analyse.
+
+II. - Dans les troupeaux de poules pondeuses d'œufs de consommation, un prélèvement supplémentaire de trente œufs par troupeau est effectué pour mettre en évidence une contamination de surface des œufs par Salmonella Enteritidis ou Salmonella Typhimurium suivant une méthode fixée par instruction du ministre chargé de l'agriculture. Ces prélèvements constituent trois échantillons composites de dix œufs chacun aux fins de l'analyse.
 
 2.2. Dans le cas d'un résultat négatif des analyses effectuées sur ces prélèvements, il devra être procédé à une nouvelle série de prélèvements constitués :
 
