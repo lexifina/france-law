@@ -282,6 +282,8 @@ Staphylocoques présumés pathogènes : absence dans 100 ml.
 
 Salmonelles : absence dans 5 litres.
 
+Les E. coli sont recherchés par la méthode décrite dans la norme NF ISO 9308-1 (T90-414), les spores d'ASR sont recherchées par la méthode décrite dans la norme NF EN 26461-2 (T90-417), les staphylocoques présumés pathogènes sont recherchés par la méthode décrite dans la norme XP T 90-412, et les salmonelles sont recherchées par la méthode décrite dans la norme ISO 6340.
+
 En cas de résultat défavorable, un traitement biocide dont l'efficacité est vérifiée est appliqué. Le directeur départemental des services vétérinaires peut interdire l'usage des eaux de forage en cas d'échec de ce traitement.
 
 3. Fonctionnement du couvoir
