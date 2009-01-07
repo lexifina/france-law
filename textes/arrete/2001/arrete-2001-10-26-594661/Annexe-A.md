@@ -22,7 +22,15 @@ par emploi
 
 |
 
+DATE
+
+d'effet
+
+|
+
 1. Directeur général et directeur
+
+|
 
 |
 
@@ -42,6 +50,8 @@ Directeur général de l'enseignement scolaire
 
 |
 
+|
+
 Directeur général de l'enseignement supérieur
 
 |
@@ -51,6 +61,8 @@ Directeur général de l'enseignement supérieur
 |
 
 180
+
+|
 
 |
 
@@ -66,6 +78,8 @@ Directeur général de la recherche et de l'innovation
 
 |
 
+|
+
 Directeur de la stratégie
 
 |
@@ -75,6 +89,8 @@ Directeur de la stratégie
 |
 
 140
+
+|
 
 |
 
@@ -90,6 +106,8 @@ Directeur général des ressources humaines
 
 |
 
+|
+
 Directeur de l'encadrement
 
 |
@@ -99,6 +117,8 @@ Directeur de l'encadrement
 |
 
 180
+
+|
 
 |
 
@@ -114,6 +134,8 @@ Directeur des affaires financières
 
 |
 
+|
+
 Directeur des affaires juridiques
 
 |
@@ -123,6 +145,8 @@ Directeur des affaires juridiques
 |
 
 140
+
+|
 
 |
 
@@ -138,6 +162,8 @@ Directeur de l'évaluation, de la prospective et de la performance
 
 |
 
+|
+
 Directeur des relations européennes, internationales et de la coopération
 
 |
@@ -150,7 +176,11 @@ Directeur des relations européennes, internationales et de la coopération
 
 |
 
+|
+
 2. Secrétaire général
+
+|
 
 |
 
@@ -170,7 +200,11 @@ Secrétaire général
 
 |
 
+|
+
 3. Délégué
+
+|
 
 |
 
@@ -190,7 +224,11 @@ Délégué à la communication
 
 |
 
+|
+
 4. Inspections générales
+
+|
 
 |
 
@@ -210,6 +248,8 @@ Doyen de l'inspection générale de l'éducation nationale
 
 |
 
+|
+
 Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche
 
 |
@@ -222,7 +262,11 @@ Chef du service de l'inspection générale de l'administration de l'éducation n
 
 |
 
+|
+
 5. Médiateur de l'éducation nationale
+
+|
 
 |
 
@@ -242,6 +286,8 @@ Médiateur de l'éducation nationale
 
 |
 
+|
+
 6. Chef de service adjoint à un directeur général ou à un directeur
 
 Ou à un délégué et directeur de l'École supérieure de l'éducation nationale
@@ -252,7 +298,11 @@ Ou à un délégué et directeur de l'École supérieure de l'éducation nationa
 
 |
 
+|
+
 Direction générale de l'enseignement scolaire :
+
+|
 
 |
 
@@ -272,6 +322,8 @@ Chef du service des enseignements et des formations, adjoint au directeur géné
 
 |
 
+|
+
 Chef du service du budget et de l'égalité des chances, adjoint au directeur général
 
 |
@@ -284,7 +336,11 @@ Chef du service du budget et de l'égalité des chances, adjoint au directeur g�
 
 |
 
+|
+
 Direction générale de l'enseignement supérieur
+
+|
 
 |
 
@@ -304,6 +360,8 @@ Chef du service de la recherche universitaire, adjoint au directeur général
 
 |
 
+|
+
 Chef du service des formations et de l'emploi, adjoint au directeur général
 
 |
@@ -313,6 +371,8 @@ Chef du service des formations et de l'emploi, adjoint au directeur général
 |
 
 120
+
+|
 
 |
 
@@ -328,7 +388,11 @@ Chef du service du pilotage et des contrats, adjoint au directeur général
 
 |
 
+|
+
 Direction générale de la recherche et de l'innovation
+
+|
 
 |
 
@@ -348,6 +412,8 @@ Chef de service, adjoint au directeur général
 
 |
 
+|
+
 Chef du service de l'innovation et de l'action régionale
 
 |
@@ -360,7 +426,11 @@ Chef du service de l'innovation et de l'action régionale
 
 |
 
+|
+
 Direction de la stratégie
+
+|
 
 |
 
@@ -380,7 +450,11 @@ Chef de service adjoint au directeur
 
 |
 
+|
+
 Secrétariat général
+
+|
 
 |
 
@@ -400,6 +474,8 @@ Chef du service de l'action administrative et de la modernisation
 
 |
 
+|
+
 Chef du service des technologies et des systèmes d'information
 
 |
@@ -412,6 +488,8 @@ Chef du service des technologies et des systèmes d'information
 
 |
 
+|
+
 Direction générale des ressources humaines :
 
 |
@@ -419,6 +497,16 @@ Direction générale des ressources humaines :
 |
 
 |
+
+|
+
+Chef du service, adjoint au directeur général des ressources humaines |
+
+1 |
+
+120 |
+
+9 septembre 2008 |
 
 Chef du service des personnels enseignants de l'enseignement supérieur et de la recherche, adjoint au directeur général
 
@@ -429,6 +517,8 @@ Chef du service des personnels enseignants de l'enseignement supérieur et de la
 |
 
 120
+
+|
 
 |
 
@@ -444,6 +534,8 @@ Chef du service des personnels enseignants de l'enseignement scolaire, adjoint a
 
 |
 
+|
+
 Chef du service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées, adjoint au directeur général
 
 |
@@ -456,7 +548,11 @@ Chef du service des personnels ingénieurs, administratifs, techniques, ouvriers
 
 |
 
+|
+
 Direction de l'encadrement :
+
+|
 
 |
 
@@ -476,6 +572,8 @@ Chef du service des personnels d'encadrement, adjoint au directeur
 
 |
 
+|
+
 Directeur de l'École supérieure de l'éducation nationale
 
 |
@@ -488,7 +586,11 @@ Directeur de l'École supérieure de l'éducation nationale
 
 |
 
+|
+
 Direction des affaires financières :
+
+|
 
 |
 
@@ -505,6 +607,8 @@ Chef de service, adjoint au directeur
 |
 
 120
+
+|
 
 |
 
@@ -520,7 +624,11 @@ Chef du service des pensions
 
 |
 
+|
+
 Direction des affaires juridiques :
+
+|
 
 |
 
@@ -540,7 +648,11 @@ Chef de service, adjoint au directeur
 
 |
 
+|
+
 Direction de l'évaluation, de la prospective et de la performance :
+
+|
 
 |
 
@@ -560,7 +672,11 @@ Chef de service, adjoint au directeur
 
 |
 
+|
+
 Direction des relations européennes, internationales et de la coopération
+
+|
 
 |
 
@@ -580,7 +696,11 @@ Chef de service, adjoint au directeur
 
 |
 
+|
+
 Délégation à la communication
+
+|
 
 |
 
@@ -596,7 +716,11 @@ Adjoint au délégué
 
 |
 
-80
+110
+
+|
+
+1er janvier 2007
 
 |
 
@@ -616,7 +740,15 @@ par emploi
 
 |
 
-6. Sous-directeur
+DATE
+
+d'effet
+
+|
+
+7. Sous-directeur
+
+|
 
 |
 
@@ -625,6 +757,8 @@ par emploi
 |
 
 Direction de l'enseignement scolaire :
+
+|
 
 |
 
@@ -644,6 +778,8 @@ Direction de l'enseignement scolaire :
 
 |
 
+|
+
 -sous-direction des formations professionnelles
 
 |
@@ -653,6 +789,8 @@ Direction de l'enseignement scolaire :
 |
 
 110
+
+|
 
 |
 
@@ -668,6 +806,8 @@ Direction de l'enseignement scolaire :
 
 |
 
+|
+
 -sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives
 
 |
@@ -677,6 +817,8 @@ Direction de l'enseignement scolaire :
 |
 
 80
+
+|
 
 |
 
@@ -692,7 +834,11 @@ Direction de l'enseignement scolaire :
 
 |
 
+|
+
 Direction de l'enseignement supérieur :
+
+|
 
 |
 
@@ -712,6 +858,8 @@ Direction de l'enseignement supérieur :
 
 |
 
+|
+
 -sous-direction des formations post-baccalauréat
 
 |
@@ -721,6 +869,8 @@ Direction de l'enseignement supérieur :
 |
 
 80
+
+|
 
 |
 
@@ -736,6 +886,8 @@ Direction de l'enseignement supérieur :
 
 |
 
+|
+
 -sous-direction des contrats d'établissements, de pôles et de sites
 
 |
@@ -745,6 +897,8 @@ Direction de l'enseignement supérieur :
 |
 
 110
+
+|
 
 |
 
@@ -760,6 +914,8 @@ Direction de l'enseignement supérieur :
 
 |
 
+|
+
 -sous-direction des bibliothèques et de l'information scientifique
 
 |
@@ -772,7 +928,11 @@ Direction de l'enseignement supérieur :
 
 |
 
+|
+
 Direction de la stratégie
+
+|
 
 |
 
@@ -792,7 +952,11 @@ Direction de la stratégie
 
 |
 
+|
+
 Secrétariat général :
+
+|
 
 |
 
@@ -812,6 +976,8 @@ Sous-direction de la gestion des ressources humaines pour l'administration centr
 
 |
 
+|
+
 Sous-direction des politiques locales et de la modernisation
 
 |
@@ -821,6 +987,8 @@ Sous-direction des politiques locales et de la modernisation
 |
 
 110
+
+|
 
 |
 
@@ -836,6 +1004,8 @@ Sous-direction du pilotage et du dialogue de gestion
 
 |
 
+|
+
 Sous-direction de la logistique de l'administration centrale
 
 |
@@ -844,7 +1014,11 @@ Sous-direction de la logistique de l'administration centrale
 
 |
 
-80
+110
+
+|
+
+1er janvier 2007
 
 |
 
@@ -860,6 +1034,8 @@ Sous-direction des infrastructures techniques et de l'exploitation
 
 |
 
+|
+
 Sous-direction des systèmes d'information
 
 |
@@ -869,6 +1045,8 @@ Sous-direction des systèmes d'information
 |
 
 80
+
+|
 
 |
 
@@ -884,7 +1062,11 @@ Sous-direction des technologies de l'information et de la communication pour l'�
 
 |
 
+|
+
 Direction générale des ressources humaines :
+
+|
 
 |
 
@@ -904,6 +1086,8 @@ Sous-direction des études de gestion prévisionnelle, statutaires et des affair
 
 |
 
+|
+
 Sous-direction du recrutement et de la gestion des carrières
 
 |
@@ -913,6 +1097,8 @@ Sous-direction du recrutement et de la gestion des carrières
 |
 
 80
+
+|
 
 |
 
@@ -928,6 +1114,8 @@ Sous-direction des études de gestion prévisionnelle et statutaires
 
 |
 
+|
+
 Sous-direction de la gestion des carrières
 
 |
@@ -937,6 +1125,8 @@ Sous-direction de la gestion des carrières
 |
 
 110
+
+|
 
 |
 
@@ -952,6 +1142,8 @@ Sous-direction des études de gestion prévisionnelle, statutaires et de l'actio
 
 |
 
+|
+
 Sous-direction de la gestion des carrières
 
 |
@@ -961,6 +1153,8 @@ Sous-direction de la gestion des carrières
 |
 
 110
+
+|
 
 |
 
@@ -976,7 +1170,11 @@ Sous-direction du recrutement
 
 |
 
+|
+
 Direction de l'encadrement :
+
+|
 
 |
 
@@ -996,6 +1194,8 @@ Sous-direction de la gestion prévisionnelle et des missions de l'encadrement
 
 |
 
+|
+
 Sous-direction de la gestion des carrières des personnels d'encadrement
 
 |
@@ -1005,6 +1205,8 @@ Sous-direction de la gestion des carrières des personnels d'encadrement
 |
 
 110
+
+|
 
 |
 
