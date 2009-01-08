@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080303734
+
+- Question : [SEQ080303734](seq080303734.md) — Cour pénale internationale
+
+## Réponse
+
+*Justice, JO du 2009-01-08, page 74*
+
+La garde des sceaux, ministre de la justice, a l'honneur d'indiquer à l'honorable parlementaire que le projet de loi portant adaptation de la législation pénale française au statut de la Cour pénale internationale a été adopté par le Sénat le 10 juin dernier. Après l'adoption de la loi n° 2002-268 du 26 février 2002 relative à la coopération avec la Cour pénale internationale, ce projet de loi a pour objet l'adaptation de notre législation interne à la convention portant statut de la Cour pénale internationale, signée à Rome le 18 juillet 1998, en créant des incriminations spécifiques en droit français pour les crimes et délits de guerre, qui ne seront plus traités comme des crimes et délits de droit commun. Ces infractions feront l'objet de pénalités aggravées et d'un régime de prescription plus long. Si les crimes de guerre ne sont pas définis en tant que tels dans notre législation, la plupart d'entre eux peuvent d'ores et déjà être poursuivis sur le fondement du code pénal ou du code de justice militaire et rien ne s'oppose, dès à présent, à ce que les personnels français, civils ou militaires, qui commettraient de tels crimes soient traduits devant les juridictions françaises. En outre, la France a renoncé à la réserve qu'elle avait formée sur le fondement de l'article 124 du statut, conformément à l'engagement pris devant le Sénat le 3 juin dernier et depuis le 15 juin 2008, la Cour pénale internationale peut, le cas échéant, juger les auteurs des crimes de guerre relevant de notre compétence. Le calendrier parlementaire chargé n'a malheureusement pas permis l'adoption de ce texte avant l'été mais il sera inscrit à la première date utile à l'ordre du jour de l'Assemblée nationale.
