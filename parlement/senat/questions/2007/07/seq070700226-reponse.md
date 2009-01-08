@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700226
+
+- Question : [SEQ070700226](seq070700226.md) — Retraités français établis hors de France
+
+## Réponse
+
+*Travail, JO du 2009-01-08, page 78*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur la situation des retraités établis hors de France. Aux termes de l'article L. 136-1 du code de la sécurité sociale, sont assujetties à la contribution sociale généralisée (CSG) sur les revenus d'activité et de remplacement les personnes « qui sont à la fois considérées comme domiciliées en France pour l'établissement de l'impôt sur le revenu et à la charge, à quelque titre que ce soit, d'un régime obligatoire français d'assurance maladie ». Il en résulte que les personnes qui ne remplissent pas l'une ou l'autre de ces deux conditions ne sont pas redevables de la CSG. Parallèlement, l'article L. 131-9 du code de la sécurité sociale dispose que les personnes qui ne sont pas fiscalement domiciliées en France mais qui relèvent, à titre obligatoire, d'un régime français d'assurance maladie sont redevables de taux particuliers d'assurance maladie. S'agissant des retraités du régime général, ces taux sont fixés (art. D. 242-8 du même code) à 3,2 % sur les pensions de retraite du régime de base et 4,2 % sur les pensions des régimes complémentaires. Les intéressés peuvent, dans certaines conditions, être exonérés du paiement de cette cotisation. En effet, conformément aux dispositions conjuguées des articles L. 242-12 et D. 242-9 du même code, peuvent être exonérées de la cotisation maladie due sur les pensions de retraite les personnes qui soit sont exonérées d'impôt sur le revenu, soit bénéficient d'avantages de retraite non contributifs. Dès lors, au cas particulier les retraités fiscalement domiciliés hors de France, seule l'exonération liée à la perception d'un avantage non contributif peut trouver à s'appliquer.
