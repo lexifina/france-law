@@ -1,0 +1,87 @@
+# Réponse à la question SEQ081005956
+
+- Question : [SEQ081005956](seq081005956.md) — Droit à la retraite anticipée
+
+## Réponse
+
+*Travail, JO du 2009-01-08, page 81*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur la reconduction du dispositif en faveur des carrières longues, instauré par la loi du 21 août 2003 portant réforme des retraites. Cette mesure d'équité a été mise en oeuvre par le gouvernement de M. Jean-Pierre Raffarin avec M. François Fillon et notre majorité dans le cadre de la loi du 21 août 2003. Un réexamen du dispositif était prévu à l'occasion du rendez-vous 2008 sur les retraites, conformément au relevé de décisions du 15 mai 2003. Cette mesure, qui a d'ores et déjà bénéficié à plus de 500 000 assurés, représente un effort important pour les caisses de retraite puisque son coût annuel dépasse les 2 milliards d'euros pour la seule Caisse nationale d'assurance vieillesse (CNAV). Elle permet de prendre en compte la situation de ceux qui ont commencé à travailler avant 16 ans, avec des carrières parfois difficiles, et qui symbolisent la valeur travail. Le Gouvernement est déterminé à prolonger ce dispositif au-delà de l'année 2008. Les assurés concernés pourront donc, s'ils le souhaitent, bénéficier d'un départ anticipé en 2009 ou au cours des années suivantes, s'ils remplissent les conditions fixées par les textes. À cet égard, conformément aux dispositions de la loi du 21 août 2003 et du décret du 30 octobre 2003, les conditions de durée d'assurance exigées pour bénéficier du dispositif de départ anticipé augmenteront progressivement pour l'ensemble des assurés en fonction de leur année de naissance.
+
+<TABLEAU>
+
+<div align="center">
+
+<center>
+
+<table border="1">
+
+<tr>
+
+<th>ANNÉE<br/>de naissance</th>
+
+<th>DURÉE D'ASSURANCE<br/>nécessaire pour une retraite<br/>à taux plein</th>
+
+<th>DURÉE D'ASSURANCE<br/>nécessaire pour un départ<br/>anticipé avant 60 ans</th>
+
+</tr>
+
+<tr>
+
+<td align="center">1948</td>
+
+<td align="center">160</td>
+
+<td align="center">168</td>
+
+</tr>
+
+<tr>
+
+<td align="center">1949</td>
+
+<td align="center">161</td>
+
+<td align="center">169</td>
+
+</tr>
+
+<tr>
+
+<td align="center">1950</td>
+
+<td align="center">162</td>
+
+<td align="center">170</td>
+
+</tr>
+
+<tr>
+
+<td align="center">1951</td>
+
+<td align="center">163</td>
+
+<td align="center">171</td>
+
+</tr>
+
+<tr>
+
+<td align="center">1952</td>
+
+<td align="center">164</td>
+
+<td align="center">172</td>
+
+</tr>
+
+</table>
+
+</center>
+
+</div>
+
+</TABLEAU>
+
+Une circulaire détaillée a été adressée le 7 juillet 2008 aux différentes caisses de retraite concernées afin qu'elles puissent renseigner individuellement les assurés en fonction de leur situation et leur indiquer à quelle date ils pourront bénéficier d'un départ anticipé au titre de ce dispositif. Cette circulaire ne procède nullement à une modification des règles posées par la loi de 2003, dont elle confirme au contraire l'application. Les règles applicables aux assurés sont celles en vigueur au jour de la liquidation de leur pension. Les personnes pour lesquelles cette liquidation interviendrait en 2009 pourront donc bénéficier du dispositif de départ anticipé dès lors qu'elles disposeront d'une durée d'assurance suffisante.
