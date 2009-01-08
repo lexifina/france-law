@@ -68,18 +68,6 @@ Nombre de points par emploi
 
 |
 
-Délégué général à l'emploi et à la formation professionnelle
-
-|
-
-1
-
-|
-
-180
-
-|
-
 Directeur général d'administration centrale :
 
 |
@@ -117,18 +105,6 @@ Directeur général de l'action sociale
 |
 
 180
-
-|
-
-Délégué général adjoint à l'emploi et à la formation professionnelle
-
-|
-
-1
-
-|
-
-150
 
 |
 
@@ -172,7 +148,7 @@ Directeur de l'administration générale et de la modernisation des services
 
 |
 
-Directeur de l'hospitalisation et de l'organisation des soins
+Directeur, adjoint au directeur général de la santé (à compter du 5 juillet 2007)
 
 |
 
@@ -184,7 +160,7 @@ Directeur de l'hospitalisation et de l'organisation des soins
 
 |
 
-Directeur de la population et des migrations
+Directeur de l'hospitalisation et de l'organisation des soins
 
 |
 
@@ -362,11 +338,11 @@ Chef de service, direction de l'administration générale et de la modernisation
 
 |
 
-Chef de service, direction générale de la santé
+Chef de service, secrétaire général, direction générale de la santé (à compter du 11 mai 2007)
 
 |
 
-2
+1
 
 |
 
@@ -391,18 +367,6 @@ Chef de service, direction de l'hospitalisation et de l'organisation des soins
 |
 
 2
-
-|
-
-120
-
-|
-
-Chef de service, direction de la population et des migrations
-
-|
-
-1
 
 |
 
@@ -438,11 +402,11 @@ Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction
 
 |
 
-Chef de service, délégation générale à l'emploi et à la formation professionnelle
+Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget
 
 |
 
-2
+1
 
 |
 
@@ -450,7 +414,7 @@ Chef de service, délégation générale à l'emploi et à la formation professi
 
 |
 
-Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget
+Chef de service chargé de la coordination des fonctions de soutien et de la gestion interne de la direction, direction de l'administration générale, du personnel et du budget
 
 |
 
@@ -474,7 +438,7 @@ Chef du service des droits des femmes et de l'égalité
 
 |
 
-Chef du service, de l'information et de la communication
+Chef de service, délégué à l'information et à la communication (à compter du 15 janvier 2007)
 
 |
 
@@ -483,54 +447,6 @@ Chef du service, de l'information et de la communication
 |
 
 120
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de l'insertion et de la cohésion sociale (à compter du 12 octobre 2005)
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des politiques de formation et du contrôle (à compter du 12 octobre 2005)
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des mutations économiques (à compter du 12 octobre 2005)
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du service public de l'emploi (à compter du 12 octobre 2005)
-
-|
-
-1
-
-|
-
-110
 
 |
 
@@ -594,7 +510,7 @@ Direction de l'administration générale et de la modernisation des services : s
 
 |
 
-Direction générale de la santé : sous-directeur pathologies et santé
+Direction générale de la santé : sous-directeur de la politique des pratiques et des produits de santé (à compter du 11 mai 2007)
 
 |
 
@@ -606,7 +522,7 @@ Direction générale de la santé : sous-directeur pathologies et santé
 
 |
 
-Direction générale de la santé : sous-directeur gestion des risques des milieux
+Direction générale de la santé : sous-directeur de la promotion de la santé et de la prévention des maladies chroniques (à compter du 11 mai 2007)
 
 |
 
@@ -618,7 +534,19 @@ Direction générale de la santé : sous-directeur gestion des risques des milie
 
 |
 
-Direction générale de la santé : sous-directeur de la politique des produits de santé
+Direction générale de la santé : sous-directeur de la prévention des risques liés à l'environnement et à l'alimentation (à compter du 11 mai 2007)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale de la santé : sous-directeur, chef du département des urgences sanitaires (à compter du 11 mai 2007)
 
 |
 
@@ -678,18 +606,6 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de la population et des migrations : sous-directeur des naturalisations
-
-|
-
-1
-
-|
-
-110
-
-|
-
 Direction de la sécurité sociale : sous-directeur du financement du système de soins
 
 |
@@ -738,7 +654,7 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur du budget, des finances et du contrôle de gestion
+Direction de l'administration générale, du personnel et du budget, sous-directeur des affaires financières (à compter du 20 novembre 2006)
 
 |
 
@@ -747,18 +663,6 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 |
 
 110
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du Fonds social européen (à compter du 12 octobre 2005)
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -798,18 +702,6 @@ Direction de l'animation de la recherche, des études et des statistiques : sous
 
 |
 
-Direction de l'administration générale et de la modernisation des services : sous-directeur de la communication et de l'animation (à compter du 25 avril 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Direction de l'administration générale et de la modernisation des services : sous-directeur des systèmes d'information (à compter du 25 avril 2003)
 
 |
@@ -822,7 +714,7 @@ Direction de l'administration générale et de la modernisation des services : s
 
 |
 
-Direction générale de la santé : sous-directeur de la qualité du système de santé
+Direction générale de la santé : sous-directeur de la prévention des risques infectieux (à compter du 11 mai 2007)
 
 |
 
@@ -834,31 +726,7 @@ Direction générale de la santé : sous-directeur de la qualité du système de
 
 |
 
-Direction générale de la santé : sous-directeur santé et société
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de la santé : sous-directeur politiques de santé et stratégies
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de la santé : sous-directeur coordination des services et affaires juridiques
+Direction générale de la santé : sous-directeur, secrétaire général adjoint (à compter du 11 mai 2007)
 
 |
 
@@ -918,7 +786,7 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions médicales et des personnels médicaux hospitaliers
+Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007)
 
 |
 
@@ -943,30 +811,6 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 |
 
 Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des affaires financières
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de la population et des migrations : sous-directeur de la démographie, des mouvements de population et des questions internationales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de la population et des migrations : sous-directeur de l'accueil et de l'intégration
 
 |
 
@@ -1026,7 +870,7 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur de l'administration des services centraux
+Direction de l'administration générale, du personnel et du budget : sous-directeur des services généraux et de l'immobilier (à compter du 10 avril 2008)
 
 |
 
@@ -1039,18 +883,6 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 |
 
 Direction de l'administration générale, du personnel et du budget : sous-directeur des systèmes d'information et des télécommunications
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de l'administration générale, du personnel et du budget : sous-directeur de la modernisation des services
 
 |
 
@@ -1098,51 +930,15 @@ Direction de la recherche, des études, de l'évaluation et des statistiques : s
 
 |
 
-Délégation aux affaires européennes et internationales : sous-directeur des affaires européennes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Délégation aux affaires européennes et internationales : sous-directeur des affaires internationales
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Directeur de projet :
 
 |
 
-Secrétaire général des ministères chargés des affaires sociales (à compter du 9 février 2005)
+Secrétaire général des ministères chargés des affaires sociales (à compter du 21 février 2008)
 
 |
 
-2
-
-|
-
-80
-
-|
-
-Délégation générale à l'emploi et à la formation professionnelle (à compter du 3 mai 2006)
-
-|
-
-2
+3
 
 |
 
@@ -1150,7 +946,7 @@ Délégation générale à l'emploi et à la formation professionnelle (à compt
 
 |
 
-Direction des relations du travail
+Direction générale du travail ( à compter du 22 août 2006)
 
 |
 
@@ -1186,11 +982,11 @@ Direction de l'administration générale et de la modernisation des services
 
 |
 
-Direction générale de la santé
+Direction générale de la santé (à compter du 1er décembre 2006)
 
 |
 
-2
+3
 
 |
 
@@ -1198,11 +994,23 @@ Direction générale de la santé
 
 |
 
-Direction générale de l'action sociale (à compter du 12 août 2005)
+Direction générale de la santé (à compter du 28 juin 2007)
 
 |
 
-2
+4
+
+|
+
+80
+
+|
+
+Direction générale de l'action sociale (à compter du 9 février 2008)
+
+|
+
+3
 
 |
 
@@ -1234,11 +1042,23 @@ Direction de l'hospitalisation et de l'organisation des soins (à compter du 12 
 
 |
 
-Direction de la sécurité sociale
+Direction de la sécurité sociale (à compter du 5 mars 2008)
 
 |
 
-2
+3
+
+|
+
+80
+
+|
+
+Délégation aux affaires européennes et internationales (à compter du 23 août 2007)
+
+|
+
+1
 
 |
 
