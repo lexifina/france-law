@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106188
+
+- Question : [SEQ081106188](seq081106188.md) — Accessibilité des lieux publics
+
+## Réponse
+
+*Solidarité, JO du 2009-01-08, page 77*
+
+L'attention de Mme la secrétaire d'État à la solidarité a été appelée sur l'accompagnement financier des collectivités territoriales en matière de mise en accessibilité de leurs établissements recevant du public. Avec la loi du 11 février 2005, la France s'est fixé un objectif extrêmement ambitieux et un véritable projet de société : rendre l'ensemble de ses établissements recevant du public et de ses transports publics accessible d'ici à 2015. 2015 est une date à la fois lointaine pour les personnes handicapées qui veulent voir rapidement des changements concrets et proche pour les propriétaires qui sont astreints à un calendrier extrêmement serré. Aussi il apparaît indispensable que le chantier de la mise en accessibilité puisse être accompagné afin de garantir que le droit opposable à l'accessibilité soit effectif en 2015. Pour cela, le Gouvernement a entendu donner un nouvel élan à la politique d'accessibilité à l'occasion de la Conférence nationale du handicap du 10 juin 2008. En premier lieu, pour tenir l'objectif extrêmement ambitieux de rendre la Cité totalement accessible à toutes les formes de handicap d'ici à 2015, il a été décidé de resserrer le calendrier des diagnostics des établissements recevant du public (ERP) ; ceux-ci devront donc être engagés d'ici à 2010 et dès 2008 pour les bâtiments les plus importants. De même, pour accompagner les entreprises, l'Agefiph a été sollicitée afin d'accompagner financièrement l'aménagement des locaux de celles d'entre elles qui s'engagent dans un plan pluriannuel de recrutement de personnes handicapées. Enfin dans le même sens, le FIPHFP a été sollicité pour améliorer l'accès aux locaux professionnels dans le secteur public.
