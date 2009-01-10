@@ -44,7 +44,7 @@ b. par les sociétés qui ont pour objet social la location d'équipements lors 
 
 Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur est le locataire lui-même.
 
-8. En cas de cession par le prêteur ou le constituant initial de titres restitués à l'issue d'un prêt mentionné à l'article L. 432-6 du code monétaire et financier ou d'une remise en garantie réalisée dans les conditions prévues à l'article 38 bis-0 A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des titres restitués.
+8. En cas de cession par le prêteur ou le constituant initial de titres restitués à l'issue d'un prêt mentionné à l'article L. 211-22 du code monétaire et financier ou d'une remise en garantie réalisée dans les conditions prévues à l'article 38 bis-0 A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des titres restitués.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute nature y afférents tels qu'ils figuraient dans ses comptes annuels à la date de la cession.
 
@@ -57,7 +57,3 @@ Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long 
 Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992.
 
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 65-IV a et VI de la loi n° 2006-1770 du 30 décembre 2006.
