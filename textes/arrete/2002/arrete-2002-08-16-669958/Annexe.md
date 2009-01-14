@@ -419,3 +419,37 @@ Ecole nationale supérieure de chimie de Paris |
 7
 
 |
+
+Ecole nationale supérieure Louis Lumière |
+
+3
+
+|
+
+3
+
+|
+
+Institut d'administration des entreprises de Paris |
+
+4 |
+
+4 |
+
+Institut français de mécanique avancée |
+
+4 |
+
+4 |
+
+Ecole nationale supérieure de chimie de Lille |
+
+4 |
+
+4 |
+
+Ecole nationale d'ingénieurs de Saint-Etienne |
+
+5 |
+
+5 |
