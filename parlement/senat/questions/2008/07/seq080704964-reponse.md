@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080704964
+
+- Question : [SEQ080704964](seq080704964.md) — Implication du décret n° 2007-1796 sur les ONG
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-01-15, page 115*
+
+Le secrétaire d'État chargé de la coopération et de la francophonie a saisi par courrier, en date du 25 juillet 2008, le ministre du budget, des comptes publics et de la fonction publique de l'obligation désormais, suivant le décret n° 2007-1796 du 19 décembre 2007, pour les organismes accueillant des fonctionnaires détachés à verser la part employeur de la retenue pour pension et ceci à compter du 1er janvier 2008. Dans son courrier, il précise que les sommes en jeu ne pouvant être supportées par les associations agréées au titre de la loi du 23 février 2005 relative au volontariat de solidarité internationale (VSI), ces associations ont dû renoncer à accueillir des nouveaux détachés. C'est assurément le cas notamment de la délégation catholique pour la coopération, première association de volontariat. Le secrétaire d'État a donc demandé au ministre du budget compte tenu de ces éléments et du rôle éminent joué par les associations de VSI notamment dans le secteur de l'éducation et des difficultés rencontrées par les fonctionnaires actuellement en mission en position de détachés d'étudier avec bienveillance la possibilité de maintenir au moins à titre temporaire pour l'année 2008 les dispositions antérieures. Dans son courrier, le secrétaire d'État indique en outre que cette disposition bénéficie déjà à l'Agence pour l'enseignement du français à l'étranger (AEFE) et que de nouveaux détachés n'étant plus recrutés au titre du VSI, le décret 2007-1796 pourra s'appliquer sans dommage à l'avenir et ce à compter de la rentrée 2009 pour tenir compte de la durée légale maximale des missions de volontariat de solidarité internationale qui est de deux années. À ce jour, ce courrier est toujours dans l'attente d'une réponse du ministre du budget.
