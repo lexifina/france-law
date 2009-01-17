@@ -1,20 +1,22 @@
 # Article Annexe II : Tableau n° 36 bis
 
-Affections cutanées cancéreuses provoquées par les dérivés suivants du pétrole : extraits aromatiques, huiles minérales utilisées à haute température dans les opérations d'usinage et de traitement des métaux, suies de combustion des produits pétroliers
+Affections cancéreuses provoquées par les dérivés suivants du pétrole : huiles minérales peu ou non raffinées et huiles minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de craquage, huiles moteur usagées ainsi que suies de combustion des produits pétroliers
 
-DÉSIGNATION DE LA MALADIE
-
-|
-
-DÉLAI de prise en charge
+DÉSIGNATION DES MALADIES
 
 |
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie
+DÉLAI DE PRISE EN CHARGE
 
 |
 
-Epithéliomas primitifs de la peau.
+LISTE LIMITATIVE DES TRAVAUX
+
+susceptibles de provoquer ces maladies
+
+|
+
+Epithélioma primitif de la peau.
 
 |
 
@@ -22,7 +24,7 @@ Epithéliomas primitifs de la peau.
 
 |
 
-Travaux d'usinage par enlèvement ou déformation de matière ou travaux de traitement des métaux et alliages comportant l'emploi d'huile minérale.
+1. Travaux d'usinage par enlèvement ou déformation de matière ou travaux de traitement des métaux et alliages exposant habituellement au contact cutané avec des huiles minérales peu ou non raffinées, ou régénérées.
 
 |
 
@@ -30,7 +32,7 @@ Travaux d'usinage par enlèvement ou déformation de matière ou travaux de trai
 
 |
 
-Travaux comportant la manipulation et l'emploi d'extraits aromatiques pétroliers utilisés notamment comme huiles d'extension, d'ensimage, de démoulage, à l'exclusion des polymérisats et des élastomères contenant des huiles d'extension.
+2. Travaux exposant habituellement au contact cutané avec des extraits aromatiques pétroliers utilisés notamment comme huiles d'extension, d'ensimage, de démoulage, ou comme fluxant des bitumes.
 
 |
 
@@ -38,6 +40,14 @@ Travaux comportant la manipulation et l'emploi d'extraits aromatiques pétrolier
 
 |
 
-Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant aux suies de combustion de produits pétroliers.
+3. Travaux exposant habituellement au contact cutané avec des résidus de craquage utilisés notamment comme liants ou fluidifiants et avec des huiles moteur usagées.
+
+|
+
+|
+
+|
+
+4. Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant habituellement au contact cutané avec des suies de combustion de produits pétroliers.
 
 |
