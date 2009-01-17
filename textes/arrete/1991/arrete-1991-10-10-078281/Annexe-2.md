@@ -112,7 +112,7 @@ Un spécialiste de l'orientation professionnelle ou un enseignant de l'Éducatio
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes
 
-- un chargé de mission de sécurité routière ou un inspecteur départemental de sécurité routière.
+- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière
 
 |
 
@@ -154,11 +154,7 @@ Pédagogie en salle
 
 |
 
-30'
-
-après 30'
-
-de prép.
+55 minutes après 45 minutes de préparation, à compter de la session de 2009
 
 |
 
@@ -166,7 +162,9 @@ de prép.
 
 |
 
-Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets illustrés élaborés par le ministère chargé des transports.
+Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets élaborés par le ministère chargé des transports.
+
+A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
 |
 
@@ -198,7 +196,7 @@ Le candidat conduit un véhicule de la catégorie "B" sur un parcours routier et
 
 Un enseignant de la conduite (*) et au choix :
 
-- un inspecteur du permis de conduire et de la sécurité routière
+- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes
 
@@ -210,7 +208,7 @@ Pédagogie sur véhicule
 
 |
 
-1 H
+65 minutes à compter de la session de 2009
 
 |
 
@@ -220,15 +218,17 @@ Pédagogie sur véhicule
 
 Le candidat dispense un cours pratique à un élève en cours de préparation au permis de conduire de la catégorie "B" ou titulaire de ce permis depuis moins d'un an.
 
+A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
+
 |
 
 Un enseignant de la conduite (*) et, au choix :
 
-- un inspecteur du permis de conduire et de la sécurité routière
+- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière
 
 - un professionnel de la formation des formateurs
 
-- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière
+- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes.
 
@@ -254,7 +254,7 @@ Le mémoire et l'entretien font l'objet d'une évaluation séparée.
 
 Un enseignant de la conduite (*) et au choix :
 
-- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière
+- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes
 

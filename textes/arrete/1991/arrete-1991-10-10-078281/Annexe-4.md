@@ -72,7 +72,7 @@ Epreuve de pédagogie après tirage au sort :
 
 |
 
-1 heure
+65 minutes
 
 |
 
@@ -84,11 +84,15 @@ Le candidat dispense un cours pratique à un élève en cours de formation au pe
 
 Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie A limitée ou non limitée ou titulaire depuis moins d'un an du permis de conduire de la catégorie A non limitée.
 
-|
+A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
 |
 
-Le véhicule utilisé doit répondre aux normes exigées pour les épreuves du permis de conduire de la catégorie A non limitée et être équipé d'une béquille centrale. De plus, pour l'épreuve de pédagogie en circulation, il doit être équipé d'un dispositif homologué de liaison radio en état de marche.
+|
+
+Le véhicule utilisé doit répondre aux normes exigées pour les épreuves du permis de conduire de la catégorie A non limitée.
+
+De plus, pour l'épreuve de pédagogie en circulation, il doit être équipé d'un dispositif homologué de liaison radio en état de marche.
 
 Dispositions transitoires :
 

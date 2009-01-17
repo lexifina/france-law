@@ -28,7 +28,7 @@ ou examinateurs
 
 |
 
-5'
+5' par essai
 
 |
 
@@ -92,7 +92,7 @@ Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans l
 
 |
 
-50'
+65'
 
 |
 
@@ -101,6 +101,8 @@ Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans l
 |
 
 Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie E(C) ou D ou titulaire de l'un de ces permis depuis moins d'un an.
+
+A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
 |
 
