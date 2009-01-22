@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801351
+
+- Question : [SEQ070801351](seq070801351.md) — Durée de cotisations des fonctionnaires pour la retraite
+
+## Réponse
+
+*Travail, JO du 2009-01-22, page 192*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur la durée de cotisations des fonctionnaires pour la retraite. Conformément aux engagements du Gouvernement, les régimes spéciaux de retraite ont été réformés afin que leurs affiliés voient, à compter du 1er juillet 2008, leur durée de services et bonifications augmenter progressivement jusqu'à atteindre 160 trimestres au 1er décembre 2012. Ces dispositions ont fait l'objet des décrets suivants : décret n° 2008-47 du 15 janvier 2008 relatif au régime spécial de retraites des personnels de la Société nationale des chemins de fer français ; décret n° 2008-48 du 15 janvier 2008 relatif au régime spécial de retraite du personnel de la Régie autonome des transports parisiens ; décret n° 2008-69 du 22 janvier 2008 modifiant le statut national du personnel des industries électriques et gazières ; décret n° 2008-147 du 15 février 2008 relatif au régime spécial de retraites des clercs et employés de notaires ; décret n° 2008-240 du 6 mars 2008 relatif au régime spécial de retraite et au statut des personnels de l'Opéra national de Paris ; décret n° 2008-239 du 6 mars 2008 relatif au régime spécial de retraite des personnels de la Comédie-Française et modifiant le décret n° 68-960 du 11 octobre 1968 modifiant le statut de la caisse de retraites du personnel de la Comédie-Française. Ces textes ont par ailleurs prévu que la durée de services et bonifications nécessaire pour obtenir le maximum de pension évoluerait comme celle des fonctionnaires de l'État dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
