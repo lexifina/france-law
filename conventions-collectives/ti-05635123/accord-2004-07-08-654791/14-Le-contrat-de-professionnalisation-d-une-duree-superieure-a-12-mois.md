@@ -1,4 +1,4 @@
-# Article 14
+# Article 14 : Le contrat de professionnalisation
 
 Article 14.1
 
@@ -75,6 +75,10 @@ Pendant la formation pratique, l'entreprise utilisatrice est signataire de la co
 Cette formation pratique doit permettre l'application des acquis de la formation externe par une mise en situation et favoriser l'acquisition de compétences.
 
 Article 14.2.4
+
+Dans le respect des règles fixées pour la formation des conducteurs routiers par la DGEFP et les partenaires sociaux du transport et auxiliaires de transport, les entreprises de travail temporaire peuvent déroger aux règles de durée des contrats et des formations des articles 14. 1 et 14. 2 relatifs aux contrats de professionnalisation des salariés intérimaires.
+
+Article 14.2.5
 
 Bilan
 
