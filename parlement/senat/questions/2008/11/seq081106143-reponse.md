@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106143
+
+- Question : [SEQ081106143](seq081106143.md) — Difficultés réelles pour les populations des communes dépossédées du service de délivrance des passeports
+
+## Réponse
+
+*Intérieur, JO du 2009-01-22, page 181*
+
+La possibilité donnée aux demandeurs de passeport de nouvelle génération de faire procéder à l'enregistrement de leurs données personnelles et biométriques en toute mairie dotée d'une station d'enregistrement, quelle que soit l'adresse de leur domicile, constitue une avancée au regard des modalités actuelles de l'obtention du passeport électronique. Couvrant dans son intégralité le processus de demande, depuis la prise ou numérisation de photographie et d'empreintes jusqu'à la remise du titre, le dispositif tend à simplifier les démarches des usagers en leur épargnant par ailleurs tout déplacement en préfecture le cas échéant. En outre, le niveau d'automatisation de la station induira une réduction sensible du temps de traitement de chaque demande qui devrait être ramené à environ dix minutes en regard du quart d'heure enregistré en moyenne actuellement. L'annonce du déploiement du nouveau passeport a donné lieu au recensement, par les préfets, de quelque 2 000 candidatures de communes sur l'ensemble du territoire métropolitain et d'outre-mer. Dans le Finistère, le représentant de l'État a proposé 30 communes d'implantation et 40 stations fixes. À ces stations fixes, s'ajouteront deux stations mobiles qui seront mises à la disposition du préfet et des communes qui en exprimeront le besoin pour répondre à des demandes de titres émanant de personnes à mobilité réduite. D'une manière générale, le nombre et la répartition des stations pourront évoluer en fonction des flux réellement constatés à l'issue d'une période de quelques mois.
