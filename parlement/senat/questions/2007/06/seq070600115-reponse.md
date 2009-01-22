@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070600115
+
+- Question : [SEQ070600115](seq070600115.md) — Remboursement de soins médicaux pratiqués en Tunisie pour une personne résidant en France
+
+## Réponse
+
+*Santé, JO du 2009-01-22, page 182*
+
+Il convient de rappeler que les conventions bilatérales de sécurité sociale n'ont pas pour objet de régir les séjours temporaires des ressortissants des États parties à la convention mais de faciliter la mobilité internationale des travailleurs en coordonnant les régimes de sécurité sociale des deux États parties au bénéfice de leurs ressortissants (éviter la double imposition, totalisation des périodes d'assurance pour les droits à pension, exportation des pensions, détachement, etc.). Ainsi, la réglementation applicable en matière de prise en charge des soins reçus hors de l'UE-EEE est prévue à l'article R. 332-2 du code de la sécurité sociale. Aux termes de cette disposition, les exceptions au principe de territorialité du service des prestations de l'assurance maladie française sont réduites et les organismes d'assurance maladie examinent au cas par cas les dossiers de demandes de remboursement des assurés, afin d'en assurer un contrôle efficace. La prise en charge des soins inopinés reçus hors UE-EEE reste ainsi toujours facultative et soumise à l'appréciation des caisses. Afin d'éviter des pratiques trop différenciées d'une caisse primaire à une autre, le traitement des demandes de prise en charge de soins reçus hors de France sera harmonisé du fait de la mise en oeuvre d'un service unique pour la gestion des dossiers de remboursement de soins reçus à l'étranger. La mise en oeuvre de ce service, créé par la loi n° 2004-810 du 13 août 2004 relative à l'assurance maladie, a été confiée à la caisse de Vannes. Le déploiement sur l'ensemble du territoire se déroulera progressivement.
