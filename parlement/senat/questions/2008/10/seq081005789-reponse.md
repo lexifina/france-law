@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005789
+
+- Question : [SEQ081005789](seq081005789.md) — Information personnalisée sur la retraite pour les Français de l'étranger
+
+## Réponse
+
+*Travail, JO du 2009-01-22, page 192*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille et de la solidarité a été appelée sur l'information personnalisée sur la retraite pour les Français de l'étranger. L'article L. 161-17 du code de la sécurité sociale, créé par l'article 10 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, donne à toute personne le droit d'obtenir, dans des conditions précisées par décret, un relevé de sa situation individuelle au regard de l'ensemble des droits qu'elle s'est constitués dans les régimes de retraite légalement obligatoires. En outre, à partir d'un certain âge et selon une périodicité fixée par le décret précité, chaque personne reçoit une estimation indicative globale du montant de ses pensions de retraite. Les Français de l'étranger bénéficient donc également de ce droit à l'information sur leur retraite s'agissant des droits qu'ils se sont constitués auprès des régimes français de retraite légalement obligatoires. Sont notamment inclus dans ce champ les droits acquis au titre de l'assurance volontaire vieillesse des Français expatriés. En revanche, en application du principe de territorialité du droit, l'information sur les droits constitués auprès de régimes de retraite étrangers relève des dispositions juridiques nationales concernées et n'est pas régie pas la législation française. Dans l'hypothèse où l'assuré quitte le territoire français pour s'établir à l'étranger, il lui est recommandé de faire parvenir sa nouvelle adresse au dernier régime d'affiliation dont il a relevé afin de s'assurer que son relevé de situation individuelle ou son estimation indicative globale lui sera bien adressé, sauf dans le cas où il s'affilie à l'assurance volontaire vieillesse.
