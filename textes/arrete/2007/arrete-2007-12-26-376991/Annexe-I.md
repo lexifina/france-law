@@ -6,7 +6,7 @@ LOCALISATION DE L'EMPLOI
 
 |
 
-Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.
+Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire
 
 |
 
@@ -14,9 +14,13 @@ Directions et services
 
 |
 
-Fonctions |
+Fonctions
 
-Points NBI |
+|
+
+Points NBI
+
+|
 
 Cabinet du ministre.
 
@@ -36,55 +40,25 @@ Direction des libertés publiques et des affaires juridiques.
 
 Chef du bureau de la nationalité, des titres d'identité et de voyage.
 
-|
-
-60
-
-|
-
-|
-
 Chef du bureau du contentieux des polices administratives.
 
-|
-
-60
-
-|
-
-|
-
 Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
-
-|
-
-50 |
-
-|
-
-Chef du bureau de la sécurité et de la réglementation routières. |
-
-50
-
-|
-
-|
-
-Chef du service du fichier national des permis de conduire. |
-
-30
-
-|
-
-|
 
 Chef de cabinet.
 
 |
 
+60
+
+50
+
+30
+
+30
+
 |
 
-Direction de la défense et de la sécurité civiles.
+Direction de la sécurité civile.
 
 |
 
@@ -98,7 +72,7 @@ Chef du bureau des affaires financières et juridiques.
 
 |
 
-Chef du bureau des statuts et du dialogue social.
+Chef du bureau du statut et du dialogue social.
 
 |
 
@@ -132,79 +106,43 @@ Direction des systèmes d'information et de communication.
 
 Chef du bureau des affaires juridiques.
 
+Chef du bureau du budget et de la programmation financière.
+
+Chef du bureau du personnel et des compétences.
+
 |
 
 50
 
-|
-
-|
-
-Chef du bureau du budget et de la programmation financière.
-
-|
+30
 
 30
 
 |
 
-|
-
-Chef du bureau du personnel et des compétences. |
-
-30
-
-|
-
-Direction de l'évaluation de la performance, et des affaires financières et immobilières.
+Direction de l'évaluation de la performance et des affaires financières et immobilières.
 
 |
 
 Chef du bureau du budget et du fonctionnement.
 
-|
-
-60
-
-|
-
-|
-
 Chef du bureau de la qualité juridique et comptable.
 
-|
-
-50
-
-|
-
-|
-
-Chef du bureau des ressources et politique d'achats.
-
-|
-
-30
-
-|
-
-DEPAFI.
-
-|
+Chef du bureau des ressources et de la politique d'achat.
 
 Adjoint au chef du bureau de la synthèse budgétaire et financière.
-
-|
-
-30
-
-|
-
-|
 
 Adjoint au chef du bureau des affaires immobilières d'administration centrale.
 
 |
+
+60
+
+50
+
+30
+
+30
 
 30
 
@@ -222,11 +160,31 @@ Chargé de mission auprès du sous-directeur de l'administration territoriale.
 
 |
 
-Mission des affaires internationales et européennes.
+|
+
+Chef du bureau des usagers de la route et de la réglementation routière.
 
 |
 
-Coordonnateur de la mission aux affaires internationales et européennes.
+30
+
+|
+
+|
+
+Chef du service du fichier national des permis de conduire.
+
+|
+
+50
+
+|
+
+Délégation aux affaires internationales et européennes.
+
+|
+
+Coordonnateur de la délégation aux affaires internationales et européennes.
 
 |
 
@@ -238,7 +196,7 @@ Direction des ressources humaines.
 
 |
 
-Chef du bureau du recrutement et promotion professionnelle.
+Chef du bureau des ressources, de l'information et de l'accueil.
 
 |
 
@@ -278,7 +236,7 @@ Adjoint au chef du bureau des personnels techniques et spécialisés.
 
 |
 
-Chef de la mission parcours professionnels.
+Chef de la mission projets professionnels.
 
 |
 
@@ -300,7 +258,9 @@ Direction générale des collectivités locales.
 
 |
 
-Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. |
+Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat.
+
+|
 
 30
 
@@ -308,7 +268,9 @@ Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat.
 
 |
 
-Chef du bureau de l'emploi territorial et de la protection sociale. |
+Chef du bureau de l'emploi territorial et de la protection sociale.
+
+|
 
 30
 
@@ -316,7 +278,9 @@ Chef du bureau de l'emploi territorial et de la protection sociale. |
 
 |
 
-Chef de cabinet. |
+Chef de cabinet.
+
+|
 
 30
 
@@ -396,7 +360,7 @@ Chef du bureau du recrutement.
 
 |
 
-Chef de cabinet du directeur d'administration de la police nationale.
+Chef de cabinet du directeur de l'administration de la police nationale.
 
 |
 
@@ -442,7 +406,7 @@ Chef du bureau des affaires juridiques.
 
 |
 
-30
+50
 
 |
 
@@ -458,17 +422,17 @@ Chef du bureau de la politique sociale du logement.
 
 |
 
-Chef du pôle de l'action économique et de l'emploi.
+Chef de la division des personnels et de la logistique.
 
 |
 
-30
+50
 
 |
 
 |
 
-Chef du pôle de l'action économique et de l'emploi.
+Chef du pôle action et réglementation économiques, veille et prospective.
 
 |
 
@@ -486,7 +450,7 @@ Chef du bureau du cabinet.
 
 |
 
-Préfecture de police.
+Préfecture de police :
 
 |
 
@@ -494,11 +458,11 @@ Préfecture de police.
 
 |
 
-Cabinet.
+Service du cabinet.
 
 |
 
-Chef du 3e bureau (expulsions locatives).
+Chef du bureau des expulsions locatives et de la voie publique.
 
 |
 
@@ -506,11 +470,11 @@ Chef du 3e bureau (expulsions locatives).
 
 |
 
-Services des affaires juridiques et du contentieux.
+Service des affaires juridiques et du contentieux.
 
 |
 
-Chef du bureau de la protection juridique et des assurances.
+Chef du bureau de la protection juridique et de l'assurance.
 
 |
 
@@ -578,7 +542,7 @@ Chef du 3e bureau.
 
 |
 
-Chef du bureau des polices administratives (4e bureau).
+Chef du 4e bureau.
 
 |
 
@@ -588,7 +552,7 @@ Chef du bureau des polices administratives (4e bureau).
 
 |
 
-Chef du bureau des permis de conduire (5e bureau).
+Chef du 5e bureau.
 
 |
 
@@ -652,57 +616,25 @@ Direction des transports et de la protection du public.
 
 Chef du bureau des taxis et des transports publics.
 
-|
-
-50
-
-|
-
-|
-
 Chef du bureau des objets trouvés et des fourrières.
-
-|
-
-50
-
-|
-
-|
 
 Chef du bureau des actions contre les nuisances.
 
-|
-
-50
-
-|
-
-|
-
 Chef du bureau des actions de santé mentale.
 
-|
-
-50
-
-|
-
-|
-
 Chef du bureau des établissements recevant du public.
-
-|
-
-50
-
-|
-
-|
 
 Chef du bureau de la sécurité de l'habitat.
 
 |
+
+50
+
+50
+
+50
+
+50
 
 50
 
@@ -712,7 +644,7 @@ Direction de la police urbaine de proximité.
 
 |
 
-Chef du service de gestion opérationnelle et des équipements.
+Chef du service de gestion opérationnelle des personnels et des équipements.
 
 |
 
@@ -732,19 +664,11 @@ Chef du bureau des finances et de la commande publique.
 
 |
 
-Secrétariat d'Etat à l'outre-mer.
+Délégation générale à l'outre-mer.
 
 |
 
-|
-
-|
-
-Direction des affaires politiques, administratives et financières.
-
-|
-
-Adjoint au chef du bureau des ressources humaines.
+Chef du bureau des ressources et de la coordination.
 
 |
 
@@ -752,9 +676,11 @@ Adjoint au chef du bureau des ressources humaines.
 
 |
 
+Service des affaires juridiques et institutionnelles.
+
 |
 
-Adjoint au chef du bureau des affaires juridiques et de l'état civil.
+Adjoint au chef du département du droit privé et du droit des activités économiques et sociales.
 
 |
 
@@ -762,11 +688,11 @@ Adjoint au chef du bureau des affaires juridiques et de l'état civil.
 
 |
 
-Direction des affaires économiques, sociales et culturelles.
+Service de l'évaluation, de la prospective et de la dépense de l'Etat.
 
 |
 
-Chef du département des financements publics et de la programmation.
+Chef du département de la dépense de l'Etat.
 
 |
 
@@ -780,17 +706,11 @@ Ministère de l'immigration, de l'intégration, de l'identité nationale et du d
 
 Chef du bureau du droit de l'éloignement.
 
-|
-
-30
-
-|
-
-|
-
 Chef du département de l'asile à la frontière et de l'admission au séjour.
 
 |
+
+30
 
 30
 
