@@ -1,0 +1,447 @@
+# Article Annexe II
+
+RÉPARTITION DU MONTANT DU DROIT À COMPENSATION ATTRIBUÉ AUX RÉGIONS AU TITRE DE LA PRISE EN CHARGE DES LICENCES IGN ET DES SERVEURS INFORMATIQUES DES SERVICES RÉGIONAUX DE L'INVENTAIRE GÉNÉRAL DU PATRIMOINE CULTUREL
+
+RÉGIONS
+
+|
+
+COMPENSATION
+
+licences IGN
+
+(scan 25)
+
+(en euros)
+
+|
+
+COMPENSATION
+
+serveurs
+
+(en euros)
+
+|
+
+TOTAL COMPENSATION
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+6 800
+
+|
+
+1 700
+
+|
+
+8 500
+
+|
+
+AQUITAINE
+
+|
+
+17 000
+
+|
+
+1 700
+
+|
+
+18 700
+
+|
+
+AUVERGNE
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+BOURGOGNE
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+BRETAGNE
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+CENTRE
+
+|
+
+20 400
+
+|
+
+1 700
+
+|
+
+22 100
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+GUADELOUPE
+
+|
+
+4 400
+
+|
+
+1 700
+
+|
+
+6 100
+
+|
+
+GUYANE
+
+|
+
+4 400
+
+|
+
+1 700
+
+|
+
+6 100
+
+|
+
+ILE-DE-FRANCE
+
+|
+
+8 800
+
+|
+
+1 700
+
+|
+
+10 500
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+17 000
+
+|
+
+1 700
+
+|
+
+18 700
+
+|
+
+LIMOUSIN
+
+|
+
+10 200
+
+|
+
+1 700
+
+|
+
+11 900
+
+|
+
+LORRAINE
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+MARTINIQUE
+
+|
+
+3 000
+
+|
+
+1 700
+
+|
+
+4 700
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+27 200
+
+|
+
+1 700
+
+|
+
+28 900
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+6 800
+
+|
+
+1 700
+
+|
+
+8 500
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+10 200
+
+|
+
+1 700
+
+|
+
+11 900
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+6 800
+
+|
+
+1 700
+
+|
+
+8 500
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+17 000
+
+|
+
+1 700
+
+|
+
+18 700
+
+|
+
+PICARDIE
+
+|
+
+10 200
+
+|
+
+1 700
+
+|
+
+11 900
+
+|
+
+POITOU-CHARENTES
+
+|
+
+13 600
+
+|
+
+1 700
+
+|
+
+15 300
+
+|
+
+PROVENCE-ALPES-CÔTE D'AZUR
+
+|
+
+20 400
+
+|
+
+1 700
+
+|
+
+22 100
+
+|
+
+RÉUNION
+
+|
+
+4 400
+
+|
+
+1 700
+
+|
+
+6 100
+
+|
+
+RHÔNE-ALPES
+
+|
+
+27 200
+
+|
+
+1 700
+
+|
+
+28 900
+
+|
+
+TOTAL
+
+|
+
+317 400
+
+|
+
+42 500
+
+|
+
+359 900
+
+|

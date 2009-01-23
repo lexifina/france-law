@@ -1,0 +1,223 @@
+# Article Annexe I
+
+RÉPARTITION PAR RÉGION DU MONTANT DU DROIT À COMPENSATION ATTRIBUÉ AUX RÉGIONS AU TITRE DE LA PRISE EN CHARGE DES FRAIS DE FONCTIONNEMENT DES SERVICES RÉGIONAUX DE L'INVENTAIRE GÉNÉRAL DU PATRIMOINE CULTUREL
+
+RÉGIONS
+
+|
+
+MONTANT COMPENSATION
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+128 405
+
+|
+
+AQUITAINE
+
+|
+
+105 443
+
+|
+
+AUVERGNE
+
+|
+
+84 215
+
+|
+
+BOURGOGNE
+
+|
+
+94 015
+
+|
+
+BRETAGNE
+
+|
+
+80 865
+
+|
+
+CENTRE
+
+|
+
+96 526
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+63 147
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+44 141
+
+|
+
+GUADELOUPE
+
+|
+
+15 042
+
+|
+
+GUYANE
+
+|
+
+16 420
+
+|
+
+ILE-DE-FRANCE
+
+|
+
+285 110
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+61 979
+
+|
+
+LIMOUSIN
+
+|
+
+57 322
+
+|
+
+LORRAINE
+
+|
+
+156 256
+
+|
+
+MARTINIQUE
+
+|
+
+16 788
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+118 976
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+55 658
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+71 683
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+61 350
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+85 025
+
+|
+
+PICARDIE
+
+|
+
+52 774
+
+|
+
+POITOU-CHARENTES
+
+|
+
+136 503
+
+|
+
+PROVENCE-ALPES-CÔTE D'AZUR
+
+|
+
+93 440
+
+|
+
+RÉUNION
+
+|
+
+5 891
+
+|
+
+RHÔNE-ALPES
+
+|
+
+69 954
+
+|
+
+TOTAL
+
+|
+
+2 056 929
+
+|
+
+|
