@@ -1,0 +1,221 @@
+# Article Annexe
+
+RÉPARTITION PAR RÉGION DU MONTANT DU DROIT A COMPENSATION ATTRIBUÉ AUX RÉGIONS AU TITRE DE LA PRISE EN CHARGE DES FRAIS DE RECRUTEMENT DES AGENTS DES SERVICES RÉGIONAUX DE L'INVENTAIRE GÉNÉRAL DU PATRIMOINE CULTUREL
+
+RÉGIONS
+
+|
+
+MONTANT COMPENSATION
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+1 100
+
+|
+
+AQUITAINE
+
+|
+
+1 500
+
+|
+
+AUVERGNE
+
+|
+
+1 600
+
+|
+
+BOURGOGNE
+
+|
+
+1 550
+
+|
+
+BRETAGNE
+
+|
+
+2 700
+
+|
+
+CENTRE
+
+|
+
+2 300
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+700
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+1 300
+
+|
+
+GUADELOUPE
+
+|
+
+150
+
+|
+
+GUYANE
+
+|
+
+150
+
+|
+
+ILE-DE-FRANCE
+
+|
+
+2 010
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+1 700
+
+|
+
+LIMOUSIN
+
+|
+
+1 000
+
+|
+
+LORRAINE
+
+|
+
+1 850
+
+|
+
+MARTINIQUE
+
+|
+
+100
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+1 200
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+1 400
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+770
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+1 390
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+2 000
+
+|
+
+PICARDIE
+
+|
+
+1 230
+
+|
+
+POITOU-CHARENTES
+
+|
+
+2 000
+
+|
+
+PROVENCE-ALPES-CÔTE D'AZUR
+
+|
+
+1 500
+
+|
+
+RÉUNION
+
+|
+
+100
+
+|
+
+RHÔNE-ALPES
+
+|
+
+1 700
+
+|
+
+TOTAL
+
+|
+
+33 000
+
+|
