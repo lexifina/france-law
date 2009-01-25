@@ -26,7 +26,7 @@ au Journal officiel
 
 3.2.1. Accessibilité au site.
 
-3.2.6. Etablissement du dispositif hydraulique depuis les engins.
+3.2.5 Etablissement du dispositif hydraulique depuis les engins.
 
 5. Dispositions d'exploitation, à l'exception des deux premiers alinéas du point 5.1.
 
