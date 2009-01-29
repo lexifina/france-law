@@ -1,8 +1,6 @@
 # Article Annexe II
 
-PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES
-
-DE LA SECONDE FRACTION DE L'AIDE PUBLIQUE POUR 2008
+PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA SECONDE FRACTION DE L'AIDE PUBLIQUE POUR 2009
 
 PARTIS ET GROUPEMENTS POLITIQUES
 
@@ -22,7 +20,7 @@ MONTANT
 
 de l'aide publique
 
-attribuée pour 2008
+attribuée pour 2009
 
 |
 
@@ -46,19 +44,19 @@ Union pour un mouvement populaire
 
 |
 
-317
+316
 
 |
 
-164
+146
 
 |
 
-481
+462
 
 |
 
-21 400 875,97
+20 330 129,65
 
 |
 
@@ -66,19 +64,19 @@ Parti socialiste
 
 |
 
-191
+190
 
 |
 
-89
+104
 
 |
 
-280
+294
 
 |
 
-12 457 890,38
+12 937 355,23
 
 |
 
@@ -90,55 +88,35 @@ Parti communiste français
 
 |
 
-22
-
-|
-
-40
-
-|
-
-1 779 698,63
-
-|
-
-UDF - Mouvement démocrate
-
-|
-
-3
-
-|
-
-26
-
-|
-
-29
-
-|
-
-1 290 281,50
-
-|
-
-Fetia Api
-
-|
-
-18
-
-|
-
-5
-
-|
-
 23
 
 |
 
-1 023 326,71
+41
+
+|
+
+1 804 189,00
+
+|
+
+FETIA API
+
+|
+
+22
+
+|
+
+10
+
+|
+
+32
+
+|
+
+1 408 147,51
 
 |
 
@@ -150,15 +128,35 @@ Parti radical de gauche
 
 |
 
-6
+16
 
 |
 
-13
+23
 
 |
 
-578 402,05
+1 012 106,02
+
+|
+
+UDF - Mouvement démocrate
+
+|
+
+3
+
+|
+
+19
+
+|
+
+22
+
+|
+
+968 101,41
 
 |
 
@@ -178,27 +176,7 @@ Les Verts
 
 |
 
-400 432,19
-
-|
-
-Mouvement pour la France
-
-|
-
-3
-
-|
-
-3
-
-|
-
-6
-
-|
-
-266 954,79
+396 041,49
 
 |
 
@@ -206,7 +184,43 @@ Démocratie et République - anciennement Metz pour tous
 
 |
 
-0
+3
+
+|
+
+4
+
+|
+
+7
+
+|
+
+308 032,27
+
+|
+
+Mouvement pour la France
+
+|
+
+2
+
+|
+
+2
+
+|
+
+4
+
+|
+
+176 018,44
+
+|
+
+Parti progressiste martiniquais
 
 |
 
@@ -214,11 +228,15 @@ Démocratie et République - anciennement Metz pour tous
 
 |
 
-3
+1
 
 |
 
-133 477,40
+4
+
+|
+
+176 018,44
 
 |
 
@@ -226,23 +244,7 @@ Tahoeraa Huiraatira
 
 |
 
-2
-
-|
-
 1
-
-|
-
-3
-
-|
-
-133 477,40
-
-|
-
-Rassemblement pour la Calédonie
 
 |
 
@@ -250,15 +252,31 @@ Rassemblement pour la Calédonie
 
 |
 
-1
-
-|
-
 3
 
 |
 
-133 477,40
+132 013,83
+
+|
+
+Cap sur l'avenir
+
+|
+
+1
+
+|
+
+1
+
+|
+
+2
+
+|
+
+88 009,22
 
 |
 
@@ -278,7 +296,7 @@ Parti communiste réunionnais
 
 |
 
-88 984,93
+88 009,22
 
 |
 
@@ -298,27 +316,7 @@ Guadeloupe unie, socialisme et réalités
 
 |
 
-88 984,93
-
-|
-
-Archipel demain
-
-|
-
-0
-
-|
-
-1
-
-|
-
-1
-
-|
-
-44 492,47
+88 009,22
 
 |
 
@@ -338,7 +336,7 @@ Mouvement indépendantiste martiniquais
 
 |
 
-44 492,47
+44 004,61
 
 |
 
@@ -358,7 +356,7 @@ Rassemblement démocratique pour la Martinique
 
 |
 
-44 492,47
+44 004,61
 
 |
 
@@ -366,10 +364,6 @@ Parti socialiste guyanais
 
 |
 
-1
-
-|
-
 0
 
 |
@@ -378,27 +372,11 @@ Parti socialiste guyanais
 
 |
 
-44 492,47
-
-|
-
-Parti progressiste martiniquais
-
-|
-
 1
 
 |
 
-0
-
-|
-
-1
-
-|
-
-44 492,47
+44 004,61
 
 |
 
@@ -418,27 +396,7 @@ Parti communiste guadeloupéen
 
 |
 
-44 492,47
-
-|
-
-Cap sur l'avenir
-
-|
-
-1
-
-|
-
-0
-
-|
-
-1
-
-|
-
-44 492,47
+44 004,61
 
 |
 
@@ -458,7 +416,7 @@ La Relève
 
 |
 
-44 492,47
+44 004,61
 
 |
 
@@ -466,15 +424,15 @@ Total
 
 |
 
-572
+574
 
 |
 
-330
+338
 
 |
 
-902
+912
 
 |
 
