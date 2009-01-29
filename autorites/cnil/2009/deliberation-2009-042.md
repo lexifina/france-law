@@ -1,0 +1,129 @@
+# Délibération n°2009-042 du 29 janvier 2009 portant avis sur un projet de décret en Conseil d’Etat portant création du système d’analyse des liens de la violence associée aux crimes
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2009-042
+- Date : 2009-01-29
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000020972753
+
+(Demande d’avis n°1282395)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie pour avis par le ministère de l’intérieur, de l’outre-mer et des collectivités territoriales d’un projet de décret en Conseil d’Etat portant création du système d’analyse des liens de la violence associée aux crimes ;
+
+Vu la Convention n°108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé de données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n°2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, et notamment ses articles 8,10, 32, 40, 41 et 42 ;
+
+Vu la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure modifiée par la loi n° 2005-1549 du 12 décembre 2005 relative au traitement de la récidive des infractions pénales et notamment son article 21-1 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié par le décret n°2007-451 du 25 mars 2007 ;
+
+Vu le projet de décret en Conseil d’Etat portant création du système d’analyse des liens de la violence associée aux crimes ;
+
+Après avoir entendu M. Jean-Marie COTTERET, commissaire, en son rapport, et Mme Pascale COMPAGNIE, commissaire du Gouvernement, en ses observations ;
+
+Emet l’avis suivant :
+
+La Commission a été saisie par le ministère de l’intérieur, de l’outre-mer et des collectivités territoriales d'une demande d'avis relative à un projet de décret en Conseil d'Etat portant création d'un traitement de données à caractère personnel dénommé « SALVAC » (Système d’Analyse des Liens de la Violence Associée aux Crimes). Cette demande est présentée sur le fondement de l'article 26-II de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004.
+
+L’article 30 de la loi n°2005-1549 du 12 décembre 2005 relative au traitement de la récidive des infractions pénales a introduit un nouvel article 21-1 dans la loi n°2003-239 du 18 mars 2003 pour la sécurité intérieure, créant ainsi un cadre législatif spécifique pour les fichiers d’analyse criminelle de type SALVAC. Aux termes de l’article 21-1 de la loi précitée « les services et unités de la police et de la gendarmerie nationales chargés d'une mission de police judiciaire peuvent mettre en œuvre, sous le contrôle des autorités judiciaires, des traitements automatisés de données à caractère personnel collectées au cours des enquêtes préliminaires ou de flagrance ou des investigations exécutées sur commission rogatoire et concernant tout crime ou délit portant atteinte aux personnes punis de plus de cinq ans d'emprisonnement ou portant atteinte aux biens et punis de plus de sept ans d'emprisonnement, ou collectées au cours des procédures de recherche de cause de la mort et des causes de disparitions inquiétantes, afin de faciliter la constatation des crimes et délits présentant un caractère sériel, d'en rassembler les preuves et d'en identifier les auteurs, grâce à l'établissement de liens entre les individus, les événements ou les infractions pouvant en mettre en évidence ce caractère sériel ».
+
+Le traitement SALVAC concerne non seulement les personnes mises en cause et les victimes, mais aussi les personnes à l'encontre desquelles il existe des raisons sérieuses de soupçonner qu'elles ont commis ou tenté de commettre une infraction (simples suspects) et les personnes susceptibles de fournir des renseignements sur les faits au sens des articles 62, 78 et 101 du code de procédure pénale et dont l'identité est citée dans une procédure concernant une infraction. Les modalités d’application de ce texte doivent être fixées par un décret en Conseil d’Etat pris après avis de la CNIL.
+
+Les informations enregistrées sont issues non seulement des procédures en cours, mais aussi des procédures anciennes, même éteintes par la prescription de l’action publique, et des procédures pour lesquelles l’auteur a fait l’objet d’une décision de classement sans suite, de non-lieu, de relaxe, ou d’acquittement exclusivement fondée sur l’existence d’un trouble mental en application des dispositions du premier alinéa de l’article 122-1 du code pénal.
+
+Sur la finalité du traitement
+
+Aux termes de l’article 1er du projet de décret, la finalité du SALVAC est l’exploitation des informations issues des procédures judiciaires visées à l’article 2 du projet de décret, établies par les services de la police et de la gendarmerie nationales, afin d’opérer des liens entre ces informations et de mettre en évidence le caractère sériel des infractions, en vue d’en faciliter la constatation et d’en identifier les auteurs. Ce traitement a également pour objet l’exploitation des données recueillies à des fins de recherche statistique, permettant de connaitre par exemple le nombre de rapprochements effectués, le nombre de séries criminelles en cours ou le nombre de liens positifs établis.
+
+Les données sont renseignées à l’aide de questionnaires détaillés sur les caractéristiques des affaires, adressés par les services enquêteurs à une cellule spécifique de l’Office Central pour la Répression des Violences aux Personnes, composée d’officiers de police judiciaire spécialement formés à cet effet.
+
+A partir de ces données, les membres de la cellule procèdent, à l’aide du logiciel, à une analyse approfondie des affaires et établissent un rapport proposant des orientations d’enquêtes aux services de police et de gendarmerie qui assurent le suivi de ces affaires.
+
+La Commission relève que le traitement présente une finalité exclusivement judiciaire, et qu’il se limite à opérer des rapprochements entre des faits pouvant présenter un caractère sériel, de façon à mettre en évidence des liens potentiels entre des affaires qui n’ont pu être résolues par des méthodes classiques d’enquêtes et uniquement pour les infractions les plus graves. Elle prend ainsi acte que conformément à l’article 10 de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004, aucune décision n’est donc prise sur le seul fondement du traitement.
+
+Dans ces conditions, la Commission considère, compte tenu du caractère exceptionnellement grave des infractions concernées, que la mise en œuvre du traitement SALVAC est légitime, dès lors qu’elle se limite à ce champ d’infractions restreint.
+
+Sur les données traitées
+
+Les rapprochements opérés entre les procédures supposent l’enregistrement sous une forme détaillée, des caractéristiques des affaires qu’il s’agisse des signalements, du mode opératoire ou d’éléments relatifs notamment aux comportements de la victime ou de l’agresseur.
+
+Il est précisé aux termes du second alinéa de l’article 1er du projet de décret qu’il peut être procédé à l’enregistrement des données à caractère personnel de la nature de celles mentionnées au I de l’article 8 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004. Seuls l’agresseur et la victime sont concernés par le traitement des données sensibles.
+
+La Commission prend acte que sont enregistrées dans le SALVAC des informations détaillées sur le signalement des victimes et des agresseurs ainsi que sur les caractéristiques de leur mode de vie, parmi lesquelles peuvent figurer des données sur les caractéristiques physiques des personnes et leurs types ethniques supposés, des données sur leurs pratiques sexuelles ou sur leur santé, ainsi que sur leurs éventuelles activités associatives, politiques ou religieuses.
+
+Concernant « le type ethnique » et « la couleur de la peau »
+
+Les questionnaires comportent des champs relatifs à l’apparence du visage de la victime ou de l’agresseur au moment de l’agression, divisés en deux sous-catégories : « type ethnique » et la « couleur de la peau ».
+
+Huit « types ethniques » ont ainsi été déterminés : africain / antillais, blanc, nord africain, oriental/asiatique, indes orientales, hispanique/méditerranéen, moyen-oriental, autres-précisez.
+
+La Commission estime que l’application SALVAC, compte tenu de sa finalité spécifique, peut légitimement contenir des informations détaillées relatives au signalement fondées sur l’apparence des victimes ou des agresseurs.
+
+La Commission considère toutefois que l’intitulé « type ethnique » n’est pas adéquat dans la mesure où cette rubrique est constituée à partir de données recueillies dans des témoignages, incluant une part de subjectivité importante.
+
+La Commission prend acte de l’engagement du ministère de remplacer l’intitulé « type ethnique » par l’intitulé « type physique apparent », conformément à sa demande.
+
+La Commission estime par ailleurs que la mention de la couleur de la peau de la victime ou de l’agresseur peut être admise compte tenu de la finalité de recherche criminelle du traitement, en tant qu’elle constitue un signe physique, objectif et permanent pouvant contribuer au signalement et à l’identification de l’agresseur.
+
+Sur les personnes concernées
+
+Le traitement SALVAC comporte des données non seulement sur les personnes mises en cause et les victimes mais aussi sur les simples suspects et les personnes susceptibles de fournir des renseignements sur les faits au sens des articles 62, 78 et 101 du code de procédure pénale et dont l'identité est citée dans une procédure concernant une infraction visée à l’article 2 du projet de décret.
+
+La Commission prend acte que les catégories de personnes susceptibles d’être inscrites dans le traitement SALVAC sont donc plus étendues que dans le cadre du fichier STIC, dès lors qu’il suffit soit, de raisons sérieuses, laissées à l’appréciation des enquêteurs, de soupçonner qu’une personne a commis ou tenté de commettre un crime ou un délit grave, soit d’avoir été cité dans une procédure, pour figurer dans SALVAC.
+
+Sur les durées de conservation, la mise à jour et l’effacement des données
+
+L’article 6 du projet de décret prévoit que les données collectées pourraient être conservées dans l’application SALVAC pendant quarante ans, à compter de la date de leur enregistrement, sous réserve que leur effacement n’ait pas été ordonné antérieurement dans les conditions prévues à l’article 3 du projet de décret.
+
+La durée de conservation envisagée serait identique pour toutes les personnes répertoriées dans ce fichier, le ministère estime en effet qu’une durée de conservation unique est justifiée par la finalité particulière du traitement.
+
+L’article 3 du projet de décret prévoit que : « le responsable du traitement est tenu de modifier ou d‘effacer les données enregistrées dès qu’il constate qu’elles sont inexactes, incomplètes ou périmées.
+
+Toute personne mise en cause lors d’une enquête préliminaire, de flagrance ou sur commission rogatoire d’une juridiction d’instruction peut exiger que la qualification des faits finalement retenue par l’autorité judicaire soit substituée à la qualification initialement enregistrée dans le fichier.
+
+Toute personne ayant bénéficié d’une mesure de classement sans suite pour insuffisance de charges, d’une décision de non-lieu, de relaxe ou d’acquittement devenue définitive peut demander que le fichier soit mis à jour par le responsable du traitement (…) »
+
+Tout en prenant acte de ce que le ministère s’est engagé à diffuser une circulaire définissant les modalités de transmission par le parquet au gestionnaire de SALVAC des suites judiciaires des affaires entrant dans son champ de compétence, la Commission appelle de nouveau l’attention de ce dernier compte tenu des difficultés qu’elle a constatées à plusieurs reprises s’agissant de la procédure de mise à jour et d’effacement des données du fichier STIC, sur la nécessité de mettre en place une procédure qui assure de façon effective et rapide la transmission de ces informations au gestionnaire du fichier SALVAC.
+
+Par ailleurs, la Commission prend acte que le ministère a indiqué que la mise à jour des informations contenues dans SALVAC peut intervenir à tout moment dès lors qu’elle est susceptible d'être opérée par les analystes (d'initiative ou à la demande des enquêteurs saisis des faits) lorsque des éléments nouveaux sont portés à leur connaissance, ces éléments pouvant aboutir, à la mise hors de cause d'un suspect et donc à sa radiation de la base.
+
+S’agissant des destinataires
+
+Au sein de la cellule SALVAC, seuls les officiers de police judiciaire de la police et de la gendarmerie nationales spécialement affectés à l’utilisation de SALVAC auront accès à l’application. Pourront également être destinataires des résultats des analyses effectuées par les personnels précités, les officiers de police judiciaire de la police et de la gendarmerie nationales saisis d’une enquête de police judiciaire relative à l’une des infractions ou à l’une des procédures visées à l’article 2 du projet de décret, les magistrats du parquet ou les magistrats instructeurs, pour les investigations relatives aux infractions et procédures dont ils sont saisis et les organismes de coopération internationale en matière de police judiciaire et les services de police étrangers.
+
+La Commission prend acte que le ministère, suite à sa demande, complétera l’article 5 du projet de décret afin de préciser que les agents individuellement désignés et spécialement habilités ne pourront accéder aux données enregistrées que dans la limite du besoin d’en connaître.
+
+L’article 5-3) du projet de décret prévoit que : « les organismes de coopération internationale en matière de police judiciaire et les services de police étrangers, dans les conditions énoncées à l’article 24 de la loi du 18 mars 2003 », peuvent être destinataires du résultat des analyses effectuées par le personnel SALVAC.
+
+Le ministère de l’Intérieur a précisé que cette transmission s’opère par voie de rapport, transmis par les canaux officiels de coopération internationale, avec la signature du chef de l’OCRVP et qu’il n’existe aucune interconnexion entre les traitements des différents pays. Ces échanges de données se font dans le cadre d’Interpol ou bien lors d’une demande d’entraide judiciaire ou d’une commission rogatoire internationale.
+
+Dans la mesure où ces données sont susceptibles d’être communiqués à des Etats tiers à l’Union européenne, ces traitements sont susceptibles d’entrer dans le champ d’application de l’article 68 de la loi du 6 janvier 1978 modifiée.
+
+Il convient de rappeler qu’aux termes du premier alinéa de l’article 68 de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004, « le responsable d’un traitement ne peut transférer des données à caractère personnel vers un Etat n’appartenant pas à la Communauté européenne que si cet Etat assure un niveau de protection suffisant de la vie privée, des libertés et des droits fondamentaux des personnes à l’égard du traitement dont ces données font l’objet ou peuvent faire l’objet ».
+
+Dès lors, il y a lieu de s’assurer que les transferts de données s’effectueront conformément aux dispositions du deuxième alinéa de l’article 68 précité, qui dispose que « le caractère suffisant du niveau de protection assuré par un Etat s’apprécie en fonction notamment des dispositions en vigueur dans cet Etat, des mesures de sécurité qui y sont appliquées, des caractéristiques propres du traitement, telles que ses fins et sa durée, ainsi que de la nature, de l’origine et de la destination des données traitées ».
+
+Dans la mesure où d’autres échanges d’informations seraient envisagées à l’avenir la Commission souhaite être associée à la préparation et à la définition de la position française dans les négociations internationales susceptibles d’avoir une incidence sur la liste des destinataires du SALVAC, en application des dispositions de l’article 11-4-d) de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004, et à être consulté sur les éventuels projets de loi de ratification des traités conclus à la suite desdites négociations, conformément aux dispositions de l’article 11-4-a) de la même loi.
+
+Sur l’information des personnes
+
+La Commission prend acte que le ministère de l’intérieur considère que le droit d’information prévu au I de l’article 32 de la loi du 6 janvier 1978, modifiée par la loi du 6 août 2004, et le droit d’opposition prévu à l’article 38 de la même loi ne s’appliquent pas au traitement considéré, en vertu des dispositions du VI de l’article 32 précité.
+
+Sur les sécurités
+
+Seuls les personnels de police et de la gendarmerie nationales spécialement affectés à la cellule SALVAC, individuellement désignés et spécialement habilités, ont accès au traitement SALVAC. Chaque analyste accède au traitement par son nom et un numéro de code dont la durée de validité est limitée. Une charte de sécurité est remise à chaque agent.
+
+La Commission prend acte de l’engagement du ministère de modifier la gestion des mots de passe afin, de paramétrer ceux-ci pour qu’ils soient systématiquement au minimum de 8 caractères, que leur durée de vie soit de 180 jours maximum, qu’une historisation permette de ne pas réutiliser les 5 derniers mots de passe, et que la durée de verrouillage des postes a été portée à 30 minutes après 3 tentatives d’ouverture avortées.
+
+L’article 6 du projet de décret prévoit en outre que « les consultations font l’objet d’un enregistrement comprenant l’identifiant du consultant, la date et l’heure de la consultation. Ces données sont conservées pendant un délai de trois ans ».
+
+Le Président,
+
+Alex TURK
