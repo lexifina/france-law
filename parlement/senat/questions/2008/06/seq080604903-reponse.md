@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080604903
+
+- Question : [SEQ080604903](seq080604903.md) — Nécessité d'une harmonisation européenne de l'interprétation des normes
+
+## Réponse
+
+*Commerce, JO du 2009-01-29, page 233*
+
+Le Gouvernement, soucieux de remédier à certaines divergences entre États membres dans l'application des règles régissant la libre circulation des produits au sein du marché intérieur, a contribué activement à la révision de la législation communautaire pour renforcer l'harmonisation des pratiques. Ces travaux ont abouti à l'adoption, le 9 juillet 2008, du règlement (CE) n° 765/2008 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et de la décision n° 768/2008/CE relative à un cadre commun pour la commercialisation des produits. Ces textes donnent un cadre commun aux modalités d'évaluation de la conformité des produits que les fabricants et importateurs mettent sur le marché ainsi qu'à la surveillance du marché réalisée par les autorités nationales de contrôle. Ils visent à renforcer la compétence, la qualité et l'homogénéité des prestations offertes par les organismes tiers procédant à l'évaluation de la conformité des produits, avant leur mise sur le marché, en leur fixant des exigences. L'accréditation est un mode privilégié d'attestation du respect de ces exigences et sera réalisée dans chaque État membre par un organisme unique indépendant des fabricants et des organismes d'évaluation de la conformité. En France, il s'agit du Comité français d'accréditation (COFRAC). Le règlement et la décision permettent de consolider tout le système européen d'évaluation de la conformité, et notamment de donner à l'accréditation un statut relevant de l'intérêt général. Ainsi les pratiques de chacun des États membres s'appuieront sur des références communes plus strictes limitant les interprétations nationales.
