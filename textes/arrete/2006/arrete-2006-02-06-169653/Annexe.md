@@ -91,3 +91,9 @@ Lyon-Agadir (Maroc).
 Marseille-Djerba (Tunisie).
 
 Lyon-Djerba (Tunisie).
+
+Jusqu'au 31 janvier 2014
+
+Paris - Abidjan (Côte d'Ivoire) ;
+
+Lille - Oran (Algérie).
