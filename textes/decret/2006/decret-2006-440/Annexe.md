@@ -144,7 +144,7 @@ Le bénéficiaire dispose d'un délai de huit jours à compter de cette décisio
 
 Ce comité dispose d'un délai de 15 jours pour entendre les parties et faire connaître au bénéficiaire et à la filiale de l'Association nationale pour la formation professionnelle des adultes son avis. Le chef de projet arbitre en dernier ressort.
 
-En tout état de cause, à défaut de conciliation, les litiges persistants sont portés à l'initiative de la partie la plus diligente devant le tribunal de grande instance de .
+En tout état de cause, à défaut de conciliation, les litiges persistants sont portés à l'initiative de la partie la plus diligente devant la juridiction compétente................
 
 Article 6
 
