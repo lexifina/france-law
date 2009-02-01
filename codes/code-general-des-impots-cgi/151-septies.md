@@ -54,6 +54,8 @@ Pour l'application de la troisième condition, les recettes afférentes à une l
 
 La location du local d'habitation est réputée commencer à la date de son acquisition ou, si l'acquisition a eu lieu avant l'achèvement du local, à la date de cet achèvement.L'année où commence la location, les recettes y afférentes sont, le cas échéant, ramenées à douze mois pour l'appréciation des seuils mentionnés aux 2° et 3°. Il en est de même l'année de cessation totale de l'activité de location.
 
+VIII.-Les dispositions du présent article ne s'appliquent pas aux transferts de biens ou de droits dans un patrimoine fiduciaire effectués dans le cadre d'une opération de fiducie définie à l'article 2011 du code civil.
+
 NOTA :
 
 Conformément à l'article 1 de la décision n° 2017-689 QPC du 8 février 2018, le mot " trois " figurant dans la seconde phrase du premier alinéa et le 1° du paragraphe VII de l' article 151 septies du code général des impôts, dans ses rédactions résultant de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et de l' ordonnance n° 2009-112 du 30 janvier 2009 portant diverses mesures relatives à la fiducie est contraire à la Constitution. Conformément à l'article 2, la déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées au paragraphe 12 de cette décision.
