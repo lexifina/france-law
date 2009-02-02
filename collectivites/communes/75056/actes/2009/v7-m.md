@@ -1,0 +1,9 @@
+# Paris : acte V7 M — Voeu rattaché au projet de délibération 2009 DVD 79 et relatif aux aménagements cyclables dans le 12e arrondissement.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2009-02-02
+- Nature : V
+- Objet : Voeu rattaché au projet de délibération 2009 DVD 79 et relatif aux aménagements cyclables dans le 12e arrondissement.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
