@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206488
+
+- Question : [SEQ081206488](seq081206488.md) — Prêts bonifiés CUMA
+
+## Réponse
+
+*Agriculture, JO du 2009-02-05, page 302*
+
+Jusqu'en 2007, les prêts MTS-CUMA et les prêts spéciaux de modernisation (PSM) étaient imputés sur la même enveloppe budgétaire, ce qui a conduit à des arbitrages au niveau local. Ainsi, dans plusieurs départements, où le nombre de demandes de PSM a été particulièrement important, l'enveloppe commune a pu être consommée avant la fin de l'année au détriment des CUMA. Des files d'attentes se sont alors constituées, ce qui a conduit le ministère à traiter ce sujet de manière prioritaire en 2008. La loi de finances pour 2008 prévoyait une enveloppe de 3,6 millions d'euros d'autorisations d'engagement pour le dispositif précité (MTS-CUMA et PSM). Dans la mesure où le dispositif PSM n'a pas été reconduit en 2008, ce montant est réservé aux seuls prêts MTS-CUMA. L'arrêté du 11 avril 2007, élaboré en accord avec la Fédération nationale des CUMA (FN-CUMA), a introduit des conditions financières favorables aux CUMA en abaissant les taux réglementaires des prêts MTS-CUMA. Ils sont ainsi passés de 4 % à 2,8 % en zone de plaine et de 3 % à 2,4 % en zone défavorisée. Par ce biais, le ministère de l'agriculture et de la pêche a réaffirmé son attachement au développement des équipements collectifs tels qu'ils sont portés par les CUMA. Au cours de la gestion 2008, plusieurs enveloppes CUMA ont été notifiées auprès des préfets de région. À ce titre, c'est à ce jour une enveloppe totale de 4,5 millions d'euros calibrée à partir des consommations des années précédentes et des besoins recensés par les représentants professionnels qui a été déléguée. Pour 2009, le maintien du dispositif des prêts MTS-CUMA a été confirmé. Son financement est prévu dans le cadre de la loi de finances. Les modalités (taux et liste du matériel éligible) sont en cours de discussion avec les professionnels.
