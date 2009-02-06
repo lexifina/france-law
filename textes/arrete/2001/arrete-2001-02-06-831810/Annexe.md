@@ -464,32 +464,6 @@ b) Réservé aux professionnels. Contient des diaminotoluènes. Peut provoquer u
 
 |
 
-10
-
-|
-
-Diaminophénols (1) |
-
-Colorants d'oxydation pour la coloration des cheveux :
-
-a) Usage général
-
-b) Usage professionnel
-
-|
-
-10 % (en base libre).
-
-|
-
-|
-
-a) Peut provoquer une réaction allergique. Contient des diaminophénols. Ne pas employer pour la coloration des cils et des sourcils.
-
-b) Réservé aux professionnels. Contient des diaminophénols. Peut provoquer une réaction allergique. Porter des gants appropriés.
-
-|
-
 11
 
 |
@@ -582,35 +556,11 @@ Hydroquinone (3xx).
 
 |
 
-a) Agent colorant d'oxydation pour la teinture des cheveux
-
-1. Usage général
-
-|
-
-0, 3 %
-
-|
-
-|
-
-a) 1. Ne pas employer pour la coloration des cils ou des sourcils Rincer immédiatement les yeux si le produit entre en contact zvec ceux-ci Contient de l'hydroquinone
-
 |
 
 |
 
 |
-
-2. Usage professionnel
-
-|
-
-|
-
-|
-
-b) Pour usage professionnel uniquement. - Eviter le contact avec la peau. - Lire attentivement le mode d'emploi.
 
 |
 
