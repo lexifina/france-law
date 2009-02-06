@@ -182,7 +182,7 @@ N
 
 |
 
--6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »
+-6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre
 
 |
 
@@ -328,7 +328,7 @@ Total de l'actif
 
 (1) Ainsi modifié par arrêtés du 19 avril 1995, article 3-III et du 28 juillet 1995, article 3-III (1°).
 
-N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé " Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. »
+N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé " Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques.
 
 |
 
@@ -1144,7 +1144,7 @@ Net du compte 59.
 
 |
 
-482, 4830, 486 » (1), 487 et 489 » (2)
+482, 4830, 486 (1), 487 et 489 (2)
 
 |
 
@@ -1258,7 +1258,7 @@ COMMENTAIRE
 
 Respectivement 31, 30, 32, 33, 34, 35, 36, 370
 
-et 374 et 377, 372 et 375
+et 374 et 377, 372 et 375, 379
 
 |
 
@@ -1398,7 +1398,7 @@ Soldes créditeurs.
 
 |
 
-484, 4850, 486 » (1), 487 et 489 » (2)
+484, 4850, 486 (1), 487 et 489 (2)
 
 |
 
@@ -1426,7 +1426,7 @@ Règles de raccordement des comptes au bilan
 
 (tableau des engagements reçus et donnés)
 
-Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 » : raccordement aux sous-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 ».
+Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 : raccordement aux sous-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 .
 
 Commentaires particuliers :
 
@@ -1458,7 +1458,7 @@ Toutes opérations non inscrites au passif du bilan par lesquelles l'entreprise 
 
 |
 
-Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 » par lesquelles l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
+Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 par lesquelles l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :
 
 -les garanties d'acquisition d'immeuble ;
 
