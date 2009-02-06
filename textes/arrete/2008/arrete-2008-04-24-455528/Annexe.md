@@ -26,6 +26,8 @@ Rectification d'erreurs matérielles par requête : 50,00
 
 Requête en poursuite de procédure 100,00
 
+Requête en limitation : 250, 00
+
 Délivrance et impression du fascicule : 86,00
 
 Redevance annuelle de maintien en vigueur d'un brevet ou d'un certificat d'utilité :
