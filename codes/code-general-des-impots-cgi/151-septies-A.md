@@ -16,7 +16,7 @@ I.-Les plus-values soumises au régime des articles 39 duodecies à 39 quindecie
 
 I bis-L'exonération prévue au I s'applique dans les mêmes conditions aux plus-values en report d'imposition sur le fondement du I ter de l'article 93 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A et du I de l'article 151 octies B.
 
-I ter-Sont également éligibles au présent dispositif, dans les conditions du I et pour la seule plus-value imposable au nom de l'associé, les cessions d'activité réalisées par les sociétés visées au 2° du I à condition qu'il soit procédé à la dissolution de la société de manière concomitante à la cession et que ledit associé fasse valoir ses droits à la retraite dans les douze mois suivant ou précédant la cession.
+I ter-Sont également éligibles au présent dispositif, dans les conditions du I et pour la seule plus-value imposable au nom de l'associé, les cessions d'activité réalisées par les sociétés visées au 2° du I à condition qu'il soit procédé à la dissolution de la société de manière concomitante à la cession et que ledit associé fasse valoir ses droits à la retraite dans les deux années suivant ou précédant la cession.
 
 II.-L'exonération prévue au I est remise en cause si le cédant relève de la situation mentionnée au 4° du I à un moment quelconque au cours des trois années qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au présent article.
 
@@ -72,4 +72,4 @@ VI.-L'option pour le bénéfice du régime défini au présent article est exclu
 
 NOTA :
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 38 III : Les I et II sont applicables aux cessions réalisées à compter du 1er janvier 2009.
+Loi n° 2009-122 du 4 février 2009 de finances rectificative pour 2009 article 2 : Le I est applicable aux cessions réalisées à compter du 1er janvier 2009.
