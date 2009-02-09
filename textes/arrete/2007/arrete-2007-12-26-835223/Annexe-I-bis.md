@@ -22,7 +22,7 @@ euros
 
 euros
 
-4. Remise brute due aux débitants au titre des autres produits du tabac (10,753 %) :
+4. Remise brute due aux débitants au titre des autres produits du tabac (10,920 %) :
 
 euros
 
@@ -30,7 +30,7 @@ euros
 
 euros
 
-6. Remise nette due aux débitants au titre des autres produits du tabac (8,167 %) :
+6. Remise nette due aux débitants au titre des autres produits du tabac (8,330 %) :
 
 euros
 
