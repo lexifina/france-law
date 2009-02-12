@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905629
+
+- Question : [SEQ080905629](seq080905629.md) — Rôle et missions des juridictions financières
+
+## Réponse
+
+*Budget, JO du 2009-02-12, page 383*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative au rôle et missions des juridictions financières. Le Président de la République, en novembre 2007, lors de la séance solennelle du bicentenaire de la Cour des Comptes, a demandé au Premier Président de la Cour de lui adresser des propositions de réforme des juridictions financières pour renforcer encore leur rôle et leur utilité. Le Président de la République a fait connaître en avril dernier au Premier Président, quelles étaient ses orientations sur ce sujet. Il s'agit, notamment, de reconnaître de nouvelles attributions aux juridictions financières et d'adapter leur organisation aux nouvelles exigences de la gestion publique. Pour réfléchir à l'ensemble de ces évolutions, le Premier Président a lancé une large concertation au sein des juridictions financières, de la mi-avril à la mi-juillet, portant sur l'évolution de leurs missions et de leur organisation. L'ensemble des positions prises dans ce cadre ont été transmises pendant l'été aux services du premier ministre. S'agissant de la procédure de gestion de fait, les dispositions nouvelles de la loi n° 2008-1091 relative à la Cour des Comptes et aux chambres régionales des comptes ont apporté d'utiles précisions. Ainsi, il est prévu que le ministère public près les chambres régionales des comptes doit requérir l'instruction d'une gestion de fait, lorsqu'il relève, dans les rapports à fin juridictionnelle qui lui sont transmis, des éléments qui la laisse présumer. Ce réquisitoire peut être également pris sur la base de toutes les autres informations dont dispose le Commissaire du Gouvernement, celles-ci pouvant assurément lui être communiquées par les collectivités territoriales.
