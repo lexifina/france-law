@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106086
+
+- Question : [SEQ081106086](seq081106086.md) — Maladie d'Alzheimer et soins dentaires
+
+## Réponse
+
+*Santé, JO du 2009-02-12, page 393*
+
+Les amalgames dentaires à base de mercure, d'argent et d'étain sont utilisés pour le traitement des caries depuis plus de cent cinquante ans et constituent un matériau d'obturation de bonne qualité, encore sans équivalent dans de nombreux cas, en particulier dans le traitement de lésions carieuses multiples et étendues chez l'enfant, l'adolescent et l'adulte jeune. Malgré les très nombreux amalgames dentaires posés depuis des décennies, on ne connaît pas un seul cas avéré d'intoxication mercurielle d'un patient par les amalgames dont il est porteur. Les doses de mercure libérées dans l'organisme par les amalgames dentaires sont infimes et, en tout état de cause, très en deçà des seuils auxquels des effets toxiques pourraient être observés. Aucune étude scientifique n'a pu démontrer des effets néfastes des obturations en amalgame sur l'état de santé général des patients. En l'état actuel des connaissances, rien ne permet d'affirmer que les amalgames dentaires présentent un risque sérieux pour la santé de la population. L'hypothèse avancée par de rares articles, selon laquelle il pourrait y avoir un lien entre amalgames et maladie d'Alzheimer, n'est actuellement étayée par aucun fait observable ni par aucun argument théorique probant. Les pays qui ont interdit ou restreint l'utilisation des amalgames dentaires l'ont fait en se fondant sur des considérations environnementales et non pas en raison d'une hypothétique toxicité des amalgames sur les personnes soignées. Une information objective et très complète sur ce sujet est disponible dans le rapport de l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) d'octobre 2005, intitulé « Le mercure des amalgames dentaires ». Ce rapport peut être consulté sur le site internet de l'AFSSAPS.
