@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905475
+
+- Question : [SEQ080905475](seq080905475.md) — Mise en oeuvre du programme de vaccination contre la fièvre catarrhale ovine
+
+## Réponse
+
+*Agriculture, JO du 2009-02-12, page 376*
+
+La vaccination est un acte vétérinaire qui relève de la responsabilité des vétérinaires de même que la certification. Cette certification garantit la crédibilité de notre système sanitaire en matière de santé animale à l'égard de nos partenaires communautaires et internationaux. Le code rural caractérise comme exercice illégal de la médecine ou de la chirurgie des animaux le fait, pour toute personne qui ne remplit pas les conditions d'obtention du diplôme de vétérinaire et d'inscription à l'ordre des vétérinaires, de donner des consultations, établir des diagnostics ou des expertises, délivrer des prescriptions ou certificats, pratiquer des soins préventifs ou curatifs ou des interventions de convenance ou procéder à des implantations sous-cutanées. À la demande du Premier ministre, le sénateur Guené a conduit une étude relative à l'évolution de l'exercice de la médecine vétérinaire. Il a remis un rapport qui propose notamment de donner la possibilité aux éleveurs de vacciner leurs animaux mais ce, lorsque la vaccination est facultative et qu'elle ne nécessite pas de certification. Cette proposition sera mise en oeuvre dans les meilleurs délais. En outre, un groupe de travail sera mis en place pour définir les conditions dans lesquelles la vaccination pourrait être effectuée, lorsqu'elle est obligatoire, sous la responsabilité et en présence du vétérinaire. La direction générale de l'alimentation actualisera également avec la profession vétérinaire la définition de l'acte vétérinaire et les modalités de fixation des tarifs forfaitaires d'intervention, notamment dans le cadre du mandat sanitaire.
