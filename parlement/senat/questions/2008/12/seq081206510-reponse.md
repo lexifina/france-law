@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206510
+
+- Question : [SEQ081206510](seq081206510.md) — Condamnation de médecins en Arabie saoudite
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-02-12, page 376*
+
+L'exercice par notre pays de la présidence du Conseil de l'Union européenne, a été l'occasion d'accroître la portée de nos actions pour le respect des droits des individus en Arabie saoudite. C'est ainsi que la présidence française a exprimé sa condamnation des violations des droits de l'homme par des démarches auprès des autorités saoudiennes, comme dernièrement auprès du roi Abdallah afin de solliciter la grâce d'un condamné à mort, M. Abdallah Fandi Al Shammari. La France a saisi par ailleurs toutes les occasions pour manifester publiquement sa préoccupation lorsque cela était nécessaire. Dans sa déclaration du 3 novembre dernier, elle a condamné avec force la multiplication des condamnations à mort prononcées et appliquées par les autorités saoudiennes. L'Union européenne a également eu des échanges réguliers avec les autorités saoudiennes sur les droits de l'homme, notamment au moyen d'un groupe local de dialogue qui vient d'être établi. Les autorités françaises, sont très attentives à l'évolution de la situation des deux médecins égyptiens condamnés à 1 500 coups de fouet et à quinze ans de prison. Cette affaire révèle certains dysfonctionnements du système judiciaire saoudien et la situation de vulnérabilité dans laquelle peuvent se trouver certains étrangers en Arabie saoudite. Au moment où l'Arabie saoudite sollicite la coopération de plusieurs pays européens pour la réforme de son système judiciaire, engagée par le roi Abdallah, les autorités françaises et l'UE s'impliquent plus que jamais pour que les lois saoudiennes soient mises en conformité avec les normes internationales relatives aux droits de l'homme.
