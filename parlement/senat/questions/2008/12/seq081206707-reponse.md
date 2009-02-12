@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206707
+
+- Question : [SEQ081206707](seq081206707.md) — Défense de la forêt
+
+## Réponse
+
+*Agriculture, JO du 2009-02-12, page 381*
+
+L'encadrement de la gestion forestière est défini dans le code forestier. Depuis la loi d'orientation forestière de 2001 qui énumère et décrit les documents de gestion durable, aucun changement législatif ou réglementaire n'a modifié ce cadre juridique. Toutefois, d'autres réglementations qui viennent s'ajouter au code forestier ont beaucoup évolué ces dernières années. Elles sont notamment liées au caractère multifonctionnel de la forêt tel qu'énoncé dans le code forestier, ce qui signifie en particulier qu'au delà de son rôle économique, la forêt doit satisfaire les fonctions écologiques et sociales. Les fonctions écologiques de la forêt tiennent à la préservation de la faune et de la flore. Elles donnent lieu à plusieurs réglementations du code de l'environnement, dont celle relative à Natura 2000. Ces réglementations imposent des contraintes supplémentaires aux propriétaires forestiers qui doivent être prises en compte par les documents de gestion. Cependant, afin de faciliter les démarches administratives des propriétaires de forêt ayant un document de gestion valant garantie de gestion durable, le code forestier (articles L. 11 et R. 11-1 à R. 11-8) a prévu une procédure de simplification notamment pour les réglementations relevant du code de l'environnement. La mise en oeuvre de cette procédure qui est à l'initiative du propriétaire, assure la pérennité du document de gestion puisque dès lors qu'il est agréé au titre de l'article L. 11, le document de gestion peut être appliqué jusqu'à son terme sans être remis en cause. En outre, pour le cas de Natura 2000, elle dispense de l'évaluation environnementale.
