@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102589
+
+- Question : [SEQ071102589](seq071102589.md) — Sous-financement des missions régaliennes liées à l'exploitation d'aérodrome
+
+## Réponse
+
+*Écologie, JO du 2009-02-12, page 388*
+
+Les mesures de sécurité et de sûreté sur les aéroports sont une nécessité incontestable. Ces missions d'intérêt général sont mises en oeuvre d'abord pour les acteurs et les usagers du transport aérien, passagers, transporteurs aériens et exploitants d'aéroports. Leur financement à partir de ressources issues du transport aérien est légitime au plan économique. Par ailleurs, les préoccupations de développement équilibré du territoire commandent de maintenir un soutien national au profit des aéroports des régions à plus faible trafic. C'est sur ces principes que le dispositif de financement de ces missions a été conçu en 1999. Toutefois, pour de nombreux aéroports moyens et petits, l'augmentation des coûts a été telle qu'il n'était plus possible d'assurer la totalité du financement des missions considérées. Le déficit de financement cumulé qui s'est accentué en 2005, en 2006 et en 2007 a justifié l'institution par la loi de finances 2008 de la majoration de la taxe d'aéroport, dont le tarif a été fixé à 0,88 € par passager pour 2008 et maintenu pour 2009, et qui doit permettre de résorber progressivement le déficit de financement des années précédentes. Il importe que l'évolution du tarif actuel de la majoration, même si l'impact de cette dernière sur le trafic commercial est très faible, soit maintenue dans les prochaines années en deçà du plafond législatif de 1 € par passager. Il est donc attendu des exploitants d'aéroports, qu'à niveau de prescriptions réglementaires constant, ils améliorent la productivité et l'efficacité de leurs dispositifs de sécurité et de sûreté pour en maîtriser, voire en diminuer, les coûts.
