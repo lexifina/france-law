@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106247
+
+- Question : [SEQ081106247](seq081106247.md) — Conséquences de l'informatisation de l'administration consulaire
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-02-12, page 375*
+
+L'afflux des demandeurs de visas dans les locaux des représentations françaises à l'étranger, dont ni les infrastructures ni les ressources humaines ne permettent d'accueillir simultanément des centaines de personnes, occasionne des files d'attente difficilement gérables et qui sont par ailleurs appelées à s'amplifier avec l'exigence de la comparution personnelle pour la capture des données biométriques. Dans le but de réserver un meilleur accueil au public et de donner une meilleure image de la France (suppression des files d'attente quotidiennes et interminables qui occasionnaient des tensions récurrentes et des trafics), le ministère des affaires étrangères et européennes a souhaité développer une application informatique sur le mode « web » de prise de rendez-vous. Cette application Rendez-vous, totalement indépendante du logiciel de collecte des données biométriques des demandeurs de visas Biodev, a été déployée dans vingt-neuf postes. Après sa mise en service, un trafic de revente des rendez-vous obtenus s'était développé aux portes de nos consulats au Maroc. Il consistait en une prise massive de rendez-vous par des personnes malintentionnées qui les annulaient ensuite, dans le but de les revendre à des demandeurs. Compte tenu de cela, le département a renforcé la sécurité de l'application Rendez-vous. La nouvelle version, mise en service début décembre 2009, réintroduit dans le logiciel les espaces libérés par des rendez-vous annulés non plus immédiatement, mais avec des délais aléatoires, ce qui a donc, de fait, supprimé les risques de fraude de cette nature.
