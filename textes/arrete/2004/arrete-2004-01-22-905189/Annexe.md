@@ -1,12 +1,8 @@
 # Article Annexe
 
-A. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
+A. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'AMEUBLEMENT ET DES INDUSTRIES DU BOIS
 
-DE L'AMEUBLEMENT ET DES INDUSTRIES DU BOIS
-
-A-I. - Produits, activités et prestations
-
-relevant de l'institut technique forêt cellulose bois ameublement
+A-I. - Produits, activités et prestations relevant de l'institut technique forêt cellulose bois ameublement
 
 a) Produits, activités et prestations relevant des industries de l'ameublement :
 
@@ -146,9 +142,7 @@ Services de réparation de meubles et d'équipements du foyer pour les services 
 
 |
 
-A-II. - Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques
+A-II. - Produits, activités et prestations relevant du centre technique des industries mécaniques
 
 31. 09. 11
 
@@ -176,7 +170,9 @@ Bois, sciés et rabotés pour le poste :
 
 |
 
-Sous-catégorie 16. 10. 91
+Sous-catégorie
+
+16. 10. 91
 
 |
 
@@ -202,7 +198,9 @@ Bois contreplaqués, bois plaqués et bois stratifiés similaires ; panneaux de 
 
 |
 
-Sous-catégorie 16. 21. 22
+Sous-catégorie
+
+16. 21. 22
 
 |
 
@@ -236,7 +234,9 @@ Autres éléments de menuiserie et de charpente pour le poste :
 
 |
 
-Sous-catégorie 16. 23. 12
+Sous-catégorie
+
+16. 23. 12
 
 |
 
@@ -252,7 +252,9 @@ Autres objets en bois ; objets en liège, vannerie et sparterie pour les postes 
 
 |
 
-Sous-catégorie 16. 29. 11
+Sous-catégorie
+
+16. 29. 11
 
 |
 
@@ -260,7 +262,9 @@ Outils, manches, montures d'outils, de balais et de brosses, en bois ; blocs pou
 
 |
 
-Sous-catégorie 16. 29. 14
+Sous-catégorie
+
+16. 29. 14
 
 |
 
@@ -268,7 +272,9 @@ Cadres en bois pour tableaux, photographies, miroirs ou objets similaires et aut
 
 |
 
-Sous-catégorie 16. 29. 91
+Sous-catégorie
+
+16. 29. 91
 
 |
 
@@ -284,9 +290,7 @@ Fibre-ciment pour les planches, blocs et articles similaires, en fibres de bois,
 
 |
 
-B. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
-
-DU CUIR, DE LA MAROQUINERIE ET DE LA CHAUSSURE
+B. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DU CUIR, DE LA MAROQUINERIE ET DE LA CHAUSSURE
 
 a) Cuirs et peaux bruts pour les produits ci-après désignés :
 
@@ -518,6 +522,182 @@ Autres articles techniques en cuir naturel ou reconstitué (y compris articles u
 
 |
 
+15. 20
+
+|
+
+Articles chaussants.
+
+|
+
+15. 20. 1
+
+|
+
+Chaussures, autres que chaussures de sport et de protection et chaussures orthopédiques.
+
+|
+
+15. 20. 11
+
+|
+
+Chaussures étanches à semelles extérieures et dessus en caoutchouc ou en matière plastique, autres que chaussures comportant une coquille de protection en métal.
+
+|
+
+15. 20. 12
+
+|
+
+Chaussures à semelles extérieures et dessus en caoutchouc ou en matière plastique, autres que chaussures étanches et chaussures de sport.
+
+|
+
+15. 20. 13
+
+|
+
+Chaussures à dessus en cuir, autres que chaussures de sport, chaussures comportant une coquille de protection en métal et chaussures spéciales diverses.
+
+|
+
+15. 20. 14
+
+|
+
+Chaussures à dessus en textile, autres que chaussures de sport.
+
+|
+
+15. 20. 2
+
+|
+
+Chaussures de sport.
+
+|
+
+32. 30. 12
+
+|
+
+Chaussures de ski et de sports de neige.
+
+|
+
+15. 20. 21
+
+|
+
+Chaussures de tennis, basket, gymnastique et similaires.
+
+|
+
+15. 20. 29
+
+|
+
+Autres chaussures de sport, à l'exclusion des chaussures de ski et de surf des neiges.
+
+|
+
+15. 20. 3
+
+|
+
+Chaussures de protection et autres chaussures NCA.
+
+|
+
+15. 20. 31
+
+|
+
+Chaussures comportant une coquille de protection en métal.
+
+|
+
+15. 20. 32
+
+|
+
+Chaussures en bois, chaussures spéciales diverses et autres chaussures NCA.
+
+|
+
+15. 20. 4
+
+|
+
+Parties de chaussure en cuir ; semelles intérieures amovibles, talonnettes et articles similaires ; guêtres, jambières et articles similaires, et leurs parties.
+
+|
+
+16. 29. 14
+
+|
+
+Cadres en bois pour tableaux, photographies, miroirs ou objets similaires et autres articles en bois : parties ou accessoires de chaussure en bois.
+
+|
+
+22. 19. 73
+
+|
+
+Autres articles en caoutchouc vulcanisé NCA ; caoutchouc durci sous toutes formes et articles en caoutchouc durci ; revêtements de sol et tapis en caoutchouc vulcanisé alvéolaire : parties ou accessoires de chaussure en caoutchouc.
+
+|
+
+22. 29. 29
+
+|
+
+Autres articles en matières plastiques : parties ou accessoires de chaussure en matières plastiques.
+
+|
+
+27. 40. 42
+
+|
+
+Parties d'appareils d'éclairage : en cuir.
+
+|
+
+32. 30. 11
+
+|
+
+Skis et autres équipements pour sports de neige, à l'exclusion des chaussures ; patins à glace et patins à roulettes ; et leurs parties : chaussures de patinage à roulette.
+
+|
+
+32. 30. 15
+
+|
+
+Autres matériels de sports et de jeux en extérieur ; piscines et pataugeoires : en cuir.
+
+|
+
+32. 13. 10
+
+|
+
+Articles joaillerie en imitation et articles similaires : en cuir.
+
+|
+
+32. 99. 23
+
+|
+
+Bouton-pression et leurs parties ; boutons ; fermetures à glissière : boutons en cuir.
+
+|
+
 C. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE, DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA TABLE
 
 16. 29
@@ -584,9 +764,7 @@ Articles de bijouterie-joaillerie en imitation (bijouterie fantaisie) relevant d
 
 |
 
-D. - TAXE POUR LE DÉVELOPPEMENT
-
-DES INDUSTRIES DE L'HABILLEMENT
+D. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HABILLEMENT
 
 14. 11
 
@@ -600,9 +778,7 @@ Vêtements en cuir.
 
 |
 
-Vêtements en cuir naturel ou reconstitué :
-
-Manteaux, vestes, blousons, costumes, pantalons, y compris vêtements de travail et hors gants de travail en cuir.
+Vêtements en cuir naturel ou reconstitué : manteaux, vestes, blousons, costumes, pantalons, y compris vêtements de travail et hors gants de travail en cuir.
 
 |
 
@@ -615,14 +791,6 @@ Opérations sous-traitées intervenant dans la fabrication des vêtements en cui
 Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci.
 
 Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de cuir.
-
-|
-
-18. 2
-
-|
-
-Vêtements en textile et services associés :
 
 |
 
@@ -702,7 +870,7 @@ Vestes et vestons, en tissu, pour hommes et garçonnets.
 
 |
 
-Pantalons, salopettes, culottes et shorts, en tissu, pour hommes et garçonnets :
+Pantalons, salopettes, culottes et shorts, en tissu, pour hommes et garçonnets.
 
 |
 
@@ -754,7 +922,7 @@ Fripes.
 
 |
 
-14. 13. 99.
+14. 13. 99
 
 |
 
@@ -786,9 +954,7 @@ Maillots et autres tricots de corps, slips, caleçons, pyjamas, peignoirs, robes
 
 |
 
-Chemisiers et tuniques, en tissu, pour femmes et fillettes :
-
-Chemisiers, tuniques, blouses-chemisiers, chemisettes, en tissu ou dentelle, pour femmes et fillettes.
+Chemisiers et tuniques, en tissu, pour femmes et fillettes : chemisiers, tuniques, blouses-chemisiers, chemisettes, en tissu ou dentelle, pour femmes et fillettes.
 
 |
 
@@ -808,9 +974,7 @@ Pyjamas, chemises de nuit, peignoirs, déshabillés, robes de chambres, en tissu
 
 |
 
-Soutien-gorge, corsets, gaines, bustiers, porte-jarretelles, jarretières et articles similaires, et leurs parties, en maille ou en tissu ;
-
-Soutien-gorge, corsets, gaines, bustiers, panties, bodies, porte-jarretelles, jarretières, etc., en tissu en dentelle, ou en maille.
+Soutien-gorge, corsets, gaines, bustiers, porte-jarretelles, jarretières et articles similaires, et leurs parties, en maille ou en tissu ; soutien-gorge, corsets, gaines, bustiers, panties, bodies, porte-jarretelles, jarretières, etc., en tissu en dentelle, ou en maille.
 
 |
 
@@ -840,7 +1004,7 @@ Vêtements et accessoires du vêtement, en tissu ou dentelle, pour bébés : nid
 
 |
 
-Survêtements, ensembles de ski et maillots de bain, autres vêtements de sport ou de loisir, en tissu :
+Survêtements, ensembles de ski et maillots de bain, autres vêtements de sport ou de loisir, en tissu.
 
 |
 
@@ -848,11 +1012,11 @@ Survêtements, ensembles de ski et maillots de bain, autres vêtements de sport 
 
 |
 
-Mouchoirs, châles, écharpes, voiles, cravates, nœuds papillons et autres accessoires ; parties de vêtements et d'accessoires, en tissu, NCA :
+Mouchoirs, châles, écharpes, voiles, cravates, nœuds papillon et autres accessoires ; parties de vêtements et d'accessoires, en tissu, NCA :
 
 Gants, mouchoirs, pochettes, en tissu ou dentelle ;
 
-Châles, écharpes, foulards, mantilles, voiles et voilettes, cravates et nœuds papillons, en tissu ou dentelle ;
+Châles, écharpes, foulards, mantilles, voiles et voilettes, cravateset nœuds papillon, en tissu ou dentelle ;
 
 Bretelles et ceintures en textiles.
 
@@ -916,15 +1080,7 @@ Ces opérations sont rémunérées pour le travail qu'elles représentent et peu
 
 |
 
-18. 30
-
-|
-
-Pelleteries et fourrures et services associés :
-
-|
-
-18. 30. 11
+15. 11. 10
 
 |
 
@@ -950,11 +1106,13 @@ Articles en pelleteries (poufs, tapis, etc.).
 
 |
 
-18. 30. 13
+13. 20. 50 et
+
+13. 91. 19
 
 |
 
-Pelleteries factices :
+Pelleteries factices.
 
 Imitations de pelleteries obtenues à l'aide de fibres rapportées, collées ou cousues sur un support ;
 
@@ -974,14 +1132,6 @@ Ces opérations sont rémunérées pour le travail qu'elles représentent et peu
 
 |
 
-25. 24
-
-|
-
-Articles divers en matières plastiques et services associés :
-
-|
-
 22. 29. 10
 
 |
@@ -994,31 +1144,23 @@ Gants et accessoires du vêtement en matière plastique (ceintures, bavoirs, cap
 
 |
 
-36. 63
-
-|
-
-Autres produits manufacturés et produits associés :
-
-|
-
 32. 99. 21
 
 |
 
 Parapluies, parasols et ombrelles ; cannes, cannes-sièges, fouets, cravaches et articles similaires.
 
-NC : Cannes, cannes-sièges, fouets, cravaches et article similaires.
+NC : Cannes, cannes-sièges, fouets, cravaches et articles similaires.
 
 |
 
-23. 99. 23
+32. 99. 23
 
 |
 
 Boutons-pression et leurs parties ; boutons ; fermetures à glissière.
 
-NC : les boutons en cuirs.
+NC : les boutons en cuir.
 
 |
 
@@ -1026,15 +1168,13 @@ NC : les boutons en cuirs.
 
 |
 
-Formes pour boutons et autres parties de boutons ; ébauches de boutons ; parties de fermetures à glissières.
+Formes pour boutons et autres parties de boutons ; ébauches de boutons ; parties de fermetures à glissière.
 
 |
 
 E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE, DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
 
-E-I. - Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques
+E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques :
 
 24. 10. 75
 
@@ -2052,9 +2192,7 @@ Autres articles divers NCA, pour les récipients isothermes à vide.
 
 |
 
-E-II. - Produits, activités et prestations
-
-relevant de l'institut de soudure
+E-II. - Produits, activités et prestations relevant de l'institut de soudure
 
 24. 34. 1
 
@@ -2158,9 +2296,7 @@ Machines-outils d'usinage des métaux opérant par enlèvement de matière par l
 
 |
 
-E-III. - Produits, activités et prestations relevant
-
-du centre technique de l'industrie du décolletage
+E-III. - Produits, activités et prestations relevant du centre technique de l'industrie du décolletage
 
 25. 62. 10
 
@@ -2192,9 +2328,7 @@ Articles de boulonnerie-visserie, pour les produits de la boulonnerie et visseri
 
 |
 
-E-IV. - Produits, activités et prestations relevant
-
-du centre technique industriel de la construction métallique
+E-IV. - Produits, activités et prestations relevant du centre technique industriel de la construction métallique
 
 24. 10. 74
 
@@ -2314,9 +2448,7 @@ Autres structures flottantes (y compris radeaux, caissons, batardeaux, pontons f
 
 |
 
-E-V. - Produits, activités et prestations relevant
-
-du centre technique des industries aérauliques et thermiques
+E-V. - Produits, activités et prestations relevant du centre technique des industries aérauliques et thermiques
 
 22. 23. 19
 
@@ -2582,13 +2714,9 @@ Parties de machines d'usage spécifique NCA (non citées ailleurs), pour les pi�
 
 |
 
-F.-TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
+F.-TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DES MATÉRIAUX DE CONSTRUCTION
 
-DES MATÉRIAUX DE CONSTRUCTION
-
-F-1. - Produits relevant du centre d'études et de recherche
-
-de l'industrie du béton
+F-1. - Produits relevant du centre d'études et de recherche de l'industrie du béton
 
 23. 20. 13
 
@@ -3044,9 +3172,479 @@ Opérations sous-traitées intervenant dans la fabrication d'autres ouvrages en 
 
 |
 
-F-II. - Produits relevant du centre technique
+F-2. - Produits relevant du centre technique des matériaux naturels de construction
 
-des matériaux naturels de construction
+08. 1
+
+|
+
+Pierres, sables et argiles.
+
+|
+
+08. 11. 11
+
+|
+
+Marbres et autres pierres marbrières (calcaire et marbre) :
+
+Blocs bruts équarris marchands extraits de vos propres carrières :
+
+|
+
+08. 11. 11. 50. 2
+
+|
+
+- de pierre tendre ;
+
+|
+
+08. 11. 11. 33. 1
+
+|
+
+- de pierre ferme ;
+
+|
+
+08. 11. 11. 33. 2
+
+|
+
+- de pierre marbrière ;
+
+- de marbre.
+
+|
+
+|
+
+Blocs bruts équarris marchands importés (et transformés dans votre entreprise).
+
+Tranches sciées de marbre importées (et transformées dans votre entreprise).
+
+Tranches sciées marchandes (produites à partir de blocs extraits de vos propres carrières ou achetées) :
+
+|
+
+08. 11. 11. 36. 1
+
+|
+
+- d'épaisseur inférieure à 5 cm ;
+
+|
+
+08. 11. 11. 36. 2
+
+|
+
+- d'épaisseur comprise entre 5 et 25 cm.
+
+|
+
+08. 11. 11. 36. 3
+
+|
+
+Autres produits sciés (opus).
+
+|
+
+08. 11. 11. 36. 4
+
+|
+
+Autres produits d'extraction (moellons bruts, chutes de blocs, relève d'extraction, loups...).
+
+|
+
+08. 11. 11. 36. 5
+
+|
+
+Autres produits non sciés.
+
+|
+
+08. 11. 11. 50. 4
+
+|
+
+Moellons taillés ou éclatés.
+
+|
+
+08. 11. 11. 50. 5
+
+|
+
+Autres produits.
+
+|
+
+08. 11. 12
+
+|
+
+Granit, grès et autres pierres ornementales ou de construction.
+
+|
+
+Granit et autres roches similaires
+
+08. 11. 12. 33. 0
+
+|
+
+Blocs bruts équarris marchands extraits de vos propres carrières.
+
+Blocs bruts équarris marchands en granit étranger transformés dans votre propre entreprise (ne pas déclarer les blocs importés et revendus en l'état).
+
+|
+
+08. 11. 12. 36. 0
+
+|
+
+Tranches sciées brutes, toutes épaisseurs.
+
+|
+
+08. 11. 12. 36. 1
+
+|
+
+Moellons tout venant.
+
+|
+
+08. 11. 12. 36. 2
+
+|
+
+Moellons équarris, toutes hauteurs, toutes longueurs.
+
+|
+
+Grès
+
+08. 11. 12. 50. 0
+
+|
+
+Blocs bruts équarris marchands extraits de vos propres carrières.
+
+|
+
+08. 11. 12. 50. 1
+
+|
+
+Tranches sciées.
+
+|
+
+08. 11. 12. 50. 2
+
+|
+
+Moellons taillés pour la construction.
+
+|
+
+08. 11. 12. 50. 3
+
+|
+
+Pierres taillées pour la construction.
+
+|
+
+08. 11. 12. 50. 4
+
+|
+
+Moellons bruts de construction.
+
+|
+
+08. 11. 12. 50. 4
+
+|
+
+Autres produits en grès.
+
+|
+
+Lave
+
+08. 11. 12. 90. 2
+
+|
+
+Blocs bruts équarris marchands extraits de vos propres carrières.
+
+|
+
+08. 11. 12. 90. 3
+
+|
+
+Moellons bruts de construction.
+
+|
+
+08. 11. 12. 90. 4
+
+|
+
+Morceaux ouvrés, y compris moellons taillés.
+
+|
+
+08. 11. 12. 90. 5
+
+|
+
+Autres produits.
+
+|
+
+08. 11. 40
+
+|
+
+Ardoise.
+
+|
+
+08. 11. 40. 00. 1
+
+|
+
+Pierres pour maçonnerie en ardoise.
+
+|
+
+08. 11. 40. 00. 2
+
+|
+
+Pierres pour dallage en ardoise.
+
+|
+
+23. 7
+
+|
+
+Pierre taillée, maçonnée et finie.
+
+|
+
+23. 70. 11
+
+|
+
+Marbre, travertin, albâtre, travaillés, et ouvrages en marbre, travertin et albâtre (à l'exclusion des pavés, bordures, dalles, carreaux, cubes et articles similaires) ; granulats, débris et poudre de marbre, travertin et albâtre, colorés artificiellement (calcaire et marbre).
+
+|
+
+23. 70. 11. 00. 1
+
+|
+
+Produits minces (jusqu'à 5 cm d'épaisseur) pour revêtements de façades et dallages.
+
+|
+
+23. 70. 11. 00. 2
+
+|
+
+Pierre pré-sciée à partir de 5 cm d'épaisseur.
+
+|
+
+23. 70. 11. 00. 3
+
+|
+
+Monuments funéraires.
+
+|
+
+23. 70. 11. 00. 4
+
+|
+
+Grosse taille (balustres, objets décoratifs, statues, appuis, bandeaux, corniches, socles, éléments de moulures, dessus de meubles, pendules...).
+
+|
+
+23. 70. 12
+
+|
+
+Autres pierres de taille ou de construction travaillées et ouvrages en ces pierres ; autres granulats et poudre de pierre naturelle colorés artificiellement ; ouvrages en ardoise agglomérée.
+
+|
+
+Granit et roches similiaires
+
+23. 70. 12. 60. 1
+
+|
+
+Produits ouvrés pour le bâtiment (angles, jambages, linteaux, appuis, moellons, assises, corniches, balustres, pilastres, chevronières, cintres, meneaux, limons, contreforts, seuils, marches...).
+
+|
+
+23. 70. 12. 10. 1
+
+|
+
+Pavés d'échantillon et boutisses.
+
+|
+
+23. 70. 12. 10. 2
+
+|
+
+Pavés mosaïque.
+
+Bordures de trottoirs :
+
+|
+
+23. 70. 12. 10. 3
+
+|
+
+- ébauchées ou éclatées ;
+
+|
+
+23. 70. 12. 10. 4
+
+|
+
+- smillés ;
+
+|
+
+23. 70. 12. 10. 5
+
+|
+
+- bouchardés.
+
+|
+
+|
+
+Dalles de trottoirs ou caniveaux :
+
+|
+
+23. 70. 12. 10. 6
+
+|
+
+- smillés ;
+
+|
+
+23. 70. 12. 10. 7
+
+|
+
+- bouchardés.
+
+|
+
+23. 70. 12. 60. 2
+
+|
+
+Produits pour travaux spéciaux de génie civil (écluses, bordures de quais...).
+
+|
+
+23. 70. 12. 60. 3
+
+|
+
+Autres produits.
+
+|
+
+23. 70. 12. 10. 8
+
+|
+
+Dallage en pierre : produits minces (jusqu'à 5 cm d'épaisseur) pour revêtements de façades et dallages.
+
+|
+
+23. 70. 12. 60. 4
+
+|
+
+Monuments funéraires.
+
+|
+
+23. 70. 12. 60. 7
+
+|
+
+Articles d'ornementation en pierre.
+
+|
+
+Grès
+
+23. 70. 12. 10. 9
+
+|
+
+Dallage en pierre : dalles brutes en opus incertum.
+
+|
+
+Lave
+
+23. 72. 12. 70. 1
+
+|
+
+Monuments funéraires.
+
+|
+
+Ardoises
+
+23. 70. 12. 80. 1
+
+|
+
+Ardoises de couverture (y compris pour bardage, non compris dalles et parements).
+
+|
+
+23. 70. 12. 80. 2
+
+|
+
+Dallage en pierre : dalles et parements en ardoise.
+
+|
+
+F-II. - Produits relevant du centre technique des matériaux naturels de construction
 
 23 31 10
 
