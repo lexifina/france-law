@@ -1122,36 +1122,6 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-57 p
-
-|
-
-Basic Blue 26 (n° CAS 2580-56-5) et ses sels.
-
-|
-
-a) Colorant d'oxydation pour la coloration des cheveux.
-
-b) Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-a) 0,5 %.
-
-b) 0,5 %.
-
-|
-
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
 58 p
 
 |
@@ -1167,60 +1137,6 @@ Colorant non oxydant pour la coloration des cheveux.
 2,0 %.
 
 |
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
-59 p
-
-|
-
-Ponceau SX (n° CAS 4548-53-2) (CI 14700)) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-2,0 %.
-
-|
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
-60 p
-
-|
-
-Basic Violet 14 (n° CAS 632-969-5) (CI 42510) et ses sels.
-
-|
-
-a) Colorant d'oxydation pour la coloration des cheveux.
-
-b) Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-a) 0,3 %.
-
-b) 0,3 %.
-
-|
-
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,15 %.
 
 |
 
