@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106287
+
+- Question : [SEQ081106287](seq081106287.md) — Conséquences pour le financement des titres de presse de la révision de la directive 68/151/ECC visant à limiter l'information obligatoire sur la vie des entreprises
+
+## Réponse
+
+*Justice, JO du 2009-02-19, page 450*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le Gouvernement suit avec attention les travaux engagés au plan communautaire en vue de réformer le régime de publicité légale des sociétés commerciales. La proposition de directive présentée par la Commission européenne vise à substituer aux obligations de publication dans le bulletin national une publication sur une plate-forme électronique centrale. Le projet prévoyait, dans sa rédaction initiale, l'intégration des coûts de publicité légale dans une redevance unique et précisait que ces coûts ne devraient pas entraîner de frais spécifiques supplémentaires pour les entreprises. Lors des débats menés au sein du Conseil de l'Union européenne, la France a approuvé l'objectif de simplification poursuivi par la réforme. Mais elle a aussi fait valoir que la directive à venir devrait tenir compte des traditions nationales, notamment en ce qui concerne les modes d'information sur la vie des sociétés. Ce point de vue a été pris en compte par le Parlement européen, qui, lors de la session plénière du 20 novembre 2008, a voté un texte permettant de financer, sous certaines conditions, les publications effectuées par d'autres moyens que la plate-forme électronique centrale, comme la publicité assurée par le biais des journaux d'annonces légales. Le Gouvernement sera particulièrement attentif aux développements à venir et s'attachera à voir prises en compte les difficultés que pourrait poser l'application brutale d'un dispositif ne tenant pas compte des traditions nationales.
