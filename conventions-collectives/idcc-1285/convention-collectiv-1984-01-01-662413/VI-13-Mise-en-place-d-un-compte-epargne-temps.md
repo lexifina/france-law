@@ -1,5 +1,5 @@
-# Article VI-13 : Mise en place d'un compte épargne-temps
+# Article VI.13
 
-Le compte épargne-temps donne la possibilité au salarié d'échanger de la rémunération et/ ou de capitaliser des droits à congé rémunéré conformément à l'article L. 227-1 du code du travail, à la loi du 25 juillet 1994 et à la circulaire n° 94-15 du 30 novembre 1994 du ministère du travail.
+Les heures accomplies au-delà du contingent annuel d'heures supplémentaires défini à l'article VI. 9 donnent droit, en plus des majorations légales pour heures supplémentaires, à une contrepartie obligatoire en repos, telle que prévue par l'article L. 3121-11 du code du travail.
 
-Pendant la prise des congés épargnés, le salarié perçoit la même rémunération que s'il avait travaillé et bénéficie des garanties du régime de prévoyance.
+Conformément à la législation en vigueur, cette contrepartie obligatoire en repos est fixée à 50 % pour les entreprises de 20 salariés au plus et à 100 % pour les entreprises de plus de 20 salariés.

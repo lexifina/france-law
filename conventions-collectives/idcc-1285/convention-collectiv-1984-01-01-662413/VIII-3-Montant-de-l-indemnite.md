@@ -1,45 +1,33 @@
-# Article VIII.3 : Montant de l'indemnité
+# Article VIII.3
 
-Article VIII.3 a
+VIII. 3. 1. Frais de délivrance de passeports et autres pièces administratives
 
-Ventilation de l'indemnité
+Les frais de délivrance et de renouvellement de passeport, de visa et de vaccinations obligatoires sont à la charge de l'employeur lorsque ces frais sont occasionnés par une demande de déplacement émanant de l'employeur.
 
-L'indemnité est fixée à 480 F. Elle se décompose comme suit :
+VIII. 3. 2. Assurances
 
-- chaque repas principal : 90 F ;
+Pour tout grand déplacement (dont les tournées), l'employeur souscrit pour ses salariés une garantie d'assistance aux personnes, couvrant notamment les blessures, les maladies soudaines et imprévues, le décès des bénéficiaires.
 
-- petit déjeuner : 26 F ;
+Cette garantie d'assistance doit prévoir le rapatriement en cas de nécessité médicale établie.
 
-- chambre : 274 F.
+VIII. 3. 3. Prise en charge des bagages en déplacement
 
-La revalorisation du montant de l'indemnité conventionnelle sera négociée dans le cadre de la négociation annuelle de branche prévue à l'article X.1 de la présente convention.
+Dès le départ et pendant tout le parcours du déplacement jusqu'au retour au point de départ, le transport des bagages des employés est assumé par la direction, sans surcoût.
 
-Article VIII.3 b
+Dans tous les cas, la direction, qu'elle ait ou non contracté une assurance spéciale, n'est responsable des bagages que lorsqu'ils lui ont été confiés, depuis le jour du départ jusqu'au retour.
 
-Modalités de versement de l'indemnité
+VIII. 3. 4. Repos à l'occasion d'un déplacement
 
-Le montant de l'indemnité de déplacement est celui fixé selon les règles suivantes :
+(1)
 
-- région parisienne : en dehors de la ville-siège de l'entreprise ou de celle pour laquelle aura été précisément conclu le contrat d'engagement, il sera alloué :
+Les salariés devront avoir au cours de leur déplacement, au minimum 9 heures de repos entre la fin de leur travail et le départ du lendemain.
 
-- dans les départements de la grande couronne (Essonne, Yvelines, Val-d'Oise, Seine-et-Marne), l'indemnité de frais de repas des salariés en déplacement, au plafond d'exonération admis par l'administration de la sécurité sociale (4 fois le minimum garanti par repas) ;
+VIII. 3. 5. Jours de congés exceptionnels dans le cadre d'un déplacement ou d'une tournée
 
-- dans les départements de la petite couronne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne), pour tout repas pris entre deux séances de travail, un titre restaurant (dont le montant sera négocié au sein de chaque entreprise, dans les limites d'exonération fixées par la loi) ;
+Avant tout déplacement ou tournée de plus de 1 mois ne prévoyant pas de retour au lieu de domicile du salarié, 1 jour sera accordé aux salariés sur leur planning de travail en amont du déplacement pour leurs préparatifs et le règlement de leurs affaires personnelles.
 
-- cette disposition n'est obligatoire que dans les entreprises comptant plus de 10 salariés ;
+Au cas où l'itinéraire d'une tournée en France métropolitaine impliquerait une absence continue du salarié de son domicile supérieure à 1 mois s'il réside en France métropolitaine ou supérieure à 3 mois s'il réside hors de France métropolitaine, la direction organiserait à ses frais, à la période de relâche la plus favorable (proximité, facilités de communication, etc.), un voyage à la ville de domicile du salarié, s'il en exprime le souhait, de telle sorte que les périodes d'absences continues n'excèdent pas 1 mois s'il réside sur le territoire métropolitain et de 3 mois s'il réside hors de France métropolitaine.
 
-- dans les régions hors Ile-de-France, la limite sera, si nécessaire, déterminée par accord entre la direction et les délégués du personnel en fonction de la situation locale et notamment du réseau des transports en commun.
+Le temps consacré à ce voyage n'est pas pris en compte dans l'horaire de travail.
 
-L'indemnité de déplacement peut être fragmentée dans le cas où, soit le départ, soit le retour, s'effectue en cours de journée. C'est ainsi que :
-
-- si le départ a lieu avant 9 heures et le retour après 20 h 30, l'indemnité est due pour le petit déjeuner et les 2 repas ;
-
-- si le départ a lieu avant 13 heures et le retour après 20 h 30, l'indemnité est due pour les 2 repas ;
-
-- si le départ a lieu après 13 heures et le retour après 20 h 30, l'indemnité est due pour un repas ;
-
-- si le départ a lieu après 13 heures et le retour après 1 heure du matin, l'indemnité est due pour un repas et une chambre, à moins que la direction n'assure le retour au domicile respectif de chaque employé. Cette disposition concernant le retour du salarié n'est possible que si le déplacement est dans la limite de 40 kilomètres.
-
-En aucun cas il ne peut être imposé au personnel de faire l'avance des indemnités de déplacement. Le règlement de ces indemnités s'effectuera de préférence par virement bancaire. Les dispositions seront prises pour que le délai de versement ne pénalise pas le salarié.
-
-Le règlement de cette indemnité se fera en conformité avec la législation en vigueur et notamment en respectant les dispositions du code de la sécurité sociale.
+(1) Article exclu de l'extension comme ne remplissant pas les conditions prévues à l'article D.3131-6 du code du travail (Arrêté du 23 décembre 2009, art. 1er).

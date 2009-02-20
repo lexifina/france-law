@@ -1,25 +1,41 @@
-# Article VI-3 : Périodes de référence de la modulation
+# Article VI-3
 
-a) Pour les salariés engagés en contrat de travail à durée indéterminée :
+a) Pour les salariés engagés en contrat de travail à durée indéterminée (sous réserve des emplois dont le temps de travail annuel est inférieur à 1 575 heures)
 
-La période de référence de la modulation s'étend sur douze mois, en principe du 1er septembre au 31 août de l'année suivante, sauf accord d'entreprise spécifique fixant les conditions de modulation dans les limites prévues à la présente convention.
+La période de référence s'étend sur 12 mois, en principe du 1er septembre au 31 août de l'année suivante, sauf accord d'entreprise spécifique fixant des conditions d'aménagement dans les limites prévues à la présente convention.
 
-La modulation du temps de travail s'effectue sur un horaire annuel déterminé en tenant compte de la durée collective du travail dans l'entreprise diminuée des heures de congés annuels légaux et conventionnels octroyés aux salariés. Sous réserve de ce principe, l'horaire annuel normal du personnel engagé en contrat de travail à durée indéterminée à temps complet est de 1 575 heures. L'établissement de cet horaire s'effectue de la façon suivante :
+L'aménagement du temps de travail s'effectue sur un horaire annuel déterminé en tenant compte de la durée collective du travail dans l'entreprise diminuée des heures de congés annuels légaux et conventionnels octroyés aux salariés. Sous réserve de ce principe, l'horaire annuel normal du personnel engagé en contrat de travail à durée indéterminée à temps complet est de 1 575 heures augmentées selon les entreprises de la durée de la journée de solidarité.
 
-- 365 jours par an :
+L'établissement de cet horaire de 1 575 heures s'effectue de la façon suivante :
 
-- 104 jours de repos hebdomadaires ;
+― 365 jours par an ;
 
-- 25 jours de congés payés ;
+― 104 jours de repos hebdomadaires ;
 
-- 11 jours fériés par an ;
+― 25 jours de congés payés ;
 
-- 225 jours de travail par an, soit 45 semaines (225/5), soit 1 575 heures (45 x 35).
+― 11 jours fériés par an ;
 
-b) Pour les salariés engagés en contrat de travail à durée déterminée :
+= 225 jours de travail par an, soit 45 semaines (225 / 5), soit 1 575 heures (45 × 35).
 
-La modulation du temps de travail ne peut pas s'appliquer pour les salariés sous contrat à durée déterminée de moins d'un mois.
+b) Pour les salariés engagés en contrat de travail à durée déterminée
 
-Pour les salariés sous contrat à durée déterminée de plus d'un mois, la durée de la période de référence de la modulation sera celle du contrat de travail. En fin de contrat, il sera effectué un solde d'heures travaillées dans les conditions fixées à l'article VI-9.
+L'aménagement du temps de travail ne peut pas s'appliquer pour les salariés sous contrat à durée déterminée de moins de 1 mois.
 
-Les modalités pratiques de mise en place de ces dispositions, notamment pour les techniciens engagés par contrat à durée déterminée d'usage et les artistes interprètes, seront explicitées dans des titres et annexes spécifiques.
+Pour les salariés sous contrat à durée déterminée de 1 mois et plus, la durée de la période de référence sera celle du contrat de travail. En fin de contrat, il sera effectué un solde d'heures travaillées dans les conditions fixées à l'article VI. 9.
+
+Les modalités pratiques de mise en place de ces dispositions, notamment pour les techniciens engagés par contrat à durée déterminée d'usage et les artistes-interprètes, seront explicitées dans les titres ou annexes spécifiques.
+
+c) Prise en compte des absences rémunérées en cas d'aménagement du temps de travail
+
+Lorsque le salarié n'aura pas atteint le total annuel de 1 575 heures, chaque jour d'absence rémunérée sera, sauf accord d'entreprise conclu sur des bases différentes, pris en compte :
+
+― pour la durée de travail inscrite au planning définitif, qu'il aurait effectuée s'il avait été présent ;
+
+― en l'absence de planning définitif, pour une durée de 7 heures (1).
+
+Lorsque le salarié dépasse le total annuel de 1 575 heures, l'équivalent temps de travail au titre des jours d'absences rémunérées ci-dessus mentionné ne sera pas intégré dans le décompte annuel.
+
+(1) Termes exclus de l'extension comme étant contraires aux dispositions combinées des articles L. 3122-2 et L. 3171-1 du code du travail.
+
+(Arrêté du 23 décembre 2009, art. 1er)

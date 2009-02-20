@@ -1,7 +1,267 @@
-# Article X.3 : Carrière
+# Article X.3
 
-Pour chaque emploi est prévue une évolution en 12 échelons, numérotés de 1 à 12.
+A chaque emploi correspond un salaire brut minimum, au-dessous duquel aucun salarié ne peut être rémunéré.
 
-Chaque salarié bénéficie, lors de son embauche, d'un échelon qui lui est attribué par l'employeur en fonction de critères de classement tels que la formation, l'expérience professionnelle et la responsabilité. Il en est de même lorsque le salarié est promu dans un nouvel emploi au sein de l'entreprise.
+Le montant de ces salaires minima figure à l'annexe Salaires de la convention. La revalorisation de ces salaires est négociée chaque année lors de la NAO.
 
-Sous réserve des dispositions prévues aux articles X.4 bis et X.5, la progression dans les échelons s'effectue au choix de l'employeur.
+X. 3. 1. Rémunération des artistes dramatiques
+
+A. ― Artiste dramatique engagé en CDI
+
+ou en CDD d'une durée de 4 mois et plus
+
+Il perçoit une rémunération mensuelle brute d'un montant au moins égal à celle fixée lors de la NAO. Cette rémunération correspond à un temps de travail moyen de 35 heures par semaine.
+
+Pendant les représentations, cette rémunération s'entend pour un maximum de 30 représentations pour une période de 30 jours de date à date ; toute représentation supplémentaire doit être rémunérée en sus, au prorata. Le montant du salaire de cette représentation ou de la journée supplémentaire s'obtient en divisant le salaire mensuel par 21.
+
+B. ― Artiste dramatique engagé en CDD
+
+d'une durée inférieure à 4 mois
+
+Il perçoit une rémunération mensuelle brute d'un montant au moins égal à celle fixée lors de la NAO. Cette rémunération correspond à un temps de travail moyen de 35 heures par semaine.
+
+Lors de la création d'une oeuvre dramatique de durée normale (cf. art. XIII. 2. 2. b), soit 5 semaines minimum, la rémunération perçue par l'artiste sera au minimum de 5 semaines sur la base du minimum mensuel conventionnel.
+
+En cas de fractionnement de la période de création :
+
+― la rémunération totale perçue par l'artiste (celle résultant de l'addition de la rémunération de tous les contrats signés simultanément) ne peut être inférieure à celle fixée par la NAO.
+
+― la rémunération de chaque fraction sera proportionnelle (pro rata temporis) à la rémunération mensuelle majorée de référence en cas de fractionnement fixée dans l'annexe Salaires, et révisée lors de la NAO.
+
+C. ― Artiste dramatique engagé en CDD
+
+de moins de 1 mois
+
+Lorsqu'une journée est consacrée à des répétitions (selon les modalités prévues à l'article XIII. 2. 3), la rémunération est assurée par service, tout service commencé étant dû. Le montant de cette rémunération figure dans l'annexe Salaires.
+
+Lorsqu'une journée est consacrée à des représentations (et comporte éventuellement un temps de répétition dans les limites fixées à l'art. II. 2. 4), la rémunération est assurée au cachet forfaitaire.
+
+Le montant du cachet brut est différent selon que le mois calendaire comporte le versement de 1 ou 2 cachets ou plus de 2 cachets :
+
+― lorsque le mois calendaire comporte 1 ou 2 cachets, le montant de chaque cachet doit être au minimum celui fixé à l'annexe Salaires et révisé lors de la NAO ;
+
+― lorsque le mois calendaire comporte plus de 2 cachets, le montant de chacun d'entre eux doit être au minimum celui fixé à l'annexe Salaires et révisé lors de la NAO.
+
+X. 3. 2. Rémunération des artistes chorégraphiques
+
+A. ― Artiste chorégraphique engagé en CDI
+
+ou en CDD d'une durée de 4 mois et plus
+
+Il perçoit une rémunération mensuelle brute d'un montant au moins égal à celle fixée lors de la NAO. Cette rémunération correspond à un temps de travail moyen de 35 heures par semaine.
+
+Pendant les représentations, cette rémunération s'entend pour un maximum de 30 représentations pour une période de 30 jours de date à date ; toute représentation supplémentaire doit être rémunérée en sus, au prorata. Le montant du salaire de cette représentation ou de la journée supplémentaire s'obtient en divisant le salaire mensuel par 21.
+
+B. ― Artiste chorégraphique engagé en CDD
+
+d'une durée inférieure à 4 mois et supérieure à 1 mois
+
+Il perçoit une rémunération mensuelle brute d'un montant au moins égal à celle fixée lors de la NAO. Cette rémunération correspond à un temps de travail moyen de 35 heures par semaine.
+
+En cas de fractionnement de la période de création :
+
+― la rémunération totale perçue par l'artiste (celle résultant de l'addition de la rémunération de tous les contrats signés simultanément) ne peut être inférieure à celle fixée par la NAO ;
+
+― la rémunération de chaque fraction sera proportionnelle (pro rata temporis) à la rémunération mensuelle majorée de référence en cas de fractionnement fixée dans l'annexe Salaires, et révisée lors de la NAO.
+
+C. ― Artiste chorégraphique engagé en CDD
+
+de moins de 1 mois
+
+Pour les répétitions : la rémunération minimale journalière pour 4 heures de travail figure dans l'annexe Salaires, et est revalorisée lors de la NAO. La rémunération de chaque heure effectuée en sus des 4 heures ci-avant est indivisible. Son montant figure dans l'annexe Salaires, et est revalorisé lors de la NAO.
+
+Pour les représentations : lorsqu'une journée est consacrée à des représentations la rémunération est assurée au cachet forfaitaire ; chaque cachet assurant la rémunération d'une représentation.
+
+Le cachet forfaitaire permet d'assurer, dans un même lieu, la rémunération de :
+
+― 2 représentations d'un même spectacle dont la durée unitaire est inférieure à 45 minutes, dans la mesure où ces 2 représentations ne sont pas espacées de plus de 4 heures ;
+
+― 3 représentations d'un même spectacle dont la durée unitaire est inférieure à 15 minutes, dans la mesure où le temps entre la première et la dernière représentation n'excède pas 4 heures.
+
+Le montant du cachet brut est différent selon que le mois calendaire comporte le versement de 1 ou 2 cachets ou plus de 2 cachets :
+
+― lorsque le mois calendaire comporte 1 ou 2 cachets, le montant de chaque cachet doit être au minimum celui fixé à l'annexe Salaires et révisé lors de la NAO ;
+
+― lorsque le mois calendaire comporte plus de 2 cachets, le montant de chacun d'entre eux doit être au minimum celui fixé à l'annexe et révisé lors de la NAO.
+
+X. 3. 3. Rémunération des artistes musiciens
+
+La rémunération des artistes musiciens, s'ils ne sont pas mensualisés, donne lieu au versement d'un cachet pour chaque service de répétition, de représentation ou d'enregistrement.
+
+Dans le présent article sont aussi pris en compte les chanteurs et les répétiteurs qui ne rentrent pas dans la catégorie des chanteurs lyriques, objet de l'article X. 3. 4.
+
+A. ― Artistes musiciens appartenant
+
+aux ensembles musicaux à nomenclature
+
+Rémunération mensualisée :
+
+Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO (en distinguant les catégories suivantes : tuttiste, soliste, chef de pupitre).
+
+Cette rémunération correspond à un temps de travail moyen dont la durée est fixée au titre XV " Dispositions spécifiques à l'emploi des artistes musiciens ”.
+
+Rémunération au cachet
+
+Les artistes musiciens titulaires de CDD d'une durée inférieure à 1 mois sont rémunérés au cachet pour les répétitions et les représentations, chaque cachet de base indivisible correspond à 3 heures, les heures en sus étant payées pro rata temporis.
+
+Le montant minimum du cachet figure à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Cas particulier des artistes musiciens engagés en CDD
+
+dans les formations orchestrales employant des musiciens en CDI
+
+Durant une période de 12 mois après l'extension de la convention collective, et dans l'attente de la mise en oeuvre des négociations du 2e cycle, les musiciens engagés en CDD dans les formations à nomenclature employant des musiciens en CDI sont rémunérés selon les accords d'entreprise et / ou les usages constants de l'entreprise.
+
+B. ― Artistes musiciens embauchés au sein d'ensembles
+
+musicaux sans nomenclature
+
+Rémunération mensualisée
+
+Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, ou de CDDU d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les répétitions
+
+La journée comporte 2 services, soit 6 heures de travail, les heures effectuées en sus sont payées pro rata temporis.
+
+Le montant minimum du cachet correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Dans le cas où la journée ne comporte qu'un seul service, l'artiste perçoit un cachet dont le montant minimum correspond à la garantie journalière en cas de service totalement isolé figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les représentations
+
+Les rémunérations minimales forfaitaires au cachet (incluant le raccord ou la balance) des représentations figurent dans l'annexe Salaires de la convention et sont revalorisées lors de la NAO.
+
+Le montant minimum du cachet forfaitaire journalier varie en fonction des conditions dans lesquelles sont données les représentations. Le montant figurant à l'annexe Salaires distingue les cas suivants :
+
+― représentation " cas général ”, c'est-à-dire ne répondant pas à l'exception ci-après ;
+
+― représentation donnée dans le cadre de représentations multiples dont le nombre est au minimum de 7 par période de 15 jours.
+
+Rémunération au cachet d'une journée comprenant
+
+une répétition et une représentation
+
+La journée comporte un service de répétition d'un maximum de 3 heures et une représentation de durée normale. Le montant minimum de la rémunération correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.
+
+C. ― Artistes musiciens appartenant au secteur des musiques actuelles
+
+Rémunération mensualisée
+
+Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, ou de CDDU d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les répétitions
+
+La journée comporte 2 services, soit 6 heures de travail, les heures effectuées en sus sont payées pro rata temporis.
+
+Le montant minimum du cachet correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.
+
+Dans le cas où la journée ne comporte qu'un seul service l'artiste perçoit un cachet dont le montant minimum correspond à la garantie journalière en cas de service isolé figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les représentations
+
+Les rémunérations minimales forfaitaires au cachet (incluant le raccord ou la balance) des représentations figurent dans l'annexe Salaires de la convention et sont revalorisés lors de la NAO.
+
+Le montant minimum du cachet forfaitaire journalier varie en fonction des conditions dans lesquelles sont données les représentations. Le montant figurant à l'annexe Salaires distingue les cas suivants :
+
+― représentation " cas général ”, c'est-à-dire ne répondant à aucun des cas ci-après ;
+
+― représentation donnée dans le cadre de représentations multiples dont le nombre est au minimum de 7 par période de 15 jours ;
+
+― représentation donnée dans une salle de capacité inférieure à 300 places ;
+
+― première partie d'une représentation (est appelée première partie toute prestation d'un groupe ou artiste dont la prestation est présentée au début de la représentation de l'artiste principal, et lorsque la durée totale de cette prestation n'excède pas 45 minutes. La première partie peut être composée par plusieurs groupes ou artistes différents. Dans ce cas, la durée totale de la prestation des premières parties peut être portée au maximum à 90 minutes.L'application du salaire minimum spécifique première partie doit être indiquée en clair dans le contrat d'engagement) ;
+
+― participation à un " plateau découvertes ” (est appelé " plateau découvertes ” une succession de prestations d'artistes et de groupes) correspondant aux caractéristiques suivantes :
+
+― unicité de temps et de lieu : même soirée et même scène ;
+
+― durée maximale de la prestation de chaque artiste limitée à 45 minutes.L'application du salaire minimum spécifique " plateau découvertes ” doit être indiquée en clair dans le contrat d'engagement.
+
+D. ― Artistes musiciens engagés par des entreprises
+
+non concernées par les articles X. 2. 3.A, B, C
+
+Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, ou de CDDU d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention (tableau " Autres entreprises ”), montant revalorisé lors de la NAO.
+
+Les artistes musiciens engagés en CDD d'une durée inférieure à 1 mois par ces entreprises sont rémunérés sur la base d'un cachet dont le montant correspond au cachet figurant dans l'annexe Salaires (tableau " Autres entreprises ”) engagés au sein d'autres entreprises, montant revalorisé lors de la NAO.
+
+X. 3. 4. Rémunération des artistes lyriques
+
+La rémunération des artistes lyriques, s'ils ne sont pas mensualisés, donne lieu au versement d'un cachet pour chaque service de répétition, de représentation ou d'enregistrement.
+
+X. 3. 4. 1. Artistes de choeur
+
+A. ― Rémunération mensualisée
+
+Les artistes, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+B. ― Rémunération au cachet
+
+Le montant minimum du cachet figure à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les répétitions
+
+La journée comporte 2 services, soit 6 heures de travail, les heures effectuées en sus sont payées pro rata temporis.
+
+Le montant minimum du cachet correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Dans le cas où la journée ne comporte qu'un seul service, l'artiste perçoit un cachet dont le montant minimum correspond à la garantie journalière en cas de service totalement isolé figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les représentations
+
+Les rémunérations minimales forfaitaires au cachet (incluant le raccord ou la balance) des représentations figurent dans l'annexe Salaires de la convention et sont revalorisés lors de la NAO.
+
+Le montant minimum du cachet forfaitaire journalier varie en fonction des conditions dans lesquelles sont données les représentations. Le montant figurant à l'annexe Salaires distingue les cas suivants :
+
+― représentation " cas général ”, c'est-à-dire ne répondant pas à l'exception ci-après ;
+
+― représentation donnée dans le cadre de représentations multiples dont le nombre est au minimum de 7 par semaine.
+
+Rémunération au cachet d'une journée comprenant
+
+une répétition et une représentation
+
+La journée comporte un service de répétition d'un maximum de 3 heures et une représentation de durée normale. Le montant minimum de la rémunération correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.
+
+X. 3. 4. 2. Artistes lyriques solistes
+
+A. ― Rémunération mensualisée
+
+Les artistes, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+B. ― Rémunération au cachet
+
+Le montant minimum du cachet figure à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les répétitions
+
+La journée comporte 2 services, soit 6 heures de travail, les heures effectuées en sus sont payées pro rata temporis.
+
+Le montant minimum du cachet correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Dans le cas où la journée ne comporte qu'un seul service, l'artiste perçoit un cachet dont le montant minimum correspond à la garantie journalière en cas de service totalement isolé figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Rémunération au cachet pour les représentations
+
+Les rémunérations minimales forfaitaires au cachet (incluant le raccord ou la balance) des représentations figurent dans l'annexe Salaires de la convention et sont revalorisées lors de la NAO.
+
+Le montant minimum du cachet forfaitaire journalier varie en fonction des conditions dans lesquelles sont données les représentations. Le montant figurant à l'annexe Salaires distingue les cas suivants :
+
+― représentation " cas général ”, c'est-à-dire ne répondant pas à l'exception ci-après ;
+
+― représentation donnée dans le cadre de représentations multiples dont le nombre est au minimum de 7 par semaine.
+
+Rémunération au cachet d'une journée comprenant une répétition
+
+et une représentation
+
+La journée comporte un service de répétition d'un maximum de 3 heures et une représentation de durée normale. Le montant minimum de la rémunération correspondant aux services ci-dessus est au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+La rémunération de cette journée donne lieu au versement du salaire sous la forme de 2 cachets.

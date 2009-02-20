@@ -2,71 +2,79 @@
 
 III. 1.1. Désignation
 
-Des délégués du personnel sont élus pour 2 ans, conformément aux dispositions légales fixant le statut des délégués du personnel dans les entreprises, et des textes subséquents.
+Sauf accord d'entreprise prévoyant un mandat d'une durée supérieure les délégués du personnel sont élus pour 2 ans, conformément aux dispositions légales fixant le statut des délégués du personnel dans les entreprises et des textes subséquents.
 
-Les conditions de leur élection et de leur protection et la durée de leur mandat seront conformes à la législation en vigueur. Les textes législatifs ou réglementaires qui pourraient être promulgués postérieurement à la signature de la convention s'appliqueront de plein droit dans les établissements visés par cette convention et à la date prévue par les nouveaux textes.
+Les conditions de leur élection, de leur protection et la durée de leur mandat seront conformes à la législation en vigueur. Les textes législatifs ou réglementaires qui pourraient être promulgués postérieurement à la signature de la convention s'appliqueront de plein droit dans les établissements visés par cette convention et à la date prévue par les nouveaux textes.
 
-La mission des délégués du personnel est définie par l'article L. 422-1 du code du travail et l'article III. 1.4 de la présente convention.
+La mission des délégués du personnel est définie par l'article L. 2313-1 du code du travail et l'article III. 1.4 de la présente convention.
 
-L'élection des délégués du personnel se déroulera à une date fixée en accord avec les organisations syndicales représentées dans l'entreprise, autant que possible entre le 1er janvier et le 31 mars et 15 jours au moins avant l'expiration du mandat des délégués en exercice.
+L'élection des délégués du personnel se déroulera à une date fixée en accord avec les organisations syndicales représentées dans l'entreprise, autant que possible entre le 1er janvier et le 31 mars et 15 jours au moins avant l'expiration du mandat des délégués en exercice
+
+(1).
 
 Un protocole d'accord sera signé afin de déterminer les modalités particulières de déroulement du scrutin.
 
 Le scrutin désignera :
 
--par extension de la loi, 1 délégué du personnel dans les entreprises dont l'effectif est de 5 à 10 salariés, équivalent temps plein, et comportant au moins un salarié en CDI à temps plein ;
+― par extension de la loi, 1 délégué du personnel dans les entreprises dont l'effectif est de 5 à 10 salariés, équivalent temps plein, et comportant au moins un salarié en CDI à temps plein ;
 
--1 titulaire et 1 suppléant dans les entreprises de 11 à 25 salariés ;
+― 1 titulaire et 1 suppléant dans les entreprises de 11 à 25 salariés ;
 
--2 titulaires et 2 suppléants dans les entreprises de 26 à 50 salariés ;
+― 2 titulaires et 2 suppléants dans les entreprises de 26 à 50 salariés ;
 
--3 titulaires et 3 suppléants dans les entreprises de 51 à 99 salariés.
+― 3 titulaires et 3 suppléants dans les entreprises de 51 à 99 salariés.
 
 Les salariés à temps partiel, dont la durée de travail est égale ou supérieure à 17 heures par semaine ou à 75 heures par mois, sont pris en compte intégralement dans l'effectif de l'entreprise.
 
 Pour les salariés dont la durée de travail est inférieure à ces seuils, l'effectif est calculé en divisant la masse totale des horaires inscrits dans ces contrats de travail par la durée conventionnelle de travail.
 
-Article III. 1.2. Electorat et éligibilité des intermittents
+III. 1.2. Electorat et éligibilité des personnels en CDD
 
-Du fait de la spécificité des entreprises artistiques et culturelles, il convient de faciliter l'accès à l'électorat et l'éligibilité des salariés intermittents artistiques et techniques.
+Du fait de la spécificité des entreprises artistiques et culturelles, il convient de faciliter l'accès à l'électorat des salariés intermittents artistiques et techniques.
 
-Sont électeurs les salariés intermittents du spectacle qui ont été sous contrat de travail dans l'entreprise de manière continue ou discontinue 65 jours dans l'année civile qui précède l'année des élections. Le décompte des jours travaillés sera établi à partir de la déclaration nominative annuelle des salaires du GRISS.
+Sont électeurs les salariés en CDD qui ont été sous contrat de travail dans l'entreprise de manière continue ou discontinue 55 jours dans l'année civile qui précède l'année des élections. Le décompte des jours travaillés sera établi à partir de la déclaration nominative annuelle des salaires à Audiens.
 
-Les modalités d'éligibilité des personnels concernés seront définies dans les annexes spécifiques à ce personnel.
+Au sein des entreprises en ayant la capacité, un accord collectif de travail, ou à défaut le protocole d'accord préélectoral, réglera la question de l'éligibilité des personnels en CDD.
 
-Article III. 1.3. Fonctionnement
+III. 1.3. Fonctionnement
 
 Les délégués syndicaux et les délégués du personnel seront reçus collectivement par le directeur ou ses représentants accrédités au moins une fois par mois.
 
 Les délégués syndicaux et les délégués du personnel seront en outre reçus, en cas d'urgence, sur leur demande.
 
-Sauf circonstances exceptionnelles, les délégués et les représentants syndicaux du personnel remettront à la direction, 2 jours avant la date de l'audience, une note écrite exposant sommairement l'objet de leur demande. Copie de cette note sera transcrite par les soins de la direction sur un registre spécial où la réponse sera également mentionnée dans un délai n'excédant pas six jours. Ce registre sera tenu, pendant un jour ouvrable par quinzaine, à la disposition des salariés de l'établissement qui désireraient en prendre connaissance.
+Sauf circonstances exceptionnelles, les délégués et les représentants syndicaux du personnel remettront à la direction, 2 jours avant la date de l'audience, une note écrite exposant sommairement l'objet de leur demande. Copie de cette note sera transcrite par les soins de la direction sur un registre spécial où la réponse sera également mentionnée dans un délai n'excédant pas 6 jours. Ce registre sera tenu, pendant un jour ouvrable par quinzaine, à la disposition des salariés de l'établissement qui désireraient en prendre connaissance
 
-Les délégués du personnel, titulaires comme suppléants, bénéficient d'un crédit d'heures qui, sauf circonstances exceptionnelles, ne peut excéder 15 heures par mois.
+(2).
 
-Ce plafond est porté à 20 heures dans les établissements où, en l'absence de comité d'entreprise, les délégués du personnel en exercent les attributions.
+Les délégués du personnel titulaires bénéficient d'un crédit d'heures qui, sauf circonstances exceptionnelles, ne peut excéder 15 heures par mois. En cas d'absence du titulaire, le suppléant bénéficie du crédit d'heures attribué au titulaire dans la limite du nombre d'heures de délégation non consommées par le titulaire.
 
-Ces heures sont rémunérées comme temps de travail. Ne s'impute pas sur ce crédit d'heures, et est payé comme temps de travail :
+Ce plafond est porté à 20 heures dans les établissements où, en l'absence de comité d'entreprise, les délégués du personnel en exercent les attributions
 
--le temps passé en réunion avec la direction ou son représentant ;
+(3).
 
--le temps passé en réunion dans les diverses instances constitutives de l'entreprise ;
+Ces heures sont rémunérées comme temps de travail. Ne s'imputent pas sur ce crédit d'heures et sont payés comme temps de travail :
 
--le temps passé en réunion dans les diverses instances constitutives du FNAS.
+― le temps passé en réunion avec la direction ou son représentant ;
 
-Pour l'exercice de leurs fonctions, les délégués du personnel comme les membres du comité d'entreprise ont la faculté de se déplacer à l'intérieur aussi bien qu'à l'extérieur de l'établissement, pendant les heures de travail et en dehors de celles-ci, sur simple avis et sans autre formalité préalable.
+― le temps passé en réunion dans les diverses instances constitutives de l'entreprise ;
+
+― le temps passé en réunion dans les diverses instances constitutives du FNAS.
+
+Pour l'exercice de leurs fonctions, les délégués du personnel comme les membres du comité de l'entreprise ont la faculté de se déplacer à l'intérieur aussi bien qu'à l'extérieur de l'établissement, pendant les heures de travail et en dehors de celles-ci, sur simple avis et sans autre formalité préalable.
 
 Dans chaque entreprise, la direction mettra à la disposition des délégués du personnel, en dehors des lieux destinés à recevoir le public, un panneau d'affichage distinct de ceux réservés aux organisations syndicales et de dimensions suffisantes pour permettre l'affichage des communications ayant trait tant à leurs activités normales qu'à celles qu'ils exercent éventuellement en lieu et place d'un comité d'entreprise.
 
 Pour rendre compte de leur mandat, les délégués du personnel peuvent organiser dans un temps qui, sauf circonstances exceptionnelles, n'excédera pas 2 heures tous les 2 mois, des réunions ouvertes à telle catégorie ou à l'ensemble du personnel. Le moment, le lieu et la durée de ces réunions seront fixés en accord avec la direction.
 
-Ces réunions sont distinctes de celles prévues par l'article II. 4 de la convention à l'initiative des sections syndicales.
+Ces réunions sont distinctes de celles prévues par l'article II. 4 de la convention à l'initiative des sections syndicales
+
+(4).
 
 La direction, sauf impossibilité matérielle, est tenue de mettre à la disposition des délégués du personnel un local convenant à l'exercice de leur mission ainsi que le mobilier et le matériel nécessaires.
 
 Selon les possibilités de l'établissement, ce local sera distinct ou non de celui prévu pour les sections syndicales et pour le comité d'entreprise.
 
-Article III. 1.4. Attributions
+III. 1.4. Attributions
 
 Au-delà des attributions particulières dans les divers domaines prévus par la loi ou la présente convention, les organisations signataires s'accordent pour souhaiter que les délégués du personnel soient largement associés à la définition de la politique et des orientations générales de l'entreprise.
 
@@ -141,3 +149,19 @@ Toutefois, ce délai est porté à :
 -1 semaine franche, lorsque cet avis concerne des mesures modifiant les conditions d'emploi et de travail ou le compte rendu trimestriel d'activité ;
 
 -2 semaines franches, lorsque cet avis concerne les créations et suppressions de postes, le rapport annuel, les licenciements individuels pour motif économique, les licenciements collectifs quel qu'en soit le motif, une restructuration de l'entreprise.
+
+(1) Alinéa étendu sous réserve de l'application des dispositions des alinéas 1 et 2 de l'article L. 2314-3 du code du travail.
+
+(Arrêté du 23 décembre 2009, art. 1er)
+
+(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2315-12, alinéas 1 et 2, du code du travail dont il ressort que les délais de deux jours pour transmettre les demandes et de six jours pour apporter les réponses sont comptabilisés en jours ouvrables.
+
+(Arrêté du 23 décembre 2009, art. 1er)
+
+(3) Alinéa exclu de l'extension comme étant contraire aux dispositions de l'article L. 2315-2 du code du travail, qui dispose que les délégués du personnel qui exercent les attributions économiques du comité d'entreprise en l'absence de ce dernier et par suite de carence constatée aux dernières élections bénéficient en outre d'un crédit de 20 heures par mois.
+
+(Arrêté du 23 décembre 2009, art. 1er)
+
+(4) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2315-6 du code du travail.
+
+(Arrêté du 23 décembre 2009, art. 1er)

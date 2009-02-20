@@ -1,19 +1,29 @@
 # Article VI-5 : Organisation du travail hebdomadaire et repos hebdomadaire
 
-La " semaine civile " s'entend comme le temps s'écoulant entre le lundi matin 0 heure et le dimanche soir 24 heures.
+La " semaine civile ” s'entend comme le temps s'écoulant entre le lundi matin 0 heures et le dimanche soir 24 heures.
 
-a) Sur l'organisation hebdomadaire :
+a) Sur l'organisation hebdomadaire
 
-La durée hebdomadaire du travail effectif peut être répartie de façon inégale entre les jours de la semaine, mais elle doit permettre d'assurer à chaque salarié au minimum 35 heures de repos consécutifs.
+La durée hebdomadaire du travail peut être répartie de façon inégale entre les jours de la semaine, mais elle doit permettre d'assurer à chaque salarié au minimum 35 heures de repos consécutives.
 
-La semaine de travail est habituellement organisée sur une base de cinq jours consécutifs. Il ne pourra jamais y avoir plus de six jours consécutifs de travail dans la période de référence de la modulation.
+La semaine de travail est habituellement organisée sur une base de 5 jours consécutifs. Il ne pourra jamais y avoir plus de 6 jours consécutifs de travail dans la période de référence de l'aménagement du temps de travail.
 
-Chaque salarié est assujetti à un horaire et se verra communiquer au moins trois semaines à l'avance son emploi du temps hebdomadaire définitif. Le temps de travail ainsi planifié sera, sous réserve de l'alinéa suivant, rémunéré, mais ne sera pas considéré automatiquement comme temps de travail effectif (les périodes non travaillées au sens de l'article VI-2 du présent titre et rémunérées pouvant être décomptées).
+Chaque salarié est assujetti à un horaire et se verra communiquer au moins 3 semaines à l'avance son emploi du temps hebdomadaire définitif. Le temps de travail ainsi planifié sera, sous réserve de l'alinéa suivant, rémunéré, mais ne sera pas considéré automatiquement comme temps de travail effectif (les périodes non travaillées au sens de l'article VI. 2 du présent titre, et rémunérées pouvant être décomptées).
 
-Sauf circonstance exceptionnelle imprévisible indépendante de la volonté de la direction et/ ou survenant du fait d'un tiers lié à l'exploitation (notamment du fait d'un cocontractant), toute modification d'horaire sera affichée 72 heures à l'avance. Le temps de travail ainsi modifié sera considéré comme du travail effectif. Le jour de repos fixé initialement par le planning défini à l'alinéa précédent ne pourra être modifié sans l'accord du salarié concerné.
+Aux termes de l'article L. 3122-2 du code du travail, les modifications d'horaire d'un salarié soumis à l'aménagement du temps de travail doivent lui être communiquées 7 jours à l'avance.
 
-Le salarié ne devra pas effectué plus de 20 semaines de six jours consécutifs de travail. Une réunion de contrôle de cette disposition est organisée au milieu de la " période de référence ". A l'issue de chaque " période de référence ", un bilan est effectué par l'employeur avec les représentants du personnel pour vérifier si chaque salarié n'a pas effectué plus de 20 semaines de six jours consécutifs de travail. Les accords d'entreprise détermineront les compensations éventuelles et leurs modalités, en cas de dépassement de ce seuil.
+Toutefois, en cas de circonstance exceptionnelle imprévisible indépendante de la volonté de la direction et / ou survenant du fait d'un tiers lié à l'exploitation (notamment du fait d'un cocontractant), toute modification d'horaire peut être affichée moins de 72 heures à l'avance.
 
-b) Repos hebdomadaire :
+L'employeur doit s'assurer que le salarié a été prévenu individuellement de ce changement d'horaire.
 
-Chaque salarié bénéficie d'au moins un jour de repos fixe dans la semaine. En raison de l'activité des entreprises, un salarié peut être amené à travailler le dimanche selon l'article L. 221-9 du code du travail. Cependant, chaque salarié ne pourra travailler plus de vingt dimanches par " période de référence ". Les accords d'entreprise détermineront les compensations éventuelles et leurs modalités, en cas de dépassement de ce seuil.
+Si le salarié a été prévenu du changement horaire moins de 72 heures à l'avance mais n'a pas été contraint de se déplacer ni été immobilisé dans l'entreprise, les heures décommandées seront payées, mais ne seront pas considérées comme du temps de travail effectif.
+
+Si le salarié a été prévenu du changement horaire moins de 72 heures à l'avance et a été immobilisé dans l'entreprise en raison de l'éloignement de son domicile ou d'une consigne de l'employeur, les heures décommandées seront considérées comme du temps de travail effectif. Le jour de repos fixé initialement par le planning défini à l'alinéa précédent ne pourra être modifié sans l'accord du salarié concerné...
+
+b) Repos hebdomadaire
+
+Chaque salarié bénéficie d'au moins 1 jour de repos fixe dans la semaine. En raison de l'activité des entreprises, un salarié peut être amené à travailler le dimanche selon les articles L. 3132-12 et R. 3132-5 du code du travail.
+
+Cependant, chaque salarié ne pourra travailler plus de 20 dimanches par " période de référence ”.
+
+Les accords d'entreprise détermineront les compensations éventuelles et leurs modalités en cas de dépassement de ce seuil.

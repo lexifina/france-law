@@ -1,10 +1,10 @@
-# Article IX.2 : Jours fériés, chômés, payés
+# Article IX.2
 
-Il y a 10 jours de fêtes légales en plus du 1er mai (auquel s'applique la loi du 30 avril 1947).
+Les jours fériés sont énumérés à l'article L. 3133-1 du code du travail.
 
-Le travail effectué l'un de ces jours fériés sera pris en compte dans la durée de travail annualisée. Ces jours chômés sont déjà décomptés dans le calcul du temps de travail annuel pour les salariés placés sous le régime de la modulation, déterminé à l'article VI.3 de la présente convention.
+Le travail effectué l'un de ces jours fériés sera pris en compte dans la durée de travail annualisée. Les jours chômés sont déjà décomptés dans le calcul du temps de travail annuel pour les salariés placés sous le régime de l'aménagement du temps de travail déterminé à l'article VI. 3 de la présente convention.
 
-Les salariés non soumis à la modulation bénéficieront d'avantages équivalentes à ceux des salariés placés sous le régime de la modulation. Aussi, pour les salariés non soumis à la modulation, le travail effectué l'un des jours fériés cités à l'alinéa 1 du présent article donne lieu, en compensation, à un jour de congé supplémentaire.
+Les salariés non soumis à l'aménagement du temps de travail bénéficieront d'avantages équivalant à ceux des salariés placés sous le régime de l'aménagement du temps de travail. Aussi, pour les salariés non soumis à l'aménagement du temps de travail, le travail effectué l'un des jours fériés chômés donne lieu, en compensation, à un jour de congé supplémentaire, ou est payé s'il ne peut être pris.
 
 Chaque jour férié tombant pendant la période de congés payés d'un salarié donne droit à un jour de récupération.
 
