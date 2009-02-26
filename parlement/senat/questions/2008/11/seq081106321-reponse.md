@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106321
+
+- Question : [SEQ081106321](seq081106321.md) — Difficultés d'application aux habitations isolées de la réglementation relative à la récupération des eaux de pluie
+
+## Réponse
+
+*Écologie, JO du 2009-02-26, page 496*
+
+Les mesures de l'arrêté du 21 août 2008 concernent les immeubles raccordés à un réseau public communal d'alimentation en eau potable. Les habitants résidant dans une maison non raccordée à un tel réseau public, sur les territoires que les communes ont décidé de ne pas desservir en eau potable par le réseau public, ne sont pas en infraction s'ils utilisent l'eau de pluie pour produire de l'eau de consommation. L'article 1er de l'arrêté du 21 août 2008 précise en effet qu'« est exclue (de cette définition de l'utilisation de l'eau de pluie) toute eau destinée à la consommation humaine produite en utilisant comme ressource de l'eau de pluie, dans le respect des dispositions des articles L. 1321-1 et suivants et R. 1321-1 et suivants du code de la santé publique ». Les communes n'ont pas l'obligation de desservir tous les bâtiments implantés sur leur territoire par un réseau public de distribution d'eau potable mais, quand ce dernier existe, l'article R. 111-9 du code de l'urbanisme prévoit que tout projet de bâtiment à usage d'habitation doit être alimenté par ce réseau. En l'absence de réseau public, l'article R. 111-10 du code de l'urbanisme ne s'oppose pas, si les conditions générales d'hygiène sont assurées, à ce que la production d'eau pour la consommation soit réalisée à partir d'une autre ressource telle que l'eau de pluie. Dans ce cas, l'article L. 332-15 du code de l'urbanisme prévoit que le maire exige du pétitionnaire du permis de construire du projet de bâtiment, la mise en oeuvre d'équipements agréés par le ministère en charge de la santé permettant la production d'eau pour la consommation humaine nécessaire à son alimentation.
