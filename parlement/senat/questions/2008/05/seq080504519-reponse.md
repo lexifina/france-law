@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504519
+
+- Question : [SEQ080504519](seq080504519.md) — Statut et évolution de carrière des sapeurs-pompiers professionnels
+
+## Réponse
+
+*Intérieur, JO du 2009-02-26, page 509*
+
+Les résultats de l'examen professionnel de lieutenant de sapeurs-pompiers professionnels, eu égard au nombre d'agents inscrits sur la liste des 990 lauréats de l'année 2007, prouvent la qualité professionnelle de ces personnels, qui garderont à vie le bénéfice de cet examen. Toutefois, l'inscription sur une liste d'admis à un examen professionnel n'induit pas nécessairement la nomination au grade concerné. Compte tenu de la réglementation applicable, qui prévoit un quota de nommés au titre de l'examen par rapport au nombre de nommés au titre des concours de recrutement interne et externe, la commission administrative paritaire nationale réunie le 1er avril 2008 a donné un avis favorable à la nomination de 200 lauréats de l'examen professionnel de lieutenant sur la base des règles de gestion, très favorables, proposées par la direction de la sécurité civile (DSC) et acceptées par les représentants du personnel. Si l'on tient compte des 150 lieutenants nommés au titre des concours c'est, au total, 350 lieutenants qui auront été nommés en 2008. Jamais un effort aussi important n'avait été fait. Cependant, de façon à répondre au besoin avéré des services départementaux d'incendie et de secours (SDIS) en cadres intermédiaires, la direction de la sécurité civile réfléchit à des dispositions permettant d'améliorer les conditions de nomination. Ces dispositions ne devront toutefois pas avoir pour effet de privilégier l'examen professionnel au détriment des autres modes d'accès au grade de lieutenant de sapeurs-pompiers professionnels qui, à ce jour, demeure le seul grade d'accès aux emplois supérieurs des SDIS.
