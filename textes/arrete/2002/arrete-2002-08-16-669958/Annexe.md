@@ -453,3 +453,53 @@ Ecole nationale d'ingénieurs de Saint-Etienne |
 5 |
 
 5 |
+
+Institut d'études politiques d'Aix-en-Provence |
+
+3
+
+|
+
+3
+
+|
+
+Institut d'études politiques de Lille |
+
+3
+
+|
+
+3
+
+|
+
+Institut d'études politiques de Lyon |
+
+3
+
+|
+
+3
+
+|
+
+Institut d'études politiques de Rennes |
+
+3
+
+|
+
+3
+
+|
+
+Ecole nationale supérieure d'ingénieurs de Caen |
+
+5
+
+|
+
+5
+
+|
