@@ -580,6 +580,180 @@ Le candidat fera parvenir le dossier selon les indications portées sur la convo
 
 -
 
+SECTION CHEF DE TRAVAUX
+
+Option A : exploitation agricole, productions végétales dominantes
+
+Option B : exploitation agricole, productions animales dominantes
+
+Concours externe
+
+NATURE DES ÉPREUVES
+
+|
+
+DURÉE
+
+|
+
+COEFFICIENT
+
+|
+
+Epreuve écrite d'admissibilité
+
+|
+
+|
+
+|
+
+Epreuve de sciences et techniques des productions portant sur les savoirs relatifs à l'option
+
+|
+
+4 heures
+
+|
+
+2
+
+|
+
+Epreuves orales d'admission
+
+|
+
+|
+
+|
+
+1. Analyse économique et technique d'une entreprise agricole à partir d'un dossier fourni par le candidat (a)
+
+|
+
+Epreuve : 45 minutes maximum
+
+(exposé : 20 minutes maximum
+
+entretien : 25 minutes maximum)
+
+|
+
+3
+
+|
+
+2. Entretien à partir d'une situation concrète proposée par le jury (b)
+
+|
+
+Préparation : 1 heure maximum
+
+Epreuve : 45 minutes maximum
+
+(exposé : 20 minutes maximum
+
+entretien : 25 minutes maximum)
+
+|
+
+2
+
+|
+
+(a) Cette épreuve comporte un exposé de vingt minutes maximum, suivi d'un entretien avec les membres du jury d'une durée maximale de vingt-cinq minutes. Elle prend appui sur un dossier réalisé par le candidat à partir d'une situation empruntée à l'entreprise ou à partir de son expérience professionnelle. Le candidat fera parvenir le dossier à une date fixée dans l'arrêté d'ouverture du concours.
+
+(b) L'épreuve se compose d'un exposé de vingt minutes maximum sur un sujet tiré au sort par le candidat, suivi d'un entretien avec le jury d'une durée maximale de vingt-cinq minutes. Le candidat dispose d'une heure pour préparer son exposé.
+
+|
+
+Concours interne
+
+NATURE DES ÉPREUVES
+
+|
+
+DURÉE
+
+|
+
+COEFFICIENT
+
+|
+
+Epreuve écrite d'admissibilité
+
+|
+
+|
+
+|
+
+Etude de situations pratiques comportant une analyse, une identification de problèmes et des propositions de solutions en rapport avec l'option (a)
+
+|
+
+4 heures
+
+|
+
+1
+
+|
+
+Epreuves orales d'admission
+
+|
+
+|
+
+|
+
+1. Présentation d'un thème ou d'une activité pédagogique proposée par le jury (b)
+
+|
+
+Préparation : 1 heure maximum
+
+Epreuve : 45 minutes maximum
+
+(exposé : 20 minutes maximum
+
+entretien : 25 minutes maximum)
+
+|
+
+3
+
+|
+
+2. Présentation par le candidat des acquis de son expérience professionnelle en relation avec les fonctions de professeur de lycée professionnel agricole "section chef de travaux" (c)
+
+|
+
+Epreuve : 45 minutes maximum
+
+exposé : 15 minutes maximum
+
+entretien : 30 minutes maximum)
+
+|
+
+1
+
+|
+
+(a) Cette épreuve a pour but de vérifier que le candidat maîtrise les connaissances fondamentales dans les divers domaines des sciences et techniques agronomiques et d'évaluer les acquis techniques du candidat à travers leur mise en œuvre et les résultats.
+
+(b) L'épreuve se compose d'un exposé de vingt minutes maximum sur un sujet tiré au sort par le candidat, suivi d'un entretien avec le jury d'une durée maximale de vingt-cinq minutes. Le candidat dispose d'une heure pour préparer son exposé.
+
+(c) Le candidat fait parvenir le dossier à une date fixée par l'arrêté d'ouverture du concours. Le dossier comporte des rubriques relatives à sa formation et à son expérience professionnelle dans le domaine d'activité des professeurs de lycée professionnel agricole section chef de travaux dont la fonction consistera à assurer la direction d'une exploitation ou d'un atelier pédagogique.
+
+Après une présentation par le candidat de son expérience professionnelle d'une durée maximale de quinze minutes, le jury interroge le candidat sur son dossier pendant une durée maximale de trente minutes.
+
+|
+
 SECTION NAVIGATION ET TECHNIQUE DU NAVIRE
 
 Concours externe
