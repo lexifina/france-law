@@ -534,7 +534,7 @@ Epreuve d'admissibilité
 
 |
 
-Epreuve écrite, scientifique et technique de biochimie, microbiologie et de biologie appliquée (a).
+Epreuve écrite, scientifique et technique de biochimie, microbiologie et de biologie appliquée (a)
 
 |
 
@@ -558,7 +558,7 @@ Epreuves d'admission
 
 |
 
-Préparation: 2 heures Epreuve: 2 heures maximum
+Préparation : 2 heures
 
 |
 
@@ -566,11 +566,23 @@ Préparation: 2 heures Epreuve: 2 heures maximum
 
 |
 
-2. Epreuve pratique (c).
+|
+
+Epreuve : 50 minutes maximum
+
+(exposé : 20 minutes maximum
+
+entretien : 30 minutes maximum)
 
 |
 
-Préparation: 2 heures Epreuve: 50 minutes maximum (exposé: 20 minutes maximum, entretien: 30 minutes maximum)
+|
+
+2. Epreuve pratique (c)
+
+|
+
+Préparation : 2 heures
 
 |
 
@@ -578,31 +590,45 @@ Préparation: 2 heures Epreuve: 50 minutes maximum (exposé: 20 minutes maximum,
 
 |
 
-(a) L'épreuve a pour but de vérifier que le candidat maîtrise les connaissances fondamentales dans les divers domaines de la biochimie, de la microbiologie et du génie biologique.
+|
 
-Le sujet pourra comporter une ou plusieurs questions, liées ou indépendantes. II pourra faire appel à l'utilisation de documents.
+Epreuve : 2 heures maximum
 
-L'évaluation devra permettre d'apprécier:
+|
 
-- le niveau et l'actualité des connaissances;
+|
 
-- l'aptitude à la réflexion et au raisonnement scientifique;
+a) L'épreuve a pour but de vérifier que le candidat maîtrise les connaissances fondamentales dans les divers domaines de la biochimie, de la microbiologie et du génie biologique.
+
+Le sujet pourra comporter une ou plusieurs questions, liées ou indépendantes. Il pourra faire appel à l'utilisation de documents.
+
+L'évaluation devra permettre d'apprécier :
+
+- le niveau et l'actualité des connaissances ;
+
+- l'aptitude à la réflexion et au raisonnement scientifique ;
 
 - la clarté et la rigueur de l'expression écrite.
 
-(b) Epreuve sur dossier:
+b) Epreuve sur dossier :
 
-Elle permet d'apprécier que le candidat:
+Elle permet d'apprécier que le candidat :
 
-- connaît les contenus d'enseignement et les programmes de la discipline;
+- connaît les contenus d'enseignement et les programmes de la discipline ;
 
-- a réfléchi aux finalités et à l'évolution de la discipline ainsi que sur les relations de celle-ci avec les autres disciplines;
+- a réfléchi aux finalités et à l'évolution de la discipline ainsi que sur les relations de celle-ci avec les autres disciplines ;
 
 - a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à la communication.
 
-Elle prend appui sur un dossier, fourni par le jury, pouvant comprendre: des articles à caractère scientifique ou professionnel, des textes réglementaires, des documents ou supports d'enseignement (extraits de référentiels, annales...).
+Elle prend appui sur un dossier, fourni par le jury, pouvant comprendre des articles à caractère scientifique ou professionnel, des textes réglementaires, des documents ou supports d'enseignement (extraits de référentiels, annales...).
 
-(c) Epreuve pratique: Elle permet d'apprécier: - les capacités d'exécution des techniques dans des conditions satisfaisantes de sécurité et d'efficacité; - l'aptitude à appliquer ces techniques à des situations courantes du laboratoire, à organiser le travail et à choisir des méthodes adaptées, à exploiter les résultats et à juger de leur validité.
+c) Epreuve pratique :
+
+Elle permet d'apprécier :
+
+- les capacités d'exécution des techniques dans des conditions satisfaisantes de sécurité et d'efficacité ;
+
+- l'aptitude à appliquer ces techniques à des situations courantes du laboratoire, à organiser le travail et à choisir des méthodes adaptées, à exploiter les résultats et à juger de leur validité.
 
 |
 
