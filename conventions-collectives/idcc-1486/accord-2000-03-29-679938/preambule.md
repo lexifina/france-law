@@ -1,0 +1,7 @@
+# Article Préambule
+
+L'accord national du 22 juin 1999 relatif à la durée du travail confie à une commission la charge permanente de procéder au suivi et au bilan de l'exécution de l'accord du 22 juin 1999. Cet engagement, prévu au chapitre XII de l'accord national, se matérialise par la création d'une association loi de 1901.
+
+Cette association, dénommée ADESATT, bénéficie d'une collecte annuelle auprès des entreprises de la branche d'un montant égal à 0, 2 ‰ de leur masse salariale brute.
+
+Compte tenu des moyens dont dispose l'ADESATT, cet outil doit être utilisé pour favoriser les relations paritaires au sein de la branche dans l'intérêt des entreprises et des salariés couverts par le champ conventionnel.
