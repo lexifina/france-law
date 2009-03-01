@@ -1936,9 +1936,9 @@ Sous-directeur des actions transversales et des ressources
 
 |
 
-B. - Fonctions exercées dans un service déconcentré
+B.-Fonctions exercées dans un service déconcentré
 
-1° Directeur régional de l'équipement ou directeur régional et départemental de l'équipement :
+1° directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -1956,7 +1956,7 @@ de points par emploi
 
 |
 
-Directeur régional de l'équipement d'lle-de-France
+directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France
 
 |
 
@@ -1980,7 +1980,7 @@ Directeur régional et départemental de l'équipement dans les régions : Nord-
 
 |
 
-Directeur régional de l'équipement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire
+directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire
 
 |
 
@@ -1992,7 +1992,7 @@ Directeur régional de l'équipement ou directeur régional et départemental de
 
 |
 
-Directeur régional de l'équipement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes
+directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes
 
 |
 
@@ -2072,7 +2072,7 @@ NOMBRE de points par emploi
 
 |
 
-Directeur délégué régional de l'équipement en région Ile-de-France ..
+Directeur délégué régional de l'équipement en région Ile-de-France..
 
 |
 
@@ -2084,7 +2084,7 @@ Directeur délégué régional de l'équipement en région Ile-de-France ..
 
 |
 
-Directeur délégué régional de l'équipement dans les régions : Nord -Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes
+Directeur délégué régional de l'équipement dans les régions : Nord-Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes
 
 |
 
@@ -2096,7 +2096,7 @@ Directeur délégué régional de l'équipement dans les régions : Nord -Pas-de
 
 |
 
-Directeur délégué départemental de l'équipement dans les départements : Bouches-du-Rhône, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Loire-Atlantique, Moselle, Nord, Bas-Rhin, Rhône .
+Directeur délégué départemental de l'équipement dans les départements : Bouches-du-Rhône, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Loire-Atlantique, Moselle, Nord, Bas-Rhin, Rhône.
 
 |
 
@@ -2120,7 +2120,7 @@ Directeur délégué départemental de l'équipement dans les départements : C�
 
 |
 
-Directeur délégué départemental de l'équipempent dans les départements : Calvados, Doubs, Vienne, Haute- Vienne
+Directeur délégué départemental de l'équipempent dans les départements : Calvados, Doubs, Vienne, Haute-Vienne
 
 |
 
@@ -2336,7 +2336,7 @@ Directeur régional des affaires maritimes d'Aquitaine, des Pays de la Loire, de
 
 |
 
-Directeur régional des affaires maritimes de Basse-Normandie, de Nord-Pas-de-Calais - Picardie, de Poitou-Charentes, de Languedoc-Roussillon, de Corse
+Directeur régional des affaires maritimes de Basse-Normandie, de Nord-Pas-de-Calais-Picardie, de Poitou-Charentes, de Languedoc-Roussillon, de Corse
 
 |
 
@@ -2569,3 +2569,9 @@ Délégué à l'action foncière et immobilière
 120
 
 |
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

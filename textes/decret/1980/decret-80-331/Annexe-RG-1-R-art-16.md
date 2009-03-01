@@ -10,6 +10,12 @@ Aux rapports d'accidents du travail établis par l'exploitant ;
 
 A l'information sur toutes les activités de protection et de prévention ainsi que de contrôle dans le domaine de la sécurité et de la santé.
 
-3. L'exploitant doit faire parvenir au directeur régional de l'industrie, de la recherche et de l'environnement un rapport sur les accidents mortels du travail et sur ceux qui ont donné lieu à une durée d'incapacité temporaire supérieure à 56 jours, dans lequel, outre la description de l'accident et des circonstances dans lesquelles il est survenu, l'exploitant en analysera les causes et indiquera les mesures prises pour en éviter le renouvellement.
+3.L'exploitant doit faire parvenir au directeur régional de l'environnement, de l'aménagement et du logement un rapport sur les accidents mortels du travail et sur ceux qui ont donné lieu à une durée d'incapacité temporaire supérieure à 56 jours, dans lequel, outre la description de l'accident et des circonstances dans lesquelles il est survenu, l'exploitant en analysera les causes et indiquera les mesures prises pour en éviter le renouvellement.
 
 Le silence gardé pendant plus d'un an par l'autorité compétente sur une demande d'agrément d'organismes vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

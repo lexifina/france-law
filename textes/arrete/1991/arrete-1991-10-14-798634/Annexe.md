@@ -340,15 +340,15 @@ B
 
 |
 
-- 15 000 tonnes pour les abattoirs de volailles ;
+-15 000 tonnes pour les abattoirs de volailles ;
 
 |
 
-- 40 000 tonnes pour les abattoirs de porcs ou de veaux ;
+-40 000 tonnes pour les abattoirs de porcs ou de veaux ;
 
 |
 
-- 20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces
+-20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces
 
 |
 
@@ -496,7 +496,7 @@ A
 
 |
 
-- 1re catégorie
+-1re catégorie
 
 |
 
@@ -512,7 +512,7 @@ A
 
 |
 
-- 2e catégorie
+-2e catégorie
 
 |
 
@@ -528,7 +528,7 @@ A
 
 |
 
-- 3e catégorie
+-3e catégorie
 
 |
 
@@ -544,7 +544,7 @@ A
 
 |
 
-- 4e catégorie
+-4e catégorie
 
 |
 
@@ -560,7 +560,7 @@ A
 
 |
 
-- 4e catégorie exceptionnelle
+-4e catégorie exceptionnelle
 
 |
 
@@ -694,7 +694,7 @@ Montant (en points majorés)
 
 |
 
-Chargé de mission ou chef de bureau: agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau (1)
+Chargé de mission ou chef de bureau : agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau (1)
 
 |
 
@@ -710,7 +710,7 @@ De 20 à 30 points d'indice (dans la limite de 1500 points)
 
 |
 
-Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2)
+Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2)
 
 |
 
@@ -770,7 +770,7 @@ TABLEAU IV
 
 Attribution de la nouvelle bonification indiciaire à l'administration centrale du ministère chargé de l'environnement
 
-A. - Attribution de la nouvelle bonification indiciaire à l'administration centrale du ministère chargé de l'environnement
+A.-Attribution de la nouvelle bonification indiciaire à l'administration centrale du ministère chargé de l'environnement
 
 Désignation de l'emploi
 
@@ -836,7 +836,7 @@ C
 
 |
 
-B. - Attribution de la nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'environnement
+B.-Attribution de la nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'environnement
 
 Désignation de l'emploi
 
@@ -854,7 +854,7 @@ Montant (en points majorés)
 
 |
 
-Secrétaire général en direction régionale de l'environnement
+Secrétaire général en direction régionale de l'environnement, de l'aménagement et du logement
 
 |
 
@@ -870,7 +870,7 @@ A
 
 |
 
-Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement du Nord-Pas-de-Calais
+Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement, de l'aménagement et du logement du Nord-Pas-de-Calais
 
 |
 
@@ -886,7 +886,7 @@ A
 
 |
 
-Responsable de gestion comptable ou de gestion de personnel en direction régionale de l'environnement
+Responsable de gestion comptable ou de gestion de personnel en direction régionale de l'environnement, de l'aménagement et du logement
 
 |
 
@@ -901,3 +901,9 @@ B
 25
 
 |
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

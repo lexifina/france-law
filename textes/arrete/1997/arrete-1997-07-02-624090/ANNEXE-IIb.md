@@ -1,26 +1,24 @@
 # Article ANNEXE IIb
 
-Direction régionale de l'industrie, de la recherche
-
-et de l'environnement de :
+direction régionale de l'environnement, de l'aménagement et du logement de :
 
 Procés-verbal de visite technique initiale d'un petit train routier
 
 (Document à annexer à l'arrêté préfectoral d'autorisation)
 
-1. Catégorie(s) du petit train routier :
+1. Catégorie (s) du petit train routier :
 
 2. Composition de l'ensemble en fonction de la catégorie :
 
-Catégorie I : 1 véhicule tracteur et remorque(s) (*)
+Catégorie I : 1 véhicule tracteur et remorque (s) (*)
 
-Catégorie II : 1 véhicule tracteur et remorque(s) (*)
+Catégorie II : 1 véhicule tracteur et remorque (s) (*)
 
-Catégorie III : 1 véhicule tracteur et remorque(s) (*)
+Catégorie III : 1 véhicule tracteur et remorque (s) (*)
 
-Catégorie IV : 1 véhicule tracteur et remorque(s) (*)
+Catégorie IV : 1 véhicule tracteur et remorque (s) (*)
 
-2.1. Véhicule tracteur :
+2. 1. Véhicule tracteur :
 
 Marque :
 
@@ -32,7 +30,7 @@ Carrosserie : NON SPEC
 
 Accompagnateur :
 
-2.2. Remorque n° 1 :
+2. 2. Remorque n° 1 :
 
 Marque :
 
@@ -42,7 +40,7 @@ Genre : RESP
 
 Carrosserie : NON SPEC
 
-2.3. Remorque n° 2 :
+2. 3. Remorque n° 2 :
 
 Marque :
 
@@ -52,7 +50,7 @@ Genre : RESP
 
 Carrosserie : NON SPEC
 
-2.4. Remorque n° 3 :
+2. 4. Remorque n° 3 :
 
 Marque :
 
@@ -79,3 +77,9 @@ Passagers dans la deuxième remorque :
 Passagers dans la troisième remorque :
 
 Signature : (*) Barrer la mention inutile.
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

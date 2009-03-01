@@ -2,7 +2,7 @@
 
 LISTE DES SERVICES DOTÉS D'UN BUREAU DE VOTE SPÉCIAL (BVS)
 
-A. - Chaque direction départementale de l'équipement et direction départementale de l'équipement et de l'agriculture.
+A.-Chaque direction départementale de l'équipement et direction départementale de l'équipement et de l'agriculture.
 
 En relèvent, outre les personnels qui y sont affectés :
 
@@ -12,53 +12,53 @@ En relèvent, outre les personnels qui y sont affectés :
 
 ― les agents gérés par le MEEDDAT et affectés dans les écoles d'architecture (sauf Paris et Lyon) et les services départementaux de l'architecture et du patrimoine (sauf Paris).
 
-B. - Les directions de l'équipement de Mayotte et de Saint-Pierre-et-Miquelon.
+B.-Les directions de l'équipement de Mayotte et de Saint-Pierre-et-Miquelon.
 
-C. - Chaque direction régionale de l'équipement pour les agents qui y sont affectés, ainsi que pour les agents gérés par le MEEDDAT et affectés dans les directions régionales du tourisme.
+C.-Chaque direction régionale de l'environnement, de l'aménagement et du logement pour les agents qui y sont affectés, ainsi que pour les agents gérés par le MEEDDAT et affectés dans les directions régionales du tourisme.
 
-D. - Chaque direction interdépartementale des routes.
+D.-Chaque direction interdépartementale des routes.
 
-E. - Chaque direction régionale de l'environnement.
+E.-Chaque direction régionale de l'environnement, de l'aménagement et du logement.
 
-F. - Chaque direction régionale de l'industrie, de la recherche et de l'environnement.
+F.-Chaque direction régionale de l'environnement, de l'aménagement et du logement, de l'aménagement et du logement.
 
-G. - Chaque service spécialisé de navigation.
+G.-Chaque service spécialisé de navigation.
 
-H. - Les directions régionales des affaires maritimes (DRAM) article 4 (Le Havre, Rennes, Nantes, Bordeaux et Marseille) pour les agents en fonctions dans le ressort territorial de ces DRAM, ainsi que ceux affectés dans les écoles de la marine marchande et les lycées professionnels qui leur sont rattachés.
+H.-Les directions régionales des affaires maritimes (DRAM) article 4 (Le Havre, Rennes, Nantes, Bordeaux et Marseille) pour les agents en fonctions dans le ressort territorial de ces DRAM, ainsi que ceux affectés dans les écoles de la marine marchande et les lycées professionnels qui leur sont rattachés.
 
-I. - Les directions régionales maritimes de Fort-de-France et de Saint-Denis-de-la-Réunion.
+I.-Les directions régionales maritimes de Fort-de-France et de Saint-Denis-de-la-Réunion.
 
-J. - Les centres d'études techniques de l'équipement : Est, Lyon (y compris les personnels en fonctions à la direction générale des routes [DGR-S/D] du contrôle technique des concessions), Méditerranée, Nord-Picardie, Normandie-Centre, Ouest, Sud-Ouest.
+J.-Les centres d'études techniques de l'équipement : Est, Lyon (y compris les personnels en fonctions à la direction générale des routes [DGR-S / D] du contrôle technique des concessions), Méditerranée, Nord-Picardie, Normandie-Centre, Ouest, Sud-Ouest.
 
-K. - Chaque centre interrégional de formation professionnelle.
+K.-Chaque centre interrégional de formation professionnelle.
 
-L. - L'Armement des phares et balises, à Quimper, pour tous les personnels relevant de ce service (à l'exception de ceux en fonctions à la direction des affaires maritimes [DAM] à Paris).
+L.-L'Armement des phares et balises, à Quimper, pour tous les personnels relevant de ce service (à l'exception de ceux en fonctions à la direction des affaires maritimes [DAM] à Paris).
 
-M. - Le centre d'évaluation, de documentation et d'innovation pédagogiques.
+M.-Le centre d'évaluation, de documentation et d'innovation pédagogiques.
 
-N. - Le service d'études techniques des routes et autoroutes.
+N.-Le service d'études techniques des routes et autoroutes.
 
-O. - Le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques.
+O.-Le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques.
 
-P. - Le centre d'études techniques maritimes et fluviales.
+P.-Le centre d'études techniques maritimes et fluviales.
 
-Q. - Le centre d'études des tunnels.
+Q.-Le centre d'études des tunnels.
 
-R. - Le service technique des remontées mécaniques et des transports guidés.
+R.-Le service technique des remontées mécaniques et des transports guidés.
 
-S. - Les deux établissements (Aix-en-Provence et Valenciennes) de l'Ecole nationale des techniciens de l'équipement.
+S.-Les deux établissements (Aix-en-Provence et Valenciennes) de l'Ecole nationale des techniciens de l'équipement.
 
-T. - L'Institut français de l'environnement.
+T.-L'Institut français de l'environnement.
 
-U. - Le service central d'hydrométéorologie et d'appui à la prévention des innondations.
+U.-Le service central d'hydrométéorologie et d'appui à la prévention des innondations.
 
-V. - Chacun des services de l'aviation civile suivants :
+V.-Chacun des services de l'aviation civile suivants :
 
 1° La direction générale de l'aviation civile (administration centrale, hors direction du contrôle et de la sécurité).
 
 En relèvent, outre les personnels qui y sont affectés, les agents en fonctions dans les services ci-après :
 
-― inspection générale de l'aviation civile (IGAC/CGPC) ;
+― inspection générale de l'aviation civile (IGAC / CGPC) ;
 
 ― service de gestion des taxes aéroportuaires (SGTA) ;
 
@@ -84,7 +84,7 @@ ainsi que les agents gérés par la direction générale de l'aviation civile (D
 
 9° Le service de la navigation aérienne Sud-Est ;
 
-10° Le service de la navigation aérienne Sud - Sud-Est ;
+10° Le service de la navigation aérienne Sud-Sud-Est ;
 
 11° Le service de la navigation aérienne Sud-Ouest ;
 
@@ -132,7 +132,7 @@ En relèvent, outre les personnels qui y sont affectés, les personnels du servi
 
 31° Le bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (BEA).
 
-W. - Chacun des établissements publics suivants :
+W.-Chacun des établissements publics suivants :
 
 1° L'Agence des aires marines protégées ;
 
@@ -176,7 +176,7 @@ W. - Chacun des établissements publics suivants :
 
 Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central).
 
-X. - Des bureaux de vote spéciaux sont institués dans chacun des services ou directions d'administration centrale suivantes :
+X.-Des bureaux de vote spéciaux sont institués dans chacun des services ou directions d'administration centrale suivantes :
 
 1° Conseil général des ponts et chaussées, pour tous les agents qui y exercent leurs fonctions, ainsi que ceux affectés au bureau d'enquêtes sur les accidents de transport terrestre, au bureau d'enquêtes sur les accidents de mer et à l'inspection générale des services des affaires maritimes ;
 

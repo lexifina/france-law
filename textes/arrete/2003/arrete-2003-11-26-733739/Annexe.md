@@ -28,7 +28,7 @@ Le directeur du centre d'études des tunnels.
 
 Le directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques.
 
-Les directeurs régionaux de l'équipement.
+Les directeurs régionaux de l'environnement, de l'aménagement et du logement .
 
 Les directeurs départementaux de l'équipement.
 
@@ -56,7 +56,7 @@ Les directeurs des centres interrégionaux de formation professionnelle.
 
 Les directeurs de l'Ecole nationale des ponts et chaussées, de l'Ecole nationale des travaux publics de l'Etat, de l'Ecole nationale des techniciens de l'équipement et de ses établissements, du centre d'évaluation, de documentation et d'innovation pédagogiques.
 
-Les directeurs des ports autonomes de Bordeaux, Dunkerque, Le Havre, Marseille, Nantes - Saint-Nazaire, Paris, Rouen, Strasbourg et de la Guadeloupe.
+Les directeurs des ports autonomes de Bordeaux, Dunkerque, Le Havre, Marseille, Nantes-Saint-Nazaire, Paris, Rouen, Strasbourg et de la Guadeloupe.
 
 Les directeurs des travaux maritimes à Lorient et Rochefort.
 
@@ -89,3 +89,9 @@ Les chefs de service des affaires maritimes de Papeete, Nouméa et Saint-Pierre-
 Les conseillers maritimes à Abidjan, Dakar et Londres.
 
 Les autorités d'emploi des agents gérés par le ministère de l'équipement, des transports, du logement, du tourisme et de la mer, et affectés dans d'autres ministères ou organismes.
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

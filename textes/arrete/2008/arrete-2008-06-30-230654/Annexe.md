@@ -1,6 +1,6 @@
 # Article Annexe
 
-CONVENTION TYPE RELATIVE À LA COOPÉRATION DE L'OFFICE NATIONAL DE L'EAU ET DES MILIEUX AQUATIQUES AVEC LES DIRECTIONS RÉGIONALES DE L'ENVIRONNEMENT
+CONVENTION TYPE RELATIVE À LA COOPÉRATION DE L'OFFICE NATIONAL DE L'EAU ET DES MILIEUX AQUATIQUES AVEC LES directions régionales de l'environnement, de l'aménagement et du logement
 
 Entre :
 
@@ -26,7 +26,7 @@ L'Office national de l'eau et des milieux aquatiques, dénommé ci-après ONEMA 
 
 Il acquiert, met en œuvre et diffuse des savoirs, développe la connaissance sur l'état et les usages des écosystèmes aquatiques et des ressources en eau, participe à l'exercice de la police de l'eau et des milieux aquatiques, apporte un appui technique aux pouvoirs publics et aux acteurs de la gestion de l'eau pour concevoir et mettre en œuvre les politiques publiques de l'eau.
 
-Il collabore avec les directions régionales de l'environnement, dénommées ci-après les DIREN, (ou les directions qui reprendront leurs fonctions) dans la mise en œuvre de la politique de l'eau et des milieux aquatiques.
+Il collabore avec les directions régionales de l'environnement, de l'aménagement et du logement , dénommées ci-après les DIREN, (ou les directions qui reprendront leurs fonctions) dans la mise en œuvre de la politique de l'eau et des milieux aquatiques.
 
 Dans le cadre du schéma directeur des données sur l'eau, l'ONEMA est notamment maître d'ouvrage des réseaux de mesure de la directive-cadre européenne pour le compartiment piscicole.
 
@@ -52,7 +52,7 @@ Article 1er
 
 Objet
 
-La présente convention a pour objet de préciser la coopération de l'Office national de l'eau et des milieux aquatiques (ONEMA) avec les directions régionales de l'environnement (DIREN) pour la réalisation des missions incombant à l'établissement public.
+La présente convention a pour objet de préciser la coopération de l'Office national de l'eau et des milieux aquatiques (ONEMA) avec les directions régionales de l'environnement, de l'aménagement et du logement (DIREN) pour la réalisation des missions incombant à l'établissement public.
 
 Article 2
 
@@ -212,10 +212,16 @@ Une réunion annuelle est organisée par le directeur régional de l'environneme
 
 Les éléments de ce bilan ainsi que les axes de travail du plan d'actions prévu pour l'année font l'objet d'une présentation lors d'une réunion rassemblant, notamment, les chefs de service départemental de police de l'eau et les chefs de MISE.
 
-Le .
+Le.
 
 Le directeur général de l'ONEMA,
 
 Le préfet de région,
 
 (1) Si la région est le siège du comité de bassin, ajouter en fin de phrase la mention : dans les conditions prévues à l'article 5 de la présente convention ». (2) On citera à ce stade, dans chaque région et en fonction de leurs enjeux respectifs, les sujets en question prioritaires pour les années à venir. (3) Lister à ce stade quelques actions ou commandes répondant à ces besoins de niveau régional (variables par nature d'une région à l'autre), fixer un calendrier avec des échéances précises.C'est également ici que pourraient être détaillées et que devraient figurer toutes les précisions nécessaires sur les rôles que pourrait tenir l'ONEMA (et les contributions à apporter) dans diverses politiques (zones humides ou encore politique migrateurs-COGEPOMI, par exemple) ou dans différentes actions de planification. (4) On citera à ce stade, dans chaque région et en fonction de leurs enjeux respectifs, les sujets en question prioritaires pour les années à venir. (5) Préciser la date d'approbation du SDDE. Le cas échéant, joindre en annexe le SDDE ou un résumé de celui-ci pour la partie biologique. (6) Lorsque la région n'est pas le siège de la délégation interrégionale.
+
+NOTA :
+
+Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
+
+Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.
