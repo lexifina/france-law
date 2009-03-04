@@ -6,7 +6,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : opérateur(trice) en cordonnerie et multiservices.
+Titre professionnel : cordonnier multiservices .
 
 Niveau : V.
 
@@ -14,7 +14,7 @@ Code NSF : 243 r.
 
 Résumé du référentiel d'emploi
 
-L'opérateur(trice) en cordonnerie et multiservices réceptionne et propose aux clients des prestations courantes sur les produits à entretenir (chaussures, sacs, couteaux, ciseaux...) ou à fabriquer (plaques gravées, minéralogiques, clés). Il (elle) commande les services sous-traités (tampons, imprimerie...) et fournitures utiles, exécute les opérations correspondantes à la commande en mettant en oeuvre le matériel nécessaire. Dans les délais prévus, il (elle) restitue les travaux réalisés aux clients, vend des articles associés en encaissant le prix.
+Le cordonnier multiservices réceptionne et propose aux clients des prestations courantes sur les produits à entretenir (chaussures, sacs, couteaux, ciseaux...) ou à fabriquer (plaques gravées, minéralogiques, clés). Il (elle) commande les services sous-traités (tampons, imprimerie...) et fournitures utiles, exécute les opérations correspondantes à la commande en mettant en oeuvre le matériel nécessaire. Dans les délais prévus, il (elle) restitue les travaux réalisés aux clients, vend des articles associés en encaissant le prix.
 
 Le (la) titulaire de l'emploi négocie avec les clients les prestations à réaliser et détermine lui-même les différentes fournitures à utiliser.
 
@@ -122,7 +122,7 @@ Artisan en cordonnerie et multiservices.
 
 Code ROME :
 
-47222 - Réparateur (réparatrice) d'articles en cuir et autres matériaux souples.
+47222-Réparateur (réparatrice) d'articles en cuir et autres matériaux souples.
 
 Réglementation de l'activité :
 
@@ -139,3 +139,7 @@ Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 Décret n° 2002-1029 du 2 août 2002 ;
 
 Arrêté du 25 novembre 2002.
+
+NOTA :
+
+L'arrêté du 12 février 2004 est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur de l'arrêté du 12 février 2009 c'est à dire à compter du 4 mars 2009.
