@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801350
+
+- Question : [SEQ070801350](seq070801350.md) — Prise en charge du coût de l'eau consommée lors d'un entraînement de sapeurs pompiers
+
+## Réponse
+
+*Intérieur, JO du 2009-03-05, page 569*
+
+Les termes de la question étant identiques à ceux de la question n° 1733 en date du 31 juillet 2007 posée par Mme la députée Zimmermann, la réponse sera donc la même. Conformément à l'article L. 2212-2 (5°) du code général des collectivités territoriales (CGCT), la lutte contre l'incendie constitue une compétence de police administrative générale, dévolue au maire. Par conséquent, même si la compétence de distribution de l'eau potable a été déléguée à une société privée, les obligations de la commune et la responsabilité du maire en matière de lutte contre l'incendie demeurent inchangées. Le maire doit prendre toutes les dispositions nécessaires pour assurer le bon fonctionnement du service d'incendie et de secours, et répondre aux dommages matériels constatés à la suite d'un exercice d'entraînement des sapeurs-pompiers. L'ensemble des dépenses se rapportant à l'exercice de lutte contre l'incendie est ainsi assumé par le budget général de la commune, conformément à l'article L. 2321-2 (7°) du CGCT. En ce qui concerne la fourniture d'eau nécessaire à la lutte contre l'incendie, celle-ci est, pour des motifs d'intérêt général, effectuée à titre gratuit, y compris lorsqu'elle provient d'un réseau d'eau potable géré par un syndicat intercommunal ou confié à un délégataire de service public. L'article L. 2224-12-1 au CGCT précise, en effet, que la fourniture d'eau, quel qu'en soit son bénéficiaire, fait l'objet d'une facturation en application du tarif applicable à la catégorie d'usagers correspondante, sauf si les consommations d'eau publiques sont utilisées pour la lutte contre l'incendie.
