@@ -414,6 +414,22 @@ LMS = 0,05 mg/kg (1).
 
 |
 
+15404
+
+|
+
+000652-67-5
+
+|
+
+1, 4 : 3, 6-Dianhydrosorbitol.
+
+|
+
+LMS = 5 mg / kg. A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate.)
+
+|
+
 11470
 
 |
@@ -1820,6 +1836,20 @@ QMS = 5 mg/6 dm².
 
 |
 
+15404
+
+|
+
+000652-67-5 |
+
+1,4 : 3,6-Dianhydrosorbitol.
+
+|
+
+LMS = 5 mg / kg.A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate.
+
+|
+
 15565
 
 |
@@ -2872,7 +2902,21 @@ Acide isophthalique.
 
 |
 
-LMS = 5 mg/kg.
+LMS (T) = 5 mg/kg (43).
+
+|
+
+19180
+
+|
+
+000099-63-8 |
+
+Dichlorure de l'acide isophthalique.
+
+|
+
+LMS (T) = 5 mg / kg (43) (exprimé en acide isophthalique).
 
 |
 
@@ -5151,6 +5195,20 @@ N-vinyl-N-méthylacétamide.
 |
 
 QM = 2 mg/kg de PF.
+
+|
+
+26305
+
+|
+
+000078-08-0 |
+
+Vinyltriéthoxysilane.
+
+|
+
+LMS = 0, 05 mg / kg.A utiliser uniquement comme agent pour traitement de surfaces.
 
 |
 

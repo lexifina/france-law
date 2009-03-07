@@ -138,6 +138,18 @@ POLYMÈRE D'ACIDE DIBUTYLTHIOSTANNOÏQUE.
 
 Unité moléculaire = (C8H18S3Sn2) n (n = 1, 5-2). |
 
+60025
+
+|
+
+Spécifications :
+
+- viscosité minimale (à 100° C) = 3, 8 cSt ;
+
+- PM moyen ¹ 450.
+
+|
+
 64990 |
 
 Sel de sodium du copolymère du styrène et de l'anhydride maléique.
@@ -175,6 +187,30 @@ Monomère aromatique résiduel ≤ 50 ppm. |
 POLYDIMÉTHYLSILOXANE (pm > 6 800).
 
 Viscosité minimale : 100 × 10-6m ² / s (= 100 centistokes) à 25° C. |
+
+76723
+
+|
+
+Spécifications :
+
+La fraction dont le poids moléculaire est inférieur à 1 000 ne doit pas dépasser 1, 5 % p / p.
+
+|
+
+76725
+
+|
+
+Spécifications :
+
+La fraction dont le poids moléculaire est inférieur à 1 000 ne doit pas dépasser 1 % p / p.
+
+|
+
+|
+
+|
 
 76815 |
 
@@ -246,13 +282,27 @@ Autres spécifications :
 
 - acidité max. de 10 mg de KOH par gramme ;
 
-- intervalle de fusion de 85 à 110° C.f |
+- intervalle de fusion de 85 à 110° C. |
 
 88640 |
 
 HUILE DE SOJA EPOXYDÉE.
 
 Oxirane < 8 %, indice d'iode < 6. |
+
+95858
+
+|
+
+Spécifications :
+
+- poids moléculaire moyen au moins égal à 350 ;
+
+- viscosité minimale à 100° C de 2, 5 cSt ;
+
+- teneur en hydrocarbures minéraux avec un nombre de carbones inférieur à 25 : pas plus de 40 % (p / p).
+
+|
 
 95859 |
 

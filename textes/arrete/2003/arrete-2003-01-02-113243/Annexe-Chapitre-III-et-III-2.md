@@ -1,4 +1,4 @@
-# Article Annexe Chapitre III et III-2
+# Article Annexe Chapitre III et III-1
 
 Chapitre III
 
@@ -46,7 +46,7 @@ Conformément aux spécifications du chapitre IV.
 
 |
 
-Chapitre III-2
+Chapitre III-1
 
 Substances lipophiles auxquelles s'applique le FRTMG
 
@@ -99,6 +99,18 @@ Acrylate de 2, 4-di-tert-pentyl-6-[1-(3, 5-di-tert-pentyl-2-hydroxyphényl)-éth
 |
 
 Adipate de bis (2-éthylhexyle).
+
+|
+
+34130
+
+|
+
+-
+
+|
+
+Alkyle linéaire à nombre pair d'atomes de carbone (C12-C20) diméthylamines.
 
 |
 
@@ -207,6 +219,18 @@ Diphosphite de bis (2, 4-dicumylphényl) pentaérythritol.
 |
 
 1, 1-bis (2-hydroxy-3, 5-di-tert-butylphényl) éthane.
+
+|
+
+39815
+
+|
+
+182121-12-6
+
+|
+
+9, 9-bis (méthoxyméthyl) fluorène.
 
 |
 
@@ -423,6 +447,18 @@ N, N'-diphénylthiourée.
 |
 
 2-éthoxy-2'-éthyloxanilide.
+
+|
+
+53670
+
+|
+
+032509-66-3
+
+|
+
+Bis [3, 3-bis (3-tert-butyl-4-hydroxyphényl) butyrate] d'éthylène glycol.
 
 |
 
