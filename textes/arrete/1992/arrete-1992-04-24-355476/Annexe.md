@@ -100,7 +100,7 @@ Comités locaux des pêches maritimes et des élevages marins de Bordeaux, Arcac
 
 Bordeaux (Gironde) |
 
-41
+28
 
 |
 
