@@ -2386,45 +2386,23 @@ Techniciens supérieurs d'études et de fabrications
 
 |
 
-CAPL/TSEF - Saint-Germain-en-Laye
+CAPL/TSEF -Ile-de-France Nord-Est
 
-M. le général commandant de la région terre Ile- de-France (RTIDF).
+M. le général commandant la région Terre Ile-de-France (RTIDF)
 
 |
 
-Etablissements air de la région aérienne Nord (RAN) y compris la BA117/Paris.
+Administration centrale, personnels affectés à l'étranger (hors COMFOR).
 
-Services d'administration centrale + personnels affectés dans les ambassades.
+Etablissements relevant de la DIRISI situés dans les zones de défense Nord, Est et de Paris.
 
-Services communs implantés sur le territoire de la région terre Ile-de-France.
+Autres organismes interarmées situés dans les zones de défense Nord, Est et de Paris.
 
-DPSD (tous sites).
+Etablissements de la direction du renseignement militaire situés sur l'ensemble du territoire métropolitain.
 
-Services des essences implantés sur le territoire de la région terre Ile-de-France.
+Services de la direction de la protection et de la sécurité de la défense situés dans les zones de défense Nord, Est et de Paris.
 
-Services des essences implantés sur le territoire de la région terre Nord-Est.
-
-Etablissements de la gendarmerie des régions de gendarmerie de Metz et de Lille et Ile-de-France.
-
-Etablissements du service de santé implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements du service de santé implantés sur le territoire de la région terre Nord-Est.
-
-Etablissements de l'armée de terre implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements de l'armée de terre implantés sur le territoire de la région terre Nord-Est.
-
-Etablissements DCN implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements relevant de la DSN implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements relevant de la DSN implantés sur le territoire de la région terre Nord-Est.
-
-Toutes armées et services implantés dans les DOM/TOM et en Afrique.
-
-Services déconcentrés des anciens combattants implantés sur le territoire de la région terre Ile-de-France.
-
-Services déconcentrés des anciens combattants implantés sur le territoire de la région terre Nord-Est y compris l'établissement de Château-Chinon.
+Etablissements de l'armée de l'air situés dans les zones de défense Nord, Est et de Paris.
 
 |
 
@@ -2440,9 +2418,9 @@ Techniciens supérieurs d'études et de fabrications de 1re classe.
 
 |
 
-2 représentants titulaires et 2 représentants suppléants de l'armée de terre (1 RTIDF, 1 RTNE).
+6 titulaires.
 
-1 représentant titulaire du service d'infrastructure de la défense (RTNE).
+6 suppléants
 
 |
 
@@ -2458,7 +2436,139 @@ Techniciens supérieurs d'études et de fabrications de 2e classe.
 
 |
 
-1 représentant suppléant du service de santé des armées (RTIDF). représentant titulaire de l'armée de l'air.
+Techniciens supérieurs d'études et de fabrications de 3e classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
+Etablissements du service des essences situés en zones de défense Nord, Est et de Paris.
+
+Etablissements relevant des régions de gendarmerie Nord -Pas-de-Calais, Picardie, Champagne-Ardenne, Lorraine, Alsace, Bourgogne, Franche-Comté et Ile-de-France.
+
+Etablissements de la marine situés en zone de défense de Paris.
+
+Etablissements du service de santé situés en zones de défense Nord, Est et de Paris.
+
+Etablissements de l'armée de terre situés en zones de défense Nord, Est et de Paris.
+
+Etablissements relevant de la DSN situés en zones de défense Nord, Est et de Paris.
+
+Tous services relevant des COMSUP et COMFOR.
+
+Services de la direction des statuts, des pensions et de la réinsertion sociale situés en zones de défense Nord, Est et de Paris.
+
+Services de la direction des statuts, des pensions et de la réinsertion sociale situés à l'étranger.
+
+Etablissements du service d'infrastructure de la défense situés en zones de défense Nord, Est et de Paris.
+
+Service historique de la défense.
+
+Ecole Polytechnique.
+
+ENSTA.
+
+Musée de l'air et de l'espace.
+
+ECPAD.
+
+ONAC.
+
+Musée de l'armée.
+
+Musée national de la marine.
+
+Institution nationale des invalides.
+
+EPIDe.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+CAPL/TSEF
+
+Ouest
+
+M. le commandant de la région maritime Atlantique
+
+|
+
+Centre d'identification des matériels de la défense.
+
+Services des essences situés en zone de défense Ouest.
+
+Etablissements relevant des régions de gendarmerie Haute-Normandie, Basse-Normandie, Centre, Pays de la Loire et Bretagne.
+
+Etablissements relevant de la région maritime Atlantique.
+
+Etablissements du service de santé situés en zone de défense Ouest.
+
+Etablissements relevant de la région Terre Nord-Ouest.
+
+Services et établissements de la DGA situés en zone de défense Nord-Ouest (sauf le site de Gâvres-Plouhinec du CELM).
+
+Etablissements relevant de la DSN situés en zone de défense Ouest.
+
+Etablissements du service d'infrastructure de la défense situés en zone de défense Ouest.
+
+Services de la direction des statuts, des pensions et de la réinsertion sociale situés en zone de défense Ouest.
+
+Services de la DPSD situés en zone de défense Ouest.
+
+Etablissements de la DIRISI situés en zone de défense Ouest.
+
+Autres organismes interarmées (sauf DRM) situés en zone de défense Ouest.
+
+Etablissements de l'armée de l'air situés en zone de défense Ouest.
+
+ENSIETA.
+
+SHOM.
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 1re classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+6 titulaires.
+
+6 suppléants.
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 2e classe.
+
+|
+
+2
+
+|
+
+2
 
 |
 
@@ -2466,65 +2576,167 @@ Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 |
 
-3
+2
 
 |
 
-3
+2
 
 |
 
-1 représentant suppléant du service national (RTIDF).
+CAPL/TSEF
 
-1 représentant titulaire du service d'infrastructure de la défense (RTIDF).
+Sud -Sud-Est
 
-1 représentant suppléant du service des essences (RTNE).
+M. le directeur du centre d'essais en vol (Istres).
 
-1 représentant titulaire de l'administration centrale (SMG).
+|
 
-1 représentant suppléant de la DPSD.
+Etablissements relevant de l'armée de l'air situés en zones de défense Sud et Sud-Est.
 
-1 représentant titulaire de la gendarmerie d'Ile-de-France.
+Etablissements relevant du service des essences des armées situés dans les zones de défense Sud et Sud-Est.
 
-1 représentant suppléant du service historique de la défense.
+Etablissements relevant des régions de gendarmerie de Rhône-Alpes, Auvergne, Corse, Provence-Alpes-Côte d'Azur et Languedoc-Roussillon.
+
+Etablissements relevant de la région maritime Méditerranée.
+
+Etablissements relevant du service de santé des armées dans les zones de défense Sud et Sud-Est.
+
+Etablissements relevant de la région Terre Sud-Est.
+
+Services et établissements de la délégation générale pour l'armement (DGA) situés en zones de défense Sud et Sud-Est, y compris l'ensemble du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge), sauf le site Méditerranée du CELM.
+
+Etablissements relevant de la DSN situés dans les zones de défense Sud et Sud-Est.
+
+Services de la direction des statuts, des pensions et de la réinsertion sociale situés dans les zones de défense Sud et Sud-Est.
+
+Etablissements du service d'infrastructure de la défense situés dans les zones de défense Sud et Sud-Est.
+
+Services de la DPSD situés dans les zones de défense Sud et Sud-Est.
+
+Etablissements de la DIRISI et tous autres organismes interarmées situés dans les zones de défense Sud et Sud-Est.
+
+CNMSS.
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 1re classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+6 titulaires.
+
+6 suppléants
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 2e classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 3e classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+CAPL/TSEF Sud-Ouest
+
+Le chef du bureau de la gestion déconcentrée du personnel civil (Bordeaux).
+
+|
+
+Etablissements relevant de l'armée de l'air situés en zone de défense Sud-Ouest.
+
+Sous-direction des pensions de la direction des ressources humaines du ministère de la défense.
+
+Etablissements relevant du service des essences des armées situés en zone de défense Sud-Ouest.
+
+Etablissements relevant du service de santé des armées situés en zone de défense Sud-Ouest.
+
+Etablissements relevant de la région Terre Sud-Ouest.
+
+Services et établissements de la délégation générale pour l'armement (DGA) situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres-Plouhinec) sauf les sites de Cazaux et de Toulouse du CEV.
+
+Etablissements relevant des régions de gendarmerie Poitou-Charentes, Limousin, Aquitaine et Midi-Pyrénées.
+
+Services de la direction des statuts, des pensions et de la réinsertion sociale situés en zone de défense Sud-Ouest.
+
+Etablissements du service d'infrastructure de la défense situés en zone de défense Sud-Ouest.
+
+Etablissements relevant de la DSN situés en zone de défense Sud-Ouest.
+
+Services de la DPSD situés en zone de défense Sud-Ouest.
+
+Etablissements de la DIRISI situés en zone de défense Sud-Ouest.
+
+Tous autres organismes interarmées situés en zone de défense Sud-Ouest.
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 1re classe.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+6 titulaires.
+
+6 suppléants.
+
+|
+
+Techniciens supérieurs d'études et de fabrications de 2e classe.
+
+|
+
+2
+
+|
+
+2
 
 |
 
 |
 
-Services déconcentrés des anciens combattants implantés à Tunis, Casablanca et Alger.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région terre Nord-Est.
-
-Etablissements du service historique de la défense implantés sur le territoire de la région terre Ile-de-France.
-
-Etablissements du service historique de la défense implantés sur le territoire de la région terre Nord-Est.
-
-Etablissements publics administratifs implantés sur le territoire de la région terre Ile-de-France :
-
-- école polytechnique (Palaiseau) ;
-
-- ENTSA (Paris) ;
-
-- musée de l'air et de l'espace (Le Bourget) ;
-
-- ECPAD (Ivry-sur-Seine) ;
-
-- ONAC (Paris) ;
-
-- musée de l'armée (Paris) ;
-
-- musée national de la marine (Paris) ;
-
-- Institution nationale des Invalides (Paris).
+Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 |
 
-|
+2
 
 |
+
+2
 
 |
 
@@ -2532,39 +2744,17 @@ Etablissements publics administratifs implantés sur le territoire de la région
 
 CAPL/TSEF Paris
 
-M. le commandant de la marine à Paris.
+M. le délégué général pour l'armement.
+
+Direction des ressources humaines.
 
 |
 
-CIMD Bruz.
+Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH/CSRH, DQP/SQ, DQP/CTSI, DQP/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/SSF, DET/CEP, DE/SCAS) est situé en zone de défense de Paris.
 
-Etablissements du service des essences implantés sur le territoire de la région terre Nord-Ouest.
+Tous établissements de NEXTER.
 
-Etablissements de gendarmerie de la région de gendarmerie de Rennes.
-
-Etablissements de la marine implantés sur le territoire de la région maritime Atlantique et arrondissement maritime de Cherbourg.
-
-Etablissements de la marine du COMAR Paris.
-
-Etablissements du service de santé implantés sur le territoire de la région terre Nord-Ouest.
-
-Etablissements de l'armée de terre implantés sur le territoire de la région terre Nord-Ouest.
-
-Etablissements DCN implantés sur le territoire de la région terre Nord-Ouest (Brest, Cherbourg, Lorient, Indret).
-
-Etablissements de la DGA implantés sur le territoire de la région terre Nord-Ouest.
-
-Etablissements relevant de la DSN implantés sur le territoire de la région terre Nord-Ouest.
-
-Services déconcentrés des anciens combattants implantés sur le territoire de la région terre Nord-Ouest.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région terre Nord-Ouest.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région maritime Atlantique, de l'arrondissement maritime de Cherbourg et du commandement de la marine de Paris.
-
-Etablissements du service historique de la défense implantés sur le territoire de la région maritime Atlantique.
-
-Etablissement public administratif implanté sur le territoire de la région Terre Nord-Ouest : - ENSIETA/Brest.
+Tous établissements de DCNS.
 
 |
 
@@ -2580,23 +2770,9 @@ Techniciens supérieurs d'études et de fabrications de 1re classe.
 
 |
 
-1 représentant titulaire COMAR Paris.
+6 titulaires.
 
-1 représentant suppléant de la région maritime atlantique Brest.
-
-1 représentant titulaire et 1 représentant suppléant de l'armée de terre.
-
-1 représentant titulaire et 1 représentant suppléant de la DGA.
-
-1 représentant titulaire et 1 représentant suppléant du service d'infrastructure de la défense (marine).
-
-1 représentant titulaire du service d'infrastructure de la défense (terre RTNO).
-
-1 représentant suppléant du CIMD.
-
-1 représentant titulaire du service de santé des armées.
-
-1 représentant suppléant de la gendarmerie.
+6 suppléants.
 
 |
 
@@ -2609,232 +2785,6 @@ Techniciens supérieurs d'études et de fabrications de 2e classe.
 |
 
 2
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 3e classe.
-
-|
-
-CAPL/TSEF Istres
-
-M. le directeur du centre d'essais en vol Istres.
-
-|
-
-Etablissements du service des essences implantés sur le territoire de la région terre Sud-Est.
-
-Etablissements de la gendarmerie des régions de gendarmerie de Lyon et de Marseille.
-
-Etablissements de la marine implantés sur le territoire de la région maritime Méditerranée.
-
-Etablissements du service de santé implantés sur le territoire de la région terre Sud-Est.
-
-Etablissements DCN implantés sur le territoire de la région terre Sud-Est (Toulon, ingéniérie Sud, ingéniérie CN/Saint-Tropez).
-
-Etablissements de la DGA implantés sur le territoire de la région terre Sud-Est y compris le CEV (sites d' Istres, de Cazaux, de Toulouse et de Brétigny).
-
-Services des anciens combattants implantés sur le territoire de la région terre Sud-Est.
-
-Etablissements terre implantés sur le territoire de la région terre Sud-Est.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région terre Sud-Est.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région maritime Méditerranée.
-
-Etablissement du service historique de la défense implanté sur le territoire de la région maritime Méditerranée.
-
-Etablissements de la DSN implantés sur le territoire de la région terre Sud-Est.
-
-Etablissement public administratif implanté sur le territoire de la région terre Sud-Est :
-
-- CNMSS/Toulon.
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 1re classe.
-
-|
-
-2
-
-|
-
-2
-
-|
-
-1 représentant titulaire et 1 représentant suppléant de la DGA.
-
-1 représentant titulaire et 1 représentant suppléant de l'armée de terre.
-
-1 représentant titulaire et 1 représentant suppléant de la marine.
-
-1 représentant titulaire du service d'infrastructure de la défense (terre).
-
-1 représentant titulaire du service d'infrastructure de la défense (marine).
-
-1 représentant titulaire du service de santé des armées.
-
-1 représentant suppléant de la gendarmerie.
-
-1 représentant titulaire du service des essences.
-
-1 représentant suppléant du service national.
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 2e classe.
-
-|
-
-2
-
-|
-
-2
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 3e classe.
-
-|
-
-2
-
-|
-
-2
-
-|
-
-CAPL/TSEF Bordeaux
-
-M. le général commandant la région aérienne Sud (RAS).
-
-|
-
-Etablissements air de la région aérienne Sud (RAS).
-
-Services communs implantés sur le territoire de la région terre Sud-Ouest (services des pensions à La Rochelle).
-
-Etablissements du service des essences implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissements du service de santé implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissements de l'armée de terre implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissement DCN implanté sur le territoire de la région terre Sud-Ouest (Ruelle).
-
-Etablissements de la DGA implantés sur le territoire de la région terre Sud-Ouest y compris le CELM (sites des Landes, de Méditerranée et de Gâvres/Plouhinec).
-
-Etablissements de la gendarmerie de la région de gendarmerie de Bordeaux.
-
-Services déconcentrés des anciens combattants implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissements du service d'infrastructure de la défense implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissement du service historique de la défense implanté sur le territoire de la région terre Sud-Ouest (CAAPC/Châtellerault).
-
-Etablissements de la DSN implantés sur le territoire de la région terre Sud-Ouest.
-
-Etablissements publics administratifs implantés sur le territoire de la région terre Sud-Ouest :
-
-- SUPAERO/Toulouse - ENSICA/Toulouse.
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 1re classe.
-
-|
-
-2
-
-|
-
-2
-
-|
-
-1 représentant titulaire de l'armée de l'air.
-
-1 représentant suppléant de la DGA.
-
-1 représentant titulaire de la DGA.
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 2e classe. Techniciens supérieurs d'études et de fabrications de 3e classe
-
-|
-
-2
-
-|
-
-2
-
-|
-
-1 représentant suppléant de l'armée de terre.
-
-1 représentant titulaire de l'armée de terre.
-
-1 représentant suppléant du service historique de la défense.
-
-1 représentant titulaire du service d'infrastructure de la défense (terre - RTSO).
-
-1 représentant suppléant du service national.
-
-1 représentant titulaire du service de santé des armées.
-
-1 représentant suppléant du service des essences.
-
-1 représentant titulaire du SPA La Rochelle.
-
-1 représentant suppléant de la gendarmerie.
-
-|
-
-CAPL/TSEF PARIS
-
-M. le délégué général pour l'armement. Direction des ressources humaines.
-
-|
-
-Services et établissements de la DGA dont l'échelon central est implanté sur le territoire de la région terre Ile-de-France.
-
-- Etablissements de GIAT/Industries implantés sur l'ensemble du territoire métropolitain.
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 1er classe.
-
-|
-
-2
-
-|
-
-2
-
-|
-
-6 représentants titulaires et 6 représentants suppléants de la DGA (à définir et à désigner par la DGA/DRH).
-
-|
-
-Techniciens supérieurs d'études et de fabrications de 2e classe.
-
-|
-
-2
-
-|
-
-2
-
-|
 
 |
 
