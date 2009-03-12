@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206630
+
+- Question : [SEQ081206630](seq081206630.md) — Sous-effectifs des commissariats de Laon et de Soissons
+
+## Réponse
+
+*Intérieur, JO du 2009-03-12, page 640*
+
+Contrairement à ce que suggère l'honorable parlementaire, les effectifs de la sécurité publique dans l'Aisne ont été sensiblement renforcés au cours des dernières années. Ils sont passés de 379 au 1er janvier 2007 à 391 au 1er janvier 2008 et à 392 au 1er février 2009. Cet effectif inclut 313 gradés et gardiens de la paix, soit un nombre supérieur à l'effectif départemental de fonctionnement annuel, qui permet d'adapter les ressources en personnels aux besoins locaux et qui s'élève à 310. La création de la section départementale d'intervention et du centre d'information et de commandement a permis d'améliorer la réactivité et l'efficacité des services. S'agissant d'une réorganisation et non d'une charge nouvelle, il était initialement prévu que ces nouvelles structures, qui ont vocation à intervenir en appui des circonscriptions, soient pourvues par des redéploiements internes. Cependant, 10 fonctionnaires supplémentaires ont été affectés dans ce département pour la mise en place de la section départementale d'intervention. Les effectifs de la circonscription de sécurité publique de Laon ont également augmenté. Elle est dotée de 113 fonctionnaires au 1er février 2009, contre 109 au 1er janvier 2008. S'agissant de la circonscription de Soissons, ses effectifs sont stables : ils étaient de 66 au 1er janvier 2008 et sont à ce même niveau au 1er février 2009. Concernant les départs en retraite, il n'en est pas prévu, à ce stade, au sein de la circonscription de Laon. Feront valoir leur droit à la retraite en 2009 trois gradés et gardiens de la circonscription de Soissons qui devrait toutefois disposer de deux gardiens de la paix supplémentaires au 1er mars. Comme ces chiffres en témoignent, les départs à la retraite sont donc globalement compensés.
