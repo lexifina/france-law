@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206536
+
+- Question : [SEQ081206536](seq081206536.md) — Subventionnement d'associations sportives par un syndicat intercommunal de gestion d'un équipement sportif
+
+## Réponse
+
+*Intérieur, JO du 2009-03-12, page 640*
+
+Aux termes de l'article L. 5212-1 du code général des collectivités territoriales, le syndicat de communes est un établissement public de coopération intercommunale associant des communes en vue d'oeuvres ou de services d'intérêt intercommunal. En vertu de l'article L. 5212-18 du même code, le budget du syndicat de communes pourvoit aux dépenses de création et d'entretien des établissements ou services pour lesquels le syndicat est constitué. Dès lors qu'une association mène, par son objet ou son activité, une action à caractère intercommunal se rattachant à la compétence transférée au syndicat, celui-ci peut décider de lui allouer une subvention pour contribuer à la réalisation de son objet (cf. cour administrative d'appel de Marseille, 29 avril 2003, syndicat d'agglomération nouvelle du nord-ouest de l'étang de Berre ; cour administrative d'appel de Marseille, 9 avril 2004, commune de Valernes). Des associations sportives à caractère intercommunal peuvent ainsi bénéficier de subventions accordées par un syndicat intercommunal ayant vocation en matière sportive. Toutefois la vocation du syndicat, telle que résultant de ses statuts, s'interprète strictement. Le principe de spécialité qui régit le fonctionnement de ces établissements publics s'oppose en effet à toute intervention en dehors de leur champ de compétences ainsi déterminé. L'attribution de subventions n'étant pas en elle-même constitutive d'une compétence, elle doit s'appuyer sur une compétence statutaire, telle que la participation à la gestion ou à l'animation du service des sports, pour pouvoir fonder une participation financière envers les associations qui concourent à sa pratique.
