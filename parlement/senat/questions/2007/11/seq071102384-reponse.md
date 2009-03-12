@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102384
+
+- Question : [SEQ071102384](seq071102384.md) — Saisine du juge aux affaires familiales
+
+## Réponse
+
+*Justice, JO du 2009-03-12, page 642*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, conformément aux engagements pris par le Président de la République, un avant-projet de loi relatif à l'autorité parentale et aux droits des tiers a été élaboré, à la suite d'une vaste concertation par le Gouvernement et vient d'être largement diffusé, avant d'être transmis au Conseil d'État. Ce texte prévoit notamment d'améliorer la vie quotidienne des familles recomposées. Ainsi, il est proposé de distinguer le partage de l'exercice de l'autorité parentale de la délégation de cette autorité. Le partage pourra se faire par une convention homologuée par le juge aux affaires familiales, qui vérifiera la conformité de cette convention avec l'intérêt de l'enfant. En revanche, la délégation devra toujours résulter d'un jugement. En cas de séparation entre le parent et l'adulte qui partageait sa vie, le maintien des liens entre l'enfant et l'adulte avec qui des liens affectifs étroits se sont noués serait un droit, auquel seul l'intérêt de l'enfant pourrait faire obstacle. Le tiers placé dans cette situation pourrait saisir directement le juge, sans avoir à saisir préalablement le ministère public. Enfin, la loi n° 2007-308 du 5 mars 2007 portant réforme de la protection juridique des majeurs, qui est entrée en vigueur le 1er janvier 2009, modifie l'article 404 du code civil pour mettre un terme, en cas de décès des parents et en l'absence de tuteur testamentaire, à la dévolution automatique de la tutelle à l'ascendant le plus proche. Désormais, le tuteur est désigné par le conseil de famille, selon ce qu'exige l'intérêt de l'enfant.
