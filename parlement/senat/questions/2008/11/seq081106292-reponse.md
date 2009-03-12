@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106292
+
+- Question : [SEQ081106292](seq081106292.md) — Presse pornographique
+
+## Réponse
+
+*Culture, JO du 2009-03-12, page 631*
+
+La loi du 2 avril 1947 relative au statut des entreprises de groupage et de distribution des journaux et publications périodiques, dite loi Bichet, pose trois principes qui régissent la distribution de la presse en France : la liberté de distribution (art. 1er), l'égalité de traitement (art. 2) au sein des coopératives de groupage et l'impartialité de la distribution (art. 6), à savoir que toutes les publications peuvent accéder à l'ensemble du réseau dans les mêmes conditions. En application de ce principe, les diffuseurs de presse sont dans l'obligation de mettre en vente sans droit de regard et dans des conditions similaires, tous les exemplaires fournis par les éditeurs, qui restent propriétaires de leur titre jusqu'à l'acte de vente final. Toutefois, l'article 6 de la loi prévoit une exception : si le titre a fait l'objet d'une « mesure d'interdiction de vente aux mineurs (par arrêté du ministre de l'intérieur de l'outre-mer et des collectivités territoriales au titre de l'article 14 de la loi du 16 juillet 1949 modifiée sur les publications destinées à la jeunesse), tout dépositaire ou vendeur sera, nonobstant toute stipulation contraire du contrat qui le lie avec la société coopérative, exonéré de l'obligation de participer à la vente de cette publication ». Ainsi, les diffuseurs de presse sont fondés à refuser de vendre les publications pornographiques qui ont été expressément interdites aux mineurs par le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales. En revanche, la détermination des quantités livrées de ces publications par les messageries de presse ne saurait être soumise à l'autorisation préalable des diffuseurs de presse concernés.
