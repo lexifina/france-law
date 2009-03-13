@@ -1136,7 +1136,7 @@ Conduite et encadrement de personnes en espace rural montagnard ainsi que sur de
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
-Prérogatives conférées aux titulaires du BEES, option ski alpin » ou ski nordique » selon la spécialité.
+Prérogatives conférées aux titulaires du BEES, option ski alpin ou ski nordique selon la spécialité.
 
 |
 
@@ -2978,7 +2978,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 
 emploi-formation du sport (CPNEF du sport)
 
-INTITULÉ DU DIPLÔME
+INTITULÉ DU CERTIFICAT
 
 |
 
@@ -2990,7 +2990,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
-CQP guide de véhicules terrestres motorisés à guidon, option "quad" (guide de VTM à guidon, optionquad").
+CQP guide de véhicules terrestres motorisés à guidon, option "quad" (guide de VTM à guidon, option "quad") .
 
 |
 
@@ -3008,7 +3008,7 @@ Sous réserve de la présentation de l'attestation triennale de recyclage.
 
 |
 
-CQP "animateur de tir à l'arc".
+CQP animateur tir à l'arc .
 
 |
 
@@ -3026,7 +3026,7 @@ Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 
 |
 
-CQP "assistant moniteur de voile".
+CQP assistant moniteur de voile .
 
 |
 
@@ -3040,7 +3040,7 @@ Durant les périodes de congés scolaires et universitaires fixées par les mini
 
 |
 
-CQP "animateur de savate".
+CQP animateur de savate .
 
 |
 
@@ -3052,7 +3052,11 @@ Activité exercée à titre secondaire.
 
 |
 
-CQP "animateur des activités gymniques".
+CQP animateur des activités gymniques .
+
+|
+
+Mentions du CQP animateur des activités gymniques
 
 |
 
@@ -3060,11 +3064,7 @@ CQP "animateur des activités gymniques".
 
 |
 
-Mentions du CQP animateur des "activités gymniques"
-
-|
-
-Mention "activités gymniques acrobatiques".
+Mention activités gymniques acrobatiques .
 
 |
 
@@ -3080,7 +3080,7 @@ Activité exercée à titre secondaire.
 
 |
 
-Mention "activités d'éveil gymnique pour la petite enfance".
+Mention activités d'éveil gymnique pour la petite enfance .
 
 |
 
@@ -3098,7 +3098,7 @@ Activité exercée à titre secondaire.
 
 |
 
-Mention "activités gymniques d'expression et d'entretien".
+Mention activités gymniques d'expression et d'entretien .
 
 |
 
@@ -3120,7 +3120,7 @@ Activité exercée à titre secondaire.
 
 |
 
-CQP "animateur de loisirs sportifs".
+CQP animateur de loisirs sportifs .
 
 |
 
@@ -3128,11 +3128,15 @@ CQP "animateur de loisirs sportifs".
 
 |
 
-Options du CQP "animateur de loisirs sportifs"
+Options du CQP animateur de loisirs sportifs
 
 |
 
-Option "activités gymniques d'entretien et d'expression".
+|
+
+|
+
+Option activités gymniques d'entretien et d'expression .
 
 |
 
@@ -3148,15 +3152,15 @@ Encadrement en autonomie par la découverte et l'animation des activités gymniq
 
 |
 
-- activité exercée à titre secondaire ;
+Activité exercée à titre secondaire.
 
-- sans recours à des appareils de musculation ;
+Sans recours à des appareils de musculation.
 
-- sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité.
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité.
 
 |
 
-Option "jeux sportifs et jeux d'opposition".
+Option jeux sportifs et jeux d'opposition .
 
 |
 
@@ -3170,13 +3174,41 @@ Encadrement en autonomie par la découverte et l'animation des jeux sportifs et 
 
 |
 
-- activité exercée à titre secondaire ;
+Activité exercée à titre secondaire.
 
-- à l'exclusion des pratiques compétitives ;
+A l'exclusion des pratiques compétitives.
 
-- à l'exclusion de la délivrance de niveaux, de ceintures ou de grades ;
+A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
 
-- sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité.
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité.
+
+|
+
+CQP assistant moniteur de tennis .
+
+|
+
+Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum. L'assistant moniteur de tennis bénéficie du suivi pédagogique d'un référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur.
+
+|
+
+Activité exercée le mercredi et le samedi, excepté dans le cas où la structure ne dispose pas d'équipement permanent.
+
+A l'exclusion du temps scolaire contraint.
+
+A l'exclusion des cours individuels.
+
+|
+
+CQP éducateur de grimpe d'arbres .
+
+|
+
+Animation et encadrement en autonomie de la grimpe dans les arbres.
+
+|
+
+Dans la limite de 8 pratiquants.
 
 |
 
