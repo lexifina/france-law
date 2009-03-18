@@ -2,7 +2,7 @@
 
 A. - Fonctions exercées à l'administration centrale
 
-des ministères chargés de l'éducation nationale et de la recherche
+des ministères chargés de l'éducation nationale et de l'enseignement supérieur et de la recherche
 
 Désignation des emplois correspondant
 
@@ -52,7 +52,7 @@ Directeur général de l'enseignement scolaire
 
 |
 
-Directeur général de l'enseignement supérieur
+Directeur général pour l'enseignement supérieur et l'insertion professionnelle
 
 |
 
@@ -66,7 +66,7 @@ Directeur général de l'enseignement supérieur
 
 |
 
-Directeur général de la recherche et de l'innovation
+Directeur général pour la recherche et l'innovation
 
 |
 
@@ -80,15 +80,9 @@ Directeur général de la recherche et de l'innovation
 
 |
 
-Directeur de la stratégie
-
 |
 
-1
-
 |
-
-140
 
 |
 
@@ -178,6 +172,14 @@ Directeur des relations européennes, internationales et de la coopération
 
 |
 
+|
+
+|
+
+|
+
+|
+
 2. Secrétaire général
 
 |
@@ -202,6 +204,14 @@ Secrétaire général
 
 |
 
+|
+
+|
+
+|
+
+|
+
 3. Délégué
 
 |
@@ -221,6 +231,14 @@ Délégué à la communication
 |
 
 120
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -264,6 +282,14 @@ Chef du service de l'inspection générale de l'administration de l'éducation n
 
 |
 
+|
+
+|
+
+|
+
+|
+
 5. Médiateur de l'éducation nationale
 
 |
@@ -288,9 +314,15 @@ Médiateur de l'éducation nationale
 
 |
 
-6. Chef de service adjoint à un directeur général ou à un directeur
+|
 
-Ou à un délégué et directeur de l'École supérieure de l'éducation nationale
+|
+
+|
+
+|
+
+6. Chef de service adjoint à un directeur général ou à un directeur ou à un délégué et directeur de l'École supérieure de l'éducation nationale et directeur de pôle de contractualisation et de financement des établissements de formation et de recherche
 
 |
 
@@ -338,59 +370,7 @@ Chef du service du budget et de l'égalité des chances, adjoint au directeur g�
 
 |
 
-Direction générale de l'enseignement supérieur
-
-|
-
-|
-
-|
-
-|
-
-Chef du service de la recherche universitaire, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
-
-|
-
-|
-
-Chef du service des formations et de l'emploi, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
-
-|
-
-|
-
-Chef du service du pilotage et des contrats, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
-
-|
-
-|
-
-Direction générale de la recherche et de l'innovation
+Direction générale pour l'enseignement supérieur et l'insertion professionnelle
 
 |
 
@@ -414,7 +394,7 @@ Chef de service, adjoint au directeur général
 
 |
 
-Chef du service de l'innovation et de l'action régionale
+Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle
 
 |
 
@@ -428,17 +408,7 @@ Chef du service de l'innovation et de l'action régionale
 
 |
 
-Direction de la stratégie
-
-|
-
-|
-
-|
-
-|
-
-Chef de service adjoint au directeur
+Directeur du pôle de contractualisation et de financement des établissements de formation et de recherche
 
 |
 
@@ -446,7 +416,103 @@ Chef de service adjoint au directeur
 
 |
 
-110
+120
+
+|
+
+|
+
+Direction générale pour la recherche et de l'innovation
+
+|
+
+|
+
+|
+
+|
+
+Chef de service, adjoint au directeur général
+
+|
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Chef du service de la stratégie de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Chef du service de la performance, du financement et de la contractualisation avec les organismes de recherche |
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Chef du service des entreprises, du transfert de technologie et de l'action régionale |
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Services communs : direction générale pour l'enseignement supérieur et l'insertion professionnelle et direction pour la recherche et l'innovation
+
+|
+
+|
+
+|
+
+|
+
+Chef du service de la coordination stratégique et des territoires |
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Chef du service des grands projets immobiliers |
+
+1
+
+|
+
+120
 
 |
 
@@ -836,7 +902,7 @@ Direction de l'enseignement scolaire :
 
 |
 
-Direction de l'enseignement supérieur :
+Direction générale pour l'enseignement supérieur et l'insertion professionnelle :
 
 |
 
@@ -846,49 +912,7 @@ Direction de l'enseignement supérieur :
 
 |
 
--sous-direction de l'égalité des chances et de l'emploi
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
--sous-direction des formations post-baccalauréat
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
--sous-direction des formations post-licence
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
--sous-direction des contrats d'établissements, de pôles et de sites
+-sous-direction de la performance et du financement de l'enseignement supérieur
 
 |
 
@@ -902,7 +926,7 @@ Direction de l'enseignement supérieur :
 
 |
 
--sous-direction de la performance et des moyens
+-sous-direction de l'égalité des chances et de la vie étudiante
 
 |
 
@@ -916,7 +940,7 @@ Direction de l'enseignement supérieur :
 
 |
 
--sous-direction des bibliothèques et de l'information scientifique
+-sous-direction de l'analyse de la performance et du dialogue contractuel
 
 |
 
@@ -924,23 +948,13 @@ Direction de l'enseignement supérieur :
 
 |
 
-80
+110
 
 |
 
 |
 
-Direction de la stratégie
-
-|
-
-|
-
-|
-
-|
-
--sous-direction de l'appui à la tutelle et des affaires européennes
+-sous-direction de l'allocation des moyens et des affaires immobilières
 
 |
 
@@ -1346,15 +1360,21 @@ Sous-direction de la performance de l'enseignement scolaire
 
 |
 
-Sous-direction de la performance de l'enseignement supérieur, de la recherche et de l'innovation
+Services communs : direction générale pour l'enseignement supérieur et l'insertion professionnelle et direction pour la recherche et l'innovation
 
 |
+
+|
+
+|
+
+Sous-direction des systèmes d'information et des études |
 
 1
 
 |
 
-80
+110
 
 |
 
