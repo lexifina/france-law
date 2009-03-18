@@ -72,7 +72,7 @@ Chiens et chats.
 
 |
 
-Sources de protéines.
+Source(s) de protéines.
 
 |
 
@@ -80,11 +80,15 @@ Au départ jusqu'à six mois (2).
 
 |
 
-Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire.
 
 |
 
 Calcium.
+
+|
+
+Indiquer dans le mode d'emploi : "Eau disponible en permanence."
 
 |
 
@@ -104,7 +108,63 @@ Teneur en acides gras essentiels (si ajoutés).
 
 |
 
+ou
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Diminution de l'absorption de phosphore grâce à l'adjonction de carbonate de lanthanum octahydrate.
+
+|
+
+Chats adultes.
+
+|
+
+Source(s) de protéines.
+
+|
+
+Au départ jusqu'à six mois (2).
+
+|
+
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire.
+
+|
+
+Calcium.
+
+|
+
 Indiquer dans le mode d'emploi : "Eau disponible en permanence."
+
+|
+
+Phosphore.
+
+|
+
+Potassium.
+
+|
+
+Sodium.
+
+|
+
+Carbonate de lanthanum octahydrate
+
+|
+
+Teneur en acides gras essentiels (si ajoutés).
 
 |
 
@@ -418,8 +478,6 @@ et/ou
 
 |
 
-|
-
 Teneur en acides gras essentiels (si ajoutés).
 
 |
@@ -428,11 +486,7 @@ Sources de glucides sélectionnées.
 
 |
 
-|
-
 Sources de glucides.
-
-|
 
 |
 
@@ -696,7 +750,7 @@ Réduction de l'accumulation hépatique du cuivre.
 
 |
 
-Faible teneur en cuivre
+Faible teneur en cuivre.
 
 |
 
@@ -824,17 +878,11 @@ Phosphore.
 
 |
 
-|
-
 "Arrêter l'administration à partir du vêlage."
 
 |
 
 Magnésium.
-
-|
-
-|
 
 |
 
@@ -868,8 +916,6 @@ Phosphore.
 
 |
 
-|
-
 "Arrêter l'administration à partir du vêlage."
 
 |
@@ -878,15 +924,7 @@ Sodium.
 
 |
 
-|
-
-|
-
 Potassium.
-
-|
-
-|
 
 |
 
@@ -894,15 +932,7 @@ Chlorures.
 
 |
 
-|
-
-|
-
 Soufre.
-
-|
-
-|
 
 |
 
@@ -932,15 +962,7 @@ Mentionner dans le mode d'emploi :
 
 |
 
-|
-
-|
-
 "Il faut limiter la quantité d'aliments de manière à ne pas dépasser une dose journalière de 500 g d'aluminosilicate de sodium par animal."
-
-|
-
-|
 
 |
 
@@ -974,15 +996,7 @@ Indiquer sur l'emballage, le récipient ou l'étiquette :
 
 |
 
-|
-
-|
-
 - le mode d'emploi, c'est-à-dire le nombre d'applications et la durée avant et après le vêlage ;
-
-|
-
-|
 
 |
 
@@ -1072,7 +1086,7 @@ Réduction du risque d'acidose.
 
 |
 
-Faible teneur en glucides très fermentescibles et haute capacité tampon
+Faible teneur en glucides très fermentescibles et haute capacité tampon.
 
 |
 
@@ -1648,7 +1662,7 @@ Au départ jusqu'à six mois.
 
 |
 
-Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire.
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."
 
 |
 
@@ -1660,7 +1674,7 @@ Indiquer dans le mode d'emploi : "Eau disponible en permanence."
 
 |
 
-Phosphore,
+Phosphore.
 
 |
 
