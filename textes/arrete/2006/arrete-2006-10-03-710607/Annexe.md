@@ -2,17 +2,15 @@
 
 LISTE DES COMITÉS DÉPARTEMENTAUX AFFILIÉS
 
-COMITÉS
-
-départementaux
+COMITÉS DÉPARTEMENTAUX
 
 affiliés
 
 |
 
-CHAMP D'ACTION
+CHAMP D'ACTION POUR L'EXERCICE
 
-pour l'exercice des missions de sécurité civile
+des missions de sécurité civile
 
 |
 
@@ -39,18 +37,6 @@ A1 - D
 |
 
 CDSFCB 02
-
-|
-
-A1 - B - D
-
-|
-
-A1 - B - D
-
-|
-
-CDSFCB 04
 
 |
 
@@ -186,11 +172,11 @@ CDSFCB 32
 
 |
 
-D
+A1 - B - D
 
 |
 
-D
+A1 - B - D
 
 |
 
@@ -198,11 +184,11 @@ CDSFCB 33
 
 |
 
-B-D
+B - D
 
 |
 
-B-D
+B - D
 
 |
 
@@ -210,11 +196,11 @@ CDSFCB 35
 
 |
 
-B-D
+B - D
 
 |
 
-B-D
+B - D
 
 |
 
@@ -318,11 +304,11 @@ CDSFCB 57
 
 |
 
-B-D
+B - D
 
 |
 
-B-D
+B - D
 
 |
 
@@ -342,11 +328,11 @@ CDSFCB 60
 
 |
 
-B-D
+B - D
 
 |
 
-B-D
+B - D
 
 |
 
@@ -502,6 +488,8 @@ A1 - B - D
 
 |
 
+A1 - B - D
+
 |
 
 CDSFCB 77
@@ -549,6 +537,30 @@ D
 |
 
 D
+
+|
+
+CDSFCB 82
+
+|
+
+D
+
+|
+
+D
+
+|
+
+CDSFCB 83
+
+|
+
+A3 - D
+
+|
+
+A3 - D
 
 |
 
@@ -612,6 +624,18 @@ A3 - D
 
 |
 
+CDSFCB 89
+
+|
+
+D
+
+|
+
+D
+
+|
+
 CDSFCB 91
 
 |
@@ -669,6 +693,18 @@ A3 - D
 |
 
 A3 - D
+
+|
+
+CDSFCB 974
+
+|
+
+D
+
+|
+
+D
 
 |
 
