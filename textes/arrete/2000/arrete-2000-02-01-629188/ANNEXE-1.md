@@ -60,7 +60,7 @@ Supérieure ou égale à 12 mètres et inférieure à 15 mètres.
 
 20 mètres
 
-Supérieure ou égale à 15 mètres et inférieure à 24 mètres.
+Supérieure ou égale à 15 mètres et inférieure à 20 mètres et dont le produit de la longueur, de la largeur et du tirant d'eau est inférieur à 100 mètres cubes.
 
 Soit deux ancres de 14 kilogrammes
 

@@ -37,7 +37,3 @@ L 15 mètres
 15 mètres < L 20 mètres
 
 2 extincteurs - 21 B
-
-20 mètres < L < 24 mètres
-
-3 extincteurs - 21 B
