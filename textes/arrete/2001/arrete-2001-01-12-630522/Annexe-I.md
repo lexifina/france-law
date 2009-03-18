@@ -324,7 +324,7 @@ Aliments complémentaires :
 
 |
 
-- contenant > 4 % de phosphore ;
+- contenant > 4 % de phosphore.
 
 |
 
@@ -340,13 +340,13 @@ Aliments complets, à l'exception des :
 
 |
 
-- aliments complets pour bovins, ovins et caprins.
+- aliments complets pour bovins, ovins et caprins :
 
 |
 
 |
 
-- - en lactation.
+- en lactation ;
 
 |
 
@@ -354,7 +354,7 @@ Aliments complets, à l'exception des :
 
 |
 
-- - autres.
+- autres ;
 
 |
 
@@ -362,7 +362,7 @@ Aliments complets, à l'exception des :
 
 |
 
-- aliments complets pour porcs.
+- aliments complets pour porcs ;
 
 |
 
@@ -370,7 +370,7 @@ Aliments complets, à l'exception des :
 
 |
 
-- aliments complets pour volaille.
+- aliments complets pour volaille ;
 
 |
 
@@ -378,11 +378,19 @@ Aliments complets, à l'exception des :
 
 |
 
-- aliments complets pour poussins.
+- aliments complets pour poussins ;
 
 |
 
 250
+
+|
+
+- aliments complets pour poissons.
+
+|
+
+350
 
 |
 
@@ -908,7 +916,7 @@ Tous les aliments contenant des céréales non moulues
 
 |
 
-8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucocides ou autres substances toxiques, isolément ou ensemble, dont :
+8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble :
 
 |
 
@@ -920,31 +928,13 @@ Tous les aliments
 
 |
 
-a) Lolium temulentum L.
+Datura stramonium L.
 
 |
 
 |
 
 1 000
-
-|
-
-b) Lolium remotum Schrank.
-
-|
-
-|
-
-1 000
-
-|
-
-c) Datura stramonium L.
-
-|
-
-|
 
 |
 
@@ -1054,11 +1044,11 @@ Tous les aliments, à l'exception :
 
 |
 
-15. DDT (somme des isomères de DDT, TDE et DDE, calculée sous forme de DDT).
+15. DDT (somme des isomères de DDT, DDD [ou TDE] et DDE, calculée sous forme de DDT).
 
 |
 
-Tous les aliments, à l'exception :
+Tous les aliments à l'exception :
 
 |
 
@@ -1486,7 +1476,7 @@ C. - Impuretés botaniques
 
 |
 
-1. Abricots-Prunus armeniaca L.
+3. Faîne non décortiquée -Fagus silvatica (L.).
 
 |
 
@@ -1495,18 +1485,6 @@ Tous les aliments
 |
 
 Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.
-
-|
-
-2. Amande amère -Prunus dulcis (Mill.) DA Webb var. amara (DC.) Focke (= Prunus amygdalus Batsch var. Amara (DC.) Focke).
-
-|
-
-3. Faîne non décortiquée -Fagus silvatica (L.).
-
-|
-
-4. Cameline-Camelina sativa (L.) Crantz.
 
 |
 
