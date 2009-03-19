@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080805399
+
+- Question : [SEQ080805399](seq080805399.md) — Danger des « soirées mousse »
+
+## Réponse
+
+*Intérieur, JO du 2009-03-19, page 713*
+
+Aucune réglementation spécifique n'encadre aujourd'hui l'organisation et le déroulement des « soirées mousse » au cours desquelles des machines dites à effets sont utilisées pour générer une ambiance particulière. Même en l'absence de texte particulier, les fabricants de ces machines et les exploitants de salle de danse doivent s'assurer de la sécurité des animations qu'ils proposent au public. Il en va de leur responsabilité générale. Leur responsabilité pénale est aussi susceptible d'être mise en cause sur le fondement de l'article L. 223-1 du code pénal au titre de la mise en danger de la vie d'autrui. Interrogée sur ce sujet le 10 janvier 2008, la commission centrale de sécurité a demandé la création d'un groupe de travail afin d'élaborer des propositions de réglementation pour les établissements recevant du public. Ce groupe de travail, piloté par la direction de la sécurité civile, s'est déjà réuni trois fois. Il a déjà observé qu'il lui faudra proposer, en plus d'une réglementation sur la projection de mousse, une réactualisation des textes existants sur les machines à lasers et sur les machines à brouillard. D'autres dispositions réglementaires devront être élaborées notamment au sujet des machines à dioxyde de carbone comportant certains risques d'utilisation pour le public. Le dispositif réglementaire comportera un arrêté concernant les établissements recevant du public avec une instruction technique qui définira les modalités techniques et pratiques permettant aux exploitants et aux maires de s'assurer que les machines à effets autorisées fonctionnent dans des conditions satisfaisantes. Les premières conclusions de ce groupe de travail sur le sujet spécifique des « soirées mousse » sont attendues pour le premier trimestre de l'année 2009.
