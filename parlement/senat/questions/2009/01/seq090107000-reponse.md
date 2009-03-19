@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107000
+
+- Question : [SEQ090107000](seq090107000.md) — Liaison autoroutière A 104 entre Méry-sur-Oise (95) et Orgeval (78)
+
+## Réponse
+
+*Transports, JO du 2009-03-19, page 725*
+
+La liaison autoroutière A104 entre Méry-sur-Oise et Orgeval a pour objectif de poursuivre l'aménagement de la Francilienne dans l'Ouest parisien. Dans le cadre des orientations issues du Grenelle de l'environnement, le renouveau de la programmation des infrastructures de transports, constitue une priorité pour le Gouvernement. Dans cette perspective, l'article 15 du projet de loi de programme relatif à la mise en oeuvre du Grenelle de l'environnement institue un schéma national des infrastructures de transport. Ce schéma portera sur le développement des réseaux, à travers la planification d'infrastructures nouvelles, mais également sur l'exploitation, l'entretien et la modernisation des réseaux existants. Il devra organiser les conditions de report de la demande de transport vers les modes les plus respectueux de l'environnement tout en favorisant la compétitivité des territoires dans le cadre d'un développement solidaire et équilibré. S'agissant des infrastructures routières, le schéma traduira la pertinence des projets au regard des principes de planification déclinés par le projet de loi Grenelle. Les projets seront définitivement retenus après un examen au travers de critères et d'indicateurs caractérisant les territoires traversés et l'évaluation de leurs impacts environnementaux, économiques et sociaux. En Île-de-France, l'État intègre cet examen dans le cadre de sa participation à l'élaboration du schéma directeur régional (SDRIF). À cet égard, le projet de liaison autoroutière A104 entre Méry-sur-Oise et Orgeval fait partie des projets aujourd'hui soutenus par l'État dans le cadre de ses échanges avec la région sur le SDRIF.
