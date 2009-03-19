@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307775
+
+- Question : [SEQ090307775](seq090307775.md) — Interruption temporaire des émissions locales de France 3 Lorraine
+
+## Réponse
+
+*Culture, JO du 2009-03-19, page 698*
+
+La ministre de la culture et de la communication confirme son attachement à la spécificité des antennes du service public, dont France 3, chaîne de la proximité, est un élément essentiel. La ministre de la culture et de la communication rappelle cependant que le travail d'organisation détaillée des grilles de programmation des chaînes du service public relève de la responsabilité de leurs dirigeants. Aussi les modifications qui pourraient être mises en oeuvre concernant les programmes régionaux diffusés par France 3 relèvent-elles de la direction générale de l'entreprise. La direction de France Télévisions a souhaité, il y a plusieurs années, que soit mise en place une meilleure répartition annuelle de l'effort fourni par les différentes antennes de France 3 tant pour l'information que pour les programmes. Cette réorganisation ne remet pas en cause l'attachement que porte le service public à l'information de proximité. Par ailleurs, lors de l'examen du projet de loi relatif à la communication audiovisuelle et au nouveau service public de la télévision, le Parlement a adopté une disposition de nature à conforter l'existence et l'identité de France 3 dans la loi du 30 juillet 1986 : « France Télévisions conçoit et diffuse en région des programmes qui contribuent à la connaissance et au rayonnement de ces territoires et, le cas échéant, à l'expression des langues régionales. Ces programmes sont diffusés à travers des décrochages spécifiques, y compris aux heures de grande écoute, et peuvent être repris au niveau national. Ils reflètent la diversité de la vie économique, sociale et culturelle en région et proposent une information de proximité. »
