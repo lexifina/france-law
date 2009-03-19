@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905579
+
+- Question : [SEQ080905579](seq080905579.md) — Financement du revenu de solidarité active
+
+## Réponse
+
+*Économie, JO du 2009-03-19, page 704*
+
+Depuis les aménagements apportés au mécanisme de plafonnement des impositions directes en fonction du revenu (« bouclier fiscal ») par la loi en faveur du travail, de l'emploi et du pouvoir d'achat (n° 2007-1223 du 21 août 2007, dite loi TEPA), les contributions et prélèvements sociaux sur les revenus du patrimoine, d'activité et de remplacement ou sur les produits de placement sont compris dans les impositions susceptibles d'être plafonnées. Aucune raison ne justifie, au regard du principe même du plafonnement des impositions directes à 50 % des revenus inscrit à l'article 1 du code général des impôts (CGI), d'en écarter la nouvelle contribution de 1,1 % sur les revenus du patrimoine et sur les produits de placement, dédiée au financement du fonds national des solidarités actives (FNSA), prévue par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion. En effet, le plafonnement prend en compte l'ensemble de la charge fiscale supportée par le contribuable, et notamment, et sans exclusive, l'ensemble des contributions et prélèvements sociaux, parmi lesquels les contributions additionnelles de 0,3 % mises en place en 2004 (2° de l'article L. 14-10-4 du code de l'action sociale et des familles) pour le financement des dépenses liées à la perte d'autonomie. Il est rappelé à cet égard que les contributions nouvelles seront effectivement payées, au bénéfice du FNSA, par l'ensemble des contribuables, qu'ils bénéficient ou non du « bouclier fiscal », et que la restitution globale, susceptible d'être obtenue lorsque le montant des impositions directes est supérieur à la moitié des revenus, ne correspond à aucun impôt, contribution ou prélèvement en particulier.
