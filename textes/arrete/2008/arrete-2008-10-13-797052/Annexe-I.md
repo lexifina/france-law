@@ -2,19 +2,17 @@
 
 MODALITÉS D'ÉVALUATION DES COMPÉTENCES
 
-A. ― Organisation générale de l'évaluation :
+A. - Organisation générale de l'évaluation :
 
 Pour chacune des catégories mentionnées à l'annexe I de l'arrêté du 30 juin 2008 susvisé, l'évaluation comprend :
 
 a) Une épreuve théorique constituée de plusieurs questions destinées à évaluer les compétences ou connaissances désignées par la lettre (T) dans la colonne réservée à chaque catégorie ;
 
-b) Une épreuve pratique durant laquelle le candidat devra exécuter les tâches indiquées à l'aide du matériel, de l'outillage et de l'équipement nécessaires, désignées par la lettre (P) dans la colonne consacrée à chaque catégorie.
-
-Pour les candidats justifiant de six années consécutives d'expérience dans l'activité pour laquelle ils souhaitent faire valider leurs compétences et qui ont suivi avant le 4 juillet 2009 une formation délivrée par la structure de formation d'une entreprise dont l'activité est la fabrication, l'entretien ou l'installation d'équipements de réfrigération ou de conditionnement d'air, il peut être établi une équivalence de l'épreuve pratique.
+b) Une épreuve pratique durant laquelle le candidat devra exécuter les tâches indiquées à l'aide du matériel, de l'outillage et de l'équipement nécessaires, désignées par la lettre (P) dans la colonne consacrée à chaque catégorie. En application de l'article 5 (4) du règlement (CE) susvisé, lorsqu'un système de certification reposant sur des épreuves d'examen remplit les conditions prévues aux articles 10 et 11 dudit règlement et englobe une partie des compétences et connaissances d'une catégorie particulière énoncées ci-dessous, les organismes d'évaluation peuvent délivrer une attestation d'aptitude pour la catégorie correspondante, à condition que la personne physique passe une évaluation complémentaire portant sur les compétences et connaissances non reprises par la certification existante.
 
 Lorsque la lettre P ou T est suivie d'un astérisque, l'évaluateur choisit la compétence ou connaissance à évaluer.
 
-B. ― Compétences et connaissances à évaluer pour les catégories I, II, III et IV :
+B. - Compétences et connaissances à évaluer pour les catégories I, II, III et IV :
 
 L'évaluation porte sur les groupes de compétences et de connaissances 1, 2, 3, 4, 5 et 10. Elle porte sur au moins un des groupes de compétences et de connaissances 6, 7, 8 et 9.
 
@@ -52,7 +50,7 @@ IV
 
 |
 
-1. 01
+1.01
 
 |
 
@@ -68,7 +66,7 @@ T
 
 |
 
-―
+-
 
 |
 
@@ -76,35 +74,11 @@ T
 
 |
 
-1. 02
+1.02
 
 |
 
-Connaître les caractéristiques de base des systèmes thermodynamiques : terminologie, paramètres et processus essentiels tels que surchauffe, côté haute pression, chaleur de compression, enthalpie, effet de réfrigération, côté basse pression, sous refroidissement, propriétés et transformations thermodynamiques des fluides frigorigènes, y compris l'identification des mélanges zéotropiques et des états des fluides.
-
-|
-
-T
-
-|
-
-T
-
-|
-
-―
-
-|
-
-―
-
-|
-
-1. 03
-
-|
-
-Savoir exploiter les tableaux et graphiques : diagramme log p / h, tables de saturation d'un fluide frigorigène, diagramme d'un cycle frigorifique simple à compression et les interpréter dans le cadre d'un contrôle d'étanchéité indirect, y compris le contrôle du bon fonctionnement du système.
+Connaître les caractéristiques de base des systèmes thermodynamiques : terminologie, paramètres et processus essentiels tels que surchauffe, côté haute pression, chaleur de compression, enthalpie, effet de réfrigération, côté basse pression, sous-refroidissement, propriétés et transformations thermodynamiques des fluides frigorigènes, y compris l'identification des mélanges zéotropiques et des états des fluides.
 
 |
 
@@ -116,15 +90,39 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-1. 04
+1.03
+
+|
+
+Savoir exploiter les tableaux et graphiques : diagramme log p/h, tables de saturation d'un fluide frigorigène, diagramme d'un cycle frigorifique simple à compression et les interpréter dans le cadre d'un contrôle d'étanchéité indirect, y compris le contrôle du bon fonctionnement du système.
+
+|
+
+T
+
+|
+
+T
+
+|
+
+-
+
+|
+
+-
+
+|
+
+1.04
 
 |
 
@@ -132,59 +130,59 @@ Décrire la fonction des principaux composants du système (compresseur, évapor
 
 |
 
-T*
-
 |
 
 T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-1. 05
+1.05
 
 |
 
 Connaître le fonctionnement élémentaire des composants suivants ainsi que leur rôle et leur importance dans la prévention et la détection des fuites de fluide frigorigène :
 
-a) valves (robinets à boule, diaphragmes, robinets à soupape) ;
+a) Valves (robinets à boule, diaphragmes, robinets à soupape) ;
 
-b) contrôleurs de température et de pression ;
+b) Contrôleurs de température et de pression ;
 
-c) voyants et indicateurs d'humidité ;
+c) Voyants et indicateurs d'humidité ;
 
-d) contrôles du dégivrage ;
+d) Contrôles du dégivrage ;
 
-e) protecteurs du système ;
+e) Protecteurs du système ;
 
-f) instruments de mesure tels que les thermomètres ;
+f) Instruments de mesure tels que les thermomètres ;
 
-g) systèmes de contrôle de l'huile ;
+g) Systèmes de contrôle de l'huile ;
 
-h) réservoirs ;
+h) Réservoirs ;
 
-i) séparateurs de liquides et d'huile.
-
-|
+i) Séparateurs de liquides et d'huile.
 
 |
 
-―
+T*
 
 |
 
-―
+-
 
 |
 
-―
+-
+
+|
+
+-
 
 |
 
@@ -192,15 +190,11 @@ i) séparateurs de liquides et d'huile.
 
 |
 
-2. 01
+2.01
 
 |
 
-Avoir une connaissance élémentaire du phénomène d'effet de serre, du concept de potentiel de réchauffement planétaire (PRP), de l'impact des fluides frigorigènes à base de CFC et HCFC sur la couche d'ozone stratosphérique et de celui des fluides frigorigènes à base de CFC, HCFC et HFC sur le climat.
-
-|
-
-T
+Avoir une connaissance élémentaire du phénomène d'effet de serre, du concept de potentiel de réchauffement planétaire de l'impact des fluides frigorigènes à base de chlorofluorocarbures (CFC) et hydrochlorofluorocarbures (HCFC) sur la couche d'ozone stratosphérique et de celui des fluides frigorigènes à base de (CFC), (HCFC) et hydrofluorocarbures (HFC) sur le climat.
 
 |
 
@@ -216,11 +210,15 @@ T
 
 |
 
-2. 02
+T
 
 |
 
-Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037 / 2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842 / 2006 relatives à l'utilisation de HFC comme fluide frigorigène, ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
+2.02
+
+|
+
+Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037/2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842/2006 relatives à l'utilisation de HFC comme fluide frigorigène, ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
 
 |
 
@@ -244,7 +242,7 @@ T
 
 |
 
-3. 01
+3.01
 
 |
 
@@ -252,23 +250,15 @@ Effectuer une épreuve de pression pour contrôler la résistance du système.
 
 |
 
-P*
+|
 
 |
 
-P*
+|
 
 |
 
-―
-
-|
-
-―
-
-|
-
-3. 02
+3.02
 
 |
 
@@ -276,15 +266,23 @@ Effectuer une épreuve de pression pour contrôler l'étanchéité du système.
 
 |
 
-|
+P*
 
 |
 
-|
+P*
 
 |
 
-3. 03
+-
+
+|
+
+-
+
+|
+
+3.03
 
 |
 
@@ -300,7 +298,7 @@ Utiliser une pompe à vide.
 
 |
 
-3. 04
+3.04
 
 |
 
@@ -316,7 +314,7 @@ Faire le vide dans le système pour évacuer l'air et l'humidité.
 
 |
 
-3. 05
+3.05
 
 |
 
@@ -332,11 +330,11 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
@@ -344,7 +342,7 @@ T
 
 |
 
-4. 01
+4.01
 
 |
 
@@ -360,7 +358,7 @@ T
 
 |
 
-―
+-
 
 |
 
@@ -368,7 +366,7 @@ T
 
 |
 
-4. 02
+4.02
 
 |
 
@@ -384,7 +382,7 @@ P
 
 |
 
-―
+-
 
 |
 
@@ -392,35 +390,11 @@ P
 
 |
 
-4. 03
+4.03
 
 |
 
-Effectuer un contrôle visuel et manuel de tout le système au sens du règlement (CE) n° 1516 / 2007 de la Commission du 19 décembre 2007.
-
-|
-
-P
-
-|
-
-P
-
-|
-
-―
-
-|
-
-P
-
-|
-
-4. 04
-
-|
-
-Effectuer un contrôle de l'étanchéité du système au moyen d'une méthode indirecte conformément au règlement (CE) n° 1516 / 2007 et du manuel d'utilisation du système.
+Effectuer un contrôle visuel et manuel de tout le système au sens du règlement (CE) n° 1516/2007 de la Commission du 19 décembre 2007.
 
 |
 
@@ -432,7 +406,7 @@ P
 
 |
 
-―
+-
 
 |
 
@@ -440,7 +414,31 @@ P
 
 |
 
-4. 05
+4.04
+
+|
+
+Effectuer un contrôle de l'étanchéité du système au moyen d'une méthode indirecte conformément au règlement (CE) n° 1516/2007 et du manuel d'utilisation du système.
+
+|
+
+P
+
+|
+
+P
+
+|
+
+-
+
+|
+
+P
+
+|
+
+4.05
 
 |
 
@@ -456,7 +454,7 @@ P
 
 |
 
-―
+-
 
 |
 
@@ -464,35 +462,11 @@ P
 
 |
 
-4. 06
+4.06
 
 |
 
-Contrôler l'étanchéité du système au moyen d'une des méthodes directes visées au règlement (CE) n° 1516 / 2007.
-
-|
-
-P
-
-|
-
-―
-
-|
-
-―
-
-|
-
-―
-
-|
-
-4. 07
-
-|
-
-Contrôler l'étanchéité du système au moyen d'une des méthodes directes ne nécessitant pas d'intervenir dans le circuit de réfrigération et visées au règlement (CE) n° 1516 / 2007.
+Contrôler l'étanchéité du système au moyen d'une des méthodes directes visées au règlement (CE) n° 1516/2007.
 
 |
 
@@ -500,11 +474,35 @@ P
 
 |
 
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+4.07
+
+|
+
+Contrôler l'étanchéité du système au moyen d'une des méthodes directes ne nécessitant pas d'intervenir dans le circuit de réfrigération et visées au règlement (CE) n° 1516/2007.
+
+|
+
 P
 
 |
 
-―
+P
+
+|
+
+-
 
 |
 
@@ -512,7 +510,7 @@ P
 
 |
 
-4. 08
+4.08
 
 |
 
@@ -528,7 +526,7 @@ P
 
 |
 
-―
+-
 
 |
 
@@ -536,7 +534,7 @@ P
 
 |
 
-4. 09
+4.09
 
 |
 
@@ -552,7 +550,7 @@ T
 
 |
 
-―
+-
 
 |
 
@@ -564,7 +562,7 @@ T
 
 |
 
-5. 01
+5.01
 
 |
 
@@ -580,15 +578,15 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-5. 02
+5.02
 
 |
 
@@ -608,11 +606,11 @@ P
 
 |
 
-―
+-
 
 |
 
-5. 03
+5.03
 
 |
 
@@ -632,11 +630,11 @@ P
 
 |
 
-―
+-
 
 |
 
-5. 04
+5.04
 
 |
 
@@ -656,11 +654,11 @@ P
 
 |
 
-―
+-
 
 |
 
-5. 05
+5.05
 
 |
 
@@ -676,15 +674,15 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-5. 06
+5.06
 
 |
 
@@ -704,11 +702,11 @@ P
 
 |
 
-―
+-
 
 |
 
-5. 07
+5.07
 
 |
 
@@ -724,15 +722,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-5. 08
+5.08
 
 |
 
@@ -752,7 +750,7 @@ T
 
 |
 
-―
+-
 
 |
 
@@ -760,7 +758,7 @@ T
 
 |
 
-6. 01
+6.01
 
 |
 
@@ -776,15 +774,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-6. 02
+6.02
 
 |
 
@@ -796,19 +794,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-6. 03
+6.03
 
 |
 
@@ -816,23 +814,15 @@ Régler les interrupteurs de sécurité et de contrôle.
 
 |
 
-P*
+|
 
 |
 
-―
+|
 
 |
 
-―
-
-|
-
-―
-
-|
-
-6. 04
+6.04
 
 |
 
@@ -840,15 +830,23 @@ Régler les soupapes d'aspiration.
 
 |
 
-|
+P*
 
 |
 
-|
+-
 
 |
 
-6. 05
+-
+
+|
+
+-
+
+|
+
+6.05
 
 |
 
@@ -864,11 +862,11 @@ Vérifier le circuit de retour de l'huile.
 
 |
 
-6. 06
+6.06
 
 |
 
-Mettre en marche et arrêter un compresseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement
+Mettre en marche et arrêter un compresseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement.
 
 |
 
@@ -876,19 +874,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-6. 07
+6.07
 
 |
 
@@ -900,15 +898,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
@@ -916,7 +914,7 @@ T
 
 |
 
-7. 01
+7.01
 
 |
 
@@ -932,15 +930,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 02
+7.02
 
 |
 
@@ -952,19 +950,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 03
+7.03
 
 |
 
@@ -976,19 +974,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 04
+7.04
 
 |
 
@@ -1000,19 +998,19 @@ P*
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 05
+7.05
 
 |
 
@@ -1028,7 +1026,7 @@ Inspecter les conduites de refoulement et de liquide.
 
 |
 
-7. 06
+7.06
 
 |
 
@@ -1040,19 +1038,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 07
+7.07
 
 |
 
@@ -1064,19 +1062,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 08
+7.08
 
 |
 
@@ -1088,19 +1086,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-7. 09
+7.09
 
 |
 
@@ -1112,15 +1110,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
@@ -1128,7 +1126,7 @@ T
 
 |
 
-8. 01
+8.01
 
 |
 
@@ -1144,15 +1142,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-8. 02
+8.02
 
 |
 
@@ -1164,19 +1162,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-8. 03
+8.03
 
 |
 
@@ -1188,19 +1186,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-8. 04
+8.04
 
 |
 
@@ -1208,23 +1206,15 @@ Régler les interrupteurs de sécurité et de contrôle.
 
 |
 
-P*
+|
 
 |
 
-―
+|
 
 |
 
-―
-
-|
-
-―
-
-|
-
-8. 05
+8.05
 
 |
 
@@ -1232,15 +1222,23 @@ Vérifier le raccordement des conduites de liquide et d'aspiration.
 
 |
 
-|
+P*
 
 |
 
-|
+-
 
 |
 
-8. 06
+-
+
+|
+
+-
+
+|
+
+8.06
 
 |
 
@@ -1256,7 +1254,7 @@ Inspecter le conduit de dégivrage à l'air chaud.
 
 |
 
-8. 07
+8.07
 
 |
 
@@ -1272,7 +1270,7 @@ Régler l'organe de régulation de l'évaporateur à la valeur prescrite pour le
 
 |
 
-8. 08
+8.08
 
 |
 
@@ -1284,19 +1282,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-8. 09
+8.09
 
 |
 
@@ -1308,19 +1306,19 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-8. 10
+8.10
 
 |
 
@@ -1332,15 +1330,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
@@ -1348,7 +1346,7 @@ T
 
 |
 
-9. 01
+9.01
 
 |
 
@@ -1364,15 +1362,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-9. 02
+9.02
 
 |
 
@@ -1384,43 +1382,35 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-9. 03
+9.03
 
 |
 
-Régler un détendeur thermostatique mécanique / électronique.
+Régler un détendeur thermostatique mécanique/électronique.
 
 |
 
-P*
+|
 
 |
 
-―
+|
 
 |
 
-―
-
-|
-
-―
-
-|
-
-9. 04
+9.04
 
 |
 
@@ -1428,15 +1418,23 @@ Régler des thermostats mécaniques et électroniques.
 
 |
 
-|
+P*
 
 |
 
-|
+-
 
 |
 
-9. 05
+-
+
+|
+
+-
+
+|
+
+9.05
 
 |
 
@@ -1452,7 +1450,7 @@ Régler la soupape de régulation de la pression.
 
 |
 
-9. 06
+9.06
 
 |
 
@@ -1468,7 +1466,7 @@ Régler des limiteurs de pression mécaniques et électroniques.
 
 |
 
-9. 07
+9.07
 
 |
 
@@ -1480,19 +1478,19 @@ P*
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-9. 08
+9.08
 
 |
 
@@ -1508,11 +1506,11 @@ Vérifier l'état d'un filtre sécheur.
 
 |
 
-9. 09
+9.09
 
 |
 
-Rédiger un rapport sur l'état de ces composants, en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
+Rédiger un rapport sur l'état de ces composants en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
 
 |
 
@@ -1520,15 +1518,15 @@ T
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
@@ -1536,7 +1534,7 @@ T
 
 |
 
-10. 01
+10.01
 
 |
 
@@ -1552,15 +1550,15 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-10. 02
+10.02
 
 |
 
@@ -1576,15 +1574,13 @@ P
 
 |
 
-―
+-
 
 |
 
-―
+- |
 
-|
-
-C. ― Compétences et connaissances à évaluer pour la catégorie V :
+C. - Compétences et connaissances à évaluer pour la catégorie V :
 
 COMPÉTENCES À ÉVALUER
 
@@ -1598,7 +1594,7 @@ Evaluation T / P
 
 |
 
-1. 1
+1.1
 
 |
 
@@ -1610,11 +1606,11 @@ T
 
 |
 
-1. 2
+1.2
 
 |
 
-Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037 / 2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842 / 2006 relatives à l'utilisation des HFC, de la directive 2006 / 40 / CE ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
+Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037/2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842/2006 relatives à l'utilisation des HFC, de la directive 2006/40/CE ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
 
 |
 
@@ -1622,7 +1618,7 @@ T
 
 |
 
-1. 3
+1.3
 
 |
 
@@ -1638,7 +1634,7 @@ T
 
 |
 
-2. 1
+2.1
 
 |
 
@@ -1650,7 +1646,7 @@ T
 
 |
 
-2. 2
+2.2
 
 |
 
@@ -1662,7 +1658,7 @@ T
 
 |
 
-2. 3
+2.3
 
 |
 
@@ -1674,7 +1670,7 @@ P
 
 |
 
-2. 4
+2.4
 
 |
 
@@ -1686,7 +1682,7 @@ P
 
 |
 
-2. 5
+2.5
 
 |
 
@@ -1698,7 +1694,7 @@ P
 
 |
 
-2. 6
+2.6
 
 |
 
@@ -1714,7 +1710,7 @@ P et T
 
 |
 
-3. 1
+3.1
 
 |
 
@@ -1726,7 +1722,7 @@ P
 
 |
 
-3. 2
+3.2
 
 |
 
@@ -1738,7 +1734,7 @@ P
 
 |
 
-3. 3
+3.3
 
 |
 
@@ -1750,7 +1746,7 @@ P
 
 |
 
-3. 4
+3.4
 
 |
 
@@ -1766,7 +1762,7 @@ P
 
 |
 
-4. 1
+4.1
 
 |
 
@@ -1778,7 +1774,7 @@ P
 
 |
 
-4. 2
+4.2
 
 |
 
@@ -1790,7 +1786,7 @@ P
 
 |
 
-4. 3
+4.3
 
 |
 
@@ -1802,7 +1798,7 @@ P
 
 |
 
-4. 4
+4.4
 
 |
 
@@ -1814,7 +1810,7 @@ P
 
 |
 
-4. 5
+4.5
 
 |
 
@@ -1826,7 +1822,7 @@ P
 
 |
 
-4. 6
+4.6
 
 |
 
@@ -1838,7 +1834,7 @@ P
 
 |
 
-4. 7
+4.7
 
 |
 
@@ -1850,7 +1846,7 @@ P
 
 |
 
-4. 8
+4.8
 
 |
 
@@ -1862,7 +1858,7 @@ P
 
 |
 
-4. 9
+4.9
 
 |
 
@@ -1874,7 +1870,7 @@ P
 
 |
 
-4. 10
+4.10
 
 |
 
@@ -1886,7 +1882,7 @@ P
 
 |
 
-4. 11
+4.11
 
 |
 
@@ -1898,7 +1894,7 @@ P
 
 |
 
-4. 12
+4.12
 
 |
 
@@ -1910,7 +1906,7 @@ P
 
 |
 
-4. 13
+4.13
 
 |
 
@@ -1922,7 +1918,7 @@ P
 
 |
 
-4. 14
+4.14
 
 |
 
@@ -1934,7 +1930,7 @@ P
 
 |
 
-4. 15
+4.15
 
 |
 
@@ -1946,7 +1942,7 @@ P
 
 |
 
-4. 16
+4.16
 
 |
 
@@ -1962,13 +1958,13 @@ Cas particulier des démolisseurs de véhicules :
 
 Sont contrôlées les compétences et connaissances du :
 
-― chapitre 1er ;
+- chapitre 1er ;
 
-― chapitre 2, à l'exception des points 2. 5 et 2. 6 ;
+- chapitre 2, à l'exception des points 2.5 et 2.6 ;
 
-― chapitre 4, à l'exception des points 4. 8, 4. 11, 4. 12, 4. 13, 4. 14 et 4. 15.
+- chapitre 4, à l'exception des points 4.8, 4.11, 4.12, 4.13, 4.14 et 4.15.
 
-D. ― Durée des épreuves :
+D. - Durée des épreuves :
 
 La durée des épreuves théoriques et pratiques varie selon les catégories mentionnées à l'annexe I de l'arrêté du 30 juin 2008 susvisé :
 
@@ -2000,11 +1996,11 @@ Catégorie I
 
 |
 
-2, 5 heures
+2,5 heures
 
 |
 
-3, 5 heures
+3,5 heures
 
 |
 
@@ -2016,11 +2012,11 @@ Catégorie II
 
 |
 
-1, 5 heure
+1,5 heure
 
 |
 
-2, 5 heures
+2,5 heures
 
 |
 
@@ -2028,7 +2024,7 @@ Catégorie III
 
 |
 
-0, 5 heure
+0,5 heure
 
 |
 
@@ -2036,7 +2032,7 @@ Catégorie III
 
 |
 
-1, 5 heure
+1,5 heure
 
 |
 
@@ -2044,7 +2040,7 @@ Catégorie IV
 
 |
 
-0, 5 heure
+0,5 heure
 
 |
 
@@ -2052,7 +2048,7 @@ Catégorie IV
 
 |
 
-1, 5 heure
+1,5 heure
 
 |
 
@@ -2060,11 +2056,11 @@ Catégorie V
 
 |
 
-0, 5 heure
+0,5 heure
 
 |
 
-1, 5 heure
+1,5 heure
 
 1 heure pour les démolisseurs
 
@@ -2072,6 +2068,6 @@ Catégorie V
 
 2 heures
 
-1, 5 heure pour les démolisseurs
+1,5 heure pour les démolisseurs
 
 |

@@ -248,6 +248,14 @@ Le demandeur indique toutes les dispositions d'ordre individuel qu'il entend pre
 
 |
 
+Le demandeur met en place la procédure d'évaluation complémentaire mentionnée à l'annexe I A.
+
+|
+
+Il décrit la procédure mise en place par écrit.
+
+|
+
 5. Procédure de délivrance de l'attestation d'aptitude
 
 |
@@ -295,6 +303,14 @@ Le demandeur met en œuvre un système permanent d'enregistrement et d'archivage
 |
 
 Il décrit ce système par écrit.
+
+|
+
+Le demandeur met en œuvre un système permanent d'enregistrement et d'archivage permettant la traçabilité des modules ou examens pour lesquels il a attribué une équivalence et la couverture de l'équivalence.
+
+|
+
+Il décrit ce système par écrit. Il transmettra annuellement à l'organisme certificateur une copie de cette liste tenue à jour.
 
 |
 
