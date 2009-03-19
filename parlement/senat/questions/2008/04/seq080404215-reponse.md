@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404215
+
+- Question : [SEQ080404215](seq080404215.md) — Représentation des conseillers élus de l'AFE dans les commissions et comités consulaires
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-03-19, page 693*
+
+Le décret du 6 avril 1984 portant statut de l'assemblée des Français de l'étranger et fixant les modalités de l'élection de ses membres indique, dans son article 7, que « les membres élus de l'assemblée reçoivent des chefs de postes diplomatiques et consulaires l'information nécessaire à l'accomplissement de leur mission. Dans leur circonscription électorale, ils sont membres de droit des organismes consulaires compétents en matière d'emploi et de formation professionnelle, en matière de protection et d'action sociale et en matière de bourse. Il sont invités par le chef de poste à toute réunion où une représentation de la communauté française expatriée est nécessaire ». Le décret ci-dessus n'organise pas de représentation de l'élu en cas d'empêchement. C'est la circulaire du 5 avril 2006 fixant les fonctions et prérogatives des membres de l'assemblée des Français de l'étranger dans l'exercice de leur mandat qui a introduit une simple facilité en leur permettant de désigner un représentant en cas d'empêchement. Figer, sur une année, la désignation d'un représentant, qui n'aura pas voix délibérative lors des réunions des commissions et comités, ne paraît pas a priori une mesure susceptible de valoriser le travail de ces commissions et comités. La présence de l'élu, si elle est possible, permettant d'engager un dialogue fructueux avec les postes. En outre, la défection du représentant désigné pour quelque motif que ce soit est toujours possible et contraindrait alors l'élu à assister à la réunion, en dépit de son propre emploi du temps, ou pire encore à ne pas être représenté au sein de la commission ou du comité en cas d'empêchement confirmé de l'élu.
