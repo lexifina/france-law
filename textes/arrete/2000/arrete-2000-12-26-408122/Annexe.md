@@ -44,7 +44,7 @@ Caen, Rouen. |
 
 Direction du commissariat de la marine à Toulon. |
 
-Bastia, Marseille, Montpellier, Nice, Nîmes. |
+Bastia, Marseille, Montpellier, Nice, Nîmes, Toulon. |
 
 Air |
 
