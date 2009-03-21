@@ -24,13 +24,19 @@ de postes
 
 |
 
-ACBACEA (agence
+ACBACEA
 
-comptable du budget
+|
 
-annexe contrôle et
+|
 
-exploitation aériens).
+|
+
+|
+
+|
+
+(Agence comptable du budget annexe contrôle et exploitation aériens).
 
 |
 
@@ -82,21 +88,15 @@ Gestionnaire comptable, service de la dépense.
 
 |
 
-SG (secrétariat général).
+SG
+
+(Secrétariat général)
 
 |
 
 SDF3.
 
-SDP4.
-
-SDP4.
-
 |
-
-Paris
-
-Paris
 
 Paris
 
@@ -104,47 +104,15 @@ Paris
 
 Gestionnaire à la comptabilité analytique du budget annexe.
 
-Gestionnaire traitements et salaires.
-
-Gestionnaire traitements et salaires.
-
-|
-
-1
-
-1
-
-1
-
-|
-
-ENAC (Ecole nationale
-
-de l'aviation civile).
-
-|
-
-Département CA, subdivision formation pratique contrôle.
-
-|
-
-Toulouse
-
-|
-
-Assistant de subdivision.
-
 |
 
 1
 
 |
 
-DSAC (direction de la
+DSAC
 
-sécurité de l'aviation
-
-civile).
+(Direction de la sécurité de l'aviation civile)
 
 |
 
@@ -158,17 +126,13 @@ Entzheim
 
 Entzheim
 
-Entzheim
-
 |
 
-Secrétaire du délégué territorial.
+Secrétaire direction.
 
-Gestionnaire division des affaires financières.
+Gestionnaire finances.
 
-Gestionnaire division des affaires financières.
-
-Assistant de classe C, département surveillance et régulation.
+Assistant de classe C.
 
 |
 
@@ -178,19 +142,45 @@ Assistant de classe C, département surveillance et régulation.
 
 1
 
+|
+
+|
+
+DSAC Centre-Est.
+
+|
+
+Lyon
+
+|
+
+Gestionnaire finances.
+
+|
+
 1
 
 |
 
-DSNA/DO (direction des
+|
 
-services de la
+DSAC Sud.
 
-navigation aérienne,
+|
 
-direction des
+|
 
-opérations).
+Gestionnaire finances.
+
+|
+
+1
+
+|
+
+DSNA / DO
+
+(Direction des services de la navigation aérienne, direction des opérations)
 
 |
 
@@ -202,15 +192,11 @@ Entzheim
 
 Entzheim
 
-Entzheim
-
 |
 
-Secrétaire, direction et département administration.
+Secrétaire.
 
-Gestionnaire division financière.
-
-Gestionnaire division financière.
+Gestionnaire finances.
 
 |
 
@@ -218,23 +204,7 @@ Gestionnaire division financière.
 
 1
 
-1
-
 |
-
-SNA Nord.
-
-|
-
-Lille
-
-|
-
-Régisseur d'avances.
-
-|
-
-1
 
 |
 
@@ -244,9 +214,33 @@ SNA Antilles-Guyane.
 
 Fort-de-France
 
+Cayenne-Rochambeau-Guyane
+
 |
 
 Chef de division CA.
+
+Premier contrôleur.
+
+|
+
+1
+
+2
+
+|
+
+|
+
+SNA Centre-Est.
+
+|
+
+Lyon
+
+|
+
+Gestionnaire de procédures.
 
 |
 
@@ -254,7 +248,27 @@ Chef de division CA.
 
 |
 
-DEP/3AP.
+|
+
+SNA Sud-Est.
+
+|
+
+Nice
+
+|
+
+Gestionnaire finances.
+
+|
+
+1
+
+|
+
+|
+
+DEP / 3AP.
 
 |
 
@@ -270,67 +284,61 @@ Assistant subdivision systèmes.
 
 |
 
-DSNA/DTI (direction des
-
-services de la
-
-navigation aérienne,
-
-direction de la
-
-technique et de
-
-l'innovation).
-
 |
 
-Département administratif DSP/INS/A.
+DO.
 
 |
-
-Toulouse
 
 Athis-Mons
 
 |
 
-Adjoint chef de division marchés.
-
-Expert installations.
+Chef département administratif.
 
 |
 
 1
 
-1
+|
+
+SAC
 
 |
 
-DTA (direction du
-
-transport aérien).
+SPM.
 
 |
 
-SDA/3
+Saint-Pierre-et-Miquelon
 
-SDT/2.
+|
+
+Premier contrôleur.
+
+|
+
+2
+
+|
+
+DTA
+
+(Direction du transport aérien)
+
+|
+
+CAB.
 
 |
 
 Paris
 
-Paris
-
 |
 
-Chargé d'études juridiques.
-
-Adjoint chef du bureau transporteurs.
+Responsable du pôle affaires générales.
 
 |
-
-1
 
 1
 
