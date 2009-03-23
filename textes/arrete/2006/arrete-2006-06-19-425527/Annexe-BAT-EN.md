@@ -2284,9 +2284,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-07-GT
 
-Isolation des toitures terrasses et couvertures
+Isolation des toitures terrasses et couvertures de pente < 5 %
 
-de pente < 5 % dans bâtiment de grande taille
+dans bâtiment de grande taille
 
 1. Secteur d'application :
 
@@ -2294,7 +2294,7 @@ Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une ut
 
 2. Dénomination :
 
-Mise en place d'une isolation de résistance thermique R ≥ 2,6 m².K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
+Mise en place d'une isolation de résistance thermique R ≥ 2,6 m² K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2308,9 +2308,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE
-
-en kWh cumac/m² d'isolant
+MONTANT (en kWh cumac/m² d'isolant)
 
 |
 
@@ -2342,7 +2340,7 @@ Caractéristique paroi finale
 
 |
 
-2 m².K/W ≤ R ≤ 2,6 m².K/W
+2 m² K/W ≤ R < 2,6 m² K/W
 
 (uniquement pour des actions engagées avant
 
@@ -2350,15 +2348,19 @@ le 1er janvier 2008)
 
 |
 
-2,6 m².K/W ≤ R < 3,5 m².K/W
+2,6 m² K/W
+
+≤ R < 3,5 m² K/W
 
 |
 
-R ≥ 3,5 m².K/W
+R 3,5 m² K/W
 
 |
 
-Electricité |
+Electricité
+
+|
 
 H1
 
@@ -2400,14 +2402,6 @@ H2
 
 |
 
-Enseignement
-
-|
-
-0,4
-
-|
-
 H3
 
 |
@@ -2421,6 +2415,14 @@ H3
 |
 
 1 200
+
+|
+
+Enseignement
+
+|
+
+0,4
 
 |
 
@@ -2468,9 +2470,7 @@ H2
 
 |
 
-Hôtellerie-
-
-restauration
+Hôtellerie-restauration
 
 |
 

@@ -2502,11 +2502,7 @@ Mise en place d'un climatiseur fixe de classe A, individuel (monosplit) ou regro
 
 L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
 
-Pose effectuée dans les règles de l'art (calorifugeage, unités extérieures, récupération des fluides de l'ancienne unité...) par un professionnel.
-
-Contrat de maintenance signé par un professionnel.
-
-Fiche de dimensionnement à réaliser par l'installateur.
+Mise en place par un professionnel.
 
 4. Durée de vie conventionnelle :
 
@@ -2514,9 +2510,123 @@ Fiche de dimensionnement à réaliser par l'installateur.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+BRANCHE D'ACTIVITÉ
 
-n° 156 du 07/07/2006 texte numéro 28
+|
+
+MONTANT EN KWH CUMAC
+
+|
+
+X
+
+|
+
+PUISSANCE DE L'APPAREIL
+
+en BTU/h
+
+|
+
+FACTEUR CORRECTIF
+
+|
+
+Bureaux
+
+|
+
+6 900
+
+|
+
+7 000
+
+|
+
+0,6
+
+|
+
+Enseignement
+
+|
+
+4 600
+
+|
+
+9 000
+
+|
+
+0,75
+
+|
+
+Commerces
+
+|
+
+11 000
+
+|
+
+12 000
+
+|
+
+1
+
+|
+
+Hôtellerie-restauration
+
+|
+
+11 000
+
+|
+
+15 000
+
+|
+
+1,3
+
+|
+
+|
+
+|
+
+18 000
+
+|
+
+1,5
+
+|
+
+|
+
+|
+
+21 000
+
+|
+
+1,8 |
+
+|
+
+|
+
+24 000
+
+|
+
+2 |
 
 En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
 
@@ -5051,3 +5161,613 @@ Mise en place réalisée par un professionnel.
 2 820* Min [P désurchauffeur × 11,25 ; 34,8 × VECS]
 
 En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-31
+
+Unité autonome de traitement d'air en toiture
+
+à haute performance énergétique
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale ventilée égale ou inférieure à 10 000 m².
+
+2. Dénomination :
+
+Mise en place d'une unité autonome de traitement d'air en toiture (Roof-top) à haute performance énergétique.
+
+L'unité doit répondre aux critères suivants :
+
+― être équipé d'un ventilateur de soufflage à roue libre ;
+
+― utiliser le R410A comme fluide frigorigène ;
+
+― être équipé de compresseurs montés en tandem si la puissance frigorifique par appareil est de 150 kW et plus ;
+
+― utiliser un mode de dégivrage alterné.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant des certificats en kWh cumac :
+
+MONTANT UNITAIRE EN KWH CUMAC |
+
+Puissance frigorifique < 150 kW.
+
+|
+
+2 300 × P
+
+|
+
+Puissance frigorifique ≥ 150 kW.
+
+|
+
+3 500 × P
+
+|
+
+P = Puissance frigorifique en kW de l'installation.
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-32
+
+Groupe de production d'eau glacée avec condenseur sur eau (DOM)
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique, réservés à une utilisation professionnelle, de surface totale ventilée inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Mise en place d'un groupe de production d'eau glacée à condensation sur eau.
+
+3. Conditions pour la délivrance de certificats :
+
+Une étude thermique justifie :
+
+― l'origine naturelle de l'eau utilisée ;
+
+― la puissance installée du compresseur eau/eau (Pcomp eau/eau) ;
+
+― la puissance de la pompe de circulation de l'eau de refroidissement du condenseur (Ppompe cond) ;
+
+― la plage de température de la source en C°(T).
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+BRANCHE D'ACTIVITÉ
+
+|
+
+MONTANT EN
+
+kWh cumac
+
+|
+
+×
+
+|
+
+TEMPÉRATURE
+
+de la source en °C
+
+|
+
+FACTEUR CORRECTIF
+
+|
+
+10 ≤ T < 15
+
+|
+
+1,5 × (Pcomp eau/eau - Ppompe cond)
+
+|
+
+Bureaux
+
+|
+
+22 000
+
+|
+
+15 ≤ T < 20
+
+|
+
+Pcomp eau/eau - Ppompe cond
+
+|
+
+Commerces
+
+|
+
+27 000
+
+|
+
+20 ≤ T < 25
+
+|
+
+0,7 × (Pcomp eau/eau - Ppompe cond)
+
+|
+
+Hôtellerie-restauration
+
+|
+
+35 000
+
+|
+
+25 ≤ T < 30
+
+|
+
+0,5 × (Pcomp eau/eau - Ppompe cond)
+
+|
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-33
+
+Echangeur air neuf/air extrait
+
+sur centrale de traitement d'air (DOM)
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique, réservés à une utilisation professionnelle, de surface totale ventilée inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Mise en place sur une centrale de traitement d'air (CTA) d'un échangeur thermique entre air neuf et air extrait d'une efficacité supérieure ou égale à 65 % mesurée selon la norme NF EN 13141-7.
+
+3. Conditions pour la délivrance de certificats :
+
+Une étude thermique définit en m³/heure le débit d'air neuf insufflé par la CTA au point nominal (DCTA).
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+BRANCHE
+
+d'activité
+
+|
+
+MONTANT UNITAIRE
+
+(en kWh cumac/m³/heure)
+
+|
+
+X
+
+|
+
+DCTA
+
+|
+
+Bureaux
+
+|
+
+20
+
+|
+
+Commerces
+
+|
+
+25
+
+|
+
+Hôtellerie-restauration
+
+|
+
+45
+
+|
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-34
+
+Système de régulation sur une installation frigorifique
+
+permettant d'avoir une haute pression flottante
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux de commerces de distribution alimentaire.
+
+2. Dénomination :
+
+Mise en place d'un système de régulation sur une installation frigorifique permettant d'avoir une haute pression (HP) flottante.
+
+3. Conditions pour la délivrance de certificats :
+
+Attestation du fournisseur pour l'installation d'une HP flottante permettant la fluctuation de la pression de condensation en fonction de la température extérieure.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour une installation de production de froid positif.
+
+Pour une installation régulée de puissance frigorifique P(kW) :
+
+P (kW) × 4 723 × CZC × CDT × CTcd Ini
+
+Avec :
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+H2
+
+|
+
+H3
+
+|
+
+CZC
+
+|
+
+1
+
+|
+
+0,96
+
+|
+
+0,92
+
+|
+
+ΔT °C
+
+|
+
+15
+
+|
+
+14
+
+|
+
+13
+
+|
+
+12
+
+|
+
+11
+
+|
+
+10
+
+|
+
+9
+
+|
+
+8
+
+|
+
+CDT
+
+|
+
+0,79
+
+|
+
+0,82
+
+|
+
+0,86
+
+|
+
+0,90
+
+|
+
+0,95
+
+|
+
+1
+
+|
+
+1,05
+
+|
+
+1,11
+
+|
+
+T °C Condensation initiale
+
+|
+
+40
+
+|
+
+39
+
+|
+
+38
+
+|
+
+37
+
+|
+
+36
+
+|
+
+35
+
+|
+
+CTcd Ini
+
+|
+
+1
+
+|
+
+0,96
+
+|
+
+0,93
+
+|
+
+0,9
+
+|
+
+0,87
+
+|
+
+0,84
+
+|
+
+Pour une installation de production de froid négatif.
+
+Pour une installation régulée de puissance P(kW) :
+
+P (kW) × 12 146 × CZC × CDT × CTcd Ini
+
+Avec :
+
+|
+
+H1
+
+|
+
+H2
+
+|
+
+H3
+
+|
+
+CZC
+
+|
+
+1
+
+|
+
+0,96
+
+|
+
+0,92
+
+|
+
+ΔT °C
+
+|
+
+15
+
+|
+
+14
+
+|
+
+13
+
+|
+
+12
+
+|
+
+11
+
+|
+
+10
+
+|
+
+9
+
+|
+
+8
+
+|
+
+CDT
+
+|
+
+0,79
+
+|
+
+0,83
+
+|
+
+0,87
+
+|
+
+0,91
+
+|
+
+0,95
+
+|
+
+1
+
+|
+
+1,05
+
+|
+
+1,10
+
+|
+
+T °C Condensation initiale
+
+|
+
+40
+
+|
+
+39
+
+|
+
+38
+
+|
+
+37
+
+|
+
+36
+
+|
+
+35
+
+|
+
+CTcd Ini
+
+|
+
+1
+
+|
+
+0,97
+
+|
+
+0,94
+
+|
+
+0,92
+
+|
+
+0,89
+
+|
+
+0,87
+
+|

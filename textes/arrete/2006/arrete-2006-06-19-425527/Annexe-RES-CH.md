@@ -166,6 +166,118 @@ n° 303 du 31/12/2006 texte numéro 60
 
 Certificats d'économies d'énergie
 
+Opération n° RES-CH-03-GT
+
+Réhabilitation d'un poste de livraison de chaleur
+
+dans bâtiment tertiaire de grande taille
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m², et raccordés à un réseau de chauffage urbain.
+
+2. Dénomination :
+
+Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison, par des équipements neufs :
+
+― échangeurs ;
+
+― régulation ;
+
+― pompes ;
+
+― isolation thermique.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+(en kWh cumac/m²)
+
+|
+
+X
+
+|
+
+SURFACE
+
+chauffée (en m²) |
+
+X |
+
+BRANCHE
+
+|
+
+FACTEUR
+
+correctif |
+
+Zone climatique
+
+|
+
+H1
+
+|
+
+190
+
+|
+
+S |
+
+Bureaux
+
+|
+
+1,3
+
+|
+
+H2
+
+|
+
+160
+
+|
+
+Commerces |
+
+1,1
+
+|
+
+H3 |
+
+110 |
+
+Hôtellerie-restauration |
+
+1,4
+
+|
+
+Santé
+
+|
+
+0,9
+
+|
+
+Certificats d'économies d'énergie
+
 Opération n° RES-CH-04
 
 Réhabilitation d'un poste de livraison de chaleur

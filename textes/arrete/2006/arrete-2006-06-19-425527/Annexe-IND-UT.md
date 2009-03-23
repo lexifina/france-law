@@ -204,7 +204,7 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-06
 
-Contrôle et réglage du moteur d'un tracteur
+Contrôle du moteur d'un tracteur
 
 1. Secteur d'application :
 
@@ -212,21 +212,19 @@ Agriculture.
 
 2. Dénomination :
 
-Contrôle et réglage du moteur d'un tracteur sur banc d'essai mobile.
+Contrôle du moteur d'un tracteur sur banc d'essai mobile et réglages si nécessaires.
 
-L'opération comprend le contrôle du moteur sur banc d'essai et les conseils délivrés à l'agriculteur ou au chauffeur sur la conduite, l'entretien du matériel et les réglages.
+L'opération comprend le contrôle du moteur sur banc d'essai et les conseils délivrés à l'agriculteur ou au chauffeur. Ces conseils peuvent porter sur la conduite, l'entretien et les réglages du matériel.
 
 3. Conditions pour la délivrance de certificats :
 
-Réalisation par un opérateur participant au réseau national coordonné par la FNCUMA.
+Réalisation du contrôle par un opérateur participant au réseau national coordonné par le Réseau mixte technologique (RMT) agroéquipement énergie.
 
 4. Durée de vie conventionnelle :
 
 2 ans.
 
-5. Montant de certificats en kWh cumac :
-
-9 700 kWh cumac.
+5. Montant de certificats en kWh cumac : 9 700 kWh cumac.
 
 Certificats d'économies d'énergie
 
@@ -538,7 +536,7 @@ Récupération sur réfrigérant d'air
 
 Certificats d'économies d'énergie
 
-Opération n° IND-UT-10
+Opération n°IND-UT-10
 
 Transformateur à haut rendement pour l'alimentation
 
@@ -909,5 +907,39 @@ Ak
 |
 
 1 671 500
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-11
+
+Ballon de stockage d'eau chaude
+
+1. Secteur d'application :
+
+Agriculture : serres maraîchères et horticoles.
+
+2. Dénomination.
+
+Mise en place d'un ballon de stockage d'eau chaude.
+
+3. Conditions de délivrance de certificats :
+
+La capacité du ballon est adaptée aux caractéristiques de la serre.
+
+Mise en place par un professionnel.
+
+4. Durée de vie conventionnelle.
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montant en kWh cumac par m² de serre chauffé.
+
+|
+
+170
 
 |

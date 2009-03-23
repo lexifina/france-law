@@ -675,3 +675,29 @@ Une attestation d'un sous-refroidissement du liquide de l'installation de produc
 8 700 kWh cumac × P.
 
 P = puissance frigorifique négative en kWh de l'installation.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-19
+
+Coupe-veille automatique
+
+1. Secteur d'application :
+
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination :
+
+Mise en place d'un coupe-veille automatique sur lequel sont raccordés des appareils électriques et électroniques. Le coupe-veille fonctionne automatiquement par détection de l'utilisation des appareils raccordés.
+
+La puissance du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 watt.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac : 870 kWh cumac.

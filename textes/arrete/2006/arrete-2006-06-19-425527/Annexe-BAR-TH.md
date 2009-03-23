@@ -5837,3 +5837,75 @@ H3
 21 000
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-41
+
+Remplacement d'un climatiseur existant
+
+par un climatiseur de classe A (DOM)
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants dans les départements d'outre-mer.
+
+2. Dénomination :
+
+Remplacement d'un climatiseur existant par un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs ou égaux à 9 000 BTU/h froid par pièce.
+
+3. Conditions pour la délivrance des certificats :
+
+L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+
+Une attestation de dépose de l'ancien climatiseur doit être fournie par l'installateur.
+
+Mise en place par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+9 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC
+
+|
+
+Puissance de l'appareil en BTU/h
+
+|
+
+4,5 > COP ≥ 3,2
+
+|
+
+COP ≥ 4,5
+
+|
+
+7 000
+
+|
+
+6 200
+
+|
+
+15 000
+
+|
+
+9 000
+
+|
+
+7 400
+
+|
+
+17 000
+
+|
+
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
