@@ -1,0 +1,45 @@
+# Article 1er
+
+1-Contrats à durée déterminée
+
+En cas de contrat à durée déterminée, la période d'essai est calculée conformément aux dispositions de l'article L. 1242-10 du Code du Travail.
+
+Lorsqu'il est mis fin par l'employeur au contrat au cours ou au terme de la période d'essai, le salarié est prévenu par lettre recommandée avec avis de réception, ou lettre remise en main propre contre décharge, dans un délai qui ne peut être inférieur à :
+
+-24 heures en deçà de 8 jours de présence ;
+
+-48 heures entre 8 jours et un mois de présence.
+
+La période d'essai ne peut être prolongée du fait de la durée du délai de prévenance.
+
+A défaut, l'employeur sera redevable d'une indemnité compensatrice correspondant au préavis non effectué.
+
+2-Contrats à durée indéterminée
+
+En cas de contrat à durée indéterminée, l'engagement définitif est subordonné à une période d'essai fixée comme suit :
+
+-salariés relevant des positions O1 à O3..... 1 mois
+
+-salariés relevant de la position O4 à O6.... 2 mois
+
+-salariés relevant des positions E1 ou E2.... 1 mois
+
+-salariés relevant des positions E3 ou E4.... 2 mois.
+
+Après accord entre les parties, la période d'essai peut être renouvelée une fois pour la même durée. Dans ce cas, l'accord de renouvellement est stipulé par écrit et est signé par les deux parties, au moins 4 jours ouvrables avant l'expiration de la période d'essai initiale.
+
+Lorsqu'il est mis fin par l'employeur au contrat en cours ou au terme de la période d'essai, le salarié est prévenu par lettre recommandée avec avis de réception ou lettre remise en main propre dans un délai qui ne peut être inférieur à :
+
+-24 heures en deçà de 8 jours de présence
+
+-48 heures entre 8 jours et un mois de présence
+
+-2 semaines après un mois de présence
+
+-1 mois après 3 mois de présence.
+
+La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.
+
+A défaut, l'employeur sera redevable d'une indemnité compensatrice correspondant au préavis non effectué.
+
+Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci doit en informer son employeur par lettre recommandée avec avis de réception ou lettre remise en main propre contre décharge, en respectant un délai de prévenance de 48 heures ramené à 24 heures en deçà de 8 jours de présence.
