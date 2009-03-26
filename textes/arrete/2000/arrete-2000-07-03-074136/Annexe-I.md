@@ -304,6 +304,8 @@ Provence-Alpes-Côte d'Azur
 
 Entreprise nouvelle isotherma, BP 78, 13110 Port-de-Bouc : de 1972 à 1983 ;
 
+Entreprise générale d'isolation Edouard POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1947 à 1980 ", " Société d'exploitation POUJAUD Edouard, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1981 à 1987 ", " Entreprise générale d'isolation POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1966 à 1987 ", puis " POUJAUD SA, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1988 à 1996 ;
+
 Eternit, établissement de Caronte, Croix-Sainte, 13500 Martigues : de 1957 à 1978 ;
 
 Heraud SA, La Malautière, RN 7, 84700 Sorgues : de 1945 à 1984 ;
@@ -313,8 +315,6 @@ Isolfeu 13/Wanner, 13220 Châteauneuf-lès-Martigues : de 1944 à 1966 ;
 Joseph Oliva isolation, 94, avenue Roger-Salengro, 13003 Marseille : de 1965 à 1981 ;
 
 Alpha, puis Rochette Cempa, puis Rochette Alfa, puis Filtralfa, puis Eurofiltec : RN 7, 84130 Le Pontet : de 1947 à 1996 ;
-
-Poujaud isolation, 30, avenue Mirabeau, 13220 La Mède : de 1954 à 1973 ;
 
 Société phocéenne de travaux maritimes et industriels, 37, boulevard Oddo, puis 258, chemin de la Madrague, 13015 Marseille : de 1961 à 1994 ;
 
