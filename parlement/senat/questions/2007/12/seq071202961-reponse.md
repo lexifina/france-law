@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202961
+
+- Question : [SEQ071202961](seq071202961.md) — DVD : publicités obligatoires
+
+## Réponse
+
+*Industrie, JO du 2009-03-26, page 769*
+
+Il n'existe actuellement aucun projet de réglementation relatif à l'encadrement des plages publicitaires présentes sur les DVD. Les restrictions réglementaires existantes en matière de publicité répondent avant tout à des objectifs de maintien d'une concurrence libre et non faussée entre les opérateurs économiques (ex. : encadrement de la publicité comparative) et à des impératifs de protection du consommateur, en particulier dans les domaines de la santé publique (ex. : réglementation de la publicité sur les médicaments, l'alcool ou le tabac), de la sécurité ou de la protection économique du consommateur (ex. : prohibition des allégations trompeuses, réglementation de la publicité relative au crédit). Au-delà de l'application des lois, la liberté d'expression publicitaire connaît également les limites déontologiques que se fixent volontairement les professionnels de la publicité et qui sont reprises dans différents codes de bonne conduite s'inspirant du « code international des pratiques loyales en matière de publicité » de la chambre de commerce international. À noter que ces codes d'autorégulation, qui font la promotion d'une publicité responsable et respectueuse du consommateur, sont régulièrement mis à jour en tenant compte des évolutions sociales, technologiques et économiques. compte tenu des éléments précités, la voie législative ne s'impose pas, en premier lieu, comme la plus adaptée pour encadrer la pratique de l'autopromotion des éditeurs vidéo et il paraît préférable d'explorer initialement les pistes alternatives offertes par l'autorégulation en invitant les professionnels concernés à engager une réflexion sur ce sujet.
