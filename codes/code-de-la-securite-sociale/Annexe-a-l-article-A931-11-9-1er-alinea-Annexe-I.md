@@ -1,4 +1,4 @@
-# Article Annexe à l'article A931-11-9 (1er alinéa) Annexe I
+# Article Annexe à l'article A931-11-9 (1er alinéa)  Annexe I
 
 NOMENCLATURE DES COMPTES
 
@@ -222,9 +222,9 @@ Classe 2 - Placements.
 
 265 Créances pour espèces déposées chez les cédantes.
 
-28 Amortissements des placements immobiliers
+28 Amortissements des placements immobiliers.
 
-29 Provisions pour dépréciation des placements
+29 Provisions pour dépréciation des placements.
 
 Classe 3 - Provisions techniques.
 
@@ -309,6 +309,8 @@ Classe 3 - Provisions techniques.
 375 Acceptations Non-vie.
 
 377 Engagements pris au titre de la branche mentionnée au 25 de l'article R. 931-2-1.
+
+379 Dotations à la provision pour risque d'exigibilité restant à constater.
 
 38 Provisions des opérations en unités de compte
 
@@ -430,7 +432,7 @@ Classe 4 - Comptes de tiers et de régularisation.
 
 4897 Ecarts de conversion-passif.
 
-49 Provisions pour dépréciation
+49 Provisions pour dépréciation.
 
 Classe 5 - Autres actifs.
 
@@ -450,7 +452,7 @@ Classe 5 - Autres actifs.
 
 58 Amortissements
 
-59 Provisions pour dépréciation
+59 Provisions pour dépréciation.
 
 Classe 6 - Charges.
 
@@ -947,6 +949,8 @@ Classe 7 - Produits.
 751 Récupérations.
 
 752 Utilisations ou reprises de provisions.
+
+753 Variation des dotations à la provision pour risque d'exigibilité restant à constater.
 
 756 Autres produits.
 
