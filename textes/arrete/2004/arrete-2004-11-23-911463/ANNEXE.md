@@ -1,67 +1,85 @@
 # Article ANNEXE
 
-I- NOM DES ZONES de défense
+NOM DES ZONES
 
-II- CHEF-LIEU des zones de défense
+de défense
 
-III- DÉLÉGUÉ DE ZONE du ministère de l'agriculture et de la pêche
+|
 
-I- Paris
+CHEF-LIEU
 
-II- Paris
+des zones de défense
 
-III- DRIAF d'Ile-de-France.
+|
 
-I- Nord
+DÉLÉGUÉ DE ZONE
 
-II- Lille
+du ministère chargé de l'agriculture
 
-III- DRAF de Nord - Pas-de-Calais.
+|
 
-I- Ouest
+Paris
 
-II- Rennes
+Nord
 
-III- DRAF de Bretagne.
+Ouest
 
-I- Sud-Ouest
+Sud-Ouest
 
-II- Bordeaux
+Sud
 
-III- DRAF d'Aquitaine.
+Sud-Est
 
-I- Sud
+Est
 
-II- Marseille
+Antilles
 
-III- DRAF de Provence-Alpes-Côte d'Azur.
+Guyane
 
-I- Sud-Est
+Sud de l'Océan indien
 
-II- Lyon
+|
 
-III- DRAF de Rhône-Alpes.
+Paris
 
-I- Est
+Lille
 
-II- Metz
+Rennes
 
-III- DRAF de Lorraine.
+Bordeaux
 
-I- Antilles
+Marseille
 
-II- Fort-de-France
+Lyon
 
-III- DAF de la Martinique.
+Metz
 
-I- Guyane
+Fort-de-France
 
-II- Cayenne
+Cayenne
 
-III- DAF de la Guyane.
+Saint-Denis de La Réunion
 
-I- Sud de l'océan Indien.
+|
 
-II- Saint-Denis-de-la-Réunion
+DRIAAF d'Ile-de-France
 
-III- DAF de la Réunion.
+DRAAF de Nord-Pas-de-Calais
+
+DRAAF de Bretagne
+
+DRAAF d'Aquitaine
+
+DRAAF de Provence-Alpes-Côte d'Azur
+
+DRAAF de Rhône-Alpes
+
+DRAAF de Lorraine
+
+DAF de la Martinique
+
+DAF de la Guyane
+
+DAF de la Réunion
+
+|
