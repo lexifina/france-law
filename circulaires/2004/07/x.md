@@ -1,0 +1,99 @@
+# Circulaire du 30 juillet 2004 modifiant l’annexe II de la circulaire du 17 août 1998 relative à la loi n° 96-1236 du 30 décembre 1996 sur l’air et l’utilisation rationnelle de l’énergie (mesures concernant la circulation des véhicules)
+
+- État : en vigueur (publiée)
+- NOR : -
+- Numéro : -
+- Date de signature : 2004-07-30
+- Mise en ligne : 2009-03-31
+- Ministères : 5
+- Domaines : Ecologie, développement durable, Transports, équipement, logement, tourisme, mer
+- Mots-clés : Energie, environnement; Energie_environnement ; Energie_Climat ; Information_public ; Pollution
+- Annexes : 0
+- Cerfa : -
+- Identifiant : 26587 (PDF officiel : pdf/2009/03/cir_26587.pdf)
+
+## Texte
+
+Paris, le 30 JUILLET 2004
+Le ministre de l’intérieur, de la sécurité intérieure
+et des libertés locales,
+Le ministre de la santé et de la protection sociale,
+Le ministre de l’équipement, des transports, de
+l’aménagement du territoire, du tourisme et de
+la mer,
+Le ministre de l’écologie et du développement
+durable
+à
+Mesdames et Messieurs les préfets de département,
+Monsieur le préfet de police de Paris
+Objet : Circulaire modifiant l’annexe II de la circulaire du 17 août 1998 relative à la loi n° 96-1236
+du 30 décembre 1996 sur l’air et l’utilisation rationnelle de l’énergie (mesures concernant la
+circulation des véhicules)
+Textes sources : Décret n° 98-360 du 6 mai 1998 modifié relatif à la surveillance de la qualité de l’air et de
+ses effets sur la santé et sur l’environnement, aux objectifs de qualité de l’air, aux seuils d’alerte et
+aux valeurs limites
+Articles L.318-1, R.411-19 et R.318-2 du code de la route
+Mots-clés : pics de pollution de l’air, mesures d’urgence, circulation alternée, pastille verte
+La présente circulaire a pour objet de réformer le dispositif de mise en œuvre de la circulation
+alternée lors des épisodes aigus de pollution.
+Le dispositif actuel autorise la circulation de tous les véhicules détenteurs de la pastille verte
+et astreint les autres véhicules légers à une circulation alternée.
+Bien que son déclenchement n’ait été décidé qu’une seule fois, en 1997 à Paris, il convient
+d’en modifier les modalités compte tenu de l’évolution du parc automobile depuis la création de
+la pastille verte.
+
+En effet, à ce jour la mise en œuvre de cette mesure telle que prévue permettrait la circulation
+de 80 à 90 % des véhicules et ainsi, n’aurait quasiment plus d’impact sur le niveau de pollution.
+En conséquence, le point a) du 2.2.1 de l’annexe II de la circulaire du 17 août 1998 relative à
+la loi n° 96-1236 du 30 décembre 1996 sur l’air et l’utilisation de l’énergie (mesures d’urgence
+concernant la circulation des véhicules) est remplacé par les dispositions portées en annexe de la
+présente circulaire.
+Le ministre de l’écologie
+et du développement durable,
+Le ministre de l’intérieur,
+de la sécurité intérieure
+et des libertés locales,
+Le ministre de la santé
+et de la protection sociale,
+Le ministre de l’équipement, des transports,
+de l’aménagement du territoire,
+du tourisme et de la mer,
+
+A N N E X E
+« a) Restriction de circulation des véhicules.
+L’objectif recherché est de réduire globalement les débits de véhicules polluants circulant
+dans le périmètre concerné. Il faut toutefois limiter au maximum le report des émissions
+polluantes à l’extérieur de ce périmètre.
+La recommandation de réduire l’usage des véhicules légers pourra être étendue à l’ensemble
+de l’agglomération en cas de niveau d’alerte.
+L’objectif de la création d’une zone à circulation réglementée est de réduire significativement
+le trafic dans un secteur particulièrement soumis à une pollution atmosphérique d’origine
+automobile.
+• Seront autorisés à circuler dans cette zone :
+- les véhicules légers peu polluants par construction : véhicules électriques, véhicules GPL ou
+GNV et véhicules hybrides ;
+- les véhicules particuliers ayant au moins trois occupants (covoiturage) ;
+- les véhicules à deux roues et assimilés (tricycles, voiturettes) ;
+- les véhicules légers correspondant à la liste de dérogations que vous aurez établies, selon les
+recommandations du point b) ci-après ;
+- les véhicules légers immatriculés à l’étranger.
+• Les véhicules catalysés devront respecter une circulation alternée. Ces véhicules sont de
+façon générale détenteurs de la pastille verte. Tous les véhicules dont la première mise en
+circulation est postérieure au 1er octobre 1998 sont catalysés. Les véhicules dont le numéro
+d’ordre dans la série de la plaque d’immatriculation est pair ne pourront circuler que les jours
+pairs et les véhicules dont le numéro d’ordre dans la série de la plaque d’immatriculation est
+impair que les jours impairs.
+Il convient toutefois de noter que la pastille verte, depuis le 1er août 2003 n’est plus éditée et
+n’a été distribuée par les préfectures que jusqu’à épuisement des stocks qu’elles détenaient ; de ce
+fait, les véhicules les plus récents peuvent n’en être pas dotés. Les forces de l’ordre devront donc
+se reporter à la date de première mise en circulation - qui figure sur la carte grise – pour, en cas
+de doute, verbaliser l’automobiliste en infraction.
+• Les autres véhicules légers ne seront pas autorisés à circuler.
+Toutefois, dans les situations exceptionnelles où ce dispositif conduirait à porter atteinte à la
+sécurité ou à l’ordre public, sa mise en place est laissée à votre appréciation. Vous voudrez bien,
+dans ce cas, nous en informer.
+Les véhicules lourds font également l’objet de mesures spécifiques (cf. 2.2.1. c). Les
+véhicules utilitaires légers font l’objet du décret n° 98-703 du 17 août 1998.
+La mise en place d’une telle zone doit faire l’objet d’une étude technique préalable
+approfondie. Cette étude devra soigner tout particulièrement la préparation d’actions visant à une
+réduction de la demande de déplacements (voir ci-après § 3.1.). »
