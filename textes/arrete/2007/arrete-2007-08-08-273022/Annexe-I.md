@@ -1,6 +1,6 @@
 # Article Annexe I
 
-TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES LOCALES
+TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 
 CAPC par corps et grades
 
@@ -386,19 +386,19 @@ Technicien supérieur d'études et de fabrications de 1re classe
 
 |
 
-3
+2
 
 |
 
-3
+2
 
 |
 
-9
+8
 
 |
 
-9
+8
 
 |
 
