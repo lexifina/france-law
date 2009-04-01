@@ -8,15 +8,11 @@ EMPLOIS
 
 |
 
-|
-
 Administration générale de l'assistance publique à Paris
 
 |
 
 Directeur général
-
-|
 
 |
 
@@ -30,15 +26,11 @@ Directeur général
 
 |
 
-|
-
 Agence centrale des organismes d'intervention dans le secteur agricole
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -50,25 +42,11 @@ Directeur
 
 |
 
-|
-
 Agence de l'environnement et de la maîtrise de l'énergie
 
 |
 
 Président du conseil d'administration
-
-|
-
-|
-
-Agence nationale pour l'indemnisation des Français d'outre mer
-
-|
-
-Directeur
-
-|
 
 |
 
@@ -80,8 +58,6 @@ Président du conseil d'administration
 
 |
 
-|
-
 Agence nationale des chèques vacances
 
 |
@@ -90,15 +66,11 @@ Président-directeur général
 
 |
 
-|
-
 Agence française du sang
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -112,15 +84,15 @@ Directeur général
 
 |
 
-|
+Agence de services et de paiement |
+
+Directeur général |
 
 Banque de France
 
 |
 
 Le gouverneur et les deux sous-gouverneurs
-
-|
 
 |
 
@@ -132,15 +104,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Bureau de recherches géologiques et minières
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -152,15 +120,11 @@ Directeur général
 
 |
 
-|
-
 Caisse des dépôts et consignations
 
 |
 
 Directeur général
-
-|
 
 |
 
@@ -172,15 +136,11 @@ Directeur
 
 |
 
-|
-
 Caisse nationale d'assurance maladie
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -192,8 +152,6 @@ Directeur
 
 |
 
-|
-
 Centre de coopération internationale en recherche agronomique pour le développement
 
 |
@@ -202,35 +160,17 @@ Président du conseil d'administration
 
 |
 
-|
-
-Centre national pour l'aménagement des structures des exploitations agricoles
-
-|
-
-Directeur général
-
-|
-
-|
-
 Centre national d'art et de culture Georges Pompidou
 
 |
 
-Président
-
-|
-
-|
+Président |
 
 Centre national de la cinématographie
 
 |
 
 Directeur général
-
-|
 
 |
 
@@ -244,8 +184,6 @@ Directeur général
 
 |
 
-|
-
 Centre national de la recherche scientifique
 
 |
@@ -256,15 +194,11 @@ Directeur général
 
 |
 
-|
-
 Centre national d'enseignement à distance
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -278,15 +212,11 @@ Directeur général
 
 |
 
-|
-
 Comédie Française
 
 |
 
 Administrateur général
-
-|
 
 |
 
@@ -300,15 +230,11 @@ Haut-commissaire à l'énergie atomique
 
 |
 
-|
-
 Compagnie nationale du Rhône
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -320,15 +246,11 @@ Directeur
 
 |
 
-|
-
 Ecole nationale de la magistrature
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -342,8 +264,6 @@ Directeur général
 
 |
 
-|
-
 Electricité de France
 
 |
@@ -351,8 +271,6 @@ Electricité de France
 Président du conseil d'administration
 
 Directeur général
-
-|
 
 |
 
@@ -366,15 +284,11 @@ Président du directoire
 
 |
 
-|
-
 Entreprise de recherches et d'activités pétrolières
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -386,8 +300,6 @@ Président du conseil d'administration
 
 |
 
-|
-
 Etablissement public du musée du Louvre
 
 |
@@ -396,7 +308,9 @@ Président, choisi parmi les membres des corps des conservateurs généraux du p
 
 |
 
-|
+Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) |
+
+Directeur |
 
 Etablissement public du parc de La Villette
 
@@ -406,15 +320,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Etablissement national des invalides de la marine
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -428,15 +338,11 @@ Directeur général
 
 |
 
-|
-
 Groupe Air France S.A.
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -448,15 +354,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Houillères de bassin de Lorraine
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -468,15 +370,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Imprimerie nationale
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -488,15 +386,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Institut français de recherche scientifique pour le développement en coopération (Orstom)
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -508,15 +402,11 @@ Directeur
 
 |
 
-|
-
 Institut international d'administration publique
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -528,15 +418,11 @@ Président-directeur général
 
 |
 
-|
-
 Institut national de la propriété industrielle
 
 |
 
 Directeur général
-
-|
 
 |
 
@@ -548,15 +434,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Institut national de la santé et de la recherche médicale
 
 |
 
 Directeur général
-
-|
 
 |
 
@@ -568,23 +450,15 @@ Directeur
 
 |
 
-|
-
-Institution mentionnée à l'article L. 5312-1 du code du travail
-
-|
+Institution mentionnée à l'article L. 5312-1 du code du travail |
 
 Directeur général
-
-|
 
 |
 
 La Poste |
 
 Président du conseil d'administration |
-
-|
 
 Météo France
 
@@ -596,15 +470,11 @@ Directeur général
 
 |
 
-|
-
 Office national des anciens combattants
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -616,15 +486,11 @@ Directeur
 
 |
 
-|
-
 Office national d'études et de recherches aérospatiales
 
 |
 
 Président du conseil d'administration
-
-|
 
 |
 
@@ -636,75 +502,11 @@ Directeur général
 
 |
 
-|
-
 Office national d'immigration
 
 |
 
 Président du conseil d'administration
-
-|
-
-|
-
-Office national interprofessionnel des céréales
-
-|
-
-Directeur général
-
-|
-
-|
-
-Office national interprofessionnel des fruits, légumes et de l'horticulture
-
-|
-
-Directeur
-
-|
-
-|
-
-Office national interprofessionnel du lait et des produits laitiers
-
-|
-
-Directeur
-
-|
-
-|
-
-Office national interprofessionnel des plantes à parfum aromatiques et médicinales
-
-|
-
-Directeur
-
-|
-
-|
-
-Office national interprofessionnel des viandes, de l'élevage et de l'aviculture
-
-|
-
-Directeur
-
-|
-
-|
-
-Office national interprofessionnel des vins
-
-|
-
-Directeur
-
-|
 
 |
 
@@ -716,15 +518,11 @@ Directeur
 
 |
 
-|
-
 Port autonome de Dunkerque
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -736,15 +534,11 @@ Directeur
 
 |
 
-|
-
 Port autonome du Havre
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -756,8 +550,6 @@ Directeur
 
 |
 
-|
-
 Port autonome de Paris
 
 |
@@ -766,15 +558,11 @@ Directeur
 
 |
 
-|
-
 Port autonome de Rouen
 
 |
 
 Directeur
-
-|
 
 |
 
@@ -788,15 +576,11 @@ Directeur général
 
 |
 
-|
-
 Société financière de radiodiffusion
 
 |
 
 Président-directeur général
-
-|
 
 |
 
@@ -810,8 +594,6 @@ Directeur général
 
 |
 
-|
-
 Société nationale des poudres et explosifs
 
 |
@@ -820,15 +602,11 @@ Président du conseil d'administration
 
 |
 
-|
-
 Télédiffusion de France
 
 |
 
 Président-directeur général
-
-|
 
 |
 
@@ -842,8 +620,6 @@ Administrateur général
 
 |
 
-|
-
 Union des groupements d'achats publics
 
 |
@@ -852,16 +628,10 @@ Président du conseil d'administration
 
 |
 
-|
-
 Voies navigables de France
 
 |
 
 Président du conseil d'administration
-
-|
-
-|
 
 |
