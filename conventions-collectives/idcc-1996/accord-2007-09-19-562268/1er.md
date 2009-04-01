@@ -15,3 +15,5 @@ Le descriptif d'activités permet l'élaboration, par la CPNEFP, d'un référent
 Le référentiel de certification permet l'élaboration, par la CPNEFP, d'un référentiel de formation contenant les différents modules de formation.
 
 L'ensemble des documents nécessaires à l'élaboration d'un CQP doit être établi par la CPNEFP.
+
+Chaque CQP mis en place par la CPNEFP est inscrit sur la liste annexée au présent accord.

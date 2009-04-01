@@ -1,8 +1,8 @@
 # Article Préambule
 
-Le certificat de qualification professionnelle (CQP) permet de reconnaître qu'une personne maîtrise les savoirs et les savoir-faire correspondant à une qualification identifiée, non sanctionnée par un diplôme délivré par l'Etat.
+Le certificat de qualification professionnelle (CQP) permet de reconnaître qu'une personne maîtrise les savoirs et les savoir-faire correspondant à une qualification identifiée, non sanctionnée par un diplôme délivré par l'État.
 
-Le certificat de qualification professionnelle permet de certifier les compétences des salariés, que celles-ci soient acquises par la formation ou par l'expérience. Il peut s'adresser aussi bien aux salariés en activité, dans le cadre de la formation professionnelle continue qu'aux jeunes et adultes, par la formation en alternance. Le CQP peut être délivré dans le cadre d'une démarche de validation des acquis de l'expérience. La démarche CQP est un des moyens de développement des qualifications des salariés.
+Le certificat de qualification professionnelle permet de certifier les compétences des salariés, que celles-ci soient acquises par la formation ou par l'expérience. Il peut s'adresser aux salariés en activité dans le cadre de la formation professionnelle continue, aux jeunes et adultes, par la voie de la formation en alternance ainsi qu'aux demandeurs d'emploi. Le CQP peut être délivré dans le cadre d'une démarche de validation des acquis de l'expérience. La démarche CQP est un des moyens de développement des qualifications des salariés.
 
 Pour les salariés en activité, le dispositif CQP permet de :
 
