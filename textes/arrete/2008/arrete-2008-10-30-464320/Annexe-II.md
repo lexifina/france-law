@@ -22,11 +22,11 @@ POINTS NBI
 
 |
 
-Service départemental et régional des systèmes d'information et de communication des Bouches-du-Rhône
+Service régional et départemental des systèmes d'information et de communication des Bouches-du-Rhône
 
 |
 
-Chef du SDRSIC
+Chef du SRDSIC
 
 |
 
@@ -70,7 +70,7 @@ POINTS NBI
 
 78 |
 
-SRSIC de Versailles
+SRSIC de la zone de défense de Paris
 
 |
 
@@ -90,7 +90,7 @@ Adjoint au chef du SRSIC
 
 |
 
-Services zonaux des systèmes d'information et de communication (SZSIC)
+Services de zone des systèmes d'information et de communication (SZSIC)
 
 LOCALISATION
 
@@ -108,7 +108,7 @@ POINTS NBI
 
 |
 
-SZSIC de Marseille
+SZSIC de la zone de défense Sud
 
 |
 
@@ -124,7 +124,7 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de Bordeaux
+SZSIC de la zone de défense Sud-Ouest
 
 |
 
@@ -140,7 +140,7 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de Rennes
+SZSIC de la zone de défense Ouest
 
 |
 
@@ -156,7 +156,7 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de Metz
+SZSIC de la zone de défense Est
 
 |
 
@@ -172,7 +172,7 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de Lyon
+SZSIC de la zone de défense Sud
 
 |
 
@@ -209,16 +209,6 @@ Direction des systèmes d'information et de communication
 Chef du bureau opérateur à la sous-direction
 
 de l'exploitation et du soutien (SDES)
-
-|
-
-40
-
-|
-
-Chef de la division centrale des systèmes d'information
-
-et de communication (DCSIC)
 
 |
 
