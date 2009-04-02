@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005894
+
+- Question : [SEQ081005894](seq081005894.md) — Desserte de la commune de Saint-Hubert par le téléphone mobile
+
+## Réponse
+
+*Écologie, JO du 2009-04-02, page 818*
+
+Lancé en 2003, le programme national d'extension de la couverture en téléphonie mobile vise à apporter les services des trois opérateurs mobiles dans les communes où aucun service mobile n'était disponible. Ce programme, qui est une première en Europe, a mobilisé les efforts conjoints des opérateurs, des collectivités et de l'État, qui ont cofinancé l'installation des sites nécessaires. L'État a ainsi consacré à ce programme 44 M€ auxquels il convient d'ajouter environ 20 M€ de compensation de TVA. Ce programme est aujourd'hui en voie de finalisation plus de 90 % des communes sont couvertes selon les critères du plan, et les déploiements se poursuivent. Suite à un accord avec les opérateurs, 364 nouvelles communes identifiées en zone blanche ont pu être intégrées au programme initial. Depuis la validation par le Gouvernement de la répartition des sites entre les opérateurs le 15 janvier 2009, les travaux de déploiements peuvent commencer. Les engagements des opérateurs et des collectivités prévoient que 80 % de ces communes seront couvertes fin 2010 et la totalité en 2011. La commune de Saint-Hubert a été identifiée comme pouvant être concernée par ce plan, elle devrait être desservie par un site dont la maîtrise d'ouvrage est confiée à l'opérateur Bouygues Telecom. Sur le reste du territoire, la couverture mobile continue à augmenter. La récente loi pour la modernisation de l'économie dispose que l'Autorité de régulation des communications électroniques et des postes publiera d'ici l'été 2009 un bilan global sur la couverture du territoire en téléphonie mobile, portant notamment sur les perspectives de résorption des zones non couvertes par tous les opérateurs de radiocommunications mobiles de deuxième génération.
