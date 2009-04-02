@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207509
+
+- Question : [SEQ090207509](seq090207509.md) — Création nécessaire d'un label « société civile » d'agrément aux organisations non gouvernementales candidates aux subventions françaises ou communautaires
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-04-02, page 811*
+
+Le ministère des affaires étrangères et européennes partage le souci d'une transparence accrue des organisations de solidarité internationales (OSI) qui bénéficient de financements de l'État. Sans qu'il existe, pour l'instant, un label commun aux institutions communautaires et au MAEE, ce dernier s'est doté de mécanismes de sélection ad hoc, tant en ce qui concerne l'aide au projet que le volontariat international. De façon préliminaire, il est à noter que priorité est donnée aux demandes de subvention qui s'inscrivent en cohérence ou en complémentarité de notre coopération et aux projets dits « structurants ». L'instruction elle même par les services compétents du MAEE, des dossiers présentés par les OSI s'appuie sur un vade-mecum extrêmement précis, disponible sur le site France Diplomatie. Toute instruction exige la production préalable des documents suivant : les statuts de l'association ; la liste des membres du conseil d'administration et du bureau ; les rapports d'activité des trois dernières années ; les bilans et comptes de résultats des trois derniers exercices. Dans le cadre de la révision générale des politiques publiques (RGPP), la partie « gestion du cofinancement des ONG » a été transférée, en janvier 2009, à l'Agence française de développement (AFD) qui appliquera la même règle de conduite à l'instruction et au suivi des projets. En ce qui concerne le « volontariat de solidarité internationale », l'action des 25 ONG agréées au titre de la loi 2005 est en cours d'évaluation. Le renouvellement de leur agrément est conditionné par les résultats de cette évaluation.
