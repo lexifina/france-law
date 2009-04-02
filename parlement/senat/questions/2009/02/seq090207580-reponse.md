@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207580
+
+- Question : [SEQ090207580](seq090207580.md) — Développement économique transfrontalier France-Luxembourg
+
+## Réponse
+
+*Affaires européennes, JO du 2009-04-02, page 813*
+
+La reconversion de l'ancienne friche sidérurgique d'Esch-Alzette-Belval en pôle de compétitivité transfrontalier est un projet prometteur développé en coopération par le Grand-Duché de Luxembourg et la France. Du côté français, la supervision du projet relève de la compétence de l'État et des différents niveaux des collectivités territoriales. Afin de mieux coordonner leur action, le Premier ministre a chargé le préfet de la région Lorraine, M. Bernard Niquet, d'animer le versant français d'Esch-Belval en y associant la région, les départements, et les communautés de communes. Cette décision a été annoncée lors de la visite officielle que le Premier ministre a faite au Luxembourg, le 25 janvier 2008. La création, au premier semestre 2009, d'un groupement européen de coopération territoriale (GECT) dédié au projet Esch-Belval, doit en outre faciliter davantage la coopération des différentes administrations et débloquer le lancement des infrastructures sur le site, en particulier la liaison routière qui sera mise en service fin 2011 ou début 2012. Le projet prévoit la construction d'une « ville nouvelle » avec des équipements culturels et commerciaux, l'implantation de deux des trois facultés de l'université de Luxembourg, d'un lycée, ainsi que d'activités administratives et économiques. A terme, la création de 50 000 logements et de 20 000 emplois est attendue. La construction sur le site d'un centre de stockage des archives de l'Union européenne a été envisagée par le maire de Russange en 2003, mais n'a pu être retenue à l'époque. Elle sera examinée par l'équipe mise en place par le préfet Niquet, parmi d'autres pistes de développement économique du secteur.
