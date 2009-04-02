@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207351
+
+- Question : [SEQ090207351](seq090207351.md) — Soutien nécessaire de l'État à l'égard de la filière bois-papier sur le département de la Dordogne suite à la tempête du mois de janvier 2009
+
+## Réponse
+
+*Agriculture, JO du 2009-04-02, page 815*
+
+Le Gouvernement a pris connaissance avec intérêt de la question relative aux conséquences économiques de la tempête Klaus pour la filière bois en Dordogne et aux mesures à prendre pour soutenir cette filière. En vue de réparer les dégâts de la tempête Klaus sur les peuplements forestiers du Sud-Ouest, le ministère de l'agriculture et de la pêche a mis en oeuvre un « plan chablis 2009 », dont l'enveloppe globale s'élèvera à plus d'un milliard d'euros. En particulier, un dispositif de prêts bonifiés garantis à 80 % par l'État est mis en place pour faciliter la mobilisation et le stockage des bois issus des parcelles sinistrées. En outre, des subventions sont prévues pour le transport des bois au-delà d'une distance de 150 km et pour la création ou la réhabilitation d'aires de stockage de longue durée. Ces dispositions sont accessibles aux entreprises de la filière bois en Dordogne. En ce qui concerne le dépérissement des taillis de châtaigniers et le soutien pouvant être apporté aux propriétaires forestiers, la mesure 122 B du plan de développement rural hexagonal (PDRH) permet l'attribution d'une aide au titre de l'amélioration des peuplements de faible valeur économique. Cette aide, destinée notamment à favoriser la substitution de taillis par des peuplements de meilleure qualité, adaptés aux stations forestières, peut représenter jusqu'à 50 % des coûts des travaux de reboisement. Elle s'applique aux peuplements dont la valeur sur pied (les frais d'exploitation non pris en compte), « à dire d'expert », est inférieure à deux fois le montant hors taxes des travaux de reboisement.
