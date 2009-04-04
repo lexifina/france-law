@@ -8,7 +8,7 @@ SEUILS ET CRITÈRES
 
 |
 
-1 o Aménagements fonciers agricoles et forestiers
+1o Aménagements fonciers agricoles et forestiers
 
 |
 
@@ -16,19 +16,19 @@ Toutes opérations quel que soit leur montant
 
 |
 
-2 o Supprimé
+2o Supprimé
 
 |
 
 |
 
-3 o Supprimé
+3o Supprimé
 
 |
 
 |
 
-4 o Défrichements mentionnés aux articles L. 311-1 (bois des particuliers) et L. 312-1 (bois des collectivités et de certaines personnes morales) du code forestier.
+4o Défrichements mentionnés aux articles L. 311-1 (bois des particuliers) et L. 312-1 (bois des collectivités et de certaines personnes morales) du code forestier.
 
 |
 
@@ -36,7 +36,7 @@ Défrichements d'un seul tenant soumis à autorisation et portant sur une superf
 
 |
 
-5 o Travaux d'hydraulique agricole mentionnés du 2 o au 7 o de l'article
+5o Travaux d'hydraulique agricole mentionnés du 2o au 7o de l'article
 
 L. 151-36 du code rural.
 
@@ -106,7 +106,7 @@ L. 146-6 du code de l'urbanisme.
 
 |
 
-6 o Travaux de défense contre les eaux.
+6o Travaux de défense contre les eaux.
 
 |
 
@@ -114,7 +114,7 @@ Sous réserve des dispositions du 5 o et du 16 o de la présente annexe, tous tr
 
 |
 
-7 o Travaux d'installation des ouvrages utilisant l'énergie hydraulique.
+7o Travaux d'installation des ouvrages utilisant l'énergie hydraulique.
 
 |
 
@@ -122,7 +122,7 @@ Travaux d'installation des ouvrages de production d'énergie hydraulique dont la
 
 |
 
-8 o Voirie routière.
+8o Voirie routière.
 
 |
 
@@ -130,7 +130,7 @@ Travaux d'investissement routier d'un montant supérieur à 1 900 000 euros cond
 
 |
 
-9 o Voies ferrées.
+9o Voies ferrées.
 
 |
 
@@ -150,7 +150,7 @@ Travaux d'investissement routier d'un montant supérieur à 1 900 000 euros cond
 
 |
 
-10 o Remontées mécaniques.
+10o Remontées mécaniques.
 
 |
 
@@ -158,7 +158,7 @@ Construction de remontées mécaniques dont le coût est supérieur à 950 000 e
 
 |
 
-11 o Aérodromes.
+11o Aérodromes.
 
 |
 
@@ -184,7 +184,7 @@ Construction de remontées mécaniques dont le coût est supérieur à 950 000 e
 
 |
 
-12 o Voies navigables.
+12o Voies navigables.
 
 |
 
@@ -192,7 +192,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-13 o Ports fluviaux.
+13o Ports fluviaux.
 
 |
 
@@ -206,7 +206,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-14 o Ports maritimes de commerce ou de pêche.
+14o Ports maritimes de commerce ou de pêche.
 
 |
 
@@ -232,7 +232,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-15 o Ports maritimes de plaisance et autres ports de plaisance situés dans les communes littorales mentionnées à l'article L. 321-2.
+15o Ports maritimes de plaisance et autres ports de plaisance situés dans les communes littorales mentionnées à l'article L. 321-2.
 
 |
 
@@ -246,7 +246,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-16 o Travaux réalisés sur le rivage, le sol ou le sous-sol de la mer en dehors des ports (endigages, exondements, affouillements, constructions, édification d'ouvrages de défense contre la mer, réalisation de plages artificielles).
+16o Travaux réalisés sur le rivage, le sol ou le sous-sol de la mer en dehors des ports (endigages, exondements, affouillements, constructions, édification d'ouvrages de défense contre la mer, réalisation de plages artificielles).
 
 |
 
@@ -270,7 +270,7 @@ Superficie des terrains mis hors d'eau ou emprise des travaux supérieures à :
 
 |
 
-17 o Installations classées pour la protection de l'environnement.
+17o Installations classées pour la protection de l'environnement.
 
 |
 
@@ -278,7 +278,7 @@ Toutes installations soumises à autorisation.
 
 |
 
-18 o Stations d'épuration des eaux usées des collectivités locales.
+18o Stations d'épuration des eaux usées des collectivités locales.
 
 |
 
@@ -286,15 +286,15 @@ Ouvrages destinés à l'épuration des eaux des collectivités locales permettan
 
 |
 
-19 o Réservoirs de stockage d'eau.
+19o Réservoirs de stockage d'eau.
 
 |
 
-Réservoirs sur tour » d'une capacité supérieure ou égale à 1 000 mètres cubes et autres réservoirs d'une superficie égale ou supérieure à 10 ha.
+Réservoirs sur tour d'une capacité supérieure ou égale à 1 000 mètres cubes et autres réservoirs d'une superficie égale ou supérieure à 10 ha.
 
 |
 
-20 o Canalisations d'adduction d'eau potable.
+20o Canalisations d'adduction d'eau potable.
 
 |
 
@@ -302,7 +302,7 @@ Construction de canalisations souterraines dans une nouvelle emprise lorsque le 
 
 |
 
-21 o Constructions soumises à permis de construire.
+21o Constructions soumises à permis de construire.
 
 |
 
@@ -328,7 +328,7 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 |
 
-22 o Lotissements.
+22o Lotissements.
 
 |
 
@@ -336,7 +336,7 @@ Lotissements permettant la construction de plus de 5 000 mètres carrés de surf
 
 |
 
-23 o Aménagement de terrains de camping et de caravanage.
+23o Aménagement de terrains de camping et de caravanage.
 
 |
 
@@ -344,7 +344,7 @@ Aménagement de terrains ayant pour effet de créer plus de 200 nouveaux emplace
 
 |
 
-24 o Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n o 2006-649 du 2 juin 2006.
+24o Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n o 2006-649 du 2 juin 2006.
 
 |
 
@@ -352,23 +352,13 @@ Travaux provoquant un terrassement total d'un volume supérieur à 20 000 mètre
 
 |
 
-25 o Ouvrages de transport et de distribution d'électricité.
+25o Ouvrages de transport et de distribution d'électricité.
 
 |
 
-Ouvrages d'une tension supérieure ou égale à 63 kV.
+Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension égale à 225 kV d'une longueur supérieure à 15 km. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure à 225 kV. |
 
-|
-
-26 o Canalisations de transport de gaz.
-
-|
-
-Canalisations dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5 000 mètres carrés.
-
-|
-
-27 o Canalisations de transport d'hydrocarbures.
+26o Canalisations de transport de gaz.
 
 |
 
@@ -376,7 +366,7 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
 
 |
 
-28 o Canalisations de transport de produits chimiques déclarées d'intérêt général en application de l'article 1 er du décret n o 65-881 du 18 octobre 1965 portant application de la loi n o 65-498 du 29 juin 1965 relative au transport de produits chimiques par canalisation.
+27o Canalisations de transport d'hydrocarbures.
 
 |
 
@@ -384,7 +374,15 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
 
 |
 
-29 o Installations nucléaires de base.
+28o Canalisations de transport de produits chimiques déclarées d'intérêt général en application de l'article 1 er du décret n o 65-881 du 18 octobre 1965 portant application de la loi n o 65-498 du 29 juin 1965 relative au transport de produits chimiques par canalisation.
+
+|
+
+Canalisations dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5 000 mètres carrés.
+
+|
+
+29o Installations nucléaires de base.
 
 |
 
@@ -392,13 +390,13 @@ Installations définies par le décret n o 2007-830 du 11 mai 2007 relatif à la
 
 |
 
-30 o (Supprimé à compter du 1 er octobre 2006)
+30o (Supprimé à compter du 1 er octobre 2006)
 
 |
 
 |
 
-31 o Travaux, ouvrages et aménagements dans les espaces et milieux littoraux faisant l'objet d'une protection particulière :
+31o Travaux, ouvrages et aménagements dans les espaces et milieux littoraux faisant l'objet d'une protection particulière :
 
 |
 
@@ -442,7 +440,7 @@ Tous travaux.
 
 |
 
-32 o Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs.
+32o Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs.
 
 |
 
@@ -450,7 +448,7 @@ Tous travaux.
 
 |
 
-33 o Travaux, installations et aménagements soumis à permis d'aménager prévu à l'article R. 421-19
+33o Travaux, installations et aménagements soumis à permis d'aménager prévu à l'article R. 421-19
 
 |
 
@@ -470,7 +468,7 @@ c) terrains aménagés pour la pratique de sports ou loisirs motorisés dont l'e
 
 |
 
-34 o Travaux d'installation des ouvrages utilisant l'énergie éolienne.
+34o Travaux d'installation des ouvrages utilisant l'énergie éolienne.
 
 |
 
@@ -478,7 +476,7 @@ Travaux d'installation des ouvrages de production d'énergie éolienne dont la h
 
 |
 
-35 o Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
+35o Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
 
 |
 
@@ -486,7 +484,7 @@ Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 he
 
 |
 
-36 o Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
+36o Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
 
 |
 
@@ -494,7 +492,7 @@ Projets portant sur une superficie d'au moins 50 hectares.
 
 |
 
-37 o Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier.
+37o Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier.
 
 |
 
