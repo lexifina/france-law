@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090106977
+
+- Question : [SEQ090106977](seq090106977.md) — Concertation des professionnels sur le montant de la cotisation à l'ordre national des infirmiers
+
+## Réponse
+
+*Santé, JO du 2009-04-09, page 911*
+
+Instauré par la loi n° 2006-1668 du 21 décembre 2006, l'ordre professionnel des infirmiers groupe obligatoirement tous les infirmiers habilités à exercer leur profession en France, à l'exception de ceux régis par le statut général des militaires. Chargé d'une mission de service public, l'ordre assure la défense et la promotion de toute la profession infirmière quel que soit le mode d'exercice des professionnels. Véritable structure au service de la profession infirmière mais également des usagers, l'ordre dispose d'un champ d'action important. Il étudie notamment les projets ou questions qui lui sont soumis par la ministre chargée de la santé concernant l'exercice de la profession. Il participe également au suivi de la démographie infirmière. Il a en outre, en lien avec la Haute Autorité de santé (HAS), un rôle à jouer dans la définition des recommandations ainsi que dans l'évaluation des pratiques professionnelles. Il organise la profession dans le cadre d'une mission de service public que l'État lui a déléguée. Ainsi une cotisation ordinale fixée par le conseil national de l'ordre doit être obligatoirement versée par chaque personne physique ou morale inscrite au tableau de l'ordre afin de lui permettre d'assumer son fonctionnement et de garantir son indépendance. Cette cotisation est ainsi un préalable indispensable à l'accomplissement effectif des missions confiées à l'ordre. Il y a tout lieu de penser que cette cotisation tiendra compte de l'importance démographique de la profession infirmière (498 000) et que par conséquent les conseillers de l'ordre adopteront une mesure juste et raisonnable.
