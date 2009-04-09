@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002214
+
+- Question : [SEQ071002214](seq071002214.md) — Régime fiscal des heures supplémentaires effectuées par les fonctionnaires
+
+## Réponse
+
+*Budget, JO du 2009-04-09, page 882*
+
+Le ministre du budget, des comptes publics et de la fonction publique a pris connaissance avec intérêt de la question relative au régime fiscal des heures supplémentaires effectuées par les fonctionnaires. Le décret n° 2007-1430 du 4 octobre 2007 portant application aux agents publics de l'article 1er de la loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat étend, dans les trois fonctions publiques, l'exonération de l'impôt sur le revenu et la réduction des cotisations salariales de sécurité sociale aux éléments de rémunération des heures supplémentaires payées sur la base d'un dispositif de rémunération spécifique. Les dispositifs indemnitaires entrant dans le champ d'application du décret sont ceux qui correspondent à la définition des heures supplémentaires comme étant des heures effectuées au-delà des obligations professionnelles normales et s'inscrivant dans le cadre de l'activité principale de l'agent. Par ailleurs, comme le précise l'article 2 de ce décret, le bénéfice de cette mesure est subordonné à la mise en oeuvre des moyens de contrôle permettant de comptabiliser de façon exacte les heures supplémentaires ou le temps de travail additionnel effectivement accomplis et à l'établissement par l'employeur d'un document indiquant, pour chaque agent, le nombre d'heures supplémentaires ou complémentaires effectuées et la rémunération y afférent. N'entrent donc pas dans le champ d'application du décret, parce qu'elles ne sont pas considérées comme rémunérant des heures supplémentaires, les indemnités visant soit à compenser des sujétions particulières sur une base forfaitaire ou l'organisation atypique d'un service, soit à rémunérer des activités accessoires.
