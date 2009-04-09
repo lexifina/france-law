@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207427
+
+- Question : [SEQ090207427](seq090207427.md) — Délocalisation de l'école française Colette d'Hô Chi Minh Ville
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-04-09, page 878*
+
+Le site choisi pour la nouvelle implantation de l'école Colette de Hô Chi Minh Ville a fait l'objet de plusieurs études environnementales visant à évaluer une éventuelle pollution, notamment à la dioxine. La dernière étude menée par CEFINEA (institut pour l'environnement et les ressources vietnamien), selon un protocole proposé par Bureau Veritas, fondé sur des critères allemands et canadiens conformes aux règles habituelles, indique que le site est exempt de pollution à la dioxine. La présence d'autres substances relève de phénomènes naturels qui, selon l'étude, ne présente pas de danger pour la santé. L'Agence pour l'enseignement français à l'étranger (AEFE) a demandé à la société Burgeap, bureau d'étude français spécialisé en problèmes d'environnement, d'examiner ce rapport. Les conclusions de Burgeap indiquent que les méthodes employées par le laboratoire vietnamien sont conformes aux standards internationaux. Les briqueteries artisanales présentes sur la zone ont, pour certaines, déjà fermé leur four, la tendance va dans ce sens. La zone d'installation du nouvel établissement est bordée à l'arrière par une zone verte (golf et résidences), et un projet de parc naturel devrait voir le jour de l'autre côté de la route. Le site du nouveau lycée se situe à une vingtaine de kilomètres, soit 35 minutes du centre-ville. La mise en place d'un transport scolaire est à l'étude pour faciliter l'accès des élèves au nouveau site dès 2010. Le centre-ville de Hô Chi Minh Ville, saturé, ne pouvait pas accueillir une nouvelle implantation. Le nouveau projet répond donc aux nouveaux besoins de l'établissement : il intégrera notamment des structures sportives et une piscine.
