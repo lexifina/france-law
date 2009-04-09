@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080203592
+
+- Question : [SEQ080203592](seq080203592.md) — Pollution générée par des locomotives Diesel
+
+## Réponse
+
+*Écologie, JO du 2009-04-09, page 885*
+
+Lors de la mise en place de la ligne à grande vitesse Est, la SNCF a fait le choix de placer en gare de Metz-Ville les locomotives destinées à assurer le secours des TGV en cas d'avarie ou de problème quelconque les immobilisant. Ce choix était alors justifié par la présence de conducteurs à proximité, ce qui s'accordait pleinement avec l'objectif de rapidité de l'intervention. Ces locomotives de secours, nécessairement diesel afin de pouvoir intervenir en cas d'absence d'électrification comme en cas de rupture caténaire, sont souvent anciennes et nécessitent un démarrage quotidien pour garantir leur bon fonctionnement en cas d'intervention urgente. Malgré les désagréments compréhensibles causés par le dégagement d'importantes fumées noires, les locomotives en cause sont conformes aux dispositions réglementaires du code de l'environnement qui transposent la directive n° 97/68/CE du 16 décembre 1997 modifiée. Cette dernière fixe des niveaux limites d'émissions de certains polluants et prévoit un contrôle du respect de ces limites à la réception d'un type de moteur ou famille de moteurs par l'organisme national compétent. En France, il s'agit du centre national de réception des véhicules, entité appartenant à la direction régionale de l'industrie, la recherche et l'environnement d'Île-de-France. À la suite des plaintes des habitants de la rue Vauban à Metz, relayées par les autorités et les élus, la SNCF a décidé de transférer, en avril 2008, ces locomotives de secours sur le site de maintenance de Metz-Sablon. Ce site, bien que situé dans une zone urbanisée, semble mieux approprié compte tenu du plus grand éloignement des habitations voisines. Au vu des informations données par la SNCF, aucune plainte n'a été enregistrée à ce jour.
