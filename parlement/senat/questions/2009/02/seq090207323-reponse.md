@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207323
+
+- Question : [SEQ090207323](seq090207323.md) — Limites des cantons et des établissements publics de coopération intercommunale
+
+## Réponse
+
+*Intérieur, JO du 2009-04-09, page 904*
+
+Le canton est une subdivision du département décidée par décret en Conseil d'État (art. L. 3113-2 du code général des collectivités territoriales) alors que la coopération intercommunale se fonde sur la libre volonté des communes (art. L. 5210-1 du code général des collectivités territoriales). Les délimitations actuelles des cantons remontent soit aux origines de la carte cantonale soit aux différents remodelages entrepris depuis 1973 afin de prendre en compte les évolutions démographiques, notamment dans les secteurs urbains. Au demeurant, la jurisprudence constante du Conseil d'État examine tout remodelage cantonal sous l'angle du respect du principe constitutionnel d'égalité du vote. S'agissant des établissements publics de coopération intercommunale (EPCI), ces derniers visent à élaborer des projets communs de développement au sein de périmètres de solidarité indépendamment du principe constitutionnel d'égalité du suffrage. Il en ressort de réelles différences quant aux délimitations de ces deux structures, qui relèvent de logiques différentes. La proposition de rapprocher les cantons et les EPCI doit également être analysée à la lumière des propositions du Comité pour la réforme des collectivités locales, présidé par M. Édouard Balladur, qui a remis son rapport au Président de la République le 5 mars 2009. Le Comité propose notamment d'achever et de rationaliser la carte intercommunale, mais aussi de réformer le mode d'élection des conseillers généraux en le rapprochant de celui des conseillers régionaux. Le Gouvernement engagera une concertation avec les associations d'élus, le Parlement et les formations politiques sur la base de ces propositions. La piste de réflexion proposée sera examinée dans ce cadre.
