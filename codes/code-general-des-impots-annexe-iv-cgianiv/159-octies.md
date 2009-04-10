@@ -2,24 +2,50 @@
 
 Les montants de la taxe fiscale instituée par l'article 1635 bis M du code général des impôts sont fixés ainsi qu'il suit :
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3,5 tonnes
+DESIGNATION
 
-A compter du 1er février 2007 (en euros) : 32
+|
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3,5 tonnes et inférieur à 6 tonnes
+A compter du 1er février 2008 (en euros)
 
-A compter du 1er février 2007 (en euros) : 124
+|
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et inférieur à 11 tonnes
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est inférieur ou égal à 3, 5 tonnes
 
-A compter du 1er février 2007 (en euros) : 186
+|
 
-DESIGNATION : Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes, tracteurs routiers et véhicules de transport en commun de personnes
+34
 
-A compter du 1er février 2007 (en euros) : 279
+|
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est supérieur à 3, 5 tonnes et inférieur à 6 tonnes
+
+|
+
+127
+
+|
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 6 tonnes et inférieur à 11 tonnes
+
+|
+
+189
+
+|
+
+Véhicules automobiles de transport de marchandises dont le PTAC (1) est égal ou supérieur à 11 tonnes, tracteurs routiers et véhicules de transport en commun de personnes
+
+|
+
+285
+
+|
 
 (1) PTAC : poids total autorisé en charge.
 
+|
+
 NOTA :
 
-Modification effectuée en conséquence de l'article 1er de l'arrêté du 24 janvier 2007.
+Modification effectuée en conséquence de l'article 1er de l'arrêté du 30 janvier 2008.
