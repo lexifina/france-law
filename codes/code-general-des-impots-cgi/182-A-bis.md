@@ -8,10 +8,4 @@ III. ― Le taux de la retenue est fixé à 15 %.
 
 IV. ― La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les conditions prévues au a de l'article 197 A. Pour l'application de cette disposition, le revenu net imposable servant au calcul de l'impôt sur le revenu est déterminé dans les conditions de droit commun.
 
-V. ― Les dispositions du premier alinéa de l'article 197 B sont applicables pour la fraction des rémunérations déterminée conformément au II du présent article qui n'excède pas annuellement la limite supérieure fixée par les III et IV de l'article 182 A.
-
-NOTA :
-
-LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 25 II : le présent article s'applique aux sommes versées à compter du 1er janvier 2009
-
-.
+V. ― Les dispositions du premier alinéa de l'article 197 B sont applicables pour la fraction des rémunérations déterminée conformément au II qui n'excède pas annuellement la limite supérieure fixée par les III et IV de l'article 182 A.

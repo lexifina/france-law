@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,81 euros par mètre carré en zone A,10,98 euros en zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
+a) Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,31 euros par mètre carré en zone A, 11,31 euros en zone B et 8,19 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
@@ -10,146 +10,150 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants :
-
-LIEU DE LOCATION
-
-|
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE
 
 |
 
-ZONE A
-
-(en euros)
+LIEU DE LOCATION
 
 |
 
-ZONE B
+|
 
-(en euros)
+Zone A
+
+(en €)
 
 |
 
-ZONE C
+Zone B
 
-(en euros)
-
-|
-
-Personne seule.
+(en €)
 
 |
 
-42 396
+Zone C
+
+(en €)
 
 |
 
-32 767
+Personne seule
 
 |
 
-28 672
+43 753
 
 |
 
-Couple.
+33 816
 
 |
 
-63 362
+29 590
 
 |
 
-43 755
+Couple
 
 |
 
-38 538
+65 389
 
 |
 
-Personne seule ou couple ayant une personne à charge.
+45 155
 
 |
 
-76 165
+39 771
 
 |
 
-52 618
+Personne seule ou couple ayant une personne à charge
 
 |
 
-46 136
+78 602
 
 |
 
-Personne seule ou couple ayant deux personnes à charge.
+54 302
 
 |
 
-91 234
+47 612
 
 |
 
-63 520
+Personne seule ou couple ayant deux personnes à charge
 
 |
 
-55 835
+94 153
 
 |
 
-Personne seule ou couple ayant trois personnes à charge.
+65 553
 
 |
 
-108 003
+57 622
 
 |
 
-74 722
+Personne seule ou couple ayant trois personnes à charge
 
 |
 
-65 533
+111 459
 
 |
 
-Personne seule ou couple ayant quatre personnes à charge.
+77 113
 
 |
 
-121 533
+67 630
 
 |
 
-84 208
+Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-73 922
+125 421
 
 |
 
-Majoration par personne à charge à partir de la cinquième.
+86 902
 
 |
 
-+ 13 545
+76 287
 
 |
 
-+ 9 392
+Majoration par personne à charge à partir de la cinquième
 
 |
 
-+ 8 395
++ 13 979
 
 |
+
++ 9 693
+
+|
+
++ 8 664 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance. Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999 et de l'article 1er D du décret n° 2006-1005 du 10 août 2006.

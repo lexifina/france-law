@@ -22,11 +22,11 @@ f) La société reprise exerce une activité commerciale, industrielle, artisana
 
 La condition mentionnée au e s'apprécie à la date à laquelle le seuil de 25 % prévu au b est franchi.
 
-II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune. (1)
+II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
 
 III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du code du travail, ni des titres dont la souscription a ouvert droit à la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis.
 
-Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I du présent article ne peuvent ouvrir droit aux déductions prévues au 2° quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83.
+Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues au 2° quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83.
 
 IV.-Les dispositions du 5 du I de l'article 197 sont applicables aux réductions d'impôt prévues au présent article.
 
@@ -43,9 +43,3 @@ VI.-En cas de cession des titres, de remboursement des apports ou de non-respect
 VII. - Un décret fixe les obligations déclaratives incombant aux contribuables et aux sociétés.
 
 VIII. - Ces dispositions s'appliquent aux emprunts contractés jusqu'au 31 décembre 2011.
-
-NOTA :
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 67 II et III : L'article 199 terdecies-0 B s'applique aux emprunts contractés à compter du 28 avril 2008.
-
-(1) : Dispositions applicables aux intérêts payés à compter de 2008.

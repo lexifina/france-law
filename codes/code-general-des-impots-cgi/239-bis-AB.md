@@ -4,7 +4,7 @@ I.-Les sociétés anonymes, les sociétés par actions simplifiées et les soci�
 
 Pour la détermination des pourcentages mentionnés au premier alinéa, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ou de structures équivalentes établies dans un autre Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces sociétés, fonds ou structures équivalentes.
 
-Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de l'article 208 D, du premier alinéa du I de l'article L. 214-41 et du premier alinéa du 1 de l'article L. 214-41-1 du code monétaire et financier et du troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, les sociétés ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les sociétés dans les conditions de droit commun au taux normal. Il en va de même pour l'application du c du 2° du I de l'article 199 terdecies-0 A du présent code.
+Pour l'application du 1° du II de l'article 163 quinquies B, du 1 du I de l'article 208 D, du premier alinéa du I de l'article L. 214-41 et du premier alinéa du 1 de l'article L. 214-41-1 du code monétaire et financier et du troisième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, les sociétés ayant exercé l'option prévue au I sont réputées soumises à l'impôt sur les sociétés dans les conditions de droit commun au taux normal. Il en va de même pour l'application du c du 2° du I de l'article 199 terdecies-0 A.
 
 II.-L'option prévue au I est subordonnée au respect des conditions suivantes :
 
@@ -16,7 +16,7 @@ II.-L'option prévue au I est subordonnée au respect des conditions suivantes :
 
 Les conditions mentionnées aux 1° et 2° ainsi que la condition de détention du capital mentionnée au I s'apprécient de manière continue au cours des exercices couverts par l'option. Lorsque l'une d'entre elles n'est plus respectée au cours de l'un de ces exercices, l'article 206 est applicable à la société, à compter de ce même exercice.
 
-La condition mentionnée au 3° du présent II s'apprécie à la date d'ouverture du premier exercice d'application de l'option.
+La condition mentionnée au 3° s'apprécie à la date d'ouverture du premier exercice d'application de l'option.
 
 III.-L'option ne peut être exercée qu'avec l'accord de tous les associés, à l'exclusion des associés mentionnés au deuxième alinéa du I. Elle doit être notifiée au service des impôts auprès duquel est souscrite la déclaration de résultats dans les trois premiers mois du premier exercice au titre duquel elle s'applique.
 

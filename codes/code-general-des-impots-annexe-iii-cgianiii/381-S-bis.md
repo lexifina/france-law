@@ -1,10 +1,10 @@
 # Article 381 S bis
 
-I.-Pour l'application du II de l'article 117 quater du code général des impôts, le versement des sommes retenues au cours de chaque mois au titre du prélèvement prévu au I du même article est effectué au service des impôts désigné par arrêté du ministre chargé du budget.
+I. – Pour l'application du II de l'article 117 quater du code général des impôts, le versement des sommes retenues au cours de chaque mois au titre du prélèvement prévu au I du même article est effectué au service des impôts désigné par arrêté du ministre chargé du budget.
 
 Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration.
 
-II.-Pour l'application du III de l'article 117 quater du code général des impôts, la déclaration mentionnée au dernier alinéa du 1 du III est souscrite sur un formulaire normalisé. Elle comporte :
+II. – Pour l'application du III de l'article 117 quater du code général des impôts, la déclaration mentionnée au dernier alinéa du 1 de ce même III est souscrite sur un formulaire normalisé. Elle comporte :
 
 a) Le montant des revenus distribués pour lesquels l'option est exercée ;
 

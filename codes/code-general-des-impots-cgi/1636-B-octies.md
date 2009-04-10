@@ -12,4 +12,4 @@ IV bis. – Pour l'application du IV, les recettes afférentes à la taxe profes
 
 Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part, reversée par la commune au syndicat, du montant perçu en 2003, en application du D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année comme la dotation forfaitaire prévue par l'article L. 2334-7 du code général des collectivités territoriales ainsi que du montant de la compensation mentionnée au premier alinéa.
 
-V. – Les dispositions du présent article entreront en vigueur à compter de 1981.
+V. – (Disjoint)
