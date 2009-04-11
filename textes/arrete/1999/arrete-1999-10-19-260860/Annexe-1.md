@@ -2655,3 +2655,95 @@ FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART
 1 000
 
 |
+
+.
+
+À COMPTER DE LA SAISON AÉRONAUTIQUE D'HIVER 2009-2010
+
+TERMINAL
+
+|
+
+FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART
+
+|
+
+1
+
+|
+
+1 950
+
+|
+
+2 A
+
+|
+
+900
+
+|
+
+2 B
+
+|
+
+1 200
+
+|
+
+2 C
+
+|
+
+900
+
+|
+
+2 D
+
+|
+
+1 400
+
+|
+
+2E
+
+|
+
+2 500
+
+|
+
+2F1
+
+|
+
+1 200
+
+|
+
+2F2
+
+|
+
+1 100
+
+|
+
+2 G
+
+|
+
+500
+
+|
+
+3
+
+|
+
+1 000
+
+|
