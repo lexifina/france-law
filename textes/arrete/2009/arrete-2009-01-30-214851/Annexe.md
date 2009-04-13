@@ -6,9 +6,7 @@ QUOTA 2009 (EN TONNES)
 
 en océan Atlantique
 
-à l'est de la longitude
-
-45° ouest
+à l'est de la longitude 45° ouest
 
 |
 
@@ -46,7 +44,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-1
+4
 
 |
 
@@ -58,7 +56,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-1
+2
 
 |
 
@@ -70,7 +68,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-3
+9
 
 |
 
@@ -82,7 +80,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-40
+136
 
 |
 
@@ -94,7 +92,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
+1
 
 |
 
@@ -106,7 +104,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-12
+47
 
 |
 
@@ -118,7 +116,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+3
 
 |
 
@@ -130,7 +128,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-5
+17
 
 |
 
@@ -138,11 +136,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Côtinière
 
 |
 
-1
+5
 
 |
 
@@ -154,7 +152,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-1
+2
 
 |
 
@@ -166,7 +164,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-40
+127
 
 |
 
@@ -178,7 +176,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-1
+5
 
 |
 
@@ -190,7 +188,7 @@ Total
 
 |
 
-106
+358
 
 |
 
