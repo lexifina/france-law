@@ -32,7 +32,7 @@ A compter du 1er août 1992
 
 |
 
-Chefs de bureau Circulation (bureau délivrant les cartes grises)
+Chefs de bureau Circulation (bureau délivrant les certificats d'immatriculation)
 
 |
 
@@ -268,7 +268,7 @@ A compter du 1er août 1992
 
 |
 
-Chefs de bureau Circulation (bureau délivrant les cartes grises)
+Chefs de bureau Circulation (bureau délivrant les certificats d'immatriculation)
 
 |
 

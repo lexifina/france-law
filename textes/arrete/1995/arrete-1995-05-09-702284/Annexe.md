@@ -168,7 +168,7 @@ A
 
 Bureau de la circulation
 
-(bureau délivrant les cartes grises)
+(bureau délivrant les certificats d'immatriculation)
 
 |
 
