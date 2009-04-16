@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905641
+
+- Question : [SEQ080905641](seq080905641.md) — Consulat de Port Gentil
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-04-16, page 946*
+
+Le consulat général de France à Port-Gentil avait été transformé en consulat général à gestion simplifiée par arrêté du 9 juillet 2004. Outre ses activités politique, économique et culturelle, notre poste à Port-Gentil conservait alors la protection consulaire et la gestion des escales de la Marine nationale, le restant de ses activités consulaires ayant été transféré au consulat général de France à Libreville. Pour répondre aux préoccupations de nos compatriotes, la direction des Français à l'étranger et de l'administration consulaire a décidé de rendre à ce poste sa vocation consulaire en le transformant, en septembre 2008, en chancellerie détachée. À l'exception des visas, la quasi-totalité des activités consulaires y est désormais traitée et les agents du poste se consacrent exclusivement à l'administration et à la protection de nos compatriotes. C'est ainsi que l'instruction des demandes de passeports électroniques et de cartes nationales d'identité, des bourses scolaires, des affaires sociales, de nationalité et de notariat y est directement traitée. Les dossiers d'état civil sont collectés à Port-Gentil mais, pour des raisons réglementaires, adressés à Libreville pour transcription dans les registres du consulat général, dont dépend la chancellerie détachée. En outre, celle-ci dispose de son propre bureau de vote. L'agent chargé d'en prendre la direction et nommé en septembre dernier est un fonctionnaire expérimenté, d'excellente qualité. La chancellerie est hiérarchiquement rattachée à la consule générale de Libreville. Enfin, la transformation de consulat général à gestion simplifiée en chancellerie détachée a généré une économie de personnels qui facilite le redéploiement de notre réseau en fonction de l'évolution des urgences et des priorités internationales.
