@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705283
+
+- Question : [SEQ080705283](seq080705283.md) — Classement de la citadelle pentagonale d'Arras au patrimoine mondial de l'Unesco
+
+## Réponse
+
+*Culture, JO du 2009-04-16, page 953*
+
+La citadelle d'Arras ne bénéficie que d'une protection très partielle au titre des monuments historiques. Sont uniquement inscrits : la chapelle, une partie des remparts et le pavillon des casernes Schramm. Le ministère de la culture et de la communication n'est pas associé, à ce stade, au plan de redynamisation de la citadelle dans le cadre de l'accompagnement territorial du redéploiement des armées. Mais il a récemment participé au financement de deux campagnes de restauration : l'une portant sur la façade et les couvertures (0,720 M€), l'autre sur la chapelle de la porte Dauphine (0,305 M€). Les monuments classés d'Arras et de Cambrai ont également bénéficié d'importantes opérations de restauration au cours de ces cinq dernières années. Les subventions de l'État sur les monuments d'Arras ont ainsi permis la restauration du théâtre (0,691 M€), des vitraux et toitures de la cathédrale (3 M€), de l'hôtel de Guisnes (0,254 M€), des façades de la place des Héros (0,61 M€) et de l'hôtel de ville (1 M€). Par ailleurs, pour le projet de restauration et de réutilisation de l'ancien palais Saint-Vaast, l'État apportera 4 M€ pour restaurer le monument au titre du contrat de plan entre l'État et la région. Les subventions de l'État sur les monuments de Cambrai ont permis la restauration de l'ancien couvent des Récollets (0,36 M€), de la façade et des toitures de l'église du collège des Jésuites (0,6 M€), des toitures et clocher de la cathédrale Notre-Dame (1,62 M€) et du château de Selles (0,25 M€). Enfin, suite au plan de relance du Gouvernement, la cathédrale d'Arras bénéficiera, en 2009, d'un crédit de 1,22 M€ et l'église Saint-Géry de Cambrai, d'un crédit de 0,9 M€.
