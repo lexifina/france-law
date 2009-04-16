@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901851
+
+- Question : [SEQ070901851](seq070901851.md) — Désignation de fonctionnaires départementaux à la commission départementale d'aide sociale
+
+## Réponse
+
+*Travail, JO du 2009-04-16, page 967*
+
+Aux termes de l'article L. 134-6 du code de l'action sociale et des familles, la commission départementale d'aide sociale (CDAS) comprend : trois conseillers généraux élus par le conseil général ; trois fonctionnaires de l'État en activité ou à la retraite, désignés par le représentant de l'État dans le département ; un commissaire du Gouvernement désigné par le représentant de l'État dans le département, qui prononce ses conclusions sur les affaires qui lui sont confiées. Il n'a pas voix délibérative ; un rapporteur, qui a voix délibérative, chargé d'instruire les dossiers et de présenter les éléments au cours de l'audience. Il est désigné par le président de la CDAS sur une liste établie conjointement par le président du conseil général et le représentant de l'État dans le département. Il revient au président de la commission de veiller à ce qu'aucun des membres réunis sur un dossier ne puisse être à la fois « juge et partie » afin de garantir les principes de l'impartialité et de l'équité posés à l'article 6§1 de la convention européenne des droits de l'homme. Néanmoins, le respect de ces principes ne s'oppose pas, comme le rappelle la jurisprudence du Conseil d'État (Assemblée, 6 décembre 2002, M. Trognon), à ce qu'un agent départemental participe, en tant que rapporteur, aux travaux de la commission dès lors qu'il n'exerce pas ses missions au sein du service en charge de l'attribution de la prestation et ce, même si cette dernière relève de la compétence du président du conseil général. Ces dispositions ont été rappelées par une note d'information (n° DGAS/SDD/2006/459) en date du 19 octobre 2006 relative à l'administration de la justice rendue par les commissions départementales d'aide sociale.
