@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307752
+
+- Question : [SEQ090307752](seq090307752.md) — Loi régissant les associations syndicales de propriétaires
+
+## Réponse
+
+*Intérieur, JO du 2009-04-16, page 960*
+
+L'article 60 de l'ordonnance n° 2004-632 du 1er juillet 2004 impose la mise conformité de toutes les associations syndicales de propriétaires, que ce soit des associations syndicales libres (ASL), qui sont des personnes morales de droit privé, ou des associations syndicales autorisées (ASA), qui sont des établissements publics, dans un délai de deux ans suivant la publication de son décret d'application, soit au plus tard le 6 mai 2008. Pour les ASA, le législateur a prévu un dispositif garantissant le respect de cette obligation. En effet, l'article 60 précité précise qu'à défaut de mise en conformité dans les délais, et après mise en demeure adressée au président de l'association et restée sans effet à l'expiration d'un délai de trois mois, le préfet procède d'office aux modifications statutaires nécessaires. En revanche, les ASL ne sont soumises ni à la tutelle du préfet, ni à celle des collectivités territoriales. L'intervention du préfet se limite à un suivi des structures existantes dans le cadre de leur déclaration. Ainsi, le préfet n'a pas de pouvoir sur une ASL qui n'aurait pas effectué la mise en conformité de ses statuts à la date limite. Par contre, un membre de l'ASL pourrait attaquer devant le juge judiciaire les décisions prises sur la base de dispositions statutaires devenues non conformes qui n'auraient pas été modifiées et publiées. Il ne pourrait toutefois tirer prétexte de l'absence de modifications des statuts pour demander à sortir de l'association. En effet, l'appartenance à une ASL, qui découle de son périmètre, et le caractère réel des obligations de ses membres se fondent sur des dispositions législatives et non statutaires.
