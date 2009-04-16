@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207378
+
+- Question : [SEQ090207378](seq090207378.md) — Problème d'attribution des congés bonifiés
+
+## Réponse
+
+*Outre-mer, JO du 2009-04-16, page 962*
+
+Les congés bonifiés sont un élément majeur de la politique de continuité territoriale entre les départements d'outre-mer et l'Hexagone, comme l'est également l'ANT, qui permet aux jeunes ultramarins d'accéder à des formations qui ne sont pas disponibles dans leur territoire de résidence. Le Gouvernement est particulièrement attentif à ce droit qui bénéficie à 30 000 fonctionnaires actifs des trois fonctions publiques. Ce droit n'est pas fondé sur l'origine, dont la Haute Autorité de lutte contre les discriminations et pour l'égalité a rappelé, dans des avis du 1er septembre 2008, qu'il s'agissait d'un critère proscrit par la loi. Ce droit est fondé sur le fait que l'agent qui sert dans l'Hexagone a le centre de ses intérêts matériels et moraux dans un département d'outre-mer. Comme l'a relevé la Haute Autorité dans ses avis précités, cette notion n'est pas figée et peut évoluer au cours de la vie de l'agent. Il n'en demeure pas moins que, malgré plusieurs circulaires, la notion de centre des intérêts matériels et moraux demeure soumise à des interprétations variées, qui sont la source de contentieux répétés. Le Gouvernement engagera une concertation avec les organisations syndicales afin d'aboutir à une définition moins soumise à aléas de l'éligibilité aux congés bonifiés. Par ailleurs, les modalités des congés bonifiés se heurtent à des lourdeurs qui suscitent l'insatisfaction des bénéficiaires et pèsent sur les employeurs, tout en accentuant les pics de fréquentation des compagnies aériennes à certaines dates de l'année avec des conséquences sur les tarifs des billets d'avion. Ces points pourront aussi être abordés dans le cadre de la concertation évoquée ci-dessus.
