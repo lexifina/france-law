@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071202734
+
+- Question : [SEQ071202734](seq071202734.md) — Prise en charge des soins de prothèses dentaires à la suite d'un accident grave du travail
+
+## Réponse
+
+*Travail, JO du 2009-04-23, page 1022*
+
+En matière d'accidents du travail et de maladies professionnelles (AT-MP), la réparation est de nature forfaitaire. Elle est, depuis l'origine, considérée comme la contrepartie de la présomption d'imputabilité dont bénéficie tout accident intervenu sur les lieux du travail : sans avoir à rechercher la faute de l'employeur, la victime bénéficie d'une réparation automatique, mais forfaitaire. Les frais de soins des victimes d'accidents du travail sont donc totalement pris en charge, dans la limite des tarifs de responsabilité de la sécurité sociale et sans qu'il soit fait application du ticket modérateur qui existe en assurance maladie. Bien que cette particularité de l'assurance AT-MP soit souvent associée à une gratuité des soins, la loi ne pose pas un tel principe et, dans les faits, les assurés peuvent avoir un reste à charge dans un certain nombre de situations ou devoir acquitter certaines participations forfaitaires aux dépenses. Le Gouvernement, sensible aux préoccupations des partenaires sociaux et aux difficultés des assurés victimes d'un accident du travail ou d'une maladie professionnelle, a proposé dans la loi de financement de la sécurité sociale (LFSS) pour 2009 une mesure consistant à améliorer la prise en charge de certains frais de santé, à la suite de l'accord des partenaires sociaux du 25 avril 2007 relatif à la prévention, à la tarification et à la réparation des risques professionnels. Ainsi, l'article 98 de la LFSS pour 2009 prévoit une réduction du reste à charge des victimes d'AT-MP en majorant la base de remboursement de certaines dépenses de santé (prothèses dentaires et auditives, optique, dispositifs médicaux individuels tels que fauteuils roulants pour handicapés).
