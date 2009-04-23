@@ -1,75 +1,65 @@
-# Article ANNEXE
+# Article Annexe I
 
-LISTE DES CIRCONSCRIPTIONS CLASSÉES EN SECTEURS DIFFICILES POUR OUVRIR DROIT AU BÉNÉFICE DE L'INDEMNITÉ DE FIDÉLISATION.
-
-Bouches-du-Rhône
-
-Marseille.
-
-Vitrolles.
-
-Eure-et-Loir
-
-Dreux.
-
-Nord
-
-Lille.
-
-Roubaix.
-
-Tourcoing.
-
-Oise
-
-Beauvais.
-
-Creil.
-
-Rhône
-
-Lyon.
-
-Givors.
+LISTE DES CIRCONSCRIPTIONS DE SÉCURITÉ PUBLIQUE DE L'ÎLE-DE-FRANCE CLASSÉES EN SECTEUR DIFFICILE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ DE FIDÉLISATION
 
 Paris
 
-Paris.
+|
 
-Seine-Maritime
+Paris
 
-Le Havre.
-
-Rouen.
+|
 
 Seine-et-Marne
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique
+
+|
 
 Yvelines
 
-Toutes circonscriptions de sécurité publique.
+|
 
-Somme
+Toute circonscription de sécurité publique
 
-Amiens.
+|
 
 Essonne
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique
+
+|
 
 Hauts-de-Seine
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique
+
+|
 
 Seine-Saint-Denis
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique
+
+|
 
 Val-de-Marne
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique
+
+|
 
 Val-d'Oise
 
-Toutes circonscriptions de sécurité publique.
+|
+
+Toute circonscription de sécurité publique |
