@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107037
+
+- Question : [SEQ090107037](seq090107037.md) — Menaces de fermeture du centre franco-allemand Marc Bloch de Berlin
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-04-23, page 1001*
+
+La France connaît avec l'Allemagne des relations privilégiées d'une densité inégalée et inscrites dans la durée. Dans le cadre de la réforme, l'intérêt prononcé du ministère des affaires étrangères et européennes pour la coopération universitaire et de recherche comme dimension essentielle de notre diplomatie d'influence a été réaffirmé. Parallèlement, le processus de relance de la construction européenne nous invite plus que jamais à mettre l'accent sur le couple franco-allemand, dans tous les domaines, y compris celui de la recherche en sciences humaines et sociales. Dans ce contexte, le ministre a rappelé devant les ambassadeurs, en août 2008, l'importance du réseau des instituts français de recherche à l'étranger (IFRE) pour notre diplomatie d'influence. Le centre Marc Bloch de Berlin, centre franco-allemand financé à 60 % par la partie allemande (notamment par le BMBF), constitue l'un des fleurons de ce réseau, il n'a jamais été question de le fermer. Cependant, les restrictions budgétaires auxquelles sont soumis tous les postes se répercutent inévitablement sur les différents établissements composant le réseau culturel et de coopération de la France dans le monde entier. Dans ce contexte, le poste a imputé une réduction de 15 % par rapport aux crédits 2008 qui correspond à la réduction de son enveloppe globale. Le centre Marc Bloch recevra ainsi une dotation de 127 500 EUR pour l'année 2009. C'est pourquoi, afin de réduire ses dépenses de fonctionnement et lui permettre de poursuivre ses missions dans les meilleures conditions, un déménagement du centre Marc Bloch est envisagé. Des négociations sont actuellement en cours autour de la mise à disposition de locaux, via l'université Humboldt.
