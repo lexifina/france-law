@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403948
+
+- Question : [SEQ080403948](seq080403948.md) — Efficience de la multiplication des mesures d'aides à l'emploi
+
+## Réponse
+
+*Économie, JO du 2009-04-23, page 1012*
+
+Dans un contexte où coexistaient deux structures dédiées aux demandeurs d'emploi, l'Agence nationale pour l'emploi (ANPE), d'une part, et le réseau Assédic, d'autre part, le Gouvernement a souhaité fusionner les structures et créer le Pôle emploi. L'offre de service renouvelée, qui se met en place depuis le 19 décembre 2008, tend à accroître l'accueil et l'efficacité dans la relation avec le demandeur d'emploi, mais également à simplifier l'accès au service. À cet égard, trois grands parcours personnalisés de retour à l'emploi sont proposés : le parcours appui pour accélérer le retour à l'emploi des demandeurs d'emploi les moins éloignés de l'emploi, le parcours accompagnement pour les demandeurs d'emploi rencontrant des difficultés dans le retour à l'emploi et enfin le parcours créateur d'entreprise. En outre, la structuration autour de sept grands types d'aides a pour finalité de simplifier et d'adapter au plus près des attentes des demandeurs d'emploi et des entreprises. Ainsi, une présentation simplifiée a été adoptée pour la rubrique dédiée aux employeurs, en fonction du profil concerné (entreprise, particulier, créateur d'entreprise, etc.), et des grandes catégories d'aides disponibles (aides à la mobilité, contrats de professionnalisation, etc.). Ces différentes simplifications traduisent l'effort initié pour rendre l'offre de service du service public de l'emploi plus adaptée aux publics qu'elle vise. Dans le même temps, les instruments offerts aux demandeurs d'emploi et aux employeurs doivent demeurer diversifiés pour leur permettre de construire un projet cohérent répondant à leurs attentes et à celles du marché du travail.
