@@ -2,9 +2,7 @@
 
 TABLEAU A
 
-Emplois de président et de procureur de la République
-
-de tribunal de grande instance et de tribunal de première instance
+Emplois de président et de procureur de la République de tribunal de grande instance ou de tribunal de première instance
 
 Agen.
 
@@ -23,6 +21,8 @@ Arras.
 Auxerre.
 
 Avesnes-sur-Helpe.
+
+Basse-Terre.
 
 Bastia.
 
@@ -47,6 +47,8 @@ Bourgoin-Jallieu.
 Brest.
 
 Briey.
+
+Brive.
 
 Cambrai.
 
@@ -80,6 +82,8 @@ Compiègne.
 
 Coutances.
 
+Cusset.
+
 Dax.
 
 Dieppe.
@@ -110,15 +114,21 @@ Limoges.
 
 Lisieux.
 
+Lons-le-Saunier.
+
 Lorient.
 
 Mâcon.
+
+Mamoudzou.
 
 Mont-de-Marsan.
 
 Montauban.
 
 Montbéliard.
+
+Narbonne.
 
 Nevers.
 
@@ -142,7 +152,11 @@ Quimper.
 
 Reims.
 
+Rodez.
+
 Saint-Brieuc.
+
+Saint-Malo.
 
 Saint-Nazaire.
 
@@ -172,13 +186,13 @@ Troyes.
 
 Vannes.
 
+Vesoul.
+
 Vienne.
 
 TABLEAU B
 
-Emplois de premier vice-président et de procureur
-
-de la République adjoint de tribunal de grande instance
+Emplois de premier vice-président et de procureur de la République adjoint de tribunal de grande instance
 
 Aix-en-Provence.
 
@@ -260,7 +274,7 @@ Rennes.
 
 Rouen.
 
-Saint-Denis-de-la Réunion.
+Saint-Denis de La Réunion.
 
 Saint-Etienne.
 
