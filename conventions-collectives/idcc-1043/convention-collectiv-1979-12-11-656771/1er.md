@@ -1,14 +1,26 @@
 # Article 1er
 
-La présente convention, conclue en application du livre Ier, titre III, du code du travail, a pour objet de définir sur l'ensemble du territoire métropolitain les conditions de travail et de rémunération du personnel disposant ou non d'un logement de fonction et chargé d'assurer la garde, la surveillance et l'entretien - ou une partie de ces fonctions seulement - des immeubles ou ensembles immobiliers et de leurs abords et dépendances, qu'ils soient affectés à l'habitation ou à l'usage commercial, placés sous le régime de la copropriété ou donnés en location quel que soit le régime juridique de l'employeur.
+La présente convention, conclue en application de la deuxième partie, livre II du code du travail, a pour objet de définir sur l'ensemble du territoire métropolitain les conditions de travail et de rémunération du personnel disposant ou non d'un logement de fonction et chargé d'assurer la garde, la surveillance et l'entretien - ou une partie de ces fonctions seulement - des immeubles ou ensembles immobiliers et de leurs abords et dépendances, qu'ils soient affectés à l'habitation, à l'usage commercial ou professionnel, placés sous le régime de la copropriété, donnés en location ou inscrits à une association syndicale de propriétaires (ASP), quel que soit le régime juridique de l'employeur.
 
-Toutefois, ne sont pas visés par la présente convention les personnels répondant à la définition donnée ci-dessus mais qui relèvent du statut de la fonction publique territoriale (personnel des offices d'HLM) ou sont inclus dans le champ d'application d'une convention nationale propre à la branche (par exemple, cas des SA d'HLM dont l'ensemble du personnel relève de la convention collective nationale des SA d'HLM du 19 juin 1985).
+Toutefois, ne sont pas visés par la présente convention les personnels relevant d'une autre convention collective nationale.
 
-Lorsqu'un immeuble est placé sous le régime de la copropriété, l'employeur est le syndicat des copropriétaires ; le contrat de travail est signé par le syndic qui agit en tant que mandataire du syndicat des copropriétaires et selon les dispositions de l'article 31 du décret n° 67-223 du 17 mars 1967 (1).
+Lorsqu'un immeuble est placé sous le régime de la copropriété, l'employeur est le syndicat des copropriétaires ; le contrat de travail est signé par le syndic qui agit en tant que mandataire du syndicat des copropriétaires et selon les dispositions de l'article 31 du décret n° 67-223 du 17 mars 1967 (1). Il est toutefois rappelé que le conseil syndical a un rôle consultatif comme indiqué dans l'article 21 de la loi du 10 juillet 1965 (2).
 
-Il en est de même lorsque le mandataire intervient en référence aux articles 1984 à 2010 du code civil pour le compte d'une seule personne physique ou morale propriétaire du bien immobilier constituant le lieu de travail contractuel. Le mandataire est tenu d'appliquer le statut du personnel du mandant et en aucun cas celui dont relève son personnel propre. Il est d'ailleurs rappelé que pour l'application des dispositions légales, réglementaires et conventionnelles relatives aux seuils d'effectifs, le personnel relevant de la présente convention se rattache à l'effectif du mandant (de droit sous la forme d'un établissement distinct), et non à celui du mandataire.
+Il n'existe aucun lien de subordination entre les copropriétaires, ou tout autre résidant en tant que tel, et les salariés régis par cette convention.
 
-Des annexes pourront être conclues à tout moment pour régler les questions particulières aux diverses catégories professionnelles et aux branches connexes de la profession. Elles acquerront même valeur et même champ d'application que la présente convention.
+Il en est de même lorsque le mandataire intervient en référence aux articles 1984 à 2010 du code civil pour le compte d'une seule personne physique ou morale propriétaire du bien immobilier constituant le lieu de travail contractuel.
+
+Des annexes pourront être conclues à tout moment pour régler les questions particulières aux diverses catégories professionnelles et aux branches connexes de la profession. Elles acquerront même valeur et même champ d'application de la présente convention.
+
+(1) Article 31 du
+
+décret n° 67-223 du 17 mars 1967 : « Le syndic engage et congédie le personnel du syndicat et fixe les conditions de son travail suivant les usages locaux et les textes en vigueur.L'assemblée générale a seule qualité pour fixer le nombre et la catégorie des emplois. »
+
+(2) Article 21 de la
+
+loi n° 65-557 du 10 juillet 1965 : « Dans tout syndicat de copropriétaires, un conseil syndical assiste le syndic et contrôle sa gestion. (...) En outre, il donne son avis au syndic ou à l'assemblée générale sur toutes questions concernant le syndicat, pour lesquelles il est consulté ou dont il se saisit lui-même. (...) Il reçoit, en outre sur sa demande, communication de tout document intéressant le syndicat. »
+
+NOTA :
 
 NOTA :
 
