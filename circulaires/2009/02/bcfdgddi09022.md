@@ -1,0 +1,193 @@
+# Produits ??nerg??tiques. Taxe g??n??rale sur les activit??s polluantes. Taxe int??rieure de consommation sur la gaz naturel. Taxe int??rieure de consommation sur le charbon. Mesures applicables ?  compter du 1er janvier 2009.
+
+- État : en vigueur (publiée)
+- NOR : BCFDGDDI09022
+- Date de signature : 2009-02-24
+- Mise en ligne : 2009-04-29
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Annexes : 0
+- Identifiant : 4044 (PDF officiel : pdf/2009/04/cir_4044.pdf)
+
+## Texte
+
+Bulletin officiel des douanes
+PRODUITS ENERGETIQUES
+TAXE GENERALE SUR LES ACTIVITES POLLUANTES
+TAXE INTERIEURE DE CONSOMMATION SUR LE GAZ 
+NATUREL
+TAXE INTERIEURE DE CONSOMMATION SUR LE CHARBON
+
+Fiscalité de l’énergie : 
+Mesures applicables à compter du 1er janvier 2009
+Articles du code des douanes relatifs aux produits pétroliers et à la 
+taxe générale sur les activités polluantes
+ (mis à jour au 1er janvier 2009)
+BOD n° 
+du 
+texte n° 
+nature du texte : circulaire
+du : 
+classement : J.30 – L 414
+RP : Produits pétroliers
+bureau : F2
+nombre de pages : 
+diffusion : publique
+NOR : 
+mots-clés : produits 
+pétroliers, TGAP, fiscalité, 
+TICGN, biocarburants
+Date d'entrée en vigueur du texte : 1er janvier 2009
+Références : 
+-
+loi n° de finances n° 2008-1425 du 27 décembre 2008;
+-
+loi n° de finances rectificative n° 2008-1443 du 30 décembre 2008.
+La présente décision administrative : 
+-
+recense les nouvelles dispositions introduites par la loi de finances pour 2009 et la loi de finances 
+rectificative pour 2008 en matière de fiscalité environnementale et de l’énergie ;
+-
+établit la liste des articles du code des douanes relatifs à la fiscalité de l’énergie mis à jour au regard 
+des modifications introduites par ces textes (annexe 1).
+L’administratrice civile, 
+Chef du bureau F2, 
+ Isabelle PEROZ
+
+I/ Fiscalité de l’énergie
+
+ : 
+A) Défiscalisation des biocarburants (article 265 bis A du code des douanes):
+L’article 16 de la loi de finances pour 2009 instaure une diminution progressive de la défiscalisation 
+applicable aux biocarburants entre 2009 et 2011. En effet, la viabilité de la filière biocarburants étant 
+désormais assurée par le mécanisme de la TGAP qui incite à l’incorporation de biocarburants dans les 
+filières supercarburants et gazole, les niveaux antérieurs de défiscalisation ne sont plus justifiés.
+- En 2009, le tarif de défiscalisation est de 21 €/hl pour la filière bioéthanol, et de 15 €/hl pour la filière 
+biogazole.
+- En 2010, la défiscalisation sera de 18 €/hl pour la filière bioéthanol, et de 11 €/hl pour la filière 
+biogazole.
+- En 2011, la défiscalisation sera abaissée à 8 €/hl pour le biogazole contre 14 €/hl pour la filière 
+bioéthanol. 
+B) Abaissement de la fiscalité applicable au superéthanol (E 85) : 
+Afin de compenser la réduction de la défiscalisation des biocarburants, le tarif applicable à l’E 85 est 
+ramené de 28,33 €/hl à 23,24 €/hl à compter du 1er janvier 2009.
+Ce tarif sera abaissé à 20,69 €/hl à compter du 1er janvier 2010, puis 17,29 €/hl à compter du 
+1er janvier 2011.
+C) Commercialisation du supercarburant E10 (article 265 du code des douanes) : 
+L’article 17 de la loi de finances pour 2009 met en place la commercialisation d’un nouveau carburant 
+additivé en éthanol à hauteur de 10%, le supercarburant E10. Cette commercialisation devrait intervenir à 
+compter du mois d’avril 2009. Le supercarburant E10 aura une TIC de 60,69 €/hl, identique à celle du 
+supercarburant 95 ou 98. 
+D) Abaissement du tarif de la taxe intérieure de consommation (TIC) applicable aux émulsions 
+d’eau dans du gazole. 
+Ce taux est abaissé de 30,20 à 26,27 €/hl à compter du 1er janvier 2009.
+E) Modification de l’article 266 quinquies B du code des douanes relatif à la taxe intérieure de 
+consommation (TIC) sur les houilles, lignites et cokes :
+1- L’article 77 de la loi de finances rectificative pour 2008 introduit un troisième fait générateur de la taxe 
+à compter du 1er janvier 2009 (point 2 de l’article 266 quinquies B ): 
+Désormais, lorsqu’il n’y a pas d’opération de livraison ni d’importation de houilles, lignites ou cokes, le 
+fait générateur de la taxe et son exigibilité interviennent lors de la « consommation sur le territoire 
+douanier de la France par un utilisateur final » de ces produits. Dans ce cas, le redevable est 
+l’utilisateur final. 
+2- L’exonération de la taxe concernant les entreprises de valorisation de la biomasse est précisée (point 
+5.4 de l’article quinquies B) : elle est accordée aux « entreprises grandes consommatrices d’énergie », 
+c’est à dire celles dont les achats de combustibles et d’électricité utilisés pour cette valorisation 
+représentent au moins 3% de leur chiffre d’affaires.
+2
+
+F) Adaptation terminologique des modalités d’acquittement de la taxe intérieure de consommation 
+sur le gaz naturel (TICGN) : 
+Suite à la modernisation comptable des services de la DGDDI, la loi de finances rectificative pour 2008 
+modifie l’article 266 quinquies point 10 du code des douanes et remplace le terme « bureau de douane » 
+devenu obsolète par le terme « service des douanes ». 
+G) Actualisation des articles 265 C et 266 quinquies B du code des douanes :
+Il s’agit d’intégrer les nouvelles références communautaires de l’exonération de taxe intérieure de 
+consommation pour les produits utilisés dans un procédé de fabrication de produits minéraux non 
+métalliques.
+II/ Fiscalité environnementale : la Taxe Générale sur les Activités 
+Polluantes (TGAP)
+A) L’article 29 de la loi de finances pour 2009 a apporté un certain nombre de modifications 
+substantielles concernant la taxe générale sur les activités polluantes (articles 266 sexies et suivants 
+du code des douanes):
+Suite au Grenelle de l’environnement, la réglementation relative à la TGAP a fait l’objet de nombreuses 
+modifications en lois de finances. De nouvelles composantes de TGAP sont créées. Des taux réduits ont 
+été adoptés pour les redevables ayant un comportement vertueux au plan environnemental. Le produit de 
+la TGAP est affecté en partie aux actions de l’ADEME pour la protection de l’environnement.
+1- Simplifications rédactionnelles en matière de fait générateur et redevable pour toutes les assiettes 
+de TGAP. 
+a) Notion de redevable (article 266 sexies du code des douanes): 
+- Le redevable de la taxe est celui qui, pour les besoins de son activité économique, livre pour la 
+première fois sur le marché intérieur ou utilise pour la première fois des lubrifiants du point I.4 a, des 
+lessives et préparations pour lessives du point 5 et des matériaux d’extraction du point 6.
+- Le redevable de la taxe pour les lubrifiants des points 1.4 b et c est celui qui, pour les besoins de son 
+activité économique, utilise les produits précités.
+b) Notion de fait générateur (article 266 septies du code des douanes ): 
+Le fait générateur de la taxe est constitué par la première utilisation ou la première livraison des 
+lubrifiants du point I.4 a, des lessives et préparations pour lessives du point 5 et des matériaux 
+d’extraction du point 6.
+2- Création de deux nouvelles sous-composantes de TGAP : 
+a) TGAP déchets : 
+Une taxe sur l’élimination par incinération des déchets ménagers et assimilés (DMA) est créée à 
+compter du 1er janvier 2009. Le fait générateur de la taxe est constitué par la réception des déchets dans 
+l’installation d’incinération. Les redevables doivent déclarer dès 2009 des acomptes provisionnels pour 
+l'année en cours. Les modalités d'application de cette nouvelle composante seront précisées dans une 
+prochaine instruction.
+b) TGAP émissions polluantes :
+A compter du 1er janvier 2009, l’émission de poussières totales en suspension est soumise à la TGAP. 
+Le seuil d’assujettissement des entreprises est fixé à 50 tonnes par an. En deça de ce seuil, il n’y a pas de 
+taxation. En revanche, toute entreprise atteignant ce seuil est soumise à la taxe dès la première tonne 
+émise de poussières totales en suspension. 
+3
+
+3- Nouveaux taux
+
+ de TGAP pour 2009
+
+ : 
+Ces nouveaux taux de TGAP s’appliquent pour la déclaration annuelle et les 3 acomptes payés au titre de 
+2009 : 
+a) Déchets ménagers et assimilés : 
+- Stockage des DMA : échelonnement sur 7 ans de l’augmentation des tarifs (50 € la tonne en 2009 contre 
+150 en 2015) ;
+- Incinération des DMA : hausse des taux sur 5 ans.
+En outre, les installations de stockage et d’élimination des DMA peuvent bénéficier de taux réduits de 
+TGAP lorsqu’elles ont un comportement vertueux au plan environnemental, comme par exemple de 
+faibles émissions de NOX, ou lorsque les déchets sont acheminés par des modes de transports alternatifs à 
+la route (rail, bateau). Les modalités d'application de ces taux réduits seront précisées dans une prochaine 
+instruction.
+b) Matériaux d’extraction : doublement du taux : 0,20 €/tonne. 
+c) Poussières totales en suspension : 64,86 €/tonne en 2009, et 85 € à compter de 2010 ;
+d) Autres modifications de taux : 
+Les tarifs applicables aux déchets industriels spéciaux, aux émissions polluantes (à l’exception des 
+poussières totales en suspension), aux lubrifiants, huiles et préparations lubrifiantes, aux préparations 
+pour lessives, aux installations classées et aux imprimés sont relevés dans la même proportion que la 
+limite supérieure de la première tranche du barème de l’impôt sur le revenu à compter du 1er janvier 2009.
+4- Nouvelles modalités déclaratives
+
+ : 
+A compter de 2009, les acomptes de TGAP versés à titre provisionnel pour l'année en cours seront 
+calculés en appliquant à la base des opérations réalisées l'année précédente, les tarifs applicables au 1er 
+janvier de l'année en cours.
+5- Obligation d’un représentant fiscal pour les sociétés non établies en France et redevables de la 
+TGAP
+
+ : 
+Cette formalité applicable aux sociétés non établies en France entre en vigueur à compter du 1er janvier 
+2009. Elle s'applique également aux redevables de la TGAP sur les imprimés.
+B) Autres TGAP : 
+1- TGAP sur les imprimés
+
+ : 
+L’article 14 de la loi de finances rectificative pour 2008 met en conformité l’article 266 sexies du code 
+des douanes avec les dispositions du code de l’environnement (article L 541-10-1) élargissant le 
+périmètre d’application de l’éco-contribution sur les imprimés papiers, et à défaut de la TGAP, à compter 
+du 1er juillet 2008.
+Toutefois, les catalogues de vente par correspondance envoyés nominativement sont exclus de 
+l’obligation contributive jusqu’au 31 décembre 2009. La TGAP ne s’appliquera donc à cette catégorie 
+d'imprimés qu’à compter du 1er janvier 2010. (article 126 de la loi de finances pour 2009). 
+2- L’article 127 de la loi de finances pour 2009 instaure une TGAP sur les peintures, vernis, 
+solvants, détergents, huiles minérales, pesticides, herbicides, fongicides et autres produits chimiques 
+présentant un risque pour la santé : toute personne introduisant, important sur le marché national ou 
+fabricant de tels produits doit prendre en charge techniquement et financièrement leur collecte et leur 
+élimination. A défaut, et à compter du 1er janvier 2010, elle sera soumise à la TGAP.
+4
