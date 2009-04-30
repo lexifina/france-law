@@ -1,0 +1,15 @@
+# PAIEMENT DES SALAIRES DU PERSONNEL OUVRIER DU MINISTERE DES ARMEES
+ (DEPARTEMENT TERRE).
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR6200021J
+- Numéro : INS62021
+- Date de signature : 1962-02-07
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 62-021 B1 du 07-02-62
+- Annexes : 0
+- Identifiant : 24040 (PDF officiel : pdf/2009/04/cir_24040.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
