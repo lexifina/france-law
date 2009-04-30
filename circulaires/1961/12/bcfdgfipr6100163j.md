@@ -1,0 +1,15 @@
+# NOMENCLATURE DES COMPTES OUVERTS DANS LA COMPTABILITE D'EXECUTION POUR LA
+ GESTION 1962.
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR6100163J
+- Numéro : INS61163
+- Date de signature : 1961-12-09
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 61-163 R81 du 09-12-61
+- Annexes : 0
+- Identifiant : 24491 (PDF officiel : pdf/2009/04/cir_24491.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
