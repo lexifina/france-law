@@ -1,0 +1,18 @@
+# MODALITES PARTICULIERES DE DEDUCTION DE LA TAXE SUR LA VALEUR AJOUTEE
+ POUR LES BIENS D'EQUIPEMENT APPARTENANT AUX COLLECTIVITES ET ETABLISSEMENTS
+ PUBLICS LOCAUX, UTILISES PAR DES CONCESSIONNAIRES OU DES FERMIERS. (DECRET NO
+ 68-876 DU 7 OCTOBRE 1968, ART. 216 BIS ET SUIVANTS, DE L'ANNEXE II AU CODE
+ GENERAL DES IMPOTS).
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR7700020J
+- Numéro : INS77020
+- Date de signature : 1977-02-14
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 77-020 M0 du 14-02-77
+- Annexes : 0
+- Identifiant : 25266 (PDF officiel : pdf/2009/04/cir_25266.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
