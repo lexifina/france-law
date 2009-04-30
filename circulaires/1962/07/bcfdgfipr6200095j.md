@@ -1,0 +1,14 @@
+# MINISTERE DES ARMEES - LOGEMENTS DESTINES AUX AGENTS
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR6200095J
+- Numéro : INS62095
+- Date de signature : 1962-07-27
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 62-095 A4 du 27/7/1962
+- Annexes : 0
+- Identifiant : 22564 (PDF officiel : pdf/2009/04/cir_22564.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
