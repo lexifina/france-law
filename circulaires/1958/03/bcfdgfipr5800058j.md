@@ -1,0 +1,18 @@
+# AIDE A L'EXPORTATION. - REMBOURSEMENT DES CHARGES FISCALES ET SOCIALES AU
+ BENEFICE DE CERTAINES ACTIVITES INDUSTRIELLES ET AGRICOLES DES TERRITOIRES
+ D'OUTRE-MER. PROLONGATION JUSQU'AU 15 FEVRIER 1958 DE LA PERIODE TRANSITOIRE AU
+ TITRE DE LAQUELLE EST PREVU LE MAINTIEN PARTIEL DE L'AIDE A
+ L'EXPORTATION.
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR5800058J
+- Numéro : INS58058
+- Date de signature : 1958-03-03
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 58-058 O du 3-3-1958
+- Annexes : 0
+- Identifiant : 23830 (PDF officiel : pdf/2009/04/cir_23830.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
