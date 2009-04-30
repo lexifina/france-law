@@ -1,0 +1,78 @@
+# PAC – secteur des fruits et légumes frais - volumes de déclenchement des droits additionnels à limportation pour certains fruits et légumes - carton modificatif
+
+- État : en vigueur (publiée)
+- NOR : BCFDGDDI00181
+- Date de signature : 2000-10-19
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Annexes : 0
+- Identifiant : 7851 (PDF officiel : pdf/2009/04/cir_7851.pdf)
+
+## Texte
+
+Bulletin officiel des douanes
+POLITIQUE AGRICOLE COMMUNE
+Secteur des fruits et légumes frais
+
+Modalités d’application du régime relatif à l’application 
+des droits additionnels à l’importation dans le secteur des 
+fruits et légumes frais
+
+Volumes de déclenchement des droits additionnels à 
+l’importation pour certains fruits et légumes
+Carton modificatif
+BOD n° 6463
+du 31 octobre 2000
+texte n° 00-181
+nature du texte : DA
+du19 octobre 2000
+classement : F.323
+RP :
+bureau : E/2
+nombre de pages : 3
+diffusion : 
+NOR : BUD D 00.00.181 S
+mots-clés : Fruits et 
+légumes – droits 
+additionnels – volumes de 
+déclenchement 
+Date d'entrée en vigueur du texte : 08 octobre 2000
+Date de caducité du texte :
+Références :
+- Règlement (CE) n° 1555/1996 de la Commission du 30 juillet 1996 (JOCE n° L193 du 03 
+août 1996),
+- Règlement (CE) n° 2623/1998 de la Commission du 4 décembre 1998 (JOCE n° L329 du 
+5 décembre 1998),
+- Règlement (CE) n° 2370/1999 de la Commission du 8 novembre 1999 (JOCE n° L286 du 
+9/11/1999),
+- Règlement (CE) n° 2532/1999 de la Commission du 30 novembre 1999 (JOCE n° L306 du 
+1er décembre 1999),
+- Règlement (CE) n° 1044/2000 de la Commission du 18 mai 2000 (JOCE n° L118 du 19 
+
+mai 2000),
+- Règlement (CE) n° 1149/2000 de la Commission du 29 mai 2000 (JOCE n° L129 du 30 
+mai 2000),
+- Règlement (CE) n° 1512/2000 de la Commission du 12 juillet 2000 (JOCE n° L174 du 13 
+juillet 2000),
+- Règlement (CE) n° 2108/2000 de la Commission du 04 octobre 2000(JOCE n° L250 du 5 
+octobre 2000).
+- BOD n° 6122 du 12 septembre 1996 (DA n° 96-208 du 3/09/1996) – Clt E.0331,
+- BOD n° 6372 du 18 août 1999 (DA n° 99-145 du 5/08/1999) – Clt.F.323,
+- BOD n° 6440 du 29 juin 2000 (DA n° 00-122 du 20/06/2000) - Clt F.323,
+- BOD n° 6451 du 16 août 2000 (DA n° 00-146 du 7 août 2000) – Clt F.323.
+Texte abrogé : 
+Textes modifiés : 
+- Annexe du règlement (CE) n° 1555/1996 de la Commission du 30 juillet 1996 (JOCE n° 
+L193 du 03 août 1996),
+- Annexe 1 DA n° 96-208 du 03/09/1996 - BOD n° 6122 du 12/09/1996. 
+
+Le règlement (CE) n° 2108/2000 de la Commission du 04 octobre 2000 modifie dans son annexe 
+les volumes de déclenchement des droits additionnels pour les poires. 
+Par conséquent, l’annexe du règlement (CE) n° 1555/1996 portant modalités d’application du 
+régime relatif à l’application des droits additionnels à l’importation dans le secteur des fruits et 
+légumes est remplacée par l’annexe du règlement (CE) n° 2108/2000 jointe au présent BOD.
+L’annexe de la DA n° 96-208 du 3/09/1996 (BOD n° 6122 du 12 septembre 1996), modifiée en 
+dernier lieu par la DA n° 00-146 du 7 août 2000 (BOD n° 6451 du 16 août 2000), est remplacée par 
+la présente annexe.
+annexe
