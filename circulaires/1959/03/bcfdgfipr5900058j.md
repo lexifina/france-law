@@ -1,0 +1,17 @@
+# TAXES DEPARTEMENTALES ET COMMUNALES SUR LES DISTRIBUTEURS AUTOMATIQUES DE
+ CARBURANTS LIQUIDES. DEPENSES DE FONCTIONNEMENT DES TRIBUNAUX A LA CHARGE DES
+ DEPARTEMENTS ET COMMUNES. RECOUVREMENT DE CONDAMNATIONS A REPARATIONS CIVILES AU
+ PROFIT DES DEPARTEMENTS; COMMUNES ET ETABLISSEMENTS PUBLICS ET LOCAUX.
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR5900058J
+- Numéro : INS59058
+- Date de signature : 1959-03-25
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 59-058 M0 du 25-03-59
+- Annexes : 0
+- Identifiant : 23369 (PDF officiel : pdf/2009/04/cir_23369.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
