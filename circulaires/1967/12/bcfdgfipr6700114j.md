@@ -1,0 +1,15 @@
+# CAISSE NATIONALE DE PREVOYANCE DE LA FONCTION PUBLIQUE "PREFON" -
+ RETRAITE COMPLEMENTAIRE
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR6700114J
+- Numéro : INS67114
+- Date de signature : 1967-12-12
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 67-114 B M du 12-12-67
+- Annexes : 0
+- Identifiant : 22339 (PDF officiel : pdf/2009/04/cir_22339.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
