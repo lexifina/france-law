@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801587
+
+- Question : [SEQ070801587](seq070801587.md) — Prise en compte des sites internet des candidats dans les comptes de campagne en période électorale
+
+## Réponse
+
+*Intérieur, JO du 2009-04-30, page 1067*
+
+Les candidats peuvent créer et utiliser des sites internet dans les campagnes qu'ils mènent à l'occasion de consultations électorales, quelle que soit la dénomination que revêtent ces sites. En l'occurrence, les règles applicables aux sites internet valent également pour les sites interactifs qualifiés de « blogs ». Lorsqu'un site est utilisé à des fins de propagande électorale, l'ensemble des dépenses liées à cet outil doit donc figurer dans le compte de campagne du candidat. Par ailleurs, l'article L. 52-8 du code électoral prévoit que les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués. Il appartient au juge de l'élection d'apprécier si le lien établi entre le site d'une collectivité locale et celui d'un candidat relève d'un tel avantage prohibé et peut être requalifié dans le cas d'espèce de financement par personne morale. En outre, la réalisation et l'utilisation d'un site internet ne revêtent pas le caractère d'une publicité commerciale au sens de l'article L. 52-1 du code électoral (CE 8 juillet 2002, élections municipales de Rodez). En revanche, l'interdiction prévue à cet article du code électoral peut être entendue comme s'appliquant à tous les procédés de publicité couramment employés sur Internet (achat de liens sponsorisés ou de mots clefs, ou référencement payant). Les listes ne peuvent par conséquent pas y recourir pendant la période de la campagne électorale.
