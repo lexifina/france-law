@@ -1,0 +1,19 @@
+# APPLICATION DE L'ART 73 DE LA LOI NO 75-1278 DU 30.12.1975 AUX
+ FONCTIONNAIRES DE NATIONALITE FRANCAISE ET A LEURS AYANTS CAUSE RELEVANT DES
+ REGIMES DE LA CAISSE GENERALE DE RETRAITE D'ALGERIE (C.G.R.A.), DE LA CAISSE
+ MAROCAINE DES RETRAITES (C.M.R.), DE LA SOCIETE DE PREVOYANCE DES FONCTIONNAIRES
+ ET EMPLOYES TUNISIENS (SPFET), DE L'EX-CAISSE DE RETRAITE DE LA FRANCE
+ D'OUTRE-MER (CRFOM).
+
+- État : en vigueur (publiée)
+- NOR : BCFDGFIPR7600107J
+- Numéro : INS76107
+- Date de signature : 1976-07-27
+- Mise en ligne : 2009-04-30
+- Ministères : 2
+- Domaines : Budget, fiscalité
+- Publication JO / BO : INSTRUCTION n° 76-107 B3 du 27-07-76
+- Annexes : 0
+- Identifiant : 23529 (PDF officiel : pdf/2009/04/cir_23529.pdf)
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
