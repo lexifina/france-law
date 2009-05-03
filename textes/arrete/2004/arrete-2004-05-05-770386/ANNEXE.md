@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel d'agent(e) d'intervention en électronique grand public.
+Titre professionnel : agent d'intervention en électrodomestique et multimédia (ancien intitulé : agent (e) d'intervention en électronique grand public).
 
 Niveau : V.
 
@@ -12,71 +12,83 @@ Code NSF : 255 r.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) d'intervention en électronique grand public (AIEGP) procède au raccordement des appareils à la lecture de notices, nécessaires à la préparation, l'installation et la mise en service de ces appareils, le tout en situation directe avec le client. Il (elle) assure les réglages, les configurations et les différents paramétrages.
+Le développement des techniques numériques, du home-cinéma et du son Dolby Pro Logic rendent de plus en plus nécessaire le recours à un professionnel pour préparer, installer et mettre en service ces appareils sophistiqués.
 
-En exploitant les notices d'utilisation, il (elle) met en service les appareils précédemment cités. En contact avec le client, il (elle) doit être capable de comprendre la problématique de ce dernier et lui fournir l'assistance nécessaire dans l'utilisation de ses appareils.
+L'agent d'intervention en électrodomestique et multimédia possède des compétences en connectique (raccordement des appareils), en lecture de notices, nécessaires à la préparation, l'installation et la mise en service de ces appareils, le tout en situation directe avec le client. Il assure les réglages, les configurations et les différents paramétrages.
 
-A partir des documents constructeurs et en exploitant l'instrumentation appropriée, il (elle) réalise également la maintenance corrective et/ou préventive des pannes les plus courantes (1er et 2e niveau de la norme AFNOR) des téléviseurs, des magnétoscopes et des chaînes hi-fi.
+En exploitant les notices d'utilisation, il met en service les appareils précédemment cités. En contact avec le client, il doit être capable de comprendre la problématique de ce dernier et de lui fournir l'assistance nécessaire dans l'utilisation de ses appareils.
 
-Ce métier s'exerce soit chez le client pour la mise en service et le dépannage, soit en atelier pour la réparation et la maintenance.
+A partir des documents constructeurs et en exploitant l'instrumentation appropriée, il réalise également la maintenance corrective et / ou préventive sur les pannes les plus courantes des appareils électrodomestiques et multimédia grand public (ex : téléviseurs, enregistreurs DVD de salon, chaînes HI-FI, appareils en petit électroménager PEM...).
 
-Capacités attestées et descriptif des composantes de la certification
+Ce métier s'exerce soit chez le client pour la mise en service et le dépannage, soit en atelier pour la préparation et la maintenance.
 
-1. Préparer et mettre en service les appareils de l'électronique grand public
+Capacités attestées et descriptif
 
-Organiser l'installation d'un ensemble d'appareils audio-vidéo grand public.
+des composantes de la certification
 
-Mettre en oeuvre les raccordements d'un ensemble audio-vidéo grand public.
+1. Préparer et mettre en service les appareils
 
-Assurer le bon fonctionnement de l'installation des appareils audio-vidéo grand public en respectant les spécifications techniques prédéfinies.
+électrodomestiques et multimédia grand public
 
-Mettre en service les appareils d'un ensemble audio-vidéo grand public.
+Organiser l'installation d'un ensemble d'appareils électrodomestiques et multimédia grand public.
 
-Rendre compte des interventions de mise en service des appareils audio-vidéo grand public dans un cadre administratif, organisationnel et comptable.
+Mettre en œuvre les raccordements des appareils électrodomestiques et multimédia grand public.
 
-2. Diagnostiquer et assurer la maintenance des appareils de l'électronique grand public
+Assurer le bon fonctionnement de l'installation des appareils électrodomestiques et multimédia grand public en respectant les spécifications techniques prédéfinies.
 
-Identifier les symptômes et poser un diagnostic sur les appareils audio-vidéo grand public.
+Mettre en service les appareils électrodomestiques et multimédia grand public.
 
-Dépanner les appareils audio-vidéo grand public.
+Expliquer et démontrer aux clients le bon fonctionnement des appareils électrodomestiques et multimédia en vue d'une utilisation optimale.
 
-Contrôler le bon fonctionnement de l'appareil audio-vidéo grand public après le dépannage.
+2. Diagnostiquer et assurer la maintenance des appareils
 
-Rendre compte des dépannages des appareils audio-vidéo grand public dans un cadre administratif, organisationnel et comptable.
+électrodomestiques et multimédia grand public
 
-3. Remettre en état (électronique et mécanique) les appareils audio-vidéo grand public représentatifs du service après-vente
+Identifier les symptômes et poser un diagnostic sur les appareils électrodomestiques et multimédia grand public.
 
-Procéder aux démontages et remontages d'un sous-ensemble (électronique et/ou mécanique) des appareils audio-vidéo grand public.
+Localiser et remédier aux dysfonctionnements des appareils électrodomestiques et multimédia grand public.
 
-Souder, dessouder, interconnecter les composants ou sous-ensembles électroniques des appareils audio-vidéo grand public.
+Contrôler le bon fonctionnement des appareils électrodomestiques et multimédia grand public après la remise en état.
 
-Effectuer les mesures de contrôle de bon fonctionnement des appareils audio-vidéo grand public après la remise en état.
+Exposer, expliquer au client les différentes opérations qui ont été réalisées pour la remise en état et lui rappeler les consignes de bonne utilisation voire d'entretien de son appareil.
 
-Rendre compte des remises en état des appareils audio-vidéo grand public dans un cadre administratif, organisationnel et comptable.
+3. Remettre en état (électronique et mécanique) les appareils électrodomestiques et multimédia grand public représentatifs du service après-vente
 
-Secteurs d'activités ou types d'emploi
+Procéder aux démontages et remontages d'un sous-ensemble (électronique et / ou mécanique) des appareils électrodomestiques et multimédia grand public.
+
+Braser, débraser, interconnecter les composants ou sous-ensembles électroniques des appareils électrodomestiques et multimédia grand public.
+
+Procéder aux changements des composants et sous-ensembles électroniques et / ou mécaniques.
+
+Effectuer les mesures de contrôle de bon fonctionnement des appareils électrodomestiques et multimédia grand public après la remise en état.
+
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Service après-vente de produits bruns de la grande distribution alimentaire.
+Service après-vente SAV produits bruns de la grande distribution alimentaire (GSA).
 
-Service après-vente produits bruns de la grande distribution spécialisée.
+Service après-vente SAV produits bruns de la grande distribution spécialisée (GSS).
 
 Station technique agréée des constructeurs d'appareil électronique grand public.
 
-Petite et moyenne entreprise de service après-vente de produits bruns.
+Petite et moyenne entreprise (PME) de SAV produits bruns.
+
+Plate-forme de maintenance industrialisée type A. NOVO, SBE, CLARION, etc.
+
+Entreprises de sous-traitance assurant la maintenance des appareils électroniques audio-visuels.
 
 Codes ROME :
 
-52331 - Maintenicien en biens électro-domestiques.
+52331 : Maintenicien en biens électrodomestiques.
 
-52333 - Maintenicien en électronique.
+52333 : Maintenicien en électronique.
 
-52322 - Maintenicien en matériel bureautique.
+52322 : Maintenicien en matériel bureautique.
 
 Réglementation de l'activité :
 
-Néant.
+Selon les conventions collectives nationales des commerces et services de l'audiovisuel, de l'électronique et de l'électroménager.
 
 Autorité responsable de la certification :
 
@@ -84,8 +96,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
