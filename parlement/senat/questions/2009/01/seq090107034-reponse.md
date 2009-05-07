@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107034
+
+- Question : [SEQ090107034](seq090107034.md) — Travaux prévus à l'hôtel Lambert de Le Vau
+
+## Réponse
+
+*Culture, JO du 2009-05-07, page 1117*
+
+L'hôtel Lambert sis à Paris 4e est un édifice classé au titre des monuments historiques pour sa très grande valeur patrimoniale et la richesse de ses décors. Conformément à la réglementation, le propriétaire de ce monument a déposé une demande d'autorisation de travaux, qui a été enregistrée au service départemental de l'architecture et du patrimoine le 1er août 2008. Compte tenu de l'importance historique et architecturale de cet édifice, la ministre de la culture et de la communication a décidé d'une part, d'évoquer ce dossier - à savoir, faire instruire le dossier par l'administration centrale et prendre elle-même la décision d'autoriser les travaux, comme l'y autorise le code du patrimoine - et, d'autre part, de recueillir l'avis de la commission nationale des monuments historiques. Par ailleurs, et pour mener cette opération de façon exemplaire, le propriétaire a confié son projet de restauration à un architecte en chef des monuments historiques, et a accepté, sur proposition de la ministre de la culture et de la communication, la création d'un comité scientifique, composé d'experts, qui examine les projets de travaux de restauration et conseille le maître d'oeuvre dans ses choix. Enfin, les services compétents du ministère de la culture et de la communication travaillent en étroite collaboration avec les services de la ville de Paris au regard des dispositions du code de l'urbanisme. Ce dossier fait donc l'objet d'une attention soutenue du ministère chargé de la culture mais son instruction est conduite dans le strict respect de la réglementation applicable aux monuments historiques et ne bénéficie donc d'aucune procédure particulière.
