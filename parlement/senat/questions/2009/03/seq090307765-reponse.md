@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307765
+
+- Question : [SEQ090307765](seq090307765.md) — Baisse du pouvoir d'achat des pensions militaires d'invalidité
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2009-05-07, page 1118*
+
+Le Gouvernement a décidé, dans le cadre du budget pour 2005, de modifier l'article L. 8 bis du code des pensions militaires d'invalidité et des victimes de la guerre instituant un rapport constant entre le montant des pensions attribuées au titre dudit code et les traitements des fonctionnaires. L'article 117 de la loi de finances pour 2005 précise à cet effet que la valeur du point de pension militaire d'invalidité est désormais révisée proportionnellement à l'évolution de l'indice INSEE des traitements bruts de la fonction publique de l'État, à la date de cette évolution, et non plus de manière rétroactive comme dans le dispositif en vigueur depuis 1990. Cet indice est donc désormais la seule référence pour l'évolution de la valeur du point de pension militaire d'invalidité. Cette amélioration était souhaitée par de nombreuses associations d'anciens combattants et met fin à un système peu clair que le Gouvernement souhaitait réformer. Le décret n° 2005-597 du 27 mai 2005 avait fixé la valeur du point d'indice de pension militaire d'invalidité au 1er janvier 2005 à 12,89 € en application de l'article R. 1 du code des pensions militaires d'invalidité et des victimes de la guerre. Celle-ci a été successivement portée à 12,95 € au 1er février 2005, 13,03 € au 1er juillet 2005, 13,13 € au 1er novembre 2005, 13,19 € au 1er juillet 2006, 13,24 € au 1er novembre 2006, 13,35 € au 1er février 2007, 13,38 € au 1er juillet 2007, 13,45 € au 1er mars 2008, 13,55 € au 1er octobre 2008. Cette valeur devrait respectivement augmenter de 0,5 % et de 0,3 % le 1er juillet puis le 1er octobre 2009. Le Gouvernement n'entend pas remettre en cause le dispositif qui garantit une revalorisation automatique des montants ainsi alloués.
