@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005733
+
+- Question : [SEQ081005733](seq081005733.md) — Projet de réforme de la taxe professionnelle
+
+## Réponse
+
+*Économie, JO du 2009-05-07, page 1124*
+
+L'article 22 de la loi de finances rectificative pour 2008 a institué une exonération de taxe professionnelle par la voie d'un dégrèvement permanent des équipements et biens mobiliers neufs acquis ou créés par les entreprises entre le 23 octobre 2008, date d'annonce de la mesure, et le 31 décembre 2009. Ces allégements étant opérés par dégrèvement, leur coût sera assumé par l'État. Cette réforme préserve donc la part des ressources propres des collectivités territoriales et de leurs établissements publics de coopération intercommunale dans l'ensemble de leurs ressources, respectant le principe constitutionnel d'autonomie financière posé par la loi organique n° 2004-758 du 29 juillet 2004. Par ailleurs, le Président de la République a annoncé le 5 février 2009 la suppression, à compter de 2010, de la taxe professionnelle pour la part portant sur les équipements et biens mobiliers. Enfin, c'est dans ce contexte que le comité pour la réforme des collectivités locales présidé par M. Edouard Balladur a remis, le 5 mars 2009, au chef de l'État un rapport qui comprend 20 propositions portant tout à la fois sur l'organisation territoriale, la répartition des compétences et les moyens financiers des collectivités territoriales. À partir de ces éléments, le Président de la République a demandé au Premier ministre, en lien étroit avec le Parlement, de procéder à l'élaboration d'un texte tout en soulignant les nombreux points qui font l'objet d'un consensus ; tel que notamment le principe de la compensation intégrale au profit des collectivités territoriales des pertes de recettes liées à la suppression de la taxe professionnelle.
