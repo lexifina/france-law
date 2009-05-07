@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307783
+
+- Question : [SEQ090307783](seq090307783.md) — Rapports rendus en 2005 et 2006 par les chambres régionales des comptes
+
+## Réponse
+
+*Économie, JO du 2009-05-07, page 1120*
+
+L'article L. 136-3 du code des juridictions financières, tel qu'il résulte de l'article 88 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions dispose que « la partie du rapport public de la Cour des comptes [...] consacrée aux collectivités territoriales est précédée d'observations relatives au fonctionnement, à l'activité, aux moyens et aux résultats du contrôle des chambres régionales des comptes ». En conséquence, chaque année, depuis 1984, le rapport public de la Cour des comptes détaille, dans l'une de ses parties - en général en fin de rapport - les activités des juridictions financières ainsi que leurs effectifs, aussi bien pour la Cour des comptes que pour les chambres régionales et territoriales des comptes. Ces informations sont toujours présentées de la même façon, autorisant ainsi un suivi comparatif au fil des ans. Au titre des cinq dernières années, les 26 chambres régionales et territoriales des comptes ont rendu, en 2004 : 686 rapports d'observations définitives, en 2005 : 717, en 2006 : 713, en 2007 : 706 et enfin en 2008 : 683 rapports. Le détail des travaux rendus par chaque chambre, développé dans les rapports publics, met en évidence des niveaux d'activité variables. Cela s'explique essentiellement par les écarts entre les effectifs des chambres, allant d'une dizaine à près de 150 collaborateurs et par le mécanisme de calcul qui ne prend en compte, quelles que soient la taille et la masse financière de l'organisme contrôlé, qu'un rapport par examen de gestion. On observe, au demeurant, une assez grande stabilité des rapports rendus, chambre par chambre, sur la période de cinq ans prise pour référence.
