@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207294
+
+- Question : [SEQ090207294](seq090207294.md) — Élimination des candidats à un marché passé selon la procédure adaptée avec négociation
+
+## Réponse
+
+*Économie, JO du 2009-05-07, page 1142*
+
+L'article 28 du code des marchés publics précise que pour les marchés passés en procédure adaptée : « Le pouvoir adjudicateur peut négocier avec tous les candidats ayant présenté une offre. » Cette négociation sera menée selon les modalités annoncées par le pouvoir adjudicateur dans son dossier de consultation. Elle peut être définie par le pouvoir adjudicateur en s'inspirant des procédures formalisées, sans les mentionner expressément. Sous cette condition, il ne sera pas soumis au respect des règles formelles de ces procédures et ne sera soumis qu'aux seules règles qu'il aura fixées. En revanche, s'il s'y réfère expressément, il sera alors tenu de respecter l'ensemble des règles prévues par le code des marchés publics pour la procédure formalisée qu'il aura choisie. Il s'ensuit que, si le pouvoir adjudicateur annonce vouloir recourir à la procédure négociée, il devra appliquer les dispositions prévues aux articles 65 et 66 du code des marchés publics et par conséquent éliminer les offres inappropriées conformément aux dispositions du V de l'article 66 du code précité. On peut toutefois remarquer qu'au-delà de la règle de droit, il s'agit là d'une disposition de bon sens dans la mesure où une offre inappropriée est une offre qui apporte une réponse sans rapport avec le besoin du pouvoir adjudicateur et peut, de ce fait, être assimilée à une absence d'offre. Ainsi, dans l'hypothèse où le pouvoir adjudicateur s'inspirerait de la procédure négociée sans s'y référer expressément, il serait naturellement conduit à prendre la même décision de rejet de l'offre avant d'engager la phase de négociation avec les offres admises par lui à la négociation.
