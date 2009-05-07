@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408582
+
+- Question : [SEQ090408582](seq090408582.md) — Arrêtés interdisant les coupures d'eau, d'électricité ou de gaz pour factures impayées
+
+## Réponse
+
+*Intérieur, JO du 2009-05-07, page 1150*
+
+Les arrêtés pris par les maires interdisant les coupures d'électricité et de gaz pour les personnes en difficulté sociale et de bonne foi sont, selon une jurisprudence constante, annulés par le juge administratif (Cour administrative d'appel de Paris, 12 février 2008, 07PA02710). Le juge estime, en effet, que même si ces décisions ne visent que les personnes en difficulté sociale et de bonne foi, elles présentent un caractère général et absolu. Le législateur a pour sa part, d'ores et déjà, entendu aider les familles en difficulté financière. En effet, s'il n'a pas autorisé les collectivités locales à interdire les coupures d'électricité, il a en revanche pris des mesures de maintien de l'électricité pour les personnes en situation précaire par des aides financières accordées aux personnes concernées, et ce dans le cadre notamment de l'article L. 115-3 du code de l'action sociale. En outre, le décret du 10 août 2005 relatif à la procédure applicable aux particuliers en cas de factures d'électricité impayées renforce la responsabilité des fournisseurs d'électricité quant aux actions d'aide qu'ils peuvent engager, d'une part, en proposant des modalités de règlement du solde de la dette lorsqu'une aide a été attribuée et, d'autre part, en développant des actions de prévention et d'information sur la maîtrise de la demande en énergie auprès de ces clients, en modulant éventuellement les tarifications à cet effet. Ainsi, au regard du dispositif législatif et réglementaire existant, il n'est pas envisagé, à ce jour, de légaliser les arrêtés interdisant les coupures d'électricité de gaz ou d'eau.
