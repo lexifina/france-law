@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307760
+
+- Question : [SEQ090307760](seq090307760.md) — Droit de préemption par les SAFER
+
+## Réponse
+
+*Agriculture, JO du 2009-05-14, page 1208*
+
+Aux termes de l'article L. 143-7 du code rural, c'est aux préfets qu'il appartient de déterminer, après consultation de la commission départementale d'orientation de l'agriculture et de la chambre d'agriculture, les superficies minimales à partir desquelles peut être exercé, département par département, le droit de préemption des sociétés d'aménagement foncier et de l'espace rural (SAFER). Ces superficies sont reprises et formalisées dans les décrets leur conférant le droit de préemption par périodes de cinq ans. Les « fonds agricoles » et « terrains à vocation agricole » sur lesquels l'article L. 143-1 du code rural institue un droit de préemption au profit des SAFER se trouvent définis à l'article R. 143-2. Un certain nombre d'exemptions existe depuis l'origine au droit de préemption conféré aux SAFER, exemptions énumérées à l'article L. 143-4 du code rural. Au nombre de celles-ci, sont notamment prévues les acquisitions de terrains destinées à la constitution ou à la préservation de jardins familiaux, régis par les articles L. 561-1 et suivants et R. 562-1 et suivants du code rural, si elles représentent une superficie au plus égale à 1 500 mètres carrés. En outre, à la demande des organismes de jardins familiaux, il est prévu par l'article L. 562-1 que le droit de préemption des SAFER puisse s'exercer pour acquérir des parcelles destinées à la création ou à l'aménagement de ces jardins collectifs appelés à être cultivés pour un usage exclusivement familial. Une telle exemption n'existe pas concernant les terrains à usage de loisirs que peuvent acheter des particuliers, ne présentant pas, à la différence des précédents, de caractère d'intérêt général.
