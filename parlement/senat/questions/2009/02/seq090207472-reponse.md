@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207472
+
+- Question : [SEQ090207472](seq090207472.md) — Conséquences de la tempête Klaus
+
+## Réponse
+
+*Intérieur, JO du 2009-05-14, page 1228*
+
+La tempête Klaus, d'une ampleur exceptionnelle, a touché 31 départements les 24 et 25 janvier 2009. Le Gouvernement a donc souhaité mettre en place plusieurs dispositifs de soutien aux collectivités territoriales concernées : réparation des dégâts sur les biens des collectivités territoriales, soutien aux communes percevant des recettes au titre de l'exploitation de la forêt, demande d'intervention du Fonds de solidarité de l'Union européenne (FSUE). Afin de déterminer le montant des aides qui seront mobilisées au titre de ces trois dispositifs, une mission interministérielle d'inspection générale a été diligentée le 25 février 2009 pour expertiser l'évaluation des dégâts causés par la tempête aux biens non assurables des collectivités territoriales, identifier les communes forestières ayant subi des pertes de recettes liées à l'exploitation forestière supérieures à 10 % de leurs recettes de fonctionnement et contribuer à la constitution du dossier de demande d'aide au titre du Fonds de solidarité de l'Union européenne. La mission vient de rendre son rapport dans lequel elle estime le bilan matériel des dégâts à un montant total de 5 milliards d'euros, tous dommages confondus. Sur la base de ses conclusions et eu égard au montant des dégâts, le Fonds de solidarité de l'Union européenne pourra être saisi sur le fondement d'une qualification de catastrophe naturelle majeure. Par ailleurs, une prochaine réunion interministérielle devra déterminer le montant des aides nationales susceptibles d'être mobilisées. Le lancement de la procédure de solidarité nationale permettra notamment l'ouverture de crédits exceptionnels destinés à soutenir financièrement la remise en état du patrimoine non assurable des collectivités touchées par la tempête.
