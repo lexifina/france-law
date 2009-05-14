@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206758
+
+- Question : [SEQ081206758](seq081206758.md) — Présentation du nom de famille
+
+## Réponse
+
+*Justice, JO du 2009-05-14, page 1229*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi du 4 mars 2002 a eu pour effet de créer une nouvelle catégorie juridique de nom de famille, le « double nom », issu de l'accolement du nom de chacun des parents. Cette catégorie est différente des « noms composés » préexistants, composés de plusieurs vocables acquis pendant plusieurs générations par une seule lignée, des noms à particule et des noms résultant de l'adjonction du nom de l'adoptant à celui de l'adopté en cas d'adoption simple. En effet, le « double nom » obéit à un régime juridique particulier, son caractère sécable ayant été affirmé par le législateur alors que le « nom composé » était et reste intégralement transmissible. La loi, en créant cette nouvelle catégorie juridique de noms, imposait la mise en place d'un signe permettant de les distinguer des noms composés. Or, la formation des noms n'étant pas réglementée mais résultant de l'usage, certains « noms composés » comportent un espace entre les vocables et d'autres un trait d'union. Il était donc indispensable d'introduire un signe autre que l'espace ou le trait d'union, faute de quoi il aurait été impossible, dès la seconde génération, de connaître l'origine du nom et ses modalités de transmission. L'introduction, par la circulaire du 6 décembre 2004, du double tiret entre les deux noms ne constitue donc pas une règle de droit nouvelle, mais une simple mesure technique, nécessaire à la bonne application de la loi, afin d'en assurer l'application uniforme sur l'ensemble du territoire. Cette mesure technique concerne donc tous les parents qui souhaitent donner chacun leur nom à leurs enfants.
