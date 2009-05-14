@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090106916
+
+- Question : [SEQ090106916](seq090106916.md) — Répartition des emplois public/privé dans l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 2009-05-14, page 1221*
+
+En vertu du principe de parité fixé par l'article L. 442-14 du code de l'éducation, les mesures budgétaires de l'enseignement public sont appliquées à l'enseignement privé, en les proratisant en fonction des effectifs d'élèves scolarisés dans ces deux secteurs. La suppression de 1 000 emplois dans l'enseignement privé à la rentrée 2009 résulte de l'application de ce principe de parité avec le public. D'une part, il est prévu une suppression de 300 emplois au titre de la démographie à parité avec les 1 500 suppressions prévues dans le public. S'agissant du remplacement, il convient de préciser que dans l'enseignement privé il n'existe pas d'équivalent aux titulaires remplaçants du public, le remplacement étant assuré par des maîtres délégués ou par des maîtres contractuels assurant des heures supplémentaires en complément de leur service. La suppression de 350 emplois correspond comme dans le public à environ 10 % des moyens de remplacement, c'est-à-dire un pourcentage de suppressions identique à celui opéré sur les moyens de remplacement du public. Par ailleurs, la suppression de 450 ETP d'enseignants stagiaires correspond à une suppression de 18 % des stagiaires, pourcentage identique à celui pratiqué au titre des stagiaires de l'enseignement public. Enfin, la création de 100 emplois au titre du volet éducation du plan « Espoir banlieues » correspond aux 500 créations décidées dans le public. Dès lors, la totalité des mesures de suppressions d'emplois a été appliquée en corrélation avec celles prévues dans le public, à l'exception de celles effectuées au titre des RASED puisque ces réseaux n'existent pas dans le privé.
