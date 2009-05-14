@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408573
+
+- Question : [SEQ090408573](seq090408573.md) — Régime juridique applicable aux cabanes dans les arbres, yourtes ou tipis
+
+## Réponse
+
+*Écologie, JO du 2009-05-14, page 1216*
+
+Au regard de la réglementation applicable en matière de camping, les yourtes, ou tipis, peuvent être assimilées à des tentes, si elles sont non équipées et à des habitations légères de loisirs (HLL) si elles comportent des équipements intérieurs, tels que des blocs cuisine ou sanitaires. Dans un cas comme dans l'autre, ces hébergements sont strictement réglementés par le code de l'urbanisme. Les tentes peuvent être installées soit dans les terrains de camping aménagés, soit sur parcelle individuelle avec l'accord de celui qui a la jouissance du terrain, dans les conditions prévues par les articles R. 111-41 et suivants du code de l'urbanisme. Les HLL peuvent être implantées dans les terrains de campings, les parcs résidentiels de loisirs, certains villages de vacances ou encore dans certaines dépendances des maisons familiales de vacances. Les cabanes dans les arbres sont aussi éligibles au régime juridique des HLL. Dans ce cadre, ces installations d'une surface hors oeuvre nette inférieure (SHON) à 35 mètres carrés sont dispensées de formalité. Par contre, si elles présentent une SHON supérieure, une déclaration préalable est exigée. En dehors des quatre lieux d'implantations susvisés (terrains de campings, parcs résidentiels de loisirs, certains villages de vacances, certaines dépendances des maisons familiales de vacances), ces constructions sont soumises au droit commun des constructions, c'est-à-dire : déclaration préalable entre 2 et 20 m² de surface hors oeuvre brut (SHOB) et permis de construire au-dessus de 20 m² de SHOB, conformément aux dispositions des articles R. 421-1, R. 421-2 et R. 421-9 du code de l'urbanisme.
