@@ -2,7 +2,7 @@
 
 Liste des zones urbaines sensibles.
 
-Les documents relatifs aux délimitations, rue par rue, des quartiers figurant dans cette liste peuvent être consultés à la délégation interministérielle à la ville et au développement social urbain, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées.
+Les documents relatifs aux délimitations, rue par rue, des quartiers figurant dans cette liste peuvent être consultés à la secrétariat général du comité interministériel des villes, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées.
 
 DÉPARTEMENTS
 
@@ -1106,7 +1106,7 @@ Toulouse
 
 |
 
-Empalot ; Faourette, Bordelongue, Bagatelle ;La Reynerie, Bellefontaine ; Les Izards
+Empalot ; Faourette, Bordelongue, Bagatelle ; La Reynerie, Bellefontaine ; Les Izards
 
 |
 
@@ -1128,7 +1128,7 @@ Bordeaux
 
 |
 
-Belcier (1) ; (Yves Farges) (1) ; Bacalan, Claveau ;Les Aubiers ; Saint-Michel ; Bastide : Cité Benauge (1) ; Bastide : Quais Queyries, Brazza (1) (Hauts de Garonne) (1)
+Belcier (1) ; (Yves Farges) (1) ; Bacalan, Claveau ; Les Aubiers ; Saint-Michel ; Bastide : Cité Benauge (1) ; Bastide : Quais Queyries, Brazza (1) (Hauts de Garonne) (1)
 
 |
 
@@ -4348,7 +4348,7 @@ Grigny
 
 |
 
-Grigny 2 ; La Grande-Borne et le village de Grigny (décret n° 2001-253 du 26 mars 2001, article 1er)(1)
+Grigny 2 ; La Grande-Borne et le village de Grigny (décret n° 2001-253 du 26 mars 2001, article 1er) (1)
 
 |
 
@@ -5104,11 +5104,11 @@ COMMUNES
 
 |
 
-QUARTIERS
+QUARTIERSGuadeloupe
 
 |
 
-Guadeloupe (971)
+(971)
 
 |
 
@@ -5136,7 +5136,7 @@ Pointe-à-Pitre
 
 |
 
-Mortenol, Les Lauriers (1) (Boissard) (1); Sortie Sud-Est : Cour Zamia, Chemin Neuf (1) ; Lauricisque
+Mortenol, Les Lauriers (1) (Boissard) (1) ; Sortie Sud-Est : Cour Zamia, Chemin Neuf (1) ; Lauricisque
 
 |
 
