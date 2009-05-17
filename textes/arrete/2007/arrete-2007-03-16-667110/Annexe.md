@@ -1,6 +1,6 @@
 # Article Annexe
 
-A N N E X E I
+ANNEXE I
 
 CONDITIONS DE PRISE EN CHARGE POUR L'ADMISSION EN HOSPITALISATION À DOMICILE D'UN RÉSIDENT D'ÉTABLISSEMENT D'HÉBERGEMENT POUR PERSONNES ÂGÉES
 
@@ -10,9 +10,11 @@ PRISE EN CHARGE
 
 |
 
-N°
+NUMÉRO
 
-mode de prise en charge*
+du mode de prise
+
+en charge (*)
 
 |
 
@@ -20,7 +22,11 @@ DÉFINITION
 
 |
 
-CONDITIONS DE PRISE EN CHARGE l'admission en HAD d'un résident d'EHPA
+CONDITIONS DE PRISE EN CHARGE
+
+pour l'admission en HAD
+
+d'un résident d'EHPA
 
 |
 
@@ -32,11 +38,11 @@ Assistance respiratoire.
 
 |
 
-Cette prise en charge concerne des patients dont l'autonomie respiratoire est réduite : il comporte le suivi médico-infirmier du patient, la maintenance des appareillages et les soins éducatifs du patient et de l'entourage. Cette assistance est mécanisée.
+Ce mode de prise en charge concerne des patients dont l'autonomie respiratoire est réduite : il comporte le suivi médico-infirmier du patient, la maintenance des appareillages et les soins éducatifs du patient et de l'entourage. Cette assistance est mécanisée.
 
 |
 
-L'assistance respiratoire peut être assurée par la structure d'HAD si elle est associée à au moins une autre prise en charge d'HAD en EHPA.
+L'assistance respiratoire peut être assurée par la structure d'HAD en EHPA uniquement si elle est associée en complément d'une prise en charge principale.
 
 |
 
@@ -48,11 +54,11 @@ Nutrition parentérale.
 
 |
 
-Cette prise en charge fait référence à l'administration au patient de solutions binaires ou ternaires. La prise en charge comporte le suivi médical et biologique de l'alimentation et la mise en place des soins infirmiers (surveillance de la voie veineuse centrale, fourniture et maintenance des pompes).
+Ce mode de prise en charge fait référence à l'administration au patient de solutions binaires ou ternaires. La prise en charge comporte le suivi médical et biologique de l'alimentation et la mise en place des soins infirmiers (surveillance de la voie veineuse centrale, fourniture et maintenance des pompes).
 
 |
 
-La nutrition parentérale peut être assurée par la structure d'HAD si elle est associée à au moins une autre prise en charge d'HAD en EHPA.
+La nutrition parentérale peut être assurée par la structure d'HAD en EHPA uniquement si elle est associée en complément d'une prise en charge principale.
 
 |
 
@@ -80,7 +86,7 @@ Soins palliatifs.
 
 |
 
-Il s'agit de la prise en charge d'un patient et de son entourage par l'ensemble de l'équipe médicale, sociale et soignante dans le cadre d'un accompagnement de fin de vie ou de phase terminale.
+Il s'agit de la prise en charge d'un patient et de son entourage par l'ensemble de l'équipe médicale, sociale et soignante d'une pathologie grave, évolutive, mettant en jeu le pronostic vital. Cette prise en charge vise à soulager la douleur, à apaiser la souffrance psychique, à sauvegarder la dignité de la personne malade et à soutenir son entourage.
 
 |
 
@@ -98,25 +104,17 @@ Chimiothérapie anticancéreuse.
 
 La prise en charge comporte :
 
-|
-
-La chimiothérapie anticancéreuse peut être assurée par une structure d'HAD en EHPA, à l'exception de la chimiothérapie par voie orale.
-
-|
-
 - l'examen clinique et la vérification des critères biologiques préalables à l'administration de la chimiothérapie ;
-
-|
 
 - l'administration de la chimiothérapie ;
 
-|
-
 - la surveillance médico-soignante des thérapeutiques administrées ;
 
+- la surveillance et la gestion des effets secondaires.
+
 |
 
-- la surveillance et la gestion des effets secondaires.
+La chimiothérapie anticancéreuse peut être assurée par une structure d'HAD en EHPA, à l'exception de la chimiothérapie par voie orale.
 
 |
 
@@ -128,11 +126,11 @@ Nutrition entérale.
 
 |
 
-Cette prise en charge concerne des patients porteurs de sondes nasogastriques, de gastrostomie ou de jéjunostomie et dont les produits spécifiques sont fournis par l'HAD. Elle comporte une surveillance du patient, la maintenance des pompes et l'éducation du patient et de son entourage.
+Ce mode de prise en charge concerne des patients porteurs de sondes nasogastriques, de gastrostomie ou de jéjunostomie et dont les produits spécifiques sont fournis par l'HAD. Il comporte une surveillance du patient, la maintenance des pompes et l'éducation du patient et de son entourage.
 
 |
 
-La nutrition parentérale peut être assurée par la structure d'HAD si elle est associée à au moins une autre prise en charge d'HAD en EHPA.
+La nutrition entérale peut être assurée par la structure d'HAD en EHPA uniquement si elle est associée en complément d'une prise en charge principale.
 
 |
 
@@ -144,7 +142,7 @@ Prise en charge de la douleur.
 
 |
 
-Cette prise en charge comporte l'évaluation médico-soignante de la douleur, la mise en place du traitement, l'évaluation et les réajustements des thérapeutiques.
+Ce mode de prise en charge comporte l'évaluation médico-soignante de la douleur, la mise en place du traitement, l'évaluation et les réajustements des thérapeutiques.
 
 |
 
@@ -176,7 +174,7 @@ Pansements complexes et soins spécifiques (stomies compliquées).
 
 |
 
-Cette prise en charge concerne les patients porteurs de plaies complexes (escarres, ulcères variqueux étendus...) et/ou multiples nécessitant une intervention de l'équipe soignante pluriquotidienne ou supérieure à 30 minutes.
+Ce mode de prise en charge concerne les patients porteurs de plaies complexes (escarres, ulcères variqueux étendus...) et/ou multiples nécessitant une intervention de l'équipe soignante pluriquotidienne ou supérieure à 30 minutes.
 
 |
 
@@ -196,7 +194,7 @@ Le projet thérapeutique nécessite une forte implication de l'équipe de kinés
 
 |
 
-La rééducation orthopédique peut être assurée par la structure d'HAD si elle est associée à au moins une autre prise en charge par l'HAD en EHPA.
+La rééducation orthopédique peut être assurée par la structure d'HAD en EHPA uniquement si elle est associée en complément d'une prise en charge principale.
 
 |
 
@@ -212,7 +210,7 @@ Le projet thérapeutique nécessite une forte implication de l'équipe de kinés
 
 |
 
-La rééducation neurologique peut être assurée par la structure d'HAD si elle est associée à au moins une autre prise en charge par l'HAD en EHPA.
+La rééducation neurologique peut être assurée par la structure d'HAD en EHPA uniquement si elle est associée en complément d'une prise en charge principale.
 
 |
 
@@ -224,11 +222,11 @@ Soins de nursing lourds.
 
 |
 
-Il s'agit d'une prise en charge quotidienne au total supérieure à deux heures, à raison d'au moins deux passages par jour chez des malades très dépendants (Karnofsky ≤ 50 %).
+Ce mode comporte une prise en charge quotidienne au total supérieure à deux heures, à raison d'au moins deux passages par jour chez des malades très dépendants (Karnofsky 50 %).
 
 |
 
-Les soins de nursing lourds peuvent être assurés par la structure d'HAD s'ils sont associés à au moins une autre prise en charge par l'HAD en EHPA.
+Les soins de nursing lourds peuvent être assurés par la structure d'HAD en EHPA uniquement si ils sont associés en complément d'une prise en charge principale.
 
 |
 
@@ -258,24 +256,26 @@ Surveillance d'aplasie.
 
 La prise en charge comporte :
 
+- la surveillance médico-soignante de l'aplasie médullaire sur le plan biologique et clinique ;
+
+- la surveillance et la gestion des effets secondaires (antibiothérapie, transfusion...).
+
 |
 
 La surveillance d'aplasie peut être assurée par une structure d'HAD en EHPA.
 
 |
 
-- la surveillance médico-soignante de l'aplasie médullaire sur le plan biologique et clinique ;
-
-|
-
-- la surveillance et la gestion des effets secondaires (antibiothérapie, transfusion...).
-
-|
-
 Définitions et référence :
 
-Le numéro du mode de prise en charge * : ce numéro, indiqué dans la deuxième colonne du tableau, correspond à celui figurant dans la liste des modes de prise en charge définie à l'annexe I de l'arrêté du 31 décembre 2004 relatif au recueil et au traitement des données d'activités médicales des établissements de santé publics ou privés ayant une activité d'hospitalisation à domicile et à la transmission des informations issues de ce traitement.
+(*) Le numéro du mode de prise en charge : ce numéro, indiqué dans la deuxième colonne du tableau, correspond à celui figurant dans la liste des modes de prise en charge définie à l'annexe I de l'arrêté du 31 décembre 2004 relatif au recueil et au traitement des données d'activités médicales des établissements de santé publics ou privés ayant une activité d'hospitalisation à domicile et à la transmission des informations issues de ce traitement.
 
 Le mode de prise en charge principal : c'est celui supposé susciter la consommation la plus importante de ressources : frais de personnels, frais de location de matériel, frais de médicaments, etc.
 
 Le mode de prise en charge associé, le cas échéant : si le patient nécessite un autre mode de prise en charge que le mode principal, supposé consommer moins de ressources que lui, ce deuxième mode est le mode de prise en charge associé. S'il existe plusieurs modes associés, il faut retenir celui qui, en termes de consommation de ressources, vient immédiatement après le mode principal.
+
+Classement des modes de prise en charge lors de l'admission en hospitalisation à domicile d'un ou plusieurs résidents d'établissement d'hébergement pour personnes âgées :
+
+- tous les modes de prise en charge de l'annexe I de l'arrêté du 16 mars 2007 peuvent être classés en tant que modes de prise en charge associés, en complément d'un mode de prise en charge principal ;
+
+- seuls les modes de prise en charge n°s 03, 04, 05, 07, 08, 09, 18 et 24 de l'annexe I de ce même arrêté peuvent être classés en modes de prise en charge principaux.
