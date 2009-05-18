@@ -2,45 +2,43 @@
 
 La présente convention règle, sur l'ensemble du territoire métropolitain, les rapports entre employeurs et salariés de la fabrication de l'ameublement et de la fabrication d'orgues.
 
-Entrent dans le champ d'application de la présente convention les entreprises de fabrication d'ameublement, de rénovation, de réparation, de restauration et d'agencement d'ameublement, ainsi que les entreprises de fabrication d'orgues, quels que soient le matériau utilisé, l'effectif de l'entreprise, et qu'il s'agisse d'une fabrication en série ou à l'unité.
+Entrent dans le champ d'application de la présente convention les entreprises de fabrication d'ameublement et de mobilier d'agencement, de rénovation, de réparation et de restauration ainsi que les entreprises de fabrication et de restauration d'orgues à tuyaux, quels que soient le matériau utilisé, l'effectif de l'entreprise et qu'il s'agisse d'une fabrication en série ou à l'unité.
 
-A titre indicatif, ces activités sont référencées dans la nomenclature d'activités française de 1992, sous les numéros suivants :
+A titre indicatif ces activités sont référencées dans la nomenclature d'activités française de 2008, sous les numéros suivants :
 
-17.4 B Fabrication de petits articles textiles de literie, à l'exclusion de la fabrication de sacs de couchage et la fabrication de tapisseries tissées à la main.
+- 13. 92Z Fabrication d'articles textiles, sauf habillement, exclusivement pour la fabrication de petits articles textiles de literie relevant de la sous-catégorie 13. 92. 24 ;
 
-20.5 A Fabrication d'objets divers en bois exclusivement pour ce qui est de :
+- 16. 29Z Fabrication d'objets divers en bois, exclusivement pour la fabrication de cadres et la fabrication de bois pour luminaires relevant de la sous-catégorie 13. 29. 14 ;
 
-- la fabrication de cercueils ;
+- 26. 40Z Fabrication de produits électroniques grand public, exclusivement pour la fabrication d'enveloppes en bois pour enceintes acoustiques relevant de la sous-catégorie 26. 40. 42 ;
 
-- la fabrication d'enveloppes en bois pour matériel électroacoustique, audiovisuel, hi-fi et pour machines à coudre ;
+- 26. 52Z Fabrication d'horlogerie, exclusivement pour la fabrication de cages d'horlogerie relevant de la sous-catégorie 26. 52. 27 ;
 
-- la fabrication de cages et cadres d'horlogerie ;
+- 31. 01Z Fabrication de meubles de bureau et de magasin, à l'exclusion de la fabrication de meubles métalliques, ou principalement en métal ;
 
-- la fabrication de bois pour luminaires.
+- 31. 02Z Fabrication de meubles de cuisine, à l'exclusion de la fabrication de meubles métalliques, ou principalement en métal ;
 
-36.1 A Fabrication de sièges, à l'exclusion de la fabrication de sièges autres que d'ameublement qui sont métalliques ou principalement en métal.
+- 31. 03Z Fabrication de matelas, à l'exclusion de la fabrication de sommiers métalliques ou principalement en métal ;
 
-36.1 C Fabrication de meubles de bureau et de magasin, y compris lorsque la fabrication est associée à une activité de pose, à l'exclusion de la fabrication de meubles métalliques, ou principalement en métal.
+- 31. 09A Fabrication de sièges d'ameublement intérieur ;
 
-36.1 E Fabrication de meubles de cuisine, y compris lorsque la fabrication est associée à une activité de pose à l'exclusion de la fabrication de meubles métalliques, ou principalement en métal.
+- 31. 09B Fabrication d'autres meubles et industries connexes, à l'exclusion de la fabrication de meubles métalliques ou principalement en métal ;
 
-36.1 G Fabrication de meubles meublants, à l'exclusion de la fabrication de meubles métalliques ou principalement en métal.
+- 32. 20Z Fabrication d'instruments de musique, exclusivement pour la fabrication d'orgues à tuyaux relevant de la sous-catégorie 32. 20. 1 ;
 
-36.1 H Fabrication de meubles de jardin et d'extérieur, à l'exclusion de la fabrication de meubles métalliques ou principalement en métal.
+- 32. 40Z Fabrication de jeux et jouets, exclusivement pour la fabrication de billards relevant de la sous-catégorie 32. 40. 42 ;
 
-36.1 J Fabrication de meubles non classés ailleurs, à l'exclusion de la fabrication de meubles métalliques ou principalement en métal.
+- 32. 99Z Autres activités manufacturières NCA (non citées ailleurs), exclusivement pour la fabrication de cercueils relevant de la sous-catégorie 32. 99. 59 et la fabrication d'abat-jour ;
 
-36.1 K Industries connexes de l'ameublement.
+- 33. 19Z Réparation d'autres équipements, exclusivement pour la restauration d'orgues relevant de la sous-catégorie 33. 19. 10 ;
 
-36.1 M Fabrication de matelas, pour ce qui est de la fabrication de matelas et de sommiers, à l'exclusion de la fabrication de sommiers métalliques ou principalement en métal.
+- 90. 03A Création artistique relevant des arts plastiques, exclusivement pour la restauration de meubles dans le cadre de musées et pour l'encadrement d'art relevant de la sous-catégorie 90. 03. 11 ;
 
-36.3 Z Fabrication d'instruments de musique exclusivement pour ce qui est de la fabrication et la restauration d'orgues à tuyaux.
+- 95. 24Z Réparation de meubles et d'équipements du foyer, exclusivement pour la réparation de meubles relevant de la sous-catégorie 95. 24. 10.
 
-36.5 Z Fabrication de jeux et jouets exclusivement pour ce qui est de la fabrication de billards.
+S'agissant de l'activité de fabrication de meubles en matières plastiques répertoriée sous le code NAF 31. 09B (31. 09. 14), qui est commune aux branches professionnelles de la fabrication de l'ameublement et de la transformation des matières plastiques, il appartient à l'entreprise de se déterminer comme suit :
 
-S'agissant de l'activité de fabrication de meubles en matières plastiques ou semi-plastiques répertoriée sous les codes NAF 36.1 A, 36.1 C, 36.1 E, 36.1 G, 36.1 H, 36.1 J qui est commune aux branches professionnelles de la fabrication de l'ameublement et de la transformation des matières plastiques, il appartient à l'entreprise de se déterminer comme suit :
-
-L'entreprise ou l'établissement continuera à appliquer la convention collective qu'elle ou qu'il appliquait à la date d'entrée en vigueur du présent accord.
+- l'entreprise ou l'établissement continuera à appliquer la convention collective qu'elle ou il appliquait à la date d'entrée en vigueur du présent accord.
 
 Les entreprises ou établissements créés après cette date opteront pour l'application de l'une ou l'autre de ces deux conventions collectives.
 
