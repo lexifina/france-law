@@ -44,7 +44,7 @@ Directeurs adjoints (du 1er au 6e échelon)
 
 |
 
-Ingénieurs de classe principale
+Personnels de la catégorie T1 de classe principale
 
 |
 
@@ -52,7 +52,7 @@ Ingénieurs de classe principale
 
 |
 
-Ingénieurs de classe normale.
+Personnels de la catégorie T1 de classe normale
 
 |
 
@@ -60,7 +60,7 @@ Ingénieurs de classe normale.
 
 |
 
-Techniciens de classe exceptionnelle
+Personnels de la catégorie T2 de classe exceptionnelle
 
 |
 
@@ -68,7 +68,7 @@ Techniciens de classe exceptionnelle
 
 |
 
-Techniciens de classe supérieure
+Personnels de la catégorie T2 de classe supérieure
 
 |
 
@@ -76,7 +76,7 @@ Techniciens de classe supérieure
 
 |
 
-Techniciens de classe normale
+Personnels de la catégorie T2 de classe normale
 
 |
 
@@ -102,7 +102,7 @@ Agents exerçant les fonctions de responsable du service administration (dans la
 
 |
 
-- attachés de classe exceptionnelle
+Personnels de la catégorie A1 de classe exceptionnelle
 
 |
 
@@ -110,7 +110,7 @@ Agents exerçant les fonctions de responsable du service administration (dans la
 
 |
 
-- attachés de classe supérieure
+Personnels de la catégorie A1 de classe supérieure
 
 |
 
@@ -118,7 +118,7 @@ Agents exerçant les fonctions de responsable du service administration (dans la
 
 |
 
-- attachés de classe normale
+Personnels de la catégorie A1 de classe normale
 
 |
 
@@ -126,7 +126,7 @@ Agents exerçant les fonctions de responsable du service administration (dans la
 
 |
 
-Attachés de classe exceptionnelle
+Personnels de la catégorie A1 de classe exceptionnelle
 
 |
 
@@ -134,7 +134,7 @@ Attachés de classe exceptionnelle
 
 |
 
-Attachés de classe supérieure
+Personnels de la catégorie A1 de classe supérieure
 
 |
 
@@ -142,7 +142,7 @@ Attachés de classe supérieure
 
 |
 
-Attachés de classe normale
+Personnels de la catégorie A1 de classe normale
 
 |
 
@@ -150,7 +150,7 @@ Attachés de classe normale
 
 |
 
-Secrétaires de classe exceptionnelle
+Personnels de la catégorie A2 de classe exceptionnelle
 
 |
 
@@ -158,7 +158,7 @@ Secrétaires de classe exceptionnelle
 
 |
 
-Secrétaires de classe supérieure
+Personnels de la catégorie A2 de classe supérieure
 
 |
 
@@ -166,7 +166,7 @@ Secrétaires de classe supérieure
 
 |
 
-Secrétaires de classe normale
+Personnels de la catégorie A2 de classe normale
 
 |
 
@@ -174,7 +174,7 @@ Secrétaires de classe normale
 
 |
 
-Adjoints de classe exceptionnelle
+Personnels de la catégorie A3 de classe normale
 
 |
 
@@ -182,7 +182,7 @@ Adjoints de classe exceptionnelle
 
 |
 
-Adjoints de classe supérieure
+Personnels de la catégorie A3 de classe supérieure
 
 |
 
@@ -190,7 +190,7 @@ Adjoints de classe supérieure
 
 |
 
-Adjoints de classe normale
+Personnels de la catégorie A3 de classe normale
 
 |
 
