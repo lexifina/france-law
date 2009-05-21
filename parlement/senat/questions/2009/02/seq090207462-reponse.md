@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207462
+
+- Question : [SEQ090207462](seq090207462.md) — Exonération de la taxe sur les véhicules de sociétés pour les discothèques
+
+## Réponse
+
+*Économie, JO du 2009-05-21, page 1283*
+
+Les questions de sécurité routière et la lutte contre la violence routière constituent des préoccupations fortes et constantes des pouvoirs publics. Cela étant, le comportement au volant des usagers de la route relève davantage d'une responsabilisation des usagers que d'un soutien fiscal. Ainsi, des campagnes nationales d'information et de sensibilisation sur les dangers de l'alcool au volant sont régulièrement menées pour promouvoir, notamment à l'égard des jeunes, le principe du conducteur désigné : « celui qui conduit est celui qui ne boit pas ». Ces campagnes sont relayées au niveau local par des actions ciblées, dans les discothèques, d'associations oeuvrant en partenariat avec les services préfectoraux dans le cadre de la mise en oeuvre de plans départementaux d'actions de sécurité routière. Enfin, au plan réglementaire, une action renforcée du Gouvernement dans le domaine du contrôle et de la sanction des infractions routières a contribué de manière substantielle au changement de comportement des conducteurs, et partant, à la réduction du nombre des victimes observées ces dernières années. Par ailleurs, il est rappelé que l'exonération de la taxe sur les véhicules des sociétés (TVS), prévue à l'article 1010 du code général des impôts dont bénéficient les professionnels cités par l'auteur de la question, au titre des véhicules particuliers destinés à un service de transport, se justifie par le fait que ces opérations de transport constituent l'activité normale de ces professionnels. Dès lors, sans méconnaître la portée du geste effectué par les discothèques, il n'est pas envisagé d'exonérer les véhicules affectés au transport de leurs clients de la TVS.
