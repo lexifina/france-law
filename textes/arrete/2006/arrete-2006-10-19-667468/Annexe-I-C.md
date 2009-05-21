@@ -2462,6 +2462,22 @@ Dose techniquement inévitable.
 
 |
 
+Pectine méthylestérase produite par la souche recombinée d'Aspergillus niger PME 44. |
+
+Enzymes. |
+
+Fruits et légumes destinés à la mise en conserve et à la congélation.
+
+Jus de fruits.
+
+Préparations de fruits et de tomates.
+
+|
+
+Déméthoxylation des pectines (avec formation d'un gel en présence de calcium). |
+
+Teneur résiduelle techniquement inévitable. |
+
 Pectine méthylestérase d'Aspergillus oryzae contenant le gène codant d'Aspergillus aculeatus.
 
 |
@@ -2681,6 +2697,16 @@ Hydrolyse des phosphoglycérides ou phospholipides du gluten.
 Dose techniquement inévitable.
 
 |
+
+Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004. |
+
+Enzymes. |
+
+Huiles végétales. |
+
+Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Phytase d'Aspergillus niger NPH54 (DS 35387) portant le gène codant pour la phytase d'Aspergillus niger 3135.
 
@@ -3541,3 +3567,17 @@ Hydrolyse des liaisons osidiques des hémicelluloses.
 Dose techniquement inévitable.
 
 |
+
+Xylanase de Trichoderma longibrachiatum
+
+(souche QM 9414, ATCC 26921).
+
+|
+
+Enzymes. |
+
+Industrie de l'alcool. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
