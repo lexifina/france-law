@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206624
+
+- Question : [SEQ081206624](seq081206624.md) — Insuffisance des effectifs de professeurs d'éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 2009-05-21, page 1284*
+
+Le recrutement des enseignants se fait dans le cadre de concours calibrés en fonction des besoins de l'éducation nationale, eux-mêmes déterminés en analysant le nombre de départs à la retraite, les prévisions d'effectifs d'élèves ainsi que d'éventuelles évolutions pédagogiques ; en l'occurrence ces dernières sont plutôt favorables à l'éducation physique et sportive. En ce qui concerne l'éducation physique, pendant plusieurs années, le nombre de postes ouverts aux concours a été très supérieur au nombre de départs. Ainsi, à la rentrée 2005, 615 enseignants titulaires se trouvaient en sureffectif. Aujourd'hui, la proportion des enseignants d'éducation physique et sportive dans cette situation est supérieure à celle observée dans l'ensemble des disciplines. L'évolution du nombre des recrutements aux concours de l'année 2009 en éducation physique et sportive a donc précisément pour objet de prendre en compte les sureffectifs qui perdurent encore cette année. L'amélioration de la mobilisation des enseignants, réalisée ces dernières années dans la discipline, et la place reconnue à cet enseignement ont conduit, au plan national, à maintenir les recrutements en 2008 et 2009 au même niveau qu'en 2007, ce qui n'est pas le cas dans toutes les disciplines, puisque pour la plupart d'entre elles le nombre de recrutements a baissé. Les ouvertures de postes aux concours de recrutement des enseignants d'éducation physique et sportive sont réexaminées chaque année au regard des départs à la retraite et des besoins d'enseignement dans chaque discipline et également en EPS, cela ne saurait signifier une diminution quelconque de l'offre éducative pour les élèves.
