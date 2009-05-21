@@ -14,21 +14,17 @@ MESURES DE SURVEILLANCE
 
 |
 
-Négligeable 1.
-
-Négligeable 2.
+Négligeable.
 
 |
 
 Surveillance des mortalités des oiseaux sauvages :
 
-- ses modalités sont précisées par instruction ; cette surveillance implique la collaboration des agents de l'Office national de la chasse et de la faune sauvage, des sociétés de chasse, des organisations en charge de l'observation, l'étude ou la protection des oiseaux sauvages, ainsi que toutes les personnes fréquentant les milieux naturels et les gestionnaires des espaces publics ;
+- ses modalités sont précisées par instruction ; cette surveillance implique la collaboration des agents de l'Office national de la chasse et de la faune sauvage, des sociétés de chasse, des organisations en charge de l'observation, l'étude ou la protection des oiseaux sauvages,
+
+ainsi que toutes les personnes fréquentant les milieux naturels et les gestionnaires des espaces publics ;
 
 - cette surveillance vient en complément des autres surveillances conduites : programme de surveillance active des oiseaux sauvages, surveillance clinique des élevages, surveillances particulières des élevages de gibier de repeuplement et des appelants, programme d'enquête annuelle de l'influenza aviaire dans les élevages de volailles.
-
-|
-
-|
 
 |
 

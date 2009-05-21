@@ -10,9 +10,9 @@ Il est destiné à être appliqué dans les élevages de volailles autres que le
 
 Il comprend deux groupes de pratiques sanitaires.
 
-Le premier groupe de pratiques sanitaires est d'application obligatoire dans tous les élevages de volailles autres que les basses-cours, dès que le risque épizootique défini par le ministère en charge de l'agriculture se situe au niveau négligeable 1 (sauf mention contraire) ou à l'un des niveaux plus élevés.
+Le premier groupe de pratiques sanitaires est d'application obligatoire dans tous les élevages de volailles autres que les basses-cours, dès que le risque épizootique défini par le ministère en charge de l'agriculture se situe au niveau négligeable (sauf mention contraire) ou à l'un des niveaux plus élevés.
 
-Le deuxième groupe de pratiques sanitaires est d'application facultative mais néanmoins recommandée dès que le niveau de risque épizootique influenza se situe à l'un des niveaux négligeable ou faible afin de permettre aux éleveurs d'en préparer l'application obligatoire aux niveaux plus élevés.
+Le deuxième groupe de pratiques sanitaires est d'application facultative mais néanmoins recommandée dès que le niveau de risque épizootique influenza se situe au niveau négligeable ou faible afin de permettre aux éleveurs d'en préparer l'application obligatoire aux niveaux plus élevés.
 
 Il est d'application obligatoire dans tous les élevages de volailles autres que les basses-cours :
 
@@ -48,7 +48,7 @@ de mesures
 
 |
 
-Négligeable 1.
+Négligeable
 
 |
 
@@ -64,21 +64,11 @@ Recommandées
 
 |
 
-Négligeable 2.
+Faible
 
 |
 
-|
-
-|
-
-|
-
-Faible.
-
-|
-
-Partie du territoire où le niveau de risque épizootique est faible
+Partie du territoire où le niveau de risque épizootique est faible.
 
 |
 
@@ -90,11 +80,11 @@ Recommandées
 
 |
 
-Modéré.
+Modéré
 
 |
 
-Partie du territoire où le niveau de risque épizootique est modéré à l'exception des zones à risque particulier prioritaires de ces territoires)
+Partie du territoire où le niveau de risque épizootique est modéré à l'exception des zones à risque particulier prioritaires de ces territoires.
 
 |
 
@@ -106,9 +96,7 @@ Recommandées
 
 |
 
-|
-
-Zones à risque particulier prioritaires des parties du territoire où le niveau de risque épizootique est modéré
+Zones à risque particulier prioritaires des parties du territoire où le niveau de risque épizootique est modéré.
 
 |
 
@@ -120,19 +108,15 @@ Obligatoires
 
 |
 
-Elevé.
+Elevé
 
 |
 
-Partie du territoire où le niveau de risque épizootique est élevé
+Partie du territoire où le niveau de risque épizootique est élevé.
 
 |
 
 Obligatoires
-
-|
-
-|
 
 |
 
@@ -140,13 +124,11 @@ Très élevé
 
 |
 
-Partie du territoire où le niveau de risque épizootique est très élevé
+Partie du territoire où le niveau de risque épizootique est très élevé.
 
 |
 
-|
-
-Des dispositions particulières de protection et de surveillance sont imposées aux élevages situés dans les zones réglementées établies par arrêté préfectoral, lors de foyer d'influenza aviaire ou de cas d'infection de l'avifaune sauvage ; elles ne figurent pas dans ce guide.
+Des dispositions particulières de protection et de surveillance sont imposées aux élevages situés dans les zones réglementées établies par arrêté préfectoral, lors de foyer d'influenza aviaire ou de cas d'infection de l'avifaune sauvage ; elles ne figurent pas dans ce guide. "
 
 II. - Prérequis
 
@@ -166,19 +148,17 @@ L'application de ce guide de bonnes pratiques sanitaires, qui relève de la resp
 
 III. - Définitions
 
-Zone d'élevage » : zone comprenant un bâtiment d'élevage ou/et un parcours, un enclos ou une volière et leurs abords où sont présentes des volailles.
+Zone d'élevage : zone comprenant un bâtiment d'élevage ou/et un parcours, un enclos ou une volière et leurs abords où sont présentes des volailles.
 
-Site d'élevage avicole » : ensemble des différentes zones d'élevage existant sur le site de l'exploitation, pouvant s'étendre sur une partie ou sur la totalité de ce dernier, comprenant également les lieux de stockage des aliments, des litières, du matériel dédié à l'élevage des volailles ainsi que le bac d'équarrissage et le lieu de stockage des fientes et litières usagées. Il peut y avoir plusieurs sites d'élevage sur le site d'une exploitation si les zones d'élevage sont trop dispersées.
+Site d'élevage avicole : ensemble des différentes zones d'élevage existant sur le site de l'exploitation, pouvant s'étendre sur une partie ou sur la totalité de ce dernier, comprenant également les lieux de stockage des aliments, des litières, du matériel dédié à l'élevage des volailles ainsi que le bac d'équarrissage et le lieu de stockage des fientes et litières usagées. Il peut y avoir plusieurs sites d'élevage sur le site d'une exploitation si les zones d'élevage sont trop dispersées.
 
-Abords » : aire d'une largeur de 5 mètres entourant la zone d'élevage.
+Abords : aire d'une largeur de 5 mètres entourant la zone d'élevage.
 
-Aire bétonnée » : zone bétonnée maintenue propre se trouvant devant l'entrée d'un bâtiment d'élevage, destinée exclusivement à déposer les litières neuves ou d'autres matériels à introduire dans les zones d'élevage et permettant de les préserver de toute souillure.
+Aire bétonnée : zone bétonnée maintenue propre se trouvant devant l'entrée d'un bâtiment d'élevage, destinée exclusivement à déposer les litières neuves ou d'autres matériels à introduire dans les zones d'élevage et permettant de les préserver de toute souillure.
 
 IV. - Premier groupe de pratiques sanitaires
 
-a) Identification et délimitation du site de l'élevage avicole
-
-et des différentes zones d'élevage
+a) Identification et délimitation du site de l'élevage avicole et des différentes zones d'élevage
 
 La protection sanitaire commence dès l'entrée sur le site d'élevage. Les mesures de protection s'appliquent aux animaux, aux personnes et aux véhicules. La délimitation du site d'élevage doit être matérialisée (avec des chaînettes, des barrières ou du grillage, par exemple) pour permettre le contrôle des accès. Chaque zone d'élevage doit être identifiée par une marque visible. Si celle-ci fait défaut, chaque zone d'élevage est identifiée sur le plan devant se trouver dans le registre d'élevage.
 
@@ -200,9 +180,7 @@ dans le site d'élevage avicole
 
 Aucun animal domestique autre que les volailles concernées ne peut pénétrer à l'intérieur des zones d'élevages occupées par les volailles.
 
-e) Protection de l'alimentation
-
-et de l'abreuvement des volailles
+e) Protection de l'alimentation et de l'abreuvement des volailles
 
 L'approvisionnement des oiseaux en aliments et en eau de boisson doit se faire à l'intérieur d'un bâtiment ou au moyen de distributeurs disposés à l'extérieur et protégés de telle façon que les oiseaux sauvages ne puissent accéder à ces dispositifs ni les souiller.
 
@@ -218,17 +196,13 @@ f) Lutte contre les rongeurs
 
 Il faut mettre en place un plan de dératisation pour l'ensemble du site de l'élevage (sans oublier la zone de stockage de la paille).
 
-g) Litière (obligatoire à partir du niveau
+g) Litière (obligatoire à partir du niveau de risque épizootique faible)
 
-de risque épizootique faible)
-
-Lors de la première mise en place de la litière neuve et lors des apports en cours de bande, aucune boue de l'extérieur de la zone d'élevage ne doit être introduite (en particulier par les roues du tracteur, d'autres outils ou les bottes des opérateurs). Cette mesure est recommandée à partir du niveau de risque épizootique négligeable 1. Elle est obligatoire à partir du niveau de risque épizootique faible.
+Lors de la première mise en place de la litière neuve et lors des apports en cours de bande, aucune boue de l'extérieur de la zone d'élevage ne doit être introduite (en particulier par les roues du tracteur, d'autres outils ou les bottes des opérateurs). Cette mesure est recommandée à partir du niveau de risque épizootique négligeable. Elle est obligatoire à partir du niveau de risque épizootique faible.
 
 V. - Deuxième groupe de pratiques sanitaires
 
-a) Contrôle de l'entrée des personnes
-
-dans le site d'élevage avicole
+a) Contrôle de l'entrée des personnes dans le site d'élevage avicole
 
 Toute entrée de personnes (y compris l'éleveur) sur le site d'élevage doit se faire par un sas sanitaire dans lequel la personne entrante doit changer de tenue vestimentaire et de chaussures pour revêtir des tenues complètes, propres et exclusivement réservées à cet effet.
 
@@ -238,7 +212,7 @@ Deux cas de figure sont possibles :
 
 - local clos propre, rangé, nettoyé et désinfecté entre chaque bande, comportant :
 
-- une partie appelée zone sale » (avec un accès à l'extérieur de l'élevage) et une autre partie appelée zone propre » (avec un accès à l'intérieur de l'élevage), séparées, avec rappel visualisant la limite des deux parties ;
+- une partie appelée zone sale (avec un accès à l'extérieur de l'élevage) et une autre partie appelée zone propre (avec un accès à l'intérieur de l'élevage), séparées, avec rappel visualisant la limite des deux parties ;
 
 - un lavabo fonctionnel muni d'un savon et d'un essuie-main (papier jetable de préférence) ;
 
@@ -262,9 +236,7 @@ Seules les personnes indispensables pénètrent dans les zones d'élevage. Elles
 
 L'éleveur doit changer de tenue complète avant de rentrer dans un site d'élevage lorsqu'il revient d'une activité en lien avec un milieu naturel humide (chasse, pêche, entretien d'étangs, etc.).
 
-b) Contrôle des véhicules et matériels
-
-provenant de l'extérieur du site d'élevage
+b) Contrôle des véhicules et matériels provenant de l'extérieur du site d'élevage
 
 Une zone de parking est prévue à l'extérieur du site d'élevage. Seuls pénètrent dans le site d'élevage les véhicules indispensables. Des zones de circulation doivent être prévues à l'intérieur du site d'élevage.
 
@@ -342,9 +314,7 @@ h) Ramassage quotidien et stockage des volailles mortes
 
 Le ramassage des volailles mortes est réalisé au moins une fois par jour. Selon la durée de stockage des cadavres, ces derniers sont conservés sous régime du froid positif voire dans une enceinte à température négative, puis déposés dans un bac d'équarrissage étanche en périphérie du site d'élevage. Le bac et ses abords doivent être nettoyés et désinfectés régulièrement.
 
-i) Présence de basse-cour ou de palmipèdes
-
-sur le site d'élevage
+i) Présence de basse-cour ou de palmipèdes sur le site d'élevage
 
 Toute basse-cour présente sur le site d'élevage est considérée comme une zone d'élevage particulière.
 
@@ -364,7 +334,7 @@ VI. - Evaluation et contrôle de l'application des pratiques prévues par le gui
 
 Dans les élevages non confinés ou non protégés par des filets, le respect des bonnes pratiques sanitaires du premier groupe et du second groupe (lorsque ces dernières sont rendues obligatoires) est évalué selon les modalités suivantes :
 
-- l'éleveur est tenu de faire évaluer l'application des pratiques prévues par le guide par son vétérinaire sanitaire lors d'une visite obligatoire intitulée visite vétérinaire d'inspection sanitaire des volailles et d'évaluation des mesures de biosécurité » ;
+- l'éleveur est tenu de faire évaluer l'application des pratiques prévues par le guide par son vétérinaire sanitaire lors d'une visite obligatoire intitulée visite vétérinaire d'inspection sanitaire des volailles et d'évaluation des mesures de biosécurité ;
 
 - elle a lieu à l'initiative et à la charge de l'éleveur et est réalisée par le vétérinaire sanitaire de son choix ;
 
