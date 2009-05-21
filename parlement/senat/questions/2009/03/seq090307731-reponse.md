@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307731
+
+- Question : [SEQ090307731](seq090307731.md) — Assurance d'une église paroissiale ou d'une chapelle
+
+## Réponse
+
+*Intérieur, JO du 2009-05-21, page 1289*
+
+Le 4° de l'article 37 du décret du 30 décembre 1809 sur les fabriques met explicitement à la charge de la fabrique « les assurances des biens et des personnes et la couverture des risques de responsabilité civile » de la paroisse. Toutefois, aux termes des dispositions combinées de l'article 92 du décret précité et de l'article L. 2543-3 du code général des collectivités territoriales, la commune doit pourvoir à l'ensemble des dépenses de fonctionnement et d'investissement de la paroisse, et notamment, les travaux sur l'église. En cas d'insuffisance de revenus de la fabrique, l'obligation pèse sur la commune de couvrir à titre subsidiaire les dépenses visées à l'article 37 du décret du 30 décembre 1809, et en particulier celles d'entretien, de réparation et, le cas échéant, de reconstruction de l'église. Dès lors, il appartient à l'autorité communale d'apprécier l'opportunité de souscrire une assurance complémentaire à celle devant être souscrite normalement par la fabrique en application des dispositions réglementaires précitées. Par ailleurs, la mise en jeu de la responsabilité communale pourrait être recherchée si un dommage survenait à l'occasion d'un usage non exclusivement cultuel de l'église. Aucune obligation d'entretien n'est en revanche imposée à la fabrique à l'égard d'une chapelle non paroissiale, cet édifice répondant à la définition de chapelle de secours, qui n'appartient pas à l'organisation territoriale et nécessaire des cultes, selon les termes employés dans un avis du Conseil d'État du 5 janvier 1869. La charge de l'assurance incombe donc dans ce cas à la commune en sa qualité de propriétaire à défaut d'engagement volontaire et formel du conseil de fabrique de pourvoir aux dépenses d'entretien et d'assurance de ladite chapelle.
