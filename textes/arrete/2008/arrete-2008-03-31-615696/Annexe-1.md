@@ -22,42 +22,6 @@ communautaire
 
 |
 
-Cabillaud.
-
-|
-
-CIEM IV a, b, c.
-
-CIEM II a, eaux communautaires
-
-(mer du Nord).
-
-CIEM VII d (Manche est).
-
-|
-
-R (CE) n° 40/2008 du Conseil
-
-du 16 janvier 2008.
-
-|
-
-|
-
-CIEM VI a (ouest Ecosse).
-
-|
-
-|
-
-|
-
-CIEM VII a (mer d'Irlande).
-
-|
-
-|
-
 Sole.
 
 |
