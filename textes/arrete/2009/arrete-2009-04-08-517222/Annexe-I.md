@@ -18,7 +18,7 @@ QUOTA 2009 (EN TONNES)
 
 en océan Atlantique
 
-à l'est de la longitude 45° ouest
+à l'est de la longitude 45° Ouest
 
 |
 
@@ -62,7 +62,7 @@ SAINTE BERNADETTE 2
 
 |
 
-3
+0, 187
 
 |
 
@@ -78,7 +78,7 @@ VENT DU NORD
 
 |
 
-164
+166, 813
 
 |
 
@@ -170,7 +170,7 @@ JEAN MARIE CHRISTIAN 5
 
 |
 
-SAINT SOPHIE FRANCOIS 2
+ST SOPHIE FRANÇOIS 2
 
 |
 
@@ -346,7 +346,7 @@ GERALD JEAN III
 
 |
 
-SAINT ANTOINE MARIE II
+ST ANTOINE MARIE II
 
 |
 
@@ -394,7 +394,7 @@ CISBERLANDE 5
 
 |
 
-SAINT SOPHIE FRANCOIS 3
+ST SOPHIE FRANÇOIS 3
 
 |
 
