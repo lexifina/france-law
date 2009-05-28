@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408148
+
+- Question : [SEQ090408148](seq090408148.md) — Soutien à l'autonomie  du Palais de la découverte
+
+## Réponse
+
+*Enseignement supérieur, JO du 2009-05-28, page 1336*
+
+Le regroupement des deux établissements que sont le Palais de la découverte et la Cité des sciences et de l'industrie, annoncé par le Président de la République en décembre 2007, n'est en aucune manière une absorption du Palais de la découverte par la Cité des sciences et de l'industrie. Il s'agit au contraire de doter notre pays d'un grand opérateur dans le domaine de la culture scientifique et technique. Ce nouvel établissement, qui a vocation à devenir une référence, tant en France qu'à l'étranger, doit s'appuyer sur les atouts et les identités respectifs des deux établissements actuels, afin de forger une ambition nouvelle commune. Ces principes sont clairement affichés dans la lettre de mission de Mme Claudie Haigneré, chargée par les ministres de l'enseignement supérieur et de la recherche, et de la culture et de la communication, de préfigurer le nouvel établissement. Le choix d'une personnalité scientifique de renom, attachée à la promotion de la culture scientifique et technique et connaissant bien les deux établissements, démontre la volonté de préserver les acquis des deux établissements actuels dans le nouvel établissement. Il faut ajouter que le projet de décret prévoit que les activités de l'établissement s'exerceront sur les deux sites actuels et que des moyens nouveaux et importants d'investissement ont été prévus dans la loi de finances 2009 pour le Palais de la découverte. L'ensemble de ces éléments montre qu'il ne s'agit pas d'une disparition ou d'une absorption du Palais de la découverte, ni d'un rapprochement contre nature mais bien de la mise en place d'un projet fédérateur, qui saura reprendre et mettre en synergie les meilleures pratiques et la dynamique des deux établissements.
