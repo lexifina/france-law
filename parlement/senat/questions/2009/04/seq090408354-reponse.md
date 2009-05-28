@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408354
+
+- Question : [SEQ090408354](seq090408354.md) — Situation d'un prisonnier d'opinion au Vietnam
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-05-28, page 1329*
+
+Le cas de M. Truong Quoc Huy est bien connu du ministère des affaires étrangères et européennes, lequel suit avec la plus grande attention l'évolution de la situation des droits de l'homme au Vietnam, en particulier celles des libertés publiques. À l'occasion d'arrestations et de condamnations de défenseurs des droits de l'homme, nous avons réagi, à titre national ou en tant que présidence de l'Union européenne, par des déclarations exprimant notre préoccupation et notre souhait de voir ces personnes relâchées. De plus, la France qui a exercé localement la présidence de l'Union pendant toute l'année écoulée, a conduit plusieurs démarches en troïka pour alerter les autorités vietnamiennes compétentes sur certains cas précis ou faire état d'une préoccupation générale quant à la situation des droits de l'homme au Vietnam. Par ailleurs, tous les six mois, se tient à Hanoi un dialogue UE-Vietnam consacré aux droits de l'homme. À cette occasion, les partenaires européens passent en revue tous les sujets de préoccupation avec l'ensemble des administrations vietnamiennes concernées et leur remettent la liste des défenseurs des droits de l'homme emprisonnés tenue par l'UE. M. Truong Quoc Huy, condamné pour « propagande contre l'État », figure naturellement sur cette liste. Son cas est ainsi régulièrement porté à l'attention des autorités vietnamiennes, lesquelles ont récemment fait savoir qu'il était détenu à la prison de Xuan Loc. La France et ses partenaires européens poursuivront ce dialogue exigeant avec les autorités vietnamiennes. Par le passé, ces échanges entre l'Union européenne et le Vietnam avaient permis d'obtenir des résultats significatifs, comme la libération, en 2006, de la grande figure de la dissidence, Pham Hong Son.
