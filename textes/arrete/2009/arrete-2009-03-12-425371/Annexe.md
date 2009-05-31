@@ -8,7 +8,7 @@ Taux applicable
 
 |
 
-Corps des ingénieurs des services techniques (régi par le décret n° 2005-1304 du 19/10/2005 modifié)
+Corps des ingénieurs des services techniques (régi par le décret n° 2005-1304 du 19 / 10 / 2005 modifié)
 
 |
 
@@ -20,7 +20,7 @@ Ingénieur principal des services techniques
 
 |
 
-Corps des contrôleurs des services techniques et du matériel (régi par le décret n° 97-259 du 17/03/1997 modifié)
+Corps des contrôleurs des services techniques et du matériel (régi par le décret n° 97-259 du 17 / 03 / 1997 modifié)
 
 |
 
@@ -40,7 +40,7 @@ Contrôleur de classe exceptionnelle des services techniques et du matériel (co
 
 |
 
-Corps des contremaîtres (régi par le décret n° 92-1119 du 02/10/1992 modifié)
+Corps des contremaîtres (régi par le décret n° 92-1119 du 02 / 10 / 1992 modifié)
 
 |
 
@@ -48,11 +48,11 @@ Contremaître principal
 
 |
 
-10%
+10 %
 
 |
 
-Corps des adjoints techniques (régi par le décret n° 2006-1761 du 23/12/2006)
+Corps des adjoints techniques (régi par le décret n° 2006-1761 du 23 / 12 / 2006)
 
 |
 
@@ -60,7 +60,11 @@ Adjoint technique de 1re classe
 
 |
 
-33 %
+33 % en 2009
+
+30 % en 2010
+
+30 % en 2011
 
 |
 
@@ -80,7 +84,7 @@ Adjoint technique principal de 1re classe
 
 |
 
-Corps des assistants de service social (régi par le décret n° 91-783 du 01/08/1991 modifié)
+Corps des assistants de service social (régi par le décret n° 91-783 du 01 / 08 / 1991 modifié)
 
 |
 
@@ -92,7 +96,7 @@ Assistant de service social principal
 
 |
 
-Corps des ingénieurs des systèmes d'information et de communication (régi par le décret n° 84-238 du 29/03/1984 modifié)
+Corps des ingénieurs des systèmes d'information et de communication (régi par le décret n° 84-238 du 29 / 03 / 1984 modifié)
 
 |
 
@@ -104,7 +108,7 @@ Ingénieur principal des systèmes d'information et de communication (conformém
 
 |
 
-Corps des techniciens des systèmes d'information et de communication (régi par le décret n° 2000-798 du 24/10/2000 modifié)
+Corps des techniciens des systèmes d'information et de communication (régi par le décret n° 2000-798 du 24 / 10 / 2000 modifié)
 
 |
 
@@ -124,7 +128,7 @@ Technicien des systèmes d'information et de communication de classe exceptionne
 
 |
 
-Corps des agents des systèmes d'information (régi par le décret n° 69-904 du 29/10/1969 modifié)
+Corps des agents des systèmes d'information (régi par le décret n° 69-904 du 29 / 10 / 1969 modifié)
 
 |
 
