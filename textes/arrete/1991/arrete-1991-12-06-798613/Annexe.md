@@ -558,7 +558,7 @@ A
 
 |
 
-4. Personnels nommés dans l'emploi d' administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche
+4. Personnels nommés dans l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
 |
 
@@ -1784,7 +1784,7 @@ VII.-Fonctions exercées par les personnels enseignants du premier et du second 
 
 |
 
-a) Personnels enseignants du premier degré titulaires d'un diplôme spécialisé pour l'enseignement des jeunes handicapés affectés soit dans une classe d'intégration scolaire, soit dans une classe de perfectionnement créées dans une école maternelle ou élémentaire, ou chargés exclusivement du soutien pédagogique itinérant à l'intégration individuelle d'enfants handicapés dans une école maternelle ou assurant le secrétariat d'une commission départementale d'éducation spéciale :
+a) Personnels enseignants du premier degré affectés soit dans une classe d'intégration scolaire, soit dans une classe de perfectionnement créées dans une école maternelle ou élémentaire, ou chargés exclusivement du soutien pédagogique itinérant à l'intégration individuelle d'enfants handicapés dans une école maternelle ou assurant le secrétariat d'une commission départementale d'éducation spéciale :
 
 |
 
