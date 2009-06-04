@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408443
+
+- Question : [SEQ090408443](seq090408443.md) — Suppression du poste de consul général de France à Yaoundé
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-06-04, page 1381*
+
+Dans le cadre de la révision générale des politiques publiques (RGPP), un nombre restreint de consulats ou de consulats généraux situés dans des capitales sera transformé en sections consulaires d'ambassade. Comme toutes les sections consulaires, celles qui seront créées à la suite de cette réforme seront dirigées par un agent de catégorie B (chef de chancellerie). Celui-ci exercera, par délégation de l'ambassadeur et sous son contrôle, toutes les attributions consulaires et financières nécessaires au fonctionnement du service. Le consulat général de France à Yaoundé (Cameroun) sera, à l'été 2009, le premier poste à faire l'objet de cette réforme. Le poste de consul général, agent de catégorie A, sera supprimé au départ de son titulaire, et la section consulaire de l'ambassade sera encadrée par le chef de chancellerie, dont le poste existe déjà. Cette transformation n'aura pas d'autre conséquence sur l'organisation et le fonctionnement du poste, et n'entraînera aucune dégradation du service consulaire. Les postes de travail dédiés à l'administration des Français et à la délivrance des visas seront en effet intégralement conservés. Avec 19 ETP, la section consulaire de l'ambassade de France à Yaoundé restera parfaitement en mesure d'assumer la gestion administrative de 2 000 Français inscrits et l'instruction de 10 000 demandes de visas. En tant que de besoin, le ministère des affaires étrangères et européennes continuera naturellement, comme par le passé, de mettre à la disposition du poste les mois vacations ou les missions de renfort dont il pourrait avoir besoin pour faire face à un surcroît ponctuel d'activité.
