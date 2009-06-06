@@ -138,18 +138,6 @@ Ecole pratique des hautes études
 
 |
 
-Institut universitaire de formations des maîtres du Pacifique
-
-|
-
-3
-
-|
-
-3
-
-|
-
 Centre technique du livre de l'enseignement supérieure
 
 |
@@ -291,30 +279,6 @@ Ecole nationale d'ingénieurs de Tarbes
 |
 
 5
-
-|
-
-Ecole nationale supérieure d'électronique, informatique et radiocommunications de Bordeaux
-
-|
-
-5
-
-|
-
-5
-
-|
-
-Ecole nationale supérieure de chimie et de physique de Bordeaux
-
-|
-
-4
-
-|
-
-4
 
 |
 
@@ -495,6 +459,16 @@ Institut d'études politiques de Rennes |
 |
 
 Ecole nationale supérieure d'ingénieurs de Caen |
+
+5
+
+|
+
+5
+
+|
+
+Institut d'études politiques de Bordeaux |
 
 5
 
