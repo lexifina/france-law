@@ -6,7 +6,7 @@ Le chef de la mission diplomatique située au chef-lieu de la circonscription é
 
 Le candidat ou son mandataire ou, dans les circonscriptions où l'élection a lieu au scrutin de liste à la représentation proportionnelle, le candidat placé en tête de liste ou son mandataire dispose d'un délai de soixante-douze heures pour contester le refus d'enregistrement de la déclaration de candidature devant le tribunal administratif de Paris qui statue dans les trois jours.
 
-Dans les circonscriptions où l'élection a lieu au scrutin de liste à la représentation proportionnelle, lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux conditions d'éligibilité ou d'inéligibilité ou à l'interdiction des cumuls de candidatures, le candidat placé en tête de liste ou son mandataire dispose d'un délai de soixante-douze heures pour compléter la liste à compter de la notification de ce refus ou de la notification de la décision du tribunal administratif confirmant le refus.
+Dans les circonscriptions où l'élection a lieu au scrutin de liste à la représentation proportionnelle, lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux conditions d'éligibilité ou d'inéligibilité, à l'interdiction des cumuls de candidature ou à l'égal accès des femmes et des hommes aux mandats électoraux, le candidat placé en tête de liste ou son mandataire dispose d'un délai de soixante-douze heures pour compléter la liste à compter de la notification de ce refus ou de la notification de la décision du tribunal administratif confirmant le refus.
 
 Dans les circonscriptions où l'élection a lieu au scrutin majoritaire, le candidat ou son mandataire peut, dans les mêmes conditions, remplacer son suppléant qui a fait l'objet d'une décision de refus d'enregistrement.
 
@@ -18,4 +18,4 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 NOTA :
 
-Loi 2007-128 du 31 janvier 2007 art. 6 II : L'article 6 de la présente loi entre en vigueur à compter du renouvellement partiel de l'Assemblée des Français de l'étranger (7 juin 2009).
+Loi 2007-128 du 31 janvier 2007 art. 6 : L'article 6 de la présente loi entre en vigueur à compter du renouvellement partiel de l'Assemblée des Français de l'étranger en 2009 (7 juin 2009).
