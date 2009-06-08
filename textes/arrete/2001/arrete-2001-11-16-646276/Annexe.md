@@ -8,49 +8,51 @@ DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
 |
 
-Directeur d'administration centrale du ministère de la santé, de la jeunesse et des sports
+Directeur des sports
 
 |
 
-4
+1 |
+
+150 |
+
+Directeur de la jeunesse, de l'éducation populaire et de la vie associative
 
 |
 
-140
+1 |
+
+150 |
+
+Directeur des affaires financières, juridiques et des services
 
 |
 
-2° Chef du service de l'inspection générale
+1 |
 
-de la jeunesse et des sports
+150 |
+
+2° Chef du service de l'inspection générale de la jeunesse et des sports
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
@@ -60,13 +62,9 @@ Chef du service de l'inspection générale
 
 |
 
-1
+1 |
 
-|
-
-140
-
-|
+140 |
 
 3° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur
 
@@ -74,17 +72,33 @@ DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
+
+|
+
+Ajouter la mention : à compter du 1er mars 2010
+
+|
+
+|
+
+|
+
+Chef de service, adjoint à la directrice des ressources humaines
+
+|
+
+1
+
+|
+
+120
 
 |
 
@@ -96,23 +110,11 @@ Adjoint au directeur des sports
 
 |
 
-110
+120
 
 |
 
-Adjoint au directeur de la jeunesse et de l'éducation populaire
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Adjoint au directeur de la vie associative, de l'emploi et des formations
+Adjoint au directeur de la jeunesse, de l'éducation populaire et de la vie associative
 
 |
 
@@ -120,19 +122,7 @@ Adjoint au directeur de la vie associative, de l'emploi et des formations
 
 |
 
-110
-
-|
-
-Adjoint au directeur des ressources humaines, de l'administration et de la coordination générale
-
-|
-
-2
-
-|
-
-110
+120
 
 |
 
@@ -142,31 +132,55 @@ DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
 |
 
-Sous-directeur au ministère de la santé, de la jeunesse et des sports
+Sous-directeur à la direction des sports
 
 |
 
-6
+3 |
+
+110 |
+
+Sous-directeur à la direction de la jeunesse, de l'éducation populaire et de la vie associative
 
 |
 
-100
+1 |
+
+110 |
+
+Sous-directeur des affaires financières
 
 |
+
+1 |
+
+100 |
+
+Ajouter la mention : à compter du 1er mars 2010
+
+|
+
+|
+
+|
+
+Sous-directeur des services généraux et de l'immobilier, direction des affaires financières, juridiques et des services
+
+|
+
+1 |
+
+80 |
 
 5° Directeur de projet
 
@@ -174,31 +188,39 @@ DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
 |
 
-Directeur de projet "politique de gestion des ressources humaines"
+Directeur de projet suivi des dossiers relatifs à l'administration territoriale
 
 |
 
-1
+1 |
+
+80 |
+
+Directeur de projet politique de gestion des ressources humaines
 
 |
 
-80
+1 |
+
+80 |
+
+Directeur de projet animation des réseaux
 
 |
+
+1 |
+
+80 |
 
 B. - Emplois en services déconcentrés
 
@@ -690,9 +712,7 @@ Moselle
 
 |
 
-3° Directeur régional adjoint de la jeunesse,
-
-des sports et des loisirs
+3° Directeur régional adjoint de la jeunesse,des sports et des loisirs
 
 DÉSIGNATION DE L'EMPLOI
 
