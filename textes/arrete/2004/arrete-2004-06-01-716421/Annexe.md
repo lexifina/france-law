@@ -2,9 +2,11 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+
 Intitulé :
 
-Titre professionnel de monteur (se) régleur (se) de systèmes mécaniques et automatisés.
+Titre professionnel : monteur(se) qualifié(e) d'équipements industriels (ancien intitulé : monteur[se] régleur[se] de systèmes mécaniques et automatisés).
 
 Niveau : V.
 
@@ -12,83 +14,77 @@ Code NSF : 251 r.
 
 Résumé du référentiel d'emploi
 
-A partir d'un plan d'ensemble et de schémas, généralement sans l'aide de gamme de montage, le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés réalise le montage puis le réglage d'ensembles mécaniques et de composants d'automatismes électriques, hydrauliques et pneumatiques. Il (elle) participe également à la mise au point d'ensembles automatisés, afin de livrer des ensembles mécaniques directement opérationnels ou des ensembles mécaniques automatisés à un metteur au point.
+Le monteur qualifié d'équipements industriels :
 
-Au cours des différentes étapes de son travail, le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés veille à fournir au client un ensemble opérationnel fiable et conforme aux spécifications du cahier des charges.
+- monte des biens d'équipement : machines de production unitaire ou en petites séries (machines spéciales), lignes de fabrication, prototypes, sous-ensembles de machines, équipements spéciaux tels que turbines, équipements de levage, ascenseurs, escaliers mécaniques... ;
 
-Le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés exerce généralement dans un atelier de montage, fréquemment debout, au sol ou sur table de montage. Les ateliers sont parfois bruyants mais les moyens de protection auditive sont rarement nécessaires.
+- analyse les plans et documents, s'assure de la faisabilité de l'intervention et de la conformité des approvisionnements ;
 
-Selon la taille et la complexité du travail à réaliser, la durée de réalisation d'un montage ou d'un chantier peut varier de quelques minutes à plusieurs jours.
+- monte, ajuste, règle et contrôle des pièces et systèmes mécaniques, le plus souvent selon des plans d'ensembles et/ou de modes opératoires et parfois sans aucun document. Son savoir-faire lui permet de mettre en œuvre des modifications de pièces ou de sous-ensembles, nécessaires au montage et au bon fonctionnement ;
 
-Le (la) monteur (se) régleur (se) de systèmes mécaniques et automatisés peut se déplacer dans des entreprises pour participer au montage ou à la mise au point de divers équipements. Ses déplacements peuvent s'effectuer à l'échelle nationale, voire internationale.
+- monte, raccorde et règle des éléments pneumatiques et hydrauliques selon des plans et schémas ;
 
-En atelier, les horaires sont réguliers, alors que chez le client, les contraintes de délais peuvent imposer des horaires particuliers.
+- monte et règle mécaniquement des éléments électriques selon des plans ;
 
-Compétences attestées et descriptif
+- effectue la mise au point de sous-ensembles et/ou de machines complètes afin de les rendre opérationnels ;
+
+- renseigne les documents d'avancement et de validation de l'intervention.
+
+Le monteur qualifié d'équipements industriels travaille dans un atelier de montage propre à son entreprise ou dans celui du client. Le montage peut aussi s'effectuer sur le site définitif de production de la machine à monter. Dans ce dernier cas, le monteur doit alors être mobile à diverses échelles : régionale, nationale ou internationale.
+
+Le montage d'équipements industriels est une activité d'entreprises de toutes tailles, d'une dizaine de salariés au groupe industriel international. Dans les petites entreprises, le monteur est généralement très polyvalent. Plus l'entreprise est grande, plus son activité est cadrée et spécialisée.
+
+Selon la taille et la complexité du travail à réaliser, la durée de réalisation d'un montage peut varier de quelques heures à plusieurs mois.
+
+Il travaille debout, au sol, sur table de montage ou sur l'équipement lui-même. Les ateliers de montage sont normalement silencieux et bien éclairés, mais peuvent être affectés par des nuisances générées par des essais d'équipements ou par les activités connexes de l'entreprise.
+
+En atelier, les horaires sont plutôt réguliers et à la journée, parfois en équipe. Chez le client, les contraintes de délais imposent souvent des horaires particuliers.
+
+Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Implanter des éléments mécaniques et des composants d'automatismes sur différents supports de biens d'équipements industriels
+1. Monter et régler des équipements mécaniques industriels
 
-Implanter et fixer des composants d'automatismes sur différents types de supports, à partir de plans d'implantation.
+Préparer et réceptionner une intervention de montage d'équipements mécaniques.
 
-Assembler des systèmes mécaniques sans réglage, à l'aide d'une notice.
+Manutentionner des équipements industriels.
 
-Réaliser l'assemblage par vissage et le calage de châssis en profilés, à partir de plans ou de schémas.
+Monter et régler des ensembles mécaniques fixes.
 
-2. Monter des ensembles mécaniques
+Monter et régler des ensembles mécaniques de guidage en translation et en rotation.
 
-de biens d'équipements industriels
+Monter et régler des ensembles mécaniques de transmission.
 
-Réaliser des montages de sous-ensembles tournants présentant des contraintes d'étanchéité.
+2. Monter, raccorder et régler des équipements industriels
 
-Réaliser des montages d'ensembles mécaniques comprenant des systèmes de guidage linéaires.
+pneumatiques, hydrauliques et électriques
 
-Assembler des montages pour l'usinage et le contrôle, avec des éléments modulaires réutilisables et à partir de croquis ou de photos.
+Préparer et réceptionner une intervention de montage d'équipements pneumatiques, hydrauliques et électriques.
 
-Effectuer le raccordement d'ensembles comportant des composants électriques, pneumatiques ou hydrauliques.
+Monter, raccorder et régler des organes pneumatiques.
 
-3. Régler des ensembles mécaniques
+Monter, raccorder et régler des organes hydrauliques.
 
-de biens d'équipements industriels
+Monter et régler des organes électriques.
 
-Réaliser le parachèvement de pièces de réglage pour le montage d'ensembles mécaniques ;
-
-Régler les jeux fonctionnels de guidage et de rotation d'ensembles et sous-ensembles mécaniques ;
-
-Régler les ensembles mécaniques de transmissions.
-
-4. Régler des ensembles mécaniques automatisés
-
-d'équipements industriels
-
-Régler des automatismes pneumatiques d'équipements industriels en logique câblée.
-
-Vérifier et conformer les cycles d'ensembles pneumatiques automatisés au cahier des charges.
-
-Vérifier et mettre au point le fonctionnement d'ensembles hydrauliques d'équipements industriels.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce dans les entreprises de tout secteur fabriquant des équipements ou des machines complexes destinées à la production de biens d'équipements ou de consommation.
+Les secteurs d'activité où il peut exercer sont très variés : automobile, pétrochimie, agroalimentaire, médical, agricole, mécanique générale...
 
-Il exerce au sein d'entreprises spécialisées :
-
-Dans le secteur de la machine spéciale, il devra faire preuve de mobilité pour effectuer les montages en clientèle.
-
-Dans la production d'équipements spéciaux, où son activité s'exerce la plupart du temps en atelier.
+L'emploi/métier type est : monteur de machines spéciales, monteur d'équipements industriels.
 
 Codes ROME :
 
-44131-Agent (e) de montage-assemblage de la construction mécanique.
+44131 - Agent/agente de montage-assemblage de la construction mécanique.
 
-44135-Ajusteur (se) mécanicien (ne).
+44135 - Ajusteur mécanicien/ajusteuse mécanicienne.
 
 Réglementation de l'activité :
 
-Néant.
+Se reporter aux conventions collectives ou négociations des branches respectives.
 
 Autorité responsable de la certification :
 
@@ -96,8 +92,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
