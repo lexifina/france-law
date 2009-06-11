@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107142
+
+- Question : [SEQ090107142](seq090107142.md) — Publication du décret relatif aux mesures de tutelle ou de curatelle
+
+## Réponse
+
+*Justice, JO du 2009-06-11, page 1466*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi n° 2007-308 du 5 mars 2007 portant réforme de la protection juridique des majeurs renforce le principe selon lequel une mesure de protection juridique ne peut être prononcée par le juge au profit d'une personne majeure qu'au vu d'un certificat médical établi par un médecin choisi sur une liste établie chaque année par le procureur de la République, et constatant l'altération des facultés de la personne. Néanmoins, lorsqu'il renouvelle une mesure de tutelle ou de curatelle, conformément aux nouvelles dispositions imposant une durée limitée dès mesures de protection, le juge peut se contenter d'un simple certificat médical dès lors qu'il ne renforce pas la mesure, qu'il la prononce pour une durée de cinq ans maximum et que l'audition de la personne est possible. Dans les autres cas, la mesure ne peut être renouvelée qu'au vu du certificat médical circonstancié sus-évoqué. Ce certificat n'est pas pris en charge par l'assurance maladie car il ne peut être assimilé à une consultation médicale, et il demeure, par principe, ainsi que le prévoyait l'ancienne loi, à la charge de la personne protégée. Afin, toutefois, de supprimer les disparités de coûts existant entre les praticiens sur l'ensemble du territoire, le décret n° 2008-1485 du 22 décembre 2008 relatif à la tarification des certificats et avis médicaux établis dans le cadre des mesures judiciaires de protection des majeurs, publié au Journal officiel du 31 décembre 2008, fixe au tarif unique de 160 euros le coût de ce certificat.
