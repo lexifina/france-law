@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408442
+
+- Question : [SEQ090408442](seq090408442.md) — Élections professionnelles
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-06-11, page 1446*
+
+L'accord-cadre relatif au dialogue social dans les postes, signé et entré en vigueur le 4 juillet 2008, exprime la volonté partagée par le ministère des affaires étrangères et européennes et par les organisations syndicales d'un exercice renforcé et transparent du dialogue social. Afin que le dialogue social se déroule au plus près des agents, le choix de la décentralisation a été fait le plus souvent dans les pays où existent plusieurs implantations diplomatiques et consulaires, notamment lorsque les distances sont très importantes, comme c'est le cas au Gabon. Le nouveau dispositif comporte deux commissions, l'une pour les agents expatriés, l'autre pour les agents de droit local, où les représentants du personnel sont élus localement. Dans les postes où le corps électoral n'atteignait pas le seuil de douze personnes, il n'a pas été organisé d'élection, et l'ensemble des agents participera, comme le prévoit l'accord-cadre, aux réunions de dialogue social. Ce sera le cas dans une cinquantaine de postes, et en particulier à la chancellerie détachée à Port-Gentil, où les effectifs sont inférieurs à ce seuil dans les deux catégories de personnel. Le MAEE n'ignore pas les difficultés que peuvent rencontrer les agents affectés dans les postes difficiles d'accès. Il veille à ce que, grâce en particulier à une utilisation plus systématique des technologies de l'information et de la communication, ces personnels bénéficient de l'information qui leur est utile. Les organisations syndicales françaises ont, pour leur part, développé les contacts avec toutes les catégories de personnel. Dans les différents postes, elles peuvent disposer d'espaces d'affichage et sont également autorisées à tenir des réunions dans les locaux administratifs pour assurer l'information des agents.
