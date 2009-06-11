@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408155
+
+- Question : [SEQ090408155](seq090408155.md) — Baisse des crédits de l'État pour les centres régionaux information jeunesse
+
+## Réponse
+
+*Solidarités actives contre la pauvreté et  jeunesse, JO du 2009-06-11, page 1470*
+
+L'information des jeunes est une mission d'intérêt général clairement inscrite dans les priorités du haut-commissaire à la jeunesse. Aussi, grâce au label information jeunesse que ses services délivrent aux structures qui remplissent le cahier des charges associé, l'État garantit à tous les jeunes l'accès à une information respectant les principes de la charte de l'information jeunesse : qualité, impartialité, accueil anonyme et gratuit. Par ailleurs, l'État participe aux côtés des collectivités territoriales au financement des centres régionaux information jeunesse (CRIJ). L'action engagée par le Gouvernement pour la maîtrise des dépenses publiques conduit l'ensemble des administrations à se recentrer sur le coeur de leurs priorités. C'est la raison pour laquelle les crédits inscrits au projet de loi de finances 2009 pour l'information jeunesse enregistrent une baisse de 5,7 % par rapport à 2008. La fonction de centres de ressources des CRIJ à l'égard des réseaux régionaux des bureaux information jeunesse (BIJ) et des points information jeunesse (PIJ) sera cependant préservée pour maintenir la qualité de l'information dont bénéficient les jeunes. Un suivi individualisé des CRIJ est actuellement effectué par les services régionaux de l'État afin de mobiliser à l'échelon territorial les partenariats nécessaires pour pérenniser les services rendus par le réseau information jeunesse. Plus généralement, une concertation sera engagée sur la possibilité d'améliorer le service rendu aux jeunes en permettant aux différentes institutions et aux différents réseaux qui agissent pour l'information des jeunes de mieux se coordonner et se compléter.
