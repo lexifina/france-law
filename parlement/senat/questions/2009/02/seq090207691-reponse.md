@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207691
+
+- Question : [SEQ090207691](seq090207691.md) — Entretien d'un chemin rural desservant une maison isolée
+
+## Réponse
+
+*Intérieur, JO du 2009-06-11, page 1464*
+
+Il revient au maire en application de l'article L. 161-5 du code rural d'assurer la police de la circulation et de la conservation sur l'ensemble des voies rurales ouvertes à la circulation publique et de prendre toute mesure destinée à sauvegarder l'intégrité des chemins. Par ailleurs, les usagers sont eux-mêmes tenus de faire une utilisation normale des chemins ruraux, faute de quoi une participation aux frais de réfection peut leur être réclamée. Cette contribution est prévue à l'article L. 161-8 du code rural qui fait lui-même référence à l'article L. 141-9 du code de la voirie routière. Ainsi, une commune peut demander une contribution spéciale aux entrepreneurs et aux propriétaires dont les véhicules, en empruntant les voies communales ou les chemins ruraux, entraînent une dégradation anormale de la voie entretenue à l'état de viabilité. Ces contributions destinées à la seule remise en état des voies doivent être proportionnées aux dégradations causées. Ceci étant, l'entretien des chemins ruraux, contrairement à celui des voies communales qui figure parmi les dépenses obligatoires mises à la charge des communes conformément aux dispositions de l'article L. 2321-2 du code général des collectivités territoriales, n'est pas inscrit au nombre des dépenses obligatoires de la commune. À noter que depuis l'arrêt du Conseil d'État ville de Carcassonne du 20 novembre 1964, la responsabilité de la commune peut toutefois être engagée pour défaut d'entretien normal dès lors que ladite commune a effectué volontairement des travaux destinés à assurer ou améliorer la viabilité de ce chemin et a ainsi accepté d'en assurer l'entretien.
