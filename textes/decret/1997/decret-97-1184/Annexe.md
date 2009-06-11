@@ -78,7 +78,7 @@ Article R. 1132-18
 
 |
 
-Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
+Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispositions du titre II de la loi n° 98-147 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
 
 1
 
@@ -138,7 +138,7 @@ Délivrance du certificat attestant qu'un produit ou un système satisfait aux c
 
 |
 
-- premier alinéa de l'article 8
+-premier alinéa de l'article 8
 
 |
 
@@ -150,7 +150,7 @@ Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité
 
 |
 
-- premier alinéa de l'article 12 et deuxième alinéa de l'article 14
+-premier alinéa de l'article 12 et deuxième alinéa de l'article 14
 
 |
 
@@ -267,3 +267,5 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 |
 
 |
+
+Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
