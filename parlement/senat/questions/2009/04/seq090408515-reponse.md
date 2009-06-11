@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408515
+
+- Question : [SEQ090408515](seq090408515.md) — Avenir des centres régionaux de la propriété forestière
+
+## Réponse
+
+*Agriculture, JO du 2009-06-11, page 1448*
+
+Dans le cadre de la révision générale des politiques publiques (RGPP) mise en oeuvre par le Gouvernement, le Conseil de modernisation des politiques publiques s'est prononcé le 11 juin 2008 en faveur du regroupement des dix-huit centres régionaux de la propriété forestière (CRPF) et du Centre national professionnel de la propriété forestière (CNPPF) en un établissement national unique composé d'échelons régionaux. Il a également prévu qu'une concertation entre les échelons régionaux et les chambres régionales d'agriculture soit organisée par les directions régionales de l'agriculture et de la forêt (DRAF). Au cours de ces derniers mois, les services du ministère de l'agriculture et de la pêche ont assuré, en très étroite collaboration avec les CRPF et le CNPPF, la mise en oeuvre de cette décision. Actuellement, ils finalisent ensemble l'élaboration des textes législatifs et réglementaires pour que le nouvel établissement unique soit créé au 1er janvier 2010. Au sein de cette nouvelle organisation, les CRPF conserveront leurs principales modalités de gouvernance pour que les missions de développement forestier qu'ils assurent à l'échelon local puissent l'être dans la continuité et de manière accrue, conformément aux objectifs de mobilisation du bois dans un cadre de gestion durable fixés par les Assises de la forêt. Dans le cadre spécifique de la tempête Klaus du 24 janvier 2009 et des dégâts qu'elle a occasionnés, l'État a pris des mesures afin d'aider l'ensemble de la filière forestière, et notamment celle relative à la mise en place d'une aide exceptionnelle au renforcement des moyens en personnel des établissements qui animent la filière forêt des régions sinistrées en affectant douze techniciens tempête aux CRPF de ces régions.
