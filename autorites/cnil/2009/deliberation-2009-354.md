@@ -1,0 +1,173 @@
+# Délibération n°2009-354 du 11 juin 2009 portant avis sur un projet de décret en Conseil d’Etat portant informatisation du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et la Moselle
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2009-354
+- Date : 2009-06-11
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000021184046
+
+(Saisine n°09014923)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie pour avis par le ministère de la justice, le 23 décembre 2008 d’un projet de décret en Conseil d’Etat portant informatisation du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et la Moselle ;
+
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n°2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, notamment ses articles11 et 27-II-4° ;
+
+Vu la loi n°2009-323 du 25 mars 2009 de mobilisation pour le logement et de lutte contre l’exclusion modifiant la loi n°2002-306 du 4 mars 2002, notamment son article 102 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifiée par le décret n°2007-401 du 25 mars 2007 ;
+
+Vu la délibération n°2005-015 du 18 janvier 2005 relative aux projets de décret et d’arrêté pris pour la première phase de l’informatisation de la tenue du Livre foncier d’Alsace et de Moselle ;
+
+Après avoir entendu Mme Claire DAVAL, commissaire, en son rapport et Mme Elisabeth ROLIN, commissaire du Gouvernement, en ses observations ;
+
+Emet l’avis suivant :
+
+La Commission a été saisie le 23 décembre 2008 pour avis par le ministère de la justice d’un projet de décret en Conseil d’Etat portant informatisation du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+Le dispositif envisagé s’inscrit dans le processus d’informatisation du livre foncier commencé il y a plusieurs années dans ces trois départements et confié à un Groupement d’intérêt public, le GILFAM, et depuis le 1er janvier 2008 à un établissement public, l’EPELFI (Etablissement Public d’Exploitation du Livre Foncier Informatisé), conformément aux dispositions de la loi n°2002-306 du 4 mars 2002.
+
+Le projet AMALAFI étant déployé en deux phases successives, la Commission s’est prononcée le 18 janvier 2005 sur l’informatisation du livre foncier. La seconde version aujourd’hui présentée à la Commission porte sur les modalités de consultation du livre foncier.
+
+Sur les finalités
+
+Le projet de décret en Conseil d’Etat vise à mettre en œuvre la seconde phase de la dématérialisation du livre foncier soit, l’enregistrement des modifications des données du livre foncier, du registre des dépôts et des annexes, la prise en compte des requêtes en inscription électronique et la consultation par le réseau Internet des données du livre foncier, du registre des dépôts et des annexes et enfin la délivrance de copies.
+
+Ainsi qu’elle l’a souligné lors de sa délibération du 25 octobre 2007 relative à la mise en place d’un traitement de données à caractère personnel dénommé « Service public de consultation du plan cadastral », la Commission rappelle que la publicité foncière a pour objet de permettre à toute personne de connaitre le propriétaire d’un bien, et non de connaitre le patrimoine foncier d’une personne déterminée.
+
+Elle rappelle également que l’article 13 de la loi du 17 juillet 1978 modifiée par l’ordonnance du 6 juin 2005 subordonne la réutilisation des données publiques comportant des données personnelles au consentement de la personne intéressée, à l’anonymisation préalable des informations ou à l’existence d’une disposition législative ou réglementaire les autorisant. Les annexes n’étant pas soumises à publicité légale et compte tenu de la sensibilité des données qu’elles contiennent, elles ne pourront pas faire l’objet d’une réutilisation.
+
+La Commission recommande dès lors qu’une information claire figure sur le site internet du Livre foncier et dans la charte destinée aux professionnels, rappelant notamment ces conditions de réutilisation des informations.
+
+La Commission prend acte de l’engagement de l’EPELFI de mettre en place ces modalités d’information.
+
+Sur les données enregistrées
+
+La Commission observe qu’il est prévu dans le détail des données énumérées en annexe du projet de décret, plusieurs rubriques intitulées « compléments d’information », et estime que ces rubriques devraient être précisées dans le projet de décret, ou à défaut, supprimées.
+
+La Commission prend acte de l’engagement du ministère de compléter à sa demande la rubrique « compléments d’information ». L’annexe 1 du projet de décret sera ainsi complétée :
+
+la parcelle : « notamment le lieudit, »
+
+la copropriété : « notamment la situation géographique des bâtiments en cas de pluralité, »
+
+le lot de copropriété : « notamment la teneur du lot de copropriété, »
+
+l’ensemble immobilier hors du régime de la copropriété : « notamment la situation géographique des bâtiments en cas de pluralité »,
+
+la partie d’un ensemble immobilier hors du régime de la copropriété : « notamment la concordance avec certaines inscriptions issues de la reprise des données manuelles, »
+
+la personne physique : « notamment le pseudonyme de la personne ou sa situation matrimoniale si nécessaire »,
+
+les droits : « notamment la quote-part de propriété démembrée »,
+
+les servitudes foncières établies par le fait de l’homme et toute servitude dont la publicité foncière est prévue par la loi à peine d’irrecevabilité : « notamment le cantonnement de la servitude »,
+
+les autres charges : « notamment le cantonnement de la charge »,
+
+le rang : « notamment les cessions et égalités multiples de rang par rapport à l’objet bénéficiaire »,
+
+les demandes en justice tendant à obtenir la résolution, la révocation : « notamment les références des décisions de justice à l’origine de la mention »,
+
+les mentions informatives : « notamment les références des décisions administratives à l’origine de l’inscription de la mention informative ».
+
+Sur les destinataires
+
+La consultation ouverte à tout usager du Livre foncier
+
+La Commission considère que la consultation par un usager du Livre foncier à partir d’un immeuble devrait être limitée au ressort d’un bureau foncier.
+
+La Commission prend acte de l’engagement du ministère de préciser dans le projet de décret que cette consultation ne pourra s’effectuer que "dans une commune dans le ressort d'un bureau foncier".
+
+La consultation ouverte à certains professionnels
+
+Le projet de décret indiquait que la visualisation immédiate des copies à l’écran à partir de l’identité d’une personne, prévue à l’article 9 des dispositions finales, était ouverte à ces mêmes professions mais également aux personnes ayant payé la redevance auprès de l’EPELFI. Interrogé sur ce point le ministère a indiqué qu’il s’agissait d’une erreur et que ces personnes n’auraient pas accès à ce mode de consultation.
+
+La Commission prend acte que le projet de décret sera modifié sur ce point.
+
+Le projet de décret prévoit également une consultation des données par le procédé dit de « navigation » pour les professionnels authentifiés auprès de l’EPLEFI.
+
+La consultation des annexes par « navigation » compte tenu de la sensibilité des informations qu’elles peuvent contenir, n’est ouverte qu’aux notaires et géomètres-experts.
+
+La Commission rappelle que ces annexes ne sont pas soumises à publicité légale. Compte tenu de la sensibilité des informations qu’elles peuvent contenir, elle estime que le « système de navigation » devrait être doté de procédés techniques empêchant la captation des données à l’écran ou leur impression, afin d’éviter tout risque de constitution de base de données à partir des annexes. Elle considère qu’à défaut de la mise en place de ces sécurités, le « système de navigation » ne devrait pas être utilisé pour la consultation des annexes.
+
+La Commission prend acte des précisions du ministère selon lesquelles le système AMALFI est protégé contre l’aspiration automatique des données et rappelle qu’elle pourra contrôler le respect de cette mesure.
+
+Elle prend également acte du fait que l’impression des documents est une fonctionnalité nécessaire de l’application selon le ministère et qu’elle n’est possible que de manière unitaire, document par document.
+
+Elle prend acte par ailleurs des précisions du ministère, selon lesquelles une charte sera adressée aux professionnels habilités à avoir accès à la navigation, précisant notamment que ces personnes ne devront pas constituer de bases de données à partir des données consultées.
+
+La possibilité d’émettre des requêtes en inscription
+
+L’article 76 du projet de décret prévoit que les notaires et les géomètres-experts pour l’exercice des activités relevant de leur monopole, les huissiers de justice pour l’exécution d’un titre exécutoire, ainsi que les agents de l’Etat , des collectivités territoriales et des EPCI pour la passation des actes concernant les droits réels immobiliers, dûment enregistrés auprès de l’EPELFI, peuvent saisir le bureau foncier par une requête électronique ou par une requête sous format papier.
+
+Toutefois la Commission observe que les modalités techniques de ces requêtes ainsi que la transmission des copies par voie électronique sont renvoyées à un arrêté du garde des sceaux, qui devra garantir la fiabilité de l’identification du requérant et du bureau foncier, l’intégrité des documents adressés, la sécurité et la confidentialité des échanges, la conservation des transmissions opérées permettant d’établir de manière certaine la date de l’envoi et celle de la réception par le destinataire. Elle demande à être saisie de ce projet d’arrêté.
+
+La Commission prend acte que le ministère est prêt à lui soumettre ce projet d‘arrêté.
+
+La consultation des données par les agents du livre foncier, les vérificateurs du service du livre foncier et les magistrats
+
+Ces personnes peuvent consulter toutes les données du livre foncier et du registre des dépôts directement par l’application, dans la limite des besoins de leurs fonctions et en y étant spécialement habilités. Cet accès n’appelle pas d’observation particulière.
+
+Sur les durées de conservation
+
+Aucune durée de conservation n’est indiquée dans le projet de décret. Interrogé sur ce point l’EPELFI a indiqué que l’ensemble des données enregistrées dans l’application était conservé sans limitation de durée. Il en est de même concernant les requêtes classées, radiées ou rejetées, inscrites dans le registre des dépôts. Le ministère a également été précisé qu’un traitement informatique destiné à épurer la base vivante d’AMALFI était prévu, les données datant de plus de cinquante ans étant extraites de la base vivante pour être transférées aux Archives départementales compétentes.
+
+Toutefois, avant expiration de ce délai les données radiées ne seront pas visualisables et n’apparaitront pas sur les copies délivrées.
+
+La Commission prend acte de ces précisions et considère que cette durée de conservation établie par analogie avec la durée de conservation des documents des hypothèques avant versement aux Archives départementales, devrait être précisée dans le projet de décret et qu’il serait souhaitable que la date d’actualisation des informations soit renseignée sur toutes les copies délivrées.
+
+La Commission prend acte que la date d’actualisation des informations est renseignée sur toutes les copies délivrées.
+
+Elle prend également acte de l’engagement du ministère d’insérer un nouvel article dans le projet de décret précisant les durées de conservation des données qui serait ainsi rédigé : « Les données du livre foncier, radiées depuis plus de cinquante ans, font l’objet d’une copie au format XML aux fins de versement aux archives départementales. Toute donnée radiée n’est pas plus restituée lors d’une consultation et, en conséquence, n’apparait plus sur la copie qui est délivrée après consultation. »
+
+Sur les droits des personnes
+
+Indépendamment des procédures de mise à jour ou de rectification d’information sur requête prévues par les règles de la publicité foncière, le droit de rectification de la loi du 6 janvier 1978 pourra être invoqué par les titulaires de droit et les requérants en ce qui concerne les données d’identification des personnes, auprès du juge du livre foncier compétent.
+
+Les droits d’accès et de rectification devraient être rappelés sur les courriers d’information adressés aux requérants à l’issue du traitement d’une requête en inscription transmise par un mandataire, sur les notifications d’une inscription faisant grief à un titulaire de droits, par affiche dans les locaux ouverts au public des bureaux fonciers, ainsi que sur le site internet.
+
+La Commission prend acte de l’engagement de l’EPELFI de procéder à ces modalités d’information.
+
+Sur l’architecture du traitement et les sécurités
+
+Le système est hébergé au sein de l’EPELFI et repose sur le réseau privé virtuel de la justice. La confidentialité des données est assurée par un chiffrement des transferts de fichiers entre les bureaux fonciers et le site central. De plus des équipements réseaux empêchent toute modification des documents depuis un accès externe.
+
+Un système d’authentification fort à été mis en place, les utilisateurs s’authentifiant à l’aide d’une carte à puce. Celles des agents du Livre foncier et du juge seront délivrées par l’EPELFI, le certificat sera valable 18 mois. Celles des notaires, seront délivrées par la société REAL Not, et seront valables pendant 2 ans. Toutes les autres cartes à puce seront délivrées par la société Certinomis pour une durée de 18 mois.
+
+Chaque notaire, géomètre-expert, huissier de justice, ou avocat devra avoir présenté pour lui-même et les personnes relevant de son autorité une demande d’enregistrement au directeur général de l’EPELFI, respectivement par l’intermédiaire du président de la chambre départemental des notaires, du président du conseil régional de l’ordre des géomètres-experts , du président de la chambre départementale d’huissiers de justice ou du président de tout organisme professionnel analogue pour les ressortissants des Etats membres de la Communauté européenne. Ces représentants devront porter à la connaissance de l’EPELFI tout changement intervenu dans la situation professionnelle des intéressés.
+
+Un processus de journalisation de toutes les demandes sera mis en place, comprenant les consultations et les interrogations du traitement par les juges du Livre foncier et les agents des bureaux fonciers. Ces données de connexion seront conservées pendant un an (identifiant de l’auteur et date et heure de connexion).
+
+Il existe un cloisonnement total des informations entre les différents bureaux fonciers, garantissant pour certaines consultations un ressort géographique limité.
+
+Sur l’utilisation de la signature électronique sur les ordonnances d’inscription
+
+La Commission constate que l’utilisation de la signature électronique par le juge doit répondre aux exigences posées par le décret n° 2001-272 du 30 mars 2001 pour qu’un procédé de signature électronique soit reconnu comme fiable : la signature doit être sécurisée, elle doit résulter d’un dispositif sécurisé de création de signature certifié, enfin la vérification de la signature doit reposer sur un certificat qualifié.
+
+La Commission considère que les précisions techniques apportées par le ministère sont satisfaisantes, l’usage d’une carte à puce biométrique permettant de répondre aux deux premières exigences posées par le décret de 2001.
+
+S’agissant de la mise en œuvre d’un traitement portant sur des données biométriques permettant la confirmation de l'identité du juge du livre foncier lors de l’utilisation de la signature électronique, la Commission devra être saisie d’une demande d’avis conformément aux dispositions de l’article 27-I-2° de la loi du 6 janvier 1978 modifiée en août 2004.
+
+La Commission prend acte de l’engagement du ministère de procéder aux formalités préalables susvisées. Jusqu’à la mise en œuvre de ce dispositif les ordonnances seront signées manuellement.
+
+Concernant la troisième condition exigée aux termes du décret, tenant à l’obtention d’un certificat qualifié, la Commission observe qu’elle n’est pas pour le moment réalisée, le ministère ayant précisé que cette certification était attendue pour le 1er trimestre 2010.
+
+Or le projet de décret prévoit dans les dispositions finales (article 10) que « l’ordonnance établie sous forme électronique et signée par le juge au moyen d’un procédé de signature électronique présumée fiable en application de l’article 2 du décret n° 2001-272 du 30 mars 2001 pris pour l’application de l’article 1316-4 du code civil et relatif à la signature électronique, a valeur de minute ».
+
+La Commission considère en conséquence, que l’ordonnance ne pourra pas être signée électroniquement par le juge tant que cette certification n’aura pas été obtenue. Elle demande dès lors que l’article 81 du projet de décret soit intégré dans les dispositions finales (article 10), afin qu’il apparaisse clairement que la signature électronique ne pourra être utilisée qu’avec l’obtention de la certification.
+
+De même l’article 10 du projet de décret devra être complété afin de préciser que la signature électronique ne sera présumée fiable qu’après avoir obtenu un certificat qualifié.
+
+La Commission prend acte de l’engagement du ministère de modifier l’article 10 du projet de décret afin d’y introduire la référence à un certificat qualifié.
+
+Le Président,
+
+Alex TURK
