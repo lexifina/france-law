@@ -218,7 +218,7 @@ Ecole polytechnique
 
 |
 
-Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B
+Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B.
 
 |
 
@@ -314,7 +314,7 @@ Laboratoire national de dépistage du dopage
 
 |
 
-Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants.
+Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants
 
 |
 
@@ -370,11 +370,11 @@ Agence nationale des titres sécurisés
 
 |
 
-Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.
+Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels
 
 |
 
-Etablissement public du parc national de la Réunion
+Etablissement public du parc national de la Réunion.
 
 |
 
@@ -397,6 +397,14 @@ Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immig
 Les emplois de catégories A et B requérant des connaissances spécialisées en matière de programmation culturelle et production, d'animation du réseau et des partenariats et de développement des publics, applicables dans le domaine des populations et de l'histoire de l'immigration.
 
 Les emplois de catégories A et B liés à la médiation.
+
+|
+
+Etablissement de retraite additionnelle de la fonction publique
+
+|
+
+Emplois requérant des compétences spécifiques en matière de gestion et d'analyse financière ainsi que ceux requérant des compétences spécialisées en actuariat.
 
 |
 
