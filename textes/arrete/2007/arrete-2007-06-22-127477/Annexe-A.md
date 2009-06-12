@@ -150,7 +150,7 @@ Directeur de l'établissement administratif et technique du service des essences
 
 |
 
-MAPA × 100
+Sans limitation
 
 |
 
@@ -170,7 +170,7 @@ MAPA × 20
 
 |
 
-Directeur du laboratoire du service des essences des armées
+Directeurs du laboratoire du service des essences des armées
 
 |
 
