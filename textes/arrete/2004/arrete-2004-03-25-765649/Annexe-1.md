@@ -52,13 +52,13 @@ Le dossier sanitaire contient les informations suivantes :
 
 - les noms et coordonnées du vétérinaire sanitaire attaché à l'établissement ainsi que le compte rendu de ses visites ;
 
-- les cas de maladie apparus dans l'établissement, y compris pendant la quarantaine, l'isolement ou l'acclimatation des animaux et les traitements administrés ;
+- les cas de maladie apparus dans l'établissement et les constatations faites, y compris pendant la quarantaine, l'isolement ou l'acclimatation des animaux et les traitements administrés ;
 
 - les résultats des examens sanguins ou de toute autre procédure diagnostique conduite dans l'établissement ;
 
 - les programmes de surveillance et de prévention des maladies et leurs résultats ;
 
-- les résultats d'autopsies ;
+- les résultats des examens post mortem de tous les animaux morts dans l'établissement, y compris les animaux mort-nés ;
 
 - en ce qui concerne les animaux arrivés dans l'établissement ou ceux l'ayant quitté, les données relatives à leur transport et à leur état de santé au moment de leur arrivée ou de leur départ.
 
