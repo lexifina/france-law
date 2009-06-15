@@ -542,7 +542,7 @@ d'évaluation de la conformité ou de l'aptitude à l'emploi des
 
 constituants d'interopérabilité et la procédure de vérification
 
-"CE " des sous-systèmes.
+" CE " des sous-systèmes.
 
 |
 
@@ -575,6 +575,16 @@ Agrément des contrôleurs techniques. |
 Articles R. 111-29
 
 à R. 111-37.
+
+|
+
+2 |
+
+Décisions relatives à la vérification des qualifications professionnelles en matière de contrôle technique de la construction.
+
+|
+
+R. * 111-29-1 à R. * 111-33-1
 
 |
 
@@ -1736,7 +1746,7 @@ Délivrance, suspension ou retrait de l'habilitation d'un organisme technique po
 
 entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité
 
-"d'établissement connu" ou de "chargeur connu"
+" d'établissement connu " ou de " chargeur connu "
 
 |
 
@@ -1814,9 +1824,7 @@ bateaux de la navigation intérieure.
 
 |
 
-Article R. 224-12.
-
-|
+Article R. 224-12. |
 
 C.-Autres décisions
 
@@ -1873,7 +1881,5 @@ Agrément de certains organismes chargés de dispenser une formation en
 matière d'hygiène et de sécurité aux représentants des personnels siégeant
 
 aux comités d'hygiène et de sécurité.
-
-|
 
 |
