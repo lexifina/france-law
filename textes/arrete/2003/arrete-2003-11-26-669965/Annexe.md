@@ -24,9 +24,11 @@ Astreinte de direction générale.
 
 |
 
-Service d'exploitation de la formation
+Service d'exploitation
 
-aéronautique
+de la formation aéronautique
+
+(à compter du 1er juillet 2008)
 
 |
 
@@ -60,9 +62,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-Bureau d'enquêtes et d'analyses pour la sécurité
-
-de l'aviation civile (échelon central)
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (échelon central)
 
 |
 
@@ -674,7 +674,7 @@ Astreinte opérationnelle.
 
 |
 
-DAC Nord
+Direction de la sécurité de l'aviation civile
 
 |
 
@@ -682,7 +682,15 @@ DAC Nord
 
 |
 
-DAC.
+DSAC Nord
+
+|
+
+|
+
+|
+
+DSAC.
 
 |
 
@@ -694,7 +702,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DAC.
+DSAC.
 
 |
 
@@ -718,7 +726,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Régions Haute-Normandie et Picardie (Beauvais, Le Havre et Rouen).
+Région Picardie (Beauvais).
 
 |
 
@@ -742,6 +750,186 @@ Astreinte enquêtes-accidents.
 
 |
 
+DSAC Sud-Ouest
+
+|
+
+|
+
+|
+
+DSAC.
+
+|
+
+Astreinte de contrôle technique d'exploitation.
+
+|
+
+1 astreinte de semaine dans la limite de 13 semaines par an.
+
+|
+
+DSAC (Bordeaux).
+
+|
+
+Astreinte de direction.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Aquitaine (Bordeaux).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Aquitaine (Pau).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Poitou-Charente (Poitiers).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC Sud
+
+|
+
+|
+
+|
+
+DSAC.
+
+|
+
+Astreinte de contrôle technique d'exploitation.
+
+|
+
+1 astreinte de semaine dans la limite de 13 semaines par an.
+
+|
+
+DSAC.
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC (Toulouse).
+
+|
+
+Astreinte de direction.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Midi-Pyrénées (Toulouse).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC Ouest
+
+|
+
+|
+
+|
+
+DSAC.
+
+|
+
+Astreinte de contrôle technique d'exploitation.
+
+|
+
+1 astreinte de semaine dans la limite de 13 semaines par an.
+
+|
+
+DSAC (Brest et Rennes).
+
+|
+
+Astreinte de direction.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Bretagne (Brest).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+Région Pays de la Loire (Nantes).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
 Région Centre (Tours).
 
 |
@@ -754,39 +942,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-DAC Sud-Ouest
-
-|
-
-|
-
-|
-
-DAC.
-
-|
-
-Astreinte de contrôle technique d'exploitation.
-
-|
-
-1 astreinte de semaine dans la limite de 13 semaines par an.
-
-|
-
-Bordeaux.
-
-|
-
-Astreinte de direction (DAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Bordeaux.
+Région Basse et Haute-Normandie (Deauville, Le Havre et Rouen).
 
 |
 
@@ -798,31 +954,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Pau.
-
-|
-
-Astreinte enquêtes-accidents.
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Poitiers.
-
-|
-
-Astreinte enquêtes-accidents.
-
-|
-
-1 astreinte de semaine.
-
-|
-
-DAC Sud
+DSAC Nord-Est
 
 |
 
@@ -830,131 +962,7 @@ DAC Sud
 
 |
 
-DAC.
-
-|
-
-Astreinte de contrôle technique d'exploitation.
-
-|
-
-1 astreinte de semaine dans la limite de 13 semaines par an.
-
-|
-
-DAC.
-
-|
-
-Astreinte enquêtes-accidents.
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Toulouse.
-
-|
-
-Astreinte de direction (DAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Toulouse.
-
-|
-
-Astreinte enquêtes-accidents.
-
-|
-
-1 astreinte de semaine.
-
-|
-
-DAC Ouest
-
-|
-
-|
-
-|
-
-DAC.
-
-|
-
-Astreinte de contrôle technique d'exploitation.
-
-|
-
-1 astreinte de semaine dans la limite de 13 semaines par an.
-
-|
-
-DAC, Brest et Rennes.
-
-|
-
-Astreinte de direction (DAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Brest.
-
-|
-
-Astreinte enquêtes-accidents (Bretagne).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Nantes.
-
-|
-
-Astreinte enquêtes-accidents (Pays de la Loire).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Deauville.
-
-|
-
-Astreinte enquêtes-accidents (Basse-Normandie)
-
-|
-
-1 astreinte de semaine.
-
-|
-
-DAC Nord-Est
-
-|
-
-|
-
-|
-
-DAC.
+DSAC.
 
 |
 
@@ -966,11 +974,11 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Strasbourg.
+DSAC (Strasbourg).
 
 |
 
-Astreinte de direction (DAC).
+Astreinte de direction.
 
 |
 
@@ -978,7 +986,7 @@ Astreinte de direction (DAC).
 
 |
 
-Dijon.
+Région Bourgogne et Franche-Comté (Dijon).
 
 |
 
@@ -990,23 +998,11 @@ Astreinte enquêtes-accidents (Bourgogne et Franche-Comté).
 
 |
 
-Strasbourg.
+Région Alsace (Strasbourg).
 
 |
 
-Astreinte enquêtes-accidents (Alsace).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Metz-Nancy-Lorraine.
-
-|
-
-Astreinte enquêtes-accidents (Lorraine et Champagne-Ardenne).
+Astreinte enquêtes-accidents.
 
 |
 
@@ -1014,7 +1010,19 @@ Astreinte enquêtes-accidents (Lorraine et Champagne-Ardenne).
 
 |
 
-DAC Centre-Est
+Région Lorraine et Champagne-Ardenne (Metz-Nancy-Lorraine).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC Centre-Est
 
 |
 
@@ -1022,7 +1030,7 @@ DAC Centre-Est
 
 |
 
-DAC.
+DSAC.
 
 |
 
@@ -1034,23 +1042,11 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Lyon.
+DSAC (Lyon).
 
 |
 
-Astreinte de direction (DAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Lyon.
-
-|
-
-Astreinte enquêtes-accidents (Rhône-Alpes).
+Astreinte de direction.
 
 |
 
@@ -1058,11 +1054,11 @@ Astreinte enquêtes-accidents (Rhône-Alpes).
 
 |
 
-Clermont-Ferrand.
+Région Rhône-Alpes (Lyon).
 
 |
 
-Astreinte enquêtes-accidents (Auvergne).
+Astreinte enquêtes-accidents.
 
 |
 
@@ -1070,7 +1066,19 @@ Astreinte enquêtes-accidents (Auvergne).
 
 |
 
-DAC Sud-Est
+Région Auvergne (Clermont-Ferrand).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC Sud-Est
 
 |
 
@@ -1078,7 +1086,7 @@ DAC Sud-Est
 
 |
 
-DAC.
+DSAC.
 
 |
 
@@ -1090,7 +1098,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Aix-en-Provence.
+DSAC (Aix-en-Provence).
 
 |
 
@@ -1102,7 +1110,7 @@ Astreinte de direction.
 
 |
 
-Marseille-Provence.
+Région PACA (Marseille-Provence).
 
 |
 
@@ -1114,7 +1122,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Nice-Côte d'Azur.
+Région PACA (Nice-Côte d'Azur).
 
 |
 
@@ -1126,7 +1134,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Montpellier-Méditerranée.
+Région Languedoc-Roussillon (Montpellier-Méditerranée).
 
 |
 
@@ -1138,7 +1146,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Corse.
+Collectivité territoriale corse (Corse).
 
 |
 
@@ -1150,7 +1158,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-DAC Antilles-Guyane
+DSAC Antilles-Guyane
 
 |
 
@@ -1158,7 +1166,7 @@ DAC Antilles-Guyane
 
 |
 
-DAC.
+DSAC.
 
 |
 
@@ -1170,7 +1178,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Fort-de-France.
+DSAC (Fort-de-France).
 
 |
 
@@ -1182,23 +1190,11 @@ Astreinte de direction.
 
 |
 
-Fort-de-France.
+Martinique (Fort-de-France).
 
 |
 
-Astreinte enquêtes-accidents (Martinique).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Pointe-à-Pitre.
-
-|
-
-Astreinte enquêtes-accidents (Guadeloupe).
+Astreinte enquêtes-accidents.
 
 |
 
@@ -1206,11 +1202,11 @@ Astreinte enquêtes-accidents (Guadeloupe).
 
 |
 
-Cayenne.
+Guadeloupe (Pointe-à-Pitre).
 
 |
 
-Astreinte enquêtes-accidents (Guyane).
+Astreinte enquêtes-accidents.
 
 |
 
@@ -1218,7 +1214,83 @@ Astreinte enquêtes-accidents (Guyane).
 
 |
 
-SEAC Polynésie française
+Guyane (Cayenne).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC océan Indien
+
+|
+
+|
+
+|
+
+DSAC.
+
+|
+
+Astreinte de contrôle technique d'exploitation.
+
+|
+
+1 astreinte de semaine dans la limite de 18 semaines par an.
+
+|
+
+DSAC (Saint-Denis).
+
+|
+
+Astreinte de direction.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC (Saint-Denis).
+
+|
+
+Astreinte enquêtes-accidents.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+DSAC et SNA océan Indien
+
+|
+
+|
+
+|
+
+Dzaoudzi-Pamandzi.
+
+|
+
+Astreinte opérationnelle.
+
+|
+
+1 astreinte de semaine.
+
+|
+
+SEAC Polynésie française.
 
 |
 
@@ -1331,70 +1403,6 @@ Astreinte enquêtes-accidents (Territoire).
 |
 
 Nouméa.
-
-|
-
-Astreinte opérationnelle.
-
-|
-
-1 astreinte de semaine.
-
-|
-
-SAC océan Indien
-
-|
-
-|
-
-|
-
-SAC.
-
-|
-
-Astreinte de contrôle technique d'exploitation.
-
-|
-
-1 astreinte de semaine dans la limite de 18 semaines par an.
-
-|
-
-Saint-Denis.
-
-|
-
-Astreinte de direction (SAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-Saint-Denis.
-
-|
-
-Astreinte enquêtes-accidents (SAC).
-
-|
-
-1 astreinte de semaine.
-
-|
-
-SAC et SNA océan Indien
-
-|
-
-|
-
-|
-
-Dzaoudzi-Pamandzi.
 
 |
 
