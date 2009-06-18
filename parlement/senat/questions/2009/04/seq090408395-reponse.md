@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408395
+
+- Question : [SEQ090408395](seq090408395.md) — Aides à l'installation des jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 2009-06-18, page 1515*
+
+Concernant les prêts MTS-JA, le matériel d'occasion est autorisé seulement dans le cadre de la reprise stricte du matériel du cédant par le jeune qui s'installe, si et seulement si ce matériel reste compétitif. Tous les jeunes agriculteurs installés ou en cours d'installation, qui avaient prévu dans leur plan un financement du matériel d'occasion avant le 1er avril 2009 en dehors de la reprise globale d'exploitation, ne verront cependant pas leur plan remis en cause suite à cette décision. Il est apparu nécessaire de plafonner le besoin en fonds de roulement (BFR) à la suite d'un contrôle des comptes 2008 du CNASEA par la commission de certification des comptes des organismes payeurs (C3OP). Il existait en 2002 un plafond de BFR à 10 % du montant des prêts MTS-JA réalisés au cours de la première année et plafonné à 4 600 euros. Cette notion avait été abandonnée à partir de 2005 pour tous les jeunes s'installant à partir du 1er décembre 2004. La C3OP a souhaité qu'un plafond soit instauré à nouveau. En effet, elle a pu démontrer qu'un fort pourcentage de prêts en première année d'installation utilisait de fait le montant total des droits à prêts pour le financement de BFR. Cette aide à la trésorerie ne pouvait pas faire l'objet d'un contrôle suffisant. Aussi, il a été décidé de fixer par arrêté un plafond en montant de subvention équivalente du jeune agriculteur demandeur d'un prêt en BFR. Ce plafond initialement envisagé à 10 % a été finalement porté à 20 % après concertation avec les organisations professionnelles. L'arrêté fixant ce plafond a été publié au Journal officiel le 21 mai 2009.
