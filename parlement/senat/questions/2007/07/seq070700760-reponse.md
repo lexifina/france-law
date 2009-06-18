@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070700760
+
+- Question : [SEQ070700760](seq070700760.md) — Programme de numérisation du site Gallica de la Bibliothèque nationale de France
+
+## Réponse
+
+*Culture, JO du 2009-06-18, page 1518*
+
+Convaincue de l'importance de la mise à disposition pour le public de sources essentielles telles que le Bulletin des loiset les Archives parlementaires, la Bibliothèque nationale de France (BnF) poursuit actuellement leur numérisation. À ce jour, 254 volumes du Bulletin des lois (de 1793 à 1931) et 154 volumes des Archives parlementaires ont été numérisés et mis en ligne. Un nombre important de fascicules sont cependant toujours manquants dans Gallica pour chacun de ces titres. Ces lacunes s'expliquent par les modalités de numérisation utilisées jusqu'à présent (série en double ou microfilm) qui ont entraîné un taux de rejet important en raison du mauvais état des supports (papier acide et cassant ou qualité insuffisante du microfilm). Soucieuse de respecter des standards de qualité élevés pour constituer sa bibliothèque numérique, la BnF n'a pas pu verser dans Gallica les fichiers ne satisfaisant pas à ces exigences. En collaboration avec le réseau de ses bibliothèques partenaires, notamment la bibliothèque de l'Assemblée nationale, la BnF souhaite aboutir aussi vite que possible à une mise en ligne intégrale du Bulletin des lois et des Archives parlementaires. Elle travaille également à l'amélioration des conditions de lecture des documents numériques dans Gallica en proposant de meilleures fonctionnalités d'affichage (le zoom permet d'agrandir l'image progressivement et de la retourner par rotations de 90°), ainsi que des outils de feuilletage et de navigation plus performants (possibilité d'afficher tous les volumes d'un journal et de faire une recherche simultanée à l'intérieur de l'ensemble des volumes du journal).
