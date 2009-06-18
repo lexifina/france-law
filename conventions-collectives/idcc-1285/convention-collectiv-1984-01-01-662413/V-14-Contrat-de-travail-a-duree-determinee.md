@@ -1,4 +1,4 @@
-# Article V.14 : Contrat de travail à durée déterminée
+# Article V.14
 
 (Reproduction de l'article III de l'accord interbranches du 24 juin 2008)
 
@@ -30,19 +30,13 @@ Lorsque l'engagement est d'une durée inférieure à 48 heures, le contrat est s
 
 V. 14. 2. Le contrat à durée déterminée de droit commun
 
-(Reproduction de l'article III. 2
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 2 de l'accord interbranches du 24 juin 2008)
 
 Les dispositions de cet article ne s'appliquent que pour le contrat à durée déterminée visé à l'article L. 1242-2, alinéas 1 et 2, du code du travail.
 
-V. 14. 3. Conclusion du contrat
+V. 14. 3. Conclusion du contrat à durée déterminée de droit commun
 
-à durée déterminée de droit commun
-
-(Reproduction de l'article III. 2. 1
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 2. 1 de l'accord interbranches du 24 juin 2008)
 
 Le contrat à durée déterminée de droit commun ne peut avoir pour objet, ni pour effet, de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise et doit préciser les dates de début et de fin de contrat de façon très nette ou, quand le contrat ne peut comporter un terme précis, la durée minimale conformément à l'article L. 1242-7 du code du travail, ainsi que l'un des motifs ci-dessus ayant entraîné le choix de ce type de contrat.
 
@@ -50,9 +44,7 @@ Conformément aux dispositions contenues à l'article L. 1243-8 du code du trava
 
 V. 14. 4. Période d'essai
 
-(Reproduction de l'article III. 2. 2
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 2. 2 de l'accord interbranches du 24 juin 2008)
 
 La durée de la période d'essai pour ces contrats est de :
 
@@ -66,9 +58,7 @@ Les dispositions sur les délais de prévenance figurant à l'article V. 4 s'app
 
 V. 14. 5. Le contrat à durée déterminée dit d'usage (CDD d'usage)
 
-(Reproduction de l'article III. 3
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 3 de l'accord interbranches du 24 juin 2008)
 
 Les dispositions de cet article ne s'appliquent que pour les contrats conclus dans le cadre de l' article L. 1242-2-3° du code du travail .
 
@@ -118,15 +108,21 @@ Le CDD dit d'usage conclu dans le respect des dispositions légales et réglemen
 
 Toute modification du contrat de travail fait obligatoirement l'objet d'un avenant notifié par écrit et contresigné par les parties.
 
-V. 14. 5. 2. Période d'essai (Reproduction de l'article III. 3. 2 de l'accord interbranches du 24 juin 2008)
+V. 14. 5. 2. Période d'essai
 
-Les dispositions spécifiques à la période d'essai pour ces contrats seront négociées ultérieurement (deuxième cycle de négociation).
+La durée de la période d'essai pour ces contrats est de :
+
+- 1 jour par semaine dans la limite de 2 semaines lorsque la durée initialement prévue du contrat est au plus égale à 6 mois ;
+
+- 1 mois dans les autres cas.
+
+Lorsque le contrat ne comporte pas de terme précis, la période d'essai doit être calculée par rapport à la durée minimale du contrat, conformément à l'article L. 1242-10 du code du travail.
+
+Les dispositions sur les délais de prévenance figurant à l'article V. 4 s'appliquent.
 
 ANNEXE A
 
-(Reproduction de l'annexe C
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'annexe C de l'accord interbranches du 24 juin 2008)
 
 Le recours au contrat à durée déterminée dit d'usage est exclusivement réservé aux emplois suivants.
 
