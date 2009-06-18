@@ -58,7 +58,9 @@ R. 244-1, 5e alinéa.
 
 Décision de classement des aérodromes. |
 
-Article R. 222-3 |
+Article R. 222-3
+
+|
 
 3 |
 
@@ -1825,6 +1827,24 @@ bateaux de la navigation intérieure.
 |
 
 Article R. 224-12. |
+
+Mesure prise par le ministre chargé de l'urbanisme
+
+Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomètre expert et code des devoirs professionnels
+
+1
+
+|
+
+Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+
+|
+
+Article 11, premier et deuxième alinéa
+
+|
+
+.
 
 C.-Autres décisions
 
