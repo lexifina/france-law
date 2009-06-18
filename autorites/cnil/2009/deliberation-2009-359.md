@@ -1,0 +1,115 @@
+# Délibération n°2009-359 du 18 juin 2009 portant autorisation unique des traitements automatisés de détection des alertes d’abus de marché mise en œuvre par les organismes du groupe Caisses d’épargne
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2009-359
+- Date : 2009-06-18
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000020972763
+
+(Demande d’autorisation 1232905)
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 2003/6/CE du 28 janvier 2003 sur les abus de marché ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, et notamment son article 25 ;
+
+Vu le code monétaire et financier, notamment ses articles L. 621-15 et L. 621-17-2 à L. 621177 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 précitée ;
+
+Vu le règlement général de l’autorité des marchés financiers (AMF), notamment ses articles 315-42 à 315-44, 611-1 à 631-10 et 632-1 ;
+
+Vu l’instruction AMF n° 2008-05 du 29 juillet 2008 relative à la déclaration d’opérations suspectes prise en application de l’article 315-42 du Règlement général de l’AMF ;
+
+Vu la demande d’autorisation déposée par la Caisse nationale des caisses d’épargne pour le compte des établissements du Groupe Caisses d’épargne et relative à un traitement automatisé de données personnelles ayant pour finalité la détection des alertes potentielles d’abus de marché ;
+
+Après avoir entendu M. Jean-Paul AMOUDRY, commissaire, en son rapport, et Mme Elisabeth ROLIN, commissaire du Gouvernement, en ses observations,
+
+Formule les observations suivantes :
+
+La Caisse nationale des caisses d’épargne (CNCE) a saisi la CNIL d’une demande d’autorisation qui porte sur la mise en place dans les établissements du Groupe Caisses d’épargne d’un traitement automatisé de données à caractère personnel de détection des alertes potentielles d’abus de marché.
+
+Sur la procédure applicable
+
+Ce traitement vise à détecter des opérations de transactions sur titres, réalisées par les clients du Groupe Caisses d’épargne, qui sont susceptibles de constituer des opérations d’abus de marché et qui, de ce fait, doivent, le cas échéant après la collecte de renseignements complémentaires ou un travail d'analyse non automatisé, donner lieu à l'envoi d'une déclaration de soupçon à l’Autorité des marchés financiers (AMF).
+
+L'identification de telles opérations, pour une large part sur la base de critères intégrés dans les traitements automatisés des établissements susmentionnés, peut conduire ces derniers à souhaiter, pour des raisons de prudence, rompre toute relation contractuelle avec certains des clients qui en font l'objet. Ces traitements, peuvent ainsi, du fait de leur portée, conduire à l'exclusion de personnes du bénéfice d'un contrat en l'absence de toute disposition légale prévoyant la mise en oeuvre d'une telle exclusion.
+
+Dès lors, ces traitements relèvent du 4° du I de l'article 25 de la loi du 6 janvier 1978 modifiée et doivent, à ce titre, être autorisés par la CNIL.
+
+La demande d’autorisation est présentée par la CNCE pour le compte de l’ensemble des entités juridiques du Groupe Caisses d’épargne qui mettront en œuvre le traitement pour leur compte et sous leur responsabilité.
+
+En vertu de l'article 25-II de la loi du 6 janvier 1978 modifiée, la Commission peut autoriser par une décision unique une catégorie de traitements répondant aux mêmes finalités, portant sur des catégories de données identiques et ayant les mêmes catégories de destinataires. Il en résulte que chaque établissement du Groupe Caisses d’épargne qui mettra en œuvre un traitement conforme à cette décision unique d'autorisation pourra déclarer ce traitement en adressant à la Commission un engagement de conformité par lequel il s'engage à respecter les termes de la décision de la CNIL.
+
+Sur les finalités du traitement
+
+Les critères d’alerte retenus dans le cadre de ce traitement ont pour objet de détecter de manière automatisée diverses situations en fonction des facteurs de détection énumérés aux articles 6312 et 631-3 du Règlement général de l’AMF.
+
+Le dispositif de détection d’opérations susceptibles d’être suspectées d’abus de marché repose sur une analyse journalière des opérations, a posteriori, à partir du carnet d’ordre et des portefeuilles.
+
+Les transactions ainsi détectées ont vocation à être analysées sans délai. La Commission souligne que le traitement ne permet pas la constitution d’une « liste noire » de personnes qui ont déjà été concernées par une ou plusieurs alertes.
+
+Sur les catégories de données enregistrées
+
+Les listes d’opérations à analyser ainsi obtenues comportent les catégories de données suivantes :
+
+- Les nom, prénom, date de naissance ou la raison sociale du détenteur du compte,
+
+- Le n° SIREN,
+
+- L’adresse,
+
+- La date de détection,
+
+- La date et la nature de la détection,
+
+- Le nombre de détections sur une période glissante et la date de la dernière détection,
+
+- L’établissement du groupe concerné, le numéro de l’agence,
+
+- Le numéro du compte titre et du compte numéraire associé,
+
+- le type de compte (joint ou non),
+
+- Les caractéristiques de la valeur (code ISIN, libellé, marché, place et mode de cotation, admissible ou non au système de règlement différé),
+
+- Les caractéristiques de l’ordre détecté (achat ou vente, type d’ordre, prix, quantité, origine, date…),
+
+- Les caractéristiques de l’ordre exécuté (achat ou vente, type d’ordre, prix, quantité, origine, date…).
+
+Les listes ainsi constituées sont mises en ligne sur l’Intranet du groupe. Elles sont consultables pendant 45 jours, avant d’être archivées pendant trois ans par le contrôle interne de l’établissement concerné.
+
+Ces dispositions sont adéquates, pertinentes et non excessives au regard des finalités déclarées et n’appellent pas d’observation particulière.
+
+Sur les destinataires des informations
+
+Chaque responsable de la conformité pour les services d'investissement (RCSI) ne peut accéder qu’aux données qui se rapportent à son établissement. Il peut interroger la base des anomalies détectées pour une période donnée, pour un type d’anomalies, par instrument financier ou par numéro de compte. Il peut également procéder à des extractions de données sous Excel pour constituer des fichiers de travail. Les données ne peuvent pas y être conservées plus de 45 jours avant leur éventuel archivage.
+
+Les destinataires de tout ou partie des données sont :
+
+- Les responsables de la conformité des services d’investissement du Groupe Caisses d’épargne et les agents habilités placés sous leur responsabilité, pour les seules données relatives à des opérations effectuées par les clients de leur établissement ;
+
+- Les chargés de clientèle et les agents habilités du back office-titres de l’établissement concerné, lorsqu’il leur est demandé de répondre à une demande d’information du client ;
+
+- En cas d’envoi d’une déclaration de soupçon à l’AMF, les agents habilités de cette autorité ainsi que ceux de la direction générale de l’établissement concerné.
+
+Ces règles n’appellent pas d’observation particulière dès lors que la liste des personnes habilitées à consulter et analyser ces résultats, ainsi qu’à exporter les données au format Excel est arrêtée par les responsables du contrôle des services d’investissement de l’établissement.
+
+Sur le régime de droit d’accès
+
+Le droit d’accès s’exerce auprès du responsable de la conformité pour les services d’investissement de l’établissement teneur du compte du requérant.
+
+Une clause de la convention d’instruments financiers informe les clients de la finalité du traitement ainsi que des modalités d’exercice du droit d’accès.
+
+Autorise, dans ces conditions, les établissements du Groupe Caisses d’épargne à mettre en œuvre le traitement automatisé de détection des alertes potentielles d’abus de marché, sous réserve qu’ils adressent à la CNIL, conformément aux dispositions de l’article 25-III de la loi du 6 janvier 1978, un engagement de conformité valant engagement de respecter les termes de la présente autorisation de la CNIL.
+
+Le Président
+
+Alex TURK
