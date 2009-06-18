@@ -18,7 +18,9 @@ QUOTA 2009 (EN TONNES)
 
 en océan Atlantique
 
-à l'est de la longitude 45° Ouest
+à l'est de la longitude
+
+45° ouest
 
 |
 
@@ -26,7 +28,7 @@ en océan Atlantique
 
 |
 
-OUED SOUSS
+OUED SOUSS.
 
 |
 
@@ -42,7 +44,7 @@ OUED SOUSS
 
 |
 
-JUANICO LUCIEN RAFAEL
+JUANICO LUCIEN RAFAEL.
 
 |
 
@@ -58,11 +60,11 @@ JUANICO LUCIEN RAFAEL
 
 |
 
-SAINTE BERNADETTE 2
+SAINTE BERNADETTE 2.
 
 |
 
-0, 187
+0,187
 
 |
 
@@ -74,11 +76,11 @@ SAINTE BERNADETTE 2
 
 |
 
-VENT DU NORD
+VENT DU NORD.
 
 |
 
-166, 813
+166,813
 
 |
 
@@ -90,7 +92,7 @@ VENT DU NORD
 
 |
 
-GERARD LUC 3
+GERARD LUC 3.
 
 |
 
@@ -106,11 +108,11 @@ GERARD LUC 3
 
 |
 
-JEAN MARIE CHRISTIAN 3
+JEAN MARIE CHRISTIAN 3.
 
 |
 
-138
+93
 
 |
 
@@ -122,7 +124,7 @@ JEAN MARIE CHRISTIAN 3
 
 |
 
-JANVIER GIORDANO
+JANVIER GIORDANO.
 
 |
 
@@ -138,7 +140,7 @@ JANVIER GIORDANO
 
 |
 
-ANNE ANTOINE 2
+ANNE ANTOINE 2.
 
 |
 
@@ -154,11 +156,11 @@ ANNE ANTOINE 2
 
 |
 
-JEAN MARIE CHRISTIAN 5
+JEAN MARIE CHRISTIAN 5.
 
 |
 
-209
+254
 
 |
 
@@ -170,7 +172,7 @@ JEAN MARIE CHRISTIAN 5
 
 |
 
-ST SOPHIE FRANÇOIS 2
+SAINT SOPHIE FRANÇOIS 2.
 
 |
 
@@ -186,7 +188,7 @@ ST SOPHIE FRANÇOIS 2
 
 |
 
-VILLE D'ARZEW 2
+VILLE D'ARZEW 2.
 
 |
 
@@ -202,7 +204,7 @@ VILLE D'ARZEW 2
 
 |
 
-CHRISDERIC II
+CHRISDERIC II.
 
 |
 
@@ -218,7 +220,7 @@ CHRISDERIC II
 
 |
 
-GERARD LUC IV
+GERARD LUC IV.
 
 |
 
@@ -234,11 +236,11 @@ GERARD LUC IV
 
 |
 
-JEAN MARIE CHRISTIAN 6
+JEAN MARIE CHRISTIAN 6.
 
 |
 
-174
+129
 
 |
 
@@ -250,11 +252,11 @@ JEAN MARIE CHRISTIAN 6
 
 |
 
-JEAN MARIE CHRISTIAN 7
+JEAN MARIE CHRISTIAN 7.
 
 |
 
-209
+254
 
 |
 
@@ -266,7 +268,7 @@ JEAN MARIE CHRISTIAN 7
 
 |
 
-RAYMOND ELISE III
+RAYMOND ELISE III.
 
 |
 
@@ -282,7 +284,7 @@ RAYMOND ELISE III
 
 |
 
-MARCAL 3
+MARCAL 3.
 
 |
 
@@ -298,7 +300,7 @@ MARCAL 3
 
 |
 
-SALVADOR PIERRE JOSE
+SALVADOR PIERRE JOSE.
 
 |
 
@@ -314,7 +316,7 @@ SALVADOR PIERRE JOSE
 
 |
 
-PROVENCE COTE D'AZUR
+PROVENCE COTE D'AZUR.
 
 |
 
@@ -330,7 +332,7 @@ PROVENCE COTE D'AZUR
 
 |
 
-GERALD JEAN III
+GERALD JEAN III.
 
 |
 
@@ -346,7 +348,7 @@ GERALD JEAN III
 
 |
 
-ST ANTOINE MARIE II
+ST ANTOINE MARIE II.
 
 |
 
@@ -362,7 +364,7 @@ ST ANTOINE MARIE II
 
 |
 
-GERALD JEAN IV
+GERALD JEAN IV.
 
 |
 
@@ -378,7 +380,7 @@ GERALD JEAN IV
 
 |
 
-CISBERLANDE 5
+CISBERLANDE 5.
 
 |
 
@@ -394,7 +396,7 @@ CISBERLANDE 5
 
 |
 
-ST SOPHIE FRANÇOIS 3
+SAINT SOPHIE FRANÇOIS 3.
 
 |
 
@@ -410,7 +412,7 @@ ST SOPHIE FRANÇOIS 3
 
 |
 
-ERIC MARIN
+ERIC MARIN.
 
 |
 
@@ -426,7 +428,7 @@ ERIC MARIN
 
 |
 
-ROGER CHRISTIAN IV
+ROGER CHRISTIAN IV.
 
 |
 
@@ -442,7 +444,7 @@ ROGER CHRISTIAN IV
 
 |
 
-VILLE D'AGDE IV
+VILLE D'AGDE IV.
 
 |
 
@@ -458,7 +460,7 @@ VILLE D'AGDE IV
 
 |
 
-JANVIER LOUIS RAPHAEL
+JANVIER LOUIS RAPHAEL.
 
 |
 
@@ -472,7 +474,7 @@ JANVIER LOUIS RAPHAEL
 
 |
 
-Total
+Total .
 
 |
 
@@ -483,3 +485,7 @@ Total
 0
 
 |
+
+NOTA :
+
+Conseil d'Etat, décision n° 329141 du 19 juillet 2011, art 1er : L'arrêté du 5 juin 2009 du ministre de l'agriculture et de la pêche est annulé en tant qu'il répartit, par son annexe I, le quota de thon rouge alloué en 2009 aux navires pêchant à la senne de surface en Méditerranée.
