@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe art. D310-15-3
 
 LISTE DES ZONES MENTIONNÉES À L'ARTICLE D. 310-15-3
 
@@ -10,7 +10,21 @@ APPLICATION TERRITORIALE
 
 |
 
-DATES DE DÉBUT DES PÉRIODES DE SOLDES
+DATES DE DÉBUT
+
+des périodes de soldes
+
+|
+
+Alpes-Maritimes (06)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : deuxième mercredi du mois de juillet
 
 |
 
@@ -22,7 +36,7 @@ Tout le département
 
 |
 
-Soldes d'été : deuxième mercredi du mois de juillet.
+Soldes d'été : deuxième mercredi du mois de juillet
 
 |
 
@@ -34,7 +48,19 @@ Tout le département
 
 |
 
-Soldes d'été : deuxième mercredi du mois de juillet.
+Soldes d'été : deuxième mercredi du mois de juillet
+
+|
+
+Landes (40)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'hiver : premier mercredi du mois de janvier
 
 |
 
@@ -46,7 +72,7 @@ Tout le département
 
 |
 
-Soldes d'hiver : premier jour ouvré du mois de janvier.
+Soldes d'hiver : premier jour ouvré du mois de janvier
 
 |
 
@@ -58,7 +84,7 @@ Tout le département
 
 |
 
-Soldes d'hiver : premier jour ouvré du mois de janvier.
+Soldes d'hiver : premier jour ouvré du mois de janvier
 
 |
 
@@ -70,7 +96,31 @@ Tout le département
 
 |
 
-Soldes d'hiver : premier jour ouvré du mois de janvier.
+Soldes d'hiver : premier jour ouvré du mois de janvier
+
+|
+
+Pyrénées-Atlantiques (64)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'hiver : premier mercredi du mois de janvier
+
+|
+
+Vosges (88)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'hiver : premier jour ouvré du mois de janvier
 
 |
 
@@ -80,23 +130,21 @@ Guadeloupe (971)
 
 |
 
-Soldes d'hiver : premier samedi de janvier.
+Soldes d'hiver : premier samedi de janvier
 
-Soldes d'été : dernier samedi de septembre.
-
-|
+Soldes d'été : dernier samedi de septembre
 
 |
 
-Saint-Barthélemy
+|
 
-et Saint-Martin
+Saint-Barthélemy et Saint-Martin
 
 |
 
-Soldes d'hiver : premier samedi de mai.
+Soldes d'hiver : premier samedi de mai
 
-Soldes d'été : deuxième samedi d'octobre.
+Soldes d'été : deuxième samedi d'octobre
 
 |
 
@@ -108,7 +156,21 @@ Tout le département
 
 |
 
-Soldes d'été : premier jeudi d'octobre.
+Soldes d'été : premier jeudi d'octobre
+
+|
+
+Guyane (973)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'hiver : premier mercredi du mois de janvier
+
+Soldes d'été : premier jeudi du mois d'octobre
 
 |
 
@@ -120,25 +182,31 @@ Tout le département
 
 |
 
-Soldes d'hiver : premier jour ouvré du mois de février.
+Soldes d'hiver : premier jour ouvré du mois de février
 
-Soldes d'été : premier jour ouvré du mois de septembre.
+Soldes d'été : premier jour ouvré du mois de septembre
 
 |
 
 COLLECTIVITÉ
 
-d'outre-mer (COM)
+d'outre-mer
+
+(COM)
 
 |
 
-|
+APPLICATION TERRITORIALE
 
 |
 
-Saint-Pierre-
+DATES DE DÉBUT
 
-et-Miquelon (975)
+des périodes de soldes
+
+|
+
+Saint-Pierre-et-Miquelon (975)
 
 |
 
@@ -146,8 +214,8 @@ Tout le département
 
 |
 
-Soldes d'été : premier mercredi après le 14 juillet.
+Soldes d'été : premier mercredi après le 14 juillet
 
-Soldes d'hiver : premier mercredi après le 15 janvier.
+Soldes d'hiver : premier mercredi après le 15 janvier
 
 |
