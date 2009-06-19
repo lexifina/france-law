@@ -608,9 +608,9 @@ d) Régulateur de pH dans le cas des autres usages.
 
 a) 5 % en masse (3xxx).
 
-b) 1. 2 % en masse (4).
+b) 1. 2 % en masse (3xxx).
 
-b) 2. 4,5 % en masse (4).
+b) 2. 4,5 % en masse (3xxx).
 
 c) Jusqu'au pH 12,7.
 
@@ -876,7 +876,7 @@ b) 0,2 % (en quinine base).
 
 |
 
-Résorcine (3a).
+Résorcine (3).
 
 |
 
@@ -1632,7 +1632,7 @@ Phénoxypropanol.
 
 |
 
-Comme agent conservateur : voir arrêté fixant la liste des agents conservateurs, au no 43.
+Comme agent conservateur : voir arrêté fixant la liste des agents conservateurs, au n° 43.
 
 |
 
@@ -2532,7 +2532,7 @@ La présence de la substance doit être indiquée sur la liste des ingrédients 
 
 |
 
-La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
+La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
 
 - à 0,001 % dans les produits non rincés ;
 
@@ -2556,7 +2556,7 @@ Evernia prunastri, extraits.
 
 |
 
-La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
+La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
 
 - à 0,001 % dans les produits non rincés ;
 
@@ -2580,7 +2580,7 @@ Evernia furfuracea, extraits.
 
 |
 
-La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
+La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :
 
 - à 0,001 % dans les produits non rincés ;
 
@@ -2778,9 +2778,7 @@ b) 6,7 % exprimé en SO2 libre.
 
 c) 0,45 % exprimé en SO2 libre.
 
-d) 0,40 % exprimé en SO2 libre.
-
-|
+d) 0,40 % exprimé en SO2 libre. |
 
 A des fins autres qu'inhiber le développement de micro-organismes dans le produit, cette fin doit ressortir de la présentation du produit.
 
@@ -3346,7 +3344,7 @@ distilled (Pinus spp.).
 
 |
 
-Indice de peroxyde inférieur à 10 mmoles/L (***).
+Indice de peroxyde inférieur à 10 mmoles/L (**).
 
 |
 
@@ -4366,7 +4364,7 @@ l-Limonene.
 
 |
 
-Indice de péroxyde inférieur à 20 mmoles/L (***).
+Indice de péroxyde inférieur à 20 mmoles/L (**).
 
 |
 
@@ -4392,7 +4390,7 @@ p-Mentha-1,8-diène
 
 |
 
-Indice de péroxyde inférieur à 20 mmoles/L (***).
+Indice de péroxyde inférieur à 20 mmoles/L (**).
 
 |
 
@@ -4828,7 +4826,111 @@ resin.
 
 |
 
+185
+
+|
+
+Toluène.
+
+N° CAS 108-88-3.
+
+N° CE 203-625-9.
+
+|
+
+Produits pour les ongles.
+
+|
+
+25 % |
+
+|
+
+Tenir hors de portée des enfants.
+
+A utiliser par des adultes uniquement.
+
+|
+
+186 |
+
+Diéthylène-glycol (DEG).
+
+N° CAS 111-46-6.
+
+N° CE 203-872-2.
+
+2, 2'-oxydiéthanol.
+
+|
+
+Trace dans les ingrédients.
+
+|
+
+0,1 % |
+
+|
+
+|
+
+187 |
+
+Butoxy-diglycol.
+
+N° CAS 112-34-5.
+
+N° CE 203-961-6.
+
+Diéthylène-glycol
+
+monobutyl-éther
+
+(DEGBE). |
+
+Solvant pour colorant d'oxydation pour la coloration des cheveux. |
+
+9 % |
+
+Ne pas utiliser dans des atomiseurs. |
+
+|
+
+188 |
+
+Butoxy-éthanol.
+
+N° CAS 111-76-2.
+
+N° CE 203-905-0.
+
+Ethylène-glycol
+
+monobutyl-éther
+
+(EGBE).
+
+|
+
+Solvant pour colorant d'oxydation pour la coloration des cheveux.
+
+Solvant pour colorant non oxydant pour la coloration des cheveux.
+
+|
+
+4 %
+
+2 %
+
+|
+
+Ne pas utiliser dans des atomiseurs. |
+
+|
+
 (1) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne soit pas supérieure à 1.
+
+(2) Uniquement si la concentration est supérieure à 0,05 %
 
 (3xx) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne dépasse pas 2.
 
