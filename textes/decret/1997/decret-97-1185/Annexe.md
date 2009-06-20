@@ -114,6 +114,12 @@ R. 231-53-2.
 
 |
 
+13 |
+
+Agrément des organismes chargés de l'enlèvement et de la destruction des médicaments à usage humain non utilisés (conjointement avec le ministre chargé de l'environnement). |
+
+R. 4211-28 |
+
 Code de la sécurité sociale
 
 1
