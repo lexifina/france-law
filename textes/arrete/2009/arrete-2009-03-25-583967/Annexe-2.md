@@ -454,6 +454,50 @@ UNSA-SPJJ
 
 |
 
+Essonne
+
+|
+
+CGT-PJJ
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
+SNPES-PJJ/FSU
+
+|
+
+5
+
+|
+
+5
+
+|
+
+|
+
+UNSA-SPJJ
+
+|
+
+1
+
+|
+
+1
+
+|
+
 Eure
 
 |
@@ -1506,6 +1550,36 @@ UNSA-SPJJ
 
 |
 
+Oise
+
+|
+
+CGT-PJJ
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
+SNPES-PJJ/FSU
+
+|
+
+4
+
+|
+
+4
+
+|
+
 Paris
 
 |
@@ -1975,6 +2049,36 @@ SNPES-PJJ/FSU
 |
 
 4
+
+|
+
+|
+
+UNSA-SPJJ
+
+|
+
+1
+
+|
+
+1
+
+|
+
+Seine-et-Marne
+
+|
+
+SNPES-PJJ/FSU
+
+|
+
+5
+
+|
+
+5
 
 |
 
