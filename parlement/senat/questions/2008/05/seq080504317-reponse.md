@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504317
+
+- Question : [SEQ080504317](seq080504317.md) — Financement des campagnes électorales
+
+## Réponse
+
+*Intérieur, JO du 2009-06-25, page 1609*
+
+En application de l'article L. 52-4 du code électoral, tout candidat doit désigner un mandataire financier. Ce dernier peut être désigné dès le début de la période de douze mois précédant le premier jour du mois de l'élection. Après la désignation du mandataire, le candidat ne peut régler directement les dépenses électorales. La décision du Conseil constitutionnel du 17 avril 2008 AN, Seine-et-Marne (8e circ.) a relevé que la somme correspondant aux « menues dépenses » (550 euros) réglées directement par le candidat, représentait en réalité 34,97 % du total des dépenses de campagne du candidat. De même, une seconde décision du Conseil constitutionnel du même jour (AN, Alpes 1re circ.) a souligné que la somme correspondant également aux « menues dépenses » (621 euros) représentait dans les faits 27,56 % du total de ses dépenses de campagne. Par ailleurs, le guide à l'usage des candidats et du mandataire financier de 2006 établi par la commission nationale des comptes de campagne et des financements politiques pour les scrutins nationaux précise que « le règlement direct de menues dépenses par le candidat ne peut être admis, à titre exceptionnel et pour des raisons pratiques, qu'à la double condition que leur montant soit faible par rapport au total des dépenses du compte et négligeable au regard du plafond des dépenses ». Toutefois, pour faire face à ce type de difficulté lorsque les dépenses réglées directement par le candidat restent limitées tant par rapport au total des dépenses employées qu'au plafond du compte de campagne, le Gouvernement envisage de proposer une modification législative dans le code électoral fixant un montant acceptable de ce type de dépense afin d'éviter des rejets de comptes de campagnes.
