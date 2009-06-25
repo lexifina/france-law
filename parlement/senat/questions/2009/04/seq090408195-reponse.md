@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408195
+
+- Question : [SEQ090408195](seq090408195.md) — Conditions d'installation des officines de pharmacie
+
+## Réponse
+
+*Santé, JO du 2009-06-25, page 1620*
+
+La loi du 27 juillet 1999 a contribué à l'amélioration du maillage des officines sur le territoire national. Actuellement, le réseau officinal est globalement satisfaisant, même si certaines disparités peuvent subsister en milieu rural en raison de spécificités géographiques locales. C'est à partir de ce constat que, dans son article 59, la loi de financement de la sécurité sociale pour 2008 s'est donné comme objectif l'optimisation de la répartition territoriale en autorisant les regroupements ou les transferts des petites officines sur l'ensemble du territoire en cas de besoin non satisfait. Les besoins spécifiques des zones rurales ont été pris en compte, étant donné qu'un transfert ou un regroupement est possible dans les communes dépourvues d'officines dont la population atteint 2 500 habitants, ainsi que dans les communes de moins de 2 500 habitants en cas de cessation d'activité de l'officine qui desservait des petites communes limitrophes. Par ailleurs, l'ouverture d'une nouvelle officine dans une commune d'au moins 2 500 habitants qui en est dépourvue pourra être autorisée par voie de création à compter du 1er janvier 2010, si aucun transfert ou regroupement n'y a été effectué avant cette date. L'article 59 précité a également tenu compte des besoins du lieu d'origine pour éviter que des communes ou des quartiers ne soient délaissés. En outre, conformément aux dispositions des articles L. 5125-25 et R. 5125-47 à R. 5125-52 du code de la santé publique, les médicaments peuvent être soit livrés au domicile du malade, sous paquet scellé préparé par le pharmacien, soit dispensés personnellement par le pharmacien d'officine, ou par les personnes légalement habilitées à le remplacer, au domicile des personnes dont la situation le requiert.
