@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070901937
+
+- Question : [SEQ070901937](seq070901937.md) — Conseil juridique et déduction fiscale
+
+## Réponse
+
+*Économie, JO du 2009-06-25, page 1593*
+
+À compter de l'imposition des revenus de l'année 2006, le e du 1° du I de l'article 31 du code général des impôts (CGI) prévoit que les charges de la propriété déductibles pour la détermination du revenu net comprennent, pour les propriétés urbaines, les frais de rémunération des gardes et concierges, les frais de procédure et les frais de rémunération, honoraires et commissions versés à un tiers pour la gestion des immeubles, lorsque ces dépenses sont effectivement supportées par le propriétaire, ainsi que les autres frais de gestion, forfaitairement fixés à 20 euros par local. Parmi les rémunérations, honoraires et commissions versés à des tiers pour la gestion des biens donnés en location figurent, notamment, les cotisations versées à des chambres syndicales (ou à des fédérations de chambres syndicales) de propriétaires ou de copropriétaires qui fournissent aide et information à la gestion des immeubles donnés en location par leurs adhérents (assistance téléphonique, délivrance de conseils personnalisés, autres prestations de services individualisées...). En revanche, ne peuvent être considérées comme déductibles les cotisations versées à des unions ou organismes qui ont pour objet d'assurer la défense et la représentation de leurs adhérents, sans leur fournir aucune prestation individualisée relative à la gestion de l'immeuble. Dès lors, si les cotisations et honoraires versés par le bailleur à l'organisme tiers, qui fournit des prestations personnalisées et individualisées au titre de la gestion du bien immobilier, sont déductibles des revenus fonciers, tel n'est pas le cas de l'abonnement à une revue souscrit auprès de ce même organisme, quand bien même la cotisation qui lui est versée ouvrirait par ailleurs droit à déduction.
