@@ -1,16 +1,14 @@
 # Article Annexe
 
-PLAFONDS APPLICABLES AUX OPÉRATIONS
-
-RELEVANT DE LA BONNE CONDUITE DES TROUPEAUX
+PLAFONDS APPLICABLES AUX OPÉRATIONS RELEVANT DE LA BONNE CONDUITE DES TROUPEAUX
 
 INVESTISSEMENTS
 
 |
 
-MONTANT GLOBAL PLAFONNÉ
+MONTANT DE DÉPENSES
 
-(2008-2013)
+GLOBAL PLAFONNÉ (2008-2013)
 
 |
 
@@ -18,43 +16,65 @@ CLÔTURE MOBILE
 
 Acquisition de moyens de contention :
 
-― électrificateur ;
+- électrificateur ;
 
-― clôtures mobiles.
+- clôtures mobiles.
 
 |
 
 Plafond :
 
-― troupeaux individuels : 5 000 € ;
+- troupeaux collectifs : 10 000 € ;
 
-― troupeaux collectifs : 10 000 €.
+- troupeaux individuels : 5 000 €.
+
+|
+
+INVESTISSEMENTS
+
+|
+
+MONTANT PLAFOND DE DÉPENSES
 
 |
 
 CHIEN DE PROTECTION
 
-Acquisition, vaccination, castration, identification.
+Acquisition
 
 |
 
-Plafond :
-
-700 € par chien, dans la limite de cinq chiens (*).
+375 € par chien dans la limite de 5 chiens (1)
 
 |
 
-(*) Le préfet pourra à titre exceptionnel autoriser le remplacement, au-delà du plafond, d'un chien reconnu agressif et présentant de ce fait un danger.
+Entretien du chien (2)
 
 |
 
-L'entretien des chiens est pris en charge, quelle que soit la catégorie de troupeaux, à hauteur de 650 € par an et par chien.
+815 € par chien
+
+|
+
+Stérilisation
+
+|
+
+250 €
+
+|
+
+(1) Le préfet pourra à titre exceptionnel autoriser le remplacement, au-delà du plafond, d'un chien reconnu agressif et présentant de ce fait un danger.
+
+(2) L'entretien du chien finance les dépenses suivantes : les frais vétérinaires y compris les soins et traitements, l'identification, la vaccination et les frais de nourriture.
+
+|
 
 GARDIENNAGE
 
 |
 
-PLAFOND MENSUEL
+PLAFOND D'AIDE MENSUEL
 
 |
 
@@ -74,17 +94,17 @@ Prestataire de service
 
 |
 
-|
-
-200 € (1)
-
-|
-
 Eleveur gardien
 
 |
 
-310 € (2)
+400 € (1)
+
+|
+
+|
+
+620 € (2)
 
 |
 
@@ -94,15 +114,15 @@ Eleveur gardien
 
 |
 
-PLAFONDS APPLICABLES AU DIAGNOSTIC PASTORAL
-
-ET À L'ANALYSE DE VULNÉRABILITÉ
+PLAFONDS APPLICABLES AU DIAGNOSTIC PASTORAL ET À L'ANALYSE DE VULNÉRABILITÉ
 
 ÉTUDES
 
 |
 
-MONTANT PLAFONNÉ
+MONTANT PLAFOND
+
+de dépenses
 
 |
 
