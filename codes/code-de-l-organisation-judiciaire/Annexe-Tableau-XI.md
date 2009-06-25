@@ -84,7 +84,7 @@ Albert
 
 |
 
-Cantons d'Albert et Bray-sur-Somme. (3)]
+Cantons d'Albert et Bray-sur-Somme. (11)]
 
 |
 
@@ -97,8 +97,6 @@ Creil
 |
 
 Cantons de Chantilly, Creil-Nogent-sur-Oise, Creil-Sud, Montataire et Neuilly-en-Thelle. (3)]
-
-|
 
 |
 
@@ -118,7 +116,7 @@ Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
 
 |
 
-Morne-à-l'Eau 2e canton, Le Moule 1er canton, Le Moule 2e canton, Petit-Canal, Saint-François, Sainte-Anne 1er canton et Sainte-Anne 2e canton.(3)]
+Morne-à-l'Eau 2e canton, Le Moule 1er canton, Le Moule 2e canton, Petit-Canal, Saint-François, Sainte-Anne 1er canton et Sainte-Anne 2e canton. (3)]
 
 |
 
@@ -330,7 +328,7 @@ Crest
 
 |
 
-Cantons de Bourdeaux, Crest-Nord, Crest-Sud et Saillans. (3)]
+Cantons de Bourdeaux, Crest-Nord, Crest-Sud et Saillans. (13)]
 
 |
 
@@ -430,7 +428,7 @@ Pézenas
 
 |
 
-Cantons de Florensac, Montagnac, Pézenas et Roujan. (3)]
+Cantons de Florensac, Montagnac, Pézenas et Roujan. (13)]
 
 |
 
@@ -442,7 +440,7 @@ Argelès-sur-Mer
 
 |
 
-Canton d'Argelès-sur-Mer. (3)]
+Canton d'Argelès-sur-Mer. (13)]
 
 |
 
@@ -474,7 +472,7 @@ La Grand-Combe
 
 |
 
-Cantons de Génolhac et La Grand-Combe. (3)]
+Cantons de Génolhac et La Grand-Combe. (13)]
 
 |
 
@@ -675,5 +673,9 @@ Cantons de Fécamp, Goderville et Valmont. (3)]
 |
 
 (3) applicable jusqu'au 31 décembre 2009.
+
+(11) applicable jusqu'au 31 août 2009.
+
+(13) applicable jusqu'au 30 juin 2009.
 
 |

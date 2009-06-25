@@ -302,7 +302,7 @@ Mayenne
 
 |
 
-Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (3)]
+Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (11)]
 
 |
 
@@ -310,7 +310,7 @@ Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (3)]
 
 |
 
-Ressort du tribunal d'instance de Laval. (4)]
+Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (12 et 3)]
 
 |
 
@@ -554,7 +554,7 @@ Gironde
 
 |
 
-Ressort des tribunaux d'instance d'Arcachon, Bazas, Blaye, Bordeaux, La Réole, Lesparre-Médoc et Libourne. (3)]
+Ressort des tribunaux d'instance d'Arcachon, Bazas, Blaye, Bordeaux, La Réole, Lesparre-Médoc et Libourne. (9)]
 
 |
 
@@ -562,7 +562,7 @@ Ressort des tribunaux d'instance d'Arcachon, Bazas, Blaye, Bordeaux, La Réole, 
 
 |
 
-Ressort des tribunaux d'instance d'Arcachon, Bordeaux et Libourne. (4)]
+Ressort des tribunaux d'instance d'Arcachon, Bazas, Blaye, Bordeaux, La Réole et Libourne. (10 et 3)]
 
 |
 
@@ -578,7 +578,7 @@ Cher
 
 |
 
-Ressort des tribunaux d'instance de Bourges, Saint-Amand-Montrond, Sancerre et Vierzon. (3)]
+Ressort des tribunaux d'instance de Bourges, Saint-Amand-Montrond, Sancerre et Vierzon. (11)]
 
 |
 
@@ -586,7 +586,7 @@ Ressort des tribunaux d'instance de Bourges, Saint-Amand-Montrond, Sancerre et V
 
 |
 
-Ressort des tribunaux d'instance de Bourges et Saint-Amand-Montrond. (4)]
+Ressort des tribunaux d'instance de Bourges, Saint-Amand-Montrond et Sancerre. (12 et 3)]
 
 |
 
@@ -642,7 +642,7 @@ Calvados
 
 |
 
-Ressort des tribunaux d'instance de Bayeux, Caen, Falaise, Lisieux, Pont-l'Evêque et Vire. (3)]
+Ressort des tribunaux d'instance de Bayeux, Caen, Falaise, Lisieux, Pont-l'Evêque et Vire. (11)]
 
 |
 
@@ -650,7 +650,7 @@ Ressort des tribunaux d'instance de Bayeux, Caen, Falaise, Lisieux, Pont-l'Evêq
 
 |
 
-Ressort des tribunaux d'instance de Caen, Lisieux et Vire. (4)]
+Ressort des tribunaux d'instance de Bayeux, Caen, Lisieux, Pont-l'Evêque et Vire. (12 et 3)]
 
 |
 
@@ -906,7 +906,7 @@ Saône-et-Loire
 
 |
 
-Ressort des tribunaux d'instance d'Autun, Chalon-sur-Saône et Louhans. (3)]
+Ressort des tribunaux d'instance d'Autun, Chalon-sur-Saône et Louhans. (11)]
 
 |
 
@@ -914,7 +914,7 @@ Ressort des tribunaux d'instance d'Autun, Chalon-sur-Saône et Louhans. (3)]
 
 |
 
-Ressort du tribunal d'instance de Chalon-sur-Saône. (4)]
+Ressort des tribunaux d'instance de Chalon-sur-Saône et Louhans. (12 et 3)]
 
 |
 
@@ -1122,7 +1122,7 @@ Ressort du tribunal d'instance de Romans-sur-Isère.
 
 |
 
-Ressort des tribunaux d'instance de Die et Valence. (3)]
+Ressort des tribunaux d'instance de Die et Valence. (13)]
 
 |
 
@@ -1130,7 +1130,7 @@ Ressort des tribunaux d'instance de Die et Valence. (3)]
 
 |
 
-Ressort du tribunal d'instance de Valence. (4)]
+Ressort du tribunal d'instance de Valence. (14)]
 
 |
 
@@ -1222,7 +1222,15 @@ Creuse
 
 |
 
-Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)]
+Ressort des tribunaux d'instance de Bourganeuf et Guéret. (9)]
+
+|
+
+[Guéret
+
+|
+
+Ressort du tribunal d'instance de Guéret. (10)]
 
 |
 
@@ -1406,7 +1414,7 @@ Aveyron
 
 |
 
-Ressort des tribunaux d'instance de Millau et Saint-Affrique. (3)]
+Ressort des tribunaux d'instance de Millau et Saint-Affrique. (9)]
 
 |
 
@@ -1414,7 +1422,7 @@ Ressort des tribunaux d'instance de Millau et Saint-Affrique. (3)]
 
 |
 
-Ressort du tribunal d'instance de Millau. (4)]
+Ressort du tribunal d'instance de Millau. (10)]
 
 |
 
@@ -1422,7 +1430,7 @@ Ressort du tribunal d'instance de Millau. (4)]
 
 |
 
-Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue. (3)]
+Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue. (9)]
 
 |
 
@@ -1430,7 +1438,7 @@ Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue. 
 
 |
 
-Ressort du tribunal d'instance de Rodez. (4)]
+Ressort des tribunaux d'instance d'Espalion et Rodez. (10 et 3)]
 
 |
 
@@ -1442,7 +1450,7 @@ Hérault
 
 |
 
-Ressort des tribunaux d'instance de Béziers et Saint-Pons-de-Thomières. (3)]
+Ressort des tribunaux d'instance de Béziers et Saint-Pons-de-Thomières. (11)]
 
 |
 
@@ -1450,7 +1458,7 @@ Ressort des tribunaux d'instance de Béziers et Saint-Pons-de-Thomières. (3)]
 
 |
 
-Ressort du tribunal d'instance de Béziers. (4)]
+Ressort du tribunal d'instance de Béziers. (12)]
 
 |
 
@@ -1558,7 +1566,15 @@ Vosges
 
 |
 
-Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et Saint-Dié-des-Vosges. (2 et 3)]
+Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et Saint-Dié-des-Vosges. (11)]
+
+|
+
+[Epinal
+
+|
+
+Ressort des tribunaux d'instance d'Epinal, Mirecourt, et Saint-Dié-des-Vosges. (12 et 3)]
 
 |
 
@@ -2334,7 +2350,7 @@ Ardennes
 
 |
 
-Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi, Sedan et Vouziers. (3)]
+Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi, Sedan et Vouziers. (13)]
 
 |
 
@@ -2342,7 +2358,7 @@ Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi, Seda
 
 |
 
-Ressort des tribunaux d'instance de Charleville-Mézières et Sedan. (4)]
+Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi et Sedan. (14 et 3)]
 
 |
 
@@ -2354,7 +2370,7 @@ Aube
 
 |
 
-Ressort des tribunaux d'instance de Bar-sur-Aube, Bar-sur-Seine, Nogent-sur-Seine et Troyes. (3)]
+Ressort des tribunaux d'instance de Bar-sur-Aube, Bar-sur-Seine, Nogent-sur-Seine et Troyes. (13)]
 
 |
 
@@ -2362,7 +2378,7 @@ Ressort des tribunaux d'instance de Bar-sur-Aube, Bar-sur-Seine, Nogent-sur-Sein
 
 |
 
-Ressort du tribunal d'instance de Troyes. (4)]
+Ressort des tribunaux d'instance de Bar-sur-Seine, Nogent-sur-Seine et Troyes. (14 et 3)]
 
 |
 
@@ -2506,7 +2522,7 @@ Ressort du tribunal d'instance de Nantes. (4)]
 
 |
 
-Ressort des tribunaux d'instance de Paimbœuf et Saint-Nazaire. (3)]
+Ressort des tribunaux d'instance de Paimbœuf et Saint-Nazaire. (11)]
 
 |
 
@@ -2514,7 +2530,7 @@ Ressort des tribunaux d'instance de Paimbœuf et Saint-Nazaire. (3)]
 
 |
 
-Ressort du tribunal d'instance de Saint-Nazaire. (4)]
+Ressort du tribunal d'instance de Saint-Nazaire. (12)]
 
 |
 
@@ -2602,7 +2618,7 @@ Ressort du tribunal d'instance d'Aurillac. (4)]
 
 |
 
-Ressort des tribunaux d'instance de Murat et Saint-Flour. (3)]
+Ressort des tribunaux d'instance de Murat et Saint-Flour. (11)]
 
 |
 
@@ -2610,7 +2626,7 @@ Ressort des tribunaux d'instance de Murat et Saint-Flour. (3)]
 
 |
 
-Ressort du tribunal d'instance de Saint-Flour. (4)]
+Ressort du tribunal d'instance de Saint-Flour. (12)]
 
 |
 
@@ -3102,14 +3118,26 @@ Ressort du tribunal de Première instance de Mamoudzou.
 
 (3) applicable jusqu'au 31 décembre 2009.
 
-(4) applicable à compter du 1er janvier 2010
+(4) applicable à compter du 1er janvier 2010.
 
-(5) applicable jusqu'au 31 décembre 2010
+(5) applicable jusqu'au 31 décembre 2010.
 
 (6) applicable à compter du 1er janvier 2011.
 
-(7) applicable jusqu'au 31 janvier 2009
+(7) applicable jusqu'au 31 janvier 2009.
 
-(8) applicable à compter du 1er février 2009
+(8) applicable à compter du 1er février 2009.
+
+(9) applicable jusqu'au 30 septembre 2009.
+
+(10) applicable à compter du 1er octobre 2009.
+
+(11) applicable jusqu'au 31 août 2009.
+
+(12) applicable à compter du 1er septembre 2009.
+
+(13) applicable jusqu'au 30 juin 2009.
+
+(14) applicable à compter du 1er juillet 2009.
 
 |
