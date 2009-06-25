@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408192
+
+- Question : [SEQ090408192](seq090408192.md) — Transmission à titre onéreux d'entreprises au profit d'apprentis ou de salariés titulaires d'un CDI de plus de deux ans
+
+## Réponse
+
+*Économie, JO du 2009-06-25, page 1600*
+
+L'article 65 de la loi n° 2008-776 de modernisation de l'économie du 4 août 2008 allège les droits de mutation à titre onéreux exigibles en cas de reprise d'entreprises en instituant un abattement de 300 000 euros pour la liquidation des droits applicables aux rachats d'entreprises par les salariés et les membres du cercle familial proche du cédant qui s'engagent à poursuivre leur activité professionnelle dans l'entreprise pendant cinq ans (art. 732 ter du code général des impôts). Outre le conjoint du cédant ou son partenaire lié par un pacte civil de solidarité, ses ascendants ou descendants en ligne directe, ou encore ses frères et soeurs, ce dispositif vise les salariés titulaires d'un contrat à durée indéterminée (CDI) exerçant leur activité à temps plein dans l'entreprise depuis au moins deux ans ainsi que les apprentis. Concernant les salariés, l'instruction publiée au Bulletin officiel des impôts 7 D. -1-09 du 2 avril 2009, commentant ce dispositif, précise dans son paragraphe n° 21 que, dès lors qu'ils disposent d'un CDI en cours au jour de la cession, il est admis que le délai de deux ans soit décompté à la date de la signature du premier contrat de travail dans l'entreprise, quelle que soit sa nature. Concernant les apprentis, le paragraphe n° 22 de cette même instruction précise qu'ils doivent être titulaires d'un contrat d'apprentissage en cours au jour de la cession. Dans ce cas, la condition de durée de deux ans n'est pas exigée. Dans le cas soulevé par l'auteur de la question, il est confirmé que le délai de deux ans sera calculé en tenant compte des périodes cumulées du CDI et du contrat d'apprentissage qui l'a précédé.
