@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307980
+
+- Question : [SEQ090307980](seq090307980.md) — Réglementation de l'usage du triangle de pré-signalisation
+
+## Réponse
+
+*Transports, JO du 2009-06-25, page 1623*
+
+Le Gouvernement a décidé de rendre obligatoire le gilet de sécurité et le triangle de présignalisation afin de mieux signaler aux autres conducteurs la présence d'un véhicule immobilisé sur la chaussée et celle de son conducteur si celui-ci est amené à sortir du véhicule. Cette nouvelle obligation a pour objectif de renforcer la sécurité du conducteur et des passagers du véhicule en panne ou accidenté, donc de sauver des vies. L'allumage des feux de détresse en toutes circonstances d'arrêt d'urgence demeure également obligatoire. Les règles d'utilisation du triangle sur autoroutes résultent clairement des dispositions du code de la route. En effet, l'obligation de mise en place du triangle s'applique, selon les termes de l'article R. 416-19 du code de la route, pour les véhicules immobilisés sur la chaussée. Les véhicules immobilisés sur la bande d'arrêt d'urgence et n'empiétant pas sur la chaussée ne sont donc pas soumis à cette obligation. En ce qui concerne le cas d'un véhicule immobilisé sur la chaussée, les règles de sécurité à respecter sur les autoroutes demeurent. Il est notamment interdit à un piéton de circuler sur une autoroute (art. R. 421-2 du code de la route). Les consignes de sécurité en cas d'accident ou de panne (mettre les feux de détresse, revêtir son gilet et de se mettre à l'abri le plus rapidement possible derrière les barrières de sécurité) doivent être appliquées. L'arrêté d'application de l'article R. 416-19 du code de la route (arrêté du 30 septembre 2008 relatif à la présignalisation des véhicules) précise d'ailleurs dans son article 2 que « l'obligation de mise en place du triangle ne s'applique pas lorsque cette action constitue une mise en danger manifeste de la vie du conducteur ».
