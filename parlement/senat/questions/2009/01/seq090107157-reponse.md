@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107157
+
+- Question : [SEQ090107157](seq090107157.md) — Situation critique du secteur de l'aide à domicile en matière de politique salariale
+
+## Réponse
+
+*Travail, JO du 2009-06-25, page 1626*
+
+L'attention de M. le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville a été appelée sur la question de la revalorisation des salaires de la branche de l'aide à domicile en 2008. Les partenaires sociaux avaient conclu un accord salarial le 27 juin 2008 portant sur le relèvement des premiers coefficients des grilles salariales de la branche ainsi que sur la revalorisation de 2 % de l'ensemble des salaires. Cet accord n'avait pu être agréé dans la mesure où son application aurait conduit au dépassement du taux d'évolution de la masse salariale fixé par le ministère pour l'année 2008. C'est la raison pour laquelle la Commission nationale d'agrément a rendu, le 30 septembre 2008, un avis défavorable à l'agrément à l'unanimité de ses membres (représentants des conseils généraux, des administrations de l'État, de la Caisse nationale de solidarité pour l'autonomie et des Caisses nationales de sécurité sociale). Le ministère a toutefois encouragé les partenaires sociaux à renégocier un accord salarial permettant notamment de réajuster les premiers niveaux des salaires conventionnels par rapport au salaire minimum interprofessionnel de croissance et de revaloriser la valeur du point pour l'ensemble des salariés. Il a accepté, pour faciliter la renégociation, de ne pas prendre en compte dans l'évolution de la masse salariale la majoration du remboursement des indemnités kilométriques, du fait des conditions d'exercice des salariés. Le nouvel accord salarial signé en ce sens le 22 octobre 2008 par les partenaires sociaux de la branche a reçu un avis favorable de la commission et a été agréé par arrêté du ministre chargé des affaires sociales en date du 18 novembre 2008.
