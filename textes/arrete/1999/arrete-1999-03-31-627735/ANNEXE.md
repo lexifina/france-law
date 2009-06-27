@@ -420,9 +420,9 @@ Les exigences de sécurisation énumérées ci-après doivent être maîtrisées
 
 3.1. Vérification de la commande
 
-L'identité du destinataire des ordonnances, son adresse et son appartenance à une profession de santé doivent être vérifiées à l'aide du fichier ADELI, à chaque commande.
+L'identité du destinataire des ordonnances et, le cas échéant, des autres prescripteurs figurant sur les ordonnances, leur adresse et leur appartenance à une profession de santé doivent être vérifiées, à chaque commande, à l'aide du répertoire partagé des professionnels de santé (RPPS). A titre transitoire et jusqu'aux dates mentionnées à l'article 5 du décret n° 2009-134 du 6 février 2009 relatif aux procédures liées à l'exercice des professionnels de santé, ces vérifications sont opérées à l'aide du fichier ADELI.
 
-En cas de doute ou si le fichier ADELI n'est pas renseigné pour la profession de santé du destinataire des ordonnances, le conseil de l'ordre correspondant doit alors être consulté.
+Pour les professionnels autorisés à prescrire et ne relevant pas du RPPS, le conseil de l'ordre correspondant doit alors être consulté.
 
 L'intervenant assurant la vérification de la commande est responsable et garant de son personnel ainsi que de son suivi.
 
