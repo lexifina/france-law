@@ -1584,7 +1584,7 @@ Ester diéthylphosphorique du p-nitrophénol.
 
 |
 
-Esters de l'acide p-aminobenzoique (avec le groupe amino libre) |
+Esters de l'acide p-aminobenzoique et ses esters (avec le groupe amino libre) |
 
 168
 
