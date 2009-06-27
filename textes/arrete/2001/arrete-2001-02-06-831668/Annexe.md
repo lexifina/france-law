@@ -60,22 +60,6 @@ e
 
 |
 
-1
-
-|
-
-Acide 4-aminobenzoïque (PABA).
-
-|
-
-5 %
-
-|
-
-|
-
-|
-
 2
 
 |
@@ -488,7 +472,7 @@ Acide benzoïque 2-[-4-(diéthylamino)-2-hydroxybenzoyl]-, hexyl-ester (nom INCI
 
 |
 
-10 % dans les produits de protection solaire.
+10 %
 
 |
 
