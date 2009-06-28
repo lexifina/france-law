@@ -74,7 +74,7 @@ Qu'il a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à
 
 Qu'il peut faire état de connaissances élémentaires sur l'organisation d'un établissement scolaire du second degré.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ;coefficient 4.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
 Le programme des épreuves du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
 
@@ -214,7 +214,7 @@ Lorsque le commentaire porte sur un texte de civilisation, la composition porte 
 
 3. Epreuve de traduction (thème et version).
 
-L'épreuve porte sur des textes en prose, modernes et/ou contemporains, qui peuvent être de natures diverses. Il s'agit notamment d'extraits de romans, de pièces de théâtre ou d'articles de presse.
+L'épreuve porte sur des textes en prose, modernes et / ou contemporains, qui peuvent être de natures diverses. Il s'agit notamment d'extraits de romans, de pièces de théâtre ou d'articles de presse.
 
 Les textes à traduire sont distribués simultanément aux candidats au début de l'épreuve. Ceux-ci consacrent à chacune des deux traductions le temps qui leur convient, dans les limites de l'horaire imparti à l'ensemble de l'épreuve.
 
@@ -296,7 +296,7 @@ a) Epreuves écrites d'admissibilité
 
 b) Epreuves orales d'admission
 
-1. Montage et traitement automatisé de l'information. Cette épreuve comporte l'exécution et l'interprétation d'une ou plusieurs expériences qualitatives et/ou quantitatives portant, par tirage au sort, sur un sujet de physique ou de chimie pouvant mettre en oeuvre l'outil informatique.
+1. Montage et traitement automatisé de l'information. Cette épreuve comporte l'exécution et l'interprétation d'une ou plusieurs expériences qualitatives et / ou quantitatives portant, par tirage au sort, sur un sujet de physique ou de chimie pouvant mettre en oeuvre l'outil informatique.
 
 Elle est suivie d'un entretien avec les membres du jury (durée de la préparation : deux heures ; durée de l'épreuve : une heure [présentation : trente minutes ; entretien : trente minutes) ; coefficient : 1).
 
@@ -332,7 +332,7 @@ a) Epreuves écrites d'admissibilité
 
 b) Epreuves orales d'admission
 
-1. Montage et traitement automatisé de l'information. Cette épreuve comporte l'exécution et l'interprétation d'une ou plusieurs expériences qualitatives et/ou quantitatives portant, par tirage au sort, sur un sujet de physique ou d'électricité appliquée pouvant mettre en oeuvre l'outil informatique.
+1. Montage et traitement automatisé de l'information. Cette épreuve comporte l'exécution et l'interprétation d'une ou plusieurs expériences qualitatives et / ou quantitatives portant, par tirage au sort, sur un sujet de physique ou d'électricité appliquée pouvant mettre en oeuvre l'outil informatique.
 
 Elle est suivie d'un entretien avec les membres du jury (durée de la préparation : deux heures ; durée de l'épreuve : une heure [présentation : trente minutes ; entretien : trente minutes] ; coefficient : 1).
 
@@ -490,11 +490,11 @@ qu'il peut faire état de connaissances élémentaires sur l'organisation d'un �
 
 SECTION ARTS PLASTIQUES
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
 1° Epreuve écrite de culture artistique :
 
-L'épreuve s'appuie sur un ensemble de trois documents visuels assortis d'un sujet à consignes précises. L'un de ces documents est relatif aux arts plastiques, l'autre à l'architecture, le dernier à un art proche des arts plastiques (arts appliqués, cinéma, photographie).
+L'épreuve s'appuie sur un ensemble de trois documents visuels assortis d'un sujet à consignes précises.L'un de ces documents est relatif aux arts plastiques, l'autre à l'architecture, le dernier à un art proche des arts plastiques (arts appliqués, cinéma, photographie).
 
 Il est demandé au candidat :
 
@@ -518,7 +518,7 @@ Format du support de présentation : " grand aigle ".
 
 (Durée de l'épreuve : huit heures ; coefficient 2.)
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Epreuve de pratique et expression plastiques à deux ou trois dimensions répondant à un sujet à consignes précises :
 
@@ -564,15 +564,15 @@ Exposé relatif aux applications pédagogiques des sciences et techniques docume
 
 (Durée : cinq heures ; coefficient 1.)
 
-2.Epreuves de dossier documentaire.
+2. Epreuves de dossier documentaire.
 
 A partir d'un ensemble de documents, le candidat élabore un dossier relatif à une question de politique documentaire dans le contexte d'un établissement scolaire du second degré. Ce dossier est accompagné :
 
-- d'un plan de classement ;
+-d'un plan de classement ;
 
-- du ou des résumés en un nombre maximal de mots d'un ou deux documents choisis par le jury parmi ceux remis au candidat ;
+-du ou des résumés en un nombre maximal de mots d'un ou deux documents choisis par le jury parmi ceux remis au candidat ;
 
-- d'une note de synthèse précisant les objectifs, le contenu et les conditions d'exploitation.
+-d'une note de synthèse précisant les objectifs, le contenu et les conditions d'exploitation.
 
 Durée : 5 heures ; coefficient 1.
 
@@ -604,13 +604,13 @@ Cette épreuve prend appui sur un dossier proposé par le jury, comprenant un ou
 
 Elle permet au candidat de démontrer :
 
-- qu'il a réfléchi aux finalités et à l'évolution de la profession ainsi que sur les relations entre celle-ci et les disciplines enseignées dans le second degré ;
+-qu'il a réfléchi aux finalités et à l'évolution de la profession ainsi que sur les relations entre celle-ci et les disciplines enseignées dans le second degré ;
 
-- qu'il a réfléchi à la dimension civique et sociale de l'enseignement et de l'activité professionnelle qu'il souhaite exercer ;
+-qu'il a réfléchi à la dimension civique et sociale de l'enseignement et de l'activité professionnelle qu'il souhaite exercer ;
 
-- qu'il a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à la communication
+-qu'il a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à la communication
 
-- qu'il peut faire état de connaissances sur l'organisation d'un établissement scolaire du second degré.
+-qu'il peut faire état de connaissances sur l'organisation d'un établissement scolaire du second degré.
 
 (Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes [exposé de vingt minutes maximum suivi d'un entretien] ; coefficient 2.)
 
@@ -776,7 +776,7 @@ Commentaire dirigé en langue étrangère d'un texte littéraire ou de civilisat
 
 Option mathématiques :
 
-Composition se rapportant au programme des épreuves écrites du concours externe du CAPES de mathématiques (durée : cinq heures). La nature de l'épreuve est identique à celle de l'épreuve dite "première composition" dudit CAPES.
+Composition se rapportant au programme des épreuves écrites du concours externe du CAPES de mathématiques (durée : cinq heures). La nature de l'épreuve est identique à celle de l'épreuve dite " première composition " dudit CAPES.
 
 b) Epreuves orales d'admission
 
@@ -950,9 +950,9 @@ b) Epreuves orales d'admission
 
 1. Par tirage au sort, au moment de l'épreuve :
 
-- soit présentation critique en créole d'un texte extrait d'une oeuvre de littérature ;
+-soit présentation critique en créole d'un texte extrait d'une oeuvre de littérature ;
 
-- soit commentaire en créole d'un document relatif à la culture ou à la civilisation créole.
+-soit commentaire en créole d'un document relatif à la culture ou à la civilisation créole.
 
 L'épreuve est suivie d'une explication en français de points de grammaire ou de linguistique (durée de la préparation : deux heures ; durée de l'épreuve : quarante minutes ; coefficient 2).
 
@@ -964,9 +964,9 @@ Option anglais et option espagnol : présentation critique, dans la langue chois
 
 Option histoire et géographie : l'épreuve consiste en une explication suivie d'un entretien avec les membres du jury :
 
-- de documents historiques pour les candidats ayant choisi de composer, à l'épreuve écrite, en géographie ;
+-de documents historiques pour les candidats ayant choisi de composer, à l'épreuve écrite, en géographie ;
 
-- de documents géographiques pour les candidats ayant choisi de composer, à l'épreuve écrite, en histoire.
+-de documents géographiques pour les candidats ayant choisi de composer, à l'épreuve écrite, en histoire.
 
 3. Epreuve sur dossier : cette épreuve, en langue française, comporte un exposé suivi d'un entretien avec les membres du jury. Elle prend appui sur des documents proposés par le jury. Elle permet au candidat de démontrer :
 
@@ -1161,3 +1161,51 @@ Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq m
 La graphie à utiliser pour cette section de concours est celle définie par l'arrêté du 20 octobre 1982 faisant suite à une délibération de l'assemblée territoriale de Polynésie française.
 
 Le programme des épreuves du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
+
+ÉPREUVES DU CONCOURS EXTERNE DU CAPES
+
+SECTION LANGUE DES SIGNES FRANCAISE
+
+a) Epreuves d'admissibilité :
+
+1. Commentaire dirigé en langue des signes française d'un texte littéraire ou de civilisation en français, mettant en jeu des problématiques proposées par les programmes des collèges et des lycées. Ce texte peut être accompagné de documents annexes dont le nombre est fixé à cinq au maximum, destinés à en faciliter la mise en perspective.
+
+Le commentaire effectué par le candidat consiste en une production vidéo en langue des signes française d'une durée d'une heure au maximum.
+
+Durée : cinq heures ; coefficient 3.
+
+2. Traduction en français d'un document vidéo en langue des signes française.
+
+Durée : cinq heures ; coefficient 3.
+
+b) Epreuves d'admission :
+
+1. Présentation d'une leçon en relation avec les programmes des classes des collèges et des lycées.
+
+L'épreuve prend appui sur un dossier composé de documents proposés par le jury, qui se rapportent à l'une des notions culturelles des programmes des collèges ou des lycées. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements vidéo.
+
+L'épreuve comporte deux parties :
+
+-une première partie en langue des signes française, consistant en la présentation, l'étude et la mise en relation des documents, suivie d'un entretien en langue des signes française ;
+
+-une seconde partie en langue des signes française ou en français, consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivi d'un entretien en langue des signes française ou en français au cours duquel le candidat est amené à justifier ses choix.
+
+Chaque partie compte pour moitié dans la notation.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 3.
+
+2. Epreuve en langue des signes française :
+
+L'épreuve prend appui sur un document d'actualité (écrit ou vidéo).
+
+Le candidat en prend connaissance au début de l'épreuve et en fait un bref compte rendu en langue des signes française qui sert de point de départ à l'entretien avec le jury.
+
+L'entretien a pour but de vérifier la capacité du candidat à s'exprimer avec aisance en langue des signes française et à réagir avec pertinence aux sollicitations du jury.
+
+Epreuve sans préparation ; durée de l'épreuve : trente minutes maximum ; coefficient 3.
+
+NOTA :
+
+Arrêté du 9 juin 2009 article 5 : Les présentes dispositions prennent effet pour les concours ouverts au titre de l'année 2010.
+
+Arrêté du 28 décembre 2009 art 23 : Les dispositions du présent arrêté prennent effet à compter de la session de l'année 2011 des concours. (Fin de vigueur indéterminée)
