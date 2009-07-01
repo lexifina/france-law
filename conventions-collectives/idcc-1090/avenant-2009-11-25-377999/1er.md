@@ -1,0 +1,3 @@
+# Article 1er
+
+La portabilité des garanties de prévoyance instituée par l'accord du 11 janvier 2008 susvisé est assurée par l'OAD dans les conditions décrites ci-après, sans contrepartie de cotisations tant qu'un avenant à l'annexe tarifaire du RPO n'aura pas institué une cotisation spécifique, et au plus tôt jusqu'au 31 décembre 2010. Dans le cas où une telle cotisation serait instituée, celle-ci ne serait pas appelée auprès des salariés dont le contrat de travail aura été rompu avant l'entrée en vigueur de cet avenant, de telle sorte qu'ils soient assurés de bénéficier gratuitement de la portabilité.
