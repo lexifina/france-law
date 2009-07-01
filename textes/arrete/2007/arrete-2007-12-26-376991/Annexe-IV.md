@@ -16,23 +16,11 @@ Nombre d'emplois
 
 |
 
-Nombre de points NBI
+Points NBI
 
 |
 
-TA de Paris.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-CAA de Paris.
+TA de Paris
 
 |
 
@@ -44,7 +32,7 @@ CAA de Paris.
 
 |
 
-CAA de Bordeaux.
+CAA de Paris
 
 |
 
@@ -56,7 +44,19 @@ CAA de Bordeaux.
 
 |
 
-TA de Versailles.
+CAA de Bordeaux
+
+|
+
+1
+
+|
+
+60
+
+|
+
+TA de Versailles
 
 |
 
@@ -68,7 +68,19 @@ TA de Versailles.
 
 |
 
-CAA de Lyon.
+TA de Lyon
+
+|
+
+1
+
+|
+
+30
+
+|
+
+CAA de Lyon
 
 |
 
@@ -80,7 +92,7 @@ CAA de Lyon.
 
 |
 
-CAA de Douai.
+CAA de Douai
 
 |
 
@@ -92,7 +104,7 @@ CAA de Douai.
 
 |
 
-CAA de Nancy.
+CAA de Nancy
 
 |
 
@@ -104,7 +116,7 @@ CAA de Nancy.
 
 |
 
-CAA de Nantes.
+CAA de Nantes
 
 |
 
@@ -116,7 +128,7 @@ CAA de Nantes.
 
 |
 
-TA Cergy-Pontoise.
+TA Cergy-Pontoise
 
 |
 
@@ -128,7 +140,7 @@ TA Cergy-Pontoise.
 
 |
 
-TA de Melun.
+TA de Melun
 
 |
 
@@ -140,7 +152,7 @@ TA de Melun.
 
 |
 
-TA de Nice.
+TA de Nice
 
 |
 
