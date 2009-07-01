@@ -8,13 +8,17 @@ Le personnel des entreprises entrant dans le champ d'application de la présente
 
 - le versement d'un capital décès.
 
-Tout salarié qui cessera son activité dans le cadre de l'accord interprofessionnel du 6 septembre 1995 bénéficiera de plein droit de la garantie décès jusqu'à son 60e anniversaire.
+Tout salarié qui cessera son activité dans le cadre de l'accord interprofessionnel du 6 septembre 1995 bénéficiera de plein droit de la garantie décès jusqu'à son soixantième anniversaire.
 
 Les prestations ci-dessus sont versées quel que soit le nombre d'heures effectuées par les salariés visés par le champ d'application de la présente convention, y compris pour ceux ayant cotisé un nombre d'heures insuffisant pour bénéficier des prestations en espèces de la sécurité sociale.
 
 Pour ces salariés, les prestations sont calculées sur la base du salaire de référence, déduction faite d'une somme correspondant au montant des indemnités journalières brutes de la sécurité sociale ou de la mutualité sociale agricole qui leur auraient été versées s'ils avaient pu en bénéficier.
 
 Dans tous les cas, les prestations complémentaires sont versées sous déduction des indemnités journalières de la sécurité sociale ou de la mutualité sociale agricole pour leur montant avant précompte des contributions sociales et imposition de toute nature applicables, le cas échéant, sur lesdites indemnités et mises à la charge du salarié par la loi.
+
+Sont également bénéficiaires du présent avenant les salariés ayant quitté l'entreprise dans les conditions définies à l'article 14 de l'accord national interprofessionnel du 11 janvier 2008 modifié par l'avenant n° 3 du 18 mai 2009. Ces anciens salariés bénéficient du maintien des garanties pour les durées définies à l'article 14 modifié de l'accord national interprofessionnel susvisé sous réserve qu'ils n'aient pas renoncé expressément à ce droit dans les conditions définies audit avenant.
+
+L'ancien salarié doit informer son ancien employeur de la cessation du versement des allocations du régime d'assurance chômage lorsque celle-ci intervient au cours de la période de maintien de la couverture prévoyance. Il perd alors le bénéfice du régime de prévoyance.
 
 NOTA :
 
