@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408406
+
+- Question : [SEQ090408406](seq090408406.md) — Situation des maîtres auxiliaires de l'enseignement privé
+
+## Réponse
+
+*Éducation, JO du 2009-07-02, page 1692*
+
+En application de la loi n° 2005-843 du 26 juillet 2005, portant diverses mesures de transposition du droit communautaire à la fonction publique, les contrats des agents non titulaires de l'État, recrutés « depuis six ans au moins, de manière continue, ne peuvent être reconduits que par décision expresse et pour une durée indéterminée ». Ce principe est naturellement applicable aux maîtres délégués exerçant dans des établissements d'enseignement privé sous-contrat d'association, dans le respect des règles fixées par le législateur. À cet égard, ce dernier n'a prévu un assouplissement à la condition d'exercice pendant six années continues pour pouvoir bénéficier d'un contrat à durée indéterminée (CDI) qu'au profit des seuls agents ayant atteint l'âge de 50 ans entre le premier juin 2004 et au plus tard au terme de leur contrat en cours. Ces derniers peuvent ainsi bénéficier d'un CDI dès lors qu'ils justifient, à la date de publication de la loi, de six années de services au cours des huit dernières années. Ces dispositions législatives étant applicables à l'ensemble des agents non titulaires de l'État, il n'appartient pas au ministre de l'éducation nationale d'en modifier unilatéralement ni la portée, ni le contenu. Néanmoins, leur application dans l'enseignement, public comme privé, tient compte de ses spécificités. Ainsi, le décompte des 6 années d'exercice continu d'une activité d'enseignement s'entend hors période de vacances scolaires. Depuis l'entrée en vigueur du dispositif de contractualisation à durée indéterminée dans l'enseignement privé sous contrat, 3 210 maîtres délégués des premier et second degrés ont obtenu un CDI.
