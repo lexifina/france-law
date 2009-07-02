@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090308095
+
+- Question : [SEQ090308095](seq090308095.md) — Modalités de mise en oeuvre des assurances sur la vie et des assurances d'emprunt immobilier en cas de décès
+
+## Réponse
+
+*Économie, JO du 2009-07-02, page 1677*
+
+En cas de déclaration à l'établissement de crédit du décès d'un emprunteur dont le prêt est garanti par une couverture décès, le montant du capital restant dû est déterminé à la date du décès et à hauteur du pourcentage assuré dont est redevable l'emprunteur décédé. L'établissement de crédit bloque les prélèvements d'échéances dans l'attente de la décision de l'assureur. De ce fait, le survivant, s'il est coemprunteur, est uniquement redevable de sa quote part du crédit et supporte les paiements d'échéances correspondantes. La majorité des contrats d'assurance emprunteurs prévoit le paiement du capital restant dû, à hauteur du pourcentage assuré, calculé à la date de survenance du décès, y compris les intérêts courus entre la date du dernier remboursement et la date du décès (à l'exception des retards de remboursements éventuels intervenus antérieurement au décès). Aucun intérêt supplémentaire n'est dû à l'établissement de crédit par le coemprunteur ou les ayants droit de l'emprunteur décédé. Les délais de réponse en cas de sinistre de l'assureur ne sont effectivement pas réglementés. Toutefois, dans un souci de satisfaction à la fois du prêteur et de l'assuré, de nombreuses compagnies d'assurance s'engagent à répondre dans un délai rapide après réception d'un dossier complet. Il peut arriver que la constitution d'un dossier de sinistre qui peut être réalisée par un tiers (par exemple, le prêteur ou un courtier gestionnaire) en retarde sa réception ainsi que son instruction par l'assureur. Les réclamations reçues par l'administration ne mentionnent pas de difficultés d'application de la procédure actuelle, il n'est donc pas envisagé de fixer de nouvelles contraintes en la matière.
