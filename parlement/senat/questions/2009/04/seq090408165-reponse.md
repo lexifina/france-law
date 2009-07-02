@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408165
+
+- Question : [SEQ090408165](seq090408165.md) — Compensation de la taxe transport pour les syndicats intercommunaux ayant pour vocation unique le transport public urbain
+
+## Réponse
+
+*Écologie, JO du 2009-07-02, page 1674*
+
+L'article 15 de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux a été abrogé par l'article 19 de la loi n° 2007-1786 de financement de la sécurité sociale pour 2008. Désormais, les pertes de recettes pour les collectivités territoriales sont compensées par un relèvement de la dotation globale de fonctionnement. Lors de la séance des questions orales sans débat de l'Assemblée nationale le 5 mai 2009, le Gouvernement a été interrogé sur les difficultés et le manque de ressources financières des syndicats intercommunaux à vocation unique ainsi que sur l'absence de dotation de l'État au profit de ces établissements publics. Le secrétaire d'État chargé de la fonction publique a indiqué à cette occasion que le Gouvernement encourageait le développement de l'intercommunalité à fiscalité propre car elle permet une plus grande mutualisation des moyens, au bénéfice des citoyens. Sur la base du rapport du Comité pour la réforme des collectivités locales, présidé par Édouard Balladur, remis le 5 mars 2009 au Président de la République, une concertation sur l'avenir de l'intercommunalité a été engagée avec les associations d'élus. Il existe un consensus pour approfondir l'intercommunalité à fiscalité propre et rationaliser la carte des plus de 13 000 syndicats de communes existant encore aujourd'hui. Les réflexions issues de la concertation feront l'objet de dispositions législatives dont l'objectif est de donner aux structures intercommunales les moyens de faire face aux enjeux du développement des territoires, en favorisant les économies d'échelle.
