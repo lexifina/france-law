@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307981
+
+- Question : [SEQ090307981](seq090307981.md) — Prise en charge des frais de transport public domicile/lieu de travail par les collectivités territoriales
+
+## Réponse
+
+*Fonction publique, JO du 2009-07-02, page 1696*
+
+La prise en charge par l'employeur des trajets effectués par un agent entre son domicile et son lieu de travail fait l'objet, pour la fonction publique territoriale, d'une disposition spécifique inscrite à l'article 15-1 du décret du 19 juillet 2001 régissant les frais de déplacement des personnels territoriaux qui renvoie à la loi du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains (désormais codifiée dans le code du travail [art. L. 3261-1 et suivants]. L'article 20 de la loi n° 2008-1330 de financement de la sécurité sociale pour 2009 du 17 décembre 2008 vient de modifier le dispositif existant. La prise en charge des frais de transports publics - qui n'était jusqu'à présent obligatoire qu'en Île-de-France est désormais obligatoire pour tous les employeurs. Les frais pris en compte sont, outre les abonnements aux transports publics, les abonnements aux services publics de location de vélos. Cette prise en charge doit répondre à des conditions particulières d'absence de transports publics ou d'horaires de travail atypiques. L'article L. 3261-5 du code du travail prévoyant qu'un décret en Conseil d'État détermine les modalités de prise en charge des frais de transport, un projet de décret spécifique à la fonction publique territoriale est actuellement en préparation. Ce projet doit être soumis à l'avis de la commission consultative d'évaluation des normes et du Conseil supérieur de la fonction publique territoriale (CSFPT) avant d'être présenté au Conseil d'État. Il devrait être présenté au CSFPT en juillet 2009.
