@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Les signataires du présent accord considèrent que l'atteinte des objectifs visés ci-dessus nécessite l'implication de tous les acteurs : employeurs, salariés, institutions représentatives du personnel et organisations syndicales ; dans le respect du rôle et des attributions de chacun tels que fixés par les textes législatifs, réglementaires et conventionnels en vigueur.
 
@@ -59,11 +59,3 @@ La délibération s'effectue dans les conditions légales.
 Afin de lui permettre de contribuer à la préparation de la délibération du comité d'entreprise, la commission formation, dans les entreprises de plus de 200 salariés, reçoit les mêmes informations au plus tard 3 semaines avant chacune des réunions du comité. A cette occasion la direction de l'entreprise ou de l'établissement recueille les demandes exprimées par la commission formation en ce qui concerne le plan de formation des salariés et les orientations de cette formation à plus long terme, de façon à ce que le projet de plan de formation présenté au comité d'entreprise en fin d'année puisse éventuellement tenir compte de ces demandes.
 
 Les projets faisant l'objet de délibération sont communiqués aux délégués syndicaux.
-
-Contrepartie formation en cas de départ
-
-à la retraite entre 60 et 65 ans
-
-Les signataires du présent accord conviennent d'actualiser les dispositions de l'article 4.4.2 de la convention collective nationale des télécommunications en autorisant la mise à la retraite des salariés âgés de 60 à 65 ans, remplissant les conditions pour bénéficier d'une retraite à taux plein du régime d'assurance vieillesse.
-
-En application de l'article L. 122-14-13 du code du travail, ils conviennent d'une contrepartie en terme de formation, au bénéfice des salariés de 45 ans et plus, qui ne peut être inférieure à 10 % de l'obligation légale au titre du plan de formation. Cette disposition peut être améliorée par accord d'entreprise, notamment en terme d'emploi.
