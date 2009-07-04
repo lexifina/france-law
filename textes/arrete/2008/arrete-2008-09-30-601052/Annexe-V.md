@@ -182,7 +182,7 @@ Heures passées
 
 Synthèse mensuelle temps de travail à envoyer
 
-avec l'ensemble des pièces justificatives du dossier au préfet de département
+avec l'ensemble des pièces justificatives du dossier au directeur général de FranceAgriMer
 
 MOIS
 

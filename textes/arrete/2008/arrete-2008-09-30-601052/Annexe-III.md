@@ -4,104 +4,68 @@ MONTANT MAXIMAL DE LA COMPENSATION FINANCIÈRE POUR LA RÉCOLTE EN VERT
 
 ET LA NON-RÉCOLTE COMPENSATION FINANCIÈRE À L'HECTARE
 
-PRODUIT
-
-|
+PRODUIT |
 
 PLAFOND
 
-(euros/ha)
+(euros/ha) |
+
+Récolte en vert |
 
 |
 
-Récolte en vert
+Prune d'ente |
 
-|
-
-|
-
-Prune d'ente
-
-|
-
-1 146
+1 146 |
 
 |
 
 |
 
-|
-
-Non-récolte
+Non-récolte |
 
 |
 
-|
+Bigarreau |
 
-Bigarreau
+4 362 |
 
-|
+Mâche |
 
-4 362
+6 960 |
 
-|
+Radis |
 
-Mâche
+6 112 |
 
-|
+Cassis |
 
-6 960
+12 000 |
 
-|
+Salade |
 
-Radis
+7 163 |
 
-|
+Asperge |
 
-6 112
-
-|
-
-Cassis
+7 413 |
 
 |
 
-12 000
+Plafond par bac de forçage |
+
+Endive |
+
+21,95 |
 
 |
 
-Salade
+Plafond en euro/m² |
 
-|
+Champignon |
 
-7 163
+22,27 |
 
-|
+NOTA :
 
-|
-
-Plafond par bac de forçage
-
-|
-
-Endive
-
-|
-
-21,95
-
-|
-
-|
-
-Plafond en euro/m²
-
-|
-
-Champignon
-
-|
-
-22,27
-
-|
+Arrêté du 16 juillet 2010 article 1 : Le montant maximal de la compensation financière à l'hectare prévue dans le cadre de la non-récolte pour le bigarreau s'applique à toutes les variétés de cerises.
