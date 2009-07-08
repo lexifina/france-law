@@ -1,6 +1,6 @@
-# Article 1
+# Article 1er
 
-La présente annexe a pour objet de fixer, conformément aux dispositions de l'article 3 de la convention nationale du 17 janvier 1952, les conditions particulières de travail du personnel " Ingénieurs et cadres " occupé dans les entreprises visées par ladite convention.
+La présente annexe a pour objet de fixer, conformément aux dispositions de l'article 1er de la convention nationale du 17 janvier 1952, les conditions particulières de travail du personnel " Ingénieurs et cadres " occupé dans les entreprises visées par ladite convention.
 
 Il est entendu que les clauses générales de la convention du 17 janvier 1952 leur sont applicables.
 
