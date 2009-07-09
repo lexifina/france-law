@@ -1,6 +1,6 @@
 # Article Annexe
 
-A. - Fonctions exercées dans les services généraux du Premier ministre et de la direction des Journaux officiels
+A.-Fonctions exercées dans les services généraux du Premier ministre et de la direction des Journaux officiels
 
 DESIGNATION DE L'EMPLOI
 
@@ -306,7 +306,7 @@ Sous-directeur au service d'information du gouvernement
 
 |
 
-B. - Fonctions exercées au secrétariat général de la défense nationale
+B.-Fonctions exercées au secrétariat général de la défense nationale
 
 DESIGNATION DE L'EMPLOI
 
@@ -372,7 +372,7 @@ Chef de service
 
 |
 
-Sous-directeur à la direction centrale de la sécurité des systèmes d'information
+Sous-directeur à l'Agence nationale de la sécurité des systèmes d'information
 
 |
 
@@ -396,7 +396,7 @@ Directeur adjoint ou sous-directeur
 
 |
 
-C. - Fonctions exercées au Centre d'analyse stratégique
+C.-Fonctions exercées au Centre d'analyse stratégique
 
 DESIGNATION DE L'EMPLOI
 
@@ -438,7 +438,7 @@ Directeur adjoint du Centre d'analyse stratégique
 
 |
 
-D. - Fonctions exercées à la Délégation à l'aménagement du territoire et à l'action régionale
+D.-Fonctions exercées à la Délégation à l'aménagement du territoire et à l'action régionale
 
 DESIGNATION DE L'EMPLOI
 
