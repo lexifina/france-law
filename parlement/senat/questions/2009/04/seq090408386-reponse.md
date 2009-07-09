@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408386
+
+- Question : [SEQ090408386](seq090408386.md) — Destination des majorations familiales des personnels de l'État français et de ses établissements publics en poste à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-07-09, page 1760*
+
+L'honorable parlementaire a bien voulu interroger le ministre des affaires étrangères et européennes quant à la destination des majorations familiales perçues à la naissance d'un enfant par les personnels de l'État français et de ses établissements publics en poste à l'étranger. Aucune indication ne figure dans la rédaction de l'article 8 quant à la destination finale des majorations familiales. Le décret n° 67-290 du 28 mars 1967 dispose en effet, en son article 8, que : « L'agent qui a au moins un enfant à charge peut prétendre aux majorations familiales qui lui ont été attribuées au lieu et place des avantages familiaux accordés aux personnels en service en métropole. » S'agissant du niveau des majorations familiales, il est fixé d'une part, par application d'un coefficient par pays et d'autre part, d'une majoration de 25 % pour les enfants entre dix et quinze ans, et de 50 % pour les enfants de plus de quinze ans. Le montant des majorations familiales dépend, par conséquent, du pays et de l'âge de l'enfant. Les montants versés sont donc les mêmes pour tous les agents d'un même pays. Au total, le décret n° 67-290 ne prévoit donc ni que les majorations familiales doivent permettre de financer tout ou partie de l'entretien de l'enfant au-delà des frais d'écolage, ni d'ailleurs, qu'elles doivent couvrir intégralement ces frais d'écolage. Toutefois, en pratique, et à de rares exceptions près, les montants des majorations familiales sont supérieurs aux montants bruts des frais de scolarité dans le réseau des établissements français à l'étranger.
