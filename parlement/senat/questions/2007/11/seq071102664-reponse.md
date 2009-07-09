@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071102664
+
+- Question : [SEQ071102664](seq071102664.md) — Ouverture à la circulation aérienne publique de l'aérodrome de Narbonne
+
+## Réponse
+
+*Transports, JO du 2009-07-09, page 1763*
+
+L'aérodrome de Narbonne a été initialement créé comme aérodrome à usage privé, par arrêté du préfet de l'Aude en date du 12 août 1993. Son créateur avait demandé, en juin 1999, de convertir cet aérodrome pour l'ouvrir à la circulation aérienne publique, afin de pouvoir en particulier y pratiquer des activités d'enseignement que le statut d'aérodrome à usage privé n'autorise pas. Cette demande a été instruite conformément aux dispositions du code de l'aviation civile. La procédure a été retardée car l'instruction a mis en évidence la présence d'une ligne électrique à haute tension à proximité de l'aérodrome avec présence d'un poteau d'une quinzaine de mètres de haut. Cet obstacle nécessitait pour les pilotes utilisateurs d'être bien informés de sa présence, notamment au regard des performances au décollage ou à l'atterrissage des aéronefs qu'ils utilisent. Compte tenu de cet environnement, l'accès à l'aérodrome de Narbonne, dans le cadre d'un statut autre que privé, ne pouvait dès lors s'envisager qu'en étant soumis à des obligations spécifiques imposées aux utilisateurs pour des raisons de sécurité des vols. Cette situation a conduit les services de la Direction générale de l'aviation civile à réorienter la demande vers un statut d'aérodrome ouvert à usage restreint. Aussi, par arrêté du 24 décembre 2007, l'aérodrome de Narbonne a ainsi pu être agréé pour un usage restreint, ce qui permet donc la pratique de l'enseignement. Pour les motifs de sécurité évoqués, l'arrêté prévoit que tout pilote utilisateur de l'aérodrome ait effectué une première reconnaissance du site avec un instructeur utilisateur du terrain.
