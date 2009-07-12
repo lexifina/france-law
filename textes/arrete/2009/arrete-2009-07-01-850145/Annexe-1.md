@@ -1,0 +1,101 @@
+# Article Annexe 1
+
+A N N E X E 1
+
+BARÈME DE CALCUL DE L'AIDE
+
+L'aide sera calculée en fonction de la jauge du navire.
+
+TONNAGE
+
+des navires en UMS
+
+(GT)
+
+|
+
+PRIME
+
+|
+
+|
+
+Part indexée
+
+|
+
+Part fixe
+
+|
+
+De 0 à moins de 5.
+
+|
+
+0 €/GT
+
+|
+
+57 000 €
+
+|
+
+De 5 à moins de 20.
+
+|
+
+11 007 €/GT
+
+|
+
+1 965 €
+
+|
+
+De 20 à moins de 300.
+
+|
+
+2 930 €/GT
+
+|
+
+163 505 €
+
+|
+
+De 300 à moins de 800.
+
+|
+
+1 770 €/GT
+
+|
+
+511 505 €
+
+|
+
+De 800 à moins de 1 000.
+
+|
+
+850 €/GT
+
+|
+
+1 247 505 €
+
+|
+
+> 1 000.
+
+|
+
+0 €/GT
+
+|
+
+2 097 505 €
+
+|
