@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609181
+
+- Question : [SEQ090609181](seq090609181.md) — Carte consulaire au Maroc
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-07-16, page 1800*
+
+Dans le contexte de la révision générale des politiques publiques, notre réseau consulaire au Maroc est susceptible d'être concerné par au moins trois mesures validées par le conseil de modernisation des politiques publiques : mesure n° 99 relative au « lissage » des effectifs dans les huit pays où les moyens sont les plus importants ; mesure n° 121 sur la constitution à Nantes d'une « préfecture des Français de l'étranger » ayant vocation à centraliser une partie importante des actes d'état civil des Français de l'étranger actuellement transcrits par les postes diplomatiques et consulaires ; mesure n° 101 sur le recalibrage du réseau consulaire en fonction de l'évolution de la demande et des possibilités de mutualisation. Dans le cadre de la mesure 121, la décision a été prise de centraliser à Nantes, en 2010, l'activité de transcription des actes d'état civil actuellement établis par les postes consulaires au Maroc. Seuls resteront de leur compétence les actes dressés et les auditions préalables au mariage. En ce qui concerne la carte consulaire proprement dite, aucune fermeture de poste n'est prévue. Toutefois, dans le cadre des mesures 99 et 101, et pour éviter que les réductions d'effectifs frappent de façon uniforme tous les postes au Maroc, une réflexion est en cours sur la possibilité de regrouper certaines activités autour de pôles consulaires spécialisés, ce qui permettrait de réaliser des économies d'échelle. Selon la nature et l'ampleur de ces regroupements, il pourrait être décidé de transformer l'un des consulats généraux au Maroc en poste à gestion simplifiée, sur le modèle qui existe déjà dans de nombreux pays à réseau.
