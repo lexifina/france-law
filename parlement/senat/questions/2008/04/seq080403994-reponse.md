@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403994
+
+- Question : [SEQ080403994](seq080403994.md) — Risque de marchandisation des produits dérivés du sang
+
+## Réponse
+
+*Santé, JO du 2009-07-16, page 1806*
+
+Par lettre du ministre chargé de la santé en date du 17 avril 2007, une mission relative au régime juridique des autorisations de mise sur le marché (AMM) des médicaments dérivés du sang (MDS) a été confiée au professeur Rémi Pellet. Le professeur Pellet a dû prendre en compte dans ses travaux le courrier de la Commission européenne du 2 juillet 2007 relatif à la demande d'information pour mise en conformité du régime français d'AMM des MDS avec la directive 2001/83/CE. Dans ce rapport, le professeur Pellet s'est donc positionné en faveur de la défense du système français d'autorisation de mise sur le marché auprès de la Commission européenne et a fortement insisté sur les principes français régissant le don de sang : anonymat, bénévolat et volontariat. Aucune remise en cause du système transfusionnel français n'a été préconisée. Plusieurs mesures ont été proposées, d'importance et de portée inégale, visant à pérenniser l'éthique française dans un marché des médicaments toujours plus concurrentiel. Ces propositions sont le reflet de l'entière liberté d'analyse donnée au professeur Pellet dans le cadre de sa mission. Ainsi en est-il d'une proposition faite à la marge du rapport consistant en une séparation des activités de collecte et de plasmaphérèse. Cette proposition ne recueille pas l'adhésion du ministère de la santé, et ne sera donc pas retenue dans le cadre des travaux sur la sécurisation de l'approvisionnement du marché français des médicaments dérivés du sang actuellement menés par les services du ministère et l'Agence française de sécurité sanitaire des produis de santé (AFSSAPS). Le rapport a été mis en ligne sur internet par son auteur : http ://www.remipellet.com/pages/cv/Rapport-AMM-3-sept-2007.pdf
