@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508636
+
+- Question : [SEQ090508636](seq090508636.md) — Transfert des données des dossiers passagers par les compagnies aériennes
+
+## Réponse
+
+*Transports, JO du 2009-07-23, page 1858*
+
+Les compagnies aériennes desservant les États-Unis sont amenées à réaliser des traitements informatiques pour le criblage des passagers interdits d'accès aux États-Unis par voie aérienne (comparaison à une liste de passagers interdits appelée « no-fly list »). En revanche, aucune loi américaine n'impose aujourd'hui aux transporteurs aériens survolant les États-Unis de leur transmettre les données de leurs passagers ou de comparer ces données à cette « no-fly list ». Aucune donnée de passagers aériens survolant les États-Unis n'est transmise par Air France, ni par aucune compagnie aérienne française. En revanche, conformément aux accords internationaux, certaines données des passagers voyageant vers le Mexique (nom, prénom, date de naissance, numéro de passeport...), sont transmises aux autorités mexicaines après le départ du vol. Dans le cas du vol AF 348 du 18 avril 2009, opéré par Air France dans le cadre d'un partage de code avec Aeromexico, le passager mis en cause par les autorités américaines détenait un billet de la compagnie aérienne mexicaine qui utilise un système de réservation distinct de celui d'Air France, recueillant lui aussi les données de passagers. Suite à l'incident, la direction générale de l'aviation civile a interrogé la Transportation Security Administration (TSA), à l'origine de l'interdiction de survol, sur les fondements juridiques de cette interdiction et sur les conditions d'obtention des données par l'administration américaine. La France a également demandé des éclaircissements au gouvernement américain par la voix de son ambassadeur à Washington.
