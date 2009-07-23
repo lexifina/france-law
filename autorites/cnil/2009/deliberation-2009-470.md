@@ -1,0 +1,69 @@
+# Délibération n°2009-470 du 23 juillet 2009 portant avis sur le projet de décret relatif au traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l’occasion du franchissement de la frontière, ne remplissent pas les conditions d’entrée requises et modifiant la partie réglementaire du code de l’entrée et du séjour des étrangers et du droit d’asile
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2009-470
+- Date : 2009-07-23
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000021658472
+
+(Dossier n°1200351 v1)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie par le ministère de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire d’une demande d’avis portant sur le projet de décret relatif au traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l’occasion du franchissement de la frontière, ne remplissent pas les conditions d’entrée requises et modifiant la partie réglementaire du code de l’entrée et du séjour des étrangers et du droit d’asile ;
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, et notamment son article 27 ;
+
+Vu le code de l’entrée et du séjour des étrangers et du droit d’asile, notamment ses articles L. 211-1, L. 611-3 à L. 611-5 ;
+
+Vu la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers, modifiée par la loi n°2008-1245 du 1er décembre 2008, et notamment ses articles 9, 32 et 33 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Vu le décret n° 2007-1136 du 25 juillet 2007 portant création d'un traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises et modifiant la partie réglementaire du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+
+Vu la délibération n° 2007-008 du 18 janvier 2007 de la Commission nationale de l’informatique et des libertés portant avis sur le projet de décret pris pour l’application des articles L. 611-3 à L. 611-5 du code de l’entrée et du séjour des étrangers et du droit d’asile et portant création du fichier des non-admis (FNAD) ;
+
+Après avoir entendu M. Sébastien HUYGHE, commissaire, en son rapport, et Mme Elisabeth ROLIN, commissaire du gouvernement, en ses observations ;
+
+Emet l’avis suivant :
+
+La Commission a été saisie par le ministère de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire d’une demande d’avis portant sur le projet de décret relatif au traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l’occasion du franchissement de la frontière, ne remplissent pas les conditions d’entrée requises et modifiant la partie réglementaire du code de l’entrée et du séjour des étrangers et du droit d’asile.
+
+Ce projet de décret a pour objet de proroger pour une durée de deux ans l’expérimentation du traitement automatisé de données à caractère personnel autorisé par le décret n° 2007-1136 du 25 juillet 2007, pris après avis de la CNIL en date du 18 janvier 2007.
+
+Ledit décret a en effet porté création du traitement FNAD (Fichier des Non-Admis), dont la finalité est, aux termes de l’article R. 611-18 du CESEDA, de « lutter contre l’entrée et le séjour irréguliers en France des étrangers non ressortissants d’un Etat membre de l’Union européenne, d’un autre Etat partie à l’accord sur l’Espace économique européen ou de la Confédération suisse, en facilitant l’identification des étrangers qui, lors de leur contrôle à l’occasion du franchissement de la frontière à l’aéroport Roissy-Charles-de-Gaulle, en provenance d’un pays tiers aux Etats parties à la convention signée à Schengen le 19 juin 1990, ne remplissent pas les conditions prévues à l’article 5 du règlement (CE) n° 562/2006 du Parlement Européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) ou à l’article L. 211-1 ».
+
+L’article R. 611-18 du CESEDA précise que ce traitement est mis en œuvre à titre expérimental jusqu’au 27 juillet 2009. Cette expérimentation ne concerne que l’aéroport de Roissy-Charles de Gaulle, où sont majoritairement prononcées les décisions de non-admission sur le territoire français.
+
+Dans la mesure où l’article R. 611-19 du CESEDA prévoit l’enregistrement des images numérisées de la photographie et des empreintes digitales des dix doigts des personnes concernées, la Commission considère que ce traitement relève de l’article 27-I. 2° de la loi du 6 janvier 1978 modifiée.
+
+Au vu du bilan de l’expérimentation qui lui a été communiqué, qui révèle la nécessité d’améliorer le dispositif en ce qui concerne notamment les modalités et les critères d’inscription au fichier, les fonctionnalités associées au traitement des données biométriques, ainsi que le développement d’un module de suivi des présentations devant les juridictions, la Commission estime légitime que l’expérimentation soit reconduite.
+
+Elle prend acte de ce que le ministère chargé de l’immigration prévoit d’enregistrer une nouvelle donnée dans l’application, un numéro de maintien en zone d’attente (numéro MZA), afin de faciliter la recherche des dossiers papier archivés et de permettre la mise en œuvre effective du module statistique du FNAD.
+
+En ce qui concerne les données biométriques des ressortissants étrangers non-admis à la frontière, la Commission relève qu’aucune empreinte digitale n’est encore enregistrée dans l’application. A cet égard, elle rappelle qu’elle avait considéré dans son avis du 18 janvier 2007 qu’il importait « que la période d’expérimentation et l’évaluation prévue permettent de mieux cerner les objectifs poursuivis afin d’apprécier la pertinence des procédés mis en œuvre et celle des données recueillies, notamment des données biométriques ».
+
+La Commission demande donc à ce qu’une nouvelle évaluation soit faite dès la fin de la première année de la nouvelle expérimentation projetée, et à être rendue destinataire de ce rapport d’évaluation.
+
+En outre, elle rappelle que la collecte des empreintes digitales n’est pas toujours physiquement possible ni exploitable, d’une part, et que toute comparaison biométrique comporte un taux incompressible de faux rejets, d’autre part. Dès lors, la Commission estime qu’il conviendrait de modifier l’article R. 611-19 du CESEDA, afin de préciser que l’impossibilité de collecte totale ou partielle des empreintes digitales est mentionnée dans le traitement.
+
+Le projet de décret prévoit en outre de permettre aux agents chargés de l’application de la réglementation relative aux étrangers à la direction de l’immigration et au service de l’asile du ministère chargé de l’immigration, individuellement désignés et spécialement habilités par le secrétaire général, l’accès aux données du traitement.
+
+La Commission prend acte de cette modification de l’article R. 611-21 du CESEDA, qui vise à prendre pleinement en compte les compétences du ministère chargé de l’immigration, dont l’administration centrale n’était pas encore organisée lors de la publication du décret autorisant, à titre expérimental, la mise en œuvre du FNAD.
+
+La Commission relève que les modules de l’application ne font pas l’objet de mesures de chiffrement. Elle recommande donc que de telles mesures soient mises en œuvre, en particulier en ce qui concerne les bases qui contiennent les données à caractère personnel des non-admis, ainsi que les espaces de stockage des documents numérisés.
+
+Elle relève également que la procédure d’authentification des agents au portail CHEOPS, qui permet notamment l’accès à l’application FNAD, est basée sur un mot de passe de 4 à 8 caractères. Comme elle l’avait recommandé dans sa délibération du 13 novembre 2008 portant avis sur un projet de décret en Conseil d’Etat relatif au fichier des personnes recherchées, la Commission estime qu’il conviendrait de modifier cette procédure afin que les mots de passe requis soient composés de 8 caractères.
+
+Enfin, la Commission rappelle qu’elle avait considéré, dans sa délibération du 18 janvier 2007, que le document d’information remis aux ressortissants étrangers non-admis devait être complété de l’ensemble des données à caractère personnel mentionnées à l’article R. 611-19. Elle demande à ce que le ministère chargé de l’immigration modifie ce document afin que toutes ces données soient mentionnées.
+
+Le Président
+
+Alex TURK
