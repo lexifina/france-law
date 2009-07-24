@@ -36,7 +36,7 @@ Provence Alpes Côte d'Azur : Cannes, Marseille, Martigues, Nice, Port de Bouc, 
 
 |
 
-Corse : Ajaccio, Bastia
+Corse : Ajaccio, Bastia, Calvi
 
 |
 
