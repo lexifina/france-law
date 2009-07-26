@@ -44,9 +44,7 @@ NOUVELLE DÉNOMINATION
 
 Institut national agronomique de Paris-Grignon.
 
-Ecole nationale du génie rural, des eaux et des forêts.
-
-|
+Ecole nationale du génie rural, des eaux et des forêts. |
 
 Institut des sciences et industries du vivant et de l'environnement (AgroParisTech).
 
@@ -148,4 +146,8 @@ Institut supérieur d'agriculture de Rhône-Alpes.
 
 ― gestionnaire de domaines agricoles, spécialisation domaines viticoles (CES), en application de l'arrêté du 16 février 2006 susvisé ;
 
-― chef de cultures sous serre.
+― chef de cultures sous serre ;
+
+―Certificat inscrit au répertoire national des certifications professionnelles
+
+Eleveur, délivré par l'Union nationale rurale d'éducation et de promotion (UNREP) dans les deux centres suivants : le centre d'élevage Lucien Biset de Poisy (74) et le pôle de formations élevage, agroéquipement et machinisme, à Bernussou (12).
