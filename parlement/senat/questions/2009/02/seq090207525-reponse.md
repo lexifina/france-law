@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207525
+
+- Question : [SEQ090207525](seq090207525.md) — Surface minimale des terrains constructibles en carte communale
+
+## Réponse
+
+*Écologie, JO du 2009-07-30, page 1897*
+
+Les articles L. 124-2 et R. 124-3 du code de l'urbanisme prévoient que les cartes communales délimitent les secteurs où les constructions sont autorisées et ceux où elles ne sont pas admises, à l'exception de l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes ou des constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole ou forestière et à la mise en valeur des ressources naturelles. Ces articles ne prévoient, par ailleurs, en aucun cas que les cartes communales puissent imposer une superficie minimale pour construire sans autre précision. Il en est de même des dispositions du règlement national d'urbanisme. En revanche, l'article R. 111-2 du code de l'urbanisme prévoit que « le permis de construire peut être refusé ou n'être accordé que sous réserve de l'observation de prescriptions spéciales si les constructions, par leur situation ou leurs dimensions, sont de nature à porter atteinte à la salubrité ou à la sécurité publique ; il en est de même si les constructions projetées, par leur implantation à proximité d'autres installations, leurs caractéristiques ou leur situation sont de nature à porter atteinte à la salubrité ou à la sécurité publique ». C'est en s'appuyant sur ces dispositions qu'un permis de construire pourra être éventuellement refusé si, par exemple, les dimensions d'un terrain ne permettent pas de réaliser un assainissement conforme aux dispositions législatives et réglementaires. Toutefois, ceci ne doit pas conduire à édicter, de façon générale, une surface minimale valable de façon systématique.
