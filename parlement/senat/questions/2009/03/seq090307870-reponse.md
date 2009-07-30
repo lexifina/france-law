@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307870
+
+- Question : [SEQ090307870](seq090307870.md) — Préjudices causés aux usagers et aux compagnies par les délais excessivement longs aux contrôles de sécurité à Roissy-Charles de Gaulle
+
+## Réponse
+
+*Transports, JO du 2009-07-30, page 1903*
+
+Sur l'ensemble des terminaux de l'aéroport de Paris-Roissy - Charles-de-Gaulle, la société Aéroports de Paris fait appel à des sociétés de sûreté pour la réalisation des opérations, imposées par la réglementation européenne en matière d'inspection/filtrage des passagers et de leurs bagages de cabine. Les contrats de sous-traitance prévoient que le nombre d'agents de sûreté, déployés sur chaque poste d'inspection filtrage soit ajusté chaque jour en fonction des programmes de vols et des informations données par les compagnies aériennes, et ce par période de quinze minutes sur toutes les aérogares. Afin de limiter l'impact financier sur la taxe aéroportuaire, il est en effet fondamental d'ajuster au mieux les besoins en effectifs au regard de la demande. Dans la pratique, il est cependant extrêmement difficile d'adapter totalement les moyens techniques et humains aux variations d'un fonctionnement en hub et aux aléas d'exploitation d'un grand aéroport comme celui de CDG. Les planifications d'agent de sûreté peuvent ainsi parfois s'avérer insuffisantes à certaines périodes. Consciente de ce problème, la direction générale de l'aviation civile (DGAC), attentive à la qualité du traitement des passagers, a fixé à Aéroports de Paris des objectifs quantifiés par des indicateurs prenant en compte notamment les temps d'attente aux postes d'inspection filtrage. Elle travaille également avec les compagnies aériennes de façon à mieux prendre en compte cette problématique en restant attentive au coût global du dispositif.
