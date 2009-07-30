@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609185
+
+- Question : [SEQ090609185](seq090609185.md) — Contamination des raisins par les pesticides
+
+## Réponse
+
+*Alimentation, JO du 2009-07-30, page 1892*
+
+Les teneurs en résidus de pesticides dans les vins tels qu'observées, d'une part, dans l'enquête PAN-Europe et, d'autre part, dans une enquête du ministère chargé de l'agriculture entre 1990 à 2003 aussi bien au niveau national qu'européen sont dans la grande majorité des cas inférieurs aux limites maximales de résidus (LMR) fixées par la réglementation communautaire. Les LMR sont fixées de manière à ce que les niveaux d'ingestion en résidus soient bien en deçà des normes toxicologiques (DJA) définies pour les diverses molécules étudiées. Le dispositif réglementaire phytosanitaire est sans cesse amélioré afin de garantir la sécurité de la santé publique. En 2006, par exemple, la mise en oeuvre de la réglementation européenne sur l'hygiène des aliments a rendu obligatoire la tenue d'un registre de traitement phytosanitaire. Les conditions d'utilisation des produits et la conformité des produits au regard de la législation communautaire et en particulier en ce qui concerne spécifiquement le taux de résidus de pesticides dans les denrées alimentaires, font l'objet d'actions officielles de surveillance et de contrôle. Les infractions constatées sont susceptibles de sanctions administratives, judiciaires et financières du fait de la conditionnalité des aides allouées au titre de la politique agricole commune. Suite aux travaux du Grenelle de l'environnement, il a été décidé d'aller encore plus loin en terme d'objectif opérationnel. Ainsi, le retrait des 53 substances actives les plus préoccupantes a été décidé. En outre, conformément à la demande du Président de la République, le ministre de l'alimentation, de l'agriculture et de la pêche a la charge d'élaborer le plan « Ecophyto 2018 », pour réduire de 50 % l'usage des pesticides si possible dans les dix ans.
