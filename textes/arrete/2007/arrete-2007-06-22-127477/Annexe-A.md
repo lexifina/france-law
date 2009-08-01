@@ -86,7 +86,7 @@ Direction centrale de la direction interarmées des réseaux d'infrastructure et
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Ile-de-France
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Ile-de-France
 
 |
 
@@ -94,7 +94,7 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Metz
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Metz
 
 |
 
@@ -102,7 +102,7 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Lyon
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Lyon
 
 |
 
@@ -110,7 +110,7 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Bordeaux
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Bordeaux
 
 |
 
@@ -118,7 +118,7 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Rennes
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Rennes
 
 |
 
@@ -134,7 +134,7 @@ MAPA × 30
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Saint-Denis-de-la-Réunion
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Saint-Denis-de-la-Réunion
 
 |
 
@@ -186,7 +186,7 @@ Commandants des formations administratives et chefs des organismes administrés 
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -210,7 +210,7 @@ MAPA × 1
 
 |
 
-Commandants des régions terre Sud-Est et Ile-de­ France (4)
+Commandants des régions terre Sud-Est et Ile-de ­ France (4)
 
 |
 
@@ -306,7 +306,7 @@ Directeurs régionaux adjoints du matériel
 
 |
 
-MAPA × 1,5
+MAPA × 1, 5
 
 |
 
@@ -356,7 +356,7 @@ Commandants des corps de troupes et chefs des organismes administrés comme tels
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -396,7 +396,7 @@ MAPA × 60
 
 |
 
-Chefs des services vivres/restauration
+Chefs des services vivres / restauration
 
 |
 
@@ -440,7 +440,7 @@ MAPA × 10
 
 |
 
-Directeur d'antenne de soutien de Nouvelle­ Calédonie
+Directeur d'antenne de soutien de Nouvelle ­ Calédonie
 
 |
 
@@ -492,7 +492,7 @@ Commandants des formations autonomes de la marine et chefs des organismes admini
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -596,7 +596,7 @@ Commandants des bases aériennes et chefs des organismes administrés comme tell
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -632,7 +632,7 @@ Commandants de région de gendarmerie et chefs des organismes administrés comme
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -928,13 +928,19 @@ Direction du service national.
 
 |
 
-Directeurs interrégionaux et adjoints aux directeurs
+Directeurs interrégionaux et adjoints de ces directeurs
 
 |
 
 MAPA × 10
 
 |
+
+|
+
+Directeurs d'établissements et adjoints de ces directeurs |
+
+MAPA × 10 |
 
 Direction des statuts, des pensions et de la réinsertion sociale.
 
@@ -1098,7 +1104,7 @@ Sans limitation (6) (7) (8)
 
 (3) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire.
 
-(4) En application du décret n° 2007-275 du 1er mars 2007 portant dérogation à certaines dispositions relatives à l'organisation du commandement de la région terre Sud-Est et de la région terre Ile-de-France, cette délégation est consentie jusqu'au 31 décembre 2008 aux commandants de région terre territorialement compétents. Cette délégation s'étend jusqu'au 31 décembre 2008 aux marchés et accords­ cadres passés par le commandant de la région terre Ile-de-France au profit des organismes implantés outre-mer et à l'étranger.
+(4) En application du décret n° 2007-275 du 1er mars 2007 portant dérogation à certaines dispositions relatives à l'organisation du commandement de la région terre Sud-Est et de la région terre Ile-de-France, cette délégation est consentie jusqu'au 31 décembre 2008 aux commandants de région terre territorialement compétents. Cette délégation s'étend jusqu'au 31 décembre 2008 aux marchés et accords ­ cadres passés par le commandant de la région terre Ile-de-France au profit des organismes implantés outre-mer et à l'étranger.
 
 (5) Lorsque les commandants de centre administratif territorial de la gendarmerie agissent dans le cadre de l'article 7 du code des marchés publics, la délégation est accordée sans limite de seuil.
 
@@ -1108,6 +1114,6 @@ Sans limitation (6) (7) (8)
 
 (8) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi no 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(9) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air , du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air , du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
+(9) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
 |
