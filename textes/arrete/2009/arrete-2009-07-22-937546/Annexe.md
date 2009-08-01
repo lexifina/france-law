@@ -1,4 +1,4 @@
-# Article LEGIARTI000020607746
+# Article Annexe
 
 QUOTAS D'EFFORT DE PÊCHE DÉPLOYÉS PAR LES NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS DANS LE SKAGERRAK, LA PARTIE DE LA ZONE CIEM III a NON COUVERTE PAR LE SKAGERRAK ET LE KATTEGAT, LA ZONE CIEM IV ET LES EAUX COMMUNAUTAIRES DE LA ZONE CIEM II a, LA ZONE CIEM VII d
 
@@ -6,101 +6,29 @@ QUOTAS D'EFFORT DE PÊCHE DÉPLOYÉS PAR LES NAVIRES DE PÊCHE BATTANT PAVILLON 
 
 |
 
-ENGINS DE PÊCHE UTILISÉS
+ENGINS DE PÊCHES UTILISÉS
 
 |
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins traînants
-
-similaires,
-
-à l'exception
-
-des chaluts
-
-à perche,
-
-d'un maillage supérieur
-
-ou égal à 100 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins
-
-traînants
-
-similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage supérieur
-
-ou égal à 70 mm
-
-et inférieur
-
-à 100 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins
-
-traînants
-
-similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage supérieur
-
-ou égal à 16 mm
-
-et inférieur
-
-à 32 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 16 mm et inférieur à 32 mm
 
 |
 
-Chaluts
-
-à perche
-
-d'un maillage supérieur
-
-ou égal à 80 mm
-
-et inférieur
-
-à 120 mm
+Chaluts à perche d'un maillage supérieur ou égal à 80 mm et inférieur à 120 mm
 
 |
 
-Filets maillants
-
-et filets
-
-emmêlants,
-
-à l'exception des trémails
+Filets maillants et filets emmêlants, à l'exception des trémails
 
 |
 
@@ -116,31 +44,31 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 251 734
+2 509 150
 
 |
 
-1 383 215
+2 762 252
 
 |
 
-10 446
+19 953
 
 |
 
-136 358
+272 075
 
 |
 
-94 539
+186 538
 
 |
 
-872 928
+1 725 269
 
 |
 
-53
+107
 
 |
 
@@ -148,27 +76,27 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-1 006
+1 978
 
 |
 
-2 442 458
+4 553 561
 
 |
 
-6 862
+13 597
 
 |
 
-164 570
+322 143
 
 |
 
-11 555
+25 649
 
 |
 
-226 236
+457 054
 
 |
 
@@ -180,31 +108,31 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-2 657
+5 387
 
 |
 
-1 290 671
+2 754 407
 
 |
 
-1 674
+7 101
 
 |
 
-79 395
+157 948
 
 |
 
-1 136
+3 260
 
 |
 
-47 366
+102 397
 
 |
 
-15 364
+26 658
 
 |
 
@@ -212,11 +140,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-127
+255
 
 |
 
-46 963
+101 251
 
 |
 
@@ -244,15 +172,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-166
+333
 
 |
 
-313
-
-|
-
-0
+5 088
 
 |
 
@@ -264,7 +188,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-1 492
+0
+
+|
+
+2 977
 
 |
 
@@ -276,27 +204,27 @@ Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-15 752
+31 018
 
 |
 
-55 441
+276 954
 
 |
 
-3 804
+7 684
 
 |
 
-0
+132
 
 |
 
-714
+5 122
 
 |
 
-1 007
+4 753
 
 |
 
@@ -328,7 +256,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-4 246
+8 473
 
 |
 
@@ -368,7 +296,7 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
 
 |
 
@@ -404,11 +332,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-156
+311
 
 |
 
-169
+343
 
 |
 
@@ -416,7 +344,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-8 709
+17 420
 
 |
 
@@ -440,7 +368,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-169
+338
 
 |
 
@@ -504,7 +432,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-9 766
+14 630
 
 |
 
@@ -516,7 +444,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-673
+1 347
 
 |
 
@@ -532,31 +460,31 @@ Navires non adhérant à une organisation de producteurs
 
 |
 
-5 355
+5 447
 
 |
 
-329 576
+520 358
 
 |
 
-30 735
+58 448
 
 |
 
-25 720
+52 834
 
 |
 
-2 682
+682
 
 |
 
-33 762
+60 759
 
 |
 
-20 306
+44 683
 
 |
 
@@ -564,99 +492,53 @@ Total
 
 |
 
-1 276 955
+2 553 879
 
 |
 
-5 558 742
+10 989 182
 
 |
 
-53 521
+106 783
 
 |
 
-414 752
+822 552
 
 |
 
-111 299
+222 598
 
 |
 
-1 187 037
+2 361 682
 
 |
 
-35 724
+71 448
 
 |
 
-QUOTAS D'EFFORT DE PÊCHE DÉPLOYÉS PAR LES NAVIRES DE PÊCHE
-
-BATTANT PAVILLON FRANÇAIS DANS LA ZONE CIEM VII a
+QUOTAS D'EFFORT DE PÊCHE DÉPLOYÉS PAR LES NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS DANS LA ZONE CIEM VII a
 
 (En kilowatts × jours de présence dans la zone indiquée ci-dessus)
 
 |
 
-ENGIN DE PÊCHE UTILISÉS
+ENGINS DE PÊCHES UTILISÉS
 
 |
 
 |
 
-Chaluts de fond,
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm |
 
-sennes danoises
-
-et engins
-
-traînants similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage
-
-supérieur
-
-ou égal à 100 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins
-
-traînants similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage
-
-supérieur
-
-ou égal à 70 mm
-
-et inférieur
-
-à 100 mm
-
-|
-
-Filets maillants
-
-et filets emmêlants,
-
-à l'exception
-
-des trémails
+Filets maillants et filets emmêlants, à l'exception des trémails
 
 |
 
@@ -664,7 +546,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-3 358
+6 716
 
 |
 
@@ -672,7 +554,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-105
+0
 
 |
 
@@ -728,7 +610,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-5 331
+10 663
 
 |
 
@@ -744,11 +626,11 @@ Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-75 405
+132 009
 
 |
 
-368
+735
 
 |
 
@@ -776,7 +658,7 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-8 382
+16 763
 
 |
 
@@ -788,7 +670,7 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
 
 |
 
@@ -880,7 +762,7 @@ Navires non adhérant à une organisation de producteurs
 
 |
 
-0
+210
 
 |
 
@@ -888,15 +770,15 @@ Total
 
 |
 
-92 476
+166 151
 
 |
 
-368
+735
 
 |
 
-105
+210
 
 |
 
@@ -914,81 +796,15 @@ ENGINS DE PÊCHE UTILISÉS
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins traînants
-
-similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage
-
-supérieur
-
-ou égal à 100 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm
 
 |
 
-Chaluts de fond,
-
-sennes danoises
-
-et engins
-
-traînants
-
-similaires,
-
-à l'exception
-
-des chaluts à perche,
-
-d'un maillage supérieur
-
-ou égal à 70 mm
-
-et inférieur
-
-à 100 mm
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm
 
 |
 
-Chaluts à perche
-
-d'un maillage
-
-supérieur
-
-à 120 mm
-
-|
-
-Chaluts à perche
-
-d'un maillage supérieur
-
-ou égal à 80 mm
-
-et inférieur
-
-à 120 mm
-
-|
-
-Filets maillants
-
-et filets
-
-emmêlants,
-
-à l'exception
-
-des trémails
+Filets maillants et filets emmêlants, à l'exception des trémails
 
 |
 
@@ -1000,7 +816,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-374 681
+749 575
 
 |
 
@@ -1008,15 +824,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-|
-
-|
-
 0
 
 |
 
-9 996
+19 992
 
 |
 
@@ -1029,10 +841,6 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 |
 
 0
-
-|
-
-|
 
 |
 
@@ -1056,10 +864,6 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-|
-
-|
-
 0
 
 |
@@ -1077,10 +881,6 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 |
 
 0
-
-|
-
-|
 
 |
 
@@ -1104,10 +904,6 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-|
-
-|
-
 0
 
 |
@@ -1120,7 +916,7 @@ Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 313 853
+2 627 258
 
 |
 
@@ -1128,15 +924,11 @@ Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-|
+84 820
 
 |
 
-392
-
-|
-
-0
+13 019
 
 |
 
@@ -1149,10 +941,6 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 |
 
 0
-
-|
-
-|
 
 |
 
@@ -1176,10 +964,6 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-|
-
-|
-
 0
 
 |
@@ -1188,7 +972,7 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
 
 |
 
@@ -1197,10 +981,6 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 |
 
 0
-
-|
-
-|
 
 |
 
@@ -1216,15 +996,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-92
+412
 
 |
 
-2 941
-
-|
-
-|
+5 881
 
 |
 
@@ -1232,7 +1008,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-5 341
+10 682
 
 |
 
@@ -1245,10 +1021,6 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 |
 
 0
-
-|
-
-|
 
 |
 
@@ -1272,10 +1044,6 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-|
-
-|
-
 0
 
 |
@@ -1296,15 +1064,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-|
+12 083
 
 |
 
-42 102
-
-|
-
-5 612
+11 224
 
 |
 
@@ -1312,7 +1076,7 @@ Navires non adhérant à une organisation de producteurs
 
 |
 
-10 426
+20 857
 
 |
 
@@ -1320,15 +1084,11 @@ Navires non adhérant à une organisation de producteurs
 
 |
 
-|
+0
 
 |
 
-5 958
-
-|
-
-6 510
+0
 
 |
 
@@ -1336,26 +1096,18 @@ Total
 
 |
 
-1 699 051
+3 398 102
 
 |
 
-2 941
+5 881
 
 |
 
-0
+96 903
 
 |
 
-0
-
-|
-
-48 452
-
-|
-
-27 459
+54 917
 
 |
