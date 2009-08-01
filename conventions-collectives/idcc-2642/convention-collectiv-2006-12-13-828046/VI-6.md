@@ -174,11 +174,15 @@ Les modifications importantes du calendrier collectif des horaires doivent donne
 
 L'employeur communique 1 fois par an aux représentants du personnel, lorsqu'il en existe, le bilan de l'application de l'organisation du temps de travail sur l'année.
 
-c) Lissage des rémunérations :
+c) Décompte de la durée du travail
+
+La durée du travail de chaque salarié sera décomptée selon les modalités exposées à l'article 6. 5 de la présente convention.
+
+d) Lissage des rémunérations
 
 La rémunération est versée mensuellement. Elle est indépendante de l'horaire réellement accompli au cours du mois ; elle est donc lissée.
 
-d) Bilan annuel :
+e) Bilan annuel
 
 Un bilan annuel de l'application de l'accord d'annualisation sera remis par l'employeur aux représentants du personnel, lorsqu'il en existe.
 

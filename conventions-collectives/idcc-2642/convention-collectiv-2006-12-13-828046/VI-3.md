@@ -74,7 +74,7 @@ VI. 3. 2. 2. Repos hebdomadaire :
 
 Conformément à l'article L. 221-4 du code du travail, chaque salarié bénéficie d'un repos hebdomadaire d'au moins 24 heures consécutives, auxquelles s'ajoutent 11 heures consécutives de repos quotidien.
 
-Cependant, dans l'hypothèse de circonstances nécessitant la réduction du repos quotidien, et dans le cadre du VI. 2. 1. 1 ci-dessus, le salarié pourra voir son repos hebdomadaire réduit de fait à 24 heures consécutives additionnées de 9 heures au lieu de 11 heures.
+Cependant, dans l'hypothèse de circonstances nécessitant la réduction du repos quotidien, et dans le cadre du VI. 3. 1. 2 ci-dessus, le salarié pourra voir son repos hebdomadaire réduit de fait à 24 heures consécutives additionnées de 9 heures au lieu de 11 heures.
 
 Dans la mesure du possible, le repos hebdomadaire est pris le dimanche. Si, pour les nécessités de la production à laquelle il participe, un salarié est amené à travailler le dimanche, conformément aux articles L. 221-9 et L. 221-10 du code du travail, l'employeur veillera à ce que le salarié bénéficie du repos hebdomadaire et ne travaille jamais plus de 6 jours consécutifs, sauf dérogation accordée, du fait de circonstances particulières, par l'inspection du travail.
 

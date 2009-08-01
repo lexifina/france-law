@@ -30,7 +30,7 @@ La rémunération mensuelle du salarié est lissée sur la base de l'horaire heb
 
 Le paiement des heures supplémentaires et leur majoration, y compris la majoration prévue par l'article L. 212-5-1 du code du travail pour les 4 premières heures supplémentaires, est inclus dans la rémunération mensuelle forfaitaire.
 
-VI.7.2. Forfait en jours (1)
+VI.7.2. Forfait en jours
 
 VI.7.2.1. Salariés visés :
 
@@ -122,7 +122,7 @@ Les jours RTT devront être pris avant le 31 décembre de l'année de leur acqui
 
 Les dispositions des articles VI.3.1.2, relatif au repos quotidien, et VI.3.2.2, relatif au repos hebdomadaire, s'appliquent aux salariés ayant conclu une convention de forfait en jours, qui ne sont par ailleurs pas soumis aux dispositions de l'article L. 212-1 et du 2e alinéa de l'article L. 212-7 du code du travail.
 
-Le forfait en jours s'accompagne pour chaque salarié d'un contrôle du nombre de jours ou demi-journées travaillés, au moyen d'un document mensuel de contrôle faisant apparaître le nombre et la date des journées travaillées, ainsi que la qualification des jours non travaillés en repos hebdomadaire, congés payés, jour de repos au titre de la réduction du temps de travail.
+Le forfait en jours s'accompagne pour chaque salarié d'un contrôle du nombre de jours ou demi-journées travaillés, au moyen d'un document mensuel de contrôle faisant apparaître le nombre et la date des journées travaillées, ainsi que la qualification des jours non travaillés en repos hebdomadaire, congés payés, jour de repos au titre de la réduction du temps de travail. Le contrôle individuel des jours effectivement travaillés s'effectuera au sein des entreprises, par pointage ou émargement quotidien, hebdomadaire ou mensuel, par les salariés concernés, d'une feuille de présence, faisant apparaître les jours travaillés, ou par tout autre moyen équivalent.
 
 Chaque salarié ayant conclu une convention de forfait jours bénéficie au moins 1 fois et chaque année d'un entretien avec son supérieur hiérarchique au cours duquel sont évoquées l'organisation et la charge de travail du salarié, l'amplitude de ses journées et la charge de travail qui en résulte.
 
@@ -153,5 +153,3 @@ La valeur d'une journée de travail sera calculée en divisant le salaire mensue
 VI.7.4. Forfait de salaire
 
 Toutes les dispositions de l'article III.2. ci-dessus s'appliquent aux salariés, cadres ou non cadres, non soumis à un horaire collectif.
-
-Article étendu sous réserve de prévoir l'ensemble des clauses obligatoires fixées à l'article L. 212-15-3-III du code du travail pour la mise en place de forfaits en jours (arrêté du 24 juillet 2007, art. 1er).

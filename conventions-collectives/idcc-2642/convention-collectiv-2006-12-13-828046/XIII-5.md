@@ -1,6 +1,6 @@
 # Article XIII.5
 
-Chacune des parties signataires peut, à compter du 2e anniversaire de la publication de l'arrêté d'extension, dénoncer la présente convention (1).
+Chacune des parties signataires peut dénoncer la présente convention (1).
 
 La dénonciation doit être notifiée aux autres parties signataires, avec un délai d'effet de 6 mois. Une 1re réunion doit se tenir au plus tard dans les 3 mois de la notification.
 

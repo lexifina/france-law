@@ -12,7 +12,7 @@ Pour les salariés sous CDDU, lorsqu'un jour férié chômé, qui n'est ni un sa
 
 Conformément à l'article L. 222-1-1 du code du travail, le jour férié chômé payé est décompté pour 7 heures sur le bulletin de paie.
 
-VII.2.3. Jours fériés travaillés (1)
+VII.2.3. Jours fériés travaillés
 
 L'employeur a la possibilité de prévoir qu'un jour férié soit travaillé. Dans ce cas, le salarié est rémunéré dans les conditions suivantes :
 
@@ -24,10 +24,8 @@ c) Les lundi de Pâques, 8 Mai, jeudi de l'Ascension : rémunération à 150 % d
 
 Ces majorations se cumulent avec celles afférentes aux heures supplémentaires ; elles sont calculées sur la base du tarif horaire.
 
-Pour les salariés sous CDI ou assimilés, un mécanisme de récupération équivalent pourra être mis en place par l'entreprise.
+Pour les salariés sous CDI ou assimilés, un mécanisme de récupération équivalent pourra être mis en place par l'entreprise, sauf pour le 1er Mai.
 
 VII.2.4. Journée de solidarité
 
 En application des dispositions de l'article L. 212-16 du code du travail, le lundi de Pentecôte constitue pour la branche de la production audiovisuelle la journée de solidarité. Cette journée est travaillée et rémunérée sans majoration.
-
-(1) Article étendu sous réserve du respect des dispositions de l'article L. 222-7 du code du travail, telles que précisées par la jurisprudence de la Cour de cassation (Cass. Soc 30 novembre 2004, n° 02-45785), aux termes desquelles l'indemnité de rémunération du 1er Mai travaillé ne peut être remplacée par un repos compensateur (arrêté du 24 juillet 2007, art. 1er).

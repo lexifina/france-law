@@ -24,9 +24,17 @@ La validité de l'accord est subordonnée à l'approbation de la majorité des s
 
 La consultation des salariés devra satisfaire aux dispositions du décret n° 2005-64 du 28 janvier 2005. Notamment, les salariés devront être informés au moins 15 jours avant la date du scrutin de l'heure et de la date de celui-ci, du contenu de l'accord, du texte de la question soumise au vote.
 
-III.5.2.2. En cas d'absence d'un délégué syndical dans l'entreprise (1) :
+III.5.2.2. En cas d'absence d'un délégué syndical dans l'entreprise
 
-III.5.2.2.1. Conditions de conclusion (2) :
+(1)
+
+:
+
+III.5.2.2.1. Conditions de conclusion
+
+(2)
+
+:
 
 A défaut de délégué syndical, il est possible pour l'employeur, après en avoir informé les délégués de branche, de négocier des accords collectifs d'entreprise avec respectivement :
 
@@ -48,35 +56,35 @@ La validité de l'accord est subordonnée :
 
 ― au respect de la présente convention collective, et notamment des dispositions du III.5.1 ci-dessus.
 
-b) Cas d'un accord conclu avec un salarié mandaté (3) :
+b) Cas d'un accord conclu avec un salarié mandaté :
 
-A défaut de représentant élu du personnel dans l'entreprise, l'accord pourra être conclu avec un salarié mandaté par une organisation syndicale de salariés.
+A défaut de représentant élu du personnel dans l'entreprise, l'accord pourra être conclu avec un salarié mandaté par une organisation syndicale de salariés représentative au plan national.
 
-L'employeur ou son représentant devra informer le collège des délégués de branche de sa décision d'engager des négociations, par lettre recommandée avec avis de réception. Cette lettre devra préciser le(s) thème(s) de la négociation, ainsi que l'exposé des motifs.
+L'employeur ou son représentant devra informer les organisations syndicales reconnues représentatives sur le plan national, ces dernières devant être informées au plan départemental ou local par l'employeur de sa décision d'engager des négociations, par lettre recommandée avec avis de réception. Cette lettre devra préciser le (s) thème (s) de la négociation, ainsi que l'exposé des motifs.
 
-Le mandat, comportant l'indication du nom du mandataire et son objet, doit être délivré au salarié mandaté et notifié à l'employeur par le (ou les) délégué(s) de branche qui mandate(nt), préalablement à l'ouverture de la négociation, par lettre recommandée avec accusé de réception. Il est limité à la négociation pour laquelle il est délivré. Le mandataire est tenu d'une obligation d'information de son (ou de ses) mandant(s).
+Le mandat, comportant l'indication du nom du mandataire et son objet, doit être délivré au salarié mandaté et notifié à l'employeur par le ou les délégués de branche qui mandatent, préalablement à l'ouverture de la négociation, par lettre recommandée avec avis de réception. Il est limité à la négociation pour laquelle il est délivré. Le mandataire est tenu d'une obligation d'information de son ou de ses mandants.
 
 Le mandat prend fin :
 
 ― à la date de la signature de l'accord ;
 
-― à la date de retrait du mandat parl'organisation syndicale ; le retrait du mandat doit être notifié à l'employeur par lettre recommandée avec avis de réception ;
+― à la date de retrait du mandat par l'organisation syndicale ; le retrait du mandat doit être notifié à l'employeur par lettre recommandée avec avis de réception ;
 
 ― en cas d'échec des négociations, constaté par procès-verbal, établi par l'employeur ou son représentant.
 
-L'accord signé par un salarié mandaté doit être approuvé par référendum par les salariés de l'entreprise à la majorité des suffrages exprimés. La consultation des salariés devra
-
-satisfaire aux dispositions du
-
-décret n° 2005-64 du 28 janvier 2005. En particulier, les salariés devront être informés de la date du scrutin au moins 15 jours avant la date de celui-ci, du contenu de l'accord et du texte de la question soumise au vote.
+L'accord signé par un salarié mandaté doit être approuvé par référendum par les salariés de l'entreprise à la majorité des suffrages exprimés. La consultation des salariés devra satisfaire aux dispositions du décret n° 2005-64 du 28 janvier 2005. En particulier, les salariés devront être informés de la date du scrutin au moins 15 jours avant la date de celui-ci, du contenu de l'accord et du texte de la question soumise au vote.
 
 (1) Article étendu sous réserve de
 
 l'application des
 
-dispositions de l'article L. 132-26-I du code du travail, qui fixent les thèmes ouverts à ce mode de négociation dérogatoire (
+dispositions de l'article L. 132-26-I du code du travail
 
-arrêté du 24 juillet 2007, art. 1er)
+, qui fixent les thèmes ouverts à ce mode de négociation dérogatoire (
+
+arrêté du 24 juillet 2007, art. 1er
+
+)
 
 .
 
@@ -84,14 +92,14 @@ arrêté du 24 juillet 2007, art. 1er)
 
 l'application des
 
-dispositions de l'article L. 132-26-III du code du travail, qui précisent que lorsqu'un procès-verbal de carence a établi l'absence de représentants élus du personnel, des accords peuvent être conclus par un ou plusieurs salariés mandatés par une ou plusieurs organisations syndicales reconnues représentatives sur le plan national (
+dispositions de l'article L. 132-26-III du code du travail
 
-arrêté du 24 juillet 2007, art. 1er)
+, qui précisent que lorsqu'un procès-verbal de carence a établi l'absence de représentants élus du personnel, des accords peuvent être conclus par un ou plusieurs salariés mandatés par une ou plusieurs organisations syndicales reconnues représentatives sur le plan national (
+
+arrêté du 24 juillet 2007, art. 1er
+
+)
 
 .
 
-(3) Article exclu de l'extension comme étant contraire aux
-
-dispositions de l'article L. 132-26-III, alinéas 1 et 2, du code du travail, aux termes desquelles le salarié est mandaté par une ou plusieurs organisations syndicales reconnues représentatives sur le plan national, ces dernières devant être informées au plan départemental ou local par l'employeur de sa décision d'engager des négociations (
-
-arrêté du 24 juillet 2007, art. 1er).
+.

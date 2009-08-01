@@ -42,14 +42,14 @@ Lorsque les heures de voyage interviennent en dehors de l'horaire de travail hab
 
 L'employeur peut remplacer l'« indemnité pour heures de voyage » par un repos compensateur au moins équivalent.
 
-VI.1.4. Repas, hébergement et pause (2)
+VI.1.4. Repas, hébergement et pause
 
-Les temps de repas, d'hébergement et de pause ne sont pas du temps de travail effectif. Toutefois, lorsque, au cours d'une pause, en raison des circonstances, une intervention du salarié est sollicitée par l'employeur, la durée du temps de pause correspondant est réintégrée dans le temps de travail effectif.
+Les temps de repas, d'hébergement et de pause ne sont pas du temps de travail effectif.
+
+Pour autant, aucun temps de travail quotidien ne peut atteindre 6 heures sans que le salarié bénéficie d'un temps de pause d'une durée minimale de 20 minutes, non décompté dans le temps de travail. Toutefois, lorsque, au cours d'une pause, en raison des circonstances, une intervention du salarié est sollicitée par l'employeur, la durée du temps de pause correspondant est réintégrée dans le temps de travail effectif.
 
 VI.1.5. Habillage ou déshabillage
 
 Lorsque le port d'une tenue de travail spécifique est imposé par une disposition législative ou réglementaire, par le règlement intérieur, par le contrat de travail, ou par l'employeur, le temps nécessaire aux opérations d'habillage et/ou de déshabillage n'est pas intégré dans le temps de travail effectif, mais fait l'objet, pour chacune des opérations d'habillage et de déshabillage, d'une compensation financière sous forme de prime « d'habillage/déshabillage » égale à 6 € bruts par jour.
 
 (1) Article étendu sous réserve du respect des dispositions de l'article L. 212-4, alinéa 4, du code du travail, qui prévoient que, si le temps de déplacement professionnel pour se rendre sur le lieu d'exécution du contrat de travail dépasse le temps normal de trajet entre le domicile et le lieu habituel de travail, il doit faire l'objet d'une contrepartie soit sous forme de repos, soit financière, déterminée par convention ou accord collectif ou à défaut par décision unilatérale de l'employeur prise après consultation du comité d'entreprise ou des délégués du personnel s'ils existent (arrêté du 24 juillet 2007, art. 1er).
-
-(2) Article étendu sous réserve du respect des dispositions de l'article L. 220-2 du code du travail, aux termes desquelles aucun temps de travail quotidien ne peut atteindre 6 heures sans que le salarié bénéficie d'un temps de pause d'une durée minimale de 20 minutes (arrêté du 24 juillet 2007, art. 1er).

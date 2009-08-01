@@ -12,13 +12,13 @@ Sont considérées comme des heures supplémentaires les heures de travail effec
 
 VI.4.1.2. Dans le cadre d'un programme indicatif d'heures :
 
-Les conditions dans lesquelles le travail peut être organisé sur l'année dans le cadre d'un programme indicatif d'heures sont indiquées à l'article VI.6.3 du présent titre.
+Les conditions dans lesquelles le travail peut être organisé sur l'année dans le cadre d'un programme indicatif d'heures sont indiquées à l'article VI. 6. 3 du présent titre.
 
 VI.4.2. Organisation individuelle
 
 Ne sont pas soumis à un horaire collectif :
 
-― les salariés visés à l'article VI.6 ci-après ;
+― les salariés visés à l'article VI. 7 ci-après.
 
 ― les salariés à temps partiel lorsqu'ils travaillent des journées incomplètes ;
 
