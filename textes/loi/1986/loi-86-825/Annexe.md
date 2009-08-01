@@ -1,405 +1,773 @@
 # Article Annexe
 
-ANNEXE (Article 5)
+NOMBRE DE CIRCONSCRIPTIONS DANS LES DÉPARTEMENTS, LA NOUVELLE-CALÉDONIE, LES COLLECTIVITÉS D'OUTRE-MER RÉGIES PAR L'ARTICLE 74 DE LA CONSTITUTION, ET DES FRANÇAIS ÉTABLIS HORS DE FRANCE
 
-NOMBRE DE CIRCONSCRIPTIONS PAR DEPARTEMENT.
+(Election des députés)
 
-NOM DU DEPARTEMENT : Ain
+DÉPARTEMENT
 
-NOMBRE DE circonscriptions : 4.
+|
 
-NOM DU DEPARTEMENT : Aisne
+NOMBRE DE CIRCONSCRIPTIONS
 
-NOMBRE DE circonscriptions : 5.
+|
 
-NOM DU DEPARTEMENT : Allier
+Ain
 
-NOMBRE DE circonscriptions : 4.
+|
 
-NOM DU DEPARTEMENT : Alpes-de-Haute-Provence
+5
 
-NOMBRE DE circonscriptions : 2.
+|
 
-NOM DU DEPARTEMENT : Hautes-Alpes
+Aisne
 
-NOMBRE DE circonscriptions : 2.
+|
 
-NOM DU DEPARTEMENT : Alpes-Maritimes
+5
 
-NOMBRE DE circonscriptions : 9.
+|
 
-NOM DU DEPARTEMENT : Ardèche
+Allier
 
-NOMBRE DE circonscriptions : 3.
+|
 
-NOM DU DEPARTEMENT : Ardennes
+3
 
-NOMBRE DE circonscriptions : 3.
+|
 
-NOM DU DEPARTEMENT : Ariège
+Alpes-de-Haute-Provence
 
-NOMBRE DE circonscriptions : 2.
+|
 
-NOM DU DEPARTEMENT : Aube
+2 |
 
-NOMBRE DE circonscriptions : 3.
+Hautes-Alpes
 
-NOM DU DEPARTEMENT : Aude
+|
 
-NOMBRE DE circonscriptions : 3.
+2 |
 
-NOM DU DEPARTEMENT : Aveyron
+Alpes-Maritimes
 
-NOMBRE DE circonscriptions : 3.
+|
 
-NOM DU DEPARTEMENT : Territoire-de-Belfort
+9 |
 
-NOMBRE DE circonscriptions : 2.
+Ardèche
 
-NOM DU DEPARTEMENT : Bouches-du-Rhône
+|
 
-NOMBRE DE circonscriptions : 16.
+3 |
 
-NOM DU DEPARTEMENT : Calvados
+Ardennes
 
-NOMBRE DE circonscriptions : 6.
+|
 
-NOM DU DEPARTEMENT : Cantal
+3 |
 
-NOMBRE DE circonscriptions : 2.
+Ariège
 
-NOM DU DEPARTEMENT : Charente
+|
 
-NOMBRE DE circonscriptions : 4.
+2 |
 
-NOM DU DEPARTEMENT : Charente-Maritime
+Aube
 
-NOMBRE DE circonscriptions : 5.
+|
 
-NOM DU DEPARTEMENT : Cher
+3 |
 
-NOMBRE DE circonscriptions : 3.
+Aude
 
-NOM DU DEPARTEMENT : Corrèze
+|
 
-NOMBRE DE circonscriptions : 3.
+3 |
 
-NOM DU DEPARTEMENT : Corse-du-Sud
+Aveyron
 
-NOMBRE DE circonscriptions : 2.
+|
 
-NOM DU DEPARTEMENT : Haute-Corse
+3 |
 
-NOMBRE DE circonscriptions : 2.
+Territoire de Belfort
 
-NOM DU DEPARTEMENT : Côte-d'Or
+|
 
-NOMBRE DE circonscriptions : 5.
+2 |
 
-NOM DU DEPARTEMENT : Côtes-du-Nord
+Bouches-du-Rhône
 
-NOMBRE DE circonscriptions : 5.
+|
 
-NOM DU DEPARTEMENT : Creuse
+16 |
 
-NOMBRE DE circonscriptions : 2.
+Calvados
 
-NOM DU DEPARTEMENT : Dordogne
+|
 
-NOMBRE DE circonscriptions : 4.
+6 |
 
-NOM DU DEPARTEMENT : Doubs
+Cantal
 
-NOMBRE DE circonscriptions : 5.
+|
 
-NOM DU DEPARTEMENT : Drôme
+2 |
 
-NOMBRE DE circonscriptions : 4.
+Charente
 
-NOM DU DEPARTEMENT : Essonne
+|
 
-NOMBRE DE circonscriptions : 10.
+3
 
-NOM DU DEPARTEMENT : Eure
+|
 
-NOMBRE DE circonscriptions : 5.
+Charente-Maritime
 
-NOM DU DEPARTEMENT : Eure-et-Loir
+|
 
-NOMBRE DE circonscriptions : 4.
+5 |
 
-NOM DU DEPARTEMENT : Finistère
+Cher
 
-NOMBRE DE circonscriptions : 8.
+|
 
-NOM DU DEPARTEMENT : Gard
+3 |
 
-NOMBRE DE circonscriptions : 5.
+Corrèze
 
-NOM DU DEPARTEMENT : Haute-Garonne
+|
 
-NOMBRE DE circonscriptions : 8.
+2
 
-NOM DU DEPARTEMENT : Gers
+|
 
-NOMBRE DE circonscriptions : 2.
+Corse-du-Sud
 
-NOM DU DEPARTEMENT : Gironde
+|
 
-NOMBRE DE circonscriptions : 11
+2 |
 
-NOM DU DEPARTEMENT : Guadeloupe
+Haute-Corse
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Guyane
+2 |
 
-NOMBRE DE circonscriptions : 2
+Côte-d'Or
 
-NOM DU DEPARTEMENT : Hérault
+|
 
-NOMBRE DE circonscriptions : 7
+5 |
 
-NOM DU DEPARTEMENT : Ille-et-Vilaine
+Côtes-d'Armor
 
-NOMBRE DE circonscriptions : 7
+|
 
-NOM DU DEPARTEMENT : Indre
+5 |
 
-NOMBRE DE circonscriptions : 3
+Creuse
 
-NOM DU DEPARTEMENT : Indre-et-Loire
+|
 
-NOMBRE DE circonscriptions : 5
+1
 
-NOM DU DEPARTEMENT : Isère
+|
 
-NOMBRE DE circonscriptions : 9
+Dordogne
 
-NOM DU DEPARTEMENT : Jura
+|
 
-NOMBRE DE circonscriptions : 3
+4 |
 
-NOM DU DEPARTEMENT : Landes
+Doubs
 
-NOMBRE DE circonscriptions : 3
+|
 
-NOM DU DEPARTEMENT : Loir-et-Cher
+5 |
 
-NOMBRE DE circonscriptions : 3
+Drôme
 
-NOM DU DEPARTEMENT : Loire
+|
 
-NOMBRE DE circonscriptions : 7
+4 |
 
-NOM DU DEPARTEMENT : Haute-Loire
+Essonne
 
-NOMBRE DE circonscriptions : 2
+|
 
-NOM DU DEPARTEMENT : Loire-Atlantique
+10 |
 
-NOMBRE DE circonscriptions : 10.
+Eure
 
-NOM DU DEPARTEMENT : Loiret
+|
 
-NOMBRE DE circonscriptions : 5
+5 |
 
-NOM DU DEPARTEMENT : Lot
+Eure-et-Loir
 
-NOMBRE DE circonscriptions : 2
+|
 
-NOM DU DEPARTEMENT : Lot-et-Garonne
+4 |
 
-NOMBRE DE circonscriptions : 3
+Finistère
 
-NOM DU DEPARTEMENT : Lozère
+|
 
-NOMBRE DE circonscriptions : 2
+8 |
 
-NOM DU DEPARTEMENT : Maine-et-Loire
+Gard
 
-NOMBRE DE circonscriptions : 7
+|
 
-NOM DU DEPARTEMENT : Manche
+6
 
-NOMBRE DE circonscriptions : 5
+|
 
-NOM DU DEPARTEMENT : Marne
+Haute-Garonne
 
-NOMBRE DE circonscriptions : 6
+|
 
-NOM DU DEPARTEMENT : Haute-Marne
+10
 
-NOMBRE DE circonscriptions : 2
+|
 
-NOM DU DEPARTEMENT : Martinique
+Gers
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Mayenne
+2 |
 
-NOMBRE DE circonscriptions : 3
+Gironde
 
-NOM DU DEPARTEMENT : Meurthe-et-Moselle
+|
 
-NOMBRE DE circonscriptions : 7
+12
 
-NOM DU DEPARTEMENT : Meuse
+|
 
-NOMBRE DE circonscriptions : 2
+Guadeloupe
 
-NOM DU DEPARTEMENT : Morbihan
+|
 
-NOMBRE DE circonscriptions : 6
+4 |
 
-NOM DU DEPARTEMENT : Moselle
+Guyane
 
-NOMBRE DE circonscriptions : 10
+|
 
-NOM DU DEPARTEMENT : Nièvre
+2 |
 
-NOMBRE DE circonscriptions : 3
+Hérault
 
-NOM DU DEPARTEMENT : Nord
+|
 
-NOMBRE DE circonscriptions : 24
+9
 
-NOM DU DEPARTEMENT : Oise
+|
 
-NOMBRE DE circonscriptions : 7.
+Ille-et-Vilaine
 
-NOM DU DEPARTEMENT : Orne
+|
 
-NOMBRE DE circonscriptions : 3
+8
 
-NOM DU DEPARTEMENT : Paris
+|
 
-NOMBRE DE circonscriptions : 21
+Indre
 
-NOM DU DEPARTEMENT : Pas-de-Calais
+|
 
-NOMBRE DE circonscriptions : 14
+2
 
-NOM DU DEPARTEMENT : Puy-de-Dôme
+|
 
-NOMBRE DE circonscriptions : 6
+Indre-et-Loire
 
-NOM DU DEPARTEMENT : Pyrénées-Atlantiques
+|
 
-NOMBRE DE circonscriptions : 6
+5 |
 
-NOM DU DEPARTEMENT : Hautes-Pyrénées
+Isère
 
-NOMBRE DE circonscriptions : 3
+|
 
-NOM DU DEPARTEMENT : Pyrénées-Orientales
+10
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Réunion
+Jura
 
-NOMBRE DE circonscriptions : 5
+|
 
-NOM DU DEPARTEMENT : Bas-Rhin
+3 |
 
-NOMBRE DE circonscriptions : 9
+Landes
 
-NOM DU DEPARTEMENT : Haut-Rhin
+|
 
-NOMBRE DE circonscriptions : 7
+3 |
 
-NOM DU DEPARTEMENT : Rhône
+La Réunion
 
-NOMBRE DE circonscriptions : 14
+|
 
-NOM DU DEPARTEMENT : Haute-Saône
+7
 
-NOMBRE DE circonscriptions : 3
+|
 
-NOM DU DEPARTEMENT : Saône-et-Loire
+Loir-et-Cher
 
-NOMBRE DE circonscriptions : 6
+|
 
-NOM DU DEPARTEMENT : Sarthe
+3 |
 
-NOMBRE DE circonscriptions : 5
+Loire
 
-NOM DU DEPARTEMENT : Savoie
+|
 
-NOMBRE DE circonscriptions : 3
+6
 
-NOM DU DEPARTEMENT : Haute-Savoie
+|
 
-NOMBRE DE circonscriptions : 5
+Haute-Loire
 
-NOM DU DEPARTEMENT : Hauts-de-Seine
+|
 
-NOMBRE DE circonscriptions : 13
+2 |
 
-NOM DU DEPARTEMENT : Seine-Maritime
+Loire-Atlantique
 
-NOMBRE DE circonscriptions : 12.
+|
 
-NOM DU DEPARTEMENT : Seine-et-Marne
+10 |
 
-NOMBRE DE circonscriptions : 9
+Loiret
 
-NOM DU DEPARTEMENT : Seine-Saint-Denis
+|
 
-NOMBRE DE circonscriptions : 13
+6
 
-NOM DU DEPARTEMENT : Deux-Sèvres
+|
 
-NOMBRE DE circonscriptions : 4
+Lot
 
-NOM DU DEPARTEMENT : Somme
+|
 
-NOMBRE DE circonscriptions : 6
+2 |
 
-NOM DU DEPARTEMENT : Tarn
+Lot-et-Garonne
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Tarn-et-Garonne
+3 |
 
-NOMBRE DE circonscriptions : 2
+Lozère
 
-NOM DU DEPARTEMENT : Val-de-Marne
+|
 
-NOMBRE DE circonscriptions : 12
+1
 
-NOM DU DEPARTEMENT : Val-d'Oise
+|
 
-NOMBRE DE circonscriptions : 9
+Maine-et-Loire
 
-NOM DU DEPARTEMENT : Var
+|
 
-NOMBRE DE circonscriptions : 7
+7 |
 
-NOM DU DEPARTEMENT : Vaucluse
+Manche
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Vendée
+4
 
-NOMBRE DE circonscriptions : 5
+|
 
-NOM DU DEPARTEMENT : Vienne
+Marne
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Haute-Vienne
+5
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Vosges
+Martinique
 
-NOMBRE DE circonscriptions : 4
+|
 
-NOM DU DEPARTEMENT : Yonne
+4 |
 
-NOMBRE DE circonscriptions : 3
+Haute-Marne
 
-NOM DU DEPARTEMENT : Yvelines
+|
 
-NOMBRE DE circonscriptions : 12.
+2 |
+
+Mayenne
+
+|
+
+3 |
+
+Meurthe-et-Moselle
+
+|
+
+6
+
+|
+
+Meuse
+
+|
+
+2 |
+
+Morbihan
+
+|
+
+6 |
+
+Moselle
+
+|
+
+9
+
+|
+
+Nièvre
+
+|
+
+2
+
+|
+
+Nord
+
+|
+
+21
+
+|
+
+Oise
+
+|
+
+7 |
+
+Orne
+
+|
+
+3 |
+
+Paris
+
+|
+
+18
+
+|
+
+Pas-de-Calais
+
+|
+
+12
+
+|
+
+Puy-de-Dôme
+
+|
+
+5
+
+|
+
+Pyrénées-Atlantiques
+
+|
+
+6 |
+
+Hautes-Pyrénées
+
+|
+
+2
+
+|
+
+Pyrénées-Orientales
+
+|
+
+4 |
+
+Bas-Rhin
+
+|
+
+9 |
+
+Haut-Rhin
+
+|
+
+6
+
+|
+
+Rhône
+
+|
+
+14 |
+
+Haute-Saône
+
+|
+
+2
+
+|
+
+Saône-et-Loire
+
+|
+
+5
+
+|
+
+Sarthe
+
+|
+
+5 |
+
+Savoie
+
+|
+
+4
+
+|
+
+Haute-Savoie
+
+|
+
+6
+
+|
+
+Hauts-de-Seine
+
+|
+
+13 |
+
+Seine-Maritime
+
+|
+
+10
+
+|
+
+Seine-et-Marne
+
+|
+
+11
+
+|
+
+Seine-Saint-Denis
+
+|
+
+12
+
+|
+
+Deux-Sèvres
+
+|
+
+3
+
+|
+
+Somme
+
+|
+
+5
+
+|
+
+Tarn
+
+|
+
+3
+
+|
+
+Tarn-et-Garonne
+
+|
+
+2 |
+
+Val-de-Marne
+
+|
+
+11
+
+|
+
+Val-d'Oise
+
+|
+
+10
+
+|
+
+Var
+
+|
+
+8
+
+|
+
+Vaucluse
+
+|
+
+5
+
+|
+
+Vendée
+
+|
+
+5 |
+
+Vienne
+
+|
+
+4 |
+
+Haute-Vienne
+
+|
+
+3
+
+|
+
+Vosges
+
+|
+
+4 |
+
+Yonne
+
+|
+
+3 |
+
+Yvelines
+
+|
+
+12 |
+
+NOUVELLE-CALÉDONIE
+
+ET COLLECTIVITÉS D'OUTRE-MER
+
+|
+
+NOMBRE DE CIRCONSCRIPTIONS
+
+|
+
+Nouvelle-Calédonie
+
+|
+
+2
+
+|
+
+Polynésie française
+
+|
+
+3
+
+|
+
+Iles Wallis et Futuna
+
+|
+
+1
+
+|
+
+Mayotte
+
+|
+
+2
+
+|
+
+Saint-Barthélemy et Saint-Martin
+
+|
+
+1
+
+|
+
+Saint-Pierre-et-Miquelon
+
+|
+
+1
+
+|
+
+AUTRES CIRCONSCRIPTIONS
+
+|
+
+NOMBRE DE CIRCONSCRIPTIONS
+
+|
+
+Français établis hors de France
+
+|
+
+11
+
+|
