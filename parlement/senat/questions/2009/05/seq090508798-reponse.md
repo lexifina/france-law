@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508798
+
+- Question : [SEQ090508798](seq090508798.md) — Délégation de compétences à une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2009-08-06, page 1947*
+
+La délégation de compétences suppose, pour être mise en oeuvre, d'être autorisée par un texte de même niveau que celui attributif de la compétence. En l'occurrence, aucun article du code général des collectivités territoriales n'autorise les communautés de communes à déléguer à leurs communes membres les compétences que la loi leur attribue ou que les communes leur ont transférées sur le fondement de ce même code. De la même manière, les communes membres d'une communauté de communes ne peuvent pas opérer de délégations de compétences envers l'établissement public de coopération intercommunale dont elles relèvent. L'intercommunalité repose en effet sur des transferts de compétences organisés au bénéfice du groupement en capacité de les exercer. Des retraits de compétences peuvent être opérés du groupement envers ses communes suivant des procédures spécifiques. Ces transferts ou restitutions de compétences ne sauraient cependant être confondus avec des délégations de compétences. En revanche, il est admis depuis la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales qu'une ou des communes puissent confier la création ou la gestion de certains équipements ou services relevant de leurs attributions à une communauté de communes par voie conventionnelle. Cette possibilité prévue par l'article L. 5214-16-1 du code général des collectivités territoriales (CGCT) facilite l'exercice de compétences, fondé sur une base contractuelle, entre une communauté de communes dotée de compétences communautaires et ses communes qui ont conservé des compétences de proximité.
