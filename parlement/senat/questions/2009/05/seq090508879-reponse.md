@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508879
+
+- Question : [SEQ090508879](seq090508879.md) — Transfert des indemnités d'élu local
+
+## Réponse
+
+*Intérieur, JO du 2009-08-20, page 2006*
+
+L'article L. 5211-12 du code général des collectivités territoriales (CGCT) dispose que les membres d'un organe délibérant d'un établissement public de coopération intercommunale titulaire d'autres mandats électoraux ne peuvent recevoir, pour l'ensemble de leurs fonctions, un montant total de rémunération et d'indemnités de fonction supérieur à une fois et demie le montant de l'indemnité parlementaire de base, soit 8 165,42 euros depuis le 1er octobre 2008. Les indemnités écrêtées au-delà de ce plafond peuvent être, par délibération nominative de l'organe délibérant, reversées à un autre élu de l'assemblée. Les articles L. 5212-7, L. 5214-7 et L. 5216-3 du CGCT prévoient la possibilité pour les organes délibérants des syndicats de communes, des communautés de communes et des communautés d'agglomération de désigner un ou plusieurs délégués suppléants. Ils sont appelés à siéger au comité ou au conseil avec voix délibérative en cas d'empêchement du ou des titulaires. Ces dispositions garantissent aux communes membres d'un de ces établissements une représentation par un délégué élu par leur conseil municipal, même en l'absence du ou des titulaires à une séance du comité syndical ou du conseil communautaire. La fonction de suppléant définie par la loi est donc aléatoire et ponctuelle. Aussi, si des indemnités devaient être attribuées à ces suppléants, elles auraient nécessairement et exclusivement le caractère d'indemnités de présence. Or, aucune disposition ne permet le versement d'indemnités de présence dans les établissements publics de coopération intercommunale. Par conséquent, il n'est pas possible de reporter les indemnités écrêtées au profit d'un délégué suppléant.
