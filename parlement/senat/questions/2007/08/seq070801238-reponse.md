@@ -1,0 +1,9 @@
+# Réponse à la question SEQ070801238
+
+- Question : [SEQ070801238](seq070801238.md) — Composition du conseil d'administration de l'IRCANTEC
+
+## Réponse
+
+*Travail, JO du 2009-08-20, page 2014*
+
+L'année 2008 a vu l'achèvement de la réforme du régime et de la gouvernance de l'IRCANTEC qui permet d'assurer la viabilité à long terme de la caisse et de permettre une composition plus adaptée au sein du conseil d'administration. Cela s'est traduit par la publication d'un arrêté du 23 septembre 2008 qui modifie la composition du conseil, qui comprend dorénavant des représentants des collectivités territoriales et des employeurs de la fonction publique hospitalière. Il est désormais composé de trente-quatre membres : seize administrateurs représentant les bénéficiaires du régime, seize administrateurs représentant l'État, les collectivités territoriales et leurs établissements publics ainsi que les établissements publics dont les personnels sont affiliés au régime géré par l'IRCANTEC (huit membres désignés par un arrêté du ministre chargé de la fonction publique représentant les ministères employeurs, deux représentants désignés, sur proposition de l'Association des maires de France, par arrêté du ministre chargé des collectivités territoriales, un représentant désigné, sur proposition de l'assemblée des départements de France, par arrêté du ministre chargé des collectivités territoriales, un représentant désigné, sur proposition de l'Association des régions de France, par arrêté du ministre chargé des collectivités territoriales, quatre représentants des employeurs de la fonction publique hospitalière désignés, sur proposition de la Fédération hospitalière de France, par arrêté du ministre chargé de la santé), deux administrateurs, personnalités qualifiées, dont un issu des praticiens statutaires du code de la santé publique.
