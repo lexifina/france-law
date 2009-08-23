@@ -1,0 +1,771 @@
+# Article Annexe 2
+
+INDICES DU REVENU BRUT D'ENTREPRISE AGRICOLE DÉPARTEMENTAL À L'HECTARE
+
+DÉPARTEMENT
+
+|
+
+INDICE 2009
+
+|
+
+01 AIN
+
+|
+
+136,4
+
+|
+
+02 AISNE
+
+|
+
+119
+
+|
+
+03 ALLIER
+
+|
+
+122,5
+
+|
+
+04 ALPES-DE-HAUTE-PROVENCE
+
+|
+
+66,9
+
+|
+
+05 HAUTES-ALPES
+
+|
+
+130,6
+
+|
+
+06 ALPES-MARITIMES
+
+|
+
+57,6
+
+|
+
+07 ARDÈCHE
+
+|
+
+111
+
+|
+
+08 ARDENNES
+
+|
+
+108,8
+
+|
+
+09 ARIÈGE
+
+|
+
+144,8
+
+|
+
+10 AUBE
+
+|
+
+163,8
+
+|
+
+11 AUDE
+
+|
+
+91,2
+
+|
+
+12 AVEYRON
+
+|
+
+105,8
+
+|
+
+13 BOUCHES-DU-RHÔNE
+
+|
+
+125,4
+
+|
+
+14 CALVADOS
+
+|
+
+94,1
+
+|
+
+15 CANTAL
+
+|
+
+140,4
+
+|
+
+16 CHARENTE
+
+|
+
+90,2
+
+|
+
+17 CHARENTE-MARITIME
+
+|
+
+88,5
+
+|
+
+18 CHER
+
+|
+
+134,2
+
+|
+
+19 CORRÈZE
+
+|
+
+115,1
+
+|
+
+2A CORSE-DU-SUD
+
+|
+
+76,9
+
+|
+
+2B HAUTE-CORSE
+
+|
+
+134,3
+
+|
+
+21 CÔTE-D'OR
+
+|
+
+167,4
+
+|
+
+22 CÔTES-D'ARMOR
+
+|
+
+87,6
+
+|
+
+23 CREUSE
+
+|
+
+152,6
+
+|
+
+24 DORDOGNE
+
+|
+
+103,5
+
+|
+
+25 DOUBS
+
+|
+
+139,2
+
+|
+
+26 DRÔME
+
+|
+
+93,3
+
+|
+
+27 EURE
+
+|
+
+111,8
+
+|
+
+28 EURE-ET-LOIR
+
+|
+
+109,3
+
+|
+
+29 FINISTÈRE
+
+|
+
+85,3
+
+|
+
+30 GARD
+
+|
+
+84,2
+
+|
+
+31 HAUTE-GARONNE
+
+|
+
+127,5
+
+|
+
+32 GERS
+
+|
+
+130,1
+
+|
+
+33 GIRONDE
+
+|
+
+84
+
+|
+
+34 HÉRAULT
+
+|
+
+101,1
+
+|
+
+35 ILLE-ET-VILAINE
+
+|
+
+108,7
+
+|
+
+36 INDRE
+
+|
+
+137,1
+
+|
+
+37 INDRE-ET-LOIRE
+
+|
+
+147
+
+|
+
+38 ISÈRE
+
+|
+
+112,6
+
+|
+
+39 JURA
+
+|
+
+139,1
+
+|
+
+40 LANDES
+
+|
+
+113
+
+|
+
+41 LOIR-ET-CHER
+
+|
+
+98,8
+
+|
+
+42 LOIRE
+
+|
+
+165,8
+
+|
+
+43 HAUTE-LOIRE
+
+|
+
+127,3
+
+|
+
+44 LOIRE-ATLANTIQUE
+
+|
+
+101,9
+
+|
+
+45 LOIRET
+
+|
+
+105,3
+
+|
+
+46 LOT
+
+|
+
+129,4
+
+|
+
+47 LOT-ET-GARONNE
+
+|
+
+81,6
+
+|
+
+48 LOZÈRE
+
+|
+
+172,7
+
+|
+
+49 MAINE-ET-LOIRE
+
+|
+
+97
+
+|
+
+50 MANCHE
+
+|
+
+103,2
+
+|
+
+51 MARNE
+
+|
+
+157,9
+
+|
+
+52 HAUTE-MARNE
+
+|
+
+116,2
+
+|
+
+53 MAYENNE
+
+|
+
+99,6
+
+|
+
+54 MEURTHE-ET-MOSELLE
+
+|
+
+128
+
+|
+
+55 MEUSE
+
+|
+
+136,3
+
+|
+
+56 MORBIHAN
+
+|
+
+83,9
+
+|
+
+57 MOSELLE
+
+|
+
+122,1
+
+|
+
+58 NIÈVRE
+
+|
+
+134,6
+
+|
+
+59 NORD
+
+|
+
+120,4
+
+|
+
+60 OISE
+
+|
+
+139,3
+
+|
+
+61 ORNE
+
+|
+
+116,4
+
+|
+
+62 PAS-DE-CALAIS
+
+|
+
+164,3
+
+|
+
+63 PUY-DE-DÔME
+
+|
+
+122,7
+
+|
+
+64 PYRÉNÉES-ATLANTIQUES
+
+|
+
+121,9
+
+|
+
+65 HAUTES-PYRÉNÉES
+
+|
+
+108,5
+
+|
+
+66 PYRÉNÉES-ORIENTALES
+
+|
+
+53,3
+
+|
+
+67 BAS-RHIN
+
+|
+
+113,3
+
+|
+
+68 HAUT-RHIN
+
+|
+
+112,9
+
+|
+
+69 RHÔNE
+
+|
+
+66,3
+
+|
+
+70 HAUTE-SAÔNE
+
+|
+
+138,6
+
+|
+
+71 SAÔNE-ET-LOIRE
+
+|
+
+124,8
+
+|
+
+72 SARTHE
+
+|
+
+114,6
+
+|
+
+73 SAVOIE
+
+|
+
+140,1
+
+|
+
+74 HAUTE-SAVOIE
+
+|
+
+152,1
+
+|
+
+76 SEINE-MARITIME
+
+|
+
+109,2
+
+|
+
+77 SEINE-ET-MARNE
+
+|
+
+106,8
+
+|
+
+78 YVELINES
+
+|
+
+74,6
+
+|
+
+79 DEUX-SÈVRES
+
+|
+
+124,4
+
+|
+
+80 SOMME
+
+|
+
+148
+
+|
+
+81 TARN
+
+|
+
+117,1
+
+|
+
+82 TARN-ET-GARONNE
+
+|
+
+105,5
+
+|
+
+83 VAR
+
+|
+
+110,5
+
+|
+
+84 VAUCLUSE
+
+|
+
+72
+
+|
+
+85 VENDÉE
+
+|
+
+106,8
+
+|
+
+86 VIENNE
+
+|
+
+112,5
+
+|
+
+87 HAUTE-VIENNE
+
+|
+
+109,7
+
+|
+
+88 VOSGES
+
+|
+
+138,9
+
+|
+
+89 YONNE
+
+|
+
+143,2
+
+|
+
+90 TERRITOIRE DE BELFORT
+
+|
+
+145,2
+
+|
+
+91 ESSONNE
+
+|
+
+92,8
+
+|
+
+92 HAUTS-DE-SEINE
+
+|
+
+53,4
+
+|
+
+93 SEINE-SAINT-DENIS
+
+|
+
+53,4
+
+|
+
+94 VAL-DE-MARNE
+
+|
+
+53,4
+
+|
+
+95 VAL-D'OISE
+
+|
+
+82,5
+
+|
