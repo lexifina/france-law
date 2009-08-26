@@ -4,8 +4,8 @@ L'Etat participe financièrement à l'indemnisation des propriétaires des bovin
 
 1. Bovins pour lesquels le résultat non négatif au test rapide spécifique à l'ESB n'a pas été confirmé par le laboratoire national de référence pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'ESB ;
 
-2. Bovins consignés, originaires de la même exploitation et abattus le même jour que les bovins visés au point 1 du présent article, pour lesquels le délai de communication du résultat de l'analyse de confirmation par le laboratoire national de référence pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'ESB ne permet plus la valorisation de la carcasse.
+2. Bovins consignés, en raison d'une suspicion non confirmée d'ESB sur un autre bovin conformément au point 1 du présent article, et pour lesquels le délai de communication de ce résultat négatif ne permet plus la valorisation de la carcasse ;
 
 3. Bovins pour lesquels la qualité du prélèvement de tronc cérébral ne permet pas d'obtenir un résultat d'analyse au test rapide spécifique à l'ESB.
 
-La participation financière de l'Etat est fixée à 50 % de la valeur bouchère au jour de l'abattage des carcasses saisies. Cette valeur bouchère est définie comme étant le produit du poids net fiscal de la carcasse saisie par la cotation OFIVAL nationale des gros bovins à l'entrée abattoir en vigueur le jour de l'abattage, pour la catégorie, la classe de conformation et l'état d'engraissement de ladite carcasse.
+La participation financière de l'Etat est fixée à 50 % de la valeur bouchère au jour de l'abattage des carcasses saisies. Cette valeur bouchère est définie comme étant le produit du poids net fiscal de la carcasse saisie par la cotation nationale des gros bovins à l'entrée abattoir en vigueur le jour de l'abattage, pour la catégorie, la classe de conformation et l'état d'engraissement de ladite carcasse.
