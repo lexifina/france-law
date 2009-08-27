@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709501
+
+- Question : [SEQ090709501](seq090709501.md) — Application de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations
+
+## Réponse
+
+*Intérieur, JO du 2009-08-27, page 2059*
+
+L'article 4 alinéa 2 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations prévoit que toute décision émanant d'une autorité administrative comporte, outre la signature de son auteur, la mention, en caractères lisibles, du prénom, du nom et de la qualité de celui-ci. Cette règle est de portée générale, puisqu'elle s'applique aux actes des autorités de l'État, des collectivités territoriales, des établissements publics administratifs et des organismes privés chargés d'un service public administratif. Le Conseil d'État a jugé à cet égard qu'une décision administrative encourt l'illégalité si elle ne comporte aucun élément de nature à identifier précisément son auteur (CE 11 mars 2009, n° 307656, commune d'Auvers-sur-Oise). Toutefois, la règle énoncée par l'article 4 de la loi du 12 avril 2000 ne s'applique pas aux relations entre des personnes publiques et, en conséquence, la jurisprudence a admis que le défaut de mention des noms, prénoms, qualités et signatures de l'ordonnateur et du comptable sur des titres de recettes émis par un établissement public à l'encontre d'une commune n'entache ces titres exécutoires d'aucune illégalité (TA Montpellier 10 février 2009, n° 0704049, commune de Saint-Nazaire-d'Aude). En tout état de cause, les exigences de la loi du 12 avril 2000 ne concernent que les décisions faisant grief, c'est-à-dire modifiant l'ordonnancement juridique. De simples échanges de correspondance, a fortiori entre collectivités publiques, échappent aux obligations résultant de l'article 4 alinéa 2 de la loi du 12 avril 2000.
