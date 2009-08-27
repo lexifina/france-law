@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508735
+
+- Question : [SEQ090508735](seq090508735.md) — Lutte contre les invasions de hannetons
+
+## Réponse
+
+*Alimentation, JO du 2009-08-27, page 2039*
+
+Les hannetons, ravageurs des cultures des régions bocagères ou voisines de forêts de feuillus, étaient devenus rares et ne causaient pratiquement plus de dégâts aux cultures depuis la généralisation du labour et l'abandon de la jachère au siècle dernier. Cependant, le hanneton peut pulluler localement. Tous les trois ans, durée du cycle de ce parasite, des dégâts sensibles peuvent apparaître dans certaines zones. Les informations récentes révèlent des dégâts significatifs mais très ponctuels en Midi-Pyrénées, Auvergne, Limousin et Lorraine. Une combinaison de lutte mécanique (labour avant semis) et chimique reste à ce jour la plus efficace. Le travail du sol permet de limiter les populations de larves très sensibles aux chocs mécaniques. Un traitement à base d'un produit homologué pour l'usage « Traitements généraux - Traitement du sol - Vers blancs (en plein) » peut également être envisagé avant le semis. Une lutte biologique existe également avec un champignon entomopathogène (Beauveria), mais aucun produit de ce type n'est aujourd'hui homologué. Dans le cadre du plan Ecophyto 2018, le ministère chargé de l'agriculture prévoit l'amélioration de la procédure d'évaluation des produits phytopharmaceutiques à base de micro-organismes. Un groupe de travail se réunira dans le courant de l'automne en vue de l'adoption des premiers éléments de cette démarche et la fixation d'un calendrier de travail visant à l'adoption de textes définitifs. Par ailleurs, la France soutient la mise en place et l'action d'une task force européenne « Beauveria » visant à l'inclusion de nouvelles souches de ce micro-organisme. Une coopération franco-espagnole est également en cours de développement.
