@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207358
+
+- Question : [SEQ090207358](seq090207358.md) — Indemnisation des communes pour l'organisation des élections prud'homales
+
+## Réponse
+
+*Travail, JO du 2009-08-27, page 2070*
+
+La phase de préparation de ces élections fait l'objet d'une indemnisation de 0,20 euro par électeur inscrit, en augmentation par rapport à la rémunération versée en 2002. En outre pour les communes tenant des bureaux de vote, une rémunération de 0,10 euro par électeur et 44 euros par bureau de vote est prévue, cette indemnisation étant également en hausse par rapport aux élections de 2002. Les mairies ont joué un rôle central dans l'organisation des élections prud'homales. Pour réduire le surcroît de travail que cela représente pour les services municipaux, pour le scrutin du 3 décembre 2008, les tâches des communes ont été allégées par rapport à celui de 2002. Cet allègement a consisté en la fourniture aux communes concernées, via le Centre de traitement prud'homal (CTP), de listes électorales déjà constituées à partir des déclarations des données sociales remplies par les entreprises ; ainsi la phase fastidieuse de correction de la liste des entreprises a été supprimée. La mission de correction de ces listes a été également facilitée par la mise à disposition d'une application internet ergonomique, qui a recueilli l'adhésion de l'ensemble des communes qui ont eu à l'utiliser. Par ailleurs les cartes électorales, envoyées en 2002 par les mairies, ont été directement expédiées aux électeurs par le CTP pour le scrutin de 2008. Enfin, un dispositif d'assistance performant a été mis en place au CTP, permettant de fournir une aide aux acteurs institutionnels et en particulier aux mairies : un centre d'appel dédié pouvait être contacté afin de répondre aux questions juridiques, techniques et organisationnelles que les mairies pouvaient être amenées à se poser à cette occasion.
