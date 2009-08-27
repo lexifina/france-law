@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090608989
+
+- Question : [SEQ090608989](seq090608989.md) — Anonymat dans la procédure de préemption
+
+## Réponse
+
+*Intérieur, JO du 2009-08-27, page 2057*
+
+S'agissant des risques de détournement de procédure, l'article L. 210-1 du code de l'urbanisme indique que le droit de préemption urbain est exercé « en vue de la réalisation, dans l'intérêt général, des actions ou des opérations » d'aménagement répondant aux objectifs définis à l'article L. 300-1, ou pour constituer une réserve foncière en vue de réaliser ce type d'action ou d'opération. Par ailleurs, toute décision de préemption doit mentionner l'objet pour lequel ce droit est exercé. Ainsi, les décisions de préempter insuffisamment motivées encourent la censure du juge administratif. En outre, comme le rappelle le rapport du Conseil d'État sur le droit de préemption de 2008, le droit actuel est fondé sur la conception selon laquelle « la décision d'exercer le droit de préemption repose sur l'existence d'un projet d'aménagement public, conçu indépendamment des intentions de l'acquéreur potentiel. L'identité de ce dernier n'a donc nullement à figurer dans la déclaration d'intention d'aliéner ». Le droit actuel préserve donc le principe de l'anonymat. Ainsi, l'article R. 213-5 du code de l'urbanisme, applicable aux aliénations soumises au droit de préemption urbain, précise que la déclaration d'intention d'aliéner « doit être présentée en quatre exemplaires et indiquer les prix et conditions de l'aliénation projetée y compris, s'il y a lieu, le prix d'estimation de l'immeuble ou du droit offert en contrepartie ». Il en résulte que l'auteur de la déclaration n'est pas tenu de faire figurer le nom de l'acquéreur éventuel (CE, 6 janvier 1995, époux Fitoussi, n° 123371). Cette mention n'est utile que lorsque l'on souhaite préciser, pour l'acquéreur évincé, la possibilité de bénéficier du droit de rétrocession mentionné à l'article L. 213-11.
