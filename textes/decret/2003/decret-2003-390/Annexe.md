@@ -82,8 +82,6 @@ Besançon
 
 |
 
-|
-
 Bourgogne
 
 |
@@ -100,6 +98,8 @@ Nord - Pas-de-Calais
 
 |
 
+Lille
+
 |
 
 Amiens
@@ -107,10 +107,6 @@ Amiens
 |
 
 Picardie
-
-|
-
-Lille
 
 |
 
@@ -215,8 +211,6 @@ Orléans
 |
 
 Tours
-
-|
 
 |
 
@@ -355,10 +349,6 @@ Fort-de-France
 |
 
 Guyane
-
-|
-
-Saint-Martin
 
 |
 
