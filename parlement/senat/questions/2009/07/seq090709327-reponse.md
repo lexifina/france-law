@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709327
+
+- Question : [SEQ090709327](seq090709327.md) — Revalorisation de la retraite du combattant et attribution de la demi-part de l'impôt sur le revenu
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2009-08-27, page 2045*
+
+S'agissant de la retraite du combattant, il convient de préciser qu'après une première augmentation sans précédent depuis 1978 du montant de la retraite du combattant, de 2 points au 1er juillet 2006, cette prestation a été relevée à deux nouvelles reprises de 2 points en 2007 puis en 2008. Suite à l'examen du budget pour 2009, l'article 146 de la loi de finances pour 2009 a prévu une nouvelle augmentation de 2 points d'indice du montant de cette prestation. La retraite du combattant a ainsi été portée à 41 points à compter du 1er juillet 2009 tout en bénéficiant, à partir de cette même date, de la revalorisation du point d'indice, son montant étant également indexé sur l'évolution des traitements de la fonction publique. Le projet de loi de finances pour 2010 portera la retraite du combattant à 43 points à compter du 1er juillet 2010. L'objectif fixé par le Président de la République est d'atteindre 48 points en 2012. Pour ce qui concerne l'abaissement de soixante-quinze à soixante-dix ans de l'âge auquel les anciens combattants titulaires de la carte du combattant ou d'une pension servie en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de la guerre, ainsi que leurs veuves, sous la même condition d'âge, bénéficient d'une demi-part supplémentaire de quotient familial, en application des dispositions de l'article 195-1-f du code général des impôts, celui-ci ne saurait être envisagé dans la mesure où l'avantage fiscal en cause constitue déjà une dérogation importante au principe du quotient familial puisqu'il ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité.
