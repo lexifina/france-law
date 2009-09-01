@@ -1,22 +1,28 @@
 # Article Annexe VI
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA GENDARMERIE NATIONALE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS CONCERNANT SPÉCIFIQUEMENT LE PERSONNEL DE lA GENDARMERIE NATIONALE
 
 1. Formations communes aux officiers et sous-officiers
 
 a) Ressources humaines (personnels gérés au niveau central) :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien de service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -56,6 +62,18 @@ Diplôme de chef de caravane.
 
 |
 
+Brevet de la spécialité montagne.
+
+|
+
+5
+
+|
+
+1
+
+|
+
 Brevet d'Etat d'éducateur sportif du 1er degré de ski alpin.
 
 |
@@ -70,17 +88,21 @@ Brevet d'Etat d'éducateur sportif du 1er degré de ski alpin.
 
 b) Sécurité publique :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien de service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -108,7 +130,7 @@ Diplôme universitaire des coordinateurs des opérations de criminalistique.
 
 |
 
-Diplôme universitaire "analyse des risques et menaces contemporaines", option "investigation criminalistique N'Tech".
+Diplôme universitaire ou licence professionnelle analyse des risques et menaces contemporaines , option investigation criminalistique N'Tech .
 
 |
 
@@ -120,7 +142,7 @@ Diplôme universitaire "analyse des risques et menaces contemporaines", option "
 
 |
 
-Master "sciences, technologie et santé, mention technologie, organisation et management", spécialité "sécurité des systèmes d'information".
+Master sciences, technologie et santé, mention technologie, organisation et management , spécialité sécurité des systèmes d'information .
 
 |
 
@@ -132,7 +154,7 @@ Master "sciences, technologie et santé, mention technologie, organisation et ma
 
 |
 
-Diplôme universitaire "analyse des risques et menaces contemporaines", option "analyse criminelle opérationnelle".
+Diplôme universitaire analyse des risques et menaces contemporaines , option analyse criminelle opérationnelle .
 
 |
 
@@ -144,7 +166,7 @@ Diplôme universitaire "analyse des risques et menaces contemporaines", option "
 
 |
 
-Master sciences, technologie et santé, mention "technologie, organisation et management", spécialité "ingénierie et management de la sécurité globale appliquée".
+Master sciences, technologie et santé, mention technologie, organisation et management , spécialité ingénierie et management de la sécurité globale appliquée .
 
 |
 
@@ -156,7 +178,7 @@ Master sciences, technologie et santé, mention "technologie, organisation et ma
 
 |
 
-Diplôme universitaire "investigations judiciaires économiques et financières", option "manager" ou "enquêteur".
+Diplôme universitaire ou licence professionnelle investigations judiciaires en matière de délinquance économiques et financières , option manager ou enquêteur .
 
 |
 
@@ -168,7 +190,7 @@ Diplôme universitaire "investigations judiciaires économiques et financières"
 
 |
 
-Master droit et études européennes, spécialité "sciences criminelles lutte contre la criminalité organisée dans ses dimensions économiques et financières".
+Master 2 droit des affaires lutte contre la criminalité organisée dans ses dimensions économiques et financières .
 
 |
 
@@ -180,7 +202,7 @@ Master droit et études européennes, spécialité "sciences criminelles lutte c
 
 |
 
-Diplôme universitaire "adolescents difficiles".
+Diplôme universitaire ou licence professionnelle lutte contre le travail illégal et la fraude aux prestations sociales .
 
 |
 
@@ -192,7 +214,19 @@ Diplôme universitaire "adolescents difficiles".
 
 |
 
-Stage de formateur relais immigration irrégulière.
+Diplôme universitaire adolescents difficiles .
+
+|
+
+5
+
+|
+
+1
+
+|
+
+Stage d'enquêteur immigration irrégulière.
 
 |
 
@@ -220,7 +254,7 @@ Stage de moniteur d'intervention professionnelle et de franchissement opération
 
 |
 
-2
+3
 
 |
 
@@ -232,7 +266,7 @@ Stage d'instructeur d'intervention professionnelle.
 
 |
 
-2
+4
 
 |
 
@@ -256,7 +290,7 @@ Enquêteur subaquatique de la gendarmerie départementale.
 
 |
 
-7
+5
 
 |
 
@@ -278,17 +312,21 @@ Stage de diplôme technique montagne.
 
 c) Opérations en milieu aéronautique :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien de service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -306,7 +344,7 @@ Formation vol aux instruments RATING IFR (*)
 
 |
 
-Formation adaptateur T3 appareil à voilure tournante ».
+Formation adaptateur T3 appareil à voilure tournante .
 
 |
 
@@ -346,17 +384,21 @@ Qualification de type pilote Visual Flight Rules EC (145 ou 135).
 
 a) Administration :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -374,17 +416,21 @@ Brevet supérieur de spécialiste de la spécialité administration et gestion d
 
 b) Finances :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -402,17 +448,21 @@ Brevet supérieur de spécialiste de la spécialité gestion logistique et finan
 
 c) Restauration, hôtellerie et loisirs :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -428,19 +478,23 @@ Brevet supérieur de spécialiste de la spécialité restauration collective.
 
 |
 
-d) Infrastructure :
+3. Infrastructure
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -456,21 +510,23 @@ Brevet supérieur de spécialiste de la spécialité affaires immobilières.
 
 |
 
-e) Soutien opérationnel :
+a) Soutien opérationnel :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
-
-|
+COEFFICIENT multiplicateur |
 
 Equitation 1er niveau.
 
@@ -544,19 +600,23 @@ Brevet supérieur de spécialiste de la spécialité auto-engins blindés.
 
 |
 
-f) SIC (systèmes d'information et de communication) :
+b) SIC (systèmes d'information et de communication) :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -572,19 +632,37 @@ Diplôme des télécommunications et de la maintenance informatique.
 
 |
 
-g) Sécurité publique :
-
-INTITULÉ DE LA FORMATION
+Officier des systèmes d'information et de communication (OSIC).
 
 |
 
-DURÉE DU LIEN AU SERVICE
+5
+
+|
+
+3
+
+|
+
+c) Sécurité publique :
+
+INTITULÉ
+
+de la formation
+
+|
+
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -612,23 +690,29 @@ Diplôme de technicien cynophile.
 
 |
 
-h) Opérations en milieu aéronautique :
+d) Opérations en milieu aéronautique :
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Mécanicien "cellules et moteurs" 1er niveau.
+Mécanicien cellules et moteurs 1er niveau.
 
 |
 
@@ -640,7 +724,7 @@ Mécanicien "cellules et moteurs" 1er niveau.
 
 |
 
-Mécanicien "cellule et moteurs" 2e niveau.
+Mécanicien cellule et moteurs 2e niveau.
 
 |
 

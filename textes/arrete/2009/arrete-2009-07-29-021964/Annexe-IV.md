@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS CONCERNANT SPÉCIFIQUEMENT LES PERSONNELS DE LA MARINE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS CONCERNANT SPÉCIFIQUEMENT LES MILITAIRES DE LA MARINE NATIONALE
 
 1. Formations des officiers
 
@@ -40,11 +40,15 @@ Ecoles de niveau II militaires :
 
 - Ecole de guerre des mines (EGM) ;
 
-- Ecole d'application militaire à l'énergie atomique (EAMEA) ;
-
 - Ecole des missiliers sous-marins (ECOMISSM) ;
 
-- Ecole de l'aéronautique navale de Salon-de-Provence (EAN Salon).
+- Ecole de l'aéronautique navale de Salon-de-Provence (EAN Salon) ;
+
+- cours de génie atomique option réacteur ;
+
+- cours d'ingénieur de quart de bâtiment à propulsion nucléaire ;
+
+- cours de génie atomique option armement.
 
 |
 
@@ -53,6 +57,30 @@ Ecoles de niveau II militaires :
 |
 
 2
+
+|
+
+Brevet atomicien (BATOM) au profit des ingénieurs de quart.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Brevet atomicien (BATOM) au profit des futurs commandant et commandant en second de bâtiment.
+
+|
+
+1
+
+|
+
+1
 
 |
 
@@ -112,15 +140,11 @@ Formations aéronautiques qualifiantes :
 
 - cours de transformation multimoteurs à l'école d'aviation de transport d'Avord ;
 
-- stages qualification technique Falcon 10 et 50 ;
+- stages qualification technique Falcon 10 et 50 et NH 90 ;
 
-- stages qualification technique EC 225-EC 725, AS 532 Cougar ;
+- formation d'adaptation coordinateur tactique d'hélicoptère NH 90 ;
 
-- stages type Rating Instructor pour Falcon 10 et 50 ; Lynx, Dauphin, Panther, Super Frelon, NH90 ;
-
-- stage Instrument Rating Instructor pour hélicoptères ;
-
-- cours du certificat ou du brevet de tactique aéronautique.
+- stages qualification technique EC 225-EC 725, AS 532 Cougar.
 
 |
 
@@ -128,11 +152,23 @@ Formations aéronautiques qualifiantes :
 
 |
 
-1
+3
 
 |
 
-Cours du certificat contrôleur des opérations aériennes » (à l'EPV/56S) pour les OSC et les OSM.
+Cours du certificat ou du brevet de tactique aéronautique.
+
+|
+
+5
+
+|
+
+3
+
+|
+
+Cours du certificat contrôleur des opérations aériennes (à l'EPV/56S) pour les OSC et les OSM.
 
 |
 
@@ -184,7 +220,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Stage de guerre des mines ».
+Stage de guerre des mines .
 
 |
 
@@ -380,7 +416,7 @@ Certificat de tuteur des écoles.
 
 |
 
-3
+2
 
 |
 
@@ -456,7 +492,19 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat d'opérateur en vol conduite machine » à bord des Super Frelon, avions de patrouille et avions de surveillance maritime (C CM).
+Certificat de moniteur de simulateur de vol Rafale (C MOSPRAFALE).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Certificat d'opérateur en vol conduite machine à bord des Super Frelon, avions de patrouille et avions de surveillance maritime (C CM).
 
 |
 
@@ -480,7 +528,7 @@ Stage d'opérateur en vol à bord des hélicoptères et avions de surveillance m
 
 |
 
-Stage sauveteur-plongeur hélicoptère spécialisé marine.
+Stage sauveteur plongeur hélicoptère spécialisé marine.
 
 |
 
@@ -552,6 +600,78 @@ Stage des systèmes avionique Rafale.
 
 |
 
+Stage des systèmes d'armement NH 90.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Stage des systèmes d'armement NH 90 (niveau supérieur).
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage des systèmes avioniques NH 90.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Stage des systèmes avioniques NH 90 (niveau supérieur).
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage des systèmes porteur et puissance NH 90.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage des systèmes porteur et puissance NH 90 (niveau supérieur).
+
+|
+
+4
+
+|
+
+1
+
+|
+
 Opérations en milieu maritime :
 
 INTITULÉ DE LA FORMATION
@@ -599,18 +719,6 @@ COEFFICIENT MULTIPLICATEUR
 |
 
 Certificat de technicien de dosimétrie photographique.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Certificat de brevet de prévention contre les risques d'incendie et de panique.
 
 |
 
@@ -690,7 +798,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat de programmeur.
+Certificat d'administrateur systèmes et réseaux d'hydrographie, d'océanographie et de météorologie.
 
 |
 
@@ -742,7 +850,7 @@ Certificat de pilote de port du 1er degré.
 
 |
 
-Stage tube lance-missiles » niveau supérieur sur SNLE.
+Stage tube lance-missiles niveau supérieur sur SNLE.
 
 |
 
@@ -778,7 +886,7 @@ Stage de maître de central sur sous-marin.
 
 |
 
-Stage de mécanicien discrétion acoustique sur SNLE type Triomphant ».
+Stage de mécanicien discrétion acoustique sur SNLE type Triomphant.
 
 |
 
@@ -832,7 +940,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat supérieur ressources humaines ».
+Certificat supérieur ressources humaines .
 
 |
 
@@ -880,6 +988,18 @@ Spécialiste en organisation de la production alimentaire et en maîtrise des ri
 
 |
 
+Certificat supérieur ingénierie de formation (CSUP INGEFORM).
+
+|
+
+3
+
+|
+
+1
+
+|
+
 Soutien opérationnel :
 
 INTITULÉ DE LA FORMATION
@@ -897,34 +1017,6 @@ COEFFICIENT MULTIPLICATEUR
 |
 
 Certificat supérieur d'électronicien.
-
-|
-
-5
-
-|
-
-1
-
-|
-
-Renseignement :
-
-INTITULÉ DE LA FORMATION
-
-|
-
-DURÉE DU LIEN AU SERVICE
-
-(années)
-
-|
-
-COEFFICIENT MULTIPLICATEUR
-
-|
-
-Certificat supérieur d'analyste branche guerre électronique (GE).
 
 |
 
@@ -1012,7 +1104,7 @@ Cours de chimiste nucléaire.
 
 |
 
-Stage d'instrumentiste de porte-avions nucléaire (PAN) - (transfert des forces sous-marines).
+Stage d'instrumentiste de porte-avions nucléaire (PAN) (transfert des forces sous-marines).
 
 |
 

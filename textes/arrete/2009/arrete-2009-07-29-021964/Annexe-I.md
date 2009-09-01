@@ -26,11 +26,11 @@ Centre des hautes études militaires (CHEM).
 
 |
 
-1
+2
 
 |
 
-Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum.
+Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major).
 
 |
 
@@ -55,6 +55,18 @@ Enseignement militaire supérieur scientifique et technique (EMSST).
 |
 
 |
+
+|
+
+Ecole d'application militaire à l'énergie atomique (EAMEA).
+
+|
+
+4
+
+|
+
+2
 
 |
 
@@ -198,7 +210,7 @@ Stage d'instructeur des techniques d'optimisation du potentiel (EPS, sophrologie
 
 |
 
-4
+2
 
 |
 
@@ -210,7 +222,7 @@ Stage du brevet d'Etat d'éducateur sportif des activités de la natation.
 
 |
 
-3
+4
 
 |
 
@@ -294,23 +306,11 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le gr
 
 |
 
-3. Restauration, hôtellerie et loisirs :
-
-INTITULÉ DE LA FORMATION
+Formation de l'enseignement supérieur validée par un diplôme conférant le titre de docteur (tous domaines).
 
 |
 
-DURÉE DU LIEN AU SERVICE
-
-(années)
-
-|
-
-COEFFICIENT MULTIPLICATEUR
-
-|
-
-Formation générale de directeur cercle-mess.
+4
 
 |
 
@@ -318,11 +318,7 @@ Formation générale de directeur cercle-mess.
 
 |
 
-1
-
-|
-
-4. Santé :
+3. Santé :
 
 INTITULÉ DE LA FORMATION
 
@@ -350,7 +346,7 @@ Double de la période de formation
 
 |
 
-5. Infrastructure :
+4. Infrastructure :
 
 INTITULÉ DE LA FORMATION
 
@@ -378,7 +374,7 @@ Formation de spécialité 2e niveau conducteur de travaux.
 
 |
 
-Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois consécutifs minimum, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
+Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois consécutifs minimum, dispensée à des militaires relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
 
 |
 
@@ -390,7 +386,7 @@ Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois c
 
 |
 
-Formation complémentaire au diplôme d'architecte d'une durée de quatre mois consécutifs minimum, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
+Formation complémentaire au diplôme d'architecte d'une durée de quatre mois consécutifs minimum, dispensée à des militaires relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
 
 |
 
@@ -402,7 +398,7 @@ Formation complémentaire au diplôme d'architecte d'une durée de quatre mois c
 
 |
 
-6. Prévention et gestion des risques :
+5. Prévention et gestion des risques :
 
 INTITULÉ DE LA FORMATION
 
@@ -454,6 +450,30 @@ Certificat de technicien en radioprotection.
 
 |
 
+Equipier d'intervention risques radiologiques ou chef d'équipe d'intervention risques radiologiques (RAD 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Equipier d'intervention risques chimiques et biologiques ou chef d'équipe d'intervention risques chimiques et biologiques (CHIM 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
 Stage CHIM 3 (formation en chimie).
 
 |
@@ -478,6 +498,30 @@ Stage RAD 3 (formation en radiologie).
 
 |
 
+Conseiller technique risques radiologiques (RAD 4).
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Conseiller technique risques chimiques et biologiques (CHIM 4).
+
+|
+
+3
+
+|
+
+2
+
+|
+
 Session de formation des inspecteurs hygiène et sécurité (Institut national du travail, de l'emploi et de la formation professionnelle).
 
 |
@@ -490,7 +534,43 @@ Session de formation des inspecteurs hygiène et sécurité (Institut national d
 
 |
 
-7. Soutien opérationnel :
+Agent de prévention (PRV 1) ou attestation de compétence en matière de prévention de niveau 1 (AP 1).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de niveau 2 (AP 2), formation dispensée à l'ENSOSP.
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Responsable départemental de la prévention (PRV 3), formation dispensée à l'ENSOSP.
+
+|
+
+3
+
+|
+
+2
+
+|
+
+6. Soutien opérationnel :
 
 INTITULÉ DE LA FORMATION
 
@@ -554,7 +634,7 @@ Stage du certificat de spécialiste en métrologie électronique.
 
 |
 
-Stage de mine et explosif.
+Stage de mine et explosif 3e niveau (Explosive ordnance disposal [EOD] level 2).
 
 |
 
@@ -598,7 +678,7 @@ Cours du certificat de spécialiste des matériels de parachutage et de largage 
 
 |
 
-Permis E (C).
+Permis E (C) (super poids lourds).
 
 |
 
@@ -610,7 +690,7 @@ Permis E (C).
 
 |
 
-8. SIC (systèmes d'information et de communication) :
+7. SIC (systèmes d'information et de communication) :
 
 INTITULÉ DE LA FORMATION
 
@@ -626,7 +706,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Officier des télécommunications et de l'informatique (OTI).
+Formation officiers réseaux transmissions de données et informatiques réalisée à l'ESAT.
 
 |
 
@@ -662,7 +742,7 @@ Maître système des réseaux de satellites.
 
 |
 
-9. Renseignement :
+8. Renseignement :
 
 INTITULÉ DE LA FORMATION
 
@@ -718,7 +798,7 @@ Décodeur décrypteur de premier niveau.
 
 |
 
-1
+2
 
 |
 
@@ -746,11 +826,27 @@ Analyste renseignement d'origine électromagnétique (ROEM) du deuxième niveau.
 
 |
 
-Cours du certificat technique du 2e degré de détection et d'analyse des signaux électromagnétiques (DASEM).
+Formation de premier niveau de détection et d'analyse des signaux électromagnétiques (DASEM).
 
 |
 
+3
+
 |
+
+2
+
+|
+
+Formation de deuxième niveau de détection et d'analyse des signaux électromagnétiques (DASEM).
+
+|
+
+4
+
+|
+
+1
 
 |
 
@@ -758,7 +854,11 @@ Interprète d'image de premier niveau.
 
 |
 
+3
+
 |
+
+2
 
 |
 
@@ -850,7 +950,7 @@ Formation inspecteur de sécurité de la défense (ISD).
 
 |
 
-10. Opérations en milieu aéronautique :
+9. Opérations en milieu aéronautique :
 
 INTITULÉ DE LA FORMATION
 
@@ -914,6 +1014,30 @@ Formation d'ingénieur navigant à l'EPNER.
 
 |
 
+Formation d'adaptation pilote NH 90.
+
+|
+
+5
+
+|
+
+3
+
+|
+
+Formation qualification de type pilote sur hélicoptère EC 725.
+
+|
+
+5
+
+|
+
+2
+
+|
+
 Formation météorologiste de premier niveau.
 
 |
@@ -938,78 +1062,6 @@ Stage d'administrateur du système local de préparation et de restitution de mi
 
 |
 
-Stage des systèmes armement NH90.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage du système armement NH90 (niveau supérieur).
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Stage des systèmes avioniques NH90.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage des systèmes avioniques NH90 (niveau supérieur).
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Stage des systèmes porteur et puissance NH90.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Stage des systèmes porteur et puissance NH90 (niveau supérieur).
-
-|
-
-4
-
-|
-
-1
-
-|
-
 Formation initiale au CICDA des contrôleurs et opérateurs.
 
 |
@@ -1022,7 +1074,31 @@ Formation initiale au CICDA des contrôleurs et opérateurs.
 
 |
 
-Formation instructeur (FI) pilote avion/hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
+Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
+
+|
+
+2
+
+|
+
+3
+
+|
+
+Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing.
+
+|
+
+3
+
+|
+
+3
+
+|
+
+Formation d'adaptation moniteur sur hélicoptère NH 90.
 
 |
 
@@ -1106,7 +1182,7 @@ Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviatio
 
 |
 
-11. Opérations en milieu terrestre :
+10. Opérations en milieu terrestre :
 
 INTITULÉ DE LA FORMATION
 
@@ -1146,7 +1222,11 @@ Stage de chef d'unité haute montagne hiver.
 
 |
 
+3
+
 |
+
+1
 
 |
 
@@ -1226,7 +1306,7 @@ Stage du certificat de maître-chien.
 
 |
 
-12. Systèmes de forces, systèmes d'armes et équipement :
+11. Systèmes de forces, systèmes d'armes et équipement :
 
 INTITULÉ DE LA FORMATION
 
@@ -1253,3 +1333,7 @@ Formation parachutiste expérimentateur ou d'essai.
 1
 
 |
+
+NOTA :
+
+.

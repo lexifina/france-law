@@ -1,42 +1,18 @@
 # Article Annexe V
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE L'AIR
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS CONCERNANT SPÉCIFIQUEMENT LES MILITAIRES DE L'ARMÉE DE L'AIR
 
-1. Administration :
+1. Communication et culture
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
 
-|
-
-DURÉE DU LIEN AU SERVICE
-
-(années)
+de la formation
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+DURÉE
 
-|
-
-Formation expert technique, textiles et cuir.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-2. Communication et culture :
-
-INTITULÉ DE LA FORMATION
-
-|
-
-DURÉE DU LIEN AU SERVICE
+du lien au service
 
 (années)
 
@@ -58,13 +34,17 @@ Stage communication niveau 3.
 
 |
 
-3. Ressources humaines :
+2. Ressources humaines
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
@@ -110,61 +90,25 @@ Formation maîtres instructeurs.
 
 |
 
-Moniteur des techniques d'autodéfense.
-
-|
-
-2
-
-|
-
-1
-
-|
-
 (1) Pour toutes les spécialités ou formations autres que celles visées au présent arrêté.
 
 |
 
-4. Prévention et gestion des risques :
+3. Prévention et gestion des risques
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
 
-|
-
-DURÉE DU LIEN AU SERVICE
-
-(années)
+de la formation
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+DURÉE
+
+du lien au service(années)
 
 |
 
-Attestation de compétences en matière de prévention de niveau 2.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Attestation de compétences en matière de prévention de niveau 1.
-
-|
-
-2
-
-|
-
-1
-
-|
+COEFFICIENT multiplicateur |
 
 Détection protection incendie.
 
@@ -274,19 +218,23 @@ Stage de prévention HSCT.
 
 |
 
-5. Soutien opérationnel :
+4. Soutien opérationnel
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -326,7 +274,7 @@ Formation conducteur grand routier de transport de fret (FIMO).
 
 |
 
-Permis C, D, E (B), E (D).
+Permis C (poids lours), D (transports en commun), E (B) (véhicules légers avec remorque), E (D) (transports en commun avec remorque).
 
 |
 
@@ -410,21 +358,23 @@ Techniques du montage vidéo.
 
 |
 
-6. SIC (systèmes d'information et de communication) :
+5. SIC (systèmes d'information et de communication)
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
-
-|
+COEFFICIENT multiplicateur |
 
 Formation administrateur système et/ou réseau (avancé/niveau 2).
 
@@ -486,7 +436,7 @@ Formation SI ou SSI spécifique pour application en interallié.
 
 |
 
-Formation chez industriel.
+Formation industrielle MTBA (moyen de transmission des bases aériennes).
 
 |
 
@@ -534,7 +484,7 @@ Formation système de gestion de bases de données.
 
 |
 
-Formation en organisme de formation armée de l'air (avancé/niveau 2).
+Formation équipements actifs de réseaux télécoms ou réseaux informatiques (avancé/niveau 2).
 
 |
 
@@ -546,25 +496,51 @@ Formation en organisme de formation armée de l'air (avancé/niveau 2).
 
 |
 
-7. Opérations en milieu aéronautique :
-
-7.1. Formation des officiers PN :
-
-INTITULÉ DE LA FORMATION
+Formation supervision des réseaux télécoms ou réseaux informatiques (avancé/niveau 2).
 
 |
 
-DURÉE DU LIEN AU SERVICE
+2
+
+|
+
+1
+
+|
+
+Formation architecture, conception, modélisation (avancé).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+6. Opérations en milieu aéronautique
+
+6.1. Formation des officiers PN
+
+INTITULÉ
+
+de la formation
+
+|
+
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur |
 
-|
-
-Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur).
+Brevet du personnel navigant air du 2e degré (BPN air) (pilote ou navigateur).
 
 |
 
@@ -576,19 +552,7 @@ Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur).
 
 |
 
-Formation sur EC 725.
-
-|
-
-6
-
-|
-
-2
-
-|
-
-Formation sur Super Puma.
+Formation qualification de type pilote sur hélicoptère Super Puma.
 
 |
 
@@ -600,7 +564,7 @@ Formation sur Super Puma.
 
 |
 
-Transformation Airbus A 310/A 340/A 319/A 400 M/C 135.
+Formation qualification de type pilote sur avions Airbus et Boeing.
 
 |
 
@@ -612,7 +576,7 @@ Transformation Airbus A 310/A 340/A 319/A 400 M/C 135.
 
 |
 
-Transformation Falcon 50.
+Formation qualification de type pilote sur avions Falcon.
 
 |
 
@@ -624,19 +588,7 @@ Transformation Falcon 50.
 
 |
 
-Transformation Falcon 900.
-
-|
-
-4
-
-|
-
-2
-
-|
-
-Transformation intermédiaire Airbus qualification de type.
+Formation qualification de type additionnelle (FQTA) Airbus et Boeing.
 
 |
 
@@ -672,19 +624,23 @@ Formation réentraînement hélicoptère (REH).
 
 |
 
-7.2. Autres formations :
+6.2. Autres formations
 
-INTITULÉ DE LA FORMATION
+INTITULÉ
+
+de la formation
 
 |
 
-DURÉE DU LIEN AU SERVICE
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT multiplicateur
 
 |
 
@@ -760,7 +716,7 @@ Stage industriel de familiarisation (Falcon 50 ou Falcon 900 ou Airbus).
 
 |
 
-Stage industriel EC 725.
+Stage industriel qualification de type mécanicien vecteur EC 725.
 
 |
 
@@ -772,19 +728,49 @@ Stage industriel EC 725.
 
 |
 
-8. Systèmes de forces, systèmes d'armes et équipement :
-
-INTITULÉ DE LA FORMATION
+Stage industriel qualification de type mécanicien avionique EC 725.
 
 |
 
-DURÉE DU LIEN AU SERVICE
+4
+
+|
+
+2
+
+|
+
+Stages industriels mécaniciens systèmes de drones type Male.
+
+|
+
+4
+
+|
+
+2
+
+|
+
+7. Systèmes de forces, systèmes d'armes et équipement
+
+INTITULÉ
+
+de la formation
+
+|
+
+DURÉE
+
+du lien au service
 
 (années)
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -800,7 +786,7 @@ Stage analyste nucléaire et classique.
 
 |
 
-Mécanique et électricité véhicule Crotale NTI 1.
+Stages mécaniciens et télémécaniciens SAMP-T.
 
 |
 

@@ -1,6 +1,6 @@
 # Article Annexe III
 
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE TERRE
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS CONCERNANT SPÉCIFIQUEMENT LES MILITAIRES DE L'ARMÉE DE TERRE
 
 1. Formations des officiers
 
@@ -72,11 +72,35 @@ Formation d'adaptation pilote hélicoptère Tigre.
 
 |
 
-Formation d'adaptation pilote hélicoptère NH90.
+Formation d'adaptation chef de bord hélicoptère ou avion (tous types).
 
 |
 
-5
+4
+
+|
+
+3
+
+|
+
+Formation d'adaptation chef de patrouille hélicoptère (tous types).
+
+|
+
+3
+
+|
+
+3
+
+|
+
+Formation d'adaptation moniteur sur hélicoptère Tigre.
+
+|
+
+3
 
 |
 
@@ -96,7 +120,7 @@ Formation qualifiée de type pilote sur hélicoptère AS 532 Cougar.
 
 |
 
-Formation qualifiée de type pilote sur hélicoptère EC 725.
+Formation d'adaptation de type pilote sur hélicoptère EC 725.
 
 |
 
@@ -145,6 +169,166 @@ Certificat technique d'opérations d'infrastructure.
 |
 
 2
+
+|
+
+d) Prévention et gestion des risques :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Chef d'unité sauveteur déblayeur (SDE 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef de section sauveteur déblayeur (SDE 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Sauveteur groupe de reconnaissance et d'intervention en milieu périlleux (IMP 2).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Chef d'unité groupe de reconnaissance et d'intervention en milieu périlleux (IMP 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Chef d'unité cynotechnique (CYN 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Conseiller technique cynotechnique (CYN 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Formation surface non libre 2e degré (SNL 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Monitorat surface non libre 3e degré (SNL 3).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef de salle (TRS 3).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Officier de transmissions (TRS 4).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Monitorat aux techniques d'engagement.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Instructorat incendie.
+
+|
+
+3
+
+|
+
+1
 
 |
 
@@ -288,7 +472,7 @@ Formation de spécialité de 1er niveau maintenance structure des aéronefs.
 
 |
 
-Formation de spécialité de 1er niveau maintenance optronique système antichar NBC toutes options.
+Formation de spécialité de 1er niveau maintenance optronique système anti char NBC toutes options.
 
 |
 
@@ -324,7 +508,7 @@ Formation de spécialité de 1er niveau maintenance armement.
 
 |
 
-Formation de spécialité de 1er niveau maintenance matériel paralargage toutes options.
+Formation de spécialité de 1er niveau maintenance matériel para largage toutes options.
 
 |
 
@@ -412,7 +596,7 @@ Formation de spécialité de 2e niveau maintenance structure des aéronefs.
 
 |
 
-Formation de spécialité de 2e niveau maintenance optronique système antichar NBC toutes options.
+Formation de spécialité de 2e niveau maintenance optronique système anti char NBC toutes options.
 
 |
 
@@ -448,7 +632,7 @@ Formation de spécialité de 2e niveau maintenance armement.
 
 |
 
-Formation de spécialité de 2e niveau maintenance matériel paralargage toutes options.
+Formation de spécialité de 2e niveau maintenance matériel para largage toutes options.
 
 |
 
@@ -476,7 +660,11 @@ Formation d'adaptation technique 3 maintenance systémier Leclerc origine tourel
 
 |
 
+3
+
 |
+
+2
 
 |
 
@@ -624,6 +812,54 @@ Formation d'adaptation maintenance technologie environnement.
 
 |
 
+Formation d'adaptation T 112 avionique Tigre.
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Formation d'adaptation T 112 cellule et motorisation des aéronefs Tigre.
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Formation d'adaptation T 1 cellule et motorisation des aéronefs AS 532.
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Formation d'adaptation T 1 avionique AS 532.
+
+|
+
+3
+
+|
+
+2
+
+|
+
 b) Renseignement :
 
 INTITULÉ DE LA FORMATION
@@ -640,26 +876,6 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation de spécialité de 1er niveau guerre électronique décodeur.
-
-|
-
-3
-
-|
-
-2
-
-|
-
-Formation de spécialité de 1er niveau technicien guerre électronique analyste.
-
-|
-
-|
-
-|
-
 Formation de spécialité de 1er niveau technicien guerre électronique détection et analyse des signaux électromagnétiques.
 
 |
@@ -669,58 +885,6 @@ Formation de spécialité de 1er niveau technicien guerre électronique détecti
 |
 
 2
-
-|
-
-Formation de spécialité de 1er niveau technicien guerre linguiste.
-
-|
-
-3
-
-|
-
-2
-
-|
-
-Formation de spécialité de 2e niveau technicien guerre électronique linguiste.
-
-|
-
-4
-
-|
-
-2
-
-|
-
-Formation de spécialité de 2e niveau technicien guerre électronique détection et analyste des signaux magnétiques.
-
-|
-
-4
-
-|
-
-2
-
-|
-
-Formation de spécialité de 2e niveau technicien guerre électronique analyste.
-
-|
-
-|
-
-|
-
-Formation de spécialité de 2e niveau technicien guerre électronique décodeur.
-
-|
-
-|
 
 |
 
@@ -740,7 +904,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat technique du 1er degré chef d'agrès (BSPP).
+Certificat technique du 1er degré chef d'agrées (BSPP).
 
 |
 
@@ -784,11 +948,183 @@ Formation de spécialité de 2e chef de groupe spécialiste intervention subaqua
 
 |
 
-Unité de valeur 3 fonction à l'exercice des responsabilités.
+Unité de valeur 3 formation à l'exercice des responsabilités.
 
 |
 
+5
+
 |
+
+2
+
+|
+
+Chef d'unité sauveteur déblayeur (SDE 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef de section sauveteur déblayeur (SDE 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Sauveteur groupe de reconnaissance et d'intervention en milieu périlleux (IMP 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef d'unité groupe de reconnaissance et d'intervention en milieu périlleux (IMP 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Chef d'unité cynotechnique (CYN 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Conseiller technique cynotechnique (CYN 3).
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Formation surface non libre (SNL 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Monitorat surface non libre (SNL 3).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Brevet national de moniteur de premiers secours (BNMPS).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Brevet national d'instructeur de secourisme (BNIS).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Opérateur de transmissions (TRS 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef de salle (TRS 3).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Monitorat aux techniques d'engagement.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Instructorat incendie.
+
+|
+
+3
+
+|
+
+1
 
 |
 
@@ -916,7 +1252,7 @@ Formation de spécialité de 2e niveau emploi des réseaux mobiles.
 
 |
 
-Formation d'adaptation sous-officier opérateur SYRACUSE 2 (SYRSITS).
+Formation d'adaptation sous-officier opérateur Syracuse 2 (SYRSITS).
 
 |
 
@@ -1010,7 +1346,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation instrument RATING FENNEC au titre de la réorientation HL vers HM.
+Formation instrument RATING FENNEC au titre de la réorientation hélicoptères légers vers hélicoptères de manœuvre.
 
 |
 
@@ -1019,42 +1355,6 @@ Formation instrument RATING FENNEC au titre de la réorientation HL vers HM.
 |
 
 3
-
-|
-
-Formation de spécialité de 2e niveau chef de bord sur hélicoptère reconnaissance attaque.
-
-|
-
-5
-
-|
-
-3
-
-|
-
-Formation de spécialité de 2e niveau chef de bord sur hélico appui protection.
-
-|
-
-|
-
-|
-
-Formation de spécialité de 2e niveau chef de bord hélicoptère de manœuvre.
-
-|
-
-|
-
-|
-
-Formation de spécialité de 2e niveau chef de bord sur avion.
-
-|
-
-|
 
 |
 
@@ -1062,7 +1362,11 @@ Formation adaptation pilote hélicoptère Tigre.
 
 |
 
+5
+
 |
+
+3
 
 |
 
@@ -1098,18 +1402,6 @@ Formation qualifiée de type pilote sur hélicoptère EC 725.
 
 |
 
-Formation d'adaptation pilote hélicoptère NH90.
-
-|
-
-5
-
-|
-
-3
-
-|
-
 Formation de spécialité de 1er niveau brevet pilote avion à l'école pilote aviation (EPAG).
 
 |
@@ -1122,36 +1414,10 @@ Formation de spécialité de 1er niveau brevet pilote avion à l'école pilote a
 
 |
 
-h) Santé :
-
-INTITULÉ DE LA FORMATION
-
-|
-
-DURÉE DU LIEN AU SERVICE
-
-(années)
-
-|
-
-COEFFICIENT MULTIPLICATEUR
-
-|
-
-Formation de spécialité de 2e niveau diplôme d'état d'infirmier.
-
-|
-
-6
-
-|
-
-1
-
-|
-
 3. Formations des militaires du rang
 
+a) Divers :
+
 INTITULÉ DE LA FORMATION
 
 |
@@ -1166,19 +1432,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat de conducteur ambulancier.
-
-|
-
-3
-
-|
-
-2
-
-|
-
-Formation de spécialité de 1er niveau aide-soignant.
+Diplôme d'Etat d'ambulancier.
 
 |
 
@@ -1195,6 +1449,166 @@ Formation de qualification à la conduite de véhicule de transport de matières
 |
 
 2
+
+|
+
+1
+
+|
+
+Formation de spécialité de 1er niveau sécurité incendie domaine AER.
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Formation amenant à l'obtention d'un certificat technique du 1er degré réalisé en école.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+b) Prévention et gestion des risques :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Chef d'unité sauveteur déblayeur (SDE 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Sauveteur groupe de reconnaissance et d'intervention en milieu périlleux (IMP 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef d'unité cynotechnique (CYN 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+CTE SIS (spécialiste intervention subaquatique).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Brevet national de moniteur de premiers secours (BNMPS).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Brevet national d'instructeur de secourisme (BNIS).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Opérateur de transmissions (TRS 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Chef de salle (TRS 3).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Monitorat aux techniques d'engagement.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Instructorat incendie.
+
+|
+
+3
 
 |
 
