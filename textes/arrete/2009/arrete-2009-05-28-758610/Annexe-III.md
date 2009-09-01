@@ -1,0 +1,89 @@
+# Article Annexe III
+
+LISTE DES ÉQUIVALENCES ENTRE LES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL INDUSTRIES AGROALIMENTAIRES CRÉÉ PAR L'ARRÊTÉ DU 27 DÉCEMBRE 1993 ET CELLES DU BREVET PROFESSIONNEL OPTION INDUSTRIES ALIMENTAIRES TEL QU'IL RÉSULTE DU PRÉSENT ARRÊTÉ
+
+UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL
+
+option industries agroalimentaires
+
+(arrêté du 27 décembre 1993)
+
+|
+
+UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL
+
+option industries alimentaires
+
+|
+
+UC 1 et UC 2
+
+|
+
+UCP 5
+
+|
+
+UC 2 et UC 9
+
+|
+
+UCP 6
+
+|
+
+UC 2 et UC 3
+
+|
+
+UCT 1
+
+|
+
+UC 1 et UC 6
+
+|
+
+UCT 2
+
+|
+
+UC 4
+
+|
+
+UCP 4
+
+|
+
+UC 5, UC 7 et UCARE informatique
+
+|
+
+UCG 1
+
+|
+
+UC 7
+
+|
+
+UCP 3
+
+|
+
+UC 8 et UC 9
+
+|
+
+UCP 2
+
+|
+
+UCARE
+
+|
+
+UCARE sur expertise
+
+|
