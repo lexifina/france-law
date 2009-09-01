@@ -100,11 +100,23 @@ Secrétaire général
 
 |
 
-Rectorat de l'académie de Créteil
+Rectorat de l'académie de Caen
 
 |
 
 Adjoint au secrétaire général d'académie
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Créteil
+
+|
+
+Adjoint au secrétaire général d'académie, directeur des établissements et de la performance
 
 |
 
@@ -160,11 +172,35 @@ Secrétaire général
 
 |
 
+Rectorat de l'académie de Dijon
+
+|
+
+Adjoint au secrétaire général d'académie
+
+|
+
+1
+
+|
+
 Rectorat de l'académie de Grenoble
 
 |
 
 Adjoint au secrétaire général d'académie
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Grenoble
+
+|
+
+Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
@@ -200,9 +236,7 @@ Rectorat de l'académie de Lille
 
 |
 
-Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et des moyens en EPLE
-
-|
+Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative |
 
 1
 
@@ -316,6 +350,18 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
+Rectorat de l'académie de Nantes
+
+|
+
+Adjoint au secrétaire général d'académie, en charge des moyens, du pilotage et du contrôle de gestion
+
+|
+
+1
+
+|
+
 Académie de Nantes-Inspection académique de la Loire-Atlantique
 
 |
@@ -332,7 +378,7 @@ Rectorat de l'académie de Nice
 
 |
 
-Adjoint au secrétaire général d'académie
+Directeur des prospectives et du budget académique
 
 |
 
@@ -417,6 +463,18 @@ Rectorat de l'académie de Paris
 |
 
 Adjoint au secrétaire général d'académie, en charge du second degré
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Poitiers
+
+|
+
+Adjoint au secrétaire général d'académie
 
 |
 
@@ -513,6 +571,18 @@ Académie de Toulouse-Inspection académique de la Haute-Garonne
 |
 
 Secrétaire général
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Strasbourg
+
+|
+
+Adjoint au secrétaire général d'académie
 
 |
 

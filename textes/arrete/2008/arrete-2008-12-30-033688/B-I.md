@@ -72,6 +72,12 @@ Responsable de la division de l'organisation scolaire-A effet du 1er septembre 2
 
 |
 
+Rectorat de l'académie d'Aix-Marseille |
+
+Responsable de la division financière |
+
+1 |
+
 Académie d'Aix-Marseille-Inspection académique des Alpes-de-Haute-Provence
 
 |
@@ -131,6 +137,14 @@ Agent comptable-A effet du 1er septembre 2008
 2
 
 |
+
+Académie d'Aix-Marseille - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+2 |
 
 Rectorat de l'académie d'Amiens
 
@@ -215,6 +229,14 @@ Agent comptable-A effet du 1er septembre 2008
 2
 
 |
+
+Académie d'Amiens - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+3 |
 
 Rectorat de l'académie de Besançon
 
@@ -336,6 +358,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Besançon ― Etablissement public local d'enseignement ― Lycée
+
+|
+
+Agent comptable |
+
+1 |
+
 Rectorat de l'académie de Bordeaux
 
 |
@@ -454,17 +484,13 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Caen
+Académie de Bordeaux - Etablissement public local d'enseignement - Lycée
 
 |
 
-Adjoint au secrétaire général d'académie
+Agent comptable |
 
-|
-
-1
-
-|
+3 |
 
 Rectorat de l'académie de Caen
 
@@ -501,6 +527,14 @@ Responsable de la division des personnels enseignants-A effet du 1er septembre 2
 1
 
 |
+
+Rectorat de l'académie de Caen |
+
+Responsable de la division des affaires financières
+
+|
+
+1 |
 
 Académie de Caen-Inspection académique du Calvados
 
@@ -561,6 +595,12 @@ Agent comptable-A effet du 1er septembre 2008
 1
 
 |
+
+Académie de Caen - Etablissement public local d'enseignement - Lycée |
+
+Agent comptable |
+
+1 |
 
 Rectorat de l'académie de Clermont-Ferrand
 
@@ -670,6 +710,12 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Clermont-Ferrand - Etablissement public local d'enseignement - Lycée |
+
+Agent comptable |
+
+2 |
+
 Rectorat de l'académie de Corse
 
 |
@@ -707,6 +753,18 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines 
 |
 
 Adjoint au secrétaire général d'académie, chargé des fonctions de gestion des relations et ressources humaines à compter du 21 juin 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Corse
+
+|
+
+Chargé de mission
 
 |
 
@@ -766,7 +824,7 @@ Rectorat de l'académie de Créteil
 
 |
 
-Responsable de la division de l'organisation
+Chef de la division de l'accompagnement du pilotage des établissements
 
 |
 
@@ -778,13 +836,45 @@ Rectorat de l'académie de Créteil
 
 |
 
-Responsable de la division des affaires financières
+Adjoint au secrétaire général, directeur de l'organisation des services académiques
 
 |
 
 1
 
 |
+
+Rectorat de l'académie de Créteil |
+
+Responsable de la division de l'informatique
+
+|
+
+1 |
+
+Rectorat de l'académie de Créteil |
+
+Responsable de la division de la prospective
+
+|
+
+1 |
+
+Rectorat de l'académie de Créteil |
+
+Conseiller technique auprès du recteur de l'académie
+
+|
+
+1 |
+
+Rectorat de l'académie de Créteil |
+
+Chef de la division de l'administration et des personnels
+
+|
+
+1 |
 
 Académie de Créteil-Etablissement public local d'enseignement-Lycée
 
@@ -810,17 +900,13 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Dijon
+Académie de Créteil - Etablissement public local d'enseignement - Lycée
 
 |
 
-Adjoint au secrétaire général d'académie
+Agent comptable |
 
-|
-
-1
-
-|
+2 |
 
 Rectorat de l'académie de Dijon
 
@@ -857,6 +943,14 @@ Responsable de la division du budget académique, de la prospective et de la per
 1
 
 |
+
+Rectorat de l'académie de Dijon |
+
+Responsable de la division des examens et concours
+
+|
+
+1 |
 
 Académie de Dijon-Inspection académique de la Côte-d'Or
 
@@ -930,25 +1024,19 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Dijon - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+2 |
+
 Rectorat de l'académie de Grenoble
 
 |
 
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Grenoble
-
-|
-
-Directeur de cabinet du recteur de l'académie
-
-|
+Responsable de la division des personnels de l'administration |
 
 1
 
@@ -1050,6 +1138,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Grenoble - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+1 |
+
 Rectorat de l'académie de la Guadeloupe
 
 |
@@ -1098,6 +1194,12 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de la Guadeloupe - Etablissement public local d'enseignement - Lycée |
+
+Agent comptable |
+
+1 |
+
 Rectorat de l'académie de la Guyane
 
 |
@@ -1126,7 +1228,7 @@ Rectorat de l'académie de Lille
 
 |
 
-Adjoint au secrétaire général d'académie, chargé de la politique éducative
+Adjoint au secrétaire général d'académie, chargé des moyens, du suivi de la performance et du fonctionnement général des services académiques
 
 |
 
@@ -1206,6 +1308,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Lille - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+2 |
+
 Rectorat de l'académie de Limoges
 
 |
@@ -1229,6 +1339,12 @@ Responsable de la division des affaires financières
 1
 
 |
+
+Rectorat de l'académie de Limoges |
+
+Responsable de la division des personnels |
+
+1 |
 
 Académie de Limoges-Inspection académique de la Corrèze
 
@@ -1290,6 +1406,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Limoges - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+2 |
+
 Rectorat de l'académie de Lyon
 
 |
@@ -1325,6 +1449,12 @@ Responsable de la division de l'organisation scolaire-A effet du 1er septembre 2
 1
 
 |
+
+Rectorat de l'académie de Lyon |
+
+Responsable de la division des personnels enseignants |
+
+1 |
 
 Académie de Lyon-Inspection académique de l'Ain
 
@@ -1373,6 +1503,12 @@ Agent comptable-A effet du 1er septembre 2008
 2
 
 |
+
+Académie de Lyon - Etablissement public local d'enseignement - Lycée |
+
+Agent comptable |
+
+3 |
 
 Rectorat de l'académie de la Martinique
 
@@ -1530,6 +1666,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Montpellier - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+3 |
+
 Rectorat de l'académie de Nancy-Metz
 
 |
@@ -1626,23 +1770,17 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Nantes
+Académie de Nancy-Metz - Etablissement public local d'enseignement - Lycée |
 
-|
+Agent comptable |
 
-En charge de la gestion des moyens
-
-|
-
-1
-
-|
+3 |
 
 Rectorat de l'académie de Nantes
 
 |
 
-En charge des ressources logistiques
+Directeur des services rectoraux
 
 |
 
@@ -1673,6 +1811,14 @@ Responsable du contrôle administratif et financier des établissements d'enseig
 1
 
 |
+
+Rectorat de l'académie de Nantes |
+
+Responsable de la division des personnels enseignants
+
+|
+
+1 |
 
 Académie de Nantes-Inspection académique de Maine-et-loire
 
@@ -1746,6 +1892,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Nantes - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+2 |
+
 Rectorat de l'académie de Nice
 
 |
@@ -1806,6 +1960,14 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Nice - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable |
+
+3 |
+
 Rectorat de l'académie d'Orléans-Tours
 
 |
@@ -1841,6 +2003,14 @@ Adjoint au secrétaire général d'académie, directeur de l'administration et d
 1
 
 |
+
+Rectorat de l'académie d'Orléans-Tours |
+
+Responsable de la division de l'organisation scolaire
+
+|
+
+1 |
 
 Académie d'Orléans-Tours-Inspection académique du Cher
 
@@ -1938,6 +2108,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie d'Orléans-Tours - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+3
+
+|
+
 Rectorat de l'académie de Paris
 
 |
@@ -1962,11 +2144,47 @@ Responsable de la division des personnels enseignants-A effet du 1er septembre 2
 
 |
 
+Rectorat de l'académie de Paris
+
+|
+
+Responsable de la division de la coordination paie et des rémunérations spécifiques
+
+|
+
+1
+
+|
+
 Académie de Paris-Service interacadémique des examens et concours
 
 |
 
 Secrétaire général
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Paris - Service interacadémique des examens et concours
+
+|
+
+Responsable de la division du baccalauréat général et technologique
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Paris - Service interacadémique des examens et concours
+
+|
+
+Responsable de la division des concours
 
 |
 
@@ -1998,11 +2216,11 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Poitiers
+Académie de Paris - Etablissement public local d'enseignement - Lycée
 
 |
 
-Adjoint au secrétaire général d'académie
+Agent comptable
 
 |
 
@@ -2039,6 +2257,18 @@ Rectorat de l'académie de Poitiers
 |
 
 Responsable de la division des examens et concours-A effet du 1er septembre 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Poitiers
+
+|
+
+Responsable de la division de l'organisation des services
 
 |
 
@@ -2118,6 +2348,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Poitiers - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+2
+
+|
+
 Académie de Poitiers-Centre national d'enseignement à distance-Direction générale
 
 |
@@ -2142,13 +2384,17 @@ Directeur des ressources humaines-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Reims
+Rectorat de l'académie de Reims |
+
+Adjoint au secrétaire général d'académie |
+
+1
 
 |
 
-Adjoint au secrétaire général d'académie
+Rectorat de l'académie de Reims |
 
-|
+Adjoint au secrétaire général d'académie, directeur des ressources humaines |
 
 1
 
@@ -2158,7 +2404,7 @@ Rectorat de l'académie de Reims
 
 |
 
-Responsable de la division des personnels
+Adjoint au secrétaire général d'académie, chargé des moyens
 
 |
 
@@ -2238,6 +2484,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Reims - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+1
+
+|
+
 Rectorat de l'académie de Rennes
 
 |
@@ -2267,6 +2525,18 @@ Rectorat de l'académie de Rennes
 |
 
 Responsable de la division des examens et concours-A effet du 1er septembre 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Rennes
+
+|
+
+Responsable de la division des personnels enseignants
 
 |
 
@@ -2322,6 +2592,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Rennes - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+2
+
+|
+
 Rectorat de l'académie de la Réunion
 
 |
@@ -2351,6 +2633,18 @@ Rectorat de l'académie de la Réunion
 |
 
 Responsable de la division des personnels enseignants
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de La Réunion
+
+|
+
+Responsable de la division des structures et des moyens
 
 |
 
@@ -2411,6 +2705,18 @@ Rectorat de l'académie de Rouen
 |
 
 Responsable de la division des examens et concours-A effet du 1er septembre 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Rouen
+
+|
+
+Directeur de cabinet du recteur de l'académie
 
 |
 
@@ -2454,11 +2760,11 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Strasbourg
+Académie de Rouen - Etablissement public local d'enseignement - Lycée
 
 |
 
-Adjoint au secrétaire général d'académie
+Agent comptable
 
 |
 
@@ -2495,6 +2801,30 @@ Rectorat de l'académie de Strasbourg
 |
 
 Responsable de la division des examens et concours-A effet du 1er septembre 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Strasbourg
+
+|
+
+Responsable de la division des personnels d'administration et d'encadrement
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Strasbourg
+
+|
+
+Responsable de la division des affaires financières et des affaires générales
 
 |
 
@@ -2550,6 +2880,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Strasbourg - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+2
+
+|
+
 Rectorat de l'académie de Toulouse
 
 |
@@ -2579,6 +2921,18 @@ Rectorat de l'académie de Toulouse
 |
 
 Responsable de la division des examens et concours-A effet du 1er septembre 2008
+
+|
+
+1
+
+|
+
+Rectorat de l'académie de Toulouse
+
+|
+
+Responsable de la division des structures et des moyens
 
 |
 
@@ -2694,6 +3048,18 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
+Académie de Toulouse - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+1
+
+|
+
 Rectorat de l'académie de Versailles
 
 |
@@ -2722,7 +3088,7 @@ Rectorat de l'académie de Versailles
 
 |
 
-Responsable de la division des affectations des personnels enseignants
+Responsable de la division des affaires financières
 
 |
 
@@ -2763,6 +3129,18 @@ Agent comptable-A effet du 1er septembre 2008
 |
 
 2
+
+|
+
+Académie de Versailles - Etablissement public local d'enseignement - Lycée
+
+|
+
+Agent comptable
+
+|
+
+3
 
 |
 
@@ -2836,8 +3214,24 @@ Adjoint de sous-directeur et chargé de mission-A effet du 1er septembre 2008
 
 |
 
-Administration centrale du ministère chargé de l'éducation nationale-Poitiers. |
+Administration centrale du ministère chargé de l'éducation nationale-Poitiers.
 
-Chef du département de l'administration générale de l'Ecole supérieur de l'éducation nationale.A effet du 1er février 2009. |
+|
+
+Chef du département de l'administration générale de l'Ecole supérieur de l'éducation nationale.A effet du 1er février 2009.
+
+|
 
 1 |
+
+Administration centrale du ministère chargé de l'éducation nationale - Poitiers
+
+|
+
+Chef du département de la formation des personnels administratifs d'encadrement de l'Ecole supérieure de l'éducation nationale - A effet du 1er mai 2010
+
+|
+
+1
+
+|
