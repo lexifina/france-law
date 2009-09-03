@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709602
+
+- Question : [SEQ090709602](seq090709602.md) — Situation de l'Institut français d'études sur l'Asie centrale de Tachkent
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-09-03, page 2091*
+
+L'Institut français d'études sur l'Asie centrale est au coeur de notre dispositif de coopération en Ouzbékistan. Il est un instrument indispensable de notre diplomatie d'influence et contribue à l'ouverture du pays, en participant directement à la formation des élites et en favorisant l'émergence d'une recherche indépendante en sciences humaines. Il veille également à assurer ce double rôle à l'échelle de toute l'Asie centrale en développant ses antennes régionales. Au cours des dernières années, notre ambassade a continué à mobiliser à son profit 25 % de ses moyens financiers, pourtant en baisse. Dans le même temps, le CNRS a renforcé sa contribution. Un effort financier exceptionnel est, en outre, prévu afin de faire face aux problèmes de sécurité et d'accueil des chercheurs rencontrés par le bâtiment de l'IFEAC. D'ici la fin de l'année, une décision aura été prise sur la rénovation du bâtiment existant ou la relocalisation aux côtés du centre culturel français. À plus long terme, notre ambassade, le département et le CNRS réfléchissent avec l'IFEAC à l'élargissement de ses partenariats, notamment par sa participation à des appels d'offres internationaux et au développement de sa dimension européenne. La systématisation de l'accueil de chercheurs communautaires et des collaborations ponctuelles qui existent déjà avec des instituts notamment allemands ou espagnols pourraient permettre à l'IFEAC de se positionner comme tête de réseau de la recherche européenne en Asie centrale, renforçant ainsi la place de la recherche française et lui faisant bénéficier de cofinancements propres à assurer le développement de ses missions.
