@@ -10,23 +10,25 @@ I. - Poinçons et certificats d'épreuve des armes à feu ou engins assimilés �
 
 Art. 2. - Les armes ayant subi avec succès les épreuves sont revêtues des poinçons correspondants.
 
-Ces poinçons sont apposés sur les pièces essentielles, à savoir canons et systèmes de fermeture.
+Ces poinçons sont apposés sur les pièces essentielles sollicitées à l'occasion de l'épreuve et décrites dans le règlement de la commission internationale permanente en vigueur.
 
-Il sera, en outre, apposé un poinçon spécial sur les armes de fabrication étrangère.
+Art. 3. - Le banc d'épreuve établit un état de fac-similés d'empreintes de ses poinçons et l'adresse, pour homologation, en double exemplaire, au directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie. ¶
 
-Art. 3. - Le banc d'épreuve établit un état de fac-similés d'empreintes de ses poinçons et l'adresse, pour homologation, en double exemplaire, au directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie.
+¶
 
-Le banc d'épreuve conserve la propriété de ses poinçons, En conséquence, ces poinçons ne peuvent être ni délégués ni confiés à des personnes autres que les agents assermentés du banc d'épreuve.
+Le banc d'épreuve conserve la propriété de ses poinçons, En conséquence, ces poinçons ne peuvent être ni délégués ni confiés à des personnes autres que les agents assermentés du banc d'épreuve. ¶
+
+¶
 
 Les contrefaçons tombent sous le coup de l'application des dispositions du code pénal.
 
-Art. 4. - Après l'apposition des poinçons, il est délivré pour chaque arme un certificat d'épreuve, détaché ou non d'un registre à souches, comportant une numérotation continue.
+Art. 4. - Après l'apposition des poinçons, il est délivré pour chaque arme un certificat d'épreuve, provenant d'un registre muni d'une numérotation continue.
 
 Les certificats doivent être revêtus de la signature du directeur ou de son délégué et du cachet officiel du banc d'épreuve. Ils doivent préciser la nature de l'arme éprouvée, reproduire les fac-similés des poinçons d'épreuves apposés sur l'arme, ainsi que les indications notées lors de son identification.
 
 Pour les armes longues à canons lisses, les certificats doivent en outre mentionner la pression d'épreuve.
 
-Sur les souches, doivent figurer les mêmes indications que sur les certificats avec, en plus, la date de l'épreuve, le nom ou la raison sociale du demandeur de l'épreuve.
+Le banc d'épreuve doit conserver un registre comportant les indications mentionnées sur le certificat d'épreuve et complété par l'inscription de la date de l'épreuve, du nom ou de la raison sociale du demandeur de l'épreuve.
 
 Art. 5. - Pour certaines armes à feu et engins assimilés définis par la C.I.P., une épreuve d'homologation de type peut remplacer l'épreuve individuelle.
 
@@ -36,7 +38,7 @@ Art. 6. - Les armes et engins ayant subi avec succès les épreuves d'homologati
 
 Ces poinçons sont apposés sur les pièces constitutives essentielles et, s'il y a lieu, sur toutes les pièces intercalaires.
 
-Art. 7. - Le banc d'épreuve établit un état des fac-similés d'empreintes de ses poinçons et l'adresse pour homologation en double exemplaire, au directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie.
+Art. 7. - Le banc d'épreuve établit un état des fac-similés d'empreintes de ses poinçons et l'adresse pour homologation en double exemplaire, au chef du service industrie de la direction générale de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie.
 
 Le banc d'épreuve conserve la propriété exclusive de ses poinçons. En conséquence, ces poinçons ne peuvent être ni délégués ni confiés à des personnes autres que les agents assermentés du banc d'épreuve.
 
@@ -56,8 +58,6 @@ III. - Validité et renouvellement de l'homologation de type.
 
 Art. 9. - Toute modification des caractéristiques physiques ou dimensionnelles des pièces de l'arme ou de l'engin fabriqué en série oblige le constructeur à soumettre à nouveau l'arme ou l'engin, ainsi modifié, à l'épreuve d'homologation de type.
 
-Cependant seules les pièces revêtues du poinçon du banc d'épreuve lors de la précédente homologation de type sont à prendre en considération.
-
 Art. 10. - Si le banc d'épreuve constate qu'une modification a été effectuée à son insu par le fabricant, il retire l'homologation précédemment accordée. Cette décision est notifiée par lettre recommandée au bénéficiaire de l'homologation et portée à la connaissance des ministres intéressés.
 
 IV. - Epreuve d'homologation de type des munitions ainsi que leurs éléments constitutifs.
@@ -70,7 +70,7 @@ Ces certificats doivent être numérotés et comporter un double conservé dans 
 
 Art. 13. - Le banc d'épreuve peut effectuer des contrôles d'inspection pour vérifier que les munitions commercialisées sont conformes à la réglementation, ainsi que des contrôles d'inspection des laboratoires habilités.
 
-Si à la suite d'une inspection le banc d'épreuve constate que les munitions ne répondent plus aux conditions d'homologation de type, il annule par lettre recommandée le certificat correspondant et retire l'autorisation d'apposer le signe de contrôle, en tenant informé de cette décision la direction des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie.
+Si à la suite d'une inspection le banc d'épreuve constate que les munitions ne répondent plus aux conditions d'homologation de type, il annule par lettre recommandée le certificat correspondant et retire l'autorisation d'apposer le signe de contrôle, en tenant informé de cette décision la direction générale de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie.
 
 TITRE III : DU BANC D'ÉPREUVE DE SAINT-ETIENNE
 
@@ -130,9 +130,9 @@ Un membre titulaire et un membre suppléant proposés par la fédération franç
 
 Un membre titulaire et un membre suppléant proposé par la Fédération nationale des chasseurs ;
 
-Quatre personnalités qualifiées proposées par le chef du service des industries manufacturières au ministère chargé de l'industrie ou son représentant.
+Quatre personnalités qualifiées proposées par le chef du service industrie de la direction générale de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie ou son représentant.
 
-Le chef du service des industries manufacturières au ministère chargé de l'industrie ou son représentant.
+Le préfet de la région Rhône-Alpes ou son représentant.
 
 Les membres du comité technique sont nommés pour trois ans par le ministère chargé de l'industrie. Il peut être mis fin à tout moment à leurs fonctions selon la procédure prévue pour leur désignation.
 
@@ -140,7 +140,7 @@ Les membres du comité technique qui cessent d'exercer leurs fonctions ou qui pe
 
 Le président, membre du comité technique, est élu pour trois ans par les membres du comité à la majorité simple.
 
-Le comité se réunit sur la convocation de son président et au moins deux fois par an.
+Le comité se réunit sur la convocation de son président et au moins une fois par an.
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour sont portés au moins deux semaines à l'avance à la connaissance des membres du comité. Les rapports et projets de budget à examiner en comité sont joints à la convocation.
 
@@ -150,4 +150,4 @@ Le directeur du banc d'épreuve assiste aux réunions avec voix consultative. Il
 
 TITRE VI : DES TARIFS D'ÉPREUVE
 
-Art. 23. - Un tarif national obligatoire des différentes catégories d'épreuves sera fixé par arrêté du ministre de la recherche et de l'industrie, sur proposition de la chambre de commerce et d'industrie de Saint-Etienne chargée de la gestion du banc d'épreuve.
+Art. 23. - Les tarifs des différentes catégories d'épreuves seront fixés à l'occasion de la réunion du comité technique du banc d'épreuve de Saint-Etienne selon un vote à la majorité simple et sous le contrôle du représentant du ministre chargé de l'industrie.
