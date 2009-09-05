@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe I
 
 PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES 2101 (ÉLEVAGES DE BOVINS), 2111 (ÉLEVAGES DE VOLAILLES ET/OU DE GIBIER À PLUMES) ET 2102 (ÉLEVAGES DE PORCS) DE LA NOMENCLATURE
 
@@ -512,7 +512,7 @@ L'épandage des effluents d'élevage et des produits issus de leur traitement es
 
 - à moins de 200 mètres des lieux de baignade (à l'exception des piscines privées) et des plages ; le préfet peut, sur demande de l'exploitant, réduire cette distance jusqu'à 50 mètres pour l'épandage de composts élaborés conformément au 5.8.5 ;
 
-- à moins de 500 mètres en amont des piscicultures et des zones conchylicoles ; des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet ;
+A moins de 35 mètres en amont des piscicultures et à moins de 500 mètres des zones conchylicoles pour l'épandage des effluents et des produits issus de leur traitement, définis comme fertilisants de type I dans l'arrêté ministériel du 22 novembre 1993 relatif au code des bonnes pratiques agricoles, et à moins de 500 mètres en amont des piscicultures et des zones conchylicoles pour l'épandage des autres effluents et produits issus de leur traitement. Seules des dérogations à la distance de 500 mètres, liées à la topographie et à la circulation des eaux, peuvent être prévues par le préfet ;
 
 - à moins de 35 mètres des berges des cours d'eau ; cette limite est réduite à 10 mètres si une bande de 10 mètres enherbée ou boisée et ne recevant aucun intrant est implantée de façon permanente en bordure des cours d'eau ;
 
