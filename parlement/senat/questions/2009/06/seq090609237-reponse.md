@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609237
+
+- Question : [SEQ090609237](seq090609237.md) — Réglementation des convois exceptionnels
+
+## Réponse
+
+*Transports, JO du 2009-09-10, page 2169*
+
+La règle générale en France veut que les transports exceptionnels soient habituellement interdits sur autoroute et disposent d'itinéraires adaptés sur le réseau routier classique. Cette règle se justifie par l'importance des différences de vitesse et de gabarit sur autoroute entre les véhicules légers et les convois exceptionnels. Néanmoins, le préfet peut accorder des dérogations à cette règle, et des autorisations individuelles peuvent être délivrées pour circuler sur autoroute, après accord du gestionnaire autoroutier concerné. Ces dérogations sont fonction des caractéristiques des convois, qui sont classés en deux groupes. Les convois relevant du premier groupe sont ceux dont les dimensions sont les moins importantes, et qui peuvent circuler à une vitesse minimale d'au moins 50 km/h. L'obtention d'une dérogation pour que ce type de convoi puisse circuler sur autoroute est assez aisée. En revanche, pour les convois relevant du deuxième groupe, qui sont plus larges, plus hauts ou moins rapides, il ne peut être dérogé à l'interdiction de circulation sur autoroute qu'en l'absence d'itinéraire alternatif. Cependant, au vu du nombre de plus en plus important de convois exceptionnels circulant sur les routes françaises, et de la gêne occasionnée en milieu urbain, des réflexions sont actuellement menées par les services du ministère de l'écologie, de l'énergie, du développement durable et de la mer en charge des technologies vertes et des négociations sur le climat, afin d'apprécier l'opportunité d'une évolution de la règle générale selon laquelle la circulation des transports exceptionnels est interdite sur autoroute.
