@@ -13,3 +13,7 @@ Protection de la maternité
 Les dispositions relatives au congé maternité et à l'établissement sont conformes à la législation en vigueur : articles L. 122-25 et suivants du code du travail.
 
 Dans la mesure où l'état de santé de la femme en état de grossesse le requiert et après avis de la médecine du travail constatant la nécessité médicale du changement de poste et l'aptitude de la salariée à occuper le nouveau poste, cette dernière peut demander une affectation temporaire dans un nouveau poste (ou dans un autre établissement) correspondant à ses compétences.
+
+Le présent article est complété par l'avenant n° 32 du 10 juin 2009, figurant au chapitre IX de la convention collective.
+
+Il est également rappelé que l'article 8 de l'avenant n 23 du 9 novembre 2004 figurant au même chapitre assure la promotion de l'égalité hommes-femmes dans l'accès à la formation.
