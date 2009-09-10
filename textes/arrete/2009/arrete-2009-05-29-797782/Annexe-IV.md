@@ -18,9 +18,7 @@ Cette annexe comporte les appendices suivants :
 
 8. Appendice IV.8. - Prescriptions applicables à la mise sous pression de gaz des citernes équipées de couvercles amovibles (voir article 9.3).
 
-APPENDICE IV.1
-
-DISPOSITIONS RELATIVES AUX FLEXIBLES
+APPENDICE IV.1 : DISPOSITIONS RELATIVES AUX FLEXIBLES
 
 (Voir article 9.2)
 
@@ -194,11 +192,7 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 6.4. Tout utilisateur de flexible qui constate des détériorations ou usures anormales doit le signaler sans délai à la personne chargée des contrôles annuels.
 
-APPENDICE IV.2
-
-LISTE DE CONTRÔLE
-
-(Voir 5.3 de l'annexe I du présent arrêté)
+APPENDICE IV.2 : LISTE DE CONTRÔLE (Voir 5.3 de l'annexe I du présent arrêté)
 
 Vous pouvez consulter le tableau dans le JO
 
@@ -206,9 +200,7 @@ n° 147 du 27/06/2009 texte numéro 11
 
 (1) Ne remplir que s'il y a un agent avec une infraction. (2) A mentionner sous remarques pour les opérations de groupage de transports. (3) Contrôle des infractions apparentes.
 
-APPENDICE IV.3
-
-TABLEAU DE RAPPORT STATISTIQUE
+APPENDICE IV.3 : TABLEAU DE RAPPORT STATISTIQUE
 
 (Voir 5.7 de l'annexe I du présent arrêté)
 
@@ -216,15 +208,167 @@ MODÈLE DE FORMULAIRE NORMALISÉ POUR L'ÉLABORATION DU RAPPORT
 
 À ADRESSER À LA COMMISSION CONCERNANT LES INFRACTIONS ET LES SANCTIONS
 
-Vous pouvez consulter le tableau dans le JO
+Pays : ......................................................................... Année :...............................................................................
 
-n° 147 du 27/06/2009 texte numéro 11
+Contrôle des transports de marchandises dangereuses par route
 
-(1) Aux fins du présent appendice, le pays d'immatriculation est celui de l'immatriculation du véhicule à moteur. (2) Lorsqu'il y a plusieurs infractions par unité de transport, seule la catégorie des risques les plus graves doit être appliquée.
+|
 
-APPENDICE IV.4
+Lieu d'immatriculation des véhicules (1)
 
-PRESCRIPTIONS RELATIVES À LA CONSTRUCTION ET À L'UTILISATION DES MATÉRIELS DE TRANSPORT DE L'AMMONIAC EMPLOYÉS UNIQUEMENT EN AGRICULTURE
+|
+
+|
+
+Pays où a lieu le contrôle
+
+|
+
+Autre État membre de l'UE
+
+|
+
+Pays tiers
+
+|
+
+Nombre total
+
+|
+
+Nombre d'unités de transport contrôlées sur la base du contenu du chargement (et ADR°
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nombre d'unités de transport non conformes à l'ADR
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nombre d'unités de transport immobilisées
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nombre d'infractions relevées par catégorie de risques (2)
+
+|
+
+Catégorie de risques I
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Catégorie de risques II
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Catégorie de risques III
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nombre de sanctions infligées, par catégorie de sanction
+
+|
+
+Avertissement
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Amende
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres
+
+|
+
+|
+
+|
+
+|
+
+|
+
+QUANTITE TOTALE ESTIMEE DES MARCHANDISES DANGEREUSES TRANSPORTEES PAR ROUTE :
+
+|
+
+....................................t
+
+|
+
+Soit................................t.km
+
+|
+
+(1) Aux fins du présent appendice, le pays d'immatriculation est celui de l'immatriculation du véhicule à moteur.
+
+(2) Lorsqu'il y a plusieurs infractions par unité de transport, seule la catégorie des risques les plus graves doit être appliquée.
+
+APPENDICE IV.4 : PRESCRIPTIONS RELATIVES À LA CONSTRUCTION ET À L'UTILISATION DES MATÉRIELS DE TRANSPORT DE L'AMMONIAC EMPLOYÉS UNIQUEMENT EN AGRICULTURE
 
 (Voir 3.3 de l'annexe I du présent arrêté)
 
@@ -358,9 +502,7 @@ n° 147 du 27/06/2009 texte numéro 11
 
 3.9. Les fournisseurs d'ammoniac transmettent au préfet de région - DRIRE ou DREAL - la liste des exploitations agricoles destinataires des livraisons d'ammoniac.
 
-APPENDICE IV.5
-
-MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
+APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
 (Voir articles 10 et 11)
 
@@ -370,9 +512,7 @@ Ministère chargé des transports terrestres et maritime de matières dangereuse
 
 Transport des marchandises dangereuses
 
-CERTIFICAT D'AGRÉMENT
-
-DE TYPE D'EMBALLAGE N°
+CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
 1. Demandeur :
 
@@ -446,9 +586,7 @@ Ministère chargé des transports terrestres et maritime de matières dangereuse
 
 Transport des marchandises dangereuses
 
-CERTIFICAT D'AGRÉMENT
-
-DE TYPE D'EMBALLAGE COMBINÉ N°
+CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE COMBINÉ N°
 
 1. Demandeur : Site de conditionnement (le cas échéant) :
 
@@ -522,9 +660,7 @@ Ministère chargé des transports terrestres et maritime de matières dangereuse
 
 Transport des marchandises dangereuses de la classe 1
 
-CERTIFICAT D'AGRÉMENT
-
-DE TYPE D'EMBALLAGE N°
+CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
 1. Demandeur : Site de conditionnement (le cas échéant) :
 
@@ -582,7 +718,7 @@ Référence et indice du plan d'assurance de la qualité :
 
 Modèle de marquage à apposer (sous réserve du respect des dispositions réglementaires) :
 
-Délivré à [lieu de délivrance], le [date], pour une durée de cinq ans.
+Délivré à [lieu de délivrance], le [date].
 
 Le responsable du laboratoire agréé
 
@@ -592,9 +728,7 @@ Ministère chargé des transports terrestres et maritime de matières dangereuse
 
 Transport des marchandises dangereuses de la classe 6.2
 
-CERTIFICAT D'AGRÉMENT
-
-DE TYPE D'EMBALLAGE N°
+CERTIFICAT D'AGRÉMENT DE TYPE D'EMBALLAGE N°
 
 1. Demandeur :Site de conditionnement (le cas échéant) :
 
@@ -760,9 +894,7 @@ Valable jusqu'au [date du prochain contrôle à réaliser + trois mois].
 
 Le responsable de l'organisme agréé
 
-APPENDICE IV.6
-
-CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
+APPENDICE IV.6 : CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
 
 (Voir article 25.3)
 
@@ -800,9 +932,7 @@ Lorsque la tôle doublante a une forme rectangulaire ou oblongue et que le rappo
 
 3. Lorsque des défauts sont observés, le métal est meulé jusqu'à disparition complète de ceux-ci et un nouveau contrôle magnétoscopique est réalisé. Toute diminution de l'épaisseur du corps de la citerne en deçà de l'épaisseur de calcul est considérée comme inacceptable.
 
-APPENDICE IV.7
-
-VISITES TECHNIQUES DES VÉHICULES
+APPENDICE IV.7 : VISITES TECHNIQUES DES VÉHICULES
 
 (Voir article 14)
 
@@ -868,13 +998,419 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 
 lors des visites techniques initiales effectuées en application de l'article 14 et méthode d'examen
 
-Vous pouvez consulter le tableau dans le JO
+Ensemble
 
-n° 147 du 27/06/2009 texte numéro 11
+|
 
-APPENDICE IV.8
+Point examiné
 
-PRESCRIPTIONS APPLICABLES À LA MISE SOUS PRESSION DE GAZ DES CITERNES ÉQUIPÉES DE COUVERCLES AMOVIBLES
+|
+
+Type de défaut
+
+|
+
+Méthode d'examen
+
+Moyens mis en œuvre
+
+|
+
+Référence ADR, arrêté TMD et autres textes
+
+|
+
+1. Identification
+
+|
+
+1.1. Notice(s) descriptive(s), certificat(s) de conformité, ou procès verbal de RTI et justificatifs de conformité
+
+|
+
+État, présence et conformité
+
+|
+
+Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme)
+
+|
+
+9.1.2.2
+
+6.8.2.3
+
+|
+
+2. Équipements de sécurité
+
+|
+
+2.1. Freinage
+
+|
+
+Présence et conformité
+
+|
+
+Contrôle des documents permettant d'établir la conformité aux règlements et directives applicables. Vérification de la concordance avec la chaîne cinématique du véhicule
+
+|
+
+9.2.3
+
+|
+
+3. Équipement électrique
+
+|
+
+3.1. Installations électriques
+
+|
+
+État, présence et conformité
+
+|
+
+Examen visuel
+
+|
+
+9.2.2
+
+|
+
+3.2. Batteries
+
+|
+
+État, fixation, présence et conformité
+
+|
+
+Examen visuel.
+
+|
+
+3.3. Coffre à batteries
+
+|
+
+3.4. Canalisations (gaines et câbles)
+
+|
+
+3.5. Barrière de sécurité
+
+|
+
+Contrôle du marquage de l'appareil pour utilisation en atmosphère
+
+|
+
+3.6. Chronotachygraphe
+
+|
+
+Présence et conformité
+
+|
+
+|
+
+4. Commandes de sécurité intérieures
+
+|
+
+4.1. Commande d'ouverture du coupe-batterie
+
+|
+
+État, fonctionnement, fixation, présence et conformité
+
+|
+
+Mise en action. Examen visuel
+
+|
+
+9.2.2.3
+
+|
+
+5. Commandes de sécurité extérieures
+
+|
+
+5.1. Dispositif d'ouverture du coupe-batterie
+
+|
+
+État, fonctionnement, fixation, présence et conformité
+
+|
+
+Mise en action. Examen visuel
+
+|
+
+9.2.2.3.2
+
+si présence
+
+|
+
+6. Prévention des risques d'incendie
+
+|
+
+6.1. Cabine
+
+|
+
+Présence et conformité
+
+|
+
+Examen visuel
+
+|
+
+9.2.4.2
+
+|
+
+6.2. Réservoir
+
+|
+
+9.2.4.3
+
+|
+
+6.3. Chauffage autonome cabine
+
+|
+
+Contrôle de l'attestation de montage
+
+|
+
+9.2.4.7
+
+|
+
+6.4. Ralentisseur
+
+|
+
+|
+
+9.2.4.6
+
+|
+
+6.5. Échappement
+
+|
+
+Examen visuel et, le cas échéant, en visite initiale, contrôle des attestations
+
+|
+
+9.2.4.5
+
+|
+
+6.6. Moteur (y compris aux Haire)
+
+|
+
+9.2.4.4
+
+|
+
+7. Citernes
+
+|
+
+7.1. Attestation de contrôle initial, intermédiaire ou périodique
+
+|
+
+Présence et conformité
+
+|
+
+Concordance de la citerne avec les documents fournis. Vérification de leur validité.
+
+|
+
+6.8.2.4.5
+
+|
+
+7.2. Plan de chargement
+
+|
+
+Présence et conformité
+
+|
+
+|
+
+7.3. Marquage
+
+|
+
+État, fixation, présence et conformité
+
+|
+
+Examen visuel
+
+|
+
+6.8.2.5
+
+6.8.3.5
+
+|
+
+7.4. Partie extérieure de l'enveloppe
+
+|
+
+État, présence et conformité
+
+|
+
+|
+
+7.5. Isolation thermique
+
+|
+
+6.8.2.2
+
+6.8.3.2
+
+|
+
+7.6. Équipements de service
+
+|
+
+7.7. Équipements COV
+
+|
+
+AM 19/12/1995
+
+|
+
+7.8. Protections supérieures
+
+|
+
+6.8.2.1.28
+
+|
+
+7.9. Protection latérale
+
+|
+
+|
+
+7.10. Protection arrière
+
+|
+
+9.7.6
+
+|
+
+7.11. Liaison équipotentielle
+
+|
+
+6.8.2.1.27
+
+|
+
+7.12. Fixations
+
+|
+
+|
+
+7.13. Flexibles
+
+|
+
+Contrôle de la fiche de suivi, du procès verbal d'épreuve hydraulique et, le cas échéant, du procès verbal d'épreuve d'étanchéité
+
+|
+
+Appendice IV. 1
+
+|
+
+8. Explosifs
+
+|
+
+8.1. Caisse
+
+|
+
+État, fixation, présence et conformité
+
+|
+
+Examen visuel
+
+|
+
+9.3.1
+
+9.3.3
+
+9.3.4
+
+|
+
+8.2. Porte
+
+|
+
+État, présence et conformité
+
+|
+
+9.3.3
+
+9.3.4
+
+|
+
+8.3. Éclairage intérieur
+
+|
+
+État, fonctionnement, présence et conformité
+
+|
+
+9.3.7
+
+|
+
+APPENDICE IV.8 : PRESCRIPTIONS APPLICABLES À LA MISE SOUS PRESSION DE GAZ DES CITERNES ÉQUIPÉES DE COUVERCLES AMOVIBLES
 
 (Voir article 9.3)
 
