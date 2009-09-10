@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090308122
+
+- Question : [SEQ090308122](seq090308122.md) — Modalités d'application de la loi n° 2008-790 du 20 août 2008 instituant un droit d'accueil pour les élèves des écoles maternelles et élémentaires
+
+## Réponse
+
+*Intérieur, JO du 2009-09-10, page 2162*
+
+Dans le cadre de l'organisation du service minimum d'accueil dans les écoles institué par la loi n° 2008-790 du 20 août 2008, le maire est chargé d'établir la liste des personnes susceptibles d'intervenir pour assurer ce service d'accueil. Le dispositif législatif permet en effet au maire de faire appel à des personnes extérieures afin de pallier, notamment dans les petites communes rurales, le manque de personnel municipal disponible pour assurer ce service, à condition que celles-ci possèdent les qualités nécessaires pour assurer cette mission d'accueil et d'encadrement des enfants et, qu'elles ne figurent pas dans le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes (article L. 133-7 du code de l'éducation). Ces personnes peuvent être recrutées en qualité de vacataire. Cette formulation est souple dans la mesure où elle permet un paiement à la vacation comme les autres vacataires engagés par les collectivités territoriales. Pour ce faire, une délibération portant création d'emploi n'est pas requise, le code général des collectivités territoriales prévoyant à l'article D. 1617-19 que doit être obligatoirement produit au comptable un acte d'engagement mentionnant la référence à la délibération préalable du conseil municipal autorisant l'engagement de vacataires. La rémunération est le plus souvent un forfait pour la journée ou horaire, mais elle peut également être définie en fonction de la grille de rémunération de la fonction publique territoriale. Les personnes recrutées via un contrat public sont des agents publics pour la période durant laquelle ils participent au service public administratif.
