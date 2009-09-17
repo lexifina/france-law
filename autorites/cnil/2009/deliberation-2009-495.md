@@ -1,0 +1,139 @@
+# Délibération n° 2009-495 du 17 septembre 2009 portant avis sur le projet d’arrêté modifiant l’arrêté du 22 août 2001 portant création d’un traitement informatisé d’informations nominatives relatif à la délivrance des visas dans les postes diplomatiques et consulaires
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2009-495
+- Date : 2009-09-17
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000021658473
+
+(Demande d’avis n° 106188)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie conjointement par le ministère des affaires étrangères et européennes et par le ministère de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire, d’une demande d’avis portant sur le projet d’arrêté modifiant l’arrêté du 22 août 2001 portant création d’un traitement informatisé d’informations nominatives relatif à la délivrance des visas dans les postes diplomatiques et consulaires ;
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu le traité instituant la Communauté européenne, notamment son article 62, ensemble la convention du 19 juin 1990 d’application de l’accord signé à Schengen le 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le règlement (CE) n° 1683/95 modifié du Conseil du 29 mai 1995 établissant un modèle type de visa ;
+
+Vu le règlement (CE) n° 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les Etats membres sur les visas de court séjour (règlement VIS) ;
+
+Vu le règlement (CE) n° 390/2009 du Parlement européen et du Conseil du 23 avril 2009 modifiant les instructions consulaires communes concernant les visas adressées aux représentations diplomatiques et consulaires de carrière, en liaison avec l’introduction d’identifiants biométriques et de dispositions relatives à l’organisation de la réception et du traitement des demandes de visa ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, et notamment son article 26 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 ;
+
+Vu le décret n° 2007-1560 du 2 novembre 2007 portant création d’un traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d’un visa pris pour l’application de l’article L. 611-6 du code de l’entrée et du séjour des étrangers et du droit d’asile et modifiant la partie réglementaire de ce code ;
+
+Vu le décret n° 2009-477 du 27 avril 2009 relatif à certaines catégories de visas pour un séjour en France d’une durée supérieure à trois mois ;
+
+Vu l’arrêté du 22 août 2001 modifié portant création d’un traitement informatisé d’informations nominatives relatif à la délivrance des visas dans les postes diplomatiques et consulaires ;
+
+Après avoir entendu M. Sébastien HUYGHE, commissaire, en son rapport, et Mme Elisabeth ROLIN, commissaire du gouvernement, en ses observations ;
+
+Emet l’avis suivant :
+
+La Commission a été saisie conjointement par le ministère des affaires étrangères et européennes et le ministère de l’immigration, de l’intégration, de l’identité nationale et du développement solidaire, d’une demande d’avis relative à un projet d’arrêté modifiant l’arrêté du 22 août 2001 portant création d’un traitement informatisé d’informations nominatives relatif à la délivrance des visas dans les postes diplomatiques et consulaires, sur le fondement du I de l’article 26 de la loi du 6 janvier 1978 modifiée par la loi du 6 août 2004.
+
+L’arrêté du 22 août 2001 a autorisé la création du traitement dénommé Réseau Mondial Visa 2 (RMV 2), dont la finalité est de permettre l’instruction des demandes de visa par les consulats et les sections consulaires d’ambassade, en procédant notamment à des échanges d’informations avec le ministère de l’intérieur et les instances nationales des Etats Schengen. Le traitement RMV 2 est composé d’un ensemble de sous-fichiers (et notamment le fichier des demandes, délivrances et refus de visa, les fichiers d’attention, le fichier des répondants signalés, etc.) dans lesquels sont enregistrées les données à caractère personnel des demandeurs de visa provenant principalement des documents fournis lors du dépôt de leur dossier de demande, et qui sont ensuite complétées au cours de l’instruction de la demande.
+
+Aux termes de l’article 5 de l’arrêté du 22 août 2001, les destinataires de ces informations sont, dans la limite de leurs attributions, les personnels du ministère des affaires étrangères compétents en matière de délivrance des visas (personnels des consulats et ambassades, et de l’administration centrale), du ministère de l’intérieur (direction des libertés publiques et des affaires juridiques et services de la police aux frontières) du ministère de la défense (direction générale de la sécurité extérieure) et les autorités centrales des Etats Schengen.
+
+Dans ce cadre, le projet d’arrêté modificatif soumis à la Commission vise à régulariser les modifications intervenues ces dernières années dans le fonctionnement du traitement RMV 2 et dans la gestion administrative de la politique française des visas d’une part, et à permettre la bonne application des obligations européennes en la matière, en vigueur ou à venir, d’autre part.
+
+La Commission observe à cet égard que la délivrance des visas de court séjour, qui représentent actuellement une part majoritaire des visas délivrés par les autorités françaises, relève de la pleine compétence communautaire. Dès lors, les mesures prises par ces autorités doivent être pleinement compatibles avec le droit communautaire en vigueur en ce domaine, et en particulier avec les règlements du 9 juillet 2008 relatif au système d’information sur les visas (VIS) et du 23 avril 2009 modifiant les instructions consulaires communes (ICC).
+
+Sur la modification des responsables et des finalités du traitement
+
+Dans la mesure où le ministère chargé de l’immigration et le ministère des affaires étrangères déterminent conjointement la finalité et les moyens du traitement, s’agissant en particulier de ses modalités d’alimentation et de consultation, la Commission prend acte de ce que le traitement RMV 2 relèvera désormais de ces deux ministères.
+
+Compte tenu de l’augmentation des recours se rapportant aux décisions relatives aux visas, elle prend également acte de la modification de l’article 1er de l’arrêté du 22 août 2001 visant à ajouter aux finalités du traitement RMV 2 la facilitation du suivi et du traitement des recours administratifs et contentieux se rapportant aux visas. A cet égard, elle relève que les ministères concernés prévoient de supprimer le fichier de suivi du contentieux mentionné à l’article 2 de l’arrêté du 22 août 2001.
+
+En outre, la Commission observe que la rédaction de la finalité principale du traitement, l’instruction des demandes de visa, est légèrement modifiée afin de prévoir le versement dans le système VIS d’une copie des données alphanumériques se rapportant aux visas pour un séjour d’une durée inférieure à trois mois délivrés par les autorités françaises. Elle relève que si cette fonctionnalité est explicitement prévue par le règlement communautaire n° 767/2008 du 9 juillet 2008 et ne nécessite donc pas de transposition particulière, cette nouvelle rédaction est de nature à favoriser une meilleure intelligibilité du droit national.
+
+Dès lors, elle estime que cette modification, qui vise à anticiper la prochaine mise en œuvre du VIS au niveau européen, devrait également être prévue dans le cadre du traitement VISABIO, à l’article R. 611-8 du code de l’entrée et du séjour des étrangers et du droit d’asile, dans la mesure où les données biométriques des demandeurs de visa de court séjour qui y sont enregistrées seront également transférées dans le VIS. De même, la Commission considère que l’interrogation systématique du VIS par le traitement RMV 2 lors d’une demande de visa devrait également être mentionnée à l’article 2 de l’arrêté du 22 août 2001 modifié, comme c’est le cas de l’interrogation systématique du fichier d’opposition du système d’information Schengen.
+
+Sur les données enregistrées
+
+La Commission prend acte de la suppression du fichier des demandes de carte de commerçant, qui vise à tirer les conséquences de l’abrogation des dispositions imposant ce type de carte.
+
+Elle prend également acte de ce qu’il est envisagé de créer un nouveau fichier d’authentification des actes d’état civil, qui permettra de faciliter la détection des tentatives d’usurpation d’identité ou de falsification des documents. A cet égard, elle demande à ce que l’article 2 de l’arrêté du 22 août 2001 soit modifié et prévoie expressément la mise en œuvre dudit fichier.
+
+Elle observe que la nouvelle annexe à l’arrêté du 22 août 2001 modifié prévoit l’enregistrement de données relatives au suivi du retour. Les ministères concernés ont indiqué que cette fonctionnalité était introduite à titre indicatif et n’était pas encore développée. La Commission relève que ces données peuvent bénéficier aux demandeurs, en facilitant notamment la délivrance de visas ultérieurs pour les voyageurs de bonne foi. Elle estime dès lors que ces données ne devraient être enregistrées dans le traitement que dans la mesure où des dispositions législatives ou réglementaires encadrent cette fonctionnalité, et notamment en prévoyant la faculté de demander aux titulaires de visa de se présenter à leur retour dans leur pays de résidence.
+
+En ce qui concerne la photographie des demandeurs de visa, qui est déjà enregistrée dans le traitement VISABIO, celui-ci prenant en charge sa transmission vers le VIS, la Commission prend acte de ce qu’une image réduite de cette photographie sera cependant conservée dans le traitement RMV 2 durant l’instruction de la demande de visa, notamment aux fins d’édition de la vignette visa, et sera ensuite effacée dudit traitement sans délai.
+
+Enfin, la Commission prend acte de ce que les indicateurs d’inscription au SIS et au FPR figurant dans l’annexe à l’arrêté du 22 août 2001 modifié, ne mentionnent pas les motifs d’inscription auxdits fichiers, et que le traitement RMV 2 ne conserve que l’avis relatif à la demande de visa (accord ou refus).
+
+Sur le recours à des prestataires extérieurs pour collecter les données enregistrées dans le traitement RMV 2
+
+Le projet d’arrêté modificatif prévoit de permettre la collecte des données à caractère personnel enregistrées dans le fichier des demandes, délivrances et refus de visa, « par des prestataires agréés par les autorités chargées de la délivrance des visas et sous la responsabilité de ces dernières », dont les personnels font l’objet d’une habilitation spéciale par ces mêmes autorités.
+
+A titre liminaire, la Commission relève que les ministères concernés envisagent également de permettre, à titre expérimental, le recours à des prestataires extérieurs pour la collecte des données biométriques des demandeurs de visa enregistrées dans le traitement VISABIO, créé par le décret du 2 novembre 2007 susvisé. Elle a ainsi été saisie pour avis d’un projet de décret en Conseil d’Etat modifiant la partie réglementaire du code de l’entrée et du séjour des étrangers et du droit d’asile afin de permettre cette externalisation.
+
+La Commission observe en outre que l’externalisation de la collecte des données alphanumériques des demandeurs de visa est déjà pratiquée dans de nombreuses circonscriptions consulaires françaises à l’étranger. Elle regrette à cet égard de n’avoir pu se prononcer sur cette modalité de collecte préalablement à sa mise en œuvre.
+
+Au-delà de la question de savoir si l’activité de collecte des données personnelles des demandeurs de visa relève ou non de l’exercice d’une prérogative exclusive de puissance publique qui ne peut être déléguée, la Commission considère que l’intervention d’un prestataire extérieur dans le processus de collecte des données induit un risque de compromission de l’intégrité du processus de délivrance des visas. Il s’agit notamment du niveau de fiabilité et de sécurité de ce processus, ainsi que des garanties entourant la protection des données personnelles relatives aux demandeurs de visa. La Commission relève à cet égard que des garanties d’ordre contractuel risquent d’être insuffisantes s’agissant de prestataires étrangers relevant de la souveraineté de leur Etat d’implantation. Or, il convient de relever que le gouvernement a précisément considéré comme essentiel le renforcement du niveau de sécurité du processus de délivrance des visas, en y introduisant des identifiants biométriques.
+
+La Commission exprime donc des réserves sur le principe du recours à des prestataires extérieurs pour collecter les données à caractère personnel des demandeurs de visa. Alors même que l’externalisation de la collecte des données enregistrées dans le RMV 2 est déjà largement pratiquée, la Commission relève en effet qu’elle ne dispose pas d’une évaluation précise de l’efficacité des mesures prises pour assurer le contrôle de l’activité des prestataires et garantir la confidentialité des données traitées.
+
+Dès lors, elle estime qu’il conviendrait que soient effectués, à intervalles réguliers, des audits internes, qui devraient donner lieu à un bilan communiqué à la CNIL. La Commission demande donc à ce que le projet d’arrêté soit modifié afin de prévoir explicitement de telles évaluations. Celles-ci devraient notamment porter sur la protection des données à caractère personnel des demandeurs de visas, et pourraient par exemple contenir un bilan des contrôles effectués, de leur fréquence et de leurs résultats, ainsi que des éventuels dysfonctionnements rencontrés. Elle s’interroge néanmoins sur le risque que de tels contrôles se heurtent à des textes ou des jurisprudences relevant de la souveraineté des Etats en cause.
+
+Une telle évaluation permettrait en effet de vérifier que ces pratiques d’externalisation sont accompagnées de garanties particulières, de nature à assurer un haut niveau de sécurité. A cet égard, la Commission relève en premier lieu que l’externalisation des données alphanumériques des demandeurs de visa est soumise aux mêmes obligations communautaires que celles qui prévalent en matière de collecte des données biométriques. Ainsi, aux termes du règlement du 23 avril 2009, la possibilité de recourir à des prestataires agréés constitue une solution de dernier ressort, mise en œuvre « dans des circonstances particulières ou pour des raisons liées à la situation locale » et lorsque les formes de coopération entre Etats membres s’avèrent inappropriées.
+
+C’est pourquoi, et sans méconnaître les difficultés évoquées par les ministères concernés, la Commission estime que des modalités alternatives de collecte des données, et notamment la création de centres communs avec des Etats membres de l’UE de traitement des demandes de visa, devraient également être expérimentées.
+
+En outre, elle rappelle que ledit règlement prévoit explicitement que le prestataire de service extérieur doit appliquer « des normes de protection des données au moins équivalentes à celles qui figurent dans la directive 95/46/CE ». Elle relève à cet égard que les modèles d’agrément et de cahier des charges que s’engagent à respecter les prestataires de service ont été modifiés à sa demande, afin d’être pleinement conformes aux dispositions de l’annexe 19 des instructions consulaires communes. La Commission prend en outre acte de ce que ce cahier des charges contient de nombreuses mesures relatives au contrôle des prestataires agréés, qui semblent de nature à assurer une surveillance effective par les autorités consulaires des activités de ceux-ci. Elle demande cependant à ce que ce cahier des charges soit complété afin de comporter le détail des mesures de sécurité et de contrôle prévues par les ministères concernés.
+
+La Commission considère en outre que les sécurités techniques prévues par les ministères concernés, et notamment les mesures envisagées pour contrôler l’accès et l’utilisation des postes VISANET par les personnels du prestataire agréé, les mesures de sécurisation des transmissions de données entre les prestataires et le serveur central hébergé au ministère des affaires étrangères, ainsi que les mesures de sécurité et de confidentialité appliquées au serveur central VISANET, sont satisfaisantes.
+
+La Commission relève cependant que la confidentialité des échanges entre le poste client et le serveur central VISANET du ministère des affaires étrangères est assurée par l’utilisation du protocole SSL, mécanisme cryptographique qui permet le chiffrement et le contrôle de l’intégrité des communications. A cet égard, elle prend acte de l’engagement des ministères concernés à ne pas permettre l’utilisation de l’application VISANET dans les pays où l’usage du chiffrement des transmissions est interdit.
+
+La Commission observe également que le ministère des affaires étrangères n’envisage plus la détention obligatoire d’un certificat numérique pour accéder à l’application VISANET. Elle estime que l’accès à cette application devrait être exclusivement réservé à des postes informatiques spécialement habilités à procéder à la saisie des données de demande de visa. Elle demande donc à ce que la nécessité, pour les postes informatiques des prestataires agréés, de disposer d’un certificat pour accéder à l’application VISANET, soit rétablie par les ministères concernés.
+
+Sur les durées de conservation des données
+
+La Commission prend acte de l’insertion d’un nouvel article 4-1 à l’arrêté du 22 août 2001 modifié, qui établit la durée de conservation des données enregistrées au fichier des demandes, délivrances et refus de visa, au fichier central d’attention, au fichier consulaire d’attention, au fichier des répondants signalés et au fichier des interventions.
+
+Ainsi, les données enregistrées au fichier des demandes, délivrances et refus de visa seront conservées pendant une période maximale de cinq ans à compter de la date d’expiration du visa lorsque celui-ci est délivré, de la date de création du dossier lorsque la demande de visa est retirée ou interrompue, et de la date de décision lorsque le visa est refusé ou retiré, conformément aux dispositions du règlement VIS applicable aux visas de court séjour. La Commission prend acte de ce que la même durée de conservation est prévue pour les données enregistrées aux fichiers précités.
+
+Sur les nouveaux destinataires du traitement et leurs conditions d’accès
+
+La Commission prend acte de ce que les agents de la direction de l’immigration du ministère chargé de l’immigration sont ajoutés à la liste des destinataires des données enregistrées dans le RMV 2, afin de prendre pleinement en compte les attributions dudit ministère.
+
+Elle prend également acte de l’ajout des agents des préfectures et des représentations de l’Etat outre-mer, aux fins de traitement des demandes de visa à destination des départements, collectivités et territoires d’outre-mer, ou à destination de l’espace Schengen pour les demandes déposées outre-mer. L’accès de ces agents sera limité aux seules données du traitement RMV 2 relatives aux personnes dont ils instruisent les demandes de visa, et il leur permettra uniquement de créer une demande de visa, de la renseigner et d’accéder à l’historique des demandes présentées par la même personne. La connexion au RMV 2 central aura lieu par l’intermédiaire du réseau du ministère de l’intérieur et inter-administrations SETI (ADER).
+
+Les ministères concernés prévoient également de permettre l’accès au traitement RMV 2 des directions géographiques du ministère des affaires étrangères, qui sont en pratique déjà consultées par les autorités en charge de la délivrance des visas afin de donner leur avis sur des dossiers sensibles. Dans la mesure où cet accès sera réalisé via le réseau privé du ministère des affaires étrangères, la Commission prend acte de ces nouveaux destinataires du traitement, dont l’accès sera limité à des cas particuliers, mais demande à ce qu’il soit confirmé que les agents de ces directions ne pourront accéder qu’aux données du RMV 2 relatives aux personnes sur lesquelles elles sont expressément consultées par les autorités en charge de la délivrance des visas.
+
+La Commission prend également acte de ce qu’il est envisagé de permettre l’accès au traitement pour les agents de la direction centrale du renseignement intérieur (ministère de l’intérieur), tout comme avait été autorisé l’accès des agents de la direction générale de la sécurité extérieure du ministère de la défense, par l’arrêté du 3 juin 2003 pris après avis favorable de la CNIL. Elle relève qu’aucune possibilité de modification ou de mise à jour de la base ne sera ouverte à ces agents, et que cet accès ne conduira pas à exploiter les données enregistrées dans RMV 2 par un traitement spécifique ou associé aux propres fichiers informatiques de la direction centrale du renseignement intérieur.
+
+En ce qui concerne l’accès au traitement des agents de la commission de recours contre les décisions de refus de visa d’entrée en France, aux fins de décision relative aux recours déposés par les étrangers, la Commission relève que celui-ci aura lieu via le réseau sécurisé du système central RMV 2. Elle prend donc acte de ces nouveaux destinataires, qui n’auront accès qu’aux seules données relatives aux personnes dont ils ont à instruire les recours.
+
+Elle prend également acte de ce que les agents de la direction générale des douanes et des droits indirects auront accès aux données du traitement RMV 2, aux fins de réalisation de leurs missions de contrôles aux frontières. La connexion au RMV 2 central aura lieu par l’intermédiaire du réseau du ministère de l’intérieur et inter-administrations SETI (ADER).
+
+Enfin, la Commission prend acte de ce que les agents de l’office français de l’immigration et de l’intégration pourront accéder aux données enregistrées dans le traitement, aux fins de validation de la présence en France des titulaires d’un visa long séjour, qui dispense les étrangers concernés de l’obligation de détenir une carte de séjour temporaire, conformément aux dispositions du décret n° 2009-477 du 27 avril 2009. Cet accès aura lieu via un intranet sécurisé et ne leur permettra que de disposer d’un nombre limité d’informations.
+
+La Commission relève que l’ensemble de ces destinataires font l’objet d’une désignation individuelle et d’une habilitation spéciale par leur supérieur hiérarchique, expressément prévue par l’arrêté du 22 août 2001 modifié.
+
+Sur les droits des personnes concernées
+
+La Commission prend acte de ce que le droit d’accès prévu à l’article 39 de la loi du 6 janvier 1978 modifiée peut désormais s’exercer non seulement auprès du consulat ou de l’ambassade où la demande a été déposée, mais également auprès de la préfecture ou de la représentation de l’Etat si la demande de visa y a été déposée, ainsi qu’auprès de la sous-direction des visas du ministère de l’immigration.
+
+Elle prend également acte de ce qu’un nouvel article 7-1 de l’arrêté du 22 août 2001 modifié prévoit que le droit d’opposition prévu à l’article 38 de la loi précitée ne s’applique pas au traitement RMV 2.
+
+La Commission relève cependant que le droit de rectification des données prévu à l’article 40 de la loi du 6 janvier 1978 modifiée n’est pas mentionné dans l’arrêté du 22 août 2001, et demande donc à ce que le projet d’arrêté modificatif prévoie expressément l’ajout de cette mention.
+
+Elle appelle en outre l’attention des ministères concernés sur la nécessité d’informer par écrit les personnes qui ont exercé leur droit de rectification et obtenu la modification ou l’effacement des données erronées ou enregistrées de façon illicite qui les concernent, conformément aux dispositions de l’article 38 du règlement VIS du 9 juillet 2008.
+
+Enfin, elle demande à ce qu’une note d’information à destination des demandeurs de visa dont les données personnelles seraient collectées par des prestataires extérieurs, leur soit remise et affichée dans les locaux de ces prestataires. Cette note devrait notamment préciser que les droits d’accès et de rectification des personnes aux données qui les concernent s’exercent auprès de la seule section des visas du consulat concerné, afin d’éviter que les personnes concernées ne s’adressent au prestataire pour exercer ces droits.
+
+Le Président
+
+Alex TURK
