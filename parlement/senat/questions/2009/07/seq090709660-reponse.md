@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709660
+
+- Question : [SEQ090709660](seq090709660.md) — Défibrillateurs dans les lieux publics
+
+## Réponse
+
+*Intérieur, JO du 2009-09-17, page 2212*
+
+En France, les secouristes sont dotés de défibrillateurs depuis une quinzaine d'année. Il appartient au ministère de la santé et des sports, aux collectivités locales et aux entreprises d'encourager et de faciliter l'installation de défibrillateurs dans les lieux accessibles au public. Pour la formation des citoyens, depuis 2007, l'unité d'enseignement « prévention et secours civiques de niveau 1 (PSC 1) » comporte, en sa partie 6 « la victime ne respire pas », une section 6.4 sur la défibrillation. Le ministère de la santé et des sports, en charge de ce dossier a demandé en janvier 2009 au ministre de l'intérieur, de l'outre-mer et des collectivités territoriales de confier à l'observatoire national du secourisme le soin de définir un module de foi nation court, harmonisé, d'instruction du grand public à la prise en charge de l'arrêt cardiaque. Les travaux ont été rendus à la fin du mois de juin 2009. Le document, qui concerne une unité d'enseignement de 35 minutes au minimum à l'attention des formateurs, a été élaboré dans les délais. Le contenu de la formation comportera les séquences suivantes : « qu'est-ce que l'arrêt cardiaque ? » ; « quelles sont les conséquences d'un arrêt cardiaque ? » ; « comment reconnaître un arrêt cardiaque ? » ; « que faire devant une victime en arrêt cardiaque ? ». Le texte proposé a été adressé le 2 juillet 2009 au ministre de la santé et des sports, pour diffusion, s'il le souhaite, aux professionnels de santé intéressés par la participation à des actions d'information. Ce document de formation devrait également être diffusé à l'ensemble des associations agréées de sécurité civile en vue de l'harmonisation d'initiations de courtes durées sur ce sujet.
