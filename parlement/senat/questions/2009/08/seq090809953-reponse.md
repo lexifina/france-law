@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809953
+
+- Question : [SEQ090809953](seq090809953.md) — Inquiétudes des délégués départementaux de l'éducation nationale concernant la proposition de loi relative à la création des établissements publics d'enseignement primaire
+
+## Réponse
+
+*Éducation, JO du 2009-09-17, page 2209*
+
+L'organisation de l'école républicaine est demeurée inchangée depuis le début des années 1880. Or, il est évident que ses missions ont profondément changé en un siècle. Pour répondre à ces évolutions, il est nécessaire de réfléchir à l'organisation juridique des écoles. C'est pour cela que la loi de 2005 sur l'avenir de l'école a ouvert la voie à l'expérimentation des EPEP (établissements publics d'enseignement primaire). Actuellement, les écoles sont dépourvues de la personnalité morale, à la différence des collèges et des lycées. Il s'agit donc de les doter d'un statut juridique qui permette une gestion pédagogique à la fois moderne et efficace. Trois députés ont décidé de réfléchir à ce sujet et ont déposé une proposition de loi tendant à généraliser la création des EPEP. Les écoles de 15 classes et plus seraient regroupées automatiquement en EPEP, et les écoles à partir de 13 classes le seraient sur la base du volontariat. Cette proposition de loi porte donc exclusivement sur les écoles de taille importante qui accueillent souvent davantage d'élèves que certains collèges ruraux. Le nouveau statut leur donnera les moyens de mieux gérer ces effectifs et les projets pédagogiques pilotés par le directeur de l'EPEP. Les auteurs de cette proposition avaient annoncé une discussion de ce texte dans le courant du premier semestre 2009, il n'est cependant pas encore à l'ordre du jour. Toutefois le Gouvernement est prêt à entamer ce débat, qui paraît aller dans le sens d'une plus grande efficacité de notre école.
