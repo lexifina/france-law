@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508678
+
+- Question : [SEQ090508678](seq090508678.md) — Régie municipale
+
+## Réponse
+
+*Intérieur, JO du 2009-09-17, page 2210*
+
+D'une manière générale, une régie, tout comme un établissement public, doit satisfaire aux principes de spécialité fonctionnelle et de spécialité territoriale. Le champ d'intervention d'une régie se réduit ainsi aux compétences d'attribution, limitativement énumérées, d'une part, et au territoire de la collectivité, ou du groupement de collectivités, qui l'a créée, d'autre part. Dans son avis n° 356.089 du 7 juillet 1994 relatif à la diversification d'EDF et de GDF, le Conseil d'État a toutefois estimé que le principe de spécialité de s'oppose pas par lui-même à ce qu'un établissement public, surtout s'il a un caractère industriel et commercial, se livre à d'autres activités économiques à la double condition, d'une part, que ces activités annexes soient techniquement et commercialement le complément normal de sa mission statutaire principale et, d'autre part, que ces activités soient à la fois d'intérêt général et directement utiles à l'établissement public, notamment par son adaptation à l'évolution technique, aux impératifs d'une bonne gestion des intérêts confiés à l'établissement, le savoir-faire de ses personnels, la vigueur de sa recherche et la valorisation de ses compétences, tous moyens mis au service de son objet principal. Toutes ces conditions n'étant pas, a priori, satisfaites dans le cas d'espèce, une régie gérant un domaine skiable ne saurait affecter ses personnels et moyens à l'exécution de travaux d'entretien d'espaces verts. Dans le cadre de sa spécialité, ladite régie peut intervenir au bénéfice d'autres collectivités, dans le respect des règles de la concurrence, c'est-à-dire en se portant candidate à l'attribution d'un marché public ou d'une délégation de service public.
