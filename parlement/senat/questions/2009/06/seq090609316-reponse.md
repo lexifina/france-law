@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609316
+
+- Question : [SEQ090609316](seq090609316.md) — Regroupements d'employeurs et exonérations de charges sociales pour les travailleurs occasionnels
+
+## Réponse
+
+*Alimentation, JO du 2009-09-17, page 2202*
+
+L'effet du dispositif de réduction de cotisations sociales pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi (TO-DE) au sein des groupements d'employeurs multisectoriels est difficile à apprécier et doit être relativisé. Il ne s'agit pas en effet d'évaluer dans quelle mesure l'extension de la réduction TO-DE aux groupements d'employeurs multisectoriels a permis de créer ou de sauvegarder des emplois, mais plutôt d'examiner si l'avantage supplémentaire qu'elle accorde par rapport à la réduction générale de cotisations patronales, plus communément appelée « réduction Fillon », permet de préserver voire de créer, à un coût raisonnable, de l'emploi supplémentaire. Or, à compter du 1er juillet 2007, le coefficient maximal de la réduction Fillon a été porté de 0,260 à 0,281 pour les entreprises de moins de 20 salariés. La loi du 5 mars 2007 instituant le droit au logement opposable et portant diverses mesures de la cohésion sociale a ensuite étendu le bénéfice de cette mesure aux groupements d'employeurs pour leurs salariés exclusivement mis à la disposition, au cours d'un même mois, auprès des membres de ces groupements qui ont un effectif de 19 salariés au plus. Ainsi l'écart entre le dispositif TO-DE et la réduction Fillon, en l'état actuel de la réglementation et notamment depuis la suppression des exonérations de cotisations en matière d'accidents du travail intervenue au 1er janvier 2009, s'est fortement amenuisé. Il n'est donc pas envisagé de reconduire le dispositif TO-DE au profit des groupements d'employeurs multisectoriels.
