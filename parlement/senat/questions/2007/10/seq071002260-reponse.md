@@ -1,0 +1,9 @@
+# Réponse à la question SEQ071002260
+
+- Question : [SEQ071002260](seq071002260.md) — Requêtes des chauffeurs de taxi
+
+## Réponse
+
+*Travail, JO du 2009-09-17, page 2213*
+
+L'activité professionnelle du chauffeur de taxi est de conduire un véhicule léger (moins de 9 personnes) destiné au transport des personnes avec un permis B. Il assure l'entretien courant du véhicule et il peut accomplir diverses opérations annexes (port de charges, tenue des documents de bord, informations touristiques...). La formation initiale du chauffeur de taxi est la condition d'accès à la profession. En effet, l'emploi est accessible aux personnes titulaires du permis de conduire de catégorie B, au casier judiciaire vierge et titulaire d'une carte professionnelle et d'un certificat de capacité à la conduite des taxis. L'état de santé doit être compatible avec l'aptitude à la conduite. Trois statuts cohabitent dans la profession : les artisans (56 %) conduisent leur propre véhicule, les chauffeurs locataires (27 %) le louent à des prestataires spécialisés et les conducteurs salariés (17 %) travaillent pour le compte d'une entreprise de taxis. Propriétaire ou exploitant, le chauffeur de taxi doit obligatoirement obtenir « une autorisation de stationnement ». Le chauffeur de taxi ne peut exercer que sous un seul statut. S'agissant du renforcement de l'effort de formation continue des chauffeurs de taxi, il entre dans le cadre d'une profession réglementée. Les propositions du rapport Attali ne sont que des pistes de travail. La concertation sera donc de mise pour renforcer la formation continue des chauffeurs de taxi en complète concertation avec les représentants de la profession de la même manière que le gouvernement a procédé dans les négociations avec les partenaires sociaux sur le contrat de travail.
