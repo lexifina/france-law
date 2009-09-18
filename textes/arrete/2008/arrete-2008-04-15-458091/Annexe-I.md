@@ -2,7 +2,7 @@
 
 TABLEAU RÉCAPITULATIF DES ÉPREUVES DES CONCOURS POUR L'ATTRIBUTION DU NIVEAU DE QUALIFICATION DE PRATICIEN PROFESSEUR AGRÉGÉ DU SERVICE DE SANTÉ DES ARMÉES PAR CHAIRES ET DISCIPLINE OU SECTION DE DISCIPLINE
 
-CHAIRE
+CHAIRES
 
 |
 
@@ -182,7 +182,7 @@ Chaire d'épidémiologie et prévention appliquées aux armées
 
 |
 
-2e épreuve : leçon sur un sujet de médecine et de santé au travail appliqué aux armées.
+2e épreuve : leçon sur un sujet de médecine et de santé au travail appliqués aux armées.
 
 |
 
@@ -258,11 +258,11 @@ Chaire d'épidémiologie et prévention appliquées aux armées
 
 |
 
-Chaire d'épidémiologie et prévention appliquées aux armées
+Chaire d'épidémiologie et prévention appliquée aux armées
 
 |
 
-3. Sécurité sanitaire des aliments et de l'eau
+3. Santé publique vétérinaire : option sécurité sanitaire des aliments et de l'eau.
 
 |
 
@@ -374,11 +374,11 @@ Chaire d'épidémiologie et prévention appliquées aux armées
 
 |
 
-Chaire de biologie clinique appliquée aux armées et risque biologique
+Chaire d'épidémiologie et prévention appliquées aux armées
 
 |
 
-4. Biologie médicale
+4. Santé publique vétérinaire : option épidémiologie animale.
 
 |
 
@@ -402,6 +402,122 @@ Chaire de biologie clinique appliquée aux armées et risque biologique
 
 |
 
+1re épreuve : dossier de titres et travaux.
+
+|
+
+|
+
+|
+
+1 heure maximum
+
+|
+
+|
+
+2e épreuve : leçon sur un sujet se rapportant au domaine de l'épidémiologie animale en santé publique vétérinaire.
+
+|
+
+|
+
+4 heures
+
+|
+
+45 minutes
+
+|
+
+|
+
+3e épreuve : leçon à propos d'un dossier documentaire relatif à un problème d'épidémiologie animale en santé publique vétérinaire.
+
+|
+
+|
+
+2 heures
+
+|
+
+30 minutes
+
+|
+
+|
+
+4.2. Admission
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4e épreuve : épreuve d'enseignement dirigé à propos d'une investigation d'un cas concret intéressant l'épidémiologie animale.
+
+|
+
+|
+
+6 heures
+
+|
+
+45 minutes
+
+|
+
+|
+
+5e épreuve : conférence magistrale sur un sujet relatif au domaine de l'épidémiologie animale en santé publique vétérinaire.
+
+|
+
+|
+
+24 heures
+
+|
+
+1 heure
+
+|
+
+Chaire de biologie clinique appliquée aux armées et risque biologique
+
+|
+
+5. Biologie médicale
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5.1. Admissibilité
+
+|
+
+|
+
+|
+
+|
+
+|
+
 1re épreuve : dossier titres et travaux.
 
 |
@@ -409,6 +525,8 @@ Chaire de biologie clinique appliquée aux armées et risque biologique
 |
 
 |
+
+1 heure maximum
 
 |
 
@@ -448,7 +566,7 @@ Chaire de biologie clinique appliquée aux armées et risque biologique
 
 |
 
-4.2. Admission
+5.2. Admission
 
 |
 
@@ -494,7 +612,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-5. Médecine appliquée aux armées
+6. Médecine appliquée aux armées
 
 |
 
@@ -506,7 +624,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-5.1. Admissibilité
+6.1. Admissibilité
 
 |
 
@@ -566,7 +684,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-5.2. Admission
+6.2. Admission
 
 |
 
@@ -612,7 +730,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-6. Santé animale
+7. Santé animale
 
 |
 
@@ -624,7 +742,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-6.1. Admissibilité
+7.1. Admissibilité
 
 |
 
@@ -682,7 +800,7 @@ Chaire de médecine appliquée aux armées
 
 |
 
-6.2. Admission
+7.2. Admission
 
 |
 
@@ -728,7 +846,7 @@ Chaire de psychiatrie et de psychologie clinique appliquées aux armées
 
 |
 
-7. Psychiatrie et psychologie clinique appliquées aux armées
+8. Psychiatrie et psychologie appliquées aux armées
 
 |
 
@@ -740,7 +858,7 @@ Chaire de psychiatrie et de psychologie clinique appliquées aux armées
 
 |
 
-7.1. Admissibilité
+8.1. Admissibilité
 
 |
 
@@ -798,7 +916,7 @@ Chaire de psychiatrie et de psychologie clinique appliquées aux armées
 
 |
 
-7.2. Admission
+8.2. Admission
 
 |
 
@@ -844,7 +962,7 @@ Chaire de chirurgie appliquée aux armées
 
 |
 
-8. Chirurgie appliquée aux armées
+9. Chirurgie appliquée aux armées
 
 |
 
@@ -856,7 +974,7 @@ Chaire de chirurgie appliquée aux armées
 
 |
 
-8.1. Admissibilité
+9.1. Admissibilité
 
 |
 
@@ -916,7 +1034,7 @@ Chaire de chirurgie appliquée aux armées
 
 |
 
-8.2. Admission
+9.2. Admission
 
 |
 
@@ -944,7 +1062,7 @@ Chaire de chirurgie appliquée aux armées
 
 |
 
-5e épreuve : leçon magistrale sur un sujet pathologie médicale ou chirurgicale ou de physiologie sensorielle se rapportant à la section de discipline choisie.
+5e épreuve : leçon magistrale sur un sujet de pathologie médicale ou chirurgicale ou de physiologie sensorielle se rapportant à la section de discipline choisie.
 
 |
 
@@ -958,15 +1076,11 @@ Chaire de chirurgie appliquée aux armées
 
 |
 
-Chaire d'anesthésie et réanimation appliquées aux armées
+Chaire de chirurgie spéciale appliquée aux armées
 
 |
 
-9. Anesthésie-réanimation
-
-|
-
-|
+10. Chirurgie spéciale appliquée aux armées
 
 |
 
@@ -974,7 +1088,129 @@ Chaire d'anesthésie et réanimation appliquées aux armées
 
 |
 
-9.1. Admissibilité
+|
+
+|
+
+10.1. Admissibilité
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1re épreuve : dossier titres et travaux.
+
+|
+
+|
+
+|
+
+1 heure maximum
+
+|
+
+|
+
+2e épreuve : leçon d'anatomie chirurgicale se rapportant à la section de discipline choisie.
+
+|
+
+|
+
+4 heures
+
+|
+
+45 minutes
+
+|
+
+|
+
+3e épreuve : leçon clinique à propos d'un malade appartenant à la section de discipline choisie.
+
+|
+
+30 minutes
+
+|
+
+1 heure
+
+|
+
+30 minutes
+
+|
+
+|
+
+10.2. Admission
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4e épreuve : leçon de thérapeutique chirurgicale ou d'exploration fonctionnelle en rapport avec la section de discipline choisie.
+
+|
+
+|
+
+4 heures
+
+|
+
+45 minutes
+
+|
+
+|
+
+5e épreuve : leçon magistrale sur un sujet de pathologie médicale ou chirurgicale ou de physiologie sensorielle se rapportant à la section de discipline choisie.
+
+|
+
+|
+
+24 heures
+
+|
+
+1 heure
+
+|
+
+Chaire d'anesthésie-réanimation et urgences appliquées aux armées
+
+|
+
+11. Anesthésie-réanimation
+
+|
+
+|
+
+|
+
+|
+
+|
+
+11.1. Admissibilité
 
 |
 
@@ -1034,7 +1270,7 @@ Chaire d'anesthésie et réanimation appliquées aux armées
 
 |
 
-9.2. Admission
+11.2. Admission
 
 |
 
@@ -1080,7 +1316,7 @@ Chaire d'imagerie médicale appliquée aux armées et risque radionucléaire
 
 |
 
-10. Imagerie médicale
+12. Imagerie médicale
 
 |
 
@@ -1092,7 +1328,7 @@ Chaire d'imagerie médicale appliquée aux armées et risque radionucléaire
 
 |
 
-10.1. Admissibilité
+12.1. Admissibilité
 
 |
 
@@ -1134,7 +1370,7 @@ Chaire d'imagerie médicale appliquée aux armées et risque radionucléaire
 
 |
 
-3e épreuve : leçon clinique d'imagerie médicale ou de protection radiologique à propos du dossier clinique et paraclinique d'un malade.
+3e épreuve : leçon clinique d'imagerie médicale ou de protection radiologique à propos du dossier clinique et para-clinique d'un malade.
 
 |
 
@@ -1152,7 +1388,7 @@ Chaire d'imagerie médicale appliquée aux armées et risque radionucléaire
 
 |
 
-10.2. Admission
+12.2. Admission
 
 |
 
@@ -1198,7 +1434,7 @@ Chaire de recherche appliquée aux armées
 
 |
 
-11. Recherche appliquée aux armées
+13. Recherche appliquée aux armées
 
 |
 
@@ -1210,7 +1446,7 @@ Chaire de recherche appliquée aux armées
 
 |
 
-11.1. Admissibilité
+13.1. Admissibilité
 
 |
 
@@ -1266,7 +1502,7 @@ Chaire de recherche appliquée aux armées
 
 |
 
-11.2. Admission
+13.2. Admission
 
 |
 
@@ -1312,7 +1548,7 @@ Chaire de sciences pharmaceutiques dans les armées et risque chimique
 
 |
 
-12. Sciences pharmaceutiques dans les armées et risque chimique
+14. Sciences pharmaceutiques dans les armées et risque chimique
 
 |
 
@@ -1324,7 +1560,7 @@ Chaire de sciences pharmaceutiques dans les armées et risque chimique
 
 |
 
-12.1. Admissibilité
+14.1. Admissibilité
 
 |
 
@@ -1382,7 +1618,7 @@ Chaire de sciences pharmaceutiques dans les armées et risque chimique
 
 |
 
-12.2. Admission
+14.2. Admission
 
 |
 
@@ -1400,11 +1636,9 @@ Chaire de sciences pharmaceutiques dans les armées et risque chimique
 
 |
 
-fixée par le jury
-
 |
 
-fixé par le jury
+Fixée par le jury
 
 |
 
