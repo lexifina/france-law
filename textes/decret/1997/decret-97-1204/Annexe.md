@@ -701,3 +701,13 @@ Dérogations à l'interdiction du camping et du stationnement des caravanes dans
 Article R. 443-9 (2°)
 
 |
+
+III. - Code de la défense :
+
+Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures.
+
+|
+
+Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6
+
+|
