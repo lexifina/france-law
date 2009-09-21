@@ -1360,7 +1360,7 @@ Valençay (vins blancs et rosés) après fermentation alcoolique.
 
 |
 
-4
+5
 
 |
 
@@ -2042,7 +2042,7 @@ Quincy (vins blancs).
 
 |
 
-0,73 g/l
+0,85 g/l ou
 
 12,24 meq/l
 
@@ -2090,7 +2090,7 @@ Reuilly (vins blancs).
 
 |
 
-0,73 g/l
+0,85 g/l ou
 
 12,24 meq/l
 
@@ -2286,7 +2286,7 @@ Reuilly (vins rouges).
 
 |
 
-0,73 g/l
+0,85 g/l ou
 
 12,24 meq/l
 
@@ -2482,7 +2482,7 @@ Reuilly (vins rosés).
 
 |
 
-0,73 g/l
+0,85 g/l ou
 
 12,24 meq/l
 
