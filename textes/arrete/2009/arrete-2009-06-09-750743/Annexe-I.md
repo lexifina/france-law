@@ -50,7 +50,7 @@ Centre international d'études supérieures en sciences agronomiques (Montpellie
 
 |
 
-Agronomie - agroalimentaire.
+Agronomie-agroalimentaire.
 
 |
 
@@ -74,7 +74,7 @@ Centre international d'études supérieures en sciences agronomiques (Montpellie
 
 |
 
-Agronomie - agroalimentaire.
+Agronomie-agroalimentaire.
 
 |
 
@@ -286,9 +286,7 @@ Rennes
 
 |
 
-Ecole nationale supérieure des télécommunications de Bretagne (Télécom Bretagne).
-
-|
+Télécom Bretagne |
 
 Technologies de l'information.
 
@@ -310,9 +308,7 @@ Rennes
 
 |
 
-Ecole nationale supérieure des télécommunications de Bretagne (Télécom Bretagne).
-
-|
+Télécom Bretagne |
 
 Technologies de l'information.
 
@@ -338,7 +334,7 @@ Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et d
 
 |
 
-Agronomie - agroalimentaire.
+Agronomie-agroalimentaire.
 
 |
 

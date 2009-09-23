@@ -78,7 +78,7 @@ Expert en gestion du spectre.
 
 |
 
-Groupe des écoles des télécommunications
+Institut Télécom
 
 |
 

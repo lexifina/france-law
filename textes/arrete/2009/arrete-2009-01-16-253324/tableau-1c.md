@@ -3216,7 +3216,7 @@ Formation initiale sous statut d'étudiant.
 
 |
 
-Ecole nationale supérieure des télécommunications de Bretagne, technopôle Brest-Iroise, BP 832, 29285 Brest Cedex.
+Télécom Bretagne, technopôle Brest-Iroise, BP 832, 29285 Brest Cedex.
 
 |
 
@@ -3228,7 +3228,7 @@ Public. Economie.
 
 |
 
-Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications de Bretagne.
+Ingénieur diplômé de Télécom Bretagne
 
 |
 
@@ -3274,7 +3274,7 @@ Formation continue.
 
 |
 
-Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications de Bretagne, spécialité réseaux et télécommunications.
+Ingénieur diplômé de Télécom Bretagne, spécialité réseaux et télécommunications.
 
 |
 

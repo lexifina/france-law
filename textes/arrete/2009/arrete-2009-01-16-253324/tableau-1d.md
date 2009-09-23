@@ -3076,7 +3076,7 @@ Formation initiale sous statut d'étudiant.
 
 |
 
-Ecole nationale supérieure des télécommunications, 46, rue Barrault, 75634 Paris Cedex 13 :
+Télécom ParisTech, 46, rue Barrault, 75634 Paris Cedex 13 :
 
 - formations sur les sites de Paris et de Sophia-Antipolis.
 
@@ -3090,7 +3090,7 @@ Avant 1934
 
 |
 
-Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications.
+Ingénieur diplômé de Télécom ParisTech.
 
 |
 
@@ -6140,7 +6140,7 @@ Formation initiale sous statut d'apprenti.
 
 |
 
-Institut national des télécommunications, 9, rue Charles-Fourier, 91011 Evry Cedex.
+Télécom et Management SudParis, 9, rue Charles-Fourier, 91011 Evry Cedex.
 
 |
 
@@ -6152,7 +6152,7 @@ Public. Economie.
 
 |
 
-Ingénieur diplômé de l'Institut national des télécommunications
+Ingénieur diplômé de Télécom et Management SudParis.
 
 |
 
