@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709591
+
+- Question : [SEQ090709591](seq090709591.md) — Statut de notre équipement de communication satellitaire militaire
+
+## Réponse
+
+*Défense, JO du 2009-09-24, page 2249*
+
+Les systèmes de communication par satellite permettent d'assurer les communications à très grande distance et à haut débit sur les zones de déploiement des forces armées françaises. La satisfaction des besoins des armées est aujourd'hui assurée grâce aux capacités offertes par le système Syracuse III. Composé des satellites Syracuse 3A et 3B, lancés respectivementen 2005 et 2006, ce dispositif sera complété en 2012 par le satellite de télécommunications militaires protégées réalisé en coopération franco-italienne, Sicral 2, qui disposera d'une charge utile de type Syracuse III. Le choix d'une formule de partenariat avec l'industrie dans le domaine des télécommunications par satellite a été exposé au Parlement lors de la discussion de la loi n° 2009-928 du 29 juillet 2009 relative à la programmation militaire pour les années 2009 à 2014 et portant diverses dispositions concernant la défense. Les conditions de réalisation de cette opération sont à l'étude. Il s'agirait de céder à un opérateur économique, à l'horizon 2011, l'usufruit des ressources de communication des satellites du dispositif Syracuse et, en retour, de satisfaire les besoins des armées par une location ferme minimale d'environ 90 % des ressources cédées. L'opérateur économique serait choisi à l'issue d'une phase de mise en concurrence entre les principaux acteurs du domaine des télécommunications par satellite. Il pourrait louer la ressource restante à des clients tiers et ainsi équilibrer le bilan économique de l'opération. Le nombre de répéteurs cédés annuellement devrait respecter le besoin opérationnel actuel et les prévisions de trafic jusqu'en 2020 afin de garantir notre souveraineté et la sécurité de nos télécommunications militaires.
