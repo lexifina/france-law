@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - Les commandements des forces
+I. - Le commandement des forces terrestres :
 
 DÉSIGNATION DU COMMANDEMENT
 
@@ -28,19 +28,7 @@ Général commandant les forces terrestres.
 
 |
 
-Commandant de la force logistique terrestre.
-
-|
-
-Montlhéry.
-
-|
-
-Général commandant la force logistique terrestre.
-
-|
-
-Ces commandements sont directement subordonnés au chef d'état-major de l'armée de terre.
+Ce commandement est directement subordonné au chef d'état-major de l'armée de terre.
 
 II. - Les états-majors de force
 
@@ -226,7 +214,7 @@ Général commandant la 11e brigade parachutiste.
 
 |
 
-27e brigade de montagne.
+27e brigade d'infanterie de montagne.
 
 |
 
@@ -326,22 +314,6 @@ Général commandant la brigade des forces spéciales terre.
 
 |
 
-3.2. Les brigades logistiques subordonnées au commandement de la force logistique terrestre.
-
-DÉSIGNATION DES BRIGADES
-
-|
-
-SIÈGE DE L'ÉTAT-MAJOR
-
-|
-
-AUTORITÉ DÉSIGNÉE
-
-pour exercer le commandement
-
-|
-
 Brigade logistique n° 1.
 
 |
@@ -351,17 +323,5 @@ Montlhéry.
 |
 
 Général commandant la brigade logistique n° 1.
-
-|
-
-Brigade logistique n° 2.
-
-|
-
-Martignas-sur-Jalles.
-
-|
-
-Général commandant la brigade logistique n° 2.
 
 |
