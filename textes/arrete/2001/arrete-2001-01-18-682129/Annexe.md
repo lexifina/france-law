@@ -108,6 +108,10 @@ Général commandant la 6e brigade légère blindée.
 
 Général commandant la 2e brigade blindée.
 
+Général commandant suprême allié transformation à Norfolk (Etats-Unis d'Amérique).
+
+Général commandant des forces alliées à Lisbonne (Portugal).
+
 Général commandant les forces françaises stationnées à Djibouti.
 
 Général commandant les forces françaises au Gabon.
