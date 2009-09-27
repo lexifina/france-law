@@ -10,11 +10,7 @@ PRODUITS DESTINES AUX ALIMENTS POUR ANIMAUX
 
 TENEUR MAXIMALE
 
-en mg/kg (ppm) d'aliments
-
-pour animaux d'une teneur
-
-en humidité de 12%
+en mg/kg (ppm) d'aliments pour animaux d'une teneur en humidité de 12%
 
 |
 
@@ -1520,6 +1516,608 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 
 |
 
+D. - Coccidiostatiques et histomonostatiques
+
+|
+
+|
+
+|
+
+1. Lasalocide sodium
+
+|
+
+Matières premières des aliments des animaux
+
+|
+
+1,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- chiens, veaux, lapins, équidés, animaux laitiers, oiseaux pondeurs, dindes (> 12 semaines) et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+1,25
+
+|
+
+- poulets d'engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de lasalocide sodium est interdite (aliments de retrait)
+
+|
+
+1,25
+
+|
+
+- autres espèces animales
+
+|
+
+3,75
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de lasalocide sodium n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+2. Narasin
+
+|
+
+Matières premières des aliments des animaux
+
+|
+
+0,7
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- dindes, lapins, équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0, 7
+
+|
+
+- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de narasine est interdite (aliments de retrait)
+
+|
+
+0,7
+
+|
+
+- autres espèces animales
+
+|
+
+2,1
+
+|
+
+Prémélanges entrant dans la composition d'aliments dans lesquels l'utilisation de narasin n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+3. Salinomycine sodium
+
+|
+
+Matières premières des aliments des animaux
+
+|
+
+0,7
+
+|
+
+Aliment composé pour :
+
+|
+
+|
+
+- équidés, dindes, oiseaux pondeurs et poulettes destinées à la ponte (> 12 semaines)
+
+|
+
+0,7
+
+|
+
+- poulets d'engraissement, poulettes destinées à la ponte (< 12 semaines) et lapins d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de salinomycine sodium est interdite (aliments de retrait)
+
+|
+
+0, 7
+
+|
+
+- autres espèces animales
+
+|
+
+2, 1
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de salinomycine sodium n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+4. Monensin sodium
+
+|
+
+Matières premières des aliments des animaux
+
+|
+
+1,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- équidés, chiens, petits ruminants (ovins et caprins), canards, bovins, bétail laitier, oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes (> 16 semaines)
+
+|
+
+1,25
+
+|
+
+- poulets d'engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de monensine sodium est interdite (aliments de retrait)
+
+|
+
+1,25
+
+|
+
+- autres espèces animales
+
+|
+
+3,75
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de monensin sodium n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+5. Semduramicine sodium
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0,25
+
+|
+
+- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de semduramicine sodium est interdite (aliments de retrait)
+
+|
+
+0,25
+
+|
+
+- autres espèces animales
+
+|
+
+0,75
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de semduramicine sodium n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+6. Maduramicine ammonium alpha
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,05
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- équidés, lapins, dindes (> 16 semaines), oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0,05
+
+|
+
+- poulets d'engraissement et dindes (< 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de maduramicine ammonium alpha est interdite (aliments de retrait)
+
+|
+
+0,05
+
+|
+
+- autres espèces animales
+
+|
+
+0,15
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de maduramicine ammonium alpha n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+7. Chlorhydrate de robénidine
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,7
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0,7
+
+|
+
+- poulets d'engraissement, lapins d'engraissement, lapins reproducteurs et dindes pendant la période précédant l'abattage durant laquelle l'utilisation de chlorhydrate de robénidine est interdite (aliments de retrait)
+
+|
+
+0,7
+
+|
+
+- autres espèces animales
+
+|
+
+2,1
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de chlorhydrate de robénidine n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+8. Décoquinate
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,4
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0,4
+
+|
+
+- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de décoquinate est interdite (aliments de retrait)
+
+|
+
+0,4
+
+|
+
+- autres espèces animales
+
+|
+
+1,2
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de décoquinate n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+9. Bromhydrate d'halofuginone
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,03
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes (> 12 semaines)
+
+|
+
+0,03
+
+|
+
+- poulets d'engraissement et dindes (< 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de bromhydrate d'halofuginone est interdite (aliments de retrait)
+
+|
+
+0,03
+
+|
+
+- autres espèces animales autres que les poulettes destinées à la ponte (< 16 semaines)
+
+|
+
+0,09
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de bromhydrate d'halofuginone n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+10. Nicarbazine
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,5
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+
+|
+
+0,5
+
+|
+
+- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de nicarbazine (associée à la narasine) est interdite (aliments de retrait)
+
+|
+
+0,5
+
+|
+
+- autres espèces animales
+
+|
+
+1,5
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de nicarbazine (associée à la narasine) n'est pas autorisée
+
+|
+
+(**)
+
+|
+
+11. Diclazuril
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+0,01
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+- oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes d'engraissement (> 12 semaines)
+
+|
+
+0,01
+
+|
+
+- lapins d'engraissement et lapins reproducteurs pendant la période précédant l'abattage durant laquelle l'utilisation de diclazuril est interdite (aliments de retrait)
+
+|
+
+0,01
+
+|
+
+- autres espèces animales autres que les poulettes destinées à la ponte (< 16 semaines), les poulets d'engraissement et les dindes d'engraissement (< 12 semaines)
+
+|
+
+0,03
+
+|
+
+Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de diclazuril n'est pas autorisée.
+
+|
+
+(**)
+
+|
+
+(1) Teneur en fluor pour 1 % de phosphore.
+
+(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
+
+(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
+
+(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
+
+(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
+
+(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
+
+- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
+
+- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane
+
+- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.
+
+(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].
+
+(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
+
+(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+
+(j) Isolément ou ensemble, exprimée en dieldrine.
+
+(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
+
+(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831 / 2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.
+
+(**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.
+
+|
+
 CONGÉNÈRE
 
 |
@@ -1799,41 +2397,3 @@ PCB 189
 Abréviations utilisées : T = tetra ; Pe = penta ; Hx = hexa ; Hp = hepta ; O = octa ; CDD = chlorodibenzodioxine ; CDF = chlorodibenzofurane ; CB = chlorobiphényle.
 
 |
-
-(1) Teneur en fluor pour 1 % de phosphore.
-
-(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
-
-(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
-
-(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
-
-(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
-
-(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
-
-(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
-
-- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
-
-- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane
-
-- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.
-
-(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].
-
-(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
-
-(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
-
-(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
-
-(j) Isolément ou ensemble, exprimée en dieldrine.
-
-(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
