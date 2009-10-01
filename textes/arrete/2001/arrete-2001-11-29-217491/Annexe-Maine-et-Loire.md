@@ -1,28 +1,30 @@
 # Article Annexe Maine-et-Loire
 
-Direction départementale de l'équipement de Maine-et-Loire
+Direction départementale de l'équipement et de l'agriculture (2) de Maine-et-Loire
 
-FONCTIONS EXERCÉES
-
-|
-
-NIVEAU DE QUALIFICATION
-
-de l'emploi
+FONCTIONS EXERCEES
 
 |
 
-NOMBRE D'EMPLOIS
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
-NOMBRE DE POINTS
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
 
 par emploi
 
 |
 
-Mise en œuvre de la politique sociale du logement et de l'habitat. Chargé de la mise en œuvre du droit opposable au logement
+Mise en œuvre de la politique sociale du logement et de l'habitat. Chargé de la mise en œuvre du droit opposable au logement.
 
 |
 
@@ -38,7 +40,7 @@ A
 
 |
 
-Chargé de la mise en œuvre de la politique du logement social, du suivi du conventionnement et des bailleurs sociaux
+Chargé de la mise en œuvre de la politique du logement social et des études et observations des territoires urbains.
 
 |
 
@@ -54,7 +56,7 @@ A
 
 |
 
-Mise en œuvre de la politique de la ville. Chargé de la rénovation urbaine
+Mise en œuvre de la politique de la ville. Chargé de la rénovation urbaine.
 
 |
 
@@ -69,3 +71,7 @@ A
 50
 
 |
+
+NOTA :
+
+(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
