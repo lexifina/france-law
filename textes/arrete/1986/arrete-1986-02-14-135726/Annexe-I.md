@@ -1,20 +1,22 @@
 # Article Annexe I
 
-Hôtels de tourisme
+HÔTELS DE TOURISME
 
-Description des aménagements
+A. - Mode d'emploi du tableau de classement des hôtels de tourisme en cinq catégories de 1 à 5 étoiles
+
+a) Les critères de classement sont classés en trois chapitres "Equipements", "Service au client", "Accessibilité et développement durable".
+
+b) La colonne "Statut du critère" se réfère au caractère obligatoire ou à la carte de chaque critère. Les critères obligatoires sont notés d'un X. Les critères à la carte sont notés d'un O. Les cases identifiées par NA ne doivent pas être prises en compte pour le critère et la catégorie concernés.
+
+c) A chaque critère correspond un nombre de points apparaissant dans la colonne "Points".
+
+Pour être classé dans une catégorie donnée, un hôtel doit respecter au minimum un total de points résultant de l'addition de :
+
+1. Points correspondant à des critères obligatoires :
 
 |
 
-Catégories
-
-|
-
-Les indications (P) et (D) renvoient aux précisions et dérogations notées au bas du tableau
-
-|
-
-sans étoile
+CATÉGORIE
 
 |
 
@@ -34,271 +36,265 @@ sans étoile
 
 |
 
-4*L
+5*
 
 |
 
-A - Nombre de chambres (P1)
+Nombre de points de critères obligatoires à atteindre (NB)
 
 |
 
-|
+141
 
 |
 
-|
+161
 
 |
 
-|
+177
 
 |
 
-5 chambres minimum (D1)
+226
 
 |
 
-x
+298
 
 |
 
-|
+Nota. - 95 % au moins de ces points doivent être atteints. Les 5 % maximum de points non atteints doivent être compensés par trois fois plus de points résultant de critères à la carte. Ces critères à la carte compensatoires ne peuvent être les mêmes que ceux qui servent à calculer le nombre minimum de points à atteindre dans la catégorie des critères à la carte, indiqué au 2.
 
-|
+2. Points correspondant à des critères à la carte :
 
 |
 
-|
+CATÉGORIE
 
 |
 
-7 chambres minimum (D1)
-
-|
+1*
 
 |
 
-x
+2*
 
 |
 
-x
+3*
 
 |
 
-|
-
-|
+4*
 
 |
-
-10 chambres minimum (D2)
 
-|
+5*
 
 |
 
-|
+Nombre de points de critères à la carte à atteindre
 
 |
 
-x
+24
 
 |
 
-x
+45
 
 |
 
-x
+83
 
 |
 
-B - Locaux communs
-
-|
+112
 
 |
 
-|
+118
 
 |
 
-|
+d) Un bloc kitchenette disposant obligatoirement d'une ventilation spécifique est toléré dans toutes les catégories d'hôtels de tourisme, quel que soit le nombre de chambres équipées de cet aménagement.
 
-|
+B. - Tableau de classement
 
-|
+CATÉGORIES |
 
-1. Hall de réception
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
 
-|
+Statut du critère |
 
-x
+Points |
 
-|
+1* |
 
-|
+2* |
 
-|
+3* |
 
-|
+4* |
 
-|
+5* |
 
-|
+Précisions |
 
-Hall de réception et salon (s) :
+PRÉ-REQUIS : Pour pouvoir prétendre au classement en hôtel de tourisme, un hôtel doit compter 6 chambres au minimum |
 
-|
+CHAPITRE 1 : ÉQUIPEMENTS |
 
-|
+EXTÉRIEURS DE L'HÔTEL |
 
-|
+1. Existence et bon état de la signalétique privée de l'établissement dans les zones privatives extérieures de l'hôtel |
 
-|
+X |
 
-|
+3 |
 
-|
+X |
 
-|
+X |
 
-- d'au moins 9 m2, plus 1 m2 par chambre au-delà de 20 ; jusqu'à un maximum exigible de 25 m2
+X |
 
-|
+X |
 
-|
+X |
 
-x
+Ce critère est réputé acquis si la réglementation locale ne permet pas la présence d'une telle signalétique |
 
-|
+2. Existence d'une enseigne en bon état |
 
-|
+X |
 
-|
+2 |
 
-|
+X |
 
-|
+X |
 
-- d'au moins 20 m2, plus 1 m2 par chambre au-delà de 20 jusqu'à un maximum exigible de 40 m2
+X |
 
-|
+X |
 
-|
+X |
 
-|
+Ce critère est réputé acquis si la réglementation locale ne permet pas la présence d'une enseigne |
 
-x
+3. Les extérieurs doivent être propres et en bon état |
 
-|
+X |
 
-|
+5 |
 
-|
+X |
 
-|
+X |
 
-- d'au moins 30 m2, plus 1 m2 par chambre au-delà de 20, jusqu'à un maximum exigible de :
+X |
 
-|
+X |
 
-|
+X |
 
-|
+Ce critère est réputé acquis si l'hôtel ne dispose pas d'extérieurs |
 
-|
+4. Façades propres et en bon état |
 
-|
+X ou O |
 
-|
+5 |
 
-|
+O |
 
-- 80 m2
+O |
 
-|
+O |
 
-|
+O |
 
-|
+X |
 
 |
 
-x
+5. Parc ou jardin (au minimum 200 m2) |
 
-|
+O |
 
-|
+5 |
 
-|
+O |
 
-- 120 m2
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+6. Bon état et propreté des jardins (si existants) et du mobilier de terrasse |
 
-x
+X ou O |
 
-|
+3 |
 
-|
+O |
 
-- 160 m2
+O |
 
-|
+O |
 
-|
+O |
 
-|
+X |
 
 |
 
-|
+7. Existence d'un éclairage approprié et en bon état |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-2. Entrée de l'hôtel indépendante au cas où l'exploitation comprend également au même niveau un restaurant ou un café
+O |
 
-|
+O |
 
-|
+O |
 
-x
+O |
 
 |
 
-x
+8. Mise en valeur des bâtiments par éclairage ou fleurissement |
 
-|
+O |
 
-x
+5 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
+O |
+
 |
 
-3. Ascenseurs obligatoires (D3) dans les immeubles comprenant :
+HALL DE RÉCEPTION ET SALON |
 
-|
+Hall de réception |
 
 |
 
@@ -312,269 +308,243 @@ x
 
 |
 
-- 5 niveaux (4 étages) ou plus
-
 |
 
 |
 
-|
+9. Accès à l'hôtel indépendant au cas où l'exploitation comprend également au même niveau un restaurant ou un café |
 
-x
+X ou O |
 
-|
+2 |
 
-|
+O |
 
-|
+X |
 
-|
+X |
 
-- 4 niveaux (3 étages) ou plus
+X |
 
-|
+X |
 
-|
+Le client de l'hôtel, pour accéder à la réception, ne doit pas avoir à traverser la salle de restaurant ou de café. Une séparation physique des zones n'est cependant pas obligatoire car l'entrée (hall) de l'hôtel peut desservir l'ensemble des services de l'hôtel, du restaurant ou du bar |
 
-|
+10. Les conditions d'accès aux services supplémentaires offerts par l'établissement sont portées à la connaissance du client de manière écrite |
 
-|
+O |
 
-x
+5 |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-- 3 niveaux (2 étages) ou plus
+O |
 
-|
+O |
 
 |
 
-|
+11. La tenue et la présentation du personnel d'accueil doivent être propres et soignées |
 
-|
+X |
 
-|
+2 |
 
-x
+X |
 
-|
+X |
 
-|
+X |
 
-- 2 niveaux (1 étage) ou plus
+X |
 
-|
+X |
 
 |
 
-|
+12. Chauffage dans le hall |
 
-|
+X |
 
-|
+2 |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
-- monte-charge ou 2e ascenseur (D4)
+X |
 
-|
+X |
 
-|
+Ce critère est réputé acquis si l'absence de système de chauffage est justifiée par le climat |
 
-|
+13. Climatisation dans le hall |
 
-|
+O |
 
-|
+3 |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-4. Chauffage (ou climatisation)
+O |
 
 |
 
-x
+Surface minimale de l'ensemble constitué par l'espace bar, la salle de petit déjeuner, le(s) salon(s) et le hall d'accueil |
 
 |
 
-x
-
 |
 
-x
+Mini20 m2
 
 |
 
-x
+Mini30 m2
 
 |
 
-x
+Mini50 m2
 
 |
 
-x
+Mini70 m2
 
 |
-
-C - Equipement de l'hôtel
 
-|
+Mini90 m2
 
 |
 
 |
 
-|
+14. Surface minimale respectée |
 
-|
+X |
 
-|
+2 |
 
-|
+X |
 
-5. Equipement sanitaire (eau chaude et froide à toute heure)
+X |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
-x
+Si l'hôtel compte moins de 15 chambres, les surfaces cumulées pourront être minorées de 20 % au maximum |
 
-|
+15. Surface totale majorée |
 
-x
+O |
 
-|
+5 |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
-|
+Bonification de 1 point par tranche de 10 de surface supplémentaire, plafonnée à 5 points |
 
-6. Cabine téléphonique fermée et insonorisée à la disposition de la clientèle (cabine Outlec tolérée en métropole pour les catégories sans étoile, une ou deux étoiles et dans les D.O.M. pour toutes les catégories)
+Salon |
 
 |
 
-x
-
 |
-
-x
 
 |
 
-x
-
 |
-
-x
 
 |
 
-x
-
 |
-
-x
 
 |
 
-Un poste téléphonique par étage (P2)
-
 |
 
-|
+16. Existence d'un espace salon |
 
-x
+X ou O |
 
-|
+5 |
 
-x
+O |
 
-|
+O |
 
-x
+X |
 
-|
+X |
 
-x
+X |
 
 |
 
-x
+17. Climatisation dans le(s) salon(s) |
 
-|
+O |
 
-7. Standard téléphonique :
+3 |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+18. Les installations et équipements de l'ensemble doivent être propres et en bon état |
 
-Standard téléphonique et téléphone intérieur dans toutes les chambres
+X |
 
-|
+3 |
 
-|
+X |
 
-X
+X |
 
-(P3)
+X |
 
-|
+X |
 
-x
+X |
 
 |
 
-x
+Réception et Accueil |
 
 |
-
-x
 
 |
 
-x
-
 |
-
-Téléphone avec réseau dans toutes les chambres
 
 |
 
@@ -582,124 +552,124 @@ Téléphone avec réseau dans toutes les chambres
 
 |
 
-x
+|
 
 |
 
-x
+19. Existence d'un coffre-fort à disposition du client dans l'hôtel |
 
-|
+X ou O |
 
-x
+2 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-D - Habitabilité
+O |
 
-|
+X |
 
 |
 
-|
+CATÉGORIES |
 
-|
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
 
-|
+Statut du critère |
 
-|
+Points |
 
-|
+1* |
 
-8. Occultation opaque extérieure (volets roulants, persiennes, etc.) ou intérieure (rideaux, doubles rideaux, etc.) dans chaque chambre
+2* |
 
-|
+3* |
 
-x
+4* |
 
-|
+5* |
 
-x
+Précisions |
 
-|
+20. Mise à disposition de chariots à bagages |
 
-x
+X ou O |
 
-|
+2 |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
-|
+X |
 
-x
+X |
 
 |
 
-9. Revêtement du sol assurant l'insonorisation
+21. Mise à disposition d'équipements pour bébé : chaise haute, matériel pour réchauffer la nourriture, matelas à langer |
 
-|
+X |
 
-x
+3 |
 
-|
+X |
 
-x
+X |
 
-|
+X |
+
+X |
 
-x
+X |
 
 |
 
-x
+Salle de petit déjeuner |
 
 |
 
-x
-
 |
 
-x
+|
 
 |
 
-10. Confort acoustique : toutes précautions techniques devront être prises pour assurer une isolation suffisante conformément aux règlements régissant la construction
+|
 
 |
 
-x
+|
 
 |
 
-x
+22. Climatisation dans la salle petit déjeuner |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+Restaurant |
 
 |
 
-11. Surface utile minimum des chambres, sanitaires non compris, en m2 (P4) (D5) :
-
 |
 
 |
@@ -714,119 +684,119 @@ x
 
 |
 
-- chambre à 1 personne
+23. Climatisation dans le restaurant |
 
-|
+X ou O |
 
-7
+3 |
 
-|
+O |
 
-8
+O |
 
-|
+O |
 
-8
+O |
 
-|
+X |
 
-9
+Ce critère devient optionnel en catégorie 5 étoiles si l'absence de système de climatisation est justifiée par le climat |
 
-|
+24. Les horaires de tous les services sont affichés |
 
-10
+X |
 
-|
+1 |
 
-10
+X |
 
-|
+X |
 
-- chambre à 2 personnes
+X |
 
-|
+X |
 
-8
+X |
 
 |
 
-9
+Bar Salon |
 
 |
-
-9
 
 |
 
-10
+|
 
 |
 
-12
+|
 
 |
 
-14
+|
 
 |
 
-- chambre à 3 personnes (P5-P6)
+25. Distributeurs automatiques avec boissons froides et boissons chaudes Sa mise en place devient obligatoire lorsqu'un service boisson n'est pas assuré (bar, minibar) |
 
-|
+O |
 
-10
+1 |
 
-|
+O |
 
-11
+O |
 
-|
+O |
 
-11
+O |
 
+O |
+
 |
 
-12
+Sanitaires communs |
 
 |
-
-14
 
 |
 
-16
+|
 
 |
 
-- chambre à 4 personnes (P5-P6)
+|
 
 |
 
-12
+|
 
 |
 
-14
+26. Sanitaire commun mixte homme - femme |
 
-|
+X |
 
-14
+1 |
 
-|
+X |
 
-15
+X |
 
-|
+X |
 
-17
+X |
 
+X |
+
 |
 
-19
+Equipement électrique des locaux communs |
 
 |
 
-12. Suites ou appartements comprenant une ou deux chambres pouvant être transformées en salons (5 % minimum)
+|
 
 |
 
@@ -840,23 +810,25 @@ x
 
 |
 
-x
+27. Eclairage en bon état de fonctionnement dans les couloirs. dégagements et locaux communs |
 
-|
+X |
 
-13. Coin cuisine (isolé de la chambre, disposant d'une ventilation, d'un évier avec robinet mélangeur, d'un appareil de cuisson et d'un placard de rangement), toléré dans les chambres des hôtels saisonniers et des hôtels restaurants permanents (D6)
+1 |
 
-|
+X |
 
-x
+X |
 
-|
+X |
+
+X |
 
-x
+X |
 
 |
 
-x
+Téléphonie et communication |
 
 |
 
@@ -866,8 +838,6 @@ x
 
 |
 
-14. Sanitaires privés :
-
 |
 
 |
@@ -876,63 +846,63 @@ x
 
 |
 
-|
+28. Téléphone à disposition 24 heures sur 24 à la réception |
 
-|
+X |
 
-|
+1 |
 
-a) Lavabo, eau courante chaude et froide, avec robinet mélangeur, dans toutes les chambres
+X |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
-x
+X |
 
 |
 
-x
+29. Accès Internet dans les parties communes |
 
-|
+X ou O |
 
-x
+3 |
 
-|
+O |
 
-x
+O |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
-b) Isolement des sanitaires ci-dessus en cabinet de toilettes ou par une cloison fixe de 2 mètres de haut dans (P8)
+Wifi, réseau ou tout équipement équivalent, si la technique le permet |
 
-|
+CHAMBRES, SALLES DE BAINS ET SANITAIRES |
 
-|
+30. Les affichages sur les consignes de sécurité et les informations sur les prix des services doivent être visibles, propres et en bon état |
 
-|
+X |
 
-|
+5 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-- au moins 25 % des chambres
+X |
 
-|
+X |
 
 |
 
-x
+Surfaces (en m2) |
 
 |
 
@@ -944,159 +914,3833 @@ x
 
 |
 
-- au moins 40 % des chambres
+31. Surface minimale pour chambre 1 personne, hors sanitaires |
 
 |
 
 |
 
-|
+8 |
 
-x
+8 |
 
-|
+NA |
 
-|
+NA |
 
-|
+NA |
 
 |
 
-- toutes les chambres
+32. Surface minimale pour chambre 2 personnes, hors sanitaires |
 
 |
 
 |
 
-|
+9 |
 
-|
+9 |
 
-x
+NA |
 
-|
+NA |
 
-|
+NA |
 
 |
 
-c) Salle de bains ou de douches particulières dans (P9-D6) :
+33. Surface minimale pour chambre 3 personnes, hors sanitaires |
 
 |
 
 |
 
-|
+9 |
 
-|
+11 |
 
-|
+NA |
 
-|
+NA |
 
-|
+NA |
+
+Une tolérance de - 10 % est accordée |
 
-- au moins 20 % des chambres (P10-P11)
+34. Surface minimale pour chambre 4 personnes, hors sanitaires |
 
 |
 
 |
 
-x
+13 |
 
-|
+14 |
 
-|
+NA |
 
-|
+NA |
 
-|
+NA |
 
-|
+sur la surface minimale de la chambre, sanitaires compris, pour un maximum |
 
-- au moins 40 % des chambres (P10-P11)
+35. Surface minimale des sanitaires |
 
 |
 
 |
 
-|
+1,5 |
 
-x
+1,75 |
 
-|
+N A |
 
-|
+NA |
 
-|
+NA |
 
-|
+de 20 % des chambres |
 
-- au moins 80 % des chambres (P10-P11)
+36. Surface minimale de la chambre 1 personne, sanitaires compris |
 
 |
 
 |
 
-|
+9,50 |
 
-|
+9,75 |
 
-x
+11,5 |
 
-|
+14,0 |
 
-|
+20,0 |
 
-|
+Le seuil d'équipement des salles de bain est fixé à 75 % en 2 étoiles et à 100 |
 
-- toutes les chambres
+37. Surface minimale de la chambre 2 personnes, sanitaires compris |
 
 |
 
 |
 
-|
+10,50 |
 
-|
+10,75 |
 
+13,5 |
+
+16,0 |
+
+24,0 |
+
+à partir du 3 étoiles |
+
+38. Surface minimale de la chambre 3 personnes, sanitaires compris |
+
+|
+
+|
+
+10,50 |
+
+12,75 |
+
+14,5 |
+
+17,0 |
+
+26,0 |
+
+|
+
+39. Surface minimale de la chambre 4 personnes, sanitaires compris |
+
+|
+
+|
+
+14,50 |
+
+15,75 |
+
+17,5 |
+
+20,0 |
+
+30,0 |
+
+|
+
+40. Surface totale globalisée minimale de la chambre conforme |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+Pour les catégories 1 et 2 étoiles : chambre seule sans salle de bains ou chambre avec salle de bains, si existant. Pour les catégories 3, 4 et 5 étoiles : chambre avec salle de bains. |
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+41. Surface totale de chambre majorée |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Bonification de 1 point par tranche de 10 % de surface supplémentaire de chambre, hors sanitaires, ou de chambre, sanitaires compris, dans au moins 50 % des chambres, plafonnée à 5 points |
+
+42. Terrasse privée de l'établissement (50 m2 minimum) |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+43. Chambres avec terrasse privée (6 m2 minimum) dans au minimum 25 % des chambres |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Bonification de 1 point par tranche de 25 % supplémentaire |
+
+44. Chambres avec balcon ou loggia (2 m2 minimum) dans au minimum 25 % des chambres |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Equipements et mobiliers (dont électriques) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+45. Les chambres sont équipées d'une télévision couleur avec télécommande dans au moins 50 % des chambres en catégories 1 et 2 étoiles et dans 100 % des chambres dans les catégories 3, 4 et 5 étoiles |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+46. Les chambres sont équipées d'une télévision couleur avec télécommande dans 100 % des chambres |
+
+O ou NA |
+
+2 |
+
+O |
+
+O |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+47. Existence d'une salle équipée d'une télévision couleur |
+
+X ou O |
+
+1 |
+
+X |
+
+X |
+
+O |
+
+O |
+
+O |
+
+Obligatoire si toutes les chambres ne sont pas équipées (valable pour les catégories 1 et 2 étoiles)Optionnel si toutes les chambres sont équipées (valable pour les catégories 1 et 2 étoiles).Ce critère est réputé acquis si 100 % des chambres sont équipées |
+
+48. Télévision à écran plat dans toutes les chambres équipées d'une télévision |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+49. Possibilité d'accéder à des chaînes internationales dans toutes les chambres équipées d'une télévision |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+Dans les catégories 4 et 5 étoiles : si la technique le permet |
+
+50. Possibilité d'accéder à des chaînes thématiques (sports, culture, enfants ...) dans toutes les chambres équipées d'une télévision |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+51. Radio dans toutes les chambres |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Radio sur télévision acceptée |
+
+52. Lecteur de DVD dans 10 % des chambres au minimum |
+
+O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+53. Jeux vidéo dans 10 % des chambres au minimum |
+
+O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Literie |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+54. Respect des dimensions minimales suivantes des lits dans 100 % de l'inventaire :Dimension minimale du lit single soit 0,90 x 1,90 mDimension minimale du lit double soit 1,40 x 1,90 mDimension minimale des lits Twin soit 2x 0,80x 1,90 m |
+
+X ou NA |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+NA |
+
+|
+
+55. Mise en place de lits aux dimensions majorées suivantes dans 50 % de l'inventaire au minimum :Équipement de Lit single d'au moins 1,20 X 2,00 mÉquipement de Lit double d'au moins 1,60 X 2,00 mÉquipement de Lit Twin d'au moins 2x 0,90x 2,00 m |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+56. Lit supplémentaire pour bébé |
+
+X |
+
+3 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Sur demande lors de la réservation |
+
+57. Oreiller supplémentaire |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Sur demande dans les catégories en 1 et 2 étoilesA disposition dans 100 % des chambres à partir de la catégorie 3 étoiles |
+
+58. Oreiller supplémentaire à disposition |
+
+O ou NA |
+
+1 |
+
+O |
+
+O |
+
+N |
+
+NA |
+
+NA |
+
+|
+
+59. Couverture supplémentaire |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Sur demande dans les catégories en 1 et 2 étoilesA disposition dans 100 % des chambres à partir de la catégorie 3 étoilesLe critère est réputé acquis si l'équipement est constitué d'une couette |
+
+60. Couverture supplémentaire à disposition |
+
+O ou NA |
+
+2 |
+
+O |
+
+O |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+61. Le linge de lit est propre et en bon état |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+62. La literie est propre et en bon état |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+Linge de toilette |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+63. Présence de linge de toilette en quantité suffisante |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+64. Possibilité d'obtenir du linge de toilette supplémentaire |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+65. Peignoir |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+Equipement électrique de la chambre |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+66. Éclairage général de la chambre en bon état |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+67. Point lumineux sur bureau ou table |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+68. Éclairage en tête de lit avec interrupteur indépendant |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+69. Liseuse en tête de lit |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+70. Prise de courant libre dans la chambre |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+71. Prise de courant libre supplémentaire près du lit |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+72. Prise de courant libre supplémentaire près de la table ou du bureau |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+73. Lampe ou lampadaire supplémentaire |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+74. Interrupteur éclairage central près du lit (Va et vient) |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+75. Les équipements électriques sont propres et en bon état |
+
+X |
+
+3 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+76. Variateur permettant de moduler l'ambiance lumineuse |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Équipement mobilier de la chambre |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+77. Penderie ou système équivalent équipé(e) de cintres de qualité |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+78. Penderie fermée équipée de cintres de qualité |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+79. Rangement étagé à plat pour le linge |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Sous forme d'étagère ou de commode |
+
+80. Présence d'une tablette de chevet |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+81. Présence d'une assise minimum par chambre et de deux assises par chambre double à partir de la catégorie 3 étoiles |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+82. Présence d'assises supplémentaires1 assise par occupant possible de la chambre et comportant au minimum 1 chaise et 1 fauteuil ou banquette en catégorie 3 étoiles1 chaise et 2 fauteuils en catégorie 4 étoiles2 chaises et 2 fauteuils en catégorie 5 étoiles |
+
+O |
+
+|
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+83. Table |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+La table peut être remplacée par un bureau |
+
+84. Table ou desserte supplémentaire |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+85. Porte-bagages |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+Le critère est réputé acquis si le porte-bagages est pliant ou si un meuble ou support présente une fonction équivalente au porte-bagages |
+
+86. MiroirMiroir en pied à partir de la catégorie 2 étoiles |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+87. Minibar |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+88. Corbeille |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+89. Les équipements et mobiliers sont propres et en bon état |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+Téléphonie et communication |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+90. Téléphone dans la chambre avec accès extérieur |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+91. Téléphone avec Sélection directe à l'arrivée |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+92. Chambre équipée d'une prise ADSL ou d'accès WiFi |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+Dans les catégories 4 et 5 étoiles si la technique le permet |
+
+93. Accès internet dans 25 % des chambres au minimum |
+
+O ou N A |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+NA |
+
+NA |
+
+|
+
+94. Accès internet dans toutes les chambres |
+
+X ou O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+Dans les catégories 4 et 5 étoiles: si la technique le permet |
+
+Équipements sécurité des clients |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+95. Coffre-fort dans la chambre |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+96. Judas |
+
+O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+97. Dispositif complémentaire de sécurisation de la chambre |
+
+X on O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+Équipements pour le confort des clients |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+98. Dispositif de réveil |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Indépendant ou service |
+
+99. Chauffage |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Sauf exception justifiée par le climat |
+
+100. Climatisation |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+Dans les catégories 4 et 5 étoiles : avec possibilité de réglage individuel et sauf exception justifiée par le climat |
+
+101. Occultation opaque extérieure (volets roulants, persiennes, etc.) ou intérieure (rideaux, doubles rideaux, etc.) dans chaque chambre |
+
+X |
+
+4 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+102. Confort acoustique : toutes précautions techniques devront être prises pour assurer une isolation suffisante conformément aux règlements régissant la construction |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Conforme au permis de construire et aux règles de construction pour les nouveaux hôtels |
+
+Équipements complémentaires |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+103. Mise à disposition d'un fax et/ou d'une imprimante dans la chambre sur demande |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+104. Mise à disposition d'un ordinateur dans la chambre sur demande |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+105. Valet |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+106. Équipement de repassage individuel |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+107. Nécessaire de correspondance |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+108. Nécessaire à chaussures |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+109. Nécessaire à couture |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+110. Suites ou appartements comprenant une ou deux chambres pouvant être transformées en salons dans 10 % des chambres au minimum |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+111. Existence d'une entrée dans 50 % des chambres au minimum |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Sanitaires privés |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+112. Dans toutes les chambres, sanitaires ainsi équipés : lavabo, eau courante chaude et froide 24 heures sur 24, robinet mélangeur, point lumineux en bon état |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+113. Salles de bain ou de douche particulières équipées de douche ou baignoire, WC et lavabo dans 75 % des chambres dans la catégorie 2 étoiles et 100 % des chambres dans les catégories 3, 4 et 5 étoiles |
+
+X ou NA |
+
+5 |
+
+NA |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+114. Salles de bain ou de douche particulières équipées de douche ou baignoire, WC et lavabo dans 50% des chambres pour la catégorie 1 étoile |
+
+O ou NA |
+
+5 |
+
+O |
+
+NA |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+115. Salles particulières de bain ou de douche équipées de douche ou baignoire, WC et lavabo dans 100 % des chambres pour les catégories 1 et 2 étoiles |
+
+O ou NA |
+
+5 |
+
+O |
+
+O |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+Toilettes séparées de la salle de bains |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+116. WC indépendants de la salle de bains dans 50 % des chambres |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+L'option n'est pas applicable dans le cas d'une salle de bains ouverte sur la chambre car le WC doit être indépendant et fermé L'option est acquise si 100 % des WC sont indépendants et fermés |
+
+117. WC indépendants de la salle de bains dans 100 % des chambres |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+L'option n'est pas applicable dans le cas d'une salle de bains ouverte sur la chambre car le WC doit être indépendant et ferméLes points se cumulent avec la ligne précédente |
+
+Douches et baignoires séparées |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+118. Existence d'une douche et d'une baignoire séparées dans 50 % des chambres. Si la chambre est équipée seulement d'une baignoire, elle doit être alors équipée d'un dispositif de douche |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+119, Existence d'une douche et d'une baignoire séparées dans 100% des chambres |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Les points se cumulent avec la ligne précédente |
+
+Équipements des salles de bains |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+120. 2 points lumineux dont 1 sur lavabo |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+121. 1 prise de courant rasoir |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+122. Sèche-cheveux |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+123. Téléphone dans la salle de bain |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+124. Bidet dans 25% des chambres au minimum |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+125. Fourniture sur demande d'un nécessaire d'hygiène par occupant possible de la chambre |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Le nécessaire d'hygiène comporte au minimum une brosse à dent, un peigne, un rasoir jetable, un produit pour rasage, une protection féminine |
+
+126. Produits d'accueil (savon, gel, shampoing,..) |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+Salles de bains ou de douche communes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+127. Minimum d'une salle de bain ou de douche équipée de douche ou baignoire, WC et lavabo pour 8 chambres en catégorie 1 étoile et pour 4 chambres en catégorie 2 étoiles ne disposant pas de salles de bain ou de douché particulières, avec au minimum une salle par étage |
+
+X ou NA |
+
+3 |
+
+X |
+
+X |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+WC communs |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+128. Minimum d'un WC commun pour 8 chambres en catégorie 1 étoile et pour 4 chambres en catégorie 2 étoiles ne disposant pas de WC, avec 1 au minimum par étage |
+
+X ou NA |
+
+3 |
+
+X |
+
+X |
+
+NA |
+
+NA |
+
+NA |
+
+Le critère est réputé acquis si toutes les chambres sont équipées de WC |
+
+Équipements électrique des salles de bain communes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+129. 1 éclairage central |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+130. 1 prise de courant rasoir |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+ÉQUIPEMENTS SPÉCIFIQUES |
+
+Locaux et équipements spécifiques |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+131. Mise à disposition d'une lingerie réservée aux clients (lave-linge et sèche-linge) |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+132. Mise à disposition du matériel de repassage (fer + table à repasser) |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+133. Local de repassage à disposition des clients |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+134. Machine à cirer les chaussures |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Parkings et garages |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+135. Existence d'un parking privatif |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+136. Existence d'un garage privatif |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+137. Existence d'un parking à vélos |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Services annexes |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+138. Navette privée d'accès à l'hôtel |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+139. Journaux dans les parties communes |
+
+X ou O |
+
+2 |
+
+O |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+Jeux de plein air |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+140. Tennis |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+141. Mini golf |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+142. Espace de jeux pour enfants comportant au moins deux agrès |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Équipements intérieur de divertissement |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+143. Salle de jeux de société intérieure |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+144. Espace de jeux pour enfants comportant un choix de jeux pour tous âges jusqu'à 12 ans |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+145. Présence d'un billard |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Autres équipements |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+146. Existence d'un espace de remise en forme (fitness) propre et en bon état |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Si ces équipements existent, ils doivent être équipés selon les standards minimum admis et répondre aux exigences sanitaires |
+
+147. Existence d'un spa propre et en bon état |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+148. Existence d'une piscine extérieure propre et en bon état |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+149. Existence d'une piscine intérieure propre et en bon état |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+150. Existence d'un business corner propre et en bon état |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+151. Existence d'une salle de réunion pouvant accueillir 15 personnes au minimum, propre et en bon état |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+152. Existence d'une plage privée, propre |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+153. Existence d'un local pour vélos, propre et en bon état |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+154. Existence d'un local pour skis, propre et en bon état |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+Ascenseurs |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+155. 5 niveaux (4 étages) ou plus |
+
+X ou O ou NA |
+
+5 |
+
+O |
+
+X |
+
+NA |
+
+NA |
+
+NA |
+
+|
+
+156. 4 niveaux (3 étages) |
+
+X ou O ou NA |
+
+5 |
+
+O |
+
+O |
+
+X |
+
+NA |
+
+NA |
+
+|
+
+157. 3 niveaux (2 étages) |
+
+X ou O ou NA |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+NA |
+
+|
+
+158. 2 niveaux (1 étage) |
+
+X ou O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+|
+
+159. Monte-charge ou 2e ascenseur |
+
+X ou O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+CHAPITRE 2 : SERVICE AU CLIENT |
+
+QUALITÉ ET FIABILITÉ DE L'INFORMATION CLIENT |
+
+160. Mise à disposition de la présente grille de classement ou de son résumé sur demande |
+
+X |
+
+1 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+161. Existence et utilisation d'un support d'information commerciale au choix |
+
+X ou O |
+
+2 |
+
+O |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+- |
+
+162. Support d'information commerciale dans une langue étrangère |
+
+X ou O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+- |
+
+163. Support d'information commerciale dans deux langues étrangères dont l'anglais |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+Les points se cumulent avec la ligne précédente |
+
+- |
+
+164. Support d'information commerciale dans trois langues étrangères dont l'anglais |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Les points se cumulent avec la ligne précédente |
+
+165. Les informations diffusées sont actualisées et correspondent aux prestations de l'établissement |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+166. Existence d'un site internet en 2 langues |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+dont la langue française |
+
+TRAITEMENT DE LA RÉSERVATION |
+
+167. Réponse dans un délai de 5 sonneries pendant les heures d'ouverture de l'accueil |
+
+O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+168. Existence d'un répondeur qui laisse la possibilité de laisser un message ou d'entendre un message qui présente les heures d'ouverture la réception et les autres informations utiles |
+
+O |
+
+1 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Le critère est réputé acquis si la réservation est possible 24 heures sur 24 et 7 jours sur 7 auprès d'un(e) réceptionniste |
+
+169. Une reformulation des caractéristiques de la réservation est effectuée |
+
+O |
+
+|
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+170. La réservation est toujours possible pendant les heures d'ouverture de la réception |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+171. La réservation est possible 24 heures sur 24 et 7 jours sur 7 qu'elle soit numérique ou orale |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+172. Possibilité de confirmation détaillée de la réservation sur demande par mail, courrier ou fax dans un délai de 24 heures et 7 jours sur 7 |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+RÉCEPTION ET ACCUEIL |
+
+Présence minimale pour l'accueil |
+
+|
+
+|
+
+8h mini/jour |
+
+10h mini/jour |
+
+12h mini/jour |
+
+12h mini/jour< 30 chambres - 24h/24 à partir de 30 chambres |
+
+12h mini/jour< 30 chambres - 24h/24 à partir de 30 chambres |
+
+|
+
+173. Respect de la présence minimale pour l'accueil |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Présence obligatoire 24h/24 à partir de 4 étoiles pour les établissements de plus 30 chambres |
+
+174. Présence à l'accueil 24 heures sur 24 et 7 jours sur 7 |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Ce critère ne concerne pas les hôtels des catégories 4 et 5 étoiles qui ont plus de 30 chambres |
+
+Compétences et services en réception |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+175. Les éléments de la réservation sont reformulés à l'arrivée |
+
+X ou NA |
+
+1 |
+
+NA |
+
+NA |
+
+NA |
+
+X |
+
+X |
+
+Ce critère est noté en NA en l'absence de visite mystère |
+
+176. Le client est informé pour son installation par des indications claires |
+
+X ou NA |
+
+2 |
+
+NA |
+
+NA |
+
+NA |
+
+X |
+
+X |
+
+Ce critère est noté en NA en l'absence de visite mystère |
+
+177. Le client est accompagné dans son installation |
+
+X ou O ou NA |
+
+5 |
+
+NA |
+
+NA |
+
+NA |
+
+O |
+
+X |
+
+Obligatoire sur demande en catégorie 5 étoiles Ce critère est noté en NA en l'absence de visite mystère |
+
+178. Service rendu 24h/24 |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Option applicable pour les 4 et 5 étoiles de moins de 30 chambres |
+
+179. Le personnel est capable d'informer le client sur les offres touristiques dans les alentours |
+
+X ou NA |
+
+4 |
+
+NA |
+
+NA |
+
+NA |
+
+X |
+
+X |
+
+Ce critère est noté en NA en l'absence de visite mystère |
+
+180. Une information sur l'offre touristique locale est accessible et disponible pour le client |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+181. Le personnel doit être aimable à l'accueil et à la prise de congé |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+182. Un service de conciergerie est proposé |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+183. Prise en charge des bagages sur demande du client |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+184. Bagagerie |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+|
+
+185. Un service de voiturier est proposé |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Ce service est obligatoire en catégorie 5 étoiles si l'hôtel ne dispose pas de garage ou de parking privatif |
+
+186. Paiement possible par carte de crédit |
+
+X ou O |
+
+2 |
+
+O |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+187. Possibilité d'effectuer un change de devises |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+188. Mise à disposition d'adaptateur(s) électrique(s) à la réception |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+X |
+
+X |
+
+1 pour 15 chambres au minimum (plafonné à 25) |
+
+189. Mise à disposition d'un ordinateur avec accès internet |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+190. Mise à disposition d'un service de fax à la réception |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+X |
+
+X |
+
+X |
+
+|
+
+191. Mise à disposition d'un questionnaire de satisfaction pour les clients |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+192. Existence d'un système de collecte et de traitement des réclamations reçues dans l'établissement |
+
+X |
+
+5 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+CATÉGORIES |
+
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
+
+Statut du critère |
+
+Points |
+
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
+
+Précisions |
+
+193. Les supports d'information existant dans l'établissement sont traduits en au moins une langue étrangère (anglais au minimum) |
+
+X |
+
+2 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+194. Personnel pratiquant une langue officielle européenne en plus du français |
+
+X ou O |
+
+2 |
+
+O |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+195. Personnel pratiquant deux langues étrangères dont l'anglais |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Les points se cumulent avec la ligne précédente |
+
+196. Personnel pratiquant trois langues étrangères dont l'anglais |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+Les points se cumulent avec la ligne précédente |
+
+197. Le client identifie rapidement les langues parlées par le personnel de l'établissement, soit par un panneau d'information, soit par la mention des langues parlées sur le badge du personnel en contact avec le client |
+
+X |
+
+3 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+|
+
+198. Prise en charge du nettoyage des vêtements |
+
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+CHAMBRES, SALLES DE BAINS ET SANITAIRES |
+
+199. Service couverture |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Obligatoire sur demande en catégorie 5 étoiles |
+
+200. Service de réveil |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Personnalisé à partir de la catégorie 5 étoiles |
+
+201. Service chaussures sur demande |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+SERVICE DE RESTAURATION, PETIT DÉJEUNER, BOISSONS |
+
+Service petit déjeuner |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+202. Petit déjeuner continental servi en salle dans un espace dédié, séparé des flux entrants et sortants des clients et du personnel |
+
+X |
+
+3 |
+
+X |
+
+X |
+
+X |
+
+X |
+
+X |
+
+Le room service est obligatoire en absence de salle de petit déjeuner |
+
+Nombre de gammes minimales de produits au petit déjeuner |
+
+|
+
+|
+
+5 gammes de produit |
+
+7 gammes de produis |
+
+9 gammes de produits |
+
+11 gammes de produits |
+
+13 gammes de produits |
+
+Présence minimale d'un produit par gammeDétail des gammes : boissons chaudes, jus de fruits, fruits frais, charcuterie, plat chaud, produit lacté, céréales, fromage, confiture et beurre, viennoiserie, pain, fruit sec ou compote, produits allégés |
+
+203. Petit déjeuner en buffet ou à la carte respectant le nombre de gammes de produits |
+
+O |
+
+4 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
+|
+
+204. Petit déjeuner en buffet ou à la carte dépassant le seuil de la gamme de produits |
+
+O |
+
+5 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
 |
 
-X
+205. Petit déjeuner servi en terrasse |
 
-(P12)
+O |
 
-|
+2 |
 
-X
+O |
 
-(P13)
+O |
 
-|
+O |
 
-d) Water-closets particuliers en local sanitaire clos (P14) dans :
+O |
 
-|
+O |
 
 |
 
-|
+206. Petit déjeuner pouvant être servi dans les chambres |
 
-|
+X ou O |
 
-|
+4 |
 
-|
+O |
 
-|
+O |
 
-- au moins 20 % des chambres (P10-P11)
+O |
 
-|
+X |
 
+X |
+
 |
 
-x
+Déjeuner |
 
 |
 
@@ -1107,8 +4751,6 @@ x
 |
 
 |
-
-- au moins 40 % des chambres (P10-P11)
 
 |
 
@@ -1116,35 +4758,49 @@ x
 
 |
 
-x
+207. Possibilité de déjeuner à l'hôtel 5 jours sur 7 |
 
-|
+O |
 
-|
+3 |
 
-|
+O |
 
-|
+O |
 
-- au moins 80 % des chambres (P10-P11)
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+208. Possibilité de déjeuner à l'hôtel 7 jours sur 7 |
 
-x
+O |
 
-|
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
 
+O |
+
+Les points se cumulent avec la ligne précédente |
+
+Dîner |
+
 |
 
 |
 
-- au moins 90 % des chambres
+|
 
 |
 
@@ -1156,14 +4812,44 @@ x
 
 |
 
-x
+209. Possibilité de dîner à l'hôtel 5 jours sur 7 |
 
-|
+X ou O |
+
+3 |
+
+O |
+
+O |
 
+O |
+
+O |
+
+X |
+
 |
+
+210. Possibilité de dîner à l'hôtel 7 jours sur 7 |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
 
-- Toutes les chambres
+O |
 
+O |
+
+O |
+
+Les points se cumulent avec la ligne précédente |
+
+Restauration d'appoint |
+
 |
 
 |
@@ -1176,54 +4862,86 @@ x
 
 |
 
-x
+|
 
 |
 
-e) Surface minimale (en m2) des salles de bains ou douches au sens de la disposition D 14 c (D5) (P14)
+211. Possibilité de plateau repas ou "en-cas" en dehors des heures ou des jours d'ouverture du restaurant |
 
-|
+X ou O |
 
-|
+2 |
 
-|
+O |
 
-1,75
+O |
 
-|
+O |
+
+O |
 
-2,5
+X |
 
 |
 
-3
+212. Room Service 19 heures sur 24 |
 
-|
+X ou O |
 
-4
+3 |
 
-|
+O |
 
-15. Sanitaires communs :
+O |
 
-|
+O |
 
-|
+O |
 
-|
+X |
 
-|
+Obligatoire en catégorie 5 étoiles si l'hôtel compte moins de 50 chambres |
 
-|
+CATÉGORIES |
 
-|
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
 
-|
+Statut du critère |
 
-a) Salles de bains ou de douches communes : (P15-D6)
+Points |
 
-|
+1* |
+
+2* |
+
+3* |
+
+4* |
+
+5* |
 
+Précisions |
+
+213. Room Service 24 heures sur 24 |
+
+X ou O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+X |
+
+Obligatoire on catégorie 5 étoiles à partir de 50 chambres dans l'hôtel |
+
+Service boissons |
+
 |
 
 |
@@ -1236,18 +4954,48 @@ a) Salles de bains ou de douches communes : (P15-D6)
 
 |
 
-- une pour trente personnes (ou fraction de cet effectif) logées dans des chambres ne disposant pas de salles de bains ou douches particulières
+|
 
 |
 
-x
+214. Service de boissons, avec au minimum un service de boissons de catégorie 1 pendant les heures d'ouverture de l'accueil |
 
-|
+X ou O |
+
+2 |
+
+O |
+
+O |
 
-x
+X |
 
+X |
+
+X |
+
 |
+
+215. Service de boissons de toutes catégories |
+
+X ou O |
+
+3 |
+
+O |
+
+O |
+
+O |
 
+O |
+
+X |
+
+Obligatoire en catégorie 5 étoiles sous réserve de la législation régissant les licences IV |
+
+Services annexes |
+
 |
 
 |
@@ -1256,7 +5004,7 @@ x
 
 |
 
-- une pour vingt personnes (ou fraction de cet effectif) logées dans des chambres ne disposant pas de salles de bains ou douches particulières
+|
 
 |
 
@@ -1264,490 +5012,590 @@ x
 
 |
 
-x
+216. Soins esthétiques |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-|
+O |
 
-|
+O |
+
+O |
 
-b) Water-closets communs : un pour vingt personnes (ou fraction de cet effectif) dans des chambres ne disposant pas de water-closets privés, avec un minimum d'un par étage
+O |
 
 |
 
-x
+217. Coiffeur |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+218. Possibilité d'animateur en salle de remise en forme |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-c) Deux water-closets communs (dames et messieurs) et deux lavabos au premier ou au deuxième niveau d'exploitation ou en sous-sol (D7)
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-x
+219. Possibilité de massages détentes |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-16. Equipement électrique des chambres : éclairage normal de 15 W/m2 minima répartis en une source principale et en éclairage de tête de lit, par personne théorique (P16)
+O |
 
+O |
+
 |
 
-x
+220. Service de réservation d'activités extérieures |
 
-|
+O |
 
-x
+2 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
+O |
+
 |
 
-x
+221. Service de garderie pour enfants |
 
-|
+O |
 
-x
+5 |
 
-|
+O |
 
-17. Equipement électrique des cabinets de toilette et salles de bains :
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+CHAPITRE 3 : ACCESSIBILITÉ ET DÉVELOPPEMENT DURABLE |
 
-|
+ACCESSIBILITÉ AUX PERSONNES HANDICAPÉES ET/OU À MOBILITÉ RÉDUITE |
 
-|
+222. Informations concernant l'accessibilité sur les supports d'information (guide, web ...) |
 
-- 1 point lumineux de lavabo (75 W)
+X |
 
-|
+2 |
 
-x
+X |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
-x
+X |
 
 |
 
-x
+223. Sensibilisation du personnel à l'accueil des clients en situation de handicap |
 
-|
+X |
 
-x
+3 |
 
-|
+X |
 
-x
+X |
 
-|
+X |
+
+X |
 
-- 1 prise de courant rasoir (l'installation devra être conçue de façon à interdire à toute personne immergée d'atteindre un commutateur ou une prise de courant
+X |
 
 |
 
-x
+224. Formation du personnel à l'accueil des clients en situation de handicap |
 
-|
+O |
 
-x
+5 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+225. Mise à disposition d'une boucle magnétique portative |
 
-|
+O |
 
-x
+2 |
 
-|
+O |
 
-18. Equipement électrique minimum des locaux communs :
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+226. Mise à disposition d'un fauteuil roulant |
 
-|
+O |
 
-|
+2 |
 
-Couloirs et dégagements = 5 W/m2 minima
+O |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
 |
 
-x
+227. Cartes clés avec repères tactiles |
 
-|
+O |
 
-x
+2 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-Locaux communs = 10 W/m2 minima
+228. Mise à disposition de télécommande de télévision à grosses touches et de couleurs contrastées |
 
-|
+O |
 
-x
+1 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+229. Mise à disposition d'un téléphone à grosses touches |
 
-|
+O |
 
-x
+1 |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-E - Service
+O |
 
-|
+O |
 
 |
 
-|
+230. Mise à disposition de réveils lumineux ou vibreurs |
 
-|
+O |
 
-|
+1 |
 
-|
+O |
 
-|
+O |
 
-19. Personnel :
+O |
 
-|
+O |
 
-|
+O |
 
 |
 
-|
+231. Installation de mains courantes dans tous les couloirs |
 
-|
+O |
 
-|
+1 |
 
-|
+O |
 
-Le personnel de réception et du hall doit parler :
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-|
+Sauf risque d'entraver le bon fonctionnement des portes |
 
-|
+ENVIRONNEMENT ET DÉVELOPPEMENT DURABLE |
 
-|
+232. Sensibilisation des collaborateurs à la gestion économe de l'énergie |
 
-|
+X |
 
-- une langue étrangère
+2 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-x
+X |
 
-|
+X |
 
 |
 
-|
+233. Sensibilisation des collaborateurs à la gestion économe de l'eau |
 
-|
+X |
 
-- deux langues étrangères dont l'anglais
+2 |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-|
+X |
 
-x
+X |
 
 |
 
-x
+234. Sensibilisation des collaborateurs à la gestion économe des déchets |
 
-|
+X |
 
-x
+2 |
 
-|
+X |
 
-20. Petit déjeuner (P17)
+X |
 
-|
+X |
+
+X |
 
-x
+X |
 
 |
 
-x
+235. Information des clients sur les actions de l'établissement en matière de développement durable |
 
-|
+O |
 
-x
+3 |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-|
+O |
 
-Petit déjeuner servi dans les chambres
+O |
 
 |
 
-|
+236. Information des clients sur les actions qu'ils peuvent réaliser lors de leur séjour en matière de développement durable |
 
-|
+O |
 
-|
+3 |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
-|
+O |
 
-x
+O |
 
 |
 
-21. Restauration (P18)
+237. Formation à la gestion économe de l'énergie, de l'eau, des déchets |
 
-|
+O |
 
-|
+3 |
 
-|
+O |
 
-|
+O |
 
-|
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+CATÉGORIES |
 
-|
+CRITÈRES DE CLASSEMENT(le cas échéant des précisions sont apportées par critère dans la colonne "Précisions" du tableau) |
 
-F - Accessibilité aux personnes handicapées à mobilité réduite
+Statut du critère |
 
-|
+Points |
 
-|
+1* |
 
-|
+2* |
 
-|
+3* |
 
-|
+4* |
 
-|
+5* |
 
-|
+Précisions |
 
-Application des dispositions du décret n° 78-109 du 1er février 1978 fixant les mesures destinées à rendre accessibles aux personnes handicapées à mobilité réduite les installations neuves ouvertes au public (P19)
+238. Mise en œuvre d'au moins une mesure de réduction de consommation d'énergie |
 
-|
+O |
+
+2 |
+
+O |
+
+O |
 
-x
+O |
 
+O |
+
+O |
+
 |
+
+239. Coupe circuit général dans chacune des chambres |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
 
-x
+O |
 
+O |
+
 |
+
+240. Chambres équipées à 100 % d'ampoules basse consommation |
+
+O |
+
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
 
-x
+O |
 
 |
 
-x
+241. Parties communes ouvertes au publie équipées à 100 % d'ampoules basse consommation |
 
+O |
+
+3 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
 |
+
+242. Mise en œuvre d'au moins une mesure de réduction de consommation d'eau |
 
-x
+O |
 
+2 |
+
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
 |
+
+243. Mise en œuvre d'au moins une mesure de gestion des déchets |
+
+O |
 
-x
+2 |
 
+O |
+
+O |
+
+O |
+
+O |
+
+O |
+
 |
 
-Précisions
+244. Utilisation de produits d'entretien et consommables respectueux de l'environnement |
 
-P1 -Nombre maximum de personnes par chambre : trois (quatre dans 50% des chambres) sous réserve des conditions de surfaces, d'équipement (notamment, un siège mobile par personne) et d'habitabilité.
+O |
 
-P2 -Sauf aux étages où toutes les chambres disposent d'un téléphone.
+|
 
-P3 -Le téléphone intérieur dans les chambres peut être remplacé par un système d'appel pour les hôtels une étoile.
+O |
 
-P4 - Sous réserve des dispositions réglementaires générales ou locales en vigueur sur l'hygiène et la salubrité des habitations, les superficies des sas d'entrée, des placards et des parties mansardées comprises sous une hauteur de plafond d'au moins 1,80 mètre peuvent être prises en compte dans le calcul de la superficie utile minimale des chambres, dans la mesure où elle n'excèdent pas le tiers de la superficie utile réelle de la chambre.
+O |
 
-P5 - Sous réserve des dispositions réglementaires générales ou locales en vigueur sur l'hygiène et la salubrité des habitations, la surface utile minimale exigée est réduite d'un mètre carré en cas de système de régénération d'air ou d‘un mètre carré par personne (au-delà de la deuxième personne) dont le lit est escamotable ou transformable.
+O |
 
-P6 - Les lits superposés sont autorisés pour le troisième et le quatrième couchage dans les hôtels sans étoile, une et deux étoiles. Dans les autres catégories, ils ne le sont, sous réserve des dispositions réglementaires générales ou locales en vigueur sur l'hygiène et la salubrité des habitations, qu'à condition d'être réservés à des enfants et installés dans une pièce séparée ou un espace approprié distinct de la chambre principale.
+O |
 
-P 7 - (Supprimé).
+O |
 
-P 8 - La cloison peut être constituée de matériaux légers, mais rigides, imperméables et résistant au feu. Le local sanitaire doit être pourvu d'une porte, les portes pliantes, coulissantes ou extensibles étant admises.
+|
 
-P9 - Une salle de bains ou de douches particulière est un local doté au moins d'un lavabo, d'une baignoire ou douche et éventuellement d'un water-closet. Il est entièrement clos, si possible en maçonnerie et doté d'un système d'aération (fenêtre ou gaine avec ventilateur éventuellement). Il est pourvu d'une porte, les portes coulissantes ou extensibles étant admises.
+245. Présence de produits d'accueil de salle de bains écologiques |
 
-P10 - Les hôtels classés à la date d'entrée en vigueur du présent arrêté ne sont pas tenus pour être reclassés dans la même catégorie, de satisfaire à ces pourcentages de salles de bains ou douches et de water-closet particuliers, s'ils disposent de salles de bains ou douches, ou de w.-c. et communs, dans une proportion d'un pour 12 personnes logées dans des chambres sans salle de bains ou douches, ou sans w.-c. particuliers.
+O |
 
-P11 - Pour les hôtels classés à la date d'entrée en vigueur du présent arrêté, dans la limite de 20 % du pourcentage minimum requis, pour chaque catégorie, une insuffisance de chambres avec bains ou douches, ou w.-c., est acceptée si l'hôtel dispose d'un supplément, en nombre équivalent, de chambres avec w.-c. dans le premier cas, ou avec bains ou douches dans le second cas.
+3 |
 
-P12 - Dont 50 % au moins avec baignoire et douche.
+O |
 
-P13 - Avec baignoire et douche.
+O |
 
-P14 - Les w.-c. peuvent être installés dans les salles de bains ou de douches particulières sauf pour les chambres à deux, trois ou quatre personnes des hôtels quatre étoiles luxe. Lorsque le water-closet privé est installé dans un local distinct de la salle de bains ou de douches, sa superficie entre dans le calcul de la superficie minimale obligatoire des locaux sanitaires privés prévus au D 14 e.
+O |
 
-P15 - Non exigé quand toutes les chambres sont dotées d'une salle de bains ou de douches particulière.
+O |
 
-P16 - Dans les hôtels trois et quatre étoiles et quatre étoiles luxe, un point lumineux doit assurer l'éclairage de la table. Il doit être possible à partir d'au moins un lit d'éteindre et d'allumer la source principale d'éclairage de la chambre.
+O |
 
-P17 - Une salle doit être disponible pour le service du petit déjeuner si celui-ci n'est pas assuré dans les chambres. Cette salle peut être celle du restaurant ou, à défaut, du salon.
+|
 
-P18 - La forme de restauration existante doit assurer la fourniture de repas, mêmes simples.
+246. Utilisation régulière d'au moins deux produits issus de la production régionale ou du commerce équitable ou de l'agriculture biologique |
 
-P19 - Les dérogations à l'obligation d'accessibilité doivent être instruites par le préfet, après avis de la commission consultative départementale de la protection civile, de la sécurité et de l'accessibilité, au moment de l'instruction du permis de construire.
+O |
 
-Dérogations pouvant être accordées par le préfet après avis de la commission départementale de l'action touristique.
+3 |
 
-D1 - Sous réserve du respect du nombre minimum de chambres, un hôtel classé peut comporter des chambres ne répondant pas aux normes de sa catégorie, dans une proportion de 20 % en catégories sans étoile et une étoile, et 10 % en catégorie deux étoiles. L'arrêté de classement indique qu'elles ne sont pas classés tourisme. Le client en est informé au moment de la location.
+O |
 
-D2 - En cas d'impossibilité technique dûment justifiée, limitation possible à sept chambres.
+O |
 
-D3 - En cas d'impossibilité technique dûment justifiée, dérogation possible.
+O |
 
-D4 - Pour les hôtels de petite capacité, dérogation possible.
+O |
 
-D5 - Sous réserve des dispositions réglementaires générales ou locales en vigueur sur l'hygiène et la salubrité des habitations, cette superficie peut être réduite, dans les hôtels existant à la date de parution du présent arrêté, de 20 % si la somme des superficies de la chambre et du sanitaire privé respecte la somme des superficies de chambre et de sanitaire privé exigées dans la catégorie.
+O |
 
-D6 - Pour les hôtels des autres catégories, dérogation possible pour l'installation de coin de cuisine ou cuisine à condition que celle-ci ne procure aucune gêne aux clients logés dans des chambres ou appartements non pourvus de ces aménagements et qu'elle se limite dans les hôtels construits ou rénovés postérieurement à la date de parution du présent arrêté à certaines parties distinctes et appropriées de l'établissement.
+|
 
-D7 - Le nombre minimum des salles de bains ou de douches, particulières ou communes, pourra être réduit de 30 % dans les établissements des stations thermales.
+NOTA :
 
-D8 - Dans le cas d'hôtels pavillonnaires, réduction possible à un w.-c. et un lavabo commun dans le pavillon d'accueil.
+Arrêté du 29 juin 2009 article 1 : A l'article 1er de l'arrêté du 22 décembre 2008, la date du 1er juillet 2009 est remplacée par celle de 1er octobre 2009.
