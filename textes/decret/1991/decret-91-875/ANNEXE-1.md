@@ -176,7 +176,7 @@ Ingénieurs en chef :
 
 |
 
-Ingénieurs des ponts et chaussées :
+ingénieurs des ponts, des eaux et des forêts :
 
 |
 
@@ -1216,7 +1216,7 @@ Aide opérateur.
 
 |
 
-Adjoint administratif.de 2e classe
+Adjoint administratif. de 2e classe
 
 |
 

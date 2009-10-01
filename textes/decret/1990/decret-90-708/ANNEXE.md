@@ -4,7 +4,7 @@ I. - Liste des corps exclus de l’application des articles 1er et 2
 
 Ministère de l’agriculture et de la forêt
 
-Ingénieurs du génie rural, des eaux et des forêts.
+Ingénieurs des ponts, des eaux et des forêts
 
 Ingénieurs d'agronomie.
 

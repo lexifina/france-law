@@ -34,7 +34,7 @@ Groupe 8
 
 |
 
-Ingénieurs des ponts et chaussées
+ingénieurs des ponts, des eaux et des forêts
 
 |
 
@@ -386,7 +386,7 @@ Hors-catégorie :
 
 |
 
-- agents dont l'indice brut est au moins égal à l'indice brut du 1er échelon d'attaché principal d'administration centrale de 1re classe ;
+-agents dont l'indice brut est au moins égal à l'indice brut du 1er échelon d'attaché principal d'administration centrale de 1re classe ;
 
 |
 
@@ -394,7 +394,7 @@ Groupe 11
 
 |
 
-- autres agents de la hors-catégorie.
+-autres agents de la hors-catégorie.
 
 |
 
@@ -410,7 +410,7 @@ Groupe 13
 
 |
 
-SETRA (cat. A)
+SETRA (cat.A)
 
 |
 
@@ -438,7 +438,7 @@ Groupe 13
 
 |
 
-SETRA (cat. B)
+SETRA (cat.B)
 
 |
 
@@ -462,7 +462,7 @@ Groupe 15
 
 |
 
-CETE (cat. A)
+CETE (cat.A)
 
 |
 
@@ -542,7 +542,7 @@ Groupe 13
 
 |
 
-CETE (cat. B)
+CETE (cat.B)
 
 |
 
