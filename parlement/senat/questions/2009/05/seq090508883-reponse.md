@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508883
+
+- Question : [SEQ090508883](seq090508883.md) — Soupçons  de vol de vélos
+
+## Réponse
+
+*Intérieur, JO du 2009-10-01, page 2307*
+
+Le 19 mai, une personne déposait plainte au bureau de police de Floirac pour le vol d'un vélo, et indiquait qu'un enfant scolarisé dans un établissement de cette commune avait été vu l'utilisant. Les policiers se rendirent aux abords de l'école en compagnie de la victime, qui identifia l'objet volé, ainsi qu'un autre vélo qu'elle indiquait lui avoir également été volé. Les policiers, après avoir attendu la sortie des classes, interrogèrent les jeunes garçons qui les utilisaient sur leur provenance et, devant leurs explications confuses, leur demandèrent de les suivre. Parallèlement, leurs responsables légaux en furent avisés. Un véhicule supplémentaire fut sollicité pour conduire au bureau de police la plaignante et ses deux enfants. Les vélos furent ensuite pris en charge par un troisième équipage. La prise en charge par les policiers de ces jeunes mineurs a suscité une certaine émotion. Tout écart portant atteinte à la déontologie et à l'image de la police nationale étant combattu avec fermeté, une enquête a immédiatement été demandée. Celle-ci a établi que le travail des policiers avait été accompli dans le strict respect du droit et des principes déontologiques, en particulier dans le respect scrupuleux de la protection due à tout mineur. Pour autant, il va de soi qu'il ne saurait être question de traiter des enfants, surtout très jeunes, comme des adultes. L'affaire a, de ce point de vue, été menée avec tact et discernement. Les policiers ont, en particulier, pris soin d'éviter toute intervention directe au sein de l'école. La prise en charge des jeunes garçons s'est faite un peu à l'écart du groupe scolaire. Au total, la retenue de ces enfants aura duré deux heures au plus.
