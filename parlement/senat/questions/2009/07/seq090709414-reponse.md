@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709414
+
+- Question : [SEQ090709414](seq090709414.md) — Plan cancer
+
+## Réponse
+
+*Santé, JO du 2009-10-01, page 2315*
+
+Le rapport d'évaluation du plan cancer 2003-2007 du Haut Conseil de la santé publique (HCSP) a été remis à la ministre chargée de la santé, le 24 février 2009. Cette évaluation avait pour objectif « d'évaluer l'impact du plan qui vient à expiration, afin de permettre de mesurer les avancées réalisées et de dégager les principales orientations du futur plan ». Le HCSP note que le contenu du plan cancer était pertinent et que ses objectifs s'articulaient bien avec les autres politiques de santé publique sur des thématiques proches. Toutefois, le HCSP formule une conclusion contrastée sur les résultats de ce plan et considère que, si certaines mesures relatives à l'observation, la prévention, les dépistages et les soins ont constitué des avancées importantes, d'autres mesures ne produiront des effets qu'au-delà de la période du plan. Les travaux d'élaboration du prochain plan de lutte contre le cancer, dont le rapport d'orientation élaboré par le professeur Jean-Pierre Grünfeld a été remis à la ministre chargée de la santé en février 2009, prennent pleinement compte de l'évaluation remise par le HCSP. En outre, les principales mesures préconisées par ce rapport invitent à mieux observer les cancers, à améliorer la prévention contre les facteurs de risques et l'action sur les déterminants environnementaux et professionnels, à poursuivre la politique de dépistage des cancers, à améliorer la qualité de la prise en charge et à consacrer un effort particulier aux mesures d'accompagnement pendant et après un cancer. Le futur plan cancer en cours d'élaboration fera de la lutte contre les inégalités face au cancer un des axes prioritaires comme l'a préconisé le professeur Grünfeld.
