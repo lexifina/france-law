@@ -302,15 +302,7 @@ Mayenne
 
 |
 
-Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (11)]
-
-|
-
-[Laval
-
-|
-
-Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (12 et 3)]
+Ressort des tribunaux d'instance de Château-Gontier et Laval. (12 et 3)]
 
 |
 
@@ -618,7 +610,7 @@ Nièvre
 
 |
 
-Ressort des tribunaux d'instance de Château-Chinon, Clamecy, Cosne-Cours-sur-Loire et Nevers. (3)]
+Ressort des tribunaux d'instance de Château-Chinon, Clamecy, Cosne-Cours-sur-Loire et Nevers. (9)]
 
 |
 
@@ -626,7 +618,7 @@ Ressort des tribunaux d'instance de Château-Chinon, Clamecy, Cosne-Cours-sur-Lo
 
 |
 
-Ressort des tribunaux d'instance de Clamecy et Nevers. (4)]
+Ressort des tribunaux d'instance de Clamecy et Nevers. (10)]
 
 |
 
@@ -886,7 +878,7 @@ Haute-Marne
 
 |
 
-Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (3)]
+Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (9)]
 
 |
 
@@ -894,7 +886,7 @@ Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (3)]
 
 |
 
-Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (4)]
+Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (10)]
 
 |
 
@@ -1394,7 +1386,7 @@ Aude
 
 |
 
-Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et Narbonne. (3)]
+Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et Narbonne. (9)]
 
 |
 
@@ -1402,7 +1394,7 @@ Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et Narbon
 
 |
 
-Ressort des tribunaux d'instance de Carcassonne et Narbonne. (4)]
+Ressort des tribunaux d'instance de Carcassonne, Limoux et Narbonne. (10 et 3)]
 
 |
 
@@ -1438,7 +1430,7 @@ Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue. 
 
 |
 
-Ressort des tribunaux d'instance d'Espalion et Rodez. (10 et 3)]
+Ressort du tribunal d'instance de Rodez. (10)]
 
 |
 
@@ -3116,7 +3108,7 @@ Ressort du tribunal de Première instance de Mamoudzou.
 
 (2) applicable à compter du 1er janvier 2009.
 
-(3) applicable jusqu'au 31 décembre 2009.
+(3) applicable à compter du 31 décembre 2009.
 
 (4) applicable à compter du 1er janvier 2010.
 

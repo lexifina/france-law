@@ -148,7 +148,7 @@ Champagnole
 
 |
 
-Cantons de Champagnole, Nozeroy et Les Planches-en-Montagne. (3)]
+Cantons de Champagnole, Nozeroy et Les Planches-en-Montagne. (9)]
 
 |
 
@@ -673,6 +673,8 @@ Cantons de Fécamp, Goderville et Valmont. (3)]
 |
 
 (3) applicable jusqu'au 31 décembre 2009.
+
+(9) applicable jusqu'au 30 septembre 2009.
 
 (11) applicable jusqu'au 31 août 2009.
 

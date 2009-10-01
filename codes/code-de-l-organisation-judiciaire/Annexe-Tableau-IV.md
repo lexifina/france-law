@@ -1416,7 +1416,7 @@ Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton, Bou
 
 |
 
-Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Les Aix-d'Angillon, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Vierzon 1er canton et Vierzon 2e canton. (12 et 3)]
+Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton et Vierzon 2e canton. (4)]
 
 |
 
@@ -1424,15 +1424,13 @@ Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bour
 
 |
 
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton et Vierzon 2e canton. (4)]
+Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Les Aix-d'Angillon, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Vierzon 1er canton et Vierzon 2e canton. (12 et 3)]
 
 |
 
-Saint-Amand-Montrond
+Saint-Amand-MontrondCantons |
 
-|
-
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
+de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
 
 |
 
@@ -1508,7 +1506,7 @@ Nevers
 
 |
 
-Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Fours, Luzy, Montsauche-les-Settons et Moulins-Engilbert. (3)]
+Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Fours, Luzy, Montsauche-les-Settons et Moulins-Engilbert. (9)]
 
 |
 
@@ -1516,7 +1514,7 @@ Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Fours, Luzy, Montsauch
 
 |
 
-Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Lormes, Tannay et Varzy. (3)]
+Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Lormes, Tannay et Varzy. (9)]
 
 |
 
@@ -1524,7 +1522,7 @@ Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Lormes, Tannay et Varzy. (3)]
 
 |
 
-Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Donzy, Lormes, Montsauche-les-Settons, Saint-Amand-en-Puisaye, Tannay et Varzy. (4)]
+Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Donzy, Lormes, Montsauche-les-Settons, Saint-Amand-en-Puisaye, Tannay et Varzy. (10)]
 
 |
 
@@ -1532,7 +1530,7 @@ Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Donzy, Lormes, Montsauche-les-
 
 |
 
-Cantons de Cosne-Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Donzy, La Charité-sur-Loire, Pouilly-sur-Loire, Prémery et Saint-Amand-en-Puisaye. (3)]
+Cantons de Cosne-Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Donzy, La Charité-sur-Loire, Pouilly-sur-Loire, Prémery et Saint-Amand-en-Puisaye. (9)]
 
 |
 
@@ -1540,7 +1538,7 @@ Cantons de Cosne-Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Donzy, La Char
 
 |
 
-Cantons de Decize, Dornes, Guérigny, Imphy, La Machine, Nevers Centre, Nevers-Est, Nevers-Nord, Nevers-Sud, Pougues-les-Eaux, Saint-Benin-d'Azy, Saint-Pierre-le-Moûtier et Saint-Saulge. (3)]
+Cantons de Decize, Dornes, Guérigny, Imphy, La Machine, Nevers Centre, Nevers-Est, Nevers-Nord, Nevers-Sud, Pougues-les-Eaux, Saint-Benin-d'Azy, Saint-Pierre-le-Moûtier et Saint-Saulge. (9)]
 
 |
 
@@ -1548,7 +1546,7 @@ Cantons de Decize, Dornes, Guérigny, Imphy, La Machine, Nevers Centre, Nevers-E
 
 |
 
-Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Cosne Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Decize, Dornes, Fours, Guérigny, Imphy, La Charité-sur-Loire, La Machine, Luzy, Moulins-Engilbert, Nevers-Centre, Nevers-Est, Nevers-Nord, Nevers Sud, Pougues-les-Eaux, Pouilly-sur-Loire, Prémery, Saint-Benin d'Azy, Saint-Pierre-le-Moûtier et Saint-Saulge. (4)]
+Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Cosne Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Decize, Dornes, Fours, Guérigny, Imphy, La Charité-sur-Loire, La Machine, Luzy, Moulins-Engilbert, Nevers-Centre, Nevers-Est, Nevers-Nord, Nevers Sud, Pougues-les-Eaux, Pouilly-sur-Loire, Prémery, Saint-Benin d'Azy, Saint-Pierre-le-Moûtier et Saint-Saulge. (10)]
 
 |
 
@@ -2184,7 +2182,7 @@ Chaumont
 
 |
 
-Cantons d'Andelot-Blancheville, Arc-en-Barrois, Bourmont, Châteauvillain, Chaumont-Nord, Chaumont-Sud, Clefmont, Doulaincourt-Saucourt, Juzennecourt, Nogent, Saint-Blin et Vignory. (3)]
+Cantons d'Andelot-Blancheville, Arc-en-Barrois, Bourmont, Châteauvillain, Chaumont-Nord, Chaumont-Sud, Clefmont, Doulaincourt-Saucourt, Juzennecourt, Nogent, Saint-Blin et Vignory. (9)]
 
 |
 
@@ -2192,7 +2190,7 @@ Cantons d'Andelot-Blancheville, Arc-en-Barrois, Bourmont, Châteauvillain, Chaum
 
 |
 
-Cantons d'Andelot-Blancheville, Arc-en-Barrois, Auberive, Bourbonne-les-Bains, Bourmont, Châteauvillain, Chaumont-Nord, Chaumont-Sud, Clelinont, Doulaincourt-Saucourt, Fayl-Billot, Juzennecourt, Laferté-sur-Amance, Langres, Longeau-Percey, Neuilly-l'Évêque, Nogent, Prauthoy, Saint-Blin, Terre-Natale, Val-de-Meuse et Vignory. (4)]
+Cantons d'Andelot-Blancheville, Arc-en-Barrois, Auberive, Bourbonne-les-Bains, Bourmont, Châteauvillain, Chaumont-Nord, Chaumont-Sud, Clefmont, Doulaincourt-Saucourt, Fayl-Billot, Juzennecourt, Laferté-sur-Amance, Langres, Longeau-Percey, Neuilly-l'Évêque, Nogent, Prauthoy, Saint-Blin, Terre-Natale, Val-de-Meuse et Vignory. (10)]
 
 |
 
@@ -2200,7 +2198,7 @@ Cantons d'Andelot-Blancheville, Arc-en-Barrois, Auberive, Bourbonne-les-Bains, B
 
 |
 
-Cantons d'Auberive, Bourbonne-les-Bains, Fayl-Billot, Laferté-sur-Amance, Langres, Longeau-Percey, Neuilly-l'Évêque, Prauthoy, Terre-Natale et Val-de-Meuse. (3)]
+Cantons d'Auberive, Bourbonne-les-Bains, Fayl-Billot, Laferté-sur-Amance, Langres, Longeau-Percey, Neuilly-l'Évêque, Prauthoy, Terre-Natale et Val-de-Meuse. (9)]
 
 |
 
@@ -2244,7 +2242,7 @@ Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon
 
 |
 
-[le Creusot
+[Le Creusot
 
 |
 
@@ -2584,7 +2582,7 @@ Cayenne
 
 |
 
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
+Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
 
 |
 
@@ -3234,7 +3232,7 @@ Carcassonne
 
 |
 
-Cantons d'Alzonne, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, Carcassonne 2e canton-Sud, Carcassonne 3e canton, Conques-sur-Orbiel, Lagrasse, Mas-Cabardès, Montréal, Mouthoumet, Peyriac-Minervois et Saissac. (3)]
+Cantons d'Alzonne, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, Carcassonne 2e canton-Sud, Carcassonne 3e canton, Conques-sur-Orbiel, Lagrasse, Mas-Cabardès, Montréal, Mouthoumet, Peyriac-Minervois et Saissac. (9)]
 
 |
 
@@ -3242,7 +3240,7 @@ Cantons d'Alzonne, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, 
 
 |
 
-Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, Carcassonne 2e canton-Sud, Carcassonne 3e canton, Castelnaudary-Nord, Castelnaudary-Sud, Chalabre, Conques-sur-Orbiel, Couiza, Fanjeaux, Lagrasse, Limoux, Mas-Cabardès, Montréal, Mouthoumet, Peyriac Minervois, Quillan, Saint-Hilaire, Saissac et Salles-sur-l'Hers. (4)]
+Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, Carcassonne 2e canton-Sud, Carcassonne 3e canton, Castelnaudary-Nord, Castelnaudary-Sud, Chalabre, Conques-sur-Orbiel, Couiza, Fanjeaux, Lagrasse, Limoux, Mas-Cabardès, Montréal, Mouthoumet, Peyriac Minervois, Quillan, Saint-Hilaire, Saissac et Salles-sur-l'Hers. (10)]
 
 |
 
@@ -3250,7 +3248,7 @@ Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne 1er ca
 
 |
 
-Cantons de Belpech, Castelnaudary-Nord, Castelnaudary-Sud, Fanjeaux et Salles-sur-l'Hers. (3)]
+Cantons de Belpech, Castelnaudary-Nord, Castelnaudary-Sud, Fanjeaux et Salles-sur-l'Hers. (9)]
 
 |
 
@@ -3314,7 +3312,7 @@ Rodez
 
 |
 
-Cantons d'Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur de-Barrez, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte Geneviève-sur-Argence et Saint-Geniez-d'Olt. (3)]
+Cantons d'Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur de-Barrez, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte Geneviève-sur-Argence et Saint-Geniez-d'Olt. (9)]
 
 |
 
@@ -3338,7 +3336,7 @@ Cantons de Baraqueville-Sauveterre, Bozouls, Cassagnes-Bégonhès, Conques, La S
 
 |
 
-Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare, Cassagnes-Bégonhès, Conques, Decazeville, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac, Rodez-Est, Rodez-Nord, Rodez Ouest, Villefranche-de-Rouergue et Villeneuve. (10et 3)]
+Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare, Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens, Mur-de-Barrez, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac, Rodez-Est, Rodez-Nord, Rodez Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche-de-Rouergue et Villeneuve. (10)]
 
 |
 
@@ -3978,7 +3976,7 @@ Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lan
 
 |
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
 
 |
 
@@ -6112,7 +6110,7 @@ Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
 Monclar-de-Quercy, Montauban, 1er canton, Montauban
 
-2e canton, Montauban 3ème canton, Montauban 4e canton,
+2e canton, Montauban 3e canton, Montauban 4e canton,
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)
 
