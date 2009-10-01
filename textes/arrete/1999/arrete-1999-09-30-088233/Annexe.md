@@ -28,23 +28,27 @@ NOMBRE d'emplois par unité
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1991 et à 20 points à compter du 1er août 1992
+OBSERVATIONS
 
 |
 
-Adjoint au chef de bureau, de service, ou de centre en organisme ministériel ou interarmées.
+Emplois ouvrant droit à 20 points
 
 |
 
-4
+Adjoint à un chef de bureau, de service, ou de centre en organisme ministériel ou interarmées (officier)
 
 |
 
-Adjoint militaire au chef d'état-major du centre interrégional de coordination de la sécurité civile de la zone de défense nord-est.
+6
 
 |
 
-Etat-major du centre interrégional de coordination de la sécurité civile de la zone de défense nord-est.
+Adjoint militaire au chef d'état-major de la zone de défense Nord-Est
+
+|
+
+Etat-major de la zone de défense Nord-Est
 
 |
 
@@ -56,11 +60,13 @@ Metz
 
 |
 
-Adjoint militaire au chef d'état-major du centre interrégional de coordination de la sécurité civile de la zone de défense sud-est.
+|
+
+Adjoint militaire au chef d'état-major de la zone de défense Sud-Est
 
 |
 
-Etat-major du centre interrégional de coordination de la sécurité civile de la zone de défense sud-est.
+Etat-major de la zone de défense Sud-Est
 
 |
 
@@ -72,11 +78,13 @@ Lyon
 
 |
 
-Adjoint militaire au chef d'état-major du centre interrégional de coordination de la sécurité civile de la zone de défense nord-ouest.
+|
+
+Adjoint militaire au chef d'état-major de la zone de défense Nord-Ouest
 
 |
 
-Etat-major du centre interrégional de coordination de la sécurité civile de la zone de défense nord-ouest.
+Etat-major de la zone de défense Nord-Ouest
 
 |
 
@@ -88,11 +96,13 @@ Rennes
 
 |
 
-Adjoint militaire au chef d'état-major du centre interrégional de coordination de la sécurité civile de la zone de défense sud-ouest.
+|
+
+Adjoint militaire au chef d'état-major de la zone de défense Sud-Ouest
 
 |
 
-Etat-major du centre interrégiorial de coordination de la sécurité civile de la zone de défense sud-ouest.
+Etat-major de la zone de défense Sud-Ouest
 
 |
 
@@ -104,7 +114,45 @@ Bordeaux
 
 |
 
-Fonctions relevant de l'armée de terre (tranches 1991, 1992 et 1993)
+|
+
+Adjoint militaire au chef d'état-major de la zone de défense Nord
+
+|
+
+Etat-major de la zone de défense Nord
+
+|
+
+Lille
+
+|
+
+1
+
+|
+
+|
+
+Adjoint militaire au chef d'état-major de la zone de défense Sud
+
+|
+
+Etat-major de la zone de défense Sud
+
+|
+
+Valabre
+
+|
+
+1
+
+|
+
+|
+
+Fonctions relevant de l'armée de terre
 
 DÉSIGNATION
 
@@ -132,45 +180,27 @@ NOMBRE d'emplois par unité
 
 |
 
-Emplois ouvrant droit à 25 points à compter du 1er août 1991 et à 50 points à compter du 1er août 1992
+OBSERVATIONS
 
 |
 
-Chef de corps de 1er niveau et assimilé (officier).
+Emplois ouvrant droit à 50 points
 
 |
 
-3
+Chef de corps de 1er niveau et assimilé (officier)
 
 |
 
-Chef de corps de 1er niveau exerçant son commandement sur une formation engerbant plus de deux unités élémentaires.
+4
 
 |
 
-UIISC 1.
-
-UIISC 7.
+Commandant des formations militaires
 
 |
 
-Nogent-le-Rotrou
-
-Brignoles
-
-|
-
-1
-
-1
-
-|
-
-Chef d'état-major et chef de corps du COMFORMISC.
-
-|
-
-Etat-major du COMFORMISC.
+Etat-major du COMFORMISC
 
 |
 
@@ -182,45 +212,13 @@ Asnières-sur-Seine
 
 |
 
-Emplois ouvrant droit à 15 points à compter du 1er août 1991 et à 30 points à compter du 1er août 1992
+|
+
+Chef d'état-major, chef de corps du COMFORMISC
 
 |
 
-Chef de corps de 2e niveau et assimilé (officier).
-
-|
-
-6
-
-|
-
-Chef de corps de 2e niveau exerçant son commandement sur une formation engerbant deux unités élémentaires ou moins.
-
-|
-
-UIISC 4.
-
-UIISC 5.
-
-|
-
-Rochefort
-
-Corté
-
-|
-
-1
-
-1
-
-|
-
-Chef de bureau à l'état-major du COMFORMISC.
-
-|
-
-Etat-major du COMFORMISC.
+Etat-major du COMFORMISC
 
 |
 
@@ -228,163 +226,33 @@ Asnières-sur-Seine
 
 |
 
-4
+1
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1991 et à 20 points à compter du 1er août 1992
+|
+
+Chef de corps de 1er niveau exerçant son commandement sur une formation engerbant plus de 2 unités élémentaires.
 
 |
 
-Commandant d'unité élémentaire d'intervention (officier).
-
-|
-
-6
-
-|
-
-Commandement d'unité élémentaire d'intervention de la sécurité civile.
-
-|
-
-UIISC 1.
-
-UIISC 4.
-
-UIISC 5.
-
-UIISC 7.
+UIISC 1
 
 |
 
 Nogent-le-Rotrou
 
-Rochefort
-
-Corté
-
-Brignoles
-
-|
-
-2
-
-1
-
-1
-
-2
-
-|
-
-Emplois ouvrant droit à 5 points à compter du 1er août 1991 et à 10 points à compter du 1er août 1992
-
-|
-
-Chef de section en unité élémentaire d'intervention (officier et sous-officier).
-
-|
-
-26
-
-|
-
-Chef de section en unité élémentaire d'intervention de la sécurité civile.
-
-|
-
-UIISC 1.
-
-UIISC 4.
-
-UIISC 5.
-
-UIISC 7.
-
-|
-
-Nogent-le-Rotrou
-
-Rochefort
-
-Corté
-
-Brignoles
-
-|
-
-9
-
-4
-
-5
-
-8
-
-|
-
-Emplois ouvrant droit à 20 points à compter du 1er août 1993
-
-|
-
-Commandant d'unité élémentaire d'instruction (officier).
-
-|
-
-2
-
-|
-
-Commandant d'unité élémentaire d'instruction de la sécurité civile.
-
-|
-
-UIISC 1.
-
-UIISC 4.
-
-|
-
-Nogent-le-Rotrou
-
-Rochefort
-
 |
 
 1
 
-1
+|
 
 |
 
-Commandant d'unité élémentaire de commandement et de soutien (officier).
+UIISC 7
 
 |
-
-4
-
-|
-
-Commandant d'unité élémentaire de commandement et de soutien de la sécurité civile.
-
-|
-
-UIISC 1.
-
-UIISC 4.
-
-UIISC 5.
-
-UIISC 7.
-
-|
-
-Nogent-le-Rotrou
-
-Rochefort
-
-Corté
 
 Brignoles
 
@@ -392,61 +260,237 @@ Brignoles
 
 1
 
+|
+
+|
+
+Emplois ouvrant droit à 30 points
+
+|
+
+Chef de corps de 2e niveau et assimilé (officier)
+
+|
+
+2
+
+|
+
+Chef de corps de 2e niveau exerçant son commandement sur une formation engerbant 2 unités élémentaires au moins.
+
+|
+
+UIISC 5
+
+|
+
+Corte
+
+|
+
 1
 
+|
+
+|
+
+Chef d'état-major de la zone Antilles ou adjoint militaire du chef d'état-major de la zone Antilles
+
+|
+
+Etat-major de la zone Antilles
+
+|
+
+Fort-de-France
+
+|
+
 1
 
+|
+
+|
+
+Chef de bureau en administration centrale ou en organisme ministériel (officier)
+
+|
+
+7
+
+|
+
+Colonel adjoint au commandant des formations militaires
+
+|
+
+Etat-major du COMFORMISC
+
+|
+
+Asnières-sur-Seine
+
+|
+
 1
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1993
+|
+
+Chef de bureau préparation opérationnelle
 
 |
 
-Chef de section en unité élémentaire.
+Etat-major du COMFORMISC
 
 |
 
-14
+Asnières-sur-Seine
 
 |
 
-Chef de section en unité élémentaire d'instruction de la sécurité civile.
+1
 
 |
 
-UIISC 1.
+|
 
-UIISC 4.
+Chef de bureau pilotage synthèse
 
-UIISC 5.
+|
 
-UIISC 7.
+Etat-major du COMFORMISC
+
+|
+
+Asnières-sur-Seine
+
+|
+
+1
+
+|
+
+|
+
+Chef de bureau planification finances
+
+|
+
+Etat-major du COMFORMISC
+
+|
+
+Asnières-sur-Seine
+
+|
+
+1
+
+|
+
+|
+
+Chef de bureau soutien
+
+|
+
+Etat-major du COMFORMISC
+
+|
+
+Asnières-sur-Seine
+
+|
+
+1
+
+|
+
+|
+
+Chef de bureau organisation-effectifs
+
+|
+
+Etat-major du COMFORMISC
+
+|
+
+Asnières-sur-Seine
+
+|
+
+1
+
+|
+
+|
+
+Chef du centre opérationnel de gestion interministérielle des crises
+
+|
+
+Direction de la sécurité civile
+
+|
+
+Asnières-sur-Seine
+
+|
+
+1
+
+|
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Commandant en second dans une formation (officier)
+
+|
+
+2
+
+|
+
+Commandant en second
+
+|
+
+UIISC 1
 
 |
 
 Nogent-le-Rotrou
 
-Rochefort
+|
 
-Corté
+1
+
+|
+
+|
+
+UIISC 7
+
+|
 
 Brignoles
 
 |
 
-5
-
-2
-
-2
-
-5
+1
 
 |
 
-Chef de section en unité élémentaire.
+|
+
+Chef de service et chef du bureau "opérations" dans une formation (officier)
 
 |
 
@@ -454,45 +498,365 @@ Chef de section en unité élémentaire.
 
 |
 
-Chef de section en unité élémentaire de commandement et de soutien.
+Chef des services administratifs et financiers
 
 |
 
-UIISC 1.
-
-UIISC 4.
-
-UIISC 5.
-
-UIISC 7.
+UIISC 1
 
 |
 
 Nogent-le-Rotrou
 
-Rochefort
+|
 
-Corté
+1
+
+|
+
+|
+
+UIISC 5
+
+|
+
+Corte
+
+|
+
+1
+
+|
+
+|
+
+UIISC 7
+
+|
 
 Brignoles
 
 |
 
-3
+1
+
+|
+
+|
+
+Chef des services techniques
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
 
 1
 
+|
+
+|
+
+UIISC 5
+
+|
+
+Corte
+
+|
+
 1
+
+|
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+1
+
+|
+
+|
+
+Chef de bureau opérations instruction
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
+
+1
+
+|
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+1
+
+|
+
+|
+
+Chef de bureau personnels
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
+
+1
+
+|
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+1
+
+|
+
+|
+
+Emplois ouvrant droit à 20 points
+
+|
+
+Commandant d'unité élémentaire (officier)
+
+|
+
+11
+
+|
+
+Commandant de compagnie intervention FPS
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
 
 4
 
 |
 
-Chef du centre de transmission de la sécurité civile.
+|
+
+Commandant d'unité commandement et logistique
 
 |
 
-Direction de la défense et de la sécurité civiles.
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
+
+1
+
+|
+
+|
+
+Commandant de compagnie intervention FPS
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+4
+
+|
+
+|
+
+Commandant d'unité commandement et logistique
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+1
+
+|
+
+|
+
+Commandant de compagnie intervention FPS
+
+|
+
+UIISC 5
+
+|
+
+Corte
+
+|
+
+1
+
+|
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Chef de section en unité élémentaire (officier ou sous-officier)
+
+|
+
+37
+
+|
+
+Chef de section inter FPS
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
+
+17
+
+|
+
+|
+
+Chef de section inter FPS
+
+|
+
+UIISC 5
+
+|
+
+Corte
+
+|
+
+3
+
+|
+
+|
+
+Chef de section inter FPS
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+16
+
+|
+
+|
+
+Chef de section travaux
+
+|
+
+UIISC 7
+
+|
+
+Brignoles
+
+|
+
+1
+
+|
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Chef de détachement, chef de centre spécialisé, chef de district (officier ou sous-officier)
+
+|
+
+1
+
+|
+
+Chef du centre de transmissions de la direction de la sécurité civile
+
+|
+
+Direction de la sécurité civile
 
 |
 
@@ -504,11 +868,43 @@ Asnières-sur-Seine
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1993
+|
+
+Emplois ouvrant droit à 10 points
 
 |
 
-Officier d'ordinaire (officier et sous-officier).
+Directeur de service restauration loisirs (officier ou sous-officier)
+
+|
+
+1
+
+|
+
+Directeur de cercle-mess
+
+|
+
+UIISC 1
+
+|
+
+Nogent-le-Rotrou
+
+|
+
+1
+
+|
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Responsable de restauration (officier ou sous-officier)
 
 |
 
@@ -516,37 +912,57 @@ Officier d'ordinaire (officier et sous-officier).
 
 |
 
-Officier d'ordinaire.
+Gérant d'activité restauration
 
 |
 
-UIISC 1.
+UIISC 5
 
-UIISC 4.
+|
 
-UIISC 5.
+Corte
 
-UIISC 7.
+|
+
+1
+
+|
+
+|
+
+Gérant d'activité restauration
+
+|
+
+UIISC 1
 
 |
 
 Nogent-le-Rotrou
 
-Rochefort
+|
 
-Corté
+1
+
+|
+
+|
+
+Gérant d'activité restauration
+
+|
+
+UIISC 7
+
+|
 
 Brignoles
 
 |
 
-1
+2
 
-1
-
-1
-
-1
+|
 
 |
 
