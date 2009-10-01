@@ -1,0 +1,1643 @@
+# Article Annexe
+
+INDEMNITÉS SUPPLÉMENTAIRES MENSUELS EN EUROS
+
+PAYS
+
+|
+
+MONTANTS
+
+|
+
+AFGHANISTAN
+
+|
+
+2 026,44 €
+
+|
+
+AFRIQUE DU SUD (AUTRES VILLES)
+
+|
+
+945,24 €
+
+|
+
+AFRIQUE DU SUD (JOHANNESBURG)
+
+|
+
+1 026,99 €
+
+|
+
+ALBANIE
+
+|
+
+1 569,56 €
+
+|
+
+ALGÉRIE
+
+|
+
+1 305,70 €
+
+|
+
+ALLEMAGNE
+
+|
+
+1 104,28 €
+
+|
+
+ANDORRE
+
+|
+
+902,79 €
+
+|
+
+ANGOLA
+
+|
+
+2 236,36 €
+
+|
+
+ANTIGUA ET BARBUDA
+
+|
+
+1 534,92 €
+
+|
+
+ARABIE SAOUDITE
+
+|
+
+1 288,95 €
+
+|
+
+ARGENTINE
+
+|
+
+777,55 €
+
+|
+
+ARMÉNIE
+
+|
+
+1 428,75 €
+
+|
+
+AUSTRALIE
+
+|
+
+1 254,74 €
+
+|
+
+AUTRICHE
+
+|
+
+1 064,12 €
+
+|
+
+AZERBAÏDJAN
+
+|
+
+1 619,00 €
+
+|
+
+BAHAMAS
+
+|
+
+1 021,06 €
+
+|
+
+BAHREÏN
+
+|
+
+1 128,94 €
+
+|
+
+BANGLADESH
+
+|
+
+1 156,45 €
+
+|
+
+BARBADE
+
+|
+
+1 192,97 €
+
+|
+
+BÉLARUS
+
+|
+
+1 099,81 €
+
+|
+
+BELGIQUE
+
+|
+
+943,38 €
+
+|
+
+BÉLIZE
+
+|
+
+832,59 €
+
+|
+
+BÉNIN
+
+|
+
+1 122,88 €
+
+|
+
+BHOUTAN
+
+|
+
+1 234,11 €
+
+|
+
+BIRMANIE
+
+|
+
+1 379,14 €
+
+|
+
+BOLIVIE
+
+|
+
+1 068,08 €
+
+|
+
+BOSNIE-HERZÉGOVINE
+
+|
+
+1 021,84 €
+
+|
+
+BOTSWANA
+
+|
+
+769,02 €
+
+|
+
+BRÉSIL (AUTRES VILLES)
+
+|
+
+1 029,21 €
+
+|
+
+BRÉSIL (RIO DE JANEIRO)
+
+|
+
+1 253,30 €
+
+|
+
+BRÉSIL (SAO PAULO)
+
+|
+
+1 282,96 €
+
+|
+
+BRUNEI
+
+|
+
+1 040,03 €
+
+|
+
+BULGARIE
+
+|
+
+949,11 €
+
+|
+
+BURKINA
+
+|
+
+1 045,45 €
+
+|
+
+BURUNDI
+
+|
+
+1 350,14 €
+
+|
+
+CAMBODGE
+
+|
+
+991,56 €
+
+|
+
+CAMEROUN
+
+|
+
+1 346,22 €
+
+|
+
+CANADA (ANGLOPHONE)
+
+|
+
+1 164,25 €
+
+|
+
+CANADA (FRANCOPHONE)
+
+|
+
+1 014,44 €
+
+|
+
+CAP-VERT
+
+|
+
+1 239,43 €
+
+|
+
+CENTRAFRICAINE (RÉP.)
+
+|
+
+1 430,61 €
+
+|
+
+CHILI
+
+|
+
+729,18 €
+
+|
+
+CHINE (AUTRES VILLES)
+
+|
+
+1 102,64 €
+
+|
+
+CHINE (HONG KONG)
+
+|
+
+1 403,48 €
+
+|
+
+CHINE (PÉKIN)
+
+|
+
+1 246,73 €
+
+|
+
+CHINE (SHANGHAI)
+
+|
+
+1 196,60 €
+
+|
+
+CHYPRE
+
+|
+
+729,56 €
+
+|
+
+COLOMBIE
+
+|
+
+1 110,51 €
+
+|
+
+COMORES
+
+|
+
+1 442,99 €
+
+|
+
+CONGO
+
+|
+
+1 565,37 €
+
+|
+
+CONGO (RÉP. DEMOCRAT.)
+
+|
+
+1 519,71 €
+
+|
+
+CORÉE
+
+|
+
+1 389,44 €
+
+|
+
+COSTA RICA
+
+|
+
+881,41 €
+
+|
+
+CÔTE D'IVOIRE
+
+|
+
+1 548,78 €
+
+|
+
+CROATIE
+
+|
+
+824,31 €
+
+|
+
+CUBA
+
+|
+
+1 320,85 €
+
+|
+
+DANEMARK
+
+|
+
+1 328,54 €
+
+|
+
+DJIBOUTI
+
+|
+
+1 284,67 €
+
+|
+
+DOMINICAINE (RÉP.)
+
+|
+
+1 076,46 €
+
+|
+
+DOMINIQUE (ÎLE DE LA)
+
+|
+
+1 038,81 €
+
+|
+
+ÉGYPTE
+
+|
+
+1 080,76 €
+
+|
+
+EL SALVADOR
+
+|
+
+1 214,41 €
+
+|
+
+ÉMIRATS ARABES UNIS (ABOU DHABI)
+
+|
+
+1 361,86 €
+
+|
+
+ÉMIRATS ARABES UNIS (DUBAI-ÉMIRATS DU NORD)
+
+|
+
+1 550,88 €
+
+|
+
+ÉQUATEUR
+
+|
+
+904,92 €
+
+|
+
+ÉRYTHRÉE
+
+|
+
+1 427,28 €
+
+|
+
+ESPAGNE
+
+|
+
+960,89 €
+
+|
+
+ESTONIE
+
+|
+
+1 100,74 €
+
+|
+
+ÉTATS-UNIS (CALIFORNIA)
+
+|
+
+1 609,04 €
+
+|
+
+ÉTATS-UNIS (MIAMI, WASH., BOSTON, CHICAGO)
+
+|
+
+1 562,30 €
+
+|
+
+ÉTATS-UNIS (N.Y. METROPOLITAN)
+
+|
+
+2 167,05 €
+
+|
+
+ÉTATS-UNIS (AUTRES)
+
+|
+
+1 412,78 €
+
+|
+
+ÉTATS-UNIS (NEW YORK DOWNTOWN)
+
+|
+
+2 167,05 €
+
+|
+
+ÉTHIOPIE
+
+|
+
+1 182,38 €
+
+|
+
+FIDJI
+
+|
+
+982,82 €
+
+|
+
+FINLANDE
+
+|
+
+1 187,16 €
+
+|
+
+GABON
+
+|
+
+1 340,72 €
+
+|
+
+GAMBIE
+
+|
+
+917,65 €
+
+|
+
+GÉORGIE
+
+|
+
+1 235,34 €
+
+|
+
+GHANA
+
+|
+
+953,22 €
+
+|
+
+GRÈCE
+
+|
+
+1 057,38 €
+
+|
+
+GRENADE
+
+|
+
+1 074,93 €
+
+|
+
+GUATEMALA
+
+|
+
+1 132,57 €
+
+|
+
+GUINÉE
+
+|
+
+1 596,13 €
+
+|
+
+GUINÉE ÉQUATORIALE
+
+|
+
+1 650,73 €
+
+|
+
+GUINÉE-BISSAO
+
+|
+
+1 644,79 €
+
+|
+
+GUYANA
+
+|
+
+1 247,82 €
+
+|
+
+HAÏTI
+
+|
+
+1 361,75 €
+
+|
+
+HONDURAS
+
+|
+
+1 352,30 €
+
+|
+
+HONGRIE
+
+|
+
+915,15 €
+
+|
+
+INDE (NEW DELHI)
+
+|
+
+1 410,08 €
+
+|
+
+INDE (BANGALORE, AUTRES VILLES)
+
+|
+
+1 049,48 €
+
+|
+
+INDE (BOMBAY)
+
+|
+
+1 328,98 €
+
+|
+
+INDONÉSIE
+
+|
+
+1 284,68 €
+
+|
+
+IRAK
+
+|
+
+1 760,22 €
+
+|
+
+IRAN
+
+|
+
+1 670,30 €
+
+|
+
+IRLANDE
+
+|
+
+1 076,44 €
+
+|
+
+ISLANDE
+
+|
+
+899,83 €
+
+|
+
+ISRAËL
+
+|
+
+1 142,63 €
+
+|
+
+ITALIE
+
+|
+
+1 171,51 €
+
+|
+
+JAMAÏQUE
+
+|
+
+862,78 €
+
+|
+
+JAPON (AUTRES VILLES)
+
+|
+
+1 762,03 €
+
+|
+
+JAPON (TOKYO)
+
+|
+
+2 531,16 €
+
+|
+
+JÉRUSALEM
+
+|
+
+1 087,88 €
+
+|
+
+JORDANIE
+
+|
+
+1 035,79 €
+
+|
+
+KAZAKHSTAN
+
+|
+
+1 640,54 €
+
+|
+
+KENYA
+
+|
+
+930,84 €
+
+|
+
+KIRGHIZISTAN
+
+|
+
+1 403,75 €
+
+|
+
+KOSOVO
+
+|
+
+1 169,43 €
+
+|
+
+KOWEÏT
+
+|
+
+1 415,27 €
+
+|
+
+LAOS
+
+|
+
+1 215,60 €
+
+|
+
+LESOTHO
+
+|
+
+1 148,35 €
+
+|
+
+LETTONIE
+
+|
+
+1 147,60 €
+
+|
+
+LIBAN
+
+|
+
+1 414,98 €
+
+|
+
+LIBERIA
+
+|
+
+2 012,25 €
+
+|
+
+LIBYE
+
+|
+
+1 283,45 €
+
+|
+
+LITUANIE
+
+|
+
+1 215,32 €
+
+|
+
+LUXEMBOURG
+
+|
+
+1 058,32 €
+
+|
+
+MACAO
+
+|
+
+1 372,78 €
+
+|
+
+MACÉDOINE
+
+|
+
+997,38 €
+
+|
+
+MADAGASCAR
+
+|
+
+1 020,56 €
+
+|
+
+MALAISIE
+
+|
+
+976,75 €
+
+|
+
+MALAWI
+
+|
+
+1 079,32 €
+
+|
+
+MALDIVES (ÎLES)
+
+|
+
+1 400,03 €
+
+|
+
+MALI
+
+|
+
+1 155,94 €
+
+|
+
+MALTE
+
+|
+
+648,70 €
+
+|
+
+MAROC
+
+|
+
+883,55 €
+
+|
+
+MAURICE
+
+|
+
+581,62 €
+
+|
+
+MAURITANIE
+
+|
+
+1 077,02 €
+
+|
+
+MEXIQUE
+
+|
+
+987,03 €
+
+|
+
+MOLDAVIE
+
+|
+
+1 200,97 €
+
+|
+
+MONACO
+
+|
+
+816,51 €
+
+|
+
+MONGOLIE
+
+|
+
+1 269,44 €
+
+|
+
+MONTÉNÉGRO
+
+|
+
+1 184,10 €
+
+|
+
+MOZAMBIQUE
+
+|
+
+1 133,96 €
+
+|
+
+NAMIBIE
+
+|
+
+742,20 €
+
+|
+
+NÉPAL
+
+|
+
+1 298,93 €
+
+|
+
+NICARAGUA
+
+|
+
+926,80 €
+
+|
+
+NIGER
+
+|
+
+1 103,05 €
+
+|
+
+NIGÉRIA
+
+|
+
+1 895,16 €
+
+|
+
+NORVÈGE
+
+|
+
+1 070,26 €
+
+|
+
+NOUVELLE-ZÉLANDE
+
+|
+
+985,06 €
+
+|
+
+OMAN
+
+|
+
+1 286,08 €
+
+|
+
+OUGANDA
+
+|
+
+1 037,56 €
+
+|
+
+OUZBÉKISTAN
+
+|
+
+1 257,95 €
+
+|
+
+PAKISTAN
+
+|
+
+1 175,00 €
+
+|
+
+PANAMA
+
+|
+
+850,51 €
+
+|
+
+PAPOUASIE-NLE-GUINÉE
+
+|
+
+1 448,06 €
+
+|
+
+PARAGUAY
+
+|
+
+819,65 €
+
+|
+
+PAYS-BAS
+
+|
+
+1 153,52 €
+
+|
+
+PÉROU
+
+|
+
+932,34 €
+
+|
+
+PHILIPPINES
+
+|
+
+976,78 €
+
+|
+
+POLOGNE
+
+|
+
+967,08 €
+
+|
+
+PORTUGAL
+
+|
+
+1 044,68 €
+
+|
+
+QATAR
+
+|
+
+1 584,03 €
+
+|
+
+RÉPUBLIQUE TCHÈQUE
+
+|
+
+964,20 €
+
+|
+
+ROUMANIE
+
+|
+
+1 080,19 €
+
+|
+
+ROYAUME-UNI (AUTRES VILLES)
+
+|
+
+694,53 €
+
+|
+
+ROYAUME-UNI (IRLANDE DU NORD)
+
+|
+
+834,79 €
+
+|
+
+ROYAUME-UNI (LONDRES METROPOLITAN)
+
+|
+
+1 000,00 €
+
+|
+
+ROYAUME-UNI (GRAND LONDRES)
+
+|
+
+1 145,28 €
+
+|
+
+RUSSIE (AUTRES VILLES)
+
+|
+
+1 167,87 €
+
+|
+
+RUSSIE (MOSCOU)
+
+|
+
+1 570,54 €
+
+|
+
+RWANDA
+
+|
+
+1 020,75 €
+
+|
+
+SAO TOMÉ-ET-PRINCIPE
+
+|
+
+2 034,93 €
+
+|
+
+SÉNÉGAL
+
+|
+
+1 081,54 €
+
+|
+
+SERBIE
+
+|
+
+1 042,97 €
+
+|
+
+SEYCHELLES (ILES)
+
+|
+
+722,11 €
+
+|
+
+SIERRA LEONE
+
+|
+
+1 739,47 €
+
+|
+
+SINGAPOUR
+
+|
+
+1 441,10 €
+
+|
+
+SLOVAQUIE
+
+|
+
+1 072,93 €
+
+|
+
+SLOVÉNIE
+
+|
+
+896,40 €
+
+|
+
+SOMALIE
+
+|
+
+1 319,82 €
+
+|
+
+SOUDAN
+
+|
+
+1 606,14 €
+
+|
+
+SRI LANKA
+
+|
+
+1 066,44 €
+
+|
+
+SAINTE-LUCIE
+
+|
+
+999,73 €
+
+|
+
+SAINT-KITTS-ET-NEVIS
+
+|
+
+1 082,10 €
+
+|
+
+SAINT-SIÈGE
+
+|
+
+1 091,20 €
+
+|
+
+SAINT-VINCENT
+
+|
+
+1 097,58 €
+
+|
+
+SUÈDE
+
+|
+
+942,26 €
+
+|
+
+SUISSE
+
+|
+
+1 390,67 €
+
+|
+
+SURINAM
+
+|
+
+1 061,66 €
+
+|
+
+SWAZILAND
+
+|
+
+1 139,53 €
+
+|
+
+SYRIE
+
+|
+
+1 543,60 €
+
+|
+
+TADJIKISTAN
+
+|
+
+1 332,90 €
+
+|
+
+TAÏWAN
+
+|
+
+978,61 €
+
+|
+
+TANZANIE
+
+|
+
+950,04 €
+
+|
+
+TCHAD
+
+|
+
+1 714,11 €
+
+|
+
+THAÏLANDE
+
+|
+
+1 182,37 €
+
+|
+
+TOGO
+
+|
+
+978,48 €
+
+|
+
+TRINITÉ-ET-TOBAGO
+
+|
+
+1 194,94 €
+
+|
+
+TUNISIE
+
+|
+
+512,96 €
+
+|
+
+TURKMENISTAN
+
+|
+
+1 714,70 €
+
+|
+
+TURQUIE (AUTRES VILLES)
+
+|
+
+860,28 €
+
+|
+
+TURQUIE (ISTANBUL)
+
+|
+
+1 052,72 €
+
+|
+
+UKRAINE
+
+|
+
+1 198,05 €
+
+|
+
+URUGUAY
+
+|
+
+769,79 €
+
+|
+
+VANUATU ET AUTRES ÉTATS DU PACIFIQUE
+
+|
+
+1 002,39 €
+
+|
+
+VENEZUELA
+
+|
+
+2 205,31 €
+
+|
+
+VIETNAM
+
+|
+
+1 042,76 €
+
+|
+
+YÉMEN
+
+|
+
+1 106,46 €
+
+|
+
+YÉMEN (ADEN)
+
+|
+
+1 262,63 €
+
+|
+
+ZAMBIE
+
+|
+
+956,55 €
+
+|
+
+ZIMBABWE
+
+|
+
+1 156,01 €
+
+|
