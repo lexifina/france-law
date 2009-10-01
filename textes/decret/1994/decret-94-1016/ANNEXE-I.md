@@ -36,13 +36,11 @@ Secrétaires administratifs de l'Office national des forêts.
 
 Secrétaires d'administration de la Caisse des dépôts et consignations.
 
-Secrétaires administratifs de la police nationale.
+Secrétaires administratifs de la police nationale (1).
 
 Secrétaires administratifs de l'équipement.
 
 Secrétaires administratifs des services déconcentrés des anciens combattants et des victimes de guerre.
-
-Secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle.
 
 Secrétaires administratifs du ministère de la culture et de la communication.
 
@@ -62,14 +60,16 @@ Secrétaires administratifs du ministère de l'économie, des finances et de l'i
 
 Secrétaires administratifs du ministère de la défense.
 
-Secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'Agence de services et de paiement.
+Secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l' Agence de services et de paiement.
 
 Secrétaires administratifs du Conseil d'Etat.
-
-.
 
 Secrétaires administratifs des juridictions financières.
 
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
 
 Secrétaires administratifs du ministère de la justice.
+
+NOTA :
+
+(1) La mention "Secrétaires administratifs de la police nationale" est supprimée à compter du 1er janvier 2010.
