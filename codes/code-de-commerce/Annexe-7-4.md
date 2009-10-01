@@ -1,6 +1,6 @@
 # Article Annexe 7-4
 
-Nombre des assesseurs des chambres commerciales des tribunaux de grande instance
+Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
@@ -23,6 +23,10 @@ du tribunal de grande instance
 |
 
 Cour d'appel de Colmar
+
+|
+
+|
 
 |
 
@@ -74,6 +78,10 @@ Cour d'appel de Metz
 
 |
 
+|
+
+|
+
 Moselle
 
 |
@@ -106,9 +114,11 @@ Thionville
 
 |
 
-Nombre des juges élus des tribunaux mixtes de commerce des départements d'outre-mer
+Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
 
-DÉPARTEMENTS |
+DÉPARTEMENTS
+
+|
 
 SIÈGE DU TRIBUNAL MIXTE
 
@@ -123,6 +133,10 @@ du tribunal mixte de commerce
 |
 
 Cour d'appel de Basse-Terre
+
+|
+
+|
 
 |
 
@@ -152,6 +166,10 @@ Cour d'appel de Fort-de-France
 
 |
 
+|
+
+|
+
 Martinique
 
 |
@@ -176,11 +194,15 @@ Cayenne
 
 |
 
-Cour d'appel de Saint-Denis de la Réunion
+Cour d'appel de Saint-Denis de La Réunion
 
 |
 
-Réunion
+|
+
+|
+
+La Réunion
 
 |
 
