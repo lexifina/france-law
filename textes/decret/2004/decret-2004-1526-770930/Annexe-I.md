@@ -48,6 +48,12 @@ Fonctions d'encadrement du niveau de la catégorie A, d'expertise de haut niveau
 
 Attaché
 
+Attaché de conservation du patrimoine
+
+Conseillers des activités physiques et sportives
+
+Conseiller socio-éducatif
+
 |
 
 Agents de catégorie I au moins classés au 7e échelon de la 2e classe du principalat
@@ -139,6 +145,10 @@ Auxiliaire de puériculture territorial de 1re classe.
 Adjoint territorial d'animation de 2e classe.
 
 Agent territorial spécialisé de 1re classe des écoles maternelles.
+
+Gardien de police municipale.
+
+Garde-champêtre principal.
 
 |
 
