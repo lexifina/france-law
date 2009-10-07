@@ -38,7 +38,7 @@ Suppléants
 
 |
 
-CAPL/adjoints administratifs
+CAPL / adjoints administratifs
 
 CNMSS
 
@@ -88,7 +88,7 @@ Adjoints administratifs
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
 Administration centrale
 
@@ -160,9 +160,9 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Ile-de-France - Saint-Germain-en-Laye
+Ile-de-France-Saint-Germain-en-Laye
 
 M. le général commandant la RTIDF.
 
@@ -272,9 +272,9 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Ile-de-France - Villacoublay
+Ile-de-France-Villacoublay
 
 M. le général commandant la région aérienne Nord.
 
@@ -282,7 +282,7 @@ M. le général commandant la région aérienne Nord.
 
 Etablissements relevant de l'armée de l'air situés en zones de défense Ouest, Est, Nord et de Paris.
 
-Services et établissements de la DGA situés dans la zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH/CSRH, DQP/SQ, DQP/CTSI, DPBG/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/DCSSF et SSF, DE/SCAS) est situé dans la zone de défense de Paris.
+Services et établissements de la DGA situés dans la zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH / CSRH, DQP / SQ, DQP / CTSI, DPBG / ECS, DSA toutes entités, DET / SMCO / SIMMAD, DET / SMCO / DCSSF et SSF, DE / SCAS) est situé dans la zone de défense de Paris.
 
 Ecole polytechnique.
 
@@ -306,7 +306,7 @@ Adjoint administratif principal de 1re classe.
 
 2 représentants titulaires et 2 représentants suppléants de l'armée de l'air.
 
-4 représentants titulaires et 4 représentants suppléants de la délégation générale pour l'armement.
+4 représentants titulaires et 4 représentants suppléants de la direction générale de l'armement.
 
 1 représentant titulaire et 1 représentant suppléant de l'Ecole polytechnique.
 
@@ -350,9 +350,9 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Nord-Est - Metz
+Nord-Est-Metz
 
 M. le général commandant la région terre Nord-Est.
 
@@ -364,7 +364,7 @@ Etablissements relevant du service de santé situés en zones de défense Nord e
 
 Etablissements du service des essences situés en zones de défense Nord, Est et de Paris.
 
-Etablissements relevant des régions de gendarmerie Nord - Pas-de-Calais, Picardie, Champagne-Ardenne, Lorraine, Alsace, Bourgogne et Franche-Comté.
+Etablissements relevant des régions de gendarmerie Nord-Pas-de-Calais, Picardie, Champagne-Ardenne, Lorraine, Alsace, Bourgogne et Franche-Comté.
 
 Directions de l'action sociale situées en zones de défense Nord et Est.
 
@@ -442,15 +442,15 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Sud-Ouest - Biscarrosse
+Sud-Ouest-Biscarrosse
 
 M. le directeur du centre d'essais de lancement de missiles.
 
 |
 
-Etablissements relevant de la région terre Sud- Ouest.
+Etablissements relevant de la région terre Sud-Ouest.
 
 Etablissements relevant des régions de gendarmerie Poitou-Charentes, Limousin, Aquitaine et Midi-Pyrénées.
 
@@ -464,13 +464,13 @@ Etablissements du service d'infrastructure de la défense situés en zone de dé
 
 Etablissements du service historique de la défense implantés à Rochefort et Châtellerault.
 
-Services et établissements de la DGA situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres/Plouhinec), sauf les sites de Cazaux et de Toulouse du CEV et de l'AIA de Bordeaux.
+Services et établissements de la DGA situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres / Plouhinec), sauf les sites de Cazaux et de Toulouse du CEV et de l'AIA de Bordeaux.
 
 Etablissements de la DIRISI et tous autres organismes interarmées situés en zone de défense Sud-Ouest.
 
 Directions de l'action sociale situées en zone de défense Sud-Ouest.
 
-Services déconcentrés des anciens combattants situés en zone de défense Sud-Ouest (DI Bordeaux/DI Limoges/DI Toulouse).
+Services déconcentrés des anciens combattants situés en zone de défense Sud-Ouest (DI Bordeaux / DI Limoges / DI Toulouse).
 
 ISAé.
 
@@ -492,7 +492,7 @@ Adjoint administratif principal de 1re classe.
 
 1 représentant titulaire et 1 représentant suppléant du service national.
 
-1 représentant titulaire et 1 représentant suppléant de la délégation générale pour l'armement.
+1 représentant titulaire et 1 représentant suppléant de la direction générale de l'armement.
 
 1 représentant titulaire des services des anciens combattants et 1 représentant suppléant de l'ISAé.
 
@@ -540,25 +540,25 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Nord-Ouest - Bruz
+Nord-Ouest-Bruz
 
 M. le directeur du CELAR, Bruz.
 
 |
 
-Etablissements relevant de la région terre Nord- Ouest.
+Etablissements relevant de la région terre Nord-Ouest.
 
 Etablissements relevant de la région maritime Atlantique.
 
-Etablissements relevant des régions de gendarmerie Haute-Normandie, Basse- Normandie, Centre, Pays de la Loire et Bretagne.
+Etablissements relevant des régions de gendarmerie Haute-Normandie, Basse-Normandie, Centre, Pays de la Loire et Bretagne.
 
 Etablissements du service de santé en zone de défense Ouest.
 
 Centre d'identification des matériels de la défense.
 
-Services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres/Plouhinec du CELM).
+Services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres / Plouhinec du CELM).
 
 Directions de l'action sociale en zone de défense Ouest.
 
@@ -594,7 +594,7 @@ Adjoint administratif principal de 1re classe.
 
 1 représentant titulaire et 1 représentant suppléant de la marine.
 
-1 représentant titulaire et 1 représentant suppléant de la délégation générale pour l'armement.
+1 représentant titulaire et 1 représentant suppléant de la direction générale de l'armement.
 
 1 représentant titulaire et 1 représentant suppléant du service national.
 
@@ -646,9 +646,9 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Sud-Est - Lyon
+Sud-Est-Lyon
 
 M. le général commandant la RTSE.
 
@@ -702,7 +702,7 @@ Adjoint administratif principal de 1re classe.
 
 1 représentant titulaire et 1 représentant suppléant de la gendarmerie.
 
-1 représentant titulaire et 1 représentant suppléant de la délégation générale pour l'armement.
+1 représentant titulaire et 1 représentant suppléant de la direction générale de l'armement.
 
 1 représentant titulaire et 1 représentant suppléant du service des essences.
 
@@ -744,9 +744,9 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif
+CAPL / adjoint administratif
 
-Sud-Est - Toulon
+Sud-Est-Toulon
 
 M. le préfet maritime commandant la RMM.
 
@@ -756,19 +756,19 @@ Etablissements relevant de la région maritime Méditerranée.
 
 Etablissements relevant de l'armée de l'air situés dans les zones de défense Sud-Ouest, Sud-Est et Sud.
 
-Etablissements relevant des régions de gendarmerie de Corse, Provence-Alpes-Côte- d'Azur et Languedoc-Roussillon.
+Etablissements relevant des régions de gendarmerie de Corse, Provence-Alpes-Côte-d'Azur et Languedoc-Roussillon.
 
 Etablissement du service historique de la défense à Toulon.
 
 Direction du service d'infrastructure de la défense située à Toulon.
 
-Services déconcentrés des anciens combattants situés en zone de défense Sud (DI Ajaccio/DI Montpellier/DI Marseille).
+Services déconcentrés des anciens combattants situés en zone de défense Sud (DI Ajaccio / DI Montpellier / DI Marseille).
 
 Services et établissements de la DGA :
 
-- situés dans les départements des Bouches-du- Rhône et du Var, y compris l'ensemble du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge), sauf le site Méditerranée du CELM ;
+-situés dans les départements des Bouches-du-Rhône et du Var, y compris l'ensemble du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge), sauf le site Méditerranée du CELM ;
 
-- situés en zone de défense Sud-Ouest (AIA de Bordeaux) et zone de défense Sud-Est (AIA de Clermont-Ferrand).
+-situés en zone de défense Sud-Ouest (AIA de Bordeaux) et zone de défense Sud-Est (AIA de Clermont-Ferrand).
 
 |
 
@@ -788,7 +788,7 @@ Adjoint administratif principal de 1re classe.
 
 2 représentants titulaires et 2 représentants suppléants de l'armée de l'air.
 
-1 représentant titulaire et 1 représentant suppléant de la délégation générale pour l'armement.
+1 représentant titulaire et 1 représentant suppléant de la direction générale de l'armement.
 
 1 représentant titulaire et 1 représentant suppléant désignés par la DSPRS.
 
@@ -834,7 +834,7 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif - Antilles
+CAPL / adjoint administratif-Antilles
 
 M. le commandant supérieur des forces armées aux Antilles.
 
@@ -896,7 +896,7 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif - La Réunion
+CAPL / adjoint administratif-La Réunion
 
 M. le commandant des forces armées dans la zone Sud de l'océan Indien.
 
@@ -958,7 +958,7 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif - Guyane
+CAPL / adjoint administratif-Guyane
 
 M. le commandant des forces armées en Guyane.
 
@@ -1020,7 +1020,7 @@ Adjoint administratif de 2e classe.
 
 |
 
-CAPL/adjoint administratif - Nouvelle-Calédonie
+CAPL / adjoint administratif-Nouvelle-Calédonie
 
 M. le commandant supérieur des forces armées en Nouvelle-Calédonie.
 
@@ -1086,17 +1086,17 @@ Agents techniques du ministère de la défense
 
 |
 
-CAPL - ATMD/zone Ouest
+CAPL-ATMD / zone Ouest
 
 M. le vice-amiral d'escadre commandant la région maritime Atlantique (arrondissement maritime de Cherbourg).
 
 |
 
-Etablissements relevant de la région terre Nord- Ouest.
+Etablissements relevant de la région terre Nord-Ouest.
 
 Etablissements relevant de la région maritime atlantique.
 
-Etablissements relevant des régions de gendarmerie Haute-Normandie, Basse- Normandie, Centre, Pays de la Loire et Bretagne.
+Etablissements relevant des régions de gendarmerie Haute-Normandie, Basse-Normandie, Centre, Pays de la Loire et Bretagne.
 
 Etablissements du service de santé situés en zone de défense Ouest.
 
@@ -1114,7 +1114,7 @@ Services déconcentrés des anciens combattants situés en zone de défense Oues
 
 Etablissements DPSD situés en zone de défense Ouest. Centre d'identification des matériels de la défense.
 
-Services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres/Plouhinec du CELM).
+Services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres / Plouhinec du CELM).
 
 ENSIETA.
 
@@ -1182,7 +1182,7 @@ Agent technique principal de 1re classe.
 
 |
 
-CAPL - ATMD/zones Sud et Sud-Est
+CAPL-ATMD / zones Sud et Sud-Est
 
 M. le commandant la région maritime Méditerranée.
 
@@ -1190,7 +1190,7 @@ M. le commandant la région maritime Méditerranée.
 
 Services déconcentrés des anciens combattants situés dans les zones de défense Sud et Sud-Est.
 
-Etablissements relevant des régions de gendarmerie Rhône-Alpes, Auvergne, Corse, Provence-Alpes-Côte-d'Azur et Languedoc- Roussillon.
+Etablissements relevant des régions de gendarmerie Rhône-Alpes, Auvergne, Corse, Provence-Alpes-Côte-d'Azur et Languedoc-Roussillon.
 
 Etablissements relevant de la région maritime Méditerranée.
 
@@ -1278,7 +1278,7 @@ Agent technique principal de 1re classe.
 
 |
 
-CAPL-ATMD/Ile-de-France
+CAPL-ATMD / Ile-de-France
 
 Le chef du bureau de gestion déconcentrée du personnel civil, Villacoublay.
 
@@ -1308,7 +1308,7 @@ Etablissements relevant de la DIRISI et tous autres organismes interarmées situ
 
 Personnels gérés par l'administration centrale (sauf sous-direction des pensions), personnels affectés dans les ambassades, les organismes internationaux et les agents employés par DCNS (ex-DCN).
 
-Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH/CSRH, DQP/SQ, DQP/CTSI, DPBG/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/DCSSF et SSF, DE/SCAS) est situé en zone de défense de Paris.
+Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH / CSRH, DQP / SQ, DQP / CTSI, DPBG / ECS, DSA toutes entités, DET / SMCO / SIMMAD, DET / SMCO / DCSSF et SSF, DE / SCAS) est situé en zone de défense de Paris.
 
 Etablissements de la direction du renseignement militaire situés sur l'ensemble du territoire métropolitain.
 
@@ -1394,7 +1394,7 @@ Agent technique principal de 1re classe.
 
 |
 
-CAPL/ATMD, zones Est et Nord
+CAPL / ATMD, zones Est et Nord
 
 M. le général commandant la région terre Nord-Est.
 
@@ -1476,9 +1476,9 @@ Agent technique principal de 1re classe.
 
 |
 
-CAPL/ATMD, zone Sud-Ouest
+CAPL / ATMD, zone Sud-Ouest
 
-M. le général commandant la région terre Sud- Ouest.
+M. le général commandant la région terre Sud-Ouest.
 
 |
 
@@ -1490,7 +1490,7 @@ Etablissements relevant des régions de gendarmerie Poitou-Charentes, Limousin, 
 
 Etablissements DPSD situés en zone de défense Sud-Ouest.
 
-Etablissements relevant de la région terre Sud- Ouest.
+Etablissements relevant de la région terre Sud-Ouest.
 
 Etablissements relevant du service de santé des armées situés en zone de défense Sud-Ouest.
 
@@ -1572,13 +1572,13 @@ Agent technique principal de 1re classe.
 
 |
 
-CAPL/ATMD, Nouvelle-Calédonie
+CAPL / ATMD, Nouvelle-Calédonie
 
-M. le commandant des Forces armées en Nouvelle- Calédonie.
+M. le commandant des Forces armées en Nouvelle-Calédonie.
 
 |
 
-Etablissements relevant du COMSUP Nouvelle- Calédonie.
+Etablissements relevant du COMSUP Nouvelle-Calédonie.
 
 |
 
@@ -1638,7 +1638,7 @@ Secrétaires administratifs du ministère de la défense
 
 |
 
-CAPL/SA administration centrale - Paris
+CAPL / SA administration centrale-Paris
 
 M. le directeur des ressources humaines du ministère de la défense.
 
@@ -1696,7 +1696,7 @@ Secrétaire administratif de classe normale.
 
 |
 
-CAPL/SA Ile-de-France - Paris
+CAPL / SA Ile-de-France-Paris
 
 M. le délégué général pour l'armement, direction des ressources humaines.
 
@@ -1716,7 +1716,7 @@ Etablissements du service des essences situés en zone de défense de Paris.
 
 Etablissements relevant de la DSN situés en zone de défense de Paris.
 
-Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH/CSRH, DQP/SQ, DQP/CTSI, DPBG/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/DCSSF et SSF, DE/SCAS) est situé en zone de défense de Paris.
+Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH / CSRH, DQP / SQ, DQP / CTSI, DPBG / ECS, DSA toutes entités, DET / SMCO / SIMMAD, DET / SMCO / DCSSF et SSF, DE / SCAS) est situé en zone de défense de Paris.
 
 Toutes armées et services implantés outre-mer et à l'étranger.
 
@@ -1802,7 +1802,7 @@ Secrétaire administratif de classe normale.
 
 |
 
-CAPL/SA Nord-Ouest - Brest
+CAPL / SA Nord-Ouest-Brest
 
 M. le vice-amiral d'escadre commandant la région maritime Atlantique de Brest.
 
@@ -1832,7 +1832,7 @@ Etablissements de la DPSD situés en zone de défense Ouest.
 
 Etablissements de la DIRISI et tous autres organismes interarmées situés en zone de défense Ouest.
 
-Centre d'identification des matériels de la défense services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres/Plouhinec du CELM).
+Centre d'identification des matériels de la défense services et établissements de la DGA situés en zone de défense Ouest (sauf le site de Gâvres / Plouhinec du CELM).
 
 ENSIETA.
 
@@ -1890,7 +1890,7 @@ Secrétaire administratif de classe normale.
 
 |
 
-CAPL/SA Sud-Ouest - Bordeaux
+CAPL / SA Sud-Ouest-Bordeaux
 
 M. le général commandant la région terre Sud-Ouest (RTSO) Bordeaux.
 
@@ -1914,7 +1914,7 @@ Directions de l'action sociale situées en zone de défense Sud-Ouest.
 
 Etablissements de la DPSD situés en zone de défense Sud-Ouest.
 
-Services et établissements de la DGA situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (site Landes, Méditerranée et de Gâvres/Plouhinec), sauf les sites de Cazaux et de Toulouse du CEV.
+Services et établissements de la DGA situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (site Landes, Méditerranée et de Gâvres / Plouhinec), sauf les sites de Cazaux et de Toulouse du CEV.
 
 Etablissements du service historique de la défense situés à Rochefort et à Châtellerault.
 
@@ -1976,7 +1976,7 @@ Secrétaire administratif de classe normale.
 
 |
 
-CAPL/SA Nord et Est - Metz
+CAPL / SA Nord et Est-Metz
 
 M. le général commandant la région terre Nord-Est.
 
@@ -2054,7 +2054,7 @@ Secrétaire de administratif de classe normale.
 
 |
 
-CAPL/SA Sud et Sud-Est - Toulon
+CAPL / SA Sud et Sud-Est-Toulon
 
 M. le vice-amiral d'escadre, commandant la région maritime méditerranée de Toulon.
 
@@ -2140,7 +2140,7 @@ Secrétaire administratif de classe normale.
 
 |
 
-CAPL/SA CNMSS
+CAPL / SA CNMSS
 
 M. le directeur de la Caisse nationale militaire de sécurité sociale.
 
@@ -2194,7 +2194,7 @@ Techniciens du ministère de la défense
 
 |
 
-CAPL/TMD Nord Rennes
+CAPL / TMD Nord Rennes
 
 M. le général commandant la région terre Nord-Ouest.
 
@@ -2226,7 +2226,7 @@ Services déconcentrés des anciens combattants situés dans les zones de défen
 
 Services des anciens combattants implantés en Afrique (Tunis, Casablanca et Alger).
 
-Tous armées et services (y compris le SID et la DIRISI) implantés dans les DOM/COM, Nouvelle-Calédonie et à l'étranger.
+Tous armées et services (y compris le SID et la DIRISI) implantés dans les DOM / COM, Nouvelle-Calédonie et à l'étranger.
 
 Services de l'administration centrale (y compris la DIRISI, la DCSID et le SHD de Vincennes et Caen).
 
@@ -2236,7 +2236,7 @@ Etablissements DPSD situés sur l'ensemble du territoire métropolitain.
 
 Centre d'identification des matériels de la défense.
 
-Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV), en zone de défense Ouest (sauf le site de Gâvres/Plouhinec du CELM), ou dont l'échelon central (DRH/CSRH,
+Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV), en zone de défense Ouest (sauf le site de Gâvres / Plouhinec du CELM), ou dont l'échelon central (DRH / CSRH,
 
 |
 
@@ -2288,13 +2288,13 @@ Technicien de classe exceptionnelle.
 
 |
 
-CAPL/TMD Sud Lyon
+CAPL / TMD Sud Lyon
 
 M. le général commandant la région terre Sud-Est.
 
 |
 
-DQP/SQ, DQP/CTSI, DPBG/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/DCSSF et SSF, DE/SCAS) est situé en zone de défense de Paris.
+DQP / SQ, DQP / CTSI, DPBG / ECS, DSA toutes entités, DET / SMCO / SIMMAD, DET / SMCO / DCSSF et SSF, DE / SCAS) est situé en zone de défense de Paris.
 
 Etablissements de la DRM implantés sur l'ensemble du territoire métropolitain.
 
@@ -2322,7 +2322,7 @@ Etablissements du service historique de la défense implantés à Châtellerault
 
 Services déconcentrés des anciens combattants situés dans les zones de défense Sud-Ouest, Sud-Est et Sud.
 
-Services et établissements de la DGA situés dans les zones de défense Sud-Ouest, Sud-Est et Sud, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres/Plouhinec) et du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge).
+Services et établissements de la DGA situés dans les zones de défense Sud-Ouest, Sud-Est et Sud, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres / Plouhinec) et du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge).
 
 Sous-direction des pensions (La Rochelle).
 
@@ -2386,7 +2386,7 @@ Techniciens supérieurs d'études et de fabrications
 
 |
 
-CAPL/TSEF -Ile-de-France Nord-Est
+CAPL / TSEF-Ile-de-France Nord-Est
 
 M. le général commandant la région Terre Ile-de-France (RTIDF)
 
@@ -2452,7 +2452,7 @@ Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 Etablissements du service des essences situés en zones de défense Nord, Est et de Paris.
 
-Etablissements relevant des régions de gendarmerie Nord -Pas-de-Calais, Picardie, Champagne-Ardenne, Lorraine, Alsace, Bourgogne, Franche-Comté et Ile-de-France.
+Etablissements relevant des régions de gendarmerie Nord-Pas-de-Calais, Picardie, Champagne-Ardenne, Lorraine, Alsace, Bourgogne, Franche-Comté et Ile-de-France.
 
 Etablissements de la marine situés en zone de défense de Paris.
 
@@ -2500,7 +2500,7 @@ EPIDe.
 
 |
 
-CAPL/TSEF
+CAPL / TSEF
 
 Ouest
 
@@ -2584,9 +2584,9 @@ Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 |
 
-CAPL/TSEF
+CAPL / TSEF
 
-Sud -Sud-Est
+Sud-Sud-Est
 
 M. le directeur du centre d'essais en vol (Istres).
 
@@ -2604,7 +2604,7 @@ Etablissements relevant du service de santé des armées dans les zones de défe
 
 Etablissements relevant de la région Terre Sud-Est.
 
-Services et établissements de la délégation générale pour l'armement (DGA) situés en zones de défense Sud et Sud-Est, y compris l'ensemble du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge), sauf le site Méditerranée du CELM.
+Services et établissements de la direction générale de l'armement (DGA) situés en zones de défense Sud et Sud-Est, y compris l'ensemble du CEV (sites d'Istres, de Cazaux, de Toulouse et de Brétigny-sur-Orge), sauf le site Méditerranée du CELM.
 
 Etablissements relevant de la DSN situés dans les zones de défense Sud et Sud-Est.
 
@@ -2662,7 +2662,7 @@ Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 |
 
-CAPL/TSEF Sud-Ouest
+CAPL / TSEF Sud-Ouest
 
 Le chef du bureau de la gestion déconcentrée du personnel civil (Bordeaux).
 
@@ -2678,7 +2678,7 @@ Etablissements relevant du service de santé des armées situés en zone de déf
 
 Etablissements relevant de la région Terre Sud-Ouest.
 
-Services et établissements de la délégation générale pour l'armement (DGA) situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres-Plouhinec) sauf les sites de Cazaux et de Toulouse du CEV.
+Services et établissements de la direction générale de l'armement (DGA) situés en zone de défense Sud-Ouest, y compris l'ensemble du CELM (sites Landes, Méditerranée et de Gâvres-Plouhinec) sauf les sites de Cazaux et de Toulouse du CEV.
 
 Etablissements relevant des régions de gendarmerie Poitou-Charentes, Limousin, Aquitaine et Midi-Pyrénées.
 
@@ -2742,7 +2742,7 @@ Techniciens supérieurs d'études et de fabrications de 3e classe.
 
 |
 
-CAPL/TSEF Paris
+CAPL / TSEF Paris
 
 M. le délégué général pour l'armement.
 
@@ -2750,7 +2750,7 @@ Direction des ressources humaines.
 
 |
 
-Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH/CSRH, DQP/SQ, DQP/CTSI, DQP/ECS, DSA toutes entités, DET/SMCO/SIMMAD, DET/SMCO/SSF, DET/CEP, DE/SCAS) est situé en zone de défense de Paris.
+Services et établissements de la DGA situés en zone de défense de Paris (sauf le site de Brétigny-sur-Orge du CEV) ou dont l'échelon central (DRH / CSRH, DQP / SQ, DQP / CTSI, DQP / ECS, DSA toutes entités, DET / SMCO / SIMMAD, DET / SMCO / SSF, DET / CEP, DE / SCAS) est situé en zone de défense de Paris.
 
 Tous établissements de NEXTER.
 

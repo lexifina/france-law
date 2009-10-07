@@ -4,7 +4,7 @@ COMPOSITION DES CFM
 
 d) Gendarmerie nationale
 
-Table 7. - Composition du conseil de la fonction militaire de la gendarmerie
+Table 7.-Composition du conseil de la fonction militaire de la gendarmerie
 
 CORPS OU CATÉGORIES
 
@@ -32,7 +32,7 @@ CRITÈRE GÉOGRAPHIQUE
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 |
 
@@ -78,7 +78,7 @@ Officiers autres corps
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Officiers de gendarmerie
 
@@ -114,7 +114,7 @@ Officiers autres corps
 
 |
 
-III. - Majors, gradés ou sous-officiers supérieurs
+III.-Majors, gradés ou sous-officiers supérieurs
 
 Majors gendarmerie
 
@@ -208,7 +208,7 @@ Commis greffiers
 
 |
 
-IV. - Gendarmes ou sous-officiers subalternes
+IV.-Gendarmes ou sous-officiers subalternes
 
 Gendarmes
 
@@ -274,7 +274,7 @@ Total
 
 Pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupe différent, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important.
 
-Pour la gendarmerie mobile : 2 représentants, de groupe différent, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, pour la force de gendarmerie mobile et d'intervention et pour la garde républicaine. A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique.
+Pour la gendarmerie mobile : 2 représentants, de groupe différent, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, pour la force de gendarmerie mobile et d'intervention et pour la garde républicaine.A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique.
 
 1 représentant pour chacune des 4 gendarmeries spécialisées ;
 
@@ -284,11 +284,11 @@ Pour la gendarmerie mobile : 2 représentants, de groupe différent, par région
 
 2 représentants, de groupe différent, pour toutes les autres formations.
 
-Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat.
+Nota.-Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat.
 
 |
 
-Table 8. - Composition du pool de suppléants pour le conseil de la fonction militaire de la gendarmerie
+Table 8.-Composition du pool de suppléants pour le conseil de la fonction militaire de la gendarmerie
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -318,7 +318,7 @@ GROUPE B
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 Officiers de gendarmerie
 
@@ -350,7 +350,7 @@ Officiers autres corps
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Officiers de gendarmerie
 
@@ -382,7 +382,7 @@ Officiers autres corps
 
 |
 
-III. - Majors, gradés ou sous-officiers supérieurs
+III.-Majors, gradés ou sous-officiers supérieurs
 
 Majors gendarmerie
 
@@ -458,7 +458,7 @@ Commis greffiers
 
 |
 
-IV. - Gendarmes ou sous-officiers subalternes
+IV.-Gendarmes ou sous-officiers subalternes
 
 Gendarmes
 
@@ -514,9 +514,9 @@ Total
 
 |
 
-e) Délégation générale pour l'armement
+e) direction générale de l'armement
 
-Table 9. - Composition du conseil de la fonction militaire de la délégation générale pour l'armement
+Table 9.-Composition du conseil de la fonction militaire de la direction générale de l'armement
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -538,7 +538,7 @@ GROUPE B
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 Ingénieurs de l'armement
 
@@ -586,7 +586,7 @@ Corps technique et administratif de l'armement
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Ingénieurs de l'armement
 
@@ -650,7 +650,7 @@ Total
 
 |
 
-Table 10. - Composition du pool de suppléants pour le conseil de la fonction militaire de la délégation générale pour l'armement
+Table 10.-Composition du pool de suppléants pour le conseil de la fonction militaire de la direction générale de l'armement
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -680,7 +680,7 @@ GROUPE B
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 Ingénieurs de l'armement
 
@@ -728,7 +728,7 @@ Corps technique et administratif de l'armement
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Ingénieurs de l'armement
 
@@ -794,7 +794,7 @@ Total
 
 f) Service de santé des armées
 
-Table 11. - Composition du conseil de la fonction militaire du service de santé
+Table 11.-Composition du conseil de la fonction militaire du service de santé
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -816,7 +816,7 @@ GROUPE B
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 Médecins de carrière
 
@@ -890,7 +890,7 @@ Corps technique et administratif du service de santé des armées
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Médecins de carrière
 
@@ -994,7 +994,7 @@ Corps technique et administratif du service de santé des armées
 
 |
 
-III. - MITHA soumis aux lois et règlements applicables aux officiers
+III.-MITHA soumis aux lois et règlements applicables aux officiers
 
 |
 
@@ -1010,7 +1010,7 @@ III. - MITHA soumis aux lois et règlements applicables aux officiers
 
 |
 
-IV. - MITHA soumis aux lois et règlements applicables
+IV.-MITHA soumis aux lois et règlements applicables
 
 aux sous-officiers
 
@@ -1062,7 +1062,7 @@ MITHA autres
 
 |
 
-V. - Aumôniers des armées
+V.-Aumôniers des armées
 
 |
 
@@ -1076,7 +1076,7 @@ V. - Aumôniers des armées
 
 |
 
-VI. - Militaires du rang
+VI.-Militaires du rang
 
 |
 
@@ -1106,7 +1106,7 @@ Total
 
 |
 
-Table 12. - Composition du pool de suppléants du conseil de la fonction militaire du service de santé
+Table 12.-Composition du pool de suppléants du conseil de la fonction militaire du service de santé
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -1136,7 +1136,7 @@ GROUPE B
 
 |
 
-I. - Officiers supérieurs
+I.-Officiers supérieurs
 
 Médecins de carrière
 
@@ -1210,7 +1210,7 @@ Corps technique et administratif du service de santé des armées
 
 |
 
-II. - Officiers subalternes
+II.-Officiers subalternes
 
 Médecins de carrière
 
@@ -1314,7 +1314,7 @@ Corps technique et administratif du service de santé des armées
 
 |
 
-III. - MITHA soumis aux lois et règlements applicables aux officiers
+III.-MITHA soumis aux lois et règlements applicables aux officiers
 
 |
 
@@ -1330,7 +1330,7 @@ III. - MITHA soumis aux lois et règlements applicables aux officiers
 
 |
 
-IV. - MITHA soumis aux lois et règlements applicables
+IV.-MITHA soumis aux lois et règlements applicables
 
 aux sous-officiers
 
@@ -1382,7 +1382,7 @@ MITHA autres
 
 |
 
-V. - Aumôniers des armées
+V.-Aumôniers des armées
 
 |
 
@@ -1396,7 +1396,7 @@ V. - Aumôniers des armées
 
 |
 
-VI. - Militaires du rang
+VI.-Militaires du rang
 
 |
 
@@ -1428,7 +1428,7 @@ Total
 
 g) Service des essences des armées
 
-Table 13. - Composition du conseil de la fonction militaire du service des essences des armées
+Table 13.-Composition du conseil de la fonction militaire du service des essences des armées
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -1450,7 +1450,7 @@ GROUPE B
 
 |
 
-I. - Officiers
+I.-Officiers
 
 Corps des ingénieurs militaires des essences
 
@@ -1476,7 +1476,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-- officiers supérieurs
+-officiers supérieurs
 
 |
 
@@ -1490,7 +1490,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-- officiers subalternes
+-officiers subalternes
 
 |
 
@@ -1506,7 +1506,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-II. - Sous-officiers
+II.-Sous-officiers
 
 Majors
 
@@ -1540,7 +1540,7 @@ Sous-officiers supérieurs
 
 Sous-officiers subalternes :
 
-- maréchaux des logis-chefs
+-maréchaux des logis-chefs
 
 |
 
@@ -1554,7 +1554,7 @@ Sous-officiers subalternes :
 
 |
 
-- maréchaux des logis
+-maréchaux des logis
 
 |
 
@@ -1568,7 +1568,7 @@ Sous-officiers subalternes :
 
 |
 
-III. - Militaires du rang engagés
+III.-Militaires du rang engagés
 
 |
 
@@ -1600,7 +1600,7 @@ Total
 
 |
 
-Table 14. - Composition du pool de suppléants pour le conseil de la fonction militaire du service des essences des armées
+Table 14.-Composition du pool de suppléants pour le conseil de la fonction militaire du service des essences des armées
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -1630,7 +1630,7 @@ GROUPE B
 
 |
 
-I. - Officiers
+I.-Officiers
 
 Corps des ingénieurs militaires des essences
 
@@ -1656,7 +1656,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-- officiers supérieurs
+-officiers supérieurs
 
 |
 
@@ -1670,7 +1670,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-- officiers subalternes
+-officiers subalternes
 
 |
 
@@ -1686,7 +1686,7 @@ Corps technique et administratif du service des essences des armées :
 
 |
 
-II. - Sous-officiers
+II.-Sous-officiers
 
 |
 
@@ -1728,7 +1728,7 @@ Sous-officiers supérieurs
 
 Sous-officiers subalternes :
 
-- maréchaux des logis-chefs
+-maréchaux des logis-chefs
 
 |
 
@@ -1742,7 +1742,7 @@ Sous-officiers subalternes :
 
 |
 
-- maréchaux des logis
+-maréchaux des logis
 
 |
 
@@ -1756,7 +1756,7 @@ Sous-officiers subalternes :
 
 |
 
-III. - Militaires du rang engagés
+III.-Militaires du rang engagés
 
 |
 

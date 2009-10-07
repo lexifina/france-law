@@ -458,7 +458,7 @@ Chef de la mission du pilotage et de la performance.
 
 TABLEAU VI
 
-FONCTIONS RELEVANT DE LA DÉLÉGATION GÉNÉRALE POUR L'ARMEMENT
+FONCTIONS RELEVANT DE LA direction générale de l'armement
 
 DÉSIGNATION DE LA FONCTION
 

@@ -68,7 +68,7 @@ Armée de l'air.
 
 |
 
-Délégation générale pour l'armement.
+Direction générale de l'armement.
 
 |
 

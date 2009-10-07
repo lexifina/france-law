@@ -196,15 +196,15 @@ Nota. ― Il convient d'entendre par base aérienne l'ensemble des unités prés
 
 Base aérienne 943, à Roquebrune-Cap-Martin, Alpes-Maritimes (06).
 
-Escadron de défense sol-air 07.950, à Ventiseri, Haute-Corse (2B).
+Escadron de défense sol-air 07. 950, à Ventiseri, Haute-Corse (2B).
 
-Musique de l'air 79.511, à Longvic, Côte-d'Or (21).
+Musique de l'air 79. 511, à Longvic, Côte-d'Or (21).
 
-Etablissement logistique du commissariat de l'air 00.782, Evreux, Eure (27).
+Etablissement logistique du commissariat de l'air 00. 782, Evreux, Eure (27).
 
 Base aérienne 101, à Cugnaux, Haute-Garonne (31).
 
-Entrepôt de l'armée de l'air EAA00.609, à Cinq-Mars-la-Pile, Indre-et-Loire (37).
+Entrepôt de l'armée de l'air EAA00. 609, à Cinq-Mars-la-Pile, Indre-et-Loire (37).
 
 Base aérienne 112, à Bétheny, Marne (51).
 
@@ -220,9 +220,9 @@ Base aérienne 217, à Brétigny-sur-Orge, Essonne (91).
 
 Base aérienne 921, à Taverny, Val-d'Oise (95).
 
-Escadron de chasse 01.004, à Saint-Sauveur, Haute-Saône (70).
+Escadron de chasse 01. 004, à Saint-Sauveur, Haute-Saône (70).
 
-Escadron de chasse 02.004, à Saint-Sauveur, Haute-Saône (70).
+Escadron de chasse 02. 004, à Saint-Sauveur, Haute-Saône (70).
 
 Base aérienne 365, au Lamentin, Martinique (972).
 
@@ -242,7 +242,7 @@ Direction du commissariat de la marine, à Toussus-le-Noble, Yvelines (78).
 
 Etablissement de l'aéronautique, service d'information et de relations publiques, service de recrutement de la marine, groupe automobile de la marine, direction du commissariat de la marine, à Dugny, Seine-Saint-Denis (93).
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Caen, Calvados (14).
 
@@ -656,7 +656,7 @@ Détachement du 6e régiment du matériel, à Bourogne, Territoire de Belfort (9
 
 Détachement du 1er régiment du matériel, à Saarburg, Allemagne.
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Salon-de-Provence, Bouches-du-Rhône (13).
 
@@ -1064,7 +1064,7 @@ Direction centrale du commissariat de la marine, à Paris (75).
 
 Commission permanente des programmes et des essais, à Toussus-le-Noble, Yvelines (78).
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Montluçon, Allier (03).
 
@@ -1926,7 +1926,7 @@ Terre
 
 |
 
-Charleville- Mézières
+Charleville-Mézières
 
 |
 
@@ -2816,7 +2816,7 @@ Terre
 
 |
 
-État-major de forces n°3
+État-major de forces n° 3
 
 |
 
@@ -2882,7 +2882,7 @@ Terre
 
 |
 
-Reconversion en région terre Sud-Est - agence pour l'emploi des militaires
+Reconversion en région terre Sud-Est-agence pour l'emploi des militaires
 
 |
 
@@ -3884,7 +3884,7 @@ Terre
 
 |
 
-État-major de forces n°1
+État-major de forces n° 1
 
 |
 
@@ -3950,7 +3950,7 @@ Terre
 
 |
 
-Reconversion en région terre Nord-Est - agence pour l'emploi des militaires
+Reconversion en région terre Nord-Est-agence pour l'emploi des militaires
 
 |
 
@@ -5354,7 +5354,7 @@ Terre
 
 |
 
-Reconversion en région terre Nord-Ouest - agence pour l'emploi des militaires
+Reconversion en région terre Nord-Ouest-agence pour l'emploi des militaires
 
 |
 
@@ -5896,7 +5896,7 @@ Terre
 
 |
 
-Varces-Allieres-et- Risset
+Varces-Allieres-et-Risset
 
 |
 
@@ -9034,7 +9034,7 @@ Terre
 
 |
 
-Reconversion en région terre Sud-est - agence pour l'emploi des militaires
+Reconversion en région terre Sud-est-agence pour l'emploi des militaires
 
 |
 
@@ -9292,7 +9292,7 @@ Terre
 
 |
 
-Reconversion en région terre Sud-Ouest - agence pour l'emploi des militaires
+Reconversion en région terre Sud-Ouest-agence pour l'emploi des militaires
 
 |
 
@@ -10620,7 +10620,7 @@ Terre
 
 |
 
-Chamonix-Mont- Blanc
+Chamonix-Mont-Blanc
 
 |
 
@@ -11188,7 +11188,7 @@ Terre
 
 |
 
-Détachement de la région terre Île-de- France
+Détachement de la région terre Île-de-France
 
 |
 
@@ -11592,7 +11592,7 @@ Terre
 
 |
 
-Saint-Germain-en- Laye
+Saint-Germain-en-Laye
 
 |
 
@@ -11650,7 +11650,7 @@ Détachement de l'état-major de l'armée de terre
 
 |
 
-Saint-Germain-en- Laye
+Saint-Germain-en-Laye
 
 |
 
@@ -12032,7 +12032,7 @@ Terre
 
 |
 
-Reconversion en région terre Sud-Est - agence pour l'emploi des militaires
+Reconversion en région terre Sud-Est-agence pour l'emploi des militaires
 
 |
 
@@ -12692,7 +12692,7 @@ Terre
 
 |
 
-Régiment d'infanterie - chars de marine
+Régiment d'infanterie-chars de marine
 
 |
 
@@ -13056,7 +13056,7 @@ Terre
 
 |
 
-École militaire de spécialisation de l'Outre- mer et de l'Etranger
+École militaire de spécialisation de l'Outre-mer et de l'Etranger
 
 |
 
@@ -13386,7 +13386,7 @@ Air
 
 |
 
-Service industriel de l'aéronautique - Atelier industriel de l'aéronautique
+Service industriel de l'aéronautique-Atelier industriel de l'aéronautique
 
 |
 
@@ -13986,7 +13986,7 @@ Air
 
 |
 
-Service industriel de l'aéronautique - Atelier industriel de l'aéronautique
+Service industriel de l'aéronautique-Atelier industriel de l'aéronautique
 
 |
 
@@ -14524,7 +14524,7 @@ Air
 
 |
 
-Service industriel de l'aéronautique - Atelier industriel de l'aéronautique
+Service industriel de l'aéronautique-Atelier industriel de l'aéronautique
 
 |
 
@@ -14664,7 +14664,7 @@ Base aérienne 942
 
 |
 
-Poleymieux-au-Mont- d'Or
+Poleymieux-au-Mont-d'Or
 
 |
 
@@ -14860,7 +14860,7 @@ Air
 
 |
 
-Service industriel de l'aéronautique - Atelier industriel de l'aéronautique
+Service industriel de l'aéronautique-Atelier industriel de l'aéronautique
 
 |
 
@@ -16450,7 +16450,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Sud-Ouest
+Service de recrutement de la marine-Sud-Ouest
 
 |
 
@@ -16504,7 +16504,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Ouest
+Service de recrutement de la marine-Ouest
 
 |
 
@@ -17086,7 +17086,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Est
+Service de recrutement de la marine-Est
 
 |
 
@@ -17470,7 +17470,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Centre
+Service de recrutement de la marine-Centre
 
 |
 
@@ -18056,7 +18056,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Nord
+Service de recrutement de la marine-Nord
 
 |
 
@@ -18110,7 +18110,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Île-de-France
+Service de recrutement de la marine-Île-de-France
 
 |
 
@@ -19448,7 +19448,7 @@ Mer
 
 |
 
-État-major de l'escadrille des sous- marins nucléaires d'attaque
+État-major de l'escadrille des sous-marins nucléaires d'attaque
 
 |
 
@@ -19622,7 +19622,7 @@ Mer
 
 |
 
-Service de recrutement de la marine- Sud-Est
+Service de recrutement de la marine-Sud-Est
 
 |
 
@@ -20040,7 +20040,7 @@ SGA
 
 |
 
-Direction du Service national- bureau du service national
+Direction du Service national-bureau du service national
 
 |
 
@@ -20096,7 +20096,7 @@ SGA
 
 |
 
-Direction du service national- administration centrale
+Direction du service national-administration centrale
 
 |
 
@@ -20298,7 +20298,7 @@ SGA
 
 |
 
-Service des moyens généraux - sous-direction de l'action logistique
+Service des moyens généraux-sous-direction de l'action logistique
 
 |
 
@@ -20352,7 +20352,7 @@ Direction régionale du service d'infrastructure de la défense
 
 |
 
-Saint-Germain-en- Laye
+Saint-Germain-en-Laye
 
 |
 
@@ -20392,7 +20392,7 @@ SGA
 
 |
 
-Service des moyens généraux- centre automobile de la défense
+Service des moyens généraux-centre automobile de la défense
 
 |
 
@@ -20532,7 +20532,7 @@ SGA
 
 |
 
-Service des moyens généraux- centre automobile de la défense
+Service des moyens généraux-centre automobile de la défense
 
 |
 
@@ -20576,7 +20576,7 @@ X
 
 .
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 |
 
@@ -20584,7 +20584,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -20628,7 +20628,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -20672,7 +20672,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -20716,7 +20716,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -20822,7 +20822,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+Direction des plans, du budget et de la gestion-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
 |
 
@@ -20866,7 +20866,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des d'information systèmes
+Direction de la qualité et du progrès-centre technique des d'information systèmes
 
 |
 
@@ -20910,7 +20910,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -20954,7 +20954,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -21112,7 +21112,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -21156,7 +21156,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -21202,7 +21202,7 @@ DGA
 
 |
 
-Direction des essais- service des achats et du soutien
+Direction des essais-service des achats et du soutien
 
 |
 
@@ -21248,7 +21248,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- établissement technique
+Direction de l'expertise technique-établissement technique
 
 |
 
@@ -21354,7 +21354,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -21398,7 +21398,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -21448,7 +21448,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- service centralisé des achats
+Direction des systèmes d'armes-service centralisé des achats
 
 |
 
@@ -21494,55 +21494,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- administration centrale
-
-|
-
-18
-
-|
-
-Bourges
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-DGA
-
-|
-
-Direction des systèmes d'armes- antenne de l'unité matérielle terrestre
+Direction des systèmes d'armes-administration centrale
 
 |
 
@@ -21590,7 +21542,55 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction des systèmes d'armes-antenne de l'unité matérielle terrestre
+
+|
+
+18
+
+|
+
+Bourges
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+DGA
+
+|
+
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -21636,7 +21636,7 @@ DGA
 
 |
 
-Direction des essais- bassin d'essais des carènes
+Direction des essais-bassin d'essais des carènes
 
 |
 
@@ -21696,7 +21696,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -21742,7 +21742,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -21786,7 +21786,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -21830,7 +21830,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -21874,7 +21874,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -21918,7 +21918,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -21964,7 +21964,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -22008,7 +22008,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- groupe d'études sous-marines de l'Atlantique
+Direction de l'expertise technique-groupe d'études sous-marines de l'Atlantique
 
 |
 
@@ -22068,7 +22068,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -22120,7 +22120,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -22164,7 +22164,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -22254,7 +22254,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- antenne de l'unité matérielle navale
+Direction des systèmes d'armes-antenne de l'unité matérielle navale
 
 |
 
@@ -22346,7 +22346,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais aéronautiques
+Direction des essais-centre d'essais aéronautiques
 
 |
 
@@ -22406,7 +22406,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -22466,7 +22466,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -22512,7 +22512,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -22558,7 +22558,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+Direction des plans, du budget et de la gestion-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
 |
 
@@ -22602,7 +22602,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -22646,7 +22646,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -22690,7 +22690,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -22740,7 +22740,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- service centralisé des achats
+Direction des systèmes d'armes-service centralisé des achats
 
 |
 
@@ -22784,7 +22784,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- administration centrale
+Direction des systèmes d'armes-administration centrale
 
 |
 
@@ -22828,7 +22828,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- antenne de l'unité matérielle terrestre
+Direction des systèmes d'armes-antenne de l'unité matérielle terrestre
 
 |
 
@@ -22876,7 +22876,7 @@ DGA
 
 |
 
-Direction des essais- centre d'achèvement et d'essais des propulseurs et engins
+Direction des essais-centre d'achèvement et d'essais des propulseurs et engins
 
 |
 
@@ -22936,7 +22936,7 @@ DGA
 
 |
 
-Direction des essais- centre d'achèvement et d'essais des propulseurs et engins
+Direction des essais-centre d'achèvement et d'essais des propulseurs et engins
 
 |
 
@@ -22944,7 +22944,7 @@ Direction des essais- centre d'achèvement et d'essais des propulseurs et engins
 
 |
 
-Saint-Médard-en- Jalles
+Saint-Médard-en-Jalles
 
 |
 
@@ -22996,7 +22996,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -23040,7 +23040,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -23100,7 +23100,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -23206,7 +23206,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- service centralisé des achats
+Direction des systèmes d'armes-service centralisé des achats
 
 |
 
@@ -23214,7 +23214,7 @@ Direction des systèmes d'armes- service centralisé des achats
 
 |
 
-Saint-Médard-en- Jalles
+Saint-Médard-en-Jalles
 
 |
 
@@ -23252,7 +23252,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'études du Bouchet
+Direction de l'expertise technique-centre d'études du Bouchet
 
 |
 
@@ -23298,7 +23298,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -23348,7 +23348,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -23392,7 +23392,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -23400,7 +23400,7 @@ Direction de la qualité et du progrès- centre technique des systèmes d'inform
 
 |
 
-Saint-Médard-en- Jalles
+Saint-Médard-en-Jalles
 
 |
 
@@ -23436,7 +23436,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -23444,7 +23444,7 @@ Direction de la qualité et du progrès- service de la qualité
 
 |
 
-Saint-Médard-en- Jalles
+Saint-Médard-en-Jalles
 
 |
 
@@ -23486,7 +23486,7 @@ DGA
 
 |
 
-Direction des ressources humaines- centre de formation
+Direction des ressources humaines-centre de formation
 
 |
 
@@ -23544,7 +23544,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- service centralisé des achats
+Direction des systèmes d'armes-service centralisé des achats
 
 |
 
@@ -23590,7 +23590,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'électronique de l'armement
+Direction de l'expertise technique-centre d'électronique de l'armement
 
 |
 
@@ -23650,7 +23650,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -23694,7 +23694,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -23740,7 +23740,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -23800,7 +23800,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -23890,7 +23890,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -23934,7 +23934,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -23978,7 +23978,7 @@ DGA
 
 |
 
-Direction des ressources humaines- administration centrale
+Direction des ressources humaines-administration centrale
 
 |
 
@@ -24022,7 +24022,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24066,7 +24066,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -24110,7 +24110,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24160,7 +24160,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -24204,7 +24204,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24250,7 +24250,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'études du Bouchet
+Direction de l'expertise technique-centre d'études du Bouchet
 
 |
 
@@ -24294,7 +24294,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24340,7 +24340,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- établissement de contrôle
+Direction des systèmes d'armes-établissement de contrôle
 
 |
 
@@ -24390,7 +24390,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- administration centrale
+Direction des systèmes d'armes-administration centrale
 
 |
 
@@ -24434,7 +24434,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -24478,7 +24478,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24572,7 +24572,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -24618,7 +24618,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24668,7 +24668,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -24712,7 +24712,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24758,7 +24758,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -24802,7 +24802,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24848,7 +24848,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -24894,7 +24894,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24938,7 +24938,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -24986,7 +24986,7 @@ DGA
 
 |
 
-Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération­ administration centrale
+Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération ­ administration centrale
 
 |
 
@@ -25040,7 +25040,7 @@ DGA
 
 |
 
-Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération­- centre de documentation de l'armement
+Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération ­-centre de documentation de l'armement
 
 |
 
@@ -25084,7 +25084,7 @@ DGA
 
 |
 
-Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération­- centre des hautes études de l'armement
+Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération ­-centre des hautes études de l'armement
 
 |
 
@@ -25142,7 +25142,7 @@ DGA
 
 |
 
-Direction du développement international- administration centrale
+Direction du développement international-administration centrale
 
 |
 
@@ -25194,7 +25194,7 @@ DGA
 
 |
 
-Direction des essais- administration centrale
+Direction des essais-administration centrale
 
 |
 
@@ -25250,7 +25250,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -25298,7 +25298,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -25342,53 +25342,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
-
-|
-
-75
-
-|
-
-Paris
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-DGA
-
-|
-
-Direction de l'expertise technique- mission pour l'innovation
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -25434,7 +25388,53 @@ DGA
 
 |
 
-Délégation générale pour l'armement
+Direction de l'expertise technique-mission pour l'innovation
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+DGA
+
+|
+
+direction générale de l'armement
 
 |
 
@@ -25478,7 +25478,7 @@ DGA
 
 |
 
-Délégation générale pour l'armement- inspection
+direction générale de l'armement-inspection
 
 |
 
@@ -25524,7 +25524,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- administration centrale
+Direction des plans, du budget et de la gestion-administration centrale
 
 |
 
@@ -25572,7 +25572,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+Direction des plans, du budget et de la gestion-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
 |
 
@@ -25616,7 +25616,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- administration centrale
+Direction de la qualité et du progrès-administration centrale
 
 |
 
@@ -25672,7 +25672,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -25716,7 +25716,7 @@ DGA
 
 |
 
-Direction des ressources humaines- administration centrale
+Direction des ressources humaines-administration centrale
 
 |
 
@@ -25766,7 +25766,7 @@ DGA
 
 |
 
-Direction des ressources humaines- centre de service des ressources humaines
+Direction des ressources humaines-centre de service des ressources humaines
 
 |
 
@@ -25912,7 +25912,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle navale
+Direction des systèmes d'armes-unité matérielle navale
 
 |
 
@@ -26048,7 +26048,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -26094,7 +26094,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -26154,7 +26154,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -26162,7 +26162,7 @@ Direction des essais- centre d'essais de lancement des missiles
 
 |
 
-Coudon-La-Valette- du-Var
+Coudon-La-Valette-du-Var
 
 |
 
@@ -26198,7 +26198,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais de lancement des missiles
+Direction des essais-centre d'essais de lancement des missiles
 
 |
 
@@ -26250,7 +26250,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -26296,7 +26296,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26342,7 +26342,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26402,7 +26402,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26454,7 +26454,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26504,7 +26504,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26554,7 +26554,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre technique des systèmes navals
+Direction de l'expertise technique-centre technique des systèmes navals
 
 |
 
@@ -26562,7 +26562,7 @@ Direction de l'expertise technique- centre technique des systèmes navals
 
 |
 
-Le Revesaint-les- Eaux
+Le Revesaint-les-Eaux
 
 |
 
@@ -26604,59 +26604,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
-
-|
-
-83
-
-|
-
-Toulon
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-DGA
-
-|
-
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -26668,6 +26616,58 @@ Toulon
 
 |
 
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+DGA
+
+|
+
+Direction de la qualité et du progrès-centre technique des systèmes d'information
+
+|
+
+83
+
+|
+
+Toulon
+
+|
+
 |
 
 |
@@ -26700,7 +26700,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -26796,7 +26796,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -26842,7 +26842,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais des propulseurs
+Direction des essais-centre d'essais des propulseurs
 
 |
 
@@ -26902,7 +26902,7 @@ DGA
 
 |
 
-Direction des essais- centre d'essais en vol
+Direction des essais-centre d'essais en vol
 
 |
 
@@ -26946,7 +26946,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -26992,7 +26992,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -27038,7 +27038,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'études du Bouchet
+Direction de l'expertise technique-centre d'études du Bouchet
 
 |
 
@@ -27046,7 +27046,7 @@ Direction de l'expertise technique- centre d'études du Bouchet
 
 |
 
-Le Bouchet (Vert-le- Petit)
+Le Bouchet (Vert-le-Petit)
 
 |
 
@@ -27082,7 +27082,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -27134,7 +27134,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -27178,7 +27178,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -27186,7 +27186,7 @@ Direction de la qualité et du progrès- centre technique des systèmes d'inform
 
 |
 
-Le Bouchet (Vert-le- Petit)
+Le Bouchet (Vert-le-Petit)
 
 |
 
@@ -27222,7 +27222,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service qualité
+Direction de la qualité et du progrès-service qualité
 
 |
 
@@ -27268,7 +27268,7 @@ DGA
 
 |
 
-Direction des ressources humaines- centre d'enseignement et de formation
+Direction des ressources humaines-centre d'enseignement et de formation
 
 |
 
@@ -27326,7 +27326,7 @@ DGA
 
 |
 
-Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération­ administration centrale
+Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération ­ administration centrale
 
 |
 
@@ -27492,7 +27492,7 @@ DGA
 
 |
 
-Direction du développement international- administration centrale
+Direction du développement international-administration centrale
 
 |
 
@@ -27544,7 +27544,7 @@ DGA
 
 |
 
-Direction des essais- administration centrale
+Direction des essais-administration centrale
 
 |
 
@@ -27600,7 +27600,7 @@ DGA
 
 |
 
-Direction des essais- service centralisé des achats et du soutien
+Direction des essais-service centralisé des achats et du soutien
 
 |
 
@@ -27648,67 +27648,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- administration centrale
-
-|
-
-92
-
-|
-
-Bagneux
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-DGA
-
-|
-
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-administration centrale
 
 |
 
@@ -27768,7 +27708,67 @@ DGA
 
 |
 
-Direction de l'expertise technique- service du maintien en condition opérationnelle
+Direction de l'expertise technique-centre d'expertise parisien
+
+|
+
+92
+
+|
+
+Bagneux
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+DGA
+
+|
+
+Direction de l'expertise technique-service du maintien en condition opérationnelle
 
 |
 
@@ -27820,7 +27820,7 @@ DGA
 
 |
 
-Délégation générale pour l'armement- département central de la sécurité et de la défense de l'information
+direction générale de l'armement-département central de la sécurité et de la défense de l'information
 
 |
 
@@ -27870,7 +27870,7 @@ DGA
 
 |
 
-Délégation générale pour l'armement- communication
+direction générale de l'armement-communication
 
 |
 
@@ -27914,7 +27914,7 @@ DGA
 
 |
 
-Délégation générale pour l'armement- cabinet
+direction générale de l'armement-cabinet
 
 |
 
@@ -27960,7 +27960,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- administration centrale
+Direction des plans, du budget et de la gestion-administration centrale
 
 |
 
@@ -28008,7 +28008,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-centre technique des systèmes d'information
 
 |
 
@@ -28052,7 +28052,7 @@ DGA
 
 |
 
-Direction des ressources humaines- administration centrale
+Direction des ressources humaines-administration centrale
 
 |
 
@@ -28198,7 +28198,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle terrestre
+Direction des systèmes d'armes-unité matérielle terrestre
 
 |
 
@@ -28246,7 +28246,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle nucléaire biologique et chimique
+Direction des systèmes d'armes-unité matérielle nucléaire biologique et chimique
 
 |
 
@@ -28294,7 +28294,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle aéronautique
+Direction des systèmes d'armes-unité matérielle aéronautique
 
 |
 
@@ -28342,7 +28342,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle navale
+Direction des systèmes d'armes-unité matérielle navale
 
 |
 
@@ -28390,7 +28390,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle hélicoptère
+Direction des systèmes d'armes-unité matérielle hélicoptère
 
 |
 
@@ -28678,7 +28678,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- service de la qualité
+Direction de la qualité et du progrès-service de la qualité
 
 |
 
@@ -28724,7 +28724,7 @@ DGA
 
 |
 
-Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération­ administration centrale
+Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération ­ administration centrale
 
 |
 
@@ -28836,7 +28836,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'études du Bouchet
+Direction de l'expertise technique-centre d'études du Bouchet
 
 |
 
@@ -28896,7 +28896,7 @@ DGA
 
 |
 
-Direction de l'expertise technique- centre d'expertise parisien
+Direction de l'expertise technique-centre d'expertise parisien
 
 |
 
@@ -28956,7 +28956,7 @@ DGA
 
 |
 
-Direction des plans, du budget et de la gestion- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+Direction des plans, du budget et de la gestion-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
 |
 
@@ -29000,111 +29000,7 @@ DGA
 
 |
 
-Direction de la qualité et du progrès- administration centrale
-
-|
-
-94
-
-|
-
-Arcueil
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-DGA
-
-|
-
-Direction de la qualité et du progrès- centre de normalisation de défense
-
-|
-
-94
-
-|
-
-Arcueil
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-DGA
-
-|
-
-Direction de la qualité et du progrès- centre technique des systèmes d'information
+Direction de la qualité et du progrès-administration centrale
 
 |
 
@@ -29150,6 +29046,110 @@ X
 
 |
 
+|
+
+DGA
+
+|
+
+Direction de la qualité et du progrès-centre de normalisation de défense
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+DGA
+
+|
+
+Direction de la qualité et du progrès-centre technique des systèmes d'information
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
 X
 
 |
@@ -29158,7 +29158,7 @@ DGA
 
 |
 
-Direction des ressources humaines- centre d'enseignement et de formation
+Direction des ressources humaines-centre d'enseignement et de formation
 
 |
 
@@ -29216,7 +29216,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- administration centrale
+Direction des systèmes d'armes-administration centrale
 
 |
 
@@ -29310,7 +29310,7 @@ DGA
 
 |
 
-Direction des systèmes d'armes- unité matérielle nucléaire biologique chimique
+Direction des systèmes d'armes-unité matérielle nucléaire biologique chimique
 
 |
 
@@ -29356,28 +29356,1248 @@ X
 
 |
 
-(1) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+.
 
-(2) Direction des systèmes d'armes - unité de management missiles et drones.
+.
 
-Vous pouvez consulter le tableau dans le JO n° 227 du 01/10/2009 texte numéro 30
+Service de santé des armées
 
-(1) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service des recherches et technologies de défense et de sécurité.
+|
 
-(2) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service d'architecture des systèmes de forces.
+SSA
 
-Vous pouvez consulter le tableau dans le JO n° 227 du 01/10/2009 texte numéro 30
+|
 
-(1) Direction des systèmes d'armes - unité de management Coelacanthe.
+Hôpital d'instruction des armées
+
+|
+
+13
+
+|
+
+Marseille
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Institut de médecine tropicale du service de santé des armées
+
+|
+
+13
+
+|
+
+Marseille
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Établissement de ravitaillement du service de santé
+
+|
+
+13
+
+|
+
+Marseille
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Établissement de ravitaillement du service de santé
+
+|
+
+28
+
+|
+
+Chartres
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+29
+
+|
+
+Brest
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+29
+
+|
+
+Brest
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+33
+
+|
+
+Bordeaux
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+33
+
+|
+
+Bordeaux
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Centre de recherche du service de santé des armées
+
+|
+
+38
+
+|
+
+La Tronche
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Établissement de ravitaillement du service de santé
+
+|
+
+51
+
+|
+
+Marolles
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+57
+
+|
+
+Metz
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+57
+
+|
+
+Metz
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+69
+
+|
+
+Lyon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+69
+
+|
+
+Lyon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction centrale du service de santé des armées
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+78
+
+|
+
+Saint-Germain-en- Laye
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+83
+
+|
+
+Toulon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Institut de médecine navale du service de santé des armées
+
+|
+
+83
+
+|
+
+Toulon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+École du personnel paramédical des armées
+
+|
+
+83
+
+|
+
+Toulon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Direction régionale du service de santé des armées
+
+|
+
+83
+
+|
+
+Toulon
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Institut de médecine aérospatiale du service de santé des armées
+
+|
+
+91
+
+|
+
+Brétigny-sur-Orge
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+92
+
+|
+
+Clamart
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Service de protection radiologique des armées
+
+|
+
+92
+
+|
+
+Clamart
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Centre de transfusion sanguine des armées
+
+|
+
+92
+
+|
+
+Clamart
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Hôpital d'instruction des armées
+
+|
+
+94
+
+|
+
+Saint-Mandé
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SSA
+
+|
+
+Centre de traitement de l'information médicale des armées
+
+|
+
+94
+
+|
+
+Saint-Mandé
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) Unité de management Coelacanthe.
 
 (2) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
 
-(3) Direction des systèmes d'armes - unité de management Rafale.
+(3) Direction des systèmes d'armes - unité de management missiles et drones
 
-(4) Direction des systèmes d'armes - unité de management missiles et drones.
+(4) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service des recherches et technologies de défense et de sécurité.
 
-(5) Direction des systèmes d'armes - unité de management Horus.
+(5) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service d'architecture des systèmes de forces.
 
-(6) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - centre d'analyse de défense.
+(6) Direction des systèmes d'armes - unité de management Coelacanthe.
 
-Vous pouvez consulter le tableau dans le JO n° 227 du 01/10/2009 texte numéro 30
+(7) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+
+(8) Direction des systèmes d'armes - unité de management Rafale.
+
+(9) Direction des systèmes d'armes - unité de management missiles et drones.
+
+(10) Direction des systèmes d'armes - unité de management Horus.
+
+(11) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - centre d'analyse de défense.

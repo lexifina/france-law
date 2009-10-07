@@ -346,7 +346,7 @@ NR 2 et NR 3
 
 TABLEAU IV
 
-Emplois relevant de la délégation générale pour l'armement
+Emplois relevant de la direction générale de l'armement
 
 (en vigueur le 1er janvier 2005)
 

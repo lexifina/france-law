@@ -1438,7 +1438,7 @@ Chef de la mission du pilotage et de la performance
 
 TABLEAU VI
 
-Fonctions relevant de la délégation générale pour l'armement
+Fonctions relevant de la direction générale de l'armement
 
 DÉSIGNATION DE L'EMPLOI
 

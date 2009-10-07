@@ -638,7 +638,7 @@ MAPA × 0, 66
 
 |
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 |
 

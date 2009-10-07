@@ -2,7 +2,7 @@
 
 TABLEAU VI
 
-Fonctions relevant de la délégation générale pour l'armement
+Fonctions relevant du service de santé des armées
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -16,7 +16,31 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Directeur du centre d'électronique de l'armement de la direction de l'expertise technique
+Inspecteur général du service de santé des armées
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Médecin-chef d'un hôpital d'instruction des armées
+
+|
+
+9
+
+|
+
+80
+
+|
+
+Directeur des approvisionnements en produits de santé
 
 |
 
@@ -28,7 +52,7 @@ Directeur du centre d'électronique de l'armement de la direction de l'expertise
 
 |
 
-Directeur du centre d'essais en vol de la direction des essais
+Directeur de l'Ecole du Val-de-Grâce
 
 |
 
@@ -40,7 +64,7 @@ Directeur du centre d'essais en vol de la direction des essais
 
 |
 
-Directeur du centre d'essais de lancement de missiles de la direction des essais
+Directeur de l'institut de recherche biomédicale du service de santé des armées
 
 |
 
@@ -52,7 +76,7 @@ Directeur du centre d'essais de lancement de missiles de la direction des essais
 
 |
 
-Directeur local du service de soutien de la flotte
+Directeur du département de l'audit interne du service de santé des armées
 
 |
 

@@ -16,7 +16,7 @@ OBSERVATIONS
 
 |
 
-A. - En métropole
+A.-En métropole
 
 |
 
@@ -130,7 +130,7 @@ Dignitaires de l'ordre national du Mérite.
 
 |
 
-B. - Dans les collectivités d'outre-mer
+B.-Dans les collectivités d'outre-mer
 
 |
 
@@ -154,7 +154,7 @@ Hauts-commissaires de la République et administrateurs supérieurs dans leur te
 
 |
 
-C. - Dans les Etats indépendants qui ont signé avec la France des accords de coopération technique en matière militaire et culturelle
+C.-Dans les Etats indépendants qui ont signé avec la France des accords de coopération technique en matière militaire et culturelle
 
 |
 
@@ -168,13 +168,13 @@ Les honneurs funèbres militaires sont rendus en principe à l'intérieur de l'e
 
 (a) Pour les piquets d'honneurs funèbres :
 
-- le bataillon est à deux compagnies, le groupe d'artillerie à deux batteries ;
+-le bataillon est à deux compagnies, le groupe d'artillerie à deux batteries ;
 
-- la compagnie, batterie ou escadron est à deux sections ou pelotons ;
+-la compagnie, batterie ou escadron est à deux sections ou pelotons ;
 
-- la section ou le peloton est à deux groupes ;
+-la section ou le peloton est à deux groupes ;
 
-- le groupe est d'un sous-officier ou d'un officier marinier et de neuf militaires du rang.
+-le groupe est d'un sous-officier ou d'un officier marinier et de neuf militaires du rang.
 
 (b) Sous réserve de dispositions spéciales qui pourraient être prises en application de l'article 11 du présent décret, quatrième alinéa.
 
@@ -206,7 +206,7 @@ Les troupes défilent devant le cercueil.
 
 |
 
-Membre du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la délégation générale pour l'armement.
+Membre du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la direction générale de l'armement.
 
 |
 

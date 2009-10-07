@@ -110,7 +110,7 @@ Inspecteurs généraux des armées.
 
 |
 
-Membres du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la délégation générale pour l'armement.
+Membres du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la direction générale de l'armement.
 
 |
 

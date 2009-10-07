@@ -156,6 +156,6 @@ Total
 
 (d) Les postes de secrétaires sont identifiés pour du personnel sous-officier de la marine et de l'armée de l'air.
 
-(e) Le tableau d'effectif ne prend pas en compte le poste d'ingénieur du commissariat à l'énergie atomique (CEA) et celui d'ingénieur de la délégation générale pour l'armement (DGA). Ceux-ci, respectivement affectés et en position d'activité au sein du CEA et de la DGA, effectuent également la liaison entre l'IAN et respectivement le CEA et la DGA, afin de permettre à l'inspecteur d'assurer sa mission de contrôle gouvernemental de l'engagement et de conformité de l'emploi des forces nucléaires et sa compétence en matière d'intégrité des moyens de la dissuasion nucléaire (art. D. 1411-16 et D. 1411-17 du code de la défense).
+(e) Le tableau d'effectif ne prend pas en compte le poste d'ingénieur du commissariat à l'énergie atomique (CEA) et celui d'ingénieur de la direction générale de l'armement (DGA). Ceux-ci, respectivement affectés et en position d'activité au sein du CEA et de la DGA, effectuent également la liaison entre l'IAN et respectivement le CEA et la DGA, afin de permettre à l'inspecteur d'assurer sa mission de contrôle gouvernemental de l'engagement et de conformité de l'emploi des forces nucléaires et sa compétence en matière d'intégrité des moyens de la dissuasion nucléaire (art.D. 1411-16 et D. 1411-17 du code de la défense).
 
 |

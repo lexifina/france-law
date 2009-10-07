@@ -4,7 +4,7 @@ TABLEAU II
 
 EMPLOIS DE DIRECTEUR ET ASSIMILÉ
 
-A. - Emplois de directeur :
+A.-Emplois de directeur :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -294,7 +294,7 @@ Adjoint au délégué général pour l'armement, directeur du développement int
 
 |
 
-Directeur des ressources humaines de la délégation générale pour l'armement
+Directeur des ressources humaines de la direction générale de l'armement
 
 |
 
@@ -306,7 +306,7 @@ Directeur des ressources humaines de la délégation générale pour l'armement
 
 |
 
-Directeur de l'expertise technique de la délégation générale pour l'armement
+Directeur de l'expertise technique de la direction générale de l'armement
 
 |
 
@@ -318,7 +318,7 @@ Directeur de l'expertise technique de la délégation générale pour l'armement
 
 |
 
-Directeur des essais de la délégation générale pour l'armement
+Directeur des essais de la direction générale de l'armement
 
 |
 
@@ -330,7 +330,7 @@ Directeur des essais de la délégation générale pour l'armement
 
 |
 
-Directeur des plans, du budget et de la gestion de la délégation générale pour l'armement
+Directeur des plans, du budget et de la gestion de la direction générale de l'armement
 
 |
 
@@ -342,7 +342,7 @@ Directeur des plans, du budget et de la gestion de la délégation générale po
 
 |
 
-Directeur de la qualité et du progrès de la délégation générale pour l'armement
+Directeur de la qualité et du progrès de la direction générale de l'armement
 
 |
 
@@ -402,7 +402,7 @@ Directeur central du service des essences des armées
 
 |
 
-B. - Emplois de délégué :
+B.-Emplois de délégué :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -440,7 +440,7 @@ Délégué aux restructurations
 
 |
 
-C. - Emplois de sous-chef d'état-major à l'état-major des armées :
+C.-Emplois de sous-chef d'état-major à l'état-major des armées :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -502,7 +502,7 @@ Sous-chef d'état-major relations internationales
 
 |
 
-D. - Emplois de chef de service de la direction générale de la gendarmerie nationale :
+D.-Emplois de chef de service de la direction générale de la gendarmerie nationale :
 
 DÉSIGNATION DE L'EMPLOI
 
