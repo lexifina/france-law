@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709590
+
+- Question : [SEQ090709590](seq090709590.md) — Délinquance financière
+
+## Réponse
+
+*Justice, JO du 2009-10-08, page 2370*
+
+Les bases statistiques mises à la disposition du ministère de la justice ne permettent pas de connaître le nombre d'affaires de « grande délinquance financière », cette notion ne correspondant pas à une incrimination prévue par le droit pénal français. Il résulte des renseignements fournis annuellement par les parquets que 148 239 affaires nouvelles ont été enregistrées en 2007 sous la nomenclature « Infractions financières » qui englobe de multiples infractions (abus de biens sociaux, faux bilans, banqueroute, violation de l'interdiction de gérer, fraude fiscale, blanchiment de capitaux, délit d'initiés notamment). Par ailleurs, le répertoire de l'instruction permet de dénombrer environ 200 affaires nouvelles correspondant à la nomenclature mentionnée ci-dessus, en 1996, 1999 et 2004. Ce nombre s'explique par le fait que seules les affaires les plus complexes nécessitent l'ouverture d'une information judiciaire. Ce taux d'affaires donnant lieu à ouverture d'informations est d'ailleurs, toutes infractions confondues, de 3,8 % (taux de saisine des juges d'instruction, 2008). Il est confirmé qu'une réflexion a été engagée à la suite du rapport relatif à la dépénalisation de la vie des affaires, déposé au mois de janvier 2008 par le groupe de travail présidé par M. Jean-Marie Coulon, premier président honoraire de la cour d'appel de Paris. Enfin, concernant la réforme de la procédure pénale et la question de la suppression du juge d'instruction, un comité de réflexion présidé par M. Philippe Léger, ancien avocat à la Cour de justice des Communautés européennes, a remis son rapport le 1er septembre dernier au Président de la République. Les propositions de ce comité feront l'objet d'une large concertation en vue de l'élaboration d'un projet de texte.
