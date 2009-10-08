@@ -1,6 +1,6 @@
 # Article Annexe I
 
-A L'ARRÊTE FIXANT LES DIPLÔMES ET LES CONDITIONS D'EXPERIENCE PROFESSIONNELLE REQUIS PAR L'ARTICLE R. 213-4 DU CODE RURAL POUR LA DELIVRANCE DU CERTIFICAT DE CAPACITE POUR L'ENTRETIEN D'ANIMAUX D'ESPECES NON DOMESTIQUES
+A L'ARRÊTE FIXANT LES DIPLÔMES ET LES CONDITIONS D'EXPERIENCE PROFESSIONNELLE REQUIS PAR L'ARTICLE R. 413-5 DU CODE DE L'ENVIRONNEMENT POUR LA DELIVRANCE DU CERTIFICAT DE CAPACITE POUR L'ENTRETIEN D'ANIMAUX D'ESPECES NON DOMESTIQUES
 
 DUREE MINIMALE D'EXPERIENCE REQUISE DANS LE TYPE D'ACTIVITE
 
@@ -30,9 +30,7 @@ Niveau IV bac
 
 |
 
-Niveau postsecondaire
-
-(3)
+Niveau postsecondaire (3)
 
 |
 
@@ -156,7 +154,7 @@ Autre présentation au public que celle définie au (4) (avec spectacles itinér
 
 |
 
-Vente, location, transit
+Vente, transit, location
 
 |
 
@@ -168,7 +166,7 @@ Vente, location, transit
 
 |
 
-6 mois
+6 mois (7)
 
 |
 
@@ -208,14 +206,16 @@ ou
 
 La présentation au public correspondant au type d'activité suivant :
 
-- aucune activité de spectacle avec les animaux n'est réalisée ;
+-aucune activité de spectacle avec les animaux n'est réalisée ;
 
-- les espèces ne sont pas considérées comme dangereuses au sens de l'arrêté du 21 novembre 1997 susvisé ;
+-les espèces ne sont pas considérées comme dangereuses au sens de l'arrêté du 21 novembre 1997 susvisé ;
 
-- en ce qui concerne les espèces aquatiques de poissons ou d'invertébrés, les capacités cumulées des aquariums et des bassins présentés au public hébergeant les animaux sont inférieures à 10 000 litres (volume total brut) ;
+-en ce qui concerne les espèces aquatiques de poissons ou d'invertébrés, les capacités cumulées des aquariums et des bassins présentés au public hébergeant les animaux sont inférieures à 10 000 litres (volume total brut) ;
 
-- en ce qui concerne les autres espèces, le nombre des espèces présentées au public n'excède pas 10 ; dans le cas des espèces de mammifères, d'oiseaux, de reptiles et d'amphibiens, le nombre total des animaux présentés au public, toutes espèces confondues, n'excède pas 30.
+-en ce qui concerne les autres espèces, le nombre des espèces présentées au public n'excède pas 10 ; dans le cas des espèces de mammifères, d'oiseaux, de reptiles et d'amphibiens, le nombre total des animaux présentés au public, toutes espèces confondues, n'excède pas 30.
 
-(5) Pour les titulaires du brevet d'études professionnelles agricoles option "services, spécialité "vente d'animaux de compagnie, de produits et accessoires d'animalerie, la durée minimale d'expérience est de neuf mois.
+(5) Pour les titulaires du brevet d'études professionnelles agricoles option " services, spécialité " vente d'animaux de compagnie, de produits et accessoires d'animalerie, la durée minimale d'expérience est de neuf mois.
 
 (6) Aucune condition d'expérience n'est exigée pour les titulaires du diplôme de docteur vétérinaire.
+
+(7) Aucune condition d'expérience n'est exigée pour les requérants ayant satisfait aux épreuves E5 " sciences appliquées et technologie " et E7 " pratiques professionnelles " du baccalauréat professionnel option " technicien conseil vente en animalerie ", qu'ils soient ou non titulaires dudit baccalauréat professionnel, sollicitant un certificat de capacité pour la vente d'animaux des espèces ou groupes d'espèces dont la liste est fixée par l'arrêté du 2 juillet 2009 fixant les conditions simplifiées dans lesquelles le certificat de capacité pour l'entretien des animaux d'espèces non domestiques peut être délivré.
