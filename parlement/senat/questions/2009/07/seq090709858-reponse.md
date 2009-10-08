@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709858
+
+- Question : [SEQ090709858](seq090709858.md) — Saturation du marché viticole européen
+
+## Réponse
+
+*Alimentation, JO du 2009-10-08, page 2359*
+
+Les assureurs-crédits, en réaction à la crise financière, ont réduit, voire supprimé, leurs couvertures de risques clients. Les échanges interentreprises nationaux ou à l'export sont pénalisés par ces restrictions de garantie opérées par les assureurs-crédits. Le Gouvernement a mis en place très rapidement, début 2009, un dispositif de complément d'assurance-crédit public (CAP) destiné à se substituer pour partie à cette diminution de couverture de risques pour les échanges entre entreprises françaises, dénommé CAP pour les diminutions de couverture et CAP plus pour les retraits ou refus de garantie. Le ministère de l'économie, de l'industrie et de l'emploi, en charge du sujet, a par ailleurs travaillé à la mise en place d'un tel dispositif pour les entreprises exportatrices pour faciliter la concrétisation de leurs échanges avec des entreprises étrangères. Ce nouveau dispositif, destiné à couvrir les échanges à l'export, devrait voir le jour dans les toutes prochaines semaines. Ce dispositif ne sera pas sectoriel ; tous les secteurs de l'économie pourront en bénéficier, y compris bien évidemment les entreprises exportatrices de la filière vitivinicole, tout comme les producteurs de fruits et légumes, les entreprises laitières ou l'ensemble des industries agroalimentaires. La mise en oeuvre rapide de ce nouveau dispositif permettra aux exportateurs de vin et au négoce de conforter leurs ventes sur leurs marchés traditionnels et de les développer, même dans un contexte difficile, sur les pays émergents qui offrent un fort potentiel de développement, comme la Chine, la Russie, le Brésil ou la Corée, pays qui sont d'ailleurs classés prioritaires dans la stratégie de promotion à l'exportation du ministère de l'alimentation, de l'agriculture et de la pêche.
