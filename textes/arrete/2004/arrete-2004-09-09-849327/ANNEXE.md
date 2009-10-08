@@ -2,7 +2,7 @@
 
 Intitulé :
 
-Titre professionnel : ouvrier(ière) de production horticole, option floriculture, option pépinière.
+Titre professionnel : ouvrier (ère) de production horticole ornementale (ancien intitulé : ouvrier [ère] de production horticole, option floriculture, option pépinière).
 
 Niveau : V.
 
@@ -10,17 +10,15 @@ Code NSF : 211 s.
 
 Résumé du référentiel d'emploi
 
-L'ouvrier(ière) de production horticole cultive et produit des végétaux d'ornement en vue de leur commercialisation. Il (elle) assure les opérations liées au développement des végétaux, tels les semis, repiquages, greffages et multiplications par bouturage ou marcottage. Il (elle) réalise le suivi et la maintenance des cultures par une taille appropriée, des arrosages réguliers, l'entretien et la fertilisation des sols, et l'application de traitements phytosanitaires dans le respect de la législation et des mesures de sécurité prévues. Il (elle) réalise la récolte, le calibrage et le conditionnement des végétaux produits et peut être amené à en assurer la commercialisation.
+L'ouvrier de production horticole ornementale participe au processus de culture des végétaux d'ornement. Il assure, dans le respect des consignes, les opérations liées à la multiplication, au développement des végétaux et au suivi des cultures, dans un objectif de production. Il intègre, dans le processus de production, les comportements et les savoir-faire techniques tenant compte des réglementations environnementales et du développement durable. Il peut étendre ses compétences jusqu'au conseil au client sur le lieu de production des végétaux. Il assure l'entretien de premier niveau du matériel qu'il utilise.
 
-En floriculture, les végétaux produits sont des fleurs coupées ou en pots. En pépinière, il s'agit d'arbres et d'arbustes. Cet(te) ouvrier(ière) polyvalent(e) peut également, en respectant des consignes, installer des systèmes d'arrosage, réaliser des aménagements et compositions florales simples et entretenir les matériels qu'il (elle) utilise.
+L'ouvrier de production horticole ornementale travaille au sein d'une équipe dirigée par un responsable de culture. Il exerce en plein air ou sous abris, en toutes saisons selon les productions à mettre en place. Il est amené à utiliser des matériels motorisés, des produits de fertilisation et de traitements phytosanitaires dans le respect de la législation et des mesures de sécurité prévues. Il prend en compte les recommandations du document unique concernant les mesures de sécurité propres à l'entreprise.L'évolution de la réglementation sur l'utilisation des produits phytosanitaires et l'intégration de modes de production prenant en compte le développement durable l'amènent souvent à utiliser les techniques de lutte biologique intégrée, de maîtrise des intrants et de recyclage des eaux. Il réalise l'ensemble de ses activités dans le respect des règles de sécurité et de prévention de la santé.
 
-Il (elle) travaille au sein d'une équipe dirigée par un responsable de culture et, selon les types de végétaux et les saisons, exerce en plein air, sous abris et sous serre dans une atmosphère chaude et humide. Le travail, tributaire de la saisonnalité des cultures, implique parfois des horaires adaptés (astreinte, journée continue, travail de nuit...)
+Le travail, tributaire de la saisonnalité des cultures, implique parfois des horaires adaptés (astreinte, journée continue, travail de nuit, etc.).
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Multiplier des végétaux d'ornement en production horticole
-
-Désinfecter et effectuer le remplissage des contenants pour végétaux en production horticole.
 
 Semer des végétaux d'ornement.
 
@@ -28,79 +26,37 @@ Bouturer des végétaux d'ornement.
 
 Réaliser le greffage simple de végétaux d'ornement.
 
-Réaliser le marcottage, la division de plantes et exploiter la multiplication naturelle des végétaux.
+Marcotter et diviser des végétaux d'ornement.
 
-2. Mettre en place une culture en floriculture et en pépinière
-
-Désherber des aires de culture.
+2. Mettre en place et assurer le suivi de cultures de végétaux d'ornement
 
 Réaliser le travail du sol en production horticole.
 
-Repiquer des végétaux d'ornement.
+Repiquer, empoter et rempoter des végétaux d'ornement.
 
-Empoter et rempoter des végétaux d'ornement.
+Planter, placer et distancer des végétaux d'ornement.
 
-Planter et transplanter des végétaux d'ornement.
+Arroser, fertiliser des végétaux en place en production horticole.
 
-Les autres unités constitutives du titre professionnel sont à choisir parmi les deux options suivantes :
+Tailler, tuteurer et palisser des végétaux d'ornement.
 
-Soit l'option floriculture :
+Protéger les végétaux d'ornement des parasites, maladies et adventices.
 
-1. Assurer le suivi des cultures en floriculture
+3. Préparer et conditionner des végétaux d'ornement, conseiller la clientèle sur le site de production
 
-Arroser des cultures florales en place (hors-sol, plantes en pots, fleurs coupées).
+Préparer et conditionner les végétaux d'ornement en fonction d'une consigne orale ou d'un bon de commande.
 
-Fertiliser des cultures florales.
+Réaliser une composition florale simple.
 
-Tailler pour entretenir des cultures florales.
-
-Tailler pour former des cultures florales.
-
-Distancer des cultures florales.
-
-Réaliser des traitements phytosanitaires sur des cultures florales.
-
-Tuteurer des cultures florales.
-
-2. Préparer et conditionner les végétaux issus de la production florale
-
-Récolter et préparer des fleurs coupées.
-
-Conditionner des végétaux issus de la production florale.
-
-Réaliser une composition florale.
-
-Soit l'option pépinière :
-
-1. Assurer le suivi cultural en pépinière
-
-Arroser des végétaux en pépinière.
-
-Fertiliser des végétaux d'ornement.
-
-Tailler pour entretenir des végétaux en pépinière.
-
-Tailler pour former des végétaux en pépinière.
-
-Distancer des végétaux en pépinière.
-
-Réaliser les traitements phytosanitaires en pépinière.
-
-Tuteurer et haubaner des végétaux d'ornement en pépinière.
-
-2. Préparer et conditionner les végétaux issus de la culture en pépinière
-
-Arracher des végétaux d'ornement en pépinière.
-
-Conditionner des jeunes plants et des végétaux d'ornement finis issus de production pépinière hors-sol en fonction d'un bon de commande.
-
-Conditionner des jeunes plants et des végétaux d'ornement finis issus de production pépinière pleine terre en fonction d'un bon de commande.
+Aider et conseiller la clientèle sur le site de production horticole.
 
 Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Entreprises de production horticole qui emploient une main-d'oeuvre importante.
+Entreprises de production horticole.
 
 Secteur production de certains services espaces verts des collectivités territoriales.
+
+Entreprises de travail temporaire.
 
 Entreprises de location de végétaux.
 
@@ -108,9 +64,11 @@ Entreprises du paysage ayant un secteur vente ou production.
 
 Jardineries et autres entreprises à vocation commerciale.
 
+Certaines entreprises à caractère associatif.
+
 Code ROME :
 
-41112 - Maraîcher-horticulteur.
+41112-Maraîcher-horticulteur.
 
 Réglementation de l'activité :
 
@@ -122,8 +80,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
