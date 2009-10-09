@@ -1,10 +1,6 @@
 # Article Annexe
 
-NOMBRE MAXIMUM DE VÉHICULES ADMIS À CIRCULER SIMULTANÉMENT
-
-SUR LE CIRCUIT DE VITESSE DE HAUTE SAINTONGE
-
-(La Genétouze - Charente-Maritime)
+NOMBRE MAXIMUM DE VÉHICULES ADMIS À CIRCULER SIMULTANÉMENT SUR LE CIRCUIT DE VITESSE DE HAUTE SAINTONGE (LA GENÉTOUZE, CHARENTE-MARITIME)
 
 Piste de 2,200 kilomètres
 
@@ -16,8 +12,6 @@ NOMBRE AUTORISÉ
 
 |
 
-|
-
 En course
 
 |
@@ -26,9 +20,11 @@ Aux essais
 
 |
 
-Voitures tourisme
+Voitures tourisme N-A-B-GT-FC-F 2000
 
-N-A-B-GT-FC-F 2000
+|
+
+|
 
 |
 
@@ -40,7 +36,7 @@ Vitesse
 
 |
 
-32
+43
 
 |
 
@@ -52,7 +48,7 @@ Endurance (1 à 2 heures)
 
 |
 
-36
+50
 
 |
 
@@ -64,7 +60,7 @@ Endurance (2 à 4 heures)
 
 |
 
-40
+54
 
 |
 
@@ -76,7 +72,7 @@ Endurance (4 à 12 heures)
 
 |
 
-45
+61
 
 |
 
@@ -88,13 +84,15 @@ Endurance (+ de 12 heures)
 
 |
 
-47
+65
 
 |
 
-Sport biplaces, monoplaces
+Sport biplaces, monoplaces jusqu'à 2 000 cc
 
-jusqu'à 2 000 cc
+|
+
+|
 
 |
 
@@ -162,6 +160,10 @@ Sport biplaces plus de 2 000 cc
 
 |
 
+|
+
+|
+
 Vitesse
 
 |
@@ -226,6 +228,10 @@ Monoplaces plus de 2 000 cc
 
 |
 
+|
+
+|
+
 Vitesse
 
 |
@@ -239,6 +245,10 @@ Vitesse
 |
 
 Motos
+
+|
+
+|
 
 |
 
@@ -290,13 +300,7 @@ NOMBRE AUTORISÉ
 
 |
 
-En course,
-
-départ arrêté
-
-(valeurs départ
-
-lancé)
+En course, départ arrêté (valeurs départ lancé)
 
 |
 
@@ -306,9 +310,11 @@ Aux essais
 
 Voitures tourisme et GT
 
-Voitures sport biplaces
+Voitures sport biplaces (avant le 1er janvier 1966)
 
-(avant le 1er janvier 1966)
+|
+
+|
 
 |
 
@@ -352,15 +358,17 @@ Voitures sport biplaces
 
 (à partir du 1er janvier 1966)
 
-Voitures monoplaces
-
-(jusqu'à 1965)
+Voitures monoplaces (jusqu'à 1965)
 
 Voitures monoplaces moins de 1 600 cm³
 
 (du 1er janvier 1966 au 31 décembre 1981)
 
 et formule 3 toutes périodes
+
+|
+
+|
 
 |
 
