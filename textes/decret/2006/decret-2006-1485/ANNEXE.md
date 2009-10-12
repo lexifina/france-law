@@ -1,97 +1,99 @@
 # Article ANNEXE
 
-Liste des emprises de la défense apportées à l'EPIDE.
+Liste des emprises de la défense apportées à l'EPIDE
 
-DÉNOMINATION et localisation de l'emprise
+DÉNOMINATION
 
-ESCAT d'Ambronay (01)
+et localisation de l'emprise
 
-SUPERFICIE
-
-319 340 m2
-
-VALEUR VÉNALE (HT)
-
-2 100 000 euros
-
-DÉNOMINATION et localisation de l'emprise
-
-Magasin de Lunel (34)
+|
 
 SUPERFICIE
 
-44 193 m2
+|
 
-VALEUR VÉNALE (HT)
+VALEUR VÉNALE
 
-1 640 000 euros
+(HT)
 
-DÉNOMINATION et localisation de l'emprise
+|
 
-Groupe fortifié La Marne et route d'accès Ars-Laquenexy et Jury (57)
+ESCAT d'Ambronay (01) |
 
-SUPERFICIE
+319 340 m²
 
-124 672 m2
+|
 
-VALEUR VÉNALE (HT)
+2 100 000 €
 
-62 336 euros
+|
 
-DÉNOMINATION et localisation de l'emprise
+Magasin de Lunel (34) |
 
-Base général Estienne, Margny-lès-Compiègne (60)
+44 193 m²
 
-SUPERFICIE
+|
 
-76 769 m2
+1 640 000 €
 
-VALEUR VÉNALE (HT)
+|
 
-4 000 000 euros
+Groupe fortifié La Marne et route d'accès Ars-Laquenexy et Jury (57) |
 
-DÉNOMINATION et localisation de l'emprise
+124 672 m²
 
-Caserne Schramm, Arras (62)
+|
 
-SUPERFICIE
+62 336 €
 
-23 214 m2
+|
 
-VALEUR VÉNALE (HT)
+Base général Estienne, Margny-lès-Compiègne (60) |
 
-4 800 000 euros
+76 769 m²
 
-DÉNOMINATION et localisation de l'emprise
+|
 
-Site d'Ollainville, Linas-Montlhéry (91)
+4 000 000 €
 
-SUPERFICIE
+|
 
-116 342 m2
+Caserne Schramm, Arras (62) |
 
-VALEUR VÉNALE (HT)
+23 214 m²
 
-1 200 000 euros
+|
 
-DÉNOMINATION et localisation de l'emprise
+4 800 000 €
 
-Etablissement CNE Charles, Belfort (90)
+|
 
-SUPERFICIE
+Site d'Ollainville, Linas-Montlhéry (91) |
 
-40 461 m2
+116 342 m²
 
-VALEUR VÉNALE (HT)
+|
 
-1 000 000 euros
+1 200 000 €
 
-Total
+|
 
-SUPERFICIE
+Etablissement CNE Charles, Belfort (90) |
 
-744 991 m2
+40 461 m²
 
-VALEUR VÉNALE (HT)
+|
 
-14 802 336 euros
+1 000 000 €
+
+|
+
+Total |
+
+744 991 m²
+
+|
+
+14 802 336 €
+
+|
