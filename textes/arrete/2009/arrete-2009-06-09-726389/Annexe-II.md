@@ -40,7 +40,7 @@ Commandant de la force logistique terrestre
 
 |
 
-Commandant de la formation de l'armée de terre
+Directeur des ressources humaines de l'armée de terre
 
 |
 
@@ -196,7 +196,7 @@ Chef d'état-major du commandement de la force logistique terrestre
 
 |
 
-Chef d'état-major du commandement de la formation de l'armée de terre
+Chef d'état-major du direction des ressources humaines de l'armée de terre
 
 |
 
@@ -256,7 +256,7 @@ Adjoint au commandant de la force logistique terrestre
 
 |
 
-Adjoint au commandant de la formation de l'armée de terre
+Adjoint au directeur des ressources humaines de l'armée de terre
 
 |
 

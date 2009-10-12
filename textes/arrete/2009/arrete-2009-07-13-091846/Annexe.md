@@ -954,7 +954,7 @@ Etat-major de la région terre Nord-Ouest, à Rennes, Ille-et-Vilaine (35).
 
 11e régiment d'artillerie de marine, à Saint-Aubin-du-Cormier, Ille-et-Vilaine (35).
 
-Commandement de la formation de l'armée de terre, à Tours, Indre-et-Loire (37).
+direction des ressources humaines de l'armée de terre, à Tours, Indre-et-Loire (37).
 
 93e régiment d'artillerie de montagne, à Varces-Allières-et-Risset, Isère (38).
 
@@ -6786,7 +6786,7 @@ Terre
 
 |
 
-Détachement du commandement de la formation de l'armée de terre
+Détachement du direction des ressources humaines de l'armée de terre
 
 |
 
@@ -30092,7 +30092,7 @@ Direction régionale du service de santé des armées
 
 |
 
-Saint-Germain-en- Laye
+Saint-Germain-en-Laye
 
 |
 
@@ -30582,22 +30582,22 @@ X
 
 (1) Unité de management Coelacanthe.
 
-(2) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+(2) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
 
-(3) Direction des systèmes d'armes - unité de management missiles et drones
+(3) Direction des systèmes d'armes-unité de management missiles et drones
 
-(4) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service des recherches et technologies de défense et de sécurité.
+(4) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service des recherches et technologies de défense et de sécurité.
 
-(5) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service d'architecture des systèmes de forces.
+(5) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service d'architecture des systèmes de forces.
 
-(6) Direction des systèmes d'armes - unité de management Coelacanthe.
+(6) Direction des systèmes d'armes-unité de management Coelacanthe.
 
-(7) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+(7) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
 
-(8) Direction des systèmes d'armes - unité de management Rafale.
+(8) Direction des systèmes d'armes-unité de management Rafale.
 
-(9) Direction des systèmes d'armes - unité de management missiles et drones.
+(9) Direction des systèmes d'armes-unité de management missiles et drones.
 
-(10) Direction des systèmes d'armes - unité de management Horus.
+(10) Direction des systèmes d'armes-unité de management Horus.
 
-(11) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - centre d'analyse de défense.
+(11) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-centre d'analyse de défense.
