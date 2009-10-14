@@ -24,6 +24,20 @@ du personnel
 
 |
 
+Ministériel |
+
+C.H.S. ministériel
+
+|
+
+5
+
+|
+
+7
+
+|
+
 Central
 
 |
@@ -60,7 +74,7 @@ Régionaux et interdépartementaux
 
 |
 
-C.H.S. régionaux et interdépartemantaux :
+C.H.S. régionaux et interdépartementaux :
 
 |
 
