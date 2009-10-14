@@ -1,6 +1,4 @@
-# Article LEGIARTI000020884355
-
-LISTE DES LABORATOIRES D'ANALYSES DE TERRE
+# Article Annexe
 
 Agrément pour l'année 2009
 
@@ -34,7 +32,7 @@ Menu 2
 
 T 1
 
-Physicochimie
+Physico-chimie
 
 |
 
@@ -70,11 +68,11 @@ azotés
 
 |
 
-Centre scientifique agricole régional CESAR
+Centre Scientifique Agricole Régional CESAR
 
 |
 
-Les Soudanières, BP 20, 01250 CEYZERIAT
+Les Soudanières, BP 200, 1250 CEYZERIAT
 
 |
 
@@ -94,7 +92,7 @@ Les Soudanières, BP 20, 01250 CEYZERIAT
 
 |
 
-In Vivo ets Inzo division productions animales, établissements UCAAB ― INVIVO-UNCAA
+IN VIVO ETS INZO Division productions animales Etablissements UCAAB-INVIVO-UNCAA
 
 |
 
@@ -122,7 +120,7 @@ Route de l'Eglise, BP 19, 02400 CHÂTEAU-THIERRY Cedex
 
 |
 
-LDAR
+L D A R
 
 |
 
@@ -150,11 +148,11 @@ LDAR
 
 |
 
-Laboratoire d'analyses des sols de la chambre d'agriculture de l'Aude
+Laboratoire d'analyses des sols de la Chambre d'Agriculture de l'AUDE
 
 |
 
-c/o ICV ZA de Sautès, 11800 TRÈBES
+c/o ICV ZA de Sautès, 11800 TREBES
 
 |
 
@@ -192,7 +190,7 @@ LABGRISOL
 
 |
 
-Laboratoire Centre Atlantique ― LCA
+Laboratoire Centre Atlantique-LCA
 
 |
 
@@ -218,7 +216,7 @@ Laboratoire Centre Atlantique ― LCA
 
 |
 
-Laboratoire départemental d'analyses 21, LDA21
+Laboratoire Départemental d'Analyses 21-LDA 21
 
 |
 
@@ -246,7 +244,7 @@ Laboratoire départemental d'analyses 21, LDA21
 
 |
 
-Laboratoire départemental d'analyses 22, LDA22
+Laboratoire Départemental d'Analyses 22, LDA22
 
 |
 
@@ -274,7 +272,7 @@ Laboratoire départemental d'analyses 22, LDA22
 
 |
 
-Laboratoire départemental d'analyses 23, LDA23
+Laboratoire Départemental d'Analyses 23, LDA23
 
 |
 
@@ -296,7 +294,7 @@ Laboratoire départemental d'analyses 23, LDA23
 
 |
 
-Laboratoire d'analyses agricoles TEYSSIER
+Laboratoire d'Analyses Agricoles TEYSSIER
 
 |
 
@@ -318,7 +316,7 @@ Route des Junchas, 26460 BOURDEAUX
 
 |
 
-AGRILABO SARL, laboratoire d'analyses de terre, de fourrages et d'aliments du bétail
+AGRILABO SARL Laboratoire d'analyses de terre, de fourrages et d'aliments du bétail
 
 |
 
@@ -372,11 +370,11 @@ Laboratoire central, ZI de Lanrinou, 29206 LANDERNEAU
 
 |
 
-LABORATOIRE DÉVELOPPEMENT MÉDITERRANNÉE
+LABORATOIRE DEVELOPPEMENT MEDITERRANNEE
 
 |
 
-1592, route de Nîmes, 30560 SAINT-HILAIRE-DE-BRETHMAS
+1 592, route de Nîmes, 30560 SAINT-HILAIRE-DE-BRETHMAS
 
 |
 
@@ -420,7 +418,7 @@ LARA EUROPE ANALYSES
 
 |
 
-Laboratoire départemental d'analyses, 32 division agricole et viticole, LDA32
+Laboratoire Départemental d'Analyses 32 Division agricole et viticole, LDA32
 
 |
 
@@ -442,11 +440,11 @@ Avenue de l'Armagnac, 32800 EAUZE
 
 |
 
-Laboratoire Centre Atlantique ― LCA-Bordeaux
+Laboratoire Centre Atlantique, LCA-Bordeaux
 
 |
 
-39, rue Michel-Montaigne BP 122, 33294 BLANQUEFORT
+39, rue Michel-Montaigne, BP 122, 33294 BLANQUEFORT
 
 |
 
@@ -468,11 +466,11 @@ Laboratoire Centre Atlantique ― LCA-Bordeaux
 
 |
 
-CIRAD, centre de coopération internationale en recherche agronomique pour le développement
+CIRAD Centre de coopération Internationale en Recherche Agronomique pour le Développement
 
 |
 
-2477, avenue d'Agropolis TA B 49/01, 34398 MONTPELLIER Cedex 5
+2 477, avenue d'Agropolis, TA B 49/01, 34398 MONTPELLIER Cedex 5
 
 |
 
@@ -494,7 +492,7 @@ CIRAD, centre de coopération internationale en recherche agronomique pour le d�
 
 |
 
-Laboratoire départemental d'analyses 35, LDA35
+Laboratoire Départemental d'Analyses 35, LDA35
 
 |
 
@@ -550,7 +548,7 @@ Le Bas Champeigné Parçay-Meslay, BP 67357, 37073 TOURS Cedex 2
 
 |
 
-Laboratoire départemental agronomique et œnologique
+Laboratoire Départemental Agronomique et Œnologique
 
 |
 
@@ -604,7 +602,7 @@ GALYS SAS
 
 |
 
-TERRENA ― ACTIVITÉ LABORATOIRE CENTRAL
+TERRENA, ACTIVITE LABORATOIRE CENTRAL
 
 |
 
@@ -630,7 +628,7 @@ La Noelle, BP 199, 44155 ANCENIS Cedex
 
 |
 
-Institut départemental d'analyse et de conseil, IDAC
+Institut Départemental d'Analyse et de Conseil, IDAC
 
 |
 
@@ -658,11 +656,11 @@ Route de Gachet, BP 52703, 44327 NANTES Cedex 3
 
 |
 
-Chambre d'agriculture du Loiret Laboratoire
+Chambre d'Agriculture du Loiret Laboratoire
 
 |
 
-13, avenue des Droits-de-l'Homme, 45921 ORLÉANS Cedex 9
+13, avenue des Droits-de-l'Homme, 45921 ORLEANS Cedex 9
 
 |
 
@@ -684,7 +682,7 @@ Chambre d'agriculture du Loiret Laboratoire
 
 |
 
-SAS Laboratoire
+S.A.S. Laboratoire
 
 |
 
@@ -712,11 +710,11 @@ SAS Laboratoire
 
 |
 
-Laboratoire agronomique de Normandie LANO
+Laboratoire Agronomique de Normandie LANO
 
 |
 
-Quartier du Bois Ardent 23, rue A.-Grandin, 50000 SAINT-LÔ Cedex
+Quartier du Bois-Ardent, 23, rue A.-Grandin, 50000 SAINT-LO Cedex
 
 |
 
@@ -738,11 +736,11 @@ Quartier du Bois Ardent 23, rue A.-Grandin, 50000 SAINT-LÔ Cedex
 
 |
 
-Laboratoire chaîne d'analyses Marne-Ardennes ― CAMA
+Laboratoire Chaîne d'Analyses Marne-Ardennes, CAMA
 
 |
 
-Centre de recherche agronomique, 2, esplanade Roland-Garros BP 205, 51100 REIMS
+Centre de recherche agronomique 2, esplanade Roland-Garros, BP 205, 51100 REIMS
 
 |
 
@@ -766,11 +764,11 @@ Centre de recherche agronomique, 2, esplanade Roland-Garros BP 205, 51100 REIMS
 
 |
 
-Laboratoire CAM ― QUALIANE Coopérative des agriculteurs de la Mayenne CAM
+Laboratoire CAM, QUALIANE Coopérative des Agriculteurs de la Mayenne CAM
 
 |
 
-ZI Les Touches, 120, boulevard Léon-Bollée, 53000 LAVAL
+ZI Les Touches 120, boulevard Léon-Bollée, 53000 LAVAL
 
 |
 
@@ -790,11 +788,11 @@ ZI Les Touches, 120, boulevard Léon-Bollée, 53000 LAVAL
 
 |
 
-Laboratoire vétérinaire départemental 53
+Laboratoire Vétérinaire Départemental 53
 
 |
 
-224, rue du Bas-des-Bois BP 1427, 53014 LAVAL Cedex
+224, rue du Bas-des-Bois, BP 1427, 53014 LAVAL Cedex
 
 |
 
@@ -812,11 +810,11 @@ Laboratoire vétérinaire départemental 53
 
 |
 
-Laboratoire départemental d'analyse du Morbihan (LDA56)
+LABORATOIRE DEPARTEMENTAL D'ANALYSE DU MORBIHAN (LDA56)
 
 |
 
-3, rue Denis-Papin, BP 20080, 56892 SAINT-AVÉ Cedex
+3, rue Denis-Papin, BP 20080, 56892 SAINT-AVE Cedex
 
 |
 
@@ -842,7 +840,7 @@ Institut Pasteur de Lille
 
 |
 
-Département eaux et environnement, 1, rue du Professeur-Calmette, BP 249, 59019 LILLE Cedex
+Département eaux et environnement, 1, rue du Professeur- Calmette, BP 249, 59019 LILLE Cedex
 
 |
 
@@ -860,7 +858,7 @@ Département eaux et environnement, 1, rue du Professeur-Calmette, BP 249, 59019
 
 |
 
-Institut national de la recherche agronomique, laboratoire d'analyse des sols, INRA-ARRAS
+Institut National de la Recherche Agronomique Laboratoire d'analyse des sols, INRA-ARRAS
 
 |
 
@@ -888,7 +886,7 @@ Institut national de la recherche agronomique, laboratoire d'analyse des sols, I
 
 |
 
-Compagnie d'aménagement des coteaux de Gascogne ― CACG laboratoire agronomique
+Compagnie d'Aménagement des Côteaux de Gascogne, CACG Laboratoire agronomique
 
 |
 
@@ -916,7 +914,7 @@ Chemin de l'Alette, BP 449, 65004 TARBES Cedex
 
 |
 
-Laboratoire d'analyses agricoles ― MEDIT LABO
+Laboratoire d'Analyses Agricoles, MEDIT LABO
 
 |
 
@@ -938,7 +936,7 @@ Laboratoire d'analyses agricoles ― MEDIT LABO
 
 |
 
-Société alsacienne pour le développement et l'étude de la fertilité SADEF
+Société Alsacienne pour le Développement et l'Etude de la Fertilité SADEF
 
 |
 
@@ -966,7 +964,7 @@ Société alsacienne pour le développement et l'étude de la fertilité SADEF
 
 |
 
-Laboratoire de la chambre d'agriculture de la Sarthe ― LARCA72
+Laboratoire de la Chambre d'Agriculture de la Sarthe, LARCA72
 
 |
 
@@ -1016,7 +1014,7 @@ Laboratoire CAP Seine
 
 |
 
-Chambre départementale d'agriculture de la Haute-Vienne
+Chambre Départementale d'Agriculture de la Haute-Vienne
 
 |
 
@@ -1036,11 +1034,33 @@ Chambre départementale d'agriculture de la Haute-Vienne
 
 |
 
+Service pédologique de Belgique
+
+Agro-Conseil S.A.
+
+|
+
+De Croylaan, 48, 3001 LEUVEN HEVERLEE, Belgique
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5
+
+|
+
 AGSOURCE HARRIS LABORATORIES
 
 |
 
-300, Speedway Circle Unit 2 NE 68502 LINCOLN Etats-Unis
+300, Speedway Circle, Unit 2 NE 68502 LINCOLN, Etats-Unis
 
 |
 
