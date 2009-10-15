@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206642
+
+- Question : [SEQ081206642](seq081206642.md) — Revendication des personnels des caisses d'allocations familiales
+
+## Réponse
+
+*Travail, JO du 2009-10-15, page 2428*
+
+La valeur du point qui sert de base à la rémunération des personnels des organismes de sécurité sociale, et notamment de la branche famille, est fixée dans le cadre d'une négociation menée au sein du régime général entre les organisations syndicales et l'employeur représenté par le directeur de l'Union nationale des caisses de sécurité sociale. La question d'une augmentation de la valeur du point ne peut être déconnectée de l'ensemble des autres mesures prises par ailleurs dans le cadre de la politique salariale du régime général en faveur de ses salariés. Ainsi, pour la seule année 2008, les salariés du régime général ont bénéficié de mesures salariales visant notamment les bas revenus : l'accord du 31 décembre 2008 prévoit ainsi l'attribution de points pérennes aux salariés dont la rémunération est inférieure à 1 500 euros nets mensuels. Il accorde également une augmentation de 1 % des masses salariales consacrées à l'intéressement en contrepartie de l'atteinte des objectifs fixés aux organismes. Par ailleurs, l'ensemble des salariés bénéficie depuis le 1er janvier de la mise en place d'une couverture maladie complémentaire, qui est financée à hauteur de 50 % par l'employeur. C'est dans ce contexte que les salariés ont également bénéficié de la revalorisation de la valeur du point, de 1,2 % en 2008, qui au demeurant fait suite à une précédente augmentation, en 2007, de 1 %, ce qui fixe sa valeur actuelle à 7,150 18. La politique conduite, qui s'inscrit dans les moyens prévus par la convention d'objectifs et de gestion, peut dégager des excédents budgétaires qui n'ont pas uniquement vocation à financer des mesures salariales, mais doivent également contribuer à la diminution d'éventuels déficits de la branche.
