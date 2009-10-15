@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709837
+
+- Question : [SEQ090709837](seq090709837.md) — Rente mutualiste du combattant et crédit d'impôt
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2009-10-15, page 2419*
+
+Le secrétaire d'État à la défense et aux anciens combattants tient tout d'abord à préciser que la création éventuelle d'un crédit d'impôt pour les assurés souscrivant une assurance complémentaire santé relève de la compétence de la ministre de l'économie, de l'industrie et de l'emploi. Le plafond majorable de la rente mutualiste du combattant a été régulièrement relevé entre 1998 et 2003 puis en 2007. Ainsi, l'article 101 de la loi de finances pour 2007 a prévu une hausse de 2,5 points, portant ainsi le plafond majorable à 125 points à compter du 1er janvier 2007. De plus, conformément aux dispositions de l'article L. 222-2 (7°) du code de la mutualité, le plafond majorable de la rente mutualiste du combattant est réévalué au 1er janvier de chaque année en fonction des augmentations de la valeur du point d'indice des pensions militaires d'invalidité intervenues l'année passée. C'est ainsi que le montant du plafond s'élève, compte tenu de la valeur du point d'indice fixée à 13,55 € au 1er octobre 2008, à 1 694 € au 1er janvier 2009. Il sera réévalué au 1er janvier 2010 pour tenir compte des évolutions de la valeur du point d'indice qui seront intervenues en 2009 (dont celle du 1er juillet 2009, qui a porté la valeur du point d'indice à 13,68 €). La dotation consacrée aux rentes mutualistes a été fixée à 239 M€ dans la loi de finances initiale pour 2009, soit une augmentation de 5,5 % par rapport à celle inscrite en loi de finances initiale pour 2008, qui correspond, pour partie, à l'entrée dans le dispositif de la 4e génération du feu. Ce montant témoigne de l'effort financier important que l'État consacre aux rentes mutualistes du combattant.
