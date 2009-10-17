@@ -1,4 +1,4 @@
-# Article Annexe IB
+# Article Annexe I B
 
 AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
 
@@ -342,6 +342,24 @@ Dose techniquement inévitable.
 
 |
 
+Albumine
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
 Alkylaurylsulfonate de sodium (avec prédominance de n-dodécylbenzène sulfonate de sodium).
 
 |
@@ -402,6 +420,30 @@ Interestérification.
 
 |
 
+Anhydride carbonique |
+
+Divers |
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable |
+
+Anhydride sulfureux (E 220) |
+
+Divers |
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Teneur résiduelle inférieure à 10 mg/kg |
+
 Anhydride sulfureux et sulfites alcalins.
 
 |
@@ -441,6 +483,22 @@ Raffinage (l'activation des charbons ne peut être réalisée que par la chaleur
 Savons ≤ 50 mg/kg, eau ≤ 2 000 mg/kg, matières insolubles dans l'éther de pétrole ≤ 500 mg/kg, solvants ≤ 50 mg/kg.
 
 |
+
+Autres adjuvants de filtration et adjuvants de précipitation chimiquement conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires. La filtration peut se faire sous pression d'un gaz inerte.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable |
 
 Bentonite.
 
@@ -699,6 +757,22 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 |
 
 Teneur résiduelle inférieure à 10 mg/litre.
+
+|
+
+Caséine |
+
+Agent de clarification.
+
+|
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
 
 |
 
@@ -1756,6 +1830,34 @@ Dose techniquement inévitable.
 
 |
 
+Gel de silice |
+
+Agent de clarification |
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Gélatine alimentaire |
+
+Agent de clarification |
+
+Jus de légumes |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
 Gibbérellines issues de cultures de Fusarium moniliformis ou Giberella fugikuroï.
 
 |
@@ -2006,15 +2108,13 @@ Divers.
 
 |
 
-Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et légumes de quatrième gamme.
+Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et légumes et champignons crus prêts à l'emploi (dits de quatrième gamme)
 
 |
 
-Pour la désinfection des légumes seulement.
+Concentration en chlore libre du bain de chloration : 80 ppm au maximum.
 
 Rinçage obligatoire.
-
-Concentration en chlore libre du bain de chloration : 80 ppm au maximum.
 
 |
 
@@ -3977,6 +4077,24 @@ Agent de clarification.
 Bières.
 
 |
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Tanins.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de légumes |
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 

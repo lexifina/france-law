@@ -1,4 +1,4 @@
-# Article Annexe IA
+# Article Annexe I A
 
 AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 
@@ -10,7 +10,7 @@ technologiques
 
 CATÉGORIE
 
-de l'auxiliaire technologique
+de l'AT
 
 |
 
@@ -48,7 +48,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-≤ 20 mg/kg dans le café ou le thé.
+20 mg/kg dans le café ou le thé.
 
 |
 
@@ -92,6 +92,46 @@ Dose techniquement inévitable.
 
 |
 
+Acide acétique.
+
+|
+
+Divers.
+
+|
+
+Saumons et truites non transformés.
+
+|
+
+Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Acide chlorhydrique.
+
+|
+
+Divers.
+
+|
+
+Sucre inverti.
+
+|
+
+A la dose strictement nécessaire.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
 Acide orthophosphorique.
 
 |
@@ -124,7 +164,47 @@ Divers.
 
 |
 
-Aspersion d'une solution à 2,5 % d'un produit contenant 4,5 % d'acide peracétique à l'équilibre puis séchage.
+Aspersion d'une solution à 2, 5 % d'un produit contenant 4, 5 % d'acide peracétique à l'équilibre puis séchage.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Adjuvants d'adsorption chimiquement conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
+
+|
+
+Divers.
+
+|
+
+Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Adjuvants de filtration et adjuvants de précipitation chimiquement inertes (par exemple perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène) conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
@@ -152,11 +232,51 @@ Dose techniquement inévitable.
 
 |
 
-Autres adjuvants de filtration et/ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé.
+Anhydride sulfureux.
+
+|
+
+Divers.
+
+|
+
+Jus de raisin.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Teneur résiduelle inférieure à 10 mg / litre.
+
+|
+
+Autres adjuvants de filtration et / ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé.
 
 |
 
 Adjuvant de filtration.
+
+|
+
+Jus de fruits, Jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Bentonite.
+
+|
+
+Agent de clarification.
 
 |
 
@@ -185,6 +305,26 @@ Toutes denrées alimentaires.
 |
 
 Ce solvant ne doit pas laisser dans les denrées alimentaires des teneurs en résidus susceptibles de présenter des risques pour la santé humaine.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Carbonate de magnésium.
+
+|
+
+Divers.
+
+|
+
+Sucre
+
+|
+
+A la dose strictement nécessaire.
 
 |
 
@@ -304,7 +444,67 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Charbons.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Chlore gazeux.
+
+|
+
+Divers.
+
+|
+
+Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits et légumes et champignons crus, prêts à l'emploi (dits de quatrième gamme).
+
+|
+
+Concentration en chlore libre du bain de chloration : 80 ppm au maximum. Rinçage obligatoire.
+
+|
+
+Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX).
+
+|
+
+Chlorure de magnésium.
+
+|
+
+Divers.
+
+|
+
+Sucre.
+
+|
+
+A la dose strictement nécessaire.
 
 |
 
@@ -400,11 +600,11 @@ Adjuvant de filtration.
 
 |
 
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+Jus de fruits, Jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
 
 |
 
@@ -428,7 +628,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-≤ 2 mg/kg dans le café torréfié et ≤ 5 mg/kg dans le thé.
+2 mg/kg dans le café torréfié et 5 mg/kg dans le thé.
 
 |
 
@@ -452,6 +652,26 @@ Levain destiné à la fabrication de pains industriels.
 
 |
 
+Diméthylpolysiloxane.
+
+|
+
+Antimousse
+
+|
+
+Sel.
+
+|
+
+A la dose strictement nécessaire.
+
+|
+
+2 mg/kg.
+
+|
+
 Ethanol.
 
 |
@@ -472,6 +692,106 @@ Dose techniquement inévitable.
 
 |
 
+Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta.
+
+|
+
+Divers.
+
+|
+
+Sucre.
+
+|
+
+A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol.
+
+|
+
+20 µg/kg de sucre.
+
+|
+
+Extrait de houblon en solution aqueuse contenant environ 9 % d'acides alpha isomérisés et ensuite hydrogénés.
+
+|
+
+Divers.
+
+|
+
+Ethanol obtenu par fermentation, en particulier par fermentation de produits à base de sucre.
+
+|
+
+A la dose maximale de 100 mg de substance active par kg de moût.
+
+|
+
+Dose techniquement inévitable. (inférieure à 1 mg par litre).
+
+|
+
+Fluides de refroidissement et frigorigènes : azote, air et anhydride carbonique.
+
+|
+
+Divers.
+
+|
+
+Aliments et ingrédients alimentaires congelés et surgelés.
+
+|
+
+Congélation d'aliments et d'ingrédients alimentaires.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Gel de silice.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Gélatine alimentaire.
+
+|
+
+Agent de clarification.
+
+|
+
+Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
 Hexane.
 
 |
@@ -484,9 +804,11 @@ Beurre de cacao.
 
 |
 
-Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 °C et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. |
+Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
-≤ 1 mg/kg.
+|
+
+1 mg/kg.
 
 |
 
@@ -506,7 +828,7 @@ Préparations de germes de céréales dégraissées.
 
 |
 
-≤ 5 mg/kg dans les germes de céréales dégraissées.
+5 mg/kg dans les germes de céréales dégraissées.
 
 |
 
@@ -522,11 +844,11 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 °C et 70 oC. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-≤ 1 mg/kg.
+1 mg/kg.
 
 |
 
@@ -542,13 +864,13 @@ Produits à base de protéines dégraissées et de farines dégraissées.
 
 |
 
-Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-≤ 10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées.
+10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées.
 
-≤ 30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final.
+30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final.
 
 |
 
@@ -565,6 +887,50 @@ Céréales et pois en silos.
 |
 
 A la dose maximale de 260 g d'huile par tonne utilisés en tant que produits antipoussière.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Huile de paraffine.
+
+|
+
+Agent de démoulage.
+
+|
+
+Spaghetti.
+
+Pâtes à potage obtenues par recyclage des crosses.
+
+|
+
+A la dose strictement nécessaire.
+
+|
+
+20 mg/kg.
+
+|
+
+Huile de paraffine.
+
+|
+
+Agent de démoulage.
+
+|
+
+Produits de boulangerie fine.
+
+Fromages à l'exception de ceux bénéficiant d'une appellation d'origine.
+
+|
+
+A la dose strictement nécessaire.
 
 |
 
@@ -694,34 +1060,6 @@ Dose techniquement inévitable.
 
 |
 
-Lactoperoxydase extraite de lactosérum immobilisée, isothiocyanates de potassium ou de sodium et peroxyde d'hydrogène.
-
-|
-
-Divers.
-
-|
-
-Salades crues prêtes à l'emploi (de quatrième gamme).
-
-|
-
-Lactoperoxydase à la dose strictement nécessaire pour obtenir l'effet recherché. Peroxyde d'hydrogène à la concentration maximale de 2 mM (soit 68 ppm).
-
-|
-
-Teneur résiduelle en thiocyanates dans les salades rincées inférieure à 0,5 mg/kg.
-
-|
-
-Ion isothiocyanate à la concentration maximale de 2 mM (soit 175 ppm pour le thiocyanate de potassium).
-
-|
-
-Le procédé doit aboutir à une concentration d'isothiocyanate de 0,6 mM dans l'eau de lavage.
-
-|
-
 Mélange de copolymères monoester (CAS n° 9009-36-6) et diester (CAS n° 67167-17-3) d'acide oléique et d'acide oléique libre (5-10 %) dont le copolymère de base est identifié par le CAS n° 9003-11-6 (PM 1990-2250).
 
 |
@@ -758,7 +1096,7 @@ Traitement de matières premières, denrées alimentaires ou composants de denr�
 
 |
 
-≤ 10 mg/kg.
+10 mg/kg.
 
 |
 
@@ -774,11 +1112,11 @@ Café et thé.
 
 |
 
-Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
+20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
 
 |
 
@@ -794,15 +1132,15 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-≤ 5 mg/kg, dans les huiles et graisses.
+5 mg/kg, dans les huiles et graisses.
 
 |
 
-Mono-oléate de polyoxyéthylène sorbitane (polysorbate 80).
+Monooléate de polyoxyéthylène sorbitane (polysorbate 80).
 
 |
 
@@ -814,7 +1152,7 @@ Céréales en silos.
 
 |
 
-A la dose maximale de 12 g par tonne utilisés en tant que produits antipoussière.
+A la dose maximale de 12 g par tonne utilisés en tant que produits antipoussières.
 
 |
 
@@ -834,7 +1172,9 @@ Blé avant mouture pour la fabrication de farine entrant dans la composition de 
 
 |
 
-A la dose maximale de 12 g d'ozone par kg de grains. Les grains de blé avant traitement devront être conformes aux dispositions du règlement 466/2001 de la Commission européenne du 8 mars 2001 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires, en matière de teneurs maximales en mycotoxines.
+A la dose maximale de 12 g d'ozone par kg de grains.
+
+Les grains de blé avant traitement devront être conformes aux dispositions du règlement 466/2001 de la Commission européenne du 8 mars 2001 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires, en matière de teneurs maximales en mycotoxines.
 
 |
 
@@ -854,7 +1194,9 @@ Blé avant mouture pour la fabrication de farine entrant dans la composition de 
 
 |
 
-A la dose maximale de 8 g d'ozone par kg de grains. Les grains de blé avant traitement devront être conformes aux dispositions du règlement 466/2001 de la Commission européenne du 8 mars 2001 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires, en matière de teneurs maximales en mycotoxines.
+A la dose maximale de 8 g d'ozone par kg de grains.
+
+Les grains de blé avant traitement devront être conformes aux dispositions du règlement 466/2001 de la Commission européenne du 8 mars 2001 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires, en matière de teneurs maximales en mycotoxines.
 
 |
 
@@ -978,7 +1320,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-5 mg/l.
+0,2 mg/l.
 
 |
 
@@ -994,7 +1336,7 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
 
 |
 
@@ -1014,7 +1356,7 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
 
 |
 
@@ -1034,7 +1376,7 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
 
 |
 
@@ -1062,7 +1404,7 @@ Dose techniquement inévitable.
 
 |
 
-Propanol.
+Propanol 2.
 
 |
 
@@ -1078,11 +1420,11 @@ Traitement de matières premières, denrées alimentaires ou composants de denr�
 
 |
 
-≤ 10 mg/kg.
+10 mg/kg.
 
 |
 
-Propanol.
+Propanol 2.
 
 |
 
@@ -1098,7 +1440,7 @@ Production de sucres à partir des mélasses.
 
 |
 
-≤ 1 mg/kg dans le sucre.
+1 mg/kg dans le sucre.
 
 |
 
@@ -1119,6 +1461,68 @@ Ce solvant ne doit pas laisser dans les denrées alimentaires des teneurs en ré
 |
 
 Dose techniquement inévitable.
+
+|
+
+Silicate de magnésium.
+
+|
+
+Agent de filtration.
+
+|
+
+Huile de friture utilisées par les professionnels.
+
+|
+
+A la dose maximale d'emploi de 15 g par kg d'huile filtrée.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Divers.
+
+|
+
+Salades crues prêtes à l'emploi (dites de quatrième gamme).
+
+|
+
+Le lavage doit être suivi d'un rinçage.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Sulfites.
+
+Anhydride sulfureux.
+
+|
+
+Divers.
+
+|
+
+Champignons crus prêts à l'emploi (dits de quatrième gamme).
+
+|
+
+A la dose strictement nécessaire pour stabiliser la couleur.
+
+|
+
+Teneur résiduelle exprimée en anhydride sulfureux inférieure à 10 mg/kg.
 
 |
 
@@ -1144,131 +1548,11 @@ Teneur résiduelle inférieure à 10 mg/kg.
 
 |
 
-Gélatine alimentaire.
-
-|
-
-Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
 Tanins.
 
 |
 
 Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Bentonite.
-
-|
-
-Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Gel de silice.
-
-|
-
-Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Charbons.
-
-|
-
-Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Adjuvants de filtration et adjuvants de précipitation chimiquement inertes (par exemple perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène) conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires.
-
-|
-
-Agent de clarification.
-
-|
-
-Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
-
-|
-
-A la dose strictement nécessaire pour obtenir l'effet recherché.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
-Adjuvants d'adsorption chimiquement conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
-
-|
-
-Divers.
 
 |
 

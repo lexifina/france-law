@@ -130,6 +130,18 @@ Dose techniquement inévitable.
 
 |
 
+Alpha amylase d'aspergillus niger, A. oryzae. |
+
+Enzymes.
+
+|
+
+Panification spéciale. |
+
+Hydrolyse des liaisons endo-alpha-1-4 - glycosidiques des oligosaccharides et des polysaccharides. |
+
+Dose techniquement inévitable. |
+
 Alpha amylase d'Aspergillus niger, A. oryzae.
 
 |
@@ -149,6 +161,38 @@ Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
 Dose techniquement inévitable.
 
 |
+
+Alpha-amylase de Bacillus amyloliquefaciens autocloné EBA1-H2A.
+
+Alpha-amylase de Bacillus amyloliquefaciens autocloné.
+
+|
+
+Enzymes. |
+
+Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale.
+
+Bière.
+
+Industrie de l'alcool.
+
+Amidonnerie, production de glucose.
+
+|
+
+Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
+
+Dose techniquement inévitable. |
+
+Alpha-amylase de Bacillus licheniformis autocloné. |
+
+Enzymes. |
+
+Bières. |
+
+Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
+
+Dose techniquement inévitable. |
 
 Alpha amylase de Bacillus licheniformis contenant le gène codant de l'alpha amylase de Bacillus stearothermophilus.
 
@@ -220,7 +264,7 @@ Enzymes.
 
 |
 
-Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie.
+Industrie de la brasserie, de l'amidonnerie, production de sirop de glucose, de l'alcool et de la sucrerie.
 
 |
 
@@ -260,7 +304,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -280,7 +324,7 @@ Enzymes.
 
 |
 
-Amidonnerie, industrie de l'alcool, brasserie, industrie sucrière.
+Amidonnerie, production de sirop de glucose, industrie de l'alcool, brasserie, industrie sucrière.
 
 |
 
@@ -291,6 +335,16 @@ Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
 Dose techniquement inévitable.
 
 |
+
+Alpha amylase de Bacillus licheniformis SJ7199 contenant le gène codant une alpha amylase de Bacillus stearothermophilus. |
+
+Enzymes. |
+
+Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie. |
+
+Hydrolyse des liaisons endo-alpha-1-4 - glycosidiques des oligosaccharides et des polysaccharides. |
+
+Dose techniquement inévitable. |
 
 Alpha-amylase de Bacillus licheniformis obtenu par recombinaison homologue.
 
@@ -360,7 +414,7 @@ Enzymes.
 
 |
 
-Amidonnerie, industrie de l'alcool, brasserie industrie sucrière.
+Amidonnerie, production de sirop de glucose, industrie de l'alcool, brasserie industrie sucrière.
 
 |
 
@@ -492,6 +546,20 @@ Dose techniquement inévitable.
 
 |
 
+Alpha-amylase de Pseudomonas fluorescens DC 88 porteuse d'un gène hybride de Thermococcus / codant l'alpha-amylase. |
+
+Enzymes. |
+
+Amidonnerie, production de glucose
+
+Industrie de l'alcool.
+
+|
+
+Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
+
+Dose techniquement inévitable. |
+
 Aminopeptidase d'Aspergillus niger EPD-4.
 
 |
@@ -540,7 +608,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -560,7 +628,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -600,7 +668,7 @@ Enzymes.
 
 |
 
-Industrie de l'alcool, amidonnerie.
+Industrie de l'alcool, amidonnerie, production de sirop de glucose.
 
 |
 
@@ -752,6 +820,26 @@ Dose techniquement inévitable.
 
 |
 
+Asparaginase d'Aspergillus niger autocloné. |
+
+Enzymes. |
+
+Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures. |
+
+Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
+
+Dose techniquement inévitable. |
+
+Asparaginase d'Aspergillus oryzae modifiée génétiquement (pCaHj621 / BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. |
+
+Enzymes. |
+
+Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures |
+
+Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
+
+Dose techniquement inévitable. |
+
 Aspartyl protéase d'Aspergillus oryzae (n° IF 04 177/777) contenant le gène codant pour la protéase de Rhizomucor mieihei.
 
 |
@@ -800,7 +888,7 @@ Enzymes.
 
 |
 
-Amidonnerie, industrie de l'alcool et brasserie.
+Amidonnerie, production de sirop de glucose, industrie de l'alcool et brasserie.
 
 |
 
@@ -854,6 +942,16 @@ Dose techniquement inévitable.
 
 |
 
+Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513). |
+
+Enzymes. |
+
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. |
+
+Hydrolyse du lactose. |
+
+Dose techniquement inévitable. |
+
 Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
 |
@@ -882,7 +980,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -914,6 +1012,16 @@ Dose techniquement inévitable.
 
 |
 
+Bêta-glucanase de Bacillus amyloliquefaciens autocloné. |
+
+Enzymes. |
+
+Bières. |
+
+Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes. |
+
+Dose techniquement inévitable. |
+
 Bêta glucanase de Talaromyces emersonii FBG-1 (DS 29601)
 
 |
@@ -942,7 +1050,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -1042,7 +1150,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -1124,7 +1232,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -1470,7 +1578,7 @@ Dose techniquement inévitable.
 
 |
 
-Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.
+Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase).
 
 |
 
@@ -1478,7 +1586,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de glucose. Bières.
 
 |
 
@@ -1780,6 +1888,16 @@ Dose techniquement inévitable.
 
 |
 
+Glucose-isomérase, issue de la souche de Streptomyces rubiginosus SYC5406 génétiquement modifiée immobilisée sur un support gltaraldéhyde / polyéthylène-imine. |
+
+Enzymes. |
+
+Sirops à teneur élevée en fructose. |
+
+Isomérisation du D-glucose en D-fructose. |
+
+Dose techniquement inévitable. |
+
 Glucose oxydase d'Aspergillus niger.
 
 |
@@ -2078,7 +2196,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -2153,6 +2271,24 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 Dose techniquement inévitable.
 
 |
+
+Lactoperoxydase extraite de lactosérum immobilisée, isothiocyanates de potassium ou de sodium et peroxyde d'hydrogène. |
+
+Divers. |
+
+Salades crues prêtes à l'emploi (de quatrième gamme) |
+
+Lactoperoxydase à la dose strictement nécessaire pour obtenir l'effet recherché.
+
+Peroxyde d'hydrogène à la concentration maximale de 2mM (soit 68 ppm).
+
+Ion isothiocyanate à la concentration maximale de 2 mM (soit 175 ppm pour le thiocyanate de potassium).
+
+Le procédé doit aboutir à une concentration d'isothiocyanate de 0, 6 mM dans l'eau de lavage.
+
+|
+
+Teneur résiduelle en thiocyanates dans les salades rincées inférieure à 0, 5 mg / kg. |
 
 Lipase d'une souche recombinée MStr 115 d'Aspergillus oryzae porteuse du gène codant pour la lipase de Fusarium oxy- sporum.
 
@@ -2290,7 +2426,7 @@ Enzymes.
 
 |
 
-Amidonnerie, production de glucose.
+Amidonnerie, production de sirop de glucose, production de glucose.
 
 |
 
@@ -2301,6 +2437,20 @@ Libération de certains composés lipidiques liés à la fraction amylose de l'a
 Dose techniquement inévitable.
 
 |
+
+Lysophospholipase d'Aspergillus niger génétiquement modifiée Lp-1. |
+
+Enzymes. |
+
+Amidonnerie.
+
+Industrie de l'alcool.
+
+|
+
+Hydrolyse des lysophospholipides. |
+
+Dose techniquement inévitable. |
 
 Papaïne de Carica papaya.
 
@@ -2658,6 +2808,16 @@ Dose techniquement inévitable.
 
 |
 
+Phospholipase A2 d'Aspergillus niger modifiée génétiquement PLA 54. |
+
+Enzymes. |
+
+Jaunes d'œufs destinés à la fabrication de sauces. |
+
+Hydrolyse de la fonction ester en position 2 des phospholipides pour le traitement des jaunes d'œufs destinés à la fabrication de mayonnaise et d'autres sauces émulsionnées. |
+
+Dose techniquement inévitable. |
+
 Phospholipase A2 de pancréas de porc.
 
 |
@@ -2790,6 +2950,30 @@ Dose techniquement inévitable.
 
 |
 
+Protéase d'Aspergillus niger recombinée génétiquement GEP 44. |
+
+Enzymes. |
+
+Bière.
+
+Hydrolysats de protéines.
+
+|
+
+Hydrolyse de la liaison peptidique au niveau du groupe carboxyl des résidus proline. |
+
+Dose techniquement inévitable. |
+
+Protéase de Bacillus amyloliquefaciens autocloné. |
+
+Enzymes. |
+
+Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Dose techniquement inévitable. |
+
 Protéase de Bacillus amyloliquefaciens autocloné.
 
 |
@@ -2897,6 +3081,16 @@ Hydrolysats de protéines utilisées pour leurs propriétés fonctionnelles.
 Dose techniquement inévitable.
 
 |
+
+Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. |
+
+Enzymes. |
+
+Production d'hydrolysats de protéines. |
+
+Hydrolyse des liaisons peptidiques des protéines avec une segmentation préférentielle pour Leu ¹ Phe. |
+
+Dose techniquement inévitable. |
 
 Protéase de Rhizomucor miehei.
 
@@ -3196,7 +3390,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -3276,7 +3470,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -3307,6 +3501,20 @@ Traitement d'extraits de levures. Hydrolyse de polyribonucléotides.
 Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement.
 
 |
+
+Ribonucléase de Penicillium citrinum sous formes granulée et poudre. |
+
+Enzymes. |
+
+Extraits de levures hydrolysés. |
+
+Traitement d'extraits de levures.
+
+Hydrolyse de polyribonucléotides.
+
+|
+
+Dose techniquement inévitable.L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. |
 
 Tannase d'Aspergillus oryzae (no 11-5).
 
@@ -3456,7 +3664,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -3496,7 +3704,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -3528,6 +3736,26 @@ Dose techniquement inévitable.
 
 |
 
+Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. |
+
+Enzymes. |
+
+Produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. |
+
+Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses.A la dose strictement nécessaire pour obtenir l'effet recherché. |
+
+Dose techniquement inévitable. |
+
+Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. |
+
+Enzymes. |
+
+Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses.A la dose strictement nécessaire pour obtenir l'effet recherché. |
+
+Dose techniquement inévitable. |
+
 Xylanase de Trichoderma longibrachiatum (ex-reesei) (Alko 3450) contenant le gène codant pour l'enzyme de T. longibrachiatum.
 
 |
@@ -3536,7 +3764,7 @@ Enzymes.
 
 |
 
-Amidonnerie.
+Amidonnerie, production de sirop de glucose.
 
 |
 
@@ -3556,7 +3784,7 @@ Enzymes.
 
 |
 
-Amidonnerie de blé et de maïs.
+Amidonnerie, production de sirop de glucose de blé et de maïs.
 
 |
 
