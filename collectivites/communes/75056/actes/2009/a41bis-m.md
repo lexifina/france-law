@@ -1,0 +1,9 @@
+# Paris : acte A41bis M — Amendement technique à la délibération 2009 DLH 210.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2009-10-19
+- Nature : A
+- Objet : Amendement technique à la délibération 2009 DLH 210.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
