@@ -92,6 +92,8 @@ Roclaine Industries SA puis Saint-Gobain Industries SA puis Saint-Gobain Isover 
 
 Saim/teroson France/Henkel/Caourep/CFPI, 66, rue Saint-Aignan, 58200 Cosne-sur-Loire puis 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire puis ZI, route Villechaud/rue Lafayette, 58200 Cosne-sur-Loire : de 1951 à 1992 ;
 
+SA SAINT-GOBAIN SEVA, 22, rue Paul-Sabatier, ZI Nord, 71100 Chalon-sur-Saône : De 1960 à 1994 ;
+
 SA SNPLF/SA Borden France/ Lambiotte SA/Enseigne Mydrin Lambiotte/Bostik SA/Usines Lambiotte/TRL, 58700 Prémery, de 1972 à 1994 ;
 
 SA ZF Masson, 5, rue Henri-Cavallier, 89107 Saint-Denis-les-Sens : de 1948 à 1993 ;
@@ -202,7 +204,7 @@ Franche-Comté
 
 Allied Signal, 25790 Les Gras : de 1976 à 1993 ;
 
-ALSTHOM puis ALSTHOM ATLANTIQUE puis ALSTHOM, 3 avenue des Trois-Chênes, 90018 Belfort : de 1960 à 1985 ;
+ALSTHOM, puis ALSTHOM ATLANTIQUE, UNELEC, CGEE ALSTHOM, puis ALSTHOM, 3, avenue des Trois-Chênes, 90018 Belfort, de 1960 à 1985 ;
 
 Bendix, zone industrielle, 39150 Saint-Pierre-en-Grandvaux : de 1980 à 1985 ;
 
@@ -570,7 +572,7 @@ Axter, 60460 Précy-sur-Oise : de 1951 à 1979 ;
 
 BASF Peintures et encres (BASF Coating SA et BASF Systèmes d'impression) , zone industrielle, Brieul-le-Sec, 60600 Clermont : de 1974 à 1992 ;
 
-Bosch systèmes de freinage, 82-84, rue du Pont-d'Arcole, 60000 Beauvais : de 1966 à 1985, 44, route nationale, 02190 Juvincourt, de 1972 à 1996 ;
+Bosch systèmes de freinage, 44, route nationale, 02190 Juvincourt, de 1972 à 1996 ;
 
 Bostik Findley, BP 60209, route de Bailly, 60772 Ribecourt Cedex, de 1962 à 1989 ;
 
@@ -599,6 +601,8 @@ Inmont, Saint-Just-en-Chaussée : de 1970 à 1974 ;
 Isotherma, 4, rue du Moulin, 60001 Goincourt : de 1962 à 1999 ;
 
 Levis SA peintures techniques, Akzo Coatings SA, rue Jeanne-d'Arc, 60540 Bornel, de 1970 à 1990 ;
+
+LOCKEED, DBA, 82-84, rue du Pont-d'Arcole, 60000 Beauvais, de 1966 à 1985 ;
 
 MANUFACTURE DES GLACES ET PRODUITS CHIMIQUES DE SAINT-GOBAIN CHAUNY et CIREY puis PECHINEY SAINT-GOBAIN puis RHONE PROGIL puis RHONE POULENC INDUSTRIES puis CHLOE CHIMIE et RHONE POULENC puis ATOCHEM et CHARBONNAGES DE France CHIMIE puis RHODIA, 2, rue de Soissons, 02300 Chauny : De 1944 à 1996 ;
 
@@ -662,6 +666,8 @@ ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
 France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
 
+FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : de 1988 à 1996 ;
+
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
@@ -683,8 +689,6 @@ SOCIÉTÉ D'ENTREPRISES ET DE FUMISTERIE INDUSTRIELLE (SEFI), 60, cours Pierre-P
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
 
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
-
-société de tuyauterie et de montage Friedlander, boulevard du Progrès, 13014 Marseille : de 1960 à 1966, puis 39-41, boulevard Sainte-Lucie, 13007 Marseille : de 1966 à 1988, puis 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : depuis 1988 ;
 
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création ;
 
