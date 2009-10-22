@@ -90,11 +90,11 @@ ANGOLA
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-252
+300
 
 |
 
@@ -310,7 +310,7 @@ EURO
 
 |
 
-105
+150
 
 |
 
@@ -374,18 +374,6 @@ DOLLAR DE BRUNEI
 
 |
 
-BRUXELLES (missions CEE inférieures à une journée)
-
-|
-
-EURO
-
-|
-
-46
-
-|
-
 BULGARIE
 
 |
@@ -414,11 +402,11 @@ BURUNDI
 
 |
 
-FRANC BURUNDI
+EURO
 
 |
 
-98 200
+140
 
 |
 
@@ -574,7 +562,7 @@ EURO
 
 |
 
-157
+195
 
 |
 
@@ -962,11 +950,11 @@ GUATEMALA
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-120
+160
 
 |
 
@@ -1082,11 +1070,11 @@ INDONESIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-156
+160
 
 |
 
@@ -1202,11 +1190,11 @@ KAZAKHSTAN
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-206
+290
 
 |
 
@@ -1226,11 +1214,11 @@ KIRGHIZISTAN
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-175
+150
 
 |
 
@@ -1366,18 +1354,6 @@ EURO
 
 |
 
-LUXEMBOURG ville (missions CEE inférieures à une journée)
-
-|
-
-EURO
-
-|
-
-50
-
-|
-
 MACAO
 
 |
@@ -1438,7 +1414,7 @@ DOLLAR US
 
 |
 
-MALDIVES
+MALDIVES (îles)
 
 |
 
@@ -1446,7 +1422,7 @@ EURO
 
 |
 
-108
+230
 
 |
 
@@ -1478,11 +1454,11 @@ MAROC
 
 |
 
-DIRHAM
+EURO
 
 |
 
-1 437
+175
 
 |
 
@@ -1526,11 +1502,11 @@ MEXIQUE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-137
+150
 
 |
 
@@ -1610,11 +1586,11 @@ NAMIBIE
 
 |
 
-DOLLAR NAMIBIEN
+EURO
 
 |
 
-600
+90
 
 |
 
@@ -1730,11 +1706,11 @@ OUGANDA
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-168
+130
 
 |
 
@@ -1854,7 +1830,7 @@ EURO
 
 |
 
-145
+175
 
 |
 
@@ -1886,11 +1862,11 @@ ROUMANIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-152
+160
 
 |
 
@@ -2030,11 +2006,11 @@ SEYCHELLES
 
 |
 
-ROUPIE SEYCHELLOISE
+EURO
 
 |
 
-1 050
+300
 
 |
 
@@ -2082,7 +2058,7 @@ EURO
 
 |
 
-146
+160
 
 |
 
@@ -2118,7 +2094,7 @@ EURO
 
 |
 
-102
+155
 
 |
 
@@ -2210,11 +2186,11 @@ TANZANIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-175
+135
 
 |
 
@@ -2254,15 +2230,15 @@ BAHT
 
 |
 
-TIMOR EST
+TIMOR oriental
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-170
+150
 
 |
 
@@ -2306,11 +2282,11 @@ TUNISIE
 
 |
 
-DINAR TUNISIEN
+EURO
 
 |
 
-160
+125
 
 |
 
@@ -2378,11 +2354,11 @@ VANUATU
 
 |
 
-VATU
+EURO
 
 |
 
-23 052
+210
 
 |
 
@@ -2426,11 +2402,11 @@ ZAMBIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-148
+180
 
 |
 
