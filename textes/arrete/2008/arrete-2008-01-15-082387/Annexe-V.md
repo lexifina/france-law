@@ -158,7 +158,9 @@ On évitera les articles de presse ou tout autre document conçu pour être lu. 
 
 b) Restitution orale et entretien (durée 20 minutes)
 
-Dans un premier temps, le candidat rendra compte de façon autonome de ce qu'il a compris (5 minutes environ). Puis suivra un entretien destiné à l'amener à préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ou de certains détails, voire à faire part de ses réactions si la compréhension est satisfaisante.
+Dans un premier temps, le candidat rendra compte de façon autonome de ce qu'il a compris (5 minutes environ).
+
+Puis suivra un entretien destiné à l'amener à préciser certains points, à s'assurer de la compréhension des éléments essentiels et/ou de certains détails, voire à faire part de ses réactions si la compréhension est satisfaisante.
 
 Contrôle en cours de formation : deux situations
 
@@ -182,7 +184,7 @@ Expression orale 15 minutes + 20 minutes de préparation.
 
 - Dans un second temps, l'examinateur s'entretiendra avec lui pour demander précisons, explications, réactions (10 minutes).
 
-La liste des langues autorisées est la suivante : anglais, allemand, chinois, espagnol, italien, portugais, russe, japonais.
+La liste des langues autorisées est la suivante : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe, japonais.
 
 Épreuve E3 / U3 - économie et droit
 
