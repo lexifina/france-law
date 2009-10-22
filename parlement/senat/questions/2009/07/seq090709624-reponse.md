@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709624
+
+- Question : [SEQ090709624](seq090709624.md) — Abrogation des autorisations de mise sur le marché de certains herbicides
+
+## Réponse
+
+*Alimentation, JO du 2009-10-22, page 2471*
+
+Le Round Up, le Round Up Express et le Round Up Gt plus sont des préparations phytopharmaceutiques herbicides autorisées à base de glyphosate, commercialisées par la société Monsanto. Le glyphosate est une substance active inscrite en 2002 à l'annexe I de la directive 91/414/CEE. Conformément aux dispositions de la directive d'inscription, les préparations à base de cette substance active ont fait l'objet d'une procédure de réexamen à la lumière des conclusions de la procédure communautaire d'évaluation des risques pour la santé publique et l'environnement la concernant. Dans ce cadre, les risques pour la santé publique et l'environnement que pouvaient présenter les préparations Round Up, Round Up Express et Round Up Gt plus, autorisées en France, ont été réévalués par l'Agence française de sécurité sanitaire des aliments (AFSSA) et les autorisations de mise sur le marché renouvelées, compte tenu de ses conclusions formulées dans les avis du 15 mars 2007 et du 16 avril 2007. Le ministre chargé de l'agriculture a été alerté sur la composition de ces préparations. Or, il ressort des dossiers de demande d'autorisation de mise sur le marché des produits en cause, et notamment de leur composition intégrale qui indique la substance active mais également les surfactants, les adjuvants et les co-formulants contenus dans les produits, qu'aucune des préparations susmentionnées ne contient de polyéthylène aminé (POEA). En conséquence, aucun élément nouveau relatif au risque ne justifie une mesure de retrait de l'autorisation de mise sur le marché concernant les préparations Round Up, Round Up Express et Round Up Gt plus.
