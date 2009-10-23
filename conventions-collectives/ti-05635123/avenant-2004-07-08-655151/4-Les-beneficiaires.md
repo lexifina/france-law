@@ -1,4 +1,4 @@
-# Article 4 : Les bénéficiaires
+# Article 4
 
 Ce contrat peut être proposé à un salarié intérimaire remplissant les conditions suivantes :
 
