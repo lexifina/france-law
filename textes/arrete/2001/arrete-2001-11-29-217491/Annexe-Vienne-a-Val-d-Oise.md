@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe Vienne à Val d'Oise
 
 Direction départementale de l'équipement de la Vienne
 
@@ -6,7 +6,9 @@ FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -44,7 +46,9 @@ FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -124,13 +128,15 @@ C
 
 |
 
-Direction départementale de l'équipement de l'Yonne
+Direction départementale de l'équipement et de l'agriculture (2) de l'Yonne
 
 FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -140,7 +146,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS (IM)
+
+par emploi
 
 |
 
@@ -176,13 +184,15 @@ B
 
 |
 
-Direction départementale de l'équipement du territoire de Belfort
+Direction départementale de l'équipement et de l'agriculture (1) du territoire de Belfort
 
 FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -214,13 +224,15 @@ A
 
 |
 
-Direction départementale de l'équipement de l'Essonne
+Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 
 FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -230,7 +242,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS (IM)
+
+par emploi
 
 |
 
@@ -352,7 +366,9 @@ FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -362,7 +378,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS (IM)
+
+par emploi
 
 |
 
@@ -420,7 +438,9 @@ FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -430,7 +450,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS (IM)
+
+par emploi
 
 |
 
@@ -690,7 +712,9 @@ C
 
 |
 
-Responsable du pôle politique de la ville et ingénierie du renouvellement urbain |
+Responsable du pôle politique de la ville et ingénierie du renouvellement urbain
+
+|
 
 A
 
@@ -752,7 +776,9 @@ A
 
 |
 
-Responsable du pôle interventions en habitat privé |
+Responsable du pôle interventions en habitat privé
+
+|
 
 A
 
@@ -766,7 +792,9 @@ A
 
 |
 
-Responsable de la cellule éradication de l'habitat indigne |
+Responsable de la cellule éradication de l'habitat indigne
+
+|
 
 A
 
@@ -780,7 +808,9 @@ A
 
 |
 
-Responsable du pôle logement des démunis et prévention des expulsions |
+Responsable du pôle logement des démunis et prévention des expulsions
+
+|
 
 A
 
@@ -794,7 +824,9 @@ A
 
 |
 
-Responsable du pôle droit au logement opposable |
+Responsable du pôle droit au logement opposable
+
+|
 
 A
 
@@ -808,7 +840,9 @@ A
 
 |
 
-Chargé de mission gens du voyage et résorption de l'habitat précaire |
+Chargé de mission gens du voyage et résorption de l'habitat précaire
+
+|
 
 A
 
@@ -854,7 +888,9 @@ A
 
 |
 
-Responsable du pôle planification urbaine et aménagement |
+Responsable du pôle planification urbaine et aménagement
+
+|
 
 A
 
@@ -868,7 +904,9 @@ A
 
 |
 
-Responsable du pôle d'information géographique et statistique des territoires |
+Responsable du pôle d'information géographique et statistique des territoires
+
+|
 
 A
 
@@ -882,7 +920,9 @@ A
 
 |
 
-Responsable de la subdivision foncière opérationnelle |
+Responsable de la subdivision foncière opérationnelle
+
+|
 
 A
 
@@ -912,7 +952,9 @@ A
 
 |
 
-Instructeur politique de la ville et renouvellement urbain au service habitat et renouvellement urbain |
+Instructeur politique de la ville et renouvellement urbain au service habitat et renouvellement urbain
+
+|
 
 B
 
@@ -942,7 +984,9 @@ B
 
 |
 
-Instructeur financement du logement social au service habitat et renouvellement urbain |
+Instructeur financement du logement social au service habitat et renouvellement urbain
+
+|
 
 B
 
@@ -988,7 +1032,9 @@ B
 
 |
 
-Responsable de la commission départementale des aides personnalisées au logement |
+Responsable de la commission départementale des aides personnalisées au logement
+
+|
 
 B
 
@@ -1002,7 +1048,9 @@ B
 
 |
 
-Suivi administratif des opérations éradication de l'habitat indigne |
+Suivi administratif des opérations éradication de l'habitat indigne
+
+|
 
 C
 
@@ -1016,13 +1064,15 @@ C
 
 |
 
-Direction départementale de l'équipement du Val-d'Oise
+Direction départementale de l'équipement et de l'agriculture (1) du Val-d'Oise
 
 FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -1032,7 +1082,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM) par emploi
+NOMBRE DE POINTS (IM)
+
+par emploi
 
 |
 
@@ -1163,3 +1215,9 @@ B
 30 points
 
 |
+
+NOTA :
+
+(1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
+
+(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.

@@ -1,423 +1,841 @@
-# Article Annexe
+# Article Annexe Paris à Vaucluse
 
 Préfecture de Paris
 
-FONCTIONS EXERCÉES |
+FONCTIONS EXERCEES
 
-NIVEAU de qualification de l'emploi |
+|
 
-NOMBRE d'emplois |
+NIVEAU
 
-NOMBRE de points (IM) par emploi |
+de qualification de l'emploi
 
-Délégué de l'Etat |
+|
 
-A |
+NOMBRE d'emplois
 
-1 |
+|
 
-50 points |
+NOMBRE de points (IM)
 
-Chargé d'étude des questions urbaines liées à la politique de la ville à la direction de l'urbanisme, du logement et de l'équipement |
+par emploi
 
-A |
+|
 
-1 |
+Délégué de l'Etat
 
-50 points |
+|
 
-Adjoint au chef du bureau urbanisme , chargé des dossiers emplois ville à la direction de l'urbanisme, du logement et de l'équipement |
+A
 
-A |
+|
 
-1 |
+1
 
-50 points |
+|
 
-Chef de la section du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement |
+50 points
 
-A |
+|
 
-1 |
+Chargé d'étude des questions urbaines liées à la politique de la ville à la direction de l'urbanisme, du logement et de l'équipement
 
-50 points |
+|
 
-Chef de la section saturnisme à la direction de l'urbanisme, du logement et de l'équipement |
+A
 
-A |
+|
 
-1 |
+1
 
-50 points |
+|
 
-Chef de la section analyses et prospectives de l'habitat à la direction de l'urbanisme, du logement et de l'équipement |
+50 points
 
-A |
+|
 
-1 |
+Adjoint au chef du bureau urbanisme, chargé des dossiers emplois ville à la direction de l'urbanisme, du logement et de l'équipement
 
-50 points |
+|
 
-Adjoint au chef de la section urbanisme opérationnel à la direction de l'urbanisme, du logement et de l'équipement . |
+A
 
-B |
+|
 
-1 |
+1
 
-30 points |
+|
 
-Adjoint au chef de la section programmation du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement |
+50 points
 
-B |
+|
 
-1 |
+Chef de la section du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement
 
-30 points |
+|
 
-Chargé du financement des investissements sur crédits spécifiques à la direction de l'urbanisme, du logement et de l'équipement.. |
+A
 
-B |
+|
 
-1 |
+1
 
-30 points |
+|
 
-Chargé de l'instruction et du suivi des dossiers ANRU et de l'instruction des dossiers AQS à la direction de l'urbanisme, du logement et de l'équipement |
+50 points
 
-B |
+|
 
-1 |
+Chef de la section saturnisme à la direction de l'urbanisme, du logement et de l'équipement
 
-30 points |
+|
 
-Instructeur des dossiers OPAH dans les zones sensibles à la direction de l'urbanisme, du logement et de l'équipement |
+A
 
-B |
+|
 
-4 |
+1
 
-30 points |
+|
 
-Direction départementale de l'équipement de la Seine-Maritime
+50 points
 
-FONCTIONS EXERCEES |
+|
 
-NIVEAU de qualification de l'emploi |
+Chef de la section analyses et prospectives de l'habitat à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50 points
+
+|
+
+Adjoint au chef de la section urbanisme opérationnel à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Adjoint au chef de la section programmation du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chargé du financement des investissements sur crédits spécifiques à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chargé de l'instruction et du suivi des dossiers ANRU et de l'instruction des dossiers AQS à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Instructeur des dossiers OPAH dans les zones sensibles à la direction de l'urbanisme, du logement et de l'équipement
+
+|
+
+B
+
+|
+
+4
+
+|
+
+30 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) de la Seine-Maritime
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
+
+|
 
 NOMBRE DE POINTS (IM)
 
-par emploi |
+par emploi
 
-Délégué de l'Etat |
+|
 
-A |
+Délégué de l'Etat
 
-2 |
+|
 
-50 points |
+A
 
-Direction départementale de l'équipement de Seine-et-Marne
+|
 
-FONCTIONS EXERCEES |
+2
 
-NIVEAU de qualification de l'emploi |
+|
 
-NOMBRE
+50 points
 
-d'emplois |
+|
 
-NOMBRE DE POINTS (IM) par emploi |
+Direction départementale de l'équipement et de l'agriculture (2) de Seine-et-Marne
 
-Chef du bureau "mission politique de la ville" au service de l'habitat |
+FONCTIONS EXERCEES
 
-A |
+|
 
-1 |
+NIVEAU
 
-20 points |
+de qualification de l'emploi
 
-Gestionnaire comptable au service habitat |
-
-C |
-
-1 |
-
-13 points |
-
-Direction départementale de l'équipement des Yvelines
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM) par emploi |
+|
 
-Chef de la mission "politique de la ville" |
+NOMBRE DE POINTS (IM)
 
-A |
+par emploi
 
-1 |
+|
 
-30 points |
+Chef du bureau "mission politique de la ville" au service de l'habitat
 
-Chargé de mission politique de la ville |
+|
 
-A |
+A
 
-1 |
+|
 
-30 points |
+1
 
-Chargé de mission politique de la ville |
+|
 
-B |
+20 points
 
-2 |
+|
 
-20 points |
+Gestionnaire comptable au service habitat
 
-Comptable chargé des engagements comptables des dossiers d'investissement et du contrôle de la réalisation des travaux |
+|
 
-C |
+C
 
-2 |
+|
 
-10 points |
+1
 
-Direction départementale de l'équipement des Deux-Sèvres
+|
 
-FONCTIONS EXERCEES |
+13 points
 
-NIVEAU de qualification de l'emploi |
+|
+
+Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM) par emploi |
+|
 
-Chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme |
+NOMBRE DE POINTS (IM) par emploi
 
-A |
+|
 
-1 |
+Chef de la mission "politique de la ville"
 
-30 points |
+|
 
-Adjoint au chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme, responsable de la programmation des études du contrat de ville |
+A
 
-A |
+|
 
-1 |
+1
 
-30 points |
+|
 
-Chef de bureau habitat |
+30 points
 
-A |
+|
 
-1 |
+Chargé de mission politique de la ville
 
-30 points |
+|
 
-Adjoint au chef du bureau habitat, chargé de l'instruction des dossiers du fonds de solidarité logement |
+A
 
-B |
+|
 
-1 |
+1
 
-30 points |
+|
 
-Instruction des dossiers du fonds social du logement au sein du bureau habitat |
+30 points
 
-B |
+|
 
-1 |
+Chargé de mission politique de la ville
 
-30 points |
+|
+
+B
+
+|
+
+2
+
+|
+
+20 points
+
+|
+
+Comptable chargé des engagements comptables des dossiers d'investissement et du contrôle de la réalisation des travaux
+
+|
+
+C
+
+|
+
+2
+
+|
+
+10 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) des Deux-Sèvres
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Adjoint au chef du service de la prospective, de l'environnement, de l'habitat et de l'urbanisme, responsable de la programmation des études du contrat de ville
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chef de bureau habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Adjoint au chef du bureau habitat, chargé de l'instruction des dossiers du fonds de solidarité logement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Instruction des dossiers du fonds social du logement au sein du bureau habitat
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
 
 Direction départementale de l'équipement de la Somme
 
-FONCTIONS EXERCEES |
+FONCTIONS EXERCEES
 
-NIVEAU de qualification de l'emploi |
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
+
+|
 
 NOMBRE DE POINTS (IM)
 
-par emploi |
+par emploi
 
-Chef de projet état politique de la ville |
+|
 
-A |
+Chef de projet état politique de la ville
 
-1 |
+|
 
-50 points |
+A
 
-Adjoint au chef de projet politique de la ville |
+|
 
-A |
+1
 
-1 |
+|
 
-30 points |
+50 points
 
-Chef de l'unité financement du logement social |
+|
 
-A |
+Adjoint au chef de projet politique de la ville
 
-1 |
+|
 
-30 points |
+A
 
-Agent chargé de la gestion financière |
+|
 
-C |
+1
 
-1 |
+|
 
-20 points |
+30 points
 
-Direction départementale de l'équipement du Tarn
+|
 
-FONCTIONS EXERCEES |
+Chef de l'unité financement du logement social
 
-NIVEAU de qualification de l'emploi |
+|
 
-NOMBRE
+A
 
-d'emplois |
+|
 
-NOMBRE DE POINTS (IM) par emploi |
+1
 
-Chef du bureau aides au logement |
+|
 
-A |
+30 points
 
-1 |
+|
 
-15 points |
+Agent chargé de la gestion financière
 
-Chef du bureau études générales de l'habitat |
+|
 
-A |
+C
 
-1 |
+|
 
-15 points |
+1
 
-Collaborateur du chef du bureau aide au logement |
+|
 
-B |
+20 points
 
-1 |
+|
 
-10 points |
+Direction départementale de l'équipement et de l'agriculture (2) du Tarn
 
-Collaborateur du chef du bureau aide au logement |
+FONCTIONS EXERCEES
 
-C |
+|
 
-1 |
+NIVEAU
 
-15 points |
+de qualification de l'emploi
 
-Direction départementale de l'équipement du Var
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM) par emploi |
+|
 
-Chef du bureau ingénierie sociale |
+NOMBRE DE POINTS (IM)
 
-A |
+par emploi
 
-1 |
+|
 
-25 points |
+Chef du bureau aides au logement
 
-Chef du bureau de la politique de la ville |
+|
 
-A |
+A
 
-1 |
+|
 
-25 points |
+1
 
-Chargé d'études au sein du bureau de la politique de la ville |
+|
 
-B |
+15 points
 
-2 |
+|
 
-15 points |
+Chef du bureau études générales de l'habitat
 
-Responsable de la section des aides au logement du secteur public |
+|
 
-B |
+A
 
-1 |
+|
 
-15 points |
+1
 
-Direction départementale de l'équipement de Vaucluse
+|
 
-FONCTIONS EXERCEES |
+15 points
 
-NIVEAU de qualification de l'emploi |
+|
+
+Collaborateur du chef du bureau aide au logement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Collaborateur du chef du bureau aide au logement
+
+|
+
+C
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) du Var
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM)par emploi |
+|
 
-Chef du service ville, urbanisme et habitat |
+NOMBRE DE POINTS (IM)
 
-A |
+par emploi
 
-1 |
+|
 
-20 points |
+Chef du bureau ingénierie sociale
 
-Chef du bureau programmation du logement social |
+|
 
-A |
+A
 
-1 |
+|
 
-20 points |
+1
 
-Adjoint au chef du bureau ville habitat |
+|
 
-B |
+25 points
 
-1 |
+|
 
-15 points |
+Chef du bureau de la politique de la ville
 
-Secrétaire du bureau ville et habitat |
+|
 
-C |
+A
 
-1 |
+|
 
-5 points |
+1
+
+|
+
+25 points
+
+|
+
+Chargé d'études au sein du bureau de la politique de la ville
+
+|
+
+B
+
+|
+
+2
+
+|
+
+15 points
+
+|
+
+Responsable de la section des aides au logement du secteur public
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) de Vaucluse
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chef du service ville, urbanisme et habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chef du bureau programmation du logement social
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Adjoint au chef du bureau ville habitat
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Secrétaire du bureau ville et habitat
+
+|
+
+C
+
+|
+
+1
+
+|
+
+5 points
+
+|
+
+NOTA :
+
+(1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
+
+(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.

@@ -1,315 +1,621 @@
-# Article Annexe
+# Article Annexe Pas-de-Calais à Savoie
 
 Direction départementale de l'équipement du Pas-de-Calais
 
-FONCTIONS EXERCEES |
+FONCTIONS EXERCEES
 
-NIVEAU de qualification de l'emploi |
+|
 
-NOMBRE
+NIVEAU
 
-d'emplois |
+de qualification de l'emploi
 
-NOMBRE DE POINTS (IM)par emploi |
-
-Coordinateur territorial habitat et renouvellement urbain |
-
-A |
-
-2 |
-
-30 |
-
-Responsable de la cellule ANRU au service habitat |
-
-A |
-
-1 |
-
-30 |
-
-Chargé de l'animation et de la mise en oeuvre du renouvellement urbain |
-
-A |
-
-1 |
-
-25 |
-
-Gestionnaire renouvellement urbain |
-
-B |
-
-6 |
-
-20 points |
-
-Direction départementale de l'équipement des Pyrénées-Atlantiques
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
+
+|
 
 NOMBRE DE POINTS (IM)
 
-par emploi |
+par emploi
 
-Chef de la cellule politique de la ville et solidarité |
+|
 
-A |
+Coordinateur territorial habitat et renouvellement urbain
 
-1 |
+|
 
-40 points |
+A
 
-Chef de la cellule politique de l'habitat |
+|
 
-A |
+2
 
-1 |
+|
 
-40 points |
+30
 
-Direction départementale de l'équipement des Pyrénées-Orientales
+|
 
-FONCTIONS EXERCEES |
+Responsable de la cellule ANRU au service habitat
 
-NIVEAU de qualification de l'emploi |
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Chargé de l'animation et de la mise en oeuvre du renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+25
+
+|
+
+Gestionnaire renouvellement urbain
+
+|
+
+B
+
+|
+
+6
+
+|
+
+20 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) des Pyrénées-Atlantiques
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM)par emploi |
+|
 
-Chef du service habitat, urbanisme et environnement |
+NOMBRE DE POINTS (IM)
 
-A |
+par emploi
 
-1 |
+|
 
-50 points |
+Chef de la cellule politique de la ville et solidarité
 
-Chef de la cellule politique de la ville |
+|
 
-A |
+A
 
-1 |
+|
 
-30 points |
+1
+
+|
+
+40 points
+
+|
+
+Chef de la cellule politique de l'habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+40 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) des Pyrénées-Orientales
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chef du service habitat, urbanisme et environnement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50 points
+
+|
+
+Chef de la cellule politique de la ville
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
 
 Direction départementale de l'équipement du Bas-Rhin
 
-FONCTIONS EXERCEES |
+FONCTIONS EXERCEES
 
-NIVEAU de qualification de l'emploi |
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
+
+|
 
 NOMBRE DE POINTS (IM)
 
-par emploi |
+par emploi
 
-Délégué de l'Etat |
+|
 
-A |
+Délégué de l'Etat
 
-3 |
+|
 
-30 points |
+A
 
-Correspondant Etat |
+|
 
-A |
+3
 
-1 |
+|
 
-20 points |
+30 points
 
-Responsable de la politique sociale du logement |
+|
 
-A |
+Correspondant Etat
 
-1 |
+|
 
-20 points |
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable de la politique sociale du logement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
 
 Direction départementale de l'équipement du Haut-Rhin
 
-FONCTIONS EXERCEES |
+FONCTIONS EXERCEES
 
-NIVEAU de qualification de l'emploi |
+|
 
-NOMBRE
+NIVEAU
 
-d'emplois |
+de qualification de l'emploi
 
-NOMBRE DE POINTS (IM) par emploi |
-
-Chef de la cellule politique de la ville |
-
-A |
-
-1 |
-
-35 points |
-
-Agent référent des porteurs de projets dans les différents dispositifs de la politique de la ville |
-
-B |
-
-2 |
-
-25 points |
-
-Direction départementale de l'équipement du Rhône
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM) par emploi |
-
-Chef du service politique de la ville |
-
-A |
-
-1 |
-
-40 points |
-
-Chargé d'opération |
-
-A |
-
-6 |
-
-30 points |
-
-Chargé d'opération politique de la ville au sein de la cellule politique de la ville |
-
-B |
-
-1 |
-
-30 points |
-
-Assistant au chargé d'opération politique de la ville |
-
-C |
-
-3 |
-
-30 points |
-
-Direction départementale de l'équipement de la Haute-Saône
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
-
-NOMBRE
-
-d'emplois |
-
-NOMBRE DE POINTS (IM)par emploi |
-
-Chargé du bureau techniques et financement du logement |
-
-A |
-
-1 |
-
-15 points |
-
-Adjoint au chef du bureau techniques et financement du logement |
-
-B |
-
-1 |
-
-10 points |
-
-Gestionnaire au bureau techniques et financement du logement |
-
-C |
-
-1 |
-
-10 points |
-
-Direction départementale de l'équipement de la Sarthe
-
-FONCTIONS EXERCEES |
-
-NIVEAU de qualification de l'emploi |
-
-NOMBRE
-
-d'emplois |
+|
 
 NOMBRE DE POINTS (IM)
 
-par emploi |
+par emploi
 
-Responsable de la politique de la ville |
+|
 
-A |
+Chef de la cellule politique de la ville
 
-1 |
+|
 
-50 points |
+A
 
-Animateur de la politique de la ville |
+|
 
-A |
+1
 
-1 |
+|
 
-50 points |
+35 points
 
-Gestionnaire des dossiers ville |
+|
 
-B |
+Agent référent des porteurs de projets dans les différents dispositifs de la politique de la ville
 
-1 |
+|
 
-30 points |
+B
 
-Direction départementale de l'équipement de la Savoie
+|
 
-FONCTIONS EXERCEES |
+2
 
-NIVEAU de qualification de l'emploi |
+|
+
+25 points
+
+|
+
+Direction départementale de l'équipement du Rhône
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
 
 NOMBRE
 
-d'emplois |
+d'emplois
 
-NOMBRE DE POINTS (IM)par emploi |
+|
 
-Correspondant politique de la ville |
+NOMBRE DE POINTS (IM)
 
-A |
+par emploi
 
-1 |
+|
 
-30 points |
+Chef du service politique de la ville
 
-Suivi de la politique de la ville et des personnes défavorisées |
+|
 
-B |
+A
 
-1 |
+|
 
-20 points |
+1
+
+|
+
+40 points
+
+|
+
+Chargé d'opération
+
+|
+
+A
+
+|
+
+6
+
+|
+
+30 points
+
+|
+
+Chargé d'opération politique de la ville au sein de la cellule politique de la ville
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Assistant au chargé d'opération politique de la ville
+
+|
+
+C
+
+|
+
+3
+
+|
+
+30 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) de la Haute-Saône
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chargé du bureau techniques et financement du logement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Adjoint au chef du bureau techniques et financement du logement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Gestionnaire au bureau techniques et financement du logement
+
+|
+
+C
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) de la Sarthe
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Responsable de la politique de la ville
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50 points
+
+|
+
+Animateur de la politique de la ville
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50 points
+
+|
+
+Gestionnaire des dossiers ville
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Direction départementale de l'équipement et de l'agriculture (2) de la Savoie
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Correspondant politique de la ville
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Suivi de la politique de la ville et des personnes défavorisées
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+NOTA :
+
+(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
