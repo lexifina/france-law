@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709848
+
+- Question : [SEQ090709848](seq090709848.md) — Suppression des aides forfaitaires cafés-hôtels-restaurants
+
+## Réponse
+
+*Économie, JO du 2009-10-29, page 2531*
+
+Neuf organisations patronales représentatives de l'ensemble du secteur de la restauration ont pris part à l'élaboration et à la conclusion du contrat d'avenir en faveur des consommateurs, des salariés et de la modernisation du secteur de la restauration, signé à l'occasion des états généraux de la restauration, le 28 avril 2009. À travers ce contrat d'avenir, les professionnels de la restauration, qui ont compris l'importance exceptionnelle de l'aide apportée à leur secteur, s'engagent, en contrepartie, à répercuter totalement les gains obtenus sur les prix pour les consommateurs, la création d'emplois, l'amélioration de la situation des salariés et la modernisation des établissements. Le préambule du contrat d'avenir dispose que les aides inscrites dans le contrat de croissance du 17 mai 2006, dont notamment les aides à l'emploi, sont supprimées à compter de la date d'entrée en vigueur de la baisse du taux de TVA. Le coût net pour l'État de la baisse de la TVA dans la restauration s'élève à 2,35 milliards d'euros. À titre de comparaison, les aides à l'emploi mises en place depuis 2004 et supprimées au 1er juillet 2009 représentaient un coût annuel pour l'État de 629 millions d'euros. La baisse de TVA dans la restauration représente par conséquent un effort budgétaire sans précédent de la part de l'État au bénéfice principalement des entreprises du secteur et de leurs salariés en particulier. Il ne peut donc être envisagé de pallier les conséquences de la suppression de ces aides dont le caractère temporaire et conditionnel a, depuis l'origine, été reconnu. De telles mesures ne sont d'ailleurs demandées ni par les organisations patronales ni par les syndicats de salariés du secteur.
