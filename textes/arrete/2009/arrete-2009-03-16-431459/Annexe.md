@@ -74,6 +74,10 @@ Moteurs, générateurs et transformateurs électriques.
 
 |
 
+31400000-0 |
+
+Accumulateurs, piles et batteries primaires |
+
 31700000-3
 
 |
@@ -129,6 +133,10 @@ Equipements médicaux.
 Produits pharmaceutiques.
 
 |
+
+34100000-8 |
+
+Véhicules à moteur |
 
 34500000-2
 
