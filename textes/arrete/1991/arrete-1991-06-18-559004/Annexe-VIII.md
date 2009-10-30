@@ -12,7 +12,7 @@ de véhicule
 
 DOCUMENT
 
-à présenter en complément de la carte grise
+à présenter en complément du certificat d'immatriculation
 
 |
 
@@ -54,11 +54,11 @@ Arrêté du 30 septembre 1975 modifié
 
 |
 
-- 1 an après l'attribution de la carte blanche ;
+-1 an après l'attribution de la carte blanche ;
 
 |
 
-- échéance de validité du contrôle technique avant attribution de la carte blanche
+-échéance de validité du contrôle technique avant attribution de la carte blanche
 
 |
 
@@ -78,7 +78,7 @@ Néant
 
 |
 
-Décret n°87-965 du 30 novembre 1987
+Décret n° 87-965 du 30 novembre 1987
 
 |
 
@@ -90,11 +90,11 @@ C. Véhicules utilisés pour l'enseignement de la conduite
 
 |
 
-Carte orange (en l'absence de la mention véhicule-école sur la carte grise)
+Carte orange (en l'absence de la mention véhicule-école sur le certificat d'immatriculation)
 
 |
 
-Régime général de l'AM du 18/06/1991
+Régime général de l'AM du 18 / 06 / 1991
 
 |
 
@@ -160,9 +160,25 @@ Déclaration d'affectation
 
 Article R. 323-24 du Code de la route
 
+arrêté du 29 novembre 1994 modifié
+
 |
 
-arrêté du 29 novembre 1994 modifié
+F. Véhicule de collection
+
+|
+
+Certificat d'immatriculation avec mention d'usage " Véhicule de collection "
+
+|
+
+5 ans à compter du contrôle technique favorable.
+
+|
+
+5 ans |
+
+Arrêté du 14 octobre 2009 relatif aux véhicules de collection
 
 |
 
@@ -199,3 +215,7 @@ Véhicules de transport de matières dangereuses
 Arrêté du 1er juin 2001 dit arrêté ADR
 
 |
+
+Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg |
+
+Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds |

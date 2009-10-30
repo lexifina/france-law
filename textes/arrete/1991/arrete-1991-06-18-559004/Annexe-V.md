@@ -24,15 +24,15 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures doivent prévoir également :
 
-- Un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés, pour les matériels visés aux points 1.3 et 1.6 de l'annexe III. L'écart entre deux étalonnages successifs ne doit pas excéder huit mois ;
+- Un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés, pour les matériels visés aux points 1.1, 1.3, 1.6.1 et 1.6.2 de l'annexe III. L'écart entre deux étalonnages successifs ne doit pas excéder huit mois ;
 
-- Un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés, pour les matériels visés aux points 1.3 et 1.6 de l'annexe III. L'écart entre deux visites successives ne doit pas excéder huit mois ;
+- Un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés, pour les matériels visés aux points 1.1, 1.3, 1.6.1 et 1.6.2 de l'annexe III. L'écart entre deux visites successives ne doit pas excéder huit mois ;
 
 - Des dispositions pour le contrôle régulier de la chaîne de mesure des matériels visés aux points 1.1, 1.2, 1.3, 1.4, 1.5 et 1.6 de l'annexe III ;
 
 - Des dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement) de tous les appareils.
 
-Les vérifications et opérations visées ci-dessus peuvent, le cas échéant, être combinées entre elles. Les opérations conduites par des personnels qualifiés font l'objet d'un contrat.
+Les opérations d'étalonnage et de maintenance préventives doivent faire l'objet d'un contrat avec un organisme habilité pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles.
 
 3.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé doivent être disponibles dans toutes les installations de contrôle.
 
@@ -72,15 +72,25 @@ Les vérifications et opérations visées ci-dessus peuvent, le cas échéant, �
 
 7.3. L'audit des centres de contrôle non rattachés est effectué par un organisme agréé par le ministre chargé des transports. Le centre de contrôle s'engage à respecter les procédures de déclenchement et de déroulement d'audit définies par cet organisme.
 
+L'organisme d'audit doit mettre en œuvre les prescriptions du cahier des charges défini par le ministère chargé des transports. L'agrément de l'organisme peut être retiré par le ministère chargé des transports, si les prescriptions qui lui sont imposées ne sont pas respectées.
+
 7.4. Toute installation de contrôle agréée doit faire l'objet d'un audit au moins une fois par an.
 
 7.5. Chaque contrôleur doit faire l'objet d'un audit, au moins tous les deux ans, portant sur la réalisation d'au moins une visite technique périodique. Cet audit est réalisé par le réseau ou l'organisme prévu aux paragraphes 7.2 et 7.3.
+
+7.6. Les organismes habilités, tel que prévu au paragraphe 7.2, ou agréés, tel que prévu au paragraphe 7.3, qui réalisent des audits d'installations et de contrôleurs prévus ci-dessus doivent être certifiés selon le référentiel NF EN ISO 9001 dans le domaine de la réalisation d'audits d'installations et de contrôleurs techniques. Les organismes doivent être certifiés :
+
+- avant le 1er janvier 2011 pour un organisme habilité ou agréé avant le 1er janvier 2010 ;
+
+- un an après la date d'habilitation ou d'agrément pour un organisme habilité ou agréé depuis le 1er janvier 2010.
 
 8. Installations auxiliaires
 
 8.1. L'emplacement réservé à l'installation auxiliaire à l'intérieur du local qui l'abrite doit être clairement identifié et signalé.
 
 8.2. L'ensemble des matériels nécessaires aux contrôles techniques doit être regroupé sur cet emplacement et mis à disposition exclusive des contrôleurs pendant toute la durée de leur présence dans l'installation.
+
+8.3. Le réseau de contrôle doit s'assurer que les contrôles réalisés dans l'installation sont effectués par un contrôleur respectant les prescriptions du III de l'article R. 323-17 du code de la route.
 
 9. Information du public
 
@@ -92,4 +102,4 @@ Panneau distinctif
 
 Le panneau distinctif d'une installation de contrôle agréée doit être conforme au modèle ci-dessous (1). Ses dimensions sont de 500 x 500 mm. Le fond du panneau doit être blanc. L'impression est de couleur bleu pantone 293, à l'exception des filets supérieurs et inférieurs encadrant la mention "sécurité routière" qui doivent être noirs. L'inscription "CENTRE DE CONTROLE TECHNIQUE DES VEHlCULES" doit être en caractères univers 65 (hauteur 15 mm). L'inscription "Agrément n° 88888888" doit être en caractères univers 55 (hauteur 10 mm).
 
-(1) L'épreuve sur film à l'échelle est disponible auprès des services de la direction de la sécurité et de la circulation routières.
+(1) L'épreuve sur film à l'échelle est disponible sur le site internet de l'organisme technique central.
