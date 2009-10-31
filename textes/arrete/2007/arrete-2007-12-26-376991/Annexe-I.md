@@ -14,13 +14,9 @@ Directions et services
 
 |
 
-Fonctions
+Fonctions |
 
-|
-
-Points NBI
-
-|
+Points NBI |
 
 Cabinet du ministre.
 
@@ -44,7 +40,7 @@ Chef du bureau du contentieux des polices administratives.
 
 Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
 
-Chef de cabinet.
+Chef du bureau du droit et des procédures d'expulsion.
 
 |
 
@@ -152,7 +148,7 @@ Direction de la modernisation et de l'action territoriale.
 
 |
 
-Chargé de mission auprès du sous-directeur de l'administration territoriale.
+Adjoint au chef du bureau des polices administratives
 
 |
 
@@ -162,7 +158,7 @@ Chargé de mission auprès du sous-directeur de l'administration territoriale.
 
 |
 
-Chef du bureau des usagers de la route et de la réglementation routière.
+Chef du bureau de la sécurité et de la réglementation routières.
 
 |
 
@@ -253,6 +249,14 @@ Chef de cabinet.
 30
 
 |
+
+|
+
+Chef de projet SINOPE.
+
+|
+
+30 |
 
 Direction générale des collectivités locales.
 
@@ -398,6 +402,14 @@ Directeur de l'Institut national de formation des personnels administratifs, tec
 
 |
 
+|
+
+Chef du bureau des politiques sociales.
+
+|
+
+30 |
+
 Préfecture de Paris.
 
 |
@@ -437,16 +449,6 @@ Chef du pôle action et réglementation économiques, veille et prospective.
 |
 
 30
-
-|
-
-|
-
-Chef du bureau du cabinet.
-
-|
-
-50
 
 |
 
@@ -510,9 +512,7 @@ Service des affaires immobilières.
 
 |
 
-Chef du département construction et travaux.
-
-|
+Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. (1) |
 
 50
 
@@ -715,3 +715,7 @@ Chef du département de l'asile à la frontière et de l'admission au séjour.
 30
 
 |
+
+NOTA :
+
+(1) Arrêté du 20 octobre 2009 art 2 : les présentes dispositions entreront en vigueur le 1er janvier 2010.
