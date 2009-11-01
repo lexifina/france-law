@@ -1,8 +1,6 @@
 # Article Annexe Tableau XVI
 
-Siège et ressort des cours d'appel compétentes pour connaître des recours contre les décisions
-
-du directeur de l'Institut national de la propriété industrielle (annexe de l'article D. 311-8)
+Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D. 311-8)
 
 SIÈGE
 
@@ -12,82 +10,74 @@ RESSORT
 
 |
 
-Aix-en-Provence.
+Aix-en-Provence
 
 |
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 |
 
-Bordeaux.
+Bordeaux
 
 |
 
-Ressort des cours d'appel d'Agen, Bordeaux et Poitiers.
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 |
 
-Colmar.
+Douai
 
 |
 
-Ressort des cours d'appel de Colmar et Metz.
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 |
 
-Douai.
+Fort-de-France
 
 |
 
-Ressort des cours d'appel d'Amiens et Douai.
+Ressort des cours d'appel de Basse-terre et Fort-de-France.
 
 |
 
-Limoges.
+Lyon
 
 |
 
-Ressort des cours d'appel de Bourges, Limoges et Riom.
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
 |
 
-Lyon.
+Nancy
 
 |
 
-Ressort des cours d'appel de Chambéry, Grenoble et Lyon.
+Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
 
 |
 
-Nancy.
+Paris
 
 |
 
-Ressort des cours d'appel de Besançon, Dijon et Nancy.
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
 
 |
 
-Paris.
+Rennes
 
 |
 
-Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 |
 
-Rennes.
+Versailles
 
 |
 
-Ressort des cours d'appel d'Angers, Caen et Rennes.
-
-|
-
-Toulouse.
-
-|
-
-Ressort des cours d'appel de Montpellier, Pau et Toulouse.
+Ressort de la cour d'appel de Versailles.
 
 |
