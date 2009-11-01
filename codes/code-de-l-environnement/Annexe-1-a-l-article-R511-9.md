@@ -4,7 +4,9 @@ NOMENCLATURE DES INSTALLATIONS CLASSÉES POUR LA PROTECTION
 
 DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 
-N° |
+N°
+
+|
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
@@ -14,13 +16,17 @@ B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES
 
 |
 
-Désignation de la rubrique |
+Désignation de la rubrique
+
+|
 
 A, D, S C (1)
 
 |
 
-Rayon (2) |
+Rayon (2)
+
+|
 
 Capacité de l'activité
 
@@ -188,7 +194,7 @@ A
 
 |
 
-2. la quantité entreposée étant supérieure à 30 m3 mais inférieure ou égale à 150 m 3
+2. la quantité entreposée étant supérieure à 30 m3 mais inférieure ou égale à 150 m3
 
 |
 
@@ -458,7 +464,7 @@ Ordures ménagères et autres résidus urbains (stockage et traitement des)
 
 |
 
-A. stations de transit, à l'exclusion des déchetteries mentionnées à la rubrique 2710
+A. - Station de transit, à l'exclusion des déchèteries mentionnées à la rubrique 2710
 
 |
 
@@ -470,15 +476,11 @@ A
 
 |
 
-A. Non soumis à la taxe
+|
 
 |
 
--
-
-|
-
-B. traitement :
+B. Traitement :
 
 |
 
@@ -486,13 +488,11 @@ B. traitement :
 
 |
 
-B. :
-
 |
 
 |
 
-1-broyage
+1-Broyage
 
 |
 
@@ -504,15 +504,11 @@ A
 
 |
 
-1. La capacité de traitement est supérieure à 4 t / h
+|
 
 |
 
-1
-
-|
-
-2-décharge ou déposante
+2-Décharge ou déposante
 
 |
 
@@ -524,35 +520,23 @@ A
 
 |
 
-2. Non soumis à la taxe
+|
 
 |
 
--
+3-(Sans objet)
 
 |
 
-3-compostage
+|
 
 |
 
-A
+|
 
 |
 
-1
-
-|
-
-3. La capacité de traitement est supérieure à 4 t / h
-
-|
-
-1
-
-|
-
-4-incinération
+4-Incinération
 
 |
 
@@ -564,11 +548,7 @@ A
 
 |
 
-4. La capacité de traitement est supérieure à 4 t / h
-
 |
-
-1
 
 |
 
@@ -1886,9 +1866,7 @@ DC
 
 |
 
-1140
-
-|
+1140 |
 
 Formaldéhyde de concentration supérieure ou égale à 90 % (fabrication industrielle, emploi ou stockage de)
 
@@ -2104,9 +2082,7 @@ A
 
 |
 
-3. En récipients de capacité inférieure ou égale à 37 kg, la quantité totale susceptible d'être présente dans l'installation étant :
-
-|
+3. En récipients de capacité inférieure ou égale à 37 kg, la quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -2168,7 +2144,7 @@ Substances et préparations particulières (stockage, emploi, fabrication indust
 
 1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de :
 
-4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et / ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
+4-aminobiphényle et/ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
 
 |
 
@@ -2624,9 +2600,7 @@ a) supérieure ou égale à 2 t
 
 |
 
-b) supérieure ou égale à 1 t, mais inférieure à 2 t
-
-|
+b) supérieure ou égale à 1 t, mais inférieure à 2 t |
 
 A
 
@@ -3006,9 +2980,7 @@ AS
 
 |
 
-1. supérieure ou égale à 20 t
-
-|
+1. supérieure ou égale à 20 t |
 
 6
 
@@ -3026,9 +2998,7 @@ A
 
 |
 
-2. supérieure à 2 t, mais inférieure à 20 t
-
-|
+2. supérieure à 2 t, mais inférieure à 20 t |
 
 3
 
@@ -3072,9 +3042,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
+La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3090,17 +3058,13 @@ AS
 
 |
 
-1. supérieure ou égale à 75 t
-
-|
+1. supérieure ou égale à 75 t |
 
 6
 
 |
 
-2. supérieure à 2 t, mais inférieure à 75 t
-
-|
+2. supérieure à 2 t, mais inférieure à 75 t |
 
 A
 
@@ -3110,9 +3074,7 @@ A
 
 |
 
-2. supérieure à 2 t, mais inférieure à 75 t
-
-|
+2. supérieure à 2 t, mais inférieure à 75 t |
 
 2
 
@@ -3160,9 +3122,7 @@ A
 
 |
 
-A. Quelle que soit la capacité
-
-|
+A. Quelle que soit la capacité |
 
 2
 
@@ -3188,17 +3148,13 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-B. La quantité totale susceptible d'être présente dans l'installation étant supérieure à 20 t
-
-|
+B. La quantité totale susceptible d'être présente dans l'installation étant supérieure à 20 t |
 
 2
 
 |
 
-1. supérieure à 20 t
-
-|
+1. supérieure à 20 t |
 
 A
 
@@ -3212,9 +3168,7 @@ A
 
 |
 
-2. supérieure à 2 t, mais inférieure ou égale à 20 t
-
-|
+2. supérieure à 2 t, mais inférieure ou égale à 20 t |
 
 DC
 
@@ -3226,13 +3180,9 @@ DC
 
 |
 
-1171
+1171 |
 
-|
-
-Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques.
-
-|
+Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. |
 
 |
 
@@ -3242,21 +3192,17 @@ Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pou
 
 |
 
-1. Cas des substances très toxiques pour les organismes aquatiques-A-:
+1. Cas des substances très toxiques pour les organismes aquatiques-A-: |
 
 |
 
 |
 
-|
-
-1. La quantité totale susceptible d'être présente dans l'installation étant :
+1. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
+La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3266,11 +3212,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-|
-
-a) Supérieure ou égale à 200 t
-
-|
+a) Supérieure ou égale à 200 t |
 
 AS
 
@@ -3280,17 +3222,13 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 10
 
 |
 
-b) Inférieure à 200 t
-
-|
+b) Inférieure à 200 t |
 
 A
 
@@ -3300,29 +3238,23 @@ A
 
 |
 
-b) inférieure à 200 t
-
-|
+b) inférieure à 200 t |
 
 6
 
 |
 
-2. Cas des substances toxiques pour les organismes aquatiques-B-:
+2. Cas des substances toxiques pour les organismes aquatiques-B-: |
 
 |
 
 |
 
-|
-
-2. La quantité totale susceptible d'être présente dans l'installation étant :
+2. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
+La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3332,11 +3264,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-|
-
-a) Supérieure ou égale 500 t
-
-|
+a) Supérieure ou égale 500 t |
 
 AS
 
@@ -3346,17 +3274,13 @@ AS
 
 |
 
-a) supérieure ou égale à 500 t
-
-|
+a) supérieure ou égale à 500 t |
 
 10
 
 |
 
-b) Inférieure à 500 t
-
-|
+b) Inférieure à 500 t |
 
 A
 
@@ -3366,17 +3290,13 @@ A
 
 |
 
-b) inférieure à 500 t
-
-|
+b) inférieure à 500 t |
 
 6
 
 |
 
-1172
-
-|
+1172 |
 
 Dangereux pour l'environnement-A-, très toxiques pour les organismes aquatiques (stockage et emploi de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques.
 
@@ -3458,9 +3378,7 @@ DC
 
 |
 
-1173
-
-|
+1173 |
 
 Dangereux pour l'environnement-B-, toxiques pour les organismes aquatiques (stockage et emploi de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques.
 
@@ -3566,9 +3484,7 @@ Quelle que soit la capacité
 
 |
 
-1175
-
-|
+1175 |
 
 Organohalogénés (emploi de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à sec visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
 
@@ -3742,9 +3658,7 @@ A
 
 |
 
-b) supérieure ou égale à 100 l, mais inférieure à 1 000 l
-
-|
+b) supérieure ou égale à 100 l, mais inférieure à 1 000 l |
 
 D
 
@@ -3756,9 +3670,7 @@ D
 
 |
 
-3. Réparation, récupération, maintenance, décontamination (1), démontage de composants, appareils et matériels imprégnés, hors du lieu de service lorsque la quantité de produits est supérieure à 50 l
-
-|
+3. Réparation, récupération, maintenance, décontamination (1), démontage de composants, appareils et matériels imprégnés, hors du lieu de service lorsque la quantité de produits est supérieure à 50 l |
 
 A
 
@@ -3768,15 +3680,13 @@ A
 
 |
 
-3. La quantité totale de produits susceptible d'être présente dans l'installation est supérieure à 50 l
-
-|
+3. La quantité totale de produits susceptible d'être présente dans l'installation est supérieure à 50 l |
 
 2
 
 |
 
-(1) La définition de décontamination est celle figurant à l'article 9 du décret du 2 février 1987 relatif à la mise sur le marché, l'utilisation et l'élimination des PCB et PCT.
+(1) La définition de décontamination est celle figurant à l'article 9 du décret du 2 février 1987 relatif à la mise sur le marché, l'utilisation et l'élimination des PCB et PCT. |
 
 |
 
@@ -3786,13 +3696,9 @@ A
 
 |
 
-|
+1185 |
 
-1185
-
-|
-
-Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
+Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés |
 
 |
 
@@ -3802,9 +3708,7 @@ Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
 
 |
 
-|
-
-1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564
+1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 |
 
 |
 
@@ -3814,27 +3718,19 @@ Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
 
 |
 
-|
-
-La quantité de fluide susceptible d'être présente dans l'installation étant :
+La quantité de fluide susceptible d'être présente dans l'installation étant : |
 
 |
 
 |
 
-|
-
-1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l
-
-|
+1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l |
 
 1
 
 |
 
-a) supérieure à 800 l
-
-|
+a) supérieure à 800 l |
 
 A
 
@@ -3848,9 +3744,7 @@ A
 
 |
 
-b) supérieure à 80 l, mais inférieure ou égale à 800 l
-
-|
+b) supérieure à 80 l, mais inférieure ou égale à 800 l |
 
 D
 
@@ -3862,23 +3756,19 @@ D
 
 |
 
-2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de compression et de réfrigération visés par la rubrique 2920
+2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de compression et de réfrigération visés par la rubrique 2920 |
 
 |
 
 |
 
-|
-
-2. Non soumis à la taxe.
-
-|
+2. Non soumis à la taxe. |
 
 -
 
 |
 
-La quantité de fluide susceptible d'être présente dans l'installation étant :
+La quantité de fluide susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3888,11 +3778,7 @@ La quantité de fluide susceptible d'être présente dans l'installation étant 
 
 |
 
-|
-
-a) supérieure à 800 l de capacité unitaire sauf installations d'extinction
-
-|
+a) supérieure à 800 l de capacité unitaire sauf installations d'extinction |
 
 D
 
@@ -3904,9 +3790,7 @@ D
 
 |
 
-b) supérieure à 200 kg dans les installations d'extinction
-
-|
+b) supérieure à 200 kg dans les installations d'extinction |
 
 D
 
@@ -3918,9 +3802,7 @@ D
 
 |
 
-3. Régénération des fluides et recyclage des halons, sur site de traitement
-
-|
+3. Régénération des fluides et recyclage des halons, sur site de traitement |
 
 A
 
@@ -3930,21 +3812,15 @@ A
 
 |
 
-3. Quelle que soit la capacité
-
-|
+3. Quelle que soit la capacité |
 
 1
 
 |
 
-1190
+1190 |
 
-|
-
-Emploi ou stockage dans un laboratoire de substances ou préparations très toxiques ou toxiques visées par les rubriques 1100 à 1189.
-
-|
+Emploi ou stockage dans un laboratoire de substances ou préparations très toxiques ou toxiques visées par les rubriques 1100 à 1189. |
 
 |
 
@@ -3954,9 +3830,7 @@ Emploi ou stockage dans un laboratoire de substances ou préparations très toxi
 
 |
 
-1. La quantité totale de substances ou préparations très toxiques ou toxiques, y compris des substances toxiques particulières visées par la rubrique 1150 susceptible d'être présente dans l'installation étant supérieure à 100 kg
-
-|
+1. La quantité totale de substances ou préparations très toxiques ou toxiques, y compris des substances toxiques particulières visées par la rubrique 1150 susceptible d'être présente dans l'installation étant supérieure à 100 kg |
 
 D
 
@@ -3968,9 +3842,7 @@ D
 
 |
 
-2. La quantité totale de substances ou préparations toxiques particulières visées à la rubrique 1150-1 et 1150-11 susceptibles d'être présentes dans l'installation étant supérieure à 1 kg
-
-|
+2. La quantité totale de substances ou préparations toxiques particulières visées à la rubrique 1150-1 et 1150-11 susceptibles d'être présentes dans l'installation étant supérieure à 1 kg |
 
 D
 
@@ -3982,9 +3854,7 @@ D
 
 |
 
-3. La quantité totale des substances et préparations toxiques visées à la rubrique 1150-2 susceptible d'être présente dans l'installation étant supérieure à 10 kg
-
-|
+3. La quantité totale des substances et préparations toxiques visées à la rubrique 1150-2 susceptible d'être présente dans l'installation étant supérieure à 10 kg |
 
 D
 
@@ -3996,13 +3866,9 @@ D
 
 |
 
-1200
+1200 |
 
-|
-
-Comburants (fabrication, emploi ou stockage de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques :
-
-|
+Comburants (fabrication, emploi ou stockage de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques : |
 
 |
 
@@ -4012,23 +3878,17 @@ Comburants (fabrication, emploi ou stockage de substances ou préparations) tell
 
 |
 
-1. Fabrication. La quantité totale susceptible d'être présente dans l'installation étant :
+1. Fabrication. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
 |
 
-|
-
-1. La quantité totale susceptible d'être présente dans l'installation étant :
+1. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
-|
-
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 AS
 
@@ -4038,17 +3898,13 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 10
 
 |
 
-b) inférieure à 200 t
-
-|
+b) inférieure à 200 t |
 
 A
 
@@ -4058,31 +3914,23 @@ A
 
 |
 
-b) inférieure à 200 t
-
-|
+b) inférieure à 200 t |
 
 6
 
 |
 
-2. Emploi ou stockage. La quantité totale susceptible d'être présente dans l'installation étant :
+2. Emploi ou stockage. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
 |
 
-|
-
-2. La quantité totale susceptible d'être présente dans l'installation étant :
+2. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
-|
-
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 AS
 
@@ -4092,17 +3940,13 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 6
 
 |
 
-b) supérieure ou égale à 50 t, mais inférieure à 200 t
-
-|
+b) supérieure ou égale à 50 t, mais inférieure à 200 t |
 
 A
 
@@ -4112,17 +3956,13 @@ A
 
 |
 
-b) supérieure ou égale à 50 t, mais inférieure à 200 t
-
-|
+b) supérieure ou égale à 50 t, mais inférieure à 200 t |
 
 3
 
 |
 
-c) supérieure ou égale à 2 t, mais inférieure à 50 t
-
-|
+c) supérieure ou égale à 2 t, mais inférieure à 50 t |
 
 D
 
@@ -4134,27 +3974,19 @@ D
 
 |
 
-Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues.
+Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. |
 
 |
 
 |
 
-|
-
-Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues.
+Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. |
 
 |
 
-|
+1210 |
 
-1210
-
-|
-
-Peroxydes organiques (définition et classification)
-
-|
+Peroxydes organiques (définition et classification) |
 
 |
 
@@ -4164,37 +3996,21 @@ Peroxydes organiques (définition et classification)
 
 |
 
-Les peroxydes organiques et les préparations en contenant sont répartis en quatre groupes de risques :
+Les peroxydes organiques et les préparations en contenant sont répartis en quatre groupes de risques : |
 
-|
+Groupe de risques Gr1 : produits présentant un risque de décomposition violente ou de combustion très rapide |
 
-Groupe de risques Gr1 : produits présentant un risque de décomposition violente ou de combustion très rapide
+Groupe de risque Gr2 : produits présentant un risque de combustion rapide |
 
-|
+Groupe de risque Gr3 : produits présentant un risque de combustion moyenne similaire à celle du bois ou des solvants organiques |
 
-Groupe de risque Gr2 : produits présentant un risque de combustion rapide
+Groupe de risque Gr4 : produits présentant un risque combustion lente. |
 
-|
+Les critères permettant cette répartition sont définis par arrêté ministériel. |
 
-Groupe de risque Gr3 : produits présentant un risque de combustion moyenne similaire à celle du bois ou des solvants organiques
+1211 |
 
-|
-
-Groupe de risque Gr4 : produits présentant un risque combustion lente.
-
-|
-
-Les critères permettant cette répartition sont définis par arrêté ministériel.
-
-|
-
-1211
-
-|
-
-Peroxydes organiques (fabrications des)
-
-|
+Peroxydes organiques (fabrications des) |
 
 |
 
@@ -5024,7 +4840,7 @@ A représentant la quantité relative aux produits classés en division de risqu
 
 |
 
-Produits explosifs (mise en oeuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux.
+Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux.
 
 |
 
@@ -5290,7 +5106,7 @@ Nitrate d'ammonium (stockage de).
 
 |
 
--comprise entre 24, 5 % et 28 % en poids et qui contiennent au plus 0, 4 % de substances combustibles ;
+- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;
 
 |
 
@@ -5302,7 +5118,7 @@ Nitrate d'ammonium (stockage de).
 
 |
 
--supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances combustibles.
+- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles.
 
 |
 
@@ -5466,7 +5282,7 @@ DC
 
 |
 
-Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n o 2003 / 2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) :
+Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n° 2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) :
 
 |
 
@@ -5478,7 +5294,7 @@ Engrais solides simples et composés à base de nitrate d'ammonium correspondant
 
 |
 
-I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et / ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
 |
 
@@ -5490,7 +5306,7 @@ I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une dé
 
 |
 
--de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
+- de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
 
 |
 
@@ -5502,7 +5318,7 @@ I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une dé
 
 |
 
--comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
+- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
 
 |
 
@@ -5514,7 +5330,7 @@ I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une dé
 
 |
 
-Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2).
+Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises dangereuses : Manual of Tests and Criteria, partie III, sous-section 38. 2).
 
 |
 
@@ -5538,7 +5354,7 @@ II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engra
 
 |
 
--supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;
+- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;
 
 |
 
@@ -5550,7 +5366,7 @@ II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engra
 
 |
 
--supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
+- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
 
 |
 
@@ -5694,7 +5510,7 @@ Note-1. Concernant les engrais azotes simples et les engrais composés azotés b
 
 |
 
-(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no 2003 / 2003.
+(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003.
 
 |
 
@@ -5722,7 +5538,7 @@ Note-1. Concernant les engrais azotes simples et les engrais composés azotés b
 
 |
 
-Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2 (**) du règlement européen n° 2003 / 2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du règlement européen n° 2003 / 2003 ou à la norme française équivalente NF U 42-001 (stockage de).
+Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2 (**) du règlement européen n° 2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du règlement européen n° 2003/2003 ou à la norme française équivalente NF U 42-001 (stockage de).
 
 |
 
@@ -5746,7 +5562,7 @@ Cette rubrique s'applique :
 
 |
 
--aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;
+- aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;
 
 |
 
@@ -5758,7 +5574,9 @@ Cette rubrique s'applique :
 
 |
 
--aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;-aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**).
+- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
+
+- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**).
 
 |
 
@@ -5824,9 +5642,9 @@ b) supérieure ou égale à 10 t mais inférieure à 50 t
 
 |
 
-(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à base de nitrate d'ammonium et à forte teneur en azote du règlement européen n° 2003 / 2003.
+(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à base de nitrate d'ammonium et à forte teneur en azote du règlement européen n° 2003/2003.
 
-(**) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003 / 2003.
+(**) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003.
 
 |
 
@@ -6090,7 +5908,7 @@ Gaz inflammables liquefiés (stockage en réservoirs manufacturés de), à l'exc
 
 |
 
-Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température
+Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1,5 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température
 
 |
 
@@ -6186,7 +6004,7 @@ Gaz naturel ou biogaz, sous pression (installations de remplissage de réservoir
 
 |
 
-1. Supérieur ou égal à 2 000 m 3 / h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t
+1. Supérieur ou égal à 2 000 m3/h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t
 
 |
 
@@ -6202,7 +6020,7 @@ A
 
 |
 
-2. Supérieur ou égal à 80 m 3 / h, mais inférieur à 2 000 m 3 / h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t
+2. Supérieur ou égal à 80 m3/h, mais inférieur à 2 000 m3/h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t
 
 |
 
@@ -6216,7 +6034,7 @@ DC
 
 |
 
-Nota.-Les débits sont exprimés pour une température de gaz de 273, 15 K à une pression de 101, 325 kPa.
+Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.
 
 |
 
@@ -6506,7 +6324,7 @@ A
 
 |
 
-2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2. 5 × 105 Pa
+2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2,5 × 105 Pa
 
 |
 
@@ -6522,7 +6340,7 @@ A
 
 |
 
-3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2. 5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15 oC et à la pression de 105 Pa) est supérieure à 1 200 l
+3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2,5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15o C et à la pression de 105 Pa) est supérieure à 1 200 l
 
 |
 
@@ -6882,19 +6700,19 @@ où
 
 |
 
-A représente la capacité relative aux liquides extrêmement inflammables (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est inférieur à 0 oC et dont la pression de vapeur à 35 oC est supérieure à 105 pascals
+A représente la capacité relative aux liquides extrêmement inflammables (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est inférieur à 0 oC et dont la pression de vapeur à 35o C est supérieure à 105 pascals
 
 |
 
-B représente la capacité relative aux liquides inflammables de la 1ère catégorie (coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55 oC et qui ne répondent pas à la définition des liquides extrêmement inflammables
+B représente la capacité relative aux liquides inflammables de la 1ère catégorie (coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55o C et qui ne répondent pas à la définition des liquides extrêmement inflammables
 
 |
 
-C représente la capacité relative aux liquides inflammables de 2ème catégorie (coefficient 1 / 5) : tout liquide dont le point éclair est supérieur ou égal à 55 oC et inférieur à 100 oC, sauf les fuels lourds.
+C représente la capacité relative aux liquides inflammables de 2ème catégorie (coefficient 1/5) : tout liquide dont le point éclair est supérieur ou égal à 55o C et inférieur à 100o C, sauf les fuels lourds.
 
 |
 
-D représente la capacité relative aux liquides peu inflammables (coefficient 1 / 15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications administratives
+D représente la capacité relative aux liquides peu inflammables (coefficient 1/15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications administratives
 
 |
 
@@ -7008,7 +6826,7 @@ b) supérieure à 5 000 t pour le méthanol
 
 |
 
-c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes, dont le point éclair est inférieur à 55 oC (carburants d'aviation compris)
+c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes, dont le point éclair est inférieur à 55o C (carburants d'aviation compris)
 
 |
 
@@ -7020,7 +6838,7 @@ AS
 
 |
 
-c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes dont le point éclair est inférieur à 55 oC (carburants d'aviation compris)
+c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes dont le point éclair est inférieur à 55o C (carburants d'aviation compris)
 
 |
 
@@ -7028,7 +6846,7 @@ c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compri
 
 |
 
-d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou à 55 oC
+d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou à 55o C
 
 |
 
@@ -7040,7 +6858,7 @@ AS
 
 |
 
-d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou égal à 55 o C
+d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou égal à 55o C
 
 |
 

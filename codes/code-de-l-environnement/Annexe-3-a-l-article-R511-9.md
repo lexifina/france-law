@@ -1042,7 +1042,7 @@ A
 
 |
 
-2. Entre 3 000 et 20 000 animaux
+2. Entre 3 000 et 20 000 animaux sevrés
 
 |
 
@@ -1276,7 +1276,7 @@ Couvoirs
 
 |
 
-Capacité logeable d'eau moins 100 000 œufs
+Capacité logeable d'eau moins 100 000 oeufs
 
 |
 
@@ -1576,7 +1576,7 @@ DC
 
 |
 
-Engrais et supports de culture (fabrication des) à partir de matières organiques
+Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques 2780 et 2781 :
 
 |
 
@@ -1604,7 +1604,7 @@ A
 
 |
 
-2. Lorsque la capacité de production et supérieure ou égale à 1 t/j et inférieure à 10 t/j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j
 
 |
 
@@ -2658,7 +2658,7 @@ D
 
 |
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 |
 
@@ -5684,7 +5684,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -5746,7 +5746,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
 
 |
 
@@ -6552,7 +6552,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi no 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
+Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi no 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
 
 |
 
@@ -6614,7 +6614,7 @@ Les organismes génétiquement modifiés visés sont ceux définis par la loi no
 
 |
 
-On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
+On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
 
 |
 
@@ -6630,7 +6630,7 @@ On entend par mise en oeuvre au sens de la présente rubrique toute opération o
 
 |
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
 
 |
 
@@ -7015,6 +7015,274 @@ A
 |
 
 2
+
+|
+
+2780
+
+|
+
+Installations de traitement aérobie (compostage ou stabilisation
+
+biologique) de déchets non dangereux ou matière végétale
+
+brute, ayant le cas échéant subi une étape de méthanisation
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Compostage de matière végétale brute, effluents d'élevage,
+
+matières stercoraires :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) La quantité de matières traitées étant supérieure ou égale à
+
+30 t/j
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 3 t/j et inférieure à 30 t/j
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de fabrication
+
+de denrées alimentaires végétales, de boues de station d'épuration
+
+des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls
+
+ou en mélange avec des déchets végétaux ou des effluents d'élevages
+
+ou des matières stercoraires :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 20 t/j
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+b) La quantité de matières traitées étant supérieure ou égale
+
+à 2 t/j
+
+et inférieure à 20 t/j
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3. Compostage d'autres déchets ou stabilisation biologique |
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2781
+
+|
+
+Installations de méthanisation de déchets non dangereux ou
+
+matière végétale brute à l'exclusion des installations de stations
+
+d'épuration urbaines
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Méthanisation de matière végétale brute, effluents d'élevage,
+
+matières stercoraires, déchets végétaux d'industries agroalimentaires :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) La quantité de matières traitées étant supérieure ou égale
+
+à 30 t/j
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+b) La quantité de matières traitées étant inférieure à 30 t/j
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2. Méthanisation d'autres déchets non dangereux
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2782
+
+|
+
+Installations mettant en œuvre d'autres traitements
+
+biologiques de déchets non dangereux que ceux mentionnés
+
+aux rubriques 2780 et 2781 à l'exclusion des installations
+
+réglementées au titre d'une autre législation
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
 
 |
 
@@ -7418,7 +7686,7 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
 |
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
+1. Lorsque l'installation n'est pas du type "circuit primaire fermé :
 
 |
 
@@ -7478,7 +7746,7 @@ D
 
 |
 
-Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
+Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
 
 |
 
@@ -7702,7 +7970,7 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 
 |
 
-1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
 
 |
 
@@ -7748,7 +8016,7 @@ DC
 
 |
 
-2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -7756,7 +8024,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
