@@ -1,0 +1,231 @@
+# Article Annexe
+
+NOTIFICATION DES ENVELOPPES RÉGIONALES DE DÉPENSES AUTORISÉES MÉDICO-SOCIALES/PERSONNES CONFRONTÉES À DES DIFFICULTÉS SPÉCIFIQUES POUR 2009
+
+RÉGIONS/DOM
+
+|
+
+ENVELOPPE RÉGIONALE
+
+reconductible notifiée
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+8 783 141
+
+|
+
+AQUITAINE
+
+|
+
+17 963 167
+
+|
+
+AUVERGNE
+
+|
+
+4 913 907
+
+|
+
+BOURGOGNE
+
+|
+
+6 183 846
+
+|
+
+BRETAGNE
+
+|
+
+8 774 921
+
+|
+
+CENTRE
+
+|
+
+9 697 325
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+6 770 742
+
+|
+
+CORSE
+
+|
+
+1 798 351
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+3 458 393
+
+|
+
+ÎLE-DE-FRANCE
+
+|
+
+100 195 361
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+18 713 769
+
+|
+
+LIMOUSIN
+
+|
+
+2 012 703
+
+|
+
+LORRAINE
+
+|
+
+11 404 336
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+15 069 959
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+23 696 166
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+4 213 923
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+9 167 960
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+11 792 408
+
+|
+
+PICARDIE
+
+|
+
+9 641 767
+
+|
+
+POITOU-CHARENTES
+
+|
+
+6 167 648
+
+|
+
+PACA
+
+|
+
+35 471 660
+
+|
+
+RHÔNE-ALPES
+
+|
+
+25 503 852
+
+|
+
+GUADELOUPE
+
+|
+
+3 399 900
+
+|
+
+MARTINIQUE
+
+|
+
+3 059 411
+
+|
+
+GUYANE
+
+|
+
+5 284 442
+
+|
+
+LA RÉUNION
+
+|
+
+2 759 853
+
+|
+
+TOTAL
+
+|
+
+355 898 911
+
+|
