@@ -2,23 +2,21 @@
 
 |
 
-QUOTA 2009 (EN TONNES)
+QUOTA 2009 (en t)
 
 en océan Atlantique
 
-à l'est de la longitude
-
-45° ouest
+à l'est de la longitude 45° ouest
 
 |
 
-QUOTA 2009 (EN TONNES)
+QUOTA 2009 (en t)
 
 en mer Méditerranée
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord).
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
 
 |
 
@@ -30,7 +28,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME).
+Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)
 
 |
 
@@ -42,11 +40,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée).
-
-|
-
-4
+Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
 
 |
 
@@ -54,11 +48,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD).
+0
 
 |
 
-2
+Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)
 
 |
 
@@ -66,11 +60,15 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB).
+0
 
 |
 
-9
+Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
+
+|
+
+11
 
 |
 
@@ -78,23 +76,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA).
+Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-136
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN).
-
-|
-
-1
+138
 
 |
 
@@ -102,7 +88,19 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Vendée.
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs VENDÉE
 
 |
 
@@ -114,23 +112,11 @@ Navires adhérant à l'organisation de producteurs Vendée.
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu.
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-3
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest).
-
-|
-
-17
+12
 
 |
 
@@ -138,11 +124,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Côtinière.
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
-5
+14
 
 |
 
@@ -150,7 +136,19 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP).
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Côtinière
+
+|
+
+6
+
+|
+
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP)
 
 |
 
@@ -162,23 +160,11 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative des Artisans pêcheurs du Sud (CAP SUD).
+Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD)
 
 |
 
-127
-
-|
-
-0
-
-|
-
-Navires non adhérent à une organisation de producteurs.
-
-|
-
-5
+137
 
 |
 
@@ -186,11 +172,33 @@ Navires non adhérent à une organisation de producteurs.
 
 |
 
-Total
+Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-358
+0
+
+|
+
+0
+
+|
+
+Réserve nationale
+
+|
+
+3
+
+|
+
+|
+
+TOTAL
+
+|
+
+370
 
 |
 
