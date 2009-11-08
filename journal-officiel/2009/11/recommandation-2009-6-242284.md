@@ -1,0 +1,136 @@
+# Recommandation n° 2009-6 du 3 novembre 2009 du Conseil supérieur de l'audiovisuel aux services de télévision et de radio diffusés en Nouvelle-Calédonie en vue de l'élection des membres du congrès de la Nouvelle-Calédonie et de l'assemblée de province des îles Loyauté
+
+- Nature : Recommandation
+- Numéro : 2009-6
+- Date du texte : 2009-11-03
+- Publication : 2009-11-08
+- JO n° : 0260
+- NOR : CSAC0926328S
+- Origine : JORF n°0260 du 8 novembre 2009
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000021242284
+
+Le Conseil supérieur de l'audiovisuel,
+
+Vu le code électoral ;
+
+Vu la loi organique n° 99-209 du 19 mars 1999 modifiée relative à la Nouvelle-Calédonie ;
+
+Vu la loi n° 77-808 du 19 juillet 1977 modifiée relative à la publication et à la diffusion de certains sondages d'opinion, notamment son article 11 ;
+
+Vu la loi n° 82-652 du 29 juillet 1982 relative à la communication audiovisuelle, notamment son article 6 ;
+
+Vu la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication, notamment ses articles 1er, 13, 14, 16 et 28 ;
+
+Vu la loi n° 99-210 du 19 mars 1999 modifiée relative à la Nouvelle-Calédonie ;
+
+Vu le décret n° 2009-1351 du 2 novembre 2009 portant convocation des électeurs des îles Loyauté pour procéder à l'élection des membres du congrès de la Nouvelle-Calédonie et de l'assemblée de province ;
+
+Vu l'avis du gouvernement de la Nouvelle-Calédonie en date du 27 octobre 2009 ;
+
+Après en avoir délibéré,
+
+Adopte la recommandation suivante :
+
+La présente recommandation est applicable à l'ensemble des services de télévision et de radio diffusés en Nouvelle-Calédonie.
+
+Elle s'applique à compter du 9 novembre 2009. Le Conseil supérieur de l'audiovisuel appréciera la présentation et l'accès équitables à l'antenne des listes de candidats et de leurs soutiens à partir de cette date et jusqu'à la clôture du scrutin.
+
+Elle ne s'applique pas aux services de télévision et de radio consacrés spécifiquement à la propagande électorale des candidats ou des partis et groupements politiques qui les soutiennent et exclusivement accessibles sur internet.
+
+## Article
+
+1. Traitement de l'actualité
+
+1.1. Actualité liée à l'élection
+
+1° Lorsqu'il est traité de la province des îles Loyauté, les services de télévision et de radio veillent à ce que les listes de candidats et les personnes qui les soutiennent bénéficient d'une présentation et d'un accès équitables à l'antenne.
+
+2° Lorsque le traitement de l'élection dépasse le cadre de la province des îles Loyauté, les services de télévision et de radio veillent à ce que les partis et groupements politiques présentant des listes de candidats, ainsi que les personnes qui les soutiennent, bénéficient d'une présentation et d'un accès équitables à l'antenne.
+
+3° Les comptes rendus, commentaires et présentations auxquels donne lieu l'élection doivent être exposés avec un souci constant de mesure et d'honnêteté. Les services de télévision et de radio veillent également à ce que le choix des extraits des déclarations et écrits des candidats et de ceux des représentants des partis et groupements politiques ainsi que les commentaires auxquels ils peuvent donner lieu n'en dénaturent pas le sens général.
+
+4° Les interventions des personnes autres que celles qui appartiennent à des partis ou groupements politiques présentant des listes de candidats ou qui les soutiennent doivent respecter les principes mentionnés au 3°. Le programme d'invitation de ces personnes doit être équilibré.
+
+5° En ce qui concerne les émissions des programmes ne relevant pas de l'information, le Conseil supérieur de l'audiovisuel recommande d'éviter les interventions liées à l'élection si les principes mentionnés aux 1° et 2° ne peuvent être respectés.
+
+6° Les services de télévision veillent à indiquer systématiquement l'origine des images quand elles n'émanent pas de l'éditeur lui-même.
+
+7° Les services de télévision et de radio veillent à ce que l'utilisation d'archives audiovisuelles comportant des images ou paroles de personnalités de la vie publique :
+
+― ne donne pas lieu à des montages ou utilisations susceptibles de déformer le sens initial du document ;
+
+― soit systématiquement assortie de la mention de leur source et de leur date.
+
+1.2. Actualité non liée à l'élection
+
+En ce qui concerne la couverture de l'actualité non liée à l'élection, les services de télévision et de radio continuent d'appliquer la délibération n° 2009-60 du 21 juillet 2009 relative au principe de pluralisme qui prévoit que, dans les programmes à diffusion locale ou régionale, le pluralisme doit être assuré dans le traitement de l'actualité locale ou régionale en tenant compte des équilibres politiques locaux ou régionaux.
+
+2. Relevés des interventions
+
+2.1. Relevés effectués par les éditeurs de services de télévision et de radio
+
+La société France Télévisions (Réseau France outre-mer) transmet chaque semaine au Conseil supérieur de l'audiovisuel les relevés des temps de parole des partis et groupements politiques et de leurs soutiens sur ses antennes.
+
+Les autres services de télévision et de radio communiquent au Conseil supérieur de l'audiovisuel, à sa demande, tous éléments relatifs aux temps de parole des représentants des partis et groupements politiques et de leurs soutiens.
+
+2.2. Transmission d'autres éléments d'information
+
+Les services de télévision et de radio fournissent au Conseil supérieur de l'audiovisuel, à sa demande, tous les éléments d'information nécessaires, en particulier pour l'instruction des saisines qui lui seraient adressées.
+
+Les services de télévision et de radio gardent à la disposition du Conseil supérieur de l'audiovisuel les enregistrements vidéo ou audio des émissions concernées pendant la période couverte par la recommandation.
+
+3. Accessibilité des programmes aux personnes sourdes ou malentendantes
+
+La société France Télévisions (Réseau France outre-mer) veille à favoriser l'accès (par sous-titrage ou langue des signes) des personnes sourdes ou malentendantes aux principaux programmes consacrés à l'actualité électorale diffusés aux heures de forte audience.
+
+4. Collaborateurs des services de télévision et de radio candidats
+
+Jusqu'à la date d'ouverture de la campagne électorale officielle, les collaborateurs des services de télévision et de radio qui seraient candidats veillent à ce que leurs éventuelles interventions à l'antenne ou à l'écran ne puissent avoir aucune incidence de nature à porter atteinte à l'égalité des candidats devant les moyens de propagande et à la sincérité du scrutin.
+
+Ces mêmes collaborateurs s'abstiennent de paraître à l'antenne ou de s'exprimer sur les ondes dans l'exercice de leur fonction à compter de l'ouverture de la campagne officielle et jusqu'au jour où l'élection est acquise dans la circonscription où ils ont été candidats.
+
+5. Rappel d'obligations légales
+
+5.1. Publicité
+
+Conformément à l'article 14 de la loi du 30 septembre 1986 modifiée, les émissions publicitaires radiodiffusées ou télévisées à caractère politique sont interdites.
+
+Les services de télévision et de radio veillent, s'agissant de la publicité en faveur du secteur de la presse, à ne pas diffuser de messages publicitaires de nature à fausser la sincérité du scrutin. Seraient susceptibles d'être considérés comme tels des messages publicitaires comportant des références, verbales ou visuelles, à des candidats ou aux enjeux du scrutin.
+
+Les services de radio ainsi que les services de télévision distribués par des réseaux n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel veillent à ne pas diffuser de messages publicitaires en faveur d'ouvrages littéraires dont l'auteur est directement concerné par l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, ou dont le titre ou le contenu sont liés aux enjeux de cette élection.
+
+5.2. Propagande électorale
+
+Conformément au deuxième alinéa de l'article L. 49 du code électoral, à partir de la veille du scrutin à zéro heure, il est interdit de diffuser ou de faire diffuser par tout moyen de communication au public par voie électronique tout message ayant le caractère de propagande électorale.
+
+Conformément à l'article L. 52-1 du code électoral, l'utilisation à des fins de propagande électorale de tout procédé de publicité commerciale par tous moyens de communication audiovisuelle est interdite pendant les trois mois précédant le premier jour du mois du scrutin, et aucune campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité ne peut être organisée sur le territoire des collectivités intéressées par le scrutin à compter du premier jour du sixième mois précédant celui-ci.
+
+Conformément à l'article L. 52-2 du code électoral, aucun résultat de l'élection, partiel ou définitif, ne peut être communiqué au public par tout moyen de communication au public par voie électronique avant la fermeture du dernier bureau de vote.
+
+Les services de radio et de télévision s'abstiennent de diffuser tout élément susceptible de donner des indications sur l'issue du scrutin avant la clôture du dernier bureau de vote.
+
+5.3. Sondages
+
+Conformément à l'article 11 de la loi du 19 juillet 1977 modifiée relative à la publication et à la diffusion de certains sondages d'opinion, la diffusion et le commentaire de tout sondage ayant un rapport direct ou indirect avec la consultation sont interdits par quelque moyen que ce soit la veille et le jour du scrutin.
+
+5.4. Droit de réponse
+
+Conformément à l'article 6 de la loi du 29 juillet 1982 modifiée sur la communication audiovisuelle, les services de radio et de télévision ont l'obligation, le cas échéant, de mettre en œuvre le droit de réponse.
+
+5.5. Jurisprudence du juge de l'élection
+
+Les services de télévision et de radio veillent à respecter les principes dégagés par la jurisprudence du juge de l'élection.
+
+Ils veillent en particulier à ne pas diffuser de propos diffamatoires, injurieux, mensongers ou apportant des éléments nouveaux de polémique électorale, à une date ou dans des conditions rendant une réponse impossible ou inopérante.
+
+La présente recommandation sera publiée au Journal officiel de la République française et au Journal officiel de la Nouvelle-Calédonie.
+
+Fait à Paris, le 3 novembre 2009.
+
+---
+
+Pour le Conseil supérieur de l'audiovisuel :
+
+Le président,
+
+M. Boyon
