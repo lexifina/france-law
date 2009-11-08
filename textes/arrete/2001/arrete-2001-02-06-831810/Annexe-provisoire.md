@@ -178,70 +178,6 @@ Peut provoquer une réaction allergique.
 
 |
 
-7p
-
-|
-
-4-Hydroxypropylamino-3-nitrophenol (n° CAS 92952-81-3) et ses sels.
-
-|
-
-a) Colorant d'oxydation pour la coloration des cheveux.
-
-b) Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-a) 5,2 %.
-
-b) 2,6
-
-|
-
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 2,6 %.
-
-|
-
-a) b) Peut provoquer une réaction allergique.
-
-|
-
-31 décembre 2009
-
-|
-
-9p
-
-|
-
-HC Blue No. 11 (n° CAS 23920-15-2) et ses sels.
-
-|
-
-a) Colorant d'oxydation pour la coloration des cheveux.
-
-b) Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-a) 3,0 %.
-
-b) 2,0 %
-
-|
-
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.
-
-|
-
-a) b) Peut provoquer une réaction allergique.
-
-|
-
-31 décembre 2009
-
-|
-
 10 p
 
 |
@@ -334,30 +270,6 @@ Peut provoquer une réaction allergique.
 
 |
 
-14 p
-
-|
-
-HC Violet No 2 (n° CAS 104226-19-9) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-2,0 90.
-
-|
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
 16 p
 
 |
@@ -383,34 +295,6 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 |
 
 a) b) Peut provoquer une réaction allergique.
-
-|
-
-31 décembre 2009
-
-|
-
-18 p
-
-|
-
-1,3-Bis-(2,4-diaminophenoxy) propane (n° CAS 81892-72-0) et ses sels.
-
-|
-
-Colorant d'oxydation pour la coloration des cheveux.
-
-|
-
-2,0 %.
-
-|
-
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.
-
-|
-
-Peut provoquer une réaction allergique.
 
 |
 
@@ -528,30 +412,6 @@ Peut provoquer une réaction allergique.
 
 |
 
-24 p
-
-|
-
-HC Yellow No. 10 (n° CAS 109023-83-8) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-0,2 %.
-
-|
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
 25 p
 
 |
@@ -625,30 +485,6 @@ b) 0,5 %.
 |
 
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
-28 p
-
-|
-
-3-Methylamino-4-nitrophenoxyethanol (n° CAS 59820-63-2) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-1,0 %.
-
-|
 
 |
 
@@ -948,30 +784,6 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-47 p
-
-|
-
-HC Blue No. 2 (n° CAS 33229-34-4) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-2,8 %.
-
-|
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
 48 p
 
 |
@@ -1072,13 +884,9 @@ Chloro-6-ethylamino-4-nitrophenol (n° CAS 131657-78-8) et ses sels.
 
 a) Colorant d'oxydation pour la coloration des cheveux.
 
-b) Colorant non oxydant pour la coloration des cheveux.
-
 |
 
 a) 3,0 %.
-
-b) 3,0 %.
 
 |
 
@@ -1113,30 +921,6 @@ b) 2,0 %.
 |
 
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.
-
-|
-
-|
-
-31 décembre 2009
-
-|
-
-58 p
-
-|
-
-Acid Red 33 (n° CAS 3567-66-6) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-2,0 %.
-
-|
 
 |
 
