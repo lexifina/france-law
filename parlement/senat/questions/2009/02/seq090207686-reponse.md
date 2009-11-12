@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207686
+
+- Question : [SEQ090207686](seq090207686.md) — Diminution des crédits au bénéfice des EICCF
+
+## Réponse
+
+*Travail, JO du 2009-11-12, page 2656*
+
+Le MFPF est une association qui a pour objectif d'être un lieu de parole concernant la sexualité. Le planning familial agit notamment pour informer sur la contraception, sensibiliser sur l'interruption volontaire de grossesse, promouvoir l'égalité homme-femme et, dans le même temps, lutte activement contre les violences faites aux femmes. Aussi, soucieux de témoigner toute l'importance que le Gouvernement accorde aux missions du Planning familial, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville a proposé au MFPF au cours d'un entretien le 4 février 2008 de conclure un protocole d'engagement garantissant le maintien, sur la période 2009-2011, des crédits consacrés aux actions de conseil conjugal et familial, de lutte contre les violences faites aux femmes et de prévention des risques sexuels. Dans ce cadre, le ministre de la santé et des sports et le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville ont signé, le 11 mars 2009, avec la présidente du MFPF, ce protocole qui permettra une stabilité sur trois ans des crédits consacrés aux activités fondamentales du Mouvement français pour le planning familial ainsi qu'à l'ensemble des établissement d'information, de consultation ou de conseil familial (EICCF). Concrètement, aux termes de cet accord, ce sont 3 461 800 euros que l'État y consacrera chaque année, et ce jusqu'en 2011. Dans ce cadre, le budget présenté lors de la discussion de la loi de finances pour 2009 et adopté par le Parlement est un budget sincère, pragmatique, ajusté aux réalités, qui témoigne de la volonté du Gouvernement d'optimiser nos dépenses pour pérenniser un système de protection sociale plus juste et plus équitable.
