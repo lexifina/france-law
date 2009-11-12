@@ -1,6 +1,8 @@
 # Article Annexe III
 
-LISTE DES NAVIRES RETENUS POUR BÉNÉFICIER D'UNE AIDE À LA SORTIE DE FLOTTE AU TITRE DU RÈGLEMENT (CE) N° 744/2008 DU CONSEIL
+LISTE DES NAVIRES RETENUS POUR BÉNÉFICIER D'UNE AIDE À LA SORTIE DE FLOTTE
+
+AU TITRE DU RÈGLEMENT (CE) N° 744 / 2008 DU CONSEIL
 
 NOM
 
@@ -110,62 +112,84 @@ BR
 
 |
 
-BARÈME DE CALCUL DU MONTANT DE L'AIDE
+Estran
 
-À LA CESSATION DÉFINITIVE D'ACTIVITÉ
+|
 
-Montant de l'aide = part indexée × GT + part fixe.
+AD
+
+|
+
+815 532
+
+|
+
+Baccara
+
+|
+
+BA
+
+|
+
+318 346
+
+|
+
+BARÈME DE CALCUL DU MONTANT DE L'AIDE À LA CESSATION DÉFINITIVE D'ACTIVITÉ
+
+Montant de l'aide = part indexée × GT + part fixe
 
 TONNAGE (GT UMS)
 
 |
 
-PRIME
-
-(en euros)
+PRIME (EN EUROS)
 
 |
 
-Part indexée
+|
+
+PART INDEXÉE
 
 |
 
-Part fixe
+PART FIXE
 
 |
 
-0 ¸ ¹ 5
+0< >5
 
 |
 
-0
+0 €
 
 |
 
-57 000
+57 000 €
 
 |
 
-5 ¸ ¹ 20
+5< >20
 
 |
 
-11 007
+11 007 €
 
 |
 
-1 965
+1 965 €
 
 |
 
-20 ¸ ¹ 300
+20< >300
 
 |
 
-2 930
+2 930 €
 
 |
 
-163 505
+163 505 €
 
 |
