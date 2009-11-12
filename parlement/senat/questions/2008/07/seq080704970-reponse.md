@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080704970
+
+- Question : [SEQ080704970](seq080704970.md) — Transfert des licences IV des débits de boissons
+
+## Réponse
+
+*Intérieur, JO du 2009-11-12, page 2647*
+
+La loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit a modifié les dispositions du code de la santé publique qui fixent les régimes de transferts et des zones protégées des débits de boissons à consommer sur place. Avant l'entrée en vigueur de la loi du 20 décembre 2007, les transferts de débits de boissons à consommer sur place étaient soumis à une commission départementale présidée par un magistrat du parquet désigné par le procureur général. Désormais c'est au préfet, en application du nouvel article L. 3332-11 du code de la santé publique, qu'il revient d'autoriser les transferts au sein du même département. Dans la nouvelle procédure d'autorisation de transfert, le préfet est tenu de consulter le maire où est installé le débit de boissons et le maire de la commune où il est transféré. La règle selon laquelle un débit ne peut être transféré lorsqu'il est le dernier débit de 4e catégorie d'une commune demeure en vigueur. L'article L. 3335-1 du code de la santé publique fixe le régime actuel de l'établissement par le préfet des zones protégées, en particulier, pour les établissements de santé, maisons de retraite et tous établissements publics ou privés de prévention, de cure et de soins comportant hospitalisation ainsi que les dispensaires départementaux, les stades, les piscines, les terrains de sport publics ou privés. Une circulaire du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales du 22 janvier 2009, accessible sur le site du Premier ministre, est venue donner aux préfets toutes instructions sur la mise en oeuvre des nouvelles modalités de transfert et d'établissement des zones protégées.
