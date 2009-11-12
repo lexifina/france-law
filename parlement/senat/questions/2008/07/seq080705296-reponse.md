@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705296
+
+- Question : [SEQ080705296](seq080705296.md) — CPAM de l'Aude : nombre d'agents insuffisant
+
+## Réponse
+
+*Travail, JO du 2009-11-12, page 2653*
+
+La Convention d'objectifs et de gestion (COG) entre l'État et la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS) pour la période 2006-2009 a été signée le 7 août 2006. Elle s'articule autour de trois priorités : la régulation des dépenses de santé, la consolidation de la qualité des services aux assurés et l'efficience de l'organisation de la branche maladie. Pour atteindre ces objectifs, les budgets de gestion et le niveau des effectifs de la branche maladie ont été déterminés en fonction de l'évolution de la charge de travail, notamment celle induite par la mise en oeuvre de la réforme de l'assurance maladie issue de la loi du 13 août 2004, mais aussi des gains de productivité attendus de la mutualisation de fonctions et de services entre organismes, et par la poursuite de la dématérialisation de procédures. Les moyens mis à la disposition de chaque organisme du réseau sont ensuite négociés dans le cadre de son contrat pluriannuel de gestion (CPG), sur la base d'un constat partagé de sa situation, avec la CNAMTS, compétente en matière d'organisation du réseau de l'assurance maladie et de répartition des ressources entre les caisses. C'est ainsi qu'au terme des négociations du CPG 2006-2009 avec le directeur de la Caisse primaire d'assurance maladie (CPAM) fin 2006, le taux de remplacement des départs en retraite a été établi sur la base de 60 % sachant toutefois que les directeurs de caisse ont toute compétence pour décider, à l'intérieur de l'enveloppe qui, leur est notifiée, de la répartition des effectifs entre les services, ce qui permet des redéploiements afin de consacrer une partie des moyens humains à l'amélioration de la qualité de service, et tout particulièrement envers les publics fragilisés.
