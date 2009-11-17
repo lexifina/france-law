@@ -1,11 +1,157 @@
 # Article 4 BIS
 
-Sauf accord entre le salarié et son employeur, de prorogation du contrat de travail, l'âge normal de départ à la retraite est fixé conventionnellement par la date d'ouverture des droits à taux plein pour l'obtention de la retraite sécurité sociale (1).
+Le personnel visé par la présente convention collective annexe, prenant sa retraite ou cessant son activité dans le cadre des dispositions légales ou conventionnelles, bénéficie à partir de 10 ans d'ancienneté d'une indemnité de départ à la retraite dont le montant fixé selon le tableau suivant est égal à :
 
-Dans ce cadre, le personnel visé par la présente convention collective annexe, prenant sa retraite ou cessant son activité dans le cadre des dispositions légales ou conventionnelles, bénéficie, à condition d'avoir au moins dix ans d'ancienneté, au sens de l'article 15 bis de la convention collective nationale, d'une indemnité de départ en retraite dont le montant est le suivant : un dixième de mois par année d'ancienneté (2).
+ANCIENNETÉ |
 
-Le salaire à prendre en considération pour le calcul de l'indemnité est le douzième de la rémunération des douze derniers mois, effectivement travaillés, précédant le départ en retraite ou, selon la formule la plus avantageuse pour l'intéressé, le tiers des trois derniers mois ; étant entendu que, dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel qui aurait été versée au salarié pendant cette période serait prise en compte par douzième.
+INDEMNITÉ DE DÉPART À LA RETRAITE |
+
+0 < ancienneté < 10 |
+
+― |
+
+10 < ou = ancienneté < 11 |
+
+1 mois |
+
+11 < ou = ancienneté < 12 |
+
+1, 10 mois |
+
+12 < ou = ancienneté < 13 |
+
+1, 20 mois |
+
+13 < ou = ancienneté < 14 |
+
+1, 30 mois |
+
+14 < ou = ancienneté < 15 |
+
+1, 40 mois |
+
+15 < ou = ancienneté < 16 |
+
+1, 65 mois |
+
+16 < ou = ancienneté < 17 |
+
+1, 76 mois |
+
+17 < ou = ancienneté < 18 |
+
+1, 87 mois |
+
+18 < ou = ancienneté < 19 |
+
+1, 98 mois |
+
+19 < ou = ancienneté < 20 |
+
+2, 09 mois |
+
+20 < ou = ancienneté < 21 |
+
+2, 40 mois |
+
+21 < ou = ancienneté < 22 |
+
+2, 52 mois |
+
+22 < ou = ancienneté < 23 |
+
+2, 64 mois |
+
+23 < ou = ancienneté < 24 |
+
+2, 76 mois |
+
+24 < ou = ancienneté < 25 |
+
+3, 20 mois |
+
+25 < ou = ancienneté < 26 |
+
+3, 33 mois |
+
+26 < ou = ancienneté < 27 |
+
+3, 47 mois |
+
+27 < ou = ancienneté < 28 |
+
+3, 60 mois |
+
+28 < ou = ancienneté < 29 |
+
+3, 73 mois |
+
+29 < ou = ancienneté < 30 |
+
+3, 87 mois |
+
+30 < ou = ancienneté < 31 |
+
+4 mois |
+
+31 < ou = ancienneté < 32 |
+
+4, 10 mois |
+
+32 < ou = ancienneté < 33 |
+
+4, 20 mois |
+
+33 < ou = ancienneté < 34 |
+
+4, 30 mois |
+
+34 < ou = ancienneté < 35 |
+
+4, 40 mois |
+
+35 < ou = ancienneté < 36 |
+
+4, 50 mois |
+
+36 < ou = ancienneté < 37 |
+
+4, 60 mois |
+
+37 < ou = ancienneté < 38 |
+
+4, 70 mois |
+
+38 < ou = ancienneté < 39 |
+
+4, 80 mois |
+
+39 < ou = ancienneté < 40 |
+
+4, 90 mois |
+
+40 < ou = ancienneté < 41 |
+
+5 mois |
+
+41 < ou = ancienneté < 42 |
+
+5, 10 mois |
+
+42 < ou = ancienneté < 43 |
+
+5, 20 mois |
+
+43 < ou = ancienneté |
+
++ 0, 10 mois
+
+par année d'ancienneté supplémentaire |
+
+Le salaire à prendre en considération pour le calcul de l'indemnité de départ à la retraite est selon la formule la plus avantageuse pour l'intéressé :
+
+― 1/12 de la rémunération des 12 derniers mois précédant le départ en retraite, étant entendu qu'en cas d'absence du salarié au cours de cette période, cette rémunération annuelle sera reconstituée sur la base des 3 derniers mois effectivement travaillés, dont le montant sera multiplié par 4, et tiendra compte également de toute prime ou gratification de caractère annuel ou exceptionnel versée au cours de la période ;
+
+― ou 1/3 des 3 derniers mois, étant entendu que, dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel versée au salarié pendant cette période n'est prise en compte que dans la limite d'un montant calculé à due proportion, c'est-à-dire un prorata de 3/12.
 
 Cette indemnité de départ en retraite ne se cumule pas avec toute autre indemnité de même nature.
-
-(1) Etendu sous réserve de l'application des articles L. 122-14 et suivants et L. 122-6 du code du travail (arrêté du 29 novembre 1982, art. 1er). (2) Etendu sous réserve de l'application des articles L. 122-9 et R. 122-1 du code du travail ainsi que la loi n° 78-49 du 19 janvier 1978 (art. 6 de l'accord annexé) (arrêté du 29 novembre 1982, art. 1er).
