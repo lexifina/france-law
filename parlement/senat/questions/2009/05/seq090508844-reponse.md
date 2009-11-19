@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508844
+
+- Question : [SEQ090508844](seq090508844.md) — Carte familles nombreuses et Français de l'étranger
+
+## Réponse
+
+*Famille, JO du 2009-11-19, page 2701*
+
+La carte familles nombreuses est délivrée à toutes les familles (citoyens français ou ressortissants de l'Union européenne ou étrangers en situation régulière et résidant en France) comptant au minimum 3 enfants de moins de 18 ans (enfant mineur à charge). Chaque membre de la famille, père, mère et chacun des enfants, est titulaire d'une carte qui lui est personnelle sur présentation des justificatifs suivants, selon le cas : pour les citoyens de nationalité française sur présentation d'un justificatif de nationalité française ou de l'ampliation du décret de naturalisation ; pour les ressortissants d'un pays de l'Union européenne ou de l'Association européenne de libre échange, habitant en France ou travaillant en France, sur présentation d'un justificatif de nationalité, d'un justificatif de domicile et de résidence en France ou d'un justificatif de l'activité en France ; pour les ressortissants d'un pays hors Union européenne ou de l'Association européenne de libre échange, habitant en France ou travaillant en France, sur présentation d'un justificatif de nationalité, d'un justificatif de domicile et de résidence en France ou d'un justificatif de l'activité en France. Enfin, dans tous les cas, il faut justifier de la composition de la famille : situation de couple, liens de filiation et charge des enfants. Concernant plus particulièrement les Français établis hors de France, ils peuvent continuer à bénéficier de la carte famille nombreuse même si seuls les membres de la famille justifiant de la nationalité française peuvent bénéficier du tarif famille nombreuse.
