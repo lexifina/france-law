@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404161
+
+- Question : [SEQ080404161](seq080404161.md) — Renouvellement de bail avec hausse de loyer : respect des procédures d'information des locataires
+
+## Réponse
+
+*Logement, JO du 2009-11-19, page 2703*
+
+Conformément aux articles L. 353-2 et R. 353-92 du code de la construction et de l'habitation (CCH), la durée initiale des conventions ouvrant droit à l'aide personnalisée au logement (APL) ne peut être inférieure à la durée la plus longue des prêts ayant servi au financement de l'opération ou du logement concerné. Ces conventions sont ensuite renouvelées par tacite reconduction par période triennale, prenant effet à compter de leur date d'expiration. Si le bailleur social décide de résilier une convention, il doit en informer le locataire six mois avant la date d'expiration de la convention initiale ou renouvelée. Le patrimoine concerné se retrouve alors soumis, dès la fin de la convention, à la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs. Dans ce cadre, si le bailleur estime que le prix du loyer est « manifestement sous-évalué », il a la possibilité de proposer à son locataire, au moins six mois avant l'échéance du bail et dans les conditions de forme prévues en cas de congé, c'est-à-dire par lettre recommandée avec avis de réception ou par acte d'huissier, un nouveau loyer fixé par référence aux loyers habituellement constatés dans le voisinage pour des logements comparables. Cette proposition doit comporter, à peine de nullité, la reproduction de l'article 17 c, de la loi du 6 juillet 1989, qui décrit les conditions dans lesquelles le renouvellement du contrat donne lieu à réévaluation, ainsi que le montant du loyer demandé et la liste des loyers de référence ayant servi à le déterminer. Ces dispositions d'ordre public sont destinées à laisser au locataire le temps de la réflexion et à lui rappeler ses droits et recours face à une telle proposition.
