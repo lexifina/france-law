@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 1. 1. Définition du cadre des métiers de la promotion
 
@@ -20,7 +20,7 @@ Pour remplir leur mission telle que définie par l'entreprise, les salariés exe
 
 1. 2. Dispositions propres aux visiteurs médicaux
 
-Dans le cadre des métiers de la promotion, est considéré comme exerçant un métier de visiteur médical tout salarié dont les fonctions comportent, de façon exclusive et en dehors de toute activité commerciale, conformément aux directives de l'entreprise dont il dépend, la présentation ou le rappel d'une ou de plusieurs spécialités pharmaceutiques et l'environnement s'y rattachant afin d'en permettre la meilleure connaissance et une meilleure utilisation par les membres du corps médical.
+Dans le cadre des métiers de la promotion, est considéré comme exerçant un métier de visiteur médical tout salarié dont les fonctions comportent, de façon exclusive et en dehors de toute activité commerciale (1), conformément aux directives de l'entreprise dont il dépend, la présentation ou le rappel d'une ou de plusieurs spécialités pharmaceutiques et l'environnement s'y rattachant afin d'en permettre la meilleure connaissance et une meilleure utilisation par les membres du corps médical.
 
 La fonction du visiteur médical consiste, à titre principal, à visiter les médecins sur leur lieu d'exercice. Si l'entreprise le demande, elle consiste également à visiter tout membre du corps médical des services d'hospitalisation, de soins et de prévention, les sages-femmes, les infirmières, les chirurgiens-dentistes, les pharmaciens d'officine...
 
@@ -71,3 +71,5 @@ Lorsque la mobilité géographique est à l'initiative de l'employeur, l'entrepr
 1. 6. Exclusion des dispositions applicables aux VRP
 
 Quelles que soient les conditions consenties aux salariés exerçant un métier de la promotion, il est formellement précisé et reconnu que les dispositions des articles L. 7311-1 et suivants du code du travail sur les voyageurs, représentants et placiers (VRP) ne leur sont pas applicables, et en particulier celles ayant trait à l'indemnité de clientèle.
+
+(1) Il est précisé que l'activité commerciale figurant dans le 1er paragraphe du 1. 2 "Dispositions propres aux visiteurs médicaux" comprend notamment la prise de commande auprès des pharmacies d'officine.
