@@ -1,10 +1,8 @@
 # Article Annexe 3
 
-Montant des indemnités compensatoires de contraintes environnementales à taux plein pour :
+MONTANT À TAUX PLEIN DE L'INDEMNITÉ COMPENSATOIRE DE CONTRAINTES ENVIRONNEMENTALES
 
-- les agriculteurs engagés en 2007 dans une des mesures agro-environnementales mentionnées à l'article 7 et bénéficiaires de cette indemnité dès 2008, pour la part des surfaces engagée dans une de ces mesures située dans une des zones définies à l'article 1er du décret n° 2007-1281 ;
-
-- les jeunes agriculteurs mentionnés à l'article 8.
+Le montant suivant s'applique dans la limite du nombre de droits historiques à taux plein de l'exploitation :
 
 INDEMNITÉ
 
@@ -18,7 +16,9 @@ de la composante
 
 liée à la gestion
 
-des effluents |
+des effluents
+
+|
 
 MONTANT ANNUEL DE L'ICCE
 
@@ -50,7 +50,7 @@ MONTANT ANNUEL DE L'ICCE
 
 |
 
-ICCE 140 porcs dominant.
+ICCE 140 porcs ou assimilé dominant
 
 |
 
@@ -156,7 +156,7 @@ Niveau 3
 
 |
 
-ICCE 140 volailles de ponte dominant.
+ICCE 140 volailles de ponte ou assimilé dominant
 
 |
 
@@ -262,7 +262,7 @@ Niveau 3
 
 |
 
-ICCE 140 volailles de chair dominant.
+ICCE 140 volailles de chair ou assimilé dominant
 
 |
 
@@ -368,7 +368,7 @@ Niveau 3
 
 |
 
-ICCE 160 bovins dominant.
+ICCE 160 bovins dominant
 
 |
 
@@ -474,7 +474,7 @@ Niveau 3
 
 |
 
-ICCE 170 légumes.
+ICCE 170 légumes
 
 |
 
@@ -500,7 +500,33 @@ ICCE 170 légumes.
 
 |
 
-ICCE 140 porcs dominant.
+ICCE 170 légumes bénéficiant de la mention "agriculture biologique"
+
+|
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+ICCE 140 porcs ou assimilé dominant
 
 |
 
@@ -528,7 +554,7 @@ Niveau 0
 
 |
 
-Production végétale bénéficiant de la mention "agriculture biologique".
+Production végétale bénéficiant de la mention "agriculture biologique"
 
 |
 
@@ -608,7 +634,7 @@ Niveau 3
 
 |
 
-ICCE 140 volailles de ponte dominant.
+ICCE 140 volailles de ponte ou assimilé dominant
 
 |
 
@@ -636,7 +662,7 @@ Niveau 0
 
 |
 
-Production végétale bénéficiant de la mention "agriculture biologique".
+Production végétale bénéficiant de la mention "agriculture biologique"
 
 |
 
@@ -716,7 +742,7 @@ Niveau 3
 
 |
 
-ICCE 140 volailles de chair dominant.
+ICCE 140 volailles de chair ou assimilé dominant
 
 |
 
@@ -744,7 +770,7 @@ Niveau 0
 
 |
 
-Production végétale bénéficiant de la mention "agriculture biologique".
+Production végétale bénéficiant de la mention "agriculture biologique"
 
 |
 
@@ -824,7 +850,7 @@ Niveau 3
 
 |
 
-ICCE 160 bovins dominant.
+ICCE 160 bovins dominant
 
 |
 
@@ -852,7 +878,7 @@ Niveau 0
 
 |
 
-Production végétale bénéficiant de la mention "agriculture biologique".
+Production végétale bénéficiant de la mention "agriculture biologique"
 
 |
 
