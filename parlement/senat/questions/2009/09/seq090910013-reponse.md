@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910013
+
+- Question : [SEQ090910013](seq090910013.md) — Mise à 2 x 2 voies de la RN 4 entre Héming et Blâmont
+
+## Réponse
+
+*Écologie, JO du 2009-11-19, page 2693*
+
+L'aménagement du réseau routier national non concédé s'inscrit désormais dans le cadre des programmes de modernisation d'itinéraires (PDMI), qui succèdent aux volets routiers des contrats de plan État-régions. Les PDMI ont ainsi fait l'objet d'une circulaire adressée aux préfets de région, le 7 octobre 2008. Ceux-ci ont été chargés d'établir une liste hiérarchisée des opérations susceptibles de faire l'objet d'un engagement certain de travaux durant la période 2009-2014. Après un examen national de l'ensemble des propositions, la liste des opérations prioritaires retenues par région a été notifiée aux préfets de région, le 13 mai dernier, ainsi que l'enveloppe budgétaire pluriannuelle correspondante. Les préfets ont alors été mandatés pour engager les négociations conclusives avec les collectivités territoriales. À la suite de cette phase de concertation, le ministre d'État, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, et le secrétaire d'État chargé des transports ont notifié au préfet de la région Lorraine le programme de modernisation des itinéraires du réseau routier national validé pour la période 2009-2014, en lui demandant d'engager la signature des conventions de cofinancement, par opération, avec les collectivités territoriales concernées. Dans ce cadre, un effort complémentaire a été réalisé, en augmentant la participation de l'État au PDMI de 10 M€ afin de permettre le financement de l'aménagement de la route nationale 4, entre Héming et Saint-Georges, sous réserve d'une participation financière des collectivités locales concernées. Il a donc été demandé au préfet de région de poursuivre les négociations en ce sens.
