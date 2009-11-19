@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010420
+
+- Question : [SEQ091010420](seq091010420.md) — Passation d'un marché sans publicité ni mise en concurrence lorsque les circonstances le justifient
+
+## Réponse
+
+*Économie, JO du 2009-11-19, page 2699*
+
+Si le montant du seuil a été relevé à 20 000 € par le décret n° 2008-1355 du 19 décembre 2008 de mise en oeuvre du plan de relance économique dans les marchés, la référence aux circonstances particulières a été maintenue sans changement à l'article 28 du code des marchés publics relatif aux modalités de passation des marchés en procédure adaptée. Il donne donc la possibilité au pouvoir adjudicateur de ne procéder à aucune publicité ni mise en concurrence préalable à la conclusion d'un marché, si les circonstances le justifient. Toutefois, l'article 28 précise que la dispense est appréciée par le pouvoir adjudicateur en fonction de la nature et des caractéristiques du besoin à satisfaire, du nombre et de la localisation des opérateurs économiques susceptibles d'y répondre, ainsi que des circonstances de l'achat. Eu égard à cette appréciation des faits de l'espèce à laquelle le pouvoir adjudicateur doit se livrer, aucun exemple générique ne peut être donné. Tout au plus, il est cité le cas du degré d'urgence ne permettant pas d'organiser la consultation de plusieurs prestataires, ou celui de l'existence d'un seul prestataire susceptible d'effectuer la prestation. Le code des marchés publics ne prévoit aucune formalité particulière à satisfaire afin de justifier le bien-fondé du recours à un marché sans publicité ni mise en concurrence préalable. En conséquence, l'acheteur public devra conserver tous les éléments de nature à établir les faits qui l'ont conduit à recourir à cette procédure dérogatoire, afin de justifier le bien-fondé de son appréciation en cas de contestation de la régularité de la procédure.
