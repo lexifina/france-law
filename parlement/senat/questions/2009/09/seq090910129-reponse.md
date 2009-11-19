@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910129
+
+- Question : [SEQ090910129](seq090910129.md) — Microcrédit
+
+## Réponse
+
+*Économie, JO du 2009-11-19, page 2698*
+
+Le projet de loi portant réforme du crédit à la consommation a été amendé lors de son examen en première lecture au Sénat. Les sénateurs ont amendé ce projet, en ajoutant une disposition qui vise à consolider le fonds de cohésion sociale créé en 2005. Ce mécanisme permet de garantir des prêts à finalité sociale ayant pour objectif principal l'insertion professionnelle des emprunteurs. Le fonds de cohésion sociale est géré par la Caisse des dépôts et consignations pour le compte de l'État, qui en assure l'essentiel du financement. Les dispositions du projet de loi doivent être complétées à l'occasion de l'examen du texte à l'Assemblée nationale, pour tenir compte en particulier de la diversité des interventions du fonds. Le Gouvernement partage le souci de faciliter l'accès au crédit à un coût maîtrisé. Le microcrédit a un rôle à jouer dans ce domaine. L'amélioration de l'accès au crédit au bénéfice du plus grand nombre suppose toutefois de créer les conditions permettant le partage des coûts économiques et de gestion entre les opérateurs et l'emprunteur. S'agissant du microcrédit, ces coûts comprennent également les coûts d'accompagnement. Des dispositifs variés pour partager ces coûts existent aujourd'hui. Ils associent les prêteurs, mais aussi des acteurs comme les collectivités territoriales et les associations, selon des schémas variés et innovants. Dans ce contexte, le plafonnement des taux d'intérêt à des niveaux inappropriés peut être une cause d'exclusion du crédit, car limitant les possibilités de partage des coûts. Les taux d'usure - qui visent à interdire les taux abusifs - sont en revanche applicables aux microcrédits comme à tous les types de crédits.
