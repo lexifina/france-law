@@ -124,7 +124,7 @@ Chef de programme systèmes de management intégrés SMI.
 
 |
 
-DO / EC
+DO/EC
 
 |
 
@@ -153,6 +153,68 @@ Lyon
 Secrétaire service exploitation.
 
 |
+
+1
+
+|
+
+SEFA
+
+(service d'exploitation
+
+de la formation aéronautique)
+
+|
+
+Echelon de direction
+
+|
+
+Castelnaudary |
+
+Ouvrier d'Etat "technicien cellule et moteur aéronef". |
+
+1
+
+|
+
+|
+
+Département technique (T)
+
+|
+
+|
+
+Ouvrier d'Etat "technicien avionique". |
+
+1
+
+|
+
+|
+
+Centre de formation |
+
+Montpellier
+
+|
+
+Ouvrier d'Etat "technicien cellule et moteur aéronef". |
+
+1
+
+|
+
+|
+
+|
+
+Saint-Yan
+
+|
+
+Ouvrier d'Etat "technicien cellule et moteur aéronef". |
 
 1
 
