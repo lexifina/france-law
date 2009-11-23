@@ -1,0 +1,9 @@
+# Paris : acte V103 M — Voeu relatif à la création d'un fonds de garantie pour optimiser le rachat de crédits par le Crédit Municipal. (MRC)
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2009-11-23
+- Nature : VNR
+- Objet : Voeu relatif à la création d'un fonds de garantie pour optimiser le rachat de crédits par le Crédit Municipal. (MRC)
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
