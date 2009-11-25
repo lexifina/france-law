@@ -102,8 +102,6 @@ h) Ont fait l'objet, dans les 10 jours précédant l'expédition, d'un test de d
 
 - Salmonella arizonœ et Mycoplasme gallisepticum pour les dindes ;
 
-- Influenza aviaire pour toutes les espèces ;
-
 i) Ont été soumis à au moins un traitement contre les parasites internes et externes le ................................................. au cours des 40 jours précédant l'exportation avec le(s) produit(s) suivant(s) : ..................................................................
 
 Préciser les molécules actives et les doses de produit utilisées : ..............................;
