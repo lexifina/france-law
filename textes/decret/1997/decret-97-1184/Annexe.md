@@ -78,7 +78,7 @@ Article R. 1132-18
 
 |
 
-Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispositions du titre II de la loi n° 98-147 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
+Code de la défense
 
 1
 
@@ -88,7 +88,7 @@ Décisions désignant l'installation fabriquant à des fins médicales, pharmace
 
 |
 
-Article 2
+Article R. 2342-3
 
 |
 
@@ -100,7 +100,7 @@ Décisions portant désignation et autorisation d'une installation pouvant fabri
 
 |
 
-Article 2
+Article R. 2342-3
 
 |
 
@@ -112,7 +112,7 @@ Décisions relatives aux agréments préalables à l'exportation pour la présen
 
 |
 
-Article 17, II
+Article R. 2342-19
 
 |
 
@@ -124,7 +124,7 @@ Décisions d'autorisation d'exportation de produits chimiques inscrits au tablea
 
 |
 
-Article 17, II
+Article R. 2342-19
 
 |
 
@@ -138,7 +138,7 @@ Délivrance du certificat attestant qu'un produit ou un système satisfait aux c
 
 |
 
--premier alinéa de l'article 8
+- premier alinéa de l'article 8
 
 |
 
@@ -150,7 +150,7 @@ Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité
 
 |
 
--premier alinéa de l'article 12 et deuxième alinéa de l'article 14
+- premier alinéa de l'article 12 et deuxième alinéa de l'article 14
 
 |
 
