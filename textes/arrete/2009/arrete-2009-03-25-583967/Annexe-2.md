@@ -868,7 +868,7 @@ UNSA-SPJJ
 
 |
 
-Ille-et-Vilaine
+Ille-et-Vilaine - Côtes-d'Armor
 
 |
 
@@ -876,11 +876,11 @@ CGT-PJJ
 
 |
 
-3
+2
 
 |
 
-3
+2
 
 |
 
@@ -890,11 +890,11 @@ SNPES-PJJ/FSU
 
 |
 
-2
+3
 
 |
 
-2
+3
 
 |
 
@@ -1962,7 +1962,21 @@ UNSA-SPJJ
 
 |
 
-Sarthe
+Sarthe - Mayenne
+
+|
+
+CGT-PJJ
+
+|
+
+1
+
+|
+
+1
+
+|
 
 |
 
