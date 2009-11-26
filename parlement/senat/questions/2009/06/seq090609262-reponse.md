@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609262
+
+- Question : [SEQ090609262](seq090609262.md) — Grenelle de la mer : mise en oeuvre du plan de réduction des macrodéchets dans les milieux aquatiques
+
+## Réponse
+
+*Écologie, JO du 2009-11-26, page 2750*
+
+La gestion des déchets flottants a été abordée par le comité opérationnel sur les déchets du Grenelle de l'environnement. Cette réflexion s'est poursuivie de décembre 2008 à mai 2009 dans le cadre d'un groupe de travail spécifique. Les travaux de ce groupe de travail, auxquels ont participé les services du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, ont abouti à la rédaction d'un plan de réduction et de gestion des macro-déchets flottants. Le Grenelle de la mer, notamment à travers l'engagement 67, a soutenu la mise en oeuvre des recommandations du plan. Ces recommandations visent notamment à développer la connaissance des flux de déchets flottants afin d'envisager, à terme, les solutions les plus pertinentes pour en améliorer la gestion. En effet, les déchets flottants sont de natures, de tailles et d'origines très diverses et requièrent donc des modalités techniques de gestion différentes. Au-delà des questions de connaissance de ces déchets, celle du mode de financement de leur prise en charge a également été soulignée. Si la loi confère actuellement aux communes un statut de détenteur de ces déchets, les travaux à venir dans le cadre d'un groupe de travail ad hoc aideront à organiser, par des outils économiques adaptés, le traitement de ces déchets dans une logique de solidarité amont-aval. L'accompagnement de ces mesures permettra, dans un second temps, de définir les évolutions juridiques et les soutiens financiers nécessaires pour parvenir à une solution durable à ce problème.
