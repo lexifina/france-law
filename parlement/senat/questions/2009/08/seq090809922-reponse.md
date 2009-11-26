@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809922
+
+- Question : [SEQ090809922](seq090809922.md) — Schéma national des infrastructures de transport
+
+## Réponse
+
+*Écologie, JO du 2009-11-26, page 2752*
+
+La réalisation d'un schéma national des infrastructures de transport figure explicitement aux articles 16 et 17 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en oeuvre du Grenelle de l'environnement. Ce schéma concerne à la fois les aspects développement, modernisation et entretien des réseaux d'infrastructures de l'État mais aussi la réduction des impacts de ces réseaux sur l'environnement. Il doit aussi préciser la façon dont l'État entend soutenir les collectivités territoriales dans le développement de leurs propres réseaux. La loi précise que le schéma constitue une révision des conclusions du comité interministériel pour l'aménagement et le développement des territoires (CIADT) de décembre 2003 et qu'il est élaboré, en 2009, en concertation avec les parties prenantes du Grenelle. Les travaux d'élaboration du schéma sont aujourd'hui bien engagés. Notamment, les travaux d'analyses des grands projets à prendre en considération dans la démarche de revue sont engagés et les contours de ce que pourrait être ce futur schéma prennent progressivement forme. Toutefois, dans la phase de chantier dans laquelle se trouve aujourd'hui le projet, phase dans laquelle réflexions, analyses et arbitrages sont à un stade encore insuffisamment abouti, il existe encore trop d'incertitudes pour donner un calendrier précis des étapes de discussion et de validation avec les partenaires. Il est évidemment prévu de consulter le Parlement ainsi que les collectivités territoriales concernées, et plus particulièrement les régions, par l'intermédiaire des préfets. Un calendrier sera établi et les modalités de consultations arrêtées très prochainement.
