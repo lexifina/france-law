@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709503
+
+- Question : [SEQ090709503](seq090709503.md) — Adaptation nationale des transmissions aux risques et aux secours pour le département de la Haute-Saône
+
+## Réponse
+
+*Intérieur, JO du 2009-11-26, page 2756*
+
+Il convient de souligner qu'il appartient à la commission zonale, en application de l'article L. 1424-36-1 du code général des collectivités territoriales, de répartir l'enveloppe attribuée à la zone en fonction des critères qu'elle définit. Ainsi, il ressort du compte rendu de la commission zonale du 29 mai 2009 que les élus ont décidé d'attribuer en priorité les subventions du fonds d'aide à l'investissement (FAI) aux seules priorités 1 définies par les services départementaux d'incendie et de secours (SDIS) sur leurs équipements et matériels liés à la migration sur le réseau d'adaptation nationale des transmissions aux risques et aux secours (ANTARES). Or, il apparaît que le SDIS de la Haute Saône avait défini ces équipements en priorité 2. Par ailleurs, par courrier du 24 mars 2009, le SDIS de la Haute-Saône a fait savoir à la direction de la sécurité civile que le projet d'extension de l'infrastructure nationale partagée des télécommunications (INPT) pour l'ouverture du réseau ANTARES dans son département ne correspondait pas totalement au niveau de couverture qu'il souhaitait, puisqu'il proposait une couverture à 93 % de ce territoire. Dès lors, un nouveau projet technique a été demandé à la direction des systèmes d'information et de communication du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales. Aussitôt que ce projet, actuellement en cours d'étude, sera finalisé, les informations seront transmises au SDIS de la Haute-Saône. La question de l'attribution d'une nouvelle subvention au titre du préciput national du FAI pourra alors faire l'objet d'un examen.
