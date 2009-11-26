@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090608964
+
+- Question : [SEQ090608964](seq090608964.md) — Recherche d'amiante dans les habitations destinées à la location saisonnière
+
+## Réponse
+
+*Écologie, JO du 2009-11-26, page 2749*
+
+En raison du risque lié à l'inhalation des fibres d'amiante contenues dans certains matériaux et produits de construction, le Gouvernement a mis en place, à partir de 1996, un dispositif réglementaire destiné à protéger la population exposée dans les immeubles bâtis. Le décret n° 2001-840 du 13 septembre 2001 modifiant le décret 96-97 du 7 février 1996 a notamment introduit l'obligation, pour les propriétaires de tous les immeubles bâtis dont le permis de construire a été délivré avant le 1er juillet 1997, à l'exception des maisons individuelles et des parties privatives des immeubles collectifs d'habitation, de constituer et tenir à jour un dossier technique amiante (DTA) établi sur la base d'un repérage « étendu » des matériaux et produits contenant de l'amiante dont la liste est définie en annexe du décret. Le DTA doit être tenu à la disposition des occupants et de toute personne appelée à effectuer des travaux dans l'immeuble bâti. Les locations saisonnières considérées comme établissements recevant du public (ERP) doivent donc faire l'objet d'un DTA portant sur toutes les parties du bâtiment. Pour le cas le plus courant des locations saisonnières considérées comme immeubles collectifs d'habitation, le DTA ne porte que sur les parties à usage commun. Les parties privatives doivent, quant à elles, faire l'objet d'un dossier technique regroupant les informations relatives à la recherche de flocages, calorifugeages et faux plafonds contenant de l'amiante, ainsi qu'à l'évaluation de leur état de conservation. Ce dossier technique doit être tenu à la disposition des occupants. Toutefois, les propriétaires bailleurs n'ont pas obligation de fournir, lors de la signature d'un contrat de location, un diagnostic amiante du logement.
