@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080404061
+
+- Question : [SEQ080404061](seq080404061.md) — Maintien et fonctionnement des sous-préfectures de Boulay et Château-Salins (Moselle)
+
+## Réponse
+
+*Intérieur, JO du 2009-11-26, page 2755*
+
+Le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales a clairement affirmé son attachement au maintien du réseau des sous-préfectures, qui assure la première présence de proximité de l'État sur le territoire, et en particulier dans les secteurs fragiles. Il ne s'agit donc pas de remettre en cause l'existence des sous-préfectures, mais de faire évoluer les modalités de représentation de l'État et de moderniser l'exercice de ses missions, en tenant compte des réalités locales. Parmi les pistes d'évolution possibles dans ce contexte figure la possibilité de nommer un conseiller d'administration, cadre supérieur de l'administration des préfectures, dans certains arrondissements. Ce dispositif s'inscrit dans la continuité de celui des directeurs des services du cabinet en vigueur depuis 1992, par lequel des attachés principaux et des directeurs de préfecture exercent dans près de 20 départements, les responsabilités de directeur de service du cabinet dans les mêmes conditions que les sous-préfets directeurs de cabinet. Un arrêté du 20 mai 2008 a établi une liste de 115 arrondissements parmi lesquels pourraient être nommés des conseillers d'administration. Au sein de cette liste, seuls quinze conseillers d'administration, au maximum, peuvent être nommés. Pour l'heure, seuls trois arrondissements sont concernés par cette mesure, parrni lesquels celui de Boulay-Moselle. S'agissant de l'arrondissement de Château-Salins, il n'a pas été envisagé d'y modifier les modalités de la représentation de l'État. Ainsi, un sous-préfet a été nommé en septembre 2008.
