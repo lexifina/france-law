@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709379
+
+- Question : [SEQ090709379](seq090709379.md) — Financement des services départementaux d'incendie et de secours et recensement de la population
+
+## Réponse
+
+*Intérieur, JO du 2009-11-26, page 2756*
+
+L'article 116 de la loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008, a maintenu les contingents communaux aux services départementaux d'incendie et de secours (SDIS), en conservant également le plafonnement de ces contingents et leur seule évolution en fonction de l'indice des prix à la consommation. Ainsi, l'article L. 1424-35 du code général des collectivités territoriales précise, dans son 7e alinéa, que le montant global des contributions des communes et des établissements publics de coopération intercommunale (EPCI) aux SDIS ne pourra excéder le montant atteint à l'exercice précédent augmenté de l'indice des prix à la consommation. Cet article ne précise pas le type d'indice à prendre. Dès lors, en l'absence d'une disposition législative précise, il appartient aux conseils d'administration des SDIS de décider, en application du 2e alinéa de l'article L. 1424-35 précité, de l'évolution des contributions des communes et du choix et de la nature de l'indice à prendre en compte en vue de ce calcul. Dans ces conditions, les SDIS disposent de la possibilité d'appliquer, lors de l'élaboration du budget, soit le taux de variation de l'indice des prix au cours des 12 derniers mois, soit d'utiliser le taux prévisionnel d'évolution de la moyenne annuelle des prix à la consommation des ménages (hors tabac) associé au projet de la loi de finances. À cet égard, il est possible d'indiquer que les hypothèses envisagées dans le cadre de la préparation du projet de loi de finances pour 2010 retiennent actuellement un taux d'évolution de la moyenne annuelle sus mentionnée de 1,2 %.
