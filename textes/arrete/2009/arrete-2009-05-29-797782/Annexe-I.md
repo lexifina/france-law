@@ -212,7 +212,7 @@ Les véhicules transportant des marchandises de la classe 1 autres que celles cl
 
 Les véhicules transportant des marchandises de la classe 1 autres que celles classées en division 1. 4, ou plus de 3 000 kg de marchandises de la division 1. 4, ou des matières dangereuses en citernes d'une capacité totale de plus de 3 000 litres doivent stationner à plus de 50 m de toute habitation ou de tout établissement recevant du public ; en outre, en agglomération, le stationnement ne peut être effectué que dans un dépôt soumis à la réglementation des installations classées ou dans un parc surveillé.
 
-Une distance d'au moins 50 m doit être maintenue entre les véhicules transportant des matières ou objets de la classe 1 munis des plaques-étiquettes des modèles n°s 1 ou 1. 5.
+Une distance d'au moins 50 m doit être maintenue entre les véhicules transportant des matières ou objets de la classe 1 munis des plaques-étiquettes des modèles n° s 1 ou 1. 5.
 
 Les véhicules-citernes, les véhicules-batteries et les véhicules portant des citernes démontables, des conteneurs-citernes, des citernes mobiles ou des conteneurs à gaz à éléments multiples, lorsqu'ils sont munis de plaques-étiquettes des modèles n os 2. 1 ou 3, ne doivent pas stationner à moins de 10 m d'un autre véhicule du même type portant une plaque-étiquette des modèles n os 2. 1, 2. 3, 3 ou 6. 1 ou d'un autre véhicule muni d'une plaque-étiquette des modèles n os 1 ou 1. 5, et réciproquement.
 
@@ -254,7 +254,11 @@ b) L'expéditeur.
 
 2. 4. 1. Agent agréé de convoyage pour le transport de marchandises de la classe 1.
 
-Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositions du décret n° 81-972 du 21 octobre 1981 modifié relatif au marquage, à l'acquisition, à la livraison, à la détention, au transport et à l'emploi des produits explosifs, les transports de marchandises de la classe 1 dans des unités de transport EX / III en quantités supérieures aux limites fixées dans le tableau du 7. 5. 5. 2. 1 pour les unités de transport EX / II ne peuvent se faire qu'avec la présence à bord d'un agent agréé de convoyage en plus du conducteur.
+Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositions des articles R. 2352-1, R. 2352-22,
+
+R. 2352-47,
+
+R. 2352-73 et suivants et R. 2353-2 du code de la défense, les transports de marchandises de la classe 1 dans des unités de transport EX / III en quantités supérieures aux limites fixées dans le tableau du 7. 5. 5. 2. 1 pour les unités de transport EX / II ne peuvent se faire qu'avec la présence à bord d'un agent agréé de convoyage en plus du conducteur.
 
 Sont reconnues pour exercer cette fonction :
 
