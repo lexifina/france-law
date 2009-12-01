@@ -1,6 +1,8 @@
 # Article Annexe I à l'article R123-1
 
-CATÉGORIES D'AMÉNAGEMENTS ouvrages ou travaux soumis à enquête publique régie par les articles L. 123-1 et suivants
+CATÉGORIES D'AMÉNAGEMENTS
+
+ouvrages ou travaux soumis à enquête publique régie par les articles L. 123-1 et suivants
 
 |
 
@@ -8,7 +10,7 @@ SEUILS ET CRITÈRES
 
 |
 
-1o Aménagements fonciers agricoles et forestiers
+1° Aménagements fonciers agricoles et forestiers
 
 |
 
@@ -16,19 +18,21 @@ Toutes opérations quel que soit leur montant
 
 |
 
-2o Supprimé
+2° Travaux d'installation d'ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol
+
+|
+
+Travaux d'installation d'ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est supérieure à deux cent cinquante kilowatts
+
+|
+
+3° Supprimé
 
 |
 
 |
 
-3o Supprimé
-
-|
-
-|
-
-4o Défrichements mentionnés aux articles L. 311-1 (bois des particuliers) et L. 312-1 (bois des collectivités et de certaines personnes morales) du code forestier.
+4° Défrichements mentionnés aux articles L. 311-1 (bois des particuliers) et L. 312-1 (bois des collectivités et de certaines personnes morales) du code forestier.
 
 |
 
@@ -36,9 +40,7 @@ Défrichements d'un seul tenant soumis à autorisation et portant sur une superf
 
 |
 
-5o Travaux d'hydraulique agricole mentionnés du 2o au 7o de l'article
-
-L. 151-36 du code rural.
+5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article L. 151-36 du code rural.
 
 |
 
@@ -46,75 +48,47 @@ Travaux d'un montant au moins égal à 1 900 000 €, ce seuil étant abaissé �
 
 |
 
-|
-
 a) 950 000 euros lorsque ces travaux sont entrepris en tout ou partie :
 
 |
 
-|
-
--dans les zones de montagne visées aux articles 3 et 4 de la loi n o 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne ;
+-dans les zones de montagne visées aux articles 3 et 4 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne ;
 
 |
 
-|
-
--dans la bande littorale mentionnée au III de l'article
-
-L. 146-4 du code de l'urbanisme ;
+-dans la bande littorale mentionnée au III de l'article L. 146-4 du code de l'urbanisme ;
 
 |
 
-|
-
--dans les coeurs de parcs nationaux et le territoire des communes ayant vocation à adhérer à la charte du parc, délimités en application de l'article
-
-L. 331-2 ;
+-dans les cœurs de parcs nationaux et le territoire des communes ayant vocation à adhérer à la charte du parc, délimités en application de l'article L. 331-2 ;
 
 |
 
-|
-
--dans les réserves naturelles classées en application de l'article
-
-L. 332-2 ;
+-dans les réserves naturelles classées en application de l'article L. 332-2 ;
 
 |
 
-|
-
--à l'intérieur des limites d'un parc naturel régional telles que fixées en application de l'article
-
-L. 333-1 ;
+-à l'intérieur des limites d'un parc naturel régional telles que fixées en application de l'article L. 333-1 ;
 
 |
 
-|
-
--à l'intérieur des limites d'un parc naturel marin telles que fixées en application de l'article
-
-L. 334-3 ;
+-à l'intérieur des limites d'un parc naturel marin telles que fixées en application de l'article L. 334-3 ;
 
 |
 
-|
-
-b) 160 000 euros lorsque ces travaux sont entrepris en tout ou partie dans les espaces et milieux mentionnés au 1 er alinéa de l'article
-
-L. 146-6 du code de l'urbanisme.
+b) 160 000 euros lorsque ces travaux sont entrepris en tout ou partie dans les espaces et milieux mentionnés au 1er alinéa de l'article L. 146-6 du code de l'urbanisme.
 
 |
 
-6o Travaux de défense contre les eaux.
+6° Travaux de défense contre les eaux.
 
 |
 
-Sous réserve des dispositions du 5 o et du 16 o de la présente annexe, tous travaux d'un montant supérieur à 1 900 000 euros.
+Sous réserve des dispositions du 5° et du 16° de la présente annexe, tous travaux d'un montant supérieur à 1 900 000 euros.
 
 |
 
-7o Travaux d'installation des ouvrages utilisant l'énergie hydraulique.
+7° Travaux d'installation des ouvrages utilisant l'énergie hydraulique.
 
 |
 
@@ -122,7 +96,7 @@ Travaux d'installation des ouvrages de production d'énergie hydraulique dont la
 
 |
 
-8o Voirie routière.
+8° Voirie routière.
 
 |
 
@@ -130,7 +104,7 @@ Travaux d'investissement routier d'un montant supérieur à 1 900 000 euros cond
 
 |
 
-9o Voies ferrées.
+9° Voies ferrées.
 
 |
 
@@ -138,11 +112,7 @@ Travaux d'investissement routier d'un montant supérieur à 1 900 000 euros cond
 
 |
 
-|
-
 -Travaux d'un montant supérieur à 1 900 000 euros portant sur la création d'une gare de voyageurs, de marchandises ou de transit ou sur l'extension de son emprise.
-
-|
 
 |
 
@@ -150,7 +120,7 @@ Travaux d'investissement routier d'un montant supérieur à 1 900 000 euros cond
 
 |
 
-10o Remontées mécaniques.
+10° Remontées mécaniques.
 
 |
 
@@ -158,7 +128,7 @@ Construction de remontées mécaniques dont le coût est supérieur à 950 000 e
 
 |
 
-11o Aérodromes.
+11° Aérodromes.
 
 |
 
@@ -166,11 +136,7 @@ Construction de remontées mécaniques dont le coût est supérieur à 950 000 e
 
 |
 
-|
-
 -Réalisation d'une nouvelle piste à l'intérieur d'un aérodrome dont la réalisation est soumise à enquête en vertu de l'alinéa précédent.
-
-|
 
 |
 
@@ -178,13 +144,11 @@ Construction de remontées mécaniques dont le coût est supérieur à 950 000 e
 
 |
 
-|
-
 -Modification permanente de la circulation aérienne de départ ou d'approche aux instruments en application de l'article R. 227-7 du code de l'aviation civile.
 
 |
 
-12o Voies navigables.
+12° Voies navigables.
 
 |
 
@@ -192,7 +156,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-13o Ports fluviaux.
+13° Ports fluviaux.
 
 |
 
@@ -200,13 +164,11 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-|
-
 -Création d'un port de plaisance d'une capacité d'accueil supérieure à 150 places ou extension d'un port de plaisance portant sur au moins 150 places.
 
 |
 
-14o Ports maritimes de commerce ou de pêche.
+14° Ports maritimes de commerce ou de pêche.
 
 |
 
@@ -214,11 +176,7 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-|
-
 -Travaux de création d'un nouveau chenal d'accès à un port existant ou modification des spécifications d'un chenal existant au-delà du tirant d'eau de référence.
-
-|
 
 |
 
@@ -226,13 +184,11 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-|
-
 -Ouverture de nouvelles zones de dépôt à terre de produits de dragage.
 
 |
 
-15o Ports maritimes de plaisance et autres ports de plaisance situés dans les communes littorales mentionnées à l'article L. 321-2.
+15° Ports maritimes de plaisance et autres ports de plaisance situés dans les communes littorales mentionnées à l'article L. 321-2.
 
 |
 
@@ -240,13 +196,11 @@ Travaux de construction ou de modification du gabarit de la voie et des ouvrages
 
 |
 
-|
-
 -Travaux ayant pour effet d'accroître de plus de 10 % la surface du plan d'eau abrité.
 
 |
 
-16o Travaux réalisés sur le rivage, le sol ou le sous-sol de la mer en dehors des ports (endigages, exondements, affouillements, constructions, édification d'ouvrages de défense contre la mer, réalisation de plages artificielles).
+16° Travaux réalisés sur le rivage, le sol ou le sous-sol de la mer en dehors des ports (endigages, exondements, affouillements, constructions, édification d'ouvrages de défense contre la mer, réalisation de plages artificielles).
 
 |
 
@@ -258,11 +212,7 @@ Superficie des terrains mis hors d'eau ou emprise des travaux supérieures à :
 
 |
 
-|
-
 -1 000 mètres carrés en ce qui concerne les ouvrages d'intérêt balnéaire ou destinés à l'exercice des sports nautiques ;
-
-|
 
 |
 
@@ -270,7 +220,7 @@ Superficie des terrains mis hors d'eau ou emprise des travaux supérieures à :
 
 |
 
-17o Installations classées pour la protection de l'environnement.
+17° Installations classées pour la protection de l'environnement.
 
 |
 
@@ -278,7 +228,7 @@ Toutes installations soumises à autorisation.
 
 |
 
-18o Stations d'épuration des eaux usées des collectivités locales.
+18° Stations d'épuration des eaux usées des collectivités locales.
 
 |
 
@@ -286,7 +236,7 @@ Ouvrages destinés à l'épuration des eaux des collectivités locales permettan
 
 |
 
-19o Réservoirs de stockage d'eau.
+19° Réservoirs de stockage d'eau.
 
 |
 
@@ -294,7 +244,7 @@ Réservoirs sur tour d'une capacité supérieure ou égale à 1 000 mètres cube
 
 |
 
-20o Canalisations d'adduction d'eau potable.
+20° Canalisations d'adduction d'eau potable.
 
 |
 
@@ -302,7 +252,7 @@ Construction de canalisations souterraines dans une nouvelle emprise lorsque le 
 
 |
 
-21o Constructions soumises à permis de construire.
+21° Constructions soumises à permis de construire.
 
 |
 
@@ -310,11 +260,7 @@ a) La création d'une superficie hors oeuvre brute nouvelle supérieure à 5 000
 
 |
 
-|
-
 b) La construction d'immeubles à usage d'habitation ou de bureau d'une hauteur au-dessus du sol supérieure ou égale à 50 mètres ;
-
-|
 
 |
 
@@ -322,13 +268,11 @@ c) La création d'une superficie hors oeuvre nette nouvelle à usage de commerce
 
 |
 
-|
-
 d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles d'accueillir plus de 5 000 personnes.
 
 |
 
-22o Lotissements.
+22° Lotissements.
 
 |
 
@@ -336,7 +280,7 @@ Lotissements permettant la construction de plus de 5 000 mètres carrés de surf
 
 |
 
-23o Aménagement de terrains de camping et de caravanage.
+23° Aménagement de terrains de camping et de caravanage.
 
 |
 
@@ -344,7 +288,7 @@ Aménagement de terrains ayant pour effet de créer plus de 200 nouveaux emplace
 
 |
 
-24o Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n o 2006-649 du 2 juin 2006.
+24° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n° 2006-649 du 2 juin 2006.
 
 |
 
@@ -352,21 +296,15 @@ Travaux provoquant un terrassement total d'un volume supérieur à 20 000 mètre
 
 |
 
-25o Ouvrages de transport et de distribution d'électricité.
+25° Ouvrages de transport et de distribution d'électricité.
 
 |
 
-Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension égale à 225 kV d'une longueur supérieure à 15 km. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure à 225 kV. |
-
-26o Canalisations de transport de gaz.
+Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension égale à 225 kV d'une longueur supérieure à 15 km. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure à 225 kV.
 
 |
 
-Canalisations dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5 000 mètres carrés.
-
-|
-
-27o Canalisations de transport d'hydrocarbures.
+26° Canalisations de transport de gaz.
 
 |
 
@@ -374,7 +312,7 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
 
 |
 
-28o Canalisations de transport de produits chimiques déclarées d'intérêt général en application de l'article 1 er du décret n o 65-881 du 18 octobre 1965 portant application de la loi n o 65-498 du 29 juin 1965 relative au transport de produits chimiques par canalisation.
+27° Canalisations de transport d'hydrocarbures.
 
 |
 
@@ -382,21 +320,29 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
 
 |
 
-29o Installations nucléaires de base.
+28° Canalisations de transport de produits chimiques déclarées d'intérêt général en application de l'article 1er du décret n° 65-881 du 18 octobre 1965 portant application de la loi n° 65-498 du 29 juin 1965 relative au transport de produits chimiques par canalisation.
 
 |
 
-Installations définies par le décret n o 2007-830 du 11 mai 2007 relatif à la nomenclature des installations nucléaires de base.
+Canalisations dont le produit du diamètre extérieur par la longueur est supérieur ou égal à 5 000 mètres carrés.
 
 |
 
-30o (Supprimé à compter du 1 er octobre 2006)
+29° Installations nucléaires de base.
+
+|
+
+Installations définies par le décret n° 2007-830 du 11 mai 2007 relatif à la nomenclature des installations nucléaires de base.
+
+|
+
+30° (Supprimé à compter du 1er octobre 2006)
 
 |
 
 |
 
-31o Travaux, ouvrages et aménagements dans les espaces et milieux littoraux faisant l'objet d'une protection particulière :
+31° Travaux, ouvrages et aménagements dans les espaces et milieux littoraux faisant l'objet d'une protection particulière :
 
 |
 
@@ -424,7 +370,7 @@ Autres cas : travaux d'un montant supérieur à 160 000 euros.
 
 |
 
-b) Tous autres travaux, ouvrages, aménagements visés au III de l'article L. 146-4 et aux 2 o et 3 o alinéas de l'article L. 146-6 du code de l'urbanisme ;
+b) Tous autres travaux, ouvrages, aménagements visés au III de l'article L. 146-4 et aux 2° et 3° alinéas de l'article L. 146-6 du code de l'urbanisme ;
 
 |
 
@@ -440,7 +386,7 @@ Tous travaux.
 
 |
 
-32o Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs.
+32° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs.
 
 |
 
@@ -448,13 +394,11 @@ Tous travaux.
 
 |
 
-33o Travaux, installations et aménagements soumis à permis d'aménager prévu à l'article R. 421-19
+33° Travaux, installations et aménagements soumis à permis d'aménager prévu à l'article R. 421-19
 
 |
 
-a) Terrains de golf d'un coût total égal ou supérieur à 1 900 000 euros ou accompagnés d'opérations de constructions d'une surface hors oeuvre nette égale ou supérieure à 1 000 mètres carrés ;
-
-|
+a) Terrains de golf d'un coût total égal ou supérieur à 1 900 000 euros ou accompagnés d'opérations de constructions d'une surface hors œuvre nette égale ou supérieure à 1 000 mètres carrés ;
 
 |
 
@@ -462,13 +406,11 @@ b) Bases de plein air et de loisirs d'un montant égal ou supérieur à 1 900 00
 
 |
 
-|
-
 c) terrains aménagés pour la pratique de sports ou loisirs motorisés dont l'emprise totale est supérieure à 4 hectares.
 
 |
 
-34o Travaux d'installation des ouvrages utilisant l'énergie éolienne.
+34° Travaux d'installation des ouvrages utilisant l'énergie éolienne.
 
 |
 
@@ -476,7 +418,7 @@ Travaux d'installation des ouvrages de production d'énergie éolienne dont la h
 
 |
 
-35o Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
+35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
 
 |
 
@@ -484,7 +426,7 @@ Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 he
 
 |
 
-36o Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
+36° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
 
 |
 
@@ -492,7 +434,7 @@ Projets portant sur une superficie d'au moins 50 hectares.
 
 |
 
-37o Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier.
+37° Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier.
 
 |
 
