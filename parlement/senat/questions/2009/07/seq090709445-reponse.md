@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709445
+
+- Question : [SEQ090709445](seq090709445.md) — Législation relative aux associations de chasse agréées
+
+## Réponse
+
+*Écologie, JO du 2009-12-03, page 2804*
+
+Le droit de chasse dont le propriétaire d'un terrain a fait apport à une association communale de chasse (ACCA) ne peut être fractionné ni cédé à l'acquéreur d'une partie de ce terrain. En effet, les ayants cause à titre particulier d'un propriétaire titulaire d'un droit de chasse, par suite de l'apport de ses terres à l'association, ne figurent pas parmi les bénéficiaires énumérés par l'article 4, alinéa 2, de la loi du 10 juillet 1964, lequel ne vise que le conjoint, les ascendants et descendants comme pouvant prétendre à être admis comme membres de l'association. Si les acquéreurs de parcelles ne peuvent plus se voir reconnaître la qualité d'adhérent à l'ACCA de la commune où cette acquisition a lieu, ils ont la possibilité, tout d'abord, de chasser dans leur propre commune de domicile ou de résidence, ensuite de solliciter une carte d'adhésion en tant que membre extérieur à une ACCA. Les fédérations départementales des chasseurs ont vocation à aider les chasseurs dans cette recherche en mettant à leur disposition la liste des places disponibles dans les ACCA du département. De plus, les chasseurs citadins peuvent également bénéficier de cartes temporaires d'adhésion en application de la loi n° 2008-1545 du 31 décembre 2008. L'ensemble de ces dispositions permet aux chasseurs sans territoire d'accéder à une ACCA dans des conditions assurant le maintien d'une chasse populaire. La mise en place du dispositif législatif très lourd sur les ACCA a suscité depuis sa création de nombreux contentieux pour arriver à l'équilibre actuel. Il ne me paraît donc pas souhaitable de rouvrir le débat sur ce sujet, qui a également été traité dans les arrêts de la Cour européenne des droits de l'homme.
