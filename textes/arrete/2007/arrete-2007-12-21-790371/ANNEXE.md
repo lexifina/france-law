@@ -50,7 +50,7 @@ Les générateurs électriques de rayons X utilisés à des fins de radiographie
 
 ― l'appareil est utilisé à des fins vétérinaires ;
 
-― l'appareil est un contrôleur de bagages dont le tunnel radioscopique a une section inférieure ou égale à 0,5 m² ;
+― l'appareil est un contrôleur de bagages ou de fret ;
 
 ― l'appareil est exempté de l'autorisation ou de la déclaration prévue à l'article L. 1333-4 du code de la santé publique en application de l'article R. 1333-18-2 dudit code.
 
