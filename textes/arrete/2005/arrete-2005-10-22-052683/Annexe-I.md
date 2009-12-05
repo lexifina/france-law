@@ -1100,11 +1100,9 @@ Plusieurs types d'épreuves peuvent être organisés :
 
 - épreuves pratiques : préparation et réalisation de gestes techniques en salle de travaux pratiques ou en structure de soins ;
 
-- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30. Le nombre d'examinateurs de la mise en situation professionnelle du module 1 est de deux : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un aide-soignant ou une auxiliaire de puériculture ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
+- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30.
 
-Le nombre d'examinateurs de la mise en situation professionnelle du module 3 est de trois : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants, un infirmier ou une puéricultrice titulaire ou non du diplôme de cadre de santé, et une sage-femme ou un aide-soignant ou une auxiliaire de puériculture.
-
-Les deux derniers examinateurs doivent justifier d'une expérience professionnelle d'au moins trois ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
+Le nombre d'examinateurs des mises en situation professionnelle des modules 1 et 3 est de deux : un infirmier formateur permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un cadre de santé ou une sage-femme ou un éducateur de jeunes enfants ou un éducateur spécialisé ou un aide-soignant. Ce dernier doit justifier d'une expérience professionnelle d'au moins deux ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
 
 Chaque mise en situation professionnelle se décompose en deux parties :
 
@@ -1126,7 +1124,9 @@ MODULES
 
 |
 
-MODALITÉS COMPLÉMENTAIRES
+MODALITÉS
+
+complémentaires
 
 |
 
@@ -1134,7 +1134,9 @@ NOTATION
 
 |
 
-CONDITIONS DE VALIDATION du module
+CONDITIONS DE
+
+validation du module
 
 |
 
@@ -1144,21 +1146,17 @@ CONDITIONS DE VALIDATION du module
 
 Une épreuve écrite en deux parties :
 
-- une série de questions (QROC et/ou QCM) ;
+- une série de questions (QROC et/ou
+
+QCM) ;
 
 - un cas clinique.
-
-Et une épreuve de MSP avec prise en charge d'une personne et réalisation d'un ou deux soins.
 
 |
 
 Durée : 2 heures.
 
 Epreuve anonyme.
-
-Organisée par l'institut.
-
-L'infirmier, enseignant permanent relève de l'institut.
 
 |
 
@@ -1168,15 +1166,27 @@ Sur 20 points :
 
 - cas clinique sur 12 points.
 
-Sur 20 points :
-
-- participation DDS sur 8 points.
-
-- réalisation du ou des soins sur 12 points
-
 |
 
 Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles.
+
+|
+
+|
+
+Et une épreuve de MSP avec prise en charge d'une personne.
+
+|
+
+|
+
+Sur 20 points :
+
+- participation D D S sur 8 points ;
+
+- réalisation du ou des soins sur 12 points.
+
+|
 
 |
 
@@ -1208,13 +1218,9 @@ Obtenir une note égale ou supérieure à 10 sur 20.
 
 |
 
-Une épreuve de MSP avec prise en charge d'une personne et réalisation de deux soins.
+Une épreuve de MSP avec prise en charge d'une personne.
 
 |
-
-Organisée par la DDASS.
-
-Se déroule, sous le contrôle de la direction départementale des affaires sanitaires et sociales, en fin de formation. L'infirmier, enseignant permanent relève d'un autre institut que celui de l'élève.
 
 |
 
@@ -1315,6 +1321,8 @@ Une épreuve écrite ou orale :
 - un cas concret de transmission d'informations à réaliser à partir de la présentation de cas cliniques.
 
 |
+
+Organisée en institut ou en structure de soins.
 
 Durée : 1 heure.
 
