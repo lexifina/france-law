@@ -90,26 +90,6 @@ Brest
 
 |
 
-FR BES 4
-
-|
-
-Aéroport
-
-|
-
-|
-
-HC-T (CH) (1) (2)
-
-|
-
-|
-
-Brest
-
-|
-
 FR BES 1
 
 |
@@ -636,7 +616,7 @@ Aéroport
 
 |
 
-HC-T (CH) (1) (2)
+HC-T (CH) (1) (2), NHC-NT (2)
 
 |
 

@@ -60,22 +60,6 @@ Tous
 
 |
 
-Bastia
-
-|
-
-Aéroport-port
-
-|
-
-Tous
-
-|
-
-|
-
-|
-
 Bordeaux
 
 |
