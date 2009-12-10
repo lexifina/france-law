@@ -8,10 +8,4 @@ La maison d'habitation dont l'exploitant est propriétaire peut être inscrite �
 
 II. - Peuvent être considérés comme des immobilisations amortissables les équidés et les bovidés utilisés comme animaux de trait ou affectés exclusivement à la reproduction ainsi que les chevaux de course mis à l'entrainement et les chevaux de concours soumis à un entraînement en vue de la compétition, âgés de deux ans au moins au sens de la réglementation des courses.
 
-Lorsque l'exploitant est assujetti à la taxe sur la valeur ajoutée, l'application de cette disposition est subordonnée à la condition qu'il exerce le même choix pour l'établissement de cette taxe.
-
 Tous les autres animaux, y compris ceux nés dans l'exploitation, sont obligatoirement compris dans les stocks.
-
-NOTA :
-
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 2004.
