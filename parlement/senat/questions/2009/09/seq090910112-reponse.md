@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910112
+
+- Question : [SEQ090910112](seq090910112.md) — Cessation de la pêche avec les engins nommés « dragues à dents »
+
+## Réponse
+
+*Alimentation, JO du 2009-12-10, page 2867*
+
+L'activité de drague à dents fait l'objet d'un encadrement par le directeur régional des affaires maritimes de la Haute-Normandie, qui a, par arrêté du 31 décembre 2002, rendu obligatoires deux délibérations des comités régionaux de pêches maritimes et des élevages marins de Nord - Pas-de-Calais - Picardie et de la Haute-Normandie. Ces deux textes définissent les conditions d'octroi d'une licence pour la drague à dents, ainsi que des caractéristiques techniques précises (écartement des dents, longueur du cadre, etc.). Aucun règlement communautaire ne donne de définition de cet engin, propre aux côtes françaises. Seuls sont définis la drague et le chalut. Il est difficile de rattacher la drague à dents à l'un ou l'autre de ces engins, car la drague est utilisée exclusivement pour la pêche des coquillages et le chalut ne possède pas de cadre denté. L'Institut français pour l'exploitation de la mer (IFREMER) a d'ailleurs estimé que cet engin constituait une nouvelle catégorie, à mi-chemin entre le chalut et la drague. Cette activité va prochainement faire l'objet d'une réglementation au niveau national, établie par la direction des pêches maritimes et de l'aquaculture (DPMA). Cette réglementation sera soumise à l'avis du Comité national des pêches maritimes et des élevages marins (CNPMEM). Le cadre nouveau ainsi défini permettra de prendre en compte les particularités de cette pêche et d'imposer un nombre maximum définitif de licences. Des conditions plus strictes concernant les règles d'attribution des licences seront imposées. Le débat relatif aux conditions de l'encadrement de cette activité aura lieu au sein du CNPMEM et permettra aux différentes catégories de pêcheurs de s'exprimer sur le sujet.
