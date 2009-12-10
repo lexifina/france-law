@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609061
+
+- Question : [SEQ090609061](seq090609061.md) — Risques d'annulation de procédures en raison de l'insalubrité des dépôts des palais de justice
+
+## Réponse
+
+*Justice, JO du 2009-12-10, page 2886*
+
+Afin de rénover complètement les cellules de la souricière du Palais de justice de Paris, la chancellerie a décidé d'affecter en urgence 1 700 000 euros pour financer deux tranches de travaux portant, d'une part, sur la rénovation des cellules et des circulations et, d'autre part, sur la mise en place d'un sas de détection. Ainsi, la première tranche de travaux, portant sur la réfection d'une partie des cellules, s'est achevée fin août 2009 pour un montant de 505 000 euros. Un financement complémentaire de 1 200 000 euros, au titre du plan de relance, a été mis en place pour permettre l'installation d'un sas de détection, qui est prévue au cours du premier semestre 2010, et la poursuite de la rénovation des cellules qui est programmée pour l'été 2010 afin de ne pas gêner l'activité de la souricière. En ce qui concerne le dépôt du tribunal de grande instance de Créteil, le ministère de la justice a engagé au début de l'année 2009 un montant de 1 195 000 euros pour réaliser une rénovation complète du dépôt de police et moderniser ses installations techniques. Après les études de maîtrise d'oeuvre, les travaux débuteront mi-2010, pour une durée de douze mois. Au palais de justice de Bobigny, le dépôt de police, qui a déjà fait l'objet d'une restructuration importante, achevée en janvier 2006 pour un montant de 1 411 241 euros, va faire l'objet d'une étude de faisabilité, d'un coût estimé à 20 000 euros, concernant la réalisation de travaux portant sur le traitement d'air, l'aménagement de deux boxes supplémentaires et le tamisage de l'éclairage de nuit pour répondre aux recommandations formulées par le contrôleur général des lieux de privation de liberté.
