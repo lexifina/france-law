@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910188
+
+- Question : [SEQ090910188](seq090910188.md) — Situation des exportations de broutards vers l'Italie
+
+## Réponse
+
+*Alimentation, JO du 2009-12-10, page 2868*
+
+Dans un contexte de crise économique mondiale, les entreprises françaises qui exportent sont confrontées à de nombreuses difficultés. Les marchés sont fragilisés, les délais de paiement allongés et le niveau de sécurité financière des transactions a globalement diminué. Afin de permettre aux entreprises françaises de continuer à exporter lorsque la demande est maintenue, et de pallier les restrictions conjoncturelles de garantie opérées par les assureurs-crédits sur certains marchés étrangers, notamment dans le secteur des importateurs de broutards français, l'État a mis en place, au cours de la première quinzaine d'octobre, un dispositif complémentaire d'assurance-crédit public à l'exportation. Ce dispositif, dénommé CAP export et CAP+ export, est une déclinaison du dispositif domestique équivalent mis en place fin 2008, mais qui a nécessité une validation de la Commission européenne pour sa partie export. Il est non sectoriel par essence, mais adapté aux besoins des entreprises françaises du secteur agricole et agro-alimentaire, grâce aux concertations menées conjointement lors de son élaboration par le ministère de l'alimentation, de l'agriculture et de la forêt et le ministère de l'économie, de l'industrie et de l'emploi avec les secteurs professionnels correspondants. C'est ainsi que, afin de conforter les marchés à l'export dans cette période de crise, l'État s'engage, selon les cas, à compléter les montants garantis par les assureurs privés en cas de baisse de couverture (CAP export), ou à assurer une couverture lors du retrait de la couverture précédemment fournie par les assureurs-crédit privés(CAP+ export).
