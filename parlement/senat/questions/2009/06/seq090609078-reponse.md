@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609078
+
+- Question : [SEQ090609078](seq090609078.md) — Restitution des archives nationales françaises détenues par la Russie
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-12-10, page 2867*
+
+La restitution aux autorités françaises des archives spoliées durantla Seconde guerre mondiale par les forces d'occupation allemandes et saisies en 1945 par l'Armée rouge s'est effectuée en plusieurs étapes. Dès 1966, le Gouvernement soviétique avait restitué au Général de Gaulle des documents sur la Résistance ainsi que quelques archives ayant appartenu à des personnalités françaises. Néanmoins, c'est en 1992 après l'éclatement de l'Union soviétique que la présence d'archives françaises dans le dépôt des archives spéciales de Moscou est signalée. Après la signature d'un accord entre la France et la Fédération de Russie en novembre 1992, le rapatriement de ces archives débute en octobre 1993. Un nombre important de fonds français conservés dans le centre pour la préservation des collections historiques et documentaires (ex-dépôt des archives spéciales) sont alors restitués jusqu'en mai 1994, les autorités russes décidant alors que les prises de guerre ne peuvent être restituées en dépit des accords bilatéraux. Il faut attendre octobre 1999 et la signature d'un protocole sur les formalités et les conditions de l'échange de documents d'archives entre le ministère des affaires étrangères et le service fédéral russe des archives pour que les rapatriements reprennent. En 2000, la quasi-totalité des fonds français identifiés sont restitués. Parmi les fonds identifiés qui demeurent en Russie, la très grande majorité concernent des fonds d'organismes non gouvernementaux ainsi que des archives familiales ou privées. Des négociations sont en cours pour leur restitution. L'existence de fonds français dont nous n'avons pas connaissance et dont l'attribution n'a pas encore été définie par les autorités russes est également possible.
