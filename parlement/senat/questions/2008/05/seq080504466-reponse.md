@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504466
+
+- Question : [SEQ080504466](seq080504466.md) — Taxe professionnelle unique et attribution de compensation versée aux communes membres
+
+## Réponse
+
+*Intérieur, JO du 2009-12-10, page 2883*
+
+La mise en oeuvre de la taxe professionnelle unique implique que les communes membres d'un établissement public de coopération intercommunale renoncent à percevoir cette taxe. Il s'agit donc d'un choix politique fort qui traduit leur volonté de mettre en commun leurs ressources dans le cadre d'une structure de coopération intégrée, et dont l'impact budgétaire doit faire préalablement l'objet d'une évaluation précise. L'EPCI qui perçoit la taxe professionnelle unique est tenu de verser à chaque commune membre une attribution de compensation (art. 1609 nonies C - V du code général des impôts). Cette attribution de compensation est calculée sur la base du produit de taxe professionnelle perçu par celle-ci l'année précédant la première année de mise en place de la taxe professionnelle unique, diminué du montant correspondant aux charges transférées par la commune à l'EPCI. Le montant revenant à chaque commune membre dépend donc du dernier produit de taxe professionnelle de la commune et de l'évaluation des charges qu'elle a transférées au groupement. Ce montant est propre à chaque commune. Lorsque les charges transférées évaluées excèdent le dernier produit de taxe professionnelle, l'attribution de compensation est négative. Cela signifie que l'attribution de compensation est due par la commune à la communauté d'agglomération ou à la communauté de communes. Cependant, la solution sera différente selon qu'il s'agit d'un EPCI à TPU créé ex-nihilo ou d'un EPCI qui percevait auparavant la fiscalité additionnelle. Dans le premier cas, l'EPCI peut décider de ne pas exiger un reversement de la commune à due concurrence. Dans le second cas, la commune est tenue d'effectuer ce reversement, car c'est une dépense obligatoire.
