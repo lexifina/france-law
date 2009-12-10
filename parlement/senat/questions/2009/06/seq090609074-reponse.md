@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609074
+
+- Question : [SEQ090609074](seq090609074.md) — Interprétation restrictive du droit pour les pilotes de ligne de poursuivre leur activité au-delà de l'âge de 60 ans
+
+## Réponse
+
+*Écologie, JO du 2009-12-10, page 2876*
+
+Il a été rappelé à plusieurs reprises, tant aux navigants qu'à leurs employeurs, que les modifications de l'article L. 421-9 du code de l'aviation civile, introduites par la loi n° 2008-1330 du 17 décembre 2008 de financement de la sécurité sociale pour 2009, n'entrent en vigueur qu'à compter du 1er janvier 2010 pour le cas des pilotes. Concernant cette date, le législateur s'est conformé aux discussions qui se sont tenues avec les organisations syndicales de personnels navigants techniques. Les employeurs doivent donc jusque-là se conformer aux dispositions suivantes : « Le personnel navigant de l'aéronautique civile de la section A du registre prévu à l'article L. 421-3 ne peut exercer aucune activité en qualité de pilote ou de copilote dans le transport aérien public au-delà de l'âge de soixante ans. Jusqu'au 1er janvier 2010, le contrat de travail du personnel navigant de la section A n'est pas rompu du seul fait que la limite d'âge de soixante ans est atteinte, sauf impossibilité pour l'entreprise de proposer un reclassement dans un emploi au sol ou refus de l'intéressé d'accepter l'emploi qui lui est proposé. » Il convient, par ailleurs, de noter que l'article 91 de la loi de financement de la sécurité sociale précitée n'a pas entendu interdire, à compter du 1er janvier 2010, la reprise d'une activité de personnel navigant au-delà de soixante ans après une période d'interruption, ni à un employeur d'embaucher du personnel navigant technique au-delà du même âge, sous réserve du respect des conditions d'aptitude et de compétences prévues par la loi.
