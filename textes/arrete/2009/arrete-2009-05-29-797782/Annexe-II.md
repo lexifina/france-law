@@ -314,7 +314,7 @@ L'obligation figurant au 5. 4. 1. 1. 1, consistant à porter une croix dans la c
 
 3. 2. 1. 2. Transports pour compte propre.
 
-Les transports pour les besoins propres du transporteur ferroviaire en quantité n'excédant pas les limites fixées au tableau du 1. 1. 3. 1 ne sont pas soumis à l'obligation du document prévu au 5. 4. 0.
+Les transports pour les besoins propres du transporteur ferroviaire en quantité n'excédant pas les limites fixées au tableau du 1. 1. 3. 6 ne sont pas soumis à l'obligation du document prévu au 5. 4. 0.
 
 3. 2. 2. Placardage et signalisation des wagons ; cas particuliers.
 

@@ -496,9 +496,7 @@ Le taux de remplissage doit être au plus de 85 % à la température de rempliss
 
 La consigne écrite relative à l'ammoniac, contenant les dispositions suivantes, doit être placée dans un endroit bien visible à bord de chaque véhicule concerné.
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 147 du 27/06/2009 texte numéro 11
+Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 11
 
 3.9. Les fournisseurs d'ammoniac transmettent au préfet de région - DRIRE ou DREAL - la liste des exploitations agricoles destinataires des livraisons d'ammoniac.
 
@@ -1106,7 +1104,7 @@ Examen visuel.
 
 |
 
-Contrôle du marquage de l'appareil pour utilisation en atmosphère
+Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive
 
 |
 
@@ -1117,6 +1115,8 @@ Contrôle du marquage de l'appareil pour utilisation en atmosphère
 Présence et conformité
 
 |
+
+Contrôle du marquage de l'appareil pour utilisation en atmosphère explosive
 
 |
 

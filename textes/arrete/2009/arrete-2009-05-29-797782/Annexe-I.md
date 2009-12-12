@@ -168,6 +168,8 @@ Enfin, s'il n'est pas possible d'opérer autrement, il est toléré de procéder
 
 -et, dans la limite de capacité de 8 m ³ par unité de transport, des matières de la classe 6. 1 des n os ONU 1593, 1710, 1897 et 2831.
 
+Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3. 5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a du numéro ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et / ou atelier de réparation.
+
 2. 2. 1. 4. Des dérogations aux dispositions du 2. 2. 1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2. 2. 1. 2 et 2. 2. 1. 3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
 2. 2. 2. Conditions de chargement ou de déchargement des citernes.
@@ -432,7 +434,7 @@ Les dispositions relatives au 1. 10. 3. 2 ne s'appliquent pas à ces transports.
 
 3. 5. Dispositions spéciales relatives aux réservoirs fixes de stockage de GPL.
 
-Les réservoirs fixes de stockage, d'un volume n'excédant pas 12 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a. (classe 2, n° ONU 1965) peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou de réparation, s'ils contiennent une quantité de gaz inférieure ou égale à 500 kg. Dans ce cas :
+Les réservoirs fixes de stockage, d'un volume n'excédant pas 8 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a du n° ONU 1965 peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou atelier de réparation, si la masse du réservoir et du produit contenu est inférieure ou égale à 1 600 kg. Dans ce cas :
 
 1. Les unités de transport sont de type FL, tel que défini au 9. 1. 1. 2. Les véhicules dont la date de première mise en circulation est postérieure au 30 juin 1993 sont soumis aux dispositions du 3. 6 de la présente annexe I.
 
@@ -468,9 +470,9 @@ a) Formation de base : formation mentionnée au 8. 2. 1. 2.
 
 Les conducteurs des véhicules mentionnés aux 8. 2. 1. 3. et 8. 2. 1. 4 doivent en plus suivre la formation spécialisée qui, parmi les suivantes, est adaptée à leur cas particulier.
 
-b) Spécialisation classe 1 : formation spécialisée mentionnée au 8. 2. 1. 4, requise pour la conduite des véhicules mentionnés au 8. 5 (S1), transportant des matières et objets de la classe 1 autres que les matières et objets explosibles de la division 1. 4, groupe de compatibilité S ;
+b) Spécialisation classe 1 : formation spécialisée mentionnée au 8. 2. 1. 4, requise pour la conduite des véhicules mentionnés au 8. 5 (S1), transportant des matières et objets de la classe 1 autres que les matières et objets explosibles de la division 1. 4, groupe de compatibilité S, ou pour la conduite des MEMU transportant des chargements en commun de matières ou d'objets de la classe 1 et de matières de la classe 5. 1 ;
 
-c) Spécialisation citernes : formation spécialisée mentionnée au 8. 2. 1. 3, restreinte aux matières des classes 3, 4. 1, 4. 2, 4. 3, 5. 1, 5. 2, 6. 1, 6. 2, 8, 9, requise pour le transport de ces matières en véhicules mentionnés au 8. 2. 1. 3 ;
+c) Spécialisation " citernes " : formation spécialisée mentionnée au 8. 2. 1. 3, requise pour le transport des marchandises dangereuses autres que celles de la classe 2 en véhicules ou en MEMU mentionnés au 8. 2. 1. 3 ;
 
 d) Spécialisation citernes gaz : formation spécialisée mentionnée au 8. 2. 1. 3, restreinte aux matières de la classe 2, requise pour le transport de ces matières en véhicules mentionnés au 8. 2. 1. 3 ;
 
