@@ -10,7 +10,7 @@ AUTORITÉS CONCERNÉES
 
 |
 
-CONDITIONS DE L'EXERCICE
+CONDITION DE L'EXERCICE
 
 |
 
@@ -26,7 +26,7 @@ Dans la limite de 5 400 euros.
 
 |
 
-Le directeur des plans, du budget et de la gestion et le chef du service de la maintenance aéronautique dont dispose le délégué général pour l'armement.
+Le directeur des plans, des programmes et du budget dont dispose le délégué général pour l'armement.
 
 |
 
@@ -42,15 +42,7 @@ Dans la limite de 5 400 euros.
 
 |
 
-Les directeurs et chefs de service des organismes centraux relevant des chefs d'états-majors d'armée à l'exception des directeurs centraux du personnel militaire de l'armée de terre et de l'armée de l'air non compétents en la matière.
-
-|
-
-Dans la limite de 5 400 euros.
-
-|
-
-Le directeur général de la gendarmerie nationale.
+Les directeurs et chefs de service des organismes centraux relevant des chefs d'états-majors d'armée à l'exception des directeurs centraux des ressources humaines de l'armée de terre et de l'armée de l'air non compétents en la matière.
 
 |
 

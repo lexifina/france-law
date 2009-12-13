@@ -34,7 +34,7 @@ Dans la limite de 180 000 €.
 
 |
 
-L'ensemble des directeurs des organismes centraux relevant des chefs d'états-majors d'armée à l'exception, d'une part, du directeur central du personnel militaire de l'armée de terre et du directeur central du personnel de l'armée de l'air non compétents en la matière, et, d'autre part, du directeur central du service du soutien de la flotte, non concerné par la limitation de l'espèce.
+L'ensemble des directeurs des organismes centraux relevant des chefs d'états-majors d'armée à l'exception, d'une part, du directeur central des ressources humaines de l'armée de terre et du directeur central des ressources humaines de l'armée de l'air non compétents en la matière et, d'autre part, du directeur central du service du soutien de la flotte, non concerné par la limitation de l'espèce.
 
 |
 
