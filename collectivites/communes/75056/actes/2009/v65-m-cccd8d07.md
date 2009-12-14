@@ -1,0 +1,9 @@
+# Paris : acte V65 M — Voeu rattaché à la délibération 2009 DVD 271, relatif à la participation de l'Etat au financement du tramway T3.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2009-12-14
+- Nature : V
+- Objet : Voeu rattaché à la délibération 2009 DVD 271, relatif à la participation de l'Etat au financement du tramway T3.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
