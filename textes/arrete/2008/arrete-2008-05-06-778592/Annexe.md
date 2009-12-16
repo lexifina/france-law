@@ -8,7 +8,7 @@ Le secrétaire général de la défense nationale.
 
 Le directeur général du Centre d'analyse stratégique.
 
-Le délégué interministériel à l'aménagement et à la compétitivité des territoires.
+Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale.
 
 Le directeur général de l'administration et de la fonction publique.
 
