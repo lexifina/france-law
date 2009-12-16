@@ -1,16 +1,18 @@
 # Article Annexe 1
 
-1. Structure organisationnelle
+1. Structure organisationnelle (NF EN ISO/CEI 17 024 - § 4.2.3)
 
-(NF EN ISO/CEI 17 024 - § 4.2.3)
+Les parties associées au "comité du dispositif particulier", concernées par le contenu et le fonctionnement du système de certification, visées dans le référentiel en vigueur, comprennent au moins un représentant des utilisateurs (associations de consommateurs, notaires ou agents immobiliers, syndics ...), et un représentant des personnes certifiées.
 
-Les parties associées au "comité du dispositif particulier", concernées par le contenu et le fonctionnement du système de certification, visées dans le référentiel en vigueur, comprennent au moins un représentant des utilisateurs (associations de consommateurs, notaires ou agents immobiliers, syndics ...), un représentant des personnes certifiées ou candidates pour le diagnostic de performance énergétique et un représentant des pouvoirs publics prescripteurs.
+Sont communiqués aux services du ministre chargé de la construction :
 
-La participation au comité du dispositif particulier des représentants des personnes candidates à la certification prendra fin au 1er novembre 2007.
+- les comptes rendus des réunions du " comité du dispositif particulier " ;
 
-2. Exigences relatives aux examinateurs
+- les décisions en matière d'élaboration et de maintien du dispositif particulier de certification et les référentiels correspondants, et les projets de ces décisions quand ils sont portés à l'ordre du jour du " comité du dispositif particulier " ;
 
-(NF EN ISO/CEI 17024 - § 5.2)
+- pour le 31 mars de chaque année, un rapport sur la période précédente du 1er janvier au 31 décembre comportant les flux et effectifs cumulés des personnes concernées par les opérations de surveillance, par les décisions de certification, de recertification, de suspension et de retrait, ainsi qu'un bilan des réclamations et plaintes dont l'organisme certificateur a eu connaissance sur les personnes certifiées.
+
+2. Exigences relatives aux examinateurs (NF EN ISO/CEI 17024 - § 5.2)
 
 Critères de sélection des examinateurs :
 
@@ -30,9 +32,7 @@ Les examinateurs qualifiés par les organismes de certification doivent, en réf
 
 - ne pas avoir eu de lien, de quelque nature que ce soit, susceptible d'entacher leur éthique, avec les candidats.
 
-3. Processus de certification
-
-(NF EN ISO/CEI 17024 - § 6)
+3. Processus de certification (NF EN ISO/CEI 17024 - § 6)
 
 Les délais maximaux entre chaque étape du processus de certification sont précisés dans le référentiel de certification.
 
@@ -40,9 +40,7 @@ Le processus de certification fait apparaître les étapes ci-après.
 
 Chaque étape permet de vérifier au moins les compétences du candidat détaillées en annexe 2.
 
-3.1. Evaluation
-
-(NF EN ISO/CEI 17024 - § 6.2)
+3.1. Evaluation (NF EN ISO/CEI 17024 - § 6.2)
 
 L'évaluation du candidat à la certification est réalisée selon la procédure suivante :
 
@@ -52,9 +50,7 @@ L'examen théorique est réalisé en application des dispositions prévues à l'
 
 L'examen pratique implique pour le candidat à la certification une mise en situation de diagnostic et permet de vérifier les compétences mentionnées en annexe 2.
 
-3.2. Décision en matière de certification
-
-(NF EN ISO/CEI 17024 - § 6.3)
+3.2. Décision en matière de certification (NF EN ISO/CEI 17024 - § 6.3)
 
 3.2.1. Notification de la décision au candidat
 
@@ -64,29 +60,23 @@ A titre transitoire, si l'évaluation a été réalisée avant le 1er février 2
 
 Tout refus de certification doit être argumenté.
 
-3.2.2. Validité de la certification
-
-(NF EN ISO/CEI 17024 - § 6.3.3)
+3.2.2. Validité de la certification (NF EN ISO/CEI 17024 - § 6.3.3)
 
 La validité d'une certification est de cinq ans.
 
-4. Surveillance (NF-EN ISO/CEI 17024 - § 6.4)
+4. Surveillance (NF-EN ISO/CEI 17024, § 6.4)
 
-Lors du premier cycle de certification, une opération de surveillance est réalisée durant la deuxième année. Lors des cycles de certification suivants, une opération de surveillance est menée au cours de la troisième année.
+Le processus de surveillance permet de surveiller la conformité des personnes certifiées aux dispositions applicables du dispositif particulier de certification, en particulier aux compétences mentionnées en annexe 2.
 
-Les opérations de surveillance permettent à l'organisme certificateur de vérifier le maintien des compétences mentionnées en annexe 2.
-
-La surveillance consiste pour l'organisme de certification à vérifier que la personne certifiée :
+L'organisme de certification procède au moins à une opération de surveillance pendant la troisième année de validité de la certification, période avancée à la deuxième année de validité de la certification s'il ne s'agit pas d'une recertification. Cette opération de surveillance consiste notamment à vérifier que la personne certifiée :
 
 - se tient à jour des évolutions techniques, législatives et réglementaires dans le domaine concerné ;
 
-- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur de dix constats établis par la personne certifiée.
+- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier qu'elle a établi au moins dix rapports durant la période écoulée depuis l'obtention de sa certification en cours de validité, et de contrôler la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur d'un échantillon d'au moins dix rapports établis par elle durant ladite période. L'échantillon susvisé est choisi par l'organisme de certification et comporte au moins un rapport pour chacun des types de mission mentionnés à l'article 2-1 de l'arrêté, quand ce type de mission a été réalisé.
 
-La personne certifiée fournit à l'organisme de certification un état des réclamations et plaintes le concernant sur la période écoulée.
+L'organisme de certification établit les modalités de suspension ou de retrait de la certification si les exigences ci-dessus ne sont pas satisfaites.
 
-L'organisme de certification établit les modalités de suspension ou de retrait du certificat si les exigences ci-dessus ne sont pas satisfaites.
-
-Sauf cas de force majeure, la cessation d'activité dans le domaine de la certification des personnes établissant des diagnostics de performance énergétique est un critère de retrait de la certification dans le ou lesdits secteurs.
+Sauf cas de force majeure, la cessation d'activité dans le domaine concerné est un critère de retrait de la certification qui porte sur ce domaine.
 
 5. Recertification (NF EN ISO/CEI 17024 - § 6.5)
 
@@ -102,6 +92,4 @@ Elle permet, en outre, de vérifier que la personne certifiée :
 
 - se tient à jour des évolutions techniques, législatives et réglementaires dans le domaine concerné ;
 
-- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles, en vigueur, de dix constats établis par la personne certifiée.
-
-La personne certifiée fournit à l'organisme de certification un état des réclamations et plaintes le concernant sur la période écoulée.
+- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier qu'elle a établi au moins dix rapports durant la période écoulée depuis la dernière opération de surveillance telle que spécifiée au paragraphe 4, et de contrôler la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur d'un échantillon d'au moins dix rapports établis durant ladite période. L'échantillon susvisé est choisi par l'organisme de certification et comporte au moins un rapport pour chacun des types de mission mentionnés à l'article 2-1 de l'arrêté, quand ce type de mission a été réalisé.
