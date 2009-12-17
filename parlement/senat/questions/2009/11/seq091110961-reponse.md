@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110961
+
+- Question : [SEQ091110961](seq091110961.md) — Compétences des commissaires européens
+
+## Réponse
+
+*Affaires étrangères, JO du 2009-12-17, page 2940*
+
+La Commission européenne a interrogé les autorités françaises sur les conditions dans lesquelles avaient été appliquées les normes internationales, communautaires et nationales relatives à l'asile et au non-refoulement, à l'occasion de l'organisation d'un vol de retour groupé de ressortissants afghans, organisé conjointement avec le Royaume-Uni. Sur le fond, la question relève du champ défini par le traité instituant la Communauté, singulièrement son article 63 relatif à l'asile et à la politique d'immigration. En l'espèce, sont en cause l'application de deux directives 2004/83/CE (« concernant les normes minimales relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir prétendre au statut de réfugié ou les personnes qui, pour d'autres raisons, ont besoin d'une protection internationale, et relatives au contenu de ces statuts ») et 2005/85/CE (« relative à des normes minimales concernant la procédure d'octroi et de retrait du statut de réfugié dans les États membres »). Or, la Commission peut interroger les États membres sur toute question ayant trait à l'application du droit communautaire, dans le cadre du contrôle qu'elle exerce sur le fondement de l'article 226 du traité instituant la Communauté européenne. La Commission a ainsi déjà fréquemment engagé des manquements non seulement pour défaut de transposition ou mauvaise transposition de directive, mais aussi pour mauvaise application d'une directive. Cette pratique a été reconnue par la Cour de justice qui a ainsi eu l'occasion de rappeler que la « Commission est seule juge de l'opportunité d'engager une procédure en constatation de manquement ».
