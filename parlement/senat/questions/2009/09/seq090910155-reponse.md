@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910155
+
+- Question : [SEQ090910155](seq090910155.md) — Contrats d'entretien renouvelables conclus par des syndicats de copropriétaires
+
+## Réponse
+
+*Commerce, JO du 2009-12-17, page 2944*
+
+La loi n° 2008-3 du 3 janvier 2008 a complété les dispositions de l'article L. 136-1 du code de la consommation en précisant que cet article s'applique désormais « aux consommateurs et aux non-professionnels ». Ainsi, les consommateurs et les personnes morales non-professionnelles bénéficient de la protection contre les clauses abusives. Par un arrêt du 15 mars 2005, la Cour de cassation a jugé en s'appuyant sur la notion de « non-professionnels », visée désormais par l'article L. 136-1, qu'une personne morale pouvait bénéficier de la protection du code de la consommation. La jurisprudence de la Cour de cassation ainsi que différents textes se rapportant au droit de la consommation, autorisent une acception large de la notion de consommateur lorsqu'une personne morale, par référence à l'absence d'un lien direct existant entre le contrat passé avec une activité commerciale, se trouve dans une situation comparable à celle rencontrée par un consommateur, personne physique. En effet, la fonction essentielle et permanente du syndicat est l'entretien et la conservation de l'immeuble dans le cadre des mandats que lui donne l'assemblée générale des copropriétaires. Ainsi, le syndicat de copropriétaires se trouve dans la même situation d'un consommateur dans ses rapports avec ses fournisseurs et prestataires de services ordinaires. La jurisprudence de la Cour de cassation est constante au regard de l'application de l'article L. 136-1 du code de la consommation aux syndicats de copropriétaires, lorsque le texte en cause vise, à côté du consommateur, le non-professionnel.
