@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709443
+
+- Question : [SEQ090709443](seq090709443.md) — Agrément des fédérations de chasseurs au titre de la protection de l'environnement
+
+## Réponse
+
+*Écologie, JO du 2009-12-17, page 2949*
+
+Dans le cadre de l'examen de la proposition de loi sur l'amélioration et la simplification du droit de la chasse, la commission des affaires économiques du Sénat avait confirmé en mai 2008 le très fort attachement des différents groupes politiques à la reconnaissance officielle du rôle majeur joué par les chasseurs en faveur de l'équilibre des milieux naturels et des écosystèmes. À cet effet, elle avait proposé, dans l'article 10 de la proposition de loi précitée, que la Fédération nationale des chasseurs et les fédérations départementales de chasseurs aient la qualité d'associations agréées, au titre de la protection de l'environnement, en application de l'article L. 141-1 du code de l'environnement. Au cours des débats, l'amendement n° 2 rectifié bis par M. Pastor et les membres du groupe socialiste, ainsi rédigé : « La fédération nationale et les fédérations départementales sont éligibles à l'agrément mentionné au premier alinéa. », a été adopté par les sénateurs, avec l'aval du rapporteur. Le représentant du Gouvernement, M. Falco, a pu préciser que 81 fédérations départementales de chasseurs avaient déjà reçu cet agrément. L'amendement voté par le Sénat a été adopté par l'Assemblée nationale le 18 décembre 2008. Ainsi, l'agrément dont peuvent bénéficier la Fédération nationale et les fédérations départementales des chasseurs est un agrément motivé de l'autorité administrative. Il s'agit d'un alignement sur le droit commun, qui constitue une reconnaissance des activités que les fédérations de chasseurs peuvent mener en matière d'environnement. Cet agrément repose sur une habilitation législative, ainsi opposable en cas de contestation.
