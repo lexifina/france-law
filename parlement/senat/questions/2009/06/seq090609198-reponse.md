@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609198
+
+- Question : [SEQ090609198](seq090609198.md) — Articles 15 et 16 de la loi du 19 décembre 2008 relative à la législation funéraire
+
+## Réponse
+
+*Intérieur, JO du 2009-12-17, page 2960*
+
+La « personne ayant qualité pour pourvoir aux funérailles » est une notion utilisée à plusieurs reprises dans le code général des collectivités territoriales et que la jurisprudence est venue préciser. À défaut d'expression de ses dernières volontés, désignant nommément la personne chargée des obsèques, on entend par « personne ayant qualité pour pourvoir aux funérailles » toute personne qui, par le lien stable et permanent qui l'unissait à la personne défunte, peut être présumée la meilleure interprète des volontés du défunt. Il s'agit, en règle générale, d'un proche parent (conjoint survivant, père et mère, enfants, collatéraux les plus proches) que la loi ne peut déterminer a priori. La contestation sur les conditions des funérailles relèvent de la compétence du juge judiciaire. En application de l'article L. 2223-18-3 du code général des collectivités territoriales, issu de l'article 16 de la loi sur la législation funéraire du 19 décembre 2008, la dispersion de cendres en pleine nature doit être déclarée à la mairie du lieu de naissance du défunt par la personne ayant qualité pour pourvoir aux funérailles. Il est souhaitable que cette déclaration soit effectuée à la suite des opérations de dispersion, dans les quelques jours qui suivent. Enfin, s'agissant des urnes funéraires déposées à domicile avant l'entrée en vigueur de la loi, celles-ci peuvent y demeurer mais il est possible à tout moment de les ramener dans le cimetière communal (inhumation dans une sépulture, dépôt dans un columbarium) ou de disperser les cendres, dans le respect des volontés éventuellement exprimées par le défunt.
