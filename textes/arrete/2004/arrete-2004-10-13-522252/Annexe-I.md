@@ -10,7 +10,9 @@ L'installation doit être implantée, réalisée et exploitée conformément aux
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, doit être portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration (référence : art. 31 du décret du 21 septembre 1977).
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle. C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de fabrication de produits pharmaceutiques donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % pour les installations dont la consommation de solvant est supérieure à 50 tonnes par an. (Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement.)
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3. Contenu de la déclaration
 
@@ -88,7 +90,7 @@ Sans préjudice des dispositions du code du travail, les locaux doivent être co
 
 2.7. Installations électriques
 
-Les installations électriques doivent être réalisées conformément au décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail (Titre III : hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+Les installations électriques doivent être réalisées conformément au décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail (Titre III : hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
 
 2.8. Mise à la terre des équipements
 
@@ -118,7 +120,7 @@ Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduai
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 2.12. Aménagement des locaux
 
@@ -212,9 +214,7 @@ Les canalisations électriques ne doivent pas être une cause possible d'inflamm
 
 Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
 
-4.6. "Permis d'intervention" - "Permis de feu"
-
-dans les parties de l'installation visées au point 4.3.
+4.6. "Permis d'intervention" - "Permis de feu" dans les parties de l'installation visées au point 4.3.
 
 Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un "permis d'intervention" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
 
@@ -240,7 +240,7 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
-- les modalités de mise en oeuvre des dispositifs de confinement prévues au point 2.11.
+- les modalités de mise en œuvre des dispositifs de confinement prévues au point 2.11.
 
 4.8. Consignes d'exploitation
 
@@ -622,17 +622,13 @@ Xylènol (sauf 2,4-xylénol)
 
 En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/m³ ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/m³, exprimée en carbone total, s'impose à l'ensemble des composés.
 
-6.2.2.2.4 Substances à phrases de risque R. 45, R. 46,
-
-R. 49, R. 60, R. 61 et halogénés étiquetés R. 40
+6.2.2.2.4 Substances à phrases de risque R. 45, R. 46, R. 49, R. 60, R. 61 et halogénés étiquetés R. 40
 
 Les substances ou préparations auxquelles sont attribuées ou sur lesquelles doivent être apposées, les phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins nocives. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée, si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite ci-dessus se rapporte à la somme massique des différents composés.
 
 Pour les émissions des composés organiques volatils halogénés étiquetés R. 40, une valeur limite d'émission de 20 mg/m³ est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-6.2.2.2.5. Cas particuliers : consommation annuelle
-
-de solvant supérieure à 50 tonnes
+6.2.2.2.5. Cas particuliers : consommation annuelle de solvant supérieure à 50 tonnes
 
 Si la consommation de solvants organiques est supérieure à 50 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 20 mg/m³.
 
@@ -646,17 +642,15 @@ Les dispositions ci-dessus ne s'appliquent pas si les émissions totales annuell
 
 - pour les installations existantes, inférieures ou égales à 15 % de la quantité annuelle totale de solvants utilisés.
 
-6.2.2.3. Mise en oeuvre d'un schéma de maîtrise
-
-des émissions de COV
+6.2.2.3. Mise en œuvre d'un schéma de maîtrise des émissions de COV
 
 Les valeurs limites d'émissions canalisées et diffuses relatives aux COV définies aux points 6.2.2.2.1 et 6.2.2.2.5 ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
 Un tel schéma garantit que le flux total d'émissions de COV de l'installation ne dépasse pas le flux qui serait atteint par une application stricte des valeurs limites d'émission canalisées et diffuses définies dans le présent arrêté.
 
-Le schéma est élaboré à partir d'un niveau d'émission de référence (cf. note 5) de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en oeuvre sur l'installation.
+Le schéma est élaboré à partir d'un niveau d'émission de référence (cf. note 5) de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en œuvre sur l'installation.
 
-Les installations ou parties d'installations, dans lesquelles sont notamment mises en oeuvre une ou plusieurs des substances visées aux points 6.2.2.2.3 et 6.2.2.2.4 ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points 6.2.2.2.3 et 6.2.2.2.4 reste néanmoins soumise au respect des valeurs limites prévues aux 6.2.2.2.3 et 6.2.2.2.4.
+Les installations ou parties d'installations, dans lesquelles sont notamment mises en œuvre une ou plusieurs des substances visées aux points 6.2.2.2.3 et 6.2.2.2.4 ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points 6.2.2.2.3 et 6.2.2.2.4 reste néanmoins soumise au respect des valeurs limites prévues aux 6.2.2.2.3 et 6.2.2.2.4.
 
 6.2.3. Odeurs
 

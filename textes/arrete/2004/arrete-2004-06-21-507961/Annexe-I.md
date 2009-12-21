@@ -10,7 +10,9 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration (référence : article 31 du décret du 21 septembre 1977).
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle. C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de nettoyage de surface donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % dans le cas général ou à 25 % lorsque la consommation de solvant de l'installation est comprise entre 1 et 5 tonnes par an. (Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement).
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3. Contenu de la déclaration
 
@@ -200,7 +202,7 @@ Ces matériels sont maintenus en bon état et vérifiés au moins une fois par a
 
 4.3. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosphères explosives ou émanations toxiques). Ce risque est signalé.
 
@@ -438,7 +440,7 @@ Les substances ou préparations auxquelles sont attribuées, ou sur lesquelles s
 
 Pour les émissions des composés organiques volatils halogénés étiquetés R. 40 ou R. 68, une valeur limite d'émission de 20 mg/m3 est imposée si le flux horaire maximal de l'ensemble de l'installation, émis sous forme canalisée et diffuse, est supérieur ou égal à 100 g/h. Cette valeur limite s'applique à chaque rejet canalisé et à la somme massique des différents composés.
 
-VI. - Mise en oeuvre d'un schéma de maîtrise des émissions de COV.
+VI. - Mise en œuvre d'un schéma de maîtrise des émissions de COV.
 
 Les valeurs limites d'émissions relatives aux COV définies au paragraphe II, 1er tiret ci-dessus, ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
@@ -634,25 +636,17 @@ Les émissions sonores émises par l'installation ne doivent pas être à l'orig
 
 NIVEAU DE BRUIT
 
-ambiant existant
+ambiant existant dans les zones
 
-dans les zones
+à émergence réglementée
 
-à émergence
-
-réglementée
-
-(incluant le bruit
-
-de l'installation)
+(incluant le bruit de l'installation)
 
 |
 
-EMERGENCE
+ÉMERGENCE
 
-admissible
-
-pour la période
+admissible pour la période
 
 allant de 7 h à 22 h,
 
@@ -662,7 +656,7 @@ et jours fériés
 
 |
 
-EMERGENCE
+ÉMERGENCE
 
 admissible
 
@@ -734,6 +728,6 @@ NOTA :
 
 (1) Un dispositif de refroidissement par pulvérisation d'eau dans un flux d'air.
 
-(2) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique no 2564, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(2) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2564, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
 
-(3) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique no 2564, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(3) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2564, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

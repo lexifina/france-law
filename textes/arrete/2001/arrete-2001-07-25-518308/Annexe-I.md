@@ -10,7 +10,9 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration (référence : article 31 du décret du 21 septembre 1977).
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle.C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de revêtement du cuir donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % dans le cas général ou à 25 % pour les installations dont la consommation de solvant est comprise entre 10 et 25 tonnes par an. (Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement.)
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3 (cf. note 1) (*)
 
@@ -356,7 +358,7 @@ Hydrocarbures totaux (NFT 90-114) : 10 mg/l si le flux est supérieur à 100 g/j
 
 Métaux totaux (NFT 90-112) (*) : 15 mg/l si le flux est supérieur à 100 g/j.
 
-La désulfuration et la déchromation des effluents sont mises en oeuvre en tant que de besoin.
+La désulfuration et la déchromation des effluents sont mises en œuvre en tant que de besoin.
 
 (*) Pour les AOX et les métaux, il pourra être réglementé par polluant spécifique à l'activité lorsque celui-ci est déterminé.
 
@@ -624,15 +626,11 @@ Les émissions sonores émises par l'installation ne sont pas à l'origine, dans
 
 NIVEAU DE BRUIT
 
-ambiant
-
-existant dans les zones
+ambiant existant dans les zones
 
 à émergence réglementée
 
-(incluant le bruit
-
-de l'installation)
+(incluant le bruit de l'installation)
 
 |
 
@@ -640,9 +638,7 @@ de l'installation)
 
 pour la période allant
 
-de 7 h à 22 h,
-
-sauf dimanches
+de 7 h à 22 h, sauf dimanches
 
 et jours fériés
 

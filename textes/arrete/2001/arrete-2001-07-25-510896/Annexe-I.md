@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 2360 "Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux" .
+Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 2360 "Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux".
 
 1. Dispositions générales
 
@@ -10,7 +10,9 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration. (référence : article 31 du décret du 21 septembre 1977).
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle.C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de fabrication de chaussures donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % dans le cas général ou à 25 % pour les installations dont la consommation de solvant est comprise entre 5 et 10 tonnes par an. (Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement.)
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3. (*)
 
@@ -30,7 +32,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les documents prévus aux points 3.5, 3.6, 4.3, 4.7, 4.8, 5.1, 5.8, 7.4 du présent arrêté.
 
-Ce dossier est tenu à la disposition de l'inspection des installations classées
+Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -266,13 +268,13 @@ I. - DÉFINITIONS
 
 On entend par composé organique volatil (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 °kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
 
-On entend par solvant organique, tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
+On entend par solvant organique , tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
 
 On entend par consommation de solvants organiques , la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation. On entend par réutilisation , l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de réutilisation les solvants organiques récupérés qui sont évacués définitivement comme déchets.
 
 On entend par utilisation de solvants organiques , la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité.
 
-On entend par émission diffuse de COV, toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
+On entend par émission diffuse de COV , toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
 
 II. - VALEURS LIMITES D'ÉMISSION
 
@@ -418,7 +420,7 @@ Un tel schéma garantit que le flux total d'émissions de COV de l'installation 
 
 Le schéma est élaboré à partir d'un niveau d'émission de référence (cf. note 5) de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en oeuvre sur l'installation.
 
-Les installations, ou parties d'installations, dans lesquelles sont notamment mises en oeuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
+Les installations, ou parties d'installations, dans lesquelles sont notamment mises en œuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
 
 Mesure de la pollution rejetée
 
@@ -506,9 +508,7 @@ L'installation est construite, équipée et exploitée de façon telle que son f
 
 Les émissions sonores émises par l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau ci-après :
 
-NIVEAU DE BRUIT
-
-AMBIANT
+NIVEAU DE BRUIT AMBIANT
 
 existant dans les zones
 

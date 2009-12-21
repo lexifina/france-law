@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2330 "TEINTURE, IMPRESSION, APPRÊT, ENDUCTION, BLANCHIMENT ET DÉLAVAGE DE MATIÈRES TEXTILES".
+PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2330 "TEINTURE, IMPRESSION, APPRÊT, ENDUCTION, BLANCHIMENT ET DÉLAVAGE DE MATIÈRES TEXTILES"
 
 1. Dispositions générales
 
@@ -10,7 +10,9 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration (référence : article 31 du décret du 21 septembre 1977).
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle.C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de revêtement de textiles donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % dans le cas général ou à 25 % pour les installations dont la consommation de solvant est comprise entre 5 et 15 tonnes par an. (Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement.)
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3. (*)
 
@@ -264,7 +266,7 @@ a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assaini
 
 - pH (NFT 90-008) compris entre 5,5 et 8,5 (9,5 en cas de neutralisation alcaline ;
 
-- température 30 oC ;
+- température 30 °C ;
 
 - la modification de couleur du milieu récepteur, mesurée en un point représentatif de la zone de mélange ne dépasse pas 100 mg Pt/l. Après établissement d'une corrélation avec la méthode utilisant des solutions témoins de platine-cobalt, la modification de couleur peut, en tant que de besoin, également être déterminée à partir des densités optiques mesurées à trois longueurs d'ondes au moins, réparties sur l'ensemble du spectre visible et correspondant à des zones d'absorption maximale.
 
@@ -398,7 +400,7 @@ b) Composés organiques volatils (COV) :
 
 Définitions :
 
-On entend par "composé organique volatil" (COV) tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
+On entend par "composé organique volatil" (COV) tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15o kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
 
 On entend par "solvant organique" tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
 
@@ -658,23 +660,27 @@ Les émissions sonores émises par l'installation ne sont pas à l'origine, dans
 
 NIVEAU DE BRUIT
 
-ambiant existant dans les zones à émergence réglementée (incluant le bruit de l'installation)
+ambiant existant dans les zones à émergence
+
+réglementée (incluant le bruit de l'installation)
 
 |
 
 EMERGENCE ADMISSIBLE
 
-pour la période allant de
+pour la période allant
 
-7 h à 22 h,
+de 7 h à 22 h, sauf
 
-sauf dimanches et jours fériés
+dimanches et jours fériés
 
 |
 
 EMERGENCE ADMISSIBLE
 
-pour la période allant de 22 h à 7 h, ainsi que les dimanches et jours fériés
+pour la période allant de 22 h à 7 h,
+
+ainsi que les dimanches et jours fériés
 
 |
 
@@ -728,9 +734,7 @@ Une mesure du niveau de bruit et de l'émergence est effectuée au moins tous le
 
 9. Remise en état en fin d'exploitation
 
-9.1. Elimination des produits
-
-dangereux en fin d'exploitation
+9.1. Elimination des produits dangereux en fin d'exploitation
 
 En fin d'exploitation, tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées.
 
