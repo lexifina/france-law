@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107196
+
+- Question : [SEQ090107196](seq090107196.md) — Lutte antidopage
+
+## Réponse
+
+*Sports, JO du 2009-12-24, page 3029*
+
+Dans le but de renforcer l'efficacité des dispositifs de protection de la santé des sportifs et d'assurer la conformité du code du sport avec les principes du code mondial antidopage 2009, le Gouvernement a déposé le 15 mai 2009 un amendement n° 1281 au projet de loi « Hôpital, patients, santé, territoires », qui a été adopté à l'unanimité en première lecture par le Sénat le 5 juin 2009, puis par l'Assemblée nationale, le 23 juin, et en dernière lecture par le Sénat le 24 juin, afin d'autoriser le Gouvernement à prendre par ordonnances les mesures nécessaires pour modifier les dispositions du code du sport relatives à la santé des sportifs et à la lutte contre le dopage. Votée le 21 juillet 2009, après la réunion de la commission mixte paritaire, la loi n° 2009-879 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires prévoit dans son article 85 que ces ordonnances auront notamment pour objet d'assurer la conformité des dispositifs de protection de la santé des sportifs, ainsi que ceux contre le dopage et le trafic de produits dopants, avec les principes du code mondial antidopage applicable à compter du 1er janvier 2009. Le Gouvernement dispose de neuf mois suivant la publication de la loi n° 2009-879 du 21 juillet 2009, pour prendre les ordonnances prévues. Celles-ci devront être ratifiées dans un délai de trois mois à compter de leur publication par le dépôt devant le Parlement d'un projet de loi de ratification. Une ordonnance relative à la conformité des dispositions législatives du code du sport aux principes du code mondial antidopage et portant diverses dispositions relatives à la santé des sportifs est en cours d'élaboration et sera publiée dans les délais évoqués ci-dessus.
