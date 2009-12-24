@@ -2808,9 +2808,11 @@ Enseignement, animation, encadrement de l'activité visée par la mention consid
 
 (*) Normes de classement des sites itinéraires d'escalade (Fédération française de la montagne et de l'escalade / FFME) en vigueur au 17 juillet 2007.
 
-D.-Titres délivrés par le ministère chargé de la défense
+D. - Titres à finalité professionnelle
 
-INTITULÉ DU DIPLÔME
+D-1. Titres à finalité professionnelle délivrés par le ministère chargé de la défense
+
+INTITULÉ DU TITRE
 
 |
 
@@ -2858,11 +2860,43 @@ Toute activité physique ou sportive auprès de tout public, à l'exclusion des 
 
 |
 
+D-2. Titres à finalité professionnelle délivrés par la Fédération française d'équitation
+
+INTITULÉ DU TITRE
+
+|
+
+CONDITIONS D'EXERCICE
+
+|
+
+LIMITES DES CONDITIONS D'EXERCICE
+
+|
+
+Animateur poney.
+
+|
+
+Initiation au poney dans tout établissement.
+
+|
+
+Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres , ou du brevet d'Etat d'éducateur sportif du 2e degré, option équitation , ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres toutes mentions.
+
+|
+
+Accompagnateur de tourisme équestre.
+
+|
+
+Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours identifiés.
+
+|
+
 E.-Certificats de qualification délivrés par les branches professionnelles
 
-E-1. Certificats de qualification délivrés par la Commission paritaire nationale
-
-de l'emploi des entreprises équestres (CPNE-EE)
+E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
 
 INTITULÉ DU DIPLÔME
 
@@ -2888,9 +2922,7 @@ Pour les mentions " équitation public poney " et " équitation public cheval " 
 
 |
 
-E-2. Certificats de qualification délivrés par la Commission paritaire nationale
-
-emploi-formation du sport (CPNEF du sport)
+E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport)
 
 INTITULÉ DU CERTIFICAT
 
