@@ -2970,7 +2970,7 @@ Chartres
 
 |
 
-Ressort des tribunaux d'instance de Chartres et Nogent-le-Rotrou.
+Ressort des tribunaux d'instance de Chartres et de Nogent-le-Rotrou.
 
 |
 
