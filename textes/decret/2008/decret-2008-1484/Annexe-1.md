@@ -24,7 +24,7 @@ I. ― Actes portant sur les immeubles :
 
 ― prêt à usage et autre convention de jouissance ou d'occupation précaire ;
 
-― déclaration d'insaisissabilité des immeubles non professionnels de l'entrepreneur individuel (art. 1526-1 du code de commerce) ;
+― déclaration d'insaisissabilité des immeubles non professionnels de l'entrepreneur individuel (art. 1526-1 du code de commerce)(1) ;
 
 ― mainlevée d'une inscription d'hypothèque en contrepartie d'un paiement.
 
@@ -242,7 +242,7 @@ VI. ― Actions en justice :
 
 ― action par la personne chargée de la protection en nullité, rescision ou réduction, selon le cas, des actes accomplis par la personne protégée (art. 465, al. 6, du code civil) ;
 
-― tout acte de procédure qui n'emporte pas perte du droit d'action.
+― tout acte de procédure qui emporte perte du droit d'action.
 
 |
 
@@ -297,3 +297,7 @@ IX. ― Actes divers :
 ― convention d'honoraires proportionnels en toute ou partie à un résultat, indéterminés ou aléatoires.
 
 |
+
+NOTA :
+
+(1) Au lieu de "article 1526-1 du code de commerce", il convient de lire "article L. 526-1 du code de commerce".
