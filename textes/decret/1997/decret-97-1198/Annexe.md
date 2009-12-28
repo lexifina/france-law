@@ -1434,28 +1434,6 @@ Code du tourisme
 
 1 |
 
-Délivrance, modification, suspension et retrait de licences de libre
-
-prestation de services aux ressortissants d'un Etat membre de
-
-l'Union européenne.
-
-|
-
-Articles R. * 212-42, R. * 212-45 et R. * 212-47. |
-
-2 |
-
-Attribution de l'agrément national délivré à des organismes de
-
-promotion et de contrôle des meublés, représentatifs au plan national.
-
-|
-
-Article R. * 324-9. |
-
-3 |
-
 Délivrance, suspension et retrait de l'agrément national délivré à des
 
 organismes de tourisme social et familial.
@@ -1843,8 +1821,6 @@ Décision relative à la reconnaissance de qualifications professionnelles de re
 Article 11, premier et deuxième alinéa
 
 |
-
-.
 
 C.-Autres décisions
 
