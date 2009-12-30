@@ -10,6 +10,8 @@ Mesure 2.21 : Obtention et/ou maintien de la certification.
 
 Mesure 2.23 : Traçabilité des produits.
 
+Mesure 3.2.1 : production intégrée.
+
 Mesure 3.4.1 : Préservation de la qualité de l'eau, effluent de serres et forçage hors sol.
 
 Mesure 3.8.2 : Gestion environnementale des déchets.
