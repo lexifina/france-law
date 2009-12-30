@@ -636,11 +636,11 @@ T (CH) = Produits réfrigérés.
 
 U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages.
 
-E = Equidés enregistrés au sens de la directive 90 / 426 / CEE.
+E = Equidés enregistrés au sens de la directive 90/426/CEE.
 
 O = Autres animaux (y compris animaux de zoo).
 
-(1) Contrôles dans les conditions de la décision 93 / 352 / CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97 / 78 / CE du Conseil.
+(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil.
 
 (2) Produits emballés uniquement.
 
@@ -654,7 +654,7 @@ O = Autres animaux (y compris animaux de zoo).
 
 (a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
 
-(b) Cette autorisation est valable jusqu'au 31 décembre 2009.
+(b) Cette autorisation est valable jusqu'au 31 décembre 2010.
 
 (*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
