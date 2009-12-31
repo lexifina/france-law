@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508719
+
+- Question : [SEQ090508719](seq090508719.md) — Révision de la carte des zones urbaines sensibles
+
+## Réponse
+
+*Politique de la ville, JO du 2009-12-31, page 3075*
+
+À l'initiative du Parlement, le comité interministériel des villes du 20 janvier 2009 a décidé de lancer une concertation préalable à la réforme de la géographie prioritaire. Cette réforme est la conséquence de la modification, par l'article 140 de la loi de finances initiale pour 2008, de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. La liste des ZUS doit dorénavant être révisée tous les cinq ans ; la première actualisation intervenant en 2009. Parallèlement à la mission confiée à deux parlementaires, Mme la secrétaire d'État a lancé une concertation avec les acteurs de la politique de la ville tant au niveau national qu'au niveau local. Au niveau local, les préfets ont été invités par circulaire du 13 mars 2008 à organiser une concertation avec les acteurs locaux (acteurs socio-économiques, collectivités territoriales, associations...). Cette circulaire précise que le Gouvernement souhaite que cette révision de la géographie prioritaire « conduise à une plus grande concentration des moyens de l'État en faveur des quartiers défavorisés, à une meilleure mobilisation des moyens de droit commun de l'État et à un renforcement de la solidarité intercommunale ». La concertation a porté sur les principes mêmes du zonage ainsi que sur la méthode la mieux adaptée quant à la définition des périmètres des zones prioritaires. Il ne s'agit en aucun cas, à ce stade de la réflexion, de retenir les périmètres éligibles à la politique de la ville et encore moins de déterminer les conditions à remplir quant à l'attribution des moyens.
