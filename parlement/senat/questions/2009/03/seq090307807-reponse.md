@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307807
+
+- Question : [SEQ090307807](seq090307807.md) — Manuel scolaire franco-allemand
+
+## Réponse
+
+*Éducation, JO du 2009-12-31, page 3070*
+
+Conformément à notre tradition républicaine et à notre législation, la conception d'un manuel scolaire relève de l'entière liberté et responsabilité de son éditeur. Le manuel coédité en France et en Allemagne pour les classes du lycée a pour spécificité remarquable de présenter des contenus textuels et iconographiques identiques dans chacune des langues et de répondre en cela au souhait émis par le Parlement franco-allemand des jeunes réuni à l'occasion du 40e anniversaire du traité qui lie nos deux pays. Pour résoudre les questions posées par les différences structurelles et pédagogiques qui caractérisent nos systèmes éducatifs, un cahier des charges a été établi par un conseil scientifique, composé de responsables pédagogiques et d'universitaires des deux pays, a fin d'établir, en particulier, le recensement des thématiques communes à développer en lien avec nos programmes scolaires. Le second tome, destiné aux classes de première françaises et de leurs homologues allemandes, est consacré à l'histoire de l'Europe et du monde depuis le Congrès de Vienne jusqu'à 1945. Il englobe une période particulièrement conflictuelle de la relation franco-allemande dont celle de la libération de la France au cours de laquelle s'exerça la terreur SS et fut perpétré le massacre d'Oradour-sur-Glane. Fruit d'une coopération bilatérale novatrice, ce tome, comme le précédent, destiné aux classes terminales, a permis de croiser les approches historiographiques et pédagogiques ; la richesse de sa documentation et la qualité de ses textes ont été saluées par les instances les plus attentives à la justesse de l'information délivrée aux jeunes de nos deux pays.
