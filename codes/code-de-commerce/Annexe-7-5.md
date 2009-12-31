@@ -434,7 +434,7 @@ Convocation devant le président du tribunal (mandat ad hoc, conciliation : R. 6
 
 |
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire
 
 |
 
@@ -2248,7 +2248,7 @@ Pour l'application des droits forfaitaires, le nombre de salariés et le chiffre
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -2495,3 +2495,7 @@ Total...
 10 taux de base plafonné à 100 taux de base.
 
 |
+
+NOTA :
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
