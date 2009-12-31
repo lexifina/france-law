@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408280
+
+- Question : [SEQ090408280](seq090408280.md) — Cumul emploi-retraite des handicapés
+
+## Réponse
+
+*Travail, JO du 2009-12-31, page 3078*
+
+L'article 88-(I) de la loi de financement de la sécurité sociale (LFSS) pour 2009 a introduit la possibilité à compter du 1er janvier 2009 de cumuler intégralement sous certaines conditions les revenus d'une activité professionnelle avec une pension de retraite dans le régime général d'assurance vieillesse, les régimes alignés et ceux des professions libérales, des agriculteurs et des fonctionnaires (art. L. 161-22, al. 1, du code de la sécurité sociale). L'article 88-(II) de la LFSS pour 2009 a abrogé les dispositions de l'article L. 352-1 du code précité. Ainsi, le service de la pension de vieillesse substituée à une pension d'invalidité ou liquidée au titre de l'inaptitude au travail n'est plus soumis à une condition de ressources lorsque l'intéressé reprend une activité. En conséquence, les intéressés peuvent prétendre au cumul intégral entre retraites et revenus d'activité s'ils remplissent les conditions d'âge et de durée d'assurance, de cessation d'activité et de liquidation de l'ensemble de leurs pensions de retraite. À défaut, le cumul est autorisé dans les limites issues de la réforme de 2003. La situation des personnes handicapées au regard des règles de cumul d'une activité professionnelle avec une pension de retraite est donc désormais strictement identique à celle de tous les autres assurés. Enfin, dans un souci de favoriser un maintien dans l'emploi, le Gouvernement a proposé, dans le cadre du projet de loi de financement de la sécurité sociale pour 2010, une disposition qui permet de pour suivre le versement de la pension d'invalidité au-delà de soixante ans pour les personnes en activité. Cette disposition, qui a été adoptée par l'Assemblée nationale et le Sénat, permet de répondre à une demande ancienne des assurés concernés.
