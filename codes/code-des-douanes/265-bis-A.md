@@ -32,63 +32,63 @@ Année
 
 |
 
-15, 00
+15,00
 
 |
 
-11, 00
+11,00
 
 |
 
-8, 00
+8,00
 
 |
 
-2. Esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique
+2. Esters méthyliques d'huile animale ou usagée incorporés au gazole ou au fioul domestique
 
 |
 
-15, 00
+15,00
 
 |
 
-11, 00
+11 00
 
 |
 
-8, 00
+8 00
 
 |
 
-3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine agricole
+3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine agricole, sous nomenclature douanière combinée NC 220710
 
 |
 
-21, 00
+21,00
 
 |
 
-18, 00
+18,00
 
 |
 
-14, 00
+14,00
 
 |
 
-4. Alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55
+4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC 220710, incorporé aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55
 
 |
 
-21, 00
+21,00
 
 |
 
-18, 00
+18,00
 
 |
 
-14, 00
+14,00
 
 |
 
@@ -96,15 +96,15 @@ Année
 
 |
 
-15, 00
+15,00
 
 |
 
-11, 00
+11,00
 
 |
 
-8, 00
+8,00
 
 |
 
@@ -112,19 +112,19 @@ Année
 
 |
 
-21, 00
+21,00
 
 |
 
-18, 00
+18,00
 
 |
 
-14, 00
+14,00
 
 |
 
-1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure de consommation mentionnée au tableau du 1.
+1 bis. Abrogé.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
 
