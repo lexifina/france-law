@@ -360,15 +360,15 @@ Catégories CE
 
 |
 
-CARROSSERIES
+Carrosseries
 
 |
 
-ABRÉVIATIONS
+Abréviations
 
 |
 
-Tricycles à moteur (11).
+Tricycles à moteur
 
 |
 
@@ -376,7 +376,7 @@ TM
 
 |
 
-L 5e
+L. 5e
 
 |
 
@@ -402,7 +402,7 @@ TMM2
 
 |
 
-Quadricycles à moteur.
+Quadricycles à moteur
 
 |
 
@@ -410,11 +410,11 @@ QM
 
 |
 
-L 7e
+L. 7e
 
 |
 
-Quadricycles lourds à moteur affectés au transport de marchandises.
+Quadricycles lourds à moteur affectés au transport de marchandises
 
 |
 
@@ -422,7 +422,7 @@ QLOMM
 
 |
 
-Cyclomoteurs à trois roues.
+Cyclomoteurs à trois roues
 
 |
 
@@ -430,11 +430,11 @@ CYCL
 
 |
 
-L 2e
+L. 2e
 
 |
 
-Cyclomoteurs carrossés à trois roues affectés au transport de marchandises.
+Cyclomoteurs carrossés à trois roues affectés au transport de marchandises
 
 |
 
@@ -450,7 +450,7 @@ CL
 
 |
 
-Cyclomoteurs non carrossés à trois roues affectés au transport de marchandises.
+Cyclomoteurs non carrossés à trois roues affectés au transport de marchandises
 
 |
 
@@ -458,7 +458,7 @@ CLTRM
 
 |
 
-Tracteurs routiers (6).
+Tracteurs routiers (6)
 
 |
 
@@ -472,19 +472,49 @@ N1, N2 ou N3
 
 Forestier (2).
 
-Pour remorques.
-
-Pour semi-remorques.
-
-Divers (non spécifiée).
-
 |
 
 FOREST
 
+|
+
+|
+
+|
+
+|
+
+Pour remorques.
+
+|
+
 PR REM
 
+|
+
+|
+
+|
+
+|
+
+Pour semi-remorques.
+
+|
+
 PR SREM
+
+|
+
+|
+
+|
+
+|
+
+Divers (non spécifiée)
+
+|
 
 NON SPEC
 
@@ -914,21 +944,7 @@ N2 ou N3
 
 |
 
-Mêmes carrosseries que pour les camionnettes
-
-+
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Porte-engins.
+Mêmes carrosseries que pour les camionnettes + porte-engins.
 
 |
 
@@ -968,7 +984,7 @@ Mêmes carrosseries que pour les CAM.
 
 |
 
-Semi-remorques routières.
+Semi-remorques routières
 
 |
 
@@ -976,19 +992,11 @@ SREM
 
 |
 
-|
-
-Mêmes carrosseries que pour les CAM +
+O1, O2, O3 ou O4
 
 |
 
-|
-
-|
-
-|
-
-|
+Mêmes carrosseries que pour les CAM +.
 
 Avant-train routier.
 
@@ -1054,7 +1062,7 @@ TB
 
 |
 
-Remorques routières.
+Remorques routières
 
 |
 
@@ -1062,6 +1070,8 @@ REM
 
 |
 
+O1, O2, O3 ou O4
+
 |
 
 Mêmes carrosseries que pour les SREM.
@@ -1070,7 +1080,7 @@ Mêmes carrosseries que pour les SREM.
 
 |
 
-Semi-remorques pour transports combinés.
+Semi-remorques pour transports combinés
 
 |
 
@@ -1078,6 +1088,8 @@ SRTC
 
 |
 
+O1, O2, O3 ou O4
+
 |
 
 Mêmes carrosseries que pour les SREM.
@@ -1086,13 +1098,15 @@ Mêmes carrosseries que pour les SREM.
 
 |
 
-Remorques pour transports combinés.
+Remorques pour transports combinés
 
 |
 
 RETC
 
 |
+
+O1, O2, O3 ou O4
 
 |
 
@@ -1122,11 +1136,11 @@ Catégories CE
 
 |
 
-CARROSSERIES
+Carrosseries
 
 |
 
-ABRÉVIATIONS
+Abréviations
 
 |
 
@@ -1258,7 +1272,7 @@ Fourgon blindé.
 
 |
 
-FG BLIND
+G BLIND
 
 |
 
@@ -1298,7 +1312,7 @@ GRUE
 
 |
 
-M1
+M1 ou N1
 
 |
 
@@ -1346,7 +1360,7 @@ MAGASIN
 
 |
 
-N1, N2 ou N3
+M1, N1, N2 ou N3
 
 |
 
@@ -1394,7 +1408,7 @@ VOIRIE
 
 |
 
-N1, N2 ou N3
+M1, N1, N2 ou N3
 
 |
 
@@ -1442,7 +1456,7 @@ Mêmes carrosseries que pour les semi-remorques spécialisés.
 
 |
 
-(*) Catégories de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire .
+(*) Catégories de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.
 
 (2) Tracteurs ne répondant pas à la définition du tracteur agricole visée à l'article R. 311-1 du code de la route.
 
@@ -1452,7 +1466,7 @@ Mêmes carrosseries que pour les semi-remorques spécialisés.
 
 (5) Engins spéciaux de la catégorie A, prévus par l'article 9 de l'arrêté du 20 novembre 1969.
 
-(6) Bien que classés dans le groupe véhicules affectés au transport de marchandises , les conditions de circulation des tracteurs routiers sont déterminées par le genre des semi-remorques qui leur sont attelées.
+(6) Bien que classés dans le groupe véhicules affectés au transport de marchandises, les conditions de circulation des tracteurs routiers sont déterminées par le genre des semi-remorques qui leur sont attelées.
 
 (7) Cette mention est strictement réservée aux véhicules destinés à l'exportation.
 
@@ -1478,11 +1492,11 @@ Catégories CE
 
 |
 
-CARROSSERIES
+Carrosseries
 
 |
 
-ABRÉVIATIONS
+Abréviations
 
 |
 
@@ -1500,15 +1514,35 @@ T1, T2, T3 ou T4
 
 Agricole.
 
-Forestier.
-
-Divers (non spécifiée).
-
 |
 
 AGRICOLE
 
+|
+
+|
+
+|
+
+|
+
+Forestier.
+
+|
+
 FOREST
+
+|
+
+|
+
+|
+
+|
+
+Divers (non spécifiée).
+
+|
 
 NON SPEC
 
@@ -1522,7 +1556,7 @@ REA
 
 |
 
-R1, R2, R3 ou R4
+R 1, R 2, R 3 ou R 4
 
 |
 
@@ -1540,7 +1574,7 @@ SREA
 
 |
 
-S1 ou S2
+R 1, R 2, R 3 ou R 4
 
 |
 
@@ -1578,7 +1612,7 @@ MIAR
 
 |
 
-/
+S1 ou S2
 
 |
 

@@ -44,7 +44,7 @@ L'original de cette déclaration ainsi que la preuve de l'assurance du véhicule
 
 3. Conditions de circulation des véhicules sous couvert d'un certificat W garage :
 
-3.1. La circulation des véhicules ou ensembles de véhicules sous couvert d'un certificat W garage est limitée au territoire national.
+3.1. La circulation des véhicules ou ensembles de véhicules sous couvert d'un certificat W garage est limitée au territoire national, à l'exception des prototypes dont la mise au point nécessite des essais dans des pays étrangers. Dans ce dernier cas, le professionnel doit être également en possession d'une attestation des caractéristiques techniques du véhicule.
 
 Sous couvert d'un numéro W garage, un véhicule peut ne pas être conforme aux dispositions techniques du code de la route dès lors qu'il fait l'objet d'essais ou qu'il n'a pas encore été réceptionné par le service en charge des réceptions.
 

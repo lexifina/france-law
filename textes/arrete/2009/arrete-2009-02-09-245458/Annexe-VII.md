@@ -100,7 +100,7 @@ Le numéro d'immatriculation est composé de la façon suivante :
 
 - un deuxième groupe de un à trois chiffres (1 à 999) indiquant l'ordre d'immatriculation par consulat ;
 
-- le numéro du département, tel qu'il est utilisé dans les séries normales.
+- le numéro du département.
 
 Remarque : les deux derniers groupes de chiffres seront séparés par un point.
 

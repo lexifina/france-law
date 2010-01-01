@@ -130,7 +130,7 @@ Equip. Accumulat. : +... kg.
 
 Pl convoi 6 km/h maxi : ... places.
 
-Autre J2 poss. : .............
+Autre J3 poss. : .............
 
 Autre J1 poss. : .............
 
@@ -172,7 +172,9 @@ Dépannage.
 
 Transport public de personnes de moins de 10 places.
 
-(1) Combinée avec la mention Autre J2 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg .
+V max (remorque)
+
+(1) Combinée avec la mention Autre J3 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg .
 
 NOTA :
 
