@@ -1,113 +1,141 @@
 # Article Annexe I
 
-Grille des salaires minima applicable au 1er janvier 2005
+Grille de salaires minima applicable au 1er janvier 2010
 
-(En euros)
+Ouvrier employés
 
-NIVEAU |
+(En euros.)
 
-ÉCHELON |
+Niveau |
 
-SALAIRE |
+Échelon |
 
-Ouvriers employés |
-
-|
-
-|
+Salaire |
 
 I |
 
 1 |
 
-14 040 |
+16 126 |
 
 |
 
 2 |
 
-14 520 |
+16 342 |
 
 II |
 
 1 |
 
-15 420 |
+17 141 |
 
 |
 
 2 |
 
-16 560 |
+18 226 |
 
-III |
+|
 
 1 |
 
-17 160 |
+18 885 |
 
-|
+III |
 
 2 |
 
-18 240 |
-
-Agents de maîtrise |
+20 074 |
 
 |
 
-|
+3 |
+
+20 821 |
+
+Agents de maîtrise
+
+(En euros.)
+
+Niveau |
+
+Salaire |
 
 IV |
 
-|
-
-19 680 |
+21 568 |
 
 V |
 
-|
+25 282 |
 
-22 800 |
+Cadres
 
-Cadres |
+(En euros.)
 
-|
+Niveau |
 
-|
+Coefficient |
+
+salaire |
 
 VI |
 
-A (moins de 3 ans dans la fonction) |
+A |
 
-24 000 |
+26 302 |
 
 |
 
-B (plus de 3 ans dans la fonction) |
+(moins de 3 ans dans la fonction) |
 
-27 000 |
+|
+
+|
+
+B |
+
+29 590 |
+
+|
+
+(plus de 3 ans dans la fonction) |
+
+|
 
 VII |
 
-A (moins de 3 ans dans la fonction) |
+A |
 
-26 000 |
+28 493 |
 
 |
 
-B (plus de 3 ans dans la fonction) |
+(moins de 3 ans dans la fonction) |
 
-29 700 |
+|
+
+|
+
+B |
+
+32 547 |
+
+|
+
+(plus de 3 ans dans la fonction) |
+
+|
 
 VIII |
 
 |
 
-33 000 |
+36 164 |
 
 IX |
 
 |
 
-37 500 |
+41 096 |
