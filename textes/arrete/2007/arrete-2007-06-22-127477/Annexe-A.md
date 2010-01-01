@@ -10,9 +10,9 @@ PERSONNES HABILITÉES
 
 |
 
-MONTANT MAXIMUM DES MARCHÉS (1)
+MONTANT MAXIMUM
 
-|
+des marchés (1)
 
 |
 
@@ -20,13 +20,11 @@ Directions et services relevant du chef d'état-major des armées
 
 |
 
-|
-
-Direction centrale du service de santé des armées.
+Direction centrale du service de santé des armées
 
 |
 
-Directeur des approvisionnements et des établissements centraux du service de santé des armées
+Directeur des approvisionnements en produits de santé
 
 |
 
@@ -50,7 +48,7 @@ Dans les limites mentionnées en (2)
 
 |
 
-Commandants des écoles de formation et directeur de l'Ecole du Val-de-Grâce
+Commandants des écoles de formation et directeur de l'école du Val-de-Grâce
 
 |
 
@@ -82,19 +80,11 @@ Dans les limites mentionnées en (2)
 
 |
 
-Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense.
+Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Ile-de-France
-
-|
-
-Sans limitation
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Metz
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information - Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
 
 |
 
@@ -102,27 +92,11 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Lyon
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Houilles
 
 |
 
-Sans limitation
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Bordeaux
-
-|
-
-Sans limitation
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Rennes
-
-|
-
-Sans limitation
+MAPA × 100
 
 |
 
@@ -134,7 +108,7 @@ MAPA × 30
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Saint-Denis-de-la-Réunion
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Cherbourg
 
 |
 
@@ -142,67 +116,7 @@ MAPA × 1
 
 |
 
-Direction centrale du service des essences des armées.
-
-|
-
-Directeur de l'établissement administratif et technique du service des essences des armées
-
-|
-
-Sans limitation
-
-|
-
-Directeurs régionaux interarmées du service des essences des armées
-
-|
-
-MAPA × 20
-
-|
-
-Directeur de la base pétrolière interarmées
-
-|
-
-MAPA × 20
-
-|
-
-Directeurs du laboratoire du service des essences des armées
-
-|
-
-MAPA × 20
-
-|
-
-Divers.
-
-|
-
-Commandants des formations administratives et chefs des organismes administrés comme telles
-
-|
-
-MAPA × 0, 66
-
-|
-
-|
-
-Armée de terre
-
-|
-
-|
-
-Chef d'état-major de l'armée de terre.
-
-|
-
-Directeur de la section technique de l'armée de terre (3)
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Saint-Denis de La Réunion
 
 |
 
@@ -210,15 +124,23 @@ MAPA × 1
 
 |
 
-Commandants des régions terre Sud-Est et Ile-de ­ France (4)
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Soutien Bicêtre
 
 |
 
-Sans limitation
+MAPA × 0,66
 
 |
 
-Direction centrale du commissariat de l'armée de terre.
+Commandant du 8e régiment de transmissions de Suresnes
+
+|
+
+MAPA × 0,66
+
+|
+
+Direction centrale du service du commissariat des armées
 
 |
 
@@ -230,19 +152,11 @@ Sans limitation
 
 |
 
-Directeurs régionaux du commissariat
+Directeurs du commissariat en région terre
 
 |
 
 Sans limitation
-
-|
-
-Directeurs des commissariats hors métropole
-
-|
-
-MAPA × 60
 
 |
 
@@ -278,100 +192,6 @@ MAPA × 1
 
 |
 
-Direction centrale du matériel de l'armée de terre.
-
-|
-
-Directeur du service central des achats de la maintenance
-
-|
-
-Sans limitation
-
-|
-
-|
-
-Directeurs régionaux du matériel
-
-|
-
-MAPA × 45
-
-|
-
-|
-
-Directeurs régionaux adjoints du matériel
-
-|
-
-MAPA × 1, 5
-
-|
-
-|
-
-Commandants des bases de soutien des matériels
-
-|
-
-MAPA × 1
-
-|
-
-|
-
-Chefs de détachements des bases de soutien des matériels
-
-|
-
-MAPA × 1
-
-|
-
-|
-
-Chef du centre d'études et de développements informatiques du matériel de l'armée de terre
-
-|
-
-MAPA × 1
-
-|
-
-Divers.
-
-|
-
-Chef de la section géographique militaire (3)
-
-|
-
-MAPA × 1
-
-|
-
-Commandants des corps de troupes et chefs des organismes administrés comme tels
-
-|
-
-MAPA × 0, 66
-
-|
-
-|
-
-Marine
-
-|
-
-|
-
-Direction centrale du commissariat de la marine.
-
-|
-
 Chef du service technique et des marchés généraux
 
 |
@@ -380,7 +200,7 @@ Sans limitation
 
 |
 
-Directeurs locaux et directeurs adjoints
+Directeurs locaux du commissariat de la marine et directeurs adjoints
 
 |
 
@@ -396,7 +216,7 @@ MAPA × 60
 
 |
 
-Chefs des services vivres / restauration
+Chefs des services vivres/restauration
 
 |
 
@@ -404,111 +224,7 @@ MAPA × 60
 
 |
 
-Directeurs des commissariats hors métropole
-
-|
-
-MAPA × 60
-
-|
-
-Direction centrale du service de soutien de la flotte.
-
-|
-
-Directeur local du service de soutien de la flotte de Brest, directeur adjoint
-
-|
-
-MAPA × 70
-
-|
-
-Directeur local du service de soutien de la flotte de Toulon, directeur adjoint
-
-|
-
-MAPA × 70
-
-|
-
-Directeur d'antenne de soutien des Antilles
-
-|
-
-MAPA × 10
-
-|
-
-Directeur d'antenne de soutien de Nouvelle ­ Calédonie
-
-|
-
-MAPA × 10
-
-|
-
-Directeur d'antenne de soutien de Polynésie française
-
-|
-
-MAPA × 10
-
-|
-
-Directeur d'antenne de soutien de la Réunion
-
-|
-
-MAPA × 10
-
-|
-
-Direction centrale des systèmes d'information de la marine.
-
-|
-
-Directeurs régionaux et directeurs adjoints régionaux des systèmes d'information de la marine à Brest, à Toulon et à Paris
-
-|
-
-MAPA × 10
-
-|
-
-Directeur régional et directeur adjoint régional des systèmes d'information de la marine à Cherbourg
-
-|
-
-MAPA × 1
-
-|
-
-Divers.
-
-|
-
-Commandants des formations autonomes de la marine et chefs des organismes administrés comme telles
-
-|
-
-MAPA × 0, 66
-
-|
-
-|
-
-Armée de l'air
-
-|
-
-|
-
-Direction centrale du commissariat de l'air.
-
-|
-
-Directeur du service administratif
+Directeur de la structure centrale d'achat et de mandatement
 
 |
 
@@ -516,7 +232,7 @@ Sans limitation
 
 |
 
-Directeur du service logistique
+Directeur de la structure spécialisée d'achat et de mandatement
 
 |
 
@@ -532,15 +248,7 @@ MAPA × 100
 
 |
 
-Directeurs des établissements logistiques
-
-|
-
-MAPA × 30
-
-|
-
-Directeurs des commissariats hors métropole
+Directeurs du commissariat outre-mer
 
 |
 
@@ -548,19 +256,15 @@ MAPA × 60
 
 |
 
-Direction centrale du matériel de l'armée de l'air.
+Directeurs du commissariat en opération extérieure
 
 |
 
-Directeur et sous-directeur du service des marchés centralisés
+MAPA × 60
 
 |
 
-Sans limitation
-
-|
-
-Directeur, sous-directeur de l'établissement central de l'infrastructure de l'air
+Directeurs des plates-formes achats-finances
 
 |
 
@@ -568,15 +272,247 @@ Sans limitation
 
 |
 
-Directeur des établissements spéciaux
+Directeur du centre de soutien du combattant et des forces
 
 |
 
-MAPA × 30
+Sans limitation
 
 |
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
+Directeur de l'antenne navale du centre de soutien du combattant et des forces à Toulon
+
+|
+
+Sans limitation
+
+|
+
+Directeur du service spécialisé de la logistique et du transport
+
+|
+
+Sans limitation
+
+|
+
+Direction centrale du service des essences des armées
+
+|
+
+Directeur de l'établissement administratif et technique du service des essences des armées
+
+|
+
+Sans limitation
+
+|
+
+Directeurs régionaux interarmées du service des essences des armées
+
+|
+
+MAPA × 20
+
+|
+
+Directeur de la base pétrolière interarmées
+
+|
+
+MAPA × 20
+
+|
+
+Directeur du laboratoire du service des essences des armées
+
+|
+
+MAPA × 20
+
+|
+
+Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)
+
+|
+
+MAPA × 7
+
+|
+
+Divers
+
+|
+
+Commandants des formations administratives et chefs des organismes administrés comme tels (9)
+
+|
+
+MAPA × 1
+
+|
+
+Armée de terre
+
+|
+
+Chef d'état-major de l'armée de terre
+
+|
+
+Directeur de la section technique de l'armée de terre (4)
+
+|
+
+MAPA × 4
+
+|
+
+Direction centrale du matériel de l'armée de terre
+
+|
+
+Directeur du service central des achats de la maintenance
+
+|
+
+Sans limitation
+
+|
+
+Directeurs régionaux du matériel
+
+|
+
+MAPA × 45
+
+|
+
+Directeurs régionaux adjoints du matériel
+
+|
+
+MAPA × 1,5
+
+|
+
+Commandants des bases de soutien des matériels
+
+|
+
+MAPA × 1
+
+|
+
+Chefs de détachements des bases de soutien des matériels
+
+|
+
+MAPA × 1
+
+|
+
+Chef du centre d'études et de développements informatiques du matériel de l'armée de terre
+
+|
+
+MAPA × 1
+
+|
+
+Divers
+
+|
+
+Chef de la section géographique militaire (4)
+
+|
+
+MAPA ×1
+
+|
+
+Commandants des corps de troupes et chefs des organismes administrés comme tels (9)
+
+|
+
+MAPA × 0,66
+
+|
+
+Marine
+
+|
+
+Direction centrale du service de soutien de la flotte
+
+|
+
+Directeur local du service de soutien de la flotte de Brest, directeur adjoint
+
+|
+
+MAPA x 70
+
+|
+
+Directeur local du service de soutien de la flotte de Toulon, directeur adjoint
+
+|
+
+MAPA x 70
+
+|
+
+Directeur d'antenne de soutien des Antilles
+
+|
+
+MAPA x 10
+
+|
+
+Directeur d'antenne de soutien de Nouvelle-Calédonie
+
+|
+
+MAPA x 10
+
+|
+
+Directeur d'antenne de soutien de Polynésie française
+
+|
+
+MAPA x 10
+
+|
+
+Directeur d'antenne de soutien de La Réunion
+
+|
+
+MAPA x 10
+
+|
+
+Divers
+
+|
+
+Commandants des formations autonomes de la marine et chefs des organismes administrés comme tels (9)
+
+|
+
+MAPA x 0,66
+
+|
+
+Armée de l'air
+
+|
+
+Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
 |
 
@@ -584,35 +520,11 @@ Chef du service des contrats et des finances et adjoints au chef du service
 
 |
 
-MAPA × 100
+MAPA x 100
 
 |
 
-Divers.
-
-|
-
-Commandants des bases aériennes et chefs des organismes administrés comme telles
-
-|
-
-MAPA × 0, 66
-
-|
-
-|
-
-Gendarmerie nationale
-
-|
-
-|
-
-Direction générale de la gendarmerie nationale.
-
-|
-
-Commandant du centre administratif de la gendarmerie nationale
+Directeurs des structures spécialisées d'achat et de mandatement de Bordeaux-Mérignac et de Bordeaux-Beauséjour
 
 |
 
@@ -620,31 +532,59 @@ Sans limitation
 
 |
 
-Commandants de centre administratif territorial de la gendarmerie
+Service industriel de l'aéronautique
 
 |
 
-MAPA × 180 (5)
+Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en- Bugey
 
 |
 
-Commandants de région de gendarmerie et chefs des organismes administrés comme telles
+MAPA x 50
 
 |
 
-MAPA × 0, 66
+Directeur de l'atelier industriel de l'aéronautique de Bordeaux
 
 |
 
-|
-
-direction générale de l'armement
+MAPA x 50
 
 |
 
+Directeur de l'atelier industriel de l'aéronautique de Clermont- Ferrand
+
 |
 
-Direction des systèmes d'armes.
+Sans limitation
+
+|
+
+Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu
+
+|
+
+MAPA x 50
+
+|
+
+Divers
+
+|
+
+Commandants des bases aériennes et chefs des organismes administrés comme tels (9)
+
+|
+
+MAPA x 0,66
+
+|
+
+Direction générale de l'armement
+
+|
+
+Direction des opérations
 
 |
 
@@ -656,7 +596,7 @@ Sans limitation
 
 |
 
-Adjoints au chef du service centralisé des achats
+Adjoints du chef du service centralisé des achats
 
 |
 
@@ -664,115 +604,31 @@ Sans limitation
 
 |
 
-Direction des systèmes de forces et des stratégies industrielle, technologique et de coopération.
+Direction de la stratégie
 
 |
 
-Chef du service des recherches et technologies de défense et de sécurité
+Directeur du centre d'analyse technico-opérationnelle de défense
 
 |
 
-Sans limitation
+MAPA x 50
 
 |
 
-Directeur du centre d'analyse de défense
+Directeur du centre d'information et de documentation de l'armement
 
 |
 
-MAPA × 50
+MAPA x 50
 
 |
 
-Directeur du centre de documentation de l'armement
+Direction technique
 
 |
 
-MAPA × 50
-
-|
-
-Direction de l'expertise technique.
-
-|
-
-Directeur du centre d'expertise parisien
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre d'études de Gramat
-
-|
-
-MAPA × 50
-
-|
-
-Directeur de l'établissement technique d'Angers
-
-|
-
-MAPA × 50
-
-|
-
-Directeur de l'établissement technique de Bourges
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre électronique de l'armement
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre technique des systèmes navals
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du groupe d'études sous-marines de l'Atlantique
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du laboratoire de recherches balistiques et aérodynamiques
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre du Bouchet
-
-|
-
-MAPA × 50
-
-|
-
-Direction des essais.
-
-|
-
-Chef du service centralisé des achats et du soutien
+Chef du service centralisé des achats techniques
 
 |
 
@@ -780,151 +636,27 @@ Sans limitation
 
 |
 
-Directeur du centre d'essais en vol
+Directeur de DGA Ingénierie des projets
 
 |
 
-MAPA × 50
+MAPA x 50
 
 |
 
-Adjoint au directeur du centre d'essais en vol, chef de la base d'essais d'Istres
+Directeurs des centres d'expertise et d'essais
 
 |
 
-MAPA × 20
+MAPA x 50
 
 |
 
-Adjoint au directeur du centre d'essais en vol, chef de la base d'essais de Cazaux
+Secrétariat général pour l'administration
 
 |
 
-MAPA × 20
-
-|
-
-Adjoint au directeur du centre d'essais en vol, chef de bases d'essais de Toulouse
-
-|
-
-MAPA × 20
-
-|
-
-Directeur du centre d'essais des propulseurs
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre d'achèvement et d'essais des propulseurs et engins
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre d'essais aéronautique de Toulouse
-
-|
-
-MAPA × 50
-
-|
-
-Directeur du centre d'essais de lancement de missiles
-
-|
-
-MAPA × 50
-
-|
-
-Adjoint au directeur du centre d'essais de lancement de missiles, chef du site des Landes.
-
-|
-
-MAPA × 20
-
-|
-
-Adjoint au directeur du centre d'essais de lancement de missiles, chef du site de la Méditerranée
-
-|
-
-MAPA × 20
-
-|
-
-Directeur du bassin d'essais des carènes
-
-|
-
-MAPA × 50
-
-|
-
-Direction des plans, du budget et de la gestion.
-
-|
-
-Directeur de l'établissement central de soutien
-
-|
-
-Sans limitation
-
-|
-
-Sous-directeur de l'établissement central de soutien en charge des achats
-
-|
-
-MAPA × 100
-
-|
-
-Service de la maintenance aéronautique.
-
-|
-
-Directeur de l'atelier industriel de l'aéronautique de Bordeaux
-
-|
-
-MAPA × 50
-
-|
-
-Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand
-
-|
-
-Sans limitation
-
-|
-
-Directeur de l'atelier industriel de Cuers-Pierrefeu
-
-|
-
-MAPA × 50
-
-|
-
-|
-
-Secrétaire général pour l'administration
-
-|
-
-|
-
-Direction du service national.
+Direction du service national
 
 |
 
@@ -932,29 +664,19 @@ Directeurs interrégionaux et adjoints de ces directeurs
 
 |
 
-MAPA × 10
+MAPA x 10
 
 |
 
-|
-
-Directeurs d'établissements et adjoints de ces directeurs |
-
-MAPA × 10 |
-
-Direction des statuts, des pensions et de la réinsertion sociale.
+Directeurs d'établissements et adjoints de ces directeurs
 
 |
 
-Chef du service des ressortissants du département ministériel chargé des anciens combattants et victimes de guerre qui résident à l'étranger
+MAPA x 10
 
 |
 
-MAPA × 3
-
-|
-
-Service d'infrastructure de la défense.
+Service d'infrastructure de la défense
 
 |
 
@@ -962,81 +684,57 @@ Directeur du service technique des bâtiments, fortifications et travaux
 
 |
 
-Sans limitation (6)
+MAPA x 70 (6)
 
-MAPA × 70 (7)
-
-MAPA × 15 (8)
+MAPA x 15 (7)
 
 |
 
-Directeur du service technique, des travaux immobiliers et maritimes
+Directeurs régionaux du service d'infrastructure de la défense
 
 |
 
-Sans limitation (6)
+Sans limitation (5)
 
-MAPA × 70 (7)
+MAPA x 120 (6)
 
-MAPA × 15 (8)
-
-|
-
-Directeur régional du service d'infrastructure de la défense Ile-de-France
+MAPA x 40 (7)
 
 |
 
-MAPA × 30 (7)
-
-MAPA × 40 (8)
+Directeur d'infrastructure de la défense de Cherbourg
 
 |
 
-Directeurs régionaux du génie
+Sans limitation (5)
+
+MAPA x 120 (6)
+
+MAPA x 40 (7)
 
 |
 
-MAPA × 30 (7)
-
-MAPA × 40 (8)
+Directeurs d'établissements d'infrastructure de la défense
 
 |
 
-Directeurs locaux des travaux maritimes
+Sans limitation (5)
+
+MAPA x 70 (6)
+
+MAPA x 30 (7)
 
 |
 
-Sans limitation (6)
-
-MAPA × 120 (7)
-
-MAPA × 40 (8)
+Directeurs des directions d'infrastructure de la défense outre mer, à Dakar et à Djibouti
 
 |
 
-Directeurs d'établissements du génie
+Sans limitation (5)
 
-|
+MAPA x 70 (6)
 
-Sans limitation (6)
-
-MAPA × 70 (7)
-
-MAPA × 30 (8)
-
-|
-
-Directeurs des directions de travaux d'outre-mer, de Djibouti, de Dakar
-
-|
-
-Sans limitation (6)
-
-MAPA × 70 (7)
-
-MAPA × 30 (8)
-
-|
+MAPA x 30 (7)
 
 |
 
@@ -1044,33 +742,31 @@ Divers
 
 |
 
-|
-
-Ministère chargé de l'équipement.
+Ministère chargé de l'équipement
 
 |
 
-Directeurs départementaux de l'équipement (9)
+Directeurs départementaux de l'équipement (8)
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
-Chefs des services spéciaux des bases aériennes (9)
+Directeur du service national d'ingénierie aéroportuaire (8)
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
-Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (9)
+Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (8)
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
@@ -1078,7 +774,7 @@ Directeur du service technique de l'aviation civile
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
@@ -1086,7 +782,7 @@ Directeur des services de la navigation aérienne
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
@@ -1094,26 +790,28 @@ Directeur du centre d'études techniques maritimes et fluviales
 
 |
 
-Sans limitation (6) (7) (8)
+Sans limitation (5) (6) (7)
 
 |
 
-(1) L'expression MAPA × s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
+(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
 
 (2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée.
 
-(3) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire.
+(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger.
 
-(4) En application du décret n° 2007-275 du 1er mars 2007 portant dérogation à certaines dispositions relatives à l'organisation du commandement de la région terre Sud-Est et de la région terre Ile-de-France, cette délégation est consentie jusqu'au 31 décembre 2008 aux commandants de région terre territorialement compétents. Cette délégation s'étend jusqu'au 31 décembre 2008 aux marchés et accords ­ cadres passés par le commandant de la région terre Ile-de-France au profit des organismes implantés outre-mer et à l'étranger.
+(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire.
 
-(5) Lorsque les commandants de centre administratif territorial de la gendarmerie agissent dans le cadre de l'article 7 du code des marchés publics, la délégation est accordée sans limite de seuil.
+(5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
-(6) Délégation limitée aux marchés et accords-cadres se référant au cahier des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
+(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG.
 
-(7) Délégation limitée aux marchés se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG.
+(7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(8) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi no 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
+(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air , du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre , en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
-(9) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
+(9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction.
+
+Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.
 
 |
