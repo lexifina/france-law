@@ -27,3 +27,13 @@ h) Dans des procédés de fabrication pour autant que le produit fini ne contien
 i) Dans la fabrication d'un composant qui n'est pas soumis à l'impôt en application des dispositions du présent titre.
 
 III. - Les opérateurs qui veulent bénéficier des exonérations prévues au I et au II ou qui veulent se livrer au commerce des alcools totalement dénaturés mentionnés au a du I doivent en faire préalablement déclaration à l'administration selon des modalités fixées par décret.
+
+IV. - Sont exonérés des droits mentionnés aux articles 575 et 575 E bis les tabacs manufacturés :
+
+a) Dénaturés, utilisés pour des usages industriels ou horticoles ;
+
+b) Détruits sous la surveillance des services des douanes et droits indirects ;
+
+c) Exclusivement destinés à des tests scientifiques ou à des tests en relation avec la qualité des produits.
+
+Les opérateurs qui veulent bénéficier des exonérations prévues au présent IV doivent en faire préalablement la demande auprès du directeur régional des douanes et droits indirects territorialement compétent.

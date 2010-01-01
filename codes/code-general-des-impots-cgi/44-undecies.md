@@ -1,6 +1,6 @@
 # Article 44 undecies
 
-I.-1. Les entreprises qui participent à un projet de recherche et de développement et sont implantées dans une zone de recherche et de développement, tels que mentionnés au I de l'article 24 de la loi de finances pour 2005 (n° 2004-1484 du 30 décembre 2004), sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices qu'elles y réalisent au titre des trois premiers exercices ou périodes d'imposition bénéficiaires, cette période d'exonération totale des bénéfices réalisés ne pouvant excéder trente-six mois.
+I.-1. Les entreprises qui participent, au 16 novembre 2009, à un projet de recherche et de développement et sont implantées dans une zone de recherche et de développement, tels que mentionnés au I de l'article 24 de la loi de finances pour 2005 (n° 2004-1484 du 30 décembre 2004), sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices qu'elles y réalisent au titre des trois premiers exercices ou périodes d'imposition bénéficiaires, cette période d'exonération totale des bénéfices réalisés ne pouvant excéder trente-six mois.
 
 Les bénéfices réalisés au titre des deux exercices ou périodes d'imposition bénéficiaires suivant cette période d'exonération ne sont soumis à l'impôt sur le revenu ou l'impôt sur les sociétés que pour la moitié de leur montant.
 
@@ -23,7 +23,3 @@ c. Les produits de créances et d'opérations financières pour le montant qui e
 III.-Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies,44 sexies A,44 octies,44 decies,244 quater E ou du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois qui suivent celui de la délimitation des pôles de compétitivité si elle y exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début d'activité.L'option est irrévocable.
 
 IV.-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
-
-NOTA :
-
-Loi n° 2007-1824 du 25 décembre 2007 Finances rectificative pour 2007 art. 45 : Dispositions applicables aux avantages octroyés à compter du 1er janvier 2007.

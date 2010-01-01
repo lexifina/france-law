@@ -202,7 +202,7 @@ Tonne
 
 |
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A ou au B du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0, 50 € par tonne en 2009, 0, 60 € par tonne en 2010 et 2011, 0, 70 € par tonne en 2012, 0, 80 € par tonne en 2013, 0, 90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
 
@@ -395,6 +395,14 @@ Tonne
 Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0, 50 € par tonne en 2009 et 2010, 0, 80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
+
+Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz à plus de 75 % et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant une performance énergétique de niveau élevé et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au titre de laquelle la taxe est due
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -630,15 +638,43 @@ Exploitation au cours d'une année civile (tarifs de base) :
 
 |
 
-Imprimés papiers émis à destination des utilisateurs finaux.
+Imprimés papiers émis à destination des utilisateurs finaux
 
 |
 
-Kg
+Kilogramme
 
 |
 
-0, 91
+0,12
+
+|
+
+Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte d'utilisateurs finaux
+
+|
+
+Kilogramme
+
+|
+
+2010
+
+|
+
+0,06
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+0,12
 
 |
 
@@ -654,7 +690,7 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par installation.
 
-3. Le montant minimal annuel de la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 450 € par redevable.
+3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000 kilogrammes.
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 
@@ -665,7 +701,3 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur.
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 50 tonnes par an.
-
-NOTA :
-
-Les modifications induites par le 1° du I de l'article 39 de la loi n° 2006-1771 du 30 décembre 2006 entrent en vigueur à compter du 1er juillet 2007.
