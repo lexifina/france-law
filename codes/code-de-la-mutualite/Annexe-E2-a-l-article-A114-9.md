@@ -2,7 +2,13 @@
 
 Etat E 2 - Cotisations et prestations
 
-MONTANTS EN MILLIERS D'EUROS
+Les mutuelles et unions établissent un état E2 "Cotisations et prestations" selon le modèle ci-après :
+
+Les montants sont arrondis au millier d'euros le plus proche et exprimés en milliers d'euros.
+
+RISQUES ET
+
+engagements
 
 |
 
@@ -10,17 +16,15 @@ OPÉRATIONS DIRECTES EN FRANCE
 
 |
 
-TOTAUX
+Collectives
+
+à adhésion obligatoire
 
 |
 
-|
+Collectives
 
-Collectives à adhésion obligatoire
-
-|
-
-Collectives à adhésion facultative
+à adhésion facultative
 
 |
 
@@ -28,7 +32,7 @@ Individuelles
 
 |
 
-|
+Total
 
 |
 
@@ -61,10 +65,6 @@ Cotisations
 |
 
 Prestations
-
-|
-
-01
 
 |
 
@@ -72,7 +72,7 @@ Frais de santé (1)(2)
 
 |
 
-|
+. |
 
 |
 
@@ -88,17 +88,11 @@ Frais de santé (1)(2)
 
 |
 
-02
+dont autres prestations liées à la santé (3)
 
 |
 
-Dont autres prestations liées à la santé (3)
-
-|
-
-|
-
-|
+. |
 
 |
 
@@ -134,11 +128,7 @@ Incapacité - invalidité (1)(2)
 
 |
 
-03
-
-|
-
-- Indemnités journalières
+- indemnités journalières
 
 |
 
@@ -158,11 +148,7 @@ Incapacité - invalidité (1)(2)
 
 |
 
-04
-
-|
-
-- Rentes d'invalidité
+- rentes d'invalidité
 
 |
 
@@ -179,10 +165,6 @@ Incapacité - invalidité (1)(2)
 |
 
 |
-
-|
-
-05
 
 |
 
@@ -206,10 +188,6 @@ Chômage (1)(2)
 
 |
 
-06
-
-|
-
 Indemnité et prime de fin de carrière
 
 |
@@ -227,10 +205,6 @@ Indemnité et prime de fin de carrière
 |
 
 |
-
-|
-
-07
 
 |
 
@@ -254,10 +228,6 @@ Retraite supplémentaire
 
 |
 
-08
-
-|
-
 Autres contrats d'épargne
 
 |
@@ -275,10 +245,6 @@ Autres contrats d'épargne
 |
 
 |
-
-|
-
-09
 
 |
 
@@ -302,9 +268,7 @@ Dépendance
 
 |
 
-|
-
-Décès
+Décès :
 
 |
 
@@ -324,11 +288,7 @@ Décès
 
 |
 
-10
-
-|
-
-Capitaux
+- capitaux
 
 |
 
@@ -348,11 +308,7 @@ Capitaux
 
 |
 
-11
-
-|
-
-Rente de conjoint survivant
+- rente de conjoint survivant
 
 |
 
@@ -372,11 +328,7 @@ Rente de conjoint survivant
 
 |
 
-12
-
-|
-
-Rente d'éducation ou d'orphelin
+- rente d'éducation ou d'orphelin
 
 |
 
@@ -393,10 +345,6 @@ Rente d'éducation ou d'orphelin
 |
 
 |
-
-|
-
-13
 
 |
 
@@ -420,11 +368,7 @@ Autres risques et engagements
 
 |
 
-20
-
-|
-
-Total
+Montant total
 
 |
 
@@ -444,16 +388,10 @@ Total
 
 |
 
-(1) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C10.
+(1) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C10
 
-|
+(2) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C.
 
-(2) Prestations au sens de la ligne "4. Charges nettes de recours" du tableau C de l'état C10.
-
-|
-
-(3) Total autres prestations en espèces : selon ligne 40 de l'état E 3.
-
-|
+(3) Total autres prestations en espèces : selon ligne 23 de l'état E3
 
 |
