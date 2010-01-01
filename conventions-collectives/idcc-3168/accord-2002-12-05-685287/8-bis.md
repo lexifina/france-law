@@ -1,0 +1,63 @@
+# Article 8 bis
+
+1. Bénéficiaires et garanties maintenues
+
+En cas de cessation du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le personnel non cadre et cadre défini à l'article 2 de l'accord du 5 décembre 2002 bénéficie du maintien des garanties prévues aux articles suivants :
+
+– article 3 « Garantie décès, perte totale et irréversible d'autonomie » ;
+
+– article 4 « Garantie rente éducation » ;
+
+– article 5 « Garantie rente de conjoint » ;
+
+– article 6 « Garantie incapacité de travail » ;
+
+– article 7 « Garantie invalidité ».
+
+Le bénéfice du maintien de ces garanties est subordonné à la condition que les droits à couverture complémentaire aient été ouverts chez le dernier employeur.
+
+Le maintien de ces garanties s'effectue dans les mêmes conditions que pour les salariés en activité, sauf dispositions particulières définies ci-après et sous réserve que l'ancien salarié n'ait pas expressément renoncé à l'ensemble des garanties collectives souscrites par son employeur, qu'elles soient prévues par la convention collective nationale ou par les autres modalités de mise en place des garanties prévoyance et frais de santé définies à l'article L. 911-1 du code de la sécurité sociale. La renonciation est définitive et doit être notifiée expressément par écrit à l'ancien employeur dans les 10 jours suivant la date de cessation du contrat de travail.
+
+Le dispositif de portabilité s'applique aux cessations de contrat de travail dont la date est égale ou postérieure au 1er janvier 2010.
+
+2. Salaire de référence
+
+Le salaire de référence servant de base au calcul des prestations est celui défini au titre de l'article 8 de l'accord du 5 décembre 2002, étant précisé que la période prise en compte est celle précédant la date de cessation du contrat de travail. Pour la détermination du salaire de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes autres sommes versées à titre exceptionnel).
+
+3. Incapacité de travail
+
+L'indemnisation au titre de la garantie incapacité de travail telle que définie à l'article 6 de l'accord du 5 décembre 2002 interviendra pour tous les bénéficiaires de la portabilité à l'issue d'une franchise fixe de 45 jours par arrêt.
+
+En tout état de cause, l'indemnisation prévue ne peut conduire l'intéressé à percevoir une indemnisation supérieure au montant de l'allocation nette du régime obligatoire d'assurance chômage à laquelle il ouvre droit et qu'il aurait perçue au titre de la même période. Si l'allocation chômage n'a pas encore été versée, celle-ci sera reconstituée sur la base des conditions du régime d'assurance chômage applicables au jour de l'incapacité. Il en sera de même si la date théorique de fin de droit à l'allocation chômage survient au cours de la période d'indemnisation.
+
+4. Durée et limites de la portabilité
+
+Le maintien des garanties prend effet dès le lendemain de la date de fin du contrat de travail sous réserve d'avoir été régulièrement déclaré par l'entreprise auprès de l'organisme assureur désigné.
+
+Le maintien de garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise, appréciée en mois entiers, dans la limite de 9 mois.
+
+En tout état de cause, le maintien des garanties cesse lorsque le bénéficiaire du dispositif de portabilité reprend un autre emploi, dès qu'il ne peut plus justifier de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage, à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale, en cas de décès.
+
+La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties, qui ne sera pas prolongée d'autant.
+
+En cas de modification ou de révision des garanties des salariés en activité, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions.
+
+5. Financement de la portabilité
+
+Le maintien des garanties lié à la portabilité est financé selon le principe de la mutualisation par les salariés actifs et par les employeurs dans le cadre de la cotisation fixée à l'article 9 de l'accord du 5 décembre 2002, modifié en dernier lieu par l'avenant du 17 octobre 2008, étendu par arrêté du 10 juillet 2009 (Journal officiel du 18 juillet 2009).
+
+Une période d'observation de 12 mois à compter de la date d'effet du présent avenant (1er janvier 2010) est prévue.A l'issue de ce délai, lors de la présentation annuelle des résultats du régime, un bilan d'application du dispositif de portabilité sera établi et il sera statué sur la poursuite des modalités de financement.
+
+Les organismes désignés à l'article 10 de l'accord du 5 décembre 2002 établiront un suivi technique spécifique de la charge de la portabilité.
+
+6. Changement d'organisme assureur
+
+En cas de changement d'organisme assureur :
+
+– les prestations en cours seront maintenues par le précédent organisme assureur ;
+
+– les bénéficiaires du dispositif de portabilité relevant des présentes stipulations seront affiliés dans les mêmes conditions que les salariés en activité auprès du nouvel organisme assureur.
+
+7. Révision du dispositif de portabilité
+
+Le contenu du présent avenant est susceptible d'évoluer en fonction des modifications éventuelles de l'article 14 de l'accord national interprofessionnel du 11 janvier 2008 par ses signataires. Ces modifications seront constatées par voie d'avenant.
