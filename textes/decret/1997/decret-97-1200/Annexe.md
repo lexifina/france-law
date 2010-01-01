@@ -190,27 +190,55 @@ Désignation de l'expert prévu pour l'application des articles 5, 11 ou 16 de l
 
 |
 
-Décret n° 78-67 du 16 janvier 1978 modifié pris pour l'application de la loi du 3 janvier 1977 sur l'architecture
+Décret n° 2009-1490 du 2 décembre 2009 relatif à la reconnaissance des qualifications professionnelles pour l’exercice de la profession d’architecte
 
 1
 
 |
 
-Reconnaissance des diplômes, certificats ou autres titres d'architecture délivrés dans les Etats non membres de la Communauté européenne.
+Reconnaissance des qualifications professionnelles des personnes physiques ressortissantes des Etats membres de la Communauté européenne ou d’un autre Etat membre de l’Espace économique européen pour l’exercice de la profession d’architecte en France.
 
 |
 
-Article 2.
+Article 5.
 
 |
 
-2 |
-
-Reconnaissance de qualification, en vue de l’inscription en France à un tableau régional d’architectes, des personnes physiques titulaires de diplômes, certificats et autres titres délivrés par un Etat tiers lorsque ces diplômes, certificats et autres titres ont été reconnus dans un Etat membre de la Communauté européenne et permettent d’y exercer légalement la profession d’architecte.
+2
 
 |
 
-Article 5-1. |
+Reconnaissance des références professionnelles des personnes physiques ressortissantes des Etats membres de la Communauté européenne ou d’un autre Etat membre de l’Espace économique européen pour l’exercice de la profession d’architecte en France.
+
+|
+
+Article 7.
+
+|
+
+3
+
+|
+
+Inscription au tableau régional d’architectes des personnes physiques ressortissantes d’Etats non membres de la Communauté européenne ou d’un autre Etat partie à l’accord sur l’Espace économique européen.
+
+|
+
+Article 15.
+
+|
+
+4
+
+|
+
+Autorisation d’un architecte non ressortissant d’un Etat membre de la Communauté européenne ou d’un autre Etat partie à l’accord sur l’Espace économique européen à réaliser en France un projet déterminé.
+
+|
+
+Article 16.
+
+|
 
 Décret n° 83-4 du 4 janvier 1983 modifié portant application de l'article 89 de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle
 
