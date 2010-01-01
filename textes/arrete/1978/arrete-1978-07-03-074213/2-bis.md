@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
+II. - En application de l'article R. 351-22-1, les plafonds de loyers mentionnés à l'article R. 351-17-3 sont fixés comme suit :
 
 ZONE
 
@@ -30,23 +30,23 @@ PERSONNE SEULE
 
 COUPLE SANS PERSONNE
 
-à charge (en euros)
+à charge
+
+(en euros)
 
 |
 
-PERSONNE SEULE
+PERSONNE SEULE OU COUPLE
 
-ou couple
+ayant une personne à charge
 
-ayant une personne
-
-à charge (en euros)
+(en euros)
 
 |
 
-PAR PERSONNE
+PAR PERSONNE À CHARGE
 
-à charge supplémentaire
+supplémentaire
 
 (en euros)
 
@@ -56,19 +56,19 @@ I
 
 |
 
-278, 06
+278, 95
 
 |
 
-335, 36
+336, 43
 
 |
 
-379, 03
+380, 24
 
 |
 
-54, 97
+55, 15
 
 |
 
@@ -76,19 +76,19 @@ II
 
 |
 
-242, 33
+243, 11
 
 |
 
-296, 62
+297, 57
 
 |
 
-333, 77
+334, 84
 
 |
 
-48, 57
+48, 73
 
 |
 
@@ -96,19 +96,19 @@ III
 
 |
 
-227, 13
+227, 86
 
 |
 
-275, 35
+276, 23
 
 |
 
-308, 72
+309, 71
 
 |
 
-44, 25
+44, 39
 
 |
 

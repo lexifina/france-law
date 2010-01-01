@@ -8,11 +8,13 @@ dans laquelle :
 
 TF représente un taux fonction de la taille de la famille donné par le tableau suivant :
 
-BÉNÉFICIAIRE
+BÉNÉFICIAIRES
 
 |
 
-TF (en pourcentage)
+TF
+
+(en pourcentage)
 
 |
 
@@ -20,7 +22,7 @@ Personne seule
 
 |
 
-2, 83
+2,83
 
 |
 
@@ -28,31 +30,31 @@ Couple sans personne à charge
 
 |
 
-3, 15
+3,15
 
 |
 
-Personne seule ou couple ayant une personne à charge
+Personne seule ou couple avec une personne à charge
 
 |
 
-2, 70
+2,70
 
 |
 
-Personne seule ou couple ayant deux personnes à charge
+Personne seule ou couple avec deux personnes à charge
 
 |
 
-2, 38
+2,38
 
 |
 
-Personne seule ou couple ayant trois personnes à charge
+Personne seule ou couple avec trois personnes à charge
 
 |
 
-2, 01
+2,01
 
 |
 
@@ -60,21 +62,21 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-1, 85
+1,85
 
 |
 
-Par personne supplémentaire à charge
+Par personne à charge supplémentaire
 
 |
 
--0, 06
+-0,06
 
 |
 
 TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
 
-BÉNÉFICIAIRE
+BENEFICIAIRE
 
 |
 
@@ -88,7 +90,7 @@ Personne seule
 
 |
 
-242, 33
+243,11
 
 |
 
@@ -96,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-296, 62
+297,57
 
 |
 
@@ -104,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-333, 77
+334,84
 
 |
 
@@ -112,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-48, 57
+48,73
 
 |
 
