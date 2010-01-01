@@ -1,6 +1,8 @@
 # Article Annexe à l'article R1422-4
 
-TABLEAU A
+TABLEAU B
+
+EN VIGUEUR AU 1er JANVIER 2010
 
 SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
@@ -62,7 +64,7 @@ Cahors
 
 |
 
-Ressort du tribunal de grande instance de Cahors
+Ressort du tribunal de grande instance de Cahors.
 
 |
 
@@ -874,7 +876,7 @@ Aix-les-Bains
 
 |
 
-Ressort du tribunal d'instance d'Aix-les-Bains.
+Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne.
 
 |
 
@@ -886,7 +888,7 @@ Chambéry
 
 |
 
-Ressort du tribunal d'instance de Chambéry.
+Ressort du tribunal d'instance de Chambéry, à l'exception des cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne.
 
 |
 
@@ -964,7 +966,7 @@ Haguenau
 
 |
 
-Ressort des tribunaux d'instance d'Haguenau et Wissembourg.
+Ressort du tribunal d'instance d'Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim.
 
 |
 
@@ -976,7 +978,7 @@ Schiltigheim
 
 |
 
-Ressort des tribunaux d'instance de Brumath et Schiltigheim.
+Ressort du tribunal d'instance de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim.
 
 |
 
@@ -1254,7 +1256,7 @@ Béthune
 
 |
 
-Ressort des tribunaux d'instance de Béthune et Houdain.
+Ressort du tribunal d'instance de Béthune.
 
 |
 
@@ -1266,7 +1268,7 @@ Lens
 
 |
 
-Ressort des tribunaux d'instance de Carvin, Lens et Liévin.
+Ressort du tribunal d'instance de Lens.
 
 |
 
@@ -1342,7 +1344,7 @@ Montélimar
 
 |
 
-Ressort des tribunaux d'instance de Montélimar et Nyons.
+Ressort du tribunal d'instance de Montélimar.
 
 |
 
@@ -1354,7 +1356,7 @@ Valence
 
 |
 
-Ressort des tribunaux d'instance de Die, Romans-sur-Isère et Valence.
+Ressort des tribunaux d'instance de Romans-sur-Isère et Valence.
 
 |
 
@@ -1726,7 +1728,7 @@ Montpellier
 
 |
 
-Ressort des tribunaux d'instance de Lodève et Montpellier.
+Ressort du tribunal d'instance de Montpellier.
 
 |
 
@@ -1739,8 +1741,6 @@ Sète
 |
 
 Ressort du tribunal d'instance de Sète.
-
-|
 
 |
 
@@ -1870,7 +1870,7 @@ Annonay
 
 |
 
-Ressort du tribunal d'instance de Tournon-sur-Rhône.
+Ressort du tribunal d'instance d'Annonay.
 
 |
 
@@ -1882,7 +1882,7 @@ Aubenas
 
 |
 
-Ressort des tribunaux d'instance de Largentière et Privas.
+Ressort des tribunaux d'instance d'Aubenas et Privas.
 
 |
 
@@ -2132,7 +2132,7 @@ Créteil
 
 |
 
-Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés, Villejuif et Vincennes, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly.
+Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly et de l'emprise de l'aérodrome de Paris-Orly.
 
 |
 
@@ -2144,7 +2144,7 @@ Villeneuve-Saint-Georges
 
 |
 
-Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly.
+Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly et l'emprise de l'aérodrome de Paris-Orly.
 
 |
 
@@ -2446,7 +2446,7 @@ Châlons-en-Champagne
 
 |
 
-Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François.
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne.
 
 |
 
@@ -2458,7 +2458,7 @@ Epernay
 
 |
 
-Ressort du tribunal d'instance d'Epernay.
+Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne.
 
 |
 
@@ -2798,7 +2798,7 @@ Evreux
 
 |
 
-Ressort du tribunal d'instance d'Evreux.
+Ressort du tribunal d'instance d'Evreux, à l'exception des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.
 
 |
 
@@ -2810,7 +2810,7 @@ Louviers
 
 |
 
-Ressort des tribunaux d'instance des Andelys et Louviers.
+Ressort du tribunal d'instance des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.
 
 |
 
@@ -2970,7 +2970,7 @@ Chartres
 
 |
 
-Ressort des tribunaux d'instance de Chartres et de Nogent-le-Rotrou.
+Ressort du tribunal d'instance de Chartres, à l'exception des cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce.
 
 |
 
@@ -2982,7 +2982,7 @@ Châteaudun
 
 |
 
-Ressort du tribunal d'instance de Châteaudun.
+Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce.
 
 |
 
@@ -3022,7 +3022,7 @@ Nanterre
 
 |
 
-Ressort des tribunaux d'instance d'Asnières-sur-Seine, Clichy, Colombes, Courbevoie, Levallois-Perret, Neuilly-sur-Seine et Puteaux.
+Ressort des tribunaux d'instance d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux.
 
 |
 
@@ -3050,7 +3050,7 @@ Montmorency
 
 |
 
-Ressort des tribunaux d'instance d'Ecouen, Gonesse et Montmorency.
+Ressort des tribunaux d'instance de Gonesse et Montmorency.
 
 |
 

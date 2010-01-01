@@ -1,6 +1,6 @@
 # Article Annexe Paris à Vaucluse
 
-Préfecture de Paris
+Préfecture de la région d'Ile-de-France, préfecture de Paris
 
 FONCTIONS EXERCEES
 
@@ -262,7 +262,7 @@ par emploi
 
 |
 
-Chef du bureau "mission politique de la ville" au service de l'habitat
+Chef du bureau " mission politique de la ville " au service de l'habitat
 
 |
 
@@ -314,7 +314,7 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-Chef de la mission "politique de la ville"
+Chef de la mission " politique de la ville "
 
 |
 
@@ -570,21 +570,19 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Tarn
+Direction départementale des territoires du Tarn
 
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
+FONCTIONS EXERCÉES
 
 |
 
-NOMBRE
+NIVEAU DE QUALIFICATION
 
-d'emplois
+de l'emploi
+
+|
+
+NOMBRE D'EMPLOIS
 
 |
 
@@ -594,7 +592,7 @@ par emploi
 
 |
 
-Chef du bureau aides au logement
+Chef du bureau logement social public
 
 |
 
@@ -610,7 +608,7 @@ A
 
 |
 
-Chef du bureau études générales de l'habitat
+Chargé des observatoires des territoires, dont l'observatoire du logement
 
 |
 
@@ -626,7 +624,29 @@ A
 
 |
 
-Collaborateur du chef du bureau aide au logement
+Direction départementale de la cohésion sociale et de la protection des populations du Tarn
+
+FONCTIONS EXERCÉES
+
+|
+
+NIVEAU DE QUALIFICATION
+
+de l'emploi
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chargé des accords collectifs et du droit au logement opposable
 
 |
 
@@ -642,7 +662,7 @@ B
 
 |
 
-Collaborateur du chef du bureau aide au logement
+Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions
 
 |
 

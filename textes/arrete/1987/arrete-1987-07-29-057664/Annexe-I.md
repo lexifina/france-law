@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLUS)
+Plafonds de ressources annuelles (revenu fiscal de référence) prévus aux articles L. 441-3, R. 331-12 et R. 441-1 (1°) du code de la construction et de l'habitation applicables aux logements autres que ceux mentionnés au II de l'article R. 331-1 du CCH (plus)
 
 CATÉGORIE
 
@@ -18,9 +18,9 @@ et communes limitrophes
 
 ILE-DE-FRANCE
 
-hors Paris et
+hors Paris
 
-communes limitrophes
+et communes limitrophes
 
 (en euros)
 
@@ -36,15 +36,15 @@ AUTRES RÉGIONS
 
 |
 
-21 802
+21 872
 
 |
 
-21 802
+21 872
 
 |
 
-18 955
+19 016
 
 |
 
@@ -52,15 +52,15 @@ AUTRES RÉGIONS
 
 |
 
-32 584
+32 688
 
 |
 
-32 584
+32 688
 
 |
 
-25 313
+25 394
 
 |
 
@@ -68,15 +68,15 @@ AUTRES RÉGIONS
 
 |
 
-42 715
+42 852
 
 |
 
-39 170
+39 295
 
 |
 
-30 441
+30 538
 
 |
 
@@ -84,15 +84,15 @@ AUTRES RÉGIONS
 
 |
 
-50 999
+51 162
 
 |
 
-46 917
+47 067
 
 |
 
-36 748
+36 866
 
 |
 
@@ -100,15 +100,15 @@ AUTRES RÉGIONS
 
 |
 
-60 678
+60 872
 
 |
 
-55 541
+55 719
 
 |
 
-43 231
+43 369
 
 |
 
@@ -116,15 +116,15 @@ AUTRES RÉGIONS
 
 |
 
-68 279
+68 497
 
 |
 
-62 500
+62 700
 
 |
 
-48 720
+48 876
 
 |
 
@@ -132,14 +132,14 @@ Par personne supplémentaire
 
 |
 
-7 607
+7 631
 
 |
 
-6 964
+6 986
 
 |
 
-5 435
+5 452
 
 |

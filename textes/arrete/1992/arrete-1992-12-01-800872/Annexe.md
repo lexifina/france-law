@@ -1,10 +1,8 @@
 # Article Annexe
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DES EMPLOIS
 
-justifiant de l'obtention
-
-de la nouvelle bonification indiciaire
+justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
@@ -12,9 +10,9 @@ NIVEAU DE L'EMPLOI
 
 justifiant de l'obtention
 
-de la nouvelle bonification
+de la nouvelle
 
-indiciaire
+bonification indiciaire
 
 |
 
@@ -41,8 +39,6 @@ A
 |
 
 2
-
-1 (5)
 
 |
 
@@ -154,13 +150,7 @@ A
 
 |
 
-52
-
-54 (3)
-
-55 (4)
-
-57 (5)
+56
 
 |
 
@@ -177,8 +167,6 @@ A
 |
 
 2
-
-1 (3)
 
 |
 
@@ -210,7 +198,7 @@ B
 
 |
 
-3
+4
 
 |
 
@@ -218,7 +206,7 @@ B
 
 |
 
-Développeur d'applications sur Info Service
+Développeur d'applications sur INFO SERVICE
 
 |
 
@@ -234,7 +222,7 @@ B
 
 |
 
-Développeur micro informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement
+Développeur microinformatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement
 
 |
 
@@ -250,7 +238,7 @@ B
 
 |
 
-Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissances bancaires ou des marchés financiers
+Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers
 
 |
 
@@ -290,7 +278,7 @@ B
 
 |
 
-4
+3
 
 |
 
@@ -314,7 +302,7 @@ B
 
 |
 
-Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du Comité social du groupe
 
 |
 
@@ -338,7 +326,7 @@ B
 
 |
 
-2
+1
 
 |
 
@@ -346,7 +334,7 @@ B
 
 |
 
-Technicien des opérations post-marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires
+Technicien des opérations post marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires
 
 |
 
@@ -354,7 +342,7 @@ B
 
 |
 
-38
+39
 
 |
 
@@ -378,7 +366,7 @@ B
 
 |
 
-Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier
+Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier (2)
 
 |
 
@@ -386,7 +374,7 @@ B
 
 |
 
-19
+21
 
 |
 
@@ -450,7 +438,7 @@ B
 
 |
 
-5
+6
 
 |
 
@@ -458,7 +446,7 @@ B
 
 |
 
-Gestionnaire de plusieurs systèmes d'information..
+Gestionnaire de plusieurs systèmes d'information
 
 |
 
@@ -466,7 +454,7 @@ B
 
 |
 
-36
+35
 
 |
 
@@ -474,7 +462,7 @@ B
 
 |
 
-Assistant de direction
+Assistant de direction (2)
 
 |
 
@@ -498,7 +486,7 @@ B
 
 |
 
-39
+38
 
 |
 
@@ -570,7 +558,7 @@ B
 
 |
 
-Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral
+Responsable de la gestion de l'Encouragement à la prévoyance individuelle (EPI) au niveau fédéral
 
 |
 
@@ -594,9 +582,7 @@ B
 
 |
 
-8
-
-10 (4)
+10
 
 |
 
@@ -620,7 +606,7 @@ B
 
 |
 
-Responsable du standard de Paris....
+Responsable du standard de Paris
 
 |
 
@@ -684,7 +670,7 @@ B
 
 |
 
-Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral
+Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral (1)
 
 |
 
@@ -692,7 +678,7 @@ B
 
 |
 
-24
+22
 
 |
 
@@ -772,11 +758,7 @@ B
 
 |
 
-95
-
-94 (3)
-
-90 (4)
+88
 
 |
 
@@ -784,7 +766,7 @@ B
 
 |
 
-Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraite de Bordeaux
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux
 
 |
 
@@ -800,7 +782,7 @@ B
 
 |
 
-Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux
+Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux
 
 |
 
@@ -840,20 +822,16 @@ C
 
 |
 
-9
-
-8 (2)
+8
 
 |
 
-15 |
+15
 
-(1) A compter du 1er janvier 2009
+|
 
-(2) A compter du 1er février 2009
+(1) A compter du 1er avril 2010.
 
-(3) A compter du 1er mars 2009
+(2) A compter du 1er juin 2010.
 
-(4) A compter du 1er avril 2009
-
-(5) A compter du 1er mai 2009
+|

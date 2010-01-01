@@ -358,7 +358,7 @@ Articles
 
 8.06 Accouplements des convois poussés.
 
-8.07 Liaison phonique à bord des convois.
+8.07 Liaison phonique à bord des convois et des bâtiments dont la longueur dépasse 110,00 m
 
 8.08 Circulation de personnes à bord des convois poussés.
 
@@ -445,3 +445,7 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 Annexe 11 : (sans objet).
 
 Annexe 12 : (sans objet).
+
+NOTA :
+
+Conformément à la décision CM-I-9-7.1-1 du 5 juin 2009, les amendements aux articles 8.01, 1.10 et 8.07 du RPNM entrent en vigueur au 1er janvier 2010. Les prescriptions encore valables au 1er janvier 2010 seront abrogées à cette date.

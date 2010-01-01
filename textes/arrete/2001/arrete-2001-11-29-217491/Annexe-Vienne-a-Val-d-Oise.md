@@ -40,9 +40,13 @@ A
 
 |
 
-Direction départementale de l'équipement de la Haute-Vienne
+Direction départementale des territoires de la Haute-Vienne
 
-FONCTIONS EXERCEES
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-VIENNE
+
+|
+
+FONCTIONS EXERCÉES
 
 |
 
@@ -52,35 +56,17 @@ de qualification de l'emploi
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS (IM)
+NOMBRE DE POINTS
 
-par emploi
-
-|
-
-Chef du service urbanisme et habitat
+(IM) par emploi
 
 |
 
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de la cellule politiques territoriales de l'Etat
+Chef de l'unité rénovation urbaine habitat
 
 |
 
@@ -96,7 +82,23 @@ A
 
 |
 
-Chargé d'études politiques contractuelles
+Chef du pôle terrioriale urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chargé d'animation méthode-conseil développement durable
 
 |
 
@@ -112,7 +114,7 @@ B
 
 |
 
-Secrétaire politiques contractuelles de l'Etat
+Secrétaire habitat logement
 
 |
 

@@ -128,7 +128,7 @@ A
 
 |
 
-Chef de la cellule politique de l'habitat
+Chef du service habitat, logement, ville
 
 |
 
