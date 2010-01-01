@@ -66,45 +66,47 @@ pays
 
 SUPPLÉMENT
 
-avion |
+avion (en euros)
+
+|
 
 Actualité et dossier en santé publique. |
 
 4 |
 
-14,10 |
+15,00 |
 
-13,81 |
+14,69 |
 
-43,50 |
+45,00 |
 
-46,80 |
+48,80 |
 
-47,20 |
+48,80 |
 
-48,50 |
+51,20 |
 
-5,30 |
+5,60 |
 
 Archéopages. |
 
 4 |
 
-20,00 |
+21,00 |
 
-18,96 |
-
-75,00 |
+19,91 |
 
 77,00 |
 
-76,77 |
+79,00 |
 
-78,67 |
+78,30 |
 
-12,80 |
+81,00 |
 
-Archéopages (tarif étudiants et enseignants). |
+13,00 |
+
+Archéopages (étudiants et enseignants). |
 
 4 |
 
@@ -112,7 +114,7 @@ Archéopages (tarif étudiants et enseignants). |
 
 |
 
-56,00 |
+57,00 |
 
 |
 
@@ -121,24 +123,6 @@ Archéopages (tarif étudiants et enseignants). |
 |
 
 |
-
-Bulletin de documentation de l'environnement. |
-
-5 |
-
-9,90 |
-
-9,70 |
-
-42,50 |
-
-49,30 |
-
-49,80 |
-
-56,20 |
-
-13,60 |
 
 Bulletin épidémiologique de l'AFSSA. |
 
@@ -148,71 +132,49 @@ Bulletin épidémiologique de l'AFSSA. |
 
 |
 
-26,20 |
+27,00 |
 
-27,80 |
+28,80 |
 
-26,50 |
+27,00 |
 
-28,15 |
+29,10 |
 
-4,15 |
-
-Bulletin officiel de l'AFSSA. |
-
-2 |
-
-34,00 |
-
-32,23 |
-
-76,30 |
-
-77,50 |
-
-79,00 |
-
-81,10 |
-
-15,55 |
+4,30 |
 
 Cahiers de la sécurité. |
 
 4 |
 
-18,90 |
+22,00 |
 
-17,91 |
+20,85 |
 
-60,50 |
+65,00 |
 
-63,00 |
+69,90 |
 
-66,10 |
+69,90 |
 
-69,20 |
+74,00 |
 
-13,10 |
+13,70 |
 
 Cahiers de l'IAURIF. |
 
 4 |
 
-36
+18 et 30 |
 
-et 60 |
+17,06 et 28,44 |
 
-34,12
+72,00 |
 
-et 56,87 |
+84,00 |
 
-87,00 |
+84,00 |
 
-98,00 |
-
-87,00 |
-
-98,00 |
+84,00 |
 
 |
 
@@ -220,23 +182,19 @@ Cahiers des Amériques latines. |
 
 3 |
 
-16,80
+17,50 et 26 |
 
-et 26 |
+16,59 et 24,64 |
 
-15,92
-
-et 24,64 |
-
-44,00 |
-
-47,80 |
+45,80 |
 
 49,80 |
 
-53,90 |
+51,00 |
 
-10,95 |
+55,90 |
+
+11,50 |
 
 Cahiers français. |
 
@@ -248,15 +206,15 @@ Cahiers français. |
 
 49,50 |
 
-57,00 |
+57,50 |
 
-56,30 |
+56,50 |
 
-64,50 |
+64,90 |
 
 13,00 |
 
-Cahiers français (tarif étudiants et enseignants). |
+Cahiers français (étudiants et enseignants). |
 
 6 |
 
@@ -264,7 +222,7 @@ Cahiers français (tarif étudiants et enseignants). |
 
 |
 
-45,00 |
+41,00 |
 
 |
 
@@ -276,35 +234,31 @@ Cahiers français (tarif étudiants et enseignants). |
 
 Concurrence et consommation. |
 
-6 |
+4 |
 
 10,50 |
 
 10,28 |
 
-51,00 |
+35,00 |
 
-53,20 |
+35,80 |
 
-54,70 |
+37,00 |
 
-56,20 |
+37,80 |
 
-7,90 |
+6,30 |
 
-Courrier des pays de l'Est (téléchargement). |
+Concurrence et consommation téléchargement. |
 
-6 |
+4 |
 
-10
+5,50 |
 
-et 14,30 |
+4,60 |
 
-8,36
-
-et 11,96 |
-
-54,00 |
+28,00 |
 
 |
 
@@ -316,21 +270,21 @@ et 11,96 |
 
 Courrier juridique des finances et de l'industrie. |
 
-6 |
+4 |
 
-10,00 |
+10,20 |
 
-9,48 |
+9,67 |
 
-44,00 |
+30,00 |
 
-46,00 |
+31,50 |
 
-45,00 |
+30,50 |
 
-47,90 |
+32,60 |
 
-13,20 |
+8,90 |
 
 Courrier juridique des finances et de l'industrie (téléchargement). |
 
@@ -340,43 +294,7 @@ Courrier juridique des finances et de l'industrie (téléchargement). |
 
 6,69 |
 
-33,00 |
-
-|
-
-|
-
-|
-
-|
-
-Cultures Sud/Notre librairie. |
-
-4 |
-
-12,50 |
-
-11,85 |
-
-43,50 |
-
-46,00 |
-
-39,00 |
-
-49,00 |
-
-10,00 |
-
-Culture Sud/Notre librairie (téléchargement). |
-
-4 |
-
-9,10 |
-
-7,61 |
-
-30,00 |
+22,50 |
 
 |
 
@@ -390,17 +308,17 @@ Dossier documentation photographique. |
 
 6 |
 
-10,80 |
+11,00 |
 
-10,24 |
+10,43 |
 
-51,00 |
+51,50 |
 
-59,00 |
+60,00 |
 
-60,80 |
+61,00 |
 
-67,30 |
+68,00 |
 
 13,15 |
 
@@ -408,17 +326,17 @@ Projetables documentation photographique. |
 
 6 |
 
-9,70 |
+10,00 |
 
-9,19 |
+9,48 |
 
-50,00 |
+50,50 |
 
-58,00 |
+59,00 |
 
-58,20 |
+58,50 |
 
-64,70 |
+65,40 |
 
 13,15 |
 
@@ -426,17 +344,17 @@ Dossier + projetables documentation photographique. |
 
 6 |
 
-20,50 |
+21,00 |
 
-19,43 |
+19,91 |
 
-101,00 |
-
-117,00 |
+102,00 |
 
 119,00 |
 
-132,00 |
+119,50 |
+
+133,40 |
 
 26,30 |
 
@@ -444,37 +362,37 @@ Economie et prévision. |
 
 5 |
 
-13,80 |
+14,30 |
 
-13,52 |
+14,01 |
 
-56,80 |
+58,00 |
 
-68,60 |
+69,50 |
 
-69,20 |
+70,10 |
 
-78,90 |
+80,55 |
 
-20,30 |
+20,80 |
 
 Economie internationale. |
 
 4 |
 
-20,00 |
+20,30 |
 
-19,59 |
+19,88 |
 
-69,00 |
+70,00 |
 
-72,20 |
+73,20 |
 
-73,00 |
+74,00 |
 
-76,40 |
+77,30 |
 
-10,00 |
+10,10 |
 
 Les études de la Documentation française. |
 
@@ -484,13 +402,13 @@ Les études de la Documentation française. |
 
 19,50
 
-et 25,50 |
+et 24,00 |
 
 13,74,
 
 18,48
 
-et 24,17 |
+et 22,75 |
 
 164,00 |
 
@@ -506,23 +424,61 @@ Formation emploi + numéros spéciaux. |
 
 4 |
 
-16
+19,30
 
-et 20 |
+et 23,00 |
 
-15,17
+18,29
 
-et 18,96 |
+et 21,80 |
 
-56,20 |
+58,00 |
 
-59,80 |
+61,60 |
 
-60,90 |
+63,00 |
 
-64,10 |
+66,80 |
 
-9,25 |
+9,55 |
+
+Grande Europe (accès monoposte)
+
+|
+
+12 |
+
+|
+
+|
+
+45,00 |
+
+|
+
+|
+
+|
+
+|
+
+Grande Europe (accès multipostes) |
+
+12 |
+
+|
+
+|
+
+60,00 |
+
+|
+
+|
+
+|
+
+|
 
 Horizons stratégiques |
 
@@ -542,33 +498,65 @@ Horizons stratégiques |
 
 13,20 |
 
+Inflexions |
+
+3 |
+
+12,00
+
+|
+
+11,37
+
+|
+
+30,00
+
+|
+
+33,00
+
+|
+
+31,70
+
+|
+
+32,50
+
+|
+
+6,25
+
+|
+
 Informations administratives et juridiques. |
 
 12 |
 
-17,00 |
+18,50 |
 
-16,65 |
+18,12 |
 
-164,00 |
+171,00 |
 
-167,00 |
+174,00 |
 
-167,80 |
+172,50 |
 
-176,20 |
+184,00 |
 
-20,60 |
+21,40 |
 
 Informations administratives et juridiques (téléchargement). |
 
 12 |
 
-13,50 |
+14,00 |
 
-11,29 |
+11,71 |
 
-127,00 |
+131,00 |
 
 |
 
@@ -586,57 +574,91 @@ Lettre du CEPII. |
 
 |
 
-49,50 |
+60,00 |
 
-51,30 |
+62,00 |
 
-50,20 |
+60,80 |
 
-51,20 |
+61,90 |
 
 0,90 |
 
-Politique étrangère de la France. |
+Politique étrangère (Institutions). |
 
-2 |
+4 |
 
-22,00 |
+20,00 |
 
-19,39 |
+19,59 |
 
-30,00 |
+115,00 |
 
-39,00 |
+145,00 |
 
-33,60 |
+142,00 |
 
-36,80 |
+149,00 |
 
-15,40 |
+6,30 |
 
-Premières informations premières synthèses. |
+Politique étrangère (particuliers). |
 
-52 |
+4 |
+
+|
+
+|
+
+75,00 |
+
+115,00
+
+|
+
+112,60
+
+|
+
+115,00
+
+|
+
+6,30
+
+|
+
+Politique étrangère (étudiants et enseignants). |
+
+4 |
 
 |
 
 |
 
-124,00 |
+68,00 |
 
-131,00 |
+70,00
 
-129,50 |
+|
 
-133,60 |
+68,60
 
-8,20 |
+|
+
+68,60
+
+|
+
+6,30
+
+|
 
 Problèmes économiques. |
 
 24 |
 
-4,7
+4,70
 
 et 6,80 |
 
@@ -652,9 +674,9 @@ et 6,66 |
 
 117,80 |
 
-19,00 |
+19,30 |
 
-Problèmes économiques (tarif étudiants et enseignants). |
+Problèmes économiques (étudiants et enseignants). |
 
 24 |
 
@@ -662,7 +684,7 @@ Problèmes économiques (tarif étudiants et enseignants). |
 
 |
 
-53,00 |
+49,00 |
 
 |
 
@@ -688,9 +710,9 @@ Problèmes politiques et sociaux. |
 
 110,50 |
 
-18,00 |
+18,20 |
 
-Problèmes politiques et sociaux (tarif étudiants et enseignants). |
+Problèmes politiques et sociaux ( étudiants et enseignants). |
 
 12 |
 
@@ -698,7 +720,7 @@ Problèmes politiques et sociaux (tarif étudiants et enseignants). |
 
 |
 
-81,00 |
+79,00 |
 
 |
 
@@ -707,24 +729,6 @@ Problèmes politiques et sociaux (tarif étudiants et enseignants). |
 |
 
 |
-
-Propriété industrielle. |
-
-22 |
-
-8,70 |
-
-8,52 |
-
-148,00 |
-
-150,00 |
-
-151,00 |
-
-166,70 |
-
-30,70 |
 
 Questions internationales. |
 
@@ -736,15 +740,15 @@ Questions internationales. |
 
 48,00 |
 
-53,00 |
+53,90 |
 
-52,80 |
+53,50 |
 
-55,90 |
+56,60 |
 
-14,25 |
+14,30 |
 
-Questions internationales (tarif étudiants et enseignants). |
+Questions internationales (étudiants et enseignants). |
 
 6 |
 
@@ -778,9 +782,9 @@ Regards sur l'actualité. |
 
 64,90 |
 
-9,65 |
+9,75 |
 
-Regards sur l'actualité (tarif étudiants et enseignants). |
+Regards sur l'actualité (étudiants et enseignants). |
 
 10 |
 
@@ -788,7 +792,7 @@ Regards sur l'actualité (tarif étudiants et enseignants). |
 
 |
 
-43,00 |
+41,00 |
 
 |
 
@@ -824,25 +828,25 @@ Retraite et société. |
 
 18,01 |
 
-48,00 |
+50,00 |
 
-50,90 |
+52,80 |
 
-53,00 |
+54,80 |
 
-57,10 |
+59,60 |
 
-10,70 |
+11,20 |
 
 Retraite et société (téléchargement). |
 
 3 |
 
-14,00 |
+14,50 |
 
-11,71 |
+12,12 |
 
-40,00 |
+41,00 |
 
 |
 
@@ -856,21 +860,21 @@ Revue française d'administration publique. |
 
 4 |
 
-20,80 |
+21,80 |
 
-20,37 |
+21,35 |
 
-66,00 |
+68,00 |
 
-68,50 |
+71,00 |
 
-69,00 |
+71,20 |
 
-74,50 |
+76,90 |
 
-13,45 |
+14,00 |
 
-Revue française d'administration publique (tarif étudiants et enseignants). |
+Revue française d'administration publique (étudiants et enseignants). |
 
 4 |
 
@@ -878,7 +882,7 @@ Revue française d'administration publique (tarif étudiants et enseignants). |
 
 |
 
-62,00 |
+63,00 |
 
 |
 
@@ -892,52 +896,34 @@ Revue française des affaires sociales. |
 
 4 |
 
-20,50 |
+21,50 |
 
-19,43 |
+20,38 |
 
-68,00 |
+69,50 |
 
-71,00 |
+72,20 |
 
-73,90 |
+75,20 |
 
-78,10 |
+79,80 |
 
-13,45 |
-
-Revue mensuelle de l'Autorité des marchés financiers. |
-
-11 |
-
-16,00 |
-
-15,67 |
-
-140,00 |
-
-145,00 |
-
-142,25 |
-
-148,35 |
-
-16,60 |
+13,90 |
 
 Travail et emploi. |
 
 4 |
 
-17,50 |
+18,50 |
 
-17,14 |
+18,12 |
 
-57,00 |
+59,00 |
 
-61,80 |
+64,00 |
 
-63,20 |
+65,30 |
 
-64,70 |
+67,20 |
 
-9,60 |
+10,00 |
