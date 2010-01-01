@@ -8,11 +8,11 @@ LOCALISATION
 
 |
 
-FONCTIONS
+SERVICE
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE d'emplois
 
 |
 
@@ -45,10 +45,6 @@ Chef du garage
 |
 
 1
-
-|
-
-|
 
 |
 
@@ -108,10 +104,6 @@ Chef du garage
 
 |
 
-|
-
-|
-
 Maître d'hôtel de la résidence du préfet
 
 |
@@ -125,6 +117,46 @@ Maître d'hôtel de la résidence du préfet
 |
 
 Préfecture du Bas-Rhin
+
+|
+
+Intendant de la résidence du préfet
+
+|
+
+1
+
+|
+
+69
+
+|
+
+Préfecture du Rhône
+
+|
+
+Chef du garage
+
+|
+
+1
+
+|
+
+Maître d'hôtel de la résidence du préfet
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Préfecture de la région Ile-de-France
 
 |
 
@@ -152,11 +184,35 @@ Adjoint au chef du service intérieur
 
 |
 
+87
+
+|
+
+Préfecture de la Haute-Vienne
+
+|
+
+Chef de l'équipe du service intérieur
+
+|
+
+1
+
+|
+
 93
 
 |
 
 Préfecture de la Seine-Saint-Denis
+
+|
+
+Chef de l'équipe du service intérieur
+
+|
+
+1
 
 |
 
@@ -190,11 +246,47 @@ LOCALISATION
 
 |
 
-FONCTIONS
+SERVICE
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE d'emplois
+
+|
+
+06
+
+|
+
+SGAP de la zone de défense Sud
+
+|
+
+Adjoint au chef de l'atelier du BMM (Nice)
+
+|
+
+1
+
+|
+
+13
+
+|
+
+Adjoint au chef de l'atelier mécanique (Marseille)
+
+|
+
+1
+
+|
+
+Chef de l'atelier carrosserie-peinture (Marseille)
+
+|
+
+1
 
 |
 
@@ -218,11 +310,7 @@ Adjoint au chef de l'atelier avancé de Melun
 
 |
 
-|
-
-Adjoint au chef de la section deux roues
-
-à l'atelier du Chesnay
+Adjoint au chef de la section "Deux-roues" à l'atelier du Chesnay
 
 |
 
@@ -234,9 +322,45 @@ Adjoint au chef de la section deux roues
 
 |
 
+Adjoint au chef de l'équipe "Mécanique générale" à l'atelier du Chesnay
+
+|
+
+1
+
 |
 
 Adjoint au chef de l'atelier avancé de Taverny
+
+|
+
+1
+
+|
+
+Formations administratives de la gendarmerie nationale
+
+LOCALISATION
+
+|
+
+SERVICE
+
+|
+
+NOMBRE d'emplois
+
+|
+
+29
+
+|
+
+Ecole de gendarmerie de Châteaulin
+
+|
+
+Cuisinier
 
 |
 
@@ -250,23 +374,23 @@ LOCALISATION
 
 |
 
-FONCTIONS
+SERVICE
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE d'emplois
 
 |
 
-75
+57
 
 |
 
-Direction de la programmation, des affaires financières et de l'immobilier.
+Direction de la sécurité civile
 
 |
 
-Chef de la section imprimerie reprographie au BBFAC
+Chef démineur (CID, Metz)
 
 |
 
@@ -274,11 +398,23 @@ Chef de la section imprimerie reprographie au BBFAC
 
 |
 
-|
+75
 
 |
 
-Responsable du pôle manutention au BAIAC
+Direction de la programmation, des affaires financières et de l'immobilier
+
+|
+
+Chef de la section "Imprimerie reprographie" au BBFAC
+
+|
+
+1
+
+|
+
+Responsable du pôle "Manutention" au BAIAC
 
 |
 
@@ -294,9 +430,15 @@ Préfecture de police
 
 |
 
-Adjoint opérationnel au responsable
+Adjoint opérationnel au responsable du magasin de la DOSTL
 
-du magasin de la DOSTL
+|
+
+1
+
+|
+
+Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier Nord (DOSTL)
 
 |
 
@@ -308,13 +450,27 @@ du magasin de la DOSTL
 
 |
 
-Direction générale de la police nationale.
+Direction des systèmes d'information et de communication
 
 |
 
-Responsable de la gestion des matériels
+Adjoint au responsable de la cellule exploitation de la SDES (CNPT, Limoges)
 
-à l'ECLPN (Limoges)
+|
+
+1
+
+|
+
+87
+
+|
+
+Direction générale de la police nationale
+
+|
+
+Responsable de la gestion des matériels à l'ECLPN (Limoges)
 
 |
 
