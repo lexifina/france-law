@@ -1,0 +1,27 @@
+# Article 1er
+
+L'article 2 de l'accord du 5 décembre 2002 intitulé « Bénéficiaires des garanties » est modifié comme suit :
+
+« Article 2
+
+Bénéficiaires des garanties
+
+Les bénéficiaires des garanties sont l'ensemble des salariés non cadres et cadres des entreprises qui relèvent de la présente convention collective nationale, et ce quels que soient l'ancienneté, la nature du contrat de travail et le nombre d'heures effectuées.
+
+Le droit à garanties est ouvert pour tout événement survenant pendant la durée du contrat de travail ou pendant la durée de versement d'une prestation au titre du régime mis en œuvre par le présent accord.
+
+Le non-renouvellement de la désignation de l'organisme assureur et la résiliation du contrat de prévoyance sont sans effet sur les prestations à naître au titre du maintien de garantie en cas de survenance du décès avant le terme de la période d'incapacité de travail ou d'invalidité telle que définie dans le présent accord prévoyance.
+
+La suspension du contrat de travail en cas de congés ou absences non rémunérés entraîne la suspension du droit à garanties.
+
+Toutefois, le bénéfice du régime de prévoyance est maintenu, moyennant paiement des cotisations, au profit des salariés dont le contrat de travail est suspendu :
+
+– pour congé ou absence, dès lors que pendant toute cette période il bénéficie d'un maintien total ou partiel de salaire de l'employeur ;
+
+– ou lorsque cette suspension est due à l'exercice du droit de grève ;
+
+– ou en cas d'arrêt de travail pour maladie ou accident, tant que l'intéressé perçoit des prestations en espèces de la sécurité sociale (indemnités journalières, rentes d'invalidité ou d'incapacité permanente de travail).
+
+Dès lors que le salarié bénéficie d'indemnités journalières ou de rentes d'invalidité complémentaires versées en application du présent régime de prévoyance, les garanties sont maintenues sans contrepartie des cotisations. Cependant, lorsque le salarié perçoit un salaire réduit pendant cette période d'indemnisation complémentaire, les cotisations restent dues sur la base du salaire réduit.L'exonération de cotisations cesse dès le premier jour de reprise du travail par le salarié ou dès la cessation ou la suspension du versement des prestations par l'organisme assureur désigné.
+
+Les salariés bénéficiaires d'un congé individuel de formation sont garantis au titre du décès et des rentes de conjoint et d'éducation, et ce sans contrepartie des cotisations, dès lors qu'ils ne perçoivent aucun salaire de leur employeur. »
