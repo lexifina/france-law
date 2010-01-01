@@ -1,20 +1,16 @@
 # Article Annexe
 
-PRÉFECTURES
+Préfectures
+
+LOCALISATION
 
 |
 
-|
-
-Localisation
+SERVICE
 
 |
 
-Service
-
-|
-
-Nombre d'emplois
+NOMBRE d'emplois
 
 |
 
@@ -130,11 +126,67 @@ Résidence du préfet
 
 |
 
+69
+
+|
+
+Préfecture du Rhône
+
+|
+
+Garage de la préfecture
+
+|
+
+1
+
+|
+
+Résidence du préfet
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Préfecture de la région Ile-de-France
+
+|
+
+Résidence du préfet
+
+|
+
+1
+
+|
+
 81
 
 |
 
 Préfecture du Tarn
+
+|
+
+Service intérieur
+
+|
+
+1
+
+|
+
+87
+
+|
+
+Préfecture de la Haute-Vienne
 
 |
 
@@ -162,6 +214,14 @@ Garage de la préfecture
 
 |
 
+Service intérieur
+
+|
+
+1
+
+|
+
 974
 
 |
@@ -178,21 +238,53 @@ Résidence du préfet
 
 |
 
-SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE (SGAP)
+Secrétariats généraux pour l'administration de la police (SGAP)
+
+LOCALISATION
 
 |
 
-|
-
-Localisation
+SERVICE
 
 |
 
-Service
+NOMBRE d'emplois
 
 |
 
-Nombre d'emplois
+06
+
+|
+
+SGAP de la zone de défense Sud
+
+|
+
+Atelier du BMM (Nice)
+
+|
+
+1
+
+|
+
+13
+
+|
+
+Atelier carrosserie-peinture (Marseille)
+
+|
+
+1
+
+|
+
+Atelier mécanique (Marseille)
+
+|
+
+1
 
 |
 
@@ -220,7 +312,7 @@ Atelier du Chesnay
 
 |
 
-1
+2
 
 |
 
@@ -236,21 +328,63 @@ Atelier avancé de Taverny
 
 |
 
-SERVICES DE L'ADMINISTRATION CENTRALE
+Formations administratives de la gendarmerie nationale
+
+LOCALISATION
 
 |
 
-|
-
-Localisation
+SERVICE
 
 |
 
-Service
+NOMBRE d'emplois
 
 |
 
-Nombre d'emplois
+29
+
+|
+
+Ecole de gendarmerie de Châteaulin
+
+|
+
+Service restauration
+
+|
+
+1
+
+|
+
+Services de l'administration centrale
+
+LOCALISATION
+
+|
+
+SERVICE
+
+|
+
+NOMBRE d'emplois
+
+|
+
+57
+
+|
+
+Direction de la sécurité civile
+
+|
+
+Centre interdépartemental de déminage (Metz)
+
+|
+
+1
 
 |
 
@@ -290,11 +424,23 @@ Direction opérationnelle des services techniques et logistiques
 
 |
 
-1
+2
 
 |
 
 87
+
+|
+
+Direction des systèmes d'information et de communication
+
+|
+
+Centre national de production des titres
+
+|
+
+1
 
 |
 
