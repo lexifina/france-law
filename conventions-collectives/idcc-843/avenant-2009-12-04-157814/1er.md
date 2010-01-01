@@ -1,0 +1,27 @@
+# Article 1er
+
+L'article 5 de l'avenant n° 83 est rédigé comme suit :
+
+« La cotisation mensuelle du régime “ remboursement complémentaire de frais de soins de santé ” est exprimée en pourcentage du plafond mensuel de la sécurité sociale (PMSS). Elle est fixée à 1,40 % du PMSS pour les salariés relevant du régime général et à 0,98 % du PMSS pour les salariés relevant du régime Alsace-Moselle.
+
+La cotisation sera réexaminée 1 fois par an par les parties signataires, en fonction des résultats du régime et de l'évolution des dépenses de santé et des législations et réglementations fiscales, sociales et de l'assurance maladie.
+
+En tout état de cause, au 1er janvier de chaque année, la cotisation sera indexée au minimum sur le dernier indice connu de l'évolution des dépenses de santé communiqué par les caisses nationales d'assurance maladie sauf si les résultats du régime compensent l'évolution de cet indice.
+
+La cotisation est répartie à raison de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
+
+Les cotisations sont payables trimestriellement à terme échu. Elles doivent être versées à l'organisme assureur désigné à l'article 13 du présent avenant dans le premier mois de chaque trimestre civil pour le trimestre écoulé.
+
+L'organisme assureur, en application de l'article L. 932-4 du code la sécurité sociale, procédera, le cas échéant, au recouvrement des cotisations dues par l'entreprise en cas de non-paiement dans les délais.
+
+La commission paritaire se réunit au moins 1 fois par an pour examiner les résultats du régime ainsi que toutes statistiques ou tous éléments concernant ce régime dont elle pourrait avoir besoin.
+
+L'organisme assureur a l'obligation de présenter le compte de résultats tous les ans devant la commission paritaire.
+
+Les salariés relevant de la législation arrêt de travail pour maladie, accident du travail, maladies professionnelles du régime de base de la sécurité sociale bénéficieront de la gratuité de la cotisation du présent régime frais de soins de santé après 6 mois d'arrêt de travail.
+
+Cette gratuité interviendra le 1er jour du mois qui suit les 6 mois d'arrêt de travail.
+
+Toute reprise de travail ou toute cessation du contrat de travail met fin au bénéfice de la gratuité à compter du premier jour du mois qui suit la reprise d'activité ou la rupture du contrat de travail.
+
+Cependant, tout salarié qui reprend le travail moins de 6 mois après la date d'arrêt initiale conserve le bénéfice des jours d'arrêt écoulés pour le calcul de la franchise de 6 mois ouvrant droit à la gratuité, si le nouvel arrêt de travail est qualifié par la sécurité sociale de rechute de l'arrêt de travail initial. »
