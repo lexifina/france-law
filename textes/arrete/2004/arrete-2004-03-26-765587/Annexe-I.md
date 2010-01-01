@@ -1,5 +1,41 @@
 # Article Annexe I
 
-PLAFONDS DE LA PARTIE DE REDEVANCE MENSUELLE CORRESPONDANT AU DROIT DE L'ACCÉDANT À LA JOUISSANCE DU LOGEMENT FIXÉS EN APPLICATION DE L'ARTICLE R. 331-76-5-4 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION.
+PLAFONDS DE LA PARTIE DE REDEVANCE MENSUELLE CORRESPONDANT AU DROIT DE L'ACCÉDANT À LA JOUISSANCE DU LOGEMENT FIXÉS EN APPLICATION DE L'ARTICLE R. 331-76-5-4 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION
 
-(annexe non reproduite, voir JO du 27/03/2004 page 5908).
+(En euros, par mètre carré de surface utile, par mois)
+
+ZONE GÉOGRAPHIQUE
+
+|
+
+PLAFOND
+
+|
+
+A bis (*)
+
+A
+
+B1
+
+B2
+
+C
+
+|
+
+12, 38
+
+9, 52
+
+8, 20
+
+7, 86
+
+7, 31
+
+|
+
+(*) La zone A bis est constituée des communes de la zone A limitées à Paris et aux communes limitrophes.
+
+|
