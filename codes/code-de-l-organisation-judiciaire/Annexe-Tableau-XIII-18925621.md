@@ -12,179 +12,11 @@ BUREAU FONCIER
 
 |
 
+RESSORT
+
+|
+
 Cour d'appel de Colmar
-
-|
-
-Altkirch
-
-|
-
-Altkirch.
-
-|
-
-Brumath
-
-|
-
-Brumath.
-
-|
-
-Colmar
-
-|
-
-Colmar.
-
-|
-
-|
-
-Munster.
-
-|
-
-Guebwiller
-
-|
-
-Guebwiller.
-
-|
-
-Haguenau
-
-|
-
-Haguenau.
-
-|
-
-Huningue
-
-|
-
-Huningue.
-
-|
-
-Illkirch-Graffenstaden
-
-|
-
-Erstein.
-
-|
-
-|
-
-Illkirch-Graffenstaden.
-
-|
-
-Molsheim
-
-|
-
-Molsheim.
-
-|
-
-|
-
-Schirmeck.
-
-|
-
-|
-
-Wasselonne.
-
-|
-
-Mulhouse
-
-|
-
-Mulhouse.
-
-|
-
-Ribeauvillé
-
-|
-
-Kaysersberg.
-
-|
-
-|
-
-Ribeauvillé.
-
-|
-
-|
-
-Sainte-Marie-aux-Mines.
-
-|
-
-Saverne
-
-|
-
-Bouxwiller.
-
-|
-
-|
-
-Sarre-Union.
-
-|
-
-|
-
-Saverne.
-
-|
-
-Sélestat
-
-|
-
-Barr.
-
-|
-
-|
-
-Marckolsheim.
-
-|
-
-|
-
-Sélestat.
-
-|
-
-Shiltigheim
-
-|
-
-Shiltigheim.
-
-|
-
-Strasbourg
-
-|
-
-Strasbourg.
 
 |
 
@@ -192,93 +24,99 @@ Thann
 
 |
 
-Cernay.
+Thann
 
 |
 
-|
-
-Masevaux.
+Ressort du tribunal d'instance de Thann
 
 |
 
-|
-
-Saint-Amarin.
+Colmar
 
 |
 
-|
-
-Thann.
+Colmar
 
 |
 
-Wissembourg
+Ressort du tribunal d'instance de Colmar
 
 |
 
-Soultz-sous-Forêts.
+Guebwiller
 
 |
 
-|
-
-Wissembourg.
+Guebwiller
 
 |
 
-|
-
-Woerth.
+Ressort du tribunal d'instance de Guebwiller
 
 |
 
-Cour d'appel d Metz
+Haguenau
 
 |
 
-Boulay-Moselle
+Haguenau
 
 |
 
-Boulay-Moselle.
+Ressort du tribunal d'instance de Haguenau
 
 |
 
-|
-
-Bouzonville.
+Mulhouse
 
 |
 
-|
-
-Faulquemont.
+Mulhouse
 
 |
 
-Château-Salins
+Ressort du tribunal d'instance de Mulhouse
 
 |
 
-Château-Salins.
+Saverne
 
 |
 
-Forbach
+Saverne
 
 |
 
-Forbach.
+Ressort du tribunal de grande instance de Saverne
 
 |
 
-Hayange
+Sélestat
 
 |
 
-Hayange.
+Sélestat
+
+|
+
+Ressort du tribunal d'instance de Sélestat
+
+|
+
+Strasbourg
+
+|
+
+Strasbourg
+
+|
+
+Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de Strasbourg
+
+|
+
+Cour d'appel de Metz
 
 |
 
@@ -286,35 +124,11 @@ Metz
 
 |
 
-Metz.
+Metz
 
 |
 
-Saint-Avold
-
-|
-
-Morhange.
-
-|
-
-|
-
-Saint-Avold.
-
-|
-
-Sarrebourg
-
-|
-
-Phalsbourg.
-
-|
-
-|
-
-Sarrebourg.
+Ressort du tribunal de grande instance de Metz
 
 |
 
@@ -322,19 +136,11 @@ Sarreguemines
 
 |
 
-Bitche.
+Sarreguemines
 
 |
 
-|
-
-Rohrbach-lès-Bitche.
-
-|
-
-|
-
-Sarreguemines.
+Ressort du tribunal de grande instance de Sarreguemines
 
 |
 
@@ -342,6 +148,10 @@ Thionville
 
 |
 
-Thionville.
+Thionville
+
+|
+
+Ressort du tribunal de grande instance de Thionville
 
 |
