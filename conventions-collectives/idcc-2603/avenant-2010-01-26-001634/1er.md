@@ -1,0 +1,55 @@
+# Article 1er
+
+L'article 38 de la convention collective nationale de travail des praticiens-conseils du régime général de la sécurité sociale du 4 avril 2006 est ainsi rédigé.
+
+« Article 38
+
+Eléments de rémunération
+
+38. 1. Majoration de salaire
+
+Dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de La Réunion, le salaire est calculé selon les dispositions de la présente convention collective, majoré de 40 %.
+
+A titre transitoire, ce taux est fixé à 35 % pour la période courant du 1er janvier au 31 décembre 2009.
+
+Toutefois, pour les praticiens du département de La Réunion, cela ne doit pas conduire à ce que la rémunération ainsi calculée soit inférieure à un salaire majoré de 25 % auquel est appliqué l'index de correction en vigueur dans ce département, seule la solution la plus favorable devant être retenue.
+
+38. 2. Prime de transport
+
+Une indemnité mensuelle de transport, qui a pour objet d'indemniser les frais inhérents aux trajets aller-retour effectués entre le domicile et le lieu habituel de travail, est attribuée aux praticiens-conseils.
+
+Son montant et ses modalités d'attribution sont fixés par accord local.
+
+En l'absence d'accord local, le barème suivant est retenu :
+
+(En euros.)
+
+Distance aller-retour
+
+domicile-lieu habituel de travail |
+
+Montant mensuel |
+
+De 1 à 10 km |
+
+20 |
+
+Plus de 10 à 40 km |
+
+30 |
+
+Plus de 40 km |
+
+60 |
+
+Les montants ci-dessus suivent l'évolution de la valeur du point. »
+
+Article 2
+
+Modification de l'article 39 de la convention collective
+
+Le deuxième alinéa du b de l'article 39 de la convention collective nationale de travail des praticiens-conseils du régime général de la sécurité sociale du 4 avril 2006 est rédigé de la façon suivante :
+
+« Les praticiens-conseils des organismes de la sécurité sociale des départements de la Guadeloupe, de la Guyane française, de la Martinique et de La Réunion ont la possibilité de cumuler leurs congés annuels dans la limite de 15 jours par an, pendant 2 ans, afin de bénéficier la troisième année de 2 mois de congés en métropole. »
+
+Le c de l'article 39 de la convention collective nationale de travail des praticiens-conseils du régime général de la sécurité sociale du 4 avril 2006 est abrogé.
