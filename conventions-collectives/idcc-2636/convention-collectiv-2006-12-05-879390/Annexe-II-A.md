@@ -108,11 +108,15 @@ annuels
 
 EXEMPLES |
 
+Catégorie 1
+
 Niveau VI
 
 5 bis de
 
-l'éducation nationale |
+l'éducation nationale
+
+|
 
 A 13 988,85
 
@@ -126,6 +130,8 @@ E 15 153,82 |
 
 Employé de nettoyage, aide de labo, de cuisine, d'accueil, de sécurité, de reprographie. |
 
+Catégorie 2
+
 Niveau V
 
 5 bis de
@@ -134,7 +140,9 @@ l'éducation nationale
 
 ou équivalent
 
-(CAP-BEP) |
+(CAP-BEP)
+
+|
 
 A 13 988,85
 
@@ -150,11 +158,15 @@ Ouvrier qualifié, employé qualifié (de labo, de cuisine, d'entretien, de bibl
 
 Dactylo, standardiste et concierges. |
 
+Catégorie 3
+
 Niveau IV
 
 éducation nationale
 
-(BT-bac) |
+(BT-bac)
+
+|
 
 A 14 291,85
 
@@ -168,11 +180,15 @@ E 17 868,14 |
 
 Ouvrier qualifié responsable d'un secteur, secrétaire, bibliothécaire, infirmier, technicien de labo, comptable 1er échelon... |
 
+Catégorie 4
+
 Niveau III
 
 éducation nationale
 
-(BTS-DUT) |
+(BTS-DUT)
+
+|
 
 A 14 818,21
 
@@ -186,11 +202,15 @@ E 21 094,18 |
 
 Secrétaire de direction, comptable 2e échelon, assistant commercial... |
 
+Catégorie 5
+
 Niveau II
 
 éducation nationale
 
-(diplôme exigé) |
+(diplôme exigé)
+
+|
 
 A 15 427,65
 
@@ -202,9 +222,13 @@ E 21 427,13 |
 
 Agent de labo principal, assistant d'ingénieur, chef de groupe, chef d'atelier, analyste programmeur, moniteur d'enseignement (TP) documentaliste... |
 
+Catégories 6, 7, 8, 9, 10
+
 Niveau I
 
-éducation nationale |
+éducation nationale
+
+|
 
 A 19 638,33
 
