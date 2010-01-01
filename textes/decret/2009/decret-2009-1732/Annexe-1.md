@@ -1,0 +1,335 @@
+# Article Annexe 1
+
+MONTANT DE LA COMPENSATION ET POURCENTAGE DE LA COTISATION CNFPT
+
+CENTRE DE GESTION COORDONNATEURS
+
+|
+
+MONTANT
+
+(en euros)
+
+|
+
+POURCENTAGE DE LA COTISATION
+
+CNFPT
+
+|
+
+AUDE
+
+|
+
+763 605
+
+|
+
+0,249
+
+|
+
+BAS-RHIN
+
+|
+
+2 038 959
+
+|
+
+0,664
+
+|
+
+BOUCHES-DU-RHONE
+
+|
+
+1 665 838
+
+|
+
+0,542
+
+|
+
+CALVADOS
+
+|
+
+511 132
+
+|
+
+0,166
+
+|
+
+CHARENTE-MARITIME
+
+|
+
+396 967
+
+|
+
+0,129
+
+|
+
+CORSE-DU-SUD
+
+|
+
+92 327
+
+|
+
+0,030
+
+|
+
+GIRONDE
+
+|
+
+955 763
+
+|
+
+0,311
+
+|
+
+GUADELOUPE
+
+|
+
+125 583
+
+|
+
+0,041
+
+|
+
+GUYANE
+
+|
+
+51 314
+
+|
+
+0,017
+
+|
+
+HAUTE-GARONNE
+
+|
+
+906 084
+
+|
+
+0,295
+
+|
+
+HAUTE-VIENNE
+
+|
+
+163 708
+
+|
+
+0,053
+
+|
+
+ILLE-ET-VILAINE
+
+|
+
+957 179
+
+|
+
+0,312
+
+|
+
+INDRE-ET-LOIRE
+
+|
+
+619 857
+
+|
+
+0,202
+
+|
+
+LOIRE-ATLANTIQUE
+
+|
+
+1 015 791
+
+|
+
+0,331
+
+|
+
+MARTINIQUE
+
+|
+
+112 297
+
+|
+
+0,037
+
+|
+
+MAYOTTE
+
+|
+
+39 814
+
+|
+
+0,013
+
+|
+
+NORD
+
+|
+
+1 432 047
+
+|
+
+0,466
+
+|
+
+PUY-DE-DOME
+
+|
+
+393 731
+
+|
+
+0,128
+
+|
+
+REUNION
+
+|
+
+345 549
+
+|
+
+0,113
+
+|
+
+RHONE
+
+|
+
+1 703 513
+
+|
+
+0,555
+
+|
+
+SEINE-MARITIME
+
+|
+
+571 682
+
+|
+
+0,186
+
+|
+
+SOMME
+
+|
+
+597 632
+
+|
+
+0,195
+
+|
+
+CENTRES DE GESTION RÉGION ÎLE-DE-FRANCE
+
+|
+
+MONTANT
+
+(en euros)
+
+|
+
+POURCENTAGE DE LA COTISATION
+
+CNFPT
+
+|
+
+GRANDE COURONNE
+
+|
+
+1 109 617
+
+|
+
+0,361
+
+|
+
+PETITE COURONNE
+
+|
+
+2 044 204
+
+|
+
+0,666
+
+|
+
+SEINE-ET-MARNE
+
+|
+
+339 242
+
+|
+
+0,110
+
+|
