@@ -66,6 +66,8 @@ Masse maximale en charge (5).
 
 Annexe I
 
+2009/63/CE Annexe I (8)
+
 |
 
 X
@@ -95,6 +97,8 @@ Plaque d'immatriculation (5).
 74/151/CEE
 
 Annexe II
+
+2009/63/CE Annexe II (8)
 
 |
 
@@ -126,6 +130,8 @@ Réservoir de carburant.
 
 Annexe III
 
+2009/63/CE Annexe III (8)
+
 |
 
 X
@@ -155,6 +161,8 @@ Masses d'alourdissement (5).
 74/151/CEE
 
 Annexe IV
+
+2009/63/CE Annexe IV (8)
 
 |
 
@@ -186,6 +194,8 @@ Avertisseur acoustique (2) (3).
 
 Annexe V
 
+2009/63/CE Annexe V (8)
+
 |
 
 X
@@ -215,6 +225,8 @@ Niveau sonore (externe) (2) (3).
 74/151/CEE
 
 Annexe VI
+
+2009/63/CE Annexe VI (8)
 
 |
 
@@ -246,6 +258,8 @@ Vitesse maximale.
 
 Annexe, point 1
 
+2009/60/CE Annexe, point 1 (8)
+
 |
 
 X
@@ -276,6 +290,8 @@ Plates-formes de chargement.
 
 Annexe, point 2
 
+2009/60/CE Annexe, point 2 (8)
+
 |
 
 X
@@ -303,6 +319,8 @@ Rétroviseurs.
 |
 
 74/346/CEE
+
+2009/59/CE (8)
 
 |
 
@@ -362,6 +380,8 @@ Dispositif de direction (2) (3).
 
 75/321/CEE
 
+2009/66/CE (8)
+
 |
 
 X
@@ -389,6 +409,8 @@ Compatibilité électromagnétique (2) (3) (5).
 |
 
 75/322/CEE
+
+2009/64/CE (8)
 
 |
 
@@ -474,6 +496,8 @@ Niveau sonore (interne).
 
 77/311/CEE
 
+2009/76/CE (8)
+
 |
 
 X
@@ -496,11 +520,13 @@ A
 
 |
 
-Protection en cas de renversement (4).
+Protection en cas de renversement (essais dynamiques) (4).
 
 |
 
 77/536/CEE
+
+2009/57/CE (8)
 
 |
 
@@ -558,6 +584,8 @@ Installation des dispositifs d'éclairage (3).
 
 78/933/CEE
 
+2009/61/CE (8)
+
 |
 
 X
@@ -585,6 +613,8 @@ Dispositifs d'éclairage et de signalisation lumineuse (2) (3).
 |
 
 79/532/CEE
+
+2009/68/CE (8)
 
 |
 
@@ -614,6 +644,8 @@ Dispositifs de remorquage et de marche arrière.
 
 79/533/CEE
 
+2009/58/CE (8)
+
 |
 
 X
@@ -641,6 +673,8 @@ Protection en cas de renversement (essais statiques) (4).
 |
 
 79/622/CEE
+
+2009/75/CE (8)
 
 |
 
@@ -1137,6 +1171,8 @@ X
 (6) Si le constructeur se réfère à la directive 76/115/CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture.
 
 (7) Applicable à compter du 1er mai 2008 aux nouveaux types de véhicules.
+
+(8) Pour les réceptions CE par type antérieures au 1er janvier 2010, les références faites à la directive mentionnée dans la précédente version de l'arrêté du 22 novembre 2005 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
 
 x = applicable en l'état suivant dernier amendement.
 
