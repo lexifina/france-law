@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — OPH PAYS D'AIX HABITAT - OPÉRATIONS 'MISE EN PLACE DE LA TNT ET SATELLITES' ET 'RÉNOVATION DU PARC ASCENSEURS' - MODIFICATIONS DES GARANTIES D'EMPRUNTS DE LA VILLE ACCORDÉES POUR 4 PRÊTS A SOUSCRIRE AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2010-01-02
+- Séance : Conseil Municipal 2CA
+- Objet : OPH PAYS D'AIX HABITAT - OPÉRATIONS 'MISE EN PLACE DE LA TNT ET SATELLITES' ET 'RÉNOVATION DU PARC ASCENSEURS' - MODIFICATIONS DES GARANTIES D'EMPRUNTS DE LA VILLE ACCORDÉES POUR 4 PRÊTS A SOUSCRIRE AUPRÈS DE LA CAISSE DES DÉPÔTS ET CONSIGNATIONS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-1688-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
