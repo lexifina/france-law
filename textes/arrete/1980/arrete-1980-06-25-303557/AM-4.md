@@ -1,15 +1,13 @@
 # Article AM 4
 
-Plafonds et plafonds suspendus des locaux et dégagements
+Parois verticales des dégagements non protégés et des locaux
 
-§ 1. Les revêtements de plafond et les éléments constitutifs des plafonds suspendus dans les dégagements et les locaux doivent être en matériaux de catégorie M 1.
+Paragraphe 1. Les parois verticales des dégagements non protégés et des locaux sont classés C-s3, d0 ou en catégorie M 2.
 
-Toutefois, il est admis pour ces éléments et ces revêtements une tolérance de 25 % de la superficie totale de ces plafonds, en matériaux de catégorie M 2 dans les dégagements et M 3 dans les locaux.
+Paragraphe 2. Toutefois, les lambris en bois massifs sans systèmes de revêtements et les panneaux à base de bois classés D-s2, d0 peuvent être posés sur tasseaux de bois, avec remplissage de la cavité par un produit ou matériau classé A2-s2, d0 dans les deux cas suivants :
 
-§ 2. Lorsque des produits d'isolation sont placés en plénum, ils doivent satisfaire les dispositions de l'article AM 8 ci-après.
+- le plafond est classé B-s3, d0 ou en catégorie M 1 ; les lambris et les panneaux peuvent alors couvrir l'ensemble des parois verticales ;
 
-§ 3. Les éléments constitutifs et les revêtements des plafonds ajourés ou à résilles peuvent être en matériaux de catégorie M 2 lorsque la surface des pleins est inférieure à 50 % de la surface totale de ces plafonds.
+- les éléments porteurs en bois ou en dérivés du bois du plafond, d'une largeur minimale de 45 mm, sont disposés avec un écartement bord à bord supérieur ou égal à 30 cm ; les lambris et les panneaux peuvent alors couvrir au maximum 50 % de la surface des parois verticales.
 
-§ 4. La suspente et la fixation des plafonds suspendus doivent être en matériaux de catégorie M 0 et réalisées selon les dispositions de la norme NF P 68-203.1.
-
-§ 5. Les plafonds suspendus installés dans les dégagements doivent rester en place sous l'effet des variations de pression dues au fonctionnement du désenfumage mécanique.
+Paragraphe 3. Le classement des peintures et des papiers peints est justifié selon les paragraphes II-3 et II-4 de l'annexe 3 de l'arrêté du 21 novembre 2002 modifié relatif à la réaction au feu des produits de construction et d'aménagement.
