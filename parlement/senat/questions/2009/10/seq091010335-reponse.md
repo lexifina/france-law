@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010335
+
+- Question : [SEQ091010335](seq091010335.md) — Transfert des bombardiers d'eau de Marignane vers la base aérienne de Salon-de-Provence
+
+## Réponse
+
+*Intérieur, JO du 2010-01-07, page 31*
+
+Les avions de la sécurité civile, et plus particulièrement ses bombardiers d'eau, sont installés depuis 1963 à Marignane. Cette position géographique est particulièrement bien adaptée à la mission principale de la base d'avions de la sécurité civile (BASC), à savoir la lutte contre les feux de forêts, pour trois raisons essentielles : le barycentre des incendies de forêts dans la zone sud est situé à l'est de Marseille (Aubagne) ; les avions amphibies Canadair peuvent faire le plein de leurs soutes à eau immédiatement après le décollage, dans l'étang de Berre, ce qui leur permet d'être engagés directement, avec leur pleine capacité opérationnelle ; la proximité de la mer et de zones d'exercice spécifiques permettent de rationaliser les activités d'entraînement des équipages d'avions bombardiers d'eau. Toutefois, l'implantation de la BASC sur le site aéroportuaire de Marseille-Provence peut constituer une gêne pour l'activité commerciale de l'aéroport. Par ailleurs, la société Eurocopter cherche à développer son emprise industrielle située à proximité immédiate de l'aéroport, afin d'absorber l'augmentation de son carnet de commandes. Aussi, le transfert de la BASC sur un autre site d'implantation fait actuellement l'objet de réflexions approfondies. Le ministère de la défense a été saisi afin d'envisager des lieux d'accueil adaptés aux besoins opérationnels et techniques de cette unité aéronautique du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales. Le préfet de la zone Sud, avec l'appui de la direction de la sécurité civile, a été chargé par le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales d'étudier les possibilités d'une telle relocalisation.
