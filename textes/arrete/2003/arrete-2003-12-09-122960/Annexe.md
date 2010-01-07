@@ -1,12 +1,12 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de garçon ou serveuse de restaurant.
+Titre professionnel : serveur(se) en restauration.
 
 Niveau : V.
 
@@ -14,84 +14,60 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-Le garçon ou la serveuse de restaurant effectue les travaux de préparation de la salle de restaurant et des annexes ; il (elle) accueille les clients, prend leur commande, effectue le service à table et assure l'encaissement.
+Le/la serveur(se) en restauration accueille les clients, les conseille, assure le service à table en réalisant l'ensemble ou une partie des travaux nécessaires au service des mets, en liaison avec la cuisine.
 
-Dans certains établissements, il (elle) peut confectionner ou participer à la réalisation de mets simples (hors-d'oeuvre, desserts).
+Il/elle nettoie et met en place la salle de restaurant et le bar, dresse le couvert, accueille les clients, prend les commandes et traite les bons. Il/elle présente et effectue le service des mets et des boissons aux clients, établit et peut encaisser les additions. Il/elle peut confectionner des mets simples (hors-d'œuvre, desserts).
 
-Il (elle) réalise ces activités en service de restauration ouvert au public ou lors de manifestations réservées telles que les buffets ou banquets.
+Il/elle réalise ces activités en service de restauration ouvert au public ou lors de manifestations réservées telles que les buffets ou les banquets.
 
-Il (elle) a un rôle déterminant dans l'accueil et le bien-être de la clientèle et participe, par la qualité de son service et de ses conseils au client, à la valorisation de la prestation réalisée en cuisine. Il (elle) a un rôle commercial important lors de la prise de commande des mets et des vins.
+Il/elle a un rôle déterminant dans l'accueil et le bien-être de la clientèle et participe par la qualité de son service et de ces conseils au client à la valorisation de la prestation réalisée en cuisine. Il/elle a un rôle commercial important lors de la prise de commande des mets et des vins.
 
-Dans les régions touristiques ou frontalières, il (elle) peut prendre les commandes de clients non francophones.
+Dans les régions touristiques ou frontalières, il/elle peut prendre les commandes de clients non francophones.
 
-Le garçon ou la serveuse de restaurant travaille, à de rares exceptions près, au sein d'une équipe (de commis et de serveurs). Après expérience, il (elle) peut assurer la coordination de l'équipe.
+Le ou la serveur(se) en restauration travaille, à de rares exceptions près, au sein d'une équipe de commis et de serveurs. Après expérience, il/elle peut assurer la coordination de l'équipe.
 
-L'emploi peut s'exercer à l'année, à la saison, voire à la prestation. Dans ce dernier cas, il (elle) exerce comme « extra professionnel(le) ». Les horaires imposent généralement une coupure en milieu de journée avec une fin de service tardive. Le travail du week-end et les jours fériés est fréquent.
+L'emploi peut s'exercer à l'année, à la saison, voire à la prestation. Dans ce dernier cas, il/elle exerce comme extraprofessionnel(le) . Les horaires imposent généralement une coupure en milieu de journée avec une fin de service tardive. Le travail du week-end et les jours fériés est fréquent.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptives
 
 des composantes de la certification
 
-1. Réaliser les travaux préalables
+1. Réaliser les travaux préalables au service en restauration
 
-au service en restauration
+Effectuer le nettoyage et l'entretien du bar, de salle de restauration et des annexes en appliquant les règles d'hygiène et de sécurité.
 
-Effectuer le nettoyage et l'entretien préalables au service en appliquant les règles d'hygiène et de sécurité.
+Effectuer la mise en place du bar, de la salle de restauration et des annexes en fonction de l'activité.
 
-Effectuer la mise en place préalable au service.
+2. Accueillir au bar ou en salle, conseiller et prendre des commandes, en tenant compte des spécificités de la clientèle
 
-2. Gérer l'accueil, conseiller les clients et prendre la commande,
+Accueillir la clientèle en salle de restauration ou au bar et présenter les différentes prestations commerciales.
 
-éventuellement dans une langue étrangère
+Réaliser la prise de commande manuelle ou numérique du ou des clients en pratiquant une vente incitative et transmettre les informations aux services concernés.
 
-Gérer l'accueil du client, éventuellement dans une langue étrangère, l'accompagner à sa table, l'installer et lui présenter menu, carte, et carte des vins.
+3. Réaliser le service en restauration
 
-Renseigner le client et réaliser une prise de commande en pratiquant une vente incitative, éventuellement dans une langue étrangère.
+Préparer et servir les boissons en respectant les règles de préséance de service.
 
-3. Réaliser le service à table en restauration commerciale
+Effectuer le service des mets sur table ou au comptoir et le débarrassage en respectant les règles de préséance et en assurant la priorisation, le suivi et la synchronisation des tables.
 
-et procéder à l'encaissement
-
-Transmettre une commande aux services concernés.
-
-Effectuer le service à table de tous types de boissons et de mets à l'assiette en respectant les règles de préséance de service.
-
-Préparer et vérifier une note et l'encaisser.
-
-Débarrasser les tables rapidement et correctement en gérant les priorités dans l'organisation de son service.
+Préparer, vérifier une note et l'encaisser.
 
 4. Préparer et servir un buffet ou un banquet
 
 Réaliser la mise en place d'un banquet ou d'un buffet à partir des consignes données.
 
-Servir et débarrasser avec dextérité et aisance un banquet ou un buffet.
+Effectuer le service et le débarrassage d'un buffet/banquet en respectant les règles de préséance et en assurant les éventuelles découpes de mets simples.
 
-Assurer la préparation et le découpage simple de mets.
+Secteur d'activité ou type d'emploi accessibles
 
-Secteur d'activité ou type d'emploi
+par le détenteur du titre
 
-accessibles par le détenteur du titre
+L'emploi s'exerce dans tous types d'établissements ayant une fonction de restauration commerciale : brasserie, bistrot gastronomique, restauration à thème, restauration gastronomique, restauration traditionnelle.
 
-L'emploi s'exerce dans tous types d'établissements ayant une fonction de restauration commerciale : brasserie, restauration à thème, restauration gastronomique ou éventuellement chez des traiteurs.
-
-Les emplois occupés peuvent, selon le type et la classe de l'établissement et l'expérience du titulaire, être ceux de commis (débarrasseur, de suite, de rang), de demi-chef de rang ou, dans certains cas, de chef de rang.
+Les emplois occupés peuvent, selon le type et la classe de l'établissement et l'expérience du titulaire, être ceux de commis, de demi-chef de rang ou, dans certains cas, de chef de rang.
 
 Code ROME :
 
-13222 - Serveur en restauration ;
+13122 - Serveur en restauration.
 
-Réglementation de l'activité :
-
-Néant.
-
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
-
-Bases légales et réglementaires :
-
-Loi n° 2002-73 du 17 janvier 2002 de modernisation ;
-
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Réglementation de l'activité : néant.
