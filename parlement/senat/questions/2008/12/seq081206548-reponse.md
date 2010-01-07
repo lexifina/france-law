@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206548
+
+- Question : [SEQ081206548](seq081206548.md) — Augmentation du prix des médicaments
+
+## Réponse
+
+*Santé, JO du 2010-01-07, page 35*
+
+Lorsqu'un médicament n'est plus remboursé par la sécurité sociale, son prix jusqu'alors administré est librement fixé par les différents opérateurs et déterminé par le jeu de la concurrence. Dans certains cas, les laboratoires pharmaceutiques relèvent à cette occasion le prix de leur médicament, qui n'avait pas été réévalué depuis de nombreuses années afin de pouvoir le maintenir sur le marché. Le ministère chargé de la santé suit toutefois attentivement les évolutions de prix du marché des médicaments non remboursables et a demandé aux professionnels concernés de contribuer chacun au travers d'efforts en faveur d'une maîtrise des prix de ces médicaments. De plus, un décret relatif aux centrales d'achats pharmaceutiques a été publié le 21 juin 2009 qui vise à faire bénéficier les pharmaciens d'officine ou leurs structures de groupements d'achats de conditions commerciales leur permettant de proposer des prix compétitifs sur les médicaments non remboursables. Malgré les mesures du Gouvernement, il peut arriver que les prix de certains médicaments non remboursables soient augmentés fortement. Il appartient dans ce cas au patient de faire jouer la concurrence entre officines en comparant les prix de vente des médicaments. Le Gouvernement a pris, par arrêté du 26 mars 2003, des dispositions destinées à améliorer l'information et l'affichage des prix en officine pour faciliter la comparaison par le consommateur des prix pratiqués entre différentes pharmacies. Les patients peuvent également discuter avec leur pharmacien ou leur médecin des alternatives thérapeutiques au traitement qu'ils suivent afin d'en diminuer le coût, si cela est possible.
