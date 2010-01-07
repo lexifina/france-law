@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010542
+
+- Question : [SEQ091010542](seq091010542.md) — Curage des fossés
+
+## Réponse
+
+*Écologie, JO du 2010-01-07, page 24*
+
+L'entretien des fossés, qui sont des ouvrages artificiels, n'est soumis ni à déclaration ni à autorisation au titre de la loi sur l'eau. Des difficultés peuvent toutefois survenir pour distinguer cours d'eau et fossés, certains usagers utilisant ce dernier terme de façon extensive. Les services de police de l'eau apporteront à tout usager qui en fera la demande une réponse circonstanciée sur la réglementation applicable à son terrain. Au-delà, le curage des cours d'eau a pour conséquence d'accélérer l'écoulement des eaux vers l'aval. Ceci entraîne un accroissement instantané des débits à évacuer et participe à l'aggravation des risques d'inondation. Aussi, la loi sur l'eau du 30 décembre 2006 par son article 8 a modifié l'article L. 215-2 du code de l'environnement en remplaçant les mots « le curage conformément aux règles établies par les articles L. 215-14 à L. 215-24 » par les mots « l'entretien conformément à l'article L. 215-14 » et a défini dans l'article L. 215-14 les objectifs de cet entretien régulier, à savoir « maintenir le cours d'eau dans son profil d'équilibre, permettre l'écoulement naturel des eaux et contribuer à son bon état écologique ou, le cas échéant, à son bon potentiel écologique, notamment par enlèvement des embâcles, débris et atterrissements, flottants ou non, par élagage ou recépage de la végétation des rives ». Il ne s'agit donc en aucun cas de supprimer l'entretien des cours d'eau mais de mettre en oeuvre les techniques les plus adaptées. Les modalités d'entretien des fossés, dans la mesure où ils se situent à l'amont hydraulique des cours d'eau, influent directement sur les écoulements de ces derniers. Leur entretien est à envisager dans le même esprit que celui des cours situés à l'aval, mais sans le même formalisme.
