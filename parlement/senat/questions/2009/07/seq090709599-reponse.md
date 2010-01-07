@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709599
+
+- Question : [SEQ090709599](seq090709599.md) — Nuisances sonores causées par les souffleries des pompes à chaleur
+
+## Réponse
+
+*Écologie, JO du 2010-01-07, page 25*
+
+Le code de la santé publique prévoit, pour ce qui concerne les équipements utilisés par des particuliers, qu'aucun bruit émis par ces objets ne doit porter atteinte à la tranquillité de l'homme ou à sa santé par sa durée, sa répétition ou son intensité. Il n'est donc pas nécessaire de quantifier, à l'aide d'un appareil de mesure, les niveaux de bruits émis par ces dispositifs. Cette possibilité de constater une infraction, sans recours à la mesure pour les bruits de comportements, existe depuis 1995 et a été considérée, notamment par les associations de défense, comme une simplification des procédures permettant de sanctionner plus facilement le non-respect de cette réglementation. Si ce texte permet, dans certains cas, de constater l'infraction sans mesure, il n'interdit nullement d'y recourir afin de s'assurer du respect des émergences fixées à l'article R. 1334-32 du code de la santé publique. Celles-ci doivent, dans ce cas, être réalisées conformément aux exigences de l'arrêté du 5 décembre 2006. En revanche, le recours à une mesure sonométrique est nécessaire lorsque l'équipement bruyant est utilisé dans le cadre d'une activité professionnelle. Conscient de ces difficultés, le Conseil national du bruit, instance consultative en place auprès du ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, s'est, lors de son assemblée plénière du 21 septembre 2009, auto-saisi de cette question et sa commission technique devrait formuler des propositions dans le courant de l'année 2010.
