@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910032
+
+- Question : [SEQ090910032](seq090910032.md) — Application des dispositions de la loi n° 2007-1544 du 29 octobre 2007 de lutte contre la contrefaçon
+
+## Réponse
+
+*Justice, JO du 2010-01-07, page 32*
+
+Le décret n° 2009-1204 du 9 octobre 2009 relatif à la spécialisation des juridictions en matière de propriété intellectuelle et le décret n° 2009-1205 du même jour fixant le siège et le ressort des juridictions en matière de propriété intellectuelle, ont été publiés au Journal officiel du 11 octobre 2009. Les tribunaux de grande instance de Bordeaux, Lille, Lyon, Marseille, Nanterre, Nancy, Paris, Rennes et Fort-de-France sont désormais exclusivement compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques. Par ailleurs, le tribunal de grande instance de Paris devient la juridiction de première instance ayant compétence exclusive pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs, dans les cas et conditions prévus par le code de la propriété intellectuelle. Cette spécialisation juridictionnelle permettra d'accroître l'efficacité des dispositions du code de la propriété intellectuelle, en particulier celles issues de la loi n° 2007-1544 du 29 octobre 2007 de lutte contre la contrefaçon. La loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et la loi n° 2009-1311 du 28 octobre 2009 relative à la protection pénale de la propriété littéraire et artistique sur internet, dont les décrets d'application sont en cours d'élaboration, contribueront également à renforcer la lutte contre la contrefaçon, lorsque les atteintes aux droits de propriété intellectuelle sont commises au moyen de services de communication en ligne.
