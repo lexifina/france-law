@@ -1,4 +1,4 @@
-# Article Annexe 18
+# Article Annexe XVIII
 
 CAHIER DES CHARGES RELATIF À L'AGRÉMENT DES CENTRES DE FORMATION PROFESSIONNELLE
 
@@ -68,11 +68,11 @@ Tout centre de formation professionnelle qui sollicite l'agrément ou son renouv
 
 III. - EXIGENCES RELATIVES AUX FORMATEURS
 
-Tout formateur chargé d'assurer la formation des agents habilités à l'exercice de fonctions de sécurité sur le réseau ferré national doit répondre aux exigences suivantes :
+Tout formateur chargé d'assurer la formation des agents habilités à l'exercice de fonctions de sécurité sur le réseau ferré national doit justifier d'une formation générale et technique adaptée ainsi que :
 
-- avoir une formation générale et technique adaptée ;
+- soit d'une expérience professionnelle d'un an minimum dans les dix années précédentes sur le réseau ferroviaire transeuropéen, dont quatre mois sur le réseau ferré national, dans l'exercice ou l'encadrement de la fonction de sécurité concernée par la formation permettant une maîtrise complète des compétences professionnelles requises. Pour les formations de conducteurs, la durée d'expérience professionnelle minimum requise est de trois ans sur le réseau ferroviaire transeuropéen, dont un an sur le réseau ferré national sauf pour les conducteurs circulant avec des matériels roulants et sur des lignes tous deux conformes aux spécifications techniques d'interopérabilité correspondantes et dont l'utilisation ne relève d'aucune réglementation nationale spécifique ;
 
-- avoir une expérience professionnelle récente d'un an minimum dans l'exercice ou l'encadrement de la fonction de sécurité concernée par la formation permettant une maîtrise complète des compétences professionnelles requises ou une pratique continue de la formation à la fonction de sécurité concernée avec actualisation régulière des connaissances. Pour les formations de conducteurs, il est exigé une expérience professionnelle de 3 ans minimum.
+- soit d'une pratique continue de la formation à la fonction de sécurité concernée avec actualisation régulière des connaissances.
 
 En outre, tout formateur d'entreprise doit exercer son activité sous la responsabilité pédagogique d'un centre de formation agréé. Les conditions d'exercice de cette responsabilité font l'objet d'un document contractuel avec le centre de formation agréé.
 
