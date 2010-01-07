@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110840
+
+- Question : [SEQ091110840](seq091110840.md) — Perspectives de réforme du diplôme de capacité en droit
+
+## Réponse
+
+*Enseignement supérieur, JO du 2010-01-07, page 28*
+
+Créée en 1804, la capacité en droit, dont le régime des études a été modifié en 1956, accueille un public varié, souvent inséré dans la vie professionnelle, auquel ce diplôme donne le moyen de renouer avec les études dans une logique de promotion sociale. Sa possession permet en outre de se présenter aux concours des fonctions publiques lorsqu'on ne possède pas le baccalauréat ou d'exercer diverses charges. Elle est dans la plupart des cas préparée en cours du soir ou par enseignement à distance. Elle n'attire plus autant d'étudiants que par le passé, conséquence de la progression des taux de réussite au baccalauréat. Ses effectifs ont été divisés par deux en dix ans. Ils sont de 4 050 en 2008-2009 contre 8 215 en 1997-1998. Les universités ont toute latitude pour procéder à l'articulation entre la capacité en droit et leurs différentes licences du champ juridique en fonction des enseignements qui sont dispensés. En ce qui concerne sa rénovation, deux critères sont à prendre en considération, les besoins des milieux professionnels et la vocation promotionnelle du diplôme qui donne accès aux études supérieures. À ce titre, elle conserve encore une relative attractivité auprès d'un public soucieux de promotion sociale. Cette caractéristique, qui en fait son originalité majeure, doit être sauvegardée.
