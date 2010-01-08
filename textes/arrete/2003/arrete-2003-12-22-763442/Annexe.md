@@ -1,20 +1,34 @@
-# Article ANNEXE
+# Article Annexe
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
+Intitulé
 
-Titre professionnel : technicien(ne) d'études en chaudronnerie et tuyauterie industrielle.
+Titre professionnel : technicien (ne) d'études en chaudronnerie et tuyauterie industrielle.
 
 Niveau : IV.
 
-Code NSF : 254 n.
+Code NSF : 254s.
 
 Résumé du référentiel d'emploi
 
-A partir des consignes d'un projeteur et d'un avant-projet, le (la) technicien(ne) d'études développe un dossier technique constitué de plans ou de fichiers numérisés en dessin assisté par ordinateur (DAO), permettant la réalisation ou la modification d'installations de chaudronnerie et tuyauterie et répondant aux objectifs coûts et délais du client. Ce dossier doit être conforme au plan d'assurance qualité de l'entreprise et à la réglementation applicable. Il comporte tous les renseignements nécessaires aux achats matières et composants dans les délais impartis, les plans pour la fabrication, le montage sur site et les consignes nécessaires à l'utilisation de l'installation.
+Le technicien d'études en chaudronnerie et tuyauterie industrielle réalise les plans et les dossiers techniques nécessaires à l'industrialisation d'installations générales de tuyauterie, de structures chaudronnées ou mécano-soudées.
 
-Le (la) technicien(ne) d'études en chaudronnerie et tuyauterie industrielle a un rôle d'appui et de conseil vis-à-vis des services méthodes et contrôle chargé de l'industrialisation.
+Il travaille à partir d'un avant-projet en appliquant les consignes et directives d'un projeteur ou du responsable de bureau d'études.
+
+Il respecte les normes et le cahier des charges de la commande afin de réaliser l'ensemble du dossier en assurance qualité.
+
+L'emploi s'exerce chez les prestataires d'études (bureaux d'ingénierie) ou au sein du bureau d'études des entreprises du domaine du travail des métaux avec généralement des horaires réguliers de jour.
+
+L'activité peut nécessiter des déplacements sur les sites des installations pour la réalisation de relevés, des relations de collaboration technique avec les clients et les fournisseurs, les services chargés des achats, de l'industrialisation, de la production et du contrôle.L'utilisation de logiciels de dessin assisté par ordinateur (DAO), de traitement de texte et de tableurs est indispensable.
+
+L'activité s'effectue, la plupart du temps, en position assise face à un écran d'ordinateur.
+
+L'activité du technicien d'études en chaudronnerie et tuyauterie industrielle débute à partir d'un avant-projet du client, de cahiers des charges et de consignes.
+
+La mission des études comprend la définition complète d'un produit conforme et réalisable, la constitution du dossier technique contenant tous les renseignements pour la réalisation et l'utilisation des plans. Cette fonction détient pour partie le savoir-faire de l'entreprise et sa capacité d'innover.
+
+Le domaine d'action du technicien d'études en chaudronnerie et tuyauterie varie selon la taille, la structure et le type d'organisation de la société où il exerce. Il peut se rapprocher de fonctions connexes (méthodes, achats) lorsque son expertise technique s'avère nécessaire.
 
 Capacités attestées et descriptif
 
@@ -22,70 +36,48 @@ des composantes de la certification
 
 1. Réaliser les dessins de définition en assurance qualité
 
-Modifier et mettre à jour des plans existants.
+Elaborer une solution technique pour des éléments d'un ensemble métallique soumis à modification en intégrant l'ensemble des contraintes technologiques et économiques.
+
+Modifier et mettre à jour des plans existants pour des ensembles métalliques.
 
 Appliquer les directives de plans d'assurance qualité dans le cadre de l'élaboration de dessins de définition.
 
-Réagir de manière critique sur un élément d'un ensemble chaudronné en tenant compte des contraintes de fonction des pièces, de dimensions et d'environnement de l'installation, de la technologie et des coûts et rechercher une solution.
+2. Réaliser l'étude d'un ouvrage chaudronné
 
-2. Etudier un appareil chaudronné
+à partir d'un cahier des charges technique
 
-Définir et représenter un appareil chaudronné de stockage en conformité avec le code de construction (de type CODRES [code des réservoirs]).
+Définir et représenter un ouvrage chaudronné en conformité avec le cahier des charges et la réglementation.
 
-Définir et représenter un appareil chaudronné sous pression selon le code français (CODAP [code des appareils]), vérifier quelques dimensionnements.
+Constituer le dossier technique d'un ouvrage chaudronné en vue de sa fabrication conformément aux procédures d'assurance qualité.
 
-Constituer un dossier technique complet d'un appareil, les éléments pour la définition des coûts, des approvisionnements et pour sa mise en fabrication en respectant les procédures d'assurance qualité.
+3. Réaliser l'étude d'une installation générale de tuyauterie
 
-3. Etudier et installer un appareil chaudronné
+industrielle à partir d'un cahier des charges technique
 
-Etudier et dimensionner avec l'aide d'un projeteur les réseaux de tuyauterie en respectant les contraintes spécifiques de l'installation.
+Dimensionner les réseaux de tuyauterie en respectant les contraintes de l'installation et en réaliser les plans isométriques.
 
-Etablir le projet de cheminement des tuyauteries conformément aux fonctions attendues.
+Réaliser les plans d'installations générales de tuyauterie à partir d'un cahier des charges technique.
 
-Réaliser les plans d'installation à partir d'un projet et en fonction des contraintes.
+Constituer le dossier technique d'une installation de chaudronnerie-tuyauterie incluant les plans guides pour les études complémentaires.
 
-Réaliser les plans guides pour les études complémentaires.
+Secteurs d'activités et types d'emploi accessibles
 
-4. Constituer le dossier d'études d'une installation
+par le détenteur du titre
 
-chaudronnée en assurance qualité
+L'ensemble des entreprises de fabrication de la métallurgie qui conçoivent et réalisent des ensembles chaudronnés ou des installations de tuyauterie.
 
-Collaborer à un projet d'équipe dans un bureau d'études en entreprise et intervenir dans des réunions techniques sur les activités qui lui sont confiées.
+Les bureaux d'études et d'ingénierie ayant une activité dans le secteur du travail des métaux.
 
-Elaborer le dossier technique d'une installation de chaudronnerie-tuyauterie suivant les directives du projeteur ou du chef de bureau d'études.
+Code ROME :
 
-Secteurs d'activités ou types d'emploi
+H2913-Soudage manuel.
 
-accessibles par le détenteur du titre
+Réglementation de l'activité : néant.
 
-Entreprises de chaudronnerie, tuyauterie et de mécanosoudage.
-
-Organismes de contrôle chargés de l'inspection des constructions soudées.
-
-Codes ROME :
-
-44151 - Contrôleur de la construction mécanique et du travail des métaux.
-
-52211 - Technicien(ne) qualité de la construction mécanique et du travail des métaux.
-
-52314 - Inspecteur de mise en conformité.
-
-Réglementation de l'activité :
-
-Néant.
-
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
-
-NOTA :
-
-Arrêté du 17 décembre 2008 article 1 : le titre professionnel de technicien d'études en chaudronnerie et tuyauterie industrielle est prorogé pour une durée d'un an à compter du 6 janvier 2009.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
