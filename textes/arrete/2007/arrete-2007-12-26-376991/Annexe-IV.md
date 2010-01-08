@@ -20,7 +20,7 @@ Points NBI
 
 |
 
-TA de Paris
+TA de Paris.
 
 |
 
@@ -32,7 +32,7 @@ TA de Paris
 
 |
 
-CAA de Paris
+CAA de Paris.
 
 |
 
@@ -44,7 +44,7 @@ CAA de Paris
 
 |
 
-CAA de Bordeaux
+CAA de Bordeaux.
 
 |
 
@@ -56,7 +56,7 @@ CAA de Bordeaux
 
 |
 
-TA de Versailles
+TA de Versailles.
 
 |
 
@@ -68,7 +68,7 @@ TA de Versailles
 
 |
 
-TA de Lyon
+TA de Lyon.
 
 |
 
@@ -80,7 +80,7 @@ TA de Lyon
 
 |
 
-CAA de Lyon
+CAA de Lyon.
 
 |
 
@@ -92,7 +92,7 @@ CAA de Lyon
 
 |
 
-CAA de Douai
+CAA de Douai.
 
 |
 
@@ -104,7 +104,7 @@ CAA de Douai
 
 |
 
-CAA de Nancy
+CAA de Nancy.
 
 |
 
@@ -116,7 +116,7 @@ CAA de Nancy
 
 |
 
-CAA de Nantes
+CAA de Nantes.
 
 |
 
@@ -128,7 +128,7 @@ CAA de Nantes
 
 |
 
-TA Cergy-Pontoise
+TA de Cergy-Pontoise.
 
 |
 
@@ -140,7 +140,7 @@ TA Cergy-Pontoise
 
 |
 
-TA de Melun
+TA de Melun.
 
 |
 
@@ -152,7 +152,55 @@ TA de Melun
 
 |
 
-TA de Nice
+TA de Nice.
+
+|
+
+1
+
+|
+
+30
+
+|
+
+TA de Marseille.
+
+|
+
+1
+
+|
+
+30
+
+|
+
+CAA de Marseille.
+
+|
+
+1
+
+|
+
+60
+
+|
+
+TA de Montpellier.
+
+|
+
+1
+
+|
+
+30
+
+|
+
+TA de Montreuil.
 
 |
 
