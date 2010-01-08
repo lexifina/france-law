@@ -8,11 +8,11 @@ Titre professionnel : tuyauteur industriel.
 
 Niveau : V.
 
-Code NSF : 254 s.
+Code NSF : 254s.
 
 Résumé du référentiel d'emploi
 
-Le tuyauteur industriel, à partir d'un dossier technique, préfabrique des éléments de tuyauteries et réalise le montage des lignes alimentant différents équipements industriels.
+Le tuyauteur industriel, à partir d'un dossier technique, préfabrique des éléments de tuyauterie et réalise le montage des lignes alimentant différents équipements industriels.
 
 Il intervient sur des travaux neufs mais aussi de maintenance ou de modifications d'installations existantes.
 
@@ -26,59 +26,41 @@ des composantes de la certification
 
 1. Préfabriquer des tronçons de tuyauterie
 
-Exploiter les documents techniques de tuyauterie.
+Exploiter et renseigner les documents techniques de tuyauterie.
 
-Dessiner une tuyauterie en représentation isométrique et orthogonale.
+Débiter à longueur des tubes et des profilés par procédés mécaniques et thermiques.
 
-Tracer en tuyauterie un contour de pièce à l'aide d'un gabarit ou par tracés géométriques simples.
+Tracer un contour de pièce, une intersection de tuyauteries à l'aide d'un gabarit, par tracés géométriques simples ou par la méthode dite de chantier.
 
-Tronçonner-scier un tube ou un profilé aux machines mécaniques.
+Réaliser et ajuster le profil des bords à souder en vue de leur pointage.
 
-Couper manuellement, par procédé plasma ou par oxycoupage des bords droits et évolutifs sur tôles, tubes et profilés.
+Contrôler les dimensions et la géométrie d'une ligne de tuyauterie.
 
-Percer aux machines portatives et à colonne.
-
-Chanfreiner mécaniquement, meuler et ajuster un profil de pièce manuellement aux outillages portatifs.
-
-Contrôler dimensionnellement et géométriquement une pièce aux instruments de mesure ou par comparaison aux gabarits.
-
-Cintrer un tube à froid par emboutissage et par enroulement sur machines mécaniques et hydrauliques.
+Cintrer un tube à froid par emboutissage sur machine hydraulique.
 
 Positionner, régler, pointer les composants d'un tronçon de tuyauterie.
 
-Tracer les épures de piquages et d'intersections de tuyauteries.
+Anticiper et redresser les déformations d'origine thermique des tuyauteries.
 
-Redresser des tuyauteries.
-
-Raccorder de façon étanche des éléments de tuyauterie par boulonnage et par vissage.
+Assembler mécaniquement des éléments de tuyauterie.
 
 2. Monter et assembler des lignes de tuyauterie sur site
 
-Exploiter les documents techniques de tuyauterie.
+Exploiter et renseigner les documents techniques de tuyauterie.
 
-Effectuer un relevé de cotes sur site de montage de tuyauteries.
+Assembler mécaniquement des éléments de tuyauterie.
 
-Dessiner une tuyauterie en représentation isométrique et orthogonale.
+Effectuer un relevé de cotes afin de permettre la fabrication d'un tronçon d'une ligne de tuyauterie.
 
-Tracer des intersections de tubes par la méthode dite " de chantier ".
+Raccorder thermiquement un tronçon de tuyauterie sur une ligne existante.
 
-Couper manuellement, par procédé plasma ou par oxycoupage, des bords droits et évolutifs sur tôles, tubes et profilés.
+Manutentionner, monter et régler des éléments de tuyauterie sur le supportage.
 
-Chanfreiner mécaniquement, meuler et ajuster un profil de pièce manuellement aux outillages portatifs.
+Réaliser le déroulement d'une épreuve d'étanchéité.
 
-Manutentionner des éléments de tuyauterie.
+Prendre en compte les enjeux du développement durable dans l'exercice de son activité.
 
-Positionner, régler, pointer les composants d'un tronçon de tuyauterie.
-
-Contrôler dimensionnellement et géométriquement une pièce aux instruments de mesure ou par comparaison aux gabarits.
-
-Redresser des tuyauteries.
-
-Raccorder de façon étanche des éléments de tuyauterie par boulonnage et par vissage.
-
-Monter et régler des éléments de tuyauterie sur le supportage.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
@@ -88,24 +70,20 @@ Construction et réparation navale.
 
 Code ROME :
 
-44134 - Tuyauteur.
+H2914 : Réalisation et montage en tyauterie.
 
-Réglementation de l'activité :
+Réglementation de l'activité : néant.
 
-Néant.
-
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation.
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
 NOTA :
 
-Arrêté du 17 décembre 2008 article 1 : le titre professionnel de tuyauteur industriel est prorogé pour une durée d'un an à compter du 6 janvier 2009.
+Conformément à l'article 1 de l'arrêté du 17 décembre 2008 (NOR : ECED0830339A), le titre professionnel de tuyauteur industriel est prorogé pour une durée d'un an à compter du 6 janvier 2009.
+
+Conformément à l'article 2 de l'arrêté du 28 décembre 2009 (NOR : ECED0931784A), les présentes dispositions sont prorogées pour une durée de cinq ans à compter de la date d'entrée en vigueur dudit arrêté, à savoir du 8 janvier 2010.
