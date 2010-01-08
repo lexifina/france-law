@@ -24,13 +24,9 @@ Cour d'appel d'Agen
 
 |
 
-|
+Gers
 
 |
-
-|
-
-Gers |
 
 Auch
 
@@ -149,10 +145,6 @@ Cannes
 |
 
 Ressort du tribunal d'instance de Cannes
-
-|
-
-Cour d'appel d'Agen
 
 |
 
@@ -1144,17 +1136,13 @@ Ain
 
 |
 
-Bourg-en-Bresse
-
-Belley
-
-|
+Bourg-en-Bresse |
 
 Bourg-en-Bresse
 
 |
 
-Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley
+Ressort des tribunaux de grande instance de Bourg-en-Bresse
 
 |
 
@@ -1300,17 +1288,13 @@ Aveyron
 
 |
 
-Rodez
-
-Millau
-
-|
+Rodez |
 
 Rodez
 
 |
 
-Ressort des tribunaux de grande instance de Rodez et de Millau
+Ressort des tribunaux de grande instance de Rodez
 
 |
 
@@ -1902,9 +1886,7 @@ Châlons-en-Champagne
 
 |
 
-Ressort du tribunal d'instance de Châlons-en-Champagne
-
-|
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne |
 
 |
 
@@ -1974,23 +1956,7 @@ Ressort du tribunal de grande instance de Quimper
 
 |
 
-Ille-et-Vilaine
-
-|
-
-Rennes
-
-|
-
-Rennes
-
-|
-
-Ressort du tribunal de grande instance de Rennes
-
-|
-
-et
+Ille-et-Vilaine et
 
 Côtes-d'Armor
 
