@@ -120,7 +120,15 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 - limite Sud des parcelles section DV n°s 11, 12 et 8 jusqu'à la R.N. 4 ;
 
-- RN 4 jusqu'à la RN 35 ;
+Commune de Bettancourt-la-Ferrée.
+
+- RN 4 jusqu'à la RD 635 ;
+
+- RD 635 jusqu'à la limite sud de la parcelle section AL 19, puis limite sud de la parcelle section AL 62 ;
+
+- limite sud des parcelles section A286 et A290, limite est de la parcelle A292, limite sud de la parcelle section A303, limite ouest de la parcelle A348, limites sud et ouest des parcelles section A337, A348 et A338, limites ouest et nord de la parcelle A338, limites nord des parcelles A339, A340, A364 et A363, limites est des parcelles A363, A364, A348, A342, limites sud des parcelles A346 et A347, limite est des parcelles A347, A288, A284, limites nord des parcelles A292, A290, A286 ;
+
+- limites nord des parcelles section AL. 62 et AL 19 jusqu'à la RD 635 ;
 
 - RN 35 jusqu'à la limite sud de la parcelle section AL n° 19, puis limite sud de la parcelle section AL n° 62 ;
 
