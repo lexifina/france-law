@@ -1,6 +1,6 @@
 # Article ANNEXE II (DP)
 
-Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, Agence nationale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone :
+Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense et de la sécurité nationale, Agence nationale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone :
 
 33 [0] 1-71-75-82-75, télécopie : 33 [0] 1-71-75-82-60).
 
@@ -12,7 +12,7 @@ Déclaration
 
 (1) Formulaire disponible sur le site internet :
 
-www.ssi.gouv.fr
+www. ssi. gouv. fr
 
 A.-Déclarant
 
