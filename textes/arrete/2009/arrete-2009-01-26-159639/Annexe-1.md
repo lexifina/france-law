@@ -2,13 +2,9 @@
 
 LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 
-SERVICES ET DIRECTIONS
+SERVICES ET DIRECTIONS |
 
-|
-
-FONCTIONS
-
-|
+FONCTIONS |
 
 NOMBRE
 
@@ -102,7 +98,7 @@ Chef du bureau des moyens généraux
 
 |
 
-Direction du développement des médias.
+Direction générale des médias et des industries culturelles.
 
 |
 
