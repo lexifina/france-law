@@ -1,6 +1,6 @@
 # Article Annexe
 
-A.-Fonctions exercées dans les services généraux du Premier ministre et de la direction des Journaux officiels
+A.-Fonctions exercées dans les services généraux du Premier ministre et de la direction de l'information légale et administrative
 
 DESIGNATION DE L'EMPLOI
 
@@ -66,9 +66,7 @@ Directeur des services administratifs et financiers du Premier ministre
 
 |
 
-Directeur de la Documentation française
-
-|
+Directeur de l'information légale et administrative |
 
 1
 
@@ -78,15 +76,13 @@ Directeur de la Documentation française
 
 |
 
-Directeur des Journaux officiels
-
-|
+Chef de service à la direction de l'information légale et administrative |
 
 1
 
 |
 
-150
+130
 
 |
 
@@ -222,9 +218,7 @@ Sous-directeur de l'information et de la légistique, des carrières et des rém
 
 |
 
-Sous-directeur à la direction des Journaux officiels
-
-|
+Sous-directeur à la direction de l'information légale et administrative |
 
 2
 
@@ -234,39 +228,13 @@ Sous-directeur à la direction des Journaux officiels
 
 |
 
-Sous-directeur de l'administration et de l'édition à la direction de la Documentation française
-
-|
+Secrétaire général de la direction de l'information légale et administrative |
 
 1
 
 |
 
 110
-
-|
-
-Sous-directeur de la documentation et sous-directeur des publications à la direction de la Documentation française
-
-|
-
-2
-
-|
-
-100
-
-|
-
-Sous-directeur de la promotion et de l'action commerciale à la direction de la Documentation française
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -306,7 +274,7 @@ Sous-directeur au service d'information du gouvernement
 
 |
 
-B.-Fonctions exercées au secrétariat général de la défense nationale
+B.-Fonctions exercées au secrétariat général de la défense et de la sécurité nationale
 
 DESIGNATION DE L'EMPLOI
 
