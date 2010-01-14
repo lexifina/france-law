@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910036
+
+- Question : [SEQ090910036](seq090910036.md) — Développement des transports publics par autocars
+
+## Réponse
+
+*Transports, JO du 2010-01-14, page 83*
+
+Le transport par autocar constitue un mode de transport collectif particulièrement intéressant qui se développe en France sous l'impulsion des autorités organisatrices de transport. Dans le cadre de la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports ferroviaires et portant diverses dispositions relatives aux transports, une disposition ouvre la possibilité, pour les autocars, d'effectuer, à l'occasion de services réguliers internationaux, des transports de personnes entre deux arrêts situés sur le territoire national. Ces dessertes intérieures de cabotage ne devront constituer qu'une part accessoire de l'activité de transport international. Il sera nécessaire de s'assurer, au préalable, grâce à la consultation des collectivités concernées, que ces services ne modifient pas l'équilibre d'un contrat de service public de transport de personnes. L'ouverture des services réguliers intérieurs permet de répondre aux besoins de personnes qui recherchent un transport économique leur permettant d'éviter des trajets en voiture particulière. Il conviendra de prendre en compte les efforts très importants consentis par l'État et les régions pour le développement des transports express régionaux (TER). Il doit donc être procédé à l'évaluation économique et environnementale qui permettra d'engager une concertation avec les acteurs économiques et les autorités organisatrices en intégrant les objectifs retenus par le Grenelle de l'environnement en matière de transport. À cette fin, le conseil général de l'écologie et du développement durable a été chargé d'examiner les enjeux et les impacts de l'ouverture de lignes régulières longue distance par autocar.
