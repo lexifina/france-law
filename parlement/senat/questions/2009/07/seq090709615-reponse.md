@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709615
+
+- Question : [SEQ090709615](seq090709615.md) — Effacement des réseaux de communication
+
+## Réponse
+
+*Industrie, JO du 2010-01-14, page 77*
+
+Lorsqu'une collectivité territoriale ou un établissement public de coopération compétent prend l'initiative de remplacer, par une ligne souterraine, une ligne aérienne d'un réseau public de distribution d'électricité sur laquelle un opérateur de communications électroniques a été autorisé à installer un ouvrage aérien non radioélectrique, l'article L. 2224-35 du code général des collectivités territoriales prévoit que cet opérateur procède au remplacement de sa ligne aérienne par une ligne souterraine. La proposition de loi sur la fracture numérique adoptée par le Sénat, en deuxième lecture, le 10 décembre 2009 précise que la collectivité territoriale ou le distributeur du réseau public d'électricité, en fonction des participations respectives au financement et des négociations conventionnelles, pourra détenir un droit d'usage ou devenir propriétaire des infrastructures d'accueil des réseaux. Si l'opérateur choisit d'en assurer le financement, il continuera, comme précédemment, à en conserver la propriété. L'article L. 2224-35 prévoit qu'une convention soit conclue entre la collectivité ou l'établissement public de coopération et l'opérateur. Cette convention fixe les modalités de réalisation et, le cas échéant, d'occupation de l'ouvrage partagé, notamment les responsabilités et la participation financière de chaque partie, dans le respect des principes énoncés dans cet article. Le support de ligne aérienne d'un réseau public de distribution d'électricité sur lequel un opérateur de communications électroniques est implanté, dit « appui commun », demeure le seul critère de déclenchement de l'obligation pour l'opérateur d'enfouir et de participer au financement de l'opération.
