@@ -6,33 +6,21 @@ Les formules ci-dessous permettent de calculer le montant de référence des gar
 
 On définit tel que :
 
-= Index0 x (1 + TVAR)
-
-Index
-
-(1 + TVAR)
-
-=
-
-x
-
-Index0
-
-1 + TVA0
+formule non reproduite ; consultez le fac-similé
 
 Avec :
 
 Index : indice TP01 utilisé pour l'établissement du montant de référence des garanties financières fixé dans l'arrêté préfectoral ;
 
-Index0 : indice TP01 de février 1998 soit 416.2 ;
+Index0 : indice TP01 de mai 2009 soit 616,5 ;
 
 TVAR : taux de la TVA applicable lors de l'établissement de l'arrêté préfectoral fixant le montant de référence des garanties financières ;
 
-TVA0 : taux de la TVA applicable en février 1998 soit 0.206.
+TVA0 : taux de la TVA applicable en janvier 2009 soit 0,196.
 
 1. Pour les carrières de matériaux meubles en nappe alluviale ou superficielle :
 
-CR = (S1 C1 + S2 C2 + LC3)
+formule non reproduite ; consultez le fac-similé
 
 CR : montant de référence des garanties financières pour la période considérée (*).
 
@@ -44,15 +32,15 @@ L (en m) : valeur maximale atteinte au cours de la période considérée par la 
 
 Coûts unitaires (TTC) :
 
-C1 : 10 500 EUR/ha ;
+C1 : 15 555 euros / ha ;
 
-C2 : 23 000 EUR/ha ;
+C2 : 34 070 euros / ha ;
 
-C3 : 32 EUR/m.
+C3 : 47 euros / m.
 
 2. Pour les carrières en fosse ou à flanc de relief :
 
-CR = (S1 C1 + S2 C2 + S3 C3)
+formule non reproduite ; consultez le fac-similé
 
 CR : montant de référence des garanties financières pour la période considérée (*).
 
@@ -64,15 +52,15 @@ S3 (en ha) : valeur maximale atteinte au cours de la période considérée par l
 
 Coûts unitaires (TTC) :
 
-C1 : 10 500 EUR/ha ;
+C1 : 15 555 euros / ha ;
 
-C2 : 24 500 EUR/ha pour les 5 premiers hectares ; 20 000 EUR/ha pour les 5 suivants ; 15 000 EUR/ha au-delà ;
+C2 : 36 290 euros / ha pour les 5 premiers hectares ; 29 625 euros / ha pour les 5 suivants ; 22 220 euros / ha au-delà ;
 
-C3 : 12 000 EUR/ha.
+C3 : 17 775 euros / ha.
 
 3. Pour les autres carrières à ciel ouvert, y compris celles mentionnées au point 4 de la rubrique 2510 de la nomenclature des installations classées :
 
-CR = (S1 C1 + S2 C2 + S3 C3)
+formule non reproduite ; consultez le fac-similé
 
 CR : montant de référence des garanties financières pour la période considérée (*).
 
@@ -84,10 +72,10 @@ S3 (en ha) : valeur maximale atteinte au cours de la période considérée par l
 
 Coûts unitaires (TTC) :
 
-C1 : 10 500 EUR/ha ;
+C1 : 15 555 euros / ha ;
 
-C2 : 23 000 EUR/ha ;
+C2 : 34 070 euros / ha ;
 
-C3 : 12 000 EUR/ha.
+C3 : 17 775 euros / ha.
 
 (*) Lorsque la durée d'autorisation est inférieure à cinq ans, la période considérée est égale à la durée d'autorisation. Lorsque la durée d'autorisation est d'au moins cinq ans, la période considérée est de cinq ans (si la durée d'autorisation n'est pas un multiple de 5, une des périodes est inférieure à cinq ans).

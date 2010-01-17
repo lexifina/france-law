@@ -12,10 +12,10 @@ Cn : le montant des garanties financières à provisionner l'année n et figuran
 
 Indexn : indice TP01 au moment de la constitution du document d'attestation de la constitution de garanties financières.
 
-IndexR : indice TP01 utilisé pour l'établissement du montant de référence des garanties financières fixé par l'arrêté préfectoral ou indice TP01 de février 1998 (416. 2) pour les carrières conservant comme montant de référence le montant forfaitaire calculé en appliquant les dispositions de l'arrêté du 10 février 1998.
+IndexR : indice TP01 utilisé pour l'établissement du montant de référence des garanties financières fixé par l'arrêté préfectoral ou indice TP01 mai 2009 (616, 5) pour les carrières conservant comme montant de référence le montant forfaitaire calculé en appliquant les dispositions de l'arrêté du 9 février 2004.
 
 TVAn : taux de la TVA applicable au moment de la constitution du document d'attestation de la constitution de garanties financières.
 
-TVAR : taux de la TVA applicable à l'établissement de l'arrêté préfectoral fixant le montant de référence des garanties financières. Pour les carrières conservant comme montant de référence le montant forfaitaire calculé en appliquant les dispositions de l'arrêté du 10 février 1998, ce taux est de 0. 206.
+TVAR : taux de la TVA applicable à l'établissement de l'arrêté préfectoral fixant le montant de référence des garanties financières. Pour les carrières conservant comme montant de référence le montant forfaitaire calculé en appliquant les dispositions de l'arrêté du 9 février 2004, ce taux est de 0, 196.
 
 Les indices TP01 sont consultables au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes.
