@@ -272,7 +272,7 @@ par emploi
 
 |
 
-Assistant technique auprès du sous-préfet de Lisieux pour le contrat ville
+Responsable de l'unité de traitement des situations individuelles (3)
 
 |
 
@@ -288,7 +288,7 @@ A
 
 |
 
-Responsable de l'unité ville, quartiers habitats
+Chargé de mission développement de l'offre de logement, renouvellement urbain, habitat indigne (3)
 
 |
 
@@ -300,11 +300,25 @@ A
 
 |
 
+30 points
+
+|
+
+Adjoint au responsable de l'unité ville quartiers habitats (4) |
+
+B
+
+|
+
+1
+
+|
+
 20 points
 
 |
 
-Adjoint au responsable de l'unité ville, quartiers habitats
+Responsable de l'unité rénovation urbaine (5)
 
 |
 
@@ -320,7 +334,7 @@ B
 
 |
 
-Animateur au sein de l'unité ville, quartiers habitats
+Gestionnaire de la commission départementale des aides publiques au logement, chargé de la présidence de la commission départementale des aides publiques au logement en cas d'absence du titulaire (3)
 
 |
 
@@ -1301,3 +1315,9 @@ NOTA :
 (1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+
+(3) En application de l'article 1 de l'arrêté du 29 décembre 2009, entre en vigueur à compter du 1er janvier 2009.
+
+(4) En application des articles 1 et 2 de l'arrêté du 29 décembre 2009, en vigueur à compter du 1er janvier 2009 et jusqu'au 1er juillet 2009.
+
+(5) En application de l'article 2 de l'arrêté du 29 décembre 2009, entre en vigueur à compter du 1er juillet 2009.
