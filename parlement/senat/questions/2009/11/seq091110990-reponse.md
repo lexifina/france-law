@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110990
+
+- Question : [SEQ091110990](seq091110990.md) — Revalorisation de la retraite du combattant
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2010-01-21, page 126*
+
+La poursuite de la revalorisation de la retraite du combattant, que le Président de la République s'est engagé à porter à 48 points d'ici à 2012, est la première priorité budgétaire du secrétaire d'État à la défense et aux anciens combattants. La revalorisation de 41 à 43 points d'indice en 2010 prendra effet, comme pour les années antérieures, le 1er juillet. À l'initiative du Gouvernement et conformément au souhait exprimé par la représentation nationale, cette mesure a été inscrite dès le dépôt du projet de loi de finances initiale. Le Gouvernement manifeste ainsi le plus clairement possible tout l'intérêt qu'il porte à cette mesure légitime, dans la droite ligne des engagements du Président de la République. Le secrétaire d'État travaille d'ores et déjà aux prochaines étapes de la revalorisation de la retraite du combattant en vue d'atteindre l'objectif de 48 points en 2010. Pour ce qui est de l'allocation différentielle en faveur des conjoints survivants de ressortissants de l'Office national des anciens combattants et victimes de guerre, son montant a été revalorisé de 681 euros à 750 euros avec effet au 1er janvier 2008. Il a par ailleurs été décidé de neutraliser, à la même date, l'allocation personnalisée au logement dans l'évaluation des ressources prises en compte. Ainsi que l'a confirmé le secrétaire d'État à la défense et aux anciens combattants à l'Assemblée nationale le 2 novembre et au Sénat le 2 décembre, le montant plafond de l'allocation différentielle a été porté à 800 euros le 1er janvier dernier, puis sera porté à 817 euros en cours de gestion 2010.
