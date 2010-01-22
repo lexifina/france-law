@@ -1,0 +1,1021 @@
+# Article Annexe
+
+NOM DU NAVIRE
+
+|
+
+QUARTIER D'IMMATRICULATION
+
+|
+
+NUMÉRO D'IMMATRICULATION
+
+|
+
+AGAPE
+
+|
+
+MARSEILLE
+
+|
+
+MA D62 276
+
+|
+
+AITOR
+
+|
+
+MARSEILLE
+
+|
+
+MA D73 225
+
+|
+
+ALBARQUEL
+
+|
+
+DIEPPE
+
+|
+
+DP 493 072
+
+|
+
+ANTHEA
+
+|
+
+MARENNES
+
+|
+
+MN A33 944
+
+|
+
+ARGIE
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 107 335
+
+|
+
+ARIEGE
+
+|
+
+MARTIGUE
+
+|
+
+MT 180 932
+
+|
+
+ATAO
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 444 100
+
+|
+
+AU GRE DES VENTS
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 329 007
+
+|
+
+BATEL EURE
+
+|
+
+ROUEN
+
+|
+
+RO D74 053
+
+|
+
+BELLE ETOILE
+
+|
+
+CAMARET
+
+|
+
+CM 803 167
+
+|
+
+BILBO'CH
+
+|
+
+AURAY
+
+|
+
+AY 195 084
+
+|
+
+BRIGITTE
+
+|
+
+MORLAIX
+
+|
+
+MX 300 052
+
+|
+
+BUDDING ROSE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR B71 762
+
+|
+
+CAP A D'EAU
+
+|
+
+ROUEN
+
+|
+
+RO D74 073
+
+|
+
+CATALINA
+
+|
+
+BASTIA
+
+|
+
+BI 314 850
+
+|
+
+DREKNOR
+
+|
+
+CHERBOURG
+
+|
+
+CH D65 753
+
+|
+
+DULCIMER
+
+|
+
+SAINT-MALO
+
+|
+
+SM 281 599
+
+|
+
+EL DIABLO
+
+|
+
+ROUEN
+
+|
+
+RO D74 079
+
+|
+
+ELFE
+
+|
+
+NOIRMOUTIER
+
+|
+
+NO 193 693
+
+|
+
+ETOILE BOB IV
+
+|
+
+SAINT-MALO
+
+|
+
+SM 236 492
+
+|
+
+FILDOU
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 684 639
+
+|
+
+FILOSOOF
+
+|
+
+MARSEILLE
+
+|
+
+MA 432 310
+
+|
+
+FLEUR DES ONDES
+
+|
+
+PAIMPOL
+
+|
+
+PL 300 016
+
+|
+
+FRANÇOIS MONIQUE
+
+|
+
+BREST
+
+|
+
+BR 496 777
+
+|
+
+FRANÇOISE II
+
+|
+
+MARSEILLE
+
+|
+
+MA 361 344
+
+|
+
+GALATHEE
+
+|
+
+MARENNES
+
+|
+
+MN 406 189
+
+|
+
+GISELE-ROGER
+
+|
+
+CAMARET
+
+|
+
+CM 231 615
+
+|
+
+GULLVEIG
+
+|
+
+LE GUILVINEC
+
+|
+
+GV D62 229
+
+|
+
+HALEWYN
+
+|
+
+DUNKERQUE
+
+|
+
+DK 336 702
+
+|
+
+HEGREGORE
+
+|
+
+MARENNES
+
+|
+
+MN 536 410
+
+|
+
+HELIKE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 5 657
+
+|
+
+HNOSS
+
+|
+
+LE PORT
+
+|
+
+RU A18 213
+
+|
+
+HOLL AVEL
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 114 450
+
+|
+
+HYGIE
+
+|
+
+BASTIA
+
+|
+
+BI 262 331
+
+|
+
+JANE
+
+|
+
+ARCACHON
+
+|
+
+AC 300 930
+
+|
+
+JEAN G
+
+|
+
+MARSEILLE
+
+|
+
+MA 308 412
+
+|
+
+JOANNES
+
+|
+
+TOULON
+
+|
+
+TL 247 715
+
+|
+
+JOLI VENT
+
+|
+
+VANNES
+
+|
+
+VA 307 202
+
+|
+
+KENEIL-KOZH
+
+|
+
+BREST
+
+|
+
+BR 228 203
+
+|
+
+KERFIU
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 267 701
+
+|
+
+KERZ ATAO
+
+|
+
+SAINT-MALO
+
+|
+
+SM 199 198
+
+|
+
+LA CANCALAISE
+
+|
+
+SAINT-MALO
+
+|
+
+SM 681 670
+
+|
+
+LA DELIRANTE
+
+|
+
+ARCACHON
+
+|
+
+AC 322 302
+
+|
+
+LA GAILLARDE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 167 304
+
+|
+
+LA TRAMONTANE
+
+|
+
+NICE
+
+|
+
+NI 256 216
+
+|
+
+LADY BIRD
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 227 061
+
+|
+
+LOCHENN
+
+|
+
+VANNES
+
+|
+
+VA 416 867
+
+|
+
+LOU FRISA
+
+|
+
+TOULON
+
+|
+
+TL 247 051
+
+|
+
+LOU TCHERNE
+
+|
+
+TOULON
+
+|
+
+TL 479 200
+
+|
+
+LYS NOIR
+
+|
+
+CHERBOURG
+
+|
+
+CH 518 391
+
+|
+
+MAGALIE
+
+|
+
+TOULON
+
+|
+
+TL 246 862
+
+|
+
+MAITA
+
+|
+
+VANNES
+
+|
+
+VA 847 627
+
+|
+
+MARIE-CLAUDINE
+
+|
+
+BREST
+
+|
+
+BR 787 127
+
+|
+
+MARINEMILIE
+
+|
+
+MARSEILLE
+
+|
+
+MA 145 953
+
+|
+
+MELMOR
+
+|
+
+MARTIGUE
+
+|
+
+MT 423 332
+
+|
+
+MISE EN SEINE
+
+|
+
+ROUEN
+
+|
+
+RO D74 061
+
+|
+
+MOANA
+
+|
+
+NICE
+
+|
+
+NI 367 521
+
+|
+
+MOXIE
+
+|
+
+PORT-VENDRES
+
+|
+
+PV D64 806
+
+|
+
+NOTRE DAME DE BECQUEREL
+
+|
+
+AURAY
+
+|
+
+AY 800 011
+
+|
+
+ONDINE
+
+|
+
+ARCACHON
+
+|
+
+AC D17 193
+
+|
+
+OTHONA
+
+|
+
+SETE
+
+|
+
+ST 215 962
+
+|
+
+PATCHIKU
+
+|
+
+BAYONNE
+
+|
+
+BA 294 644
+
+|
+
+PAUL-EMILE GV 4564
+
+|
+
+AUDIERNE
+
+|
+
+AD A10 461
+
+|
+
+PERCEVAL
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 321 143
+
+|
+
+PIR 2
+
+|
+
+BOULOGNE
+
+|
+
+BL 614 305
+
+|
+
+PORTHOS
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 759 438
+
+|
+
+PRETTY MARY
+
+|
+
+NICE
+
+|
+
+NI 622 144
+
+|
+
+RECKY
+
+|
+
+TOULON
+
+|
+
+TL 171 302
+
+|
+
+REGAIN 2
+
+|
+
+CHERBOURG
+
+|
+
+CH 573 877
+
+|
+
+REGION DE PICARDIE
+
+|
+
+FORT-DE-FRANCE
+
+|
+
+FF 633 207
+
+|
+
+SAINT-PAUL
+
+|
+
+MARSEILLE
+
+|
+
+MA481 354
+
+|
+
+SAMALIA
+
+|
+
+DUNKERQUE
+
+|
+
+DK 147 164
+
+|
+
+SAN MARTINU
+
+|
+
+AJACCIO
+
+|
+
+AJ 257 522
+
+|
+
+SAUDADE
+
+|
+
+ARCACHON
+
+|
+
+AC C38 609
+
+|
+
+SIPADAN
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 488 913
+
+|
+
+SYBILLE
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 182 106
+
+|
+
+TENKARRA
+
+|
+
+TOULON
+
+|
+
+TL E10 755
+
+|
+
+THE FAR AWAY
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 305 622
+
+|
+
+TRUMPETER
+
+|
+
+TOULON
+
+|
+
+TL 477 180
+
+|
+
+VAGABOND'EUX
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 468 724
+
+|
+
+WILD HORSES
+
+|
+
+MORLAIX
+
+|
+
+MX 533 738
+
+|
+
+WINGOVER
+
+|
+
+LA ROCHELLE
+
+|
+
+LR D60 326
+
+|
+
+WINIBELLE II
+
+|
+
+CHERBOURG
+
+|
+
+CH 187 420
+
+|
+
+ZOU MAI GALOI
+
+|
+
+TOULON
+
+|
+
+TL 861 084
+
+|
