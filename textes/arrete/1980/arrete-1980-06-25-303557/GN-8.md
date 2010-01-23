@@ -1,179 +1,19 @@
 # Article GN 8
 
-Admission des handicapés
+Principes fondamentaux de conception et d'exploitation d'un établissement pour tenir compte des difficultés rencontrées lors de l'évacuation
 
-§ 1. En application des dispositions de l'article R. 123-3 du code de la construction et de l'habitation, les effectifs, déterminés en pourcentage par rapport à l'effectif total du public admissible ou en chiffre absolu, au-delà desquels la présence de personnes handicapées circulant en fauteuil roulant nécessite l'adoption de mesures spéciales de sécurité, sont définis comme suit.
+L'évacuation est la règle pour les personnes pouvant se déplacer jusqu'à l'extérieur du bâtiment. Pour tenir compte de l'incapacité d'une partie du public à évacuer ou à être évacué rapidement, et satisfaire aux dispositions de l'article R. 123-4 du code de la construction et de l'habitation, les principes suivants sont retenus :
 
-TYPE
+1. Tenir compte de la nature de l'exploitation et en particulier de l'aide humaine disponible en permanence pour participer à l'évacuation ;
 
-d'établissement
+2. Formaliser dans le dossier prévu à l'article R. 123-22 la ou les solutions retenues pour l'évacuation de chaque niveau de la construction en tenant compte des différentes situations de handicap ;
 
-|
+3. Créer à chaque niveau des espaces d'attente sécurisés ;
 
-REZ-DE-CHAUSSÉE
+4. Créer des cheminements praticables, menant aux sorties ou aux espaces d'attente sécurisés ;
 
-|
+5. Installer un équipement d'alarme perceptible tenant compte de la spécificité des locaux et des différentes situations de handicap des personnes amenées à les fréquenter isolément ;
 
-AUTRE NIVEAU
+6. Garder au niveau de l'exploitant la trace de la (ou des) solution (s) retenue (s) par le maître d'ouvrage et validée (s) par la commission de sécurité compétente ;
 
-|
-
-Structures d'accueil pour personnes âgées et personnes handicapées.
-
-|
-
-Sans objet.
-
-|
-
-Sans objet.
-
-|
-
-Etablissements de spectacle, salles de conférence et de réunion, bals et dancings.
-
-|
-
-5 % de handicapés accompagnés ou non avec un minimum de deux.
-
-|
-
-1 % de handicapés accompagnés avec un minimum de deux.
-
-|
-
-Restaurants, cafés, bibliothèques, musées.
-
-|
-
-10 % de handicapés accompagnés ou non avec un minimum de quatre.
-
-|
-
-1 % de handicapés accompagnés avec un minimum de deux.
-
-|
-
-Magasins de vente, supermarchés ou hypermarchés, halls d'exposition.
-
-|
-
-2 % de handicapés accompagnés ou non avec un minimum de quatre.
-
-|
-
-0, 5 % de handicapés accompagnés avec un minimum de deux.
-
-|
-
-Centres commerciaux.
-
-|
-
-5 % de handicapés accompagnés ou non avec un minimum de quatre.
-
-|
-
-2 % de handicapés accompagnés avec un minimum de deux.
-
-|
-
-Hôtels.
-
-|
-
-25 % de handicapés accompagnés ou non avec un minimum de quatre.
-
-|
-
-1 % de handicapés accompagnés avec un minimum de deux.
-
-|
-
-Etablissements d'éveil, d'enseignement, de formation, centres de vacances, centres de loisirs sans hébergement.
-
-|
-
-1, 5 % de handicapés accompagnés ou non avec un minimum de deux.
-
-|
-
-Même effectif qu'en rez-de-chaussée.
-
-|
-
-Etablissements de l'enseignement supérieur publics ou privés.
-
-|
-
-5 % de handicapés accompagnés ou non avec un minimum de deux.
-
-|
-
-Même effectif qu'en rez-de-chaussée.
-
-|
-
-Etablissements sanitaires publics ou privés.
-
-|
-
-Sans objet.
-
-|
-
-Sans objet.
-
-|
-
-Etablissements de culte.
-
-|
-
-Sans limitation.
-
-|
-
-10 % de handicapés accompagnés avec un minimum de cinq.
-
-|
-
-Banques et administrations publiques ou privées.
-
-|
-
-Sans limitation.
-
-|
-
-Sans limitation.
-
-|
-
-Piscines et établissements sportifs couverts.
-
-|
-
-Sans limitation.
-
-|
-
-10 % de handicapés accompagnés avec un minimum de cinq.
-
-|
-
-§ 2. Lorsque le nombre de personnes handicapées dépasse les effectifs fixés ci-dessus, les mesures spéciales prévues au paragraphe 1 comportent notamment les dispositions générales indiquées ci-après et, pour certains types d'établissements, les dispositions particulières fixées dans la suite du présent règlement.
-
-a) L'évacuation des personnes handicapées circulant en fauteuil roulant doit être réalisée :
-
--soit au moyen d'ascenseurs dans les conditions précisées à la section II, chapitre IX, titre Ier, du livre II ;
-
--soit au moyen de tous autres dispositifs équivalents acceptés après avis de la commission consultative départementale de la protection civile, tels que rampes, manches d'évacuation, etc.
-
-b) Les bâtiments recevant des handicapés physiques circulant en fauteuil roulant doivent être équipés :
-
--pour les établissements des 1re, 2e et 3e catégories et ceux de la 4e catégorie comprenant des locaux à sommeil, d'un système de sécurité incendie de catégorie A ;
-
--pour les autres établissements, d'un équipement d'alarme du type 2 b ;
-
--d'un téléphone relié au réseau public, accessible en permanence, permettant d'alerter les services de secours et de lutte contre l'incendie.
+7. Elaborer sous l'autorité de l'exploitant les procédures et consignes d'évacuation prenant en compte les différents types de handicap.
