@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107091
+
+- Question : [SEQ090107091](seq090107091.md) — Actualisation des sites et des formulaires de l'assurance retraite
+
+## Réponse
+
+*Travail, JO du 2010-01-28, page 196*
+
+Conformément à l'engagement pris par le Président de la République et à la suite de la concertation menée avec l'ensemble des organisations représentatives au cours des mois de mai et juin 2008, les règles du cumul emploi retraite ont été révisées dans le cadre de la loi n° 2008-1330 du 17 décembre 2008 de financement de la sécurité sociale pour 2009, publiée au Journal officiel du 18 décembre 2008. Depuis le 1er janvier 2009, les titulaires d'une pension de retraite, notamment du régime général, qui reprennent une activité salariée peuvent cumuler en intégralité cette pension avec leur salaire, sous réserve d'être dans l'une des deux situations suivantes : être âgés d'au moins 60 ans et disposer de la durée d'assurance requise pour avoir une pension au taux plein ; être âgés d'au moins 65 ans. Le nouvel imprimé de demande de retraite personnelle prenant en compte ces nouvelles dispositions est dorénavant en ligne sur le site de la Caisse nationale d'assurance vieillesse des travailleurs salariés (www.retraite. cnav.fr, rubrique « téléchargez des imprimés »). Par ailleurs, dans le cadre de l'information et du conseil aux entreprises, la convention d'objectifs et de gestion entre l'État et la Caisse nationale d'assurance vieillesse (CNAV) (2009-2013) prévoit une nouvelle offre de services « informations-conseils » à destination des employeurs et des salariés, afin de les éclairer en tant que de besoin sur les différentes dispositions en matière de retraite, et, en particulier, celles intéressant le maintien dans l'emploi des seniors et incitatives à la poursuite d'activité.
