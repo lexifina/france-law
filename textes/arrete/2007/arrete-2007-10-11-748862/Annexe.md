@@ -128,26 +128,6 @@ Dessinateur principal
 
 |
 
-Corps des conducteurs d'automobile
-
-|
-
-Conducteur d'automobile de 1re catégorie
-
-|
-
-4 %
-
-|
-
-Conducteur d'automobile hors catégorie
-
-|
-
-6 %
-
-|
-
 Corps des conducteurs ambulanciers
 
 |
