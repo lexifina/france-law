@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010652
+
+- Question : [SEQ091010652](seq091010652.md) — Obligation d'équiper les autocars de ceintures de sécurité
+
+## Réponse
+
+*Transports, JO du 2010-01-28, page 195*
+
+La France a été, en 1999, le premier État membre de l'Union européenne à imposer l'équipement des autocars neufs en ceintures de sécurité. Elle dispose donc du parc de véhicules le mieux équipé au sein de l'Union européenne, et la proportion d'autocars équipés progresse au fur et à mesure de son renouvellement. L'obligation d'équipement des autocars en ceintures de sécurité à toutes les places a été introduite par les directives européennes 96/36/CE, 96/37/CE et 96/38/CE du 17 juin 1996, transposées en droit français par l'arrêté du 5 décembre 1996, qui s'applique à tous les autocars de plus de 3,5 tonnes mis en circulation depuis le 1er octobre 1999 et à ceux de moins de 3,5 tonnes mis en circulation à partir du 1er octobre 2001. Pour accélérer l'équipement des véhicules, l'arrêté du 13 octobre 2009 modifiant l'arrêté du 2 juillet 1982 relatif aux transports en commun de personnes a fixé l'échéance du 1er septembre 2015 pour que tous les autocars soient équipés de ceintures de sécurité. Ce délai correspond à celui nécessaire pour permettre le remplacement des véhicules non équipés par des autocars neufs. Il n'est en effet pas possible ou extrêmement complexe et coûteux d'installer des ceintures de sécurité sur des véhicules qui n'en sont pas équipés. Pour les entreprises de transport, cette obligation constitue un effort important d'investissement. Elles devront répondre, dans le même temps, à la mise en accessibilité aux personnes à mobilité réduite ainsi qu'à l'équipement en éthylotests antidémarrage de tous les véhicules. L'ensemble de ces mesures permettra de confirmer le haut niveau de sécurité du transport routier de voyageurs, qui constitue un vecteur important du développement des transports collectifs de voyageurs en France.
