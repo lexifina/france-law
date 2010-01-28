@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211146
+
+- Question : [SEQ091211146](seq091211146.md) — Télévision en prison
+
+## Réponse
+
+*Justice, JO du 2010-01-28, page 189*
+
+Deux modalités différentes permettent aux personnes détenues de se procurer la télévision. La première est l'achat en « cantine », la seconde est la location d'un poste auprès d'un partenaire agréé (prestataire privé ou association socioculturelle de l'établissement). 61 % des téléviseurs loués sont gérés par les associations socioculturelles, 35 % sont gérés directement par l'établissement et 3 % par un prestataire privé. En règle générale, seuls les détenus en établissements pour peine peuvent faire l'acquisition d'un poste de télévision. La durée des peines, l'encellulement individuel, une activité rémunérée, le peu de transferts pendant la durée de détention justifient cette pratique. 3 % seulement des détenus sont propriétaires de leur téléviseur. En effet, la location du poste permet dans la plupart des cas de bénéficier d'un bouquet de chaînes câblées inclus, ce qui rend la location plus attractive. Pour remédier aux éventuelles disparités de traitement, la direction de l'administration pénitentiaire a diffusé le 6 août 2009 une instruction relative aux conditions d'achat et d'usage des téléviseurs. En application de cette instruction, une personne détenue propriétaire de sa télévision pourra désormais conserver son poste, même en cas de transfert dans un autre établissement. Par ailleurs et dans un souci constant d'amélioration des conditions de détention et de modernisation du système pénitentiaire, les établissements pénitentiaires à gestion déléguée ont modifié leur tarif de location en proposant aux personnes détenues un montant mensuel unique de 18 euros par poste à compter du 1er janvier 2010, avec un accès à la TNT (19 chaînes gratuites).
