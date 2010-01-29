@@ -1,12 +1,12 @@
-# Article 14 : Le contrat de professionnalisation
+# Article 14
 
 Article 14.1
 
 Le contrat de professionnalisation de 6 à 12 mois
 
-Le contrat de professionnalisation d'un salarié intérimaire peut être conclu pour une durée de 6 à 12 mois. Ce contrat ne comprend que des actions de formation mises en oeuvre par un organisme de formation externe et des périodes de mission.
+Le contrat de professionnalisation d'un salarié intérimaire peut être conclu pour une durée de 6 à 12 mois. Ce contrat ne comprend que des actions de formation mises en œuvre par un organisme de formation externe et des périodes de mission.
 
-Il peut être mis en oeuvre pour tout type de validation.
+Il peut être mis en œuvre pour tout type de validation.
 
 Les actions de formation prévues au contrat de professionnalisation sont d'une durée comprise entre 15 % et 25 % de la durée totale du contrat sans pouvoir être inférieure à 150 heures. Toutefois, lorsque le contrat est validé par un diplôme, la durée des actions de formation peut être portée jusqu'à 50 % de la durée totale du contrat.
 
@@ -32,7 +32,7 @@ Article 14.2
 
 Le contrat de professionnalisation d'une durée supérieure à 12 mois
 
-La durée du contrat de professionnalisation peut être supérieure à 12 mois dans la limite de 24 mois, à condition que les actions de formation mises en oeuvre par un organisme de formation externe soient d'une durée supérieure à 25 % sans pouvoir dépasser 50 % de la durée totale du contrat.
+La durée du contrat de professionnalisation peut être supérieure à 12 mois dans la limite de 24 mois, à condition que les actions de formation mises en œuvre par un organisme de formation externe soient d'une durée supérieure à 25 % sans pouvoir dépasser 50 % de la durée totale du contrat.
 
 Article 14.2.1
 
@@ -44,17 +44,17 @@ Un contrat de professionnalisation d'une durée supérieure à 12 mois peut êtr
 
 - aux jeunes et aux demandeurs d'emploi n'ayant pas achevé un second cycle de l'enseignement secondaire et non titulaires d'un diplôme de l'enseignement technologique ou professionnel ;
 
-- les personnes ayant interrompu leur activité professionnelle pour s'occuper de leurs enfants ou de leur conjoint ou ascendants en situation de dépendance ;
+- aux personnes ayant interrompu leur activité professionnelle pour s'occuper de leurs enfants ou de leur conjoint ou ascendants en situation de dépendance ;
 
 - aux personnes de plus de 45 ans sans qualification reconnue ou dont la qualification ne leur permet plus d'accéder à un emploi ;
 
-- les bénéficiaires de l'obligation d'emploi tels que prévus à l'article L. 323-3 du code du travail, dont les travailleurs handicapés ;
+- aux bénéficiaires de l'obligation d'emploi tels que prévus à l'article L. 323-3 du code du travail, dont les travailleurs handicapés ;
 
-- les personnes éloignées de l'emploi bénéficiant de dispositifs tels que, notamment, le RMI, ou l'ASS ;
+- aux personnes éloignées de l'emploi bénéficiant de dispositifs tels que, notamment, le RMI, ou l'ASS ;
 
 - aux salariés intérimaires reconnus inaptes, par le médecin du travail, à occuper un emploi correspondant à leur qualification antérieure ;
 
-- les demandeurs d'emploi titulaires d'un titre ou d'un diplôme qui n'offre pas de débouchés sur le bassin d'emploi.
+- aux demandeurs d'emploi titulaires d'un titre ou d'un diplôme qui n'offre pas de débouchés sur le bassin d'emploi.
 
 Article 14.2.2
 
@@ -76,7 +76,9 @@ Cette formation pratique doit permettre l'application des acquis de la formation
 
 Article 14.2.4
 
-Dans le respect des règles fixées pour la formation des conducteurs routiers par la DGEFP et les partenaires sociaux du transport et auxiliaires de transport, les entreprises de travail temporaire peuvent déroger aux règles de durée des contrats et des formations des articles 14. 1 et 14. 2 relatifs aux contrats de professionnalisation des salariés intérimaires.
+Formation des conducteurs routiers
+
+Dans le respect des règles fixées pour la formation des conducteurs routiers par la DGEFP et les partenaires sociaux du transport et auxiliaires de transport, les entreprises de travail temporaire peuvent déroger aux règles de durée des contrats et des formations des articles 14.1 et 14.2 relatifs aux contrats de professionnalisation des salariés intérimaires.
 
 Article 14.2.5
 
