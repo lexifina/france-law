@@ -244,7 +244,7 @@ B
 
 |
 
-Chef de dépôt d'étalon aux Haras nationaux
+Chef de dépôt d'étalon à L'Institut français du cheval et de l'équitation
 
 |
 

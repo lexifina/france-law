@@ -1,37 +1,77 @@
 # Article ANNEXE II
 
-I- CATÉGORIES D'AGENTS NON TITULAIRES
+Tableau de correspondance
 
-II- FONCTIONS EXERCÉES
+CATÉGORIES D'AGENTS
 
-III- CORPS DE FONCTIONNAIRES
+non titulaires
 
-I- Agents contractuels type CNRS de 2e catégorie D et de 3e catégorie D en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+|
 
-II- Tâches d'application administrative (rédaction, gestion, comptabilité).
+FONCTIONS EXERCÉES
 
-III- Secrétaires d'administration scolaire et universitaire.
+|
 
-I- Agents contractuels administratifs du niveau de la catégorie B, recrutés sur le fondement d'un contrat individuel, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+CORPS DE FONCTIONNAIRES
 
-II- Tâches d'application administrative (rédaction, gestion, comptabilité).
+|
 
-III- Secrétaires d'administration scolaire et universitaire.
+Agents contractuels type CNRS de 2e catégorie D et de 3e catégorie D en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
 
-I- Agents contractuels de catégories 1 B et 2 B en fonctions à l'Ecole nationale d'équitation.
+|
 
-II- Encadrement des agents affectés aux fonctions de service d'entretien et de soins aux animaux, de maintenance et d'accueil.
+Tâches d'application administrative (rédaction, gestion, comptabilité).
 
-III- Techniciens de recherche et de formation.
+|
 
-I- Agents contractuels techniques type CNRS de 2e catégorie B et de 3e catégorie B, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+Secrétaires d'administration scolaire et universitaire.
 
-II- Tâches mettant en oeuvre l'ensemble des techniques et des méthode concourant à la réalisation des missions et programmes d'activité des services ou des établissements.
+|
 
-III- Techniciens de recherche et de formation.
+Agents contractuels administratifs du niveau de la catégorie B, recrutés sur le fondement d'un contrat individuel, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
 
-I- Agents contractuels du niveau de la catégorie B, recrutés sur contrat individuel, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+|
 
-II- Tâches mettant en oeuvre l'ensemble des techniques et des méthodes concourant à la réalisation des missions et programmes d'activité des services ou des établissements.
+Tâches d'application administrative (rédaction, gestion, comptabilité).
 
-III- Techniciens de recherche et de formation.
+|
+
+Secrétaires d'administration scolaire et universitaire.
+
+|
+
+Agents contractuels de catégories 1 B et 2 B en fonctions à l'Institut français du cheval et de l'équitation.
+
+|
+
+Encadrement des agents affectés aux fonctions de service d'entretien et de soins aux animaux, de maintenance et d'accueil.
+
+|
+
+Techniciens de recherche et de formation.
+
+|
+
+Agents contractuels techniques type CNRS de 2e catégorie B et de 3e catégorie B, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+
+|
+
+Tâches mettant en œuvre l'ensemble des techniques et des méthode concourant à la réalisation des missions et programmes d'activité des services ou des établissements.
+
+|
+
+Techniciens de recherche et de formation.
+
+|
+
+Agents contractuels du niveau de la catégorie B, recrutés sur contrat individuel, en fonctions dans les services déconcentrés du ministère chargé de l'éducation nationale et dans les établissements publics en relevant.
+
+|
+
+Tâches mettant en œuvre l'ensemble des techniques et des méthodes concourant à la réalisation des missions et programmes d'activité des services ou des établissements.
+
+|
+
+Techniciens de recherche et de formation.
+
+|
