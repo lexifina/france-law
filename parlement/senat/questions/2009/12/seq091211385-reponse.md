@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211385
+
+- Question : [SEQ091211385](seq091211385.md) — Contrôles alimentaires officiels
+
+## Réponse
+
+*Alimentation, JO du 2010-02-04, page 236*
+
+Conformément aux objectifs définis dans le cadre de la révision générale des politiques publiques, une réforme de l'organisation territoriale a été engagée. Ainsi, les directions départementales interministérielles ont été créées au 1er janvier 2010 par décret, 2009-1484 du 3 décembre 2009. Ce décret prévoit notamment que les directions départementales des services vétérinaires et unités départementales de la concurrence, de la consommation et de la répression des fraudes sont réunies pour constituer les directions départementales en charge de la protection des populations (DDPP). Ces nouvelles directions, placées sous l'autorité du préfet de département, ont un double objectif implicite, continuer l'action menée au service des usagers, avec un niveau de qualité de service au moins équivalent à celui qui était reconnu aux entités administratives précédentes, et renforcer la coordination des agents de l'Ëtat oeuvrant dans des domaines de compétences proches ou identiques. Les bases réglementaires fondant et encadrant les actions d'inspection de ces nouvelles directions restent toutefois inchangées. Ainsi, la base légale sur laquelle sont fondées les analyses officielles vétérinaires reste le code rural, qui prévoit que les laboratoires d'analyses départementaux agréés sont prioritairement chargés des analyses officielles, au même titre que les laboratoires des services et les laboratoires nationaux de référence. La qualité des laboratoires départementaux d'analyses est reconnue depuis plusieurs années et ces derniers participent activement à la surveillance sanitaire du territoire. Ainsi, ils restent évidemment au coeur du dispositif de sécurité sanitaire des aliments et de santé animale.
