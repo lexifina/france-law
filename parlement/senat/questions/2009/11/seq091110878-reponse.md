@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110878
+
+- Question : [SEQ091110878](seq091110878.md) — Liberté syndicale dans le système judiciaire
+
+## Réponse
+
+*Justice, JO du 2010-02-04, page 260*
+
+La charte du dialogue social n'a vocation ni à se substituer aux textes en vigueur ni à restreindre les droits syndicaux et encore moins à porter atteinte à la liberté syndicale ; au contraire, l'échange et le débat avec les représentants des personnels, et donc un dialogue social de qualité, sont essentiels à la modernisation du ministère de la justice et des libertés, qui connaît actuellement de nombreuses réformes et d'importantes restructurations dans le cadre de la révision générale des politiques publiques. Mais le dialogue implique écoute, transparence et respect mutuel. Cela suppose un « code de bonne conduite » commun, garant de la confiance mutuelle, et le bon fonctionnement de règles acceptées par tous. C'est pourquoi le ministre a, dès son arrivée au ministère de la justice et des libertés, tenu à présider un comité technique paritaire ministériel et à proposer aux organisations syndicales représentatives des personnels d'élaborer en commun une charte du dialogue social avec deux objectifs principaux : d'une part, la clarification des règles de ce dialogue ; d'autre part, l'amélioration de sa qualité et de son contenu, au niveau tant local que national. Ainsi, cette charte est conçue comme un engagement réciproque entre l'administration et les représentants du personnel. Elle doit permettre la mise en place de l'ensemble des conditions propices à l'instauration et à la pérennisation d'un dialogue social de qualité. Ëlaborée dans un premier temps au niveau national, cette charte pourra ensuite, si les représentants du personnel le souhaitent, être déclinée aussi bien au niveau des directions qu'à celui des services ou établissements déconcentrés du ministère.
