@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110806
+
+- Question : [SEQ091110806](seq091110806.md) — Futur tracé de la ligne 11 du métro parisien
+
+## Réponse
+
+*Transports, JO du 2010-02-04, page 264*
+
+Le prolongement de la ligne 11 entre Mairie-des-Lilas et Rosny-Bois-Perrier permettra de relier à Paris, en un temps réduit, plusieurs communes, telles que Les Lilas, Romainville, Montreuil-sous-Bois et Rosny-sous-Bois. Le projet est actuellement au stade des études et 10 millions d'euros ont été inscrits au contrat de projets État-région Île-de-France 2007-2013 pour les financer. Par ailleurs, le programme d'investissements de 35 milliards d'euros pour les transports collectifs en Île-de-France, présenté par le Président de la République le 29 avril 2009 lors de son discours sur le Grand Paris, sera également consacré à l'amélioration du réseau existant, dont le prolongement de la ligne 11 fait partie. Le dossier d'objectifs et de caractéristiques principales (DOCP) du prolongement de la ligne 11 a été adopté le 9 décembre 2009 par le conseil d'administration du syndicat des transports d'Île-de-France (STIF), autorité organisatrice des transports en Île-de-France, présidée par le président du conseil régional d'Île-de-France depuis le 1er juillet 2005. Le DOCP, adopté par le STIF, propose deux variantes pour le tracé du prolongement : le premier tracé relie Mairie-des-Lilas à Rosny-Bois-Perrier sur 6 kilomètres et prévoit la construction de cinq nouvelles stations ; le deuxième tracé relie Mairie-des-Lilas à Rosny en desservant le secteur Londeau-Domus sur 5,5 kilomètres et prévoit la construction de six nouvelles stations. Le STIF devrait prochainement saisir la Commission nationale du débat public (CNDP). Le projet est évalué par le STIF à plus de 1 milliard d'euros et prévoit le lancement des travaux à l'horizon 2013.
