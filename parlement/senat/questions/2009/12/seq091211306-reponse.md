@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211306
+
+- Question : [SEQ091211306](seq091211306.md) — Demandes de naturalisation présentées par des étudiants étrangers
+
+## Réponse
+
+*Immigration et intégration, JO du 2010-02-04, page 258*
+
+Le code civil subordonne la naturalisation d'un postulant, outre à une durée minimale de présence de celui-ci en France, à la fixation de sa résidence dans notre pays. La jurisprudence administrative a précisé que, pour être considéré comme ayant sa résidence en France au sens de l'article 21-16 du code civil, le demandeur doit y avoir fixé de manière stable le centre de ses intérêts matériels et de ses liens familiaux. L'appréciation de cette fixation s'opère sur le fondement d'un examen global de la situation de l'intéressé, que permettent notamment d'appréhender des éléments tirés des conditions et de la durée de son séjour, de sa situation personnelle, familiale ou professionnelle ou encore des ressources lui permettant de demeurer en France. La nature du titre de séjour sous couvert duquel l'intéressé se trouve en France, si elle fournit des indications utiles quant à la situation administrative et matérielle du postulant, ne détermine pas à elle seule la fixation ou le défaut de fixation en France de la résidence de son titulaire au sens de l'article 21-16 du code civil. S'agissant plus particulièrement des étudiants, et même si chaque situation doit être appréciée en fonction des données qui lui sont propres et si la condition de cinq années de résidence habituelle en France, exigée par l'article 21-17 du code civil, est remplie, la précarité du titre de séjour portant la mention « étudiant » dont ils disposent, l'absence d'insertion professionnelle ou d'attaches familiales sub-stantielles conduisent en règle générale à considérer que la condition légale de résidence au sens de l'article 21-16 du code civil n'est pas satisfaite.
