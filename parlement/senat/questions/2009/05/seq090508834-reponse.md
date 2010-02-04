@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508834
+
+- Question : [SEQ090508834](seq090508834.md) — Aménagement de la RN 88 en 2 fois 2 voies en Aveyron
+
+## Réponse
+
+*Transports, JO du 2010-02-04, page 262*
+
+L'aménagement de la RN 88 entre Albi et Rodez doit permettre de relier, dans de bonnes conditions, Toulouse à Rodez. Il vise à compléter le maillage du réseau routier français, à assurer le désenclavement des territoires traversés et à améliorer les relations entre les divers pôles économiques desservis par l'itinéraire. L'État, en concertation avec les collectivités locales, est parvenu à dégager une solution permettant d'accélérer cet aménagement. D'une part, la rocade d'Albi et les aménagements de sécurité dans la traversée de Lescure figurent, à hauteur de 47,5 millions d'euros, dans les opérations retenues dans le programme de modernisation des itinéraires (PDMI) 2009-2014, arrêté pour la région Midi-Pyrénées. D'autre part, un programme spécial d'investissement de 260 millions d'euros, dont 140 millions en part État, en sus du PDMI, permettra de moderniser sous forme d'une 2 2 voies cet axe reliant les agglomérations d'Albi et de Rodez. Le préfet de la région Midi-Pyrénées vient ainsi de recevoir un mandat pour négocier les conventions de cofinancement déclinant ces orientations. Les discussions engagées avec les collectivités territoriales concernées devraient permettre de confirmer la programmation rapide de ces opérations. S'agissant des sections situées tout particulièrement sur le territoire aveyronnais, l'avancement technique des opérations permettrait d'envisager, sous réserve de disposer des financements nécessaires, l'engagement en 2010 des travaux de la section Tauriac-La Mothe, et ceux de Baraqueville à l'horizon 2011, compte tenu du moindre degré d'avancement des procédures d'aménagement foncier de cette opération.
