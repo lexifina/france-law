@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110901
+
+- Question : [SEQ091110901](seq091110901.md) — Déploiement de mini-drones en Afghanistan dans les FOB françaises de la brigade Lafayette
+
+## Réponse
+
+*Défense, JO du 2010-02-04, page 247*
+
+Le système drone de reconnaissance au contact (DRAC) permet aux fantassins de disposer d'engins aériens légers, capables de déceler et de localiser en temps réel une présence ennemie ou une attitude hostile sur un axe ou des points précis, d'être renseigné sur la configuration d'un terrain, d'évaluer l'efficacité de tirs ou encore de surveiller une zone déterminée. Chaque système DRAC comporte deux drones. Le système DRAC doit équiper d'ici à 2011 les huit unités de renseignement de brigade et le régiment de drones de l'armée de terre. Le DRAC a déjà été utilisé dans des contextes opérationnels, notamment lors de la campagne menée au Kosovo mi-2008, ou lors de l'expérimentation technico-opérationnelle conduite à Djibouti de mars à avril 2009. Néanmoins, les retours d'expérience ont souligné la nécessité de lancer des actions complémentaires afin de rendre le système plus robuste. Les solutions techniques ont été identifiées et les actions correctrices vont être appliquées dans le courant du premier trimestre 2010 aux systèmes déjà livrés à l'armée française. En tout état de cause, l'armée française ne disposait pas jusqu'à présent d'un nombre suffisant de systèmes DRAC pour apporter à nos forces une réelle plus-value sur le théâtre d'opération afghan. La livraison de trente-cinq nouveaux systèmes va permettre de disposer désormais du nombre de DRAC nécessaire au soutien optimal de nos troupes déployées en Afghanistan. Compte tenu de l'ensemble de ces éléments, l'engagement opérationnel des systèmes DRAC en Afghanistan est envisagé pour le printemps 2010.
