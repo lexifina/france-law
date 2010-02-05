@@ -1844,6 +1844,34 @@ Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
+Décisions entrant dans le champ de compétences de la direction générale de la modernisation de l’Etat
+
+Décret n
+
+°
+
+2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
+
+n
+
+°
+
+2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités
+
+administratives et entre les autorités administratives
+
+1
+
+|
+
+Référencement des produits de sécurité et des prestataires de services de confiance.
+
+|
+
+Second alinéa de l’article 24.
+
+|
+
 Convention douanière de Genève relative au transport
 
 international de marchandises sous le couvert de carnets TIR, du 14 novembre 1975

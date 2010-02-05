@@ -154,6 +154,44 @@ Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité
 
 |
 
+Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
+
+1
+
+|
+
+Délivrance, suspension et retrait de la qualification de produits de sécurité.
+
+|
+
+Article 9
+
+|
+
+2
+
+|
+
+Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance.
+
+|
+
+Premier alinéa de l'article 10 et article 13
+
+|
+
+3
+
+|
+
+Délivrance, suspension et retrait de la qualification de prestataires de services de confiance.
+
+|
+
+Second alinéa de l'article 19
+
+|
+
 Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
 
 1
