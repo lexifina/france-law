@@ -184,9 +184,7 @@ CSERD de Paris-Garancière, groupe hospitalier Pitié-Salpêtrière
 
 |
 
-5703 PUOD 1663
-
-Plein temps
+5703 MCOD 1663
 
 |
 
