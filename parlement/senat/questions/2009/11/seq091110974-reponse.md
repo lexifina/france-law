@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110974
+
+- Question : [SEQ091110974](seq091110974.md) — Accueil périscolaire
+
+## Réponse
+
+*Éducation, JO du 2010-02-11, page 322*
+
+Conformément à l'article L. 212-8 du code de l'éducation, lorsque des écoles d'une commune reçoivent des élèves dont la famille est domiciliée dans une autre commune, la répartition des dépenses de fonctionnement se fait par accord entre la commune d'accueil et la commune de résidence. Toutefois, la réglementation pose des limites à la scolarisation d'un enfant en dehors de sa commune de résidence, le législateur s'étant efforcé d'établir un équilibre entre, d'une part, les droits des parents et des élèves et, d'autre part, les intérêts des communes. Ainsi, dès lors que la commune de résidence dispose d'une capacité d'accueil suffisante, elle ne peut être tenue de participer financièrement que si le maire a donné son accord à la scolarisation hors de la commune et dans un certain nombre de cas dérogatoires limitativement énumérés. En particulier, la commune de résidence doit participer à la scolarisation d'enfants dans une autre localité lorsque qu'elle n'assure pas directement ou indirectement la restauration et la garde des enfants, ou l'une seulement de ces deux prestations, et que les parents exercent une activité professionnelle. Le fait de laisser à la disposition de jeunes enfants fréquentant une école maternelle ou élémentaire un local équipé pour réchauffer la nourriture qu'ils apportent pour leur déjeuner ne peut être assimilé à la mise en place d'un service de restauration. Cette appellation s'applique à l'organisation par la commune, directement ou indirectement, d'un service de restauration collective assurant aux enfants des repas équilibrés en application de la circulaire n° 2001-118 du 25 juin 2001 relative à la composition des repas servis en restauration scolaire et à la sécurité des aliments.
