@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010528
+
+- Question : [SEQ091010528](seq091010528.md) — Urgence des travaux de consolidation des digues sur l'île de Sein (Finistère)
+
+## Réponse
+
+*Écologie, JO du 2010-02-11, page 319*
+
+L'État soutient les actions des collectivités en matière de gestion du trait de côte en mobilisant des financements sur le budget de l'Agence de financement des infrastructures de transport de France (AFITF). Les circulaires de programmation des crédits fixent le champ prioritaire d'intervention à retenir en matière de subvention de l'État pour les opérations de défense contre la mer. Les opérations doivent contribuer résolument à assurer la sécurité des personnes et des biens, et, en particulier, les zones où un plan de prévention du risque littoral est approuvé, sont prioritaires. La reconstitution des protections existantes est possible sous réserve qu'elles n'aient pas d'effet aggravant sur le phénomène d'érosion. Les opérations à caractère exemplaire, particulièrement respectueuses du milieu, s'inscrivant dans le cadre d'un aménagement durable du littoral doivent être privilégiées. Enfin, les opérations doivent faire l'objet d'un suivi et d'un entretien pérennes. En ce qui concerne les travaux de défense contre la mer sur l'île de Sein, l'État a prévu de financer le prolongement de la digue ouest (ou digue du phare) à hauteur de 79 500 euros en 2010. En outre, compte tenu de la problématique globale actuelle et future du recul du trait de côte, le Grenelle de la mer a conclu à la nécessité de doter la France d'une stratégie nationale de gestion du trait de côte pour le recul stratégique et la défense contre la mer, et d'éléments de méthodologie destinés à accompagner les opérations de retrait des activités et des infrastructures sur les littoraux les plus exposés.
