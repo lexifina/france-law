@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Les dispositions de la présente convention s'appliquent à l'ensemble des salariés, et sous les conditions définies pour certaines des garanties spécifiques à chaque catégorie de personnel, travaillant sur le territoire métropolitain dans les entreprises dont l'activité ressortit d'un des secteurs d'activités, tels que décrits ci-après :
 
@@ -122,7 +122,7 @@ Les travailleurs saisonniers bénéficient des dispositions de la présente conv
 
 Les travailleurs intermittents bénéficient des dispositions de la présente convention lorsqu'ils ont travaillé dans l'entreprise considérée, pendant au moins 1 200 heures réparties sur moins de 10 mois d'une même année civile et prévus au contrat de travail.
 
-Toutefois, les travailleurs saisonniers et les travailleurs intermittents bénéficient, le cas échéant, dès leur entrée dans l'entreprise des dispositions des articles 20 et 26 de certaines dispositions de l'article 33 ainsi que des dispositions de l'article 40 relatives à l'accident du travail avec hospitalisation ; ils bénéficient également, après 2 mois de présence dans l'entreprise des dispositions de l'article 40 relatives à l'accident du travail sans hospitalisation.
+Toutefois, les travailleurs saisonniers et les travailleurs intermittents bénéficient, le cas échéant, dès leur entrée dans l'entreprise des dispositions des articles 20 et 26 de certaines dispositions de l'article 33 ainsi que de certaines dispositions de l'article 40.
 
 NOTA :
 
