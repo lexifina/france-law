@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809978
+
+- Question : [SEQ090809978](seq090809978.md) — Candidature du Pays de Verdun à la création d'un parc national de forêt feuillue de plaine
+
+## Réponse
+
+*Écologie, JO du 2010-02-11, page 318*
+
+Le Premier ministre a annoncé, le 27 juillet 2009, que la possibilité de créer un parc national en forêt domaniale de Verdun restait ouverte. Toutefois, un projet de création de parc national de feuillus de plaine « entre Champagne et Bourgogne » ayant été officiellement lancé, il convient désormais de convaincre le Gouvernement de l'opportunité d'en créer un deuxième, en allant ainsi au-delà des ambitions du Grenelle de l'environnement. L'intérêt du site de Verdun repose incontestablement sur une alliance potentielle remarquable entre patrimoine naturel et patrimoine culturel, en rappelant qu'un parc national reste en premier lieu un espace d'exception en matière de biodiversité. Dans le contexte créé par l'annonce du projet « entre Champagne et Bourgogne », le Gouvernement a demandé aux partenaires attachés à la création d'un parc national à Verdun de travailler avec ambition autour des deux questions suivantes : d'une part, la question des atouts supplémentaires mobilisables pour rendre encore plus attractif l'enjeu de la biodiversité d'un possible coeur de parc national ; d'autre part, la question de la conciliation de la gestion des sites mémoriels et de la biodiversité dans le coeur. Ces axes de travail doivent notamment permettre de répondre à la compatibilité de la zone rouge du champ de bataille de Verdun avec le projet d'un parc national. Afin d'appuyer les acteurs locaux, une expertise complémentaire est conduite par le Museum national d'histoire naturelle. Celle-ci doit s'accompagner d'un travail partenarial entre les spécialistes de la biodiversité et les experts de la politique mémorielle de Verdun.
