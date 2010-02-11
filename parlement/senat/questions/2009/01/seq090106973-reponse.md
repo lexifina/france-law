@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090106973
+
+- Question : [SEQ090106973](seq090106973.md) — Conséquence de la mise en place des bonus malus sur la Fédération française des taxis de province
+
+## Réponse
+
+*Écologie, JO du 2010-02-11, page 317*
+
+L'incitation à l'achat de véhicules à moteur moins polluants est constituée d'une taxe à l'achat pesant sur l'achat des véhicules neufs rejetant plus de 160 g de CO2 par km et d'une aide pour les acheteurs de véhicules neufs rejetant moins de 130 g de CO2 par km. Le système a entraîné une modification sensible des choix des acheteurs professionnels et non professionnels : les ventes de véhicules émettant au maximum 130 g de CO2 par km ont progressé de plus de 50 % depuis le début 2008, tandis que les ventes de véhicules émettant plus de 160 g de CO2 par km ont baissé de près de 40 %. Les ventes de modèles éligibles au bonus représentent maintenant plus de la moitié du marché contre 30 % au cours du premier semestre 2007. Ces chiffres montrent, à l'évidence, que les acheteurs modifient plus profondément et plus rapidement que prévu leurs motivations d'achat pour un nouveau véhicule plus respectueux de l'environnement, grâce à ces mesures. Dans ce cadre, les professionnels spécialisés dans le transport des personnes en voitures particulières (taxis, voitures de remise) peuvent bénéficier de modèles bénéficiant du bonus écologique déjà présents dans le catalogue des constructeurs. Cette situation est appelée à évoluer rapidement avec les futures gammes commercialisées prochainement sur le marché nationaL. Ces éléments permettent d'espérer que les professionnels du transport de personnes en voiture particulière pourront trouver, pour leur activité, des véhicules bénéficiant du bonus écologique ou, à tout le moins, des véhicules disponibles à l'achat qui ne subissent pas de malus. Compte tenu de ces évolutions, il n'est pas envisagé de modifier le système actuel.
