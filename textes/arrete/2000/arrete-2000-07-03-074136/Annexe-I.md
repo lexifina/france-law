@@ -302,7 +302,7 @@ Valeo, espace industriel Nord, 5, rue Roger-Dumoulin, BP 0926, 80009 Amiens Cede
 
 Provence-Alpes-Côte d'Azur
 
-Entreprise nouvelle isotherma, BP 78, 13110 Port-de-Bouc : de 1972 à 1983 ;
+ENTREPRISE D'ISOLATION ISOTHERMA ETABLISSEMENT DAIRAINE ET CIE, 42 bis, avenue Auguste-Marius-Peyre, ZI La Grand Colle, 13110 Port-de-Bouc, de 1972 à 1987 puis ENTREPRISE NOUVELLE ISOTHERMA : de 1987 à 1996 ;
 
 Entreprise générale d'isolation Edouard POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1947 à 1980 ", " Société d'exploitation POUJAUD Edouard, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1981 à 1987 ", " Entreprise générale d'isolation POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1966 à 1987 ", puis " POUJAUD SA, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1988 à 1996 ;
 
