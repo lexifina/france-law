@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809878
+
+- Question : [SEQ090809878](seq090809878.md) — Ressources halieutiques
+
+## Réponse
+
+*Écologie, JO du 2010-02-11, page 318*
+
+La proposition de Monaco visant à inscrire le thon rouge à l'annexe I de la convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, dite « CITES », permettra lors de la prochaine conférence des parties qui se tiendra du 13 au 25 mars 2010 à Doha (Qatar), un large débat sur la question du commerce international concernant cette espèce et constituera un levier efficace pour oeuvrer en faveur de la préservation de ce poisson afin d'amener la communauté internationale à choisir les meilleures options. En effet, il est urgent que des mesures de gestion appropriées soient prises pour préserver le thon rouge et faire en sorte que son exploitation commerciale repose désormais sur des bases durables. À cet égard, les décisions prises par la Commission internationale pour la conservation des thonidés de l'Atlantique (CICTA), qui s'est réunie en novembre 2009 au Brésil, restent insuffisantes. La France souhaitait voir adopter la réduction spatio-temporelle de la saison de pêche, le soutien actif à une baisse significative du niveau des captures, l'ajustement de la capacité des cages d'engraissement de thons rouges à ce niveau de captures, le renforcement de la traçabilité et des contrôles, ainsi que l'application de sanctions à l'encontre des États qui ne respecteraient pas leurs engagements. La France s'est engagée à soutenir une décision de classement du thon rouge à la CITES. Les décisions que prendra la conférence des parties à la CITES, en mars 2010 entreront en vigueur quatre-vingt-dix jours après cette session, soit le 23 juin 2010, à moins que ces décisions ne soient explicitement assorties d'un report de mise en oeuvre pour permettre aux parties d'en préparer concrètement l'application.
