@@ -624,7 +624,7 @@ DULE |
 
 1,10 |
 
-Les directions régionales de l'environnement (DIREN), les directions interrégionales et régionales de l'Etablissement public Météo-France, les directions régionales des affaires maritimes, les unités interrégionales et régionales de l'Etablissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement du siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 0,85. La direction interrégionale d'Ile-de-France de l'Etablissement public Météo-France bénéficie du coefficient de 1,05 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
+Les directions régionales de l'environnement (DIREN), les directions interrégionales et régionales de l'Etablissement public Météo-France, les directions interrégionales de la mer, les unités interrégionales et régionales de l'Etablissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement du siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 0,85. La direction interrégionale d'Ile-de-France de l'Etablissement public Météo-France bénéficie du coefficient de 1,05 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
 
 Pour les directions régionales de l'équipement
 
@@ -1035,3 +1035,7 @@ Ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ecole 
 |
 
 |
+
+NOTA :
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer ( les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).

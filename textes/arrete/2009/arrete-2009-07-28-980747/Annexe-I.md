@@ -26,7 +26,7 @@ AU TITRE DU 1° DE L'ARTICLE 3 DU PRÉSENT ARRÊTÉ
 
 11° La direction interdépartementale des affaires maritimes Seine-Maritime et Eure ;
 
-12° La direction régionale des affaires maritimes de Haute-Normandie ;
+12° La direction interrégionale de la mer de Haute-Normandie ;
 
 13° Le service maritime de Haute-Normandie ;
 
@@ -35,3 +35,7 @@ AU TITRE DU 1° DE L'ARTICLE 3 DU PRÉSENT ARRÊTÉ
 15° Le centre d'études techniques Normandie-Centre, dans sa partie Haute-Normandie ;
 
 16° Le centre interrégional de formation professionnelle de Rouen.
+
+NOTA :
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (date d'entrée en vigueur indéterminée).

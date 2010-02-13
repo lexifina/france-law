@@ -6,9 +6,9 @@ PARTIE 1
 
 Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour les navires autres que les navires à passagers.
 
-Les plans et documents à fournir dans le cas de navires de charge à navigation internationale sont ceux listés dans l'annexe 130.A.2 partie 1.
+Les plans et documents à fournir dans le cas de navires de charge à navigation internationale sont ceux listés dans l'annexe 130.A. 2 partie 1.
 
-Article 1.01
+Article 1. 01
 
 Renseignements généraux
 
@@ -38,7 +38,7 @@ Il précise en outre :
 
 Attestation de non présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
 
-Article 1.02
+Article 1. 02
 
 Stabilité
 
@@ -64,17 +64,17 @@ Plans et documents
 
 • Procès-verbal de l'expérience de stabilité ou de pesée le cas échéant ;
 
-• L'exemplaire des "cas de chargement et informations pour le capitaine" prévu pour être mis à bord est rédigé dans la langue de travail du bord ;
+• L'exemplaire des " cas de chargement et informations pour le capitaine " prévu pour être mis à bord est rédigé dans la langue de travail du bord ;
 
-• Le dossier est visé par une société de classification agréée .
+• Le dossier est visé par une société de classification agréée.
 
 NOTA : Sans attendre les résultats de l'expérience de stabilité l'armateur peut soumettre à la commission de sécurité compétente un dossier prévisionnel établi avec le déplacement et le centre de gravité du navire lège calculés à partir du devis de poids. Le dossier prévisionnel est visé par une société de classification agréée.
 
 Ce dossier prévisionnel complété des éléments de stabilité mesurés pourra être considéré comme représentant le dossier de stabilité du navire si la commission qui statue estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
 
-Article 1.03
+Article 1. 03
 
-Coque - Franc-Bord
+Coque-Franc-Bord
 
 Plans et documents
 
@@ -104,7 +104,7 @@ Renseignements
 
 • Demande d'exemption ou de dérogation. Cette demande est, le cas échéant, accompagnée de l'avis de la société de classification agréée.
 
-Article 1.04
+Article 1. 04
 
 Machine
 
@@ -136,13 +136,13 @@ Renseignements
 
 • Moyens de stockage et de rejet des eaux de cale machine.
 
-Article 1.05
+Article 1. 05
 
 Protection contre l'incendie
 
 Plans et documents
 
-• Plan de sécurité utilisant les symboles de l'annexe à la résolution OMI A.654(16), telle que modifiée par la résolution OMI A.952(23) ;
+• Plan de sécurité utilisant les symboles de l'annexe à la résolution OMI A. 654 (16), telle que modifiée par la résolution OMI A. 952 (23) ;
 
 • Cloisonnement d'incendie avec toutes indications utiles concernant la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
 
@@ -176,7 +176,7 @@ Renseignements
 
 • Dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
 
-Article 1.06
+Article 1. 06
 
 Electricité
 
@@ -208,7 +208,7 @@ références d'homologation des conducteurs ;
 
 • Dispositions relatives à l'incendie.
 
-Article 1.07
+Article 1. 07
 
 Navigation
 
@@ -224,7 +224,7 @@ Renseignements
 
 • Installation et spécifications des échelles de pilote et des appareils de hissage ou des dispositifs de transfert du pilote.
 
-Article 1.08
+Article 1. 08
 
 Moyens de sauvetage
 
@@ -244,7 +244,7 @@ Renseignements
 
 • Description des dispositifs d'amenage des embarcations et de largage des radeaux.
 
-Article 1.09
+Article 1. 09
 
 Emménagements
 
@@ -260,7 +260,7 @@ Plans et documents
 
 • Rapport sur les mesures de bruit.
 
-Article 1.10
+Article 1. 10
 
 Dispositions techniques pour la veille réduite a la passerelle
 
@@ -272,13 +272,13 @@ Plans et documents
 
 Renseignements
 
-• Justification point par point que les exigences de l'article 212-1.02 sont remplies ;
+• Justification point par point que les exigences de l'article 212-1. 02 sont remplies ;
 
-• Le cas échéant, le questionnaire de l'annexe 221-II-1/A.1, partie B, rempli à la diligence de l'armateur visé par la société de classification ;
+• Le cas échéant, le questionnaire de l'annexe 221-II-1 / A. 1, partie B, rempli à la diligence de l'armateur visé par la société de classification ;
 
-• Le cas échéant, le dossier justifiant la conformité du navire aux dispositions énumérées à l'article 212-1.03, visé par une société de classification agréée.
+• Le cas échéant, le dossier justifiant la conformité du navire aux dispositions énumérées à l'article 212-1. 03, visé par une société de classification agréée.
 
-Article 1.11
+Article 1. 11
 
 Cargaisons
 
@@ -292,7 +292,7 @@ visés par la société de classification qui a établi le rapport ;
 
 Les manuels prévus pour être mis à bord sont rédigés dans la langue de travail du bord.
 
-Article 1.12
+Article 1. 12
 
 Navires-citernes transportant des hydrocarbures
 
@@ -334,7 +334,7 @@ Renseignements
 
 • Equipement de prévention de la pollution par les hydrocarbures.
 
-Article 1.13
+Article 1. 13
 
 Navires transportant des gaz liquéfiés en vrac
 
@@ -370,7 +370,7 @@ Renseignements
 
 • Caractéristiques du dispositif d'extinction à poudre sèche, débit et autonomie des canons et lances.
 
-Article 1.14
+Article 1. 14
 
 Navires transportant des produits chimiques dangereux en vrac
 
@@ -400,7 +400,7 @@ Renseignements
 
 • Spécifications et arrimage du matériel de protection du personnel.
 
-Article 1.15
+Article 1. 15
 
 Remorqueurs
 
@@ -408,7 +408,7 @@ Plans et documents
 
 • Ensemble du croc précisant l'implantation et le type des dispositifs de largage.
 
-Article 1.16
+Article 1. 16
 
 Engins de levage
 
@@ -426,7 +426,7 @@ Pour chaque appareil :
 
 • Liste des accessoires mobiles, mentionnant leur CMU et leur charge d'épreuve.
 
-Article 1.17
+Article 1. 17
 
 Radiocommunications SMDSM
 
@@ -438,9 +438,9 @@ Radiocommunications SMDSM
 
 • Liste des matériels de rechange et de contrôle ;
 
-• Dossier explicitant la (ou les) méthode(s), de maintenance envisagée(s).
+• Dossier explicitant la (ou les) méthode (s), de maintenance envisagée (s).
 
-Article 1.18
+Article 1. 18
 
 Prévention de la pollution
 
@@ -450,7 +450,7 @@ PARTIE 2
 
 Liste des documents à fournir pour l'examen des dossiers de demande de titres de sécurité pour navires à passagers.
 
-Article 2.01
+Article 2. 01
 
 Renseignements généraux
 
@@ -482,7 +482,7 @@ Il précise en outre :
 
 Attestation de non présence d'amiante, délivrée par le chantier, incluant les produits sous-traités.
 
-Article 2.02
+Article 2. 02
 
 Stabilité
 
@@ -538,9 +538,9 @@ NOTA : Sans attendre les résultats de l'expérience de stabilité l'armateur pe
 
 Ce dossier prévisionnel complété des éléments de stabilité mesurés pourra être considéré comme représentant le dossier de stabilité du navire si la commission estime que les déplacements et position du centre de gravité pris en compte sont en accord avec ces éléments.
 
-Article 2.03
+Article 2. 03
 
-Coque - Franc-bord
+Coque-Franc-bord
 
 Plans et documents
 
@@ -564,7 +564,7 @@ Plans et documents
 
 Renseignements
 
-• Type et nombre des panneaux d'écoutilles - hauteur des surbaux d'écoutilles - hauteur des surbaux des portes extérieures ;
+• Type et nombre des panneaux d'écoutilles-hauteur des surbaux d'écoutilles-hauteur des surbaux des portes extérieures ;
 
 • Type et caractéristiques des pompes et éjecteurs servant à l'assèchement ; entrées et sorties d'eau de mer ;
 
@@ -580,7 +580,7 @@ Renseignements
 
 • Demande d'exemption ou de dérogation. Cette demande est, le cas échéant, accompagnée de l'avis de la société de classification agréée.
 
-Article 2.04
+Article 2. 04
 
 Machine
 
@@ -612,13 +612,13 @@ Renseignements
 
 • Moyen de stockage et de rejet des eaux de cale machine.
 
-Article 2.05
+Article 2. 05
 
 Protection contre l'incendie
 
 Plans et documents
 
-• Plan de sécurité utilisant les symboles de l'annexe a la résolution OMI A.654(16), telle que modifiée par la résolution OMI A.952(23) ;
+• Plan de sécurité utilisant les symboles de l'annexe a la résolution OMI A. 654 (16), telle que modifiée par la résolution OMI A. 952 (23) ;
 
 • Cloisonnement d'incendie avec toutes indications utiles concernant la ou les variantes employées, la destination des locaux, la superficie des grands locaux, la position et le type des cloisons et ponts, les entourages des escaliers, des puits, des tambours, etc. ;
 
@@ -656,7 +656,7 @@ Renseignements
 
 • Dispositifs d'extinction pour les plates-formes hélicoptères ou zones d'hélitreuillage.
 
-Article 2.06
+Article 2. 06
 
 Electricité
 
@@ -710,7 +710,7 @@ Renseignements
 
 • Dispositions relatives à l'incendie.
 
-Article 2.07
+Article 2. 07
 
 Navigation
 
@@ -724,7 +724,7 @@ Renseignements
 
 • Liste et caractéristiques des principaux appareils de navigation.
 
-Article 2.08
+Article 2. 08
 
 Moyens de sauvetage
 
@@ -742,7 +742,7 @@ Renseignements
 
 • Description des dispositifs d'amenage des embarcations et de largage des radeaux.
 
-Article 2.09
+Article 2. 09
 
 Emménagements
 
@@ -760,13 +760,13 @@ Plans et documents
 
 • Calcul des surfaces destinées aux passagers sans cabine.
 
-Article 2.10
+Article 2. 10
 
 Dispositions techniques pour la veille réduite à la passerelle et les conditions de quart à la machine
 
-Les plans, documents et renseignements à fournir sont fixés dans chaque cas par le ministre chargé de la marine marchande ou le directeur régional des affaires maritimes sur proposition de la commission de sécurité compétente.
+Les plans, documents et renseignements à fournir sont fixés dans chaque cas par le ministre chargé de la marine marchande ou le directeur interrégional de la mer sur proposition de la commission de sécurité compétente.
 
-Article 2.11
+Article 2. 11
 
 Apparaux de levage
 
@@ -782,7 +782,7 @@ Pour chaque appareil
 
 • Liste des accessoires mobiles, mentionnant leur CMU et leur charge d'épreuve.
 
-Article 2.12
+Article 2. 12
 
 Radiocommunications SMDSM
 
@@ -794,10 +794,14 @@ Radiocommunications SMDSM
 
 • Liste des matériels de rechange et de contrôle ;
 
-• Dossier explicitant la (ou les) méthode(s) de maintenance envisagée(s).
+• Dossier explicitant la (ou les) méthode (s) de maintenance envisagée (s).
 
-Article 2.13
+Article 2. 13
 
 Prévention de la pollution
 
 Documents permettant de vérifier la conformité aux dispositions réglementaires pertinentes de la Convention MARPOL.
+
+NOTA :
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).

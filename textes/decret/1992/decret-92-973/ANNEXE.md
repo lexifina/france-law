@@ -8,13 +8,13 @@ a) Fonctions d'encadrement :
 
 Chef du service des affaires économiques dans :
 
-- les directions régionales des affaires maritimes ;
+-les directions interrégionales de la mer ;
 
-- les directions des services régionaux des affaires maritimes ;
+-les directions des services régionaux des affaires maritimes ;
 
-- les directions départementales des affaires maritimes ;
+-les directions départementales des affaires maritimes ;
 
-- les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale.
+-les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale.
 
 Officier de port adjoint n'ayant pas la classe fonctionnelle et remplissant certaines fonctions de commandant ou d'adjoint au commandant de port ;
 
@@ -32,7 +32,7 @@ b) Fonctions impliquant une technicité particulière :
 
 Chef de centre régional de traitement des statistiques ;
 
-Chef de section "Etablissements de pêches maritimes" ;
+Chef de section " Etablissements de pêches maritimes " ;
 
 Agent affecté sur un patrouilleur des affaires maritimes ;
 
@@ -47,3 +47,7 @@ Secrétariat dans les services déconcentrés ;
 Greffier de tribunal maritime commercial ;
 
 Gestionnaire des affaires économiques au sein d'une direction départementale des affaires maritimes.
+
+NOTA :
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
