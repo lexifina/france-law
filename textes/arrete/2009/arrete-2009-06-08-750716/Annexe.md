@@ -2,31 +2,29 @@
 
 CHARTE DE DÉONTOLOGIE
 
-Conseil général de l'agriculture, de l'alimentation
-
-et des espaces ruraux, comité de déontologie
+Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, comité de déontologie
 
 Le comité de déontologie,
 
-Vu le décret n° 2006-487 relatif au Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, notamment ses articles 10 et 14 ;
+Vu le décret n° 2006-487 relatif au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, notamment ses articles 10 et 14 ;
 
-Vu l'arrêté du 26 avril 2006 relatif à l'organisation du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, notamment son article 9 ;
+Vu l'arrêté du 26 avril 2006 relatif à l'organisation du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, notamment son article 9 ;
 
 Vu la norme NFX 50-110 sur la qualité de l'expertise ;
 
 Vu le code de déontologie de l'Institut international d'audit interne (IIA) ;
 
-Après avoir entendu le bureau le 12 décembre 2008 et l'assemblée générale du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux le 5 février 2009,
+Après avoir entendu le bureau le 12 décembre 2008 et l'assemblée générale du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux le 5 février 2009,
 
-propose au ministre chargé de l'agriculture le projet de charte de déontologie du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux qui suit :
+propose au ministre chargé de l'agriculture le projet de charte de déontologie du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux qui suit :
 
 Champ d'application
 
-I. ― Les missions confiées aux membres et membres associés du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux sont conduites conformément aux règles suivantes, qui sont également applicables à toute personne mandatée par le ministre chargé de l'agriculture pour les assister.
+I. ― Les missions confiées aux membres et membres associés du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux sont conduites conformément aux règles suivantes, qui sont également applicables à toute personne mandatée par le ministre chargé de l'agriculture pour les assister.
 
 Incompatibilités
 
-II. ― Aucun membre ou membre associé du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, ou personne visée au point précédent, ne peut participer à la réalisation d'une mission d'audit, d'inspection, d'évaluation ou de médiation :
+II. ― Aucun membre ou membre associé du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, ou personne visée au point précédent, ne peut participer à la réalisation d'une mission d'audit, d'inspection, d'évaluation ou de médiation :
 
 ― s'il est lié, par parenté, alliance, intérêt économique et financier, notamment avec l'un des acteurs concernés par la mission ;
 
@@ -40,9 +38,9 @@ Cependant, cette période n'est pas opposable en matière d'évaluation de polit
 
 III. ― Les membres et membres associés du conseil général, et les personnes visées au point I, se récusent lorsqu'il leur est proposé une mission qu'ils n'estiment pas pouvoir assurer avec l'indépendance nécessaire. En cas de doute, ils saisissent le vice-président du conseil général. Le vice-président et le bureau veillent à prévenir les situations d'incompatibilité dans la répartition des missions.
 
-IV. ― Les membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, mis à la disposition ou chargés d'une mission d'appui à un autre service, ou à une autre autorité publique, cessent d'accomplir des missions d'inspection ou d'audit, à l'exception des missions en cours qu'ils peuvent terminer s'il n'y a pas d'incompatibilité au titre de la présente charte.
+IV. ― Les membres du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, mis à la disposition ou chargés d'une mission d'appui à un autre service, ou à une autre autorité publique, cessent d'accomplir des missions d'inspection ou d'audit, à l'exception des missions en cours qu'ils peuvent terminer s'il n'y a pas d'incompatibilité au titre de la présente charte.
 
-V. ― Les membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux sont soumis aux règles communes des fonctionnaires en ce qui concerne d'éventuelles activités accessoires, rémunérées ou non. Ils informent le vice-président de tout projet de ce type, qui est soumis à son accord. Dans la répartition des missions, le vice-président et le bureau veillent à prévenir toute incompatibilité générée par une telle activité. Ces décisions sont conservées afin d'en assurer l'homogénéité.
+V. ― Les membres du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux sont soumis aux règles communes des fonctionnaires en ce qui concerne d'éventuelles activités accessoires, rémunérées ou non. Ils informent le vice-président de tout projet de ce type, qui est soumis à son accord. Dans la répartition des missions, le vice-président et le bureau veillent à prévenir toute incompatibilité générée par une telle activité. Ces décisions sont conservées afin d'en assurer l'homogénéité.
 
 VI. ― La liberté de se porter candidat à toute élection est la règle. Toutefois, le membre ou membre associé du conseil général, candidat à un mandat électoral, en informe le vice-président. Les candidats à un mandat de député, de sénateur ou de représentant au Parlement européen sont, de plus, invités à se rapprocher du vice-président pour envisager le placement en disponibilité pour convenance personnelle pendant la durée de la campagne électorale officielle.
 
@@ -68,7 +66,7 @@ XV. ― Les membres du conseil général, assistés par le service de documentat
 
 Réserve et discrétion professionnelle
 
-XVI. ― Les membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux sont soumis aux obligations de réserve et de discrétion professionnelles communes aux fonctionnaires. L'étendue des pouvoirs d'investigation résultant de l'article 13 du décret relatif au Conseil général de l'agriculture, de l'alimentation et des espaces ruraux confère à ses membres, au-delà des obligations communes aux fonctionnaires, des obligations particulières de réserve et de discrétion professionnelle. Le conseil général garantit aux services et institutions, objets d'investigations, la confidentialité des données issues de ces investigations lorsqu'elles sont personnelles ou couvertes par une règle légale de secret.
+XVI. ― Les membres du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux sont soumis aux obligations de réserve et de discrétion professionnelles communes aux fonctionnaires.L'étendue des pouvoirs d'investigation résultant de l'article 13 du décret relatif au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux confère à ses membres, au-delà des obligations communes aux fonctionnaires, des obligations particulières de réserve et de discrétion professionnelle. Le conseil général garantit aux services et institutions, objets d'investigations, la confidentialité des données issues de ces investigations lorsqu'elles sont personnelles ou couvertes par une règle légale de secret.
 
 Diffusion de la charte
 
