@@ -1,6 +1,6 @@
-# Article ANNEXE TABLEAU IX
+# Article ANNEXE TABLEAU VIII
 
-Attribution de la nouvelle bonification indiciaire à la direction générale de la concurrence, de la consommation et de la répression des fraudes
+Attribution de la nouvelle bonification indiciaire au service de la promotion des échanges extérieurs et dans les directions régionales du commerce extérieur
 
 DEFINITION DE L'EMPLOI
 
@@ -8,86 +8,18 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-1. Agent exerçant des fonctions d'enquêteur spécialisé dans les directions d'enquête à compétence nationale (direction nationale des enquêtes Concurrence et direction nationale des enquêtes Répression des fraudes) et chargé, à ce titre, de missions d'investigation sur l'ensemble du territoire.
+1. Exercice au sein des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de fonctions polyvalentes d'administration générale ou d'assistance technique, pouvant notamment comporter la tenue de la comptabilité de la direction, le suivi du courrier et de la gestion des fournitures, ou l'utilisation et la maintenance d'applications micro-informatiques.
 
 |
 
-2. Agent exerçant des fonctions de documentaliste à la direction nationale des enquêtes Concurrence.
+2. Responsable au sein des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'un secrétariat de direction impliquant la mise en oeuvre d'actions de prospection en faveur des entreprises françaises exportatrices.
 
 |
 
-3. Agent exerçant des fonctions de secrétariat spécialisé dans les directions d'enquête à compétence nationale (direction nationale des enquêtes Concurrence et direction nationale des enquêtes Répression des fraudes).
+NOTA :
 
-|
+Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région, à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010, parus respectivement au Journal officiel des 5 janvier et 14 février 2010).
 
-4. Agent exerçant, à titre exceptionnel, sous l'autorité directe du chef de bureau, des fonctions recouvrant la responsabilité de secteurs d'activité économique nécessitant une technicité spécifique développée dans le droit de la concurrence, de la consommation ou de l'hygiène alimentaire et habilité, à ce titre, à représenter l'Etat au sein des organisations internationales.
+Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
 
-|
-
-5. Agent chargé à la direction générale d'un secteur d'activité particulièrement important et exerçant, à ce titre, de façon autonome des fonctions comportant un niveau de responsabilité supérieur à celui normalement dévolu à son grade.
-
-|
-
-6. Agent exerçant, à titre exceptionnel par rapport aux fonctions normalement dévolues à son grade, la responsabilité autonome du contentieux dans un département et habilité, à ce titre, à représenter l'administration auprès des tribunaux.
-
-|
-
-7. Agent exerçant des fonctions d'inspecteur technique interrégional en matière de vins et spiritueux ou régional en matière de fruits et légumes.
-
-|
-
-8. Agent exerçant seul, à l'échelon départemental, sous l'autorité de son directeur, des fonctions recouvrant la responsabilité du personnel, de la comptabilité et des matériels et comportant un niveau de responsabilité supérieur à celui normalement dévolu à son grade.
-
-|
-
-9. Secrétariat de direction à l'administration centrale (directeur général, chef de service, sous-directeur).
-
-|
-
-10. Responsable du bureau d'ordre à la direction générale.
-
-|
-
-11. Agent exerçant dans une direction départementale, sous l'autorité du directeur, les tâches liées à la constitution des dossiers contentieux comportant un niveau de responsabilité supérieur à celui normalement dévolu à son grade.
-
-|
-
-12. Agent assumant, au sein d'un laboratoire, à titre exceptionnel par rapport aux fonctions normalement dévolues à son grade, les fonctions de responsable de section.
-
-|
-
-13. Agent assumant, sous l'autorité du directeur ou de son adjoint, à titre exceptionnel, la responsabilité d'un secteur implanté et exerçant, à ce titre, des fonctions d'animation et de coordination particulièrement importantes.
-
-|
-
-14. Responsable, dans une unité dépourvue d'adjoint au directeur, de plusieurs secteurs d'activité et assurant, à ce titre, l'intérim du directeur.
-
-|
-
-15. Agent assurant, à titre exceptionnel, sous l'autorité du directeur, la responsabilité d'une division dans une direction importante.
-
-|
-
-16. Agent assurant la représentation de l'administration aux audiences devant la cour d'appel de Paris et la Cour de cassation (y compris la présentation des observations orales).
-
-|
-
-17. Agent assurant l'animation d'un réseau de contrôle ou de relations transfrontalières.
-
-|
-
-18. Administrateur du système d'exploitation UNIX et gestionnaire des bases de données des laboratoires de la DGCCRF.
-
-|
-
-19. Responsable de l'assurance qualité dans les laboratoires de la DGCCRF (mise à jour du manuel qualité, mise en place des plans qualité spécifiques, réalisation périodique des audits qualité des laboratoires, gestion des anomalies et des réclamations).
-
-|
-
-20. Régisseur d'avances dans un laboratoire.
-
-|
-
-21. Agent exerçant des fonctions d'enquêteur dans les brigades interrégionales d'enquêtes.
-
-|
+Conformément à l'article 2 du décret n° 2010-687 du 24 juin 2010, les dispositions du décret n° 2009-1377 du 10 novembre 2009 s'appliquent à la région Ile-de-France à compter du 1er juillet 2010.
