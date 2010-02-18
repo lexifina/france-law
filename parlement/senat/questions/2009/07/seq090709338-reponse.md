@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709338
+
+- Question : [SEQ090709338](seq090709338.md) — Conditions d'attribution de l'aide à la cuve
+
+## Réponse
+
+*Économie, JO du 2010-02-18, page 382*
+
+La ministre de l'économie, de l'industrie et de l'emploi et le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'État ont annoncé, le 8 septembre 2008, la reconduction du dispositif d'aide exceptionnelle en faveur des ménages non imposables, chauffant leur résidence principale au fioul domestique en le portant à 200 euros. Le bénéfice de la mesure est ainsi ouvert aux foyers modestes résidant, à titre principal, en logement individuel ou en habitat collectif. La nature du produit éligible à cette mesure, à savoir le fioul domestique, correspond au combustible couramment commercialisé pour les ménages. Conscient des difficultés rencontrées par certains ménages, le Gouvernement a décidé d'élargir le bénéfice de la mesure. Cette prime est ainsi octroyée dès lors qu'une partie du chauffage, même minime, est assurée par du fioul domestique (hypothèse du chauffage mixte du secteur HLM). Le fioul lourd bénéficie déjà d'un régime fiscal particulièrement privilégié. La taxe intérieure de consommation sur le fioul lourd est en effet de 1,85 euro les 100 kilogrammes, ce qui représente une taxation plus faible que pour le fioul domestique (5,66 euros/hectolitre). Il s'agit d'un produit utilisé, le plus souvent, par des réseaux urbains de chaleur, en complément d'autres énergies telles que le fioul domestique. Son utilisation à titre principal demeure résiduelle. Par ailleurs, les exploitants de ces réseaux de chaleur sont en mesure de faire bénéficier à leurs clients des tarifs compétitifs en raison des économies d'échelle qu'ils sont en mesure de réaliser. Plus de 950 000 foyers ont perçu l'aide de 200 euros, pour un montant supérieur à 190 000 000 euros. Ces chiffres témoignent du succès de cette prime.
