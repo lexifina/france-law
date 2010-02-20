@@ -32,6 +32,26 @@ maximale
 
 |
 
+Acide chlorhydrique.
+
+|
+
+Divers
+
+|
+
+Préparations pour nourrissons, préparations de suite, laits de croissance, préparations à base de céréales infantiles et aliments pour bébés contenant de la L-tyrosine.
+
+|
+
+Quantité strictement nécessaire pour permettre la solubilisation de la L-tyrosine par formation de chlorhydrate de tyrosine.
+
+|
+
+Teneur résiduelle techniquement inévitable, à un ratio molaire de 1/3.
+
+|
+
 Acétate de méthyle.
 
 |
@@ -104,7 +124,7 @@ Saumons et truites non transformés.
 
 |
 
-Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
+Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
 
 |
 
@@ -164,7 +184,7 @@ Divers.
 
 |
 
-Aspersion d'une solution à 2, 5 % d'un produit contenant 4, 5 % d'acide peracétique à l'équilibre puis séchage.
+Aspersion d'une solution à 2,5 % d'un produit contenant 4,5 % d'acide peracétique à l'équilibre puis séchage.
 
 |
 
@@ -248,7 +268,27 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Teneur résiduelle inférieure à 10 mg / litre.
+Teneur résiduelle inférieure à 10 mg/litre.
+
+|
+
+Argile kaolinitique exempte d'amiante.
+
+|
+
+Divers.
+
+|
+
+Légumes racines.
+
+|
+
+7 g/kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.
+
+|
+
+Teneur résiduelle en aluminium ≤3 mg/kg de matière sèche dans le produit fini.
 
 |
 
@@ -452,6 +492,26 @@ Dose techniquement inévitable.
 
 |
 
+Cellulose.
+
+|
+
+Agent de clarification.
+
+|
+
+Bières
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché 100 g/m² de surface filtrante au maximum, dans la première précouche.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
 Charbons.
 
 |
@@ -469,6 +529,26 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 |
 
 Dose techniquement inévitable.
+
+|
+
+Charbon actif.
+
+|
+
+Agent de clarification.
+
+|
+
+Bières
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g par hectolitre de bière.
+
+|
+
+Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm
 
 |
 
@@ -704,7 +784,7 @@ Sucre.
 
 |
 
-A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol.
+A la dose maximale de 50 mg/kg de betteraves.L'emploi doit être fait en substitution du formol.
 
 |
 
@@ -804,7 +884,7 @@ Beurre de cacao.
 
 |
 
-Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -844,7 +924,7 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -864,7 +944,7 @@ Produits à base de protéines dégraissées et de farines dégraissées.
 
 |
 
-Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -950,7 +1030,7 @@ Tuiles.
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille.
+A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille.
 
 |
 
@@ -1080,6 +1160,26 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
+Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg.
+
+|
+
+Agent de filtration.
+
+|
+
+Bières et produits à base de bières.
+
+|
+
+50 à 150 g par hectolitre selon la turbidité des bières traitées.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
 Méthanol.
 
 |
@@ -1112,7 +1212,7 @@ Café et thé.
 
 |
 
-Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1201,6 +1301,26 @@ Les grains de blé avant traitement devront être conformes aux dispositions du 
 |
 
 Teneur résiduelle inférieure à 10 microgrammes par kg.
+
+|
+
+Perlite.
+
+|
+
+Agent de clarification.
+
+|
+
+Bières.
+
+|
+
+A la dose strictement nécessaire pour obtenir l'effet recherché. 5 à 100 g par hectolitre de bière, dans la première précouche.
+
+|
+
+Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 1,6 µm.
 
 |
 
