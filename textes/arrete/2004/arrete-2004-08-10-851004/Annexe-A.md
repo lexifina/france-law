@@ -58,7 +58,7 @@ Lagomorphes, rongeurs et insectivores
 
 |
 
-Sus scrofa
+Sus scrofa, Dama dama
 
 |
 
@@ -204,7 +204,7 @@ Reptiles
 
 |
 
-Astrochelys radiata et espèces du genre Testudo reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 susvisé ou reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement
+Astrochelys radiata et espèces du genre Testudo reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338 / 97 du 9 décembre 1996 susvisé ou reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement
 
 |
 
@@ -284,6 +284,6 @@ Pas d'effectifs maximaux
 
 (*) Ne sont pas comptabilisés dans cette rubrique :
 
-- en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+-en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 
 |
