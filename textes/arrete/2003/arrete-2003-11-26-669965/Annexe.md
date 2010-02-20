@@ -20,15 +20,11 @@ Astreinte de direction générale.
 
 |
 
-1 astreinte de semaine (1).
+1 astreinte de semaine (1)
 
 |
 
-Service d'exploitation
-
-de la formation aéronautique
-
-(à compter du 1er juillet 2008)
+Service d'exploitation de la formation aéronautique
 
 |
 
@@ -36,7 +32,27 @@ de la formation aéronautique
 
 |
 
-Centre de Melun.
+Siège de Muret
+
+|
+
+|
+
+|
+
+Bureau des opérations centralisées
+
+|
+
+Astreinte opérationnelle et technique.
+
+|
+
+1 astreinte de fin de semaine.
+
+|
+
+Centre de Melun
 
 |
 
@@ -48,9 +64,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-Centre d'exploitation, de développement
-
-et d'études du réseau d'information de gestion
+Centre d'exploitation, de développement et d'études du réseau d'information de gestion
 
 |
 
@@ -74,9 +88,7 @@ Astreinte enquêtes-accidents (niveau central).
 
 |
 
-Direction des opérations de la direction
-
-des services de la navigation aérienne
+Direction des opérations de la direction des services de la navigation aérienne
 
 |
 
@@ -84,7 +96,7 @@ des services de la navigation aérienne
 
 |
 
-Echelon central.
+Echelon central
 
 |
 
@@ -96,7 +108,7 @@ Astreinte opérationnelle.
 
 |
 
-CESNAC.
+CESNAC
 
 |
 
@@ -108,7 +120,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-CRNA Est.
+CRNA Est
 
 |
 
@@ -120,15 +132,11 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -140,7 +148,7 @@ Astreinte technique (radar).
 
 |
 
-CRNA Sud-Est.
+CRNA Sud-Est
 
 |
 
@@ -152,8 +160,6 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
@@ -162,17 +168,15 @@ Astreinte technique.
 
 |
 
-|
-
-Astreinte technique (radar).
+Astreinte technique (antennes avancées).
 
 |
 
-2 astreintes de fin de semaine 4 fois par an.
+1 astreinte de fin de semaine et jours fériés.
 
 |
 
-CRNA Sud-Ouest.
+CRNA Sud-Ouest
 
 |
 
@@ -184,15 +188,11 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -204,8 +204,6 @@ Astreinte technique de centrale énergie.
 
 |
 
-|
-
 Astreinte technique (radar).
 
 |
@@ -214,7 +212,7 @@ Astreinte technique (radar).
 
 |
 
-CRNA Ouest.
+CRNA Ouest
 
 |
 
@@ -226,8 +224,6 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
@@ -236,15 +232,11 @@ Astreinte technique.
 
 |
 
-|
-
 Astreinte technique de maintenance CAUTRA.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -256,7 +248,7 @@ Astreinte technique de centrale énergie.
 
 |
 
-SNA Région parisienne
+SNA région parisienne
 
 |
 
@@ -264,7 +256,7 @@ SNA Région parisienne
 
 |
 
-CRNA Nord.
+CRNA Nord
 
 |
 
@@ -273,8 +265,6 @@ Astreinte opérationnelle.
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -286,15 +276,11 @@ Astreinte technique.
 
 |
 
-|
-
 Astreinte technique de maintenance CAUTRA.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -306,7 +292,7 @@ Astreinte technique (radar).
 
 |
 
-Paris-Charles-de-Gaulle (CDM).
+Paris-Charles-de-Gaulle (CDM)
 
 |
 
@@ -318,7 +304,7 @@ Astreinte opérationnelle.
 
 |
 
-Paris-Charles-de-Gaulle.
+Paris - Charles-de-Gaulle
 
 |
 
@@ -330,7 +316,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-Organisme d'Orly.
+Organisme d'Orly
 
 |
 
@@ -342,7 +328,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-Organisme d'Orly.
+Organisme d'Orly
 
 |
 
@@ -362,7 +348,7 @@ SNA Nord
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -374,7 +360,7 @@ Astreinte opérationnelle.
 
 |
 
-Athis-Mons.
+Athis-Mons
 
 |
 
@@ -394,7 +380,7 @@ SNA Nord-Est
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -406,7 +392,7 @@ Astreinte opérationnelle.
 
 |
 
-Aérodrome de Bâle-Mulhouse.
+Aérodrome de Bâle-Mulhouse
 
 |
 
@@ -426,7 +412,7 @@ SNA Ouest
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -438,7 +424,7 @@ Astreinte opérationnelle.
 
 |
 
-Aérodrome de Nantes Atlantique.
+Aérodrome de Nantes Atlantique
 
 |
 
@@ -458,7 +444,7 @@ SNA Centre-Est
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -470,7 +456,7 @@ Astreinte opérationnelle.
 
 |
 
-Aérodrome de Clermont-Ferrand.
+Aérodrome de Clermont-Ferrand
 
 |
 
@@ -490,7 +476,7 @@ SNA Sud-Est
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -502,7 +488,7 @@ Astreinte opérationnelle.
 
 |
 
-Ajaccio.
+Ajaccio
 
 |
 
@@ -514,7 +500,7 @@ Astreinte opérationnelle.
 
 |
 
-Bastia.
+Bastia
 
 |
 
@@ -534,7 +520,7 @@ SNA Sud
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -554,7 +540,7 @@ SNA Sud-Ouest
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -566,7 +552,7 @@ Astreinte opérationnelle.
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -586,7 +572,7 @@ SNA Sud-Sud-Est
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -598,7 +584,7 @@ Astreinte opérationnelle.
 
 |
 
-Montpellier-Méditerranée.
+Montpellier-Méditerranée
 
 |
 
@@ -618,7 +604,7 @@ SNA Antilles-Guyane
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -630,7 +616,7 @@ Astreinte opérationnelle.
 
 |
 
-Aérodrome de Pointe-à-Pitre-Le Raizet.
+Aérodrome de Pointe-à-Pitre - Le Raizet
 
 |
 
@@ -642,7 +628,7 @@ Astreinte opérationnelle.
 
 |
 
-Aérodrome de Cayenne-Rochambeau.
+Aérodrome de Cayenne-Rochambeau
 
 |
 
@@ -662,7 +648,7 @@ SNA océan Indien
 
 |
 
-Siège.
+Siège
 
 |
 
@@ -690,7 +676,7 @@ DSAC Nord
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -702,7 +688,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -714,7 +700,7 @@ Astreinte de direction et de contrôle technique.
 
 |
 
-Région Nord-Pas-de-Calais (Lille, Calais, Le Touquet et Merville).
+Région Nord-Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
 
 |
 
@@ -726,7 +712,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Picardie (Beauvais).
+Région Picardie (Beauvais)
 
 |
 
@@ -738,7 +724,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Ile-de-France.
+Région Ile-de-France
 
 |
 
@@ -758,7 +744,7 @@ DSAC Sud-Ouest
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -766,15 +752,15 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 13 semaines par an.
+1 astreinte de semaine dans la limite de 26 semaines par an.
 
 |
 
-DSAC (Bordeaux).
+DSAC (Bordeaux)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
@@ -782,7 +768,7 @@ Astreinte de direction.
 
 |
 
-Région Aquitaine (Bordeaux).
+Région Aquitaine (Bordeaux)
 
 |
 
@@ -794,7 +780,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Aquitaine (Pau).
+Région Aquitaine (Pau)
 
 |
 
@@ -806,7 +792,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Poitou-Charente (Poitiers).
+Région Poitou-Charentes (Poitiers)
 
 |
 
@@ -826,7 +812,7 @@ DSAC Sud
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -834,11 +820,11 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 13 semaines par an.
+1 astreinte de semaine dans la limite de 26 semaines par an.
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -850,7 +836,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-DSAC (Toulouse).
+DSAC (Toulouse)
 
 |
 
@@ -862,7 +848,7 @@ Astreinte de direction.
 
 |
 
-Région Midi-Pyrénées (Toulouse).
+Région Midi-Pyrénées (Toulouse)
 
 |
 
@@ -882,7 +868,7 @@ DSAC Ouest
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -890,11 +876,11 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 13 semaines par an.
+1 astreinte de semaine dans la limite de 26 semaines par an.
 
 |
 
-DSAC (Brest et Rennes).
+DSAC (Brest et Rennes)
 
 |
 
@@ -906,7 +892,7 @@ Astreinte de direction.
 
 |
 
-Région Bretagne (Brest).
+Région Bretagne (Brest)
 
 |
 
@@ -918,7 +904,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Pays de la Loire (Nantes).
+Région Pays de la Loire (Nantes)
 
 |
 
@@ -930,7 +916,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Centre (Tours).
+Région Centre (Tours)
 
 |
 
@@ -942,7 +928,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Basse et Haute-Normandie (Deauville, Le Havre et Rouen).
+Région Basse et Haute-Normandie (Deauville, Le Havre et Rouen)
 
 |
 
@@ -962,7 +948,7 @@ DSAC Nord-Est
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -970,11 +956,11 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite de 26 semaines par an
 
 |
 
-DSAC (Strasbourg).
+DSAC (Strasbourg)
 
 |
 
@@ -986,11 +972,11 @@ Astreinte de direction.
 
 |
 
-Région Bourgogne et Franche-Comté (Dijon).
+Région Bourgogne et Franche-Comté (Dijon)
 
 |
 
-Astreinte enquêtes-accidents (Bourgogne et Franche-Comté).
+Astreinte enquêtes-accidents (Bourgogne et Franche-Comté)
 
 |
 
@@ -998,7 +984,7 @@ Astreinte enquêtes-accidents (Bourgogne et Franche-Comté).
 
 |
 
-Région Alsace (Strasbourg).
+Région Alsace (Strasbourg)
 
 |
 
@@ -1010,7 +996,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Lorraine et Champagne-Ardenne (Metz-Nancy-Lorraine).
+Région Lorraine et Champagne-Ardenne (Metz-Nancy-Lorraine)
 
 |
 
@@ -1030,7 +1016,7 @@ DSAC Centre-Est
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -1042,7 +1028,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DSAC (Lyon).
+DSAC (Lyon)
 
 |
 
@@ -1054,7 +1040,7 @@ Astreinte de direction.
 
 |
 
-Région Rhône-Alpes (Lyon).
+Région Rhône-Alpes (Lyon)
 
 |
 
@@ -1066,7 +1052,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Auvergne (Clermont-Ferrand).
+Région Auvergne (Clermont-Ferrand)
 
 |
 
@@ -1086,7 +1072,7 @@ DSAC Sud-Est
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -1098,7 +1084,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DSAC (Aix-en-Provence).
+DSAC (Aix-en-Provence)
 
 |
 
@@ -1110,7 +1096,7 @@ Astreinte de direction.
 
 |
 
-Région PACA (Marseille-Provence).
+Région PACA (Marseille-Provence)
 
 |
 
@@ -1122,7 +1108,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région PACA (Nice-Côte d'Azur).
+Région PACA (Nice-Côte d'Azur)
 
 |
 
@@ -1134,7 +1120,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Languedoc-Roussillon (Montpellier-Méditerranée).
+Région Languedoc-Roussillon (Montpellier-Méditerranée)
 
 |
 
@@ -1146,7 +1132,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Collectivité territoriale corse (Corse).
+Collectivité territoriale Corse (Corse)
 
 |
 
@@ -1166,7 +1152,7 @@ DSAC Antilles-Guyane
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -1178,7 +1164,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DSAC (Fort-de-France).
+DSAC (Fort-de-France)
 
 |
 
@@ -1190,7 +1176,7 @@ Astreinte de direction.
 
 |
 
-Martinique (Fort-de-France).
+Martinique (Fort-de-France)
 
 |
 
@@ -1202,7 +1188,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Guadeloupe (Pointe-à-Pitre).
+Guadeloupe (Pointe-à-Pitre)
 
 |
 
@@ -1214,7 +1200,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Guyane (Cayenne).
+Guyane (Cayenne)
 
 |
 
@@ -1234,7 +1220,7 @@ DSAC océan Indien
 
 |
 
-DSAC.
+DSAC
 
 |
 
@@ -1246,7 +1232,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-DSAC (Saint-Denis).
+DSAC (Saint-Denis)
 
 |
 
@@ -1258,7 +1244,7 @@ Astreinte de direction.
 
 |
 
-DSAC (Saint-Denis).
+DSAC (Saint-Denis)
 
 |
 
@@ -1278,7 +1264,7 @@ DSAC et SNA océan Indien
 
 |
 
-Dzaoudzi-Pamandzi.
+Dzaoudzi-Pamandzi
 
 |
 
@@ -1290,7 +1276,7 @@ Astreinte opérationnelle.
 
 |
 
-SEAC Polynésie française.
+SEAC Polynésie française
 
 |
 
@@ -1298,7 +1284,7 @@ SEAC Polynésie française.
 
 |
 
-SEAC.
+SEAC
 
 |
 
@@ -1310,7 +1296,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Tahiti-Faaa.
+Tahiti - Faaa
 
 |
 
@@ -1322,7 +1308,7 @@ Astreinte de direction (SEAC).
 
 |
 
-Tahiti-Faaa.
+Tahiti - Faaa
 
 |
 
@@ -1334,7 +1320,7 @@ Astreinte enquêtes-accidents (Territoire).
 
 |
 
-Tahiti-Faaa.
+Tahiti - Faaa
 
 |
 
@@ -1346,7 +1332,7 @@ Astreinte technique de maintenance.
 
 |
 
-Tahiti-Faaa.
+Tahiti - Faaa
 
 |
 
@@ -1366,7 +1352,7 @@ SEAC Nouvelle-Calédonie
 
 |
 
-SEAC.
+SEAC
 
 |
 
@@ -1378,7 +1364,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Nouméa.
+Nouméa
 
 |
 
@@ -1390,7 +1376,7 @@ Astreinte de direction (SEAC).
 
 |
 
-Nouméa.
+Nouméa
 
 |
 
@@ -1402,7 +1388,7 @@ Astreinte enquêtes-accidents (Territoire).
 
 |
 
-Nouméa.
+Nouméa
 
 |
 
