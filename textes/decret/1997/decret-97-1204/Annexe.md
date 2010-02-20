@@ -154,6 +154,18 @@ Articles R. 571-18 et R. 571-22
 
 |
 
+|
+
+Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale.
+
+Décision conjointe du ministre de la défense et du ministre en charge de l'environnement.
+
+|
+
+Article R. 521-1
+
+|
+
 II. - Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
 Livre Ier
