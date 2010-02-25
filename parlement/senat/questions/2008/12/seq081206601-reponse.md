@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081206601
+
+- Question : [SEQ081206601](seq081206601.md) — Rejet d'un compte de campagne d'un candidat aux élections cantonales
+
+## Réponse
+
+*Intérieur, JO du 2010-02-25, page 459*
+
+La Commission nationale des comptes de campagne et des financements politiques (CNCCFP) a l'obligation de saisir le juge de l'élection lorsqu'elle rejette un compte de campagne, constate l'absence de dépôt ou le dépôt hors délai d'un compte de campagne. Pour les élections cantonales, le juge de l'élection est le tribunal administratif dans le ressort duquel s'est déroulé le scrutin. Le juge d'appel est le Conseil d'État. Le candidat dont la bonne foi a été reconnue n'est certes pas déclaré inéligible par le juge de l'élection, mais il n'a pas droit pour autant au remboursement de ses dépenses électorales, le juge ayant constaté le rejet à bon droit du compte de campagne. Le rejet du compte de campagne, sans inéligibilité, ne permet pas de remboursement, même partiel. En revanche, si un candidat dont le compte de campagne n'a pas été rejeté souhaite contester le montant du remboursement forfaitaire arrêté par la CNCCFP, il peut intenter, postérieurement à la décision du juge de l'élection, un recours contre la décision de la commission en saisissant le Conseil d'État, juge compétent pour se prononcer sur les décisions prises par une autorité administrative indépendante à compétence nationale (art. R. 311-1-1 (4°) du code de justice administrative). Le Conseil d'État statue alors comme juge du compte. Le juge du compte peut modifier le montant du remboursement arrêté par la commission. Le candidat qui conteste la décision de la commission arrêtant le montant du remboursement forfaitaire de l'État dispose d'un délai de deux mois à compter de la date de la notification de la décision de la commission pour saisir le Conseil d'État, juge du compte. Passé ce délai, le recours du candidat n'est plus recevable.
