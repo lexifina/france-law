@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106102
+
+- Question : [SEQ081106102](seq081106102.md) — Nouvelle taxe générale sur les activités polluantes sur l'incinération
+
+## Réponse
+
+*Budget, JO du 2010-02-25, page 447*
+
+Le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'État a pris connaissance avec intérêt de la question relative à la nouvelle taxe générale sur les activités polluantes (TGAP). La loi de finances initiale (LFI) pour 2009, en créant une TGAP sur l'incinération des déchets ménagers et assimilés, traduit l'engagement du Grenelle de l'environnement visant à renchérir, progressivement et de façon transparente, le traitement des déchets afin de favoriser leur réduction à la source et leur recyclage. Cette nouvelle taxe a été modulée en fonction de l'efficacité environnementale et énergétique, selon un calendrier progressif évalué sur plusieurs années, et affectée à des mesures de prévention. Ainsi, le taux de la TGAP pour les installations d'incinération de déchets ménagers et assimilés augmente progressivement (7 €/t en 2009 jusqu'à 14 €/t à partir de 2013). De plus, la LFI pour 2009 a prévu des réfactions de tarifs permettant de tenir compte de différents critères environnementaux, comme la certification des installations, la performance énergétique de celles-ci, des valeurs d'émissions d'oxydes d'azote inférieures à 80 mg/Nm³ ou l'utilisation de transports alternatifs à la route. L'application cumulée de ces critères peut réduire le taux de TGAP à 2 €/t en 2009. Par ces différentes mesures, le Gouvernement a démontré que, s'il souhaitait encourager d'autres filières que l'incinération des déchets, il privilégiait aussi fiscalement les installations d'incinération de déchets ménagers et assimilés les plus vertueuses d'un point de vue environnemental.
