@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111869
+
+- Question : [SEQ100111869](seq100111869.md) — Conditions de fonctionnement des conseils d'école
+
+## Réponse
+
+*Éducation, JO du 2010-02-25, page 453*
+
+L'article L. 5214-16 du code général des collectivités territoriales dispose qu'une commune peut transférer des compétences en matière scolaire à un établissement public de coopération intercommunale (EPCI). Dès lors, s'applique l'article L. 5211-5 du code général des collectivités territoriales, qui dispose que « l'établissement public de coopération intercommunale est substitué de plein droit, à la date du transfert des compétences, aux communes qui le créent dans toutes leurs délibérations et tous leurs actes ». Le transfert peut notamment concerner les questions de nature pédagogique à l'égard desquelles le conseil d'école est compétent à titre principal, en application de l'article D. 411-2 du code de l'éducation. Ainsi, dans l'hypothèse où une commune conserve la compétence pour les investissements immobiliers dans les écoles et transfère la compétence pour les frais de fonctionnement et d'équipement pédagogiques à un EPCI, celui-ci s'y substitue dans toutes les délibérations et tous les actes relevant des domaines transférés. Compte tenu de ce qui précède, le président de la communauté de communes ou son représentant siège donc de droit en lieu et place du maire ou de son représentant au conseil d'école. Pour autant, la présence d'un représentant de la commune au sein du conseil d'école ne doit pas être exclue lorsque ce dernier est amené à évoquer des problèmes relatifs aux investissements immobiliers. L'article D. 411-1 du code de l'éducation prévoit, à cet égard, que le président du conseil d'école, « après avis du conseil, peut inviter une ou plusieurs personnes dont la consultation est jugée utile en fonction de l'ordre du jour ». Le maire de la commune peut donc siéger au conseil d'école à titre consultatif.
