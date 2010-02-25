@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709791
+
+- Question : [SEQ090709791](seq090709791.md) — Statut des pompiers d'aérodromes
+
+## Réponse
+
+*Transports, JO du 2010-02-25, page 468*
+
+Le service de sauvetage et de lutte contre l'incendie des aéronefs (SSLIA) est confié aux exploitants d'aérodromes, sous l'autorité du préfet, qui peuvent assurer directement cette mission ou la faire assurer par un autre service public, tel le service départemental d'incendie et de secours (SDIS) ou les services du ministère de la défense lorsque ceux-ci sont implantés sur l'aérodrome, ou encore la confier à un organisme tiers. Depuis les lois du 13 août 2004 et du 20 avril 2005, qui ont réformé la gestion des aéroports français, ces exploitants peuvent être de différentes natures comme un établissement public, une chambre de commerce et d'industrie, un syndicat mixte, une communauté d'agglomérations ou une société anonyme. Le principe général en matière de relations du travail est d'appliquer aux salariés le statut ou la convention collective correspondant à l'activité principale de l'organisme ou de l'entreprise qui les emploie. La diversité des statuts des aéroports entraîne ainsi la diversité constatée dans les régimes applicables aux pompiers d'aérodromes. Cependant, la formation, les qualifications, les conditions d'exercice de la profession des personnels SSLIA sont très réglementées. En effet, il est de la responsabilité du Gouvernement de fixer, pour l'ensemble des aérodromes civils, les exigences en matière de sécurité et d'en contrôler le respect. Pour ce faire, la France a adopté en 2001 et en 2007 les normes techniques correspondant à ces exigences. On retrouve donc beaucoup de points communs dans les conditions de travail de ces personnels sur les différents aéroports. Enfin, il faut noter que l'Union des aéroports français a créé une école de formation de ces personnels qui contribue également à une harmonisation de la profession.
