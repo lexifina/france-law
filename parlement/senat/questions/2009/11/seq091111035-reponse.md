@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091111035
+
+- Question : [SEQ091111035](seq091111035.md) — Ratification de la Charte européenne des langues régionales et minoritaires
+
+## Réponse
+
+*Culture, JO du 2010-02-25, page 450*
+
+Le Gouvernement n'a pas l'intention d'engager un processus de ratification de la charte européenne des langues régionales ou minoritaires. Le Conseil constitutionnel a en effet jugé en 1999 que le préambule de la charte, qui proclame un droit imprescriptible à pratiquer une langue régionale ou minoritaire non seulement dans la vie privée mais aussi dans la vie publique, était contraire aux principes constitutionnels, ainsi que certaines dispositions tendant à conférer des droits spécifiques à des groupes linguistiques à l'intérieur de territoires particuliers. La modification constitutionnelle de juillet 2008, qui affirme le caractère patrimonial des langues régionales, ne saurait à cet égard infléchir la doctrine. Le Conseil avait cependant estimé qu'aucun des trente-neuf engagements concrets que la France s'apprêtait à souscrire n'était contraire à la Constitution. Sa décision n'empêche donc pas, dans le cadre de la législation en vigueur, de reconnaître aux langues régionales toute leur place dans la vie culturelle de notre pays. Ainsi l'État, tout en consacrant des moyens importants à l'enseignement des langues régionales, veille à ce qu'aucune entrave réglementaire ne fasse obstacle à leur libre expression dans les médias. Il apporte par ailleurs son soutien à de nombreux projets de création, dans tous les champs de l'expression artistique, ainsi qu'à des festivals qui expriment le dynamisme plurilingue de la France. La liste des langues diffusée à titre indicatif par la délégation générale à la langue française et aux langues de France comprend, pour la Polynésie française, le tahitien, le marquisien, la langue des Tuamotu, le mangarévien, et les langues des îles Australes : langues de Ra'ivavae, de Rapa et de Ruturu.
