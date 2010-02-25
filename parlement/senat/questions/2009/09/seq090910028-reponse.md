@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910028
+
+- Question : [SEQ090910028](seq090910028.md) — Conditions d'emploi à mi-temps dans la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 2010-02-25, page 463*
+
+Aux termes de l'article 8 du décret n° 91-298 du 20 mars 1991 portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet, un fonctionnaire ne peut occuper un ou plusieurs emplois permanents à temps non complet que si la durée totale de service qui en résulte n'excède pas de plus de 15 celle afférente à un emploi à temps complet. Dans le cas d'espèce, le fonctionnaire peut donc accepter une augmentation de la durée de service afférente à l'un de ses emplois si la durée totale qui en résulte n'excède pas 115 d'un temps complet. Si l'augmentation du temps de travail excède cette limite, il pourra soit renoncer à l'emploi non modifié, soit refuser celui faisant l'objet de la modification. Dans ce dernier cas, la modification est assimilée à la suppression d'un emploi comportant un temps de service égal à celui qu'il occupait. Les dispositions de l'article 97 de la loi du 26 janvier 1984 sont alors applicables. L'intéressé est donc maintenu en surnombre dans l'ancien emploi pendant un an au maximum. Au cours de la période de prise en charge par le centre de gestion, l'intéressé perçoit la rémunération afférente à l'emploi à temps non complet supprimé. Les emplois proposés doivent se situer dans le département et comporter une durée hebdomadaire de service au moins égale à celle de l'emploi supprimé (art. 18 du décret du 20 mars 1991). La collectivité qui a décidé l'augmentation de la durée de travail entraînant un dépassement des 115 % devra alors verser au centre de gestion la contribution financière prévue par l'article 97 bis de la loi du 26 janvier 1984.
