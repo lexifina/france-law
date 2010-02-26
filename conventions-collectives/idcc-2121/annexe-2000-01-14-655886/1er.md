@@ -1,221 +1,169 @@
-# Article 1
+# Article 1er
 
 Les niveaux de base retenus pour l'organisation des classifications des employés sont les suivants :
 
-- employé (E 1, E 2, E 3) ;
+– employé (E1, E2, E3) ;
 
-- employé qualifié (E 4, E 5, E 6) ;
+– employé qualifié (E4, E5, E6) ;
 
-- employé principal (E 7, E 8, E 9).
+– employé principal (E7, E8, E9).
 
-E 1. - Employé 1er échelon
+Employé 1er échelon (E1)
 
 Employé débutant chargé d'effectuer, avec ou sans machine, des travaux simples.
 
-E 2. - Employé 2e échelon
+Employé 2e échelon (E2)
 
 Employé ayant 6 mois d'expérience chargé d'effectuer, avec ou sans machine, des travaux simples.
 
-Dactylo débutant :
-
-Employé travaillant essentiellement sur machine à clavier alphanumérique, avec peu de pratique professionnelle.
-
-E 3. - Employé 3e échelon
+Employé 3e échelon (E3)
 
 Employé ayant une bonne connaissance du service et de l'entreprise et chargé d'effectuer, avec ou sans machine, des travaux simples.
 
-Employé de magasin :
-
-Employé chargé de travaux simples dans un magasin.
-
-E 4. - Employé qualifié 1er échelon
+Employé qualifié 1er échelon (E4)
 
 Employé ayant une qualification professionnelle, chargé de remplir les tâches qui lui sont confiées, suivant des instructions détaillées, ou débutant dans ses fonctions.
 
-Dactylo 1er échelon :
+Employé de magasin 1er échelon : employé chargé d'exécuter des tâches de traitement des commandes et des retours.
 
-Employé travaillant essentiellement sur machine à clavier alphanumérique, capable de 40 mots/minute, avec une présentation et une orthographe satisfaisantes, avec plus de 6 mois de pratique professionnelle.
+Employé services généraux 1er échelon : employé aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
 
-Sténodactylo débutant :
+Employé administratif 1er échelon : employé chargé de l'exécution de tâches administratives.
 
-Employé travaillant sur machine à clavier alphanumérique et utilisant une technique de sténographie, avec moins de 6 mois de pratique professionnelle. Exécute également certaines tâches simples de bureau.
+Agent d'accueil standardiste 1er échelon : employé à l'accueil et au standard téléphonique.
 
-Aide-comptable débutant :
-
-Employé ayant les connaissances suffisantes pour exécuter des travaux simples de comptabilité ou suivant des directives précises.
-
-Employé de magasin qualifié 1er échelon :
-
-Employé ayant une qualification professionnelle, chargé notamment du traitement des commandes et des retours.
-
-E 5. - Employé qualifié 2e échelon
+Employé qualifié 2e échelon (E5)
 
 Employé ayant une qualification professionnelle et chargé de tâches comportant une part d'autonomie et d'initiative et un savoir-faire confirmé.
 
-Aide-comptable 1er échelon :
+Vendeur 1er échelon : employé débutant dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement.
 
-Employé ayant des connaissances comptables lui permettant notamment de tenir les journaux auxiliaires, avec ou sans ventilation, et d'effectuer des reports aux comptes, de procéder à la saisie informatique de données et d'établir certains documents ou lettres.
-
-Dactylo 2e échelon :
-
-Employé travaillant essentiellement sur machine à clavier alphanumérique et ayant une complète maîtrise de cet emploi. Exécute également certaines tâches simples de bureau.
-
-Sténodactylo 1er échelon :
-
-Employé travaillant sur machine à clavier alphanumérique et utilisant une technique de sténographie, capable de taper 40 mots/minute avec une orthographe et une présentation satisfaisantes, de noter 100 mots/minute, avec plus de 6 mois de pratique professionnelle. Exécute également certaines tâches simples de bureau.
-
-Employé à la vente :
-
-Employé sédentaire ayant une qualification professionnelle dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement.
-
-Employé de magasin qualifié 2e échelon :
-
-Employé ayant une qualification professionnelle, chargé notamment du traitement des commandes et des retours, avec un savoir-faire confirmé.
-
-E 6. - Employé qualifié (3e échelon)
+Employé qualifié 3e échelon (E6)
 
 Employé ayant une qualification professionnelle et chargé de tâches comportant une large part d'autonomie et d'initiative.
 
-Aide-comptable (2e échelon) :
+Employé de secrétariat : employé travaillant essentiellement sur traitement de texte ou autres progiciels et capable d'effectuer la saisie et la mise en forme de documents et/ou le traitement de diverses opérations sur les progiciels d'entreprise, avec plus de 6 mois de pratique professionnelle. Exécute également certaines tâches simples de bureau.
 
-Employé ayant des connaissances comptables lui permettant notamment de procéder à l'établissement et à l'arrêté de tous comptes, balances et états comptables simples et d'effectuer toutes tâches connexes à l'activité du service.
+Aide-comptable : employé ayant les connaissances suffisantes pour exécuter des travaux simples de comptabilité, suivant des directives précises.
 
-Aide-opérateur :
+Employé de magasin 2e échelon : employé qualifié, en charge notamment du traitement des commandes et des retours, avec un savoir-faire, de l'expérience et une part d'autonomie et d'initiative.
 
-Agent capable de manipuler les différentes unités périphériques du système, sous le contrôle d'un opérateur ou d'un pupitreur.
+Employé services généraux 2e échelon : employé qualifié aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
 
-Employé de saisie de textes éditoriaux :
+Employé administratif 2e échelon : employé qualifié, en charge de tâches administratives.
 
-Employé chargé de la saisie, en vue de la composition de textes éditoriaux et pouvant y introduire des corrections (à partir de directives qu'il reçoit).
+Agent d'accueil standardiste 2e échelon : employé qualifié, en charge de l'accueil et du standard téléphonique.
 
-Sténodactylo (2e échelon) :
-
-Employé travaillant sur machine à clavier alphanumérique et utilisant une technique de sténographie, ayant une complète maîtrise de cet emploi. Chargé du secrétariat simple et notamment de la rédaction de certains textes ou documents.
-
-Employé aux commandes :
-
-Employé ayant une bonne connaissance du fonds et des conditions de vente, chargé de prendre les commandes et de renseigner la clientèle.
-
-Employé de magasin qualifié (3e échelon) :
-
-Employé ayant une qualification professionnelle, chargé notamment du traitement des commandes et des retours avec une large part d'autonomie et d'initiative.
-
-E 7. - Employé principal (1er échelon)
+Employé principal 1er échelon (E7)
 
 Employé chargé de tâches complexes capable, le cas échéant, de conseiller d'autres employés en suivant des instructions détaillées ou débutant dans ses fonctions.
 
-Employé technique (1er échelon) :
+Vendeur 2e échelon : employé qualifié dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement.
 
-Employé qui exécute des travaux élémentaires de fabrication ou d'édition sous la direction de techniciens.
-
-Aide-documentaliste :
-
-Employé possédant une formation d'aide-documentaliste ou une expérience professionnelle équivalente ; chargé de travaux courants de documentation sous la responsabilité d'un documentaliste ou d'une personne de rang équivalent (ou d'une personne en faisant fonction).
-
-Aide-maquettiste :
-
-Employé chargé de réaliser des maquettes à partir de copies et documents qui lui sont fournis.
-
-Correspondant commercial :
-
-Employé connaissant bien le fonds et maîtrisant les règles applicables aux conditions de vente. Chargé des formalités administratives dans le cadre des relations commerciales de l'entreprise.
-
-Employé technique d'édition (1er échelon) :
-
-Employé qui exécute des travaux élémentaires de fabrication ou d'édition sous la direction de techniciens.
-
-Opérateur PAO :
-
-Chargé de la réalisation de travaux à l'aide de moyens de programmation assistée sur ordinateur.
-
-Employé à la vente confirmé :
-
-Employé ayant une qualification professionnelle confirmée dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement. Ses compétences et des connaissances du fonds le rendent apte à conseiller et former d'autres employés.
-
-Employé de magasin principal (1er échelon) :
-
-Employé ayant une qualification professionnelle confirmée, chargé notamment du traitement des commandes et des retours.
-
-E 8. - Employé principal (2e échelon)
+Employé principal 2e échelon (E8)
 
 Employé chargé de tâches complexes capable, le cas échéant, de conseiller d'autres employés avec une part d'autonomie et d'initiative et un savoir-faire confirmé.
 
-Secrétaire :
+Comptable 1er échelon : employé ayant des connaissances comptables lui permettant notamment de procéder à l'établissement et à l'arrêté de tous comptes, balances et états comptables simples, et d'effectuer toutes tâches connexes à l'activité du service.
 
-Employé chargé de l'ensemble des tâches relevant du secrétariat et notamment de certaines relations avec l'extérieur, de la préparation et du classement des dossiers et de la rédaction de certains textes ou documents avec une part d'autonomie et d'initiative. Collabore avec un ou plusieurs cadres. Maîtrise les techniques de la dactylographie et de la sténographie. Est tout particulièrement tenu à la réserve et au secret professionnel.
+Employé services généraux 3e échelon : employé confirmé aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
 
-Employé technique d'édition (2e échelon) :
+Employé administratif 3e échelon : employé confirmé, en charge de tâches administratives comportant une part d'autonomie et d'initiative.
 
-Employé qui exécute des travaux d'édition ou de fabrication nécessitant une bonne connaissance des procédés et des techniques d'édition et de fabrication sous la responsabilité de techniciens.
+Agent d'accueil standardiste 3e échelon : employé qualifié, en charge de l'accueil et du standard téléphonique et d'autres tâches administratives comportant une part d'autonomie et d'initiative.
 
-Correcteur :
+Employé principal 3e échelon (E9)
 
-Employé chargé d'effectuer la lecture typographique d'épreuves et d'assurer le respect des règles de ponctuation, de syntaxe et d'orthographe avec copie.
+Employé chargé de tâches complexes capable, le cas échéant, de conseiller d'autres employés avec une large part d'autonomie et d'initiative.
 
-Caissier :
+Secrétaire : employé travaillant sur traitement de texte ou autres progiciels et ayant une bonne connaissance de ces progiciels permettant le traitement de documents ou d'opérations de gestion. Chargé du secrétariat pour une ou plusieurs personnes au sein du service. Chargé de tâches de coordination, de collecte et de traitement de l'information, de la rédaction de comptes rendus et de documents simples.
 
-Employé ayant la responsabilité de la caisse et chargé notamment d'effectuer, après vérification, les encaissements et paiements courants et de passer les écritures comptables correspondantes.
+Comptable 2e échelon : employé ayant des connaissances comptables lui permettant de dresser des statistiques et prévisions de trésorerie, de réunir les éléments nécessaires au contrôle de gestion, d'établir avec les directives d'un chef comptable ou d'un expert-comptable le bilan et les comptes de résultats dans les petites entreprises.
 
-Comptable (1er échelon) :
+Vendeur 3e échelon : employé confirmé dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement. Ses compétences et ses connaissances du fonds le rendent apte à conseiller et à former d'autres employés.
 
-Employé ayant des connaissances comptables lui permettant de traduire en comptabilité toutes les opérations commerciales, industrielles et financières, de les composer, les centraliser et les assembler afin d'en tirer notamment balances, bilans, comptes de résultats, prix de revient et d'effectuer toutes tâches connexes à l'activité du service.
+Assistant commercial 1er échelon : employé connaissant bien le fonds et maîtrisant les règles applicables aux conditions de vente. Chargé des formalités administratives dans le cadre des relations commerciales de l'entreprise.
 
-Opérateur-pupitreur (1er échelon) :
+Employé de magasin 3e échelon : employé confirmé en charge de la gestion des stocks, du traitement des commandes et des retours, avec un savoir-faire, de l'expérience et une large part d'autonomie et d'initiative. Ses compétences et sa connaissance du fonds le rendent apte à conseiller et former d'autres employés.
 
-Agent capable de manipuler l'ensemble ordinateur, selon instructions, sans prendre d'initiative.
+Employé technique de fabrication : employé qui exécute des travaux élémentaires de fabrication sous la direction d'un technicien.
 
-E 9. - Employé principal (3e échelon)
+Assistant administratif 1er échelon : employé chargé des tâches administratives d'un service ou d'un département.
 
-Employé chargé de tâches complexes, capable, le cas échéant, de conseiller d'autres employés avec une large part d'autonomie et d'initiative.
+Correcteur : employé chargé d'effectuer la lecture typographique d'épreuves et d'assurer le respect des règles de ponctuation, de syntaxe et d'orthographe, avec ou sans copie.
 
-Comptable (2e échelon) :
-
-Employé ayant des connaissances comptables lui permettant de dresser des statistiques et prévisions de trésorerie, de réunir les éléments nécessaires au contrôle de gestion, d'établir avec les directives d'un chef comptable ou d'un expert-comptable le bilan et les comptes de résultats dans les petites entreprises.
-
-Employé à la vente principal :
-
-En plus des compétences requises de l'employé à la vente confirmé, son expérience lui permet de conseiller la clientèle ; il fait des propositions de réassort en rayon.
-
-Secrétaire de direction (1er échelon) :
-
-Employé chargé d'un secrétariat important, avec une large part d'autonomie et d'initiative. Maîtrise parfaitement l'ensemble des techniques, des tâches et des obligations du secrétariat et possède une culture générale qui lui permet d'apporter une assistance efficace au(x) cadre(s) dont il dépend. Est tout particulièrement tenu à la réserve et au secret professionnel.
-
-Employé technique d'édition (3e échelon) :
-
-Employé chargé de travaux d'édition ou de fabrication nécessitant une bonne connaissance technique des procédés d'édition et de fabrication, disposant d'une large part d'autonomie et d'initiative, sous la responsabilité d'un technicien ou d'un cadre.
-
-Opérateur-pupitreur (2e échelon) :
-
-Agent ayant une bonne connaissance de l'ensemble ordinateur, capable de conduire le système. Est compétent dans les différentes phases du travail d'opérateur. Assure les procédures de point de contrôle et de reprise.
-
-Programmeur débutant :
-
-Agent, ayant moins de 6 mois d'ancienneté dans la fonction, capable d'écrire des programmes simples, d'après les analyses qui lui sont fournies.
-
-La liste des postes donnée pour chaque échelon n'est pas limitative. A titre d'exemple, les postes suivants sont classés en fonction de l'expérience, de l'ancienneté et de la qualification :
-
-- hôtesse ;
-
-- standardiste ;
-
-- employé au courrier ;
-
-- coursier ;
-
-- chauffeur ;
-
-- chauffeur-livreur ;
-
-- livreur ;
-
-- agent de sécurité ;
-
-- employé de surface ;
-
-- agent d'entretien ;
-
-- vendeur.
-
-La filière employés se termine en E 9 mais se poursuit en pratique vers le personnel d'encadrement.
+La filière employés se termine en E9, mais se poursuit en pratique vers le personnel d'encadrement.
 
 En conséquence, lorsque l'emploi d'une personne correspond aux définitions du personnel d'encadrement, elle doit être classée dans cette catégorie.
+
+La liste, non limitative, des fonctions repères est récapitulée ci-après afin de rendre plus lisible l'articulation entre les fonctions repères au sein de chaque filière métier.
+
+Secrétariat
+
+Employé de secrétariat (E6) : employé travaillant essentiellement sur traitement de texte ou autres progiciels et capable d'effectuer la saisie et la mise en forme de documents et/ou le traitement de diverses opérations sur les progiciels d'entreprise, avec plus de 6 mois de pratique professionnelle. Exécute également certaines tâches simples de bureau.
+
+Secrétaire (E9) : employé travaillant sur traitement de texte ou autres progiciels et ayant une bonne connaissance de ces progiciels permettant le traitement de documents ou d'opérations de gestion. Chargé du secrétariat pour une ou plusieurs personnes au sein du service. Chargé de tâches de coordination, de collecte et de traitement de l'information, de la rédaction de comptes rendus et de documents simples.
+
+Comptabilité
+
+Aide-comptable (E6) : employé ayant les connaissances suffisantes pour exécuter des travaux simples de comptabilité, suivant des directives précises.
+
+Comptable 1er échelon (E8) : employé ayant des connaissances comptables lui permettant notamment de procéder à l'établissement et à l'arrêté de tous comptes, balances et états comptables simples, et d'effectuer toutes tâches connexes à l'activité du service.
+
+Comptable 2e échelon (E9) : employé ayant des connaissances comptables lui permettant de dresser des statistiques et prévisions de trésorerie, de réunir les éléments nécessaires au contrôle de gestion, d'établir avec les directives d'un chef comptable ou d'un expert-comptable le bilan et les comptes de résultats dans les petites entreprises.
+
+Commerciale
+
+Vendeur 1er échelon (E5) : employé débutant dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement.
+
+Vendeur 2e échelon (E7) : employé qualifié dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement.
+
+Vendeur 3e échelon (E9) : employé confirmé dans le domaine de la vente, chargé notamment de la mise en rayon, de la saisie des commandes sur tous supports, de la vente et de l'encaissement. Ses compétences et ses connaissances du fonds le rendent apte à conseiller et à former d'autres employés.
+
+Assistant commercial 1er échelon (E9) : employé connaissant bien le fonds et maîtrisant les règles applicables aux conditions de vente. Chargé des formalités administratives dans le cadre des relations commerciales de l'entreprise.
+
+Employés de magasin
+
+Employé de magasin 1er échelon (E4) : employé chargé d'exécuter des tâches de traitement des commandes et des retours.
+
+Employé de magasin 2e échelon (E6) : employé qualifié, chargé notamment du traitement des commandes et des retours, avec un savoir-faire, de l'expérience, et une part d'autonomie et d'initiative.
+
+Employé de magasin 3e échelon (E9) : employé confirmé en charge de la gestion des stocks, du traitement des commandes et des retours, avec un savoir-faire, de l'expérience et une large part d'autonomie et d'initiative. Ses compétences et sa connaissance du fonds le rendent apte à conseiller et former d'autres employés.
+
+Fabrication
+
+Employé technique de fabrication (E9) : employé qui exécute des travaux élémentaires de fabrication sous la direction d'un technicien.
+
+Services généraux
+
+Employé services généraux 1er échelon (E4) : employé aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
+
+Employé services généraux 2e échelon (E6) : employé qualifié aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
+
+Employé services généraux 3e échelon (E8) : employé confirmé aux services généraux (courrier, entretien, sécurité, livraison, coursier, chauffeur, chauffeur-livreur, livreur, employé de surface, etc.).
+
+Employés administratifs
+
+Employé administratif 1er échelon (E4) : employé chargé de l'exécution de tâches administratives.
+
+Employé administratif 2e échelon (E6) : employé qualifié, en charge de tâches administratives.
+
+Employé administratif 3e échelon (E8) : employé confirmé, en charge de tâches administratives comportant une part d'autonomie et d'initiative.
+
+Assistant administratif 1er échelon (E9) : employé chargé des tâches administratives d'un service ou d'un département.
+
+Agents d'accueil standardistes
+
+Agent d'accueil standardiste 1er échelon (E4) : employé à l'accueil et au standard téléphonique.
+
+Agent d'accueil standardiste 2e échelon (E6) : employé qualifié, en charge de l'accueil et du standard téléphonique.
+
+Agent d'accueil standardiste 3e échelon (E8) : employé qualifié, en charge de l'accueil et du standard téléphonique et d'autres tâches administratives comportant une part d'autonomie et d'initiative.
+
+Correcteur
+
+Correcteur (E9) : employé chargé d'effectuer la lecture typographique d'épreuves et d'assurer le respect des règles de ponctuation, de syntaxe et d'orthographe, avec ou sans copie.
+
+Nota : Texte étendu sous réserve de l'application des dispositions de l'article L. 2241-9 du code du travail, qui prévoient que la négociation annuelle sur les salaires vise également à définir et, à programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes avant le 31 décembre 2010 (arrêté
+
+du 18 octobre 2010, art. 1er).

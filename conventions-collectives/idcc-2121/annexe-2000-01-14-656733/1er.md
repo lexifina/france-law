@@ -1,8 +1,8 @@
-# Article 1
+# Article 1er
 
 La nécessité de nouvelles dispositions pour la classification des agents de maîtrise, techniciens et cadres, constatée tant par les employeurs que par les salariés, a conduit à l'abandon des définitions de postes et à l'élaboration d'un principe nouveau.
 
-La diversité qui existe dans la structure et l'importance des entreprises autant que dans la nature des fonctions occupées par les cadres, techniciens et agents de maîtrise, le même titre pouvant recouvrir des contenus très différents, ne permet plus en effet d'établir une énumération complète des postes.
+La diversité qui existe dans la structure et l'importance des entreprises autant que dans la nature des fonctions occupées par les cadres, techniciens et agents de maîtrise, le même titre pouvant recouvrir des contenus très différents, ne permet plus, en effet, d'établir une énumération complète des postes.
 
 Le principe d'une classification ouverte a été choisi, capable d'intégrer à l'avenir les fonctions et emplois nouveaux qui seront créés dans la profession.
 
@@ -20,7 +20,7 @@ Les niveaux de base retenus sont les suivants :
 
 - techniciens (T1, T2, T3, T4) ;
 
-- cadres (C1a, C1b, C2a, C2b, C2c, C3a, C3b, C3c, C4, C5).
+- cadres (C1 a, C1 b, C2 a, C2 b, C2 c, C3 a, C3 b, C3 c, C4, C5).
 
 1. AGENTS DE MAÎTRISE
 
@@ -74,13 +74,13 @@ Les connaissances techniques mises en oeuvre par les techniciens peuvent avoir �
 
 - soit par une expérience professionnelle équivalente.
 
-Ces connaissances doivent être régulièrement actualisées notamment par la formation professionnelle continue.
+Ces connaissances doivent être régulièrement actualisées, notamment par la formation professionnelle continue.
 
 B. - Classification
 
 Les techniciens sont classés en quatre catégories hiérarchiques suivant :
 
-- leur niveau de responsabilité, d'autonomie et d'initiative, dans l'exercice des fonctions qui leur sont confiées ;
+- leur niveau de responsabilité, d'autonomie et d'initiative dans l'exercice des fonctions qui leur sont confiées ;
 
 - leur niveau de qualification technique.
 
@@ -90,13 +90,13 @@ Technicien exerçant ses fonctions conformément à des directives détaillées 
 
 T2. - Technicien 2e échelon
 
-Technicien dont les fonctions comportent l'exécution de travaux complexes d'après des instructions générales avec une part d'autonomie et d'initiative.
+Technicien dont les fonctions comportent l'exécution de travaux complexes d'après des instructions générales, avec une part d'autonomie et d'initiative.
 
-T3 - Technicien 3e échelon
+T3. - Technicien 3e échelon
 
 Technicien chargé de coordonner la réalisation de travaux et d'études complexes nécessitant la prise en compte d'un ensemble de contraintes techniques, économiques ou administratives.
 
-T4 - Technicien 4e échelon
+T4. - Technicien 4e échelon
 
 Technicien d'une grande expérience chargé de coordonner la réalisation d'études complexes nécessitant la prise en compte de contraintes techniques, économiques ou administratives.
 
@@ -106,7 +106,7 @@ A. - Définition
 
 Sont cadres les salariés exerçant des fonctions d'autorité et/ou techniques dans un secteur d'activité, supposant une formation constatée par un diplôme du second cycle de l'enseignement supérieur général ou spécialisé, ou une expérience professionnelle équivalente.
 
-Ces connaissances sont régulièrement actualisées notamment par la formation professionnelle continue.
+Ces connaissances sont régulièrement actualisées, notamment par la formation professionnelle continue.
 
 Les fonctions remplies par le cadre exigent du cadre des compétences techniques et des aptitudes à participer à la gestion économique de son secteur d'activité, au sein duquel il apporte un esprit de créativité, d'innovation ou d'initiative.
 
@@ -128,25 +128,25 @@ C2. - Cadre 2e échelon a, b ou c
 
 Cadre confirmé placé sous l'autorité d'un cadre de catégorie supérieure.
 
-Il a délégation pour diriger et coordonner les travaux des collaborateurs des catégories précédentes en prenant des initiatives dans leur réalisation.
+Il a délégation pour diriger et coordonner les travaux des collaborateurs des catégories précédentes, en prenant des initiatives dans leur réalisation.
 
-et/ou
+Et/ou
 
 L'objet de son activité exige une formation appuyée sur des connaissances générales et pratiques qu'il met en oeuvre dans les domaines littéraire et rédactionnel, artistique, technique, administratif, commercial ou de gestion.
 
-Il peut être classé, selon son niveau de qualification, de responsabilité, d'autonomie et d'initiative en catégorie a, b ou c.
+Il peut être classé, selon son niveau de qualification, de responsabilité, d'autonomie et d'initiative, en catégorie a, b ou c.
 
 C3. - Cadre 3e échelon a, b ou c
 
 Cadre responsable d'un service, secteur ou d'un département devant un cadre d'une catégorie supérieure.
 
-Il a délégation pour diriger et coordonner les travaux de collaborateurs des catégories précédentes.
+Il a délégation pour diriger et coordonner les travaux des collaborateurs des catégories précédentes.
 
-et/ou
+Et/ou
 
-Il a des responsabilités dans les domaines littéraire et rédactionnel, artistique, technique, administratif, commercial ou de gestion, qui exigent une capacité de jugement et d'initiative dans le cadre de ses attributions et des connaissances d'un niveau supérieur dans sa spécialité.
+Il a des responsabilités dans les domaines littéraire et rédactionnel, artistique, technique, administratif, commercial ou de gestion qui exigent une capacité de jugement et d'initiative dans le cadre de ses attributions et des connaissances d'un niveau supérieur dans sa spécialité.
 
-Il peut être classé selon son niveau de qualification, de responsabilité, d'autonomie et d'initiative en catégorie a, b ou c.
+Il peut être classé, selon son niveau de qualification, de responsabilité, d'autonomie et d'initiative, en catégorie a, b ou c.
 
 C 4. - Cadre 4e échelon
 
@@ -158,7 +158,7 @@ C 5. - Direction générale
 
 Cadre de direction générale de l'entreprise.
 
-C. - Les appointements des catégories C 4 et C 5 sont fixés par contrats et accords particuliers
+C. - Les appointements des catégories C4 et C5 sont fixés par contrats et accords particuliers
 
 4. MÉTHODE DE CLASSIFICATION DES POSTES
 
@@ -174,15 +174,15 @@ le total des différentes notes détermine le niveau du poste dans l'échelle hi
 
 Cette cotation ne détermine pas la catégorie du poste. Celui-ci doit préalablement être défini comme un poste d'agent de maîtrise, de technicien ou de cadre.
 
-C'est pourquoi 2 cotations distinctes ont été retenues :
+C'est pourquoi deux cotations distinctes ont été retenues :
 
-- la cotation des agents de maîtrise et techniciens qui s'effectue à partir de critères adaptés sur certains points à leurs caractéristiques ;
+- la cotation des agents de maîtrise et techniciens, qui s'effectue à partir de critères adaptés sur certains points à leurs caractéristiques ;
 
 - la cotation des cadres, qui s'effectue à partir des critères suivants.
 
-Les critères
+Critères
 
-A. - Responsabilité
+A. - Responsabilité :
 
 - de commandement, de coordination ou de relation ;
 
@@ -208,15 +208,15 @@ La qualification est appréciée en fonction :
 
 NB : En ce qui concerne les agents de maîtrise et techniciens, la grille des critères est légèrement modifiée pour tenir compte de leurs caractéristiques ;
 
-- le critère " créativité " qui les concerne très peu est supprimé.
+- le critère " créativité ", qui les concerne très peu, est supprimé.
 
-En revanche, pour les agents de maîtrise, la note du critère " commandement " est affectée d'un coefficient pondérateur (2). Pour les techniciens, la note du critère " responsabilité sur les réalisations .. " est affectée d'un coefficient pondérateur (2).
+En revanche, pour les agents de maîtrise, la note du critère " commandement " est affectée d'un coefficient pondérateur (2). Pour les techniciens, la note du critère " responsabilité sur les réalisations... " est affectée d'un coefficient pondérateur (2).
 
-Cela aboutit à ne pas changer l'échelle des cotations qui va de 0 à 80 puisqu'il y a 8 critères avec un maximum de 10.
+Cela aboutit à ne pas changer l'échelle des cotations, qui va de 0 à 80 puisqu'il y a 8 critères avec un maximum de 10.
 
-La cotation
+Cotation
 
-Elle s'effectue avec 5 notes dont la signification est la même pour les agents de maîtrise ou techniciens, comme pour les cadres. Mais il faut tenir compte de la différence de niveau pour leur appréciation.
+Elle s'effectue avec cinq notes dont la signification est la même pour les agents de maîtrise ou techniciens, comme pour les cadres. Mais il faut tenir compte de la différence de niveau pour leur appréciation.
 
 Par exemple : un technicien et un cadre peuvent avoir la même note (7) pour le critère " délégation ", mais :
 
@@ -282,7 +282,7 @@ Responsabilité |
 
 Coefficient 2. - AM |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -444,7 +444,7 @@ Responsabilité |
 
 |
 
-- commandement-coordination |
+- commandement, coordination |
 
 |
 
@@ -458,7 +458,7 @@ Responsabilité |
 
 |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -658,7 +658,7 @@ x |
 
 Coefficient 2. - AM |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -836,7 +836,7 @@ x |
 
 Coefficient 2. - AM |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -966,7 +966,7 @@ Total |
 
 36 |
 
-Grille cadres
+Grilles cadres
 
 Classement en C3 a
 
@@ -1014,7 +1014,7 @@ x |
 
 |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -1220,7 +1220,7 @@ x |
 
 |
 
-- réalisations-études |
+- réalisations, études |
 
 |
 
@@ -1378,7 +1378,7 @@ Total |
 
 43 |
 
-3. Transposition des résultats
+Transposition des résultats
 
 (Schéma à titre indicatif)
 
@@ -1436,446 +1436,550 @@ C5 |
 
 Plus de 65 |
 
-Postes spécifiques
-
-Agents de maîtrise, techniciens et cadres
+Postes spécifiques agents de maîtrise, techniciens et cadres (1)
 
 Cette liste de postes n'est pas limitative ; elle est donnée à titre purement indicatif. Ces définitions peuvent varier en fonction de l'organisation ou de la dimension des unités concernées et du profil particulier des personnes occupant ces fonctions.
 
-Directeur éditorial
+Filière édition
 
-Conçoit et recommande une politique éditoriale à sa direction dont il supervise la réalisation.
-
-A ce titre :
-
-- sélectionne les nouveaux projets en fonction de leur rentabilité et de la situation du marché ;
-
-- prend des décisions concernant le choix des auteurs ;
-
-- supervise les travaux de plusieurs responsables d'édition ;
-
-- finalise le budget de son secteur d'activité, en suit la réalisation et assume la responsabilité de ses résultats ;
-
-- supervise l'activité artistique ;
-
-- entretient tous contacts et relations extérieures de haut niveau.
-
-Directeur littéraire
-
-Choisit des auteurs et sélectionne des manuscrits.
+Directeur éditorial : conçoit et recommande à la direction une politique éditoriale dont il supervise la réalisation.
 
 A ce titre :
 
-- participe à la définition de la politique éditoriale ;
+– sélectionne les nouveaux projets en fonction de leur rentabilité et de la situation du marché ;
 
-- recherche des auteurs et recommande ceux à sélectionner ;
+– prend les décisions concernant le choix des auteurs ;
 
-- anime une structure de sélection des manuscrits (lecteurs, conseillers ..) ;
+– supervise les travaux de plusieurs responsables d'édition ;
 
-- négocie, établit et suit les contrats avec les auteurs ;
+– finalise le budget de son secteur d'activité, en suit la réalisation et assume la responsabilité des résultats ;
 
-- remplit une mission permanente de relations publiques.
+– entretient tous contacts et relations extérieures de haut niveau.
 
-Responsable d'édition
-
-Réalise un programme éditorial.
+Directeur littéraire : choisit des auteurs et sélectionne des manuscrits.
 
 A ce titre :
 
-- participe à la définition de la politique éditoriale, établit le programme éditorial de son domaine de responsabilité et suit sa réalisation ;
+– participe à la définition de la politique éditoriale ;
 
-- effectue la recherche d'auteurs et recommande ceux à sélectionner ;
+– recherche des auteurs et recommande ceux à sélectionner ;
 
-- participe aux prises de décisions concernant la réalisation physique des ouvrages et le choix des illustrations ;
+– anime une structure de sélection des manuscrits (lecteurs, conseillers...) ;
 
-- anime et contrôle des secrétaires d'édition ;
+– négocie, établit et suit les contrats avec les auteurs ;
 
-- établit le budget de son domaine de responsabilité et suit la réalisation ;
+– remplit une mission permanente de relations publiques.
 
-- propose des nouveaux produits ou des améliorations de produits existants et participe aux prises de décision.
-
-Secrétaire d'édition
-
-Coordonne les opérations visant à la réalisation d'ouvrages.
+Responsable d'édition : réalise un programme éditorial.
 
 A ce titre :
 
-- participe à la définition du programme éditorial et à la conception matérielle des ouvrages ;
+– participe à la définition de la politique éditoriale, établit le programme éditorial de son domaine de responsabilité et suit sa réalisation ;
 
-- réalise en relations étroites avec l'auteur la finalisation des textes ;
+– effectue la recherche d'auteurs et recommande ceux à sélectionner ;
 
-- participe à la préparation de la maquette ;
+– participe aux prises de décisions concernant la réalisation physique des ouvrages et le choix des illustrations ;
 
-- propose des collaborateurs externes et coordonne leurs travaux ;
+– anime et contrôle des éditeurs et / ou assistants d'édition ;
 
-- est responsable de la préparation des copies ;
+– établit le budget de son domaine de responsabilité et suit sa réalisation ;
 
-- établit les relations quotidiennes avec les auteurs et les services de la maison concernés (ex. documentation, maquette, fabrication) ;
+– propose de nouveaux produits ou des améliorations de produits existants et participe aux prises de décisions.
 
-- suit les budgets et plannings.
-
-Responsable service correction
-
-Responsable de la cohérence et de la qualité orthographique et grammaticale des textes et des ouvrages édités par l'entreprise.
+Editeur : participe à la réalisation d'un programme éditorial.
 
 A ce titre :
 
-- participe à la sélection et supervise les lecteurs-correcteurs et correcteurs externes et internes ;
+– seconde un responsable d'édition ou agit de manière autonome pour le suivi de la réalisation d'un programme éditorial et de son budget ;
 
-- établit les plannings de relecture et veille à leur respect ;
+– réalise en relation étroite avec l'auteur la finalisation des textes ;
 
-- répartit le travail et s'assure de la qualité de son exécution ;
+– propose, si nécessaire, des collaborateurs extérieurs et coordonne leurs travaux ;
 
-- participe et veille à l'unification des règles d'écriture dans le respect de la langue et des usages de composition des textes ;
+– a la responsabilité de la préparation des copies ;
 
-- effectue des travaux de relecture et propose, si nécessaire, des améliorations ou modifications de texte.
+– participe aux prises de décisions concernant la réalisation physique des ouvrages et le choix des illustrations ;
 
-Lecteur-correcteur
+– rédige les argumentaires de vente destinés aux représentants ;
 
-Responsable de la cohérence et de la qualité orthographique et grammaticale des textes et des ouvrages qui lui sont confiés.
+– peut être amené à animer un ou plusieurs assistants d'édition et / ou à effectuer tout ou partie de leurs tâches.
 
-A ce titre :
-
-- effectue la lecture critique des manuscrits et des épreuves, assure la mise au point des textes et des ouvrages sur tout support ;
-
-- est apte à réaliser tout ou partie des travaux spécialisés suivants :
-
-- préparation des manuscrits ;
-
-- établissement de tables et d'index ;
-
-- contrôle de bibliographies.
-
-Le lecteur-correcteur bilingue effectue dans une langue étrangère les travaux définis ci-dessus.
-
-Responsable service documentation. - Iconographie
-
-Fournit les informations et illustrations nécessaires à la réalisation des ouvrages édités par l'entreprise.
+Assistant d'édition : participe aux opérations visant à la réalisation d'ouvrages.
 
 A ce titre :
 
-- participe aux décisions concernant le choix des illustrations ;
+– seconde un éditeur et / ou un responsable d'édition pour la mise au point des textes et la préparation des copies ;
 
-- organise et contrôle le travail des documentalistes et des iconographes ;
+– relit les épreuves et prépare les bons à tirer ;
 
-- sélectionne et gère les collaborateurs externes ;
+– assure le suivi administratif des différents intervenants sur l'ouvrage et le respect des plannings.
 
-- négocie les conditions d'achat de droits de reproduction ;
-
-- suit les budgets de documentation et d'illustrations.
-
-Iconographe
-
-Effectue la recherche iconographique liée à la réalisation d'ouvrages.
+Responsable service correction : responsable de la cohérence et de la qualité orthographique et grammaticale des textes et ouvrages édités par l'entreprise.
 
 A ce titre :
 
-- identifie les sources d'approvisionnement externes ;
+– participe à la sélection des lecteurs et correcteurs externes et internes et en assure le suivi ;
 
-- effectue dans le cadre des orientations qui lui sont données des recherches d'illustrations ;
+– établit les plannings de relecture et veille à leur respect ;
 
-- recommande le choix des illustrateurs externes ;
+– répartit le travail et s'assure de la qualité de son exécution ;
 
-- met en place et gère le système de classement et d'archivage des illustrations, photos, cartes, etc.
+– participe et veille à l'unification des règles d'écriture dans le respect de la langue et des usages de compositions des textes ;
 
-Documentaliste
+– effectue des travaux de relecture et propose, si nécessaire, des améliorations ou modifications de texte.
 
-Effectue la recherche documentaire liée à la réalisation d'ouvrages.
-
-A ce titre :
-
-- identifie les sources d'informations externes ;
-
-- effectue des recherches d'informations rédactionnelles et chiffrées ;
-
-- vérifie la qualité de ces informations et les met en forme ;
-
-- met en place et gère le système de classement et d'archivage de la documentation.
-
-Attaché de presse
-
-Diffuse auprès des médias des informations sur l'entreprise et ses ouvrages en vue du développement de sa notoriété et de ses ventes.
+Lecteur correcteur : responsable de la cohérence et de la qualité orthographique et grammaticale des textes et des ouvrages qui lui sont confiés.
 
 A ce titre :
 
-- conçoit et coordonne la réalisation des dossiers et communiqués destinés à faire mieux connaître un ouvrage ou un auteur ;
+– effectue la lecture critique de manuscrits et d'épreuves ;
 
-- entretient et développe les relations avec les journalistes ;
+– assure la mise au point de textes et ouvrages sur tout support ;
 
-- coordonne l'organisation des interviews d'auteurs ;
+– peut également réaliser des travaux tels que la préparation de manuscrits, l'établissement de tables et index, le contrôle des bibliographies.
 
-- organise des manifestations destinées à l'information des médias et du public ;
-
-- assure l'envoi du service de presse.
-
-Délégué pédagogique
-
-Entretient des relations avec les établissements d'enseignement et les librairies.
+Documentaliste iconographe : effectue la recherche iconographique liée à la réalisation d'ouvrages.
 
 A ce titre :
 
-- visite les établissements d'enseignement afin de connaître les besoins des enseignants et leurs jugements sur les ouvrages existants ;
+– identifie les sources d'approvisionnement externes ;
 
-- informe les responsables éditoriaux et marketing sur l'état du marché et la situation compétitive des ouvrages de l'entreprise ;
+– effectue dans le cadre des orientations qui lui sont données des recherches d'illustrations ;
 
-- assure la promotion des nouveaux ouvrages auprès des prescripteurs et des libraires ;
+– recommande le choix des illustrations externes ;
 
-- coordonne la réalisation d'enquêtes terrain ;
+– met en place et gère le système de classement et d'archivage des illustrations, photos, cartes, etc.
 
-- identifie lors de ses contacts les personnes susceptibles d'être auteurs et les recommande à la direction ;
+Filière studio-maquette
 
-- réalise des prises de commandes.
-
-Directeur de fabrication
-
-Optimise la fabrication des ouvrages.
+Directeur artistique : responsable de la qualité graphique et d'illustration d'une ou de plusieurs familles d'ouvrages.
 
 A ce titre :
 
-- est responsable du personnel de fabrication ;
+– participe aux décisions concernant la réalisation physique des ouvrages ;
 
-- participe aux décisions concernant la réalisation matérielle des ouvrages et suggère les orientations susceptibles de réduire les coûts de fabrication ;
+– supervise, en liaison avec le directeur éditorial, la conception graphique des ouvrages : couverture, illustrations, choix typographiques et supervise la réalisation des maquettes ;
 
-- suit en permanence les évolutions technologiques et y adapte les méthodes de production de l'entreprise ;
+– suit l'évolution des styles et garantit la qualité graphique des ouvrages.
 
-- coordonne l'ensemble des activités de fabrication : production, approvisionnement, planification, stocks et réimpressions ;
-
-- négocié les contrats d'achats et gère le budget achats ;
-
-- contrôle l'établissement des devis de fabrication.
-
-Chef de fabrication
-
-Coordonne la fabrication d'une ou plusieurs familles d'ouvrages.
+Chef de studio : supervise la réalisation d'une ou de plusieurs familles d'ouvrages.
 
 A ce titre :
 
-- lance les appels d'offres, analyse les remises de prix et recommande les prestataires et fournisseurs à sélectionner (imprimeur, graveur, brocheur, relieur, photograveur ou autres industries graphiques) ;
+– sélectionne les prestataires externes essentiellement metteurs en pages, cartographes illustrateurs ;
 
-- établit les devis de fabrication des ouvrages ;
+– supervise la réalisation des ouvrages jusqu'à la fourniture des fichiers servant à l'impression ;
 
-- organise et contrôle le travail des techniciens de fabrication ;
+– établit les bons de commande fournisseurs prépresse en fonction du budget.
 
-- effectue une recherche permanente d'amélioration des performances (qualité, prix, délai).
-
-Technicien de fabrication
-
-Procède au suivi de la fabrication d'une ou plusieurs familles d'ouvrages.
+Concepteur graphiste : participe à l'élaboration graphique d'ouvrages.
 
 A ce titre :
 
-- constitue les dossiers de fabrication des ouvrages, passe les commandes aux prestataires extérieurs (ex. : papier, impression, brochage) et contrôle la qualité de leur travail ;
+– fait des propositions relatives à la conception graphique d'ouvrages : choix typographiques, couvertures, illustrations et participe aux prises de décisions ;
 
-- prépare des appels d'offres et les devis de fabrication des ouvrages ;
+– conçoit les maquettes et en coordonne la réalisation en assurant le contrôle des prestataires extérieurs.
 
-- élabore et suit les plannings de fabrication ;
-
-- suit les coûts et contrôle les facturations.
-
-Directeur artistique/Chef de studio
-
-Responsable de la qualité graphique et d'illustration d'une ou plusieurs familles d'ouvrages.
+Maquettiste : réalise des maquettes.
 
 A ce titre :
 
-- participe aux décisions concernant la réalisation physique des ouvrages ;
+– participe à la conception graphique des ouvrages et au choix des illustrations ;
 
-- réalise, en liaison avec le directeur éditorial et le responsable d'édition, la conception graphique des ouvrages :
+– propose une prémaquette, puis réalise la maquette complète en recommandant si nécessaire des modifications visant à optimiser la mise en pages ;
 
-couverture, illustrations, choix typographiques et supervise la réalisation des maquettes ;
+– entretient les relations avec les fournisseurs extérieurs (composition, gravure) ;
 
-- effectue une activité de recherche sur l'évolution des styles ;
+– vérifie la conformité du document final avant transmission à l'imprimeur.
 
-- sélectionne les prestataires externes (ex. illustrateurs) et dirige les maquettistes et dessinateurs internes ;
+Filière fabrication
 
-- prépare et gère le budget et le planning de réalisation des illustrations.
-
-Maquettiste
-
-Réalise des maquettes.
+Directeur de fabrication : supervise et optimise la fabrication des ouvrages.
 
 A ce titre :
 
-- participe à la conception graphique des ouvrages et au choix des illustrations ;
+– coordonne l'ensemble des activités de fabrication : production, approvisionnement, planification, stocks et réimpressions ;
 
-- propose une prémaquette, puis réalise la maquette complète en recommandant si nécessaire des modifications visant à optimiser la mise en page ;
+– suit en permanence les évolutions technologiques et y adapte les méthodes de production de l'entreprise ;
 
-- entretient des relations avec les fournisseurs extérieurs (composition, gravure) ;
+– est responsable du personnel de fabrication ;
 
-- vérifie la conformité du document final avant transmission à l'imprimeur.
+– participe aux décisions concernant la réalisation matérielle des ouvrages et suggère les orientations susceptibles de réduire les coûts de fabrication ;
 
-Concepteur graphiste
+– contrôle l'établissement des devis de fabrication ;
 
-Participe à l'élaboration graphique des ouvrages.
+– négocie les contrats d'achats et gère le budget achats.
 
-A ce titre :
-
-- élabore et réalise, en collaboration avec les directeurs littéraires, les auteurs et les traducteurs, la conception graphique des ouvrages (choix typographiques, couvertures, illustrations) ;
-
-- conçoit et exécute les maquettes (traditionnel et PAO), procède à la mise en page iconographique ;
-
-- assure le contrôle du travail des prestataires extérieurs, des photograveurs et imprimeurs.
-
-Responsable cession de droits étrangers
-
-Responsable de la vente de droits à l'étranger sous les aspects commerciaux, juridiques et financiers.
-
-A ce titre, il :
-
-- suit les parutions de son entreprise afin d'identifier celles susceptibles d'intéresser des éditeurs étrangers ;
-
-- prospecte des éditeurs étrangers susceptibles d'être intéressés par l'achat de droits ;
-
-- négocie les offres d'achat, met au point les contrats et suit les rentrées de cessions ;
-
-- participe aux manifestations internationales dans le domaine de l'édition.
-
-Fonctions usuelles non spécifiques à la profession
-
-Agents de maîtrise, techniciens et cadres
-
-Directeur commercial
-
-Définit la stratégie commerciale, coordonne sa mise en oeuvre et contrôle ses résultats.
+Chef de fabrication : coordonne la fabrication d'une ou de plusieurs familles d'ouvrages.
 
 A ce titre :
 
-- participe à la définition de la politique éditoriale ;
+– lance les appels d'offres, analyse les remises de prix et recommande les prestataires et fournisseurs à sélectionner ;
 
-- recommande à la direction générale une politique commerciale et des projets de développement (ex. recherche de nouveaux marchés et de nouveaux circuits de distribution) ;
+– établit les devis de fabrication des ouvrages ;
 
-- propose des objectifs commerciaux et les budgets nécessaires pour les atteindre ;
+– organise et contrôle le travail des techniciens de fabrication ;
 
-- coordonne l'exécution des plans d'action et met en oeuvre, si nécessaire, les actions correctives ;
+– effectue une recherche permanente d'amélioration des performances (qualité, prix, délai).
 
-- définit l'organisation des équipes de vente.
+Cadre de fabrication : au sein du service fabrication, il a la charge de missions transverses telles que, notamment, la gestion du papier, le dévisage, l'ordonnancement. Le cas échéant, il procède également au suivi de la fabrication d'une ou de plusieurs familles d'ouvrages.
 
-Directeur des ventes
-
-Définit la stratégie de vente, coordonne sa mise en oeuvre et contrôle ses résultats.
+Technicien de fabrication : procède au suivi de la fabrication d'une ou de plusieurs familles d'ouvrages.
 
 A ce titre :
 
-- définit la stratégie de vente de l'entreprise et se tient informé de l'évolution des marchés et de la concurrence ;
+– constitue les dossiers de fabrication des ouvrages, passe les commandes aux prestataires extérieurs (exemple : papier, impression, brochage) et contrôle la qualité de leur travail ;
 
-- dirige les équipes de vente. Veille à la bonne exécution des programmes de recrutement, de formation et de motivation des équipes de vente ;
+– prépare les appels d'offres et les devis de fabrication des ouvrages ;
 
-- assigne les objectifs quantitatifs et qualitatifs aux équipes de vente ;
+– élabore et suit les plannings de fabrication ;
 
-- suit les réalisations des équipes de vente et prend les mesures correctives nécessaires. Participe le cas échéant à la négociation des principaux contrats ;
+– suit les coûts et contrôle les facturations.
 
-- suit et contrôle les budgets de frais commerciaux.
+Filière commerciale
 
-Responsable d'une équipe de vente
-
-Supervise une équipe de vente.
+Directeur commercial : définit la stratégie commerciale, coordonne sa mise en œuvre et contrôle ses résultats.
 
 A ce titre :
 
-- propose les plans d'action de son équipe de vente ;
+– recommande à la direction générale une politique commerciale et des projets de développement (exemple : recherche de nouveaux marchés et de nouveaux circuits de distribution) ;
 
-- supervise les commerciaux de son équipe, participe à leur recrutement et veille à leur formation et à leur bonne intégration au sein de l'équipe. Apprécie les performances des commerciaux de son équipe ;
+– propose les objectifs commerciaux et les budgets nécessaires pour les atteindre ;
 
-- suit les réalisations de son équipe de vente et propose des actions correctives. Veille au respect des procédures et conditions de vente. Suit la solvabilité des clients. Apporte un support à ses commerciaux dans la négociation de contrats importants ;
+– coordonne l'exécution des plans d'action et met en œuvre si nécessaire, les actions correctives ;
 
-- effectue des ventes.
+– définit l'organisation des équipes de vente ;
 
-Représentant (à l'exclusion des VRP)
+– participe à la définition de la politique éditoriale.
 
-Réalise des ventes sur le terrain.
-
-A ce titre :
-
-- entretient et développe une clientèle ;
-
-- prend les commandes et s'assure de leur mise en oeuvre par les services concernés ;
-
-- conseille la clientèle en matière d'implantation des ouvrages ;
-
-- tient informée sa hiérarchie de toute information concernant le marché et la position compétitive des ouvrages de l'entreprise ;
-
-- réalise le montage et la mise en place d'opérations promotionnelles.
-
-Responsable publicitéet promotion
-
-Met en oeuvre des opérations publicitaires et promotionnelles.
+Directeur des ventes : définit la stratégie de vente, coordonne sa mise en œuvre et contrôle ses résultats.
 
 A ce titre :
 
-- participe à la définition de la politique publicitaire et promotionnelle ;
+– définit la stratégie de vente de l'entreprise et se tient informé de l'évolution des marchés et de la concurrence ;
 
-- participe avec la direction commerciale et les prestataires extérieurs à la conception des messages publicitaires et des documents promotionnels (ex. catalogues, bulletins) et coordonne leur réalisation ;
+– dirige les équipes de vente. Veille à la bonne exécution des programmes de recrutement, de formation et de motivation des équipes de vente ;
 
-- établit et gère le budget de publicité et de promotion ;
+– assigne les objectifs quantitatifs et qualitatifs aux équipes de vente ;
 
-- établit le planning des campagnes et opérations de promotion, suit leur déroulement et analyse leurs retombées ;
+– suit les réalisations des équipes de vente et prend les mesures correctives nécessaires. Participe, le cas échéant, à la négociation des principaux contrats ;
 
-- coordonne la réalisation des opérations effectuées en interne.
+– suit et contrôle les budgets de frais commerciaux.
 
-Responsable des études marketing
-
-Organise et anime le service des études marketing.
+Responsable d'une équipe de vente : supervise une équipe de vente.
 
 A ce titre :
 
-- analyse les besoins en études des responsables éditoriaux. Prépare un programme annuel d'études et soumet un budget. Participe à l'élaboration des stratégies de marketing ;
+– propose les plans d'actions de son équipe de vente ;
 
-- réalise la conception et recommande la méthodologie d'étude. Choisit les sociétés d'étude et assure la coordination et le suivi de la qualité des prestations, ou bien supervise la réalisation en interne des études ;
+– supervise les commerciaux de son équipe, participe à leur recrutement et veille à leur formation et bonne intégration au sein de l'équipe. Apprécie les performances des commerciaux de son équipe ;
 
-- établit la synthèse des études réalisées. Elabore et présente les recommandations et les hypothèses d'actions ;
+– suit les réalisations de son équipe de vente et propose des actions correctives. Veille au respect des procédures et conditions de vente. Suit la solvabilité des clients. Apporte un support à ses commerciaux dans la négociation de contrats importants ;
 
-- gère le budget des études marketing avec un objectif d'optimisation des coûts.
+– effectue des ventes.
 
-La liste ci-dessous n'est pas limitative. Les salariés occupant ces postes sont classés en fonction des critères définis par la présente convention.
+Responsable comptes clés : au sein de la structure commerciale prend en charge les grands comptes.
 
-Secrétaire général.
+A ce titre :
 
-Directeur de la communication.
+– assure la gestion commerciale des grands comptes et participe, le cas échéant, à l'ouverture de nouveaux comptes importants ;
 
-Directeur financier.
+– informe les clients de la gamme de produits mis sur le marché et assure les négociations commerciales avec ces derniers, de manière autonome ou sous l'autorité d'un directeur commercial ;
 
-Responsable de la trésorerie.
+– assure le suivi des clients, traite toute demande ou réclamation de leur part ;
 
-Directeur comptable.
+– assure le suivi des contrats clients et leur mise en œuvre, le cas échéant en liaison avec l'équipe de vente en charge de l'application des contrats sur le terrain ;
 
-Chef comptable.
+– assure le reporting de chiffre d'affaires, participe à l'analyse des résultats commerciaux, notamment au travers de panels, prend les mesures correctrices ou de relances commerciales nécessaires.
 
-Responsable du contrôle de gestion.
+Responsable ventes directes : encadre un service de vente directe et, à ce titre, encadre une équipe chargée des ventes directes et assure la responsabilité du chiffre d'affaires correspondant.
 
-Contrôleur de gestion.
+A ce titre :
 
-Responsable crédit.
+– encadre une équipe de télévendeurs et/ou d'opérateurs de saisie chargés de la prise de commandes par téléphone ;
 
-Directeur administratif.
+– organise, en liaison avec les éditeurs, les campagnes de vente directe et assure leur pilotage avec son équipe ;
 
-Cadre administratif.
+– définit, en fonction des ouvrages, la cible de clients et de prospects (clubs, entreprises...) ;
 
-Responsable des services généraux.
+– met en place les moyens nécessaires à la gestion des campagnes, à la gestion des commandes, de la facturation et des données clients ;
 
-Directeur juridique et contentieux.
+– assure le reporting du chiffre d'affaires et suit le recouvrement.
 
-Juriste.
+Représentant (à l'exclusion des VRP) : réalise des ventes sur le terrain.
 
-Directeur des ressources humaines.
+A ce titre :
 
-Chef du personnel d'une unité.
+– entretient et développe une clientèle ;
 
-Responsable de l'administration du personnel.
+– prend les commandes et s'assure de leur mise en œuvre par les services concernés ;
 
-Directeur de l'informatique.
+– conseille la clientèle en matière d'implantation des ouvrages ;
 
-Responsable service informatique.
+– tient informée sa hiérarchie de toute information concernant le marché et la position compétitive des ouvrages de l'entreprise ;
 
-Chef de projet informatique.
+– réalise le montage et la mise en place d'opérations promotionnelles.
 
-Analyste programmeur.
+Délégué pédagogique : entretient des relations avec les établissements d'enseignement et les librairies.
 
-Responsable de l'exploitation informatique.
+A ce titre :
 
-Chef de produit.
+– visite les établissements d'enseignement afin de connaître les besoins des enseignants et leurs jugements sur les ouvrages existants ;
 
-Chargé d'études.
+– informe les responsables éditoriaux et marketing sur l'état du marché et la situation compétitive des ouvrages de l'entreprise ;
 
-Responsable de l'administration des ventes.
+– assure la promotion des nouveaux ouvrages auprès des prescripteurs et des librairies ;
 
-Compte tenu du caractère interprofessionnel des postes visés ci-dessus, les partenaires ne les ont pas définis. Toutefois, on se référera notamment aux définitions existant dans les publications du répertoire français des emplois publié par le Centre d'études et de recherches sur les qualifications.
+– coordonne la réalisation d'enquêtes terrain ;
+
+– identifie lors de ses contacts les personnes susceptibles d'être auteurs et les recommande à la direction ;
+
+– réalise des prises de commandes.
+
+Filière marketing
+
+Directeur du marketing : élabore et met en œuvre la stratégie marketing de l'entreprise.
+
+A ce titre :
+
+– définit la stratégie à moyen et long termes pour l'ensemble des produits de l'entreprise ;
+
+– supervise son équipe qu'il anime, organise et motive ;
+
+– participe à la détermination des objectifs commerciaux ;
+
+– conçoit les politiques produits, prix, communication (publicité, promotion) et choisit les agences chargées de la mise en œuvre de celles-ci ;
+
+– supervise le lancement des produits nouveaux.
+
+Responsable marketing : élabore et met en œuvre des plans marketing pour une partie des produits de la société, en fonction des priorités de l'entreprise.
+
+A ce titre :
+
+– définit la stratégie à moyen et long termes pour une partie des produits de l'entreprise. Elabore et recommande les plans de marketing annuels et à 3 ans sur ces produits. Propose à la direction commerciale toute action correctrice permettant d'améliorer l'efficacité de ces plans ;
+
+– effectue, en fonction des objectifs définis par la direction commerciale, la gestion des produits existants ainsi que leurs relancements et les extensions de gammes ;
+
+– élabore et met en œuvre des plans d'actions publicitaires et promotionnelles. Assure la formation de la force de vente concernant le déroulement des actions promotionnelles sur ses produits ;
+
+– coordonne le développement et le lancement de nouveaux produits.
+
+Responsable des études marketing : organise et anime le service des études marketing.
+
+A ce titre :
+
+– analyse les besoins en études des responsables éditoriaux. Prépare un programme annuel d'études et soumet un budget. Participe à l'élaboration des stratégies de marketing ;
+
+– recommande la méthodologie d'études. Choisit les sociétés d'études et assure la coordination et le suivi de la qualité des prestations, ou bien supervise la réalisation en interne des études ;
+
+– établit la synthèse des études réalisées. Elabore et présente les recommandations et les hypothèses d'actions ;
+
+– gère le budget des études marketing avec un objectif d'optimisation des coûts.
+
+Chef de groupe de produits : organise et contrôle la gestion marketing et le développement à moyen et long termes d'un groupe de produits. Encadre des chefs de produits.
+
+A ce titre :
+
+– définit la stratégie à moyen et long termes pour son groupe de produits en adéquation avec la politique de l'entreprise. Elabore et recommande les plans de marketing annuels à 3 ans ;
+
+– réalise, en fonction des objectifs définis par la direction, la gestion marketing des produits existants, ainsi que leurs relancements et les extensions de gammes ;
+
+– supervise les études marketing (analyses des marchés, définition des cibles, positionnement des produits, analyse des ventes) ;
+
+– collabore au suivi de la stratégie commerciale et du marketing mix ;
+
+– coordonne le développement et le lancement des nouveaux produits ;
+
+– recommande toute action corrective permettant d'améliorer l'efficacité de ses plans ;
+
+– supervise les activités de son équipe de chefs de produit et d'assistants.
+
+Chef de produit : responsable de la gestion marketing et du développement d'un produit (ou parfois d'une famille de produits).
+
+A ce titre :
+
+– participe à l'élaboration du plan de marketing à long terme et à la définition de la politique de communication pour le (ou parfois les) produit(s) dont il a la charge ;
+
+– prépare le plan de marketing annuel, recommande les actions commerciales et promotionnelles ;
+
+– suit et contrôle les actions commerciales et promotionnelles, ainsi que les budgets et calcule les écarts ;
+
+– exerce un rôle de coordinateur des autres intervenants, internes et externes, qui contribuent au succès de ces plans.
+
+Chargé d'études marketing : réalise les études marketing relatives à un produit (ou parfois d'une famille de produits).
+
+A ce titre :
+
+– réalise le cahier des charges des études marketing qualitatives ou quantitatives en liaison étroite avec les services éditoriaux ;
+
+– réalise les études qualitatives ou quantitatives, soit directement, soit en supervisant leur réalisation par une société d'études externe ;
+
+– établit la synthèse des études réalisées ou supervise la rédaction des conclusions pour les études sous-traitées ;
+
+– élabore et présente les recommandations et les hypothèses d'actions.
+
+Filière communication-promotion
+
+Responsable service presse, relations publiques : participe à la définition de la politique de communication externe de l'entreprise et en assure la mise en œuvre auprès de la presse et du public.
+
+A ce titre :
+
+– participe à la définition du plan de communication de l'entreprise et recommande les méthodes et moyens propres à promouvoir l'image de l'entreprise auprès de son public ;
+
+– met en œuvre les moyens de diffusion de l'image de l'entreprise ;
+
+– suscite des relations avec les médias, les leaders d'opinion. Suggère des sujets rédactionnels à la presse ;
+
+– assure les relations avec les prestataires de services ;
+
+– coordonne les actions événementielles au bénéfice de l'entreprise ;
+
+– gère le budget relations publiques.
+
+Attaché de presse : diffuse auprès des médias des informations sur la société et ses ouvrages en vue du développement de sa notoriété et de ses ventes.
+
+A ce titre :
+
+– conçoit et coordonne la réalisation des dossiers et communiqués destinés à développer la notoriété d'un ouvrage ou d'un auteur ;
+
+– entretient et développe les relations avec les journalistes ;
+
+– coordonne l'organisation des interviews d'auteurs ;
+
+– organise des manifestations destinées à l'information des médias et du public ;
+
+– élabore les listes de presse et assure l'envoi du service de presse.
+
+Assistant attaché de presse : participe à la gestion et au suivi des projets de l'attaché de presse.
+
+A ce titre :
+
+– assure l'ouverture et le suivi de dossiers administratifs et logistiques liés à la fonction de l'attaché de presse ;
+
+– participe à l'organisation d'événements (réunions, séminaires promotionnels, conférences de presse...) ;
+
+– prend les contacts internes et externes nécessaires au bon avancement des dossiers dont il a la charge.
+
+Responsable service publicité/promotion : met en œuvre des opérations publicitaires et promotionnelles.
+
+A ce titre :
+
+– participe à la définition de la politique publicitaire et promotionnelle ;
+
+– participe avec la direction commerciale et les prestataires extérieurs à la conception des messages publicitaires et des documents promotionnels (exemple : catalogues, bulletins) et coordonne leur réalisation ;
+
+– établit et gère le budget de publicité et de promotion ;
+
+– établit le planning des campagnes et opérations de promotion, suit leur déroulement et analyse leurs retombées ;
+
+– coordonne la réalisation des opérations effectuées en interne.
+
+Filière gestion des droits
+
+Responsable gestion droits d'auteur : assure les relations avec les auteurs au plan de leur contrat.
+
+A ce titre :
+
+– élabore les contrats d'auteur ;
+
+– est l'interlocuteur juridique des auteurs pour toute question relative à l'application de leur contrat ;
+
+– veille au respect des engagements pris par l'éditeur, en particulier au plan des règlements.
+
+Responsable comptabilité droits d'auteur : garantit la conformité comptable et l'application des contrats d'auteur.
+
+A ce titre :
+
+– reçoit et vérifie les contrats d'auteur, et en assure la saisie et le classement sur informatique ;
+
+– calcule les montants dus aux auteurs ;
+
+– garantit le versement des sommes dues, l'application correcte des contrats et la tenue des comptes d'auteur ;
+
+– assure les relations avec les auteurs pour toute question concernant les relevés de droits d'auteur.
+
+Responsable cession et acquisition de droits : responsable de la vente et de l'acquisition de droits sous les aspects commerciaux, juridiques et financiers.
+
+A ce titre :
+
+– suit les parutions de son entreprise afin d'identifier celles susceptibles d'intéresser les éditeurs et/ou acquéreurs de droits dérivés (producteurs TV cinéma, compagnies théâtrales, éditeurs de livres audio) ;
+
+– prospecte des éditeurs et/ou acquéreurs de droits dérivés susceptibles d'être intéressés par l'achat de droits ;
+
+– négocie les offres d'achat, met au point les contrats et suit les rentrées de cession ;
+
+– participe aux manifestations internationales dans le domaine de l'édition ;
+
+– vente et achat de produits dérivés.
+
+Fonctions usuelles non spécifiques à la profession (1)
+
+agents de maîtrise, techniciens et cadres
+
+Assistant : au sein des services d'édition, de fabrication ou des services supports, est en charge de missions d'étude, de préparation, de suivi, de coordination nécessaires à la gestion du service impliquant une connaissance détaillée des métiers concernés et une interaction forte avec ces derniers.
+
+Assistant de direction : salarié chargé d'un secrétariat important, avec une large part d'autonomie et d'initiative. Maîtrise parfaitement l'ensemble des techniques, des tâches et des obligations du secrétariat et possède une culture générale qui lui permet d'apporter une assistance efficace au (x) cadre (s) dont il dépend. Maîtrise éventuellement une ou plusieurs langues étrangères lui permettant d'accomplir ses missions dans la ou les langues concernées. Est tout particulièrement tenu à la réserve et au secret professionnel.
+
+Finances, comptabilité et administration :
+
+– secrétaire général ;
+
+– directeur financier ;
+
+– responsable de la trésorerie ;
+
+– comptable ;
+
+– cadre comptable ;
+
+– chef comptable ;
+
+– directeur comptable ;
+
+– responsable du contrôle de gestion ;
+
+– contrôleur de gestion ;
+
+– responsable recouvrement ;
+
+– directeur administratif.
+
+Juridique :
+
+– directeur juridique et contentieux ;
+
+– juriste.
+
+Ressources humaines :
+
+– directeur des ressources humaines ;
+
+– responsable des ressources humaines ;
+
+– responsable de l'administration du personnel.
+
+Informatique et multimédia :
+
+– directeur de l'informatique ;
+
+– responsable service informatique ;
+
+– chef de projet informatique ;
+
+– analyste programmeur ;
+
+– webmaster ;
+
+– responsable de l'exploitation informatique.
+
+Services généraux :
+
+– responsable des services généraux.
+
+Autres postes non spécifiques à l'édition :
+
+– directeur de la communication ;
+
+– responsable administration des ventes.
+
+(1) Texte étendu sous réserve de l'application des dispositions de l'article L. 2241-9 du code du travail, qui prévoient que la négociation annuelle sur les salaires vise également à définir et à programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes avant le 31 décembre 2010 (arrêté du 18 octobre 2010, art. 1er).
