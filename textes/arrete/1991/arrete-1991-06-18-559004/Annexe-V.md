@@ -16,6 +16,8 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 2.3. Chaque centre de contrôle non rattaché s'engage à détacher ses contrôleurs pour participer à des compléments de formation et de recyclage, conformément au cahier des charges joint à la décision d'agrément.
 
+2.4. L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 26-3 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
+
 3. Suivi des matériels
 
 3.1. Le suivi de l'entretien du matériel fait l'objet de procédures spécifiques disponibles dans chaque installation contrôle.
