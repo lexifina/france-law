@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe 1
 
 CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DES ANNÉES 2008 ET 2009
 
@@ -8,4 +8,6 @@ CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DES ANNÉ
 
 ― corps des ingénieurs-économistes de la construction régi par le décret n° 98-898 du 8 octobre 1998 portant statut particulier du corps des ingénieurs-économistes de la construction et du corps des ingénieurs des services culturels et du patrimoine ;
 
-― corps des personnels de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects régi par le décret n° 2007-400 du 22 mars 2007 fixant le statut particulier des personnels de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects.
+― corps des personnels de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects régi par le décret n° 2007-400 du 22 mars 2007 fixant le statut particulier des personnels de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects ;
+
+- le corps des ingénieurs des mines, régi par le décret n° 2009-63 du 16 janvier 2009 portant statut particulier du corps des ingénieurs des mines.
