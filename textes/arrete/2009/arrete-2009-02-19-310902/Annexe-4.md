@@ -1,175 +1,313 @@
 # Article Annexe 4
 
-LISTE 1 : ACTES PERMETTANT LA VALORISATION D'UNE SÉANCE DE RADIOTHÉRAPIE
+Liste 1 : actes permettant la valorisation d'une séance de radiothérapie
 
-ACTES DE RADIOTHÉRAPIE EN CLASSIFICATION CCAM |
+ACTES DE RADIOTHÉRAPIE EN CLASSIFICATION CCAM
 
-Code |
+|
 
-Libellé |
+CODE
 
-AANL002 |
+|
 
-Séance d'irradiation encéphalique en conditions stéréotaxiques avec cadre non invasif, à dose fractionnée. |
+LIBELLÉ DE L'ACTE
 
-AZNL001 |
+|
 
-Séance d'irradiation externe du névraxe [irradiation craniospinale]. |
+ZZNL061
 
-QZNL001 |
+|
 
-Séance d'irradiation cutanée totale à dose fractionnée. |
+Séance d'irradiation externe par machine de puissance inférieure à 5 mégavolts [MV]
 
-ZZNL020 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 1 ou 2 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL053
 
-ZZNL021 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 1 ou 2 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], sans système de contrôle du positionnement
 
-ZZNL023 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 3 ou 4 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL064
 
-ZZNL024 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 3 ou 4 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'imagerie portale
 
-ZZNL025 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 5 faisceaux ou plus, sans utilisation de modificateur de faisceau. |
+ZZNL048
 
-ZZNL026 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie inférieure à 5 MV par 5 faisceaux ou plus, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame
 
-ZZNL027 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 1 ou 2 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL065
 
-ZZNL028 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 1 ou 2 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un collimateur multilame et d'imagerie portale
 
-ZZNL030 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 3 ou 4 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL062
 
-ZZNL031 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 3 ou 4 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement
 
-ZZNL033 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 5 faisceaux ou plus, sans utilisation de modificateur de faisceau. |
+ZZNL063
 
-ZZNL034 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 5 faisceaux ou plus, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire de puissance égale ou supérieure à 5 mégavolts [MV], équipé d'un système de repositionnement guidé par imagerie [IGRT]
 
-ZZNL036 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 1 ou 2 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL050
 
-ZZNL037 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 1 ou 2 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, sans contrôle de la position de la cible
 
-ZZNL039 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 3 ou 4 faisceaux, sans utilisation de modificateur de faisceau. |
+ZZNL054
 
-ZZNL040 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 3 ou 4 faisceaux, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par accélérateur linéaire avec modulation d'intensité, avec contrôle de la position de la cible
 
-ZZNL042 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 5 faisceaux ou plus, sans utilisation de modificateur de faisceau. |
+ZZNL051
 
-ZZNL043 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 5 faisceaux ou plus, avec utilisation de modificateur de faisceau. |
+Séance d'irradiation externe par machine dédiée produisant des photons avec modulation d'intensité et contrôle de la position de la cible par imagerie [IGRT]
 
-ZZNL045 |
+|
 
-Séance d'irradiation externe par protonthérapie. |
+ZZNL058
 
-ZZNL047 |
+|
 
-Séance d'irradiation corporelle totale [ICT]. |
+Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration
 
-ZZNL900 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 1 ou 2 faisceaux, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+ZZNL052
 
-ZZNL902 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 5 faisceaux ou plus, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+Séance d'irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration
 
-ZZNL903 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 5 faisceaux ou plus, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+ZZNL059
 
-ZZNL904 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 1 ou 2 faisceaux, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration
 
-ZZNL905 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 5 MV et inférieure à 15 MV par 3 ou 4 faisceaux, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+ZZNL060
 
-ZZNL906 |
+|
 
-Séance d'irradiation externe par machine produisant des photons d'énergie égale ou supérieure à 15 MV par 3 ou 4 faisceaux, avec utilisation dynamique de collimateur multilame [modulation d'intensité]. |
+Séance d'irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, avec synchronisation avec la respiration
 
-LISTE 2 : GHS EXCLUANT LE PAIEMENT DES ACTES DE RADIOTHÉRAPIE EN SUS
+|
 
-GHM |
+ZZNL049
 
-INTITULÉ DES GHM |
+|
 
-GHS |
+Irradiation externe en conditions stéréotaxiques par machine produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration, en dose unique
 
-28Z08Z |
+|
 
-Préparations à une irradiation externe avec une dosimétrie tridimensionnelle |
+ZZNL055
 
-9607 |
+|
 
-28Z09Z |
+Irradiation externe en conditions stéréotaxiques par machine dédiée produisant des photons avec guidage par imagerie, sans synchronisation avec la respiration, en dose unique
 
-Autres préparations à une irradiation externe |
+|
 
-9608 |
+AZNL001
 
-28Z10Z |
+|
 
-Curiethérapie, en séances |
+Séance d'irradiation externe du névraxe [irradiation craniospinale]
 
-9609 |
+|
 
-28Z11Z |
+ZZNL045
 
-Techniques spéciales d'irradiation externe, en séances |
+|
+
+Séance d'irradiation externe par protons
+
+|
+
+ZZNL046
+
+|
+
+Séance d'irradiation externe par neutrons
+
+|
+
+ZZNL047
+
+|
+
+Séance d'irradiation corporelle totale [ICT]
+
+|
+
+QZNL001
+
+|
+
+Séance d'irradiation cutanée totale
+
+|
+
+ZZNL066
+
+|
+
+Séance d'irradiation de contact endocavitaire
+
+|
+
+Liste 2 : GHS excluant le paiement des actes de radiothérapie en sus
+
+GHM
+
+|
+
+LIBELLÉ DU GHM
+
+|
+
+GHS
+
+|
+
+28Z08Z
+
+|
+
+Préparations à une irradiation externe avec une dosimétrie tridimensionnelle
+
+|
+
+9607
+
+|
+
+28Z09Z
+
+|
+
+Autres préparations à une irradiation externe
+
+|
+
+9608
+
+|
+
+28Z10Z
+
+|
+
+Curiethérapie, en séances
+
+|
+
+9609
+
+|
+
+28Z11Z
+
+|
+
+Techniques spéciales d'irradiation externe, en séances
+
+|
 
 9610
 
+|
+
+|
+
+|
+
 9619
+
+|
+
+|
+
+|
 
 9620
 
-9621 |
+|
 
-28Z12Z |
+|
 
-Techniques complexes d'irradiation externe, en séances |
+|
 
-9611 |
+9621
 
-28Z13Z |
+|
 
-Autres techniques d'irradiation externe, en séances |
+28Z12Z
 
-9612 |
+|
+
+Techniques complexes d'irradiation externe, en séances
+
+|
+
+9611
+
+|
+
+28Z13Z
+
+|
+
+Autres techniques d'irradiation externe, en séances
+
+|
+
+9612
+
+|
+
+28Z18Z
+
+|
+
+Radiothérapie conformationnelle avec modulation d'intensité, en séances
+
+|
+
+9622
+
+|
