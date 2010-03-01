@@ -12,9 +12,7 @@ MAISONS DE JUSTICE ET DU DROIT
 
 |
 
-Cour d'appel d'Aix-en-Provence
-
-|
+Cour d'appel d'Aix-en-Provence |
 
 Alpes-Maritimes
 
@@ -742,7 +740,7 @@ Nantes
 
 |
 
-Nantes, Nantes-Rezé.
+Châteaubriant.
 
 |
 
