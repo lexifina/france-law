@@ -400,7 +400,7 @@ Teneur maximale en impuretés : 0,2 %.
 
 |
 
-Paraphénylènediamine, ses dérivés substitués à l'azote et ses sels ainsi que les dérivés de l'orthophénylènediamine substitué à l'azote (1), à l'exception des dérivés mentionnés sous d'autres positions dans la présente annexe et sous les numéros d'ordre 1309, 1311, 1312 mentionnés à l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
+Dérivés de paraphénylènediamine substitués à l'azote, et leurs sels ; dérivés de l'orthophénylènediamine (1) substitués à l'azote, à l'exception des dérivés mentionnés sous d'autres positions dans la présente annexe et sous les numéros d'ordre 1309, 1311, 1312 mentionnés à l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
 
 |
 
@@ -436,11 +436,57 @@ b) Réservé aux professionnels. Contient des diaminobenzènes. Peut provoquer u
 
 |
 
+8 bis
+
+|
+
+p-phénylènediamine et ses sels (1).
+
+CAS n° 106-50-3.
+
+Einecs 203-404-7.
+
+p-phénylènediamine HCl.
+
+CAS n° 624-18-0.
+
+Einecs 210-834-9.
+
+p-phénylènediamine sulfate.
+
+CAS n° 16245-77-5.
+
+Einecs 240-357-1.
+
+|
+
+Colorants d'oxydation pour la coloration des cheveux :
+
+a) Usage général.
+
+b) Usage professionnel.
+
+|
+
+|
+
+a) et b) :
+
+Après mélange en conditions d'oxydation, la teneur maximale appliquée sur les cheveux ne doit pas dépasser 2 % calculés en base libre.
+
+|
+
+a) Peut provoquer une réaction allergique. Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.
+
+b) Réservé aux professionnels. Contient des diaminobenzènes. Peut provoquer une réaction allergique. Porter des gants appropriés.
+
+|
+
 9
 
 |
 
-Diaminotoluènes, leurs dérivés substitués à l'azote et leurs sels (1), à l'exception des substances figurant sous les numéros d'ordre 364, 1310 et 1313 de l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
+Diaminotoluènes, leurs dérivés substitués à l'azote et leurs sels (1) à l'exception de la substance figurant au numéro d'ordre 9 bis de la présente annexe et des substances figurant sous les numéros d'ordre 364, 1310 et 1313 de l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
 
 |
 
@@ -455,6 +501,46 @@ b) Usage professionnel.
 10 % (en base libre).
 
 |
+
+|
+
+a) Peut provoquer une réaction allergique. Contient des diaminotoluènes. Ne pas employer pour la coloration des cils et des sourcils.
+
+b) Réservé aux professionnels. Contient des diaminotoluènes. Peut provoquer une réaction allergique. Porter des gants appropriés.
+
+|
+
+9 bis
+
+|
+
+diaminotoluène-2,5 et ses sels (1).
+
+CAS n° 95-70-5.
+
+Einecs 202-442-1.
+
+Toluène-2,5-diamine sulfate.
+
+CAS n° 615-50-9.
+
+Einecs 210-431-8.
+
+|
+
+Colorants d'oxydation pour la coloration des cheveux :
+
+a) Usage général.
+
+b) Usage professionnel.
+
+|
+
+|
+
+a) et b) :
+
+Après mélange en conditions d'oxydation, la teneur maximale appliquée sur les cheveux ne doit pas dépasser 4 % calculés en base libre.
 
 |
 
@@ -5602,7 +5688,9 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 (5x) Employé également comme agent conservateur au numéro d'ordre 8 de l'arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques.
 
-(6) Sauf s'il est indiqué sur l'étiquetage qu'ils sont contre-indiqués pour les enfants (par exemple, par une mention type "Pour adultes seulement"), les dentifrices dont la concentration en fluorures est comprise entre 0,1 et 0,15 % doivent obligatoirement porter les mentions suivantes : "Enfants de six ans ou moins : utiliser une quantité de dentifrice de la taille d'un petit pois sous la surveillance d'un adulte afin d'en minimiser l'ingestion. En cas d'apport de fluorures provenant d'autres sources, consultez un dentiste ou un médecin".
+(6) Sauf s'il est indiqué sur l'étiquetage qu'ils sont contre-indiqués pour les enfants (par exemple, par une mention type "pour adultes seulement"), les dentifrices contenant des composés dont la concentration en fluor est comprise entre 0,1 et 0,15 % calculée en F doivent obligatoirement porter les mentions suivantes :
+
+"Enfants de six ans ou moins : utiliser une quantité de dentifrice de la taille d'un petit pois sous la surveillance d'un adulte afin d'en minimiser l'ingestion. En cas d'apport de fluorures provenant d'autres sources, consultez un dentiste ou un médecin."
 
 (*) Comme conservateur, voir annexe arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques, numéro d'ordre 34 (annexe VI de la directive 76/768/CE du Conseil du 27 juillet 1976, première partie, numéro d'ordre 34).
 
