@@ -2,15 +2,11 @@
 
 LISTE DES UNITÉS DÉPARTEMENTALES AFFILIÉES
 
-UNITÉS DÉPARTEMENTALES
-
-affiliées
+DÉPARTEMENT
 
 |
 
-CHAMP D'ACTION POUR L'EXERCICE
-
-des missions de sécurité civile
+CHAMP D'ACTION POUR L'EXERCICE DES MISSIONS DE SÉCURITÉ CIVILE
 
 |
 
@@ -63,6 +59,22 @@ UDMSC 17
 A 3-D
 
 |
+
+|
+
+|
+
+UDMSC 2A
+
+|
+
+A 3-D
+
+|
+
+A 3-D
+
+(2B)
 
 |
 
@@ -153,6 +165,10 @@ UDMSC 36
 A 3-D
 
 |
+
+A 3-D
+
+(18-41-37-23)
 
 |
 
@@ -341,6 +357,18 @@ A 3-D
 A 3-D
 
 (59-60-62-76)
+
+|
+
+|
+
+UDMSC 13
+
+|
+
+A 3-D
+
+|
 
 |
 
