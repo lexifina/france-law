@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111718
+
+- Question : [SEQ100111718](seq100111718.md) — Développement du photovoltaïque au sol dans le département de l'Aveyron
+
+## Réponse
+
+*Alimentation, JO du 2010-03-04, page 518*
+
+L'artificialisation, chaque année, de 75 000 hectares de terres agricoles selon la SAFER, est particulièrement préoccupante en regard de l'enjeu croissant de la satisfaction des besoins alimentaires mondiaux. L'étalement urbain, le mitage ou la réservation de nouvelles emprises foncières pour des usages différents de l'agriculture compromettent la viabilité de nombreuses exploitations agricoles. Quelle que soit leur qualité, tous les sols contribuent au revenu agricole et il importe de les protéger. Accepter l'artificialisation des terres pourrait avoir comme conséquence d'augmenter le prix du foncier, d'accentuer les difficultés économiques des agriculteurs dans certaines régions et d'accélérer la désertification. La production d'énergie électrique à partir de capteurs solaires installés au sol accroît la pression exercée sur l'usage agricole des terres. Dans de nombreux départements, des projets de « centrales photovoltaïques au sol » existent sur des espaces agricoles ; chacun est susceptible de couvrir plusieurs dizaines d'hectares. La politique du ministère de l'alimentation, de l'agriculture et de la pêche vise à protéger les sols agricoles de l'artificialisation tout en favorisant la production d'énergie issue de panneaux photovoltaïques. Par des tarifs de rachat adaptés, une priorité est donnée aux installations sur les toitures des constructions. Afin de limiter les installations de panneaux photovoltaïques au sol, une disposition du projet de loi de modernisation de l'agriculture et de la pêche permet leur interdiction dans les zones agricoles, dès lors que ces panneaux sont incompatibles avec un usage agricole ou pastoral des terres sur lesquelles il est projeté de les construire.
