@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508924
+
+- Question : [SEQ090508924](seq090508924.md) — Dissolution d'une association foncière urbaine autorisée
+
+## Réponse
+
+*Écologie, JO du 2010-03-04, page 526*
+
+Les associations foncières urbaines autorisées (AFUA) sont des formes particulières d'associations syndicales autorisées. Elles sont soumises aux dispositions de l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires et de son décret d'application n° 2006-504 du 3 mai 2006. L'article 40 de l'ordonnance précitée organise deux formes de dissolution de ces associations et l'article 42 prévoit, en cas de dissolution, que les propriétaires membres de l'association sont redevables des dettes de l'association jusqu'à leur extinction totale. Toutefois, il n'existe aucun article qui précise les modalités de mise en oeuvre de cette disposition. C'est pourquoi, la valeur d'un engagement des membres d'une AFUA vis-à-vis d'une commune qui reprendrait ses réseaux et sa voirie paraît incertaine et dépourvue de fondement juridique. En effet, rien ne lie juridiquement les propriétaires à la commune car les textes prévoient qu'ils sont redevables, à l'AFUA, des contributions syndicales. En conséquence, soit l'association s'engage vis-à-vis de la commune, mais il n'y aura plus moyen d'agir contre elle après sa dissolution effective, soit chaque propriétaire s'engage individuellement auprès de la commune et l'article 42 précité n'est alors pas applicable, puisqu'il ne vise que les dettes de l'association. Il serait donc plus prudent de maintenir l'AFUA le temps qu'elle effectue les travaux de réfection. Dans ce cadre, elle dispose de tous les moyens juridiques pour recouvrer les rôles auprès des propriétaires (article 54 à 56 du décret) et de ne procéder qu'ensuite à sa dissolution et au transfert de son actif à la commune.
