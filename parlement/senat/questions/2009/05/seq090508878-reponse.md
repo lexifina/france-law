@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508878
+
+- Question : [SEQ090508878](seq090508878.md) — Implantation de la future ENSEM
+
+## Réponse
+
+*Transports, JO du 2010-03-04, page 544*
+
+Une réforme ambitieuse de l'enseignement supérieur maritime français est actuellement en cours. Elle porte notamment sur la création d'un établissement public unique multisite, avec le maintien des sites correspondant aux quatre écoles de la marine marchande actuelles, dont l'école de Nantes. L'article 53 de la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports ferroviaires et portant diverses dispositions relatives aux transports (article L. 757-1 du code de l'éducation) a créé l'École nationale supérieure maritime (ENSM) et confirmer cette orientation. Le décret, portant organisation de la future école, vient d'être soumis à l'avis du Conseil supérieur de la marine marchande et devrait être adopté dans les prochaines semaines. Le choix du siège de l'école n'est pas décidé et fera l'objet d'un arrêté séparé. En parallèle, une vaste réflexion est lancée sur le contenu pédagogique des enseignements, ainsi que sur les moyens nécessaires, comme un laboratoire de recherche, qui devront être mobilisés pour mener à bien les enseignements dans la perspective de la délivrance d'un diplôme d'ingénieur. Le conseil d'administration de la future école devra se prononcer sur cet enseignement et proposer des orientations sur leur répartition par centre. À ce stade, il n'est pas en revanche envisagé de revoir la localisation de la filière A (formation des brevets permettant de conduire les navires sans limitation de taille ou de puissance) actuellement dans les centres de Marseille et du Havre. Pour autant, compte tenu de la présence à Nantes d'écoles d'ingénieurs et de facultés tournées vers la mer, il n'est pas impossible que certains modules d'enseignement puissent s'y tenir. Une réponse sur ce point est aujourd'hui prématurée.
