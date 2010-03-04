@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091111106
+
+- Question : [SEQ091111106](seq091111106.md) — Port de l'écharpe tricolore
+
+## Réponse
+
+*Intérieur, JO du 2010-03-04, page 539*
+
+Les dispositions de l'article D. 2122-4 du code général des collectivités territoriales précisent que les maires portent l'écharpe tricolore avec glands à franges d'or dans les cérémonies publiques et toutes les fois que l'exercice de leurs fonctions peut rendre nécessaire ce signe distinctif de leur autorité. Les adjoints portent l'écharpe tricolore avec glands à frange d'argent dans l'exercice de leurs fonctions d'officier d'état civil et d'officier de police judiciaire, et lorsqu'ils remplacent ou représentent le maire en application des articles L. 2122-17 et L. 2122-18. Il en va de même pour les conseillers municipaux lorsqu'ils remplacent le maire en application de l'article L. 2122-17 ou lorsqu'ils sont conduits à célébrer les mariages par délégation du maire. Le port de l'écharpe tricolore est donc limitativement restreint, tant pour les adjoints que pour les conseillers municipaux, à l'exercice des fonctions d'officiers de police judiciaire et d'officier d'état civil et lorsqu'ils remplacent ou représentent le maire.
