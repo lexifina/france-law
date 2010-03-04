@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100211955
+
+- Question : [SEQ100211955](seq100211955.md) — Pratiques tarifaires des syndics de copropriété
+
+## Réponse
+
+*Commerce, JO du 2010-03-04, page 524*
+
+Le Conseil national de la consommation (CNC) a émis, le 27 septembre 2007, un avis proposant une liste de 44 prestations relevant de la gestion courante confiée aux syndics de copropriété et devant être facturées dans le cadre d'un forfait annuel prédéterminé. Ces recommandations ont pour ambition de rendre plus lisibles les contrats de syndics et en faciliter la comparaison. Par ailleurs ces recommandations participent à l'amélioration de la gestion des copropriétés. Lors des assises de la consommation tenues le 26 octobre 2009, le secrétaire d'État chargé du commerce, de l'artisanat, des petites et moyennes entreprises, du tourisme, des services et de la consommation a annoncé sa décision de fixer, par arrêté, la liste des prestations de syndics couvertes par le forfait annuel payé par les copropriétaires afin de clarifier les règles d'information des consommateurs dans leurs relations avec les gestionnaires de syndics. Il s'agit d'avoir des prestations ne prêtant pas à interprétation, et que chaque gestionnaire devra proposer a minima dans son forfait. Bien entendu, il ne s'agit pas de pénaliser les syndics qui ont fait des efforts et respectent déjà l'avis du CNC, et ils sont nombreux mais de rétablir la confiance pour chaque consommateur envers son syndic. Le projet d'arrêté, en cours d'examen, reprend la liste de prestations de gestion courante telle que recommandée par le CNC, assortie de quelques précisions sur certains postes de dépenses afin d'exclure toute interprétation divergente. Les aménagements du projet de texte sont issus des consultations des deux rapporteurs du groupe de travail du CNC.
