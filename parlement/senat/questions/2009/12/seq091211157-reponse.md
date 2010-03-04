@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211157
+
+- Question : [SEQ091211157](seq091211157.md) — Redevance spéciale d'enlèvement des ordures
+
+## Réponse
+
+*Intérieur, JO du 2010-03-04, page 539*
+
+L'article L. 2333-78 du code général des collectivités territoriales dispose qu'à compter du 1er janvier 1993, les communes, les établissements publics de coopération intercommunale ou les syndicats mixtes qui n'ont pas institué la redevance d'enlèvement des ordures ménagères créent une redevance spéciale pour assurer l'élimination des déchets communément appelés « assimilés ». Le même article précise que cette redevance est calculée en fonction de l'importance du service rendu et notamment de la quantité des déchets éliminés mais qu'elle peut être fixée de manière forfaitaire pour l'élimination de petites quantités de déchets. Concernant la redevance d'enlèvement des ordures ménagères, la Cour de cassation, chambre commerciale (pourvoi n° 89-17630 du 4 juin 1991) a estimé que s'agissant d'une redevance calculée en fonction de l'importance du service rendu, cette redevance n'est pas due par les personnes qui n'utilisent pas les services considérés. Pour autant, le Conseil d'État a considéré (CE, n° 59891, 5 décembre 1990) qu'un habitant qui se borne, pour refuser le paiement de la redevance, à soutenir que son foyer ne concourt d'aucune façon à la production d'ordures ménagères, sans apporter la preuve de cette allégation qui ne présente aucune vraisemblance, n'est pas fondé à demander la décharge du paiement de la redevance. Par analogie, dans le cas d'espèce d'un artisan, soumis à la redevance spéciale pour l'enlèvement des déchets assimilés issus de son activité économique, on pourrait considérer que celui-ci ne peut refuser le paiement de la redevance, sauf à apporter éventuellement la preuve qu'il ne concourt en aucune façon, dans le cadre de ses activités économiques, à la production de déchets assimilés.
