@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010328
+
+- Question : [SEQ091010328](seq091010328.md) — Conséquences du très grand isolement des femmes incarcérées
+
+## Réponse
+
+*Justice, JO du 2010-03-04, page 541*
+
+Les établissements pénitentiaires recevant des femmes détenues sont répartis sur l'ensemble du territoire. Au 1er janvier 2010, ils accueillent 1 921 femmes en métropole pour 2 315 places et 122 femmes en outre-mer pour 162 places. L'ouverture des centres pénitentiaires de Roanne et Poitiers au premier semestre 2009 a permis d'augmenter sensiblement le nombre de places disponibles et de diversifier les implantations géographiques. Cet important effort immobilier a eu pour conséquence la très nette diminution des délais d'attente pour rejoindre un établissement pour peines ; la quasi-totalité d'entre eux étant aujourd'hui accessibles en moins de trois mois. En 2009, 28 femmes écrouées à la maison d'arrêt de Fleury-Mérogis ont fait l'objet d'une décision d'affectation en établissement pour peines. Les deux dernières femmes qui rejoindront leur établissement dans les semaines à venir, ont fait l'objet de décisions d'affectation au mois de novembre. Aucune autre demande n'est en attente. Les nouveaux établissements, ainsi que le centre de détention de Rennes, sont dotés d'unités de vie familiale (UVF) qui permettent un maintien des liens familiaux dans un contexte d'accueil de qualité tant pour les adultes que pour les enfants. Afin de favoriser le maintien des liens et d'éviter l'isolement des femmes incarcérées, les affectations de celles-ci se font, chaque fois que cela s'avère possible, en prenant en compte la localisation géographique de leurs attaches familiales ou amicales. Dans le cas contraire, l'affectation se fait prioritairement dans un établissement pour peines disposant d'une UVF afin de proposer un mode de visite prenant en compte l'éloignement de la famille.
