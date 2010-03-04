@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110813
+
+- Question : [SEQ091110813](seq091110813.md) — Réforme des collectivités territoriales
+
+## Réponse
+
+*Intérieur, JO du 2010-03-04, page 539*
+
+Afin d'étendre le champ de la démocratie locale aux groupements de communes à fiscalité propre, le comité pour la réforme des collectivités territoriales, présidé par M. Édouard Balladur, a proposé d'élire les conseillers communautaires au suffrage universel direct. À cette fin, il a souhaité que les candidats au mandat de conseiller municipal et aux fonctions de conseiller communautaire figurent sur une seule et même liste, les premiers de la liste ayant vocation à siéger au conseil communautaire et au conseil municipal de leur commune d'origine, les suivants de liste ne siégeant qu'au conseil municipal. Cette proposition du comité Balladur qui tend à simplifier et à renforcer la démocratie locale a été reprise dans le projet de loi relatif à l'élection des conseillers territoriaux et au renforcement de la démocratie locale. Le projet de loi prévoit en effet que l'élection au suffrage universel direct des délégués des communes de 500 habitants et plus au sein des organes délibérants des communautés de communes, des communautés urbaines, des communautés d'agglomération et des métropoles a lieu simultanément avec celle des conseillers municipaux, à la représentation proportionnelle avec application de la règle de la plus forte moyenne après attribution préalable de la moitié des sièges à la liste arrivée en tête. Lorsque la commune est divisée en secteurs municipaux ou en sections électorales, le projet de loi précise que le représentant de l'État répartit les sièges de délégués entre les secteurs ou les sections, proportionnellement à leur population respective avec application de la règle de la plus forte moyenne.
