@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - Fermetures de services
+I.-Fermetures de services
 
 OPÉRATION DE RESTRUCTURATION
 
@@ -44,7 +44,7 @@ PERSONNELS REDÉPLOYÉS
 
 |
 
-Direction départementale de la protection judiciaire de la jeunesse de la Moselle
+Direction territoriale de la protection judiciaire de la jeunesse de la Moselle
 
 |
 

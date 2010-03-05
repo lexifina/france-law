@@ -28,6 +28,6 @@ B.-Fonctions exercées dans les services territoriaux
 
 2. Coordonnateur de service administratif régional de cour d'appel.
 
-3. Directeur régional de la protection judiciaire de la jeunesse.
+3. Directeur interrégional de la protection judiciaire de la jeunesse.
 
 4. Directeur d'établissement pénitentiaire.

@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-DIRECTIONS DÉPARTEMENTALES
+DIRECTIONS TERRITORIALES
 
 de la protection judiciaire de la jeunesse
 

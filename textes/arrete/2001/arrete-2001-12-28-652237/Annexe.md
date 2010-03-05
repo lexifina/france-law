@@ -4,7 +4,7 @@ FONCTIONS EXERCEES POUVANT OUVRIR DROIT
 
 AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1. Chef du service de l'inspection générale des services judiciaires :
 
@@ -740,7 +740,7 @@ Sous directeur, adjoint au chef du service de l'accès au droit et à la justice
 
 |
 
-B. - Fonctions exercées dans les services territoriaux
+B.-Fonctions exercées dans les services territoriaux
 
 1. Directeur régional des services pénitentiaires :
 
@@ -1070,7 +1070,7 @@ Coordonnateur du service administratif régional de la cour d'appel de Toulouse
 
 |
 
-3. Directeur régional de la protection judiciaire de la jeunesse :
+3. directeur interrégional de la protection judiciaire de la jeunesse :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -1090,7 +1090,7 @@ par emploi
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Ile-de-France
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Ile-de-France
 
 |
 
@@ -1102,7 +1102,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région I
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Rhône-Alpes/Auvergne
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Rhône-Alpes / Auvergne
 
 |
 
@@ -1114,7 +1114,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Provence-Alpes-Côte d'Azur/Corse
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Provence-Alpes-Côte d'Azur / Corse
 
 |
 
@@ -1126,7 +1126,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Nord-Pas-de-Calais
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Nord-Pas-de-Calais
 
 |
 
@@ -1138,7 +1138,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région N
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Bretagne/Pays-de-la-Loire
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Bretagne / Pays-de-la-Loire
 
 |
 
@@ -1150,7 +1150,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Centre/Poitou-Charentes/Limousin
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Centre / Poitou-Charentes / Limousin
 
 |
 
@@ -1162,7 +1162,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Lorraine/Champagne-Ardennes
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Lorraine / Champagne-Ardennes
 
 |
 
@@ -1174,7 +1174,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Alsace..
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Alsace..
 
 |
 
@@ -1186,7 +1186,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région A
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Aquitaine
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Aquitaine
 
 |
 
@@ -1198,7 +1198,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région A
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Bourgogne -Franche-Comté.
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Bourgogne-Franche-Comté.
 
 |
 
@@ -1210,7 +1210,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour les régions Haute et Basse-Normandie
+directeur interrégional de la protection judiciaire de la jeunesse pour les régions Haute et Basse-Normandie
 
 |
 
@@ -1222,7 +1222,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour les régions
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Languedoc-Roussillon .
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Languedoc-Roussillon.
 
 |
 
@@ -1234,7 +1234,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région L
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Midi-Pyrénées .
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Midi-Pyrénées.
 
 |
 
@@ -1246,7 +1246,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région M
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région Picardie .
+directeur interrégional de la protection judiciaire de la jeunesse pour la région Picardie.
 
 |
 
@@ -1258,7 +1258,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région P
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse pour la région outre-mer
+directeur interrégional de la protection judiciaire de la jeunesse pour la région outre-mer
 
 |
 
@@ -1270,7 +1270,7 @@ Directeur régional de la protection judiciaire de la jeunesse pour la région o
 
 |
 
-Directeur régional du Centre national de formation et d'études de la protection judiciaire de la jeunesse .....
+Directeur régional du Centre national de formation et d'études de la protection judiciaire de la jeunesse.....
 
 |
 

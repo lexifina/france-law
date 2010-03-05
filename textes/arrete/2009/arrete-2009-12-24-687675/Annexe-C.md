@@ -18,7 +18,7 @@ BOUCHES-DU-RHÔNE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Marseille
+directeur interrégional de la protection judiciaire de la jeunesse situé à Marseille
 
 |
 
@@ -30,7 +30,7 @@ CÔTE-D'OR
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Orléans
+directeur interrégional de la protection judiciaire de la jeunesse situé à Orléans
 
 |
 
@@ -42,7 +42,7 @@ HAUTE-GARONNE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Toulouse
+directeur interrégional de la protection judiciaire de la jeunesse situé à Toulouse
 
 |
 
@@ -54,7 +54,7 @@ PYRÉNÉES-ATLANTIQUES
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Bordeaux
+directeur interrégional de la protection judiciaire de la jeunesse situé à Bordeaux
 
 |
 
@@ -66,7 +66,7 @@ ILLE-ET-VILAINE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Rennes
+directeur interrégional de la protection judiciaire de la jeunesse situé à Rennes
 
 |
 
@@ -78,7 +78,7 @@ MEURTHE-ET-MOSELLE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Nancy
+directeur interrégional de la protection judiciaire de la jeunesse situé à Nancy
 
 |
 
@@ -90,7 +90,7 @@ NORD
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Lille
+directeur interrégional de la protection judiciaire de la jeunesse situé à Lille
 
 |
 
@@ -102,7 +102,7 @@ SAVOIE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Lyon
+directeur interrégional de la protection judiciaire de la jeunesse situé à Lyon
 
 |
 
@@ -114,6 +114,6 @@ ESSONNE
 
 |
 
-Directeur régional de la protection judiciaire de la jeunesse situé à Paris
+directeur interrégional de la protection judiciaire de la jeunesse situé à Paris
 
 |
