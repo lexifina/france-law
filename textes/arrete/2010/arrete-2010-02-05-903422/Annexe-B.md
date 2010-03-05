@@ -1,12 +1,12 @@
 # Article Annexe B
 
+.
+
 |
 
-NOM DU
+NOM
 
-transporteur
-
-aérien (1)
+du transporteur aérien (1)
 
 |
 
@@ -24,13 +24,11 @@ de la compagnie
 
 IMMATRICULATION
 
-des appareils
-
-interdits
+des appareils interdits
 
 |
 
-TYPE APPAREIL
+TYPE D'APPAREIL
 
 |
 
@@ -76,7 +74,7 @@ Tout aéronef, sauf ceux immatriculés P4-KCA, P4-KCB, P4-EAS, P4-FAS, P4-GAS, P
 
 |
 
-Tout aéronef sauf 2 aéronefs de type B 767 ; 4 aéronefs de type B 757 ; 10 aéronefs de type A 319/320/321 et 5 aéronefs de type Fokker 50
+Tout aéronef sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aéronefs de type A319/320/321 et 5 aéronefs de type Fokker 50
 
 |
 
@@ -148,7 +146,7 @@ Tout aéronef sauf celui immatriculé TR-LHP
 
 |
 
-Tout aéronef sauf 1 aéronef de type Boeing B 767-200
+Tout aéronef sauf 1 aéronef de type Boeing B767-200
 
 |
 
@@ -172,7 +170,7 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type HS-125-800
 
 |
 
@@ -192,11 +190,35 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE et D 2-TEF
+Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
 
 |
 
-Tout aéronef sauf 3 aéronefs de type Boeing B 777
+Tout aéronef sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing B737-700
+
+|
+
+8
+
+|
+
+Ukrainian Mediterranean
+
+|
+
+Ukraine
+
+|
+
+UKM
+
+|
+
+Tout aéronef sauf celui immatriculé UR-CFF
+
+|
+
+Tout aéronef sauf 1 aéronef de type MD-83
 
 |
 
@@ -208,6 +230,6 @@ Tout aéronef sauf 3 aéronefs de type Boeing B 777
 
 (4) Gabon Airlines est seulement autorisé à utiliser les aéronefs particuliers mentionnés pour ses activités actuelles dans la Communauté européenne.
 
-(5) TAAG Angola Airlines n'est autorisé à exercer ses activités qu'au Portugal, en utilisant les aéronefs spécifiques, dans les conditions fixées aux considérants 58 et 59 du règlement (CE) n° 619/2009 du 13 juillet 2009.
+(5) TAAG Angola Airlines n'est autorisé à exercer ses activités qu'au Portugal, en utilisant les aéronefs spécifiques, dans les conditions fixées aux considérants 58 et 59 du règlement (CE) n° 1144/2009 de la Commission du 26 novembre 2009.
 
 |
