@@ -570,8 +570,10 @@ Services de proximité et vie locale.
 
 |
 
-CAP gardien d'immeuble.
-
 CAP agent de prévention et de médiation.
 
 |
+
+NOTA :
+
+Arrêté du 23 février 2010 art. 7 : La première session d'examen de la spécialité de certificat d'aptitude professionnelle "gardien d'immeubles", régie par les dispositions du présent arrêté, aura lieu en 2011.
