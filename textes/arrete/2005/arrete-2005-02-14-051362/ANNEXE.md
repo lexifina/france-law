@@ -1,42 +1,50 @@
 # Article ANNEXE
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de technicien(ne) de traitement des eaux.
+Titre professionnel : technicien (ne) de traitement des eaux.
 
 Niveau : IV.
 
-Code NSF : 343u.
+Code NSF : 343 u.
 
 Résumé du référentiel d'emploi
 
-Le technicien de traitement des eaux contribue à l'exploitation technique d'un service de traitement des eaux à potabiliser, dépolluer, conditionner ou affiner.
+Le technicien de traitement des eaux (TTE) participe directement à l'exploitation technique d'un service ayant à charge le traitement des eaux.
 
-L'efficacité de ces interventions est déterminante pour rendre l'eau conforme aux usages (domestiques, industriels, agricoles) attendus, aux exigences sanitaires et environnementales, réglementaires et normatives, en vigueur et fixer le niveau de consommation d'eau de l'unité de traitement considérée, comme celui de sa redevance fiscale.
+Ses interventions visent principalement à rendre l'eau conforme aux usages attendus (domestiques, industriels, agricoles...) en fonction des exigences (réglementaires et normatives) sanitaires et environnementales en vigueur.
 
-Technicien d'exploitation, le technicien de traitement des eaux conduit des appareils qui réalisent des traitements de diverses qualités d'eau. Il surveille et régule les paramètres de traitement des eaux et les flux de matières (liquides, solides et gazeuses), ainsi que l'énergie nécessaire, sur des installations le plus souvent automatisées et informatisées.
+La diversité des contextes professionnels amène le TTE à traiter des eaux correspondant à une gamme de provenances ou d'usages variés (potabilisation, dépollution, conditionnement, affinage...). Les principaux process de traitement qui lui seront confiés visent à :
 
-Ses fonctions comme sa qualification lui permettent d'intervenir, directement ou indirectement, sur toutes les phases des opérations de traitement.
+Assurer l'alimentation :
 
-A partir de sa principale responsabilité concernant la conduite des procédés de traitement des eaux, il s'assure de la continuité et de la sûreté du fonctionnement de ces installations et/ou équipements. Pour cela :
+-d'un réseau d'adduction d'eau potable ;
 
-- il participe aux diagnostics sur les écarts d'exploitation et les dysfonctionnements éventuels ;
+-d'une unité de production de biens ou de services en fonction de leurs besoins spécifiques en eau.
 
-- il s'assure que l'intervention de maintenance effectuée par les services compétents se déroule dans les meilleures conditions de sécurité pour les hommes, le matériel et l'environnement ;
+Assurer l'épuration :
 
-- il peut réaliser des opérations correctives élémentaires et procéder au remplacement de pièces défectueuses dans des conditions préalablement définies.
+-des eaux (usées ou pluviales) collectées par les réseaux d'assainissement à usage public ;
 
-Il effectue également sa part du travail de gestion technique, logistique et administrative :
+-des eaux de rejets d'une unité de production de biens ou de services.
 
-- suivi et bilans des résultats d'analyse et de traitement ;
+Le TTE intervient sur les installations et appareils d'une unité de traitement d'eaux appartenant soit :
 
-- approvisionnements et stocks des produits et consommables ;
+-à une collectivité territoriale, en gestion directe ou déléguée (en unité de potabilisation ou d'épuration) ;
 
-- suivi des états concernant l'activité et les horaires.
+-à un établissement industriel ou agricole (en unité de conditionnement ou de dépollution).
 
-Activités et compétences attestées par la certification
+Le TTE peut également apporter son concours au sein de laboratoires d'hydrologie ou d'organismes tels que SATESE ou Agence de l'eau.
+
+L'emploi est souvent posté (en semi-continu ou en continu), mais il peut aussi s'exercer de jour.
+
+Une grande partie des opérations se passent debout et exigent des déplacements entre divers postes à l'extérieur, quelles que soient les conditions atmosphériques. Certaines conditions de travail (sols glissants, ambiances humides, bassins profonds, manutentions, produits toxiques, corrosifs, échantillons contenants des germes pathogènes, travail en hauteur, risque électrique,...) requièrent beaucoup de vigilance.
+
+Capacités attestées et descriptif
+
+des composantes de la certification
 
 1. Analyser les eaux à traiter
 
@@ -44,43 +52,53 @@ Prélever des échantillons d'eaux ou de boues en vue de les analyser.
 
 Réaliser les analyses des échantillons d'eaux ou de boues.
 
-Définir les paramètres de conduite des installations de traitement des eaux à partir des résultats d'analyse.
+Interpréter les résultats d'analyse d'eaux ou de boues.
 
 2. Conduire différents procédés de traitement des eaux
 
-Conduire une installation de traitement biologique à boues activées.
+Conduire une installation de traitement biologique.
 
 Conduire des procédés physico-chimiques d'épuration d'eaux usées.
 
-Conduire des procédés physico-chimiques de traitement d'eau pour des usages spécifiques.
+Conduire des procédés physico-chimiques de production d'eaux potables et d'eaux de process.
+
+Conduire des procédés de traitement de boues d'épuration.
 
 Etablir le bilan d'une opération de traitement des eaux.
 
-3. Contribuer à la maintenance des équipements et à la logistique
+3. Contribuer à la maintenance des installations de traitement
 
-des moyens nécessaires au traitement des eaux
+des eaux et à la gestion des réseaux
 
 Assurer l'entretien courant des instruments de prélèvement et de mesure utilisés en analyse de l'eau.
 
-Intervenir en assistance dans les travaux d'entretien et de maintenance des équipements de traitement des eaux.
+Effectuer l'entretien courant et la gestion des réseaux d'assainissement et de distribution d'eaux.
 
 Diagnostiquer un dysfonctionnement technique dans le process de traitement des eaux et proposer des mesures curatives et préventives.
 
-Assurer la logistique des opérations de traitement des eaux.
+Intervenir en assistance dans les travaux d'entretien et de maintenance des équipements de traitement des eaux.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
+Secteurs d'activités et types d'emploi
 
-Collectivités territoriales et sociétés délégataires de la gestion des services des eaux (potabilisation et épuration).
+accessibles par le détenteur du titre
 
-Ensemble des entreprises industrielles ayant à traiter les eaux destinées à leur propre consommation et/ou ayant à dépolluer leurs rejets.
+L'emploi s'exerce principalement dans :
 
-Autres activités pour lesquelles l'eau occupe une place importante, du fait notamment, des exigences sanitaires et environnementales, réglementaires et normatives, en vigueur.
+-les collectivités territoriales et sociétés délégataires de la gestion des services des eaux (potabilisation et épuration) ;
 
-Types d'emploi accessibles : le technicien de traitement des eaux peut occuper tout poste de responsabilité technique en exploitation des installations de traitement d'eau.
+-l'ensemble des entreprises industrielles ayant à traiter les eaux destinées à leur propre consommation et / ou ayant à dépolluer leurs rejets ;
 
-Code ROME :
+-les autres activités pour lesquelles l'eau occupe une place importante, du fait notamment, des exigences sanitaires et environnementales, réglementaires et normatives, en vigueur.
 
-52234 : Technicien(ne) en environnement des industries de process
+Le technicien de traitement des eaux peut occuper tout poste de responsabilité technique en exploitation des installations de traitement d'eau.
+
+Codes ROME :
+
+H1303-Intervention technique en hygiène sécurité environnement (HSE) industriel.
+
+H1302-Management et ingénierie hygiène sécurité environnement (HSE) industriels.
+
+I1503-Intervention en milieux et produits nocifs.
 
 Réglementation de l'activité :
 
