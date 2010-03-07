@@ -1,24 +1,36 @@
-# Article ANNEXE
+# Article Annexe
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) de fabrication de l'industrie chimique (ancien intitulé : technicien supérieur d'industrialisation de l'industrie chimique).
+Titre professionnel : technicien (ne) supérieur (e) de fabrication de l'industrie chimique.
 
 Niveau : III.
 
-Code NSF : 222 s.
+Code NSF : 222 s-Transformations chimiques et apparentées.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) supérieur(e) de fabrication de l'industrie chimique est responsable d'une ou plusieurs équipes de fabrication, et se trouve en hiérarchie directe avec l'ingénieur de production.
+Le technicien supérieur de fabrication de l'industrie chimique a la responsabilité d'une ou plusieurs équipes de fabrication, et se trouve en hiérarchie directe avec l'ingénieur de production. Il prend en compte tout ou partie d'une installation existante au plan des procédés, des produits, des matériels et des personnels en place.
 
-Son travail consiste à prendre en compte tout ou partie d'une installation existante au plan des procédés, des produits (gestion des flux de production), des matériels et des personnels en place.
+Il gère les flux de production.
 
-Le (la) technicien(ne) supérieur(e) de fabrication de l'industrie chimique est garant(e) de la réalisation des objectifs de production, tant du point de vue quantitatif, qualitatif et des délais, que sous l'angle de la sécurité et du respect de l'environnement.
+Il est garant de la réalisation des objectifs de production, tant du point de vue quantitatif, qualitatif et délai que sous l'angle de la sécurité et du respect de l'environnement.
 
-Il (elle) propose des modifications à ce système avec pour but d'améliorer la qualité, la performance et la sécurité et établit l'interface avec d'autres éléments du système général de l'entreprise ou du système de production.
+Il propose des modifications à ce système avec pour but d'améliorer la qualité, la performance et la sécurité.
+
+Il établit l'interface avec d'autres éléments du système général de l'entreprise ou du système de production.
+
+L'emploi s'exerce le plus souvent dans un atelier de production à proximité des machines ou dans un bureau situé près de l'atelier ou de la salle de contrôle.
+
+L'emploi s'exerce au sein de la direction de production.L'activité implique une collaboration étroite avec l'ensemble des services de l'établissement et avec la direction générale (définition de la politique industrielle de l'entreprise), ainsi que des liaisons avec les fournisseurs et les clients.
+
+Les conditions d'environnement qu'il rencontre (bruits, fumées, odeurs, poussières,...) varient suivant les matières traitées, les techniques et les phases de transformation, et également suivant les entreprises. La zone dans laquelle il se déplace peut être une zone à risque du fait des opérations effectuées et des produits utilisés (toxicité, corrosivité, explosivité...). Le port d'équipements de protection spéciaux peut être nécessaire.
+
+Les horaires peuvent être de jour ou postés, néanmoins une disponibilité constante est demandée pour faire face aux aléas de la fabrication et l'activité en continu nécessite des astreintes.
+
+Une vigilance permanente et une réactivité à l'événement (dérive des paramètres, incidents) sont indispensables dans cette activité compte tenu des matières traitées (produits explosifs, corrosifs, radioactifs, toxiques, contaminants,...) et des techniques utilisées (utilisation du vide, d'appareillage sous pression, machines tournantes,...).
 
 Capacités attestées et descriptif des composantes
 
@@ -28,64 +40,62 @@ de la certification
 
 de production de l'industrie chimique
 
-Définir et établir en fonction d'objectifs de production donnés les paramètres et réglages de tout ou partie d'une installation de production chimique, en vérifier la mise en place et suivre leur évolution.
+Définir les paramètres de fonctionnement de tout ou partie d'une installation de production chimique.
 
-Prendre en charge un régime transitoire d'une installation de production chimique (démarrage, arrêt, perturbation volontaire ou sur incident).
+Prendre en charge un régime transitoire d'une installation de production chimique.
 
-Proposer des améliorations de procédés, de produits et de l'outil de production dans une installation de l'industrie chimique en intégrant des concepts et données acquis en interne ou externe à l'entreprise.
+Proposer des modifications afin d'optimiser le fonctionnement d'une installation de l'industrie chimique.
 
-Etablir et maintenir une relation réciproque avec les services annexes à l'unité de production, tels que services contrôle, instrumentation, maintenance, développement.
+Communiquer avec les services externes à l'unité de production de l'industrie chimique.
 
-2. Conduire la gestion de production d'un atelier
+Appliquer en permanence les exigences de la qualité, de la sécurité et de l'environnement à une unité de production de l'industrie chimique.
 
-de l'industrie chimique
+2. Conduire la gestion de production
 
-Gérer les flux de matières premières, produits finis, produits annexes d'un atelier de fabrication de l'industrie chimique en fonction d'objectifs de production donnés.
+d'une unité de fabrication de l'industrie chimique
 
-Organiser et planifier dans une unité de production chimique, en fonction des ordres d'urgence et du personnel en poste, les charges des appareillages, suivre en temps réel l'application et, éventuellement, renégocier délais et prévisions.
+Gérer les flux de matières d'une unité de production de l'industrie chimique.
 
-Organiser, utiliser ou suivre des procédures d'entretien préventif ou curatif dans une unité de production chimique, en relation avec les services de maintenance et de sécurité.
+Planifier l'utilisation des équipements d'une unité de production de l'industrie chimique.
 
-3. Participer à la gestion des ressources humaines d'une équipe
+Elaborer et suivre les procédures d'entretien préventif, correctif et curatif dans une unité de production de l'industrie chimique.
 
-de production de l'industrie chimique
+3. Encadrer une équipe de production de l'industrie chimique
 
-Organiser l'activité des personnels de sa responsabilité aux plans technique et administratif dans le cadre d'un atelier de production de l'industrie chimique.
+Organiser l'activité des personnels de sa responsabilité aux plans technique et administratif, dans une unité de production de l'industrie chimique.
 
-Animer une équipe opérationnelle d'un atelier de production chimique.
+Animer une équipe opérationnelle d'une unité de production de l'industrie chimique.
 
-Evaluer les conduites et performances des personnels sous sa responsabilité dans un atelier de production chimique.
+Dans une unité de production de l'industrie chimique, évaluer les conduites et performances des personnels sous sa responsabilité.
 
-Participer à l'établissement de systèmes ou de plans de formation auprès d'une équipe opérationnelle d'un atelier de l'industrie chimique.
+Etablir les besoins de formation d'une équipe opérationnelle d'une unité de production de l'industrie chimique et planifier la mise en œuvre du plan de formation.
 
-Former ou transmettre des éléments de formation relatifs aux procédés et technologies de l'industrie chimique.
+Conduire des actions de formation pour son équipe de travail.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le secteur de la chimie au sens large, c'est-à-dire également les industries de la pétrochimie, de la chimie fine, de l'agroalimentaire, du verre, du textile, du ciment..., toute industrie de process.
+L'emploi s'exerce dans l'industrie chimique mais également dans les industries de l'agroalimentaire, de la pharmacie, de la pétrochimie, du verre, du textile, du ciment, c'est-à-dire toute industrie de process.
+
+Le TSFIC peut être responsable de plusieurs ateliers, directeur de fabrication / directeur technique dans une PME, responsable sécurité...
 
 Codes ROME :
 
-52231 - Technicien(ne) de production des industries de process.
+H2301-Conduite d'équipement de production chimique ou pharmaceutique.
 
-51121 - Agent d'encadrement des industries de process.
+H2502-Management et ingénierie de production.
 
-53211 - Cadre technique de la production.
+H2504-Encadrement d'équipe en industrie de transformation.
 
-Réglementation de l'activité :
+H2701-Pilotage d'installation énergétique et pétrochimique.
 
-Néant.
+Réglementation de l'activité : néant.
 
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
