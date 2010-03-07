@@ -4,71 +4,65 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : opérateur(trice) en prothèse dentaire.
+Titre professionnel : auxiliaire en prothèse dentaire (ancien intitulé opérateur (trice) en prothèse dentaire).
 
 Niveau : V.
 
-Code NSF : 331 t.
+Code NSF : 331s.
 
 Résumé du référentiel d'emploi
 
-L'opérateur(trice) en prothèse dentaire est appelé(e) à compenser, par des appareils amovibles ou fixes, les pertes ou difformités survenues dans la région bucco-maxillo-faciale et à appareiller des fractures de maxillaires d'après les instructions et les empreintes fournies par les chirurgiens-dentistes ou stomatologistes.
+L'auxiliaire en prothèse dentaire est un spécialiste dont l'activité consiste à analyser les cas prothétiques, de concevoir, réaliser, réparer, réaliser la fabrication et assurer la mise sur le marché des dispositifs médicaux sur mesure, prothèses et orthèses dentaires.
 
-L'opérateur(trice) en prothèse dentaire réalise en totalité ces appareils, selon une prescription médicale émise par un membre du corps médical, des préconisations techniques et des relevés d'empreintes fournis par le praticien. Il (elle) procède aux modifications préconisées par le praticien après essayage sur le patient en cabinet médical. Enfin, il (elle) répare des appareils usés ou détériorés. L'ouvrier(ère) prothésiste travaille sous la responsabilité du chef d'entreprise ou de laboratoire diplômé.
+Métier à la fois artisanal et employant des technologies de pointe, son domaine d'intervention est celui de l'esthétique et du fonctionnel dans la fabrication du dispositif médical sur mesure qu'est la prothèse dentaire.
 
-L'exercice de l'emploi nécessite soin et dextérité manuelle pour les opérations de sculpture, modelage, montage, finition et la maîtrise de l'utilisation et la programmation des cycles " machines " pour les opérations de moulage, contre-moulage.
+Chaque prothèse dentaire est un travail spécifique pour la fabrication proprement dite, de nombreuses techniques doivent être maîtrisées (sculpture, modelage, fonte d'alliage, application de poudre de porcelaine, selon les types de travaux et les matériaux utilisés : cire, plâtre, alliages dentaires, composite, céramique, résine acrylique).
 
-Compétences attestées et descriptif des composantes
+C'est une profession à forte évolution technique en interactivité avec la haute technologique, le monde médical, d'où la nécessité pour les professionnels d'adapter régulièrement leurs connaissances tout au long de leur vie professionnelle. Il est à noter que la robotique et les techniques informatiques assistées par ordinateurs (CAO / FAO) vont modifier progressivement l'exercice au quotidien de ce secteur d'activité.
 
-de la certification
+Capacités attestées et descriptif
 
-1. Fabriquer des moulages en plâtres dentaires
+des composantes de la certification
+
+1. Réaliser des prothèses dentaires amovibles
 
 Couler des empreintes dentaires et fabriquer des modèles de travail en plâtre.
 
-Fixer des modèles de travail réalisés à partir d'empreintes dentaires en simulateur d'articulation.
-
 Mouler des prothèses dentaires dans un moufle.
 
-2. Fabriquer et réaliser des prothèses dentaires amovibles
+Façonner des crochets dentaires.
 
-Fabriquer des porte-empreintes individuels bucco-dentaires.
+Réaliser des maquettes de prothèses dentaires amovibles partielles.
 
-Modeler des cires d'occlusion en prothèse dentaire.
+Finir des prothèses dentaires amovibles.
 
-Façonner des crochets dentaires en fil jonc et 1/2 jonc.
+2. Réaliser des prothèses dentaires fixes
 
-Réaliser des maquettes de prothèse dentaire amovibles partielles.
+Couler des empreintes dentaires et fabriquer des modèles de travail en plâtre.
 
-Mouler des prothèses dentaires dans un moufle.
-
-Usiner et polir des prothèses dentaires amovibles.
-
-3. Réaliser des prothèses dentaires à fixer en bouche
-
-Scier et détourer les répliques des moignons dentaires sur son modèle de travail.
+Préparer un modèle de prothèse fixe.
 
 Sculpter des éléments de prothèse dentaire en cire.
 
-Mettre en cylindre des maquettes en cire et couler les alliages dentaires.
+Finir une prothèse dentaire fixe.
 
-Usiner et polir les surfaces des éléments de prothèse dentaire à fixer.
-
-Modeler les facettes esthétiques des prothèses dentaires à l'aide de produits cosmétiques.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce dans un laboratoire indépendant ou mutualiste ou au sein d'un hôpital.
+Dans la très grande majorité des cas, le métier se pratique dans un laboratoire de prothèse dentaire :
+
+-soit artisanal, industriel ou mutualiste ;
+
+-soit attaché au cabinet dentaire, à une clinique ou un hôpital.
 
 Code ROME :
 
-24323 - Prothésiste dentaire.
+J1410-Prothèses dentaires.
 
 Réglementation de l'activité :
 
-Néant.
+La directive européenne à laquelle se rattache l'exercice de la profession est la 93 / 42 sur les dispositifs médicaux, entrée en application en France en 1998.
 
 Autorité responsable de la certification :
 
@@ -76,8 +70,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de la modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
