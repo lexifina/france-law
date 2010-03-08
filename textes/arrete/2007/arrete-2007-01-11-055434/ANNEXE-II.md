@@ -1,6 +1,8 @@
 # Article ANNEXE II
 
-FRÉQUENCE DES PRÉLÈVEMENTS D'ÉCHANTILLONS D'EAU ET D'ANALYSES
+FRÉQUENCE DES PRÉLÈVEMENTS D'ÉCHANTILLONS
+
+D'EAU ET D'ANALYSES
 
 Les échantillons d'eau doivent être prélevés de manière à être représentatifs (temporellement tout au long de l'année et géographiquement) de la qualité des eaux brutes et des eaux distribuées.
 
@@ -10,13 +12,19 @@ Le tableau 1 indique la fréquence des prélèvements d'échantillons d'eau et d
 
 Tableau 1
 
-Fréquences annuelles des prélèvements d'échantillons d'eau et d'analyses d'eau prélevée à la ressource
+Fréquences des prélèvements d'échantillons d'eau
 
-DÉBIT (m3/j)
+et d'analyses d'eau prélevée à la ressource
+
+DÉBIT
+
+(m ³ / jour)
 
 |
 
 FRÉQUENCE ANNUELLE
+
+|
 
 |
 
@@ -28,15 +36,21 @@ RS
 
 |
 
+RSadd (9)
+
+|
+
 Inférieur à 10
 
 |
 
-0,2 (*)
+0, 2 (8)
 
 |
 
-0,5 (*)
+0, 5 (8)
+
+|
 
 |
 
@@ -44,7 +58,7 @@ De 10 à 99
 
 |
 
-0,2 (*)
+0, 2 (8)
 
 |
 
@@ -52,15 +66,21 @@ De 10 à 99
 
 |
 
+|
+
 De 100 à 1 999
 
 |
 
-0,5 (*)
+0, 5 (8)
 
 |
 
 2
+
+|
+
+4 (10)
 
 |
 
@@ -76,6 +96,10 @@ De 2 000 à 5 999
 
 |
 
+8 (10)
+
+|
+
 De 6 000 à 19 999
 
 |
@@ -85,6 +109,10 @@ De 6 000 à 19 999
 |
 
 6
+
+|
+
+12 (10)
 
 |
 
@@ -100,11 +128,19 @@ Supérieur ou égal à 20 000
 
 |
 
-(*) 0,2 et 0,5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
+12
 
 |
 
-Dispositions complémentaires concernant les eaux douces superficielles :
+(8) 0, 2 et 0, 5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
+
+(9) Les analyses de type RSadd sont à réaliser sur une année civile et pour la première fois en 2010.
+
+(10) Ces fréquences de prélèvements et d'analyses s'appliquent aux paramètres définis dans le tableau 1 de l'annexe I (RSadd). Pour les paramètres cadmium, mercure, nickel, plomb et les hydrocarbures aromatiques polycycliques, également contrôlés dans les analyses de type RS, ces fréquences se substituent à celles des analyses de type RS.
+
+|
+
+Dispositions complémentaires concernant les eaux brutes superficielles :
 
 Outre la recherche des paramètres microbiologiques pour l'analyse de type RS mentionnée dans le tableau 1 de l'annexe I, il est procédé :
 
@@ -112,27 +148,31 @@ a) A une recherche annuelle de salmonelles (dans cinq litres d'eau) ;
 
 b) A une recherche de bactéries coliformes dans les conditions suivantes :
 
-- une fois par an pour un débit inférieur à 6 000 m3/j ;
+- une fois par an pour un débit inférieur à 6 000 m ³ / jour ;
 
-- deux fois par an pour un débit compris entre 6 000 m3/j et 20 000 m3/j ;
+- deux fois par an pour un débit compris entre 6 000 m ³ / jour et 20 000 m ³ / jour ;
 
-- quatre fois par an pour un débit supérieur à 20 000 m3/j.
+- quatre fois par an pour un débit supérieur à 20 000 m ³ / jour.
 
 II. - Eaux aux points de mise en distribution et d'utilisation
 
-Le tableau 2 indique la fréquence des prélèvements et d'analyses pour l'eau distribuée aux consommateurs selon la population desservie par le réseau et le débit d'eau distribué.
+Le tableau 2 indique la fréquence des prélèvements et d'analyses pour l'eau distribuée aux consommateurs selon la population desservie par le réseau et le débit d'eau distribuée.
 
 Lorsqu'un réseau de distribution dessert plusieurs communes, le nombre d'analyses de type D1 à effectuer doit être au moins égal à celui correspondant à la population des communes desservies par le réseau sans être inférieur au nombre des communes desservies.
 
 Tableau 2
 
-Fréquences annuelles des prélèvements d'échantillons d'eau et d'analyses d'eau aux points de mise en distribution et d'utilisation
+Fréquences annuelles des prélèvements d'échantillons d'eau
+
+et d'analyses d'eau aux points de mise en distribution et d'utilisation
 
 POPULATION DESSERVIE
 
 |
 
-DÉBIT (m3/j)
+DÉBIT
+
+(m³/jour)
 
 |
 
@@ -144,15 +184,15 @@ P1
 
 |
 
-P2 (*)
+P2 (11)
 
 |
 
-D1 (**)
+D1 (12)
 
 |
 
-D2 (***)
+D2 (13)
 
 |
 
@@ -168,7 +208,7 @@ De 0 à 9
 
 |
 
-Entre 0,1 et 0,2
+Entre 0, 1 et 0, 2
 
 |
 
@@ -176,7 +216,7 @@ Entre 2 et 4
 
 |
 
-Entre 0,1 et 0,2
+Entre 0, 1 et 0, 2
 
 |
 
@@ -192,7 +232,7 @@ De 10 à 99
 
 |
 
-Entre 0,2 et 0,5
+Entre 0, 2 et 0, 5
 
 |
 
@@ -200,7 +240,7 @@ Entre 3 et 4
 
 |
 
-Entre 0,2 et 0,5
+Entre 0, 2 et 0, 5
 
 |
 
@@ -456,26 +496,24 @@ Supérieur ou égal à 125 000
 
 |
 
-12 (****)
+12 (14)
 
 |
 
-800 (*****)
+800 (15)
 
 |
 
-12 (****)
+12 (14)
 
 |
 
-(*) L'analyse de type P2 est à réaliser en complément d'une analyse de type P1.
+(11) L'analyse de type P2 est à réaliser en complément d'une analyse de type P1.
 
-(**) Pour les populations supérieures à 500 habitants, le nombre d'analyses à effectuer est obtenu par interpolation linéaire entre les chiffres fixés dans la colonne D1 (le chiffre étant arrondi à la valeur entière la plus proche). Le chiffre inscrit dans la colonne D1 correspond à la borne inférieure de chaque classe de débit.
+(12) Pour les populations supérieures à 500 habitants, le nombre d'analyses à effectuer est obtenu par interpolation linéaire entre les chiffres fixés dans la colonne D1 (le chiffre étant arrondi à la valeur entière la plus proche). Le chiffre inscrit dans la colonne D1 correspond à la borne inférieure de chaque classe de débit.
 
-(***) L'analyse de type D2 est à réaliser en complément d'une analyse de type D1.
+(13) L'analyse de type D2 est à réaliser en complément d'une analyse de type D1.
 
-(****) Pour cette catégorie, une analyse supplémentaire doit être réalisée par tranche supplémentaire de 25 000 m3/j du volume total.
+(14) Pour cette catégorie, une analyse supplémentaire doit être réalisée par tranche supplémentaire de 25 000 m³ / j du volume total.
 
-(*****) Pour cette catégorie, 3 analyses supplémentaires doivent être réalisées par tranche supplémentaire de 1 000 m3/j du volume total.
-
-|
+(15) Pour cette catégorie, trois analyses supplémentaires doivent être réalisées par tranche supplémentaire de 1 000 m³ / j du volume total. |
