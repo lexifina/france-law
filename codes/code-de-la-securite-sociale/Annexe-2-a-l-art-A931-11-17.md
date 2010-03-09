@@ -60,7 +60,7 @@ Prestations servies au titre d'un contrat de rente, d'une garantie décès (acci
 
 |
 
-Solde (= 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8)
+Solde (= 1 + 2 + 3 + 4-5-6-7-8)
 
 |
 
@@ -86,25 +86,25 @@ ANNÉE DE CONSTITUTION
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -262,7 +262,7 @@ XXXXX
 
 |
 
-Solde = 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8
+Solde = 1 + 2 + 3 + 4-5-6-7-8
 
 |
 
@@ -302,33 +302,33 @@ ANNÉE DE SURVENANCE (1)
 
 |
 
-(N - 12)
+(N-12)
 
 et ant.
 
 |
 
-(N - 11)
+(N-11)
 
 |
 
-(N - 10)
+(N-10)
 
 |
 
-(N - 9)
+(N-9)
 
 |
 
-(N - 8)
+(N-8)
 
 |
 
-(N - 7)
+(N-7)
 
 |
 
-(N - 6)
+(N-6)
 
 |
 
@@ -372,23 +372,23 @@ ANNÉE DE SURVENANCE (1)
 
 |
 
-(N - 5)
+(N-5)
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -438,41 +438,41 @@ TOTAL (2)
 
 (1) En cas d'arrêts de travail successifs, l'année de survenance est déterminée comme prévu au bulletin d'adhésion, au règlement ou au contrat.
 
-(2) La colonne "Total" est la somme des 13 colonnes N - 12 et antérieurs à N.
+(2) La colonne " Total " est la somme des 13 colonnes N-12 et antérieurs à N.
 
 |
 
-Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle instituée par l'article L. 951-1 peut dispenser l'institution ou l'union de remplir le tableau C.
+Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle prudentiel peut dispenser l'institution ou l'union de remplir le tableau C.
 
 ETAT C 10
 
 COTISATIONS ET RESULTATS PAR ANNEE DE SURVENANCE DES SINISTRES.
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de leurs résultats, par année de survenance des sinistres, pour chacune des catégories, sous-catégories ou totalisations d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-10-17 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées pour pratiquer les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 10 :
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de leurs résultats, par année de survenance des sinistres, pour chacune des catégories, sous-catégories ou totalisations d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-10-17 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées pour pratiquer les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 10 :
 
 a) Opérations directes souscrites en France :
 
-- dommages corporels : opérations individuelles (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 20) ;
+-dommages corporels : opérations individuelles (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 20) ;
 
-- dommages corporels : opérations collectives - ensemble (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 21) ;
+-dommages corporels : opérations collectives-ensemble (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (catégorie 21) ;
 
-- dommages corporels : opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 211 et 212) ;
+-dommages corporels : opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 211 et 212) ;
 
-- dommages corporels : opérations collectives autres (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 213 et 214) ;
+-dommages corporels : opérations collectives autres (y compris garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 213 et 214) ;
 
-- chômage (catégorie 31) ;
+-chômage (catégorie 31) ;
 
-- total des opérations directes souscrites en France (catégories 20 à 31) ;
+-total des opérations directes souscrites en France (catégories 20 à 31) ;
 
 b) Autres opérations :
 
-- total des contrats des catégories 20 à 31 souscrits en LPS depuis la France ;
+-total des contrats des catégories 20 à 31 souscrits en LPS depuis la France ;
 
-- total des acceptations en France couvrant les catégories 20 à 31 ;
+-total des acceptations en France couvrant les catégories 20 à 31 ;
 
-- total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ;
+-total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ;
 
-- total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
+-total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
 
 TABLEAU A
 
@@ -482,25 +482,25 @@ ANNÉE DE RATTACHEMENT
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -656,7 +656,7 @@ XXXXX
 
 (1) Montant égal au montant inscrit en ligne 5 de la colonne précédente.
 
-(2) 1 + 2 + 3 + 4 - 5.
+(2) 1 + 2 + 3 + 4-5.
 
 |
 
@@ -692,33 +692,33 @@ Nombre de risques à la clôture de l'exercice
 
 |
 
-(1) Le "risque" est ici l'indicateur de volume d'activité en opérations directes, autre que le nombre de bulletins d'adhésion à un règlement ou de contrats, le plus significatif possible, par exemple en dommages corporels : le nombre de têtes assurées. L'institution ou l'union précise l'indicateur retenu.
+(1) Le " risque " est ici l'indicateur de volume d'activité en opérations directes, autre que le nombre de bulletins d'adhésion à un règlement ou de contrats, le plus significatif possible, par exemple en dommages corporels : le nombre de têtes assurées.L'institution ou l'union précise l'indicateur retenu.
 
 TABLEAU C
 
-Coût moyen et rapport s/c par année de survenance des sinistres
+Coût moyen et rapport s / c par année de survenance des sinistres
 
 ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -840,7 +840,7 @@ XXXXX
 
 |
 
-8. Rapport s/c (en %)
+8. Rapport s / c (en %)
 
 |
 
@@ -870,35 +870,35 @@ ETAT C 11
 
 SINISTRES PAR ANNEE DE SURVENANCE.
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs sinistres, par année de survenance, pour chacune des catégories, sous-catégories ou totalisations d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-10-17 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées uniquement pour les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 11.
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs sinistres, par année de survenance, pour chacune des catégories, sous-catégories ou totalisations d'opérations suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-10-17 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées uniquement pour les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 11.
 
 a) Opérations directes souscrites en France :
 
-- dommages corporels : opérations individuelles, ensemble (catégorie 20) ;
+-dommages corporels : opérations individuelles, ensemble (catégorie 20) ;
 
-- dommages corporels : opérations individuelles, garanties frais de soins (sous-catégorie 201) ;
+-dommages corporels : opérations individuelles, garanties frais de soins (sous-catégorie 201) ;
 
-- dommages corporels : opérations individuelles, autres garanties (sous-catégorie 202) ;
+-dommages corporels : opérations individuelles, autres garanties (sous-catégorie 202) ;
 
-- dommages corporels : opérations collectives, ensemble (catégorie 21) ;
+-dommages corporels : opérations collectives, ensemble (catégorie 21) ;
 
-- dommages corporels : opérations collectives, garanties frais de soins (sous-catégories 211 et 213) ;
+-dommages corporels : opérations collectives, garanties frais de soins (sous-catégories 211 et 213) ;
 
-- dommages corporels : opérations collectives, autres garanties (sous-catégories 212 et 214) ;
+-dommages corporels : opérations collectives, autres garanties (sous-catégories 212 et 214) ;
 
-- chômage (catégorie 31) ;
+-chômage (catégorie 31) ;
 
-- total des opérations directes souscrites en France (catégories 20 à 31) ;
+-total des opérations directes souscrites en France (catégories 20 à 31) ;
 
 b) Autres opérations :
 
-- total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ;
+-total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ;
 
-- total des acceptations en France couvrant les catégories 20 à 31 ;
+-total des acceptations en France couvrant les catégories 20 à 31 ;
 
-- total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ;
+-total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ;
 
-- total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
+-total hors Union européenne : opérations directes et acceptées des catégories 20 à 31.
 
 TABLEAU A
 
@@ -908,25 +908,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1018,7 +1018,7 @@ XXXXX
 
 |
 
-5. Total (1 - 2 + 3 + 4)
+5. Total (1-2 + 3 + 4)
 
 |
 
@@ -1058,7 +1058,7 @@ XXXXX
 
 |
 
-(1) 1 - 2 + 3 de l'année précédente.
+(1) 1-2 + 3 de l'année précédente.
 
 (2) Cette ligne doit comprendre l'estimation du nombre de sinistres survenus mais non déclarés.
 
@@ -1072,25 +1072,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1244,25 +1244,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1380,25 +1380,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1514,13 +1514,13 @@ ETAT C 12
 
 SINISTRES ET RESULTATS PAR ANNEE DE SOUSCRIPTION.
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations, sinistres et résultats, par année de souscription des contrats, pour chacune des deux totalisations d'opérations ci-après. Les institutions et les unions agréés pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées pour pratiquer les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 12.
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations, sinistres et résultats, par année de souscription des contrats, pour chacune des deux totalisations d'opérations ci-après. Les institutions et les unions agréés pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et celles agréées pour pratiquer les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce même état C 12.
 
 Opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31 :
 
-- total des opérations directes souscrites en France des catégories 20 à 31 ;
+-total des opérations directes souscrites en France des catégories 20 à 31 ;
 
-- total des autres opérations des catégories 20 à 31, y compris opérations assimilées en application du dernier alinéa de l'article A. 931-11-17.
+-total des autres opérations des catégories 20 à 31, y compris opérations assimilées en application du dernier alinéa de l'article A. 931-11-17.
 
 TABLEAU A
 
@@ -1530,25 +1530,25 @@ ANNÉE DE SOUSCRIPTION
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1686,7 +1686,7 @@ TOTAL
 
 |
 
-8. Sous-total (lignes 1 + 2 - 3 + 4 + 5 - 6 + 7)
+8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7)
 
 |
 
@@ -1822,7 +1822,7 @@ XXXXX
 
 |
 
-15. Sous-total (lignes 9 + 10 - 11 + 12 + 13 + 14)
+15. Sous-total (lignes 9 + 10-11 + 12 + 13 + 14)
 
 |
 
@@ -1848,29 +1848,29 @@ XXXXX
 
 TABLEAU B
 
-Rapport s/c par année de souscription
+Rapport s / c par année de souscription
 
 ANNÉE DE SOUSCRIPTION
 
 |
 
-(N - 5)
+(N-5)
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -1978,7 +1978,7 @@ XXXXX
 
 |
 
-7. Coût net/cotisations (en %) (4)
+7. Coût net / cotisations (en %) (4)
 
 |
 
@@ -2000,7 +2000,7 @@ XXXXX
 
 (3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de l'estimation des cotisations à émettre, nette des cotisations à annuler.
 
-(4) (Ligne 4 - ligne 5)/ligne 6.
+(4) (Ligne 4-ligne 5) / ligne 6.
 
 |
 
@@ -2018,25 +2018,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -2130,25 +2130,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -2280,25 +2280,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -2392,25 +2392,25 @@ ANNÉE DE SURVENANCE
 
 |
 
-(N - 5)
+(N-5)
 
 et ant.
 
 |
 
-(N - 4)
+(N-4)
 
 |
 
-(N - 3)
+(N-3)
 
 |
 
-(N - 2)
+(N-2)
 
 |
 
-(N - 1)
+(N-1)
 
 |
 
@@ -2536,4 +2536,8 @@ XXXXX
 
 (2) Hors opérations pluriannuelles à cotisation unique ou non révisable et opérations assimilées en application du dernier alinéa de l'article A. 931-11-17.
 
-(3) Les "autres ressources" sont la contribution des cessionnaires et rétrocessionnaires dans les participants aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+(3) Les " autres ressources " sont la contribution des cessionnaires et rétrocessionnaires dans les participants aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+NOTA :
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
