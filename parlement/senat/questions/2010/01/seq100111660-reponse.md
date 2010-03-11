@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111660
+
+- Question : [SEQ100111660](seq100111660.md) — Reconnaissance du diplôme d'État d'éducateur spécialisé
+
+## Réponse
+
+*Enseignement supérieur, JO du 2010-03-11, page 617*
+
+Le diplôme d'État d'éducateur spécialisé (DEES) est un diplôme placé sous le timbre du ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville, et du ministère de l'enseignement supérieur et de la recherche. Le ministère chargé de l'enseignement supérieur intervient notamment dans l'organisation de l'examen et la délivrance du diplôme. Pour qualifier le niveau d'une formation ou d'un diplôme, quatre éléments peuvent être pris en compte : son positionnement dans le schéma LMD, son niveau d'enregistrement au répertoire national des certifications professionnelles (RNCP), le nombre de crédits validés et la durée du cursus. Dans de nombreux cas, il existe une correspondance entre ces quatre éléments. Toutefois, si une correspondance rigoureuse entre le niveau du diplôme, le niveau d'enregistrement au RNCP et le nombre de crédits a été jugée indispensable, la durée du cursus a, elle, été considérée comme n'ayant qu'une valeur indicative. Il peut en effet exister une discordance entre la reconnaissance d'un niveau et la durée d'obtention d'un diplôme. Il en va ainsi par exemple pour certains brevets de technicien supérieur dont le programme s'étend sur trois ans mais qui sont enregistrés au niveau 3 du RNCP et permettent la validation de 120 crédits. Concernant les formations du travail social, un comité de pilotage a été mis en place afin d'actualiser les orientations nationales et de préparer la première conférence nationale des formations sociales. Les travaux de ce comité prévoient d'examiner le positionnement des diplômes du travail social dans le contexte du schéma européen de l'enseignement supérieur.
