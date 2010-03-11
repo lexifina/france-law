@@ -130,9 +130,7 @@ Conjoint collaborateur, conjoint associé : justificatif d'identité faisant ét
 
 1. 3. Conditions d'exercice.
 
-1. 3. 1. Activité commerciale non sédentaire.
-
-Copie de l'attestation provisoire de déclaration d'activités non sédentaires délivrée par l'autorité préfectorale.
+1. 3. 1. (supprimé)
 
 1. 3. 2. Activité réglementée.
 
