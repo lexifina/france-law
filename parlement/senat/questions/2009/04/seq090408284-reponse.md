@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408284
+
+- Question : [SEQ090408284](seq090408284.md) — Dérogation à l'obligation de dépôt des disponibilités des collectivités territoriales
+
+## Réponse
+
+*Intérieur, JO du 2010-03-11, page 620*
+
+Les collectivités territoriales et leurs établissements publics sont tenus de déposer auprès de l'État la totalité de leurs disponibilités conformément à l'article 26-3 de la loi organique relative aux lois de finances. Ces dépôts ne donnent lieu à aucune rémunération. Cette obligation emporte deux conséquences : d'une part, l'interdiction pour les organismes concernés de se faire ouvrir un compte bancaire et, d'autre part, l'interdiction qui leur est faite d'effectuer des placements financiers, sauf dans les conditions prévues par les textes. Ces deux conséquences se justifient par le fait que l'État garantit aux collectivités les produits des impôts directs locaux votés et qu'il leur verse des avances mensuelles. Toutefois, les dispositions de l'article L. 1618-2 du code général des collectivités territoriales prévoient des dérogations à l'obligation de dépôt des fonds des organismes publics locaux auprès de l'Etat. Les possibilités de placements ont ainsi été élargies à de nouvelles catégories : compte à terme auprès de l'État, titres émis ou garantis explicitement par les États de l'Espace économique européen, parts ou actions d'organismes de placement collectif en valeurs mobilières (OPCVM) composés de ces titres. Aux termes de ces dispositions législatives, les placements financiers des collectivités locales sont soumis à des conditions d'origine des fonds strictes. Dans ce cadre, aucune provision constituée par une commune, quelle qu'en soit la cause, ne peut faire l'objet d'un placement. Il n'est pas prévu d'élargissement des conditions d'origine des fonds permettant d'être placés par des collectivités compte tenu du caractère déjà très favorable du dispositif d'ensemble actuel.
