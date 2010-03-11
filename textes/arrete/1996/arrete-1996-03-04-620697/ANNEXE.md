@@ -170,7 +170,7 @@ NF D 36-111
 
 |
 
-Abouts porte-caoutchouc et bouchons destinés à être montés sur certains appareils à usage domestique utilisant les combustibles gazeux distribués par réseaux et sur les robinets muraux à raccord mâle G 1 / 2 B.
+Abouts porte-caoutchouc et bouchons destinés à être montés sur certains appareils à usage domestique utilisant les combustibles gazeux distribués par réseaux et sur les robinets muraux à raccord mâle G 1/2 B.
 
 |
 
@@ -270,7 +270,7 @@ NF D 36-124
 
 |
 
-Raccords rapides avec obturation automatique destinés au raccordement externe par tuyaux flexibles des appareils utilisant les combustibles gazeux autres que les appareils de cuisson, lave-linge et sèche-linge domestiques.
+Raccords rapides avec obturation automatique destinés au raccordement externe par tuyaux flexibles des appareils utilisant les combustibles gazeux, autres que les appareils de cuisson, lave-linge et sèche-linge domestiques.
 
 |
 
@@ -310,7 +310,7 @@ XP D 36-126
 
 |
 
-Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels, notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux.
+Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux.
 
 |
 
@@ -324,13 +324,13 @@ Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, po
 
 |
 
-XP D 36-126 / A1
+XP D 36-126/A1
 
 (mars 2002)
 
 |
 
-Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux.
+Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels, notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux.
 
 |
 
@@ -354,7 +354,7 @@ NF EN 12864
 
 |
 
-Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg / h et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg/h et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélange.
 
 |
 
@@ -366,21 +366,19 @@ Détendeurs à réglage fixe, à pression de détente maximale inférieure ou é
 
 |
 
-A appliquer
-
-avec XP M 88-778
+A appliquer avec XP M 88-778
 
 |
 
-NF EN 12864 / A1
+NF EN 12864/A1
 
-(D 36-307 / A1)
+(D 36-307/A1)
 
 (mai 2004)
 
 |
 
-Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg / h et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg/h et leurs dispositifs de sécurités associés pour butane, propane ou leurs mélanges.
 
 |
 
@@ -394,15 +392,15 @@ Détendeurs à réglage fixe, à pression de détente maximale inférieure ou é
 
 |
 
-NF EN 12864 / A2
+NF EN 12864/A2
 
-(D 36-307 / A21)
+(D 36-307/A2)
 
 (décembre 2005)
 
 |
 
-Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg / h et leurs dispositifs de sécurités associés pour butane, propane ou leurs mélanges.
+Détendeurs à réglage fixe, à pression de détente maximale inférieure ou égale à 200 mbar, de débit inférieur ou égal à 4 kg/h et leurs dispositifs de sécurités associés pour butane, propane ou leurs mélanges.
 
 |
 
@@ -424,7 +422,7 @@ NF EN 13785
 
 |
 
-Détendeurs de débit inférieur ou égal à 100 kg / h, à pression de détente nominale maximale inférieure ou égale à 4 bar, autres que les détendeurs relevant de l'EN 12864, et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Détendeurs de débit inférieur ou égal à 100 kg/h, à pression de détente nominale maximale inférieure ou égale à 4 bar, autres que les détendeurs relevant de l'EN 12864, et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
 
 |
 
@@ -436,21 +434,19 @@ Détendeurs de débit inférieur ou égal à 100 kg / h, à pression de détente
 
 |
 
-A appliquer
-
-avec XP M 88-779
+A appliquer avec XP M 88-779
 
 |
 
-NF EN 13785 / A1
+NF EN 13785/A1
 
-(D 36-308 / A1)
+(D 36-308/A1)
 
 (décembre 2008)
 
 |
 
-Détendeurs de débit inférieur ou égal à 100 kg / h, à pression de détente nominale maximale inférieure ou égale à 4 bar, autres que les détendeurs relevant de l'EN 12864, et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Détendeurs de débit inférieur ou égal à 100 kg/h, à pression de détente nominale maximale inférieure ou égale à 4 bar, autres que les détendeurs relevant de l'EN 12864, et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
 
 |
 
@@ -462,9 +458,7 @@ Détendeurs de débit inférieur ou égal à 100 kg / h, à pression de détente
 
 |
 
-A appliquer
-
-avec XP M 88-779
+A appliquer avec XP M 88-779
 
 |
 
@@ -476,7 +470,7 @@ NF EN 13786
 
 |
 
-Inverseurs automatiques de débit inférieur ou égal à 100 kg / h, à pression de détente nominale maximale inférieure ou égale à 4 bar et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Inverseurs automatiques de débit inférieur ou égal à 100 kg/h, à pression de détente nominale maximale inférieure ou égale à 4 bar, et leurs dispositifs de sécurité associés, pour butane, propane ou leurs mélanges.
 
 |
 
@@ -488,21 +482,19 @@ Inverseurs automatiques de débit inférieur ou égal à 100 kg / h, à pression
 
 |
 
-A appliquer
-
-avec XP M 88-779
+A appliquer avec XP M 88-779
 
 |
 
-NF EN 13786 / A1
+NF EN 13786/A1
 
-(D 36-310 / A1)
+(D 36-310/A1)
 
 (décembre 2008)
 
 |
 
-Inverseurs automatiques de débit inférieur ou égal à 100 kg / h, à pression de détente nominale maximale inférieure ou égale à 4 bar et leurs dispositifs de sécurité associés pour butane, propane ou leurs mélanges.
+Inverseurs automatiques de débit inférieur ou égal à 100 kg/h, à pression de détente nominale maximale inférieure ou égale à 4 bar, et leurs dispositifs de sécurité associés, pour butane, propane ou leurs mélanges.
 
 |
 
@@ -514,19 +506,17 @@ Inverseurs automatiques de débit inférieur ou égal à 100 kg / h, à pression
 
 |
 
-A appliquer
-
-avec XP M 88-779
+A appliquer avec XP M 88-779
 
 |
 
-XP D 30-506
+XP D. 30-506
 
 (août 1999)
 
 |
 
-Appareils à combustion utilisant les combustibles gazeux non visés par la directive européenne 90 / 396 / CEE concernant les appareils, à gaz et non concernés par une norme spécifique. - Exigences essentielles de sécurité et utilisation rationnelle de l'énergie.
+Appareils à combustion utilisant les combustibles gazeux, non visés par la directive européenne 90/396/CEE concernant les appareils à gaz, et non concernés par une norme spécifique. - Exigences essentielles de sécurité et utilisation rationnelle de l'énergie.
 
 |
 
@@ -546,7 +536,7 @@ NF E 29-134
 
 |
 
-Déclencheurs de sécurité à robinet d'arrêt incorporé et à deux raccords union G 1 / 2 mâles pour appareils à usage domestique utilisant les combustibles gazeux distribués par réseaux.
+Déclencheurs de sécurité à robinet d'arrêt incorporé et à deux raccords union G 1/2 mâles pour appareils à usage domestique utilisant les combustibles gazeux distribués par réseaux.
 
 |
 
@@ -606,7 +596,7 @@ XP E 29-141
 
 |
 
-Robinetterie de gaz, moyenne pression. - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments. - Pression maximale de service de 5 bar.
+Robinetterie de gaz, moyenne pression. - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments - Pression maximale de service de 5 bar.
 
 |
 
@@ -666,7 +656,9 @@ NF E 29-532
 
 |
 
-Installations de gaz. - Raccords démontables à joints plats destinés à être installés sur les tuyauteries pour installations de gaz.
+Installations de gaz.
+
+Raccords démontables à joints plats destinés à être installés sur les tuyauteries pour installations de gaz.
 
 |
 
@@ -682,11 +674,13 @@ Installations de gaz. - Raccords démontables à joints plats destinés à être
 
 NF E 29-533
 
-(octobre 2005
+(octobre 2005)
 
 |
 
-Installations de gaz combustibles. - Exigences pour le choix des joints plats d'étanchéité utilisés dans les installations de gaz combustibles distribués en réseaux ou par récipients.
+Installations de gaz combustibles.
+
+Exigences pour le choix des joints plats d'étanchéité utilisés dans les installations de gaz combustibles distribués en réseaux ou par récipients.
 
 |
 
@@ -726,7 +720,7 @@ NF EN 751
 
 |
 
-Matériaux d'étanchéité pour raccords filetés en contact des gaz des 1re, 2e et 3e familles et de l'eau chaude.
+Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude.
 
 |
 
@@ -932,7 +926,7 @@ NF EN 1555-3
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE). - Partie 3 : raccords
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 3 : raccords
 
 |
 
@@ -946,7 +940,7 @@ Systèmes de canalisations en plastique pour la distribution de combustibles gaz
 
 |
 
-NF EN 1555-A / A1
+NF EN 1555-3/A1
 
 (octobre 2005)
 
@@ -1012,7 +1006,7 @@ NF T 54-969
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Accessoires électrosoudables. - Temps de sécurité du cycle de soudage.
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Accessoires électrosoudables - Temps de sécurité du cycle de soudage.
 
 |
 
@@ -1046,7 +1040,7 @@ Systèmes de canalisations en plastique pour la distribution de combustibles gaz
 
 |
 
-(1) Colonne 3 : cas des matériels d'un modèle en vente sur le marché français à la date de publication de l'arrêté d'homologation de la norme ou de l'arrêté fixant les dates de mise en application obligatoire de la norme. Cas des matériels pour lesquels à cette même date une procédure est en cours pour faire reconnaître leur conformité à la norme précédente en vigueur.
+(1) Colonne 3 : cas des matériels d'un modèle en vente sur le marché français à la date de publication de l'arrêté d'homologation de la norme ou de l'arrêté fixant les dates de mise en application obligatoire de la norme. Cas des matériels pour lesquels, à cette même date, une procédure est en cours pour faire reconnaître leur conformité à la norme précédente en vigueur.
 
 Colonne 4 : cas des matériels correspondant à des modèles non commercialisés sur le marché français à la date de publication de l'arrêté d'homologation de la norme ou de l'arrêté fixant les dates de mise en application obligatoire de la norme.
 
