@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080705085
+
+- Question : [SEQ080705085](seq080705085.md) — Application de la loi SRU sur le logement social
+
+## Réponse
+
+*Logement, JO du 2010-03-11, page 624*
+
+La ministre du logement et de la ville a rendu publics les résultats du deuxième bilan triennal de la loi SRU (solidarité et renouvellement urbains) 2005-2007 lors de sa conférence de presse du 2 juillet 2008. Le bilan est positif puisque 93 000 logements sociaux ont été réalisés sur la période triennale 2005-2007, pour un objectif de 63 000. Sur les 730 communes concernées, 330 n'ont pas atteint l'objectif défini à l'article L. 302-8 du code de la construction et de l'habitation (CCH). Le bilan commune par commune de l'application de l'article 55 de la loi SRU a fait l'objet d'une publication lors de la conférence de presse du 2 juillet 2008. Par instruction du 30 janvier 2008, la ministre du logement et de la ville a demandé aux préfets de département d'appliquer rigoureusement la procédure de constat de carence définie aux articles L. 302-9-1 et L. 302-9-1-1 du CCH pour les communes n'ayant pas réalisé la totalité de leur objectif. Les constats de carence ne sont pas dressés de façon systématique. La procédure de constat de carence prévoit en effet que le contexte local et les difficultés rencontrées par les communes soient examinés par les préfets et pris en compte dans la détermination de la carence. Par ailleurs, il est rappelé que les constats de carence ne sont pris par les préfets qu'après un échange contradictoire avec les maires des communes concernées et avis du comité régional de l'habitat compétent. Ces échanges ont eu lieu et 237 constats de carence ont été prononcés pour la deuxième période triennale, quand, sur la précédente période, seulement 144 communes étaient concernées.
