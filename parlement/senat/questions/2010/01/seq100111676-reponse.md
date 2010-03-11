@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111676
+
+- Question : [SEQ100111676](seq100111676.md) — Mandat sanitaire
+
+## Réponse
+
+*Alimentation, JO du 2010-03-11, page 594*
+
+Le mandat sanitaire est un acte administratif qui établit un lien fort entre le vétérinaire et l'État. Investi de ce mandat, le vétérinaire est au service de l'État et du bien public pour l'exécution de missions d'intérêt général telles que le dépistage des maladies animales réglementées et les opérations de lutte et d'éradication de ces maladies. Ces missions requièrent compétence technique mais aussi probité et indépendance de la part de leurs exécutants. Actuellement, un groupe de travail, piloté par la direction générale de l'alimentation et auquel participent les représentants des vétérinaires praticiens, analyse les possibilités d'une nouvelle définition et d'un nouveau contour de ce mandat sanitaire afin d'élargir le champ des missions confiées au vétérinaire sanitaire et de réviser les conditions d'octroi, d'exercice et de retrait du mandat sanitaire. De même, une réflexion portant sur l'acte vétérinaire et sur la possibilité de confier certains actes actuellement réservés aux vétérinaires à d'autres acteurs de la santé animale non vétérinaires est actuellement en cours, en concertation avec l'ensemble des professions concernées. Ces réflexions seront poursuivies au sein des états généraux du sanitaire avec la participation du même ensemble d'acteurs concernés. L'objectif principal consistera à trouver les solutions et les dispositifs aptes à la fois à maintenir le maillage vétérinaire sur l'ensemble du territoire, conférant ainsi un appui sanitaire de proximité robuste et performant, et à valoriser les compétences des éleveurs répondant, par leur formation et leurs pratiques, à un haut degré de maîtrise et de responsabilité dans la conduite de leur élevage.
