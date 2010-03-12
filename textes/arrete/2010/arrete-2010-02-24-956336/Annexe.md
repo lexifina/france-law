@@ -400,7 +400,7 @@ Français 1
 
 |
 
-3 heures
+3heures
 
 |
 
@@ -687,6 +687,32 @@ Sciences industrielles ou informatique
 |
 
 Epreuves orales et pratiques
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Mathématiques
 
@@ -1048,8 +1074,6 @@ Langue vivante facultative (c)
 
 |
 
-(c)
-
 |
 
 |
@@ -1180,9 +1204,9 @@ Travaux d'initiative personnelle encadrés
 
 |
 
-(a) Epreuve écrite non comptée à l'admissibilité et comptée à l'admission.
+(a) épreuve écrite non comptée a l'admissibilité et comptée à l'admission
 
-(b) les langues vivantes admises au concours sont l'allemand, l'anglais, l'arabe, l'espagnol, l'italien et le portugais.
+(b) les langues vivantes admises aux concours sont l'allemand, l'anglais, l'arabe, l'espagnol, l'italien et le portugais.
 
 Pour la filière ATS, supprimer l'arabe, l'italien et le portugais.
 
@@ -1190,12 +1214,8 @@ Pour la filière PT, supprimer le portugais.
 
 Pour la filière TSI, ajouter le russe et le chinois, supprimer le portugais.
 
-(c) Les langues vivantes facultatives admises au concours sont l'allemand, l'anglais, l'arabe, l'espagnol, l'italien et le portugais. La langue obligatoire et la langue facultative doivent être distinctes.
+(c) les langues vivantes facultatives admises au concours sont l'allemand, l'anglais, l'arabe, l'espagnol, l'italien et le portugais. La langue obligatoire et la langue facultative doivent être distinctes.
 
-Une des deux langues choisies doit obligatoirement être l'anglais. Seuls les points au-dessus de 10 sont pris en compte (coefficient 1).
+Une des deux langues choisies doit obligatoirement être l'anglais. Seuls les points au-dessus de 10 sont pris en compte (coefficient 1)
 
-|
-
-NOTA :
-
-Arrêté du 24 février 2010 art. 21 : L'abrogation de l'arrêté du 4 mai 2000 prend effet à compter de la session 2011.
+Pour la filière PT, ajouter le chinois.
