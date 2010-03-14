@@ -1,14 +1,14 @@
 # Article Annexe
 
-A N N E X E
-
 STATUTS DE L'AGENCE NATIONALE POUR L'INSERTION
 
 ET LA PROMOTION DES TRAVAILLEURS D'OUTRE-MER (ANT)
 
+(nouvelle dénomination : l'Agence de l'outre-mer pour la mobilité (LADOM)
+
 Article 1er
 
-Il est créé, dans le cadre de l'article 2 de la loi n° 46-860 du 30 avril 1946, une société d'Etat qui prend le nom d'« Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer » (ANT).
+Il est créé, dans le cadre de l'article 2 de la loi n° 46-860 du 30 avril 1946, une société d'Etat qui prend le nom d' Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer (ANT) (nouvelle dénomination l'Agence de l'outre-mer pour la mobilité LADOM).
 
 Article 2
 
