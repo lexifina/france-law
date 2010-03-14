@@ -1,6 +1,8 @@
 # Article Annexe
 
-Agrément pour l'année 2009
+LISTE DES LABORATOIRES D'ANALYSES DE TERRE
+
+Agrément pour l'année 2010
 
 NOM - SIGLE
 
@@ -68,11 +70,11 @@ azotés
 
 |
 
-Centre Scientifique Agricole Régional CESAR
+Centre scientifique agricole régional - CESAR
 
 |
 
-Les Soudanières, BP 200, 1250 CEYZERIAT
+Les Soudanières, BP 200, 1250 CEYZÉRIAT
 
 |
 
@@ -116,8 +118,6 @@ Route de l'Eglise, BP 19, 02400 CHÂTEAU-THIERRY Cedex
 
 |
 
-5
-
 |
 
 L D A R
@@ -148,11 +148,11 @@ L D A R
 
 |
 
-Laboratoire d'analyses des sols de la Chambre d'Agriculture de l'AUDE
+Laboratoire des sols
 
 |
 
-c/o ICV ZA de Sautès, 11800 TREBES
+c/o ICV, ZA de Sautès, 11800 TRÈBES
 
 |
 
@@ -190,7 +190,7 @@ LABGRISOL
 
 |
 
-Laboratoire Centre Atlantique-LCA
+Laboratoire Centre Atlantique - LCA
 
 |
 
@@ -202,8 +202,6 @@ Laboratoire Centre Atlantique-LCA
 
 |
 
-2
-
 |
 
 3
@@ -216,35 +214,7 @@ Laboratoire Centre Atlantique-LCA
 
 |
 
-Laboratoire Départemental d'Analyses 21-LDA 21
-
-|
-
-2 ter, rue Hoche, BP 678, 21017 DIJON Cedex
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-Laboratoire Départemental d'Analyses 22, LDA22
+Laboratoire départemental d'analyses 22 - LDA 22
 
 |
 
@@ -272,7 +242,7 @@ Laboratoire Départemental d'Analyses 22, LDA22
 
 |
 
-Laboratoire Départemental d'Analyses 23, LDA23
+Laboratoire départemental d'analyses 23 - LDA 23
 
 |
 
@@ -294,7 +264,7 @@ Laboratoire Départemental d'Analyses 23, LDA23
 
 |
 
-Laboratoire d'Analyses Agricoles TEYSSIER
+Laboratoire d'analyses agricoles TEYSSIER
 
 |
 
@@ -370,7 +340,7 @@ Laboratoire central, ZI de Lanrinou, 29206 LANDERNEAU
 
 |
 
-LABORATOIRE DEVELOPPEMENT MEDITERRANNEE
+LABORATOIRE DÉVELOPPEMENT MÉDITERRANNÉE
 
 |
 
@@ -418,11 +388,11 @@ LARA EUROPE ANALYSES
 
 |
 
-Laboratoire Départemental d'Analyses 32 Division agricole et viticole, LDA32
+Laboratoire départemental agricole et viticole - LDAV 32
 
 |
 
-Avenue de l'Armagnac, 32800 EAUZE
+Route Cazaubon, 32800 EAUZE
 
 |
 
@@ -440,11 +410,11 @@ Avenue de l'Armagnac, 32800 EAUZE
 
 |
 
-Laboratoire Centre Atlantique, LCA-Bordeaux
+Laboratoire Centre Atlantique, LCA - Bordeaux
 
 |
 
-39, rue Michel-Montaigne, BP 122, 33294 BLANQUEFORT
+39, rue Michel-de-Montaigne, BP 122, 33294 BLANQUEFORT
 
 |
 
@@ -466,7 +436,7 @@ Laboratoire Centre Atlantique, LCA-Bordeaux
 
 |
 
-CIRAD Centre de coopération Internationale en Recherche Agronomique pour le Développement
+CIRAD Centre de coopération internationale en recherche agronomique pour le développement
 
 |
 
@@ -484,15 +454,13 @@ CIRAD Centre de coopération Internationale en Recherche Agronomique pour le Dé
 
 |
 
-4
-
 |
 
 5
 
 |
 
-Laboratoire Départemental d'Analyses 35, LDA35
+Institut en santé agro-environnement - ISAE
 
 |
 
@@ -511,8 +479,6 @@ La Madeleine, route de Rennes, 35270 COMBOURG
 3
 
 |
-
-4
 
 |
 
@@ -548,7 +514,7 @@ Le Bas Champeigné Parçay-Meslay, BP 67357, 37073 TOURS Cedex 2
 
 |
 
-Laboratoire Départemental Agronomique et Œnologique
+Laboratoire départemental agronomique et œnologique
 
 |
 
@@ -602,7 +568,7 @@ GALYS SAS
 
 |
 
-TERRENA, ACTIVITE LABORATOIRE CENTRAL
+TERRENA ACTIVITE LABORATOIRE CENTRAL
 
 |
 
@@ -628,7 +594,7 @@ La Noelle, BP 199, 44155 ANCENIS Cedex
 
 |
 
-Institut Départemental d'Analyse et de Conseil, IDAC
+Institut départemental d'analyse et de conseil - IDAC
 
 |
 
@@ -656,11 +622,11 @@ Route de Gachet, BP 52703, 44327 NANTES Cedex 3
 
 |
 
-Chambre d'Agriculture du Loiret Laboratoire
+Chambre d'agriculture du Loiret Laboratoire
 
 |
 
-13, avenue des Droits-de-l'Homme, 45921 ORLEANS Cedex 9
+13, avenue des Droits-de-l'Homme, 45921 ORLÉANS Cedex 9
 
 |
 
@@ -682,7 +648,7 @@ Chambre d'Agriculture du Loiret Laboratoire
 
 |
 
-S.A.S. Laboratoire
+SAS Laboratoire
 
 |
 
@@ -710,11 +676,11 @@ S.A.S. Laboratoire
 
 |
 
-Laboratoire Agronomique de Normandie LANO
+Laboratoire agronomique de Normandie - LANO
 
 |
 
-Quartier du Bois-Ardent, 23, rue A.-Grandin, 50000 SAINT-LO Cedex
+Quartier du Bois-Ardent, 23, rue A.-Grandin, 50000 SAINT-LÔ Cedex
 
 |
 
@@ -736,7 +702,7 @@ Quartier du Bois-Ardent, 23, rue A.-Grandin, 50000 SAINT-LO Cedex
 
 |
 
-Laboratoire Chaîne d'Analyses Marne-Ardennes, CAMA
+Laboratoire chaîne d'analyses Marne-Ardennes - CAMA
 
 |
 
@@ -756,15 +722,13 @@ Centre de recherche agronomique 2, esplanade Roland-Garros, BP 205, 51100 REIMS
 
 |
 
-4
-
 |
 
 5
 
 |
 
-Laboratoire CAM, QUALIANE Coopérative des Agriculteurs de la Mayenne CAM
+Laboratoire QUALIANE Coopérative des agriculteurs de la Mayenne - CAM
 
 |
 
@@ -788,7 +752,7 @@ ZI Les Touches 120, boulevard Léon-Bollée, 53000 LAVAL
 
 |
 
-Laboratoire Vétérinaire Départemental 53
+Laboratoire départemental d'analyses de la Mayenne
 
 |
 
@@ -807,32 +771,6 @@ Laboratoire Vétérinaire Départemental 53
 |
 
 |
-
-|
-
-LABORATOIRE DEPARTEMENTAL D'ANALYSE DU MORBIHAN (LDA56)
-
-|
-
-3, rue Denis-Papin, BP 20080, 56892 SAINT-AVE Cedex
-
-|
-
-1
-
-|
-
-2
-
-|
-
-3
-
-|
-
-|
-
-5
 
 |
 
@@ -858,7 +796,7 @@ Département eaux et environnement, 1, rue du Professeur- Calmette, BP 249, 5901
 
 |
 
-Institut National de la Recherche Agronomique Laboratoire d'analyse des sols, INRA-ARRAS
+Institut national de la recherche agronomique - laboratoire d'analyse des sols - INRA-ARRAS
 
 |
 
@@ -886,7 +824,7 @@ Institut National de la Recherche Agronomique Laboratoire d'analyse des sols, IN
 
 |
 
-Compagnie d'Aménagement des Côteaux de Gascogne, CACG Laboratoire agronomique
+Compagnie d'aménagement des côteaux de Gascogne - CACG Laboratoire agronomique
 
 |
 
@@ -906,15 +844,13 @@ Chemin de l'Alette, BP 449, 65004 TARBES Cedex
 
 |
 
-4
-
 |
 
 5
 
 |
 
-Laboratoire d'Analyses Agricoles, MEDIT LABO
+Laboratoire d'analyses agricoles, MEDIT LABO
 
 |
 
@@ -936,7 +872,7 @@ Laboratoire d'Analyses Agricoles, MEDIT LABO
 
 |
 
-Société Alsacienne pour le Développement et l'Etude de la Fertilité SADEF
+Société alsacienne pour le développement et l'étude de la fertilité - SADEF
 
 |
 
@@ -964,7 +900,7 @@ Société Alsacienne pour le Développement et l'Etude de la Fertilité SADEF
 
 |
 
-Laboratoire de la Chambre d'Agriculture de la Sarthe, LARCA72
+Laboratoire de la chambre d'agriculture de la Sarthe, LARCA 72
 
 |
 
@@ -983,8 +919,6 @@ Laboratoire de la Chambre d'Agriculture de la Sarthe, LARCA72
 3
 
 |
-
-4
 
 |
 
@@ -1014,11 +948,11 @@ Laboratoire CAP Seine
 
 |
 
-Chambre Départementale d'Agriculture de la Haute-Vienne
+Chambre départementale d'agriculture de la Haute-Vienne
 
 |
 
-2, avenue Georges-Guingouin, CS 80912 PANAZOL, 87841 LIMOGES Cedex 1
+Avenue du Professeur-J.-de-Léobardy, 87000 LIMOGES
 
 |
 
@@ -1034,13 +968,11 @@ Chambre Départementale d'Agriculture de la Haute-Vienne
 
 |
 
-Service pédologique de Belgique
-
-Agro-Conseil S.A.
+Agro-Conseil SA
 
 |
 
-De Croylaan, 48, 3001 LEUVEN HEVERLEE, Belgique
+Service pédologique de Belgique, De Croylaan, 48, 3001 LEUVEN HEVERLEE, Belgique
 
 |
 
@@ -1056,7 +988,7 @@ De Croylaan, 48, 3001 LEUVEN HEVERLEE, Belgique
 
 |
 
-AGSOURCE HARRIS LABORATORIES
+AGSource HARRIS LABORATORIES
 
 |
 
