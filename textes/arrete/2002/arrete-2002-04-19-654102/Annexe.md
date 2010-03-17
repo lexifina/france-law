@@ -1,6 +1,6 @@
 # Article Annexe
 
-A. - Emplois en administration centrale
+A.-Emplois en administration centrale
 
 1° Secrétaire général des ministères chargés des affaires sociales
 
@@ -124,7 +124,7 @@ Directeur de l'animation de la recherche, des études et des statistiques
 
 |
 
-Directeur , adjoint au directeur général du travail (à compter du 22 août 2006)
+Directeur, adjoint au directeur général du travail (à compter du 22 août 2006)
 
 |
 
@@ -160,7 +160,7 @@ Directeur, adjoint au directeur général de la santé (à compter du 5 juillet 
 
 |
 
-Directeur de l'hospitalisation et de l'organisation des soins
+directeur général de l'offre de soins
 
 |
 
@@ -362,7 +362,7 @@ Chef de service, direction générale de l'action sociale
 
 |
 
-Chef de service, direction de l'hospitalisation et de l'organisation des soins
+Chef de service, direction générale de l'offre de soins
 
 |
 
@@ -582,7 +582,7 @@ Direction générale de l'action sociale : sous-directeur des politiques d'inser
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur de l'organisation des systèmes de soins
+direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins
 
 |
 
@@ -594,7 +594,7 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions paramédicales et des personnels hospitaliers
+direction générale de l'offre de soins : sous-directeur des professions paramédicales et des personnels hospitaliers
 
 |
 
@@ -774,7 +774,7 @@ Direction générale de l'action sociale : sous-directeur de l'animation territo
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur de la qualité et du fonctionnement des établissements de santé
+direction générale de l'offre de soins : sous-directeur de la qualité et du fonctionnement des établissements de santé
 
 |
 
@@ -786,7 +786,7 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007)
+direction générale de l'offre de soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007)
 
 |
 
@@ -798,7 +798,7 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des affaires générales
+direction générale de l'offre de soins : sous-directeur des affaires générales
 
 |
 
@@ -810,7 +810,7 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des affaires financières
+direction générale de l'offre de soins : sous-directeur des affaires financières
 
 |
 
@@ -946,7 +946,7 @@ Secrétaire général des ministères chargés des affaires sociales (à compter
 
 |
 
-Direction générale du travail ( à compter du 22 août 2006)
+Direction générale du travail (à compter du 22 août 2006)
 
 |
 
@@ -1030,7 +1030,7 @@ Direction de l'administration générale, du personnel et du budget (à compter 
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins (à compter du 12 août 2005)
+direction générale de l'offre de soins (à compter du 12 août 2005)
 
 |
 
@@ -1122,7 +1122,7 @@ Président de la mission interministérielle aux rapatriés
 
 |
 
-B. - Fonctions exercées en service déconcentré
+B.-Fonctions exercées en service déconcentré
 
 1° Postes de chef de service déconcentré
 
@@ -1166,7 +1166,7 @@ Midi-Pyrénées
 
 |
 
-Nord -Pas-de-Calais
+Nord-Pas-de-Calais
 
 |
 
