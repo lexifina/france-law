@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709827
+
+- Question : [SEQ090709827](seq090709827.md) — Pouvoirs de police du maire
+
+## Réponse
+
+*Intérieur, JO du 2010-03-18, page 697*
+
+L'article R. 2213-46 du code général des collectivités territoriales impose la surveillance de plusieurs opérations funéraires, parmi lesquelles figure la pose d'un bracelet d'identification sur le corps d'une personne décédée transporté avant mise en bière. Cette opération, vise à s'assurer de l'identité du défunt avant son transport vers une chambre funéraire ou son domicile. L'article L. 2213-14 du code général des collectivités territoriales, dans sa rédaction issue de l'article 4 de la loi n° 2008-1350 du 19 décembre 2008 relative à la législation funéraire, a précisé les opérations consécutives à un décès qui doivent faire l'objet d'une surveillance par les autorités de police, nationale ou municipale et qui donnent lieu au versement d'une vacation. Afin d'harmoniser des dispositions réglementaires antérieures à la loi de 2008 avec ce nouveau dispositif législatif, un projet de décret, en cours d'examen par le Conseil d'État, supprimera l'obligation de surveillance pour toutes les opérations qui ne sont pas visées par la loi. Toutefois, pour sécuriser le transport des corps avant mise en bière, le Gouvernement a fait le choix de conserver l'opération de pose du bracelet d'identification. Dans un objectif de simplification, cette opération sera réalisée par les opérateurs funéraires, excepté pour les décès survenus dans les établissements de santé, sociaux ou médico-sociaux, au sein desquels cette formalité sera confiée à un agent de l'établissement, sous la responsabilité de son directeur. La charge induite par la surveillance des opérations funéraires sera ainsi considérablement allégée, notamment pour les élus des petites communes disposant d'un hôpital ou d'une maison de retraite.
