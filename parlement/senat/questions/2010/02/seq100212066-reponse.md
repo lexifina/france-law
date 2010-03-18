@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100212066
+
+- Question : [SEQ100212066](seq100212066.md) — Retraites des non-salariés agricoles
+
+## Réponse
+
+*Alimentation, JO du 2010-03-18, page 675*
+
+En 2009, plus de 188 000 retraités du régime des non-salariés agricoles ont bénéficié d'une revalorisation de la retraite de base, mise en oeuvre par l'article 77 de la loi de financement de la sécurité sociale (LFSS) pour 2009. Le montant moyen des revalorisations servies a dépassé 30 euros mensuels. Le décret n° 2010-126 du 8 février 2010 relatif à la majoration des pensions de retraite de base des personnes non salariées des professions agricoles et modifiant le code rural, publié au Journal officiel du 10 février 2010, concrétise la volonté du Gouvernement de poursuivre l'amélioration de la situation des retraités agricoles les plus modestes. Ce texte apporte deux améliorations au dispositif de majoration des retraites de base du régime non salarié agricole mis en oeuvre en 2009 et attendues par l'ensemble des retraités agricoles. Il s'agit, d'une part du relèvement de 757,50 à 800 euros du plafond mensuel au-dessus duquel la majoration de pension ne peut être servie, et d'autre part, de la revalorisation des pensions des conjoints ayant opté pour le statut de collaborateur dans les délais impartis lors de la création du statut, et ayant procédé au rachat avant le 1er janvier 2009 de périodes de conjoint participant aux travaux antérieures au 1er janvier 1999 au titre de la retraite proportionnelle. En outre, une troisième mesure, adoptée dans le cadre de la LFSS pour 2010 permet désormais de reverser au conjoint survivant d'un chef d'exploitation ou d'entreprise agricole 54 % des points de retraite complémentaire obligatoire (RCO) attribués à titre gratuit à ce dernier. Cette mesure est applicable depuis le 1er janvier 2010.
