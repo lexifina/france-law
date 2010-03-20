@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : fraiseur(se) d'outillages en commande numérique.
+Titre professionnel : fraiseur (se) d'outillages en commande numérique.
 
 Niveau : V.
 
@@ -14,27 +12,27 @@ Code NSF : 251 u.
 
 Résumé du référentiel d'emploi
 
-Le (la) fraiseur(se) d'outillages en commande numérique prépare, programme, règle et conduit des fraiseuses à commande numérique afin de réaliser des éléments d'outillages utilisés pour la mise en forme de matériaux par moulage, estampage et emboutissage.
+Le fraiseur d'outillages en commande numérique prépare, programme, règle et conduit des fraiseuses à commande numérique pour réaliser des éléments d'outillages utilisés pour la mise en forme de matériaux par moulage, estampage et emboutissage.
 
 Ces outillages sont réalisés à l'unité, à partir d'un dossier d'outillage, en respectant les normes de productivité et de qualité.
 
-Le (la) fraiseur(se) d'outillages en commande numérique exerce en relative autonomie sur différents types de machines-outils :
+Le fraiseur d'outillages en commande numérique exerce en relative autonomie sur différents types de machines-outils :
 
-- sur fraiseuse conventionnelle, il (elle) définit lui (elle)-même son processus d'usinage, règle sa machine et réalise sa pièce conformément au plan ;
+-sur fraiseuse conventionnelle, il définit lui-même son processus d'usinage, règle sa machine et réalise sa pièce conformément au plan ;
 
-- sur fraiseuse à commande numérique, il (elle) élabore le programme d'usinage sur le directeur de commande, définit les paramètres d'usinage, règle sa machine et conduit l'usinage de la pièce ;
+-sur fraiseuse à commande numérique, il élabore le programme d'usinage sur le directeur de commande, définit les paramètres d'usinage, règle sa machine et conduit l'usinage de la pièce ;
 
-- sur un système de fabrication assistée par ordinateur (FAO), il (elle) définit les trajectoires d'outils, établit le programme et les différents paramètres de coupe en vue de piloter une fraiseuse à commande numérique ;
+-sur un système de fabrication assistée par ordinateur (FAO), il définit les trajectoires d'outils, établit le programme et les différents paramètres de coupe en vue de piloter une fraiseuse à commande numérique ;
 
-- sur machine à mesurer tridimensionnelle, il (elle) contrôle les formes 3D (3 dimensions) des pièces qu'il (elle) a fabriquées, à partir d'une gamme de contrôle fournie ;
+-sur machine à mesurer tridimensionnelle, il contrôle les formes 3D (3 dimensions) des pièces qu'il a fabriquées, à partir d'une gamme de contrôle fournie ;
 
-- sur sa machine, il (elle) effectue des opérations d'entretien simples et de courte durée.
+-sur sa machine, il effectue des opérations d'entretien simples et de courte durée.
 
-A partir de ses propositions d'amélioration, il (elle) contribue à une démarche de progrès.
+A partir de ses propositions d'amélioration, il contribue à une démarche de progrès.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes
 
-des composantes de la certification
+de la certification
 
 1. Réaliser l'ébauche d'éléments d'outillages
 
@@ -64,33 +62,17 @@ Programmer des parcours d'outils en deux dimensions pour le fraisage d'élément
 
 Elaborer des programmes de fraisage, à l'aide de systèmes de fabrication assistée par ordinateur, pour réaliser des formes sur des éléments d'outillages.
 
-Certificat complémentaire de spécialisation (CCS)
-
-Réaliser des usinages sur machines
-
-à électroérosion par fil et par enfonçage
-
-Régler des machines d'électroérosion par enfonçage à commande manuelle pour réaliser des éléments d'outillages.
-
-Programmer des machines d'électroérosion par enfonçage à commande numérique.
-
-Programmer et conduire, sur machines d'électroérosion à fil, le découpage de plaques selon des contours géométriques simples.
-
-Effectuer l'usinage de formes sur une machine d'électroérosion filaire en optimisant les paramètres de réglage.
-
-Réaliser la programmation de machines d'électroérosion filaire avec un système de conception et de fabrication assisté par ordinateur.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
 Ateliers spécialisés dans la fabrication d'outillages pour les entreprises de transformation des matières plastiques et des alliages légers. Les activités du mouliste portent sur l'usinage et l'ajustage des pièces constitutives de l'outillage, le montage et la mise au point des moules.
 
-Ateliers de maintenance des outillages, associés aux ateliers de production. Les activités portent sur l'entretien, la réparation et la modification des moules.
+Ateliers de maintenance des outillages, associés aux ateliers de production : les activités portent sur l'entretien, la réparation et la modification des moules.
 
 Code ROME :
 
-44121 - Opérateur régleur sur machines-outils.
+H2903-Conduite d'équipement d'usinage.
 
 Réglementation de l'activité :
 
@@ -102,8 +84,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
