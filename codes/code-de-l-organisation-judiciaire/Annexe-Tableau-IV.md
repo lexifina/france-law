@@ -1360,10 +1360,6 @@ Cantons de Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton, Bordea
 
 |
 
-[La Réole |
-
-Cantons de La Réole, Monségur, Pellegrue, Saint-Macaire, Sauveterre-de-Guyenne et Targon. (3)] |
-
 [Lesparre-Médoc
 
 |
@@ -1433,10 +1429,6 @@ Saint-Amand-MontrondCantons |
 de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
 
 |
-
-[SancerreCantons |
-
-d'Argent-sur-Sauldre, Aubigny-sur-Nère, Henrichemont, La Chapelle-d'Angillon, Léré, Sancergues, Sancerre et Vailly-sur-Sauldre. (3)] |
 
 [Vierzon
 
@@ -1570,11 +1562,9 @@ Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévi�
 
 |
 
-[Caen
+[CaenCantons |
 
-|
-
-Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5e canton, Isigny-sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage. (4)]
+de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-l'Éventé, Creully, Douvres-la-Délivrande, Évrecy, Falaise-Nord, Falaise-Sud, Hérouville-Saint-Clair Caen 5e canton, Isigny-sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage. (4)]
 
 |
 
@@ -2242,11 +2232,9 @@ Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon
 
 |
 
-[Le Creusot
+[Le CreusotCantons |
 
-|
-
-Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
+d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
 
 |
 
@@ -5492,14 +5480,6 @@ Cantons de Chantelle, Ébreuil, Escurolles, Gannat et Saint-Pourçain-sur-Sioule
 
 |
 
-[Moulins (6)]
-
-|
-
-Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet, Lurcy-Lévis, Moulins-Ouest, Moulins-Sud, Neuilly-le-Réal, Souvigny et Yzeure.
-
-|
-
 [Vichy
 
 |
@@ -5528,7 +5508,7 @@ Cantons de Cérilly, Commentry, Domérat-Montluçon-Nord-Ouest, Hérisson, Hurie
 
 |
 
-[Moulins (5)]
+[Moulins]
 
 |
 
@@ -6108,11 +6088,13 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban
+Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
-2e canton, Montauban 3e canton, Montauban 4e canton,
+canton, Montauban 3ème canton, Montauban 4e canton,
 
-Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)
+Montauban 5e canton, Montauban 6e canton, Montpezat-
+
+de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 |
 
@@ -6537,7 +6519,3 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (13) applicable jusqu'au 30 juin 2009.
 
 (14) applicable à compter du 1er juillet 2009.
-
-NOTA :
-
-Par décision n° 322407 du 19 février 2010, le Conseil d'Etat a annulé le décret n° 2008-1482 du 22 décembre 2008 en tant qu'il supprime le tribunal d'instance de Montauban.
