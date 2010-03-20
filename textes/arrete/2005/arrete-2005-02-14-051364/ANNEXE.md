@@ -4,93 +4,101 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) de laboratoire d'industrialisation de la chimie.
+Titre professionnel : technicien (ne) supérieur (e) de laboratoire de chimie (ex-technicien (ne) supérieur (e) de laboratoire d'industrialisation de la chimie).
 
 Niveau : III.
 
-Code NSF : 222 s.
+Code NSF : 222 s.-Transformations chimiques et apparentées.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) supérieur(e) de laboratoire d'industrialisation de la chimie assure la qualité, la fiabilité et la sécurité des essais conduits au laboratoire dans un esprit de contrôle et d'industrialisation. Pour ce faire, il (elle) procède à des mesures ou à des analyses selon des procédés physiques ou chimiques de produits divers (chimiques, pharmaceutiques, agroalimentaires...).
+Le technicien supérieur de laboratoire de chimie établit l'interface, tant verticale qu'horizontale, entre différents services de l'entreprise (production, analyses, R & D, qualité, maintenance...)
 
-C'est lui (elle) qui établit l'interface, tant verticale qu'horizontale, entre différents services de l'entreprise (production, analyses, recherche et développement, qualité, maintenance...).
+Il assure la qualité, la fiabilité et la sécurité des essais conduits au laboratoire dans un esprit de contrôle et d'industrialisation.
 
-Le (la) technicien(ne) supérieur(e) de laboratoire d'industrialisation de la chimie participe à la mise au point de méthodes d'analyse ou de préparation de produits nouveaux ou déjà existants.
+Il procède à des mesures ou à des analyses selon des procédés physiques ou chimiques de produits divers (chimiques, pharmaceutiques, agroalimentaires...).
 
-Il (elle) effectue les bilans des analyses et les interprétations de ses résultats, procède aux contrôles des qualités physico-chimiques des matières premières et des produits aux divers stades de la production et veille à leur conformité par rapport à des normes. Des appareils de mesure à conduite manuelle ou automatisée, qu'il (elle) étalonne et dont il (elle) effectue la première maintenance, servent à ces analyses.
+Il participe à la mise au point de méthodes d'analyse et à leur validation.
 
-Le (la) technicien(ne) supérieur(e) peut, dans certains cas, participer à la mise en place d'installations expérimentales et effectuer des recherches documentaires qui peuvent être en langue anglaise.
+Il participe à la préparation de produits nouveaux ou déjà existants.
 
-Capacités attestées et descriptif des composantes
+Il effectue les bilans des analyses et les interprétations de ses résultats.
 
-de la certification
+Il procède aux contrôles des qualités physico-chimiques des matières premières et des produits aux divers stades de la production et veille à leur conformité par rapport à des normes.
 
-1. Conduire en laboratoire des analyses physico-chimiques
+Il utilise des appareils de mesure à conduite manuelle ou automatisée, qu'il étalonne et dont il effectue la première maintenance.
 
-sur un échantillon
+Il peut dans certains cas participer à la mise en place d'installations expérimentales et effectuer des recherches documentaires qui peuvent être en langue anglaise.
 
-Réaliser une analyse en mettant en oeuvre les différentes techniques analytiques de titrage volumétriques et électrochimiques (acide-base, oxydoréduction, complexométrie, conductimétrie, potentiométrie, etc.) dans le cadre d'un laboratoire de chimie.
+Capacités attestées et descriptif
 
-Caractériser un échantillon liquide ou solide en mettant en oeuvre les différentes techniques spectrométriques d'analyse (spectroscopie ultraviolet-visible, infrarouge, d'absorption atomique...) dans le cadre d'un laboratoire de chimie.
+des composantes de la certification
 
-Déterminer qualitativement et/ou quantitativement la composition d'un mélange en mettant en oeuvre les différentes techniques chromatographiques séparatives (en couche mince, liquide à haute performance, en phase gazeuse) dans le cadre d'un laboratoire de physique-chimie.
+1. Conduire en laboratoire des analyses
 
-Traiter le résultat de la mesure physico-chimique afin de le rendre exploitable et en critiquer la pertinence.
+physico-chimiques sur un échantillon
 
-Rédiger des comptes rendus sur les analyses effectuées, les méthodes appliquées et les résultats obtenus en utilisant des logiciels informatiques (traitement de texte, tableur, base de données...) dans le cadre de tout type de laboratoire.
+Réaliser une analyse en mettant en œuvre les différentes techniques analytiques de titrage volumétriques et électrochimiques.
 
-Rechercher, exploiter et/ou appliquer les données de documents techniques en langue française ou anglaise relatifs au domaine de la physique-chimie.
+Caractériser un échantillon liquide ou solide en mettant en œuvre les différentes techniques spectrométriques d'analyse.
 
-2. Elaborer, préparer et développer des nouveaux produits
+Déterminer qualitativement et quantitativement la composition d'un mélange en mettant en œuvre les différentes techniques chromatographiques.
 
-dans un laboratoire de chimie
+Traiter le résultat de la mesure physico-chimique afin de le rendre exploitable et en évaluer la pertinence.
 
-Réaliser en laboratoire la synthèse d'un produit organique ou minéral.
+Rédiger des comptes rendus sur les analyses effectuées, les méthodes appliquées et les résultats obtenus en utilisant des logiciels informatiques.
 
-Séparer les constituants liquides d'un mélange et/ou purifier un produit en mettant en oeuvre les différentes méthodes de distillation (discontinue, sous pression réduite, avec entraînement à la vapeur) dans le cadre d'un laboratoire de physique-chimie.
+Rechercher, exploiter et appliquer les données de documents techniques relatifs au domaine de la physique-chimie.
 
-Isoler un constituant d'un mélange en mettant en oeuvre les différentes méthodes d'extraction (liquide-liquide, solide-liquide) dans le cadre d'un laboratoire de chimie.
+2. Elaborer, préparer et développer
 
-Purifier et/ou séparer les constituants solides d'un mélange en mettant en oeuvre une cristallisation et une recristallisation dans le cadre d'un laboratoire de physique-chimie.
+des produits dans un laboratoire de chimie
 
-Isoler un solide ou un filtrat à partir d'un mélange hétérogène en mettant en oeuvre une séparation solide/liquide dans le cadre d'un laboratoire de physique-chimie.
+Réaliser la synthèse d'un produit organique ou minéral.
+
+Séparer les constituants liquides d'un mélange et purifier un produit en mettant en œuvre les différentes méthodes de distillation.
+
+Extraire un constituant d'un mélange en mettant en œuvre une méthode appropriée.
+
+Purifier et séparer les constituants solides d'un mélange en mettant en œuvre une cristallisation et une recristallisation.
+
+Isoler un solide ou un filtrat à partir d'un mélange hétérogène en mettant en œuvre une séparation solide / liquide.
 
 Caractériser des produits en comparant leurs données physico-chimiques avec des références.
 
-Exploiter les résultats de la synthèse effectuée en laboratoire de chimie et en réaliser le compte rendu.
+Exploiter les résultats de la synthèse et en réaliser le compte rendu.
 
-Rechercher, exploiter et/ou appliquer les données de documents techniques en langue française ou anglaise relatifs au domaine de la physique-chimie.
+Rechercher, exploiter et appliquer les données de documents techniques relatifs au domaine de la physique-chimie.
 
-3. Procéder à l'industrialisation de produits
+3. Prendre en charge des étapes de l'industrialisation
 
-dans le domaine de la chimie
+de produits dans le domaine de la chimie
 
-Participer au programme d'essais d'une production chimique en ligne de fabrication ou en atelier pilote à partir d'un cahier des charges (résultats opératoires du laboratoire, données bibliographiques).
+Participer au programme d'essais en ligne de fabrication ou en atelier pilote à partir d'un cahier des charges.
 
-Réaliser des essais sur des équipements de l'industrie chimique en grandeur pilote ou réelle en faisant varier les paramètres de fabrication et les réglages.
+Réaliser des essais sur des équipements en grandeur pilote ou réelle en faisant varier les paramètres de fabrication et les réglages.
 
-Exploiter les résultats d'essais d'industrialisation (bilans matière et énergie par exemple) dans l'industrie chimique et en rédiger le compte rendu.
+Exploiter des résultats d'essais d'industrialisation et en rédiger le compte rendu.
 
-Rechercher, exploiter et/ou appliquer les données de documents techniques en langue française ou anglaise relatifs au domaine de la physique-chimie.
+Rechercher, exploiter et appliquer les données de documents techniques relatifs au domaine de la physique-chimie.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi accessibles
 
-accessibles par le détenteur du titre
+par le détenteur du titre
 
-L'emploi s'exerce principalement dans des laboratoires de fabrication, de contrôle ou d'analyse et de recherche et développement dans des secteurs aussi variés que la chimie, la pétrochimie, l'agroalimentaire, la pharmacie, la cosmétique, l'énergie, l'environnement, les matériaux, la plasturgie...
+L'emploi s'exerce principalement dans des entreprises se situant majoritairement dans des grands pôles comme la chimie appliquée à la pharmacie, la pétrochimie, l'agrochimie, l'énergie, mais également dans les prestations de services notamment celles liées aux analyses environnementales, aux transports...
+
+Les TSLC peuvent travailler dans des laboratoires de fabrication, de contrôle qualité, d'analyses ou de recherche et développement (en analyses ou procédés), mais également assurer un rôle de transfert auprès des unités pilote.
 
 Codes ROME :
 
-52233 - Technicien(ne) en application industrielle des industries de process.
+H1404-Intervention technique en méthodes et industrialisation.
 
-52141 - Technicien(ne) de laboratoire de recherche des industries de process.
+H1210-Intervention technique en études, recherche et développement.
 
-52232 - Technicien(ne) de laboratoire de contrôle de fabrication des industries de process.
+H1503-Intervention technique en laboratoire d'analyse industrielle.
 
-52235 - Technicien(ne) d'analyses industrielles des industries de process.
-
-52234 - Technicien(ne) en environnement des industries de process.
+H1303-Intervention technique en hygiène sécurité environnement-HSE industriel.
 
 Réglementation de l'activité :
 
@@ -102,8 +110,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002.
+NOTA :
+
+Arrêté du 15 février 2010 art 2 : L'arrêté du 14 février 2005 est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur du présent arrêté.
