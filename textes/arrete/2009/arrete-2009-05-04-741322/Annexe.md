@@ -1,6 +1,6 @@
 # Article Annexe
 
-CONVENTION CONCLUE ENTRE L'ÉTAT ET LES ÉTABLISSEMENTS DE CRÉDIT RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS, DÉNOMMÉE L"'ÉCO-PRÊT À TAUX ZÉRO"
+CONVENTION CONCLUE ENTRE L'ÉTAT ET LES ÉTABLISSEMENTS DE CRÉDIT RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS, DÉNOMMÉE L'"ÉCO-PRÊT À TAUX ZÉRO"
 
 Entre :
 
@@ -72,7 +72,7 @@ Article 5
 
 La société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation vérifie que l'instruction des demandes d'avance remboursable ne portant pas intérêt a été faite dans le respect de la réglementation.
 
-A cette fin, l'établissement de crédit communique toute pièce utile audit organisme et au ministre chargé de l'économie-direction générale du Trésor et de la politique économique-sur leur demande écrite, dans un délai maximal de quinze jours.
+A cette fin, l'établissement de crédit communique toute pièce utile audit organisme et au ministre chargé de l'économie- direction générale du Trésor-sur leur demande écrite, dans un délai maximal de quinze jours.
 
 Article 6
 
@@ -86,7 +86,7 @@ Le taux d'intérêt conventionnel nominal de l'avance est zéro. Le TEG de l'ava
 
 Article 8
 
-Le non-respect par l'établissement de crédit des stipulations de la présente convention et de celles contenues dans la convention passée avec la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation entraîne des sanctions prononcées par le ministre chargé de l'économie-direction générale du Trésor et de la politique économique.L'établissement de crédit s'engage à faciliter le déroulement des contrôles effectués en son sein par des agents mandatés par la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation ou par le ministre chargé de l'économie.L'établissement de crédit présente à première réquisition les pièces dont ces agents ont besoin pour l'exercice de leur mission. Les contrôles effectués par ces agents sont inopinés et obéissent au principe du contradictoire.
+Le non-respect par l'établissement de crédit des stipulations de la présente convention et de celles contenues dans la convention passée avec la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation entraîne des sanctions prononcées par le ministre chargé de l'économie- direction générale du Trésor.L'établissement de crédit s'engage à faciliter le déroulement des contrôles effectués en son sein par des agents mandatés par la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation ou par le ministre chargé de l'économie.L'établissement de crédit présente à première réquisition les pièces dont ces agents ont besoin pour l'exercice de leur mission. Les contrôles effectués par ces agents sont inopinés et obéissent au principe du contradictoire.
 
 Les sanctions applicables sont :
 
@@ -119,7 +119,5 @@ de l'industrie et de l'emploi
 et par délégation :
 
 Le directeur général du Trésor
-
-et de la politique économique
 
 Pour l'établissement de crédit :
