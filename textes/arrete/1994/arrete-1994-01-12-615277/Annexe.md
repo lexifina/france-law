@@ -2,6 +2,8 @@
 
 Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du code des pensions militaires d'invaladité et des victimes de la guerre
 
+.
+
 Etat ou territoires concernés
 
 |
@@ -11,6 +13,10 @@ Début de période
 |
 
 Fin de période
+
+|
+
+Afghanistan
 
 |
 
@@ -24,7 +30,27 @@ Opérations Héraclès, Pamir et Epidote
 
 |
 
-2 octobre 2009
+2 octobre 2011
+
+|
+
+Bosnie-Herzégovine
+
+|
+
+Dans le cadre de l'opération menée au titre la mission de police de l'Union européenne (MPUE) en Bosnie-Herzégovine
+
+|
+
+1er janvier 2003
+
+|
+
+31 décembre 2009
+
+|
+
+Cambodge
 
 |
 
@@ -36,7 +62,11 @@ Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.
 
 |
 
-En cours
+31 octobre 1994
+
+|
+
+Cameroun
 
 |
 
@@ -46,27 +76,29 @@ Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyon
 
 1re période
 
+|
+
 17 décembre 1956
 
 |
-
-1re période
 
 31 décembre 1958
 
 |
 
-|
-
 2e période
+
+|
 
 1er juin 1959
 
 |
 
-2e période
-
 28 mars 1963
+
+|
+
+Congo
 
 |
 
@@ -82,7 +114,13 @@ Territoire du Congo et pays limitrophes
 
 |
 
-Côte d'ivoire, ses approches maritimes et le territoire du Togo, opération Licorne et Calao (ONUCI)
+Côte d'Ivoire
+
+|
+
+Côte d'Ivoire, ses approches maritimes
+
+Opérations Licorne et Calao (ONUCI)
 
 |
 
@@ -90,7 +128,7 @@ Côte d'ivoire, ses approches maritimes et le territoire du Togo, opération Lic
 
 |
 
-18 septembre 2008
+17 septembre 2010
 
 |
 
@@ -102,15 +140,11 @@ Gabon
 
 |
 
-1er juin 2009
+1er juin 2011
 
 |
 
 Golfe Persique et golfe d'Oman
-
-|
-
-|
 
 |
 
@@ -126,7 +160,9 @@ Opérations maritimes
 
 |
 
-Opérations militaires |
+Opérations militaires
+
+|
 
 30 juillet 1990
 
@@ -140,10 +176,6 @@ Irak
 
 |
 
-|
-
-|
-
 Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).
 
 |
@@ -151,6 +183,20 @@ Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération L
 A compter du 1er avril 1991 et jusqu'à cessation des hostilités
 
 |
+
+Kosovo
+
+|
+
+Dans le cadre de l'opération menée au titre de la mission des Nations unies au Kosovo (MINUK)
+
+|
+
+10 juin 1999
+
+|
+
+9 juin 2009
 
 |
 
@@ -166,7 +212,9 @@ Liban
 
 |
 
-République du Liban et Isarël, et leurs eaux avoisinantes, opérations Daman (FINUL) et Baliste
+République du Liban et Israël, pays et leurs eaux avoisinantes
+
+Opérations Daman (FINUL) et Baliste
 
 |
 
@@ -174,7 +222,7 @@ République du Liban et Isarël, et leurs eaux avoisinantes, opérations Daman (
 
 |
 
-1er septembre 2008
+31 août 2010
 
 |
 
@@ -196,25 +244,23 @@ Mauritanie
 
 1re période :
 
+|
+
 1er janvier 1957
 
 |
-
-1re période :
 
 31 décembre 1959
 
 |
 
-|
-
 2e période
+
+|
 
 1er novembre 1977
 
 |
-
-2e période
 
 30 octobre 1980
 
@@ -240,51 +286,107 @@ Ouganda
 
 |
 
-1er juin 2009
+1er juin 2011
 
 |
 
-République centrafricaine, opération Boali
+République centrafricaine
 
 |
 
 1re période
+
+|
 
 20 septembre 1979
 
 |
 
-1re période
-
 19 septembre 1982
 
 |
 
-|
-
 2e période
+
+|
 
 18 mai 1996
 
 |
 
-2e période
-
 17 mai 1999
 
 |
 
-|
-
 3e période
+
+Opération Boali
+
+|
 
 3 décembre 2002
 
 |
 
-3e période
+2 décembre 2010
 
-2 décembre 2008
+|
+
+Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT)
+
+|
+
+|
+
+1re période
+
+|
+
+25 septembre 2007
+
+|
+
+24 septembre 2008
+
+|
+
+2e période
+
+|
+
+15 mars 2009
+
+|
+
+14 mars 2011
+
+|
+
+Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République centrafricaine et pays avoisinants
+
+|
+
+28 janvier 2009
+
+|
+
+27 janvier 2011
+
+|
+
+Rwanda
+
+|
+
+Territoire du Rwanda et pays limitrophes
+
+|
+
+15 juin 1994
+
+|
+
+14 juin 1997
 
 |
 
@@ -292,11 +394,19 @@ République démocratique du Congo
 
 |
 
+Opérations Mamba et MONUC
+
+|
+
 2 juin 2003
 
 |
 
-1er juin 2009
+1er juin 2011
+
+|
+
+Somalie
 
 |
 
@@ -308,11 +418,11 @@ Somalie et ses approches maritimes et aériennes.
 
 |
 
-En cours
+2 décembre 1995
 
 |
 
-Tchad et pays avoisinants, notamment le Cameroun
+Tchad et pays avoisinants
 
 |
 
@@ -321,6 +431,48 @@ Tchad et pays avoisinants, notamment le Cameroun
 |
 
 31 décembre 2009
+
+|
+
+Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT)
+
+|
+
+|
+
+1re période
+
+|
+
+25 septembre 2007
+
+|
+
+24 septembre 2008
+
+|
+
+2e période
+
+|
+
+15 mars 2009
+
+|
+
+14 mars 2011
+
+|
+
+Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République Centrafricaine et pays avoisinants
+
+|
+
+28 janvier 2009
+
+|
+
+27 janvier 2011
 
 |
 
@@ -336,11 +488,29 @@ Timor Oriental
 
 |
 
-Yougoslavie, pays et eaux avoisinantes
+Ex-Yougoslavie
+
+|
+
+Yougoslavie, Slovénie, Croatie, pays limitrophes et eaux avoisinantes
 
 |
 
 1er janvier 1992
+
+|
+
+31 décembre 1994
+
+|
+
+Forces multinationales en ex-Yougoslavie, pays limitrophes et eaux avoisinantes
+
+Opérations Trident, Astrée et Proxima
+
+|
+
+1er janvier 1995
 
 |
 
