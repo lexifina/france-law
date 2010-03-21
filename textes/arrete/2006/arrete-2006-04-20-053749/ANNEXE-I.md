@@ -10,6 +10,8 @@ Court terme : normalement destiné à être utilisé en continu pendant trente j
 
 Long terme : normalement destiné à être utilisé en continu pendant plus de trente jours.
 
+Pour le calcul de la durée, l'expression "utilisé en continu" doit être entendue au sens d'une utilisation effective ininterrompue du dispositif conformément à sa destination. Toutefois, lorsqu'un dispositif cesse d'être utilisé afin d'être remplacé immédiatement par le même dispositif ou par un dispositif identique, il convient de considérer cette nouvelle période comme une prolongation de l'utilisation continue du dispositif.
+
 1.2. Dispositifs invasifs
 
 Dispositif invasif : dispositif qui pénètre partiellement ou entièrement à l'intérieur du corps, soit par un orifice du corps, soit à travers la surface du corps.
@@ -30,7 +32,7 @@ Instrument destiné à accomplir, sans être raccordé à un dispositif médical
 
 1.4. Dispositif médical actif
 
-Tout dispositif médical dépendant pour son fonctionnement d'une source d'énergie électrique ou de toute source d'énergie autre que celle générée directement par le corps humain ou par la pesanteur et agissant par conversion de cette énergie. Les dispositifs médicaux destinés à transmettre de l'énergie, des substances ou d'autres éléments, sans modification significative, entre un dispositif médical actif et le patient ne sont pas considérés comme des dispositifs médicaux actifs.
+Tout dispositif médical dépendant pour son fonctionnement d'une source d'énergie électrique ou de toute source d'énergie autre que celle générée directement par le corps humain ou par la pesanteur et agissant par conversion de cette énergie. Les dispositifs médicaux destinés à transmettre de l'énergie, des substances ou d'autres éléments, sans modification significative, entre un dispositif médical actif et le patient ne sont pas considérés comme des dispositifs médicaux actifs. Tout logiciel autonome est considéré comme un dispositif médical actif.
 
 1.5. Dispositif actif thérapeutique
 
@@ -44,7 +46,7 @@ Tout dispositif médical actif, utilisé soit seul, soit en association avec d'a
 
 Aux fins du présent arrêté, on entend par " système circulatoire central " les vaisseaux suivants :
 
-Artères pulmonaires, aorte ascendante, artères coronaires, artère carotide primitive, artères carotides externes, artères carotides internes, artères cérébrales, tronc brachio-céphalique, sinus coronaire, veines pulmonaires, veine cave supérieure, veine cave inférieure.
+Artères pulmonaires, aorte ascendante, crosse aortique, aorte descendante jusqu'aux bifurcations aortiques, artères coronaires, artère carotide primitive, artères carotides externes, artères carotides internes, artères cérébrales, tronc brachio-céphalique, sinus coronaire, veines pulmonaires, veine cave supérieure, veine cave inférieure.
 
 1.8. Système nerveux central
 
