@@ -92,7 +92,7 @@ Roclaine Industries SA puis Saint-Gobain Industries SA puis Saint-Gobain Isover 
 
 Saim/teroson France/Henkel/Caourep/CFPI, 66, rue Saint-Aignan, 58200 Cosne-sur-Loire puis 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire puis ZI, route Villechaud/rue Lafayette, 58200 Cosne-sur-Loire : de 1951 à 1992 ;
 
-SA SAINT-GOBAIN SEVA, 22, rue Paul-Sabatier, ZI Nord, 71100 Chalon-sur-Saône : De 1960 à 1994 ;
+SA SAINT-GOBAIN SEVA, 43, rue du Pont-de-Fer, 71100 Chalon-sur-Saône, et 22, rue Paul-Sabatier, ZI Nord, 71100 Chalon-sur-Saône : de 1960 à 1994 ;
 
 SA SNPLF/SA Borden France/ Lambiotte SA/Enseigne Mydrin Lambiotte/Bostik SA/Usines Lambiotte/TRL, 58700 Prémery, de 1972 à 1994 ;
 
@@ -502,19 +502,19 @@ Société Capel/Cape/Cape contracts/Socap, ZI La Métairie, 76170 Lillebonne : d
 
 Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
 
-SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994.
+SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994 ;
 
-SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968.
+SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968 ;
 
-SNIFI/EFI, chemin de la Darse, BP 32, 76330 Notre-Dame-de-Gravenchon, de 1969 à 1994.
+SNIFI/EFI, chemin de la Darse, BP 32, 76330 Notre-Dame-de-Gravenchon, de 1969 à 1994 ;
 
-SNIFI/EFI, ZI, BP 5042, 76071 Le Havre, de 1973 à 1994.
+SNIFI/EFI, ZI, BP 5042, 76071 Le Havre, de 1973 à 1994 ;
+
+SA AKIS, ZI, 76220 Gournay-en-Bray : de 1977 à 1983 ;
 
 Société européenne des asphaltes, boulevard de Stalingrad Le Grand-Quevilly : de 1972 à 1981 ;
 
 Société Henkel France SA, Usine de Louviers, rue Charles-Cros, 27400 Louviers : de 1970 à 1980 ;
-
-Société Sika, ZI, 76220 Gournay-en-Bray : de 1977 à 1983 ;
 
 Tissot, 565, avenue du 11-Novembre, 76650 petit-Couronne : depuis 1973 ;
 
@@ -679,6 +679,8 @@ Pillard Frères/Pillard et compagnie/EGCI Pillard/entreprise Pillard, 15, rue de
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
 SA Maison Faure/Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
+
+Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Portugal, ZI, BP 202, 84107 Orange Cedex : de 1972 à 1996 ;
 
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
 
