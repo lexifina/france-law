@@ -46,9 +46,9 @@ de l'ECE / ONU
 
 |
 
-95 / 1 / CE
+95/1/CE
 
-modifiée par 2002 / 41 / CE
+modifiée par 2002 / 41/CE
 
 |
 
@@ -68,13 +68,15 @@ modifiée par 2002 / 41 / CE
 
 |
 
-97 / 24 / CE
+97/24/CE
 
-chapitre 7
+Chapitre 7 modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -88,13 +90,13 @@ chapitre 7
 
 |
 
-97 / 24 / CE
+97/24/CE
 
 chapitre 6
 
 |
 
-17 juin 1996
+17 juin 1999
 
 |
 
@@ -108,15 +110,19 @@ chapitre 6
 
 |
 
-95 / 1 / CE
+95/1/CE
 
-modifiée par 2002 / 41 / CE
+modifiée par 2002/41/CE
+
+modifiée par 2006/27/CE
 
 |
 
 1er juillet 1996
 
 1er avril 2004
+
+1er juillet 2007
 
 |
 
@@ -130,11 +136,13 @@ modifiée par 2002 / 41 / CE
 
 |
 
-93 / 93 / CEE
+93/93/CEE modifiée par 2004/86/CE
 
 |
 
 1er janvier 1996
+
+1er juillet 2005
 
 |
 
@@ -148,7 +156,7 @@ modifiée par 2002 / 41 / CE
 
 |
 
-97 / 24 / CE (1)
+97/24/CE (1)
 
 chapitre 10
 
@@ -168,7 +176,7 @@ chapitre 10
 
 |
 
-97 / 24 / CE (1)
+97/24/CE (1)
 
 chapitre 5
 
@@ -184,9 +192,7 @@ chapitre 5
 
 |
 
-|
-
-97 / 24 / CE modifiée par 2002 / 51 / CE
+modifiée par 2003/77/CE
 
 (chap. 5, annexe II point 2. 2. 1. 5 ligne A)
 
@@ -202,11 +208,7 @@ chapitre 5
 
 |
 
-|
-
-97 / 24 / CE modifiée par 2002 / 51 / CE
-
-(chap. 5, annexe Il point 2. 2. 1. 5 ligne B)
+modifiée par 2003/77/CE (chap. 5, annexe II, point 2.2.1.5, ligne B)
 
 |
 
@@ -220,17 +222,69 @@ chapitre 5
 
 |
 
+modifiée par 2005/30/CE (modifiée par 2006/120/CE) (10)
+
+|
+
+18 mai 2006
+
+|
+
+|
+
+|
+
+modifiée par 2006/27/CE
+
+|
+
+1er juillet 2007
+
+|
+
+|
+
+|
+
+modifiée par 2006/72/CE
+
+|
+
+1er juillet 2007
+
+|
+
+|
+
+|
+
+modifiée par 2009/108/CE
+
+|
+
+1er mai 2010
+
+|
+
+|
+
+|
+
 8. Pneumatiques.
 
 |
 
-97 / 24 / CE
+97/24/CE
 
 chapitre 1er
+
+modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -240,7 +294,7 @@ chapitre 1er
 
 30, 54, 64,
 
-75 / ECE / ONU
+75/ECE/ONU
 
 |
 
@@ -248,11 +302,15 @@ chapitre 1er
 
 |
 
-93 / 14 / CEE
+93/14/CEE
+
+modifiée par 2006/27/CE
 
 |
 
 1er janvier 1996
+
+1er juillet 2007
 
 |
 
@@ -260,7 +318,7 @@ chapitre 1er
 
 |
 
-78 / ECE / ONU
+78/ECE/ONU
 
 |
 
@@ -268,7 +326,7 @@ chapitre 1er
 
 |
 
-2009 / 67 / CE (3)
+2009/67/CE (3)
 
 |
 
@@ -278,7 +336,7 @@ chapitre 1er
 
 |
 
-53 / ECE / ONU
+53/ECE/ONU
 
 |
 
@@ -286,7 +344,7 @@ chapitre 1er
 
 |
 
-97 / 24 / CE
+97/24/CE
 
 chapitre 2
 
@@ -308,7 +366,7 @@ chapitre 2
 
 |
 
-93 / 30 / CEE (3)
+93/30/CEE (3)
 
 |
 
@@ -320,7 +378,7 @@ chapitre 2
 
 |
 
-28 / ECE / ONU
+28 /ECE/ONU
 
 |
 
@@ -328,7 +386,7 @@ chapitre 2
 
 |
 
-2009 / 62 / CE
+2009/62/CE
 
 |
 
@@ -344,7 +402,7 @@ chapitre 2
 
 |
 
-97 / 24 / CE (2)
+97/24/CE (2)
 
 chapitre 8
 
@@ -364,7 +422,7 @@ chapitre 8
 
 |
 
-97 / 24 / CE
+97/27/CE
 
 chapitre 9
 
@@ -380,17 +438,45 @@ chapitre 9
 
 |
 
+modifiée par 2006/27/CE
+
+|
+
+1er juillet 2007
+
+|
+
+|
+
+|
+
+modifiée par 2009/108/CE
+
+|
+
+1er mai 2010
+
+|
+
+|
+
+|
+
 16. Rétroviseurs.
 
 |
 
-97 / 24 / CE
+97/24/CE
 
 chapitre 3
+
+modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -398,7 +484,7 @@ chapitre 3
 
 |
 
-81 / ECE / ONU
+81/ECE/ONU
 
 |
 
@@ -406,13 +492,17 @@ chapitre 3
 
 |
 
-97 / 24 / CE (4)
+97/24/CE (4)
 
 chapitre 4
+
+modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -426,7 +516,7 @@ chapitre 4
 
 |
 
-2009 / 78 / CE (1)
+2009/78/CE (1)
 
 |
 
@@ -442,13 +532,13 @@ chapitre 4
 
 |
 
-93 / 33 / CEE
+93/33/CEE
 
-modifiée par 1999 / 23 / CE
+modifiée par 1999/23/CE
 
 |
 
-1er janvier 1996
+1er janvier 1996 (5)
 
 1er juillet 2000
 
@@ -458,7 +548,7 @@ modifiée par 1999 / 23 / CE
 
 |
 
-62 / ECE / ONU
+62/ECE/ONU
 
 |
 
@@ -466,13 +556,17 @@ modifiée par 1999 / 23 / CE
 
 |
 
-97 / 24 / CE (1)
+97/24/CE (1)
 
 chapitre 12
+
+modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -486,7 +580,7 @@ chapitre 12
 
 |
 
-2009 / 79 / CE (4)
+2009/79/CE (4)
 
 |
 
@@ -502,13 +596,17 @@ chapitre 12
 
 |
 
-97 / 24 / CE (2)
+97/24/CE (2)
 
 chapitre 11
+
+modifiée par 2006/27/CE
 
 |
 
 17 juin 1999
+
+1er juillet 2007
 
 |
 
@@ -516,7 +614,7 @@ chapitre 11
 
 |
 
-16 / ECE / ONU
+16/ECE/ONU
 
 |
 
@@ -524,7 +622,7 @@ chapitre 11
 
 |
 
-2009 / 80 / CE
+2009/80/CE
 
 |
 
@@ -534,7 +632,7 @@ chapitre 11
 
 |
 
-60 / ECE / ONU
+60/ECE/ONU
 
 |
 
@@ -542,19 +640,13 @@ chapitre 11
 
 |
 
-93 / 34 / CEE
-
-modifiée par 1999 / 25 / CE
+2009/139/CE
 
 |
 
-1er janvier 1996 (5)
-
-1er juillet 2000
+1er juin 2010
 
 |
-
-1er mai 1999
 
 |
 
@@ -564,7 +656,7 @@ modifiée par 1999 / 25 / CE
 
 |
 
-2000 / 7 / CE
+2000/7/CE
 
 |
 
@@ -576,11 +668,11 @@ modifiée par 1999 / 25 / CE
 
 |
 
-39 / ECE / ONU
+39/ECE/ONU
 
 |
 
-(a) Compte tenu du champ d'application défini dans la directive. Dans la mesure ou la directive le permet, les équipements homologués conformément aux dispositions de directives visant d'autres catégories de véhicules ou des règlements de l'ECE / ONU correspondants peuvent aussi être montés.
+(a) Compte tenu du champ d'application défini dans la directive. Dans la mesure ou la directive le permet, les équipements homologués conformément aux dispositions de directives visant d'autres catégories de véhicules ou des règlements de l'ECE/ONU correspondants peuvent aussi être montés.
 
 (b) Le type en regard de la directive particuliers consiste en l'ensemble des systèmes, entités techniques ou composants identiques sous les aspects essentiels de conception et de construction relatifs à la dite directive. Il est, le cas échéant défini dans la directive. Il ne doit pas être confondu avec le type-version " mines " de véhicule ou le type-variante-version CE de véhicule. Par exemple, la création d'un nouveau type-version " mines " apparaissant après la date d'entrée en vigueur d'une directive particulière pour les nouveaux types ne nécessite pas la conformité à ladite directive si le type en regard de la directive n'est pas modifié.
 
@@ -602,11 +694,11 @@ modifiée par 1999 / 25 / CE
 
 (9) Application au 1er janvier 2008 pour les types de véhicules vendus à moins de 5 000 unités par an dans l'Union européenne.
 
+(10) Les convertisseurs catalytiques de remplacement installés sur les véhicules à partir du 1er janvier 2009 doivent être d'un type réceptionné conformément à la directive 97/24/CE modifiée par la directive 2005/30/CE.
+
 |
 
-2° Pièces utilisables pour l'évaluation de la conformité
-
-d'un véhicule aux dispositions du 1°
+2° Pièces utilisables pour l'évaluation de la conformité d'un véhicule aux dispositions du 1°
 
 1. Aux fins de la réception CE par type d'un véhicule :
 
