@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091111030
+
+- Question : [SEQ091111030](seq091111030.md) — Couverture des dépenses des personnes handicapées employeurs par la prestation de compensation du handicap
+
+## Réponse
+
+*Travail, JO du 2010-03-25, page 773*
+
+La prestation de compensation du handicap (PCH), créée par la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, et mise en place depuis le 1er janvier 2006, couvre les frais relatifs aux besoins en aides humaines, aides techniques, aménagement du logement ou du véhicule et frais de transport, aides exceptionnelles ou spécifiques et aides animalières. S'agissant des aides humaines, le tarif horaire applicable est de 11,96 euros en cas d'embauche directe, de 13,16 euros en cas de recours à un service mandataire et de 17,59 euros en cas de recours à un service prestataire. Conscient que ces tarifs peuvent dans certains cas se révéler inférieurs au coût réel supporté par les personnes handicapées, du fait notamment des conventions collectives en vigueur et des obligations du particulier employeur, le Gouvernement a pris plusieurs mesures pour remédier à cette situation. Ainsi, depuis la publication de l'arrêté du 2 mars 2007, pour les services prestataires autorisés au titre de l'article L. 312-1 du code de l'action sociale et des familles, le tarif horaire n'est plus systématiquement de 17,59 euros, mais le tarif du service fixé par le président du conseil général en application du II de l'article L. 314-1 du code de l'action sociale et des familles. De la même façon, lorsque le service prestataire est agréé au titre de l'article L. 7232-3 du code du travail, le tarif horaire peut-être fixé par convention entre le département et le service, pour tenir compte d'un coût horaire supérieur au 17,19 euros fixés par défaut.
