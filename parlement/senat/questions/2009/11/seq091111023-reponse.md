@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091111023
+
+- Question : [SEQ091111023](seq091111023.md) — Renouvellement annuel des permis de conduire des personnes atteintes de certaines maladies
+
+## Réponse
+
+*Écologie, JO du 2010-03-25, page 753*
+
+Les visites médicales afférentes au permis de conduire sont prévues par les articles R. 221-10 à R. 221-14 du code de la route et par l'arrêté du 8 février 1999 relatif à l'établissement, la délivrance et la validité du permis de conduire. L'article R. 221-10 du code de la route prévoit que le renouvellement des catégories du groupe lourd du permis de conduire est subordonné à une visite médicale. Il en est de même pour les titulaires de la catégorie B du permis de conduire atteints d'une affection telle que définie par l'arrêté du 21 décembre 2005 relatif à la liste des affections médicales incompatibles avec l'obtention ou le maintien du permis de conduire ou pouvant donner lieu à délivrance de permis de conduire de durée de validité limitée. Ces visites médicales sont gratuites pour les personnes handicapées titulaires du permis de conduire conformément à l'article L. 243-7 du code de l'action sociale et des familles. Pour les autres personnes, le tarif de la visite médicale est de 24,40 euros (arrêté du 7 mars 1973 modifié). Ce montant a été rappelé aux préfets par lettre circulaire du 11 janvier 2008. Une inspection interministérielle sur les conditions d'organisation et de fonctionnement des commissions médicales est actuellement conduite conjointement par le Conseil général de l'environnement et du développement durable, par l'inspection générale de l'administration et par l'inspection générale des affaires sociales. C'est dans ce cadre que seront étudiées l'opportunité et la faisabilité d'étendre la gratuité des visites médicales à toutes les personnes atteintes d'une pathologie figurant à l'arrêté du 21 décembre 2005.
