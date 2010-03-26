@@ -6,9 +6,7 @@ FORMULAIRE DE DÉCLARATION MODIFICATIVE D'UN PROGRAMME DE MANIFESTATIONS COMMERC
 
 (Articles L. 762-1 et R. 762-7 du code de commerce)
 
-Identification du parc d'exposition
-
-accueillant les manifestations
+Identification du parc d'exposition accueillant les manifestations
 
 Dénomination (4) :
 
@@ -126,7 +124,7 @@ Mél (1) :
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce.
 
-(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL (bureau de la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus d'informations : www. pme. gouv. fr.
+(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12. Pour plus d'informations : www. pme. gouv. fr.
 
 Modification des caractéristiques précédemment déclarées
 
@@ -244,4 +242,4 @@ Signature
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce.
 
-(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL (bureau de la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus d'informations : www. pme. gouv. fr.
+(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12. Pour plus d'informations : www. pme. gouv. fr.
