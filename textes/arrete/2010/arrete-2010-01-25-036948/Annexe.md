@@ -646,7 +646,7 @@ Un coefficient multiplicateur est appliqué au terme annuel à la distance. Il e
 
 La grille tarifaire de la commune d'Urvillers est réévaluée annuellement au 1er juillet de chaque année proportionnellement à l'évolution moyenne sur les douze mois de l'année précédente de l'indice composite suivant :
 
-Tarif année n + 1 = tarif année n × ([1+[50 % ICHTrev-TS + 25 % TP10 bis + 25 % prix de vente à l'industrie])
+Tarif année n + 1 = tarif année n × (1 + [50 % ICHTrev-TS + 25 % TP10 bis + 25 % prix de vente à l'industrie])
 
 où :
 
