@@ -1,30 +1,28 @@
 # Article Annexe
 
-BARÈME DE L'ÉPREUVE D'EXERCICES PHYSIQUES POUR LES CANDIDATS AYANT OPTÉ POUR LA FILIÈRE SURVEILLANCE
+BARÈME DE L'ÉPREUVE D'EXERCICES PHYSIQUES POUR LES CANDIDATS AYANT OPTÉ POUR LA BRANCHE DE LA SURVEILLANCE
 
-L'épreuve obligatoire d'exercices physiques, prévue à l'article 6 du présent arrêté, pour les candidats ayant opté pour la filière surveillance, comporte trois disciplines imposées :
+L'épreuve obligatoire d'exercices physiques prévue pour les candidats concourant dans la branche de la surveillance comporte trois disciplines imposées :
 
 Candidats masculins :
 
-― course de vitesse de 100 m ;
+- course de vitesse de 100 m ;
 
-― course de fond de 1 000 m ;
+- course de fond de 1 000 m ;
 
-― saut en hauteur.
+- saut en hauteur.
 
-Candidats féminins :
+Candidates féminines :
 
-― course de vitesse de 60 m ;
+- course de vitesse de 60 m ;
 
-― course de fond de 300 m ;
+- course de fond de 300 m ;
 
-― saut en hauteur.
+- saut en hauteur.
 
 Le barème applicable à ces épreuves est le suivant :
 
 Candidats masculins :
-
-Vous pouvez consulter le tableau dans le Journal officiel n° 154 du 3 juillet 2005, texte numéro 23 :
 
 NOTE OBTENUE
 
@@ -48,15 +46,15 @@ SAUT EN HAUTEUR
 
 |
 
-11 s 8
+12 s 2
 
 |
 
-2 min 55
+3 min 7 s
 
 |
 
-1,65
+1, 65
 
 |
 
@@ -64,15 +62,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s
+12 s 4
 
 |
 
-2 min 59
+3 min 11 s
 
 |
 
-1,61
+1, 61
 
 |
 
@@ -80,15 +78,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 2
+12 s 6
 
 |
 
-3 min 03
+3 min 15 s
 
 |
 
-1,57
+1, 57
 
 |
 
@@ -96,15 +94,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 4
+12 s 8
 
 |
 
-3 min 07
+3 min 19 s
 
 |
 
-1,53
+1, 53
 
 |
 
@@ -112,15 +110,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 6
+13 s
 
 |
 
-3 min 11
+3 min 23 s
 
 |
 
-1,49
+1, 49
 
 |
 
@@ -128,15 +126,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 8
+13 s 2
 
 |
 
-3 min 15
+3 min 27 s
 
 |
 
-1,45
+1, 45
 
 |
 
@@ -144,15 +142,15 @@ SAUT EN HAUTEUR
 
 |
 
-13 s
+13 s 4
 
 |
 
-3 min 21
+3 min 33 s
 
 |
 
-1,4
+1, 4
 
 |
 
@@ -160,15 +158,15 @@ SAUT EN HAUTEUR
 
 |
 
-13 s 2
+13 s 6
 
 |
 
-3 min 27
+3 min 39 s
 
 |
 
-1,35
+1, 35
 
 |
 
@@ -176,15 +174,15 @@ SAUT EN HAUTEUR
 
 |
 
-13 s 4
+13 s 8
 
 |
 
-3 min 33
+3 min 45 s
 
 |
 
-1,3
+1, 3
 
 |
 
@@ -192,15 +190,15 @@ SAUT EN HAUTEUR
 
 |
 
-13 s 6
+14 s 1
 
 |
 
-3 min 39
+3 min 53 s
 
 |
 
-1,25
+1, 25
 
 |
 
@@ -208,15 +206,15 @@ SAUT EN HAUTEUR
 
 |
 
-13 s 9
+14 s 4
 
 |
 
-3 min 45
+3 min 59 s
 
 |
 
-1,2
+1, 2
 
 |
 
@@ -224,15 +222,15 @@ SAUT EN HAUTEUR
 
 |
 
-14 s 2
+14 s 7
 
 |
 
-3 min 53
+4 min 7 s
 
 |
 
-1,17
+1, 17
 
 |
 
@@ -240,15 +238,15 @@ SAUT EN HAUTEUR
 
 |
 
-14 s 5
+15 s
 
 |
 
-4 min 01
+4 min 15 s
 
 |
 
-1,13
+1, 13
 
 |
 
@@ -256,15 +254,15 @@ SAUT EN HAUTEUR
 
 |
 
-14 s 8
+15 s 3
 
 |
 
-4 min 09
+4 min 23 s
 
 |
 
-1,1
+1, 1
 
 |
 
@@ -272,15 +270,15 @@ SAUT EN HAUTEUR
 
 |
 
-15 s 1
+15 s 6
 
 |
 
-4 min 17
+4 min 31 s
 
 |
 
-1,05
+1, 05
 
 |
 
@@ -288,11 +286,11 @@ SAUT EN HAUTEUR
 
 |
 
-15 s 4
+15 s 9
 
 |
 
-4 min 25
+4 min 39 s
 
 |
 
@@ -304,15 +302,15 @@ SAUT EN HAUTEUR
 
 |
 
-15 s 7
+16 s 2
 
 |
 
-4 min 35
+4 min 49 s
 
 |
 
-0,95
+0, 95
 
 |
 
@@ -320,15 +318,15 @@ SAUT EN HAUTEUR
 
 |
 
-16 s
+16 s 5
 
 |
 
-4 min 45
+4 min 59 s
 
 |
 
-0,9
+0, 9
 
 |
 
@@ -336,15 +334,15 @@ SAUT EN HAUTEUR
 
 |
 
-16 s 3
+16 s 8
 
 |
 
-4 min 55
+5 min 9 s
 
 |
 
-0,85
+0, 85
 
 |
 
@@ -352,21 +350,19 @@ SAUT EN HAUTEUR
 
 |
 
-16 s 6
+17 s 1
 
 |
 
-5 min 10
+5 min 24 s
 
 |
 
-0,8
+0, 8
 
 |
 
-Candidats féminins :
-
-Vous pouvez consulter le tableau dans le Journal officiel n° 154 du 3 juillet 2005, texte numéro 23 :
+Candidates féminines :
 
 NOTE OBTENUE
 
@@ -390,54 +386,6 @@ SAUT EN HAUTEUR
 
 |
 
-8 s 7
-
-|
-
-49 s
-
-|
-
-1,35
-
-|
-
-19
-
-|
-
-8 s 8
-
-|
-
-50 s
-
-|
-
-1,33
-
-|
-
-18
-
-|
-
-8 s 9
-
-|
-
-51 s
-
-|
-
-1,31
-
-|
-
-17
-
-|
-
 9 s 1
 
 |
@@ -446,15 +394,15 @@ SAUT EN HAUTEUR
 
 |
 
-1,29
+1, 27
 
 |
 
-16
+19
 
 |
 
-9 s 3
+9 s 2
 
 |
 
@@ -462,15 +410,15 @@ SAUT EN HAUTEUR
 
 |
 
-1,27
+1, 25
 
 |
 
-15
+18
 
 |
 
-9 s 5
+9 s 3
 
 |
 
@@ -478,11 +426,27 @@ SAUT EN HAUTEUR
 
 |
 
-1,25
+1, 23
 
 |
 
-14
+17
+
+|
+
+9 s 5
+
+|
+
+55 s
+
+|
+
+1, 21
+
+|
+
+16
 
 |
 
@@ -494,11 +458,11 @@ SAUT EN HAUTEUR
 
 |
 
-1,22
+1, 19
 
 |
 
-13
+15
 
 |
 
@@ -506,15 +470,15 @@ SAUT EN HAUTEUR
 
 |
 
-58 s
+57 s
 
 |
 
-1,19
+1, 17
 
 |
 
-12
+14
 
 |
 
@@ -522,15 +486,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min
+59 s
 
 |
 
-1,16
+1, 14
 
 |
 
-11
+13
 
 |
 
@@ -538,15 +502,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 02
+1 min 1 s
 
 |
 
-1,13
+1, 11
 
 |
 
-10
+12
 
 |
 
@@ -554,15 +518,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 04
+1 min 3 s
 
 |
 
-1,1
+1, 08
 
 |
 
-9
+11
 
 |
 
@@ -570,15 +534,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 06
+1 min 5 s
 
 |
 
-1,07
+1, 05
 
 |
 
-8
+10
 
 |
 
@@ -586,15 +550,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 08
+1 min 7 s
 
 |
 
-1,03
+1, 02
 
 |
 
-7
+9
 
 |
 
@@ -602,15 +566,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 10
+1 min 9 s
 
 |
 
-0,99
+0, 99
 
 |
 
-6
+8
 
 |
 
@@ -618,15 +582,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 12
+1 min 11 s
 
 |
 
-0,95
+0, 95
 
 |
 
-5
+7
 
 |
 
@@ -634,15 +598,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 15
+1 min 13 s
 
 |
 
-0,91
+0, 91
 
 |
 
-4
+6
 
 |
 
@@ -650,15 +614,15 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 18
+1 min 15 s
 
 |
 
-0,87
+0, 87
 
 |
 
-3
+5
 
 |
 
@@ -666,11 +630,43 @@ SAUT EN HAUTEUR
 
 |
 
-1 min 21
+1 min 18 s
 
 |
 
-0,83
+0, 83
+
+|
+
+4
+
+|
+
+12 s 1
+
+|
+
+1 min 21 s
+
+|
+
+0, 79
+
+|
+
+3
+
+|
+
+12 s 3
+
+|
+
+1 min 24 s
+
+|
+
+0, 75
 
 |
 
@@ -678,15 +674,15 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 2
+12 s 6
 
 |
 
-1 min 24
+1 min 27 s
 
 |
 
-0,79
+0, 71
 
 |
 
@@ -694,21 +690,19 @@ SAUT EN HAUTEUR
 
 |
 
-12 s 5
+12 s 9
 
 |
 
-1 min 27
+1 min 30 s
 
 |
 
-0,75
+0, 67
 
 |
 
 Conditions de déroulement de l'épreuve :
-
-Vous pouvez consulter le tableau dans le Journal officiel n° 154 du 3 juillet 2005, texte numéro 23 :
 
 ÉPREUVE
 
