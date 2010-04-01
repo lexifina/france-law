@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211361
+
+- Question : [SEQ091211361](seq091211361.md) — Pépinières viticoles et distorsion de concurrence au sein de l'Union européenne
+
+## Réponse
+
+*Alimentation, JO du 2010-04-01, page 815*
+
+La mesure annoncée par le Président de la République le 27 octobre 2009 à Poligny (Jura) vient d'être adoptée par le Parlement dans le cadre de la loi de finances rectificative pour 2010. Elle modifie le dispositif d'exonération pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi existant. La loi n° 2010-237 du 9 mars 2010 a été publiée au Journal officiel de la République française le 10 mars 2010. Ce texte prévoit une définition plus générale des employeurs pouvant bénéficier de l'exonération, et un niveau d'exonération identique quel que soit le secteur agricole concerné. La définition du champ des activités ouvrant droit à exonération a été redéfini. Les activités liées directement ou indirectement au cycle de la production animale et végétale seront concernées. Les activités de travaux forestiers ainsi que celles des pépiniéristes viticoles entrent donc bien dans le champ du nouveau dispositif d'exonération. Ce nouveau dispositif qui sera applicable aux cotisations dues au titre des rémunérations versées à compter du 1er janvier 2010, prévoit une exonération totale des cotisations patronales de sécurité sociale pour l'emploi de travailleurs occasionnels agricoles et des cotisations patronales conventionnelles obligatoires (retraite complémentaire, prévoyance, formation professionnelle...), à l'exception de l'assurance chômage. Il est en outre prévu que cette exonération soit totale pour les rémunérations égales ou inférieures à 2,5 du salaire minimum de croissance (SMIC) et qu'elle soit dégressive au-delà jusqu'à s'annuler pour les rémunérations égales et supérieures à trois SMIC. Avec cette mesure, le coût de l'emploi au SMIC horaire est ramené à 9,29 €.
