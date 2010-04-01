@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408228
+
+- Question : [SEQ090408228](seq090408228.md) — Conditions d'organisation des battues aux sangliers
+
+## Réponse
+
+*Écologie, JO du 2010-04-01, page 820*
+
+En application des articles L. 427-4 du code de l'environnement et du 9° de l'article L. 2122-21 du code général des collectivités locales, le maire a le pouvoir, sous le contrôle administratif du préfet, de prendre les mesures nécessaires à la destruction des seuls animaux nuisibles désignés par arrêté préfectoral en application des articles L. 427-8, R. 427-6 et R. 427-7 du code de l'environnement. Il n'intervient qu'en cas de carence des propriétaires ou des détenteurs des droits de chasse, préalablement invités à procéder à la destruction de ces animaux. Pour ce faire, le maire peut ordonner la réalisation de battues effectuées sous le contrôle et l'organisation technique d'un lieutenant de louveterie. En accord avec celui-ci, le maire fixe les conditions des battues (dates, heures, lieux, nombre et qualification des participants, prescriptions techniques, modalités de signalement de la battue, etc.) par arrêté municipal, largement affiché et diffusé. Le maire agit sous le contrôle du conseil municipal et il doit donc rendre compte à ce dernier de l'exécution de sa décision, si celle-ci a été prise sans son accord préalable. En cas de dommages causés aux tiers ou d'accidents survenus lors des battues, il est très important que les organisateurs et les participants des battues soient convenablement assurés. Dans les communes situées à proximité des massifs forestiers où les cultures sont menacées périodiquement de destruction par les sangliers, le préfet peut, en application de l'article L. 427-7 du code de l'environnement, déléguer aux maires le pouvoir d'ordonner des battues aux sangliers. Ces battues municipales peuvent alors avoir lieu, sans qu'il soit nécessaire d'inviter préalablement les propriétaires à détruire les sangliers.
