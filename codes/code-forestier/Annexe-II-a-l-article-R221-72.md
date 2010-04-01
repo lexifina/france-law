@@ -2,7 +2,7 @@
 
 Tableau établi pour l'application de l'article R. 221-72
 
-Répartition des représentants des centres régionaux de la propriété forestière au conseil d'administration du Centre national professionnel de la propriété forestière
+Répartition des représentants des centres régionaux de la propriété forestière au conseil d'administration du Centre national de la propriété forestière
 
 CENTRES
 
@@ -108,11 +108,11 @@ Franche-Comté
 
 |
 
-Ile-de-France - Centre
+Ile-de-France-Centre
 
 |
 
-Ile-de-France - Centre
+Ile-de-France-Centre
 
 |
 
@@ -168,11 +168,11 @@ Midi-Pyrénées
 
 |
 
-Nord - Pas-de-Calais - Picardie
+Nord-Pas-de-Calais-Picardie
 
 |
 
-Nord - Pas-de-Calais - Picardie
+Nord-Pas-de-Calais-Picardie
 
 |
 
