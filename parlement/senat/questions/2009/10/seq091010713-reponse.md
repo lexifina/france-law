@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010713
+
+- Question : [SEQ091010713](seq091010713.md) — Gratification des stagiaires
+
+## Réponse
+
+*Travail, JO du 2010-04-01, page 841*
+
+La loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances a prévu la gratification obligatoire des stages étudiants en entreprise d'une durée supérieure à trois mois et le décret du 31 janvier 2008 a fixé le montant de cette gratification. Conformément aux engagements pris par le Président de la République en faveur de l'emploi des jeunes le 24 avril 2009, le décret n° 2009-885 du 21 juillet 2009 a mis en place dans les administrations et les établissements publics de l'État ne présentant pas un caractère industriel et commercial un dispositif similaire. Ainsi, désormais, les stages d'une durée supérieure à deux mois (et 40 jours de présence effective) donnent lieu dans la fonction publique d'État à une gratification calculée sur la base de 12,5 % du plafond horaire de sécurité sociale. Parallèlement, l'article 30 de la loi n° 2009-1437 du 24 novembre 2009 a abaissé le seuil des stages ouvrant droit à gratification de plus de trois mois à plus de deux mois. Les services de l'État sont mobilisés pour identifier, en lien avec les autres acteurs, les actions éventuelles à conduire permettant de maintenir une offre de stage suffisante pour les étudiants, notamment dans le secteur social et médico-social. Ainsi, les services ont organisé, le 18 janvier 2010, avec l'ensemble des parties intéressées, une table ronde sur l'alternance dans les formations sociales qui a permis d'établir un premier état des lieux sur la question des stages dans les diplômes de travail social. Elle a, notamment, mis en évidence le fait que le développement de l'offre de stages ne pouvait se réduire à la seule question de la gratification et permis de souligner l'intérêt d'ouvrir, en lien avec les acteurs, un travail sur l'organisation et l'adaptation des stages dans les formations sociales.
