@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080504235
+
+- Question : [SEQ080504235](seq080504235.md) — Réglementation sur les conditions de neutralisation des armes
+
+## Réponse
+
+*Défense, JO du 2010-04-01, page 818*
+
+Les canons tractés sont classés, au même titre que les canons, au paragraphe 7 de la 1re catégorie des matériels de guerre (canons, obusiers et mortiers de tous calibres, ainsi que leurs affûts, bouches à feu, culasses, traîneaux, freins et récupérateurs, canons spéciaux pour avions), défini à l'article 2 du décret n° 95-589 du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions. Ce classement en 1re catégorie rend actuellement impossible la collection de ce type de matériels, hormis le cas d'une exposition dans des musées ouverts au public. Le classement des canons tractés au paragraphe 1 de la 2e catégorie (le paragraphe 1 de la 2e catégorie, défini à l'article 2 du décret n° 95-589 du 6 mai 1995, comprend notamment les véhicules non blindés, équipés à poste fixe ou munis d'un dispositif spécial [affût circulaire d'armes de défense aérienne, rampes de lancement] permettant le montage ou le transport d'armes) permettrait la mise en oeuvre des dispositions de l'article 32 (I-4°) du décret du 6 mai 1995 précité, aux termes desquelles les personnes physiques qui contribuent, par la réalisation de collections, à la conservation, à la connaissance ou à l'étude des matériels de guerre classés à ce paragraphe, peuvent être autorisées, par le préfet du département, à les acquérir et les détenir. Le ministère de la défense a engagé une réflexion sur ce sujet avec le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales. Les évolutions qui pourraient être envisagées devront en tout état de cause rester compatibles avec les impératifs de sécurité publique.
