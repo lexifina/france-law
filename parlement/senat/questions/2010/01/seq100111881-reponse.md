@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111881
+
+- Question : [SEQ100111881](seq100111881.md) — Mise en oeuvre de la taxe locale sur la publicité extérieure
+
+## Réponse
+
+*Budget, JO du 2010-04-01, page 818*
+
+Le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Ëtat a pris connaissance avec intérêt de la question relative à la taxe locale sur la publicité extérieure. Créée par voie d'amendement parlementaire présenté au Sénat, la taxe locale sur la publicité extérieure (TLPE) est entrée en vigueur le 1er janvier 2009. Depuis cette date et sous certaines conditions, les communes ou les établissements publics de coopération intercommunale (EPCI) sont habilités à la percevoir en lieu et place des trois taxes préexistantes. L'article 171 de la loi du 4 août 2008 a prévu que, en tant que de besoin, un décret en Conseil d'État devrait en préciser les mesures d'application. Ce décret est actuellement en cours de préparation et devrait être soumis à l'avis des associations représentatives des collectivités territoriales concernées et du comité des finances locales. Dans l'attente de la publication de ce décret, la TLPE peut être prélevée par les collectivités territoriales. En effet, seules les amendes prévues par l'article L. 2333-15 du code général des collectivités territoriales (CGCT) ne peuvent être infligées aux contribuables, en cas de retard ou de défaut de déclaration de paiement dans les délais légaux, puisque le taux de l'amende doit être fixé par ce décret. En conséquence, la TLPE, dès lors qu'une délibération régulière a été prise par la collectivité territoriale compétente, est due et peut être perçue dans les conditions de droit commun, dans la mesure où l'assujettissement d'un contribuable à la taxe résulte de conditions objectives qu'il appartient éventuellement à ce dernier de contester devant le juge judiciaire.
