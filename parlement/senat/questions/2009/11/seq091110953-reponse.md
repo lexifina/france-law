@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110953
+
+- Question : [SEQ091110953](seq091110953.md) — Projet de suppression d'un des deux sites de la CAF dans l'Aisne
+
+## Réponse
+
+*Travail, JO du 2010-04-01, page 842*
+
+Le projet de départementalisation du réseau des caisses d'allocations familiales est une orientation qui répond à une d'optimisation du service public de la sécurité sociale, dont l'Assemblée nationale s'est fait l'écho dans le rapport de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale de 2005. Initiée le 12 juin 2007 par le conseil d'administration de la Caisse nationale, elle trouve dorénavant sa traduction à l'article 25 de la convention d'objectifs et de gestion (COG) que le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville a signée, le 9 avril 2009, avec le président de la caisse nationale des allocations familiales conjointement avec le ministre du budget, des comptes publics et de la fonction publique et la secrétaire d'État chargée de la famille. Cette COG fixe l'objectif d'une départementalisation du réseau effective à l'horizon 2011. Le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville est particulièrement attaché au maintien d'un service public de qualité à proximité des usagers, ainsi qu'à la prise en compte de la situation des personnels concernés et des préoccupations d'aménagement du territoire. C'est pourquoi il confirme que ce processus, qui porte sur la création d'une entité juridique unique destinée à améliorer l'efficience du pilotage de la branche famille ne remet nullement en cause par lui-même l'implantation territoriale de son réseau, des antennes locales doivent être maintenues en vue d'assurer la présence de proximité du réseau de la sécurité sociale.
