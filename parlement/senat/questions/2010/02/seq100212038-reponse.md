@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100212038
+
+- Question : [SEQ100212038](seq100212038.md) — Couverture des risques des praticiens libéraux
+
+## Réponse
+
+*Santé, JO du 2010-04-01, page 834*
+
+Les gynécologues obstétriciens s'exposent à un risque particulier : les dommages-intérêts qu'ils peuvent être condamnés à verser pour un accident survenu à la naissance ne sont définitivement fixés que lorsque la victime devient adulte. Même si aucun cas de mise en jeu de la situation patrimoniale d'un professionnel pour des risques lourds n'a été constaté, la ministre de la santé et des sports a tenu à renforcer la protection des gynécologues obstétriciens pour les risques financiers importants. Ainsi, des mesures ont été adoptées dans la loi de financement de la sécurité sociale pour 2010. L'Office national d'indemnisation des accidents médicaux (ONIAM) pourra se substituer aux gynécologues obstétriciens, aux anesthésistes ou aux chirurgiens pour des actes liés à la naissance, condamnés par une juridiction à réparer les dommages subis par la victime lorsque le délai d'assurance est expiré ou s'ils sont jugés insolvables. Il s'agit d'éviter que ces professionnels soient condamnés à verser des dommages et intérêts extrêmement importants longtemps après les faits, parfois après leur retraite. Ce dispositif sera renforcé par une instruction au conseil d'administration de l'ONIAM pour renoncer au recours contre le professionnel de santé dans les cas ciblés où le préjudice est consolidé à l'âge adulte. Par ailleurs, la ministre a proposé de relever le plafond minimum d'assurance de 3 à 6 millions d'euros et d'analyser, au regard de l'évolution du marché des primes d'assurance, la question de l'augmentation de l'aide de l'assurance maladie à la souscription d'une assurance en responsabilité civile. Il s'agit d'un dossier très complexe sur lequel il convient de continuer à travailler avec tous les partenaires concernés afin de poursuivre l'amélioration du dispositif.
