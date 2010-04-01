@@ -1,6 +1,6 @@
 # Article Annexe à l'article D215-1
 
-La composition des circonscriptions à l'intérieur desquelles s'exerce la compétence des caisses régionales d'assurance maladie est fixée ainsi qu'il suit :
+La composition des circonscriptions à l'intérieur desquelles s'exerce la compétence des caisses d'assurance retraite et de la santé au travail est fixée ainsi qu'il suit :
 
 Aquitaine
 
@@ -18,7 +18,7 @@ Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 
 |
 
-Bourgogne - Franche-Comté
+Bourgogne-Franche-Comté
 
 |
 
@@ -114,7 +114,7 @@ Calvados, Eure, Manche, Orne, Seine-Maritime.
 
 |
 
-Région de Strasbourg
+Alsace-Moselle
 
 |
 
