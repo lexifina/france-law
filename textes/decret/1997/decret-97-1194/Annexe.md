@@ -1,7 +1,5 @@
 # Article Annexe
 
-<
-
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -1844,34 +1842,6 @@ Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
-Décisions entrant dans le champ de compétences de la direction générale de la modernisation de l’Etat
-
-Décret n
-
-°
-
-2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
-
-n
-
-°
-
-2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités
-
-administratives et entre les autorités administratives
-
-1
-
-|
-
-Référencement des produits de sécurité et des prestataires de services de confiance.
-
-|
-
-Second alinéa de l’article 24.
-
-|
-
 Convention douanière de Genève relative au transport
 
 international de marchandises sous le couvert de carnets TIR, du 14 novembre 1975
@@ -2242,32 +2212,6 @@ Articles 4, 5 et 7.
 
 |
 
-Règlement (CEE) n° 1334/2000 du Conseil du 22 juin 2000 instituant un régime communautaire de contrôles des exportations de biens à double usage et décret n° 2001-1192 du 13 décembre 2001 relatif au contrôle à l'exportation, à l'importation et au transfert de biens et technologies à double usage
-
-1 |
-
-Autorisation d'exportation et de transfert concernant les biens à double usage, civil et militaire. |
-
-Article 6.2 du règlement et articles 1er et 2 du décret. |
-
-2 |
-
-Enregistrement de l'autorisation générale communautaire d'exportation n°EU001. |
-
-Article 6.1 du règlement et article 6 du décret. |
-
-3
-
-|
-
-Délivrance d'un certificat international d'importation et d'un certificat de vérification de livraison pour l'importation des biens à double usage, civil et militaire.
-
-|
-
-Article 19 du règlement et article 8 du décret.
-
-|
-
 Règlement (CE) n
 
 °
@@ -2349,36 +2293,6 @@ intellectuelle.
 |
 
 Article 12.
-
-|
-
-Règlement (CE) du Conseil n
-
-°
-
-423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures
-
-restrictives à l’encontre de l’Iran
-
-1 |
-
-Autorisation et refus d’exportation concernant les biens et technologies énumérés à l’annexe II
-
-du règlement (CE).
-
-|
-
-1. de l’article 3
-
-|
-
-2 |
-
-Suspension, modification, retrait ou abrogation de l’autorisation mentionnée ci-dessus.
-
-|
-
-5. de l’article 3
 
 |
 
@@ -2578,11 +2492,21 @@ Décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes e
 
 |
 
-Autorisation d'exportation ou de transit de matériels de guerre, armes et munitions et matériels assimilés.
+Autorisation d’importation et d’exportation de produits contingentés ou
+
+soumis à des mesures de commerce extérieur (produits industriels et
+
+agricoles) à l’exclusion des autorisations mises en œuvre en application
+
+de l’article 8 du règlement (CE) n
+
+°
+
+428/2009 du 5 mai 2009.
 
 |
 
-Articles 11 et 13 du décret-loi du 18 avril 1939 et articles 9 et 24 de l'arrêté du 2 octobre 1992 modifié.
+Articles et 5.
 
 |
 
@@ -2735,6 +2659,320 @@ Autorisation d'exportation des produits chimiques inscrits au tableau 3 annexé 
 |
 
 Article 25, premier alinéa.
+
+|
+
+Décisions entrant dans la compétence de la direction générale de la
+
+compétitivité, de l’industrie et des services
+
+Règlements de la Communauté européenne que la direction générale de la compétitivité, de l’industrie et
+
+des services, est chargée d’appliquer.
+
+Règlement (CE) n°
+
+428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle
+
+des exportations, des transferts, du courtage et du transit de biens et technologies à double usage, décret
+
+n
+
+°
+
+2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au transfert de
+
+biens et technologies à double usage.
+
+1
+
+|
+
+Délivrance, suspension, modification, retrait ou abrogation de
+
+l’autorisation d’exportation, de transfert, concernant les biens à double
+
+usage, civil et militaire.
+
+|
+
+Articles 3.1 et 9.2
+
+du règlement.
+
+Articles 1
+
+er
+
+et 2 du décret
+
+|
+
+2 |
+
+Enregistrement de l’autorisation générale communautaire d’exportation
+
+n
+
+°
+
+EU001.
+
+|
+
+Articles 3.1 et 9.1
+
+du règlement.
+
+Articles 1
+
+er
+
+et 2 du décret.
+
+|
+
+3 |
+
+Décision de mise en application des articles 4, 5 et 6 du règlement
+
+n
+
+°
+
+428/2009 du 5 mai 2009.
+
+|
+
+Articles 4, 5, 6, 9.2
+
+et 10.1 du règlement.
+
+Article 1
+
+er
+
+du décret.
+
+|
+
+4 |
+
+Délivrance, suspension, modification, retrait et abrogation des
+
+autorisations délivrées sur le fondement des articles 4, 5, 6 du
+
+règlement n
+
+°
+
+428/2009 du 5 mai 2009.
+
+|
+
+Articles 4, 5, 6, 9.2
+
+et 10.1 du règlement.
+
+Article 1
+
+er
+
+du décret.
+
+|
+
+5 |
+
+Délivrance d’un certificat international d’importation et d’un certificat de
+
+vérification de livraison pour l’importation des biens à double usage,
+
+civil et militaire.
+
+|
+
+Article 24 du règlement.
+
+Article 8 du décret.
+
+|
+
+Règlement (CE) n
+
+°
+
+423/2007 du Conseil du 19 avril 2007 concernant l’adoption de mesures restrictives à
+
+l’encontre de l’Iran, décret n
+
+°
+
+2008-83 du 24 janvier 2008 modifié relatif aux mesures restrictives à l’encontre
+
+de l’Iran prévues par le règlement (CE) n
+
+°
+
+423/2007 du Conseil du 19 avril 2007.
+
+1
+
+|
+
+Autorisation et refus d’exportation concernant les biens et technologies
+
+énumérés à l’annexe II du règlement (CE).
+
+|
+
+1 de l’article 3
+
+du règlement.
+
+Articles 2 et 3 du décret.
+
+|
+
+2 |
+
+Suspension, modification, retrait ou abrogation de l’autorisation
+
+mentionnée ci-dessus.
+
+|
+
+5 de l’article 3 du règlement.
+
+Article 4 du décret.
+
+|
+
+Décret n
+
+°
+
+2001-1192 du 13 décembre 2001 modifié relatif au contrôle à l’exportation, à l’importation et au
+
+transfert de biens et technologies à double usage
+
+1
+
+|
+
+Autorisation d’exportation mise en œuvre en application de l’article 8 du
+
+règlement (CE) n
+
+°
+
+428/2009 du 5 mai 2009.
+
+|
+
+Article 1
+
+er
+
+du décret
+
+du 13 décembre 2001.
+
+Articles 5 et 6 du décret
+
+du 30 novembre 1944.
+
+|
+
+2 |
+
+Suspension, modification, retrait ou abrogation de l’autorisation
+
+mentionnée ci-dessus.
+
+|
+
+Article 1
+
+er
+
+du décret
+
+du 13 décembre 2001
+
+Article 5 et 6 du décret
+
+du 30 novembre 1944
+
+|
+
+3 |
+
+Précision quant au classement d’un bien ou d’une technologie dans l’une
+
+des catégories de biens et technologies soumises à autorisation.
+
+|
+
+Article 2-1 du décret
+
+du 13 décembre 2001
+
+|
+
+Décret n
+
+°
+
+2008-83 du 24 janvier 2008 relatif aux mesures restrictives à l’encontre de l’Iran prévues par le
+
+règlement (CE) n
+
+°
+
+423/2007 du Conseil du 19 avril 2007
+
+1
+
+|
+
+Précision quant au classement d’un bien ou d’une technologie dans l’une
+
+des catégories de biens et technologies soumises à autorisation.
+
+|
+
+Article 2-1 du décret
+
+du 24 janvier 2008.
+
+|
+
+Décisions entrant dans le champ de compétences de la direction générale de la modernisation de l’Etat
+
+Décret n
+
+°
+
+2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance
+
+n
+
+°
+
+2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités
+
+administratives et entre les autorités administratives
+
+1
+
+|
+
+Référencement des produits de sécurité et des prestataires de services de confiance.
+
+|
+
+Second alinéa de l’article 24.
 
 |
 
