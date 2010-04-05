@@ -1,6 +1,6 @@
 # Article ANNEXE II
 
-TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE À COMPTER DU 1er JANVIER 2002
+TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE
 
 FRAIS
 
@@ -20,21 +20,11 @@ MONTANT
 
 |
 
-Immobilisation
-
-matérielle
+Immobilisation matérielle
 
 |
 
-Véhicules PL 44 t ≥ PTAC > 19 t.
-
-|
-
-7,60
-
-|
-
-Véhicules PL 19 t ≥ PTAC > 7,5 t.
+Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
@@ -42,7 +32,15 @@ Véhicules PL 19 t ≥ PTAC > 7,5 t.
 
 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t.
+Véhicules PL 19 t ≥ PTAC > 7,5 t
+
+|
+
+7,60
+
+|
+
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
@@ -66,13 +64,19 @@ Autres véhicules immatriculés
 
 |
 
-Opérations
-
-préalables
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
 
 |
 
-Véhicules PL 44 t≥ PTAC > 19 t.
+7,60
+
+|
+
+Opérations préalables
+
+|
+
+Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
@@ -80,7 +84,7 @@ Véhicules PL 44 t≥ PTAC > 19 t.
 
 |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t.
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
@@ -88,7 +92,7 @@ Véhicules PL 19 t ≥ PTAC > 7,5 t.
 
 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t.
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
@@ -112,11 +116,19 @@ Autres véhicules immatriculés
 
 |
 
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+
+|
+
+7,60
+
+|
+
 Enlèvement
 
 |
 
-Véhicules PL 44 t ≥ PTAC > 19 t.
+Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
@@ -124,7 +136,7 @@ Véhicules PL 44 t ≥ PTAC > 19 t.
 
 |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t.
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
@@ -132,7 +144,7 @@ Véhicules PL 19 t ≥ PTAC > 7,5 t.
 
 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t.
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
@@ -144,7 +156,7 @@ Voitures particulières
 
 |
 
-91,50
+110,00
 
 |
 
@@ -156,11 +168,19 @@ Autres véhicules immatriculés
 
 |
 
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+
+|
+
+45,70
+
+|
+
 Garde journalière
 
 |
 
-Véhicules PL 44 t > PTAC > 19 t.
+Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
@@ -168,7 +188,7 @@ Véhicules PL 44 t > PTAC > 19 t.
 
 |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t.
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
@@ -176,7 +196,7 @@ Véhicules PL 19 t ≥ PTAC > 7,5 t.
 
 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t.
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
@@ -200,11 +220,19 @@ Autres véhicules immatriculés
 
 |
 
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+
+|
+
+3,00
+
+|
+
 Expertise
 
 |
 
-Véhicules PL 44 t ≥ PTAC > 19 t.
+Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
@@ -212,7 +240,7 @@ Véhicules PL 44 t ≥ PTAC > 19 t.
 
 |
 
-Véhicules PL 19 t ≥ PTAC > 7,5 t.
+Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
@@ -220,7 +248,7 @@ Véhicules PL 19 t ≥ PTAC > 7,5 t.
 
 |
 
-Véhicules PL 7,5 t ≥ PTAC > 3,5 t.
+Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
@@ -237,6 +265,14 @@ Voitures particulières
 |
 
 Autres véhicules immatriculés
+
+|
+
+30,50
+
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
 
 |
 
