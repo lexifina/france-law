@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100211977
+
+- Question : [SEQ100211977](seq100211977.md) — Protection du public contre les dangers des rayonnements ionisants
+
+## Réponse
+
+*Écologie (SE), JO du 2010-04-08, page 893*
+
+L'article R. 1333-4 du code de la santé publique ainsi que l'arrêté interministériel du 5 mai 2009 fixant la composition du dossier et les modalités d'information des consommateurs prévues à l'article R. 1333-5 du code de la santé publique n'autorisent pas l'addition intentionnelle de radionucléides dans les produits de construction ou biens de consommation. Cet arrêté, qui est requis par l'article R. 1333-5 du code de la santé publique, ne fait que préciser la composition du dossier qui doit être déposé par les demandeurs pour solliciter une dérogation. Cet arrêté ne préjuge pas des dérogations qui pourront être accordées. Ces éventuelles dérogations seront accordées au cas par cas, par arrêté ministériel, après avis de l'Autorité de sûreté nucléaire et du Haut conseil de la santé publique et uniquement, si elles sont justifiées par les avantages qu'elles procurent, au regard des inconvénients qu'elles peuvent présenter et si une évaluation des risques sanitaires et environnementaux montre que ces risques sont acceptables. Alors que l'État a engagé un plan d'actions important pour récupérer les objets radioactifs, historiquement détenus par le grand public (fontaines au radium, aiguilles au radium, têtes de paratonnerre...), le Gouvernement n'a absolument pas l'intention de permettre la valorisation de déchets susceptibles d'être contaminés par des substances radioactives pour la fabrication de biens de consommation et de produits de construction destinés au grand public. La valorisation de tels déchets ne pourrait se concevoir que pour des applications très spécifiques, destinées à l'industrie nucléaire, et dans la mesure où il serait démontré qu'elles ne présentent pas d'impact vis-à-vis des salariés et de l'environnement.
