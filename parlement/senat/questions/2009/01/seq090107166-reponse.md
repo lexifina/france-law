@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107166
+
+- Question : [SEQ090107166](seq090107166.md) — CREPS de Vichy en Auvergne
+
+## Réponse
+
+*Santé, JO du 2010-04-08, page 904*
+
+Dans le cadre de la révision générale des politiques publiques, le ministère chargé des sports a lancé en 2008 une réforme concernant la restructuration de ses établissements publics nationaux (EPN). Cette démarche vise à les recentrer sur deux missions prioritaires : l'accueil des sportifs de haut niveau, afin de permettre la réussite de leur double projet (sportif et d'insertion socioprofessionnelle) ; l'offre de formation aux diplômes conduisant aux métiers de l'animation et du sport, dans le secteur monopolistique (activités en environnement spécifique), et dans les secteurs où l'offre de formation privée - associative ou marchande - est encore insuffisante. L'application de ces nouvelles orientations s'est traduite par l'examen de la cartographie nationale du réseau des CREPS. Pour le CREPS de Vichy, une période de concertation entre les collectivités territoriales, l'ensemble des partenaires et le mouvement sportif, a été définie. Cette concertation tenait compte de l'objectif général de rationalisation des moyens du ministère, de l'évolution prévisible de l'offre de formation au plan régional et des perspectives d'implantation de pôles sportifs au titres des parcours de l'excellence sportive 2009-2013. À l'issue de cette période de concertation, il a été décidé de maintenir le CREPS de Vichy au sein du réseau des établissements publics nationaux. Le nouveau pôle ressources national « sport et santé » vient d'y être implanté. Ce pôle a pour vocation de mettre en oeuvre les politiques nationales décidées par le ministère de la santé et des sports. Son principal objectif est de promouvoir et de faciliter la pratique d'une activité physique ou sportive adaptée et sécurisée pour l'ensemble de la population française.
