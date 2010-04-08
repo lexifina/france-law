@@ -12,7 +12,9 @@ MAISONS DE JUSTICE ET DU DROIT
 
 |
 
-Cour d'appel d'Aix-en-Provence |
+Cour d'appel d'Aix-en-Provence
+
+|
 
 Alpes-Maritimes
 
@@ -532,7 +534,7 @@ Nancy
 
 |
 
-Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
+Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
 
 |
 
