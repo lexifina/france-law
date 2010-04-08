@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010631
+
+- Question : [SEQ091010631](seq091010631.md) — Avis des architectes des Bâtiments de France
+
+## Réponse
+
+*Culture, JO du 2010-04-08, page 888*
+
+L'article 9 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en oeuvre du Grenelle de l'environnement dite Grenelle I a remplacé l'avis conforme par un avis simple dans le régime des autorisations d'urbanisme applicable aux zones de protection du patrimoine architectural, urbain et paysager (ZPPAUP). Par voie de conséquence, la procédure de recours administratif contre l'avis de l'architecte des Bâtiments de France auprès du préfet de région a été supprimée. La suppression de l'avis conforme de l'ABF en ZPPAUP n'affecte cependant pas l'application du règlement spécifique de la zone, qui fonde tant l'avis simple de l'ABF que les décisions d'autorisation d'urbanisme. Lors du débat au Sénat de la loi dite Grenelle II en septembre 2009, les sénateurs ont introduit plusieurs amendements visant revenir à l'avis conforme. Cependant, le Gouvernement, conscient d'une nécessaire amélioration de l'évolution du dispositif des ZPPAUP, tant dans la conception et le contenu de ces dernières que dans les modalités d'application et le rôle des différents acteurs ou intervenants, a mis en place une commission sous la présidence du ministre de la culture et de la communication et dont le rapporteur est M. Thierry Tuot, conseiller d'État. Cette commission composée de parlementaires, de représentants du monde associatif et de professionnels s'est réunie à plusieurs reprises en octobre et novembre 2009 et ses conclusions donneront lieu à des amendements qui seront débattus lors de l'examen du projet de loi Grenelle II devant l'Assemblée nationale.
