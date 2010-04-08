@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609169
+
+- Question : [SEQ090609169](seq090609169.md) — Kafala et procédure de regroupement familial
+
+## Réponse
+
+*Immigration et intégration, JO du 2010-04-08, page 899*
+
+La ressortissante algérienne, mère, légitime ou naturelle, d'un enfant (le cas de la filiation adoptive n'est pas reconnue par le droit algérien) peut faire venir celui-ci en France, dès lors qu'elle remplit les autres conditions du regroupement familial prévues à l'article 4 de l'accord franco-algérien du 27 décembre 1968 modifié, sans avoir besoin ni d'un jugement de « kafala », ni, en règle générale, d'un jugement lui attribuant l'autorité parentale, car elle tient celle-ci non d'une décision juridique mais directement de la loi. Un juge peut, cependant, intervenir sur le partage de l'exercice de l'autorité parentale entre elle et l'autre auteur de l'enfant, voire lui attribuer exclusivement cet exercice. En application du titre II du protocole annexé à l'accord franco-algérien précité, l'Algérienne qui n'est pas la mère biologique d'un enfant peut faire venir cet enfant en France, soit avec elle, soit postérieurement, dès lors qu'elle s'est vu attribuer la charge de celui-ci par décision d'une autorité judiciaire algérienne. La kafala étant une décision de ce type, le protocole précité lui est applicable, bien qu'il ne la mentionne pas expressément. La décision de l'administration française d'accepter ou de refuser l'entrée d'un enfant mineur recueilli en vertu de cette décision de l'autorité judiciaire algérienne, ou son admission au titre du regroupement familial, n'est pas automatique et est prise en tenant compte de l'intérêt supérieur de l'enfant, conformément à l'article 3-1 de la convention de New York du 26 janvier 1990 sur les droits de l'enfant, et ses conditions d'accueil en France (CE, 9 décembre 2009, n° 305031).
