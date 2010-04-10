@@ -2,17 +2,21 @@
 
 |
 
-QUOTA 2010 (EN TONNES)
+QUOTA 2010
+
+(en t)
 
 en océan Atlantique
 
 à l'est de la longitude
 
-45° Ouest
+45° O
 
 |
 
-QUOTA 2010 (EN TONNES)
+QUOTA 2010
+
+(en t)
 
 en mer Méditerranée
 
@@ -78,11 +82,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
+Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-38
+40
 
 |
 
@@ -106,7 +110,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-13
+10
 
 |
 
@@ -138,7 +142,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
@@ -162,11 +166,11 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD)
+Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP Sud)
 
 |
 
-36
+37
 
 |
 
@@ -174,7 +178,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
+Navires non adhérents d'une organisation de producteurs
 
 |
 
@@ -186,13 +190,15 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-Réserve nationale
+Réserve nationale pour les navires immatriculés en océan Atlantique
 
 |
 
 101
 
 |
+
+0
 
 |
 
