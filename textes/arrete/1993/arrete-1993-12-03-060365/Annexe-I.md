@@ -1,12 +1,18 @@
 # Article Annexe I
 
+VITAMINES ET SELS MINÉRAUX POUVANT ÊTRE DÉCLARÉS
+
+ET APPORT JOURNALIER RECOMMANDÉ (AJR)
+
 VITAMINES ET SELS MINÉRAUX
 
 |
 
 APPORTS JOURNALIERS
 
-recommandés (AJR)
+recommandés
+
+(AJR)
 
 |
 
@@ -30,7 +36,15 @@ Vitamine E (mg)
 
 |
 
-10
+12
+
+|
+
+Vitamine K (µg)
+
+|
+
+75
 
 |
 
@@ -38,7 +52,7 @@ Vitamine C (mg)
 
 |
 
-60
+80
 
 |
 
@@ -46,7 +60,7 @@ Thiamine (mg)
 
 |
 
-1,4
+1, 1
 
 |
 
@@ -54,7 +68,7 @@ Riboflavine (mg)
 
 |
 
-1,6
+1, 4
 
 |
 
@@ -62,7 +76,7 @@ Niacine (mg)
 
 |
 
-18
+16
 
 |
 
@@ -70,11 +84,11 @@ Vitamine B6 (mg)
 
 |
 
-2
+1, 4
 
 |
 
-Folacine (µg)
+Acide folique (µg)
 
 |
 
@@ -86,15 +100,15 @@ Vitamine B12 (µg)
 
 |
 
-1
+2, 5
 
 |
 
-Biotine (mg)
+Biotine (µg)
 
 |
 
-0,15
+50
 
 |
 
@@ -103,6 +117,22 @@ Acide pantothénique (mg)
 |
 
 6
+
+|
+
+Potassium (mg)
+
+|
+
+2 000
+
+|
+
+Chlorure (mg)
+
+|
+
+800
 
 |
 
@@ -118,7 +148,15 @@ Phosphore (mg)
 
 |
 
-800
+700
+
+|
+
+Magnésium (mg)
+
+|
+
+375
 
 |
 
@@ -130,19 +168,59 @@ Fer (mg)
 
 |
 
-Magnésium (mg)
-
-|
-
-300
-
-|
-
 Zinc (mg)
 
 |
 
-15
+10
+
+|
+
+Cuivre (mg)
+
+|
+
+1
+
+|
+
+Manganèse (mg)
+
+|
+
+2
+
+|
+
+Fluorure (mg)
+
+|
+
+3, 5
+
+|
+
+Sélénium (µg)
+
+|
+
+55
+
+|
+
+Chrome (µg)
+
+|
+
+40
+
+|
+
+Molybdène (µg)
+
+|
+
+50
 
 |
 

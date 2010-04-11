@@ -4,17 +4,13 @@ NUTRIMENTS
 
 |
 
-COEFFICIENTS
+COEFFICIENTS DE CONVERSION
 
-de conversion
-
-|
-
-kcal/g
+kcal / g
 
 |
 
-kJ/g
+kJ / g
 
 |
 
@@ -34,7 +30,7 @@ Polyols
 
 |
 
-2,4
+2, 4
 
 |
 
@@ -90,7 +86,7 @@ Acides organiques
 
 |
 
-Différentes formes de salatrim (triacylglycérides à chaîne courte et longue définis dans la décision du 1er décembre 2003 susvisée)
+Différentes formes de salatrim (*)
 
 |
 
@@ -99,5 +95,33 @@ Différentes formes de salatrim (triacylglycérides à chaîne courte et longue 
 |
 
 25
+
+|
+
+Fibres alimentaires
+
+|
+
+2
+
+|
+
+8
+
+|
+
+Erythritol
+
+|
+
+0
+
+|
+
+0
+
+|
+
+(*) Triacylglycérides à chaîne courte et longue définis dans la décision 2003 / 867 / CE de la Commission.
 
 |
