@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel de dessinateur (trice) en construction métallique.
+Titre professionnel : dessinateur d'ouvrages de métallerie (ancien intitulé : dessinateur en construction métallique).
 
 Niveau : IV.
 
@@ -12,39 +12,49 @@ Code NSF : 254 n.
 
 Résumé du référentiel d'emploi
 
-Le (la) dessinateur (trice) en construction métallique réalise des plans de bâtiments et d'ouvrages à structure métallique, généralement à l'aide de logiciels spécifiques, et parfois à la planche à dessin. Il (elle) travaille à partir de croquis et des directives du responsable de projet. Il (elle) effectue des mises au net de plans et complète le travail du projeteur en réalisant des éléments du dossier de production. Il (elle) calcule les assemblages simples, dessine le plan de fabrication de chaque élément et répartit les éléments de couverture et de bardage. Enfin, il (elle) établit la nomenclature des matériaux utilisés.
+Le dessinateur d'ouvrages de métallerie est chargé de la réalisation des plans techniques des ouvrages de métallerie et de menuiserie métallique. Il participe aux réponses aux appels d'offres et aux diverses consultations, recherche des solutions techniques et transmet au chargé d'affaires des croquis, plans de principe et quantitatifs. Il respecte rigoureusement les normes en vigueur, les délais et le budget. Il a contact avec des fournisseurs pour résoudre des problèmes techniques courants.
 
-Le (la) dessinateur (trice) en construction métallique exerce en bureaux d'études d'entreprises, en bureaux d'études indépendants agissant pour plusieurs entreprises, ou au sein de cabinets d'ingénierie du bâtiment et des travaux publics. En fonction de la taille du projet, il (elle) peut travailler seul (e) ou en équipe, sous la responsabilité d'un chef de projet.L'emploi est principalement sédentaire. Du fait de l'informatisation du dessin, la station debout n'est plus prépondérante.
+Les études techniques concernent principalement les structures porteuses telles que les planchers, les verrières et vérandas mais aussi d'autres productions de métallerie et de menuiserie métallique, notamment les portails, garde-corps, fenêtres, mobiliers urbains, façades légères, bardages et couvertures métalliques.
 
-Capacités attestées et descriptif
+Le dessinateur d'ouvrages de métallerie exerce principalement en bureau d'études d'entreprises de métallerie et de menuiserie métallique, composé de deux à trois personnes. Il travaille seul en relation avec le responsable des études. Le poste de travail est principalement en station assise avec un poste informatique. Il utilise des logiciels de dessin et des bases de données. Cet emploi sédentaire est parfois ponctué par des déplacements sur les chantiers destinés à réaliser des prises de cotes ou des analyses de situations exceptionnelles.
 
-des composantes de la certification
+Il réalise l'ensemble des activités dans le respect des règles de sécurité individuelles et collectives.
 
-1. Mettre en forme des plans de construction métallique
+Capacités attestées et descriptif des composantes
 
-à la planche et en dessin assisté par ordinateur
+de la certification
 
-Dessiner des détails techniques de construction métallique en utilisant des logiciels de dessin et à la planche à dessin.
+1. Elaborer les études techniques de projets de métallerie.
 
-Transposer des croquis ou schémas en plans de construction métallique, en utilisant des logiciels de dessin et à la planche à dessin.
+Etudier des solutions techniques en métallerie.
 
-2. Réaliser des plans d'exécution de construction métallique
+Déterminer des sections résistantes d'ouvrages de métallerie.
 
-Reporter sur des plans des produits de l'enveloppe du bâtiment industriel et des ouvrages de métallerie-serrurerie.
+Effectuer un quantitatif estimatif d'ouvrages de métallerie.
 
-Réaliser des calculs simples d'attaches et d'ossatures secondaires de construction métallique.
+Intégrer les produits de métallerie et de menuiserie métallique à fortes résistances thermiques dans le cadre du développement durable.
 
-Dessiner des détails d'exécution de construction métallique à partir de notes de calculs simples, à la planche à dessin et / ou avec des logiciels de dessin.
+2. Réaliser les plans d'exécution d'ouvrages de métallerie.
+
+Dessiner des plans d'exécution de métallerie et menuiseries métalliques.
+
+Dessiner des plans d'exécutions d'ossatures métalliques.
+
+Définir des produits de l'enveloppe du bâtiment.
+
+Composer le dossier d'exécution de pose d'ouvrages.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Bureaux d'études d'entreprises ou indépendants intervenant dans le domaine de la construction métallique.
+Bureaux d'études d'entreprises de métallerie
+
+et de menuiserie métallique
 
 Code ROME :
 
-61221-Dessinateur (trice) du bâtiment et des travaux publics.
+61221-Dessinateur / trice du BTP.
 
 Réglementation de l'activité :
 
@@ -56,12 +66,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
-
-NOTA :
-
-Arrêté du 7 avril 2009 article 1 : Le titre professionnel de dessinateur en construction métallique est prorogé d'un an à compter de la publication du présent arrêté.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
