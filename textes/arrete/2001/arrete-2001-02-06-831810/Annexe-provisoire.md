@@ -88,7 +88,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-a) b) Peut provoquer une réaction allergique.
+a) b) Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -116,6 +134,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -142,7 +180,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peul provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -170,7 +226,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -202,7 +276,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-a) b) Peut provoquer une réaction allergique.
+a) Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -234,7 +326,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-a) b) Peut provoquer une réaction allergique.
+a) Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -262,7 +372,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -294,7 +422,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-a) b) Peut provoquer une réaction allergique.
+a) Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -322,7 +468,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -350,6 +514,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -376,7 +560,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -404,7 +606,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -432,7 +652,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -457,6 +695,26 @@ Colorant non oxydant pour la coloration des cheveux.
 |
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -487,6 +745,50 @@ b) 0,5 %.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.
 
 |
+
+a)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
+b)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -542,6 +844,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -567,6 +889,26 @@ Colorant d'oxydation pour la coloration des cheveux.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,5 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -594,7 +936,25 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
-Peut provoquer une réaction allergique.
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -622,6 +982,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -647,6 +1027,26 @@ Colorant d'oxydation pour la coloration des cheveux.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -674,6 +1074,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -699,6 +1119,26 @@ Colorant d'oxydation pour la coloration des cheveux.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -726,6 +1166,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -752,6 +1212,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -777,6 +1257,26 @@ Colorant d'oxydation pour la coloration des cheveux.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -808,6 +1308,50 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+a)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
+b)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -837,6 +1381,26 @@ b) 0,5 %.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -868,6 +1432,26 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 |
 
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
 |
 
 31 décembre 2010
@@ -893,6 +1477,26 @@ a) 3,0 %.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.
 
 |
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
@@ -923,6 +1527,50 @@ b) 2,0 %.
 En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.
 
 |
+
+a)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+
+b)
+
+Vous pouvez consulter le cliché dans le JO
+
+n° 86 du 13/04/2010 texte numéro 17
+
+Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+
+Lire et suivre les instructions.
+
+Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+
+Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+
+Ne vous colorez pas les cheveux si :
+
+- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
+
+- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
+
+- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
 
 |
 
