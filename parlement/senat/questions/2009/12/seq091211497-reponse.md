@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211497
+
+- Question : [SEQ091211497](seq091211497.md) — L'enseignement des disciplines privilégié au détriment de la formation pédagogique des futurs maîtres
+
+## Réponse
+
+*Éducation, JO du 2010-04-15, page 958*
+
+Dans le cadre de la réforme des conditions de recrutement et de formation des personnels enseignants des premier et second degrés et des personnels d'éducation qui porte leur niveau de recrutement par concours au master (bac + 5), les universités devront proposer des masters intégrant une composante forte de formation professionnelle, de plus en plus importante dans le cursus. Au cours de leur formation universitaire, les étudiants se destinant au métier d'enseignant pourront bénéficier d'une préparation progressive et effective à ce métier, notamment grâce à des stages. Les stages d'observation et de pratique accompagnée permettront aux étudiants de se confronter aux situations professionnelles rencontrées par les enseignants auprès desquels ils seront placés pendant le stage. Les périodes de pratique accompagnée donneront lieu à des mises en pratique concrètes, consistant par exemple en la préparation et la conduite d'un cours ou d'une séquence d'enseignement. Ils seront organisés pour une durée inférieure à quarante jours et dans la limite de cent huit heures. Les stages en responsabilité, d'une durée maximale de cent huit heures, verront les étudiants prendre en charge la responsabilité d'une classe. Ils seront rémunérés sur la base de 34,30 € bruts de l'heure. Dès la rentrée scolaire 2010, les lauréats des concours effectueront leur année de fonctionnaire stagiaire en situation d'enseignement. Pendant l'année de stage, ils bénéficieront d'une formation dispensée, dans le cadre des orientations définies par l'État, sous la forme d'actions complémentaires, d'un tutorat ainsi que, le cas échéant, d'autres types d'actions d'accompagnement. Ils seront ainsi mieux formés et plus qualifiés.
