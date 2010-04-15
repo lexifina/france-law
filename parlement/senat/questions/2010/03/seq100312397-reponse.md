@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312397
+
+- Question : [SEQ100312397](seq100312397.md) — Élagage des arbres
+
+## Réponse
+
+*Alimentation, JO du 2010-04-15, page 947*
+
+La réglementation concernant les arbres est définie par les articles 670 à 673 du code civil. Les dispositions de l'article 673 précisent que, lorsque les branches d'un arbre surplombent le fonds du voisin, celui-ci peut obliger le propriétaire à les couper ou à les faire couper. Ce droit d'exiger que les branches soient coupées au niveau de la limite séparatrice des deux fonds est imprescriptible. L'article 673 susmentionné n'est pas applicable aux fonds séparés par une voie communale affectée à la circulation générale et ayant fait l'objet d'un classement dans le domaine public par délibération du conseil municipal. Les règles de plantation et d'élagage sont en effet déterminées à partir de la ligne séparatrice entre deux propriétés, et impliquent donc une condition de mitoyenneté. En revanche, les propriétaires sont assujettis à une servitude d'élagage en vertu de laquelle ils doivent couper les branches et racines qui avancent sur la voie publique, à l'aplomb de ladite voie. Le maire peut, dans le cadre des pouvoirs de police qu'il détient de l'article 2212-2 du code général des collectivités territoriales, imposer aux riverains des voies de procéder à l'élagage ou à l'abattage des arbres de leur propriété dès lors que ceux-ci portent atteinte à la commodité du passage. En outre, le maire est compétent pour établir les servitudes de visibilité prévues à l'article L. 114-2 du code de la voirie routière, qui comportent l'obligation de « supprimer les plantations gênantes » pour les propriétés riveraines des voies publiques. Toutefois, l'exécution d'office de l'élagage des plantations privées riveraines d'une voie aux frais des propriétaires défaillants n'est explicitement prévue par l'article D. 161-24 du code rural que pour les chemins ruraux.
