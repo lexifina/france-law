@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312454
+
+- Question : [SEQ100312454](seq100312454.md) — Dispositif de la réversion des points gratuits de RCO
+
+## Réponse
+
+*Alimentation, JO du 2010-04-15, page 948*
+
+Le Gouvernement a décidé, sur proposition du ministère de l'alimentation, de l'agriculture et de la pêche, de prendre une nouvelle mesure, dans le cadre de la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010, afin que la pension de réversion soit servie au conjoint survivant d'un exploitant bénéficiaire de la retraite complémentaire obligatoire (RCO) à titre gratuit. Auparavant, la pension de réversion de RCO n'était attribuée sur les points cotisés et gratuits qu'au conjoint survivant d'un chef d'exploitation ou d'entreprise agricole ayant pris sa retraite après le 1er janvier 2003. Si le chef d'exploitation était décédé avant d'avoir liquidé sa retraite, la réversion portait sur les seuls points cotisés. S'il avait pris sa retraite avant le 1er janvier 2003, il n'y avait pas de réversion. Cette mesure, dont la date d'effet est fixée au 1er janvier 2010, permettra d'améliorer les pensions servies aux conjoints survivants de chefs d'exploitation agricole retraités avant le 1er janvier 2003 et décédés à compter de cette date en ayant bénéficié de la RCO. En 2010, elle concernera 70 000 conjoints survivants pour un coût total de 40 M€. Cette mesure concrétise l'engagement du Gouvernement à améliorer la situation des retraités agricoles les plus modestes. Le régime de RCO étant financé en grande partie par la solidarité nationale, c'est dans le cadre du débat sur les retraites qui va être engagé en 2010 que pourraient être examinées les conditions d'une amélioration de la couverture RCO des conjoints survivants de chefs d'exploitation ou d'entreprise agricole décédés après le 1er janvier 2003 avant d'avoir liquidé leur retraite.
