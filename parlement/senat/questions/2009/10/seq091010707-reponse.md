@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010707
+
+- Question : [SEQ091010707](seq091010707.md) — État et entretien de la ligne Alès-Bessèges
+
+## Réponse
+
+*Transports, JO du 2010-04-15, page 961*
+
+La ligne Alès-Bessèges est une ligne ferroviaire à faible trafic où circulent trois aller-retour TER par jour, ainsi qu'un à deux mouvements par mois de trains de fret. La chute récente d'un bloc de rocher sur la voie ne peut être imputée à un manque d'entretien. Elle est la conséquence d'orages cévenols auxquels cette ligne est particulièrement exposée. La vitesse de circulation est cependant limitée à 40 km/h sur les deux tiers de la ligne et à 70 km/h sur le premier tiers. Les travaux strictement nécessaires au maintien des vitesses de circulation actuelles ont été estimés par Réseau ferré de France (RFF) à 3 millions d'euros. Afin de garantir la pérennité de cette ligne à moyen terme, des travaux plus importants d'infrastructure sont nécessaires, estimés en première analyse à 23 millions d'euros auxquels s'ajoutent environ 20 millions d'euros d'investissement de signalisation pour une circulation qui serait portée par hypothèse à cinq aller-retour de trains de voyageurs. Le financement des investissements nécessaires sur cette ligne n'est pas inscrit au contrat de projets État-région et dépendra de la volonté de la région, autorité organisatrice de transport, notamment au regard des perspectives de développement du trafic. Un protocole d'intention de maintien et de développement de la ligne, élaboré en décembre 2009 par le syndicat mixte des transports du bassin d'Alès, prévoit notamment la réalisation d'une étude socio-économique et une étude technique de la ligne, en préalable à toute décision d'investissement. RFF est prêt à signer ce protocole pour lequel aucune suite n'a encore été donnée à ce jour.
