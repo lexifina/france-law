@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709551
+
+- Question : [SEQ090709551](seq090709551.md) — Remontée du niveau des nappes d'eau souterraines en Lorraine
+
+## Réponse
+
+*Écologie, JO du 2010-04-15, page 953*
+
+D'un point de vue général, le suivi des nappes d'eau souterraines est un sujet faisant l'objet d'une attention particulière de la part du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (MEEDDM). Dans le cas spécifique de la fin de l'exploitation du bassin houiller lorrain, les études réalisées montrent que la remontée des nappes souterraines due à la fin des exhaures minières se produit telle qu'elle était attendue. Aucun phénomène alarmant n'est apparu. Naturellement, la surveillance des niveaux et de la qualité des eaux continue d'être réalisée et le sera tant que la situation ne pourra être considérée comme stable. S'il s'avérait nécessaire de mettre en oeuvre des mesures de traitement des eaux résurgentes, des moyens adaptés sont disponibles, notamment au travers du département prévention et sécurité minière du bureau de recherches géologiques et minières (BRGM), en charge des travaux « après mines » pour le compte de l'État. Il est vraisemblable qu'à échéance de plusieurs années, il faille mettre en oeuvre des pompages destinés à protéger les lieux dont l'altitude est la plus basse au regard du risque d'inondation. Des mesures identiques sont déjà employées dans l'ancien bassin minier du Nord-Pas-de-Calais. De même, quand c'est nécessaire, le budget de l'État finance déjà dans d'autres régions les opérations de dépollution des eaux résurgentes des anciennes mines. Dans le cas de la Lorraine et lorsque la surveillance des eaux, aujourd'hui effective tant pour leur niveau que pour leur qualité, mettra en lumière le besoin d'agir, l'État prendra ses responsabilités en mobilisant les moyens nécessaires.
