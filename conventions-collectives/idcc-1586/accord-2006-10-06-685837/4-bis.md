@@ -4,17 +4,27 @@
 
 En cas de cessation du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, les salariés non cadres définis à l'article 2 “ Bénéficiaires ” de l'accord du 6 octobre 2006 bénéficient du maintien des garanties prévues à l'article 4 de cet accord définies ci-après :
 
-Article 4. 1 “ Garantie décès toute cause ou invalidité permanente et totale ” ;
+Article 4.1 “ Garantie décès toute cause ou invalidité permanente et totale ”.
 
-Article 4. 2 “ Garantie rente éducation (rente OCIRP) ” ;
+Article 4.2 “ Garantie rente éducation (rente OCIRP) ”.
 
-Article 4. 3 “ Garantie incapacité de travail ”.
+Article 4.3 “ Garantie incapacité de travail ”.
+
+Article 4.4 “ Garantie invalidité ”.
 
 Le bénéfice du maintien de ces garanties est subordonné à la condition que les droits à couverture complémentaire aient été ouverts chez le dernier employeur.
 
 Le maintien de ces garanties s'effectue dans les mêmes conditions que pour les salariés en activité, sauf dispositions particulières définies ci-après et sous réserve que l'ancien salarié n'ait pas expressément renoncé à l'ensemble des garanties collectives prévoyance et frais de santé en vigueur dans l'entreprise, qu'elles soient prévues par le régime créé dans le cadre de la convention collective nationale ou par les autres modalités de mise en place des garanties de prévoyance définies à l'article L. 911-1 du code de la sécurité sociale. La renonciation est définitive et doit être notifiée expressément par écrit à l'ancien employeur, dans les 10 jours suivant la date de cessation du contrat de travail.
 
-Le dispositif de portabilité s'applique aux cessations de contrat de travail dont la date est égale ou postérieure au 1er mars 2010.
+Le dispositif de portabilité s'applique aux cessations de contrat de travail dont la date est égale ou postérieure au 1er mars 2010 concernant :
+
+–   les garanties décès toutes causes ou invalidité permanente et totale ;
+
+–   les garanties rente éducation (rente OCIRP) ;
+
+–   les garanties incapacité de travail.
+
+Pour la garantie invalidité, le dispositif de portabilité s'applique aux cessations de contrat de travail dont la date est égale ou postérieure à la date d'effet du présent avenant.
 
 2. Salaire de référence
 
@@ -22,7 +32,7 @@ Le salaire de référence servant de base au calcul des prestations est celui d�
 
 3. Incapacité de travail
 
-L'indemnisation au titre de la garantie incapacité de travail telle que définie à l'article 4. 3 de l'accord du 6 octobre 2006 interviendra pour tous les bénéficiaires de la portabilité à l'issue d'une franchise fixe continue de 180 jours par arrêt.
+L'indemnisation au titre de la garantie incapacité de travail telle que définie à l'article 4.3 de l'accord du 6 octobre 2006 interviendra pour tous les bénéficiaires de la portabilité à l'issue d'une franchise fixe continue de 180 jours par arrêt.
 
 En tout état de cause, l'indemnisation prévue ne peut conduire l'intéressé à percevoir une indemnisation supérieure au montant de l'allocation nette du régime obligatoire d'assurance chômage à laquelle il ouvre droit et qu'il aurait perçue au titre de la même période. Si l'allocation chômage n'a pas encore été versée, celle-ci sera reconstituée sur la base des conditions du régime d'assurance chômage applicables au jour de l'incapacité. Il en sera de même si la date théorique de fin de droit à l'allocation chômage survient au cours de la période d'indemnisation.
 
