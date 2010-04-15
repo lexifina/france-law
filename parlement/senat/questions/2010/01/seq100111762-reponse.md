@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111762
+
+- Question : [SEQ100111762](seq100111762.md) — Filière de recyclage des plastiques agricoles
+
+## Réponse
+
+*Alimentation, JO du 2010-04-15, page 947*
+
+Les déchets de plastiques agricoles sont essentiellement composés d'emballages vides et de films usagés. Si la filière d'élimination des emballages est opérationnelle, celle des films plastiques en fin de vie est à l'étude depuis plusieurs années, la création d'une filière d'élimination se heurtant notamment au coût de la prise en charge des films usagés. L'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) a mis en place, dans son plan d'action 2009-2014, un soutien pour la structuration de la filière de gestion des films agricoles usagés pour un total de 2,8 millions d'euros sur cinq ans. Les professionnels du plastique agricole, notamment les fabricants, réunis au sein du comité des plastiques en agriculture (CPA), se sont engagés, par engagement contractuel volontaire avec le CPA, dans la création d'une filière nationale de récupération et valorisation des films agricoles usagés. Les metteurs sur le marché verseront une écocontribution destinée à soutenir les collectes territoriales et à installer une gestion pérenne des déchets collectés sur l'ensemble du territoire national. Le CPA a confié, par voie contractuelle, l'organisation opérationnelle de la filière à ADIVALOR, éco-organisme déjà en charge de l'organisation d'autres filières de déchets de l'agrofourniture, comme les emballages d'engrais, les déchets phytosanitaires, et bénéficiant d'un accord-cadre avec l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME). Il revient donc à cet éco-organisme de contractualiser avec les opérateurs locaux. Les résultats, à ce jour, sont encourageants ; ainsi, la collecte des plastiques agricoles dans le département du Puy-de-Dôme est programmée en 2010, après un an d'interruption, pour un tonnage double de celui de l'année 2008.
