@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080905469
+
+- Question : [SEQ080905469](seq080905469.md) — Bilans 2006, 2007 et 2008 des lieutenants de louveterie en Savoie
+
+## Réponse
+
+*Écologie, JO du 2010-04-15, page 951*
+
+Depuis le retour du loup sur le territoire national, les lieutenants de louveterie se sont trouvés impliqués de façon croissante dans les opérations liées à la gestion de l'espèce, les préfets pouvant recourir ponctuellement à leur concours pour la mise en oeuvre d'opération d'effarouchement, de défense des troupeaux ou pour la conduite de tir de prélèvement de loup. En Savoie, entre 2006 et 2008, les seize louvetiers du département se sont engagés à des degrés divers dans la gestion des loups. Deux lieutenants ont participé régulièrement aux deux réunions annuelles du comité départemental et, de trois à six fois par an, aux groupes techniques de ce même comité. Trois louvetiers sont intervenus dans le protocole de suivi du loup mis en place par l'Office national de la chasse et de la faune sauvage (ONCFS) dans les zones de présence permanente (ZPP) de l'espèce en hiver et en été, ce qui correspond en moyenne à 12 journées-agents par an. Huit louvetiers, formés pour la réalisation des constats de dommages aux troupeaux en vue d'une indemnisation, se sont placés bénévolement en appui de l'ONCFS et du parc national de la Vanoise, réalisant environ une demi-douzaine de constats par an jusqu'en 2007. Depuis 2008, la charge de la réalisation des constats revient désormais aux seuls louvetiers, qui interviennent dans le cadre de vacations pour le compte de l'ONCFS ou du parc national de la Vanoise. Tous les louvetiers du département ont pris part aux opérations de tir mises en oeuvre pour la prévention des dommages aux troupeaux. En l'absence d'opération déclenchée en 2006 et en 2008, l'implication des louvetiers est estimée en 2007 à 47 journées-agents pour la mise en oeuvre de deux autorisations de prélèvement encadrées par l'ONCFS.
