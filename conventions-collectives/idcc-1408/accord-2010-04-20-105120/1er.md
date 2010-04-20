@@ -1,0 +1,23 @@
+# Article 1er
+
+A compter du 1er juillet 2010, l'article 6 du chapitre II de la convention collective est supprimé et remplacé par les dispositions suivantes :
+
+« Il est attribué aux salariés une prime en fonction de l'ancienneté telle qu'elle est définie à l'article 17 du chapitre Ier.
+
+Cette prime, calculée sur le minimum de rémunération de la fonction, est égale à :
+
+– 3 % après 3 ans ;
+
+– 6 % après 6 ans ;
+
+– 9 % après 9 ans ;
+
+– 12 % après 12 ans ;
+
+– 13 % après 13 ans ;
+
+– 14 % après 14 ans ;
+
+– 15 % après 15 ans.
+
+Le montant de cette prime s'ajoute à la rémunération mensuelle et doit figurer à part sur le bulletin de paie. »
