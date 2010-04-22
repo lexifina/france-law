@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091111095
+
+- Question : [SEQ091111095](seq091111095.md) — Financement des sections sportives de collèges
+
+## Réponse
+
+*Éducation, JO du 2010-04-22, page 1021*
+
+Les moyens pour le fonctionnement des sections sportives de collèges ne sont pas définis au niveau national. En effet, il appartient aux recteurs de répartir la dotation globale académique dont ils disposent, en moyens d'enseignement et en crédits, en fonction des besoins de l'ensemble des structures scolaires. S'agissant du financement des sections sportives de collèges dans l'académie de Rennes, les services académiques ont organisé en 2009 une réunion d'information à destination des conseils généraux portant notamment sur leurs procédures d'ouverture et de renouvellement dans l'académie. Cette réunion faisait suite à des séances d'information organisées par l'inspecteur d'académie - inspecteur pédagogique régional d'éducation physique et sportive, au sein des départements, à la demande expresse des conseils généraux. Les services rectoraux ont rappelé, à cette occasion, que la labellisation des sections sportives était accordée par le recteur et ne donnait jamais lieu à attribution de moyens financiers spécifiques. Les sections sportives relèvent en effet de projets d'établissement mis en place au sein des établissements publics ou privés sous contrat. L'instruction des dossiers d'ouverture et de renouvellement est du ressort des services académiques. Les dossiers doivent répondre aux conditions précisées dans la circulaire n° 96-291 du 13 décembre 1996 et les modalités présentes dans la charte des sections sportives scolaires datant du 13 juin 2002. Les modalités de financement des sections sportives par les conseils généraux relèvent de leur compétence et ne font pas l'objet d'un examen ou d'un avis préalable par les services de l'État. Il n'est pas prévu de déterminer un cadrage plus abouti des modalités de financement des sections sportives.
