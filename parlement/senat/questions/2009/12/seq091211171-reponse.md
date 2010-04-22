@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211171
+
+- Question : [SEQ091211171](seq091211171.md) — Participation des communes aux frais de scolarité des enfants scolarisés dans les écoles primaires d'autres communes
+
+## Réponse
+
+*Éducation, JO du 2010-04-22, page 1021*
+
+Conformément aux dispositions de l'article L. 131-5 du code de l'éducation, « chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la personne qui en a la garde ». Dès lors, lorsqu'une famille déménage, les enfants sont de droit scolarisés dans leur nouvelle commune de résidence. Cependant, en application de l'article L. 212-8, « la scolarisation d'un enfant dans une école d'une commune autre que celle de sa résidence ne peut être remise en cause par l'une ou l'autre d'entre elles avant le terme soit de la formation préélémentaire, soit de la scolarité primaire de cet enfant commencées ou poursuivies durant l'année scolaire précédente dans un établissement du même cycle de la commune d'accueil ». Un enfant qui change de commune de résidence peut donc continuer son cycle dans l'école de son ancienne commune, la nouvelle commune de résidence étant tenue de participer financièrement à sa scolarisation. Avec ce dispositif, qui s'inscrit dans l'ensemble des limites posées à la scolarisation d'un enfant en dehors de sa commune de résidence, le législateur s'est efforcé d'établir un équilibre entre, d'une part, les droits des parents et des élèves et, d'autre part, les intérêts des communes. Néanmoins, des dérives potentielles ne peuvent pas être totalement exclues. Dans ce cadre, il appartient aux maires, responsables des inscriptions dans les écoles, de veiller à la réalité des informations qui leur sont communiquées par les familles, les services du ministère de l'éducation nationale n'étant pas compétents en la matière.
