@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Le titre X de la convention collective des organismes de tourisme est annulé et remplacé par les dispositions suivantes :
 
@@ -74,7 +74,9 @@ Elles correspondent à une anticipation, à une évolution prévue du poste de t
 
 Les actions de formation liées à l'évolution des emplois ou celles qui participent au maintien dans l'emploi sont mises en oeuvre pendant le temps de travail et donnent lieu pendant leur réalisation au maintien par l'entreprise de la rémunération.
 
-Toutefois, sous réserve d'un accord d'entreprise ou, à défaut, de l'accord écrit du salarié, le départ en formation peut conduire le salarié à dépasser la durée légale ou conventionnelle du travail. Les heures correspondant à ce dépassement ne s'imputent pas sur le contingent annuel d'heures supplémentaires prévu à l'article L. 3121-6 du code du travail ou sur le volume d'heures complémentaires prévu aux articles L. 3123-14, L. 3123-15, L. 312317, L. 3123-20, L. 3123-21, L. 3123-24 et L. 3128-18 du même code ne donnent lieu ni à repos compensateur obligatoire ni à majoration, et ce dans la limite de 50 heures par an et par salarié.
+Toutefois, sous réserve d'un accord d'entreprise ou, à défaut, de l'accord écrit du salarié, le départ en formation peut conduire le salarié à dépasser la durée légale ou conventionnelle du travail. Les heures correspondant à ce dépassement ne s'imputent pas sur le contingent annuel d'heures supplémentaires prévu à l'article L. 3121-6 du code du travail ou sur le volume d'heures complémentaires prévu aux articles L. 3123-14, L. 3123-15, L. 312317,
+
+L. 3123-20, L. 3123-21, L. 3123-24 et L. 3128-18 du même code ne donnent lieu ni à repos compensateur obligatoire ni à majoration, et ce dans la limite de 50 heures par an et par salarié.
 
 Pour les salariés dont la durée de travail est fixée par une convention de forfait en jours ou de forfait en heures sur l'année, prévue à l'article L. 3121-45, les heures correspondant au dépassement ne s'imputent pas sur le forfait, dans la limite de 4 % de celui-ci.
 
@@ -518,12 +520,14 @@ Les parties signataires laissent à leurs représentants au sein de cette commis
 
 Article 31
 
-Désignation de l'OPCA et poursuite des négociations
+Désignation de l'OPCA
 
-Les signataires conviennent que la désignation de l'OPCA se fera en concertation tous les 3 ans, afin de permettre une juste mise en concurrence des organismes.
+A compter du 1er janvier 2010, les employeurs entrant dans le champ d'application de la convention collective des organismes du tourisme (convention collective n° 3175) adhèrent à l'AGEFOS PME, en versant leurs contributions relatives au développement de la formation professionnelle continue.
 
-Pour la première période, courant de l'entrée en vigueur du présent avenant, il sera désigné AGEFOS-PME comme OPCA jusqu'au 31 décembre 2009.
+Le présent avenant est conclu pour une durée de 3 ans, sous réserve de conformité et de compatibilité avec les dispositions légales, réglementaires et conventionnelles en vigueur.
 
-Les parties pourront donc librement déterminer leur choix lors des prochaines négociations pour tenir compte notamment des actions réellement effectuées par l'OPCA désigné ci-dessus, ainsi que de sa disponibilité.
+Durée
 
-Les parties conviennent de poursuivre les négociations pour compléter le présent avenant des dispositions issues de la loi du 4 mai 2004 qui n'y figureraient pas.
+AGEFOS PME est désigné pour une période de 3 ans, allant jusqu'au 31 décembre 2012.
+
+La branche se réserve la possibilité de dénoncer cette désignation à chaque fin d'exercice si l'avis de la commission mixte paritaire est défavorable.
