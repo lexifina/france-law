@@ -646,7 +646,7 @@ UNSA-SPJJ
 
 |
 
-Haute-Garonne/Ariège
+Haute-Garonne/Arièges-Hautes-Pyrénées
 
 |
 
@@ -1698,25 +1698,11 @@ UNSA-SPJJ
 
 |
 
-Pyrénées-Orientales
+Pyrénées-Orientales-Aude
 
 |
 
 CGT-PJJ
-
-|
-
-1
-
-|
-
-1
-
-|
-
-|
-
-SN-FO-PJJ
 
 |
 
@@ -1739,6 +1725,20 @@ SNPES-PJJ/FSU
 |
 
 3
+
+|
+
+|
+
+UNSA-SPJJ
+
+|
+
+1
+
+|
+
+1
 
 |
 
@@ -2184,7 +2184,7 @@ SNPES-PJJ/FSU
 
 |
 
-Tarn
+Tarn-Aveyron
 
 |
 
@@ -2236,25 +2236,11 @@ SNPES-PJJ/FSU
 
 |
 
-4
+3
 
 |
 
-4
-
-|
-
-|
-
-UNSA-SPJJ
-
-|
-
-1
-
-|
-
-1
+3
 
 |
 
