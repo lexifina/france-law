@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312496
+
+- Question : [SEQ100312496](seq100312496.md) — Scolarisation des enfants du voyage et de familles non sédentaires
+
+## Réponse
+
+*Éducation, JO du 2010-04-29, page 1069*
+
+Des orientations nationales fixent les modalités d'inscription et de scolarisation des enfants du voyage dans le Bulletin officiel de l'éducation nationale n° 10 du 25 avril 2002. Les enfants du voyage séjournant sur une commune ont droit à être scolarisés et il est de la compétence du maire d'inscrire les enfants qui se présentent. Pour organiser et suivre de manière cohérente l'action en faveur des enfants de familles non sédentaires pour raisons professionnelles, il existe dans chaque académie un coordonnateur départemental chargé d'assurer la liaison avec les divers services de l'État afin de faciliter l'organisation de l'accueil et de l'inscription des élèves. Pour ce faire, les relations du coordonnateur avec les partenaires locaux sont essentielles, avec les maires en particulier, qui doivent prévoir, pour les enfants des forains, une scolarisation dès la demande d'emplacement et lui permettre de disposer de l'information en temps utile pour anticiper l'accueil des élèves. La collaboration du coordonnateur avec les inspecteurs chargés des circonscriptions du premier degré est également importante pour faciliter la mise en place d'aides aux équipes pédagogiques et aux élèves. Lorsque les effectifs peuvent être évalués avec assurance, il est recommandé d'en informer l'inspecteur de l'éducation nationale en charge de la circonscription, afin qu'il prenne, sous l'autorité de l'inspecteur d'académie, les mesures nécessaires à la scolarisation de ces enfants dès la prochaine rentrée scolaire. Il appartient aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, de faire appliquer les textes avec la plus grande vigilance.
