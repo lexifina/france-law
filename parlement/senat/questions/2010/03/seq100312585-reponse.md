@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312585
+
+- Question : [SEQ100312585](seq100312585.md) — Suppression du remboursement de l'archivage des images médicales
+
+## Réponse
+
+*Santé, JO du 2010-04-29, page 1079*
+
+L'Union nationale des caisses d'assurance maladie a créé le 23 août 2007 une cotation spécifique pour financer l'archivage numérique des actes de radiologie. Sa facturation était toutefois réservée aux seuls médecins ayant adhéré à une option conventionnelle créée par l'avenant 24 à la convention médicale et exerçant majoritairement en secteur libéral. Le Conseil d'État, dans son arrêté du 21 juillet 2009, a annulé cette cotation spécifique au motif que la création d'une telle option relevait de la compétence de l'Union nationale des caisses d'assurance maladie (UNCAM) et non des partenaires conventionnels. La prise en charge des actes de radiologie, qui s'est concrétisée notamment par le supplément de numérisation des images radiologiques, représente un effort important pour l'assurance maladie. Le coût cumulé de ce supplément, créé en 1991, dépasse, en 2009, un milliard d'euros. Ces dépenses sont en progression constante, même après les baisses de tarif intervenues en 2007 et la modification, en 2009, des règles d'association d'actes de radiologie. Par ailleurs, la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS) a souligné, dans un rapport remis en juillet 2008, que les actes de radiologie bénéficient de marges nettes élevées, du fait d'importants gains de productivité, qui ont permis de réduire fortement les charges réelles supportées par les radiologues, et d'une croissance très rapide en volume. Pour toutes ces raisons, la suppression du forfait d'archivage numérique ne remet nullement en cause le développement de la radiologie. En outre, elle amène les radiologues à faire bénéficier la collectivité des gains de productivité enregistrés dans leur secteur, ce qui concourt à préserver notre système solidaire.
