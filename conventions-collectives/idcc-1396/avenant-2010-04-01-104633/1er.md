@@ -1,0 +1,167 @@
+# Article 1er
+
+L'article 39 de la convention est remplacé par l'article suivant :
+
+« Article 39
+
+Compte épargne-temps
+
+1. Objet
+
+Le compte épargne-temps a pour objet de permettre au salarié qui le souhaite d'accumuler des droits à congé rémunéré ou de bénéficier d'une rémunération immédiate ou différée.
+
+2. Salariés bénéficiaires
+
+En sont bénéficiaires tous les salariés de l'entreprise dès lors qu'ils sont titulaires d'un contrat de travail.
+
+3. Alimentation du compte
+
+Il est bien précisé que si les modalités d'alimentation du compte épargne-temps relèvent de la volonté des partenaires sociaux, l'usage de ce dispositif ne peut en aucun cas être imposé au salarié.
+
+Le compte épargne-temps peut être alimenté par :
+
+– des temps de repos ;
+
+– des éléments de rémunération.
+
+3.1. Alimentation en temps de repos
+
+A défaut d'un accord d'entreprise déterminant un nombre de jours différent, le nombre de jours de repos pouvant être affectés au compte épargne-temps ne pourra dépasser 15 jours par an et 25 jours par an pour les salariés à compter de 55 ans.
+
+Report de congés payés
+
+Tout salarié peut décider de porter sur son compte tout ou partie du congé annuel excédant la durée de 24 jours ouvrables.
+
+La date limite pour prendre une telle décision devra être déterminée par le chef d'entreprise, dans le cadre du droit qu'il détient, de par l'article 32 de la convention collective, de fixer les dates et répartition des congés après consultation du comité d'entreprise ou, à défaut, des délégués du personnel.
+
+Affectation de jours de repos liés à la réduction du temps de travail (JRTT)
+
+Cela concerne les jours de repos liés à la réduction du temps de travail sur une base annuelle ou sur 4 semaines.
+
+L'affectation des jours de repos des salariés soumis à une convention de forfait en jours.
+
+Affectation des repos compensateurs
+
+Peuvent être affectées les heures acquises au titre de la contrepartie obligatoire en repos ainsi que celles acquises au titre du repos compensateur de remplacement instauré en particulier par l'article 38 sur la durée et l'organisation du temps de travail.
+
+Lorsqu'une entreprise décompte les jours de congés payés en jours ouvrés, l'accumulation de 7 heures de repos compensateur acquises au titre des heures supplémentaires et de leurs majorations correspond à 1 journée de congé à verser au compte épargne-temps.
+
+Lorsqu'une entreprise décompte les jours de congés payés en jours ouvrables (1 semaine à 6 jours ouvrables du lundi au samedi inclus), l'accumulation de 5,83 heures de repos compensateur acquises au titre des heures supplémentaires et de leurs majorations correspond à 1 journée de congé à verser au compte épargne-temps.
+
+3.2. Alimentation en éléments de salaires
+
+Tout salarié peut décider d'affecter une partie ou la totalité de sa prime annuelle à son compte épargne-temps, en fonction des modalités de répartition de cette prime en vigueur dans l'entreprise (art. 41 de la convention) ; les jours épargnés ainsi volontairement par le salarié seront abondés de 10 % par l'entreprise.
+
+Tout salarié peut également décider d'affecter à son compte épargne-temps tout ou partie des primes de quelque nature que ce soit dont il bénéficie à titre conventionnel.
+
+La transformation d'une prime en heures de congés destinées à être transformées en jours de congés et versées au compte épargne-temps s'obtient en divisant ladite prime par le salaire horaire de base de l'intéressé ; ou encore, s'il s'agit d'un salarié dont le salaire est mensuel, en divisant le salaire mensuel par 151,67.
+
+Dans l'un ou l'autre cas, le salaire de base pris en considération est celui indiqué sur la feuille de paie du salarié au moment de la conversion de la prime en heures.
+
+Les bases de transformation des heures en jours de congés sont celles indiquées au paragraphe « Affectation des repos compensateurs », à savoir :
+
+– 7 heures : 1 jour ouvré pour une semaine de 5 jours ouvrés ;
+
+– 5,83 heures : 1 jour ouvrable pour une semaine de 6 jours ouvrables.
+
+3.3. Abondement du congé de fin de carrière
+
+En cas d'utilisation du compte épargne-temps par un salarié senior comme congé de fin de carrière, les droits du salarié seront majorés par l'entreprise et exclusivement en temps :
+
+– de 10 % pour les congés inférieurs à 66 jours ouvrés ;
+
+– de 15 % pour les congés compris entre 66 et 132 jours ouvrés ;
+
+– de 20 % pour les congés supérieurs à 132 jours ouvrés.
+
+4. Utilisation du compte
+
+Les droits affectés au compte épargne-temps doivent être utilisés dans un délai de 5 ans à compter de la date à laquelle le salarié a accumulé un nombre de jours équivalant à 2 mois. Ce délai d'utilisation n'est pas applicable aux salariés de 50 ans et plus.
+
+4.1. Financement d'un congé
+
+Les modalités de la prise d'un congé et de la demande d'autorisation sont déterminées par accord d'entreprise, en tenant compte toutefois de la réglementation en vigueur.
+
+A défaut d'accord, les modalités suivantes sont applicables.
+
+Le compte épargne-temps a pour vocation de financer la rémunération de congés en principe sans solde. Il s'agit notamment du congé parental du congé pour création d'entreprise, congé sabbatique ou d'un congé de solidarité internationale, congés pris selon les conditions prévues par le code du travail.
+
+Si le compte est insuffisamment pourvu au regard de la durée du congé, le solde pourra être pris au titre de congé sans solde.
+
+Le compte épargne-temps peut également servir à un congé pour convenance personnelle, sollicité 3 mois à l'avance par écrit ; l'employeur devra répondre dans un délai de 1 mois ; tout défaut de réponse sera considéré comme une acceptation, tout refus devra être motivé. Le salarié dont la demande a fait l'objet d'un refus peut de nouveau solliciter une demande de congé qui ne peut alors être refusée.
+
+Seule peut être envisagée la prise d'un congé à temps complet et ininterrompu d'une durée minimum de 2 mois.
+
+4.1.1. Rémunération du congé
+
+Les sommes versées au salarié à l'occasion de la prise d'un congé sont calculées sur la base du salaire perçu par l'intéressé au moment de son départ en congé.
+
+Les versements sont effectués en une seule fois sauf si ce versement est néfaste à l'équilibre de l'entreprise, auquel cas celle-ci serait fondée à organiser des versements échelonnés.
+
+Le nombre de jours capitalisés en compte est donc multiplié par le taux de salaire journalier calculé sur la base de son salaire au moment de la prise du congé.
+
+Le congé pris par le salarié peut n'être rémunéré que partiellement. Tel est le cas lorsque par exemple un salarié n'ayant capitalisé que 3 mois de congé prend un congé de 6 mois.
+
+Cette rémunération est soumise à cotisations sociales à l'occasion de chaque versement, dans les conditions du droit commun.
+
+4.1.2. Droit à réintégration au terme du congé
+
+Le contrat de travail est suspendu pendant la durée du congé.
+
+A l'issue de ce congé, le salarié est réintégré dans son précédent emploi.A défaut, il lui sera proposé un emploi similaire assorti d'une rémunération au moins équivalente.
+
+4.2. Indemnisation
+
+Le compte épargne-temps peut être utilisé pour indemniser des heures non travaillées résultant du passage à un temps partiel choisi ou d'un temps partiel dans le cadre d'un congé parental.
+
+Le compte épargne-temps peut être aussi utilisé dans le cadre d'un départ aménagé en retraite, ou d'un congé de fin de carrière d'au moins 2 mois, selon le nombre de jours capitalisés ; il est accordé sans autres conditions.
+
+4.3. Autres affectations
+
+Tout salarié peut renoncer volontairement à ses droits à congés portés au compte et obtenir le versement automatique d'une indemnité correspondant à l'épargne capitalisée. Le déblocage est automatique lorsqu'il s'inscrit dans le cadre d'une rupture du contrat de travail dans les conditions fixées par le point 5 du présent article.
+
+Le salarié peut sur sa demande et en accord avec son employeur, utiliser les droits affectés sur le compte épargne-temps pour compléter sa rémunération. Tout salarié peut également débloquer ses droits portés au compte, quelle que soit la nature de l'utilisation envisagée, dès lors qu'il est titulaire d'un compte épargne-temps depuis au moins 5 ans à compter de l'ouverture du compte.
+
+Il est rappelé que, selon les dispositions du code du travail, la valorisation pécuniaire des droits affectés au compte épargne-temps au titre du congé annuel n'est possible que pour ceux versés qui excèdent la durée de 30 jours.
+
+S'agissant des personnes ne remplissant pas la condition d'ancienneté, elles ne peuvent débloquer leurs droits que dans les hypothèses suivantes :
+
+– mariage de l'intéressé ou conclusion d'un pacte civil de solidarité par l'intéressé ;
+
+– naissance ou arrivée au foyer en vue de son adoption d'un troisième enfant, puis de chaque enfant suivant ;
+
+– divorce, séparation ou dissolution d'un pacte civil de solidarité lors-qu'ils sont assortis d'un jugement prévoyant la résidence habituelle unique ou partagée d'au moins 1 enfant au domicile de l'intéressé ;
+
+– invalidité du salarié, de ses enfants, de son conjoint ou de la personne qui lui est liée par un pacte civil de solidarité, cette invalidité s'appréciant au sens des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale ;
+
+– décès du bénéficiaire, de son conjoint ou de la personne liée au bénéficiaire par un pacte civil de solidarité ;
+
+– création ou reprise par le bénéficiaire, son conjoint ou la personne liée au bénéficiaire par un pacte civil de solidarité, d'une entreprise industrielle, commerciale, artisanale ou agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle au sens de l'article R. 5141-2 du code du travail, à l'installation en vue de l'exercice d'une autre profession non salariée, ou à l'acquisition de parts sociales d'une société coopérative de production (hypothèse où l'intéressé ne remplirait pas les conditions pour bénéficier d'un congé spécifique à la création d'entreprise) ;
+
+– à l'acquisition ou à l'agrandissement de la résidence principale sous réserve de l'existence d'un permis de construire ou d'une déclaration préalable de travaux ou à la remise en état de la résidence endommagée à la suite d'une catastrophe naturelle reconnue par arrêté ministériel ;
+
+– situation de surendettement du salarié, définie à l'article L. 331-2 du code de la consommation ;
+
+– cas de catastrophe naturelle ;
+
+– alimentation d'un plan d'épargne (PEE, PEI, PERCO, PERCOI) ;
+
+– financer des prestations de retraites supplémentaires à caractère collectif ;
+
+– procéder au rachat de cotisations d'assurance vieillesse, rachat d'années incomplètes ou de périodes d'études (art.L. 351-14-1 du code de la sécurité sociale).
+
+5. Transférabilité des droits et renonciation des droits à congés
+
+Les droits à congés sont maintenus lorsque le contrat de travail fait l'objet d'un transfert à une autre société du même groupe. Il en sera de même en cas de fusion, d'absorption ou de scission de la société dès lors que les engagements de l'entreprise au regard du compte épargne-temps sont effectivement repris par le traité d'apport.
+
+Dans le cas contraire, comme en cas de rupture du contrat de travail ou de renoncement à la prise d'un congé, l'intéressé a droit au versement d'une indemnité correspondant aux droits acquis au moment de la rémunération ou de la rupture du contrat.
+
+Cette indemnité sera versée en une seule fois :
+
+– soit 3 mois après la renonciation à la prise d'un congé ;
+
+– soit dès la fin du contrat de travail en cas de rupture de ce contrat (c'est-à-dire au plus tard à la fin du préavis).
+
+6. Plafond des droits acquis
+
+A défaut d'un accord collectif d'entreprise ayant pour objet de garantir la fraction des droits acquis, convertis en unité monétaire, qui excède le plafond garantie par l'association pour la gestion du régime d'assurance des créances des salariés (AGS), lorsque les droits épargnés sur le compte épargne-temps, convertis en unités monétaires, excèdent le plafond maximum garanti par l'AGS une indemnité correspondant à la conversion monétaire de l'ensemble des droits acquis est versée au salarié. »
