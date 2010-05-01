@@ -28,15 +28,15 @@ Présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'il 
 
 2.1. Règles d'implantation
 
-2.1.1. Installations de stockage
-
-(local technique ou armoire technique)
+2.1.1. Installation de stockage (local technique ou armoire technique)
 
 L'installation est implantée à une distance minimale des limites de propriété égale à 10 mètres.
 
-2.1.2. Installations employant du chlore
+Objet du contrôle :
 
-(local technique ou armoire technique)
+- respect des distances d'éloignement.
+
+2.1.2. Installations employant du chlore (local technique ou armoire technique)
 
 L'installation est implantée à une distance minimale des limites de propriété égale à :
 
@@ -50,9 +50,7 @@ Objet du contrôle :
 
 Respect des distances d'éloignement.
 
-2.3. Interdiction de locaux habités ou occupés par des tiers
-
-ou habités au-dessus et au-dessous de l'installation
+2.3. Interdiction de locaux habités ou occupés par des tiers ou habités au-dessus et au-dessous de l'installation
 
 Hormis au sein d'un établissement recevant du public, l'installation ne surmonte pas ni n'est surmontée de locaux habités ou occupés par des tiers.
 
@@ -98,9 +96,7 @@ Objet du contrôle :
 
 Présence d'un accès pour les services d'incendie et de secours.
 
-2.12. Aménagement et organisation des stockages
-
-et locaux d'emploi
+2.12. Aménagement et organisation des stockages et locaux d'emploi
 
 Des emplacements prédéterminés sont aménagés pour le positionnement au sol et le maintien des récipients de chlore en position verticale, robinet vers le haut. Toutes dispositions sont prises pour éviter leur chute et les chocs.
 
@@ -240,15 +236,11 @@ Affichage des consignes de sécurité dans les lieux fréquentés par le personn
 
 4.8. Emploi
 
-4.8.2. Dispositions spécifiques à l'utilisation
-
-d'un chloromètre à dépression
+4.8.2. Dispositions spécifiques à l'utilisation d'un chloromètre à dépression
 
 Le chloromètre est fixé directement sur le robinet du récipient de chlore. Toute autre configuration de montage du chloromètre, notamment le raccordement d'un chloromètre à plusieurs récipients, est interdite en l'absence de système de neutralisation correctement dimensionné. [...]
 
-4.8.3. Dispositions spécifiques à la mise en œuvre
-
-de chlore à une pression supérieure à la pression atmosphérique
+4.8.3. Dispositions spécifiques à la mise en œuvre de chlore à une pression supérieure à la pression atmosphérique
 
 En cas de détection de chlore au-delà du seuil défini au point 4.3.1 défini ci-dessus, une vanne d'arrêt, située soit directement sur le robinet du récipient de chlore, soit juste après la lyre métallique de raccordement aux parties fixes, est fermée automatiquement.
 

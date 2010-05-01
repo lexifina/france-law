@@ -86,8 +86,6 @@ Le dispositif d'obturation [de la capacité de rétention] doit être maintenu f
 
 Objet du contrôle :
 
-- calcul du volume minimal du bassin de rétention des eaux d'extinction ;
-
 - calcul du volume minimal de la rétention pour les stockages comprenant des substances ou préparations liquides susceptibles de créer une pollution de l'eau ou du sol ;
 
 - présence des jauges de niveau sur les récipients fixes ;

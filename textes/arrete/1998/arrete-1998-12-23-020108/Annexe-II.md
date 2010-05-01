@@ -18,6 +18,10 @@ au 22/01/2002
 
 |
 
+Au 1er mai 2010
+
+|
+
 1.1 - Conformité de l'installation à la déclaration
 
 1.4 - Dossier installation classée
@@ -57,5 +61,9 @@ au 22/01/2002
 5.9 - Eau - mesure périodique
 
 8 - Bruit et vibrations
+
+|
+
+1.8. Contrôles périodiques
 
 |

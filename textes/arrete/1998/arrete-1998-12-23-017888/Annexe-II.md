@@ -18,6 +18,10 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+Au 1er mai 2010
+
+|
+
 1.1 - Conformité de l'installation à la déclaration
 
 |
@@ -27,6 +31,10 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 |
 
 5.9 - Eau - mesure périodique
+
+|
+
+1.8. Contrôles périodiques
 
 |
 
@@ -42,11 +50,15 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 2.7 - Installations électriques
 
 |
 
 5.2 - Consommation d'eau
+
+|
 
 |
 
@@ -62,6 +74,8 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 3 - Exploitation-entretien
 
 |
@@ -72,7 +86,11 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 4 - Risques
+
+|
 
 |
 
@@ -88,7 +106,11 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 5.6 - Rejet en nappe
+
+|
 
 |
 
@@ -104,6 +126,8 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 7 - Déchets
 
 |
@@ -112,7 +136,11 @@ Les dispositions suivantes du présent arrêté sont applicables aux installatio
 
 |
 
+|
+
 9 - Remise en état
+
+|
 
 |
 
