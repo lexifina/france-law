@@ -60,4 +60,4 @@ VIII.-Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.

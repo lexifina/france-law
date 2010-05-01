@@ -39,3 +39,7 @@ V.-Les subventions publiques reçues par les entreprises à raison des opératio
 VI.-Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions d'euros par exercice. Lorsque l'exercice est d'une durée inférieure ou supérieure à douze mois, le montant du plafond est diminué ou augmenté dans les mêmes proportions que la durée de l'exercice.
 
 VII.-Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire et aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.

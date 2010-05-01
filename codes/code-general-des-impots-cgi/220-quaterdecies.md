@@ -46,6 +46,8 @@ VIII. ― Un décret précise les conditions d'application du présent article.
 
 NOTA :
 
-Loi n° 2008-1425 du 27 décembre 2008 article 131 IV : Le I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2012 .
+Loi n° 2008-1425 du 27 décembre 2008 article 131 IV : Le I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2012.
 
 V : Le présent article entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2010. L'article 2 du décret n° 2009-1464 du 30 novembre 2009 a fixé cette date au 2 décembre 2009.
+
+Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
