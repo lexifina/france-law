@@ -6,9 +6,9 @@
 
 Toutefois, à titre dérogatoire, l'établissement public de coopération intercommunale ayant institué la taxe peut, pour une période qui ne peut excéder dix ans, voter des taux différents sur son périmètre, afin de limiter les hausses de cotisations liées à l'harmonisation du mode de financement. Cette dérogation peut également être mise en œuvre en cas de rattachement d'une ou plusieurs communes.L'établissement public de coopération intercommunale décide, dans les conditions prévues au 1 du II de l'article 1639 A bis, de l'application de ce dispositif et de la délimitation des zones sur lesquelles des taux différents sont votés.
 
-3. Pour l'application du 2 du présent article :
+3. Pour l'application du 2 :
 
-a) Pour les établissements publics de coopération intercommunale qui perçoivent la taxe dans les conditions prévues au b du 2 du VI de l'article 1379-0 bis, le syndicat mixte définit, dans les conditions prévues au 1 du II de l'article 1639 A bis, les zones de perception de la taxe en fonction de l'importance du service rendu. Il décide, dans les mêmes conditions, de l'application du second alinéa du 2 du présent article et du périmètre sur lequel ce dispositif est mis en œuvre ;
+a) Pour les établissements publics de coopération intercommunale qui perçoivent la taxe dans les conditions prévues au b du 2 du VI de l'article 1379-0 bis, le syndicat mixte définit, dans les conditions prévues au 1 du II de l'article 1639 A bis, les zones de perception de la taxe en fonction de l'importance du service rendu. Il décide, dans les mêmes conditions, de l'application du second alinéa du 2 et du périmètre sur lequel ce dispositif est mis en œuvre ;
 
 b) La période durant laquelle des taux différents peuvent être votés en application du second alinéa du 2 s'applique à compter du 1er janvier 2005 pour tous les syndicats de communes et syndicats mixtes qui perçoivent la taxe à cette date et à compter de la première année au titre de laquelle l'établissement public de coopération intercommunale perçoit la taxe pour ceux qui se mettent en conformité avec la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale ainsi que pour les groupements nouvellement constitués. Elle s'applique à compter de l'année qui suit celle du rattachement en cas de rattachement de communes ;
 

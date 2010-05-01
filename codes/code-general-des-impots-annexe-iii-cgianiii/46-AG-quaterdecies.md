@@ -16,7 +16,7 @@ d) La date d'achèvement du logement ou de son acquisition si elle est postérie
 
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le contribuable fait construire.
 
-3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au septième alinéa du 6 de l'article 199 undecies A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements.
+3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au huitième alinéa du 6 de l'article 199 undecies A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements.
 
 II. - Lorsque le logement neuf est destiné à la location :
 
@@ -28,7 +28,7 @@ II. - Lorsque le logement neuf est destiné à la location :
 
 4. Une copie de l'avis d'imposition ou de non-imposition du locataire ou du sous-locataire afférent aux revenus de l'année visée au premier alinéa du 2 de l'article 46 AG duodecies lorsque la location est consentie dans les conditions du 2° du 6 de l'article 199 undecies A du code général des impôts.
 
-5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du septième alinéa du 6 de l'article 199 undecies A du code général des impôts.
+5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du huitième alinéa du 6 de l'article 199 undecies A du code général des impôts.
 
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1, 3 et 4 sont joints à la déclaration de l'année au cours de laquelle le bail est signé. Il en est de même en cas de changement de locataire ou de sous-locataire pendant la durée de l'engagement mentionné au 1.
 
@@ -41,3 +41,7 @@ IV. - Lorsque le logement est construit par une société, les obligations décl
 La société délivre en double exemplaire à chaque souscripteur un document attestant que la location et, le cas échéant, la sous-location remplissent les conditions prévues aux articles 46 AG undecies à 46 AG terdecies. Le souscripteur en joint un exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
 V. - Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, les contribuables sont tenus de joindre à la déclaration de revenus de chacune des années ouvrant droit au bénéfice de la réduction d'impôt une note annexe établie sur un imprimé fourni par l'administration et comportant, selon la nature des investissements et le taux qui leur est applicable, les modalités de calcul de la réduction d'impôt.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 38-I (6°) de la loi n° 2009-594 du 27 mai 2009.

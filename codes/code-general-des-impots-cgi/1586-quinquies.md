@@ -8,4 +8,4 @@ I. - 1. Sous réserve des 2, 3 et 4, la cotisation sur la valeur ajoutée des en
 
 4. Lorsque plusieurs exercices sont clôturés au cours d'une même année, la cotisation sur la valeur ajoutée des entreprises est établie à partir du chiffre d'affaires réalisé et de la valeur ajoutée produite au cours des exercices clos, quelles que soient leurs durées respectives. Néanmoins, il n'est pas tenu compte, le cas échéant, de la fraction d'exercice clos qui se rapporte à une période retenue pour l'établissement de l'impôt dû au titre d'une ou plusieurs années précédant celle de l'imposition.
 
-II. - Le montant du chiffre d'affaires déterminé conformément aux 2, 3 et 4 du I du présent article est, pour l'application du premier alinéa du I de l'article 1586 ter et pour l'application de l'article 1586 quater, corrigé pour correspondre à une année pleine.
+II. - Le montant du chiffre d'affaires déterminé conformément aux 2, 3 et 4 du I est, pour l'application du premier alinéa du I de l'article 1586 ter et pour l'application de l'article 1586 quater, corrigé pour correspondre à une année pleine.

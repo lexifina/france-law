@@ -18,4 +18,4 @@ Le produit de la taxe est affecté au Centre national du cinéma et de l'image a
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 55-IV de la loi n° 2008-1425 du 27 décembre 2008.
+Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.

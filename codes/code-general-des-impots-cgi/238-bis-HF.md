@@ -1,13 +1,17 @@
 # Article 238 bis HF
 
-L'agrément prévu à l'article 238 bis HE est délivré par le président du Centre national du cinéma et de l'image animée aux oeuvres, réalisées en version originale, en langue française, de nationalité d'un Etat de la Communauté européenne, et éligibles aux aides financières à la production du Centre national du cinéma et de l'image animée, à l'exclusion :
+L'agrément prévu à l'article 238 bis HE est délivré par le président du Centre national du cinéma et de l'image animée aux œuvres, réalisées en version originale, en langue française, de nationalité d'un Etat de la Communauté européenne, et éligibles aux aides financières à la production du Centre national du cinéma et de l'image animée, à l'exclusion :
 
-Des oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 n° 75-1278 du 30 décembre 1975 ;
+Des œuvres figurant sur la liste prévue à l'article L. 311-2 du code du cinéma et de l'image animée ;
 
-Des oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
+Des œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
 
 Des programmes d'information, des débats d'actualité et des émissions sportives ou de variétés ;
 
 De tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
-Toutefois, dans la limite de 20 % des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même article peut être délivré aux oeuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi dans un Etat membre de la Communauté européenne.
+Toutefois, dans la limite de 20 % des financements annuels visés à l'article 238 bis HE, l'agrément prévu au même article peut être délivré aux œuvres de coproduction réalisées dans une langue du pays du coproducteur majoritaire établi dans un Etat membre de la Communauté européenne.
+
+NOTA :
+
+Modifications effectuées en conséquence des articles 2, 3, 2e alinéa et 9 [14°] de l'ordonnance n° 2009-901 du 24 juillet 2009.

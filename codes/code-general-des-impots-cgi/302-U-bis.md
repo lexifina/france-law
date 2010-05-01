@@ -10,11 +10,11 @@ Lorsque des produits sont expédiés de France à un opérateur, autre qu'un par
 
 II. ― Lorsque des produits soumis à accise déjà mis à la consommation dans un Etat membre de la Communauté européenne sont achetés par une personne autre qu'un entrepositaire agréé ou un destinataire enregistré établie en France, qui n'exerce pas d'activité économique indépendante, et qui sont expédiés ou transportés directement ou indirectement en France par le vendeur ou pour le compte de celui-ci, l'impôt est dû par le représentant fiscal du vendeur mentionné à l'article 302 V bis, lors de la réception des produits.
 
-III. ― A défaut de déclaration préalable ou de mise en place d'une garantie conformément aux dispositions des I et II du présent article et de l'article 302 V bis, les droits d'accise sont exigibles dès la réception des produits, sauf si la preuve est apportée de la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de manquants a été commise hors de France.
+III. ― A défaut de déclaration préalable ou de mise en place d'une garantie conformément aux dispositions des I et II et de l'article 302 V bis, les droits d'accise sont exigibles dès la réception des produits, sauf si la preuve est apportée de la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de manquants a été commise hors de France.
 
 Dans ces cas, l'impôt est dû :
 
-a) Par les personnes mentionnées au I du présent article ;
+a) Par les personnes mentionnées au I ;
 
 b) Dans le cas mentionné au II, par le représentant fiscal mentionné à l'article 302 V bis ou, à défaut, par le destinataire des produits soumis à accises.
 
