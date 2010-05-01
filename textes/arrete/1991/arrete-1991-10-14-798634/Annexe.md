@@ -20,7 +20,7 @@ Montant (en points majorés)
 
 |
 
-Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt
+Chef de service d'administration générale dans les directions régionales de l'alimentation, de l'agriculture et de la forêt
 
 |
 

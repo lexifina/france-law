@@ -22,7 +22,7 @@ Chef de centre, de mission ou de département rattachés à une direction centra
 
 II.-Fonctions exercées en services déconcentrés
 
-Directeur régional de l'agriculture et de la forêt.
+Directeur régional de l'alimentation, de l'agriculture et de la forêt.
 
 Directeur départemental de l'agriculture et de la forêt.
 

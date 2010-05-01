@@ -100,7 +100,7 @@ Directions départementales des services vétérinaires de Paris, des Hauts-de-S
 
 |
 
-Directions régionales de l'agriculture et de la forêt placées sous autorité commune avec une direction départementale de l'agriculture et de la forêt (Alsace, Corse, Haute-Normandie, Nord-Pas-de-Calais).
+Directions régionales de l'alimentation, de l'agriculture et de la forêt placées sous autorité commune avec une direction départementale de l'agriculture et de la forêt (Alsace, Corse, Haute-Normandie, Nord-Pas-de-Calais).
 
 |
 
@@ -124,7 +124,7 @@ F
 
 |
 
-Directions régionales de l'agriculture et de la forêt.
+Directions régionales de l'alimentation, de l'agriculture et de la forêt
 
 |
 
@@ -234,7 +234,7 @@ Ingénieur des ponts, des eaux et des forêts, directeur général et directeur 
 
 |
 
-Ingénieur général des ponts, des eaux et des forêts au 1er échelon, directeur régional de l'agriculture et de la forêt
+Ingénieur général des ponts, des eaux et des forêts au 1er échelon, directeur régional de l'alimentation de l'agriculture et de la forêt
 
 |
 
