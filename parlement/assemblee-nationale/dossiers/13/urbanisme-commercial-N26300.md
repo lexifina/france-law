@@ -1,0 +1,54 @@
+# Urbanisme commercial
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 13
+- Identifiant : DLR5L13N26300
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/13/dossiers/urbanisme_commercial
+- Sénat : http://www.senat.fr/dossierleg/ppl09-558.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2010-05-03 : 1er dépôt d'une initiative. (PIONANR5L13B2490)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2010-05-03 : Renvoi en commission au fond
+      - 2010-05-19 : Nomination de rapporteur
+      - 2010-06-01 : Réunion de commission
+      - 2010-06-01 : Réunion de commission
+      - 2010-06-02 : Dépôt de rapport (RAPPANR5L13B2566, PIONANR5L13BTC2566)
+  - Discussion en séance publique
+    - 2010-06-15 : Discussion en séance publique
+    - 2010-06-15 : Discussion en séance publique
+    - 2010-06-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2010-06-16 : Dépôt d'une initiative en navette (PIONSNR5S196B0558)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2010-06-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2010-12-15 : Dépôt de rapport (RAPPSNR5S197B0180, PIONSNR5S197BTC0181)
+  - Discussion en séance publique
+    - 2011-03-30 : Discussion en séance publique
+    - 2011-03-31 : Discussion en séance publique
+    - 2011-03-31 : Décision
+- deuxième lecture
+  - 2011-04-01 : Dépôt d'une initiative en navette (PIONANR5L13B3302)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2011-04-01 : Renvoi en commission au fond
+- deuxième lecture
+  - 2012-07-02 : Dépôt d'une initiative en navette (PIONANR5L14B0066)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-07-02 : Renvoi en commission au fond
+- deuxième lecture
+  - 2017-07-06 : Dépôt d'une initiative en navette (PIONANR5L15B0088)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-06 : Renvoi en commission au fond
+- deuxième lecture
+  - 2022-07-12 : Dépôt d'une initiative en navette (PIONANR5L16B0139)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-12 : Renvoi en commission au fond
