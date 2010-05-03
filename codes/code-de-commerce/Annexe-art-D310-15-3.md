@@ -10,9 +10,31 @@ APPLICATION TERRITORIALE
 
 |
 
-DATES DE DÉBUT
+DATES DE DÉBUT DES PÉRIODES DE SOLDES
 
-des périodes de soldes
+|
+
+Alpes-de-Haute-Provence (04)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : premier mercredi du mois de juillet
+
+|
+
+Hautes-Alpes (05)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : premier mercredi du mois de juillet
 
 |
 
@@ -24,7 +46,19 @@ Tout le département
 
 |
 
-Soldes d'été : deuxième mercredi du mois de juillet
+Soldes d'été : premier mercredi du mois de juillet
+
+|
+
+Bouches-du-Rhône (13)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : premier mercredi du mois de juillet
 
 |
 
@@ -112,6 +146,30 @@ Soldes d'hiver : premier mercredi du mois de janvier
 
 |
 
+Var (83)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : premier mercredi du mois de juillet
+
+|
+
+Vaucluse (84)
+
+|
+
+Tout le département
+
+|
+
+Soldes d'été : premier mercredi du mois de juillet
+
+|
+
 Vosges (88)
 
 |
@@ -133,8 +191,6 @@ Guadeloupe (971)
 Soldes d'hiver : premier samedi de janvier
 
 Soldes d'été : dernier samedi de septembre
-
-|
 
 |
 
@@ -182,9 +238,9 @@ Tout le département
 
 |
 
-Soldes d'hiver : premier jour ouvré du mois de février
+Soldes d'hiver : premier samedi du mois de septembre
 
-Soldes d'été : premier jour ouvré du mois de septembre
+Soldes d'été : premier samedi du mois de février.
 
 |
 
@@ -200,9 +256,7 @@ APPLICATION TERRITORIALE
 
 |
 
-DATES DE DÉBUT
-
-des périodes de soldes
+DATES DE DÉBUT DES PÉRIODES DE SOLDES
 
 |
 
