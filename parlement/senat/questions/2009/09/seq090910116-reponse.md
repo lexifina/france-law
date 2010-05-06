@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910116
+
+- Question : [SEQ090910116](seq090910116.md) — Baisse du nombre de contrats d'apprentissage
+
+## Réponse
+
+*Économie, JO du 2010-05-06, page 1139*
+
+Il est vrai que le nombre de contrats d'apprentissage signés en 2007 ne s'est accru que de 1,3 % par rapport à 2006 (données de la direction de l'animation de la recherche, des études et des statistiques DARES), alors que le rythme de progression annuel du nombre d'entrées s'élevait de 4 à 6 % depuis fin 2004. Cet infléchissement temporaire semble provenir d'une baisse des entrées en apprentissage dans le tertiaire, notamment dans le secteur du commerce, des services aux entreprises et des services aux particuliers. Toutefois, en 2008 (données DARES), le rythme d'entrées en contrat d'apprentissage a enregistré une progression annuelle de 6 %. En outre, malgré une baisse sensible du nombre des entrées début 2009 en raison de la crise économique, les niveaux d'entrées du coeur de campagne (à partir de septembre) sont comparables à ceux enregistrés en 2008, ce qui est un excellent résultat dans le contexte actuel. Ce rebond est notamment dû à la politique volontariste du Gouvernement. En effet, celui-ci a instauré en juin 2009 deux aides exceptionnelles à l'embauche en apprentissage dans le cadre du plan d'urgence pour l'emploi des jeunes ; en outre, dans le cadre de la mission confiée par le Président de la République à Henri Proglio, cinquante et une grandes entreprises se sont engagées à augmenter rapidement leurs recrutements en alternance ; enfin, l'État a relancé la contractualisation avec les conseils régionaux à travers la signature d'avenants 2009-2010 aux contrats d'objectifs et de moyens relatifs au développement et à la modernisation de l'apprentissage, pour un montant supérieur à 315 M€ au titre de la seule année 2009.
