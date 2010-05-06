@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110742
+
+- Question : [SEQ091110742](seq091110742.md) — Hausse des loyers dans le secteur du logement social
+
+## Réponse
+
+*Logement, JO du 2010-05-06, page 1159*
+
+Afin de limiter les hausses de loyers pratiquées, le Gouvernement recommande chaque année, par circulaire, aux préfets d'être particulièrement attentifs aux hausses de loyers pratiquées par les organismes d'habitation à loyer modéré dès lors que celles-ci dépassent un certain pourcentage d'augmentation. Ce pourcentage a été fixé à 2,38 % pour l'année 2009 et à 1 % pour 2010, que les logements soient ou non conventionnés à l'APL. Dans le cadre de ces recommandations, les organismes doivent informer les préfets des hausses de loyers projetées pour l'ensemble de l'année suivante en tenant compte de la situation des locataires et des moyens nécessaires à la maintenance et au développement de leur patrimoine. En cas de hausses considérées comme anormales au regard des justifications apportées par l'organisme, les préfets peuvent exiger une seconde délibération de l'organisme bailleur en lui demandant de réduire la hausse prévue par la première délibération. C'est ainsi qu'en 2009, les hausses globales appliquées par les organismes HLM se sont élevées à 2,41 %, soit un niveau très proche de la recommandation fixée à 2,38 %. Pour 2010, les hausses, telles qu'elles apparaissent dans les délibérations prises par les organismes doivent s'élever, en moyenne, à 1,3 % soit le niveau de l'inflation constatée à ce jour (1,30 %). Il n'est pas en conséquence envisagé de rendre ces recommandations plus contraignantes afin de permettre aux organismes, dans le respect des dispositions de l'article L. 442-1 du code de la construction et de l'habitation, d'adapter leurs augmentations en fonction de leur équilibre financier et du contexte local de leur patrimoine.
