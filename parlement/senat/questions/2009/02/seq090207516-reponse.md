@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207516
+
+- Question : [SEQ090207516](seq090207516.md) — Mise en application de l'article 55 de la loi relative à la solidarité et au renouvellement urbains
+
+## Réponse
+
+*Logement, JO du 2010-05-06, page 1159*
+
+Le législateur n'a pas prévu de phase transitoire pour les communes ne relevant plus des cas d'exemption prévus à l'article L. 302-5 du code de la construction et de l'habitation. Les dispositions de l'article 55 de la loi relative à la solidarité et au renouvellement urbains s'appliquent pleinement. Ainsi, dès 2009, la commune de Bondoufle s'est vu opérer un prélèvement sur ses ressources fiscales du fait de son taux de logements sociaux de 9,4 % et de l'absence de dépenses réalisées en faveur du logement social et déductibles du prélèvement. Elle s'est également vu notifier un objectif de rattrapage de 33 logements pour la période triennale en cours. Lorsque le préfet aura à examiner les résultats de la commune à l'issue de la période de trois ans, soit en 2011, il ne manquera pas de prendre en compte les éléments objectifs, tels que la levée du plan d'exposition au bruit et les délais de mise en oeuvre des programmes de logements sociaux envisagés sur ce foncier nouvellement libre pour juger de la carence de la commune en cas de non-atteinte de l'objectif triennal de rattrapage. La construction de logements sociaux ne constitue pas le seul moyen d'atteindre le pourcentage de 20 % de logements sociaux. D'autres leviers existent et peuvent être mobilisés indépendamment de la révision du plan local de l'urbanisme : l'acquisition/amélioration qui augmentent le parc de logements sociaux, de façon potentiellement plus diffuse, l'exercice du droit de préemption par le maire, ainsi que le conventionnement à l'aide personnalisée au logement dans le parc privé existant.
