@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100212149
+
+- Question : [SEQ100212149](seq100212149.md) — Application de l'article L. 2132-5 du code général des collectivités territoriales
+
+## Réponse
+
+*Justice, JO du 2010-05-06, page 1157*
+
+L'article L. 2132-5 du code général des collectivités territoriales dispose que « tout contribuable inscrit au rôle de la commune a le droit d'exercer tant en demande qu'en défense, à ses frais et risques, avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la commune et que celle-ci, préalablement appelée à en délibérer, a refusé ou négligé d'exercer ». Les frais exposés et non compris dans les dépens résultant d'une action en substitution devant les juridictions administratives ou devant les juridictions civiles relèvent respectivement du champ d'application de l'article L. 761-1 du code de justice administrative et de l'article 700 du code de procédure civile en vertu desquels, dans toutes les instances, le juge condamne la partie tenue aux dépens ou, à défaut, la partie perdante, à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. Devant les juridictions pénales, ces frais relèvent des articles 216, 475-1 et 618-1 du code de procédure pénale, en vertu desquels le juge peut condamner l'auteur de l'infraction à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'État et exposés par celle-ci. Quelle que soit la nature de la juridiction saisie, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Ces dispositions sont de nature à permettre au contribuable, dans la plupart des hypothèses de jugements favorables à la commune, d'obtenir le remboursement de tout ou partie des frais qu'il a assumés pour les besoins de l'instance.
