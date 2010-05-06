@@ -1,0 +1,79 @@
+# Délibération n°2010-117 du 6 mai 2010 portant avis sur le projet d’arrêté autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé «Gestion des amendes forfaitaires des unités élémentaires de la gendarmerie départementale et des gendarmeries spécialisées »
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2010-117
+- Date : 2010-05-06
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000023362299
+
+(Demande d’avis n°1402945)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie pour avis par le ministère de l’intérieur, de l’outre-mer et des collectivités territoriales le 16 décembre 2009 d’un projet d’arrêté autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé «Gestion des amendes forfaitaires des unités élémentaires de la gendarmerie départementale et des gendarmeries spécialisées » ;
+
+Vu la Convention n°108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé de données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n°2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, et notamment son article 26 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié par le décret n°2007-451 du 25 mars 2007 ;
+
+Après avoir entendu M. Jean-Marie COTTERET, commissaire, en son rapport, et Mme Elisabeth ROLIN commissaire du Gouvernement, en ses observations ;
+
+Emet l’avis suivant :
+
+Sur la mise en œuvre de l’application PULSAR
+
+La Commission prend acte que l’application Pulsar est une évolution de l’application Bureautique Brigade 2000 et que cette future application centralisée permettra aux unités territoriales de la gendarmerie nationale de gérer sur le plan administratif à travers quatre modules : le service et les registres, la production des messages d’information statistiques (MIS) relatifs à la délinquance et les bulletins d’analyse des accidents relatifs à l’accidentalité (BAA), ainsi que les amendes forfaitaires.
+
+Sur les finalités
+
+La Commission prend acte qu’aux termes de l’article 1er du projet d’arrêté cette application permet d’assurer la gestion et le suivi des formules d’amendes forfaitaires et des consignations traités par les unités élémentaires de la gendarmerie nationale.
+
+Sur les données conservées
+
+Il est précisé aux termes de l’article 2 du projet d‘arrêté que les données enregistrées par le personnel verbalisateur sont le grade, le nom et le prénom. Concernant la personne verbalisée, sont obligatoirement renseignés : le sexe, le nom, prénom, nom marital, adresse complète de résidence, numéro du permis de conduire ou numéro d’immatriculation du véhicule. Sont renseignés de manière facultative : la date de naissance, la commune de naissance, la nationalité.
+
+Toutefois le dossier de demande d’avis précise qu’est renseigné pour le personnel verbalisateur le numéro d’identification gendarmerie, et pour les personnes verbalisées, le code NATINF, la date et le lieu de relevé de l’infraction.
+
+En conséquence, la Commission considère que l’article 2 du projet d’arrêté devrait être complété afin de faire mention de ces données.
+
+Sur les durées de conservation
+
+Il est précisé aux termes de l’article 3 du projet d’arrêté que les données concernant le personnel verbalisateur sont conservées 3 ans à compter de leur enregistrement, et que les données relatives à la personne verbalisée sont effacées automatiquement au bout de cent jours.
+
+La Commission prend acte des précisions du ministère indiquant que la durée de conservation des données relatives au personnel verbalisateur correspond à la prescription délictuelle visant à permettre des contrôles à posteriori conduits par l’inspection de la gendarmerie, en cas de mise en cause de l’action de l’unité élémentaire dans l’exécution de son service quotidien.
+
+Elle prend également acte que le délai fixé pour les données relatives à la personne verbalisée tient compte du délai de 90 jours au-delà duquel les suites éventuelles incombent aux officiers du ministère public, majoré de dix jours permettant de pallier un éventuel incident technique lié à la transmission.
+
+La Commission estime toutefois que l’article 3 du projet d’arrêté pourrait être complété afin de préciser que les données relatives à la personne verbalisée sont conservées cent jours à compter de leur enregistrement.
+
+Sur les destinataires
+
+La Commission prend acte que seuls les agents de la gendarmerie, individuellement désignés et spécialement habilités auront accès au traitement et que les officiers du ministère public pourront être destinataires des données.
+
+Elle note que les officiers du ministère public sont désignés comme destinataires uniquement dans les hypothèses où la personne verbalisée ne s’acquitterait pas du montant de l’amende, ou lorsque l’infraction entraine des retraits de points du permis de conduire.
+
+Sur les droits des personnes
+
+Le ministère considère qu’en application du III de l’article 32 de la loi du 6 janvier 1978 modifiée en août 2004, le droit à l’information ne s’applique pas au présent traitement dans la mesure où il exigerait des efforts disproportionnés par rapport à l’intérêt de la démarche.
+
+La Commission observe toutefois que dans la mesure où il est prévu un droit d’accès direct à ce traitement, une information des personnes sur l’existence et les conditions d’exercice de ces droits ainsi que leur droit d’accès devrait être précisée.
+
+Elle considère que le projet d’arrêté devrait être complété en ce sens.
+
+Sur les sécurités
+
+La Commission prend acte que les applications PULSAR sont mises en œuvre sur le site de la gendarmerie de Rosny-sous-Bois et que les accès à ce site ainsi qu’aux salles informatiques sont protégés.
+
+Elle note que des accès différenciés au réseau ont été définis selon le rôle des utilisateurs et que ces accès font l’objet d’une journalisation.
+
+La Commission considère que dans la mesure où le dossier de demande d’avis indique que les consultations dudit traitement font l’objet de mesures de traçabilité strictes, il serait souhaitable que le projet d’arrêté comporte une mention selon laquelle les consultations font l’objet d’un enregistrement comprenant l’identifiant du consultant, la date et l’heure de la consultation.
+
+Le Président,
+
+Alex TURK
