@@ -40,7 +40,7 @@ Défrichements d'un seul tenant soumis à autorisation et portant sur une superf
 
 |
 
-5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article L. 151-36 du code rural.
+5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article L. 151-36 du code rural et de la pêche maritime
 
 |
 
@@ -418,7 +418,7 @@ Travaux d'installation des ouvrages de production d'énergie éolienne dont la h
 
 |
 
-35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural.
+35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural et de la pêche maritime.
 
 |
 
