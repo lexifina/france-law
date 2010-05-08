@@ -22,7 +22,7 @@ Subventions aux fédérations régionales de groupements de défense contre les 
 
 |
 
-Articles 343 et 344 du code rural.
+Articles 343 et 344 du code rural et de la pêche maritime.
 
 |
 
@@ -38,7 +38,7 @@ Subventions aux sociétés d'aménagement foncier et d'établissement rural.
 
 |
 
-Article R.* 141-12 du code rural.
+Article R.* 141-12 du code rural et de la pêche maritime.
 
 |
 

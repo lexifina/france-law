@@ -46,7 +46,7 @@ Certification et contrôle officiels des semences et plants : aboutissement d'un
 
 La certification des semences ou plants ne peut être effectuée que dans des établissements préalablement admis au contrôle par l'agence nationale de certification. Elle est concrétisée par l'apposition sur les emballages, rendus inviolables, d'étiquettes officielles, éventuellement de scellés, qui attestent que les opérations de contrôle ont été effectuées par l'agence nationale de certification selon les prescriptions des règlements techniques de production, du contrôle et de la certification en vigueur.
 
-Certification de conformité : au sens de l'article L. 641-20 du code rural, dispositif de valorisation de denrées alimentaires et de produits agricoles non alimentaires non transformés.
+Certification de conformité : au sens de l'article L. 641-20 du code rural et de la pêche maritime, dispositif de valorisation de denrées alimentaires et de produits agricoles non alimentaires non transformés.
 
 Note importante.-Les exigences relatives à la certification officielle des semences et plants relevant de l'application des directives européennes de commercialisation font l'objet de dispositions nationales spécifiques (règlements techniques de certification) homologuées par arrêtés du ministre de l'agriculture. Elles constituent une base obligatoire pour toute procédure de certification sous signe de qualité.
 
@@ -222,7 +222,9 @@ Un tableau comparatif entre le produit certifié et le produit courant de même 
 
 Si le demandeur prévoit des caractéristiques communicantes, celles-ci doivent être démontrées. Dans le cas d'un élément sensoriel, cette démonstration pourra être effectuée par une analyse sensorielle.
 
-La qualité doit pouvoir s'évaluer sur tout critère ayant une influence reconnue sur le produit certifié, par exemple : le taux de germination, la qualité sanitaire vis-à-vis de la culture, le potentiel de production, l'homogénéité des lots ou la durabilité des qualités. Ces critères doivent s'appuyer, en particulier, sur les référentiels définis par les organismes techniques professionnels des filières concernées.
+La qualité doit pouvoir s'évaluer sur tout critère ayant une influence reconnue sur le produit certifié, par exemple : le taux de germination, la qualité sanitaire vis-à-vis de la culture, le potentiel de production, l'homogénéité des lots ou la durabilité des qualités.
+
+Ces critères doivent s'appuyer, en particulier, sur les référentiels définis par les organismes techniques professionnels des filières concernées.
 
 1re recommandation commune : communication relative à l'identification des produits sous certification de conformité
 

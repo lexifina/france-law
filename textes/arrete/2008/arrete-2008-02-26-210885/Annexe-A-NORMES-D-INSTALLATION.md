@@ -36,7 +36,7 @@ Toutes mesures doivent être prises pour limiter le plus possible l'accès aux o
 
 Autant que possible, le matériel sera choisi en vue de faciliter les opérations de nettoyage et désinfection. Notamment, les circuits d'aération, d'abreuvement, d'alimentation, de collecte des œufs et d'évacuation des déjections doivent être, dans la mesure du possible, aisément démontables ou accessibles, afin de permettre un nettoyage et une désinfection efficaces. Les turbulences d'air doivent être réduites au minimum lors du séchage des fientes, s'il est pratiqué dans le volume de vie des volailles, ou à proximité des entrées d'air du bâtiment d'élevage.
 
-Les sols des bâtiments doivent être étanches, en matériau dur, imputrescible et imperméable. Cette disposition s'applique au plus tard le 31 décembre 2010 pour tous les bâtiments d'élevage ayant hébergé au cours des années 2006 ou 2007 des troupeaux de reproducteurs adhérant à la charte sanitaire. Elle s'applique sans délai pour toutes les nouvelles demandes d'adhésion à la charte sanitaire reproducteurs en préponte et en ponte » concernant un établissement non encore qualifié pour la reproduction et ne répondant pas aux conditions ci-dessus, ainsi que pour le repeuplement des bâtiments qualifiés ayant abrité un troupeau infecté par Salmonella Enteritidis, ou Salmonella Hadar, ou Salmonella Infantis, ou Salmonella Typhimurium, ou Salmonella Virchow au cours de la bande précédente.
+Les sols des bâtiments doivent être étanches, en matériau dur, imputrescible et imperméable. Cette disposition s'applique au plus tard le 31 décembre 2010 pour tous les bâtiments d'élevage ayant hébergé au cours des années 2006 ou 2007 des troupeaux de reproducteurs adhérant à la charte sanitaire. Elle s'applique sans délai pour toutes les nouvelles demandes d'adhésion à la charte sanitaire reproducteurs en préponte et en ponte concernant un établissement non encore qualifié pour la reproduction et ne répondant pas aux conditions ci-dessus, ainsi que pour le repeuplement des bâtiments qualifiés ayant abrité un troupeau infecté par Salmonella Enteritidis, ou Salmonella Hadar, ou Salmonella Infantis, ou Salmonella Typhimurium, ou Salmonella Virchow au cours de la bande précédente.
 
 Les parois internes des bâtiments doivent être lisses et permettre un nettoyage et une désinfection efficaces.
 
@@ -144,7 +144,7 @@ La mise en place dans un bâtiment d'un lot de volailles après une bande ayant 
 
 4. Registre d'élevage
 
-Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural est complété par les informations suivantes :
+Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural et de la pêche maritime est complété par les informations suivantes :
 
 ― attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 a du présent chapitre ;
 
@@ -192,7 +192,7 @@ Le couvoir doit être divisé en zones fonctionnelles entre lesquelles la circul
 
 Sa conception et son fonctionnement doivent permettre d'éviter les contaminations croisées entre les différents secteurs du couvoir et entre lots d'origines différentes.
 
-La ventilation des différentes zones doit fournir un flux d'air circulant toujours des zones propres vers les zones sales. L'air extrait des éclosoirs doit être évacué à l'extérieur du couvoir via un circuit indépendant et accessible. Les duvets devraient être captés.
+La ventilation des différentes zones doit fournir un flux d'air circulant toujours des zones propres vers les zones sales.L'air extrait des éclosoirs doit être évacué à l'extérieur du couvoir via un circuit indépendant et accessible. Les duvets devraient être captés.
 
 Les zones fonctionnelles sont les suivantes :
 
@@ -232,7 +232,7 @@ L'installation de filtres de dépoussiérage aux entrées d'air est préconisée
 
 L'évacuation et le stockage des déchets de couvoir ne doivent pas constituer une source de pollution, ni de contamination.
 
-Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de paniers » aux accès pour récupérer les déchets.
+Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de paniers aux accès pour récupérer les déchets.
 
 A l'entrée du couvoir, le sas d'entrée représente une barrière sanitaire destinée à protéger le couvoir contre le facteur de risque humain. Il comporte une séparation physique entre la zone extérieure et la zone intérieure. Il doit être équipé :
 
@@ -288,7 +288,7 @@ b-2) Par dérogation à ce principe, les couvoirs adhérant à la charte sanitai
 
 ― le responsable du couvoir s'assure avant l'introduction que les œufs proviennent de troupeaux indemnes de Salmonella Enteritidis, Hadar, Infantis, Typhimurium et Virchow ;
 
-― les informations relatives à ces introductions sont consignées sur le registre de couvoir et portées à la connaissance du directeur départemental des services vétérinaires 48 heures au moins avant celles-ci. Le jour d'éclosion est communiqué à la direction départementale des services vétérinaires dès la mise en machine. L'organisation et le pays de provenance figurent en clair sur les registres du couvoir ; les œufs sont mis en éclosion dans un éclosoir séparé réservé aux lots non issus de troupeaux de multiplication adhérant à la charte sanitaire ;
+― les informations relatives à ces introductions sont consignées sur le registre de couvoir et portées à la connaissance du directeur départemental des services vétérinaires 48 heures au moins avant celles-ci. Le jour d'éclosion est communiqué à la direction départementale des services vétérinaires dès la mise en machine.L'organisation et le pays de provenance figurent en clair sur les registres du couvoir ; les œufs sont mis en éclosion dans un éclosoir séparé réservé aux lots non issus de troupeaux de multiplication adhérant à la charte sanitaire ;
 
 ― l'éclosion est isolée ;
 

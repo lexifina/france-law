@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES DIPLÔMES, TITRES ET CERTIFICATS ENREGISTRÉS AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES (RNCP) RECONNUS COMME CONFÉRANT LA CAPACITÉ PROFESSIONNELLE AGRICOLE, LORSQU'ILS SONT COMPLÉTÉS PAR LE PLAN DE PROFESSIONNALISATION PERSONNALISÉ POUR LES CANDIDATS À L'INSTALLATION NÉS À COMPTER DU 1er JANVIER 1971 POUR L'APPLICATION DU 4° DE L'ARTICLE D. 343-4 DU CODE RURAL
+LISTE DES DIPLÔMES, TITRES ET CERTIFICATS ENREGISTRÉS AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES (RNCP) RECONNUS COMME CONFÉRANT LA CAPACITÉ PROFESSIONNELLE AGRICOLE, LORSQU'ILS SONT COMPLÉTÉS PAR LE PLAN DE PROFESSIONNALISATION PERSONNALISÉ POUR LES CANDIDATS À L'INSTALLATION NÉS À COMPTER DU 1er JANVIER 1971 POUR L'APPLICATION DU 4° DE L'ARTICLE D. 343-4 DU CODE RURAL ET DE LA PECHE MARITIME
 
 1. Diplômes :
 
@@ -148,6 +148,6 @@ Institut supérieur d'agriculture de Rhône-Alpes.
 
 ― chef de cultures sous serre ;
 
-―Certificat inscrit au répertoire national des certifications professionnelles
+― Certificat inscrit au répertoire national des certifications professionnelles
 
 Eleveur, délivré par l'Union nationale rurale d'éducation et de promotion (UNREP) dans les deux centres suivants : le centre d'élevage Lucien Biset de Poisy (74) et le pôle de formations élevage, agroéquipement et machinisme, à Bernussou (12).

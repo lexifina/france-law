@@ -2,9 +2,9 @@
 
 1. Objet et domaine d'application du contrat.
 
-Le présent contrat a pour objet le transport en régime intérieur, par un transporteur public routier, d'animaux vivants quel qu'en soit le nombre par envoi, moyennant un prix devant assurer une juste rémunération du service ainsi rendu, le tout conformément aux dispositions de la loi n° 82-1153 d'orientation des transports intérieurs du 30 décembre 1982, notamment de ses articles 6, 8, 9 et 32, ainsi que des textes pris pour son application.
+Le présent contrat a pour objet le transport en régime intérieur, par un transporteur public routier, d'animaux vivants quel qu'en soit le nombre par envoi, moyennant un prix devant assurer une juste rémunération du service ainsi rendu, le tout conformément aux dispositions de la loi n° 82-1153 d'orientation des transports intérieurs du 30 décembre 1982, notamment de ses articles 6,8,9 et 32, ainsi que des textes pris pour son application.
 
-Le transport s'effectue en conformité avec les dispositions du code rural, notamment celles de l'article L. 214-3 à L. 214-13 et des textes pris pour son application, ainsi qu'avec les dispositions et règlements communautaires relatifs à la protection des animaux en cours de transport.
+Le transport s'effectue en conformité avec les dispositions du code rural et de la pêche maritime, notamment celles de l'article L. 214-3 à L. 214-13 et des textes pris pour son application, ainsi qu'avec les dispositions et règlements communautaires relatifs à la protection des animaux en cours de transport.
 
 Par animaux vivants, on entend les animaux domestiques ou sauvages, apprivoisés ou tenus en captivité, à l'exception des crustacés et des mollusques.
 
@@ -60,7 +60,7 @@ Par durée de mise à disposition du véhicule, on entend le délai qui s'écoul
 
 2.12. Convoyage.
 
-Par convoyage, on entend l'accompagnement des animaux par une ou plusieurs personnes qualifiées ayant pour mission de veiller au bien-être des animaux et, le cas échéant, de les nourrir et de les abreuver, voire de leur apporter les soins nécessaires dans les conditions prévues à l'article L. 214-12 du code rural.
+Par convoyage, on entend l'accompagnement des animaux par une ou plusieurs personnes qualifiées ayant pour mission de veiller au bien-être des animaux et, le cas échéant, de les nourrir et de les abreuver, voire de leur apporter les soins nécessaires dans les conditions prévues à l'article L. 214-12 du code rural et de la pêche maritime.
 
 2.13. Laissé-pour-compte.
 
@@ -114,7 +114,7 @@ Toute nouvelle instruction du donneur d'ordre, ayant pour objet la modification 
 
 Le transporteur n'est pas tenu d'accepter ces nouvelles instructions si elles sont de nature à l'empêcher d'honorer des engagements de transport pris antérieurement. Il doit en aviser immédiatement le donneur d'ordre par écrit ou par tout autre procédé en permettant la mémorisation.
 
-Lorsque les instructions entraînent une immobilisation du véhicule et/ou de l'équipage, le transporteur perçoit un complément de rémunération pour frais d'immobilisation facturé séparément, conformément aux dispositions de l'article 18 ci-après.
+Lorsque les instructions entraînent une immobilisation du véhicule et/ ou de l'équipage, le transporteur perçoit un complément de rémunération pour frais d'immobilisation facturé séparément, conformément aux dispositions de l'article 18 ci-après.
 
 Toute modification au contrat entraîne un réajustement du prix initial.
 
@@ -158,7 +158,7 @@ En cas de chargement de plusieurs envois dans un même véhicule, le transporteu
 
 Le déchargement des animaux est exécuté par le destinataire sous sa responsabilité.
 
-7.2. Toute aide apportée ou toute prestation fournie par le transporteur ou par son préposé - pour rassembler, acheminer les animaux jusqu'au véhicule et/ou les charger - est réputée faite pour le compte ou sous la responsabilité exclusive du donneur d'ordre.
+7.2. Toute aide apportée ou toute prestation fournie par le transporteur ou par son préposé-pour rassembler, acheminer les animaux jusqu'au véhicule et/ ou les charger-est réputée faite pour le compte ou sous la responsabilité exclusive du donneur d'ordre.
 
 Toute aide apportée par le transporteur ou son préposé lors du déchargement est réputée faite pour le compte et sous la responsabilité du destinataire.
 
@@ -184,7 +184,7 @@ La signature du destinataire ou de son représentant est la preuve de la remise 
 
 Les lieux désignés par le donneur d'ordre doivent être accessibles sans contraintes ni risques particuliers pour des véhicules de caractéristiques usuelles pour le transport considéré.
 
-Le transporteur se conforme au protocole de sécurité applicable sur le site de chargement et/ou de déchargement, conformément à l'arrêté du 26 avril 1996 relatif aux tarifs de transports effectués par des véhicules sanitaires terrestres privés. Plus généralement, il est tenu de respecter les règles de sécurité en vigueur dans les lieux où il est amené à intervenir.
+Le transporteur se conforme au protocole de sécurité applicable sur le site de chargement et/ ou de déchargement, conformément à l'arrêté du 26 avril 1996 relatif aux tarifs de transports effectués par des véhicules sanitaires terrestres privés. Plus généralement, il est tenu de respecter les règles de sécurité en vigueur dans les lieux où il est amené à intervenir.
 
 11. Identification du véhicule et durées de mise à disposition en vue du chargement ou du déchargement.
 
@@ -202,7 +202,7 @@ Les durées totales de mise à disposition du véhicule sont au maximum :
 
 2. Pour les autres envois : de trente minutes.
 
-En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 18 ci-après.
+En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 18 ci-après.
 
 11.2. Pour les envois égaux ou supérieurs à cinq cents kilogrammes.
 
@@ -218,7 +218,7 @@ Lorsqu'il y a rendez-vous, un retard de trente minutes est admis par rapport à 
 
 Le déchargement des animaux est effectué par le destinataire lorsque le véhicule se présente.
 
-En cas de dépassement non imputable au transporteur des durées ainsi fixées, celui-ci perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage facturé séparément, conformément aux dispositions de l'article 18 ci-après.
+En cas de dépassement non imputable au transporteur des durées ainsi fixées, celui-ci perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage facturé séparément, conformément aux dispositions de l'article 18 ci-après.
 
 12. Opérations de pesage.
 
@@ -244,19 +244,19 @@ Si le transport est empêché ou interrompu temporairement ou si, pour un motif 
 
 Si, en cas d'urgence, le transporteur n'a pu obtenir en temps utile les instructions du donneur d'ordre, il prend les mesures qui lui paraissent les meilleures dans l'intérêt de ce dernier pour la protection des animaux ou leur acheminement par d'autres voies ou d'autres moyens.
 
-Sauf si l'empêchement, l'interruption ou l'impossibilité est imputable au transporteur, le donneur d'ordre rembourse au transporteur les dépenses justifiées consécutives aux instructions données ou aux mesures prises en application des alinéas précédents. Ces dépenses ainsi que les frais d'immobilisation du véhicule et/ou de l'équipage sont facturés séparément, en sus du prix du transport convenu, conformément aux dispositions de l'article 18 ci-après.
+Sauf si l'empêchement, l'interruption ou l'impossibilité est imputable au transporteur, le donneur d'ordre rembourse au transporteur les dépenses justifiées consécutives aux instructions données ou aux mesures prises en application des alinéas précédents. Ces dépenses ainsi que les frais d'immobilisation du véhicule et/ ou de l'équipage sont facturés séparément, en sus du prix du transport convenu, conformément aux dispositions de l'article 18 ci-après.
 
 En cas d'empêchement définitif dû à la force majeure, le transporteur a droit à la partie du prix du transport correspondant au trajet effectué jusqu'à l'arrêt du transport.
 
 16. Soins aux animaux en cours de transport et de convoyage.
 
-En cours de transport, le convoyeur apporte les soins généraux et ordinaires nécessaires au transport d'animaux vivants, notamment la nourriture et l'abreuvement des animaux, conformément à l'article L. 214-12 du code rural.
+En cours de transport, le convoyeur apporte les soins généraux et ordinaires nécessaires au transport d'animaux vivants, notamment la nourriture et l'abreuvement des animaux, conformément à l'article L. 214-12 du code rural et de la pêche maritime.
 
 Les soins spéciaux aux animaux demandés par le donneur d'ordre ou exigés par la nature du transport ou l'état des animaux font l'objet d'une prestation complémentaire rémunérée en sus du transport.
 
 Lorsque l'état apparent d'un animal paraît le justifier, le convoyeur donne les soins appropriés et, si besoin est, intervient auprès d'un docteur vétérinaire pour le compte du donneur d'ordre.
 
-17. Modalités de livraison - Empêchement à la livraison.
+17. Modalités de livraison-Empêchement à la livraison.
 
 17.1. Cas d'empêchement à la livraison.
 
@@ -280,11 +280,11 @@ Les animaux qui ont fait l'objet de l'avis de souffrance restent à la dispositi
 
 17.3. Prise en charge des frais.
 
-Les frais de nouvelle présentation, de livraison à domicile, de garde, d'hébergement, de retour, de vente ou d'abattage des animaux sont à la charge du donneur d'ordre, sauf s'ils sont la conséquence d'une faute du transporteur. En outre, le transporteur perçoit du donneur d'ordre un complément de rémunération pour frais d'immobilisation du véhicule et/ou de l'équipage et pour les opérations de manutention accomplies, facturé séparément, conformément aux dispositions de l'article 18 ci-dessous.
+Les frais de nouvelle présentation, de livraison à domicile, de garde, d'hébergement, de retour, de vente ou d'abattage des animaux sont à la charge du donneur d'ordre, sauf s'ils sont la conséquence d'une faute du transporteur. En outre, le transporteur perçoit du donneur d'ordre un complément de rémunération pour frais d'immobilisation du véhicule et/ ou de l'équipage et pour les opérations de manutention accomplies, facturé séparément, conformément aux dispositions de l'article 18 ci-dessous.
 
 18. Rémunération du transport et des prestations annexes et complémentaires.
 
-La rémunération du transporteur comprend le prix du transport stricto sensu, celui des prestations annexes et des prestations complémentaires auxquels s'ajoutent les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport ainsi que toute taxe liée au transport et/ou tout droit dont la perception est mise à la charge du transporteur.
+La rémunération du transporteur comprend le prix du transport stricto sensu, celui des prestations annexes et des prestations complémentaires auxquels s'ajoutent les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport ainsi que toute taxe liée au transport et/ ou tout droit dont la perception est mise à la charge du transporteur.
 
 Le prix du transport est établi en fonction du type de véhicule utilisé, de ses équipements, de la nature de la marchandise, de son poids, de son volume, du nombre de colis, de la distance du transport, des délais d'acheminement, de la relation assurée, des caractéristiques du trafic, des sujétions particulières de circulation, de la durée de mise à disposition du véhicule et de l'équipage, plus généralement des coûts engendrés par la prestation demandée, conformément aux dispositions de la loi n° 95-96 du 1er février 1995 concernant les clauses abusives et la présentation des contrats et régissant diverses activités d'ordre économique et commercial ainsi que de la qualité de la prestation rendue.
 
@@ -318,7 +318,7 @@ Toute prestation annexe ou complémentaire est rémunérée au prix convenu. Tel
 
 13. Des frais d'hébergement.
 
-Toute modification du contrat de transport initial notamment, tout changement d'itinéraire, toute immobilisation du véhicule et/ou de l'équipage non imputables au transporteur, entraîne un réajustement des conditions de rémunération du transporteur.
+Toute modification du contrat de transport initial notamment, tout changement d'itinéraire, toute immobilisation du véhicule et/ ou de l'équipage non imputables au transporteur, entraîne un réajustement des conditions de rémunération du transporteur.
 
 Les frais supplémentaires de suivi du contrat de transport sont facturés séparément.
 
@@ -344,7 +344,7 @@ S'il n'a pas été encaissé au moment de l'enlèvement ou de la livraison, ce p
 
 20.6. Le non-paiement total ou partiel d'une facture à une seule déchéance emporte, sans formalité, déchéance du terme entraînant l'exigibilité immédiate du règlement, sans mise en demeure, de toutes sommes dues, même à terme, à la date de ce manquement et autorise le transporteur à exiger le paiement comptant avant l'exécution de toute nouvelle opération.
 
-20.7. En cas de perte et/ou d'avarie partielles ou totales de la marchandise, le transporteur a droit au paiement du prix du transport, sous réserve qu'il règle l'indemnité correspondante.
+20.7. En cas de perte et/ ou d'avarie partielles ou totales de la marchandise, le transporteur a droit au paiement du prix du transport, sous réserve qu'il règle l'indemnité correspondante.
 
 21. Livraison contre remboursement.
 
@@ -364,7 +364,7 @@ L'ayant droit peut, sans avoir à fournir d'autres preuves, considérer la march
 
 L'ayant droit est alors indemnisé dans les conditions prévues à l'article 23.
 
-23. Indemnisation pour pertes et avaries - Déclaration de valeur.
+23. Indemnisation pour pertes et avaries-Déclaration de valeur.
 
 Le transporteur est tenu de verser une indemnité pour la réparation de tous les dommages justifiés dont il est légalement tenu pour responsable, résultant de la perte totale ou partielle ou de l'avarie de la marchandise.
 
@@ -382,13 +382,13 @@ Cette indemnité ne peut excéder ni le montant du préjudice réel ni, par anim
 
 6. Equidés :
 
-- chevaux : 1 600 euros ;
+-chevaux : 1 600 euros ;
 
-- poulains, poneys : 810 euros ;
+-poulains, poneys : 810 euros ;
 
-- ânes, mulets, bardots : 290 euros ;
+-ânes, mulets, bardots : 290 euros ;
 
-7. Autres animaux : 14 euros/kg.
+7. Autres animaux : 14 euros/ kg.
 
 Le donneur d'ordre a la faculté de faire une déclaration de valeur qui a pour effet de substituer le montant de cette déclaration au plafond de l'indemnité, fixé à l'alinéa ci-dessus.
 

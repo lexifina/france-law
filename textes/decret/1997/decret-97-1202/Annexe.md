@@ -14,7 +14,7 @@ Approbation des statuts des sociétés d'aménagement régional.
 
 |
 
-Article R. 112-13 du code rural.
+Article R. 112-13 du code rural et de la pêche maritime.
 
 |
 
@@ -40,7 +40,7 @@ Décisions de retrait d'agrément des sociétés d'aménagement foncier et d'ét
 
 |
 
-Article R. 141-8 du code rural.
+Article R. 141-8 du code rural et de la pêche maritime.
 
 |
 
@@ -90,19 +90,19 @@ Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alim
 
 |
 
-Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et des textes pris pour leur application.
+Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et de la pêche maritime et des textes pris pour leur application.
 
 |
 
-Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural.
+Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural et de la pêche maritime.
 
 |
 
-Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et des textes pris pour son application.
+Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et de la pêche maritime et des textes pris pour son application.
 
 |
 
-Articles R. 202-6 et R. 202-16 du code rural.
+Articles R. 202-6 et R. 202-16 du code rural et de la pêche maritime.
 
 |
 
@@ -116,7 +116,7 @@ Autorisation de répartition entre les associés d'une société coopérative ag
 
 |
 
-Article R. 526-4, 2e alinéa du code rural.
+Article R. 526-4, 2e alinéa du code rural et de la pêche maritime.
 
 |
 
@@ -178,7 +178,7 @@ Agriculture raisonnée
 
 |
 
-Agrément prévu par l'article L. 640-3 du code rural, des organismes chargés de la qualification des exploitations agricoles au titre de l'agriculture raisonnée et de son contrôle
+Agrément prévu par l'article L. 640-3 du code rural et de la pêche maritime, des organismes chargés de la qualification des exploitations agricoles au titre de l'agriculture raisonnée et de son contrôle
 
 |
 
@@ -260,7 +260,7 @@ Agrément des organismes religieux habilités à désigner des sacrificateurs au
 
 |
 
-Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural, art. 10.
+Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural et de la pêche maritime, art. 10.
 
 |
 
@@ -278,7 +278,7 @@ Autorisation d'utilisation, de dissémination et de mise sur le marché des orga
 
 Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ;
 
-articles R.* 253-24, R.* 253-27, R.* 253-32, R.* 253-56, R.* 253-59 du code rural.
+articles R.* 253-24, R.* 253-27, R.* 253-32, R.* 253-56, R.* 253-59 du code rural et de la pêche maritime.
 
 Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ;
 
@@ -292,7 +292,7 @@ Agrément pour la réalisation d'essais officiellement reconnus des produits phy
 
 |
 
-article R.* 253-11 du code rural.
+article R.* 253-11 du code rural et de la pêche maritime.
 
 |
 
@@ -300,7 +300,7 @@ Refus de transmission d'un dossier de demande d'inscription sur la liste communa
 
 |
 
-R.* 253-6 du code rural.
+R.* 253-6 du code rural et de la pêche maritime.
 
 |
 
@@ -308,7 +308,7 @@ Autorisation d'une extension d'usage d'un produit phytopharmaceutique autorisé.
 
 |
 
-R.* 253-45, R.* 253-61 du code rural.
+R.* 253-45, R.* 253-61 du code rural et de la pêche maritime.
 
 |
 
@@ -316,7 +316,7 @@ Autorisation provisoire pour la mise sur le marché d'un produit phytopharmaceut
 
 |
 
-R.* 253-49 du code rural.
+R.* 253-49 du code rural et de la pêche maritime.
 
 |
 
@@ -324,7 +324,7 @@ Autorisation de mise sur le marché des produits phytopharmaceutiques pour une p
 
 |
 
-R.* 253-50 du code rural.
+R.* 253-50 du code rural et de la pêche maritime.
 
 |
 
@@ -332,7 +332,7 @@ Autorisation de mise sur le marché des produits.phytopharmaceutiques en provena
 
 |
 
-R.* 253-52, R.* 253-54 et R.* 253-55 du code rural.
+R.* 253-52, R.* 253-54 et R.* 253-55 du code rural et de la pêche maritime.
 
 |
 
@@ -340,7 +340,7 @@ Autorisations de dissémination et de mise sur le marché des matières fertilis
 
 |
 
-R.* 255-8, R.* 255-16, R.* 255-23, R.* 255-28 et R.* 255-32 du code rural.
+R.* 255-8, R.* 255-16, R.* 255-23, R.* 255-28 et R.* 255-32 du code rural et de la pêche maritime.
 
 |
 
@@ -350,7 +350,7 @@ Organismes professionnels agricoles
 
 |
 
-Agrément des unions de coopératives et des sociétés coopératives agricoles lorsque ces dernières ne peuvent être agréées ni par un préfet de département ni par un préfet de région en application des 1er et 2e alinéas de l'article R. 525-2 du code rural.
+Agrément des unions de coopératives et des sociétés coopératives agricoles lorsque ces dernières ne peuvent être agréées ni par un préfet de département ni par un préfet de région en application des 1er et 2e alinéas de l'article R. 525-2 du code rural et de la pêche maritime.
 
 |
 
@@ -362,15 +362,15 @@ Octroi aux sociétés coopératives agricoles et aux unions de coopératives de 
 
 |
 
-Article R. 521-2 du code rural.
+Article R. 521-2 du code rural et de la pêche maritime.
 
 |
 
-Octroi de dérogations aux conditions de nationalité fixées par l'article R. 524-1 du code rural pour être membre du conseil d'administration d'une société coopérative agricole lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.
+Octroi de dérogations aux conditions de nationalité fixées par l'article R. 524-1 du code rural et de la pêche maritime pour être membre du conseil d'administration d'une société coopérative agricole lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.
 
 |
 
-Article R. 524-1 du code rural.
+Article R. 524-1 du code rural et de la pêche maritime.
 
 |
 
@@ -378,7 +378,7 @@ Autorisation pour les unions de coopératives d'inclure dans leurs statuts toute
 
 |
 
-Article R. 524-25 du code rural.
+Article R. 524-25 du code rural et de la pêche maritime.
 
 |
 
@@ -386,23 +386,23 @@ Décision de dissolution du conseil d'administration d'une société coopérativ
 
 |
 
-Article R. 525-14 du code rural.
+Article R. 525-14 du code rural et de la pêche maritime.
 
 |
 
-Reconnaissance d'un groupement de producteurs et des règles prévues à l'article L. 551-1 du code rural qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci.
+Reconnaissance d'un groupement de producteurs et des règles prévues à l'article L. 551-1 du code rural et de la pêche maritime qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci.
 
 |
 
-Article R. 551-4, 551-9, 551-11 et 551-12 du code rural.
+Article R. 551-4, 551-9, 551-11 et 551-12 du code rural et de la pêche maritime.
 
 |
 
-Agrément d'un comité économique agricole et des règles prévues à l'article L. 552-1 du code rural qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci et des modifications de circonscription.
+Agrément d'un comité économique agricole et des règles prévues à l'article L. 552-1 du code rural et de la pêche maritime qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci et des modifications de circonscription.
 
 |
 
-Article R. 552-4, 552-8, 552-10, 552-13 et 552-14 du code rural.
+Article R. 552-4, 552-8, 552-10, 552-13 et 552-14 du code rural et de la pêche maritime.
 
 |
 
@@ -628,10 +628,10 @@ Décisions relatives au règlement amiable des litiges résultant de l'activité
 
 |
 
-Décisions d'agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural.
+Décisions d'agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural et de la pêche maritime.
 
 |
 
-Article R. 256-30 du code rural.
+Article R. 256-30 du code rural et de la pêche maritime.
 
 |

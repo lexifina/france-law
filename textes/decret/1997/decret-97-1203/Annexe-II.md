@@ -10,7 +10,7 @@ Subventions aux établissements publics locaux d'enseignement agricole.
 
 |
 
-Art. R. 811-4 et R. 811-51 du code rural.
+Art. R. 811-4 et R. 811-51 du code rural et de la pêche maritime.
 
 |
 
@@ -18,7 +18,7 @@ Subventions aux organismes locaux pour le financement des stages préparatoires 
 
 |
 
-Art. R. 343-4 et R. 343-5 du code rural.
+Art. R. 343-4 et R. 343-5 du code rural et de la pêche maritime.
 
 |
 

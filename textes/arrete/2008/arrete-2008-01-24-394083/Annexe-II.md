@@ -190,7 +190,7 @@ f) Réglementation : 20 heures :
 
 - réglementation de la médecine et de la pharmacie vétérinaire ;
 
-- les outils d'orientation de l'élevage : loi sur l'élevage (code rural).
+- les outils d'orientation de l'élevage : loi sur l'élevage (code rural et de la pêche maritime).
 
 g) Matériel et technologie : 10 heures :
 

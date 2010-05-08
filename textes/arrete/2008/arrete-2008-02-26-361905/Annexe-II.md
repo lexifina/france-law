@@ -24,7 +24,7 @@ V.-Les échantillons de fientes prévus au point 1. 2. 3 (I) et 2. 2 sont rassem
 
 Chapitre II : Laboratoires
 
-Les prélèvements officiels, prévus par l'article R. 200-1 du code rural, réalisés par la direction en charge des services vétérinaires, ou un vétérinaire sanitaire désigné par celle-ci, sont analysés dans des laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A.
+Les prélèvements officiels, prévus par l'article R. 200-1 du code rural et de la pêche maritime, réalisés par la direction en charge des services vétérinaires, ou un vétérinaire sanitaire désigné par celle-ci, sont analysés dans des laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A.
 
 Les autres prélèvements obligatoires prévus par le présent arrêté sont analysés :
 
@@ -74,4 +74,4 @@ B.-Laboratoires reconnus
 
 8. Le laboratoire est tenu d'expédier les souches isolées, conformément à l'article 31 du présent arrêté, au laboratoire national de référence pour les salmonelles.
 
-9. Le formulaire figurant en annexe IV du présent arrêté est adressé par tout laboratoire demandant la reconnaissance pour les activités d'analyse prévues au présent arrêté à la préfecture du département de son lieu d'implantation ( direction en charge des services vétérinaires).
+9. Le formulaire figurant en annexe IV du présent arrêté est adressé par tout laboratoire demandant la reconnaissance pour les activités d'analyse prévues au présent arrêté à la préfecture du département de son lieu d'implantation (direction en charge des services vétérinaires).

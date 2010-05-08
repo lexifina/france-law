@@ -6,7 +6,7 @@ Les présentes dispositions s'appliquent sans préjudice d'autres textes législ
 
 Chapitre Ier
 
-Etablissements hébergeant des reproducteurs de l'espèce Gallus gallus ou des volailles de rente de la filière ponte d'œufs de consommation
+Etablissements hébergeant des reproducteurs de l'espèce Gallus gallus ou des volailles de rente de la filière ponte d'œufs de consommation.
 
 Un établissement est défini comme la zone d'élevage de reproducteurs ou de poulettes futures pondeuses ou de pondeuses d'œufs de consommation de l'espèce Gallus gallus sur un même site, regroupant éventuellement plusieurs bâtiments contigus ou non et, le cas échéant, les parcours associés.
 
@@ -162,7 +162,7 @@ La mise en place dans un bâtiment d'un lot de volailles, après une bande ayant
 
 4. Registre d'élevage
 
-Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural est complété par les informations suivantes :
+Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural et de la pêche maritime est complété par les informations suivantes :
 
 ― attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 a du présent chapitre ;
 
@@ -252,7 +252,7 @@ L'installation de filtres de dépoussiérage aux entrées d'air est préconisée
 
 L'évacuation et le stockage des déchets de couvoir ne doivent pas constituer une source de pollution, ni de contamination.
 
-Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de "paniers" aux accès pour récupérer les déchets.
+Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de paniers aux accès pour récupérer les déchets.
 
 A l'entrée du couvoir, le sas d'entrée représente une barrière sanitaire destinée à protéger le couvoir contre le facteur de risque humain. Il comporte une séparation physique entre la zone extérieure et la zone intérieure. Il doit être équipé :
 
@@ -356,13 +356,13 @@ b-5) Les dispositions transitoires suivantes s'appliquent aux couvoirs souhaitan
 
 ― les œufs à couver de la filière ponte sont incubés dans des incubateurs ne contenant que des œufs à couver de cette filière ;
 
-― les œufs à couver de la filière ponte sont mis en éclosion dans des éclosoirs séparés, situés dans une ou des salles d'éclosion dédiées à la production de la filière ponte. La séparation dans le temps n'est pas autorisée pour pallier l'absence de salle d'éclosion dédiée. La gestion des flux d'air, entrées et sorties, permet d'éviter la contamination des salles d'éclosion "ponte" lors des éclosions "chair" ;
+― les œufs à couver de la filière ponte sont mis en éclosion dans des éclosoirs séparés, situés dans une ou des salles d'éclosion dédiées à la production de la filière ponte. La séparation dans le temps n'est pas autorisée pour pallier l'absence de salle d'éclosion dédiée. La gestion des flux d'air, entrées et sorties, permet d'éviter la contamination des salles d'éclosion ponte lors des éclosions chair ;
 
 ― les transferts en éclosoirs des œufs à couver des filières chair et ponte sont séparés dans le temps ;
 
 ― les éclosions et le tri des poulettes d'un jour sont organisés sur des journées séparées. Le nettoyage et la désinfection des salles de tri et de stockage sont conduits pour une efficacité optimale ;
 
-― une chiffonnette des tapis de tri de la journée d'éclosion "chair" précédant une éclosion "ponte" est réalisée en fin d'éclosion pour la recherche de Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow. Tout résultat positif est transmis sans délai au directeur départemental des services vétérinaires ;
+― une chiffonnette des tapis de tri de la journée d'éclosion chair précédant une éclosion ponte est réalisée en fin d'éclosion pour la recherche de Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow. Tout résultat positif est transmis sans délai au directeur départemental des services vétérinaires ;
 
 ― les reproducteurs de la filière chair approvisionnant l'établissement en œufs à couver font l'objet de contrôles équivalents à ceux prévus par le programme de lutte en filière ponte : à ce titre, les lots de poussins de chair fournis par le couvoir font l'objet de contrôles de fonds de boîtes de livraison portant sur Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow à raison de deux fonds de boîte par semaine et par troupeau d'origine. Tout résultat positif est communiqué sans délai par le laboratoire et le responsable du couvoir au directeur départemental des services vétérinaires.
 

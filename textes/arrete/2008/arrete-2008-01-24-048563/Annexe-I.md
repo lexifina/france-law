@@ -10,7 +10,7 @@ Les centres de collecte de sperme doivent :
 
 ― sous la surveillance sanitaire d'un vétérinaire de centre ;
 
-― sous la responsabilité technique d'un chef de centre titulaire d'une licence de chef de centre prévue à l'article L. 653-13 du code rural, qui peut le cas échéant être également vétérinaire de centre. Toutefois, pour les centres dont les doses de sperme sont exclusivement destinées à la mise en place immédiate sur le site du centre dans l'heure suivant la collecte, la responsabilité technique peut être assurée par un titulaire d'une licence d'inséminateur prévue à l'article L. 653-13 du code rural.
+― sous la responsabilité technique d'un chef de centre titulaire d'une licence de chef de centre prévue à l'article L. 653-13 du code rural et de la pêche maritime, qui peut le cas échéant être également vétérinaire de centre. Toutefois, pour les centres dont les doses de sperme sont exclusivement destinées à la mise en place immédiate sur le site du centre dans l'heure suivant la collecte, la responsabilité technique peut être assurée par un titulaire d'une licence d'inséminateur prévue à l'article L. 653-13 du code rural et de la pêche maritime.
 
 2° Disposer au moins :
 

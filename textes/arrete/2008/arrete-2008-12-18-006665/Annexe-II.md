@@ -16,13 +16,13 @@ né le (date de naissance du candidat)
 
 à
 
-(lieu de naissance), est titulaire du certificat attestant de sa qualification pour la réalisation de contrôles périodiques obligatoires des pulvérisateurs à rampe et pour arbres et arbustes en application de l'article L. 256-2 du code rural.
+(lieu de naissance), est titulaire du certificat attestant de sa qualification pour la réalisation de contrôles périodiques obligatoires des pulvérisateurs à rampe et pour arbres et arbustes en application de l'article L. 256-2 du code rural et de la pêche maritime.
 
 Ce certificat est valable cinq ans à compter de ce jour.
 
-Fait à , le
+Fait à, le
 
-(Signature du directeur)(Cachet du centre de formation)
+(Signature du directeur) (Cachet du centre de formation)
 
 Renouvellement de certificat
 
@@ -42,10 +42,10 @@ ayant obtenu le certificat attestant de sa qualification pour le contrôle péri
 
 délivré par (centre de formation),
 
-est titulaire du renouvellement du certificat en application de l'article L. 256-2 du code rural.
+est titulaire du renouvellement du certificat en application de l'article L. 256-2 du code rural et de la pêche maritime.
 
 Ce renouvellement de certificat est valable cinq ans à compter de ce jour.
 
-Fait à , le
+Fait à, le
 
-(Signature du directeur)(Cachet du centre de formation)
+(Signature du directeur) (Cachet du centre de formation)

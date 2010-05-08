@@ -12,7 +12,7 @@ La durée de la formation est de six semaines. Elle s'adresse à des docteurs v�
 
 -de huit ans d'expérience professionnelle agricole dont au moins quatre dans l'insémination artificielle équine.
 
-Le chef de centre est responsable des opérations de récolte, de conditionnement, de stockage et de distribution de la semence. A ce titre, il doit avoir de solides connaissances techniques dans les domaines suivants :
+Le chef de centre est responsable des opérations de récolte, de conditionnement, de stockage et de distribution de la semence.A ce titre, il doit avoir de solides connaissances techniques dans les domaines suivants :
 
 -reproduction ;
 
@@ -170,7 +170,7 @@ a) Formation à la mise en place : 64 heures.
 
 De deux semaines, cette formation doit être acquise dans un des centres de formation cités à l'article 5 du présent arrêté.
 
-Toutefois, pour les titulaires d'un diplôme, certificat ou titre de vétérinaire mentionné à l'article L. 241-2 du code rural ou les titulaires de la licence d'inséminateur équin, la durée globale de la session peut être réduite à quatre semaines.
+Toutefois, pour les titulaires d'un diplôme, certificat ou titre de vétérinaire mentionné à l'article L. 241-2 du code rural et de la pêche maritime ou les titulaires de la licence d'inséminateur équin, la durée globale de la session peut être réduite à quatre semaines.
 
 b) Anatomie et physiologie de la reproduction : 20 heures :
 
@@ -296,6 +296,4 @@ Organisation de la mise en place de la semence, gestion des documents de monte.
 
 Sur la réglementation de la monte publique, sanitaire et de la médecine et de la pharmacie vétérinaire.
 
-2. 4. Mémoire de fin de session sur un sujet
-
-relatif à l'insémination artificielle équine
+2. 4. Mémoire de fin de session sur un sujet relatif à l'insémination artificielle équine
