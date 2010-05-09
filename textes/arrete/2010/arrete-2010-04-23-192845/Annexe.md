@@ -1,0 +1,229 @@
+# Article Annexe
+
+RÉGIONS
+
+|
+
+DROIT À COMPENSATION
+
+en valeur 2009
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+246 477
+
+|
+
+AQUITAINE
+
+|
+
+112 035
+
+|
+
+AUVERGNE
+
+|
+
+64 020
+
+|
+
+BOURGOGNE
+
+|
+
+96 030
+
+|
+
+BRETAGNE
+
+|
+
+96 030
+
+|
+
+CENTRE
+
+|
+
+124 839
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+48 015
+
+|
+
+COLLECTIVITÉ TERRITORIALE DE CORSE
+
+|
+
+0
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+61 875
+
+|
+
+ÎLE-DE-FRANCE
+
+|
+
+1 312 410
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+112 035
+
+|
+
+LIMOUSIN
+
+|
+
+86 427
+
+|
+
+LORRAINE
+
+|
+
+154 704
+
+|
+
+MIDI-PYRÉNNÉES
+
+|
+
+246 477
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+304 095
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+0
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+128 040
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+307 296
+
+|
+
+PICARDIE
+
+|
+
+64 020
+
+|
+
+POITOU-CHARENTES
+
+|
+
+64 020
+
+|
+
+PROVENCE-ALPES-CÔTE D'AZUR
+
+|
+
+192 060
+
+|
+
+RHÔNE-ALPES
+
+|
+
+298 749
+
+|
+
+GUADELOUPE
+
+|
+
+102 432
+
+|
+
+MARTINIQUE
+
+|
+
+0
+
+|
+
+GUYANE
+
+|
+
+0
+
+|
+
+LA RÉUNION
+
+|
+
+81 081
+
+|
+
+TOTAL
+
+|
+
+4 303 168
+
+|
