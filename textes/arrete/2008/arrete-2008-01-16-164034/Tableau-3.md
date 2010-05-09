@@ -4,23 +4,95 @@ Catégorie C
 
 Grade de sapeur
 
-ÉCHELONS
+ÉCHELONS |
+
+INDICE
+
+brut
+
+au
+
+1er mai 2008
 
 |
 
-INDICE BRUT
+INDICE
+
+brut
+
+au
+
+1er juillet 2008
 
 |
 
-INDICE MAJORÉ
+INDICE
+
+majoré
+
+au
+
+1er mai 2008
 
 |
 
-INDICE MAJORÉ INCLUANT
+INDICE
+
+majoré
+
+au
+
+1er juillet 2008
+
+|
+
+INDICE
+
+majoré
+
+au
+
+1er juillet 2009
+
+|
+
+INDICE
+
+majoré
+
+incluant
 
 la prime de feu
 
-au 1er novembre 2006
+au 1er mai 2008
+
+|
+
+INDICE
+
+majoré
+
+incluant
+
+la prime de feu
+
+au
+
+1er juillet 2008
+
+|
+
+INDICE
+
+majoré
+
+incluant
+
+la prime de feu
+
+au
+
+1er juillet 2009
 
 |
 
@@ -32,11 +104,31 @@ au 1er novembre 2006
 
 |
 
+413
+
+|
+
 368
 
 |
 
+369
+
+|
+
+369
+
+|
+
 438
+
+|
+
+439
+
+|
+
+439
 
 |
 
@@ -48,11 +140,31 @@ au 1er novembre 2006
 
 |
 
+389
+
+|
+
 352
 
 |
 
+356
+
+|
+
+356
+
+|
+
 419
+
+|
+
+424
+
+|
+
+424
 
 |
 
@@ -64,7 +176,27 @@ au 1er novembre 2006
 
 |
 
+374
+
+|
+
 345
+
+|
+
+345
+
+|
+
+345
+
+|
+
+411
+
+|
+
+411
 
 |
 
@@ -80,7 +212,27 @@ au 1er novembre 2006
 
 |
 
+360
+
+|
+
 335
+
+|
+
+335
+
+|
+
+335
+
+|
+
+399
+
+|
+
+399
 
 |
 
@@ -96,11 +248,31 @@ au 1er novembre 2006
 
 |
 
+347
+
+|
+
 324
 
 |
 
+325
+
+|
+
+325
+
+|
+
 386
+
+|
+
+387
+
+|
+
+387
 
 |
 
@@ -112,7 +284,27 @@ au 1er novembre 2006
 
 |
 
+333
+
+|
+
 316
+
+|
+
+316
+
+|
+
+316
+
+|
+
+376
+
+|
+
+376
 
 |
 
@@ -128,11 +320,31 @@ au 1er novembre 2006
 
 |
 
+323
+
+|
+
 306
 
 |
 
+308
+
+|
+
+308
+
+|
+
 364
+
+|
+
+367
+
+|
+
+367
 
 |
 
@@ -144,11 +356,31 @@ au 1er novembre 2006
 
 |
 
+310
+
+|
+
 298
 
 |
 
+300
+
+|
+
+300
+
+|
+
 355
+
+|
+
+357
+
+|
+
+357
 
 |
 
@@ -160,11 +392,31 @@ au 1er novembre 2006
 
 |
 
+303
+
+|
+
 291
 
 |
 
+295
+
+|
+
+295
+
+|
+
 346
+
+|
+
+351
+
+|
+
+351
 
 |
 
@@ -176,11 +428,31 @@ au 1er novembre 2006
 
 |
 
-285
+299
 
 |
 
-339
+288
+
+|
+
+292
+
+|
+
+294
+
+|
+
+343
+
+|
+
+347
+
+|
+
+350
 
 |
 
@@ -192,33 +464,125 @@ au 1er novembre 2006
 
 |
 
-283
+298
 
 |
 
-337
+288
+
+|
+
+291
+
+|
+
+293
+
+|
+
+343
+
+|
+
+346
+
+|
+
+349
 
 |
 
 Grade de caporal
 
-ÉCHELONS
+ÉCHELONS |
+
+INDICE
+
+brut
+
+au
+
+1er mai 2008
 
 |
 
-INDICE BRUT
+INDICE
+
+brut
+
+au
+
+1er juillet 2008
 
 |
 
-INDICE MAJORÉ
+INDICE
+
+majoré
+
+au
+
+1er mai 2008
 
 |
 
-INDICE MAJORÉ INCLUANT
+INDICE
+
+majoré
+
+au
+
+1er juillet 2008
+
+|
+
+INDICE
+
+majoré
+
+au
+
+1er juillet 2009
+
+|
+
+INDICE
+
+majoré
+
+incluant
 
 la prime de feu
 
-au 1er novembre 2006
+au 1er mai 2008
+
+|
+
+INDICE
+
+majoré
+
+incluant
+
+la prime de feu
+
+au
+
+1er juillet 2008
+
+|
+
+INDICE
+
+majoré
+
+incluant
+
+la prime de feu
+
+au
+
+1er juillet 2009
 
 |
 
@@ -230,7 +594,27 @@ au 1er novembre 2006
 
 |
 
+446
+
+|
+
 392
+
+|
+
+392
+
+|
+
+392
+
+|
+
+466
+
+|
+
+466
 
 |
 
@@ -246,7 +630,27 @@ au 1er novembre 2006
 
 |
 
+427
+
+|
+
 379
+
+|
+
+379
+
+|
+
+379
+
+|
+
+451
+
+|
+
+451
 
 |
 
@@ -262,11 +666,31 @@ au 1er novembre 2006
 
 |
 
+398
+
+|
+
 360
 
 |
 
+362
+
+|
+
+362
+
+|
+
 428
+
+|
+
+431
+
+|
+
+431
 
 |
 
@@ -278,11 +702,31 @@ au 1er novembre 2006
 
 |
 
+380
+
+|
+
 349
 
 |
 
+350
+
+|
+
+350
+
+|
+
 415
+
+|
+
+417
+
+|
+
+417
 
 |
 
@@ -294,11 +738,31 @@ au 1er novembre 2006
 
 |
 
+364
+
+|
+
 337
 
 |
 
+338
+
+|
+
+338
+
+|
+
 401
+
+|
+
+402
+
+|
+
+402
 
 |
 
@@ -310,11 +774,31 @@ au 1er novembre 2006
 
 |
 
+351
+
+|
+
 325
 
 |
 
+328
+
+|
+
+328
+
+|
+
 387
+
+|
+
+390
+
+|
+
+390
 
 |
 
@@ -326,11 +810,31 @@ au 1er novembre 2006
 
 |
 
+336
+
+|
+
 317
 
 |
 
+318
+
+|
+
+318
+
+|
+
 377
+
+|
+
+378
+
+|
+
+378
 
 |
 
@@ -342,11 +846,31 @@ au 1er novembre 2006
 
 |
 
+322
+
+|
+
 307
 
 |
 
+308
+
+|
+
+308
+
+|
+
 365
+
+|
+
+367
+
+|
+
+367
 
 |
 
@@ -358,7 +882,27 @@ au 1er novembre 2006
 
 |
 
+307
+
+|
+
 298
+
+|
+
+298
+
+|
+
+298
+
+|
+
+355
+
+|
+
+355
 
 |
 
@@ -374,11 +918,31 @@ au 1er novembre 2006
 
 |
 
+302
+
+|
+
 291
 
 |
 
+294
+
+|
+
+295
+
+|
+
 346
+
+|
+
+350
+
+|
+
+351
 
 |
 
@@ -390,11 +954,31 @@ au 1er novembre 2006
 
 |
 
-285
+299
 
 |
 
-339
+288
+
+|
+
+292
+
+|
+
+294
+
+|
+
+343
+
+|
+
+347
+
+|
+
+350
 
 |
 
@@ -406,17 +990,21 @@ Grade de sergent
 
 INDICE BRUT
 
+au 1er juillet 2008
+
 |
 
 INDICE MAJORÉ
 
+au 1er juillet 2008
+
 |
 
-INDICE MAJORÉ INCLUANT
+INDICE MAJORÉ
 
-la prime de feu
+incluant la prime de feu
 
-au 1er novembre 2006
+au 1er juillet 2008
 
 |
 
@@ -472,15 +1060,15 @@ au 1er novembre 2006
 
 |
 
-396
+398
 
 |
 
-360
+362
 
 |
 
-428
+431
 
 |
 
@@ -488,15 +1076,15 @@ au 1er novembre 2006
 
 |
 
-379
+380
 
 |
 
-349
+350
 
 |
 
-415
+417
 
 |
 
@@ -524,17 +1112,21 @@ Grade d'adjudant
 
 INDICE BRUT
 
+au 1er juillet 2008
+
 |
 
 INDICE MAJORÉ
 
+au 1er juillet 2008
+
 |
 
-INDICE MAJORÉ INCLUANT
+INDICE MAJORÉ
 
-la prime de feu
+incluant la prime de feu
 
-au 1er novembre 2006
+au 1er juillet 2008
 
 |
 
