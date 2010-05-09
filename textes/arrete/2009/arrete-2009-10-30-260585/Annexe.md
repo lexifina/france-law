@@ -20,7 +20,7 @@ Fermeture du foyer d'action éducative de Niort (Deux-Sèvres) au 1er septembre 
 
 |
 
-Mutation ou déplacement des agents du foyer entre le 1er septembre 2009 et le 31 décembre 2010.
+Mutation ou déplacement des agents du foyer entre le 1er mai 2009 et le 31 décembre 2010.
 
 |
 
@@ -31,3 +31,7 @@ Fermeture de l'unité éducative d'hébergement diversifié du foyer d'action é
 Mutation ou déplacement des agents de l'unité entre le 1er septembre 2009 et le 31 décembre 2010.
 
 |
+
+Unité éducative d'hébergement diversifié du foyer d'action éducative de La Rochelle |
+
+Mutation ou déplacement des agents entre le 1er janvier 2009 et le 31 décembre 2009. |
