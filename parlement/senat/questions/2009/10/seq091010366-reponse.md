@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010366
+
+- Question : [SEQ091010366](seq091010366.md) — Maintien des championnats de France UNSS pour les catégories juniors seniors
+
+## Réponse
+
+*Éducation, JO du 2010-05-13, page 1228*
+
+Le programme sportif 2008-2012 de l'UNSS définit trois catégories de rencontres sportives à finalité nationale : les championnats de France, les coupes de France et les festivals ou biennales. Les championnats de France regroupent les activités qui reposent sur un volume de pratiquants et une densité territoriale suffisants, et n'ont par conséquent pas vocation à être organisés dans toutes les activités sportives et dans toutes les catégories. La décision de ne pas renouveler l'organisation des championnats de France dans les sports collectifs pour les catégories juniors et seniors repose sur le constat d'une diminution des effectifs licenciés dans ces catégories, ainsi que d'une baisse significative du nombre d'équipes qualifiables qui participent aux compétitions. Cette décision, limitée aux sports collectifs et à l'athlétisme, concerne 9 000 pratiquants sur l'ensemble du territoire, qui, faute d'adversaires, sont souvent qualifiés directement aux phases finales. L'offre sportive n'en sera pas diminuée, puisque les élèves licenciés, quelle que soit leur catégorie, continueront à pouvoir pratiquer les activités sportives de leur choix et à participer à des rencontres inter-académiques adaptées à leur niveau. Pour la première fois de son histoire, l'UNSS a dépassé le nombre du million d'adhérents. Afin de conforter cette dynamique, le ministère de l'éducation nationale est attentif à ce que la direction nationale de l'UNSS développe les modes d'organisation de rencontres sportives les mieux adaptés et les plus propices à la participation du plus grand nombre.
