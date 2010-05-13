@@ -1,1 +1,0 @@
-# Article Tableau III bis
