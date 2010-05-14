@@ -1,12 +1,16 @@
 # Article Annexe X
 
-MODÈLE DE DEMANDE D'AUTORISATION D'OPÉRATION DE PÊCHE CONJOINTE
+Modèle de demande d'autorisation d'opération conjointe de pêche
 
-Etat du pavillon
+Etat
+
+du pavillon
 
 |
 
-Nom du navire
+Nom
+
+du navire
 
 |
 
@@ -14,35 +18,63 @@ Immatriculation
 
 |
 
-N° de registre de la CICTA
+N°
+
+de registre
+
+de la CICTA
 
 |
 
-Durée de l'opération
+Durée
+
+de l'opération
 
 |
 
-Nom armateur
+Nom
+
+armateur
 
 |
 
-Quota individuel du navire en tonnes
+Quota
+
+individuel
+
+du navire
+
+en tonnes
 
 |
 
-Clef d'allocation entre les navires en %
+Clef
+
+d'allocation
+
+entre les
+
+navires
+
+en %
 
 |
 
-Fermes d'engraissement et d'élevage de destination
+Fermes d'engraissement
+
+et d'élevage de destination
 
 |
 
-Date début
+Date
+
+début
 
 |
 
-Date fin
+Date
+
+fin
 
 |
 
@@ -54,10 +86,12 @@ N° de registre de la CICTA
 
 |
 
-Position (lat/long)
+Position(lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -80,6 +114,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -101,6 +137,8 @@ Position (lat/long)
 |
 
 |
+
+.
 
 |
 
@@ -124,6 +162,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -146,6 +186,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -167,6 +209,8 @@ Position (lat/long)
 |
 
 |
+
+.
 
 |
 
@@ -190,6 +234,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -212,6 +258,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -233,6 +281,8 @@ Position (lat/long)
 |
 
 |
+
+.
 
 |
 
@@ -256,6 +306,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -277,6 +329,8 @@ Position (lat/long)
 |
 
 |
+
+.
 
 |
 
@@ -300,6 +354,8 @@ Position (lat/long)
 
 |
 
+.
+
 |
 
 |
@@ -321,6 +377,8 @@ Position (lat/long)
 |
 
 |
+
+.
 
 |
 
