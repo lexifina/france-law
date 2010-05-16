@@ -1,12 +1,16 @@
-# Article Annexe 7
+# Article Annexe VII
 
-Programme de formation des enseignants de la conduite automobile et de la sécurité routière
+PROGRAMME DE FORMATION DES ENSEIGNANTS
 
-Mention "groupe lourd"
+DE LA CONDUITE AUTOMOBILE ET DE LA SÉCURITÉ ROUTIÈRE
 
-I. - Les conducteurs et. la conduite des véhicules du groupe lourd
+Mention groupe lourd
 
-1. Être capable d'analyser les tâches de la conduite des véhicules de transport routier de marchandises et de personnes.
+I. - Les conducteurs et la conduite des véhicules
+
+du groupe lourd
+
+1. Etre capable d'analyser les tâches de la conduite des véhicules de transport routier de marchandises et de personnes.
 
 2. Avoir des notions de physiologie.
 
@@ -14,7 +18,7 @@ I. - Les conducteurs et. la conduite des véhicules du groupe lourd
 
 4. Avoir des notions sur les systèmes homme, machine, environnement.
 
-5. Connaître les principes et les techniques de l'éco-conduite.
+5. Connaître les principes et les techniques de l'écoconduite.
 
 6. Comprendre les particularités de l'apprentissage de la conduite des véhicules du groupe lourd.
 
@@ -50,7 +54,7 @@ IV. - La sécurité des véhicules du groupe lourd
 
 1. Comprendre et être conscient des facteurs de l'insécurité.
 
-2. Comprendre les moyens mis en ouvre pour la sécurité des véhicules du groupe lourd.
+2. Comprendre les moyens mis en œuvre pour la sécurité des véhicules du groupe lourd.
 
 3. Connaître et comprendre les statistiques.
 
@@ -60,21 +64,23 @@ V. - La pédagogie de la conduite des véhicules du groupe lourd
 
 2. Comprendre les différents programmes dans l'enseignement.
 
-3. Être capable de maîtriser les objectifs pédagogiques.
+3. Etre capable de maîtriser les objectifs pédagogiques.
 
-4. Être capable d'organiser des progressions d'apprentissage de la conduite des véhicules du groupe lourd.
+4. Etre capable d'organiser des progressions d'apprentissage de la conduite des véhicules du groupe lourd.
 
-5. Être capable d'adapter son enseignement.
+5. Etre capable d'adapter son enseignement.
 
-6. Être conscient de procéder aux différentes formes d'évaluation.
+6. Etre conscient de procéder aux différentes formes d'évaluation.
 
-VI. - L'instruction professionnelle et civique dans le transport routier de marchandises et de personnes
+VI. - L'instruction professionnelle et civique
+
+dans le transport routier de marchandises et de personnes
 
 1. Connaître et comprendre les règles spécifiques à l'enseignement de la conduite des véhicules du groupe lourd.
 
 2. Comprendre le rôle et l'organisation de la profession.
 
-3. Comprendre le rôle du transport routier en France et dans la C.E.E.
+3. Comprendre le rôle du transport routier en France et dans l'Union européenne.
 
 4. Comprendre la réglementation sociale française et européenne relative au personnel de conduite.
 
@@ -90,4 +96,4 @@ VII. - Les stages pratiques
 
 Faire l'expérience de stages pratiques dans un ou des établissements d'enseignement de la conduite et de la sécurité routière spécialisés dans l'enseignement de la conduite des véhicules du groupe lourd.
 
-Ces stages doivent comporter des phases d'observation et de participation à la formation théorique et pratique des élèves conducteurs. Lorsque l'élève stagiaire assure la formation notamment pratique d'élèves conducteurs, il doit obligatoirement être accompagné d'un enseignant qualifié sous la responsabilité d'un tuteur. Ce tuteur désigné dans une convention de stage conclue entre l'organisme de formation et l'établissement d'enseignement de la conduite et de la sécurité routière.L'enseignant et le tuteur doivent être enseignants de la conduite et de la sécurité routière titulaires d'une autorisation d'enseigner en cours de validité valable pour l'enseignement dispensé.
+Ces stages doivent comporter des phases d'observation et de participation à la formation théorique et pratique des élèves conducteurs. Lorsque l'élève stagiaire assure la formation notamment pratique d'élèves conducteurs, il doit obligatoirement être accompagné d'un enseignant qualifié sous la responsabilité d'un tuteur. Ce tuteur est désigné dans une convention de stage conclue entre l'organisme de formation et l'établissement d'enseignement de la conduite et de la sécurité routière. L'enseignant et le tuteur doivent être enseignants de la conduite et de la sécurité routière titulaires d'une autorisation d'enseigner en cours de validité valable pour l'enseignement dispensé.
