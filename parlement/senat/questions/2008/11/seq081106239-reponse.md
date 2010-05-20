@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106239
+
+- Question : [SEQ081106239](seq081106239.md) — Précisions sur l'application de l'exonération au titre de l'article 787 C du code général des impôts
+
+## Réponse
+
+*Économie, JO du 2010-05-20, page 1288*
+
+L'article 787 C du code général des impôts (CGI) exonère, sous certaines conditions, de droits de mutation à titre gratuit, à concurrence de 75 % de leur valeur, la totalité ou une quote-part indivise de l'ensemble des biens meubles ou immeubles, corporels ou incorporels, affectés à l'exploitation d'une entreprise individuelle ayant une activité industrielle, commerciale, artisanale, agricole ou libérale transmis par décès ou entre vifs. Les biens affectés à l'exploitation s'entendent des biens nécessaires à l'exercice de la profession, qui comprennent les stocks. Toutefois, il est admis que l'intégralité des stocks ne soit pas transmise, dès lors que l'impossibilité d'une telle transmission résulte d'une réglementation applicable en la matière. Ainsi, dans la situation évoquée des récoltants personnes physiques installés dans la Champagne viticole délimitée, la conservation de la « réserve individuelle » par le donateur ne fait pas obstacle à l'application de l'exonération partielle précitée, dès lors que l'arrêté du 25 juillet 2007 relatif aux modalités de fonctionnement de la réserve de vins revendiqués en appellation d'origine contrôlée Champagne n'en permet la transmission qu'au seul cas où l'exploitation est reprise par le conjoint de l'exploitant. Par suite, dans l'exemple évoqué par l'auteur de la question, la transmission d'une exploitation individuelle agricole par un père à sa fille est donc susceptible de bénéficier du régime de faveur prévu à l'article 787 C du CGI, toutes conditions d'application dudit régime étant par ailleurs remplies.
