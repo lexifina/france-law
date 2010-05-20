@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609015
+
+- Question : [SEQ090609015](seq090609015.md) — Organisation des bureaux de vote à l'occasion d'une élection municipale
+
+## Réponse
+
+*Intérieur, JO du 2010-05-20, page 1290*
+
+Chaque bureau de vote est composé d'un président, d'au moins deux assesseurs désignés par chaque candidat ou chaque liste en présence parmi les électeurs du département et d'un secrétaire choisi par eux parmi les électeurs de la commune (art. R. 42 et R. 44 du code électoral). La présidence des bureaux de vote est assurée par les maires, adjoints ou conseillers municipaux dans l'ordre du tableau ou, à défaut, par des électeurs de la commune désignés par le maire (art. R. 43). Dès lors qu'il s'agit d'une fonction qui leur est dévolue par les textes, les élus municipaux ne peuvent refuser de l'exercer, sauf excuse valable (CE, 21 octobre 1992, Alexandre). En cas de non-respect de cette obligation, les élus concernés peuvent être déclarés démissionnaires par le tribunal administratif conformément aux dispositions de l'article L. 2121-5 du code général des collectivités territoriales. En cas d'absence, le président peut se faire remplacer par un suppléant désigné par lui parmi les conseillers municipaux ou les électeurs de la commune ou, à défaut, par le plus âgé des assesseurs (art. R. 43 du code électoral). Si aucune disposition du code électoral n'interdit la désignation d'un candidat comme suppléant du président, celui-ci doit néanmoins remplir la condition d'électeur de la commune pour occuper cette fonction, même temporairement. À défaut, la composition du bureau de vote est considérée comme irrégulière. Cette irrégularité peut entraîner l'annulation des opérations électorales si elle a porté atteinte à la liberté et à la sincérité du scrutin (CE, 20 décembre 1972, Élections municipales du Moule).
