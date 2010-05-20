@@ -694,7 +694,9 @@ Bouton-pression et leurs parties ; boutons ; fermetures à glissière : boutons 
 
 |
 
-C. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE, DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA TABLE
+C. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE,
+
+DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA TABLE
 
 16.29
 
@@ -1234,7 +1236,9 @@ Formes pour boutons et autres parties de boutons ; ébauches de boutons ; partie
 
 |
 
-E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE, DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
+E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE,
+
+DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
 
 E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques :
 
@@ -1394,7 +1398,7 @@ Parties de chaudières pour le chauffage central, pour les parties des chaudièr
 
 |
 
-Autres réservoirs, cuves et récipients métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport y compris le montage in situ des réservoirs métalliques autoproduits, mentionné dans la sous-catégorie 33. 20. 12, à l'exclusion des produits mentionnés au paragraphe E-IV.
+Autres réservoirs, citernes et conteneurs métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport y compris le montage in situ des réservoirs métalliques autoproduits, mentionné dans la sous-catégorie 33. 20. 12, à l'exclusion des produits mentionnés au paragraphe E-IV.
 
 |
 
@@ -1402,7 +1406,7 @@ Autres réservoirs, cuves et récipients métalliques, y compris les cuves et ci
 
 |
 
-Générateurs de vapeur, à l'exclusion des chaudières pour chauffage central à eau chaude, ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.
+Générateurs de vapeur, à l'exclusion des chaudières pour chauffage central, ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.
 
 |
 
@@ -1842,7 +1846,7 @@ Parties de matériel de distribution et de commande électrique, pour armoires d
 
 |
 
-Réfrigérateurs et congélateurs domestiques ; à l'exclusion des réfrigérateurs à absorption mentionnés au paragraphe E-V.
+Réfrigérateurs et congélateurs à usage ménager ; à l'exclusion des réfrigérateurs à absorption mentionnés au paragraphe E-V.
 
 |
 
@@ -2002,7 +2006,7 @@ Machines et équipements de bureau (à l'exclusion des ordinateurs et équipemen
 
 |
 
-Outillage manuel électrique, y compris les parties et, notamment, les machines-outils portatives pneumatiques ou à moteur thermique.
+Outillage portatif à moteur incorporé, y compris les parties et, notamment, les machines-outils portatives pneumatiques ou à moteur thermique.
 
 |
 
@@ -2436,7 +2440,7 @@ Seringues, aiguilles, cathéters, canules et articles similaires ; instruments e
 
 |
 
-32.50.23
+32.50.21
 
 |
 
@@ -2662,7 +2666,7 @@ Palplanches en acier et profilés ouverts obtenus par soudage, pour les profilé
 
 |
 
-Structures et éléments de structures métalliques, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, le transport, ainsi que le montage et la réparation mentionnés respectivement dans les sous-catégories 43.99.50 et 33.11.11 :
+Structures métalliques et parties de structures, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, le transport, ainsi que le montage et la réparation mentionnés respectivement dans les sous-catégories 43.99.50 et 33.11.11 :
 
 |
 
@@ -2714,6 +2718,8 @@ Structures et éléments de structures métalliques, pour les ossatures, y compr
 
 |
 
+- des escaliers, verrières, auvents et abris divers ; |
+
 ainsi que :
 
 |
@@ -2735,14 +2741,6 @@ ainsi que :
 |
 
 - des cabines téléphoniques.
-
-|
-
-25.12
-
-|
-
-Menuiseries métalliques, pour les ossatures des escaliers, verrières, auvents et abris divers.
 
 |
 
@@ -2900,7 +2898,7 @@ Instruments de contrôle d'autres grandeurs physiques, pour les enceintes d'essa
 
 |
 
-Réfrigérateurs et congélateurs domestiques, pour les réfrigérateurs domestiques à absorption.
+Réfrigérateurs et congélateurs à usage ménager, pour les réfrigérateurs à usage ménager à absorption.
 
 |
 
@@ -2908,7 +2906,7 @@ Réfrigérateurs et congélateurs domestiques, pour les réfrigérateurs domesti
 
 |
 
-Hottes aspirantes et ventilateurs domestiques, pour les ventilateurs domestiques et plus généralement tous les appareils, comportant ou non des organes mobiles ayant pour objet de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de construction, à l'exclusion :
+Hottes aspirantes et ventilateurs à usage ménager, pour les ventilateurs à usage ménager et plus généralement tous les appareils, comportant ou non des organes mobiles ayant pour objet de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de construction, à l'exclusion :
 
 |
 
