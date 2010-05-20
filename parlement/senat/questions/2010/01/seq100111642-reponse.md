@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111642
+
+- Question : [SEQ100111642](seq100111642.md) — Respect de la volonté des défunts en matière de don d'organes
+
+## Réponse
+
+*Santé, JO du 2010-05-20, page 1294*
+
+En matière de don d'organes et de tissus après le décès, la France applique le principe du consentement présumé. La loi impose à l'équipe médicale, après consultation du registre national des refus géré par l'agence de la biomédecine, de vérifier auprès de ses proches l'absence d'opposition au don d'organes du défunt. Le principe du consentement présumé, retenu en France, apparaît équilibré respectant la volonté des donneurs potentiels et la possibilité de prélever sans difficulté inutile. L'exemple d'autres pays européens qui appliquent une réglementation de consentement express montre que peu de personnes font la démarche d'inscrire leur volonté sur un support écrit et que les taux de prélèvement par millions d'habitants y sont notoirement plus faibles. Le régime du consentement présumé autorise le prélèvement des organes de personnes qui ne se sont pas exprimées, après recueil de la non opposition du défunt auprès de ses proches. Inscrire sa volonté en faveur du don d'organes sur un registre informatisé serait contraire à ce principe et donc à la loi. En outre, les différents rapports préliminaires au réexamen de la loi de bioéthique de 2004 ont tous été dans le sens du maintien du régime actuel de consentement présumé. Concernant le respect de la volonté du défunt par les proches, l'enquête menée en 2006 par l'agence de la biomédecine indique que 97 % de la population respecterait la décision du défunt si celui-ci lui en avait fait part de son vivant. Les campagnes d'information menées par l'agence de la biomédecine ont pour objectif de favoriser et d'encourager chaque individu à transmettre son choix à sa famille pour que leur volonté soit respectée.
