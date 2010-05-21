@@ -160,6 +160,8 @@ Uniquement pour une dose unitaire de 0,1
 
 |
 
+1000 mg
+
 |
 
 Acexamique, acide ou acide N-acétyl amino-6 hexanoïque et ses sels
@@ -1920,6 +1922,8 @@ Voie orale
 
 |
 
+2
+
 |
 
 Chlorhydrate de lévocabastine
@@ -2406,13 +2410,15 @@ En application sur la peau
 
 |
 
+4
+
+|
+
+-
+
+|
+
 1
-
-|
-
-|
-
-60
 
 |
 
@@ -3632,6 +3638,22 @@ Comprimés
 
 |
 
+Maléate de trimébutine |
+
+Voie orale |
+
+-
+
+|
+
+0,10
+
+|
+
+2
+
+|
+
 Mercure, ses composés et leurs préparations :
 
 |
@@ -4327,6 +4349,22 @@ Toutes formes
 |
 
 0,50
+
+|
+
+Oméprazole |
+
+Voie orale |
+
+-
+
+|
+
+0,02
+
+|
+
+0,28
 
 |
 
