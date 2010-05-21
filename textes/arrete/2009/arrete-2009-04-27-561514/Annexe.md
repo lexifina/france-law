@@ -1,6 +1,6 @@
 # Article Annexe
 
-NOMBRE DE VÉHICULES ADMIS À PARTICIPER AUX ÉPREUVES SUR LE CIRCUIT DE PAU-ARNOS
+NOMBRE MAXIMUM DE VÉHICULES ADMIS À CIRCULER SIMULTANÉMENT SUR LE CIRCUIT DE VITESSE DE PAU-ARNOS (PYRÉNÉES-ATLANTIQUES)
 
 Piste de 3,030 kilomètres
 
@@ -9,8 +9,6 @@ TYPE DE VÉHICULES
 |
 
 NOMBRE AUTORISÉ
-
-|
 
 |
 
@@ -25,6 +23,10 @@ Aux essais
 Voitures tourisme
 
 N-A-B-GT-FC-F 2000
+
+|
+
+|
 
 |
 
@@ -94,6 +96,10 @@ jusqu'à 2 000 cc
 
 |
 
+|
+
+|
+
 Vitesse
 
 |
@@ -155,6 +161,10 @@ Endurance (+ de 12 heures)
 |
 
 Sport biplaces plus de 2 000 cc
+
+|
+
+|
 
 |
 
@@ -222,6 +232,10 @@ Monoplaces plus de 2 000 cc
 
 |
 
+|
+
+|
+
 Vitesse
 
 |
@@ -234,7 +248,79 @@ Vitesse
 
 |
 
+Voiture de longueur inférieure à 3, 70 mètres et de puissance inférieure à 135 kw (180 ch)
+
+|
+
+|
+
+|
+
+Vitesse
+
+|
+
+60
+
+(départ lancé obligatoire)
+
+|
+
+66
+
+|
+
+Kart de puissance inférieure
+
+à 45 kw (60 cv)
+
+|
+
+|
+
+|
+
+Vitesse
+
+|
+
+60
+
+|
+
+66
+
+|
+
+Kart de puissance supérieure
+
+à 45 kw (60 cv) à 45 kw (60 cv)
+
+|
+
+|
+
+|
+
+Vitesse
+
+|
+
+60
+
+(départ lancé obligatoire)
+
+|
+
+66
+
+|
+
 Motos
+
+|
+
+|
 
 |
 
@@ -284,33 +370,31 @@ NOMBRE AUTORISÉ
 
 |
 
-|
-
 En course,
 
 départ arrêté
 
-(valeurs départ
-
-lancé)
+(valeurs départ lancé)
 
 |
 
-Aux essais,
-
-départ arrêté
-
-(valeurs départ
-
-lancé)
+Aux essais
 
 |
 
 Voitures tourisme et GT
 
-Voitures sport biplaces
+|
 
-(avant le 1er janvier 1966)
+|
+
+|
+
+Voitures sport biplaces avant le 1er janvier 1966
+
+|
+
+|
 
 |
 
@@ -322,7 +406,7 @@ Vitesse
 
 |
 
-48 (48)
+48
 
 |
 
@@ -334,7 +418,7 @@ Endurance (1 à 6 heures)
 
 |
 
-60 (60)
+60
 
 |
 
@@ -346,23 +430,31 @@ Endurance (+ de 6 heures)
 
 |
 
-68 (68)
+68
 
 |
 
-Voitures sport biplaces
+Voitures sport biplaces à partir du 1er janvier 1966
 
-(à partir du 1er janvier 1966)
+|
 
-Voitures monoplaces
+|
 
-(jusqu'à 1965)
+|
 
-Voitures monoplaces moins de 1 600 cm³
+Voitures monoplaces jusqu'à 1965
 
-(du 1er janvier 1966 au 31 décembre 1981)
+|
 
-et formule 3 toutes périodes
+|
+
+|
+
+Voitures monoplaces moins de 1 600 cm³ du 1er janvier 1966 au 31 décembre 1981 et Formule 3 toutes périodes
+
+|
+
+|
 
 |
 
@@ -374,7 +466,7 @@ Vitesse
 
 |
 
-39 (39)
+39
 
 |
 
@@ -386,7 +478,7 @@ Endurance (1 à 6 heures)
 
 |
 
-48 (48)
+48
 
 |
 
@@ -398,13 +490,11 @@ Endurance (+ de 6 heures)
 
 |
 
-53 (53)
+53
 
 |
 
-Voitures monoplaces plus de 1 600 cm³
-
-(du 1er janvier 1966 au 31 décembre 1981)
+Voitures monoplaces plus de 1 600 cm³ du 1er janvier 1966 au 31 décembre 1981
 
 |
 
@@ -412,6 +502,6 @@ Voitures monoplaces plus de 1 600 cm³
 
 |
 
-29 (29)
+29
 
 |
