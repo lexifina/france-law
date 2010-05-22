@@ -30,11 +30,21 @@ AFRIQUE DU SUD
 
 |
 
-RAND COMMERCIAL
+EURO
 
 |
 
-815
+138
+
+|
+
+AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet |
+
+EURO
+
+|
+
+185
 
 |
 
@@ -342,11 +352,11 @@ BOTSWANA
 
 |
 
-PULA
+EURO
 
 |
 
-557
+119
 
 |
 
@@ -498,11 +508,21 @@ CHINE
 
 |
 
-DOLLAR US
+YUAN CHINOIS (CNY)
 
 |
 
-191
+1,700
+
+|
+
+Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010 |
+
+YUAN CHINOIS (CNY)
+
+|
+
+2,200
 
 |
 
@@ -790,7 +810,7 @@ DOLLAR US
 
 |
 
-245
+320
 
 |
 
@@ -810,7 +830,7 @@ DOLLAR US
 
 |
 
-245
+320
 
 |
 
@@ -822,7 +842,7 @@ DOLLAR US
 
 |
 
-300
+450
 
 |
 
@@ -1038,7 +1058,7 @@ DOLLAR DE HONG KONG
 
 |
 
-1 800
+2 200
 
 |
 
@@ -1262,11 +1282,11 @@ LESOTHO
 
 |
 
-RAND COMMERCIAL
+EURO
 
 |
 
-788
+120
 
 |
 
@@ -1362,7 +1382,7 @@ DOLLAR DE HONG KONG
 
 |
 
-1 187
+2 200
 
 |
 
@@ -1646,11 +1666,11 @@ NIGERIA
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-316
+273
 
 |
 
@@ -2042,11 +2062,11 @@ SLOVAQUIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-122
+155
 
 |
 
@@ -2150,11 +2170,11 @@ SYRIE
 
 |
 
-LIVRE SYRIENNE
+EURO
 
 |
 
-6 270
+154
 
 |
 
