@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010569
+
+- Question : [SEQ091010569](seq091010569.md) — Délai d'attente de plusieurs mois pour l'établissement d'un certificat de nationalité française requis pour la délivrance d'un passeport
+
+## Réponse
+
+*Justice, JO du 2010-05-27, page 1343*
+
+Le pôle nationalité a été mis en place par le décret n° 2009-561 du 19 mai 2009 et a ouvert ses portes dès le 11 juin 2009. La compétence en matière de délivrance des certificats de nationalité française ainsi que celle en matière de déclarations de nationalité française était auparavant dévolue à quinze tribunaux d'instance parisiens. Ainsi la création du pôle doit permettre un accueil plus adapté des justiciables et favoriser un traitement mutualisé et de meilleure qualité de dossiers souvent complexes. Sa réalisation concrète, ainsi que l'a souligné le président du tribunal de grande instance de Paris, M. Degrandi, a nécessité la mise en oeuvre de moyens juridiques, matériels et humains importants. S'agissant des moyens humains, le pôle nationalité étant rattaché au tribunal d'instance du 1er arrondissement, le vice-président de ce tribunal en assure la direction et l'administration. L'effectif affecté au pôle est actuellement de douze fonctionnaires dont un greffier en chef, huit greffiers et trois adjoints administratifs. Par ailleurs, la cour d'appel de Paris dispose d'un poste de greffier en chef placé, de dix-neuf postes de greffiers, placés, et de trois postes d'adjoints administratifs placés. Ces personnels peuvent être mis à disposition dans les juridictions par les chefs de cours s'ils le jugent utile. Des listes de pièces à produire sont fournies sur le site internet « vosdroits.service-public.fr » mais elles ne peuvent être qu'indicatives dans la mesure où la situation des requérants est différente et nécessite parfois une analyse approfondie eu égard à leur complexité.
