@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010340
+
+- Question : [SEQ091010340](seq091010340.md) — Procédure de déclassement d'une voie communale transférée à une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2010-05-27, page 1340*
+
+Les voies communales relèvent du domaine public de la commune à laquelle elles appartiennent et sont, à ce titre, susceptibles de faire l'objet d'une procédure de déclassement visant à les sortir du domaine public pour les faire entrer dans le domaine privé communal. Toutefois, il arrive qu'une voie communale soit mise à disposition d'une communauté de communes lorsque la compétence voirie lui est transférée et que la voie est reconnue d'intérêt communautaire, dans les conditions fixées par l'article L. 5214-16 du code général des collectivités territoriales. Dans ce cas, en application des dispositions de l'article L. 1321-2 du code général des collectivités territoriales relatif à la mise en oeuvre des transferts de compétences entre communes et établissements publics de coopération intercommunale (EPCI), la communauté de communes exerce sur la voie communale, même si celle-ci reste juridiquement propriété de la commune, l'ensemble des droits et obligations du propriétaire, à l'exception bien entendu du droit d'aliéner. La commune demeure seule compétente pour déclasser et éventuellement céder la voie communale, mais cette procédure ne peut pas être engagée tant que la voie reste d'intérêt communautaire en ce qu'elle est alors toujours nécessaire à l'exercice des compétences transférées à la communauté. Lorsque la voie communale n'est plus d'intérêt communautaire, elle revient à la commune, qui retrouve ainsi la plénitude de ses droits et obligations sur son bien. Le conseil municipal peut alors prononcer par délibération le déclassement de la voie, qui ne sera de ce fait plus une voie communale.
