@@ -846,7 +846,7 @@ Chartres
 
 |
 
-Dreux.
+Dreux, Nogent-le-Rotrou.
 
 |
 
