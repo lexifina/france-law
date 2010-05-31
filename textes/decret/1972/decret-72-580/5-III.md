@@ -2,16 +2,14 @@
 
 Peuvent se présenter au concours externe les candidats justifiant de la détention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
 
-Peuvent se présenter au concours interne les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent et les militaires justifiant, les uns et les autres, de l'un des titres ou diplômes requis des candidats au concours externe et de cinq années de services publics.
+Peuvent se présenter au concours interne les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, les militaires ainsi que les personnels qui ont accompli des services dans une administration, un organisme ou un établissement dans les conditions fixées au troisième alinéa du 2° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et qui justifient d'avoir accompli ces services en qualité de fonctionnaire ou dans une position qui y est assimilée en application des dispositions de l'article 10 du décret n° 2010-311 du 22 mars 2010 relatif aux modalités de recrutements et d'accueil des ressortissants des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dans un corps, un cadre d'emplois ou un emploi de la fonction publique française. Les uns et les autres doivent justifier de l'un des titres ou diplômes requis des candidats au concours externe et de cinq années de services publics.
 
-L'ensemble des conditions prévues au présent article s'apprécient à la date de clôture des registres d'inscription aux concours fixée par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
+L'ensemble de ces conditions s'apprécient à la date de publication des résultats d'admissibilité aux concours.
 
-NOTA :
+Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves du concours externe doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
-Décret 2009-914 du 28 juillet 2009 art. 6 :
+Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours interne doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
-Par dérogation, peuvent se présenter au concours externe organisé au titre de la session 2010 et, en cas de réussite au concours, être nommés fonctionnaires stagiaires à la rentrée 2010 les candidats ayant validé un cycle d'études postsecondaires d'au moins quatre années.
+Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
 
-Décret 2009-914 du 28 juillet 2009 art. 7 :
-
-A titre transitoire et jusqu'à la session 2015 incluse, les conditions de diplôme exigées des candidats mentionnés au deuxième alinéa de l'article 5-III du décret du 4 juillet 1972 susvisé et recrutés antérieurement à la date d'entrée en vigueur du présent décret restent celles applicables avant cette date.
+La liste des titres, diplômes, certificats, attestations ou qualifications équivalentes attestant des compétences précitées est fixée par arrêté du ministre chargé de l'éducation.
