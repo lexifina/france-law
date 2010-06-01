@@ -1,0 +1,9 @@
+# Article 1
+
+Sont concernés par le présent accord :
+
+― les commerces de librairie qui relèvent principalement du code 47.61Z ;
+
+― les commerces de livre d'occasion qui relèvent principalement du code 47.79Z à l'exclusion des commerces dont l'activité principale consiste en la vente de livres anciens de valeurs.
+
+En cas de conflit de conventions collectives de branche applicables, le critère de détermination de la convention collective applicable est celui du chiffre d'affaires réalisé par l'activité de vente de livres : dès lors que la vente de livres procure à une entreprise la plus grande partie de son chiffre d'affaires annuel, le présent accord doit être appliqué.
