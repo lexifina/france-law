@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413223
+
+- Question : [SEQ100413223](seq100413223.md) — Culture de la pomme de terre transgénique Amflora
+
+## Réponse
+
+*Alimentation, JO du 2010-06-03, page 1389*
+
+La Commission européenne a adopté le 2 mars 2010 une décision d'autorisation de la culture de la pomme de terre génétiquement modifiée Amflora. La pomme de terre Amflora, développée par la société BASF, produit un amidon enrichi en amylopectine, qui présente un intérêt pour certains usages industriels, tels que la papeterie. Elle n'est pas autorisée pour l'alimentation humaine. La décision de la Commission européenne est intervenue dans le cadre de la procédure normale prévue par la réglementation, à la suite de l'absence d'accord politique entre les États membres sur ce dossier lors de la session du 16 juillet 2007 du Conseil agriculture et de plusieurs consultations de l'Autorité européenne de sécurité des aliments (AESA) par la Commission. Compte tenu de la décision de la Commission, le gouvernement français a décidé de saisir le Haut Conseil des biotechnologies (HCB) notamment sur la présence, dans cette pomme de terre, d'un gène marqueur de résistance à un antibiotique, ainsi que sur les possibilités de transfert de gènes vers l'environnement. Il est également demandé au HCB de proposer les conditions techniques qui pourraient être mises en oeuvre dans le cadre de la coexistence avec les cultures de pomme de terre conventionnelle. La France attendra donc l'avis du HCB, qui complètera l'avis de l'Agence française de sécurité sanitaire des aliments (AFSSA) du 16 septembre 2005, pour arrêter sa position. D'une façon plus générale, la France souhaite le renforcement de l'expertise scientifique communautaire, en application des conclusions adoptées à l'unanimité par les États membres lors du Conseil européen des ministres de l'environnement du 4 décembre 2008.
