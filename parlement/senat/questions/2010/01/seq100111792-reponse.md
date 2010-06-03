@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111792
+
+- Question : [SEQ100111792](seq100111792.md) — Redevance pérenne sur les lignes à grande vitesse
+
+## Réponse
+
+*Transports, JO du 2010-06-03, page 1402*
+
+Il convient en premier lieu de rappeler que ces projets de LGV représentent des opportunités incontestables pour les territoires traversés, y compris lorsque ceux-ci sont éloignés des agglomérations dans lesquelles sont implantées les gares bénéficiant directement des nouvelles lignes. En effet, ces communes bénéficient des retombées économiques liées aux emplois créés par les chantiers durant la période de construction. Le Gouvernement a toutefois souhaité accompagner encore plus les territoires concernés. Une circulaire établissant le principe d'un fonds de solidarité territoriale, d'un montant égal à 0,4 % du coût prévisionnel de chaque projet, a ainsi été signée le 12 avril 2010. Ce dispositif permettra d'accompagner les territoires traversés en finançant des travaux de limitation des impacts environnementaux (au-delà des obligations d'insertion environnementale portées par le maître d'ouvrage de la LGV) ou des projets de développement économique des territoires, préalablement à la mise en service de la nouvelle infrastructure. Cette circulaire définit le cadre nécessaire à la mise en oeuvre du fonds. Cette mise en oeuvre sera réalisée sous l'égide d'un comité de pilotage, chargé en particulier de sélectionner les projets subventionnables, et au sein duquel ne peuvent donc siéger les élus des communes susceptibles de solliciter l'intervention du fonds. L'application de cette circulaire relève en toute hypothèse d'un échange large avec les collectivités, à l'initiative des préfets coordonnateurs des projets de LGV et des préfets de département concernés. Le champ des actions éligibles reste à ce titre ouvert à dérogation par la circulaire, les répartitions territoriales des crédits afférents restant pour leur part indicatives.
