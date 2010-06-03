@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106126
+
+- Question : [SEQ081106126](seq081106126.md) — Régime complémentaire avantage social vieillesse des médecins
+
+## Réponse
+
+*Santé, JO du 2010-06-03, page 1397*
+
+Le Gouvernement est attaché à la préservation de l'avantage social vieillesse (ASV) des professionnels libéraux et notamment des médecins. Additionnels à la retraite de base et aux régimes complémentaires, ces régimes ont pour particularité d'être financés pour en grande partie par les organismes d'assurance maladie, en contrepartie du conventionnement des professionnels et de la pratique d'honoraires modérés. Toutefois, les départs massifs à la retraite des professionnels de santé concernés engendrent une augmentation considérable du nombre de points à servir et placent ces régimes dans une situation financière très critique. C'est dans ce contexte que l'article 77 de la loi n° 2005-1577 du 19 décembre 2005 de financement de la sécurité sociale pour 2006 a posé les bases d'une réforme de l'ensemble des paramètres des régimes ASV, pour faire face au risque d'épuisement des réserves de ces régimes dans quelques années. Les régimes d'ASV propres aux directeurs de laboratoire d'analyse médicale, aux chirurgiens-dentistes et aux professions paramédicales ont d'ores et déjà été réformés. Les principes de la réforme reposent sur l'équité intergénérationnelle et le partage équilibré des efforts entre les professionnels en exercice, ceux ayant cessé leur activité ou leurs ayants droit et l'assurance maladie. Il est tenu compte à la fois des conditions de cotisations et des niveaux de revenus des différentes catégories de professionnels ou anciens professionnels. C'est dans le cadre d'une concertation entre les syndicats représentatifs de la profession, l'État et l'assurance maladie que seront définis les paramètres d'évolution du régime de l'ASV des médecins, permettant d'en garantir la pérennité.
