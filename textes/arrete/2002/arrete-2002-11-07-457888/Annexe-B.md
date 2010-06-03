@@ -2,7 +2,7 @@
 
 FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
 
-1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal du renseignement intérieur ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur départemental du renseignement intérieur ; chef de la délégation régionale de discipline (IGPN)
+1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal du renseignement intérieur ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur régional du renseignement intérieur ; chef de la délégation régionale de discipline (IGPN)
 
 DÉSIGNATION DES EMPLOIS
 
@@ -232,7 +232,7 @@ Metz
 
 |
 
-Directeur zonal de la police aux frontières zone Sud-Est.
+Directeur zonal de la police aux frontières - Zone Sud-Est.
 
 |
 
@@ -248,7 +248,7 @@ Lyon
 
 |
 
-Directeur zonal de la police aux frontières zone Sud.
+Directeur zonal de la police aux frontières - Zone Sud.
 
 |
 
@@ -264,7 +264,7 @@ Marseille
 
 |
 
-Directeur zonal de la police aux frontières zone Nord.
+Directeur zonal de la police aux frontières - Zone Nord.
 
 |
 
@@ -280,7 +280,7 @@ Lille
 
 |
 
-Directeur zonal de la police aux frontières zone Est.
+Directeur zonal de la police aux frontières - Zone Est.
 
 |
 
@@ -296,7 +296,7 @@ Metz
 
 |
 
-Directeur zonal de la police aux frontières zone Sud-ouest.
+Directeur zonal de la police aux frontières - Zone Sud-Ouest.
 
 |
 
@@ -312,7 +312,7 @@ Bordeaux
 
 |
 
-Directeur zonal de la police aux frontières zone Ouest.
+Directeur zonal de la police aux frontières - Zone Ouest.
 
 |
 
@@ -356,7 +356,7 @@ Rennes
 
 |
 
-80
+100
 
 |
 
@@ -946,22 +946,6 @@ Directeur départemental de la sécurité publique et commissaire central.
 
 |
 
-Vannes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique et commissaire central.
-
-|
-
 Beauvais
 
 |
@@ -979,6 +963,22 @@ Directeur départemental de la sécurité publique et commissaire central.
 |
 
 Lyon
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur départemental de la sécurité publique et commissaire central - Lille DDSP.
+
+|
+
+Lille
 
 |
 
@@ -1282,22 +1282,6 @@ Directeur départemental de la sécurité publique et commissaire central.
 
 |
 
-Mâcon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique et commissaire central.
-
-|
-
 Amiens
 
 |
@@ -1339,22 +1323,6 @@ Limoges
 |
 
 80
-
-|
-
-Directeur départemental de la sécurité publique et commissaire central.
-
-|
-
-Auxerre
-
-|
-
-1
-
-|
-
-60
 
 |
 
@@ -1410,9 +1378,9 @@ Directeur départemental de la sécurité publique et commissaire central.
 
 |
 
-Saint-Denis-
+Saint-Denis
 
-de-la-Réunion
+de La Réunion
 
 |
 
@@ -1536,6 +1504,54 @@ Perpignan
 
 |
 
+Directeur départemental de la sécurité publique et commissaire central.
+
+|
+
+Pau
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur départemental de la sécurité publique et commissaire central.
+
+|
+
+Caen
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur départemental de la sécurité publique et commissaire central.
+
+|
+
+Annecy
+
+|
+
+1
+
+|
+
+60
+
+|
+
 Directeur départemental de la sécurité publique, chef de district et commissaire central.
 
 |
@@ -1588,39 +1604,7 @@ Directeur départemental de la sécurité publique, chef de district et commissa
 
 |
 
-Pau
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central.
-
-|
-
 Toulon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central.
-
-|
-
-Caen
 
 |
 
@@ -1645,22 +1629,6 @@ Saint-Etienne
 |
 
 80
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central.
-
-|
-
-Saint-Lô
-
-|
-
-1
-
-|
-
-60
 
 |
 
@@ -1696,11 +1664,11 @@ Laon
 
 |
 
-Directeur départemental de la sécurité publique.
+Directeur départemental de la sécurité publique et chef de circonscription.
 
 |
 
-Lille
+Vannes
 
 |
 
@@ -1708,7 +1676,71 @@ Lille
 
 |
 
-110
+60
+
+|
+
+Directeur départemental de la sécurité publique et chef de circonscription.
+
+|
+
+Macon
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental de la sécurité publique et chef de circonscription.
+
+|
+
+Auxerre
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental de la sécurité publique, chef de district et chef de circonscription.
+
+|
+
+Saint-Lô
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental adjoint de la sécurité publique et chef de circonscription.
+
+|
+
+Dreux
+
+|
+
+1
+
+|
+
+60
 
 |
 
@@ -1773,54 +1805,6 @@ Evry
 |
 
 100
-
-|
-
-Directeur départemental de la sécurité publique.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Directeur départemental de la sécurité publique.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Directeur départemental de la sécurité publique.
-
-|
-
-Créteil
-
-|
-
-1
-
-|
-
-110
 
 |
 
@@ -1893,54 +1877,6 @@ Directeur départemental adjoint de la sécurité publique.
 |
 
 Evry
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique.
-
-|
-
-Créteil
 
 |
 
@@ -1984,7 +1920,7 @@ Brest
 
 |
 
-Directeur départemental adjoint de la sécurité publique et commissaire central.
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint - Lille DDSP.
 
 |
 
@@ -2212,9 +2148,9 @@ Directeur départemental adjoint de la sécurité publique et commissaire centra
 
 |
 
-Saint-Denis-
+Saint-Denis
 
-de-la-Réunion
+de La Réunion
 
 |
 
@@ -2231,6 +2167,22 @@ Directeur départemental adjoint de la sécurité publique et commissaire centra
 |
 
 Rouen
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental adjoint de la sécurité publique et commissaire central.
+
+|
+
+Cherbourg
 
 |
 
@@ -2294,22 +2246,6 @@ Directeur départemental du renseignement intérieur.
 
 |
 
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental du renseignement intérieur.
-
-|
-
 Bastia
 
 |
@@ -2327,6 +2263,22 @@ Directeur départemental du renseignement intérieur.
 |
 
 Bayonne
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Directeur départemental du renseignement intérieur.
+
+|
+
+Bobigny
 
 |
 
@@ -2370,9 +2322,7 @@ Cayenne
 
 |
 
-3° Chef de circonscription de sécurité publique ;
-
-chef de district commissaire central ; commissaire central
+3° Chef de circonscription de sécurité publique ; chef de district commissaire central ; commissaire central
 
 DÉSIGNATION DES EMPLOIS
 
@@ -2430,39 +2380,7 @@ Chef de circonscription.
 
 |
 
-Louviers-Val de Reuil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de circonscription.
-
-|
-
-Dreux
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de circonscription.
-
-|
-
-Dammarie-les-lys
+Louviers - Val de Reuil
 
 |
 
@@ -2592,39 +2510,7 @@ Chef de circonscription.
 
 |
 
-Epinay-sur-Seine
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de circonscription.
-
-|
-
-La Courneuve
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de circonscription.
-
-|
-
-Garges-lès-Gonesse
+Garges-les-Gonesse
 
 |
 
@@ -2721,6 +2607,22 @@ Chef de circonscription.
 |
 
 Annemasse
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Chef de circonscription.
+
+|
+
+Montbéliard
 
 |
 
@@ -2864,9 +2766,7 @@ Chef de district et commissaire central.
 
 |
 
-Saint-Germain-
-
-en-Laye
+Saint-Germain-en-Laye
 
 |
 
@@ -2915,166 +2815,6 @@ Chef de district et commissaire central.
 |
 
 Juvisy-sur-Orge
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Asnières
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Antony
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Montreuil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Saint-Denis
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Aulnay-sous-Bois
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Vitry-sur-Seine
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-Créteil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
-L'Hay-les-Roses
 
 |
 
@@ -3186,22 +2926,6 @@ Chef de district et commissaire central.
 
 |
 
-Boulogne-Billancourt
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central.
-
-|
-
 Torcy
 
 |
@@ -3266,38 +2990,6 @@ Commissaire central.
 
 |
 
-Montbéliard
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central.
-
-|
-
-Cherbourg
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central.
-
-|
-
 Creil
 
 |
@@ -3343,22 +3035,6 @@ Calais
 |
 
 Commissaire central.
-
-|
-
-Le Kremlin-Bicêtre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de circonscription.
 
 |
 

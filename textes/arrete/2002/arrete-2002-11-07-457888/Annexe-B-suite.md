@@ -1,8 +1,8 @@
 # Article Annexe B (suite)
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
+FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
 
-4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major ; chef du service départemental de l'information générale (SDIG)
+4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service départemental de l'information générale (SDIG) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major
 
 DÉSIGNATION DES EMPLOIS
 
@@ -76,9 +76,9 @@ Chef du service de sécurité de proximité.
 
 |
 
-Saint-Denis-
+Saint-Denis
 
-de-la-Réunion
+de La Réunion
 
 |
 
@@ -106,7 +106,7 @@ Metz
 
 |
 
-Chef du service départemental de l'information générale.
+Chef du service départemental de l'information générale - Lille DDSP.
 
 |
 
@@ -302,38 +302,6 @@ Chef du service départemental de l'information générale.
 
 |
 
-Bobigny
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef du service départemental de l'information générale.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef du service départemental de l'information générale.
-
-|
-
 Evry
 
 |
@@ -382,22 +350,6 @@ Chef du service départemental de l'information générale.
 
 |
 
-Créteil
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef du service départemental de l'information générale.
-
-|
-
 Melun
 
 |
@@ -407,54 +359,6 @@ Melun
 |
 
 50
-
-|
-
-Chef du service de l'ordre public.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du service de l'ordre public.
-
-|
-
-Créteil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du service de l'ordre public.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-60
 
 |
 
@@ -538,7 +442,7 @@ Marseille
 
 |
 
-Chef de la sûreté départementale.
+Chef de la sûreté départementale - Lille DDSP.
 
 |
 
@@ -606,54 +510,6 @@ Chef de la sûreté départementale.
 
 |
 
-Nanterre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale.
-
-|
-
-Créteil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale.
-
-|
-
 Cergy-Pontoise
 
 |
@@ -670,9 +526,9 @@ Chef de la sûreté départementale.
 
 |
 
-Saint-Denis-
+Saint-Denis
 
-de-la-Réunion
+de La Réunion
 
 |
 
@@ -892,7 +748,7 @@ Pointe-à-Pitre
 
 |
 
-Chef de la sûreté urbaine.
+Chef de la sûreté urbaine - Lille agglomération.
 
 |
 
@@ -924,59 +780,11 @@ Le Havre
 
 |
 
-Chef d'état-major.
+Chef d'état-major - Lille DDSP.
 
 |
 
 Lille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major.
-
-|
-
-Nanterre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major.
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major.
-
-|
-
-Créteil
 
 |
 
@@ -1138,7 +946,7 @@ NOMBRE DE POINTS
 
 |
 
-Directeur de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget.
+Directeur de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget.
 
 |
 
@@ -1154,7 +962,7 @@ Roissy-en-France
 
 |
 
-Directeur adjoint de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget.
+Directeur adjoint de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget.
 
 |
 
@@ -1198,11 +1006,11 @@ Bastia
 
 |
 
-60
+50
 
 |
 
-6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'école nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
+6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
 
 DÉSIGNATION DES EMPLOIS
 
@@ -1240,13 +1048,11 @@ Clermont-Ferrand
 
 |
 
-Directeur de l'Ecole nationale supérieure de police (ENSP).
+Directeur de l'Ecole nationale supérieure de la police (ENSP).
 
 |
 
-Saint-Cyr-
-
-au-Mont-d'Or
+Saint-Cyr-au-Mont-d'Or
 
 |
 
@@ -1360,7 +1166,7 @@ Ajaccio
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense Est.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Est.
 
 |
 
@@ -1392,7 +1198,7 @@ Bordeaux
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud-Est.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud-Est.
 
 |
 
@@ -1408,7 +1214,7 @@ Lyon
 
 |
 
-Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud.
+Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud.
 
 |
 
