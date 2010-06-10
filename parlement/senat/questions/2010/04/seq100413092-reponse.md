@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413092
+
+- Question : [SEQ100413092](seq100413092.md) — Égal accès aux traitements du cancer et aux traitements innovants
+
+## Réponse
+
+*Santé, JO du 2010-06-10, page 1482*
+
+Le coût des médicaments et des dispositifs médicaux implantables utilisés dans le cadre de la prise en charge des patients par les établissements hospitaliers, publics ou privés, est normalement couvert par les tarifs des prestations hospitalières qui constituent des forfaits tout compris (charges de personnel, médicaments, énergie, etc.). Par exception à ce principe, certains médicaments et dispositifs médicaux implantables sont financés par des tarifs de prestations hospitalières à travers le mécanisme dit de la liste en sus, qui a été mise en place, depuis 2004, pour favoriser la diffusion et l'accessibilité des innovations pharmaceutiques, en évitant de faire peser leurs prix élevés sur les tarifs moyens facturés par séjour ou par séance. Cette liste en sus a vocation à accueillir temporairement les produits dans l'attente de leur inclusion dans le tarif du groupe homogène de séjour (GHS). Ainsi chaque année, il est procédé à de nouvelles entrées et en parallèle à des sorties. Ces sorties ne concernent que des molécules ou des dispositifs médicaux dont l'utilisation est désormais courante et dont les coûts d'achats ont considérablement baissé depuis leur inscription. Dans le cas présent, les 5 molécules en question sont toutes disponibles sous la forme générique depuis plusieurs années et ont perdu leur caractère innovant. Bien évidemment, ces médicaments continueront d'être pris en charge par l'assurance maladie à travers la réintégration de leur coût, évalué sur la base du prix d'achat constaté, dans les tarifs des prestations hospitalières, comme pour l'ensemble des autres médicaments. Leur prescription ne sera donc en rien entravée et leur accès pour les patients sera préservé.
