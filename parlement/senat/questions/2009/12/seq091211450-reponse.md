@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211450
+
+- Question : [SEQ091211450](seq091211450.md) — Biens vacants
+
+## Réponse
+
+*Justice, JO du 2010-06-10, page 1478*
+
+Les biens sans maître définis à l'article L. 1123-1 du code général de la propriété des personnes publiques sont distincts des biens dépendant d'une succession en déshérence dans leur définition, leur mode d'acquisition et la personne publique susceptible de les appréhender. Les premiers peuvent, si la commune le souhaite, être incorporés dans le domaine communal à l'issue d'une procédure décrite à l'article L. 1123-3 du code précité, ce qui permet ensuite d'agir utilement contre les nuisances et périls. Les seconds ne peuvent être appréhendés par la commune, mais peuvent l'être par l'État en application des dispositions de l'article 539 du code civil. Toutefois, lorsqu'un immeuble entrant dans une succession présente des risques de péril, le maire est compétent pour mettre en oeuvre la procédure des articles L. 511-1 et suivants du code de la construction et de l'habitation dont l'objet est de prescrire au propriétaire les mesures de réparation ou de démolition de l'immeuble menaçant ruine. À défaut de connaître l'adresse des propriétaires ou titulaires de droits réels sur les immeubles ou lorsque leur identification se révèle impossible, la notification de l'arrêté de péril est réputée être valablement effectuée, par affichage à la mairie de la commune où est situé l'immeuble ainsi que par affichage sur la façade de l'immeuble en application des dispositions de l'article L. 511-1-1 du code de la construction et de l'habitation modifié par l'ordonnance n° 2005-1566 du 15 décembre 2005 relative à la lutte contre l'habitat insalubre ou dangereux. Dans cette hypothèse, la commune se substitue au propriétaire défaillant et agit en ses lieux et place et à ses frais. Ainsi, la commune dispose-t-elle de moyens d'action, certes distincts, mais opérants dans les deux hypothèses.
