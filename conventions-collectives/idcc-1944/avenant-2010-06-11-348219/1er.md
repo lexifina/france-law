@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant est conclu pour une durée indéterminée. Chaque signataire peut en demander la révision, conformément aux dispositions du code du travail, ou peut le dénoncer dans les conditions et délais prévus au code du travail.
