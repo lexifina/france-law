@@ -1,12 +1,10 @@
 # Article Annexe B
 
-.
-
 |
 
-NOM
+NOM DU TRANSPORTEUR
 
-du transporteur aérien (1)
+aérien (1)
 
 |
 
@@ -28,11 +26,33 @@ des appareils interdits
 
 |
 
-TYPE D'APPAREIL
+TYPE APPAREIL
 
 |
 
 1
+
+|
+
+Air Koryo
+
+|
+
+Corée du Nord
+
+|
+
+|
+
+Tout aéronef, sauf ceux immatriculés P-632 et P-633
+
+|
+
+Tout aéronef sauf 2 aéronefs de type TU 204
+
+|
+
+2
 
 |
 
@@ -54,7 +74,7 @@ Tout aéronef sauf 2 aéronefs de type Falcon 50 et 1 aéronef de type Falcon 90
 
 |
 
-2
+3
 
 |
 
@@ -78,7 +98,7 @@ Tout aéronef sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aér
 
 |
 
-3
+4
 
 |
 
@@ -102,7 +122,7 @@ B747-269B
 
 |
 
-4
+5
 
 |
 
@@ -126,7 +146,7 @@ Tout aéronef, sauf 1 aéronef de type LET 410 UVP
 
 |
 
-5
+6
 
 |
 
@@ -150,7 +170,31 @@ Tout aéronef sauf 1 aéronef de type Boeing B767-200
 
 |
 
-6
+7
+
+|
+
+Iran Air (5)
+
+|
+
+République islamique d'Iran
+
+|
+
+IRA
+
+|
+
+Tout aéronef, sauf ceux immatriculés EP-IBA, EP-IBB, EP-IBC, EP-IBD, EP-IBG, EP-IBH, EP-IBI, EP-IBJ, EP-IBS, EP-IBT, EP-IBV, EP-IBZ, EP-ICE, EP-ICF, EP-IBK, EP-IBL, EP-IBP, EP-IBQ, EP-IAA, EP-IAB, EP-IBC, EP-IBD, EP-IAG, EP-IAH, EP-IAI, EP-IAM, EP-ICD, EP-AGA, EP-IEA, EP-IEB, EP-IED, EP-IEE, EP-IEF, EP-IEG
+
+|
+
+Tout aéronef sauf 14 aéronefs de type A300, 4 aéronefs de type A310, 9 aéronefs de type B747, 1 aéronef de type B737 et 6 aéronefs de type A320
+
+|
+
+8
 
 |
 
@@ -174,11 +218,11 @@ Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type H
 
 |
 
-7
+9
 
 |
 
-TAAG Angola Airlines (5)
+TAAG Angola Airlines
 
 |
 
@@ -190,7 +234,7 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
+Tout aéronef sauf ceux immatriculés D. 2-TED, D. 2-TEE, D. 2-TEF, D. 2-TBF, D. 2-TBG, D. 2-TBH, D. 2-TBJ
 
 |
 
@@ -198,7 +242,7 @@ Tout aéronef sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing
 
 |
 
-8
+10
 
 |
 
@@ -224,12 +268,12 @@ Tout aéronef sauf 1 aéronef de type MD-83
 
 (1) Les transporteurs aériens figurant à l'annexe B peuvent être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, pour autant que les normes de sécurité applicables soient respectées.
 
-(2) Afrijet est seulement autorisé à utiliser les aéronefs particuliers mentionnés pour ses activités actuelles dans la Communauté européenne.
+(2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(3) Air Astana est seulement autorisé à utiliser les aéronefs particuliers mentionnés pour ses activités actuelles dans la Communauté européenne.
+(3) Air Astana n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(4) Gabon Airlines est seulement autorisé à utiliser les aéronefs particuliers mentionnés pour ses activités actuelles dans la Communauté européenne.
+(4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) TAAG Angola Airlines n'est autorisé à exercer ses activités qu'au Portugal, en utilisant les aéronefs spécifiques, dans les conditions fixées aux considérants 58 et 59 du règlement (CE) n° 1144/2009 de la Commission du 26 novembre 2009.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées aux considérants 48 et 49 du règlement (CE) n° 273/2010 de la Commission du 30 mars 2010.
 
 |
