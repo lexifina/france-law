@@ -126,44 +126,6 @@ Sans objet
 
 |
 
-Structures des véhicules
-
-|
-
-Sièges goutte d'eau POMA
-
-|
-
-Mise en œuvre systématique des coquilles POMA
-
-Application de la procédure constructeur.
-
-|
-
-oui
-
-|
-
-oui
-
-|
-
-S.O.
-
-|
-
-S.O.
-
-|
-
-La mise en œuvre des coquilles se fait au cas par cas
-
-|
-
-Procédure constructeur
-
-|
-
 |
 
 Arceau MONTAZ
@@ -310,7 +272,7 @@ idem
 
 |
 
-Câbles des tireforts
+Câbles des treuils à mâchoires
 
 |
 
