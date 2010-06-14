@@ -138,7 +138,7 @@ Etablissements publics suivants :
 
 |
 
-Centre national de la cinématographie
+Centre national du cinéma et de l'image animée
 
 |
 
