@@ -16,10 +16,6 @@ désignés par catégorie
 
 |
 
-|
-
-|
-
 Végétaux, produits végétaux
 
 et autres objets
@@ -177,22 +173,6 @@ Tous
 |
 
 Fos - Port-Saint-Louis
-
-|
-
-Port
-
-|
-
-Tous
-
-|
-
-|
-
-|
-
-Kourou
 
 |
 

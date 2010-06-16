@@ -66,26 +66,6 @@ HC-NT
 
 |
 
-Boulogne
-
-|
-
-FR BOL 1
-
-|
-
-Port
-
-|
-
-|
-
-HC-T (1) (3), HC-NT (1) (3)
-
-|
-
-|
-
 Brest
 
 |
