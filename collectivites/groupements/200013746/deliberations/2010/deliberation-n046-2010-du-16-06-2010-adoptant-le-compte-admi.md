@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°046-2010 du 16-06-2010 - Adoptant le compte administratif 2009
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2010-06-16
+- Objet : Délibération n°046-2010 du 16-06-2010 - Adoptant le compte administratif 2009
+- Pages : 3
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2010/20191208-023007/temp-deliberation-ndeg046-2010-du-16-06-2010-adoptant-le-compte-administratif-2009.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/586c5978c751df5aa32b7154
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
