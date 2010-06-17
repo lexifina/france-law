@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513501
+
+- Question : [SEQ100513501](seq100513501.md) — Article L. 212-10 du code rural et identification par tatouage des chats
+
+## Réponse
+
+*Alimentation, JO du 2010-06-17, page 1533*
+
+Le ministère de l'alimentation, de l'agriculture et de la pêche accompagne le gestionnaire du système d'identification dans la modernisation du fichier national félin à travers la mise en place de procédures d'immatriculation et de suivi dématérialisées, plus rapides et plus simples pour les usagers. Les campagnes d'information et de promotion de l'identification des carnivores domestiques menées ces dernières années se sont traduites par une augmentation importante du nombre d'animaux identifiés et particulièrement les chats. Le ministère de l'alimentation, de l'agriculture et de la pêche a signifié sa volonté de rendre l'identification obligatoire pour les chats, dans un délai compatible avec la prise en compte des particularités de cette espèce, comme la faible taille des jeunes chats ou la période de sevrage. L'article L. 212-10 du code rural pourrait ainsi être amendé pour aligner les dispositions relatives à l'identification obligatoire des chats sur celles des chiens, à savoir en dehors de toute cession et à partir d'un âge qui reste à déterminer. Cette seule modification ne se répercuterait que sur les propriétaires de chats non identifiés et n'ayant pas fait déjà l'objet d'une cession. Il restera néanmoins délicat de distinguer les chats dits « libres », des chats détenus par des particuliers n'ayant pas respecté la nouvelle disposition. C'est pourquoi ces mesures devraient utilement être accompagnées de dispositions visant à accélérer le retour des chats trouvés à leur propriétaire et rendre les fourrières plus efficaces. C'est dans ce sens que travaille le Gouvernement.
