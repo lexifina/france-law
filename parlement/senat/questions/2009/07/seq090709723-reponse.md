@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709723
+
+- Question : [SEQ090709723](seq090709723.md) — Reconnaissance des langues régionales et de la langue limousine
+
+## Réponse
+
+*Culture, JO du 2010-06-17, page 1537*
+
+L'action de l'État en faveur des langues régionales ou minoritaires connaît un développement significatif. La politique mise en place au ministère de la culture et de la communication consiste à les considérer prioritairement comme moyens d'expression artistique et s'organise autour de quelques objectifs prioritaires : aide à l'édition sur et dans les langues de France, observation des pratiques linguistiques adossée au programme « Corpus de la parole » constitué de corpus oraux numérisés, soutien à la diffusion des savoirs et à la création originale dans le champ du spectacle vivant. Le principe directeur de cette action est le plurilinguisme. L'action consiste aussi à améliorer la place des langues régionales dans la société d'aujourd'hui, notamment à travers l'usage de l'Internet et des nouvelles techniques. Les mesures actuellement à l'étude en faveur des langues régionales visent à tirer les conséquences pratiques de leur inscription dans la Constitution, en conciliant leur appartenance au patrimoine national et la responsabilité des collectivités territoriales en la matière. Elles tiendront compte des propositions de divers acteurs intéressés à la politique linguistique, comme l'Association des régions de France. Pour ce qui concerne les parlers d'oc et leur désignation, les services de l'État observent un usage constant : les variations dialectales ne remettent pas en cause l'unité de l'occitan ou langue d'oc, le limousin est la forme que prend la langue en Limousin, comme le provençal est le nom qu'on lui donne en Provence ou l'auvergnat en Auvergne. En tout état de cause, les locuteurs sont libres de nommer leur langue comme ils le souhaitent.
