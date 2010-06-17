@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809876
+
+- Question : [SEQ090809876](seq090809876.md) — Énergie - climat
+
+## Réponse
+
+*Écologie, JO du 2010-06-17, page 1539*
+
+La France s'est fixé un objectif de division par quatre des émissions de gaz à effet de serre d'ici à 2050 dans le cadre du Grenelle de l'environnement. Cet objectif est partagé par tous les pays de l'Union européenne, qui se sont engagés dans le cadre du Paquet énergie climat adopté en décembre 2008 lors de la présidence française de l'Union européenne. La loi du 3 août 2009 de programmation relative à la mise en oeuvre du Grenelle de l'environnement, dans son article 2 voté à l'unanimité par le Parlement, prévoit que l'État étudiera la création d'une contribution carbone ayant pour objet d'intégrer les effets des émissions de gaz à effet de serre dans les systèmes de prix. Dans sa déclaration à l'issue du conseil des ministres du 24 mars 2010, le Président de la République a confirmé sa volonté de mettre en oeuvre une contribution carbone, dans un cadre européen, pour préparer l'avenir en donnant un prix au carbone tout en préservant la compétitivité de nos entreprises. C'est pourquoi le Gouvernement demandera à la Commission européenne de présenter son nouveau projet de directive sur la taxation de l'énergie, comme prévu avant juin 2010, en vue d'une harmonisation des dispositifs de fiscalité écologique dans l'Union européenne. Par ailleurs, le développement de la fiscalité environnementale se poursuit : en deux ans, 70 mesures ont été votées par le Parlement, accompagnant et stimulant la formidable mutation environnementale de notre société et de notre économie. Cette mutation, au-delà de l'impératif climatique, permettra aux entreprises françaises d'être au rendez-vous de la compétitivité, au regard de la nécessaire évolution des prix des matières premières, de l'énergie et des enjeux de l'économie décarbonée.
