@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312671
+
+- Question : [SEQ100312671](seq100312671.md) — Statut des vacataires dispensant les cours de religion dans les écoles primaires publiques d'Alsace-Moselle
+
+## Réponse
+
+*Éducation, JO du 2010-06-17, page 1549*
+
+Le décret n° 74-763 du 3 septembre 1974 modifié relatif à l'aménagement du statut scolaire local en vigueur dans les établissements du premier degré des départements du Haut-Rhin, du Bas-Rhin et de la Moselle prévoit notamment qu'un enseignement religieux de deux heures hebdomadaires peut-être assuré par les instituteurs ou à défaut par des intervenants extérieurs proposés par les autorités religieuses et agréés par le recteur d'académie. Ces heures d'enseignement assurées tant par les personnels enseignants titulaires en dehors de leurs obligations réglementaires de service que par des intervenants extérieurs, sont rétribuées sous la forme d'une indemnité horaire dont le taux est fixé par arrêté du 6 octobre 2005. Ce taux est applicable depuis le 1er janvier 2006 et indexé sur la valeur du point indiciaire de la fonction publique ; il est actuellement de 19,04 €. S'agissant du cumul des points de retraite, il n'y a pas d'horaire minimum à effectuer ; ces points s'acquièrent pour les personnels enseignants ayant la qualité de fonctionnaire au titre de leur cotisation au RAFP et pour les intervenants extérieurs au titre de leur cotisation au régime général et à l'IRCANTEC. Les intervenants extérieurs sont par ailleurs éligibles au bénéfice de l'allocation de retour à l'emploi dès lors qu'ils sont en situation de privation involontaire d'emploi et qu'ils remplissent les conditions prévues par les dispositions du règlement général annexé à la convention du 18 janvier 2006 relative au retour à l'emploi et à l'indemnisation du chômage.
