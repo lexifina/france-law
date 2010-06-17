@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312657
+
+- Question : [SEQ100312657](seq100312657.md) — Création d'une licence professionnelle en analyse appliquée du comportement
+
+## Réponse
+
+*Enseignement supérieur, JO du 2010-06-17, page 1551*
+
+La mise en oeuvre du second plan pour l'autisme (2008-2010) a conduit les universités à organiser des recherches et à mener des réflexions sur les formations, en partenariat avec des structures hospitalières, des établissements médico-sociaux, des structures expérimentales encadrées par la direction générale de la cohésion sociale (DGCS). Un socle commun de connaissances et de pratiques a été validé par la Haute Autorité de santé (HAS) et est en voie de diffusion. La méthode ABA pourrait ainsi trouver sa place, comme elle commence à le faire dans les formations existantes, à côté d'autres méthodes et dans le cadre d'une approche sans exclusive. S'agissant de la création d'une licence professionnelle en analyse appliquée du comportement (méthode ABA « applied behavior analysis »), il n'appartient pas au ministère d'intervenir dans ce domaine en raison de l'autonomie administrative et pédagogique que la loi reconnaît aux établissements d'enseignement supérieur. Ceux-ci sont seuls compétents pour définir leur offre de formation qui tient compte de la cohérence globale de l'offre au niveau de l'établissement, de la région, du potentiel des enseignants et des perspectives d'insertion professionnelle. C'est ainsi, par exemple, que l'université Lille-III, qui propose déjà un DU « analyse du comportement appliqué aux troubles du développement et du comportement » traitant notamment de la méthode ABA, pourra, en appui sur le socle défini des connaissances et des compétences, proposer au cours de son contrat 2010-2013, comme toute autre université, un dossier de licence professionnelle prenant en compte la diversité des approches sous forme de parcours.
