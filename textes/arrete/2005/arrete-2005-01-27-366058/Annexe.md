@@ -1,32 +1,22 @@
 # Article Annexe
 
-A N N E X E F C L 3
+ANNEXE FCL 3
 
 TABLE DES MATIÈRES
 
-Sous-partie A
-
-Dispositions générales
+Sous-partie A : Dispositions générales
 
 Paragraphe
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
 
-n° 61 du 13/03/2005 texte numéro 13
+Sous-partie B : Normes médicales de classe 1
 
-Sous-partie B
-
-Normes médicales de classe 1
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 61 du 13/03/2005 texte numéro 13
+Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
 
 APPENDICES À LA SOUS-PARTIE B
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 61 du 13/03/2005 texte numéro 13
+Vous pouvez consulter le tableau dans le JO n° 61 du 13/03/2005 texte numéro 13
 
 FCL 3.001
 
@@ -236,9 +226,9 @@ Durée de validité des certificats médicaux
 
 Un certificat médical est valide à compter de la date de l'examen médical d'admission et :
 
-(1) Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 40 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
+(1) Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 40 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi. Un certificat médical délivré à un détenteur, avant qu'il n'ait atteint l'âge de 40 ans et qui effectue des vols en exploitation monopilote, ne peut être valide plus de 6 mois à compter du jour où celui-ci atteint l'âge de 40 ans.
 
-Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 60 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
+Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 60 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi. Un certificat médical délivré à un détenteur, avant qu'il n'ait atteint l'âge de 60 ans, ne peut être valide plus de 6 mois à compter du jour où celui-ci atteint l'âge de 60 ans.
 
 Pour les mécaniciens navigants, les ingénieurs navigants, les navigateurs, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi quel que soit l'âge.
 
