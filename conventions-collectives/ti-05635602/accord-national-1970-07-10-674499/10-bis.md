@@ -1,0 +1,7 @@
+# Article 10 bis
+
+En cas de rupture conventionnelle du contrat de travail à durée indéterminée, dans les conditions prévues par les articles L. 1237-11 et suivants du code du travail, l'indemnité spécifique de rupture conventionnelle prévue par l'article L. 1237-13, alinéa 1, du code du travail n'est pas inférieure à l'indemnité de licenciement prévue par l'article 10. Elle est au moins égale à l'indemnité légale de licenciement calculée conformément aux articles L. 1234-9, L. 1234-11, R. 1234-1 et R. 1234-2 du code du travail.
+
+Lorsque le contrat de travail à durée indéterminée faisant l'objet de la rupture conventionnelle contient une clause de non-concurrence, l'employeur ne peut se décharger de l'indemnité de non-concurrence, en libérant le salarié de l'interdiction de concurrence, que par une mention expresse figurant dans la convention de rupture.
+
+Les dispositions du présent article 10 bis ont un caractère impératif au sens des articles L. 2252-1, alinéa 1, et L. 2253-3, alinéa 2, du code du travail, sauf pour les clauses conclues entre le 25 juin 2008 et le 21 juin 2010, relatives à la rupture conventionnelle, figurant dans les conventions et accords collectifs.
