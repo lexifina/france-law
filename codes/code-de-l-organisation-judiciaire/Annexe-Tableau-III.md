@@ -548,7 +548,7 @@ Nîmes
 
 |
 
-Bagnols-sur-Cèze, Nîmes.
+Bagnols-sur-Cèze, Nîmes, Vauvert.
 
 |
 
