@@ -14,6 +14,12 @@ ABRÉVIATIONS
 
 |
 
+CARROSSERIES
+
+|
+
+ABRÉVIATIONS
+
 |
 
 Nationales
@@ -24,17 +30,7 @@ Catégories CE
 
 |
 
-CARROSSERIES
-
-|
-
-ABRÉVIATIONS
-
-|
-
-Motocyclettes légères (*).
-
-|
+Motocyclettes légères (*). |
 
 MTL
 
@@ -84,7 +80,7 @@ SIDE-CAR
 
 |
 
-Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE n'excède pas 25 kW et dont la puissance maximale nette CE/poids en ordre de marche n'excède pas 0,16 kW/kg (*).
+Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE n'excède pas 25 kw et dont la puissance maximale nette CE/poids en ordre de marche n'excède pas 0,16 kw/kg (*)
 
 |
 
@@ -96,13 +92,47 @@ L 3e
 
 |
 
-Mêmes carrosseries que pour MTL.
+Motocyclettes sans side-car (solo)
+
+|
+
+SOLO
 
 |
 
 |
 
-Autres motocyclettes (*).
+|
+
+L 4e
+
+|
+
+Motocyclettes avec side-car adjoint
+
+|
+
+SOLO-SIDE-CAR
+
+|
+
+|
+
+|
+
+L 4e
+
+|
+
+Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques)
+
+|
+
+SIDE-CAR
+
+|
+
+Autres motocyclettes (*)
 
 |
 
@@ -114,9 +144,43 @@ L 3e
 
 |
 
-Mêmes carrosseries que pour MTL.
+Motocyclettes sans side-car (solo)
 
 |
+
+SOLO
+
+|
+
+|
+
+|
+
+L 4e
+
+|
+
+Motocyclettes avec side-car adjoint
+
+|
+
+SOLO-SIDE-CAR
+
+|
+
+|
+
+|
+
+L 4e
+
+|
+
+Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques)
+
+|
+
+SIDE-CAR
 
 |
 
@@ -336,7 +400,7 @@ NON SPEC
 
 |
 
-(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire .
+(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.
 
 |
 
@@ -350,21 +414,15 @@ ABRÉVIATIONS
 
 |
 
-|
+CARROSSERIES |
+
+ABRÉVIATIONS |
 
 Nationales
 
 |
 
 Catégories CE
-
-|
-
-Carrosseries
-
-|
-
-Abréviations
 
 |
 
@@ -376,11 +434,11 @@ TM
 
 |
 
-L. 5e
+L 5e
 
 |
 
-Tricycles de poids à vide 550 kg et puissance maximale nette CE 15 kw affectés au transport de marchandises.
+Tricycles de poids à vide ≤ 550 kg et puissance maximale nette CE ≤ 15 kw affectés au transport de marchandises.
 
 |
 
@@ -410,7 +468,7 @@ QM
 
 |
 
-L. 7e
+L 7e
 
 |
 
@@ -430,7 +488,7 @@ CYCL
 
 |
 
-L. 2e
+L 2e
 
 |
 
@@ -974,7 +1032,7 @@ SRAT
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -992,7 +1050,7 @@ SREM
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1070,7 +1128,7 @@ REM
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1088,7 +1146,7 @@ SRTC
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1106,7 +1164,7 @@ RETC
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1118,29 +1176,25 @@ Mêmes carrosseries que pour les REM.
 
 III. - Véhicules spécialisés non affectés au transport de marchandises
 
-GENRES
-
-|
+GENRES |
 
 ABRÉVIATIONS
 
 |
 
+CARROSSERIES
+
 |
+
+ABRÉVIATIONS |
 
 Nationales
 
 |
 
-Catégories CE
+Catégories
 
-|
-
-Carrosseries
-
-|
-
-Abréviations
+CE
 
 |
 
@@ -1272,7 +1326,7 @@ Fourgon blindé.
 
 |
 
-G BLIND
+FG BLIND
 
 |
 
@@ -1360,7 +1414,9 @@ MAGASIN
 
 |
 
-M1, N1, N2 ou N3
+M1, N1, N2
+
+ou N3
 
 |
 
@@ -1408,7 +1464,9 @@ VOIRIE
 
 |
 
-M1, N1, N2 ou N3
+M1, N1, N2
+
+ou N3
 
 |
 
@@ -1428,7 +1486,7 @@ SRSP
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1446,7 +1504,7 @@ RESP
 
 |
 
-O1, O2, O3 ou O4
+01, 02, 03 ou 04
 
 |
 
@@ -1474,29 +1532,25 @@ Mêmes carrosseries que pour les semi-remorques spécialisés.
 
 IV. - Véhicules agricoles
 
-GENRES
-
-|
+GENRES |
 
 ABRÉVIATIONS
 
 |
 
+CARROSSERIES
+
 |
+
+ABRÉVIATIONS |
 
 Nationales
 
 |
 
-Catégories CE
+Catégories
 
-|
-
-Carrosseries
-
-|
-
-Abréviations
+CE
 
 |
 
@@ -1508,7 +1562,9 @@ TRA
 
 |
 
-T1, T2, T3 ou T4
+T1, T2, T3
+
+ou T4
 
 |
 
@@ -1556,7 +1612,9 @@ REA
 
 |
 
-R 1, R 2, R 3 ou R 4
+R1, R2, R3
+
+ou R4
 
 |
 
@@ -1574,7 +1632,9 @@ SREA
 
 |
 
-R 1, R 2, R 3 ou R 4
+R1, R2, R3
+
+ou R4
 
 |
 

@@ -120,9 +120,9 @@ Véhicule en transit temporaire - date de fin de validité de l'usage ;
 
 Véhicule importé en transit - date de fin de validité de l'usage ;
 
-Véhicule pays de Gex ;
+Véhicule zone franche du pays de Gex ;
 
-Véhicule pays de Savoie.
+Véhicule zone franche de Haute-Savoie.
 
 2. Mentions relatives aux caractéristiques techniques particulières du véhicule :
 
@@ -175,7 +175,3 @@ Transport public de personnes de moins de 10 places.
 V max (remorque)
 
 (1) Combinée avec la mention Autre J3 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg .
-
-NOTA :
-
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
