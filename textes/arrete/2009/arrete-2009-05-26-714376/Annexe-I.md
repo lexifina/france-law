@@ -90,7 +90,7 @@ de l'aide
 
 |
 
-1. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) (participation aux coûts d'arrachage compris)
+1. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) et effectué hors plan collectif local(participation aux coûts d'arrachage compris)
 
 |
 
@@ -98,7 +98,7 @@ de l'aide
 
 |
 
-2. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation antérieur au 1er août 2008 (1), ou de droits provenant de transfert ou de la réserve, ou de droits de replantation anticipée
+2. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation antérieur au 1er août 2008 (1), ou de droits provenant de transfert ou de la réserve, ou de droits de replantation anticipée ou de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) et effectué au titre d'un plan collectif local terminé.
 
 |
 
