@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090809961
+
+- Question : [SEQ090809961](seq090809961.md) — Internet dans le cadre d'une campagne électorale
+
+## Réponse
+
+*Intérieur, JO du 2010-06-24, page 1637*
+
+L'article L. 52-1 du code électoral dispose que « [...] l'utilisation à des fins de propagande électorale de tout procédé de publicité commerciale par la voie de la presse ou par tout moyen de communication audiovisuelle est interdite ». Dans un arrêt d'espèce rendu le 8 juillet 2002, élections municipales Rodez, le Conseil d'État a jugé qu'un site Internet réalisé et utilisé par une liste de candidats à des fins de propagande électorale n'avait pas revêtu un caractère de publicité commerciale dès lors qu'il n'était accessible qu'aux électeurs se connectant volontairement. Dans un arrêt du 13 février 2009, élections municipales Fuveau, le Conseil d'État a eu à connaître de l'hypothèse dans laquelle un lien commercial avait été acheté par des candidats. Dans cette affaire, une liste de candidats à des élections municipales avait acheté, pour permettre un meilleur référencement de son site Internet, un lien commercial de telle sorte qu'il apparaissait en haut à droite sur la première page de résultats du moteur de recherche Google, pour des recherches notamment réalisées à partir du seul nom de la ville. La haute juridiction administrative a alors jugé que « dès lors que le référencement commercial d'un site à finalité électorale sur un moteur de recherche a pour finalité d'attirer vers lui des internautes qui effectuent des recherches, même dépourvues de tout lien avec les élections municipales, ce référencement revêt le caractère d'un procédé de publicité commerciale, interdit par l'article L. 52-1 du code électoral ». Sous réserve de l'interprétation du juge, il en serait donc de même dans le cadre d'élections cantonales.
