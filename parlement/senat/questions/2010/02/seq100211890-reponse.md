@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100211890
+
+- Question : [SEQ100211890](seq100211890.md) — Conséquences de l'annulation d'un plan local d'urbanisme sur les permis de construire
+
+## Réponse
+
+*Écologie, JO du 2010-06-24, page 1619*
+
+L'annulation d'un plan local d'urbanisme (PLU), qui a pour effet de remettre en vigueur le PLU ou le plan d'occupation des sols immédiatement antérieurs (article L. 121-8 du code de l'urbanisme), n'entraîne pas l'annulation des permis de construire délivrés et qui sont devenus définitifs avant cette annulation. La solution est similaire pour les permis de construire non définitifs, c'est-à-dire qui font l'objet d'un recours contentieux et si le PLU est parallèlement annulé. Le principe est en effet qu'un tel permis de construire n'est pas un acte d'application du PLU. L'annulation de ce dernier n'entraîne donc pas, de plein droit, celle du permis. La jurisprudence (CE, 16 novembre 2009, SARL les résidences de Cavalière, n° 308623) a toutefois posé une exception à ce principe : le requérant qui se fonde sur l'annulation d'un PLU peut obtenir l'annulation d'un permis non définitif en démontrant que ce permis est illégal par rapport aux règles remises en vigueur suite à cette l'annulation (PLU ou POS antérieur, règlement national d'urbanisme). Cette solution avait déjà été consacrée par le Conseil d'État mais ne concernait que le mécanisme dit de l'exception d'illégalité du PLU, c'est-à-dire lorsque le requérant invoque de manière ponctuelle l'illégalité du PLU à l'occasion d'un recours contre un permis de construire, sans toutefois diligenter un recours direct contre le PLU (CE, 7 février 2008, commune de Courbevoie, n° 297227). Dorénavant cette solution est également applicable lorsque le PLU a été annulé suite à un recours qui le visait directement.
