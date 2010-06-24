@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207301
+
+- Question : [SEQ090207301](seq090207301.md) — Avis de la commission d'appel d'offres sur les avenants à un marché passé selon une procédure adaptée
+
+## Réponse
+
+*Intérieur, JO du 2010-06-24, page 1635*
+
+L'honorable parlementaire s'interroge sur l'obligation de consulter la commission d'appel d'offres (CAO) pour un avenant dans les marchés passés en procédure adaptée, et ce quel que soit son impact financier. L'article 8 de la loi n° 95-127 du 8 février 1995 dispose que « tout projet d'avenant à un marché de travaux, de fournitures ou de services entraînant une augmentation du montant global supérieure à 5 % est soumis pour avis à la commission d'appel d'offres. L'assemblée délibérante qui statue sur le projet d'avenant est préalablement informée de cet avis. Toutefois, ces dispositions ne sont pas applicables lorsque ces avenants concernent des marchés qui, conformément aux dispositions du code des marchés publics, n'ont pas été soumis eux-mêmes à cet avis ». Cette dernière phrase a été ajoutée par la loi n° 2007-1787 du 20 décembre 2007. Ainsi, dans le cadre d'une procédure adaptée, la CAO n'est pas nécessairement appelée à intervenir. Il en résulte que la CAO ne devra pas non plus être consultée pour un avenant entraînant une augmentation supérieure à 5 % d'un marché à procédure adaptée. Toutefois, il convient d'être attentif quant à l'objet et la portée des avenants. En effet, l'article 20 du code des marchés publics dispose que, sauf sujétions techniques imprévues ne résultant pas du fait des parties, un avenant ou une décision de poursuivre ne peut bouleverser l'économie du marché, ni en changer l'objet. Un avenant provoquant un impact financier important pourrait bouleverser l'économie du marché et pourrait voir sa légalité contestée.
