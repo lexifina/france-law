@@ -84,7 +84,7 @@ Direction centrale de la direction interarmées des réseaux d'infrastructure et
 
 |
 
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information - Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information-Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
 
 |
 
@@ -92,7 +92,7 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Houilles
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Houilles
 
 |
 
@@ -108,7 +108,7 @@ MAPA × 30
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Cherbourg
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Cherbourg
 
 |
 
@@ -116,7 +116,7 @@ MAPA × 1
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Saint-Denis de La Réunion
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Saint-Denis de La Réunion
 
 |
 
@@ -124,11 +124,11 @@ MAPA × 1
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Soutien Bicêtre
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Soutien Bicêtre
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -136,7 +136,7 @@ Commandant du 8e régiment de transmissions de Suresnes
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -216,7 +216,7 @@ MAPA × 60
 
 |
 
-Chefs des services vivres/restauration
+Chefs des services vivres / restauration
 
 |
 
@@ -392,7 +392,7 @@ Directeurs régionaux adjoints du matériel
 
 |
 
-MAPA × 1,5
+MAPA × 1, 5
 
 |
 
@@ -428,7 +428,7 @@ Chef de la section géographique militaire (4)
 
 |
 
-MAPA ×1
+MAPA × 1
 
 |
 
@@ -436,7 +436,7 @@ Commandants des corps de troupes et chefs des organismes administrés comme tels
 
 |
 
-MAPA × 0,66
+MAPA × 0, 66
 
 |
 
@@ -504,7 +504,7 @@ Commandants des formations autonomes de la marine et chefs des organismes admini
 
 |
 
-MAPA x 0,66
+MAPA x 0, 66
 
 |
 
@@ -536,7 +536,7 @@ Service industriel de l'aéronautique
 
 |
 
-Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en- Bugey
+Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey
 
 |
 
@@ -552,7 +552,7 @@ MAPA x 50
 
 |
 
-Directeur de l'atelier industriel de l'aéronautique de Clermont- Ferrand
+Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand
 
 |
 
@@ -576,7 +576,7 @@ Commandants des bases aériennes et chefs des organismes administrés comme tels
 
 |
 
-MAPA x 0,66
+MAPA x 0, 66
 
 |
 
@@ -635,6 +635,10 @@ Chef du service centralisé des achats techniques
 Sans limitation
 
 |
+
+Adjoints du chef du service centralisé des achats techniques |
+
+MAPA × 50 |
 
 Directeur de DGA Ingénierie des projets
 
@@ -808,7 +812,7 @@ Sans limitation (5) (6) (7)
 
 (7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air , du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre , en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
+(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
 (9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction.
 
