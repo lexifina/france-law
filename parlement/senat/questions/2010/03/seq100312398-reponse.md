@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312398
+
+- Question : [SEQ100312398](seq100312398.md) — Droit électoral
+
+## Réponse
+
+*Intérieur, JO du 2010-06-24, page 1640*
+
+En application de l'article L. 52-4, alinéa 1er du code électoral, tout candidat doit désigner un mandataire, personne physique ou association de financement, et le déclarer en préfecture au plus tard à la date à laquelle sa candidature est enregistrée. Cette obligation, qui procède de l'ordonnance n° 2003-1165 du 8 décembre 2003, s'impose à tout candidat à une élection. La situation antérieure à l'ordonnance de 2003, qui n'imposait le recours à un mandataire qu'à la seule condition de récolter des dons, posait le problème de l'absence d'un compte bancaire unique retraçant toutes les opérations bancaires dans le cas d'un financement uniquement sur fonds propres ou grâce à celui du parti politique d'un candidat. La Commission nationale des comptes de campagne et des financements politiques avait alors très largement appuyé la proposition de généraliser l'obligation de déclaration du mandataire à tous les candidats. Le compte bancaire unique ouvert par le mandataire est la garantie que l'ensemble des recettes et des dépenses liées à la campagne électorale sont centralisées et inscrites au compte de campagne du candidat. Il convient de rappeler que le mandataire peut être déclaré en préfecture un an avant le premier jour du mois de l'élection. Le candidat dispose, ainsi, d'un délai suffisant lui permettant de déclarer son mandataire relativement tôt et d'anticiper toute indisponibilité de ce dernier, voire de remédier à d'éventuels contretemps (retard pris par la banque pour procéder à l'ouverture d'un compte bancaire ou à la délivrance d'un chéquier par exemple). Il est à noter, dans cette dernière hypothèse, que le mandataire ne disposant pas momentanément de chéquiers peut toujours recourir à des chèques de banque ou procéder à des virements.
