@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312643
+
+- Question : [SEQ100312643](seq100312643.md) — Taux de TVA applicable aux travaux d'aménagement de logements locatifs par une commune
+
+## Réponse
+
+*Intérieur, JO du 2010-06-24, page 1641*
+
+Le FCTVA est une aide à l'investissement. Il a pour objet de compenser de manière forfaitaire la TVA que les collectivités territoriales et leur groupement ont acquitté sur leurs dépenses réelles d'investissement et qu'elles ne peuvent pas récupérer par la voie fiscale. Son mode de détermination résulte de l'article 42 de la loi de finances rectificative pour 1988 qui précise qu'à compter du 1er janvier 1989, les attributions du FCTVA sont déterminées en appliquant, aux dépenses réelles d'investissement définies par décret en Conseil d'État, un taux de compensation forfaitaire égal au taux normal de la taxe sur la valeur ajoutée prévu à l'article 278 du CGI, calculé en dedans du prix et arrondi à la troisième décimale inférieure. Depuis 1997, ce taux de compensation est diminué de 0,905 point pour tenir compte de la part de TVA versée par la France au budget européen. Conformément à l'article L. 1615-6 du code général des collectivités territoriales, les attributions du FCTVA sont donc déterminées en appliquant aux dépenses d'investissement un taux de compensation forfaitaire de 15,482 %. Ce taux de compensation forfaitaire est donc le même quel que soit le taux de TVA qui a grevé la dépense. Les collectivités peuvent ainsi bénéficier du FCTVA au taux forfaitaire de 15,482 au titre de leurs dépenses d'investissement même si le taux de TVA qui a grevé ces dépenses s'avère inférieur au taux normal applicable. En définitive, bien que la commune ait bénéficié du taux réduit de TVA de 5,5 % sur ses dépenses réelles d'investissement, le reversement des attributions du FCTVA auxquelles elle peut prétendre si ces dépenses sont éligibles sera calculé au taux de 15,482.
