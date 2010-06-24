@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513365
+
+- Question : [SEQ100513365](seq100513365.md) — Certificats de nationalité
+
+## Réponse
+
+*Affaires étrangères, JO du 2010-06-24, page 1604*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères et européennes sur les difficultés que peuvent rencontrer nos compatriotes à l'étranger lorsqu'ils doivent se procurer un certificat de nationalité. Le logiciel Telnat permet de vérifier si un ressortissant français, ou un membre de sa famille, a acquis, ou perdu, la nationalité française par déclaration ou par décret. Les certificats de nationalité française sont, quant à eux, recensés dans des applications informatiques comme Nati, dont dispose chaque tribunal, et Justinat, qui est consultable uniquement par les tribunaux d'instance et le ministère de la justice. L'application Justinat permet de savoir, depuis avril 2000, si un certificat de nationalité française a été délivré ou refusé, si le ministère de la justice est saisi d'un dossier, ou si une décision judiciaire est intervenue en matière de nationalité. Les postes diplomatiques et consulaires n'ont, toutefois, pas accès à ce logiciel. Par ailleurs, depuis la loi n° 98-170 du 16 mars 1998, dès qu'un certificat de nationalité est délivré, mention en est portée en marge de l'acte de naissance de l'intéressé. De ce fait, celui-ci n'a plus à produire son certificat pour justifier de la nationalité française, la production d'une copie intégrale de son acte de naissance étant suffisante pour ce faire. Enfin, si une attestation peut être délivrée en matière d'acquisition de la nationalité française, un tel document ne peut légalement être délivré pour un certificat de nationalité française. En effet, au regard des articles 31 et 31-2 du code civil, la délivrance d'un certificat par un greffier en chef ne peut se faire qu'en visant les dispositions légales et les documents justifiant de la nationalité.
