@@ -1,0 +1,9 @@
+# Réponse à la question SEQ080403980
+
+- Question : [SEQ080403980](seq080403980.md) — Maintenance du matériel informatique dans les lycées et collèges
+
+## Réponse
+
+*Éducation, JO du 2010-06-24, page 1625*
+
+Historiquement, le maintien quotidien des matériels et réseaux informatiques et leur administration dans les lycées et les collèges était généralement assuré par des enseignants auxquels étaient attribuées, pour cette fonction, des heures supplémentaires (HSE) délégués aux établissements, en fonction de leur taille. Même si cette situation a permis de maintenir en état de marche le matériel, il semble plus raisonnable de confier cette mission technique à des personnes dont c'est le métier. Aujourd'hui, des partenariats entre le ministère de l'éducation nationale et les collectivités territoriales se développent pour garantir une maintenance de l'équipement informatique des établissements publics locaux d'enseignement. Dans cette démarche partenariale, chacun fait porter ses efforts prioritairement sur les fonctions relevant de ses missions premières, l'accompagnement des utilisateurs dans leurs usages des TICE (technologies de l'information et de la communication pour l'éducation) pour le ministère, la maintenance et l'accompagnement technique pour les collectivités territoriales. Des partenariats sont déjà engagés sur cette base dans certaines académies. Il en est ainsi pour l'académie de Poitiers, qui a passé des accords avec la région Poitou-Charentes, et avec les départements de la Charente, de la Vienne et des Deux-Sèvres. C'est également le cas, par exemple, pour l'académie de Strasbourg avec la région Alsace ou pour l'académie de Nantes avec la région Pays-de-Loire et le département de Loire-Atlantique ainsi que pour les académies d'Aix-Marseille et de Nice avec la région Paca et les départements des Bouches-du-Rhône et du Var.
