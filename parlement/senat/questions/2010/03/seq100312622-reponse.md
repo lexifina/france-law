@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312622
+
+- Question : [SEQ100312622](seq100312622.md) — Relogement provisoire à la suite d'un incendie
+
+## Réponse
+
+*Écologie, JO du 2010-06-24, page 1622*
+
+La réquisition d'un logement par un maire afin de reloger à titre provisoire une famille ayant perdu son logement suite à un incendie ressort de l'application des articles L. 614-1 et suivants du code de la construction et de l'habitation. Cette procédure permet à une famille, dans certaines circonstances prévues par ces articles, d'être relogée par attribution d'office du logement réquisitionné et de bénéficier d'un titre d'occupation précaire et personnel des lieux. Le bénéficiaire de la réquisition règle une indemnité d'occupation dont le recouvrement est garanti par le privilège de l'article 2102 du code civil. En cas de non-paiement de l'indemnité d'occupation, le propriétaire ou le prestataire adresse au bénéficiaire, dans les quinze jours de toute échéance non réglée, une mise en demeure par pli recommandé avec demande d'avis de réception, d'avoir à payer la somme due dans les quinze jours suivants. Si cette mise en demeure reste sans effet, il notifie au représentant de l'État dans le département la défaillance de l'occupant. Le représentant de l'État règle l'indemnité au nom de l'État, à charge pour lui de se retourner vers l'occupant. Il peut également prononcer la levée de la réquisition. Par ailleurs, les personnes qui se maintiennent dans les lieux à l'expiration du terme de la réquisition ou de la levée de celle-ci sont passibles d'une amende civile au moins égale, par jour de retard, au décuple du loyer quotidien. Cette amende est prononcée par le président du tribunal de grande instance qui statue en référé et peut, en outre, prononcer l'expulsion. Tels sont les éléments de ce dispositif de réquisition qui devrait permettre au propriétaire du logement concerné de récupérer les indemnités qui lui sont dues ainsi que ses locaux d'habitation.
