@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413160
+
+- Question : [SEQ100413160](seq100413160.md) — Application du régime juridique coutumier des usoirs
+
+## Réponse
+
+*Écologie, JO du 2010-06-24, page 1615*
+
+Les usoirs relevaient à l'origine de règles coutumières spécifiques au département de la Moselle. Ces règles figurent dorénavant, pour l'essentiel, aux articles 59 à 64 de la codification des usages locaux à caractère agricole, parue au Bulletin officiel de la Moselle en 1980. La rétrocession d'un usoir est régie par les mêmes textes que la cession des autres biens des communes ; ceux-ci figurent au code général des collectivités territoriales. Le riverain demande l'acquisition de l'usoir auprès des services de la mairie. Le conseil municipal se prononce ensuite sur le changement de propriété et sur la destination de la partie de l'usoir convoitée ; s'il se montre favorable à la cession, et après consultation de France domaines sur l'évaluation du prix de vente, la délibération est affichée et l'acquisition par le riverain peut être finalisée. Les délaissés, quant à eux, sont des espaces résiduels rendus structurellement inutilisables par l'aménagement du territoire. Il s'agit généralement de bandes de terrains entre la voirie et l'usoir, sans usage ni définition réelle. Il peut s'agir des restes inutilisables d'une division foncière. Ces délaissés sont peu fréquents en pratique. Pour ces délaissés, il importe tout d'abord de déterminer quel est le propriétaire réel ; si c'est la commune, la procédure à suivre est la même que ci-dessus. S'il s'agit en revanche d'un bien orphelin, les services de la commune devront s'adresser aux services de France domaines qui lui préciseront les conditions d'aliénation de ce bien. Qu'il s'agisse de la cession d'un usoir ou d'un délaissé, aucun droit de préemption n'est prévu au profit des personnes dont la maison est située à l'aplomb de la rue.
