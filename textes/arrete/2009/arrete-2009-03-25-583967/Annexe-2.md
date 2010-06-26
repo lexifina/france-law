@@ -1060,7 +1060,7 @@ SNPES-PJJ/FSU
 
 |
 
-Loire-Atlantique
+Loire-Atlantique-Vendée
 
 |
 
@@ -1082,11 +1082,11 @@ SNPES-PJJ/FSU
 
 |
 
-3
+4
 
 |
 
-3
+4
 
 |
 
@@ -1134,7 +1134,21 @@ UNSA-SPJJ
 
 |
 
-Maine-et-Loire
+Maine-et-Loire-Sarthe-Mayenne
+
+|
+
+CGT - PJJ
+
+|
+
+1
+
+|
+
+1
+
+|
 
 |
 
@@ -1156,11 +1170,25 @@ UNSA-SPJJ
 
 |
 
-2
+1
 
 |
 
-2
+1
+
+|
+
+|
+
+FO-PJJ
+
+|
+
+1
+
+|
+
+1
 
 |
 
@@ -1253,50 +1281,6 @@ SNPES-PJJ/FSU
 |
 
 4
-
-|
-
-|
-
-UNSA-SPJJ
-
-|
-
-1
-
-|
-
-1
-
-|
-
-Mayenne
-
-|
-
-CGT-PJJ
-
-|
-
-2
-
-|
-
-2
-
-|
-
-|
-
-SNPES-PJJ/FSU
-
-|
-
-2
-
-|
-
-2
 
 |
 
@@ -1962,64 +1946,6 @@ UNSA-SPJJ
 
 |
 
-Sarthe - Mayenne
-
-|
-
-CGT-PJJ
-
-|
-
-1
-
-|
-
-1
-
-|
-
-|
-
-SN-FO-PJJ
-
-|
-
-1
-
-|
-
-1
-
-|
-
-|
-
-SNPES-PJJ/FSU
-
-|
-
-3
-
-|
-
-3
-
-|
-
-|
-
-UNSA-SPJJ
-
-|
-
-1
-
-|
-
-1
-
-|
-
 Savoie (Haute)
 
 |
@@ -2365,22 +2291,6 @@ SNPES-PJJ/FSU
 |
 
 UNSA-SPJJ
-
-|
-
-3
-
-|
-
-3
-
-|
-
-Vendée
-
-|
-
-SNPES-PJJ/FSU
 
 |
 
