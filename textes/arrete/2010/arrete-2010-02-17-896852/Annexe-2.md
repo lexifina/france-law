@@ -20,7 +20,7 @@ DATE DE CRÉATION
 
 |
 
-27 - Eure
+27-Eure
 
 |
 
@@ -28,7 +28,7 @@ SIP-SIE de Verneuil-sur-Avre
 
 |
 
-CDI de Verneuil-sur-Avre
+CDI-SIE de Verneuil-sur-Avre
 
 Trésorerie de Verneuil-sur-Avre
 
@@ -38,7 +38,7 @@ Trésorerie de Verneuil-sur-Avre
 
 |
 
-58 - Nièvre
+58-Nièvre
 
 |
 
@@ -46,7 +46,7 @@ SIP-SIE de Château-Chinon
 
 |
 
-CDI de Château-Chinon
+CDI-SIE de Château-Chinon
 
 Trésorerie de Château-Chinon
 
@@ -56,7 +56,7 @@ Trésorerie de Château-Chinon
 
 |
 
-61 - Orne
+61-Orne
 
 |
 
@@ -64,7 +64,7 @@ SIP-SIE de L'Aigle
 
 |
 
-CDI de L'Aigle
+CDI-SIE de L'Aigle
 
 Trésorerie de L'Aigle
 
