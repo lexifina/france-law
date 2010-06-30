@@ -1,0 +1,587 @@
+# Article 1er
+
+Le chapitre XI de la convention collective nationale est remplacé par les dispositions suivantes.
+
+« Chapitre XI
+
+Classifications
+
+Section 1
+
+Définitions
+
+Pour une meilleure compréhension du présent chapitre, quelques termes sont à préciser :
+
+1. Certification (donnée objective)
+
+La certification est caractérisée par un titre homologué correspondant au poste proposé :
+
+– diplômes (éducation nationale) ;
+
+– titre professionnel du ministère du travail (certificat de formation professionnelle) ;
+
+– certificat de qualification professionnelle (CQP) ;
+
+– titre homologué du CFI de la chambre de commerce et d'industrie de Paris (CCIP),
+
+conformément à l'annexe de l'accord formation applicable à la branche professionnelle.
+
+Il est rappelé qu'il existe 3 moyens permettant d'obtenir une certification :
+
+– la formation initiale ;
+
+– la formation continue (notamment par le biais de Formfroid) ;
+
+– la VAE.
+
+2. Terminologie
+
+Expérience :
+
+L'expérience est caractérisée par la maîtrise des savoir-faire opérationnels (administratif, commercial, technique, organisationnels, etc.) liés au poste dans lequel l'activité sera réalisée.
+
+Compétence métier ou fonction :
+
+La compétence résulte de la combinaison de connaissances, de savoir-faire opérationnels, de savoir comportementaux professionnels, mise en œuvre pour réaliser une activité avec des moyens alloués et une autonomie définie.
+
+Compétences transversales éventuelles :
+
+Les activités peuvent mettre en œuvre des compétences transversales à plusieurs métiers et fonctions telle l'autonomie, l'organisation du travail, la coordination d'activités. Ces compétences transversales peuvent de plus être développées quand la classification augmente.
+
+3. Méthode de lecture
+
+Les niveaux, échelons et coefficients sont attribués aux salariés par rapport au poste effectif occupé dans l'entreprise et non en référence aux certifications dont les intéressés sont titulaires.
+
+Un salarié employé à un poste correspondant à sa certification doit obligatoirement être classé au moins au seuil d'accueil minimal prévu pour la certification en question.
+
+Il est bien entendu que, par certification, il convient d'entendre les certifications telles que définies par les textes législatifs et réglementaires en vigueur à la date de la signature de l'accord et concernant notamment l'enseignement technique et professionnel dans la spécialité exercée et des fonctions d'encadrement.
+
+Le classement au sein d'un niveau tient compte, entre autres, de la complexité des tâches, de l'expérience professionnelle, des compétences et des responsabilités confiées, de l'autonomie.
+
+4. Révision
+
+Les partenaires sociaux conviennent de se revoir pour examiner les éventuels dysfonctionnements du présent accord dans un délai maximal de 2 ans.
+
+Section 2
+
+Grille de classifications et postes
+
+Les postes de cette grille sont soit au genre masculin, soit au genre féminin, mais il est bien entendu que chaque intitulé de poste est valable aussi bien pour le personnel masculin que pour le personnel féminin.
+
+Niveau |
+
+Définition |
+
+Éch. |
+
+Coef. |
+
+Définition des échelons |
+
+Postes
+
+techniques |
+
+Métiers
+
+supports |
+
+I |
+
+D'après des consignes simples et détaillées fixant la nature du travail et des modes opératoires à appliquer, exécution des tâches caractérisées par leur simplicité ou leur répétitivité |
+
+A |
+
+176 |
+
+Exécution d'opérations ou de travaux simples et élémentaires.
+
+Le classement dans les échelons tient compte :
+
+-de son expérience ;
+
+-de la diversité des tâches réalisées ;
+
+-de l'évolution des compétences métiers du salarié |
+
+Manutentionnaire |
+
+Technicien de surface, secrétaire standardiste 1er degré |
+
+|
+
+Le travail du salarié est contrôlé |
+
+B |
+
+181 |
+
+|
+
+|
+
+Aide-magasinier |
+
+|
+
+Aucune formation préalable n'est requise |
+
+C |
+
+186 |
+
+|
+
+Chauffeur-livreur,
+
+aide monteur |
+
+Aide-comptable, employé (e) de bureau |
+
+II |
+
+D'après des instructions de travail précises, exécution d'un travail qualifié constitué par un ensemble d'opérations diverses reproductibles |
+
+A |
+
+195 |
+
+Le classement dans les échelons tient compte :
+
+-de l'expérience professionnelle du salarié ;
+
+-de ses compétences métiers ;
+
+-de sa participation aux préparatifs des opérations |
+
+Monteur, tuyauteur,
+
+braseur 1er degré,
+
+électricien câbleur
+
+1er degré |
+
+Dessinateur, secrétaire standardiste 2e degré, magasinier, aide-comptable confirmé, facturière qualifiée |
+
+|
+
+Le salarié doit être capable de constater une anomalie et de la signaler |
+
+B |
+
+205 |
+
+|
+
+Opérateur d'essai
+
+1er degré |
+
+Agent techni que,
+
+comptable 1er degré,
+
+employé service achat |
+
+|
+
+Il doit contrôler les résultats de son travail tout en étant supervisé par un supérieur hiérarchique ou par un salarié plus expérimenté |
+
+C |
+
+210 |
+
+|
+
+Monteur dépanneur frigoriste 1er degré, monteur dépanneur cuisiniste, 1er degré,
+
+tuyauteur braseur 2e degré, électricien câbleur 2e degré |
+
+Commercial |
+
+III |
+
+Exécution de travaux complexes intégrant une analyse du besoin et comportant différentes opérations à combiner en fonction d'un objectif à atteindre.
+
+Le salarié peut être amené à superviser et/ ou coordonner le travail d'autres personnes. |
+
+A |
+
+225 |
+
+Le classement dans les échelons tient compte :
+
+-de l'expérience professionnelle du salarié ;
+
+-de ses compétences métiers ;
+
+-de son degré d'autonomie, d'organisation et d'initiative tenant compte des moyens alloués ;
+
+-de l'ensemble des opérations spécifiques à l'emploi |
+
+Monteur, dépanneur,
+
+frigoriste 2e degré,
+
+monteur dépanneur cuisiniste 2e degré,
+
+tuyauteur braseurconfirmé,
+
+électricien câbleur confirmé,
+
+agent technique BE 1er degré,
+
+opérateur d'essai 2e degré |
+
+Comptable 2e degré,
+
+secrétaire confirmée, employé administratif confirmé, gestionnaire de stock |
+
+|
+
+Le salarié possède et met en œuvre régulièrement plusieurs compétences (somme de savoir-
+
+faire observables) |
+
+B |
+
+235 |
+
+|
+
+Opérateur d'essai
+
+3e degré |
+
+|
+
+III |
+
+Il rend des comptes à son supérieur hiérarchique et fait preuve d'initiative et d'autonomie dans la réalisation de ses activités |
+
+C |
+
+245 |
+
+|
+
+Technicien d'intervention 1er degré,
+
+technicien d'intervention débutant chef d'équipe frigoriste 1er degré/ suppléant |
+
+Technico-commercial
+
+1er degré |
+
+IV |
+
+Exécution d'une mission selon des instructions de caractère général sur les méthodes à appliquer.
+
+Il doit faire preuve d'initiative, d'autonomie et du sens des responsabilités |
+
+A |
+
+260 |
+
+Le classement dans les échelons tient compte de l'expérience professionnelle du salarié et de ses compétences.
+
+Coefficient 260 :
+
+-mise en œuvre de procédés connus ou en conformité avec un dossier technique |
+
+Technicien d'intervention 2e degré, chef d'équipe 2e degré |
+
+Technico-commercial
+
+2e degré, dessinateur conception exécution, technicien méthode, qualité, sécurité EHS, gestionnaire services
+
+1er degré, secrétaire de direction |
+
+|
+
+Il possède une expertise technique reconnue qui lui permet d'adapter des méthodes, de proposer des solutions nouvelles et de les mettre en œuvre |
+
+B |
+
+280 |
+
+Coefficient 280 : même rôle et responsabilités que le coefficient 260 avec une faculté d'adaptation éventuelle des méthodes |
+
+Chef de travaux, chef d'équipe 3e degré |
+
+Chargé d'affaires 1er degré, gestionnaire services 2e degré |
+
+IV |
+
+Il peut être amené à superviser et/ ou coordonner le travail d'une équipe et des sous-traitants |
+
+C |
+
+300 |
+
+Coefficient 300 : même rôle et responsabilité que le coefficient 280 avec la faculté de proposer des solutions techniques nouvelles) |
+
+|
+
+|
+
+V |
+
+Correspond à un haut niveau de responsabilités, qu'elles soient d'ordre techniques, administratives, ou organisationnelles |
+
+A |
+
+320 |
+
+L'évolution du salarié se fera en fonction de l'évolution de sa capacité à gérer et coordonner des situations de plus en plus complexes, de son degré d'autonomie et de responsabilité.
+
+Coefficient 320 : recherche de solutions techniques avec la faculté de les adapter et détection des besoins techniques et humains |
+
+Responsable travaux
+
+1er degré, responsable unité atelier |
+
+Chargé d'affaires 2e degré, responsable services 1er degré |
+
+V |
+
+Le salarié a un ou des objectifs à atteindre, il doit trouver les solutions lui permettant de les atteindre et les mettre en œuvre de façon satisfaisante.
+
+En cas de difficultés, il doit proposer des solutions à sa hiérarchie. |
+
+B |
+
+340 |
+
+Coefficient 340 : même rôle et responsabilité que le coefficient 320 avec un rôle de coordination et des responsabilités accrues en matière de gestion |
+
+|
+
+|
+
+|
+
+Responsabilité technique ou de gestion vis-à-vis du personnel de qualification inférieure et vis-à-vis des sous traitants |
+
+C |
+
+365 |
+
+Coefficient 365 : même rôle et responsabilité que le coefficient 340 avec la capacité de proposer des spécifications nouvelles et de les mettre en œuvre |
+
+|
+
+|
+
+|
+
+Seuil d'accueil pour les jeunes diplômés accédant à un emploi de cadre |
+
+|
+
+370 |
+
+Jeune diplômé, ayant moins de 12 mois d'expérience professionnelle dans la branche suite à l'obtention de sa certification |
+
+|
+
+|
+
+VI* |
+
+Sont visés les salariés :
+
+-titulaires d'un diplôme de
+
+niveau II (diplôme de second cycle universitaire ou d'écoles) ou de niveau I (diplôme de troisième cycle universitaire ou d'écoles) délivré par l'éducation nationale ;
+
+– disposant d'une expérience professionnelle inférieure à 36 mois au sein de la branche (au titre de tout type de contrat de travail) |
+
+|
+
+375 |
+
+Jeune diplômé, ayant entre 12
+
+et 24 mois d'expérience professionnelle dans la branche suite à l'obtention de sa certification |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+380 |
+
+Jeune diplômé, ayant entre 24 et 36 mois d'expérience professionnelle dans la branche suite à l'obtention de sa certification |
+
+|
+
+|
+
+|
+
+* Se référer à l'article X-2 de la convention collective nationale |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+VI* |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assume la gestion d'un ou plusieurs secteurs
+
+d'activité de l'entreprise ou de très larges fonctions dans sa spécialité.
+
+Ces fonctions impliquent nécessairement son autonomie et sa haute technicité couplée à des qualités de gestion et d'animation. |
+
+A |
+
+390 |
+
+Le classement dans les échelons tient compte :
+
+-des responsabilités confiées ;
+
+-de la complexité des activités et de leur technicité ;
+
+-des compétences d'organisation, de gestion et d'animation mises en œuvre |
+
+Responsable travaux,
+
+2e degré, responsable technique |
+
+Chargé d'affaire 3e degré, ingénieur, chef de projet, responsable commercial, responsable services
+
+2e degré |
+
+|
+
+Il est placé sous la responsabilité d'un supérieur hiérarchique qui peut être le chef d'entreprise lui-même |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+B |
+
+430 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C |
+
+460 |
+
+|
+
+|
+
+|
+
+|
+
+* Se référer à l'article X-2 de la convention collective nationale |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+VII |
+
+Correspondant à des compétences importantes et à une expérience étendue ainsi qu'à un haut niveau de responsabilité |
+
+A |
+
+500 |
+
+Le classement dans les échelons tient compte :
+
+-du niveau de responsabilité ;
+
+-des capacités de coordination et d'anticipation ;
+
+-des capacités décisionnaires confiées |
+
+Cadre dirigeant, directeur technique |
+
+Cadre dirigeant, directeur commercial,
+
+directeur services |
+
+|
+
+Les cadres de ce niveau sont caractérisés par leurs capacités de décision et de gestion dans l'entreprise |
+
+B |
+
+600 |
+
+|
+
+|
+
+|
+
+|
+
+Ils sont placés sous l'autorité directe du chef d'entreprise |
+
+C |
+
+700 |
+
+|
+
+|
+
+|
