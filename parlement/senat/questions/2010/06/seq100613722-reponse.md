@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613722
+
+- Question : [SEQ100613722](seq100613722.md) — Garantie d'achèvement des travaux
+
+## Réponse
+
+*Logement, JO du 2010-07-01, page 1723*
+
+À l'initiative du secrétaire d'État chargé du logement et de l'urbanisme, un groupe de travail a été constitué, associant le ministère de la justice et des libertés, le ministère de l'économie, de l'industrie et de l'emploi, le Conseil supérieur du notariat et les organisations professionnelles concernées, pour que soit menée une réflexion afin de sécuriser davantage les opérations de vente en l'état futur d'achèvement pour lesquelles la garantie intrinsèque a été choisie. Ce groupe de travail est arrivé au terme de sa réflexion et un projet de décret a été élaboré. Ce projet ne supprime pas la garantie intrinsèque dans la mesure où la conjoncture économique et l'évolution jurisprudentielle en matière de garantie financière pourraient être de nature à freiner l'octroi de garanties par les établissements financiers et rendre plus onéreuse la garantie extrinsèque de la vente en l'état futur d'achèvement. En revanche, ce projet prévoit de sécuriser davantage les opérations pour lesquelles la garantie intrinsèque a été choisie, en précisant les conditions de la garantie d'achèvement, en donnant une meilleure définition des fonds et crédits nécessaires à l'opération, en créant pour le vendeur l'obligation de remettre à l'acquéreur, avant tout appel de fonds, des attestations de réalisation des travaux établies par un homme de l'art et en modifiant l'échelonnement des différents paliers de paiement afin de mieux respecter l'obligation de proportionnalité entre les paiements et l'avancement des travaux. Ce projet de décret est actuellement en cours d'examen devant le Conseil d'État et devrait donc faire l'objet d'une prochaine publication.
