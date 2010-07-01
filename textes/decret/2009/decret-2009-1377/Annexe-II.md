@@ -54,6 +54,22 @@ Département de l'Aisne
 
 |
 
+Direction régionale d'Ile-de-France |
+
+Ile-de-France
+
+Bretagne
+
+Nord - Pas-de-Calais
+
+Picardie, à l'exclusion du département de l'Aisne
+
+Basse-Normandie
+
+Haute-Normandie
+
+|
+
 Direction régionale de Languedoc-Roussillon
 
 |

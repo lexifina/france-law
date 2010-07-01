@@ -226,7 +226,7 @@ A
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
+Direction départementale des territoires de l'Essonne
 
 FONCTIONS EXERCEES
 
@@ -250,7 +250,7 @@ par emploi
 
 |
 
-Chef de projet politique de la ville
+Adjoint au chef du service habitat et renouvellement urbain chargé de la rénovation urbaine
 
 |
 
@@ -262,11 +262,11 @@ A
 
 |
 
-40 points
+32 points
 
 |
 
-Chef du service habitat
+Chef du service habitat et renouvellement urbain
 
 |
 
@@ -282,79 +282,79 @@ A
 
 |
 
-Chargé de la politique de la ville pour le nord de l'Essonne
+Chargé de mission rénovation urbaine
 
 |
 
 A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Instructeur des dossiers de subvention d'investissement en matière de politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef du bureau des usagers de l'habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Instructeur des dossiers du logement social
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Instructeur des dossiers du logement social dans les quartiers prioritaires
-
-|
-
-B
 
 |
 
 2
+
+|
+
+20 points
+
+|
+
+Chef du bureau du logement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+28 points
+
+|
+
+Adjoint au chef du bureau du parc social et de la rénovation urbaine
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Instructeur de dossier "politique de la ville"
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Instructeur de dossier logement social "quartiers prioritaires"
+
+|
+
+B
+
+|
+
+1
 
 |
 

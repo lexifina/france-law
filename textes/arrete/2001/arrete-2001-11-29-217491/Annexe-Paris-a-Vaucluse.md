@@ -1,28 +1,36 @@
 # Article Annexe Paris à Vaucluse
 
-Préfecture de la région d'Ile-de-France, préfecture de Paris
+Direction régionale et interdépartementale de l'équipement
 
-FONCTIONS EXERCEES
+et de l'aménagement d'Ile-de-France
+
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
-NOMBRE de points (IM)
+NOMBRE
+
+de points (IM)
 
 par emploi
 
 |
 
-Délégué de l'Etat
+Chef du pôle planification urbaine et aménagement durable - unité territoriale de Paris
 
 |
 
@@ -34,27 +42,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Chargé d'étude des questions urbaines liées à la politique de la ville à la direction de l'urbanisme, du logement et de l'équipement
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-Adjoint au chef du bureau urbanisme, chargé des dossiers emplois ville à la direction de l'urbanisme, du logement et de l'équipement
+Chef de projet politique locale de l'habitat - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -66,27 +58,11 @@ A
 
 |
 
-50 points
+23
 
 |
 
-Chef de la section du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50 points
-
-|
-
-Chef de la section saturnisme à la direction de l'urbanisme, du logement et de l'équipement
+Chargé de mission secteur Ouest - unité territoriale de la Seine-Saint-Denis
 
 |
 
@@ -98,11 +74,11 @@ A
 
 |
 
-50 points
+23
 
 |
 
-Chef de la section analyses et prospectives de l'habitat à la direction de l'urbanisme, du logement et de l'équipement
+Chargé de mission secteur Est - unité territoriale de la Seine-Saint-Denis
 
 |
 
@@ -114,11 +90,133 @@ A
 
 |
 
-50 points
+23
 
 |
 
-Adjoint au chef de la section urbanisme opérationnel à la direction de l'urbanisme, du logement et de l'équipement
+Chargé de mission secteur Roissy-Le Bourget - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chargé de mission secteur centre et référent foncier - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du pôle planification urbaine et aménagement - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Chargé de mission ville durable et rénovation urbaine - unité territoriale du Val-de-Marne
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Direction régionale et interdépartementale de l'hébergement
+
+et du logement en Ile-de-France
+
+DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE |
+
+Fonctions exercées
+
+|
+
+Niveau de qualification de l'emploi
+
+|
+
+Nombre
+
+d'emplois
+
+|
+
+Nombre de points (IM)
+
+par emploi
+
+|
+
+Adjoint (e) chef du service habitat et rénovation urbaine-unité territoriale de Paris
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Responsable de la mission droit au logement opposable-unité territoriale de Paris
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau lutte contre le saturnisme-unité territoriale de Paris
 
 |
 
@@ -130,11 +228,27 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Adjoint au chef de la section programmation du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement
+Chargé (e) de projet rénovation urbaine-unité territoriale de Paris
+
+|
+
+B
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Instructeur habitat privé-unité territoriale de Paris
 
 |
 
@@ -146,11 +260,59 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Chargé du financement des investissements sur crédits spécifiques à la direction de l'urbanisme, du logement et de l'équipement
+Chef du bureau intervention dans le parc privé-unité territoriale des Hauts-de-Seine
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau rénovation urbaine-unité territoriale des Hauts-de-Seine
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Adjoint (e) au chef de bureau rénovation urbaine-unité territoriale des Hauts-de-Seine
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chargé (e) d'opération habitat indigne-unité territoriale des Hauts-de-Seine
 
 |
 
@@ -162,11 +324,11 @@ B
 
 |
 
-30 points
+20
 
 |
 
-Chargé de l'instruction et du suivi des dossiers ANRU et de l'instruction des dossiers AQS à la direction de l'urbanisme, du logement et de l'équipement
+Chargé (e) de projet rénovation urbaine-unité territoriale des Hauts-de-Seine
 
 |
 
@@ -174,15 +336,143 @@ B
 
 |
 
+3
+
+|
+
+20
+
+|
+
+Chargé (e) de mission Plan départemental d'action pour le logement des personnes défavorisées (PDALPD)-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
 1
 
 |
 
-30 points
+23
 
 |
 
-Instructeur des dossiers OPAH dans les zones sensibles à la direction de l'urbanisme, du logement et de l'équipement
+Chargé (e) de la cellule éradication de l'habitat indigne-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau Interventions dans l'habitat privé-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau du logement social-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau rénovation urbaine-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chargé (e) de projet rénovation urbaine-unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+5
+
+|
+
+23
+
+|
+
+Chargé (e) d'opérations habitat indigne-unité territoriale de la Seine-Saint-Denis
+
+|
+
+B
+
+|
+
+3
+
+|
+
+20
+
+|
+
+Instructeur du financement du logement social-unité territoriale de la Seine-Saint-Denis
+
+|
+
+B
+
+|
+
+2
+
+|
+
+30
+
+|
+
+Instructeur du financement rénovation urbaine-unité territoriale de la Seine-Saint-Denis
 
 |
 
@@ -194,7 +484,87 @@ B
 
 |
 
-30 points
+20
+
+|
+
+Instructeur habitat indigne-unité territoriale de la Seine-Saint-Denis
+
+|
+
+C
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chargé (e) de projet rénovation urbaine-unité territoriale du Val-de-Marne
+
+|
+
+A
+
+|
+
+2
+
+|
+
+23
+
+|
+
+Adjoint (e) au chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Chargé (e) d'opérations habitat indigne-unité territoriale du Val-de-Marne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
 
 |
 
@@ -262,7 +632,7 @@ par emploi
 
 |
 
-Chef du bureau " mission politique de la ville " au service de l'habitat
+Chef du bureau "mission politique de la ville" au service de l'habitat
 
 |
 
@@ -300,7 +670,9 @@ FONCTIONS EXERCEES
 
 |
 
-NIVEAU de qualification de l'emploi
+NIVEAU
+
+de qualification de l'emploi
 
 |
 
@@ -314,7 +686,7 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-Chef de la mission " politique de la ville "
+Chef de la mission "politique de la ville"
 
 |
 
@@ -766,31 +1138,25 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de Vaucluse
+Direction départementale des territoires de Vaucluse
 
-FONCTIONS EXERCEES
-
-|
+FONCTIONS EXERCÉES |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
 
-|
+de l'emploi |
+
+NOMBRE d'emplois |
 
 NOMBRE
 
-d'emplois
+de points (IM)
 
-|
+par emploi |
 
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Chef du service ville, urbanisme et habitat
+Chef de service ville, logement, habitat
 
 |
 
@@ -802,11 +1168,11 @@ A
 
 |
 
-20 points
+20
 
 |
 
-Chef du bureau programmation du logement social
+Chef d'unité logement social, adjoint au chef de service ville, logement, habitat
 
 |
 
@@ -818,11 +1184,11 @@ A
 
 |
 
-20 points
+20
 
 |
 
-Adjoint au chef du bureau ville habitat
+Adjoint unité habitat observatoire rénovation urbaine
 
 |
 
@@ -834,11 +1200,11 @@ B
 
 |
 
-15 points
+15
 
 |
 
-Secrétaire du bureau ville et habitat
+Gestionnaire du logement social auprès du chef de service ville, logement, habitat
 
 |
 
@@ -850,12 +1216,12 @@ C
 
 |
 
-5 points
-
-|
+5 |
 
 NOTA :
 
 (1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+
+(3) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
