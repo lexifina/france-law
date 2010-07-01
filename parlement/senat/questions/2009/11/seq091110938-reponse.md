@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110938
+
+- Question : [SEQ091110938](seq091110938.md) — Taxe professionnelle
+
+## Réponse
+
+*Économie, JO du 2010-07-01, page 1706*
+
+L'article 2 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 remplace, à compter du 1er janvier 2010, la taxe professionnelle (TP) par la contribution économique territoriale (CET) à deux composantes : la cotisation foncière des entreprises (CFE), fondée sur les bases foncières ; la cotisation sur la valeur ajoutée des entreprises (CVAE), dont le taux effectif - fixé au niveau national - sera progressif, allant de 0 % pour les entreprises de moins de 500 000 € de chiffre d'affaires (CA) à 1,5 % pour les entreprises de plus de 50 M€ de CA. Pour les titulaires de bénéfices non commerciaux (BNC) et assimilés, employant moins de cinq salariés et n'étant pas soumis à l'impôt sur les sociétés, la réforme, ayant principalement pour objectif de restaurer la compétitivité des entreprises françaises, et parmi elles plus particulièrement des entreprises industrielles soumises au risque de délocalisation, prévoyait un maintien de l'assiette spécifique composée des recettes et corrélativement, pour les redevables concernés, une exonération de CVAE. Toutefois, afin que ces professionnels bénéficient eux aussi d'une baisse d'imposition, le Parlement, avec l'accord du Gouvernement, a ramené la fraction imposable des recettes de 6 % à 5,5 %. Le Conseil constitutionnel, dans sa décision n° 2009-599 DC, a censuré pour rupture d'égalité devant l'impôt ce régime spécifique. Par conséquent, la loi de finances a été publiée en supprimant les modalités d'imposition spécifiques sur les recettes. Tous les titulaires de BNC et assimilés sont donc imposés à la CET dans les mêmes conditions que l'ensemble des redevables de la CET : imposition sur la seule valeur locative des biens passibles d'une taxe foncière à la CFE et imposition à la CVAE à partir de 500 000 € de recettes.
