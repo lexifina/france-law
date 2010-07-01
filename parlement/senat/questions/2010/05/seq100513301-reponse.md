@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513301
+
+- Question : [SEQ100513301](seq100513301.md) — Restitution du dépôt de garantie
+
+## Réponse
+
+*Logement, JO du 2010-07-01, page 1727*
+
+L'article 22 de la loi du 6 juillet 1989 prévoit les conditions de versement et de restitution du dépôt de garantie. Celui-ci doit être restitué au locataire dans un délai maximal de deux mois à compter de la remise des clés. Dans de nombreuses situations, ce délai est le plus souvent réduit. En effet, dès lors que l'état des lieux a été réalisé et signé par les deux parties, le bailleur rembourse le plus souvent le dépôt de garantie à l'issue de cette procédure, éventuellement diminué des frais de remise en état. La loi ne prévoit pas que le bailleur doit être en mesure de produire des factures pour justifier la réalisation des travaux. En effet, la part la plus importante des propriétaires bailleurs sur notre territoire est constituée de propriétaires ne possédant pas plus d'un ou deux logements. Dans ces conditions, imposer la production de factures ne permettrait pas aux bailleurs qui le souhaitent de réaliser eux-mêmes les travaux. Par ailleurs, l'obligation de présenter des factures serait de nature à pénaliser le locataire, puisqu'en effet, compte tenu des disponibilités des entreprises et des artisans, le délai nécessaire avant que ne commencent les travaux auxquels peuvent s'ajouter ceux nécessaires à la facturation ne permettrait pas au locataire de récupérer rapidement la somme qui lui est due. En outre, la loi prévoit que le dépôt de garantie doit être restitué dans un délai de deux mois. À défaut de restitution dans les délais, le bailleur est redevable de la somme due majorée du taux d'intérêt légal. Ce taux fixé en 2009 à 3,79 %, est largement supérieur aux taux en cours des livrets d'épargne.
