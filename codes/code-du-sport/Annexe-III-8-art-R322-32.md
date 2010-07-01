@@ -1,23 +1,19 @@
-# Article Annexe III-8 (art. R322-32)
+# Article Annexe III-8
 
-DÉCLARATION DE CONFORMITÉ " CE ".
+(Articles R. 322-32 et R. 322-33)
 
-Raison sociale et adresse (1),
+DOCUMENTATION TECHNIQUE
 
-déclare que le modèle d'équipement de protection individuelle décrit ci-après (2)
+La documentation technique visée aux articles R. 322-32 et R. 322-33 comporte toute donnée utile sur les moyens mis en œuvre par le fabricant en vue d'obtenir la conformité d'un EPI-SL avec les exigences essentielles le concernant.
 
-est conforme aux dispositions du décret n° ...
+Dans le cas des EPI-SL visés à l'article R. 322-33 du présent code, la documentation technique comporte en particulier :
 
-est identique au modèle d'équipement de protection individuelle ayant fait l'objet de l'attestation " CE " de type n° ........ délivrée par (3).
+1. Un dossier technique de fabrication constitué par :
 
-Fait à, le
+a) Les plans d'ensemble et de détail de l'EPI-SL, accompagnés, le cas échéant, de notes de calculs et des résultats d'essais des prototypes, dans la limite de ce qui est nécessaire à la vérification du respect des exigences essentielles ;
 
-Signature (4)
+b) La liste exhaustive des exigences essentielles de sécurité et de santé, et des normes harmonisées ou autres spécifications techniques prises en considération lors de la conception du modèle.
 
-(1) En cas de mandataire ou de responsable de la première mise sur le marché, indiquer également la raison sociale et l'adresse du fabricant.
+2. La description des moyens de contrôle et d'essais mis en œuvre dans l'unité de production du fabricant.
 
-(2) Description (marque, type, numéro de série, etc.).
-
-(3) Nom et adresse de l'organisme habilité.
-
-(4) Nom et fonction du signataire.
+3. Un exemplaire de la notice d'information visée au point 1. 4 de l'annexe III-5.

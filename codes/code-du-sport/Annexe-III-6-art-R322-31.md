@@ -1,23 +1,11 @@
-# Article Annexe III-6 (art. R322-31)
+# Article Annexe III-6 (art R322-29)
 
-DÉCLARATION DE CONFORMITÉ " CE ".
+Le marquage "CE" de conformité est constitué des initiales "CE" selon le graphisme suivant :
 
-Raison sociale et adresse (1),
+Vous pouvez consulter le cliché dans le JO
 
-déclare que le modèle d'équipement de protection individuelle décrit ci-après (2)
+n° 169 du 24/07/2009 texte numéro 11
 
-est conforme aux dispositions du décret n°
+En cas de réduction ou d'agrandissement du marquage "CE", les proportions telles qu'elles ressortent du graphisme figurant ci-dessus sont respectées.
 
-est conforme à la norme (3).
-
-Fait à , le
-
-Signature (4)
-
-(1) En cas de mandataire ou de responsable de la première mise sur le marché, indiquer également la raison sociale et l'adresse du fabricant.
-
-(2) Description (marque, type, numéro de série, etc.).
-
-(3) Si réalisation d'un essai de conformité aux normes.
-
-(4) Nom et fonction du signataire.
+Les différents éléments de ce marquage ont sensiblement la même dimension verticale, laquelle ne peut être inférieure à 5 mm. Il peut être dérogé à cette dimension pour les équipements de petite taille.

@@ -1,9 +1,25 @@
-# Article Annexe III-7 (art. R322-31)
+# Article Annexe III-7
 
-DOCUMENTATION TECHNIQUE
+(Articles R. 322-32 et R. 322-33)
 
-La documentation technique doit comporter :
+DÉCLARATION DE CONFORMITÉ "CE"
 
-- la description des moyens mis en oeuvre en vue d'obtenir la conformité de l'équipement de protection individuelle avec les exigences essentielles de santé et de sécurité le concernant ;
+Le fabricant, son mandataire ou, à défaut, tout responsable de la mise sur le marché établi dans la Communauté européenne (raison sociale, adresse complète ; en cas de mandataire, indiquer également la raison sociale et l'adresse du fabricant)
 
-- la description des moyens de contrôle et d'essais mis en oeuvre dans l'unité de production du fabricant.
+déclare que le modèle d'EPI-SL neuf, décrit ci-après (genre, marque, type, numéro de série, etc.)
+
+(pour tous les EPI-SL)
+
+est conforme aux dispositions de la section 4 du chapitre II du titre II du livre III de la partie réglementaire du code du sport et, le cas échéant, à la norme nationale transposant la norme européenne harmonisée (référence et date de la norme)
+
+(en plus, pour les EPI-SL de catégorie 2)
+
+est identique à l'EPI-SL ayant fait l'objet de l'attestation d'examen "CE" de type n°
+
+délivrée par (nom et adresse de l'organisme notifié ayant réalisé l'examen "CE" de type).
+
+Fait à, le
+
+Signature
+
+(nom et fonction du signataire ayant reçu pouvoir pour engager le fabricant, son mandataire ou, à défaut, le responsable de la mise sur le marché)

@@ -1,35 +1,25 @@
 # Article Annexe III-3 (art. R322-27)
 
-Les équipements de protection individuelle soumis aux dispositions du code du sport sont les suivants :
+LISTE DES EPI-SL SOUMIS AUX DISPOSITIONS DU CODE DU SPORT
 
-1. Les articles de protection des membres inférieurs et supérieurs :
+1. Articles de protection de la tête tels que les casques, couvre-chefs légers.
 
-Les chaussures comportant une partie spécifique assurant une protection ;
+2. Articles de protection de tout ou partie de la face tels que les protège-dents, masques grilles et visières.
 
-Les gants de protection, à l'exception des gants de ski ;
+3. Articles de protection de l'œil tels que les lunettes et masques de natation et de plongée, lunettes et masques de protection contre le rayonnement solaire, y compris les lunettes d'éclipse solaire.
 
-Les articles de protection des oreilles, à l'exception des articles de protection contre les conditions atmosphériques ;
+4. Articles de protection de l'oreille tels que les coques et bandeaux de protection.
 
-Les articles de protection contre le rayonnement solaire (lunettes, masques).
+5. Articles de protection du tronc tels que les tours de cou, plastrons, carapaces dorsales, protège-coccyx, coquilles, sellettes et vêtements comportant des parties assurant une protection locale.
 
-Ces équipements relèvent des dispositions de l'article R. 322-31 du code du sport.
+6. Articles de protection des membres supérieurs tels que les épaulières, coudières, protège-poignets, gants, mitaines, vêtements comportant des parties assurant une protection.
 
-2. Les masques et visières de protection de la face :
+7. Articles de protection des membres inférieurs tels que les protège-genoux, protège-tibias, protège-chevilles, chaussures et vêtements comportant des parties renforcées assurant une protection.
 
-Les protège-dents ;
+8. Articles de protection contre les glissades tels que les crampons.
 
-Les casques et bombes, à l'exception des casques destinés aux usagers de motocycles, cyclomoteurs et vélomoteurs pour utilisation sur la voie publique, et des casques et bombes pour cavaliers ;
+9. Articles de prévention des noyades tels que les bouées destinées à la navigation de plaisance.
 
-Les plastrons de protection ;
+10. Articles d'aide à la flottabilité tels que les maillots de bain avec flotteurs intégrés, brassards.
 
-Les coquilles de protection ;
-
-Les bouées et brassières de natation ;
-
-Les gilets de sécurité contre la noyade spécialement destinés à la navigation de plaisance.
-
-Ces équipements relèvent des dispositions de l'article R. 322-32 du code du sport.
-
-3. Les parachutes de secours pour parapente :
-
-Ces équipements relèvent des dispositions de l'article R. 322-33 du code du sport.
+11. Accessoires de signalisation visuelle.
