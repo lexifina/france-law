@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508616
+
+- Question : [SEQ090508616](seq090508616.md) — Exonération de taxe foncière sur les propriétés bâties pour certains hébergements touristiques
+
+## Réponse
+
+*Économie, JO du 2010-07-01, page 1705*
+
+Conformément à l'article 1383 E bis du code général des impôts (CGI), dans les zones de revitalisation rurale mentionnées à l'article 1465 A du code précité, les collectivités territoriales et leurs établissements publics de coopération intercommunale (EPCI) à fiscalité propre peuvent, par une délibération prise avant le 1er octobre d'une année pour être applicable l'année suivante, exonérer de la taxe foncière sur les propriétés bâties les locaux des hôtels affectés à l'hébergement, les gîtes ruraux, les locaux classés meublés de tourisme et les chambres d'hôtes. Cette disposition s'applique à compter des impositions établies au titre de l'année 2008. S'agissant d'une mesure d'exonération facultative, la perte de recettes qui en résulte n'est pas compensée. En effet, l'État est, d'ores et déjà, le premier contribuable local compte tenu du montant des dégrèvements qu'il finance et des compensations qu'il verse en contrepartie des pertes de recettes résultant des mesures d'exonérations accordées de plein droit. La prise en charge par l'État des conséquences des exonérations facultatives n'est donc pas envisageable. Cette situation conduirait à faire prendre en charge par l'État, et donc la collectivité nationale, le coût d'une décision prise par une collectivité territoriale. Elle serait incompatible avec la politique de maîtrise des dépenses publiques engagée par le Gouvernement. Au surplus, elle irait à l'encontre du principe de responsabilisation prévalant en matière de fiscalité directe locale selon lequel il appartient aux acteurs locaux de financer les mesures d'exonération qu'ils décident de mettre en oeuvre.
