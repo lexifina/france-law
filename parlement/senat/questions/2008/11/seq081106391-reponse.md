@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081106391
+
+- Question : [SEQ081106391](seq081106391.md) — Entreprises et zones franches urbaines
+
+## Réponse
+
+*Économie, JO du 2010-07-01, page 1705*
+
+Avant la loi de finances pour 2009, le régime de l'exonération de cotisations patronales de sécurité sociale applicable aux rémunérations versées par les entreprises implantées dans les zones franches urbaines (ZFU) consistait en une franchise de cotisations patronales d'assurances sociales et d'allocations familiales, de cotisations au Fonds national d'aide au logement (FNAL) et du versement transport, dans la limite de 1,4 SMIC, sans plafond de rémunération. Au-delà des cinq années de bénéfice de l'exonération, l'employeur voyait le montant de l'exonération diminuer progressivement, sur une période de trois ou neuf ans selon les cas, avant de cesser totalement d'en bénéficier. En application de l'article 190 de la loi de finances pour 2009, l'exonération décroît désormais à partir de 1,4 SMIC de manière linéaire et dégressive pour devenir nulle lorsque la rémunération atteint 2,4 SMIC en 2009, 2,2 SMIC en 2010 et 2 SMIC en 2011. Ce nouveau dispositif d'exonération dans les ZFU, applicable depuis le 1er janvier 2009 selon des modalités précisées par le décret n° 2009-273 du 10 mars 2009, a permis de concentrer l'exonération sur les rémunérations les plus faibles, en allégeant l'aide sur les revenus intermédiaires (de 1,4 à 2,4 SMIC) et en la supprimant au-delà de 2,4 SMIC (puis au-delà de 2,2 SMIC en 2010 et de 2 SMIC en 2011). Il a aussi pris en compte le fait que la demande de travail est plus sensible à son coût pour les faibles niveaux de rémunération. La mesure adoptée dans le cadre de la loi de finances pour 2009 a rendu de la sorte le dispositif d'exonération dans les ZFU plus efficace et plus juste, le bulletin de salaire n'ayant pour sa part subi aucune modification substantielle.
