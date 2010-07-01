@@ -1,6 +1,6 @@
 # Article Annexe
 
-A.-Emplois en administration centrale à la préfecture de police et à la préfecture de Paris
+A.-Emplois en administration centrale à la préfecture de police et à la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 1° Chef du service de l'inspection générale de l'administration :
 
@@ -34,7 +34,7 @@ Chef du service de l'inspection générale de l'administration
 
 |
 
-2° Directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris :
+2° Directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -138,7 +138,7 @@ Directeur à la préfecture de police
 
 |
 
-Directeur à la préfecture de Paris
+Directeur à la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
@@ -182,7 +182,7 @@ Adjoint au haut fonctionnaire de défense
 
 |
 
-4° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de Paris :
+4° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -242,7 +242,7 @@ Directeur de projet
 
 |
 
-5° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction de la préfecture de police (services administratifs) ou d'une sous-direction de la préfecture de Paris :
+5° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction de la préfecture de police (services administratifs) ou d'une sous-direction de la préfecture de la région d'Ile-de-France, préfecture de Paris :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -274,7 +274,7 @@ Adjoint au directeur général des collectivités locales
 
 |
 
-Adjoint au directeur de l'administration à la préfecture de Paris
+Adjoint au directeur de l'administration à la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
@@ -286,7 +286,7 @@ Adjoint au directeur de l'administration à la préfecture de Paris
 
 |
 
-6° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction ou d'un service de la préfecture de police ou d'une sous-direction de la préfecture de Paris :
+6° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction ou d'un service de la préfecture de police ou d'une sous-direction de la préfecture de la région d'Ile-de-France, préfecture de Paris :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -1050,7 +1050,7 @@ Sous-directeur de l'administration et de la modernisation
 
 |
 
-A la préfecture de Paris
+A la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
@@ -1364,7 +1364,7 @@ Préfet directeur du cabinet du préfet de police
 
 |
 
-Préfet secrétaire général de la préfecture de Paris
+Préfet secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
@@ -3060,18 +3060,6 @@ Du Val de Marne
 
 |
 
-De la Loire Atlantique
-
-|
-
-1
-
-|
-
-80
-
-|
-
 De la Haute Garonne
 
 |
@@ -3084,9 +3072,19 @@ De la Haute Garonne
 
 |
 
-Des Alpes Maritimes
+Du Bas Rhin
 
 |
+
+1
+
+|
+
+80
+
+|
+
+Des Alpes Maritimes |
 
 1
 
@@ -3109,6 +3107,18 @@ Du Pas-de-Calais
 |
 
 De l'Essonne
+
+|
+
+1
+
+|
+
+80
+
+|
+
+De Seine-et-Marne
 
 |
 
@@ -3152,18 +3162,6 @@ Autres postes
 
 |
 
-De la Corse-du-Sude
-
-|
-
-1
-
-|
-
-80
-
-|
-
 De la Haute-Corse
 
 |
@@ -3196,9 +3194,7 @@ Secrétaire général pour l'administration de la police de Versailles
 
 |
 
-Directeur adjoint du cabinet du préfet de police
-
-|
+Directeur adjoint du cabinet du préfet de police |
 
 1
 
@@ -3208,7 +3204,9 @@ Directeur adjoint du cabinet du préfet de police
 
 |
 
-Sous-préfet chargé de la sécurité et de la sûreté des plates-formes aéroportuaires auprès du préfet de Seine-Saint-Denis
+Sous-préfet chargé de la sécurité et de la sûreté des plates-formes
+
+aéroportuaires auprès du préfet de Seine-Saint-Denis
 
 |
 

@@ -1,18 +1,18 @@
 # Article ANNEXE
 
-A.-Fonctions exercées en administration centrale, à la préfecture de police ou à la préfecture de Paris
+A.-Fonctions exercées en administration centrale, à la préfecture de police ou à la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 1° Chef du service de l'inspection générale de l'administration.
 
-2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'administration territoriale de l'Etat, secrétaire général du comité interministériel de contrôle de l'immigration, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris (1).
+2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'administration territoriale de l'Etat, secrétaire général du comité interministériel de contrôle de l'immigration, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris (1).
 
 3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère.
 
 4° Expert de haut niveau ou directeur de projet.
 
-5° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de Paris.
+5° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris.
 
-6° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction de la préfecture de police (services administratifs) ou d'une sous-direction de la préfecture de Paris.
+6° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction de la préfecture de police (services administratifs) ou d'une sous-direction de la préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 7° Adjoint au haut fonctionnaire de défense.
 
@@ -30,7 +30,7 @@ Secrétaire général de la préfecture de la région Ile-de-France ;
 
 Directeur du cabinet du préfet de police ;
 
-Secrétaire général de la préfecture de Paris ;
+Secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris ;
 
 Secrétaire général pour l'administration de la police de Paris ;
 

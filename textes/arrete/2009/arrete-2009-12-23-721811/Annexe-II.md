@@ -2,7 +2,7 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES
 
-A. - Services déconcentrés du ministère de l'alimentation, de l'agriculture
+A.-Services déconcentrés du ministère de l'alimentation, de l'agriculture
 
 et de la pêche et du ministère de l'espace rural et de l'aménagement du territoire
 
@@ -30,13 +30,13 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Personnels contractuels recrutés sur la base de l'article 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ou du décret n° 69-600 du 13 juin 1969 relatif aux modalités de réalisation des enquêtes statistiques agricoles annuelles et gérés par la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France
+Personnels contractuels recrutés sur la base de l'article 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ou du décret n° 69-600 du 13 juin 1969 relatif aux modalités de réalisation des enquêtes statistiques agricoles annuelles et gérés par la direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France
 
 |
 
 |
 
-B. - Services déconcentrés du ministère de l'éducation nationale
+B.-Services déconcentrés du ministère de l'éducation nationale
 
 et du ministère de l'enseignement supérieur et de la recherche
 
@@ -64,7 +64,7 @@ Paris (enseignement du 1er et du 2e degré)
 
 |
 
-C. - Ministère du budget, des comptes publics de la fonction publique et de la réforme de l'Etat
+C.-Ministère du budget, des comptes publics de la fonction publique et de la réforme de l'Etat
 
 et ministère de l'économie, de l'industrie et de l'emploi
 
@@ -108,7 +108,7 @@ Centre informatique douanier d'Osny
 
 |
 
-Services spécialisés de la direction générale des finances publiques - Pôle gestion publique
+Services spécialisés de la direction générale des finances publiques-Pôle gestion publique
 
 |
 
@@ -128,7 +128,7 @@ Directeur départemental des finances publiques de la Seine-Saint-Denis
 
 |
 
-Services spécialisés de la direction générale des finances publiques - Pôle fiscalité
+Services spécialisés de la direction générale des finances publiques-Pôle fiscalité
 
 |
 
@@ -228,7 +228,7 @@ Personnels issus de la direction générale des douanes et droits indirects
 
 |
 
-D. - Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
+D.-Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
@@ -256,7 +256,7 @@ Trésorier-payeur général de La Réunion
 
 |
 
-E. - Services du Premier ministre. - Juridictions administratives et financières
+E.-Services du Premier ministre.-Juridictions administratives et financières
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
@@ -282,7 +282,7 @@ Chambres régionales des comptes
 
 |
 
-F. - Services déconcentrés du ministère de l'écologie, de l'énergie, du développement durable
+F.-Services déconcentrés du ministère de l'écologie, de l'énergie, du développement durable
 
 et de la mer, en charge des technologies vertes et des négociations sur le climat
 
@@ -304,7 +304,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-G. - Ministère de la défense
+G.-Ministère de la défense
 
 CATÉGORIE DE PERSONNEL EN POSTE
 

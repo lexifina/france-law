@@ -1,8 +1,8 @@
 # Article Annexe
 
-I. ― Ressort du SGAP de Paris/préfecture de Paris
+I. ― Ressort du SGAP de Paris / préfecture de la région d'Ile-de-France, préfecture de Paris
 
-1. Préfecture de police/direction de la sécurité de proximité de l'agglomération parisienne
+1. Préfecture de police / direction de la sécurité de proximité de l'agglomération parisienne
 
 A. ― Secteurs d'encadrement prioritaire
 
@@ -22,7 +22,7 @@ de proximité de la préfecture de police
 
 |
 
-D1/ASNIERES
+D1 / ASNIERES
 
 |
 
@@ -30,7 +30,7 @@ D1/ASNIERES
 
 |
 
-D3/BOULOGNE-BILLANCOURT
+D3 / BOULOGNE-BILLANCOURT
 
 |
 
@@ -38,7 +38,7 @@ D3/BOULOGNE-BILLANCOURT
 
 |
 
-D4/CHATENAY-MALABRY
+D4 / CHATENAY-MALABRY
 
 |
 
@@ -46,7 +46,7 @@ D4/CHATENAY-MALABRY
 
 |
 
-D1/CLICHY
+D1 / CLICHY
 
 |
 
@@ -54,7 +54,7 @@ D1/CLICHY
 
 |
 
-D1/COLOMBES
+D1 / COLOMBES
 
 |
 
@@ -62,7 +62,7 @@ D1/COLOMBES
 
 |
 
-D1/GENNEVILLIERS
+D1 / GENNEVILLIERS
 
 |
 
@@ -70,7 +70,7 @@ D1/GENNEVILLIERS
 
 |
 
-D3/ISSY-LES-MOULINEAUX
+D3 / ISSY-LES-MOULINEAUX
 
 |
 
@@ -78,7 +78,7 @@ D3/ISSY-LES-MOULINEAUX
 
 |
 
-D4/MONTROUGE
+D4 / MONTROUGE
 
 |
 
@@ -86,7 +86,7 @@ D4/MONTROUGE
 
 |
 
-D2/NANTERRE
+D2 / NANTERRE
 
 |
 
@@ -94,7 +94,7 @@ D2/NANTERRE
 
 |
 
-D2/RUEIL-MALMAISON
+D2 / RUEIL-MALMAISON
 
 |
 
@@ -102,7 +102,7 @@ D2/RUEIL-MALMAISON
 
 |
 
-D2/SURESNES
+D2 / SURESNES
 
 |
 
@@ -110,7 +110,7 @@ D2/SURESNES
 
 |
 
-D1/VILLENEUVE-LA-GARENNE
+D1 / VILLENEUVE-LA-GARENNE
 
 |
 
@@ -118,7 +118,7 @@ D1/VILLENEUVE-LA-GARENNE
 
 |
 
-D2/AUBERVILLIERS
+D2 / AUBERVILLIERS
 
 |
 
@@ -126,7 +126,7 @@ D2/AUBERVILLIERS
 
 |
 
-D3/AULNAY-SOUS-BOIS
+D3 / AULNAY-SOUS-BOIS
 
 |
 
@@ -134,7 +134,7 @@ D3/AULNAY-SOUS-BOIS
 
 |
 
-D1/BOBIGNY
+D1 / BOBIGNY
 
 |
 
@@ -142,7 +142,7 @@ D1/BOBIGNY
 
 |
 
-D1/BONDY
+D1 / BONDY
 
 |
 
@@ -150,7 +150,7 @@ D1/BONDY
 
 |
 
-D1/DRANCY
+D1 / DRANCY
 
 |
 
@@ -158,7 +158,7 @@ D1/DRANCY
 
 |
 
-D2/EPINAY-SUR-SEINE
+D2 / EPINAY-SUR-SEINE
 
 |
 
@@ -166,7 +166,7 @@ D2/EPINAY-SUR-SEINE
 
 |
 
-D4/GAGNY
+D4 / GAGNY
 
 |
 
@@ -174,7 +174,7 @@ D4/GAGNY
 
 |
 
-D2/LA COURNEUVE
+D2 / LA COURNEUVE
 
 |
 
@@ -182,7 +182,7 @@ D2/LA COURNEUVE
 
 |
 
-D3/LE BLANC-MESNIL
+D3 / LE BLANC-MESNIL
 
 |
 
@@ -190,7 +190,7 @@ D3/LE BLANC-MESNIL
 
 |
 
-D3/LE RAINCY
+D3 / LE RAINCY
 
 |
 
@@ -198,7 +198,7 @@ D3/LE RAINCY
 
 |
 
-D1/LES LILAS
+D1 / LES LILAS
 
 |
 
@@ -206,7 +206,7 @@ D1/LES LILAS
 
 |
 
-D3/LIVRY-GARGAN
+D3 / LIVRY-GARGAN
 
 |
 
@@ -214,7 +214,7 @@ D3/LIVRY-GARGAN
 
 |
 
-D4/MONTREUIL
+D4 / MONTREUIL
 
 |
 
@@ -222,7 +222,7 @@ D4/MONTREUIL
 
 |
 
-D4/NEUILLY-SUR-MARNE
+D4 / NEUILLY-SUR-MARNE
 
 |
 
@@ -230,7 +230,7 @@ D4/NEUILLY-SUR-MARNE
 
 |
 
-D4/NOISY-LE-GRAND
+D4 / NOISY-LE-GRAND
 
 |
 
@@ -238,7 +238,7 @@ D4/NOISY-LE-GRAND
 
 |
 
-D1/PANTIN
+D1 / PANTIN
 
 |
 
@@ -246,7 +246,7 @@ D1/PANTIN
 
 |
 
-D4/ROSNY-SOUS-BOIS
+D4 / ROSNY-SOUS-BOIS
 
 |
 
@@ -254,7 +254,7 @@ D4/ROSNY-SOUS-BOIS
 
 |
 
-D2/SAINT-DENIS
+D2 / SAINT-DENIS
 
 |
 
@@ -262,7 +262,7 @@ D2/SAINT-DENIS
 
 |
 
-D2/SAINT-OUEN
+D2 / SAINT-OUEN
 
 |
 
@@ -270,7 +270,7 @@ D2/SAINT-OUEN
 
 |
 
-D2/STAINS
+D2 / STAINS
 
 |
 
@@ -278,7 +278,7 @@ D2/STAINS
 
 |
 
-D3/VILLEPINTE
+D3 / VILLEPINTE
 
 |
 
@@ -286,7 +286,7 @@ D3/VILLEPINTE
 
 |
 
-D4/CHAMPIGNY
+D4 / CHAMPIGNY
 
 |
 
@@ -294,7 +294,7 @@ D4/CHAMPIGNY
 
 |
 
-D4/CHENNEVIERES-SUR-MARNE
+D4 / CHENNEVIERES-SUR-MARNE
 
 |
 
@@ -302,7 +302,7 @@ D4/CHENNEVIERES-SUR-MARNE
 
 |
 
-D2/CHOISY-LE-ROI
+D2 / CHOISY-LE-ROI
 
 |
 
@@ -310,7 +310,7 @@ D2/CHOISY-LE-ROI
 
 |
 
-D1/CRETEIL
+D1 / CRETEIL
 
 |
 
@@ -318,7 +318,7 @@ D1/CRETEIL
 
 |
 
-D2/IVRY-SUR-SEINE
+D2 / IVRY-SUR-SEINE
 
 |
 
@@ -326,7 +326,7 @@ D2/IVRY-SUR-SEINE
 
 |
 
-D3/LE KREMLIN-BICETRE
+D3 / LE KREMLIN-BICETRE
 
 |
 
@@ -334,7 +334,7 @@ D3/LE KREMLIN-BICETRE
 
 |
 
-D3/L'HAY-LES-ROSES
+D3 / L'HAY-LES-ROSES
 
 |
 
@@ -342,7 +342,7 @@ D3/L'HAY-LES-ROSES
 
 |
 
-D4/NOGENT-SUR-MARNE
+D4 / NOGENT-SUR-MARNE
 
 |
 
@@ -350,7 +350,7 @@ D4/NOGENT-SUR-MARNE
 
 |
 
-D2/VILLENEUVE-SAINT-GEORGES
+D2 / VILLENEUVE-SAINT-GEORGES
 
 |
 
@@ -358,7 +358,7 @@ D2/VILLENEUVE-SAINT-GEORGES
 
 |
 
-D4/VINCENNES
+D4 / VINCENNES
 
 |
 
@@ -366,7 +366,7 @@ D4/VINCENNES
 
 |
 
-D1/ALFORTVILLE
+D1 / ALFORTVILLE
 
 |
 
@@ -374,7 +374,7 @@ D1/ALFORTVILLE
 
 |
 
-D2/VITRY-SUR-SEINE
+D2 / VITRY-SUR-SEINE
 
 |
 
@@ -396,7 +396,7 @@ Unité territoriale 75 de la compagnie de sécurisation de l'agglomération
 
 |
 
-75/92/93/94
+75 / 92 / 93 / 94
 
 |
 
@@ -404,7 +404,7 @@ Sous-direction régionale de police des transports
 
 |
 
-2. Préfecture de police/direction de l'ordre public et de la circulation
+2. Préfecture de police / direction de l'ordre public et de la circulation
 
 DÉPARTEMENTS
 
@@ -430,7 +430,7 @@ Compagnies de circulation du service des compagnies centrales de circulation
 
 |
 
-II. ― Ressort du SGAP de Versailles/direction centrale de la sécurité publique
+II. ― Ressort du SGAP de Versailles / direction centrale de la sécurité publique
 
 DÉPARTEMENTS
 

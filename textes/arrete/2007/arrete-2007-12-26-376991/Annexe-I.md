@@ -6,7 +6,7 @@ LOCALISATION DE L'EMPLOI
 
 |
 
-Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire
+Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de la région d'Ile-de-France, préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire
 
 |
 

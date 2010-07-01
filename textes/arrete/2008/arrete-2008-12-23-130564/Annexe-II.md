@@ -898,7 +898,7 @@ Chef du garage
 
 |
 
-Responsable de la section "Jardins"
+Responsable de la section " Jardins "
 
 |
 
@@ -1094,11 +1094,11 @@ Chef du garage
 
 |
 
-Préfecture de Paris
+Préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
-Responsable "Sécurité, accueil et logistique" (site Daumesnil)
+Responsable " Sécurité, accueil et logistique " (site Daumesnil)
 
 |
 
@@ -1536,7 +1536,7 @@ Responsable du service rapide (Colomiers)
 
 |
 
-Adjoint au chef de la section "Roulage" au BMM (Bordeaux)
+Adjoint au chef de la section " Roulage " au BMM (Bordeaux)
 
 |
 
@@ -1548,7 +1548,7 @@ Adjoint au chef de la section "Roulage" au BMM (Bordeaux)
 
 |
 
-Responsable de la cellule "Désaturation et expertise" au BMM (Bordeaux)
+Responsable de la cellule " Désaturation et expertise " au BMM (Bordeaux)
 
 |
 
@@ -1580,7 +1580,7 @@ SGAP de la zone de défense Est
 
 |
 
-Responsable de l'équipe du service "Immobilier" (délégation régionale de Dijon)
+Responsable de l'équipe du service " Immobilier " (délégation régionale de Dijon)
 
 |
 
@@ -1650,7 +1650,7 @@ Responsable du service roulage (Rennes)
 
 |
 
-Responsable de l'équipe du service "Immobilier" (délégation régionale de Tours)
+Responsable de l'équipe du service " Immobilier " (délégation régionale de Tours)
 
 |
 
@@ -1700,7 +1700,7 @@ Adjoint au chef de l'atelier automobile avancé de Meylan
 
 |
 
-Adjoint au chef de la section "Roulage" (Lyon)
+Adjoint au chef de la section " Roulage " (Lyon)
 
 |
 
@@ -1714,7 +1714,7 @@ Adjoint au chef de la section "Roulage" (Lyon)
 
 |
 
-Coordinateur technique "Constructeurs automobiles" (Lyon)
+Coordinateur technique " Constructeurs automobiles " (Lyon)
 
 |
 
@@ -1840,7 +1840,7 @@ Direction des systèmes d'information et de communication
 
 |
 
-Responsable de la cellule "Fabrication CNI" (Lognes)
+Responsable de la cellule " Fabrication CNI " (Lognes)
 
 |
 
@@ -1884,7 +1884,7 @@ Direction de la sécurité civile
 
 |
 
-Chef de l'atelier "Impression"
+Chef de l'atelier " Impression "
 
 |
 
