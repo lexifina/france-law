@@ -262,7 +262,7 @@ Le personnel est formé à la mise en œuvre de l'ensemble des moyens de secours
 
 4.4. Matériels utilisables en atmosphères explosibles
 
-Dans les parties de l'installation visées au point 4.1 et recensées "atmosphères explosibles", les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
+Dans les parties de l'installation visées au point 4.1 et recensées atmosphères explosibles , les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
 
 Cependant, dans les parties de l'installation où des atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendre ni arc, ni étincelle, ni surface chaude susceptible de provoquer une explosion.
 
@@ -270,13 +270,13 @@ Les canalisations électriques ne sont pas une cause possible d'inflammation et 
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation, visées au point 4.1, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction est affichée en caractères apparents en limite de zone.
+Dans les parties de l'installation, visées au point 4.1, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu. Cette interdiction est affichée en caractères apparents en limite de zone.
 
-4.6. "Permis d'intervention", "permis de feu" dans les parties de l'installation visées au point 4.1
+4.6. Permis d'intervention , permis de feu dans les parties de l'installation visées au point 4.1
 
-Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un "permis d'intervention" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un permis d'intervention et éventuellement d'un permis de feu et en respectant les règles d'une consigne particulière.
 
-Le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
+Le permis d'intervention et éventuellement le permis de feu et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le permis d'intervention et éventuellement le permis de feu et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations est effectuée par l'exploitant ou son représentant.
 
@@ -284,9 +284,9 @@ Après la fin des travaux et avant la reprise de l'activité, une vérification 
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-― l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.1 "incendie" et "atmosphères explosives" ;
+― l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.1 incendie et atmosphères explosives ;
 
-― l'obligation du "permis d'intervention" ou du "permis de feu" pour les parties de l'installation visées au point 4.1 ;
+― l'obligation du permis d'intervention ou du permis de feu pour les parties de l'installation visées au point 4.1 ;
 
 ― les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
@@ -416,7 +416,9 @@ Si le flux massique est supérieur à 0,5 kg/h, les gaz rejetés à l'atmosphèr
 
 6.2.2. Composés organiques volatils (COV)
 
-A. ― Pour les installations appliquant de l'émail sur des produits céramiques
+A. ― Pour les installations appliquant de l'émail
+
+sur des produits céramiques
 
 Sans objet.
 
@@ -426,17 +428,17 @@ a) Définitions
 
 On entend par :
 
-― "composé organique volatil" (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 °K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
+― composé organique volatil (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières.
 
-― "solvant organique", tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
+― solvant organique , tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
 
-― "consommation de solvants organiques", la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
+― consommation de solvants organiques , la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
 
-― "réutilisation", l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
+― réutilisation , l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de réutilisation les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
 
-― "utilisation de solvants organiques", la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
+― utilisation de solvants organiques , la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
 
-― "émission diffuse de COV", toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
+― émission diffuse de COV , toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
 
 b) Valeurs limites d'émission
 
@@ -446,11 +448,11 @@ I. ― Cas général.
 
 Si le flux horaire total de COV (1) dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m³. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
 
-II. ― Substances à phrases de risque R 45, R 46, R 49, R 60, R 61 (substances cancérigènes, mutagènes ou toxiques pour la reproduction de catégorie 1 et 2) et halogénés étiquetés R 40, telles que définies dans l'arrêté du 20 avril 1994 susvisé.
+6.2.2.B. b. II. - Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mention de danger H341 ou étiquetées R40, telles que définies dans l'arrêté du 20 avril 1994 :
 
-Les substances ou préparations auxquelles sont attribuées, ou sur lesquelles sont apposées, les phrases de risque R 45, R 46, R 49, R 60 ou R 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins dangereuses ou non dangereuses. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée, si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite ci-dessus se rapporte à la somme massique des différents composés.
+Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-Pour les émissions des composés organiques volatils halogénés étiquetés R 40, une valeur limite d'émission de 20 mg/m³ exprimée en carbone total est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées la mention de danger H341 ou la phrase de risque R40, une valeur limite d'émission de 20 mg/m³ est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
 (1) Pour les procédés discontinus, le flux horaire total de COV se calcule sur une journée représentative de l'année, en divisant la quantité journalière de COV émise par le nombre d'heures effectivement travaillées.
 
@@ -620,9 +622,9 @@ Le brûlage des déchets à l'air libre est interdit.
 
 Au sens du présent arrêté, on appelle :
 
-- "émergence" : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
+- émergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
-- "zones à émergence réglementées" :
+- zones à émergence réglementées :
 
 - l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles ;
 
@@ -650,7 +652,9 @@ existant dans les zones
 
 pour la période allant de
 
-7 heures à 22 heures,
+7 heures
+
+à 22 heures,
 
 sauf dimanches et jours fériés
 
@@ -660,11 +664,7 @@ sauf dimanches et jours fériés
 
 pour la période allant de 22 heures
 
-à 7 heures,
-
-ainsi que les dimanches
-
-et jours fériés
+à 7 heures, ainsi que les dimanches et jours fériés
 
 |
 
