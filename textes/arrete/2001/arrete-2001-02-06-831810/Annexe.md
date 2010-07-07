@@ -3736,7 +3736,7 @@ Indice de peroxyde inférieur à 10 mmoles/L (**).
 
 |
 
-Terpene terpenoids sinpine.
+Terpene et terpenoids.
 
 (n° CAS 68917-63-5.)
 
@@ -4207,6 +4207,26 @@ Allyl trimethylhexanoate.
 |
 
 Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.
+
+|
+
+|
+
+151 bis |
+
+Allyl phénéthyl éther
+
+N° CAS : 14289-65-7
+
+N° CE : 238-212-2
+
+|
+
+|
+
+|
+
+Le niveau d'alcool allylique libre dans l'éther doit être inférieur à 0,1 %
 
 |
 
@@ -5980,6 +6000,50 @@ Ne vous colorez pas les cheveux si :
 
 |
 
+206 |
+
+Absolue de verbena (Lippia citriodora Kunth.)
+
+N° CAS : 8024-12-2
+
+|
+
+|
+
+0,2 % |
+
+|
+
+|
+
+207 |
+
+Ethyl Lauroyl Arginate HCl (INCI) (16)
+
+N alpha-dodécanoyl-L-arginate d'éthyle, hydrochloré
+
+N° CAS 60372-77-2
+
+N° CE 434-630-6
+
+|
+
+(a) Savons
+
+(b) Shampoings antipelliculaires
+
+(c) Déodorants autres que sous forme de spray
+
+|
+
+0,8 % |
+
+A des fins autres qu'inhiber le développement de micro-organismes dans le produit. Cette fin doit ressortir de la présentation du produit.
+
+|
+
+|
+
 a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 (1) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne soit pas supérieure à 1.
@@ -6011,3 +6075,5 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 (***) La somme de ces mélanges utilisés en combinaison ne doit pas dépasser les limites indiquées dans la colonne d.
 
 (15) L'utilisation de la base libre et des sels de ce colorant est autorisée, sauf interdiction au titre de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
+
+(16) Pour une utilisation comme agent conservateur, voir le numéro d'ordre 58 de l'arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques.
