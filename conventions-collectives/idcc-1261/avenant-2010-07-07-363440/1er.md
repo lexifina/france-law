@@ -1,0 +1,49 @@
+# Article 1er
+
+L'article 3 du chapitre III est ainsi rédigé. Il annule et remplace le précédent.
+
+« Article 3
+
+Embauche
+
+Le salarié ayant été informé des finalités et du fonctionnement de l'association, l'engagement verbal lui est confirmé par lettre, à défaut de l'envoi immédiat du contrat de travail.
+
+Un contrat de travail doit être établi et remis au salarié à son embauche dans un délai de :
+
+- 8 jours pour un contrat à durée indéterminée ;
+
+- 2 jours pour un contrat à durée déterminée.
+
+Il mentionne les rubriques obligatoires prévues du code du travail et notamment :
+
+- la référence à la convention collective dont un exemplaire est mis à disposition ;
+
+- la date de prise d'effet ;
+
+- le lieu où s'exerce l'emploi ;
+
+- pour les contrats de travail à temps partiel, la répartition des heures de travail ainsi que les règles de modifications éventuelles de cette répartition ;
+
+- la durée de travail ;
+
+- la période de modulation, s'il y a lieu ;
+
+- le libellé de l'emploi et les fonctions exercées ;
+
+- la référence à l'emploi repère ;
+
+- le total des points attribués à l'emploi (pesée) ;
+
+- les éléments de la rémunération annuelle brute ;
+
+- la durée de la période d'essai ;
+
+- la durée du délai-congé en cas de licenciement ou de démission ;
+
+- le type de régime de retraite complémentaire et de régime de prévoyance ainsi que le taux et la répartition des cotisations ;
+
+- le cas échéant, le pourcentage et le taux de reprise de la RIS dans les conditions prévues à l'article 4 du chapitre V.
+
+Toute modification individuelle au contrat de travail est notifiée au salarié par un avenant.
+
+Le règlement intérieur est affiché dans les conditions prévues par le code du travail. »
