@@ -1,0 +1,87 @@
+# Article 1er
+
+Un article 7 est ajouté au chapitre XI « Dispositions spéciales pour les cadres » de la convention collective, ainsi rédigé :
+
+« Article 7
+
+Conventions de forfait en jours sur l'année
+
+Le personnel d'encadrement tel que défini à l'article 1er du chapitre XI de la convention collective est normalement assujetti aux règles relatives à la durée du travail définies par les dispositions législatives, réglementaires et conventionnelles en vigueur.
+
+Néanmoins, un forfait annuel en jours pourra être proposé par l'employeur selon les dispositions spécifiques énumérées ci-dessous aux cadres expressément définis ci-après.
+
+Article 7.1
+
+Mise en œuvre
+
+La mise en œuvre à l'initiative de l'employeur d'un forfait annuel en jours, pour les salariés expressément définis ci-après à l'article 7.2 qui l'acceptent, doit faire l'objet d'une négociation dans les entreprises ou établissements où existent des représentants du personnel en capacité de conclure des accords collectifs. Lorsque, dans ces entreprises ou établissements, la négociation engagée en application de l'alinéa ci-dessus n'a pas abouti à la conclusion d'un accord, l'employeur peut proposer aux salariés définis ci-après la mise en œuvre d'un forfait annuel en jours selon les dispositions ci-dessous énoncées.
+
+Dans les entreprises non dotées de représentants du personnel en capacité de conclure des accords collectifs, l'employeur pourra proposer aux salariés définis ci-après à l'article 7.2 l'application d'un forfait annuel en jours selon les modalités et conditions suivantes énoncées ci-après.
+
+L'application du forfait annuel en jours devra faire l'objet d'une mention au contrat de travail.
+
+Article 7.2
+
+Bénéficiaires
+
+Les cadres tels que définis à l'article 1er du chapitre XI de la convention collective dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent, du degré d'autonomie important dont ils disposent dans leur emploi du temps et de délégations qui leur sont attribuées, peuvent se voir proposer une convention de forfait en jours sur l'année par l'employeur.
+
+Article 7.3
+
+Nombre de jours travaillés
+
+Le contrat de travail détermine le nombre de jours sur la base duquel le forfait annuel en jours est défini. Le nombre de jours travaillés sur la base duquel le forfait est défini ne peut excéder 218 jours ouvrés par année civile ou toute autre période de 12 mois consécutifs définie au contrat de travail.
+
+Le contrat de travail peut prévoir des périodes de présence nécessaires au bon fonctionnement de l'association.
+
+Article 7.4
+
+Dépassement du plafond
+
+Le plafond tel que fixé dans le contrat de travail pourra, de manière exceptionnelle, à la demande expresse de l'employeur être dépassé.
+
+Cette possibilité doit être établie par écrit dans le contrat de travail qui précise, dans tel cas, le nombre de jours travaillés dans l'année, qui ne peut excéder un nombre maximal de 225 jours. Le contrat de travail doit mentionner le taux de la majoration de 10 % applicable à la rémunération de ces jours de travail supplémentaires entre 218 et 225.
+
+Article 7.5
+
+Durée maximale des cadres visés
+
+Les salariés concernés par une convention de forfait en jours ne sont pas soumis aux dispositions relatives :
+
+– aux durées légales et conventionnelles hebdomadaires de travail ;
+
+– aux durées légales et conventionnelles quotidienne maximale du travail ;
+
+– aux durées légales et conventionnelles hebdomadaires maximales de travail.
+
+Les dispositions conventionnelles relatives au repos quotidien (art. 1.3.1 du chapitre IV) et au repos hebdomadaire (art. 1.3.2 du chapitre IV) ne sont pas applicables à ces salariés cadres.
+
+En revanche, les règles légales relatives au repos quotidien (11 heures consécutives) et au repos hebdomadaire (6 jours de travail maximum par semaine et repos hebdomadaire de 24 heures consécutives en principe le dimanche) leur sont applicables.
+
+Article 7.6
+
+Repos
+
+Les jours de repos liés à cet aménagement du temps de travail des cadres autonomes doivent être pris par journée, d'un commun accord entre l'employeur et le salarié, compte tenu des impératifs de fonctionnement spécifiques à l'entreprise.
+
+Article 7.7
+
+Rémunération
+
+La rémunération forfaitaire, versée mensuellement au salarié au regard de la grille conventionnelle de classification, est indépendante du nombre d'heures de travail effectif accompli durant la période de paie et du nombre d'heures de travail effectif accompli au cours d'une journée.
+
+Article 7.8
+
+Document de suivi
+
+Un planning mensuel prévisionnel et un bilan annuel de contrôle des journées travaillées, des jours de repos et jours de congés sera tenu par l'employeur.
+
+A cet effet, les cadres concernés doivent remettre,1 fois par mois à l'employeur qui le valide un document récapitulant le nombre de jours déjà travaillés, le nombre de jours de repos pris et restant à prendre.
+
+En outre, le comité d'entreprise ou, le cas échéant, le conseil d'établissement devra être consulté chaque année sur le recours aux conventions de forfait et sur les modalités de suivi de la charge de travail des salariés concernés.
+
+Article 7.9
+
+Entretien annuel
+
+Un entretien annuel individuel est organisé par l'employeur, avec chaque salarié ayant conclu une convention de forfait en jours sur l'année. Il porte sur la charge de travail du salarié, l'organisation du travail dans l'entreprise, l'articulation entre l'activité professionnelle et la vie personnelle et familiale, ainsi que sur la rémunération du salarié. »
