@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090107004
+
+- Question : [SEQ090107004](seq090107004.md) — Pension des personnes atteintes de maladies chroniques ou en situation d'invalidité
+
+## Réponse
+
+*Travail, JO du 2010-07-08, page 1794*
+
+Le ministre du travail, de la solidarité et de la fonction publique a pris connaissance avec intérêt de la question relative au dispositif de pensions destinées aux personnes invalides ou atteintes de maladies chroniques. La règle selon laquelle la pension d'invalidité est imposable trouve sa justification dans le fait que la pension est versée à l'assuré afin de compenser une perte de gain liée à son invalidité. À ce titre et tout comme les autres prestations en espèces de l'assurance maladie (notamment les indemnités journalières), cette forme de compensation remplace un revenu disparu et doit donc être soumise à l'impôt. Il a toutefois été prévu des exonérations au caractère imposable de la pension d'invalidité en fonction des ressources. Si la pension d'invalidité, versée à la base sans condition de ressources, est d'un montant inférieur à celui de l'allocation aux vieux travailleurs salariés (3 153,30 € par an) et si les ressources de l'intéressé ne dépassent pas le plafond prévu pour l'attribution de cette allocation (8 309,27 € par an), la pension ne sera pas soumise à l'impôt. Concernant l'allocation aux adultes handicapés (AAH) et l'allocation supplémentaire d'invalidité (ASI), il est exact que ces deux allocations ne sont pas imposables. Il convient toutefois de rappeler que les conditions d'ouverture des droits pour ces allocations reposent non seulement sur le taux d'incapacité, comme l'invalidité, mais également, à la différence de cette dernière, sur l'évaluation des ressources qui ne doivent pas dépasser certains plafonds (8 179,56 € par an pour une personne seule pour l'AAH ; 7859,08 € par an pour une personne seule pour l'ASI).
