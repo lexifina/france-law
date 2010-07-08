@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513570
+
+- Question : [SEQ100513570](seq100513570.md) — Aménagement de l'espace, SCOT et pays
+
+## Réponse
+
+*Espace rural, JO du 2010-07-08, page 1790*
+
+La circulaire du 27 mai 2008, prise par M. Hubert Falco, secrétaire d'État chargé de l'aménagement du territoire, incitait les préfets à sensibiliser les élus locaux aux enjeux d'une bonne gestion de l'espace, sans attendre l'issue législative du Grenelle de l'environnement, et à s'assurer que les démarches locales de planification engagées respectaient bien les objectifs nationaux de maîtrise de la consommation de l'espace et de lutte contre le réchauffement climatique. Cette recommandation visait logiquement les schémas de cohérence territoriale, mais aussi les programmes locaux de l'habitat et les plans de déplacement urbain. La loi Grenelle II, dont l'adoption est désormais imminente, prévoit la généralisation des SCOT à l'horizon du 1er janvier 2017. Par ailleurs, les documents de planification et d'urbanisme existants devront être mis en conformité avec les prescriptions de la loi. Dans ce contexte, le travail de sensibilisation et d'accompagnement engagé par les préfets dès 2008 se révèle particulièrement utile. Le MEEDEM va également mettre en place des groupes de travail avec les associations d'élus pour accompagner la mise en oeuvre du volet urbanisme du Grenelle. Votre interrogation sur l'articulation entre démarche de pays et démarche de SCOT semble traduire une inquiétude qui n'a pas lieu d'être, les deux étant parfaitement complémentaires. En effet, la vocation du pays est d'élaborer et de coordonner la mise en oeuvre d'un projet de développement, dont le SCOT représente la traduction spatiale. Le projet du pays doit intégrer les enjeux du développement durable ; le SCOT, comme les autres outils de mise en oeuvre, permet de les décliner de façon opérationnelle.
