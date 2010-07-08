@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513564
+
+- Question : [SEQ100513564](seq100513564.md) — Correspondances et communications entre le Contrôleur général des lieux de privation de liberté et les détenus
+
+## Réponse
+
+*Justice, JO du 2010-07-08, page 1793*
+
+La confidentialité des correspondances et communications échangées entre le contrôleur général des lieux de privation de liberté et les personnes détenues doit être respectée. Conformément aux dispositions de la circulaire JUSA0818319C du 18 juin 2008 relative aux modalités d'intervention du contrôleur général des lieux de privation de liberté, les courriers des personnes détenues au contrôleur général lui sont adressés sous pli fermé et ne font l'objet d'aucun contrôle. Les lettres reçues du contrôleur général, à leur attention, ne doivent pas non plus être ouvertes par l'administration. Ces dispositions sont érigées au niveau législatif par la loi pénitentiaire du 24 novembre 2009. L'ouverture de ces courriers par les personnels pénitentiaires est exceptionnelle et toujours accidentelle ; ils sont d'ailleurs immédiatement refermés. Le caractère confidentiel de ces correspondances est rappelé régulièrement aux services pénitentiaires, notamment dernièrement par note du directeur de l'administration pénitentiaire en date du 27 avril. En référence aux dispositions de l'article D. 262 du code de procédure pénale, et à l'instar des appels aux avocats, le directeur de l'administration pénitentiaire a également autorisé par cette note que les appels téléphoniques au contrôleur général bénéficient d'une totale confidentialité et ne fassent l'objet d'aucun enregistrement, ni écoute. Bien que la loi soit muette sur ce point, ces dispositions démontrent que l'administration pénitentiaire entend permettre pleinement l'exercice de ce droit.
