@@ -1,6 +1,8 @@
 # Article Barème B
 
-Traitements annuels bruts soumis à retenue pour pension à compter du 1er octobre 2009
+Traitements annuels bruts soumis à retenue
+
+pour pension à compter du 1er juillet 2010
 
 INDICES
 
@@ -20,7 +22,7 @@ soumis à retenue pour pension
 
 |
 
-11 223,28
+11 279,39
 
 |
 
@@ -28,7 +30,7 @@ soumis à retenue pour pension
 
 |
 
-11 278,57
+11 334,95
 
 |
 
@@ -36,7 +38,7 @@ soumis à retenue pour pension
 
 |
 
-11 333,86
+11 390,52
 
 |
 
@@ -44,7 +46,7 @@ soumis à retenue pour pension
 
 |
 
-11 389,14
+11 446,08
 
 |
 
@@ -52,7 +54,7 @@ soumis à retenue pour pension
 
 |
 
-11 444,43
+11 501,64
 
 |
 
@@ -60,7 +62,7 @@ soumis à retenue pour pension
 
 |
 
-11 499,72
+11 557,21
 
 |
 
@@ -68,7 +70,7 @@ soumis à retenue pour pension
 
 |
 
-11 555,00
+11 612,77
 
 |
 
@@ -76,7 +78,7 @@ soumis à retenue pour pension
 
 |
 
-11 610,29
+11 668,34
 
 |
 
@@ -84,7 +86,7 @@ soumis à retenue pour pension
 
 |
 
-11 665,58
+11 723,90
 
 |
 
@@ -92,7 +94,7 @@ soumis à retenue pour pension
 
 |
 
-11 720,87
+11 779,46
 
 |
 
@@ -100,7 +102,7 @@ soumis à retenue pour pension
 
 |
 
-11 776,15
+11 835,03
 
 |
 
@@ -108,7 +110,7 @@ soumis à retenue pour pension
 
 |
 
-11 831,44
+11 890,59
 
 |
 
@@ -116,7 +118,7 @@ soumis à retenue pour pension
 
 |
 
-11 886,73
+11 946,15
 
 |
 
@@ -124,7 +126,7 @@ soumis à retenue pour pension
 
 |
 
-11 942,01
+12 001,72
 
 |
 
@@ -132,7 +134,7 @@ soumis à retenue pour pension
 
 |
 
-11 997,30
+12 057,28
 
 |
 
@@ -140,7 +142,7 @@ soumis à retenue pour pension
 
 |
 
-12 052,59
+12 112,84
 
 |
 
@@ -148,7 +150,7 @@ soumis à retenue pour pension
 
 |
 
-12 107,87
+12 168,41
 
 |
 
@@ -156,7 +158,7 @@ soumis à retenue pour pension
 
 |
 
-12 163,16
+12 223,97
 
 |
 
@@ -164,7 +166,7 @@ soumis à retenue pour pension
 
 |
 
-12 218,45
+12 279,53
 
 |
 
@@ -172,7 +174,7 @@ soumis à retenue pour pension
 
 |
 
-12 273,74
+12 335,10
 
 |
 
@@ -180,7 +182,7 @@ soumis à retenue pour pension
 
 |
 
-12 329,02
+12 390,66
 
 |
 
@@ -188,7 +190,7 @@ soumis à retenue pour pension
 
 |
 
-12 384,31
+12 446,22
 
 |
 
@@ -196,7 +198,7 @@ soumis à retenue pour pension
 
 |
 
-12 439,60
+12 501,79
 
 |
 
@@ -204,7 +206,7 @@ soumis à retenue pour pension
 
 |
 
-12 494,88
+12 557,35
 
 |
 
@@ -212,7 +214,7 @@ soumis à retenue pour pension
 
 |
 
-12 550,17
+12 612,91
 
 |
 
@@ -220,7 +222,7 @@ soumis à retenue pour pension
 
 |
 
-12 605,46
+12 668,48
 
 |
 
@@ -228,7 +230,7 @@ soumis à retenue pour pension
 
 |
 
-12 660,75
+12 724,04
 
 |
 
@@ -236,7 +238,7 @@ soumis à retenue pour pension
 
 |
 
-12 716,03
+12 779,61
 
 |
 
@@ -244,7 +246,7 @@ soumis à retenue pour pension
 
 |
 
-12 771,32
+12 835,17
 
 |
 
@@ -252,7 +254,7 @@ soumis à retenue pour pension
 
 |
 
-12 826,61
+12 890,73
 
 |
 
@@ -260,7 +262,7 @@ soumis à retenue pour pension
 
 |
 
-12 881,89
+12 946,30
 
 |
 
@@ -268,7 +270,7 @@ soumis à retenue pour pension
 
 |
 
-12 937,18
+13 001,86
 
 |
 
@@ -276,7 +278,7 @@ soumis à retenue pour pension
 
 |
 
-12 992,47
+13 057,42
 
 |
 
@@ -284,7 +286,7 @@ soumis à retenue pour pension
 
 |
 
-13 047,76
+13 112,99
 
 |
 
@@ -292,7 +294,7 @@ soumis à retenue pour pension
 
 |
 
-13 103,04
+13 168,55
 
 |
 
@@ -300,7 +302,7 @@ soumis à retenue pour pension
 
 |
 
-13 158,33
+13 224,11
 
 |
 
@@ -308,7 +310,7 @@ soumis à retenue pour pension
 
 |
 
-13 213,62
+13 279,68
 
 |
 
@@ -316,7 +318,7 @@ soumis à retenue pour pension
 
 |
 
-13 268,90
+13 335,24
 
 |
 
@@ -324,7 +326,7 @@ soumis à retenue pour pension
 
 |
 
-13 324,19
+13 390,80
 
 |
 
@@ -332,7 +334,7 @@ soumis à retenue pour pension
 
 |
 
-13 379,48
+13 446,37
 
 |
 
@@ -340,7 +342,7 @@ soumis à retenue pour pension
 
 |
 
-13 434,77
+13 501,93
 
 |
 
@@ -348,7 +350,7 @@ soumis à retenue pour pension
 
 |
 
-13 490,05
+13 557,49
 
 |
 
@@ -356,7 +358,7 @@ soumis à retenue pour pension
 
 |
 
-13 545,34
+13 613,06
 
 |
 
@@ -364,7 +366,7 @@ soumis à retenue pour pension
 
 |
 
-13 600,63
+13 668,62
 
 |
 
@@ -372,7 +374,7 @@ soumis à retenue pour pension
 
 |
 
-13 655,91
+13 724,18
 
 |
 
@@ -380,7 +382,7 @@ soumis à retenue pour pension
 
 |
 
-13 711,20
+13 779,75
 
 |
 
@@ -388,7 +390,7 @@ soumis à retenue pour pension
 
 |
 
-13 766,49
+13 835,31
 
 |
 
@@ -396,7 +398,7 @@ soumis à retenue pour pension
 
 |
 
-13 821,78
+13 890,88
 
 |
 
@@ -404,7 +406,7 @@ soumis à retenue pour pension
 
 |
 
-13 877,06
+13 946,44
 
 |
 
@@ -412,7 +414,7 @@ soumis à retenue pour pension
 
 |
 
-13 932,35
+14 002,00
 
 |
 
@@ -420,7 +422,7 @@ soumis à retenue pour pension
 
 |
 
-13 987,64
+14 057,57
 
 |
 
@@ -428,7 +430,7 @@ soumis à retenue pour pension
 
 |
 
-14 042,92
+14 113,13
 
 |
 
@@ -436,7 +438,7 @@ soumis à retenue pour pension
 
 |
 
-14 098,21
+14 168,69
 
 |
 
@@ -444,7 +446,7 @@ soumis à retenue pour pension
 
 |
 
-14 153,50
+14 224,26
 
 |
 
@@ -452,7 +454,7 @@ soumis à retenue pour pension
 
 |
 
-14 208,78
+14 279,82
 
 |
 
@@ -460,7 +462,7 @@ soumis à retenue pour pension
 
 |
 
-14 264,07
+14 335,38
 
 |
 
@@ -468,7 +470,7 @@ soumis à retenue pour pension
 
 |
 
-14 319,36
+14 390,95
 
 |
 
@@ -476,7 +478,7 @@ soumis à retenue pour pension
 
 |
 
-14 374,65
+14 446,51
 
 |
 
@@ -484,7 +486,7 @@ soumis à retenue pour pension
 
 |
 
-14 429,93
+14 502,07
 
 |
 
@@ -492,7 +494,7 @@ soumis à retenue pour pension
 
 |
 
-14 485,22
+14 557,64
 
 |
 
@@ -500,7 +502,7 @@ soumis à retenue pour pension
 
 |
 
-14 540,51
+14 613,20
 
 |
 
@@ -508,7 +510,7 @@ soumis à retenue pour pension
 
 |
 
-14 595,79
+14 668,76
 
 |
 
@@ -516,7 +518,7 @@ soumis à retenue pour pension
 
 |
 
-14 651,08
+14 724,33
 
 |
 
@@ -524,7 +526,7 @@ soumis à retenue pour pension
 
 |
 
-14 706,37
+14 779,89
 
 |
 
@@ -532,7 +534,7 @@ soumis à retenue pour pension
 
 |
 
-14 761,66
+14 835,45
 
 |
 
@@ -540,7 +542,7 @@ soumis à retenue pour pension
 
 |
 
-14 816,94
+14 891,02
 
 |
 
@@ -548,7 +550,7 @@ soumis à retenue pour pension
 
 |
 
-14 872,23
+14 946,58
 
 |
 
@@ -556,7 +558,7 @@ soumis à retenue pour pension
 
 |
 
-14 927,52
+15 002,15
 
 |
 
@@ -564,7 +566,7 @@ soumis à retenue pour pension
 
 |
 
-14 982,80
+15 057,71
 
 |
 
@@ -572,7 +574,7 @@ soumis à retenue pour pension
 
 |
 
-15 038,09
+15 113,27
 
 |
 
@@ -580,7 +582,7 @@ soumis à retenue pour pension
 
 |
 
-15 093,38
+15 168,84
 
 |
 
@@ -588,7 +590,7 @@ soumis à retenue pour pension
 
 |
 
-15 148,67
+15 224,40
 
 |
 
@@ -596,7 +598,7 @@ soumis à retenue pour pension
 
 |
 
-15 203,95
+15 279,96
 
 |
 
@@ -604,7 +606,7 @@ soumis à retenue pour pension
 
 |
 
-15 259,24
+15 335,53
 
 |
 
@@ -612,7 +614,7 @@ soumis à retenue pour pension
 
 |
 
-15 314,53
+15 391,09
 
 |
 
@@ -620,7 +622,7 @@ soumis à retenue pour pension
 
 |
 
-15 369,81
+15 446,65
 
 |
 
@@ -628,7 +630,7 @@ soumis à retenue pour pension
 
 |
 
-15 425,10
+15 502,22
 
 |
 
@@ -636,7 +638,7 @@ soumis à retenue pour pension
 
 |
 
-15 480,39
+15 557,78
 
 |
 
@@ -644,7 +646,7 @@ soumis à retenue pour pension
 
 |
 
-15 535,68
+15 613,34
 
 |
 
@@ -652,7 +654,7 @@ soumis à retenue pour pension
 
 |
 
-15 590,96
+15 668,91
 
 |
 
@@ -660,7 +662,7 @@ soumis à retenue pour pension
 
 |
 
-15 646,25
+15 724,47
 
 |
 
@@ -668,7 +670,7 @@ soumis à retenue pour pension
 
 |
 
-15 701,54
+15 780,03
 
 |
 
@@ -676,7 +678,7 @@ soumis à retenue pour pension
 
 |
 
-15 756,82
+15 835,60
 
 |
 
@@ -684,7 +686,7 @@ soumis à retenue pour pension
 
 |
 
-15 812,11
+15 891,16
 
 |
 
@@ -692,7 +694,7 @@ soumis à retenue pour pension
 
 |
 
-15 867,40
+15 946,72
 
 |
 
@@ -700,7 +702,7 @@ soumis à retenue pour pension
 
 |
 
-15 922,68
+16 002,29
 
 |
 
@@ -708,7 +710,7 @@ soumis à retenue pour pension
 
 |
 
-15 977,97
+16 057,85
 
 |
 
@@ -716,7 +718,7 @@ soumis à retenue pour pension
 
 |
 
-16 033,26
+16 113,42
 
 |
 
@@ -724,7 +726,7 @@ soumis à retenue pour pension
 
 |
 
-16 088,55
+16 168,98
 
 |
 
@@ -732,7 +734,7 @@ soumis à retenue pour pension
 
 |
 
-16 143,83
+16 224,54
 
 |
 
@@ -740,7 +742,7 @@ soumis à retenue pour pension
 
 |
 
-16 199,12
+16 280,11
 
 |
 
@@ -748,7 +750,7 @@ soumis à retenue pour pension
 
 |
 
-16 254,41
+16 335,67
 
 |
 
@@ -756,7 +758,7 @@ soumis à retenue pour pension
 
 |
 
-16 309,69
+16 391,23
 
 |
 
@@ -764,7 +766,7 @@ soumis à retenue pour pension
 
 |
 
-16 364,98
+16 446,80
 
 |
 
@@ -772,7 +774,7 @@ soumis à retenue pour pension
 
 |
 
-16 420,27
+16 502,36
 
 |
 
@@ -780,7 +782,7 @@ soumis à retenue pour pension
 
 |
 
-16 475,56
+16 557,92
 
 |
 
@@ -788,7 +790,7 @@ soumis à retenue pour pension
 
 |
 
-16 530,84
+16 613,49
 
 |
 
@@ -796,7 +798,7 @@ soumis à retenue pour pension
 
 |
 
-16 586,13
+16 669,05
 
 |
 
@@ -804,7 +806,7 @@ soumis à retenue pour pension
 
 |
 
-16 641,42
+16 724,61
 
 |
 
@@ -812,7 +814,7 @@ soumis à retenue pour pension
 
 |
 
-16 696,70
+16 780,18
 
 |
 
@@ -820,7 +822,7 @@ soumis à retenue pour pension
 
 |
 
-16 751,99
+16 835,74
 
 |
 
@@ -828,7 +830,7 @@ soumis à retenue pour pension
 
 |
 
-16 807,28
+16 891,30
 
 |
 
@@ -836,7 +838,7 @@ soumis à retenue pour pension
 
 |
 
-16 862,57
+16 946,87
 
 |
 
@@ -844,7 +846,7 @@ soumis à retenue pour pension
 
 |
 
-16 917,85
+17 002,43
 
 |
 
@@ -852,7 +854,7 @@ soumis à retenue pour pension
 
 |
 
-16 973,14
+17 057,99
 
 |
 
@@ -860,7 +862,7 @@ soumis à retenue pour pension
 
 |
 
-17 028,43
+17 113,56
 
 |
 
@@ -868,7 +870,7 @@ soumis à retenue pour pension
 
 |
 
-17 083,71
+17 169,12
 
 |
 
@@ -876,7 +878,7 @@ soumis à retenue pour pension
 
 |
 
-17 139,00
+17 224,69
 
 |
 
@@ -884,7 +886,7 @@ soumis à retenue pour pension
 
 |
 
-17 194,29
+17 280,25
 
 |
 
@@ -892,7 +894,7 @@ soumis à retenue pour pension
 
 |
 
-17 249,58
+17 335,81
 
 |
 
@@ -900,7 +902,7 @@ soumis à retenue pour pension
 
 |
 
-17 304,86
+17 391,38
 
 |
 
@@ -908,7 +910,7 @@ soumis à retenue pour pension
 
 |
 
-17 360,15
+17 446,94
 
 |
 
@@ -916,7 +918,7 @@ soumis à retenue pour pension
 
 |
 
-17 415,44
+17 502,50
 
 |
 
@@ -924,7 +926,7 @@ soumis à retenue pour pension
 
 |
 
-17 470,72
+17 558,07
 
 |
 
@@ -932,7 +934,7 @@ soumis à retenue pour pension
 
 |
 
-17 526,01
+17 613,63
 
 |
 
@@ -940,7 +942,7 @@ soumis à retenue pour pension
 
 |
 
-17 581,30
+17 669,19
 
 |
 
@@ -948,7 +950,7 @@ soumis à retenue pour pension
 
 |
 
-17 636,58
+17 724,76
 
 |
 
@@ -956,7 +958,7 @@ soumis à retenue pour pension
 
 |
 
-17 691,87
+17 780,32
 
 |
 
@@ -964,7 +966,7 @@ soumis à retenue pour pension
 
 |
 
-17 747,16
+17 835,88
 
 |
 
@@ -972,7 +974,7 @@ soumis à retenue pour pension
 
 |
 
-17 802,45
+17 891,45
 
 |
 
@@ -980,7 +982,7 @@ soumis à retenue pour pension
 
 |
 
-17 857,73
+17 947,01
 
 |
 
@@ -988,7 +990,7 @@ soumis à retenue pour pension
 
 |
 
-17 913,02
+18 002,57
 
 |
 
@@ -996,7 +998,7 @@ soumis à retenue pour pension
 
 |
 
-17 968,31
+18 058,14
 
 |
 
@@ -1004,7 +1006,7 @@ soumis à retenue pour pension
 
 |
 
-18 023,59
+18 113,70
 
 |
 
@@ -1012,7 +1014,7 @@ soumis à retenue pour pension
 
 |
 
-18 078,88
+18 169,26
 
 |
 
@@ -1020,7 +1022,7 @@ soumis à retenue pour pension
 
 |
 
-18 134,17
+18 224,83
 
 |
 
@@ -1028,7 +1030,7 @@ soumis à retenue pour pension
 
 |
 
-18 189,46
+18 280,39
 
 |
 
@@ -1036,7 +1038,7 @@ soumis à retenue pour pension
 
 |
 
-18 244,74
+18 335,96
 
 |
 
@@ -1044,7 +1046,7 @@ soumis à retenue pour pension
 
 |
 
-18 300,03
+18 391,52
 
 |
 
@@ -1052,7 +1054,7 @@ soumis à retenue pour pension
 
 |
 
-18 355,32
+18 447,08
 
 |
 
@@ -1060,7 +1062,7 @@ soumis à retenue pour pension
 
 |
 
-18 410,60
+18 502,65
 
 |
 
@@ -1068,7 +1070,7 @@ soumis à retenue pour pension
 
 |
 
-18 465,89
+18 558,21
 
 |
 
@@ -1076,7 +1078,7 @@ soumis à retenue pour pension
 
 |
 
-18 521,18
+18 613,77
 
 |
 
@@ -1084,7 +1086,7 @@ soumis à retenue pour pension
 
 |
 
-18 576,47
+18 669,34
 
 |
 
@@ -1092,7 +1094,7 @@ soumis à retenue pour pension
 
 |
 
-18 631,75
+18 724,90
 
 |
 
@@ -1100,7 +1102,7 @@ soumis à retenue pour pension
 
 |
 
-18 687,04
+18 780,46
 
 |
 
@@ -1108,7 +1110,7 @@ soumis à retenue pour pension
 
 |
 
-18 742,33
+18 836,03
 
 |
 
@@ -1116,7 +1118,7 @@ soumis à retenue pour pension
 
 |
 
-18 797,61
+18 891,59
 
 |
 
@@ -1124,7 +1126,7 @@ soumis à retenue pour pension
 
 |
 
-18 852,90
+18 947,15
 
 |
 
@@ -1132,7 +1134,7 @@ soumis à retenue pour pension
 
 |
 
-18 908,19
+19 002,72
 
 |
 
@@ -1140,7 +1142,7 @@ soumis à retenue pour pension
 
 |
 
-18 963,48
+19 058,28
 
 |
 
@@ -1148,7 +1150,7 @@ soumis à retenue pour pension
 
 |
 
-19 018,76
+19 113,84
 
 |
 
@@ -1156,7 +1158,7 @@ soumis à retenue pour pension
 
 |
 
-19 074,05
+19 169,41
 
 |
 
@@ -1164,7 +1166,7 @@ soumis à retenue pour pension
 
 |
 
-19 129,34
+19 224,97
 
 |
 
@@ -1172,7 +1174,7 @@ soumis à retenue pour pension
 
 |
 
-19 184,62
+19 280,53
 
 |
 
@@ -1180,7 +1182,7 @@ soumis à retenue pour pension
 
 |
 
-19 239,91
+19 336,10
 
 |
 
@@ -1188,7 +1190,7 @@ soumis à retenue pour pension
 
 |
 
-19 295,20
+19 391,66
 
 |
 
@@ -1196,7 +1198,7 @@ soumis à retenue pour pension
 
 |
 
-19 350,49
+19 447,23
 
 |
 
@@ -1204,7 +1206,7 @@ soumis à retenue pour pension
 
 |
 
-19 405,77
+19 502,79
 
 |
 
@@ -1212,7 +1214,7 @@ soumis à retenue pour pension
 
 |
 
-19 461,06
+19 558,35
 
 |
 
@@ -1220,7 +1222,7 @@ soumis à retenue pour pension
 
 |
 
-19 516,35
+19 613,92
 
 |
 
@@ -1228,7 +1230,7 @@ soumis à retenue pour pension
 
 |
 
-19 571,63
+19 669,48
 
 |
 
@@ -1236,7 +1238,7 @@ soumis à retenue pour pension
 
 |
 
-19 626,92
+19 725,04
 
 |
 
@@ -1244,7 +1246,7 @@ soumis à retenue pour pension
 
 |
 
-19 682,21
+19 780,61
 
 |
 
@@ -1252,7 +1254,7 @@ soumis à retenue pour pension
 
 |
 
-19 737,49
+19 836,17
 
 |
 
@@ -1260,7 +1262,7 @@ soumis à retenue pour pension
 
 |
 
-19 792,78
+19 891,73
 
 |
 
@@ -1268,7 +1270,7 @@ soumis à retenue pour pension
 
 |
 
-19 848,07
+19 947,30
 
 |
 
@@ -1276,7 +1278,7 @@ soumis à retenue pour pension
 
 |
 
-19 903,36
+20 002,86
 
 |
 
@@ -1284,7 +1286,7 @@ soumis à retenue pour pension
 
 |
 
-19 958,64
+20 058,42
 
 |
 
@@ -1292,7 +1294,7 @@ soumis à retenue pour pension
 
 |
 
-20 013,93
+20 113,99
 
 |
 
@@ -1300,7 +1302,7 @@ soumis à retenue pour pension
 
 |
 
-20 069,22
+20 169,55
 
 |
 
@@ -1308,7 +1310,7 @@ soumis à retenue pour pension
 
 |
 
-20 124,50
+20 225,11
 
 |
 
@@ -1316,7 +1318,7 @@ soumis à retenue pour pension
 
 |
 
-20 179,79
+20 280,68
 
 |
 
@@ -1324,7 +1326,7 @@ soumis à retenue pour pension
 
 |
 
-20 235,08
+20 336,24
 
 |
 
@@ -1332,7 +1334,7 @@ soumis à retenue pour pension
 
 |
 
-20 290,37
+20 391,80
 
 |
 
@@ -1340,7 +1342,7 @@ soumis à retenue pour pension
 
 |
 
-20 345,65
+20 447,37
 
 |
 
@@ -1348,7 +1350,7 @@ soumis à retenue pour pension
 
 |
 
-20 400,94
+20 502,93
 
 |
 
@@ -1356,7 +1358,7 @@ soumis à retenue pour pension
 
 |
 
-20 456,23
+20 558,50
 
 |
 
@@ -1364,7 +1366,7 @@ soumis à retenue pour pension
 
 |
 
-20 511,51
+20 614,06
 
 |
 
@@ -1372,7 +1374,7 @@ soumis à retenue pour pension
 
 |
 
-20 566,80
+20 669,62
 
 |
 
@@ -1380,7 +1382,7 @@ soumis à retenue pour pension
 
 |
 
-20 622,09
+20 725,19
 
 |
 
@@ -1388,7 +1390,7 @@ soumis à retenue pour pension
 
 |
 
-20 677,38
+20 780,75
 
 |
 
@@ -1396,7 +1398,7 @@ soumis à retenue pour pension
 
 |
 
-20 732,66
+20 836,31
 
 |
 
@@ -1404,7 +1406,7 @@ soumis à retenue pour pension
 
 |
 
-20 787,95
+20 891,88
 
 |
 
@@ -1412,7 +1414,7 @@ soumis à retenue pour pension
 
 |
 
-20 843,24
+20 947,44
 
 |
 
@@ -1420,7 +1422,7 @@ soumis à retenue pour pension
 
 |
 
-20 898,52
+21 003,00
 
 |
 
@@ -1428,7 +1430,7 @@ soumis à retenue pour pension
 
 |
 
-20 953,81
+21 058,57
 
 |
 
@@ -1436,7 +1438,7 @@ soumis à retenue pour pension
 
 |
 
-21 009,10
+21 114,13
 
 |
 
@@ -1444,7 +1446,7 @@ soumis à retenue pour pension
 
 |
 
-21 064,39
+21 169,69
 
 |
 
@@ -1452,7 +1454,7 @@ soumis à retenue pour pension
 
 |
 
-21 119,67
+21 225,26
 
 |
 
@@ -1460,7 +1462,7 @@ soumis à retenue pour pension
 
 |
 
-21 174,96
+21 280,82
 
 |
 
@@ -1468,7 +1470,7 @@ soumis à retenue pour pension
 
 |
 
-21 230,25
+21 336,38
 
 |
 
@@ -1476,7 +1478,7 @@ soumis à retenue pour pension
 
 |
 
-21 285,53
+21 391,95
 
 |
 
@@ -1484,7 +1486,7 @@ soumis à retenue pour pension
 
 |
 
-21 340,82
+21 447,51
 
 |
 
@@ -1492,7 +1494,7 @@ soumis à retenue pour pension
 
 |
 
-21 396,11
+21 503,07
 
 |
 
@@ -1500,7 +1502,7 @@ soumis à retenue pour pension
 
 |
 
-21 451,39
+21 558,64
 
 |
 
@@ -1508,7 +1510,7 @@ soumis à retenue pour pension
 
 |
 
-21 506,68
+21 614,20
 
 |
 
@@ -1516,7 +1518,7 @@ soumis à retenue pour pension
 
 |
 
-21 561,97
+21 669,77
 
 |
 
@@ -1524,7 +1526,7 @@ soumis à retenue pour pension
 
 |
 
-21 617,26
+21 725,33
 
 |
 
@@ -1532,7 +1534,7 @@ soumis à retenue pour pension
 
 |
 
-21 672,54
+21 780,89
 
 |
 
@@ -1540,7 +1542,7 @@ soumis à retenue pour pension
 
 |
 
-21 727,83
+21 836,46
 
 |
 
@@ -1548,7 +1550,7 @@ soumis à retenue pour pension
 
 |
 
-21 783,12
+21 892,02
 
 |
 
@@ -1556,7 +1558,7 @@ soumis à retenue pour pension
 
 |
 
-21 838,40
+21 947,58
 
 |
 
@@ -1564,7 +1566,7 @@ soumis à retenue pour pension
 
 |
 
-21 893,69
+22 003,15
 
 |
 
@@ -1572,7 +1574,7 @@ soumis à retenue pour pension
 
 |
 
-21 948,98
+22 058,71
 
 |
 
@@ -1580,7 +1582,7 @@ soumis à retenue pour pension
 
 |
 
-22 004,27
+22 114,27
 
 |
 
@@ -1588,7 +1590,7 @@ soumis à retenue pour pension
 
 |
 
-22 059,55
+22 169,84
 
 |
 
@@ -1596,7 +1598,7 @@ soumis à retenue pour pension
 
 |
 
-22 114,84
+22 225,40
 
 |
 
@@ -1604,7 +1606,7 @@ soumis à retenue pour pension
 
 |
 
-22 170,13
+22 280,96
 
 |
 
@@ -1612,7 +1614,7 @@ soumis à retenue pour pension
 
 |
 
-22 225,41
+22 336,53
 
 |
 
@@ -1620,7 +1622,7 @@ soumis à retenue pour pension
 
 |
 
-22 280,70
+22 392,09
 
 |
 
@@ -1628,7 +1630,7 @@ soumis à retenue pour pension
 
 |
 
-22 335,99
+22 447,65
 
 |
 
@@ -1636,7 +1638,7 @@ soumis à retenue pour pension
 
 |
 
-22 391,28
+22 503,22
 
 |
 
@@ -1644,7 +1646,7 @@ soumis à retenue pour pension
 
 |
 
-22 446,56
+22 558,78
 
 |
 
@@ -1652,7 +1654,7 @@ soumis à retenue pour pension
 
 |
 
-22 501,85
+22 614,34
 
 |
 
@@ -1660,7 +1662,7 @@ soumis à retenue pour pension
 
 |
 
-22 557,14
+22 669,91
 
 |
 
@@ -1668,7 +1670,7 @@ soumis à retenue pour pension
 
 |
 
-22 612,42
+22 725,47
 
 |
 
@@ -1676,7 +1678,7 @@ soumis à retenue pour pension
 
 |
 
-22 667,71
+22 781,04
 
 |
 
@@ -1684,7 +1686,7 @@ soumis à retenue pour pension
 
 |
 
-22 723,00
+22 836,60
 
 |
 
@@ -1692,7 +1694,7 @@ soumis à retenue pour pension
 
 |
 
-22 778,29
+22 892,16
 
 |
 
@@ -1700,7 +1702,7 @@ soumis à retenue pour pension
 
 |
 
-22 833,57
+22 947,73
 
 |
 
@@ -1708,7 +1710,7 @@ soumis à retenue pour pension
 
 |
 
-22 888,86
+23 003,29
 
 |
 
@@ -1716,7 +1718,7 @@ soumis à retenue pour pension
 
 |
 
-22 944,15
+23 058,85
 
 |
 
@@ -1724,7 +1726,7 @@ soumis à retenue pour pension
 
 |
 
-22 999,43
+23 114,42
 
 |
 
@@ -1732,7 +1734,7 @@ soumis à retenue pour pension
 
 |
 
-23 054,72
+23 169,98
 
 |
 
@@ -1740,7 +1742,7 @@ soumis à retenue pour pension
 
 |
 
-23 110,01
+23 225,54
 
 |
 
@@ -1748,7 +1750,7 @@ soumis à retenue pour pension
 
 |
 
-23 165,29
+23 281,11
 
 |
 
@@ -1756,7 +1758,7 @@ soumis à retenue pour pension
 
 |
 
-23 220,58
+23 336,67
 
 |
 
@@ -1764,7 +1766,7 @@ soumis à retenue pour pension
 
 |
 
-23 275,87
+23 392,23
 
 |
 
@@ -1772,7 +1774,7 @@ soumis à retenue pour pension
 
 |
 
-23 331,16
+23 447,80
 
 |
 
@@ -1780,7 +1782,7 @@ soumis à retenue pour pension
 
 |
 
-23 386,44
+23 503,36
 
 |
 
@@ -1788,7 +1790,7 @@ soumis à retenue pour pension
 
 |
 
-23 441,73
+23 558,92
 
 |
 
@@ -1796,7 +1798,7 @@ soumis à retenue pour pension
 
 |
 
-23 497,02
+23 614,49
 
 |
 
@@ -1804,7 +1806,7 @@ soumis à retenue pour pension
 
 |
 
-23 552,30
+23 670,05
 
 |
 
@@ -1812,7 +1814,7 @@ soumis à retenue pour pension
 
 |
 
-23 607,59
+23 725,61
 
 |
 
@@ -1820,7 +1822,7 @@ soumis à retenue pour pension
 
 |
 
-23 662,88
+23 781,18
 
 |
 
@@ -1828,7 +1830,7 @@ soumis à retenue pour pension
 
 |
 
-23 718,17
+23 836,74
 
 |
 
@@ -1836,7 +1838,7 @@ soumis à retenue pour pension
 
 |
 
-23 773,45
+23 892,31
 
 |
 
@@ -1844,7 +1846,7 @@ soumis à retenue pour pension
 
 |
 
-23 828,74
+23 947,87
 
 |
 
@@ -1852,7 +1854,7 @@ soumis à retenue pour pension
 
 |
 
-23 884,03
+24 003,43
 
 |
 
@@ -1860,7 +1862,7 @@ soumis à retenue pour pension
 
 |
 
-23 939,31
+24 059,00
 
 |
 
@@ -1868,7 +1870,7 @@ soumis à retenue pour pension
 
 |
 
-23 994,60
+24 114,56
 
 |
 
@@ -1876,7 +1878,7 @@ soumis à retenue pour pension
 
 |
 
-24 049,89
+24 170,12
 
 |
 
@@ -1884,7 +1886,7 @@ soumis à retenue pour pension
 
 |
 
-24 105,18
+24 225,69
 
 |
 
@@ -1892,7 +1894,7 @@ soumis à retenue pour pension
 
 |
 
-24 160,46
+24 281,25
 
 |
 
@@ -1900,7 +1902,7 @@ soumis à retenue pour pension
 
 |
 
-24 215,75
+24 336,81
 
 |
 
@@ -1908,7 +1910,7 @@ soumis à retenue pour pension
 
 |
 
-24 271,04
+24 392,38
 
 |
 
@@ -1916,7 +1918,7 @@ soumis à retenue pour pension
 
 |
 
-24 326,32
+24 447,94
 
 |
 
@@ -1924,7 +1926,7 @@ soumis à retenue pour pension
 
 |
 
-24 381,61
+24 503,50
 
 |
 
@@ -1932,7 +1934,7 @@ soumis à retenue pour pension
 
 |
 
-24 436,90
+24 559,07
 
 |
 
@@ -1940,7 +1942,7 @@ soumis à retenue pour pension
 
 |
 
-24 492,19
+24 614,63
 
 |
 
@@ -1948,7 +1950,7 @@ soumis à retenue pour pension
 
 |
 
-24 547,47
+24 670,19
 
 |
 
@@ -1956,7 +1958,7 @@ soumis à retenue pour pension
 
 |
 
-24 602,76
+24 725,76
 
 |
 
@@ -1964,7 +1966,7 @@ soumis à retenue pour pension
 
 |
 
-24 658,05
+24 781,32
 
 |
 
@@ -1972,7 +1974,7 @@ soumis à retenue pour pension
 
 |
 
-24 713,33
+24 836,88
 
 |
 
@@ -1980,7 +1982,7 @@ soumis à retenue pour pension
 
 |
 
-24 768,62
+24 892,45
 
 |
 
@@ -1988,7 +1990,7 @@ soumis à retenue pour pension
 
 |
 
-24 823,91
+24 948,01
 
 |
 
@@ -1996,7 +1998,7 @@ soumis à retenue pour pension
 
 |
 
-24 879,20
+25 003,58
 
 |
 
@@ -2004,7 +2006,7 @@ soumis à retenue pour pension
 
 |
 
-24 934,48
+25 059,14
 
 |
 
@@ -2012,7 +2014,7 @@ soumis à retenue pour pension
 
 |
 
-24 989,77
+25 114,70
 
 |
 
@@ -2020,7 +2022,7 @@ soumis à retenue pour pension
 
 |
 
-25 045,06
+25 170,27
 
 |
 
@@ -2028,7 +2030,7 @@ soumis à retenue pour pension
 
 |
 
-25 100,34
+25 225,83
 
 |
 
@@ -2036,7 +2038,7 @@ soumis à retenue pour pension
 
 |
 
-25 155,63
+25 281,39
 
 |
 
@@ -2044,7 +2046,7 @@ soumis à retenue pour pension
 
 |
 
-25 210,92
+25 336,96
 
 |
 
@@ -2052,7 +2054,7 @@ soumis à retenue pour pension
 
 |
 
-25 266,20
+25 392,52
 
 |
 
@@ -2060,7 +2062,7 @@ soumis à retenue pour pension
 
 |
 
-25 321,49
+25 448,08
 
 |
 
@@ -2068,7 +2070,7 @@ soumis à retenue pour pension
 
 |
 
-25 376,78
+25 503,65
 
 |
 
@@ -2076,7 +2078,7 @@ soumis à retenue pour pension
 
 |
 
-25 432,07
+25 559,21
 
 |
 
@@ -2084,7 +2086,7 @@ soumis à retenue pour pension
 
 |
 
-25 487,35
+25 614,77
 
 |
 
@@ -2092,7 +2094,7 @@ soumis à retenue pour pension
 
 |
 
-25 542,64
+25 670,34
 
 |
 
@@ -2100,7 +2102,7 @@ soumis à retenue pour pension
 
 |
 
-25 597,93
+25 725,90
 
 |
 
@@ -2108,7 +2110,7 @@ soumis à retenue pour pension
 
 |
 
-25 653,21
+25 781,46
 
 |
 
@@ -2116,7 +2118,7 @@ soumis à retenue pour pension
 
 |
 
-25 708,50
+25 837,03
 
 |
 
@@ -2124,7 +2126,7 @@ soumis à retenue pour pension
 
 |
 
-25 763,79
+25 892,59
 
 |
 
@@ -2132,7 +2134,7 @@ soumis à retenue pour pension
 
 |
 
-25 819,08
+25 948,15
 
 |
 
@@ -2140,7 +2142,7 @@ soumis à retenue pour pension
 
 |
 
-25 874,36
+26 003,72
 
 |
 
@@ -2148,7 +2150,7 @@ soumis à retenue pour pension
 
 |
 
-25 929,65
+26 059,28
 
 |
 
@@ -2156,7 +2158,7 @@ soumis à retenue pour pension
 
 |
 
-25 984,94
+26 114,85
 
 |
 
@@ -2164,7 +2166,7 @@ soumis à retenue pour pension
 
 |
 
-26 040,22
+26 170,41
 
 |
 
@@ -2172,7 +2174,7 @@ soumis à retenue pour pension
 
 |
 
-26 095,51
+26 225,97
 
 |
 
@@ -2180,7 +2182,7 @@ soumis à retenue pour pension
 
 |
 
-26 150,80
+26 281,54
 
 |
 
@@ -2188,7 +2190,7 @@ soumis à retenue pour pension
 
 |
 
-26 206,09
+26 337,10
 
 |
 
@@ -2196,7 +2198,7 @@ soumis à retenue pour pension
 
 |
 
-26 261,37
+26 392,66
 
 |
 
@@ -2204,7 +2206,7 @@ soumis à retenue pour pension
 
 |
 
-26 316,66
+26 448,23
 
 |
 
@@ -2212,7 +2214,7 @@ soumis à retenue pour pension
 
 |
 
-26 371,95
+26 503,79
 
 |
 
@@ -2220,7 +2222,7 @@ soumis à retenue pour pension
 
 |
 
-26 427,23
+26 559,35
 
 |
 
@@ -2228,7 +2230,7 @@ soumis à retenue pour pension
 
 |
 
-26 482,52
+26 614,92
 
 |
 
@@ -2236,7 +2238,7 @@ soumis à retenue pour pension
 
 |
 
-26 537,81
+26 670,48
 
 |
 
@@ -2244,7 +2246,7 @@ soumis à retenue pour pension
 
 |
 
-26 593,10
+26 726,04
 
 |
 
@@ -2252,7 +2254,7 @@ soumis à retenue pour pension
 
 |
 
-26 648,38
+26 781,61
 
 |
 
@@ -2260,7 +2262,7 @@ soumis à retenue pour pension
 
 |
 
-26 703,67
+26 837,17
 
 |
 
@@ -2268,7 +2270,7 @@ soumis à retenue pour pension
 
 |
 
-26 758,96
+26 892,73
 
 |
 
@@ -2276,7 +2278,7 @@ soumis à retenue pour pension
 
 |
 
-26 814,24
+26 948,30
 
 |
 
@@ -2284,7 +2286,7 @@ soumis à retenue pour pension
 
 |
 
-26 869,53
+27 003,86
 
 |
 
@@ -2292,7 +2294,7 @@ soumis à retenue pour pension
 
 |
 
-26 924,82
+27 059,42
 
 |
 
@@ -2300,7 +2302,7 @@ soumis à retenue pour pension
 
 |
 
-26 980,10
+27 114,99
 
 |
 
@@ -2308,7 +2310,7 @@ soumis à retenue pour pension
 
 |
 
-27 035,39
+27 170,55
 
 |
 
@@ -2316,7 +2318,7 @@ soumis à retenue pour pension
 
 |
 
-27 090,68
+27 226,12
 
 |
 
@@ -2324,7 +2326,7 @@ soumis à retenue pour pension
 
 |
 
-27 145,97
+27 281,68
 
 |
 
@@ -2332,7 +2334,7 @@ soumis à retenue pour pension
 
 |
 
-27 201,25
+27 337,24
 
 |
 
@@ -2340,7 +2342,7 @@ soumis à retenue pour pension
 
 |
 
-27 256,54
+27 392,81
 
 |
 
@@ -2348,7 +2350,7 @@ soumis à retenue pour pension
 
 |
 
-27 311,83
+27 448,37
 
 |
 
@@ -2356,7 +2358,7 @@ soumis à retenue pour pension
 
 |
 
-27 367,11
+27 503,93
 
 |
 
@@ -2364,7 +2366,7 @@ soumis à retenue pour pension
 
 |
 
-27 422,40
+27 559,50
 
 |
 
@@ -2372,7 +2374,7 @@ soumis à retenue pour pension
 
 |
 
-27 477,69
+27 615,06
 
 |
 
@@ -2380,7 +2382,7 @@ soumis à retenue pour pension
 
 |
 
-27 532,98
+27 670,62
 
 |
 
@@ -2388,7 +2390,7 @@ soumis à retenue pour pension
 
 |
 
-27 588,26
+27 726,19
 
 |
 
@@ -2396,7 +2398,7 @@ soumis à retenue pour pension
 
 |
 
-27 643,55
+27 781,75
 
 |
 
@@ -2404,7 +2406,7 @@ soumis à retenue pour pension
 
 |
 
-27 698,84
+27 837,31
 
 |
 
@@ -2412,7 +2414,7 @@ soumis à retenue pour pension
 
 |
 
-27 754,12
+27 892,88
 
 |
 
@@ -2420,7 +2422,7 @@ soumis à retenue pour pension
 
 |
 
-27 809,41
+27 948,44
 
 |
 
@@ -2428,7 +2430,7 @@ soumis à retenue pour pension
 
 |
 
-27 864,70
+28 004,00
 
 |
 
@@ -2436,7 +2438,7 @@ soumis à retenue pour pension
 
 |
 
-27 919,99
+28 059,57
 
 |
 
@@ -2444,7 +2446,7 @@ soumis à retenue pour pension
 
 |
 
-27 975,27
+28 115,13
 
 |
 
@@ -2452,7 +2454,7 @@ soumis à retenue pour pension
 
 |
 
-28 030,56
+28 170,69
 
 |
 
@@ -2460,7 +2462,7 @@ soumis à retenue pour pension
 
 |
 
-28 085,85
+28 226,26
 
 |
 
@@ -2468,7 +2470,7 @@ soumis à retenue pour pension
 
 |
 
-28 141,13
+28 281,82
 
 |
 
@@ -2476,7 +2478,7 @@ soumis à retenue pour pension
 
 |
 
-28 196,42
+28 337,39
 
 |
 
@@ -2484,7 +2486,7 @@ soumis à retenue pour pension
 
 |
 
-28 251,71
+28 392,95
 
 |
 
@@ -2492,7 +2494,7 @@ soumis à retenue pour pension
 
 |
 
-28 307,00
+28 448,51
 
 |
 
@@ -2500,7 +2502,7 @@ soumis à retenue pour pension
 
 |
 
-28 362,28
+28 504,08
 
 |
 
@@ -2508,7 +2510,7 @@ soumis à retenue pour pension
 
 |
 
-28 417,57
+28 559,64
 
 |
 
@@ -2516,7 +2518,7 @@ soumis à retenue pour pension
 
 |
 
-28 472,86
+28 615,20
 
 |
 
@@ -2524,7 +2526,7 @@ soumis à retenue pour pension
 
 |
 
-28 528,14
+28 670,77
 
 |
 
@@ -2532,7 +2534,7 @@ soumis à retenue pour pension
 
 |
 
-28 583,43
+28 726,33
 
 |
 
@@ -2540,7 +2542,7 @@ soumis à retenue pour pension
 
 |
 
-28 638,72
+28 781,89
 
 |
 
@@ -2548,7 +2550,7 @@ soumis à retenue pour pension
 
 |
 
-28 694,00
+28 837,46
 
 |
 
@@ -2556,7 +2558,7 @@ soumis à retenue pour pension
 
 |
 
-28 749,29
+28 893,02
 
 |
 
@@ -2564,7 +2566,7 @@ soumis à retenue pour pension
 
 |
 
-28 804,58
+28 948,58
 
 |
 
@@ -2572,7 +2574,7 @@ soumis à retenue pour pension
 
 |
 
-28 859,87
+29 004,15
 
 |
 
@@ -2580,7 +2582,7 @@ soumis à retenue pour pension
 
 |
 
-28 915,15
+29 059,71
 
 |
 
@@ -2588,7 +2590,7 @@ soumis à retenue pour pension
 
 |
 
-28 970,44
+29 115,27
 
 |
 
@@ -2596,7 +2598,7 @@ soumis à retenue pour pension
 
 |
 
-29 025,73
+29 170,84
 
 |
 
@@ -2604,7 +2606,7 @@ soumis à retenue pour pension
 
 |
 
-29 081,01
+29 226,40
 
 |
 
@@ -2612,7 +2614,7 @@ soumis à retenue pour pension
 
 |
 
-29 136,30
+29 281,96
 
 |
 
@@ -2620,7 +2622,7 @@ soumis à retenue pour pension
 
 |
 
-29 191,59
+29 337,53
 
 |
 
@@ -2628,7 +2630,7 @@ soumis à retenue pour pension
 
 |
 
-29 246,88
+29 393,09
 
 |
 
@@ -2636,7 +2638,7 @@ soumis à retenue pour pension
 
 |
 
-29 302,16
+29 448,66
 
 |
 
@@ -2644,7 +2646,7 @@ soumis à retenue pour pension
 
 |
 
-29 357,45
+29 504,22
 
 |
 
@@ -2652,7 +2654,7 @@ soumis à retenue pour pension
 
 |
 
-29 412,74
+29 559,78
 
 |
 
@@ -2660,7 +2662,7 @@ soumis à retenue pour pension
 
 |
 
-29 468,02
+29 615,35
 
 |
 
@@ -2668,7 +2670,7 @@ soumis à retenue pour pension
 
 |
 
-29 523,31
+29 670,91
 
 |
 
@@ -2676,7 +2678,7 @@ soumis à retenue pour pension
 
 |
 
-29 578,60
+29 726,47
 
 |
 
@@ -2684,7 +2686,7 @@ soumis à retenue pour pension
 
 |
 
-29 633,89
+29 782,04
 
 |
 
@@ -2692,7 +2694,7 @@ soumis à retenue pour pension
 
 |
 
-29 689,17
+29 837,60
 
 |
 
@@ -2700,7 +2702,7 @@ soumis à retenue pour pension
 
 |
 
-29 744,46
+29 893,16
 
 |
 
@@ -2708,7 +2710,7 @@ soumis à retenue pour pension
 
 |
 
-29 799,75
+29 948,73
 
 |
 
@@ -2716,7 +2718,7 @@ soumis à retenue pour pension
 
 |
 
-29 855,03
+30 004,29
 
 |
 
@@ -2724,7 +2726,7 @@ soumis à retenue pour pension
 
 |
 
-29 910,32
+30 059,85
 
 |
 
@@ -2732,7 +2734,7 @@ soumis à retenue pour pension
 
 |
 
-29 965,61
+30 115,42
 
 |
 
@@ -2740,7 +2742,7 @@ soumis à retenue pour pension
 
 |
 
-30 020,90
+30 170,98
 
 |
 
@@ -2748,7 +2750,7 @@ soumis à retenue pour pension
 
 |
 
-30 076,18
+30 226,54
 
 |
 
@@ -2756,7 +2758,7 @@ soumis à retenue pour pension
 
 |
 
-30 131,47
+30 282,11
 
 |
 
@@ -2764,7 +2766,7 @@ soumis à retenue pour pension
 
 |
 
-30 186,76
+30 337,67
 
 |
 
@@ -2772,7 +2774,7 @@ soumis à retenue pour pension
 
 |
 
-30 242,04
+30 393,23
 
 |
 
@@ -2780,7 +2782,7 @@ soumis à retenue pour pension
 
 |
 
-30 297,33
+30 448,80
 
 |
 
@@ -2788,7 +2790,7 @@ soumis à retenue pour pension
 
 |
 
-30 352,62
+30 504,36
 
 |
 
@@ -2796,7 +2798,7 @@ soumis à retenue pour pension
 
 |
 
-30 407,91
+30 559,93
 
 |
 
@@ -2804,7 +2806,7 @@ soumis à retenue pour pension
 
 |
 
-30 463,19
+30 615,49
 
 |
 
@@ -2812,7 +2814,7 @@ soumis à retenue pour pension
 
 |
 
-30 518,48
+30 671,05
 
 |
 
@@ -2820,7 +2822,7 @@ soumis à retenue pour pension
 
 |
 
-30 573,77
+30 726,62
 
 |
 
@@ -2828,7 +2830,7 @@ soumis à retenue pour pension
 
 |
 
-30 629,05
+30 782,18
 
 |
 
@@ -2836,7 +2838,7 @@ soumis à retenue pour pension
 
 |
 
-30 684,34
+30 837,74
 
 |
 
@@ -2844,7 +2846,7 @@ soumis à retenue pour pension
 
 |
 
-30 739,63
+30 893,31
 
 |
 
@@ -2852,7 +2854,7 @@ soumis à retenue pour pension
 
 |
 
-30 794,91
+30 948,87
 
 |
 
@@ -2860,7 +2862,7 @@ soumis à retenue pour pension
 
 |
 
-30 850,20
+31 004,43
 
 |
 
@@ -2868,7 +2870,7 @@ soumis à retenue pour pension
 
 |
 
-30 905,49
+31 060,00
 
 |
 
@@ -2876,7 +2878,7 @@ soumis à retenue pour pension
 
 |
 
-30 960,78
+31 115,56
 
 |
 
@@ -2884,7 +2886,7 @@ soumis à retenue pour pension
 
 |
 
-31 016,06
+31 171,12
 
 |
 
@@ -2892,7 +2894,7 @@ soumis à retenue pour pension
 
 |
 
-31 071,35
+31 226,69
 
 |
 
@@ -2900,7 +2902,7 @@ soumis à retenue pour pension
 
 |
 
-31 126,64
+31 282,25
 
 |
 
@@ -2908,7 +2910,7 @@ soumis à retenue pour pension
 
 |
 
-31 181,92
+31 337,81
 
 |
 
@@ -2916,7 +2918,7 @@ soumis à retenue pour pension
 
 |
 
-31 237,21
+31 393,38
 
 |
 
@@ -2924,7 +2926,7 @@ soumis à retenue pour pension
 
 |
 
-31 292,50
+31 448,94
 
 |
 
@@ -2932,7 +2934,7 @@ soumis à retenue pour pension
 
 |
 
-31 347,79
+31 504,50
 
 |
 
@@ -2940,7 +2942,7 @@ soumis à retenue pour pension
 
 |
 
-31 403,07
+31 560,07
 
 |
 
@@ -2948,7 +2950,7 @@ soumis à retenue pour pension
 
 |
 
-31 458,36
+31 615,63
 
 |
 
@@ -2956,7 +2958,7 @@ soumis à retenue pour pension
 
 |
 
-31 513,65
+31 671,20
 
 |
 
@@ -2964,7 +2966,7 @@ soumis à retenue pour pension
 
 |
 
-31 568,93
+31 726,76
 
 |
 
@@ -2972,7 +2974,7 @@ soumis à retenue pour pension
 
 |
 
-31 624,22
+31 782,32
 
 |
 
@@ -2980,7 +2982,7 @@ soumis à retenue pour pension
 
 |
 
-31 679,51
+31 837,89
 
 |
 
@@ -2988,7 +2990,7 @@ soumis à retenue pour pension
 
 |
 
-31 734,80
+31 893,45
 
 |
 
@@ -2996,7 +2998,7 @@ soumis à retenue pour pension
 
 |
 
-31 790,08
+31 949,01
 
 |
 
@@ -3004,7 +3006,7 @@ soumis à retenue pour pension
 
 |
 
-31 845,37
+32 004,58
 
 |
 
@@ -3012,7 +3014,7 @@ soumis à retenue pour pension
 
 |
 
-31 900,66
+32 060,14
 
 |
 
@@ -3020,7 +3022,7 @@ soumis à retenue pour pension
 
 |
 
-31 955,94
+32 115,70
 
 |
 
@@ -3028,7 +3030,7 @@ soumis à retenue pour pension
 
 |
 
-32 011,23
+32 171,27
 
 |
 
@@ -3036,7 +3038,7 @@ soumis à retenue pour pension
 
 |
 
-32 066,52
+32 226,83
 
 |
 
@@ -3044,7 +3046,7 @@ soumis à retenue pour pension
 
 |
 
-32 121,81
+32 282,39
 
 |
 
@@ -3052,7 +3054,7 @@ soumis à retenue pour pension
 
 |
 
-32 177,09
+32 337,96
 
 |
 
@@ -3060,7 +3062,7 @@ soumis à retenue pour pension
 
 |
 
-32 232,38
+32 393,52
 
 |
 
@@ -3068,7 +3070,7 @@ soumis à retenue pour pension
 
 |
 
-32 287,67
+32 449,08
 
 |
 
@@ -3076,7 +3078,7 @@ soumis à retenue pour pension
 
 |
 
-32 342,95
+32 504,65
 
 |
 
@@ -3084,7 +3086,7 @@ soumis à retenue pour pension
 
 |
 
-32 398,24
+32 560,21
 
 |
 
@@ -3092,7 +3094,7 @@ soumis à retenue pour pension
 
 |
 
-32 453,53
+32 615,77
 
 |
 
@@ -3100,7 +3102,7 @@ soumis à retenue pour pension
 
 |
 
-32 508,81
+32 671,34
 
 |
 
@@ -3108,7 +3110,7 @@ soumis à retenue pour pension
 
 |
 
-32 564,10
+32 726,90
 
 |
 
@@ -3116,7 +3118,7 @@ soumis à retenue pour pension
 
 |
 
-32 619,39
+32 782,47
 
 |
 
@@ -3124,7 +3126,7 @@ soumis à retenue pour pension
 
 |
 
-32 674,68
+32 838,03
 
 |
 
@@ -3132,7 +3134,7 @@ soumis à retenue pour pension
 
 |
 
-32 729,96
+32 893,59
 
 |
 
@@ -3140,7 +3142,7 @@ soumis à retenue pour pension
 
 |
 
-32 785,25
+32 949,16
 
 |
 
@@ -3148,7 +3150,7 @@ soumis à retenue pour pension
 
 |
 
-32 840,54
+33 004,72
 
 |
 
@@ -3156,7 +3158,7 @@ soumis à retenue pour pension
 
 |
 
-32 895,82
+33 060,28
 
 |
 
@@ -3164,7 +3166,7 @@ soumis à retenue pour pension
 
 |
 
-32 951,11
+33 115,85
 
 |
 
@@ -3172,7 +3174,7 @@ soumis à retenue pour pension
 
 |
 
-33 006,40
+33 171,41
 
 |
 
@@ -3180,7 +3182,7 @@ soumis à retenue pour pension
 
 |
 
-33 061,69
+33 226,97
 
 |
 
@@ -3188,7 +3190,7 @@ soumis à retenue pour pension
 
 |
 
-33 116,97
+33 282,54
 
 |
 
@@ -3196,7 +3198,7 @@ soumis à retenue pour pension
 
 |
 
-33 172,26
+33 338,10
 
 |
 
@@ -3204,7 +3206,7 @@ soumis à retenue pour pension
 
 |
 
-33 227,55
+33 393,66
 
 |
 
@@ -3212,7 +3214,7 @@ soumis à retenue pour pension
 
 |
 
-33 282,83
+33 449,23
 
 |
 
@@ -3220,7 +3222,7 @@ soumis à retenue pour pension
 
 |
 
-33 338,12
+33 504,79
 
 |
 
@@ -3228,7 +3230,7 @@ soumis à retenue pour pension
 
 |
 
-33 393,41
+33 560,35
 
 |
 
@@ -3236,7 +3238,7 @@ soumis à retenue pour pension
 
 |
 
-33 448,70
+33 615,92
 
 |
 
@@ -3244,7 +3246,7 @@ soumis à retenue pour pension
 
 |
 
-33 503,98
+33 671,48
 
 |
 
@@ -3252,7 +3254,7 @@ soumis à retenue pour pension
 
 |
 
-33 559,27
+33 727,04
 
 |
 
@@ -3260,7 +3262,7 @@ soumis à retenue pour pension
 
 |
 
-33 614,56
+33 782,61
 
 |
 
@@ -3268,7 +3270,7 @@ soumis à retenue pour pension
 
 |
 
-33 669,84
+33 838,17
 
 |
 
@@ -3276,7 +3278,7 @@ soumis à retenue pour pension
 
 |
 
-33 725,13
+33 893,74
 
 |
 
@@ -3284,7 +3286,7 @@ soumis à retenue pour pension
 
 |
 
-33 780,42
+33 949,30
 
 |
 
@@ -3292,7 +3294,7 @@ soumis à retenue pour pension
 
 |
 
-33 835,71
+34 004,86
 
 |
 
@@ -3300,7 +3302,7 @@ soumis à retenue pour pension
 
 |
 
-33 890,99
+34 060,43
 
 |
 
@@ -3308,7 +3310,7 @@ soumis à retenue pour pension
 
 |
 
-33 946,28
+34 115,99
 
 |
 
@@ -3316,7 +3318,7 @@ soumis à retenue pour pension
 
 |
 
-34 001,57
+34 171,55
 
 |
 
@@ -3324,7 +3326,7 @@ soumis à retenue pour pension
 
 |
 
-34 056,85
+34 227,12
 
 |
 
@@ -3332,7 +3334,7 @@ soumis à retenue pour pension
 
 |
 
-34 112,14
+34 282,68
 
 |
 
@@ -3340,7 +3342,7 @@ soumis à retenue pour pension
 
 |
 
-34 167,43
+34 338,24
 
 |
 
@@ -3348,7 +3350,7 @@ soumis à retenue pour pension
 
 |
 
-34 222,71
+34 393,81
 
 |
 
@@ -3356,7 +3358,7 @@ soumis à retenue pour pension
 
 |
 
-34 278,00
+34 449,37
 
 |
 
@@ -3364,7 +3366,7 @@ soumis à retenue pour pension
 
 |
 
-34 333,29
+34 504,93
 
 |
 
@@ -3372,7 +3374,7 @@ soumis à retenue pour pension
 
 |
 
-34 388,58
+34 560,50
 
 |
 
@@ -3380,7 +3382,7 @@ soumis à retenue pour pension
 
 |
 
-34 443,86
+34 616,06
 
 |
 
@@ -3388,7 +3390,7 @@ soumis à retenue pour pension
 
 |
 
-34 499,15
+34 671,62
 
 |
 
@@ -3396,7 +3398,7 @@ soumis à retenue pour pension
 
 |
 
-34 554,44
+34 727,19
 
 |
 
@@ -3404,7 +3406,7 @@ soumis à retenue pour pension
 
 |
 
-34 609,72
+34 782,75
 
 |
 
@@ -3412,7 +3414,7 @@ soumis à retenue pour pension
 
 |
 
-34 665,01
+34 838,31
 
 |
 
@@ -3420,7 +3422,7 @@ soumis à retenue pour pension
 
 |
 
-34 720,30
+34 893,88
 
 |
 
@@ -3428,7 +3430,7 @@ soumis à retenue pour pension
 
 |
 
-34 775,59
+34 949,44
 
 |
 
@@ -3436,7 +3438,7 @@ soumis à retenue pour pension
 
 |
 
-34 830,87
+35 005,01
 
 |
 
@@ -3444,7 +3446,7 @@ soumis à retenue pour pension
 
 |
 
-34 886,16
+35 060,57
 
 |
 
@@ -3452,7 +3454,7 @@ soumis à retenue pour pension
 
 |
 
-34 941,45
+35 116,13
 
 |
 
@@ -3460,7 +3462,7 @@ soumis à retenue pour pension
 
 |
 
-34 996,73
+35 171,70
 
 |
 
@@ -3468,7 +3470,7 @@ soumis à retenue pour pension
 
 |
 
-35 052,02
+35 227,26
 
 |
 
@@ -3476,7 +3478,7 @@ soumis à retenue pour pension
 
 |
 
-35 107,31
+35 282,82
 
 |
 
@@ -3484,7 +3486,7 @@ soumis à retenue pour pension
 
 |
 
-35 162,60
+35 338,39
 
 |
 
@@ -3492,7 +3494,7 @@ soumis à retenue pour pension
 
 |
 
-35 217,88
+35 393,95
 
 |
 
@@ -3500,7 +3502,7 @@ soumis à retenue pour pension
 
 |
 
-35 273,17
+35 449,51
 
 |
 
@@ -3508,7 +3510,7 @@ soumis à retenue pour pension
 
 |
 
-35 328,46
+35 505,08
 
 |
 
@@ -3516,7 +3518,7 @@ soumis à retenue pour pension
 
 |
 
-35 383,74
+35 560,64
 
 |
 
@@ -3524,7 +3526,7 @@ soumis à retenue pour pension
 
 |
 
-35 439,03
+35 616,20
 
 |
 
@@ -3532,7 +3534,7 @@ soumis à retenue pour pension
 
 |
 
-35 494,32
+35 671,77
 
 |
 
@@ -3540,7 +3542,7 @@ soumis à retenue pour pension
 
 |
 
-35 549,61
+35 727,33
 
 |
 
@@ -3548,7 +3550,7 @@ soumis à retenue pour pension
 
 |
 
-35 604,89
+35 782,89
 
 |
 
@@ -3556,7 +3558,7 @@ soumis à retenue pour pension
 
 |
 
-35 660,18
+35 838,46
 
 |
 
@@ -3564,7 +3566,7 @@ soumis à retenue pour pension
 
 |
 
-35 715,47
+35 894,02
 
 |
 
@@ -3572,7 +3574,7 @@ soumis à retenue pour pension
 
 |
 
-35 770,75
+35 949,58
 
 |
 
@@ -3580,7 +3582,7 @@ soumis à retenue pour pension
 
 |
 
-35 826,04
+36 005,15
 
 |
 
@@ -3588,7 +3590,7 @@ soumis à retenue pour pension
 
 |
 
-35 881,33
+36 060,71
 
 |
 
@@ -3596,7 +3598,7 @@ soumis à retenue pour pension
 
 |
 
-35 936,62
+36 116,28
 
 |
 
@@ -3604,7 +3606,7 @@ soumis à retenue pour pension
 
 |
 
-35 991,90
+36 171,84
 
 |
 
@@ -3612,7 +3614,7 @@ soumis à retenue pour pension
 
 |
 
-36 047,19
+36 227,40
 
 |
 
@@ -3620,7 +3622,7 @@ soumis à retenue pour pension
 
 |
 
-36 102,48
+36 282,97
 
 |
 
@@ -3628,7 +3630,7 @@ soumis à retenue pour pension
 
 |
 
-36 157,76
+36 338,53
 
 |
 
@@ -3636,7 +3638,7 @@ soumis à retenue pour pension
 
 |
 
-36 213,05
+36 394,09
 
 |
 
@@ -3644,7 +3646,7 @@ soumis à retenue pour pension
 
 |
 
-36 268,34
+36 449,66
 
 |
 
@@ -3652,7 +3654,7 @@ soumis à retenue pour pension
 
 |
 
-36 323,62
+36 505,22
 
 |
 
@@ -3660,7 +3662,7 @@ soumis à retenue pour pension
 
 |
 
-36 378,91
+36 560,78
 
 |
 
@@ -3668,7 +3670,7 @@ soumis à retenue pour pension
 
 |
 
-36 434,20
+36 616,35
 
 |
 
@@ -3676,7 +3678,7 @@ soumis à retenue pour pension
 
 |
 
-36 489,49
+36 671,91
 
 |
 
@@ -3684,7 +3686,7 @@ soumis à retenue pour pension
 
 |
 
-36 544,77
+36 727,47
 
 |
 
@@ -3692,7 +3694,7 @@ soumis à retenue pour pension
 
 |
 
-36 600,06
+36 783,04
 
 |
 
@@ -3700,7 +3702,7 @@ soumis à retenue pour pension
 
 |
 
-36 655,35
+36 838,60
 
 |
 
@@ -3708,7 +3710,7 @@ soumis à retenue pour pension
 
 |
 
-36 710,63
+36 894,16
 
 |
 
@@ -3716,7 +3718,7 @@ soumis à retenue pour pension
 
 |
 
-36 765,92
+36 949,73
 
 |
 
@@ -3724,7 +3726,7 @@ soumis à retenue pour pension
 
 |
 
-36 821,21
+37 005,29
 
 |
 
@@ -3732,7 +3734,7 @@ soumis à retenue pour pension
 
 |
 
-36 876,50
+37 060,85
 
 |
 
@@ -3740,7 +3742,7 @@ soumis à retenue pour pension
 
 |
 
-36 931,78
+37 116,42
 
 |
 
@@ -3748,7 +3750,7 @@ soumis à retenue pour pension
 
 |
 
-36 987,07
+37 171,98
 
 |
 
@@ -3756,7 +3758,7 @@ soumis à retenue pour pension
 
 |
 
-37 042,36
+37 227,55
 
 |
 
@@ -3764,7 +3766,7 @@ soumis à retenue pour pension
 
 |
 
-37 097,64
+37 283,11
 
 |
 
@@ -3772,7 +3774,7 @@ soumis à retenue pour pension
 
 |
 
-37 152,93
+37 338,67
 
 |
 
@@ -3780,7 +3782,7 @@ soumis à retenue pour pension
 
 |
 
-37 208,22
+37 394,24
 
 |
 
@@ -3788,7 +3790,7 @@ soumis à retenue pour pension
 
 |
 
-37 263,51
+37 449,80
 
 |
 
@@ -3796,7 +3798,7 @@ soumis à retenue pour pension
 
 |
 
-37 318,79
+37 505,36
 
 |
 
@@ -3804,7 +3806,7 @@ soumis à retenue pour pension
 
 |
 
-37 374,08
+37 560,93
 
 |
 
@@ -3812,7 +3814,7 @@ soumis à retenue pour pension
 
 |
 
-37 429,37
+37 616,49
 
 |
 
@@ -3820,7 +3822,7 @@ soumis à retenue pour pension
 
 |
 
-37 484,65
+37 672,05
 
 |
 
@@ -3828,7 +3830,7 @@ soumis à retenue pour pension
 
 |
 
-37 539,94
+37 727,62
 
 |
 
@@ -3836,7 +3838,7 @@ soumis à retenue pour pension
 
 |
 
-37 595,23
+37 783,18
 
 |
 
@@ -3844,7 +3846,7 @@ soumis à retenue pour pension
 
 |
 
-37 650,52
+37 838,74
 
 |
 
@@ -3852,7 +3854,7 @@ soumis à retenue pour pension
 
 |
 
-37 705,80
+37 894,31
 
 |
 
@@ -3860,7 +3862,7 @@ soumis à retenue pour pension
 
 |
 
-37 761,09
+37 949,87
 
 |
 
@@ -3868,7 +3870,7 @@ soumis à retenue pour pension
 
 |
 
-37 816,38
+38 005,43
 
 |
 
@@ -3876,7 +3878,7 @@ soumis à retenue pour pension
 
 |
 
-37 871,66
+38 061,00
 
 |
 
@@ -3884,7 +3886,7 @@ soumis à retenue pour pension
 
 |
 
-37 926,95
+38 116,56
 
 |
 
@@ -3892,7 +3894,7 @@ soumis à retenue pour pension
 
 |
 
-37 982,24
+38 172,12
 
 |
 
@@ -3900,7 +3902,7 @@ soumis à retenue pour pension
 
 |
 
-38 037,52
+38 227,69
 
 |
 
@@ -3908,7 +3910,7 @@ soumis à retenue pour pension
 
 |
 
-38 092,81
+38 283,25
 
 |
 
@@ -3916,7 +3918,7 @@ soumis à retenue pour pension
 
 |
 
-38 148,10
+38 338,82
 
 |
 
@@ -3924,7 +3926,7 @@ soumis à retenue pour pension
 
 |
 
-38 203,39
+38 394,38
 
 |
 
@@ -3932,7 +3934,7 @@ soumis à retenue pour pension
 
 |
 
-38 258,67
+38 449,94
 
 |
 
@@ -3940,7 +3942,7 @@ soumis à retenue pour pension
 
 |
 
-38 313,96
+38 505,51
 
 |
 
@@ -3948,7 +3950,7 @@ soumis à retenue pour pension
 
 |
 
-38 369,25
+38 561,07
 
 |
 
@@ -3956,7 +3958,7 @@ soumis à retenue pour pension
 
 |
 
-38 424,53
+38 616,63
 
 |
 
@@ -3964,7 +3966,7 @@ soumis à retenue pour pension
 
 |
 
-38 479,82
+38 672,20
 
 |
 
@@ -3972,7 +3974,7 @@ soumis à retenue pour pension
 
 |
 
-38 535,11
+38 727,76
 
 |
 
@@ -3980,7 +3982,7 @@ soumis à retenue pour pension
 
 |
 
-38 590,40
+38 783,32
 
 |
 
@@ -3988,7 +3990,7 @@ soumis à retenue pour pension
 
 |
 
-38 645,68
+38 838,89
 
 |
 
@@ -3996,7 +3998,7 @@ soumis à retenue pour pension
 
 |
 
-38 700,97
+38 894,45
 
 |
 
@@ -4004,7 +4006,7 @@ soumis à retenue pour pension
 
 |
 
-38 756,26
+38 950,01
 
 |
 
@@ -4012,7 +4014,7 @@ soumis à retenue pour pension
 
 |
 
-38 811,54
+39 005,58
 
 |
 
@@ -4020,7 +4022,7 @@ soumis à retenue pour pension
 
 |
 
-38 866,83
+39 061,14
 
 |
 
@@ -4028,7 +4030,7 @@ soumis à retenue pour pension
 
 |
 
-38 922,12
+39 116,70
 
 |
 
@@ -4036,7 +4038,7 @@ soumis à retenue pour pension
 
 |
 
-38 977,41
+39 172,27
 
 |
 
@@ -4044,7 +4046,7 @@ soumis à retenue pour pension
 
 |
 
-39 032,69
+39 227,83
 
 |
 
@@ -4052,7 +4054,7 @@ soumis à retenue pour pension
 
 |
 
-39 087,98
+39 283,39
 
 |
 
@@ -4060,7 +4062,7 @@ soumis à retenue pour pension
 
 |
 
-39 143,27
+39 338,96
 
 |
 
@@ -4068,7 +4070,7 @@ soumis à retenue pour pension
 
 |
 
-39 198,55
+39 394,52
 
 |
 
@@ -4076,7 +4078,7 @@ soumis à retenue pour pension
 
 |
 
-39 253,84
+39 450,09
 
 |
 
@@ -4084,7 +4086,7 @@ soumis à retenue pour pension
 
 |
 
-39 309,13
+39 505,65
 
 |
 
@@ -4092,7 +4094,7 @@ soumis à retenue pour pension
 
 |
 
-39 364,42
+39 561,21
 
 |
 
@@ -4100,7 +4102,7 @@ soumis à retenue pour pension
 
 |
 
-39 419,70
+39 616,78
 
 |
 
@@ -4108,7 +4110,7 @@ soumis à retenue pour pension
 
 |
 
-39 474,99
+39 672,34
 
 |
 
@@ -4116,7 +4118,7 @@ soumis à retenue pour pension
 
 |
 
-39 530,28
+39 727,90
 
 |
 
@@ -4124,7 +4126,7 @@ soumis à retenue pour pension
 
 |
 
-39 585,56
+39 783,47
 
 |
 
@@ -4132,7 +4134,7 @@ soumis à retenue pour pension
 
 |
 
-39 640,85
+39 839,03
 
 |
 
@@ -4140,7 +4142,7 @@ soumis à retenue pour pension
 
 |
 
-39 696,14
+39 894,59
 
 |
 
@@ -4148,7 +4150,7 @@ soumis à retenue pour pension
 
 |
 
-39 751,42
+39 950,16
 
 |
 
@@ -4156,7 +4158,7 @@ soumis à retenue pour pension
 
 |
 
-39 806,71
+40 005,72
 
 |
 
@@ -4164,7 +4166,7 @@ soumis à retenue pour pension
 
 |
 
-39 862,00
+40 061,28
 
 |
 
@@ -4172,7 +4174,7 @@ soumis à retenue pour pension
 
 |
 
-39 917,29
+40 116,85
 
 |
 
@@ -4180,7 +4182,7 @@ soumis à retenue pour pension
 
 |
 
-39 972,57
+40 172,41
 
 |
 
@@ -4188,7 +4190,7 @@ soumis à retenue pour pension
 
 |
 
-40 027,86
+40 227,97
 
 |
 
@@ -4196,7 +4198,7 @@ soumis à retenue pour pension
 
 |
 
-40 083,15
+40 283,54
 
 |
 
@@ -4204,7 +4206,7 @@ soumis à retenue pour pension
 
 |
 
-40 138,43
+40 339,10
 
 |
 
@@ -4212,7 +4214,7 @@ soumis à retenue pour pension
 
 |
 
-40 193,72
+40 394,66
 
 |
 
@@ -4220,7 +4222,7 @@ soumis à retenue pour pension
 
 |
 
-40 249,01
+40 450,23
 
 |
 
@@ -4228,7 +4230,7 @@ soumis à retenue pour pension
 
 |
 
-40 304,30
+40 505,79
 
 |
 
@@ -4236,7 +4238,7 @@ soumis à retenue pour pension
 
 |
 
-40 359,58
+40 561,36
 
 |
 
@@ -4244,7 +4246,7 @@ soumis à retenue pour pension
 
 |
 
-40 414,87
+40 616,92
 
 |
 
@@ -4252,7 +4254,7 @@ soumis à retenue pour pension
 
 |
 
-40 470,16
+40 672,48
 
 |
 
@@ -4260,7 +4262,7 @@ soumis à retenue pour pension
 
 |
 
-40 525,44
+40 728,05
 
 |
 
@@ -4268,7 +4270,7 @@ soumis à retenue pour pension
 
 |
 
-40 580,73
+40 783,61
 
 |
 
@@ -4276,7 +4278,7 @@ soumis à retenue pour pension
 
 |
 
-40 636,02
+40 839,17
 
 |
 
@@ -4284,7 +4286,7 @@ soumis à retenue pour pension
 
 |
 
-40 691,31
+40 894,74
 
 |
 
@@ -4292,7 +4294,7 @@ soumis à retenue pour pension
 
 |
 
-40 746,59
+40 950,30
 
 |
 
@@ -4300,7 +4302,7 @@ soumis à retenue pour pension
 
 |
 
-40 801,88
+41 005,86
 
 |
 
@@ -4308,7 +4310,7 @@ soumis à retenue pour pension
 
 |
 
-40 857,17
+41 061,43
 
 |
 
@@ -4316,7 +4318,7 @@ soumis à retenue pour pension
 
 |
 
-40 912,45
+41 116,99
 
 |
 
@@ -4324,7 +4326,7 @@ soumis à retenue pour pension
 
 |
 
-40 967,74
+41 172,55
 
 |
 
@@ -4332,7 +4334,7 @@ soumis à retenue pour pension
 
 |
 
-41 023,03
+41 228,12
 
 |
 
@@ -4340,7 +4342,7 @@ soumis à retenue pour pension
 
 |
 
-41 078,32
+41 283,68
 
 |
 
@@ -4348,7 +4350,7 @@ soumis à retenue pour pension
 
 |
 
-41 133,60
+41 339,24
 
 |
 
@@ -4356,7 +4358,7 @@ soumis à retenue pour pension
 
 |
 
-41 188,89
+41 394,81
 
 |
 
@@ -4364,7 +4366,7 @@ soumis à retenue pour pension
 
 |
 
-41 244,18
+41 450,37
 
 |
 
@@ -4372,7 +4374,7 @@ soumis à retenue pour pension
 
 |
 
-41 299,46
+41 505,93
 
 |
 
@@ -4380,7 +4382,7 @@ soumis à retenue pour pension
 
 |
 
-41 354,75
+41 561,50
 
 |
 
@@ -4388,7 +4390,7 @@ soumis à retenue pour pension
 
 |
 
-41 410,04
+41 617,06
 
 |
 
@@ -4396,7 +4398,7 @@ soumis à retenue pour pension
 
 |
 
-41 465,33
+41 672,63
 
 |
 
@@ -4404,7 +4406,7 @@ soumis à retenue pour pension
 
 |
 
-41 520,61
+41 728,19
 
 |
 
@@ -4412,7 +4414,7 @@ soumis à retenue pour pension
 
 |
 
-41 575,90
+41 783,75
 
 |
 
@@ -4420,7 +4422,7 @@ soumis à retenue pour pension
 
 |
 
-41 631,19
+41 839,32
 
 |
 
@@ -4428,7 +4430,7 @@ soumis à retenue pour pension
 
 |
 
-41 686,47
+41 894,88
 
 |
 
@@ -4436,7 +4438,7 @@ soumis à retenue pour pension
 
 |
 
-41 741,76
+41 950,44
 
 |
 
@@ -4444,7 +4446,7 @@ soumis à retenue pour pension
 
 |
 
-41 797,05
+42 006,01
 
 |
 
@@ -4452,7 +4454,7 @@ soumis à retenue pour pension
 
 |
 
-41 852,33
+42 061,57
 
 |
 
@@ -4460,7 +4462,7 @@ soumis à retenue pour pension
 
 |
 
-41 907,62
+42 117,13
 
 |
 
@@ -4468,7 +4470,7 @@ soumis à retenue pour pension
 
 |
 
-41 962,91
+42 172,70
 
 |
 
@@ -4476,7 +4478,7 @@ soumis à retenue pour pension
 
 |
 
-42 018,20
+42 228,26
 
 |
 
@@ -4484,7 +4486,7 @@ soumis à retenue pour pension
 
 |
 
-42 073,48
+42 283,82
 
 |
 
@@ -4492,7 +4494,7 @@ soumis à retenue pour pension
 
 |
 
-42 128,77
+42 339,39
 
 |
 
@@ -4500,7 +4502,7 @@ soumis à retenue pour pension
 
 |
 
-42 184,06
+42 394,95
 
 |
 
@@ -4508,7 +4510,7 @@ soumis à retenue pour pension
 
 |
 
-42 239,34
+42 450,51
 
 |
 
@@ -4516,7 +4518,7 @@ soumis à retenue pour pension
 
 |
 
-42 294,63
+42 506,08
 
 |
 
@@ -4524,7 +4526,7 @@ soumis à retenue pour pension
 
 |
 
-42 349,92
+42 561,64
 
 |
 
@@ -4532,7 +4534,7 @@ soumis à retenue pour pension
 
 |
 
-42 405,21
+42 617,20
 
 |
 
@@ -4540,7 +4542,7 @@ soumis à retenue pour pension
 
 |
 
-42 460,49
+42 672,77
 
 |
 
@@ -4548,7 +4550,7 @@ soumis à retenue pour pension
 
 |
 
-42 515,78
+42 728,33
 
 |
 
@@ -4556,7 +4558,7 @@ soumis à retenue pour pension
 
 |
 
-42 571,07
+42 783,90
 
 |
 
@@ -4564,7 +4566,7 @@ soumis à retenue pour pension
 
 |
 
-42 626,35
+42 839,46
 
 |
 
@@ -4572,7 +4574,7 @@ soumis à retenue pour pension
 
 |
 
-42 681,64
+42 895,02
 
 |
 
@@ -4580,7 +4582,7 @@ soumis à retenue pour pension
 
 |
 
-42 736,93
+42 950,59
 
 |
 
@@ -4588,7 +4590,7 @@ soumis à retenue pour pension
 
 |
 
-42 792,22
+43 006,15
 
 |
 
@@ -4596,7 +4598,7 @@ soumis à retenue pour pension
 
 |
 
-42 847,50
+43 061,71
 
 |
 
@@ -4604,7 +4606,7 @@ soumis à retenue pour pension
 
 |
 
-42 902,79
+43 117,28
 
 |
 
@@ -4612,7 +4614,7 @@ soumis à retenue pour pension
 
 |
 
-42 958,08
+43 172,84
 
 |
 
@@ -4620,7 +4622,7 @@ soumis à retenue pour pension
 
 |
 
-43 013,36
+43 228,40
 
 |
 
@@ -4628,7 +4630,7 @@ soumis à retenue pour pension
 
 |
 
-43 068,65
+43 283,97
 
 |
 
@@ -4636,7 +4638,7 @@ soumis à retenue pour pension
 
 |
 
-43 123,94
+43 339,53
 
 |
 
@@ -4644,7 +4646,7 @@ soumis à retenue pour pension
 
 |
 
-43 179,23
+43 395,09
 
 |
 
@@ -4652,7 +4654,7 @@ soumis à retenue pour pension
 
 |
 
-43 234,51
+43 450,66
 
 |
 
@@ -4660,7 +4662,7 @@ soumis à retenue pour pension
 
 |
 
-43 289,80
+43 506,22
 
 |
 
@@ -4668,7 +4670,7 @@ soumis à retenue pour pension
 
 |
 
-43 345,09
+43 561,78
 
 |
 
@@ -4676,7 +4678,7 @@ soumis à retenue pour pension
 
 |
 
-43 400,37
+43 617,35
 
 |
 
@@ -4684,7 +4686,7 @@ soumis à retenue pour pension
 
 |
 
-43 455,66
+43 672,91
 
 |
 
@@ -4692,7 +4694,7 @@ soumis à retenue pour pension
 
 |
 
-43 510,95
+43 728,47
 
 |
 
@@ -4700,7 +4702,7 @@ soumis à retenue pour pension
 
 |
 
-43 566,23
+43 784,04
 
 |
 
@@ -4708,7 +4710,7 @@ soumis à retenue pour pension
 
 |
 
-43 621,52
+43 839,60
 
 |
 
@@ -4716,7 +4718,7 @@ soumis à retenue pour pension
 
 |
 
-43 676,81
+43 895,17
 
 |
 
@@ -4724,7 +4726,7 @@ soumis à retenue pour pension
 
 |
 
-43 732,10
+43 950,73
 
 |
 
@@ -4732,7 +4734,7 @@ soumis à retenue pour pension
 
 |
 
-43 787,38
+44 006,29
 
 |
 
@@ -4740,7 +4742,7 @@ soumis à retenue pour pension
 
 |
 
-43 842,67
+44 061,86
 
 |
 
@@ -4748,7 +4750,7 @@ soumis à retenue pour pension
 
 |
 
-43 897,96
+44 117,42
 
 |
 
@@ -4756,7 +4758,7 @@ soumis à retenue pour pension
 
 |
 
-43 953,24
+44 172,98
 
 |
 
@@ -4764,7 +4766,7 @@ soumis à retenue pour pension
 
 |
 
-44 008,53
+44 228,55
 
 |
 
@@ -4772,7 +4774,7 @@ soumis à retenue pour pension
 
 |
 
-44 063,82
+44 284,11
 
 |
 
@@ -4780,7 +4782,7 @@ soumis à retenue pour pension
 
 |
 
-44 119,11
+44 339,67
 
 |
 
@@ -4788,7 +4790,7 @@ soumis à retenue pour pension
 
 |
 
-44 174,39
+44 395,24
 
 |
 
@@ -4796,7 +4798,7 @@ soumis à retenue pour pension
 
 |
 
-44 229,68
+44 450,80
 
 |
 
@@ -4804,7 +4806,7 @@ soumis à retenue pour pension
 
 |
 
-44 284,97
+44 506,36
 
 |
 
@@ -4812,7 +4814,7 @@ soumis à retenue pour pension
 
 |
 
-44 340,25
+44 561,93
 
 |
 
@@ -4820,7 +4822,7 @@ soumis à retenue pour pension
 
 |
 
-44 395,54
+44 617,49
 
 |
 
@@ -4828,7 +4830,7 @@ soumis à retenue pour pension
 
 |
 
-44 450,83
+44 673,05
 
 |
 
@@ -4836,7 +4838,7 @@ soumis à retenue pour pension
 
 |
 
-44 506,12
+44 728,62
 
 |
 
@@ -4844,7 +4846,7 @@ soumis à retenue pour pension
 
 |
 
-44 561,40
+44 784,18
 
 |
 
@@ -4852,7 +4854,7 @@ soumis à retenue pour pension
 
 |
 
-44 616,69
+44 839,74
 
 |
 
@@ -4860,7 +4862,7 @@ soumis à retenue pour pension
 
 |
 
-44 671,98
+44 895,31
 
 |
 
@@ -4868,7 +4870,7 @@ soumis à retenue pour pension
 
 |
 
-44 727,26
+44 950,87
 
 |
 
@@ -4876,7 +4878,7 @@ soumis à retenue pour pension
 
 |
 
-44 782,55
+45 006,44
 
 |
 
@@ -4884,7 +4886,7 @@ soumis à retenue pour pension
 
 |
 
-44 837,84
+45 062,00
 
 |
 
@@ -4892,7 +4894,7 @@ soumis à retenue pour pension
 
 |
 
-44 893,13
+45 117,56
 
 |
 
@@ -4900,7 +4902,7 @@ soumis à retenue pour pension
 
 |
 
-44 948,41
+45 173,13
 
 |
 
@@ -4908,7 +4910,7 @@ soumis à retenue pour pension
 
 |
 
-45 003,70
+45 228,69
 
 |
 
@@ -4916,7 +4918,7 @@ soumis à retenue pour pension
 
 |
 
-45 058,99
+45 284,25
 
 |
 
@@ -4924,7 +4926,7 @@ soumis à retenue pour pension
 
 |
 
-45 114,27
+45 339,82
 
 |
 
@@ -4932,7 +4934,7 @@ soumis à retenue pour pension
 
 |
 
-45 169,56
+45 395,38
 
 |
 
@@ -4940,7 +4942,7 @@ soumis à retenue pour pension
 
 |
 
-45 224,85
+45 450,94
 
 |
 
@@ -4948,7 +4950,7 @@ soumis à retenue pour pension
 
 |
 
-45 280,13
+45 506,51
 
 |
 
@@ -4956,7 +4958,7 @@ soumis à retenue pour pension
 
 |
 
-45 335,42
+45 562,07
 
 |
 
@@ -4964,6 +4966,6 @@ soumis à retenue pour pension
 
 |
 
-45 390,71
+45 617,63
 
 |
