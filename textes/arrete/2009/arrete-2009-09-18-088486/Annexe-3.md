@@ -104,4 +104,4 @@ CY
 
 Barème de calcul du montant de l'aide à la cessation définitive d'activité :
 
-Montant de l'aide = 1 190 euros × GT
+Montant de l'aide = 4 760 euros × GT
