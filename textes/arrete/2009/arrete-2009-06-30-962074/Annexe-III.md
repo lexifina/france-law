@@ -4,6 +4,8 @@ LISTE DES NAVIRES RETENUS POUR BÉNÉFICIER D'UNE AIDE À LA SORTIE DE FLOTTE
 
 AU TITRE DU RÈGLEMENT (CE) N° 744 / 2008 DU CONSEIL
 
+Programme d'adaptation de la flotte de Bretagne
+
 NOM
 
 |
@@ -136,60 +138,28 @@ BA
 
 |
 
-BARÈME DE CALCUL DU MONTANT DE L'AIDE À LA CESSATION DÉFINITIVE D'ACTIVITÉ
+Programme d'adaptation de la flotte de Vendée
 
-Montant de l'aide = part indexée × GT + part fixe
-
-TONNAGE (GT UMS)
+NOM
 
 |
 
-PRIME (EN EUROS)
+QUARTIER
 
 |
 
-|
-
-PART INDEXÉE
+IMMATRICULATION
 
 |
 
-PART FIXE
+Baccara
 
 |
 
-0< >5
+BA
 
 |
 
-0 €
-
-|
-
-57 000 €
-
-|
-
-5< >20
-
-|
-
-11 007 €
-
-|
-
-1 965 €
-
-|
-
-20< >300
-
-|
-
-2 930 €
-
-|
-
-163 505 €
+318 346
 
 |
