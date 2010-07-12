@@ -14,9 +14,11 @@ Remarques préliminaires
 
 1.1. Application de la directive 89/392/CEE telle que modifiée par les directives 91/368/CEE, 93/44/CEE et 93/68/CEE, codifiées par la directive 98/37/CE du 22 juin 1998, transposées par la loi du 31 décembre 1991 et les décrets n° 92-765, n° 92-766 et n° 92-767 du 29 juillet 1992 et n° 96-725 du 14 août 1996. Lorsque le risque correspondant existe et n'est pas traité dans la présente annexe, les exigences essentielles de santé et de sécurité de l'annexe I de la directive 98/37/CE susmentionnée s'appliquent. En tout état de cause, l'exigence essentielle visée au point 1.1.2 de l'annexe I de la directive 98/37/CE susmentionnée s'applique.
 
-1.2. Cabine.
+1. 2. Habitacle.
 
-La cabine doit être conçue et construite pour offrir l'espace et la résistance correspondant au nombre maximal de personnes et à la charge nominale de l'ascenseur fixés par l'installateur. Lorsque l'ascenseur est destiné au transport de personnes et que ses dimensions le permettent, la cabine doit être conçue et construite de façon à ne pas entraver ou empêcher, par ses caractéristiques structurelles, l'accès et l'usage par des personnes handicapées, et à permettre tous les aménagements appropriés destinés à leur en faciliter l'usage.
+L'habitacle de chaque ascenseur doit être une cabine. Cette cabine doit être conçue et construite pour offrir l'espace et la résistance correspondant au nombre maximal de personnes et à la charge nominale de l'ascenseur fixés par l'installateur.
+
+Lorsque l'ascenseur est destiné au transport de personnes et que ses dimensions le permettent, la cabine doit être conçue et construite de façon à ne pas entraver ou empêcher, par ses caractéristiques structurelles, l'accès et l'usage par des personnes handicapées et à permettre tous les aménagements appropriés destinés à leur en faciliter l'usage.
 
 1.3. Moyens de suspension et moyens de support.
 
