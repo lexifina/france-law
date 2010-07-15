@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613697
+
+- Question : [SEQ100613697](seq100613697.md) — Attribution de la campagne double aux anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Défense et anciens combattants, JO du 2010-07-15, page 1854*
+
+Les bénéfices de campagne constituent une bonification d'ancienneté prévue par le code des pensions civiles et militaires de retraite. Ce sont des avantages particuliers accordés aux militaires, et sous certaines conditions aux fonctionnaires civils. L'attribution de la campagne double signifie que chaque jour de service effectué par le militaire est compté pour trois jours dans le calcul de sa pension. La loi du 18 octobre 1999 a substitué à l'expression « aux opérations effectuées en Afrique du Nord » l'expression « à la guerre d'Algérie ou aux combats en Tunisie et au Maroc », qualifiant le conflit en Algérie de « guerre ». Elle a ainsi créé une situation juridique nouvelle. Il en découle que les personnes qui ont été exposées à des situations de combat au cours de la guerre d'Algérie sont susceptibles de bénéficier de la campagne double. Cela a été confirmé par le Conseil d'État dans sa décision du 17 mars dernier. Avec le ministre du budget, des comptes publics et de la réforme de l'État et le ministre de la défense, le secrétaire d'État à la défense et aux anciens combattants s'est attaché à définir les circonstances de temps et de lieu permettant d'identifier les situations de combat qui pourraient ouvrir droit à un tel bénéfice. Ainsi, un projet de décret, relatif à l'attribution de la campagne double aux anciens combattants d'Afrique du Nord, fonctionnaires et assimilés, sera signé et publié très rapidement. Il répondra aux attentes du monde combattant et aux engagements pris lors de la dernière discussion budgétaire au Parlement.
