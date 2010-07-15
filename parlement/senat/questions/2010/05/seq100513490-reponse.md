@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513490
+
+- Question : [SEQ100513490](seq100513490.md) — Dotations de l'enseignement agricole privé
+
+## Réponse
+
+*Alimentation, JO du 2010-07-15, page 1847*
+
+Le ministère de l'alimentation, de l'agriculture et de la pêche (MAAP) est sensible à l'intérêt collectif porté à l'enseignement agricole et reste attentif aux préoccupations exprimées sur les moyens alloués à l'enseignement agricole, public comme privé, qui est un enseignement de grande qualité, afin de lui permettre d'assumer le rôle qui est le sien au sein de l'enseignement national français. L'objectif de maîtrise des dépenses publiques impose par ailleurs à tous les acteurs de l'administration des efforts budgétaires particuliers, notamment en matière d'emploi. Le MAAP y participe, au même titre que les autres départements ministériels. Toutefois, pour tenir compte de leurs spécificités, les dotations des établissements du Conseil national de l'enseignement agricole privé (CNEAP) en postes d'enseignants ont fait l'objet d'un traitement plus favorable. Afin d'assurer une rentrée dans les meilleures conditions en septembre 2010, toutes les marges disponibles ont été mobilisées afin d'atténuer de manière significative les efforts demandés à l'enseignement privé. Le Sénat a par ailleurs adopté le 1er décembre 2009 un amendement rétablissant cinquante équivalents temps plein (ETP) travaillé au budget de l'enseignement agricole, qui devait initialement subir la suppression de 224 ETP pour l'année scolaire 2010-2011. Ces efforts permettent aujourd'hui de limiter à 39 postes le nombre de suppressions d'emplois pour la rentrée 2010 dans l'enseignement agricole privé, soit la moitié seulement des suppressions réalisées en 2009, qui s'élevaient à 71 postes.
