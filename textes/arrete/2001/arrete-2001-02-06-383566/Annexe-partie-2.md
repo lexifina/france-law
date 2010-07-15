@@ -222,7 +222,7 @@ Méthyl trans-2-huienoate (n° CAS 623-43-8), en cas d'utili­sation comme ingr�
 
 |
 
-Huile de verbena (Limita citrinurora Kunth.) (n° CAS 8024-12-2), en cas d'utilisation comme ingrédient de parfum.
+Huiles essentielles de verbena (Lippia citriodora Kunth.) et dérivés autres que l'absolue (n° CAS 8024-12-2), en cas d'utilisation comme ingrédient de parfum.
 
 |
 
