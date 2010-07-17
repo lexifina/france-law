@@ -82,6 +82,8 @@ Hôpital Saint-Joseph de Bitche.
 
 3 secrétaires médicales.
 
+1 auxiliaire de puériculture
+
 |
 
 1er décembre 2008
