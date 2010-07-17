@@ -228,9 +228,7 @@ I-5. Exigences minimales
 
 Tableau 6.-Niveaux de méthodes minimum devant être appliqués, sauf en cas d'impossibilité technique
 
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
-
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
+Vous pouvez consulter le tableau dans le JO n° 89 du 16/04/2010 texte numéro 2
 
 II.-Méthodes fondées sur la mesure
 
