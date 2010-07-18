@@ -12,15 +12,21 @@ Localisation de l'emploi
 
 |
 
-Nombre d'emplois |
+Nombre d'emplois
 
-Nombre de points NBI |
+|
+
+Nombre de points NBI
+
+|
 
 13
 
 |
 
-SGAP de la zone de défense Sud |
+SGAP de la zone de défense Sud
+
+|
 
 2
 
@@ -30,15 +36,37 @@ SGAP de la zone de défense Sud |
 
 |
 
-33 |
+21
 
-SGAP de la zone de défense Sud-Ouest |
+|
+
+Délégation régionale de Dijon.
+
+|
+
+1
+
+|
+
+30
+
+|
+
+33
+
+|
+
+SGAP de la zone de défense Sud-Ouest
+
+|
 
 2
 
 |
 
-50 |
+50
+
+|
 
 31
 
@@ -68,8 +96,6 @@ SGAP de la zone de défense Ouest.
 
 |
 
-|
-
 Directeur des ressources humaines.
 
 |
@@ -79,8 +105,6 @@ Directeur des ressources humaines.
 |
 
 60
-
-|
 
 |
 
@@ -100,7 +124,9 @@ Directeur des affaires financières.
 
 |
 
-SGAP de la zone de défense Est. |
+SGAP de la zone de défense Est.
+
+|
 
 2
 
@@ -110,27 +136,11 @@ SGAP de la zone de défense Est. |
 
 |
 
-21
-
-|
-
-Délégation régionale de Dijon.
-
-|
-
-1
-
-|
-
-30
-
-|
-
 59
 
 |
 
-SGAP de la zone de défense Nord. |
+SGAP de la zone de défense Nord.
 
 |
 
@@ -142,15 +152,19 @@ Directeur des ressources humaines.
 
 |
 
-1 |
+1
+
+|
 
 60
 
 |
 
-|
+Chargé de mission auprès du préfet délégué
 
-Chargé de mission auprès du préfet délégué pour la sécurité et la défense. |
+pour la sécurité et la défense.
+
+|
 
 1
 
@@ -160,9 +174,9 @@ Chargé de mission auprès du préfet délégué pour la sécurité et la défen
 
 |
 
-|
+Directeur de l'administration générale
 
-Directeur de l'administration générale et des finances.
+et des finances.
 
 |
 
@@ -178,7 +192,9 @@ Directeur de l'administration générale et des finances.
 
 |
 
-SGAP de la zone de défense Sud-Est |
+SGAP de la zone de défense Sud-Est
+
+|
 
 2
 
@@ -218,13 +234,31 @@ Nombre d'emplois
 
 |
 
-Nombre de points NBI |
+Nombre de points NBI
+
+|
 
 13
 
 |
 
 Bouches-du-Rhône.
+
+|
+
+1
+
+|
+
+30
+
+|
+
+33
+
+|
+
+Gironde (1)
 
 |
 
@@ -284,22 +318,6 @@ Rhône.
 
 |
 
-77
-
-|
-
-Seine-et-Marne.
-
-|
-
-1
-
-|
-
-30
-
-|
-
 78
 
 |
@@ -332,22 +350,6 @@ Hauts-de-Seine.
 
 |
 
-94
-
-|
-
-Val-de-Marne.
-
-|
-
-1
-
-|
-
-50
-
-|
-
 CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL
 
 dans la structure de formation de police suivante
@@ -362,13 +364,17 @@ Nombre d'emplois
 
 |
 
-Nombre de points NBI |
+Nombre de points NBI
+
+|
 
 63
 
 |
 
-Institut national de la formation de Clermont-Ferrand.
+Institut national de la formation
+
+de Clermont-Ferrand.
 
 |
 
@@ -379,3 +385,7 @@ Institut national de la formation de Clermont-Ferrand.
 30
 
 |
+
+NOTA :
+
+(1) Arrêté du 8 juillet 2010 article 3 : Les présentes dispositions entreront en vigueur le 1er septembre 2010.

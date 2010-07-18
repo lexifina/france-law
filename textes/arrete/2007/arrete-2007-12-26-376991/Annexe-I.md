@@ -14,9 +14,13 @@ Directions et services
 
 |
 
-Fonctions |
+Fonctions
 
-Points NBI |
+|
+
+Points NBI
+
+|
 
 Cabinet du ministre.
 
@@ -106,9 +110,13 @@ Chef du bureau du budget et de la programmation financière.
 
 Chef du bureau du personnel et des compétences.
 
+Chef de cabinet.
+
 |
 
 50
+
+30
 
 30
 
@@ -304,7 +312,7 @@ Chef du bureau des affaires disciplinaires.
 
 |
 
-Chef du bureau des rémunérations et régimes indemnitaires.
+Chef du bureau des personnels administratifs, techniques et scientifiques. (1)
 
 |
 
@@ -374,9 +382,7 @@ Chef de cabinet du directeur de l'administration de la police nationale.
 
 |
 
-Chef de la mission de la politique immobilière.
-
-|
+Chef de la mission CHORUS de la police nationale. |
 
 30
 
@@ -512,7 +518,7 @@ Service des affaires immobilières.
 
 |
 
-Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. (1) |
+Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. |
 
 50
 
@@ -664,6 +670,18 @@ Chef du bureau des finances et de la commande publique.
 
 |
 
+Direction de l'ordre public et de la circulation.
+
+|
+
+Chef de la mission rationalisation des missions support.
+
+|
+
+50
+
+|
+
 Délégation générale à l'outre-mer.
 
 |
@@ -680,7 +698,7 @@ Service des affaires juridiques et institutionnelles.
 
 |
 
-Adjoint au chef du département du droit privé et du droit des activités économiques et sociales.
+Chef de la mission contentieux, légistique et fonction publique.
 
 |
 
@@ -718,4 +736,4 @@ Chef du département de l'asile à la frontière et de l'admission au séjour.
 
 NOTA :
 
-(1) Arrêté du 20 octobre 2009 art 2 : les présentes dispositions entreront en vigueur le 1er janvier 2010.
+(1) Arrêté du 8 juillet 2010 article 3 : Les présentes dispositions entreront en vigueur le 1er septembre 2010.
