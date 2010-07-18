@@ -20,6 +20,8 @@ Conduite et pilotage des politiques de l'agriculture
 
 |
 
+Enseignement technique agricole |
+
 06 - Education nationale
 
 |
@@ -68,6 +70,8 @@ Optimisation de l'usage du spectre hertzien
 
 |
 
+Gestion fiscale et financière de l'Etat et du secteur public local - expérimentation Chorus |
+
 09 - Intérieur, outre-mer et collectivités territoriales
 
 |
@@ -75,6 +79,10 @@ Optimisation de l'usage du spectre hertzien
 Administration territoriale
 
 |
+
+Conduite et pilotage des politiques de l'intérieur |
+
+Vie politique, cultuelle et associative |
 
 10 - Justice et libertés
 
@@ -132,6 +140,8 @@ Conduite et pilotage des politiques de l'écologie, de l'énergie, du développe
 
 |
 
+Urbanisme, paysage, eau et biodiversité |
+
 31 - Logement et Ville
 
 |
@@ -157,10 +167,6 @@ Recherche dans le domaine de la gestion des milieux et des ressources
 |
 
 Recherche spatiale
-
-|
-
-Vie étudiante
 
 |
 
