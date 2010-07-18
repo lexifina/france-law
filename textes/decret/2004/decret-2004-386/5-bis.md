@@ -1,8 +1,8 @@
 # Article 5 bis
 
-Une prime de responsabilité et de sujétion mensuelle et une prime individuelle de résultat peuvent être attribuées aux agents occupant un emploi de directeur général adjoint ou de directeur à la direction générale.
+Une prime de responsabilité et de sujétion mensuelle et une prime individuelle de résultat peuvent être attribuées aux agents régis par le décret du 31 décembre 2003 susvisé occupant un emploi de directeur général adjoint ou de directeur à la direction générale.
 
-Ces primes peuvent également être attribuées aux agents occupant l'emploi de directeur régional des régions Ile-de-France, Rhône-Alpes, Provence-Alpes-Côte d'Azur et Nord - Pas-de-Calais en raison de l'importance et de la complexité particulière d'exercice de leurs fonctions.
+Ces primes peuvent également être attribuées aux agents régis par le décret du 31 décembre 2003 susvisé occupant l'emploi de directeur régional des régions Ile-de-France, Rhône-Alpes, Provence-Alpes-Côte d'Azur et Nord-Pas-de-Calais en raison de l'importance et de la complexité particulière d'exercice de leurs fonctions.
 
 Les montants maximaux mensuels de la prime de responsabilité et de sujétion sont fixés par arrêté conjoint des ministres chargés de l'emploi, du budget et de la fonction publique.
 
