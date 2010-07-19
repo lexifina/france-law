@@ -1,8 +1,6 @@
 # Article Annexe II
 
-LISTE DES CATÉGORIES D'INSTALLATIONS
-
-MENTIONNÉES AU POINT III DE L'ARTICLE 1er ET SEUILS ASSOCIÉS
+Liste des catégories d'installations mentionnées au point c du I de l'article 1er et seuils associés
 
 RUBRIQUE ICPE
 

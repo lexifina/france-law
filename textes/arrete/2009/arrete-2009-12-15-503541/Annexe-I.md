@@ -1,8 +1,6 @@
 # Article Annexe I
 
-LISTE DES ACTIViTÉS UTILISANT DES SOLVANTS ORGANIQUES
-
-MENTIONNÉES AU POINT I DE L'ARTICLE 1er
+Liste des activités utilisant des solvants organiques mentionnées au point a du I de l'article 1er
 
 RUBRIQUE ICPE
 
