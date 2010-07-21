@@ -150,7 +150,7 @@ Emplois de personnels ouvriers.
 
 |
 
-Office national de l'eau et des milieux aquatiques.
+Office national de l'eau et des milieux aquatiques
 
 |
 
@@ -230,7 +230,7 @@ Emplois des catégories A, B et C des services commerciaux et d'édition, des se
 
 |
 
-Etablissement public de maîtrise d'ouvrage des travaux culturels
+Opérateur du patrimoine et des projets immobiliers de la culture
 
 |
 
@@ -314,7 +314,7 @@ Laboratoire national de dépistage du dopage
 
 |
 
-Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants
+Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants.
 
 |
 
@@ -370,11 +370,11 @@ Agence nationale des titres sécurisés
 
 |
 
-Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels
+Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.
 
 |
 
-Etablissement public du parc national de la Réunion.
+Etablissement public du parc national de la Réunion
 
 |
 
