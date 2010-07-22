@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714494
+
+- Question : [SEQ100714494](seq100714494.md) — Suppression de l'exonération de la redevance pour pollution de l'eau pour les communes de moins de 400 habitants
+
+## Réponse
+
+*Écologie, JO du 2010-07-22, page 1917*
+
+Dans le dispositif de redevances antérieur à la loi n° 2006-1772 du 30 décembre 2006 sur l'eau et les milieux aquatiques (LEMA), les communes de moins de 400 habitants n'étaient pas soumises à la redevance pour pollution d'origine domestique appliquée par l'agence de l'eau, alors qu'elles bénéficiaient d'aides financières. Autrement dit, les habitants des communes de plus de 400 habitants payaient pour les habitants de celles de moins de 400 habitants. Depuis l'entrée en vigueur de la LEMA le 1er janvier 2008, toutes les communes y sont assujetties, ce qui confère à ce nouveau dispositif un caractère plus équitable entre les usagers face à l'impôt. Pour permettre aux communes de s'adapter, le Parlement a prévu une entrée en vigueur progressive de 20 % par an pendant cinq ans. Il est rappelé que cette mesure est associée aux financements du dispositif de la solidarité urbain-rural assuré par l'ensemble de la population pour les investissements des communes rurales dans les domaines de l'assainissement et de l'eau potable. Ces financements représentent, sur le bassin de l'Agence de l'eau Rhin-Meuse, un montant de 20 M€ par an environ à compter de 2010, à comparer aux 4,5 M€ par an de redevances des communes de moins de 400 habitants en 2010 et aux 7,5 M€ à l'échéance 2012. Il n'est pas possible de retarder l'application prévue à l'article 100 de la loi du 30 décembre 2006 dont les conditions d'application relatives au service de la distribution d'eau sont précisées à l'article 4 du décret modifié n° 2007-1311 du 5 septembre 2007 relatif aux modalités de calcul des redevances des agences de l'eau et modifiant le code de l'environnement.
