@@ -10,6 +10,12 @@ PARIS DU GROUPE II |
 
 Pari "Simple" |
 
+Pari "Simple" |
+
+|
+
+|
+
 Pari "Tiercé" |
 
 Pari "Tiercé" |
@@ -28,59 +34,71 @@ Pari "Quarté" |
 
 Pari "Couplé" |
 
-Pari "Trio Ordre International" |
+|
 
 Pari "Quartet" |
 
 Pari "Couplé Hippodrome" |
 
-Pari "Trio" |
-
-Pari "Quarté Plus" :
-
-Rapports ordre exact et ordre inexact |
-
-Pari "Trio" |
-
-Pari "Trio Ordre" |
-
-Pari "Quinté Plus" :
-
-Rapports ordre exact, ordre inexact et Tirelire |
-
-Pari "Trio Ordre" |
-
-Pari "Quarté Plus" :
-
-rapports ordre exact et ordre inexact |
+Pari "Couplé Hippodrome" |
 
 |
 
-Pari "Quarté Plus" : rapport Bonus |
+|
 
-Pari "Quarté Plus" : rapport Bonus |
+Pari "Trio Ordre International" |
 
 |
 
-Pari "Quinté Plus" :
+Pari "Trio" |
 
-rapports Bonus 3, Bonus 4 sur 5 et Bonus 4 |
+Pari "Trio" |
+
+|
+
+Pari "Trio Ordre" |
+
+Pari "Trio Ordre" |
+
+|
+
+|
+
+Pari "Quarté Plus" :
+
+rapport ordre exact et ordre inexact |
+
+Pari "Quarté Plus" :
+
+rapport ordre exact et ordre inexact |
+
+Pari "Quarté Plus" : rapport bonus |
+
+Pari "Quarté Plus" : rapport bonus |
+
+|
+
+|
 
 Pari "Quinté Plus" :
 
 rapports ordre exact, ordre inexact et Tirelire |
 
-|
+Pari "Quinté Plus" :
 
-Pari "Multi" |
+rapports ordre exact, ordre inexact et Tirelire |
 
 Pari "Quinté Plus" :
 
-rapports Bonus 3, Bonus 4 sur 5 et Bonus 4 |
+rapports Bonus 3, Bonus 4 sur 5 et Bonus 4. |
+
+Pari "Quinté Plus" :
+
+rapports Bonus 3, Bonus 4 sur 5 et Bonus 4. |
 
 |
 
-|
+Pari "Multi" |
 
 Pari "Multi" |
 
