@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513541
+
+- Question : [SEQ100513541](seq100513541.md) — Coût de la numérisation pour les radios associatives
+
+## Réponse
+
+*Culture, JO du 2010-07-22, page 1914*
+
+Depuis plus de vingt-cinq ans, le Gouvernement porte une attention toute particulière aux radios associatives, notamment par le biais du Fonds de soutien à l'expression radiophonique locale (FSER). Grâce à ce soutien financier prévu par le législateur en 1982, les radios locales associatives ont acquis une place essentielle au sein du paysage radiophonique. C'est pourquoi, il importe non seulement d'assurer à ce système d'aide le maintien de ses moyens, mais également de lui permettre d'évoluer pour soutenir les radios associatives face au défi de la diffusion numérique. C'est notamment pour faire face à ces nouveaux besoins que les crédits du FSER ont été portés de 26,5 à 29 M€ en 2010. Sur la base des conclusions de M. Emmanuel Hamelin, inspecteur général des affaires culturelles, et en collaboration avec les radios associatives, un système de soutien spécifique à la radio numérique a été mis en chantier, pour tenir compte à la fois des besoins spécifiques d'équipement de ces radios ainsi que des frais récurrents de fonctionnement, notamment de diffusion. Toutefois, le Conseil supérieur de l'audiovisuel ayant souhaité une implication des pouvoirs publics avant de délivrer les premières autorisations en radio numérique terrestre, le Premier ministre vient de confier à M. David Kessler, conseiller auprès du maire de Paris pour la Culture, une mission sur l'avenir numérique de la radio. Cette mission étudiera les conditions de mise en oeuvre de l'actuel projet de radio numérique par la voie terrestre et envisagera d'éventuelles pistes complémentaires pour une radio numérique répondant à l'ensemble des intérêts en jeu : ceux des auditeurs, des industriels et des éditeurs de radios qu'ils soient associatifs ou commerciaux.
