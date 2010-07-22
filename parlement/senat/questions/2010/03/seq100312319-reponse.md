@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312319
+
+- Question : [SEQ100312319](seq100312319.md) — Pensions de réversion versées aux conjoints survivants pour les fonctionnaires de la police nationale et militaires en retraite
+
+## Réponse
+
+*Intérieur, JO du 2010-07-22, page 1920*
+
+L'évolution sociale et le développement de nouveaux modèles familiaux posent en effet la question de l'adaptation des règles en matière de partage des pensions de réversion. Dans le régime actuel des pensions civiles et militaires de retraite, applicable au cas évoqué, l'article L. 45 du code prévoit, s'il existe au décès du fonctionnaire plusieurs conjoints divorcés ou survivants, un partage au prorata de la durée respective de chaque mariage. Cette disposition protège ainsi efficacement des conjoints qui n'auraient pas acquis de droits propres à une pension de retraite. L'article L. 46 dispose que le conjoint survivant ou divorcé qui contracte un nouveau mariage perd son droit à pension. Quant au conjoint divorcé qui s'est remarié avant le décès du fonctionnaire, son droit à pension est soumis à plusieurs conditions cumulatives énumérées à l'article L. 44. Ces restrictions sont de nature à favoriser le dernier conjoint survivant, éventuellement en charge de jeunes enfants, quand le remariage a eu lieu longtemps après un mariage ancien et que l'ancien conjoint, ayant refait sa vie, est exposé à un risque moindre de se retrouver sans ressources. Le Conseil d'orientation des retraites a consacré son sixième rapport - adopté le 17 décembre 2008 - au sujet : « Retraites : droits familiaux et conjugaux » et a étudié diverses hypothèses pour répondre aux mutations de la conjugalité. L'évolution des conditions de réversion est en cours d'examen dans le cadre du chantier sur les retraites mené actuellement par le Gouvernement.
