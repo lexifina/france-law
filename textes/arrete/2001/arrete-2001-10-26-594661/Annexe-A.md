@@ -80,14 +80,6 @@ Directeur général pour la recherche et l'innovation
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Directeur général des ressources humaines
 
 |
@@ -158,7 +150,7 @@ Directeur de l'évaluation, de la prospective et de la performance
 
 |
 
-Directeur des relations européennes, internationales et de la coopération
+Directeur des relations européennes et internationales et de la coopération
 
 |
 
@@ -342,9 +334,7 @@ Direction générale de l'enseignement scolaire :
 
 |
 
-Chef du service des enseignements et des formations, adjoint au directeur général
-
-|
+Chef de service, adjoint au directeur général |
 
 1
 
@@ -356,9 +346,7 @@ Chef du service des enseignements et des formations, adjoint au directeur géné
 
 |
 
-Chef du service du budget et de l'égalité des chances, adjoint au directeur général
-
-|
+Chef du service de l'instruction publique et de l'action pédagogique, adjoint au directeur général |
 
 1
 
@@ -370,7 +358,19 @@ Chef du service du budget et de l'égalité des chances, adjoint au directeur g�
 
 |
 
-Direction générale pour l'enseignement supérieur et l'insertion professionnelle
+Chef du service du budget, de la performance et des établissements, adjoint au directeur général |
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Direction générale pour l'enseignement supérieur et l'insertion professionnelle :
 
 |
 
@@ -381,20 +381,6 @@ Direction générale pour l'enseignement supérieur et l'insertion professionnel
 |
 
 Chef de service, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
-
-|
-
-|
-
-Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle
 
 |
 
@@ -422,7 +408,19 @@ Directeur du pôle de contractualisation et de financement des établissements d
 
 |
 
-Direction générale pour la recherche et de l'innovation
+Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle |
+
+1
+
+|
+
+120
+
+|
+
+|
+
+Direction générale pour la recherche et de l'innovation :
 
 |
 
@@ -518,7 +516,7 @@ Chef du service des grands projets immobiliers |
 
 |
 
-Secrétariat général
+Secrétariat général :
 
 |
 
@@ -602,7 +600,7 @@ Chef du service des personnels enseignants de l'enseignement scolaire, adjoint a
 
 |
 
-Chef du service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées, adjoint au directeur général
+Chef du service des personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, adjoint au directeur général
 
 |
 
@@ -740,7 +738,7 @@ Chef de service, adjoint au directeur
 
 |
 
-Direction des relations européennes, internationales et de la coopération
+Direction des relations européennes et internationales et de la coopération
 
 |
 
@@ -822,7 +820,7 @@ d'effet
 
 |
 
-Direction de l'enseignement scolaire :
+Direction générale de l'enseignement scolaire :
 
 |
 
@@ -832,9 +830,19 @@ Direction de l'enseignement scolaire :
 
 |
 
--sous-direction des écoles, des collèges et lycées généraux et technologiques
+Sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation |
+
+1
 
 |
+
+100
+
+|
+
+|
+
+Sous-direction des lycées et de la formation professionnelle tout au long de la vie |
 
 1
 
@@ -846,9 +854,19 @@ Direction de l'enseignement scolaire :
 
 |
 
--sous-direction des formations professionnelles
+Sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique |
+
+1
 
 |
+
+100
+
+|
+
+|
+
+Sous-direction de la gestion des programmes budgétaires |
 
 1
 
@@ -860,43 +878,25 @@ Direction de l'enseignement scolaire :
 
 |
 
--sous-direction des moyens, des études et du contrôle de gestion
-
-|
+Sous-direction de la performance et du dialogue avec les académies |
 
 1
 
 |
 
-110
+90
 
 |
 
 |
 
--sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives
-
-|
+Sous-direction de la vie scolaire, des établissements et des actions socio-éducatives |
 
 1
 
 |
 
-80
-
-|
-
-|
-
--sous-direction de la vie scolaire et des établissements
-
-|
-
-1
-
-|
-
-80
+100
 
 |
 
@@ -1032,8 +1032,6 @@ Sous-direction de la logistique de l'administration centrale
 
 |
 
-1er janvier 2007
-
 |
 
 Sous-direction des infrastructures techniques et de l'exploitation
@@ -1064,21 +1062,7 @@ Sous-direction des systèmes d'information
 
 |
 
-Sous-direction des technologies de l'information et de la communication pour l'éducation
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Direction générale des ressources humaines :
+Direction ngénérale des ressources humaines :
 
 |
 
@@ -1336,9 +1320,7 @@ Direction de l'évaluation, de la prospective et de la performance :
 
 |
 
-Sous-direction des synthèses statistiques
-
-|
+Sous-direction des synthèses |
 
 1
 
@@ -1348,9 +1330,7 @@ Sous-direction des synthèses statistiques
 
 |
 
-Sous-direction de la performance de l'enseignement scolaire
-
-|
+Sous-direction des évaluations et de la performance scolaire |
 
 1
 
@@ -1378,7 +1358,7 @@ Sous-direction des systèmes d'information et des études |
 
 |
 
-Direction des relations européennes, internationales et de la coopération :
+Direction des relations européennes et internationales et de la coopération :
 
 |
 
