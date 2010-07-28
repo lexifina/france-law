@@ -1,9 +1,5 @@
 # Article Annexe I
 
-EXIGENCES
-
-ET MÉTHODES D'ESSAIS D'APPLICATION GÉNÉRALE
-
 PROPRIÉTÉS
 
 |
@@ -12,7 +8,7 @@ UNITÉS
 
 |
 
-LIMITES
+VALEURS LIMITES
 
 |
 
@@ -24,7 +20,7 @@ Max.
 
 |
 
-Indice d'octane recherche, RON
+Indice d'octane "recherche", RON
 
 |
 
@@ -34,9 +30,11 @@ Indice d'octane recherche, RON
 
 |
 
+-
+
 |
 
-Indice d'octane moteur, MON
+Indice d'octane "moteur", MON
 
 |
 
@@ -46,29 +44,15 @@ Indice d'octane moteur, MON
 
 |
 
-|
-
-Teneur en plomb
+-
 
 |
 
-mg/l
+Masse volumique (à 15 °C)
 
 |
 
-―
-
-|
-
-5,0
-
-|
-
-Masse volumique (à 15° C)
-
-|
-
-kg/m³
+kg/m3
 
 |
 
@@ -77,30 +61,6 @@ kg/m³
 |
 
 775
-
-|
-
-Teneur en souffre
-
-|
-
-mg/kg
-
-|
-
-―
-
-|
-
-50,0 (jusqu'au
-
-31 décembre 2008)
-
-|
-
-10,0 (à compter
-
-du 1er janvier 2009)
 
 |
 
@@ -116,7 +76,7 @@ Minutes
 
 |
 
-―
+-
 
 |
 
@@ -128,7 +88,7 @@ mg/100 ml
 
 |
 
-―
+-
 
 |
 
@@ -140,6 +100,8 @@ Corrosion à la lame de cuivre (3 h à 50° C)
 
 |
 
+|
+
 Classe 1
 
 |
@@ -148,57 +110,63 @@ Aspect
 
 |
 
+|
+
 Claire et limpide
 
 |
 
-Teneur en hydrocarbures de type
+Composition en hydrocarbures :
 
 |
 
-% (V / V)
+|
 
 |
 
-―
+|
+
+1. Oléfines
+
+|
+
+% (V/V)
+
+|
+
+-
 
 |
 
 18,0
 
-42,0 (jusqu'au
+|
 
-31 décembre 2004)
+2. Aromatiques
 
 |
 
-― oléfines
+% (V/V)
 
 |
 
-― aromatiques
+-
 
 |
 
-―
+35,0
 
 |
 
-35,0 (à compter
-
-du 1er janvier 2005)
+3. Benzène
 
 |
 
-Teneur en benzène
+% (V/V)
 
 |
 
-% (V / V)
-
-|
-
-―
+-
 
 |
 
@@ -210,11 +178,9 @@ Teneur en oxygène
 
 |
 
-% (m / m)
+% (m/m)
 
 |
-
-―
 
 |
 
@@ -222,70 +188,156 @@ Teneur en oxygène
 
 |
 
-Teneur en composés oxygénés
-
-― méthanol
-
-― éthanol
-
-― alcool iso-propylique
-
-― alcool iso-butylique
-
-― alcool tert-butylique
-
-― éthers (5 atomes de C ou plus)
-
-― autres composés oxygénés
+Teneur en composés oxygénés :
 
 |
 
-% (V / V)
-
-―
-
-―
-
-―
-
-―
-
-―
-
-―
-
-―
+|
 
 |
 
-―
+|
 
-―
-
-―
-
-―
-
-―
-
-―
-
-―
+1. Méthanol
 
 |
 
-3,0
+% (V/V)
+
+|
+
+|
+
+3,0*
+
+|
+
+2. Ethanol (des agents stabilisants peuvent être nécessaires)
+
+|
+
+% (V/V)
+
+|
+
+|
+
+5,0*
+
+|
+
+3. Alcool isopropylique
+
+|
+
+% (V/V)
+
+|
+
+-
+
+|
+
+12,0*
+
+|
+
+4. Alcool butylique tertiaire
+
+|
+
+% (V/V)
+
+|
+
+-
+
+|
+
+15,0*
+
+|
+
+5. Alcool isobutylique
+
+|
+
+% (V/V)
+
+|
+
+-
+
+|
+
+15,0*
+
+|
+
+6. Ethers contenant 5 atomes de carbone ou plus par molécule
+
+|
+
+% (V/V)
+
+|
+
+-
+
+|
+
+22,0*
+
+|
+
+7. Autres composés oxygénés
+
+|
+
+% (V/V)
+
+|
+
+-
+
+|
+
+15,0*
+
+|
+
+Teneur en soufre
+
+|
+
+mg/kg
+
+|
+
+-
+
+|
+
+10,0
+
+|
+
+Teneur en plomb
+
+|
+
+mg/l
+
+|
+
+-
+
+|
 
 5,0
 
-10,0
+|
 
-10,0
-
-7,0
-
-15,0
-
-10,0
+(*) Valeur maximale dans le respect de la valeur limite de la teneur en oxygène fixée à 2,7 % (m/m).
 
 |
