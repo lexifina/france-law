@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714351
+
+- Question : [SEQ100714351](seq100714351.md) — Application du régime des droits d'auteur à un agent d'un syndicat intercommunal
+
+## Réponse
+
+*Culture, JO du 2010-07-29, page 1969*
+
+La loi du 1er août 2006 relative au droit d'auteur et aux droits voisins dans la société de l'information précise que les agents de l'État, des collectivités territoriales, des établissements publics à caractère administratif, des autorités administratives indépendantes dotées de la personnalité morale et de la Banque de France jouissent, sur les oeuvres de l'esprit créées dans l'exercice de leur fonction ou d'après les instructions reçues, d'un droit de propriété incorporelle exclusif et opposable à tous (art. L. 111-1 du code de la propriété intellectuelle). En tant qu'établissements publics à caractère administratif, les établissements publics de coopération intercommunale sont soumis à ces dispositions. La loi du 1er août 2006 prévoit toutefois la cession de plein droit à l'État des droits patrimoniaux afférents aux oeuvres créées par ses agents pour les exploitations à des fins non commerciales. Cette cession légale concerne l'oeuvre créée par « un agent de l'État dans l'exercice de ses fonctions ou d'après les instructions reçues » et s'applique « dans la mesure strictement nécessaire à l'accomplissement d'une mission de service public ». Pour l'exploitation commerciale de cette même oeuvre, l'État ne dispose envers l'agent auteur que d'un droit de préférence. Les conditions d'application de ce nouveau régime, et notamment les conditions d'exercice du droit de préférence, seront précisées par un décret en Conseil d'État qui fait actuellement l'objet d'une concertation interministérielle approfondie compte tenu des conséquences financières importantes que ce dispositif est susceptible d'avoir pour l'État, les collectivités territoriales et les agents concernés.
