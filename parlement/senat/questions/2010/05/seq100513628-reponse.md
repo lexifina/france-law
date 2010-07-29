@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513628
+
+- Question : [SEQ100513628](seq100513628.md) — Filiales de la Caisse des dépôts et consignations
+
+## Réponse
+
+*Économie, JO du 2010-07-29, page 1974*
+
+La Caisse des dépôts et consignations capital investissement (CDC CI), rebaptisée Qualium Investissement, est une filiale de la Caisse des dépôts et consignations (CDC). Cette filiale fait l'objet d'une présentation annuelle de son bilan dans le cadre de la commission de surveillance de la CDC, présidée par un parlementaire et au sein de laquelle le ministre chargé de l'économie est représenté. Comme l'a décidé le législateur, ni cette commission ni le Gouvernement n'ont de pouvoir d'approbation ou de contestation sur les décisions de gestion ou d'investissement de la caisse et de ses filiales, pouvoirs qui relèvent du directeur général de la CDC. À ce titre, Qualium Investissement ne fait donc pas l'objet d'un suivi particulier de la part de l'État qui n'a pas à connaître sa gestion au quotidien. Cette situation a certes évolué avec la loi de modernisation de l'économie qui a rénové la gouvernance de la Caisse afin d'améliorer la visibilité sur la stratégie d'investissement de la CDC. Elle a notamment permis d'adapter la composition de la commission de surveillance aux nouveaux métiers de la CDC, en prévoyant une meilleure représentation des compétences en matière de gestion et de finance par le biais de l'entrée de personnalités qualifiées. Elle a, par ailleurs, créé en son sein un comité spécialisé, le comité des investissements, chargé de donner un avis sur les prises de participations de la CDC et leurs cessions. C'est dans le cadre de ce comité que sont examinées en détail les opérations à caractère stratégique, cependant, le représentant de l'État n'est pas membre du Comité des investissements. Cette rénovation de la gouvernance permet une meilleure visibilité et transparence des investissements décidés par la CDC et ses filiales.
