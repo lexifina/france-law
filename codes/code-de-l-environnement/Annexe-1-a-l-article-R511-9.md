@@ -140,9 +140,19 @@ Substances et préparations dangereuses (définition et classification des).
 
 |
 
-Définition : Les termes " substances " et " préparations ", ainsi que les catégories de dangers des substances et préparations dangereuses, notamment celles de " comburantes ", " explosibles ", " facilement inflammables ", " toxiques ", " très toxiques " et " dangereuses pour l'environnement ", sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail.
+|
+
+Définition : Les termes "substances" et "préparations", ainsi que les catégories de dangers des substances et préparations dangereuses, notamment celles de "comburantes", "explosibles", "facilement inflammables", "toxiques", "très toxiques" et "dangereuses pour l'environnement", sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail.
 
 On entend par produit explosif toute substance ou préparation explosible et tout produit ouvré comportant des substances ou préparation explosibles destiné à être utilisé pour les effets de son explosion ou à des fins pyrotechniques.
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -150,9 +160,9 @@ Pour les substances dangereuses pour l'environnement, on distingue : A-Les subst
 
 |
 
-Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101, 3 kPa à une température de 20° C.
+Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101, 3 kPa à une température de 20 °C.
 
-Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 oC et à une pression normale de 101, 3 kPa.
+Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 °C et à une pression normale de 101, 3 kPa.
 
 |
 
@@ -160,11 +170,11 @@ Classification : a) Substances : Les substances comburantes, explosibles, inflam
 
 |
 
-b) Préparations : Le classement des préparations dangereuses résulte :-du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ;-du type de préparation.
+b) Préparations : Le classement des préparations dangereuses résulte : - du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ; - du type de préparation.
 
 |
 
-Les préparations dangereuses sont classées suivant les dispositions de l'arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des substances et préparations dangereuses et transposant la directive 1999 / 45 / CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses.
+Les préparations dangereuses sont classées suivant les dispositions de l'arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des substances et préparations dangereuses et transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses.
 
 |
 
@@ -172,11 +182,11 @@ Pour ses propriétés physico-chimiques, la préparation est classée suite à l
 
 |
 
-Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est classée par son fabricant :-soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de classification de l'annexe VI de ce même arrêté ;-soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation en fonction de leur concentration. Pour ses propriétés environnementales, une préparation dangereuse pour l'environnement est classée par son fabricant :
+Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est classée par son fabricant : - soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de classification de l'annexe VI de ce même arrêté ; - soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation en fonction de leur concentration. Pour ses propriétés environnementales, une préparation dangereuse pour l'environnement est classée par son fabricant :
 
--soit par des essais effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les critères de classification de l'annexe VI de ce même arrêté ;
+- soit par des essais effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les critères de classification de l'annexe VI de ce même arrêté ;
 
--soit en utilisant la méthode de calcul décrite au point a de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation en fonction de leur concentration.
+- soit en utilisant la méthode de calcul décrite au point a de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation en fonction de leur concentration.
 
 |
 
@@ -1198,7 +1208,7 @@ a) supérieure ou égale à 200 t
 
 |
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 |
 
@@ -1210,7 +1220,7 @@ A
 
 |
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 |
 
@@ -1218,7 +1228,7 @@ b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 |
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
 
 |
 
@@ -1700,7 +1710,7 @@ Substances et préparations particulières (stockage, emploi, fabrication indust
 
 1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de :
 
-4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et / ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
+4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
 
 |
 
@@ -2762,7 +2772,7 @@ DC
 
 |
 
-Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques.
+Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques.
 
 |
 
@@ -4296,7 +4306,7 @@ D
 
 |
 
-Produits explosifs (fabrication).
+Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)
 
 |
 
@@ -4308,7 +4318,7 @@ Produits explosifs (fabrication).
 
 |
 
-1. Fabrication industrielle par transformation chimique de : La quantité totale de matière active susceptible d'être présente dans l'installation étant (3) :
+1. Fabrication industrielle par transformation chimique de la quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :
 
 |
 
@@ -4364,9 +4374,9 @@ b) Inférieure à 10 t
 
 |
 
-2. Autres fabrications (1), chargement, encartouchage, conditionnement, études et recherches, essais, à l'exclusion des opérations effectuées sur le site d'emploi (2) en vue de celui-ci telles que chargement de trous de mines, montage, amorçage, mise en liaison électrique ou pyrotechnique.
+2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur, à l'exclusion des opérations effectuées sur le lieu d'utilisation en vue de celle-ci.
 
-La quantité totale de matière active susceptible d'être présente dans l'installation étant (3) :
+La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :
 
 |
 
@@ -4420,7 +4430,7 @@ b) Supérieure à 100 kg, mais inférieure à 10 t
 
 |
 
-c) Inférieure à 100 kg (4)
+c) Inférieure à 100 kg
 
 |
 
@@ -4438,13 +4448,53 @@ c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et 
 
 |
 
-(1) Nota.-Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs (par exemple, explosifs anti-avalanches, nitrate-fuels, émulsions, poudres propulsives, propergols, compositions pyrotechniques...).
+3. Fabrication d'explosif en unité mobile.
 
-(2) Nota.-On entend par emploi d'un produit explosif soit son utilisation pour les effets de son explosion, soit sa mise en situation d'utilisation dans un objet lui-même non classé produit explosif (dispositifs pyrotechniques de sécurité, par exemple).
+La quantité totale de matière active susceptible d'être présente dans l'installation étant (4) : |
 
-(3) Nota.-La quantité de matière active à retenir dans le classement sous cette rubrique doit tenir compte des produits intermédiaires, des en-cours et des déchets, dont la présence dans l'installation s'avère connexe à l'activité de fabrication.
+|
 
-(4) Nota.-Les unités mobiles de fabrication d'explosif sont classées sous cette rubrique si la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein n'est pas supérieure à 100 kg.
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 100 kg |
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Inférieure à 100 kg |
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Nota :
+
+(1) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées dans les espaces de vente des établissements recevant du public sont exclues.
+
+(2) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la présence dans l'installation s'avère connexe à l'activité de fabrication.
+
+(3) Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs.
+
+(4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein.
 
 |
 
@@ -4460,11 +4510,19 @@ c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et 
 
 |
 
-Produits explosifs (stockage de)
+Produits explosifs (stockage de), à l'exclusion des produits explosifs présents dans les espaces de vente des établissements recevant du public :
 
 |
 
 |
+
+|
+
+|
+
+|
+
+La quantité équivalente totale de matière active (1) susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4478,15 +4536,7 @@ La quantité équivalente totale de matière active susceptible d'être présent
 
 |
 
-|
-
-La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-1. supérieure ou égale à 10 t
+1. Supérieure ou égale à 10 t
 
 |
 
@@ -4526,9 +4576,21 @@ b) Supérieure ou égale à 500 kg, mais inférieure à 10 t
 
 |
 
-3. Supérieure ou égale à 250 kg, mais inférieure à 500 kg
+3. Supérieure ou égale à 100 kg, mais inférieure à 500 kg
 
 |
+
+E
+
+|
+
+|
+
+|
+
+|
+
+4. a) Supérieure ou égale à 30 kg et inférieure à 100 kg lorsque seuls des produits classés en division de risque 1.3 et 1.4 sont stockés dans l'installation |
 
 DC
 
@@ -4540,15 +4602,29 @@ DC
 
 |
 
-Nota.-Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques.
+b) Inférieure à 100 kg dans les autres cas |
 
-Le régime de classement d'une installation est déterminé en fonction de la quantité équivalente totale de matière active exprimée en quantité équivalente à celle d'un produit explosif de division de risques 1. 1 selon la formule :
+DC
 
-Quantité équivalente totale = A + B + C / 3 + D / 5 + E + F,
+|
 
-B, C, D, E, F représentant respectivement les quantités relatives aux produits classés en division de risque 1. 2, 1. 3, 1. 4, 1. 5 et 1. 6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport,
+|
 
-A représentant la quantité relative aux produits classés en division de risque 1. 1 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+|
+
+|
+
+Nota :
+
+(1) Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques.
+
+La "quantité équivalente totale de matière active" est établie selon la formule :
+
+Quantité équivalente totale = A + B + C/3 + D/5 + E + F
+
+A représentant la quantité relative aux produits classés en division de risque 1.1 ainsi que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+
+B, C, D, E, F représentant respectivement les quantités relatives aux produits classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
 
 |
 
@@ -4564,7 +4640,7 @@ A représentant la quantité relative aux produits classés en division de risqu
 
 |
 
-Produits explosifs (mise en oeuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux.
+Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux.
 
 |
 

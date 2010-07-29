@@ -540,7 +540,7 @@ D
 
 |
 
-a) supérieure à 500 kg/j
+a) supérieure à 500 kg / j
 
 |
 
@@ -1396,7 +1396,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre
 
 |
 
@@ -2104,7 +2104,7 @@ Le volume susceptible d'être stocké étant :
 
 |
 
-1. Supérieur ou égal à 40 000 m³ ;
+1. Supérieur ou égal à 40 000 m ³ ;
 
 |
 
@@ -2120,7 +2120,7 @@ A
 
 |
 
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
+2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
 
 |
 
@@ -2134,7 +2134,7 @@ E
 
 |
 
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 |
 
@@ -2176,7 +2176,7 @@ Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est comp
 
 |
 
-a) Supérieur ou égal à 45 000 m³ ;
+a) Supérieur ou égal à 45 000 m ³ ;
 
 |
 
@@ -2192,7 +2192,7 @@ A
 
 |
 
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
+b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
 
 |
 
@@ -2206,7 +2206,7 @@ E
 
 |
 
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
+c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
 
 |
 
@@ -2232,7 +2232,7 @@ D
 
 |
 
-a) Supérieur ou égal à 80 000 m³ ;
+a) Supérieur ou égal à 80 000 m ³ ;
 
 |
 
@@ -2248,7 +2248,7 @@ A
 
 |
 
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
+b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
 
 |
 
@@ -2262,7 +2262,7 @@ E
 
 |
 
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
+c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
 
 |
 
@@ -2304,7 +2304,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi no 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
+Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
 
 |
 
@@ -2834,9 +2834,7 @@ La quantité susceptible d'être présente étant :
 
 |
 
-1. Supérieure ou égale à 50 t
-
-|
+1. Supérieure ou égale à 50 t |
 
 10
 
@@ -2846,9 +2844,7 @@ La quantité susceptible d'être présente étant :
 
 |
 
-2. Inférieure à 50 t
-
-|
+2. Inférieure à 50 t |
 
 3
 
@@ -2962,9 +2958,7 @@ DC
 
 |
 
-a) Supérieure ou égale à 50 t
-
-|
+a) Supérieure ou égale à 50 t |
 
 6
 
@@ -2976,9 +2970,7 @@ a) Supérieure ou égale à 50 t
 
 |
 
-b) Supérieure ou égale à 1 t et inférieure à 50 t
-
-|
+b) Supérieure ou égale à 1 t et inférieure à 50 t |
 
 3
 
@@ -2990,9 +2982,7 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
 
 |
 
-2. Non soumis à la taxe
-
-|
+2. Non soumis à la taxe |
 
 -
 
@@ -3288,9 +3278,7 @@ A
 
 |
 
-1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t
-
-|
+1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t |
 
 6
 
@@ -3302,9 +3290,7 @@ A
 
 |
 
-2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t
-
-|
+2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t |
 
 3
 
@@ -3420,7 +3406,7 @@ A
 
 |
 
-La capacité de traitement étant :
+La capacité de traitement étant : |
 
 |
 
@@ -3432,11 +3418,7 @@ La capacité de traitement étant :
 
 |
 
-|
-
-1. Supérieure ou égale à 3 t/h
-
-|
+1. Supérieure ou égale à 3 t/h |
 
 6
 
@@ -3450,9 +3432,7 @@ La capacité de traitement étant :
 
 |
 
-2. Inférieure à 3 t/h
-
-|
+2. Inférieure à 3 t/h |
 
 3
 
@@ -3596,9 +3576,7 @@ A
 
 |
 
-1. Non soumis à la taxe
-
-|
+1. Non soumis à la taxe |
 
 -
 
@@ -3612,7 +3590,7 @@ A
 
 |
 
-2. La quantité de matières et déchets traités étant :
+2. La quantité de matières et déchets traités étant : |
 
 |
 
@@ -3624,11 +3602,7 @@ A
 
 |
 
-|
-
-a) Supérieure ou égale à 50 t/j
-
-|
+a) Supérieure ou égale à 50 t/j |
 
 6
 
@@ -3652,7 +3626,7 @@ b) Inférieure à 50 t/j |
 
 |
 
-Installations de méthanisation de déchets non dangereux ou matière végétale brute à l'exclusion des installations de stations d'épuration urbaines
+Installations de méthanisation de déchets non dangereux ou matière végétale brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 |
 
@@ -3666,7 +3640,7 @@ Installations de méthanisation de déchets non dangereux ou matière végétale
 
 |
 
-1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, déchets végétaux d'industries agroalimentaires :
+1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :
 
 |
 
@@ -3680,7 +3654,7 @@ Installations de méthanisation de déchets non dangereux ou matière végétale
 
 |
 
-a) La quantité de matières traitées étant supérieure ou égale à 30 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
 
 |
 
@@ -3698,9 +3672,23 @@ A
 
 |
 
-b) La quantité de matières traitées étant inférieure à 30 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j
 
 |
+
+E
+
+|
+
+|
+
+|
+
+|
+
+|
+
+c) La quantité de matières traitées étant inférieure à 30 t/j |
 
 DC
 
@@ -3896,7 +3884,7 @@ DC
 
 |
 
-1. La capacité de traitement étant :
+1. La capacité de traitement étant : |
 
 |
 
@@ -3906,11 +3894,7 @@ DC
 
 |
 
-|
-
-a) Supérieure ou égale à 50 t/j
-
-|
+a) Supérieure ou égale à 50 t/j |
 
 6
 
@@ -3922,9 +3906,7 @@ a) Supérieure ou égale à 50 t/j
 
 |
 
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
-
-|
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j |
 
 3
 
@@ -3936,9 +3918,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-2. Non soumis à la taxe
-
-|
+2. Non soumis à la taxe |
 
 -
 
@@ -4006,7 +3986,7 @@ DC
 
 |
 
-Combustion à l'exclusion des installations visées par les rubriques 167C et 322 B4 (3).
+Combustion à l'exclusion des installations visées par les rubriques 2770 et 2271.
 
 |
 
@@ -4032,7 +4012,7 @@ A. La puissance thermique maximale de l'installation (quantité maximale de comb
 
 |
 
-1. supérieure ou égale à 20 MW
+1. Supérieure ou égale à 20 MW
 
 |
 
@@ -4080,7 +4060,7 @@ supérieure ou égale à 20 MW, mais inférieure à 50 MW
 
 |
 
-2. supérieure à 2 MW, mais inférieure à 20 MW
+2. Supérieure à 2 MW, mais inférieure à 20 MW
 
 |
 
@@ -4094,9 +4074,7 @@ DC
 
 |
 
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW
-
-|
+B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW |
 
 A
 
@@ -4154,7 +4132,7 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 
 |
 
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation (s) classée (s) sous la rubrique 2781-1 et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW :
+C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW :
 
 |
 
@@ -4166,7 +4144,7 @@ C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installat
 
 |
 
-1. lorsque le biogaz est produit par une installation soumise à autorisation ou par plusieurs installations soumises à déclaration au titre de la rubrique 2781-1
+1. Lorsque le biogaz est produit par une installation soumise à autorisation, ou par plusieurs installations classées au titre de la rubrique 2781-1
 
 |
 
@@ -4182,9 +4160,21 @@ A
 
 |
 
-2. lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+2. Lorsque le biogaz est produit par une seule installation soumise à enregistrement au titre de la rubrique 2781-1
 
 |
+
+E
+
+|
+
+|
+
+|
+
+|
+
+3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1 |
 
 DC
 
@@ -4196,11 +4186,11 @@ DC
 
 |
 
-Nota.
+Nota :
 
-1. La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être consommée par seconde.
+La puissance thermique maximale est définie comme la quantité maximale de combustible, exprimée en PCI, susceptible d'être consommée par seconde.
 
-2. La biomasse, au sens du A, de la rubrique 2910, se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de poussières de ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
+La biomasse au sens du A de la rubrique 2910 se présente à l'état naturel et n'est ni imprégnée ni revêtue d'une substance quelconque. Elle inclut le bois sous forme de morceaux bruts, d'écorces, de bois déchiquetés, de sciures, de poussières de ponçage ou de chutes issues de l'industrie du bois, de sa transformation ou de son artisanat.
 
 |
 
@@ -4240,7 +4230,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 oC) est :
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est :
 
 |
 
@@ -4312,7 +4302,7 @@ D
 
 |
 
-Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 105 Pa.
+Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10 5 Pa.
 
 |
 
@@ -4690,13 +4680,13 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
 
 Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois, plastique, cuir, papier, textile) à l'exclusion :
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,
+-des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,
 
-- des activités couvertes par les rubriques 2445 et 2450,
+-des activités couvertes par les rubriques 2445 et 2450,
 
 -des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,
 
-- ou de toute autre activité couverte explicitement par une autre rubrique.
+-ou de toute autre activité couverte explicitement par une autre rubrique.
 
 |
 
