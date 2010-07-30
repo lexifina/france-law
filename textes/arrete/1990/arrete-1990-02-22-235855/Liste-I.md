@@ -2290,9 +2290,7 @@ Héparine
 
 |
 
-Pommades
-
-|
+Pommades |
 
 5
 
@@ -2301,6 +2299,22 @@ Pommades
 |
 
 0,30
+
+|
+
+Emplâtre médicamenteux
+
+|
+
+/
+
+|
+
+5 600 UI
+
+|
+
+28 000 U
 
 |
 
