@@ -26,7 +26,7 @@ A. - Substances (ions ou produits)
 
 |
 
-Matières premières des aliments pour animaux, à l'exception de :
+Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
@@ -34,7 +34,7 @@ Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
-- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières
+- farines d'herbes, de luzerne déshydratée et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières
 
 |
 
@@ -42,7 +42,7 @@ Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
-- tourteau de pression de palmiste
+- tourteaux de pression de palmiste
 
 |
 
@@ -74,11 +74,11 @@ Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
-- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins
+- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins, poisson compris
 
 |
 
-15 (1-2)
+25 (1-2)
 
 |
 
@@ -90,7 +90,31 @@ Matières premières des aliments pour animaux, à l'exception de :
 
 |
 
-Aliments complets, à l'exception de :
+Particules de fer employées comme traceur |
+
+50
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d'oligo-éléments, avec les exceptions suivantes : |
+
+30
+
+|
+
+- sulfate de cuivre pentahydraté et carbonate de cuivre |
+
+50
+
+|
+
+- oxyde de zinc, oxyde de manganèse et oxyde de cuivre |
+
+100
+
+|
+
+Aliments complets, avec l'exception suivante :
 
 |
 
@@ -102,11 +126,11 @@ Aliments complets, à l'exception de :
 
 |
 
-6 (1-2)
+10 (1-2)
 
 |
 
-Aliments complémentaires, à l'exception de :
+Aliments complémentaires, avec l'exception suivante :
 
 |
 
@@ -820,7 +844,7 @@ Aliments complets, à l'exception de :
 
 |
 
-Aliments complets, à l'exception de :
+Aliments complets, avec les exceptions suivantes :
 
 |
 
@@ -828,15 +852,21 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour bovins adultes
+- aliments complets pour porcs
 
 |
 
-700
+200
 
 |
 
-5. Essence volatile de moutarde
+- aliments complets pour chiens, lapins, chevaux et animaux à fourrure |
+
+50
+
+|
+
+5. Essence volatile de moutarde.
 
 |
 
@@ -912,9 +942,7 @@ Tous les aliments contenant des céréales non moulues
 
 |
 
-8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble :
-
-|
+8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble autres que : Datura spp. |
 
 Tous les aliments
 
@@ -922,19 +950,11 @@ Tous les aliments
 
 3 000
 
-|
-
-Datura stramonium L.
-
-|
-
-|
-
 1 000
 
 |
 
-9. Ricin -Rizinus communis L.
+9. Graines et coques de Ricinus communis L., Croton tiglium L. et Abrus precatorius L. et les dérivés de leur transformation (1), isolément ou ensemble.
 
 |
 
@@ -943,8 +963,6 @@ Tous les aliments
 |
 
 10
-
-(exprimé en coques de ricin)
 
 |
 
@@ -1492,10 +1510,6 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 
 |
 
-7. Croton - Croton tiglium L.
-
-|
-
 8. Moutarde indienne - Brassica juncea (L.) Czern. et Coss. spp, integrifolia (West.) Thell.
 
 |
@@ -1516,7 +1530,7 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 
 |
 
-D. - Coccidiostatiques et histomonostatiques
+D. - Coccidiostatiques et histomonostatiques des aliments pour animaux non cibles
 
 |
 
@@ -2074,11 +2088,11 @@ Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels 
 
 |
 
-(1) Teneur en fluor pour 1 % de phosphore.
+(1) Dans la mesure où ils sont décelables par microscopie analytique.
 
-(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
+(1-1) Les teneurs maximales se rapportent à l'arsenic total. Les teneurs maximales renvoient à une détermination analytique de l'arsenic, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
 
-(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
+(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (Hizikia fusiforme).
 
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
@@ -2112,7 +2126,7 @@ Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels 
 
 (k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
 
-(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831 / 2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.
+(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831/2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.
 
 (**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.
 
