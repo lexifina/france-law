@@ -2,11 +2,11 @@
 
 Indépendamment des dispositions législatives sur les emplois réservés aux anciens combattants et victimes de guerre et aux travailleurs handicapés applicables au recrutement des sous-archivistes, les candidats à ces fonctions sont recrutés par voie de concours sur titres ou de concours sur épreuves.
 
-I - Concours sur titres.
+I-Concours sur titres.
 
 Les candidats doivent être titulaires soit du diplôme de documentaliste (ancien régime) de l'institut national des techniques de la documentation du Conservatoire national des arts et métiers, soit du diplôme technique de documentaliste (nouveau régime, premier cycle) délivré depuis 1971 par l'institut précité, soit du diplôme universitaire de technologie, carrières de l'information (option Documentation, sous-option Documentation).
 
-II - Concours sur épreuves.
+II-Concours sur épreuves.
 
 Deux concours sur épreuves distincts sont ouverts :
 
@@ -46,17 +46,17 @@ Brevet d'enseignement industriel ;
 
 Diplôme d'élève breveté des écoles nationales professionnelles ;
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris (E.N.A.M.) ;
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris (E. N. A. M.) ;
 
 Certificat d'études administratives départementales et communales délivré par le centre de formation et de perfectionnement administratifs de l'université de Lille ;
 
-Diplôme de l'école pratique d'administration de Strasbourg E.P.A.S. ;
+Diplôme de l'école pratique d'administration de Strasbourg E. P. A. S. ;
 
 Certificat d'études administratives et financières délivré par le centre d'études administratives et financières de l'université de Nancy ;
 
 Certificat d'études administratives et financières délivré par la faculté de droit et des sciences économiques de Paris ;
 
-Diplôme d'études administratives municipales délivré par les centres universitaires régionaux d'études administratives municipales relevant de l'association nationale d'études municipales (C.U.R.E.A.M.) ;
+Diplôme d'études administratives municipales délivré par les centres universitaires régionaux d'études administratives municipales relevant de l'association nationale d'études municipales (C. U. R. E. A. M.) ;
 
 Diplôme d'études administratives municipales délivré par le centre de formation des personnels communaux.
 
@@ -128,7 +128,7 @@ En raison du caractère facultatif de cette épreuve, seuls les points obtenus a
 
 Programme des matières.
 
-I - Les institutions de la France du XVIIè siècle à nos jours :
+I-Les institutions de la France du XVIIè siècle à nos jours :
 
 a) Les institutions de la France sous l'ancien régime :
 
@@ -152,7 +152,7 @@ d) L'organisation constitutionnelle administrative et judiciaire sous les divers
 
 e) Les rapports de l'Eglise et de l'Etat. Constitution civile du clergé, le Concordat, la séparation des Eglises et de l'Etat.
 
-II - Histoire générale de la France de 1789 à nos jours :
+II-Histoire générale de la France de 1789 à nos jours :
 
 Les grands faits de l'histoire de France et l'oeuvre des gouvernements, de la convocation des Etats généraux à nos jours :
 
@@ -186,7 +186,7 @@ La seconde guerre mondiale : ses différentes périodes.
 
 La IVè et la Vè République.
 
-III - Droit public (constitutionnel, administratif et financier) :
+III-Droit public (constitutionnel, administratif et financier) :
 
 La Constitution :
 
@@ -206,7 +206,7 @@ L'autorité judiciaire.
 
 2° Les organes annexes :
 
-Le Conseil économique et social ;
+Le Conseil économique, social et environnemental ;
 
 Le Conseil constitutionnel ;
 
@@ -236,7 +236,7 @@ Le budget :
 
 Notions sur le budget de l'Etat, des départements et des communes.
 
-IV - Législation, organisation et réglementation des archives nationales, départementales, communales et hospitalières :
+IV-Législation, organisation et réglementation des archives nationales, départementales, communales et hospitalières :
 
 Historique ;
 
@@ -257,7 +257,3 @@ Inventaires, répertoires et autres instruments de travail ;
 Communications ;
 
 Expéditions.
-
-NOTA :
-
-. Décret 99-971 1999-11-24 art. 3 : La référence au ministère des ancie combattants et victimes de guerre dans les textes réglementaires en vigueur est remplacée par la référence au ministère chargé des ancien combattants.

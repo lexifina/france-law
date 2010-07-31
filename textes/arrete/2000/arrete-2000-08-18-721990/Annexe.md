@@ -10,11 +10,11 @@ a) Les éléments constitutifs et les formes de l'Etat ;
 
 b) L'organisation du pouvoir dans l'Etat :
 
-- le constitutionnalisme : la Constitution (écrite ou coutumière, rigide ou souple) et le contenu du bloc de constitutionnalité ;
+-le constitutionnalisme : la Constitution (écrite ou coutumière, rigide ou souple) et le contenu du bloc de constitutionnalité ;
 
-- le principe de séparation des pouvoirs et son application : régime parlementaire, présidentiel, mixte ;
+-le principe de séparation des pouvoirs et son application : régime parlementaire, présidentiel, mixte ;
 
-- la participation des citoyens : les élections, le référendum.
+-la participation des citoyens : les élections, le référendum.
 
 2. Les institutions politiques françaises :
 
@@ -26,13 +26,13 @@ Les caractéristiques du régime ;
 
 Les organes de la Ve République :
 
-- le pouvoir exécutif : le Président de la République, le Gouvernement ;
+-le pouvoir exécutif : le Président de la République, le Gouvernement ;
 
-- le Parlement : organisation, statut des parlementaires, fonctions du Parlement ;
+-le Parlement : organisation, statut des parlementaires, fonctions du Parlement ;
 
-- le Conseil constitutionnel et le contrôle de constitutionnalité ;
+-le Conseil constitutionnel et le contrôle de constitutionnalité ;
 
-- les autres pouvoirs ou organes : l'autorité judiciaire, la Cour de justice de la République, le Conseil économique et social.
+-les autres pouvoirs ou organes : l'autorité judiciaire, la Cour de justice de la République, le Conseil économique, social et environnemental.
 
 La révision de la Constitution.
 
@@ -44,7 +44,7 @@ a) Les sources internes ;
 
 b) Les traités internationaux.
 
-2. L'organisation administrative :
+2.L'organisation administrative :
 
 a) Notions générales, décentralisation, déconcentration, cadres territoriaux de l'organisation administrative ;
 
@@ -106,21 +106,21 @@ Libertés publiques
 
 a) Les sources des libertés publiques :
 
-- la Déclaration des droits de l'homme et du citoyen (26 août 1789) ;
+-la Déclaration des droits de l'homme et du citoyen (26 août 1789) ;
 
-- le préambule de la Constitution de 1946 ;
+-le préambule de la Constitution de 1946 ;
 
-- la Déclaration universelle des droits de l'homme (10 décembre 1948) ;
+-la Déclaration universelle des droits de l'homme (10 décembre 1948) ;
 
-- le préambule de la Constitution de 1958 ;
+-le préambule de la Constitution de 1958 ;
 
 b) L'aménagement des libertés publiques :
 
-- les régimes exceptionnels (art. 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles) ;
+-les régimes exceptionnels (art. 16, état de siège, état d'urgence, théorie des circonstances exceptionnelles) ;
 
 c) La projection juridictionnelle des libertés publiques :
 
-- juge administratif, juge judiciaire, Conseil constitutionnel.
+-juge administratif, juge judiciaire, Conseil constitutionnel.
 
 2. Le régime juridique des principales libertés publiques :
 
@@ -128,33 +128,33 @@ a) L'égalité ;
 
 b) Les libertés de la personne physique :
 
-- la sûreté ;
+-la sûreté ;
 
-- la liberté d'aller et venir ;
+-la liberté d'aller et venir ;
 
-- le respect de la personnalité :
+-le respect de la personnalité :
 
-- le droit à la vie et au respect de l'intégrité physique ;
+-le droit à la vie et au respect de l'intégrité physique ;
 
-- la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances) ;
+-la protection de la vie privée à travers ses contours (inviolabilité du domicile, inviolabilité du secret des correspondances) ;
 
 c) Les libertés de l'esprit :
 
-- la liberté de la presse ;
+-la liberté de la presse ;
 
-- la liberté de communication ;
+-la liberté de communication ;
 
-- la liberté de l'enseignement ;
+-la liberté de l'enseignement ;
 
-- la liberté de religion ;
+-la liberté de religion ;
 
 d) Les libertés propres aux groupements d'individus :
 
-- la liberté de manifestation et d'attroupement ;
+-la liberté de manifestation et d'attroupement ;
 
-- la liberté de réunion ;
+-la liberté de réunion ;
 
-- la liberté d'association.
+-la liberté d'association.
 
 Droit des étrangers
 
@@ -162,21 +162,21 @@ Droit des étrangers
 
 2. Les conditions d'entrée et de séjour.
 
-3. L'éloignement et l'aide au retour.
+3.L'éloignement et l'aide au retour.
 
 4. Le regroupement familial.
 
 5. La jurisprudence française et européenne.
 
-6. L'acquisition de la nationalité.
+6.L'acquisition de la nationalité.
 
-7. L'apatridie.
+7.L'apatridie.
 
 8. Les accords de Schengen.
 
 Droit des réfugiés
 
-1. L'évolution de la demande d'asile en France depuis 1974.
+1.L'évolution de la demande d'asile en France depuis 1974.
 
 2. Le droit d'asile dans les textes.
 
@@ -190,7 +190,7 @@ Droit des réfugiés
 
 7. La protection du réfugié en France.
 
-8. L'asile au sein de l'Union européenne.
+8.L'asile au sein de l'Union européenne.
 
 Droit de la fonction publique
 

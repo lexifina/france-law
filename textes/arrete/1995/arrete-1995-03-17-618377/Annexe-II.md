@@ -1,6 +1,6 @@
 # Article Annexe II
 
-I. - La Constitution du 4 octobre 1958
+I.-La Constitution du 4 octobre 1958
 
 L'organisation des pouvoirs.
 
@@ -14,11 +14,11 @@ La loi, le règlement.
 
 La hiérarchie des normes.
 
-Le Conseil économique et social, le Conseil constitutionnel.
+Le Conseil économique, social et environnemental, le Conseil constitutionnel.
 
 La Haute Cour de justice.
 
-II. - L'organisation administrative
+II.-L'organisation administrative
 
 L'organisation administrative du pouvoir central.
 
@@ -28,7 +28,7 @@ L'organisation et le fonctionnement des communes, des départements et des régi
 
 Les établissements publics.
 
-III. - Principes de l'action administrative
+III.-Principes de l'action administrative
 
 Principe de légalité et de responsabilité.
 
@@ -36,7 +36,7 @@ Pouvoir hiérarchique et pouvoir de tutelle.
 
 Pouvoir discrétionnaire et compétence liée.
 
-IV. - Le contrôle de l'administration
+IV.-Le contrôle de l'administration
 
 Le Médiateur de la République.
 
