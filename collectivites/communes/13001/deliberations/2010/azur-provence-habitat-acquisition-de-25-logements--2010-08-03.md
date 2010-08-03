@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AZUR PROVENCE HABITAT : - ACQUISITION DE 25 LOGEMENTS COLLECTIFS - 3 EMPRUNTS PLS POUR UN MONTANT TOTAL DE 2 426 026,17 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2010-08-03
+- Séance : Conseil Municipal 2CA
+- Objet : AZUR PROVENCE HABITAT : - ACQUISITION DE 25 LOGEMENTS COLLECTIFS - 3 EMPRUNTS PLS POUR UN MONTANT TOTAL DE 2 426 026,17 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-1611-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
