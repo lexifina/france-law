@@ -1554,29 +1554,83 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-12
 
-Système de variation électronique de vitesse sur un moteur
+Système de variation électronique de vitesse sur un moteur asynchrone
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+Bâtiments tertiaires.
 
-2. Dénomination :
+2. Dénomination
 
-Installation d'un système de variation électronique de vitesse (VEV) sur un moteur de puissance comprise entre 0,37 kW et 630 kW.
+Installation d'un système de variation électronique de vitesse (VEV) sur un moteur asynchrone de puissance comprise entre 0,37 kW et 1 MW.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Sans objet.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-10 ans.
+15 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Application |
 
-n° 303 du 31/12/2006 texte numéro 60
+Montant kWh cumac par
+
+kW de puissance moteur |
+
+|
+
+Puissance
+
+nominale du
+
+moteur en kW |
+
+Chauffage, pompage |
+
+17 000 |
+
+X |
+
+|
+
+Ventilation,
+
+renouvellement
+
+d'air |
+
+Locaux assurant
+
+un hébergement |
+
+29 000 |
+
+|
+
+Autres locaux |
+
+11 000 |
+
+P |
+
+Réfrigération |
+
+|
+
+7 100 |
+
+|
+
+Climatisation |
+
+|
+
+1 700 |
+
+|
 
 Certificats d'économies d'énergie
 
@@ -2490,109 +2544,103 @@ Opération n° BAT-TH-15
 
 Climatiseur de classe A (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m², dans les départements d'outre-mer.
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, de surface totale inférieure ou égale à 10 000 m2, dans les départements d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs à 50 kW froid.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-9 ans.
+9 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-BRANCHE D'ACTIVITÉ
+Secteur d'activité |
 
-|
+4,5 < EER(1) < 3,2 |
 
-MONTANT EN KWH CUMAC
-
-|
-
-X
+4,5 ≤ EER |
 
 |
 
-PUISSANCE DE L'APPAREIL
+Puissance de
 
-en BTU/h
+l'appareil
 
-|
+(BTU/h) |
 
-FACTEUR CORRECTIF
+Facteur
 
-|
+correctif |
 
-Bureaux
+Bureaux |
 
-|
+6 900 |
 
-6 900
-
-|
-
-7 000
+13 000 |
 
 |
 
-0,6
+7000 |
+
+0,6 |
+
+Enseignement |
+
+4 600 |
+
+8 300 |
 
 |
 
-Enseignement
+9 000 |
+
+0,75 |
+
+Commerces |
+
+11 000 |
+
+20 000 |
+
+X |
+
+12 000 |
+
+1 |
+
+Hôtels |
+
+11 000 |
+
+20 000 |
 
 |
 
-4 600
+15 000 |
+
+1,3 |
+
+Autres secteurs |
+
+4 600 |
+
+8 300 |
 
 |
 
-9 000
+18 000 |
 
-|
-
-0,75
-
-|
-
-Commerces
-
-|
-
-11 000
-
-|
-
-12 000
-
-|
-
-1
-
-|
-
-Hôtellerie-restauration
-
-|
-
-11 000
-
-|
-
-15 000
-
-|
-
-1,3
+1,5 |
 
 |
 
@@ -2600,21 +2648,9 @@ Hôtellerie-restauration
 
 |
 
-18 000
-
 |
 
-1,5
-
-|
-
-|
-
-|
-
-21 000
-
-|
+21 000 |
 
 1,8 |
 
@@ -2622,13 +2658,17 @@ Hôtellerie-restauration
 
 |
 
-24 000
+|
 
 |
 
+24 000 |
+
 2 |
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+(1) : Energy efficiency ratio
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -3258,31 +3298,75 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-21
 
-Chauffe-eau solaire collectif (DOM)
+Chauffe-eau solaire (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique dans les départements d'outre-mer.
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, de surface totale inférieure ou égale à 10 000 m2, dans les départements d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un chauffe-eau solaire collectif performant par un professionnel.
+Mise en place d'un chauffe-eau solaire de type individuel (CESI).
 
-3. Conditions particulières à l'obtention de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les appareils ont une certification CSTBat ou Solarkeymark ou toute certification équivalente dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie, dès lors que cette certification repose sur les normes NF EN 12975 ou NF EN 12976.
+Les appareils ont une certification CSTBat ou Solarkeymark ou des caractéristiques de performance et de qualité équivalentes basées sur les normes NF EN 12975 ou NF EN 12976 et établies par un organisme établi dans l'espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Un contrat GRS (garantie de résultats solaires), dont le modèle-type est fourni par l'ADEME, doit être établi : il comporte la quantification de la production d'énergie solaire annuelle (PES) telle que définie dans le modèle-type.
+Le dimensionnement de l'installation est réalisé par un bureau d'études.
 
-4. Durée de vie conventionnelle :
+Mise en place réalisée par un professionnel signataire de la charte Qualisol ou de la charte SOLEYEKO ou tout dispositif présentant des spécifications techniques équivalentes.
 
-20 ans.
+4. Durée de vie conventionnelle
 
-5. Montant de certificats en kWh cumac :
+12 ans
 
-14,134 × PES (kWh/an).
+5. Montant de certificats en kWh cumac
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+Secteur d'activité |
+
+Montant en
+
+kWh cumac / m²
+
+de capteurs posés
+
+|
+
+|
+
+Surface de capteurs
+
+posés en m² |
+
+Hôtellerie/Hébergement |
+
+4 300 |
+
+X |
+
+S |
+
+Santé - Prisons |
+
+7 300 |
+
+Enseignement |
+
+3 600 |
+
+Bureaux |
+
+4 700 |
+
+Commerces |
+
+6 200 |
+
+Autres secteurs |
+
+3 600 |
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -4514,63 +4598,65 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-27
 
-Raccordement d'un bâtiment tertiaire
+Raccordement d'un bâtiment tertiaire à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération
 
-à un réseau de chaleur alimenté par des énergies renouvelables
+1. Secteur d'application
 
-1. Secteur d'application :
+Bâtiments tertiaires existants.
 
-Bâtiments tertiaires existants
+2. Dénomination
 
-2. Dénomination :
+Raccordement d'un bâtiment tertiaire existant à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
 
-Raccordement de bâtiments tertiaires existants à un réseau de chaleur alimenté par des énergies renouvelables.
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la délivrance de certificats :
+La puissance totale raccordée sur une année ne peut excéder 10 % de la puissance souscrite au réseau avant ces nouveaux raccordements.
 
-La puissance totale raccordée sur une année ne peut excéder 10 % de la puissance souscrite au réseau avant ces nouveaux raccordements. Mise en place réalisée par un professionnel.
+Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées sur les 3 dernières années (en précisant les éléments spécifiques aux énergies renouvelables ou de récupération).
 
-Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées sur les 3 dernières années (en précisant les éléments spécifiques aux énergies renouvelables).
+Mise en place réalisée par un professionnel.
 
-Application de cette opération non cumulable avec l'application de l'opération standardisée RES-CH-01 Production de chaleur renouvelable en réseau (France métropolitaine) .
+Application de cette opération non cumulable avec l'application de l'opération standardisée RES-CH-01 Production de chaleur renouvelable en réseau ou de récupération (France métropolitaine) .
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-20 ans.
+20 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT UNITAIRE
-
-(en kWh cumac/m²)
+Montant unitaire en kWh cumac / m2 |
 
 |
 
-SURFACE
+Surface
 
-chauffée en m²
+totale
 
-|
+chauffée
 
-BRANCHE
-
-|
-
-FACTEUR
-
-d'occupation
+en m2 |
 
 |
 
+Secteur
+
+d'activité |
+
+Facteur
+
+d'occupation |
+
 |
 
 |
+
+|
+
+Chauffage |
 
 Chauffage
 
-|
-
-Chauffage et ECS
+et ECS |
 
 |
 
@@ -4578,11 +4664,15 @@ Chauffage et ECS
 
 |
 
-|
+Bureaux
 
 |
 
-|
+1,1 |
+
+X |
+
+T |
 
 Zone
 
@@ -4594,11 +4684,11 @@ H1
 
 |
 
-2 300
+2 200
 
 |
 
-2 500
+2 400
 
 |
 
@@ -4614,35 +4704,67 @@ X
 
 |
 
-Bureaux
+Enseignement |
 
-|
-
-1,1
-
-|
-
-X
-
-|
-
-T x 0,95
-
-|
+0,8 |
 
 H2
 
 |
 
-1 800
+1 700
 
 |
 
-2 100
+2 000
 
 |
 
-Enseignement
+Commerces |
+
+0,9 |
+
+H3
+
+|
+
+1 100
+
+|
+
+1 300
+
+|
+
+Hôtellerie -
+
+restauration
+
+|
+
+1,1 |
+
+|
+
+|
+
+|
+
+|
+
+Santé |
+
+1,4 |
+
+|
+
+|
+
+|
+
+|
+
+Autres
 
 |
 
@@ -4650,45 +4772,7 @@ Enseignement
 
 |
 
-H3
-
-|
-
-1 200
-
-|
-
-1 400
-
-|
-
-Commerces
-
-|
-
-0,9
-
-|
-
-|
-
-Hôtellerie, restauration
-
-|
-
-1,1
-
-|
-
-Santé
-
-|
-
-1,4
-
-|
-
-T = part des besoins couverts par les énergies renouvelables avant ce nouveau raccordement.
+T (%) correspond à la part des besoins couverts par les énergies renouvelables ou de récupération, au sein du réseau de chaleur (et non du bâtiment), avant ce nouveau raccordement.
 
 Certificats d'économies d'énergie
 
@@ -5771,3 +5855,489 @@ CTcd Ini
 0,87
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-35
+
+Régulation permettant d'avoir une haute pression flottante (DOM)
+
+1. Secteur d'application
+
+Locaux de distribution alimentaire, de produits réfrigérés et/ou surgelés, pour le public (hypermarchés, supermarchés, petits magasins alimentaires et/ou entrepôts de stockage positifs et négatifs, etc.), existants ou neufs en l'absence de réglementation thermique dans les DOM, de surface totale inférieure ou égale à 10 000 m2, dans les départements d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'un système de régulation permettant d'avoir une haute pression (HP) flottante.
+
+3. Conditions pour la délivrance de certificats
+
+Attestation du fournisseur spécifiant qu'il s'agit d'une installation équipée d'une HP flottante permettant la fluctuation de la pression de condensation en fonction de la température extérieure.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+10 ans
+
+5. Montant de certificats en kWh cumac
+
+INSTALLATION DE PRODUCTION DE FROID POSITIF
+
+Pour une installation donnée de puissance P (kW) le nombre de kWh cumac est calculé par la formule suivante :
+
+P (kW ) x 2 100 kWh x CDT x CTcd Ini
+
+Avec :
+
+ΔT
+
+(°C)
+
+|
+
+15 |
+
+14 |
+
+13 |
+
+12
+
+|
+
+11
+
+|
+
+10
+
+|
+
+9
+
+|
+
+8
+
+|
+
+CDT
+
+|
+
+0,75
+
+|
+
+0,79
+
+|
+
+0,84
+
+|
+
+0,89
+
+|
+
+0,94
+
+|
+
+1,00
+
+|
+
+1,06
+
+|
+
+1,12
+
+|
+
+T
+
+Condensation
+
+Initiale (°C) |
+
+45 |
+
+44
+
+|
+
+43
+
+|
+
+42
+
+|
+
+41
+
+|
+
+40
+
+|
+
+CTcd Ini
+
+|
+
+1,00 |
+
+0,96 |
+
+0,93 |
+
+0,90 |
+
+0,87 |
+
+0,84 |
+
+ΔT correspond à l'écart entre la température de condensation et la température extérieure. La température TCondensation initiale correspond à la température de condensation pour laquelle le condenseur a été dimensionné initialement.
+
+INSTALLATION DE PRODUCTION DE FROID NEGATIF
+
+Pour une installation donnée de puissance P (kW) le nombre de kWh cumac est calculé par la formule suivante :
+
+P (kW ) x 3 800 kWh x CDT x CTcd Ini
+
+Avec :
+
+ΔT
+
+(°C)
+
+|
+
+15 |
+
+14 |
+
+13 |
+
+12
+
+|
+
+11
+
+|
+
+10
+
+|
+
+9
+
+|
+
+8
+
+|
+
+CDT
+
+|
+
+0,77
+
+|
+
+0,81
+
+|
+
+0,85
+
+|
+
+0,90
+
+|
+
+0,95
+
+|
+
+1,00
+
+|
+
+1,05
+
+|
+
+1,17
+
+|
+
+T
+
+Condensation
+
+Initiale (°C) |
+
+45 |
+
+44
+
+|
+
+43
+
+|
+
+42
+
+|
+
+41
+
+|
+
+40
+
+|
+
+CTcd Ini
+
+|
+
+1,00 |
+
+0,97 |
+
+0,94 |
+
+0,92 |
+
+0,89 |
+
+0,87 |
+
+ΔT correspond à l'écart entre la température de condensation et la température extérieure. La température TCondensation initiale correspond à la température de condensation pour laquelle le condenseur a été dimensionné initialement.
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-36
+
+Accumulateur d'eau chaude à condensation
+
+1. Secteur d'application
+
+Bâtiments tertiaires existants d'une surface totale chauffée inférieure à 10 000 m².
+
+2. Dénomination
+
+Mise en place d'un accumulateur d'eau chaude à condensation.
+
+3. Conditions pour la délivrance de certificats
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+21 ans
+
+5. Montant de certificats en kWh cumac
+
+Montant kWh cumac /m² |
+
+X |
+
+Surface
+
+totale
+
+chauffée
+
+en m2 |
+
+X
+
+|
+
+Secteur d'activité |
+
+Facteur
+
+d'occupation |
+
+100 |
+
+Bureaux |
+
+0,4 |
+
+Enseignement |
+
+0,7 |
+
+S |
+
+Santé |
+
+2,3 |
+
+Commerces |
+
+0,6 |
+
+Cafés, hôtels,
+
+restaurants |
+
+3,1 |
+
+Autres |
+
+0,4 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-37
+
+Système de climatisation centralisée (DOM)
+
+1. Secteur d'application
+
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, de surface totale inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'un système centralisé de climatisation de type Débit de Réfrigérant Variable (DRV), c'est-à-dire fonctionnant en détente directe et dont la régulation de chaque unité intérieure se fait par variation du débit de réfrigérant.
+
+3. Conditions pour la délivrance de certificats
+
+Ce système doit comprendre au plus 50 unités intérieures pour des applications dont les besoins en climatisation sont inférieurs ou égaux à 24 000 BTU /h (7 kW) froid par unité intérieure, et dans tous les cas une puissance totale maximale de 175 kW froid.
+
+Ce système doit en outre répondre aux exigences de régulation suivantes :
+
+- un système de régulation central permettra une programmation séparée des températures de consigne de base de chaque local,
+
+- la régulation centrale de l'installation permettra une programmation des plages horaires de fonctionnement de chaque local,
+
+- en période de coupure centralisée, le système de régulation permettra à un utilisateur une relance manuelle. Le retour au mode de coupure sera automatique,
+
+- dimensionnement à réaliser par un bureau d'études,
+
+- mise en place réalisée par un professionnel,
+
+- contrat de maintenance signé par un professionnel.
+
+4. Durée de vie conventionnelle
+
+12 ans
+
+5. Montant de certificats en KWh cumac
+
+Le montant en kWh cumac d'une unité intérieure est fonction du secteur d'activité (A) multiplié par un facteur correctif qui dépend de la puissance de cette unité intérieure (B).
+
+Secteur d'activité |
+
+A
+
+Montant en
+
+kWh cumac)
+
+|
+
+|
+
+Puissance de
+
+l'appareil
+
+BTU/h) |
+
+B
+
+Facteur
+
+correctif)
+
+|
+
+Bureaux |
+
+9 300 |
+
+X
+
+|
+
+7000 |
+
+0,6 |
+
+Enseignement |
+
+6 150 |
+
+9 000 |
+
+0,75 |
+
+Commerce |
+
+14 850 |
+
+12 000 |
+
+1 |
+
+Hébergement |
+
+14 950 |
+
+15 000 |
+
+1,3 |
+
+Autres secteurs |
+
+6 150 |
+
+|
+
+18 000 |
+
+1,5 |
+
+|
+
+|
+
+|
+
+21 000 |
+
+1,8 |
+
+|
+
+|
+
+|
+
+24 000 |
+
+2 |
+
+Il convient ensuite de sommer la totalité des unités intérieures reliées à une même unité extérieure pour avoir le montant total des kWh cumac par DRV, comme suit (avec n le nombre d'unités intérieures) :
+
+Gain = A x ∑ Bi
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

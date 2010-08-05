@@ -680,24 +680,406 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-19
 
-Coupe-veille automatique
+Coupe-veille automatique par détection d'utilisation des appareils raccordés
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+Bâtiment tertiaires : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un coupe-veille automatique sur lequel sont raccordés des appareils électriques et électroniques. Le coupe-veille fonctionne automatiquement par détection de l'utilisation des appareils raccordés.
+Mise en place d'un coupe-veille automatique sur lequel sont raccordés des appareils électriques ou électroniques.
 
-La puissance du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 watt.
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la délivrance de certificats :
+Le coupe-veille fonctionne automatiquement par détection de l'utilisation des appareils raccordés.
 
-Sans objet.
+La puissance du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 Watt.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-10 ans.
+10 ans
 
-5. Montant de certificats en kWh cumac : 870 kWh cumac.
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac pour un
+
+coupe-veille installé |
+
+|
+
+Nombre de coupe-veilles |
+
+870
+
+|
+
+X |
+
+N |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-20
+
+Coupe-veille en hébergement relié au système d'accès
+
+1. Secteur d'application
+
+Bâtiments tertiaires d'hébergement (existants ou neufs).
+
+2. Dénomination
+
+Mise en place d'un coupe-veille des appareils électriques ou électroniques ou du système d'éclairage hors occupation de la chambre en tertiaire d'hébergement.
+
+3. Conditions pour la délivrance de certificats
+
+Le système coupe la veille des appareils électriques ou électroniques ou du système d'éclairage d'une chambre inoccupée, en lien avec le dispositif de contrôle d'accès à la pièce.
+
+La puissance de l'appareil pour sa propre consommation ne dépasse pas 0,5 W.
+
+4. Durée de vie conventionnelle
+
+10 ans
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac pour un coupe-veille installé
+
+|
+
+|
+
+Nombre de coupe-veilles
+
+|
+
+420 kWh cumac
+
+|
+
+X
+
+|
+
+N
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-21
+
+Transformateur à haut rendement pour l'alimentation basse tension d'un site tertiaire
+
+1. Secteur d'application
+
+Bâtiments tertiaires (existants ou neufs).
+
+2. Dénomination
+
+Mise en place d'un transformateur de distribution privé, à haut rendement (faibles pertes), de type immergé dans l'huile d'une puissance comprise entre 250 et 2 500 kVA et de tension primaire inférieure à 24 kV, pour l'alimentation basse tension d'un site tertiaire.
+
+3. Conditions pour la délivrance de certificats
+
+La fiche technique du transformateur indiquant les niveaux de pertes à vide (Co, Bo, Ao) et de pertes en charges (Bk, Ak), calculés suivant la norme NF-EN 50464-1, doit être fournie.
+
+Le niveau de pertes doit être inférieur ou égal à celui des classes Co et Bk.
+
+4. Durée de vie conventionnelle
+
+30 ans
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac = Pertes à vide + Pertes en charge x Coefficient multiplicateur
+
+|
+
+Pertes à vide |
+
+|
+
+Pertes en charge |
+
+|
+
+Coefficient multiplicateur |
+
+kVA |
+
+Co |
+
+Bo |
+
+Ao |
+
+|
+
+Bk |
+
+Ak |
+
+|
+
+250 |
+
+36 000 |
+
+46 000 |
+
+55 000 |
+
+|
+
+79 000 |
+
+140 000 |
+
+|
+
+315 |
+
+39 000 |
+
+52 000 |
+
+65 000 |
+
+|
+
+100 000 |
+
+170 000 |
+
+|
+
+Bureaux, commerces,
+
+hôtellerie - restauration,
+
+santé, autres locaux
+
+(sport compris)
+
+|
+
+0,3 |
+
+400 |
+
+50 000 |
+
+65 000 |
+
+79 000 |
+
+|
+
+120 000 |
+
+210 000 |
+
+|
+
+500 |
+
+60 000 |
+
+77 000 |
+
+93 000 |
+
+|
+
+140 000 |
+
+250 000 |
+
+|
+
+630 |
+
+69 000 |
+
+90 000 |
+
+110 000 |
+
++ |
+
+170 000 |
+
+300 000 |
+
+X |
+
+800 |
+
+35 000 |
+
+55 000 |
+
+79 000 |
+
+|
+
+550 000 |
+
+710 000 |
+
+|
+
+1 000 |
+
+47 000 |
+
+73 000 |
+
+99 000 |
+
+|
+
+630 000 |
+
+850 000 |
+
+|
+
+Transport |
+
+0,4 |
+
+1 250 |
+
+63 000 |
+
+95 000 |
+
+130 000 |
+
+|
+
+790 000 |
+
+1 000 000 |
+
+|
+
+1 600 |
+
+79 000 |
+
+120 000 |
+
+160 000 |
+
+|
+
+950 000 |
+
+1 300 000 |
+
+|
+
+Enseignement |
+
+0,1 |
+
+2 000 |
+
+95 000 |
+
+140 000 |
+
+200 000 |
+
+|
+
+1 300 000 |
+
+1 700 000 |
+
+|
+
+|
+
+|
+
+2 500 |
+
+110 000 |
+
+170 000 |
+
+230 000 |
+
+|
+
+1 600 000 |
+
+2 100 000 |
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-22
+
+Système de pilotage par intermittence des centrales de traitement d'air (DOM)
+
+1. Secteur d'application
+
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, réservés à une utilisation professionnelle, de surface totale inférieure ou égale à 10 000 m2, dans les départements d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'une horloge permettant de couper les ventilateurs de centrales de traitement d'air en dehors des périodes d'occupation.
+
+3. Conditions pour la délivrance de certificats
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans
+
+5. Montant de certificats en kWh cumac
+
+Secteur d'activité |
+
+Montant en kWh cumac / m² |
+
+|
+
+Surface totale traitée
+
+par la centrale (m²)
+
+|
+
+Commerce |
+
+400 |
+
+|
+
+S |
+
+Bureaux |
+
+200 |
+
+X |
+
+Autres secteurs |
+
+200 |
+
+|
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

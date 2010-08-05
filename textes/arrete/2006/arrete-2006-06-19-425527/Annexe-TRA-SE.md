@@ -4,17 +4,17 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-SE-01
 
-Formation d'un chauffeur de transport public routier à la conduite économique
+Formation d'un chauffeur de transport à la conduite économique
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Transport public routier de voyageurs (autobus et autocars de ligne).
+Transport public de voyageurs (autobus et autocars de ligne) et transport de marchandises.
 
-2. Dénomination :
+2. Dénomination
 
-Formation d'un chauffeur à la conduite économique lors d'une campagne menée sur un ou plusieurs réseaux de transports publics urbains ou interurbains.
+Formation d'un chauffeur à la conduite économique.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 La formation initiale, réalisée par une entreprise ou un organisme agréé, doit comporter :
 
@@ -22,17 +22,25 @@ La formation initiale, réalisée par une entreprise ou un organisme agréé, do
 
 - une partie pratique sur véhicule.
 
-Les sessions de rappel doivent comporter la partie pratique, mais leur partie théorique pourra être allégée.
+4. Durée de vie conventionnelle
 
-4. Durée de vie conventionnelle :
+1 an
 
-1 an.
+5. Montant de certificats en kWh cumac
 
-5. Montant des certificats en kWh cumac :
+Type de véhicule |
 
-Vous pouvez consulter le tableau dans le JO
+kWh cumac pour une personne formée |
 
-n° 156 du 07/07/2006 texte numéro 28
+Poids lourds
+
+|
+
+5 200 |
+
+Autocars - autobus |
+
+3 000 |
 
 Certificats d'économies d'énergie
 
@@ -40,77 +48,79 @@ Opération n° TRA-SE-02
 
 Formation d'un chauffeur de véhicule léger à la conduite économique
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Transport : flottes captives de plusieurs centaines de véhicules légers.
+Flottes professionnelles de véhicules légers.
 
-2. Dénomination :
+2. Dénomination
 
 Formation d'un chauffeur à la conduite économique.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-La formation initiale, réalisée par une entreprise ou un organisme agréé, doit comporter :
+La formation initiale, réalisée par une entreprise agréée ou un organisme agréé, doit comporter :
 
 - une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
 
 - une partie pratique sur véhicule.
 
-Les sessions de rappel doivent comporter la partie pratique, mais leur partie théorique pourra être allégée.
+4. Durée de vie conventionnelle
 
-4. Durée de vie conventionnelle :
+1 an
 
-1 an.
+5. Montant des certificats en kWh cumac
 
-5. Montant des certificats en kWh cumac :
+Type de véhicule |
 
-Vous pouvez consulter le tableau dans le JO
+kWh cumac / personne formée |
 
-n° 156 du 07/07/2006 texte numéro 28
+Véhicules légers
+
+|
+
+1 100 |
+
+Véhicules utilitaires légers |
+
+1 400 |
 
 Certificats d'économies d'énergie
 
 Opération n° TRA-SE-03
 
-Covoiturage domicile/travail
+Covoiturage domicile - travail
 
-1. Secteur d'application :
+1. Secteur d'application
 
 Transport.
 
-2. Dénomination :
+2. Dénomination
 
-Utilisation partagée d'une voiture pour des trajets domicile-travail appelée covoiturage domicile/travail.
+Mise en place d'un service de covoiturage destiné aux trajets domicile-travail.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Le demandeur doit présenter une note décrivant l'organisation mise en place pour le système de covoiturage et indiquant le nombre moyen N d'utilisateurs du covoiturage, calculé sur la base de la réalisation de l'opération sur 12 mois.
+Seuls les utilisateurs effectuant plus de 100 trajets par an seront pris en considération pour la délivrance de certificats. Le demandeur devra tenir à la disposition des services de l'Etat les pièces justificatives suivantes :
 
-4. Durée de vie conventionnelle :
+- une facture de mise en place ou d'abonnement annuel à un service de covoiturage, fournie par un professionnel du covoiturage ;
 
-1 an.
+- une preuve d'existence d'un service en ligne ;
 
-5. Montant de certificats en kWh cumac :
+- la preuve que les utilisateurs pris en compte ont effectué plus de 100 trajets sur une période de 12 mois consécutifs.
 
-MONTANT
+4. Durée de vie conventionnelle
 
-en kWh cumac
+1 an
 
-|
+5. Montant de certificats en kWh cumac
 
-X
+Montant en kWh cumac par usager |
 
-|
+X |
 
-NOMBRE MOYEN
+Nombre d'usagers |
 
-D'UTILISATEURS
-
-|
-
-400
-
-|
+670 |
 
 N
 

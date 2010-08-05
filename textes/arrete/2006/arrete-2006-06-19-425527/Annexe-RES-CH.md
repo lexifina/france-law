@@ -4,57 +4,51 @@ Certificats d'économies d'énergie
 
 Opération n° RES-CH-01
 
-Production de chaleur renouvelable en réseau
+Production de chaleur renouvelable ou de récupération en réseau (France métropolitaine)
 
-(France métropolitaine)
+1. Secteur d'application
 
-1. Secteur d'application :
+Appartements existants et bâtiments tertiaires existants en France métropolitaine.
 
-Bâtiment résidentiel collectif et bâtiment tertiaire existant en France métropolitaine.
+2. Dénomination
 
-2. Dénomination :
+Mise en place d'un système de production de chaleur renouvelable ou de récupération (géothermie, incinération, bois-énergie, biogaz, chaleur industrielle, etc.) sur un réseau de chaleur.
 
-Mise en place d'un système de production de chaleur renouvelable (géothermie, incinération, bois-énergie, biogaz, chaleur industrielle...) sur un réseau de chaleur.
-
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Cette opération s'applique aux installations non soumises à la directive 2003/87/CE établissant un système d'échange de quotas d'émissions de gaz à effet de serre.
 
-Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération. Le pourcentage de bâtiments existants alimentés par le réseau doit être fourni.
+Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération. La proportion de bâtiments existants alimentés par le réseau doit être fournie.
 
-On utilise pour la chaleur renouvelable nette la définition retenue dans le décret n° 99-360 du 5 mai 1999 portant sur les réseaux classés de distribution de chaleur et de froid qui intègre à la fois les énergies renouvelables et de récupération.
+La chaleur renouvelable ou de récupération nette est déterminée par une étude spécifique.
 
-La chaleur renouvelable nette sera déterminée par une étude spécifique. Le terme kWhth est égal au nombre de kWh renouvelables net produits et valorisés par an par l'installation.
+Le terme kWhth est égal au nombre de kWh renouvelables ou de récupération nets produits et valorisés par an par l'installation.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-Pour les sources d'énergie bois-énergie et biogaz : 15 ans.
+Pour les sources d'énergie comme le bois-énergie et le biogaz : 15 ans.
 
-Pour les sources d'énergie UIOM-déchets, géothermie et autres : 20 ans.
+Pour les autres sources d'énergie, notamment les unités d'incinération d'ordures ménagères (UIOM) ou la géothermie : 20 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-SOURCE D'ÉNERGIE
+Source d'énergie |
 
-|
-
-COEFFICIENT cumac
+Coefficient cumac |
 
 |
 
-|
+Chaleur renouvelable
 
-CHALEUR RENOUVELABLE
-
-nette/an
+nette/ an |
 
 |
 
 |
 
-|
+Bois-énergie et
 
-Bois-Energie ― Biogaz
+biogaz
 
 |
 
@@ -62,23 +56,23 @@ Bois-Energie ― Biogaz
 
 |
 
-X
-
-|
+X |
 
 kWhth
 
 |
 
-X
-
-|
+X |
 
 C
 
 |
 
-UIOM ― Déchets ― Géothermie ― Autres
+UIOM - déchets
+
+géothermie
+
+autres
 
 |
 
@@ -88,9 +82,7 @@ UIOM ― Déchets ― Géothermie ― Autres
 
 |
 
-|
-
-C = pourcentage de la surface des bâtiments existants alimentés sur l'ensemble des bâtiments alimentés par le réseau.
+C (%) = [surface des bâtiments existants alimentés par le système de production de chaleur renouvelable ou de récupération] / [surface de l'ensemble des bâtiments alimentés par le réseau (neufs + existants)]
 
 Certificats d'économies d'énergie
 
@@ -280,15 +272,13 @@ Certificats d'économies d'énergie
 
 Opération n° RES-CH-04
 
-Réhabilitation d'un poste de livraison de chaleur
+Réhabilitation d'un poste de livraison de chaleur (bâtiment résidentiel)
 
-(bâtiment résidentiel)
+1. Secteur d'application
 
-1. Secteur d'application :
+Appartements existants.
 
-Bâtiment résidentiel : appartements existants raccordés à un réseau de chauffage urbain.
-
-2. Dénomination :
+2. Dénomination
 
 Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison par des équipements neufs :
 
@@ -296,24 +286,36 @@ Réhabilitation d'un poste de livraison par le remplacement de la totalité des 
 
 - régulation ;
 
-- pompes ;
+- pompes sur fluide primaire (lorsque le poste de livraison en est équipé) ;
 
 - isolation thermique.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-20 ans.
+20 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Montant unitaire pour un appartement en kWh cumac
+Montant unitaire pour un appartement en kWh cumac |
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 303 du 31/12/2006 texte numéro 60
+H1 |
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+27 700 |
+
+Zone climatique |
+
+H2 |
+
+22 700 |
+
+|
+
+H3 |
+
+14 900 |

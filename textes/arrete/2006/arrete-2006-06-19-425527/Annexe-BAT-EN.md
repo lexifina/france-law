@@ -2002,61 +2002,71 @@ Opération n° BAT-EN-06
 
 Isolation de combles ou de toitures (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique réservés à une utilisation professionnelle, de surface totale chauffée inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, réservés à une utilisation professionnelle, de surface totale inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une isolation thermique de résistance thermique R ≥ 1.2 m².K/W en comble ou en toiture.
+Mise en place d'une isolation thermique de résistance thermique R ≥ 1,2 m².K/W en comble ou en toiture.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-25 ans.
+25 ans pour l'isolation
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-SECTEUR D'ACTIVITÉ
+Secteur d'activité |
 
-|
+Montant en kWh cumac/m2
 
-KWh cumac/m²
-
-d'isolant posé
+d'isolant posé |
 
 |
 
-Bureaux et enseignement
+Surface d'isolant
+
+posé en m² |
+
+Bureaux et
+
+enseignement
 
 |
 
-1 500
+1 500 |
 
-|
+X |
 
-Commerce
+S |
 
-|
+Commerce |
 
 1 900
 
 |
 
-Tertiaire d'hébergement
+Tertiaire
 
-|
+d'hébergement |
 
 3 000
 
 |
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+Autres secteurs |
+
+1 500
+
+|
+
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus, pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -2508,54 +2518,56 @@ Opération n° BAT-EN-08
 
 Isolation des murs (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants ou neufs en l'absence de réglementation thermique, réservés à une utilisation professionnelle, de surface totale chauffée inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
+Bâtiments tertiaires existants ou neufs en l'absence de réglementation thermique dans les DOM, réservés à une utilisation professionnelle, de surface totale inférieure ou égale à 10 000 m², dans les départements d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place sur les murs d'une isolation thermique de résistance thermique R ≥ 1,2 m².K/W.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 1,2 m².K/W.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualités équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-25 ans.
+25 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-BRANCHE D'ACTIVITÉ
+Secteur d'activité |
 
-|
+Montant en KWh cumac
 
-MONTANT UNITAIRE
-
-en kWh cumac/m² d'isolant
+/ m² d'isolant
 
 |
 
-Bureaux
+|
 
-Enseignement
+Surface d'isolant
 
-Commerces
+posé en m² |
+
+Bureaux, enseignement et commerces |
+
+960 |
+
+X |
+
+S |
+
+Tertiaire d'hébergement |
+
+1 600
 
 |
 
-960
+Autres secteurs |
 
-|
+960 |
 
-Hôtellerie-restauration
-
-|
-
-1 580
-
-|
-
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
+En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

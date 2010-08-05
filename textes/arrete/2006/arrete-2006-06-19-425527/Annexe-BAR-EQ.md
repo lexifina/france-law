@@ -196,24 +196,4 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-EQ-07
 
-Lampe fluo-compacte avec globe de classe B
-
-1. Secteur d'application :
-
-Bâtiment résidentiel : maisons individuelles et appartements existants.
-
-2. Dénomination :
-
-Mise en place d'une lampe fluo-compacte avec globe de classe B (ou encore appelée lampe basse consommation).
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-6,5 ans.
-
-5. Montant de certificats en kWh cumac :
-
-90 kWh cumac
+(Supprimé)
