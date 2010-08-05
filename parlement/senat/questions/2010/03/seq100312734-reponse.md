@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312734
+
+- Question : [SEQ100312734](seq100312734.md) — Raccordement d'un terrain aux réseaux
+
+## Réponse
+
+*Écologie, JO du 2010-08-05, page 2031*
+
+Le propriétaire d'un terrain situé dans une zone urbaine, dite zone U, d'un plan local d'urbanisme applicable peut parfaitement solliciter et obtenir un raccordement de ce terrain aux réseaux d'électricité, d'eau, de gaz ou de téléphone en l'absence de tout projet de construction. Le classement en zones d'un plan local d'urbanisme est en principe sans lien juridique avec la possibilité, pour un usager, de solliciter auprès des services publics ou privés le raccordement à différents réseaux en l'absence d'un projet de construction. Le règlement de zone d'un plan local d'urbanisme peut toutefois préciser dans certains cas que le raccordement à certains réseaux ne peut être réalisé en fonction des circonstances locales. S'agissant du classement en zone urbaine, il concerne uniquement, en application de l'article R. 123-5 du code de l'urbanisme, les secteurs déjà urbanisés et les secteurs où les équipements publics existants ou en cours de réalisation ont une capacité suffisante pour desservir les constructions. Le raccordement de certains terrains indépendamment d'un projet de construction peut par ailleurs se justifier en vue de desservir des constructions existantes ou activités ne nécessitant pas de construction. L'article L. 111-6 du code de l'urbanisme prévoit seulement que les bâtiments, locaux ou installations soumis aux dispositions des articles L. 421-1 à L. 421-4 ou L. 510-1 de ce code ne peuvent, nonobstant toutes clauses contraires des cahiers des charges de concession, d'affermage ou de régie intéressée, être raccordés définitivement aux réseaux d'électricité, d'eau, de gaz ou de téléphone si leur construction ou leur transformation n'a pas été, selon le cas, autorisée ou agréée en vertu des articles précités.
