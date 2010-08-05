@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312735
+
+- Question : [SEQ100312735](seq100312735.md) — Raccordement à un réseau d'assainissement
+
+## Réponse
+
+*Écologie (SE), JO du 2010-08-05, page 2034*
+
+Les dispositions de l'article L. 111-6 du code de l'urbanisme prévoient que les bâtiments, locaux ou installations soumis, selon le cas, au permis de construire, au permis d'aménager, au permis de démolir, à la déclaration préalable ou à la procédure d'agrément en région d'Île-de-France ne peuvent, nonobstant toutes clauses contraires des cahiers des charges de concession, d'affermage ou de régie intéressée, être raccordés définitivement aux réseaux d'électricité, d'eau, de gaz ou de téléphone si leur construction ou leur transformation n'a pas été, selon le cas, autorisée ou agréée en vertu des procédures précitées. Cet article fixe une liste limitative des réseaux auxquels ces bâtiments, locaux ou installations ne peuvent être définitivement raccordés. Dans la mesure où notamment les réseaux d'eau et d'assainissement sont matériellement distincts et répondent à des dispositions qui leur sont propres, il y a lieu de considérer que cet article ne concerne que le raccordement définitif aux réseaux d'eau existants, et non le raccordement aux réseaux d'assainissement des constructions. En tout état de cause, il convient de rappeler les limites de la mise en oeuvre des dispositions de l'article L. 111-6 du code de l'urbanisme qui ne constituent que des mesures de police visant à faire respecter les règles d'urbanisme et que les infractions au code de l'urbanisme doivent être portées à la connaissance de la juridiction judiciaire, seule habilitée à prononcer les sanctions nécessaires en la matière. Le raccordement aux réseaux d'assainissement est également régi par des dispositions spécifiques du code de la santé publique.
