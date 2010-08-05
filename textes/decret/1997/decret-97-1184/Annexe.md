@@ -38,20 +38,6 @@ Article R. 226-7
 
 |
 
-Décret n° 87-995 du 10 décembre 1987 portant création de l'institution des conseillers de défense
-
-1
-
-|
-
-Décisions portant nomination des conseillers de défense pour ceux qui sont placés auprès d'un ministre.
-
-|
-
-Article 3
-
-|
-
 Code de la défense
 
 1
@@ -254,7 +240,9 @@ Décisions de nomination des membres et du président du comité de décentralis
 
 |
 
-Article R. 510-3 et A. 510-3
+Article R. 510-3
+
+et A. 510-3
 
 |
 
