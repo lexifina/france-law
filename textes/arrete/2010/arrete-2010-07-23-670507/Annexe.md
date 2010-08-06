@@ -1,4 +1,4 @@
-# Article Annexe I
+# Article Annexe
 
 Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l'introduction des produits d'origine animale destinés à la consommation humaine.
 
