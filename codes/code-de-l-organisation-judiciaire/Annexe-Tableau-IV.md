@@ -760,11 +760,11 @@ Cantons de Bierné, Château-Gontier-Est, Château-Gontier-Ouest, Cossé-le-Vivi
 
 |
 
-[LavalCantons |
-
-d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)]
+[Laval
 
 |
+
+Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] |
 
 [Laval
 
@@ -2220,7 +2220,7 @@ Cantons d'Autun-Nord, Autun-Sud, Épinac, Issy-l'Évêque, Lucenay-l'Évêque et
 
 |
 
-Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
+Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]
 
 |
 
@@ -2232,9 +2232,11 @@ Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon
 
 |
 
-[le CreusotCantons |
+[Le Creusot
 
-d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
+|
+
+Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
 
 |
 
@@ -4768,7 +4770,7 @@ Deux-Sèvres
 
 |
 
-[Bressuire (5)]
+[Bressuire (17)]
 
 |
 
@@ -4800,7 +4802,7 @@ Niort
 
 |
 
-[Bressuire (6)]
+[Bressuire (18)]
 
 |
 
@@ -4820,7 +4822,7 @@ Cantons de Brioux-sur-Boutonne, Celles-sur-Belle, Chef-Boutonne, La Mothe-Saint-
 
 |
 
-Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-1'Autize, Frontenay-Rohan-Rohan, Mauzé-sur-le Mignon, Niort-Est, Niort-Nord, Niort-Ouest, Prahecq, Saint-Maixent l'Écolc 1er canton et Saint-Maixent-l'École 2e canton. (3)]
+Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Frontenay-Rohan-Rohan, Mauzé-sur-le Mignon, Niort-Est, Niort-Nord, Niort-Ouest, Prahecq, Saint-Maixent l'École 1er canton et Saint-Maixent-l'École 2e canton. (3)]
 
 |
 
@@ -6080,9 +6082,9 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban
+Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
-2e canton, Montauban 3ème canton, Montauban 4e canton,
+canton, Montauban 3ème canton, Montauban 4ème canton,
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-
 
@@ -6515,3 +6517,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (15) Applicable jusqu'au 30 juin 2010.
 
 (16) Applicable à compter du 1er juillet 2010.
+
+(17) Applicable jusqu'au 5 septembre 2010.
+
+(18) Applicable à compter du 6 septembre 2010.
