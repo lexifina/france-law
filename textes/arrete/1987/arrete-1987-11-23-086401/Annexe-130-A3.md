@@ -16,9 +16,21 @@ NOTA : Le visa de plusieurs documents du tableau n'est pas formellement requis p
 
 DOCUMENTS |
 
-ETUDE |
+ÉTUDE |
 
 VISA |
+
+Rapport de pesée quinquennale navires à passagers (SOLAS II-1/05) |
+
+CCS |
+
+CSN (1) |
+
+Rapport de pesée décennale navires de pêche (228-3.09) |
+
+CCS |
+
+CSN (1) |
 
 Dossier de stabilité |
 
@@ -32,7 +44,7 @@ CCS |
 
 CSN (1) |
 
-Plan de lutte incendie et plan de sauvetage(SOLAS II-2/15.2.4 et SOLAS III/09) |
+Plan de lutte incendie et plan de sauvetage (SOLAS II-2/15.2.4 et SOLAS III/09) |
 
 CCS |
 
@@ -62,31 +74,31 @@ CCS |
 
 CSN |
 
-Manuel d'exploitation ODME (MARPOL Annexe I règle 31.4) |
+Manuel d'exploitation ODME (MARPOL annexe I règle 31.4) |
 
 CCS |
 
 CSN |
 
-Plan SOPEP (MARPOL Annexe I règle 37) ou SMPEP (MARPOL annexe II |
+Plan SOPEP (MARPOL annexe I règle 37) ou SMPEP (MARPOL annexe II règle 16) |
 
 CSN |
 
 CSN |
 
-Règle 16)Manuel de lavage au pétrole brut (MARPOL Annexe I règle 35.1) |
+Manuel de lavage au pétrole brut (MARPOL annexe I règle 35.1) |
 
 CCS |
 
 CSN |
 
-Manuel sur les méthodes et dispositifs de rejets |
+Manuel sur les méthodes et dispositifs de rejets (MARPOL annexe II appendice 4) |
 
 CCS |
 
 CSN |
 
-(MARPOL Annexe II Appendice 4)Dossier grain (résolution OMI MSC.23(59)) |
+Dossier grain (résolution OMI MSC.23[59]) |
 
 CCS |
 
@@ -98,37 +110,37 @@ CCS |
 
 CSN |
 
-Manuel détecteurs de niveau d'eau (résolution OMI MSC.188(79)) |
+Manuel détecteurs de niveau d'eau (résolution OMI MSC.188[79]) |
 
 CCS |
 
 CSN |
 
-Plan de gestion des ordures (MARPOL Annexe V règle 9) |
+Plan de gestion des ordures (MARPOL annexe V règle 9) |
 
 CSN |
 
 CSN (1) |
 
-Manuel d'instruction du dispositif à gaz inerte |
+Manuel d'instruction du dispositif à gaz inerte (SOLAS Recueil FSS chapitre 15 (2.4.4) ou Recueil IBC) |
 
 CCS |
 
 CSN |
 
-(SOLAS Recueil FSS chapitre 15 (2.4.4) ou Recueil IBC)Manuels HSC : Manuel d'exploitation, de formation, d'entretien |
+Manuels HSC : Manuel d'exploitation, de formation, d'entretien (Recueil HSC Chapitre 18) |
 
 CCS |
 
 CSN (1) |
 
-(Recueil HSC Chapitre 18)Manuel HSC : manuel de route (Recueil HSC Chapitre 18) |
+Manuel HSC : manuel de route (Recueil HSC Chapitre 18) |
 
 CSN (2) |
 
 CSN (1) |
 
-Déclaration de conformité (C.A.S . selon règle 20 de MARPOL) |
+Déclaration de conformité (C.A.S. selon règle 20 de MARPOL) |
 
 CSN |
 
@@ -140,46 +152,36 @@ CCS |
 
 CSN (1) |
 
-Certificats d'exemption initiaux (Article 6 du décret n° 84-810) |
-
-CCS |
-
-SM (3) |
-
-Renouvellement des certificats d'exemption(Article 6 du décret n° 84-810) |
-
-CSN |
-
-CSN (4) |
-
-Document de conformité au transport de marchandises dangereuses(SOLAS II-2/19 ou II-2/54 selon la date de pose de quille)Transport de substances liquides nocives et potentiellement dangereuses en |
+Registre des substances qui appauvrissent la couche d'ozone (MARPOL annexe VI règle 12) |
 
 CCS |
 
 CSN |
 
-vrac et en quantités limitées à bord de navires de servitude au large (résolution OMI A.673(16) telle qu'amendée) |
+Plan de gestion des COV (MARPOL annexe VI règle 15) |
 
 CCS |
 
 CSN |
 
-Limites d'exploitation (Règle SOLAS V/30 ou V/23) |
+Documentation relative aux autres conceptions et dispositifs (SOLAS II-1/55) |
 
 CCS |
 
 CSN |
 
-Transport de cargaisons INF (recueil INF) |
+Documentation relative aux autres conceptions et dispositifs (SOLAS II-2/17) |
 
 CCS |
 
 CSN |
 
-(2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service
+Documentation relative aux autres conceptions et dispositifs (SOLAS III/38) |
 
-(1) Visa non requis par la réglementation internationale
+CCS |
 
-(3) Sous-Direction de la Sécurité Maritime de la Direction des Affaires Maritimes
+CSN |
 
-(4) Si les conditions de délivrance du certificat initial n'ont pas été modifiées
+(1) Visa non requis par la réglementation internationale.
+
+(2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service. |
