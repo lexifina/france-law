@@ -18,7 +18,15 @@ RESTRICTIONS
 
 |
 
-|
+CONDITIONS D'EMPLOI
+
+et avertissements
+
+à reprendre
+
+obligatoirement
+
+sur l'étiquetage
 
 |
 
@@ -39,18 +47,6 @@ le produit cosmétique fini
 Autres limitations
 
 et exigences
-
-|
-
-CONDITIONS D'EMPLOI
-
-et avertissements
-
-à reprendre
-
-obligatoirement
-
-sur l'étiquetage
 
 |
 
@@ -418,7 +414,7 @@ a) Usage général.
 
 a) Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -454,7 +450,7 @@ b) Usage professionnel.
 
 b) Réservé aux professionnels. Contient des diaminobenzènes. Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -518,7 +514,7 @@ Après mélange en conditions d'oxydation, la teneur maximale appliquée sur les
 
 a) Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -542,7 +538,7 @@ Le ratio du mélange doit être imprimé sur l'étiquetage.
 
 b) Réservé aux professionnels. Contient des diaminobenzènes. Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -592,7 +588,7 @@ a)
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -616,7 +612,7 @@ b) Réservé aux professionnels.
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -676,7 +672,7 @@ a)
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -702,7 +698,7 @@ b) Réservé aux professionnels.
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -1066,7 +1062,7 @@ En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilis
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -1182,7 +1178,7 @@ a) 1. Contient de la résorcine. Bien rincer les cheveux après application. Ne 
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -1204,7 +1200,7 @@ Ne vous colorez pas les cheveux si :
 
 Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -3098,7 +3094,9 @@ b) 6,7 % exprimé en SO2 libre.
 
 c) 0,45 % exprimé en SO2 libre.
 
-d) 0,40 % exprimé en SO2 libre. |
+d) 0,40 % exprimé en SO2 libre.
+
+|
 
 A des fins autres qu'inhiber le développement de micro-organismes dans le produit, cette fin doit ressortir de la présentation du produit.
 
@@ -4212,7 +4210,9 @@ Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.
 
 |
 
-151 bis |
+151 bis
+
+|
 
 Allyl phénéthyl éther
 
@@ -5234,15 +5234,21 @@ Diéthylène-glycol
 
 monobutyl-éther
 
-(DEGBE). |
+(DEGBE).
 
-Solvant pour colorant d'oxydation pour la coloration des cheveux. |
+|
+
+Solvant pour colorant d'oxydation pour la coloration des cheveux.
+
+|
 
 9 %
 
 |
 
-Ne pas utiliser dans des atomiseurs. |
+Ne pas utiliser dans des atomiseurs.
+
+|
 
 |
 
@@ -5276,7 +5282,9 @@ Solvant pour colorant non oxydant pour la coloration des cheveux.
 
 |
 
-Ne pas utiliser dans des atomiseurs. |
+Ne pas utiliser dans des atomiseurs.
+
+|
 
 |
 
@@ -5312,7 +5320,9 @@ CI 19140.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes. |
+Substance utilisée dans des teintures capillaires non oxydantes.
+
+|
 
 0,5 %
 
@@ -5452,7 +5462,9 @@ CI 16255.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes |
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
 
 0,5 %
 
@@ -5490,11 +5502,11 @@ b) Substance utilisée dans des teintures capillaires non oxydantes.
 
 |
 
-b) 0, 6 %
+b) 0,6 %
 
 |
 
-a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 5 %.
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
 
 |
 
@@ -5502,7 +5514,7 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 Vous pouvez consulter le clché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -5584,7 +5596,7 @@ Substance utilisée dans des teintures capillaires non oxydantes.
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5616,7 +5628,7 @@ Substance utilisée dans des teintures capillaires non oxydantes.
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5642,7 +5654,9 @@ Einecs 416-940-3.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes. |
+Substance utilisée dans des teintures capillaires non oxydantes.
+
+|
 
 0,1 %
 
@@ -5650,7 +5664,7 @@ Substance utilisée dans des teintures capillaires non oxydantes. |
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5672,7 +5686,9 @@ Einecs 261-940-7.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes. |
+Substance utilisée dans des teintures capillaires non oxydantes.
+
+|
 
 0,15 %
 
@@ -5680,7 +5696,7 @@ Substance utilisée dans des teintures capillaires non oxydantes. |
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5704,7 +5720,9 @@ Einecs 251-410-3.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes. |
+Substance utilisée dans des teintures capillaires non oxydantes.
+
+|
 
 2,8 %
 
@@ -5738,7 +5756,9 @@ Einecs 410-910-3.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes. |
+Substance utilisée dans des teintures capillaires non oxydantes.
+
+|
 
 2,0 %
 
@@ -5752,7 +5772,9 @@ A conserver en récipients sans nitrite.
 
 |
 
-Peut provoquer une réaction allergique |
+Peut provoquer une réaction allergique
+
+|
 
 201
 
@@ -5772,7 +5794,9 @@ Einecs 411-440-1.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes |
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
 
 3,0 %
 
@@ -5786,7 +5810,9 @@ A conserver en récipients sans nitrite.
 
 |
 
-Peut provoquer une réaction allergique. |
+Peut provoquer une réaction allergique.
+
+|
 
 202
 
@@ -5818,7 +5844,9 @@ b) 1, 2 % en base libre (1, 8 % en sel de tétrahydrochlorure).
 
 |
 
-a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 2 % calculée en base libre (1, 8 % en sel de tétrahydrochlorure). |
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 2 % calculée en base libre (1, 8 % en sel de tétrahydrochlorure).
+
+|
 
 a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
@@ -5878,7 +5906,7 @@ Pour a et b :
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5888,7 +5916,7 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 Pour a et b : Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -5928,7 +5956,9 @@ Einecs 421-170-6.
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes |
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
 
 2,0 %
 
@@ -5936,7 +5966,9 @@ Substance utilisée dans des teintures capillaires non oxydantes |
 
 |
 
-Peut provoquer une réaction allergique. |
+Peut provoquer une réaction allergique.
+
+|
 
 205
 
@@ -5964,13 +5996,13 @@ b) 2,6 %
 
 |
 
-a) Après mélange en conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2, 6 % calculée en base libre.
+a) Après mélange en conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,6 % calculée en base libre.
 
 Pour a et b :
 
 Ne pas utiliser avec des systèmes de nitrosation.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Teneur maximale en nitrosamine : 50 µg/kg.
 
 A conserver en récipients sans nitrite.
 
@@ -5980,7 +6012,7 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 Vous pouvez consulter le clché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -6000,7 +6032,9 @@ Ne vous colorez pas les cheveux si :
 
 |
 
-206 |
+206
+
+|
 
 Absolue de verbena (Lippia citriodora Kunth.)
 
@@ -6010,13 +6044,17 @@ N° CAS : 8024-12-2
 
 |
 
-0,2 % |
+0,2 %
 
 |
 
 |
 
-207 |
+|
+
+207
+
+|
 
 Ethyl Lauroyl Arginate HCl (INCI) (16)
 
@@ -6036,9 +6074,61 @@ N° CE 434-630-6
 
 |
 
-0,8 % |
+0,8 %
+
+|
 
 A des fins autres qu'inhiber le développement de micro-organismes dans le produit. Cette fin doit ressortir de la présentation du produit.
+
+|
+
+|
+
+208
+
+|
+
+Cliché non reproduit
+
+|
+
+|
+
+|
+
+|
+
+|
+
+209
+
+|
+
+2-[(2-Méthoxy-4-nitrophényl)
+
+amino]éthanol et ses sels2
+
+2-Hydroxyethylamino-5-nitroanisole
+
+N° CAS : 66095-81-6
+
+N° EINECS : 266-138-0
+
+|
+
+Substances non oxydante utilisée dans les teintures capillaires
+
+|
+
+0,2%
+
+|
+
+- Ne pas utiliser avec des systèmes de nitrosation
+
+- Teneur maximale en nitrosamines : 50 ug/kg
+
+- A conserver en récipients sans nitrite
 
 |
 
