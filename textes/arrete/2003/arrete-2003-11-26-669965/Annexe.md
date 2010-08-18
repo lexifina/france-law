@@ -20,11 +20,13 @@ Astreinte de direction générale.
 
 |
 
-1 astreinte de semaine (1)
+1 astreinte de semaine (1).
 
 |
 
-Service d'exploitation de la formation aéronautique
+Service d'exploitation
+
+de la formation aéronautique
 
 |
 
@@ -33,12 +35,6 @@ Service d'exploitation de la formation aéronautique
 |
 
 Siège de Muret
-
-|
-
-|
-
-|
 
 Bureau des opérations centralisées
 
@@ -76,15 +72,15 @@ Astreinte opérationnelle et technique.
 
 |
 
-Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (échelon central)
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile
 
 |
 
-Astreinte enquêtes-accidents (niveau central).
+Astreinte enquêtes-accidents.
 
 |
 
-2 astreintes de semaine.
+1 astreinte de semaine et 2 astreintes de fin de semaine.
 
 |
 
@@ -132,11 +128,15 @@ Astreinte opérationnelle.
 
 |
 
+|
+
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
+
+|
 
 |
 
@@ -160,11 +160,15 @@ Astreinte opérationnelle.
 
 |
 
+|
+
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
+
+|
 
 |
 
@@ -188,6 +192,8 @@ Astreinte opérationnelle.
 
 |
 
+|
+
 Astreinte technique.
 
 |
@@ -196,11 +202,15 @@ Astreinte technique.
 
 |
 
+|
+
 Astreinte technique de centrale énergie.
 
 |
 
 1 astreinte de semaine.
+
+|
 
 |
 
@@ -224,6 +234,8 @@ Astreinte opérationnelle.
 
 |
 
+|
+
 Astreinte technique.
 
 |
@@ -232,11 +244,15 @@ Astreinte technique.
 
 |
 
+|
+
 Astreinte technique de maintenance CAUTRA.
 
 |
 
 1 astreinte de semaine.
+
+|
 
 |
 
@@ -268,11 +284,15 @@ Astreinte opérationnelle.
 
 |
 
+|
+
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
+
+|
 
 |
 
@@ -284,6 +304,8 @@ Astreinte technique de maintenance CAUTRA.
 
 |
 
+|
+
 Astreinte technique (radar).
 
 |
@@ -292,7 +314,7 @@ Astreinte technique (radar).
 
 |
 
-Paris-Charles-de-Gaulle (CDM)
+Paris - Charles-de-Gaulle (CDM)
 
 |
 
@@ -564,7 +586,7 @@ Astreinte technique pour la centrale énergie.
 
 |
 
-SNA Sud-Sud-Est
+SNA Sud - Sud-Est
 
 |
 
@@ -700,7 +722,7 @@ Astreinte de direction et de contrôle technique.
 
 |
 
-Région Nord-Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
+Région Nord - Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
 
 |
 
@@ -1108,7 +1130,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région PACA (Nice-Côte d'Azur)
+Région PACA (Nice - Côte d'Azur)
 
 |
 
