@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513315
+
+- Question : [SEQ100513315](seq100513315.md) — Situation des fonctionnaires « reclassés » de La Poste et de France Télécom
+
+## Réponse
+
+*Industrie, JO du 2010-08-19, page 2149*
+
+Dans l'arrêt du 11 décembre 2008, le Conseil d'État a jugé que les fonctionnaires reclassés de La Poste devaient pouvoir à nouveau bénéficier de promotions internes dans les corps de reclassement. Conformément à cet arrêt de la Haute Cour, le Gouvernement a pris les mesures nécessaires pour relancer la promotion de ces fonctionnaires au sein des corps de reclassement. C'est l'objet du décret n° 2009-1555 du 14 décembre 2009 relatif aux dispositions statutaires applicables à certains corps de fonctionnaires de La Poste. Ainsi, les agents dits reclassés de La Poste auront désormais le choix entre une promotion vers les grades de classification comme actuellement et une promotion au sein des corps de reclassement en application des dispositions du décret précité, à l'instar de leurs collègues de France Télécom. Le ministre chargé des postes veillera à ce que le décret 2009-1555 donne lieu au plus vite à la reprise de la promotion interne des fonctionnaires dits reclassés de La Poste. En revanche, dans son arrêt du 11 décembre 2008, le Conseil d'État n'a pas demandé, de manière rétroactive, qu'un dispositif de reconstitution de carrière soit mis en oeuvre. Il convient en effet de souligner qu'une mesure de reconstitution de carrière en faveur d'un ensemble de fonctionnaires constitue un acte administratif extrêmement rare. Jusqu'à présent, une telle décision n'a été prise que pour réparer les préjudices de carrière imputables aux événements d'Afrique du Nord, de la guerre d'Indochine, et de la Seconde Guerre mondiale. Dans ces conditions, il n'est pas souhaitable d'instaurer un tel dispositif à une seule catégorie de personnel de La Poste.
