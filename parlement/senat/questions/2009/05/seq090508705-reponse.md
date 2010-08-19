@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090508705
+
+- Question : [SEQ090508705](seq090508705.md) — Situation des candidats n'ayant pu passer les épreuves du concours de l'agrégation
+
+## Réponse
+
+*Éducation, JO du 2010-08-19, page 2125*
+
+L'incident grave, ayant provoqué l'arrêt prolongé de plusieurs rames du RER B le jeudi 2 avril 2009, n'a pas permis à quelques dizaines de candidats de se présenter à temps pour le début des épreuves des agrégations se déroulant ce jour-là. Le ministre de l'éducation nationale en a immédiatement été informé et a fait part de son affliction et de ses encouragements à ces candidats malheureux, pour qu'ils tentent à nouveau, lors d'une prochaine session, ces concours difficiles. Concernant le règlement intérieur du concours, édicté par la note de service n° 2008-091 du 8 juillet 2008, il a été parfaitement respecté, les portes du centre d'épreuves d'Arcueil ayant été fermées à 9 heures précises, alors que débutait, pour l'ensemble des bâtiments du site, l'ouverture des enveloppes scellées contenant les sujets. C'est, en effet, ce moment de l'ouverture des enveloppes, et non celui du commencement de la distribution des sujets aux candidats, qui constitue le « top horaire » au-delà duquel il n'est plus possible de pénétrer dans le centre d'épreuves. D'autre part, le report ou l'annulation des épreuves d'un concours de recrutement ne peuvent intervenir que dans l'hypothèse d'un cas de force majeure, de portée nationale. Si la première condition était bien remplie le 2 avril 2009, la seconde ne l'était évidemment pas, la panne ayant été de courte durée considérée sur la journée, et le nombre de candidats concernés, très faible, comparé aux 1 700 convoqués ce même jour pour l'ensemble des épreuves. Il n'était donc pas possible, sous peine de défavoriser gravement les candidats présents dans les centres métropolitains et ultramarins, d'organiser de nouvelles épreuves.
