@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613851
+
+- Question : [SEQ100613851](seq100613851.md) — Seuils de dédoublement des classes
+
+## Réponse
+
+*Alimentation, JO du 2010-08-19, page 2098*
+
+Les questions portant sur les modalités et les conséquences de la rénovation des brevets de techniciens supérieurs agricoles (BTSA) témoignent bien de l'intérêt porté à l'enseignement supérieur agricole. Ces préoccupations portent sur les seuils de dédoublement dans le cadre de la rénovation des BTSA dans les options « Viticulture-Oenologie », « Analyses agricoles, biologiques et bio-technologiques » et « Sciences et technologiques des aliments ». Pour cette dernière option, plus particulièrement, il est relevé que le seuil de dédoublement pour la discipline « Génie des procédés - génie industriel » est passé de 16 à 24 élèves. Dans les grilles horaires de cette option, anciennement dénommée « Industries agroalimentaires », la discipline « Génie des procédés - génie industriel » n'apparaissait pas. Lors de la rénovation, la distinction entre génie industriel et génie alimentaire est apparue comme plus pertinente. L'importance donnée dans le BTSA rénové au génie alimentaire traduit de nouvelles ambitions pour ce diplôme qui se concrétisent par un seuil de dédoublement à 16 élèves pour cette discipline. Cette discipline intervient dans tous les modules où sont mises en évidence tant la sécurité des personnes que la sécurité sanitaire du produit. De la même façon, un volume horaire est consacré au génie alimentaire dans les quatre spécialités de ce BTSA, afin de renforcer encore l'analyse, la mise en oeuvre et l'amélioration des processus technologiques spécifiques à chacune de ces spécialités. Le ministère de l'alimentation, de l'agriculture et de la pêche a été attentif à ce que le volume horaire du dédoublement à 16 élèves soit maintenu proportionnellement en volume horaire global du diplôme et ce quelle que soit la discipline concernée par ce seuil.
