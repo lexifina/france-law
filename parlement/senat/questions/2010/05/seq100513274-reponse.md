@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513274
+
+- Question : [SEQ100513274](seq100513274.md) — Avenir de l'émission "Rue des entrepreneurs"
+
+## Réponse
+
+*Culture, JO du 2010-08-19, page 2108*
+
+Aux termes de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication, les chaînes de radio publiques comme privées sont seules responsables de leur programmation dans le cadre des missions qui leur sont imparties par le législateur, sous le contrôle du Conseil supérieur de l'audiovisuel (CSA). Il n'appartient donc pas au ministre de la culture et de la communication de se prononcer ou d'intervenir même ponctuellement sur le contenu des programmes. C'est une condition nécessaire de la liberté de communication. En outre, s'agissant de la disparition de l'émission emblématique « Rue des entrepreneurs », le ministre de la culture et de la communication indique que le différend qui oppose ses deux producteurs à Radio France est régi par le code du travail et qu'il ne lui revient pas d'intervenir dans ce dossier. En attendant la finalisation des grilles des programmes d'été et de rentrée, le créneau horaire du samedi de 9 heures à 10 heures est dédié à une émission traitant de l'actualité économique et sociale, « Carrefour de l'économie ». S'agissant de la qualité des programmes de Radio France, le Gouvernement veille à ce que les ressources publiques dont bénéficient les chaînes publiques de radio comme de télévision leur permettent d'apporter une valeur ajoutée par rapport aux autres chaînes, notamment en termes de qualité des programmes diffusés. Ainsi, le deuxième contrat d'objectifs et de moyens qui lie Radio France et l'État pour 2010-2014 est actuellement en cours de signature, et le ministre de la culture et de la communication est d'ores et déjà en mesure d'indiquer que, dans le cadre de l'évaluation de la satisfaction du public, il est prévu que Radio France mesure la perception qualitative des programmes par le public.
