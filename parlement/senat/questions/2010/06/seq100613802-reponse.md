@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613802
+
+- Question : [SEQ100613802](seq100613802.md) — Regroupement scolaire
+
+## Réponse
+
+*Intérieur, JO du 2010-08-19, page 2167*
+
+L'article L. 5211-7 du code général des collectivités territoriales prévoit les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres des organes délibérants des établissements publics de coopération intercommunale en opérant un renvoi aux dispositions des articles L. 44 à L. 46, L. 228 à L. 237-1 et L. 239 du code électoral. La circonstance qu'un conseiller municipal dans une commune siège d'un syndicat intercommunal scolaire ayant compétence sur le regroupement scolaire est directeur de l'école élémentaire de ce regroupement ne constitue pas un cas d'incompatibilité au sens de des dispositions précitées du code électoral. En conséquence, en l'absence de jurisprudence en la matière, aucune disposition législative ou réglementaire ne s'oppose à ce que ce conseiller soit membre du syndicat intercommunal et, a priori, président de celui-ci. Il faut toutefois rappeler les dispositions de l'article L. 2131-11 du code général des collectivités territoriales, qui s'appliquent au président des syndicats de communes par renvoi opéré au sixième alinéa de l'article L. 5212-16 du même code. En effet, ces dispositions prévoient l'illégalité des délibérations auxquelles ont pris part un ou plusieurs membres du conseil municipal intéressés à l'affaire qui en fait l'objet, soit en leur nom personnel, soit comme mandataires. Il convient donc de veiller à ce que le président du syndicat intercommunal scolaire, par ailleurs conseiller municipal dans la commune siège de ce même syndicat, ne prenne pas part aux délibérations de l'assemblée intercommunale susceptibles de mettre en oeuvre les dispositions de l'article L. 2131-11 précité.
