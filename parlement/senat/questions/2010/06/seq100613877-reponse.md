@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613877
+
+- Question : [SEQ100613877](seq100613877.md) — Culture de la châtaigne et iniquité fiscale
+
+## Réponse
+
+*Alimentation, JO du 2010-08-19, page 2098*
+
+Dans le cadre du bilan de santé de la Politique agricole commune (PAC), 50 M€ sont annuellement mobilisés dès 2010 et jusqu'en 2013, au titre des aides du 1er pilier de la PAC, pour soutenir les exploitants déjà engagés en agriculture biologique. De plus, à partir de 2011 et jusqu'en 2013, 34, 44 puis 56 M€ seront octroyés chaque année en faveur des exploitants en phase de conversion à l'agriculture biologique. L'agriculture biologique bénéficie donc d'un effort financier sans précédent. Ce nouveau soutien en faveur des surfaces certifiées en agriculture biologique a été mis en place sur la base des conditions déjà définies au niveau du programme de développement rural hexagonal (PDRH). Les niveaux d'intervention ainsi que les catégories de culture sont donc la reprise du dispositif déjà existant du 2nd pilier, lui-même basé sur l'analyse de surcoûts moyens entre cultures conventionnelles et cultures menées en agriculture biologique. Ce passage au 1er pilier ne permet cependant pas de retenir des modalités régionales différentes, comme cela est le cas dans le 2nd pilier. En effet, la nouvelle aide, à caractère national, s'applique sur tout le territoire métropolitain de la même façon, c'est-à-dire selon les mêmes modalités et les mêmes niveaux d'aide. Ainsi, la culture de la châtaigne, qui, dans le cadre du programme de développement rural de Corse (PDRC) était rattachée à l'arboriculture fruitière, est prise en compte dans une autre catégorie de la nouvelle aide au soutien à l'agriculture biologique. Enfin, l'aide au maintien à l'agriculture biologique du PDRC n'a pas encore donné lieu à des engagements individuels. Il n'y aura donc pas d'écart entre des exploitants qui auraient perçu cette mesure et ceux qui percevront ce nouveau soutien.
