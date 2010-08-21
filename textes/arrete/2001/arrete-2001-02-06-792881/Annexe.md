@@ -1032,14 +1032,38 @@ Méthylisothiazolinone (INCI)
 
 |
 
+58
+
+|
+
+Ethyl Lauroyl Arginate HCl (INCI) (*) (5)
+
+N alpha-dodécanoyl-L-arginate d'éthyle, hydrochloré
+
+N° CAS 60372-77-2
+
+N° CE 434-630-6
+
+|
+
+0,4 %
+
+|
+
+Ne pas utiliser dans les produits pour les lèvres, les produits bucco-dentaires et les sprays.
+
+|
+
+|
+
 (1) Uniquement pour les produits qui pourraient éventuellement être utilisés pour les soins d'enfants en dessous de 3 ans et qui restent en contact prolongé avec la peau.
 
 (2) Concerne tous les produits destinés à être appliqués sur une partie étendue du corps.
 
-(3) Uniquement pour les produits, autres que les produits de bains/gels douche et shampooings, susceptibles d'être utilisés pour des
-
-enfants âgés de moins de 3 ans.
+(3) Uniquement pour les produits, autres que les produits de bains/gels douche et shampooings, susceptibles d'être utilisés pour des enfants âgés de moins de 3 ans.
 
 (4) Uniquement pour les produits susceptibles d'être utilisés pour des enfants âgés de moins de 3 ans.
+
+(5) Pour des utilisations autres que comme agent conservateur, voir au numéro d'ordre 207 de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent être utilisées dans les produits cosmétiques en dehors des restrictions et conditions fixées par cette liste.
 
 |
