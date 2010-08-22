@@ -2,9 +2,7 @@
 
 |
 
-Certifications délivrées par la commission paritaire nationale de l'emploi
-
-des entreprises équestres
+Certifications délivrées par la commission paritaire nationale de l'emploi des entreprises équestres
 
 |
 
@@ -14,7 +12,7 @@ obtenu
 
 Equivalence
 
-dans le BP JEPS AE.
+dans le BP JUS AF
 
 |
 
@@ -29,6 +27,24 @@ mention équitation
 Capacité équestre
 
 professionnelle 2
+
+mention tourisme
+
+équestre
+
+|
+
+Capacité équestre
+
+professionnelle 3
+
+mention équitation
+
+|
+
+Capacité équestre
+
+professionnelle 3
 
 mention tourisme
 
@@ -82,7 +98,25 @@ mention tourisme
 
 |
 
+Acquis
+
+mention équitation
+
+|
+
+Acquis
+
+mention tourisme
+
+équestre
+
+|
+
 Exigences préalables à la mise en situation pédagogique
+
+|
+
+|
 
 |
 
@@ -110,7 +144,15 @@ UC 1
 
 |
 
+|
+
+|
+
 UC 2
+
+|
+
+|
 
 |
 
@@ -134,7 +176,15 @@ UC 3
 
 |
 
+|
+
+|
+
 UC 4
+
+|
+
+|
 
 |
 
@@ -154,6 +204,10 @@ UC 5
 
 |
 
+|
+
+|
+
 Acquis
 
 |
@@ -163,6 +217,10 @@ Acquis
 |
 
 UC 6
+
+|
+
+|
 
 |
 
@@ -190,7 +248,15 @@ UC 7
 
 |
 
+|
+
+|
+
 UC 8
+
+|
+
+|
 
 |
 
@@ -210,11 +276,27 @@ UC 9
 
 |
 
+Acquis mention
+
+équitation
+
+|
+
+Acquis mention
+
+tourisme équestre
+
+|
+
 |
 
 |
 
 UC 10
+
+|
+
+|
 
 |
 
