@@ -1,8 +1,6 @@
 # Article Annexe I
 
-VALEURS LIMITES DE REJETS ATMOSPHÉRIQUES
-
-POUR LES INSTALLATIONS D'INCINÉRATION
+VALEURS LIMITES DE REJETS ATMOSPHÉRIQUES POUR LES INSTALLATIONS D'INCINÉRATION
 
 a) Monoxyde de carbone
 
@@ -16,21 +14,151 @@ L'arrêté préfectoral d'autorisation peut fixer une valeur limite différente 
 
 b) Poussières totales, COT, HCl, HF, SO2 et NOx
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les installations existantes :
+|
 
-- dont la capacité est inférieure ou égale à 6 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 500 mg/m³, et ce jusqu'au 1er janvier 2008 ;
+VALEUR
 
-- dont la capacité nominale est supérieure à 6 tonnes par heure, mais inférieure ou égale à 16 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 400 mg/m³ et que la valeur en moyenne sur une demi-heure ne dépasse pas 600 mg/m³, et ce jusqu'au 1er janvier 2010 ;
+en moyenne journalière
 
-- dont la capacité nominale est supérieure à 16 tonnes par heure, mais inférieure à 25 tonnes et qui ne produit pas de rejets d'eaux usées, à condition que la valeur limite en moyenne journalière n'excède pas 400 mg/m³, et ce jusqu'au 1er janvier 2008.
+|
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les poussières pour les installations existantes, à condition que la valeur limite en moyenne journalière n'excède pas 20 mg/m³, et ce jusqu'au 1er janvier 2008.
+VALEUR
+
+en moyenne sur
+
+une demi-heure
+
+|
+
+Poussières totales
+
+|
+
+10 mg/m3
+
+|
+
+30 mg/m3
+
+|
+
+Substances organiques à l'état de gaz ou de vapeur exprimées en carbone
+
+organique total (COT)
+
+|
+
+10 mg/m3
+
+|
+
+20 mg/m3
+
+|
+
+Chlorure d'hydrogène (HCI)
+
+|
+
+10 mg/m3
+
+|
+
+60 mg/m3
+
+|
+
+Fluorure d'hydrogène (HF)
+
+|
+
+1 mg/m3
+
+|
+
+4 mg/m3
+
+|
+
+Dioxyde de soufre (S02)
+
+|
+
+50 mg/m3
+
+|
+
+200 mg/m3
+
+|
+
+Monoxyde d'azote (NO) et dioxyde d'azote (NO2) exprimés en
+
+dioxyde d'azote pour les installations existantes dont la capacité
+
+nominale est supérieure à 6 tonnes par heure ou pour les nouvelles
+
+installations d'incinération
+
+|
+
+200 mg/m3
+
+|
+
+400 mg/m3
+
+|
+
+Monoxyde d'azote (NO) et dioxyde d'azote (NO2) exprimés en dioxyde
+
+d'azote pour les installations d'incinération existantes dont la capacité
+
+nominale est inférieure ou égale à 6 tonnes par heure
+
+|
+
+400 mg/m3
+
+|
+
+|
 
 c) Métaux
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
+
+|
+
+VALEUR
+
+|
+
+Cadmium et ses composés, exprimés en cadmium (Cd) + thallium et ses composés, exprimés en thallium (TI).
+
+|
+
+0,05 mg/m3
+
+|
+
+Mercure et ses composés, exprimés en mercure (Hg)
+
+|
+
+0,05 mg/m3
+
+|
+
+Total des autres métaux lourds (Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V)
+
+|
+
+0,5 mg/m3
+
+|
 
 Le total des autres métaux lourds est composé de la somme :
 
@@ -56,10 +184,52 @@ La méthode de mesure utilisée est la moyenne mesurée sur une période d'écha
 
 Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
 
-d) Dioxines et furannes
+d) Dioxines et furannes.
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
+
+|
+
+VALEUR
+
+|
+
+Dioxines et furannes
+
+|
+
+0,1 ng/m³
+
+|
 
 La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
 
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+d-1. Mesures ponctuelles.
+
+Les échantillons analysés sont constitués de prélèvements issus des gaz, réalisés sur une période d'échantillonnage de six à huit heures.
+
+d-2. Mesures en semi-continu.
+
+Les échantillons analysés sont constitués de prélèvements de gaz sur une période d'échantillonnage de quatre semaines. Une durée de prélèvement inférieure peut être définie par l'arrêté d'autorisation, notamment lorsque la sensibilité du milieu récepteur le justifie.
+
+La mise en place et le retrait des dispositifs d'échantillonnage et l'analyses des échantillons prélevés sont réalisés par un organisme mentionné à l'article 28.
+
+e) Ammoniac.
+
+PARAMÈTRE
+
+|
+
+VALEUR JOURNALIÈRE
+
+moyenne
+
+|
+
+Ammoniac
+
+|
+
+30 mg/m³
+
+|
