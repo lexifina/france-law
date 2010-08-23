@@ -1,16 +1,20 @@
 # Article Annexe
 
-Normes de qualité relatives au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses exprimées en microgramme par litre (µg/l).
+NORMES DE QUALITÉ ENVIRONNEMENTALE RELATIVES AU PROGRAMME NATIONAL D'ACTION CONTRE LA POLLUTION
 
-Substances de la liste I de la directive 76/464/CEE
+DES MILIEUX AQUATIQUES PAR CERTAINES SUBSTANCES DANGEREUSES EXPRIMÉES EN MICROGRAMMES PAR LITRE (µg / l)
 
-No UE (1)
+Substances de la liste I de la directive 76 / 464 / CEE
+
+N° UE (1)
 
 |
 
-No CAS
+N° CAS
 
-(Chemical Abstract Services)
+(Chemical Abstract
+
+Services)
 
 |
 
@@ -18,49 +22,61 @@ NOM
 
 |
 
-EAUX
-
-de surface (2)
+EAUX DE SURFACE (2)
 
 |
 
-EAUX
-
-de transition (2)
+EAUX DE TRANSITION (2)
 
 |
 
-EAUX
+EAUX MARINES
 
-marines
+intérieures
 
-intérieures et
-
-territoriales (2)
+et territoriales (2)
 
 |
 
 1
 
+71
+
+77
+
+130
+
 |
 
 309-00-2
 
-|
+60-57-1
 
-Aldrine
+72-20-8
 
-|
-
-0,010
+465-73-6
 
 |
 
-0,010
+Aldrine (4)
+
+Dieldrine (4)
+
+Endrine (4)
+
+Isodrine (4)
 
 |
 
-0,010
+∑ = 0, 010
+
+|
+
+∑ = 0, 005
+
+|
+
+∑ = 0, 005
 
 |
 
@@ -72,19 +88,27 @@ Aldrine
 
 |
 
-Cadmium
+Cadmium et ses composés (suivant les classes de dureté de l'eau) (5)
 
 |
 
-5
+0, 08 (classe 1)
+
+0, 08 (classe 2)
+
+0, 09 (classe 3)
+
+0, 15 (classe 4)
+
+0, 25 (classe 5)
 
 |
 
-5 D (3)
+0, 2
 
 |
 
-2,5 D(3)
+0, 2
 
 |
 
@@ -124,15 +148,15 @@ Chloroforme
 
 |
 
-12
+2, 5
 
 |
 
-12
+2, 5
 
 |
 
-12
+2, 5
 
 |
 
@@ -140,23 +164,23 @@ Chloroforme
 
 |
 
-s.o.
+so
 
 |
 
-total DDT
+Total DDT
 
 |
 
-0,025
+0, 025
 
 |
 
-0,025
+0, 025
 
 |
 
-0,025
+0, 025
 
 |
 
@@ -164,19 +188,19 @@ total DDT
 
 |
 
-para-para DDT
+Para-para DDT
 
 |
 
-0,010
+0, 010
 
 |
 
-0,010
+0, 010
 
 |
 
-0,010
+0, 010
 
 |
 
@@ -188,7 +212,7 @@ para-para DDT
 
 |
 
-1,2-dichloroéthane
+1, 2-dichloroéthane
 
 |
 
@@ -201,54 +225,6 @@ para-para DDT
 |
 
 10
-
-|
-
-71
-
-|
-
-60-57-1
-
-|
-
-Dieldrine
-
-|
-
-0,010
-
-|
-
-0,010
-
-|
-
-0,010
-
-|
-
-77
-
-|
-
-72-20-8
-
-|
-
-Endrine
-
-|
-
-0,005
-
-|
-
-0,005
-
-|
-
-0,005
 
 |
 
@@ -260,19 +236,19 @@ Endrine
 
 |
 
-Héxachlorobenzène
+Hexachlorobenzène
 
 |
 
-0,03
+0, 01 (6)
 
 |
 
-0,03
+0, 01 (6)
 
 |
 
-0,03
+0, 01 (6)
 
 |
 
@@ -284,19 +260,19 @@ Héxachlorobenzène
 
 |
 
-Héxachlorobutadiène
+Hexachlorobutadiène
 
 |
 
-0,1
+0, 1 (6)
 
 |
 
-0,1
+0, 1 (6)
 
 |
 
-0,1
+0, 1 (6)
 
 |
 
@@ -304,23 +280,25 @@ Héxachlorobutadiène
 
 |
 
-s.o.
+608-73-1
 
 |
 
-Héxachlorocyclohexane (chaque isomère)
+Hexachlorocyclohexane
+
+(chaque isomère)
 
 |
 
-0,1
+0, 02
 
 |
 
-0,02
+0, 002
 
 |
 
-0,02
+0, 002
 
 |
 
@@ -332,15 +310,15 @@ Lindane
 
 |
 
-0,1
+0, 1
 
 |
 
-0,02
+0, 02
 
 |
 
-0,02
+0, 02
 
 |
 
@@ -356,15 +334,15 @@ Mercure
 
 |
 
-1
+0, 05
 
 |
 
-0,5 D (3)
+0, 05
 
 |
 
-0,3 D (3)
+0, 05
 
 |
 
@@ -380,15 +358,15 @@ Pentachlorophénol
 
 |
 
-2
+0, 4
 
 |
 
-2
+0, 4
 
 |
 
-2
+0, 4
 
 |
 
@@ -400,7 +378,9 @@ Pentachlorophénol
 
 |
 
-Perchloroéthylène (tétrachloroéthylène)
+Perchloroéthylène
+
+(tétrachloroéthylène)
 
 |
 
@@ -428,15 +408,15 @@ Trichlorobenzène
 
 |
 
-0,4
+0, 4
 
 |
 
-0,4
+0, 4
 
 |
 
-0,4
+0, 4
 
 |
 
@@ -448,19 +428,19 @@ Trichlorobenzène
 
 |
 
-1,2,4-Trichlorobenzène
+1, 2, 4-trichlorobenzène
 
 |
 
-0,4
+0, 4
 
 |
 
-0,4
+0, 4
 
 |
 
-0,4
+0, 4
 
 |
 
@@ -488,49 +468,33 @@ Trichloroéthylène
 
 |
 
-130
-
-|
-
-465-73-6
-
-|
-
-Isodrine
-
-|
-
-0,005
-
-|
-
-0,005
-
-|
-
-0,005
-
-|
-
-(1) No UE : le nombre mentionné correspond au classement par ordre alphabétique issu de la communication de la Commission européenne au Conseil du 22 juin 1982.
+(1) N° UE : le nombre mentionné correspond au classement par ordre alphabétique issu de la communication de la Commission européenne au Conseil du 22 juin 1982.
 
 (2) Sauf mention contraire (cf. note 3), il s'agit de la concentration totale dans les eaux.
 
-(3) D = concentration dissoute (après une filtration à 0,45 m).
+(3) D = concentration dissoute (après une filtration à 0, 45 m).
 
-s.o. : sans objet.
+(4) Cette substance n'est pas une substance prioritaire mais un des autres polluants pour lesquels les NQE sont identiques à celles définies dans la législation qui s'appliquait avant le 13 janvier 2009.
+
+(5) Pour le cadmium et ses composés (n° 6), les valeurs retenues pour les NQE varient en fonction de la dureté de l'eau telle que définie suivant les cinq classes suivantes : classe 1 : < 40 mg CaCO3 / l, classe 2 : 40 à < 50 mg CaCO3 / l, classe 3 : 50 à < 100 mg CaCO3 / l, classe 4 : 100 à < 200 mg CaCO3 / l, classe 5 : ≥
+
+200 mg CaCO3 / l.
+
+so : sans objet.
 
 |
 
-Substances de la liste II de la directive 76/464/CEE
+Substances de la liste II de la directive 76 / 464 / CEE
 
-No UE (1)
+N° UE (1)
 
 |
 
-No CAS
+N° CAS
 
-(Chemical Abstract Services)
+(Chemical Abstract
+
+Services)
 
 |
 
@@ -538,9 +502,103 @@ NOM
 
 |
 
-EAUX DE SURFACE
+EAUX DE SURFACE (2)
 
-eaux de transition eaux marines intérieures et territoriales (2)
+|
+
+EAUX DE TRANSITION (2)
+
+|
+
+EAUX MARINES
+
+intérieures
+
+et territoriales (2)
+
+|
+
+89
+
+|
+
+121-75-5
+
+|
+
+Malathion
+
+|
+
+0, 01
+
+|
+
+|
+
+|
+
+125
+
+|
+
+900-95-8
+
+|
+
+Acétate de triphénylétain
+
+(acétate de fentine)
+
+|
+
+0, 01
+
+|
+
+|
+
+|
+
+126
+
+|
+
+639-58-7
+
+|
+
+Chlorure de triphénylétain
+
+(chlorure de fentine)
+
+|
+
+0, 01
+
+|
+
+|
+
+|
+
+127
+
+|
+
+76-87-9
+
+|
+
+Hydroxyde de triphénylétain (hydroxyde de fentine)
+
+|
+
+0, 01
+
+|
+
+|
 
 |
 
@@ -556,7 +614,11 @@ Anthracène
 
 |
 
-0,1
+0, 1
+
+|
+
+|
 
 |
 
@@ -572,7 +634,15 @@ Benzène
 
 |
 
-1,7
+10
+
+|
+
+8
+
+|
+
+8
 
 |
 
@@ -584,11 +654,15 @@ Benzène
 
 |
 
-Mono-chlorobenzène
+Monochlorobenzène
 
 |
 
 32
+
+|
+
+|
 
 |
 
@@ -600,11 +674,17 @@ Mono-chlorobenzène
 
 |
 
-Chloroprène (2-chloro-1,3-butadiène)
+Chloroprène
+
+(2-chloro-1, 3-butadiène)
 
 |
 
 32
+
+|
+
+|
 
 |
 
@@ -620,7 +700,31 @@ Chloroprène (2-chloro-1,3-butadiène)
 
 |
 
-0,34
+0, 34
+
+|
+
+|
+
+|
+
+52
+
+|
+
+554-00-7
+
+|
+
+Dichloroaniline-2, 4
+
+|
+
+0, 2
+
+|
+
+|
 
 |
 
@@ -632,11 +736,15 @@ Chloroprène (2-chloro-1,3-butadiène)
 
 |
 
-1,2-dichlorobenzène
+1, 2-dichlorobenzène
 
 |
 
 10
+
+|
+
+|
 
 |
 
@@ -648,11 +756,15 @@ Chloroprène (2-chloro-1,3-butadiène)
 
 |
 
-1,3-dichlorobenzène
+1, 3-dichlorobenzène
 
 |
 
 10
+
+|
+
+|
 
 |
 
@@ -664,11 +776,15 @@ Chloroprène (2-chloro-1,3-butadiène)
 
 |
 
-1,4-dichlorobenzène
+1, 4-dichlorobenzène
 
 |
 
 20
+
+|
+
+|
 
 |
 
@@ -680,11 +796,15 @@ Chloroprène (2-chloro-1,3-butadiène)
 
 |
 
-1,1-dichloroéthane
+1, 1-dichloroéthane
 
 |
 
 92
+
+|
+
+|
 
 |
 
@@ -704,6 +824,34 @@ Dichlorométhane
 
 |
 
+20
+
+|
+
+20
+
+|
+
+64
+
+|
+
+120-83-2
+
+|
+
+2, 4-dichlorophénol
+
+|
+
+10
+
+|
+
+|
+
+|
+
 79
 
 |
@@ -720,6 +868,30 @@ Ethylbenzène
 
 |
 
+|
+
+|
+
+90
+
+|
+
+94-74-6
+
+|
+
+2, 4 MCPA
+
+|
+
+0, 1
+
+|
+
+|
+
+|
+
 96
 
 |
@@ -732,47 +904,179 @@ Naphtalène
 
 |
 
-2,4
+2, 4
 
 |
 
-99
+1, 2
 
 |
 
-s.o.
+1, 2
 
 |
 
-Hydrocarbures aromatiques polycyliques (HAP)
+101
 
 |
 
-s.o.
+1336-36-3
 
 |
 
-50-32-8
+PCB famille
 
 |
 
-3,4-benzopyrène (HAP)
+0, 001
 
 |
 
-0,05
+|
 
 |
 
-205-99-2
+101
 
 |
 
-3,4-benzofluoranthène (HAP)
+37680-73-2
 
 |
 
-0,05
+Polychlorobiphényle 101
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+31508-00-6
+
+|
+
+Polychlorobiphényle 118
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+35065-28-2
+
+|
+
+Polychlorobiphényle 138
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+35065-27-1
+
+|
+
+Polychlorobiphényle 153
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+35065-29-3
+
+|
+
+Polychlorobiphényle 180
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+7012-37-5
+
+|
+
+Polychlorobiphényle 28
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+35693-99-3
+
+|
+
+Polychlorobiphényle 52
+
+|
+
+|
+
+|
+
+|
+
+101
+
+|
+
+32598-13-3
+
+|
+
+Polychlorobiphényle 77
+
+|
+
+|
+
+|
 
 |
 
@@ -792,6 +1096,10 @@ Toluène
 
 |
 
+|
+
+|
+
 119
 
 |
@@ -800,11 +1108,15 @@ Toluène
 
 |
 
-1,1,1-trichloroéthane
+1, 1, 1-trichloroéthane
 
 |
 
 26
+
+|
+
+|
 
 |
 
@@ -816,11 +1128,15 @@ Toluène
 
 |
 
-1,1,2-trichloroéthane
+1, 1, 2-trichloroéthane
 
 |
 
 300
+
+|
+
+|
 
 |
 
@@ -836,7 +1152,11 @@ Chlorure de vinyle (chloroéthylène)
 
 |
 
-0,5
+0, 5
+
+|
+
+|
 
 |
 
@@ -856,10 +1176,12 @@ Xylène (ortho, méta ou para)
 
 |
 
-(1) No UE : le nombre mentionné correspond au classement par ordre alphabétique issu de la communication de la Commission européenne au Conseil du 22 juin 1982.
+|
+
+|
+
+(1) N° UE : le nombre mentionné correspond au classement par ordre alphabétique issu de la communication de la Commission européenne au Conseil du 22 juin 1982.
 
 (2) Sauf mention contraire, il s'agit de la concentration totale dans les eaux.
-
-s.o. : sans objet.
 
 |
