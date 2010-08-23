@@ -130,9 +130,9 @@ Pour la classification en très bon état écologique, des conditions physico-ch
 
 1.2.1. Cas général
 
-Vous pouvez consulter le tableau dans le JO
+Tableau 4 : élements physico-chimiques généraux
 
-n° 46 du 24 / 02 / 2010 texte numéro 9
+Vous pouvez consulter le tableau dans le JO n° 46 du 24 / 02 / 2010 texte numéro 9 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100224&numTexte=9&pageDebut=03429&pageFin=03475
 
 Pour les éléments de qualité physico-chimiques, les limites supérieure et inférieure de la classe bon suffisent pour la classification de l'état écologique, puisqu'un état écologique moins que bon est attribué sur la base des éléments biologiques. Néanmoins, au regard des données et des outils aujourd'hui disponibles, l'état écologique de certaines masses d'eau peut être évalué en considérant avec comme unique base numérique les données relatives aux paramètres physico-chimiques généraux, issues de la surveillance ou d'outils de modélisation. Dans ces cas, on utilisera les valeurs des limites de classes entre l'état moyen et l'état médiocre ainsi qu'entre l'état médiocre et le mauvais état des paramètres physico-chimiques généraux indiquées dans la table générale ci-dessus.
 
@@ -144,19 +144,119 @@ Dans ces cas particuliers, le fait que la valeur de ces éléments ou paramètre
 
 Tableau 5 : Cours d'eau naturellement pauvre en oxygène
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inferieure du bon état
+
+|
+
+Bilan de l'oxygène
+
+|
+
+Oxygène dissous (mg O2/l)
+
+|
+
+]7,5 - 6]
+
+|
+
+Taux de saturation en O2 dissous (%)
+
+|
+
+]80 -65]
+
+|
 
 Tableau 6 : Cours d'eau naturellement riches en matières organiques
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inferieure du bon état
+
+|
+
+Bilan de l'oxygène
+
+|
+
+Carbone organique (mg C/l)
+
+|
+
+]8 - 9]
+
+|
 
 Tableau 7 : Cours d'eau naturellement froids (température de l'eau inférieure à 14° C) et peu alcalins (pH max inférieur à 8, 5 unité pH) moins sensibles aux teneurs en NH4 + (HER 2 Alpes internes : cours d'eau très petits à moyens)
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inferieure du bon état
+
+|
+
+Nutriments
+
+|
+
+NH4
+
++ (mg NH4
+
++/l)
+
+|
+
+]0,1 - 1]
+
+|
 
 Tableau 8 : Cours d'eau naturellement acides
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+PARAMETRES
+
+|
+
+LIMITES SUPERIEURE
+
+et inferieure du bon état
+
+|
+
+Acidification
+
+|
+
+pH minimum
+
+|
+
+]6 - 5,8]
+
+|
+
+pH maximal
+
+|
+
+]8,2 - 9]
+
+|
 
 Cours d'eau des zones de tourbières :
 
@@ -246,11 +346,11 @@ Dureté inférieure
 
 ou égale
 
-à 24 µg CaCO3/l : 3,1
+à 24 mg CaCO3/l : 3,1
 
 |
 
-Dureté supérieure à 24 µg CaCO3/l : 7,8
+Dureté supérieure à 24 mg CaCO3/l : 7,8
 
 |
 
@@ -428,9 +528,113 @@ La classification de l'état de ces paramètres s'établit en calculant la moyen
 
 Tableau 11 : Phytoplancton
 
-Vous pouvez consulter le tableau dans le JO
+ELEMENTS DE QUALITE
 
-n° 46 du 24/02/2010 texte numéro 9
+|
+
+PARAMETRES
+
+|
+
+LIMITES DES CLASSES D'ETAT
+
+|
+
+Très bon / Bon
+
+|
+
+Bon / Moyen
+
+|
+
+Moyen / Médiocre
+
+|
+
+Médiocre / Mauvais
+
+|
+
+Phytoplancton
+
+|
+
+[Chl-a] moyenne estivale (mg/l)
+
+|
+
+Voir formules 1 et tableau 12
+
+|
+
+IPL (Indice planctonique
+
+|
+
+25
+
+|
+
+40
+
+|
+
+60
+
+|
+
+80
+
+|
+
+Invertébrés*
+
+|
+
+IMOL (Indice mollusque)
+
+|
+
+8
+
+|
+
+7
+
+|
+
+4
+
+|
+
+1
+
+|
+
+IOBL (Indice oligochètes de bioindication lacustre)
+
+|
+
+15
+
+|
+
+10
+
+|
+
+6
+
+|
+
+3
+
+|
+
+* Les valeurs des limités de classes pour l'indice mollusques (IMOL) et l'indice oligochètes (IOBL), paramètres constitutifs de l'élément de qualité invertébrés, sont donnés à titre indicatif. A ce stade des connaissances, ils ne sont pas utilisés pour l'évaluation. Ils peuvent être pris en compte pour conforter le diagnostic et, le cas échéant, accroître le niveau de confiance de l'état évalué de la masse d'eau.
+
+|
 
 L'indice biologique Phytoplancton à utiliser est l'indice planctonique (IPL) de la diagnose rapide, tel qu'indiqué dans : Barbe J., Lafont M., Mouthon J., Philippe M., 2003. Protocole actualisé de la diagnose rapide des plans d'eau. Rapport Cemagref-Lyon, Agence de l'eau Rhône-Méditerranée-Corse, 24 p.
 
@@ -454,9 +658,325 @@ Pour les plans d'eau listés dans le tableau 12 ci-après, les limites de classe
 
 Tableau 12 : Valeurs des limites de classe pour les cas particuliers (Chl-a) moyenne estivale de la concentration en chlorphyle-a en µg/l)
 
-Vous pouvez consulter le tableau dans le JO
+TYPE
 
-n° 46 du 24/02/2010 texte numéro 9
+|
+
+PLANS D'EAU
+
+|
+
+TRES BON /
+
+bon
+
+|
+
+BON /
+
+moyen
+
+|
+
+MOYEN /
+
+médiocre
+
+|
+
+MEDIOCRE /
+
+mauvais
+
+|
+
+A3
+
+|
+
+Sainte Croix (lac de )et Esparron (lac d' )
+
+|
+
+2.1
+
+|
+
+4.2
+
+|
+
+6.8
+
+|
+
+12.3
+
+|
+
+A6b
+
+|
+
+Cheze (retenue de la )et Touche Poupard (retenue de la )
+
+|
+
+4.3
+
+|
+
+8.0
+
+|
+
+13.1
+
+|
+
+23.3
+
+|
+
+A7a
+
+|
+
+Mousseau (retenue de ) [Pincemaille]
+
+|
+
+9.9
+
+|
+
+21.0
+
+|
+
+22.7
+
+|
+
+41.2
+
+|
+
+A7b
+
+|
+
+Der-Chantecoq (barrage-réservoir marne lac du )
+
+|
+
+4.6
+
+|
+
+8.0
+
+|
+
+12.2
+
+|
+
+21.6
+
+|
+
+A8*
+
+|
+
+Bimont (lac du )
+
+|
+
+3.8
+
+|
+
+4.2
+
+|
+
+12.0
+
+|
+
+21.3
+
+|
+
+A10
+
+|
+
+Roujane (retenue de), Calacuccia (retenue de ) et Tolla (lac de )
+
+|
+
+2.5
+
+|
+
+6.7
+
+|
+
+7.9
+
+|
+
+14.1
+
+|
+
+A12
+
+|
+
+Carcès (lac de) , Salagou (lac du ), Caramany (retenue de ), et Codole (retenue de )
+
+|
+
+2.8
+
+|
+
+6.0
+
+|
+
+8.7
+
+|
+
+15.5
+
+|
+
+N3
+
+|
+
+Entonnoir-bouverans (l' ), Etival (grand lac )
+
+|
+
+4.4
+
+|
+
+8.0
+
+|
+
+14.0
+
+|
+
+24.9
+
+|
+
+N4
+
+|
+
+Chalain (lac de )
+
+|
+
+2.7
+
+|
+
+4.7
+
+|
+
+9.9
+
+|
+
+17.6
+
+|
+
+N4
+
+|
+
+Nantua (lac de ) Aiguebelette (lac d'), Annecy (lac d' ), Bourget (lac du), Léman (lac)
+
+|
+
+2.1
+
+|
+
+3.8
+
+|
+
+9.9
+
+|
+
+17.6
+
+|
+
+N4
+
+|
+
+Clairvaux (Grand lac), Chaillexon (lac de ), Sylans (lac de ), Remoray (lac de ), Petichet (lac de), Ilay (lac d' ), Grand maclu (lac du )
+
+|
+
+3.6
+
+|
+
+6.6
+
+|
+
+9.9
+
+|
+
+17.6
+
+|
+
+N9
+
+|
+
+Cazaux (étang de ), Parentis (lac de)
+
+|
+
+4.3
+
+|
+
+8.0
+
+|
+
+11.7
+
+|
+
+20.7
+
+|
 
 2.1.3. Cas des départements d'outre-mer
 
@@ -492,9 +1012,71 @@ Les paramètres de l'élément nutriments à prendre en compte sont explicités 
 
 Tableau 14 : Paramètres de l'élément nutriments
 
-Vous pouvez consulter le tableau dans le JO
+PARAMETRES
 
-n° 46 du 24/02/2010 texte numéro 9
+|
+
+TEMPS DE SEJOUR MOYEN
+
+annuel
+
+> 2 mois
+
+|
+
+TEMPS DE SEJOUR MOYEN
+
+annuel
+
+<= 2 mois
+
+|
+
+Nutriments
+
+|
+
+N minéral maximal (NO3
+
+- + NH4
+
++)(mg N.l-1)
+
+|
+
+Valeur d'hiver , en période de mélange total des eaux
+
+|
+
+Maxima observé sur au minimum 3 campagnes estivales
+
+|
+
+PO4
+
+3- maximal (mg P.l-1)
+
+|
+
+Valeur d'hiver , en période de mélange total des eaux
+
+|
+
+Maxima observé sur au minimum 3 campagnes estivales
+
+|
+
+Phosphore total maximal (mg P.l-1)
+
+|
+
+Moyenne annuelle dans la zone euphotique ou valeur hivernale en période de mélange complet des eaux
+
+|
+
+Maxima observé sur au minimum 3 campagnes estivales
+
+|
 
 2.2.2. Cas des exceptions typologiques
 
