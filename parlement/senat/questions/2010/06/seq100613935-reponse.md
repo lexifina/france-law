@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613935
+
+- Question : [SEQ100613935](seq100613935.md) — Acquisition d'un matériel informatique dit « Système d'informations géographiques » par une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2010-08-26, page 2231*
+
+L'acquisition et l'utilisation d'un système d'information géographique (SIG) par un établissement public de coopération intercommunale (EPCI) ne constituent pas une compétence au sens que cette notion revêt dans le code général des collectivités territoriales (ex : assainissement, eau, ordures ménagères). Le SIG est en effet un système qui organise et présente des données numériques spatialement référencées et produit des plans et des cartes. Dans son acception courante, ce terme fait référence aux outils logiciels mais englobe aussi des données, le matériel et les savoir-faire liés à l'utilisation de ces derniers. Il peut donc s'agir de moyens nécessaires à l'exercice des compétences de l'EPCI et de ses communes. Pour organiser la mutualisation entre un EPCI et ses communes membres, il convient de souligner que le projet de loi de réforme des collectivités territoriales propose, dans son article 34, l'instauration de règles qui permettront la création de services communs aux EPCI et à une ou plusieurs de leurs communes membres. En outre, afin de permettre une mise en commun de moyens, ce même article prévoit qu'un EPCI à fiscalité propre peut se doter de biens qu'il partage avec ses communes membres selon des modalités prévues par un règlement de mise à disposition, y compris pour l'exercice par les communes de compétences qui n'ont pas été transférées antérieurement à l'EPCI. Ce dispositif légal pourra, dès son adoption, favoriser le type de mutualisation dont la question écrite fait état, afin que le SIG puisse servir au besoin propre non seulement de l'EPCI pour exercer ses compétences, mais aussi des communes membres pour l'exercice de celles qui leur incombent.
