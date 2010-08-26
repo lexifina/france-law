@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613648
+
+- Question : [SEQ100613648](seq100613648.md) — Situation de la Thaïlande
+
+## Réponse
+
+*Affaires étrangères, JO du 2010-08-26, page 2209*
+
+La France suit les évolutions politiques en Thaïlande avec une grande attention, en particulier s'agissant de la sécurité de ses ressortissants. Les divisions au sein de la société thaïlandaise, polarisée autour des adversaires et des partisans de l'ancien Premier ministre Thaksin Shinawatra, se sont aggravées ces dernières années. En avril et mai 2010 à Bangkok, la dispersion des manifestants du mouvement des « chemises rouges », qui réclamaient la dissolution du Parlement et la démission du Premier ministre, M. Abhisit Vejjajiva, a coûté la vie à près de 90 personnes, en majorité des civils. Un accord avait pourtant été trouvé sur un plan de réconciliation nationale et la tenue d'élections anticipées en novembre 2010. La France a condamné les violences, notamment les tirs à balles réelles. Une commission chargée d'enquêter sur les violences a été mise en place par les autorités thaïlandaises au début du mois de juin 2010. À cet égard, lors de la 14e session du Conseil des droits de l'Homme, la France a encouragé le gouvernement thaïlandais à prendre toutes les mesures appropriées afin que des enquêtes impartiales et indépendantes soient menées sur les violations des droits de l'Homme qui auraient pu être commises à cette occasion, quels qu'en aient été les auteurs. Les relations étroites et confiantes qu'entretiennent la France et la Thaïlande nous permettent d'aborder sans détour tous les sujets. Le 21 juin dernier, le ministre des affaires étrangères et européennes a reçu son homologue thaïlandais, M. Kasit Piromya, et ensemble ils ont évoqué la situation en Thaïlande, en particulier s'agissant des perspectives de réconciliation nationale et les modalités des prochaines échéances électorales.
