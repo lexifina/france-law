@@ -1,6 +1,6 @@
 # Article Annexe I
 
-1. Propriétés.
+1. Propriétés
 
 PROPRIÉTÉS
 
@@ -32,7 +32,7 @@ Indice de cétane mesuré.
 
 |
 
-51,0
+51, 0
 
 |
 
@@ -44,25 +44,25 @@ Indice de cétane calculé.
 
 |
 
-46,0
+46, 0
 
 |
 
 |
 
-Masse volumique (à 15 °C).
+Masse volumique (à 15° C).
 
 |
 
-kg/m³
+kg / m ³
 
 |
 
-820
+820, 0
 
 |
 
-845
+845, 0
 
 |
 
@@ -70,7 +70,7 @@ Hydrocarbures aromatiques polycycliques.
 
 |
 
-% (m/m)
+% (m / m)
 
 |
 
@@ -78,7 +78,7 @@ Hydrocarbures aromatiques polycycliques.
 
 |
 
-11
+8, 0
 
 |
 
@@ -86,7 +86,7 @@ Teneur en soufre.
 
 |
 
-mg/kg
+mg / kg
 
 |
 
@@ -94,9 +94,7 @@ mg/kg
 
 |
 
-50,0 (jusqu'au 31 décembre 2008)
-
-10,0 (à compter du 1er janvier 2009)
+10, 0
 
 |
 
@@ -104,11 +102,11 @@ Point d'éclair.
 
 |
 
-°C
+° C
 
 |
 
-55
+¹ 55
 
 |
 
@@ -120,7 +118,7 @@ Résidu de carbone (sur le résidu 10 % de distillation).
 
 |
 
-% (m/m)
+% (m / m)
 
 |
 
@@ -128,7 +126,7 @@ Résidu de carbone (sur le résidu 10 % de distillation).
 
 |
 
-0,30
+0, 30
 
 |
 
@@ -136,7 +134,7 @@ Teneur en cendre.
 
 |
 
-% (m/m)
+% (m / m)
 
 |
 
@@ -144,7 +142,7 @@ Teneur en cendre.
 
 |
 
-0,01
+0, 01
 
 |
 
@@ -152,7 +150,7 @@ Teneur en eau.
 
 |
 
-mg/kg
+mg / kg
 
 |
 
@@ -168,7 +166,7 @@ Contamination totale.
 
 |
 
-mg/kg
+mg / kg
 
 |
 
@@ -180,7 +178,7 @@ mg/kg
 
 |
 
-Corrosion à la lame de cuivre (3 h à 50 °C).
+Corrosion à la lame de cuivre (3 h à 50° C).
 
 |
 
@@ -198,7 +196,7 @@ Stabilité à l'oxydation 1.
 
 |
 
-g/m³
+g / m ³
 
 |
 
@@ -210,27 +208,13 @@ g/m³
 
 |
 
-Stabilité à l'oxydation 2.
+|
+
+h
 
 |
 
-g/m³
-
-|
-
--
-
-|
-
-60
-
-|
-
-Variation de l'indice d'acide.
-
-|
-
-mg KOH/g
+20 (1)
 
 |
 
@@ -238,11 +222,25 @@ mg KOH/g
 
 |
 
-0,30
+Stabilité à l'oxydation 2 à 115° C
+
+Variation de l'indice d'acide (2).
 
 |
 
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1,4) à 60 °C.
+mg KOH / g
+
+|
+
+-
+
+|
+
+0, 30
+
+|
+
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C.
 
 |
 
@@ -258,29 +256,29 @@ Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1,4) à 60 °C.
 
 |
 
-Viscosité à 40 °C.
+Viscosité à 40° C.
 
 |
 
-mm²/s
+mm ² / s
 
 |
 
-2,00
+2, 00
 
 |
 
-4,50
+4, 50
 
 |
 
 Distillation :
 
-- % (v/v) condensé à 250 °C ;
+% (v / v) évaporé à 250° C ;
 
 |
 
-% (v/v)
+% (v / v)
 
 |
 
@@ -292,11 +290,11 @@ Distillation :
 
 |
 
-- % (v/v) condensé à 350 °C ;
+% (v / v) évaporé à 350° C ;
 
 |
 
-% (v/v)
+% (v / v)
 
 |
 
@@ -308,11 +306,11 @@ Distillation :
 
 |
 
-- point 95 (V/V) condensé à :
+point 95 % (V / V) condensé à :
 
 |
 
-°C
+° C
 
 |
 
@@ -324,11 +322,11 @@ Distillation :
 
 |
 
-Teneur en esters méthyliques d'acides gras conforme à la norme EN 14214 et additivé conformément au paragraphe 2 figurant ci-dessous.
+Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 2010 relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
 
 |
 
-% (V/V)
+% (V / V)
 
 |
 
@@ -336,10 +334,80 @@ Teneur en esters méthyliques d'acides gras conforme à la norme EN 14214 et add
 
 |
 
-7
+7, 0
 
 |
 
-2. Additif.
+(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V / V). Cette spécification, en révision au CEN, est temporaire.
 
-Les esters méthyliques d'acides gras conformes à la norme EN 14214 doivent être additivés dès leur production et avant stockage d'un additif anti-oxydant ayant des performances au moins équivalentes à celles d'une incorporation de 1 000 ppm de buthylhydroxytoluène (BHT) et dont l'innocuité avec la chaîne logistique (y compris le transport par oléoduc), les autres additifs et les véhicules aura été validée.
+(2) Cette spécification supplémentaire est optionnelle.
+
+|
+
+2. Caractéristiques de tenue au froid
+
+SAISON
+
+|
+
+DATE
+
+|
+
+CLASSE
+
+|
+
+TLF (C, max)
+
+|
+
+Eté
+
+|
+
+1er avril - 31 octobre
+
+|
+
+B
+
+|
+
+0° C
+
+|
+
+Hiver
+
+|
+
+1er novembre - 31 mars
+
+|
+
+E
+
+|
+
+- 15° C
+
+|
+
+Gazole grand froid
+
+|
+
+|
+
+F
+
+|
+
+- 20° C
+
+|
+
+TLF : température limite de filtrabilité.
+
+|
