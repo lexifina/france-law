@@ -446,7 +446,7 @@ Les autorisations de mise sur le marché délivrées aux produits phytopharmaceu
 
 |
 
-3. Date d'expiration de l'inscription : 30 juin 2011.
+3. Date d'expiration de l'inscription : 30 juin 2012.
 
 |
 
@@ -494,7 +494,7 @@ Les autorisations de mise sur le marché délivrées aux produits phytopharmaceu
 
 |
 
-3. Date d'expiration de l'inscription : 30 juin 2011.
+3. Date d'expiration de l'inscription : 30 juin 2012.
 
 |
 
@@ -540,7 +540,7 @@ Par ailleurs, la spécification du matériel technique transformé commercialeme
 
 |
 
-3. Date d'expiration de l'inscription: 30 juin 2011.
+3. Date d'expiration de l'inscription: 30 juin 2012.
 
 |
 
