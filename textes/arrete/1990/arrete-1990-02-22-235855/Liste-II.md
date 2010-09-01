@@ -5368,6 +5368,18 @@ Voie cutanée (durée maximale du traitement : 7 jours)
 
 |
 
+Trimétazidine |
+
+Toutes formes
+
+|
+
+|
+
+|
+
+|
+
 Trioxyméthylène
 
 |
@@ -5606,7 +5618,7 @@ Autres formes
 
 |
 
-PRODUITS stupĖfiants
+PRODUITS stupéfiants
 
 NOMS DES SUBSTANCES VÉNÉNEUSES
 
