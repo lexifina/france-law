@@ -1008,7 +1008,7 @@ Plusieurs types d'épreuves peuvent être organisés :
 
 - épreuves pratiques simulées : préparation et réalisation de gestes techniques en salle de travaux pratiques avec usage éventuel de mannequin. Elles consistent en la participation du candidat à la prise en charge d'un patient en situation fictive. Elles se déroulent en institut de formation. La durée de l'épreuve pratique est d'un maximum de 30 minutes. Les candidats sont évalués par un ou plusieurs jurys.
 
-Chaque module est validé par au moins deux personnes : un enseignant issu de l'équipe pédagogique et un médecin ou un chef d'entreprise titulaire du diplôme d'ambulancier et pour le module 2 un représentant du DRASS.
+Chaque module est validé par au moins deux personnes : un enseignant issu de l'équipe pédagogique et un médecin ou un chef d'entreprise titulaire du diplôme d'ambulancier.
 
 La nature des épreuves d'évaluation et de validation de chaque module de formation est définie dans le tableau récapitulatif ci-dessous.
 
@@ -1070,7 +1070,7 @@ Epreuve pratique simulée en salle : évaluation clinique et soins adaptés
 
 Durée 20 minutes maximum
 
-Organisée sous la responsabilité de la DRASS
+Epreuve organisée par l'institut
 
 |
 
