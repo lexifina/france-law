@@ -372,7 +372,7 @@ Chef du bureau du recrutement.
 
 |
 
-Chef de cabinet du directeur de l'administration de la police nationale.
+Chef de cabinet du directeur des ressources et des compétences de la police nationale.
 
 |
 

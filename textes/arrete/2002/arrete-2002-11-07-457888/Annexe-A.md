@@ -66,7 +66,7 @@ Directeur des services actifs, directeur central des compagnies républicaines d
 
 |
 
-Directeur des services actifs, directeur de la formation de la police nationale.
+Directeur des services actifs, directeur des ressources et des compétences de la police nationale .
 
 |
 
@@ -316,7 +316,7 @@ Chef d'état-major à la DCPJ.
 
 |
 
-Chef de l'état-major à la DCSP .
+Chef de l'état-major à la DCSP.
 
 |
 
@@ -2138,7 +2138,7 @@ Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne à la
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC.
 
 |
 
@@ -2150,7 +2150,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC.
 
 |
 
@@ -2162,7 +2162,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC.
 
 |
 
@@ -2174,7 +2174,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC.
 
 |
 
@@ -2884,7 +2884,7 @@ Chef adjoint de la brigade anticriminalité de nuit à la DSPAP.
 
 |
 
-Chef du service territorial du renseignement des Hauts-de-Seine - Nanterre (DRPP).
+Chef du service territorial du renseignement des Hauts-de-Seine-Nanterre (DRPP).
 
 |
 
@@ -2896,7 +2896,7 @@ Chef du service territorial du renseignement des Hauts-de-Seine - Nanterre (DRPP
 
 |
 
-Chef du service territorial du renseignement de la Seine-Saint-Denis - Bobigny (DRPP).
+Chef du service territorial du renseignement de la Seine-Saint-Denis-Bobigny (DRPP).
 
 |
 
@@ -2908,7 +2908,7 @@ Chef du service territorial du renseignement de la Seine-Saint-Denis - Bobigny (
 
 |
 
-Chef du service territorial du renseignement du Val-de-Marne - Créteil (DRPP).
+Chef du service territorial du renseignement du Val-de-Marne-Créteil (DRPP).
 
 |
 
@@ -3136,7 +3136,7 @@ Chef du 3e district de police judiciaire à la DPJ.
 
 |
 
-Chef du service départemental de la police judiciaire des Hauts-de-Seine - Nanterre (DPJ).
+Chef du service départemental de la police judiciaire des Hauts-de-Seine-Nanterre (DPJ).
 
 |
 
@@ -3148,7 +3148,7 @@ Chef du service départemental de la police judiciaire des Hauts-de-Seine - Nant
 
 |
 
-Chef du service départemental de police judiciaire de la Seine-Saint-Denis - Bobigny (DPJ).
+Chef du service départemental de police judiciaire de la Seine-Saint-Denis-Bobigny (DPJ).
 
 |
 
@@ -3160,7 +3160,7 @@ Chef du service départemental de police judiciaire de la Seine-Saint-Denis - Bo
 
 |
 
-Chef du service départemental de police judiciaire du Val-de-Marne - Créteil (DPJ).
+Chef du service départemental de police judiciaire du Val-de-Marne-Créteil (DPJ).
 
 |
 

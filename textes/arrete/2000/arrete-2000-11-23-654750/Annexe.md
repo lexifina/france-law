@@ -586,7 +586,7 @@ Sous-directeur des élus locaux et de la fonction publique territoriale
 
 |
 
-En charge d'une sous-direction relevant de la direction générale de la police nationale (direction de l'administration de la police nationale)
+En charge d'une sous-direction relevant de la direction générale de la police nationale ( direction des ressources et des compétences de la police nationale)
 
 |
 
@@ -3060,6 +3060,18 @@ Du Val de Marne
 
 |
 
+De la Loire Atlantique
+
+|
+
+1
+
+|
+
+80
+
+|
+
 De la Haute Garonne
 
 |
@@ -3084,7 +3096,9 @@ Du Bas Rhin
 
 |
 
-Des Alpes Maritimes |
+Des Alpes Maritimes
+
+|
 
 1
 
@@ -3150,15 +3164,25 @@ Des Yvelines
 
 |
 
-80
-
-|
+80 |
 
 Autres postes
 
 |
 
 |
+
+|
+
+De la Corse-du-Sude
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -3204,9 +3228,7 @@ Directeur adjoint du cabinet du préfet de police |
 
 |
 
-Sous-préfet chargé de la sécurité et de la sûreté des plates-formes
-
-aéroportuaires auprès du préfet de Seine-Saint-Denis
+Sous-préfet chargé de la sécurité et de la sûreté des plates-formes aéroportuaires auprès du préfet de Seine-Saint-Denis
 
 |
 
