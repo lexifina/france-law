@@ -1,0 +1,275 @@
+# Article 1er
+
+Sont couverts, selon les conditions du régime conventionnel, tous les actes et frais de soins ayant fait l'objet d'un remboursement et d'un décompte individuel sécurité sociale, relevant des postes de garantie détaillées ci-après.
+
+Les exclusions et les limitations de garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.
+
+Poste |
+
+Prestations complémentaires à la sécurité sociale |
+
+|
+
+Conventionné |
+
+Non conventionné |
+
+Hospitalisation médicale et chirurgicale |
+
+Frais de séjour, salle d'opération |
+
+Ticket modérateur limité à 20 % de la BR + 125 % de la BR sur les dépassements |
+
+Ticket modérateur reconstitué sur le PU
+
+limité à 20 % du PU + 125 % du PU sur les dépassements |
+
+Honoraires : actes de chirurgie (ADC), actes d'anesthésie (ADA), autres honoraires |
+
+Ticket modérateur limité à 20 % de la BR + 125 % de la BR sur les dépassements |
+
+Ticket modérateur reconstitué sur le PU
+
+limité à 20 % du PU + 125 % du PU sur les dépassements |
+
+Chambre particulière *, y compris maternité ** |
+
+70 € par jour |
+
+Néant |
+
+Forfait hospitalier engagé* |
+
+100 % des frais réels dans la limite de la législation en vigueur |
+
+Frais d'accompagnement (enfant à charge de moins de 16 ans sur présentation d'un justificatif) * |
+
+30 € par jour |
+
+Transport (accepté sécurité sociale) |
+
+Ticket modérateur limité à 35 % du TR |
+
+Fécondation in vitro |
+
+Crédit annuel de 300 € |
+
+Actes médicaux |
+
+Généralistes |
+
+Ticket modérateur limité à 30 % de la BR + 75 % de la BR sur les dépassements |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR + 75 % de la BR sur les dépassements |
+
+Spécialistes |
+
+Ticket modérateur limité à 30 % de la BR + 75 % de la BR sur les dépassements |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR + 75 % de la BR sur les dépassements |
+
+Actes de chirurgie (ADC), actes techniques (ATM) |
+
+Ticket modérateur limité à 30 % de la BR + 75 % de la BR sur les dépassements |
+
+Ticket modérateur reconstitué sur le PU
+
+limité à 30 % du PU + 75 % du PU sur les dépassements |
+
+Actes d'imagerie médicale (ADI), actes d'échographie (ADE) |
+
+Ticket modérateur limité à 30 % de la BR |
+
+Ticket modérateur reconstitué sur le PU
+
+limité à 30 % du PU |
+
+Auxiliaires médicaux |
+
+Ticket modérateur limité à 40 % de la BR |
+
+Ticket modérateur conventionnel reconstitué limité à 40 % de la BR |
+
+Analyses |
+
+Ticket modérateur limité à 40 % de la BR |
+
+Ticket modérateur conventionnel reconstitué limité à 40 % de la BR |
+
+Pharmacie (acceptée sécurité sociale) |
+
+Vignette blanche
+
+Vignette bleue
+
+Vignette orange |
+
+Ticket modérateur limité à 35 % TFR
+
+Ticket modérateur limité à 65 % TFR
+
+Ticket modérateur limité à 85 % TFR |
+
+Dentaire |
+
+Soins dentaires, à l'exception des inlays simples et onlays |
+
+Ticket modérateur limité à 30 % de la BR |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR |
+
+Inlay simple, onlay |
+
+Ticket modérateur limité à 30 % de la BR + 230 % de la BR sur les dépassements |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR + 230 % de la BR sur les dépassements |
+
+Prothèses dentaires remboursées par la sécurité sociale |
+
+Ticket modérateur limité à 30 % de la BR + 275 % de la BR sur les dépassements |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR + 275 % de la BR sur les dépassements |
+
+Inlay core et inlay à clavettes |
+
+Ticket modérateur limité à 30 % de la BR + 230 % de la BR sur les dépassements |
+
+Ticket modérateur conventionnel reconstitué limité à 30 % de la BR + 230 % de la BR sur les dépassements |
+
+Prothèses dentaires non remboursées par la sécurité sociale* |
+
+260 % du tarif de convention |
+
+Implant |
+
+Forfait de 600 € par implant (limité à 3 implants par an) (maximum 1 800 € par an) |
+
+Orthodontie acceptée par la sécurité sociale |
+
+150 % du tarif de convention |
+
+Orthodontie refusée par la sécurité sociale* |
+
+250 % du tarif de convention |
+
+Parodontologie |
+
+Crédit annuel de 200 € |
+
+Prothèses non dentaires (acceptées sécurité sociale) |
+
+Prothèses auditives |
+
+Crédit annuel de 1 200 € |
+
+Orthopédie et autres prothèses |
+
+Crédit annuel de 600 € |
+
+Optique *** |
+
+Monture + verres |
+
+Limité à un équipement par an |
+
+Monture |
+
+Forfait de 115 € |
+
+Verres unifocaux simples (1) |
+
+Forfait de 70 € par verre |
+
+Verres unifocaux complexes (2) |
+
+Forfait de 120 € par verre |
+
+Verres multifocaux ou progressifs simples (3) |
+
+Forfait de 150 € par verre |
+
+Verres multifocaux ou progressifs complexes (4) |
+
+Forfait de 200 € par verre |
+
+Lentilles acceptées par la sécurité sociale |
+
+Crédit annuel de 180 € par paire par bénéficiaire |
+
+Lentilles refusées par la sécurité sociale, y compris lentilles jetables * |
+
+Crédit annuel de 180 € par paire par bénéficiaire |
+
+Chirurgie réfractive |
+
+Crédit annuel de 400 € par œil |
+
+Cure thermale (acceptée sécurité sociale) |
+
+Frais de traitement et honoraires |
+
+Ticket modérateur limité à 35 % du TR |
+
+Frais de voyage et hébergement* |
+
+Forfait de 250 € |
+
+Maternité |
+
+Forfait par enfant déclaré (dans la limite des frais réels restant à charge) |
+
+Forfait de 500 € |
+
+Prévention (décret n° 2005-1226 du 29 septembre 2005 et de ses arrêtés subséquents) |
+
+Détartrage annuel complet sus et sous-gingival, effectué en 2 séances maximum
+
+Vaccin diphtérie, tétanos et poliomyélite |
+
+100 % du ticket modérateur |
+
+Vaccin anti-grippe non remboursé sécurité sociale (sur présentation prescription et facture) |
+
+100 % des frais réels |
+
+Actes hors nomenclature |
+
+Acupuncture, chiropractie, ostéopathie (intervention de praticiens inscrits auprès d'une association agréée) |
+
+Prise en charge de 25 € par consultation avec un maximum de 4 prises en charge par an |
+
+Prise en charge des substituts nicotiniques |
+
+50 € par an et par bénéficiaire en complément de la prise en charge de la sécurité sociale |
+
+Assistance « frais de santé » hospitalisation et ambulatoire |
+
+Garanties détaillées dans la notice d'information spécifique prise en application du protocole existant entre AG2R Prévoyance et l'assisteur |
+
+BR = base de remboursement.
+
+PU = prix unitaire.
+
+TMC = ticket modérateur conventionnel (reconstitué en secteur non conventionné).
+
+RSS = remboursement sécurité sociale.
+
+PMSS = plafond mensuel sécurité sociale.
+
+TFR = tarif forfaitaire de responsabilité.
+
+L'annualité est appréciée par année civile. La part non consommée une année n'est pas reportée l'année suivante.
+
+* Remboursé selon conditions définies nonobstant toutes interventions de la sécurité sociale.
+
+** Limités à 60 jours en hospitalisation médicale et chirurgicale (et maternité) et à 90 jours par année civile en maison de repos, de convalescence ou d'accueil spécialisé pour handicapés en secteur psychiatrique.
+
+Détail poste optique :
+
+(1) Verres unifocaux simples : LPP 22 61874,22 42457,22 00393,22 70413,22 03240,22 87916,22 59966,22 26412.
+
+(2) Verres unifocaux complexes : LPP 22 43540,22 97441,22 43304,22 91088,22 73854,22 48320,22 83953,22 19381,22 38941,22 68385,22 45036,22 06800,22 82793,22 63459,22 80660,22 65330,22 35776,22 95896,22 84527,22 54868,22 12976,22 52668,22 88519,22 99523.
+
+(3) Verres multifocaux simples : 22 59245,22 64045,22 40671,22 82221,22 90396,22 91183,22 27038,22 99180.
+
+(4) Verres multifocaux complexes : 22 38792,22 02452,22 34239,22 59660,22 45384,22 95198,22 02239,22 52042. |
