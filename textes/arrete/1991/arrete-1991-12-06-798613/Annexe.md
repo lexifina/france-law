@@ -2164,11 +2164,7 @@ A
 
 |
 
-g) Personnels enseignants et d'éducation exerçant les fonctions prévues à l'article 1er du décret n° 92-216 du 9 mars 1992
-
-|
-
-A
+g) abrogé
 
 |
 
@@ -2180,11 +2176,9 @@ A
 
 |
 
-10
-
 |
 
-13500
+|
 
 |
 
