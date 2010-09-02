@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613734
+
+- Question : [SEQ100613734](seq100613734.md) — Décrets d'application non publiés
+
+## Réponse
+
+*Premier ministre, JO du 2010-09-02, page 2262*
+
+Par la mise en oeuvre de procédures fixées par la circulaire du 29 février 2008 relative à l'application des lois, le Gouvernement a notablement accéléré la publication des décrets d'application des lois, ainsi que l'a relevé le Sénat dans son dernier rapport annuel sur l'application des lois. 84 % des mesures attendues pour l'application des lois publiées depuis plus de six mois avaient ainsi été prises au 31 décembre 2009. Ce taux a provisoirement fléchi à 71 % au 30 juin 2010, en raison de l'importance des réformes législatives entrant nouvellement dans ces décomptes. L'état de l'application des lois de la législature est vérifiable en temps réel sur le site Légifrance. Ainsi, au 30 juin 2010, seules quatre des 41 lois publiées entre le 1er janvier et le 31 décembre 2009 n'avaient reçu aucun décret d'application (loi du 3 août 2009 de programme relative à la mise en oeuvre du Grenelle de l'environnement, loi du 3 août 2009 relative à l'évolution institutionnelle de la Nouvelle-Calédonie et à la départementalisation de Mayotte, loi du 26 octobre 2009 relative au transfert aux départements des parcs de l'équipement et à l'évolution de la situation des ouvriers des parcs et ateliers et loi du 28 octobre 2009 tendant à garantir la parité de financement entre les écoles élémentaires publiques et privées sous contrat d'association lorsqu'elles accueillent des élèves scolarisés hors de leur commune de résidence). Douze des 41 lois parues au cours de la période étaient d'application immédiate. Huit autres avaient reçu l'ensemble de leurs décrets d'application. Pour 21 lois, restaient attendus au 30 juin certains décrets d'application. L'ensemble des mesures restant à prendre est en cours d'élaboration et fait l'objet d'un traitement prioritaire.
