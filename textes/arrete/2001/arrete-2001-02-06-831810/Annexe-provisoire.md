@@ -678,50 +678,6 @@ Ne vous colorez pas les cheveux si :
 
 |
 
-26 p
-
-|
-
-HC Orange No. 2 (n° CAS 55302-96-0).
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-1,0 %.
-
-|
-
-|
-
-Vous pouvez consulter le cliché dans le JO
-
-n° 86 du 13/04/2010 texte numéro 17
-
-Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
-
-Lire et suivre les instructions.
-
-Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
-
-Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
-
-Ne vous colorez pas les cheveux si :
-
-- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
-
-- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
-
-- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
-
-|
-
-31 décembre 2010
-
-|
-
 27 p
 
 |
@@ -789,30 +745,6 @@ Ne vous colorez pas les cheveux si :
 - vous avez déjà fait une réaction après avoir coloré vos cheveux ;
 
 - vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
-
-|
-
-31 décembre 2010
-
-|
-
-29 p
-
-|
-
-2-Hydroxyethyl-amino-5-nitro-anisole (n° CAS 66095-81-6) et ses sels.
-
-|
-
-Colorant non oxydant pour la coloration des cheveux.
-
-|
-
-1,0 %.
-
-|
-
-|
 
 |
 
