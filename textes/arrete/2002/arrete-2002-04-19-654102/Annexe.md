@@ -184,7 +184,7 @@ Directeur de la sécurité sociale
 
 |
 
-Directeur de l'administration générale, du personnel et du budget
+Directeur des ressources humaines (A compter du 8 juin 2009)
 
 |
 
@@ -398,23 +398,11 @@ Chef de service, direction de la recherche, des études, de l'évaluation et des
 
 |
 
-Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale ou d'un service à compétence nationale :
+Chef de service ou sous-directeur en charge d'un service ou d'une sous-dirrection d'administration centrale ou d'un service à compétence nationale :
 
 |
 
-Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Chef de service chargé de la coordination des fonctions de soutien et de la gestion interne de la direction, direction de l'administration générale, du personnel et du budget
+Chef du service, adjoint au directeur des affaires financières, juridiques et des services (A compter du 1er mars 2010)
 
 |
 
@@ -477,6 +465,16 @@ Direction générale du travail, sous-directeur des conditions de travail, de la
 Direction de l'animation de la recherche, des études et des statistiques : sous-directeur du suivi et de l'évaluation des politiques de l'emploi et de la formation professionnelle
 
 |
+
+1
+
+|
+
+110
+
+|
+
+Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'action régionale, de la diffusion et des moyens (A compter du 28 mars 2008) |
 
 1
 
@@ -582,7 +580,7 @@ Direction générale de l'action sociale : sous-directeur des politiques d'inser
 
 |
 
-direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins
+Direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins
 
 |
 
@@ -594,7 +592,7 @@ direction générale de l'offre de soins : sous-directeur de l'organisation des 
 
 |
 
-direction générale de l'offre de soins : sous-directeur des professions paramédicales et des personnels hospitaliers
+Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des ressources humaines du système de santé (A compter du 10 décembre 2008)
 
 |
 
@@ -605,6 +603,8 @@ direction générale de l'offre de soins : sous-directeur des professions param�
 110
 
 |
+
+..
 
 Direction de la sécurité sociale : sous-directeur du financement du système de soins
 
@@ -642,9 +642,17 @@ Direction de la sécurité sociale : sous-directeur des études et des prévisio
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur de la gestion du personnel
+Direction des ressources humaines : sous-directeur de la gestion du personnel (A compter du 1er juillet 2010) |
+
+1
 
 |
+
+80
+
+|
+
+Direction des ressources humaines : sous-directeur des emplois et des compétences (A compter du 8 juin 2009) |
 
 1
 
@@ -654,15 +662,9 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Direction de l'administration générale, du personnel et du budget, sous-directeur des affaires financières (à compter du 20 novembre 2006)
-
 |
 
-1
-
 |
-
-110
 
 |
 
@@ -786,18 +788,6 @@ direction générale de l'offre de soins : sous-directeur de la qualité et du f
 
 |
 
-direction générale de l'offre de soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007)
-
-|
-
-1
-
-|
-
-80
-
-|
-
 direction générale de l'offre de soins : sous-directeur des affaires générales
 
 |
@@ -858,7 +848,7 @@ Direction de la sécurité sociale : sous-directeur de la gestion et des systèm
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur des statuts et du développement professionnel et social
+Direction des ressources humaines : sous-directeur du droit du personnel et des relations sociales (A compter du 8 juin 2009)
 
 |
 
@@ -870,9 +860,7 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur des services généraux et de l'immobilier (à compter du 10 avril 2008)
-
-|
+Direction des affaires financières, juridiques et des services : sous-directeur des systèmes d'information (A compter du 8 juin 2009) |
 
 1
 
@@ -882,7 +870,7 @@ Direction de l'administration générale, du personnel et du budget : sous-direc
 
 |
 
-Direction de l'administration générale, du personnel et du budget : sous-directeur des systèmes d'information et des télécommunications
+Direction des affaires financières, juridiques et des services : sous-directeur des affaires juridiques et de la gestion des connaissances (A compter du 8 juin 2009)
 
 |
 
@@ -958,18 +946,6 @@ Direction générale du travail (à compter du 22 août 2006)
 
 |
 
-Direction de l'animation de la recherche, des études et des statistiques (à compter du 1er janvier 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Direction de l'administration générale et de la modernisation des services
 
 |
@@ -1018,7 +994,7 @@ Direction générale de l'action sociale (à compter du 9 février 2008)
 
 |
 
-Direction de l'administration générale, du personnel et du budget (à compter du 28 mai 2006)
+Direction des ressources humaines (à compter du 8 juin 2009)
 
 |
 
@@ -1066,37 +1042,7 @@ Délégation aux affaires européennes et internationales (à compter du 23 aoû
 
 |
 
-5° Chef de mission
-
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
-
-|
-
-Chef de mission :
-
-|
-
-Direction de l'administration générale et de la modernisation des services : chef de la mission centrale d'appui et de coordination des services déconcentrés
-
-|
-
-1
-
-|
-
-80
-
-|
-
-6° Président de mission
+5° Président de mission
 
 Désignation de l'emploi
 
@@ -1721,6 +1667,8 @@ Poitou-Charentes
 90
 
 |
+
+..
 
 Directeur départemental des affaires sanitaires et sociales
 
@@ -2597,6 +2545,8 @@ Yonne
 80
 
 |
+
+..
 
 Directeur départemental du travail, de l'emploi et de la formation professionnelle
 
