@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100212176
+
+- Question : [SEQ100212176](seq100212176.md) — Incompatibilités concernant les rapports entre le maire et ses adjoints
+
+## Réponse
+
+*Intérieur, JO du 2010-09-02, page 2276*
+
+L'article L. 2122-6 du code général des collectivités territoriales dispose que « les agents salariés du maire ne peuvent être adjoints si cette activité salariée est directement liée à l'exercice du mandat de maire ». Issu de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, ce régime d'incompatibilité a été assoupli par rapport à la législation préexistante. Il en ressort que l'attaché parlementaire d'un maire occupant un mandat de parlementaire ne peut être adjoint, ainsi que l'a confirmé le Conseil d'État dans son arrêt du 15 janvier 1997 : élections municipales d'Héricourt. Par ailleurs, la jurisprudence considère que les incompatibilités sont d'interprétation stricte (arrêt du Conseil d'État du 27 février 1953 : élection maire de Sainte-Hilaire-du-Maine). Elle a ainsi considéré que n'est pas un agent salarié du maire l'employé ou chef de service d'une société dont le maire est le gérant statutaire ou le président-directeur général et principal actionnaire (arrêt du Conseil d'État du 13 mai 1966 : él. Adj. Senlis). Sous réserve d'interprétation contraire du juge, le salarié d'une communauté de communes présidée par le maire ne devrait donc pas être considéré comme agent salarié du maire. Toutefois, l'Assemblée nationale a adopté, en première lecture au projet de loi portant réforme des collectivités territoriales, un amendement complétant l'article L. 46-1 du code électoral d'un alinéa ainsi rédigé : « Les fonctions de directeur général des services, directeur général des services adjoint, directeur des services, directeur ou chef de cabinet sont incompatibles avec un mandat élu au sein d'une des communes membres de l'établissement public intercommunal concerné. »
