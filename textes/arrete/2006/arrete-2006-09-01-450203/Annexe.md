@@ -162,13 +162,7 @@ Atelier artistique (facultatif)
 
 |
 
-Option facultative
-
-|
-
-|
-
-|
+Options facultatives (2 au maximum)
 
 Langue vivante 2 (étrangère ou régionale)
 
@@ -182,6 +176,28 @@ Langue vivante 2 (étrangère ou régionale)
 
 |
 
+Education physique et sportive
+
+|
+
+3
+
+|
+
+3
+
+|
+
+Arts (****) |
+
+3
+
+|
+
+3
+
+|
+
 (*) (TD) horaire correspondant à des travaux dirigés.
 
 (TP) horaire correspondant à des travaux pratiques.
@@ -189,6 +205,8 @@ Langue vivante 2 (étrangère ou régionale)
 (**) Horaire à effectif allégé favorisant la constitution de groupes de compétences tels que mentionnés dans le décret n° 2005-1011 du 22 août 2005 relatif à l'organisation de l'enseignement des langues vivantes étrangères dans l'enseignement scolaire.
 
 (***) Les élèves désirant poursuivre l'enseignement de détermination d'éducation physique et sportive de seconde bénéficient d'un enseignement complémentaire de 4 heures (dont 1 heure en classe dédoublée) en sus de l'enseignement obligatoire.
+
+(****) Arts : arts plastiques ou cinéma-audiovisuel ou histoire des arts ou musique ou théâtre-expression dramatique ou danse.
 
 |
 
