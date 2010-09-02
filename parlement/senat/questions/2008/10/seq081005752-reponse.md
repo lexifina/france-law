@@ -1,0 +1,9 @@
+# Réponse à la question SEQ081005752
+
+- Question : [SEQ081005752](seq081005752.md) — Récupération de l'eau de pluie
+
+## Réponse
+
+*Écologie, JO du 2010-09-02, page 2271*
+
+La loi sur l'eau et les milieux aquatiques du 30 décembre 2006, tout comme le Grenelle de l'environnement, affirme que la récupération et l'utilisation des eaux de pluie pour certains usages et sous certaines conditions techniques, est un outil qui doit être favorisé. L'arrêté du 4 mai 2007 encadre la réutilisation des eaux de pluie, pour les usages extérieurs. L'arrêté du 21 août 2008 encadre les usages de l'eau de pluie à l'intérieur des bâtiments et permet déjà l'utilisation de l'eau de pluie, pour l'alimentation des toilettes et le lavage des sols à l'intérieur des bâtiments d'habitation ou assimilés et, à titre expérimental et sous conditions pour le lavage du linge. La substitution envisagée peut ainsi permettre de satisfaire près des deux tiers de la consommation en eau domestique pour les usagers volontaires. Les eaux de pluie récupérées en aval des toitures ne respectent pas les limites de qualité réglementaires définies pour l'eau potable et peuvent contenir des micro-organismes pathogènes. Par conséquent, tout raccordement, qu'il soit temporaire ou permanent, du réseau de pluie avec le réseau de distribution d'eau destinée à la consommation humaine est interdit. Compte tenu des risques sanitaires associés à ce type de raccordement, il n'est pas prévu de revenir sur cette interdiction et d'autoriser l'introduction d'eau de pluie dans le réseau d'eau potable. En revanche, pour satisfaire les besoins, lorsque le réservoir de stockage d'eau de pluie est vide, il est possible d'assurer l'appoint en eau du système de distribution d'eau de pluie depuis le réseau de distribution d'eau destinée à la consommation humaine, par un système de disconnexion par surverse totale installé de manière permanente.
