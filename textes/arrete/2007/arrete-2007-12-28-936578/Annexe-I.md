@@ -1,22 +1,20 @@
 # Article Annexe I
 
-A N N E X E I
-
 1. Dispositions générales
 
-1.1. Conformité de l'installation à la déclaration
+1. 1. Conformité de l'installation à la déclaration
 
 L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
 
-1.2. Modifications
+1. 2. Modifications
 
 Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage entraînant un changement notable des éléments du dossier de déclaration initiale est portée, avant sa réalisation, à la connaissance du préfet, qui peut exiger une nouvelle déclaration.
 
-1.3. Contenu de la déclaration
+1. 3. Contenu de la déclaration
 
 La déclaration précise les mesures prises en vue de respecter les dispositions du présent arrêté, et notamment celles relatives aux conditions d'utilisation, d'épuration et d'évacuation des émanations de toutes natures ainsi que d'élimination des déchets.
 
-1.4. Dossier installation classée
+1. 4. Dossier installation classée
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
@@ -30,31 +28,31 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 ― les résultats des dernières mesures sur les effluents, les émissions à l'atmosphère et le bruit, les rapports des visites et de contrôle ;
 
-― les documents prévus aux points 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.6 et 4.7 du présent arrêté ;
+― les documents prévus aux points 3. 3, 3. 4, 3. 5, 3. 6, 3. 7, 4. 1, 4. 6 et 4. 7 du présent arrêté ;
 
-― tous éléments utiles relatifs aux risques, et notamment les justificatifs prévus au 1.3.
+― tous éléments utiles relatifs aux risques, et notamment les justificatifs prévus au 1. 3.
 
-1.5. Déclaration d'accident ou de pollution accidentelle
+1. 5. Déclaration d'accident ou de pollution accidentelle
 
 L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement.
 
-1.6. Changement d'exploitant
+1. 6. Changement d'exploitant
 
 Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant en fait la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration mentionne, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
 
-1.7. Cessation d'activité
+1. 7. Cessation d'activité
 
 Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant notifie au préfet la date de cet arrêt trois mois au moins avant celui-ci. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées, permettant d'assurer, dès l'arrêt de l'exploitation, la mise en sécurité du site.
 
-1.8. Contrôles périodiques
+1. 8. Contrôles périodiques
 
 L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
 
 Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe IV, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
-L'exploitant a l'obligation de tenir à disposition, le jour de la visite, les documents nécessaires au contrôle périodique. L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant a l'obligation de tenir à disposition, le jour de la visite, les documents nécessaires au contrôle périodique.L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1. 4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
-1.9. Définition d'un silo
+1. 9. Définition d'un silo
 
 Au sens du présent arrêté, le terme silo désigne l'ensemble :
 
@@ -68,29 +66,39 @@ Au sens du présent arrêté, le terme silo désigne l'ensemble :
 
 On désigne par silo plat un silo dont les capacités de stockage ont une hauteur des parois latérales retenant les produits inférieure ou égale à 10 mètres au-dessus du sol.
 
-On désigne par silo vertical , un silo dont les capacités de stockage ont une hauteur des parois latérales retenant les produits supérieure à 10 mètres au-dessus du sol.
+On désigne par silo vertical, un silo dont les capacités de stockage ont une hauteur des parois latérales retenant les produits supérieure à 10 mètres au-dessus du sol.
 
 On désigne par boisseau de chargement ou boisseau de reprise la capacité de stockage située au-dessus d'un poste de chargement dont le volume est inférieur à 150 mètres cubes.
 
-2. Implantation - aménagement
+Par définition, une tente est constituée exclusivement de toiles souples (éventuellement des parois latérales semi-rigides métalliques), soutenue par une armature rigide légère.
 
-2.1. Règles d'implantation(s)
+Par définition, les structures gonflables sont des surfaces couvertes par des éléments souples formant parois et couvertures supportés par de l'air sous pression directement sous l'enveloppe ou par l'intermédiaire d'armatures gonflables.
 
-Pour les silos déclarés après le 27 janvier 1999, les cellules de stockage et la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1.9) sont maintenues, par rapport aux limites de propriété, à une distance au moins égale à une fois la hauteur du silo. Cette distance n'est pas inférieure à 10 mètres pour les silos plats et à 25 mètres pour les autres types de stockage et les tours d'élévation.
+La structure gonflable ou la tente ne couvre qu'un volume unique et ne contient aucune paroi rigide, à l'exception de dispositifs mobiles de retenue des grains dont la hauteur maximale ne doit pas dépasser trois mètres par rapport au sol.
 
-Pour les nouveaux silos, les cellules de stockage et la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1.9) sont implantées et maintenues, par rapport aux limites de propriété, à une distance au moins égale à une fois la hauteur du silo. Cette distance n'est pas inférieure à 10 mètres pour les silos plats et à 25 mètres pour les autres types de stockage et les tours d'élévation.
+2. Implantation-aménagement
 
-2.2*
+2. 1. Règles d'implantation (s)
 
-2.3*
+Pour les silos déclarés après le 27 janvier 1999, les cellules de stockage et la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1. 9) sont maintenues, par rapport aux limites de propriété, à une distance au moins égale à une fois la hauteur du silo. Cette distance n'est pas inférieure à 10 mètres pour les silos plats et à 25 mètres pour les autres types de stockage et les tours d'élévation.
 
-2.4. Comportement au feu des bâtiments
+Pour les nouveaux silos, les cellules de stockage et la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1. 9) sont implantées et maintenues, par rapport aux limites de propriété, à une distance au moins égale à une fois la hauteur du silo. Cette distance n'est pas inférieure à 10 mètres pour les silos plats et à 25 mètres pour les autres types de stockage et les tours d'élévation.
 
-2.4.1. Réaction au feu
+Les tentes et les structures gonflables sont implantées et maintenues, par rapport aux limites de propriété, à une distance au moins égale à une fois la hauteur de la structure. Cette distance n'est pas inférieure à 10 m.
+
+2. 2*
+
+2. 3*
+
+2. 4. Comportement au feu des bâtiments
+
+2. 4. 1. Réaction au feu
 
 Les structures porteuses abritant l'installation présentent la caractéristique de réaction au feu minimale suivante : matériaux de classe A1 selon la norme NF EN 13 501-1 (incombustible).
 
-2.4.2. Résistance au feu
+Pour les tentes et les structures gonflables, l'enveloppe est réalisée en matériaux de classe B s3 d0. Les hublots, s'ils existent, sont au minimum en matériaux de classe C s3 d0.
+
+2. 4. 2. Résistance au feu
 
 L'exploitant est en mesure de justifier que la conception des bâtiments permet d'éviter un effondrement en chaîne de la structure.
 
@@ -102,11 +110,15 @@ Pour les silos verticaux béton, les bâtiments abritant l'installation présent
 
 Les escaliers, monte-charges, ascenseurs situés dans la tour de manutention fermée sur quatre côtés sont encagés par des parois REI 60 (coupe-feu degré 1 heure).
 
-2.4.3. Toitures et couvertures de toiture
+2. 4. 3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture répondent à la classe Broof (t3).
+Les toitures et couvertures de toiture répondent à la classe Broof (t3). Cette disposition ne s'applique pas aux tentes et structures gonflables.
 
-2.4.4. Désenfumage
+Les toiles des tentes et des structures gonflables percent en moins de trois minutes dans la zone exposée à une densité de flux de chaleur de 20 kW / m ².L'essai de percement est réalisé à l'aide du dispositif d'essai décrit dans la norme NF ISO 21367, version août 2008 en position verticale, la toile étant tendue sur un cadre métallique à picots. Un test de vieillissement initial (UV, chaleur, humidité) du matériau démontre la bonne tenue dans le temps des toiles qui constituent la structure gonflable ou la tente, notamment le maintien de plus de 70 % de la résistance mécanique des toiles en traction après vieillissement. Ce test initial est réalisé selon la norme NF EN 15619, version novembre 2008. Les justificatifs sont tenus à la disposition de l'inspection des installations classées.
+
+Les tentes et les structures gonflables respectent les règles Neige et Vent suivantes : règles NV 65-version février 2009 et N 84-version février 2009, normes NF EN 1991-1-3-version avril 2004 et NF EN 1991-1-4-version novembre 2005 et leurs annexes.
+
+2. 4. 4. Désenfumage
 
 Les galeries supérieures des silos verticaux, les silos plats, les tours de manutention et les silos combles sont équipés en partie haute de dispositifs permettant l'évacuation naturelle des fumées, gaz de combustion, chaleur et produits imbrûlés dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les exutoires à commandes automatique et manuelle font partie de ces dispositifs.
 
@@ -124,27 +136,29 @@ Ces dispositifs installés après le 31 décembre 2006 présentent, en référen
 
 ― fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bi-fonction sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
-― la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m²) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m²) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+― la classification de la surcharge neige à l'ouverture est SL 250 (25 daN / m ²) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN / m ²) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
-― classe de température ambiante T 0 (0 °C) ;
+― classe de température ambiante T 0 (0° C) ;
 
-― classe d'exposition à la chaleur HE 300 (300 °C).
+― classe d'exposition à la chaleur B 300 (300° C).
 
 Des amenées d'air frais d'une surface libre égale à la surface géométrique de l'ensemble des dispositifs d'évacuation sont réalisées en partie inférieure des locaux.
 
-2.5. Accessibilité
+Les dispositions du présent point ne s'appliquent pas aux tentes et structures gonflables.
+
+2. 5. Accessibilité
 
 Le silo est conçu et aménagé de manière à faciliter l'intervention des services d'incendie et de secours. Il est desservi, sur au moins une face, par voie-engin ou par une voie-échelle si le plancher bas du niveau le plus haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
 
 Les éléments d'information (schémas d'évacuation, etc.) nécessaires à de telles interventions sont rédigés par l'exploitant et affichés en des endroits fréquentés par le personnel. De plus, ils sont matérialisés de manière apparente.
 
-2.6. Ventilation
+2. 6. Ventilation
 
 Sans préjudice des dispositions du code du travail et en phase normale de fonctionnement, tous les endroits susceptibles d'être le siège d'émanations gazeuses sont convenablement aérés pour éviter tout risque d'atmosphère explosible gazeuse ou toxique (type CO ou hexane). Lorsque l'on utilise un dispositif de ventilation, le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des habitations voisines.
 
-2.7*
+2. 7*
 
-2.8. Mise à la terre des équipements
+2. 8. Mise à la terre des équipements
 
 Les silos sont efficacement protégés contre les risques liés à la foudre.
 
@@ -154,7 +168,7 @@ Les prises de terre des équipements électriques, des masses métalliques et de
 
 Les vérifications périodiques de l'équipotentialité et du système de protection contre la foudre sont effectuées selon les normes en vigueur.
 
-2.9. Rétention des aires et locaux de travail
+2. 9. Rétention des aires et locaux de travail
 
 Le sol des aires et des locaux de stockage ou de manipulation des matières dangereuses pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol est étanche, A1 (incombustible) et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement ; pour cela un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Ces aires et locaux de stockage des produits dangereux pour l'homme susceptibles de créer une pollution de l'eau ou du sol sont indépendants du silo.
 
@@ -162,77 +176,77 @@ Leur accès sera réservé aux seules personnes nommément désignées par l'exp
 
 Les matières recueillies sont de préférence récupérées et recyclées ou, en cas d'impossibilité, traitées conformément au titre 7.
 
-2.10*
+2. 10*
 
-2.11*
+2. 11*
 
-2.12. Règles d'implantation des installations occupées par des tiers ou du personnel non strictement nécessaire au fonctionnement de l'installation
+2. 12. Règles d'implantation des installations occupées par des tiers ou du personnel non strictement nécessaire au fonctionnement de l'installation
 
-Les locaux administratifs ainsi que les habitations situées dans les limites de propriété sont éloignés des capacités de stockage (à l'exception des boisseaux de chargement ou des boisseaux de reprise ) et des tours de manutention. Cette distance est d'au moins 10 mètres pour les silos existants et au moins égale à la hauteur du silo pour les nouveaux silos.
+Les locaux administratifs ainsi que les habitations situées dans les limites de propriété sont éloignés des capacités de stockage (à l'exception des boisseaux de chargement ou des boisseaux de reprise) et des tours de manutention. Cette distance est d'au moins 10 mètres pour les silos existants et au moins égale à la hauteur du silo pour les nouveaux silos.
 
 On entend par local administratif un local où travaille du personnel ne participant pas à la conduite directe de l'installation (secrétaire, commerciaux, personnel administratif...).
 
 Les locaux utilisés spécifiquement par le personnel de conduite de l'installation (vestiaires, sanitaires, salles des commandes, poste de conduite, d'agréage et de pesage...) ne sont pas concernés par le respect des distances minimales fixées au premier alinéa du présent article.
 
-2.13*
+2. 13*
 
-3. Exploitation - entretien
+3. Exploitation-entretien
 
-3.1. Surveillance de l'exploitation
+3. 1. Surveillance de l'exploitation
 
 L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
 
-3.2. Contrôle de l'accès
+3. 2. Contrôle de l'accès
 
 Sans préjudice de réglementations spécifiques, toutes dispositions sont prises afin que les personnes non autorisées ou en dehors de toute surveillance ne puissent avoir accès aux installations (clôture, panneaux d'interdiction, etc.).
 
-3.3. Connaissance des produits - étiquetage
+3. 3. Connaissance des produits-étiquetage
 
 L'exploitant a à sa disposition des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
 Les fûts, réservoirs et autres emballages portent en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
 
-3.4. Etat des stocks de produits dangereux
+3. 4. Etat des stocks de produits dangereux
 
 L'exploitant tient à jour un état indiquant la nature et la quantité des produits dangereux détenus, auquel est annexé un plan général des stockages. Cet état est tenu à la disposition de l'inspection des installations classées et des services d'incendie et de secours.
 
-3.5. Propreté
+3. 5. Propreté
 
 Tous les silos ainsi que les bâtiments ou locaux occupés par du personnel sont débarrassés régulièrement des poussières recouvrant le sol, les parois, les structures porteuses, les chemins de câbles, les gaines, les canalisations, les appareils et les équipements.
 
-La quantité de poussières n'est pas supérieure à 50 g/m².
+La quantité de poussières n'est pas supérieure à 50 g / m ².
 
 La fréquence des nettoyages est fixée sous la responsabilité de l'exploitant et précisée dans les consignes organisationnelles. Les dates de nettoyage sont indiquées sur un registre tenu à la disposition de l'inspection des installations classées. Le nettoyage et les contrôles de la propreté sont renforcés dans les périodes de très forte activité et cela est précisé à travers des consignes écrites.
 
-Le nettoyage est, partout où cela est possible, réalisé à l'aide d'aspirateurs ou de centrales d'aspiration. L'appareil utilisé pour le nettoyage présente toutes les caractéristiques de sécurité nécessaires pour éviter l'incendie et l'explosion et est adapté aux produits et poussières. Le recours à d'autres dispositifs de nettoyage tels que l'utilisation de balais ou exceptionnellement d'air comprimé fait l'objet de consignes particulières.
+Le nettoyage est, partout où cela est possible, réalisé à l'aide d'aspirateurs ou de centrales d'aspiration.L'appareil utilisé pour le nettoyage présente toutes les caractéristiques de sécurité nécessaires pour éviter l'incendie et l'explosion et est adapté aux produits et poussières. Le recours à d'autres dispositifs de nettoyage tels que l'utilisation de balais ou exceptionnellement d'air comprimé fait l'objet de consignes particulières.
 
 Les locaux et les silos sont débarrassés de tout matériel ou produit qui n'est pas nécessaire au fonctionnement de l'établissement, notamment les palettes, les sacs et autres matières inflammables, les huiles et autres lubrifiants, etc.
 
 De plus, dans les silos combles et les silos plats, des écrans de cantonnement de poussières entre la tour et l'espace sur-cellules sont mis en place.
 
-3.6*
+3. 6*
 
-3.7. Consignes d'exploitation
+3. 7. Consignes d'exploitation
 
 Les opérations de conduite des installations (démarrage et arrêt, fonctionnement normal, entretien...) et celles comportant des manipulations dangereuses font l'objet de consignes d'exploitation écrites. Ces consignes prévoient notamment :
 
 ― les modes opératoires ;
 
-― la fréquence de vérification des dispositifs de conduite des installations, de sécurité et de limitation et/ou traitement des pollutions et nuisances générées ;
+― la fréquence de vérification des dispositifs de conduite des installations, de sécurité et de limitation et / ou traitement des pollutions et nuisances générées ;
 
 ― le programme de maintenance et les dates du nettoyage ;
 
-― un programme de surveillance des installations, avec une fréquence adaptée à l'âge et à l'état des structures, afin de prévenir les risques d'effondrement ou de rupture des capacités de stockage ;
+-un programme de surveillance des installations, avec une fréquence adaptée à l'âge et à l'état des structures, afin de prévenir les risques d'effondrement ou de rupture des capacités de stockage. Notamment, dans le cas des structures gonflables et des tentes, l'exploitant prend toute disposition pour s'assurer de la résistance de l'ancrage et de la fixation au sol. Les résultats de cette surveillance sont mis à la disposition de l'inspection des installations classées ;
 
 ― les conditions de conservation et de stockage des produits.
 
-Par ailleurs, les consignes de nettoyage prévues au 3.5 précisent notamment les volumes et les surfaces à nettoyer, le personnel qui a la charge de ce nettoyage, le matériel à utiliser et sa disponibilité, les modalités du contrôle et des vérifications de propreté qui sont au moins hebdomadaires pendant les périodes de manutention et de réception des produits.
+Par ailleurs, les consignes de nettoyage prévues au 3. 5 précisent notamment les volumes et les surfaces à nettoyer, le personnel qui a la charge de ce nettoyage, le matériel à utiliser et sa disponibilité, les modalités du contrôle et des vérifications de propreté qui sont au moins hebdomadaires pendant les périodes de manutention et de réception des produits.
 
-L'ensemble du personnel, y compris intérimaire ou saisonnier, est formé à l'application de ces consignes d'exploitation et des consignes de sécurité définies au 4.7.
+L'ensemble du personnel, y compris intérimaire ou saisonnier, est formé à l'application de ces consignes d'exploitation et des consignes de sécurité définies au 4. 7.
 
 4. Risques
 
-4.1. Localisation des risques
+4. 1. Localisation des risques
 
 L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre (incendie, explosion) pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
@@ -240,13 +254,13 @@ L'exploitant détermine pour chacune de ces parties de l'installation la nature 
 
 L'exploitant dispose d'un plan général des installations indiquant ces différentes zones.
 
-4.2*
+4. 2*
 
-4.3. Moyens de secours contre l'incendie
+4. 3. Moyens de secours contre l'incendie
 
 L'installation est équipée de moyens de lutte contre l'incendie adaptés aux risques encourus, en nombre suffisant et correctement répartis sur la superficie à protéger, et appropriés aux risques, notamment :
 
-― d'un ou de plusieurs appareils d'incendie (bouches, poteaux en nombre défini en fonction des sinistres potentiels, d'un débit minimum de 60 m³/h chacun pendant 2 heures) publics ou privés dont un implanté à 200 mètres au plus du risque, ou de points d'eau, bassins, citernes d'une capacité en rapport avec le sinistre potentiel à combattre, au minimum de 120 m³ ; la combinaison de ces moyens est possible sous réserve de pouvoir disposer d'une ressource globale de 60 m³/h pendant 2 heures exploitable par les engins de pompe ;
+― d'un ou de plusieurs appareils d'incendie (bouches, poteaux en nombre défini en fonction des sinistres potentiels, d'un débit minimum de 60 m ³ / h chacun pendant 2 heures) publics ou privés dont un implanté à 200 mètres au plus du risque, ou de points d'eau, bassins, citernes d'une capacité en rapport avec le sinistre potentiel à combattre, au minimum de 120 m ³ ; la combinaison de ces moyens est possible sous réserve de pouvoir disposer d'une ressource globale de 60 m ³ / h pendant 2 heures exploitable par les engins de pompe ;
 
 ― et d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
 
@@ -266,13 +280,13 @@ Les colonnes sèches sont en matériaux incombustibles. Elles sont prévues dans
 
 Les dispositifs de lutte contre l'incendie sont correctement entretenus et maintenus en bon état de marche. Ils font l'objet de vérifications périodiques au moins annuelles.
 
-4.4. Prévention des incendies et explosions
+4. 4. Prévention des incendies et explosions
 
-Dans les parties de l'installation visées au point 4.1 et susceptibles d'être à l'origine d'une explosion, les équipements et appareils électriques, mécaniques, hydrauliques et pneumatiques, et a minima les moteurs présents dans les installations :
+Dans les parties de l'installation visées au point 4. 1 et susceptibles d'être à l'origine d'une explosion, les équipements et appareils électriques, mécaniques, hydrauliques et pneumatiques, et a minima les moteurs présents dans les installations :
 
 ― appartiennent aux catégories 1D, 2D ou 3D telles que définies dans le décret n° 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphères explosibles ;
 
-― ou disposent d'une étanchéité correspondant à un indice de protection IP 5X minimum (enveloppes protégées contre les poussières dans le cas de poussières isolantes, norme NF 60-529) et possèdent une température de surface au plus égale au minimum : des 2/3 de la température d'inflammation en nuage, et de la température d'inflammation en couche de 5 mm diminuée de 75 °C.
+― ou disposent d'une étanchéité correspondant à un indice de protection IP 5X minimum (enveloppes protégées contre les poussières dans le cas de poussières isolantes, norme NF 60-529) et possèdent une température de surface au plus égale au minimum : des 2 / 3 de la température d'inflammation en nuage, et de la température d'inflammation en couche de 5 mm diminuée de 75° C.
 
 Dans tout l'établissement, les installations électriques, y compris les canalisations, sont conformes aux prescriptions de l'article 422 de la norme NF C 15-100 relative aux locaux à risque d'incendie. Les canalisations électriques ne sont pas une cause possible d'inflammation et sont convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -286,9 +300,9 @@ Ce rapport comporte :
 
 L'ensemble des non-conformités est levé sous un an.
 
-4.5. Interdiction des feux
+4. 5. Interdiction des feux
 
-Dans les parties de l'installation visées au point 4.1 pouvant être à l'origine d'incendies ou d'explosions, il est interdit d'apporter du feu sous une forme quelconque ou d'utiliser des matériels susceptibles de générer des points chauds ou des surfaces chaudes, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu .
+Dans les parties de l'installation visées au point 4. 1 pouvant être à l'origine d'incendies ou d'explosions, il est interdit d'apporter du feu sous une forme quelconque ou d'utiliser des matériels susceptibles de générer des points chauds ou des surfaces chaudes, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu.
 
 Il est interdit de fumer dans les installations ainsi que dans les aires de chargement, de déchargement, de stockage ou de manutention.
 
@@ -296,23 +310,21 @@ Cette interdiction est affichée en caractères apparents.
 
 En ce qui concerne les engins munis de moteurs à combustion interne, des dispositions (pare-étincelles, mesures organisationnelles) sont prises pour qu'ils présentent des caractéristiques de sécurité suffisantes pour éviter l'incendie et I'explosion.
 
-4.6. Permis d'intervention - permis de feu
+4. 6. Permis d'intervention-permis de feu dans les parties visées au point 4. 1
 
-dans les parties visées au point 4.1
-
-Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un permis d'intervention et éventuellement d'un permis de feu et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4. 1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un permis d'intervention et éventuellement d'un permis de feu et en respectant les règles d'une consigne particulière.
 
 Le permis d'intervention et éventuellement le permis de feu et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le permis d'intervention et éventuellement le permis de feu et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations est effectuée par l'exploitant ou son représentant. Elle fait l'objet d'un enregistrement et est tenue à la disposition de l'inspection des installations classées.
 
-4.7. Consignes de sécurité
+4. 7. Consignes de sécurité
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et affichées dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-― l'interdiction d'apporter du feu sous une forme quelconque dans les parties de l'installation visées au point 4.1 incendie et explosions ;
+― l'interdiction d'apporter du feu sous une forme quelconque dans les parties de l'installation visées au point 4. 1 incendie et explosions ;
 
-― l'obligation du permis d'intervention ou du permis de feu pour les parties de l'installation visées au point 4.1 ;
+― l'obligation du permis d'intervention ou du permis de feu pour les parties de l'installation visées au point 4. 1 ;
 
 ― les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
@@ -326,9 +338,7 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 ― l'obligation de réaliser une ronde hebdomadaire durant les périodes de réception et de manutention des produits, afin notamment de contrôler la température des produits stockés et la propreté.
 
-4.8. Conception pour prévenir l'incendie et l'explosion
-
-et pour limiter les effets de l'explosion
+4. 8. Conception pour prévenir l'incendie et l'explosion et pour limiter les effets de l'explosion
 
 Les silos sont conçus et aménagés de manière à limiter la propagation d'un éventuel sinistre (incendie ou explosion) ou les risques d'effondrement qui en découlent.
 
@@ -338,7 +348,7 @@ Le silo est conçu de manière à réduire le nombre des zones favorisant les ac
 
 Les aires de chargement et de déchargement des produits sont situées en dehors des capacités de stockage (à l'exception des boisseaux de chargement ou des boisseaux de reprise), à l'exception des silos plats dans lesquels l'ensilage ou l'évacuation des produits nécessite l'usage ou la présence de véhicules dans les silos.
 
-Dans les parties de l'installation visées au point 4.1 et susceptibles d'être à l'origine d'une explosion, les mesures de protection contre l'explosion présentent les caractéristiques suivantes et sont dimensionnées selon les normes en vigueur :
+Dans les parties de l'installation visées au point 4. 1 et susceptibles d'être à l'origine d'une explosion, les mesures de protection contre l'explosion présentent les caractéristiques suivantes et sont dimensionnées selon les normes en vigueur :
 
 ― arrêt de la propagation de l'explosion par des dispositifs de découplage pression ;
 
@@ -356,67 +366,67 @@ Les galeries inférieures sont également pourvues d'évents de décharge ou de 
 
 En particulier, pour les silos verticaux possédant une tour de manutention, un découplage pression entre la tour et les autres volumes susceptibles de contenir des poussières (espaces sur-cellules et sous-cellules, zone de stockage avec cellules ouvertes) est mis en place.
 
-4.9. Aires de chargement et de déchargement
+4. 9. Aires de chargement et de déchargement
 
 Les aires de chargement et de déchargement sont :
 
-― soit suffisamment ventilées de manière à éviter une concentration de poussières de 50 g/m³ (cette solution ne peut être adoptée que si elle ne crée pas de gêne pour le voisinage et de nuisance pour les milieux sensibles) ;
+― soit suffisamment ventilées de manière à éviter une concentration de poussières de 50 g / m ³ (cette solution ne peut être adoptée que si elle ne crée pas de gêne pour le voisinage et de nuisance pour les milieux sensibles) ;
 
-― soit munies de systèmes de captage de poussières, de dépoussiérage et de filtration dans les conditions prévues au point 6.2.
+― soit munies de systèmes de captage de poussières, de dépoussiérage et de filtration dans les conditions prévues au point 6. 2.
 
-Ces aires sont nettoyées comme prévu à l'article 3.5.
+Ces aires sont nettoyées comme prévu à l'article 3. 5.
 
-4.10. Système de dépoussiérage
+4. 10. Système de dépoussiérage
 
 Toutes dispositions sont prises pour limiter les émissions de poussières des systèmes d'aspiration, éviter une explosion ou un incendie dans une installation de dépoussiérage et limiter leur propagation et leurs conséquences lorsqu'ils se produisent. Il s'agit de l'une ou plusieurs des mesures suivantes : fractionnement des réseaux, dispositifs de découplage de l'explosion, dispositifs d'isolation de l'explosion, arrosage à l'eau.
 
 Pour les silos disposant d'installations d'aspiration :
 
-― ces installations sont asservies au fonctionnement des équipements de manutention conformément au point 4.16 ;
+― ces installations sont asservies au fonctionnement des équipements de manutention conformément au point 4. 16 ;
 
 ― les centrales d'aspiration (cyclones, filtres) des systèmes de dépoussiérage de type centralisé sont protégées par des dispositifs contre les effets de l'explosion interne ; les filtres sont sous caissons qui sont protégés par des évents (sauf impossibilité technique) débouchant sur l'extérieur ;
 
 ― les canalisations amenant l'air poussiéreux dans les installations de dépoussiérage sont dimensionnées et conçues de manière à ne pas créer de dépôts de poussières ;
 
-― le stockage des poussières récupérées respecte les prescriptions de l'article 7.7 ;
+― le stockage des poussières récupérées respecte les prescriptions de l'article 7. 7 ;
 
 ― en cas d'emploi de filtres ponctuels, l'exploitant s'assure auprès du constructeur que ces systèmes sont utilisables dans des zones où peuvent apparaître des explosions.
 
 Dans les silos existants :
 
-― ne disposant d'aucune surface soufflable/évent de décharge conformes à l'article 4.8 sur une tour de manutention en béton ;
+― ne disposant d'aucune surface soufflable / évent de décharge conformes à l'article 4. 8 sur une tour de manutention en béton ;
 
-― et ne respectant pas une distance, entre les cellules de stockage, la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1.9) et les limites de propriété, au moins égale à une fois la hauteur du silo, avec un minimum de 10 mètres pour les silos plats et 25 mètres pour les autres types de stockage et les tours d'élévation,
+― et ne respectant pas une distance, entre les cellules de stockage, la tour de manutention du ou des silos (à l'exception des boisseaux visés au point 1. 9) et les limites de propriété, au moins égale à une fois la hauteur du silo, avec un minimum de 10 mètres pour les silos plats et 25 mètres pour les autres types de stockage et les tours d'élévation,
 
 un système de dépoussiérage est mis en place a minima sur les équipements de manutention et les équipements associés.
 
-4.11. Charges électrostatiques
+4. 11. Charges électrostatiques
 
 Les matériaux constituant les appareils en contact avec les produits sont conducteurs afin d'éviter toute accumulation de charges électrostatiques.
 
 Les bandes de transporteur, sangles d'élévateur, canalisations pneumatiques, courroies ont des conductivités suffisantes de manière à limiter l'accumulation de charges électrostatiques et sont conformes aux normes en vigueur.
 
-4.12. Relais
+4. 12. Relais
 
 L'implantation d'antennes émettrices, de relais ou d'antennes de réception collectives sur les installations est assujettie à la réalisation d'une étude technique justifiant que les équipements mis en place ne peuvent pas entraîner un incendie ou un risque d'explosion de poussières. Dans ce cas, les installations sur lesquelles est implanté l'antenne ou le relais font également l'objet d'une étude indiquant les caractéristiques du système de protection contre les chocs de foudre à mettre en place. Le système de protection contre les chocs de foudre est installé à l'implantation de l'antenne. Il est conforme à la norme NF EN 62305-3.
 
-4.13. Elimination des corps étrangers
+4. 13. Elimination des corps étrangers
 
 Des grilles sont mises en place sur les fosses de réception. La maille est calculée de manière à retenir au mieux les corps étrangers.
 
 S'il est procédé à d'autres opérations que celles purement liées à l'ensilage des produits, ces derniers sont préalablement débarrassés des corps étrangers risquant de provoquer des étincelles lors de chocs ou de frottements. Cette disposition est applicable à tous les silos procédant à un transport pneumatique interne des produits.
 
-4.14. Emission de poussières
+4. 14. Emission de poussières
 
 Les appareils à l'intérieur desquels il est procédé à des manipulations de produits sont conçus de manière à limiter les émissions de poussières dans les locaux ou bâtiments où sont effectuées ces opérations.
 
 Les sources émettrices de poussières (jetées d'élévateur ou de transporteur) sont capotées. Elles sont étanches ou munies de dispositifs d'aspiration et de canalisation de transport de l'air poussiéreux.
 
-Cet air est dépoussiéré dans les conditions prévues au point 6.2 et au moyen de systèmes de dépoussiérage. Ce système d'aspiration est proportionné au système de manutention et est adapté en cas de modification des capacités de ce dernier.
+Cet air est dépoussiéré dans les conditions prévues au point 6. 2 et au moyen de systèmes de dépoussiérage. Ce système d'aspiration est proportionné au système de manutention et est adapté en cas de modification des capacités de ce dernier.
 
 L'exploitant veille à éviter les courants d'air au-dessus de ce type d'installation.
 
-4.15. Surveillance et conditions de stockage
+4. 15. Surveillance et conditions de stockage
 
 L'exploitant s'assure que les conditions de stockage des produits (durée de stockage, taux d'humidité, température, etc.) n'entraînent pas de fermentations risquant de provoquer des dégagements de gaz inflammables ou une auto-inflammation.
 
@@ -426,9 +436,9 @@ Les produits sont contrôlés en humidité avant stockage de façon à ce qu'ils
 
 Les relevés de température et d'humidité font l'objet d'un enregistrement.
 
-4.16. Fonctionnement des installations de transfert des grains
+4. 16. Fonctionnement des installations de transfert des grains
 
-Les équipements/matériels mécaniques sont protégés contre la pénétration des poussières, ils sont convenablement lubrifiés.
+Les équipements / matériels mécaniques sont protégés contre la pénétration des poussières, ils sont convenablement lubrifiés.
 
 Les installations de dépoussiérage, élévateurs, transporteurs ou moteurs sont asservis à des dispositifs permettant la détection immédiate d'un incident de fonctionnement et sont reliés à une alarme sonore ou visuelle.
 
@@ -436,37 +446,37 @@ Le fonctionnement des équipements de manutention est asservi au fonctionnement 
 
 Les transporteurs à chaîne sont équipés de détecteurs de bourrage, les élévateurs sont équipés de détecteurs de déport de sangles et les transporteurs à bandes sont munis de capteurs de déport de bandes. De plus, les transporteurs à bandes et les élévateurs sont munis de contrôleurs de rotation. Ces capteurs arrêtent l'installation après une éventuelle temporisation limitée à quelques secondes.
 
-Les bandes de transporteur respectent la norme NF EN 20340 (ISO 340) ou la norme NF EN 47107 (bandes difficilement propagatrices de la flamme) pour les silos déclarés après le 27 janvier 1999 et en cas de remplacement pour toutes les installations existantes.
+Les bandes de transporteurs respectent la norme NF EN ISO 340, version avril 2005 ou les normes NF EN 12881-1, version juillet 2008 et NF EN 12881-2, version juin 2008 (bandes difficilement propagatrices de la flamme). Cette disposition n'est applicable aux installations existantes qu'en cas de remplacement d'une bande de transporteurs.
 
-Si le transport des produits est effectué par voie pneumatique, la taille des conduites est calculée de manière à assurer une vitesse supérieure à 15 m/s pour éviter les dépôts ou bourrages.
+Si le transport des produits est effectué par voie pneumatique, la taille des conduites est calculée de manière à assurer une vitesse supérieure à 15 m / s pour éviter les dépôts ou bourrages.
 
 Les gaines d'élévateur sont munies de regards ou de trappes de visite. Ces derniers ne peuvent être ouverts que par du personnel qualifié.
 
 5. Eau
 
-5.1*
+5. 1*
 
-5.2*
+5. 2*
 
-5.3*
+5. 3*
 
-5.4*
+5. 4*
 
-5.5*
+5. 5*
 
-5.6*
+5. 6*
 
-5.7*
+5. 7*
 
-5.8. Epandage
+5. 8. Epandage
 
 L'épandage des déchets et des effluents est interdit.
 
-5.9*
+5. 9*
 
-6. Air - odeurs
+6. Air-odeurs
 
-6.1. Captage et épuration des rejets à l'atmosphère
+6. 1. Captage et épuration des rejets à l'atmosphère
 
 Les installations susceptibles de dégager des fumées, gaz, poussières ou odeurs sont munies de dispositifs permettant de collecter et canaliser autant que possible les émissions. Ces dispositifs, après épuration des gaz collectés en tant que de besoin, sont munis d'orifices obturables et accessibles (conformes aux dispositions de la norme NF X44-052 pour les rejets canalisés) aux fins de prélèvements en vue d'analyse ou de mesure.
 
@@ -480,17 +490,17 @@ Les installations comportant des phases de travail provoquant de fortes émissio
 
 Si la circulation d'engins ou de véhicules dans l'enceinte de l'installation entraîne de fortes émissions de poussières, l'exploitant prend les dispositions utiles pour limiter la formation de poussières.
 
-6.2. Valeurs limites et conditions de rejet(s)
+6. 2. Valeurs limites et conditions de rejet (s)
 
-Les effluents gazeux respectent les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273 K) et de pression (101,3 kPa) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6.3.
+Les effluents gazeux respectent les valeurs limites définies ci-après, exprimées dans les conditions normalisées de température (273 K) et de pression (101, 3 kPa) après déduction de la vapeur d'eau (gaz sec) et mesurées selon les méthodes définies au point 6. 3.
 
 Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux n'ayant pas subi de dilution autre que celle éventuellement nécessitée par les procédés utilisés.
 
 a) Poussières :
 
-Si le flux massique est inférieur à 0,5 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 150 mg/Nm³ de poussières.
+Si le flux massique est inférieur à 0, 5 kg / h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 150 mg / Nm ³ de poussières.
 
-Si le flux massique est supérieur à 0,5 kg/h les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm³ de poussières.
+Si le flux massique est supérieur à 0, 5 kg / h les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg / Nm ³ de poussières.
 
 Les systèmes de dépoussiérage sont aménagés et disposés de manière à permettre les mesures de contrôle des émissions de poussières dans de bonnes conditions. Leur bon état de fonctionnement est périodiquement vérifié.
 
@@ -510,7 +520,7 @@ HAUTEUR D'ÉMISSION
 
 DÉBIT D'ODEUR
 
-(en m³/h)
+(en m ³ / h)
 
 |
 
@@ -518,7 +528,7 @@ DÉBIT D'ODEUR
 
 |
 
-1 000 × 10³
+1 000 × 10 ³
 
 |
 
@@ -526,7 +536,7 @@ DÉBIT D'ODEUR
 
 |
 
-3 600 × 10³
+3 600 × 10 ³
 
 |
 
@@ -534,7 +544,7 @@ DÉBIT D'ODEUR
 
 |
 
-21 000 × 10³
+21 000 × 10 ³
 
 |
 
@@ -542,7 +552,7 @@ DÉBIT D'ODEUR
 
 |
 
-180 000 × 10³
+180 000 × 10 ³
 
 |
 
@@ -550,7 +560,7 @@ DÉBIT D'ODEUR
 
 |
 
-720 000 × 10³
+720 000 × 10 ³
 
 |
 
@@ -558,7 +568,7 @@ DÉBIT D'ODEUR
 
 |
 
-3 600 × 106
+3 600 × 10 6
 
 |
 
@@ -566,7 +576,7 @@ DÉBIT D'ODEUR
 
 |
 
-18 000 × 106
+18 000 × 10 6
 
 |
 
@@ -574,15 +584,15 @@ DÉBIT D'ODEUR
 
 |
 
-36 000 × 106
+36 000 × 10 6
 
 |
 
-Le niveau d'odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m³/h, par le facteur de dilution au seuil de perception.
+Le niveau d'odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m ³ / h, par le facteur de dilution au seuil de perception.
 
-6.3. Surveillance par l'exploitant de la pollution rejetée
+6. 3. Surveillance par l'exploitant de la pollution rejetée
 
-Les mesures des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés au point 6.2 (poussières et odeurs), soit de paramètres représentatifs de ces derniers sont effectuées par un organisme agréé par le ministre chargé de l'environnement.
+Les mesures des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés au point 6. 2 (poussières et odeurs), soit de paramètres représentatifs de ces derniers sont effectuées par un organisme agréé par le ministre chargé de l'environnement.
 
 Une mesure du débit rejeté et de la concentration des poussières est effectuée, selon les méthodes normalisées en vigueur, dans un délai maximal de trois ans après la publication du présent arrêté pour les installations existantes et dans les six mois suivant la mise en service pour les installations nouvelles. Toutes les mesures sont effectuées dans des conditions représentatives du fonctionnement de l'installation.
 
@@ -592,15 +602,15 @@ A défaut de méthode spécifique normalisée et lorsque les composés sont sous
 
 En cas de réalisation de mesures du débit d'odeur, ces mesures sont faites selon les méthodes normalisées en vigueur.
 
-6.4. Ventilation des cellules
+6. 4. Ventilation des cellules
 
-Si les silos sont aérés ou ventilés, à l'exception des silos équipés de systèmes de ventilation-vidange en phase de vidange, la vitesse du courant d'air à la surface du produit est inférieure à 3,5 cm/s de manière à limiter les entraînements de poussières.
+Si les silos sont aérés ou ventilés, à l'exception des silos équipés de systèmes de ventilation-vidange en phase de vidange, la vitesse du courant d'air à la surface du produit est inférieure à 3, 5 cm / s de manière à limiter les entraînements de poussières.
 
-Le rejet à l'atmosphère de l'air utilisé pour l'aération ou la ventilation des cellules ne peut se faire que sous réserve du respect des caractéristiques maximales de concentration en poussière énoncées au point 6.2. Dans le cas contraire, l'air est dépoussiéré et les rejets se font dans les conditions prévues au point 6.2.
+Le rejet à l'atmosphère de l'air utilisé pour l'aération ou la ventilation des cellules ne peut se faire que sous réserve du respect des caractéristiques maximales de concentration en poussière énoncées au point 6. 2. Dans le cas contraire, l'air est dépoussiéré et les rejets se font dans les conditions prévues au point 6. 2.
 
 7. Déchets
 
-7.1. Récupération - recyclage - élimination
+7. 1. Récupération-recyclage-élimination
 
 L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
 
@@ -608,31 +618,31 @@ Toutes dispositions sont prises pour limiter les quantités de déchets produits
 
 Les déchets qui ne peuvent être valorisés sont éliminés dans les installations réglementées à cet effet au titre du code de l'environnement, dans les conditions permettant d'assurer la protection de l'environnement.
 
-7.2. Contrôles des circuits
+7. 2. Contrôles des circuits
 
 L'exploitant est tenu aux obligations de registre, de déclaration d'élimination de déchets et de bordereau de suivi dans les conditions fixées par la réglementation.
 
-7.3. Stockage des déchets
+7. 3. Stockage des déchets
 
 Les déchets produits par l'installation sont stockés dans des conditions prévenant les risques de pollution (prévention des envols, des ruissellements, des infiltrations dans le sol, des odeurs...).
 
 La quantité de déchets stockés sur le site ne dépasse pas la capacité mensuelle produite ou, en cas de traitement externe, un lot normal d'expédition vers l'installation d'élimination.
 
-7.4. Déchets non dangereux
+7. 4. Déchets non dangereux
 
 Les déchets non dangereux (bois, papier, verre, textile, plastique, caoutchouc, etc.) et non souillés par des produits toxiques ou polluants sont récupérés, valorisés ou éliminés dans des installations autorisées.
 
 Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes (articles R. 543-66 à R. 543-72 du code de l'environnement).
 
-7.5. Déchets dangereux
+7. 5. Déchets dangereux
 
-Les déchets dangereux sont éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement. Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour. L'exploitant émet un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination. Les documents justificatifs sont conservés trois ans.
+Les déchets dangereux sont éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement. Un registre des déchets dangereux produits (nature, tonnage, filière d'élimination, etc.) est tenu à jour.L'exploitant émet un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination. Les documents justificatifs sont conservés trois ans.
 
-7.6. Brûlage
+7. 6. Brûlage
 
 Le brûlage des déchets à l'air libre est interdit.
 
-7.7. Stockage des poussières
+7. 7. Stockage des poussières
 
 Les poussières ainsi que les produits résultant du traitement de ces dernières sont stockés en attente d'élimination ou d'utilisation :
 
@@ -640,7 +650,7 @@ Les poussières ainsi que les produits résultant du traitement de ces dernière
 
 ― soit dans des cellules ou boisseaux ― découplés et éventés ― intégrées au silo mais n'ayant aucune connexion avec les cellules contenant les produits (pas de continuité des stockages ou des organes de transport) ;
 
-― soit conditionnés en sacs fermés, stockés en masse à l'extérieur des installations comme prévu au point 3.5 ;
+― soit conditionnés en sacs fermés, stockés en masse à l'extérieur des installations comme prévu au point 3. 5 ;
 
 ― soit dans des bennes convenablement bâchées ou capotées de façon à éviter la formation d'un nuage de poussières.
 
@@ -648,7 +658,7 @@ Pour les nouveaux silos, les stockages de poussières sont réalisés à l'exté
 
 8. Bruit et vibrations
 
-8.1. Valeurs limites de bruit
+8. 1. Valeurs limites de bruit
 
 Au sens du présent arrêté, on appelle :
 
@@ -718,21 +728,21 @@ Supérieur à 45 dB (A)
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne devra pas dépasser, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période concernée est supérieur à cette limite.
 
-Dans le cas où le bruit particulier de l'établissement est à tonalité marquée au sens du point 1.9 de l'annexe de l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement, de manière établie ou cyclique, sa durée d'apparition n'excède pas 30 % de la durée de fonctionnement de l'établissement dans chacune des périodes diurne ou nocturne définies dans le tableau ci-dessus.
+Dans le cas où le bruit particulier de l'établissement est à tonalité marquée au sens du point 1. 9 de l'annexe de l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement, de manière établie ou cyclique, sa durée d'apparition n'excède pas 30 % de la durée de fonctionnement de l'établissement dans chacune des périodes diurne ou nocturne définies dans le tableau ci-dessus.
 
 Lorsque plusieurs installations classées, soumises à déclaration au titre de rubriques différentes, sont situées au sein d'un même établissement, le niveau de bruit global émis par ces installations devra respecter les valeurs limites ci-dessus.
 
-8.2. Véhicules - engins de chantier
+8. 2. Véhicules-engins de chantier
 
 Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation sont conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores. En particulier, les engins de chantier sont conformes à un type homologué.
 
 L'usage de tous appareils de communication par voie acoustique (sirènes, avertisseurs, haut-parleurs), gênants pour le voisinage, est interdit, sauf si son emploi est exceptionnel et réservé à la prévention et au signalement d'incidents graves ou d'accidents.
 
-8.3. Vibrations
+8. 3. Vibrations
 
 Les règles techniques applicables sont fixées à l'annexe II.
 
-8.4. Surveillance par l'exploitant des émissions sonores
+8. 4. Surveillance par l'exploitant des émissions sonores
 
 L'exploitant met en place une surveillance des émissions sonores de l'installation permettant d'estimer la valeur de l'émergence générée dans les zones à émergence réglementée. Les mesures sont effectuées selon la méthode définie en annexe de l'arrêté du 23 janvier 1997.
 
@@ -742,7 +752,7 @@ Une mesure initiale du niveau de bruit et de l'émergence est effectuée, par un
 
 9. Remise en état en fin d'exploitation
 
-Outre les dispositions prévues au point 1.7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger et inconvénient. En particulier :
+Outre les dispositions prévues au point 1. 7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger et inconvénient. En particulier :
 
 ― tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
