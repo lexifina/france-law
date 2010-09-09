@@ -704,13 +704,15 @@ Espace de manœuvre et accès au poste de conduite.
 
 80/720/CEE
 
+2010/22/CE (10)
+
 |
 
 X
 
 |
 
--
+X
 
 |
 
@@ -760,9 +762,7 @@ Dispositifs de protection en cas de renversement montés à l'arrière (tracteur
 
 86/298/CEE
 
-|
-
--
+2010/22/CE (10)
 
 |
 
@@ -770,7 +770,11 @@ X
 
 |
 
--
+X
+
+|
+
+X
 
 |
 
@@ -787,6 +791,8 @@ Installation, emplacement, fonctionnement et identification des commandes (5).
 |
 
 86/415/CEE
+
+2010/22/CE (10)
 
 Annexe I et annexe II points 1, 2.1 et 2.2
 
@@ -818,7 +824,11 @@ Installation, emplacement, fonctionnement et identification des commandes.
 
 86/415/CEE
 
-Annexe I et annexe II points 1, 2.3 et 2.4
+2010/22/CE (10)
+
+Annexe I et annexe II
+
+points 1, 2.3 à 2.5
 
 |
 
@@ -848,9 +858,7 @@ Dispositifs de protection en cas de renversement montés à l'avant (tracteurs �
 
 87/402/CEE
 
-|
-
--
+2010/22/CE (10)
 
 |
 
@@ -858,7 +866,11 @@ X
 
 |
 
--
+X
+
+|
+
+X
 
 |
 
@@ -875,6 +887,8 @@ Dimensions et masse remorquable (5).
 |
 
 89/173/CEE
+
+2009/144/CE (9)
 
 Annexe I
 
@@ -906,6 +920,8 @@ Vitres (2) (3).
 
 89/173/CEE
 
+2009/144/CE (9)
+
 Annexe III
 
 |
@@ -935,6 +951,8 @@ Régulateur de vitesse (5).
 |
 
 89/173/CEE
+
+2009/144/CE (9)
 
 Annexe II,1
 
@@ -966,6 +984,8 @@ Protection des éléments moteurs.
 
 89/173/CEE
 
+2009/144/CE (9)
+
 Annexe II,2
 
 |
@@ -995,6 +1015,8 @@ Liaisons mécaniques.
 |
 
 89/173/CEE
+
+2009/144/CE (9)
 
 Annexe IV
 
@@ -1026,6 +1048,8 @@ Plaque réglementaire.
 
 89/173/CEE
 
+2009/144/CE (9)
+
 Annexe V
 
 |
@@ -1056,6 +1080,8 @@ Liaison de freinage avec les remorques.
 
 89/173/CEE
 
+2009/144/CE (9)
+
 Annexe VI
 
 |
@@ -1085,6 +1111,8 @@ T
 |
 
 2000/25/CE
+
+2010/22/CE (11)
 
 |
 
@@ -1172,7 +1200,13 @@ X
 
 (7) Applicable à compter du 1er mai 2008 aux nouveaux types de véhicules.
 
-(8) Pour les réceptions CE par type antérieures au 1er janvier 2010, les références faites à la directive mentionnée dans la précédente version de l'arrêté du 22 novembre 2005 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
+(8) Pour les réceptions CE par type antérieures au 1er janvier 2010, les références faites à la directive mentionnée dans l'arrêté du 22 novembre 2005 tel que modifié par l'arrêté du 13 mai 2008 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
+
+(9) Pour les réceptions CE par type antérieur au 1er juin 2010, les références faites à la directive mentionnée dans l'arrêté du 22 novembre 2005 tel que modifié par l'arrêté du 30 décembre 2009 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
+
+(10) Applicable à compter du 1er mai 2011 aux nouveaux types de véhicules.
+
+(11) Applicable à compter du 30 avril 2010 aux nouveaux types de véhicules.
 
 x = applicable en l'état suivant dernier amendement.
 
