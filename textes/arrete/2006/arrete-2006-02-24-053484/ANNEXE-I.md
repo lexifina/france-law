@@ -36,19 +36,19 @@ Article 3 : Préparation de la solution
 
 A partir de 40 grammes de râpure, il convient d'obtenir 200 centimètres cubes de solution de jus de betterave dans l'eau.
 
-Pour tenir compte, conventionnellement, du volume de jus contenu dans les 40 grammes de râpure et pour le compléter à 200 centimètres cubes, il est ajouté un volume de 165 centimètres cubes d'une solution de 25 centimètres cubes de sous-acétate de plomb de masse volumique 1,33 dilué à 1 décimètre cube avec de l'eau déminéralisée.
+Pour tenir compte, conventionnellement, du volume de jus contenu dans les 40 grammes de râpure et pour le compléter à 200 centimètres cubes, il est ajouté un volume de 165 centimètres cubes d'une solution titrant 4,6 grammes de sulfate d'aluminium octodécahydraté (Al2(SO4)3.18 H2O - n° CAS 7784-31-8) dissous dans 1 000 centimètres cubes d'eau déminéralisée.
 
-Dans le récipient dans lequel s'effectuera la digestion à la température ambiante et contenant les 40 grammes de râpure, une pipette à fonctionnement automatique, de modèle approuvé en application du décret du 3 mai 2001 susvisé, délivre, à 0,2 centimètre cube près, un volume de 165 centimètres cubes de la solution de sous-acétate de plomb défini ci-dessus.
+Dans le récipient dans lequel s'effectuera la digestion à la température ambiante et contenant les 40 grammes de râpure, une pipette à fonctionnement automatique, de modèle approuvé en application du décret du 3 mai 2001 susvisé, délivre, à 0,2 centimètre cube près, un volume de 165 centimètres cubes de la solution de sulfate d'aluminium définie ci-dessus.
 
-Le volume délivré par la pipette doit être périodiquement contrôlé sur la balance visée à l'article 2 par pesée d'eau déminéralisée, ou par contrôle volumétrique conformément à l'annexe II.
+Le volume délivré par la pipette doit être périodiquement contrôlé sur la balance visée à l'article 2 par pesée d'eau déminéralisée ou par contrôle volumétrique conformément à l'annexe II.
 
 La pipette à fonctionnement automatique peut être intégrée à une balance proportionneuse permettant de déterminer automatiquement le volume à associer à la masse de râpure à digérer.
 
 Article 4 : Digestion
 
-L'addition à la râpure du mélange d'eau et de sous-acétate de plomb (ou d'une solution équivalente dont le protocole de préparation devra faire l'objet d'une validation par la direction générale de la concurrence, de la consommation et de la répression des fraudes) à une température de 17 à 23 °C est réalisée. Le récipient contenant ce mélange est protégé et agité de façon à réaliser une homogénéisation convenable du contenu. Le temps de digestion ne peut être inférieur à cinq minutes. Les dispositions nécessaires doivent être prises pour présenter les récipients au poste de filtration dans l'ordre de préparation des râpures. Après agitation, le récipient sera vidé, par retournement, dans le filtre ; les filtrats seront présentés dans le même ordre au poste de saccharimétrie.
+L'addition à la râpure du mélange d'eau et de sulfate d'aluminium à une température de 17 à 23 °C est réalisée. Le récipient contenant ce mélange est protégé et agité de façon à réaliser une homogénéisation convenable du contenu. Le temps de digestion ne peut être inférieur à cinq minutes. Les dispositions nécessaires doivent être prises pour présenter les récipients au poste de filtration dans l'ordre de préparation des râpures. Après agitation, le récipient sera vidé, par retournement, dans le filtre ; les filtrats seront présentés dans le même ordre au poste de saccharimétrie.
 
-Le filtrat doit être limpide ou éventuellement rendu limpide par addition de la quantité juste nécessaire d'acide acétique et représenter la presque totalité de la phase liquide du contenu du récipient.
+Le filtrat doit être limpide et représenter la plus grande partie possible de la phase liquide du contenu du récipient, avec un minimum de 50 millilitres. Afin d'obtenir la limpidité du filtrat, permettant une lecture saccharimétrique correcte, un dispositif approprié temporisé permet d'écarter les premiers millilitres en début de filtration.
 
 Article 5 : Lecture saccharimétrique
 
