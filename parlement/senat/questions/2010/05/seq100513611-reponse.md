@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513611
+
+- Question : [SEQ100513611](seq100513611.md) — Projet d'arrêté relatif au stockage des engrais à base de nitrate d'ammonium
+
+## Réponse
+
+*Écologie, JO du 2010-09-09, page 2358*
+
+Le stockage des engrais à base de nitrate d'ammonium est régi par un arrêté signé le 13 avril 2010 relatif aux substances dangereuses directement visées par la directive Seveso concernant la maîtrise des dangers liés aux accidents majeurs impliquant ces substances. Cet arrêté réglemente, outre les engrais solides à base de nitrate d'ammonium, les produits soumis à autorisation au titre de la rubrique 1332. Ces produits correspondent à ceux qui ont provoqué l'explosion de l'usine AZF à Toulouse, le 21 septembre 2001. Le texte cité apporte de nouvelles dispositions qu'il convenait de prendre à la suite de cet accident. En effet, le texte précédent réglementant les engrais ne concernait pas les produits impliqués dans l'explosion de l'usine AZF et, de plus, ne s'appliquait qu'aux installations exploitées après 1994, qui ne représentaient qu'une très faible partie des installations nationales. Les investissements liés à la mise en sécurité des installations ne sont pas de nature à remettre en cause l'industrie française des engrais, étant donné qu'ils ne concernent que la petite minorité de sites qui ne les avaient pas spontanément effectués. Les installations concernées, bénéficient de délais pouvant aller jusqu'à trente mois. S'agissant de la concertation entre les professionnels français concernés et les services du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (MEEDDM), celle-ci a été importante avec notamment plus de 30 réunions organisées lors de l'élaboration de cet arrêté.
