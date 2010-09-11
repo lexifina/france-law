@@ -56,6 +56,12 @@ Cormorans.
 
 |
 
+Threskiornis aethiopicus.
+
+|
+
+Ibis sacré. |
+
 Ansériformes.
 
 |
@@ -67,6 +73,24 @@ Anatidés spp. (*) (**) (***).
 Dendrocygnes, cygnes, oies, canards.
 
 |
+
+Alopochen aegyptiacus.
+
+|
+
+Ouette d'Egypte. |
+
+Branta canadensis.
+
+|
+
+Bernache du Canada. |
+
+Oxyura jamaicensis.
+
+|
+
+Erismature rousse. |
 
 Galliformes
 
@@ -256,11 +280,11 @@ Tortue radiée de Madagascar.
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
--l'autorisation et le marquage ne s'appliquent pas aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- l'autorisation et le marquage ne s'appliquent, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
--l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
+- l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
 
--en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
+- en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
 
 (***) Pour les espèces suivantes, l'autorisation n'est délivrée qu'au profit d'un établissement d'élevage ou de présentation au public d'animaux d'espèces non domestiques autorisé conformément aux articles L. 413-2 et L. 413-3 du code de l'environnement à détenir des animaux de l'espèce considérée :
 
@@ -687,3 +711,7 @@ Touit purpurea.
 Toui à queue pourprée.
 
 |
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 30 juillet 2010, le 1° de l'article 2 dudit arrêté entre en vigueur à compter du 10 décembre 2010.

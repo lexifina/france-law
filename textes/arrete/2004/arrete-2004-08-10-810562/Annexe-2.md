@@ -24,7 +24,7 @@ avec obligation de marquage ou non, qu'au sein d'un établissement d'élevage ou
 
 1. Toutes les espèces reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.
 
-2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée.
+2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée, et de Boa constrictor.
 
 3. Toutes les espèces considérées comme dangereuses dont la liste est établie en annexe 3 au présent arrêté, à l'exception des espèces inscrites en annexe 1 au présent arrêté et de Cebus spp., Dama dama, Sus scrofa et Boa constrictor.
 
@@ -480,6 +480,10 @@ Chauves-souris de Nouvelle-Zélande.
 
 |
 
+Carnivores.
+
+|
+
 Molossidés spp.
 
 |
@@ -488,17 +492,23 @@ Molosses.
 
 |
 
-Carnivores.
+Nyctereutes procyonoides.
 
 |
 
-Procyonidés spp.
+Chien viverrin.
 
 |
 
-Ratons laveur, kinkajou, bassaricyon, coatis.
+Neovison vison.
 
 |
+
+Vison d'Amérique. |
+
+Procyonidés spp. |
+
+Ratons laveur, kinkajou, bassaricyon, coatis. |
 
 Viverridés spp.
 
@@ -628,35 +638,11 @@ Castor de montagne.
 
 |
 
-Callosciurus spp.
+Sciuridés spp., à l'exception de Tamias sibiricus.
 
 |
 
-Ecureuils tricolores.
-
-|
-
-Cynomys spp.
-
-|
-
-Chiens de prairies.
-
-|
-
-Marmota spp.
-
-|
-
-Marmottes.
-
-|
-
-Ratufa spp.
-
-|
-
-Ecureuils géants d'Asie.
+Ecureuils, marmottes et chiens de prairie, à l'exception du Tamias de Sibérie.
 
 |
 
@@ -827,6 +813,18 @@ Melomys spp.
 Rats des bananes.
 
 |
+
+Myocastor coypus.
+
+|
+
+Ragondin. |
+
+Ondatra zibethicus.
+
+|
+
+Rat musqué. |
 
 Paraleptomys spp.
 
@@ -1079,6 +1077,12 @@ Romerolagus spp.
 Lapin des volcans.
 
 |
+
+Sylvilagus floridanus.
+
+|
+
+Lapin américain. |
 
 Macroscélidés.
 
@@ -3274,12 +3278,16 @@ Grenouilles à nez pointu.
 
 |
 
-(*) Toutefois l'obligation d'autorisation et de marquage ne s'applique pas :
+(*) Toutefois l'obligation d'autorisation et de marquage :
 
--aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- ne s'applique, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
--en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+- ne s'applique pas, en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 
 (**) (Supprimé)
 
 (***) La détention de ces espèces au sein des élevages d'agrément est soumise à autorisation.
+
+NOTA :
+
+Conformément à l'article 8 de l'arrêté du 30 juillet 2010, le 2° de l'article 3 dudit arrêté entre en vigueur à compter du 10 décembre 2010.

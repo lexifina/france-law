@@ -98,6 +98,12 @@ Cormorans.
 
 |
 
+Threskiornis aethiopicus.
+
+|
+
+Ibis sacré. |
+
 Ansériformes.
 
 |
@@ -107,6 +113,30 @@ Anatidés spp. (*) (**) (***).
 |
 
 Dendrocygnes, cygnes, oies, canards.
+
+|
+
+Alopochen aegyptiacus.
+
+|
+
+Ouette d'Egypte.
+
+|
+
+Branta canadensis.
+
+|
+
+Bernache du Canada.
+
+|
+
+Oxyura jamaicensis.
+
+|
+
+Erismature rousse.
 
 |
 
@@ -298,7 +328,7 @@ Tortue radiée de Madagascar.
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
-- en ce qui concerne les animaux autres que ceux prélevés dans la nature, l'autorisation et le marquage ne s'appliquent qu'à ceux appartenant à des espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement prévoient des interdictions d'activités applicables à ce type d'animaux ;
+- L'autorisation et le marquage ne s'appliquent, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection.
 
 - l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
 
@@ -729,3 +759,7 @@ Touit purpurea.
 Toui à queue pourprée.
 
 |
+
+NOTA :
+
+Arrêté du 30 juillet 2010 art 8 : les dispositions insérées par le 1° de l'article 5 du présent arrêté entrent en vigueur le 10 décembre 2010.

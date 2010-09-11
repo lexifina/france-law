@@ -42,7 +42,7 @@ Mammifères
 
 |
 
-Lagomorphes, rongeurs et insectivores
+Lagomorphes, rongeurs, à l'exception de Tamias sibiricus, et insectivores
 
 |
 
@@ -118,7 +118,7 @@ Gruiformes, ciconiiformes
 
 |
 
-Passerereaux granivores : plocéidés, embérizidés, fringilidés à l'exception de Serinus canaria, estrildidés à l'exception de Poephila (syn Taeniopygia) guttata castanotis et Chloebia gouldiae
+Passerereaux granivores : plocéidés, passéridés, embérizidés, fringilidés à l'exception de Serinus canaria, estrildidés à l'exception de Poephila (syn Taeniopygia) guttata castanotis et Chloebia gouldiae
 
 |
 
@@ -208,7 +208,7 @@ Astrochelys radiata et espèces du genre Testudo reprises à l'annexe A du règl
 
 |
 
-6
+6 (**)
 
 |
 
@@ -286,4 +286,10 @@ Pas d'effectifs maximaux
 
 -en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 
+(**) Pour les espèces du genre Testudo, l'effectif cumulé maximum peut être doublé sous réserve que les spécimens aient été acquis avant l'entrée en vigueur du présent arrêté.
+
 |
+
+NOTA :
+
+Arrêté du 30 juillet 2010 art 8 : les dispositions insérées par le 1° de l'article 7 du présent arrêté entrent en vigueur le 10 décembre 2010.

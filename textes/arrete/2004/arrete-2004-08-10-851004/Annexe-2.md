@@ -24,11 +24,11 @@ sauf dérogation accordée pour certaines à titre transitoire, qu'au sein d'un 
 
 |
 
-1. Toutes les espèces reprise à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.
+1. Toutes les espèces reprise à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865 / 2006 susvisé, ou dont la chasse est autorisée.
 
 |
 
-2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée.
+2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée, et de Boa constrictor.
 
 |
 
@@ -500,6 +500,18 @@ Molosses.
 
 |
 
+Nyctereutes procyonoides
+
+|
+
+Chien viverrin |
+
+Neovison vison
+
+|
+
+Vison d'Amérique |
+
 Procyonidés spp.
 
 |
@@ -636,37 +648,9 @@ Castor de montagne.
 
 |
 
-Callosciurus spp.
+Sciuridés spp. à l'exception de Tamias de Sibiricus |
 
-|
-
-Ecureuils tricolores.
-
-|
-
-Cynomys spp.
-
-|
-
-Chiens de prairies.
-
-|
-
-Marmota spp.
-
-|
-
-Marmottes.
-
-|
-
-Ratufa spp.
-
-|
-
-Ecureuils géants d'Asie.
-
-|
+Ecureuils, marmottes et chiens de prairie, à l'exception du Tamias de Sibérie |
 
 Castoridés spp.
 
@@ -835,6 +819,18 @@ Melomys spp.
 Rats des bananes.
 
 |
+
+Myocastor covpus
+
+|
+
+Ragondin |
+
+Ondatra zibethicus
+
+|
+
+Rat musqué |
 
 Paraleptomys spp.
 
@@ -1087,6 +1083,12 @@ Romerolagus spp.
 Lapin des volcans.
 
 |
+
+Sylvilagus floridanus
+
+|
+
+Lapin américain |
 
 Macroscélidés.
 
@@ -3282,8 +3284,12 @@ Grenouilles à nez pointu.
 
 |
 
-(*) Toutefois, l'obligation d'autorisation et de marquage ne s'applique pas :
+(*) Toutefois l'obligation d'autorisation et de marquage :
 
-- aux animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités applicables à ce type d'animaux ;
+- ne s'applique, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
-- en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+- ne s'applique pas, en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+
+NOTA :
+
+Arrêté du 30 juillet 2010 art 8 : les dispositions insérées par le 2° de l'article 6 du présent arrêté entrent en vigueur le 10 décembre 2010.
