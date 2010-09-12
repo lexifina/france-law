@@ -6,9 +6,7 @@ SERVICES ET DIRECTIONS
 
 |
 
-FONCTIONS
-
-|
+FONCTIONS |
 
 NOMBRE
 
@@ -50,11 +48,9 @@ Chef du bureau de l'administration des personnels et des rémunérations
 
 |
 
-Direction de la Documentation française.
+Direction de l'information légale et administrative |
 
-|
-
-Secrétaire général des centres interministériels de renseignement administratif
+Directeur du centre interministériel de renseignements administratifs de Metz
 
 |
 

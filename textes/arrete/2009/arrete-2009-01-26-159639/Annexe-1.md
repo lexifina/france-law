@@ -90,7 +90,7 @@ Chef du bureau de l'administration des personnels et des rémunérations
 
 |
 
-Chef du bureau des moyens généraux
+Chef de la mission de gestion des emplois déconcentrés.
 
 |
 
@@ -122,9 +122,7 @@ Chef du bureau de l'administration générale
 
 |
 
-Direction de la Documentation française.
-
-|
+Direction de l'information légale et administrative |
 
 Responsable de la mission du contrôle de gestion
 
@@ -196,7 +194,7 @@ Adjoint au responsable du département des périodiques, des collections et du c
 
 |
 
-Secrétaire général des centres interministériels de renseignements administratifs
+Directeur du centre interministériel de renseignements administratifs de Metz
 
 |
 
