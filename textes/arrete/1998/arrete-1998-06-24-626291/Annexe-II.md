@@ -630,6 +630,16 @@ Elastoléfine |
 
 |
 
+47
+
+|
+
+Mélamine |
+
+7, 00
+
+|
+
 (1) Le taux conventionnel de 17 % est appliqué dans les cas où il n'est pas possible de s'assurer si le produit textile
 
 contenant de la laine, des poils, appartient au cycle peigné ou cardé.
