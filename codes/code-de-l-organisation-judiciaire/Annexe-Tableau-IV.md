@@ -2712,7 +2712,7 @@ Isère
 
 |
 
-[Bourgoin-Jallieu (5)]
+[Bourgoin-Jallieu (19)]
 
 |
 
@@ -2760,9 +2760,9 @@ Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-
 
 |
 
-Vienne (*)
+[Vienne (19)]
 
-(*) Siège provisoire dans l'attente de la nouvelle localisation du TGI
+[Villefontaine (20)]
 
 |
 
@@ -2774,11 +2774,23 @@ Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle
 
 |
 
-[Bourgoin-Jallieu (6)]
+[Bourgoin-Jallieu]
 
 |
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu.
+
+|
+
+[Vienne
+
+|
+
+Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André,
+
+La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon,
+
+Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud.
 
 |
 
@@ -6084,7 +6096,7 @@ Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
 Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
-canton, Montauban 3ème canton, Montauban 4ème canton,
+canton, Montauban 3ème canton, Montauban 4e canton,
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-
 
@@ -6521,3 +6533,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (17) Applicable jusqu'au 5 septembre 2010.
 
 (18) Applicable à compter du 6 septembre 2010.
+
+(19) Applicable jusqu'au 30 juin 2014.
+
+(20) Applicable à compter du 1er juillet 2014.
