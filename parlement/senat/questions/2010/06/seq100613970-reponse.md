@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613970
+
+- Question : [SEQ100613970](seq100613970.md) — Apprentissage des gestes de premiers secours pour toute la population
+
+## Réponse
+
+*Santé, JO du 2010-09-16, page 2432*
+
+La mise en oeuvre de la sensibilisation de la population générale à l'utilisation d'un défibrillateur cardiaque est prévue à l'article 3 de l'arrêté du 6 novembre 2009 relatif à l'initiation des personnes non médecins à l'utilisation des défibrillateurs automatisés externes. Cette mesure a pour objectif de favoriser l'initiation du plus grand nombre possible de personnes à la réalisation des premiers gestes de survie en cas d'arrêt cardiaque : appeler, masser, défibriller. La connaissance de ces trois gestes est susceptible en effet d'améliorer le taux de survie des personnes victimes d'un arrêt cardiaque, à l'instar d'autres pays qui ont largement développé cette sensibilisation du public. En effet, cette initiation a pour but de réduire les craintes que peut susciter l'utilisation d'un défibrillateur en permettant son maniement. Sa durée courte a fait l'objet d'un consensus avec les services de la sécurité civile et les différents représentants des spécialistes de l'urgence. Cette sensibilisation a également pour objectif d'inciter les citoyens à devenir acteurs de sécurité civile par le suivi de la formation « prévention et secours civiques de niveau 1 », validée par un certificat de compétences délivré par les organismes agréés pour les formations de sécurité civile. Ce module d'une durée de dix heures inclut la prise en charge de l'arrêt cardiaque avec l'utilisation d'un défibrillateur. La direction de la sécurité civile a élaboré un référentiel national qui définit le contenu de ce certificat et permet une harmonisation de cet enseignement sur l'ensemble du territoire.
