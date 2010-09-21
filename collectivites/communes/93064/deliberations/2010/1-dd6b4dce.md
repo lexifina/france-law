@@ -1,0 +1,8 @@
+# Mairie de Rosny-sous-Bois : délibération 1 — DESIGNATION D'UN NOUVEAU REPRESENTANT DE LA COMMUNE AU SEIN DES INSTANCES DE LA SEM ETHICA
+
+- Collectivité : Mairie de Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2010-09-21
+- Objet : DESIGNATION D'UN NOUVEAU REPRESENTANT DE LA COMMUNE AU SEIN DES INSTANCES DE LA SEM ETHICA
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
