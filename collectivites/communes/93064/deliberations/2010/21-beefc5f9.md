@@ -1,0 +1,8 @@
+# Mairie de Rosny-sous-Bois : délibération 21 — AVENANT N°6 AU MARCHE DE TRAVAUX DE MISE EN SECURITE DU COMPLEXE SPORTIF ET CULTUREL JEAN VILAR LOT 1
+
+- Collectivité : Mairie de Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2010-09-21
+- Objet : AVENANT N°6 AU MARCHE DE TRAVAUX DE MISE EN SECURITE DU COMPLEXE SPORTIF ET CULTUREL JEAN VILAR LOT 1
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
