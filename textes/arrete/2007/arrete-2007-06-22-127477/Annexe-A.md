@@ -300,15 +300,25 @@ Direction centrale du service des essences des armées
 
 |
 
-Directeur de l'établissement administratif et technique du service des essences des armées
+Directeur de l'exploitation et de la logistique pétrolières interarmées
 
 |
 
-Sans limitation
+Sans limitation (10)
+
+MAPA × 100 (11)
 
 |
 
-Directeurs régionaux interarmées du service des essences des armées
+Adjoint interarmées de soutien pétrolier
+
+|
+
+Sans limitation (12)
+
+|
+
+Directeur régional interarmées du service des essences des armées en région Atlantique
 
 |
 
@@ -329,14 +339,6 @@ Directeur du laboratoire du service des essences des armées
 |
 
 MAPA × 20
-
-|
-
-Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)
-
-|
-
-MAPA × 7
 
 |
 
@@ -817,5 +819,11 @@ Sans limitation (5) (6) (7)
 (9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction.
 
 Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.
+
+(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce "approvisionnement des armées en produits pétroliers".
+
+(11) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.
+
+(12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.
 
 |
