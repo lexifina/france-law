@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091010492
+
+- Question : [SEQ091010492](seq091010492.md) — Versement des indemnités de chômage à un maire
+
+## Réponse
+
+*Économie, JO du 2010-09-23, page 2497*
+
+Un dispositif de cumul entre l'allocation de chômage et le revenu d'une activité professionnelle (salariée ou non) a été mis en place par les partenaires sociaux gestionnaires du régime d'assurance chômage (art. 41 à 45 du règlement général annexé à la convention du 18 janvier 2006 relative à l'aide au retour à l'emploi et à l'indemnisation du chômage), afin d'inciter à la reprise d'emploi. Ce dispositif a été maintenu par la convention du 19 février 2009 relative à l'indemnisation du chômage (art. 28 à 32 du règlement général annexé à la convention susmentionnée). Le salarié privé d'emploi qui exerce une activité occasionnelle ou réduite, reprise ou conservée, peut ainsi cumuler l'allocation d'aide au retour à l'emploi avec son revenu d'activité, à condition que cette activité n'excède pas 110 heures par mois et que les revenus qu'elle procure ne soient pas supérieurs à 70 % des rémunérations brutes qu'il percevait antérieurement. La durée du cumul ne peut excéder quinze mois pour les bénéficiaires âgés de moins de cinquante ans à la date de fin de leur contrat de travail. Cependant, les mandats électifs exécutés auprès des collectivités territoriales ne constituent pas une activité professionnelle. Ils ne font donc pas obstacle au versement des prestations, dès lors que leurs titulaires remplissent les conditions d'attribution des allocations, et spécialement celle relative à l'accomplissement d'actes positifs et répétés de recherche d'emploi. Ainsi, les élus locaux bénéficient de l'intégralité de leur indemnisation au titre de l'assurance chômage sans qu'il soit tenu compte des sommes qu'ils peuvent recevoir à l'occasion de l'exercice de leur mandat.
