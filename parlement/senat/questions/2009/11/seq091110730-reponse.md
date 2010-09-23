@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091110730
+
+- Question : [SEQ091110730](seq091110730.md) — Cumul du prêt à taux zéro et des subventions de l'ANAH
+
+## Réponse
+
+*Logement, JO du 2010-09-23, page 2510*
+
+Les articles R. 317-7 et R. 318-9 du code de la construction et de l'habitation (CCH) posent la règle du non-cumul des aides de l'Agence nationale de l'habitat (Anah) avec un prêt à taux zéro, sauf si les travaux envisagés concernent l'accessibilité ou l'adaptation aux besoins d'une personne handicapée, à condition toutefois que le handicap soit intervenu postérieurement à l'entrée dans les lieux. Historiquement, ce principe était fondé sur la nature distincte des aides publiques. En effet, le prêt à taux zéro concernait initialement l'aide à l'accession à la propriété de constructions neuves qui, par nature, ne nécessitaient pas de subventions à l'amélioration de l'habitat telles que celles versées par l'Anah. Lorsque le prêt à taux zéro a été rendu possible pour l'accession à la propriété de logements anciens, son assiette a été étendue aux travaux d'amélioration nécessaires lors de l'acquisition. Il n'a, dès lors, pas été jugé souhaitable de remettre en cause la règle initiale de non-cumul, dans un souci d'optimisation des aides publiques. L'article R. 321-17 du CCH précise le délai pendant lequel le cumul entre les aides de l'État pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété (notamment le PTZ) et les subventions de l'Anah est prohibé. Ce délai a été récemment réduit, le décret n° 2009-1090 du 4 septembre 2009 ayant ramené de dix ans à cinq ans la période au-delà de laquelle un bénéficiaire de prêt à taux zéro peut à nouveau bénéficier d'une subvention de l'Anah. Ainsi, le financement des travaux d'amélioration effectués dans un logement acquis depuis cinq ans avec un prêt à taux zéro est désormais possible.
