@@ -12,7 +12,7 @@ b) Des substances favorisant la polymérisation.
 
 Aux fins de la présente annexe, les substances visées aux points a et b sont ci-après dénommées additifs.
 
-Aux fins de la présente annexe, on entend par additifs polymériques tout polymère et / ou prépolymère et / ou oligomère susceptibles d'être ajoutés à des matières plastiques pour obtenir un effet technique, mais qui ne peuvent pas être utilisés en l'absence d'autres polymères comme principal composant structurel des matériaux et objets finis. Ils incluent également les substances qui peuvent être ajoutées au milieu de polymérisation.
+Aux fins de la présente annexe, on entend par additifs polymériques tout polymère et/ou prépolymère et/ou oligomère susceptibles d'être ajoutés à des matières plastiques pour obtenir un effet technique, mais qui ne peuvent pas être utilisés en l'absence d'autres polymères comme principal composant structurel des matériaux et objets finis. Ils incluent également les substances qui peuvent être ajoutées au milieu de polymérisation.
 
 La liste ne comprend pas :
 
@@ -44,7 +44,7 @@ a) Les substances qui pourraient être contenues dans le produit fini, telles qu
 
 b) Les mélanges de substances autorisées.
 
-Les matériaux et objets qui contiennent les substances indiquées aux points a et b doivent satisfaire aux exigences de l'article 3 du règlement (CE) n° 1935 / 2004 susvisé.
+Les matériaux et objets qui contiennent les substances indiquées aux points a et b doivent satisfaire aux exigences de l'article 3 du règlement (CE) n° 1935/2004 susvisé.
 
 4. Les substances doivent être de bonne qualité technique en ce qui concerne les critères de pureté.
 
@@ -102,7 +102,7 @@ DÉNOMINATION
 
 |
 
-RESTRICTIONS ET / OU SPÉCIFICATIONS
+RESTRICTIONS ET/OU SPÉCIFICATIONS
 
 (4)
 
@@ -148,7 +148,7 @@ Acétate de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -219,6 +219,22 @@ Acide acétylacétique, sels.
 Mono-et diglycérides d'acides gras, acétylés.
 
 |
+
+|
+
+30607
+
+|
+
+-
+
+|
+
+Sel de lithium d'acides monocarboxyliques aliphatiques linéaires (C2-C24) provenant d'huiles et de graisses naturelles
+
+|
+
+LMS (T) = 0,6 mg/kg (exprimée en lithium) (8)
 
 |
 
@@ -294,7 +310,7 @@ Acrylate de 2, 4-di-tert-pentyl-6-[1-(3, 5-di-tert-pentyl-2-hydroxyphényl) éth
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -310,7 +326,7 @@ Acrylate de méthyle, télomère avec le 1-dodécanethiol, esters d'alkyles en C
 
 |
 
-QM = 0, 5 % (p / p) dans le PF.
+QM = 0,5 % (p/p) dans le PF.
 
 |
 
@@ -325,6 +341,22 @@ QM = 0, 5 % (p / p) dans le PF.
 Acide adipique.
 
 |
+
+|
+
+33105
+
+|
+
+0146340-15-0
+
+|
+
+β-(2-hydroxyéthoxy) alcools secondaires en C12-C14, éthoxylés
+
+|
+
+LMS = 5 mg/kg (44)
 
 |
 
@@ -354,6 +386,24 @@ Acide alginique.
 
 |
 
+33535
+
+|
+
+0152261-33-1
+
+|
+
+α-alcènes (C20-C24) copolymérisés avec l'anhydride maléique, produit réactif avec la 4-amino-2, 2, 6, 6-tétraméthylpipéridine
+
+|
+
+A ne pas employer pour des objets en contact avec des aliments gras pour lesquels le simulant D doit être utilisé.
+
+A ne pas employer en contact avec des aliments alcooliques.
+
+|
+
 33801
 
 |
@@ -364,7 +414,7 @@ Acide n-alkyl (C10-C13) benzènesulfonique.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -460,9 +510,9 @@ Amines de bis (alkyl de suif hydrogéné), oxydisées.
 
 QM = à employer uniquement :
 
-a) Dans la polyoléfine à 0, 1 % (p / p) mais pas dans le PEBD au contact de denrées alimentaires pour lesquelles la directive 85 / 572 / CEE fixe un coefficient de réduction inférieur à 3 ;
+a) Dans la polyoléfine à 0,1 % (p/p) mais pas dans le PEBD au contact de denrées alimentaires pour lesquelles la directive 85/572/CEE fixe un coefficient de réduction inférieur à 3 ;
 
-b) Dans le PET à 0, 25 % (p / p) au contact de denrées alimentaires autres que celles pour lesquelles la directive 85 / 572 / CEE fixe le simulant D.
+b) Dans le PET à 0,25 % (p/p) au contact de denrées alimentaires autres que celles pour lesquelles la directive 85/572/CEE fixe le simulant D.
 
 |
 
@@ -478,7 +528,9 @@ b) Dans le PET à 0, 25 % (p / p) au contact de denrées alimentaires autres que
 
 |
 
-LMS = 0, 05 mg / kg.A employer uniquement pour le PET destiné à l'eau et aux boissons.
+LMS = 0,05 mg/kg.
+
+A employer uniquement pour le PET destiné à l'eau et aux boissons.
 
 |
 
@@ -508,7 +560,7 @@ Diester de l'acide 3-aminocrotonique avec l'éther thiobis (2-hydroxyéthylique)
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -524,7 +576,9 @@ LMS = 5 mg / kg.
 
 |
 
-LMS = 0, 05 mg / kg.A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85 / 572 / CEE fixe le simulant D et seulement pour contact alimentaire indirect, derrière une couche de PET.
+LMS = 0,05 mg/kg.
+
+A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85/572/CEE fixe le simulant D et seulement pour contact alimentaire indirect, derrière une couche de PET.
 
 |
 
@@ -540,7 +594,9 @@ N-(2-aminoéthyl) éthanolamine.
 
 |
 
-LMS = 0, 05 mg / kg.A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85 / 572 / CEE fixe le simulant D et seulement pour contact alimentaire indirect, derrière une couche de PET.
+LMS = 0,05 mg/kg.
+
+A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85/572/CEE fixe le simulant D et seulement pour contact alimentaire indirect, derrière une couche de PET.
 
 |
 
@@ -684,7 +740,7 @@ Tétraborate de baryum.
 
 |
 
-LMT (S) = 1 mg / kg exprimé en baryum (12) et LMT (S) = 6 mg / kg (23) (exprimé en bore) sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
+LMT (S) = 1 mg/kg exprimé en baryum (12) et LMT (S) = 6 mg/kg (23) (exprimé en bore) sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
 
 |
 
@@ -846,7 +902,7 @@ et la 2, 4, 6-trichloro-l, 3, 5-triazine.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -862,7 +918,23 @@ LMS = 5 mg / kg.
 
 |
 
-LMS = 0, 05 mg / kg (1).
+LMS = 0,05 mg/kg (1).
+
+|
+
+38550
+
+|
+
+0882073-43-0
+
+|
+
+Bis (4-propylbenzylidène) propylsorbitol
+
+|
+
+LMS = 5 mg/kg (y compris la somme de ses produits d'hydrolyse)
 
 |
 
@@ -878,7 +950,7 @@ Diphosphite de bis (2, 6-di-tert-butyl-4-méthylphényl) pentaérythritol.
 
 |
 
-LMS = 5 mg / kg (somme des phosphites et phosphates).
+LMS = 5 mg/kg (somme des phosphites et phosphates).
 
 |
 
@@ -894,7 +966,7 @@ Diphosphite de bis (2, 4-dicumylphényl) pentaérythritol.
 
 |
 
-LMS = 5 mg / kg (somme du composé, de sa forme oxydée [phosphate de bis (2, 4-dicumylphényl) pentaérythritol] et de son produit d'hydrolyse [2, 4-dicumylphénol]).
+LMS = 5 mg/kg (somme du composé, de sa forme oxydée [phosphate de bis (2, 4-dicumylphényl) pentaérythritol] et de son produit d'hydrolyse [2, 4-dicumylphénol]).
 
 |
 
@@ -902,13 +974,15 @@ LMS = 5 mg / kg (somme du composé, de sa forme oxydée [phosphate de bis (2, 4-
 
 |
 
-002162-74-5 |
+002162-74-5
+
+|
 
 Bis (2, 6-diisopropylphényl) carbodiimide.
 
 |
 
-LMS = 0, 05 mg / kg. A utiliser derrière une couche de PET.
+LMS = 0,05 mg/kg. A utiliser derrière une couche de PET.
 
 |
 
@@ -938,7 +1012,7 @@ Bis (3, 4-diméthylbenzylidène) sorbitol.
 
 |
 
-LMS = 0, 05 mg / kg. Seulement pour les aliments aqueux.
+LMS = 0,05 mg/kg. Seulement pour les aliments aqueux.
 
 |
 
@@ -970,7 +1044,7 @@ Chlorure de bis (2-hydroxyéthyl)-2-hydroxypropyl
 
 |
 
-LMS = 1, 8 mg / kg.
+LMS = 1, 8 mg/kg.
 
 |
 
@@ -986,7 +1060,7 @@ LMS = 1, 8 mg / kg.
 
 |
 
-LMS (T) = 0, 6 mg / kg (28).
+LMS (T) = 0,6 mg/kg (28).
 
 |
 
@@ -1002,7 +1076,7 @@ LMS (T) = 0, 6 mg / kg (28).
 
 |
 
-LMS = 0, 05 mg / kg
+LMS = 0,05 mg/kg.
 
 |
 
@@ -1038,7 +1112,7 @@ Bis (méthylbenzylidène) sorbitol.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -1056,7 +1130,23 @@ de bis (polyéthylèneglycol).
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
+
+|
+
+40155
+
+|
+
+0124172-53-8
+
+|
+
+N, N'-bis (2, 2, 6, 6-tétraméthyl-4-pipéridyl)-N-N'-diformylhexaméthylènediamine
+
+|
+
+LMS = 0,05 mg/kg (1) (44).
 
 |
 
@@ -1072,7 +1162,7 @@ Acide borique.
 
 |
 
-LMS (T) = 6 mg / kg (23) (exprimé en bore), sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
+LMS (T) = 6 mg/kg (23) (exprimé en bore), sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
 
 |
 
@@ -1116,7 +1206,7 @@ Butane.
 
 |
 
-LMS (T) = 5 mg / kg (24).
+LMS (T) = 5 mg/kg (24).
 
 |
 
@@ -1242,7 +1332,7 @@ Caprolactame.
 
 |
 
-LMS (T) = 15 mg / kg (5).
+LMS (T) = 15 mg/kg (5).
 
 |
 
@@ -1316,7 +1406,7 @@ Carbonate de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -1502,7 +1592,7 @@ Esters des acides gras de l'huile de coco avec les chlorures de choline.
 
 |
 
-QMS = 0, 9 mg / 6 dm ².
+QMS = 0,9 mg/6 dm ².
 
 |
 
@@ -1546,7 +1636,7 @@ Bromure de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -1562,7 +1652,7 @@ Iodure de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre) et LMS = 1 mg / kg (11) (exprimé en iode).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre) et LMS = 1 mg/kg (11) (exprimé en iode).
 
 |
 
@@ -1590,7 +1680,7 @@ Copolymère de p-crésol, de dicyclopentadiène et d'isobutylène.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -1620,7 +1710,7 @@ Acide crotonique.
 
 |
 
-QMS (T) = 0, 05 mg / 6 dm ² (33).
+QMS (T) = 0,05 mg/6 dm ² (33).
 
 |
 
@@ -1636,19 +1726,23 @@ QMS (T) = 0, 05 mg / 6 dm ² (33).
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
-45703 |
+45703
 
-491589-22-1 |
+|
+
+491589-22-1
+
+|
 
 Acide cis-1, 2-cyclohexanedicarboxylique, sel de calcium.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -1720,7 +1814,7 @@ Acide n-décanoïque.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -1806,7 +1900,7 @@ Dibenzylidène sorbitol.
 
 |
 
-QMS = 4, 8 mg / 6 dm ².
+QMS = 4,8 mg 6 dm ².
 
 |
 
@@ -1864,7 +1958,7 @@ QMS = 4, 8 mg / 6 dm ².
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -1910,7 +2004,7 @@ Disulfure de di-tert-dodécyle.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -1926,7 +2020,7 @@ Diéthylèneglycol.
 
 |
 
-LMS (T) = 30 mg / kg (3).
+LMS (T) = 30 mg/kg (3).
 
 |
 
@@ -1956,7 +2050,7 @@ LMS (T) = 30 mg / kg (3).
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
 
 |
 
@@ -1972,7 +2066,7 @@ LMS = 0, 6 mg / kg.
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -1980,13 +2074,33 @@ LMS (T) = 6 mg / kg (15).
 
 |
 
-- |
+-
+
+|
 
 Acide 9, 10-dihydroxy stéarique et ses oligomères.
 
 |
 
-LMS = 5mg / kg
+LMS = 5mg/kg.
+
+|
+
+49080
+
+|
+
+0852282-89-4
+
+|
+
+N-(2, 6diisopropylphényl)-6-[4-(1, 1, 3, 3-tétraméthylbutyl) phénoxy]-1H-benzo [de] isoquinolin-1, 3 (2H)-dione
+
+|
+
+LMS = 0,05 mg/kg (39) (45) (46).
+
+A employer uniquement dans le téréphtalate de polyéthylène (PET).
 
 |
 
@@ -2002,7 +2116,7 @@ LMS = 5mg / kg
 
 |
 
-LMS = 1 mg / kg.
+LMS = 1 mg/kg.
 
 |
 
@@ -2046,7 +2160,7 @@ Dipentaérythritol.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -2232,7 +2346,7 @@ Ethylènediaminetétraacétate de cuivre.
 
 |
 
-LM (T) = 5 mg / kg (7) (exprimé en cuivre).
+LM (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -2248,7 +2362,7 @@ Ethylène glycol.
 
 |
 
-LMS (T) = 30 mg / kg (3).
+LMS (T) = 30 mg/kg (3).
 
 |
 
@@ -2320,7 +2434,7 @@ Ethylhydroxypropylcellulose.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -2364,7 +2478,7 @@ Copolymère formaldéhyde-l-naphtol [= poly (1-hydroxyna-phtylméthane)].
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -2470,7 +2584,9 @@ Acide glutarique.
 
 |
 
-736150-63-3 |
+736150-63-3
+
+|
 
 Acétates de glycérides monohydrogénés d'huile de ricin.
 
@@ -2952,7 +3068,7 @@ Hexaméthylènetétramine.
 
 |
 
-LMS (T) = 15 mg / kg (22) (exprimé en formaldéhyde).
+LMS (T) = 15 mg/kg (22) (exprimé en formaldéhyde).
 
 |
 
@@ -3006,9 +3122,25 @@ Acide chlorhydrique.
 
 |
 
-Homopolymères et / ou copolymères hydrogénés du 1-décène et / ou 1-dodécène et / ou 1-octène. |
+Homopolymères et / ou copolymères hydrogénés du 1-décène et / ou 1-dodécène et / ou 1-octène.
 
-Conformément aux spécifications indiquées au chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras. |
+|
+
+Conformément aux spécifications indiquées au chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras.
+
+|
+
+60027
+
+|
+
+- |
+
+Homopolymères et / ou copolymères hydrogénés fabriqués à partir de 1-hexène et / ou de 1-octène et / ou de 1-décène et / ou de 1-dodécène et / ou de 1-tétradécène (masse moléculaire : 440 - 12 000) |
+
+A ne pas employer pour des objets en contact avec des aliments gras pour lesquels le simulant D doit être utilisé.
+
+Conformes aux spécifications indiquées au chapitre IV. |
 
 60030
 
@@ -3108,7 +3240,7 @@ Hydroxybenzoate de propyle.
 
 |
 
-LMS (T) = 30 mg / kg (19).
+LMS (T) = 30 mg/kg (19).
 
 |
 
@@ -3222,9 +3354,7 @@ Sel de lithium de l'acide 12-hydroxystéarique.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
-
-|
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -3239,6 +3369,22 @@ LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
 Acide hypophosphoreux.
 
 |
+
+|
+
+62215
+
+|
+
+0007439-89-6
+
+|
+
+Fer
+
+|
+
+LMS = 48 mg/kg.
 
 |
 
@@ -3508,7 +3654,7 @@ Acide maléique.
 
 |
 
-LMS (T) = 30 mg / kg (4).
+LMS (T) = 30 mg/kg (4).
 
 |
 
@@ -3624,7 +3770,7 @@ Méthylcellulose.
 
 |
 
-LMS (T) = 3 mg / kg (6).
+LMS (T) = 3 mg/kg (6).
 
 |
 
@@ -3640,7 +3786,7 @@ LMS (T) = 3 mg / kg (6).
 
 |
 
-LMS (T) = 3 mg / kg (6).
+LMS (T) = 3 mg/kg (6).
 
 |
 
@@ -3698,7 +3844,11 @@ Méthylhydroxypropylcellulose.
 
 |
 
-LMS = 0, 5 mg / kg.A utiliser uniquement dans des dispersions ou émulsions aqueuses de polymères et à des concentrations n'entraînant pas d'effet antimicrobien à la surface du polymère ou de l'aliment proprement dit. |
+LMS = 0, 5 mg/kg.
+
+A utiliser uniquement dans des dispersions ou émulsions aqueuses de polymères et à des concentrations n'entraînant pas d'effet antimicrobien à la surface du polymère ou de l'aliment proprement dit.
+
+|
 
 66905
 
@@ -3756,7 +3906,7 @@ Mélange de 4-(2-benzoxazolyl)-4'-(5-méthyl-2-benzoxazolyl) stilbène, de 4, 4'
 
 |
 
-Pas plus de 0, 05 % p / p (quantité de substance utilisée / quantité de la formulation). Conformément aux spécifications indiquées au chapitre IV.
+Pas plus de 0,05 % p/p (quantité de substance utilisée / quantité de la formulation). Conformément aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -3772,7 +3922,7 @@ Mélange de phtalate de n-décyle n-octyle (50 % p / p), de phtalate de di-n-dé
 
 |
 
-LMS = 5 mg / kg (1).
+LMS = 5 mg/kg (1).
 
 |
 
@@ -3846,6 +3996,24 @@ Acide myristique.
 
 |
 
+68119
+
+|
+
+-
+
+|
+
+Diesters et monoesters de néopentylglycol, d'acide benzoïque et d'acide 2-éthylhexanoïque
+
+|
+
+LMS = 5 mg/kg.
+
+A ne pas employer pour des objets en contact avec des aliments gras pour lesquels le simulant D doit être utilisé.
+
+|
+
 68078
 
 |
@@ -3858,7 +4026,7 @@ Néodécanoate de cobalt.
 
 |
 
-LMS (T) = 0, 05 mg / kg (exprimé en acide néodécanoïque) et LMS (T) = 0, 05 mg / kg (14) (exprimé en cobalt).A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85 / 572 / CEE fixe le simulant D.
+LMS (T) = 0,05 mg/kg (exprimé en acide néodécanoïque) et LMS (T) = 0,05 mg/kg (14) (exprimé en cobalt).A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85/572/CEE fixe le simulant D.
 
 |
 
@@ -3890,7 +4058,7 @@ Néphéline syénite.
 
 |
 
-LMS = 5 mg / kg (somme des phosphites et phosphates).
+LMS = 5 mg/kg (somme des phosphites et phosphates).
 
 |
 
@@ -3948,7 +4116,7 @@ Acide oxalique.
 
 |
 
-LMS (T) = 6 mg / kg (29).
+LMS (T) = 6 mg/kg (29).
 
 |
 
@@ -4000,7 +4168,9 @@ Acide palmitique.
 
 |
 
-000111-06-08 |
+000111-06-08
+
+|
 
 Palmitate de butyle.
 
@@ -4062,7 +4232,9 @@ Dioléate de pentaérythritol.
 
 |
 
-LMS = 0, 05 mg / kg.A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85 / 572 / CEE fixe le simulant D.
+LMS = 0,05 mg/kg.
+
+A ne pas employer dans des polymères au contact d'aliments pour lesquels la directive 85/572/CEE fixe le simulant D.
 
 |
 
@@ -4078,7 +4250,7 @@ Tétrakis (2-cyano-3, 3-diphénylacrylate) du pentaérythritol.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -4126,6 +4298,22 @@ Uniquement pour utilisation dans des objets réutilisables, frits à haute temp�
 
 |
 
+72141
+
+|
+
+0018600-59-4
+
+|
+
+2, 2'-(1, 4-phénylène) bis [(4H-3, 1-benzoxazin-4-one)].
+
+|
+
+LMS = 0,05 mg/kg (y compris la somme de ses produits d'hydrolyse).
+
+|
+
 72640
 
 |
@@ -4152,7 +4340,7 @@ Phosphates de mono-et di-n-alkyle (C16 et C18).
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -4168,7 +4356,7 @@ Phosphate de trichloroéthyle.
 
 |
 
-LMS = ND (LD = 0, 02 mg / kg, tolérance analytique comprise).
+LMS = ND (LD = 0, 02 mg/kg, tolérance analytique comprise).
 
 |
 
@@ -4184,7 +4372,7 @@ Phosphite de bis (2, 4-di-tert-butyl-6-méthylphényle) éthyle.
 
 |
 
-LMS = 5 mg / kg (somme des phosphites et phosphates).
+LMS = 5 mg/kg (somme des phosphites et phosphates).
 
 |
 
@@ -4232,11 +4420,13 @@ A employer uniquement comme :
 
 a) Plastifiant dans des matériaux et des objets réutilisables ;
 
-b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour nourrissons et des préparations de suite au sens de la directive 91 / 321 / CEE ainsi que des produits conformément à la diretive 96 / 5 / CE ;
+b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour nourrissons et des préparations de suite au sens de la directive 91/321/CEE ainsi que des produits conformément à la diretive 96/5/CE ;
 
-c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final.
+c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0,1 % dans le produit final.
 
-LMS = 30 mg / kg simulant de denrée alimentaire. |
+LMS = 30 mg/kg simulant de denrée alimentaire.
+
+|
 
 74640
 
@@ -4254,9 +4444,9 @@ A employer uniquement comme :
 
 a) Plastifiant dans des matériaux et des objets réutilisables en contact avec des aliments non gras ;
 
-b) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final ;
+b) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0,1 % dans le produit final ;
 
-LMS = 1, 5 mg / kg simulant de denrée alimentaire.
+LMS = 1,5 mg/kg simulant de denrée alimentaire.
 
 |
 
@@ -4278,7 +4468,7 @@ a) Plastifiant dans des matériaux et des objets réutilisables en contact avec 
 
 b) Auxiliaire technologique dans des polyoléfines à des concentrations pouvant aller jusqu'à 0, 05 % dans le produit final ;
 
-LMS = 0, 3 mg / kg simulant de denrée alimentaire.
+LMS = 0, 3 mg/kg simulant de denrée alimentaire.
 
 |
 
@@ -4300,11 +4490,11 @@ A employer uniquement comme :
 
 a) Plastifiant dans des matériaux et des objets réutilisables ;
 
-b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour suite au sens de la directive 91 / 321 / CEE ainsi que des produits conformément à la directive 96 / 5 / CE ;
+b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour suite au sens de la directive 91/321/CEE ainsi que des produits conformément à la directive 96/5/CE ;
 
-c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final.
+c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0,1 % dans le produit final.
 
-LMS (T) = 9 mg / kg simulant de denrée alimentaire (42).
+LMS (T) = 9 mg/kg simulant de denrée alimentaire (42).
 
 |
 
@@ -4326,11 +4516,13 @@ A employer uniquement comme :
 
 a) Plastifiant dans des matériaux et des objets réutilisables ;
 
-b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour nourrissons et des préparations de suite au sens de la directive 91 / 321 / CEE ainsi que des produits conformément à la directive 96 / 5 / CE ;
+b) Plastifiant dans des matériaux et des objets à usage unique en contact avec des aliments non gras, à l'exception des préparations pour nourrissons et des préparations de suite au sens de la directive 91/321/CEE ainsi que des produits conformément à la directive 96/5/CE ;
 
-c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0, 1 % dans le produit final.
+c) Auxiliaire technologique à des concentrations pouvant aller jusqu'à 0,1 % dans le produit final.
 
-LMS (T) = 9 mg / kg simulant de denrée alimentaire (42). |
+LMS (T) = 9 mg/kg simulant de denrée alimentaire (42).
+
+|
 
 76329
 
@@ -4372,7 +4564,7 @@ Acide polyacrylique, sels.
 
 |
 
-LMS (T) = 6 mg / kg (36) (acide acrylique).
+LMS (T) = 6 mg/kg (36) (acide acrylique).
 
 |
 
@@ -4438,7 +4630,23 @@ Polydiméthylsiloxane, gamma-hydroxypropylé.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
+
+|
+
+76807
+
+|
+
+00073018-26-5
+
+|
+
+Polyester d'acide adipique et d'1, 3-butanediol, d'1, 2-propanediol et de 2-éthyl-1-hexanol.
+
+|
+
+LMS = 30 mg/kg.
 
 |
 
@@ -4486,7 +4694,9 @@ Polyesters de 1, 2-propanediol et / ou 1, 3-et / ou 1, 4-butanediol et / ou poly
 
 |
 
-LMS = 30 mg / kg. |
+LMS = 30 mg/kg.
+
+|
 
 76960
 
@@ -4544,6 +4754,24 @@ Esters du polyéthylèneglycol avec les acides aliph. monocarb. (C6-C22). Et leu
 
 |
 
+77708
+
+|
+
+-
+
+|
+
+Ethers de polyéthylèneglycol (OE = 1-50) d'alcools primaires (C8-C22) linéaires et ramifiés.
+
+|
+
+LMS = 1, 8 mg/kg.
+
+Conformes aux spécifications indiquées au chapitre IV.
+
+|
+
 77732
 
 |
@@ -4556,7 +4784,9 @@ Polyéthylène glycol (EO = 1-30, typiquement 5) éther du butyl 2-cyano 3-(4-hy
 
 |
 
-LMS = 0, 05 mg / kg. A utiliser uniquement dans le PET. |
+LMS = 0,05 mg/kg. A utiliser uniquement dans le PET.
+
+|
 
 77733
 
@@ -4570,7 +4800,9 @@ Polyéthylèneglycol (EO = 1-30, typiquement 5) éther du butyl-2-cyano-3-(4-hyd
 
 |
 
-LMS = 0, 05 mg / kg. A utiliser uniquement dans le PET. |
+LMS = 0,05 mg/kg. A utiliser uniquement dans le PET.
+
+|
 
 77895
 
@@ -4584,7 +4816,7 @@ Ether monoalkylique (C16-C18) du polyéthylèneglycol (OE = 2-6).
 
 |
 
-LMS = 0, 05 mg / kg et conformément aux spécifications indiquées au chapitre IV.
+LMS = 0,05 mg/kg et conformément aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -4600,7 +4832,7 @@ Ester sulfurique du monoalkyléther (alkyle linéaire et / ou ramifié, C8-20) d
 
 |
 
-LMS = 5 mg / kg
+LMS = 5 mg/kg
 
 |
 
@@ -4700,7 +4932,7 @@ Phosphate de polyéthylène glycol tridécyléther.
 
 |
 
-LMS = 5 mg / kg. Pour les matériaux et objets destinés à entrer en contact avec des aliments aqueux uniquement. Conformément aux spécifications indiquées au chapitre IV.
+LMS = 5 mg/kg. Pour les matériaux et objets destinés à entrer en contact avec des aliments aqueux uniquement. Conformément aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -4731,6 +4963,76 @@ Poly (éthylène propylène) glycol.
 Cire de polyéthylène.
 
 |
+
+|
+
+80077
+
+|
+
+0068441-17-8
+
+|
+
+Cires de polyéthylène oxydées.
+
+|
+
+LMS = 60 mg/kg.
+
+|
+
+80350
+
+|
+
+0124578-12-7
+
+|
+
+Copolymère de poly (acide 12-hydroxystéarique) et de polyéthylèneimine.
+
+|
+
+A employer uniquement dans le téréphtalate de polyéthylène (PET), le polystyrène (PS), le polystyrène choc (HIPS) et le polyamide (PA), à concurrence de 0,1 % p/p au plus.
+
+Conformes aux spécifications indiquées au chapitre IV.
+
+|
+
+80480
+
+|
+
+0090751-07-8 ;
+
+0082451-48-7
+
+|
+
+Poly (6-morpholino-1, 3, 5-triazine-2, 4-diyl)-[(2, 2, 6, 6-tétraméthyl-4-pipéridyl) imino)]-hexaméthylène-[(2, 2, 6, 6-tétraméthyl-4-pipéridyl) imino)].
+
+|
+
+LMS = 5 mg/kg (47).
+
+Conformes aux spécifications indiquées au chapitre IV.
+
+|
+
+80510
+
+|
+
+1010121-89-7
+
+|
+
+Mélange issu du procédé de fabrication du poly (3-nonyl-1, 1-dioxo-1-thiopropane-1, 3-diyl)-bloc-poly (x-oléyl-7-hydroxy-1, 5-diiminooctane-1, 8-diyl), x = 1 et / ou = 5, neutralisé par de l'acide dodécylbenzènesulfonique.
+
+|
+
+A employer uniquement en tant qu'auxiliaire de polymérisation du polyéthylène (PE), du polypropylène (PP) et du polystyrène (PS).
 
 |
 
@@ -4802,7 +5104,7 @@ Poly-[[6-[N-(2, 2, 6, 6-tétraméthyl-4-piéridi-nyl)-n-butylamino]-1, 3, 5-tria
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -4834,7 +5136,7 @@ Poly (glycérolate de zinc).
 
 |
 
-LMS (T) = 25 mg / kg (38) (exprimé en zinc).
+LMS (T) = 25 mg/kg (38) (exprimé en zinc).
 
 |
 
@@ -4878,7 +5180,7 @@ Poudres, écailles et fibres de laiton, de bronze, de cuivre, d'acier inoxydable
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre) ; LMS = 48 mg / kg (exprimé en fer).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre) ; LMS = 48 mg/kg (exprimé en fer).
 
 |
 
@@ -5160,7 +5462,7 @@ Produits de réaction de l'oléate de 2-mercaptoéthyle avec le dichlorodiméthy
 
 |
 
-LMS (T) = 0, 18 mg / kg (16) (exprimé en étain).
+LMS (T) = 0, 18 mg/kg (16) (exprimé en étain).
 
 |
 
@@ -5374,7 +5676,7 @@ Silicate de lithium, magnésium, sodium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -5474,7 +5776,7 @@ Tétraborate de sodium.
 
 |
 
-LMS (T) = 6 mg / kg (23) (exprimé en bore). Sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
+LMS (T) = 6 mg/kg (23) (exprimé en bore). Sans préjudice des dispositions du décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
 
 |
 
@@ -5672,7 +5974,9 @@ Huile de soja époxydée.
 
 |
 
-LMS = 60 mg / kg. Cependant, dans le cas des joints en PVC utilisés pour assurer l'étanchéité des pots en verre contenant des préparations pour nourrissons et des préparations de suite, ou contenant des aliments pour bébés destinés aux nourrissons et enfants en bas âge, au sens de l'arrêté du 1er juillet 1976 relatif aux aliments destinés aux nourrissons et aux enfants en bas âge, la LMS est réduite à 30 mg / kg. |
+LMS = 60 mg/kg. Cependant, dans le cas des joints en PVC utilisés pour assurer l'étanchéité des pots en verre contenant des préparations pour nourrissons et des préparations de suite, ou contenant des aliments pour bébés destinés aux nourrissons et enfants en bas âge, au sens de l'arrêté du 1er juillet 1976 relatif aux aliments destinés aux nourrissons et aux enfants en bas âge, la LMS est réduite à 30 mg/kg.
+
+|
 
 88800
 
@@ -5756,7 +6060,7 @@ Stéarate de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -5772,7 +6076,7 @@ Esters de l'acide stéarique avec l'éthylèneglycol.
 
 |
 
-LMS (T) = 30 mg / kg (3).
+LMS (T) = 30 mg/kg (3).
 
 |
 
@@ -5846,6 +6150,38 @@ Octaacétate de saccharose.
 
 |
 
+91530
+
+|
+
+-
+
+|
+
+Sels de sulfosuccinate d'alkyle (C4-C20) ou de cyclohexyle.
+
+|
+
+LMS = 5 mg/kg.
+
+|
+
+91815
+
+|
+
+-
+
+|
+
+Sels d'esters de polyéthylèneglycol monoalkyliques (C10-C16) d'acide sulfosuccinique.
+
+|
+
+LMS = 2 mg/kg.
+
+|
+
 91840
 
 |
@@ -5886,7 +6222,7 @@ Sulfate de cuivre.
 
 |
 
-LMS (T) = 5 mg / kg (7) (exprimé en cuivre).
+LMS (T) = 5 mg/kg (7) (exprimé en cuivre).
 
 |
 
@@ -5948,6 +6284,22 @@ Taurine, sels.
 
 |
 
+92200
+
+|
+
+0006422-86-2
+
+|
+
+Téréphtalate de bis (2-éthylhexyle).
+
+|
+
+LMS = 60 mg/kg.
+
+|
+
 92205
 
 |
@@ -5978,6 +6330,38 @@ Tétraéthylèneglycol.
 
 |
 
+92470
+
+|
+
+0106990-43-6
+
+|
+
+N, N', N', N'-tétrakis (4, 6-bis (butyl-(N-méthyl-2, 2, 6, 6-tétraméthylpipéridine-4-yl) amino) triazine-2-yl)-4, 7-diazadécane-1, 10-diamine.
+
+|
+
+LMS = 0,05 mg/kg.
+
+|
+
+92475
+
+|
+
+0203255-81-6
+
+|
+
+Ester cyclique de 3, 3', 5, 5'-tétrakis (tert-butyl)-2, 2'-dihydroxybiphényl et d'acide [3-(3-tert-butyl-4-hydroxy-5-méthylphényl) propyl] oxyphosphonique.
+
+|
+
+LMS = 5 mg/kg (exprimée en tant que somme des formes phosphite et phosphate de la substance et des produits d'hydrolyse).
+
+|
+
 92640
 
 |
@@ -6004,7 +6388,7 @@ Polymère de la 2, 2, 4, 4-tétraméthyl-20-(2, 3-époxypropyl)-7-oxa-3, 20-diaz
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -6020,7 +6404,7 @@ Thiodiéthylènebis (5-méthoxycarbonyl-2, 6-diméthyl-1, 4-dihydropyridine-3-ca
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -6035,6 +6419,22 @@ LMS = 6 mg / kg.
 Dioxyde de titane.
 
 |
+
+|
+
+93450
+
+|
+
+-
+
+|
+
+Dioxyde de titane enduit d'un copolymère de n-octyltricholorosilane et de sel pentasodique d'acide aminotris (méthylène phosphonique).
+
+|
+
+Conformes aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -6080,7 +6480,7 @@ Gomme adragante.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -6098,6 +6498,22 @@ Tri-n-butyl acétyl citrate.
 
 |
 
+94000
+
+|
+
+0000102-71-6
+
+|
+
+Triéthanolamine.
+
+|
+
+LMS = 0,05 mg/kg (y compris le composé hydrochlorure).
+
+|
+
 94320
 
 |
@@ -6109,6 +6525,22 @@ Tri-n-butyl acétyl citrate.
 Triéthylèneglycol.
 
 |
+
+|
+
+94425
+
+|
+
+0000867-13-0
+
+|
+
+Phosphonoacétate de triéthyle.
+
+|
+
+A employer uniquement dans le téréphtalate de polyéthylène (PET).
 
 |
 
@@ -6124,7 +6556,25 @@ Triéthylèneglycol.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
+
+|
+
+94985
+
+|
+
+-
+
+|
+
+Mélanges de diesters et de triesters formés à partir de triméthylolpropane, d'acide benzoïque et / ou d'acide 2-éthylhexanoïque.
+
+|
+
+LMS = 5 mg/kg
+
+A ne pas employer pour des objets en contact avec des aliments gras pour lesquels le simulant D doit être utilisé.
 
 |
 
@@ -6140,7 +6590,7 @@ LMS = 6 mg / kg.
 
 |
 
-LMS = 5 mg / kg denrée alimentaire. Emploi autorisé uniquement dans les gants à usage unique.
+LMS = 5 mg/kg denrée alimentaire. Emploi autorisé uniquement dans les gants à usage unique.
 
 |
 
@@ -6186,7 +6636,7 @@ phényle 2-butyl-2-éthyl-1, 3-propanediol.
 
 |
 
-LMS = 2 mg / kg (somme du phosphite, du phosphate et du produit d'hydrolyse = TTBP).
+LMS = 2 mg/kg (somme du phosphite, du phosphate et du produit d'hydrolyse = TTBP).
 
 |
 
@@ -6202,7 +6652,7 @@ LMS = 2 mg / kg (somme du phosphite, du phosphate et du produit d'hydrolyse = TT
 
 |
 
-LMS = 0, 05 mg / kg denrée alimentaire.
+LMS = 0,05 mg/kg denrée alimentaire.
 
 |
 
@@ -6218,7 +6668,7 @@ Vermiculite, produit de réaction avec le citrate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -6250,7 +6700,9 @@ Cires, paraffiniques, raffinées, produites à partir de charges d'alimentation 
 
 |
 
-LMS = 0, 05 mg / kg et conformément aux spécifications du chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras. |
+LMS = 0,05 mg/kg et conformément aux spécifications du chapitre IV de l'annexe. Ne pas utiliser dans des produits en contact avec des aliments gras.
+
+|
 
 95859
 
@@ -6338,7 +6790,7 @@ Hydroxyde de zinc.
 
 |
 
-LMS (T) = 25 mg / kg (38) (exprimé en zinc).
+LMS (T) = 25 mg/kg (38) (exprimé en zinc).
 
 |
 
@@ -6354,7 +6806,7 @@ Oxyde de zinc.
 
 |
 
-LMS (T) = 25 mg / kg (38) (exprimé en zinc).
+LMS (T) = 25 mg/kg (38) (exprimé en zinc).
 
 |
 
@@ -6370,7 +6822,7 @@ Sulfure de zinc.
 
 |
 
-LMS (T) = 25 mg / kg (38) (exprimé en zinc).
+LMS (T) = 25 mg/kg (38) (exprimé en zinc).
 
 |
 
@@ -6416,7 +6868,7 @@ Acétate de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -6432,9 +6884,9 @@ Copolymère d'acide acrylique et d'acrylate de 2-éthylhexyle.
 
 |
 
-LMS (T) = 6 mg / kg (exprimé en acide acrylique) et
+LMS (T) = 6 mg/kg (exprimé en acide acrylique) et
 
-LMS = 0, 05 mg / kg (36) (exprimé en acrylate de 2-éthylhexyle).
+LMS = 0,05 mg/kg (36) (exprimé en acrylate de 2-éthylhexyle).
 
 |
 
@@ -6452,7 +6904,7 @@ Acrylate de 2-tert-butyl-6-(3-tert-butyl-2-hydroxy-
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -6468,7 +6920,7 @@ Adipate de bis (2-éthylhexyle).
 
 |
 
-LMS = 18 mg / kg (1).
+LMS = 18 mg/kg (1).
 
 |
 
@@ -6484,7 +6936,7 @@ Alkyle linéaire à nombre pair d'atomes de carbone (C12-C20) diméthylamines.
 
 |
 
-LMS = 30 mg / kg
+LMS = 30 mg/kg
 
 |
 
@@ -6500,7 +6952,7 @@ Acide alkyl (C8-C22) sulfonique.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -6516,7 +6968,7 @@ Hydroxybis [2, 2'-méthylènebis (4, 6-di-tert-butylphényl) phosphate d'alumini
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -6532,7 +6984,7 @@ Trioxyde d'antimoine.
 
 |
 
-LMS = 0, 04 mg / kg (39) (exprimé en antimoine).
+LMS = 0,04 mg/kg (39) (exprimé en antimoine).
 
 |
 
@@ -6548,7 +7000,7 @@ Hydroxyde de baryum.
 
 |
 
-LMS (T) = 1 mg / kg (12) (exprimé en baryum).
+LMS (T) = 1 mg/kg (12) (exprimé en baryum).
 
 |
 
@@ -6564,7 +7016,7 @@ Nitrate de baryum.
 
 |
 
-LMS (T) = 1 mg / kg (12) (exprimé en baryum).
+LMS (T) = 1 mg/kg (12) (exprimé en baryum).
 
 |
 
@@ -6580,7 +7032,7 @@ Benzoate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -6596,7 +7048,7 @@ Benzophénone.
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
 
 |
 
@@ -6614,7 +7066,9 @@ cis-endobicyclo [2. 2. 1] heptane-2, 3-dicarboxylique.
 
 |
 
-LMS = 5 mg / kg.A ne pas employer avec du polyéthylène en contact avec des aliments acides. Pureté 96 %.
+LMS = 5 mg/kg.
+
+A ne pas employer avec du polyéthylène en contact avec des aliments acides. Pureté 96 %.
 
 |
 
@@ -6630,7 +7084,7 @@ LMS = 5 mg / kg.A ne pas employer avec du polyéthylène en contact avec des ali
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
 
 |
 
@@ -6646,7 +7100,7 @@ Bis (isooctyle thioglycolate) de bis (2-carbo-butoxyéthyl) étain.
 
 |
 
-LMS = 18 mg / kg.
+LMS = 18 mg/kg.
 
 |
 
@@ -6662,7 +7116,7 @@ N, N'-Bis [3-(3, 5-di-tert-butyl-4-hydroxy-phenyl) propionyl] hydrazide.
 
 |
 
-LMS = 15 mg / kg.
+LMS = 15 mg/kg.
 
 |
 
@@ -6678,7 +7132,7 @@ Diphosphite de bis (2, 4-di-tert-butylphényl) pentaérythritol.
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
 
 |
 
@@ -6694,7 +7148,7 @@ LMS = 0, 6 mg / kg.
 
 |
 
-LMS (T) = 5 mg / kg (40).
+LMS (T) = 5 mg/kg (40).
 
 |
 
@@ -6710,7 +7164,7 @@ LMS (T) = 5 mg / kg (40).
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -6726,7 +7180,7 @@ N, N-bis (2-hydroxyéthyl) a1kyl (C8-C18) amine.
 
 |
 
-LMS (T) = 1, 2 mg / kg (13).
+LMS (T) = 1,2 mg/kg (13).
 
 |
 
@@ -6742,7 +7196,7 @@ Chlorhydrate de N, N-bis (2-hydroxyéthyl) alkyI (C8-C18) amine.
 
 |
 
-LMS (T) = 1, 2 mg / kg (13) (exprimé hors HCI). Exprimé en amine tertiaire.
+LMS (T) = 1,2 mg/kg (13) (exprimé hors HCI). Exprimé en amine tertiaire.
 
 |
 
@@ -6760,7 +7214,7 @@ lanilino)-1, 3, 5-triazine.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -6776,7 +7230,7 @@ LMS = 30 mg / kg.
 
 |
 
-LMS = 5 mg / kg (40).
+LMS = 5 mg/kg (40).
 
 |
 
@@ -6792,7 +7246,7 @@ Copolymère N, N'-bis (2, 2, 6, 6-tétraméthyl-4-pipéridyl) hexaméthylènedia
 
 |
 
-LMS = 2, 4 mg / kg.
+LMS = 2, 4 mg/kg.
 
 |
 
@@ -6808,7 +7262,7 @@ tert-Butyl-4-hydroxyanisole (= BHA).
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -6826,7 +7280,7 @@ ditridécylphosphite).
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -6842,7 +7296,7 @@ Butyrate de manganèse.
 
 |
 
-LMS = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -6858,7 +7312,7 @@ Tris (isooctyle thioglycolate) de (2-carbobutoxyéthyl) étain.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -6874,7 +7328,7 @@ Carbonate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) exprimé en lithium).
 
 |
 
@@ -6890,7 +7344,7 @@ Carbonate de rubidium.
 
 |
 
-LMS = 12 mg / kg.
+LMS = 12 mg/kg.
 
 |
 
@@ -6906,7 +7360,7 @@ Chlorure de 1-(3-chloroallyl)-3, 5, 7-triaza-l-azoniaadamantane.
 
 |
 
-LMS = 0, 3 mg / kg.
+LMS = 0, 3 mg/kg.
 
 |
 
@@ -6922,7 +7376,7 @@ Chlorodifluorométhane.
 
 |
 
-LMS = 6 mg / kg. Conformément aux spécifications indiquées au chapitre IV.
+LMS = 6 mg/kg. Conformément aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -6938,7 +7392,7 @@ Oxyde de cobalt.
 
 |
 
-LMS (T) = 0, 05 mg / kg (14) (exprimé en cobalt).
+LMS (T) = 0,05 mg/kg (14) (exprimé en cobalt).
 
 |
 
@@ -6954,7 +7408,7 @@ Crésols butylés, styrénisés.
 
 |
 
-LMS = 12 mg / kg.
+LMS = 12 mg/kg.
 
 |
 
@@ -6970,7 +7424,7 @@ LMS = 12 mg / kg.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -6986,7 +7440,7 @@ LMS = 0, 05 mg / kg.
 
 |
 
-LMS = 3, 0 mg / kg.
+LMS = 3,0 mg/kg.
 
 |
 
@@ -7002,7 +7456,7 @@ N, N'-dicyclohexyl-2, 6-naphtalène dicarboxamide.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -7018,7 +7472,7 @@ Di-n-dodécylétain bis (isocryl mercaptoacétate).
 
 |
 
-LMS = 0, 05 mg / kg denrées alimentaires (41) (comme somme en mono-n-dodécyl-étaintris (isooctyl mercaptoacétate), di-n-dodécyltin bis (isooctyl mercaptoacétate), monododécyl-étain trichloride et didodécylétain dichloride) exprimé comme somme en mono et didodécylétain chloride.
+LMS = 0,05 mg/kg denrées alimentaires (41) (comme somme en mono-n-dodécyl-étaintris (isooctyl mercaptoacétate), di-n-dodécyltin bis (isooctyl mercaptoacétate), monododécyl-étain trichloride et didodécylétain dichloride) exprimé comme somme en mono et didodécylétain chloride.
 
 |
 
@@ -7034,7 +7488,7 @@ LMS = 0, 05 mg / kg denrées alimentaires (41) (comme somme en mono-n-dodécyl-�
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -7050,7 +7504,7 @@ LMS (T) = 6 mg / kg (15).
 
 |
 
-LMS = 12 mg / kg.
+LMS = 12 mg/kg.
 
 |
 
@@ -7066,7 +7520,7 @@ LMS = 12 mg / kg.
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -7082,7 +7536,7 @@ Bis (éthylhexyl thioglycolate) de diméthylétain.
 
 |
 
-LMS (T) = 0, 18 mg / kg (16) (exprimé en étain).
+LMS (T) = 0,18 mg/kg (16) (exprimé en étain).
 
 |
 
@@ -7098,7 +7552,7 @@ Bis (isooctyle thioglycolate) de diméthylétain.
 
 |
 
-LMS (T) = 0, 18 mg / kg (16) (exprimé en étain).
+LMS (T) = 0,18 mg/kg (16) (exprimé en étain).
 
 |
 
@@ -7114,7 +7568,7 @@ Disulfure de dioctadécyle.
 
 |
 
-LMS = 3 mg / kg.
+LMS = 3 mg/kg.
 
 |
 
@@ -7130,7 +7584,7 @@ Bis [n-alkyle (Cl0-C16) thioglycolate] de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7146,7 +7600,7 @@ Bis (2-éthylhexyle maléate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7162,7 +7616,7 @@ Bis (2-éthylhexyle thioglycolate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7178,7 +7632,7 @@ Bis (éthyle maléate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7194,7 +7648,7 @@ Bis (isooctyle maléate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7210,7 +7664,7 @@ Bis (isooctyle thioglycolate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7224,7 +7678,7 @@ l, 4-butanediol bis (thioglycolate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7240,7 +7694,7 @@ Dilaurate de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7256,7 +7710,7 @@ Dimaléate de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7272,7 +7726,7 @@ Dimaléate de di-n-octylétain estérifié.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7286,7 +7740,7 @@ Dimaléate de di-n-octylétain, polymères (n = 2-4).
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7302,7 +7756,7 @@ Ethylèneglycol bis (thioglycolate) de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7318,7 +7772,7 @@ Thioglycolate de di-n-octylétain.
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7334,7 +7788,7 @@ LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
 
 |
 
-LMS (T) = 0, 006 mg / kg (17) (exprimé en étain).
+LMS (T) = 0,006 mg/kg (17) (exprimé en étain).
 
 |
 
@@ -7350,7 +7804,7 @@ Diphénylsulfone.
 
 |
 
-LMS = 3 mg / kg.
+LMS = 3 mg/kg.
 
 |
 
@@ -7366,7 +7820,7 @@ N, N'-Diphénylthiourée.
 
 |
 
-LMS = 3 mg / kg.
+LMS = 3 mg/kg.
 
 |
 
@@ -7382,7 +7836,7 @@ Acide dodécylbenzènesulfonique.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -7398,7 +7852,7 @@ LMS = 30 mg / kg.
 
 |
 
-LMS = 0, 06 mg / kg.
+LMS = 0,06 mg/kg.
 
 |
 
@@ -7414,7 +7868,7 @@ LMS = 0, 06 mg / kg.
 
 |
 
-LMS = 3, 6 mg / kg.
+LMS = 3,6 mg/kg.
 
 |
 
@@ -7430,7 +7884,7 @@ LMS = 3, 6 mg / kg.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -7446,7 +7900,7 @@ Bis [3, 3-bis (3-tert-butyl-4-hydroxyphényl) butyrate] d'éthylène glycol.
 
 |
 
-LMS = 6 mg / kg
+LMS = 6 mg/kg
 
 |
 
@@ -7462,7 +7916,7 @@ Formaldéhyde.
 
 |
 
-LMS (T) = 15 mg / kg (22).
+LMS (T) = 15 mg/kg (22).
 
 |
 
@@ -7478,7 +7932,7 @@ Gallate de dodécyle.
 
 |
 
-LMS (T) = 30 mg / kg (34).
+LMS (T) = 30 mg/kg (34).
 
 |
 
@@ -7494,7 +7948,7 @@ Gallate d'octyle.
 
 |
 
-LMS (T) = 30 mg / kg (34).
+LMS (T) = 30 mg/kg (34).
 
 |
 
@@ -7510,7 +7964,7 @@ Gallate de propyle.
 
 |
 
-LMS (T) = 30 mg / kg (34).
+LMS (T) = 30 mg/kg (34).
 
 |
 
@@ -7526,7 +7980,7 @@ Bromure d'hexadécyltriméthyl-ammonium.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -7544,7 +7998,7 @@ xyphényl) propionamide].
 
 |
 
-LMS = 45 mg / kg.
+LMS = 45 mg/kg.
 
 |
 
@@ -7562,7 +8016,7 @@ xyphényl) propionate].
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -7578,7 +8032,7 @@ LMS = 6 mg / kg.
 
 |
 
-LMS = 1, 5 mg / kg.
+LMS = 1,5 mg/kg.
 
 |
 
@@ -7596,7 +8050,7 @@ benzotriazole.
 
 |
 
-LMS (T) = 30 mg / kg (19).
+LMS (T) = 30 mg/kg (19).
 
 |
 
@@ -7612,7 +8066,7 @@ Copolymère 1-(2-hydroxyéthyl)-4-hydroxy-2, 2, 6, 6-tétramé-thylpipéridine-s
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -7628,7 +8082,7 @@ LMS = 30 mg / kg.
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -7644,7 +8098,7 @@ LMS (T) = 6 mg / kg (15).
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -7660,7 +8114,7 @@ LMS (T) = 6 mg / kg (15).
 
 |
 
-LMS (T) = 30 mg / kg (19).
+LMS (T) = 30 mg/kg (19).
 
 |
 
@@ -7676,7 +8130,7 @@ LMS (T) = 30 mg / kg (19).
 
 |
 
-LMS (T) = 6 mg / kg (15).
+LMS (T) = 6 mg/kg (15).
 
 |
 
@@ -7692,7 +8146,7 @@ Lactate de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7708,7 +8162,7 @@ Acide lignosulfonique.
 
 |
 
-LMS = 0, 24 mg / kg et à employer uniquement comme dispersant pour dispersions plastiques.
+LMS = 0,24 mg/kg et à employer uniquement comme dispersant pour dispersions plastiques.
 
 |
 
@@ -7724,7 +8178,7 @@ Iodure de lithium.
 
 |
 
-LMS (T) = 1 mg / kg (11) (exprimé en iode) et LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 1 mg/kg (11) (exprimé en iode) et LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -7740,7 +8194,7 @@ Chlorure de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7756,7 +8210,7 @@ Hydroxyde de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7772,7 +8226,7 @@ Hypophosphite de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7788,7 +8242,7 @@ Oxyde de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7804,7 +8258,7 @@ Pyrophosphite de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -7820,7 +8274,7 @@ Phosphate de 2, 2'-méthylènebis (4, 6-di-tert-butylphényl) lithium.
 
 |
 
-LMS = 5 mg / kg et LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS = 5 mg/kg et LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -7836,7 +8290,7 @@ Phosphate de 2, 2'-méthylènebis (4, 6-di-tert-butylphényl) sodium.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -7852,7 +8306,7 @@ LMS = 5 mg / kg.
 
 |
 
-LMS (T) = 1, 5 mg / kg (20).
+LMS (T) = 1,5 mg/kg (20).
 
 |
 
@@ -7868,7 +8322,7 @@ LMS (T) = 1, 5 mg / kg (20).
 
 |
 
-LMS (T) = 1, 5 mg / kg (20).
+LMS (T) = 1,5 mg/kg (20).
 
 |
 
@@ -7884,7 +8338,7 @@ Mono-n-dodecyltin tris (isooctyl mercaptoacetate).
 
 |
 
-LMS = 0, 05 mg / kg denrées alimentaires (41) (comme somme en mono-ndodécyl-étain tris (isooctyl mercaptoacétate), di-n-dodécyltin bis (isooctyl mercaptoacétate), monododécyl-étain trichloride et di-dodécylétain dichloride) exprimé comme somme en mono-et di-dodécylétain chloride.
+LMS = 0,05 mg/kg denrées alimentaires (41) (comme somme en mono-ndodécyl-étain tris (isooctyl mercaptoacétate), di-n-dodécyltin bis (isooctyl mercaptoacétate), monododécyl-étain trichloride et di-dodécylétain dichloride) exprimé comme somme en mono-et di-dodécylétain chloride.
 
 |
 
@@ -7900,7 +8354,7 @@ Tris (éthylhexyle thioglycolate) de monométhylétain.
 
 |
 
-LMS = 0, 18 mg / kg (16) (exprimé en étain).
+LMS = 0,18 mg/kg (16) (exprimé en étain).
 
 |
 
@@ -7916,7 +8370,7 @@ Tris (isooctyle thioglycolate) de monométhylétain.
 
 |
 
-LMS (T) = 0, 18 mg / kg (16) (exprimé en étain).
+LMS (T) = 0,18 mg/kg (16) (exprimé en étain).
 
 |
 
@@ -7932,7 +8386,7 @@ Tris [alkyle (C10-C16) thioglycolate] de mono-n-octylétain.
 
 |
 
-LMS (T) = 1, 2 mg / kg (18) (exprimé en étain).
+LMS (T) = 1,2 mg/kg (18) (exprimé en étain).
 
 |
 
@@ -7948,7 +8402,7 @@ Tris (2-éthylhexyle thioglycolate) de mono-n-octylétain.
 
 |
 
-LMS (T) = 1, 2 mg / kg (18) (exprimé en étain).
+LMS (T) = 1,2 mg/kg (18) (exprimé en étain).
 
 |
 
@@ -7964,7 +8418,7 @@ Tris (isooctyle thioglycolate) de mono-n-octylétain.
 
 |
 
-LMS (T) = 1, 2 mg / kg (18) (exprimé en étain).
+LMS (T) = 1,2 mg/kg (18) (exprimé en étain).
 
 |
 
@@ -7980,7 +8434,7 @@ Myristate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -7996,7 +8450,7 @@ LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -8012,7 +8466,7 @@ Octadécylérucamide.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -8028,7 +8482,7 @@ Acide n-octylphosphonique.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -8044,7 +8498,7 @@ Oléate de cobalt.
 
 |
 
-LMS (T) = 0, 05 mg / kg (14) (exprimé en cobalt).
+LMS (T) = 0,05 mg/kg (14) (exprimé en cobalt).
 
 |
 
@@ -8060,7 +8514,7 @@ Oléylpamitamide.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -8076,7 +8530,7 @@ Perchlorate de sodium, monohydrate.
 
 |
 
-LMS = 0, 05 mg / kg (31).
+LMS = 0,05 mg/kg (31).
 
 |
 
@@ -8108,7 +8562,7 @@ Conformément aux spécifications indiquées au chapitre IV de l'annexe.
 
 |
 
-LMS = 15 mg / kg.
+LMS = 15 mg/kg.
 
 |
 
@@ -8124,7 +8578,7 @@ Phosphate de diphényle 2-éthylhexyle.
 
 |
 
-LMS = 2, 4 mg / kg.
+LMS = 2,4 mg/kg.
 
 |
 
@@ -8140,7 +8594,7 @@ Phosphate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -8156,7 +8610,7 @@ Phosphate de manganèse.
 
 |
 
-LMS (T) = 0, 6 mg / kg (10) (exprimé en manganèse).
+LMS (T) = 0,6 mg/kg (10) (exprimé en manganèse).
 
 |
 
@@ -8172,7 +8626,7 @@ Phosphite de tris (nonyl-et / ou dinonylphényle).
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -8188,7 +8642,7 @@ Diricinoléate de polyéthylèneglycol.
 
 |
 
-LMS = 42 mg / kg.
+LMS = 42 mg/kg.
 
 |
 
@@ -8204,7 +8658,7 @@ Ester de polyéthylèneglycol avec l'huile de ricin.
 
 |
 
-LMS = 42 mg / kg.
+LMS = 42 mg/kg.
 
 |
 
@@ -8220,7 +8674,7 @@ Monoricinoléate de polyéthylèneglycol.
 
 |
 
-LMS = 42 mg / kg.
+LMS = 42 mg/kg.
 
 |
 
@@ -8238,7 +8692,7 @@ ridyl) imino].
 
 |
 
-LMS = 3 mg / kg.
+LMS = 3 mg/kg.
 
 |
 
@@ -8254,7 +8708,7 @@ Iodure de potassium.
 
 |
 
-LMS (T) = 1 mg / kg (11) (exprimé en iode).
+LMS (T) = 1 mg/kg (11) (exprimé en iode).
 
 |
 
@@ -8270,7 +8724,7 @@ Propionate de cobalt.
 
 |
 
-LMS (T) = 0, 05 mg / kg (14) (exprimé en cobalt).
+LMS (T) = 0,05 mg/kg (14) (exprimé en cobalt).
 
 |
 
@@ -8286,7 +8740,7 @@ Produit de réaction du phosphonite de di-tert-butyle avec le biphényle, obtenu
 
 |
 
-LMS = 18 mg / kg. Conformément aux spécifications indiquées au chapitre IV.
+LMS = 18 mg/kg. Conformément aux spécifications indiquées au chapitre IV.
 
 |
 
@@ -8302,7 +8756,7 @@ Acide ricinoléique.
 
 |
 
-LMS = 42 mg / kg.
+LMS = 42 mg/kg.
 
 |
 
@@ -8318,7 +8772,7 @@ Salicylate de 4-tert-butylphényle.
 
 |
 
-LMS = 12 mg / kg.
+LMS = 12 mg/kg.
 
 |
 
@@ -8334,7 +8788,7 @@ Salicylate de méthyle.
 
 |
 
-LMS = 30 mg / kg.
+LMS = 30 mg/kg.
 
 |
 
@@ -8350,7 +8804,7 @@ Silicate de lithium aluminium (2 : 1 : 1).
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -8366,7 +8820,7 @@ Silicate de lithium.
 
 |
 
-LMS (T) = 0, 6 mg / kg (8) (exprimé en lithium).
+LMS (T) = 0,6 mg/kg (8) (exprimé en lithium).
 
 |
 
@@ -8382,7 +8836,9 @@ Silicate de magnésium-sodium-fluorure.
 
 |
 
-LMS = 0, 15 mg / kg (exprimé en fluorure).A employer uniquement dans des couches de matériaux multicouches n'entrant pas en contact direct avec les aliments.
+LMS = 0,15 mg/kg (exprimé en fluorure).
+
+A employer uniquement dans des couches de matériaux multicouches n'entrant pas en contact direct avec les aliments.
 
 |
 
@@ -8398,7 +8854,7 @@ Bisulfite de sodium.
 
 |
 
-LMS (T) = 10 mg / kg (30) (exprimé en SO2).
+LMS (T) = 10 mg/kg (30) (exprimé en SO2).
 
 |
 
@@ -8414,7 +8870,7 @@ Iodure de sodium.
 
 |
 
-LMS (T) = 1 mg / kg (11) (exprimé en iode).
+LMS (T) = 1 mg/kg (11) (exprimé en iode).
 
 |
 
@@ -8430,7 +8886,7 @@ Dialkylphénoxybenzènedisulfonate de monoalkyle, sel de sodium.
 
 |
 
-LMS = 9 mg / kg.
+LMS = 9 mg/kg.
 
 |
 
@@ -8446,7 +8902,7 @@ Nitrite de sodium.
 
 |
 
-LMS = 0, 6 mg / kg.
+LMS = 0,6 mg/kg.
 
 |
 
@@ -8462,7 +8918,7 @@ Sulfite de sodium.
 
 |
 
-LMS (T) = 10 mg / kg (30) (exprimé en SO2).
+LMS (T) = 10 mg/kg (30) (exprimé en SO2).
 
 |
 
@@ -8478,7 +8934,7 @@ Thiosulfate de sodium.
 
 |
 
-LMS (T) = 10 mg / kg (30) (exprimé en SO2).
+LMS (T) = 10 mg/kg (30) (exprimé en SO2).
 
 |
 
@@ -8494,7 +8950,7 @@ Stéarate de cobalt.
 
 |
 
-LMS (T) = 0, 05 mg / kg (14) (exprimé en cobalt).
+LMS (T) = 0,05 mg/kg (14) (exprimé en cobalt).
 
 |
 
@@ -8510,7 +8966,7 @@ Sulfate de baryum.
 
 |
 
-LMS (T) = 1 mg / kg (12) (exprimé en baryum).
+LMS (T) = 1 mg/kg (12) (exprimé en baryum).
 
 |
 
@@ -8526,7 +8982,7 @@ Ether de tétradécyl-polyloxyde d'éthylène) (3-8) avec l'acide glycolique.
 
 |
 
-LMS = 15 mg / kg.
+LMS = 15 mg/kg.
 
 |
 
@@ -8544,7 +9000,7 @@ Diphosphonite de tétrakis
 
 |
 
-LMS = 18 mg / kg.
+LMS = 18 mg/kg.
 
 |
 
@@ -8560,7 +9016,7 @@ LMS = 18 mg / kg.
 
 |
 
-LMS = 0, 48 mg / kg.
+LMS = 0,48 mg/kg.
 
 |
 
@@ -8576,7 +9032,7 @@ Bis [3-(3, 5-di-tert-butyl-4-hydroxyphényl) propionate] de thiodiéthanol.
 
 |
 
-LMS = 2, 4 mg / kg.
+LMS = 2,4 mg/kg.
 
 |
 
@@ -8592,7 +9048,7 @@ Thiodipropionate de didodécyle.
 
 |
 
-LMS (T) = 5 mg / kg (21).
+LMS (T) = 5 mg/kg (21).
 
 |
 
@@ -8608,7 +9064,7 @@ Thiodipropionate de dioctadécyle.
 
 |
 
-LMS (T) = 5 mg / kg (21).
+LMS (T) = 5 mg/kg (21).
 
 |
 
@@ -8624,7 +9080,7 @@ Résines (hydrogénées) d'hydrocarbures pétroliers.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -8640,7 +9096,7 @@ Bis [3-(3-di-tert-butyl-4-hydroxy-5-méthylphényl) propionate] de triéthylène
 
 |
 
-LMS = 9 mg / kg.
+LMS = 9 mg/kg.
 
 |
 
@@ -8656,7 +9112,7 @@ Triisopropanolamine.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -8672,7 +9128,7 @@ LMS = 5 mg / kg.
 
 |
 
-LMS = 0, 05 mg / kg.
+LMS = 0,05 mg/kg.
 
 |
 
@@ -8690,7 +9146,7 @@ benzyl)-1, 3, 5-triazine-2, 4, 6 (1H, 3H, 5H)-trione.
 
 |
 
-LMS = 6 mg / kg.
+LMS = 6 mg/kg.
 
 |
 
@@ -8708,7 +9164,7 @@ LMS = 6 mg / kg.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 
@@ -8726,7 +9182,7 @@ butane.
 
 |
 
-LMS = 5 mg / kg.
+LMS = 5 mg/kg.
 
 |
 

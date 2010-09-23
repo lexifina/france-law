@@ -100,11 +100,13 @@ Liste des monomères et autres substances de départ autorisés
 
 NUMÉRO
 
-référence (1) |
+référence (1)
 
-NUMÉRO CAS
+|
 
-(2) |
+NUMÉRO CAS (2)
+
+|
 
 DÉNOMINATION
 
@@ -868,7 +870,7 @@ Benzoguanamine.
 
 |
 
-Voir 2,4-diamino-6-phényle-1,3,5-triazine .
+Voir 2,4-diamino-6-phényle-1,3,5-triazine.
 
 |
 
@@ -976,7 +978,7 @@ Ether bis(2-hydroxyéthylique).
 
 |
 
-Voir Diéthylèneglycol .
+Voir Diéthylèneglycol. .
 
 |
 
@@ -992,7 +994,7 @@ Voir Diéthylèneglycol .
 
 |
 
-Voir 1,1, l-triméthylolpropane .
+Voir 1,1, l-triméthylolpropane.
 
 |
 
@@ -1086,7 +1088,7 @@ Ether bis(hydroxypropylique).
 
 |
 
-Voir Dipropylèneglycol .
+Voir Dipropylèneglycol.
 
 |
 
@@ -1542,9 +1544,29 @@ Chlore.
 
 |
 
-Voir Epichlorhydrine .
+Voir Epichlorhydrine.
 
 |
+
+14627
+
+|
+
+0000117-21-5 |
+
+Anhydride 3-chlorophtalique. |
+
+LMS = 0, 05 mg/kg (exprimée en acide 3-chlorophtalique). |
+
+14628
+
+|
+
+0000118-45-6 |
+
+Anhydride 4-chlorophtalique. |
+
+LMS = 0, 05 mg/kg (exprimée en acide 4-chlorophtalique). |
 
 14650
 
@@ -1650,6 +1672,20 @@ LMS = 0,05 mg/kg.
 
 |
 
+14876
+
+|
+
+0001076-97-7
+
+|
+
+Acide cyclohexane-1, 4-dicarboxylique. |
+
+LMS = 5 mg/kg.
+
+A employer uniquement pour la fabrication de polyesters. |
+
 14880
 
 |
@@ -1662,7 +1698,7 @@ LMS = 0,05 mg/kg.
 
 |
 
-Voir l,4-bis(hydroxyméthyl) cyclohexane) .
+Voir l,4-bis(hydroxyméthyl) cyclohexane).
 
 |
 
@@ -1840,13 +1876,17 @@ QMS = 5 mg/6 dm².
 
 |
 
-000652-67-5 |
+000652-67-5
+
+|
 
 1,4 : 3,6-Dianhydrosorbitol.
 
 |
 
-LMS = 5 mg / kg.A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate.
+LMS = 5 mg / kg.
+
+A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate.
 
 |
 
@@ -2608,6 +2648,18 @@ Glycérol.
 
 |
 
+18117
+
+|
+
+0000079-14-1 |
+
+Acide glycolique. |
+
+A n'employer qu'en contact indirect avec les denrées alimentaires, derrière une couche de téréphtalate de polyéthylène (PET).
+
+|
+
 18220
 
 |
@@ -2778,7 +2830,7 @@ Hydroquinone.
 
 |
 
-Voir 1,4-Dihydroxybenzène .
+Voir 1,4-Dihydroxybenzène.
 
 |
 
@@ -2910,7 +2962,9 @@ LMS (T) = 5 mg/kg (43).
 
 |
 
-000099-63-8 |
+000099-63-8
+
+|
 
 Dichlorure de l'acide isophthalique.
 
@@ -2948,7 +3002,7 @@ Isoprène.
 
 |
 
-Voir 2-Méthyl-1,3-butadiène .
+Voir 2-Méthyl-1,3-butadiène.
 
 |
 
@@ -3070,6 +3124,18 @@ LMS(T) = 30 mg/kg (4) (exprimé en acide maléique).
 
 |
 
+19965
+
+|
+
+0006915-15-7 |
+
+Acide malique. |
+
+A employer uniquement en tant que comonomère dans les polyesters aliphatiques, à concurrence de 1 % au plus sur une base molaire.
+
+|
+
 19975
 
 |
@@ -3082,7 +3148,7 @@ Mélamine.
 
 |
 
-Voir 2,4,6-Triamino-1,3,5-triazine .
+Voir 2,4,6-Triamino-1,3,5-triazine.
 
 |
 
@@ -3453,6 +3519,20 @@ Méthacrylonitrile.
 LMS = ND (LD = 0,020 mg/kg, tolérance analytique comprise).
 
 |
+
+21498
+
+|
+
+0002530-85-0
+
+|
+
+Méthacrylate de 3-triméthoxysilylpropyle. |
+
+LMS = 0, 05 mg/kg.
+
+A employer uniquement comme agent pour le traitement de surface de charges inorganiques. |
 
 21520
 
@@ -4438,7 +4518,7 @@ Gomme de colophane.
 
 |
 
-Voir Colophane .
+Voir Colophane.
 
 |
 
@@ -5202,7 +5282,9 @@ QM = 2 mg/kg de PF.
 
 |
 
-000078-08-0 |
+000078-08-0
+
+|
 
 Vinyltriéthoxysilane.
 
@@ -5252,7 +5334,9 @@ NUMÉRO
 
 référence
 
-(1) |
+(1)
+
+|
 
 NUMÉRO CAS
 
@@ -5284,7 +5368,7 @@ Acide 1,2,4-benzènetricarboxylique.
 
 |
 
-Voir Acide trimellitique .
+Voir Acide trimellitique.
 
 |
 

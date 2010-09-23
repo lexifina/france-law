@@ -24,7 +24,7 @@ DÉNOMINATION
 
 |
 
-RESTRICTIONS ET / OU SPÉCIFICATIONS
+RESTRICTIONS ET/OU SPÉCIFICATIONS
 
 (4)
 
@@ -134,7 +134,7 @@ Benzophénone.
 
 |
 
-4, 4'-bis (2-benzoxazolyl) stilbène.
+4,4'-bis (2-benzoxazolyl) stilbène.
 
 |
 
@@ -146,7 +146,7 @@ Benzophénone.
 
 |
 
-2, 5-bis (5-tert-butyl-2-benzoxazolyl) thiophène.
+2,5-bis (5-tert-butyl-2-benzoxazolyl) thiophène.
 
 |
 
@@ -170,7 +170,7 @@ Bis (isooctyle thioglycolate) de bis (2-carbobutoxyéthyl) étain.
 
 |
 
-N, N'-bis [3-(3, 5-di-tert-butyl-4-hydroxyphenyl) propionyl] hydrazide.
+N, N'-bis [3-(3,5-di-tert-butyl-4-hydroxyphenyl) propionyl] hydrazide.
 
 |
 
@@ -387,6 +387,18 @@ Bis (isooctyle thioglycolate) de di-n-dodécylétain.
 |
 
 2, 2'-dihydroxy-4-méthoxybenzophénone.
+
+|
+
+49080
+
+|
+
+852282-89-4
+
+|
+
+N-(2, 6-diisopropylphényl)-6-[4-(1, 1, 3, 3-tétraméthylbutyl) phénoxy]-1H-benzo [de] isoquinolin-1, 3 (2H)-dione.
 
 |
 
@@ -702,6 +714,16 @@ Résines (hydrogénées) d'hydrocarbures pétroliers.
 
 |
 
+72141
+
+|
+
+0018600-59-4 |
+
+2, 2'-(1, 4-phénylène) bis [4H-3, 1-benzoxazin-4-one].
+
+|
+
 72160
 
 |
@@ -759,6 +781,16 @@ Phosphite de bis (2, 4-di-tert-butyl-6-méthylphényle) éthyle.
 |
 
 Phosphite de tris (nonyl-et / ou dinonylphényle).
+
+|
+
+76807
+
+|
+
+0007308-26-5 |
+
+Polyester d'acide adipique et d'1, 3-butanediol, d'1, 2-propanediol ou de 2-éthyl-1-hexanol.
 
 |
 
@@ -855,6 +887,16 @@ Salicylate de 4-tert-butylphényle.
 |
 
 Ether de tétradécyl-poly (oxyde d'éthylène) (3-8) avec l'acide glycolique.
+
+|
+
+92475
+
+|
+
+0203255-81-6 |
+
+Ester cyclique de 3, 3', 5, 5'-tétrakis (tert-butyl)-2, 2'-dihydroxybiphényl et d'acide [3-(3-tert-butyl-4-hydroxy-5-méthylphényl) propyl] oxyphosphonique.
 
 |
 
