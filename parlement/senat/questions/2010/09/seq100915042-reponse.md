@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915042
+
+- Question : [SEQ100915042](seq100915042.md) — Centre d'enfouissement de déchets sur le territoire des communes de Cayres et Seneujols
+
+## Réponse
+
+*Écologie, JO du 2010-09-23, page 2490*
+
+Un dossier de demande d'autorisation, pour l'exploitation d'une installation de stockage de déchets non dangereux sur les communes de Cayres et Seneujols en Haute-Loire, a été déposé auprès des services de l'État par la société Sita-Suez le 15 décembre 2009. Le dossier est actuellement en cours d'instruction. Une fois le dossier complet, le projet fera l'objet d'une enquête publique d'une durée d'un mois minimum, pendant laquelle le public pourra s'exprimer. Seront également sollicités, les avis des conseils municipaux des communes concernées et de plusieurs services administratifs (Institut national des appellations d'origine, direction régionale de l'environnement, de l'aménagement et du logement, direction des territoires, service départemental d'incendie et de secours, etc.). Les informations, ainsi recueillies, seront ensuite regroupées dans un rapport établi par l'inspection des installations classées, rapport qu'elle présentera au conseil départemental de l'environnement et des risques sanitaires. Par ailleurs, le projet doit être compatible avec le plan départemental d'élimination des déchets ménagers et assimilés de la Haute-Loire. Le préfet de Haute-Loire se prononcera alors sur la base de tous ces éléments. Si une autorisation préfectorale était délivrée, l'exploitant se devrait de respecter les conditions strictes de fonctionnement contenues dans ce rapport afin de limiter les nuisances et les dangers susceptibles d'être générés par les installations. Les services de l'État resteront vigilants quant au suivi de la conception, de la construction et de l'exploitation des installations.
