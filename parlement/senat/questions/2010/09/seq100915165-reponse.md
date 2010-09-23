@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915165
+
+- Question : [SEQ100915165](seq100915165.md) — Délivrance et signification d'actes judiciaires
+
+## Réponse
+
+*Justice, JO du 2010-09-23, page 2509*
+
+Par l'effet de la mise en place de dispositifs de fermeture des portes d'accès aux immeubles, trop souvent les huissiers de justice ne peuvent accéder à l'intérieur des bâtiments. Ils rencontrent ainsi des difficultés pour exercer leur mission de signification, alors que la remise de l'acte à la personne concernée permet d'assurer le respect du contradictoire et de garantir la sécurité juridique. En outre, s'agissant de leur mission d'exécution des décisions de justice, le droit au recours juridictionnel effectif, tel qu'interprété par la Cour européenne des droits de l'Homme implique que le titulaire d'un titre exécutoire ait les moyens de le mettre en oeuvre. Conscient de la nécessité de permettre aux huissiers de justice d'accomplir pleinement leurs missions, le Gouvernement a émis un avis favorable à un amendement à l'article 3 de la proposition de loi relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires. Ce texte, adopté par l'Assemblée nationale en première lecture, le 30 juin 2010 crée, à la section 2 du chapitre Ier du livre Ier du code de la construction et de l'habitation, une sous-section 5 intitulée « Accès des huissiers de justice aux parties communes des immeubles » contenant un article L. 111-6-6, aux termes duquel : « Le propriétaire ou, en cas de copropriété, le syndicat des copropriétaires représenté par le syndic, permet aux huissiers de justice d'accéder, pour l'accomplissement de leurs missions de signification ou d'exécution, aux parties communes des immeubles d'habitation. Les modalités d'application du présent article sont définies par décret en Conseil d'État. » Le texte est actuellement au Sénat pour une deuxième lecture.
