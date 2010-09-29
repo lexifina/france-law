@@ -96,7 +96,7 @@ Académie de la Guadeloupe
 
 |
 
-Lycée Gerville (*), Réache
+Lycée Gerville Réache (*), Basse-Terre
 
 |
 
@@ -108,7 +108,7 @@ Académie de Lille
 
 |
 
-Lycée Marguerite de Flandre, Gondecourt
+Lycée Marguerite de Flandre (*), Gondecourt
 
 |
 
@@ -118,7 +118,7 @@ Rentrée scolaire 2010-2011
 
 |
 
-Lycée Gambetta, Tourcoing
+Lycée Gambetta (*), Tourcoing
 
 |
 
@@ -128,7 +128,7 @@ Rentrée scolaire 2010-2011
 
 |
 
-Lycée Montebello, Lille
+Lycée Montebello (*), Lille
 
 |
 
