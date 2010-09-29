@@ -2692,6 +2692,112 @@ classe normale
 
 |
 
+CAPL / TMD
+
+Ile-de-France
+
+Présidence :
+
+Le chef du service parisien de soutien de l'administration centrale
+
+|
+
+Agents en fonctions dans les organismes extérieurs implantés dans les départements suivants : Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94) et Val-d'Oise (95)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
+
+|
+
+Technicien de classe exceptionnelle
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
+Agents affectés à l'étranger
+
+Agents en fonctions dans les sociétés DCNs, GIAT et au sein du Commissariat à l'énergie atomique
+
+Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
+
+|
+
+Technicien de classe supérieure
+
+|
+
+2
+
+|
+
+2
+
+|
+
+6 représentants titulaires et 6 représentants suppléants
+
+|
+
+Agents en fonctions au sein des établissements publics suivants :
+
+- Institution nationale des invalides ;
+
+Musée de l'armée ;
+
+- musée de l'air et de l'espace ;
+
+- musée de la marine ;
+
+- établissement de communication et de production audiovisuelle de la défense ;
+
+- Office national des anciens combattants ;
+
+- Ecole polytechnique ;
+
+- Ecole nationale supérieure des techniques avancées ;
+
+- Etablissement public d'insertion de la défense ;
+
+- Institut des hautes études de défense nationale ;
+
+Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
+
+Personnels mis à disposition et administrés par les personnels de l'administration centrale.
+
+|
+
+Technicien de classe normale
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
 CAPL/TMD
 
 SUD
@@ -3519,5 +3625,19 @@ de 3e classe
 |
 
 2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
