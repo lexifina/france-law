@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513475
+
+- Question : [SEQ100513475](seq100513475.md) — Statut des photographes territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 2010-09-30, page 2552*
+
+Le secrétaire d'État chargé de la fonction publique a pris connaissance avec intérêt de la question relative au statut des photographes territoriaux. La construction statutaire dans la fonction publique territoriale a été réalisée avec le souci constant de prendre en compte les qualifications et métiers nécessaires pour répondre au mieux aux besoins des collectivités locales et limiter ainsi strictement le recours à des agents non titulaires. Ces différents métiers ont majoritairement été regroupés au sein de cadres d'emplois à vocation généraliste, de façon à favoriser la mobilité et à assurer la fluidité des carrières. Par ailleurs, la réforme actuelle dans la fonction publique territoriale de la catégorie B, et notamment de la filière technique, devrait aboutir à la création du cadre d'emplois des techniciens territoriaux, par fusion des anciens cadres d'emplois des contrôleurs territoriaux et des techniciens supérieurs territoriaux. En outre, ce projet de décret prévoit que les techniciens territoriaux peuvent exercer leurs fonctions dans les domaines des techniques de la communication et des activités artistiques et que les concours de recrutement sont ouverts dans plusieurs des spécialités dont l'artisanat et les métiers d'art. Par conséquent, les agents de catégorie C pourraient passer le concours de technicien territorial en choisissant cette option à laquelle peut se raccrocher le métier de photographe territorial. Au cours des discussions qui ont eu lieu au sein du groupe de travail de la réforme de la catégorie B de la filière technique, la création d'un cadre d'emplois spécifique aux photographes territoriaux n'a pas été envisagée.
