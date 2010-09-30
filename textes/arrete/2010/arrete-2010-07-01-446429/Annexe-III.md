@@ -2,15 +2,15 @@
 
 |
 
-QUOTA 2010 (en t)
+QUOTA 2010 (en tonnes)
 
-en océan Atlantique
+en océan Atlantique à l'est
 
-à l'est de la longitude 45° Ouest
+de la longitude 45° Ouest
 
 |
 
-QUOTA 2010 (en t)
+QUOTA 2010 (en tonnes)
 
 en mer Méditerranée
 
@@ -40,11 +40,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-1
+0
 
 |
 
@@ -56,7 +56,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-1
+0
 
 |
 
@@ -68,7 +68,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-3
+0
 
 |
 
@@ -76,11 +76,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
+Navires adhérant à l'union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-80
+61
 
 |
 
@@ -88,7 +88,7 @@ Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+Navires adhérant à l'Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -112,11 +112,11 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+Navires adhérant à l'Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-2
+14, 5
 
 |
 
@@ -136,11 +136,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
+Navires adhérant à l'Organisation de producteurs de la Côtinière
 
 |
 
-1
+0
 
 |
 
@@ -152,7 +152,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-2
+1
 
 |
 
@@ -164,7 +164,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-74
+100, 5
 
 |
 
@@ -176,19 +176,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-1
-
-|
-
 0
-
-|
-
-Réserve nationale pour les navires immatriculés en océan Atlantique
-
-|
-
-12
 
 |
 
