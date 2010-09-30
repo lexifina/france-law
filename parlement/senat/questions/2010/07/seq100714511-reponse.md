@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714511
+
+- Question : [SEQ100714511](seq100714511.md) — Difficultés posées par le principe de la réduction des délais de paiement pour les entreprises du secteur d'activité du marché saisonnier
+
+## Réponse
+
+*Commerce, JO du 2010-09-30, page 2544*
+
+L'ampleur des délais de paiement en France par rapport à la moyenne européenne est une préoccupation majeure du Gouvernement qui s'attache à redresser cette situation en concertation avec les milieux professionnels concernés. La loi a ainsi limité à 60 jours calendaires ou 45 jours fin de mois le délai maximal de paiement et a fixé des intérêts de retard dissuasifs en cas de dépassement, tout en prévoyant des aménagements temporaires dans les secteurs dans lesquels cela était justifié. L'accord dérogatoire relatif au secteur de l'agroéquipement a répondu au souhait de certains secteurs spécifiques de bénéficier d'un délai pour réorganiser leur modèle économique. Le Gouvernement est attentif à la situation des entreprises qui connaissent un renforcement de leur besoin en fonds de roulement consécutivement à la mise en oeuvre de la LME et que des mesures appropriées en leur faveur ont été prononcées dès 2009 dans le cadre du plan de relance PME. Parmi les mesures édictées figurent notamment celles visant à la création d'un fonds de garantie qui a depuis été renforcé et à la mise en place d'une garantie OSEO ciblée sur les financements bancaires à court terme. Le Gouvernement n'entend toutefois pas remettre cette réforme en cause en autorisant la mise en oeuvre d'exceptions pérennes. La seule exemption à ce jour concerne un secteur tout à fait spécifique, parce que culturel, qui est celui du livre. Il s'agissait notamment d'éviter une remise en cause des fondements de la loi du 10 août 1981 relative au prix du livre et des mesures prises par l'État et les collectivités territoriales en faveur de la librairie.
