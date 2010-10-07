@@ -1,6 +1,6 @@
-# Article Annexe 2
+# Article Annexe II
 
-GRILLES NATIONALES DES CAS DE NON-CONFORMITÉ POUR 2009
+GRILLES NATIONALES DES CAS DE NON-CONFORMITÉ POUR 2010
 
 GRILLE ENVIRONNEMENT
 
@@ -32,7 +32,7 @@ Conservation des oiseaux sauvages, conservation des habitats
 
 Respect des obligations en matière de :
 
-- non-destruction des espèces végétales et animales protégées et de leurs habitats ;
+-non-destruction des espèces végétales et animales protégées et de leurs habitats ;
 
 |
 
@@ -48,7 +48,7 @@ non
 
 |
 
-- non-introduction d'une espèce animale ou végétale non indigène.
+-non-introduction d'une espèce animale ou végétale non indigène.
 
 |
 
@@ -100,6 +100,22 @@ non
 
 |
 
+Pour les exploitations soumises à la réglementation ICPE, épandage et stockage des effluents d'élevage dans le respect des distances d'éloignement, définies au titre des ICPE, par rapport aux points d'eau souterraine
+
+|
+
+Non-respect des distances d'épandage (plan d'épandage) ou de stockage
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
 Boues d'épuration
 
 |
@@ -114,11 +130,11 @@ ou
 
 Absence d'au moins un des renseignements suivants :
 
-- nom ou dénomination sociale de l'agriculteur, du producteur de boues,
+-nom ou dénomination sociale de l'agriculteur, du producteur de boues ;
 
-- adresse de l'agriculteur, du producteur de boues,
+-adresse de l'agriculteur, du producteur de boues ;
 
-- signature de l'agriculteur, du producteur de boues.
+-signature de l'agriculteur, du producteur de boues.
 
 |
 
@@ -136,11 +152,11 @@ Accord écrit complet.
 
 Document incomplet : absence d'au moins une des données suivantes :
 
-- liste des parcelles concernées par l'épandage ;
+-liste des parcelles concernées par l'épandage ;
 
-- référence de l'arrêté préfectoral d'autorisation ou récépissé de déclaration ou, à défaut, absence de copie de la lettre du service chargé de la police des eaux attestant que les pratiques d'épandage respectent la réglementation nationale ;
+-référence de l'arrêté préfectoral d'autorisation ou récépissé de déclaration ou, à défaut, absence de copie de la lettre du service chargé de la police des eaux attestant que les pratiques d'épandage respectent la réglementation nationale, ou attestation sur l'honneur du producteur de boues reconnaissant qu'il n'est pas soumis au seuil de déclaration des épandages ;
 
-- lettre d'engagement du producteur à épandre dans les règles.
+-lettre d'engagement du producteur à épandre dans les règles.
 
 |
 
@@ -160,7 +176,11 @@ Existence d'un plan prévisionnel de fumure et d'un cahier d'enregistrement des 
 
 |
 
-Au moins un document absent ou au moins un document très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Au moins un des deux documents absent
+
+ou
+
+Au moins un des deux documents très incomplet (plus de vingt données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -174,7 +194,13 @@ non
 
 |
 
-Au moins un document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Au moins un document incomplet :
+
+-vingt données manquantes ou moins au total ;
+
+ou
+
+-plus de vingt données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -234,7 +260,7 @@ Respect des périodes pendant lesquelles l'épandage est interdit.
 
 |
 
-Dates d'épandage absentes ou non conformes et non-présentation des preuves d'engagement PMPOA.
+Dates d'épandage absentes ou non conformes et non-présentation des preuves d'engagement PMPOA ou dans un PMBE finançant la mise aux normes dans les zones vulnérables nouvellement créées ou pour les jeunes agriculteurs.
 
 |
 
@@ -246,7 +272,7 @@ non
 
 |
 
-Epandage des effluents d'élevage dans le respect des distances par rapport aux points d'eau.
+Epandage des effluents d'élevage dans le respect des distances par rapport aux points d'eau de surface.
 
 |
 
@@ -266,7 +292,7 @@ Présence de capacités de stockage des effluents suffisantes et d'installations
 
 |
 
-Capacités de stockage insuffisantes et absence de présentation des preuves d'engagement dans le PMPOA.
+Capacités de stockage insuffisantes et absence de présentation des preuves d'engagement dans le PMPOA ou dans un PMBE finançant la mise aux normes dans les zones vulnérables nouvellement créées ou pour les jeunes agriculteurs.
 
 |
 
@@ -280,7 +306,7 @@ non
 
 |
 
-Fuite visible et absence de présentation des preuves d'engagement dans le PMPOA.
+Fuite visible et absence de présentation des preuves d'engagement dans le PMPOA ou dans un PMBE finançant la mise aux normes dans les zones vulnérables nouvellement créées ou pour les jeunes agriculteurs.
 
 |
 
@@ -308,7 +334,7 @@ non
 
 |
 
-GRILLE BONNES CONDITIONS AGRICOLES ET ENVIRONNEMENTALES
+GRILLE BONNES CONDITIONS AGRICOLES ET ENVIRONNEMENTALES (BCAE)
 
 |
 
@@ -332,15 +358,15 @@ possible ?
 
 |
 
-BCAE I : Mise en place d'une surface minimale en couvert environnemental (SCE)
+BCAE I : Bandes tampons le long des cours d'eau
 
 |
 
-Réalisation de la surface en couvert environnemental et localisation prioritaire le long des cours d'eau sous forme de bande.
+Réalisation de la bande tampon.
 
 |
 
-Absence de surface en couvert environnemental.
+Absence de couvert autorisé sur toute la bande tampon le long du ou des cours d'eau BCAE traversant l'exploitation.
 
 |
 
@@ -354,7 +380,7 @@ non
 
 |
 
-Non-respect de la localisation prioritaire de la surface en couvert environnemental le long des cours d'eau.
+Pratique d'entretien interdite sur la bande tampon le long ou des cours d'eau BCAE traversant l'exploitation.
 
 |
 
@@ -368,67 +394,7 @@ non
 
 |
 
-Localisation prioritaire le long des cours d'eau respectée mais surface en couvert environnemental inférieure à la surface à réaliser.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Présence du couvert environnemental sur les périodes minimales obligatoires.
-
-|
-
-Implantation non effectuée après la date limite d'implantation ou, en cas de rotation, retournement avant la date limite du 31 août.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-|
-
-Couvert non autorisé sur la surface en couvert environnemental.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Entretien des couverts environnementaux.
-
-|
-
-Pratiques d'entretien interdites constatées le long des cours d'eau.
-
-|
-
-3 %
-
-|
-
-non
-
-|
-
-|
-
-Pratiques d'entretien interdites constatées en dehors des bordures de cours d'eau.
+Absence de couvert autorisé sur une partie de la bande tampon le long du ou des cours d'eau BCAE traversant l'exploitation.
 
 |
 
@@ -444,7 +410,7 @@ BCAE II : Non-brûlage des résidus de culture
 
 |
 
-Non-brûlage des résidus de cultures sauf dérogation.
+Non-brûlage des résidus de cultures, sauf dérogation.
 
 |
 
@@ -464,7 +430,7 @@ BCAE III : Diversité des assolements
 
 |
 
-Respect des critères de diversité ou mise en œuvre d'une mesure alternative
+Respect des critères de diversité ou mise en œuvre d'une mesure alternative.
 
 |
 
@@ -518,11 +484,11 @@ BCAE V : Entretien minimal des terres
 
 |
 
-Entretien des terres en production.
+Entretien des terres cultivées.
 
 |
 
-Entretien des terres cultivées non conforme aux pratiques culturales locales.
+Entretien des terres cultivées non conforme aux règles d'entretien des terres définies par les arrêtés préfectoraux et/ ou aux pratiques culturales locales.
 
 |
 
@@ -538,7 +504,7 @@ non
 
 Entretien des oliveraies et des vignes :
 
-- constat d'arrachage des oliviers en l'absence de dérogation ;
+-constat d'arrachage des oliviers en l'absence de dérogation ;
 
 |
 
@@ -552,7 +518,7 @@ non
 
 |
 
-- non-respect des règles d'entretien définies par les arrêtés préfectoraux.
+-non-respect des règles d'entretien définies par les arrêtés préfectoraux.
 
 |
 
@@ -576,7 +542,7 @@ Entretien des cultures pérennes ligneuses et ligno-cellulosiques destinées à 
 
 |
 
-- utilisation de paillages non biodégradables lors de la plantation ;
+-utilisation de paillages non biodégradables lors de la plantation ;
 
 |
 
@@ -590,7 +556,7 @@ non
 
 |
 
-- non-respect des règles d'entretien définies par arrêté préfectoral.
+-non-respect des règles d'entretien définies par arrêté préfectoral.
 
 |
 
@@ -606,7 +572,7 @@ Entretien des terres gelées.
 
 |
 
-Non-respect des règles d'entretien des terres gelées définies par les arrêtés préfectoraux.
+Entretien non conforme aux règles d'entretien des terres définies par les arrêtés préfectoraux.
 
 |
 
@@ -618,61 +584,15 @@ non
 
 |
 
-Entretien des surfaces en herbe.
+BCAE VI : Gestion des surfaces en herbe
 
 |
 
-Absence d'entretien par pâture ou par fauche.
+Exigence de productivité minimale.
 
 |
 
-1 %
-
-|
-
-non
-
-|
-
-Entretien des terres non mises en production.
-
-|
-
-Non-respect des règles d'entretien des terres non mises en production définies par les arrêtés préfectoraux.
-
-|
-
-intentionnelle
-
-|
-
-non
-
-|
-
-BCAE VI : Maintien des prairies ou pâturages permanents NON APPLICABLE EN 2009
-
-|
-
-Respect des mesures définies au niveau départemental.
-
-|
-
-Retournement malgré un refus signifié.
-
-|
-
-intentionnelle
-
-|
-
-non
-
-|
-
-|
-
-Demande préalable d'autorisation de retournement non effectuée.
+Chargement minimal ou rendement minimal non respecté avec une marge de plus de 5 %.
 
 |
 
@@ -686,7 +606,53 @@ non
 
 |
 
-Réimplantation non effectuée alors que demandée.
+Chargement minimal ou rendement minimal non respecté dans une marge de 5 %.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+Maintien de la surface en pâturages permanents (*) déclarée en année de référence.
+
+|
+
+Retournement de pâturages permanents sans aucune réimplantation
+
+|
+
+intentionnelle
+
+|
+
+non
+
+|
+
+|
+
+Retournement de pâturages permanents avec réimplantation effectuée mais insuffisante.
+
+|
+
+3 %
+
+|
+
+non
+
+|
+
+Maintien de la surface en prairies temporaires déclarée en année de référence.
+
+|
+
+Retournement de prairies temporaires au-delà du seuil de tolérance, sans aucune réimplantation.
 
 |
 
@@ -700,7 +666,93 @@ non
 
 |
 
-Réimplantation effectuée mais insuffisante (marges de tolérance dépassées).
+Retournement de prairies temporaires, au-delà du seuil de tolérance, réimplantation effectuée mais insuffisante.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+Respect des mesures conservatoires réglementaires en cas de baisse du ratio national de 10 % au moins par rapport au ratio de référence.
+
+|
+
+Réimplantation de terres réaffectées non effectuée alors que demandée.
+
+|
+
+intentionnelle
+
+|
+
+non
+
+|
+
+|
+
+Réimplantation de terres réaffectées effectuée mais insuffisante.
+
+|
+
+5 %
+
+|
+
+non
+
+|
+
+(*) Pâturages permanents = prairies naturelles, prairies temporaires de plus de 5 ans, estives, landes et parcours.
+
+|
+
+BCAE VII : Maintien des particularités topographiques
+
+Seules les exploitations dont la SAU est supérieure à 15 ha sont concernées par cette norme BCAE Maintien des particularités topographiques
+
+(Nota.-Le pourcentage de particularités topographiques est fixé à 1 % de la SAU en 2010.)
+
+|
+
+Absence de maintien des particularités topographiques.
+
+|
+
+Absence de particularités topographiques.
+
+|
+
+intentionnelle
+
+|
+
+non
+
+|
+
+|
+
+Non-respect du pourcentage de particularités topographiques.
+
+|
+
+3 %
+
+|
+
+non
+
+|
+
+|
+
+Non-respect des pratiques d'entretien fixées par arrêté préfectoral.
 
 |
 
@@ -830,9 +882,7 @@ Respect des textes réglementaires fixant des prescriptions d'emploi particuliè
 
 |
 
-Non-respect d'au moins un texte, notamment en matière de zone non traitée (ZNT) en bordure des points d'eau (*) pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
-
-(*) En 2009, cours d'eau définis au titre des BCAE.
+Non-respect d'au moins un texte, notamment en matière de zone non traitée (ZNT) en bordure des cours d'eau fixés par l'arrêté préfectoral BCAE et les plans d'eau de plus de 10 ha pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
 
 |
 
@@ -958,7 +1008,7 @@ Registre d'élevage.
 
 |
 
-Non-présentation au moment du contrôle du compte-rendu de la visite sanitaire bovine obligatoire lorsqu'elle a eu lieu.
+Non-présentation au moment du contrôle du dernier compte rendu de la visite sanitaire bovine obligatoire lorsqu'elle a eu lieu.
 
 |
 
@@ -1002,9 +1052,9 @@ non
 
 Absence d'au moins un :
 
-- bon de livraisons ou facture pour les médicaments non soumis à prescription ;
+-bon de livraisons ou facture pour les médicaments non soumis à prescription ;
 
-- bon de livraison, facture ou étiquette pour les aliments pour animaux.
+-bon de livraison, facture ou étiquette pour les aliments pour animaux.
 
 |
 
@@ -1034,9 +1084,9 @@ non
 
 Absence d'au moins un enregistrement des traitements médicamenteux dans les cas suivants :
 
-- les ordonnances sont absentes ;
+-les ordonnances sont absentes ;
 
-- les ordonnances sont présentes mais les animaux traités sont déjà sortis de l'exploitation.
+-les ordonnances sont présentes mais les animaux traités sont déjà sortis de l'exploitation.
 
 |
 
@@ -1050,7 +1100,7 @@ non
 
 |
 
-Absence de 1 à 3 enregistrements des traitements médicamenteux avec ordonnances présentes et animaux traités toujours présents sur l'exploitation.
+Absence de un à trois enregistrements des traitements médicamenteux avec ordonnances présentes et animaux traités toujours présents sur l'exploitation.
 
 |
 
@@ -1078,9 +1128,9 @@ non
 
 |
 
-- les documents définissant le temps de retrait sont absents ;
+-les documents définissant le temps de retrait sont absents ;
 
-- les documents définissant le temps de retrait sont présents mais les animaux concernés sont déjà sortis de l'exploitation.
+-les documents définissant le temps de retrait sont présents mais les animaux concernés sont déjà sortis de l'exploitation.
 
 |
 
@@ -1236,7 +1286,7 @@ Mesures de prophylaxie et de police sanitaire en cas de zoonose alimentaire rég
 
 |
 
-Non-réalisation malgré une notification écrite de la part de la DDSV des tests de dépistage permettant l'obtention et/ou le maintien d'une qualification sanitaire pour la brucellose et la tuberculose chez les bovins/pour la brucellose chez les petits ruminants.
+Non-réalisation malgré une notification écrite de la part de la DDSV des tests de dépistage permettant l'obtention et/ ou le maintien d'une qualification sanitaire pour la brucellose et la tuberculose chez les bovins/ pour la brucellose chez les petits ruminants.
 
 |
 
@@ -1250,7 +1300,7 @@ non
 
 |
 
-Non-respect des mesures de police sanitaire prescrites par un arrêté préfectoral de mise sous surveillance, ou par un arrêté portant déclaration d'infection d'une zoonose réputée contagieuse.
+Non-respect des mesures de police sanitaire prescrites par un arrêté préfectoral de mise sous surveillance, ou par un arrêté portant déclaration d'infection d'une maladie transmissible à l'homme réputée contagieuse.
 
 |
 
@@ -1280,7 +1330,7 @@ non
 
 |
 
-Vérification du-respect des bonnes pratiques d'hygiène de la traite : attestation de contrôle de la machine à traire effectuée sur les 18 derniers mois.
+Vérification du respect des bonnes pratiques d'hygiène de la traite : attestation de contrôle de la machine à traire effectuée sur les 18 derniers mois conformément à la norme NF ISO 6690.
 
 |
 
@@ -1292,7 +1342,49 @@ non
 
 |
 
-Respect des règles d'identification et de marquage des œufs
+|
+
+Respect de la séparation des locaux de stabulation avec les locaux de stockage du lait et du colostrum ou travaux de mise en œuvre effective de la séparation prévue dans le cadre d'un plan de mise aux normes dont l'échéance a fait l'objet d'un report validé par l'administration.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+Respect des règles d'identification et de marquage des œufs.
+
+|
+
+Salubrité des œufs dans l'élevage : présence d'œufs moisis et/ ou de condensation sur leur coquille.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+|
+
+Conditions de stockage des œufs dans l'élevage : présence d'odeurs étrangères dans le local de stockage d'œufs et/ ou local de stockage des œufs en mauvais état d'entretien et/ ou local de stockage ne permettant pas de soustraire les œufs à l'action directe du soleil.
+
+|
+
+1 %
+
+|
+
+non
+
+|
 
 |
 
@@ -1354,19 +1446,19 @@ Substances interdites
 
 |
 
-Résultats d'analyse du plan de surveillance de l'année 2009
+Résultats d'analyse du plan de surveillance de l'année 2010
 
 |
 
 Résultat non conforme avec présence d'une des substances suivantes :
 
-- thyréostatiques ;
+-thyréostatiques ;
 
-- stilbènes, dérivés des stilbènes, leurs sels et esters ;
+-stilbènes, dérivés des stilbènes, leurs sels et esters ;
 
-- substances -agonistes ;
+-substances-agonistes ;
 
-- substances à effet œstrogène, androgène ou gestagène.
+-substances à effet œstrogène, androgène ou gestagène.
 
 |
 
@@ -1444,7 +1536,7 @@ Marquage des animaux.
 
 |
 
-Entre 1 et 10 animaux sans marque auriculaire agréée (sauf un animal ou deux animaux de sexe différent, sans perte de traçabilité) ou avec deux marques illisibles et perte de traçabilité.
+Entre un et dix animaux sans marque auriculaire agréée (sauf un animal ou deux animaux de sexe différent, sans perte de traçabilité) ou avec deux marques illisibles et perte de traçabilité.
 
 |
 
@@ -1458,7 +1550,7 @@ non
 
 |
 
-Plus de 10 animaux sans marque auriculaire agréée ou avec deux marques illisibles et perte de traçabilité.
+Plus de dix animaux sans marque auriculaire agréée ou avec deux marques illisibles et perte de traçabilité.
 
 |
 
@@ -1472,7 +1564,7 @@ non
 
 |
 
-Animaux de plus de 20 jours avec une boucle manquante ou deux boucles illisibles sans perte de traçabilité, sans que l'EDE n'ait été prévenu :
+Animaux de plus de vingt jours avec une boucle manquante ou deux boucles illisibles sans perte de traçabilité, sans que l'EDE n'ait été prévenu :
 
 |
 
@@ -1482,7 +1574,7 @@ Animaux de plus de 20 jours avec une boucle manquante ou deux boucles illisibles
 
 |
 
-- 10 % ou plus et moins de 50 % des animaux et au moins 3 animaux ;
+10 % ou plus et moins de 50 % des animaux et au moins trois animaux ;
 
 |
 
@@ -1496,7 +1588,7 @@ non
 
 |
 
-- 50 % ou plus des animaux et au moins 3 animaux.
+50 % ou plus des animaux et au moins trois animaux.
 
 |
 
@@ -1510,7 +1602,7 @@ non
 
 |
 
-Au moins deux animaux portant le même numéro sur chacune des 4 boucles.
+Au moins deux animaux portant le même numéro sur chacune des quatre boucles.
 
 |
 
@@ -1534,7 +1626,7 @@ Marque de rebouclage non posée par le détenteur dans les délais :
 
 |
 
-- 10 boucles ou plus ;
+10 boucles ou plus ;
 
 |
 
@@ -1548,7 +1640,7 @@ non
 
 |
 
-- 50 boucles ou plus ;
+50 boucles ou plus.
 
 |
 
@@ -1620,7 +1712,7 @@ Notification des mouvements des animaux dans les délais et existence et validit
 
 |
 
-Absence de notification de mouvement (ou de naissance) constatée le jour du contrôle alors que plus de 7 jours (27 jours pour les naissances) se sont écoulés depuis l'événement :
+Absence de notification de mouvement (ou de naissance) constatée le jour du contrôle alors que plus de sept jours (27 jours pour les naissances) se sont écoulés depuis l'événement :
 
 |
 
@@ -1630,7 +1722,7 @@ Absence de notification de mouvement (ou de naissance) constatée le jour du con
 
 |
 
-- moins de 10 % des animaux ou moins de 3 animaux ;
+Moins de 10 % des animaux ou moins de trois animaux ;
 
 |
 
@@ -1644,7 +1736,7 @@ oui, immédiatement
 
 |
 
-- 10 % ou plus et moins de 30 % des animaux et au moins 3 animaux ;
+10 % ou plus et moins de 30 % des animaux et au moins trois animaux ;
 
 |
 
@@ -1658,7 +1750,7 @@ non
 
 |
 
-- 30 % ou plus et moins de 50 % des animaux et au moins 3 animaux ;
+30 % ou plus et moins de 50 % des animaux et au moins trois animaux ;
 
 |
 
@@ -1672,7 +1764,7 @@ non
 
 |
 
-- 50 % ou plus des animaux et au moins 3 animaux ou registre des bovins inexistant ou non présenté ou non tenu au moment du contrôle.
+50 % ou plus des animaux et au moins trois animaux ou registre des bovins inexistant ou non présenté ou non tenu au moment du contrôle.
 
 |
 
@@ -1684,7 +1776,7 @@ non
 
 |
 
-Cohérence passeport/animal.
+Cohérence passeport/ animal.
 
 |
 
@@ -1698,7 +1790,7 @@ Passeport présent mais animal physiquement absent (sauf animaux morts partis à
 
 |
 
-- moins de 50 % des animaux ou moins de 3 animaux ;
+Moins de 50 % des animaux ou moins de trois animaux ;
 
 |
 
@@ -1712,7 +1804,7 @@ non
 
 |
 
-- 50 % ou plus des animaux et au moins 3 animaux.
+50 % ou plus des animaux et au moins trois animaux.
 
 |
 
@@ -1736,7 +1828,7 @@ Passeport absent mais animal physiquement présent (sauf édition ou réédition
 
 |
 
-- moins de 10 % des animaux ou moins de 3 animaux ;
+Moins de 10 % des animaux ou moins de trois animaux ;
 
 |
 
@@ -1750,7 +1842,7 @@ oui, sous 1 mois
 
 |
 
-- 10 % ou plus et moins de 30 % des animaux et au moins 3 animaux ;
+10 % ou plus et moins de 30 % des animaux et au moins trois animaux ;
 
 |
 
@@ -1764,7 +1856,7 @@ non
 
 |
 
-- 30 % ou plus des animaux et au moins 3 animaux.
+30 % ou plus des animaux et au moins trois animaux.
 
 |
 
@@ -1790,7 +1882,7 @@ Numéro d'identification illisible sans demande de réédition :
 
 |
 
-- moins de 10 % des animaux ou moins de 3 animaux ;
+Moins de 10 % des animaux ou moins de trois animaux ;
 
 |
 
@@ -1804,7 +1896,7 @@ oui, sous 1 mois
 
 |
 
-- 10 % ou plus et moins de 30 % des animaux et au moins 3 animaux ;
+10 % ou plus et moins de 30 % des animaux et au moins trois animaux ;
 
 |
 
@@ -1818,7 +1910,7 @@ non
 
 |
 
-- 30 % ou plus des animaux et au moins 3 animaux.
+30 % ou plus des animaux et au moins trois animaux.
 
 |
 
@@ -1896,7 +1988,7 @@ Autorisation du matériel de marquage.
 
 |
 
-Matériel utilisé (matériel de tatouage ou ensemble boucles/pince) non autorisé ou mode de marquage non conforme.
+Matériel utilisé (matériel de tatouage ou ensemble boucles/ pince) non autorisé ou mode de marquage non conforme.
 
 |
 
@@ -1910,19 +2002,19 @@ non
 
 |
 
-Au moins 1 et moins de 5 documents de chargement ou de déchargement incomplets (absence dans le document d'une ou plusieurs des 6 données suivantes :
+Au moins un et moins de cinq documents de chargement ou de déchargement incomplets (absence dans le document d'une ou plusieurs des six données suivantes :
 
-- nom du transporteur ;
+-nom du transporteur ;
 
-- indicatif de marquage ;
+-indicatif de marquage ;
 
-- nombre d'animaux ;
+-nombre d'animaux ;
 
-- date du chargement et du déchargement ;
+-date du chargement et du déchargement ;
 
-- heure du chargement et du déchargement ;
+-heure du chargement et du déchargement ;
 
-- signature de l'éleveur.
+-signature de l'éleveur.)
 
 |
 
@@ -1938,19 +2030,19 @@ Documents de chargement et de déchargement.
 
 |
 
-5 documents et plus de chargement ou de déchargement incomplets (absence dans le document d'une ou plusieurs des 6 données suivantes :
+Cinq documents et plus de chargement ou de déchargement incomplets (absence dans le document d'une ou plusieurs des six données suivantes :
 
-- nom du transporteur ;
+-nom du transporteur ;
 
-- indicatif de marquage ;
+-indicatif de marquage ;
 
-- nombre d'animaux ;
+-nombre d'animaux ;
 
-- date du chargement et du déchargement ;
+-date du chargement et du déchargement ;
 
-- heure du chargement et du déchargement ;
+-heure du chargement et du déchargement ;
 
-- signature de l'éleveur.
+-signature de l'éleveur.)
 
 |
 
@@ -1996,7 +2088,7 @@ Certificats sanitaires.
 
 |
 
-Absence sur 12 mois de certificats sanitaires pour les animaux introduits en provenance d'autres pays.
+Absence sur douze mois de certificats sanitaires pour les animaux introduits en provenance d'autres pays.
 
 |
 
@@ -2028,11 +2120,21 @@ Identification ovine et caprine
 
 |
 
-Absence d'identification.
+Identification individuelle des animaux de plus de six mois.
 
 |
 
-Moins de 4 animaux ou moins de 10 % des animaux.
+Absence totale d'élément d'identification :
+
+|
+
+|
+
+|
+
+|
+
+Entre un et trois animaux ;
 
 |
 
@@ -2040,13 +2142,13 @@ Moins de 4 animaux ou moins de 10 % des animaux.
 
 |
 
-oui, sous 48 heures conformément à l'article L. 221.4 du code rural
+oui, immédiatement (*)
 
 |
 
 |
 
-Plus de 3 animaux et entre 10 % et moins de 30 % des animaux.
+Entre quatre et quatorze animaux ;
 
 |
 
@@ -2060,7 +2162,7 @@ non
 
 |
 
-Plus de 3 animaux et 30 % et plus des animaux.
+Entre 15 et 49 animaux ;
 
 |
 
@@ -2072,41 +2174,9 @@ non
 
 |
 
-Identification non conforme.
-
 |
 
-Moins de 4 animaux ou moins de 15 % des animaux.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, immédiatement
-
-|
-
-|
-
-Plus de 3 animaux et 15 % et plus des animaux.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Marque d'identification modifiée.
-
-|
-
-Au moins une marque auriculaire modifiée.
+50 animaux ou plus.
 
 |
 
@@ -2118,11 +2188,33 @@ non
 
 |
 
-Absence de recensement annuel.
+|
+
+Identification non conforme :
 
 |
 
-Absence de document de recensement annuel.
+|
+
+|
+
+|
+
+Trois animaux ou moins ou moins de 15 % des animaux ;
+
+|
+
+0 ou 1 %
+
+|
+
+oui, immédiatement
+
+|
+
+|
+
+Plus de trois animaux et entre 15 % et moins de 30 % des animaux ;
 
 |
 
@@ -2134,11 +2226,65 @@ non
 
 |
 
-Absence de réidentification des animaux nés dans un autre pays qu'en France.
+|
+
+Plus de trois animaux et 30 % et plus des animaux.
 
 |
 
-10 animaux et plus et EDE non prévenu dans les délais réglementaires.
+3 %
+
+|
+
+non
+
+|
+
+Recensement annuel.
+
+|
+
+Absence d'un document de recensement annuel à jour :
+
+|
+
+|
+
+|
+
+|
+
+-recensement réalisé et envoyé à l'EdE sans en conserver une copie ;
+
+|
+
+0 ou 1 %
+
+|
+
+oui, immédiatement
+
+|
+
+|
+
+-recensement non réalisé.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+Document de pose des repères d'identification et tableau de remplacement des repères d'identification.
+
+|
+
+Absence totale d'un document de pose des repères d'identification et d'un tableau de remplacement des repères d'identification.
 
 |
 
@@ -2152,7 +2298,101 @@ non
 
 |
 
-Existence d'un procès-verbal pour absence totale d'identification sur un lot importé.
+Document de pose des repères d'identification et/ ou tableau de remplacement des repères d'identification incomplet.
+
+|
+
+0 ou 1 %
+
+|
+
+oui, immédiatement
+
+|
+
+Documents de circulation.
+
+|
+
+Absence de document de circulation :
+
+|
+
+|
+
+|
+
+|
+
+-entre un et quatre documents de circulation absents ;
+
+|
+
+0 ou 1 %
+
+|
+
+oui, immédiatement
+
+|
+
+|
+
+-cinq documents de circulation ou plus absents, ou absence totale de document de circulation.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+|
+
+Documents de circulation incomplets :
+
+|
+
+|
+
+|
+
+|
+
+-entre un et neuf documents de circulation ayant au moins une catégorie d'informations manquante ;
+
+|
+
+0 ou 1 %
+
+|
+
+oui, immédiatement
+
+|
+
+|
+
+-dix documents de circulation ou plus ayant au moins une catégorie d'informations manquante.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+Registre d'identification.
+
+|
+
+Absence totale des éléments composant le registre : absence cumulée du recensement annuel, du document de pose des repères d'identification, du tableau de remplacement des repères d'identification et de l'ensemble des documents de circulation.
 
 |
 
@@ -2164,25 +2404,11 @@ non
 
 |
 
-Enregistrement des repères perdus ou devenus illisibles.
+Notifications de mouvement.
 
 |
 
-Moins de 30 % des enregistrements non effectués entre le numéro du repère d'identification jaune et le numéro du repère de remplacement provisoire rouge, ou moins de 30 % d'animaux pour lesquels le délai d'un an a été dépassé pour l'apposition d'un repère de remplacement à l'identique.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, immédiatement
-
-|
-
-|
-
-Plus de 30 % des enregistrements non effectués entre le numéro du repère d'identification jaune et le numéro du repère de remplacement provisoire rouge, ou plus de 30 % d'animaux pour lesquels le délai d'un an a été dépassé pour l'apposition d'un repère de remplacement à l'identique.
+Absence totale de notification de mouvement.
 
 |
 
@@ -2194,91 +2420,7 @@ non
 
 |
 
-|
-
-Moins de 10 % de différence entre le nombre d'animaux présents physiquement et le nombre d'animaux présents sur le registre.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, immédiatement
-
-|
-
-Concordance entre le registre et les animaux présents physiquement.
-
-|
-
-Entre 10 % et 30 % de différence entre le nombre d'animaux présents physiquement et le nombre d'animaux présents sur le registre.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-|
-
-30 % et plus de différence entre le nombre d'animaux présents physiquement et le nombre d'animaux présents sur le registre et/ou registre inexistant, non tenu ou non présenté.
-
-|
-
-3 %
-
-|
-
-non
-
-|
-
-Suivi des mouvements.
-
-|
-
-Sur au moins un et moins de 5 documents de circulation, absence totale d'information pour au moins une des catégories suivantes : détenteur d'arrivée, détenteur de départ, date et heure de départ, nom du transporteur, nombre d'animaux concernés.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, immédiatement
-
-|
-
-|
-
-Sur 5 documents de circulation et plus, absence totale d'information pour au moins une des catégories suivantes : détenteur d'arrivée, détenteur de départ, date et heure de départ, nom du transporteur, nombre d'animaux concernés.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-|
-
-Absence totale de document de circulation.
-
-|
-
-3 %
-
-|
-
-non
+(*) Sous réserve du maintien de la traçabilité.
 
 |
 
@@ -2314,13 +2456,11 @@ Tous élevages sauf veaux et porcs
 
 |
 
-1. Etat des bâtiments d'élevage
-
-(4 éléments d'appréciation).
+1. Etat des bâtiments d'élevage (4 éléments d'appréciation).
 
 |
 
-1. Circulation de l'air/qualité de l'air/taux de poussière/sources de renouvellement d'air.
+1. Circulation de l'air/ qualité de l'air/ taux de poussière/ sources de renouvellement d'air.
 
 |
 
@@ -2338,7 +2478,7 @@ non
 
 |
 
-2. Température/taux d'humidité/fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
+2. Température/ taux d'humidité/ fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
 
 |
 
@@ -2352,7 +2492,7 @@ non
 
 |
 
-3. Intensité d'éclairement/rythmes journaliers si éclairage artificiel.
+3. Intensité d'éclairement/ rythmes journaliers si éclairage artificiel.
 
 |
 
@@ -2370,7 +2510,7 @@ oui, sous 1 mois
 
 |
 
-4. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/système d'alarme opérationnel.
+4. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/ système d'alarme opérationnel.
 
 |
 
@@ -2422,7 +2562,7 @@ non
 
 |
 
-3. Absence de mutilation : seules les pratiques zootechniques permises par la réglementation nationale sont autorisées (au sens des Recommandations du Conseil de l'Europe relatives à la protection animale, on entend par mutilation une procédure pratiquée à des fins autres que thérapeutiques ou diagnostiques et entraînant l'endommagement ou la perte d'une partie sensible du corps ou la modification de la structure osseuse ).
+3. Absence de mutilation : seules les pratiques zootechniques permises par la réglementation nationale sont autorisées (au sens des Recommandations du Conseil de l'Europe relatives à la protection animale, on entend par mutilation une procédure pratiquée à des fins autres que thérapeutiques ou diagnostiques et entraînant l'endommagement ou la perte d'une partie sensible du corps ou la modification de la structure osseuse).
 
 |
 
@@ -2438,9 +2578,7 @@ non
 
 |
 
-3. Santé des animaux
-
-(5 éléments d'appréciation).
+3. Santé des animaux (5 éléments d'appréciation).
 
 |
 
@@ -2524,13 +2662,13 @@ non
 
 |
 
-4. Alimentation/abreuvement
+4. Alimentation/ abreuvement
 
 (3 éléments d'appréciation).
 
 |
 
-1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/absence de compétition/absence de souillure.
+1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/ absence de compétition/ absence de souillure.
 
 |
 
@@ -2548,7 +2686,7 @@ oui, sous 48 heures si l'anomalie constatée concerne le fonctionnement ou une �
 
 |
 
-2. Alimentation : quantité/qualité/fréquence.
+2. Alimentation : quantité/ qualité/ fréquence.
 
 |
 
@@ -2566,7 +2704,7 @@ non
 
 |
 
-3. Abreuvement : quantité/qualité/fréquence.
+3. Abreuvement : quantité/ qualité/ fréquence.
 
 |
 
@@ -2578,13 +2716,11 @@ non
 
 |
 
-5. Animaux placés à l'extérieur
-
-(2 éléments d'appréciation).
+5. Animaux placés à l'extérieur (2 éléments d'appréciation).
 
 |
 
-1. Protection contre les intempéries/prédateurs.
+1. Protection contre les intempéries/ prédateurs.
 
 |
 
@@ -2618,13 +2754,11 @@ Veaux
 
 |
 
-1. Etat des bâtiments d'élevage
-
-(7 éléments d'appréciation).
+1. Etat des bâtiments d'élevage (7 éléments d'appréciation).
 
 |
 
-1. Circulation de l'air/qualité de l'air/taux de poussière/sources de renouvellement d'air.
+1. Circulation de l'air/ qualité de l'air/ taux de poussière/ sources de renouvellement d'air.
 
 |
 
@@ -2642,7 +2776,7 @@ non
 
 |
 
-2. Température/taux d'humidité/fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
+2. Température/ taux d'humidité/ fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
 
 |
 
@@ -2656,7 +2790,7 @@ non
 
 |
 
-3. Intensité d'éclairement/rythmes journaliers si éclairage artificiel.
+3. Intensité d'éclairement/ rythmes journaliers si éclairage artificiel.
 
 |
 
@@ -2670,7 +2804,7 @@ oui, sous 1 mois
 
 |
 
-4. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/système d'alarme opérationnel.
+4. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/ système d'alarme opérationnel.
 
 |
 
@@ -2716,7 +2850,7 @@ non
 
 |
 
-7. Sols/aire de couchage : conception et drainage.
+7. Sols/ aire de couchage : conception et drainage.
 
 |
 
@@ -2738,7 +2872,9 @@ non
 
 |
 
-oui, immédiatement
+oui,
+
+immédiatement
 
 |
 
@@ -2780,7 +2916,7 @@ non
 
 |
 
-4. Absence de mutilation : seules les pratiques zootechniques permises par la réglementation nationale sont autorisées (au sens des Recommandations du Conseil de l'Europe relatives à la protection animale, on entend par mutilation une procédure pratiquée à des fins autres que thérapeutiques ou diagnostiques et entraînant l'endommagement ou la perte d'une partie sensible du corps ou la modification de la structure osseuse ).
+4. Absence de mutilation : seules les pratiques zootechniques permises par la réglementation nationale sont autorisées (au sens des Recommandations du Conseil de l'Europe relatives à la protection animale, on entend par mutilation une procédure pratiquée à des fins autres que thérapeutiques ou diagnostiques et entraînant l'endommagement ou la perte d'une partie sensible du corps ou la modification de la structure osseuse).
 
 |
 
@@ -2810,9 +2946,7 @@ non
 
 |
 
-3. Santé des animaux
-
-(5 éléments d'appréciation).
+3. Santé des animaux (5 éléments d'appréciation).
 
 |
 
@@ -2896,13 +3030,11 @@ non
 
 |
 
-4. Alimentation/abreuvement
-
-(5 éléments d'appréciation).
+4. Alimentation/ abreuvement (5 éléments d'appréciation).
 
 |
 
-1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/absence de compétition/ absence de souillure.
+1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/ absence de compétition/ absence de souillure.
 
 |
 
@@ -2920,7 +3052,7 @@ oui, sous 48 heures si l'anomalie constatée concerne le fonctionnement ou une �
 
 |
 
-2. Alimentation : quantité/qualité (fer)/fréquence.
+2. Alimentation : quantité/ qualité (fer)/ fréquence.
 
 |
 
@@ -2966,7 +3098,7 @@ non
 
 |
 
-5. Abreuvement : quantité/qualité/fréquence.
+5. Abreuvement : quantité/ qualité/ fréquence.
 
 |
 
@@ -2978,13 +3110,11 @@ non
 
 |
 
-5. Animaux placés à l'extérieur
-
-(2 éléments d'appréciation).
+5. Animaux placés à l'extérieur (2 éléments d'appréciation).
 
 |
 
-1. Protection contre les intempéries/les prédateurs.
+1. Protection contre les intempéries/ les prédateurs.
 
 |
 
@@ -3018,13 +3148,11 @@ Porcs
 
 |
 
-1. Etat des bâtiments d'élevage
-
-(11 éléments d'appréciation).
+1. Etat des bâtiments d'élevage (11 éléments d'appréciation).
 
 |
 
-1. Circulation de l'air/qualité de l'air/taux de poussière/sources de renouvellement d'air.
+1. Circulation de l'air/ qualité de l'air/ taux de poussière/ sources de renouvellement d'air.
 
 |
 
@@ -3042,7 +3170,7 @@ non
 
 |
 
-2. Température/taux d'humidité/fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
+2. Température/ taux d'humidité/ fonctionnement du système d'enregistrement des paramètres d'ambiance si présent et correction des éventuelles anomalies enregistrées.
 
 |
 
@@ -3056,7 +3184,7 @@ non
 
 |
 
-3. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/système d'alarme opérationnel.
+3. Si ventilation artificielle : fonctionnement du système de ventilation principal et du système de ventilation de secours/ système d'alarme opérationnel.
 
 |
 
@@ -3116,9 +3244,7 @@ non
 
 |
 
-7. Densité de logement des cochettes après saillie et truies
-
-(bâtiments construits après 2003/tout bâtiment à partir de 2013).
+7. Densité de logement des cochettes après saillie et truies (bâtiments construits après 2003/ tout bâtiment à partir de 2013).
 
 |
 
@@ -3160,7 +3286,7 @@ non
 
 |
 
-10. Superficie du revêtement plein des sols pour les cochettes après saillie et truies (bâtiments construits après 2003/tout bâtiment à partir de 2013).
+10. Superficie du revêtement plein des sols pour les cochettes après saillie et truies (bâtiments construits après 2003/ tout bâtiment à partir de 2013).
 
 |
 
@@ -3174,7 +3300,7 @@ non
 
 |
 
-11. Dimensions des caillebotis en béton (bâtiments construits après 2003/tout bâtiment à partir de 2013).
+11. Dimensions des caillebotis en béton (bâtiments construits après 2003/ tout bâtiment à partir de 2013).
 
 |
 
@@ -3186,15 +3312,11 @@ non
 
 |
 
-1 bis. Hébergement
-
-(5 éléments d'appréciation).
+1 bis. Hébergement (5 éléments d'appréciation).
 
 |
 
-1. Regroupement des truies et des cochettes
-
-(exploitations de plus de 10 truies).
+1. Regroupement des truies et des cochettes (exploitations de plus de 10 truies).
 
 |
 
@@ -3280,7 +3402,9 @@ non
 
 |
 
-oui, immédiatement
+oui,
+
+immédiatement
 
 |
 
@@ -3324,9 +3448,9 @@ non
 
 4. Absence de matériaux permettant des activités de recherche et de manipulation :
 
-- porcs élevés en groupe ;
+-porcs élevés en groupe ;
 
-- truies et cochettes (exploitations de plus de 10 truies).
+-truies et cochettes (exploitations de plus de dix truies).
 
 |
 
@@ -3344,15 +3468,15 @@ oui, sous 1 mois
 
 |
 
-5. Absence de mutilation/Modalité de réalisation des pratiques zootechniques permises par la réglementation nationale :
+5. Absence de mutilation/ Modalité de réalisation des pratiques zootechniques permises par la réglementation nationale :
 
-- réduction des coins et des défenses ;
+-réduction des coins et des défenses ;
 
-- section partielle de la queue ;
+-section partielle de la queue ;
 
-- castration des porcs mâles ;
+-castration des porcs mâles ;
 
-- pose d'anneaux nasaux.
+-pose d'anneaux nasaux.
 
 |
 
@@ -3364,9 +3488,7 @@ non
 
 |
 
-3. Santé des animaux
-
-(5 éléments d'appréciation).
+3. Santé des animaux (5 éléments d'appréciation).
 
 |
 
@@ -3450,13 +3572,11 @@ non
 
 |
 
-4. Alimentation/abreuvement
-
-(4 éléments d'appréciation).
+4. Alimentation/ abreuvement (4 éléments d'appréciation).
 
 |
 
-1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/absence de compétition/absence de souillure.
+1. Dispositifs d'alimentation et d'abreuvement : fonctionnement/ absence de compétition/ absence de souillure.
 
 |
 
@@ -3474,7 +3594,7 @@ oui, sous 48 heures si l'anomalie constatée concerne le fonctionnement ou une �
 
 |
 
-2. Alimentation : quantité/qualité/fréquence.
+2. Alimentation : quantité/ qualité/ fréquence.
 
 |
 
@@ -3506,7 +3626,7 @@ non
 
 |
 
-4. Abreuvement : quantité/qualité/fréquence.
+4. Abreuvement : quantité/ qualité/ fréquence.
 
 |
 
@@ -3518,13 +3638,11 @@ non
 
 |
 
-5. Animaux placés à l'extérieur
-
-(2 éléments d'appréciation).
+5. Animaux placés à l'extérieur (2 éléments d'appréciation).
 
 |
 
-1. Protection contre les intempéries/les prédateurs.
+1. Protection contre les intempéries/ les prédateurs.
 
 |
 
@@ -3554,7 +3672,7 @@ non
 
 |
 
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUES DE FERTILISATION (MÉTROPOLE ET CORSE)
+GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUES DE FERTILISATION (MÉTROPOLE)
 
 |
 
@@ -3580,13 +3698,13 @@ possible ?
 
 Existence d'un plan prévisionnel de fumure :
 
-- en zone vulnérable, extension du plan prévu par la grille protection des eaux par les nitrates aux apports en phosphore organique ;
+-en zone vulnérable, extension du plan prévu par la grille protection des eaux par les nitrates aux apports en phosphore organique ;
 
-- hors zone vulnérable, réalisation du plan prévisionnel prévu par la grille protection des eaux par les nitrates avec extension aux apports en phosphore organique.
+-hors zone vulnérable, réalisation du plan prévisionnel prévu par la grille protection des eaux par les nitrates avec extension aux apports en phosphore organique.
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -3600,7 +3718,13 @@ non
 
 |
 
-Document incomplet [20 données manquantes ou moins, ou données manquantes (une ou plusieurs) sur 10 % des îlots ou moins].
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -3614,13 +3738,13 @@ oui, sous 1 mois
 
 Existence d'un cahier d'enregistrement des pratiques d'épandage à jour :
 
-- en zone vulnérable, extension du cahier prévu par la grille protection des eaux par les nitrates aux apports en phosphore organique ;
+-en zone vulnérable, extension du cahier prévu par la grille protection des eaux par les nitrates aux apports en phosphore organique ;
 
-- hors zone vulnérable, réalisation du cahier d'enregistrement prévu par la grille protection des eaux par les nitrates avec extension aux apports en phosphore organique.
+-hors zone vulnérable, réalisation du cahier d'enregistrement prévu par la grille protection des eaux par les nitrates avec extension aux apports en phosphore organique.
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -3634,7 +3758,13 @@ non
 
 |
 
-Document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -3646,15 +3776,31 @@ oui, sous 1 mois
 
 |
 
-Sur tout le territoire : absence de pollution des eaux par les nitrates ou par les phosphates.
+Sur tout le territoire : absence de pollution des eaux de surface par les nitrates ou par les phosphates.
 
 |
 
-Existence d'une pollution avérée des eaux par les nitrates ou les phosphates et responsabilité avérée de l'agriculteur constatées par un procès-verbal au titre de la police de l'eau et des milieux aquatiques, dressé par une autorité habilitée dans l'année du contrôle.
+Existence d'une pollution avérée des eaux superficielles par les nitrates ou les phosphates et responsabilité avérée de l'agriculteur constatées par un procès-verbal au titre de la police de l'eau et des milieux aquatiques, dressé par une autorité habilitée dans l'année du contrôle.
 
 |
 
 3 %
+
+|
+
+non
+
+|
+
+Hors zones vulnérables et pour les exploitations soumises à la réglementation ICPE, épandage des effluents d'élevage dans le respect des distances définies au titre des ICPE par rapport aux points d'eau de surface.
+
+|
+
+Non-respect des distances d'épandage (plan d'épandage).
+
+|
+
+1 %
 
 |
 
@@ -3692,7 +3838,7 @@ non
 
 |
 
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUE D'UTILISATION DES PRODUITS PHYTOPHARMACEUTIQUES (MÉTROPOLE ET CORSE)
+GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUE D'UTILISATION DES PRODUITS PHYTOPHARMACEUTIQUES
 
 |
 
@@ -3746,25 +3892,15 @@ oui, sous 1 mois
 
 |
 
-Remise des emballages vides et des restes non utilisables de produits phytopharmaceutiques aux circuits de récupération adaptés.
+Respect des dispositions réglementaires en matière de gestion et de collecte des produits phytopharmaceutiques non utilisables (PPNU) et des emballages vides de produits phytopharmaceutiques (EVPP).
 
 |
 
-Absence de justificatif de remise de produits ou emballages depuis plus de deux ans.
+Absence d'identification des PPNU dans le local de stockage des produits phytopharmaceutiques
 
-|
+ou
 
-3 %
-
-|
-
-non
-
-|
-
-|
-
-Absence de justificatif de remise de produits ou emballages au moins une fois au cours des deux dernières années.
+Absence de justificatif de remise de PPNU ou EVPP si campagne de collecte depuis le 1er janvier 2010 ou depuis l'engagement en MAE, lorsque celui-ci est postérieur au 1er janvier 2010.
 
 |
 
@@ -3772,7 +3908,7 @@ Absence de justificatif de remise de produits ou emballages au moins une fois au
 
 |
 
-oui, sous 1 mois
+oui, sous 1 mois (sauf risque santé publique ou environnement).
 
 |
 
@@ -3780,21 +3916,7 @@ Contrôle périodique du pulvérisateur dans les conditions prescrites par la r�
 
 |
 
-Absence d'une attestation de contrôle technique du pulvérisateur ou date de contrôle non conforme.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Respect des dispositions réglementaires en matière de zone non traitée (ZNT) en bordure des points d'eau secondaires pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
-
-|
-
-Non-respect de la distance minimale.
+Absence d'une attestation de contrôle technique du pulvérisateur (vignette valide) et de la preuve d'inscription à un organisme agréé pour le contrôle.
 
 |
 
@@ -3806,13 +3928,15 @@ non
 
 |
 
-Recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques (T, T+, CMR et N) et, si recours à des applicateurs extérieurs pour les traitements phytopharmaceutiques, agrément obligatoire de ces derniers.
+Recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques (T, T +, CMR et N) et, si recours à des applicateurs extérieurs pour les traitements phytopharmaceutiques, agrément obligatoire de ces derniers.
 
 |
 
-Absence de facture ou de preuve d'achat auprès de fournisseurs agréés pour les produits appliqués ou en stock sur l'exploitation.
+Absence de recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques classés T, T +, CMR et N
 
-Absence de factures portant le numéro d'agrément lors d'un recours à des prestataires de service.
+ou
+
+Absence de recours à des applicateurs extérieurs agréés pour cette activité, si les traitements phytopharmaceutiques ne sont pas réalisés par l'exploitant ou l'un de ses employés (sauf l'entraide agricole).
 
 |
 
@@ -3824,7 +3948,31 @@ non
 
 |
 
-GRILLE BCAE/PRAIRIES PERMANENTES MARTINIQUE
+Formation des agriculteurs.
+
+|
+
+Absence de certificat DAPA valide
+
+ou
+
+Absence d'attestation de formation délivrée par un organisme de formation agréé pour des formations sur l'utilisation des produits phytopharmaceutiques
+
+ou
+
+Absence d'inscription auprès d'un centre de formation agréé pour des formations sur l'utilisation des produits phytopharmaceutiques.
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+GRILLE BCAE MARTINIQUE
 
 |
 
@@ -3896,7 +4044,7 @@ Réalisation d'une analyse physico-chimique du sol à la plantation pour les cul
 
 |
 
-Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour des implantations de cultures pérennes supérieures à 1 hectare.
+Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour des implantations de cultures pérennes supérieures à 1 ha.
 
 |
 
@@ -3950,7 +4098,7 @@ Entretien des surfaces en banane et canne à sucre.
 
 |
 
-Constat d'un rendement inférieur à 10 tonnes/ha en banane ou 30 tonnes/ha en canne à sucre.
+Constat d'un rendement inférieur à 10 t/ ha en banane ou 30 t/ ha en canne à sucre.
 
 |
 
@@ -4020,7 +4168,7 @@ non
 
 |
 
-BCAE 6 : Maintien des prairies ou pâturages permanents NON APPLICABLE EN 2009
+BCAE 6 : Maintien des terres en pâturages permanents (ou prairies permanentes) NON APPLICABLE EN 2010
 
 |
 
@@ -4082,7 +4230,7 @@ non
 
 |
 
-GRILLE BCAE/PRAIRIES PERMANENTES GUADELOUPE
+GRILLE BCAE GUADELOUPE
 
 |
 
@@ -4154,7 +4302,7 @@ Réalisation d'une analyse physico-chimique du sol à la plantation pour les cul
 
 |
 
-Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour des implantations de cultures pérennes supérieures à 1 hectare.
+Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour des implantations de cultures pérennes supérieures à 1 ha.
 
 |
 
@@ -4240,7 +4388,7 @@ Entretien des surfaces en cultures pérennes.
 
 |
 
-Constat d'un rendement inférieur à 10 tonnes/ha en banane ou 30 tonnes/ha en canne à sucre.
+Constat d'un rendement inférieur à 10 t/ ha en banane ou 30 t/ ha en canne à sucre.
 
 |
 
@@ -4310,7 +4458,7 @@ non
 
 |
 
-BCAE 6 : Maintien des prairies ou pâturages permanents NON APPLICABLE EN 2009
+BCAE 6 : Maintien des pâturages permanents (ou prairies permanentes) NON APPLICABLE EN 2010
 
 |
 
@@ -4372,7 +4520,7 @@ non
 
 |
 
-GRILLE BCAE/PRAIRIES PERMANENTES GUYANE
+GRILLE BCAE GUYANE
 
 |
 
@@ -4434,7 +4582,7 @@ BCAE 2 : Diversification des assolements
 
 |
 
-Non-implantation sur une même parcelle d'une culture identique durant plus de 2 cycles végétatifs successifs.
+Non-implantation sur une même parcelle d'une culture identique durant plus de deux cycles végétatifs successifs.
 
 |
 
@@ -4454,7 +4602,7 @@ Réalisation d'une analyse physico-chimique du sol pour les rotations de culture
 
 |
 
-Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour les rotations de cultures annuelles comportant au moins deux cycles de production consécutifs de COP (céréales [riz inclus], oléagineux, protéagineux) y compris en production de semences de ces cultures.
+Absence des documents regroupant les résultats d'analyses physico-chimiques du sol pour les rotations de cultures annuelles comportant au moins deux cycles de production consécutifs de COP (céréales [riz inclus], oléagineux, protéagineux), y compris en production de semences de ces cultures.
 
 |
 
@@ -4508,7 +4656,7 @@ Déclaration préalable de traitements phytosanitaires aériens auprès du servi
 
 |
 
-Absence de déclaration préalable de traitements phytosanitaires aériens auprès du service de la protection des végétaux pour les cultures de céréales, de riz, d'oléagineux et de protéagineux y compris la production de semences.
+Absence de déclaration préalable de traitements phytosanitaires aériens auprès du service de la protection des végétaux pour les cultures de céréales, de riz, d'oléagineux et de protéagineux, y compris la production de semences.
 
 |
 
@@ -4528,7 +4676,7 @@ Entretien des terres cultivées.
 
 |
 
-Entretien des terres cultivées en céréales, riz, oléagineux et protéagineux y compris la production de semences non conforme aux règles définies par l'arrêté préfectoral.
+Entretien des terres cultivées en céréales, riz, oléagineux et protéagineux, y compris la production de semences non conforme aux règles définies par l'arrêté préfectoral.
 
 |
 
@@ -4572,7 +4720,7 @@ non
 
 |
 
-BCAE 6 : Maintien des prairies ou pâturages permanents NON APPLICABLE EN 2009
+BCAE 6 : Maintien des pâturages permanents (ou prairies permanentes) NON APPLICABLE EN 2010
 
 |
 
@@ -4634,7 +4782,7 @@ non
 
 |
 
-GRILLE BCAE/PRAIRIES PERMANENTES RÉUNION
+GRILLE BCAE RÉUNION
 
 |
 
@@ -4922,7 +5070,7 @@ non
 
 |
 
-BCAE 7 : Maintien des prairies ou pâturages permanents NON APPLICABLE EN 2009
+BCAE 7 : Maintien des pâturages permanents (ou prairies permanentes) NON APPLICABLE EN 2010
 
 |
 
@@ -5014,7 +5162,7 @@ Existence d'un plan prévisionnel de fumure comprenant les données relatives au
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -5028,7 +5176,13 @@ non
 
 |
 
-Document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -5044,7 +5198,7 @@ Existence d'un cahier d'enregistrement des pratiques d'épandage à jour compren
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -5058,7 +5212,13 @@ non
 
 |
 
-Document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -5086,7 +5246,23 @@ non
 
 |
 
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE, PRATIQUES DE FERTILISATION (RÉUNION)
+Pour les exploitations soumises à la réglementation ICPE, épandage des effluents d'élevage dans le respect des distances définies au titre des ICPE par rapport aux points d'eau de surface.
+
+|
+
+Non-respect des distances d'épandage (plan d'épandage).
+
+|
+
+1 %
+
+|
+
+non
+
+|
+
+GRILLE EXIGENCE COMPLÉMENTAIRE MAE, PRATIQUES DE FERTILISATION (Réunion)
 
 |
 
@@ -5114,7 +5290,7 @@ Existence d'un plan prévisionnel de fumure comprenant les données relatives au
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -5128,7 +5304,13 @@ non
 
 |
 
-Document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -5140,11 +5322,11 @@ oui, sous 1 mois
 
 |
 
-Existence d'un cahier d'enregistrement des pratiques d'épandage à jour (apports azotés organiques et minéraux ainsi qu'aux apports en phosphore organique) : extension aux apports minéraux du cahier d'enregistrement tel que décrit dans le cadre de la BCAE 4 suivi des épandages de matières organiques .
+Existence d'un cahier d'enregistrement des pratiques d'épandage à jour (apports azotés organiques et minéraux ainsi qu'aux apports en phosphore organique) : extension aux apports minéraux du cahier d'enregistrement tel que décrit dans le cadre de la BCAE 4 suivi des épandages de matières organiques.
 
 |
 
-Document absent ou très incomplet (plus de 20 données manquantes, ou données manquantes [une ou plusieurs] sur plus de 10 % des îlots).
+Document absent ou très incomplet (plus de 20 données manquantes au total sur plus de 10 % des îlots).
 
 |
 
@@ -5158,7 +5340,13 @@ non
 
 |
 
-Document incomplet (20 données manquantes ou moins, ou données manquantes [une ou plusieurs] sur 10 % des îlots ou moins).
+Document incomplet :
+
+-20 données manquantes ou moins, au total ;
+
+ou
+
+-plus de 20 données manquantes au total sur 10 % des îlots ou moins.
 
 |
 
@@ -5186,437 +5374,15 @@ non
 
 |
 
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUE D'UTILISATION DES PRODUITS PHYTOPHARMACEUTIQUES
-
-(Martinique et Guyane)
+Pour les exploitations soumises à la réglementation ICPE, épandage des effluents d'élevage dans le respect des distances définies au titre des ICPE par rapport aux points d'eau de surface.
 
 |
 
-Points vérifiés
-
-|
-
-Anomalies
-
-|
-
-Réduction
-
-|
-
-Remise
-
-en conformité
-
-possible ?
-
-|
-
-Extension du registre phytopharmaceutique pour la production végétale aux cultures non alimentaires.
-
-|
-
-Absence totale de registre.
+Non-respect des distances d'épandage (plan d'épandage).
 
 |
 
 1 %
-
-|
-
-non
-
-|
-
-|
-
-Registre très incomplet (50 % des données manquantes).
-
-|
-
-0 ou 1 %
-
-|
-
-oui
-
-|
-
-Remise des emballages vides et des restes non utilisables de produits phytopharmaceutiques aux circuits de récupération adaptés.
-
-|
-
-Absence de justificatif de remise de produits ou emballages depuis plus de deux ans.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-|
-
-Absence de justificatif de remise de produits ou emballages au moins une fois au cours des deux dernières années.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Contrôle périodique du pulvérisateur dans les conditions prescrites par la réglementation en vigueur.
-
-|
-
-Absence d'une attestation de contrôle technique du pulvérisateur ou date de contrôle non conforme.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Respect des dispositions réglementaires en matière de zone non traitée (ZNT) en bordure des points d'eau secondaires pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
-
-|
-
-Non-respect de la distance minimale.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques (T, T+, CMR et N) et, si recours à des applicateurs extérieurs pour les traitements phytopharmaceutiques, agrément obligatoire de ces derniers.
-
-|
-
-Absence de facture ou de preuve d'achat auprès de fournisseurs agréés pour les produits appliqués ou en stock sur l'exploitation.
-
-Absence de factures portant le numéro d'agrément lors d'un recours à des prestataires de service.
-
-|
-
-3 %
-
-|
-
-non
-
-|
-
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE : PRATIQUE D'UTILISATION DES PRODUITS PHYTOPHARMACEUTIQUES
-
-(Guadeloupe)
-
-|
-
-Points vérifiés
-
-|
-
-Anomalies
-
-|
-
-Réduction
-
-|
-
-Remise
-
-en conformité
-
-possible ?
-
-|
-
-Extension du registre phytopharmaceutique pour la production végétale aux cultures non alimentaires.
-
-|
-
-Absence totale de registre.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-|
-
-Registre très incomplet (50 % des données manquantes).
-
-|
-
-0 ou 1 %
-
-|
-
-oui
-
-|
-
-Remise des emballages vides et des restes non utilisables de produits phytopharmaceutiques aux circuits de récupération adaptés.
-
-|
-
-Absence de justificatif de remise des emballages vides au moins une fois au cours de la dernière année à partir de l'engagement MAE.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, sous 1 mois
-
-|
-
-|
-
-Absence de justificatif de remise de produits ou emballages depuis plus de deux ans.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-|
-
-Absence de justificatif de remise de produits ou emballages au moins une fois au cours des deux dernières années.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Contrôle périodique du pulvérisateur dans les conditions prescrites par la réglementation en vigueur.
-
-|
-
-Absence d'une attestation de contrôle technique du pulvérisateur ou date de contrôle non conforme.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Respect des dispositions réglementaires en matière de zone non traitée (ZNT) en bordure des points d'eau secondaires pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
-
-|
-
-Non-respect de la distance minimale.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques (T, T+, CMR et N) et, si recours à des applicateurs extérieurs pour les traitements phytopharmaceutiques, agrément obligatoire de ces derniers.
-
-|
-
-Absence de facture ou de preuve d'achat auprès de fournisseurs agréés pour les produits appliqués ou en stock sur l'exploitation.
-
-Absence de factures portant le numéro d'agrément lors d'un recours à des prestataires de service.
-
-|
-
-3 %
-
-|
-
-non
-
-|
-
-GRILLE EXIGENCE COMPLÉMENTAIRE MAE :
-
-pratique d'utilisation des produits phytopharmaceutiques (Réunion)
-
-|
-
-Points vérifiés
-
-|
-
-Anomalies
-
-|
-
-Réduction
-
-|
-
-Remise
-
-en conformité
-
-possible ?
-
-|
-
-Extension du registre phytopharmaceutique pour la production végétale aux cultures non alimentaires.
-
-|
-
-Absence totale de registre.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-|
-
-Registre très incomplet (50 % des données manquantes).
-
-|
-
-0 ou 1 %
-
-|
-
-oui
-
-|
-
-Remise des emballages vides et des restes non utilisables de produits phytopharmaceutiques aux circuits de récupération adaptés.
-
-|
-
-Absence de justificatif de remise de produits ou emballages depuis plus de deux ans.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-|
-
-Absence de justificatif de remise de produits ou emballages au moins une fois au cours des deux dernières années.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-En l'attente de collecte :
-
-- identification des produits phytopharmaceutiques non utilisables dans le local de stockage ;
-
-- stockage des emballages vides des produits phytopharmaceutiques.
-
-|
-
-Absence d'identification des produits phytopharmaceutiques non utilisables dans le local de stockage des produits phytopharmaceutiques.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, sous 1 mois
-
-|
-
-|
-
-Absence de stockage des emballages vides de produits phytopharmaceutiques dans des conditions évitant leur dégradation.
-
-|
-
-0 ou 1 %
-
-|
-
-oui, sous 1 mois
-
-|
-
-Contrôle périodique du pulvérisateur dans les conditions prescrites par la réglementation en vigueur.
-
-|
-
-Absence d'une attestation de contrôle technique du pulvérisateur ou date de contrôle non conforme.
-
-|
-
-non applicable en 2009
-
-|
-
-|
-
-Respect des dispositions réglementaires en matière de zone non traitée (ZNT) en bordure des points d'eau secondaires pour les produits dont l'étiquette ne comporte pas de préconisations spécifiques.
-
-|
-
-Non-respect de la distance minimale.
-
-|
-
-1 %
-
-|
-
-non
-
-|
-
-Recours à des distributeurs agréés pour l'achat des produits phytopharmaceutiques (T, T+, CMR et N) et, si recours à des applicateurs extérieurs pour les traitements phytopharmaceutiques, agrément obligatoire de ces derniers.
-
-|
-
-Absence de facture ou de preuve d'achat auprès de fournisseurs agréés pour les produits appliqués ou en stock sur l'exploitation.
-
-Absence de factures portant le numéro d'agrément lors d'un recours à des prestataires de service.
-
-|
-
-3 %
 
 |
 
