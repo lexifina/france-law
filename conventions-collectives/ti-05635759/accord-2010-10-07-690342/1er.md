@@ -1,0 +1,5 @@
+# Article 1er
+
+Par dérogation aux dispositions de l'article 3 de l'accord national du 6 novembre 1997 relatif au financement de la formation dans le bâtiment et les travaux publics et à celles de l'annexe II à l'accord national du 14 avril 1997 relatif à la formation professionnelle dans les travaux publics, le taux de mutualisation du plan de formation applicable, au titre de l'année de salaires 2011, aux entreprises de travaux publics de 10 salariés et plus en option A adhérant à l'OPCA TP, est fixé à 0,12 % de la masse salariale.
+
+Le taux de mutualisation du plan de formation, englobant, d'une part, le taux fixé à l'article 3 de l'accord national du 6 novembre 1997 relatif au financement de la formation dans le bâtiment et les travaux publics et, d'autre part, la cotisation minimale visée à l'annexe II de l'accord national du 14 avril 1997 relatif à la formation professionnelle dans les travaux publics, applicable, au titre de l'année de salaires 2011, aux entreprises de travaux publics de 10 salariés et plus en option B adhérant à l'OPCA TP, est fixé à 0,20 % de la masse salariale.
