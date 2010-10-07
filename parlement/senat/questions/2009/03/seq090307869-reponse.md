@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307869
+
+- Question : [SEQ090307869](seq090307869.md) — Avenir de la pédiatrie libérale
+
+## Réponse
+
+*Santé, JO du 2010-10-07, page 2628*
+
+À l'instar de l'ensemble des spécialités médicales, la France n'a jamais compté autant de pédiatres. Les projections récentes font observer que le nombre de pédiatres augmenterait de 20 % d'ici à 2030, alors que le nombre de médecins serait inférieur de 1 % par rapport à 2006. Cependant, la part des libéraux tend à décroître parmi les pédiatres. Ainsi, l'insuffisance de pédiatres sur le territoire concerne la pédiatrie libérale, exercice vers lequel les nouveaux diplômés ne se tournent pas. D'une part, prenant en compte les évolutions inéluctables de la démographie médicale, les ministres chargés de l'enseignement supérieur et de la santé ont progressivement augmenté le numerus clausus des études médicales depuis 2000. Celui-ci a été relevé de 3 850 en 2000 à 7 400 en 2009, ce chiffre ayant été confirmé depuis lors. Parallèlement, le nombre de postes offerts aux épreuves classantes nationales en pédiatrie a été porté de 148 en 1999 à 253 en 2009. D'autre part, la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires prévoit une anticipation du nombre d'internes à former par spécialité et subdivision territoriale pour une période de cinq ans. Ces quotas seront établis en fonction des besoins de soins, au vu des propositions de l'Observatoire national de la démographie des professions de santé (ONDPS). Ainsi, il sera possible à l'avenir d'adapter la proposition des postes d'internes au plus près des besoins de prise en charge spécialisée. Enfin, les stages des internes au sein de structures ambulatoires seront développés afin de les fidéliser à ce type d'exercice. Ces évolutions devraient garantir durablement la présence de praticiens formés et se consacrant à la santé des enfants sur l'ensemble du territoire.
