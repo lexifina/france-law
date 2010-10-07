@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100614019
+
+- Question : [SEQ100614019](seq100614019.md) — Examen du permis de conduire
+
+## Réponse
+
+*Transports, JO du 2010-10-07, page 2635*
+
+Parmi les mesures retenues dans le cadre de la réforme du permis de conduire issue du comité interministériel de la sécurité routière (CISR) du 13 janvier 2009, plusieurs visent précisément la réduction des délais d'attente avant le passage de l'examen du permis de conduire. Tout d'abord, cinquante-cinq inspecteurs du permis de conduire et de la sécurité routière ont été recrutés : trente-cinq agents sont opérationnels depuis décembre 2009 et vingt le seront en novembre 2010. De plus, pour réduire de manière significative les délais que peuvent subir des candidats en attente d'être présentés à l'examen après un premier échec, il a été décidé de mettre en place des examens supplémentaires, basés sur le volontariat des inspecteurs pour travailler le samedi ou sur leurs jours de récupération. Ce sont ainsi 43 133 examens supplémentaires qui ont été organisés pour l'année 2009. Ce dispositif a été reconduit pour l'année 2010 : 17 532 examens supplémentaires ont été réalisés de janvier à juin 2010 et 10 464 ont été programmés pour les mois de juillet et d'août 2010. Ces mesures ont permis, début 2010, de faire passer le délai moyen entre deux présentations à l'épreuve de conduite sous la barre des deux mois dans 80 % des départements. Enfin, s'agissant de la possibilité de faire passer l'épreuve du code de la route dans les collèges et les lycées, cette proposition a été étudiée, mais n'a pas été retenue, dans le cadre des concertations ayant précédées la réforme du permis de conduire. Le ministère de l'éducation nationale a fait valoir l'extrême densité des programmes devant déjà être dispensés au niveau de la classe de troisième et des trois classes de lycée.
