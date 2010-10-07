@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090609103
+
+- Question : [SEQ090609103](seq090609103.md) — Indemnisation du chômage en cas d'emplois multiples
+
+## Réponse
+
+*Emploi, JO du 2010-10-07, page 2619*
+
+Un dispositif de cumul entre l'allocation de chômage et le revenu d'une activité professionnelle (salariée ou non) a été mis en place par les partenaires sociaux gestionnaires du régime d'assurance chômage (art. 41 à 45 du règlement général annexé à la convention du 18 janvier 2006 relative à l'aide au retour à l'emploi et à l'indemnisation du chômage), afin d'inciter à la reprise d'emploi. Ce dispositif a été maintenu par la convention du 19 février 2009 relative à l'indemnisation du chômage (art. 28 à 32 du règlement général annexé à la convention susmentionnée), entrée en vigueur le 1er avril 2009. Le salarié privé d'emploi qui exerce une activité occasionnelle ou réduite, reprise ou conservée, peut ainsi cumuler l'allocation d'aide au retour à l'emploi avec son revenu d'activité, à condition que cette activité n'excède pas 110 heures mensuelles et que les revenus qu'elle procure ne soient pas supérieurs à 70 % des rémunérations brutes qu'il percevait antérieurement. Le demandeur d'emploi peut bénéficier de ce dispositif pendant une durée maximale de quinze mois, dans la limite de la durée des droits à l'allocation. La limite des quinze mois n'est cependant pas opposable aux allocataires âgés de cinquante ans et plus ni aux titulaires d'un contrat d'accompagnement dans l'emploi. Il convient de rappeler que l'allocation de chômage n'a pas vocation à constituer de façon permanente un revenu de complément ni à se substituer aux revenus versés par l'employeur lorsque celui-ci est conduit à réduire son activité. En outre, les partenaires sociaux sont seuls compétents pour modifier les règles de fonctionnement de ce dispositif.
