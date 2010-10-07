@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714701
+
+- Question : [SEQ100714701](seq100714701.md) — Collecte de plasma sanguin rémunéré
+
+## Réponse
+
+*Santé, JO du 2010-10-07, page 2634*
+
+L'acquisition par le laboratoire français du fractionnement et des biotechnologies (LFB) d'un groupe de collecte étranger s'inscrit dans le souhait d'internationalisation de ce laboratoire. Son implantation sur le marché international représente une condition essentielle de son développement, dans un contexte de concentration des grands groupes internationaux du fractionnement. Le LFB joue un rôle essentiel en matière de santé publique en France et il convient d'éviter tout risque d'affaiblissement de cette entreprise qui dispose d'un monopole pour fractionner le sang collecté par l'Établissement français du sang (EFS). Ce processus d'internationalisation du LFB est parfaitement maîtrisé et respecte nos exigences de qualité et de sécurité des produits. Il ne contrevient en rien à la volonté des pouvoirs publics dans la mesure où le respect sur notre territoire des principes éthiques attachés à la collecte du sang n'est pas affecté. De plus, la ministre de la santé et des sports tient à souligner qu'au titre des dispositions de l'article L. 5124-14 du code de la santé publique, le LFB ne peut pas mettre sur le marché français des médicaments dérivés du sang provenant de collecte non éthique, sauf dans les cas exceptionnels d'autorisations de mise sur le marché dérogatoires. Le nouvel article L. 5124-14 issu de la loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires donne donc les moyens au LFB de se développer tout en lui assignant des missions de service public précises et contraignantes sur le marché français. Cette mission de santé publique, telle que définie à l'article L. 5124-14, consiste à devoir traiter l'ensemble des volumes collectés par l'EFS.
