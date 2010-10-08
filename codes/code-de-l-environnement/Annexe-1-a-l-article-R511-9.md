@@ -1208,7 +1208,7 @@ a) supérieure ou égale à 200 t
 
 |
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 |
 
@@ -1220,7 +1220,7 @@ A
 
 |
 
-b) supérieure à 1,5 t, mais inférieure à 200 t
+b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 |
 
@@ -1228,7 +1228,7 @@ b) supérieure à 1,5 t, mais inférieure à 200 t
 
 |
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
 
 |
 
@@ -4422,7 +4422,7 @@ A
 
 |
 
-b) Supérieure à 100 kg, mais inférieure à 10 t
+b) Supérieure ou égale à 100 kg, mais inférieure à 10 t
 
 |
 
@@ -4440,11 +4440,7 @@ DC
 
 |
 
-c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et les fabrications sur sites d'explosifs destinées à prévenir les avalanches de montagne : non soumis à la taxe
-
 |
-
--
 
 |
 
@@ -4456,7 +4452,7 @@ La quantité totale de matière active susceptible d'être présente dans l'inst
 
 |
 
-|
+3. La quantité totale de matière active susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -4470,7 +4466,11 @@ A
 
 |
 
+a) Supérieure ou égale à 100 kg
+
 |
+
+6
 
 |
 
