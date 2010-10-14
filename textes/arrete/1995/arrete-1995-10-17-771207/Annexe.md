@@ -6,11 +6,19 @@ CATÉGORIES D'EMPLOIS
 
 |
 
+RAPPEL
+
+nombre d'emplois
+
+2009
+
+|
+
 NOMBRE
 
 d'emplois
 
-2009
+2010
 
 |
 
@@ -22,9 +30,9 @@ par emploi
 
 |
 
-TOTAL POINTS
+TOTAL
 
-2009
+points 2010
 
 |
 
@@ -36,11 +44,15 @@ Chef de circonscription de sécurité publique
 
 |
 
+106
+
+|
+
 40
 
 |
 
-4 280
+4 240
 
 |
 
@@ -52,11 +64,15 @@ Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans le
 
 |
 
+97
+
+|
+
 40
 
 |
 
-3 960
+3 880
 
 |
 
@@ -68,11 +84,15 @@ Chef d'unité opérationnelle ou adjoint au chef de service à la circonscriptio
 
 |
 
+155
+
+|
+
 40
 
 |
 
-6 840
+6 200
 
 |
 
@@ -84,15 +104,23 @@ Chef d'unité ou de groupe technique ou opérationnel
 
 |
 
+826
+
+|
+
 40
 
 |
 
-29 840
+33 040
 
 |
 
 Chef de délégation des compagnies républicaines de sécurité
+
+|
+
+5
 
 |
 
@@ -116,6 +144,10 @@ Adjoint au chef de délégation des compagnies républicaines de sécurité
 
 |
 
+3
+
+|
+
 40
 
 |
@@ -125,6 +157,10 @@ Adjoint au chef de délégation des compagnies républicaines de sécurité
 |
 
 Responsable d'un service de formation
+
+|
+
+2
 
 |
 
@@ -148,11 +184,15 @@ Chef de groupe de liaison et documentation
 
 |
 
+21
+
+|
+
 40
 
 |
 
-1 280
+840
 
 |
 
@@ -164,11 +204,15 @@ Total
 
 |
 
+1 215
+
+|
+
 -
 
 |
 
-46 600
+48 600
 
 |
 
@@ -180,15 +224,31 @@ CATÉGORIES D'EMPLOIS
 
 RAPPEL
 
+nombre d'emplois
+
 2007
 
 |
+
+RAPPEL
+
+nombre d'emplois
 
 2008
 
 |
 
+RAPPEL
+
+nombre d'emplois
+
 2009
+
+|
+
+NOMBRE
+
+d'emplois 2010
 
 |
 
@@ -202,9 +262,7 @@ par emploi
 
 TOTAL
 
-points
-
-2009
+points 2010
 
 |
 
@@ -224,11 +282,15 @@ Chef ou commandant d'unité à responsabilité particulièrement importante
 
 |
 
+12
+
+|
+
 20
 
 |
 
-440
+240
 
 |
 
@@ -248,6 +310,10 @@ Assistant officier de quart des services des aéroports de Roissy et d'Orly
 
 |
 
+0
+
+|
+
 20
 
 |
@@ -256,9 +322,7 @@ Assistant officier de quart des services des aéroports de Roissy et d'Orly
 
 |
 
-Agent exerçant des responsabilités particulièrement importantes dans les domaines
-
-du renseignement ou de la protection des personnalités
+Agent exerçant des responsabilités particulièrement importantes dans les domaines du renseignement ou de la protection des personnalités
 
 |
 
@@ -267,6 +331,10 @@ du renseignement ou de la protection des personnalités
 |
 
 4
+
+|
+
+1
 
 |
 
@@ -298,6 +366,10 @@ Adjoint au chef du centre de formation
 
 |
 
+0
+
+|
+
 20
 
 |
@@ -306,11 +378,7 @@ Adjoint au chef du centre de formation
 
 |
 
-Chef de division administrative ou opérationnelle en CRS exerçant
-
-des responsabilités particulièrement importantes et chef instructeur CNEAS
-
-(Centre national d'entraînement à l'alpinisme et au ski)
+Chef de division administrative ou opérationnelle en CRS exerçant des responsabilités particulièrement importantes et chef instructeur CNEAS (Centre national d'entraînement à l'alpinisme et au ski)
 
 |
 
@@ -326,11 +394,15 @@ des responsabilités particulièrement importantes et chef instructeur CNEAS
 
 |
 
+2
+
+|
+
 20
 
 |
 
-60
+40
 
 |
 
@@ -350,15 +422,19 @@ Autre chef ou commandant d'unité
 
 |
 
+1 191
+
+|
+
 10
 
 |
 
-11 790
+11 910
 
 |
 
-Adjoint à l'officier - chef ou commandant d'unité
+Adjoint à l'officier. - Chef ou commandant d'unité
 
 |
 
@@ -374,11 +450,15 @@ Adjoint à l'officier - chef ou commandant d'unité
 
 |
 
+32
+
+|
+
 10
 
 |
 
-530
+320
 
 |
 
@@ -398,11 +478,15 @@ Technicien spécialisé
 
 |
 
+4
+
+|
+
 10
 
 |
 
-50
+40
 
 |
 
@@ -422,11 +506,15 @@ Assistant officier de quart
 
 |
 
+86
+
+|
+
 10
 
 |
 
-820
+860
 
 |
 
@@ -446,6 +534,10 @@ Adjoint au chef de la section montagne
 
 |
 
+0
+
+|
+
 10
 
 |
@@ -454,9 +546,7 @@ Adjoint au chef de la section montagne
 
 |
 
-Agent exerçant des responsabilités importantes dans les domaines du renseignement ou de la
-
-protection des personnalités
+Agent exerçant des responsabilités importantes dans les domaines du renseignement ou de la protection des personnalités
 
 |
 
@@ -472,11 +562,15 @@ protection des personnalités
 
 |
 
-10
+0
 
 |
 
 10
+
+|
+
+0
 
 |
 
@@ -496,11 +590,15 @@ Formateur spécialisé
 
 |
 
+31
+
+|
+
 10
 
 |
 
-280
+310
 
 |
 
@@ -520,11 +618,15 @@ Autre chef de division administrative ou opérationnelle en CRS
 
 |
 
+127
+
+|
+
 10
 
 |
 
-1 500
+1 270
 
 |
 
@@ -544,29 +646,49 @@ Total
 
 |
 
--
+1 486
 
 |
 
-15 500
+|
+
+15 010
 
 |
 
 III. - Emplois fonctionnels
 
-EMPLOIS
+CATÉGORIES D'EMPLOIS
 
 |
 
-RAPPEL 2007
+RAPPEL
+
+nombre d'emplois
+
+2007
 
 |
+
+RAPPEL
+
+nombre d'emplois
 
 2008
 
 |
 
+RAPPEL
+
+nombre d'emplois
+
 2009
+
+|
+
+NOMBRE
+
+d'emplois 2010
 
 |
 
@@ -580,9 +702,7 @@ par emploi
 
 TOTAL
 
-points
-
-2009
+points 2010
 
 |
 
@@ -602,11 +722,15 @@ Responsable d'unité locale de police
 
 |
 
+450
+
+|
+
 20
 
 |
 
-7 500
+9 000
 
 |
 
@@ -626,10 +750,14 @@ Total
 
 |
 
+450
+
+|
+
 20
 
 |
 
-7 500
+9 000
 
 |
