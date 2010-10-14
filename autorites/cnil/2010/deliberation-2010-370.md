@@ -1,0 +1,89 @@
+# Délibération n° 2010-370 du 14 octobre 2010 concernant les traitements à des fins d'enquêtes statistiques publiques se rapportant à des personnes physiques en leur qualité d’entrepreneurs individuels, abrogeant et remplaçant la délibération n° 81-17 du 24 février 1981 concernant les traitements à des fins statistiques d’informations nominatives se rapportant à des personnes physiques et relatives à leur qualité d’entrepreneurs individuels ou d’aides familiaux effectués par les services publics et les organismes relevant de la loi n° 51-711 du 7 juin 1951 modifiée
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2010-370
+- Date : 2010-10-14
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000023588937
+
+La Commission nationale de l’informatique et des libertés,
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, notamment son article 8 ;
+
+Vu le code du patrimoine ;
+
+Vu la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière de statistiques ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel, notamment son article 24-I ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifié par le décret n° 2007-451 du 25 mars 2007 ;
+
+Vu le décret n°2009-318 du 20 mars 2009 relatif au Conseil national de l'information statistique et au comité du secret statistique;
+
+Vu la délibération n° 81-17 du 24 février 1981 concernant les traitements à des fins statistiques d’informations nominatives se rapportant à des personnes physiques et relatives à leur qualité d’entrepreneurs individuels ou d’aides familiaux effectués par les services publics et les organismes relevant de la loi n°51-711 du 7 juin 1951 modifiée ;
+
+Après avoir entendu Madame Marie-Hélène MITJAVILE, commissaire, en son rapport, et Mme Elisabeth ROLIN, commissaire du gouvernement, en ses observations.
+
+En vertu de l'article 24 de la loi du 6 janvier 1978 modifiée en août 2004, la Commission nationale de l'informatique et des libertés est habilitée à établir des normes destinées à simplifier l'obligation de déclaration des traitements les plus courants et dont la mise en œuvre, dans des conditions régulières, n'est pas susceptible de porter atteinte à la vie privée ou aux libertés.
+
+Le traitement automatisé de données à caractère personnel mis en œuvre à des fins d’enquêtes statistiques se rapportant à des personnes physiques en leur qualité d’entrepreneurs individuels est de ceux qui peuvent, sous certaines conditions, relever de cette définition.
+
+Considérant qu'est réputé entrepreneur individuel, au sens de la présente norme, toute personne physique exploitant une unité économique qui ne possède pas de personnalité juridique distincte de la sienne et qui a pour objet la production de biens ou de services destinés à la vente sur le marché.
+
+Décide :
+
+Article 1. La délibération n° 81-17 du 24 février 1981 est abrogée et remplacée par la présente délibération. Les déclarations simplifiées de conformité régulièrement effectuées sur le fondement de la délibération n° 81-17 du 24 février 1981 demeurent valables.
+
+Article 2. Champ d’application
+
+Pour pouvoir faire l'objet de la procédure de déclaration simplifiée entrant dans le champ d'application de la présente délibération les traitements doivent :
+
+répondre à la qualification d’« enquêtes statistiques dont la liste est arrêtée chaque année par un arrêté du ministre chargé de l'économie » en application du troisième alinéa de l’article 1er de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques.
+
+ne porter que sur des données aisément contrôlables par les intéressés grâce à l'exercice du droit individuel d'accès ;
+
+n'appliquer à ces données que des logiciels dont les résultats puissent être facilement contrôlés ;
+
+ne porter que sur des données recueillies par voie d'enquête statistique ou élaborées comme résultats de traitement déjà autorisés ou déclarés ;
+
+ne pas donner lieu à des interconnexions autres que celles nécessaires à l'accomplissement des fonctions énoncées à l'article 3 ci-dessous ;
+
+comporter des dispositions propres à assurer la sécurité des traitements et des informations et la garantie des secrets protégés par la loi ;
+
+satisfaire en outre aux conditions énoncées aux articles 3 à 6 ci-dessous.
+
+Article 3. Finalité des traitements
+
+Les traitements doivent avoir pour seules fonctions les travaux statistiques exécutés par des services publics ou la fourniture de données individuelles aux administrations.
+
+Article 4. Catégories d'informations traitées
+
+Dès lors que les dispositions de l'article 32 de la loi n° 78-17 du 6 janvier 1978 modifiée en août 2004 ont été respectées lors du recueil des informations traitées, celles-ci doivent relever seulement des catégories suivantes :
+
+a) identité : nom, prénoms, adresse, sexe, année de naissance, de l'entrepreneur individuel et de ses aides familiaux ;
+
+b) situation familiale : liens familiaux entre les personnes définies ci-dessus ;
+
+c) formation, diplômes, distinctions : formation professionnelle, diplômes ;
+
+d) vie professionnelle : emplois antérieurs ou simultanés des personnes concernées, année depuis laquelle elles dirigent leur exploitation agricole ou leur entreprise (pour l'entrepreneur individuel) ou y travaillant (pour les aides familiaux) et le temps qu'ils y consacrent, statut ;
+
+e) situation économique et financière : informations d'ordre économique ou financier notamment : production ou quantités physiques et en valeur, effectif salarié, rémunération par catégories, investissements, éléments tirés des bilans et des comptes d'exploitation ;
+
+Article 5. Durée de conservation
+
+Sauf dispositions législatives contraires, la conservation des informations nominatives est soumise aux dispositions du code du patrimoine et à l'article 6 modifié de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistique.
+
+Article 6. Destinataires des informations
+
+Les destinataires d'informations nominatives de la présente délibération ne peuvent être que ceux prévus par la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière statistique. Les conditions de communication sont celles prévues par cette même loi et le chapitre II du décret n°2009-318 du 20 mars 2009 relatif au Conseil national de l'information statistique et au comité du secret statistique.
+
+Article 7. La présente délibération, qui abroge la délibération n° 81-17 du 24 février 1981, sera publiée au Journal officiel de la République française.
+
+Alex TURK
+
+Le Président
