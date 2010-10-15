@@ -32,6 +32,18 @@ Secrétaire général
 
 |
 
+Secrétaire général adjoint
+
+|
+
+1
+
+|
+
+140
+
+|
+
 Directeur général de l'alimentation
 
 |
@@ -106,9 +118,7 @@ Directeur des affaires juridiques
 
 2° Vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux
 
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
@@ -164,7 +174,7 @@ Délégué à la mobilité et aux carrières rattaché au secrétaire général
 
 |
 
-Contrôleur général chef de la brigade nationale d'enquêtes vétérinaires et sanitaires rattaché au directeur général de l'alimentation
+Inspecteur général chef de la brigade nationale d'enquêtes vétérinaires et sanitaires rattaché au directeur général de l'alimentation
 
 |
 
@@ -227,6 +237,18 @@ Adjoint au directeur général des politiques agricole, agroalimentaire et des t
 |
 
 120 (*)
+
+|
+
+Adjoint au directeur des affaires financières, sociales et logistiques
+
+|
+
+1
+
+|
+
+120
 
 |
 
@@ -320,6 +342,18 @@ Secrétariat général
 
 |
 
+Adjoint au chef du service des ressources humaines
+
+|
+
+1
+
+|
+
+100
+
+|
+
 Sous-directeur des affaires budgétaires et comptables
 
 |
@@ -356,7 +390,7 @@ Sous-directeur du travail et de la protection sociale
 
 |
 
-Sous-directeur du droit des personnels, des établissements sous tutelle et des marchés
+Chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole
 
 |
 
@@ -368,7 +402,29 @@ Sous-directeur du droit des personnels, des établissements sous tutelle et des 
 
 |
 
+Sous-directeur du droit des personnels, des établissements sous tutelle et des marchés
+
+|
+
+1
+
+|
+
+100 |
+
 Sous-directeur du droit des produits, des politiques sectorielles et des exploitations
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Adjoint au chef du service de la statistique et de la prospective
 
 |
 
@@ -461,6 +517,18 @@ Sous-directeur des systèmes d'information
 |
 
 100
+
+|
+
+Adjoint au délégué à l'information et à la communication
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -772,7 +840,7 @@ Sous-directeur de l'organisation économique, des industries agroalimentaires et
 
 |
 
-80
+100
 
 |
 
@@ -864,7 +932,7 @@ Sous-directeur de l'aquaculture et de l'économie des pêches
 
 |
 
-80
+100
 
 |
 
@@ -929,18 +997,6 @@ Chef de centre de service comptable et financier
 |
 
 Chef du centre d'ingénierie des systèmes d'information
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du centre d'études et de réalisations informatiques de Toulouse
 
 |
 
