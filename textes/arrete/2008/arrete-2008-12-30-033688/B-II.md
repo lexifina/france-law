@@ -344,7 +344,7 @@ Académie de Caen-Université de Caen
 
 |
 
-Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008
+Directeur des affaires financières et du budget
 
 |
 
@@ -892,11 +892,11 @@ Secrétaire général du pôle de recherche et d'enseignement supérieur de Lyon
 
 |
 
-Académie de Lyon-Ecole normale supérieure lettres et sciences humaines
+Académie de Lyon - Ecole normale supérieure de Lyon
 
 |
 
-Adjoint au secrétaire général de l'école, directeur des ressources humaines-A effet du 1er juillet 2008
+Adjoint au directeur général des services, directeur des affaires financières, de la prospective et de l'aide au pilotage
 
 |
 
@@ -1390,7 +1390,7 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 Académie de Paris - Université Paris-III |
 
-Adjoint au directeur général des services, directeur des affaires financières
+Directeur du patrimoine immobilier et de la logistique
 
 |
 
@@ -2134,23 +2134,11 @@ Administration centrale du ministère chargé de l'enseignement supérieur et de
 
 |
 
-Chargé de mission près la direction générale de la recherche et de l'innovation
+Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010
 
 |
 
-1
-
-|
-
-Administration centrale du ministère chargé de l'enseignement supérieur et de la recherche
-
-|
-
-Chargé de mission auprès de la Conférence des présidents d'universités
-
-|
-
-1
+5
 
 |
 
@@ -2295,3 +2283,15 @@ Centre national des œuvres universitaires et scolaires.
 Chef du service de la formation continue, directeur du Centre national de formation du réseau des œuvres universitaires et scolaires-A effet du 1er septembre 2007. |
 
 1 |
+
+Rectorat de l'académie de Paris - Chancellerie des universités
+
+|
+
+Adjoint au secrétaire général de la Chancellerie
+
+|
+
+1
+
+|

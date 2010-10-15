@@ -1418,7 +1418,7 @@ Rectorat de l'académie de Lyon
 
 |
 
-Adjoint au secrétaire général d'académie
+Adjoint au secrétaire général d'académie, chargé des affaires générales et financières
 
 |
 
@@ -1558,11 +1558,11 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Rectorat de l'académie de Montpellier
+Académie de Montpellier - Etablissement public local d'enseignement
 
 |
 
-Responsable du département de la logistique et des réseaux
+Agent comptable
 
 |
 
@@ -2496,6 +2496,18 @@ Agent comptable
 
 |
 
+Rectorat de l'académie de Reims
+
+|
+
+Responsable de la division du pilotage des moyens et de la carte des formations
+
+|
+
+1
+
+|
+
 Rectorat de l'académie de Rennes
 
 |
@@ -3184,54 +3196,10 @@ Administration centrale du ministère chargé de l'éducation nationale
 
 |
 
-Chef de bureau
+Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010
 
 |
 
-4
-
-|
-
-Administration centrale du ministère chargé de l'éducation nationale
-
-|
-
-Adjoint de sous-directeur et chargé de mission
-
-|
-
-4
-
-|
-
-|
-
-Adjoint de sous-directeur et chargé de mission-A effet du 1er septembre 2008
-
-|
-
-2
-
-|
-
-Administration centrale du ministère chargé de l'éducation nationale-Poitiers.
-
-|
-
-Chef du département de l'administration générale de l'Ecole supérieur de l'éducation nationale.A effet du 1er février 2009.
-
-|
-
-1 |
-
-Administration centrale du ministère chargé de l'éducation nationale - Poitiers
-
-|
-
-Chef du département de la formation des personnels administratifs d'encadrement de l'Ecole supérieure de l'éducation nationale - A effet du 1er mai 2010
-
-|
-
-1
+21
 
 |

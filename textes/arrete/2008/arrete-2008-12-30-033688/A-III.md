@@ -2,9 +2,11 @@
 
 A-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
-de l'enseignement supérieur et de la recherche relevant de l'
+de l'enseignement supérieur et de la recherche relevant
 
-article 58 du décret du 3 décembre 1983 susvisé, services du ministère chargé de l'enseignement supérieur
+de l'article 58 du décret du 3 décembre 1983 susvisé,
+
+services du ministère chargé de l'enseignement supérieur
 
 |
 
@@ -254,7 +256,7 @@ Académie de Paris-Université Paris-I
 
 |
 
-Chef de la division des affaires financières
+Adjoint au directeur général des services, en charge de la politique budgétaire
 
 |
 

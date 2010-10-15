@@ -4,9 +4,7 @@ A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
 
-relevant de
-
-l'article 58 du décret du 3 décembre 1983 susvisé
+relevant de l'article 58 du décret du 3 décembre 1983 susvisé
 
 ,
 
@@ -236,7 +234,9 @@ Rectorat de l'académie de Lille
 
 |
 
-Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative |
+Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative
+
+|
 
 1
 
@@ -378,7 +378,7 @@ Rectorat de l'académie de Nice
 
 |
 
-Directeur des prospectives et du budget académique
+Adjoint au secrétaire général d'académie
 
 |
 
@@ -566,15 +566,27 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
-Académie de Toulouse-Inspection académique de la Haute-Garonne
+Rectorat de l'académie de Toulouse
 
 |
 
-Secrétaire général
+Adjoint au secrétaire général d'académie
 
 |
 
 1
+
+|
+
+Administration centrale du ministère chargé de l'éducation nationale
+
+|
+
+Chargé de mission
+
+|
+
+3
 
 |
 
@@ -662,7 +674,9 @@ Secrétaire général
 
 |
 
-Administration centrale du ministère chargé de l'éducation nationale |
+Administration centrale du ministère chargé de l'éducation nationale
+
+|
 
 Chargé de mission
 
