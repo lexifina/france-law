@@ -32,9 +32,7 @@ PRATIQUE
 
 |
 
-A-10. Formation à la lutte contre
-
-le feu et la fumée
+A-10. Formation à la lutte contre le feu et la fumée
 
 |
 
@@ -48,7 +46,7 @@ X
 
 |
 
-Classification des incendies et des types d'agent d'extinction appropriés.
+Classification des incendies et des types d'agents d'extinction appropriés.
 
 |
 
@@ -58,7 +56,7 @@ X
 
 |
 
-Procédures pour différents types d'incendie.
+Procédures pour différents types d'incendies.
 
 |
 
@@ -102,7 +100,7 @@ X
 
 |
 
-Influence du facteur temps et des relations entre les membres d'équipage : coordination et assistance.
+Influence du facteur temps et des relations entre les membres d'équipage : coordination et assistance
 
 |
 
@@ -152,7 +150,7 @@ X
 
 |
 
-Vérification fréquente des zones à risques, notamment les toilettes et les détecteurs de fumée correspondants, et conduite à tenir en cas de déclenchement des alarmes associées.
+Vérification fréquente des zones à risques, notamment les toilettes et les détecteurs de fumée correspondants et conduite à tenir en cas de déclenchement des alarmes associées.
 
 |
 
@@ -198,9 +196,7 @@ X
 
 |
 
-B-20. Entraînement à la survie
-
-en milieu aquatique
+B-20. Entraînement à la survie en milieu aquatique
 
 |
 
@@ -234,9 +230,7 @@ X
 
 |
 
-C-30. Formation à la survie adaptée
-
-aux zones d'opération
+C-30. Formation à la survie adaptée aux zones d'opération
 
 |
 
@@ -276,12 +270,6 @@ X
 
 Utilisation :
 
-|
-
-|
-
-|
-
 - des gilets de sauvetage ;
 
 |
@@ -292,7 +280,7 @@ X
 
 |
 
-- des équipements rattachés et / ou transportés dans les canots et les toboggans convertibles.
+- des équipements rattachés et/ou transportés dans les canots et les toboggans convertibles.
 
 |
 
@@ -326,7 +314,7 @@ X
 
 |
 
-Précautions préalables à l'utilisation des moyens lors des différents exercices.
+Précautions préalables à l'utilisation des moyens lors des différents exercices
 
 |
 
@@ -400,7 +388,9 @@ X
 
 |
 
-D-40. Aspects médicaux et premiers secours / Instructions concernant les premiers secours
+D-40. Aspects médicaux et premiers secours/instructions
+
+concernant les premiers secours
 
 |
 
@@ -434,7 +424,7 @@ X
 
 |
 
-- le système cardio-vasculaire ;
+- le système cardiovasculaire ;
 
 |
 
@@ -454,7 +444,17 @@ X
 
 |
 
-- l'appareil respiratoire.
+- l'appareil respiratoire ;
+
+|
+
+X
+
+|
+
+|
+
+- l'appareil urinaire, génital.
 
 |
 
@@ -465,6 +465,12 @@ X
 |
 
 Matériel disponible à bord et utilisation :
+
+|
+
+|
+
+|
 
 - trousse de premiers secours (nombre et contenu) ;
 
@@ -478,7 +484,7 @@ X
 
 |
 
-- trousse d'urgence ;
+- trousse médicale d'urgence ;
 
 |
 
@@ -508,6 +514,8 @@ X
 
 |
 
+X
+
 |
 
 - tensiomètre.
@@ -523,6 +531,12 @@ X
 |
 
 Protocole d'intervention :
+
+|
+
+|
+
+|
 
 - analyse d'une situation d'urgence : observations, antécédents ;
 
@@ -594,7 +608,7 @@ X
 
 |
 
-- membre d'équipage de cabine (1er maillon de la chaîne de secours) ;
+- membre d'équipage de cabine (premier maillon de la chaîne de secours) ;
 
 |
 
@@ -644,9 +658,13 @@ X
 
 |
 
-Aspects médicaux et premiers secours / premiers secours associés à la formation
+Aspects médicaux et premiers secours/premiers secours
 
-à la survie et hygiène appropriée
+associés à la formation à la survie et hygiène appropriée
+
+|
+
+|
 
 |
 
@@ -660,7 +678,7 @@ Gestes de premiers secours : ensemble des techniques médicales d'aide d'urgence
 
 Premiers secours liés aux situations de première urgence :
 
-- arrêts cardio-respiratoires (ACR), état de choc, coma, troubles de conscience, obstructions complètes, détresses respiratoires, hémorragies graves ;
+- arrêts cardio-respiratoires (ACR), état de choc, coma, détresses respiratoires avec pratique de la réanimation cardio-pulmonaire (utilisation d'un mannequin spécialement conçu à cet effet), épilepsie, hémorragies graves, obstructions complètes, troubles de conscience ;
 
 |
 
@@ -686,6 +704,22 @@ X
 
 Premiers secours liés aux urgences potentielles :
 
+|
+
+|
+
+|
+
+- urgences vasculaires (AVC) ;
+
+|
+
+X
+
+|
+
+|
+
 - urgences cardio-vasculaires, respiratoires, abdominales, urologiques ;
 
 |
@@ -698,7 +732,17 @@ X
 
 |
 
-- accouchement, grossesse extra-utérine (GEU).
+- réactions allergiques ;
+
+|
+
+X
+
+|
+
+|
+
+- accouchement à bord, grossesse extra-utérine (GEU).
 
 |
 
@@ -710,7 +754,7 @@ X
 
 Premiers secours liés aux états de malaise :
 
-- malaise vagal, convulsions, hypoglycémie, tétanie, mal de l'air, diarrhées, vomissement, anxiété, asthme.
+Asthme, diarrhées, convulsions, hyperventilation, hypoglycémie, diabète, malaise vagal, tétanie, mal de l'air, troubles digestifs, stress, vomissements.
 
 |
 
@@ -724,6 +768,12 @@ X
 
 Premiers secours liés aux circonstances et à un environnement particulier :
 
+|
+
+|
+
+|
+
 - traumatologie (fractures, entorses, luxation) ;
 
 |
@@ -733,6 +783,16 @@ X
 |
 
 X
+
+|
+
+- affections des tissus mous ;
+
+|
+
+X
+
+|
 
 |
 
@@ -766,7 +826,7 @@ X
 
 |
 
-- plaies, brûlures.
+- plaies, brûlures ;
 
 |
 
@@ -778,7 +838,47 @@ X
 
 |
 
-Aspects médicaux et premiers secours / effets physiologiques en vol
+- blessures (petites hémorragies nasales et dentaires).
+
+|
+
+X
+
+|
+
+|
+
+Santé et hygiène du voyage :
+
+|
+
+X
+
+|
+
+|
+
+- vaccinations ;
+
+- le risque de contact avec des maladies infectieuses, en particulier dans le cadre d'activités exercées dans les régions intertropicales et subtropicales. Déclaration des maladies infectieuses, protection contre l'infection et prévention des maladies transmises par l'eau et les aliments. La formation comprend les moyens de réduire ces risques ;
+
+- l'hygiène à bord ;
+
+- les décès à bord ;
+
+- la manipulation des déchets cliniques ;
+
+- la désinfection de l'appareil ;
+
+- la gestion de la vigilance, les effets physiologiques de la fatigue, la physiologie du sommeil, le rythme circadien et les décalages horaires.
+
+|
+
+|
+
+|
+
+Aspects médicaux et premiers secours/effets physiologiques en vol
 
 Hypoxie (le milieu aéronautique et les réactions de l'organisme)
 
@@ -796,7 +896,7 @@ X
 
 |
 
-- effets sur les cavités semi-closes (suivi ORL, suivi dentaire, tube digestif) ;
+- effets sur les cavités semi-closes (ORL, dents, tube digestif) ;
 
 |
 
@@ -848,6 +948,14 @@ X
 
 Autres réactions physiologiques :
 
+|
+
+X
+
+|
+
+|
+
 - effets liés aux turbulences ;
 
 |
@@ -878,7 +986,7 @@ X
 
 |
 
-- effets liés à l'immobilité (phlébite et thrombose).
+- effets liés à l'immobilité (phlébite et trombose).
 
 |
 
@@ -912,6 +1020,8 @@ X
 
 - facteurs favorisant l'hypoxie :
 
+- lors d'un vol normal ;
+
 |
 
 X
@@ -920,11 +1030,21 @@ X
 
 |
 
-- lors d'un vol normal ;
-
 - lors d'une décompression explosive et progressive ;
 
+|
+
+|
+
+|
+
 - les organes sensibles à l'altitude ;
+
+|
+
+|
+
+|
 
 - protection (O2).
 
@@ -962,7 +1082,7 @@ X
 
 |
 
-Passagers requis.
+- Passagers requis.
 
 |
 
@@ -1034,7 +1154,7 @@ X
 
 |
 
-Formation concernant les marchandises dangereuses, y compris les dispositions de la sous-partie R de l'annexe III du règlement 3922 / 91 :
+Formation concernant les marchandises dangereuses, y compris les dispositions de la sous-partie R de l'annexe III du règlement 3922/91 :
 
 |
 
@@ -1094,7 +1214,7 @@ X
 
 |
 
-Procédures de sûreté, y compris les dispositions de la sous-partie S de l'annexe III du règlement 3922 / 91.
+Procédures de sûreté, y compris les dispositions de la sous-partie S du règlement 3922/91.
 
 |
 
@@ -1146,9 +1266,27 @@ X
 
 - verbalement ;
 
+|
+
+|
+
+|
+
 - gestuellement ;
 
+|
+
+|
+
+|
+
 - par système radio,
+
+|
+
+|
+
+|
 
 entre :
 
@@ -1190,27 +1328,7 @@ X
 
 |
 
-- aptitude physique et mentale ;
-
-|
-
-X
-
-|
-
-|
-
-- vaccinations et prévention des maladies tropicales, épidémies ;
-
-|
-
-X
-
-|
-
-|
-
-- hygiène.
+- aptitude physique et mentale.
 
 |
 
@@ -1330,7 +1448,7 @@ X
 
 |
 
-Briefing avant le vol de l'équipage de cabine et communication des informations relatives à la sécurité requises pour l'exercice de leurs fonctions :
+Briefing avant le vol de l'équipage de cabine et communication des informations relatives à la sécurité requises pour l'exercice de leur fonctions :
 
 |
 
@@ -1350,7 +1468,7 @@ X
 
 |
 
-- briefing commun équipage de conduite / équipage de cabine.
+- briefing commun équipage de conduite/équipage de cabine.
 
 |
 
@@ -1392,7 +1510,7 @@ X
 
 |
 
-- accélération arrêt ;
+- accélération-arrêt ;
 
 |
 
@@ -1450,9 +1568,17 @@ X
 
 |
 
-H-80. Gestion des ressources
+Connaissance des effets de la contamination de surface et de la nécessité d'informer l'équipage de conduite de toute contamination de surface observée.
 
-de l'équipage (CRM)
+|
+
+X
+
+|
+
+|
+
+H-80. Gestion des ressources de l'équipage (CRM)
 
 |
 
@@ -1470,27 +1596,9 @@ X
 
 Principes généraux (approfondi) :
 
-|
-
-|
-
-|
-
 - facteurs humains en aviation ;
 
-|
-
-|
-
-|
-
 - instructions générales relatives aux principes et objectifs de la CRM ;
-
-|
-
-|
-
-|
 
 - performances et limites humaines.
 
@@ -1514,35 +1622,11 @@ X
 
 - perception de soi, erreur humaine et fiabilité, attitudes et comportements, autoévaluation ;
 
-|
-
-|
-
-|
-
 - stress et gestion du stress ;
-
-|
-
-|
-
-|
 
 - fatigue et vigilance (approfondi) ;
 
-|
-
-|
-
-|
-
 - confiance en soi ;
-
-|
-
-|
-
-|
 
 - évaluation de la situation, acquisition et traitement des informations.
 
