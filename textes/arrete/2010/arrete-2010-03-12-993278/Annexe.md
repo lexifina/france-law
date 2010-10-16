@@ -14,6 +14,8 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
+|
+
 Eaux UE et eaux internationales
 
 des zones I, V, VI, VII, VIII, XII et XIV
@@ -36,7 +38,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -84,7 +86,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -140,14 +142,6 @@ Total
 
 |
 
-Des prises accessoires sont autorisées jusqu'à concurrence de 10 % du quota français 2009, soit 30, 9 t, pourvu :
-
-- qu'elles comprennent des captures à la palangre de requin-hâ (Galeorhinus galeus), squale liche (Dalatias licha), squale savate (Deania calcea), squale chagrin de l'Atlantique (Centrophorus squamosus), sagre rude (Etmopterus princeps), sagre commun (Etmopterus pusillus), pailona commun (Centroscymnus coelolepis) et aiguillat commun / chien de mer (Squalus acanthias) ;
-
-- qu'une taille maximale de débarquement de 100 cm (longueur totale) soit respectée, et
-
-- que les prises accessoires constituent moins de 10 % du poids total des organismes marins détenus à bord du navire de pêche.
-
 ANCHOIS
 
 Engraulis encrasicolus
@@ -161,6 +155,8 @@ ZONES DE RÉFÉRENCE
 du Conseil international
 
 pour l'exploration de la mer (CIEM)
+
+|
 
 VIII
 
@@ -182,7 +178,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -202,7 +198,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-42
+195
 
 |
 
@@ -210,7 +206,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-985
+2 055
 
 |
 
@@ -226,15 +222,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-324
+701
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-2
+0
 
 |
 
@@ -242,7 +238,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-4
+104
 
 |
 
@@ -250,7 +246,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-25
+39
 
 |
 
@@ -266,7 +262,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-138
+114
 
 |
 
@@ -274,7 +270,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-5
+12
 
 |
 
@@ -282,7 +278,7 @@ Total
 
 |
 
-1 525
+3 220
 
 |
 
@@ -297,6 +293,8 @@ ZONES DE RÉFÉRENCE
 du Conseil international
 
 pour l'exploration de la mer (CIEM)
+
+|
 
 Eaux des îles Féroé
 
@@ -320,7 +318,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -368,7 +366,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -438,15 +436,11 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
-VI, eaux UE
+VI, Eaux UE
 
 et eaux internationales
 
-de la zone Vb
-
-et eaux internationales
+de la zone V b, et eaux internationales
 
 des zones XII et XIV
 
@@ -472,11 +466,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-37
+38
 
 |
 
-248
+353
 
 |
 
@@ -484,7 +478,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-640
+592
 
 |
 
@@ -496,7 +490,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-139
+142
 
 |
 
@@ -504,19 +498,19 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
+1
+
+|
+
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
+
+|
+
 0
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
-
-|
-
-0
-
-|
-
-313
+320
 
 |
 
@@ -524,7 +518,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-89
+100
 
 |
 
@@ -536,7 +530,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-841
+860
 
 |
 
@@ -544,7 +538,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-58
+66
 
 |
 
@@ -556,7 +550,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-4 768
+4 773
 
 |
 
@@ -564,7 +558,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-2 355
+2 616
 
 |
 
@@ -572,11 +566,11 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-2 234
+2 295
 
 |
 
-7 325
+7 345
 
 |
 
@@ -584,7 +578,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-2 740
+3 093
 
 |
 
@@ -604,7 +598,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-72
+115
 
 |
 
@@ -616,7 +610,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-209
+214
 
 |
 
@@ -624,11 +618,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-249
+281
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -644,7 +638,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-236
+295
 
 |
 
@@ -656,7 +650,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 667
+1 702
 
 |
 
@@ -664,7 +658,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-359
+392
 
 |
 
@@ -676,7 +670,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-34
+35
 
 |
 
@@ -684,7 +678,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-267
+383
 
 |
 
@@ -704,7 +698,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-105
+138
 
 |
 
@@ -712,11 +706,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-70
+43
 
 |
 
-940
+961
 
 |
 
@@ -724,7 +718,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-281
+323
 
 |
 
@@ -736,7 +730,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-191
+195
 
 |
 
@@ -744,7 +738,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-64
+72
 
 |
 
@@ -752,11 +746,11 @@ Total
 
 |
 
-2 342
+2 377
 
 |
 
-16 699
+16 924
 
 |
 
@@ -764,11 +758,11 @@ Total
 
 |
 
-7 515
+8 467
 
 |
 
-(1) En référence à la note de bas de page n° 1 du quota de baudroie en zone VII du règlement CE 53 / 2010.
+(1) En référence à la note de bas de page n° 1 du quota de baudroie en zone VII du règlement (CE) n° 53/2010.
 
 |
 
@@ -786,9 +780,11 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
+Eaux UE
 
-Eaux UE et eaux internationales des zones I, II et XIV
+et eaux internationales
+
+des zones I, II et XIV
 
 |
 
@@ -798,9 +794,9 @@ de la zone IV
 
 |
 
-Eaux UE et eaux internationales des zones V,
+Eaux UE et eaux internationales
 
-VI et VII
+des zones V, VI et VII
 
 |
 
@@ -808,7 +804,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-6
+7
 
 |
 
@@ -816,7 +812,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-34
+35
 
 |
 
@@ -836,7 +832,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -896,7 +892,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-156
+161
 
 |
 
@@ -932,7 +928,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -1032,7 +1028,7 @@ Total
 
 |
 
-6
+7
 
 |
 
@@ -1040,7 +1036,7 @@ Total
 
 |
 
-191
+197
 
 |
 
@@ -1058,51 +1054,47 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-IV, eaux UE des zones II a, partie de la zone III a non comprise dans le Skagerrak ni dans le Kattegat
+IV, eaux UE des zones II a,
+
+partie de la zone III a
+
+non comprise dans le Skagerrak
+
+ni dans le Kattegat
 
 |
 
-VI b ; eaux UE et eaux internationales de la zone V b, à l'ouest de 12° 00 O et des zones XII et XIV
+VI b, Eaux UE
+
+et eaux internationales
+
+de la zone V b
+
+à l'ouest de
+
+12° 00 O et des zones XII et XIV
 
 |
 
-VI a ; eaux UE et eaux internationales de la zone V b, à l'est de 12° 00 O
+VI a, Eaux UE
+
+et eaux internationales de la zone V b
+
+à l'est de
+
+12° 00 O
 
 |
 
-du 01/01/10
-
-au 31/03/10
+Du 01/01/10au 30/09/10
 
 |
 
-du 01/01/10
-
-au 31/06/10
-
-|
-
-du 01/01/10
-
-au 31/09/10
-
-|
-
-du 01/01/10
-
-au 31/12/10
+Du 01/01/10au 31/12/10
 
 |
 
 Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
-
-|
-
-135
-
-|
-
-202
 
 |
 
@@ -1118,19 +1110,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1
+8
 
 |
 
 Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)
-
-|
-
-336
-
-|
-
-503
 
 |
 
@@ -1150,15 +1134,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
-
-|
-
-1
-
-|
-
-2
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -1198,23 +1174,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-0
-
-|
-
-0
-
-|
-
 Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -1238,14 +1198,6 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-18
-
-|
-
-28
-
-|
-
 37
 
 |
@@ -1254,23 +1206,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-11
+12
 
 |
 
-41
+54
 
 |
 
 Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
-
-|
-
-2
-
-|
-
-3
 
 |
 
@@ -1310,23 +1254,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-0
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
-
-|
-
-0
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -1366,23 +1294,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0
-
-|
-
-0
-
-|
-
 Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -1422,23 +1334,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-0
-
-|
-
-0
-
-|
-
 Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP Sud)
-
-|
-
-2
-
-|
-
-4
 
 |
 
@@ -1454,19 +1350,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-4
+5
 
 |
 
 Navires non adhérents à une organisation de producteurs
-
-|
-
-4
-
-|
-
-5
 
 |
 
@@ -1490,14 +1378,6 @@ Total
 
 |
 
-498
-
-|
-
-747
-
-|
-
 996
 
 |
@@ -1506,11 +1386,11 @@ Total
 
 |
 
-13
+14
 
 |
 
-46
+67
 
 |
 
@@ -1536,39 +1416,33 @@ VII d
 
 |
 
-VII b, c, e-k, VIII, IX, X, eaux UE de la zone COPACE 34. 1. 1
+VII b, c, e-k, VIII,IX, X, eaux UE de la zone COPACE 34.1.1
 
 |
 
-Eaux norvégiennes des zones I et II
+Eaux norvégiennes
+
+des zones
+
+I et II
 
 |
 
-Eaux internationales des zones I et II b
+Eaux
+
+internationales
+
+des zones
+
+I et II b
 
 |
 
-du 01/01/10
-
-au 31/03/10
+Du 01/01/10 au 30/09/10
 
 |
 
-du 01/01/10
-
-au 31/06/10
-
-|
-
-du 01/01/10
-
-au 31/09/10
-
-|
-
-du 01/01/10
-
-au 31/12/10
+Du 01/01/10 au 31/12/10
 
 |
 
@@ -1580,27 +1454,19 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-306
+670
 
 |
 
-463
+837
 
 |
 
-611
+13
 
 |
 
-764
-
-|
-
-3
-
-|
-
-2 224
+2 281
 
 |
 
@@ -1616,19 +1482,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-145
+314
 
 |
 
-217
-
-|
-
-289
-
-|
-
-361
+393
 
 |
 
@@ -1644,7 +1502,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -1652,23 +1510,15 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-99
+226
 
 |
 
-157
+280
 
 |
 
-199
-
-|
-
-248
-
-|
-
-60
+182
 
 |
 
@@ -1688,23 +1538,15 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-4
+10
 
 |
 
-7
+12
 
 |
 
-9
-
-|
-
-11
-
-|
-
-218
+227
 
 |
 
@@ -1724,23 +1566,15 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-9
+7
 
 |
 
-0
+11
 
 |
 
-18
-
-|
-
-22
-
-|
-
-712
+738
 
 |
 
@@ -1760,23 +1594,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-64
+139
 
 |
 
-96
+174
 
 |
 
-128
-
-|
-
-160
-
-|
-
-1 342
+1 497
 
 |
 
@@ -1789,14 +1615,6 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 |
 
 Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -1840,15 +1658,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-0
-
-|
-
-0
-
-|
-
-69
+82
 
 |
 
@@ -1860,15 +1670,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
-
-|
-
-0
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -1912,15 +1714,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0
-
-|
-
-0
-
-|
-
-98
+111
 
 |
 
@@ -1948,7 +1742,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
+11
 
 |
 
@@ -1960,23 +1754,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
-
-|
-
-0
-
-|
-
 Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP)
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -2020,15 +1798,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-0
-
-|
-
-0
-
-|
-
-136
+155
 
 |
 
@@ -2040,7 +1810,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime du Nord-Pas-de-Calais
+Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime du Nord - Pas-de-Calais
 
 |
 
@@ -2048,19 +1818,11 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-5
+12
 
 |
 
-8
-
-|
-
-11
-
-|
-
-14
+16
 
 |
 
@@ -2081,14 +1843,6 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 |
 
 0
-
-|
-
-2
-
-|
-
-3
 
 |
 
@@ -2120,14 +1874,6 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-3
-
-|
-
-4
-
-|
-
 6
 
 |
@@ -2136,7 +1882,7 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-5
+6
 
 |
 
@@ -2149,14 +1895,6 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 |
 
 Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -2192,27 +1930,19 @@ Total
 
 |
 
-637
+1 388
 
 |
 
-955
+1 735
 
 |
 
-1 275
+3 029
 
 |
 
-1 592
-
-|
-
-2 660
-
-|
-
-2 224
+2 281
 
 |
 
@@ -2236,13 +1966,11 @@ pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
-VI ; eaux UE
+VI, Eaux UE
 
 et eaux internationales
 
-de la zone V b ;
+de la zone V b,
 
 eaux internationales
 
@@ -2266,11 +1994,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-89
+187
 
 |
 
-21
+10
 
 |
 
@@ -2282,7 +2010,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-18
+21
 
 |
 
@@ -2290,7 +2018,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -2298,11 +2026,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-14
+16
 
 |
 
-8
+2
 
 |
 
@@ -2314,7 +2042,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-51
+59
 
 |
 
@@ -2330,11 +2058,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-1 053
+1 182
 
 |
 
-236
+315
 
 |
 
@@ -2342,15 +2070,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 092
+982
 
 |
 
-2 932
+3 349
 
 |
 
-383
+467
 
 |
 
@@ -2378,15 +2106,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-81
+92
 
 |
 
-33
+42
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -2410,11 +2138,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 658
+1 899
 
 |
 
-54
+70
 
 |
 
@@ -2426,11 +2154,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-49
+55
 
 |
 
-51
+58
 
 |
 
@@ -2446,7 +2174,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-2
+4
 
 |
 
@@ -2458,11 +2186,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-531
+536
 
 |
 
-53
+62
 
 |
 
@@ -2486,15 +2214,15 @@ Total
 
 |
 
-1 339
+1 229
 
 |
 
-6 476
+7 396
 
 |
 
-865
+1 054
 
 |
 
@@ -2512,17 +2240,13 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 Eaux UE des zones IV b, IV c
 
 et VII d
 
 |
 
-Eaux UE des zones II a, IV a, VI, VII a-c, VII e-k, VIII a, b, d, e,
-
-eaux UE et internationales
+Eaux UE des zones II a, IV a, VI, VII a-c, VII e-k, VIII a, b, d, e, eaux UE et internationales
 
 de la zone V b,
 
@@ -2536,11 +2260,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-4 337
+4 338
 
 |
 
-8 817
+10 284
 
 |
 
@@ -2548,15 +2272,15 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-545
+546
 
 |
 
-34
+38
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -2564,7 +2288,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-51
+90
 
 |
 
@@ -2576,7 +2300,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-46
+52
 
 |
 
@@ -2588,7 +2312,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-338
+384
 
 |
 
@@ -2600,7 +2324,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 806
+1 799
 
 |
 
@@ -2624,11 +2348,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-1 256
+1 395
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -2636,7 +2360,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-2
+1
 
 |
 
@@ -2648,7 +2372,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-62
+41
 
 |
 
@@ -2660,7 +2384,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-26
+29
 
 |
 
@@ -2672,7 +2396,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-13
+15
 
 |
 
@@ -2684,7 +2408,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-373
+423
 
 |
 
@@ -2696,7 +2420,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-17
+19
 
 |
 
@@ -2704,15 +2428,15 @@ Total
 
 |
 
-5 118
+5 120
 
 |
 
-12 841
+14 570
 
 |
 
-DORADE ROSE (pageot rose)
+DAURADE ROSE (pageot rose)
 
 Pagellus bogaraveo
 
@@ -2725,6 +2449,8 @@ ZONES DE RÉFÉRENCE
 du Conseil international
 
 pour l'exploration de la mer (CIEM)
+
+|
 
 Eaux UE et eaux
 
@@ -2740,7 +2466,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0, 3
+1,2
 
 |
 
@@ -2748,15 +2474,15 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-0, 0
+0,0
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-0, 5
+0,6
 
 |
 
@@ -2764,7 +2490,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-0, 3
+0,4
 
 |
 
@@ -2772,7 +2498,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-18, 2
+22,1
 
 |
 
@@ -2780,7 +2506,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-14, 5
+20,9
 
 |
 
@@ -2788,7 +2514,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0, 0
+0,0
 
 |
 
@@ -2796,15 +2522,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-2, 9
+2,5
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-0, 5
+0,6
 
 |
 
@@ -2812,7 +2538,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0, 2
+0,4
 
 |
 
@@ -2820,7 +2546,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0, 1
+0,1
 
 |
 
@@ -2828,7 +2554,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-0, 0
+0,0
 
 |
 
@@ -2836,7 +2562,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-0, 9
+1,1
 
 |
 
@@ -2844,7 +2570,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-0, 6
+1,1
 
 |
 
@@ -2852,7 +2578,7 @@ Total
 
 |
 
-39
+51,0
 
 |
 
@@ -2870,15 +2596,13 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 Eaux norvégiennes
 
 des zones I et II
 
 |
 
-IV ; eaux UE
+IV, eaux UE
 
 de la zone II a
 
@@ -2888,11 +2612,7 @@ VII a
 
 |
 
-VII b-k, VIII, IX, X, eaux UE
-
-de la zone
-
-COPACE 34. 1. 1
+VII b-k, VIII, IX, X, eaux UE de la zone COPACE 34.1.1
 
 |
 
@@ -2904,7 +2624,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 251
+1 156
 
 |
 
@@ -2912,7 +2632,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-114
+129
 
 |
 
@@ -2924,7 +2644,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-27
+25
 
 |
 
@@ -2932,15 +2652,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-37
+42
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
-
-|
-
-0
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -2952,7 +2668,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-132
+0
+
+|
+
+150
 
 |
 
@@ -2972,7 +2692,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-643
+1 099
 
 |
 
@@ -2992,7 +2712,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-1 013
+787
 
 |
 
@@ -3004,7 +2724,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-28
+26
 
 |
 
@@ -3012,7 +2732,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-4 521
+5 121
 
 |
 
@@ -3052,11 +2772,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-86
+98
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -3092,7 +2812,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-381
+431
 
 |
 
@@ -3112,7 +2832,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-10
+1
 
 |
 
@@ -3152,7 +2872,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-272
+308
 
 |
 
@@ -3164,7 +2884,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-18
+17
 
 |
 
@@ -3184,7 +2904,7 @@ Total
 
 |
 
-1 324
+1 224
 
 |
 
@@ -3192,7 +2912,7 @@ Total
 
 |
 
-7 211
+8 168
 
 |
 
@@ -3210,9 +2930,13 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE des zones
+|
 
-II a et IV, eaux UE et eaux internationales des zones V b et VI
+Eaux communautaires des zones
+
+II a et IV, eaux UE et eaux
+
+internationales des zones Vb et VI
 
 |
 
@@ -3220,7 +2944,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-86
+120
 
 |
 
@@ -3232,7 +2956,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -3260,7 +2984,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-8
+11
 
 |
 
@@ -3280,7 +3004,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -3332,7 +3056,7 @@ Total
 
 |
 
-94
+131
 
 |
 
@@ -3345,8 +3069,6 @@ Thunnus alalunga
 |
 
 ZONES DE RÉFÉRENCE
-
-|
 
 |
 
@@ -3366,7 +3088,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-13
+38
 
 |
 
@@ -3386,11 +3108,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-89
+90
 
 |
 
@@ -3402,7 +3124,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-39
+40
 
 |
 
@@ -3414,7 +3136,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-485
+467
 
 |
 
@@ -3426,7 +3148,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 769
+1 796
 
 |
 
@@ -3438,7 +3160,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-276
+280
 
 |
 
@@ -3450,7 +3172,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-441
+448
 
 |
 
@@ -3458,11 +3180,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-1 132
+1 149
 
 |
 
@@ -3474,7 +3196,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-360
+366
 
 |
 
@@ -3486,7 +3208,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-55
+56
 
 |
 
@@ -3510,7 +3232,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-1 152
+1 170
 
 |
 
@@ -3534,7 +3256,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-36
+37
 
 |
 
@@ -3546,7 +3268,7 @@ Total
 
 |
 
-5 877
+5 967
 
 |
 
@@ -3568,9 +3290,9 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE
+|
 
-et eaux internationales
+Eaux UE et eaux internationales
 
 des zones V, VI et VII
 
@@ -3592,7 +3314,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -3640,7 +3362,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -3710,13 +3432,27 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+Eaux UE
+
+et eaux ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers
+
+des zones V b, VI et VII
+
 |
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones V b, VI et VII
+Eaux UE
 
-|
+et eaux ne relevant pas
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones VIII, IX, X, XII et XIV
+de la souveraineté ou de
+
+la juridiction des pays tiers des zones VIII, IX, X, XII et XIV
 
 |
 
@@ -3744,7 +3480,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -3816,7 +3552,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -3914,13 +3650,29 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+Eaux UE et
+
+internationales
+
+des zones
+
+I et II
+
 |
 
-Eaux UE et internationales des zones I et II
+Eaux UE
 
-|
+et eaux
 
-Eaux UE et eaux norvégiennes de la zone CIEM IV au nord de 53° 30'N
+norvégiennes
+
+de la zone
+
+CIEM IV
+
+au nord
+
+de 53° 30' N
 
 |
 
@@ -3928,7 +3680,15 @@ IV c, VII d
 
 |
 
-Eaux UE et eaux internationales des zones V b, VI b et VI a N
+Eaux UE
+
+et eaux
+
+internationales
+
+des zones V b,
+
+VI b et VI a N
 
 |
 
@@ -3944,19 +3704,19 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-707
+158
 
 |
 
-9 143
+8 531
 
 |
 
-4 727
+4 755
 
 |
 
-503
+513
 
 |
 
@@ -3964,7 +3724,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-626
+639
 
 |
 
@@ -3980,35 +3740,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-1 154
-
-|
-
-0
-
-|
-
-3
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
-
-|
-
-0
-
-|
-
-0
-
-|
-
-210
+1 176
 
 |
 
@@ -4017,6 +3749,34 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 |
 
 1
+
+|
+
+0
+
+|
+
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
+
+|
+
+0
+
+|
+
+0
+
+|
+
+208
+
+|
+
+0
+
+|
+
+3
 
 |
 
@@ -4164,7 +3924,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -4316,7 +4076,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-70
+30
 
 |
 
@@ -4336,19 +4096,19 @@ Total
 
 |
 
-707
+158
 
 |
 
-9 143
+8 531
 
 |
 
-6 227
+6 235
 
 |
 
-503
+513
 
 |
 
@@ -4356,7 +4116,7 @@ Total
 
 |
 
-627
+640
 
 |
 
@@ -4374,17 +4134,47 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+Eaux UE et
+
+eaux ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers de la zone VI
+
 |
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers de la zone VI
+Eaux UE et
+
+eaux ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers
+
+de la zone VII
 
 |
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers de la zone VII
+Eaux UE et
 
-|
+eaux ne relevant pas
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones I, II, III, IV, V, VIII, IX, X, XII et XIV
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers
+
+des zones I, II,
+
+III, IV, V, VIII, IX, X,
+
+XII et XIV
 
 |
 
@@ -4420,7 +4210,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -4516,7 +4306,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -4642,8 +4432,6 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 VII
 
 |
@@ -4656,7 +4444,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-28
+33
 
 |
 
@@ -4668,7 +4456,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-9
+11
 
 |
 
@@ -4676,7 +4464,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -4684,7 +4472,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-58
+40
 
 |
 
@@ -4692,11 +4480,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-10
+13
 
 |
 
-86
+19
 
 |
 
@@ -4704,11 +4492,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-1 675
+1 993
 
 |
 
-850
+922
 
 |
 
@@ -4716,11 +4504,11 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-2 557
+3 043
 
 |
 
-2 138
+2 252
 
 |
 
@@ -4740,15 +4528,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-212
+252
 
 |
 
-137
+142
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -4764,11 +4552,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-101
+120
 
 |
 
-62
+63
 
 |
 
@@ -4776,11 +4564,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-77
+92
 
 |
 
-323
+333
 
 |
 
@@ -4792,7 +4580,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-56
+58
 
 |
 
@@ -4800,7 +4588,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-49
+58
 
 |
 
@@ -4812,11 +4600,11 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-5
+6
 
 |
 
-32
+33
 
 |
 
@@ -4824,11 +4612,11 @@ Total
 
 |
 
-4 724
+5 622
 
 |
 
-3 745
+3 865
 
 |
 
@@ -4848,8 +4636,6 @@ pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 VII
 
 |
@@ -4862,7 +4648,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-418
+427
 
 |
 
@@ -4882,79 +4668,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-2 029
-
-|
-
-4
-
-|
-
-Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)
-
-|
-
-1 280
-
-|
-
-10
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
-
-|
-
-1 061
-
-|
-
-380
-
-|
-
-Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
-
-|
-
-4 020
-
-|
-
-529
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
-
-|
-
-40
-
-|
-
-53
-
-|
-
-Navires adhérant à l'organisation de producteurs Vendée
-
-|
-
-170
-
-|
-
-96
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+2 095
 
 |
 
@@ -4962,7 +4680,75 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-113
+Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)
+
+|
+
+1 321
+
+|
+
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
+
+|
+
+1 095
+
+|
+
+393,5
+
+|
+
+Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
+
+|
+
+4 150
+
+|
+
+552,5
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+
+|
+
+41
+
+|
+
+64
+
+|
+
+Navires adhérant à l'organisation de producteurs Vendée
+
+|
+
+176
+
+|
+
+107
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+
+|
+
+0
+
+|
+
+89
 
 |
 
@@ -4970,11 +4756,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-158
+164
 
 |
 
-28
+18
 
 |
 
@@ -4986,7 +4772,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-77
+63
 
 |
 
@@ -5006,7 +4792,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-159
+124
 
 |
 
@@ -5018,11 +4804,11 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-73
+124
 
 |
 
-48
+67
 
 |
 
@@ -5030,11 +4816,11 @@ Total
 
 |
 
-9 555
+9 864
 
 |
 
-1 369
+1 385
 
 |
 
@@ -5052,29 +4838,31 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
+Eaux
 
-Eaux norvégiennes
+norvégiennes
 
 des zones I et II
 
 |
 
-III a, eaux UE
+III a, IV,
+
+eaux UE
 
 des zones II a,
 
-III b, c et d
+III b, c, d
 
 |
 
-VI, eaux UE
+VI, Eaux UE
 
-et eaux internationales
+et eaux
 
-de la zone V b, eaux UE
+internationales
 
-et eaux internationales
+de la zone V b,eaux UE et eaux internationales
 
 des zones XII et XIV
 
@@ -5088,7 +4876,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-16 984
+16 659
 
 |
 
@@ -5112,7 +4900,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5168,11 +4956,11 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-596
+440
 
 |
 
-4 402
+4 380
 
 |
 
@@ -5208,7 +4996,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -5236,7 +5024,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0
+22
 
 |
 
@@ -5280,7 +5068,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-61
+1
 
 |
 
@@ -5312,7 +5100,7 @@ Total
 
 |
 
-17 641
+17 100
 
 |
 
@@ -5334,7 +5122,11 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE des zones II a et IV
+|
+
+Eaux UE
+
+des zones II a et IV
 
 |
 
@@ -5354,7 +5146,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5402,7 +5194,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -5446,7 +5238,9 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-6 |
+6
+
+|
 
 Total
 
@@ -5470,7 +5264,11 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE des zones II a et IV
+|
+
+Eaux UE
+
+des zones II a et IV
 
 |
 
@@ -5490,7 +5288,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5538,7 +5336,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -5608,9 +5406,15 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
+Eaux UE
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones II, IV et V
+et eaux ne relevant pas
+
+de la souveraineté ou
+
+de la juridiction des pays tiers
+
+des zones II, IV et V
 
 |
 
@@ -5626,11 +5430,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-12
+14
 
 |
 
-392
+443
 
 |
 
@@ -5646,7 +5450,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5686,11 +5490,11 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-4
+12
 
 |
 
-1 028
+1 207
 
 |
 
@@ -5718,7 +5522,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -5774,7 +5578,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-18
+5
 
 |
 
@@ -5794,11 +5598,11 @@ Total
 
 |
 
-16
+26
 
 |
 
-1 438
+1 655
 
 |
 
@@ -5816,7 +5620,9 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux des îles Féroé
+|
+
+Eaux des Iles Féroé
 
 de la zone V b
 
@@ -5838,7 +5644,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5886,7 +5692,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -5956,9 +5762,13 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
+Eaux UE
 
-Eaux UE et eaux internationales des zones I et II
+et eaux
+
+internationales
+
+des zones I et II
 
 |
 
@@ -5968,11 +5778,21 @@ de la zone IV
 
 |
 
-Eaux UE et eaux internationales de la zone V
+Eaux UE
+
+et eaux
+
+internationales
+
+de la zone V
 
 |
 
-Eaux UE et eaux internationales des zones VI, VII, VIII, IX, X, XII et XIV
+Eaux UE et eaux internationales
+
+des zones VI, VII, VIII,
+
+IX, X, XII et XIV
 
 |
 
@@ -5984,7 +5804,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-124
+144
 
 |
 
@@ -5992,7 +5812,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-73
+87
 
 |
 
@@ -6012,15 +5832,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-10
+12
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
-
-|
-
-0
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -6032,7 +5848,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-66
+0
+
+|
+
+79
 
 |
 
@@ -6052,7 +5872,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-111
+132
 
 |
 
@@ -6072,7 +5892,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-296
+352
 
 |
 
@@ -6084,7 +5904,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-16
+20
 
 |
 
@@ -6092,7 +5912,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 182
+1 412
 
 |
 
@@ -6112,7 +5932,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-9
+11
 
 |
 
@@ -6132,15 +5952,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-26
+31
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -6152,7 +5968,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-4
+0
+
+|
+
+5
 
 |
 
@@ -6172,7 +5992,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-87
+100
 
 |
 
@@ -6192,7 +6012,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-7
+8
 
 |
 
@@ -6224,7 +6044,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-5
+6
 
 |
 
@@ -6232,7 +6052,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-145
+169
 
 |
 
@@ -6252,7 +6072,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-17
+20
 
 |
 
@@ -6264,7 +6084,7 @@ Total
 
 |
 
-145
+170
 
 |
 
@@ -6272,7 +6092,7 @@ Total
 
 |
 
-2 034
+2 419
 
 |
 
@@ -6290,39 +6110,39 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 III a, IV, eaux UE
 
-des zones II a
+des zones II a,
 
-III b, c, d
+III b, III c III d
 
 |
 
-VI, VII, VIII a, b, d, e, eaux UE
+VI, VII, VIII a,
 
-et eaux internationales
+b, d, e
+
+eaux UE et eaux internationales
 
 de la zone V b
 
 |
 
-VIII c, IX, X,
+VIII c, IX et X
 
 eaux UE
 
 de la zone
 
-COPACE 34. 1. 1
+COPACE 34.1.1
 
 |
 
-Dont pêchable
+dont pêchable
 
 en zone
 
-VIII a, b et d (1)
+VIII a, b, d (1)
 
 |
 
@@ -6330,19 +6150,19 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-988
+958
 
 |
 
-7 655
+8 510
 
 |
 
-1 019
+1 010
 
 |
 
-1 019
+1 010
 
 |
 
@@ -6350,23 +6170,23 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-508
+538
 
 |
 
-2 592
+2 417
 
 |
 
-0
+29
 
 |
 
-0
+29
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -6378,11 +6198,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-0
+13
 
 |
 
-0
+13
 
 |
 
@@ -6394,7 +6214,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-127
+47
 
 |
 
@@ -6414,15 +6234,15 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-70
+250
 
 |
 
-179
+183
 
 |
 
-179
+183
 
 |
 
@@ -6434,15 +6254,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-173
+175
 
 |
 
-1 057
+1 102
 
 |
 
-1 057
+1 102
 
 |
 
@@ -6478,15 +6298,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-310
+314
 
 |
 
-310
+314
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs organisation de producteurs des Marins-Pêcheurs de l'île d'Yeu
 
 |
 
@@ -6518,11 +6338,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-44
+45
 
 |
 
-44
+45
 
 |
 
@@ -6534,15 +6354,15 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
+20
 
 |
 
-88
+148
 
 |
 
-88
+148
 
 |
 
@@ -6574,19 +6394,19 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-180
+210
 
 |
 
-1 069
+1 078
 
 |
 
-1 069
+1 078
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Nord-Pas-de-Calais
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime du Nord - Pas-de-Calais
 
 |
 
@@ -6606,7 +6426,7 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Haute-Normandie
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Haute-Normandie
 
 |
 
@@ -6626,7 +6446,7 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Basse-Normandie
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Basse-Normandie
 
 |
 
@@ -6638,7 +6458,15 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-0
+1
+
+|
+
+1
+
+|
+
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne
 
 |
 
@@ -6646,27 +6474,19 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne
-
-|
-
 0
 
 |
 
-0
+43
 
 |
 
-42
+43
 
 |
 
-42
-
-|
-
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime des Pays de la Loire
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime du Pays de la Loire
 
 |
 
@@ -6686,7 +6506,7 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime de Poitou-Charentes
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Poitou-Charentes
 
 |
 
@@ -6706,7 +6526,7 @@ Autres navires non adhérents à une organisation de producteurs et immatriculé
 
 |
 
-Autres navires non adhérents à une organisation de producteurs et immatriculés dans un quartier maritime d'Aquitaine
+Autres navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime d'Aquitaine
 
 |
 
@@ -6734,19 +6554,19 @@ Total
 
 |
 
-12 530
+13 362
 
 |
 
-3 842
+4 000
 
 |
 
-3 842
+4 000
 
 |
 
-(1) En référence à la note de bas de page n° 1 du quota de maquereau en zones VIII c, IX, X du règlement (CE) n° 53 / 2010.
+(1) En référence à la note de bas de page n° 1 du quota de maquereau en zone VII c, IX, X du règlement (CE) n° 53/2010.
 
 |
 
@@ -6764,19 +6584,15 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 IV, eaux UE
 
 de la zone II a
 
 |
 
-VI, eaux UE
+VI, Eaux UE
 
-et internationales
-
-de la zone V b,
+et eaux internationales de la zone V b,
 
 eaux internationales
 
@@ -6800,7 +6616,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-804
+1 043
 
 |
 
@@ -6812,11 +6628,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 399
+1 851
 
 |
 
-13
+1
 
 |
 
@@ -6824,7 +6640,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-1 192
+1 212
 
 |
 
@@ -6836,15 +6652,15 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-2 225
+2 724
 
 |
 
-1
+0
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -6860,11 +6676,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-460
+716
 
 |
 
-3
+0
 
 |
 
@@ -6884,11 +6700,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-449
+718
 
 |
 
-2
+3
 
 |
 
@@ -6908,11 +6724,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-519
+277
 
 |
 
-98
+108
 
 |
 
@@ -6920,7 +6736,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-51
+56
 
 |
 
@@ -6928,15 +6744,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-4
+5
 
 |
 
-2 648
+2 835
 
 |
 
-619
+631
 
 |
 
@@ -6980,19 +6796,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-77
+92
 
 |
 
-473
+489
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
+Navires adhérant à l'organisation de producteurs organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -7004,11 +6816,15 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-3
+0
 
 |
 
-74
+0
+
+|
+
+75
 
 |
 
@@ -7028,11 +6844,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-147
+183
 
 |
 
-162
+165
 
 |
 
@@ -7052,11 +6868,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-7
+1
 
 |
 
-186
+190
 
 |
 
@@ -7080,7 +6896,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-68
+69
 
 |
 
@@ -7088,7 +6904,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-2
+3
 
 |
 
@@ -7100,11 +6916,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-131
+175
 
 |
 
-23
+24
 
 |
 
@@ -7112,7 +6928,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-44
+45
 
 |
 
@@ -7124,11 +6940,11 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-81
+96
 
 |
 
-68
+69
 
 |
 
@@ -7136,7 +6952,7 @@ Total
 
 |
 
-2 101
+2 367
 
 |
 
@@ -7144,15 +6960,15 @@ Total
 
 |
 
-5
+6
 
 |
 
-8 147
+9 669
 
 |
 
-1 810
+1 844
 
 |
 
@@ -7170,6 +6986,8 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
+|
+
 Eaux UE et eaux internationales
 
 des zones I, II, III, IV, V, VI, VII,
@@ -7182,7 +7000,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-11 736
+12 977
 
 |
 
@@ -7242,7 +7060,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -7294,7 +7112,7 @@ Total
 
 |
 
-11 736
+12 977
 
 |
 
@@ -7312,11 +7130,9 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
-
 Eaux UE
 
-des zones II a, II
+des zones II a
 
 |
 
@@ -7336,9 +7152,11 @@ VIII a, b, d, e
 
 VIII c, IX et X
 
-eaux UE de la zone
+eaux UE
 
-COPACE 34. 1. 1
+de la zone
+
+CPACE 34.1.1
 
 |
 
@@ -7346,15 +7164,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-177
+526
 
 |
 
-1 881
+1 999
 
 |
 
-817
+751
 
 |
 
@@ -7370,19 +7188,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-26
+29
 
 |
 
-6
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+7
 
 |
 
@@ -7390,11 +7200,19 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-66
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-109
+0
+
+|
+
+74
+
+|
+
+120
 
 |
 
@@ -7410,11 +7228,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-215
+240
 
 |
 
-196
+215
 
 |
 
@@ -7430,11 +7248,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-661
+737
 
 |
 
-1394
+1 433
 
 |
 
@@ -7446,15 +7264,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-46
+59
 
 |
 
-4 348
+4 757
 
 |
 
-4 531
+4 989
 
 |
 
@@ -7470,11 +7288,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-16
+18
 
 |
 
-215
+236
 
 |
 
@@ -7490,19 +7308,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-16
+18
 
 |
 
-1 085
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+1 193
 
 |
 
@@ -7510,11 +7320,19 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-21
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
-794
+0
+
+|
+
+23
+
+|
+
+873
 
 |
 
@@ -7530,11 +7348,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 606
+1 787
 
 |
 
-1 241
+1 338
 
 |
 
@@ -7550,11 +7368,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-11
+12
 
 |
 
-781
+868
 
 |
 
@@ -7574,7 +7392,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-234
+258
 
 |
 
@@ -7586,15 +7404,15 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-15
+19
 
 |
 
-2 099
+2 242
 
 |
 
-1 532
+1 955
 
 |
 
@@ -7606,15 +7424,15 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-10
+13
 
 |
 
-12
+13
 
 |
 
-232
+242
 
 |
 
@@ -7626,15 +7444,15 @@ Total
 
 |
 
-248
+617
 
 |
 
-10 979
+11 950
 
 |
 
-13 167
+14 478
 
 |
 
@@ -7656,7 +7474,15 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones V, VI et VII
+|
+
+Eaux UE et eaux ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction des pays tiers
+
+des zones V, VI et VII
 
 |
 
@@ -7664,7 +7490,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-75
+81
 
 |
 
@@ -7676,7 +7502,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -7696,7 +7522,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-18
+22
 
 |
 
@@ -7704,7 +7530,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-499
+737
 
 |
 
@@ -7724,7 +7550,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -7736,7 +7562,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-12
+15
 
 |
 
@@ -7760,7 +7586,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-27
+34
 
 |
 
@@ -7776,7 +7602,7 @@ Total
 
 |
 
-632
+890
 
 |
 
@@ -7794,9 +7620,11 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-|
+IV, eaux UE de la zone II a, partie non communautaire
 
-IV, eaux UE de la zone II a, partie non communautaire de la zone III a non comprise dans le Skagerrak ni dans le Kattegat
+de la zone III a non comprise dans le Skagerrak
+
+ni dans le Kattegat
 
 |
 
@@ -7808,7 +7636,13 @@ VII f, g
 
 |
 
-VIII, IX, X, eaux UE de la zone COPACE 34. 1. 1
+VIII, IX, X,
+
+eaux UE
+
+de la zone
+
+COPACE 34.1.1
 
 |
 
@@ -7816,15 +7650,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-98
+101
 
 |
 
-646
+736
 
 |
 
-4
+1
 
 |
 
@@ -7836,11 +7670,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-320
+321
 
 |
 
-559
+637
 
 |
 
@@ -7852,7 +7686,15 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
+
+|
+
+0
+
+|
+
+415
 
 |
 
@@ -7860,15 +7702,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-390
-
-|
-
-3
-
-|
-
-17
+16
 
 |
 
@@ -7880,15 +7714,15 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-52
+60
 
 |
 
-9
+25
 
 |
 
-11
+6
 
 |
 
@@ -7896,11 +7730,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-11
+8
 
 |
 
-13
+35
 
 |
 
@@ -7908,7 +7742,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-23
+29
 
 |
 
@@ -7920,15 +7754,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-134
+153
 
 |
 
-67
+66
 
 |
 
-92
+94
 
 |
 
@@ -7940,7 +7774,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -7948,7 +7782,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-15
+18
 
 |
 
@@ -7960,19 +7794,19 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
+0
+
+|
+
 1
 
 |
 
-6
+64
 
 |
 
-63
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -7988,7 +7822,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-11
+8
 
 |
 
@@ -8008,7 +7842,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-27
+28
 
 |
 
@@ -8020,7 +7854,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -8040,7 +7874,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-6
+1
 
 |
 
@@ -8060,7 +7894,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-2
+0
 
 |
 
@@ -8068,7 +7902,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-5
+7
 
 |
 
@@ -8080,7 +7914,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-121
+138
 
 |
 
@@ -8096,19 +7930,19 @@ Total
 
 |
 
-486
+484
 
 |
 
-1 928
+2 177
 
 |
 
-115
+122
 
 |
 
-313
+319
 
 |
 
@@ -8126,29 +7960,35 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+Eaux UE
+
+des zones II a,
+
+et IV (1)
+
 |
 
-Eaux UE des zones
+Eaux UE
 
-II a et IV (1)
+des zones VI a,
 
-|
-
-Eaux UE des zones
-
-VI a, VI b, VII a-c
+VI b, VII a-c
 
 et VII e-k (2)
 
 |
 
-Eaux UE de la zone
+Eaux UE
+
+de la zone
 
 VII d (3)
 
 |
 
-Eaux UE des zones
+Eaux UE
+
+des zones
 
 VIII et IX (4)
 
@@ -8162,15 +8002,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-120
+46
 
 |
 
-205
+232
 
 |
 
-170
+9
 
 |
 
@@ -8182,11 +8022,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-23
+24
 
 |
 
-50
+53
 
 |
 
@@ -8194,7 +8034,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -8202,11 +8042,11 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-347
+356
 
 |
 
-275
+296
 
 |
 
@@ -8222,15 +8062,15 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-440
+452
 
 |
 
-17
+18
 
 |
 
-6
+1
 
 |
 
@@ -8242,15 +8082,15 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-987
+1 016
 
 |
 
-5
+0
 
 |
 
-585
+707
 
 |
 
@@ -8262,15 +8102,15 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-2 708
+2 801
 
 |
 
-19
+4
 
 |
 
-762
+834
 
 |
 
@@ -8290,7 +8130,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-49
+112
 
 |
 
@@ -8302,7 +8142,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-76
+78
 
 |
 
@@ -8310,15 +8150,11 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-80
+88
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -8330,7 +8166,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-8
+0
+
+|
+
+25
 
 |
 
@@ -8342,7 +8182,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-107
+170
 
 |
 
@@ -8350,7 +8190,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-72
+89
 
 |
 
@@ -8362,7 +8202,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-26
+27
 
 |
 
@@ -8370,7 +8210,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-134
+177
 
 |
 
@@ -8390,7 +8230,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-9
+10
 
 |
 
@@ -8402,15 +8242,15 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-97
+160
 
 |
 
-1
+0
 
 |
 
-29
+32
 
 |
 
@@ -8422,15 +8262,15 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-350
+293
 
 |
 
-63
+67
 
 |
 
-97
+106
 
 |
 
@@ -8442,41 +8282,41 @@ Total
 
 |
 
-5 283
+5 425
 
 |
 
-635
+670
 
 |
 
-2 001
+2 190
 
 |
 
-(1) Les captures de raie fleurie (Leucoraja neavus), de raie bouclée (Raja clavata), de raie lisse (Raja brachyura), de raie douce (Raja montagui) et de raie radiée (Amblyraja radiata) sont déclarées séparément.
+(1) Les captures de raie fleurie (Leucoraja naevus), de raie bouclée (Raja clavata), de raie lisse (Raja brachyura), de raie douce (Raja montagui) et de raie radiée (Amblyraja radiata) sont déclarées séparément.
 
-Quota de prises accessoires. Ces espèces ne représentent pas plus de 25 % en poids vif des captures détenues à bord. Cette condition s'applique uniquement aux navires d'une longueur hors tout supérieure à 15 m.
+Quota de prises accessoires. Ces espèces ne représentent pas plus de 25 % en poids vif des captures détenues à bord. Cette condition s'applique uniquement aux navires d'une longueur hors tout supérieure à 15 mètres.
 
-Ne s'applique pas au pocheteau gris (Dipturus batis). Les caputres de cette espèces ne peuvent être conservées à bord et sont rapidement remises à la mer, indemnes dans toute la mesure du possible.
+Ne s'applique pas au pocheteau gris (Dipturus batis). Les captures de cette espèce ne peuvent être conservées à bord et sont rapidement remises à la mer, indemnes dans toute la mesure du possible.
 
 (2) Les captures de raie fleurie (Leucoraja naevus), de raie bouclée (Raja clavata), de raie lisse (Raja brachyura), de raie douce (Raja montagui), de raie mêlée (Raja microocellata), de raie circulaire (Leucoraja circularis) et de raie chardon (Leucoraja fullonica) sont déclarées séparément.
 
-Ne s'applique pas à la raie ondulée (Raja undulata), au pocheteau gris (Dipturus batis), au pocheteau de Norvège (Raja [Dipturus] nidarosiensis) et à la raie blanche (Rostroraja alba). Les captures de ces espèces ne peuvent être conservées à bord et son rapidement remises à la mer, indemnes dans toute la mesure du possible.
+Ne s'applique pas à la raie ondulée (Raja undulata), au pocheteau gris (Dipturus batis), au pocheteau de Norvège (Raja [dipturus] nidarosiensis) et à la raie blanche (Rostroraja alba). Les captures de ces espèces ne peuvent être conservées à bord et sont rapidement remises à la mer, indemnes dans toute la mesure du possible.
 
-(3) Les captures de raie fleurie (Leucoraja neavus), de raie bouclée (Raja clavata), de raie lisse (Raja brachyura), de raie douce (Raja montagui) et de raie radiée (Amblyraja radiata) sont déclarées séparément.
+(3) Les captures de raie fleurie (Leucoraja naevus), de raie bouclée (Raja clavata), de raie lisse (Raja brachyura), de raie douce (Raja montagui) et de raie radiée (Amblyraja radiata) sont déclarées séparément.
 
-Ne s'applique pas au pocheteau gris (Dipturus batis) ni à la raie ondulée (Raja undulata). Les captures de ces espèces ne peuvent être conservées à bord et son rapidement remises à la mer, indemnes dans toute la mesure du possible.
+Ne s'applique pas au pocheteau gris (Dipturus batis) ni à la raie ondulée (Raja undulata). Les captures de ces espèces ne peuvent être conservées à bord et sont rapidement remises à la mer, indemnes dans toute la mesure du possible.
 
-(4) Les captures de raie fleurie (Leucoraja neavus), et de raie bouclée (Raja clavata) sont déclarées séparément.
+(4) Les captures de raie fleurie (Leucoraja naevus) et de raie bouclée (Raja clavata) sont déclarées séparément.
 
-Ne s'applique pas à la raie ondulée (Raja undulata), au pocheteau gris (Dipturus batis) et à la raie blanche (Rostroraja alba). Les captures de ces espèces ne peuvent être conservées à bord et son rapidement remises à la mer, indemnes dans toute la mesure du possible.
+Ne s'applique pas à la raie ondulée (Raja undalata), au pocheteau gris (Dipturus batis) et à la raie blanche (Rostroraja alba). Les captures de ces espèces ne peuvent être conservées à bord et sont rapidement remises à la mer, indemnes dans toute la mesure du possible.
 
 |
 
 REQUINS DES GRANDS FONDS
 
-Centroscymnus cœlolepis, Centrophorus squamosus, Deania calceus, Dalatias licha, Etmopterus princeps, Etmopterus spinax, Centroscyllium fabricii, Centrophorus granulosus, Galeus melastomus, Galeus murinus, Apristuris spp. Centroscymnus crepidater, Somniosus microcephalus
+Centroscymnus cœlolepis, Centrophorus squamosus, Deania calceus, Dalatias licha, Etmopterus princeps, Etmopterus spinax, Centroscyllium fabricii, Centrophorus granulosus, Galeus melastomus, Galeus murinus, Apristuris spp., Centroscymnus crepidater, Somniosus microcephalus
 
 (En tonnes)
 
@@ -8488,7 +8328,15 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones V, VI, VII, VIII et IX
+|
+
+Eaux UE et eaux ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction des pays tiers
+
+des zones V, VI, VII, VIII et IX
 
 |
 
@@ -8508,7 +8356,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -8556,7 +8404,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -8626,7 +8474,13 @@ du Conseil international
 
 pour l'exploration de la mer (CIEM)
 
-Eaux UE et eaux internationales des zones I, II, III, IV, V, VI, VII, VIII, IX, X, XII et XIV
+|
+
+Eaux UE et eaux internationales
+
+des zones I, II, III, IV, V, VI,
+
+VII, VIII, IX, X, XII et XIV
 
 |
 
@@ -8694,7 +8548,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -8764,13 +8618,31 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+Eaux UE et eaux
+
+ne relevant pas
+
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers
+
+des zones I, II, III et IV
+
 |
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones I, II, III et IV
+Eaux communautaires et eaux
 
-|
+ne relevant pas
 
-Eaux UE et eaux ne relevant pas de la souveraineté ou de la juridiction des pays tiers des zones V, VI, VII et XII
+de la souveraineté
+
+ou de la juridiction
+
+des pays tiers
+
+des zones V, VI, VII et XII
 
 |
 
@@ -8782,7 +8654,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-419
+443
 
 |
 
@@ -8798,7 +8670,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -8842,7 +8714,7 @@ Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-1 635
+1 802
 
 |
 
@@ -8870,7 +8742,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -8926,7 +8798,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-21
+3
 
 |
 
@@ -8950,13 +8822,13 @@ Total
 
 |
 
-2 075
+2 248
 
 |
 
 SÉBASTE
 
-Sebaste spp.
+Sebaste spp
 
 (En tonnes)
 
@@ -8967,6 +8839,8 @@ ZONES DE RÉFÉRENCE
 du Conseil international
 
 pour l'exploration de la mer (CIEM)
+
+|
 
 Eaux norvégiennes des zones I et II (1)
 
@@ -8988,7 +8862,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -9036,7 +8910,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
 
 |
 
@@ -9092,7 +8966,7 @@ Total
 
 |
 
-(1) Uniquement pour les captures accessoires.
+(1) Uniquement pour des captures accessoires.
 
 |
 
@@ -9107,8 +8981,6 @@ Solea solea
 ZONES DE RÉFÉRENCE
 
 du Conseil international pour l'exploration de la mer (CIEM)
-
-|
 
 |
 
@@ -9142,11 +9014,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-572
+608
 
 |
 
-1 420
+1 639
 
 |
 
@@ -9162,7 +9034,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-17
+19
 
 |
 
@@ -9170,15 +9042,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-144
+209
 
 |
 
-277
-
-|
-
-0
+319
 
 |
 
@@ -9190,23 +9058,27 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-26
+0
 
 |
 
-Navires adhérant à l'organisation de producteurs Société coopérative des pêcheurs portais-Marée (COPEPORT-Marée)
+30
 
 |
 
-3
+Navires adhérant à l'Organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-306
+4
 
 |
 
-93
+351
+
+|
+
+90
 
 |
 
@@ -9218,7 +9090,7 @@ Navires adhérant à l'organisation de producteurs Société coopérative des p�
 
 |
 
-45
+50
 
 |
 
@@ -9230,99 +9102,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-15
+17
 
 |
 
-39
-
-|
-
-2
-
-|
-
-0
-
-|
-
-68
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
-
-|
-
-3
-
-|
-
-8
-
-|
-
-38
-
-|
-
-13
-
-|
-
-21
-
-|
-
-262
-
-|
-
-Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
-
-|
-
-20
-
-|
-
-59
-
-|
-
-37
-
-|
-
-28
-
-|
-
-36
-
-|
-
-869
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
+49
 
 |
 
@@ -9330,7 +9114,95 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-576
+0
+
+|
+
+56
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB)
+
+|
+
+4
+
+|
+
+8
+
+|
+
+54
+
+|
+
+17
+
+|
+
+33
+
+|
+
+314
+
+|
+
+Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
+
+|
+
+50
+
+|
+
+67
+
+|
+
+45
+
+|
+
+33
+
+|
+
+41
+
+|
+
+974
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+
+|
+
+4
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+3
+
+|
+
+645
 
 |
 
@@ -9346,11 +9218,27 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
+0
+
+|
+
+4
+
+|
+
 1
 
 |
 
-5
+522
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+
+|
+
+0
 
 |
 
@@ -9358,22 +9246,6 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-466
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
-
-|
-
-0
-
-|
-
-6
-
-|
-
 0
 
 |
@@ -9386,7 +9258,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-388
+435
 
 |
 
@@ -9402,19 +9274,19 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-4
+1
 
 |
 
-4
+5
 
 |
 
-8
+9
 
 |
 
-436
+489
 
 |
 
@@ -9426,7 +9298,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -9434,7 +9306,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -9442,7 +9314,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-367
+411
 
 |
 
@@ -9454,7 +9326,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-7
+8
 
 |
 
@@ -9466,11 +9338,11 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-7
+1
 
 |
 
-561
+627
 
 |
 
@@ -9498,7 +9370,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-177
+199
 
 |
 
@@ -9506,15 +9378,15 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-5
+7
 
 |
 
-158
+182
 
 |
 
-18
+20
 
 |
 
@@ -9526,7 +9398,7 @@ Navires non adhérents à une organisation de producteurs
 
 |
 
-89
+100
 
 |
 
@@ -9534,26 +9406,26 @@ Total
 
 |
 
-748
+887
 
 |
 
-2 259
+2 595
 
 |
 
-230
+259
 
 |
 
-59
+69
 
 |
 
-82
+93
 
 |
 
-4 347
+4 871
 
 |
