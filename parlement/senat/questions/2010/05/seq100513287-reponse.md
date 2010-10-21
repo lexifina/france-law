@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513287
+
+- Question : [SEQ100513287](seq100513287.md) — Ouverture illégale des commerces de détail alimentaire à Paris le dimanche au-delà de 13 heures
+
+## Réponse
+
+*Travail, JO du 2010-10-21, page 2761*
+
+Le ministre du travail, de la solidarité et de la fonction publique a pris connaissance avec intérêt de la question relative à l'ouverture le dimanche de certains commerces à Paris, en particulier de ceux de détail à prédominance alimentaire. La loi n° 2009-974 du 10 août 2009 réaffirmant le principe du repos dominical et visant à adapter les dérogations à ce principe dans les communes et zones touristiques et thermales ainsi que dans certaines grandes agglomérations pour les salariés volontaires n'a pas fondamentalement remis en cause le cadre légal applicable à ce type d'établissements. L'article 4 de la loi a seulement adapté l'article L. 3132-13 du code du travail en prévoyant que les établissements dont l'activité exclusive ou principale est la vente de denrées alimentaires au détail peuvent donner le repos hebdomadaire à partir de treize heures au lieu de douze heures auparavant. Les services de l'inspection du travail veillent au respect de la réglementation en vigueur. À Paris, vingt procès-verbaux pouvant donner lieu à des sanctions pénales (amende prévue pour les contraventions de cinquième classe) ont été dressés en 2009 et treize au premier trimestre de l'année 2010. En outre, neuf procédures en référé civil ont été initiées en 2010 visant à ce que le juge judiciaire ordonne la fermeture le dimanche sous astreinte de plusieurs établissements. Le ministère du travail se rapprochera du ministère de la justice afin que les procès-verbaux dressés puissent être suivis de poursuites, notamment lorsque le préjudice subi par les salariés paraît important.
