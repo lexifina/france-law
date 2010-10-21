@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714537
+
+- Question : [SEQ100714537](seq100714537.md) — Régime de retraite des élus locaux
+
+## Réponse
+
+*Intérieur et collectivités territoriales, JO du 2010-10-21, page 2748*
+
+Bien que le mandat électoral ne constitue pas une activité professionnelle, les élus locaux peuvent bénéficier d'indemnités de fonctions. Le législateur a prévu la possibilité d'indemniser l'ensemble des maires, des adjoints au maire et, sous certaines conditions, les conseillers municipaux. Le montant de ces indemnités est fixé par le conseil municipal, dans les limites fixées par loi. Toutefois, pour les maires des communes de moins de 1 000 habitants, l'article L. 2123-20-1 du code général des collectivités territoriales (CGCT) prévoit que l'indemnité de fonction est calculée au taux maximal sauf si l'assemblée municipale en décide autrement. Tous les élus qui perçoivent une indemnité de fonction, sont affiliés au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques (IRCANTEC). Par ailleurs, les élus qui continuent à exercer leur activité professionnelle ont la possibilité, depuis la loi du 3 février 1992 relative aux conditions d'exercice des mandats locaux, de constituer une retraite par rente à laquelle la collectivité contribue à parité. Conformément aux principes de l'assurance vieillesse, les droits à retraite des élus locaux dépendent étroitement du niveau et du nombre d'années de cotisations effectivement versées, qui sont assisses, tant pour la part réglée par les élus que celle allouée par la collectivité, sur les indemnités réellement perçues par les titulaires de mandats locaux. Dès lors les élus qui ont renoncé à percevoir leurs indemnités de fonction ne peuvent se constituer aucun droit à retraite. Il n'est pas envisagé de déroger à cette règle de l'assurance vieillesse.
