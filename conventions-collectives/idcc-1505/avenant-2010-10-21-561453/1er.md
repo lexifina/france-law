@@ -1,0 +1,179 @@
+# Article 1er
+
+Le chapitre VI est modifié comme suit :
+
+« Chapitre VI
+
+Absences pour maladie, accident de travail ou maternité
+
+Article 6.1
+
+Indemnisation des absences
+
+Article 6.1.1
+
+Maladie d'origine non professionnelle
+
+Tout salarié ayant 1 année d'ancienneté auprès d'un employeur relevant de la présente convention bénéficie, en cas d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident constatés par certificat médical et contre-visite s'il y a lieu, d'une indemnisation complémentaire à l'indemnité journalière de la sécurité sociale dans les conditions prévues au tableau ci-dessous, à condition :
+
+– d'avoir justifié dans les 2 jours ouvrables de cette incapacité ;
+
+– d'être pris en charge par la sécurité sociale ;
+
+– d'être soigné sur le territoire français ou dans l'un des autres Etats membres de la Communauté européenne ou dans l'un des autres Etats partie à l'accord sur l'Espace économique européen.
+
+Ancienneté |
+
+Indemnisation par année civile |
+
+Versement des indemnités |
+
+1 an |
+
+30 jours à 90 % puis 30 jours à 66,66 % |
+
+A partir du 8e jour |
+
+3 ans |
+
+40 jours à 90 % puis 30 jours à 66,66 % |
+
+A partir du 8e jour |
+
+5 ans |
+
+50 jours à 90 % puis 40 jours à 66,66 % |
+
+A partir du 6e jour |
+
+10 ans |
+
+60 jours à 90 % puis 50 jours à 66,66 % |
+
+A partir du 3e jour |
+
+15 ans |
+
+70 jours à 90 % puis 60 jours à 66,66 % |
+
+A partir du 3e jour |
+
+20 ans |
+
+80 jours à 90 % puis 70 jours à 66,66 % |
+
+A partir du 3e jour |
+
+25 ans |
+
+90 jours à 90 % puis 90 jours à 66,66 % |
+
+A partir du 3e jour |
+
+Les garanties d'indemnisation ci-dessus accordées s'entendent déduction faite de l'allocation brute que l'intéressé perçoit des caisses de sécurité sociale ou de caisses complémentaires.
+
+Le délai pour le versement des indemnités est applicable à chaque arrêt de travail hormis le cas où la sécurité sociale considère qu'une nouvelle interruption du travail est, en fait, la prolongation d'un arrêt de travail antérieur. Dans ce cas, la période d'indemnisation se poursuit immédiatement dans les limites prévues ci-dessus en fonction de l'ancienneté du salarié à la date du premier arrêt.
+
+Pour la détermination des conditions d'indemnisation, il est tenu compte des indemnisations déjà effectuées au cours des 12 mois précédant l'arrêt de travail de telle sorte que, si plusieurs absences pour maladie ou accident ont été indemnisées au cours de ces 12 mois, la durée totale et les montants d'indemnisation n'excèdent pas les limites définies ci-dessus.
+
+En cas d'hospitalisation, l'indemnisation est versée dès le premier jour d'hospitalisation.
+
+En tout état de cause, ces garanties ne doivent pas conduire à verser à l'intéressé, compte tenu des sommes de toutes provenances, telles qu'elles sont définies ci-dessus, perçues à l'occasion de la maladie ou de l'accident de travail, un montant supérieur à la rémunération nette qu'il aurait effectivement perçue s'il avait continué à travailler.
+
+La rémunération à prendre en considération est celle correspondant à la moyenne des 3 derniers mois de salaires bruts (avec prise en compte de 3/12 des gratifications et primes annuelles).
+
+L'employeur peut assurer le versement de l'indemnisation suivant la même périodicité que le salaire. Dans ce cas, l'employeur est subrogé dans les droits du salarié concernant les remboursements des prestations versées par la sécurité sociale et l'organisme de prévoyance.
+
+Article 6.1.2
+
+Accident de travail
+
+Les salariés absents pour cause d'accident du travail ou d'accident de trajet reconnus et indemnisés comme tels par la sécurité sociale bénéficient d'une indemnisation dans les conditions prévues à l'article 6.1.1 et selon les modalités ci-dessous :
+
+Ancienneté |
+
+Indemnisation par année civile |
+
+Versement des indemnités |
+
+0 à 3 ans |
+
+40 jours à 90 % puis 30 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 3 ans |
+
+50 jours à 90 % puis 40 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 5 ans |
+
+60 jours à 90 % puis 50 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 10 ans |
+
+70 jours à 90 % puis 60 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 15 ans |
+
+80 jours à 90 % puis 70 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 20 ans |
+
+90 jours à 90 % puis 80 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
++ de 25 ans |
+
+100 jours à 90 % puis 90 jours à 66,66 % |
+
+Dès le 1er jour d'absence |
+
+La garantie accident de trajet, assimilée à la garantie accident du travail par l'avenant du 21 octobre 2010 s'applique aux arrêts de travail postérieurs à la date d'effet de cet avenant.
+
+Article 6.1.3
+
+Maternité
+
+Les salariées ayant plus de 1 an d'ancienneté au jour de l'arrêt de travail pour maternité bénéficient de leur traitement intégral pendant la durée du congé de maternité, sous déduction des indemnités versées par la sécurité sociale.
+
+Pour bénéficier de la protection légale et conventionnelle de la grossesse et de la maternité, la salariée remet contre récépissé ou envoie par lettre recommandée avec avis de réception à son employeur un certificat médical attestant son état de grossesse et la date présumée de son accouchement ou la date effective de celui-ci, ainsi que, s'il y a lieu, l'existence et la durée prévisible de son état pathologique nécessitant un allongement de la période de suspension de son contrat de travail.
+
+La salariée doit avertir son employeur du motif de son absence et de la date à laquelle elle entend reprendre son travail. Cette information est faite par lettre recommandée avec avis de réception.
+
+Article 6.2
+
+Garantie d'emploi
+
+Article 6.2.1
+
+Absences résultant de la maladie
+
+Les absences résultant de la maladie entraînent la suspension du contrat de travail.
+
+En cas de nécessité de remplacement, l'employeur peut faire appel à des salariés sous contrat à durée déterminée. Toutefois, si l'absence pour maladie se prolonge au-delà d'une durée de 12 mois, l'employeur peut procéder au remplacement définitif du salarié malade. Il doit alors respecter la procédure de licenciement et verser les indemnités conventionnelles correspondantes.
+
+Article 6.2.2
+
+Absences résultant d'un accident du travail
+
+Conformément aux dispositions légales, les absences résultant d'un accident du travail ou d'une maladie professionnelle entraînent la suspension du contrat de travail pendant l'arrêt de travail ainsi que, le cas échéant, pendant le délai d'attente et la durée du stage de réadaptation, de rééducation ou de formation professionnelle que doit suivre l'intéressé.
+
+Article 6.2.3
+
+Maternité
+
+Les femmes en état de grossesse bénéficient d'un congé de maternité accordé conformément aux dispositions des lois en vigueur.
+
+A l'issue de son congé de maternité, la salariée est réintégrée dans son emploi.
+
+A l'issue du congé, la prolongation de l'absence de la salariée sans certificat médical ou accord préalable de l'employeur est, sauf cas de force majeure, une cause permettant à l'employeur d'engager la procédure de licenciement. »
