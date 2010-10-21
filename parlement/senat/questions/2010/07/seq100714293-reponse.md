@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714293
+
+- Question : [SEQ100714293](seq100714293.md) — Déremboursement de compléments de nutrition orale
+
+## Réponse
+
+*Santé, JO du 2010-10-21, page 2757*
+
+À la suite de deux avis de la commission nationale d'évaluation des dispositifs médicaux et des technologies de santé (ancienne commission d'évaluation des produits et prestations) du 27 septembre 2006 et du 20 janvier 2009, les lignes génériques relatives aux produits pour nutrition orale à domicile ont été révisées et modifiées par les arrêtés du 2 décembre 2009 et du 23 février 2010. C'est ainsi que le produit Nutrinidrink notamment, du laboratoire Nutricia, jusqu'alors pris en charge au titre de l'ancienne nomenclature a été écarté du remboursement par l'assurance maladie depuis le 23 mai 2010. Or, selon les associations de patients concernées, Nutrinidrink serait actuellement le seul complément nutritionnel oral pédiatrique qui réponde aux besoins nutritionnels des enfants atteints par le syndrome de Silver-Russel, maladie génétique très rare qui associe un retard de croissance staturo-pondéral important et des troubles alimentaires digestifs sévères. La ministre de la santé et des sports a pris note des inquiétudes des parents et des associations de patients. Ses services ont saisi la Haute Autorité de santé (HAS) à qui il a notamment été demandé de statuer en urgence sur l'impossibilité effective d'inscrire Nutrinidrink dans les lignes génériques de la nouvelle nomenclature, sur l'existence éventuelle d'un produit de nutrition pouvant constituer une alternative et, si un tel produit n'existe pas, sur la nécessité d'inscrire Nutrinidrink sur la liste des produits et prestations remboursables. Sur la base de l'analyse de la HAS, la ministre prendra les décisions qui s'imposent et ne manquera pas d'en informer les parlementaires et les associations de patients concernés.
