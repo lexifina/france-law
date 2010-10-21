@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100814750
+
+- Question : [SEQ100814750](seq100814750.md) — Futur plan immobilier actuellement à l'étude au ministère de la justice
+
+## Réponse
+
+*Justice (SE), JO du 2010-10-21, page 2751*
+
+La restructuration du parc immobilier pénitentiaire vise à assurer des conditions dignes de détention, à mettre notre pays en conformité avec les règles pénitentiaires européennes et à garantir la mise en oeuvre des prescriptions de la loi pénitentiaire adoptée en novembre 2009 par le Parlement. Ainsi, d'ici à la fin de l'année 2017, environ 9 000 places vétustes seront fermées et près de 14 000 places seront ouvertes dans plus de vingt établissements qui, en métropole comme en outre-mer, comprendront les espaces et les structures permettant de faciliter la réinsertion des détenus pour prévenir la récidive. La France sera alors dotée de 68 000 places de prison, dont plus de la moitié auront moins de trente ans. Dans ce cadre, la situation des actuels établissements pénitentiaires a fait l'objet d'une étude approfondie. La vétusté des locaux de la maison d'arrêt de Lure et l'impossibilité d'améliorer les conditions d'hébergement, même avec de lourds travaux, ont conduit à décider sa fermeture qui interviendra au cours de l'année 2015. Cette fermeture sera compensée par la construction d'un nouvel établissement à Lutterbach, commune située dans la banlieue de Mulhouse. Tous les agents en poste dans les établissements fermés pourront demander à être affectés dans les établissements alentour et verront leur demande de mutation traitée de façon prioritaire. Par ailleurs, le ministre d'État, garde des sceaux, ministre de la justice et des libertés a demandé, avant toute décision, une nouvelle étude sur les conditions et le coût d'une mise aux normes de la maison d'arrêt de Vesoul. Cette nouvelle expertise devra être rendue dans les trois mois.
