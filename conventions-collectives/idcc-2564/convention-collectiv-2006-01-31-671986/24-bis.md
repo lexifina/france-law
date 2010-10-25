@@ -1,0 +1,11 @@
+# Article 24 bis
+
+Quel que soit l'effectif du cabinet, de la clinique ou du centre hospitalier vétérinaires, les heures supplémentaires effectuées au-delà du contingent annuel de 280 heures ouvrent droit à une contrepartie obligatoire en repos.
+
+La durée de la contrepartie obligatoire en repos due pour toute heure supplémentaire accomplie au-delà du contingent annuel est de 50 % (soit 30 minutes pour 1 heure supplémentaire) pour les entreprises de 20 salariés au plus et de 100 % (soit 1 heure pour une 1 supplémentaire) pour les entreprises de plus de 20 salariés.
+
+La contrepartie peut être prise par journée entière ou par demi-journée à la convenance du salarié. Ces journées peuvent être accolées aux congés payés.
+
+Cette contrepartie peut être prise à tout moment de l'année, avec un délai de prévenance minimum de 8 jours calendaires.
+
+Les modalités d'application de la contrepartie obligatoire en repos sont celles de l'article D. 3121-9 du code du travail.
