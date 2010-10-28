@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714445
+
+- Question : [SEQ100714445](seq100714445.md) — Augmentation satisfaisante du nombre d'enseignants en éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 2010-10-28, page 2831*
+
+Le recrutement des enseignants du second degré s'effectue dans le cadre de concours nationaux dont les volumes sont déterminés annuellement dans le respect des emplois votés en loi de finances. Ces volumes sont fonction de plusieurs facteurs tels que le nombre de départs en retraite, les prévisions d'effectifs d'élèves ainsi que les éventuelles évolutions pédagogiques. En ce qui concerne l'éducation physique et sportive, pendant plusieurs années, le nombre de postes ouverts aux concours a été supérieur aux départs. Ainsi, à la rentrée scolaire 2005, 615 enseignants titulaires étaient en sureffectif. La proportion des enseignants en sureffectif en EPS était alors supérieure à celle observée dans l'ensemble des disciplines. Pour la session 2010, compte tenu notamment de l'évolution des départs en retraite et du vivier de candidats, le volume de postes en EPS a été augmenté de 18 % ce qui porte le volume global à 608 postes. Cette hausse du niveau de recrutement dans cette discipline est d'autant plus significative que le nombre global de postes ouverts aux concours de la session 2010 est resté stable par rapport à celui de l'année précédente. S'agissant de l'académie de Bordeaux pour laquelle vous avez attiré mon attention, elle bénéficie à la rentrée scolaire 2010 d'un recrutement significatif d'enseignants d'EPS, soit 7,4 % de la ressource nationale. Cet effort sera poursuivi en 2011, compte tenu des prévisions de départs à la retraite et des besoins d'enseignement au niveau national. Le nombre de postes offerts en EPS sera augmenté dans une proportion de 24,4 % au concours externe et de 20 % au concours interne pour la session 2011.
