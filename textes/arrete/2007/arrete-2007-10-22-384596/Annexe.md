@@ -1,6 +1,8 @@
 # Article Annexe
 
-I.-LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR LES RUMINANTS ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
+I.-LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR LES RUMINANTS
+
+ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
 
 I-1. Espèce bovine
 
@@ -16,15 +18,15 @@ ADRESSE
 
 |
 
-NOM DE LA (DES)
+NOM
 
-race (s) pour la (es)-quelle (s) il est agréé
+de la (des) race (s)
 
-|
+pour la (es)
 
-DATE D'ENTRÉE
+quelle (s)
 
-en vigueur de l'agrément
+il est agréé
 
 |
 
@@ -34,15 +36,15 @@ de validité de l'agrément
 
 |
 
-Charolais France.
+Charolais France
 
 |
 
-Groupement d'intérêt économique.
+Groupement d'intérêt économique (GIE)
 
 |
 
-8, rue de Lourdes, BP 222, Nevers.
+8, rue de Lourdes, BP 222, 58002 Nevers Cedex
 
 |
 
@@ -50,23 +52,19 @@ Charolaise
 
 |
 
-1er janvier 2008
-
-|
-
 30 juin 2014
 
 |
 
-Groupe gascon.
+Groupe Gascon
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-09100 Villeneuve-du-Paréage.
+09100 Villeneuve-du-Paréage
 
 |
 
@@ -74,23 +72,19 @@ Gasconne
 
 |
 
-1er janvier 2008
-
-|
-
 30 juin 2014
 
 |
 
-Organisme de sélection de la race bovine montbéliarde.
+Organisme de sélection de la race montbéliarde
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-4, rue des Epicéas, 25640 Roulans.
+4, rue des Epicéas, 25640 Roulans
 
 |
 
@@ -98,23 +92,19 @@ Montbéliarde
 
 |
 
-1er janvier 2008
-
-|
-
 30 juin 2014
 
 |
 
-Organisme de sélection de la race bovine vosgienne.
+Organisme de sélection de la race bovine Vosgienne
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'agriculture, 11, rue Jean-Mermoz, BP 38, 68127 Sainte-Croix-en-Plaine.
+Maison de l'agriculture, 11, rue Jean-Mermoz, BP 38, 68127 Sainte-Croix-en-Plaine
 
 |
 
@@ -122,59 +112,51 @@ Vosgienne
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Institut de l'élevage.
+Institut de l'élevage
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12.
+Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12
 
 |
 
-Armoricaine,
+Armoricaine
 
-béarnaise,
+Aurochs reconstitué
 
-bleue de Bazougers,
+Béarnaise
 
-bordelaise,
+Bleue de Bazougers
 
-canadienne,
+Bordelaise
 
-casta,
+Canadienne
 
-ferrandaise,
+Casta
 
-froment du Léon,
+Ferrandaise
 
-hérens,
+Froment du Léon
 
-lourdaise,
+Lourdaise
 
-maraîchine,
+Maraîchine
 
-mirandaise,
+Mirandaise
 
-nantaise,
+Nantaise
 
-saosnoise,
+Saosnoise
 
-Villard de Lans
-
-|
-
-1er juillet 2008
+Hereford
 
 |
 
@@ -182,23 +164,19 @@ Villard de Lans
 
 |
 
-Organisme de sélection de la race prim'Holstein.
+Organisme de sélection de la race Prim'Holstein
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison nationale des éleveurs, 149, rue de Bercy, 75012 Paris Cedex 12.
+Maison nationale des éleveurs, 149, rue de Bercy, 75012 Paris Cedex 12
 
 |
 
-Prim'Holstein
-
-|
-
-1er juillet 2008
+Prim'Holstein y compris population Pie rouge
 
 |
 
@@ -206,15 +184,15 @@ Prim'Holstein
 
 |
 
-Groupe salers évolution.
+Groupe Salers Evolution
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de la salers, domaine du Fau, 15140 Saint-Bonnet-de-Salers.
+La Maison de la salers, domaine du Fau, 15140 Saint-Bonnet-de-Salers
 
 |
 
@@ -222,23 +200,19 @@ Salers
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Unité pour la race aubrac.
+Organisme de sélection de la race aubrac
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Mairie de Laguiole, 12210 Laguiole.
+2, rue Pasteur, 12000 Rodez
 
 |
 
@@ -246,23 +220,19 @@ Aubrac
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-France blonde d'Aquitaine sélection.
+France blonde d'Aquitaine sélection
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'agriculture, 271, rue de Péchabout, 47002 Agen Cedex.
+Maison de l'agriculture, 271, rue de Péchabout, BP 45, 47002 Agen Cedex
 
 |
 
@@ -270,23 +240,19 @@ Blonde d'Aquitaine
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-France Limousin sélection.
+France Limousin sélection
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Lanaud, 87220 Boisseuil.
+Lanaud, 87220 Boisseuil
 
 |
 
@@ -294,23 +260,19 @@ Limousine
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Bazadaise sélection.
+Excellence bazadaise
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison du Goba, 33430 Bazas.
+La Jardiasse Est, 33430 Bazas
 
 |
 
@@ -318,23 +280,19 @@ Bazadaise
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Union bleue du Nord.
+Union bleue du Nord
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'élevage du Nord, cité administrative, BP 505, 59022 Lille Cedex.
+Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59022 Lille Cedex
 
 |
 
@@ -342,23 +300,19 @@ Bleue du Nord
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Union rouge flamande.
+Union rouge flamande
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'élevage du Nord, cité administrative, BP 505, 59022 Lille Cedex.
+Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59013 Lille Cedex
 
 |
 
@@ -366,23 +320,19 @@ Rouge flamande
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Union des éleveurs de bovins brahman (UEBB).
+Union des éleveurs de bovins Brahman (UEBB)
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Exploitation agricole du Galion, 97220 Trinité.
+Exploitation agricole du Galion, 97220 Trinité
 
 |
 
@@ -390,23 +340,19 @@ Brahman
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Unité nationale de sélection et de promotion de la race bovine créole (UPRA créole).
+Sélection créole
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Chambre d'agriculture de Guadeloupe, rond-point de Destrellan, 97122 Baie-Mahault.
+Chambre d'agriculture de Guadeloupe, rond-point de Destrellan, 97122 Baie-Mahault
 
 |
 
@@ -414,23 +360,19 @@ Créole
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-UNSPRA parthenaise.
+OS de la race parthenaise
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'agriculture, BP 80004, 79231 Prahecq Cedex.
+Maison de l'agriculture, BP 80004, 79231 Prahecq Cedex
 
 |
 
@@ -438,23 +380,19 @@ Parthenaise
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Association des éleveurs français de taureaux de combat.
+Association des éleveurs français de taureaux de combat
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Mas du Pont de Rousty, 13200 Arles.
+Mas du pont de Rousty, 13200 Arles
 
 |
 
@@ -462,23 +400,19 @@ Race de combat
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Livre généalogique de la raço di biòu.
+Livre généalogique de la raço di biòu
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Mas du Pont de Rousty, 13200 Arles.
+Mas du pont de Rousty 13200 Arles
 
 |
 
@@ -486,23 +420,19 @@ Raço di biòu
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-OS blanc bleu (Organisme de sélection de la race bovine blanc bleu).
+OS blanc bleu (Organisme de sélection de la race bovine blanc bleu)
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-5, avenue Bisiaux, 59530 Potelle.
+5, avenue Bisiaux, 59530 Potelle
 
 |
 
@@ -510,7 +440,25 @@ Blanc bleu
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Brune génétique services BGS
+
+|
+
+Union de coopératives agricoles à capital variable
+
+|
+
+149, rue de Bercy, 75595 Paris Cedex 12
+
+|
+
+Brune
+
+Jersiaise
 
 |
 
@@ -518,41 +466,15 @@ Blanc bleu
 
 |
 
-Brune génétique services.
+Simmental France
 
 |
 
-Union de coopératives agricoles à capital variable.
+Union de coopératives agricoles
 
 |
 
-149, rue de Bercy, 75595 Paris Cedex 12.
-
-|
-
-Brune,
-
-jersiaise
-
-|
-
-1er juillet 2008
-
-|
-
-30 juin 2014
-
-|
-
-Simmental France.
-
-|
-
-Union de coopératives agricoles.
-
-|
-
-1, rue du Moulin-Goepp, 67170 Brumath.
+1, rue du Moulin-Goepp, 67170 Brumath
 
 |
 
@@ -560,7 +482,23 @@ Simmental française
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Union bretonne pie noir
+
+|
+
+Association (loi 1901)
+
+|
+
+5, allée de Sully, 29109 Quimper Cedex
+
+|
+
+Bretonne Pie Noir
 
 |
 
@@ -568,23 +506,83 @@ Simmental française
 
 |
 
-Union bretonne pie noire.
+Organisme de sélection en race normande
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-5, allée de Sully, 29109 Quimper Cedex.
+Le Gué Thibout, BP 43, 61700 Domfront
 
 |
 
-Bretonne pie noire
+Normande
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Domaine rouge des prés
+
+|
+
+Société coopérative d'intérêt collectif agricole (SICA)
+
+|
+
+Domaine des Rues, 49220 Chenillé-Changé
+
+|
+
+Rouge des prés
+
+|
+
+30 juin 2014
+
+|
+
+Unité nationale pour la race bovine tarentaise
+
+|
+
+Association (loi 1901)
+
+|
+
+40, rue du Terraillet, 73190 Saint-Baldoph
+
+|
+
+Tarentaise
+
+|
+
+30 juin 2014
+
+|
+
+OS Races alpines réunies
+
+|
+
+Association (loi 1901)
+
+|
+
+Maison de l'agriculture, BP 9016, 74990 Annecy Cedex 9
+
+|
+
+Abondance
+
+Hérens
+
+Villard de Lans
 
 |
 
@@ -594,75 +592,59 @@ Bretonne pie noire
 
 I-2. Espèce ovine
 
-NOM DE L'ORGANISME
+NOM DE L'ORGANISME |
 
-|
+FORME JURIDIQUE |
 
-FORME JURIDIQUE
+ADRESSE |
 
-|
+NOM
 
-ADRESSE
+de la (des) race (s)pour la (es)
 
-|
+quelle (s)
 
-NOM DE LA (DES)
-
-race (s) pour la (es) quelle (s) il est agréé
-
-|
-
-DATE D'ENTRÉE
-
-en vigueur de l'agrément
-
-|
+il est agréé |
 
 DATE DE FIN
 
-de validité de l'agrément
+de validité de l'agrément |
+
+Géode
 
 |
 
-GEODE.
+Coopérative agricole
 
 |
 
-Coopérative agricole.
+1, avenue de Chauvigny, BP 70104, 86501 Montmorillon Cedex
 
 |
 
-1, avenue de Chauvigny, BP 70104, 86501 Montmorillon Cedex.
+Berrichon de l'Indre
 
-|
+Berrichon du Cher
 
-Berrichon de l'Indre,
+Charmoise
 
-berrichon du Cher,
+Clun forest
 
-charmoise,
+Dorset down
 
-clun forest,
+Est à laine mérinos
 
-dorset down,
+Finnoise
 
-est à laine Mérinos,
+Hampshire
 
-finnoise,
+Romanov
 
-hampshire,
+Rouge de l'Ouest
 
-romanov,
+Solognote
 
-rouge de l'Ouest,
-
-solognote,
-
-suffolk
-
-|
-
-1er juillet 2008
+Suffolk
 
 |
 
@@ -670,31 +652,27 @@ suffolk
 
 |
 
-Unité pour la race lacaune (UPRA Lacaune).
+Unité pour la race lacaune
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'agriculture, carrefour de l'Agriculture, 12000 Rodez.
+Carrefour de l'agriculture, 12026 Rodez Cedex 9
 
 |
 
-Lacaune lait,
+Lacaune lait
 
-lacaune viande,
+Lacaune viande
 
-caussenarde des garrigues,
+Caussenarde des garrigues
 
-raïole,
+Raïole
 
-rouge du Roussillon
-
-|
-
-1er juillet 2008
+Rouge du Roussillon
 
 |
 
@@ -702,15 +680,17 @@ rouge du Roussillon
 
 |
 
-Coopérative agricole des productions et élevages La Quercynoise (CAPEL).
+Ovilot
 
 |
 
-Coopérative agricole.
+Coopérative agricole
+
+CAPEL
 
 |
 
-267, avenue Pierre-Semard, 46000 Cahors Cedex 9.
+7, rue des Artisans, 46500 Gramat
 
 |
 
@@ -718,7 +698,35 @@ Causses du Lot
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Races ovines des massifs-Sélection (ROM-Sélection)
+
+|
+
+Association (loi 1901)
+
+|
+
+Route de Thiers-Marmilhat, 63370 Lempdes
+
+|
+
+Bizet
+
+Blanc du Massif central
+
+Grivette
+
+Limousine
+
+Noir du Velay
+
+Rava
+
+Southdown
 
 |
 
@@ -726,49 +734,15 @@ Causses du Lot
 
 |
 
-Races ovines des massifs sélection (ROM Sélection).
+Société coopérative agricole Mouton vendéen
 
 |
 
-Association (loi 1901).
+Coopérative agricole
 
 |
 
-Route de Thiers, Marmilhat, 63370 Lempdes.
-
-|
-
-Bizet,
-
-blanc du Massif central,
-
-grivette,
-
-limousine,
-
-noir du Velay,
-
-rava
-
-|
-
-1er juillet 2008
-
-|
-
-30 juin 2014
-
-|
-
-Société coopérative agricole mouton vendéen.
-
-|
-
-Coopérative agricole.
-
-|
-
-Route de Dompière, Les Etablières, 85000 La Roche-sur-Yon.
+Route de Dompière, Les Etablières, 85000 La Roche-sur-Yon
 
 |
 
@@ -776,7 +750,27 @@ Mouton vendéen
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Organisme de sélection des trois races locales de brebis laitières des Pyrénées
+
+|
+
+Association (loi 1901)
+
+|
+
+Centre départemental de l'élevage ovin, quartier Ahetzia, 64130 Ordiarp
+
+|
+
+Basco-béarnaise
+
+Manech noire
+
+Manech rousse
 
 |
 
@@ -784,27 +778,21 @@ Mouton vendéen
 
 |
 
-Organisme de sélection des trois races locales de brebis laitières des Pyrénées.
+Organisation de sélection ovine Nord
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Centre départemental de l'élevage ovin, quartier Ahetzia, 64130 Ordiarp.
+15, avenue Euphrasie-Guynemer, 02400 Verdilly
 
 |
 
-Basco-béarnaise,
+Ile-de-France
 
-manech noire,
-
-manech rousse
-
-|
-
-1er juillet 2008
+Texel
 
 |
 
@@ -812,41 +800,15 @@ manech rousse
 
 |
 
-Organisation de sélection ovine Nord.
+Organisme de sélection de la race ovine du mouton charollais
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-15, avenue Euphrasie-Guynemer, 02400 Verdilly.
-
-|
-
-Ile-de-France,
-
-texel
-
-|
-
-1er juillet 2008
-
-|
-
-30 juin 2014
-
-|
-
-Organisme de sélection de la race ovine du mouton charolais.
-
-|
-
-Association (loi 1901).
-
-|
-
-41, rue Général-Leclerc, BP 10, 71120 Charolles.
+41, rue Général-Leclerc, BP 10, 71120 Charolles
 
 |
 
@@ -854,23 +816,19 @@ Mouton charolais
 
 |
 
-1er juillet 2008
-
-|
-
 30 juin 2014
 
 |
 
-Organisme de sélection de la race ovine romane.
+Organisme de sélection de la race ovine romane
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Les Nauzes, 81580 Soual.
+Les Nauzes, 81580 Soual
 
 |
 
@@ -878,7 +836,27 @@ Romane
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Unité nationale de sélection et de promotion des races avranchin, cotentin et roussin
+
+|
+
+Association (loi 1901)
+
+|
+
+Maison de l'agriculture, 50009 Saint-Lô
+
+|
+
+Avranchin
+
+Cotentin
+
+Roussin de la Hague
 
 |
 
@@ -886,43 +864,15 @@ Romane
 
 |
 
-Unité nationale de sélection et de promotion des races avranchin, cotentin et roussin.
+Union pour la sélection de l'ovin Martinik (USOM)
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-Maison de l'agriculture, 50009 Saint-Lô.
-
-|
-
-Avranchin,
-
-cotentin,
-
-roussin de la Hague
-
-|
-
-1er juillet 2008
-
-|
-
-30 juin 2014
-
-|
-
-Union pour la sélection de l'ovin martinik (USOM).
-
-|
-
-Association (loi 1901).
-
-|
-
-Habitation Bonne-Mère, 97224 Ducos.
+Habitation Bonne Mère, 97224 Ducos
 
 |
 
@@ -930,7 +880,27 @@ Martinik
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Association Maison régionale de l'élevage-PACA (MRE)
+
+|
+
+Association (loi 1901)
+
+|
+
+Maison régionale de l'élevage, 480, route de la Durance, 04100 Manosque
+
+|
+
+Préalpes du Sud
+
+Mérinos d'Arles
+
+Mourérous
 
 |
 
@@ -938,39 +908,15 @@ Martinik
 
 |
 
-GIE Génétique ovine Sud-Est (GEN'OSE).
+Association Mouton boulonnais
 
 |
 
-Groupement d'intérêt économique.
+Association (loi 1901)
 
 |
 
-17, allée des Genêts, 04200 Sisteron.
-
-|
-
-Préalpes du Sud, mérinos d'Arles, mourerous
-
-|
-
-1er juillet 2008
-
-|
-
-30 juin 2014
-
-|
-
-Association mouton boulonnais.
-
-|
-
-Association (loi 1901).
-
-|
-
-Ferme du Héron, chemin de la Ferme, Lenglet, 59650 Villeneuve-d'Ascq.
+Ferme du Héron, chemin de la Ferme Lenglet, 59650 Villeneuve-d'Ascq
 
 |
 
@@ -978,7 +924,93 @@ Boulonnaise
 
 |
 
-1er juillet 2008
+30 juin 2014
+
+|
+
+Organisme de sélection de la race ovine corse
+
+|
+
+Association (loi 1901)
+
+|
+
+Domaine de Casabianda, 20270 Aléria
+
+|
+
+Corse (race ovine corse)
+
+|
+
+30 juin 2014
+
+|
+
+Unité pyrénéenne des races allaitantes ovines
+
+|
+
+Association (loi 1901)
+
+|
+
+28, rue des Pyrénées, 31210 Montréjeau
+
+|
+
+Aure et Campan
+
+Barégeoise
+
+Castillonnaise
+
+Lourdaise
+
+Montagne noire
+
+Tarasconnaise
+
+|
+
+30 juin 2014
+
+|
+
+Union des éleveurs de la race thônes et marthod
+
+|
+
+Association (loi 1901)
+
+|
+
+Maison de l'agriculture, 140, rue du Terraillet, 73190 Saint-Baldoph
+
+|
+
+Thônes et marthod
+
+|
+
+30 juin 2014
+
+|
+
+Centre d'enseignement zootechnique / Bergerie nationale de Rambouillet
+
+|
+
+Etablissement public national
+
+|
+
+Parc du Château, CS40609, 78514 Rambouillet Cedex
+
+|
+
+Mérinos de Rambouillet
 
 |
 
@@ -988,61 +1020,59 @@ Boulonnaise
 
 I-3. Espèce caprine
 
-NOM DE L'ORGANISME
+NOM DE L'ORGANISME |
 
-|
+FORME JURIDIQUE |
 
-FORME JURIDIQUE
+ADRESSE |
 
-|
+NOM
 
-ADRESSE
+de la (des) race (s)
 
-|
+pour la (es)
 
-NOM DE LA (DES)
+quelle (s)
 
-race (s) pour la (es)-quelle (s) il est agréé
-
-|
-
-DATE D'ENTRÉE
-
-en vigueur de l'agrément
-
-|
+il est agréé |
 
 DATE DE FIN
 
-de validité de l'agrément
+de validité
+
+de l'agrément |
+
+CAPGENES
 
 |
 
-Capgenes.
+Coopérative agricole
 
 |
 
-Coopérative agricole.
+2135, route de Chauvigny, 86550 Mignaloux-Beauvoir
 
 |
 
-2135, route de Chauvigny, 86550 Mignaloux-Beauvoir.
+Alpine
 
-|
+Angora
 
-Alpine,
+Des Fossés
 
-angora,
+Du Massif central
 
-corse,
+Corse
 
-poitevine,
+Poitevine
 
-saanen
+Provençale
 
-|
+Pyrénéenne
 
-1er juillet 2008
+Rove
+
+Saanen
 
 |
 
@@ -1050,13 +1080,13 @@ saanen
 
 |
 
-II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
+II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE
 
-(Date de fin de validité : 30 juin 2014)
+ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
 
-NOM DE L'ORGANISME
+Date de fin de validité : 30 juin 2014
 
-|
+NOM DE L'ORGANISME |
 
 FORME JURIDIQUE
 
@@ -1070,458 +1100,362 @@ FONCTION AGRÉÉE
 
 |
 
-TYPES GÉNÉTIQUES CONCERNÉS
+TYPES GÉNÉTIQUES
 
-|
-
-ADN (Alliance de diffusion des nuclei).
-
-|
-
-Société par actions simplifiée.
-
-|
-
-Rue Maurice-de-Trésiguidy, 29190 Pleyben.
-
-|
-
-Tenue de livre généalogique.
-
-|
+concernés
 
-Duochan.
-
-Duroc ADN.
-
-Euroc.
-
-|
-
-|
-
-|
-
 |
-
-Tenue de registre zootechnique.
-
-|
-
-Adénia.
 
-ADN.
+ADN (Alliance de diffusion des nuclei) |
 
-Kantor.
+Société par actions simplifiée |
 
-|
+Rue Maurice-de-Trésiguidy, 29190 Pleyben |
 
-Bretagne porc sélection.
-
-|
+Tenue de livre généalogique |
 
-Syndicat professionnel agricole.
+Duochan
 
-|
+Duroc ADN
 
-Route de Saint-Brieuc, 22800 Saint-Donan.
+Euroc
 
 |
 
-Tenue de registre zootechnique.
+Tenue de registre zootechnique |
 
-|
+Adénia
 
-Large white x landrace français,
+ADN
 
-Large white x piétrain.
+Kantor
 
 |
 
-Coopérative des producteurs de porcs de la Réunion.
+Bretagne porc sélection
 
 |
 
-Coopérative agricole.
+Syndicat professionnel agricole
 
 |
 
-ZI n° 5, avenue Charles Isautier, 97410 Saint-Pierre
+Route de Saint-Brieuc, 22800 Saint-Donan
 
 |
 
-Tenue de registre zootechnique.
+Tenue de registre zootechnique
 
 |
 
-Cadina.
+Large white × landrace français
 
-Titan.
+Large white × piétrain
 
 |
 
-France hybrides.
+Coopérative des producteurs de porcs de la Réunion
 
 |
 
-Société par actions simplifiée.
+Coopérative agricole
 
 |
 
-Domaine du Grand-Puits, 45110 Châteauneuf-sur-Loire.
+ZI n° 5, avenue Charles-Isautier, 97410 Saint-Pierre
 
 |
 
-Tenue de livre généalogique.
+Tenue de registre zootechnique
 
 |
-
-FH004.
 
-FH012.
+Cadina
 
-FH016.
+Titan
 
-FH019.
-
-FH025.
-
 |
 
-|
+France Hybrides |
 
-|
+Société par actions simplifiée |
 
-|
+Domaine du Grand Puits, 45110 Châteauneuf-sur-Loire |
 
-Tenue de registre zootechnique.
+Tenue de livre généalogique
 
 |
-
-FH100.
-
-Galaxy 300.
 
-Galaxy 480.
+FH004
 
-Galaxy 900.
+FH012
 
-Maxter 304 ou maxter.
+FH016
 
-|
+FH019
 
-Gène +.
-
-|
+FH025
 
-Société par actions simplifiée.
+Lignée C
 
-|
+Lignée D
 
-12, rue du Moulin, 62134 Erin.
+Magnus
 
 |
 
-Tenue de livre généalogique.
+Tenue de registre zootechnique
 
 |
-
-DRB.
-
-DRC.
 
-Duroc gène +.
+FH100
 
-Musclor.
+Galaxy 300
 
-Taï Zumu.
+Galaxy 480
 
-|
-
-|
+Galaxy 900
 
-|
-
-|
+Hypor CD
 
-Tenue de registre zootechnique.
+Maxter 304 ou Maxter
 
 |
-
-Alfa +.
 
-Défi +.
+Gène + |
 
-DRX.
+Société par actions simplifiée |
 
-Duca.
+12, rue du Moulin, 62134 Erin |
 
-GP landrace x duroc ou duna.
+Tenue de livre généalogique |
 
-Syra.
+DRB
 
-Youli.
+DRC
 
-Youna.
+Duroc Gène +
 
-|
+Musclor
 
-Horizon +.
+Taï Zumu
 
 |
 
-Société à responsabilité
+Tenue de registre zootechnique |
 
-limitée.
-
-|
+Alfa +
 
-ZA du Moulin de Bourdinière, 28330 Coudray-au-Perche.
+Défi +
 
-|
+DRX
 
-Tenue de livre généalogique.
+GP Landrace × Duroc ou Duna
 
-|
+Piétrain × Musclor
 
-Piétrain horizon +.
+Syra
 
-|
+Youli
 
-Livres généalogiques Porcins Collectifs.
+Youna
 
 |
 
-Association (loi 1901).
+Horizon + |
 
-|
+Société à responsabilité limitée |
 
-149, rue de Bercy, MNE 75595 Paris Cedex 12
+ZA du Moulin de Bourdinière, 28330 Coudray-au-Perche
 
 |
 
-Tenue de livre généalogique.
+Tenue de livre généalogique
 
 |
-
-Landrace français.
-
-Large white lignée femelle.
 
-Large white lignée mâle.
+Piétrain Horizon +
 
-Piétrain.
-
 |
 
-Association des livres généalogiques, collectifs des races locales de porcs (LIGERAL).
+Livres généalogiques porcins collectifs
 
 |
 
-Association (loi 1901).
+Association (loi 1901)
 
 |
 
-149, rue de Bercy, MNE 75595 Paris Cedex 12.
+149, rue de Bercy, MNE, 75595 Paris cedex 12
 
 |
 
-Tenue de livre généalogique.
+Tenue de livre généalogique
 
 |
-
-Basque.
-
-Bayeux.
-
-Cul noir limousin.
 
-Gascon.
+Landrace français
 
-Nustrale.
+Large white lignée femelle
 
-Porc blanc de l'Ouest.
+Large white lignée mâle
 
-|
-
-Nucleus.
-
-|
+Piétrain
 
-Société anonyme.
-
 |
-
-Les Ruralies-Vouillé, BP 80004, 79231 Prahecq.
 
-|
+Association des livres généalogiques
 
-Tenue de livre généalogique.
+Collectifs des races locales de porcs (LIGERAL)
 
 |
 
-Duroc nucleus, nushan.
-
-|
+Association (loi 1901)
 
 |
 
-|
+149, rue de Bercy, MNE, 75595 Paris Cedex 12
 
 |
 
-Tenue de registre zootechnique.
+Tenue de livre généalogique
 
 |
-
-Carlyne.
 
-Durance.
+Basque
 
-Nucleus.
+Bayeux
 
-Nushan 33.
+Cul noir limousin
 
-Porcneuf.
+Gascon
 
-Porcneuf 81.
+Nustrale
 
-Rocland.
+Porc blanc de l'Ouest
 
-Sélune.
-
 |
-
-Pen ar lan France.
 
-|
+Nucleus |
 
-Société civile agricole.
+Société anonyme |
 
-|
+7, rue des Orchidées, 35650 Le Rheu |
 
-Route de Bovel, BP 3, 35380 Maxent.
+Tenue de livre généalogique |
 
-|
+Duroc nucleus
 
-Tenue de livre généalogique.
+Nushan
 
 |
 
-Gallia.
+Tenue de registre zootechnique |
 
-Neckar.
+Carlyne
 
-P76.
+Durance
 
-Piétrain NN pen ar lan.
+Nucleus
 
-Redone.
+Nushan 33
 
-|
-
-|
+Porcneuf
 
-|
+Porcneuf 81
 
-|
+Rocland
 
-Tenue de registre zootechnique.
+Sélune
 
 |
 
-Naïma.
+Pen ar lan France |
 
-|
+Société civile agricole |
 
-PIC France.
+Route de Bovel, BP 3, 35380 Maxent |
 
-|
+Tenue de livre généalogique |
 
-Société anonyme.
+Gallia
 
-|
+Neckar
 
-17, rue du Sabot, zoopole BP 48, 22440 Ploufragan.
+P76
 
-|
+Piétrain NN Pen ar lan
 
-Tenue de livre généalogique.
+Redone
 
 |
-
-GP 1010.
 
-GP 1020.
+Tenue de registre zootechnique |
 
-GP 1120 (ou PIC 408).
+Naïma
 
-GP 1125 (ou PIC 337).
+P88
 
 |
 
-|
-
-|
+PIC France |
 
-|
+Société anonyme |
 
-Tenue de registre zootechnique.
+17, rue du Sabot, zoopole, BP 48, 22440 Ploufragan |
 
-|
+Tenue de livre généalogique |
 
-Camborough hybride (ou GP1050).
+GP 1010
 
-Camborough 15.
+GP 1020
 
-GP 1062.
+GP 1120 (ou PIC 408)
 
-PIC 410.
+GP 1125 (ou PIC 337)
 
 |
 
-TOPIGS France.
+Tenue de registre zootechnique
 
 |
 
-Société par actions simplifiée.
+Camborough hybride (ou GP1050)
 
-|
+Camborough 15
 
-Linglaz, BP 76, 29470 Loperhet.
+GP 1062
 
-|
+PIC 359 (Virtus 359)
 
-Tenue de livre généalogique.
+PIC 410
 
 |
 
-Topigs Lignée B.
+TOPIGS France |
 
-Topigs Lignée E (Tempo).
+Société par actions simplifiée |
 
-Topigs Lignée P (TOP Pi).
+Linglaz, BP 76, 29470 Loperhet |
 
-Topigs Lignée Y.
+Tenue de livre généalogique |
 
-Topigs Lignée Z.
-
-|
+Topigs lignée B
 
-|
+Topigs lignée D (Talent)
 
-|
+Topigs lignée E (Tempo)
 
-|
+Topigs lignée P (TOP Pi)
 
-Tenue de registre zootechnique.
+Topigs lignée Z
 
 |
 
-Topigs 40.
+Tenue de registre zootechnique |
 
-|
+Topigs 40 |
 
-L'agrément pour la fonction de tenue de livre généalogique concernant des reproducteurs de l'espèce porcine correspond à celui visé par la décision 89 / 501 / CEE.
+L'agrément pour la fonction de tenue de livre généalogique concernant des reproducteurs de l'espèce porcine correspond à celui visé par la décision 89/501/CEE.
 
-L'agrément pour la fonction de tenue de registre zootechnique concernant des reproducteurs dits hybrides de l'espèce porcine correspond à celui visé par la décision 89 / 504 / CEE
+L'agrément pour la fonction de tenue de registre zootechnique concernant des reproducteurs dits hybrides de l'espèce porcine correspond à celui visé par la décision 89/504/CEE.
