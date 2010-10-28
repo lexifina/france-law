@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100914935
+
+- Question : [SEQ100914935](seq100914935.md) — Tuber melanosporum d'Europe et indication géographique protégée
+
+## Réponse
+
+*Alimentation, JO du 2010-10-28, page 2815*
+
+Le ministère de l'alimentation, de l'agriculture et de la pêche soutient la filière truffe, comme production à la fois prestigieuse et emblématique de notre gastronomie et encourage par ailleurs le développement de signes de qualité pour les produits agricoles français, en vue de leur reconnaissance aux plans national, communautaire et international. L'article 3 paragraphe 2 du règlement n° 510/2006 du Conseil du 20 mars 2006 relatif à la protection des indications géographiques et des appellations d'origine des produits agricoles et des denrées alimentaires dispose que : « un nom ne peut être enregistré comme appellation d'origine ou comme indication géographique lorsqu'il est en conflit avec le nom d'une variété végétale ou d'une race animale et qu'il est de ce fait susceptible d'induire le consommateur en erreur quant à la véritable origine du produit ». Aussi votre souhait d'une protection communautaire de l'espèce de truffe Tuber melanosporum n'est pas compatible avec ce cadre réglementaire. En outre une démarche sous signe de qualité communautaire ne peut en aucun cas recouvrir tout le territoire européen. En effet, la définition de l'appellation d'origine protégée (AOP) ou de l'indication géographique protégée (IGP) prévoit à l'article 2 du règlement 510/2006 que ne peut faire l'objet au niveau communautaire que : « le nom d'une région, d'un lieu déterminé ou, dans des cas exceptionnels, d'un pays, qui sert à désigner un produit agricole ou une denrée alimentaire ». Dans ces conditions votre proposition visant à protéger la truffe Tuber melanosporum d'Europe n'est pas réalisable.
