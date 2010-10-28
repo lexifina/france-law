@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312566
+
+- Question : [SEQ100312566](seq100312566.md) — Défaut de continuité du service public de l'électricité
+
+## Réponse
+
+*Écologie, JO du 2010-10-28, page 2821*
+
+La coupure d'électricité qui a affecté la commune de Brehain a été provoquée par la tempête Xynthia, qui a touché fortement le département de la Moselle avec plus de 75 000 clients coupés le 28 février 2010. Conformément aux engagements du contrat de service public signé avec l'État, ERDF a rempli sa mission de réalimentation d'au moins 90 % des clients sous cinq jours lors d'un événement exceptionnel, puisque l'entreprise a réussi à rétablir l'électricité de l'ensemble des clients dès le 2 mars vers 18 h30. Certaines communes ont pu néanmoins souffrir d'un temps de rétablissement de leur alimentation en électricité plus long que pour d'autres, c'est le cas notamment de la commune de Brehain qui a été privée d'électricité pendant deux jours. En effet, lors d'événements de crise, le pilotage des réalimentations des réseaux et la gestion des effectifs sur le terrain sont centralisés par une cellule de crise qui a une appréhension globale de l'incident et qui organise l'intervention des équipes de techniciens sur le terrain. C'est au regard de cette analyse globale de la crise et des contraintes techniques pesant sur le réseau de distribution que le rétablissement de l'électricité est effectué, ce qui peut conduire à des situations différentes sur telle commune ou tel quartier. C'est en ce sens qu'ERDF a d'ores et déjà répondu au maire de Brehain sur ce sujet, par courrier en date du 23 mars 2010. L'entreprise a, à cette occasion, affirmé s'être attachée à une gestion cohérente et responsable des incidents suscités par la tempête. La commune, si elle souhaite approfondir le diagnostic de l'événement, peut se rapprocher utilement de l'interlocuteur de référence désigné par l'entreprise à cette occasion.
