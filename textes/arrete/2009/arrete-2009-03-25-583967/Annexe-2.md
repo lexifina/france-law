@@ -648,6 +648,50 @@ UNSA-SPJJ
 
 |
 
+Finistère-Morbihan
+
+|
+
+CGT-PJJ
+
+|
+
+1
+
+|
+
+1
+
+|
+
+|
+
+SNPES-PJJ / FSU
+
+|
+
+3
+
+|
+
+3
+
+|
+
+|
+
+UNSA-SPJJ
+
+|
+
+2
+
+|
+
+2
+
+|
+
 Gard/Lozère
 
 |
