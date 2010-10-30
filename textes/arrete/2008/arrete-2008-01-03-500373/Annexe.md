@@ -66,6 +66,18 @@ Premier avocat général
 
 |
 
+Président de chambre chargé de la direction du service de documentation et d'études
+
+|
+
+1
+
+|
+
+150
+
+|
+
 Doyen de chambre
 
 |
@@ -78,23 +90,23 @@ Doyen de chambre
 
 |
 
+Doyen de section
+
+|
+
+8
+
+|
+
+120
+
+|
+
 Magistrat chargé d'un secrétariat général
 
 |
 
 2
-
-|
-
-80
-
-|
-
-Magistrat chargé de la direction du service d'études et de documentation
-
-|
-
-1
 
 |
 
