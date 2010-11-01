@@ -18,15 +18,93 @@ En l'absence d'une réglementation pour ce type d'installation, il convient d'ut
 
 C procédé : valeur limite d'émission fixée dans les tableaux de la présente annexe pour certains secteurs industriels et certains polluants ou, en l'absence de tel tableau ou de telles valeurs, valeur limite pour la substance concernée conforme aux dispositions réglementaires relatives au type d'installation considéré et brûlant des combustibles normalement autorisés (à l'exclusion des déchets). En l'absence de telles dispositions, c'est la valeur limite fixée dans l'arrêté d'autorisation qui est utilisée. En l'absence de valeur fixée dans l'arrêté d'autorisation, c'est la concentration massique réelle qui est utilisée.
 
-I. - Dispositions applicables
+I. - Dispositions applicables aux cimenteries co-incinérant des déchets C pour poussières totales, HCl, HF et NOx,
 
-aux cimenteries co-incinérant des déchets
+métaux, dioxines et furannes (teneur en O2 de 10 %)
 
-C pour poussières totales, HCl, HF et NOx, métaux, dioxines et furanne (teneur en O2 de 10 %)
+PARAMÈTRE
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+|
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les cimenteries existantes utilisant le procédé en voie humide ou pour les cimenteries qui brûlent moins de trois tonnes de déchets par heure, à condition que la valeur limite C n'excède pas 1 200 mg/m³, et ce jusqu'au 1er janvier 2008.
+C
+
+|
+
+Poussières totales
+
+|
+
+30 mg/m3 (moyenne journalière) ) (*)
+
+|
+
+Chlorure d'hydrogène (HCI)
+
+|
+
+10 mg/m3 (moyenne journalière) (*)
+
+|
+
+Fluorure d'hydrogène (HF)
+
+|
+
+1 mg/m3 (moyenne journalière) (*)
+
+|
+
+NOx pour les installations existantes
+
+|
+
+800 mg/m3 (moyenne journalière) (*)
+
+|
+
+NOx pour les installations nouvelles
+
+|
+
+500 mg/m3 (1)
+
+|
+
+Cd+TI
+
+|
+
+0,05 mg/m3
+
+|
+
+Hg
+
+|
+
+0,05 mg/m3
+
+|
+
+Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V
+
+|
+
+0,5 mg/m3
+
+|
+
+Dioxines et furannes
+
+|
+
+0,1 ng/m3
+
+|
+
+(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
+
+(1) Pour l'application des valeurs limites d'émission de NOx, les cimenteries existantes qui commencent à incinérer des déchets après la date de parution au Journal officiel du présent arrêté ne doivent pas être considérées comme des installations nouvelles Seules sont considérées comme nouvelles les cimenteries dont l'activité principale est autorisée après la date de parution au Journal officiel du présent arrêté. |
 
 L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les poussières pour les cimenteries existantes qui brûlent moins de trois tonnes de déchets par heure, à condition que la valeur limite C n'excède pas 50 mg/m³, et ce jusqu'au ler janvier 2008.
 
@@ -42,9 +120,35 @@ C pour SO2 et COT
 
 (teneur en O2 de 10 %)
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
 
-Toutefois, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en œuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
+|
+
+C
+
+|
+
+SO2
+
+|
+
+50 mg/m3 (moyenne journalière (*)
+
+|
+
+COT
+
+|
+
+10 mg/m3 (moyenne journalière) (*)
+
+|
+
+(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
+
+|
+
+Toutefois, sur certains sites, les matières premières (calcaires, argiles, etc.) mises en oeuvre peuvent contenir des minéraux soufrés de nature à provoquer des émissions d'oxydes de soufre difficiles à capter ou, de par leur composition, ne pas jouer le rôle de captation des produits soufrés présents dans le combustible. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. Cette valeur limite, en moyenne journalière, ne peut toutefois dépasser :
 
 - 1 020 mg/m³ lorsque le débit massique en oxydes de soufre est supérieur ou égal à 200 kg/h ;
 
@@ -58,9 +162,23 @@ Si cette valeur moyenne augmentée de deux fois l'écart type est inférieure à
 
 Si cette valeur moyenne augmentée de deux fois l'écart type est supérieure à 10 mg/m³, la valeur limite à l'émission en moyenne journalière est déterminée en application de la formule définie au premier paragraphe de la présente annexe, à partir de cette valeur moyenne augmentée de deux fois l'écart type. Toutefois, cette valeur limite ne pourra dépasser 100 mg/m³.
 
-II. - Dispositions applicables aux installations
+C pour l'ammoniac (teneur en O2 de 10 %).
 
-de combustion co-incinérant des déchets
+PARAMÈTRE |
+
+VALEUR JOURNALIÈRE
+
+moyenne
+
+|
+
+Ammoniac |
+
+30 mg/m³ |
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries, sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+
+II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
 
 Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
 
@@ -68,31 +186,351 @@ S02, NOx, poussières
 
 C procédé pour les combustibles solides (moyennes journalières exprimées en mg/m³, teneur en O2 de 6 %)
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
 
-L'arrêté préfectoral d'autorisation peut utiliser des valeurs limites différentes pour les NOx et le SO2 pour les installations existantes d'une puissance comprise entre 100 et 300 MWth utilisant la technique du lit fluidisé et brûlant des combustibles fossiles, à condition que la valeur C procédé n'excède pas 350 mg/m³ pour les NOx et 850 à 400 mg/m³ (la valeur de C procédé est donnée par une décroissance linéaire entre 100 et 300 MWth) pour le SO2 et ce jusqu'au 1er janvier 2008.
+|
+
+P < 50 MW
+
+|
+
+50 < P < 100 MW
+
+|
+
+100 < P < 300 MW
+
+|
+
+> 300 MW
+
+|
+
+S02 :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cas général
+
+|
+
+|
+
+850
+
+|
+
+850 à 200
+
+(décroissance linéaire)
+
+|
+
+200
+
+|
+
+Combustibles produits sur le territoire national
+
+|
+
+|
+
+ou taux de désulfuration
+
+≥ 90 %
+
+|
+
+ou taux de désulfuration
+
+≥ 92 %
+
+|
+
+ou taux de désulfuration
+
+≥ 95 %
+
+|
+
+NOx
+
+|
+
+|
+
+400
+
+|
+
+300
+
+|
+
+200
+
+|
+
+Poussières
+
+|
+
+50
+
+|
+
+50
+
+|
+
+30
+
+|
+
+30
+
+|
 
 C procédé pour la biomasse (moyennes journalières exprimées en mg/m³ teneur 6 % d'O2)
 
 Par biomasse, on entend une matière végétale d'origine agricole ou forestière susceptible d'être utilisée pour récupérer son contenu énergétique de même que les déchets énumérés à l'article 1er (a), paragraphes 1 à 5.
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
 
-L'arrêté préfectoral d'autorisation peut utiliser une valeur limite différente pour les NOx pour les installations existantes d'une capacité comprise entre 100 et 300 MWth utilisant la technique du lit fluidisé et brûlant de la biomasse, à condition que la valeur limite C procédé n'excède pas 350 mg/m³, et ce jusqu'au 1er janvier 2008.
+|
 
-C procédé pour les combustibles liquides
+P < 50 MW
 
-(moyennes journalières exprimées en mg/m³, teneur en O2 de 3 %)
+|
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+50 < P < 100 MW
+
+|
+
+100 < P < 300 MW
+
+|
+
+> 300 MW
+
+|
+
+SO2
+
+|
+
+|
+
+200
+
+|
+
+200
+
+|
+
+200
+
+|
+
+NOx
+
+|
+
+|
+
+350
+
+|
+
+300
+
+|
+
+300
+
+|
+
+Poussières
+
+|
+
+50
+
+|
+
+50
+
+|
+
+30
+
+|
+
+30
+
+|
+
+C procédé pour les combustibles liquides (moyennes journalières exprimées en mg/m³, teneur en O2 de 3 %)
+
+PARAMÈTRE
+
+|
+
+P < 50 MW
+
+|
+
+50 < P < 100 MW
+
+|
+
+100 < P < 300 MW
+
+|
+
+> 300 MW
+
+|
+
+SO2
+
+|
+
+|
+
+850
+
+|
+
+850 à 200
+
+(décroissance linéaire)
+
+|
+
+200
+
+|
+
+NOx
+
+|
+
+|
+
+400
+
+|
+
+300
+
+|
+
+200
+
+|
+
+Poussières
+
+|
+
+50
+
+|
+
+50
+
+|
+
+30
+
+|
+
+30
+
+|
 
 HCl, HF
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
+
+|
+
+C (à 6 % de O2)
+
+|
+
+Chlorure d'hydrogène (HCI)
+
+|
+
+10 mg/m3 (moyenne journalière) (*)
+
+|
+
+Fluorure d'hydrogène (HF)
+
+|
+
+1 mg/m3 (moyenne journalière) (*)
+
+|
+
+(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
+
+|
 
 Métaux, dioxines
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
+
+|
+
+C (à 6 % de O2)
+
+|
+
+Cd+TI
+
+|
+
+0,05 mg/m3
+
+|
+
+Hg
+
+|
+
+0,05 mg/m3
+
+|
+
+Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V
+
+|
+
+0,5 mg/m3
+
+|
+
+Dioxines et furannes
+
+|
+
+0,1 ng/m3
+
+|
 
 Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
 
@@ -102,17 +540,93 @@ La concentration en dioxines et furannes est définie comme la somme des concent
 
 La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
 
-III. - Dispositions applicables aux secteurs industriels
+C pour l'ammoniac (teneur en O2 de 10 %).
 
-non visés aux points I et II et qui co-incinèrent des déchets
+PARAMÈTRE |
 
-HCl, HF
+VALEUR JOURNALIÈRE
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+moyenne
+
+|
+
+Ammoniac |
+
+30 mg/m³ |
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries, sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+
+III. - Dispositions applicables aux secteurs industriels non visés aux points I et II et qui co-incinèrent des déchets HCl, HF
+
+PARAMÈTRE
+
+|
+
+C
+
+|
+
+Chlorure d'hydrogène (HCI)
+
+|
+
+10 mg/m3 (moyenne journalière) (*)
+
+|
+
+Fluorure d'hydrogène (HF)
+
+|
+
+1 mg/m3 (moyenne journalière) (*)
+
+|
+
+(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
+
+|
 
 Métaux, dioxines
 
-Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
+PARAMÈTRE
+
+|
+
+C
+
+|
+
+Cd+Tl
+
+|
+
+0,05 mg/m3
+
+|
+
+Hg
+
+|
+
+0,05 mg/m3
+
+|
+
+Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V
+
+|
+
+0,5 mg/m3
+
+|
+
+Dioxines et furannes
+
+|
+
+0,1 ng/m3
+
+|
 
 Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
 
@@ -121,3 +635,19 @@ Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous to
 La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
 
 La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+
+C pour l'ammoniac (teneur en O2 de 10 %).
+
+PARAMÈTRE |
+
+VALEUR JOURNALIÈRE
+
+moyenne
+
+|
+
+Ammoniac |
+
+30 mg/m³ |
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries, sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
