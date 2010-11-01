@@ -118,16 +118,6 @@ Monoxyde d'azote (NO) et dioxyde d'azote (NO2) exprimés en dioxyde d'azote pour
 
 |
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les installations existantes :
-
-- dont la capacité est inférieure ou égale à 6 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 500 mg/m³, et ce jusqu'au 1er janvier 2008 ;
-
-- dont la capacité nominale est supérieure à 6 tonnes par heure, mais inférieure ou égale à 16 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 400 mg/m³ et que la valeur en moyenne sur une demi-heure ne dépasse pas 600 mg/m³, ce jusqu'au 1er janvier 2010 ;
-
-- dont la capacité nominale est supérieure à 16 tonnes par heure, mais inférieure à 25 tonnes et qui ne produit pas de rejets d'eaux usées, à condition que la valeur limite en moyenne journalière n'excède pas 400 mg/m³, et ce jusqu'au 1er janvier 2008.
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les poussières pour les installations existantes, à condition que la valeur limite en moyenne journalière n'excède pas 20 mg/m³, et ce jusqu'au 1er janvier 2008.
-
 c) Métaux
 
 PARAMÈTRE
@@ -208,4 +198,22 @@ Dioxines et furannes |
 
 La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
 
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+d-1. Mesures ponctuelles :
+
+Les échantillons analysés sont constitués de prélèvements issus des gaz, réalisés sur une période d'échantillonnage de six à huit heures.
+
+d-2. Mesures en semi-continu :
+
+Les échantillons analysés sont constitués de prélèvements de gaz sur une période d'échantillonnage de quatre semaines. Une durée de prélèvement inférieure peut être définie par l'arrêté d'autorisation, notamment lorsque la sensibilité du milieu récepteur le justifie.
+
+La mise en place et le retrait des dispositifs d'échantillonnage et l'analyses des échantillons prélevés sont réalisés par un organisme mentionné à l'article 28.
+
+e) Ammoniac :
+
+PARAMÈTRE |
+
+VALEUR MOYENNE JOURNALIÈRE |
+
+Ammoniac |
+
+30 mg/m³ |

@@ -147,5 +147,3 @@ de rejet exprimée en concentration massique pour des échantillons non filtrés
 0,3 ng/1
 
 |
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour le total des solides en suspension pour les installations existantes, à condition d'imposer que 80 % des valeurs mesurées ne dépassent pas 30 mg/l et qu'aucune de ces mesures ne dépasse 45 mg/l.
