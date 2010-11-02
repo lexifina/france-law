@@ -4,21 +4,35 @@
 
 En cas de rupture ou de fin du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, les salariés non cadres bénéficient du maintien des garanties prévues à l'article 4 de l'avenant n° 67 du 15 décembre 2004 :
 
-Article 4.1. Garantie décès.
+Article 4.1
 
-Article 4.2. Garantie allocation obsèques.
+Garantie décès
 
-Article 4.3. Garantie invalidité absolue et définitive de 3e catégorie.
+Article 4.2
 
-Article 4.4. Garantie invalidité de 1re, 2e et 3e catégorie.
+Garantie allocation obsèques
 
-Article 4.5. Garantie rente éducation (rente OCIRP).
+Article 4.3
+
+Garantie invalidité absolue et définitive 3e catégorie
+
+Article 4.4
+
+Garantie invalidité 1re, 2e et 3e catégorie
+
+Article 4.5
+
+Garantie rente éducation (rente OCIRP)
+
+Article 4.6
+
+Garantie rente handicap (rente OCIRP)
 
 Lorsque les entreprises ont mis en place un régime complémentaire de prévoyance pour leurs salariés cadres, la portabilité s'applique conformément aux dispositions légales.
 
 Le maintien de ces garanties s'effectue dans les mêmes conditions que pour les salariés en activité, sauf dispositions particulières définies ci-après et sous réserve que l'ancien salarié n'ait pas expressément renoncé, dans les conditions légales, à l'ensemble des garanties collectives prévoyance et frais de santé en vigueur dans l'entreprise, qu'elles soient prévues par la convention collective nationale ou par les autres modalités de mise en place des garanties de prévoyance définies à l'article L. 911-1 du code de la sécurité sociale.
 
-Le dispositif de portabilité s'applique aux ruptures ou fins de contrat de travail dont la date est égale ou postérieure au 1er juillet 2009.
+Le dispositif de portabilité s'applique aux ruptures ou fins de contrat de travail dont la date est égale ou postérieure au 1er juillet 2009 pour toutes les garanties, excepté celle relative à la rente handicap. En effet, celle-ci étant mise en place à effet du 1er mars 2010, sa portabilité ne concerne que les ruptures ou fins de contrat de travail dont la date est postérieure au 1er mars 2010.
 
 2. Salaire de référence
 
@@ -26,7 +40,7 @@ Le salaire de référence servant de base au calcul des prestations est celui d�
 
 3. Durée et limites de la portabilité
 
-Le maintien des garanties prend effet dès le lendemain de la date de fin du contrat de travail. Une déclaration devra être effectuée par l'employeur auprès de l'organisme assureur désigné. C'est auprès de l'entreprise que le bénéficiaire du dispositif de portabilité justifie en principe de son statut de demandeur d'emploi.
+Le maintien des garanties prend effet dès le lendemain de la date de fin du contrat de travail. Une déclaration devra être effectuée par l'employeur auprès de l'organisme assureur désigné.C'est auprès de l'entreprise que le bénéficiaire du dispositif de portabilité justifie en principe de son statut de demandeur d'emploi.
 
 Le maintien de garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise, appréciée en mois entiers, dans la limite de 9 mois.
 
