@@ -58,7 +58,7 @@ Ecole nationale supérieure des arts décoratifs
 
 |
 
-Ecole nationale d'art décoratif d'Aubusson
+Ecole nationale supérieure d'art de Limoges-Aubusson
 
 |
 
@@ -70,19 +70,13 @@ Ecole nationale d'art décoratif de Nice
 
 |
 
-Ecole nationale d'art décoratif de Limoges
+Ecole nationale supérieure d'art de Dijon
 
 |
 
 |
 
-Ecole nationale des beaux-arts de Dijon
-
-|
-
-|
-
-Ecole nationale des beaux-arts et des arts appliqués de Nancy
+Ecole nationale supérieure d'art de Nancy
 
 |
 
@@ -90,13 +84,13 @@ Depuis le 1er octobre 1946
 
 |
 
-Ecole nationale des beaux-arts et des arts appliqués à l'industrie de Bourges
+Ecole nationale supérieure d'art de Bourges
 
 |
 
 |
 
-Ecoles nationales d'architecture
+Ecoles nationales supérieures d'architecture
 
 |
 
@@ -144,7 +138,7 @@ Centre national du cinéma et de l'image animée
 
 |
 
-Caisse nationale des lettres
+Centre national du livre
 
 |
 
@@ -160,7 +154,7 @@ Jusqu'au 31 décembre 1990
 
 |
 
-Caisse nationale des monuments historiques
+Centre des monuments nationaux
 
 |
 
@@ -202,7 +196,7 @@ Etablissement public du Grand Louvre
 
 |
 
-Bibliothèque de France
+Bibliothèque nationale de France
 
 |
 
@@ -226,11 +220,119 @@ Musée Gustave-Moreau
 
 |
 
-Musée Auguste-Rodin
+Etablissement public du musée Rodin
 
 |
 
 A compter du 1er janvier 1991
+
+|
+
+Académie de France à Rome
+
+|
+
+|
+
+Ecole du Louvre
+
+|
+
+|
+
+Ecole nationale supérieure de la photographie
+
+|
+
+|
+
+Etablissement public de l'Opéra Bastille
+
+|
+
+|
+
+Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immigration
+
+|
+
+|
+
+Etablissement public de Sèvres-Cité de la céramique
+
+|
+
+|
+
+Etablissement public du centre des conférences internationales de Paris
+
+|
+
+|
+
+Etablissement public du musée d'Orsay et du musée de l'Orangerie
+
+|
+
+|
+
+Etablissement public du musée des Arts asiatiques Guimet
+
+|
+
+|
+
+Etablissement public du musée du quai Branly
+
+|
+
+|
+
+Etablissement public du musée et du domaine national de Versailles
+
+|
+
+|
+
+Etablissement public du musée et domaine national du château de Fontainebleau
+
+|
+
+|
+
+Etablissement public du musée national Picasso-Paris
+
+|
+
+|
+
+Etablissement public du parc de la Villette
+
+|
+
+|
+
+Institut national d'histoire de l'art
+
+|
+
+|
+
+Institut national de recherches archéologiques préventives
+
+|
+
+|
+
+Institut national du patrimoine
+
+|
+
+|
+
+Opérateur du patrimoine et des projets immobiliers de la culture
+
+|
 
 |
 
