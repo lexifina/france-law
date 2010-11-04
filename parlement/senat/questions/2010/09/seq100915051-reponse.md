@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915051
+
+- Question : [SEQ100915051](seq100915051.md) — Année européenne de lutte contre la pauvreté et l'exclusion sociale
+
+## Réponse
+
+*Affaires étrangères, JO du 2010-11-04, page 2884*
+
+L'Année européenne de lutte contre la pauvreté et l'exclusion sociale a été lancée à Madrid, le 21 janvier 2010, à l'occasion d'une conférence de haut niveau organisée par la Commission européenne et la présidence espagnole. Cette initiative a pour objectif de sensibiliser davantage les acteurs clés (pouvoirs publics et partenaires sociaux, notamment) et les citoyens européens aux causes et aux conséquences de la pauvreté en Europe et de les mobiliser afin de lutter contre ce phénomène. En choisissant ce thème, l'UE a non seulement entendu renforcer une prise de conscience, mais aussi renouveler son engagement politique ainsi que celui des États membres dans la lutte contre la pauvreté et l'exclusion sociale. Dans ce contexte, l'adoption de la stratégie UE 2020 constitue une étape majeure : pour la première fois, un objectif européen chiffré a été fixé, puisque la stratégie se propose de faire sortir au moins 20 millions de personnes du risque de pauvreté et d'exclusion sociale. Pour mémoire, 16 % de la population vit actuellement en dessous du seuil de pauvreté dans l'UE. Durant le second semestre, la présidence belge a entendu mettre plus particulièrement en exergue trois thèmes : la lutte contre la pauvreté des enfants, l'instauration d'un revenu minimum, la lutte contre la pénurie de logements qui fera l'objet d'une conférence en décembre, avec l'appui de la France. Enfin, de manière plus globale avec la mise en oeuvre de la stratégie UE 2020, l'Union européenne entend soutenir l'innovation et la recherche afin de renforcer le potentiel d'une croissance européenne durable et riche en emploi.
