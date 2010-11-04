@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100412909
+
+- Question : [SEQ100412909](seq100412909.md) — Réforme de la TVA applicable aux opérations immobilières
+
+## Réponse
+
+*Économie, JO du 2010-11-04, page 2894*
+
+Les règles issues de l'article 16 de la loi de finances rectificative pour 2010 prévoient une distinction entre les cessions de terrains à bâtir réalisées par des assujettis, au rang desquels figurent les agriculteurs, qui entrent de plein droit dans le champ d'application de la TVA, et celles des non-assujettis qui restent hors du champ d'application de la TVA. Cela étant, les opérations réalisées par les assujettis n'entrent dans le champ de la TVA que si l'assujetti qui les réalise agit en tant que tel, c'est-à-dire dans le cadre de son activité économique. Par conséquent, une opération, fût-elle réalisée à titre onéreux, n'est pas soumise à la TVA si l'assujetti n'intervient pas en tant que tel. Il en va ainsi des opérations qui sont réalisées dans le cadre de la gestion de son patrimoine. Dès lors, la cession par un agriculteur d'un terrain de son exploitation, devenu constructible du fait en particulier d'une modification du plan local d'urbanisme, sera considérée comme réalisée dans le cadre de la gestion de son patrimoine et, comme telle, non assujettie à la TVA, notamment lorsque l'exploitant a conservé le terrain dans son patrimoine privé ainsi que l'article 38 sexdecies D de l'annexe III au code général des impôts lui en offre la faculté. En revanche, les cessions de terrains à bâtir, par un agriculteur qui a réalisé sur ces terrains des travaux de viabilisation et mis en oeuvre des moyens de commercialisation avérés (publicité, démarchage), entrent de plein droit dans le champ d'application de la TVA, au même titre que les cessions de terrains à bâtir qui auraient été spécifiquement acquis en vue de leur revente.
