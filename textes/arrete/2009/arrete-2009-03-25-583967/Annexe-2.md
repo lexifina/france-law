@@ -26,9 +26,7 @@ Ain
 
 |
 
-CFDT
-
-|
+CFDT |
 
 1
 
@@ -137,6 +135,50 @@ SNPES-PJJ/FSU
 |
 
 4
+
+|
+
+Alpes-Vaucluse
+
+|
+
+CGT-PJJ
+
+|
+
+3
+
+|
+
+3
+
+|
+
+|
+
+SNPES-PJJ / FSU
+
+|
+
+2
+
+|
+
+2
+
+|
+
+|
+
+UNSA-SPJJ
+
+|
+
+1
+
+|
+
+1
 
 |
 
