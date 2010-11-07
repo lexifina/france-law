@@ -2,7 +2,7 @@
 
 |
 
-TRANSPORTEUR AÉRIEN (1)
+NOM DU TRANSPORTEUR AÉRIEN (1)
 
 |
 
@@ -10,9 +10,9 @@ PAYS D'ORIGINE
 
 |
 
-CODE OACI
+CODE OACI DE LA COMPAGNIE
 
-de la compagnie (si connu)
+(si connu)
 
 |
 
@@ -36,6 +36,38 @@ AFG
 
 |
 
+Blue Wing Airlines
+
+|
+
+Suriname
+
+|
+
+BWI
+
+|
+
+3
+
+|
+
+Meridian Airways Ltd
+
+|
+
+République du Ghana
+
+|
+
+MAG
+
+|
+
+4
+
+|
+
 Siem Reap Airways International
 
 |
@@ -48,7 +80,7 @@ SRH
 
 |
 
-3
+5
 
 |
 
@@ -74,7 +106,7 @@ Tous les transporteurs aériens certifiés par les autorités de l'Angola charg�
 
 |
 
-4
+6
 
 |
 
@@ -88,7 +120,7 @@ Angola
 
 |
 
-5
+7
 
 |
 
@@ -104,7 +136,7 @@ DCD
 
 |
 
-6
+8
 
 |
 
@@ -120,7 +152,7 @@ GLL
 
 |
 
-7
+9
 
 |
 
@@ -134,7 +166,7 @@ Angola
 
 |
 
-8
+10
 
 |
 
@@ -150,7 +182,7 @@ MBC
 
 |
 
-9
+11
 
 |
 
@@ -164,7 +196,7 @@ Angola
 
 |
 
-10
+12
 
 |
 
@@ -180,7 +212,7 @@ RAD
 
 |
 
-11
+13
 
 |
 
@@ -194,7 +226,7 @@ Angola
 
 |
 
-12
+14
 
 |
 
@@ -208,7 +240,7 @@ Angola
 
 |
 
-13
+15
 
 |
 
@@ -224,7 +256,7 @@ GGL
 
 |
 
-14
+16
 
 |
 
@@ -238,7 +270,7 @@ Angola
 
 |
 
-15
+17
 
 |
 
@@ -252,7 +284,7 @@ Angola
 
 |
 
-16
+18
 
 |
 
@@ -266,7 +298,7 @@ Angola
 
 |
 
-17
+19
 
 |
 
@@ -280,7 +312,7 @@ Angola
 
 |
 
-18
+20
 
 |
 
@@ -294,7 +326,7 @@ Angola
 
 |
 
-19
+21
 
 |
 
@@ -308,7 +340,7 @@ Angola
 
 |
 
-20
+22
 
 |
 
@@ -322,7 +354,7 @@ Angola
 
 |
 
-21
+23
 
 |
 
@@ -348,7 +380,7 @@ Tous les transporteurs aériens certifiés par les autorités du Bénin chargée
 
 |
 
-22
+24
 
 |
 
@@ -362,7 +394,7 @@ Bénin
 
 |
 
-23
+25
 
 |
 
@@ -378,7 +410,7 @@ AFF
 
 |
 
-24
+26
 
 |
 
@@ -392,7 +424,7 @@ Bénin
 
 |
 
-25
+27
 
 |
 
@@ -406,7 +438,7 @@ Bénin
 
 |
 
-26
+28
 
 |
 
@@ -422,7 +454,7 @@ LTL
 
 |
 
-27
+29
 
 |
 
@@ -438,7 +470,7 @@ COB
 
 |
 
-28
+30
 
 |
 
@@ -454,11 +486,11 @@ BNR
 
 |
 
-29
+31
 
 |
 
-Trans Air Bénin
+Trans Air Benin
 
 |
 
@@ -480,7 +512,7 @@ Tous les transporteurs aériens certifiés par les autorités de la République 
 
 |
 
-30
+32
 
 |
 
@@ -496,7 +528,7 @@ RSR
 
 |
 
-31
+33
 
 |
 
@@ -512,7 +544,7 @@ EKA
 
 |
 
-32
+34
 
 |
 
@@ -526,7 +558,7 @@ République du Congo
 
 |
 
-33
+35
 
 |
 
@@ -550,7 +582,7 @@ Tous les transporteurs aériens certifiés par les autorités de la République 
 
 |
 
-34
+36
 
 |
 
@@ -558,35 +590,7 @@ African Air Services Commuter
 
 |
 
-République démocratique Congo
-
-|
-
-|
-
-35
-
-|
-
-Air Kasai
-
-|
-
-République démocratique Congo
-
-|
-
-|
-
-36
-
-|
-
-Air Katanga
-
-|
-
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -596,11 +600,11 @@ République démocratique Congo
 
 |
 
-Air Tropiques
+Air Kasai
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -610,15 +614,13 @@ République démocratique Congo
 
 |
 
-Blue Airlines
+Air Katanga
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
-
-BUL
 
 |
 
@@ -626,15 +628,13 @@ BUL
 
 |
 
-Bravo Air Congo
+Air Tropiques
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
-
-BRV
 
 |
 
@@ -642,13 +642,15 @@ BRV
 
 |
 
-Business Aviation
+Blue Airlines
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
+
+BUL
 
 |
 
@@ -656,13 +658,15 @@ République démocratique Congo
 
 |
 
-Busy Bee Congo
+Bravo Air Congo
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
+
+BRV
 
 |
 
@@ -670,15 +674,13 @@ République démocratique Congo
 
 |
 
-Cetraca Aviation Service
+Business Aviation
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
-
-CER
 
 |
 
@@ -686,11 +688,11 @@ CER
 
 |
 
-CHC Stellavia
+Busy Bee Congo
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -700,13 +702,15 @@ République démocratique Congo
 
 |
 
-Compagnie africaine d'aviation (CAA)
+Cetraca Aviation Service
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
+
+CER
 
 |
 
@@ -714,11 +718,11 @@ République démocratique Congo
 
 |
 
-Doren Air Congo
+CHC Stellavia
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -728,15 +732,15 @@ République démocratique Congo
 
 |
 
-Entreprise World Airways (EWA)
+Congo Express
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
-EWS
+EXY
 
 |
 
@@ -744,11 +748,11 @@ EWS
 
 |
 
-Filair
+Compagnie africaine d'aviation (CAA)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -758,11 +762,11 @@ République démocratique Congo
 
 |
 
-Galaxy Kavatsi
+Doren Air Congo
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -772,13 +776,15 @@ République démocratique Congo
 
 |
 
-Gilembe Air Soutenance (GISAIR)
+Entreprise World Airways (EWA)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
+
+EWS
 
 |
 
@@ -786,11 +792,11 @@ République démocratique Congo
 
 |
 
-Goma Express
+Filair
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -800,11 +806,11 @@ République démocratique Congo
 
 |
 
-Gomair
+Galaxy Kavatsi
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -814,15 +820,13 @@ République démocratique Congo
 
 |
 
-Hewa Bora Airways (HBA)
+Gilembe Air Soutenance (GISAIR)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
-
-ALX
 
 |
 
@@ -830,11 +834,11 @@ ALX
 
 |
 
-International Trans Air Business (ITAB)
+Goma Express
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -844,11 +848,11 @@ République démocratique Congo
 
 |
 
-Kin Avia
+Gomair
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -858,15 +862,15 @@ République démocratique Congo
 
 |
 
-Lignes aériennes congolaises (LAC)
+Hewa Bora Airways (HBA)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
-LCG
+ALX
 
 |
 
@@ -874,11 +878,11 @@ LCG
 
 |
 
-Malu Aviation
+International Trans Air Business (ITAB)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -888,11 +892,11 @@ République démocratique Congo
 
 |
 
-Mango Aviation
+Kin Avia
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -902,13 +906,15 @@ République démocratique Congo
 
 |
 
-Safe Air Company
+Lignes aériennes congolaises (LAC)
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
+
+LCG
 
 |
 
@@ -916,11 +922,11 @@ République démocratique Congo
 
 |
 
-Services Air
+Malu Aviation
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -930,11 +936,11 @@ République démocratique Congo
 
 |
 
-Swala Aviation
+Mango Aviation
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -944,11 +950,11 @@ République démocratique Congo
 
 |
 
-TMK Air Commuter
+Safe Air Company
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -958,11 +964,11 @@ République démocratique Congo
 
 |
 
-Tracep Congo Aviation
+Services Air
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -972,11 +978,11 @@ République démocratique Congo
 
 |
 
-Trans Air Cargo Services
+Swala Aviation
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -986,15 +992,13 @@ République démocratique Congo
 
 |
 
-Wimbi Dira Airways
+TMK Air Commuter
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
-
-WDA
 
 |
 
@@ -1002,11 +1006,55 @@ WDA
 
 |
 
+Tracep Congo Aviation
+
+|
+
+République démocratique du Congo
+
+|
+
+|
+
+66
+
+|
+
+Trans Air Cargo Services
+
+|
+
+République démocratique du Congo
+
+|
+
+|
+
+67
+
+|
+
+Wimbi Dira Airways
+
+|
+
+République démocratique du Congo
+
+|
+
+WDA
+
+|
+
+68
+
+|
+
 Zaabu International
 
 |
 
-République démocratique Congo
+République démocratique du Congo
 
 |
 
@@ -1022,7 +1070,7 @@ Tous les transporteurs aériens certifiés par les autorités de Djibouti charg�
 
 |
 
-66
+69
 
 |
 
@@ -1048,7 +1096,7 @@ Tous les transporteurs aériens certifiés par les autorités de la Guinée équ
 
 |
 
-67
+70
 
 |
 
@@ -1062,7 +1110,7 @@ Guinée équatoriale
 
 |
 
-68
+71
 
 |
 
@@ -1078,7 +1126,7 @@ CEL
 
 |
 
-69
+72
 
 |
 
@@ -1094,7 +1142,7 @@ EGM
 
 |
 
-70
+73
 
 |
 
@@ -1110,7 +1158,7 @@ EUG
 
 |
 
-71
+74
 
 |
 
@@ -1124,7 +1172,7 @@ Guinée équatoriale
 
 |
 
-72
+75
 
 |
 
@@ -1140,7 +1188,7 @@ GET
 
 |
 
-73
+76
 
 |
 
@@ -1154,7 +1202,7 @@ Guinée équatoriale
 
 |
 
-74
+77
 
 |
 
@@ -1168,7 +1216,7 @@ Guinée équatoriale
 
 |
 
-75
+78
 
 |
 
@@ -1186,7 +1234,7 @@ UTG
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités indonésiennes chargées de la surveillance réglementaire (à l'exception de Garuda Indonesia, Airfast Indonesia, Mandala Airlines et Ekspres Transportasi Antarbenua), dont :
+Tous les transporteurs aériens certifiés par les autorités indonésiennes chargées de la surveillance réglementaire (à l'exception de Garuda Indonesia, d'Airfast Indonesia, de Mandala Airlines, d'Ekspres Transportasi Antarbenua, d'Indonesia Air Asia et de Metro Batavia), dont :
 
 |
 
@@ -1194,7 +1242,7 @@ Tous les transporteurs aériens certifiés par les autorités indonésiennes cha
 
 |
 
-76
+79
 
 |
 
@@ -1208,7 +1256,7 @@ Indonésie
 
 |
 
-77
+80
 
 |
 
@@ -1222,7 +1270,7 @@ Indonésie
 
 |
 
-78
+81
 
 |
 
@@ -1236,7 +1284,7 @@ Indonésie
 
 |
 
-79
+82
 
 |
 
@@ -1250,7 +1298,7 @@ Indonésie
 
 |
 
-80
+83
 
 |
 
@@ -1264,7 +1312,7 @@ Indonésie
 
 |
 
-81
+84
 
 |
 
@@ -1278,7 +1326,7 @@ Indonésie
 
 |
 
-82
+85
 
 |
 
@@ -1292,7 +1340,7 @@ Indonésie
 
 |
 
-83
+86
 
 |
 
@@ -1308,7 +1356,7 @@ DRY
 
 |
 
-84
+87
 
 |
 
@@ -1324,7 +1372,7 @@ DRZ
 
 |
 
-85
+88
 
 |
 
@@ -1340,7 +1388,7 @@ DIR
 
 |
 
-86
+89
 
 |
 
@@ -1354,7 +1402,7 @@ Indonésie
 
 |
 
-87
+90
 
 |
 
@@ -1370,23 +1418,7 @@ GHS
 
 |
 
-88
-
-|
-
-Indonesia Air Asia
-
-|
-
-Indonésie
-
-|
-
-AWQ
-
-|
-
-89
+91
 
 |
 
@@ -1402,7 +1434,7 @@ IDA
 
 |
 
-90
+92
 
 |
 
@@ -1416,7 +1448,7 @@ Indonésie
 
 |
 
-91
+93
 
 |
 
@@ -1430,7 +1462,7 @@ Indonésie
 
 |
 
-92
+94
 
 |
 
@@ -1446,7 +1478,7 @@ KLS
 
 |
 
-93
+95
 
 |
 
@@ -1462,7 +1494,7 @@ KAE
 
 |
 
-94
+96
 
 |
 
@@ -1478,7 +1510,7 @@ KUR
 
 |
 
-95
+97
 
 |
 
@@ -1494,7 +1526,7 @@ LNI
 
 |
 
-96
+98
 
 |
 
@@ -1508,7 +1540,7 @@ Indonésie
 
 |
 
-97
+99
 
 |
 
@@ -1524,7 +1556,7 @@ MKE
 
 |
 
-98
+100
 
 |
 
@@ -1540,23 +1572,7 @@ MNA
 
 |
 
-99
-
-|
-
-Metro Batavia
-
-|
-
-Indonésie
-
-|
-
-BTV
-
-|
-
-100
+101
 
 |
 
@@ -1570,7 +1586,7 @@ Indonésie
 
 |
 
-101
+102
 
 |
 
@@ -1584,7 +1600,7 @@ Indonésie
 
 |
 
-102
+103
 
 |
 
@@ -1598,7 +1614,7 @@ Indonésie
 
 |
 
-103
+104
 
 |
 
@@ -1612,7 +1628,7 @@ Indonésie
 
 |
 
-104
+105
 
 |
 
@@ -1626,7 +1642,7 @@ Indonésie
 
 |
 
-105
+106
 
 |
 
@@ -1642,7 +1658,7 @@ PAS
 
 |
 
-106
+107
 
 |
 
@@ -1656,7 +1672,7 @@ Indonésie
 
 |
 
-107
+108
 
 |
 
@@ -1670,7 +1686,7 @@ Indonésie
 
 |
 
-108
+109
 
 |
 
@@ -1686,7 +1702,7 @@ RPH
 
 |
 
-109
+110
 
 |
 
@@ -1702,7 +1718,7 @@ RIU
 
 |
 
-110
+111
 
 |
 
@@ -1718,7 +1734,7 @@ SAE
 
 |
 
-111
+112
 
 |
 
@@ -1732,7 +1748,7 @@ Indonésie
 
 |
 
-112
+113
 
 |
 
@@ -1746,7 +1762,7 @@ Indonésie
 
 |
 
-113
+114
 
 |
 
@@ -1762,7 +1778,7 @@ SMC
 
 |
 
-114
+115
 
 |
 
@@ -1778,7 +1794,7 @@ SJY
 
 |
 
-115
+116
 
 |
 
@@ -1792,7 +1808,7 @@ Indonésie
 
 |
 
-116
+117
 
 |
 
@@ -1806,7 +1822,7 @@ Indonésie
 
 |
 
-117
+118
 
 |
 
@@ -1822,7 +1838,7 @@ XAR
 
 |
 
-118
+119
 
 |
 
@@ -1836,7 +1852,7 @@ Indonésie
 
 |
 
-119
+120
 
 |
 
@@ -1852,7 +1868,7 @@ TMG
 
 |
 
-120
+121
 
 |
 
@@ -1868,7 +1884,7 @@ TGN
 
 |
 
-121
+122
 
 |
 
@@ -1882,7 +1898,7 @@ Indonésie
 
 |
 
-122
+123
 
 |
 
@@ -1900,7 +1916,7 @@ WON
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités du Kazakhstan chargées de la surveillance règlementaire (à l'exception d'Air Astana), dont :
+Tous les transporteurs aériens certifiés par les autorités du Kazakhstan chargées de la surveillance réglementaire (à l'exception d'Air Astana), dont :
 
 |
 
@@ -1908,7 +1924,7 @@ Tous les transporteurs aériens certifiés par les autorités du Kazakhstan char
 
 |
 
-123
+124
 
 |
 
@@ -1922,7 +1938,7 @@ Kazakhstan
 
 |
 
-124
+125
 
 |
 
@@ -1938,7 +1954,7 @@ APK
 
 |
 
-125
+126
 
 |
 
@@ -1954,7 +1970,7 @@ LMY
 
 |
 
-126
+127
 
 |
 
@@ -1970,7 +1986,7 @@ KRT
 
 |
 
-127
+128
 
 |
 
@@ -1984,7 +2000,7 @@ Kazakhstan
 
 |
 
-128
+129
 
 |
 
@@ -1998,7 +2014,7 @@ Kazakhstan
 
 |
 
-129
+130
 
 |
 
@@ -2012,7 +2028,7 @@ Kazakhstan
 
 |
 
-130
+131
 
 |
 
@@ -2028,7 +2044,7 @@ AKS
 
 |
 
-131
+132
 
 |
 
@@ -2044,7 +2060,7 @@ LMT
 
 |
 
-132
+133
 
 |
 
@@ -2060,7 +2076,7 @@ KEK
 
 |
 
-133
+134
 
 |
 
@@ -2076,7 +2092,7 @@ CID
 
 |
 
-134
+135
 
 |
 
@@ -2092,7 +2108,7 @@ RRK
 
 |
 
-135
+136
 
 |
 
@@ -2108,7 +2124,7 @@ AWA
 
 |
 
-136
+137
 
 |
 
@@ -2122,7 +2138,7 @@ Kazakhstan
 
 |
 
-137
+138
 
 |
 
@@ -2138,7 +2154,7 @@ AMA
 
 |
 
-138
+139
 
 |
 
@@ -2154,7 +2170,7 @@ JOL
 
 |
 
-139
+140
 
 |
 
@@ -2168,7 +2184,7 @@ Kazakhstan
 
 |
 
-140
+141
 
 |
 
@@ -2182,7 +2198,7 @@ Kazakhstan
 
 |
 
-141
+142
 
 |
 
@@ -2198,7 +2214,7 @@ BKT/BEK
 
 |
 
-142
+143
 
 |
 
@@ -2212,7 +2228,7 @@ Kazakhstan
 
 |
 
-143
+144
 
 |
 
@@ -2228,7 +2244,7 @@ BRY
 
 |
 
-144
+145
 
 |
 
@@ -2244,7 +2260,7 @@ KAZ
 
 |
 
-145
+146
 
 |
 
@@ -2260,7 +2276,7 @@ DET
 
 |
 
-146
+147
 
 |
 
@@ -2276,7 +2292,7 @@ EWZ
 
 |
 
-147
+148
 
 |
 
@@ -2292,7 +2308,7 @@ LIS
 
 |
 
-148
+149
 
 |
 
@@ -2308,7 +2324,7 @@ EAK
 
 |
 
-149
+150
 
 |
 
@@ -2324,7 +2340,7 @@ KZE
 
 |
 
-150
+151
 
 |
 
@@ -2338,7 +2354,7 @@ Kazakhstan
 
 |
 
-151
+152
 
 |
 
@@ -2354,7 +2370,7 @@ FJK
 
 |
 
-152
+153
 
 |
 
@@ -2370,7 +2386,7 @@ DVB
 
 |
 
-153
+154
 
 |
 
@@ -2386,7 +2402,7 @@ TLG
 
 |
 
-154
+155
 
 |
 
@@ -2402,7 +2418,7 @@ MZA
 
 |
 
-155
+156
 
 |
 
@@ -2418,7 +2434,7 @@ SOZ
 
 |
 
-156
+157
 
 |
 
@@ -2434,7 +2450,7 @@ JKZ
 
 |
 
-157
+158
 
 |
 
@@ -2450,7 +2466,7 @@ KEJ
 
 |
 
-158
+159
 
 |
 
@@ -2466,7 +2482,7 @@ KUY
 
 |
 
-159
+160
 
 |
 
@@ -2480,7 +2496,7 @@ Kazakhstan
 
 |
 
-160
+161
 
 |
 
@@ -2496,7 +2512,7 @@ KKA
 
 |
 
-161
+162
 
 |
 
@@ -2512,7 +2528,7 @@ KZS
 
 |
 
-162
+163
 
 |
 
@@ -2528,7 +2544,7 @@ KRT
 
 |
 
-163
+164
 
 |
 
@@ -2544,7 +2560,7 @@ MGK
 
 |
 
-164
+165
 
 |
 
@@ -2560,7 +2576,7 @@ MIF
 
 |
 
-165
+166
 
 |
 
@@ -2574,7 +2590,7 @@ Kazakhstan
 
 |
 
-166
+167
 
 |
 
@@ -2590,7 +2606,7 @@ KOV
 
 |
 
-167
+168
 
 |
 
@@ -2604,7 +2620,7 @@ Kazakhstan
 
 |
 
-168
+169
 
 |
 
@@ -2618,7 +2634,7 @@ Kazakhstan
 
 |
 
-169
+170
 
 |
 
@@ -2634,7 +2650,7 @@ KKS
 
 |
 
-170
+171
 
 |
 
@@ -2650,7 +2666,7 @@ SAV
 
 |
 
-171
+172
 
 |
 
@@ -2666,7 +2682,7 @@ SAH
 
 |
 
-172
+173
 
 |
 
@@ -2682,7 +2698,7 @@ SMK
 
 |
 
-173
+174
 
 |
 
@@ -2698,7 +2714,7 @@ VSV
 
 |
 
-174
+175
 
 |
 
@@ -2714,7 +2730,7 @@ BYK
 
 |
 
-175
+176
 
 |
 
@@ -2730,7 +2746,7 @@ SEK
 
 |
 
-176
+177
 
 |
 
@@ -2744,7 +2760,7 @@ Kazakhstan
 
 |
 
-177
+178
 
 |
 
@@ -2758,7 +2774,7 @@ Kazakhstan
 
 |
 
-178
+179
 
 |
 
@@ -2774,7 +2790,7 @@ UCK
 
 |
 
-179
+180
 
 |
 
@@ -2790,7 +2806,7 @@ JTU
 
 |
 
-180
+181
 
 |
 
@@ -2806,7 +2822,7 @@ RZU
 
 |
 
-181
+182
 
 |
 
@@ -2830,7 +2846,7 @@ Tous les transporteurs aériens certifiés par les autorités de la République 
 
 |
 
-182
+183
 
 |
 
@@ -2846,7 +2862,7 @@ MBB
 
 |
 
-183
+184
 
 |
 
@@ -2862,7 +2878,7 @@ AAZ
 
 |
 
-184
+185
 
 |
 
@@ -2878,7 +2894,7 @@ AVJ
 
 |
 
-185
+186
 
 |
 
@@ -2894,7 +2910,7 @@ BSC
 
 |
 
-186
+187
 
 |
 
@@ -2910,7 +2926,7 @@ CGK
 
 |
 
-187
+188
 
 |
 
@@ -2926,7 +2942,7 @@ DAM
 
 |
 
-188
+189
 
 |
 
@@ -2942,7 +2958,7 @@ EEA
 
 |
 
-189
+190
 
 |
 
@@ -2958,7 +2974,7 @@ GRS
 
 |
 
-190
+191
 
 |
 
@@ -2974,7 +2990,7 @@ IKA
 
 |
 
-191
+192
 
 |
 
@@ -2990,7 +3006,7 @@ KTC
 
 |
 
-192
+193
 
 |
 
@@ -3006,7 +3022,23 @@ LYN
 
 |
 
-193
+194
+
+|
+
+Kyrgyzstan Airline
+
+|
+
+Kirghizstan
+
+|
+
+KGA
+
+|
+
+195
 
 |
 
@@ -3022,7 +3054,7 @@ MAI
 
 |
 
-194
+196
 
 |
 
@@ -3038,7 +3070,7 @@ SGL
 
 |
 
-195
+197
 
 |
 
@@ -3054,7 +3086,7 @@ SGD
 
 |
 
-196
+198
 
 |
 
@@ -3070,7 +3102,7 @@ SAB
 
 |
 
-197
+199
 
 |
 
@@ -3086,7 +3118,7 @@ TEB
 
 |
 
-198
+200
 
 |
 
@@ -3102,7 +3134,7 @@ TSJ
 
 |
 
-199
+201
 
 |
 
@@ -3138,7 +3170,7 @@ Tous les transporteurs aériens certifiés par les autorités de la République 
 
 |
 
-200
+202
 
 |
 
@@ -3150,11 +3182,11 @@ République du Gabon
 
 |
 
-AGB
+RVS
 
 |
 
-201
+203
 
 |
 
@@ -3166,13 +3198,15 @@ République du Gabon
 
 |
 
-|
-
-202
+LGE
 
 |
 
-Nationale et régionale transport (Nationale)
+204
+
+|
+
+Nationale et Regionale Transport (Nationale)
 
 |
 
@@ -3180,9 +3214,11 @@ République du Gabon
 
 |
 
+NRG
+
 |
 
-203
+205
 
 |
 
@@ -3194,9 +3230,11 @@ République du Gabon
 
 |
 
+SCY
+
 |
 
-204
+206
 
 |
 
@@ -3212,7 +3250,7 @@ SKG
 
 |
 
-205
+207
 
 |
 
@@ -3236,7 +3274,7 @@ Tous les transporteurs aériens certifiés par les autorités des Philippines ch
 
 |
 
-206
+208
 
 |
 
@@ -3250,7 +3288,7 @@ République des Philippines
 
 |
 
-207
+209
 
 |
 
@@ -3264,7 +3302,7 @@ République des Philippines
 
 |
 
-208
+210
 
 |
 
@@ -3278,7 +3316,7 @@ République des Philippines
 
 |
 
-209
+211
 
 |
 
@@ -3292,7 +3330,7 @@ République des Philippines
 
 |
 
-210
+212
 
 |
 
@@ -3306,7 +3344,7 @@ République des Philippines
 
 |
 
-211
+213
 
 |
 
@@ -3320,7 +3358,7 @@ République des Philippines
 
 |
 
-212
+214
 
 |
 
@@ -3334,7 +3372,7 @@ République des Philippines
 
 |
 
-213
+215
 
 |
 
@@ -3348,7 +3386,7 @@ République des Philippines
 
 |
 
-214
+216
 
 |
 
@@ -3362,7 +3400,7 @@ République des Philippines
 
 |
 
-215
+217
 
 |
 
@@ -3376,7 +3414,7 @@ République des Philippines
 
 |
 
-216
+218
 
 |
 
@@ -3390,7 +3428,7 @@ République des Philippines
 
 |
 
-217
+219
 
 |
 
@@ -3404,7 +3442,7 @@ République des Philippines
 
 |
 
-218
+220
 
 |
 
@@ -3418,7 +3456,7 @@ République des Philippines
 
 |
 
-219
+221
 
 |
 
@@ -3432,7 +3470,7 @@ République des Philippines
 
 |
 
-220
+222
 
 |
 
@@ -3446,7 +3484,7 @@ République des Philippines
 
 |
 
-221
+223
 
 |
 
@@ -3460,7 +3498,7 @@ République des Philippines
 
 |
 
-222
+224
 
 |
 
@@ -3474,39 +3512,11 @@ République des Philippines
 
 |
 
-223
-
-|
-
-FF Cruz And Company, Inc.
-
-|
-
-République des Philippines
-
-|
-
-|
-
-224
-
-|
-
-Huma Corporation
-
-|
-
-République des Philippines
-
-|
-
-|
-
 225
 
 |
 
-Inaec Aviation Corp.
+F.F. Cruz And Company, Inc.
 
 |
 
@@ -3520,7 +3530,7 @@ République des Philippines
 
 |
 
-Island Aviation
+Huma Corporation
 
 |
 
@@ -3534,7 +3544,7 @@ République des Philippines
 
 |
 
-Interisland Airlines, Inc.
+Inaec Aviation Corp.
 
 |
 
@@ -3548,7 +3558,7 @@ République des Philippines
 
 |
 
-Island Transvoyager
+Island Aviation
 
 |
 
@@ -3562,7 +3572,7 @@ République des Philippines
 
 |
 
-Lion Air, Incorporated
+Island Transvoyager
 
 |
 
@@ -3576,7 +3586,7 @@ République des Philippines
 
 |
 
-Macro Asia Air Taxi Services
+Lion Air, Incorporated
 
 |
 
@@ -3590,7 +3600,7 @@ République des Philippines
 
 |
 
-Mindanao Rainbow Agricultural Development Services
+Macro Asia Air Taxi Services
 
 |
 
@@ -3604,7 +3614,7 @@ République des Philippines
 
 |
 
-Misibis Aviation & Development Corp
+Mindanao Rainbow Agricultural Development Services
 
 |
 
@@ -3618,7 +3628,7 @@ République des Philippines
 
 |
 
-Omni Aviation Corp.
+Misibis Aviation & Development Corp
 
 |
 
@@ -3632,7 +3642,7 @@ République des Philippines
 
 |
 
-Pacific East Asia Cargo Airlines, Inc.
+Omni Aviation Corp.
 
 |
 
@@ -3646,7 +3656,7 @@ République des Philippines
 
 |
 
-Pacific Airways Corporation
+Pacific East Asia Cargo Airlines, Inc.
 
 |
 
@@ -3660,7 +3670,7 @@ République des Philippines
 
 |
 
-Pacific Alliance Corporation
+Pacific Airways Corporation
 
 |
 
@@ -3674,7 +3684,7 @@ République des Philippines
 
 |
 
-Philippine Airlines
+Pacific Alliance Corporation
 
 |
 
@@ -3688,7 +3698,7 @@ République des Philippines
 
 |
 
-Philippine Agricultural Aviation Corp.
+Philippine Airlines
 
 |
 
@@ -3702,7 +3712,7 @@ République des Philippines
 
 |
 
-Royal Air Charter Services Inc.
+Philippine Agricultural Aviation Corp.
 
 |
 
@@ -3716,7 +3726,7 @@ République des Philippines
 
 |
 
-Royal Star Aviation, Inc.
+Royal Air Charter Services Inc.
 
 |
 
@@ -3730,7 +3740,7 @@ République des Philippines
 
 |
 
-South East Asia Inc.
+Royal Star Aviation, Inc.
 
 |
 
@@ -3744,7 +3754,7 @@ République des Philippines
 
 |
 
-Southstar Aviation Company, Inc.
+South East Asia Inc.
 
 |
 
@@ -3758,7 +3768,7 @@ République des Philippines
 
 |
 
-Spirit Of Manila Airlines Corporation
+Southstar Aviation Company, Inc.
 
 |
 
@@ -3772,7 +3782,7 @@ République des Philippines
 
 |
 
-Subic International Air Charter
+Spirit Of Manila Airlines Corporation
 
 |
 
@@ -3786,7 +3796,7 @@ République des Philippines
 
 |
 
-Subic Seaplane, Inc.
+Subic International Air Charter
 
 |
 
@@ -3800,7 +3810,7 @@ République des Philippines
 
 |
 
-Topflite Airways, Inc.
+Subic Seaplane, Inc.
 
 |
 
@@ -3814,7 +3824,7 @@ République des Philippines
 
 |
 
-Transglobal Airways Corporation
+Topflite Airways, Inc.
 
 |
 
@@ -3828,7 +3838,7 @@ République des Philippines
 
 |
 
-World Aviation, Corp.
+Transglobal Airways Corporation
 
 |
 
@@ -3842,7 +3852,7 @@ République des Philippines
 
 |
 
-WCC Aviation Company
+World Aviation, Corp.
 
 |
 
@@ -3856,7 +3866,7 @@ République des Philippines
 
 |
 
-Yokota Aviation, Inc.
+WCC Aviation Company
 
 |
 
@@ -3870,7 +3880,7 @@ République des Philippines
 
 |
 
-Zenith Air, Inc.
+Yokota Aviation, Inc.
 
 |
 
@@ -3881,6 +3891,20 @@ République des Philippines
 |
 
 252
+
+|
+
+Zenith Air, Inc.
+
+|
+
+République des Philippines
+
+|
+
+|
+
+253
 
 |
 
@@ -3896,23 +3920,9 @@ République des Philippines
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de Sâo-Tomé-et-Príncipe chargées de la surveillance réglementaire, dont :
+Tous les transporteurs aériens certifiés par les autorités de Sao Tomé-et-Principe chargées de la surveillance réglementaire, dont :
 
 |
-
-|
-
-|
-
-253
-
-|
-
-Africa Connection
-
-|
-
-Sncipe
 
 |
 
@@ -3922,15 +3932,13 @@ Sncipe
 
 |
 
-British Gulf International Company Ltd
+Africa Connection
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
-
-BGI
 
 |
 
@@ -3938,15 +3946,15 @@ BGI
 
 |
 
-Executive Jet Services
+British Gulf International Company Ltd
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
 
-EJZ
+BGI
 
 |
 
@@ -3954,13 +3962,15 @@ EJZ
 
 |
 
-Global Aviation Operation
+Executive Jet Services
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
+
+EJZ
 
 |
 
@@ -3968,15 +3978,13 @@ Sâo-Tomé-et-Príncipe
 
 |
 
-Goliaf Air
+Global Aviation Operation
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
-
-GLE
 
 |
 
@@ -3984,13 +3992,15 @@ GLE
 
 |
 
-Island Oil Exploration
+Goliaf Air
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
+
+GLE
 
 |
 
@@ -3998,15 +4008,13 @@ Sâo-Tomé-et-Príncipe
 
 |
 
-Spt Airways
+Island Oil Exploration
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
-
-STP
 
 |
 
@@ -4014,15 +4022,15 @@ STP
 
 |
 
-Transafrik International Ltd
+Stp Airways
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
 
-TFK
+STP
 
 |
 
@@ -4030,13 +4038,15 @@ TFK
 
 |
 
-Transcarg
+Transafrik International Ltd
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
+
+TFK
 
 |
 
@@ -4044,11 +4054,25 @@ Sâo-Tomé-et-Príncipe
 
 |
 
+Transcarg
+
+|
+
+Sao Tomé-et-Principe
+
+|
+
+|
+
+263
+
+|
+
 Transliz Aviation (TMS)
 
 |
 
-Sâo-Tomé-et-Príncipe
+Sao Tomé-et-Principe
 
 |
 
@@ -4066,7 +4090,7 @@ Tous les transporteurs aériens certifiés par les autorités de Sierra Leone ch
 
 |
 
-263
+264
 
 |
 
@@ -4082,7 +4106,7 @@ RUM
 
 |
 
-264
+265
 
 |
 
@@ -4098,7 +4122,7 @@ DTY
 
 |
 
-265
+266
 
 |
 
@@ -4112,7 +4136,7 @@ Sierra Leone
 
 |
 
-266
+267
 
 |
 
@@ -4128,7 +4152,7 @@ ORJ
 
 |
 
-267
+268
 
 |
 
@@ -4144,7 +4168,7 @@ PRR
 
 |
 
-268
+269
 
 |
 
@@ -4160,7 +4184,7 @@ SVT
 
 |
 
-269
+270
 
 |
 
@@ -4184,7 +4208,7 @@ Tous les transporteurs aériens certifiés par les autorités du Soudan chargée
 
 |
 
-270
+271
 
 |
 
@@ -4198,7 +4222,7 @@ République du Soudan
 
 |
 
-271
+272
 
 |
 
@@ -4212,7 +4236,7 @@ République du Soudan
 
 |
 
-272
+273
 
 |
 
@@ -4226,7 +4250,7 @@ République du Soudan
 
 |
 
-273
+274
 
 |
 
@@ -4240,7 +4264,7 @@ République du Soudan
 
 |
 
-274
+275
 
 |
 
@@ -4254,7 +4278,7 @@ République du Soudan
 
 |
 
-275
+276
 
 |
 
@@ -4268,7 +4292,7 @@ République du Soudan
 
 |
 
-276
+277
 
 |
 
@@ -4282,7 +4306,7 @@ République du Soudan
 
 |
 
-277
+278
 
 |
 
@@ -4296,7 +4320,7 @@ République du Soudan
 
 |
 
-278
+279
 
 |
 
@@ -4310,7 +4334,7 @@ République du Soudan
 
 |
 
-279
+280
 
 |
 
@@ -4324,7 +4348,7 @@ République du Soudan
 
 |
 
-280
+281
 
 |
 
@@ -4338,7 +4362,7 @@ République du Soudan
 
 |
 
-281
+282
 
 |
 
@@ -4362,7 +4386,7 @@ Tous les transporteurs aériens certifiés par les autorités du Swaziland charg
 
 |
 
-282
+283
 
 |
 
@@ -4388,7 +4412,7 @@ Tous les transporteurs aériens certifiés par les autorités de la Zambie charg
 
 |
 
-283
+284
 
 |
 
@@ -4404,6 +4428,6 @@ ZMA
 
 |
 
-(1) Les transporteurs aériens figurant à l'annexe A peuvent être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, pour autant que les normes de sécurité applicables soient respectées.
+(1) Les transporteurs aériens figurant à l'annexe A pourraient être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
 |

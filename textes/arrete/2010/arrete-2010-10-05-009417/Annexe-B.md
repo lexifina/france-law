@@ -2,13 +2,17 @@
 
 |
 
-NOM DU TRANSPORTEUR
+NOM
+
+du transporteur
 
 aérien (1)
 
 |
 
-PAYS D'ORIGINE
+PAYS
+
+d'origine
 
 |
 
@@ -38,7 +42,7 @@ Air Koryo
 
 |
 
-Corée du Nord
+République populaire démocratique de Corée
 
 |
 
@@ -48,7 +52,7 @@ Tout aéronef, sauf ceux immatriculés P-632 et P-633
 
 |
 
-Tout aéronef sauf 2 aéronefs de type TU 204
+Tout aéronef sauf 2 aéronefs de type TU-204
 
 |
 
@@ -66,11 +70,11 @@ République du Gabon
 
 |
 
-Tout aéronef, sauf ceux immatriculés TR-LGV, TR-LGY et TR-AFJ
+Tout aéronef, sauf ceux immatriculés TR-LGV, TR-LGY, TR-AFJ et TR-AFR
 
 |
 
-Tout aéronef sauf 2 aéronefs de type Falcon 50 et 1 aéronef de type Falcon 900
+Tout aéronef sauf 2 aéronefs de type Falcon 50 et 2 aéronefs de type Falcon 900
 
 |
 
@@ -102,23 +106,23 @@ Tout aéronef sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aér
 
 |
 
-Air Bangladesh
+Airlift International (GH) Ltd
 
 |
 
-Bangladesh
+République du Ghana
 
 |
 
-BGD
+ALE
 
 |
 
-S2-ADT
+Tout aéronef, sauf celui immatriculé 9G-TOP
 
 |
 
-B747-269B
+Tout aéronef, sauf 1 aéronef de type DC8-63F
 
 |
 
@@ -138,7 +142,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D 6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D6-CAM (851336)
 
 |
 
@@ -186,11 +190,11 @@ IRA
 
 |
 
-Tout aéronef, sauf ceux immatriculés EP-IBA, EP-IBB, EP-IBC, EP-IBD, EP-IBG, EP-IBH, EP-IBI, EP-IBJ, EP-IBS, EP-IBT, EP-IBV, EP-IBZ, EP-ICE, EP-ICF, EP-IBK, EP-IBL, EP-IBP, EP-IBQ, EP-IAA, EP-IAB, EP-IBC, EP-IBD, EP-IAG, EP-IAH, EP-IAI, EP-IAM, EP-ICD, EP-AGA, EP-IEA, EP-IEB, EP-IED, EP-IEE, EP-IEF, EP-IEG
+Tout aéronef, sauf ceux immatriculés EP-IBA, EP-IBB, EP-IBC, EP-IBD, EP-IBG, EP-IBH, EP-IBI, EP-IBJ, EP-IBM, EP-IBN, EP-IBO, EP-IBS, EP-IBT, EP-IBV, EP-IBX, EP-IBZ, EP-ICE, EP-ICF, EP-IBK, EP-IBL, EP-IBP, EP-IBQ, EP-AGA
 
 |
 
-Tout aéronef sauf 14 aéronefs de type A300, 4 aéronefs de type A310, 9 aéronefs de type B747, 1 aéronef de type B737 et 6 aéronefs de type A320
+Tout aéronef sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéronef de type B737
 
 |
 
@@ -214,7 +218,7 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
 
 |
 
@@ -234,7 +238,7 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D. 2-TED, D. 2-TEE, D. 2-TEF, D. 2-TBF, D. 2-TBG, D. 2-TBH, D. 2-TBJ
+Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
 
 |
 
@@ -266,7 +270,7 @@ Tout aéronef sauf 1 aéronef de type MD-83
 
 |
 
-(1) Les transporteurs aériens figurant à l'annexe B peuvent être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, pour autant que les normes de sécurité applicables soient respectées.
+(1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
 (2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
@@ -274,6 +278,6 @@ Tout aéronef sauf 1 aéronef de type MD-83
 
 (4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées aux considérants 48 et 49 du règlement (CE) n° 273/2010 de la Commission du 30 mars 2010.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010 de la Commission du 5 juillet 2010.
 
 |
