@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100212072
+
+- Question : [SEQ100212072](seq100212072.md) — Clarification de la notion d'abandon des concessions funéraires
+
+## Réponse
+
+*Intérieur, JO du 2010-11-11, page 2966*
+
+En application des articles L. 2223-17 et R. 2223-12 du code général des collectivités territoriales, la procédure de reprise des concessions funéraires en état d'abandon est subordonnée à deux conditions : la concession doit exister depuis plus de trente ans à compter de la date de l'acte qui l'a octroyée et la dernière inhumation doit dater de plus de dix ans. En l'état actuel du droit, la notion d'abandon d'une concession funéraire, situation en fonction de laquelle le terrain affecté peut être repris par la commune, résulte du défaut d'entretien et ne semble pas devoir impliquer nécessairement l'état de ruine de la sépulture. Cet état se caractérise néanmoins par des signes extérieurs nuisibles au bon ordre et à la décence du cimetière. C'est dans ce cadre qu'il convient de rechercher si l'état d'abandon d'une concession justifie sa reprise. En outre, il ressort de la jurisprudence qu'une concession qui offre une vue déplorable, « délabrée et envahie par les ronces ou autres plantes parasites » (CE, 24 novembre 1971, commune de Bourg-sur-Gironde, Lebon p. 704), ou « recouvertes d'herbe ou sur lesquelles poussent des arbustes sauvages » (CAA de Nancy, 3 novembre 1994), est la preuve de son abandon. Les deux procès-verbaux rédigés au cours de la procédure doivent ainsi décrire avec le plus de précisions possibles, pour chaque sépulture considérée, les éléments matériels de nature à caractériser l'état d'abandon, qui relève d'une appréciation au cas par cas. De ce fait, en dehors des critères déjà évoqués, il n'apparaît pas envisageable de dresser, par voie réglementaire, une liste exhaustive de ces éléments.
