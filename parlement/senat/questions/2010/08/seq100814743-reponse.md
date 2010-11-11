@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100814743
+
+- Question : [SEQ100814743](seq100814743.md) — Interprétation de l'article 199 septies du code général des impôts
+
+## Réponse
+
+*Économie, JO du 2010-11-11, page 2962*
+
+La réduction d'impôt sur le revenu en faveur de l'investissement locatif, dite « Scellier », prévue à l'article 199 septvicies du code général des impôts (CGI) s'applique notamment au titre de l'acquisition d'un local affecté à un usage autre que l'habitation que le contribuable transforme en logement. Pour l'application de ces dispositions, les travaux de transformation s'entendent des travaux de reconstruction, d'agrandissement, de réparation et d'amélioration ayant pour effet de rendre habitables des locaux qui ne l'étaient pas auparavant. Il en est ainsi lorsque les locaux affectés à un usage autre que l'habitation sont inadaptés à cet usage en raison de leur configuration. Tel est notamment le cas lorsque ces locaux ne comportent pas les équipements rendus nécessaires par les conditions modernes de vie (cuisine, salle de bains...). Les travaux de reconstruction et d'agrandissement sont présumés répondre à la définition de la transformation donnée ci-dessus. À défaut de tels travaux, les acquisitions de locaux suivies de transformations ne sont éligibles à la réduction d'impôt que si les travaux consistent au minimum en l'installation de l'équipement sanitaire élémentaire dans un local qui en était dépourvu. S'agissant du cas particulier évoqué, il ne pourrait être répondu avec certitude sur la question de l'éligibilité au dispositif « Scellier » d'une opération de transformation d'un ancien établissement d'hébergement de personnes âgées dépendantes (EHPAD) que si, par la communication des éléments nécessaires à l'appréciation complète du dossier, l'administration était en mesure de procéder à une instruction détaillée.
