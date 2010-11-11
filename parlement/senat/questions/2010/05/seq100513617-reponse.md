@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513617
+
+- Question : [SEQ100513617](seq100513617.md) — TVA à 5,5 % appliquée aux établissements d'hébergement pour personnes âgées dépendantes
+
+## Réponse
+
+*Économie, JO du 2010-11-11, page 2960*
+
+L'article 45 de la loi du 5 mars 2007 n° 2007-290, instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale, a prévu l'application du taux réduit de la taxe sur la valeur ajoutée (TVA), sous certaines conditions, aux ventes, apports et livraisons à soi-même de locaux d'établissements qui hébergent des personnes âgées ou des adultes handicapés. En complément de l'instruction du 25 février 2008 du ministère en charge de l'action sociale, qui contient le modèle de convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'État dans le département, ces dispositions ont été commentées par l'instruction fiscale du 24 juillet 2008, publiée au Bulletin officiel des impôts 8 A-1-08. Dans le département de la Creuse, les services déconcentrés compétents de l'État ont établi que neuf conventions de TVA à 5,5 % ont été signées dans les établissements d'hébergement pour personnes âgées dépendantes (EHPAD) creusois. Huit d'entre elles ont été signées dès 2008. En effet, le département de la Creuse a appliqué la loi dès que les dispositions ont été publiées en explicitant l'application. Un partenariat a été mis en place entre les services déconcentrés de l'État et les services fiscaux pour établir une procédure permettant de faciliter la compréhension et l'application du dispositif par les EHPAD. Selon leur régime d'imposition, les EHPAD bénéficiaires perçoivent mensuellement et trimestriellement le remboursement de la TVA relative à leurs travaux de réhabilitation et de reconstruction actuellement en cours.
