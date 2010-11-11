@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111698
+
+- Question : [SEQ100111698](seq100111698.md) — Aide au maintien à domicile pour les retraités de la fonction publique d'État
+
+## Réponse
+
+*Travail, JO du 2010-11-11, page 2979*
+
+Le ministre du travail, de la solidarité et de la fonction publique a pris connaissance avec intérêt de la question relative à l'aide ménagère à domicile (AMD) pour les personnes retraitées de la fonction publique de l'État. L'AMD est une prestation d'action sociale facultative servie par l'État employeur aux retraités de la fonction publique de l'État. Cette allocation a été élaborée sur la base de la prestation d'action sociale servie aux retraités du régime général. Les modalités de son attribution se sont éloignées de son objectif initial en conduisant à faire bénéficier des personnes au-delà du public ciblé en tant en termes de dépendance que d'un point de vue financier. Ainsi, une réflexion a été ouverte en 2009 sur la rénovation du dispositif (à l'instar des actions conduites par la Caisse nationale d'assurance maladie des travailleurs salariés en la matière). Dans ce cadre, le Gouvernement a décidé à compter du 1er janvier 2009 de ne pas reconduire l'AMD dans l'attente de l'aboutissement de cette réflexion. Toutefois, les droits constatés dans le cadre des dossiers de demande déposés jusqu'au 31 décembre 2008 ont pu donner lieu à une prise en charge en 2009, jusqu'au terme de la réalisation du plan d'aide à domicile. Dans le cadre de cette réflexion, le Gouvernement a demandé au comité interministériel consultatif d'action sociale (CIAS), composé des organisations syndicales et des représentants du ministère employeur, des propositions pour envisager, à budget constant de l'action sociale interministérielle, la mise en oeuvre d'une prestation rénovée d'aide au maintien à domicile des agents retraités de l'État. À ce stade, le CIAS n'a pas présenté de propositions.
