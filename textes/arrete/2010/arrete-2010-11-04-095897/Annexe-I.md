@@ -1,36 +1,34 @@
 # Article Annexe I
 
-(POUR LES NAVIRES PÊCHANT À LA SENNE DE SURFACE TITULAIRES
-
-D'UN PERMIS DE PÊCHE SPÉCIAL THON ROUGE )
+(POUR LES NAVIRES PÊCHANT À LA SENNE DE SURFACE TITULAIRES D'UN PERMIS DE PÊCHE SPÉCIAL THON ROUGE )
 
 |
 
-Numéro
+NUMÉRO
 
 du navire
 
 |
 
-Nom du navire
+NOM DU NAVIRE
 
 |
 
-Quota 2010 (en t) en mer Méditerranée
+QUOTA 2010 (en tonnes)
+
+en mer Méditerranée
 
 |
 
-Quota 2010 (en t)
+QUOTA 2010 (en tonnes)
 
-en océan Atlantique à l'est
+en océan Atlantique
 
-de la longitude 45° ouest
+à l'est de la longitude 45° Ouest
 
 |
 
-OP
-
-SATHOAN
+OP SATHOAN
 
 |
 
@@ -146,7 +144,7 @@ JANVIER GIORDANO
 
 |
 
-TOTAL SA THOAN
+Total SATHOAN
 
 |
 
@@ -158,11 +156,7 @@ TOTAL SA THOAN
 
 |
 
-Groupement
-
-de navires
-
-STM
+Groupement de navires STM
 
 |
 
@@ -294,7 +288,7 @@ ANNE ANTOINE 2
 
 |
 
-TOTAL STM
+Total STM
 
 |
 
@@ -344,7 +338,7 @@ VILLE D'AGDE IV
 
 |
 
-TOTAL PRO.QUA.PORT
+Total PRO.QUA.PORT
 
 |
 
@@ -353,8 +347,6 @@ TOTAL PRO.QUA.PORT
 |
 
 0
-
-|
 
 |
 

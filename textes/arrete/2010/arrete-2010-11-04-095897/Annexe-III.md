@@ -2,15 +2,19 @@
 
 |
 
-QUOTA 2010 (en tonnes)
+QUOTA 2010
 
-en océan Atlantique à l'est
+(en tonnes)
 
-de la longitude 45° Ouest
+en océan Atlantique
+
+à l'est de la longitude 45° Ouest
 
 |
 
-QUOTA 2010 (en tonnes)
+QUOTA 2010
+
+(en tonnes)
 
 en mer Méditerranée
 
@@ -76,19 +80,11 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'union des pêcheurs de la Manche et de l'Atlantique (PMA)
+Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-61
-
-|
-
-0
-
-|
-
-Navires adhérant à l'Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+66
 
 |
 
@@ -96,15 +92,7 @@ Navires adhérant à l'Organisation de producteurs des pêcheurs artisans de l'�
 
 |
 
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs VENDEE
-
-|
-
-20
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -112,11 +100,27 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-Navires adhérant à l'Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+0
 
 |
 
-14, 5
+Navires adhérant à l'organisation de producteurs VENDÉE
+
+|
+
+7
+
+|
+
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+
+|
+
+19,5
 
 |
 
@@ -128,7 +132,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-5
+3
 
 |
 
@@ -136,7 +140,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'Organisation de producteurs de la Côtinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
 
 |
 
@@ -164,7 +168,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-100, 5
+120,5
 
 |
 
@@ -172,7 +176,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
+Navires non adhérant à une organisation de producteurs
 
 |
 
@@ -184,11 +188,11 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-TOTAL
+Total
 
 |
 
-202
+217
 
 |
 
