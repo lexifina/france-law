@@ -1,12 +1,12 @@
 # Article Annexe
 
-=================================================================
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 : A : B : C : |
 
 :-------------------------:----:--------------------------------: |
 
-: I - COMPAGNIES CONSULAIRES, ORGANISMES PROFESSIONNELS ET : |
+: I-COMPAGNIES CONSULAIRES, ORGANISMES PROFESSIONNELS ET : |
 
 : SYNDICAUX DE L'INDUSTRIE ET DU COMMERCE, DE L'ARTISANAT ET : |
 
@@ -26,7 +26,7 @@
 
 : Chambre d'agriculture : 1 : Par la chambre d'agriculture. : |
 
-: Chambre de métiers : 1 : Par la chambre de métiers et de l'artisanat. : |
+: Chambre de métiers : 1 : Par la chambre de métiers et de l'artisanat de région . : |
 
 : : : : |
 
@@ -98,13 +98,13 @@
 
 : Total 1ère catégorie : 21 : : |
 
-==================================================================================================================================
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 : A : B : C : |
 
 :-------------------------:----:--------------------------------: |
 
-: II - ACTIVITES SPECIFIQUES DE LA REGION : |
+: II-ACTIVITES SPECIFIQUES DE LA REGION : |
 
 : : : : |
 
@@ -120,7 +120,7 @@
 
 : : : de bananes : |
 
-: : : S.I.C.A. - A.S.S.O.B.A.G.. : |
+: : : S.I.C.A.-A.S.S.O.B.A.G.. : |
 
 : Pêche : 1 : Par le crédit maritime. : |
 
@@ -134,15 +134,15 @@
 
 : Total 2ème catégorie : 5 : : |
 
-: :====: : |
+: : = = = = : : |
 
-=================================================================
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 : A : B : C : |
 
 :-------------------------:----:--------------------------------: |
 
-: III - ACTIVITES SANITAIRES ET SOCIALES, FAMILIALES, : |
+: III-ACTIVITES SANITAIRES ET SOCIALES, FAMILIALES, : |
 
 : EDUCATIVES, SCIENTIFIQUES, CULTURELLES, SPORTIVES, DE : |
 
@@ -192,7 +192,7 @@
 
 : : : formation rationnelle de la : |
 
-: : : main-d"oeuvre. : |
+: : : main-d " oeuvre. : |
 
 : Environnement : 1 : Par le conseil départemental : |
 
@@ -220,13 +220,13 @@
 
 : Total 3ème catégorie : 11 : : |
 
-: :====: : |
+: : = = = = : : |
 
-: IV - PERSONNALITES : : : |
+: IV-PERSONNALITES : : : |
 
 : QUALIFIEES : 3 : : |
 
-=================================================================
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 (A) Activités ou organismes.
 

@@ -1,6 +1,6 @@
 # Article ANNEXE 1
 
-I - Brevets de technicien.
+I-Brevets de technicien.
 
 Spécialités :
 
@@ -38,7 +38,7 @@ Peintures et revêtements (sols et murs).
 
 Topographe.
 
-II - Brevets de technicien supérieur.
+II-Brevets de technicien supérieur.
 
 Spécialités :
 
@@ -96,13 +96,13 @@ Brevet de technicien supérieur délivré dans l'une des spécialités de brevet
 
 Spécialité Informatique (1).
 
-*(1) Ajouté par arrêté du 27 avril 1982*.
+* (1) Ajouté par arrêté du 27 avril 1982*.
 
-III - Baccalauréats.
+III-Baccalauréats.
 
 Baccalauréat E (mathématiques et techniques).
 
-IV - Baccalauréats de technicien.
+IV-Baccalauréats de technicien.
 
 Spécialités :
 
@@ -128,7 +128,7 @@ Microtechniques (option Appareillage) (F 10).
 
 Techniques informatiques (programmation) (H).
 
-V - Diplômes universitaires de technologie.
+V-Diplômes universitaires de technologie.
 
 Spécialités :
 
@@ -154,7 +154,7 @@ Maintenance industrielle.
 
 Mesures physiques.
 
-VI - Brevets d'enseignement industriel.
+VI-Brevets d'enseignement industriel.
 
 Spécialités :
 
@@ -204,9 +204,9 @@ Peinture, vitrerie.
 
 Serrurerie et ferronnerie.
 
-VII - Certificats de formation professionnelle ou de perfectionnement professionnel délivrés par le ministère chargé de la formation professionnelle.
+VII-Certificats de formation professionnelle ou de perfectionnement professionnel délivrés par le ministère chargé de la formation professionnelle.
 
-A - Certificats homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+A-Certificats homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Agent de maintenance automaticien.
 
@@ -278,7 +278,7 @@ Technicien métreur en charpente et menuiserie bois.
 
 Technicien métreur gros oeuvre.
 
-B - Certificats homologués au niveau III des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+B-Certificats homologués au niveau III des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Spécialités :
 
@@ -326,7 +326,7 @@ Technicien physicien chimiste.
 
 Technicien supérieur physicien chimiste.
 
-VIII - Titres "un des meilleurs ouvriers de France" homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+VIII-Titres " un des meilleurs ouvriers de France " homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Spécialités :
 
@@ -374,7 +374,7 @@ Fraiseur outilleur.
 
 Marbrier.
 
-VIII - Titres "un des meilleurs ouvriers de France" homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+VIII-Titres " un des meilleurs ouvriers de France " homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Mécanicien outilleur en matrice de forge et d'estampage.
 
@@ -432,9 +432,9 @@ Tourneur outilleur.
 
 Tourneur sur bois.
 
-IX - Titres militaires.
+IX-Titres militaires.
 
-A - Titres militaires homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+A-Titres militaires homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Air :
 
@@ -562,7 +562,7 @@ Brevet de l'école technique normale de l'armement de Saint-Etienne.
 
 Certificat technique, deuxième degré (transport, distribution, essences).
 
-B - Titres militaires homologués au niveau III des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
+B-Titres militaires homologués au niveau III des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique).
 
 Air :
 
@@ -600,9 +600,9 @@ Brevet de technicien d'études et de fabrication des travaux mécaniques.
 
 Certificat technique d'officier des branches Transmissions et Informatique.
 
-X - Diplômes étrangers.
+X-Diplômes étrangers.
 
-A - Belgique.
+A-Belgique.
 
 Titre de technicien horticole (A 2), délivré par les écoles suivantes :
 
@@ -612,7 +612,7 @@ Mechelen, provinciale Hogere Middelbare Tuinbouwschool, Antwerpsesteenweg 145.
 
 Province de Brabant :
 
-Anderlecht, institut provincial d'horticulture, 1, avenue Marius-Renard.
+Anderlecht, institut provincial d'horticulture,1, avenue Marius-Renard.
 
 Leuven, provinciale Tuinbouwschool, Wijnpersstraat 6.
 
@@ -628,11 +628,11 @@ Melle, Rijksmiddelbare Tuinbouwschool, Brusselsesteenweg 147.
 
 Wetteren, Technische Scholen, Sint-Barbara-Beirstoppelstraat 102. Province du Hainaut :
 
-La Hestre, école d'horticulture de Mariemont, 25, rue du Parc.
+La Hestre, école d'horticulture de Mariemont,25, rue du Parc.
 
 Province du Limbourg :
 
-Sint-Truiden, Rijkstechnisch Institut, Melveren (Landgoef "Ter Biest").
+Sint-Truiden, Rijkstechnisch Institut, Melveren (Landgoef " Ter Biest ").
 
 Sint-Truiden, Vrijemiddelbare Tuinbouwschool Steenweg op Diest, Gruvelingen 2.
 
@@ -646,21 +646,21 @@ Les écoles techniques horticoles de Mariemont, à La Hestre.
 
 La Rijkstuinbouwschool, à Melle.
 
-B - Suisse.
+B-Suisse.
 
 Titre d'agrotechnicien délivré par :
 
-L'école supérieure, centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine), 1254 Lullier, canton de Genève.
+L'école supérieure, centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine),1254 Lullier, canton de Genève.
 
 L'école technique supérieure de Rapperswill.
 
-L'école technique supérieure, 4, rue de la Prairie, 1202 Genève.
+L'école technique supérieure,4, rue de la Prairie,1202 Genève.
 
 Titre d'ingénieur technicien délivré par l'école supérieure,
 
-centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine), 1254 Lullier, canton de Genève.
+centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine),1254 Lullier, canton de Genève.
 
-C - Pays-Bas.
+C-Pays-Bas.
 
 Diplômes délivrés par les établissements suivants (brevet de technicien agricole) :
 
@@ -668,13 +668,13 @@ Middelbare Tuinbouwschool Zie onder R.K. middelbare Landbauwschoolen, Frankentha
 
 Middelbare Tuinbouwschoolen, Rijnbeekstraat 12, Venlo.
 
-Overige Bijzonderemiddelbare Tuinbouwschoolen "G.A. von Swieten", Majoor van Swieten Laan 15, Frederiksoord.
+Overige Bijzonderemiddelbare Tuinbouwschoolen " G.A. von Swieten ", Majoor van Swieten Laan 15, Frederiksoord.
 
 Overige Bijzonderemiddelbare Tuinbouwschoolen Zie Overigebijz.
 
-Middelbare Lanbouwschoolen, Thedinghsweert, 3 Kerk Avezaath.
+Middelbare Lanbouwschoolen, Thedinghsweert,3 Kerk Avezaath.
 
-Middelbare Tuinbouwschool voor Meisjes "Huis te Lande", van Vredenburchweg 150, Rijswijk.
+Middelbare Tuinbouwschool voor Meisjes " Huis te Lande ", van Vredenburchweg 150, Rijswijk.
 
 Rijksmiddelbare Tuinbouwschool, Linnaeuslaan 2, Aalsmeer.
 
@@ -702,7 +702,7 @@ Rijks hogere School voor Thuin en Landschapsinrichting, Azalealaan 115, Postbus 
 
 Hogere opleinding voor Thuin en Landschaps Architectuur, Waterlooplein 67, Amsterdam.
 
-XI - Autres diplômes et titres.
+XI-Autres diplômes et titres.
 
 Diplôme de conducteur des travaux publics et technicien de bureau d'études délivré par l'école spéciale des travaux publics.
 
@@ -756,7 +756,7 @@ Diplômes d'études agricoles du second degré.
 
 Diplôme des écoles régionales d'agriculture.
 
-Brevet de maîtrise délivré par les chambres de métiers et de l'artisanat d'Alsace et de Moselle.
+Brevet de maîtrise délivré par les chambres de métiers et de l'artisanat de région d'Alsace et de Moselle.
 
 Diplôme de l'école spéciale d'architecture des jardins de la ville de Paris.
 
@@ -788,4 +788,4 @@ Diplôme de programmeur d'études délivré par un institut de programmation (1)
 
 Diplôme d'architecte.
 
-*(1) Ajouté par arrêté du 27 avril 1982*.
+* (1) Ajouté par arrêté du 27 avril 1982*.

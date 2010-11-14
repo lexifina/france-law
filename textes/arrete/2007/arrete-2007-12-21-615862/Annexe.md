@@ -86,7 +86,7 @@ Concepteur-réalisateur multimédia.
 
 Cadre commercial en agrofourniture.
 
-Concepteur designer, option design produit » ou design graphique et multimédia ».
+Concepteur designer, option design produit ou design graphique et multimédia .
 
 Responsable commercialisation agroalimentaire.
 
@@ -106,7 +106,7 @@ Technicien de maintenance en audiovisuel.
 
 TITRES DÉLIVRÉS PAR L'ASSEMBLÉE PERMANENTE
 
-DES CHAMBRES DE MÉTIERS (APCM)
+DES CHAMBRES DE MÉTIERS ET DE L'ARTISANAT (APCM)
 
 Brevets de maîtrise
 
