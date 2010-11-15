@@ -1,0 +1,9 @@
+# Paris : acte V81 M — relatif à la négociation du futur barème de soutien financier aux collectivités pour la collecte sélective.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2010-11-15
+- Nature : VNR
+- Objet : relatif à la négociation du futur barème de soutien financier aux collectivités pour la collecte sélective.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
