@@ -78,6 +78,38 @@ Adjoint administratif principal de 1re classe
 
 |
 
+Filière technico-administrative
+
+CORPS ET GRADES
+
+|
+
+TAUX APPLICABLES
+
+|
+
+Corps des techniciens de physiothérapie relevant du ministre chargé de la santé
+
+Décret n° 75-557 du 2 juillet 1975 modifié
+
+|
+
+Technicien de physiothérapie de classe supérieure
+
+|
+
+30 % en 2010, 15 % en 2011 et 2012
+
+|
+
+Technicien de physiothérapie de classe exceptionnelle
+
+|
+
+25 % en 2010, 7,5 % en 2011 et 2012
+
+|
+
 Filière technico-ouvrière
 
 CORPS ET GRADES
@@ -224,7 +256,9 @@ TAUX APPLICABLES
 
 Corps des assistants de service social
 
-Décret n° 91-783 du 1er août 1991 modifié |
+Décret n° 91-783 du 1er août 1991 modifié
+
+|
 
 Assistant de service social principal
 
@@ -238,7 +272,9 @@ Corps des éducateurs spécialisés des instituts nationaux de jeunes sourds
 
 et de l'Institut national des jeunes aveugles
 
-Décret n° 94-464 du 3 juin 1994 modifié |
+Décret n° 94-464 du 3 juin 1994 modifié
+
+|
 
 Educateur spécialisé de 1re classe
 
@@ -260,7 +296,9 @@ TAUX APPLICABLES
 
 Corps des médecins inspecteurs de santé publique
 
-Décret n° 91-1025 du 7 octobre 1991 modifié |
+Décret n° 91-1025 du 7 octobre 1991 modifié
+
+|
 
 Médecin inspecteur en chef de santé publique
 
@@ -280,7 +318,9 @@ Médecin général de santé publique
 
 Corps des pharmaciens inspecteurs de santé publique
 
-Décret n° 92-1432 du 30 décembre 1992 modifié |
+Décret n° 92-1432 du 30 décembre 1992 modifié
+
+|
 
 Pharmacien inspecteur en chef de santé publique
 
@@ -300,7 +340,9 @@ Pharmacien général de santé publique
 
 Corps des inspecteurs de l'action sanitaire et sociale
 
-Décret n° 2002-1569 du 24 décembre 2002 modifié |
+Décret n° 2002-1569 du 24 décembre 2002 modifié
+
+|
 
 Inspecteur principal de l'action sanitaire et sociale
 
@@ -332,7 +374,9 @@ Corps des professeurs d'enseignement général
 
 de l'Institut national des jeunes aveugles
 
-Décret n° 93-292 du 8 mars 1993 modifié |
+Décret n° 93-292 du 8 mars 1993 modifié
+
+|
 
 Professeur hors classe
 
@@ -346,7 +390,9 @@ Corps des professeurs d'enseignement général
 
 des instituts nationaux de jeunes sourds
 
-Décret n° 93-293 du 8 mars 1993 modifié |
+Décret n° 93-293 du 8 mars 1993 modifié
+
+|
 
 Professeur hors classe
 
@@ -356,9 +402,13 @@ Professeur hors classe
 
 |
 
-Corps des professeurs d'enseignement technique des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles
+Corps des professeurs d'enseignement technique des instituts nationaux
 
-Décret n° 93-294 du 8 mars 1993 modifié |
+de jeunes sourds et de l'Institut national des jeunes aveugles
+
+Décret n° 93-294 du 8 mars 1993 modifié
+
+|
 
 Professeur hors classe
 
@@ -382,7 +432,9 @@ Corps interministériel des infirmiers et infirmières
 
 des services médicaux des administrations de l'Etat
 
-Décret n° 94-1020 du 23 novembre 1994 modifié |
+Décret n° 94-1020 du 23 novembre 1994 modifié
+
+|
 
 Infirmier(e) de classe supérieure
 
