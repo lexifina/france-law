@@ -30,6 +30,8 @@ Président de chambre et avocat général de cour d'appel.
 
 Premier vice-président de tribunal de grande instance.
 
+Premier vice-président adjoint de tribunal de grande instance.
+
 Magistrat chargé de l'instruction et magistrat du parquet de tribunal de grande instance ou de première instance.
 
 Magistrat chargé d'un secrétariat général dans une cour d'appel ou dans un tribunal de grande instance.
