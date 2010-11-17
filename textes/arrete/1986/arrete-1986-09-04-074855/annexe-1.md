@@ -1,3 +1,0 @@
-# Article annexe 1
-
-.
