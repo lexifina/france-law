@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915163
+
+- Question : [SEQ100915163](seq100915163.md) — Caducité des règles d'un lotissement
+
+## Réponse
+
+*Justice, JO du 2010-11-18, page 3033*
+
+L'ordonnance n° 2005-1527 du 8 décembre 2005 relative au permis de construire et aux autorisations d'urbanisme a abrogé l'article L. 315-2-1 du code de l'urbanisme mais a inséré dans celui-ci l'article L. 442-9, modifié ultérieurement par la loi n° 2010-788 du 12 juillet 2010, qui reprend le principe de la caducité des règles de lotissement. En effet, aux termes du premier alinéa de cet article, « les règles d'urbanisme contenues dans les documents approuvés d'un lotissement deviennent caduques au terme de dix années à compter de la délivrance de l'autorisation de lotir si, à cette date, le lotissement est couvert par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu ». Ainsi, seules les règles d'urbanisme approuvées par l'administration deviennent caduques dix ans après la délivrance de l'autorisation de lotir. A contrario, et ainsi que le précisent les dispositions du troisième alinéa du même article, cette caducité ne s'applique pas au cahier des charges du lotissement, document de nature contractuelle, qui n'est pas soumis à l'approbation de l'autorité administrative, ni au mode de gestion des parties communes. Elle n'affecte pas davantage les droits et obligations résultant des dispositions du code civil en matière de plantation, bornage et mitoyenneté. Les règles d'intérêt privé ou collectif qui figurent dans le cahier des charges, ainsi que les servitudes issues du code civil destinées à régir les relations entre colotis et les relations entre le lotisseur et les acquéreurs demeurent donc en vigueur à l'issue des dix ans. En conséquence, les colotis ou l'assemblée syndicale pourront s'en prévaloir devant le juge judiciaire.
