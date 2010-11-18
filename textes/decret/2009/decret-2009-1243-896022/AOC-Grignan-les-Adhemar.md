@@ -1,14 +1,14 @@
-# Article AOC "Coteaux du Tricastin"
+# Article AOC "Grignan-les-Adhémar"
 
 CAHIER DES CHARGES DE L'APPELLATION
 
-D'ORIGINE CONTRÔLÉE "COTEAUX DU TRICASTIN"
+D'ORIGINE CONTRÔLÉE "GRIGNAN-LES-ADHEMAR"
 
 Chapitre Ier
 
 I. - Nom de l'appellation
 
-Seuls peuvent prétendre à l'appellation d'origine contrôlée "Coteaux du Tricastin", initialement reconnue par le décret du 27 juillet 1973, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre à l'appellation d'origine contrôlée "Grignan-les-Adhémar", initialement reconnue par le décret du 27 juillet 1973, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. - Dénominations géographiques
 
@@ -18,7 +18,7 @@ Le nom de l'appellation peut être complété par la mention "primeur" ou "nouve
 
 III. - Couleur et types de produit
 
-L'appellation d'origine contrôlée "Coteaux du Tricastin", complétée ou non par la mention "primeur" ou "nouveau", est réservée aux vins tranquilles blancs, rouges et rosés.
+L'appellation d'origine contrôlée "Grignan-les-Adhémar", complétée ou non par la mention "primeur" ou "nouveau", est réservée aux vins tranquilles blancs, rouges et rosés.
 
 IV. - Aires et zones dans lesquelles
 
@@ -422,7 +422,7 @@ XII. - Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'appellation d'origine contrôlée "Coteaux du Tricastin" et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus, sans que dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention "Appellation contrôlée", le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'appellation d'origine contrôlée "Grignan-les-Adhémar" et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus, sans que dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention "Appellation contrôlée", le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
