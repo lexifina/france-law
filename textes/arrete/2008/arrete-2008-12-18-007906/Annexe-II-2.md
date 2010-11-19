@@ -2,7 +2,7 @@
 
 |
 
-CERTIFICATIONS DELIVREES PAR LA FEDERATION FRANCHISE D'EQUITATION
+CERTIFICATIONS DELIVREES PAR LA FEDERATION FRANCAISE D'EQUITATION
 
 |
 
@@ -24,7 +24,9 @@ TITRES A FINALITÉ
 
 PROFESSIONNELLE
 
-DELIVRES APRES LE 13 NOVEMBRE 2009
+ENREGISTRÉS AU RNCP
+
+LE 13 NOVEMBRE 2009
 
 |
 
@@ -40,19 +42,7 @@ Tourisme
 
 |
 
-Degré 3
-
-|
-
-Degré 3
-
-Tourisme
-
-équestre
-
-|
-
-BAP*
+BAP
 
 |
 
@@ -60,7 +50,7 @@ ATE*
 
 |
 
-GTE*
+GTE**
 
 |
 
@@ -75,14 +65,6 @@ ATE
 |
 
 Exigences préalables à l'entrée en formation
-
-|
-
-Acquis mention équitation
-
-|
-
-Acquis mention tourisme équestre
 
 |
 
@@ -142,10 +124,6 @@ Exigences préalables à la mise en situation pédagogique
 
 |
 
-|
-
-|
-
 Acquis
 
 |
@@ -178,10 +156,6 @@ UC 1
 
 |
 
-|
-
-|
-
 Acquis
 
 |
@@ -191,10 +165,6 @@ Acquis
 |
 
 UC 2
-
-|
-
-|
 
 |
 
@@ -226,10 +196,6 @@ UC 3
 
 |
 
-|
-
-|
-
 Acquis
 
 |
@@ -250,10 +216,6 @@ UC 4
 
 |
 
-|
-
-|
-
 Acquis
 
 |
@@ -263,10 +225,6 @@ Acquis
 |
 
 UC 5
-
-|
-
-|
 
 |
 
@@ -295,10 +253,6 @@ Acquis
 |
 
 UC 6
-
-|
-
-|
 
 |
 
@@ -338,10 +292,6 @@ UC 7
 
 |
 
-|
-
-|
-
 Acquis
 
 |
@@ -351,10 +301,6 @@ Acquis
 |
 
 UC 8
-
-|
-
-|
 
 |
 
@@ -379,24 +325,6 @@ UC 9
 |
 
 |
-
-|
-
-Acquis
-
-mention
-
-équitation
-
-|
-
-Acquis
-
-mention
-
-tourisme
-
-équestre
 
 |
 
@@ -438,20 +366,14 @@ UC 10
 
 |
 
-|
-
-|
-
 Acquis
 
 |
 
 |
 
-Acquis
-
 |
 
-Délivré jusqu'au 28 août 2007
+* Délivré jusqu'au 28 août 2007
 
-Titulaires au 28 août 2007 pouvant attester d'une expérience minimale de raille deux cents heures en deux ans dans le tourisme équestre.
+** Titulaires au 28 août 2007 pouvant attester d'une expérience minimale de mille deux cents heures en deux ans dans le tourisme équestre.
