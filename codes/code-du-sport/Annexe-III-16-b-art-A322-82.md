@@ -1,8 +1,6 @@
 # Article Annexe III-16 b
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION
-
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
+CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 ESPACES d'évolution
 
@@ -20,11 +18,7 @@ Aptitudes minimales des plongeurs encadrés
 
 |
 
-Effectif maximal
-
-de la palanquée (encadrement
-
-non compris)
+Effectif maximal de la palanquée (encadrement non compris)
 
 |
 
@@ -48,11 +42,11 @@ Débutants
 
 |
 
-4
+4 (*)
 
 |
 
-GP
+E1 ou GP
 
 |
 
@@ -68,11 +62,11 @@ PE-1
 
 |
 
-4
+4 (*)
 
 |
 
-GP
+E2 ou GP
 
 |
 
@@ -92,11 +86,11 @@ PE-2
 
 |
 
-4
+4 (*)
 
 |
 
-GP
+E2 ou GP
 
 |
 
@@ -116,11 +110,11 @@ PE-3
 
 |
 
-4
+4 (*)
 
 |
 
-GP
+E3 ou GP
 
 |
 
@@ -140,7 +134,7 @@ PE-4
 
 |
 
-2
+3 (*)
 
 |
 
@@ -153,5 +147,9 @@ PA-4
 |
 
 3
+
+|
+
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
 
 |
