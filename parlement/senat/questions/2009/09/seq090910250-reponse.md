@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910250
+
+- Question : [SEQ090910250](seq090910250.md) — Protection des chartes des parcs naturels régionaux
+
+## Réponse
+
+*Écologie, JO du 2010-11-25, page 3091*
+
+La loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement a modifié les dispositions de l'article L. 300-6 du code de l'urbanisme qui prévoient désormais, dans un souci de cohérence des politiques publiques, qu'une déclaration de projet adoptée par l'État peut procéder aux adaptations nécessaires de divers documents, dont les chartes de parcs naturels régionaux, dans le respect des dispositions législatives et réglementaires applicables à leur contenu. Le ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (MEEDDM), est particulièrement attaché à la politique des parcs naturels régionaux, en premier lieu par leur capacité à préserver le patrimoine naturel, culturel et paysager d'un territoire, mais aussi, par leur capacité à le mettre en valeur, notamment comme vecteur du développement économique local. Le projet de territoire et les partenariats définis dans le cadre d'une charte de parc naturel régional résultent d'un processus de concertation et de coconstruction complexe, qui confère au projet une légitimité, un ancrage et une organisation territoriale à la hauteur des enjeux de préservation, de mise en valeur et de développement qu'il doit concilier. Le MEEDDM sera donc particulièrement vigilant à ce que les projets de l'État situés au sein des parcs naturels régionaux et relevant des dispositions susmentionnées respectent les équilibres trouvés par les acteurs locaux, lors de l'élaboration des chartes et prennent en compte de manière appropriée les enjeux de préservation des milieux naturels et des paysages.
