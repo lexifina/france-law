@@ -10,9 +10,7 @@ I.-Nom de l'appellation
 
 Seuls peuvent prétendre à l'appellation d'origine contrôlée " Côtes du Rhône Villages ", initialement reconnue par le décret du 2 novembre 1966, les vins répondant aux dispositions particulières fixées ci-après.
 
-II.-Dénominations géographiques
-
-et mentions complémentaires
+II.-Dénominations géographiques et mentions complémentaires
 
 Le nom de l'appellation peut être complété par une des dénominations géographiques suivantes pour les vins répondant aux conditions de production fixées pour ces dénominations géographiques dans le présent cahier des charges :
 
@@ -27,8 +25,6 @@ Le nom de l'appellation peut être complété par une des dénominations géogra
 ― " Plan de Dieu " ;
 
 ― " Puyméras " ;
-
-― " Rasteau " ;
 
 ― " Roaix " ;
 
@@ -56,15 +52,13 @@ III.-Couleur et types de produit
 
 L'appellation d'origine contrôlée " Côtes du Rhône Villages " est réservée aux vins tranquilles blancs, rouges ou rosés.
 
-Les dénominations géographiques " Cairanne ", " Laudun ", " Rasteau ", " Roaix ", " Rochegude ", " Rousset-les-Vignes ", " Sablet ", " Saint-Gervais ", " Saint-Maurice ", " Saint-Pantaléon-les-Vignes ", " Séguret ", " Valréas " et " Visan " sont réservées aux vins tranquilles blancs, rouges ou rosés.
+Les dénominations géographiques " Cairanne ", " Laudun "," Roaix ", " Rochegude ", " Rousset-les-Vignes ", " Sablet ", " Saint-Gervais ", " Saint-Maurice ", " Saint-Pantaléon-les-Vignes ", " Séguret ", " Valréas " et " Visan " sont réservées aux vins tranquilles blancs, rouges ou rosés.
 
 La dénomination géographique " Chusclan " est réservée aux vins tranquilles rouges ou rosés.
 
 Les dénominations géographiques " Massif d'Uchaux ", " Plan de Dieu ", " Puyméras " et " Signargues " sont réservées aux vins tranquilles rouges.
 
-IV.-Aires et zones dans lesquelles
-
-différentes opérations sont réalisées
+IV.-Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
 
@@ -141,14 +135,6 @@ Camaret-sur-Aigues, Jonquières, Violès et Travaillan (pour partie)
 |
 
 Mérindol-les-Oliviers, Mollans-sur-Ouvèze, Faucon, Puyméras et Saint-Romain-en-Viennois
-
-|
-
-" Rasteau "
-
-|
-
-Rasteau
 
 |
 
@@ -536,9 +522,7 @@ Le bénéfice de l'appellation d'origine contrôlée ne peut être accordé aux 
 
 Pas de disposition particulière.
 
-IX.-Transformation, élaboration, élevage,
-
-conditionnement, stockage
+IX.-Transformation, élaboration, élevage, conditionnement, stockage
 
 1° Dispositions générales :
 
