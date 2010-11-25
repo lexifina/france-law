@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915347
+
+- Question : [SEQ100915347](seq100915347.md) — Bénéficiaires des plans de prévention des risques technologiques
+
+## Réponse
+
+*Écologie, JO du 2010-11-25, page 3095*
+
+La loi 699-2003 du 30 juillet 2003 prévoit que les mesures de renforcement du bâti soient à la charge des riverains mais que ceux-ci bénéficient d'un dispositif d'aide. Initialement, le dispositif était un crédit d'impôt de 15 % du montant des travaux plafonné à 1 500 € pour un couple, uniquement à destination des propriétaires occupants. Conscient de la charge que représentent ces travaux, le ministre d'État, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (MEEDDM), a demandé à ses services, à partir des recommandations issues de la table ronde sur les risques industriels, de travailler sur l'amélioration du financement de ces travaux avec l'ensemble des parties prenantes. Afin d'aider de manière significative les particuliers à réaliser les travaux prescrits par les plans de prévention des risques technologiques (PPRT), la loi portant engagement national pour l'environnement du 12 juillet 2010 élève désormais le crédit d'impôt à 40 % du montant des travaux et le plafonne à 30 000 €. Il convient néanmoins de préciser que la mise en place des PPRT se fait dans un contexte budgétaire peu propice à la création d'aides fiscales. Il s'agit donc d'atteindre le meilleur compromis permettant de progresser dans la démarche PPRT tout en tenant compte des contraintes liées aux finances publiques. C'est pourquoi la proposition d'étendre le crédit d'impôt aux propriétaires bailleurs ainsi que la question des activités industrielles sont toujours à l'étude, étant entendu que la problématique concernant cette dernière est complexe et qu'elle doit être traitée de manière globale.
