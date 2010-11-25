@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090307973
+
+- Question : [SEQ090307973](seq090307973.md) — Particularité de certaines inscriptions sous le statut d'auto-entrepreneur
+
+## Réponse
+
+*Commerce, JO du 2010-11-25, page 3086*
+
+Les règles de qualification sont identiques, sans aucune dispense, pour les auto-entrepreneurs et pour les autres artisans. Depuis 1996, certains artisans sont soumis à une obligation de qualification professionnelle : le plus généralement, trois ans d'expérience professionnelle ou un CAP, dans le domaine d'activité où ils veulent créer leur entreprise, sont requis. Cette règle s'applique de plein droit aux auto-entrepreneurs. Quelle que soit l'appellation sous laquelle ils sollicitent leur inscription, les auto-entrepreneurs sont tenus au respect de cette obligation de qualification professionnelle dès lors qu'ils exercent une activité entrant dans le champ de cette obligation. Il en va notamment ainsi des activités de construction, d'entretien ou de réparation des bâtiments, ou encore, des interventions sur des équipements domestiques utilisant des fluides (comme le changement d'un composant électrique par exemple). Il est exact que cette obligation de qualification n'était jusqu'à présent pas contrôlée lors de la création de l'entreprise, mais uniquement par des contrôles inopinés pendant la vie de l'entreprise. Le Gouvernement a remédié à cette insuffisance par un décret du 11 mars 2010. Désormais, tous les artisans, y compris les auto-entrepreneurs, souhaitant créer leur activité, doivent, au préalable, attester de leur qualification. En outre, les auto-entrepreneurs sont astreints aux mêmes règles d'assurance professionnelle que les autres entrepreneurs et doivent donc souscrire une assurance de responsabilité civile et une assurance spécifique, selon les modalités prévues pour l'activité qu'ils exercent.
