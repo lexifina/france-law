@@ -528,7 +528,7 @@ Montpellier
 
 |
 
-Lunel, Montpellier (La Paillade).
+Lodève, Lunel, Montpellier (La Paillade).
 
 |
 
