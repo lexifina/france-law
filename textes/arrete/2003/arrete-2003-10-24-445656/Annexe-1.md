@@ -1292,11 +1292,21 @@ Pinus nigra Arn. ssp clusiana Clem.
 
 |
 
-PCL901-Région méditerranéenne.
+PCL901-Cévennes-Grands Causses. |
+
+PCL901
 
 |
 
-PCL901
+|
+
+|
+
+PCL902-Pyrénées-Orientales-Corbières.
+
+|
+
+PCL902
 
 |
 
@@ -2427,3 +2437,7 @@ TPL901-Nord-Est et montagnes.
 TPL901
 
 |
+
+NOTA :
+
+A l'article 1er de l'arrêté du 16 novembre 2010 modifiant l'arrêté du 24 octobre 2003, au lieu de "Pinus nigra Arn. ssp nigricans Host" lire "Pinus nigra Arn. ssp clusiana Clem" : la région de provenance "PCL-901, région méditerranéenne" est supprimée".
