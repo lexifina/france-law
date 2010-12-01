@@ -2,9 +2,7 @@
 
 CORPS DES INFIRMIERS
 
-ÉCHELONS
-
-Infirmiers de classe normale
+GRADES ET ÉCHELONS
 
 |
 
@@ -12,21 +10,17 @@ INDICES BRUTS
 
 |
 
-ÉCHELONS
+|
 
-Infirmiers de classe supérieure
+A compter du 1er décembre 2010
 
 |
 
-INDICES BRUTS
+A compter du 1er janvier 2012
 
 |
 
-8e
-
-|
-
-568
+Classe supérieure
 
 |
 
@@ -34,11 +28,91 @@ INDICES BRUTS
 
 |
 
-7e
+7e échelon
 
 |
 
-519
+660
+
+|
+
+675
+
+|
+
+6e échelon
+
+|
+
+640
+
+|
+
+646
+
+|
+
+5e échelon
+
+|
+
+619
+
+|
+
+619
+
+|
+
+4e échelon
+
+|
+
+585
+
+|
+
+585
+
+|
+
+3e échelon
+
+|
+
+555
+
+|
+
+555
+
+|
+
+2e échelon
+
+|
+
+522
+
+|
+
+522
+
+|
+
+1er échelon
+
+|
+
+490
+
+|
+
+490
+
+|
+
+Classe normale
 
 |
 
@@ -46,98 +120,110 @@ INDICES BRUTS
 
 |
 
-6e
+9e échelon
 
 |
 
-480
+614
 
 |
 
-6e
+614
 
 |
 
-638
+8e échelon
 
 |
 
-5e
+572
 
 |
 
-443
+572
 
 |
 
-5e
+7e échelon
 
 |
 
-613
+525
 
 |
 
-4e
+525
 
 |
 
-407
+6e échelon
 
 |
 
-4e
+486
 
 |
 
-580
+486
 
 |
 
-3e
+5e échelon
 
 |
 
-372
+449
 
 |
 
-3e
+449
 
 |
 
-548
+4e échelon
 
 |
 
-2e
+416
 
 |
 
-346
+416
 
 |
 
-2e
+3e échelon
 
 |
 
-514
+375
 
 |
 
-1er
+375
 
 |
 
-322
+2e échelon
 
 |
 
-1er
+357
 
 |
 
-471
+357
+
+|
+
+1er échelon
+
+|
+
+350
+
+|
+
+350
 
 |
