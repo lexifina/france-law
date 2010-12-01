@@ -78,7 +78,7 @@ Technicien de recherche et formation de classe exceptionnelle.
 
 |
 
-Technicien supérieur territorial en chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -86,7 +86,7 @@ Technicien de recherche et formation de classe supérieure.
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -94,7 +94,7 @@ Technicien de recherche et formation de classe normale.
 
 |
 
-Technicien supérieur territorial.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -110,7 +110,7 @@ Technicien de l'éducation nationale de classe normale.
 
 |
 
-Contrôleur territorial de travaux.
+Technicien territorial.
 
 |
 
@@ -374,7 +374,7 @@ Chef technicien supérieur des services.
 
 |
 
-Technicien supérieur territorial chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -382,7 +382,7 @@ Technicien supérieur des services principal.
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -390,7 +390,7 @@ Technicien supérieur des services.
 
 |
 
-Technicien supérieur territorial.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -406,7 +406,7 @@ Technicien des établissements publics de l'enseignement technique agricole de c
 
 |
 
-Contrôleur territorial de travaux.
+Technicien territorial.
 
 |
 
@@ -648,7 +648,7 @@ Technicien supérieur en chef de l'équipement nommé chef de subdivision.
 
 |
 
-Technicien supérieur territorial chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -656,7 +656,7 @@ Technicien supérieur en chef de l'équipement.
 
 |
 
-Technicien supérieur territorial chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -664,7 +664,7 @@ Technicien supérieur principal de l'équipement nommé chef de subdivision, à 
 
 |
 
-Technicien supérieur territorial principal, 8e et 9e échelons provisoires.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -672,7 +672,7 @@ Technicien supérieur principal de l'équipement nommé chef de subdivision, 1er
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -680,7 +680,7 @@ Technicien supérieur principal de l'équipement.
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -688,7 +688,7 @@ Technicien supérieur de l'équipement.
 
 |
 
-Technicien supérieur territorial.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -696,7 +696,7 @@ Lieutenant de port de classe fonctionnelle.
 
 |
 
-Contrôleur territorial de travaux principal.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -704,7 +704,7 @@ Lieutenant de port de classe normale.
 
 |
 
-Contrôleur territorial de travaux.
+Technicien territorial.
 
 |
 
@@ -712,7 +712,7 @@ Contrôleur divisionnaire des travaux publics de l'Etat.
 
 |
 
-Contrôleur territorial des travaux en chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -728,7 +728,7 @@ Contrôleur des travaux publics de l'Etat.
 
 |
 
-Contrôleur territorial des travaux.
+Technicien territorial.
 
 |
 
@@ -1024,13 +1024,13 @@ Adjoint administratif de 2e classe.
 
 |
 
-Adjoint administratif territorial de 2e classe
+Adjoint administratif territorial de 2e classe.
 
 |
 
 IV. - Tableau de correspondance
 
-ministère de la culture et de la communication
+Ministère de la culture et de la communication
 
 GRADES DU CORPS D'ORIGINE
 
@@ -1150,7 +1150,7 @@ Technicien de recherche de classe normale.
 
 |
 
-Technicien supérieur territorial.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -1158,7 +1158,7 @@ Technicien de recherche de classe supérieure.
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -1166,7 +1166,7 @@ Technicien de recherche de classe exceptionnelle.
 
 |
 
-Technicien supérieur territorial en chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -1472,7 +1472,7 @@ Technicien sanitaire en chef.
 
 |
 
-Technicien supérieur territorial en chef.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -1480,7 +1480,7 @@ Technicien sanitaire principal.
 
 |
 
-Technicien supérieur territorial principal.
+Technicien territorial principal de 1re classe.
 
 |
 
@@ -1488,7 +1488,7 @@ Technicien sanitaire.
 
 |
 
-Technicien supérieur territorial.
+Technicien territorial principal de 2e classe.
 
 |
 
@@ -1824,6 +1824,6 @@ Adjoint administratif de 2e classe.
 
 |
 
-Adjoint administratif territorial de 2e classe
+Adjoint administratif territorial de 2e classe.
 
 |
