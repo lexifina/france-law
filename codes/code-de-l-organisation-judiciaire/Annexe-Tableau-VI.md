@@ -1,6 +1,8 @@
 # Article Annexe Tableau VI
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques (annexe de l'article D. 211-6-1)
+Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques
+
+(annexe de l'article D. 211-6-1)
 
 SIÈGE
 
@@ -10,38 +12,86 @@ RESSORT
 
 |
 
-Bordeaux |
+Bordeaux.
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
+|
 
-Lille |
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
-Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |
+|
 
-Lyon |
+Lille.
 
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. |
+|
 
-Marseille |
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
+|
 
-Nanterre |
+Lyon.
 
-Ressort de la cour d'appel de Versailles. |
+|
 
-Nancy |
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. |
+|
 
-Paris |
+Marseille.
 
-Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre. |
+|
 
-Rennes |
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
-Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. |
+|
 
-Fort-de-France |
+Nanterre.
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France. |
+|
+
+Ressort de la cour d'appel de Versailles.
+
+|
+
+Nancy.
+
+|
+
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
+
+|
+
+Paris.
+
+|
+
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+
+|
+
+Rennes.
+
+|
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
+
+|
+
+Strasbourg.
+
+|
+
+Ressort de la cour d'appel de Colmar.
+
+|
+
+Fort-de-France.
+
+|
+
+Ressort des cours d'appel de Basse-Terre et Fort-de-France.
+
+|
+
+NOTA :
+
+Conformément au décret n° 2010-1369 du 12 novembre 2010, article 3, le tribunal de grande instance de Nancy demeure compétent pour statuer sur les procédures du ressort de la cour d'appel de Colmar introduites antérieurement à la date d'entrée en vigueur dudit décret.
