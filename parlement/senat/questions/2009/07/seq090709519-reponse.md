@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709519
+
+- Question : [SEQ090709519](seq090709519.md) — Conditions d'expression des élus de la majorité et de l'opposition dans le bulletin municipal d'information des communes de 3 500 habitants et plus
+
+## Réponse
+
+*Intérieur, JO du 2010-12-02, page 3165*
+
+Les bulletins d'information diffusés par les collectivités territoriales ont pour objet, de façon générale, de rendre compte aux administrés des actions entreprises par l'exécutif et la majorité de l'assemblée délibérante qui ont toute possibilité de s'exprimer dans les publications dont ils ont en principe le contrôle. Afin d'assurer aux administrés une information pluraliste, la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité a introduit dans le code général des collectivités territoriales, par son article 9, des dispositions prévoyant qu'un espace d'expression est réservé, dans les bulletins d'information générale diffusés par la commune, « aux conseillers n'appartenant pas à la majorité municipale », alors que, dans les bulletins diffusés par le département et la région, un espace est réservé à l'expression « des groupes d'élus ». Ainsi, la notion de « groupes d'élus », qui englobe les élus de la majorité comme ceux de l'opposition, n'a pas été adoptée par le législateur en ce qui concerne les bulletins municipaux. Il en résulte, en application des dispositions de l'article L. 2121-27-1 du code général des collectivités territoriales issu de cette loi, que le règlement intérieur du conseil municipal doit définir l'espace d'expression consacré aux seuls élus minoritaires au sein du conseil. Certains tribunaux administratifs ont à cet égard fait une interprétation rigoureuse de la loi. Pour éviter les contentieux, le directeur de publication doit donc veiller à ce que la tribune politique dont les conseillers municipaux minoritaires doivent disposer apparaisse comme telle.
