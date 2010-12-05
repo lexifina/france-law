@@ -12,7 +12,7 @@ Article 1er
 
 Conditions générales d'homologation
 
-En application des dispositions des articles R. 119-5-II (b) et R. 119-8 du code de la voirie routière prévoyant l'obligation d'utiliser sur les voies du domaine public routier des équipements routiers homologués selon une procédure d'essais et de contrôle fixée par cahier des charges, les modalités d'homologation spécifiques aux dispositifs de contrôle-sanction pour les franchissements de feux de circulation permanents R. 11 et R. 14 définis à l'article 109-3 de la sixième partie du livre I de l'instruction interministérielle sur la signalisation routière sont définies dans le présent cahier des charges. Les feux définis ci-dessus sont dénommés « feux rouges » dans le présent cahier des charges.
+En application des dispositions des articles R. 119-5-II (b) et R. 119-8 du code de la voirie routière prévoyant l'obligation d'utiliser sur les voies du domaine public routier des équipements routiers homologués selon une procédure d'essais et de contrôle fixée par cahier des charges, les modalités d'homologation spécifiques aux dispositifs de contrôle-sanction pour les franchissements de feux de circulation permanents R. 11 et R. 14 définis à l'article 109-3 de la sixième partie du livre I de l'instruction interministérielle sur la signalisation routière sont définies dans le présent cahier des charges. Les feux définis ci-dessus sont dénommés " feux rouges " dans le présent cahier des charges.
 
 Article 2
 
@@ -22,7 +22,7 @@ Un dispositif de contrôle-sanction pour les franchissements de feux rouges, au 
 
 L'homologation porte sur l'ensemble du dispositif décrit ci-dessus.
 
-Le carrefour équipé d'un système de contrôle-sanction doit être conforme dans son ensemble à la réglementation en vigueur. Un système satisfaisant à la définition de cet article est désigné indifféremment par les appellations « dispositif » ou « système CSA FR ».
+Le carrefour équipé d'un système de contrôle-sanction doit être conforme dans son ensemble à la réglementation en vigueur. Un système satisfaisant à la définition de cet article est désigné indifféremment par les appellations " dispositif " ou " système CSA FR ".
 
 Article 3
 
@@ -38,21 +38,21 @@ Article 4
 
 Procédure d'homologation
 
-Les systèmes CSA FR soumis à homologation doivent satisfaire aux exigences dénommées « spécifications techniques générales et particulières » définies aux chapitres II et III du présent cahier des charges. La procédure d'homologation comprend les phases suivantes :
+Les systèmes CSA FR soumis à homologation doivent satisfaire aux exigences dénommées "spécifications techniques générales” et "spécifications techniques particulières” définies dans le présent cahier des charges.
 
-1. Essais de type initiaux réalisés par des laboratoires agréés.
+La procédure d'homologation comporte les phases successives suivantes :
 
-2. Instruction de la demande d'homologation par l'organisme certificateur agréé désigné à l'article 12.
+1. Réalisation d'essais de type initiaux auprès d'un laboratoire agréé conformément aux dispositions de l'article 13.
 
-3. Audit initial de l'entreprise.
+2. Dépose d'un dossier de demande d'homologation auprès de l'organisme chargé de la procédure d'homologation désigné à l'article 12.
 
-4. Délivrance du certificat d'homologation de type par ledit organisme.
+3. Instruction de la demande d'homologation par l'organisme chargé de la procédure d'homologation.
 
-5. Une surveillance périodique comprenant un audit d'usine et des essais de surveillance.
+4. Audit initial de l'entreprise par un auditeur mandaté par l'organisme chargé de la procédure d'homologation.
 
-6. Le renouvellement du certificat d'homologation en cas de résultats conformes aux dispositions de l'article 9 du présent cahier des charges.
+5. Délivrance du certificat d'homologation de type par le ministre chargé des transports.
 
-Ces différentes phases sont détaillées ci-après.
+6. Surveillance périodique et contrôle périodique.
 
 Article 5
 
@@ -62,7 +62,7 @@ Essais de type initiaux
 
 5.2. Lorsque les mêmes essais et vérifications ont été effectués dans un Etat membre de l'Union européenne par un laboratoire présentant les garanties définies ci-dessous à l'article 13, le candidat fournit les procès-verbaux des essais et vérifications effectués.
 
-5.3. Dans le cadre de la procédure dite de « reconnaissance mutuelle », un candidat établi dans un autre Etat membre de l'Union européenne peut également soumettre à l'homologation un matériel, répondant aux définitions de l'article 2 et de l'article 3 du cahier des charges, dont les caractéristiques et les essais de qualification peuvent différer de ceux fixés aux chapitres II à IV.
+5.3. Dans le cadre de la procédure dite de " reconnaissance mutuelle ", un candidat établi dans un autre Etat membre de l'Union européenne peut également soumettre à l'homologation un matériel, répondant aux définitions de l'article 2 et de l'article 3 du cahier des charges, dont les caractéristiques et les essais de qualification peuvent différer de ceux fixés aux chapitres II à IV.
 
 Le candidat fournira à cet effet à l'organisme désigné à l'article 12 un dossier composé comme suit :
 
@@ -86,7 +86,7 @@ Article 6
 
 Demande d'homologation
 
-La demande d'homologation est adressée par le fabricant ou l'importateur en trois exemplaires au ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer, SETRA/CSTR, 46, avenue Aristide-Briand, BP 100, 92225 Bagneux Cedex.
+La demande d'homologation est adressée par le fabricant ou l'importateur en trois exemplaires à l'organisme chargé de la procédure d'homologation désigné à l'article 12.
 
 Pour un fabricant étranger non établi dans l'Union européenne, la demande d'homologation n'est admise que si le fabricant peut faire la preuve qu'il dispose d'un représentant établi dans un Etat membre de l'Union européenne. Dans ce cas, la demande d'homologation peut être présentée par ce représentant.
 
@@ -164,9 +164,9 @@ La marque d'homologation et la marque d'attestation d'équivalence sont définie
 
 Article 12
 
-Organisme certificateur
+Organisme chargé de la procédure d'homologation
 
-Le service d'études techniques des routes et autoroutes (SETRA) du ministère de l'équipement, des transports, de l'amémagement du territoire, du tourisme et de la mer est agréé organisme certificateur chargé de l'homologation des dispositifs de contrôle-sanction pour les franchissements de feux rouges en application de l'article R. 119-5-IV du code de la voirie routière.
+Le Laboratoire national de métrologie et d'essais (LNE), 1, rue Gaston-Boissier, 75724 Paris Cedex 15, est agréé organisme chargé de la procédure d'homologation des équipements de constatation automatisée du franchissement de feux rouges de signalisation routière en application de l'article R. 119-5-IV du code de la voirie routière.
 
 Article 13
 
@@ -276,7 +276,7 @@ Protection contre le vandalisme
 
 L'unité logique devra être munie d'une enveloppe résistant aux balles de 9 mm, ayant une porte à ouverture sécurisée (badge, code physique ou ouverture électronique à télécommande...), ou un accès à crinoline verrouillable. Une alerte sera générée et enregistrée en local et transmise à distance au centre de supervision et de paramétrage du système CSA FR à chaque ouverture de porte.
 
-L'enveloppe devra également être munie de vitre(s) ou de revêtement en polycarbonate blindé(e)(s), d'échange ou de nettoyage facile en cas de bris ou de « tagage ».
+L'enveloppe devra également être munie de vitre(s) ou de revêtement en polycarbonate blindé(e)(s), d'échange ou de nettoyage facile en cas de bris ou de " tagage ".
 
 Le fabricant joint à son dossier les résultats des tests effectués (tests privés ou équivalence d'essais étrangers).
 
@@ -288,9 +288,7 @@ Les dispositif de contrôle-sanction devra être conçu pour faciliter et rédui
 
 Article 24
 
-Langage de commande
-
-Le langage de commande est le langage de commande routier (LCR). Les spécifications requises pour le dispositif CSA FR sont fournies à l'annexe VIII du présent cahier des charges.
+(Supprimé)
 
 Chapitre III
 
@@ -338,7 +336,7 @@ du contrôleur de carrefour et des signaux
 
 1. L'état du feu, c'est-à-dire la couleur du signal que le feu affiche à un instant donné, doit être obtenu par interprétation des signaux de sortie du contrôleur de carrefour ou de l'état des signaux lumineux, sans dialogue d'aucune sorte avec le contrôleur et sans altérer d'aucune manière les caractéristiques photométriques, colorimétriques et électriques des signaux lumineux.
 
-2. Il résulte de l'alinéa précédent que le contrôleur de carrefour doit rester totalement indépendant du système CSA FR. La seule exception à cette règle est la connexion uni-directionnelle dont le système CSA FR doit éventuellement disposer pour connaître l'état du feu. Le fonctionnement du contrôleur de carrefour ne doit être perturbé d'aucune manière par la présence du système CSA FR. L'expression « non perturbé » signifie que le contrôleur doit conserver, sans aucune modification ni adaptation, l'ensemble des fonctionnalités pour lesquelles il a été conçu, sans aucune altération de son niveau de performance.
+2. Il résulte de l'alinéa précédent que le contrôleur de carrefour doit rester totalement indépendant du système CSA FR. La seule exception à cette règle est la connexion uni-directionnelle dont le système CSA FR doit éventuellement disposer pour connaître l'état du feu. Le fonctionnement du contrôleur de carrefour ne doit être perturbé d'aucune manière par la présence du système CSA FR. L'expression " non perturbé " signifie que le contrôleur doit conserver, sans aucune modification ni adaptation, l'ensemble des fonctionnalités pour lesquelles il a été conçu, sans aucune altération de son niveau de performance.
 
 3. Les exigences des deux alinéas précédents sont valables quel que soit le mode de fonctionnement du système CSA FR (normal, dégradé, hors service).
 
@@ -418,15 +416,15 @@ Chacun des clichés constituant une séquence de prise de vue devra comporter en
 
 Les données incrustées ne devront pas altérer les clichés.
 
-BASE DE DONNÉES « PRISES DE VUES »
+BASE DE DONNÉES " PRISES DE VUES "
 
 Article 38
 
-Constitution de la base de données « prises de vues »
+Constitution de la base de données " prises de vues "
 
-1. Chaque prise de vue est automatiquement tracée en temps réel dans une base de données dite de « prises de vues » décrite dans les articles qui suivent. L'expression « en temps réel » signifie ici que la transmission des informations relatives à une séquence de clichés doit débuter dès la fin des prises de vue relatives à cette séquence.
+1. Chaque prise de vue est automatiquement tracée en temps réel dans une base de données dite de " prises de vues " décrite dans les articles qui suivent. L'expression " en temps réel " signifie ici que la transmission des informations relatives à une séquence de clichés doit débuter dès la fin des prises de vue relatives à cette séquence.
 
-2. Les articles du présent document relatifs à la base de données « prises de vues » s'appliquent indifféremment au cas d'une base de donnée construite in situ et périodiquement transférée et au cas d'une base de données construite dans un centre distant et dont les enregistrements sont transmis en temps réel ou différé.
+2. Les articles du présent document relatifs à la base de données " prises de vues " s'appliquent indifféremment au cas d'une base de donnée construite in situ et périodiquement transférée et au cas d'une base de données construite dans un centre distant et dont les enregistrements sont transmis en temps réel ou différé.
 
 Dans ces deux cas, le système CSA FR doit pouvoir assurer la transmission de ces données.
 
@@ -434,7 +432,7 @@ Article 39
 
 Enregistrements et champs
 
-1. Chaque cliché correspond à un enregistrement, au sens informatique du terme, de la base de données « prises de vues ».
+1. Chaque cliché correspond à un enregistrement, au sens informatique du terme, de la base de données " prises de vues ".
 
 2. Chaque enregistrement comporte au minimum les informations suivantes, chacune pouvant être décrite dans un ou plusieurs champs :
 
@@ -454,7 +452,7 @@ Enregistrements et champs
 
 - le numéro d'ordre du cliché dans la séquence.
 
-3. Les informations qui sont à la fois incrustées sur les photos comme indiqué à l'article 37, et inscrites dans la base de données « prises de vues », doivent être strictement identiques.
+3. Les informations qui sont à la fois incrustées sur les photos comme indiqué à l'article 37, et inscrites dans la base de données " prises de vues ", doivent être strictement identiques.
 
 4. Les photos et les fichiers devront être de formats standards et interprétables par la chaîne de traitement.
 
@@ -464,13 +462,13 @@ Article 40
 
 Cryptage
 
-Les clichés et les enregistrements de la base de données « prises de vues » doivent être signés puis chiffrés par le dispositif de contrôle dès la fin de la séquence de prise de vue, à l'exception de celles qui sont destinées à l'archivage in situ prévu à l'article 53. La signature doit être appliquée globalement à l'ensemble des données relatives à une infraction (cliché[s] et éventuellement fichier de données) pour assurer à la fois l'intégrité des données, la garantie de l'émetteur et le lien entre les données et les clichés. Les moyens cryptographiques devront être conformes aux « exigences et recommandations concernant le choix et le dimensionnement des mécanismes cryptographiques » de la direction centrale de la sécurité des systèmes d'information (DCSSI), service du Premier ministre.
+Les clichés et les enregistrements de la base de données " prises de vues " doivent être signés puis chiffrés par le dispositif de contrôle dès la fin de la séquence de prise de vue, à l'exception de celles qui sont destinées à l'archivage in situ prévu à l'article 53. La signature doit être appliquée globalement à l'ensemble des données relatives à une infraction (cliché[s] et éventuellement fichier de données) pour assurer à la fois l'intégrité des données, la garantie de l'émetteur et le lien entre les données et les clichés. Les moyens cryptographiques devront être conformes aux " exigences et recommandations concernant le choix et le dimensionnement des mécanismes cryptographiques " de la direction centrale de la sécurité des systèmes d'information (DCSSI), service du Premier ministre.
 
 Article 41
 
 Mesures de protection des données
 
-Toutes dispositions devront être prises par le fabricant pour que les données incrustées sur les clichés définies à l'article 37, ainsi que les données constituant l'enregistrement de la base de données « prises de vues », définie à l'article 38, ne puissent pas être détruites ou modifiées avant leur incrustation ou leur mise en forme dans l'enregistrement concerné.
+Toutes dispositions devront être prises par le fabricant pour que les données incrustées sur les clichés définies à l'article 37, ainsi que les données constituant l'enregistrement de la base de données " prises de vues ", définie à l'article 38, ne puissent pas être détruites ou modifiées avant leur incrustation ou leur mise en forme dans l'enregistrement concerné.
 
 Article 42
 
@@ -488,7 +486,7 @@ Fichier de paramétrage
 
 Le système devra être paramétrable in situ et à distance et disposer des dispositifs de communication permettant ce paramétrage.
 
-Le système doit conserver in situ un fichier dit « de paramétrage » qui contient, au minimum, les informations suivantes :
+Le système doit conserver in situ un fichier dit " de paramétrage " qui contient, au minimum, les informations suivantes :
 
 - l'identifiant de l'appareil ;
 
@@ -586,7 +584,7 @@ Le système doit être capable d'effectuer un autodiagnostic portant au minimum 
 
 Le système devra envoyer un message d'alerte dans le fichier de gestion des anomalies. Il devra par ailleurs conserver un historique des 100 derniers défauts.
 
-L'expression « sous-système interne » désigne l'ensemble des sous-systèmes constituant les dispositifs matériels et/ou logiciels propres au système et implantés in situ. Cette définition recouvre au minimum les sous-systèmes assurant les fonctions suivantes :
+L'expression " sous-système interne " désigne l'ensemble des sous-systèmes constituant les dispositifs matériels et/ou logiciels propres au système et implantés in situ. Cette définition recouvre au minimum les sous-systèmes assurant les fonctions suivantes :
 
 - détection ;
 
@@ -596,7 +594,7 @@ L'expression « sous-système interne » désigne l'ensemble des sous-systèmes 
 
 - incrustation sur les clichés ;
 
-- constitution d'un enregistrement de la base de données « prises de vues » ;
+- constitution d'un enregistrement de la base de données " prises de vues " ;
 
 - cryptage.
 
@@ -636,7 +634,7 @@ Article 54
 
 Visualisation et archivage in situ des images et des données
 
-Pour permettre la réalisation des tests et des actions de maintenance, le système devra comporter un dispositif permettant à des personnes habilitées de visualiser et enregistrer sur un équipement externe les images et données définies dans les chapitres « CLICHÉS » et « BASE DE DONNÉES "PRISES DE VUES » précédents.
+Pour permettre la réalisation des tests et des actions de maintenance, le système devra comporter un dispositif permettant à des personnes habilitées de visualiser et enregistrer sur un équipement externe les images et données définies dans les chapitres " CLICHÉS " et " BASE DE DONNÉES "PRISES DE VUES " précédents.
 
 Article 55
 
@@ -684,8 +682,6 @@ Le contrôle de conformité des procès-verbaux d'essais de type et du dossier t
 
 - article 23 : maintenance ;
 
-- article 24 : langage de commande ;
-
 - annexe V : dossier technique du produit.
 
 Article 60
@@ -732,8 +728,6 @@ Les essais de laboratoire portent sur les caractéristiques suivantes :
 
 - tenue climatique dans les conditions définies à l'article 21 ;
 
-- langage de commande défini à l'article 24 ;
-
 - contrôle du bon fonctionnement des dispositifs de sécurité dans les conditions définies à l'article 41 et à l'article 42 ;
 
 - fichier de paramétrage défini à l'article 43 ;
@@ -750,7 +744,7 @@ Article 62
 
 Définition du site protégé
 
-Au sens du présent cahier des charges, l'expression « site protégé » désigne un site de test protégé de la circulation générale sur lequel circulent des véhicules de test selon des scénarios prédéfinis.
+Au sens du présent cahier des charges, l'expression " site protégé " désigne un site de test protégé de la circulation générale sur lequel circulent des véhicules de test selon des scénarios prédéfinis.
 
 Article 63
 
@@ -766,7 +760,7 @@ Les essais en site protégé ont pour but de vérifier la conformité du systèm
 
 - article 37 : données à incruster sur les clichés ;
 
-- article 38 : constitution de la base de données « prises de vues » ;
+- article 38 : constitution de la base de données " prises de vues " ;
 
 - article 39 : enregistrements et champs.
 
@@ -800,7 +794,7 @@ Les positions longitudinale et latérale de l'appareil de prise de vue ainsi que
 
 Le sous-système de détection sera installé par le demandeur, ou par le laboratoire sur les instructions de celui-ci.
 
-Le demandeur aura toute latitude pour procéder aux réglages et paramétrages qu'il juge utiles. Au terme de ces réglages et paramétrages il notifiera formellement (c'est-à-dire par écrit) au laboratoire que le système est « apte à être testé ». Les tests seront alors réalisés hors de la présence du demandeur.
+Le demandeur aura toute latitude pour procéder aux réglages et paramétrages qu'il juge utiles. Au terme de ces réglages et paramétrages il notifiera formellement (c'est-à-dire par écrit) au laboratoire que le système est " apte à être testé ". Les tests seront alors réalisés hors de la présence du demandeur.
 
 Article 66
 
@@ -876,9 +870,9 @@ Audit initial
 
 Le demandeur/titulaire doit mettre en place des dispositions minimales en matière d'assurance qualité afin d'assurer une production d'un niveau de qualité constant.
 
-L'instruction de la demande comporte une visite du ou des sites de fabrication du ou des produits faisant l'objet de la demande. Cette visite, conduite par un auditeur désigné par le service instructeur, a pour objet de s'assurer que les dispositions définies et mises en oeuvre par le demandeur sur le ou les sites de fabrication répondent aux exigences de qualité conformément à l'une des deux options suivantes (option A ou option B) choisie par le demandeur/titulaire :
+L'instruction de la demande comporte une visite du ou des sites de fabrication du ou des produits faisant l'objet de la demande. Cette visite, conduite par un auditeur désigné par l'organisme chargé de la procédure d'homologation, a pour objet de s'assurer que les dispositions définies et mises en oeuvre par le demandeur sur le ou les sites de fabrication répondent aux exigences de qualité conformément à l'une des deux options suivantes (option A ou option B) choisie par le demandeur/titulaire :
 
-1. Option A ou « Maîtrise de la qualité »
+1. Option A ou " Maîtrise de la qualité "
 
 Cette option repose sur la mise en place par le demandeur/titulaire d'un ensemble de dispositions lui permettant de maîtriser en continu la conformité au présent cahier des charges.
 
@@ -944,13 +938,13 @@ Analyse des données.
 
 Action corrective et préventive.
 
-2. Option B ou « Management de la qualité »
+2. Option B ou " Management de la qualité "
 
-Cette option repose sur la certification de la conformité du système qualité à l'une des normes de modèle d'assurance qualité NF EN ISO 9001 ou 9002 (août 1994) ou NF EN ISO 9001 de décembre 2000.
+Cette option repose sur la certification de la conformité du système qualité à la norme NF EN ISO 9001 version 2008.
 
-Dans ce cadre, tout demandeur/titulaire disposant à la date de l'audit, pour les champs et périmètre concernés, d'une certification de son système d'assurance qualité délivrée par un organisme certificateur de système accrédité selon la norme NF EN 45012 est considéré comme satisfaisant aux exigences de l'option A (maîtrise de la qualité).
+Dans ce cadre, tout demandeur/titulaire disposant à la date de l'audit, pour les champs et périmètre concernés, d'une certification de son système d'assurance de la qualité délivrée par un organisme certificateur de système accrédité selon la norme NF EN 17021 est considéré comme satisfaisant aux exigences de l'option A (maîtrise de la qualité).
 
-Pour que cette option soit retenue, l'auditeur doit s'assurer de la validité du certificat selon les critères mentionnés ci-dessus. Il consulte le dernier rapport d'audit « Qualité », la liste des procédures de contrôle, de leur éventuelle mise en conformité et s'assure de la mise en place des actions préventives et correctives.
+Pour que cette option soit retenue, l'auditeur doit s'assurer de la validité du certificat selon les critères mentionnés ci-dessus. Il consulte le dernier rapport d'audit " Qualité ", la liste des procédures de contrôle, de leur éventuelle mise en conformité et s'assure de la mise en place des actions préventives et correctives.
 
 De plus, outre l'examen des exigences du système qualité du fabricant, l'auditeur procédera à des vérifications des enregistrements relatifs aux essais et contrôles des produits.
 
@@ -962,39 +956,29 @@ Le rapport de visite, établi par l'auditeur, est adressé au demandeur sous un 
 
 Le demandeur retourne le rapport signé à l'auditeur sous un délai de quinze jours.
 
-Ce rapport est ensuite adressé à l'organisme certificateur.
+Ce rapport est ensuite adressé à l'organisme chargé de la procédure d'homologation.
 
 Article 74
 
 Surveillance périodique. - Audit périodique
 
-Outre l'audit initial permettant de vérifier avant l'admission l'existence et l'efficacité du système « qualité », du contrôle « produit » mis en place par le fabricant et de son aptitude à maîtriser les procédures d'essais qui sont de sa responsabilité, il est procédé à des visites d'inspection périodiques ayant pour objet de vérifier que ces dispositions sont toujours maintenues.
+Outre l'audit initial permettant de vérifier avant l'homologation l'existence et l'efficacité du système "qualité”, du contrôle "produit” mis en place par le fabricant et de son aptitude à maîtriser les procédures d'essais qui sont de sa responsabilité, il est procédé à des visites d'inspection périodiques ayant pour objet de vérifier que ces dispositions sont toujours maintenues.
 
 La fréquence en est définie ci-dessous.
 
-L'examen du système qualité est effectué selon les modalités décrites à l'article 5.3 (option A ou B). En cas d'option B, l'auditeur procède de plus à des vérifications des enregistrements relatifs aux essais et contrôles des produits.
+L'examen du système qualité est effectué selon les modalités décrites à l'article 73 (option A ou B). En cas d'option B, l'auditeur procède de plus à des vérifications des enregistrements relatifs aux essais et contrôles des produits.
 
 Le rapport de visite, établi par l'auditeur, est adressé au demandeur sous un délai d'un mois après la visite d'audit pour observations éventuelles et signature.
 
 Le demandeur retourne le rapport signé à l'auditeur sous un délai de quinze jours.
 
-Ce rapport est ensuite adressé à l'organisme certificateur.
+Ce rapport est ensuite adressé à l'organisme chargé de la procédure d'homologation.
 
 Fréquence des visites d'audit périodique :
 
-La fréquence normale est d'une visite par an. Elle peut être allégée dans les cas suivants :
+La fréquence normale des inspections est d'une visite par an mais peut être allégée en cas d'absence de non-conformités ou renforcée en cas de non-conformités.
 
-- le titulaire présente régulièrement des résultats conformes depuis plus de trois ans ;
-
-- pour les sites de fabrication où ne sont effectuées que des opérations de finitions à partir de produits semi-finis fabriqués par une société déjà homologuée ;
-
-- le titulaire ou son représentant dispose d'un stock de produits permettant le contrôle de conformité de ces produits.
-
-L'allégement de la surveillance consiste alors à augmenter à trois ans le délai entre les visites d'audit.
-
-En cas de problèmes constatés, notamment lors des vérifications primitives et périodiques, un renforcement de la surveillance peut être déclenché à tout moment par le service instructeur. Il consiste alors à diminuer l'espace entre les visites.
-
-Le renforcement de la surveillance est maintenu tant que les causes la motivant n'ont pas disparu.
+En cas de problèmes constatés, notamment lors des vérifications primitives et périodiques, un renforcement de la surveillance peut être déclenché à tout moment par l'organisme chargé de la procédure d'homologation. Le renforcement de la surveillance est maintenu tant que les causes la motivant n'ont pas disparu.
 
 Article 75
 
@@ -1034,7 +1018,9 @@ Article 77
 
 Vérifications périodiques
 
-Les vérifications périodiques sont effectuées annuellement à l'initiative de l'organisme certificateur, par des personnes habilitées, avec le même protocole de test que les vérifications primitives. Lorsque la demande est effectuée par le gestionnaire, l'organisme certificateur se réserve le droit de juger de la pertinence de cette demande.
+Les vérifications périodiques sont effectuées in situ et/ou à distance annuellement à l'initiative de l'organisme chargé de la procédure d'homologation, sur la base d'un protocole d'essais, par les personnes qu'il habilite pour vérifier le bon fonctionnement du système CSA FR au regard des exigences du présent cahier des charges d'homologation.
+
+L'organisme chargé de la procédure d'homologation se réserve la possibilité de compléter ou de modifier le protocole d'essais des vérifications périodiques afin de s'assurer du bon fonctionnement du système CSA FR.
 
 Article 78
 
@@ -1045,6 +1031,10 @@ En fonction des résultats des vérifications primitives et périodiques, le ser
 A N N E X E I
 
 GLOSSAIRE
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 201 du 29/08/2004 texte numéro 20
 
 A N N E X E I I
 
@@ -1138,7 +1128,7 @@ Le ou les signataires s'engagent :
 
 A , le
 
-« Lu et approuvé »
+" Lu et approuvé "
 
 Le fabricant
 
@@ -1336,24 +1326,14 @@ Chaque chiffre ou lettre doit figurer dans un cadre et avoir une hauteur minimal
 
 Marquage type :
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 201 du 29/08/2004 texte numéro 20
+
 2. Marque d'attestation d'équivalence :
 
 Ajouter AE devant le numéro d'homologation.
 
-A N N E X E V I I I
+A N N E X E V I I I (Supprimé).
 
-LANGAGE DE COMMANDE-CONTRÔLE
-
-Introduction
-
-L'utilisation stricte et complète du LCR permet une interopérabilité totale entre les équipements de terrain, les équipements centraux, les équipements mobiles ou de test ainsi qu'une interchangeabilité totale (plug and play) de tous les équipements de terrain, quel que soit leur constructeur.
-
-Elle permet également à un seul et même outil central de gérer et de superviser de façon unique, sur un canal de transmission commun, des équipements de terrain différents, ayant une finalité et des fonctionnalités différentes.
-
-Le présent document précise les conditions et les limites d'utilisation du LCR appliqué aux dispositifs de contrôle-sanction pour les franchissements de feux rouges avec en particulier la liste des commandes et paramètres applicables.
-
-Il constitue en cela le complément de la norme NF P 99-340, qui définit le langage de commande routier (LCR) destiné à gérer l'ensemble des équipements d'exploitation et de recueil de données routières.
-
-Toutes les fonctions nécessaires à la récupération des données, à la supervision, au pilotage, à la configuration ou aux paramétrages des équipements de terrain, sont donc exprimées dans ce document sous forme de commandes, paramètres et arguments.
-
-Ce document est disponible sur demande au SETRA (coordonnées indiquées à l'article 6 du présent cahier des charges).
+LANGAGE DE COMMANDE-CONTRÔLE (Supprimé).
