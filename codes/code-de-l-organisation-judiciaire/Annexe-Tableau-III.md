@@ -48,11 +48,11 @@ Aubagne.
 
 |
 
-Tarascon
+Tarascon |
+
+Arles
 
 |
-
-Arles |
 
 Var
 
@@ -133,6 +133,20 @@ Le Mans
 |
 
 Allonnes.
+
+|
+
+Cour d'appel de Bastia
+
+Corse-du-Sud
+
+|
+
+Ajaccio
+
+|
+
+Porto-Vecchio.
 
 |
 
@@ -458,7 +472,7 @@ Bourg-en-Bresse
 
 |
 
-Bourg-en-Bresse
+Bourg-en-Bresse.
 
 |
 
