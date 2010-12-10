@@ -158,6 +158,24 @@ Article 1er.
 
 2. Décisions administratives individuelles prises par le ministre de l'éducation nationale, de la recherche et de la technologie
 
+Décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en application de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
+
+|
+
+Autorisation d'opération spatiale.
+
+|
+
+|
+
+|
+
+Suspension ou retrait d'autorisation d'opération spatiale.
+
+|
+
+|
+
 ENSEIGNEMENT SCOLAIRE
 
 Décret n° 67-138 du 22 février 1967 modifié portant institution du diplôme d'Etat d'éducateur spécialisé
@@ -282,7 +300,7 @@ Décisions de règlement amiable des demandes en indemnités mettant en cause la
 
 |
 
-Code de l'éducation
+Code de l'éducation.
 
 1
 
@@ -294,7 +312,7 @@ Délivrance du titre de "un des meilleurs ouvriers de France" honoris causa.
 
 |
 
-Article R.* 338-10.
+Article R. * 338-10.
 
 |
 
@@ -648,8 +666,6 @@ Décisions à caractère financier prises pour l'exécution des décisions de ju
 
 |
 
-3
-
 |
 
 Agrément pris par le ministre chargé de la recherche en vue de l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement.
@@ -659,3 +675,9 @@ Agrément pris par le ministre chargé de la recherche en vue de l'utilisation c
 Article R. 532-1 du code de l'environnement
 
 |
+
+NOTA :
+
+Décret n° 2009-643 du 9 juin 2009 art. 24 : Les présentes dispositions entrent en vigueur un an après la publication de l'arrêté édictant la réglementation technique mentionnée au premier alinéa de l'article 4 de la loi du 3 juin 2008 susvisée et, au plus tard, dix-huit mois après la publication du présent décret
+
+.
