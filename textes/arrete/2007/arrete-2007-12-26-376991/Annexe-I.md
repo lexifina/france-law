@@ -72,7 +72,7 @@ Chef du bureau des affaires financières et juridiques.
 
 |
 
-Chef du bureau du statut et du dialogue social.
+Chef du bureau du statut, du management et du dialogue social.
 
 |
 
@@ -93,6 +93,16 @@ Adjoint du directeur du groupement d'hélicoptères.
 |
 
 Adjoint administratif du chef de la base avions de la sécurité civile.
+
+|
+
+30
+
+|
+
+|
+
+Chef du bureau de l'alerte, de la planification et de la préparation aux crises.
 
 |
 
@@ -124,7 +134,7 @@ Chef de cabinet.
 
 |
 
-Direction de l'évaluation de la performance et des affaires financières et immobilières.
+Direction de l'évaluation de la performance et des affaires financières et immobilières. (2)
 
 |
 
@@ -132,7 +142,7 @@ Chef du bureau du budget et du fonctionnement.
 
 Chef du bureau de la qualité juridique et comptable.
 
-Chef du bureau des ressources et de la politique d'achat.
+Chef du centre de service Chorus pour l'administration générale.
 
 Adjoint au chef du bureau de la synthèse budgétaire et financière.
 
@@ -332,7 +342,7 @@ Chef du bureau de l'accompagnement social.
 
 |
 
-Chef du bureau du personnel et des incorporations.
+Chef du département de la coordination des établissements.
 
 |
 
@@ -362,7 +372,7 @@ Chef du bureau de la gestion et de la formation des personnels.
 
 |
 
-Chef du bureau du recrutement.
+Chef de la division de l'organisation des concours et examens professionnels.
 
 |
 
@@ -382,7 +392,9 @@ Chef de cabinet du directeur des ressources et des compétences de la police nat
 
 |
 
-Chef de la mission CHORUS de la police nationale. |
+Chef de la mission CHORUS de la police nationale.
+
+|
 
 30
 
@@ -390,7 +402,7 @@ Chef de la mission CHORUS de la police nationale. |
 
 |
 
-Chef du bureau des affaires logistiques et immobilières.
+Chef de la division de la programmation.
 
 |
 
@@ -400,7 +412,7 @@ Chef du bureau des affaires logistiques et immobilières.
 
 |
 
-Directeur de l'Institut national de formation des personnels administratifs, techniques et scientifiques.
+Chef de la division de la formation des personnels administratifs, techniques et scientifiques.
 
 |
 
@@ -410,53 +422,9 @@ Directeur de l'Institut national de formation des personnels administratifs, tec
 
 |
 
-Chef du bureau des politiques sociales.
-
-|
+Chef du bureau des politiques sociales. |
 
 30 |
-
-Préfecture de Paris.
-
-|
-
-Chef du bureau des affaires juridiques.
-
-|
-
-50
-
-|
-
-|
-
-Chef du bureau de la politique sociale du logement.
-
-|
-
-60
-
-|
-
-|
-
-Chef de la division des personnels et de la logistique.
-
-|
-
-50
-
-|
-
-|
-
-Chef du pôle action et réglementation économiques, veille et prospective.
-
-|
-
-30
-
-|
 
 Préfecture de police :
 
@@ -518,7 +486,9 @@ Service des affaires immobilières.
 
 |
 
-Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. |
+Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode.
+
+|
 
 50
 
@@ -736,4 +706,8 @@ Chef du département de l'asile à la frontière et de l'admission au séjour.
 
 NOTA :
 
-(1) Arrêté du 8 juillet 2010 article 3 : Les présentes dispositions entreront en vigueur le 1er septembre 2010.
+Arrêté du 3 décembre 2010 article 4 : :
+
+(1) Les présentes dispositions entreront en vigueur le 1er janvier 2011.
+
+(2) Les présentes dispositions entreront en vigueur le 1er février 2011

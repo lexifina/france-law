@@ -12,9 +12,13 @@ Localisation de l'emploi
 
 |
 
-Nombre d'emplois |
+Nombre d'emplois
 
-Nombre de points NBI |
+|
+
+Nombre de points NBI
+
+|
 
 01 Ain
 
@@ -56,7 +60,7 @@ Nombre de points NBI |
 
 |
 
-3
+2
 
 |
 
@@ -320,7 +324,7 @@ Nombre de points NBI |
 
 |
 
-5
+4
 
 |
 
@@ -630,7 +634,7 @@ Nombre de points NBI |
 
 |
 
-3
+2
 
 |
 
@@ -846,7 +850,7 @@ Nombre de points NBI |
 
 |
 
-6
+5
 
 |
 
@@ -930,7 +934,7 @@ Nombre de points NBI |
 
 |
 
-7
+8
 
 |
 
@@ -1038,11 +1042,27 @@ Nombre de points NBI |
 
 |
 
+2 |
+
+60 |
+
+|
+
 2
 
 |
 
-60
+50
+
+|
+
+|
+
+1
+
+|
+
+30
 
 |
 
@@ -1050,7 +1070,7 @@ Nombre de points NBI |
 
 |
 
-8
+7
 
 |
 
@@ -1398,7 +1418,7 @@ Nombre de points NBI |
 
 |
 
-3
+4
 
 |
 
@@ -1446,7 +1466,7 @@ Nombre de points NBI |
 
 |
 
-2
+3
 
 |
 
