@@ -92,27 +92,11 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Houilles
-
-|
-
-MAPA × 100
-
-|
-
 Commandant du 43e bataillon de transmissions
 
 |
 
-MAPA × 30
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Cherbourg
-
-|
-
-MAPA × 1
+Sans limitation
 
 |
 
@@ -342,6 +326,12 @@ MAPA × 20
 
 |
 
+Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)
+
+|
+
+MAPA x 7 |
+
 Divers
 
 |
@@ -534,7 +524,7 @@ Sans limitation
 
 |
 
-Service industriel de l'aéronautique
+Service industriel de l'aéronautique (A)
 
 |
 
@@ -570,15 +560,21 @@ MAPA x 50
 
 |
 
-Divers
+|
+
+Directeur de l'atelier industriel de l'aéronautique de Bretagne
 
 |
 
-Commandants des bases aériennes et chefs des organismes administrés comme tels (9)
+MAPA x 50
 
 |
 
-MAPA x 0, 66
+Divers |
+
+Commandants des formations administratives et chefs des organismes administrés comme tels (9)
+
+|
 
 |
 
@@ -816,9 +812,9 @@ Sans limitation (5) (6) (7)
 
 (8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
-(9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction.
+(9) (B) Les chefs de groupements de soutien des bases de défense, commandants de formation administrative de l'état-major des armées, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
-Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.
+A l'exception des commandants des formations administratives et organismes administrés comme tels dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.
 
 (10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce "approvisionnement des armées en produits pétroliers".
 
@@ -827,3 +823,7 @@ Les commandants des formations administratives et organismes administrés comme 
 (12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.
 
 |
+
+NOTA :
+
+Arrêté du 6 décembre 2010 article 2 : (A) et (B) entrent en vigueur le 1er janvier 2011
