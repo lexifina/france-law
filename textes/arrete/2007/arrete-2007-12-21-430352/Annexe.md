@@ -477,31 +477,3 @@ Chefs d'équipe principaux d'exploitation et des travaux publics de l'Etat
 12
 
 |
-
-Corps des syndics des gens de mer
-
-Décret n° 2000-572 du 26 juin 2000 modifié
-
-Syndics des gens de mer de 1re classe
-
-|
-
-66
-
-|
-
-Syndics principaux des gens de mer de 2e classe
-
-|
-
-17
-
-|
-
-Syndics principaux des gens de mer de 1re classe
-
-|
-
-15
-
-|
