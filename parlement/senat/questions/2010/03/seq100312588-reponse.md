@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100312588
+
+- Question : [SEQ100312588](seq100312588.md) — Compensation financière pour les communes traversées par la LGV
+
+## Réponse
+
+*Transports, JO du 2010-12-16, page 3267*
+
+Les projets de nouvelles lignes ferroviaires à grande vitesse représentent des opportunités incontestables pour les territoires traversés, y compris lorsque ceux-ci sont éloignés des agglomérations dans lesquelles sont implantées les gares bénéficiant directement des lignes nouvelles. En effet, ces communes bénéficient notamment des retombées économiques liées aux emplois créés par les chantiers durant la période de construction. S'agissant du tronçon central Tours-Bordeaux de la ligne à grande vitesse Sud-Europe-Atlantique (LGV SEA), environ 60 000 emplois seront créés sur place pendant la durée du chantier et dynamiseront l'économie locale (hébergements, restauration, etc.). Par ailleurs, le tronçon central Tours-Bordeaux bénéficie d'un dispositif de fonds de solidarité territoriale à l'intention des communes traversées, doté d'une enveloppe de 30 M€. Ce dispositif permettra d'accompagner les territoires traversés en finançant des actions visant à améliorer l'insertion environnementale de la nouvelle infrastructure, en dehors de l'emprise ferroviaire et au-delà des obligations réglementaires qui s'imposent au maître d'ouvrage. La mise en valeur des territoires traversés, notamment en favorisant leur développement économique, est également privilégiée. Ce dispositif a été généralisé, le 24 octobre 2009, à l'ensemble des projets de lignes nouvelles à grande vitesse. Une circulaire du 27 septembre 2010 précise les modalités de mise en oeuvre de ce dispositif. Celles-ci feront l'objet, dans les meilleurs délais, d'une information complète, sous l'égide du préfet coordonnateur, à destination des élus locaux concernés, et particulièrement des maires des communes traversées par le projet de ligne nouvelle.
