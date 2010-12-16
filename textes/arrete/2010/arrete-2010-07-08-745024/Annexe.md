@@ -22,9 +22,7 @@ UE (2)
 
 NOM DE LA SUBSTANCE
 
-prioritaire (3)
-
-|
+prioritaire (3) |
 
 SUBSTANCE DANGEREUSE
 
@@ -306,9 +304,7 @@ UE (8)
 
 NOM DE LA SUBSTANCE
 
-prioritaire (9)
-
-|
+prioritaire (9) |
 
 SUBSTANCE DANGEREUSE
 
@@ -1009,6 +1005,28 @@ Trichlorobenzène.
 |
 
 Trichlorométhane (chloroforme).
+
+|
+
+|
+
+20 novembre 2001
+
+|
+
+33
+
+|
+
+1582-09-8
+
+|
+
+216-428-8
+
+|
+
+Trifluraline.
 
 |
 
