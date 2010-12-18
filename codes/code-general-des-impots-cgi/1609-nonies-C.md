@@ -1,6 +1,6 @@
 # Article 1609 nonies C
 
-I. - 1° Les communautés d'agglomération définies aux articles L. 5216-1 et L. 5216-2 du code général des collectivités territoriales ou issues de la transformation d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle conformément aux dispositions de l'article L. 5341-2 du code général des collectivités territoriales, les communautés urbaines soumises de plein droit ou après option aux dispositions du présent article sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
+I. - 1° Les communautés d'agglomération définies aux articles L. 5216-1 et L. 5216-2 du code général des collectivités territoriales ou issues de la transformation d'un syndicat d'agglomération nouvelle conformément aux dispositions de l'article L. 5341-2 du code général des collectivités territoriales, les communautés urbaines soumises de plein droit ou après option aux dispositions du présent article sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
 2° Les communautés de communes faisant application des dispositions fiscales prévues au III de l'article 1609 quinquies C sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit de cette taxe.
 
@@ -36,7 +36,7 @@ c. Lorsqu'un établissement public de coopération intercommunale faisant applic
 
 Pour le rattachement de toute nouvelle commune à une communauté d'agglomération issue de la transformation d'un syndicat d'agglomération nouvelle, les dispositions de l'article 1638 quater sont applicables.
 
-IV. Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du I du présent article et les communes membres une commission locale chargée d'évaluer les transferts de charges. Elle est composée de membres des conseils municipaux des communes concernées ; chaque conseil municipal dispose d'au moins un représentant.
+IV. Il est créé entre l'établissement public de coopération intercommunale soumis aux dispositions fiscales du I du présent article et les communes membres une commission locale chargée d'évaluer les transferts de charges. Cette commission est créée par l'organe délibérant de l'établissement public qui en détermine la composition à la majorité des deux tiers. Elle est composée de membres des conseils municipaux des communes concernées ; chaque conseil municipal dispose d'au moins un représentant.
 
 La commission élit son président et un vice-président parmi ses membres. Le président convoque la commission et détermine son ordre du jour ; il en préside les séances. En cas d'absence ou d'empêchement, il est remplacé par le vice-président.
 
@@ -94,7 +94,7 @@ Lorsque l'attribution de compensation est négative, la commune est tenue d'effe
 
 Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut être indexée.
 
-4° Lorsqu'il est fait application des dispositions du présent article à une communauté d'agglomération issue de la transformation d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle, l'attribution de compensation versée chaque année aux communes membres est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue l'année précédant celle de la première application de ces dispositions.
+4° Lorsqu'il est fait application des dispositions du présent article à une communauté d'agglomération issue de la transformation d'un syndicat d'agglomération nouvelle, l'attribution de compensation versée chaque année aux communes membres est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue l'année précédant celle de la première application de ces dispositions.
 
 Cette attribution est recalculée dans les conditions prévues au IV lors de chaque nouveau transfert de charges. Elle ne peut être indexée.
 
@@ -102,7 +102,7 @@ Cette attribution est recalculée dans les conditions prévues au IV lors de cha
 
 L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un établissement public de coopération intercommunale ne faisant pas application des dispositions du présent article est calculée conformément au 3°. Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de compétences, cette attribution de compensation est respectivement diminuée ou majorée du montant net des charges tranférées calculé dans les conditions définies au IV.
 
-L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue l'année de la fusion. Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de compétences, l'attribution de compensation est respectivement diminuée ou majorée du montant net des charges transférées calculé dans les conditions définies au IV.
+L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un syndicat d'agglomération nouvelle est égale à la dotation de coopération définie à l'article L. 5334-8 du code général des collectivités territoriales perçue l'année de la fusion. Lorsque la fusion s'accompagne d'un transfert ou d'une restitution de compétences, l'attribution de compensation est respectivement diminuée ou majorée du montant net des charges transférées calculé dans les conditions définies au IV.
 
 L'attribution de compensation versée chaque année aux communes membres qui étaient antérieurement membres d'un établissement public de coopération intercommunale sans fiscalité propre est calculée dans les conditions prévues au 2°.
 
