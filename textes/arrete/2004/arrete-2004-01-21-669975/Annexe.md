@@ -714,7 +714,7 @@ Secrétaires administratifs d'administration centrale
 
 |
 
-15,50
+16
 
 |
 
