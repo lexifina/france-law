@@ -1,0 +1,241 @@
+# Article Annexe
+
+DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES ÉTABLISSEMENTS ET SERVICES D'AIDE PAR LE TRAVAIL (ESAT)
+
+Programme 157-02
+
+RÉGIONS
+
+|
+
+MONTANTS ACTUALISÉS
+
+des dotations régionales limitatives
+
+(en euros)
+
+|
+
+ALSACE
+
+|
+
+37 055 710
+
+|
+
+AQUITAINE
+
+|
+
+69 391 764
+
+|
+
+AUVERGNE
+
+|
+
+34 571 407
+
+|
+
+BOURGOGNE
+
+|
+
+37 169 007
+
+|
+
+BRETAGNE
+
+|
+
+73 704 558
+
+|
+
+CENTRE
+
+|
+
+56 985 637
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+32 750 456
+
+|
+
+CORSE
+
+|
+
+5 118 545
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+29 173 427
+
+|
+
+ÎLE-DE-FRANCE
+
+|
+
+195 445 415
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+58 963 606
+
+|
+
+LIMOUSIN
+
+|
+
+22 336 440
+
+|
+
+LORRAINE
+
+|
+
+60 169 497
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+65 034 179
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+113 842 443
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+40 308 690
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+39 469 987
+
+|
+
+PAYS DE LOIRE
+
+|
+
+75 791 019
+
+|
+
+PICARDIE
+
+|
+
+49 604 492
+
+|
+
+POITOU-CHARENTES
+
+|
+
+41 665 844
+
+|
+
+PACA
+
+|
+
+87 074 230
+
+|
+
+RHÔNE-ALPES
+
+|
+
+127 169 011
+
+|
+
+GUADELOUPE
+
+|
+
+7 915 691
+
+|
+
+MARTINIQUE
+
+|
+
+7 143 752
+
+|
+
+GUYANE
+
+|
+
+2 393 632
+
+|
+
+RÉUNION
+
+|
+
+12 914 355
+
+|
+
+SAINT-PIERRE-ET-MIQUELON
+
+|
+
+137 206
+
+|
+
+FRANCE ENTIÈRE
+
+|
+
+1 383 300 000
+
+|
