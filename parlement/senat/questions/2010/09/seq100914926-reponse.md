@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100914926
+
+- Question : [SEQ100914926](seq100914926.md) — Organisation d'un ramassage scolaire
+
+## Réponse
+
+*Collectivités territoriales, JO du 2010-12-23, page 3307*
+
+L'organisation générale de la sécurité et de la surveillance dans les transports scolaires relève de l'autorité organisatrice, elle est tenue de prendre les mesures nécessaires pour assurer le bon fonctionnement du service public dont elle a la charge. Dans le cadre des transports scolaires, aucun accompagnateur n'est réglementairement imposé mais seulement préconisé, notamment pour les plus jeunes usagers par la circulaire interministérielle n° 94-071 du 23 mars 1995 relative à l'amélioration des transports scolaires et par le guide à l'usage des décideurs locaux et de leurs partenaires pour la sécurité dans les transports scolaires, élaboré dans le cadre du Conseil national des transports. C'est donc aux autorités organisatrices de transport de déterminer les conditions de surveillance des élèves transportés. Celles-ci doivent alors indiquer, dans la convention relative à l'exécution de services de transports scolaire, qu'elles signent avec les transporteurs, les responsabilités respectives de l'accompagnateur et du conducteur de véhicule affecté au service concerné, conformément aux dispositions de l'alinéa 6 de l'article R. 213-4 du code de l'éducation. En l'absence de contrats de travail, les personnels non salariés doivent être néanmoins astreints à des consignes écrites précisant leurs responsabilités et leurs missions. L'assurance obligatoire souscrite par le transporteur ne prenant en charge que les règlements des dommages mettant en cause son véhicule, il est fortement recommandé aux autorités organisatrices d'assurer leur responsabilité d'organisateur, notamment au regard des missions de service public effectuées par leurs accompagnateurs.
