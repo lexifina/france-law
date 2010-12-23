@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513487
+
+- Question : [SEQ100513487](seq100513487.md) — Coût de la communication d'un dossier intégral de permis de construire dans le cadre d'un contentieux
+
+## Réponse
+
+*Écologie, JO du 2010-12-23, page 3310*
+
+L'article R. 412-2 du code de justice administrative dispose que « lorsque les parties joignent des pièces à l'appui de leurs requêtes et mémoires, elles en établissent simultanément un inventaire détaillé. Sauf lorsque leur nombre, leur volume ou leurs caractéristiques y font obstacle, ces pièces sont accompagnées de copies en nombre égal à celui des autres parties augmenté de deux » .Conformément aux dispositions précitées, lorsque les parties produisent des pièces à l'appui de leur requête contentieuse, tel le dossier de demande de permis de construire, le coût de cette production est à la charge de la partie qui décide de transmettre ces pièces. Le juge administratif dispose également, en vertu de ses pouvoirs d'instruction, de la faculté d'ordonner aux parties de lui fournir, dans un délai déterminé, des explications ou tout document qui pourrait être utile à la solution du litige. Lorsque la production d'un document est effectuée à la demande de la juridiction administrative, le coût de la communication sera supporté par la partie à laquelle le juge administratif s'est adressé pour obtenir ce document, soit par la collectivité, soit par le requérant. Il est toutefois possible, pour la partie qui a dû supporter les coûts de reproduction du dossier de demande de permis de construire, d'invoquer ce coût dans sa demande présentée au titre des dispositions de l'article L. 761-1 du code de justice administrative, afin que cette somme soit mise à la charge de l'autre partie, dans l'hypothèse où cette dernière est la partie perdante et si le juge administratif décide qu'il y a lieu, au vu des justificatifs produits, d'accorder la somme demandée.
