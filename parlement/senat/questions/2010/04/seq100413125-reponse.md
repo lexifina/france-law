@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413125
+
+- Question : [SEQ100413125](seq100413125.md) — Indemnités et défraiements des membres d'ordres professionnels
+
+## Réponse
+
+*Travail, JO du 2010-12-23, page 3321*
+
+Le caractère bénévole des fonctions ordinales a été introduit au sein du code de la santé publique par la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires. Cette insertion est la conséquence directe de l'enquête menée par l'IGAS en 2007 au sein du conseil départemental de l'ordre des médecins de Paris. La loi du 21 juillet 2009 réalise ainsi deux recommandations figurant dans le rapport IGAS qui suivit cette enquête. Étaient mentionnées la nécessité d'affirmer le caractère non lucratif de la fonction ordinale et la nécessité d'introduire la possibilité d'une indemnisation dont les règles et modalités seraient fixées par voie réglementaire. Le décret n° 2010-451 du 3 mai 2010 relatif aux indemnités des membres élus des ordres des médecins, des chirurgiens-dentistes, des sages-femmes, des pharmaciens, des infirmiers, des masseurs-kinésithérapeutes et des pédicures-podologues distingue à cet effet la possibilité pour le conseil compétent d'attribuer une indemnité dite de fonction, accordée aux membres du bureau des conseils ordinaux, et une indemnité dite de participation, accordée aux autres conseillers pour les missions accomplies ponctuellement. Les modalités de répartition de ces deux indemnités sont fixées, dans les limites du plafond imposé par le décret, par le conseil compétent dans son règlement de trésorerie. Enfin la loi du 21 juillet 2009 a renforcé le contrôle de l'activité budgétaire des ordres en instaurant un contrôle de la gestion des conseils départementaux, régionaux, interrégionaux et centraux par le conseil national, ainsi que la certification annuelle des comptes du conseil national par un commissaire aux comptes.
