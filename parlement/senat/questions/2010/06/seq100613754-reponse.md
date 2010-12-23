@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613754
+
+- Question : [SEQ100613754](seq100613754.md) — Renouvellement des manuels scolaires
+
+## Réponse
+
+*Éducation, JO du 2010-12-23, page 3316*
+
+La réforme du lycée, qui entre en vigueur en classe de seconde dès cette rentrée, s'accompagne de la rénovation des programmes d'enseignement des différentes disciplines, pour prendre en compte la nouvelle organisation des enseignements et l'évolution des disciplines. Les programmes de la classe de seconde n'avaient fait l'objet d'aucun changement depuis la précédente réforme du lycée, il y a dix ans. Pour mettre en oeuvre les programmes, les enseignants peuvent s'appuyer sur les manuels scolaires mais aussi sur différentes ressources pédagogiques disponibles sur Éduscol, site pédagogique du ministère ainsi que sur les sites pédagogiques des académies. Lors de sa conférence de presse, le mardi 24 août, Luc Chatel, ministre de l'éducation nationale, porte-parole du Gouvernement, a tenu à rassurer les enseignants, les lycéens et leurs parents : les manuels scolaires étaient prêts et les professeurs avaient à leur disposition de nombreuses ressources numériques pour mettre en oeuvre les nouveaux programmes. Dès la rentrée, les professeurs et les élèves ont eu accès gratuitement, depuis tout ordinateur connecté à Internet, aux versions numériques des manuels. Au lycée, l'acquisition des manuels est du ressort des familles. De leur propre initiative, les régions ont mis en place des aides à l'achat des manuels scolaires, selon différentes modalités. De son côté l'État accompagne les familles, notamment grâce à : l'allocation de rentrée scolaire (306 € pour environ un million d'élèves de 15 à 17 ans) ; les bourses du second degré (15,6 % des élèves du second degré pour un montant moyen de 320 €) ; la prime spécifique à l'entrée en seconde (pour près de 70 000 élèves pour un montant de 217 €) ; les bourses au mérite (d'un montant de 800 € pour environ 72 000 lycéens).
