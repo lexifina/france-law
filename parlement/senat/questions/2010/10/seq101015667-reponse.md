@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015667
+
+- Question : [SEQ101015667](seq101015667.md) — Intégration des instituteurs dans le corps des professeurs des écoles
+
+## Réponse
+
+*Éducation, JO du 2010-12-23, page 3317*
+
+L'intégration des instituteurs dans le corps de professeurs des écoles s'est faite de 1990 à 1992, conformément au plan de revalorisation de la fonction enseignante et au protocole d'accord du 9 février 1990. À ce titre, 12 000 emplois par an d'instituteurs ont été transformés en emplois de professeurs des écoles, les intégrations se sont faites uniquement par la voie de la liste d'aptitude. Pour les années 1993 et 1994, le contingent des promotions a été fixé à 12 000 (9 500 par liste d'aptitude et 2 500 par premier concours interne). Depuis 1995, les contingents annuels de transformations d'emplois d'instituteurs en emplois de professeurs des écoles ont été les suivants : 14 619 en 1995 ; 14 641 en 1996 ; 14 851 en 1997 ; 14 850 en 1998. À compter de 1999, les possibilités d'intégration sont portées à 20 735. À partir de l'année 2008, ces possibilités ont été ajustées au plus près pour tenir compte de la diminution du nombre de candidatures reçues dans les inspections académiques. Il a ainsi été proposé, pour 2010, 450 emplois au titre des premiers concours internes, mais seuls 303 lauréats ont été nommés et 1 685 intégrations par liste d'aptitude ont été réalisées sur les 2 550 possibilités offertes. La diminution de l'attractivité de ces voies d'intégration se justifie par le fait, d'une part, que les instituteurs souhaitent conserver le droit de partir à la retraite dès 55 ans et que, d'autre part, ils souhaitent continuer à bénéficier du droit au logement qui leur est réservé. Au 1er septembre 2010, l'enseignement du premier degré public comptabilise un effectif de 356 877 agents, soit 10 446 instituteurs et 344 431 professeurs des écoles, toutes positions confondues.
