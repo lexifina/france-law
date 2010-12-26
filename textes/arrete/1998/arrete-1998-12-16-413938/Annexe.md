@@ -1236,8 +1236,6 @@ Le pédiatre transmet au service responsable de la conservation toutes informati
 
 En application de la réglementation en vigueur, la mère et l'enfant sont convoqués au moins six semaines après l'accouchement dans le cadre de la visite post-partum.
 
-Lors de cette visite, un prélèvement sanguin est pratiqué sur la mère en vue d'examens sérologiques.
-
 Un examen médical est réalisé chez l'enfant et un interrogatoire chez la mère portant sur les événements survenus depuis l'accouchement par un médecin.
 
 Celui-ci transmet au service responsable de la conservation toutes informations médicales susceptibles d'invalider l'utilisation thérapeutique du sang placentaire recueilli. Ces informations sont transmises par l'intermédiaire de la fiche technique de prélèvement (cf. infra II-2.7.4).
