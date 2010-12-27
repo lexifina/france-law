@@ -1,80 +1,72 @@
 # Article Annexe
 
-A N N E X E
-
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) en équipements et systèmes électroniques.
+Titre professionnel : électronicien de contrôle et maintenance (ancien intitulé : technicien [ne] en équipements et systèmes électroniques).
 
 Niveau : IV.
 
-Code NSF : 201 m.
+Code NSF : 255 r-électricité, électronique.
 
 Résumé du référentiel d'emploi
 
-La mission du (de la) technicien(ne) en équipements et systèmes électroniques est de faire fonctionner, sur site ou en laboratoire, des systèmes intégrant les technologies de l'électronique conformément à une spécification ou un cahier des charges.
+A partir d'un dossier technique, l'électronicien de contrôle et de maintenance vérifie ou rétablit le bon fonctionnement des équipements ou systèmes intégrant les technologies de l'électronique et de l'informatique. Il intervient chez le constructeur, le distributeur, l'installateur ou l'entreprise utilisatrice d'un système électronique lors des phases d'intégration, de production de mise en service après installation ainsi qu'en maintenance.
 
-Son activité s'exerce dans les domaines de l'électronique professionnelle et des automatismes.
+Cet emploi s'exerce en atelier, en plate-forme de production ou d'essais sur site avec des horaires réguliers de jour. Cependant, les installations ou opérations de maintenance sur site et ou en clientèle peuvent conduire à des horaires variables de jour, de nuit et parfois de fin de semaine.L'intervention sur site implique des contacts fréquents avec les clients et peut occasionner des déplacements en France ou à l'étranger.
 
-Son travail consiste à effectuer à la fois l'intégration, le contrôle et les essais, l'installation et la mise en service et la maintenance de ces systèmes au moyen d'appareils de mesures, de logiciels ou de bancs spécialisés. Il (elle) rédige les rapports correspondants.
+L'électronicien de contrôle et de maintenance travaille au sein d'une équipe et fait appel aux spécialistes en cas de difficultés dépassant ses compétences.
 
-Placé(e) sous la responsabilité d'un chef de service (ingénieur ou technicien supérieur), le (la) technicien(ne) en équipements et systèmes électroniques exerce en atelier, en plate-forme d'essais ou sur site, avec des horaires réguliers de jour. Il (elle) intervient chez le constructeur, le distributeur, l'installateur ou les entreprises utilisatrices.
+Il peut être amené à assister les interventions de câbleurs, électriciens, monteurs.
 
-Capacités attestées et descriptif
+Sensibilisé à la démarche qualité de l'entreprise, il respecte les procédures, les consignes et les règles de sécurité en vigueur dans l'entreprise.
 
-des composantes de la certification
+Il assure l'autocontrôle de ses réalisations et leur traçabilité.
 
-1. Intégrer, contrôler et réaliser les essais d'ensemble
+Capacités attestées et descriptif des composantes
 
-d'un équipement ou d'un système électronique
+de la certification
 
-Rendre opérationnels les outillages et moyens de mesure.
+1. Contrôler la conformité technique et fonctionnelle
 
-Assembler, raccorder, interconnecter les éléments de l'équipement ou du système électronique à intégrer.
+d'un équipement électronique en atelier ou sur site
 
-Régler, configurer et paramétrer un équipement ou un système électronique.
+Assembler, raccorder, interconnecter les éléments de l'équipement ou du système électronique à tester.
 
-Effectuer les essais d'ensemble d'un équipement ou d'un système électronique et remédier aux éventuelles anomalies.
+Mettre en œuvre un banc de test et de mesure.
 
-2. Installer et mettre en service un équipement ou un système
+Effectuer les tests d'ensemble d'un équipement ou d'un système électronique et remédier aux anomalies.
 
-électronique à partir d'un cahier des charges d'installation
+2. Assurer la mise en service et la maintenance
 
-Réaliser et mettre en conformité l'installation d'un équipement ou d'un système électronique.
+d'un équipement électronique
 
-Réaliser la mise en service d'un équipement ou d'un système électronique après installation.
+Réaliser la mise en service d'un équipement ou d'un système électronique.
 
-Réaliser la recette de l'installation.
+Diagnostiquer les dysfonctionnements d'un équipement ou d'un système électronique.
 
-3. Assurer la maintenance d'un équipement
+Remettre en conformité et effectuer les mises à jour d'un équipement ou d'un système électronique.
 
-ou d'un système électronique
+Secteurs d'activités et types d'emploi accessibles
 
-Diagnostiquer sur site ou à distance les dysfonctionnements d'un équipement ou d'un système électronique.
+par le détenteur du titre
 
-Remettre en conformité un équipement ou un système électronique.
+L'industrie des biens d'équipement (alimentations et réseaux électriques, instrumentation scientifique et technique, immotique et domotique, contrôle et systèmes industriels, énergies renouvelables, équipement médical).
 
-Effectuer les mises à jour d'un équipement ou d'un système électronique.
+L'industrie aéronautique/ défense et l'industrie des transports (automobile, ferroviaire).
 
-Secteurs d'activités ou types d'emploi
+Les opérateurs de transports, de santé, de télécommunication.
 
-accessibles par le détenteur du titre
+Les sociétés de services aux entreprises spécialisées en électronique ou en informatique industrielle
 
-Entreprises de l'électronique professionnelle et des automatismes.
+Code ROME :
 
-Codes ROME :
-
-52221 - Technicien(ne) de contrôle, essais, qualité en électronique et électrotechnique.
-
-52311 - Technicien(ne) d'installation d'équipements industriels et professionnels.
-
-52333 - Maintenicien(ne) en électronique.
+H1504-Intervention technique en contrôle essai qualité en électricité et électronique.
 
 Réglementation de l'activité :
 
-Néant.
+Habilitation pour les travaux électriques (norme C18-510).
 
 Autorité responsable de la certification :
 
@@ -82,12 +74,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
-
-NOTA :
-
-Arrêté du 25 mars 2009, art. 1 : le titre professionnel de technicien(ne) en équipements et systèmes électroniques est prorogé jusqu'au 31 décembre 2010.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
