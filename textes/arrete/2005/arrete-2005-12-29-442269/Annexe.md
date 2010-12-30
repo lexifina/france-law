@@ -1,10 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
 
-Intitulé :
+NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Titre professionnel : gérant(e) en restauration collective.
+Intitulé : gérant (e) en restauration collective.
 
 Niveau : III.
 
@@ -12,57 +12,87 @@ Code NSF : 334 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) gérant(e) en restauration collective est responsable d'une unité de restauration collective comportant un ou plusieurs centres d'activité, dans lesquels sont fabriqués principalement des repas. Il (elle) organise, coordonne et contrôle l'activité de l'unité.
+Le gérant en restauration collective intervient comme responsable d'une unité de restauration collective comportant un ou plusieurs centres d'activité dans lesquels sont fabriqués des repas et où il peut y avoir d'autres prestations de services généraux (nettoyage des locaux, espaces verts, maintenance, accueil téléphonique, blanchisserie, etc.).
 
-Le (la) gérant(e) organise l'activité de restauration : conception des menus, définition et détermination des moyens en matières premières, en matériels, en personnel. Il (elle) en assure, dans un cadre budgétaire défini, la gestion des moyens (gestion des stocks de produits alimentaires et non alimentaires, maintenance des locaux, renouvellement des équipements...).
+Il organise l'activité de la restauration par la conception des menus, la définition et la détermination des moyens. Il en assure la gestion, dans un cadre budgétaire défini. Il manage le personnel, effectue le suivi des résultats de l'établissement et la gestion des flux financiers générés par l'activité.
 
-Il (elle) dirige et encadre le personnel et effectue le suivi des résultats de l'établissement et la gestion des flux financiers générés par l'activité (recettes, coûts). Pour mener à bien son activité, il (elle) est en relation professionnelle avec les prescripteurs du service, les fournisseurs ainsi que les clients bénéficiaires.
+Pour mener à bien son activité, il intervient dans les relations commerciales avec les clients/ prescripteurs, les clients/ consommateurs et les fournisseurs.
 
-Les horaires sont généralement continus. Les dimanches et jours fériés peuvent être ouvrés selon le secteur de l'entreprise où s'effectue le service de restauration et notamment dans le secteur touristique ou sanitaire.
+Il travaille sous l'autorité d'un supérieur hiérarchique présent ou non sur le site à qui il rend compte de la gestion de l'activité. La dimension de son poste et son degré d'autonomie dépendent des politiques et des stratégies de gestion ainsi que du statut juridique de l'entreprise et sont fonction de l'importance et de la spécificité de l'activité principale, de la nature de la ou des activités annexes ainsi que de l'effectif du personnel à gérer.
 
-Capacités attestées et descriptif des composantes de la certification
+Les qualités requises pour l'exercice de l'emploi sont la résistance physique, le bon équilibre général et nerveux, la stabilité émotionnelle et la résistance au stress, la capacité d'analyse et de synthèse, l'adaptabilité, l'aisance rédactionnelle, la capacité à encadrer et à communiquer, l'esprit d'équipe.
 
-1. Mettre en oeuvre l'activité d'un établissement de restauration collective
+L'emploi s'exerce dans des établissements de restauration collective publics ou privés à caractère social appartenant aux différents segments du marché (entreprise, scolaire, santé, loisirs...) ayant un mode d'organisation de type traditionnel ou industriel. Il peut s'exercer au sein d'établissements autogérés ou de sociétés de restauration collective.
 
-Utiliser ou créer des documents nécessaires à la prévision, à la réalisation et au contrôle de l'organisation, de la production et de la prestation.
+Capacités attestées et descriptif
 
-Mettre en place des procédures, les faire respecter, les adapter ou les faire évoluer si nécessaire.
+des composantes de la certification
 
-Communiquer avec son environnement professionnel (clients, fournisseurs, hiérarchie).
+1. Mettre en œuvre l'activité
 
-Diriger l'ensemble du personnel dans le cadre de la relationsalariale.
+d'un établissement de restauration collective
+
+Définir les besoins nécessaires à la réalisation des prestations et passer des commandes.
+
+Contrôler la réalisation des prestations.
+
+Gérer et encadrer le personnel.
+
+Garantir l'hygiène et la sécurité alimentaires en respectant le plan de maîtrise sanitaire.
 
 2. Gérer un établissement de restauration collective
 
-Définir et/ou mettre en oeuvre une méthodologie de gestion prévisionnelle de la matière première.
+Mettre en place un système de gestion prévisionnelle de la matière première.
 
-Calculer des coûts prévisionnels.
+Calculer les différents coûts et les résultats de l'établissement ou de l'exploitation et en rendre compte.
 
-Calculer des coûts réels.
+Assurer le suivi budgétaire et le contrôle de la gestion.
 
-Etablir un compte de résultat de gestion.
+Elaborer et/ ou rectifier un budget en restauration collective.
 
-Utiliser ou créer et utiliser un tableau de bord de la gestion.
+Secteurs d'activités ou types d'emploi accessibles
 
-Analyser des résultats par rapport à une prévision.
+par le détenteur du titre
 
-Elaborer et/ou rectifier le budget de l'établissement.
+Les différents secteurs d'activités concernés sont principalement :
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+-restauration collective autogérée ;
 
-L'activité se réalise dans une unité à gestion concédée ou en gestion directe publique ou privée, appartenant à l'un des segments du marché (entreprise, scolaire, santé, loisirs...) et dont l'organisation peut être de type traditionnel ou industriel.
+-sociétés de restauration collective.
 
-Le degré d'autonomie et l'étendue des fonctions confiées au (à la) gérant(e) dépendent du mode de production, de la diversité des activités et du nombre de couverts servis. S'il (elle) exerce dans un établissement assurant une prestation simple, il (elle) assure généralement la production pour un minimum de 500 couverts.
+Les types d'emplois accessibles sont les suivants :
 
-Codes ROME :
+-gérant ;
 
-13233 - Responsable de restauration de collectivité.
+-gérant-économe ;
 
-13234 - Directeur de restaurant.
+-gérant de restaurant ;
+
+-gérant de cantine ;
+
+-gestionnaire de restaurant ;
+
+-gestionnaire de restauration municipale ;
+
+-responsable du service restauration ;
+
+-intendant ;
+
+-économe en restauration collective ;
+
+-directeur de la restauration.
+
+Code ROME :
+
+G1404-Management d'établissement de restauration collective.
 
 Réglementation de l'activité :
 
 Néant.
+
+Compétences transversales de l'emploi :
+
+Organiser et optimiser l'activité et les équipes dans une dimension de service.
 
 Autorité responsable de la certification :
 
@@ -70,8 +100,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 ;
+Code de l'éducation, articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
