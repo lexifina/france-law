@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015484
+
+- Question : [SEQ101015484](seq101015484.md) — Préoccupations de la filière viticole française
+
+## Réponse
+
+*Agriculture, JO du 2010-12-30, page 3361*
+
+La suppression du régime des droits de plantation a été décidée lors de la réforme de l'organisation commune de Marché (OCM) vitivinicole, fin 2008, dans le cadre de la libéralisation proposée par la Commission européenne et acceptée par le Conseil, qui visait à supprimer l'intervention publique dans la gestion de l'offre de produits agricoles et à favoriser une adaptation de l'offre en fonction des signaux du marché et de la demande. Dans le cadre des négociations, les principaux pays producteurs, dont la France, avaient alors obtenu le maintien de ce régime jusqu'au 31 décembre 2015, avec la possibilité pour les États membres qui le souhaitent de maintenir l'interdiction de plantation sur leur territoire jusqu'au 31 décembre 2018. Le Gouvernement considère que le maintien d'un dispositif de régulation des plantations pour le secteur vitivinicole est indispensable pour la santé économique du secteur. Le rapport élaboré par Catherine Vautrin, à la demande du ministre chargé de l'agriculture, analyse tous les risques économiques liés à l'abandon de cet instrument et conclut à la nécessité de son maintien. Il étudie aussi les mécanismes alternatifs de gestion du potentiel de production pouvant être envisagés. Il s'agit notamment de confier la gestion de ce potentiel aux interprofessions sur la base de prévisions économiques affinées. Le Gouvernement est convaincu de l'importance, pour les filières agricoles, d'instruments de régulation indispensables pour assurer aux agriculteurs un revenu décent et stable. À l'initiative des autorités françaises, la position commune franco-allemande signée le 14 septembre dernier place la régulation des marchés agricoles au coeur des négociations pour la future politique commune.
