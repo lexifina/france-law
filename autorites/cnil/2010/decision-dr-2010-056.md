@@ -1,0 +1,11 @@
+# Décision DR-2010-056 délivrée à la Direction des Affaires Sanitaires et Sociales de la Nouvelle-Calédonie portant autorisation d’un traitement de données ayant pour finalité la création d’un registre du Rhumatisme Articulaire Aigu (Demande d’autorisation n°1333642)
+
+- Nature : Decision
+- Type : Autorisation de recherche
+- Numéro : DR-2010-056
+- Date : 2010-12-31
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000022379330
+
+Le Président,
