@@ -540,7 +540,7 @@ D
 
 |
 
-a) supérieure à 500 kg / j
+a) supérieure à 500 kg/j
 
 |
 
@@ -1396,7 +1396,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en œuvre
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -1458,7 +1458,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
 
 |
 
@@ -1710,7 +1710,17 @@ Quelle que soit la capacité
 
 |
 
-Détergents et savons (fabrication industrielle de ou à base de)
+Détergents et savons (fabrication de ou à base de) :
+
+1. Fabrication industrielle par transformation chimique
+
+|
+
+A
+
+|
+
+3
 
 |
 
@@ -1718,23 +1728,7 @@ Détergents et savons (fabrication industrielle de ou à base de)
 
 |
 
-|
-
-|
-
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 5 t/j
+2. Autres fabrications industrielles
 
 |
 
@@ -1746,15 +1740,13 @@ A
 
 |
 
-a) La capacité de production étant supérieure ou égale à 5 t/j
+|
 
 |
 
-2
+3. Fabrications non industrielles
 
-|
-
-b) supérieure ou égale à 1 t/j, mais inférieure à 5 t/j
+La capacité de production étant supérieure ou égale à 1 t/ j
 
 |
 
@@ -2104,7 +2096,7 @@ Le volume susceptible d'être stocké étant :
 
 |
 
-1. Supérieur ou égal à 40 000 m ³ ;
+1. Supérieur ou égal à 40 000 m³ ;
 
 |
 
@@ -2120,7 +2112,7 @@ A
 
 |
 
-2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
+2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
 
 |
 
@@ -2134,7 +2126,7 @@ E
 
 |
 
-3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
+3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
 
 |
 
@@ -2176,7 +2168,7 @@ Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est comp
 
 |
 
-a) Supérieur ou égal à 45 000 m ³ ;
+a) Supérieur ou égal à 45 000 m³ ;
 
 |
 
@@ -2192,7 +2184,7 @@ A
 
 |
 
-b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
+b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
 
 |
 
@@ -2206,7 +2198,7 @@ E
 
 |
 
-c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
+c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
 
 |
 
@@ -2232,7 +2224,7 @@ D
 
 |
 
-a) Supérieur ou égal à 80 000 m ³ ;
+a) Supérieur ou égal à 80 000 m³ ;
 
 |
 
@@ -2248,7 +2240,7 @@ A
 
 |
 
-b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
+b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
 
 |
 
@@ -2262,7 +2254,7 @@ E
 
 |
 
-c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
+c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
 
 |
 
@@ -2570,7 +2562,7 @@ Le volume susceptible d'être entreposé étant :
 
 |
 
-1. Supérieur ou égal à 1 000 m ³
+1. Supérieur ou égal à 1 000 m³
 
 |
 
@@ -3688,7 +3680,9 @@ E
 
 |
 
-c) La quantité de matières traitées étant inférieure à 30 t/j |
+c) La quantité de matières traitées étant inférieure à 30 t/j
+
+|
 
 DC
 
@@ -4074,7 +4068,9 @@ DC
 
 |
 
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW |
+B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW
+
+|
 
 A
 
@@ -4174,7 +4170,9 @@ E
 
 |
 
-3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1 |
+3. Lorsque le biogaz est produit par une seule installation, soumise à déclaration au titre de la rubrique 2781-1
+
+|
 
 DC
 
@@ -4230,7 +4228,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est :
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est :
 
 |
 
@@ -4284,7 +4282,7 @@ D
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est supérieure à 250 l.
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est supérieure à 250 l.
 
 |
 
@@ -4302,31 +4300,7 @@ D
 
 |
 
-Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10 5 Pa.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 300 kW
+Installation de compression fonctionnant à des pressions effectives supérieures à 105 Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant supérieure à 10 MW
 
 |
 
@@ -4335,62 +4309,6 @@ A
 |
 
 1
-
-|
-
-|
-
-|
-
-b) supérieure à 20 kW, mais inférieure ou égale à 300 kW
-
-|
-
-DC
-
-|
-
-|
-
-|
-
-|
-
-2. dans tous les autres cas :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure à 500 kW
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-b) supérieure à 50 kW, mais inférieure ou égale à 500 kW
-
-|
-
-D
-
-|
 
 |
 
@@ -4680,13 +4598,13 @@ Nota : Cette activité ne donne pas lieu à classement sous la rubrique 2910
 
 Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois, plastique, cuir, papier, textile) à l'exclusion :
 
--des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,
+- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,
 
--des activités couvertes par les rubriques 2445 et 2450,
+- des activités couvertes par les rubriques 2445 et 2450,
 
--des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,
+- des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,
 
--ou de toute autre activité couverte explicitement par une autre rubrique.
+- ou de toute autre activité couverte explicitement par une autre rubrique.
 
 |
 
@@ -4752,7 +4670,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 |
 
@@ -4820,7 +4738,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 |
 
@@ -4866,7 +4784,7 @@ DC
 
 |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 oC) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 oC) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 

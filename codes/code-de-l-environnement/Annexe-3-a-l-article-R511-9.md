@@ -1128,7 +1128,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-1. caille = 0, 125
+1. caille = 0,125
 
 |
 
@@ -1140,7 +1140,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-2. pigeon, perdrix = 0, 25
+2. pigeon, perdrix = 0,25
 
 |
 
@@ -1152,7 +1152,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-3. coquelet = 0, 75
+3. coquelet = 0,75
 
 |
 
@@ -1164,7 +1164,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-4. poulet léger = 0, 85
+4. poulet léger = 0,85
 
 |
 
@@ -1188,7 +1188,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-6. poulet lourd = 1, 15
+6. poulet lourd = 1,15
 
 |
 
@@ -1212,7 +1212,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-8. dinde légère = 2, 20
+8. dinde légère = 2,20
 
 |
 
@@ -1236,7 +1236,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-10. dinde lourde = 3, 50
+10. dinde lourde = 3,50
 
 |
 
@@ -1588,7 +1588,7 @@ Engrais, amendements et supports de culture (fabrication des) à partir de mati�
 
 |
 
-1. Lorsque la capacité de production est supérieure ou égale à 10 t / j
+1. Lorsque la capacité de production est supérieure ou égale à 10 t/j
 
 |
 
@@ -1604,7 +1604,7 @@ A
 
 |
 
-2. Lorsque la capacité de production est supérieure à 1 t / j et inférieure à 10 t / j
+2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j
 
 |
 
@@ -1634,7 +1634,7 @@ Fumiers, engrais et supports de culture (dépôts de) renfermant des matières o
 
 |
 
-Le dépôt étant supérieur à 200 m ³
+Le dépôt étant supérieur à 200 m³
 
 |
 
@@ -1664,7 +1664,7 @@ Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou
 
 |
 
-1. Supérieure ou égale à 500 m ³
+1. Supérieure ou égale à 500 m³
 
 |
 
@@ -1680,7 +1680,7 @@ A
 
 |
 
-2. Supérieure à 100 m ³ mais inférieure à 500 m³
+2. Supérieure à 100 m³ mais inférieure à 500 m³
 
 |
 
@@ -2232,31 +2232,11 @@ D
 
 |
 
-Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation des)
+Production par distillation d'alcools de bouche d'origine agricole
 
-|
+La capacité de production exprimée en équivalent alcool pur étant :
 
-|
-
-|
-
-|
-
-|
-
-La capacité de production exprimée en alcool absolu étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 500 l/j
+1. Supérieure à 1 300 hl/ j
 
 |
 
@@ -2264,7 +2244,7 @@ A
 
 |
 
-1
+3
 
 |
 
@@ -2276,11 +2256,37 @@ A
 
 |
 
-2. supérieure à 50 l/j, mais inférieure ou égale à 500 l/j
+2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
 
 |
 
 D
+
+|
+
+|
+
+|
+
+|
+
+Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/ j de capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
+
+|
 
 |
 
@@ -2454,7 +2460,7 @@ A
 
 |
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 |
 
@@ -3008,17 +3014,7 @@ D
 
 |
 
-Blanchisseries, laveries de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345
-
-|
-
-|
-
-|
-
-|
-
-|
+Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345.
 
 La capacité de lavage de linge étant :
 
@@ -3032,15 +3028,11 @@ La capacité de lavage de linge étant :
 
 |
 
-1. supérieure à 5 t/j
+1. Supérieure à 5 t/ j
 
 |
 
-A
-
-|
-
-1
+E
 
 |
 
@@ -3048,7 +3040,9 @@ A
 
 |
 
-2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
+|
+
+2. Supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/ j
 
 |
 
@@ -4266,7 +4260,7 @@ D
 
 |
 
-lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède pas 500 m³
+lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction n'excède pas 500 m³
 
 |
 
