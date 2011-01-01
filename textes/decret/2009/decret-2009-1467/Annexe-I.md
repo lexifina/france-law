@@ -1,9 +1,5 @@
 # Article Annexe I
 
-ANNEXE I
-
-AU DÉCRET FIXANT POUR L'ANNÉE 2007 LA QUOTE-PART DES RESSOURCES DU BUDGET DE LA POLYNÉSIE FRANÇAISE DESTINÉE À ALIMENTER LE FONDS INTERCOMMUNAL DE PÉRÉQUATION
-
 COMPOSANTES DE L'ASSIETTE
 
 du prélèvement FIP
@@ -12,7 +8,9 @@ du prélèvement FIP
 
 MONTANTS CA 2007
 
-en FCFP |
+en FCFP
+
+|
 
 MONTANTS CA 2007
 
@@ -200,7 +198,7 @@ Versement forfaitaire CEA-CEP
 
 |
 
-Taxe de consommation sur tabacs et alcools importés
+Taxe de consommation sur tabacs & alcools importés
 
 |
 
@@ -257,6 +255,18 @@ Exonération de droits et taxes à l'importation
 |
 
 26 086 803
+
+|
+
+Régularisation de droits et taxes supprimés
+
+|
+
+7 449 850
+
+|
+
+62 430
 
 |
 
@@ -416,27 +426,15 @@ Produits sur exercices antérieurs
 
 |
 
-Autres produits exceptionnels
-
-|
-
-9 755 136
-
-|
-
-81 748
-
-|
-
 Valeur totale de l'assiette
 
 |
 
-114 499 102 479
+114 496 797 193
 
 |
 
-959 502 479
+959 483 160
 
 |
 
@@ -456,11 +454,11 @@ Assiette définitive 2007 après déductions
 
 |
 
-99 888 292 255
+99 885 986 969
 
 |
 
-837 063 889
+837 044 571
 
 |
 
@@ -476,14 +474,14 @@ Assiette provisoire 2007 après déductions
 
 |
 
-Différentiel entre le montant prévisionnel 2007 et le montant réalisé 2007
+Différence entre le montant prévisionnel 2007 et le montant réalisé 2007
 
 |
 
-4 008 292 255
+4 005 986 969
 
 |
 
-33 589 489
+33 570 171
 
 |
