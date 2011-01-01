@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Plafonds de ressources annuelles (revenu fiscal de référence) prévus aux articles L. 441-3, R. 331-12 et R. 441-1 (1°) du code de la construction et de l'habitation applicables aux logements autres que ceux mentionnés au II de l'article R. 331-1 du CCH (plus)
+PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 du CCH (NOTAMMENT PLUS)
 
 CATÉGORIE
 
@@ -26,7 +26,9 @@ et communes limitrophes
 
 |
 
-AUTRES RÉGIONS
+AUTRES
+
+régions
 
 (en euros)
 
@@ -36,15 +38,15 @@ AUTRES RÉGIONS
 
 |
 
-21 872
+22 113 €
 
 |
 
-21 872
+22 113 €
 
 |
 
-19 016
+19 225 €
 
 |
 
@@ -52,15 +54,15 @@ AUTRES RÉGIONS
 
 |
 
-32 688
+33 048 €
 
 |
 
-32 688
+33 048 €
 
 |
 
-25 394
+25 673 €
 
 |
 
@@ -68,15 +70,15 @@ AUTRES RÉGIONS
 
 |
 
-42 852
+43 323 €
 
 |
 
-39 295
+39 727 €
 
 |
 
-30 538
+30 874 €
 
 |
 
@@ -84,15 +86,15 @@ AUTRES RÉGIONS
 
 |
 
-51 162
+51 725 €
 
 |
 
-47 067
+47 585 €
 
 |
 
-36 866
+37 272 €
 
 |
 
@@ -100,15 +102,15 @@ AUTRES RÉGIONS
 
 |
 
-60 872
+61 542 €
 
 |
 
-55 719
+56 332 €
 
 |
 
-43 369
+43 846 €
 
 |
 
@@ -116,15 +118,15 @@ AUTRES RÉGIONS
 
 |
 
-68 497
+69 250 €
 
 |
 
-62 700
+63 390 €
 
 |
 
-48 876
+49 414 €
 
 |
 
@@ -132,14 +134,14 @@ Par personne supplémentaire
 
 |
 
-7 631
+7 715 €
 
 |
 
-6 986
+7 063 €
 
 |
 
-5 452
+5 512 €
 
 |
