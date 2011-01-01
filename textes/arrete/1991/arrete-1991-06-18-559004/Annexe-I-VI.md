@@ -136,6 +136,8 @@ H.1.2.2.1.Non-concordance du numéro d'identification avec le document d'identif
 
 |
 
+N
+
 |
 
 H.1.2.3. Divers
@@ -148,11 +150,15 @@ H.1.2.3.1. Absence
 
 |
 
+N
+
 |
 
 H.1.2.3.2. Illisible ou contrôle impossible
 
 |
+
+N
 
 |
 
@@ -256,13 +262,13 @@ H.1.6.1. Divers
 
 |
 
-N
-
 |
 
 H.1.6.1.1. Absence d'inscriptions
 
 |
+
+N
 
 |
 
@@ -327,6 +333,10 @@ visite
 H.1.9. Conditions d'essai
 
 |
+
+|
+
+H. 1.9.1. Conditions d'essai |
 
 |
 
@@ -588,19 +598,11 @@ H.2.3.3. Fixation
 
 |
 
-H.2.3.3.1. Anomalie de fixation du système de freinage à commande à câble (AV, AR, C,
+H.2.3.3.1. Anomalie de fixation du système de freinage à commande à câble (AV, AR, C, AVG, AVD, ARG, ARD)
 
 |
 
 N
-
-|
-
-|
-
-AVG, AVD, ARG, ARD)
-
-|
 
 |
 
@@ -1094,6 +1096,8 @@ H.2.11.1.2. Absence de verrouillage, de commande ou de fixation
 
 |
 
+O
+
 |
 
 H.2.11.2. Spécification
@@ -1214,17 +1218,11 @@ H.2.14.1. Etat
 
 |
 
-H.2.14.1.1. Détérioration importante et/ou anomalie de fixation (AVD, AVG, ARD, ARG,
+H.2.14.1.1. Détérioration importante et/ou anomalie de fixation (AVD, AVG, ARD, ARG, C)
 
 |
 
 O
-
-|
-
-C)
-
-|
 
 |
 
@@ -1276,7 +1274,7 @@ O
 
 |
 
-H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C
+H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C)
 
 |
 
@@ -1664,17 +1662,11 @@ N
 
 |
 
-H.3.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG,
+H.3.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G)
 
 |
 
 O
-
-|
-
-D, G)
-
-|
 
 |
 
@@ -1744,17 +1736,11 @@ N
 
 |
 
-H.3.6.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG,
+H.3.6.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G, C)
 
 |
 
 O
-
-|
-
-D, G, C)
-
-|
 
 |
 
@@ -1998,7 +1984,7 @@ O
 
 |
 
-H.3.10.1.2. Détérioration de la roue constituée d'éléments en bois (AVG, AVD, ARG,
+H.3.10.1.2. Détérioration de la roue constituée d'éléments en bois (AVG, AVD, ARG, ARD)
 
 |
 
@@ -2006,23 +1992,11 @@ N
 
 |
 
-ARD)
-
-|
-
-|
-
-H.3.10.1.3. Détérioration importante de la roue constituée d'éléments en bois (AVG,
+H.3.10.1.3. Détérioration importante de la roue constituée d'éléments en bois (AVG, AVD, ARG, ARD)
 
 |
 
 O
-
-|
-
-AVD, ARG, ARD)
-
-|
 
 |
 
@@ -2040,17 +2014,11 @@ N
 
 |
 
-H.3.10.2.2. Frottement(s) sur carrosserie et/ou élément(s) mécanique(s) (AVD, AVG,
+H.3.10.2.2. Frottement(s) sur carrosserie et/ou élément(s) mécanique(s) (AVD, AVG, ARD, ARG)
 
 |
 
 O
-
-|
-
-ARD, ARG)
-
-|
 
 |
 
@@ -2126,17 +2094,11 @@ N
 
 |
 
-H.3.11.1.4. Usure importante et/ou différence importante d'usure sur l'essieu (AVD,
+H.3.11.1.4. Usure importante et/ou différence importante d'usure sur l'essieu (AVD, AVG, ARD, ARG)
 
 |
 
 O
-
-|
-
-AVG, ARD, ARG)
-
-|
 
 |
 
