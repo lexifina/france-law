@@ -1,0 +1,11 @@
+# Article 1er
+
+Le présent accord est applicable aux entreprises dont l'activité principale, en termes de chiffre d'affaires, est principalement constituée de la vente de livres sur l'ensemble du territoire français de métropole ainsi que dans les DOM, DROM et COM.
+
+Ce champ d'application comprend les commerces de librairie dont la clientèle est constituée de particuliers, d'entreprises ou d'administrations, que ces commerces vendent des livres neufs ou d'occasion.
+
+Sont visés :
+
+– les commerces de librairie qui relèvent principalement du code 47.61Z, à l'exclusion des commerces dont l'activité principale consiste en la vente de produits de papeterie ou de presse ;
+
+– les commerces de livres d'occasion qui relèvent principalement du code 47.79Z, à l'exclusion des commerces dont l'activité principale consiste en la vente de livres anciens et de valeur.
