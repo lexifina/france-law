@@ -1,0 +1,21 @@
+# Article 1er
+
+Pour 2011, les valeurs des minima annuels sur la base de 35 heures par semaine ou 35 heures en moyenne sur l'année, figurant en annexe VI de la convention collective nationale des ETAM des travaux publics du 12 juillet 2006, des positions de la classification des ETAM des travaux publics sont les suivantes :
+
+A : 17 821 € ;
+
+B : 18 712 € ;
+
+C : 20 181 € ;
+
+D : 22 104 € ;
+
+E : 24 093 € ;
+
+F : 26 915 € ;
+
+G : 30 181 € ;
+
+H : 31 511 €.
+
+Aucun salaire ne peut être inférieur au salaire minimum interprofessionnel de croissance (Smic) en vigueur.
