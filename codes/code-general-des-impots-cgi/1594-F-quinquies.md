@@ -1,8 +1,8 @@
 # Article 1594 F quinquies
 
-Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 % :
+Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,70 % :
 
-A. - A l'exception de celles qui sont visées au I du A de l'article 1594-0 G, les mutations à titre onéreux de terrains à bâtir et d'immeubles neufs mentionnés au 2° du 2 du I de l'article 257 lorsqu'elles sont soumises à la taxe sur la valeur ajoutée, sauf application des modalités prévues à l'article 268 ;
+A. A l'exception de celles qui sont visées au I du A de l'article 1594-0 G, les mutations à titre onéreux de terrains à bâtir et d'immeubles neufs mentionnés au 2° du 2 du I de l'article 257 lorsqu'elles sont soumises à la taxe sur la valeur ajoutée, sauf application des modalités prévues à l'article 268 ;
 
 B. Les mutations de propriété faites entre les propriétaires participant aux opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires en contre-partie de leur créance sur un organisme de rénovation, le bénéfice de la réduction de taux ne peut être invoqué qu'à concurrence du montant de la créance sur l'organisme de rénovation ;
 
@@ -53,3 +53,5 @@ L.-Les acquisitions en vue de leur revente de lots de copropriétés faisant l'o
 NOTA :
 
 Conformément à l'article 42 II de la loi n° 2008-1443 du 30 décembre 2008, les dispositions introduites par l'article 42 I s'appliquent aux opérations intervenues à compter du 1er janvier 2009.
+
+LOI n° 2009-1673 du 30 décembre 2009 de finances pour 2010 art 77 1.2.1.6 : les présentes dispositions s'appliquent aux actes passés et aux conventions conclues à compter du 1er janvier 2011.
