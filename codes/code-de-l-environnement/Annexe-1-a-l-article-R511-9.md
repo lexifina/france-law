@@ -60,7 +60,7 @@ A
 
 |
 
-0, 5
+0,5
 
 |
 
@@ -84,7 +84,7 @@ A
 
 |
 
-0, 5
+0,5
 
 |
 
@@ -128,7 +128,11 @@ D
 
 |
 
-Substances et préparations dangereuses (définition et classification des).
+Substances et préparations ou mélanges dangereux (définition et classification des).
+
+Définition :
+
+Les termes : substances et préparations ou mélanges , ainsi que les catégories de dangers des substances et préparations ou mélanges dangereux notamment celles de comburantes , explosibles , facilement inflammables , toxiques , très toxiques et dangereuses pour l'environnement sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail.
 
 |
 
@@ -142,9 +146,7 @@ Substances et préparations dangereuses (définition et classification des).
 
 |
 
-Définition : Les termes "substances" et "préparations", ainsi que les catégories de dangers des substances et préparations dangereuses, notamment celles de "comburantes", "explosibles", "facilement inflammables", "toxiques", "très toxiques" et "dangereuses pour l'environnement", sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail.
-
-On entend par produit explosif toute substance ou préparation explosible et tout produit ouvré comportant des substances ou préparation explosibles destiné à être utilisé pour les effets de son explosion ou à des fins pyrotechniques.
+On entend par produit explosif toute substance ou préparation ou mélange explosible et tout produit ouvré comportant des substances ou préparations ou mélanges explosibles destiné à être utilisé pour les effets de son explosion ou à des fins pyrotechniques.
 
 |
 
@@ -156,37 +158,63 @@ On entend par produit explosif toute substance ou préparation explosible et tou
 
 |
 
-Pour les substances dangereuses pour l'environnement, on distingue : A-Les substances très toxiques pour les organismes aquatiques, y compris celles pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R. 50 ou R. 50-53 définies par l'arrêté du 20 avril 1994 modifié relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances ; B-Les substances toxiques pour les organismes aquatiques et pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994 susmentionné.
+Pour les substances dangereuses pour l'environnement, on distingue :
+
+A. - Les substances très toxiques pour les organismes aquatiques, y compris celles pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R. 50 ou R. 50-53 définies par l'arrêté du 20 avril 1994 modifié relatif à la classification, l'étiquetage et l'emballage des substances dangereuses ;
 
 |
 
-Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101, 3 kPa à une température de 20 °C.
-
-Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 °C et à une pression normale de 101, 3 kPa.
+B. - Les substances toxiques pour les organismes aquatiques et pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R. 51 ou R. 51-53 définies par l'arrêté du 20 avril 1994 susmentionné.
 
 |
 
-Classification : a) Substances : Les substances comburantes, explosibles, inflammables, toxiques, très toxiques et dangereuses pour l'environnement sont définies à l'annexe I de l'arrêté du 20 avril 1994 susmentionné. Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe I de l'arrêté du 20 avril 1994 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes, conformément aux critères de classification et d'étiquetage qui font l'objet de l'annexe VI de l'arrêté du 20 avril 1994 susmentionné.
+Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101,3 kPa à une température de 20° C.
+
+Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20° C et à une pression normale de 101,3 kPa.
 
 |
 
-b) Préparations : Le classement des préparations dangereuses résulte : - du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ; - du type de préparation.
+Classification :
+
+a) Substances :
+
+Les substances comburantes, explosibles, toxiques, très toxiques et dangereuses pour l'environnement sont définies à l'annexe VI du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges.
 
 |
 
-Les préparations dangereuses sont classées suivant les dispositions de l'arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des substances et préparations dangereuses et transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses.
+Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe VI du règlement (CE) n° 1272/2008 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes, conformément aux critères de classification et d'étiquetage de l'annexe VI de l'arrêté du 20 avril 1994 modifié susmentionné.
 
 |
 
-Pour ses propriétés physico-chimiques, la préparation est classée suite à la détermination directe de chaque propriété et en appliquant les méthodes de l'annexe V puis les critères de classification de l'annexe VI de l'arrêté du 20 avril 1994 susmentionné.
+b) Préparations ou mélanges :
+
+Le classement des préparations ou mélanges dangereux résulte :
+
+- du classement des substances dangereuses qu'ils contiennent et de la concentration de celles-ci ;
+
+- du type de préparation ou mélange.
 
 |
 
-Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est classée par son fabricant : - soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de classification de l'annexe VI de ce même arrêté ; - soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation en fonction de leur concentration. Pour ses propriétés environnementales, une préparation dangereuse pour l'environnement est classée par son fabricant :
+Les préparations ou mélanges dangereux sont classés suivant les dispositions de l'arrêté du 9 novembre 2004 modifié relatif à la classification, l'étiquetage et l'emballage des préparations dangereuses. |
 
-- soit par des essais effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les critères de classification de l'annexe VI de ce même arrêté ;
+Pour ses propriétés physico-chimiques, la préparation ou le mélange est classé en appliquant le règlement (CE) n° 440/2008 établissant des méthodes d'essai, tel que spécifié à l'article 13, paragraphe 3, du règlement (CE) n° 1907/2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances.
 
-- soit en utilisant la méthode de calcul décrite au point a de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation en fonction de leur concentration.
+|
+
+Pour ses propriétés toxicologiques, une préparation ou mélange toxique ou très toxique est classé par son fabricant :
+
+- soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL. 50 ou CL. 50) par des essais toxicologiques effectués directement sur la préparation ou le mélange en appliquant les méthodes du règlement n° 440/2008 susmentionné ;
+
+- soit en utilisant la méthode de calcul décrite à l'annexe II de l'arrêté du 9 novembre 2004 modifié, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation ou le mélange en fonction de leur concentration.
+
+|
+
+Pour ses propriétés environnementales, une préparation ou un mélange dangereux pour l'environnement est classé par son fabricant :
+
+- soit, par des essais effectués directement sur la préparation ou le mélange en appliquant les méthodes du règlement n° 440/2008 susmentionné ;
+
+- soit en utilisant la méthode de calcul décrite point a) de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation ou le mélange en fonction de leur concentration.
 
 |
 
@@ -1696,7 +1724,11 @@ D
 
 |
 
-Substances et préparations particulières (stockage, emploi, fabrication industrielle, formulation et conditionnement de ou à base de)
+Substances et mélanges particuliers (fabrication industrielle de ou à base de) :
+
+1. Substances et mélanges à des concentrations en poids supérieures à 5 % à base de :
+
+4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine.
 
 |
 
@@ -1708,21 +1740,7 @@ Substances et préparations particulières (stockage, emploi, fabrication indust
 
 |
 
-1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de :
-
-4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale de l'une de ces substances et préparations en contenant susceptible d'être présente dans l'installation étant :
+La quantité totale de l'une de ces substances et mélanges en contenant susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1736,7 +1754,7 @@ La quantité totale de l'une de ces substances et préparations en contenant sus
 
 |
 
-a) supérieure ou égale à 2 t
+a) Supérieure ou égale à 2 t
 
 |
 
@@ -1756,7 +1774,7 @@ a) Supérieure ou égale à 2 t
 
 |
 
-b) inférieure à 2 t
+b) Inférieure à 2 t
 
 |
 
@@ -1776,7 +1794,9 @@ b) Inférieure à 2 t
 
 |
 
-2. Les formes pulvérulentes de 4, 4'-méthylène-bis (2-chloroaniline) ou de ses sels :
+2. Les formes pulvérulentes de 4,4'méthylène-bis (2-chloroaniline) ou de ses sels :
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1790,19 +1810,7 @@ b) Inférieure à 2 t
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 10 kg
+a) Supérieure ou égale à 10 kg
 
 |
 
@@ -1822,7 +1830,7 @@ a) Supérieure ou égale à 10 kg
 
 |
 
-b) inférieure à 10 kg
+b) Inférieure à 10 kg
 
 |
 
@@ -1842,7 +1850,9 @@ b) Inférieure à 10 kg
 
 |
 
-3. Acide arsénieux et ses sels, trioxyde d'arsenic :
+3. Acide arsénieux et ses sels, trioxyde d'arsenic.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1856,19 +1866,7 @@ b) Inférieure à 10 kg
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 100 kg
+a) Supérieure ou égale à 100 kg
 
 |
 
@@ -1888,7 +1886,7 @@ a) supérieure ou égale à 100 kg
 
 |
 
-b) inférieure à 100 kg
+b) Inférieure à 100 kg
 
 |
 
@@ -1908,7 +1906,9 @@ b) inférieure à 100 kg
 
 |
 
-4. Isocyanate de méthyle
+4. Isocyanate de méthyle.
+
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1922,19 +1922,7 @@ b) inférieure à 100 kg
 
 |
 
-La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 150 kg
+a) Supérieure ou égale à 150 kg
 
 |
 
@@ -1954,7 +1942,7 @@ a) Supérieure ou égale à 150 kg
 
 |
 
-b) inférieure à 150 kg
+b) Inférieure à 150 kg
 
 |
 
@@ -1974,7 +1962,9 @@ b) Inférieure à 150 kg
 
 |
 
-5. Composé du nickel sous forme pulvérulente inhalable (monoxyde de nickel, dioxyde de nickel, sulfure de nickel, disulfure de trinickel, trioxyde de dinickel), dichlorure de soufre
+5. Composés du nickel sous forme pulvérulente inhalable (monoxyde de nickel, dioxyde de nickel, sulfure de nickel, disulfure de trinickel, trioxyde de dinickel), dichlorure de soufre.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1988,19 +1978,7 @@ b) Inférieure à 150 kg
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 1 t
+a) Supérieure ou égale à 1 t
 
 |
 
@@ -2020,7 +1998,7 @@ a) supérieure ou égale à 1 t
 
 |
 
-b) inférieure à 1 t
+b) Inférieure à 1 t
 
 |
 
@@ -2040,7 +2018,9 @@ b) inférieure à 1 t
 
 |
 
-6. Hydrogène arsénié, hydrogène phosphoré
+6. Hydrogène arsénié, hydrogène phosphoré.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2054,19 +2034,7 @@ b) inférieure à 1 t
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 1 t
+a) Supérieure ou égale à 1 t
 
 |
 
@@ -2086,7 +2054,7 @@ a) supérieure ou égale à 1 t
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+b) Inférieure à 1 t
 
 |
 
@@ -2106,21 +2074,9 @@ b) supérieure ou égale à 200 kg, mais inférieure à 1 t
 
 |
 
-c) supérieure ou égale à 10 kg, mais inférieure à 200 kg
+7. Acide arsénique et ses sels, pentoxyde d'arsenic.
 
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-7. Acide arsénique et ses sels, pentoxyde d'arsenic
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2134,19 +2090,7 @@ D
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 2 t
+a) Supérieure ou égale à 2 t
 
 |
 
@@ -2166,7 +2110,7 @@ a) supérieure ou égale à 2 t
 
 |
 
-b) supérieure ou égale à 1 t, mais inférieure à 2 t
+b) Inférieure à 2 t
 
 |
 
@@ -2186,21 +2130,9 @@ b) supérieure ou égale à 1 t, mais inférieure à 2 t
 
 |
 
-c) supérieure ou égale à 50 kg, mais inférieure à 1 t
+8. Ethylèneimine.
 
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-8. Ethylèneimine
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2214,19 +2146,7 @@ D
 
 |
 
-La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 20 t
+a) Supérieure ou égale à 20 t
 
 |
 
@@ -2246,7 +2166,7 @@ a) supérieure ou égale à 20 t
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t
+b) Inférieure à 20 t
 
 |
 
@@ -2266,21 +2186,9 @@ b) supérieure ou égale à 10 t, mais inférieure à 20 t
 
 |
 
-c) supérieure ou égale à 1 kg, mais inférieure à 10 t
+9. Dérivés alkylés du plomb.
 
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-9. dérivés alkylés du plomb
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2294,19 +2202,7 @@ D
 
 |
 
-La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) supérieure ou égale à 50 t
+a) Supérieure ou égale à 50 t
 
 |
 
@@ -2326,7 +2222,7 @@ a) supérieure ou égale à 50 t
 
 |
 
-b) supérieure ou égale à 5 t, mais inférieure à 50 t
+b) Inférieure à 50 t
 
 |
 
@@ -2346,21 +2242,9 @@ b) supérieure ou égale à 5 t, mais inférieure à 50 t
 
 |
 
-c) supérieure ou égale à 500 kg, mais inférieure à 5 t
+10. Diisocyanate de toluylène.
 
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-10. Dilsocyanate de toluylène
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2374,29 +2258,13 @@ D
 
 |
 
-La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+a) Supérieure ou égale à 100 t
 
 |
 
-|
+AS |
 
-|
-
-|
-
-|
-
-a) supérieure ou égale à 100 t
-
-|
-
-AS
-
-|
-
-6
-
-|
+6 |
 
 a) supérieure ou égale à 100 t
 
@@ -2406,7 +2274,7 @@ a) supérieure ou égale à 100 t
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 100 t
+b) Inférieure à 100 t
 
 |
 
@@ -2426,7 +2294,667 @@ b) supérieure ou égale à 10 t, mais inférieure à 100 t
 
 |
 
-c) supérieure ou égale à 500 kg, mais inférieure à 10 t
+11. Polychlorodibenzofuranes et polychlorodibenzodioxines (y compris TCDD) calculées en équivalent TCDD, tétraméthylène disulfotétramine.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+11. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+a) Supérieure ou égale à 1 kg
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+a) supérieure ou égale à 1 kg
+
+|
+
+10
+
+|
+
+b) Inférieure à 1 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+b) inférieure à 1 kg
+
+|
+
+6
+
+|
+
+1151
+
+|
+
+Substances et mélanges particuliers (emploi ou stockage de ou à base de) :
+
+1. Substances et mélanges à des concentrations en poids supérieures à 5 % à base de :
+
+4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale de l'une de ces substances et mélanges en contenant susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 400 kg, mais inférieure à 2 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 1 kg, mais inférieure à 400 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+2. Les formes pulvérulentes de 4,4' méthylène-bis (2-chloroaniline) ou de ses sels.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 10 kg
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 2 kg, mais inférieure à 10 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 100 g, mais inférieure à 2 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Acide arsénieux et ses sels, trioxyde d'arsenic.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 100 kg
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 20 kg, mais inférieure à 100 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 1 kg, mais inférieure à 20 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+4. Isocyanate de méthyle.
+
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 150 kg
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 30 kg, mais inférieure à 150 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 1,5 kg, mais inférieure à 30 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+5. Composés du nickel sous forme pulvérulente inhalable (monoxyde de nickel, dioxyde de nickel, sulfure de nickel, disulfure de trinickel, trioxyde de dinickel), dichlorure de soufre.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 1 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 10 kg, mais inférieure à 200 kg |
+
+D
+
+|
+
+|
+
+|
+
+|
+
+6. Hydrogène arsénié, hydrogène phosphoré.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 1 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 10 kg, mais inférieure à 200 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+7. Acide arsénique et ses sels, pentoxyde d'arsenic.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 1 t, mais inférieure à 2 t |
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 50 kg, mais inférieure à 1 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+8. Ethylèneimine.
+
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 20 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 10 t, mais inférieure à 20 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 1 kg, mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+9. Dérivés alkylés du plomb.
+
+La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 500 kg, mais inférieure à 5 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+10. Diisocyanate de toluylène.
+
+La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 100 t
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 10 t, mais inférieure à 100 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 500 kg, mais inférieure à 10 t
 
 |
 
@@ -2442,16 +2970,6 @@ D
 
 11. Polychlorodibenzofuranes et polychlorodibenzodioxines (y compris TCDD) calculées en équivalent TCDD, tétraméthylène disulfotétramine.
 
-|
-
-|
-
-|
-
-|
-
-|
-
 La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
 
 |
@@ -2460,13 +2978,11 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-11. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
 |
 
 |
 
-a) supérieure ou égale à 1 kg
+a) Supérieure ou égale à 1 kg
 
 |
 
@@ -2478,15 +2994,11 @@ AS
 
 |
 
-a) supérieure ou égale à 1 kg
+|
 
 |
 
-10
-
-|
-
-b) inférieure à 1 kg
+b) Supérieure ou égale à 200 g, mais inférieure à 1 kg
 
 |
 
@@ -2498,11 +3010,21 @@ A
 
 |
 
-b) inférieure à 1 kg
+|
 
 |
 
-6
+c) Supérieure ou égale à 10 g, mais inférieure à 200 g
+
+|
+
+D
+
+|
+
+|
+
+|
 
 |
 
@@ -3088,7 +3610,7 @@ DC
 
 |
 
-Organohalogénés, organophosphorés, organostanniques (fabrication industrielle de composés) à l'exclusion des substances et préparations très toxiques, toxiques ou des substances toxiques particulières visées par les rubriques 1110, 1130 et 1150
+Organohalogénés, organophosphorés, organostanniques (fabrication industrielle de composés) à l'exclusion des substances et mélanges classés dans une rubrique comportant un seuil AS
 
 |
 
@@ -3100,9 +3622,7 @@ A
 
 |
 
-Quelle que soit la capacité
-
-|
+Quelle que soit la capacité |
 
 6
 
@@ -3112,7 +3632,7 @@ Quelle que soit la capacité
 
 |
 
-Organohalogénés (emploi de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à sec visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
+Organohalogénés (emploi ou stockage de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à sec visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 et des substances ou mélanges classés dans une rubriques comportant un seuil AS.
 
 |
 
@@ -3124,7 +3644,7 @@ Organohalogénés (emploi de liquides) pour la mise en solution, l'extraction, e
 
 |
 
-La quantité de liquides organohalogénés susceptible d'être présente étant :
+La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -3138,7 +3658,7 @@ La quantité de liquides organohalogénés susceptible d'être présente étant 
 
 |
 
-1. supérieure à 1 500 l
+1. Supérieure à 1 500 l
 
 |
 
@@ -3172,7 +3692,7 @@ b) supérieure ou égale à 5 000 l, mais inférieure à 25 000 l
 
 |
 
-2. supérieure à 200 l, mais inférieure ou égale à 1 500 l
+2. Supérieure à 200 l, mais inférieure ou égale à 1 500 l
 
 |
 
@@ -3480,69 +4000,11 @@ A
 
 |
 
-1190
-
-|
-
-Emploi ou stockage dans un laboratoire de substances ou préparations très toxiques ou toxiques visées par les rubriques 1100 à 1189.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. La quantité totale de substances ou préparations très toxiques ou toxiques, y compris des substances toxiques particulières visées par la rubrique 1150 susceptible d'être présente dans l'installation étant supérieure à 100 kg
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-2. La quantité totale de substances ou préparations toxiques particulières visées à la rubrique 1150-1 et 1150-11 susceptibles d'être présentes dans l'installation étant supérieure à 1 kg
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-3. La quantité totale des substances et préparations toxiques visées à la rubrique 1150-2 susceptible d'être présente dans l'installation étant supérieure à 10 kg
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 1200
 
 |
 
-Comburants (fabrication, emploi ou stockage de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques :
+Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que définis à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques :
 
 |
 
@@ -3554,7 +4016,9 @@ Comburants (fabrication, emploi ou stockage de substances ou préparations) tell
 
 |
 
-1. Fabrication. La quantité totale susceptible d'être présente dans l'installation étant :
+1. Fabrication.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -3568,7 +4032,7 @@ Comburants (fabrication, emploi ou stockage de substances ou préparations) tell
 
 |
 
-a) supérieure ou égale à 200 t
+a) Supérieure ou égale à 200 t
 
 |
 
@@ -3588,7 +4052,7 @@ a) supérieure ou égale à 200 t
 
 |
 
-b) inférieure à 200 t
+b) Inférieure à 200 t
 
 |
 
@@ -3600,7 +4064,7 @@ A
 
 |
 
-b) inférieure à 200 t
+b) supérieure ou égale à 50 t, mais inférieure à 200 t
 
 |
 
@@ -3608,7 +4072,9 @@ b) inférieure à 200 t
 
 |
 
-2. Emploi ou stockage. La quantité totale susceptible d'être présente dans l'installation étant :
+2. Emploi ou stockage.
+
+La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -3622,9 +4088,7 @@ b) inférieure à 200 t
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) Supérieure ou égale à 200 t |
 
 AS
 
@@ -3642,7 +4106,7 @@ a) supérieure ou égale à 200 t
 
 |
 
-b) supérieure ou égale à 50 t, mais inférieure à 200 t
+b) Supérieure ou égale à 50 t, mais inférieure à 200 t
 
 |
 
@@ -3662,7 +4126,7 @@ b) supérieure ou égale à 50 t, mais inférieure à 200 t
 
 |
 
-c) supérieure ou égale à 2 t, mais inférieure à 50 t
+c) Supérieure ou égale à 2 t, mais inférieure à 50 t
 
 |
 
@@ -3671,20 +4135,6 @@ D
 |
 
 |
-
-|
-
-|
-
-Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues.
-
-|
-
-|
-
-|
-
-Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues.
 
 |
 
@@ -4452,7 +4902,9 @@ La quantité totale de matière active susceptible d'être présente dans l'inst
 
 |
 
-3. La quantité totale de matière active susceptible d'être présente dans l'installation étant : |
+3. La quantité totale de matière active susceptible d'être présente dans l'installation étant :
+
+|
 
 |
 
