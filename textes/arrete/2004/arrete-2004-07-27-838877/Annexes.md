@@ -816,6 +816,10 @@ REGLEMENTATION SPECIFIQUE
 
 10.1.2. PRESENTATION DU VEHICULE
 
+10.1.3. CERTIFICAT D'INSTALLATION DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
+
+10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
+
 10.2. PREVENTION DES RISQUES D'INCENDIE
 
 10.2.1. COUPE-BATTERIE
@@ -982,7 +986,7 @@ REGLEMENTATION SPECIFIQUE
 
 15.1.1. CERTIFICAT D'AGREMENT
 
-15.1.2. NOTICES DESCRIPTIVES TMD -CERTIFICATS DE CONFORMITE TMD
+15.1.2. NOTICES DESCRIPTIVES TMD - CERTIFICATS DE CONFORMITE TMD
 
 15.1.3. PRESENTATION DU VEHICULE
 
@@ -1020,9 +1024,9 @@ REGLEMENTATION SPECIFIQUE
 
 15.9.1. ATTESTATION DE CONTROLE CITERNE -ELEMENTS VEH-BATTERIE
 
-15.9.2. ATTESTATION D'EPREUVE HYDRAULIQUE CITERNE -ELEMENTS VEH-­BATTERIE
+15.9.2. ATTESTATION D'EPREUVE HYDRAULIQUE CITERNE -ELEMENTS VEH­-BATTERIE
 
-15.9.3. ATTESTATION D'EPREUVE D'ETANCHEITE CITERNE -ELEMENTS VEH-­BATTERIE
+15.9.3. ATTESTATION D'EPREUVE D'ETANCHEITE CITERNE -ELEMENTS VEH­-BATTERIE
 
 15.9.5. MARQUAGE CITERNE -ELEMENTS VEH-BATTERIE
 
@@ -1153,104 +1157,6 @@ T
 |
 
 X
-
-|
-
-T
-
-|
-
-0.1.1.4.2. Document présenté : fiche de circulation provisoire
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.3. Document présenté : justificatif de perte ou de vol
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.4. Document présenté : justificatif de retrait du certificat d'immatriculation
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.5. Document présenté : document de l'autorité judiciaire
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.6. Document présenté : document à caractère contractuel
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.8. Présenter le certificat d'immatriculation pour le visa
-
-|
-
-|
-
-C
-
-|
-
-T
-
-|
-
-0.1.1.4.9. Le certificat d'immatriculation peut être restitué
-
-|
-
-|
-
-C
 
 |
 

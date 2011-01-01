@@ -174,6 +174,96 @@ M
 
 |
 
+10.1.3. CERTIFICAT D'INSTALLATION DU DISPOSITIF ETHYLOTEST
+
+ANTI-DEMARRAGE (EAD)
+
+|
+
+|
+
+|
+
+|
+
+10.1.3.1. ETAT |
+
+|
+
+|
+
+|
+
+10.1.3.1.1. Détérioration |
+
+|
+
+O |
+
+M |
+
+10.1.3.4. DIVERS |
+
+|
+
+|
+
+|
+
+10.1.3.4.1 Absence |
+
+|
+
+S |
+
+M |
+
+10.1.3.4.2 Non concordance avec le certificat d'immatriculation
+
+|
+
+|
+
+S |
+
+M |
+
+10.1.4. ATTESTATION DE VERIFICATION PERIODIQUE DU DISPOSITIF ETHYLOTEST
+
+ANTI-DEMARRAGE (EAD)
+
+|
+
+|
+
+|
+
+|
+
+10.1.4.4. DIVERS |
+
+|
+
+|
+
+|
+
+10.1.4.4.1 Absence |
+
+|
+
+S |
+
+M |
+
+10.1.4.4.2 Non concordance avec le certificat d'immatriculation |
+
+|
+
+S |
+
+M |
+
 10.2. PREVENTION DES RISQUES D'INCENDIE
 
 |
@@ -3501,6 +3591,30 @@ O
 M
 
 |
+
+10.6.4. DISPOSITIF ETHYLOTEST ANTI-DEMARRAGE (EAD) |
+
+|
+
+|
+
+|
+
+10.6.4.4. DIVERS |
+
+|
+
+|
+
+|
+
+10.6.4.4.1 Absence |
+
+|
+
+S |
+
+M |
 
 10.7. TRANSPORT HANDICAPES
 
@@ -9096,7 +9210,7 @@ Les valeurs limites sont définies dans l'arrêté de 5 juillet 1994 susvisé.
 
 Véhicules-écoles
 
-Tout véhicule-école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la fonction 1. Freinage ou du point de contrôle 13.3.2. Double commande au pied fait l'objet, lors de la contre-visite, des contrôles prescrits par les points de contrôle de la fonction 1. Freinage et par le point de contrôle 13.3.2. Double commande au pied .
+Tout véhicule-école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la fonction 1. Freinage ou du point de contrôle 13. 3. 2. Double commande au pied fait l'objet, lors de la contre-visite, des contrôles prescrits par les points de contrôle de la fonction 1. Freinage et par le point de contrôle 13. 3. 2. Double commande au pied .
 
 APPENDICE 2
 
@@ -9122,7 +9236,9 @@ OBSERVATIONS
 
 |
 
-Contrôle technique périodique
+Contrôle technique
+
+périodique
 
 |
 
@@ -9132,11 +9248,11 @@ Contre-visite (1)
 
 |
 
-1 |
+1
 
-Véhicules sanitaires |
+|
 
-V
+Véhicules sanitaires
 
 |
 
@@ -9144,7 +9260,13 @@ V
 
 |
 
-Par véhicule sanitaire, on entend tous véhicules destinés au transport de personnes |
+V
+
+|
+
+Par véhicule sanitaire, on entend tous véhicules destinés au transport de personnes
+
+|
 
 2
 
@@ -9316,6 +9438,1122 @@ V
 
 (2) V = véhicule présenté à vide.
 
-C = véhicule présenté en charge (au minimum 2/3 du PTAC).
+C = véhicule présenté en charge (au minimum 2 / 3 du PTAC).
 
 |
+
+APPENDICE 3
+
+Véhicules de collection
+
+Le contrôleur effectue les contrôles des fonctions 0 à 9 de la présente annexe à l'exception des points de contrôles et altérations des fonctions 0 à 9 qui ne sont pas applicables aux véhicules de collection. Les listes de ces exemptions en fonction de la date de 1ère mise circulation du véhicule sont disponibles ci après. Si la date de première mise en circulation n'est pas connue, le contrôleur utilise la date indiquée sur l'attestation de la FFVE ou du constructeur ou de son représentant en France. Les contrôles complémentaires des fonctions 10 à 15 de la même annexe ne sont pas effectués.
+
+1. Véhicules lourds de type I : immatriculés à compter du 1er janvier 1960 :
+
+Ces véhicules sont exemptés des points de contrôles et altérations suivantes :
+
+POINT DE CONTROLE |
+
+Observation
+
+|
+
+ETAT DE CHARGE DU VEHICULE
+
+|
+
+0.4.1.4.1.
+
+|
+
+Charge insuffisante pour valider les essais de frein |
+
+0.4.1.4.2. |
+
+A représenter en charge
+
+|
+
+0.4.1.4.3. |
+
+Charge mal arrimée
+
+|
+
+0.4.1.4.4. |
+
+Véhicule tracteur présenté en solo
+
+|
+
+ETAT DE PRESENTATION DU VEHICULE
+
+|
+
+0.4.2.4.1. |
+
+Modification du véhicule nécessitant une RTI
+
+|
+
+0.4.2.4.4. |
+
+A représenter sur un centre muni d'un freinomètre
+
+|
+
+0.4.2.4.6. |
+
+A représenter avec le même véhicule remorqué
+
+|
+
+GENRE |
+
+0.4.6.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+CARROSSERIE
+
+|
+
+0.4.7.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+PTAC
+
+|
+
+0.4.8.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+PTRA
+
+|
+
+0.4.9.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+ENERGIE MOTEUR
+
+|
+
+0.4.10.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+NOMBRE DE PLACES ASSISES
+
+|
+
+0.4.11.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+FEU STOP
+
+|
+
+4.2.5.2.1.
+
+|
+
+Non fonctionnement des deux feux
+
+|
+
+CHRONOTACHYGRAPHE
+
+|
+
+7.3.4.2.1.
+
+|
+
+Mauvais fonctionnement
+
+|
+
+7.3.4.4.1. |
+
+Absence
+
+|
+
+7.3.4.4.3. |
+
+Vérification périodique non effectuée
+
+|
+
+7.3.4.4.4. |
+
+Absence de plombage (sur boîte de vitesse)
+
+|
+
+7.3.4.4.5. |
+
+Plombage détérioré
+
+|
+
+7.3.4.4.6. |
+
+Non adapté aux pneumatiques
+
+|
+
+7.3.4.4.7. |
+
+Absence de plaque d'installation
+
+|
+
+7.3.4.4.8. |
+
+Absence de plombage sur plaque d'installation |
+
+7.3.4.4.9. |
+
+Visite chronotachygraphe obligatoire, sauf dérogation
+
+|
+
+LIMITEUR DE VITESSE
+
+|
+
+7.3.5.4.1. |
+
+Absence d'étiquette
+
+|
+
+7.3.5.4.2. |
+
+Absence d'attestation de conformité
+
+|
+
+7.3.5.4.3. |
+
+Défaut de contrôle du limiteur de vitesse
+
+|
+
+7.3.5.4.4. |
+
+Vitesse du véhicule limitée sans dispositif additionnel
+
+|
+
+DISQUE LIMITATION DE VITESSE
+
+|
+
+7.3.6.1.1. |
+
+Détérioration
+
+|
+
+7.3.6.3.1. |
+
+Défaut de positionnement
+
+|
+
+7.3.6.3.2. |
+
+Défaut de fixation
+
+|
+
+7.3.6.4.1. |
+
+Absence
+
+|
+
+7.3.6.4.2. |
+
+Vitesse non conforme
+
+|
+
+PLAQUE DE TARE
+
+|
+
+7.3.7.1.1. |
+
+Détérioration
+
+|
+
+7.3.7.3.1.
+
+|
+
+Défaut de positionnement |
+
+7.3.7.3.2.
+
+|
+
+Défaut de fixation |
+
+7.3.7.4.1. |
+
+Absence |
+
+7.3.7.4.2. |
+
+Erreur sur plaque de tare
+
+|
+
+2. Véhicules lourds de type II : immatriculés avant le 1er janvier 1960 :
+
+Ces véhicules sont exemptés des points de contrôles et altérations suivantes :
+
+POINT DE CONTROLE |
+
+Observation
+
+|
+
+NOTICE DESCRIPTIVE-CERTIFICAT DE
+
+CONFORMITE
+
+|
+
+0.1.2.4.1.
+
+|
+
+Absence |
+
+CARNET D'ENTRETIEN |
+
+0.1.4.4.1. |
+
+Absence |
+
+CERTIFICAT DE CARROSSAGE |
+
+0.1.6.4.1. |
+
+Absence
+
+|
+
+FRAPPE A FROID SUR LE CHASSIS |
+
+0.3.2.4.1. |
+
+Absence
+
+|
+
+ETAT DE CHARGE DU VEHICULE |
+
+0.4.1.4.1. |
+
+Charge insuffisante pour valider les essais de
+
+frein
+
+|
+
+0.4.1.4.2. |
+
+A représenter en charge |
+
+0.4.1.4.3. |
+
+Charge mal arrimée |
+
+0.4.1.4.4. |
+
+Véhicule tracteur présenté en solo |
+
+ETAT DE PRESENTATION DU VEHICULE |
+
+0.4.2.4.1. |
+
+Modification du véhicule nécessitant une RTI |
+
+0.4.2.4.4. |
+
+A représenter sur un centre muni d'un
+
+freinomètre
+
+|
+
+0.4.2.4.6. |
+
+A représenter avec le même véhicule remorqué |
+
+GENRE
+
+|
+
+0.4.6.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+CARROSSERIE
+
+|
+
+0.4.7.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+PTAC
+
+|
+
+0.4.8.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+PTRA
+
+|
+
+0.4.9.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+ENERGIE MOTEUR
+
+|
+
+0.4.10.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+NOMBRE DE PLACES ASSISES
+
+|
+
+0.4.11.4.1. |
+
+Non concordance avec le certificat
+
+d'immatriculation nécessitant une RTI
+
+|
+
+SIGNAL D'ALARME DU FREIN DE SERVICE
+
+|
+
+1.6.1.4.1.
+
+|
+
+Absence
+
+|
+
+TEMOIN DE FREIN DE STATIONNEMENT
+
+|
+
+1.6.3.4.1. |
+
+Absence |
+
+TEMOIN DU DISPOSITIF ANTI-BLOCAGE
+
+|
+
+1.6.4.4.1. |
+
+Absence (dispositif obligatoire)
+
+|
+
+1.6.4.4.2. |
+
+Absence |
+
+SOUFFLET DE PROTECTION DE DIRECTION
+
+|
+
+2.1.13.4.1.
+
+|
+
+Absence |
+
+AMORTISSEUR DE DIRECTION
+
+|
+
+2.1.14.4.1.
+
+|
+
+Absence |
+
+PARE-BRISE
+
+|
+
+3.1.1.4.1.
+
+|
+
+Absence |
+
+VITRAGE
+
+|
+
+3.1.2.4.1. |
+
+Absence |
+
+RETROVISEUR INTERIEUR
+
+|
+
+3.2.1.4.1. |
+
+Absence |
+
+LAVE-GLACE AVANT
+
+|
+
+3.3.2.4.1. |
+
+Absence |
+
+FEU DE CROISEMENT
+
+|
+
+4.1.1.4.4.
+
+|
+
+Absence du marquage réglementaire
+
+|
+
+FEU DE ROUTE
+
+|
+
+4.1.2.4.2.
+
+|
+
+Absence des deux feux
+
+|
+
+4.1.2.4.3. |
+
+Absence du feu
+
+|
+
+4.1.2.4.4. |
+
+Absence du marquage réglementaire
+
+|
+
+FEU ANTIBROUILLARD AV
+
+|
+
+4.1.3.4.1.
+
+|
+
+Absence |
+
+4.1.3.4.2. |
+
+Absence du marquage réglementaire
+
+|
+
+FEU ADDITIONNEL
+
+|
+
+4.1.4.4.1. |
+
+Absence du marquage réglementaire |
+
+FEU DE POSITION
+
+|
+
+4.2.1.4.1. |
+
+Absence de marquage réglementaire |
+
+4.2.1.4.3. |
+
+Absence des deux feux |
+
+4.2.1.4.4. |
+
+Absence du feu |
+
+FEU INDICATEUR DE DIRECTION
+
+|
+
+4.2.2.4.1. |
+
+Absence du marquage réglementaire |
+
+4.2.2.4.3. |
+
+Absence des 2 feux d'un même côté
+
+|
+
+4.2.2.4.4. |
+
+Absence du feu |
+
+FEU ROUGE ARRIERE |
+
+4.2.4.4.1. |
+
+Absence des 2 feux |
+
+FEU STOP |
+
+4.2.5.2.1. |
+
+Non fonctionnement des deux feux |
+
+4.2.5.4.3. |
+
+Absence des deux feux |
+
+4.2.5.4.4.
+
+|
+
+Absence du feu
+
+|
+
+FEU DE PLAQUE ARRIERE
+
+|
+
+4.2.7.4.2. |
+
+Absence |
+
+FEU DE BROUILLARD ARRIERE
+
+|
+
+4.2.8.4.1. |
+
+Absence |
+
+4.2.8.4.2. |
+
+Absence de marquage réglementaire |
+
+FEU DE MARCHE ARRIERE
+
+|
+
+4.2.9.4.3. |
+
+Absence |
+
+FEU D'ENCOMBREMENT
+
+|
+
+4.2.10.4.1. |
+
+Absence du même côté
+
+|
+
+4.2.10.4.2. |
+
+Absence |
+
+FEU LATERAL
+
+|
+
+4.2.11.4.1. |
+
+Absence |
+
+4.2.11.4.2. |
+
+Absence du même côté |
+
+CATADIOPTRE
+
+|
+
+4.2.12.4.1. |
+
+Absence |
+
+SIGNALISATION COMPLEMENTAIRE
+
+ARRIERE
+
+|
+
+4.2.13.4.1. |
+
+Absence |
+
+SIGNALISATION ADDITIONNELLE
+
+|
+
+4.2.16.4.1. |
+
+Absence |
+
+TEMOIN DE FEUX DE ROUTE
+
+|
+
+4.3.2.4.1.
+
+|
+
+Absence |
+
+TEMOIN DE SIGNAL DE DETRESSE
+
+|
+
+4.3.3.4.1. |
+
+Absence |
+
+TEMOIN DE FEUX DE BROUILLARD AR
+
+|
+
+4.3.4.4.1. |
+
+Absence |
+
+TEMOIN INDICATEUR DE DIRECTION
+
+|
+
+4.3.5.4.1. |
+
+Absence |
+
+LIAISONS ELECTRIQUES
+
+|
+
+4.4.2.4.1. |
+
+Absence |
+
+PNEUMATIQUE |
+
+5.2.3.4.2.
+
+|
+
+Absence du marquage réglementaire |
+
+5.2.3.4.3. |
+
+Monte inadaptée
+
+|
+
+MARCHE-PIEDS
+
+|
+
+6.2.9.4.1.
+
+|
+
+Absence |
+
+ANTI-PROJECTION
+
+|
+
+6.2.17.4.1. |
+
+Absence |
+
+PARE-CHOCS
+
+|
+
+6.2.18.4.1. |
+
+Absence du dispositif prévu d'origine
+
+|
+
+ANTI-ENCASTREMENT
+
+|
+
+6.2.20.4.1. |
+
+Absence |
+
+PROTECTION LATERALE
+
+|
+
+6.2.21.4.1. |
+
+Absence |
+
+CEINTURE
+
+|
+
+7.1.3.4.1.
+
+|
+
+Absence |
+
+INDICATEUR DE VITESSE
+
+|
+
+7.3.3.4.1. |
+
+Absence |
+
+CHRONOTACHYGRAPHE
+
+|
+
+7.3.4.2.1. |
+
+Mauvais fonctionnement |
+
+7.3.4.4.1. |
+
+Absence |
+
+7.3.4.4.3. |
+
+Vérification périodique non effectuée
+
+|
+
+7.3.4.4.4. |
+
+Absence de plombage (sur boîte de vitesse)
+
+|
+
+7.3.4.4.5. |
+
+Plombage détérioré
+
+|
+
+7.3.4.4.6. |
+
+Non adapté aux pneumatiques
+
+|
+
+7.3.4.4.7. |
+
+Absence de plaque d'installation
+
+|
+
+7.3.4.4.8. |
+
+Absence de plombage sur plaque d'installation
+
+|
+
+7.3.4.4.9. |
+
+Visite chronotachygraphe obligatoire, sauf dérogation
+
+|
+
+LIMITEUR DE VITESSE
+
+|
+
+7.3.5.4.1. |
+
+Absence d'étiquette
+
+|
+
+7.3.5.4.2. |
+
+Absence d'attestation de conformité
+
+|
+
+7.3.5.4.3. |
+
+Défaut de contrôle du limiteur de vitesse
+
+|
+
+7.3.5.4.4. |
+
+Vitesse du véhicule limitée sans dispositif additionnel
+
+|
+
+DISQUE LIMITATION DE VITESSE
+
+|
+
+7.3.6.1.1.
+
+|
+
+Détérioration
+
+|
+
+7.3.6.3.1. |
+
+Défaut de positionnement
+
+|
+
+7.3.6.3.2. |
+
+Défaut de fixation
+
+|
+
+7.3.6.4.1. |
+
+Absence |
+
+7.3.6.4.2. |
+
+Vitesse non conforme
+
+|
+
+PLAQUE DE TARE
+
+|
+
+7.3.7.1.1. |
+
+Détérioration |
+
+7.3.7.3.1. |
+
+Défaut de positionnement |
+
+7.3.7.3.2. |
+
+Défaut de fixation |
+
+7.3.7.4.1. |
+
+Absence |
+
+7.3.7.4.1. |
+
+Erreur sur plaque de tare
+
+|
+
+TENEUR EN CO DES GAZ D'ECHAPPEMENT
+
+|
+
+9.1.1.2.1.
+
+|
+
+Valeur excessive (veh mis en cir. compter du 1/10/1972)
+
+|
+
+9.1.1.2.2. |
+
+Valeur anormale (veh mis en cir. jusqu'au 30/09/1972)
+
+|
+
+9.1.1.4.1. |
+
+Contrôle impossible (veh mis en cir. compter du 1/10/1972)
+
+|
+
+9.1.1.4.2. |
+
+Absence de contrôle (veh mis en cir. jusqu'au 30/09/1972)
+
+|
+
+MESURE DU LAMBDA DES GAZ
+
+D'ECHAPPEMENT veh eq de catal/sonde
+
+|
+
+9.1.2.2.1. |
+
+Valeur excessive
+
+|
+
+9.1.2.4.1. |
+
+Contrôle impossible imputable à un dysfonctionnement du veh.
+
+|
+
+OPACITE DES FUMEES D'ECHAPPEMENT
+
+|
+
+9.1.3.2.1. |
+
+Opacité excessive
+
+|
+
+9.1.3.2.2. |
+
+Fumée excessive
+
+|
+
+9.1.3.4.1. |
+
+Contrôle impossible imputable à un
+
+dysfonctionnement du veh.
+
+|
+
+9.1.3.4.2. |
+
+Sortie d'échappement détériorée
+
+|
+
+9.1.3.4.3. |
+
+Fuite notable
+
+|
+
+9.1.3.4.4. |
+
+Contrôle impossible compte tenu de la conception du véhicule
+
+|
+
+9.1.3.4.5. |
+
+Méthode alternative, contrôle visuel
+
+|
+
+2.1 Véhicules pour lesquels l'essai de freinage est réalisé sur piste :
+
+Présence de roues en bois
+
+Frein de service dont la commande n'est pas hydraulique ou pneumatique
+
+2.2 Rétroviseurs extérieurs :
+
+Seule l'absence du rétroviseur extérieur côté gauche est sanctionnée par le code défaut 3.2.2.4.1.
+
+2.3 Contrôle du réglage des feux de croisement :
+
+Les véhicules, mis en circulation jusqu'au 30 avril 1957, ne sont pas soumis au contrôle du réglage des feux de croisement.
+
+3 Véhicules de genre TRR présentés seuls au contrôle
+
+Dans le cas où un véhicule de genre TRR est présenté seul au contrôle technique, le commentaire suivant est porté sur le procès-verbal : "sellette non vérifiée".
