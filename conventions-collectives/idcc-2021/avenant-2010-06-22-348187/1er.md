@@ -1,0 +1,475 @@
+# Article 1er
+
+Le présent avenant abroge l'avenant n° 4 du 1er octobre 1999 et modifie les dispositions du chapitre XI « Prévoyance. – Mutuelle. – Retraite » :
+
+L'article 11.2 « Garantie frais médicaux » est remplacé par l'article 11.2 « Prévoyance des salariés cadres ».
+
+L'article 11.2 « Garantie frais médicaux » devient l'article 11.3 « Complémentaire frais de santé pour les salariés cadres et non cadres ».
+
+L'article 11.3 « Retraite complémentaire » devient l'article 11.4 « Retraite complémentaire ».
+
+L'article 11.2 « Prévoyance des salariés cadres » est rédigé comme suit :
+
+« 11.2. Prévoyance des salariés cadres
+
+11.2.1. Champ d'application
+
+1. Entreprises concernées par l'accord collectif de prévoyance
+
+Sont concernées par le présent accord toutes les entreprises entrant dans le champ d'application de la convention collective nationale du golf du 13 juillet 1998.
+
+2. Salariés couverts
+
+Sont couverts par le présent accord tous les salariés cadres des entreprises visées au 1 du présent article sans condition d'ancienneté.
+
+Toutefois, le régime mis en place dans le cadre de la convention collective précitée ne s'applique pas aux salariés cadres relevant de la convention collective nationale de prévoyance des ingénieurs et cadres d'entreprises agricoles du 2 avril 1952.
+
+11.2.2. Organismes assureurs
+
+La gestion du régime de prévoyance défini par le présent accord est assurée par CCPMA Prévoyance, institution de prévoyance régie par le code de la sécurité sociale, sise 21, rue de la Bienfaisance,75008 Paris.
+
+Il est précisé que la rente éducation et la rente de conjoint sont garanties par l'OCIRP, organisme commun des institutions de rente et de prévoyance, sis 10, rue Cambacérès,75008 Paris.
+
+11.2.3. Adhésion des entreprises et affiliation des salariés
+
+1. Adhésion des entreprises
+
+L'adhésion au contrat collectif de prévoyance mettant en œuvre le régime défini par le présent accord est obligatoire pour l'ensemble des entreprises visées à l'article 11.2.1.1.
+
+Cependant, les entreprises disposant déjà d'un régime de prévoyance au 1er janvier 2011 et comprenant l'ensemble des garanties pour un niveau de prestations supérieures à celles définies à l'article 11.2.4 ne sont pas tenues de remettre en cause leurs propres garanties.
+
+En revanche, les entreprises ayant mis en place avant le 1er janvier 2011 un régime de prévoyance d'un niveau égal ou inférieur aux garanties définies à l'article 11.2.4 doivent le résilier de manière à rejoindre le régime conventionnel ainsi défini à compter de la date de son entrée en vigueur.
+
+2. Affiliation des salariés
+
+Le présent accord a pour objet l'affiliation de l'ensemble des salariés visés à l'article 11.2.1.2 au contrat collectif de prévoyance.
+
+L'affiliation pour l'ensemble des garanties prend effet à compter de l'embauche du salarié.
+
+Les garanties « incapacité temporaire, incapacité permanente, invalidité et décès » définies par le présent accord, et dont bénéficient l'ensemble des salariés visés à l'article 11.2.1.2, sont mises en œuvre par ledit contrat de prévoyance sur la base du résumé des garanties définies à l'article 11.2.4.
+
+11.2.4. Définition des garanties
+
+1. Incapacité temporaire de travail
+
+En cas d'arrêt de travail consécutif à une maladie ou un accident, professionnel ou non, le salarié bénéficie du versement d'indemnités journalières complémentaires à celles versées par le régime de base-régime général.
+
+Délai de franchise :
+
+Si le salarié ne justifie pas de 1 an d'ancienneté dans l'entreprise et que par conséquent il ne peut prétendre au maintien de salaire des articles L. 1226-1 et suivants du code du travail, le versement de l'indemnité journalière complémentaire intervient :
+
+– à compter du 1er jour d'arrêt de travail, si celui-ci est consécutif à un accident du travail ou à une maladie professionnelle ;
+
+– à compter du 8e jour d'arrêt de travail, si celui-ci est consécutif à une maladie, à un accident de la vie privée ou à un accident de trajet.
+
+Si le salarié justifie de 1 an d'ancienneté dans l'entreprise :
+
+– le versement de l'indemnité journalière complémentaire intervient après le dernier jour d'absence ayant donné lieu à un complément de rémunération par l'employeur en application des articles L. 1226-1 et suivants du code du travail.
+
+Condition d'ancienneté :
+
+L'indemnité journalière sera versée à tous les salariés cadres sans condition d'ancienneté dans l'entreprise.
+
+Montant de l'indemnisation :
+
+Le cumul de l'indemnité du régime de base et de l'indemnité complémentaire ne doit pas excéder le salaire net qu'aurait perçu le salarié en activité.
+
+Le salarié qui, par le fait d'un nombre d'heures insuffisant (moins de 200 heures par trimestre civil), n'ouvre pas droit à perception des indemnités du régime de base percevra seulement le montant de l'indemnité complémentaire. Cette indemnité ne se substitue pas aux indemnités du régime de base. Les indemnités du régime de base seront calculées de manière théorique et seul le complément de rémunération sera versé.
+
+Le montant des indemnités journalières complémentaires s'élève à :
+
+Origine |
+
+Indemnisation TA |
+
+Indemnisation TB/ TC |
+
+Maladie et accident résultant de la vie privée |
+
+20 % du salaire
+
+de référence |
+
+70 % du salaire
+
+de référence |
+
+Accident du travail ou
+
+maladie professionnelle |
+
+100 % du salaire de référence (déduction faite
+
+des indemnités du régime de base) |
+
+Durée de l'indemnisation :
+
+L'indemnité complémentaire est versée jusqu'au premier des 3 événements suivants : reprise d'activité, classement en invalidité par le régime de base et mise à la retraite.
+
+2. Invalidité et incapacité permanente
+
+En cas d'invalidité de 2e ou 3e catégorie, ou en cas d'accident du travail ou de maladie professionnelle, si le salarié a un taux d'incapacité permanente supérieur ou égal à 33 %, il bénéficie du versement d'une pension complémentaire d'un montant égal à :
+
+– 20 % du salaire de référence pour la tranche A ;
+
+– 70 % du salaire de référence pour les tranches B et C.
+
+Cette pension ne pourra en aucun cas dépasser le salaire net qu'aurait perçu le salarié en activité.
+
+3. Décès
+
+En cas de décès du salarié, ses ayants droit bénéficient des prestations suivantes :
+
+– un capital décès ;
+
+– une rente éducation ;
+
+– une rente de conjoint ;
+
+– le remboursement des frais d'obsèques.
+
+Dans le cadre de la garantie décès, par conjoint, il faut entendre la personne mariée non séparée de corps. Sont assimilés au conjoint :
+
+– les personnes ayant conclu un Pacs ;
+
+– les concubins, à condition de justifier d'au moins 2 ans de vie commune et d'être libres de tout lien de mariage ou de Pacs. La condition de durée est considérée comme remplie lorsque au moins un enfant est né de cette union.
+
+Dans le cadre de la garantie décès, sont considérés comme « à charge » :
+
+– les enfants à naître ;
+
+– les enfants nés viables ;
+
+– les enfants recueillis, c'est-à-dire ceux de l'ex-conjoint éventuel, du conjoint ou du concubin ou du partenaire lié par un Pacs, du salarié décédé qui ont vécu au foyer jusqu'au moment du décès et si leur autre parent n'est pas tenu au versement d'une pension alimentaire ;
+
+– les enfants du salarié, qu'ils soient légitimes, naturels, adoptifs ou reconnus,
+
+Et ce :
+
+– jusqu'à leur 18e anniversaire, sans condition ;
+
+– jusqu'à leur 26e anniversaire et sous condition soit :
+
+– de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;
+
+– d'être en apprentissage ;
+
+– de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant, d'une part, des enseignements généraux professionnels et technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation, et, d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou de plusieurs activités professionnelles en relation avec les enseignements reçus ;
+
+– d'être, préalablement à l'exercice d'un premier emploi rémunéré inscrits auprès de Pôle emploi comme demandeurs d'emploi ou stagiaires de la formation professionnelle ;
+
+– d'être employés dans un établissement et service d'aide par le travail ou dans un métier protégé en tant que travailleurs handicapés ;
+
+– sans limitation de durée en cas d'invalidité avant le 26e anniversaire, équivalente à l'invalidité de 2e ou 3e catégorie de la sécurité sociale justifiée par un avis médical ou tant qu'ils bénéficient de l'allocation adulte handicapé et tant qu'ils sont titulaires de la carte d'invalide civil, sous réserve d'être âgés de moins de 26 ans à la date du décès du parent participant.
+
+Capital décès :
+
+En cas de décès du salarié, il sera versé au bénéficiaire désigné un capital d'un montant égal à 110 % du salaire annuel de référence.
+
+Le capital sera versé en premier lieu au (x) bénéficiaire (s) désigné (s) par le salarié et, en l'absence de désignation, dans l'ordre suivant :
+
+– au conjoint ;
+
+– à défaut, aux enfants ;
+
+– à défaut, aux parents ;
+
+– à défaut, aux grands-parents ;
+
+– à défaut, aux héritiers selon les règles de dévolution successorale.
+
+Majoration :
+
+Le capital de base est majoré de :
+
+– 50 % par enfant à charge au moment du décès ;
+
+– 50 % en cas de décès accidentel.
+
+L'accident se définit, d'une façon générale, comme l'atteinte corpo-relle, mais non intentionnelle de la part du participant, provenant de l'action soudaine et imprévisible d'une cause extérieure.
+
+Le décès ne peut être considéré comme accidentel que s'il survient dans un délai maximum de 12 mois à compter du jour de l'accident. La preuve de la nature accidentelle du décès ou de la relation de cause à effet entre l'accident et le décès incombe aux bénéficiaires. En outre, l'affiliation du participant au contrat doit toujours être en vigueur à la date du décès.
+
+Invalidité absolue et définitive :
+
+Ce capital est versé par anticipation en cas d'invalidité absolue et définitive du salarié (invalidité de 3e catégorie).
+
+Rente éducation :
+
+En cas de décès ou d'invalidité absolue et définitive du salarié, il est versé aux enfants à charge une rente égale à :
+
+– 5 % du salaire annuel brut TA/ TB-TC jusqu'au 16e anniversaire ;
+
+– 10 % du salaire annuel brut TA/ TB-TC du 16e au 18e anniversaire ;
+
+– 10 % du salaire annuel brut TA/ TB-TC du 18e au 25e anniversaire, sous la condition de poursuivre ses études.
+
+La rente est versée viagèrement aux enfants invalides déclarés avant leur 26e anniversaire. Elle est doublée pour les orphelins de père et de mère.
+
+Rente de conjoint :
+
+En cas de décès du salarié, il est versé au conjoint survivant une rente viagère d'un montant égal à 15 % du salaire annuel brut TA/ TB.
+
+Remboursement des frais d'obsèques :
+
+En cas de décès du salarié, de son conjoint ou d'un de ses enfants à charge, il sera procédé au remboursement des frais d'obsèques à celui qui les aura effectivement supporté. Ce remboursement est limité au plafond mensuel de la sécurité sociale en vigueur au moment du décès et exclut les frais relatifs à la construction d'un monument funéraire.
+
+Exclusions :
+
+Les garanties susvisées ne font l'objet d'aucune exclusion, sauf :
+
+– les exclusions générales : guerres mettant en cause l'Etat français ;
+
+– les exclusions d'ordre public : le meurtre commis ou commandité par le bénéficiaire sur la personne du participant et pour lequel il a été condamné par une décision de justice devenue définitive. Dans cette situation, la garantie est acquise aux bénéficiaires subséquents du participant.
+
+11.2.5. Salaire annuel de référence
+
+Le salaire de référence pris en compte pour le calcul des prestations correspond au total des rémunérations brutes perçues par le salarié au cours des 12 mois précédant l'événement.
+
+Il sera calculé en tenant compte de tous les éléments contractuels soumis à cotisations sociales.
+
+11.2.6. Revalorisation des prestations
+
+Les prestations servies par CCPMA Prévoyance au titre des garanties incapacité temporaire et permanente de travail sont revalorisées annuellement en fonction du pourcentage d'augmentation de la valeur du point ARRCO.
+
+Les prestations complémentaires d'incapacité de travail, temporaire et permanente, dont le versement est maintenu par un précédent organisme assureur au niveau atteint à la date d'effet de l'adhésion au contrat collectif de prévoyance ou à la date d'entrée dans le groupe assuré, sont revalorisées annuellement en fonction du pourcentage d'augmentation de la valeur du point ARRCO.
+
+Le montant des prestations rente éducation et rente de conjoint font l'objet d'une revalorisation en fonction d'un coefficient et d'une périodicité fixés par le conseil d'administration de l'OCIRP.
+
+11.2.7. Maintien des garanties au titre de la portabilité des droits prévoyance
+
+Les anciens salariés cadres dont le contrat de travail a été rompu (sauf licenciement pour faute lourde) peuvent sous certaines conditions continuer à bénéficier des garanties du présent régime de prévoyance.
+
+Condition de maintien des droits :
+
+Afin de continuer à bénéficier des garanties, les salariés doivent remplir les conditions suivantes :
+
+– avoir été affiliés et ouvrir droit au présent régime avant la rupture de leur contrat de travail ;
+
+– n'avoir pas renoncé au droit à portabilité dans le délai de 10 jours suivant la date de rupture de leur contrat de travail ;
+
+– être indemnisés par le régime de l'assurance chômage.
+
+Le salarié devra justifier auprès de son ancien employeur de ses droits à l'assurance chômage.
+
+Durée du maintien des droits :
+
+La durée de ce maintien est égale à la durée du dernier contrat de travail de l'ancien salarié appréciée en mois entiers, dans la limite de 9 mois.
+
+Le bénéfice de la portabilité des droits prévoyance est acquis sans versement de cotisation supplémentaire lors de la rupture du contrat de travail. Le financement du maintien de ces garanties étant assuré par un système de mutualisation.
+
+Le bénéfice de la portabilité des droits prévoyance du présent régime cesse :
+
+– à la fin de la durée de la portabilité, soit au plus tard 9 mois après la rupture du contrat de travail ;
+
+– à la date de reprise d'une activité professionnelle par l'ancien salarié cadre ;
+
+– dès lors que l'ancien salarié cadre ne bénéficie plus du régime de l'assurance chômage ;
+
+– en cas de révision ou de dénonciation du présent régime par l'une des parties.
+
+Indemnisation pendant la période de portabilité :
+
+Les garanties incapacité de travail ne peuvent avoir pour effet de porter le total des indemnités nettes servies à l'ancien salarié cadre par les régimes de base et complémentaires à une somme supérieure à celles des allocations chômage nettes qu'il aurait perçues au titre de la même période.
+
+11.2.8. Cotisations
+
+1. Taux, assiette, répartition des cotisations
+
+Les cotisations servant au financement des garanties définies dans le présent accord sont assises sur la totalité des rémunérations brutes entrant
+
+dans l'assiette des cotisations du régime de base de la sécurité sociale, la cotisation étant répartie à raison de 60 % à la charge de l'employeur et de 40 % à la charge du participant.
+
+Leur versement relève de la responsabilité des entreprises.
+
+Elles sont appelées pour les salariés dès leur embauche.
+
+(En pourcentage.)
+
+Prestation |
+
+Tranche A |
+
+Tranches B et C |
+
+|
+
+Part patronale |
+
+Part salariale |
+
+Totale |
+
+Part patronale |
+
+Part salariale |
+
+Totale |
+
+Capital décès |
+
+0,47 |
+
+|
+
+0,47 |
+
+0,25 |
+
+|
+
+0,25 |
+
+Rente éducation |
+
+0,16 |
+
+|
+
+0,16 |
+
+0,16 |
+
+|
+
+0,16 |
+
+Rente de conjoint* (TA/ TB) |
+
+0,58 |
+
+|
+
+0,58 |
+
+0,58 |
+
+|
+
+0,58 |
+
+Frais d'obsèques |
+
+0,02 |
+
+|
+
+0,02 |
+
+|
+
+|
+
+|
+
+Garantie décès |
+
+1,23 |
+
+|
+
+1,23 |
+
+0,99 |
+
+|
+
+0,99 |
+
+Incapacité temporaire d'origine privée |
+
+0,14 |
+
+0,05 |
+
+0,19 |
+
+|
+
+0,60 |
+
+0,60 |
+
+Incapacité temporaire d'origine professionnelle |
+
+0,05 |
+
+|
+
+0,05 |
+
+|
+
+0,05 |
+
+0,05 |
+
+Incapacité permanente et invalidité |
+
+0,08 |
+
+0,07 |
+
+0,15 |
+
+0,19 |
+
+0,14 |
+
+0,33 |
+
+Garantie incapacité et invalidité |
+
+0,27 |
+
+0,12 |
+
+0,39 |
+
+0,19 |
+
+0,79 |
+
+0,98 |
+
+Total décès + incapacité |
+
+1,50 |
+
+0,12 |
+
+1,62 |
+
+1,18 |
+
+0,79 |
+
+1,97 |
+
+2. Caractère obligatoire du régime
+
+En raison du caractère obligatoire de leur affiliation au contrat collectif de prévoyance, les salariés concernés ne pourront s'opposer au précompte de leur quote-part de cotisation.
+
+3. Evolution ultérieure des cotisations
+
+Toute augmentation de cotisations fera l'objet d'une nouvelle négociation et d'un avenant.
+
+11.2.9. Réexamen du régime
+
+Les parties signataires examineront au moins tous les 5 ans, sur la base des résultats communiqués chaque année par CCPMA Prévoyance, les conditions et les modalités de la mutualisation des risques conformément aux dispositions des articles L. 912-1 et suivants du code de la sécurité sociale.
+
+11.2.10. Durée, révision, dénonciation
+
+L'accord est conclu pour une durée indéterminée.
+
+Il pourra être modifié selon le dispositif prévu aux articles L. 2261-7 et L. 2261-8 du code du travail.
+
+Il pourra également être dénoncé à tout moment par les parties signataires du présent accord. La dénonciation sera régie par les articles L. 2261-9 et suivants du code du travail. Le préavis de dénonciation est fixé à 6 mois.
+
+En cas de dénonciation du présent accord ou de changement d'organisme assureur :
+
+– les prestations d'incapacité temporaire et permanente en cours de service seront maintenues par CCPMA Prévoyance à leur niveau atteint au jour de la résiliation ;
+
+– il appartiendra aux parties signataires du présent accord d'organiser avec le nouvel assureur la poursuite de la revalorisation des prestations incapacité temporaire et permanente ;
+
+– la couverture décès sera également maintenue aux salariés ou anciens salariés indemnisés par CCPMA Prévoyance au titre des garanties incapacité temporaire et permanente prévues au présent accord. »
