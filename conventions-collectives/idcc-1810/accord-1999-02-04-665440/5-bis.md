@@ -2,134 +2,104 @@
 
 Les salariés bénéficient d'une garantie incapacité temporaire.
 
-Les salariés ayant 24 mois d'ancienneté dans l'entreprise, celle-ci s'appréciant en tenant compte de l'application des dispositions de l'accord du 29 mars 1990 à la convention collective, ou 12 mois en cas d'accident du travail ou maladie professionnelle, ou 12 mois dans tous les cas pour les ETAM, bénéficieront :
+Les salariés non cadres et les ETAM ayant 12 mois d'ancienneté dans l'entreprise, celle-ci s'appréciant en tenant compte de l'application des dispositions de l'accord du 29 mars 1990 à la convention collective, bénéficieront :
 
-En complément des obligations d'indemnisation dues au titre des absences maladie ou accident prévues à l'article 9.07.1 ade la convention collective nationale pour la seconde période d'indemnisation conventionnelle (soit 30 jours ou plus en fonction de l'ancienneté du salarié), et à la condition d'être pris en charge par la sécurité sociale, d'une indemnité journalière égale à :
+- en complément des obligations d'indemnisation dues au titre des absences maladie ou accident, professionnel ou non professionnel, prévues à l'article 9.07.1 a de la convention collective nationale pour la seconde période d'indemnisation conventionnelle (soit 30 jours ou plus en fonction de l'ancienneté du salarié) ;
 
-ANCIENNETÉ DU SALARIÉ
+- et à la condition d'être pris en charge par la sécurité sociale,
 
-|
+d'une indemnité journalière égale à :
 
-1re PERIODE
+Ancienneté
 
-|
+du salarié |
 
-2e PERIODE
+1RE période |
 
-|
+2E période |
 
-> 2 ans ou 1 an dans le cas d'accident du travail ou de maladie professionnelle
-
-|
+1 an |
 
 90 % de la rémunération brute :
 
-(SS+ + employeur++) pendant 30 jours
+(SS* + employeur**) pendant 30 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur ++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 30 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 30 jours |
 
-|
-
-> 6 ans
-
-|
+Après 6 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) pendant 40 jours
+(SS* + employeur**) pendant 40 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 40 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 40 jours |
 
-|
-
-> 10ans
-
-|
+Après 10 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) pendant 50 jours
+(SS* + employeur**) pendant 50 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 50 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 50 jours |
 
-|
-
-> 15 ans
-
-|
+Après 15 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) pendant 60 jours
+(SS* + employeur**) pendant 60 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 60 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 60 jours |
 
-|
-
-> 20 ans
-
-|
+Après 20 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) pendant 80 jours
+(SS* + employeur**) pendant 80 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance : 12 % pendant 80 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 80 jours |
 
-|
-
-> 25 ans
-
-|
+Après 25 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) : pendant 90 jours
+(SS* + employeur**) pendant 90 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 90 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 90 jours |
 
-|
-
-> 30 ans
-
-|
+Après 30 ans |
 
 90 % de la rémunération brute :
 
-(SS + employeur) pendant 100 jours
+(SS* + employeur**) pendant 100 jours |
 
-|
+- SS* + employeur ** : 2/3 de la rémunération brute
 
-SS+ + employeur++ : 2/3 de la rémunération brute AG2R-Prévoyance+++ : 12 % pendant 100 jours de la rémunération brute
+- AG2R Prévoyance *** : 12 % de la rémunération brute pendant 100 jours |
 
-|
+* Indemnités journalières de sécurité sociale brutes.
 
-+ Indemnités journalières de sécurité sociale brutes.
+** Complément versé par l'employeur.
 
-++ Complément versé par l'employeur.
+*** Complément versé par AG2R Prévoyance.
 
-+++ Complément versé par l'AG2R-Prévoyance (nouvelle garantie).
+Cette disposition s'applique aussi en tenant compte du régime particulier d'Alsace-Moselle. |
 
-|
-
-Cette disposition s'applique aussi en tenant compte du régime particulier d'Alsace-Moselle.
-
-En tout état de cause, le cumul des indemnités de sécurité sociale nettes de CSG (contribution sociale généralisée) et de CRDS (contribution au remboursement de la dette sociale) perçues au titre du régime général de la sécurité sociale et du régime de prévoyance et du complément employeur ne pourront excéder 100 % du revenu net qu'aurait perçu le salarié s'il poursuivait son activité. Il est précisé qu'en cas d'augmentation des taux de CSG et de CRDS applicables aux indemnités journalières de la sécurité sociale, la CSG et la CRDS ne seront déduites de ces indemnités journalières de sécurité sociale que dans la limite des taux applicables au jour de signature du présent avenant. De même, tout " prélèvement ou contribution " qui serait instauré ne sera pas déduit des indemnités journalières de sécurité sociale prises en compte.
+En tout état de cause, le cumul des indemnités nettes de CSG (contribution sociale généralisée) et de CRDS (contribution au remboursement de la dette sociale) perçues au titre du régime général de la sécurité sociale et du régime de prévoyance et du complément employeur ne pourra excéder 100 % du revenu net qu'aurait perçu le salarié s'il poursuivait son activité. Par ailleurs, il est précisé que le revenu net à prendre en considération est la moyenne des revenus nets à payer des 3 derniers mois de salaires ayant précédé l'arrêt, déduction faite des sommes exonérées de charges sociales. En outre, en cas d'arrêt de travail, d'origine professionnelle ou non, pendant la période de référence, le salaire net est reconstitué.
 
 La durée du versement de cette prestation est fonction de l'ancienneté du salarié prévue à l'article 9.07.1 a.
 
 La cotisation correspondant au financement de cette garantie est à la charge exclusive des salariés.
 
-Le salaire de référence servant au calcul des prestations incapacité temporaire est égal à la moyenne mensuelle des rémunérations brutes soumises à cotisation perçues au cours des 3 derniers mois précédant l'arrêt de travail.
+Le salaire de référence servant au calcul des prestations incapacité temporaire est égal à la moyenne mensuelle des rémunérations brutes soumises à cotisation prévoyance perçues au cours des trois derniers mois précédant l'arrêt de travail. En outre, le salaire brut de référence est reconstitué en cas d'arrêt de travail, d'origine professionnelle ou non, au cours de la période de référence.

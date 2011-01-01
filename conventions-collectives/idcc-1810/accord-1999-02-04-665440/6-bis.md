@@ -39,3 +39,5 @@ Le cumul des prestations servies avec toute rémunération ou revenu de remplace
 Le salaire de référence servant au calcul des prestations invalidité est égal à la rémunération brute soumise à cotisation perçue au cours des 12 derniers mois civils précédant l'incapacité temporaire de travail.
 
 Cette rente est versée jusqu'au 60e anniversaire et au plus tard jusqu'à la date de liquidation des prestations retraite du régime d'assurance vieillesse en cas d'invalidité.
+
+NOTE : Toute référence à une condition d'âge pour le versement de la prestation garantie est supprimée : avenant n° 3 du 6 juillet 2010 article 2 BO 2010/38.

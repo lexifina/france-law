@@ -31,3 +31,5 @@ La garantie décès, telle que définie ci-dessus, est maintenue :
 - jusqu'au 60e anniversaire du participant, en cas d'invalidité indemnisée à titre complémentaire par AG2R-Prévoyance ou par l'organisme assureur de l'adhérent ;
 
 - dans tous les cas, jusqu'à la date d'acquisition de la pension du régime de base d'assurance vieillesse.
+
+NOTE : Toute référence à une condition d'âge pour le versement de la prestation garantie est supprimée : avenant n° 3 du 6 juillet 2010 article 2 BO 2010/38.
