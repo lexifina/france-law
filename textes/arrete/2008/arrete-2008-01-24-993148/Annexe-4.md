@@ -46,10 +46,6 @@ Mesures appliquées à l'ensemble du territoire métropolitain :
 
 - les compétitions internationales de pigeons voyageurs avec départ ou survol d'unités écologiques non infectées ou de zones administratives non infectées d'un pays où des cas d'influenza aviaire hautement pathogène dans l'avifaune sont limités géographiquement à une seule unité écologique ou à une seule zone administrative sont autorisées.L'unité écologique infectée ou la zone administrative infectée du pays pour lequel les compétitions sur le territoire métropolitain, avec départ ou survol de l'unité écologique infectée ou de la zone administrative infectée sont interdites, est définie par instruction du ministre en charge de l'agriculture.
 
-Mesures appliquées dans les parties du territoire national où le niveau de risque épizootique est faible :
-
-- les appelants sont soumis à des mesures de biosécurité renforcée précisées par une instruction.
-
 |
 
 Modéré.
@@ -58,7 +54,7 @@ Modéré.
 
 Mesures appliquées dans les parties du territoire national où le niveau de risque épizootique est modéré :
 
-- le transport des appelants et l'utilisation des appelants pour la chasse au gibier d'eau sont interdits. Par dérogation et dans les conditions prévues au point 3 de l'article 7, le transport d'appelants peut être autorisé dans certaines zones géographiques si une analyse du risque y détermine que l'interdiction de transport ne s'avère pas utile à la maîtrise du risque ou si le maintien en permanence sur le site de chasse n'est pas praticable. Par dérogation, l'utilisation d'appelants peut être autorisée dans certaines zones géographiques si une analyse du risque y détermine que l'interdiction d'utilisation ne s'avère pas utile à la maîtrise du risque.
+- le transport des appelants et l'utilisation des appelants pour la chasse au gibier d'eau sont interdits. Par dérogation et dans les conditions prévues au point 3 de l'article 7, le transport d'appelants peut être autorisé dans certaines zones géographiques si une analyse du risque y détermine que l'interdiction de transport ne s'avère pas utile à la maîtrise du risque ou si le maintien en permanence sur le site de chasse n'est pas praticable. Par dérogation, l'utilisation d'appelants peut être autorisée dans certaines zones géographiques si une analyse du risque y détermine que l'interdiction d'utilisation ne s'avère pas utile à la maîtrise du risque. Ces dérogations peuvent en outre être conditionnées à la mise en place d'un plan de prélèvements des appelants en vue d'analyses de laboratoire.
 
 Mesures appliquées dans les zones à risque particulier prioritaires correspondant aux communes dont la liste figure en partie 1 de l'annexe 7 et situées dans les parties du territoire national où le niveau de risque épizootique est modéré :
 
@@ -84,6 +80,8 @@ Mesures appliquées dans les parties du territoire national où le niveau de ris
 
 - les rassemblements d'oiseaux sont interdits. Les oiseaux provenant d'un lieu de détention situé dans une partie du territoire national où le niveau de risque épizootique est élevé ne peuvent participer à aucun rassemblement sur le territoire national ;
 
+- l'utilisation des appelants pour la chasse au gibier d'eau est interdite sans dérogation possible ;
+
 - par dérogation au point précédent, les oiseaux des espèces appartenant aux ordres dont la liste figure en annexe 6 sont autorisés à participer à tout rassemblement qui ont lieu sur le territoire national ;
 
 - les compétitions de pigeons voyageurs avec départ, arrivée, survol, ou participation de pigeons originaires des territoires où le niveau de risque épizootique est élevé sont interdites.
@@ -103,8 +101,6 @@ Très élevé.
 |
 
 Mesures appliquées dans les parties du territoire national où le niveau de risque épizootique est très élevé :
-
-- l'utilisation des appelants pour la chasse au gibier d'eau est interdite sans dérogation possible.
 
 - les compétitions de pigeons voyageurs avec départ ou arrivée sur le territoire métropolitain sont interdites.
 
