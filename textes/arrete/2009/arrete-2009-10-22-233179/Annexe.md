@@ -142,7 +142,7 @@ Secrétaire administratif de classe exceptionnelle
 
 |
 
-9,5%
+9,5 %
 
 |
 
@@ -496,15 +496,15 @@ Inspecteur principal de 2e classe
 
 |
 
-1,5%
+1,5 %
 
 |
 
-1,5%
+1,5 %
 
 |
 
-1,5%
+1,5 %
 
 |
 
@@ -738,15 +738,15 @@ Attaché statisticien principal
 
 |
 
-6,5%
+6,5 %
 
 |
 
-6,5%
+6,5 %
 
 |
 
-6,5%
+6,5 %
 
 |
 
@@ -754,7 +754,7 @@ Corps des contrôleurs de l'Institut national de la statistique
 
 et des études économiques
 
-(décret n° 95-376 du 10 avril 1995)
+(décret n° 2010-1719 du 30 décembre 2010)
 
 |
 
@@ -944,7 +944,7 @@ Corps des contrôleurs de la concurrence, de la consommation
 
 et de la répression des fraudes
 
-(décret n° 95-375 du 10 avril 1995)
+(décret n° 2010-1720 du 30 décembre 2010)
 
 |
 
