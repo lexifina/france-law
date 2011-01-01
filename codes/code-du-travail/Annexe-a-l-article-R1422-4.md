@@ -1,10 +1,10 @@
 # Article Annexe à l'article R1422-4
 
-TABLEAU B
+TABLEAU C
 
-EN VIGUEUR AU 1er JANVIER 2010
+EN VIGUEUR AU 1er JANVIER 2011
 
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
+SIEGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 DÉPARTEMENT
 
@@ -16,7 +16,7 @@ de grande instance
 
 |
 
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
+SIÈGE ET RESSORT DES CONSEILs DE PRUD'HOMMES
 
 |
 
@@ -64,7 +64,7 @@ Cahors
 
 |
 
-Ressort du tribunal de grande instance de Cahors.
+Ressort du tribunal de grande instance de Cahors
 
 |
 
@@ -80,7 +80,9 @@ Agen
 
 |
 
-Ressort du tribunal de grande instance d'Agen.
+Ressort des tribunaux d'instance d'Agen et Villeneuve-sur-Lot.
+
+|
 
 |
 
@@ -90,11 +92,7 @@ Marmande
 
 |
 
-Marmande
-
-|
-
-Ressort du tribunal de grande instance de Marmande.
+Ressort du tribunal d'instance de Marmande.
 
 |
 
@@ -354,7 +352,7 @@ Somme
 
 |
 
-Abbeville
+Amiens
 
 |
 
@@ -362,7 +360,9 @@ Abbeville
 
 |
 
-Ressort du tribunal de grande instance d'Abbeville.
+Ressort du tribunal d'instance d'Abbeville.
+
+|
 
 |
 
@@ -372,17 +372,11 @@ Amiens
 
 |
 
-Amiens
-
-|
-
-Ressort du tribunal de grande instance d'Amiens.
+Ressort du tribunal d'instance d'Amiens.
 
 |
 
 |
-
-Péronne
 
 |
 
@@ -390,7 +384,7 @@ Péronne
 
 |
 
-Ressort du tribunal de grande instance de Péronne.
+Ressort du tribunal d'instance de Péronne.
 
 |
 
@@ -410,7 +404,9 @@ Angers
 
 |
 
-Ressort du tribunal de grande instance d'Angers.
+Ressort des tribunaux d'instance d'Angers et Cholet.
+
+|
 
 |
 
@@ -420,11 +416,7 @@ Saumur
 
 |
 
-Saumur
-
-|
-
-Ressort du tribunal de grande instance de Saumur.
+Ressort du tribunal d'instance de Saumur.
 
 |
 
@@ -512,7 +504,7 @@ Belfort
 
 |
 
-Ressort du tribunal de grande instance de Belfort.
+Ressort du tribunal de grande d'instance de Belfort.
 
 |
 
@@ -550,7 +542,7 @@ Jura
 
 |
 
-Dole
+Lons-le-Saunier
 
 |
 
@@ -558,7 +550,9 @@ Dole
 
 |
 
-Ressort du tribunal de grande instance de Dole.
+Ressort du tribunal d'instance de Dole.
+
+|
 
 |
 
@@ -568,11 +562,7 @@ Lons-le-Saunier
 
 |
 
-Lons-le-Saunier
-
-|
-
-Ressort du tribunal de grande instance de Lons-le-Saunier.
+Ressort des tribunaux d'instance de Lons-le-Saunier et Saint-Claude.
 
 |
 
@@ -580,7 +570,7 @@ Haute-Saône
 
 |
 
-Lure
+Vesoul
 
 |
 
@@ -588,7 +578,9 @@ Lure
 
 |
 
-Ressort du tribunal de grande instance de Lure.
+Ressort du tribunal d'instance de Lure.
+
+|
 
 |
 
@@ -598,11 +590,7 @@ Vesoul
 
 |
 
-Vesoul
-
-|
-
-Ressort du tribunal de grande instance de Vesoul.
+Ressort du tribunal d'instance de Vesoul.
 
 |
 
@@ -776,20 +764,6 @@ Manche
 
 |
 
-Avranches
-
-|
-
-Avranches
-
-|
-
-Ressort du tribunal de grande instance d'Avranches.
-
-|
-
-|
-
 Cherbourg
 
 |
@@ -812,7 +786,27 @@ Coutances
 
 |
 
-Ressort du tribunal de grande instance de Coutances.
+Ressort du tribunal d'instance de Coutances.
+
+|
+
+|
+
+|
+
+Avranches
+
+|
+
+Ressort du tribunal d'instance d'Avranches.
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -1148,7 +1142,9 @@ Dunkerque
 
 |
 
-Ressort du tribunal de grande instance de Dunkerque.
+Ressort du tribunal d'instance de Dunkerque.
+
+|
 
 |
 
@@ -1158,11 +1154,7 @@ Hazebrouck
 
 |
 
-Hazebrouck
-
-|
-
-Ressort du tribunal de grande instance d'Hazebrouck.
+Ressort du tribunal d'instance d'Hazebrouck.
 
 |
 
@@ -1364,7 +1356,7 @@ Isère
 
 |
 
-Bourgoin-Jallieu
+Vienne (*)
 
 |
 
@@ -1372,7 +1364,19 @@ Bourgoin-Jallieu
 
 |
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu.
+Ressort du tribunal d'instance de Bourgoin-Jallieu.
+
+|
+
+|
+
+|
+
+Vienne
+
+|
+
+Ressort du tribunal d'instance de Vienne.
 
 |
 
@@ -1392,15 +1396,9 @@ Ressort du tribunal de grande instance de Grenoble.
 
 |
 
-Vienne
-
 |
 
-Vienne
-
 |
-
-Ressort du tribunal de grande instance de Vienne.
 
 |
 
@@ -1420,7 +1418,9 @@ Brive
 
 |
 
-Ressort du tribunal de grande instance de Brive.
+Ressort du tribunal d'instance de Brive.
+
+|
 
 |
 
@@ -1430,11 +1430,7 @@ Tulle
 
 |
 
-Tulle
-
-|
-
-Ressort du tribunal de grande instance de Tulle.
+Ressort du tribunal d'instance de Tulle.
 
 |
 
@@ -1478,21 +1474,19 @@ Ain
 
 |
 
-Belley
-
-|
-
-Belley
-
-|
-
-Ressort du tribunal de grande instance de Belley.
-
-|
-
-|
-
 Bourg-en-Bresse
+
+|
+
+Belley
+
+|
+
+Ressort du tribunal d'instance de Belley.
+
+|
+
+|
 
 |
 
@@ -1520,20 +1514,6 @@ Loire
 
 |
 
-Montbrison
-
-|
-
-Montbrison
-
-|
-
-Ressort du tribunal de grande instance de Montbrison.
-
-|
-
-|
-
 Roanne
 
 |
@@ -1552,11 +1532,31 @@ Saint-Etienne
 
 |
 
+Montbrison
+
+|
+
+Ressort du tribunal d'instance de Montbrison.
+
+|
+
+|
+
+|
+
 Saint-Etienne
 
 |
 
-Ressort du tribunal de grande instance de Saint-Etienne.
+Ressort du tribunal d'instance de Saint-Etienne.
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -1676,7 +1676,7 @@ Aveyron
 
 |
 
-Millau
+Rodez
 
 |
 
@@ -1684,7 +1684,9 @@ Millau
 
 |
 
-Ressort du tribunal de grande instance de Millau.
+Ressort du tribunal d'instance de Millau.
+
+|
 
 |
 
@@ -1694,11 +1696,7 @@ Rodez
 
 |
 
-Rodez
-
-|
-
-Ressort du tribunal de grande instance de Rodez.
+Ressort du tribunal d'instance de Rodez.
 
 |
 
@@ -1836,7 +1834,9 @@ Epinal
 
 |
 
-Ressort du tribunal de grande instance d'Epinal.
+Ressort du tribunal d'instance d'Epinal.
+
+|
 
 |
 
@@ -1846,11 +1846,7 @@ Saint-Dié-des-Vosges
 
 |
 
-Saint-Dié-des-Vosges
-
-|
-
-Ressort du tribunal de grande instance de Saint-Dié-des-Vosges.
+Ressort du tribunal d'instance de Saint-Dié-des-Vosges.
 
 |
 
@@ -2132,7 +2128,7 @@ Créteil
 
 |
 
-Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly et de l'emprise de l'aérodrome de Paris-Orly.
+Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly.
 
 |
 
@@ -2144,7 +2140,7 @@ Villeneuve-Saint-Georges
 
 |
 
-Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly et l'emprise de l'aérodrome de Paris-Orly.
+Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly.
 
 |
 
@@ -2290,7 +2286,9 @@ La Rochelle
 
 |
 
-Ressort du tribunal de grande instance de La Rochelle.
+Ressort du tribunal d'instance de La Rochelle.
+
+|
 
 |
 
@@ -2300,11 +2298,7 @@ Rochefort
 
 |
 
-Rochefort
-
-|
-
-Ressort du tribunal de grande instance de Rochefort.
+Ressort du tribunal d'instance de Rochefort.
 
 |
 
@@ -2326,7 +2320,7 @@ Deux-Sèvres
 
 |
 
-Bressuire
+Niort
 
 |
 
@@ -2334,7 +2328,9 @@ Thouars
 
 |
 
-Ressort du tribunal de grande instance de Bressuire.
+Ressort du tribunal d'instance de Bressuire.
+
+|
 
 |
 
@@ -2344,11 +2340,7 @@ Niort
 
 |
 
-Niort
-
-|
-
-Ressort du tribunal de grande instance de Niort.
+Ressort du tribunal d'instance de Niort.
 
 |
 
@@ -2484,17 +2476,7 @@ Côtes-d'Armor
 
 |
 
-Dinan
-
-|
-
-Dinan
-
-|
-
-Ressort du tribunal de grande instance de Dinan.
-
-|
+Saint-Brieuc
 
 |
 
@@ -2502,11 +2484,9 @@ Guingamp
 
 |
 
-Guingamp
+Ressort du tribunal d'instance de Guingamp.
 
 |
-
-Ressort du tribunal de grande instance de Guingamp.
 
 |
 
@@ -2516,11 +2496,7 @@ Saint-Brieuc
 
 |
 
-Saint-Brieuc
-
-|
-
-Ressort du tribunal de grande instance de Saint-Brieuc.
+Ressort du tribunal d'instance de Saint-Brieuc.
 
 |
 
@@ -2536,7 +2512,9 @@ Brest
 
 |
 
-Ressort du tribunal de grande instance de Brest.
+Ressort du tribunal d'instance de Brest.
+
+|
 
 |
 
@@ -2546,11 +2524,7 @@ Morlaix
 
 |
 
-Morlaix
-
-|
-
-Ressort du tribunal de grande instance de Morlaix.
+Ressort du tribunal d'instance de Morlaix.
 
 |
 
@@ -2590,11 +2564,23 @@ Saint-Malo
 
 |
 
+Dinan (Côtes-d'Armor)
+
+|
+
+Ressort du tribunal d'instance de Dinan.
+
+|
+
+|
+
+|
+
 Saint-Malo
 
 |
 
-Ressort du tribunal de grande instance de Saint-Malo.
+Ressort du tribunal d'instance de Saint-Malo.
 
 |
 
@@ -2674,7 +2660,19 @@ Vichy
 
 |
 
-Ressort du tribunal de grande instance de Cusset.
+Ressort du tribunal d'instance de Vichy.
+
+|
+
+|
+
+|
+
+Moulins
+
+|
+
+Ressort du tribunal d'instance de Moulins.
 
 |
 
@@ -2689,20 +2687,6 @@ Montluçon
 |
 
 Ressort du tribunal de grande instance de Montluçon.
-
-|
-
-|
-
-Moulins
-
-|
-
-Moulins
-
-|
-
-Ressort du tribunal de grande instance de Moulins.
 
 |
 
@@ -2750,7 +2734,9 @@ Clermont-Ferrand
 
 |
 
-Ressort du tribunal de grande instance de Clermont-Ferrand.
+Ressort des tribunaux d'instance de Clermont-Ferrand et Thiers.
+
+|
 
 |
 
@@ -2760,11 +2746,7 @@ Riom
 
 |
 
-Riom
-
-|
-
-Ressort du tribunal de grande instance de Riom.
+Ressort du tribunal d'instance de Riom.
 
 |
 
@@ -2776,21 +2758,19 @@ Eure
 
 |
 
-Bernay
-
-|
-
-Bernay
-
-|
-
-Ressort du tribunal de grande instance de Bernay.
-
-|
-
-|
-
 Evreux
+
+|
+
+Bernay
+
+|
+
+Ressort du tribunal d'instance de Bernay.
+
+|
+
+|
 
 |
 
@@ -2890,7 +2870,9 @@ Toulouse
 
 |
 
-Ressort du tribunal de grande instance de Toulouse.
+Ressort des tribunaux d'instance de Muret et Toulouse.
+
+|
 
 |
 
@@ -2900,11 +2882,7 @@ Saint-Gaudens
 
 |
 
-Saint-Gaudens
-
-|
-
-Ressort du tribunal de grande instance de Saint-Gaudens
+Ressort du tribunal d'instance de Saint-Gaudens
 
 |
 
@@ -3251,5 +3229,9 @@ Saint-Pierre
 |
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
+
+|
+
+(*) Siège provisoire dans l'attente de la future localisation du TGI.
 
 |
