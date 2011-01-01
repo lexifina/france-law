@@ -4,12 +4,38 @@ Le montant annuel des ressources du foyer, mentionné au premier alinéa de l'ar
 
 Le taux de réduction prévu à l'article 2 du présent décret est défini en fonction du nombre d'unités de consommation de la manière suivante :
 
-Nombre d'unités de consommation, taux de réduction.
+NOMBRE D'UNITÉS
 
-1, 30 %.
+de consommation
 
-1 < UC < 2, 40 %.
+|
 
-> ou = 2, 50 %.
+TAUX DE RÉDUCTION
+
+|
+
+1
+
+|
+
+40 %
+
+|
+
+1 < UC < 2
+
+|
+
+50 %
+
+|
+
+> ou = 2
+
+|
+
+60 %
+
+|
 
 Le plafond de consommation prévu à l'article 2 du présent décret est de 100 kWh par mois.
