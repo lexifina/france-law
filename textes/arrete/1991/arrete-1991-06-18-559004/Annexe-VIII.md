@@ -54,11 +54,11 @@ Arrêté du 30 septembre 1975 modifié
 
 |
 
--1 an après l'attribution de la carte blanche ;
+- 1 an après l'attribution de la carte blanche ;
 
 |
 
--échéance de validité du contrôle technique avant attribution de la carte blanche
+- échéance de validité du contrôle technique avant attribution de la carte blanche
 
 |
 
@@ -94,7 +94,7 @@ Carte orange (en l'absence de la mention véhicule-école sur le certificat d'im
 
 |
 
-Régime général de l'AM du 18 / 06 / 1991
+Régime général de l'AM du 18/06/1991
 
 |
 
@@ -164,11 +164,11 @@ arrêté du 29 novembre 1994 modifié
 
 |
 
-F. Véhicule de collection
+H. Véhicule de collection
 
 |
 
-Certificat d'immatriculation avec mention d'usage " Véhicule de collection "
+Certificat d'immatriculation avec mention d'usage "Véhicule de collection"
 
 |
 
@@ -219,3 +219,23 @@ Arrêté du 1er juin 2001 dit arrêté ADR
 Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg |
 
 Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds |
+
+PARTIE C
+
+Véhicules soumis à des contrôles complémentaires
+
+FONCTIONS COMPLEMENTAIRES
+
+|
+
+VEHICULES CONCERNES
+
+|
+
+G. - Contrôle complémentaire de l'installation de gaz carburant sur véhicule
+
+|
+
+Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes : EG, GP, PE, FG, EN, GN, NE, FN
+
+|
