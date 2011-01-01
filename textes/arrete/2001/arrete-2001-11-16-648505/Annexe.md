@@ -110,30 +110,6 @@ Directeur du service d'information du Gouvernement
 
 |
 
-Directeur du développement des médias
-
-|
-
-1
-
-|
-
-150
-
-|
-
-Délégué à la modernisation de la gestion publique et des structures de l'Etat
-
-|
-
-1
-
-|
-
-140
-
-|
-
 Directeur à la direction générale de l'administration et de la fonction publique
 
 |
@@ -158,15 +134,13 @@ Directeur de l'agence pour le développement de l'administration électronique
 
 |
 
-Directeur de projet, chargé de l'accompagnement du regroupement à Strasbourg de l'essentiel des activités de l'Ecole nationale d'administration
-
-|
+Chef de service, directeur de l'académie du renseignement |
 
 1
 
 |
 
-80
+110
 
 |
 
@@ -235,30 +209,6 @@ Secrétaire général de la direction de l'information légale et administrative
 |
 
 110
-
-|
-
-Chef de service, adjoint au directeur du développement des médias
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Sous-directeur à la direction du développement des médias
-
-|
-
-3
-
-|
-
-80
 
 |
 
@@ -336,7 +286,7 @@ Chef de service
 
 |
 
-100
+110
 
 |
 
@@ -394,7 +344,7 @@ Directeur général du Centre d'analyse stratégique
 
 |
 
-Directeur adjoint du Centre d'analyse stratégique
+Chef de service, adjoint du directeur général
 
 |
 
@@ -421,6 +371,16 @@ D'EMPLOIS
 NOMBRE
 
 de points par emploi
+
+|
+
+Chef de service, chargé de la prospective, des études de l'évaluation et de l'action internationale |
+
+1
+
+|
+
+110
 
 |
 
