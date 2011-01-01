@@ -1,29 +1,27 @@
-# Article Annexe 150-1.A.3
+# Article Annexe 150-1.III
 
-EXEMPLES DE "MOTIFS EVIDENTS" JUSTIFIANT UNE INSPECTION DETAILLEE
+NOTIFICATION
 
-(Visée au paragraphe 3 de l'article 150-1.05)
+(visé à l'article 150-1.9, §1)
 
-1 Les navires énumérés à l'annexe 150-1.A.1, partie 1 et partie 2, paragraphe 2.3, 2.4, 2.5 (deuxième alinéa), 2.5 (troisième alinéa) et 2.8.
+Informations à fournir en vertu de l'article 150-1.09, paragraphe 1 :
 
-2 Le registre des hydrocarbures n'a pas été tenu correctement.
+Les informations énumérées ci-dessous sont communiquées à l'autorité ou organisme portuaire ou à l'autorité ou organisme désignés pour assurer cette fonction au moins trois jours avant la date prévue de l'arrivée au port ou au mouillage ou avant que le navire ne quitte le port ou mouillage précédent si le voyage doit durer moins de trois jours :
 
-3 Des inexactitudes ont été constatées lors de l'examen des certificats et autres documents de bord (article 6, paragraphe 1 et paragraphe 2).
+a) Identification du navire (nom, indicatif d'appel, numéro d'identification OMI ou numéro MMSI) ;
 
-4 Des éléments indiquent que les membres de l'équipage ne sont pas à même de satisfaire aux exigences de l'article 8 de la directive 94/58/CE du Conseil, du 22 novembre 1994, concernant le niveau minimal de formation des gens de Mer.
+b) Durée prévue de l'escale ;
 
-5 Les règles de sécurité ou les directives de l'OMI ont été transgressées au niveau de la cargaison ou d'autres opérations (teneur en oxygène supérieure au niveau maximal prescrit dans les conduites acheminant le gaz inerte vers les citernes à cargaison, par exemple).
+c) Pour les navires-citernes :
 
-6 Le capitaine d'un pétrolier n'est pas en mesure de produire le relevé établi dans le cadre du système de surveillance et de contrôle du rejet des hydrocarbures pour le dernier voyage sur lest.
+i) configuration : simple coque, simple coque avec SBT, double coque ;
 
-7 Le rôle d'équipage n'est pas à jour ou les membres d'équipage ignorent leurs tâches en cas d'incendie ou d'abandon du navire.
+ii) état des citernes à cargaison et à ballast : pleines, vides, inertées ;
 
-8 De faux appels de détresse ont été envoyés sans être suivis des procédures d'annulation appropriées.
+iii) volume et nature de la cargaison ;
 
-9 Les principaux équipements ou dispositifs exigés par les conventions sont manquants.
+d) Opérations envisagées au port ou au mouillage de destination (chargement, déchargement, autres) ;
 
-10 Les conditions d'hygiène à bord du navire sont déficientes.
+e) Inspections et visites réglementaires envisagées et travaux de maintenance et de réparation importants qui seront effectués dans le port de destination ;
 
-11 L'impression générale et les observations de l'inspecteur permettent d'établir qu'il existe de graves détériorations ou anomalies dans la coque ou la structure du navire risquant de mettre en péril son intégrité, son étanchéité ou sa résistance aux intempéries.
-
-12 Des éléments indiquent ou prouvent que le capitaine ou l'équipage ne connaît pas les opérations essentielles à bord concernant la sécurité des navires ou la prévention de la pollution, ou que ces opérations n'ont pas été effectuées.
+f) Date de la dernière inspection renforcée effectuée dans la région couverte par le mémorandum d'entente de Paris.

@@ -1,49 +1,23 @@
-# Article Annexe 150-1.A.11
+# Article Annexe 150-1.XI
 
-EXIGENCES INTERNATIONALES ET COMMUNAUTAIRES CONCERNANT LES DISPOSITIFS D'ENREGISTREMENT DES DONNÉES DU VOYAGE (VDR) ET LES SYSTÈMES D'IDENTIFICATION AUTOMATIQUE (AIS))
+FONCTIONNALITÉS DE LA BASE DE DONNÉES DES INSPECTIONS
 
-A. - Dispositifs d'enregistrement des données du voyage (VDR)
+(visées à l'article 150-1.24, 1)
 
-Les navires entrant dans les catégories suivantes qui font escale dans un port d'un État membre de l'Union européenne sont équipés d'un dispositif d'enregistrement des données du voyage correspondant aux normes établies par la résolution A.861(20) de l'OMI et aux normes d'essais établies par la norme n°61996 de la Commission électrotechnique internationale (CEI) :
+1. La base de données des inspections effectuées au titre de la directive est intégrée au système d'information hébergé par l'Agence européenne de sécurité maritime. Ce système d'information est dénommé THETIS (The Hybrid European Targeting and Inspection System).
 
-- les navires à passagers construits à partir du 1er juillet 2002,
+2. La personne chargée et les inspecteurs se fient à THETIS qui :
 
-- les navires rouliers à passagers construits avant le 1er juillet 2002, au plus tard à la date de la première visite effectuée à partir du 1er juillet 2002,
+- intègre les données d'inspection des Etats membres et de tous les signataires du mémorandum d'entente de Paris ;
 
-- les navires à passagers autres que les navires rouliers à passagers construits avant le 1er juillet 2002, au plus tard le 1er janvier 2004,
+- fournit des données relatives au profil de risque des navires et aux navires devant subir une inspection ;
 
-- les navires autres que les navires à passagers d'une jauge brute égale ou supérieure 3000, et construits à partir du 1er juillet 2002.
+- calcule les obligations de chaque Etat membre en matière d'inspection ;
 
-Les navires entrant dans les catégories suivantes et construits avant le 1er juillet 2002 qui font escale dans un port d'un État membre de l'Union européenne sont équipés d'un dispositif d'enregistrement des données du voyage correspondant aux normes de l'OMI applicables en la matière :
+- fournit la liste blanche ainsi que la liste grise et la liste noire des Etats du pavillon visées à l'article 16, paragraphe 1 ;
 
-.1 les navires de charge d'une jauge brute égale ou supérieure 20 000, lors du premier passage en cale sèche prévu après le1er juillet 2006, mais au plus tard le 1er juillet 2009 ;
+- fournit des données sur le respect des normes par les compagnies ; et
 
-.2 les navires de charge d'une jauge brute égale ou supérieure 3 000 mais inférieure à 20 000, lors du premier passage en cale sèche prévu après le 1er juillet 2007, mais au plus tard le 1er juillet 2010 ;
+- désigne les points à risque soumis à vérification lors de chaque inspection ;
 
-.3 les administrations peuvent exempter de l'application des prescriptions des alinéas .1 et .2 les navires de charge qui seront mis définitivement hors service dans les deux ans qui suivent la date d'application spécifiée aux alinéas .1 et .2 ci-dessus.
-
-B. - Système d'identification automatique (AIS)
-
-1. Navires construits le 1er juillet 2002 ou après cette date :
-
-Les navires à passagers, quelles que soient leurs dimensions, et tous les navires d'une jauge brute égale ou supérieure à 300 construits le 1er juillet 2002 ou après cette date, faisant escale dans un port d'un État membre de la Communauté européenne, sont soumis à l'exigence d'emport d'un système d'identification automatique (AIS).
-
-2. Navires construits avant le 1er juillet 2002 :
-
-Les navires à passagers, quelles que soient leurs dimensions, et tous les navires d'une jauge brute égale ou supérieure à 300 construits avant le 1er juillet 2002 faisant escale dans un port d'un État membre de la Communauté européenne sont soumis à l'exigence d'emport d'un système d'identification automatique (AIS) selon le calendrier suivant :
-
-a) Navires à passagers : au plus tard le 1er juillet 2003 ;
-
-b) Navires-citernes : au plus tard lors de la première visite du matériel de sécurité survenant après le 1er juillet 2003 ;
-
-c) Navires autres que les navires à passagers et navires-citernes, d'une jauge brute égale ou supérieure à 50 000 : au plus tard le 1er juillet 2004 ;
-
-d) Navires autres que les navires à passagers et navires-citernes, d'une jauge brute égale ou supérieure à 10 000 mais inférieure à 50 000 : au plus tard le 1er juillet 2005 ou, en ce qui concerne les navires effectuant des traversées internationales, à toute date antérieure arrêtée dans le cadre de l'OMI (1) ;
-
-e) Navires, autres que les navires à passagers et navires-citernes, d'une jauge brute égale ou supérieure à 3 000 mais inférieure à 10 000 : au plus tard le 1er juillet 2006 ou, en ce qui concerne les navires effectuant des traversées internationales, à toute date antérieure arrêtée dans le cadre de l'OMI (1) ;
-
-f) Navires, autres que les navires à passagers et navires-citernes, d'une jauge brute égale ou supérieure à 300 mais inférieure à 3 000 : au plus tard le 1er juillet 2007 ou, en ce qui concerne les navires effectuant des traversées internationales, à toute date antérieure arrêtée dans le cadre de l'OMI .
-
-NOTA :
-
-1 La conférence SOLAS 2002 a décidé que la mise en conformité de ces navires doit avoir lieu au plus tard lors de la première visite du matériel de sécurité qui a lieu après le 1er juillet 2004 ou d'ici au 31 décembre 2004, si cette dernière date est plus rapprochée.
+- établit la liste des navires éligibles au refus d'accès.

@@ -1,93 +1,397 @@
-# Article Annexe 150-1.A.2
+# Article Annexe 150-1.II
 
-LISTE DES CERTIFICATS ET DOCUMENTS
+PROFIL DE RISQUE DES NAVIRES
 
-(visés au paragraphe 1 de l'article 150-1.05)
+(visé à l'article 150-1.10, §2)
 
-1 Certificat international de jauge (1969).
+|
 
-2 - Certificat de sécurité pour navire à passagers ;
+PROFIL DE RISQUE
 
-- Certificat de sécurité de construction pour navire de charge ;
+|
 
-- Certificat de sécurité du matériel d'armement pour navire de charge ;
+Navires à risque élevé
 
-- Certificat de sécurité radiotélégraphique pour navire de charge ;
+(NRÉ)
 
-- Certificat de sécurité radio pour navire de charge ;
+|
 
-- Certificat d'exemption comprenant, le cas échéant, la liste des cargaisons ;
+Navires à
 
-- Certificat de sécurité pour navire de charge.
+risque normal
 
-3 Certificat international d'aptitude au transport de gaz liquéfiés en vrac ; ou
+(NRN
 
-Certificat d'aptitude au transport de gaz liquéfiés en vrac.
+|
 
-4 Certificat international d'aptitude au transport de produits chimiques dangereux en vrac ; ou
+Navires à risques faibles
 
-Certificat d'aptitude au transport de produits chimiques dangereux en vrac.
+(NRF)
 
-5 Certificat international de prévention de la pollution par les hydrocarbures.
+|
 
-6 Certificat international de prévention de la pollution par les substances nuisibles liquides transportées en vrac.
+Paramètres génériques
 
-7 Certificat international de franc-bord (1966) ; ou
+|
 
-Certificat international d'exemption de franc-bord.
+Critères
 
-8 Registre des hydrocarbures (parties I et II).
+|
 
-9 Registre de la cargaison.
+Pondération
 
-10 Document spécifiant les effectifs minimaux de sécurité et certificats délivrés conformément à la convention STCW.
+(en points)
 
-11 Certificats médicaux (cf. convention de l'OIT n° 73 concernant l'examen médical des gens de mer).
+|
 
-12 Renseignements sur la stabilité.
+Critères
 
-13 Copie de l'attestation de conformité et du certificat de gestion de la sécurité délivrés conformément au code international de gestion pour la sécurité de l'exploitation des navires et la prévention de la pollution (code ISM) en vertu de la convention SOLAS chapitre IX.
+|
 
-14 Certificats concernant la solidité de la coque et les installations de propulsion du navire, délivrés par la société de classification concernée (à requérir seulement si le navire est classé par une société de classification).
+Critères
 
-15 Attestation de conformité aux dispositions spéciales concernant les navires qui transportent des marchandises dangereuses.
+|
 
-16 Certificat de sécurité pour engin à grande vitesse et permis d'exploiter un engin à grande vitesse.
+1
 
-17 Liste spéciale ou manifeste des marchandises dangereuses, ou plan de chargement détaillé.
+|
 
-18 Journal de bord du navire pour les comptes rendus d'exercices d'alerte et registre de contrôle et d'entretien des appareils et dispositifs de sauvetage.
+Type de navire
 
-19 Certificat de sécurité pour navire spécialisé.
+|
 
-20 Certificat de sécurité pour plate-forme mobile de forage en mer.
+Chimiquier
 
-21 Pour les pétroliers, relevé établi dans le cadre du système de surveillance et de contrôle du rejet des hydrocarbures pour le dernier voyage sur lest.
+Gazier Pétrolier
 
-22 Rôle d'équipage, plan de lutte contre l'incendie et, pour les navires à passagers, plan de lutte contre les avaries.
+Vraquier
 
-23 Plan d'urgence en cas de pollution par les hydrocarbures à bord.
+Navires à
 
-24 Rapports de visites (pour les vraquiers et pétroliers).
+passagers
 
-25 Rapports d'inspection établis lors de précédents contrôles par l'État du port.
+|
 
-26 Pour les navires rouliers à passagers, informations sur le rapport A/A max.
+2
 
-27 Attestation autorisant le transport de céréales.
+|
 
-28 Manuel d'assujettissement de la cargaison.
+Ni un navire à risque élevé ni un navire à risque faible
 
-29 Plan de gestion et registre des ordures.
+|
 
-30 Système d'aide à la décision pour les capitaines des navires à passagers.
+Tous types
 
-31 Plan de coopération en matière de recherche et de sauvetage pour les navires à passagers exploités sur des liaisons fixes.
+|
 
-32 Liste des limites opérationnelles pour les navires à passagers.
+2
 
-33 Livret pour les navires vraquiers.
+|
 
-34 Plan de chargement et déchargement pour les navires vraquiers.
+Âge du navire
 
-35 Certificat d'assurance ou autre garantie financière concernant la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures (convention internationale sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, 1992).
+|
+
+Tous types > 12 ans
+
+|
+
+1
+
+|
+
+Tous âges
+
+|
+
+3a
+
+|
+
+Pavillon
+
+|
+
+Listes noire, grise et blanche
+
+|
+
+Noir - Risque
+
+très élevé
+
+Risque élevé
+
+Risque moyen à élevé
+
+|
+
+2
+
+|
+
+Blanc
+
+|
+
+Noir - Risque
+
+moyen
+
+|
+
+1
+
+|
+
+|
+
+3b
+
+|
+
+Audit OMI
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Oui
+
+|
+
+4a
+
+|
+
+Organismes agréées
+
+|
+
+Performance
+
+|
+
+Élevée
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Élevée
+
+|
+
+Moyenne
+
+|
+
+-
+
+|
+
+|
+
+-
+
+|
+
+Faible
+
+|
+
+Faible
+
+|
+
+1
+
+|
+
+-
+
+|
+
+Très faible
+
+|
+
+Très faible
+
+|
+
+-
+
+|
+
+4b
+
+|
+
+Agréé UE
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Oui
+
+|
+
+5
+
+|
+
+Compagnies
+
+|
+
+Performance
+
+|
+
+Élevée
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Moyenne
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Faible
+
+|
+
+Faible
+
+|
+
+2
+
+|
+
+-
+
+|
+
+Très faible
+
+|
+
+Très faible
+
+|
+
+-
+
+|
+
+Paramètres historiques
+
+|
+
+|
+
+|
+
+|
+
+6
+
+|
+
+Nombre d'anomalies enregistrées lors de chaque inspection au cours 36 derniers mois
+
+|
+
+Anomalies
+
+|
+
+Sans objet
+
+|
+
+-
+
+|
+
+< 5 (et au moins une inspection effectuée au cours des 36 derniers mois)
+
+|
+
+7
+
+|
+
+Nombre d'immobilisations cours des 36 derniers mois
+
+|
+
+Immobilisations
+
+|
+
+> 2 immobilisations
+
+|
+
+1
+
+|
+
+Pas d'immobilisation
+
+|
+
+NRÉ sont des navires qui remplissent les critères à concurrence d'une pondération totale de 5 points ou plus.
+
+NRF sont des navires qui remplissent tous les critères dans le cadre des paramètres applicables au risque faible.
+
+NRN sont des navires qui ne sont ni NRÉ ni NRF.
+
+|
+
+.

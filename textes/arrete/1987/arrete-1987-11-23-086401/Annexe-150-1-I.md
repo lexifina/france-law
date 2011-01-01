@@ -1,67 +1,163 @@
-# Article Annexe 150-1.A.1
+# Article Annexe 150-1.I
 
-LISTE DES NAVIRES A INSPECTER PRIORITAIREMENT
+ÉLÉMENTS DU SYSTÈME COMMUNAUTAIRE D'INSPECTION PAR L'ÉTAT DU PORT
 
-(Conformément aux dispositions du paragraphe 2 de l'article 150-1.04)
+(visés à l'article 150-1.5)
 
-1 Facteurs prépondérants
+Le système communautaire d'inspection par l'Etat du port comprend les éléments suivants :
 
-Indépendamment de la valeur du coefficient de ciblage, l'inspection des navires entrant dans l'une des catégories suivantes est considérée comme une priorité absolue.
+I. - Profil de risque des navires.
 
-1.1 Les navires signalés par les pilotes ou les autorités portuaires comme présentant des anomalies susceptibles de compromettre la sécurité de la navigation (conformément à la directive 93/75/CEE du Conseil, du 13 septembre 1993, et à l'article 13 de cette directive).
+Le profil de risque d'un navire est déterminé par la combinaison des paramètres génériques et historiques suivants :
 
-1.2 Les navires qui ne satisfont pas aux obligations imposées par la directive 93/75/CEE.
+1. Paramètres génériques.
 
-1.3 Les navires ayant fait l'objet d'un rapport ou d'une notification d'un autre État membre.
+a) Type de navire.
 
-1.4 Les navires ayant fait l'objet d'une plainte émanant du capitaine, d'un membre d'équipage ou de toute personne ou organisation ayant un intérêt légitime dans la sécurité d'exploitation du navire, les conditions de vie et de travail à bord ou la prévention de la pollution, sauf si l'État membre concerné juge le rapport ou la plainte manifestement non fondé ; l'identité de la personne dont émane le rapport ou la plainte ne doit pas être révélée au capitaine ni au propriétaire du navire concerné.
+Les navires à passagers, les pétroliers, les navires-citernes pour gaz et produits chimiques et les vraquiers sont réputés présenter un risque plus élevé.
 
-1.5 Les navires ayant :
+b) Age du navire.
 
-- été impliqués dans un abordage, un échouage ou un échouement en faisant route vers le port ;
+Les navires de plus de douze ans sont réputés présenter un profil de risque plus élevé.
 
-- été accusés ou soupçonnés d'avoir violé les dispositions applicables au rejet de substances ou effluents nuisibles ;
+c) Action de l'Etat du pavillon en matière de contrôle.
 
-- manœuvrés de façon incontrôlée ou peu sûre sans respecter les mesures d'organisation du trafic ou les pratiques et procédures de navigation sûres ; ou ,
+i) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est élevé au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé.
 
-- été, à d'autres égards, exploités de manière à présenter un danger pour les personnes, les biens ou l'environnement.
+ii) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est faible au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible.
 
-1.6 Les navires ayant fait l'objet, durant les six mois précédents, d'une suspension de leur classe pour des raisons de sécurité.
+iii) Les navires battant le pavillon d'un Etat pour lesquels un audit a été mené à bien ou, le cas échéant, un plan comportant des mesures correctives a été présenté, les deux conformément aux code et procédures pour le système d'audit volontaire des Etats membres de l'OMI, sont réputés présenter un risque plus faible. Dès que les modalités visées à l'article 10, paragraphe 3, sont adoptées, l'Etat du pavillon d'un navire de ce type doit avoir démontré la conformité au code pour l'application des instruments obligatoires de l'OMI.
 
-2 Coefficient global de ciblage
+d) Organismes agréés.
 
-L'inspection des navires entrant dans l'une des catégories ci-après est considérée comme prioritaire :
+i) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est faible ou très faible compte tenu de leur taux d'immobilisation au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé.
 
-2.1 Navires faisant escale pour la première fois dans un port d'un État membre ou après une absence de douze mois ou plus. Pour l'application de ces critères, le Centre de Sécurité des Navires tient également compte des inspections effectuées par des membres du mémorandum d'entente. En l'absence de données appropriées à cet effet, le Centre de Sécurité des Navires se fondent sur les informations contenues dans la base de données SIRENAC et inspectent les navires qui n'ont pas été enregistrés dans cette base depuis sa création le 1er janvier 1993.
+ii) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est élevé compte tenu de leur taux d'immobilisation au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible.
 
-2.2 Navires n'ayant fait l'objet d'aucune inspection dans un autre État membre au cours des six mois précédents.
+iii) Les navires munis de certificats délivrés par des organismes agréés conformément au règlement (CE) n° 391/2009.
 
-2.3 Les navires dont les certificats obligatoires relatifs à la construction et à l'équipement du navire, délivrés conformément aux conventions, et les certificats de classification ont été délivrés par des organismes qui ne sont pas agréés aux termes de la directive 94/57/CE du Conseil, du 22 novembre 1994, établissant des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires et les activités pertinentes des administrations maritimes.
+e) Respect des normes par les compagnies.
 
-2.4 Navires battant pavillon d'un État figurant sur la liste noire publiée dans le rapport annuel du mémorandum d'entente de Paris.
+i) Les navires d'une compagnie dont le respect des normes est faible ou très faible compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé.
 
-2.5 Navires qui ont été autorisés à quitter le port d'un État membre sous certaines conditions :
+ii) Les navires d'une compagnie dont le respect des normes est élevé compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible.
 
-- anomalie à corriger avant le départ ;
+2. Paramètres historiques.
 
-- anomalie à corriger au prochain port d'escale ;
+i) Les navires ayant été immobilisés plus d'une fois sont réputés présenter un risque plus élevé.
 
-- anomalies à corriger dans les 14 jours ;
+ii) Les navires pour lesquels les inspections ont révélé moins d'anomalies que le nombre prévu à l'annexe II au cours de la période visée à l'annexe II sont réputés présenter un risque plus faible.
 
-- anomalies pour lesquelles d'autres conditions ont été spécifiées.
+iii) Les navires qui n'ont pas été immobilisés au cours de la période visée à l'annexe II sont réputés présenter un risque plus faible.
 
-Si des actions appropriées ont été engagées et toutes anomalies supprimées, il en est tenu compte.
+Les paramètres de risque sont combinés et affectés d'une pondération reflétant l'influence relative de chaque paramètre sur le risque global que présente le navire, afin de définir les profils de risque suivants :
 
-2.6 Navires sur lesquels des anomalies ont été relevées lors d'une précédente inspection, suivant le nombre d'anomalies.
+- risque élevé ;
 
-2.7 Navires qui ont été immobilisés dans un port précédent.
+- risque normal ;
 
-2.8 Navires battant pavillon d'un pays qui n'a pas ratifié toutes les conventions internationales visées à l'article 150-1.01.
+- risque faible.
 
-2.9 Les navires classés au sein d'une société de classification avec un coefficient d'anomalies supérieur à la moyenne.
+Les paramètres se rapportant au type de navire, à l'action de l'Etat du pavillon en matière de contrôle, aux organismes agréés et au respect des normes par les compagnies jouent un rôle prépondérant dans la détermination de ces profils de risque.
 
-2.10 Les navires des catégories visées à l'annexe 150-1.A.5, section A. 2.11 Les navires de plus de 13 ans d'âge.
+II. - Inspection des navires.
 
-Concernant les navires énumérés ci-dessus, l'autorité compétente détermine l'ordre de priorité des inspections à l'aide du coefficient global de ciblage affiché dans le système d'information SIRENAC conformément à l'annexe 1, section 1, du mémorandum d'entente de Paris : à coefficient élevé, priorité élevée. Le coefficient global de ciblage est égal à la somme des valeurs du coefficient applicables, comme indiqué ci-dessus. Les points 2.5, 2.6 et 2.7 ne concernent que les inspections effectuées au cours des 12 derniers mois. le coefficient global de ciblage ne doit pas être inférieur à la somme des valeurs correspondant aux points 2.3, 2.4, 2.8, 2.9, 2.10 et 2.11.
+1. Inspections périodiques.
 
-Cependant, aux fins de l'article 150-1. 06, paragraphe 4, le coefficient global de ciblage ne prend pas en compte le point 2.10.
+Les inspections périodiques ont lieu à intervalles déterminés à l'avance. Leur fréquence est déterminée par le profil de risque des navires. L'intervalle entre les inspections périodiques de navires présentant un profil de risque élevé n'excède pas six mois. L'intervalle entre les inspections périodiques de navires présentant d'autres profils de risque s'accroît à mesure que le risque diminue.
+
+La personne chargée sélectionne pour inspection périodique :
+
+- tout navire présentant un profil de risque élevé qui n'a pas été inspecté dans un port ou mouillage de la Communauté ou de la région couverte par le mémorandum de Paris au cours des six derniers mois. Les navires présentant un profil de risque élevé sont susceptibles d'être inspectés dès le cinquième mois ;
+
+- tout navire présentant un profil de risque normal qui n'a pas été inspecté dans un port ou mouillage de la Communauté ou de la région couverte par le mémorandum de Paris au cours des douze derniers mois. Les navires présentant un profil de risque normal sont susceptibles d'être inspectés dès le dixième mois ;
+
+- tout navire présentant un profil de risque faible qui n'a pas été inspecté dans un port ou un mouillage dans la Communauté ou la région couverte par le mémorandum de Paris au cours des trente-six derniers mois. Les navires présentant un profil de risque faible sont susceptibles d'être inspectés dès le vingt-quatrième mois.
+
+2. Inspections supplémentaires.
+
+Les navires auxquels s'appliquent les facteurs prépondérants ou imprévus énumérés ci-après sont soumis à une inspection quel que soit le laps de temps écoulé depuis leur dernière inspection périodique. La nécessité de procéder à une inspection supplémentaire en cas de facteurs imprévus est toutefois laissée au jugement professionnel de la personne chargée.
+
+2. A. - Facteurs prépondérants.
+
+Les navires auxquels s'appliquent les facteurs prépondérants énumérés ci-après sont inspectés quel que soit le laps de temps écoulé depuis leur dernière inspection périodique :
+
+- les navires ayant fait l'objet, depuis la dernière inspection effectuée dans la Communauté ou dans la région couverte par le mémorandum d'entente de Paris, d'une suspension ou d'un retrait de classe pour des raisons de sécurité ;
+
+- les navires ayant fait l'objet d'un rapport ou d'une notification d'un autre Etat membre ;
+
+- les navires qui ne sont pas identifiables dans la base de données des inspections.
+
+- les navires :
+
+- qui ont été impliqués dans une collision, un échouage ou un échouement en faisant route vers le port ;
+
+- qui ont été accusés d'avoir violé les dispositions applicables au rejet de substances ou effluents nuisibles, ou ;
+
+- qui ont manœuvré de façon incontrôlée ou peu sûre sans respecter les mesures d'organisation du trafic adoptées par l'OMI ou les pratiques et procédures de navigation sûres.
+
+2. B. - Facteurs imprévus.
+
+Les navires auxquels s'appliquent les facteurs imprévus énumérés ci-après peuvent faire l'objet d'une inspection quel que soit le laps de temps écoulé depuis leur dernière inspection périodique. La décision de procéder à une telle inspection supplémentaire est laissée au jugement professionnel de la personne chargée :
+
+- les navires qui ont contrevenu à la version applicable de la recommandation de l'OMI concernant le pilotage aux approches de la mer Baltique ;
+
+- les navires munis de certificats délivrés par un organisme anciennement agréé dont l'agrément a été retiré depuis la dernière inspection effectuée dans la Communauté ou dans la région couverte par le mémorandum de Paris ;
+
+- les navires signalés par les pilotes ou les autorités portuaires comme présentant des anomalies manifestes susceptibles de compromettre la sécurité de la navigation ou de constituer une menace pour le milieu marin conformément à l'article 150-1.23 de la présente directive ;
+
+- les navires qui ne satisfont pas aux obligations de notification applicables visées à l'article 150-1.9 de la présente directive, aux directives 2000/59/CE et 2002/59/CE et, le cas échéant, au règlement (CE) n° 725/2004 ;
+
+- les navires ayant fait l'objet d'un rapport ou d'une plainte émanant du capitaine, d'un membre d'équipage ou de toute personne ou organisation ayant un intérêt légitime dans la sécurité d'exploitation du navire, les conditions de vie et de travail à bord ou la prévention de la pollution, sauf si la personne chargée juge le rapport ou la plainte manifestement non fondés ;
+
+- les navires ayant déjà fait l'objet d'une immobilisation plus de trois mois auparavant ;
+
+- les navires qui ont été signalés comme présentant des anomalies non encore corrigées, à l'exception de ceux dont les anomalies devaient être corrigées dans un délai de quatorze jours après leur départ et de ceux dont les anomalies devaient être corrigées avant leur départ ;
+
+- les navires pour lesquels des problèmes ont été signalés en ce qui concerne leur cargaison, notamment les cargaisons nocives et dangereuses ;
+
+- les navires ayant été exploités de manière à présenter un danger pour les personnes, les biens ou l'environnement ;
+
+- les navires dont des informations de source sûre indiquent que les paramètres de risque sont différents de ceux enregistrés et que le profil de risque est de ce fait plus élevé.
+
+3. Système de sélection.
+
+3. A. - Les navires de "priorité I" sont inspectés comme suit :
+
+a) Une inspection renforcée est effectuée sur :
+
+- tout navire qui présente un profil de risque élevé et qui n'a pas été inspecté au cours des six derniers mois ;
+
+- tout navire à passagers, pétrolier, navire-citerne pour gaz ou produits chimiques ou vraquier, de plus de douze ans, qui présente un profil de risque normal et qui n'a pas été inspecté au cours des douze derniers mois ;
+
+b) Une inspection initiale ou une inspection détaillée, selon le cas, est effectuée sur :
+
+- tout navire autre qu'un navire à passagers, un pétrolier, un navire citerne pour gaz ou produits chimiques ou un vraquier, de plus de douze ans, qui présente un profil de risque normal et qui n'a pas été inspecté au cours des douze derniers mois ;
+
+c) En cas d'élément impérieux :
+
+- une inspection détaillée ou une inspection renforcée, selon le jugement professionnel de l'inspecteur, est effectuée sur tout navire qui présente un profil de risque élevé et sur tout navire à passagers, pétrolier, navire-citerne pour gaz ou produits chimiques ou vraquier, de plus de douze ans ;
+
+- une inspection détaillée est effectuée sur tout navire autre qu'un navire à passagers, un pétrolier, un navire-citerne pour gaz ou produits chimiques ou un vraquier, de plus de douze ans.
+
+3. B. - Lorsque la personne chargée décide de faire inspecter un navire de "priorité II", les dispositions suivantes s'appliquent :
+
+a) Une inspection renforcée est effectuée sur :
+
+- tout navire qui présente un profil de risque élevé et qui n'a pas été inspecté au cours des cinq derniers mois ;
+
+- tout navire à passagers, pétrolier, navire-citerne pour gaz ou produits chimiques ou vraquier, de plus de douze ans, qui présente un profil de risque normal et qui n'a pas été inspecté au cours des dix derniers mois, ou
+
+- tout navire à passagers, pétrolier, navire-citerne pour gaz ou produits chimiques ou vraquier, de plus de douze ans, qui présente un profil de risque faible et qui n'a pas été inspecté au cours des vingt-quatre derniers mois ;
+
+b) Une inspection initiale ou une inspection détaillée, selon le cas, est effectuée sur :
+
+- tout navire autre qu'un navire à passagers, un pétrolier, un navire-citerne pour gaz ou produits chimiques ou un vraquier, de plus de douze ans, qui présente un profil de risque normal et qui n'a pas été inspecté au cours des dix derniers mois, ou ;
+
+- tout navire autre qu'un navire à passagers, un pétrolier, un navire-citerne pour gaz ou produits chimiques ou un vraquier, de plus de douze ans, qui présente un profil de risque faible et qui n'a pas été inspecté au cours des vingt-quatre derniers mois ;
+
+c) En cas d'élément imprévu :
+
+- une inspection détaillée ou une inspection renforcée, selon le jugement professionnel de l'inspecteur, est effectuée sur tout navire qui présente un profil de risque élevé ou sur tout navire à passagers, pétrolier, navire-citerne pour gaz ou produits chimiques ou vraquier, de plus de douze ans ;
+
+- une inspection détaillée est effectuée sur tout navire autre qu'un navire à passagers, un pétrolier, un navire-citerne pour gaz ou produits chimiques ou un vraquier, de plus de douze ans.

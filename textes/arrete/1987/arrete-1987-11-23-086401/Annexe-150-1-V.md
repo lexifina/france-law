@@ -1,141 +1,61 @@
-# Article Annexe 150-1.A.5
+# Article Annexe 150-1.V
 
-A. CATEGORIES DE NAVIRES SOUMIS A UNE INSPECTION RENFORCEE
+EXEMPLES DE MOTIFS ÉVIDENTS
 
-(En vertu des dispositions du paragraphe 1 de l'article 150-1.06)
+(visés à l'article 150-1.13, point 3)
 
-1. Navires-citernes pour gaz et produits chimiques, de plus de dix ans calculés à partir de la date de construction figurant dans les certificats de sécurité du navire.
+A. - Exemples de motifs évidents justifiant une inspection détaillée.
 
-2. Vraquiers de plus de douze ans calculés sur la base de la date de construction figurant dans les certificats de sécurité du navire.
+1. Les navires énumérés à l'annexe 150-1.I, partie II, points 2.A et 2.B.
 
-3. Pétroliers d'une jauge brute supérieure à 3 000 et de plus de quinze ans calculés sur la base de la date de construction figurant dans les certificats de sécurité du navire.
+2. Le registre des hydrocarbures n'a pas été tenu correctement.
 
-4. Navires à passagers de plus de quinze ans autres que les navires à passagers visés par la division 180, article 180.02.
+3. Des inexactitudes ont été constatées lors de l'examen des certificats et autres documents de bord.
 
-B. INFORMATIONS A NOTIFIER A L'AUTORITE COMPETENTE
+4. Des éléments indiquent que les membres de l'équipage ne sont pas à même de satisfaire aux exigences en matière de communication à bord définies à l'article 18 de la directive 2008/106/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau minimal de formation des gens de mer.
 
-(en vertu des dispositions du paragraphe 3 de l'article 150-1.06)
+5. Un brevet a été obtenu d'une manière frauduleuse ou la personne qui possède un brevet n'est pas celle à laquelle ce brevet avait été initialement délivré.
 
-A. nom,
+6. Le capitaine, un officier ou un matelot du navire possède un brevet délivré par un pays qui n'a pas ratifié la convention STCW 78/95.
 
-B. pavillon,
+7. Les règles de sécurité ou les directives de l'OMI ont été transgressées au niveau de la cargaison ou d'autres opérations, par exemple teneur en oxygène supérieure au niveau maximal prescrit dans les conduites acheminant le gaz inerte vers les citernes à cargaison.
 
-C. numéro OMI d'identification du navire,
+8. Le capitaine d'un pétrolier n'est pas en mesure de produire le relevé établi dans le cadre du système de surveillance et de contrôle du rejet des hydrocarbures pour le dernier voyage sur lest.
 
-D. jauge brute,
+9. Le rôle d'équipage n'est pas à jour ou les membres d'équipage ignorent leurs tâches en cas d'incendie ou d'abandon du navire.
 
-E. date de construction du navire, déterminée sur la base de la date figurant dans les certificats de sécurité du navire,
+10. De faux appels de détresse ont été envoyés sans être suivis des procédures d'annulation appropriées.
 
-F. pour les navires-citernes :
+11. Les principaux équipements ou dispositifs exigés par les conventions sont manquants.
 
-- F.a. configuration simple coque, simple coque avec SBT, double coque,
+12. Conditions d'hygiène déplorables à bord du navire.
 
-- F.b. états des citernes à cargaison et à ballast : pleines, vides, inertées,
+13. L'impression générale et les observations de l'inspecteur permettent d'établir qu'il existe de graves détériorations ou anomalies dans la coque ou la structure du navire risquant de mettre en péril son intégrité, son étanchéité ou sa résistance aux intempéries.
 
-- F.c. volume et nature de la cargaison,
+14. Des éléments indiquent ou prouvent que le capitaine ou l'équipage ne connaissent pas les opérations essentielles à bord concernant la sécurité des navires ou la prévention de la pollution, ou que ces opérations n'ont pas été effectuées.
 
-G. heure probable d'arrivée au port de destination ou à la station de pilotage, comme requis par l'autorité compétente,
+15. Absence de tableau précisant l'organisation du travail à bord ou de registres des heures de travail et de repos des marins.
 
-H. durée prévue de l'escale,
+B. - Exemples de motifs évidents justifiant le contrôle de la sûreté des navires.
 
-I. opérations envisagées au port de destination (chargement, déchargement, autres),
+1. L'inspecteur peut estimer qu'il existe des motifs évidents d'arrêter des mesures de contrôle supplémentaires en matière de sûreté lors de l'inspection initiale dans le cadre du contrôle par l'Etat du port dans les circonstances suivantes :
 
-J. inspection et visites obligatoires envisagées et travaux de maintenance et de réparation importants qui seront effectués dans le port de destination.
+1.1. L'ISSC n'est pas valide ou est arrivé à expiration ;
 
-C. PROCEDURES RELATIVES A L'INSPECTION RENFORCEE DE CERTAINES CATEGORIES DE NAVIRES VISES EN SECTION A.
+1.2. Le navire présente un niveau de sûreté inférieur à celui du port ;
 
-Sous réserve de sa faisabilité matérielle ou de limitation éventuelles liées à la sécurité des personnes, du navire ou du port, l'inspection renforcée doit porter au moins sur les points ci-après. Les inspecteurs doivent avoir conscience que les contrôles effectués à bord en cours d'exécution de certaines opérations, telles que la manutention de la cargaison, sur lesquelles ils ont une incidence directe, peuvent porter atteinte à la sécurité de ces opérations.
+1.3. Les exercices liés à la sûreté du navire n'ont pas été réalisés ;
 
-1. TOUS NAVIRES (toutes catégories de la section A)
+1.4. Le dossier des renseignements sur les dix dernières activités d'interface navire/port ou navire/navire est incomplet ;
 
-- Panne générale d'électricité et mise en marche du générateur de secours ; Inspection de l'éclairage de secours ;
+1.5. Il ressort de certains éléments ou il a été constaté que les membres clés du personnel du navire ne sont pas capables de communiquer entre eux ;
 
-- Fonctionnement de la pompe d'incendie de secours, avec deux lances branchées sur la conduite principale ;
+1.6. Il ressort de constatations que les arrangements relatifs à la sûreté comportent de graves lacunes ;
 
-- Fonctionnement des pompes d'assèchement ;
+1.7. Des informations émanant de tiers, comme un rapport ou une plainte, concernant des informations liées à la sûreté ont été communiquées ;
 
-- Fermeture des portes étanches ;
+1.8. Le navire est titulaire d'un certificat international de sûreté du navire (ISSC) provisoire faisant suite à un autre certificat provisoire et, selon le jugement professionnel de l'inspecteur, l'une des raisons pour lesquelles le navire ou la compagnie a sollicité un tel certificat est de se soustraire à l'obligation de satisfaire pleinement au chapitre XI-2 de la convention SOLAS 74 et à la partie A du code ISPS au-delà de la période de validité du certificat ISSC provisoire initial. La partie A du code ISPS définit les circonstances dans lesquelles un certificat provisoire peut être délivré.
 
-- Mise à l'eau d'une embarcation de sauvetage ;
+2. Si l'existence de motifs évidents au sens de ce qui précède est établie, l'inspecteur informe sans délai l'autorité de sûreté compétente (sauf si l'inspecteur est lui-même un agent de sûreté dûment habilité). L'autorité de sûreté compétente décide alors quelles sont les mesures de contrôle supplémentaires compte tenu du niveau de sûreté conformément à la règle 9 de la convention SOLAS 74, chapitre XI.
 
-- Essai de la télécommande d'arrêt d'urgence des chaudières, de la ventilation et des pompes à combustible ;
-
-- Essai de l'appareil à gouverner et de l'appareil à gouverner auxiliaire ;
-
-- Inspection des sources d'alimentation électriques de secours des installations radio ;
-
-- Inspection et, dans la mesure du possible, essai du séparateur d'eaux mazouteuses de la salle des machines.
-
-2. PETROLIERS
-
-Outre ceux énumérés au paragraphe 1 ci-dessus, les points suivants sont considérés comme relevant de l'inspection renforcée des pétroliers :
-
-- Système fixe de production de mousse installé sur le pont ; Système de lutte contre l'incendie ;
-
-- Inspection des extincteurs installés dans la salle des machines, la salle des pompes et les logements ;
-
-- Contrôle de la pression du gaz inerte et de son contenu en oxygène ;
-
-- Vérification de la présence à bord des documents ci-après ; contrôle de ceux-ci et confirmation de leur approbation par l'Etat du pavillon ou la société de classification :
-
-1) rapports sur les visites concernant les structures,
-
-2) rapports sur l'évaluation de l'état du navire,
-
-3) rapports sur les mesures de l'épaisseur,
-
-4) document descriptif visé par la résolution A.744(18) de l'OMI.
-
-- Citernes à ballast : au moins l'une des citernes à ballast se trouvant dans la zone de cargaison est examinée tout d'abord à partir de l'accès à la citerne par le trou d'homme, le pont puis à l'intérieur si l'inspecteur établit qu'il existe des motifs évidents qui justifient la poursuite de l'inspection.
-
-3. VRAQUIERS
-
-Outre ceux énumérés au paragraphe 1 ci-dessus, les points suivants sont considérés comme relevant de l'inspection renforcée des vraquiers :
-
-- Corrosion éventuelle du bâti des machines de pont ;
-
-- Déformation et/ou corrosion éventuelle des panneaux d'écoutille ;
-
-- Fissuration et corrosion localisée éventuelle des cloisons transversales
-
--Accès aux cales ;
-
-- Vérification de la présence à bord des documents ci-après ; contrôle de ceux-ci et confirmation de leur approbation par l'Etat du pavillon ou la société de classification :
-
-1) rapports sur les visites concernant les structures,
-
-2) rapports sur l'évaluation de l'état du navire,
-
-3) rapports sur les mesures de l'épaisseur,
-
-4) document descriptif visé par la résolution A.744(18) de l'OMI.
-
-4. NAVIRES-CITERNES POUR GAZ ET PRODUITS CHIMIQUES
-
-Outre ceux énumérés au paragraphe 1 ci-dessus les points suivants sont considérés comme relevant de l'inspection renforcée des navires-citernes pour gaz et produits chimiques :
-
-- Dispositifs de contrôle et de sécurité des citernes de cargaison en ce qui concerne la température, la pression et le niveau ;
-
-- Analyseurs d'oxygène et explosimètres, y compris leur calibrage. Présence de matériel de détection de produits chimiques (soufflets) comportant un nombre approprié de tubes de détection de gaz spécifiques à la cargaison transportée ;
-
-- Matériel d'évacuation d'urgence des cabines assurant une protection respiratoire et oculaire adéquate pour toute personne à bord du navire (si ce matériel est requis pour les produits énumérés dans le certificat international d'aptitude ou le certificat d'aptitude au transport de produits chimiques dangereux en vrac ou au transport de gaz liquéfiés en vrac, selon le cas) ;
-
-- Vérification que le produit transporté est énuméré dans le certificat international d'aptitude ou le certificat d'aptitude au transport de produits chimiques dangereux en vrac ou au transport de gaz liquéfiés en vrac, selon le cas ;
-
-- L'installation fixe de lutte contre l'incendie se trouvant sur le pont, qu'il s'agisse de mousse ou de produit chimique en poudre ou d'un autre produit selon le produit transporté.
-
-5. NAVIRES A PASSAGERS non visés par l'article 180-02 (division 180)
-
-Outre les points énumérés au paragraphe 1 ci-dessus, les points suivants sont considérés comme relevant de l'inspection renforcée des navires à passagers :
-
-- Essai du système de détection des incendies et d'alarme ;
-
-- Contrôle de la fermeture des portes coupe-feu ;
-
-- Essai du système de diffusion générale ;
-
-- Exercice d'incendie, avec au minimum essai de tous les équipements de lutte contre l'incendie et participation d'une partie du personnel de cuisine ;
-
-- Connaissance du plan pour le contrôle des navires à passagers après avarie, par les principaux membres de l'équipage.
-
-Si cela s'avère opportun, l'inspection peut se poursuivre pendant que le navire fait route vers le port français ou s'en éloigne, avec le consentement du capitaine ou de l'exploitant. Les inspecteurs ne font pas obstruction au fonctionnement du navire et ne provoquent pas de situation susceptible, de l'avis du capitaine, de mettre en péril la sécurité des passagers, de l'équipage et du navire.
+3. Les motifs évidents autres que ceux qui sont décrits ci-dessus relèvent de la compétence de l'agent de sûreté dûment habilité.

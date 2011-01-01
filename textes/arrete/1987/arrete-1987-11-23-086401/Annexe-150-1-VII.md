@@ -1,71 +1,37 @@
-# Article Annexe 150-1.A.7
+# Article Annexe 150-1.VII
 
-PUBLICATION D'INFORMATIONS RELATIVES AUX IMMOBILISATIONS ET AUX INSPECTIONS DANS LES PORTS FRANÇAIS.
+INSPECTION RENFORCÉE DES NAVIRES
 
-(Visées à l'article 150-1.15)
+(visés à l'article 150-1.14)
 
-I. Les informations publiées conformément à l'article 150-1.15, paragraphe 1, comprennent les éléments suivants :
+L'inspection renforcée porte notamment sur l'état général des points à risque suivants :
 
-- le nom du navire ;
+- documents ;
 
-- le numéro OMI ;
+- état de la structure ;
 
-- le type de navire ;
+- état en ce qui concerne la résistance aux intempéries ;
 
-- la jauge brute ;
+- systèmes d'urgence ;
 
-- l'année de construction, déterminée sur la base de la date figurant dans les certificats de sécurité du navire ;
+- radiocommunications ;
 
-- le nom et l'adresse de l'armateur ou de l'exploitant du navire ;
+- opérations de manutention de la cargaison ;
 
-- pour les navires transportant des cargaisons liquides ou solides en vrac, le nom et l'adresse de l'affréteur responsable du choix du navire et le type de l'affrètement ;
+- sécurité incendie ;
 
-- l'Etat du pavillon ;
+- alarmes ;
 
-- la société de classification ou les sociétés de classification, suivant le cas, qui a ou ont délivré pour ce navire des certificats de classification, le cas échéant ;
+- conditions de vie et de travail ;
 
-- la société de classification ou les sociétés de classification et/ou toute autre partie qui a ou ont délivré pour ce navire des certificats conformément aux conventions applicables au nom de l'Etat du pavillon, avec mention des certificats délivrés ;
+- matériel de navigation ;
 
-- le port et la date de la dernière inspection renforcée et, le cas échéant, l'indication qu'une immobilisation a été prononcée,
+- engins de sauvetage ;
 
-- le port et la date de la dernière visite spéciale, et le nom de l'organisme qui a effectué la visite ;
+- marchandises dangereuses ;
 
-- le nombre des immobilisations au cours des 24 derniers mois ; le pays et le port d'immobilisation ;
+- propulsion et machines auxiliaires ;
 
-- la date de levée de l'immobilisation ;
+- prévention de la pollution.
 
-- la durée de l'immobilisation en jours ;
-
-- le nombre d'anomalies constatées et les raisons de l'immobilisation, en termes clairs et explicites ;
-
-- la description des mesures de suivi de l'immobilisation prises par l'autorité compétente et, le cas échéant, par la société de classification ;
-
-- si le navire fait l'objet d'un refus à l'entrée d'un port de la Communauté, les raisons de ce refus, en termes clairs et explicites ;
-
-- l'indication, le cas échéant, que la responsabilité de la société de classification ou de tout autre organisme privé ayant effectué la visite est engagée dans les anomalies qui, seules ou en combinaison, ont entraîné une immobilisation ;
-
-- la description des mesures prises dans le cas d'un navire autorisé à poursuivre sa route jusqu'au chantier de réparation approprié le plus proche ou qui a été interdit d'entrée à tous les ports de la Communauté.
-
-II. Les informations concernant les navires inspectés, rendues publiques conformément à l'article 150-1.15, paragraphe 2, comprenant les éléments suivants :
-
-- le nom du navire ;
-
-- le numéro OMI ;
-
-- le type de navire ;
-
-- la jauge brute ;
-
-- l'année de construction ;
-
-- le nom et l'adresse de l'armateur ou de l'exploitant du navire ;
-
-- pour les navires transportant des cargaisons liquides ou solides en vrac, le nom et l'adresse de l'affréteur responsable du choix du navire et le type d'affrètement ;
-
-- l'Etat du pavillon ;
-
-- la société de classification ou les sociétés de classification, suivant le cas, qui a ou ont délivré pour ce navire des certificats de classification, le cas échéant ;
-
-- la société de classification ou les société de classification et/ou toute autre partie qui a ou ont délivré pour ce navire des certificats conformément aux conventions applicables au nom de l'Etat du pavillon, avec mention des certificats délivrés ; - le pays, le port et la date d'inspection ;
-
-- le nombre et la nature des anomalies, par catégories d'anomalie.
+En outre, sous réserve de sa faisabilité matérielle ou de limitations éventuelles liées à la sécurité des personnes, du navire ou du port, l'inspection renforcée suppose de vérifier des points à risque spécifiques en fonction du type de navire inspecté, conformément à l'article 150-1.14, paragraphe 3.
