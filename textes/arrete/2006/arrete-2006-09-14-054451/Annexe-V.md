@@ -6,4 +6,4 @@ Définition des épreuves ponctuelles et des situations d'évaluation
 
 NOTA :
 
-Le présent arrêté et ses annexes III, IV et VI seront publiés au Bulletin officiel du ministère de l'éducation nationale du 19 octobre 2006.
+Arrêté du 26 mars 2010 art 4 : Les dispositions du présent arrêté sont applicables à compter de la session 2011.
