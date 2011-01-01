@@ -56,6 +56,8 @@ Les catégories de matériels roulants sont précisées par arrêté conjoint de
 
 Les matériels roulants retenus pour le calcul de l'imposition sont ceux dont les entreprises ferroviaires ont la disposition au 1er janvier de l'année d'imposition et qui sont destinés à être utilisés sur le réseau ferré national pour des opérations de transport de voyageurs. Par exception, les matériels roulants destinés à être utilisés sur le réseau ferré national pour des opérations de transport international de voyageurs dans le cadre de regroupements internationaux d'entreprises ferroviaires sont retenus pour le calcul de l'imposition des entreprises ferroviaires qui fournissent ces matériels dans le cadre de ces regroupements.
 
+Ne sont pas retenus pour le calcul de l'imposition les matériels roulants destinés à circuler en France exclusivement sur les sections du réseau ferré national reliant, d'une part, une intersection entre le réseau ferré national et une frontière entre le territoire français et le territoire d'un Etat limitrophe et, d'autre part, la gare française de voyageurs de la section concernée la plus proche de cette frontière.
+
 Lorsque du matériel roulant est destiné à être utilisé à la fois sur le réseau ferré national et sur les lignes de transport en commun de voyageurs mentionnées aux premier et deuxième alinéas de l'article 2 de l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France, ce matériel est retenu pour le calcul de l'imposition s'il est destiné à être utilisé principalement sur le réseau ferré national.
 
 IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie.

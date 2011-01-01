@@ -6,6 +6,14 @@ A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 s
 
 a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou transférés vers une telle installation située dans un autre Etat :
 
+|
+
+|
+
+QUOTITÉ EN EUROS
+
+|
+
 DÉSIGNATION DES MATIÈRES
 
 ou opérations imposables
@@ -15,14 +23,6 @@ ou opérations imposables
 UNITÉ
 
 de perception
-
-|
-
-QUOTITÉ EN EUROS
-
-|
-
-|
 
 |
 
@@ -50,7 +50,7 @@ QUOTITÉ EN EUROS
 
 |
 
-A compter
+A COMPTER
 
 de 2015
 
@@ -94,7 +94,25 @@ Tonne
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :
 
-A.-Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 |
 
@@ -114,11 +132,11 @@ Tonne
 
 |
 
-24
+20
 
 |
 
-24
+22
 
 |
 
@@ -130,7 +148,7 @@ Tonne
 
 |
 
-B.-Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.
+B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.
 
 |
 
@@ -166,7 +184,43 @@ Tonne
 
 |
 
-C.-Autre.
+C. ― Stockés et traités selon la méthode d'exploitation du bioréacteur : dans un casier équipé dès sa construction des équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier étant inférieure à dix-huit mois et l'installation étant équipée d'un dispositif de valorisation du biogaz mentionné dans l'arrêté préfectoral d'autorisation.
+
+|
+
+Tonne
+
+|
+
+0
+
+|
+
+0
+
+|
+
+7
+
+|
+
+10
+
+|
+
+10
+
+|
+
+10
+
+|
+
+14
+
+|
+
+D. ― Autre.
 
 |
 
@@ -202,11 +256,19 @@ Tonne
 
 |
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A ou au B du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée aux A, B ou C du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
-Cette réduction est égale à 0, 50 € par tonne en 2009, 0, 60 € par tonne en 2010 et 2011, 0, 70 € par tonne en 2012, 0, 80 € par tonne en 2013, 0, 90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
+Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
 
 b) Déchets ménagers et assimilés réceptionnés dans une installation d'incinération de déchets ou transférés vers une telle installation située dans un autre Etat :
+
+|
+
+|
+
+QUOTITÉ EN EUROS
+
+|
 
 DÉSIGNATION DES MATIÈRES
 
@@ -217,14 +279,6 @@ ou opérations imposables
 UNITÉ
 
 de perception
-
-|
-
-QUOTITÉ EN EUROS
-
-|
-
-|
 
 |
 
@@ -244,7 +298,7 @@ QUOTITÉ EN EUROS
 
 |
 
-A compter
+A COMPTER
 
 de 2013
 
@@ -252,7 +306,21 @@ de 2013
 
 Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle installation située dans un autre Etat :
 
-A.-Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 |
 
@@ -268,11 +336,11 @@ Tonne
 
 |
 
-6, 4
+5,20
 
 |
 
-6, 4
+6,40
 
 |
 
@@ -280,7 +348,7 @@ Tonne
 
 |
 
-B.-Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des ministres chargés du budget et de l'environnement, est élevé.
+B. ― Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des ministres chargés du budget et de l'environnement, est élevé.
 
 |
 
@@ -288,19 +356,19 @@ Tonne
 
 |
 
-3, 5
+3,50
 
 |
 
-3, 5
+3,50
 
 |
 
-5, 6
+4,55
 
 |
 
-5, 6
+5,60
 
 |
 
@@ -308,7 +376,7 @@ Tonne
 
 |
 
-C.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg / Nm ³.
+C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.
 
 |
 
@@ -316,19 +384,19 @@ Tonne
 
 |
 
-3, 5
+3,50
 
 |
 
-3, 5
+3,50
 
 |
 
-5, 6
+4,55
 
 |
 
-5, 6
+5,60
 
 |
 
@@ -336,7 +404,7 @@ Tonne
 
 |
 
-D.-Relevant à la fois du A et du B, du A et du C, du B et du C ou des A, B et C qui précèdent.
+D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.
 
 |
 
@@ -352,11 +420,11 @@ Tonne
 
 |
 
-3, 2
+2,60
 
 |
 
-3, 2
+3,20
 
 |
 
@@ -364,7 +432,7 @@ Tonne
 
 |
 
-Autres.
+E. ― Autre.
 
 |
 
@@ -380,11 +448,11 @@ Tonne
 
 |
 
-11, 2
+11,20
 
 |
 
-11, 2
+11,20
 
 |
 
@@ -394,15 +462,17 @@ Tonne
 
 Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
-Cette réduction est égale à 0, 50 € par tonne en 2009 et 2010, 0, 80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
+Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
 
-Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
+c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
 
 Le tarif visé au B du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz à plus de 75 % et le 31 décembre de l'année au titre de laquelle la taxe est due.
 
 Le tarif visé au B du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant une performance énergétique de niveau élevé et le 31 décembre de l'année au titre de laquelle la taxe est due.
 
-Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au titre de laquelle la taxe est due
+Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au C du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de début d'exploitation du casier dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et le 31 décembre de l'année au titre de laquelle la taxe est due. En cas de non-respect de la condition de durée de comblement du casier inférieure à dix-huit mois, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif visé aux A ou D du tableau du a.
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -492,7 +562,7 @@ Tonne
 
 |
 
-51, 89 (53,39 en 2009)
+51, 89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 |
 
@@ -678,7 +748,15 @@ Kilogramme
 
 |
 
-1 bis.A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Sacs de caisse à usage unique en matière plastique |
+
+Kilogramme |
+
+10 |
+
+|
+
+1 bis. A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 Toutefois, l'alinéa précédent ne s'applique :
 
@@ -686,13 +764,17 @@ a) Qu'à compter du 1er janvier 2010 aux tarifs applicables aux poussières tota
 
 b) Qu'à compter du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ;
 
-c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
+c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1 ;
+
+d) Qu'à compter du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par installation.
 
 3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000 kilogrammes.
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
+
+4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés ne s'applique pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011, la taxe ne s'applique pas auxdits résidus.
 
 5. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée à ce titre en application du titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en application du même titre Ier.
 
@@ -701,3 +783,7 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur.
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 50 tonnes par an.
+
+NOTA :
+
+Loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 article 46 II : Le 1 bis de l'article ne s'applique pas aux émissions mentionnées au I du présent article au titre des années 2011 et 2012.

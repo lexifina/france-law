@@ -28,7 +28,7 @@ d) Tout document ou programme audiovisuel ne comportant qu'accessoirement des é
 
 III.-1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes effectuées en France :
 
-a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des oeuvres, ainsi que les charges sociales afférentes ;
+a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle , ainsi que les charges sociales afférentes ;
 
 b) Les rémunérations versées aux artistes-interprètes mentionnés à l'article L. 212-4 du code précité, par référence pour chacun d'eux, à la rémunération minimale prévue par les conventions et accords collectifs conclus entre les organisations de salariés et d'employeurs de la profession, ainsi que les charges sociales afférentes ;
 
@@ -48,7 +48,7 @@ V.-Les subventions publiques non remboursables reçues par les entreprises et di
 
 VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cinématographique ne peut excéder 1 million d'euros.
 
-2. La somme des crédits d'impôt calculés au titre d'une même oeuvre audiovisuelle ne peut excéder 1 150 Euros par minute produite et livrée pour une oeuvre de fiction ou documentaire et 1 200 Euros par minute produite et livrée pour une oeuvre d'animation.
+2. La somme des crédits d'impôt calculés au titre d'une même oeuvre audiovisuelle ne peut excéder 1 150 € par minute produite et livrée pour une oeuvre de fiction ou documentaire et 1 200 € par minute produite et livrée pour une oeuvre d'animation.
 
 3. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des entreprises de production proportionnellement à sa part dans les dépenses exposées.
 
@@ -57,7 +57,3 @@ VI.-1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cin�
 VII.-Les crédits d'impôt obtenus pour la production d'une même oeuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production le montant total des aides publiques accordées. Ce seuil est porté à 60 % pour les oeuvres cinématographiques ou audiovisuelles difficiles et à petit budget définies par décret.
 
 VIII.-Un décret fixe les conditions d'application du présent article.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
