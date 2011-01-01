@@ -6,7 +6,7 @@ Pp = P0 + Tp Rp,
 
 dans laquelle :
 
-P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8, 5 % de la dépense éligible définie à l'article R. 351-17-3 ou 33 euros ;
+P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8, 5 % de la dépense éligible définie à l'article R. 351-17-3 ou 33,47 euros ;
 
 Tp représente le taux de participation personnelle ; son montant est calculé selon les dispositions définies à l'article 2 quater ;
 
@@ -16,13 +16,13 @@ II.-Pour l'application de l'article R. 351-17-4, le forfait visé au I est déte
 
 R0 = R1-R2,
 
-où R1 et R2, sont respectivement un pourcentage du montant du revenu minimum d'insertion fixé en application de l'article L. 262-2 du code de l'action sociale et des familles et un pourcentage de la base mensuelle de calcul des allocations familiales visée à l'article L. 551-1 du code de la sécurité sociale. Ces pourcentages sont donnés par le tableau ci-dessous :
+où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et un pourcentage de la base mensuelle de calcul des allocations familiales visée à l'article L. 551-1 du code de la sécurité sociale. Ces pourcentages sont donnés par le tableau ci-dessous :
 
 BENEFICIAIRE
 
 |
 
-R1 du RMI
+R1 du montant forfaitaire
 
 (en pourcentage)
 
@@ -62,7 +62,7 @@ Personne isolée ou couple avec une personne à charge
 
 |
 
-150,3
+150, 3
 
 |
 
@@ -74,7 +74,7 @@ Personne isolée ou couple avec deux personnes à charge
 
 |
 
-180,3
+180, 3
 
 |
 
@@ -94,10 +94,10 @@ Majoration par personne à charge supplémentaire
 
 |
 
-Les montants du revenu minimum d'insertion et de la base mensuelle des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile de référence définie à l'article R. 351-5 du code de la construction et de l'habitation.
+Le montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et le montant de la base mensuelle des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile de référence définie à l'article R. 351-5 du code de la construction et de l'habitation.
 
 Le résultat, multiplié par douze, est arrondi à l'euro le plus proche et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de l'article 83 du code général des impôts.
 
 NOTA :
 
-dispositions applicables pour les prestations dues à compter du mois de janvier 2008.
+Arrêté du 30 décembre 2009, article 7 : Les dispositions des II à IV de l'article 3 du présent décret entrent en vigueur le 1er janvier 2012.

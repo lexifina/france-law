@@ -90,7 +90,7 @@ Personne seule
 
 |
 
-243,11
+245,78
 
 |
 
@@ -98,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-297,57
+300,84
 
 |
 
@@ -106,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-334,84
+338,52
 
 |
 
@@ -114,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-48,73
+49,27
 
 |
 
