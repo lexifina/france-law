@@ -14,16 +14,62 @@ La « Crepsa action sociale » poursuit et développe sa politique de souscripti
 
 Ses réservations actuelles et futures bénéficient en premier lieu aux ressortissants du groupe B2V salariés d'une société d'assurances, aux allocataires du groupe B2V salariés d'une société d'assurances au moment de la demande de liquidation de leur retraite, puis, à défaut, aux autres ressortissants et allocataires des institutions du groupe.
 
-3. Prendre en charge partiellement la prime due par les retraités au titre du régime d'assurance maladie des allocataires (Rama).
+3. Prendre en charge partiellement la prime due par les retraités au titre du régime d'assurance maladie des allocataires (RAMA).
 
-Cette participation annuelle reste accordée aux retraités remplissant les 3 conditions suivantes :
+Cette participation annuelle est accordée aux retraités remplissant les trois conditions suivantes :
 
-– réunir 20 années minimum d'activité dans la profession ;
+- être affilié à une institution du groupe B2V au titre d'une activité salariée dans une société d'assurances au moment du départ à la retraite ;
 
-– être affilié à une institution du groupe B2V au titre d'une activité salariée dans une société d'assurances au moment du départ à la retraite ;
+- réunir 20 années minimum d'activité dans une ou plusieurs sociétés d'assurances ;
 
-– ne pas être imposable à l'impôt sur le revenu.
+- ne pas être imposable à l'impôt sur le revenu.
 
-Le montant de cette prise en charge reste fixé à 200 €.
+Le montant de cette prise en charge est fixé à :
+
+(En euros.)
+
+Formule
+
+de garanties |
+
+Montant
+
+de la participation
+
+annuelle à la prime RAMA |
+
+F1 |
+
+200 |
+
+F1 bis |
+
+252 |
+
+F2 |
+
+252 |
+
+F2 bis :
+
+- de 60 à 65 ans
+
+- à compter de 66 ans |
+
+200
+
+252 |
+
+F3 |
+
+252 |
+
+F4 |
+
+252 |
+
+F5 |
+
+252 |
 
 4. Participer à la mise en place de projets médico-sociaux innovants dans le domaine de l'avancée en âge (exemples : gérontologie, soins palliatifs, programmes de recherche médicale, aides aux aidants), y compris par une procédure d'appel à projets.
