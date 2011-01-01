@@ -20,7 +20,7 @@ Bas-Rhin, Haut-Rhin
 
 |
 
-Trésorier-payeur général de la région Alsace et du département du Bas-Rhin
+Directeur régional des finances publiques d'Alsace et du département du Bas-Rhin
 
 |
 
@@ -84,11 +84,11 @@ Corse-du-Sud, Haute-Corse
 
 |
 
-Trésorier-payeur général de la région Corse et du département de la Corse-du-Sud
+Directeur régional des finances publiques de Corse et du département de la Corse-du-Sud
 
 |
 
-Doubs, Jura, Haute-Saône, Territoire-de-Belfort
+Doubs, Jura, Haute-Saône, Territoire de Belfort
 
 |
 
@@ -100,7 +100,7 @@ Guadeloupe
 
 |
 
-Directeur régional des finances publiques de Martinique
+Directeur régional des finances publiques de la Martinique
 
 |
 
@@ -108,7 +108,7 @@ Guyane
 
 |
 
-Directeur régional des finances publiques de Martinique
+Directeur régional des finances publiques de la Martinique
 
 |
 
@@ -116,7 +116,7 @@ Eure, Seine-Maritime
 
 |
 
-Directeur régional des finances publiques de Haute-Normandie et du département de la Seine-Maritime
+Directeur régional des finances publiques de Haute-Normandie et du département de Seine-Maritime
 
 |
 
@@ -124,7 +124,7 @@ Paris
 
 |
 
-Trésorier-payeur général de la région Ile-de-France
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
@@ -144,7 +144,7 @@ Trésorier-payeur général des Yvelines
 
 |
 
-Hauts-de-Seine, Val d'Oise
+Hauts-de-Seine, Val-d'Oise
 
 |
 
@@ -172,7 +172,7 @@ Corrèze, Creuse, Haute-Vienne
 
 |
 
-Trésorier-payeur général de la région Limousin et du département de la Haute-Vienne
+Directeur régional des finances publiques du Limousin et du département de la Haute-Vienne
 
 |
 
@@ -180,7 +180,7 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges
 
 |
 
-Trésorier-payeur général de la Moselle
+Directeur régional des finances publiques de Lorraine et du département de la Moselle
 
 |
 
@@ -212,7 +212,7 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
 
 |
 
-Trésorier-payeur général de la région Pays de la Loire et du département de la Loire-Atlantique
+Directeur régional des finances publiques des Pays de la Loire et du département de la Loire-Atlantique
 
 |
 
@@ -236,7 +236,7 @@ Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse
 
 |
 
-Trésorier-payeur général de la région Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -252,7 +252,7 @@ La Réunion
 
 |
 
-Trésorier-payeur général de La Réunion
+Directeur régional des finances publiques de La Réunion
 
 |
 
