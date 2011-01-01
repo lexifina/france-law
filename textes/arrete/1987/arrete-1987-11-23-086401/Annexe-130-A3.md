@@ -182,6 +182,12 @@ CCS |
 
 CSN |
 
+Plan d'opérations STS (MARPOL annexe VI règle 41) |
+
+CCS |
+
+CSN |
+
 (1) Visa non requis par la réglementation internationale.
 
 (2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service. |
