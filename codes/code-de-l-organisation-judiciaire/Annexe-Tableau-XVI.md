@@ -1,6 +1,6 @@
 # Article Annexe Tableau XVI
 
-Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D. 311-8)
+Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D. 311-8) :
 
 SIÈGE
 
@@ -26,6 +26,14 @@ Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 |
 
+Colmar
+
+|
+
+Ressort de la cour d'appel de Colmar.
+
+|
+
 Douai
 
 |
@@ -38,7 +46,7 @@ Fort-de-France
 
 |
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France.
+Ressort des cours d'appel de Basse-Terre et Fort-de-France.
 
 |
 
@@ -54,7 +62,7 @@ Nancy
 
 |
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 
 |
 
