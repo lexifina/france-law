@@ -22,7 +22,7 @@ f) Travaux d'installation d'équipements de production d'eau chaude sanitaire ut
 
 3° Soit de travaux de réhabilitation de systèmes d'assainissement non collectif par des dispositifs ne consommant pas d'énergie ;
 
-4° Soit de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement.
+4° (Abrogé).
 
 Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° sont fixées par décret.
 
@@ -44,7 +44,7 @@ Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° son
 
 7. Les dépenses de travaux financées par une avance remboursable ne peuvent ouvrir droit au crédit d'impôt de l'article 200 quater. Cette disposition ne s'applique pas aux bénéficiaires d'une avance émise avant le 1er janvier 2011 lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 n'excède pas 45 000 € l'avant-dernière année précédant celle de l'offre de l'avance.
 
-8. Les dépenses de travaux financés par une avance remboursable ne peuvent ouvrir droit au crédit d'impôt de l'article 200 quater C.
+8. (Abrogé).
 
 II.-Le montant du crédit d'impôt est égal à la somme actualisée des écarts entre les mensualités dues au titre de l'avance remboursable sans intérêt et les mensualités d'un prêt consenti sur une durée maximale de cent vingt mois à des conditions normales de taux à la date d'émission de l'offre de l'avance remboursable sans intérêt.
 
@@ -64,6 +64,4 @@ VII.-Un décret en Conseil d'Etat fixe les modalités d'application du présent 
 
 NOTA :
 
-Conformément à la loi n° 2008-1425 du 27 décembre 2008, article 99 VII les I à IV du même article s'appliquent aux avances remboursables émises entre le premier jour du troisième mois suivant la publication du décret en Conseil d'Etat prévu au VII de l'article 244 quater U du code général des impôts et le 31 décembre 2013.
-
-L'article 9 de la loi n° 2009-122 a remplacé "troisième" mois par "premier" mois.
+Loi n° 2010-1657 du 29 décembre 2010 article 102 II : Les présentes dispositions s'appliquent aux avances remboursables ne portant pas intérêt émises à compter du 1er janvier 2011.

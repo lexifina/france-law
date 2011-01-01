@@ -12,9 +12,9 @@ II. ― Le crédit d'impôt s'applique pendant trois ans à compter du 1er janvi
 
 En cas de changement d'exploitant, le nouvel exploitant peut demander le bénéfice du crédit d'impôt pour la période restant à courir et dans les conditions prévues pour son prédécesseur.
 
-III. ― Pour bénéficier du crédit d'impôt, les redevables indiquent chaque année sur la déclaration et dans le délai prévu au I de l'article 1477 le nombre de salariés employés depuis au moins un an au 1er janvier de l'année du dépôt de cette déclaration. Les redevables tenus aux obligations du II de l'article 1477 indiquent sur la déclaration provisoire le nombre de salariés employés depuis au moins un an au 1er janvier de l'année suivant celle du changement d'exploitant ou employés au 1er janvier de l'année suivant celle de la création de l'établissement. Pour les redevables non tenus à ces déclarations, les indications sont portées sur papier libre dans les mêmes délais.
+III. ― Pour bénéficier du crédit d'impôt, les redevables indiquent chaque année sur la déclaration et dans le délai prévu au I de l'article 1477 le nombre de salariés employés depuis au moins un an au 1er janvier de l'année du dépôt de cette déclaration.
 
-IV. ― Le crédit d'impôt s'impute sur la cotisation foncière des entreprises mise à la charge du redevable.S'il lui est supérieur, la différence est due au redevable.
+IV. ― Le crédit d'impôt s'impute sur la totalité des cotisations figurant sur l'avis d'imposition de cotisation foncière des entreprises mises à la charge du redevable. S'il lui est supérieur, la différence est due au redevable.
 
 V. ― Si, pendant la période d'application du crédit d'impôt ou dans les cinq années suivant la fin de celle-ci, le redevable transfère hors de l'Espace économique européen les emplois ayant ouvert droit au crédit d'impôt, il est tenu de reverser les sommes dont il a bénéficié à ce titre.
 

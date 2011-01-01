@@ -6,10 +6,8 @@ II. - La plus-value réalisée lors de la cession d'actions ou de parts sociales
 
 Lors de la cession à titre onéreux de titres ou de droits mentionnés à l'article 150-0 A, ayant successivement fait partie du patrimoine privé, été inscrits à l'actif d'une entreprise ou considérés comme des éléments d'actif affectés à l'exercice de la profession en application des dispositions des articles 93 ou 151 nonies ou été loués dans les conditions des articles L. 239-1 à L. 239-5 du code de commerce, puis étant revenus dans le patrimoine privé, les gains nets sont constitués par la somme des gains nets relatifs aux périodes de détention dans le patrimoine privé, calculés suivant les règles des articles 150-0 A à 150-0 E.
 
-Le seuil d'imposition prévu au 1 du I de l'article 150-0 A s'apprécie au moment de la cession des titres ou droits.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
 
 NOTA :
 
-Loi n° 2005-1720 du 30 décembre 2005, art. 29 XVIII C : Ces dispositions s'appliquent aux cessions réalisées à compter du 1er janvier 2006.
+Loi n°2010-1657 du 29 décembre 2010, article 8 VIII : A. ― Le III s'applique aux cessions réalisées à compter du 1er janvier 2011.

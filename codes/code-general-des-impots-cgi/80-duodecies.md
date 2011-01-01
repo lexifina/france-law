@@ -20,7 +20,7 @@ a) Soit deux fois le montant de la rémunération annuelle brute perçue par le 
 
 b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel ou, à défaut, par la loi ;
 
-5° La fraction des indemnités de départ volontaire versées aux salariés dans le cadre d'un accord collectif de gestion prévisionnelle des emplois et des compétences dans les conditions prévues à l'article L. 2242-17 du code du travail, n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
+5° (Abrogé)
 
 6° La fraction des indemnités prévues à l'article L. 1237-13 du code du travail versées à l'occasion de la rupture conventionnelle du contrat de travail d'un salarié lorsqu'il n'est pas en droit de bénéficier d'une pension de retraite d'un régime légalement obligatoire, qui n'excède pas :
 
@@ -29,7 +29,3 @@ a) Soit deux fois le montant de la rémunération annuelle brute perçue par le 
 b) Soit le montant de l'indemnité de licenciement prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel ou, à défaut, par la loi.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions, aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des fonctions, notamment de révocation, seule la fraction des indemnités qui excède les montants définis aux 3 et 4 du 1 est imposable.
-
-NOTA :
-
-Loi n° 2009-1673 du 30 décembre 2009 article 100 III : Le I de l'article 100 s'applique aux indemnités de départ volontaire à la retraite versées à compter du 1er janvier 2010.

@@ -33,3 +33,9 @@ IV. – En cas de rattachement volontaire ou à la suite d'une transformation da
 V. – Les I, II et III sont également applicables aux communes faisant l'objet d'un rattachement à une communauté urbaine ou à une communauté d'agglomération dont le périmètre est étendu en application du renouvellement de la procédure prévue aux articles L. 5215-40-1 et L. 5216-10 du code général des collectivités territoriales.
 
 VI. – Lorsqu'il fait application des dispositions des I, II et III à la suite du rattachement volontaire d'une commune à un établissement public de coopération intercommunale à fiscalité propre, le produit communiqué à l'établissement public en début d'exercice par les services fiscaux et qui découle de l'état de notification des bases tient compte du taux applicable dans la commune rattachée.
+
+VII. – En cas de rattachement volontaire à un établissement public de coopération intercommunale qui faisait application en 2011 de l'article 1609 nonies C d'une commune qui n'était pas membre en 2011 d'un tel établissement, le taux communal de taxe d'habitation est réduit de la différence entre, d'une part, le taux de référence de taxe d'habitation calculé pour la commune conformément à l'article 1640 C, d'autre part, le taux communal de taxe d'habitation applicable en 2010 dans la commune.
+
+NOTA :
+
+LOI n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII : les dispositions de l'article 1638 quater s'appliquent aux rattachements de communes à un établissement public de coopération intercommunale qui prennent effet fiscalement à compter de l'année 2012 ou des années suivantes.
