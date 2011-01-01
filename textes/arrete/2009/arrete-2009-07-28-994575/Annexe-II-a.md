@@ -1,179 +1,141 @@
 # Article Annexe II a
 
-Règlement d'examen
+RÈGLEMENT D'EXAMEN
 
-SPÉCIALITÉ "SYSTÈMES ÉLECTRONIQUES NUMÉRIQUES" DE BREVET D'ÉTUDES PROFESSIONNELLES
+SPÉCIALITÉ " SYSTÈMES ÉLECTRONIQUES NUMÉRIQUES " DE BREVET D'ÉTUDES PROFESSIONNELLES |
 
-|
+Intitulé des épreuves |
 
-Intitulé des épreuves
+Unité |
 
-|
+Coef. |
 
-Unité
+Scolaires
 
-|
+établissements publics ou privés sous contrat,
 
-Coef.
+apprentis CFA
 
-|
+ou sections
 
-Scolaires établissements publics ou privés sous contrat, apprentis CFA ou sections d'apprentissage habilités
+d'apprentissage
 
-|
+habilités |
 
-Formation professionnelle continue (établissements publics)
+Formation
 
-|
+professionnelle
 
-établissements privés hors contrat, apprentis CFA ou section d'apprentissage non habilités, formation professionnelle continue (établissements privés), enseignement à distance, candidats individuels
+continue
 
-|
-
-Durée de l'épreuve ponctuelle
+(établissements publics)
 
 |
 
-EP1 - Étude d'un système
+Scolaires
 
-|
+établissements privés hors contrat,
 
-UP1
+apprentis CFA
 
-|
+ou section
 
-4
+d'apprentissage
 
-|
+non habilités,
 
-CCF (*)
+formation
 
-|
+professionnelle
 
-CCF
+continue
 
-|
+(établissements privés),
 
-Ponctuelle écrite
+enseignement
 
-|
+à distance,
 
-4 h
+candidats
 
-|
+individuels |
 
-EP2 - intervention sur systèmes
+Durée de l'épreuve ponctuelle |
 
-|
+EP1 - Etude d'un système |
 
-UP2
+UP1 |
 
-|
+4 |
 
-9 (1)
+CCF (*) |
 
-|
+CCF |
 
-CCF
+Ponctuelle écrite |
 
-|
+4 h |
 
-CCF
+EP2 - intervention sur systèmes |
 
-|
+UP2 |
 
-Ponctuelle pratique+ écrit PSE
+9 (1) |
 
-|
+CCF |
 
-8 h (+ 1 h PSE)
+CCF |
 
-|
+Ponctuelle pratique +
 
-EG 1 - Français - Histoire - Géographie - éducation civique
+écrit PSE |
 
-|
+8 h
 
-UG1
+(+ 1 h PSE) |
 
-|
+EG 1 - Français - Histoire - Géographie - éducation civique |
 
-6
+UG1 |
 
-|
+6 |
 
-Ponctuelle écrite
+Ponctuelle écrite |
 
-|
+CCF |
 
-CCF
+Ponctuelle écrite |
 
-|
+3 h |
 
-Ponctuelle écrite
+EG 2 - Mathématiques - Sciences |
 
-|
+UG2 |
 
-3 h
+4 |
 
-|
+CCF |
 
-EG 2 - Mathématiques - Sciences
+CCF |
 
-|
+Ponctuelle écrite |
 
-UG2
+2 h |
 
-|
+EG 3 - Education physique et sportive |
 
-4
+UG3 |
 
-|
+2 |
 
-CCF
+CCF |
 
-|
+CCF |
 
-CCF
-
-|
-
-Ponctuelle écrite
-
-|
-
-2 h
-
-|
-
-EG 3 - Éducation physique et sportive
-
-|
-
-UG3
-
-|
-
-2
-
-|
-
-CCF
-
-|
-
-CCF
-
-|
-
-Ponctuelle
-
-|
+Ponctuelle |
 
 |
 
 (*) Contrôle en cours de formation.
 
-(1) Dont 1 pour PSE.
-
-|
+(1) Dont 1 pour PSE. |
