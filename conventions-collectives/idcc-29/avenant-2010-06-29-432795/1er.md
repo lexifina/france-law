@@ -1,0 +1,9 @@
+# Article 1er
+
+En annexe III, il est créé un article A3. 4.7 intitulé « Aides-soignants et aides médico-psychologiques exerçant les fonctions d'assistant de soins en gérontologie ».
+
+Cet article est rédigé comme suit :
+
+« Les aides-soignants et aides médico-psychologiques, détenteurs d'une attestation de suivi de l'intégralité de la formation spécifique à la fonction d'assistant de soins en gérontologie et qui assurent des fonctions d'assistant de soins en gérontologie dans une unité cognitivo-comportementale, une unité d'hébergement renforcée, un pôle d'activités et de soins adaptés ou dans une équipe spécialisée pour la prise en charge des patients atteints de la maladie d'Alzheimer d'un service de soins infirmiers à domicile, bénéficient d'une prime mensuelle égale à 90 € brut pour un temps plein.
+
+Le montant de la prime est fixé proportionnellement au temps consacré à l'exercice de la fonction d'assistant de soins en gérontologie quand le bénéficiaire exerce cette fonction pour une durée inférieure au temps plein. »
