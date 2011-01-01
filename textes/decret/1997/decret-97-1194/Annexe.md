@@ -1,7 +1,5 @@
 # Article Annexe
 
-<
-
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -3052,26 +3050,6 @@ Article 6.
 
 |
 
-Décret n° 94-525 du 27 juin 1994 portant organisation du groupe des écoles nationales d'économie et statistique
-
-1
-
-|
-
-Décision relative à l'admission, à la scolarité et aux activités de recherche des élèves ou chercheurs, n'appartenant pas à l'administration, du groupe des écoles nationales d'économie et statistique
-
-|
-
-Elèves :
-
-Articles 16 et 18 à 20.
-
-Chercheurs :
-
-Articles 32, 36 et 37.
-
-|
-
 Décisions entrant dans le champ des compétences du service juridique et de l'agence judiciaire du Trésor
 
 Décret n° 92-1369 du 29 décembre 1992 modifiant le décret n° 62-1587 du 29 décembre 1962
@@ -4943,5 +4921,35 @@ thermiques.
 |
 
 Article R. 224-40.
+
+|
+
+Décret n
+
+°
+
+2010-1664 du 29 décembre 2010
+
+1
+
+|
+
+Fixation des obligations d’économies d’énergie.
+
+|
+
+Article 4.
+
+|
+
+2 |
+
+Annulation des certificats d’économies d’énergie, mise en demeure, fixation du
+
+montant du prélèvement compensatoire.
+
+|
+
+Article 8, alinéas 2 et 3.
 
 |
