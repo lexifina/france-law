@@ -10,17 +10,17 @@ Laboratoires de l'école polytechnique.
 
 Laboratoires de l'école normale supérieure.
 
-Laboratoires des écoles des mines de Paris, de Nancy et de Saint­-Etienne.
+Laboratoires des écoles des mines de Paris, de Nancy et de Saint ­-Etienne.
 
 Laboratoires de l'école nationale supérieure de l'aéronautique.
 
-Laboratoires de l'école nationale supérieure des techniques avan­cées.
+Laboratoires de l'école nationale supérieure des techniques avan ­ cées.
 
-Laboratoires de l'école nationale supérieure des télécommuni­cations.
+Laboratoires de l'école nationale supérieure des télécommuni ­ cations.
 
 Laboratoires de l'école supérieure de chimie.
 
-Laboratoires de l'école supérieure de physique et chimie indus­trielle de la ville de Paris.
+Laboratoires de l'école supérieure de physique et chimie indus ­ trielle de la ville de Paris.
 
 Collège de France.
 
@@ -46,7 +46,7 @@ Centre national d'études des télécommunications (C.N.E.T.).
 
 Office national d'études et de recherches aérospatiales (0.N.E.R.A.).
 
-Laboratoire central des ponts et chaussées.
+Institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
 
 Institut de recherche d'informatique et d'automatique (I.R.I.A.).
 
@@ -84,8 +84,12 @@ Centre technique du papier.
 
 Institut national de la statistique et des études économiques (I.N.S.E.E.).
 
-Centre d'études prospectives d'économie et mathématiques appli­quées à la planification (Cepremap).
+Centre d'études prospectives d'économie et mathématiques appli ­ quées à la planification (Cepremap).
 
 Office de la recherche scientifique et technique d'outre-mer (O.R.S.T.O.M.).
 
 Centre scientifique et technique du bâtiment (C.S.T.B.).
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2015-566 du 20 mai 2015, le décret n° 70-1169 du 9 décembre 1970 est abrogé à compter de la promotion 2015 mais demeure applicable aux élèves et anciens élèves admis à l'Ecole polytechnique avant la promotion 2015.
