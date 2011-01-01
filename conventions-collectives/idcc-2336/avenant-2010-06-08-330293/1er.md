@@ -1,0 +1,27 @@
+# Article 1er
+
+Le présent avenant ajoute un nouvel article 16.7 intitulé « Remplacements temporaires sur un emploi repère supérieur » du chapitre XVI intitulé « Classifications. – Rémunérations ».
+
+« Article 16.7
+
+Remplacements temporaires sur un emploi repère supérieur
+
+Il sera versé au salarié permanent, acceptant d'assurer pendant au moins 30 jours calendaires de façon continue ou étalée sur 3 mois, le remplacement d'un salarié rattaché à un emploi repère supérieur au sien, une indemnité différentielle de remplacement, à condition que l'intérim soit effectif et prédominant par rapport à son activité habituelle. En application de son obligation de sécurité de résultat (cf. arrêts de la Cour de cassation du 28 février 2008, article L. 4121-1 du code du travail), l'employeur doit veiller à ce qu'une telle situation de remplacement n'aboutisse pas à une surcharge de travail susceptible d'altérer la santé physique ou mentale de l'intéressé.
+
+L'indemnité différentielle de remplacement est égale à la différence entre :
+
+– la pesée de l'emploi occupé par le remplaçant ;
+
+– et la pesée de l'emploi repère du salarié remplacé, correspondant aux missions effectivement attribuées lors de ce remplacement, sans pouvoir être inférieure à la pesée minimum dudit emploi repère.
+
+L'indemnité différentielle est déterminée comme suit :
+
+– 50 % de la différence de pesée arrêtée à l'alinéa 3 du présent article le premier mois de remplacement ;
+
+– 100 % de la différence de pesée arrêtée à l'alinéa 3 du présent article les mois consécutifs suivants.
+
+Si les conditions ci-dessus sont remplies, elle est due à compter du premier jour de remplacement. Elle est calculée au prorata de la durée du remplacement.
+
+Il n'est dû aucune indemnité pour les salariés rattachés aux emplois repères 18,19 et 20 de la grille de classification de la convention collective des foyers et services pour jeunes travailleurs lorsque le remplacement d'un cadre, rattaché à un emploi de niveau supérieur, est inférieur à 90 jours calendaires consécutifs.
+
+Le salarié qui, selon sa fiche de poste, est chargé d'assurer le remplacement habituel d'un salarié rattaché à un emploi repère supérieur bénéficie, dans son emploi repère, d'une pesée tenant compte des missions effectivement attribuées lors de ces remplacements, sans pouvoir prétendre à l'indemnité différentielle de l'alinéa 3 du présent article. Toutefois, lorsque le remplacement est supérieur à 90 jours calendaires consécutifs, le salarié doit bénéficier de l'indemnité différentielle. »
