@@ -1,8 +1,10 @@
-# Article Annexe B
+# Article Annexe A
 
-ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR DE L'OUTRE-MER ET DES COLLECTIVITÉS TERRITORIALES
+ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR, DE L'OUTRE-MER, DES COLLECTIVITÉS TERRITORIALES ET DE L'IMMIGRATION
 
-DÉPARTEMENT DE RÉSIDENCE DE L'ORDONNATEUR SECONDAIRE
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés
 
 |
 
@@ -71,6 +73,22 @@ BOUCHES-DU-RHÔNE
 |
 
 BOUCHES-DU-RHÔNE
+
+|
+
+BOUCHES-DU-RHÔNE (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+BOUCHES-DU-RHÔNE (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
 
 |
 
@@ -154,22 +172,6 @@ MORBIHAN
 
 |
 
-CORSE-DU-SUD
-
-|
-
-CORSE-DU-SUD
-
-|
-
-HAUTE-CORSE
-
-|
-
-CORSE-DU-SUD
-
-|
-
 GARD
 
 |
@@ -194,6 +196,22 @@ GIRONDE
 
 |
 
+GIRONDE (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+GIRONDE (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
+
+|
+
 HÉRAULT
 
 |
@@ -207,6 +225,32 @@ ILLE-ET-VILAINE
 |
 
 ILLE-ET-VILAINE
+
+|
+
+ILLE-ET-VILAINE (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+ILLE-ET-VILAINE (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
+
+|
+
+INDRE
+
+Gendarmerie nationale uniquement
+
+|
+
+INDRE
 
 |
 
@@ -346,6 +390,22 @@ MOSELLE
 
 |
 
+MOSELLE (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+MOSELLE (zone de défense)
+
+Secrétariat général pour l'administration de la police)
+
+|
+
+|
+
 NIÈVRE
 
 |
@@ -359,6 +419,22 @@ NORD
 |
 
 NORD
+
+|
+
+NORD (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+NORD (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
 
 |
 
@@ -434,6 +510,22 @@ RHÔNE
 
 |
 
+RHÔNE (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+RHÔNE (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
+
+|
+
 SAÔNE-ET-LOIRE
 
 |
@@ -471,6 +563,22 @@ PARIS
 |
 
 PARIS
+
+|
+
+PARIS (zone de défense)
+
+Gendarmerie nationale
+
+|
+
+|
+
+PARIS (zone de défense)
+
+Secrétariat général pour l'administration de la police
+
+|
 
 |
 
@@ -607,5 +715,15 @@ VAL-D'OISE
 |
 
 VAL-D'OISE
+
+|
+
+YVELINES (zone de défense IDF : compétence gendarmerie restreinte)
+
+Secrétariat général pour l'administration de la police
+
+|
+
+YVELINES
 
 |
