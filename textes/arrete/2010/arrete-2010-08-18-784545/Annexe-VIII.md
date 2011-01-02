@@ -4,132 +4,66 @@ RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SP
 
 1. Officiers
 
-INTITULÉ DE LA FORMATION
-
-|
+INTITULÉ DE LA FORMATION |
 
 DURÉE DU LIEN AU SERVICE
 
-(années)
+(années) |
 
-|
+COEFFICIENT MULTIPLICATEUR |
 
-COEFFICIENT MULTIPLICATEUR
+Stage de formation des ingénieurs militaires des essences. |
 
-|
+4 |
 
-Stage de formation des ingénieurs militaires des essences.
+2 |
 
-|
+Formation de qualification (diplôme d'état-major). |
 
-4
+2 |
 
-|
-
-2
-
-|
-
-Formation de qualification (diplôme d'état-major).
-
-|
-
-2
-
-|
-
-1
-
-|
+1 |
 
 2. Sous-officiers
 
-INTITULÉ DE LA FORMATION
-
-|
+INTITULÉ DE LA FORMATION |
 
 DURÉE DU LIEN AU SERVICE
 
-(années)
+(années) |
 
-|
+COEFFICIENT MULTIPLICATEUR |
 
-COEFFICIENT MULTIPLICATEUR
+Formation du premier degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet élémentaire de technicien ou de spécialiste (brevet élémentaire de technicien essences ― brevet de spécialiste de l'armée de terre). |
 
-|
+3 |
 
-Formation du premier degré de qualification professionnelle des
+1 |
 
-sous-officiers amenant à l'obtention d'un brevet élémentaire de
+Formation du second degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet supérieur de technicien ou de spécialiste (brevet supérieur de technicien essences ― brevet supérieur de technicien de l'armée de terre). |
 
-technicien ou de spécialiste (brevet élémentaire de technicien
+4 |
 
-essences - brevet de spécialiste de l'armée de terre).
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Formation du second degré de qualification professionnelle des sous-officiers
-
-amenant à l'obtention d'un brevet supérieur de technicien ou de spécialiste
-
-(brevet supérieur de technicien essences - brevet supérieur de technicien
-
-de l'armée de terre).
-
-|
-
-4
-
-|
-
-2
-
-|
+2 |
 
 3. Militaires du rang
 
-INTITULÉ DE LA FORMATION
-
-|
+INTITULÉ DE LA FORMATION |
 
 DURÉE DU LIEN AU SERVICE
 
-(années)
+(années) |
 
-|
+COEFFICIENT MULTIPLICATEUR |
 
-COEFFICIENT MULTIPLICATEUR
+Permis C, D, E (D). |
 
-|
+3 |
 
-Permis C, D, E (D).
+2 |
 
-|
+Formations amenant à l'obtention d'un certificat technique du 1er degré. |
 
-3
+3 |
 
-|
-
-2
-
-|
-
-Formations amenant à l'obtention d'un certificat technique du 1er degré.
-
-|
-
-3
-
-|
-
-1
-
-|
+1 |
