@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915010
+
+- Question : [SEQ100915010](seq100915010.md) — Tenue d'un registre de police par les auto-entrepreneurs se livrant à un négoce de biens meubles
+
+## Réponse
+
+*Commerce, JO du 2011-01-06, page 15*
+
+L'auto-entreprise est une entreprise comme une autre et doit respecter les règles de l'exercice de son activité. L'auto-entrepreneur est soumis à la réglementation applicable à tous les professionnels de son secteur d'activité, en termes de formation et de qualification professionnelle préalable, d'application des normes techniques, d'hygiène et de sécurité, de déclaration et d'emploi des salariés, d'assurance et de responsabilité ou encore de facturation à la clientèle. Ainsi, la réglementation spécifique de l'activité de brocanteur-antiquaire s'applique-t-elle pleinement aux auto-entrepreneurs. La vente ou l'échange d'objets mobiliers est strictement encadrée par les dispositions du code pénal. Parmi celles-ci, l'article L. 321-7 du code pénal contraint les personnes dont l'activité professionnelle comporte la vente d'objets mobiliers usagés ou acquis à des personnes autres que celles qui les fabriquent ou en font le commerce de tenir, jour par jour, un registre contenant une description des objets acquis ou détenus, permettant l'identification de ces objets ainsi que celle des personnes qui les ont vendus ou apportés à l'échange. L'article R. 321-1 du même code dispose que toute personne soumise à l'obligation de tenir le registre de revendeur d'objets mobiliers doit en effectuer une déclaration préalable auprès de la préfecture ou sous-préfecture dont dépend son établissement principal. En cas de violation de ces dispositions, les auto-entrepreneurs exerçant cette profession sont passibles, comme tout autre brocanteur-antiquaire, des sanctions prévues par le code pénal.
