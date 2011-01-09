@@ -4,65 +4,21 @@ EXIGENCES DE QUALITÉ ET MENTIONS D'ÉTIQUETAGE
 
 RELATIVES À L'ALIMENTATION DES NOURRISSONS
 
-L'eau minérale naturelle et l'eau de source, non effervescentes, doivent être conformes aux critères de qualité microbiologiques mentionnés au A de l'annexe I et respecter les valeurs limites suivantes :
+L'eau minérale naturelle et l'eau de source, non effervescente, doivent être conformes aux critères de qualité microbiologiques mentionnées dans le tableau A de l'annexe I de l'arrêté du 14 mars 2007 et respecter les valeurs limites suivantes :
 
-PARAMÈTRE
-
-|
-
-LIMITE DE QUALITÉ
+PARAMETRES
 
 |
 
-UNITÉ
+LIMITES DE QUALITE
 
 |
 
-NOTE
+UNITES
 
 |
 
-Acrylamide.
-
-|
-
-0,10
-
-|
-
-µg/l
-
-|
-
-La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
-
-|
-
-Aluminium.
-
-|
-
-0,2
-
-|
-
-mg/l
-
-|
-
-|
-
-Ammonium.
-
-|
-
-0,1
-
-|
-
-mg/l
-
-|
+NOTES
 
 |
 
@@ -108,34 +64,6 @@ mg/l
 
 |
 
-Benzène.
-
-|
-
-1,0
-
-|
-
-µg/l
-
-|
-
-|
-
-Benzo(a) pyrène.
-
-|
-
-0,010
-
-|
-
-µg/l
-
-|
-
-|
-
 Bore.
 
 |
@@ -150,11 +78,309 @@ mg/l
 
 |
 
+Cadmium.
+
+|
+
+3,0
+
+|
+
+µg/l
+
+|
+
+|
+
+Chrome.
+
+|
+
+5,0
+
+|
+
+µg/l
+
+|
+
+|
+
+Cuivre.
+
+|
+
+0,2
+
+|
+
+mg/l
+
+|
+
+|
+
+Cyanures totaux.
+
+|
+
+10
+
+|
+
+µg/l
+
+|
+
+|
+
+Fluorures.
+
+|
+
+0,3
+
+|
+
+mg/l
+
+|
+
+En cas de supplémentation médicale en fluor.
+
+|
+
+0,5
+
+|
+
+mg/l
+
+|
+
+En l'absence de supplémentation médicale en fluor.
+
+|
+
+Manganèse.
+
+|
+
+50
+
+|
+
+µg/l
+
+|
+
+|
+
+Mercure.
+
+|
+
+1,0
+
+|
+
+µg/l
+
+|
+
+|
+
+Nickel.
+
+|
+
+2,0
+
+|
+
+µg/l
+
+|
+
+|
+
+Nitrates.
+
+|
+
+10
+
+|
+
+mg/l
+
+|
+
+|
+
+Nitrites.
+
+|
+
+0,05
+
+|
+
+mg/l
+
+|
+
+|
+
+Plomb.
+
+|
+
+10
+
+|
+
+µg/l
+
+|
+
+|
+
+Sélénium.
+
+|
+
+10
+
+|
+
+µg/l
+
+|
+
+|
+
+Turbidité.
+
+|
+
+0,50
+
+|
+
+NFU
+
+|
+
+|
+
+Couleur.
+
+|
+
+Aucun changement anormal, notamment une couleur inférieure ou égale à 15.
+
+|
+
+mg/l(Pt)
+
+|
+
+Au cours de la commercialisation.
+
+|
+
+Odeur et saveur.
+
+|
+
+Aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3 °C à 25 °C.
+
+|
+
+|
+
+Au cours de la commercialisation.
+
+|
+
+Acrylamide.
+
+|
+
+0,10
+
+|
+
+µg/l
+
+|
+
+La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+
+|
+
+Aluminium.
+
+|
+
+200
+
+|
+
+µg/l
+
+|
+
+|
+
+Ammonium.
+
+|
+
+100
+
+|
+
+µg/l
+
+|
+
+|
+
+Benzène.
+
+|
+
+0,3
+
+|
+
+µg/l
+
+|
+
+|
+
+Benzo(a) pyrène.
+
+|
+
+0,003
+
+|
+
+µg/l
+
+|
+
+|
+
 Bromates.
 
 |
 
-3
+3,0
 
 |
 
@@ -168,21 +394,7 @@ Bromoforme.
 
 |
 
-1
-
-|
-
-µg/l
-
-|
-
-|
-
-Cadmium.
-
-|
-
-3,0
+1,0
 
 |
 
@@ -210,7 +422,7 @@ Chlorites.
 
 |
 
-0,1
+0,03
 
 |
 
@@ -250,57 +462,29 @@ mg/l
 
 |
 
-Chrome.
-
-|
-
-5
-
-|
-
-µg/l
-
-|
-
-|
-
-Cuivre.
-
-|
-
-0,2
-
-|
-
-mg/l
-
-|
-
-|
-
-Cyanures totaux.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
-
 1,2 - Dichloroéthane.
 
 |
 
-3,0
+0,9
 
 |
 
 µg/l
+
+|
+
+|
+
+Dioxyde de carbone.
+
+|
+
+250
+
+|
+
+mg/l
 
 |
 
@@ -322,25 +506,11 @@ La limite de qualité se réfère à la concentration résiduelle en monomères 
 
 |
 
-Dioxyde de carbone.
-
-|
-
-250
-
-|
-
-mg/l
-
-|
-
-|
-
 Hydrocarbures aromatiques polycycliques.
 
 |
 
-0,1
+0,03
 
 |
 
@@ -348,35 +518,7 @@ Hydrocarbures aromatiques polycycliques.
 
 |
 
-Pour la somme des composés suivants : benzo­-[b]fluoranthène, benzo[k]fluoranthène, benzo[ghi]pérylène, indéno[1,2,3-cd]pyrène.
-
-|
-
-Fluor.
-
-|
-
-0,3
-
-|
-
-mg/l
-
-|
-
-En cas de supplémentation médicale en fluor.
-
-|
-
-0,5
-
-|
-
-mg/l
-
-|
-
-En l'absence de supplémentation médicale en fluor.
+Somme totale.
 
 |
 
@@ -394,89 +536,7 @@ mg/l
 
 |
 
-Manganèse.
-
-|
-
-0,05
-
-|
-
-mg/l
-
-|
-
-|
-
-Mercure.
-
-|
-
-1
-
-|
-
-µg/l
-
-|
-
-|
-
-Nickel.
-
-|
-
-2
-
-|
-
-µg/l
-
-|
-
-|
-
-Nitrates.
-
-|
-
-10
-
-|
-
-mg/l
-
-|
-
-|
-
-Nitrites.
-
-|
-
-0,05
-
-|
-
-mg/l
-
-|
-
-|
-
 Pesticides.
-
-|
-
-0,10
-
-|
-
-µg/l
-
-|
-
-Par substance individualisée.
 
 |
 
@@ -488,11 +548,11 @@ Par substance individualisée.
 
 |
 
-Pour les substances suivantes : aldrine, dieldrine, heptachlore, heptachlorépoxyde.
+Pour les substances suivantes : aldrine, dieldrine, heptachlore, heptachloépoxyde.
 
 |
 
-0,50
+0,1
 
 |
 
@@ -500,11 +560,21 @@ Pour les substances suivantes : aldrine, dieldrine, heptachlore, heptachlorépox
 
 |
 
-Pour la somme des pesticides.
+Somme des pesticides.
 
 |
 
-Radioactivité.
+Radioactivité :
+
+|
+
+|
+
+|
+
+|
+
+Activité alpha globale.
 
 |
 
@@ -516,11 +586,13 @@ Bq/l
 
 |
 
-Activité alpha globale.
+|
+
+Activité bêta globale.
 
 |
 
-1
+1,0
 
 |
 
@@ -528,7 +600,9 @@ Bq/l
 
 |
 
-Activité bêta globale.
+|
+
+Dose totale indicative.
 
 |
 
@@ -540,7 +614,9 @@ mSv/an
 
 |
 
-Dose totale indicative.
+|
+
+Tritium.
 
 |
 
@@ -549,22 +625,6 @@ Dose totale indicative.
 |
 
 Bq/l
-
-|
-
-Tritium.
-
-|
-
-Plomb.
-
-|
-
-10
-
-|
-
-µg/l
 
 |
 
@@ -584,25 +644,11 @@ mg/l
 
 |
 
-Sélénium.
-
-|
-
-10
-
-|
-
-µg/l
-
-|
-
-|
-
 Tétrachloroéthylène.
 
 |
 
-2
+0,5
 
 |
 
@@ -616,7 +662,7 @@ Trichloroéthylène.
 
 |
 
-2
+0,5
 
 |
 
@@ -630,7 +676,7 @@ Trihalométhanes.
 
 |
 
-5
+1,0
 
 |
 
@@ -638,7 +684,7 @@ Trihalométhanes.
 
 |
 
-Pour les composés suivants : chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane.
+Par substance identifiée.
 
 |
 
@@ -660,66 +706,12 @@ Zinc.
 
 |
 
-0,1
+0,10
 
 |
 
 mg/l
 
 |
-
-|
-
-Turbidité.
-
-|
-
-0,5
-
-|
-
-NFU
-
-|
-
-|
-
-Couleur.
-
-|
-
-Aucun changement anormal
-
-notamment une couleur
-
-inférieure ou égale à 15
-
-|
-
-mg/l (Pt)
-
-|
-
-Au cours de la commercialisation.
-
-|
-
-Odeur et saveur.
-
-|
-
-Aucun changement anormal
-
-notamment pas d'odeur détectée
-
-pour un taux de dilution
-
-de 3 à 25 °C.
-
-|
-
-|
-
-Au cours de la commercialisation.
 
 |

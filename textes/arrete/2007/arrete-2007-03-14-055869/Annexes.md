@@ -1,4 +1,4 @@
-# Article Annexes
+# Article Annexe I
 
 CRITÈRES DE QUALITÉ DE L'EAU MINÉRALE NATURELLE, DE L'EAU DE SOURCE ET DE L'EAU RENDUE POTABLE PAR TRAITEMENT CONDITIONNÉES AINSI QUE DE L'EAU MINÉRALE NATURELLE DISTRIBUÉE EN BUVETTE PUBLIQUE
 
@@ -140,7 +140,7 @@ par ml
 
 |
 
-Au cours de la commercialisation, la teneur totale ne peut résulter que de l'évolution normale de sa teneur à l'émergence, les analyses devant être commencées au moins dans les douze heures après le conditionnement.
+Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement, l'eau étant maintenue à 4 degrés Celsius (+/- 1 degré Celsius) pendant cette période de douze heures.
 
 |
 
@@ -172,7 +172,7 @@ par ml
 
 |
 
-Au cours de la commercialisation, les analyses devant être commencées dans les douze heures suivant le conditionnement.
+Au cours de la commercialisation, la teneur doit être mesurée dans les 12 heures suivant le conditionnement, l'eau étant maintenue à 4 degrés Celsius (+/- 1 degré Celsius) pendant cette période de douze heures.
 
 |
 
@@ -206,115 +206,23 @@ Tableau B-1. Limites de qualité physico-chimiques de l'eau minérale naturelle 
 
 ou distribuée en buvette publique
 
-PARAMÈTRES
+PARAMETRES
 
 |
 
-LIMITES DE QUALITÉ
+LIMITES DE QUALITE
 
 |
 
-UNITÉ
+UNITES
 
 |
 
-Antimoine
+NOTES
 
 |
 
-0,005 0
-
-|
-
-Mg/l
-
-|
-
-Arsenic
-
-|
-
-0,010 (As total)
-
-|
-
-Mg/l
-
-|
-
-Baryum
-
-|
-
-1,0
-
-|
-
-Mg/l
-
-|
-
-Bore
-
-|
-
-Pas de limite provisoirement
-
-|
-
-Mg/l
-
-|
-
-Cadmium
-
-|
-
-0,003
-
-|
-
-Mg/l
-
-|
-
-Chrome
-
-|
-
-0,050
-
-|
-
-Mg/l
-
-|
-
-Cuivre
-
-|
-
-1,0
-
-|
-
-Mg/l
-
-|
-
-Cyanures
-
-|
-
-0,070
-
-|
-
-Mg/l
-
-|
-
-Fluorures
+Antimoine.
 
 |
 
@@ -322,59 +230,69 @@ Fluorures
 
 |
 
-Mg/l
+µg/l
 
 |
 
-Plomb
+|
+
+Arsenic total.
 
 |
 
-0,010
+10
 
 |
 
-Mg/l
+µg/l
 
 |
 
-Manganèse
+|
+
+Baryum.
 
 |
 
-0,50
+1,0
 
 |
 
-Mg/l
+mg/l
 
 |
 
-Mercure
+|
+
+Bore.
 
 |
 
-0,001 0
+Pas de limite provisoirement.
 
 |
 
-Mg/l
+mg/l
 
 |
 
-Nickel
+|
+
+Cadmium.
 
 |
 
-0,020
+3,0
 
 |
 
-Mg/l
+µg/l
 
 |
 
-Nitrates
+|
+
+Chrome.
 
 |
 
@@ -382,11 +300,127 @@ Nitrates
 
 |
 
-Mg/l
+µg/l
 
 |
 
-Nitrites
+|
+
+Cuivre.
+
+|
+
+1,0
+
+|
+
+mg/l
+
+|
+
+|
+
+Cyanures.
+
+|
+
+70
+
+|
+
+µg/l
+
+|
+
+|
+
+Fluorures.
+
+|
+
+5,0
+
+|
+
+mg/l
+
+|
+
+Voir l'article 9 pour les mentions obligatoires.
+
+|
+
+Plomb.
+
+|
+
+10
+
+|
+
+µg/l
+
+|
+
+|
+
+Manganèse.
+
+|
+
+500
+
+|
+
+µg/l
+
+|
+
+|
+
+Mercure.
+
+|
+
+1,0
+
+|
+
+µg/l
+
+|
+
+|
+
+Nickel.
+
+|
+
+20
+
+|
+
+µg/l
+
+|
+
+|
+
+Nitrates.
+
+|
+
+50
+
+|
+
+mg/l
+
+|
+
+|
+
+Nitrites.
 
 |
 
@@ -394,31 +428,37 @@ Nitrites
 
 |
 
-Mg/l
+mg/l
 
 |
 
-Sélénium
+|
+
+Sélénium.
 
 |
 
-0,010
+10
 
 |
 
-Mg/l
+µg/l
 
 |
 
-Couleur
+|
+
+Couleur.
 
 |
 
-Au cours de la commercialisation, aucun changement anormal notamment une couleur inférieure ou égale à 15
+Au cours de la commercialisation, aucun changement anormal, notamment une couleur inférieure ou égale à 15.
 
 |
 
-Mg/l (Pt)
+mg/l (Pt)
+
+|
 
 |
 
@@ -426,13 +466,15 @@ Odeur et saveur
 
 |
 
-Au cours de la commercialisation, aucun changement anormal notamment pas d'odeur détectée pour un taux de dilution de 3 à 25 oC
+Au cours de la commercialisation, aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3 °C à 25 °C.
 
 |
 
 |
 
-Tableau B-2. Limites de qualité physico-chimiques de l'eau de source
+|
+
+Tableau B-2. Limites de qualité physico-chimiques pour l'eau de source
 
 et de l'eau rendue potable par traitement conditionnées
 
@@ -504,7 +546,7 @@ Baryum.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -546,7 +588,7 @@ Bore.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -624,7 +666,7 @@ Cuivre.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -682,7 +724,7 @@ Fluorures.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -740,7 +782,7 @@ Nitrates.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -756,7 +798,7 @@ Nitrites.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -924,7 +966,7 @@ Ammonium.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -938,7 +980,7 @@ Carbone organique total (COT).
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -952,7 +994,7 @@ Oxydabilité au permanganate de potassium mesurée après 10 minutes en milieu a
 
 |
 
-Mg/l O2
+mg/l O2
 
 |
 
@@ -968,7 +1010,7 @@ Chlorites.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -982,7 +1024,7 @@ Chlorures.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -1012,7 +1054,7 @@ Aucun changement anormal notamment une couleur inférieure ou égale à 15
 
 |
 
-Mg/l (Pt)
+mg/l (Pt)
 
 |
 
@@ -1028,7 +1070,7 @@ Cuivre.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -1098,7 +1140,7 @@ Sodium.
 
 |
 
-Mg/l
+mg/l
 
 |
 
@@ -1132,7 +1174,7 @@ Sulfates.
 
 |
 
-Mg/l
+mg/l
 
 |
 

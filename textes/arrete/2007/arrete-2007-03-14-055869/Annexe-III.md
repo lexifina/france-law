@@ -108,6 +108,14 @@ Teneur en sodium supérieure à 200 mg/l (en Na+).
 
 |
 
+"Convient pour un régime pauvre en sodium".
+
+|
+
+Teneur en sodium inférieure à 20 mg/l (en Na+).
+
+|
+
 "Convient pour la préparation des aliments des nourrissons" ou une autre mention relative au caractère approprié d'une eau minérale naturelle pour l'alimentation des nourrissons.
 
 |
