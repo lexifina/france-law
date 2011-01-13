@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015602
+
+- Question : [SEQ101015602](seq101015602.md) — Initiative citoyenne contre les organismes génétiquement modifiés
+
+## Réponse
+
+*Agriculture, JO du 2011-01-13, page 63*
+
+Le traité de Lisbonne renforce le principe de démocratie participative, notamment en apportant aux citoyens européens un nouvel outil pour prendre part au processus politique communautaire. Ainsi, l'article 11 du traité sur l'Union européenne dispose que « Des citoyens de l'Union, au nombre d'un million au moins, ressortissants d'un nombre significatif d'États membres, peuvent prendre l'initiative d'inviter la Commission européenne, dans le cadre de ses attributions, à soumettre une proposition appropriée sur des questions pour lesquelles ces citoyens considèrent qu'un acte juridique de l'Union est nécessaire aux fins de l'application des traités. Les procédures et conditions requises pour la présentation d'une telle initiative sont fixées conformément à l'article 24, premier alinéa, du traité sur le fonctionnement de l'Union européenne ». Les procédures et conditions requises pour la présentation de l'initiative introduite par le Traité de Lisbonne doivent être fixées par un règlement européen, qui est actuellement en cours de discussion au sein des institutions européennes. Les associations Greenpeace et Avaaz ont présenté à la Commission une initiative, pour laquelle un million de signatures ont été recueillies, visant à demander un moratoire sur l'introduction des plantes génétiquement modifiées en Europe. La Commission européenne pourra étudier l'initiative présentée par les associations Greenpeace et Avaaz sur les organismes génétiquement modifiés (OGM) au regard des conditions requises qui seront fixées. Le Gouvernement déterminera alors sa position sur l'éventuelle proposition de la Commission.
