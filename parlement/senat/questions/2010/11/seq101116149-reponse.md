@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101116149
+
+- Question : [SEQ101116149](seq101116149.md) — Conséquences des maladies du bois sur le vignoble d'Indre-et-Loire
+
+## Réponse
+
+*Agriculture, JO du 2011-01-13, page 64*
+
+Les maladies du bois de la vigne, esca, eutypiose et black dead arm (BDA), résultent de l'attaque d'un complexe de champignons. Depuis une dizaine d'années, on observe dans le monde entier une explosion des symptômes liés à la présence de ces maladies. On estime aujourd'hui que ces champignons sont la cause d'un taux de mortalité des ceps supérieur à 15 % dans le vignoble français. Ils constituent avec la flavescence dorée les dangers phytosanitaires majeurs les plus difficiles à contrôler. Un premier programme international de recherche initié en 2002, aidé par le Fonds d'aide européen FAVOR a réuni dix-sept participants représentant sept pays (Allemagne, Australie, Autriche, France, Italie, Portugal et USA). Ce programme ciblé sur l'esca et son cortège parasitaire a permis d'améliorer considérablement les connaissances fondamentales sur la biologie des champignons parasites ouvrant ainsi la voie à des recherches plus appliquées. Suite à l'appel à projets sur les maladies du bois de la vigne, lancé en décembre 2008 et piloté par l'Institut français de la vigne et du vin, cinq projets de recherche appliquée et d'innovation ont été retenus. La question des maladies du bois sera prochainement examinée dans le cadre du fonds de recherche et de développement actuellement mis en place à FranceAgriMer. De manière générale, l'enjeu principal est aujourd'hui de définir des orientations stratégiques de recherche, mais aussi de favoriser la diffusion de leurs résultats, ainsi que celle des pratiques de prévention et de lutte actuellement mises en oeuvre sur certains territoires. Une réflexion est en cours sur les modalités de pilotage qui pourraient être retenues.
