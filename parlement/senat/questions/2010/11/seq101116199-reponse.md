@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101116199
+
+- Question : [SEQ101116199](seq101116199.md) — Logements étudiants
+
+## Réponse
+
+*Commerce, JO du 2011-01-13, page 73*
+
+L'enquête réalisée par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a mis effectivement en évidence la présence de nombreuses clauses abusives et illicites dans les contrats de location meublée à destination des étudiants. Le manque d'information des étudiants et de leurs familles sur leurs droits en matière de location meublée et leur méconnaissance des clauses illicites et abusives interdites par le code de la consommation accentuent leurs difficultés. C'est pourquoi une nouvelle enquête de grande envergure a été lancée, au 1er septembre 2010, auprès des résidences privées pour étudiants et des professionnels de l'immobilier par les services de la DGCCRF afin de vérifier les clauses des contrats de location au regard des dispositions du code de la consommation. L'objectif est de faire disparaître les clauses abusives et illicites dans les contrats de location. Ainsi, les enquêteurs ont reçu pour instruction d'utiliser systématiquement les nouveaux pouvoirs d'injonction administrative en matière de contrat dont ils disposent désormais. Par ailleurs, la commission des clauses abusives a été saisie le 18 juin 2010 des contrats de location en meublé à destination des étudiants comportant des clauses non classées comme abusives par le code de la consommation, afin qu'elle puisse statuer sur ces clauses. Des actions appropriées seront engagées sur la base de ses recommandations. Enfin, la DGCCRF a élaboré un guide sur la location meublée à destination des étudiants, qui a été mis en ligne en novembre 2010 et distribué sous forme de brochure aux organismes publics intervenant dans ce secteur, pour améliorer l'information des étudiants et les mettre en garde contre les pratiques abusives de certains professionnels ou propriétaires.
