@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613678
+
+- Question : [SEQ100613678](seq100613678.md) — Prise en charge par les communes des frais de scolarisation
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-01-13, page 69*
+
+Les familles d'accueil d'enfants confiés sur décision du président du conseil général présentes dans ces communes scolarisent les enfants dont elles ont la responsabilité en application de l'article 373-4 du code civil qui précise que « La personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation » dont, notamment les formalités relatives à l'inscription scolaire. Toutefois, le fait que des familles présentes sur le territoire des communes accueillent des enfants n'a pas d'incidence sur le droit à scolarisation, qui est identique pour tous les enfants, compte tenu d'une part du principe d'égalité devant le service public et d'autre part, du fait que c'est la notion de résidence de la famille sur le territoire de la commune qui crée l'obligation d'accueil scolaire pour les maires. La commune de résidence est celle où résident habituellement les personnes responsables de l'enfant, c'est-à-dire la famille d'accueil, même si l'autorité parentale continue d'être exercée par les père et mère. La notion de « personnes responsables » aux termes de l'article L. 131-4 du code de l'éducation relatif à l'obligation scolaire, désigne non seulement les parents mais aussi « le tuteur ou ceux qui ont la charge de l'enfant, soit qu'ils en assument la charge à la demande des parents, du tuteur ou d'une autorité compétente, soit qu'ils exercent sur lui de façon continue, une autorité de fait ». Il n'est pas envisagé d'évolution du droit tendant à imposer aux conseils généraux de participer aux frais de scolarisation des enfants placés en famille d'accueil par décision du président du conseil général.
