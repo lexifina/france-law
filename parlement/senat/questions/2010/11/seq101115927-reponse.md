@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115927
+
+- Question : [SEQ101115927](seq101115927.md) — Adoption d'enfants venant d'Haïti
+
+## Réponse
+
+*Justice, JO du 2011-01-13, page 97*
+
+Le visa long séjour adoption, délivré par le ministère des affaires étrangères et européennes après vérification de la régularité de la procédure d'adoption simple menée en Haïti, est indépendant de la qualification de l'adoption en droit français. En effet, la réglementation haïtienne en matière d'adoption ne prévoit que l'adoption simple et le jugement la prononçant peut être converti, conformément aux dispositions de l'article 370-5 du code civil, en adoption plénière de droit français, lorsque le consentement des parents de naissance ou du représentant légal a été donné de manière libre et éclairé et en pleine connaissance de cause quant à la rupture complète et irrévocable du lien de filiation préexistant. En outre, conformément au droit international public, ce consentement doit être légalisé, Haïti n'étant lié ni par la convention de La Haye relative à l'apostille du 5 octobre 1961, ni par une convention bilatérale avec la France dispensant les actes publics de cette formalité. Enfin, le tribunal apprécie souverainement si l'adoption plénière sollicitée est conforme à l'intérêt de l'enfant. Lorsque ces conditions ne sont pas remplies, les juridictions rejettent les demandes de conversion. Cette situation n'empêche pas l'intégration de l'enfant dans sa famille, dans la mesure où le tribunal peut, après avoir vérifié la régularité de l'adoption simple étrangère, déclarer le jugement qui l'a prononcée exécutoire sur le sol français. Les parents, pleinement investis de toutes les prérogatives à l'égard de leur enfant, peuvent notamment lui donner leur nom ou souscrire pour son compte une déclaration de nationalité française.
