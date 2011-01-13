@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015676
+
+- Question : [SEQ101015676](seq101015676.md) — Achat par le Laboratoire français du fractionnement et des biotechnologies de sociétés autrichiennes de collecte de plasma
+
+## Réponse
+
+*Santé, JO du 2011-01-13, page 109*
+
+L'acquisition par le laboratoire français du fractionnement et des biotechnologies (LFB) d'un groupe de collecte étranger s'inscrit dans le souhait d'internationalisation de ce laboratoire. Son implantation sur le marché international représente une condition essentielle de son développement, dans un contexte de concentration des grands groupes internationaux du fractionnement. Le LFB joue un rôle essentiel en matière de santé publique en France et il convient d'éviter tout risque d'affaiblissement de cette entreprise qui dispose d'un monopole pour fractionner le sang collecté par l'Établissement français du sang (EFS). Ce processus d'internationalisation du LFB est parfaitement maîtrisé et respecte nos exigences de qualité et de sécurité des produits. De plus, le secrétariat d'État à la santé tient à souligner qu'au titre des dispositions de l'article L. 5124-14 du code de la santé publique, le LFB ne peut pas mettre sur le marché français des médicaments dérivés du sang provenant de collecte rémunérée, sauf dans les cas exceptionnels d'autorisation de mise sur le marché dérogatoires. Le nouvel article L. 5124-14 issu de la loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires prévoit donc les moyens pour le LFB de se développer tout en lui assignant des missions de service public précises et contraignantes sur le marché français. Cette mission de santé publique, telle que définie à l'article L. 5124-14, consiste à devoir traiter l'ensemble des volumes collectés par l'EFS.
