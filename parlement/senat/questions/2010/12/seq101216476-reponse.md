@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216476
+
+- Question : [SEQ101216476](seq101216476.md) — Suppression des droits de plantation
+
+## Réponse
+
+*Agriculture, JO du 2011-01-13, page 66*
+
+La suppression du régime des droits de plantation a été décidée lors de la réforme de l'Organisation commune de marché (OCM) vitivinicole, fin 2008, dans le cadre de la libéralisation proposée par la Commission européenne et acceptée par le Conseil, qui visait à supprimer l'intervention publique dans la gestion de l'offre de produits agricoles et à favoriser une adaptation de l'offre en fonction des signaux du marché et de la demande. Dans le cadre des négociations, les principaux pays producteurs, dont la France, avaient alors obtenu le maintien de ce régime jusqu'au 31 décembre 2015, avec la possibilité pour les États membres qui le souhaitent de maintenir l'interdiction de plantation sur leur territoire jusqu'au 31 décembre 2018. Le Gouvernement considère que le maintien d'un dispositif de régulation des plantations pour le secteur vitivinicole est indispensable pour la santé économique du secteur. Le rapport élaboré par Catherine Vautrin, à la demande du ministre chargé de l'agriculture, analyse tous les risques économiques liés à l'abandon de cet instrument et conclut à la nécessité de son maintien. Il étudie aussi les mécanismes alternatifs de gestion du potentiel de production pouvant être envisagés. Il s'agit notamment de confier la gestion de ce potentiel aux interprofessions sur la base de prévisions économiques affinées. Le Gouvernement est convaincu de l'importance, pour les filières agricoles, d'instruments de régulation indispensables pour assurer aux agriculteurs un revenu décent et stable. À l'initiative des autorités françaises, la position commune franco-allemande signée le 14 septembre 2010 place la régulation des marchés agricoles au coeur des négociations pour la future politique commune.
