@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714332
+
+- Question : [SEQ100714332](seq100714332.md) — Délivrance des autorisations de sortie de territoire
+
+## Réponse
+
+*Intérieur, JO du 2011-01-13, page 90*
+
+Le code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen) prévoit que la suppression du contrôle aux frontières intérieures ne porte pas atteinte à la possibilité pour un État membre de prévoir dans son droit national l'obligation de détention et de port de titres et de documents. En vertu de ce principe, les circulaires du 9 juillet 1981 et du 11 mai 1990 prévoient que des autorisations de sortie de territoire peuvent être délivrées au mineur français muni d'une carte nationale d'identité qui voyage dans les pays qui acceptent comme document de voyage ce titre, soit sans la présence d'un représentant légal, soit dans le cadre d'un voyage scolaire. En revanche, la détention d'un passeport en cours de validité le dispense de cette autorisation. Il est par ailleurs possible qu'avant tout embarquement les autorités aériennes vérifient l'identité de la personne qui accompagne l'enfant mineur et veuillent s'assurer de sa qualité de représentant légal. L'autorisation de sortie de territoire a pour objectif de participer au dispositif de lutte contre les déplacements irréguliers d'enfants. La loi du 9 juillet 2010 relative aux violences faites spécifiquement aux femmes, aux violences au sein du couple et aux incidences de ces derniers sur l'enfant est venue renforcer ce dispositif en prévoyant que l'interdiction de sortie de territoire peut désormais être prononcée par deux juges, le juge aux affaires familiales ou le juge des enfants, pour une durée de deux ans et assortie d'une inscription automatique au fichier des personnes recherchées, connecté au système d'information Schengen et quotidiennement utilisé par les services de la police de l'air et des frontières.
