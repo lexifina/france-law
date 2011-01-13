@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613873
+
+- Question : [SEQ100613873](seq100613873.md) — Le désarroi actuel dans les casernes de gendarmerie
+
+## Réponse
+
+*Intérieur, JO du 2011-01-13, page 90*
+
+Depuis 2002, les forces de l'ordre ont réussi, dans un environnement particulièrement contraint, à maintenir leur performance et à faire baisser la délinquance. Le rattachement organique de la gendarmerie nationale au ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, consacré par la loi du 3 août 2009, participe de cette démarche de performance. Elle s'est faite dans un souci constant d'équilibre et de complémentarité, dans le strict respect de l'identité militaire de la gendarmerie nationale. Par ailleurs, comme dans l'ensemble de la fonction publique, la police et la gendarmerie nationales ont participé et participent toujours à l'effort collectif de maîtrise des dépenses publiques. Cet effort n'a pas pour autant empêché de maintenir, voire d'accroître, les effectifs qui sont supérieurs à ce qu'ils étaient en 2002. Il a été ainsi nécessaire de rechercher systématiquement le meilleur emploi des ressources en recentrant policiers et gendarmes sur leur coeur de métier, en identifiant les missions indues et en trouvant la plus grande adéquation possible entre la fonction occupée et le statut détenu. Enfin, la modernisation des forces de sécurité est poursuivie au travers de la recherche de gains dans les complémentarités et les mutualisations comme dans la mise en oeuvre des nouvelles technologies (lecture automatisé des plaques d'immatriculation LAPI, fichier national automatisée des empreintes génétiques FNAEG, analyse des comportements sériels...). Cette dynamique est également portée par le projet de loi d'orientation et de programmation pour la performance de la sécurité intérieure.
