@@ -770,7 +770,7 @@ Dose techniquement inévitable.
 
 |
 
-Amyloglucosidase ou glucamylase ou transglucosidase d'Aspergillus niger.
+Amyloglucosidase ou a-glucosidase ou glucamylase ou transglucosidase d'Aspergillus niger non génétiquement modifiée.
 
 |
 
@@ -780,13 +780,15 @@ Enzymes.
 
 Production de sirops riches en oligosaccharides à partir d'amidon.
 
+Production d'aliments préparés contenant de l'amidon.
+
 |
 
 Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -932,6 +934,16 @@ Dose techniquement inévitable.
 
 |
 
+Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C) |
+
+Enzymes. |
+
+Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. |
+
+Hydrolyse du lactose. |
+
+Teneur techniquement inévitable. |
+
 Bêta galactosidase de Bacillus circulans (ATCC 31382).
 
 |
@@ -962,15 +974,15 @@ Hydrolyse du lactose. |
 
 Dose techniquement inévitable. |
 
-Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. |
+Bêta-galactosidase de Kluyveromyces lactis GAL 16A/ 18A. |
 
 Enzymes. |
 
-Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. |
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. |
 
 Hydrolyse du lactose. |
 
-Dose techniquement inévitable. |
+Teneur techniquement inévitable. |
 
 Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
@@ -1333,6 +1345,20 @@ La dénomination de cette enzyme doit être : "Enzyme coagulante : chymosine pro
 Dose techniquement inévitable.
 
 |
+
+Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique. |
+
+Enzymes. |
+
+Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée.
+
+Produits laitiers coagulés.
+
+|
+
+Hydrolyse de la caséine. |
+
+Teneur techniquement inévitable. |
 
 Chymosine de Kluyveromyces lactis renfermant un gène de prochymosine B de veau.
 
@@ -2322,7 +2348,7 @@ Enzymes.
 
 |
 
-Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée.
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.
 
 |
 
@@ -2330,7 +2356,7 @@ Hydrolyse du lactose.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -3008,6 +3034,16 @@ Dose techniquement inévitable.
 
 |
 
+Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber. |
+
+Enzymes. |
+
+Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie. |
+
+Hydrolyse de la fonction ester en position 2 des phospholipides. |
+
+Teneur techniquement inévitable. |
+
 Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004. |
 
 Enzymes. |
@@ -3551,6 +3587,16 @@ Dans les conditions prévues par l'arrêté du 21 décembre 1988.
 Dose techniquement inévitable.
 
 |
+
+Protéine-glutaminase issue d'une souche de Chryseobacterium proteolyticum non génétiquement modifiée (FERM P-17664). |
+
+Enzymes. |
+
+Ingrédients et denrées alimentaires à base de protéines. |
+
+Catalyse la désamidation des résidus glutaminyl des polypeptides. |
+
+Teneur techniquement inévitable. |
 
 Pullulanase (alpha dextrine 6 glucano-hydrolase) de Klebsiella planticola (15050).
 
