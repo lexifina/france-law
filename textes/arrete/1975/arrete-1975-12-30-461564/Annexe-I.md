@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des centres de formation visés à l'article 15 de l'arrêté du 30 décembre 1975
+Liste des instituts de formation visés à l'article 15 de l'arrêté du 30 décembre 1975
 
 U. E. R. de médecine Pitié-Salpêtrière de l'université Pierre-et-Marie-Curie, Paris VI.
 
