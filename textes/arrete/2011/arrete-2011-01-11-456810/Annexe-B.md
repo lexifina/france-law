@@ -46,13 +46,15 @@ République populaire démocratique de Corée
 
 |
 
+KOR
+
 |
 
 Tout aéronef, sauf ceux immatriculés P-632 et P-633
 
 |
 
-Tout aéronef sauf 2 aéronefs de type TU-204
+Tout aéronef, sauf 2 aéronefs de type TU-204
 
 |
 
@@ -74,7 +76,7 @@ Tout aéronef, sauf ceux immatriculés TR-LGV, TR-LGY, TR-AFJ et TR-AFR
 
 |
 
-Tout aéronef sauf 2 aéronefs de type Falcon 50 et 2 aéronefs de type Falcon 900
+Tout aéronef, sauf 2 aéronefs de type Falcon 50 et 2 aéronefs de type Falcon 900
 
 |
 
@@ -98,7 +100,7 @@ Tout aéronef, sauf ceux immatriculés P4-KCA, P4-KCB, P4-EAS, P4-FAS, P4-GAS, P
 
 |
 
-Tout aéronef sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aéronefs de type A319/320/321 et 5 aéronefs de type Fokker 50
+Tout aéronef, sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aéronefs de type A319/320/321 et 5 aéronefs de type Fokker 50
 
 |
 
@@ -118,11 +120,11 @@ ALE
 
 |
 
-Tout aéronef, sauf celui immatriculé 9G-TOP
+Tout aéronef, sauf ceux immatriculés 9G-TOP et 9G-RAC
 
 |
 
-Tout aéronef, sauf 1 aéronef de type DC8-63F
+Tout aéronef, sauf 2 aéronefs de type DC8-63 F
 
 |
 
@@ -142,7 +144,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D 6-CAM (851336)
 
 |
 
@@ -166,11 +168,11 @@ GBK
 
 |
 
-Tout aéronef sauf celui immatriculé TR-LHP
+Tout aéronef, sauf celui immatriculé TR-LHP
 
 |
 
-Tout aéronef sauf 1 aéronef de type Boeing B767-200
+Tout aéronef, sauf 1 aéronef de type Boeing B767-200
 
 |
 
@@ -194,7 +196,7 @@ Tout aéronef, sauf ceux immatriculés EP-IBA, EP-IBB, EP-IBC, EP-IBD, EP-IBG, E
 
 |
 
-Tout aéronef sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéronef de type B737
+Tout aéronef, sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéronef de type B737
 
 |
 
@@ -214,11 +216,11 @@ NVS
 
 |
 
-Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
+Tout aéronef, sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
+Tout aéronef, sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
 
 |
 
@@ -238,11 +240,11 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
+Tout aéronef, sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
 
 |
 
-Tout aéronef sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing B737-700
+Tout aéronef, sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing B737-700
 
 |
 
@@ -262,15 +264,15 @@ UKM
 
 |
 
-Tout aéronef sauf celui immatriculé UR-CFF
+Tout aéronef, sauf celui immatriculé UR-CFF
 
 |
 
-Tout aéronef sauf 1 aéronef de type MD-83
+Tout aéronef, sauf 1 aéronef de type MD-83
 
 |
 
-(1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
+(1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant des aéronefs avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
 (2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
@@ -278,6 +280,6 @@ Tout aéronef sauf 1 aéronef de type MD-83
 
 (4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010 de la Commission du 5 juillet 2010.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JOUE n° L 170 du 6 juillet 2010, page 15.
 
 |
