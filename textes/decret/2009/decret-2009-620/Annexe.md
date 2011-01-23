@@ -310,16 +310,6 @@ Arrêté du 6 juin 2006 relatif à la création de la Commission de sécurité d
 
 |
 
-Commission de sécurité du transport, de la distribution et de l'utilisation du gaz.
-
-|
-
-|
-
-Décret n° 2006-28 du 4 janvier 2006 instituant une commission de sécurité du transport, de la distribution et de l'utilisation du gaz.
-
-|
-
 Commission de suivi des filières de traitement des véhicules hors d'usage.
 
 |
