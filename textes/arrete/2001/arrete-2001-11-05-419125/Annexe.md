@@ -287,3 +287,31 @@ Rapporteur général de la section du rapport et des études
 110
 
 |
+
+10. Chef de service chargé de la direction des ressources humaines :
+
+DÉSIGNATION
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+majorés par emploi
+
+|
+
+Chef de service chargé de la direction des ressources humaines
+
+|
+
+1
+
+|
+
+110
+
+|
