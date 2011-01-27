@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111630
+
+- Question : [SEQ100111630](seq100111630.md) — Plan « Nature en ville »
+
+## Réponse
+
+*Écologie, JO du 2011-01-27, page 200*
+
+Suite à la conférence nationale de lancement de la démarche « Nature en ville » qui s'est tenue en juin 2009, quatre ateliers de travail « fonctions écologiques de la nature en ville et qualité de vie », « eau, nature et ville », « production des formes urbaines, articulation des échelles, relation ville et zone d'influence », « économie de la nature en ville », ont été constitués. Ces ateliers ont mobilisé en octobre, novembre et décembre 2009, chaque fois plus de 250 acteurs de la ville. Ils ont permis de préciser les grands enjeux du plan « restaurer et valoriser la nature en ville ». Ils ont également permis de dégager plus de 200 objectifs et propositions d'actions qui ont été présentés en février 2010, lors de la conférence de restitution de ces travaux qui a réuni 400 participants. Un groupe représentatif des acteurs de la ville et des cinq collèges du Grenelle de l'environnement, s'est réuni d'avril à juin 2010 pour définir les grands axes de travail et les engagements et arrêter les premières actions qui font l'objet de partenariats. Le plan entend répondre à quatre défis majeurs, à savoir « améliorer la qualité de vie et le lien social », « adapter la ville au changement climatique », « préserver la biodiversité et les services écologiques » et « promouvoir la production et la consommation durables ». Les axes de travail portent sur les interactions entre la ville, sa géographie et son milieu naturel, le développement des espaces de nature en quantité et en qualité, la promotion de la production et la consommation durable et l'amélioration des pratiques des acteurs. Le plan « Nature en ville » comprenant une vingtaine d'engagements et une cinquantaine d'actions a été présenté en octobre 2010.
