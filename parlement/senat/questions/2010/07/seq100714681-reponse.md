@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714681
+
+- Question : [SEQ100714681](seq100714681.md) — Avantages fiscaux accordés aux anciens combattants
+
+## Réponse
+
+*Économie, JO du 2011-01-27, page 202*
+
+Le système du quotient familial a pour objet de proportionner l'impôt aux facultés contributives de chaque contribuable, celles-ci étant appréciées en fonction du nombre de personnes qui vivent du revenu du foyer. Pour cette raison, les personnes célibataires, divorcées ou veuves sans enfant à charge, ont normalement droit à une part de quotient familial et les couples mariés à deux parts. La demie part supplémentaire accordée aux anciens combattants âgés de plus de soixante-quinze ans, ou à leur veuve sous la même condition d'âge, constitue déjà une importante exception à ce principe puisqu'elle ne correspond à aucune charge effective, ni à une charge de famille, ni à une charge liée à une invalidité. C'est pourquoi la loi prévoit qu'elle ne peut se cumuler avec une quelconque majoration de quotient familial à laquelle les contribuables concernés pourraient prétendre par ailleurs. C'est également pour cette raison que l'avantage de quotient familial dont bénéficie un ancien combattant marié s'applique au niveau de son foyer fiscal et ne peut excéder une demi-part, même si son conjoint est lui-même titulaire de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles. Cette règle de non-cumul, qui résulte des termes mêmes de la loi, est d'application constante. Toute autre solution remettrait en cause le principe même de l'imposition par foyer et emporterait des conséquences contraires aux principes du quotient familial puisque les foyers dépourvus de charge de famille pourraient alors bénéficier d'un nombre de parts supérieur à celui des contribuables qui supportent de telles charges.
