@@ -1508,6 +1508,16 @@ Dose techniquement inévitable.
 
 |
 
+4-α-D glucane maltotétraohydrolase (ou G4-amylase) issue de la souche de Bacillus licheniformis MDT06-228 modifiée génétiquement contenant le gène codant une protéine recombinante de la 4-α-D glucane maltotétraohydrolase PS4wt de Pseudomonas-stutzeri. |
+
+Enzymes. |
+
+Viennoiserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. |
+
+Teneur techniquement inévitable. |
+
 Dextranase de Chaetomium gracile ATCC 16153.
 
 |
@@ -2537,6 +2547,30 @@ Viennoiserie, biscuiterie, pâtisserie.
 |
 
 Modification des interactions triglycérides / gluten. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum. |
+
+Enzymes. |
+
+Industrie des huiles alimentaires. |
+
+Hydrolyse des triglycérides. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française).
+
+Viennoiserie.
+
+|
+
+Modification des interactions triglycérides/ gluten. |
 
 Teneur résiduelle techniquement inévitable. |
 
@@ -3772,6 +3806,8 @@ Formation de liaisons covalentes.
 
 L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme.
 
+Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente de la denrée alimentaire " reconstituée" doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.
+
 |
 
 Teneur résiduelle techniquement inévitable.
@@ -3812,11 +3848,15 @@ Produits à base de viandes reconstituées.
 
 |
 
-Formation de liaisons covalentes. L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme.
+Formation de liaisons covalentes.
+
+L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme.
+
+Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.
 
 |
 
-Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit final.
+Dose techniquement inévitable.L'enzyme doit être inactivée dans le produit final.
 
 |
 

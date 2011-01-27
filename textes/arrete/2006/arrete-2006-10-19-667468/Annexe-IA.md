@@ -68,7 +68,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-20 mg/kg dans le café ou le thé.
+≤ 20 mg/kg dans le café ou le thé.
 
 |
 
@@ -124,7 +124,7 @@ Saumons et truites non transformés.
 
 |
 
-Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
+Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
 
 |
 
@@ -292,7 +292,7 @@ Teneur résiduelle en aluminium ≤3 mg/kg de matière sèche dans le produit fi
 
 |
 
-Autres adjuvants de filtration et / ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé.
+Autres adjuvants de filtration et/ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé.
 
 |
 
@@ -684,7 +684,7 @@ Jus de fruits, Jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
 
 |
 
@@ -708,7 +708,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-2 mg/kg dans le café torréfié et 5 mg/kg dans le thé.
+≤ 2 mg/kg dans le café torréfié et ≤ 5 mg/kg dans le thé.
 
 |
 
@@ -784,7 +784,7 @@ Sucre.
 
 |
 
-A la dose maximale de 50 mg/kg de betteraves.L'emploi doit être fait en substitution du formol.
+A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol.
 
 |
 
@@ -888,7 +888,7 @@ Production de beurre de cacao. Le produit commercial est composé essentiellemen
 
 |
 
-1 mg/kg.
+≤ 1 mg/kg.
 
 |
 
@@ -908,7 +908,7 @@ Préparations de germes de céréales dégraissées.
 
 |
 
-5 mg/kg dans les germes de céréales dégraissées.
+≤ 5 mg/kg dans les germes de céréales dégraissées.
 
 |
 
@@ -928,7 +928,7 @@ Production ou fractionnement de graisses et d'huiles. Le produit commercial est 
 
 |
 
-1 mg/kg.
+≤ 1 mg/kg.
 
 |
 
@@ -948,9 +948,9 @@ Préparations de produits à base de protéines dégraissées et de farines dég
 
 |
 
-10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées.
+≤ 10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées.
 
-30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final.
+≤ 30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final.
 
 |
 
@@ -1196,7 +1196,7 @@ Traitement de matières premières, denrées alimentaires ou composants de denr�
 
 |
 
-10 mg/kg.
+≤ 10 mg/kg.
 
 |
 
@@ -1216,7 +1216,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
+≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
 
 |
 
@@ -1232,11 +1232,11 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-5 mg/kg, dans les huiles et graisses.
+≤ 5 mg/kg, dans les huiles et graisses.
 
 |
 
@@ -1440,7 +1440,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-0,2 mg/l.
+0, 2 mg/l.
 
 |
 
@@ -1456,7 +1456,7 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
 
 |
 
@@ -1496,7 +1496,7 @@ Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.
 
 |
 
-Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes.
+Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes.
 
 |
 
@@ -1540,7 +1540,7 @@ Traitement de matières premières, denrées alimentaires ou composants de denr�
 
 |
 
-10 mg/kg.
+≤ 10 mg/kg.
 
 |
 
@@ -1560,7 +1560,7 @@ Production de sucres à partir des mélasses.
 
 |
 
-1 mg/kg dans le sucre.
+≤ 1 mg/kg dans le sucre.
 
 |
 
@@ -1685,5 +1685,25 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 |
 
 Dose techniquement inévitable.
+
+|
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Divers.
+
+|
+
+Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.
+
+|
+
+A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.
+
+|
+
+Teneur techniquement inévitable.
 
 |

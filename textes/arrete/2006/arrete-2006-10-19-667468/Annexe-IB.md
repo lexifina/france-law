@@ -40,7 +40,7 @@ Antitartre.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -80,7 +80,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -120,7 +120,7 @@ Antitartre.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -190,7 +190,7 @@ Antitartre.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -250,7 +250,7 @@ Divers.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -310,7 +310,7 @@ Adjuvant de filtration.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -420,29 +420,45 @@ Interestérification.
 
 |
 
-Anhydride carbonique |
+Anhydride carbonique
 
-Divers |
+|
 
-Jus de légumes |
+Divers
+
+|
+
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Dose techniquement inévitable |
+Dose techniquement inévitable
 
-Anhydride sulfureux (E 220) |
+|
 
-Divers |
+Anhydride sulfureux (E 220)
 
-Jus de légumes |
+|
+
+Divers
+
+|
+
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Teneur résiduelle inférieure à 10 mg/kg |
+Teneur résiduelle inférieure à 10 mg/kg
+
+|
 
 Anhydride sulfureux et sulfites alcalins.
 
@@ -492,13 +508,17 @@ Agent de clarification.
 
 |
 
-Jus de légumes |
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
-Dose techniquement inévitable |
+Dose techniquement inévitable
+
+|
 
 Bentonite.
 
@@ -728,7 +748,7 @@ Divers.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -844,7 +864,7 @@ Agent de clarification.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1144,7 +1164,7 @@ Antitartre.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1164,7 +1184,7 @@ Antitartre.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1184,7 +1204,7 @@ Floculant et coagulant.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1204,7 +1224,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1224,7 +1244,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1244,7 +1264,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1264,7 +1284,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -1284,7 +1304,7 @@ Antimousse.
 
 |
 
-Sucre (mi -) blanc cristallisé.
+Sucre (mi-) blanc cristallisé.
 
 |
 
@@ -2108,7 +2128,7 @@ Divers.
 
 |
 
-Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et légumes et champignons crus prêts à l'emploi (dits de quatrième gamme)
+Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits, légumes et champignons crus prêts à l'emploi (dits de quatrième gamme).
 
 |
 
