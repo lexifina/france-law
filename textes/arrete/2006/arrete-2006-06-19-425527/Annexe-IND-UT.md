@@ -58,25 +58,29 @@ Sans objet.
 
 4. Durée de vie conventionnelle
 
-15 ans
+15 ans.
 
 5. Montant de certificats en kWh cumac
 
 Application |
 
-Montant unitaire en kWh
+Montant unitaire en
 
-cumac/kW pour P ≤ 630 kW |
+kWh cumac/kW
+
+pour P ≤ 630 kW |
 
 |
 
-Puissance nominale du
+Puissance du moteur
 
-moteur en kW |
+en kW |
 
 Pompage |
 
-17 000 |
+17 000
+
+|
 
 X |
 
@@ -84,31 +88,47 @@ P |
 
 Ventilation |
 
-21 000 |
+21 000
+
+|
 
 Air comprimé |
 
-8 100 |
+8 100
+
+|
 
 Compresseur froid |
 
-9 800 |
+9 800
+
+|
+
+Broyeurs, convoyeurs, agitateurs |
+
+7 500
+
+|
 
 Application |
 
-Montant unitaire en kWh
+Montant unitaire en
 
-cumac/kW pour P > 630 kW |
+kWh cumac/kW
+
+pour P > 630 kW |
 
 |
 
-Puissance nominale du
+Puissance du moteur
 
-moteur en kW |
+en kW |
 
 Pompage |
 
-28 000 |
+28 000
+
+|
 
 X |
 
@@ -116,15 +136,27 @@ P |
 
 Ventilation |
 
-28 000 |
+28 000
+
+|
 
 Air comprimé |
 
-13 000 |
+13 000
+
+|
 
 Compresseur froid |
 
-12 000 |
+12 000
+
+|
+
+Broyeurs, convoyeurs, agitateurs |
+
+13 000
+
+|
 
 Certificats d'économies d'énergie
 
@@ -1331,3 +1363,309 @@ Convoyeurs,
 broyeurs, agitateurs |
 
 12 000 |
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-15
+
+Régulation d'un groupe de production de froid permettant d'avoir une basse pression flottante
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Mise en place d'un système de régulation permettant de faire varier la basse pression (BP) du cycle frigorifique en fonction de la température réellement utile en sortie du groupe frigorifique.
+
+3. Conditions pour la délivrance de certificats
+
+Attestation du fournisseur pour l'installation d'une BP flottante permettant la fluctuation de la pression d'évaporation en fonction de la température utile en sortie du groupe frigorifique.
+
+L'attestation mentionne l'écart de température choisi entre la température d'évaporation initiale et la température en BP flottante (1 à 5°C).
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+|
+
+|
+
+Ecart entre la température
+
+d'évaporation initiale et celle en BP
+
+flottante (°C) |
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Pcompresseur(s)
+
+|
+
+X |
+
+2 |
+
+X |
+
+α (h cumac/°C)
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+200 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+5 |
+
+|
+
+|
+
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+
+La température d'évaporation initiale en BP flottante est déterminée par l'installateur en fonction des contraintes d'exploitation (température réellement utile en sortie du groupe frigorifique, souvent supérieure à la température de réglage initiale).
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-16
+
+Régulation d'un groupe de production de froid permettant d'avoir une haute pression flottante
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Mise en place d'un système de régulation permettant de faire varier la haute pression (HP) du cycle frigorifique en fonction de la température extérieure.
+
+3. Conditions pour la délivrance de certificats
+
+Attestation du fournisseur pour l'installation d'une HP flottante permettant la fluctuation de la pression de condensation en fonction de la température extérieure.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+|
+
+|
+
+Zone climatique |
+
+|
+
+|
+
+Niveau d'évaporation |
+
+|
+
+Pcompresseur(s)
+
+|
+
+X |
+
+H1, H2 |
+
+6 900
+
+|
+
+X |
+
+Froid positif
+
+(de -5°C à +5°C)
+
+TEvaporation moyenne = 0°C
+
+|
+
+1,0 |
+
+Basses températures
+
+(de -25°C à -6°C)
+
+TEvaporation moyenne = -15°C
+
+|
+
+0,8 |
+
+H3 |
+
+5 300
+
+|
+
+Très basses températures
+
+(de -56°C à -26°C)
+
+TEvaporation moyenne = -38°C
+
+|
+
+0,6 |
+
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-17
+
+Récupération de chaleur sur groupe de production de froid
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Mise en place d'un système de récupération de chaleur sur un groupe de production de froid afin de chauffer ou préchauffer de l'eau ou de l'air.
+
+3. Conditions pour la délivrance de certificats
+
+Sans objet.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+Si l'installation est équipée d'un refroidisseur d'huile :
+
+Récupération pour valorisation de la chaleur du condenseur |
+
+29 400 x Pcompresseur(s)
+
+|
+
+Récupération pour valorisation de la chaleur du désurchauffeur |
+
+4 700 x Pcompresseur(s)
+
+|
+
+Récupération pour valorisation de la chaleur du refroidisseur d'huile |
+
+3 900 x Pcompresseur(s)
+
+|
+
+Si l'installation n'est pas équipée d'un refroidisseur d'huile :
+
+Récupération pour valorisation de la chaleur du condenseur |
+
+29 400 x Pcompresseur(s)
+
+|
+
+Récupération pour valorisation de la chaleur du désurchauffeur |
+
+9 400 x Pcompresseur(s)
+
+|
+
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+
+Si la chaleur est récupérée sur 2 ou 3 des organes du groupe froid, les certificats sont cumulables.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-18
+
+Brûleur avec dispositif de récupération de chaleur sur four industriel
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Installation d'un ou plusieurs brûleurs intégrant un dispositif de récupération de chaleur (autorécupérateur, auto-régénératif, paire de brûleurs régénératifs) préchauffant l'air comburant par récupération de chaleur sur les fumées dans un four industriel continu fonctionnant au gaz naturel à une température de plus de 600°C.
+
+3. Conditions pour la délivrance de certificats
+
+Les consommations spécifiques devront être justifiées sur la base :
+
+- soit d'une campagne de mesure représentative du fonctionnement du four (suivant les préconisations de l'annexe F du document normatif AFNOR BPX30120 sur les bonnes pratiques du diagnostic énergétique) ;
+
+- soit par la collecte des données moyennes sur 3 ans des consommations d'énergie et de la production.
+
+La mise en place est réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+11,56 x Pmodifiée / Pinstallée x Conso spécifique x Production x Gain préchauffage
+
+Avec :
+
+- Pmodifiée : somme des puissances nominales des nouveaux brûleurs installés (kW)
+
+- Pinstallée : somme totale des puissances nominales de tous les brûleurs après modification (kW)
+
+- Conso spécifique : consommation spécifique du four avant modification (kWh / tonne)
+
+- Production annuelle : nouvelle production annuelle (tonne / an)
+
+- Gain préchauffage (%) : gain lié au réchauffage de l'air comburant. C'est une fonction de la température des fumées à la sortie du four (température d'extraction des fumées) et de la température de l'air préchauffé (mesuré par l'abaque ci après). (schéma non reproduit consulter le fac-similé à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110128&numTexte=10&pageDebut=01700&pageFin=01829
+
+La température des fumées considérée au niveau de l'axe des abscisses est la température d'extraction des fumées (en sortie de four) avant le remplacement des brûleurs.
+
+La température moyenne d'air préchauffé est fournie par le constructeur.

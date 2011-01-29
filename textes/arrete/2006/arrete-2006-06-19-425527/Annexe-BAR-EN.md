@@ -232,7 +232,7 @@ Bâtiments résidentiels existants.
 
 Pour des actions engagées avant le 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 2 W/m2.K.
 
-Pour des actions engagées à partir du 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 1,8 W/m2.K.
+Pour des actions engagées à partir du 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 1,8 W/m2.K.
 
 Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant.
 
@@ -240,9 +240,9 @@ Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant.
 
 La fenêtre ou porte-fenêtre a des caractéristiques de performance et de qualité validées :
 
-a. soit par la marque de certification de produit : ACOTHERM ;
+1. soit par la marque de certification de produit : ACOTHERM ;
 
-b. soit par les marques de certification :
+2. soit par les marques de certification :
 
 - NF menuiserie PVC certifié - CSTB CERTIFIED pour le PVC,
 
@@ -250,7 +250,7 @@ b. soit par les marques de certification :
 
 - NF fenêtres bois pour le bois ;
 
-c. soit par une démarche qualité de la validation des performances thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
+3. soit par une démarche qualité de la validation des performances thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
 
 - avis technique valide du CSTB pour les produits non traditionnels,
 
@@ -260,13 +260,13 @@ c. soit par une démarche qualité de la validation des performances thermiques 
 
 - ou Document Technique d'Application (DTA) valide du CSTB (quels que soient les matériaux utilisés : aluminium ou PVC) ;
 
-d. soit par des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+4. soit par des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-35 ans
+35 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -328,121 +328,67 @@ H3 |
 
 |
 
+Le nombre de fenêtre(s) ou porte(s)-fenêtre(s) posée(s) peut être évalué de manière conventionnelle à partir de la surface de fenêtre(s) ou porte(s)-fenêtre(s) posées sur la base : 1 fenêtre ou 1 porte-fenêtre = 2,28 m².
+
 Certificats d'économies d'énergie
 
 Opération n° BAR-EN-05
 
 Isolation des toitures terrasses
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2 Dénomination :
+2. Dénomination
 
-Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique R ≥ 2,6 m² K/W.
+Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique :
 
-3. Conditions pour la délivrance de certificats :
+R ≥ 3 m2.K/W.
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+3. Conditions pour la délivrance de certificats
 
-Les isolants doivent être mis en uvre selon les DTU séries 40 à 43 ou avis technique.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT (en kWh cumac/m² d'isolant)
+Montant en kWh cumac / m² d'isolant |
 
-|
+3 m2.K/W ≤ R < 3,5 m2.K/W |
 
-|
+R ≥ 3,5 m2.K/W |
 
-2 m² K/W ≤ R < 2,6 m² K/W
+Zone climatique |
 
-(uniquement pour des actions
+Énergie de chauffage |
 
-engagées avant le 1er janvier 2008)
+Zone climatique |
 
-|
+Énergie de chauffage |
 
-2,6 m² K/W ≤ R < 3,5 m² K/W
-
-|
-
-R ≥ 3,5 m² K/W
-
-|
-
-|
-
-Energie de chauffage
-
-|
-
-Energie de chauffage
-
-|
-
-Energie de chauffage
-
-|
-
-Zone
-
-climatique
-
-|
-
-Electricité
-
-|
+Électricité |
 
 Combustible
 
 |
 
-Electricité
+Électricité |
 
-|
+Combustible |
 
-Combustible
+H1 |
 
-|
+550 |
 
-Electricité
+880 |
 
-|
-
-Combustible
-
-|
-
-H1
-
-|
-
-530
-
-|
-
-840
-
-|
-
-550
-
-|
-
-880
-
-|
+H1 |
 
 1 200
 
@@ -452,57 +398,29 @@ H1
 
 |
 
-H2
+H2 |
 
-|
+450 |
 
-430
+720 |
 
-|
+H2 |
 
-680
-
-|
-
-450
-
-|
-
-720
-
-|
-
-950
-
-|
+950 |
 
 1 500
 
 |
 
-H3
+H3 |
 
-|
+300 |
 
-290
+480 |
 
-|
+H3 |
 
-460
-
-|
-
-300
-
-|
-
-480
-
-|
-
-630
-
-|
+630 |
 
 1 000
 
@@ -530,7 +448,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -545,8 +463,6 @@ Surface d'isolant (m²) |
 X |
 
 S |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -570,7 +486,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -585,5 +501,3 @@ Surface d'isolant (m²) |
 X |
 
 S |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

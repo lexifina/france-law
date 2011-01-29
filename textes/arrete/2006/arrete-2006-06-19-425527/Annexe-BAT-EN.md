@@ -6,67 +6,35 @@ Opération n° BAT-EN-01
 
 Isolation de combles ou de toitures
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une isolation thermique R ≥ 5 m² K/W en comble ou en toiture.
+Mise en place d'une isolation thermique de résistance thermique R ≥ 5 m².K/W en comble ou en toiture.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou tout label d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie accrédité selon la norme pertinente de la série NF EN 45000. Les isolants doivent être mis en uvre conformément aux règles en vigueur ou CPT d'isolation des combles.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : type de logement (maison individuelle ou appartement) et ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-(en kWh cumac/m² d'isolant)
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
 
-|
+Facteur thermique |
 
-SECTEURS
-
-d'activité
-
-|
-
-FACTEUR
-
-thermique
-
-|
-
-2,5 m² K/W
-
-≤
-
-R
-
-<
-
-5 m² K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 5 m² K/W
+R ≥ 5 m2 .K/W |
 
 |
 
@@ -74,75 +42,51 @@ Bureaux |
 
 0,5 |
 
-Zone climatique
+Zone
+
+climatique |
+
+Énergie de chauffage |
+
+X |
+
+Enseignement
+
+Commerces
+
+Hôtellerie -
+
+Restauration
 
 |
-
-Energie de chauffage
-
-|
-
-Zone climatique
-
-|
-
-Energie de chauffage
-
-|
-
-Enseignement, commerces, hôtellerie-restauration |
 
 0,6 |
 
-|
+Électricité |
 
-Electricité
+Combustible |
 
-|
+Santé |
 
-Combustible
+1,1 |
 
-|
+H1 |
 
-|
+2 400 |
 
-Electricité
-
-|
-
-Combustible
+3 800 |
 
 |
 
-Santé
+Autres secteurs |
 
-|
+0,5 |
 
-1,1
+H2 |
 
-|
+2 000 |
 
-H1
-
-|
-
-1 100
-
-|
-
-1 700
-
-|
-
-H1
-
-|
-
-2 400
-
-|
-
-3 800
+3 100 |
 
 |
 
@@ -150,55 +94,13 @@ H1
 
 |
 
-H2
+H3 |
+
+1 300 |
+
+2 100 |
 
 |
-
-900
-
-|
-
-1 400
-
-|
-
-H2
-
-|
-
-2 000
-
-|
-
-3 100
-
-|
-
-|
-
-|
-
-H3
-
-|
-
-600
-
-|
-
-900
-
-|
-
-H3
-
-|
-
-1 300
-
-|
-
-2 100
 
 |
 
@@ -208,87 +110,49 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-01-GT
 
-Isolation de combles ou de toitures
+Isolation de combles ou de toitures dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+2. Dénomination
 
-2. Dénomination :
+Mise en place d'une isolation thermique de résistance thermique R ≥ 5 m².K/W en comble ou en toiture.
 
-Mise en place d'une isolation thermique de résistance thermique R≥ 5 m².K/W en comble ou en toiture.
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la délivrance de certificats :
-
-Les isolants ont une certification ACERMI ou tout label d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-en kWh cumac/m² d'isolant
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
 
-|
+Facteur thermique |
 
-SECTEUR
-
-d'activité
-
-|
-
-FACTEUR
-
-correctif
-
-|
-
-2,5 m².K/W ≤ R < 5 m².K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 5 m².K/W
+R ≥ 5 m2.K/W |
 
 |
 
 Bureaux |
 
-0,5
-
-|
+0,5 |
 
 Zone
 
-climatique
+climatique |
 
-|
-
-Energie de chauffage
-
-|
-
-Zone
-
-climatique
-
-|
-
-Energie de chauffage
+Énergie de chauffage |
 
 |
 
@@ -296,115 +160,71 @@ Enseignement |
 
 0,4 |
 
-Electricité
+Électricité |
+
+Combustible |
+
+X |
+
+Commerces |
+
+0,5 |
+
+H1 |
+
+2 400 |
+
+3 800 |
 
 |
 
-Combustible
+Hôtellerie -
+
+Restauration
 
 |
 
-Electricité |
-
-Combustible
+0,4 |
 
 |
 
-H1
+Santé |
+
+0,9 |
 
 |
 
-1 100
+Autres secteurs |
+
+0,4 |
 
 |
 
-1 700
+|
 
 |
 
-H1
+H2 |
+
+2 000 |
+
+3 100 |
 
 |
 
-2 400
+|
 
 |
 
-3 800
+H3 |
+
+1 300 |
+
+2 100 |
 
 |
 
-Commerces
-
 |
-
-0,5
-
-|
-
-H2
-
-|
-
-900
-
-|
-
-1 400
-
-|
-
-H2
-
-|
-
-2 000
-
-|
-
-3 100
-
-|
-
-Hôtellerie-
-
-restauration
-
-|
-
-0,4
-
-|
-
-H3
-
-|
-
-600
-
-|
-
-900
-
-|
-
-H3
-
-|
-
-1 300
-
-|
-
-2 100
-
-|
-
-Santé
-
-|
-
-0,9
 
 |
 
@@ -414,67 +234,39 @@ Opération n° BAT-EN-02
 
 Isolation des murs par l'intérieur
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m² K/W sur murs existants.
+Pour les actions engagées avant le 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m2.K/W sur murs.
+
+Pour les actions engagées à partir du 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,8 m².K/W sur murs.
 
 3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
-
-Les isolants doivent être mis en uvre selon les DTU 26.1 ou 52.1 ou en sous face selon les règles de l'art ou avis technique.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-(en kWh cumac/m² d'isolant)
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
 
-|
+Facteur
 
-SECTEURS
+thermique |
 
-d'activité
-
-|
-
-FACTEUR
-
-thermique
-
-|
-
-1,2 m² K/W
-
-≤
-
-R
-
-<
-
-2,4 m² K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 2,4 m² K/W
+R ≥ 2,4 m2.K/W |
 
 |
 
@@ -482,75 +274,53 @@ Bureaux |
 
 0,5 |
 
-Zone climatique
+Zone
+
+climatique |
+
+Énergie de chauffage |
+
+X |
+
+Enseignement
+
+Commerces
+
+Hôtellerie -
+
+Restauration
 
 |
-
-Energie de chauffage
-
-|
-
-Zone climatique
-
-|
-
-Energie de chauffage
-
-|
-
-Enseignement, commerces, hôtellerie-restauration |
 
 0,6 |
 
-|
+Électricité |
 
-Electricité
-
-|
-
-Combustible
+Combustible |
 
 |
 
-|
+Santé |
 
-Electricité
+1,1 |
 
-|
+H1 |
 
-Combustible
+3 900 |
 
-|
-
-Santé
+6 100 |
 
 |
 
-1,1
+Autres secteurs |
 
-|
+0,5 |
 
-H1
+H2 |
 
-|
+3 200 |
 
-1 700
-
-|
-
-2 700
-
-|
-
-H1
-
-|
-
-3 900
-
-|
-
-6 100
+5 000 |
 
 |
 
@@ -558,55 +328,13 @@ H1
 
 |
 
-H2
+H3 |
+
+2 100 |
+
+3 300 |
 
 |
-
-1 400
-
-|
-
-2 200
-
-|
-
-H2
-
-|
-
-3 200
-
-|
-
-5 000
-
-|
-
-|
-
-|
-
-H3
-
-|
-
-900
-
-|
-
-1 500
-
-|
-
-H3
-
-|
-
-1 300
-
-|
-
-3 300
 
 |
 
@@ -614,131 +342,67 @@ H3
 
 Certificats d'économies d'énergie
 
-Opération n°BAT-EN-02-GT
+Opération n° BAT-EN-02-GT
 
-Isolation des murs par l'intérieur
+Isolation des murs par l'intérieur dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+2. Dénomination
 
-2. Dénomination :
+Pour les actions engagées avant le 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur murs.
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur murs existants.
+Pour les actions engagées à partir du 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,8 m².K/W sur murs.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-en kWh cumac/m² d'isolant
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
+
+Facteur thermique |
+
+R ≥ 2,4 m2.K/W |
 
 |
 
-SECTEUR
+Bureaux |
 
-d'activité
-
-|
-
-FACTEUR
-
-correctif
-
-|
-
-1,2 m².K/W ≤ R < 2,4 m².K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 2,4 m².K/W
-
-|
-
-Bureaux
-
-|
-
-0,5
-
-|
+0,5 |
 
 Zone
 
-climatique
+climatique |
+
+Énergie de chauffage |
 
 |
 
-Energie de chauffage
+Enseignement |
 
-|
+0,4 |
 
-Zone
+Électricité |
 
-climatique
+Combustible |
 
-|
+X |
 
-Energie de chauffage
-
-|
-
-Enseignement
-
-|
-
-0,4
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-Electricité |
-
-Combustible
-
-|
-
-H1
-
-|
-
-1 700
-
-|
-
-2 700
-
-|
-
-H1
-
-|
+H1 |
 
 3 900
 
@@ -748,29 +412,29 @@ H1
 
 |
 
-Commerces
+|
+
+Commerces |
+
+0,5 |
+
+Hôtellerie -
+
+Restauration
 
 |
 
-0,5
+0,4 |
 
-|
+Santé |
 
-H2
+0,9 |
 
-|
+Autres secteurs |
 
-1 400
+0,4 |
 
-|
-
-2 200
-
-|
-
-H2
-
-|
+H2 |
 
 3 200
 
@@ -780,31 +444,13 @@ H2
 
 |
 
-Hôtellerie-
-
-restauration
+|
 
 |
 
-0,4
-
 |
 
-H3
-
-|
-
-900
-
-|
-
-1 500
-
-|
-
-H3
-
-|
+H3 |
 
 2 100
 
@@ -814,11 +460,9 @@ H3
 
 |
 
-Santé
-
 |
 
-0,9
+|
 
 |
 
@@ -828,63 +472,35 @@ Opération n° BAT-EN-03
 
 Isolation d'un plancher
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m²/K/W sur/sous plancher.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur/sous plancher.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
-
-Les isolants doivent être mis en uvre selon les DTU 26.1 ou en sous face selon les règles de l'art.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-(en kWh cumac/m² d'isolant)
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
 
-|
+Facteur thermique |
 
-SECTEURS
-
-d'activité
-
-|
-
-FACTEUR
-
-thermique
-
-|
-
-1,2 m² K/W
-
-≤
-
-R < 2,4 m² K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 2,4 m² K/W
+R ≥ 2,4 m2.K/W |
 
 |
 
@@ -892,101 +508,51 @@ Bureaux |
 
 0,5 |
 
-Zone climatique
+Zone
+
+climatique |
+
+Énergie de chauffage |
+
+X |
+
+Enseignement
+
+Commerces
+
+Hôtellerie -
+
+Restauration
 
 |
-
-Energie de chauffage
-
-|
-
-Zone climatique
-
-|
-
-Energie de chauffage
-
-|
-
-Enseignement, commerces, hôtellerie-restauration |
 
 0,6 |
 
-|
+Électricité |
 
-Electricité
-
-|
-
-Combustible
+Combustible |
 
 |
 
-|
+Santé |
 
-Electricité
+1,1 |
 
-|
+H1 |
 
-Combustible
+4 800 |
 
-|
-
-Santé
+7 600 |
 
 |
 
-1,1
+Autres secteurs |
 
-|
+0,5 |
 
-H1
+H2 |
 
-|
-
-2 200
-
-|
-
-3 400
-
-|
-
-H1
-
-|
-
-4 800
-
-|
-
-7 600
-
-|
-
-|
-
-|
-
-H2
-
-|
-
-1 800
-
-|
-
-2 800
-
-|
-
-H2
-
-|
-
-3 900
-
-|
+3 900 |
 
 6 200
 
@@ -996,27 +562,15 @@ H2
 
 |
 
-H3
-
 |
 
-1 200
+H3 |
+
+2 700 |
+
+4 300 |
 
 |
-
-2 000
-
-|
-
-H3
-
-|
-
-2 700
-
-|
-
-4 300
 
 |
 
@@ -1026,129 +580,63 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-03-GT
 
-Isolation d'un plancher
+Isolation d'un plancher dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée entre 5 000 m² et 10 000 m².
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
-
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur/sous plancher.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-en kWh cumac/m² d'isolant
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
+
+Facteur thermique |
+
+R ≥ 2,4 m2.K/W |
 
 |
 
-SECTEUR
+Bureaux |
 
-d'activité
-
-|
-
-FACTEUR
-
-correctif
-
-|
-
-1,2 m².K/W ≤ R < 2,4 m².K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 2,4 m².K/W
-
-|
-
-Bureaux
-
-|
-
-0,5
-
-|
+0,5 |
 
 Zone
 
-climatique
+climatique |
+
+Énergie de chauffage |
 
 |
 
-Energie de chauffage
+Enseignement |
 
-|
+0,4 |
 
-Zone
+Électricité |
 
-climatique
+Combustible |
 
-|
+X |
 
-Energie de chauffage |
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-Enseignement
-
-|
-
-0,4
-
-|
-
-H1
-
-|
-
-2 200
-
-|
-
-3 400
-
-|
-
-H1
-
-|
+H1 |
 
 4 800
 
@@ -1158,29 +646,29 @@ H1
 
 |
 
-Commerces
+|
+
+Commerces |
+
+0,5 |
+
+Hôtellerie -
+
+Restauration
 
 |
 
-0,5
+0,4 |
 
-|
+Santé |
 
-H2
+0,9 |
 
-|
+Autres secteurs |
 
-1 800
+0,4 |
 
-|
-
-2 800
-
-|
-
-H2
-
-|
+H2 |
 
 3 900
 
@@ -1190,31 +678,13 @@ H2
 
 |
 
-Hôtellerie-
-
-restauration
+|
 
 |
 
-0,4
-
 |
 
-H3
-
-|
-
-1 200
-
-|
-
-2 000
-
-|
-
-H3
-
-|
+H3 |
 
 2 700
 
@@ -1224,11 +694,9 @@ H3
 
 |
 
-Santé
-
 |
 
-0,9
+|
 
 |
 
@@ -1238,67 +706,63 @@ Opération n° BAT-EN-04
 
 Fenêtre ou porte-fenêtre complète avec vitrage isolant
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant correspondant à un coefficient de transmission surfacique Uw ≤ 2 W/m² K.
+Pour des actions engagées avant le 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 2 W/m².K.
 
-3. Conditions particulières à l'obtention de certificats :
+Pour des actions engagées à partir du 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 1,8 W/m².K.
 
-La fenêtre ou porte-fenêtre a la certification NF CSTBat, le label ACOTHERM et comporte des doubles vitrages à isolation renforcée certifiés par CEKAL ou toutes caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+3. Conditions particulières à l'obtention de certificats
 
-Mise en place réalisée par un professionnel dans le respect des DTU et des cahiers des prescriptions techniques du CSTB en vigueur pour chacun des matériaux (aluminium, bois et PVC).
+La fenêtre ou porte-fenêtre a des caractéristiques de performance et de qualité validées :
 
-4. Durée de vie conventionnelle :
+a. soit par la marque de certification de produit : ACOTHERM ;
+
+b. soit par les marques de certification :
+
+NF menuiserie PVC certifié - CSTB CERTIFIED pour le PVC,
+
+NF menuiserie aluminium à rupture de pont thermique - certifié CSTB CERTIFIED pour l'aluminium,
+
+NF fenêtres bois pour le bois ;
+
+c. soit par une démarche qualité de la validation des performances thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
+
+avis technique valide du CSTB pour les produits non traditionnels,
+
+ou Menuiseries 21 pour les fenêtres ou portes-fenêtres en bois,
+
+ou homologation de gamme pour les fenêtres ou portes-fenêtres en aluminium à rupture de pont thermique valide du CSTB,
+
+ou Document Technique d'Application (DTA) valide du CSTB (quels que soient les matériaux utilisés : aluminium ou PVC) ;
+
+d. soit par des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT UNITAIRE
+Montant en kWh cumac / m² de fenêtre ou
 
-(en kWh cumac/m²)
-
-|
-
-X
+porte-fenêtre complète avec vitrage isolant
 
 |
 
-SECTEURS
-
-d'activité
-
 |
 
-FACTEUR
+Secteur d'activité |
 
-thermique
+Facteur thermique |
 
-|
-
-Zone climatique
-
-|
-
-2 W/m² K <
-
-Uw
-
-≤
-
-2,5 W/m² K
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-Uw ≤ 2 W/m² K
+Uw ≤ 2 W/m².K |
 
 |
 
@@ -1306,59 +770,39 @@ Bureaux |
 
 0,5 |
 
-Energie de chauffage
+Zone
+
+climatique |
+
+Énergie de chauffage |
+
+X |
+
+Enseignement
+
+Commerces
+
+Hôtellerie -
+
+Restauration
 
 |
-
-Energie de chauffage
-
-|
-
-Enseignement, commerce, cafés, hôtellerie-restauration |
 
 0,6 |
 
-|
+Électricité |
 
-Electricité
-
-|
-
-Combustible
+Combustible |
 
 |
 
-Electricité
+Santé |
 
-|
+1,1 |
 
-Combustible
+H1 |
 
-|
-
-Santé
-
-|
-
-1,1
-
-|
-
-H1
-
-|
-
-1 700
-
-|
-
-2 600
-
-|
-
-4 000
-
-|
+4 000 |
 
 6 300
 
@@ -1366,23 +810,13 @@ H1
 
 |
 
-|
+Autres secteurs |
 
-H2
+0,5 |
 
-|
+H2 |
 
-1 400
-
-|
-
-2 100
-
-|
-
-3 300
-
-|
+3 300 |
 
 5 100
 
@@ -1392,23 +826,17 @@ H2
 
 |
 
-H3
-
 |
 
-900
+H3 |
 
-|
-
-1 400
-
-|
-
-2 200
-
-|
+2 200 |
 
 3 400
+
+|
+
+|
 
 |
 
@@ -1418,117 +846,89 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-04-GT
 
-Fenêtre ou porte-fenêtre complète avec vitrage isolant
+Fenêtre ou porte-fenêtre complète avec vitrage isolant dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée entre 5 000 m² et 10 000 m².
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+2. Dénomination
 
-2. Dénomination :
+Pour des actions engagées avant le 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 2 W/m².K.
 
-Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant correspondant à un coefficient de transmission surfacique Uw ≤ 2 W/m²K.
+Pour des actions engagées à partir du 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant dont le coefficient de transmission surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw ≤ 1,8 W/m².K.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions particulières à l'obtention de certificats
 
-La fenêtre ou porte-fenêtre a la certification NF CSTBat, le label ACOTHERM et comporte des doubles vitrages à isolation renforcée certifiés par CEKAL ou toutes caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+La fenêtre ou porte-fenêtre a des caractéristiques de performance et de qualité validées :
+
+a. soit par la marque de certification de produit : ACOTHERM ;
+
+b. soit par les marques de certification :
+
+- NF menuiserie PVC certifié - CSTB CERTIFIED pour le PVC,
+
+- NF menuiserie aluminium à rupture de pont thermique - certifié CSTB CERTIFIED pour l'aluminium,
+
+- NF fenêtres bois pour le bois ;
+
+c. soit par une démarche qualité de la validation des performances thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
+
+- avis technique valide du CSTB pour les produits non traditionnels,
+
+- ou Menuiseries 21 pour les fenêtres ou portes-fenêtres en bois,
+
+- ou homologation de gamme pour les fenêtres ou portes-fenêtres en aluminium à rupture de pont thermique valide du CSTB,
+
+- ou Document Technique d'Application (DTA) valide du CSTB (quels que soient les matériaux utilisés : aluminium ou PVC) ;
+
+d. soit par des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT UNITAIRE
+Montant en kWh cumac / m² de fenêtre ou
 
-en kWh cumac/m²
-
-|
-
-X
+porte-fenêtre complète avec vitrage isolant |
 
 |
 
-SECTEUR
+Secteur d'activité |
 
-d'activité
+Facteur thermique |
 
-|
-
-FACTEUR
-
-correctif
+Uw ≤ 2 W/m².K |
 
 |
+
+Bureaux |
+
+0,5 |
 
 Zone
 
-climatique
+climatique |
+
+Énergie de chauffage |
 
 |
 
-2 W/m²K < Uw ≤ 2,5 W/m²K
+Enseignement |
 
-(uniquement pour des actions
+0,4 |
 
-engagées avant le 1er janvier 2008) |
+Électricité |
 
-Uw ≤ 2 W/m²K
+Combustible |
 
-|
+X |
 
-Bureaux
-
-|
-
-0,5
-
-|
-
-Energie de chauffage
-
-|
-
-Energie de chauffage |
-
-Enseignement
-
-|
-
-0,4
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-H1
-
-|
-
-1 700
-
-|
-
-2 600
-
-|
+H1 |
 
 4 000
 
@@ -1538,25 +938,29 @@ H1
 
 |
 
-Commerces
+|
+
+Commerces |
+
+0,5 |
+
+Hôtellerie -
+
+Restauration
 
 |
 
-0,5
+0,4 |
 
-|
+Santé |
 
-H2
+0,9 |
 
-|
+Autres secteurs |
 
-1 400
+0,4 |
 
-|
-
-2 100
-
-|
+H2 |
 
 3 300
 
@@ -1566,27 +970,13 @@ H2
 
 |
 
-Hôtellerie-
-
-restauration
+|
 
 |
 
-0,4
-
 |
 
-H3
-
-|
-
-900
-
-|
-
-1 400
-
-|
+H3 |
 
 2 200
 
@@ -1596,11 +986,9 @@ H3
 
 |
 
-Santé
-
 |
 
-0,9
+|
 
 |
 
@@ -1610,67 +998,39 @@ Opération n° BAT-EN-05
 
 Isolation des murs par l'extérieur
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un doublage extérieur isolant (complexe ou sur ossature) de résistance thermique R. ≥ 2,4 m² K/W sur murs existants.
+Pour les actions engagées avant le 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur murs.
 
-3. Conditions pour la délivrance de certificats :
+Pour les actions engagées à partir du 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,8 m².K/W sur murs.
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+3. Conditions pour la délivrance de certificats
 
-Ils doivent être mis en uvre selon les DTU séries 25, 33 à 41 et avis techniques.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT
-
-(en kWh cumac/m² d'isolant)
+Montant en kWh cumac / m² d'isolant
 
 |
 
-X
-
 |
 
-SECTEURS
+Secteur d'activité |
 
-d'activité
+Facteur thermique |
 
-|
-
-FACTEUR
-
-thermique
-
-|
-
-1,2 m² K/W
-
-≤
-
-R
-
-<
-
-2,4 m² K/W
-
-(uniquement pour des actions engagées
-
-avant le 1er janvier 2008)
-
-|
-
-R ≥ 2,4 m² K/W
+R ≥ 2,4 m².K/W |
 
 |
 
@@ -1678,69 +1038,37 @@ Bureaux |
 
 0,5 |
 
-Zone climatique
+Zone
+
+climatique |
+
+Énergie de chauffage |
+
+X |
+
+Enseignement
+
+Commerces
+
+Hôtellerie -
+
+Restauration
 
 |
-
-Energie de chauffage
-
-|
-
-Zone climatique
-
-|
-
-Energie de chauffage
-
-|
-
-Enseignement, commerces, hôtellerie-restauration |
 
 0,6 |
 
-|
+Électricité |
 
-Electricité
-
-|
-
-Combustible
+Combustible |
 
 |
 
-|
+Santé |
 
-Electricité
+1,1 |
 
-|
-
-Combustible
-
-|
-
-Santé
-
-|
-
-1,1
-
-|
-
-H1
-
-|
-
-1 700
-
-|
-
-2 700
-
-|
-
-H1
-
-|
+H1 |
 
 3 900
 
@@ -1752,27 +1080,13 @@ H1
 
 |
 
-|
+Autres secteurs |
 
-H2
+0,5 |
 
-|
+H2 |
 
-1 400
-
-|
-
-2 200
-
-|
-
-H2
-
-|
-
-3 200
-
-|
+3 200 |
 
 5 000
 
@@ -1782,27 +1096,19 @@ H2
 
 |
 
-H3
-
 |
 
-900
+H3 |
 
-|
-
-1 500
-
-|
-
-H3
-
-|
-
-2 100
-
-|
+2 100 |
 
 3 300
+
+|
+
+|
+
+|
 
 |
 
@@ -1810,117 +1116,65 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-05-GT
 
-Isolation des murs par l'extérieur
+Isolation des murs par l'extérieur dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée entre 5 000 m² et 10 000 m².
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+2. Dénomination
 
-2. Dénomination :
+Pour les actions engagées avant le 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur murs.
 
-Mise en place d'un doublage extérieur isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur murs existants.
+Pour les actions engagées à partir du 01/01/2011, mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R  2,8 m².K/W sur murs.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT UNITAIRE
-
-en kWh cumac/m² d'isolant
+Montant en kWh cumac / m² d'isolant |
 
 |
 
-X
+Secteur d'activité |
+
+Facteur thermique |
+
+R ≥ 2,4 m2.K/W |
 
 |
 
-SECTEUR
+Bureaux |
 
-d'activité
-
-|
-
-FACTEUR
-
-correctif
-
-|
+0,5 |
 
 Zone
 
-climatique
+climatique |
+
+Énergie de chauffage |
 
 |
 
-1,2 m².K/W ≤ R < 2,4 m².K/W
+Enseignement |
 
-(uniquement pour des actions
+0,4 |
 
-engagées avant le 1er janvier 2008) |
+Électricité |
 
-R ≥ 2,4 m².K/W
+Combustible |
 
-|
+X |
 
-Bureaux
-
-|
-
-0,5
-
-|
-
-Energie de chauffage
-
-|
-
-Energie de chauffage |
-
-Enseignement
-
-|
-
-0,4
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-Electricité
-
-|
-
-Combustible
-
-|
-
-H1
-
-|
-
-1 700
-
-|
-
-2 700
-
-|
+H1 |
 
 3 900
 
@@ -1930,25 +1184,29 @@ H1
 
 |
 
-Commerces
+|
+
+Commerces |
+
+0,5 |
+
+Hôtellerie -
+
+Restauration
 
 |
 
-0,5
+0,4 |
 
-|
+Santé |
 
-H2
+0,9 |
 
-|
+Autres secteurs |
 
-1 400
+0,4 |
 
-|
-
-2 200
-
-|
+H2 |
 
 3 200
 
@@ -1958,27 +1216,13 @@ H2
 
 |
 
-Hôtellerie-
-
-restauration
+|
 
 |
 
-0,4
-
 |
 
-H3
-
-|
-
-900
-
-|
-
-1 500
-
-|
+H3 |
 
 2 100
 
@@ -1988,15 +1232,13 @@ H3
 
 |
 
-Santé
+|
 
 |
 
-0,9
-
 |
 
-Certificats d'économies d'énergie
+Certificats d''économies d'énergie
 
 Opération n° BAT-EN-06
 
@@ -2018,7 +1260,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans pour l'isolation
+25 ans pour l'isolation.
 
 5. Montant de certificats en kWh cumac
 
@@ -2066,109 +1308,73 @@ Autres secteurs |
 
 |
 
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus, pour cette action menée dans les DOM.
-
 Certificats d'économies d'énergie
 
 Opération n° BAT-EN-07
 
-Isolation des toitures terrasses et couvertures de pente < 5 %
+Isolation des toitures terrasses et couvertures de
 
-1. Secteur d'application :
+pente < 5%
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
+1. Secteur d'application
 
-2. Dénomination :
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m².
 
-Mise en place d'une isolation de résistance thermique R ≥ 2,6 m² K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
+2. Dénomination
 
-3. Conditions pour la délivrance de certificats :
+Mise en place d'une isolation de résistance thermique R ≥ 2,6 m².K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+3. Conditions pour la délivrance de certificats
 
-Ils doivent être mis en uvre selon les DTU séries 40 à 43 et avis techniques.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-35 ans.
+35 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT (en kWh cumac/m² d'isolant)
-
-|
-
-Energie
-
-de chauffage
+Montant unitaire en kWh cumac / m² d'isolant |
 
 |
 
-Zone
+Secteur d'activité |
 
-climatique
+Facteur
 
-|
+thermique |
 
-Caractéristique paroi finale
+Énergie de chauffage |
 
-|
+Zone climatique |
 
-|
-
-|
-
-2 m² K/W
-
-≤
-
-R < 2,6 m² K/W
-
-(uniquement pour des actions engagées avant
-
-le 1er janvier 2008)
+Caractéristique de la paroi finale |
 
 |
 
-2,6 m² K/W
+Bureaux |
 
-≤
+0,5 |
 
-R < 3,5 m² K/W
+2,6 m².K/W ≤ R ≤ 3,5 m².K/W |
 
-|
+R ≥ 3.5 m².K/W |
 
-R
+X |
 
-≥
+Enseignement, commerces,
 
-3,5 m² K/W
-
-|
+cafés, hôtels, restaurants
 
 |
 
-SECTEUR D'ACTIVITÉ
+0,6 |
 
-|
+Électricité |
 
-FACTEUR THERMIQUE
-
-|
-
-Electricité
-
-|
-
-H1
-
-|
-
-1 100
-
-|
+H1 |
 
 1 100
 
@@ -2178,79 +1384,45 @@ H1
 
 |
 
-X
-
 |
 
-Bureaux
+Santé |
 
-|
+1,1 |
 
-0,5
+H2 |
 
-|
-
-H2
-
-|
-
-880
-
-|
-
-910
-
-|
+910 |
 
 1 900
 
 |
 
-Enseignement, commerces, hôtels, restaurants.
-
 |
 
-0,6
+Autres secteurs |
 
-|
+0,5 |
 
-H3
+H3 |
 
-|
-
-590
-
-|
-
-600
-
-|
+600 |
 
 1 200
 
 |
 
-Santé
+|
 
 |
 
-1,1
-
 |
 
-Combustible
+Combustible |
 
-|
+H1 |
 
-H1
-
-|
-
-1 700
-
-|
-
-1 760
+1 800
 
 |
 
@@ -2258,15 +1430,15 @@ H1
 
 |
 
-H2
+|
 
 |
+
+|
+
+H2 |
 
 1 400
-
-|
-
-1 440
 
 |
 
@@ -2274,19 +1446,23 @@ H2
 
 |
 
-H3
+|
 
 |
 
-930
-
 |
 
-960
+H3 |
 
-|
+960 |
 
 2 000
+
+|
+
+|
+
+|
 
 |
 
@@ -2294,91 +1470,65 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EN-07-GT
 
-Isolation des toitures terrasses et couvertures de pente < 5 %
+Isolation des toitures terrasses et couvertures de
 
-dans bâtiment de grande taille
+pente < 5% dans un bâtiment de grande taille
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée entre 5 000 m² et 10 000 m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une isolation de résistance thermique R ≥ 2,6 m² K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
+Mise en place d'une isolation de résistance thermique R ≥ 2,6 m².K/W en toiture terrasse ou couverture de pente inférieure à 5 %.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+Les isolants ont une certification ACERMI ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 35 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT (en kWh cumac/m² d'isolant)
-
-|
-
-X
+Montant unitaire en kWh cumac / m² d'isolant |
 
 |
 
-SECTEUR
+Secteur
 
 d'activité
 
 |
 
-FACTEUR
+Facteur
 
-correctif
+correctif |
 
-|
+Énergie de
 
-Energie
-
-de chauffage |
+chauffage |
 
 Zone
 
 climatique |
 
-Caractéristique paroi finale
+Caractéristique de la paroi finale |
 
 |
 
-2 m² K/W ≤ R < 2,6 m² K/W
+2,6 m².K/W ≤ R < 3,5 m².K/W |
 
-(uniquement pour des actions engagées avant
-
-le 1er janvier 2008)
+R ≥ 3,5 m².K/W |
 
 |
 
-2,6 m² K/W
+Électricité |
 
-≤ R < 3,5 m² K/W
-
-|
-
-R 3,5 m² K/W
-
-|
-
-Electricité
-
-|
-
-H1
-
-|
-
-1 100
-
-|
+H1 |
 
 1 100
 
@@ -2388,65 +1538,39 @@ H1
 
 |
 
-Bureaux
+X |
 
-|
+Bureaux |
 
-0,5
+0,5 |
 
-|
+H2 |
 
-H2
-
-|
-
-880
-
-|
-
-910
-
-|
+910 |
 
 1 900
 
 |
 
-H3
-
 |
 
-590
+H3 |
 
-|
-
-600
-
-|
+600 |
 
 1 200
 
 |
 
-Enseignement
-
 |
 
-0,4
+Enseignement |
 
-|
+0,4 |
 
-Combustible
+Combustible |
 
-|
-
-H1
-
-|
-
-1 700
-
-|
+H1 |
 
 1 760
 
@@ -2456,21 +1580,13 @@ H1
 
 |
 
-Commerces
-
 |
 
-0,5
+Commerces |
 
-|
+0,5 |
 
-H2
-
-|
-
-1 400
-
-|
+H2 |
 
 1 440
 
@@ -2480,37 +1596,33 @@ H2
 
 |
 
-Hôtellerie-restauration
-
 |
 
-0,4
+Hôtellerie -
 
-|
+Restauration |
 
-H3
+0,4 |
 
-|
+H3 |
 
-930
-
-|
-
-960
-
-|
+960 |
 
 2 000
 
 |
 
-Santé
+|
+
+Santé |
+
+0,9 |
 
 |
 
-0,9
+Autres secteurs |
 
-|
+0,4 |
 
 Certificats d'économies d'énergie
 
@@ -2534,7 +1646,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -2569,5 +1681,3 @@ Tertiaire d'hébergement |
 Autres secteurs |
 
 960 |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

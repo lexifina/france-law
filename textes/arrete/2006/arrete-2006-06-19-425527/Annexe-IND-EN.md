@@ -22,7 +22,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -39,8 +39,6 @@ Surface d'isolant (m²) |
 X |
 
 S |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -64,13 +62,11 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
-Montant en kWh cumac / m²
-
-d'isolant |
+Montant en kWh cumac / m² d'isolant |
 
 |
 
@@ -81,5 +77,3 @@ Surface d'isolant (m²) |
 X |
 
 S |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.

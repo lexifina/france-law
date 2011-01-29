@@ -18,13 +18,13 @@ Formation d'un chauffeur à la conduite économique.
 
 La formation initiale, réalisée par une entreprise ou un organisme agréé, doit comporter :
 
-- une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
+une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
 
-- une partie pratique sur véhicule.
+une partie pratique sur véhicule.
 
 4. Durée de vie conventionnelle
 
-1 an
+1 an.
 
 5. Montant de certificats en kWh cumac
 

@@ -4,27 +4,27 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-EQ-01
 
-Lampe fluo-compacte de classe A
+Lampe de classe A pour la métropole
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiment résidentiel neuf ou existant en métropole.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une lampe fluo-compacte de classe A (ou encore appelée lampe basse consommation).
+Mise en place d'une lampe de classe A au sens de l'annexe IV de la directive 98/11/CE.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Sans objet.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-7,5 ans.
+10 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-230 kWh cumac.
+190 kWh cumac par lampe installée
 
 Certificats d'économies d'énergie
 
@@ -196,4 +196,24 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-EQ-07
 
-(Supprimé)
+Lampe fluo-compacte avec globe de classe B
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants.
+
+2. Dénomination :
+
+Mise en place d'une lampe fluo-compacte avec globe de classe B (ou encore appelée lampe basse consommation).
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle :
+
+6,5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+90 kWh cumac

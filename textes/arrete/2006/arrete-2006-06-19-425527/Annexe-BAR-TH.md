@@ -72,33 +72,31 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-02
 
-Chauffe-eau solaire collectif
+Chauffe-eau solaire en logement collectif (France métropolitaine)
 
-(France métropolitaine)
+1. Secteur d'application
 
-1. Secteur d'application :
+Appartements existants en France métropolitaine.
 
-Bâtiment résidentiel : appartements existants en France métropolitaine.
-
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un chauffe-eau solaire collectif.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Les appareils ont une certification CSTBat, Solarkeymark ou toute certification équivalente dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie, dès lors que cette certification repose sur les normes NF EN 12975 ou NF EN 12976.
+Les appareils ont une certification CSTBat ou Solarkeymark ou des caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Un contrat GRS (garantie de résultats solaires), dont le modèle type est fourni par l'ADEME doit être établi : il comporte la quantification de la production d'énergie solaire annuelle (PES) telle que définie dans le modèle type.
+Le dimensionnement de l'installation est réalisé par un bureau d'étude.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+Mise en place réalisée par un professionnel signataire de la charte Qualisol.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 20 ans.
 
-5. Montant des certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-14,134 x PES (kWh/an).
+14,134 x PES (kWh/an)
 
 Certificats d'économies d'énergie
 
@@ -116,7 +114,15 @@ Mise en place d'une pompe à chaleur (PAC) de type eau / eau.
 
 3. Conditions pour la délivrance de certificats
 
-Coefficient de performance (COP), mesuré selon la norme EN 14511-2 pour des températures d'entrée et de sortie d'eau de 10° C et 7° C à l'évaporateur, et de 30° C et 35° C au condenseur, égal ou supérieur à 3,4.
+Valeur du coefficient de performance (COP) :
+
+1. pour les PAC eau / eau :
+
+COP, mesuré selon la norme EN 14511-2 pour des températures d'entrée et de sortie d'eau de 10° C et 7° C à l'évaporateur, et de 30° C et 35° C au condenseur, égal ou supérieur à 3,4.
+
+2. pour les PAC eau glycolée / eau ou eau glycolée / eau glycolée :
+
+COP, mesuré selon la norme EN 14511-2 pour des températures d'entrée et de sortie d'eau de 0° C et - 3° C à l'évaporateur, et de 30° C et 35° C au condenseur, égal ou supérieur à 3,4.
 
 La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Eco-Label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
@@ -126,7 +132,7 @@ Pour les actions engagées à partir du 01/01/2011, l'installateur doit obligato
 
 4. Durée de vie conventionnelle
 
-16 ans
+16 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -604,93 +610,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-05
 
-Panneau rayonnant électrique ou radiateur
-
-à régulation électronique
-
-Opération valable uniquement pour des actions engagées
-
-avant le 1er janvier 2008
-
-1. Secteur d'application :
-
-Bâtiment résidentiel : maisons individuelles et appartements existants.
-
-2. Dénomination de l'opération standardisée :
-
-Installation d'un panneau rayonnant électrique ou d'un radiateur à régulation électronique.
-
-3. Conditions pour la délivrance de certificats :
-
-Les radiateurs ont une certification NF électricité-performance (catégorie C) ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
-
-Installation réalisée par un professionnel.
-
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
-
-16 ans.
-
-5. Montant de certificats en kWh cumac :
-
-MONTANT
-
-(en kWh cumac)
-
-|
-
-Type de logement
-
-|
-
-Maison individuelle
-
-|
-
-Appartement
-
-|
-
-Zone climatique
-
-|
-
-H1
-
-|
-
-1 300
-
-|
-
-780
-
-|
-
-H2
-
-|
-
-1 000
-
-|
-
-640
-
-|
-
-H3
-
-|
-
-700
-
-|
-
-420
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -1376,35 +1296,83 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-10
 
-Radiateur à chaleur douce pour un chauffage central
+Radiateur à chaleur douce pour un chauffage central à combustible
 
-à combustible
-
-1. Secteur d'application :
+1. Secteur d'application
 
 Bâtiment résidentiel : maisons individuelles et appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un radiateur à chaleur douce pour un système de chauffage central.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Radiateurs dimensionnés à DTnom (delta de température nominal) 40 K.
+Radiateurs dimensionnés à DTnom (delta de température nominal) ≤ 40K.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 25 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Type de logement |
 
-n° 156 du 07/07/2006 texte numéro 28
+Maison individuelle |
+
+Appartement avec
+
+chauffage individuel |
+
+Appartement avec
+
+chauffage collectif |
+
+Zone climatique |
+
+H1 |
+
+2 600
+
+|
+
+1 800
+
+|
+
+2 600
+
+|
+
+H2 |
+
+2 100
+
+|
+
+1 500
+
+|
+
+2 200
+
+|
+
+H3 |
+
+1 500
+
+|
+
+1 000
+
+|
+
+1 400
+
+|
 
 Certificats d'économies d'énergie
 
@@ -1602,25 +1570,23 @@ Opération n° BAR-TH-14
 
 Chaufferie biomasse
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'une chaufferie valorisant de la biomasse comme combustible pour des besoins de chauffage et/ou d'eau chaude sanitaire.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 La production thermique annuelle nette de la chaudière due à la biomasse (Pth) sera évaluée par une étude de faisabilité selon le cahier des charges défini par l'ADEME ou toute autre norme équivalente.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 15 ans.
 
-5. Montant des certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
 11,563 x Pth (kWh/an)
 
@@ -1648,9 +1614,11 @@ Pour la chaufferie :
 
 Pour le contrat :
 
-- Le contrat doit être établi avec un professionnel ayant une qualification Qualibat 553 et 554 ou tout dispositif présentant des spécifications techniques équivalentes.
+- le contrat doit être établi avec un professionnel ayant une qualification Qualibat 553 et 554 ou tout dispositif présentant des spécifications techniques équivalentes ;
 
-- Le contrat doit porter engagement du prestataire à maintenir le rendement énergétique de la chaufferie installée. Le rendement à maintenir sera défini à partir d'une mesure après installation. Le rendement devra être, par la suite, mesuré au moins une fois par an.
+- le contrat prévoit que le rendement énergétique de la chaufferie installée sera mesuré au moins une fois par an ;
+
+- le contrat doit comporter l'engagement du prestataire à maintenir le rendement énergétique de la chaufferie installée. Le rendement à maintenir sera défini à partir d'une mesure après installation.
 
 4. Durée de vie conventionnelle
 
@@ -1666,7 +1634,7 @@ Pour la chaufferie :
 
 Pour le contrat :
 
-Le montant de kWh cumac attribué à la chaudière sur la base du tableau précédent est augmenté en appliquant un facteur correctif suivant la grille ci-dessous :
+Le montant de kWh cumac attribué à la chaudière sur la base du calcul précédent est augmenté en appliquant le facteur correctif suivant :
 
 Durée du contrat |
 
@@ -1740,39 +1708,31 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-15
 
-Isolation d'un réseau hydraulique de chauffage existant
+Isolation d'un réseau hydraulique de chauffage
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une isolation d'un réseau hydraulique de chauffage déjà existant situé hors du volume chauffé pour un système de chauffage collectif.
+Mise en place d'une isolation d'un réseau hydraulique de chauffage situé hors du volume chauffé pour un système de chauffage collectif.
 
-Pour des actions engagées avant le 1er janvier 2008, le réseau hydraulique pourra être neuf.
-
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
-L'isolant doit être de classe supérieure ou égale à 2, selon les règles Th-C de la réglementation thermique.
+L'isolant doit être de classe supérieure ou égale à 2, selon les règles Th-C de la Réglementation Thermique.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 20 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT UNITAIRE
-
-(en kWh cumac/mètre linéaire)
-
-|
+Montant unitaire en kWh cumac / mètre linéaire |
 
 Zone climatique
 
@@ -1808,77 +1768,101 @@ Opération n° BAR-TH-16
 
 Plancher chauffant à eau basse température
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un plancher chauffant à eau basse température.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 30 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Le montant est exprimé par m² de plancher chauffant.
 
-n° 156 du 07/07/2006 texte numéro 28
+Type de logement |
+
+Maison individuelle |
+
+Appartement avec
+
+chauffage individuel |
+
+Appartement avec
+
+chauffage collectif |
+
+Zone climatique |
+
+H1 |
+
+190 |
+
+150 |
+
+210
+
+|
+
+H2 |
+
+170 |
+
+120 |
+
+170 |
+
+H3 |
+
+110 |
+
+90 |
+
+120 |
 
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-17
 
-Robinet thermostatique sur un radiateur existant
+Robinet thermostatique
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un robinet thermostatique sur un radiateur existant.
 
-Pour des actions engagées avant le 1er janvier 2008, le réseau hydraulique pourra être neuf.
-
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 12 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-TYPE DE LOGEMENT
+Type de logement |
 
-|
+Maison individuelle |
 
-MAISON INDIVIDUELLE
+Appartement avec
 
-|
+chauffage individuel |
 
-APPARTEMENT
+Appartement avec
 
-avec chauffage individuel
-
-|
-
-APPARTEMENT
-
-avec chauffage collectif
-
-|
+chauffage collectif |
 
 Zone climatique
 
@@ -1888,7 +1872,7 @@ H1
 
 |
 
-1 150
+1 200
 
 |
 
@@ -2256,39 +2240,47 @@ Opération n° BAR-TH-21
 
 Système de comptage individuel d'énergie de chauffage
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un système de comptage individuel d'énergie de chauffage pour un système de chauffage collectif.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Cette action ne s'applique qu'aux systèmes avec répartiteurs électroniques.
 
-Les émetteurs de chauffage doivent être munis de robinets thermostatiques.
+Les émetteurs de chauffage doivent être préalablement munis de robinets thermostatiques.
 
 Cette action ne s'applique pas aux systèmes avec planchers chauffants collectifs.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 10 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Appartement |
 
-n° 156 du 07/07/2006 texte numéro 28
+Zone climatique |
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+H1 |
+
+20 000 |
+
+H2 |
+
+18 000 |
+
+H3 |
+
+11 000 |
 
 Certificats d'économies d'énergie
 
@@ -2296,33 +2288,73 @@ Opération n° BAR-TH-22
 
 Récupérateur de chaleur à condensation
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un récupérateur de chaleur à condensation pour un système de chauffage collectif.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 15 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Usage de la chaudière |
 
-n° 156 du 07/07/2006 texte numéro 28
+Zone climatique |
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+kWh cumac |
+
+Chauffage |
+
+H1 |
+
+19 000
+
+|
+
+H2 |
+
+15 000
+
+|
+
+H3 |
+
+10 000
+
+|
+
+Chauffage et eau chaude
+
+sanitaire |
+
+H1 |
+
+24 000
+
+|
+
+H2 |
+
+20 000
+
+|
+
+H3 |
+
+15 000
+
+|
 
 Certificats d'économies d'énergie
 
@@ -2330,33 +2362,41 @@ Opération n° BAR-TH-23
 
 Optimiseur de relance en chauffage collectif
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un optimiseur de relance centralisé équipé d'un programmateur d'intermittence avec auto-adaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
+Mise en place d'un optimiseur de relance centralisé équipé d'un programmateur d'intermittence avec auto adaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 15 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Appartement |
 
-n° 156 du 07/07/2006 texte numéro 28
+Zone climatique |
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+H1 |
+
+19 000 |
+
+H2 |
+
+15 000 |
+
+H3 |
+
+10 000 |
 
 Certificats d'économies d'énergie
 
@@ -2380,7 +2420,7 @@ Mise en place réalisée par un professionnel signataire de la charte Qualisol o
 
 4. Durée de vie conventionnelle
 
-12 ans
+12 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -2401,8 +2441,6 @@ posés en m² |
 X |
 
 S |
-
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus, pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -2734,35 +2772,53 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-28
 
-Plancher rayonnant électrique,
+Plancher rayonnant électrique, plafond rayonnant plâtre, avec dispositif de réglage automatique
 
-Plafond rayonnant plâtre, avec dispositif de réglage automatique
+1. Secteur d'application
 
-1. Secteur d'application :
+Bâtiments résidentiels existants.
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
-
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un plancher rayonnant électrique ou d'un plafond rayonnant plâtre, avec un dispositif de réglage automatique en fonction de la température intérieure.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Plancher rayonnant électrique ou plafond rayonnant plâtre bénéficiant d'un avis technique.
+Plancher rayonnant électrique ou plancher rayonnant plâtre bénéficiant d'un avis technique.
 
-Mise en place réalisée par un professionnel dans le respect du cahier des prescriptions techniques du CSTB en vigueur et de ses additifs, notamment en ce qui concerne les isolants thermiques à mettre en oeuvre.
+Mise en place réalisée par un professionnel dans le respect du Cahier des Prescriptions Techniques Plancher Rayonnant Électrique (PRE) et de ses additifs, notamment en ce qui concerne les isolants thermiques à mettre en œuvre.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 30 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+Le montant est exprimé par m² de Plancher Rayonnant Électrique ou de Plafond Rayonnant.
 
-n° 303 du 31/12/2006 texte numéro 60
+Zone climatique |
+
+Maison individuelle |
+
+Appartement avec chauffage individuel |
+
+H1 |
+
+130 |
+
+80 |
+
+H2 |
+
+110 |
+
+65 |
+
+H3 |
+
+70 |
+
+45 |
 
 Certificats d'économies d'énergie
 
@@ -3070,17 +3126,17 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-31
 
-Isolation d'un réseau d'eau chaude sanitaire existant
+Isolation d'un réseau d'eau chaude sanitaire
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants alimentés par un système collectif maintenu en température (bouclé ou tracé).
+Appartements existants alimentés par un système collectif maintenu en température (bouclé ou tracé).
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'une isolation d'un réseau d'eau chaude sanitaire existant, situé hors du volume chauffé, pour un système collectif maintenu en température (bouclé ou tracé).
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
@@ -3088,659 +3144,117 @@ L'isolant doit être de classe supérieure ou égale à 2, selon les règles Th-
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975)
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 20 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-12 000 kWh cumac/mètre linéaire.
+Montant unitaire en kWh cumac / mètre linéaire |
+
+12 000
+
+|
 
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-32
 
-Caisson de VMC à consommation réduite
+Caisson de ventilation mécanique contrôlée (VMC) à consommation réduite
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un caisson de ventilation mécanique contrôlée (VMC) à consommation réduite.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-En maison individuelle, les caissons de VMC sont définis :
+Dans une maison individuelle, les caissons de VMC sont considérés comme :
 
-― à consommation améliorée dès lors qu'ils sont inférieurs à 35 W ;
+- à "consommation améliorée", si leur puissance spécifique absorbée est inférieure à 35 W ;
 
-― à basse consommation dès qu'ils respectent une puissance spécifique absorbée inférieure à 25 W.
+- à "basse consommation", si leur puissance spécifique absorbée est inférieure à 25 W.
 
-En appartement, les caissons de VMC sont définis à basse consommation dès lors qu'ils respectent une puissance spécifique absorbée inférieure à 0,25 W/(m³/h).
+Dans un appartement, les caissons de VMC sont considérés comme à "basse consommation", si leur puissance spécifique absorbée est inférieure à 0,25 W/(m3/h).
 
-La valeur de consommation s'entend au sens des règles Th-C.
+La valeur de consommation s'entend au sens des règles des Th-C.
 
-4. Durée de vie conventionnelle : 16 ans.
+4. Durée de vie conventionnelle
 
-5. Montant de certificats en kWh cumac :
+16 ans.
 
-APPARTEMENT
+5. Montant de certificats en kWh cumac
 
-|
+Appartement |
 
-kWh cumac
+kWh cumac |
 
-|
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Caisson installé basse consommation
-
-|
+Caisson installé à basse consommation |
 
 1 900
 
 |
 
-X
+Maison individuelle |
+
+kWh cumac |
 
 |
 
-0,6
+Facteur
 
-|
+correctif |
 
-< 40
+Surface habitable en
 
-|
+m2 |
 
-1
+Caisson installé à basse
 
-|
+consommation |
 
-0,7
+3 200 |
 
-|
+X |
 
-41 ― 60
+0,4 |
 
-|
+< 40 |
 
-2
+0,4 |
 
-|
+41 - 60 |
 
-1
+0,7 |
 
-|
+61 - 80 |
 
-61 ― 80
+Caisson installé à
 
-|
+consommation améliorée |
 
-3
+2 100 |
 
-|
+0,9 |
 
-1,4
+81 - 100 |
 
-|
+1,1 |
 
-81 ― 100
+101 - 130 |
 
-|
+1,7 |
 
-4
-
-|
-
-1,7
-
-|
-
-101 ― 130
-
-|
-
-5
-
-|
-
-2,2
-
-|
-
-> 131
-
-|
-
-≥ 6
-
-|
-
-MAISON INDIVIDUELLE
-
-|
-
-kWh cumac
-
-|
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Caisson installé basse consommation
-
-|
-
-3 200
-
-|
-
-X
-
-|
-
-0,4
-
-|
-
-< 40
-
-|
-
-1
-
-|
-
-0,4
-
-|
-
-41 ― 60
-
-|
-
-2
-
-|
-
-0,7
-
-|
-
-61 ― 80
-
-|
-
-3
-
-|
-
-Caisson installé à consommation améliorée
-
-|
-
-2 100
-
-|
-
-0,9
-
-|
-
-81 ― 100
-
-|
-
-4
-
-|
-
-1,1
-
-|
-
-101 ― 130
-
-|
-
-5
-
-|
-
-1,7
-
-|
-
-> 131
-
-|
-
-≥ 6
-
-|
-
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+> 130 |
 
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-33
 
-Ventilation mécanique répartie (VMR)
-
-1. Secteur d'application :
-
-Bâtiment résidentiel : maisons individuelles et appartements existants construits avant 1975.
-
-2. Dénomination :
-
-Mise en place d'une ventilation mécanique répartie (VMR) dans un logement.
-
-3. Conditions pour la délivrance de certificats :
-
-Les ventilateurs de cette VMR ont une puissance absorbée inférieure ou égale à 10 W en WC et salles de bains, 15 W en débit réduit cuisine et 40 W en grand débit cuisine.
-
-Les produits mis en uvre doivent répondre au cahier des charges Promotelec ou avoir des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
-
-Mise en place réalisée par un professionnel qui s'assurera que l'étanchéité du bâtiment atteint un niveau de performance compatible avec les performances de la VMR.
-
-4. Durée de vie conventionnelle : 16 ans.
-
-5. Montant de certificats en kWh cumac :
-
-APPARTEMENT
-
-|
-
-ZONE CLIMATIQUE
-
-|
-
-kWh cumac
-
-|
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Chauffage électrique
-
-|
-
-H1
-
-|
-
-5 200
-
-|
-
-X
-
-|
-
-0,6
-
-|
-
-< 40
-
-|
-
-1
-
-|
-
-H2
-
-|
-
-4 200
-
-|
-
-0,7
-
-|
-
-41 ― 60
-
-|
-
-2
-
-|
-
-H3
-
-|
-
-2 800
-
-|
-
-1
-
-|
-
-61 ― 80
-
-|
-
-3
-
-|
-
-Chauffage combustible
-
-|
-
-H1
-
-|
-
-6 900
-
-|
-
-1,4
-
-|
-
-81 ― 100
-
-|
-
-4
-
-|
-
-H2
-
-|
-
-5 700
-
-|
-
-1,7
-
-|
-
-101 ― 130
-
-|
-
-5
-
-|
-
-H3
-
-|
-
-3 800
-
-|
-
-2,2
-
-|
-
-> 131
-
-|
-
-≥ 6
-
-|
-
-MAISON INDIVIDUELLE
-
-|
-
-ZONE CLIMATIQUE
-
-|
-
-kWh cumac
-
-|
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Chauffage électrique
-
-|
-
-H1
-
-|
-
-9 200
-
-|
-
-X
-
-|
-
-0,4
-
-|
-
-< 40
-
-|
-
-1
-
-|
-
-H2
-
-|
-
-7 500
-
-|
-
-0,4
-
-|
-
-41 ― 60
-
-|
-
-2
-
-|
-
-H3
-
-|
-
-5 000
-
-|
-
-0,7
-
-|
-
-61 ― 80
-
-|
-
-3
-
-|
-
-Chauffage combustible
-
-|
-
-H1
-
-|
-
-14 000
-
-|
-
-0,9
-
-|
-
-81 ― 100
-
-|
-
-4
-
-|
-
-H2
-
-|
-
-11 500
-
-|
-
-1,1
-
-|
-
-101 ― 130
-
-|
-
-5
-
-|
-
-H3
-
-|
-
-7 700
-
-|
-
-1,4
-
-|
-
-> 131
-
-|
-
-≥ 6
-
-|
-
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -4150,7 +3664,7 @@ Mise en place réalisée par un professionnel signataire de la charte Qualisol o
 
 4. Durée de vie conventionnelle
 
-12 ans
+12 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -4168,283 +3682,121 @@ X |
 
 S |
 
-En application de la réglementation en vigueur, il est attribué le double du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette action menée dans les DOM.
-
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-36
 
-Programmateur d'intermittence pour un chauffage
+Programmateur d'intermittence pour un chauffage individuel avec pompe à chaleur existant
 
-individuel avec pompe à chaleur existant
+1. Secteur d'application
 
-1. Secteur d'application :
+Bâtiments résidentiels existants.
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+2. Dénomination
 
-2. Dénomination :
+Mise en place d'un programmateur d'intermittence à heures fixes sur un système de chauffage individuel avec pompe à chaleur existante.
 
-Mise en place d'un programmateur d'intermittence à heures fixes sur un système de chauffage individuel avec pompe à chaleur existant.
-
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Mise en place réalisée par un professionnel.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+4. Durée de vie conventionnelle
 
-4. Durée de vie conventionnelle : 15 ans.
+15 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MAISON INDIVIDUELLE
+Maison individuelle |
+
+|
+
+Facteur
+
+correctif |
+
+Surface
+
+habitable en m2 |
+
+Zone climatique |
+
+H1 |
+
+6 900 |
+
+X |
+
+0,2 |
+
+< 35 |
+
+H2 |
+
+5 700 |
+
+0,4 |
+
+35 - 60 |
+
+H3 |
+
+3 800 |
+
+0,7 |
+
+60 - 80 |
 
 |
 
 |
 
-FACTEUR
-
-correctif
-
-(1)
+|
 
 |
 
-SURFACE
+0,9 |
 
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Zone climatique
-
-|
-
-H1
-
-H2
-
-|
-
-6 900
-
-5 700
-
-|
-
-X
-
-|
-
-0,2
-
-0,4
-
-|
-
-< 35
-
-35 ― 60
-
-|
-
-1
-
-2
-
-|
-
-H3
-
-|
-
-3 800
-
-|
-
-0,7
-
-|
-
-60 ― 80
-
-|
-
-3
-
-|
-
-0,9
-
-|
-
-80 ― 100
-
-|
-
-4
-
-|
-
-1,1
-
-|
-
-100 ― 130
-
-|
-
-5
-
-|
-
-1,4
-
-|
-
-> 130
-
-|
-
-≥ 6
-
-|
-
-APPARTEMENT
+80 - 100 |
 
 |
 
 |
 
-FACTEUR
-
-correctif
-
-(1)
+|
 
 |
 
-SURFACE
+1,1 |
 
-habitable
-
-(en m²)
+100 - 130 |
 
 |
 
-NOMBRE
-
-de pièces
-
-principales
+|
 
 |
 
-Zone climatique
-
 |
 
-H1
+1,4 |
 
-H2
+> 130 |
 
-|
+Appartement |
 
-3 000
+Zone climatique |
 
-2 400
+H1 |
 
-|
+3 000 |
 
-X
+H2 |
 
-|
+2 400 |
 
-0,3
+H3 |
 
-0,7
-
-|
-
-< 35
-
-35 ― 60
-
-|
-
-1
-
-2
-
-|
-
-H3
-
-|
-
-1 600
-
-|
-
-1
-
-|
-
-60 ― 80
-
-|
-
-3
-
-|
-
-1,4
-
-|
-
-80 ― 100
-
-|
-
-4
-
-|
-
-1,7
-
-|
-
-100 ― 130
-
-|
-
-5
-
-|
-
-2,2
-
-|
-
-> 130
-
-|
-
-≥ 6
-
-|
-
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+1 600 |
 
 Certificats d'économies d'énergie
 
@@ -4512,67 +3864,35 @@ Opération n° BAR-TH-38
 
 Mini-cogénération sans obligation d'achat
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements existants.
+Appartements existants.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'une mini-cogénération collective de puissance électrique comprise entre 36 kVA et 250 kVA sans obligation d'achat selon les critères de l'arrêté du 3 juillet 2001.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Installation, dimensionnement et évaluation du taux de couverture des besoins (TCB) réalisés par un professionnel.
 
-Critères de performances : Cogénération à haut rendement avec attestation de garantie d'origine au sens du décret n° 2006-1118 du 5 septembre 2006 relatif aux garanties d'origine de l'électricité produite à partir de sources d'énergie renouvelable ou par cogénération.
+Critères de performances : cogénération à haut rendement avec attestation de garantie d'origine au sens du décret n° 2006-1118 du 5 septembre 2006 relatif aux garanties d'origine de l'électricité produite à partir de sources d'énergie renouvelables ou par cogénération.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 21 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-APPARTEMENT
+Appartement |
 
-|
+Zone
 
-ZONE
+climatique |
 
-climatique
-
-|
-
-kWh cumac
-
-|
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
+kWh cumac |
 
 |
 
@@ -4586,23 +3906,7 @@ H1
 
 |
 
-49 800
-
-|
-
-X
-
-|
-
-0,3
-
-|
-
-< 35
-
-|
-
-1
+50 000
 
 |
 
@@ -4618,19 +3922,7 @@ H2
 
 |
 
-40 800
-
-|
-
-0,7
-
-|
-
-35-60
-
-|
-
-2
+41 000
 
 |
 
@@ -4638,21 +3930,7 @@ H3
 
 |
 
-27 200
-
-|
-
-1
-
-|
-
-60-80
-
-|
-
-3
-
-|
+27 000 |
 
 Micro-turbines
 
@@ -4662,65 +3940,21 @@ H1
 
 |
 
-43 700
-
-|
-
-1,4
-
-|
-
-80-100
-
-|
-
-4
-
-|
+44 000 |
 
 H2
 
 |
 
-35 800
-
-|
-
-1,7
-
-|
-
-100-130
-
-|
-
-5
-
-|
+36 000 |
 
 H3
 
 |
 
-23 900
+24 000 |
 
-|
-
-2,2
-
-|
-
-> 130
-
-|
-
-≥ 6
-
-|
-
-TCB = Production thermique nette valorisée pour le chauffage/besoins thermiques de chauffage du bâtiment.
-
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+TCB = Production thermique nette valorisée pour le chauffage / Besoins thermiques de chauffage du bâtiment
 
 Certificats d'économies d'énergie
 
@@ -4852,37 +4086,37 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-41
 
-Remplacement d'un climatiseur existant
+Climatiseur de classe A (DOM)
 
-par un climatiseur de classe A (DOM)
+1. Secteur d'application
 
-1. Secteur d'application :
+Bâtiments résidentiels existants dans les départements d'outre-mer.
 
-Bâtiment résidentiel : maisons individuelles et appartements existants dans les départements d'outre-mer.
-
-2. Dénomination :
+2. Dénomination
 
 Remplacement d'un climatiseur existant par un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs ou égaux à 9 000 BTU/h froid par pièce.
 
-3. Conditions pour la délivrance des certificats :
+3. Conditions pour la délivrance de certificats
 
-L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen ou en Turquie.
+L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Une attestation de dépose de l'ancien climatiseur doit être fournie par l'installateur.
 
 Mise en place par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 9 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-MONTANT EN KWH CUMAC
+Montant en kWh cumac
 
 |
 
-Puissance de l'appareil en BTU/h
+Puissance de l'appareil
+
+en BTU/h
 
 |
 
@@ -4917,8 +4151,6 @@ COP ≥ 4,5
 17 000
 
 |
-
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux certificats d'économies d'énergie, il est attribué le double du montant des kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les DOM.
 
 Certificats d'économies d'énergie
 
@@ -4957,3 +4189,517 @@ Nombre d'appartements |
 X |
 
 N |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-43
+
+Système solaire combiné
+
+1. Secteur d'application
+
+Maisons existantes.
+
+2. Dénomination
+
+Mise en place d'un système solaire combiné .
+
+3. Conditions pour la délivrance de certificats
+
+Les appareils ont une certification CSTBat ou Solarkeymark ou des caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+
+Le système sera couplé à des émetteurs de chauffage de type basse température permettant une optimisation de la valorisation de l'énergie solaire.
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac / m2 |
+
+|
+
+Surface de capteurs en m2 |
+
+4 050 |
+
+X
+
+|
+
+S |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-44
+
+Chaudière individuelle de type micro-cogénération à moteur Stirling
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants.
+
+2. Dénomination
+
+Mise en place d'une chaudière individuelle de type micro-cogénération à moteur Stirling.
+
+Une chaudière à micro-cogénération à combustible liquide ou gazeux est un générateur, asservi aux besoins de chauffage et éventuellement d'eau chaude sanitaire, assurant la totalité des besoins de chauffage du logement et produisant simultanément de l'électricité.
+
+3. Conditions pour la délivrance de certificats
+
+Les chaudières à micro-cogénération respectent les deux conditions suivantes :
+
+- la puissance thermique du module principal est comprise entre 4 et 8 kW ;
+
+- la puissance électrique du module principal est comprise entre 0,5 et 1,5 kW.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+16 ans.
+
+5. Montant de certificats en kWh cumac
+
+Pour une maison individuelle :
+
+Maison individuelle |
+
+Zone
+
+climatique |
+
+kWh cumac |
+
+|
+
+Facteur correctif |
+
+Surface habitable en
+
+m2 |
+
+Chauffage |
+
+H1 |
+
+91 000
+
+|
+
+|
+
+0,2 |
+
+< 35 |
+
+H2 |
+
+74 000
+
+|
+
+|
+
+0,4 |
+
+35 - 60 |
+
+H3 |
+
+50 000
+
+|
+
+|
+
+0,7 |
+
+60 - 80 |
+
+Chauffage + eau chaude
+
+sanitaire accumulée |
+
+H1
+
+|
+
+110 000
+
+|
+
+X |
+
+0,9 |
+
+80 - 100 |
+
+H2
+
+|
+
+91 000
+
+|
+
+|
+
+1,1 |
+
+100 - 130 |
+
+H3
+
+|
+
+61 000
+
+|
+
+|
+
+1,4 |
+
+> 130 |
+
+Chauffage + eau chaude
+
+sanitaire instantanée |
+
+H1
+
+|
+
+110 000
+
+|
+
+|
+
+|
+
+|
+
+H2
+
+|
+
+87 000
+
+|
+
+|
+
+|
+
+|
+
+H3
+
+|
+
+59 000
+
+|
+
+|
+
+|
+
+|
+
+Pour un appartement :
+
+Appartement |
+
+Zone climatique |
+
+kWh cumac |
+
+Chauffage |
+
+H1 |
+
+48 000
+
+|
+
+H2 |
+
+39 000
+
+|
+
+H3 |
+
+26 000
+
+|
+
+Chauffage + eau chaude sanitaire
+
+accumulée |
+
+H1
+
+|
+
+65 000
+
+|
+
+H2
+
+|
+
+53 000
+
+|
+
+H3
+
+|
+
+36 000
+
+|
+
+Chauffage + eau chaude sanitaire
+
+instantanée |
+
+H1
+
+|
+
+62 000
+
+|
+
+H2
+
+|
+
+51 000
+
+|
+
+H3
+
+|
+
+34 000
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-45
+
+Rénovation globale d'un bâtiment résidentiel
+
+1. Secteur d'application
+
+Bâtiments résidentiels collectifs existants en France métropolitaine, achevés après le 1er janvier 1948.
+
+2. Dénomination
+
+Rénovation thermique globale d'un bâtiment résidentiel collectif existant, en France métropolitaine, achevé après le 1er janvier 1948. L'approche globale consiste à déterminer et à mettre en œuvre un bouquet de travaux optimal sur le plan technico-économique.
+
+3. Conditions pour la délivrance de certificats
+
+Préalablement aux travaux de rénovation thermique, un bureau d'études thermiques réalise un audit énergétique, en utilisant le moteur de calcul réglementaire TH-C-E ex.
+
+Les dossiers de demande doivent comporter les éléments A et B suivants.
+
+A - Une synthèse de l'audit énergétique avec les mentions des valeurs suivantes, déterminées par le moteur de calcul TH-C-E ex. :
+
+- La consommation conventionnelle (en kWh/m²/an) du bâtiment pour le chauffage, le refroidissement, la production d'eau chaude sanitaire, l'éclairage, les auxiliaires de chauffage, de refroidissement, d'eau chaude sanitaire et de ventilation :
+
+1. d'énergie primaire, avant les travaux de rénovation : Cep initial ;
+
+2. d'énergie primaire, après les travaux de rénovation : Cep projet :
+
+3. d'énergie finale, avant les travaux de rénovation : Cef initial ;
+
+4. d'énergie finale, après les travaux de rénovation : Cef projet.
+
+- Le coefficient moyen de déperdition thermique du bâtiment (en W/m²/K) :
+
+1. avant les travaux : Ubât initial ;
+
+2. après les travaux : Ubât projet.
+
+- La surface hors œuvre nette du bâtiment rénové, exprimée en m² : Sshon.
+
+B - La liste des travaux préconisés par le bureau d'études thermiques puis réalisés, permettant d'atteindre les deux objectifs énergétiques suivants :
+
+- (Cep initial - Cep projet) ≥ 80 kWh/m²/an ;
+
+- Cep projet ≤ 150 * (a + b) kWh/m²/an.
+
+a est un coefficient réglementaire relatif à la zone climatique :
+
+Zone climatique |
+
+Coefficient a |
+
+H1-a, H1-b |
+
+1,3 |
+
+H1-c |
+
+1,2 |
+
+H2-a |
+
+1,1 |
+
+H2-b |
+
+1 |
+
+H2-c, H2-d |
+
+0,9 |
+
+H3 |
+
+0,8 |
+
+Les zones climatiques sont définies à l'annexe I de l'arrêté du 13 juin 2008 relatif à la performance énergétique des bâtiments existants de surface supérieure à 1000 mètres carrés, lorsqu'ils font l'objet de travaux de rénovation importants.
+
+b est une coefficient réglementaire relatif à l'altitude :
+
+Altitude H en mètres |
+
+Coefficient b |
+
+H ≤ 400 |
+
+0 |
+
+400 < H ≤ 800 |
+
+0,1 |
+
+H > 800 |
+
+0,2 |
+
+Les valeurs décrivant la performance du bâtiment après travaux (consommation en énergie primaire et finale, Ubât projet) doivent correspondre aux travaux effectivement mis en œuvre.
+
+Le cas échéant, si les travaux mis en œuvre ne permettent pas d'atteindre la performance calculée par l'audit énergétique préalable, il appartient au demandeur de mettre à jour les calculs thermiques sur la base des travaux effectifs, sa responsabilité étant engagée sur ce point.
+
+4. Durée de vie conventionnelle
+
+35 ans.
+
+5. Montant de certificats en kWh cumac
+
+(Cef initial - Cef projet) x Sshon x B x 19,41
+
+B est un coefficient de bonification, dont la valeur est la suivante :
+
+B = min { Ubât initial / 1,5 x Ubât projet ; 1,5}
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-46
+
+Système de production d'eau chaude sanitaire collective de type pompe à chaleur sur capteur solaire non vitré
+
+1. Secteur d'application
+
+Bâtiments résidentiels collectifs existants.
+
+2. Dénomination
+
+Mise en place d'un système de production d'eau chaude sanitaire (ECS) collective de type pompe à chaleur (PAC) sur capteur solaire non vitré.
+
+3. Conditions pour la délivrance de certificats
+
+Le capteur fait l'objet d'une certification CSTBat ou équivalent.
+
+La pompe à chaleur fait l'objet d'un procès-verbal d'essais, par un laboratoire indépendant, montrant les performances suivantes :
+
+- coefficient de performance (COP), mesuré pour une température d'entrée de l'évaporateur de 10°C et une température de sortie d'eau de 50°C, égal ou supérieur à 3 ;
+
+- point de bon fonctionnement validé sur le régime de température d'entrée de l'évaporateur de -5°C et une température de sortie d'eau de 65°C ;
+
+- point de bon fonctionnement validé sur le régime de température d'entrée de l'évaporateur de 50°C et une température de sortie d'eau de 65°C.
+
+La mise en place est réalisée par un professionnel signataire de la charte QUALIPAC ou qui dispose d'une qualification professionnelle équivalente dans le domaine de la pompe à chaleur (par exemple : Qualibat, Qualiclimafroid ou Qualifelec Electrothermie TH1, TH2 ou TH3).
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+5. Montant de certificats en kWh cumac
+
+Zone climatique |
+
+kWh cumac par logement |
+
+H1 |
+
+19 000 |
+
+H2 |
+
+17 000 |
+
+H3 |
+
+15 000 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-47
+
+Systèmes hydro-économes (DOM)
+
+1. Secteur d'application
+
+Bâtiments résidentiels existants dans les départements d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'une pomme de douche hydro-économe (débit réduit) en remplacement d'un matériel classique ou mise en place de régulateurs de jets sur le robinet de l'évier ou du lavabo.
+
+3. Conditions pour la délivrance de certificats
+
+Les équipements sont conformes à la marque NF douche pour robinetterie ou NF régulateurs de jet. Ils sont répertoriés dans la classe de débit Z des normes EN NF 1112 (douches : 7,2 à 12 litres/minute) et EN NF 246 (régulateurs de jets : 7,5 à 9 litres/minute).
+
+4. Durée de vie conventionnelle
+
+6 ans.
+
+5. Montant de certificats en kWh cumac
+
+|
+
+Douche |
+
+Evier |
+
+Lavabo |
+
+Montant en kWh
+
+cumac par materiel
+
+installé |
+
+1000
+
+|
+
+200 |
+
+200 |
