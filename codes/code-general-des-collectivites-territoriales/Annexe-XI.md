@@ -6,7 +6,9 @@ Nombre des membres des conseils économiques, sociaux et environnementaux régio
 
 et répartition de ces derniers entre les collèges
 
-REGIONS |
+RÉGIONS
+
+|
 
 PREMIER
 
@@ -14,25 +16,37 @@ collège
 
 |
 
-DEUXIEME
+DEUXIÈME
 
 collège
 
 |
 
-TROISIEME
-
-collège
+TROISIÈME COLLÈGE
 
 |
 
-QUATRIEME
+QUATRIÈME
 
 collège
 
 |
 
 TOTAL
+
+|
+
+Total troisième collège
+
+|
+
+Dont au titre
+
+du deuxième alinéa
+
+de l'article L. 4134-2
+
+du CGCT
 
 |
 
@@ -48,7 +62,11 @@ Alsace
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -56,11 +74,13 @@ Alsace
 
 |
 
-74
+78
 
 |
 
-Aquitaine |
+Aquitaine
+
+|
 
 38
 
@@ -70,7 +90,11 @@ Aquitaine |
 
 |
 
-32
+38
+
+|
+
+6
 
 |
 
@@ -78,7 +102,7 @@ Aquitaine |
 
 |
 
-113
+119
 
 |
 
@@ -94,7 +118,11 @@ Auvergne
 
 |
 
-20
+24
+
+|
+
+4
 
 |
 
@@ -102,7 +130,7 @@ Auvergne
 
 |
 
-71
+75
 
 |
 
@@ -118,7 +146,11 @@ Basse-Normandie
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -126,7 +158,7 @@ Basse-Normandie
 
 |
 
-74
+78
 
 |
 
@@ -142,7 +174,11 @@ Bourgogne
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -150,7 +186,7 @@ Bourgogne
 
 |
 
-74
+78
 
 |
 
@@ -166,7 +202,11 @@ Bretagne
 
 |
 
-32
+38
+
+|
+
+6
 
 |
 
@@ -174,7 +214,7 @@ Bretagne
 
 |
 
-113
+119
 
 |
 
@@ -190,7 +230,11 @@ Centre
 
 |
 
-27
+32
+
+|
+
+5
 
 |
 
@@ -198,11 +242,15 @@ Centre
 
 |
 
-95
+100
 
 |
 
-Champagne-Ardennes
+Champagne-Ardenne
+
+|
+
+25
 
 |
 
@@ -214,7 +262,7 @@ Champagne-Ardennes
 
 |
 
-21
+4
 
 |
 
@@ -222,7 +270,7 @@ Champagne-Ardennes
 
 |
 
-74
+78
 
 |
 
@@ -238,13 +286,19 @@ Franche-Comté
 
 |
 
-18
+22
 
 |
 
-3 |
+4
 
-65
+|
+
+3
+
+|
+
+69
 
 |
 
@@ -260,7 +314,11 @@ Haute-Normandie
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -268,7 +326,7 @@ Haute-Normandie
 
 |
 
-74
+78
 
 |
 
@@ -284,7 +342,11 @@ Ile-de-France
 
 |
 
-35
+41
+
+|
+
+6
 
 |
 
@@ -292,7 +354,7 @@ Ile-de-France
 
 |
 
-122
+128
 
 |
 
@@ -308,7 +370,11 @@ Languedoc-Roussillon
 
 |
 
-25
+30
+
+|
+
+5
 
 |
 
@@ -316,7 +382,7 @@ Languedoc-Roussillon
 
 |
 
-89
+94
 
 |
 
@@ -332,7 +398,11 @@ Limousin
 
 |
 
-18
+22
+
+|
+
+4
 
 |
 
@@ -340,7 +410,7 @@ Limousin
 
 |
 
-65
+69
 
 |
 
@@ -356,7 +426,11 @@ Lorraine
 
 |
 
-26
+31
+
+|
+
+5
 
 |
 
@@ -364,7 +438,7 @@ Lorraine
 
 |
 
-92
+97
 
 |
 
@@ -380,7 +454,11 @@ Midi-Pyrénées
 
 |
 
-32
+38
+
+|
+
+6
 
 |
 
@@ -388,11 +466,13 @@ Midi-Pyrénées
 
 |
 
-113
+119
 
 |
 
-Nord-Pas-de-Calais |
+Nord - Pas-de-Calais
+
+|
 
 38
 
@@ -402,7 +482,11 @@ Nord-Pas-de-Calais |
 
 |
 
-32
+38
+
+|
+
+6
 
 |
 
@@ -410,7 +494,7 @@ Nord-Pas-de-Calais |
 
 |
 
-113
+119
 
 |
 
@@ -426,7 +510,11 @@ Pays de la Loire
 
 |
 
-32
+38
+
+|
+
+6
 
 |
 
@@ -434,7 +522,7 @@ Pays de la Loire
 
 |
 
-113
+119
 
 |
 
@@ -450,7 +538,11 @@ Picardie
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -458,11 +550,13 @@ Picardie
 
 |
 
-74
+78
 
 |
 
-Poitou Charentes |
+Poitou-Charentes
+
+|
 
 25
 
@@ -472,7 +566,11 @@ Poitou Charentes |
 
 |
 
-21
+25
+
+|
+
+4
 
 |
 
@@ -480,7 +578,7 @@ Poitou Charentes |
 
 |
 
-74
+78
 
 |
 
@@ -496,7 +594,11 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-33
+39
+
+|
+
+6
 
 |
 
@@ -504,11 +606,11 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-116
+122
 
 |
 
-Rhônes-Alpes
+Rhône-Alpes
 
 |
 
@@ -520,7 +622,11 @@ Rhônes-Alpes
 
 |
 
-33
+39
+
+|
+
+6
 
 |
 
@@ -528,6 +634,4 @@ Rhônes-Alpes
 
 |
 
-116
-
-|
+122 |
