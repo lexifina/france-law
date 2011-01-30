@@ -290,7 +290,7 @@ La fermeture de devant de la veste doit être par fermeture à glissière de typ
 
 3.9.4 Fermeture du pantalon de feu SSLIA
 
-La fermeture du pantalon doit être par fermeture à glissière de type ouverture rapide, sous une garde maintenue rabattue par auto-agrippant :
+La fermeture du pantalon doit être par fermeture à glissière, sous une garde maintenue rabattue par auto-agrippant :
 
 • fermeture à glissière s'arrêtant à 50 mm maximum du bas du pantalon,
 
@@ -318,7 +318,7 @@ L'assemblage des composants ne doit pas permettre l'effilochage et la formation 
 
 • à l'extrémité des fonds de poches
 
-• aux soufflets des bas de manches Pour toutes les coutures, la densité minimale est de 4 points / cm. Les bandes et autres pièces rapportées doivent être fixées avec une double couture.
+• aux soufflets des bas de manches Pour toutes les coutures, la densité minimale est de 4 points / cm. Les bandes et autres pièces rapportées doivent être fixées avec une double couture dans la mesure où la résistance structurelle de la bande n'est pas compromise.
 
 3.9.9 Propriétés antistatiques
 
