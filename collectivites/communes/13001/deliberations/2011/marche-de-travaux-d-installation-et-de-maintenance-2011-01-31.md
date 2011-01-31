@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHE DE TRAVAUX D'INSTALLATION ET DE MAINTENANCE DES SYSTEMES DE SECURITE INCENDIE ET INSTALLATION DES SYSTEMES ANTI-INTRUSION
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-01-31
+- Séance : Conseil Municipal 2CA
+- Objet : MARCHE DE TRAVAUX D'INSTALLATION ET DE MAINTENANCE DES SYSTEMES DE SECURITE INCENDIE ET INSTALLATION DES SYSTEMES ANTI-INTRUSION
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2314-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
