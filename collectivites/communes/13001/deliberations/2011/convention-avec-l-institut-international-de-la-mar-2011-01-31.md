@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION AVEC L'INSTITUT INTERNATIONAL DE LA MARIONNETTE POUR LA MISE EN VALEUR DES COLLECTIONS DE MARIONNETTES DE LA CRÈCHE PARLANTE DU MUSÉE DU VIEIL AIX SUR LE PORTAIL DES ARTS DE LA MARIONNETTE ( SITE INTERNET)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-01-31
+- Séance : Conseil Municipal 2CA
+- Objet : CONVENTION AVEC L'INSTITUT INTERNATIONAL DE LA MARIONNETTE POUR LA MISE EN VALEUR DES COLLECTIONS DE MARIONNETTES DE LA CRÈCHE PARLANTE DU MUSÉE DU VIEIL AIX SUR LE PORTAIL DES ARTS DE LA MARIONNETTE ( SITE INTERNET)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2302-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
