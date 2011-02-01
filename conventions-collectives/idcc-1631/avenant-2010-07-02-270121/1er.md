@@ -1,0 +1,61 @@
+# Article 1er
+
+Le tableau des durées de préavis de licenciement résultant de l'alinéa 2 de l'article 5.2.2 intitulé « Préavis » est modifié et remplacé par le tableau suivant :
+
+Moins de 6 mois de service continu |
+
+1re et 2e catégorie |
+
+8 jours de date à date |
+
+3e catégorie |
+
+15 jours de date à date |
+
+4e catégorie (agents de maîtrise) |
+
+3 semaines de date à date |
+
+5e catégorie (cadres non dirigeants) |
+
+1 mois de date à date |
+
+De 6 mois à 2 ans de service continu
+
+|
+
+1re et 2e catégorie |
+
+1 mois de date à date |
+
+3e catégorie |
+
+2 mois de date à date |
+
+4e catégorie (agents de maîtrise) |
+
+2 mois et 15 jours de date à date |
+
+5e catégorie (cadres non dirigeants) |
+
+3 mois de date à date |
+
+Plus de 2 ans de service continu
+
+|
+
+1re et 2e catégorie |
+
+2 mois de date à date |
+
+3e catégorie |
+
+3 mois de date à date |
+
+4e catégorie (agents de maîtrise) |
+
+3 mois de date à date |
+
+5e catégorie (cadres non dirigeants) |
+
+3 mois de date à date |
