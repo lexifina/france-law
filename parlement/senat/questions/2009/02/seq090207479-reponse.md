@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090207479
+
+- Question : [SEQ090207479](seq090207479.md) — Mise en examen d'un inspecteur du travail
+
+## Réponse
+
+*Travail, JO du 2011-02-03, page 257*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative à la situation particulière d'un inspecteur du travail. L'inspection du travail fait l'objet d'un plan pluriannuel de modernisation et de développement, mis en oeuvre depuis le mois de mars 2006. Ce plan a d'ores et déjà permis de renforcer les effectifs de contrôle par la création de 500 emplois de contrôleurs et d'inspecteurs au cours des années 2007, 2008 et 2009. La direction générale du travail, créée par décret du 22 août 2006, est l'autorité centrale de l'inspection au sens de la convention 81 de l'Organisation internationale du travail. Parmi ses missions, figure notamment l'appui et le soutien aux agents de contrôle, qui se traduit par des mesures concrètes et diversifiées : création d'une cellule pluridisciplinaire dans chaque direction régionale, édition de nombreux guides méthodologiques et fiches pratiques, conseils juridiques, protection fonctionnelle des agents, etc. Cet effort sans précédent pour l'inspection du travail qui a connu un nouveau développement avec le décret n° 2008-1510 du 30 décembre 2008 relatif à la fusion des services d'inspection du travail, se conjugue avec une exigence de qualité dans l'intervention de ce service public, dans le « sens de l'application et du respect de la loi » rappelé par l'honorable parlementaire. L'exercice individuel de la mission d'inspection par l'inspecteur du travail doit donc demeurer dans les limites prévues par la loi, gage d'efficacité vis-à-vis tant des salariés que des entreprises et gage de conformité des actes pris aux exigences légales et réglementaires applicables.
