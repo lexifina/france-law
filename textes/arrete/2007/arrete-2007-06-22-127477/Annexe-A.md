@@ -152,7 +152,7 @@ MAPA × 20
 
 |
 
-Directeur du service interarmées de liquidation des transports
+Directeur du centre interarmées d'administration des opérations
 
 |
 
@@ -344,6 +344,16 @@ MAPA × 1
 
 |
 
+|
+
+Chefs des éléments de soutien national (NSE)
+
+|
+
+MAPA × 0,66
+
+|
+
 Armée de terre
 
 |
@@ -416,9 +426,7 @@ Divers
 
 |
 
-Chef de la section géographique militaire (4)
-
-|
+Chef de la section géographique militaire (4) |
 
 MAPA × 1
 
@@ -428,7 +436,7 @@ Commandants des corps de troupes et chefs des organismes administrés comme tels
 
 |
 
-MAPA × 0, 66
+MAPA × 0,66
 
 |
 
@@ -692,15 +700,11 @@ MAPA x 15 (7)
 
 |
 
-Directeurs régionaux du service d'infrastructure de la défense
+Directeurs des établissements du service d'infrastructure de la défense
 
 |
 
-Sans limitation (5)
-
-MAPA x 120 (6)
-
-MAPA x 40 (7)
+Sans limitation
 
 |
 
@@ -710,9 +714,9 @@ Directeur d'infrastructure de la défense de Cherbourg
 
 Sans limitation (5)
 
-MAPA x 120 (6)
+MAPA × 120 (6)
 
-MAPA x 40 (7)
+MAPA × 40 (7)
 
 |
 
@@ -728,17 +732,9 @@ MAPA x 30 (7)
 
 |
 
-Directeurs des directions d'infrastructure de la défense outre mer, à Dakar et à Djibouti
+Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger |
 
-|
-
-Sans limitation (5)
-
-MAPA x 70 (6)
-
-MAPA x 30 (7)
-
-|
+Sans limitation |
 
 Divers
 
