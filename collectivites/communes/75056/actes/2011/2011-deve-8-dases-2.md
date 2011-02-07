@@ -1,0 +1,9 @@
+# Paris : acte 2011 DEVE 8 - DASES 2 — Signature d'une convention avec l'association AIRPARIF dans le cadre de la participation de la Ville de Paris au budget de l'association. Montant : 389.200 euros.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2011-02-07
+- Nature : PJ
+- Objet : Signature d'une convention avec l'association AIRPARIF dans le cadre de la participation de la Ville de Paris au budget de l'association. Montant : 389.200 euros.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
