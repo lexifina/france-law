@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101116016
+
+- Question : [SEQ101116016](seq101116016.md) — Statut du formulaire Cerfa n° 3511
+
+## Réponse
+
+*Budget, JO du 2011-02-10, page 321*
+
+L'article 261-4 (4°) a du code général des impôts (CGI) exonère les opérations de formation professionnelle continue au sens des dispositions du code du travail ainsi que les opérations qui leur sont étroitement liées lorsqu'elles sont assurées, soit par des personnes morales de droit public, soit par des personnes de droit privé titulaires d'une attestation délivrée par l'autorité administrative compétente reconnaissant qu'elles remplissent les conditions fixées pour exercer leur activité dans le cadre de la formation continue. Cet article transpose en droit interne les dispositions de l'article 132-1 i de la directive 2006/112/CE du 28 novembre 2006 qui prévoit l'exonération de la formation ou du recyclage professionnel, ainsi que les opérations qui y sont étroitement liées, effectuées par des organismes de droit public de même objet ou par d'autres organismes reconnus comme ayant des fins comparables par l'État membre concerné. La délivrance de l'attestation prévue par les articles 202 A à 202 D de l'annexe II au CGI constitue le mécanisme par lequel la France s'assure que les organismes de droit privé qui en sont titulaires poursuivent des fins comparables aux organismes de droit public au sens de cette disposition. Par conséquent, le bénéfice de l'exonération de la taxe sur la valeur ajoutée (TVA) est indissociablement lié à la détention de cette attestation dont la demande doit être formulée sur l'imprimé n° 3511. Cela étant, une réflexion associant les opérateurs du secteur va prochainement être engagée aux fins de réévaluer les modalités de soumission des opérations de formation professionnelle continue au régime d'exonération de TVA.
