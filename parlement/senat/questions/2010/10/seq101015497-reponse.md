@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015497
+
+- Question : [SEQ101015497](seq101015497.md) — Pénurie d'ophtalmologistes
+
+## Réponse
+
+*Santé, JO du 2011-02-10, page 350*
+
+La situation de la démographie de certaines spécialités médicales appelle une vigilance particulière. L'ophtalmologie est une des spécialités dont les effectifs pourraient décroître si aucune mesure n'était prise. Le Gouvernement a décidé d'augmenter à partir de 2002 le numérus clausus pour le porter de 4 700 à 7 400 en 2009. Ce travail de rééquilibrage de la démographie médicale va être renforcé dans les années à venir. Le nombre d'internes sera déterminé, pour chaque région, dans chaque spécialité et en fonction des besoins de la population. Par ailleurs, plusieurs dispositions récentes inscrites dans la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires et dans la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010 permettent déjà d'organiser des coopérations entre professionnels de santé sur la base de nouvelles répartitions de tâches. Cela concerne notamment l'organisation du travail entre les ophtalmologues et les orthoptistes ou les opticiens-lunetiers, professions pour lesquelles des dispositions ont d'ores et déjà été prises. Cette nouvelle organisation des tâches permet d'optimiser le temps médical, d'améliorer l'accès aux soins de premier recours et, d'une manière générale, la qualité des soins. Elle participe également à la revalorisation des professions paramédicales qui ont ainsi l'occasion de gagner en expertise sur certains champs de compétence, en toute sécurité. Enfin, la télémédecine a vocation à renforcer ce dispositif pour permettre la prise en charge des patients en cas de difficultés d'accès aux soins.
