@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408599
+
+- Question : [SEQ090408599](seq090408599.md) — Bonifications de retraite pour enfants accordées aux fonctionnaires en cas de naissances multiples
+
+## Réponse
+
+*Budget, JO du 2011-02-10, page 317*
+
+Si, dans les régimes de retraite de la fonction publique, la bonification de durée de services pour enfant (art. L. 12 du code des pensions civiles et militaires de retraite) et le bénéfice de la retraite anticipée des parents de trois enfants et plus (3° du I de l'article L. 24 du code) sont subordonnés à une interruption d'activité de deux mois par enfant, seules les dispositions d'application prises pour la retraite anticipée prévoient expressément, en cas de naissances gémellaires ou multiples, que : « en cas de naissances ou d'adoptions simultanées, la durée d'interruption d'activité prise en compte au titre de l'ensemble des enfants en cause est également de deux mois » (art. R. 37 du code issu du décret n° 2005-449 du 10 mai 2005). Jusqu'à présent, les services estimaient, en cas de naissances gémellaires, que l'attribution d'une double bonification d'ancienneté était subordonnée à une interruption d'activité de quatre mois, l'article L. 12 subordonnant l'attribution de la bonification pour chaque enfant à une durée d'interruption d'activité de deux mois, et en l'absence de disposition expresse y dérogeant pour les naissances multiples. Cette interprétation se justifiait également par le fait que la bonification est un dispositif compensant le préjudice de carrière résultant d'une interruption d'activité. Cependant, le Conseil d'État a estimé (décision n° 318318 du 6 mai 2009 - Mme Kucharski c/ministère du budget), dans une situation similaire, qu'une bonification de deux ans pouvait être attribuée à la mère de jumeaux justifiant d'un congé de maternité inférieur à quatre mois.
