@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714406
+
+- Question : [SEQ100714406](seq100714406.md) — Accompagnement avant et après la décision d'IVG ou d'IMG
+
+## Réponse
+
+*Santé, JO du 2011-02-10, page 350*
+
+En application de l'article L. 2213-1 du code de la santé publique, lorsqu'une interruption de grossesse pour motif médical (IMG) est envisagée au motif que la poursuite de la grossesse met en péril grave la santé de la femme ou qu'il existe une forte probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment du diagnostic, la femme ou le couple concerné peut, à sa demande, être entendu par l'équipe pluridisciplinaire de diagnostic prénatal. Par ailleurs, lorsque l'équipe se réunit, un médecin, choisi par le couple, peut être associé à la concertation. Un dispositif spécifique est prévu pour accompagner les femmes engagées dans une démarche difficile en vue de la réalisation d'une IMG. En effet, l'équipe pluridisciplinaire comporte en son sein et selon les situations un psychiatre, un psychologue ou un assistant social, appelé à apporter l'écoute et l'accompagnement requis. Il apparaît important que le rôle complexe d'accompagnement de ces situations soit assuré par un professionnel compétent et spécifiquement formé. Il semble également essentiel que ce professionnel soit étroitement associé à la réflexion menée par l'équipe pluridisciplinaire sur toutes les questions que soulèvent l'indication et la pratique d'une interruption de grossesse pour motif médical. Le recours à une IMG peut intervenir à tout moment de la grossesse, sans contrainte de délai, et tout le temps nécessaire à la réflexion est laissé à la femme enceinte afin que la décision concernant l'issue de la grossesse ne soit pas regrettée ultérieurement.
