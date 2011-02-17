@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714387
+
+- Question : [SEQ100714387](seq100714387.md) — Santé des femmes et contraception
+
+## Réponse
+
+*Santé, JO du 2011-02-17, page 412*
+
+La contraception française se caractérise par une faible diversité des méthodes utilisées et un taux d'échecs important. Parmi les trois modes de contraception les plus couramment adoptés, la pilule demeure la méthode dominante : pilule (57 %), stérilet (25 %), préservatif (11 %). Dans le cadre d'une politique active de prévention des grossesses non désirées, des efforts sont entrepris pour améliorer et diversifier l'offre contraceptive. La méconnaissance de modes contraceptifs efficaces tels que le patch, l'implant ou l'anneau contraceptif constitue bien souvent un frein à leur utilisation. Les orientations données récemment par la direction générale de la santé à l'institut national de prévention et d'éducation pour la santé (INPES) pour la conduite de ses prochaines campagnes de communication sur la contraception mettent l'accent sur la nécessaire amélioration de l'information en matière d'offre contraceptive en direction du public. Par ailleurs, ces campagnes s'adresseront également aux médecins pour améliorer leur prescription. Il apparaît en effet essentiel de sensibiliser les prescripteurs aux échecs qui peuvent être liés aux difficultés d'une gestion quotidienne d'une méthode contraceptive, notamment orale, et à l'absence d'implication de la femme ou du couple dans le choix contraceptif. Par ailleurs, l'agence française de sécurité sanitaire des produits de santé (AFSSAPS) a été sollicitée par le ministère chargé de la santé afin de disposer de données actualisées concernant les risques éventuels associés à la prise de la contraception hormonale dans le domaine du cancer et sur le plan cardio-vasculaire.
