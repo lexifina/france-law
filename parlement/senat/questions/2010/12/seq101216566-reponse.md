@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216566
+
+- Question : [SEQ101216566](seq101216566.md) — Convention liant le groupe France Télévisions à l'Association française contre les myophathies
+
+## Réponse
+
+*Culture, JO du 2011-02-24, page 470*
+
+Le ministre de la culture et de la communication se félicite de la formidable initiative du Téléthon lancée en 1987 par l'Association française contre les myopathies (AFM) pour appeler l'attention sur les maladies génétiques méconnues. Grâce à cette exposition médiatique, le ministre souligne que la collecte de dons effectuée lors des éditions successives du Téléthon a servi à financer l'ensemble de la recherche. Le Téléthon est un exemple d'engagement de la télévision publique au service de la générosité. Il convient de préciser que le Gouvernement n'intervient pas dans l'élaboration détaillée des grilles de programmes qui relève de la responsabilité des dirigeants des chaînes de télévision. C'est une condition nécessaire de la liberté de communication. Toutefois, devant la polémique soulevée en 2009 sur la place accordée aux différentes causes à la télévision, le Premier ministre a décidé en 2010 de saisir le Conseil supérieur de l'audiovisuel (CSA) de la question plus générale de l'accès des associations aux médias audiovisuels. Cette réflexion, qui associe les acteurs du monde associatif et du secteur des médias audiovisuels, devrait apporter prochainement des recommandations destinées à rendre compte de la richesse que le monde associatif représente pour notre pays. Enfin, le président de France Télévisions a réaffirmé son engagement pour le Téléthon. Ainsi, une nouvelle convention liant France Télévisions à l'AFM sera négociée, la précédente étant arrivée à échéance. Dans ce cadre, un groupe de travail sera mis en place et conduira ses discussions à la lumière des préconisations du rapport du CSA.
