@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216248
+
+- Question : [SEQ101216248](seq101216248.md) — Tarification des prothèses dentaires
+
+## Réponse
+
+*Travail, JO du 2011-02-24, page 484*
+
+L'article 57 de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires, a inséré à l'article L. 111-3 du code de la santé publique deux mentions destinées à mieux informer les patients en cas de fourniture d'une prothèse dentaire. Les professionnels de santé d'exercice libéral doivent, avant l'exécution d'un acte ou d'une prestation qui inclut la fourniture d'un dispositif médical, délivrer gratuitement au patient une information écrite comprenant de manière dissocié le prix d'achat de chaque élément de l'appareillage proposé, d'une part, et le prix de toutes les prestations associées, d'autre part. Cette dernière mesure concerne notamment les prothèses dentaires. Elle est d'application directe. Cette mesure vise à introduire plus de transparence dans la facturation de cet acte dont le tarif est libre. Or c'est justement sur la base de cette transparence que se fonde la relation de confiance entre les praticiens et leurs patients. Toutefois, il est apparu que les spécificités de fabrication des prothèses dentaires, différentes d'un chirurgien-dentiste à l'autre, ne permettent pas d'envisager facilement un tel devis, notamment en regard de l'obligation d'indiquer le prix d'achat de chaque élément de l'appareillage. L'application de cette mesure législative pourrait donc avoir un effet inverse de celui recherché en apportant aux patients une information complexe et peu standardisée. Un travail est en cours avec les représentants des chirurgiens-dentistes pour envisager de remplacer cette obligation d'indiquer le prix d'achat de chaque élément de l'appareillage par son coût.
