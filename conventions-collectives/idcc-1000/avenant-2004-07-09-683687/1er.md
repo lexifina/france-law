@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 La profession d'avocats verse tout ou partie de ses contributions mutualisées, dans le cadre défini ci-après, au titre de la formation professionnelle continue, à l'exclusion du congé individuel de formation, à l'organisme paritaire de collecte agréé des professions libérales OPCA-PL, dont le siège social est à Levallois-Perret (92309), 52-56, rue Kléber.
 
@@ -22,11 +22,11 @@ Les entreprises ayant un effectif supérieur ou égal à 10 et inférieur à 20 
 
 Le versement de cette contribution se répartit ainsi :
 
--un versement de 0,15 % au titre de la professionnalisation et du DIF en application des exonérations prévues par l'ordonnance n° 2005-895 du 2 août 2005 ;
+– un versement de 0,15 % au titre de la professionnalisation et du DIF en application des exonérations prévues par l'ordonnance n° 2005-895 du 2 août 2005 ;
 
--un versement obligatoire au titre du plan de formation qui ne peut être inférieur à 0,95 % ;
+– un versement obligatoire au titre du plan de formation qui ne peut être inférieur à 0,95 % ;
 
--le cas échéant, un versement complémentaire au titre du plan de formation correspondant au solde de l'obligation légale de financement qui n'a pas fait l'objet d'une utilisation directe par le cabinet.
+– le cas échéant, un versement complémentaire au titre du plan de formation correspondant au solde de l'obligation légale de financement qui n'a pas fait l'objet d'une utilisation directe par le cabinet.
 
 Ces taux de contribution sont applicables dès la première année de franchissement du seuil de 10 salariés.
 
@@ -55,3 +55,7 @@ Cette contribution se répartit ainsi :
 – un versement obligatoire au titre du plan de formation, qui représente le solde entre l'obligation minimale conventionnelle et le versement de la contribution au titre de la professionnalisation-DIF ;
 
 – le cas échéant, un versement complémentaire au titre du plan de formation correspondant au solde de l'obligation légale de financement qui n'a pas fait l'objet d'une utilisation directe par le cabinet.
+
+L'ensemble de ces contributions est affecté dans les différentes sections constituées au sein de l'OPCA-PL. La gestion de chacune des contributions visées ci-dessus fait l'objet d'un suivi comptable distinct. Les contributions versées au titre du plan de formation sont mutualisées dès leur versement dans une section unique, quel que soit l'effectif des cabinets (1).
+
+(1) Phrase exclue de l'extension comme étant contraire aux dispositions des articles L. 952-2 et R. 952-3 du code du travail (arrêté du 2 août 2005, art. 1er).
