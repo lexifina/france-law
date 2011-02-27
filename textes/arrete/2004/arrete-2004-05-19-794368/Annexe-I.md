@@ -372,9 +372,7 @@ II. - Pour les produits contenant du thiaméthoxame comme substance active assoc
 
 |
 
-Propiconazole.
-
-|
+Propiconazole. |
 
 Identité :
 
@@ -408,9 +406,7 @@ Aux fins de cette évaluation :
 
 |
 
-31 mars 2020
-
-|
+31 mars 2020 |
 
 I. - Pour les produits contenant du propiconazole comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er avril 2010 :
 
@@ -622,7 +618,7 @@ II. - Pour les produits contenant du tébuconazole comme substance active associ
 
 |
 
-.
+..
 
 SUBSTANCE
 
@@ -638,7 +634,7 @@ concernant la substance active
 
 DISPOSITIONS SPÉCIFIQUES
 
-pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement
+pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement
 
 |
 
@@ -656,7 +652,7 @@ d'expiration de l'inscription
 
 DÉLAIS POUR LA MISE
 
-en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
+en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement
 
 |
 
@@ -1162,7 +1158,7 @@ la substance active
 
 DISPOSITIONS SPÉCIFIQUES
 
-pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement
+pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement
 
 |
 
@@ -1180,7 +1176,7 @@ d'expiration de l'inscription
 
 DÉLAIS POUR LA MISE
 
-en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
+en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement
 
 |
 
@@ -1246,7 +1242,7 @@ et des mesures de limitations
 
 prévues à l'
 
-article R. 522-32 du code de l'environnement
+article R. 522-32du code de l'environnement
 
 |
 
@@ -1268,7 +1264,7 @@ en conformité des produits contenant la substance active
 
 avec l'
 
-article L. 522-4 du code de l'environnement
+article L. 522-4du code de l'environnement
 
 |
 
@@ -2377,6 +2373,174 @@ c) Les produits pour lesquels un dossier a été déposé mais est jugé non rec
 2° A compter du 1er février 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
 
 II. - Pour les produits contenant du phosphure de magnésium comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Métofluthrine
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Isomère RTZ : 2,3,5,6-tétrafluoro-4-(méthoxyméthyl) benzyl (1R, 3R)-2,2-diméthyl-3-(Z) (prop-1-enyl) cyclopropanecarboxylate
+
+N° CE : n. d.
+
+N° CAS : 240494-71-7
+
+Somme de tous les isomères : 2,3,5,6-tétrafluoro-4-(méthoxyméthyl) benzyl-(EZ)-(1RS, 3RS ; 1SR, 3SR)-2,2-diméthyl-3-prop-1-enylcyclopropanecarboxylate
+
+N° CE : n. d.
+
+N° CAS : 240494-70-6
+
+Pureté minimale :
+
+La substance active doit présenter une pureté minimale conforme aux deux niveaux suivants :
+
+Isomère RTZ
+
+754 g/kg
+
+Somme de tous les isomères
+
+930 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués.
+
+|
+
+1er mai 2011
+
+|
+
+30 avril 2021
+
+|
+
+Sans objet (nouvelle substance active) : les produits doivent être autorisés avant d'être mis sur le marché.
+
+|
+
+Spinosad
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+N° CE : 434-300-1 N° CAS : 168316-95-8
+
+Pureté minimale : 850 g/kg
+
+Le spinosad est un mélange de 50 à 95 % de spinosyne A et de 5 à 50 % de spinosyne D.
+
+Spinosyne A (2R, 3aS, 5aR, 5bS, 9S, 13S, 14R, 16aS, 16bR)-2-[(6-désoxy-2,3,4-tri - O-méthyl --L-mannopyranosyl) oxy]-13-[[(2R, 5S, 6R)-5-(diméthylamino) tétrahydro-6-méthyl-2H-pyran-2-yl] oxy]-9-éthyl-2,3, 3a, 5a, 5b,6,9,10,11,12,13,14, 16a, 16b-tétradécahydro-14-méthyl-1H-as-indacéno [3,2-d] oxacyclododécin-7,15-dione
+
+N° CAS : 131929-60-7
+
+Spinosyne D (2S, 3aR, 5aS, 5bS, 9S, 13S, 14R, 16aS, 16bR)-2-[(6-désoxy-2,3,4-tri-O-méthyl-L-mannopyranosyl) oxy]-13-[[(2R, 5S, 6R)-5-(diméthylamino) tétrahydro-6-méthyl-2H-pyran-2-l] oxy]-9-éthyl-2,3, 3a, 5a, 5b,6,9,10,11,12,13,14, 16a, 16b-tétrad-écahydro-4,14-mét-hyl1Hasindacéno [3,2-d] oxacyclodo-décin7, 15dione
+
+N° CAS : 131929-63-0
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Les autorisations doivent faire l'objet des mesures appropriées d'atténuation des risques. En particulier, les produits destinés à un usage professionnel par pulvérisation doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il ne puisse être prouvé, dans la demande d'autorisation du produit, que les risques pour les utilisateurs professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens ;
+
+2) En ce qui concerne les produits contenant du spinosad qui pourraient entraîner la présence de résidus dans des denrées alimentaires ou des aliments pour animaux, la nécessité d'introduire de nouvelles teneurs maximales en résidus et/ ou de modifier les teneurs existantes conformément au règlement (CE) n° 470/2009 et/ ou au règlement (CE) n° 396/2005 est évaluée, et toutes les mesures d'atténuation des risques appropriées visant à garantir que les teneurs maximales en résidus ne sont pas dépassées, sont prises.
+
+|
+
+1er novembre 2012
+
+|
+
+31 octobre 2022
+
+|
+
+I. - Pour les produits contenant du spinosad comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er novembre 2012 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er novembre 2012 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2012 ;
+
+b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 octobre 2012, ne doivent plus être mis sur le marché au 30 avril 2013 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2013 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er novembre 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du spinosad comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er novembre 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Dioxyde de carbone
+
+|
+
+Identité :
+
+Dénomination de l'UICPA : Dioxyde de carbone
+
+N° CE : 204-696-9
+
+N° CAS : 124-38-9
+
+Pureté minimale :
+
+≥ 990 ml/l
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués.
+
+Les risques sont évalués, et des mesures appropriées sont prises ou des conditions spécifiques sont imposées en vue d'atténuer les risques mis en évidence.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Le produit ne peut être vendu qu'à des professionnels formés à leur utilisation, et leur usage est réservé à ces professionnels ;
+
+2) Des mesures appropriées sont prises pour protéger les opérateurs afin de réduire les risques au minimum, y compris la mise à disposition d'équipements de protection individuelle si nécessaire ;
+
+3) Des mesures appropriées sont prises pour protéger les personnes présentes, par exemple l'exclusion de ces personnes de la zone de traitement durant la fumigation.
+
+|
+
+1er novembre 2012
+
+|
+
+31 octobre 2022
+
+|
+
+I. - Pour les produits contenant du dioxyde de carbone comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er novembre 2012 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er novembre 2012 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2012 ;
+
+b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 octobre 2012, ne doivent plus être mis sur le marché au 30 avril 2013 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2013 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er novembre 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du dioxyde de carbone comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er novembre 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
 
 |
 
