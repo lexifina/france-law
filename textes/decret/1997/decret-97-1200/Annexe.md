@@ -526,6 +526,20 @@ Articles R. 324-1 et R. 324-3 du code de la propriété intellectuelle.
 
 |
 
+Décret n° 2002-628 du 25 avril 2002 pris pour l’application de la loi no 2002-5 du 4 janvier 2002 relative aux musées de France.
+
+1
+
+|
+
+Reconnaissance de la qualification professionnelle d’un ressortissant d’un Etat membre de la Communauté européenne ou d’un autre Etat partie à l’accord sur l’Espace économique européen en vue de l’exercice de l’activité de restauration de biens des collections des musées de France et décisions relatives à cette reconnaissance.
+
+|
+
+Article 13.
+
+|
+
 Arrêté interministériel du 28 janvier 1991 modifié définissant les modalités de formation à la sécurité des personnels intervenant dans des opérations hyperbares
 
 1
