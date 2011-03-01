@@ -1,6 +1,8 @@
 # Article Annexe 8 liste 3
 
-Liste 3 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue pour les enfants de moins de 18 ans
+Liste 3 : diagnostics et actes associés autorisant la facturation
+
+d'un supplément de surveillance continue pour les enfants de moins de 18 ans
 
 CODE CIM-10
 
@@ -210,7 +212,7 @@ Tumeur maligne des os longs du membre inférieur
 
 |
 
-D. 57. 0
+D57. 0
 
 |
 
@@ -222,7 +224,7 @@ Anémie à hématies falciformes [anémie drépanocytaire] avec crises
 
 |
 
-D. 59. 3
+D59. 3
 
 |
 
@@ -234,7 +236,7 @@ Syndrome hémolytique urémique
 
 |
 
-D. 65
+D65
 
 |
 
@@ -246,7 +248,7 @@ Coagulation intravasculaire disséminée [syndrome de défibrination]
 
 |
 
-D. 70
+D70
 
 |
 
@@ -334,7 +336,7 @@ E43
 
 |
 
-Malnutrition protéinoénergétique grave, sans précision
+Malnutrition protéino-énergétique grave, sans précision
 
 |
 
@@ -346,7 +348,7 @@ E66. 21
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, 40 ¸ IMC ¸ 50 kg / m ²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 40 kg/ m ² et inférieur à 50 kg/ m ²
 
 |
 
@@ -358,7 +360,7 @@ E66. 22
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, IMC 50 kg / m ²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 50 kg/ m ²
 
 |
 
@@ -382,7 +384,7 @@ E71. 1
 
 |
 
-Autres anomalies du métabolisme des acides aminés à chaine ramifiée
+Autres anomalies du métabolisme des acides aminés à chaîne ramifiée
 
 |
 
@@ -414,7 +416,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -446,7 +448,7 @@ F10. 0
 
 |
 
-Troubles mentaux et du comportement liés à l'utilisation d'alcool, intoxication aiguë
+Troubles mentaux et du comportement liés à l'utilisation d'alcool : intoxication aiguë
 
 |
 
@@ -522,11 +524,11 @@ Encéphalopathie, sans précision
 
 |
 
-HSLD. 002
+HSLD 002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -546,7 +548,7 @@ I15. 0
 
 |
 
-Hypertension vasculorénale
+Hypertension vasculo-rénale
 
 |
 
@@ -558,7 +560,7 @@ I62. 0
 
 |
 
-Hémorragie sous-durale aigue non traumatique
+Hémorragie sous-durale (aiguë) (non traumatique)
 
 |
 
@@ -570,7 +572,7 @@ I62. 1
 
 |
 
-Hémorragie extra-durale non traumatique
+Hémorragie extradurale non traumatique
 
 |
 
@@ -582,19 +584,7 @@ I62. 9
 
 |
 
-Hémorragie intracrânienne non traumatique sans précision
-
-|
-
-|
-
-|
-
-I98. 20
-
-|
-
-Varices œsophagiennes au cours de maladies classées ailleurs, hémorragiques
+Hémorragie intracrânienne (non traumatique), sans précision
 
 |
 
@@ -618,7 +608,7 @@ J05. 0
 
 |
 
-Laryngite obstructive aiguë [croup]
+Laryngite obstructive (aiguë) [croup]
 
 |
 
@@ -638,7 +628,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
 
 |
 
@@ -647,6 +637,18 @@ J21. 0
 |
 
 Bronchiolite aiguë due au virus respiratoire syncytial [VRS]
+
+|
+
+|
+
+|
+
+J21. 1
+
+|
+
+Bronchiolite aiguë due à métapneumovirus humain
 
 |
 
@@ -670,7 +672,7 @@ J21. 9
 
 |
 
-Bronchiolite aiguë, sans précision
+Bronchiolite (aiguë), sans précision
 
 |
 
@@ -702,7 +704,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
 
 |
 
@@ -718,7 +720,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
 
 |
 
@@ -734,7 +736,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
 
 |
 
@@ -766,7 +768,7 @@ J94. 0
 
 |
 
-Épanchement chyleux
+Epanchement chyleux
 
 |
 
@@ -778,7 +780,7 @@ J95. 0
 
 |
 
-Fonctionnement défectueux d'une trachéotomie
+Fonctionnement défectueux d'une trachéostomie
 
 |
 
@@ -790,7 +792,7 @@ J95. 5
 
 |
 
-Sténose sousglottique après un acte à visée diagnostique et thérapeutique
+Sténose sous-glottique après un acte à visée diagnostique et thérapeutique
 
 |
 
@@ -806,11 +808,11 @@ Insuffisance respiratoire aiguë
 
 |
 
-GLLD. 019
+GLLD 019
 
 |
 
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë.
 
 |
 
@@ -834,11 +836,11 @@ Achalasie du cardia
 
 |
 
-HSLD. 002
+HSLD 002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -850,11 +852,11 @@ Dyskinésie de l'œsophage
 
 |
 
-HSLD. 002
+HSLD 002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -870,11 +872,23 @@ Gastrite hémorragique aiguë
 
 |
 
+K35. 2
+
+|
+
+Appendicite aiguë avec péritonite généralisée
+
+|
+
+|
+
+|
+
 K52. 3
 
 |
 
-Colite indéterminée
+Colite d'origine indéterminée
 
 |
 
@@ -882,7 +896,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -898,7 +912,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -914,7 +928,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -930,7 +944,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -938,7 +952,7 @@ K56. 1
 
 |
 
-Invagination
+Invagination (intestinale)
 
 |
 
@@ -950,7 +964,7 @@ K56. 2
 
 |
 
-Volvulus
+Volvulus (intestinal)
 
 |
 
@@ -986,7 +1000,7 @@ K63. 1
 
 |
 
-Perforation de l intestin (non traumatique)
+Perforation de l'intestin (non traumatique)
 
 |
 
@@ -1054,7 +1068,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -1070,7 +1084,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -1086,7 +1100,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -1094,7 +1108,7 @@ K91. 3
 
 |
 
-Occlusion intestinale post opératoire non classée ailleurs
+Occlusion intestinale post-opératoire, non classée ailleurs
 
 |
 
@@ -1126,11 +1140,11 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
-L. 03. 2
+L03. 2
 
 |
 
@@ -1142,11 +1156,11 @@ Phlegmon de la face
 
 |
 
-L. 51. 1
+L51. 1
 
 |
 
-Érythème polymorphe bulleux
+Erythème polymorphe bulleux
 
 |
 
@@ -1170,7 +1184,7 @@ P27. 1
 
 |
 
-Dysplasie bronchopulmonaire survenant pendant la période périnatale
+Dysplasie broncho-pulmonaire survenant pendant la période périnatale
 
 |
 
@@ -1194,7 +1208,7 @@ Q39. 1
 
 |
 
-Atrésie de l œsophage avec fistule trachéo œsophagienne
+Atrésie de l'oesophage avec fistule trachéo-oesophagienne
 
 |
 
@@ -1214,7 +1228,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -1230,7 +1244,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
@@ -1258,31 +1272,31 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal / kg / jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
 
 |
 
-R. 04. 0
+R. 04.0
 
 |
 
-Épistaxis
+Epistaxis
 
 |
 
-GABD. 001
+GABD 001
 
 |
 
-Tamponnement nasal antérieur et postérieur
+Tamponnement nasal antérieur et postérieur.
 
 |
 
-R. 04. 0
+R04. 0
 
 |
 
-Épistaxis
+Epistaxis
 
 |
 
@@ -1290,15 +1304,15 @@ GASE002
 
 |
 
-Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie
+Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie.
 
 |
 
-R. 04. 0
+R04. 0
 
 |
 
-Épistaxis
+Epistaxis
 
 |
 
@@ -1306,11 +1320,11 @@ GASE001
 
 |
 
-Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie
+Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie.
 
 |
 
-R. 04. 2
+R04. 2
 
 |
 
@@ -1322,7 +1336,7 @@ Hémoptysie
 
 |
 
-R. 09. 2
+R09. 2
 
 |
 
@@ -1334,7 +1348,7 @@ Arrêt respiratoire
 
 |
 
-R. 10. 0
+R10. 0
 
 |
 
@@ -1346,7 +1360,7 @@ Syndrome abdominal aigu
 
 |
 
-R. 40. 1
+R40. 1
 
 |
 
@@ -1358,7 +1372,7 @@ Stupeur
 
 |
 
-R. 52. 1
+R52. 1
 
 |
 
@@ -1370,11 +1384,11 @@ Douleur chronique irréductible
 
 |
 
-R. 55
+R55
 
 |
 
-Syncope et collapsus
+Syncope et collapsus (sauf choc)
 
 |
 
@@ -1382,7 +1396,7 @@ Syncope et collapsus
 
 |
 
-R. 56. 0
+R56. 0
 
 |
 
@@ -1394,7 +1408,7 @@ Convulsions fébriles
 
 |
 
-R. 56. 8
+R56. 8
 
 |
 
@@ -1406,7 +1420,7 @@ Convulsions, autres et non précisées
 
 |
 
-R. 57. 1
+R57. 1
 
 |
 
@@ -1418,7 +1432,7 @@ Choc hypovolémique
 
 |
 
-R. 57. 8
+R57. 8
 
 |
 
@@ -1430,7 +1444,7 @@ Autres chocs
 
 |
 
-R. 65. 2
+R65. 2
 
 |
 
@@ -1442,11 +1456,11 @@ Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans d�
 
 |
 
-R. 65. 9
+R65. 9
 
 |
 
-Syndrome de réponse inflammatoire systémique, non précisé
+Syndrome de réponse inflammatoire systémique, sans précision
 
 |
 
@@ -1470,7 +1484,7 @@ S02. 10
 
 |
 
-Fracture de la base du crâne, fermée
+Fracture fermée de la base du crâne
 
 |
 
@@ -1566,7 +1580,7 @@ S24. 0
 
 |
 
-Commotion et œdème de la moelle thoracique
+Commotion et œdème de la moelle dorsale
 
 |
 
@@ -1578,7 +1592,7 @@ S24. 1
 
 |
 
-Lésions traumatiques autres et non précisées de la moelle thoracique
+Lésions traumatiques autres et non précisées de la moelle dorsale
 
 |
 
@@ -1602,7 +1616,7 @@ S34. 0
 
 |
 
-Commotion et œdème de la moelle lombale
+Commotion et œdème de la moelle lombaire
 
 |
 
@@ -1614,7 +1628,7 @@ S34. 1
 
 |
 
-Autres lésions traumatiques de la moelle lombale
+Autres lésions traumatiques de la moelle lombaire
 
 |
 
@@ -1854,7 +1868,7 @@ T31. 1
 
 |
 
-Brulures couvrant entre 10 % et moins de 20 % de la surface du corps
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps
 
 |
 
@@ -2034,7 +2048,7 @@ T81. 1
 
 |
 
-Choc pendant ou après un acte à visée diagnostique ou thérapeutique, non classé ailleurs
+Choc pendant ou après un acte à visée diagnostique et thérapeutique, non classé ailleurs
 
 |
 
@@ -2046,7 +2060,7 @@ T85. 0
 
 |
 
-Complication mécanique d'un shunt ventriculaire intracrânien [communication]
+Complication mécanique d'un shunt ventriculaire intracrânien (communication)
 
 |
 

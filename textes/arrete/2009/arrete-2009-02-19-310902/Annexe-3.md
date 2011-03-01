@@ -1,43 +1,51 @@
 # Article Annexe 3
 
-LISTE DES FORFAITS DÉNOMMÉS "PRÉLÈVEMENTS D'ORGANES"
+LISTES DES FORFAITS DÉNOMMÉS PRÉLÈVEMENTS D'ORGANES
 
-Liste 1 : forfaits facturables par l'établissement siège du prélèvement d'organes
+Liste 1 : forfaits correspondant aux prestations de séjours et de soins délivrées par l'établissement au sein duquel a été réalisé le prélèvement d'un ou plusieurs organes
 
-PO1 |
+CODE |
 
-Prélèvements du ou des reins et/ou du foie. |
+FORFAIT |
 
-PO2 |
+PO 1 |
 
-Prélèvements du ou des reins, du foie, du cœur, du pancréas, du ou des poumons et ou de l'intestin, ou prélèvement d'au moins 7 organes. |
+Prélèvements du ou des reins et/ou du foie |
 
-PO3 |
+PO 2 |
 
-Autres prélèvements d'organes. |
+Prélèvements du ou des reins, du foie, du cœur, du pancréas, du ou des poumons et ou de l'intestin, ou prélèvement d'au moins 7 organes |
 
-PO4 |
+PO 3 |
 
-Prélèvements d'organes sur cœur arrêté. |
+Autres prélèvements d'organes |
 
-Liste 2 : forfaits facturables par l'établissement dont dépend le chirurgien préleveur
+PO 4 |
 
-PO5 |
+Prélèvements d'organes sur cœur arrêté |
 
-Prélèvement de rein(s). |
+Liste 2 : forfaits correspondant aux prestations de séjours et de soins délivrées par le chirurgien qui effectue l'acte de prélèvement
 
-PO6 |
+CODE |
 
-Prélèvement du foie. |
+FORFAIT |
 
-PO7 |
+PO 5 |
 
-Prélèvement de poumon(s). |
+Prélèvement de rein(s) |
 
-PO8 |
+PO 6 |
 
-Prélèvement de cœur ou du bloc cœur poumon . |
+Prélèvement du foie |
 
-PO9 |
+PO 7 |
 
-Prélèvement de pancréas. |
+Prélèvement de poumon(s) |
+
+PO 8 |
+
+Prélèvement de cœur ou du bloc cœur poumon |
+
+PO 9 |
+
+Prélèvement de pancréas |

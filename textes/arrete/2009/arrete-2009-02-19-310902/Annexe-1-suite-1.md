@@ -10,7 +10,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
 |
 
-Réparations de fissures labiale et palatine, niveau 1
+Réparations de fissures labiale et palatine, niveau 1.
 
 |
 
@@ -22,7 +22,7 @@ Réparations de fissures labiale et palatine, niveau 1
 
 |
 
-Réparations de fissures labiale et palatine, niveau 2
+Réparations de fissures labiale et palatine, niveau 2.
 
 |
 
@@ -34,7 +34,7 @@ Réparations de fissures labiale et palatine, niveau 2
 
 |
 
-Réparations de fissures labiale et palatine, niveau 3
+Réparations de fissures labiale et palatine, niveau 3.
 
 |
 
@@ -46,7 +46,7 @@ Réparations de fissures labiale et palatine, niveau 3
 
 |
 
-Réparations de fissures labiale et palatine, niveau 4
+Réparations de fissures labiale et palatine, niveau 4.
 
 |
 
@@ -58,7 +58,7 @@ Réparations de fissures labiale et palatine, niveau 4
 
 |
 
-Réparations de fissures labiale et palatine, très courte durée
+Réparations de fissures labiale et palatine, très courte durée.
 
 |
 
@@ -70,7 +70,7 @@ Réparations de fissures labiale et palatine, très courte durée
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 1
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -82,7 +82,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 2
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -94,7 +94,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 3
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -106,7 +106,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 4
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -118,7 +118,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, en ambulatoire
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, en ambulatoire.
 
 |
 
@@ -130,7 +130,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 1
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -142,7 +142,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 2
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -154,7 +154,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 3
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -166,7 +166,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 4
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -178,7 +178,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, en ambulatoire
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -190,7 +190,7 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Rhinoplasties, niveau 1
+Rhinoplasties, niveau 1.
 
 |
 
@@ -202,7 +202,7 @@ Rhinoplasties, niveau 1
 
 |
 
-Rhinoplasties, niveau 2
+Rhinoplasties, niveau 2.
 
 |
 
@@ -214,7 +214,7 @@ Rhinoplasties, niveau 2
 
 |
 
-Rhinoplasties, niveau 3
+Rhinoplasties, niveau 3.
 
 |
 
@@ -226,7 +226,7 @@ Rhinoplasties, niveau 3
 
 |
 
-Rhinoplasties, niveau 4
+Rhinoplasties, niveau 4.
 
 |
 
@@ -238,7 +238,7 @@ Rhinoplasties, niveau 4
 
 |
 
-Rhinoplasties, en ambulatoire
+Rhinoplasties, en ambulatoire.
 
 |
 
@@ -250,7 +250,7 @@ Rhinoplasties, en ambulatoire
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -262,7 +262,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -274,7 +274,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -286,7 +286,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -298,7 +298,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -310,7 +310,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -322,7 +322,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -334,7 +334,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niv
 
 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -346,7 +346,7 @@ Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niv
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -358,7 +358,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -370,7 +370,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -382,7 +382,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -394,7 +394,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -406,7 +406,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -418,7 +418,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -430,7 +430,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -442,7 +442,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 1
+Drains transtympaniques, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -454,7 +454,7 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 1
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 2
+Drains transtympaniques, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -466,7 +466,7 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 2
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 3
+Drains transtympaniques, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -478,7 +478,7 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 3
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 4
+Drains transtympaniques, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -490,7 +490,7 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 4
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire
+Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire.
 
 |
 
@@ -502,7 +502,7 @@ Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 1
+Drains transtympaniques, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -514,7 +514,7 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 1
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 2
+Drains transtympaniques, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -526,7 +526,7 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 2
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 3
+Drains transtympaniques, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -538,7 +538,7 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 3
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 4
+Drains transtympaniques, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -550,7 +550,7 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 4
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire
+Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -562,7 +562,7 @@ Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 1
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 1.
 
 |
 
@@ -574,7 +574,7 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 2
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 2.
 
 |
 
@@ -586,7 +586,7 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 3
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 3.
 
 |
 
@@ -598,7 +598,7 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 4
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 4.
 
 |
 
@@ -610,7 +610,7 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, en ambulatoire
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, en ambulatoire.
 
 |
 
@@ -622,7 +622,7 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Interventions sur la bouche, niveau 1
+Interventions sur la bouche, niveau 1.
 
 |
 
@@ -634,7 +634,7 @@ Interventions sur la bouche, niveau 1
 
 |
 
-Interventions sur la bouche, niveau 2
+Interventions sur la bouche, niveau 2.
 
 |
 
@@ -646,7 +646,7 @@ Interventions sur la bouche, niveau 2
 
 |
 
-Interventions sur la bouche, niveau 3
+Interventions sur la bouche, niveau 3.
 
 |
 
@@ -658,7 +658,7 @@ Interventions sur la bouche, niveau 3
 
 |
 
-Interventions sur la bouche, niveau 4
+Interventions sur la bouche, niveau 4.
 
 |
 
@@ -670,7 +670,7 @@ Interventions sur la bouche, niveau 4
 
 |
 
-Interventions sur la bouche, en ambulatoire
+Interventions sur la bouche, en ambulatoire.
 
 |
 
@@ -682,7 +682,7 @@ Interventions sur la bouche, en ambulatoire
 
 |
 
-Pose d'implants cochléaires, niveau 1
+Pose d'implants cochléaires, niveau 1.
 
 |
 
@@ -694,7 +694,7 @@ Pose d'implants cochléaires, niveau 1
 
 |
 
-Pose d'implants cochléaires, niveau 2
+Pose d'implants cochléaires, niveau 2.
 
 |
 
@@ -706,7 +706,7 @@ Pose d'implants cochléaires, niveau 2
 
 |
 
-Pose d'implants cochléaires, niveau 3
+Pose d'implants cochléaires, niveau 3.
 
 |
 
@@ -718,7 +718,7 @@ Pose d'implants cochléaires, niveau 3
 
 |
 
-Pose d'implants cochléaires, niveau 4
+Pose d'implants cochléaires, niveau 4.
 
 |
 
@@ -730,7 +730,7 @@ Pose d'implants cochléaires, niveau 4
 
 |
 
-Ostéotomies de la face, niveau 1
+Ostéotomies de la face, niveau 1.
 
 |
 
@@ -742,7 +742,7 @@ Ostéotomies de la face, niveau 1
 
 |
 
-Ostéotomies de la face, niveau 2
+Ostéotomies de la face, niveau 2.
 
 |
 
@@ -754,7 +754,7 @@ Ostéotomies de la face, niveau 2
 
 |
 
-Ostéotomies de la face, niveau 3
+Ostéotomies de la face, niveau 3.
 
 |
 
@@ -766,7 +766,7 @@ Ostéotomies de la face, niveau 3
 
 |
 
-Ostéotomies de la face, niveau 4
+Ostéotomies de la face, niveau 4.
 
 |
 
@@ -778,7 +778,7 @@ Ostéotomies de la face, niveau 4
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 1
+Interventions de reconstruction de l'oreille moyenne, niveau 1.
 
 |
 
@@ -790,7 +790,7 @@ Interventions de reconstruction de l'oreille moyenne, niveau 1
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 2
+Interventions de reconstruction de l'oreille moyenne, niveau 2.
 
 |
 
@@ -802,7 +802,7 @@ Interventions de reconstruction de l'oreille moyenne, niveau 2
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 3
+Interventions de reconstruction de l'oreille moyenne, niveau 3.
 
 |
 
@@ -814,7 +814,7 @@ Interventions de reconstruction de l'oreille moyenne, niveau 3
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 4
+Interventions de reconstruction de l'oreille moyenne, niveau 4.
 
 |
 
@@ -826,7 +826,7 @@ Interventions de reconstruction de l'oreille moyenne, niveau 4
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, en ambulatoire
+Interventions de reconstruction de l'oreille moyenne, en ambulatoire.
 
 |
 
@@ -838,7 +838,7 @@ Interventions de reconstruction de l'oreille moyenne, en ambulatoire
 
 |
 
-Interventions pour oreilles décollées, niveau 1
+Interventions pour oreilles décollées, niveau 1.
 
 |
 
@@ -850,7 +850,7 @@ Interventions pour oreilles décollées, niveau 1
 
 |
 
-Interventions pour oreilles décollées, niveau 2
+Interventions pour oreilles décollées, niveau 2.
 
 |
 
@@ -862,7 +862,7 @@ Interventions pour oreilles décollées, niveau 2
 
 |
 
-Interventions pour oreilles décollées, niveau 3
+Interventions pour oreilles décollées, niveau 3.
 
 |
 
@@ -874,7 +874,7 @@ Interventions pour oreilles décollées, niveau 3
 
 |
 
-Interventions pour oreilles décollées, niveau 4
+Interventions pour oreilles décollées, niveau 4.
 
 |
 
@@ -886,7 +886,7 @@ Interventions pour oreilles décollées, niveau 4
 
 |
 
-Interventions pour oreilles décollées, en ambulatoire
+Interventions pour oreilles décollées, en ambulatoire.
 
 |
 
@@ -898,7 +898,7 @@ Interventions pour oreilles décollées, en ambulatoire
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes, en ambulatoire
+Interventions sur les amygdales et les végétations adénoïdes, en ambulatoire.
 
 |
 
@@ -910,7 +910,7 @@ Interventions sur les amygdales et les végétations adénoïdes, en ambulatoire
 
 |
 
-Interventions sur les glandes salivaires, niveau 1
+Interventions sur les glandes salivaires, niveau 1.
 
 |
 
@@ -922,7 +922,7 @@ Interventions sur les glandes salivaires, niveau 1
 
 |
 
-Interventions sur les glandes salivaires, niveau 2
+Interventions sur les glandes salivaires, niveau 2.
 
 |
 
@@ -934,7 +934,7 @@ Interventions sur les glandes salivaires, niveau 2
 
 |
 
-Interventions sur les glandes salivaires, niveau 3
+Interventions sur les glandes salivaires, niveau 3.
 
 |
 
@@ -946,7 +946,7 @@ Interventions sur les glandes salivaires, niveau 3
 
 |
 
-Interventions sur les glandes salivaires, niveau 4
+Interventions sur les glandes salivaires, niveau 4.
 
 |
 
@@ -958,7 +958,7 @@ Interventions sur les glandes salivaires, niveau 4
 
 |
 
-Interventions sur les glandes salivaires, en ambulatoire
+Interventions sur les glandes salivaires, en ambulatoire.
 
 |
 
@@ -970,7 +970,7 @@ Interventions sur les glandes salivaires, en ambulatoire
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 1
+Interventions majeures sur la tête et le cou, niveau 1.
 
 |
 
@@ -982,7 +982,7 @@ Interventions majeures sur la tête et le cou, niveau 1
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 2
+Interventions majeures sur la tête et le cou, niveau 2.
 
 |
 
@@ -994,7 +994,7 @@ Interventions majeures sur la tête et le cou, niveau 2
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 3
+Interventions majeures sur la tête et le cou, niveau 3.
 
 |
 
@@ -1006,7 +1006,7 @@ Interventions majeures sur la tête et le cou, niveau 3
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 4
+Interventions majeures sur la tête et le cou, niveau 4.
 
 |
 
@@ -1018,7 +1018,7 @@ Interventions majeures sur la tête et le cou, niveau 4
 
 |
 
-Autres interventions sur la tête et le cou, niveau 1
+Autres interventions sur la tête et le cou, niveau 1.
 
 |
 
@@ -1030,7 +1030,7 @@ Autres interventions sur la tête et le cou, niveau 1
 
 |
 
-Autres interventions sur la tête et le cou, niveau 2
+Autres interventions sur la tête et le cou, niveau 2.
 
 |
 
@@ -1042,7 +1042,7 @@ Autres interventions sur la tête et le cou, niveau 2
 
 |
 
-Autres interventions sur la tête et le cou, niveau 3
+Autres interventions sur la tête et le cou, niveau 3.
 
 |
 
@@ -1054,7 +1054,7 @@ Autres interventions sur la tête et le cou, niveau 3
 
 |
 
-Autres interventions sur la tête et le cou, niveau 4
+Autres interventions sur la tête et le cou, niveau 4.
 
 |
 
@@ -1066,7 +1066,7 @@ Autres interventions sur la tête et le cou, niveau 4
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 1
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 1.
 
 |
 
@@ -1078,7 +1078,7 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 2
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 2.
 
 |
 
@@ -1090,7 +1090,7 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 3
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 3.
 
 |
 
@@ -1102,7 +1102,7 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 4
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 4.
 
 |
 
@@ -1114,7 +1114,7 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, en ambulatoire
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, en ambulatoire.
 
 |
 
@@ -1126,7 +1126,7 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
+Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire.
 
 |
 
@@ -1138,7 +1138,7 @@ Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
 
 |
 
-Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
+Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire.
 
 |
 
@@ -1150,7 +1150,7 @@ Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
 
 |
 
-Traumatismes et déformations du nez, niveau 1
+Traumatismes et déformations du nez, niveau 1.
 
 |
 
@@ -1162,7 +1162,7 @@ Traumatismes et déformations du nez, niveau 1
 
 |
 
-Traumatismes et déformations du nez, niveau 2
+Traumatismes et déformations du nez, niveau 2.
 
 |
 
@@ -1174,7 +1174,7 @@ Traumatismes et déformations du nez, niveau 2
 
 |
 
-Traumatismes et déformations du nez, niveau 3
+Traumatismes et déformations du nez, niveau 3.
 
 |
 
@@ -1186,7 +1186,7 @@ Traumatismes et déformations du nez, niveau 3
 
 |
 
-Traumatismes et déformations du nez, niveau 4
+Traumatismes et déformations du nez, niveau 4.
 
 |
 
@@ -1198,7 +1198,7 @@ Traumatismes et déformations du nez, niveau 4
 
 |
 
-Traumatismes et déformations du nez, très courte durée
+Traumatismes et déformations du nez, très courte durée.
 
 |
 
@@ -1210,7 +1210,7 @@ Traumatismes et déformations du nez, très courte durée
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -1222,7 +1222,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -1234,7 +1234,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -1246,7 +1246,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -1258,7 +1258,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, très courte durée
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -1270,7 +1270,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1282,7 +1282,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1294,7 +1294,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1306,7 +1306,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -1318,7 +1318,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, très courte durée
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -1330,7 +1330,7 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Troubles de l'équilibre, niveau 1
+Troubles de l'équilibre, niveau 1.
 
 |
 
@@ -1342,7 +1342,7 @@ Troubles de l'équilibre, niveau 1
 
 |
 
-Troubles de l'équilibre, niveau 2
+Troubles de l'équilibre, niveau 2.
 
 |
 
@@ -1354,7 +1354,7 @@ Troubles de l'équilibre, niveau 2
 
 |
 
-Troubles de l'équilibre, niveau 3
+Troubles de l'équilibre, niveau 3.
 
 |
 
@@ -1366,7 +1366,7 @@ Troubles de l'équilibre, niveau 3
 
 |
 
-Troubles de l'équilibre, niveau 4
+Troubles de l'équilibre, niveau 4.
 
 |
 
@@ -1378,7 +1378,7 @@ Troubles de l'équilibre, niveau 4
 
 |
 
-Troubles de l'équilibre, très courte durée
+Troubles de l'équilibre, très courte durée.
 
 |
 
@@ -1390,7 +1390,7 @@ Troubles de l'équilibre, très courte durée
 
 |
 
-Epistaxis, niveau 1
+Epistaxis, niveau 1.
 
 |
 
@@ -1402,7 +1402,7 @@ Epistaxis, niveau 1
 
 |
 
-Epistaxis, niveau 2
+Epistaxis, niveau 2.
 
 |
 
@@ -1414,7 +1414,7 @@ Epistaxis, niveau 2
 
 |
 
-Epistaxis, niveau 3
+Epistaxis, niveau 3.
 
 |
 
@@ -1426,7 +1426,7 @@ Epistaxis, niveau 3
 
 |
 
-Epistaxis, niveau 4
+Epistaxis, niveau 4.
 
 |
 
@@ -1438,7 +1438,7 @@ Epistaxis, niveau 4
 
 |
 
-Epistaxis, très courte durée
+Epistaxis, très courte durée.
 
 |
 
@@ -1450,7 +1450,7 @@ Epistaxis, très courte durée
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1.
 
 |
 
@@ -1462,7 +1462,7 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2.
 
 |
 
@@ -1474,7 +1474,7 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3.
 
 |
 
@@ -1486,7 +1486,7 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4.
 
 |
 
@@ -1498,7 +1498,7 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte durée
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte durée.
 
 |
 
@@ -1510,7 +1510,7 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 1
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -1522,7 +1522,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 2
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -1534,7 +1534,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 3
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -1546,7 +1546,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 4
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -1558,7 +1558,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, très courte durée
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -1570,7 +1570,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 1
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1582,7 +1582,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 2
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1594,7 +1594,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 3
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1606,7 +1606,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 4
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -1618,7 +1618,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, très courte durée
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -1630,7 +1630,7 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 1
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -1642,7 +1642,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 2
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -1654,7 +1654,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 3
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -1666,7 +1666,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 4
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -1678,7 +1678,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, très courte durée
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -1690,7 +1690,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 1
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1702,7 +1702,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 2
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1714,7 +1714,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 3
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1726,7 +1726,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 4
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -1738,7 +1738,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, très courte durée
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -1750,7 +1750,7 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -1762,7 +1762,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -1774,7 +1774,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -1786,7 +1786,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -1798,7 +1798,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1810,7 +1810,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1822,7 +1822,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1834,7 +1834,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -1846,7 +1846,7 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Explorations et surveillance pour affections ORL
+Explorations et surveillance pour affections ORL.
 
 |
 
@@ -1858,7 +1858,7 @@ Explorations et surveillance pour affections ORL
 
 |
 
-Symptômes et autres recours aux soins de la CMD 03, très courte durée
+Symptômes et autres recours aux soins de la CMD 03, très courte durée.
 
 |
 
@@ -1870,7 +1870,7 @@ Symptômes et autres recours aux soins de la CMD 03, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 03
+Symptômes et autres recours aux soins de la CMD 03.
 
 |
 
@@ -1882,7 +1882,7 @@ Symptômes et autres recours aux soins de la CMD 03
 
 |
 
-Interventions majeures sur le thorax, niveau 1
+Interventions majeures sur le thorax, niveau 1.
 
 |
 
@@ -1894,7 +1894,7 @@ Interventions majeures sur le thorax, niveau 1
 
 |
 
-Interventions majeures sur le thorax, niveau 2
+Interventions majeures sur le thorax, niveau 2.
 
 |
 
@@ -1906,7 +1906,7 @@ Interventions majeures sur le thorax, niveau 2
 
 |
 
-Interventions majeures sur le thorax, niveau 3
+Interventions majeures sur le thorax, niveau 3.
 
 |
 
@@ -1918,7 +1918,7 @@ Interventions majeures sur le thorax, niveau 3
 
 |
 
-Interventions majeures sur le thorax, niveau 4
+Interventions majeures sur le thorax, niveau 4.
 
 |
 
@@ -1930,7 +1930,7 @@ Interventions majeures sur le thorax, niveau 4
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 1
+Autres interventions chirurgicales sur le système respiratoire, niveau 1.
 
 |
 
@@ -1942,7 +1942,7 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 1
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 2
+Autres interventions chirurgicales sur le système respiratoire, niveau 2.
 
 |
 
@@ -1954,7 +1954,7 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 2
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 3
+Autres interventions chirurgicales sur le système respiratoire, niveau 3.
 
 |
 
@@ -1966,7 +1966,7 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 3
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 4
+Autres interventions chirurgicales sur le système respiratoire, niveau 4.
 
 |
 
@@ -1978,7 +1978,7 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 4
 
 |
 
-Interventions sous thoracoscopie, niveau 1
+Interventions sous thoracoscopie, niveau 1.
 
 |
 
@@ -1990,7 +1990,7 @@ Interventions sous thoracoscopie, niveau 1
 
 |
 
-Interventions sous thoracoscopie, niveau 2
+Interventions sous thoracoscopie, niveau 2.
 
 |
 
@@ -2002,7 +2002,7 @@ Interventions sous thoracoscopie, niveau 2
 
 |
 
-Interventions sous thoracoscopie, niveau 3
+Interventions sous thoracoscopie, niveau 3.
 
 |
 
@@ -2014,7 +2014,7 @@ Interventions sous thoracoscopie, niveau 3
 
 |
 
-Interventions sous thoracoscopie, niveau 4
+Interventions sous thoracoscopie, niveau 4.
 
 |
 
@@ -2026,7 +2026,7 @@ Interventions sous thoracoscopie, niveau 4
 
 |
 
-Séjours comprenant une endoscopie bronchique, en ambulatoire
+Séjours comprenant une endoscopie bronchique, en ambulatoire.
 
 |
 
@@ -2038,7 +2038,7 @@ Séjours comprenant une endoscopie bronchique, en ambulatoire
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 1
+Bronchites et asthme, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2050,7 +2050,7 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 1
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 2
+Bronchites et asthme, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2062,7 +2062,7 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 2
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 3
+Bronchites et asthme, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2074,7 +2074,7 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 3
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 4
+Bronchites et asthme, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2086,7 +2086,7 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 4
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, très courte durée
+Bronchites et asthme, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2098,7 +2098,7 @@ Bronchites et asthme, âge inférieur à 18 ans, très courte durée
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 1
+Bronchites et asthme, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2110,7 +2110,7 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 1
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 2
+Bronchites et asthme, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2122,7 +2122,7 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 2
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 3
+Bronchites et asthme, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2134,7 +2134,7 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 3
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 4
+Bronchites et asthme, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2146,7 +2146,7 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 4
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, très courte durée
+Bronchites et asthme, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2158,7 +2158,7 @@ Bronchites et asthme, âge supérieur à 17 ans, très courte durée
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2170,7 +2170,7 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2182,7 +2182,7 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2194,7 +2194,7 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2206,7 +2206,7 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2218,7 +2218,7 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2230,7 +2230,7 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2242,7 +2242,7 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2254,7 +2254,7 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4
 
 |
 
-Transferts et autres séjours pour pneumonies et pleurésies banales, âge supérieur à 17 ans
+Transferts et autres séjours pour pneumonies et pleurésies banales, âge supérieur à 17 ans.
 
 |
 
@@ -2266,7 +2266,7 @@ Transferts et autres séjours pour pneumonies et pleurésies banales, âge supé
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2278,7 +2278,7 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2290,7 +2290,7 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2302,7 +2302,7 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2314,7 +2314,7 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4
 
 |
 
-Transferts et autres séjours courts pour infections et inflammations respiratoires, âge inférieur à 18 ans
+Transferts et autres séjours courts pour infections et inflammations respiratoires, âge inférieur à 18 ans.
 
 |
 
@@ -2326,7 +2326,7 @@ Transferts et autres séjours courts pour infections et inflammations respiratoi
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2338,7 +2338,7 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2350,7 +2350,7 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2362,7 +2362,7 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2374,7 +2374,7 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4
 
 |
 
-Transferts et autres séjours courts pour infections et inflammations respiratoires, âge supérieur à 17 ans
+Transferts et autres séjours courts pour infections et inflammations respiratoires, âge supérieur à 17 ans.
 
 |
 
@@ -2386,7 +2386,7 @@ Transferts et autres séjours courts pour infections et inflammations respiratoi
 
 |
 
-Bronchopneumopathies chroniques, niveau 1
+Bronchopneumopathies chroniques, niveau 1.
 
 |
 
@@ -2398,7 +2398,7 @@ Bronchopneumopathies chroniques, niveau 1
 
 |
 
-Bronchopneumopathies chroniques, niveau 2
+Bronchopneumopathies chroniques, niveau 2.
 
 |
 
@@ -2410,7 +2410,7 @@ Bronchopneumopathies chroniques, niveau 2
 
 |
 
-Bronchopneumopathies chroniques, niveau 3
+Bronchopneumopathies chroniques, niveau 3.
 
 |
 
@@ -2422,7 +2422,7 @@ Bronchopneumopathies chroniques, niveau 3
 
 |
 
-Bronchopneumopathies chroniques, niveau 4
+Bronchopneumopathies chroniques, niveau 4.
 
 |
 
@@ -2434,7 +2434,7 @@ Bronchopneumopathies chroniques, niveau 4
 
 |
 
-Bronchopneumopathies chroniques, très courte durée
+Bronchopneumopathies chroniques, très courte durée.
 
 |
 
@@ -2446,7 +2446,7 @@ Bronchopneumopathies chroniques, très courte durée
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 1
+Tumeurs de l'appareil respiratoire, niveau 1.
 
 |
 
@@ -2458,7 +2458,7 @@ Tumeurs de l'appareil respiratoire, niveau 1
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 2
+Tumeurs de l'appareil respiratoire, niveau 2.
 
 |
 
@@ -2470,7 +2470,7 @@ Tumeurs de l'appareil respiratoire, niveau 2
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 3
+Tumeurs de l'appareil respiratoire, niveau 3.
 
 |
 
@@ -2482,7 +2482,7 @@ Tumeurs de l'appareil respiratoire, niveau 3
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 4
+Tumeurs de l'appareil respiratoire, niveau 4.
 
 |
 
@@ -2494,7 +2494,7 @@ Tumeurs de l'appareil respiratoire, niveau 4
 
 |
 
-Tumeurs de l'appareil respiratoire, très courte durée
+Tumeurs de l'appareil respiratoire, très courte durée.
 
 |
 
@@ -2506,7 +2506,7 @@ Tumeurs de l'appareil respiratoire, très courte durée
 
 |
 
-Embolies pulmonaires, niveau 1
+Embolies pulmonaires, niveau 1.
 
 |
 
@@ -2518,7 +2518,7 @@ Embolies pulmonaires, niveau 1
 
 |
 
-Embolies pulmonaires, niveau 2
+Embolies pulmonaires, niveau 2.
 
 |
 
@@ -2530,7 +2530,7 @@ Embolies pulmonaires, niveau 2
 
 |
 
-Embolies pulmonaires, niveau 3
+Embolies pulmonaires, niveau 3.
 
 |
 
@@ -2542,7 +2542,7 @@ Embolies pulmonaires, niveau 3
 
 |
 
-Embolies pulmonaires, niveau 4
+Embolies pulmonaires, niveau 4.
 
 |
 
@@ -2554,7 +2554,7 @@ Embolies pulmonaires, niveau 4
 
 |
 
-Embolies pulmonaires, très courte durée
+Embolies pulmonaires, très courte durée.
 
 |
 
@@ -2566,7 +2566,7 @@ Embolies pulmonaires, très courte durée
 
 |
 
-Signes et symptômes respiratoires, niveau 1
+Signes et symptômes respiratoires, niveau 1.
 
 |
 
@@ -2578,7 +2578,7 @@ Signes et symptômes respiratoires, niveau 1
 
 |
 
-Signes et symptômes respiratoires, niveau 2
+Signes et symptômes respiratoires, niveau 2.
 
 |
 
@@ -2590,7 +2590,7 @@ Signes et symptômes respiratoires, niveau 2
 
 |
 
-Signes et symptômes respiratoires, niveau 3
+Signes et symptômes respiratoires, niveau 3.
 
 |
 
@@ -2602,7 +2602,7 @@ Signes et symptômes respiratoires, niveau 3
 
 |
 
-Signes et symptômes respiratoires, niveau 4
+Signes et symptômes respiratoires, niveau 4.
 
 |
 
@@ -2614,7 +2614,7 @@ Signes et symptômes respiratoires, niveau 4
 
 |
 
-Pneumothorax, niveau 1
+Pneumothorax, niveau 1.
 
 |
 
@@ -2626,7 +2626,7 @@ Pneumothorax, niveau 1
 
 |
 
-Pneumothorax, niveau 2
+Pneumothorax, niveau 2.
 
 |
 
@@ -2638,7 +2638,7 @@ Pneumothorax, niveau 2
 
 |
 
-Pneumothorax, niveau 3
+Pneumothorax, niveau 3.
 
 |
 
@@ -2650,7 +2650,7 @@ Pneumothorax, niveau 3
 
 |
 
-Pneumothorax, niveau 4
+Pneumothorax, niveau 4.
 
 |
 
@@ -2662,7 +2662,7 @@ Pneumothorax, niveau 4
 
 |
 
-Pneumothorax, très courte durée
+Pneumothorax, très courte durée.
 
 |
 
@@ -2674,7 +2674,7 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 1
+Œdème pulmonaire et détresse respiratoire, niveau 1.
 
 |
 
@@ -2686,7 +2686,7 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 2
+Œdème pulmonaire et détresse respiratoire, niveau 2.
 
 |
 
@@ -2698,7 +2698,7 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 3
+Œdème pulmonaire et détresse respiratoire, niveau 3.
 
 |
 
@@ -2710,7 +2710,7 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 4
+Œdème pulmonaire et détresse respiratoire, niveau 4.
 
 |
 
@@ -2722,7 +2722,7 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, très courte durée
+Œdème pulmonaire et détresse respiratoire, très courte durée.
 
 |
 
@@ -2734,7 +2734,7 @@ Pneumothorax, très courte durée
 
 |
 
-Maladies pulmonaires interstitielles, niveau 1
+Maladies pulmonaires interstitielles, niveau 1.
 
 |
 
@@ -2746,7 +2746,7 @@ Maladies pulmonaires interstitielles, niveau 1
 
 |
 
-Maladies pulmonaires interstitielles, niveau 2
+Maladies pulmonaires interstitielles, niveau 2.
 
 |
 
@@ -2758,7 +2758,7 @@ Maladies pulmonaires interstitielles, niveau 2
 
 |
 
-Maladies pulmonaires interstitielles, niveau 3
+Maladies pulmonaires interstitielles, niveau 3.
 
 |
 
@@ -2770,7 +2770,7 @@ Maladies pulmonaires interstitielles, niveau 3
 
 |
 
-Maladies pulmonaires interstitielles, niveau 4
+Maladies pulmonaires interstitielles, niveau 4.
 
 |
 
@@ -2782,7 +2782,7 @@ Maladies pulmonaires interstitielles, niveau 4
 
 |
 
-Maladies pulmonaires interstitielles, très courte durée
+Maladies pulmonaires interstitielles, très courte durée.
 
 |
 
@@ -2794,7 +2794,7 @@ Maladies pulmonaires interstitielles, très courte durée
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 1
+Autres diagnostics portant sur le système respiratoire, niveau 1.
 
 |
 
@@ -2806,7 +2806,7 @@ Autres diagnostics portant sur le système respiratoire, niveau 1
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 2
+Autres diagnostics portant sur le système respiratoire, niveau 2.
 
 |
 
@@ -2818,7 +2818,7 @@ Autres diagnostics portant sur le système respiratoire, niveau 2
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 3
+Autres diagnostics portant sur le système respiratoire, niveau 3.
 
 |
 
@@ -2830,7 +2830,7 @@ Autres diagnostics portant sur le système respiratoire, niveau 3
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 4
+Autres diagnostics portant sur le système respiratoire, niveau 4.
 
 |
 
@@ -2842,7 +2842,7 @@ Autres diagnostics portant sur le système respiratoire, niveau 4
 
 |
 
-Autres diagnostics portant sur le système respiratoire, très courte durée
+Autres diagnostics portant sur le système respiratoire, très courte durée.
 
 |
 
@@ -2854,7 +2854,7 @@ Autres diagnostics portant sur le système respiratoire, très courte durée
 
 |
 
-Traumatismes thoraciques, niveau 1
+Traumatismes thoraciques, niveau 1.
 
 |
 
@@ -2866,7 +2866,7 @@ Traumatismes thoraciques, niveau 1
 
 |
 
-Traumatismes thoraciques, niveau 2
+Traumatismes thoraciques, niveau 2.
 
 |
 
@@ -2878,7 +2878,7 @@ Traumatismes thoraciques, niveau 2
 
 |
 
-Traumatismes thoraciques, niveau 3
+Traumatismes thoraciques, niveau 3.
 
 |
 
@@ -2890,7 +2890,7 @@ Traumatismes thoraciques, niveau 3
 
 |
 
-Traumatismes thoraciques, niveau 4
+Traumatismes thoraciques, niveau 4.
 
 |
 
@@ -2902,7 +2902,7 @@ Traumatismes thoraciques, niveau 4
 
 |
 
-Traumatismes thoraciques, très courte durée
+Traumatismes thoraciques, très courte durée.
 
 |
 
@@ -2914,7 +2914,7 @@ Traumatismes thoraciques, très courte durée
 
 |
 
-Epanchements pleuraux, niveau 1
+Epanchements pleuraux, niveau 1.
 
 |
 
@@ -2926,7 +2926,7 @@ Epanchements pleuraux, niveau 1
 
 |
 
-Epanchements pleuraux, niveau 2
+Epanchements pleuraux, niveau 2.
 
 |
 
@@ -2938,7 +2938,7 @@ Epanchements pleuraux, niveau 2
 
 |
 
-Epanchements pleuraux, niveau 3
+Epanchements pleuraux, niveau 3.
 
 |
 
@@ -2950,7 +2950,7 @@ Epanchements pleuraux, niveau 3
 
 |
 
-Epanchements pleuraux, niveau 4
+Epanchements pleuraux, niveau 4.
 
 |
 
@@ -2962,7 +2962,7 @@ Epanchements pleuraux, niveau 4
 
 |
 
-Epanchements pleuraux, très courte durée
+Epanchements pleuraux, très courte durée.
 
 |
 
@@ -2974,7 +2974,7 @@ Epanchements pleuraux, très courte durée
 
 |
 
-Bronchiolites, niveau 1
+Bronchiolites, niveau 1.
 
 |
 
@@ -2986,7 +2986,7 @@ Bronchiolites, niveau 1
 
 |
 
-Bronchiolites, niveau 2
+Bronchiolites, niveau 2.
 
 |
 
@@ -2998,7 +2998,7 @@ Bronchiolites, niveau 2
 
 |
 
-Bronchiolites, niveau 3
+Bronchiolites, niveau 3.
 
 |
 
@@ -3010,7 +3010,7 @@ Bronchiolites, niveau 3
 
 |
 
-Bronchiolites, niveau 4
+Bronchiolites, niveau 4.
 
 |
 
@@ -3022,7 +3022,7 @@ Bronchiolites, niveau 4
 
 |
 
-Bronchiolites, très courte durée
+Bronchiolites, très courte durée.
 
 |
 
@@ -3034,7 +3034,7 @@ Bronchiolites, très courte durée
 
 |
 
-Tuberculoses, niveau 1
+Tuberculoses, niveau 1.
 
 |
 
@@ -3046,7 +3046,7 @@ Tuberculoses, niveau 1
 
 |
 
-Tuberculoses, niveau 2
+Tuberculoses, niveau 2.
 
 |
 
@@ -3058,7 +3058,7 @@ Tuberculoses, niveau 2
 
 |
 
-Tuberculoses, niveau 3
+Tuberculoses, niveau 3.
 
 |
 
@@ -3070,7 +3070,7 @@ Tuberculoses, niveau 3
 
 |
 
-Tuberculoses, niveau 4
+Tuberculoses, niveau 4.
 
 |
 
@@ -3082,7 +3082,7 @@ Tuberculoses, niveau 4
 
 |
 
-Tuberculoses, très courte durée
+Tuberculoses, très courte durée.
 
 |
 
@@ -3094,7 +3094,7 @@ Tuberculoses, très courte durée
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 1
+Bronchopneumopathies chroniques surinfectées, niveau 1.
 
 |
 
@@ -3106,7 +3106,7 @@ Bronchopneumopathies chroniques surinfectées, niveau 1
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 2
+Bronchopneumopathies chroniques surinfectées, niveau 2.
 
 |
 
@@ -3118,7 +3118,7 @@ Bronchopneumopathies chroniques surinfectées, niveau 2
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 3
+Bronchopneumopathies chroniques surinfectées, niveau 3.
 
 |
 
@@ -3130,7 +3130,7 @@ Bronchopneumopathies chroniques surinfectées, niveau 3
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 4
+Bronchopneumopathies chroniques surinfectées, niveau 4.
 
 |
 
@@ -3142,7 +3142,7 @@ Bronchopneumopathies chroniques surinfectées, niveau 4
 
 |
 
-Bronchopneumopathies chroniques surinfectées, très courte durée
+Bronchopneumopathies chroniques surinfectées, très courte durée.
 
 |
 
@@ -3154,7 +3154,7 @@ Bronchopneumopathies chroniques surinfectées, très courte durée
 
 |
 
-Suivis de greffe pulmonaire, niveau 1
+Suivis de greffe pulmonaire, niveau 1.
 
 |
 
@@ -3166,7 +3166,7 @@ Suivis de greffe pulmonaire, niveau 1
 
 |
 
-Suivis de greffe pulmonaire, niveau 2
+Suivis de greffe pulmonaire, niveau 2.
 
 |
 
@@ -3178,7 +3178,7 @@ Suivis de greffe pulmonaire, niveau 2
 
 |
 
-Suivis de greffe pulmonaire, niveau 3
+Suivis de greffe pulmonaire, niveau 3.
 
 |
 
@@ -3190,7 +3190,7 @@ Suivis de greffe pulmonaire, niveau 3
 
 |
 
-Suivis de greffe pulmonaire, niveau 4
+Suivis de greffe pulmonaire, niveau 4.
 
 |
 
@@ -3202,7 +3202,7 @@ Suivis de greffe pulmonaire, niveau 4
 
 |
 
-Explorations et surveillance pour affections de l'appareil respiratoire
+Explorations et surveillance pour affections de l'appareil respiratoire.
 
 |
 
@@ -3214,7 +3214,7 @@ Explorations et surveillance pour affections de l'appareil respiratoire
 
 |
 
-Autres symptômes et recours aux soins de la CMD 04, très courte durée
+Autres symptômes et recours aux soins de la CMD 04, très courte durée.
 
 |
 
@@ -3226,7 +3226,7 @@ Autres symptômes et recours aux soins de la CMD 04, très courte durée
 
 |
 
-Autres symptômes et recours aux soins de la CMD 04
+Autres symptômes et recours aux soins de la CMD 04.
 
 |
 
@@ -3238,7 +3238,7 @@ Autres symptômes et recours aux soins de la CMD 04
 
 |
 
-Affections de la CMD 04 avec décès : séjours de moins de 2 jours
+Affections de la CMD 04 avec décès : séjours de moins de 2 jours.
 
 |
 
@@ -3250,7 +3250,7 @@ Affections de la CMD 04 avec décès : séjours de moins de 2 jours
 
 |
 
-Grippes, niveau 1
+Grippes, niveau 1.
 
 |
 
@@ -3262,7 +3262,7 @@ Grippes, niveau 1
 
 |
 
-Grippes, niveau 2
+Grippes, niveau 2.
 
 |
 
@@ -3274,7 +3274,7 @@ Grippes, niveau 2
 
 |
 
-Grippes, niveau 3
+Grippes, niveau 3.
 
 |
 
@@ -3286,7 +3286,7 @@ Grippes, niveau 3
 
 |
 
-Grippes, niveau 4
+Grippes, niveau 4.
 
 |
 
@@ -3298,7 +3298,7 @@ Grippes, niveau 4
 
 |
 
-Grippes, très courte durée
+Grippes, très courte durée.
 
 |
 
@@ -3310,7 +3310,7 @@ Grippes, très courte durée
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 1
+Fibroses kystiques avec manifestations pulmonaires, niveau 1.
 
 |
 
@@ -3322,7 +3322,7 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 1
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 2
+Fibroses kystiques avec manifestations pulmonaires, niveau 2.
 
 |
 
@@ -3334,7 +3334,7 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 2
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 3
+Fibroses kystiques avec manifestations pulmonaires, niveau 3.
 
 |
 
@@ -3346,7 +3346,7 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 3
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 4
+Fibroses kystiques avec manifestations pulmonaires, niveau 4.
 
 |
 
@@ -3358,6 +3358,6 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 4
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, très courte durée
+Fibroses kystiques avec manifestations pulmonaires, très courte durée.
 
 |

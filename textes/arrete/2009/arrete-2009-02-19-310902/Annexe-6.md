@@ -1,10 +1,6 @@
 # Article Annexe 6
 
-ACTES DE RYTHOMOLOGIE PERMETTANT LA FACTURATION DU GHS 1808, 1809, 1810, 1811 OU 1812
-
-ACTES DE RYTHMOLOGIE DE LA CCAM
-
-|
+Liste : actes de mastectomie permettant la facturation du GHS 3362, 3363, 3364 ou 3365
 
 CODE
 
@@ -14,42 +10,44 @@ LIBELLÉ DE L'ACTE
 
 |
 
-DEPF014
+QEFA003 |
+
+Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne].
 
 |
 
-Interruption complète de circuit arythmogène en dehors de l'isthme cavotricuspidien par radiofréquence, par voie veineuse transcutanée et voie transseptale
+QEFA005 |
+
+Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire.
 
 |
 
-DEPF033
+QEFA010 |
+
+Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire.
 
 |
 
-Interruption complète de circuit arythmogène au niveau de l'ostium des veines pulmonaires par radiofréquence, par voie veineuse transcutanée et voie transseptale
+QEFA013 |
+
+Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire.
 
 |
 
-DENF014
+QEFA015 |
+
+Mastectomie totale élargie en surface, avec lambeau libre musculocutané.
 
 |
 
-Destruction d'un foyer arythmogène atrial par radiofréquence, par voie veineuse transcutanée et voie transseptale
+QEFA019 |
+
+Mastectomie totale.
 
 |
 
-DENF018
+QEFA020 |
 
-|
-
-Destruction de plusieurs foyers arythmogènes atriaux par radiofréquence, par voie veineuse transcutanée et voie transseptale
-
-|
-
-DENF035
-
-|
-
-Destruction de plusieurs foyers et/ou interruption de plusieurs circuits arythmogènes ventriculaires par radiofréquence, par voie vasculaire
+Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire.
 
 |

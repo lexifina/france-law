@@ -2,59 +2,39 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
-1430
-
-|
-
-05C021
-
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1
-
-|
-
 1524
 
 |
 
-|
+05C021 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1
-
-|
-
-1431
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1.
 
 |
 
-05C022
+1430
 
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2
-
 |
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1. |
 
 1525
 
 |
 
-|
+05C022 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2. |
 
-|
-
-1432
+1431
 
 |
 
-05C023
-
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2.
 
 |
 
@@ -62,21 +42,19 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec ca
 
 |
 
-|
+05C023 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3
-
-|
-
-1433
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.
 
 |
 
-05C024
+1432
 
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.
 
 |
 
@@ -84,21 +62,19 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec ca
 
 |
 
-|
+05C024 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4
-
-|
-
-1434
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.
 
 |
 
-05C031
+1433
 
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 1
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.
 
 |
 
@@ -106,21 +82,19 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 |
 
-|
+05C031 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 1
-
-|
-
-1435
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.
 
 |
 
-05C032
+1434
 
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 2
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.
 
 |
 
@@ -128,21 +102,19 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 2
+05C032
 
 |
 
-1436
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2. |
+
+1435
 
 |
 
-05C033
-
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 3
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2.
 
 |
 
@@ -150,21 +122,19 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 |
 
-|
+05C033 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 3
-
-|
-
-1437
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.
 
 |
 
-05C034
+1436
 
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 4
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.
 
 |
 
@@ -172,9 +142,21 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 |
 
+05C034
+
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque ni coronarographie, niveau 4
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.
+
+|
+
+1437
+
+|
+
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.
 
 |
 
@@ -186,7 +168,7 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 |
 
-Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 1
+Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 1.
 
 |
 
@@ -198,7 +180,7 @@ Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, nive
 
 |
 
-Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 2
+Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 2.
 
 |
 
@@ -210,7 +192,7 @@ Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, nive
 
 |
 
-Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 3
+Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 3.
 
 |
 
@@ -222,7 +204,7 @@ Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, nive
 
 |
 
-Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 4
+Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, niveau 4.
 
 |
 
@@ -234,7 +216,7 @@ Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie, nive
 
 |
 
-Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, niveau 1
+Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie, niveau 1.
 
 |
 
@@ -246,7 +228,7 @@ Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, nive
 
 |
 
-Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, niveau 2
+Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie, niveau 2.
 
 |
 
@@ -258,7 +240,7 @@ Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, nive
 
 |
 
-Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, niveau 3
+Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie, niveau 3.
 
 |
 
@@ -270,7 +252,7 @@ Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, nive
 
 |
 
-Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, niveau 4
+Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie, niveau 4.
 
 |
 
@@ -282,7 +264,7 @@ Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie, nive
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.
 
 |
 
@@ -292,7 +274,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.
 
 |
 
@@ -304,7 +286,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2.
 
 |
 
@@ -314,7 +296,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2.
 
 |
 
@@ -326,7 +308,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3.
 
 |
 
@@ -336,7 +318,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3.
 
 |
 
@@ -348,7 +330,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4.
 
 |
 
@@ -358,7 +340,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4.
 
 |
 
@@ -370,7 +352,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 1.
 
 |
 
@@ -382,7 +364,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 2.
 
 |
 
@@ -394,7 +376,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 3.
 
 |
 
@@ -406,7 +388,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle, niveau 4.
 
 |
 
@@ -418,7 +400,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulati
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1.
 
 |
 
@@ -428,7 +410,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1.
 
 |
 
@@ -440,7 +422,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2.
 
 |
 
@@ -450,7 +432,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2.
 
 |
 
@@ -462,7 +444,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3.
 
 |
 
@@ -472,7 +454,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3.
 
 |
 
@@ -484,7 +466,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4.
 
 |
 
@@ -494,7 +476,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4.
 
 |
 
@@ -506,7 +488,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-Transferts et autres séjours courts pour autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle
+Transferts et autres séjours courts pour autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle.
 
 |
 
@@ -518,7 +500,7 @@ Transferts et autres séjours courts pour autres interventions cardiothoraciques
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 1
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 1.
 
 |
 
@@ -530,7 +512,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 2
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 2.
 
 |
 
@@ -542,7 +524,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 3
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 3.
 
 |
 
@@ -554,7 +536,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulati
 
 |
 
-Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 4
+Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle, niveau 4.
 
 |
 
@@ -566,7 +548,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulati
 
 |
 
-Chirurgie majeure de revascularisation, niveau 1
+Chirurgie majeure de revascularisation, niveau 1.
 
 |
 
@@ -578,7 +560,7 @@ Chirurgie majeure de revascularisation, niveau 1
 
 |
 
-Chirurgie majeure de revascularisation, niveau 2
+Chirurgie majeure de revascularisation, niveau 2.
 
 |
 
@@ -590,7 +572,7 @@ Chirurgie majeure de revascularisation, niveau 2
 
 |
 
-Chirurgie majeure de revascularisation, niveau 3
+Chirurgie majeure de revascularisation, niveau 3.
 
 |
 
@@ -602,7 +584,7 @@ Chirurgie majeure de revascularisation, niveau 3
 
 |
 
-Chirurgie majeure de revascularisation, niveau 4
+Chirurgie majeure de revascularisation, niveau 4.
 
 |
 
@@ -614,7 +596,7 @@ Chirurgie majeure de revascularisation, niveau 4
 
 |
 
-Autres interventions de chirurgie vasculaire, niveau 1
+Autres interventions de chirurgie vasculaire, niveau 1.
 
 |
 
@@ -626,7 +608,7 @@ Autres interventions de chirurgie vasculaire, niveau 1
 
 |
 
-Autres interventions de chirurgie vasculaire, niveau 2
+Autres interventions de chirurgie vasculaire, niveau 2.
 
 |
 
@@ -638,7 +620,7 @@ Autres interventions de chirurgie vasculaire, niveau 2
 
 |
 
-Autres interventions de chirurgie vasculaire, niveau 3
+Autres interventions de chirurgie vasculaire, niveau 3.
 
 |
 
@@ -650,7 +632,7 @@ Autres interventions de chirurgie vasculaire, niveau 3
 
 |
 
-Autres interventions de chirurgie vasculaire, niveau 4
+Autres interventions de chirurgie vasculaire, niveau 4.
 
 |
 
@@ -662,7 +644,7 @@ Autres interventions de chirurgie vasculaire, niveau 4
 
 |
 
-Autres interventions de chirurgie vasculaire, en ambulatoire
+Autres interventions de chirurgie vasculaire, en ambulatoire.
 
 |
 
@@ -674,7 +656,7 @@ Autres interventions de chirurgie vasculaire, en ambulatoire
 
 |
 
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 1
+Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 1.
 
 |
 
@@ -686,7 +668,7 @@ Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires,
 
 |
 
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 2
+Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 2.
 
 |
 
@@ -698,7 +680,7 @@ Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires,
 
 |
 
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 3
+Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 3.
 
 |
 
@@ -710,7 +692,7 @@ Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires,
 
 |
 
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 4
+Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 4.
 
 |
 
@@ -722,7 +704,7 @@ Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires,
 
 |
 
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 1
+Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 1.
 
 |
 
@@ -734,7 +716,7 @@ Amputations pour troubles circulatoires portant sur le membre supérieur ou les 
 
 |
 
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 2
+Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 2.
 
 |
 
@@ -746,7 +728,7 @@ Amputations pour troubles circulatoires portant sur le membre supérieur ou les 
 
 |
 
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 3
+Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 3.
 
 |
 
@@ -758,7 +740,7 @@ Amputations pour troubles circulatoires portant sur le membre supérieur ou les 
 
 |
 
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 4
+Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 4.
 
 |
 
@@ -766,11 +748,21 @@ Amputations pour troubles circulatoires portant sur le membre supérieur ou les 
 
 |
 
-05C141
+05C041
 
 |
 
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1.
 
 |
 
@@ -782,7 +774,17 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2.
 
 |
 
@@ -794,7 +796,17 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3.
 
 |
 
@@ -806,7 +818,17 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4.
 
 |
 
@@ -818,7 +840,7 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, en ambulatoire
+Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, en ambulatoire.
 
 |
 
@@ -830,7 +852,17 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1.
 
 |
 
@@ -842,7 +874,17 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2.
 
 |
 
@@ -854,7 +896,17 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3.
 
 |
 
@@ -866,7 +918,17 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4.
+
+|
+
+1522
+
+|
+
+|
+
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4.
 
 |
 
@@ -878,7 +940,7 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, très courte durée
+Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, très courte durée.
 
 |
 
@@ -890,7 +952,7 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-Ligatures de veines et éveinages, niveau 1
+Ligatures de veines et éveinages, niveau 1.
 
 |
 
@@ -902,7 +964,7 @@ Ligatures de veines et éveinages, niveau 1
 
 |
 
-Ligatures de veines et éveinages, niveau 2
+Ligatures de veines et éveinages, niveau 2.
 
 |
 
@@ -914,7 +976,7 @@ Ligatures de veines et éveinages, niveau 2
 
 |
 
-Ligatures de veines et éveinages, niveau 3
+Ligatures de veines et éveinages, niveau 3.
 
 |
 
@@ -926,7 +988,7 @@ Ligatures de veines et éveinages, niveau 3
 
 |
 
-Ligatures de veines et éveinages, niveau 4
+Ligatures de veines et éveinages, niveau 4.
 
 |
 
@@ -938,7 +1000,7 @@ Ligatures de veines et éveinages, niveau 4
 
 |
 
-Ligatures de veines et éveinages, en ambulatoire
+Ligatures de veines et éveinages, en ambulatoire.
 
 |
 
@@ -950,7 +1012,7 @@ Ligatures de veines et éveinages, en ambulatoire
 
 |
 
-Autres interventions sur le système circulatoire, niveau 1
+Autres interventions sur le système circulatoire, niveau 1.
 
 |
 
@@ -962,7 +1024,7 @@ Autres interventions sur le système circulatoire, niveau 1
 
 |
 
-Autres interventions sur le système circulatoire, niveau 2
+Autres interventions sur le système circulatoire, niveau 2.
 
 |
 
@@ -974,7 +1036,7 @@ Autres interventions sur le système circulatoire, niveau 2
 
 |
 
-Autres interventions sur le système circulatoire, niveau 3
+Autres interventions sur le système circulatoire, niveau 3.
 
 |
 
@@ -986,7 +1048,7 @@ Autres interventions sur le système circulatoire, niveau 3
 
 |
 
-Autres interventions sur le système circulatoire, niveau 4
+Autres interventions sur le système circulatoire, niveau 4.
 
 |
 
@@ -998,7 +1060,7 @@ Autres interventions sur le système circulatoire, niveau 4
 
 |
 
-Autres interventions sur le système circulatoire, en ambulatoire
+Autres interventions sur le système circulatoire, en ambulatoire.
 
 |
 
@@ -1010,7 +1072,7 @@ Autres interventions sur le système circulatoire, en ambulatoire
 
 |
 
-Poses d'un défibrillateur cardiaque niveau 1
+Poses d'un défibrillateur cardiaque, niveau 1.
 
 |
 
@@ -1022,7 +1084,7 @@ Poses d'un défibrillateur cardiaque niveau 1
 
 |
 
-Poses d'un défibrillateur cardiaque niveau 2
+Poses d'un défibrillateur cardiaque, niveau 2.
 
 |
 
@@ -1034,7 +1096,7 @@ Poses d'un défibrillateur cardiaque niveau 2
 
 |
 
-Poses d'un défibrillateur cardiaque niveau 3
+Poses d'un défibrillateur cardiaque, niveau 3.
 
 |
 
@@ -1046,7 +1108,7 @@ Poses d'un défibrillateur cardiaque niveau 3
 
 |
 
-Poses d'un défibrillateur cardiaque niveau 4
+Poses d'un défibrillateur cardiaque, niveau 4.
 
 |
 
@@ -1058,7 +1120,7 @@ Poses d'un défibrillateur cardiaque niveau 4
 
 |
 
-Poses d'un défibrillateur cardiaquetrès courte durée
+Poses d'un défibrillateur cardiaque, très courte durée.
 
 |
 
@@ -1070,7 +1132,7 @@ Poses d'un défibrillateur cardiaquetrès courte durée
 
 |
 
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 1
+Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 1.
 
 |
 
@@ -1082,7 +1144,7 @@ Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de bo
 
 |
 
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 2
+Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 2.
 
 |
 
@@ -1094,7 +1156,7 @@ Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de bo
 
 |
 
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 3
+Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 3.
 
 |
 
@@ -1106,7 +1168,7 @@ Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de bo
 
 |
 
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 4
+Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 4.
 
 |
 
@@ -1118,7 +1180,7 @@ Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de bo
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 1
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 1.
 
 |
 
@@ -1130,7 +1192,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 2
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 2.
 
 |
 
@@ -1142,7 +1204,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 3
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 3.
 
 |
 
@@ -1154,7 +1216,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 4
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 4.
 
 |
 
@@ -1166,7 +1228,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, en ambulatoire
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, en ambulatoire.
 
 |
 
@@ -1178,7 +1240,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, niveau 1
+Remplacements de stimulateurs cardiaques permanents, niveau 1.
 
 |
 
@@ -1190,7 +1252,7 @@ Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, nive
 
 |
 
-Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, niveau 2
+Remplacements de stimulateurs cardiaques permanents, niveau 2.
 
 |
 
@@ -1202,7 +1264,7 @@ Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, nive
 
 |
 
-Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, niveau 3
+Remplacements de stimulateurs cardiaques permanents, niveau 3.
 
 |
 
@@ -1214,7 +1276,7 @@ Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, nive
 
 |
 
-Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, niveau 4
+Remplacements de stimulateurs cardiaques permanents, niveau 4.
 
 |
 
@@ -1226,7 +1288,7 @@ Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, nive
 
 |
 
-Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, très courte durée
+Remplacements de stimulateurs cardiaques permanents, très courte durée.
 
 |
 
@@ -1238,7 +1300,7 @@ Remplacements de défibrillateurs ou de stimulateurs cardiaques permanents, trè
 
 |
 
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 1
+Endoprothèses vasculaires avec infarctus du myocarde, niveau 1.
 
 |
 
@@ -1250,7 +1312,7 @@ Endoprothèses vasculaires avec infarctus du myocarde, niveau 1
 
 |
 
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 2
+Endoprothèses vasculaires avec infarctus du myocarde, niveau 2.
 
 |
 
@@ -1262,7 +1324,7 @@ Endoprothèses vasculaires avec infarctus du myocarde, niveau 2
 
 |
 
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 3
+Endoprothèses vasculaires avec infarctus du myocarde, niveau 3.
 
 |
 
@@ -1274,7 +1336,7 @@ Endoprothèses vasculaires avec infarctus du myocarde, niveau 3
 
 |
 
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 4
+Endoprothèses vasculaires avec infarctus du myocarde, niveau 4.
 
 |
 
@@ -1286,7 +1348,7 @@ Endoprothèses vasculaires avec infarctus du myocarde, niveau 4
 
 |
 
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 1
+Endoprothèses vasculaires sans infarctus du myocarde, niveau 1.
 
 |
 
@@ -1298,7 +1360,7 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 1
 
 |
 
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 2
+Endoprothèses vasculaires sans infarctus du myocarde, niveau 2.
 
 |
 
@@ -1310,7 +1372,7 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 2
 
 |
 
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 3
+Endoprothèses vasculaires sans infarctus du myocarde, niveau 3.
 
 |
 
@@ -1322,7 +1384,7 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 3
 
 |
 
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 4
+Endoprothèses vasculaires sans infarctus du myocarde, niveau 4.
 
 |
 
@@ -1334,7 +1396,7 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 4
 
 |
 
-Endoprothèses vasculaires sans infarctus du myocarde, très courte durée
+Endoprothèses vasculaires sans infarctus du myocarde, très courte durée.
 
 |
 
@@ -1346,7 +1408,7 @@ Endoprothèses vasculaires sans infarctus du myocarde, très courte durée
 
 |
 
-Actes diagnostiques par voie vasculaire, niveau 1
+Actes diagnostiques par voie vasculaire, niveau 1.
 
 |
 
@@ -1358,7 +1420,7 @@ Actes diagnostiques par voie vasculaire, niveau 1
 
 |
 
-Actes diagnostiques par voie vasculaire, niveau 2
+Actes diagnostiques par voie vasculaire, niveau 2.
 
 |
 
@@ -1370,7 +1432,7 @@ Actes diagnostiques par voie vasculaire, niveau 2
 
 |
 
-Actes diagnostiques par voie vasculaire, niveau 3
+Actes diagnostiques par voie vasculaire, niveau 3.
 
 |
 
@@ -1382,7 +1444,7 @@ Actes diagnostiques par voie vasculaire, niveau 3
 
 |
 
-Actes diagnostiques par voie vasculaire, niveau 4
+Actes diagnostiques par voie vasculaire, niveau 4.
 
 |
 
@@ -1394,117 +1456,7 @@ Actes diagnostiques par voie vasculaire, niveau 4
 
 |
 
-Actes diagnostiques par voie vasculaire, en ambulatoire
-
-|
-
-1707
-
-|
-
-05K111
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 1
-
-|
-
-1808
-
-|
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 1
-
-|
-
-1708
-
-|
-
-05K112
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 2
-
-|
-
-1809
-
-|
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 2
-
-|
-
-1709
-
-|
-
-05K113
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 3
-
-|
-
-1810
-
-|
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 3
-
-|
-
-1710
-
-|
-
-05K114
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 4
-
-|
-
-1811
-
-|
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, niveau 4
-
-|
-
-1711
-
-|
-
-05K11T
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, très courte durée
-
-|
-
-1812
-
-|
-
-|
-
-Traitements des troubles du rythme par voie vasculaire, très courte durée
+Actes diagnostiques par voie vasculaire, en ambulatoire.
 
 |
 
@@ -1516,7 +1468,7 @@ Traitements des troubles du rythme par voie vasculaire, très courte durée
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 1
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -1528,7 +1480,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 2
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -1540,7 +1492,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 3
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -1552,7 +1504,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 4
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -1564,7 +1516,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1574,7 +1526,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -1586,7 +1538,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1596,7 +1548,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -1608,7 +1560,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1618,7 +1570,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -1626,13 +1578,9 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-05K134
+05K134 |
 
-|
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4
-
-|
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4. |
 
 1522
 
@@ -1640,7 +1588,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -1652,7 +1600,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, en ambulatoire
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -1664,7 +1612,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-Mise en place de certains accès vasculaires pour des affections de la CMD 05, séjours de moins de 2 jours
+Mise en place de certains accès vasculaires pour des affections de la CMD 05, séjours de moins de 2 jours.
 
 |
 
@@ -1676,7 +1624,7 @@ Mise en place de certains accès vasculaires pour des affections de la CMD 05, s
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 1.
 
 |
 
@@ -1688,7 +1636,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 2.
 
 |
 
@@ -1700,7 +1648,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 3.
 
 |
 
@@ -1712,7 +1660,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 4.
 
 |
 
@@ -1724,7 +1672,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en ambulatoire
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en ambulatoire.
 
 |
 
@@ -1736,7 +1684,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en
 
 |
 
-Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthésie, en ambulatoire
+Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthésie, en ambulatoire.
 
 |
 
@@ -1748,7 +1696,115 @@ Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthési
 
 |
 
-Varices avec acte autre que ligature et éveinage, en ambulatoire
+Varices avec acte autre que ligature et éveinage, en ambulatoire.
+
+|
+
+1817
+
+|
+
+05K191
+
+|
+
+Traitements majeurs de troubles du rythme par voie vasculaire, niveau 1.
+
+|
+
+1818
+
+|
+
+05K192
+
+|
+
+Traitements majeurs de troubles du rythme par voie vasculaire, niveau 2.
+
+|
+
+1819
+
+|
+
+05K193
+
+|
+
+Traitements majeurs de troubles du rythme par voie vasculaire, niveau 3.
+
+|
+
+1820
+
+|
+
+05K194
+
+|
+
+Traitements majeurs de troubles du rythme par voie vasculaire, niveau 4.
+
+|
+
+1821
+
+|
+
+05K201
+
+|
+
+Autres traitements de troubles du rythme par voie vasculaire, niveau 1.
+
+|
+
+1822
+
+|
+
+05K202
+
+|
+
+Autres traitements de troubles du rythme par voie vasculaire, niveau 2.
+
+|
+
+1823
+
+|
+
+05K203
+
+|
+
+Autres traitements de troubles du rythme par voie vasculaire, niveau 3.
+
+|
+
+1824
+
+|
+
+05K204
+
+|
+
+Autres traitements de troubles du rythme par voie vasculaire, niveau 4.
+
+|
+
+1825
+
+|
+
+05K20T
+
+|
+
+Autres traitements de troubles du rythme par voie vasculaire, très courte durée.
 
 |
 
@@ -1760,7 +1816,7 @@ Varices avec acte autre que ligature et éveinage, en ambulatoire
 
 |
 
-Infarctus aigu du myocarde, niveau 1
+Infarctus aigu du myocarde, niveau 1.
 
 |
 
@@ -1772,7 +1828,7 @@ Infarctus aigu du myocarde, niveau 1
 
 |
 
-Infarctus aigu du myocarde, niveau 2
+Infarctus aigu du myocarde, niveau 2.
 
 |
 
@@ -1784,7 +1840,7 @@ Infarctus aigu du myocarde, niveau 2
 
 |
 
-Infarctus aigu du myocarde, niveau 3
+Infarctus aigu du myocarde, niveau 3.
 
 |
 
@@ -1796,7 +1852,7 @@ Infarctus aigu du myocarde, niveau 3
 
 |
 
-Infarctus aigu du myocarde, niveau 4
+Infarctus aigu du myocarde, niveau 4.
 
 |
 
@@ -1808,7 +1864,7 @@ Infarctus aigu du myocarde, niveau 4
 
 |
 
-Infarctus aigu du myocarde, très courte durée
+Infarctus aigu du myocarde, très courte durée.
 
 |
 
@@ -1820,7 +1876,7 @@ Infarctus aigu du myocarde, très courte durée
 
 |
 
-Syncopes et lipothymies, niveau 1
+Syncopes et lipothymies, niveau 1.
 
 |
 
@@ -1832,7 +1888,7 @@ Syncopes et lipothymies, niveau 1
 
 |
 
-Syncopes et lipothymies, niveau 2
+Syncopes et lipothymies, niveau 2.
 
 |
 
@@ -1844,7 +1900,7 @@ Syncopes et lipothymies, niveau 2
 
 |
 
-Syncopes et lipothymies, niveau 3
+Syncopes et lipothymies, niveau 3.
 
 |
 
@@ -1856,7 +1912,7 @@ Syncopes et lipothymies, niveau 3
 
 |
 
-Syncopes et lipothymies, niveau 4
+Syncopes et lipothymies, niveau 4.
 
 |
 
@@ -1868,7 +1924,7 @@ Syncopes et lipothymies, niveau 4
 
 |
 
-Syncopes et lipothymies, très courte durée
+Syncopes et lipothymies, très courte durée.
 
 |
 
@@ -1880,7 +1936,7 @@ Syncopes et lipothymies, très courte durée
 
 |
 
-Angine de poitrine, niveau 1
+Angine de poitrine, niveau 1.
 
 |
 
@@ -1892,7 +1948,7 @@ Angine de poitrine, niveau 1
 
 |
 
-Angine de poitrine, niveau 2
+Angine de poitrine, niveau 2.
 
 |
 
@@ -1904,7 +1960,7 @@ Angine de poitrine, niveau 2
 
 |
 
-Angine de poitrine, niveau 3
+Angine de poitrine, niveau 3.
 
 |
 
@@ -1916,7 +1972,7 @@ Angine de poitrine, niveau 3
 
 |
 
-Angine de poitrine, niveau 4
+Angine de poitrine, niveau 4.
 
 |
 
@@ -1928,7 +1984,7 @@ Angine de poitrine, niveau 4
 
 |
 
-Angine de poitrine, très courte durée
+Angine de poitrine, très courte durée.
 
 |
 
@@ -1940,7 +1996,7 @@ Angine de poitrine, très courte durée
 
 |
 
-Thrombophlébites veineuses profondes, niveau 1
+Thrombophlébites veineuses profondes, niveau 1.
 
 |
 
@@ -1952,7 +2008,7 @@ Thrombophlébites veineuses profondes, niveau 1
 
 |
 
-Thrombophlébites veineuses profondes, niveau 2
+Thrombophlébites veineuses profondes, niveau 2.
 
 |
 
@@ -1964,7 +2020,7 @@ Thrombophlébites veineuses profondes, niveau 2
 
 |
 
-Thrombophlébites veineuses profondes, niveau 3
+Thrombophlébites veineuses profondes, niveau 3.
 
 |
 
@@ -1976,7 +2032,7 @@ Thrombophlébites veineuses profondes, niveau 3
 
 |
 
-Thrombophlébites veineuses profondes, niveau 4
+Thrombophlébites veineuses profondes, niveau 4.
 
 |
 
@@ -1988,7 +2044,7 @@ Thrombophlébites veineuses profondes, niveau 4
 
 |
 
-Thrombophlébites veineuses profondes, très courte durée
+Thrombophlébites veineuses profondes, très courte durée.
 
 |
 
@@ -2000,7 +2056,7 @@ Thrombophlébites veineuses profondes, très courte durée
 
 |
 
-Arythmies et troubles de la conduction cardiaque niveau 1
+Arythmies et troubles de la conduction cardiaque, niveau 1.
 
 |
 
@@ -2012,7 +2068,7 @@ Arythmies et troubles de la conduction cardiaque niveau 1
 
 |
 
-Arythmies et troubles de la conduction cardiaque niveau 2
+Arythmies et troubles de la conduction cardiaque, niveau 2.
 
 |
 
@@ -2024,7 +2080,7 @@ Arythmies et troubles de la conduction cardiaque niveau 2
 
 |
 
-Arythmies et troubles de la conduction cardiaque niveau 3
+Arythmies et troubles de la conduction cardiaque, niveau 3.
 
 |
 
@@ -2036,7 +2092,7 @@ Arythmies et troubles de la conduction cardiaque niveau 3
 
 |
 
-Arythmies et troubles de la conduction cardiaque niveau 4
+Arythmies et troubles de la conduction cardiaque, niveau 4.
 
 |
 
@@ -2048,7 +2104,7 @@ Arythmies et troubles de la conduction cardiaque niveau 4
 
 |
 
-Arythmies et troubles de la conduction cardiaquetrès courte durée
+Arythmies et troubles de la conduction cardiaque, très courte durée.
 
 |
 
@@ -2060,7 +2116,7 @@ Arythmies et troubles de la conduction cardiaquetrès courte durée
 
 |
 
-Insuffisances cardiaques et états de choc circulatoire, niveau 1
+Insuffisances cardiaques et états de choc circulatoire, niveau 1.
 
 |
 
@@ -2072,7 +2128,7 @@ Insuffisances cardiaques et états de choc circulatoire, niveau 1
 
 |
 
-Insuffisances cardiaques et états de choc circulatoire, niveau 2
+Insuffisances cardiaques et états de choc circulatoire, niveau 2.
 
 |
 
@@ -2084,7 +2140,7 @@ Insuffisances cardiaques et états de choc circulatoire, niveau 2
 
 |
 
-Insuffisances cardiaques et états de choc circulatoire, niveau 3
+Insuffisances cardiaques et états de choc circulatoire, niveau 3.
 
 |
 
@@ -2096,7 +2152,7 @@ Insuffisances cardiaques et états de choc circulatoire, niveau 3
 
 |
 
-Insuffisances cardiaques et états de choc circulatoire, niveau 4
+Insuffisances cardiaques et états de choc circulatoire, niveau 4.
 
 |
 
@@ -2108,7 +2164,7 @@ Insuffisances cardiaques et états de choc circulatoire, niveau 4
 
 |
 
-Insuffisances cardiaques et états de choc circulatoire, très courte durée
+Insuffisances cardiaques et états de choc circulatoire, très courte durée.
 
 |
 
@@ -2120,7 +2176,7 @@ Insuffisances cardiaques et états de choc circulatoire, très courte durée
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 1
+Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2132,7 +2188,7 @@ Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 2
+Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2144,7 +2200,7 @@ Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 3
+Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2156,7 +2212,7 @@ Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 4
+Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2168,7 +2224,7 @@ Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, très courte durée
+Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2180,7 +2236,7 @@ Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans, très 
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 1
+Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2192,7 +2248,7 @@ Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 2
+Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2204,7 +2260,7 @@ Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 3
+Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2216,7 +2272,7 @@ Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 4
+Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2228,7 +2284,7 @@ Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, niveau
 
 |
 
-Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, très courte durée
+Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2240,7 +2296,7 @@ Cardiopathies congénitales et valvulopathies, âge supérieur à 17 ans, très 
 
 |
 
-Troubles vasculaires périphériques, niveau 1
+Troubles vasculaires périphériques, niveau 1.
 
 |
 
@@ -2252,7 +2308,7 @@ Troubles vasculaires périphériques, niveau 1
 
 |
 
-Troubles vasculaires périphériques, niveau 2
+Troubles vasculaires périphériques, niveau 2.
 
 |
 
@@ -2264,7 +2320,7 @@ Troubles vasculaires périphériques, niveau 2
 
 |
 
-Troubles vasculaires périphériques, niveau 3
+Troubles vasculaires périphériques, niveau 3.
 
 |
 
@@ -2276,7 +2332,7 @@ Troubles vasculaires périphériques, niveau 3
 
 |
 
-Troubles vasculaires périphériques, niveau 4
+Troubles vasculaires périphériques, niveau 4.
 
 |
 
@@ -2288,7 +2344,7 @@ Troubles vasculaires périphériques, niveau 4
 
 |
 
-Troubles vasculaires périphériques, très courte durée
+Troubles vasculaires périphériques, très courte durée.
 
 |
 
@@ -2300,7 +2356,7 @@ Troubles vasculaires périphériques, très courte durée
 
 |
 
-Douleurs thoraciques, niveau 1
+Douleurs thoraciques, niveau 1.
 
 |
 
@@ -2312,7 +2368,7 @@ Douleurs thoraciques, niveau 1
 
 |
 
-Douleurs thoraciques, niveau 2
+Douleurs thoraciques, niveau 2.
 
 |
 
@@ -2324,7 +2380,7 @@ Douleurs thoraciques, niveau 2
 
 |
 
-Douleurs thoraciques, niveau 3
+Douleurs thoraciques, niveau 3.
 
 |
 
@@ -2336,7 +2392,7 @@ Douleurs thoraciques, niveau 3
 
 |
 
-Douleurs thoraciques, niveau 4
+Douleurs thoraciques, niveau 4.
 
 |
 
@@ -2348,7 +2404,7 @@ Douleurs thoraciques, niveau 4
 
 |
 
-Douleurs thoraciques, très courte durée
+Douleurs thoraciques, très courte durée.
 
 |
 
@@ -2360,7 +2416,7 @@ Douleurs thoraciques, très courte durée
 
 |
 
-Arrêt cardiaque niveau 1
+Arrêt cardiaque, niveau 1.
 
 |
 
@@ -2372,7 +2428,7 @@ Arrêt cardiaque niveau 1
 
 |
 
-Arrêt cardiaque niveau 2
+Arrêt cardiaque, niveau 2.
 
 |
 
@@ -2384,7 +2440,7 @@ Arrêt cardiaque niveau 2
 
 |
 
-Arrêt cardiaque niveau 3
+Arrêt cardiaque, niveau 3.
 
 |
 
@@ -2396,7 +2452,7 @@ Arrêt cardiaque niveau 3
 
 |
 
-Arrêt cardiaque niveau 4
+Arrêt cardiaque, niveau 4.
 
 |
 
@@ -2408,7 +2464,7 @@ Arrêt cardiaque niveau 4
 
 |
 
-Hypertension artérielle, niveau 1
+Hypertension artérielle, niveau 1.
 
 |
 
@@ -2420,7 +2476,7 @@ Hypertension artérielle, niveau 1
 
 |
 
-Hypertension artérielle, niveau 2
+Hypertension artérielle, niveau 2.
 
 |
 
@@ -2432,7 +2488,7 @@ Hypertension artérielle, niveau 2
 
 |
 
-Hypertension artérielle, niveau 3
+Hypertension artérielle, niveau 3.
 
 |
 
@@ -2444,7 +2500,7 @@ Hypertension artérielle, niveau 3
 
 |
 
-Hypertension artérielle, niveau 4
+Hypertension artérielle, niveau 4.
 
 |
 
@@ -2456,7 +2512,7 @@ Hypertension artérielle, niveau 4
 
 |
 
-Hypertension artérielle, très courte durée
+Hypertension artérielle, très courte durée.
 
 |
 
@@ -2468,7 +2524,7 @@ Hypertension artérielle, très courte durée
 
 |
 
-Athérosclérose coronarienne, niveau 1
+Athérosclérose coronarienne, niveau 1.
 
 |
 
@@ -2480,7 +2536,7 @@ Athérosclérose coronarienne, niveau 1
 
 |
 
-Athérosclérose coronarienne, niveau 2
+Athérosclérose coronarienne, niveau 2.
 
 |
 
@@ -2492,7 +2548,7 @@ Athérosclérose coronarienne, niveau 2
 
 |
 
-Athérosclérose coronarienne, niveau 3
+Athérosclérose coronarienne, niveau 3.
 
 |
 
@@ -2504,7 +2560,7 @@ Athérosclérose coronarienne, niveau 3
 
 |
 
-Athérosclérose coronarienne, niveau 4
+Athérosclérose coronarienne, niveau 4.
 
 |
 
@@ -2516,7 +2572,7 @@ Athérosclérose coronarienne, niveau 4
 
 |
 
-Athérosclérose coronarienne, très courte durée
+Athérosclérose coronarienne, très courte durée.
 
 |
 
@@ -2528,7 +2584,7 @@ Athérosclérose coronarienne, très courte durée
 
 |
 
-Autres affections de l'appareil circulatoire, niveau 1
+Autres affections de l'appareil circulatoire, niveau 1.
 
 |
 
@@ -2540,7 +2596,7 @@ Autres affections de l'appareil circulatoire, niveau 1
 
 |
 
-Autres affections de l'appareil circulatoire, niveau 2
+Autres affections de l'appareil circulatoire, niveau 2.
 
 |
 
@@ -2552,7 +2608,7 @@ Autres affections de l'appareil circulatoire, niveau 2
 
 |
 
-Autres affections de l'appareil circulatoire, niveau 3
+Autres affections de l'appareil circulatoire, niveau 3.
 
 |
 
@@ -2564,7 +2620,7 @@ Autres affections de l'appareil circulatoire, niveau 3
 
 |
 
-Autres affections de l'appareil circulatoire, niveau 4
+Autres affections de l'appareil circulatoire, niveau 4.
 
 |
 
@@ -2576,7 +2632,7 @@ Autres affections de l'appareil circulatoire, niveau 4
 
 |
 
-Autres affections de l'appareil circulatoire, très courte durée
+Autres affections de l'appareil circulatoire, très courte durée.
 
 |
 
@@ -2588,7 +2644,7 @@ Autres affections de l'appareil circulatoire, très courte durée
 
 |
 
-Endocardites aiguës et subaiguës, niveau 1
+Endocardites aiguës et subaiguës, niveau 1.
 
 |
 
@@ -2600,7 +2656,7 @@ Endocardites aiguës et subaiguës, niveau 1
 
 |
 
-Endocardites aiguës et subaiguës, niveau 2
+Endocardites aiguës et subaiguës, niveau 2.
 
 |
 
@@ -2612,7 +2668,7 @@ Endocardites aiguës et subaiguës, niveau 2
 
 |
 
-Endocardites aiguës et subaiguës, niveau 3
+Endocardites aiguës et subaiguës, niveau 3.
 
 |
 
@@ -2624,7 +2680,7 @@ Endocardites aiguës et subaiguës, niveau 3
 
 |
 
-Endocardites aiguës et subaiguës, niveau 4
+Endocardites aiguës et subaiguës, niveau 4.
 
 |
 
@@ -2636,7 +2692,7 @@ Endocardites aiguës et subaiguës, niveau 4
 
 |
 
-Transferts et autres séjours courts pour endocardites aiguës et subaiguës
+Transferts et autres séjours courts pour endocardites aiguës et subaiguës.
 
 |
 
@@ -2648,7 +2704,7 @@ Transferts et autres séjours courts pour endocardites aiguës et subaiguës
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 1.
 
 |
 
@@ -2660,7 +2716,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 2.
 
 |
 
@@ -2672,7 +2728,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 3.
 
 |
 
@@ -2684,7 +2740,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 4.
 
 |
 
@@ -2696,7 +2752,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Explorations et surveillance pour affections de l'appareil circulatoire
+Explorations et surveillance pour affections de l'appareil circulatoire.
 
 |
 
@@ -2708,7 +2764,7 @@ Explorations et surveillance pour affections de l'appareil circulatoire
 
 |
 
-Infarctus aigu du myocarde avec décès : séjours de moins de 2 jours
+Infarctus aigu du myocarde avec décès : séjours de moins de 2 jours.
 
 |
 
@@ -2720,7 +2776,7 @@ Infarctus aigu du myocarde avec décès : séjours de moins de 2 jours
 
 |
 
-Autres affections de la CMD 05 avec décès : séjours de moins de 2 jours
+Autres affections de la CMD 05 avec décès : séjours de moins de 2 jours.
 
 |
 
@@ -2732,7 +2788,7 @@ Autres affections de la CMD 05 avec décès : séjours de moins de 2 jours
 
 |
 
-Symptômes et autres recours aux soins de la CMD 05, très courte durée
+Symptômes et autres recours aux soins de la CMD 05, très courte durée.
 
 |
 
@@ -2744,7 +2800,7 @@ Symptômes et autres recours aux soins de la CMD 05, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 05
+Symptômes et autres recours aux soins de la CMD 05.
 
 |
 
@@ -2756,7 +2812,7 @@ Symptômes et autres recours aux soins de la CMD 05
 
 |
 
-Chirurgie majeure des malformations digestives, niveau 1
+Chirurgie majeure des malformations digestives, niveau 1.
 
 |
 
@@ -2768,7 +2824,7 @@ Chirurgie majeure des malformations digestives, niveau 1
 
 |
 
-Chirurgie majeure des malformations digestives, niveau 2
+Chirurgie majeure des malformations digestives, niveau 2.
 
 |
 
@@ -2780,7 +2836,7 @@ Chirurgie majeure des malformations digestives, niveau 2
 
 |
 
-Chirurgie majeure des malformations digestives, niveau 3
+Chirurgie majeure des malformations digestives, niveau 3.
 
 |
 
@@ -2792,7 +2848,7 @@ Chirurgie majeure des malformations digestives, niveau 3
 
 |
 
-Chirurgie majeure des malformations digestives, niveau 4
+Chirurgie majeure des malformations digestives, niveau 4.
 
 |
 
@@ -2804,7 +2860,7 @@ Chirurgie majeure des malformations digestives, niveau 4
 
 |
 
-Résections rectales, niveau 1
+Résections rectales, niveau 1.
 
 |
 
@@ -2816,7 +2872,7 @@ Résections rectales, niveau 1
 
 |
 
-Résections rectales, niveau 2
+Résections rectales, niveau 2.
 
 |
 
@@ -2828,7 +2884,7 @@ Résections rectales, niveau 2
 
 |
 
-Résections rectales, niveau 3
+Résections rectales, niveau 3.
 
 |
 
@@ -2840,7 +2896,7 @@ Résections rectales, niveau 3
 
 |
 
-Résections rectales, niveau 4
+Résections rectales, niveau 4.
 
 |
 
@@ -2852,7 +2908,7 @@ Résections rectales, niveau 4
 
 |
 
-Interventions majeures sur l'intestin grêle et le côlon, niveau 1
+Interventions majeures sur l'intestin grêle et le côlon, niveau 1.
 
 |
 
@@ -2864,7 +2920,7 @@ Interventions majeures sur l'intestin grêle et le côlon, niveau 1
 
 |
 
-Interventions majeures sur l'intestin grêle et le côlon, niveau 2
+Interventions majeures sur l'intestin grêle et le côlon, niveau 2.
 
 |
 
@@ -2876,7 +2932,7 @@ Interventions majeures sur l'intestin grêle et le côlon, niveau 2
 
 |
 
-Interventions majeures sur l'intestin grêle et le côlon, niveau 3
+Interventions majeures sur l'intestin grêle et le côlon, niveau 3.
 
 |
 
@@ -2888,7 +2944,7 @@ Interventions majeures sur l'intestin grêle et le côlon, niveau 3
 
 |
 
-Interventions majeures sur l'intestin grêle et le côlon, niveau 4
+Interventions majeures sur l'intestin grêle et le côlon, niveau 4.
 
 |
 
@@ -2900,7 +2956,7 @@ Interventions majeures sur l'intestin grêle et le côlon, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 1
+Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2912,7 +2968,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 2
+Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2924,7 +2980,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 3
+Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2936,7 +2992,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 4
+Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2948,7 +3004,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions mineures sur l'intestin grêle et le côlon, niveau 1
+Interventions mineures sur l'intestin grêle et le côlon, niveau 1.
 
 |
 
@@ -2960,7 +3016,7 @@ Interventions mineures sur l'intestin grêle et le côlon, niveau 1
 
 |
 
-Interventions mineures sur l'intestin grêle et le côlon, niveau 2
+Interventions mineures sur l'intestin grêle et le côlon, niveau 2.
 
 |
 
@@ -2972,7 +3028,7 @@ Interventions mineures sur l'intestin grêle et le côlon, niveau 2
 
 |
 
-Interventions mineures sur l'intestin grêle et le côlon, niveau 3
+Interventions mineures sur l'intestin grêle et le côlon, niveau 3.
 
 |
 
@@ -2984,7 +3040,7 @@ Interventions mineures sur l'intestin grêle et le côlon, niveau 3
 
 |
 
-Interventions mineures sur l'intestin grêle et le côlon, niveau 4
+Interventions mineures sur l'intestin grêle et le côlon, niveau 4.
 
 |
 
@@ -2996,7 +3052,7 @@ Interventions mineures sur l'intestin grêle et le côlon, niveau 4
 
 |
 
-Appendicectomies compliquées, niveau 1
+Appendicectomies compliquées, niveau 1.
 
 |
 
@@ -3008,7 +3064,7 @@ Appendicectomies compliquées, niveau 1
 
 |
 
-Appendicectomies compliquées, niveau 2
+Appendicectomies compliquées, niveau 2.
 
 |
 
@@ -3020,7 +3076,7 @@ Appendicectomies compliquées, niveau 2
 
 |
 
-Appendicectomies compliquées, niveau 3
+Appendicectomies compliquées, niveau 3.
 
 |
 
@@ -3032,7 +3088,7 @@ Appendicectomies compliquées, niveau 3
 
 |
 
-Appendicectomies compliquées, niveau 4
+Appendicectomies compliquées, niveau 4.
 
 |
 
@@ -3044,7 +3100,7 @@ Appendicectomies compliquées, niveau 4
 
 |
 
-Appendicectomies non compliquées, niveau 1
+Appendicectomies non compliquées, niveau 1.
 
 |
 
@@ -3056,7 +3112,7 @@ Appendicectomies non compliquées, niveau 1
 
 |
 
-Appendicectomies non compliquées, niveau 2
+Appendicectomies non compliquées, niveau 2.
 
 |
 
@@ -3068,7 +3124,7 @@ Appendicectomies non compliquées, niveau 2
 
 |
 
-Appendicectomies non compliquées, niveau 3
+Appendicectomies non compliquées, niveau 3.
 
 |
 
@@ -3080,7 +3136,7 @@ Appendicectomies non compliquées, niveau 3
 
 |
 
-Appendicectomies non compliquées, niveau 4
+Appendicectomies non compliquées, niveau 4.
 
 |
 
@@ -3092,7 +3148,7 @@ Appendicectomies non compliquées, niveau 4
 
 |
 
-Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 1
+Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3104,7 +3160,7 @@ Interventions réparatrices pour hernies et éventrations, âge inférieur à 18
 
 |
 
-Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 2
+Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3116,7 +3172,7 @@ Interventions réparatrices pour hernies et éventrations, âge inférieur à 18
 
 |
 
-Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 3
+Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3128,7 +3184,7 @@ Interventions réparatrices pour hernies et éventrations, âge inférieur à 18
 
 |
 
-Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 4
+Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3140,7 +3196,7 @@ Interventions réparatrices pour hernies et éventrations, âge inférieur à 18
 
 |
 
-Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, en ambulatoire
+Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans, en ambulatoire.
 
 |
 
@@ -3152,7 +3208,7 @@ Interventions réparatrices pour hernies et éventrations, âge inférieur à 18
 
 |
 
-Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 1
+Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3164,7 +3220,7 @@ Interventions réparatrices pour hernies et éventrations à l'exception des her
 
 |
 
-Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 2
+Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3176,7 +3232,7 @@ Interventions réparatrices pour hernies et éventrations à l'exception des her
 
 |
 
-Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 3
+Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3188,7 +3244,7 @@ Interventions réparatrices pour hernies et éventrations à l'exception des her
 
 |
 
-Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 4
+Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3200,7 +3256,7 @@ Interventions réparatrices pour hernies et éventrations à l'exception des her
 
 |
 
-Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, en ambulatoire
+Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -3212,7 +3268,7 @@ Interventions réparatrices pour hernies et éventrations à l'exception des her
 
 |
 
-Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 1
+Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3224,7 +3280,7 @@ Interventions réparatrices pour hernies inguinales et crurales, âge supérieur
 
 |
 
-Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 2
+Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3236,7 +3292,7 @@ Interventions réparatrices pour hernies inguinales et crurales, âge supérieur
 
 |
 
-Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 3
+Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3248,7 +3304,7 @@ Interventions réparatrices pour hernies inguinales et crurales, âge supérieur
 
 |
 
-Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 4
+Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3260,7 +3316,7 @@ Interventions réparatrices pour hernies inguinales et crurales, âge supérieur
 
 |
 
-Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, en ambulatoire
+Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -3272,7 +3328,7 @@ Interventions réparatrices pour hernies inguinales et crurales, âge supérieur
 
 |
 
-Libérations d'adhérences péritonéales, niveau 1
+Libérations d'adhérences péritonéales, niveau 1.
 
 |
 
@@ -3284,7 +3340,7 @@ Libérations d'adhérences péritonéales, niveau 1
 
 |
 
-Libérations d'adhérences péritonéales, niveau 2
+Libérations d'adhérences péritonéales, niveau 2.
 
 |
 
@@ -3296,7 +3352,7 @@ Libérations d'adhérences péritonéales, niveau 2
 
 |
 
-Libérations d'adhérences péritonéales, niveau 3
+Libérations d'adhérences péritonéales, niveau 3.
 
 |
 
@@ -3308,7 +3364,7 @@ Libérations d'adhérences péritonéales, niveau 3
 
 |
 
-Libérations d'adhérences péritonéales, niveau 4
+Libérations d'adhérences péritonéales, niveau 4.
 
 |
 
@@ -3320,7 +3376,7 @@ Libérations d'adhérences péritonéales, niveau 4
 
 |
 
-Interventions sur le rectum et l'anus autres que les résections rectales, niveau 1
+Interventions sur le rectum et l'anus autres que les résections rectales, niveau 1.
 
 |
 
@@ -3332,7 +3388,7 @@ Interventions sur le rectum et l'anus autres que les résections rectales, nivea
 
 |
 
-Interventions sur le rectum et l'anus autres que les résections rectales, niveau 2
+Interventions sur le rectum et l'anus autres que les résections rectales, niveau 2.
 
 |
 
@@ -3344,7 +3400,7 @@ Interventions sur le rectum et l'anus autres que les résections rectales, nivea
 
 |
 
-Interventions sur le rectum et l'anus autres que les résections rectales, niveau 3
+Interventions sur le rectum et l'anus autres que les résections rectales, niveau 3.
 
 |
 
@@ -3356,7 +3412,7 @@ Interventions sur le rectum et l'anus autres que les résections rectales, nivea
 
 |
 
-Interventions sur le rectum et l'anus autres que les résections rectales, niveau 4
+Interventions sur le rectum et l'anus autres que les résections rectales, niveau 4.
 
 |
 
@@ -3368,7 +3424,7 @@ Interventions sur le rectum et l'anus autres que les résections rectales, nivea
 
 |
 
-Interventions sur le rectum et l'anus autres que les résections rectales, en ambulatoire
+Interventions sur le rectum et l'anus autres que les résections rectales, en ambulatoire.
 
 |
 
@@ -3380,7 +3436,7 @@ Interventions sur le rectum et l'anus autres que les résections rectales, en am
 
 |
 
-Autres interventions sur le tube digestif en dehors des laparotomies, niveau 1
+Autres interventions sur le tube digestif en dehors des laparotomies, niveau 1.
 
 |
 
@@ -3392,7 +3448,7 @@ Autres interventions sur le tube digestif en dehors des laparotomies, niveau 1
 
 |
 
-Autres interventions sur le tube digestif en dehors des laparotomies, niveau 2
+Autres interventions sur le tube digestif en dehors des laparotomies, niveau 2.
 
 |
 
@@ -3404,7 +3460,7 @@ Autres interventions sur le tube digestif en dehors des laparotomies, niveau 2
 
 |
 
-Autres interventions sur le tube digestif en dehors des laparotomies, niveau 3
+Autres interventions sur le tube digestif en dehors des laparotomies, niveau 3.
 
 |
 
@@ -3416,7 +3472,7 @@ Autres interventions sur le tube digestif en dehors des laparotomies, niveau 3
 
 |
 
-Autres interventions sur le tube digestif en dehors des laparotomies, niveau 4
+Autres interventions sur le tube digestif en dehors des laparotomies, niveau 4.
 
 |
 
@@ -3428,7 +3484,7 @@ Autres interventions sur le tube digestif en dehors des laparotomies, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 1
+Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3440,7 +3496,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 2
+Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3452,7 +3508,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 3
+Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3464,7 +3520,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 4
+Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3476,7 +3532,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Hémorroïdectomies, niveau 1
+Hémorroïdectomies, niveau 1.
 
 |
 
@@ -3486,7 +3542,7 @@ Hémorroïdectomies, niveau 1
 
 |
 
-Hémorroïdectomies, niveau 1
+Hémorroïdectomies, niveau 1.
 
 |
 
@@ -3498,7 +3554,7 @@ Hémorroïdectomies, niveau 1
 
 |
 
-Hémorroïdectomies, niveau 2
+Hémorroïdectomies, niveau 2.
 
 |
 
@@ -3510,7 +3566,7 @@ Hémorroïdectomies, niveau 2
 
 |
 
-Hémorroïdectomies, niveau 3
+Hémorroïdectomies, niveau 3.
 
 |
 
@@ -3522,7 +3578,7 @@ Hémorroïdectomies, niveau 3
 
 |
 
-Hémorroïdectomies, niveau 4
+Hémorroïdectomies, niveau 4.
 
 |
 
@@ -3530,11 +3586,9 @@ Hémorroïdectomies, niveau 4
 
 |
 
-06C19J
+06C19J |
 
-|
-
-Hémorroïdectomies, en ambulatoire
+Hémorroïdectomies, en ambulatoire.
 
 |
 
@@ -3544,7 +3598,7 @@ Hémorroïdectomies, en ambulatoire
 
 |
 
-Hémorroïdectomies, en ambulatoire
+Hémorroïdectomies, en ambulatoire.
 
 |
 
@@ -3556,7 +3610,7 @@ Hémorroïdectomies, en ambulatoire
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 1
+Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3568,7 +3622,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 2
+Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3580,7 +3634,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 3
+Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3592,7 +3646,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 4
+Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3604,7 +3658,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Autres interventions sur le tube digestif par laparotomie, niveau 1
+Autres interventions sur le tube digestif par laparotomie, niveau 1.
 
 |
 
@@ -3616,7 +3670,7 @@ Autres interventions sur le tube digestif par laparotomie, niveau 1
 
 |
 
-Autres interventions sur le tube digestif par laparotomie, niveau 2
+Autres interventions sur le tube digestif par laparotomie, niveau 2.
 
 |
 
@@ -3628,7 +3682,7 @@ Autres interventions sur le tube digestif par laparotomie, niveau 2
 
 |
 
-Autres interventions sur le tube digestif par laparotomie, niveau 3
+Autres interventions sur le tube digestif par laparotomie, niveau 3.
 
 |
 
@@ -3640,7 +3694,7 @@ Autres interventions sur le tube digestif par laparotomie, niveau 3
 
 |
 
-Autres interventions sur le tube digestif par laparotomie, niveau 4
+Autres interventions sur le tube digestif par laparotomie, niveau 4.
 
 |
 
@@ -3652,7 +3706,7 @@ Autres interventions sur le tube digestif par laparotomie, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 1
+Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3664,7 +3718,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 2
+Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3676,7 +3730,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 3
+Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3688,7 +3742,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 4
+Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3700,7 +3754,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Certaines interventions pour stomies, niveau 1
+Certaines interventions pour stomies, niveau 1.
 
 |
 
@@ -3712,7 +3766,7 @@ Certaines interventions pour stomies, niveau 1
 
 |
 
-Certaines interventions pour stomies, niveau 2
+Certaines interventions pour stomies, niveau 2.
 
 |
 
@@ -3724,7 +3778,7 @@ Certaines interventions pour stomies, niveau 2
 
 |
 
-Certaines interventions pour stomies, niveau 3
+Certaines interventions pour stomies, niveau 3.
 
 |
 
@@ -3736,7 +3790,7 @@ Certaines interventions pour stomies, niveau 3
 
 |
 
-Certaines interventions pour stomies, niveau 4
+Certaines interventions pour stomies, niveau 4.
 
 |
 
@@ -3748,7 +3802,7 @@ Certaines interventions pour stomies, niveau 4
 
 |
 
-Certaines interventions pour stomies, en ambulatoire
+Certaines interventions pour stomies, en ambulatoire.
 
 |
 
@@ -3760,7 +3814,7 @@ Certaines interventions pour stomies, en ambulatoire
 
 |
 
-Endoscopies digestives thérapeutiques et anesthésie : séjours de moins de 2 jours
+Endoscopies digestives thérapeutiques et anesthésie : séjours de moins de 2 jours.
 
 |
 
@@ -3772,7 +3826,7 @@ Endoscopies digestives thérapeutiques et anesthésie : séjours de moins de 2 j
 
 |
 
-Séjours comprenant une endoscopie digestive thérapeutique sans anesthésie, en ambulatoire
+Séjours comprenant une endoscopie digestive thérapeutique sans anesthésie, en ambulatoire.
 
 |
 
@@ -3784,7 +3838,7 @@ Séjours comprenant une endoscopie digestive thérapeutique sans anesthésie, en
 
 |
 
-Endoscopie digestive diagnostique et anesthésie, en ambulatoire
+Endoscopie digestive diagnostique et anesthésie, en ambulatoire.
 
 |
 
@@ -3796,7 +3850,7 @@ Endoscopie digestive diagnostique et anesthésie, en ambulatoire
 
 |
 
-Séjours comprenant une endoscopie digestive diagnostique sans anesthésie, en ambulatoire
+Séjours comprenant une endoscopie digestive diagnostique sans anesthésie, en ambulatoire.
 
 |
 
@@ -3808,7 +3862,7 @@ Séjours comprenant une endoscopie digestive diagnostique sans anesthésie, en a
 
 |
 
-Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en ambulatoire
+Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en ambulatoire.
 
 |
 
@@ -3820,7 +3874,7 @@ Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en a
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3832,7 +3886,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3844,7 +3898,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3856,7 +3910,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3868,7 +3922,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -3880,7 +3934,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3892,7 +3946,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3904,7 +3958,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3916,7 +3970,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3928,7 +3982,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3940,7 +3994,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Hémorragies digestives, niveau 1
+Hémorragies digestives, niveau 1.
 
 |
 
@@ -3952,7 +4006,7 @@ Hémorragies digestives, niveau 1
 
 |
 
-Hémorragies digestives, niveau 2
+Hémorragies digestives, niveau 2.
 
 |
 
@@ -3964,7 +4018,7 @@ Hémorragies digestives, niveau 2
 
 |
 
-Hémorragies digestives, niveau 3
+Hémorragies digestives, niveau 3.
 
 |
 
@@ -3976,7 +4030,7 @@ Hémorragies digestives, niveau 3
 
 |
 
-Hémorragies digestives, niveau 4
+Hémorragies digestives, niveau 4.
 
 |
 
@@ -3988,7 +4042,7 @@ Hémorragies digestives, niveau 4
 
 |
 
-Transferts et autres séjours courts pour hémorragies digestives
+Transferts et autres séjours courts pour hémorragies digestives.
 
 |
 
@@ -4000,7 +4054,7 @@ Transferts et autres séjours courts pour hémorragies digestives
 
 |
 
-Autres tumeurs malignes du tube digestif, niveau 1
+Autres tumeurs malignes du tube digestif, niveau 1.
 
 |
 
@@ -4012,7 +4066,7 @@ Autres tumeurs malignes du tube digestif, niveau 1
 
 |
 
-Autres tumeurs malignes du tube digestif, niveau 2
+Autres tumeurs malignes du tube digestif, niveau 2.
 
 |
 
@@ -4024,7 +4078,7 @@ Autres tumeurs malignes du tube digestif, niveau 2
 
 |
 
-Autres tumeurs malignes du tube digestif, niveau 3
+Autres tumeurs malignes du tube digestif, niveau 3.
 
 |
 
@@ -4036,7 +4090,7 @@ Autres tumeurs malignes du tube digestif, niveau 3
 
 |
 
-Autres tumeurs malignes du tube digestif, niveau 4
+Autres tumeurs malignes du tube digestif, niveau 4.
 
 |
 
@@ -4048,7 +4102,7 @@ Autres tumeurs malignes du tube digestif, niveau 4
 
 |
 
-Autres tumeurs malignes du tube digestif, très courte durée
+Autres tumeurs malignes du tube digestif, très courte durée.
 
 |
 
@@ -4060,7 +4114,7 @@ Autres tumeurs malignes du tube digestif, très courte durée
 
 |
 
-Occlusions intestinales non dues à une hernie, niveau 1
+Occlusions intestinales non dues à une hernie, niveau 1.
 
 |
 
@@ -4072,7 +4126,7 @@ Occlusions intestinales non dues à une hernie, niveau 1
 
 |
 
-Occlusions intestinales non dues à une hernie, niveau 2
+Occlusions intestinales non dues à une hernie, niveau 2.
 
 |
 
@@ -4084,7 +4138,7 @@ Occlusions intestinales non dues à une hernie, niveau 2
 
 |
 
-Occlusions intestinales non dues à une hernie, niveau 3
+Occlusions intestinales non dues à une hernie, niveau 3.
 
 |
 
@@ -4096,7 +4150,7 @@ Occlusions intestinales non dues à une hernie, niveau 3
 
 |
 
-Occlusions intestinales non dues à une hernie, niveau 4
+Occlusions intestinales non dues à une hernie, niveau 4.
 
 |
 
@@ -4108,7 +4162,7 @@ Occlusions intestinales non dues à une hernie, niveau 4
 
 |
 
-Occlusions intestinales non dues à une hernie, très courte durée
+Occlusions intestinales non dues à une hernie, très courte durée.
 
 |
 
@@ -4120,7 +4174,7 @@ Occlusions intestinales non dues à une hernie, très courte durée
 
 |
 
-Maladies inflammatoires de l'intestin, niveau 1
+Maladies inflammatoires de l'intestin, niveau 1.
 
 |
 
@@ -4132,7 +4186,7 @@ Maladies inflammatoires de l'intestin, niveau 1
 
 |
 
-Maladies inflammatoires de l'intestin, niveau 2
+Maladies inflammatoires de l'intestin, niveau 2.
 
 |
 
@@ -4144,7 +4198,7 @@ Maladies inflammatoires de l'intestin, niveau 2
 
 |
 
-Maladies inflammatoires de l'intestin, niveau 3
+Maladies inflammatoires de l'intestin, niveau 3.
 
 |
 
@@ -4156,7 +4210,7 @@ Maladies inflammatoires de l'intestin, niveau 3
 
 |
 
-Maladies inflammatoires de l'intestin, niveau 4
+Maladies inflammatoires de l'intestin, niveau 4.
 
 |
 
@@ -4168,7 +4222,7 @@ Maladies inflammatoires de l'intestin, niveau 4
 
 |
 
-Maladies inflammatoires de l'intestin, très courte durée
+Maladies inflammatoires de l'intestin, très courte durée.
 
 |
 
@@ -4180,7 +4234,7 @@ Maladies inflammatoires de l'intestin, très courte durée
 
 |
 
-Autres affections digestives, âge inférieur à 18 ans, niveau 1
+Autres affections digestives, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -4192,7 +4246,7 @@ Autres affections digestives, âge inférieur à 18 ans, niveau 1
 
 |
 
-Autres affections digestives, âge inférieur à 18 ans, niveau 2
+Autres affections digestives, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -4204,7 +4258,7 @@ Autres affections digestives, âge inférieur à 18 ans, niveau 2
 
 |
 
-Autres affections digestives, âge inférieur à 18 ans, niveau 3
+Autres affections digestives, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -4216,7 +4270,7 @@ Autres affections digestives, âge inférieur à 18 ans, niveau 3
 
 |
 
-Autres affections digestives, âge inférieur à 18 ans, niveau 4
+Autres affections digestives, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -4228,7 +4282,7 @@ Autres affections digestives, âge inférieur à 18 ans, niveau 4
 
 |
 
-Autres affections digestives, âge inférieur à 18 ans, très courte durée
+Autres affections digestives, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -4240,7 +4294,7 @@ Autres affections digestives, âge inférieur à 18 ans, très courte durée
 
 |
 
-Autres affections digestives, âge supérieur à 17 ans, niveau 1
+Autres affections digestives, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -4252,7 +4306,7 @@ Autres affections digestives, âge supérieur à 17 ans, niveau 1
 
 |
 
-Autres affections digestives, âge supérieur à 17 ans, niveau 2
+Autres affections digestives, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -4264,7 +4318,7 @@ Autres affections digestives, âge supérieur à 17 ans, niveau 2
 
 |
 
-Autres affections digestives, âge supérieur à 17 ans, niveau 3
+Autres affections digestives, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -4276,7 +4330,7 @@ Autres affections digestives, âge supérieur à 17 ans, niveau 3
 
 |
 
-Autres affections digestives, âge supérieur à 17 ans, niveau 4
+Autres affections digestives, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -4288,7 +4342,7 @@ Autres affections digestives, âge supérieur à 17 ans, niveau 4
 
 |
 
-Autres affections digestives, âge supérieur à 17 ans, très courte durée
+Autres affections digestives, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -4300,7 +4354,7 @@ Autres affections digestives, âge supérieur à 17 ans, très courte durée
 
 |
 
-Ulcères gastroduodénaux compliqués, niveau 1
+Ulcères gastro-duodénaux compliqués, niveau 1.
 
 |
 
@@ -4312,7 +4366,7 @@ Ulcères gastroduodénaux compliqués, niveau 1
 
 |
 
-Ulcères gastroduodénaux compliqués, niveau 2
+Ulcères gastro-duodénaux compliqués, niveau 2.
 
 |
 
@@ -4324,7 +4378,7 @@ Ulcères gastroduodénaux compliqués, niveau 2
 
 |
 
-Ulcères gastroduodénaux compliqués, niveau 3
+Ulcères gastro-duodénaux compliqués, niveau 3.
 
 |
 
@@ -4336,7 +4390,7 @@ Ulcères gastroduodénaux compliqués, niveau 3
 
 |
 
-Ulcères gastroduodénaux compliqués, niveau 4
+Ulcères gastro-duodénaux compliqués, niveau 4.
 
 |
 
@@ -4348,7 +4402,7 @@ Ulcères gastroduodénaux compliqués, niveau 4
 
 |
 
-Ulcères gastroduodénaux non compliqués, niveau 1
+Ulcères gastro-duodénaux non compliqués, niveau 1.
 
 |
 
@@ -4360,7 +4414,7 @@ Ulcères gastroduodénaux non compliqués, niveau 1
 
 |
 
-Ulcères gastroduodénaux non compliqués, niveau 2
+Ulcères gastro-duodénaux non compliqués, niveau 2.
 
 |
 
@@ -4372,7 +4426,7 @@ Ulcères gastroduodénaux non compliqués, niveau 2
 
 |
 
-Ulcères gastroduodénaux non compliqués, niveau 3
+Ulcères gastro-duodénaux non compliqués, niveau 3.
 
 |
 
@@ -4384,7 +4438,7 @@ Ulcères gastroduodénaux non compliqués, niveau 3
 
 |
 
-Ulcères gastroduodénaux non compliqués, niveau 4
+Ulcères gastro-duodénaux non compliqués, niveau 4.
 
 |
 
@@ -4396,7 +4450,7 @@ Ulcères gastroduodénaux non compliqués, niveau 4
 
 |
 
-Ulcères gastroduodénaux non compliqués, très courte durée
+Ulcères gastro-duodénaux non compliqués, très courte durée.
 
 |
 
@@ -4408,7 +4462,7 @@ Ulcères gastroduodénaux non compliqués, très courte durée
 
 |
 
-Douleurs abdominales, niveau 1
+Douleurs abdominales, niveau 1.
 
 |
 
@@ -4420,7 +4474,7 @@ Douleurs abdominales, niveau 1
 
 |
 
-Douleurs abdominales, niveau 2
+Douleurs abdominales, niveau 2.
 
 |
 
@@ -4432,7 +4486,7 @@ Douleurs abdominales, niveau 2
 
 |
 
-Douleurs abdominales, niveau 3
+Douleurs abdominales, niveau 3.
 
 |
 
@@ -4444,7 +4498,7 @@ Douleurs abdominales, niveau 3
 
 |
 
-Douleurs abdominales, niveau 4
+Douleurs abdominales, niveau 4.
 
 |
 
@@ -4456,7 +4510,7 @@ Douleurs abdominales, niveau 4
 
 |
 
-Douleurs abdominales, très courte durée
+Douleurs abdominales, très courte durée.
 
 |
 
@@ -4468,7 +4522,7 @@ Douleurs abdominales, très courte durée
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 1
+Tumeurs malignes de l'œsophage et de l'estomac, niveau 1.
 
 |
 
@@ -4480,7 +4534,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 1
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 2
+Tumeurs malignes de l'œsophage et de l'estomac, niveau 2.
 
 |
 
@@ -4492,7 +4546,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 2
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 3
+Tumeurs malignes de l'œsophage et de l'estomac, niveau 3.
 
 |
 
@@ -4504,7 +4558,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 3
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 4
+Tumeurs malignes de l'œsophage et de l'estomac, niveau 4.
 
 |
 
@@ -4516,7 +4570,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 4
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, très courte durée
+Tumeurs malignes de l'œsophage et de l'estomac, très courte durée.
 
 |
 
@@ -4528,7 +4582,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, très courte durée
 
 |
 
-Invaginations intestinales aiguës, niveau 1
+Invaginations intestinales aiguës, niveau 1.
 
 |
 
@@ -4540,7 +4594,7 @@ Invaginations intestinales aiguës, niveau 1
 
 |
 
-Invaginations intestinales aiguës, niveau 2
+Invaginations intestinales aiguës, niveau 2.
 
 |
 
@@ -4552,7 +4606,7 @@ Invaginations intestinales aiguës, niveau 2
 
 |
 
-Invaginations intestinales aiguës, niveau 3
+Invaginations intestinales aiguës, niveau 3.
 
 |
 
@@ -4564,7 +4618,7 @@ Invaginations intestinales aiguës, niveau 3
 
 |
 
-Invaginations intestinales aiguës, niveau 4
+Invaginations intestinales aiguës, niveau 4.
 
 |
 
@@ -4576,7 +4630,7 @@ Invaginations intestinales aiguës, niveau 4
 
 |
 
-Suivi de greffes de l'appareil digestif
+Suivi de greffes de l'appareil digestif.
 
 |
 
@@ -4588,7 +4642,7 @@ Suivi de greffes de l'appareil digestif
 
 |
 
-Explorations et surveillance pour affections de l'appareil digestif
+Explorations et surveillance pour affections de l'appareil digestif.
 
 |
 
@@ -4600,7 +4654,7 @@ Explorations et surveillance pour affections de l'appareil digestif
 
 |
 
-Soins de stomies digestives, très courte durée
+Soins de stomies digestives, très courte durée.
 
 |
 
@@ -4612,7 +4666,7 @@ Soins de stomies digestives, très courte durée
 
 |
 
-Soins de stomies digestives
+Soins de stomies digestives.
 
 |
 
@@ -4624,7 +4678,7 @@ Soins de stomies digestives
 
 |
 
-Symptômes et autres recours aux soins de la CMD 06, très courte durée
+Symptômes et autres recours aux soins de la CMD 06, très courte durée.
 
 |
 
@@ -4636,7 +4690,7 @@ Symptômes et autres recours aux soins de la CMD 06, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 06
+Symptômes et autres recours aux soins de la CMD 06.
 
 |
 
@@ -4648,7 +4702,7 @@ Symptômes et autres recours aux soins de la CMD 06
 
 |
 
-Affections sévères du tube digestif, niveau 1
+Affections sévères du tube digestif, niveau 1.
 
 |
 
@@ -4660,7 +4714,7 @@ Affections sévères du tube digestif, niveau 1
 
 |
 
-Affections sévères du tube digestif, niveau 2
+Affections sévères du tube digestif, niveau 2.
 
 |
 
@@ -4672,7 +4726,7 @@ Affections sévères du tube digestif, niveau 2
 
 |
 
-Affections sévères du tube digestif, niveau 3
+Affections sévères du tube digestif, niveau 3.
 
 |
 
@@ -4684,7 +4738,7 @@ Affections sévères du tube digestif, niveau 3
 
 |
 
-Affections sévères du tube digestif, niveau 4
+Affections sévères du tube digestif, niveau 4.
 
 |
 
@@ -4696,7 +4750,7 @@ Affections sévères du tube digestif, niveau 4
 
 |
 
-Tumeurs bénignes de l'appareil digestif, niveau 1
+Tumeurs bénignes de l'appareil digestif, niveau 1.
 
 |
 
@@ -4708,7 +4762,7 @@ Tumeurs bénignes de l'appareil digestif, niveau 1
 
 |
 
-Tumeurs bénignes de l'appareil digestif, niveau 2
+Tumeurs bénignes de l'appareil digestif, niveau 2.
 
 |
 
@@ -4720,7 +4774,7 @@ Tumeurs bénignes de l'appareil digestif, niveau 2
 
 |
 
-Tumeurs bénignes de l'appareil digestif, niveau 3
+Tumeurs bénignes de l'appareil digestif, niveau 3.
 
 |
 
@@ -4732,7 +4786,7 @@ Tumeurs bénignes de l'appareil digestif, niveau 3
 
 |
 
-Tumeurs bénignes de l'appareil digestif, niveau 4
+Tumeurs bénignes de l'appareil digestif, niveau 4.
 
 |
 
@@ -4744,6 +4798,6 @@ Tumeurs bénignes de l'appareil digestif, niveau 4
 
 |
 
-Tumeurs bénignes de l'appareil digestif, très courte durée
+Tumeurs bénignes de l'appareil digestif, très courte durée.
 
 |

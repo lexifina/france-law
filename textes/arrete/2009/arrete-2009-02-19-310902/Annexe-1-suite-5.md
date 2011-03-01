@@ -2,15 +2,13 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
-4922
-
-|
+4922 |
 
 13C031
 
 |
 
-Hystérectomies, niveau 1
+Hystérectomies, niveau 1.
 
 |
 
@@ -22,7 +20,7 @@ Hystérectomies, niveau 1
 
 |
 
-Hystérectomies, niveau 2
+Hystérectomies, niveau 2.
 
 |
 
@@ -34,7 +32,7 @@ Hystérectomies, niveau 2
 
 |
 
-Hystérectomies, niveau 3
+Hystérectomies, niveau 3.
 
 |
 
@@ -46,7 +44,7 @@ Hystérectomies, niveau 3
 
 |
 
-Hystérectomies, niveau 4
+Hystérectomies, niveau 4.
 
 |
 
@@ -58,7 +56,7 @@ Hystérectomies, niveau 4
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 1
+Interventions réparatrices sur l'appareil génital féminin, niveau 1.
 
 |
 
@@ -70,7 +68,7 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 1
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 2
+Interventions réparatrices sur l'appareil génital féminin, niveau 2.
 
 |
 
@@ -82,7 +80,7 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 2
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 3
+Interventions réparatrices sur l'appareil génital féminin, niveau 3.
 
 |
 
@@ -94,7 +92,7 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 3
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 4
+Interventions réparatrices sur l'appareil génital féminin, niveau 4.
 
 |
 
@@ -106,7 +104,7 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 4
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1.
 
 |
 
@@ -118,7 +116,7 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2.
 
 |
 
@@ -130,7 +128,7 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3.
 
 |
 
@@ -142,7 +140,7 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4.
 
 |
 
@@ -154,7 +152,7 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4
 
 |
 
-Interruptions tubaires, niveau 1
+Interruptions tubaires, niveau 1.
 
 |
 
@@ -166,7 +164,7 @@ Interruptions tubaires, niveau 1
 
 |
 
-Interruptions tubaires, niveau 2
+Interruptions tubaires, niveau 2.
 
 |
 
@@ -178,7 +176,7 @@ Interruptions tubaires, niveau 2
 
 |
 
-Interruptions tubaires, niveau 3
+Interruptions tubaires, niveau 3.
 
 |
 
@@ -190,7 +188,7 @@ Interruptions tubaires, niveau 3
 
 |
 
-Interruptions tubaires, niveau 4
+Interruptions tubaires, niveau 4.
 
 |
 
@@ -202,7 +200,7 @@ Interruptions tubaires, niveau 4
 
 |
 
-Interruptions tubaires, en ambulatoire
+Interruptions tubaires, en ambulatoire.
 
 |
 
@@ -214,7 +212,7 @@ Interruptions tubaires, en ambulatoire
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1.
 
 |
 
@@ -226,7 +224,7 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2.
 
 |
 
@@ -238,7 +236,7 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3.
 
 |
 
@@ -250,7 +248,7 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4.
 
 |
 
@@ -262,7 +260,7 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire.
 
 |
 
@@ -274,7 +272,7 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 1
+Interventions sur la vulve, le vagin ou le col utérin, niveau 1.
 
 |
 
@@ -286,7 +284,7 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 1
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 2
+Interventions sur la vulve, le vagin ou le col utérin, niveau 2.
 
 |
 
@@ -298,7 +296,7 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 2
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 3
+Interventions sur la vulve, le vagin ou le col utérin, niveau 3.
 
 |
 
@@ -310,7 +308,7 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 3
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 4
+Interventions sur la vulve, le vagin ou le col utérin, niveau 4.
 
 |
 
@@ -322,7 +320,7 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 4
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
+Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire.
 
 |
 
@@ -334,7 +332,7 @@ Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 1
+Laparoscopies ou cœlioscopies diagnostiques, niveau 1.
 
 |
 
@@ -346,7 +344,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 1
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 2
+Laparoscopies ou cœlioscopies diagnostiques, niveau 2.
 
 |
 
@@ -358,7 +356,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 2
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 3
+Laparoscopies ou cœlioscopies diagnostiques, niveau 3.
 
 |
 
@@ -370,7 +368,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 3
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 4
+Laparoscopies ou cœlioscopies diagnostiques, niveau 4.
 
 |
 
@@ -382,7 +380,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 4
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, très courte durée
+Laparoscopies ou cœlioscopies diagnostiques, très courte durée.
 
 |
 
@@ -394,7 +392,7 @@ Laparoscopies ou cœlioscopies diagnostiques, très courte durée
 
 |
 
-Ligatures tubaires par laparoscopie ou coelioscopie, niveau 1
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1.
 
 |
 
@@ -406,7 +404,7 @@ Ligatures tubaires par laparoscopie ou coelioscopie, niveau 1
 
 |
 
-Ligatures tubaires par laparoscopie ou coelioscopie, niveau 2
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2.
 
 |
 
@@ -418,7 +416,7 @@ Ligatures tubaires par laparoscopie ou coelioscopie, niveau 2
 
 |
 
-Ligatures tubaires par laparoscopie ou coelioscopie, niveau 3
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3.
 
 |
 
@@ -430,7 +428,7 @@ Ligatures tubaires par laparoscopie ou coelioscopie, niveau 3
 
 |
 
-Ligatures tubaires par laparoscopie ou coelioscopie, niveau 4
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4.
 
 |
 
@@ -442,7 +440,7 @@ Ligatures tubaires par laparoscopie ou coelioscopie, niveau 4
 
 |
 
-Ligatures tubaires par laparoscopie ou coelioscopie, très courte durée
+Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée.
 
 |
 
@@ -454,7 +452,7 @@ Ligatures tubaires par laparoscopie ou coelioscopie, très courte durée
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 1.
 
 |
 
@@ -466,7 +464,7 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 2.
 
 |
 
@@ -478,7 +476,7 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 3.
 
 |
 
@@ -490,7 +488,7 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 4.
 
 |
 
@@ -502,7 +500,7 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
+Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire.
 
 |
 
@@ -514,7 +512,7 @@ Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 1
+Dilatations et curetages, conisations pour affections non malignes, niveau 1.
 
 |
 
@@ -526,7 +524,7 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 1
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 2
+Dilatations et curetages, conisations pour affections non malignes, niveau 2.
 
 |
 
@@ -538,7 +536,7 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 2
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 3
+Dilatations et curetages, conisations pour affections non malignes, niveau 3.
 
 |
 
@@ -550,7 +548,7 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 3
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 4
+Dilatations et curetages, conisations pour affections non malignes, niveau 4.
 
 |
 
@@ -562,7 +560,7 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 4
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
+Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.
 
 |
 
@@ -572,7 +570,7 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
+Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.
 
 |
 
@@ -584,7 +582,7 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 1
+Autres interventions sur l'appareil génital féminin, niveau 1.
 
 |
 
@@ -596,7 +594,7 @@ Autres interventions sur l'appareil génital féminin, niveau 1
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 2
+Autres interventions sur l'appareil génital féminin, niveau 2.
 
 |
 
@@ -608,7 +606,7 @@ Autres interventions sur l'appareil génital féminin, niveau 2
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 3
+Autres interventions sur l'appareil génital féminin, niveau 3.
 
 |
 
@@ -620,7 +618,7 @@ Autres interventions sur l'appareil génital féminin, niveau 3
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 4
+Autres interventions sur l'appareil génital féminin, niveau 4.
 
 |
 
@@ -632,7 +630,7 @@ Autres interventions sur l'appareil génital féminin, niveau 4
 
 |
 
-Autres interventions sur l'appareil génital féminin, très courte durée
+Autres interventions sur l'appareil génital féminin, très courte durée.
 
 |
 
@@ -644,7 +642,7 @@ Autres interventions sur l'appareil génital féminin, très courte durée
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1.
 
 |
 
@@ -656,7 +654,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2.
 
 |
 
@@ -668,7 +666,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3.
 
 |
 
@@ -680,7 +678,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4.
 
 |
 
@@ -692,7 +690,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1.
 
 |
 
@@ -704,7 +702,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2.
 
 |
 
@@ -716,7 +714,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3.
 
 |
 
@@ -728,7 +726,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 4
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 4.
 
 |
 
@@ -740,7 +738,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Prélèvements d'ovocytes, en ambulatoire
+Prélèvements d'ovocytes, en ambulatoire.
 
 |
 
@@ -752,7 +750,7 @@ Prélèvements d'ovocytes, en ambulatoire
 
 |
 
-Cervicocystopexie, niveau 1
+Cervicocystopexie, niveau 1.
 
 |
 
@@ -764,7 +762,7 @@ Cervicocystopexie, niveau 1
 
 |
 
-Cervicocystopexie, niveau 2
+Cervicocystopexie, niveau 2.
 
 |
 
@@ -776,7 +774,7 @@ Cervicocystopexie, niveau 2
 
 |
 
-Cervicocystopexie, niveau 3
+Cervicocystopexie, niveau 3.
 
 |
 
@@ -788,7 +786,7 @@ Cervicocystopexie, niveau 3
 
 |
 
-Cervicocystopexie, niveau 4
+Cervicocystopexie, niveau 4.
 
 |
 
@@ -800,7 +798,7 @@ Cervicocystopexie, niveau 4
 
 |
 
-Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours.
 
 |
 
@@ -812,7 +810,7 @@ Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CM
 
 |
 
-Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours.
 
 |
 
@@ -824,7 +822,7 @@ Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique 
 
 |
 
-Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours.
 
 |
 
@@ -836,7 +834,7 @@ Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 
 
 |
 
-Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
+Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours.
 
 |
 
@@ -848,7 +846,7 @@ Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CM
 
 |
 
-Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire
+Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire.
 
 |
 
@@ -860,7 +858,7 @@ Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, a
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 1
+Tumeurs malignes de l'appareil génital féminin, niveau 1.
 
 |
 
@@ -872,7 +870,7 @@ Tumeurs malignes de l'appareil génital féminin, niveau 1
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 2
+Tumeurs malignes de l'appareil génital féminin, niveau 2.
 
 |
 
@@ -884,7 +882,7 @@ Tumeurs malignes de l'appareil génital féminin, niveau 2
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 3
+Tumeurs malignes de l'appareil génital féminin, niveau 3.
 
 |
 
@@ -896,7 +894,7 @@ Tumeurs malignes de l'appareil génital féminin, niveau 3
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 4
+Tumeurs malignes de l'appareil génital féminin, niveau 4.
 
 |
 
@@ -908,7 +906,7 @@ Tumeurs malignes de l'appareil génital féminin, niveau 4
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, très courte durée
+Tumeurs malignes de l'appareil génital féminin, très courte durée.
 
 |
 
@@ -920,7 +918,7 @@ Tumeurs malignes de l'appareil génital féminin, très courte durée
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 1
+Autres affections de l'appareil génital féminin, niveau 1.
 
 |
 
@@ -932,7 +930,7 @@ Autres affections de l'appareil génital féminin, niveau 1
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 2
+Autres affections de l'appareil génital féminin, niveau 2.
 
 |
 
@@ -944,7 +942,7 @@ Autres affections de l'appareil génital féminin, niveau 2
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 3
+Autres affections de l'appareil génital féminin, niveau 3.
 
 |
 
@@ -956,7 +954,7 @@ Autres affections de l'appareil génital féminin, niveau 3
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 4
+Autres affections de l'appareil génital féminin, niveau 4.
 
 |
 
@@ -968,7 +966,7 @@ Autres affections de l'appareil génital féminin, niveau 4
 
 |
 
-Autres affections de l'appareil génital féminin, très courte durée
+Autres affections de l'appareil génital féminin, très courte durée.
 
 |
 
@@ -980,7 +978,7 @@ Autres affections de l'appareil génital féminin, très courte durée
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 1
+Infections de l'utérus et de ses annexes, niveau 1.
 
 |
 
@@ -992,7 +990,7 @@ Infections de l'utérus et de ses annexes, niveau 1
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 2
+Infections de l'utérus et de ses annexes, niveau 2.
 
 |
 
@@ -1004,7 +1002,7 @@ Infections de l'utérus et de ses annexes, niveau 2
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 3
+Infections de l'utérus et de ses annexes, niveau 3.
 
 |
 
@@ -1016,7 +1014,7 @@ Infections de l'utérus et de ses annexes, niveau 3
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 4
+Infections de l'utérus et de ses annexes, niveau 4.
 
 |
 
@@ -1028,7 +1026,7 @@ Infections de l'utérus et de ses annexes, niveau 4
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 1
+Autres infections de l'appareil génital féminin, niveau 1.
 
 |
 
@@ -1040,7 +1038,7 @@ Autres infections de l'appareil génital féminin, niveau 1
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 2
+Autres infections de l'appareil génital féminin, niveau 2.
 
 |
 
@@ -1052,7 +1050,7 @@ Autres infections de l'appareil génital féminin, niveau 2
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 3
+Autres infections de l'appareil génital féminin, niveau 3.
 
 |
 
@@ -1064,7 +1062,7 @@ Autres infections de l'appareil génital féminin, niveau 3
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 4
+Autres infections de l'appareil génital féminin, niveau 4.
 
 |
 
@@ -1076,7 +1074,7 @@ Autres infections de l'appareil génital féminin, niveau 4
 
 |
 
-Autres infections de l'appareil génital féminin, très courte durée
+Autres infections de l'appareil génital féminin, très courte durée.
 
 |
 
@@ -1088,7 +1086,7 @@ Autres infections de l'appareil génital féminin, très courte durée
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 1
+Autres tumeurs de l'appareil génital féminin, niveau 1.
 
 |
 
@@ -1100,7 +1098,7 @@ Autres tumeurs de l'appareil génital féminin, niveau 1
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 2
+Autres tumeurs de l'appareil génital féminin, niveau 2.
 
 |
 
@@ -1112,7 +1110,7 @@ Autres tumeurs de l'appareil génital féminin, niveau 2
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 3
+Autres tumeurs de l'appareil génital féminin, niveau 3.
 
 |
 
@@ -1124,7 +1122,7 @@ Autres tumeurs de l'appareil génital féminin, niveau 3
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 4
+Autres tumeurs de l'appareil génital féminin, niveau 4.
 
 |
 
@@ -1136,7 +1134,7 @@ Autres tumeurs de l'appareil génital féminin, niveau 4
 
 |
 
-Assistance médicale à la procréation, niveau 1
+Assistance médicale à la procréation, niveau 1.
 
 |
 
@@ -1148,7 +1146,7 @@ Assistance médicale à la procréation, niveau 1
 
 |
 
-Assistance médicale à la procréation, niveau 2
+Assistance médicale à la procréation, niveau 2.
 
 |
 
@@ -1160,7 +1158,7 @@ Assistance médicale à la procréation, niveau 2
 
 |
 
-Assistance médicale à la procréation, niveau 3
+Assistance médicale à la procréation, niveau 3.
 
 |
 
@@ -1172,7 +1170,7 @@ Assistance médicale à la procréation, niveau 3
 
 |
 
-Assistance médicale à la procréation, niveau 4
+Assistance médicale à la procréation, niveau 4.
 
 |
 
@@ -1184,7 +1182,7 @@ Assistance médicale à la procréation, niveau 4
 
 |
 
-Explorations et surveillance gynécologiques
+Explorations et surveillance gynécologiques.
 
 |
 
@@ -1196,7 +1194,7 @@ Explorations et surveillance gynécologiques
 
 |
 
-Autres symptômes et recours aux soins de la CMD 13
+Autres symptômes et recours aux soins de la CMD 13.
 
 |
 
@@ -1208,7 +1206,7 @@ Autres symptômes et recours aux soins de la CMD 13
 
 |
 
-Césariennes sans complication significative
+Césariennes, sans complication significative.
 
 |
 
@@ -1220,7 +1218,7 @@ Césariennes sans complication significative
 
 |
 
-Césariennes avec autres complications
+Césariennes, avec autres complications.
 
 |
 
@@ -1232,7 +1230,7 @@ Césariennes avec autres complications
 
 |
 
-Césariennes avec complications majeures
+Césariennes, avec complications majeures.
 
 |
 
@@ -1244,7 +1242,7 @@ Césariennes avec complications majeures
 
 |
 
-Accouchements par voie basse avec autres interventions
+Accouchements par voie basse avec autres interventions.
 
 |
 
@@ -1256,7 +1254,7 @@ Accouchements par voie basse avec autres interventions
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
+Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée.
 
 |
 
@@ -1268,7 +1266,7 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale, tr�
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale
+Affections du post-partum ou du post abortum avec intervention chirurgicale.
 
 |
 
@@ -1280,7 +1278,7 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
+Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire.
 
 |
 
@@ -1292,7 +1290,7 @@ Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie
+Avortements avec aspiration ou curetage ou hystérotomie.
 
 |
 
@@ -1304,7 +1302,7 @@ Avortements avec aspiration ou curetage ou hystérotomie
 
 |
 
-Affections médicales du post-partum ou du post-abortum, très courte durée
+Affections médicales du post-partum ou du post-abortum, très courte durée.
 
 |
 
@@ -1316,7 +1314,7 @@ Affections médicales du post-partum ou du post-abortum, très courte durée
 
 |
 
-Affections médicales du post-partum ou du post-abortum
+Affections médicales du post-partum ou du post-abortum.
 
 |
 
@@ -1328,7 +1326,7 @@ Affections médicales du post-partum ou du post-abortum
 
 |
 
-Accouchements par voie basse sans complication significative
+Accouchements par voie basse, sans complication significative.
 
 |
 
@@ -1340,7 +1338,7 @@ Accouchements par voie basse sans complication significative
 
 |
 
-Accouchements par voie basse avec autres complications
+Accouchements par voie basse, avec autres complications.
 
 |
 
@@ -1352,7 +1350,7 @@ Accouchements par voie basse avec autres complications
 
 |
 
-Accouchements par voie basse avec complications majeures
+Accouchements par voie basse, avec complications majeures.
 
 |
 
@@ -1364,7 +1362,7 @@ Accouchements par voie basse avec complications majeures
 
 |
 
-Accouchements par voie basse, très courte durée
+Accouchements par voie basse, très courte durée.
 
 |
 
@@ -1376,7 +1374,7 @@ Accouchements par voie basse, très courte durée
 
 |
 
-Affections de l'ante partum, avec ou sans intervention chirurgicale, sans complications
+Affections de l'ante partum, avec ou sans intervention chirurgicale, sans complications.
 
 |
 
@@ -1388,7 +1386,7 @@ Affections de l'ante partum, avec ou sans intervention chirurgicale, sans compli
 
 |
 
-Affections de l'ante partum, avec ou sans intervention chirurgicale, avec complications
+Affections de l'ante partum, avec ou sans intervention chirurgicale, avec complications.
 
 |
 
@@ -1400,7 +1398,7 @@ Affections de l'ante partum, avec ou sans intervention chirurgicale, avec compli
 
 |
 
-Affections de l'ante partum, avec ou sans intervention chirurgicale, très courte durée
+Affections de l'ante partum, avec ou sans intervention chirurgicale, très courte durée.
 
 |
 
@@ -1412,7 +1410,7 @@ Affections de l'ante partum, avec ou sans intervention chirurgicale, très court
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
+Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée.
 
 |
 
@@ -1424,7 +1422,7 @@ Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie
+Avortements sans aspiration, ni curetage, ni hystérotomie.
 
 |
 
@@ -1436,7 +1434,7 @@ Avortements sans aspiration, ni curetage, ni hystérotomie
 
 |
 
-Grossesses ectopiques
+Grossesses ectopiques.
 
 |
 
@@ -1448,7 +1446,7 @@ Grossesses ectopiques
 
 |
 
-Menaces d'avortement, très courte durée
+Menaces d'avortement, très courte durée.
 
 |
 
@@ -1460,7 +1458,7 @@ Menaces d'avortement, très courte durée
 
 |
 
-Menaces d'avortement
+Menaces d'avortement.
 
 |
 
@@ -1472,7 +1470,7 @@ Menaces d'avortement
 
 |
 
-Faux travail
+Faux travail.
 
 |
 
@@ -1484,7 +1482,7 @@ Faux travail
 
 |
 
-Interruption volontaire de grossesse : séjours de moins de 3 jours
+Interruptions volontaires de grossesse : séjours de moins de 3 jours.
 
 |
 
@@ -1496,7 +1494,7 @@ Interruption volontaire de grossesse : séjours de moins de 3 jours
 
 |
 
-Autres problèmes postnéonatals précoces, très courte durée
+Autres problèmes postnéonatals précoces, très courte durée.
 
 |
 
@@ -1508,7 +1506,7 @@ Autres problèmes postnéonatals précoces, très courte durée
 
 |
 
-Autres problèmes postnéonatals précoces
+Autres problèmes postnéonatals précoces.
 
 |
 
@@ -1520,7 +1518,7 @@ Autres problèmes postnéonatals précoces
 
 |
 
-Transferts précoces de nouveau-nés vers un autre établissement
+Transferts précoces de nouveau-nés vers un autre établissement.
 
 |
 
@@ -1532,7 +1530,7 @@ Transferts précoces de nouveau-nés vers un autre établissement
 
 |
 
-Nouveau-nés de 1 500 g et plus, décédés
+Nouveau-nés de 1 500 g et plus, décédés.
 
 |
 
@@ -1544,7 +1542,7 @@ Nouveau-nés de 1 500 g et plus, décédés
 
 |
 
-Nouveau-nés de 2 500 g et plus, sans problème significatif
+Nouveau-nés de 2 500 g et plus, sans problème significatif.
 
 |
 
@@ -1556,7 +1554,7 @@ Nouveau-nés de 2 500 g et plus, sans problème significatif
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec autre problème significatif
+Nouveau-nés de 2 500 g et plus, avec autre problème significatif.
 
 |
 
@@ -1568,7 +1566,7 @@ Nouveau-nés de 2 500 g et plus, avec autre problème significatif
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec problème sévère
+Nouveau-nés de 2 500 g et plus, avec problème sévère.
 
 |
 
@@ -1580,7 +1578,7 @@ Nouveau-nés de 2 500 g et plus, avec problème sévère
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec problème majeur
+Nouveau-nés de 2 500 g et plus, avec problème majeur.
 
 |
 
@@ -1592,7 +1590,7 @@ Nouveau-nés de 2 500 g et plus, avec problème majeur
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, sans problème significatif
+Nouveau-nés de 2 000 g à 2 499 g, sans problème significatif.
 
 |
 
@@ -1604,7 +1602,7 @@ Nouveau-nés de 2 000 g à 2 499 g, sans problème significatif
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec autre problème significatif
+Nouveau-nés de 2 000 g à 2 499 g, avec autre problème significatif.
 
 |
 
@@ -1616,7 +1614,7 @@ Nouveau-nés de 2 000 g à 2 499 g, avec autre problème significatif
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec problème sévère
+Nouveau-nés de 2 000 g à 2 499 g, avec problème sévère.
 
 |
 
@@ -1628,7 +1626,7 @@ Nouveau-nés de 2 000 g à 2 499 g, avec problème sévère
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec problème majeur
+Nouveau-nés de 2 000 g à 2 499 g, avec problème majeur.
 
 |
 
@@ -1640,7 +1638,7 @@ Nouveau-nés de 2 000 g à 2 499 g, avec problème majeur
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, sans problème significatif
+Nouveau-nés de 1 500 g à 1 999 g, sans problème significatif.
 
 |
 
@@ -1652,7 +1650,7 @@ Nouveau-nés de 1 500 g à 1 999 g, sans problème significatif
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, avec autre problème significatif
+Nouveau-nés de 1 500 g à 1 999 g, avec autre problème significatif.
 
 |
 
@@ -1664,7 +1662,7 @@ Nouveau-nés de 1 500 g à 1 999 g, avec autre problème significatif
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, avec problème majeur ou sévère
+Nouveau-nés de 1 500 g à 1 999 g, avec problème majeur ou sévère.
 
 |
 
@@ -1676,7 +1674,7 @@ Nouveau-nés de 1 500 g à 1 999 g, avec problème majeur ou sévère
 
 |
 
-Nouveau-nés de 1 000 g à 1 499 g, décédés
+Nouveau-nés de 1 000 g à 1 499 g, décédés.
 
 |
 
@@ -1688,7 +1686,7 @@ Nouveau-nés de 1 000 g à 1 499 g, décédés
 
 |
 
-Nouveau-nés de 1 000 g à 1 499 g, sortis en vie
+Nouveau-nés de 1 000 g à 1 499 g, sortis en vie.
 
 |
 
@@ -1700,7 +1698,7 @@ Nouveau-nés de 1 000 g à 1 499 g, sortis en vie
 
 |
 
-Nouveau-nés de moins de 1 000 g, décédés
+Nouveau-nés de moins de 1 000 g, décédés.
 
 |
 
@@ -1712,7 +1710,7 @@ Nouveau-nés de moins de 1 000 g, décédés
 
 |
 
-Nouveau-nés de moins de 1 000 g, sortis en vie
+Nouveau-nés de moins de 1 000 g, sortis en vie.
 
 |
 
@@ -1724,7 +1722,7 @@ Nouveau-nés de moins de 1 000 g, sortis en vie
 
 |
 
-Mort-nés
+Mort-nés.
 
 |
 
@@ -1736,7 +1734,7 @@ Mort-nés
 
 |
 
-Interventions sur la rate, niveau 1
+Interventions sur la rate, niveau 1.
 
 |
 
@@ -1748,7 +1746,7 @@ Interventions sur la rate, niveau 1
 
 |
 
-Interventions sur la rate, niveau 2
+Interventions sur la rate, niveau 2.
 
 |
 
@@ -1760,7 +1758,7 @@ Interventions sur la rate, niveau 2
 
 |
 
-Interventions sur la rate, niveau 3
+Interventions sur la rate, niveau 3.
 
 |
 
@@ -1772,7 +1770,7 @@ Interventions sur la rate, niveau 3
 
 |
 
-Interventions sur la rate, niveau 4
+Interventions sur la rate, niveau 4.
 
 |
 
@@ -1784,7 +1782,7 @@ Interventions sur la rate, niveau 4
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1.
 
 |
 
@@ -1796,7 +1794,7 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2.
 
 |
 
@@ -1808,7 +1806,7 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3.
 
 |
 
@@ -1820,7 +1818,7 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4.
 
 |
 
@@ -1832,7 +1830,7 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire
+Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire.
 
 |
 
@@ -1844,7 +1842,7 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Affections de la rate, niveau 1
+Affections de la rate, niveau 1.
 
 |
 
@@ -1856,7 +1854,7 @@ Affections de la rate, niveau 1
 
 |
 
-Affections de la rate, niveau 2
+Affections de la rate, niveau 2.
 
 |
 
@@ -1868,7 +1866,7 @@ Affections de la rate, niveau 2
 
 |
 
-Affections de la rate, niveau 3
+Affections de la rate, niveau 3.
 
 |
 
@@ -1880,7 +1878,7 @@ Affections de la rate, niveau 3
 
 |
 
-Affections de la rate, niveau 4
+Affections de la rate, niveau 4.
 
 |
 
@@ -1892,7 +1890,7 @@ Affections de la rate, niveau 4
 
 |
 
-Affections de la rate, très courte durée
+Affections de la rate, très courte durée.
 
 |
 
@@ -1904,7 +1902,7 @@ Affections de la rate, très courte durée
 
 |
 
-Donneurs de moelle, niveau 1
+Donneurs de moelle, niveau 1.
 
 |
 
@@ -1916,7 +1914,7 @@ Donneurs de moelle, niveau 1
 
 |
 
-Donneurs de moelle, niveau 2
+Donneurs de moelle, niveau 2.
 
 |
 
@@ -1928,7 +1926,7 @@ Donneurs de moelle, niveau 2
 
 |
 
-Donneurs de moelle, niveau 3
+Donneurs de moelle, niveau 3.
 
 |
 
@@ -1940,7 +1938,7 @@ Donneurs de moelle, niveau 3
 
 |
 
-Donneurs de moelle, niveau 4
+Donneurs de moelle, niveau 4.
 
 |
 
@@ -1952,7 +1950,7 @@ Donneurs de moelle, niveau 4
 
 |
 
-Déficits immunitaires, niveau 1
+Déficits immunitaires, niveau 1.
 
 |
 
@@ -1964,7 +1962,7 @@ Déficits immunitaires, niveau 1
 
 |
 
-Déficits immunitaires, niveau 2
+Déficits immunitaires, niveau 2.
 
 |
 
@@ -1976,7 +1974,7 @@ Déficits immunitaires, niveau 2
 
 |
 
-Déficits immunitaires, niveau 3
+Déficits immunitaires, niveau 3.
 
 |
 
@@ -1988,7 +1986,7 @@ Déficits immunitaires, niveau 3
 
 |
 
-Déficits immunitaires, niveau 4
+Déficits immunitaires, niveau 4.
 
 |
 
@@ -2000,7 +1998,7 @@ Déficits immunitaires, niveau 4
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 1
+Autres affections du système réticuloendothélial ou immunitaire, niveau 1.
 
 |
 
@@ -2012,7 +2010,7 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 1
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 2
+Autres affections du système réticuloendothélial ou immunitaire, niveau 2.
 
 |
 
@@ -2024,7 +2022,7 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 2
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 3
+Autres affections du système réticuloendothélial ou immunitaire, niveau 3.
 
 |
 
@@ -2036,7 +2034,7 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 3
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 4
+Autres affections du système réticuloendothélial ou immunitaire, niveau 4.
 
 |
 
@@ -2048,7 +2046,7 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 4
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, très courte durée
+Autres affections du système réticuloendothélial ou immunitaire, très courte durée.
 
 |
 
@@ -2060,7 +2058,7 @@ Autres affections du système réticuloendothélial ou immunitaire, très courte
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2072,7 +2070,7 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2084,7 +2082,7 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2096,7 +2094,7 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2108,7 +2106,7 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2120,7 +2118,7 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2132,7 +2130,7 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2144,7 +2142,7 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2156,7 +2154,7 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2168,7 +2166,7 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2180,7 +2178,7 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très 
 
 |
 
-Purpuras, niveau 1
+Purpuras, niveau 1.
 
 |
 
@@ -2192,7 +2190,7 @@ Purpuras, niveau 1
 
 |
 
-Purpuras, niveau 2
+Purpuras, niveau 2.
 
 |
 
@@ -2204,7 +2202,7 @@ Purpuras, niveau 2
 
 |
 
-Purpuras, niveau 3
+Purpuras, niveau 3.
 
 |
 
@@ -2216,7 +2214,7 @@ Purpuras, niveau 3
 
 |
 
-Purpuras, niveau 4
+Purpuras, niveau 4.
 
 |
 
@@ -2228,7 +2226,7 @@ Purpuras, niveau 4
 
 |
 
-Purpuras, très courte durée
+Purpuras, très courte durée.
 
 |
 
@@ -2240,7 +2238,7 @@ Purpuras, très courte durée
 
 |
 
-Autres troubles de la coagulation, niveau 1
+Autres troubles de la coagulation, niveau 1.
 
 |
 
@@ -2252,7 +2250,7 @@ Autres troubles de la coagulation, niveau 1
 
 |
 
-Autres troubles de la coagulation, niveau 2
+Autres troubles de la coagulation, niveau 2.
 
 |
 
@@ -2264,7 +2262,7 @@ Autres troubles de la coagulation, niveau 2
 
 |
 
-Autres troubles de la coagulation, niveau 3
+Autres troubles de la coagulation, niveau 3.
 
 |
 
@@ -2276,7 +2274,7 @@ Autres troubles de la coagulation, niveau 3
 
 |
 
-Autres troubles de la coagulation, niveau 4
+Autres troubles de la coagulation, niveau 4.
 
 |
 
@@ -2288,7 +2286,7 @@ Autres troubles de la coagulation, niveau 4
 
 |
 
-Autres troubles de la coagulation, très courte durée
+Autres troubles de la coagulation, très courte durée.
 
 |
 
@@ -2300,7 +2298,7 @@ Autres troubles de la coagulation, très courte durée
 
 |
 
-Explorations et surveillance pour affections du sang et des organes hématopoïétiques
+Explorations et surveillance pour affections du sang et des organes hématopoïétiques.
 
 |
 
@@ -2312,7 +2310,7 @@ Explorations et surveillance pour affections du sang et des organes hématopoï�
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16, très courte durée
+Symptômes et autres recours aux soins de la CMD 16, très courte durée.
 
 |
 
@@ -2324,7 +2322,7 @@ Symptômes et autres recours aux soins de la CMD 16, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16
+Symptômes et autres recours aux soins de la CMD 16.
 
 |
 
@@ -2336,7 +2334,7 @@ Symptômes et autres recours aux soins de la CMD 16
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2348,7 +2346,7 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2360,7 +2358,7 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2372,7 +2370,7 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2384,7 +2382,7 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2396,7 +2394,7 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2408,7 +2406,7 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2420,7 +2418,7 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2432,7 +2430,7 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2444,7 +2442,7 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2456,7 +2454,7 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très 
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 1.
 
 |
 
@@ -2468,7 +2466,7 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 2.
 
 |
 
@@ -2480,7 +2478,7 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 3.
 
 |
 
@@ -2492,7 +2490,7 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 4.
 
 |
 
@@ -2504,7 +2502,7 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 1
+Autres interventions au cours de lymphomes ou de leucémies, niveau 1.
 
 |
 
@@ -2516,7 +2514,7 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 2
+Autres interventions au cours de lymphomes ou de leucémies, niveau 2.
 
 |
 
@@ -2528,7 +2526,7 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 3
+Autres interventions au cours de lymphomes ou de leucémies, niveau 3.
 
 |
 
@@ -2540,7 +2538,7 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 4
+Autres interventions au cours de lymphomes ou de leucémies, niveau 4.
 
 |
 
@@ -2552,7 +2550,7 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
+Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire.
 
 |
 
@@ -2564,7 +2562,7 @@ Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1.
 
 |
 
@@ -2576,7 +2574,7 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2.
 
 |
 
@@ -2588,7 +2586,7 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3.
 
 |
 
@@ -2600,7 +2598,7 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4.
 
 |
 
@@ -2612,7 +2610,7 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1.
 
 |
 
@@ -2624,7 +2622,7 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2.
 
 |
 
@@ -2636,7 +2634,7 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3.
 
 |
 
@@ -2648,7 +2646,7 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4.
 
 |
 
@@ -2660,11 +2658,21 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, en ambulatoire
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, en ambulatoire.
 
 |
 
-6470
+6525
+
+|
+
+|
+
+Autres irradiations, niveau 1.
+
+|
+
+6524
 
 |
 
@@ -2672,7 +2680,7 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres irradiations, niveau 1
+Autres irradiations, niveau 1.
 
 |
 
@@ -2682,7 +2690,17 @@ Autres irradiations, niveau 1
 
 |
 
-Autres irradiations, niveau 1
+Autres irradiations, niveau 1.
+
+|
+
+6470
+
+|
+
+|
+
+Autres irradiations, niveau 1.
 
 |
 
@@ -2694,7 +2712,7 @@ Autres irradiations, niveau 1
 
 |
 
-Autres irradiations, niveau 2
+Autres irradiations, niveau 2.
 
 |
 
@@ -2706,7 +2724,7 @@ Autres irradiations, niveau 2
 
 |
 
-Autres irradiations, niveau 3
+Autres irradiations, niveau 3.
 
 |
 
@@ -2718,7 +2736,7 @@ Autres irradiations, niveau 3
 
 |
 
-Autres irradiations, niveau 4
+Autres irradiations, niveau 4.
 
 |
 
@@ -2730,7 +2748,7 @@ Autres irradiations, niveau 4
 
 |
 
-Curiethérapies de la prostate, niveau 1
+Curiethérapies de la prostate, niveau 1.
 
 |
 
@@ -2742,7 +2760,7 @@ Curiethérapies de la prostate, niveau 1
 
 |
 
-Curiethérapies de la prostate, niveau 2
+Curiethérapies de la prostate, niveau 2.
 
 |
 
@@ -2754,7 +2772,7 @@ Curiethérapies de la prostate, niveau 2
 
 |
 
-Curiethérapies de la prostate, niveau 3
+Curiethérapies de la prostate, niveau 3.
 
 |
 
@@ -2766,7 +2784,7 @@ Curiethérapies de la prostate, niveau 3
 
 |
 
-Curiethérapies de la prostate, niveau 4
+Curiethérapies de la prostate, niveau 4.
 
 |
 
@@ -2778,7 +2796,7 @@ Curiethérapies de la prostate, niveau 4
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 1
+Autres curiethérapies et irradiations internes, niveau 1.
 
 |
 
@@ -2790,7 +2808,7 @@ Autres curiethérapies et irradiations internes, niveau 1
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 2
+Autres curiethérapies et irradiations internes, niveau 2.
 
 |
 
@@ -2802,7 +2820,7 @@ Autres curiethérapies et irradiations internes, niveau 2
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 3
+Autres curiethérapies et irradiations internes, niveau 3.
 
 |
 
@@ -2814,7 +2832,7 @@ Autres curiethérapies et irradiations internes, niveau 3
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 4
+Autres curiethérapies et irradiations internes, niveau 4.
 
 |
 
@@ -2826,7 +2844,7 @@ Autres curiethérapies et irradiations internes, niveau 4
 
 |
 
-Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire
+Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire.
 
 |
 
@@ -2838,7 +2856,7 @@ Affections myéloprolifératives et tumeurs de siège imprécis sans acte opéra
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 1
+Chimiothérapie pour leucémie aiguë, niveau 1.
 
 |
 
@@ -2850,7 +2868,7 @@ Chimiothérapie pour leucémie aiguë, niveau 1
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 2
+Chimiothérapie pour leucémie aiguë, niveau 2.
 
 |
 
@@ -2862,7 +2880,7 @@ Chimiothérapie pour leucémie aiguë, niveau 2
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 3
+Chimiothérapie pour leucémie aiguë, niveau 3.
 
 |
 
@@ -2874,7 +2892,7 @@ Chimiothérapie pour leucémie aiguë, niveau 3
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 4
+Chimiothérapie pour leucémie aiguë, niveau 4.
 
 |
 
@@ -2886,7 +2904,7 @@ Chimiothérapie pour leucémie aiguë, niveau 4
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 1
+Chimiothérapie pour autre tumeur, niveau 1.
 
 |
 
@@ -2898,7 +2916,7 @@ Chimiothérapie pour autre tumeur, niveau 1
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 2
+Chimiothérapie pour autre tumeur, niveau 2.
 
 |
 
@@ -2910,7 +2928,7 @@ Chimiothérapie pour autre tumeur, niveau 2
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 3
+Chimiothérapie pour autre tumeur, niveau 3.
 
 |
 
@@ -2922,7 +2940,7 @@ Chimiothérapie pour autre tumeur, niveau 3
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 4
+Chimiothérapie pour autre tumeur, niveau 4.
 
 |
 
@@ -2934,7 +2952,7 @@ Chimiothérapie pour autre tumeur, niveau 4
 
 |
 
-Chimiothérapie pour autre tumeur, très courte durée
+Chimiothérapie pour autre tumeur, très courte durée.
 
 |
 
@@ -2946,7 +2964,7 @@ Chimiothérapie pour autre tumeur, très courte durée
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1.
 
 |
 
@@ -2958,7 +2976,7 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2.
 
 |
 
@@ -2970,7 +2988,7 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3.
 
 |
 
@@ -2982,7 +3000,7 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4.
 
 |
 
@@ -2994,7 +3012,7 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée.
 
 |
 
@@ -3006,7 +3024,7 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 1
+Leucémies aiguës, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3018,7 +3036,7 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 1
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 2
+Leucémies aiguës, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3030,7 +3048,7 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 2
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 3
+Leucémies aiguës, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3042,7 +3060,7 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 3
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 4
+Leucémies aiguës, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3054,7 +3072,7 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 4
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, très courte durée
+Leucémies aiguës, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -3066,7 +3084,7 @@ Leucémies aiguës, âge inférieur à 18 ans, très courte durée
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 1
+Leucémies aiguës, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3078,7 +3096,7 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 1
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 2
+Leucémies aiguës, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3090,7 +3108,7 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 2
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 3
+Leucémies aiguës, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3102,7 +3120,7 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 3
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 4
+Leucémies aiguës, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3114,7 +3132,7 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 4
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, très courte durée
+Leucémies aiguës, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3126,7 +3144,7 @@ Leucémies aiguës, âge supérieur à 17 ans, très courte durée
 
 |
 
-Autres leucémies, niveau 1
+Autres leucémies, niveau 1.
 
 |
 
@@ -3138,7 +3156,7 @@ Autres leucémies, niveau 1
 
 |
 
-Autres leucémies, niveau 2
+Autres leucémies, niveau 2.
 
 |
 
@@ -3150,7 +3168,7 @@ Autres leucémies, niveau 2
 
 |
 
-Autres leucémies, niveau 3
+Autres leucémies, niveau 3.
 
 |
 
@@ -3162,7 +3180,7 @@ Autres leucémies, niveau 3
 
 |
 
-Autres leucémies, niveau 4
+Autres leucémies, niveau 4.
 
 |
 
@@ -3174,7 +3192,7 @@ Autres leucémies, niveau 4
 
 |
 
-Autres leucémies, très courte durée
+Autres leucémies, très courte durée.
 
 |
 
@@ -3186,7 +3204,7 @@ Autres leucémies, très courte durée
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 1
+Lymphomes et autres affections malignes hématopoïétiques, niveau 1.
 
 |
 
@@ -3198,7 +3216,7 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 1
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 2
+Lymphomes et autres affections malignes hématopoïétiques, niveau 2.
 
 |
 
@@ -3210,7 +3228,7 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 2
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 3
+Lymphomes et autres affections malignes hématopoïétiques, niveau 3.
 
 |
 
@@ -3222,7 +3240,7 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 3
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 4
+Lymphomes et autres affections malignes hématopoïétiques, niveau 4.
 
 |
 
@@ -3234,7 +3252,7 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 4
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, très courte durée
+Lymphomes et autres affections malignes hématopoïétiques, très courte durée.
 
 |
 
@@ -3246,7 +3264,7 @@ Lymphomes et autres affections malignes hématopoiètiques, très courte durée
 
 |
 
-Polyglobulies, niveau 1
+Polyglobulies, niveau 1.
 
 |
 
@@ -3258,7 +3276,7 @@ Polyglobulies, niveau 1
 
 |
 
-Polyglobulies, niveau 2
+Polyglobulies, niveau 2.
 
 |
 
@@ -3270,7 +3288,7 @@ Polyglobulies, niveau 2
 
 |
 
-Polyglobulies, niveau 3
+Polyglobulies, niveau 3.
 
 |
 
@@ -3282,7 +3300,7 @@ Polyglobulies, niveau 3
 
 |
 
-Polyglobulies, niveau 4
+Polyglobulies, niveau 4.
 
 |
 
@@ -3294,7 +3312,7 @@ Polyglobulies, niveau 4
 
 |
 
-Polyglobulies, très courte durée
+Polyglobulies, très courte durée.
 
 |
 
@@ -3306,7 +3324,7 @@ Polyglobulies, très courte durée
 
 |
 
-Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus.
 
 |
 
@@ -3318,7 +3336,7 @@ Explorations et surveillance pour affections myéloprolifératives et tumeurs de
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 1
+Interventions pour maladies infectieuses ou parasitaires, niveau 1.
 
 |
 
@@ -3330,7 +3348,7 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 1
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 2
+Interventions pour maladies infectieuses ou parasitaires, niveau 2.
 
 |
 
@@ -3342,7 +3360,7 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 2
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 3
+Interventions pour maladies infectieuses ou parasitaires, niveau 3.
 
 |
 
@@ -3354,7 +3372,7 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 3
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 4
+Interventions pour maladies infectieuses ou parasitaires, niveau 4.
 
 |
 
@@ -3366,7 +3384,7 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 4
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
+Interventions pour maladies infectieuses ou parasitaires, en ambulatoire.
 
 |
 
@@ -3378,7 +3396,7 @@ Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1.
 
 |
 
@@ -3390,7 +3408,7 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2.
 
 |
 
@@ -3402,7 +3420,7 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3.
 
 |
 
@@ -3414,7 +3432,7 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4.
 
 |
 
@@ -3426,7 +3444,7 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 1
+Maladies virales, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3438,7 +3456,7 @@ Maladies virales, âge supérieur à 17 ans, niveau 1
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 2
+Maladies virales, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3450,7 +3468,7 @@ Maladies virales, âge supérieur à 17 ans, niveau 2
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 3
+Maladies virales, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3462,7 +3480,7 @@ Maladies virales, âge supérieur à 17 ans, niveau 3
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 4
+Maladies virales, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3474,7 +3492,7 @@ Maladies virales, âge supérieur à 17 ans, niveau 4
 
 |
 
-Maladies virales, âge supérieur à 17 ans, très courte durée
+Maladies virales, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3486,7 +3504,7 @@ Maladies virales, âge supérieur à 17 ans, très courte durée
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3498,7 +3516,7 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3510,7 +3528,7 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3522,7 +3540,7 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3534,7 +3552,7 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3546,7 +3564,7 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte du
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 1
+Septicémies, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3558,7 +3576,7 @@ Septicémies, âge inférieur à 18 ans, niveau 1
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 2
+Septicémies, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3570,7 +3588,7 @@ Septicémies, âge inférieur à 18 ans, niveau 2
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 3
+Septicémies, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3582,7 +3600,7 @@ Septicémies, âge inférieur à 18 ans, niveau 3
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 4
+Septicémies, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3594,7 +3612,7 @@ Septicémies, âge inférieur à 18 ans, niveau 4
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 1
+Septicémies, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3606,7 +3624,7 @@ Septicémies, âge supérieur à 17 ans, niveau 1
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 2
+Septicémies, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3618,7 +3636,7 @@ Septicémies, âge supérieur à 17 ans, niveau 2
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 3
+Septicémies, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3630,7 +3648,7 @@ Septicémies, âge supérieur à 17 ans, niveau 3
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 4
+Septicémies, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3642,7 +3660,7 @@ Septicémies, âge supérieur à 17 ans, niveau 4
 
 |
 
-Septicémies, âge supérieur à 17 ans, très courte durée
+Septicémies, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3654,7 +3672,7 @@ Septicémies, âge supérieur à 17 ans, très courte durée
 
 |
 
-Paludisme, niveau 1
+Paludisme, niveau 1.
 
 |
 
@@ -3666,7 +3684,7 @@ Paludisme, niveau 1
 
 |
 
-Paludisme, niveau 2
+Paludisme, niveau 2.
 
 |
 
@@ -3678,7 +3696,7 @@ Paludisme, niveau 2
 
 |
 
-Paludisme, niveau 3
+Paludisme, niveau 3.
 
 |
 
@@ -3690,7 +3708,7 @@ Paludisme, niveau 3
 
 |
 
-Paludisme, niveau 4
+Paludisme, niveau 4.
 
 |
 
@@ -3702,7 +3720,7 @@ Paludisme, niveau 4
 
 |
 
-Paludisme, très courte durée
+Paludisme, très courte durée.
 
 |
 
@@ -3714,7 +3732,7 @@ Paludisme, très courte durée
 
 |
 
-Maladies infectieuses sévères, niveau 1
+Maladies infectieuses sévères, niveau 1.
 
 |
 
@@ -3726,7 +3744,7 @@ Maladies infectieuses sévères, niveau 1
 
 |
 
-Maladies infectieuses sévères, niveau 2
+Maladies infectieuses sévères, niveau 2.
 
 |
 
@@ -3738,7 +3756,7 @@ Maladies infectieuses sévères, niveau 2
 
 |
 
-Maladies infectieuses sévères, niveau 3
+Maladies infectieuses sévères, niveau 3.
 
 |
 
@@ -3750,7 +3768,7 @@ Maladies infectieuses sévères, niveau 3
 
 |
 
-Maladies infectieuses sévères, niveau 4
+Maladies infectieuses sévères, niveau 4.
 
 |
 
@@ -3762,7 +3780,7 @@ Maladies infectieuses sévères, niveau 4
 
 |
 
-Maladies infectieuses sévères, très courte durée
+Maladies infectieuses sévères, très courte durée.
 
 |
 
@@ -3774,7 +3792,7 @@ Maladies infectieuses sévères, très courte durée
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 1
+Autres maladies infectieuses ou parasitaires, niveau 1.
 
 |
 
@@ -3786,7 +3804,7 @@ Autres maladies infectieuses ou parasitaires, niveau 1
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 2
+Autres maladies infectieuses ou parasitaires, niveau 2.
 
 |
 
@@ -3798,7 +3816,7 @@ Autres maladies infectieuses ou parasitaires, niveau 2
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 3
+Autres maladies infectieuses ou parasitaires, niveau 3.
 
 |
 
@@ -3810,7 +3828,7 @@ Autres maladies infectieuses ou parasitaires, niveau 3
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 4
+Autres maladies infectieuses ou parasitaires, niveau 4.
 
 |
 
@@ -3822,7 +3840,7 @@ Autres maladies infectieuses ou parasitaires, niveau 4
 
 |
 
-Autres maladies infectieuses ou parasitaires, très courte durée
+Autres maladies infectieuses ou parasitaires, très courte durée.
 
 |
 
@@ -3834,7 +3852,7 @@ Autres maladies infectieuses ou parasitaires, très courte durée
 
 |
 
-Explorations et surveillance pour maladies infectieuses ou parasitaires
+Explorations et surveillance pour maladies infectieuses ou parasitaires.
 
 |
 
@@ -3846,7 +3864,7 @@ Explorations et surveillance pour maladies infectieuses ou parasitaires
 
 |
 
-Affections de la CMD 18 avec décès : séjours de moins de 2 jours
+Affections de la CMD 18 avec décès : séjours de moins de 2 jours.
 
 |
 
@@ -3858,7 +3876,7 @@ Affections de la CMD 18 avec décès : séjours de moins de 2 jours
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18, très courte durée
+Symptômes et autres recours aux soins de la CMD 18, très courte durée.
 
 |
 
@@ -3870,7 +3888,7 @@ Symptômes et autres recours aux soins de la CMD 18, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18
+Symptômes et autres recours aux soins de la CMD 18.
 
 |
 
@@ -3882,7 +3900,7 @@ Symptômes et autres recours aux soins de la CMD 18
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1.
 
 |
 
@@ -3894,7 +3912,7 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2.
 
 |
 
@@ -3906,7 +3924,7 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3.
 
 |
 
@@ -3918,7 +3936,7 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4.
 
 |
 
@@ -3930,7 +3948,7 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1.
 
 |
 
@@ -3942,7 +3960,7 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2.
 
 |
 
@@ -3954,7 +3972,7 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3.
 
 |
 
@@ -3966,7 +3984,7 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4.
 
 |
 
@@ -3978,7 +3996,7 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée.
 
 |
 
@@ -3990,7 +4008,7 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte d
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1.
 
 |
 
@@ -4002,7 +4020,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2.
 
 |
 
@@ -4014,7 +4032,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3.
 
 |
 
@@ -4026,7 +4044,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4.
 
 |
 
@@ -4038,7 +4056,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée.
 
 |
 
@@ -4050,7 +4068,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1.
 
 |
 
@@ -4062,7 +4080,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2.
 
 |
 
@@ -4074,7 +4092,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3.
 
 |
 
@@ -4086,7 +4104,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4.
 
 |
 
@@ -4098,7 +4116,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée.
 
 |
 
@@ -4110,7 +4128,7 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Névroses autres que les névroses dépressives, niveau 1
+Névroses autres que les névroses dépressives, niveau 1.
 
 |
 
@@ -4122,7 +4140,7 @@ Névroses autres que les névroses dépressives, niveau 1
 
 |
 
-Névroses autres que les névroses dépressives, niveau 2
+Névroses autres que les névroses dépressives, niveau 2.
 
 |
 
@@ -4134,7 +4152,7 @@ Névroses autres que les névroses dépressives, niveau 2
 
 |
 
-Névroses autres que les névroses dépressives, niveau 3
+Névroses autres que les névroses dépressives, niveau 3.
 
 |
 
@@ -4146,7 +4164,7 @@ Névroses autres que les névroses dépressives, niveau 3
 
 |
 
-Névroses autres que les névroses dépressives, niveau 4
+Névroses autres que les névroses dépressives, niveau 4.
 
 |
 
@@ -4158,7 +4176,7 @@ Névroses autres que les névroses dépressives, niveau 4
 
 |
 
-Névroses autres que les névroses dépressives, très courte durée
+Névroses autres que les névroses dépressives, très courte durée.
 
 |
 
@@ -4170,7 +4188,7 @@ Névroses autres que les névroses dépressives, très courte durée
 
 |
 
-Névroses dépressives, niveau 1
+Névroses dépressives, niveau 1.
 
 |
 
@@ -4182,7 +4200,7 @@ Névroses dépressives, niveau 1
 
 |
 
-Névroses dépressives, niveau 2
+Névroses dépressives, niveau 2.
 
 |
 
@@ -4194,7 +4212,7 @@ Névroses dépressives, niveau 2
 
 |
 
-Névroses dépressives, niveau 3
+Névroses dépressives, niveau 3.
 
 |
 
@@ -4206,7 +4224,7 @@ Névroses dépressives, niveau 3
 
 |
 
-Névroses dépressives, niveau 4
+Névroses dépressives, niveau 4.
 
 |
 
@@ -4218,7 +4236,7 @@ Névroses dépressives, niveau 4
 
 |
 
-Névroses dépressives, très courte durée
+Névroses dépressives, très courte durée.
 
 |
 
@@ -4230,7 +4248,7 @@ Névroses dépressives, très courte durée
 
 |
 
-Anorexie mentale et boulimie, niveau 1
+Anorexie mentale et boulimie, niveau 1.
 
 |
 
@@ -4242,7 +4260,7 @@ Anorexie mentale et boulimie, niveau 1
 
 |
 
-Anorexie mentale et boulimie, niveau 2
+Anorexie mentale et boulimie, niveau 2.
 
 |
 
@@ -4254,7 +4272,7 @@ Anorexie mentale et boulimie, niveau 2
 
 |
 
-Anorexie mentale et boulimie, niveau 3
+Anorexie mentale et boulimie, niveau 3.
 
 |
 
@@ -4266,7 +4284,7 @@ Anorexie mentale et boulimie, niveau 3
 
 |
 
-Anorexie mentale et boulimie, niveau 4
+Anorexie mentale et boulimie, niveau 4.
 
 |
 
@@ -4278,7 +4296,7 @@ Anorexie mentale et boulimie, niveau 4
 
 |
 
-Anorexie mentale et boulimie, très courte durée
+Anorexie mentale et boulimie, très courte durée.
 
 |
 
@@ -4290,7 +4308,7 @@ Anorexie mentale et boulimie, très courte durée
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1.
 
 |
 
@@ -4302,7 +4320,7 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2.
 
 |
 
@@ -4314,7 +4332,7 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3.
 
 |
 
@@ -4326,7 +4344,7 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4.
 
 |
 
@@ -4338,7 +4356,7 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée
+Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée.
 
 |
 
@@ -4350,7 +4368,7 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 1
+Troubles bipolaires et syndromes dépressifs sévères, niveau 1.
 
 |
 
@@ -4362,7 +4380,7 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 1
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 2
+Troubles bipolaires et syndromes dépressifs sévères, niveau 2.
 
 |
 
@@ -4374,7 +4392,7 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 2
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 3
+Troubles bipolaires et syndromes dépressifs sévères, niveau 3.
 
 |
 
@@ -4386,7 +4404,7 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 3
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 4
+Troubles bipolaires et syndromes dépressifs sévères, niveau 4.
 
 |
 
@@ -4398,7 +4416,7 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 4
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, très courte durée
+Troubles bipolaires et syndromes dépressifs sévères, très courte durée.
 
 |
 
@@ -4410,7 +4428,7 @@ Troubles bipolaires et syndromes dépressifs sévères, très courte durée
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 1
+Autres psychoses, âge supérieur à 79 ans, niveau 1.
 
 |
 
@@ -4422,7 +4440,7 @@ Autres psychoses, âge supérieur à 79 ans, niveau 1
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 2
+Autres psychoses, âge supérieur à 79 ans, niveau 2.
 
 |
 
@@ -4434,7 +4452,7 @@ Autres psychoses, âge supérieur à 79 ans, niveau 2
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 3
+Autres psychoses, âge supérieur à 79 ans, niveau 3.
 
 |
 
@@ -4446,7 +4464,7 @@ Autres psychoses, âge supérieur à 79 ans, niveau 3
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 4
+Autres psychoses, âge supérieur à 79 ans, niveau 4.
 
 |
 
@@ -4458,7 +4476,7 @@ Autres psychoses, âge supérieur à 79 ans, niveau 4
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, très courte durée
+Autres psychoses, âge supérieur à 79 ans, très courte durée.
 
 |
 
@@ -4470,7 +4488,7 @@ Autres psychoses, âge supérieur à 79 ans, très courte durée
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 1
+Autres psychoses, âge inférieur à 80 ans, niveau 1.
 
 |
 
@@ -4482,7 +4500,7 @@ Autres psychoses, âge inférieur à 80 ans, niveau 1
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 2
+Autres psychoses, âge inférieur à 80 ans, niveau 2.
 
 |
 
@@ -4494,7 +4512,7 @@ Autres psychoses, âge inférieur à 80 ans, niveau 2
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 3
+Autres psychoses, âge inférieur à 80 ans, niveau 3.
 
 |
 
@@ -4506,7 +4524,7 @@ Autres psychoses, âge inférieur à 80 ans, niveau 3
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 4
+Autres psychoses, âge inférieur à 80 ans, niveau 4.
 
 |
 
@@ -4518,7 +4536,7 @@ Autres psychoses, âge inférieur à 80 ans, niveau 4
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, très courte durée
+Autres psychoses, âge inférieur à 80 ans, très courte durée.
 
 |
 
@@ -4530,7 +4548,7 @@ Autres psychoses, âge inférieur à 80 ans, très courte durée
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 1
+Maladies et troubles du développement psychologiques de l'enfance, niveau 1.
 
 |
 
@@ -4542,7 +4560,7 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 1
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 2
+Maladies et troubles du développement psychologiques de l'enfance, niveau 2.
 
 |
 
@@ -4554,7 +4572,7 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 2
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 3
+Maladies et troubles du développement psychologiques de l'enfance, niveau 3.
 
 |
 
@@ -4566,7 +4584,7 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 3
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 4
+Maladies et troubles du développement psychologiques de l'enfance, niveau 4.
 
 |
 
@@ -4578,7 +4596,7 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 4
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 1
+Autres maladies et troubles mentaux de l'enfance, niveau 1.
 
 |
 
@@ -4590,7 +4608,7 @@ Autres maladies et troubles mentaux de l'enfance, niveau 1
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 2
+Autres maladies et troubles mentaux de l'enfance, niveau 2.
 
 |
 
@@ -4602,7 +4620,7 @@ Autres maladies et troubles mentaux de l'enfance, niveau 2
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 3
+Autres maladies et troubles mentaux de l'enfance, niveau 3.
 
 |
 
@@ -4614,7 +4632,7 @@ Autres maladies et troubles mentaux de l'enfance, niveau 3
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 4
+Autres maladies et troubles mentaux de l'enfance, niveau 4.
 
 |
 
@@ -4626,7 +4644,7 @@ Autres maladies et troubles mentaux de l'enfance, niveau 4
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, très courte durée
+Autres maladies et troubles mentaux de l'enfance, très courte durée.
 
 |
 
@@ -4638,7 +4656,7 @@ Autres maladies et troubles mentaux de l'enfance, très courte durée
 
 |
 
-Troubles de l'humeur, niveau 1
+Troubles de l'humeur, niveau 1.
 
 |
 
@@ -4650,7 +4668,7 @@ Troubles de l'humeur, niveau 1
 
 |
 
-Troubles de l'humeur, niveau 2
+Troubles de l'humeur, niveau 2.
 
 |
 
@@ -4662,7 +4680,7 @@ Troubles de l'humeur, niveau 2
 
 |
 
-Troubles de l'humeur, niveau 3
+Troubles de l'humeur, niveau 3.
 
 |
 
@@ -4674,7 +4692,7 @@ Troubles de l'humeur, niveau 3
 
 |
 
-Troubles de l'humeur, niveau 4
+Troubles de l'humeur, niveau 4.
 
 |
 
@@ -4686,7 +4704,7 @@ Troubles de l'humeur, niveau 4
 
 |
 
-Troubles de l'humeur, très courte durée
+Troubles de l'humeur, très courte durée.
 
 |
 
@@ -4698,7 +4716,7 @@ Troubles de l'humeur, très courte durée
 
 |
 
-Autres troubles mentaux, niveau 1
+Autres troubles mentaux, niveau 1.
 
 |
 
@@ -4710,7 +4728,7 @@ Autres troubles mentaux, niveau 1
 
 |
 
-Autres troubles mentaux, niveau 2
+Autres troubles mentaux, niveau 2.
 
 |
 
@@ -4722,7 +4740,7 @@ Autres troubles mentaux, niveau 2
 
 |
 
-Autres troubles mentaux, niveau 3
+Autres troubles mentaux, niveau 3.
 
 |
 
@@ -4734,7 +4752,7 @@ Autres troubles mentaux, niveau 3
 
 |
 
-Autres troubles mentaux, niveau 4
+Autres troubles mentaux, niveau 4.
 
 |
 
@@ -4746,7 +4764,7 @@ Autres troubles mentaux, niveau 4
 
 |
 
-Autres troubles mentaux, très courte durée
+Autres troubles mentaux, très courte durée.
 
 |
 
@@ -4758,7 +4776,7 @@ Autres troubles mentaux, très courte durée
 
 |
 
-Explorations et surveillance pour maladies et troubles mentaux
+Explorations et surveillance pour maladies et troubles mentaux.
 
 |
 
@@ -4770,7 +4788,7 @@ Explorations et surveillance pour maladies et troubles mentaux
 
 |
 
-Symptômes et autres recours aux soins de la CMD 19, très courte durée
+Symptômes et autres recours aux soins de la CMD 19, très courte durée.
 
 |
 
@@ -4782,6 +4800,6 @@ Symptômes et autres recours aux soins de la CMD 19, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 19
+Symptômes et autres recours aux soins de la CMD 19.
 
 |

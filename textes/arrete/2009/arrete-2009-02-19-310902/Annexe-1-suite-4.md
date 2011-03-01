@@ -10,7 +10,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1.
 
 |
 
@@ -22,7 +22,7 @@ Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau
 
 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 2.
 
 |
 
@@ -34,7 +34,7 @@ Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau
 
 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 3.
 
 |
 
@@ -46,7 +46,7 @@ Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau
 
 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 4.
 
 |
 
@@ -58,7 +58,7 @@ Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau
 
 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire.
 
 |
 
@@ -70,7 +70,7 @@ Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en amb
 
 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1.
 
 |
 
@@ -82,7 +82,7 @@ Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et c
 
 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2.
 
 |
 
@@ -94,7 +94,7 @@ Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et c
 
 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3.
 
 |
 
@@ -106,7 +106,7 @@ Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et c
 
 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4.
 
 |
 
@@ -118,7 +118,7 @@ Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et c
 
 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire.
 
 |
 
@@ -130,7 +130,7 @@ Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et c
 
 |
 
-Mastectomies totales pour tumeur maligne, niveau 1
+Mastectomies totales pour tumeur maligne, niveau 1.
 
 |
 
@@ -142,7 +142,7 @@ Mastectomies totales pour tumeur maligne, niveau 1
 
 |
 
-Mastectomies totales pour tumeur maligne, niveau 2
+Mastectomies totales pour tumeur maligne, niveau 2.
 
 |
 
@@ -154,7 +154,7 @@ Mastectomies totales pour tumeur maligne, niveau 2
 
 |
 
-Mastectomies totales pour tumeur maligne, niveau 3
+Mastectomies totales pour tumeur maligne, niveau 3.
 
 |
 
@@ -166,7 +166,7 @@ Mastectomies totales pour tumeur maligne, niveau 3
 
 |
 
-Mastectomies totales pour tumeur maligne, niveau 4
+Mastectomies totales pour tumeur maligne, niveau 4.
 
 |
 
@@ -178,7 +178,7 @@ Mastectomies totales pour tumeur maligne, niveau 4
 
 |
 
-Mastectomies subtotales pour tumeur maligne, niveau 1
+Mastectomies subtotales pour tumeur maligne, niveau 1.
 
 |
 
@@ -190,7 +190,7 @@ Mastectomies subtotales pour tumeur maligne, niveau 1
 
 |
 
-Mastectomies subtotales pour tumeur maligne, niveau 2
+Mastectomies subtotales pour tumeur maligne, niveau 2.
 
 |
 
@@ -202,7 +202,7 @@ Mastectomies subtotales pour tumeur maligne, niveau 2
 
 |
 
-Mastectomies subtotales pour tumeur maligne, niveau 3
+Mastectomies subtotales pour tumeur maligne, niveau 3.
 
 |
 
@@ -214,7 +214,7 @@ Mastectomies subtotales pour tumeur maligne, niveau 3
 
 |
 
-Mastectomies subtotales pour tumeur maligne, niveau 4
+Mastectomies subtotales pour tumeur maligne, niveau 4.
 
 |
 
@@ -226,7 +226,7 @@ Mastectomies subtotales pour tumeur maligne, niveau 4
 
 |
 
-Mastectomies subtotales pour tumeur maligne, en ambulatoire
+Mastectomies subtotales pour tumeur maligne, en ambulatoire.
 
 |
 
@@ -238,7 +238,7 @@ Mastectomies subtotales pour tumeur maligne, en ambulatoire
 
 |
 
-Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 1
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 1.
 
 |
 
@@ -250,7 +250,7 @@ Interventions sur le sein pour des affections non malignes autres que les actes 
 
 |
 
-Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 2
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 2.
 
 |
 
@@ -262,7 +262,7 @@ Interventions sur le sein pour des affections non malignes autres que les actes 
 
 |
 
-Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 3
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 3.
 
 |
 
@@ -274,7 +274,7 @@ Interventions sur le sein pour des affections non malignes autres que les actes 
 
 |
 
-Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 4
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 4.
 
 |
 
@@ -286,7 +286,7 @@ Interventions sur le sein pour des affections non malignes autres que les actes 
 
 |
 
-Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, très courte durée
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, très courte durée.
 
 |
 
@@ -298,7 +298,7 @@ Interventions sur le sein pour des affections non malignes autres que les actes 
 
 |
 
-Biopsies et excisions locales pour des affections non malignes du sein, niveau 1
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 1.
 
 |
 
@@ -310,7 +310,7 @@ Biopsies et excisions locales pour des affections non malignes du sein, niveau 1
 
 |
 
-Biopsies et excisions locales pour des affections non malignes du sein, niveau 2
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 2.
 
 |
 
@@ -322,7 +322,7 @@ Biopsies et excisions locales pour des affections non malignes du sein, niveau 2
 
 |
 
-Biopsies et excisions locales pour des affections non malignes du sein, niveau 3
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 3.
 
 |
 
@@ -334,7 +334,7 @@ Biopsies et excisions locales pour des affections non malignes du sein, niveau 3
 
 |
 
-Biopsies et excisions locales pour des affections non malignes du sein, niveau 4
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 4.
 
 |
 
@@ -346,7 +346,7 @@ Biopsies et excisions locales pour des affections non malignes du sein, niveau 4
 
 |
 
-Biopsies et excisions locales pour des affections non malignes du sein, en ambulatoire
+Biopsies et excisions locales pour des affections non malignes du sein, en ambulatoire.
 
 |
 
@@ -358,7 +358,7 @@ Biopsies et excisions locales pour des affections non malignes du sein, en ambul
 
 |
 
-Interventions sur la région anale et périanale, niveau 1
+Interventions sur la région anale et périanale, niveau 1.
 
 |
 
@@ -370,7 +370,7 @@ Interventions sur la région anale et périanale, niveau 1
 
 |
 
-Interventions sur la région anale et périanale, niveau 2
+Interventions sur la région anale et périanale, niveau 2.
 
 |
 
@@ -382,7 +382,7 @@ Interventions sur la région anale et périanale, niveau 2
 
 |
 
-Interventions sur la région anale et périanale, niveau 3
+Interventions sur la région anale et périanale, niveau 3.
 
 |
 
@@ -394,7 +394,7 @@ Interventions sur la région anale et périanale, niveau 3
 
 |
 
-Interventions sur la région anale et périanale, niveau 4
+Interventions sur la région anale et périanale, niveau 4.
 
 |
 
@@ -406,7 +406,7 @@ Interventions sur la région anale et périanale, niveau 4
 
 |
 
-Interventions sur la région anale et périanale, en ambulatoire
+Interventions sur la région anale et périanale, en ambulatoire.
 
 |
 
@@ -418,7 +418,7 @@ Interventions sur la région anale et périanale, en ambulatoire
 
 |
 
-Interventions plastiques en dehors de la chirurgie esthétique, niveau 1
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 1.
 
 |
 
@@ -430,7 +430,7 @@ Interventions plastiques en dehors de la chirurgie esthétique, niveau 1
 
 |
 
-Interventions plastiques en dehors de la chirurgie esthétique, niveau 2
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 2.
 
 |
 
@@ -442,7 +442,7 @@ Interventions plastiques en dehors de la chirurgie esthétique, niveau 2
 
 |
 
-Interventions plastiques en dehors de la chirurgie esthétique, niveau 3
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 3.
 
 |
 
@@ -454,7 +454,7 @@ Interventions plastiques en dehors de la chirurgie esthétique, niveau 3
 
 |
 
-Interventions plastiques en dehors de la chirurgie esthétique, niveau 4
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 4.
 
 |
 
@@ -466,7 +466,7 @@ Interventions plastiques en dehors de la chirurgie esthétique, niveau 4
 
 |
 
-Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire
+Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire.
 
 |
 
@@ -478,7 +478,7 @@ Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire
 
 |
 
-Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 1
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 1.
 
 |
 
@@ -490,7 +490,7 @@ Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 
 
 |
 
-Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 2
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 2.
 
 |
 
@@ -502,7 +502,7 @@ Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 
 
 |
 
-Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 3
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 3.
 
 |
 
@@ -514,7 +514,7 @@ Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 
 
 |
 
-Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 4
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 4.
 
 |
 
@@ -526,19 +526,7 @@ Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 
 
 |
 
-Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambulatoire
-
-|
-
-3358
-
-|
-
-09C111
-
-|
-
-Reconstructions des seins, niveau 1
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambulatoire.
 
 |
 
@@ -546,21 +534,21 @@ Reconstructions des seins, niveau 1
 
 |
 
-|
-
-Reconstructions des seins, niveau 1
+09C111
 
 |
 
-3359
+Reconstructions des seins, niveau 1.
 
 |
 
-09C112
+3358
 
 |
 
-Reconstructions des seins, niveau 2
+|
+
+Reconstructions des seins, niveau 1.
 
 |
 
@@ -568,21 +556,21 @@ Reconstructions des seins, niveau 2
 
 |
 
-|
-
-Reconstructions des seins, niveau 2
+09C112
 
 |
 
-3360
+Reconstructions des seins, niveau 2.
 
 |
 
-09C113
+3359
 
 |
 
-Reconstructions des seins, niveau 3
+|
+
+Reconstructions des seins, niveau 2.
 
 |
 
@@ -590,21 +578,21 @@ Reconstructions des seins, niveau 3
 
 |
 
-|
-
-Reconstructions des seins, niveau 3
+09C113
 
 |
 
-3361
+Reconstructions des seins, niveau 3.
 
 |
 
-09C114
+3360
 
 |
 
-Reconstructions des seins, niveau 4
+|
+
+Reconstructions des seins, niveau 3.
 
 |
 
@@ -612,9 +600,21 @@ Reconstructions des seins, niveau 4
 
 |
 
+09C114
+
 |
 
-Reconstructions des seins, niveau 4
+Reconstructions des seins, niveau 4.
+
+|
+
+3361
+
+|
+
+|
+
+Reconstructions des seins, niveau 4.
 
 |
 
@@ -626,7 +626,7 @@ Reconstructions des seins, niveau 4
 
 |
 
-Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire
+Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire.
 
 |
 
@@ -638,7 +638,7 @@ Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoi
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -650,7 +650,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -662,7 +662,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -674,7 +674,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -686,7 +686,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -698,7 +698,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -710,7 +710,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -722,7 +722,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -734,7 +734,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -746,7 +746,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, 
 
 |
 
-Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -758,7 +758,7 @@ Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, 
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -770,7 +770,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -782,7 +782,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -794,7 +794,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -806,7 +806,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -818,7 +818,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -830,7 +830,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -842,7 +842,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -854,7 +854,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -866,7 +866,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -878,7 +878,7 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Ulcères cutanés, niveau 1
+Ulcères cutanés, niveau 1.
 
 |
 
@@ -890,7 +890,7 @@ Ulcères cutanés, niveau 1
 
 |
 
-Ulcères cutanés, niveau 2
+Ulcères cutanés, niveau 2.
 
 |
 
@@ -902,7 +902,7 @@ Ulcères cutanés, niveau 2
 
 |
 
-Ulcères cutanés, niveau 3
+Ulcères cutanés, niveau 3.
 
 |
 
@@ -914,7 +914,7 @@ Ulcères cutanés, niveau 3
 
 |
 
-Ulcères cutanés, niveau 4
+Ulcères cutanés, niveau 4.
 
 |
 
@@ -926,7 +926,7 @@ Ulcères cutanés, niveau 4
 
 |
 
-Ulcères cutanés, très courte durée
+Ulcères cutanés, très courte durée.
 
 |
 
@@ -938,7 +938,7 @@ Ulcères cutanés, très courte durée
 
 |
 
-Autres affections dermatologiques, niveau 1
+Autres affections dermatologiques, niveau 1.
 
 |
 
@@ -950,7 +950,7 @@ Autres affections dermatologiques, niveau 1
 
 |
 
-Autres affections dermatologiques, niveau 2
+Autres affections dermatologiques, niveau 2.
 
 |
 
@@ -962,7 +962,7 @@ Autres affections dermatologiques, niveau 2
 
 |
 
-Autres affections dermatologiques, niveau 3
+Autres affections dermatologiques, niveau 3.
 
 |
 
@@ -974,7 +974,7 @@ Autres affections dermatologiques, niveau 3
 
 |
 
-Autres affections dermatologiques, niveau 4
+Autres affections dermatologiques, niveau 4.
 
 |
 
@@ -986,7 +986,7 @@ Autres affections dermatologiques, niveau 4
 
 |
 
-Autres affections dermatologiques, très courte durée
+Autres affections dermatologiques, très courte durée.
 
 |
 
@@ -998,7 +998,7 @@ Autres affections dermatologiques, très courte durée
 
 |
 
-Affections dermatologiques sévères, niveau 1
+Affections dermatologiques sévères, niveau 1.
 
 |
 
@@ -1010,7 +1010,7 @@ Affections dermatologiques sévères, niveau 1
 
 |
 
-Affections dermatologiques sévères, niveau 2
+Affections dermatologiques sévères, niveau 2.
 
 |
 
@@ -1022,7 +1022,7 @@ Affections dermatologiques sévères, niveau 2
 
 |
 
-Affections dermatologiques sévères, niveau 3
+Affections dermatologiques sévères, niveau 3.
 
 |
 
@@ -1034,7 +1034,7 @@ Affections dermatologiques sévères, niveau 3
 
 |
 
-Affections dermatologiques sévères, niveau 4
+Affections dermatologiques sévères, niveau 4.
 
 |
 
@@ -1046,7 +1046,7 @@ Affections dermatologiques sévères, niveau 4
 
 |
 
-Affections dermatologiques sévères, très courte durée
+Affections dermatologiques sévères, très courte durée.
 
 |
 
@@ -1058,7 +1058,7 @@ Affections dermatologiques sévères, très courte durée
 
 |
 
-Affections non malignes des seins, niveau 1
+Affections non malignes des seins, niveau 1.
 
 |
 
@@ -1070,7 +1070,7 @@ Affections non malignes des seins, niveau 1
 
 |
 
-Affections non malignes des seins, niveau 2
+Affections non malignes des seins, niveau 2.
 
 |
 
@@ -1082,7 +1082,7 @@ Affections non malignes des seins, niveau 2
 
 |
 
-Affections non malignes des seins, niveau 3
+Affections non malignes des seins, niveau 3.
 
 |
 
@@ -1094,7 +1094,7 @@ Affections non malignes des seins, niveau 3
 
 |
 
-Affections non malignes des seins, niveau 4
+Affections non malignes des seins, niveau 4.
 
 |
 
@@ -1106,7 +1106,7 @@ Affections non malignes des seins, niveau 4
 
 |
 
-Affections non malignes des seins, très courte durée
+Affections non malignes des seins, très courte durée.
 
 |
 
@@ -1118,7 +1118,7 @@ Affections non malignes des seins, très courte durée
 
 |
 
-Tumeurs malignes des seins, niveau 1
+Tumeurs malignes des seins, niveau 1.
 
 |
 
@@ -1130,7 +1130,7 @@ Tumeurs malignes des seins, niveau 1
 
 |
 
-Tumeurs malignes des seins, niveau 2
+Tumeurs malignes des seins, niveau 2.
 
 |
 
@@ -1142,7 +1142,7 @@ Tumeurs malignes des seins, niveau 2
 
 |
 
-Tumeurs malignes des seins, niveau 3
+Tumeurs malignes des seins, niveau 3.
 
 |
 
@@ -1154,7 +1154,7 @@ Tumeurs malignes des seins, niveau 3
 
 |
 
-Tumeurs malignes des seins, niveau 4
+Tumeurs malignes des seins, niveau 4.
 
 |
 
@@ -1166,7 +1166,7 @@ Tumeurs malignes des seins, niveau 4
 
 |
 
-Tumeurs malignes des seins, très courte durée
+Tumeurs malignes des seins, très courte durée.
 
 |
 
@@ -1178,7 +1178,7 @@ Tumeurs malignes des seins, très courte durée
 
 |
 
-Tumeurs de la peau, niveau 1
+Tumeurs de la peau, niveau 1.
 
 |
 
@@ -1190,7 +1190,7 @@ Tumeurs de la peau, niveau 1
 
 |
 
-Tumeurs de la peau, niveau 2
+Tumeurs de la peau, niveau 2.
 
 |
 
@@ -1202,7 +1202,7 @@ Tumeurs de la peau, niveau 2
 
 |
 
-Tumeurs de la peau, niveau 3
+Tumeurs de la peau, niveau 3.
 
 |
 
@@ -1214,7 +1214,7 @@ Tumeurs de la peau, niveau 3
 
 |
 
-Tumeurs de la peau, niveau 4
+Tumeurs de la peau, niveau 4.
 
 |
 
@@ -1226,7 +1226,7 @@ Tumeurs de la peau, niveau 4
 
 |
 
-Tumeurs de la peau, très courte durée
+Tumeurs de la peau, très courte durée.
 
 |
 
@@ -1238,7 +1238,7 @@ Tumeurs de la peau, très courte durée
 
 |
 
-Explorations et surveillance des affections de la peau
+Explorations et surveillance des affections de la peau.
 
 |
 
@@ -1250,7 +1250,7 @@ Explorations et surveillance des affections de la peau
 
 |
 
-Explorations et surveillance des affections des seins
+Explorations et surveillance des affections des seins.
 
 |
 
@@ -1262,7 +1262,7 @@ Explorations et surveillance des affections des seins
 
 |
 
-Symptômes et autres recours aux soins concernant les affections de la peau, très courte durée
+Symptômes et autres recours aux soins concernant les affections de la peau, très courte durée.
 
 |
 
@@ -1274,7 +1274,7 @@ Symptômes et autres recours aux soins concernant les affections de la peau, tr�
 
 |
 
-Symptômes et autres recours aux soins concernant les affections de la peau
+Symptômes et autres recours aux soins concernant les affections de la peau.
 
 |
 
@@ -1286,7 +1286,7 @@ Symptômes et autres recours aux soins concernant les affections de la peau
 
 |
 
-Symptômes et autres recours aux soins concernant les affections des seins
+Symptômes et autres recours aux soins concernant les affections des seins.
 
 |
 
@@ -1298,7 +1298,7 @@ Symptômes et autres recours aux soins concernant les affections des seins
 
 |
 
-Chirurgie esthétique
+Chirurgie esthétique.
 
 |
 
@@ -1310,7 +1310,7 @@ Chirurgie esthétique
 
 |
 
-Interventions sur l'hypophyse, niveau 1
+Interventions sur l'hypophyse, niveau 1.
 
 |
 
@@ -1322,7 +1322,7 @@ Interventions sur l'hypophyse, niveau 1
 
 |
 
-Interventions sur l'hypophyse, niveau 2
+Interventions sur l'hypophyse, niveau 2.
 
 |
 
@@ -1334,7 +1334,7 @@ Interventions sur l'hypophyse, niveau 2
 
 |
 
-Interventions sur l'hypophyse, niveau 3
+Interventions sur l'hypophyse, niveau 3.
 
 |
 
@@ -1346,7 +1346,7 @@ Interventions sur l'hypophyse, niveau 3
 
 |
 
-Interventions sur l'hypophyse, niveau 4
+Interventions sur l'hypophyse, niveau 4.
 
 |
 
@@ -1358,7 +1358,7 @@ Interventions sur l'hypophyse, niveau 4
 
 |
 
-Interventions sur les glandes surrénales, niveau 1
+Interventions sur les glandes surrénales, niveau 1.
 
 |
 
@@ -1370,7 +1370,7 @@ Interventions sur les glandes surrénales, niveau 1
 
 |
 
-Interventions sur les glandes surrénales, niveau 2
+Interventions sur les glandes surrénales, niveau 2.
 
 |
 
@@ -1382,7 +1382,7 @@ Interventions sur les glandes surrénales, niveau 2
 
 |
 
-Interventions sur les glandes surrénales, niveau 3
+Interventions sur les glandes surrénales, niveau 3.
 
 |
 
@@ -1394,7 +1394,7 @@ Interventions sur les glandes surrénales, niveau 3
 
 |
 
-Interventions sur les glandes surrénales, niveau 4
+Interventions sur les glandes surrénales, niveau 4.
 
 |
 
@@ -1406,7 +1406,7 @@ Interventions sur les glandes surrénales, niveau 4
 
 |
 
-Interventions sur les parathyroïdes, niveau 1
+Interventions sur les parathyroïdes, niveau 1.
 
 |
 
@@ -1418,7 +1418,7 @@ Interventions sur les parathyroïdes, niveau 1
 
 |
 
-Interventions sur les parathyroïdes, niveau 2
+Interventions sur les parathyroïdes, niveau 2.
 
 |
 
@@ -1430,7 +1430,7 @@ Interventions sur les parathyroïdes, niveau 2
 
 |
 
-Interventions sur les parathyroïdes, niveau 3
+Interventions sur les parathyroïdes, niveau 3.
 
 |
 
@@ -1442,7 +1442,7 @@ Interventions sur les parathyroïdes, niveau 3
 
 |
 
-Interventions sur les parathyroïdes, niveau 4
+Interventions sur les parathyroïdes, niveau 4.
 
 |
 
@@ -1454,7 +1454,7 @@ Interventions sur les parathyroïdes, niveau 4
 
 |
 
-Interventions sur le tractus thyréoglosse, niveau 1
+Interventions sur le tractus thyréoglosse, niveau 1.
 
 |
 
@@ -1466,7 +1466,7 @@ Interventions sur le tractus thyréoglosse, niveau 1
 
 |
 
-Interventions sur le tractus thyréoglosse, niveau 2
+Interventions sur le tractus thyréoglosse, niveau 2.
 
 |
 
@@ -1478,7 +1478,7 @@ Interventions sur le tractus thyréoglosse, niveau 2
 
 |
 
-Interventions sur le tractus thyréoglosse, niveau 3
+Interventions sur le tractus thyréoglosse, niveau 3.
 
 |
 
@@ -1490,7 +1490,7 @@ Interventions sur le tractus thyréoglosse, niveau 3
 
 |
 
-Interventions sur le tractus thyréoglosse, niveau 4
+Interventions sur le tractus thyréoglosse, niveau 4.
 
 |
 
@@ -1502,7 +1502,7 @@ Interventions sur le tractus thyréoglosse, niveau 4
 
 |
 
-Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 1
+Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 1.
 
 |
 
@@ -1514,7 +1514,7 @@ Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels,
 
 |
 
-Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 2
+Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 2.
 
 |
 
@@ -1526,7 +1526,7 @@ Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels,
 
 |
 
-Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 3
+Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 3.
 
 |
 
@@ -1538,7 +1538,7 @@ Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels,
 
 |
 
-Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 4
+Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 4.
 
 |
 
@@ -1550,7 +1550,7 @@ Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels,
 
 |
 
-Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, en ambulatoire
+Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, en ambulatoire.
 
 |
 
@@ -1562,7 +1562,7 @@ Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels,
 
 |
 
-Gastroplasties pour obésité, niveau 1
+Gastroplasties pour obésité, niveau 1.
 
 |
 
@@ -1574,7 +1574,7 @@ Gastroplasties pour obésité, niveau 1
 
 |
 
-Gastroplasties pour obésité, niveau 2
+Gastroplasties pour obésité, niveau 2.
 
 |
 
@@ -1586,7 +1586,7 @@ Gastroplasties pour obésité, niveau 2
 
 |
 
-Gastroplasties pour obésité, niveau 3
+Gastroplasties pour obésité, niveau 3.
 
 |
 
@@ -1598,7 +1598,7 @@ Gastroplasties pour obésité, niveau 3
 
 |
 
-Gastroplasties pour obésité, niveau 4
+Gastroplasties pour obésité, niveau 4.
 
 |
 
@@ -1610,7 +1610,7 @@ Gastroplasties pour obésité, niveau 4
 
 |
 
-Autres interventions pour obésité, niveau 1
+Autres interventions pour obésité, niveau 1.
 
 |
 
@@ -1622,7 +1622,7 @@ Autres interventions pour obésité, niveau 1
 
 |
 
-Autres interventions pour obésité, niveau 2
+Autres interventions pour obésité, niveau 2.
 
 |
 
@@ -1634,7 +1634,7 @@ Autres interventions pour obésité, niveau 2
 
 |
 
-Autres interventions pour obésité, niveau 3
+Autres interventions pour obésité, niveau 3.
 
 |
 
@@ -1646,7 +1646,7 @@ Autres interventions pour obésité, niveau 3
 
 |
 
-Autres interventions pour obésité, niveau 4
+Autres interventions pour obésité, niveau 4.
 
 |
 
@@ -1658,7 +1658,7 @@ Autres interventions pour obésité, niveau 4
 
 |
 
-Interventions sur la thyroïde pour tumeurs malignes, niveau 1
+Interventions sur la thyroïde pour tumeurs malignes, niveau 1.
 
 |
 
@@ -1670,7 +1670,7 @@ Interventions sur la thyroïde pour tumeurs malignes, niveau 1
 
 |
 
-Interventions sur la thyroïde pour tumeurs malignes, niveau 2
+Interventions sur la thyroïde pour tumeurs malignes, niveau 2.
 
 |
 
@@ -1682,7 +1682,7 @@ Interventions sur la thyroïde pour tumeurs malignes, niveau 2
 
 |
 
-Interventions sur la thyroïde pour tumeurs malignes, niveau 3
+Interventions sur la thyroïde pour tumeurs malignes, niveau 3.
 
 |
 
@@ -1694,7 +1694,7 @@ Interventions sur la thyroïde pour tumeurs malignes, niveau 3
 
 |
 
-Interventions sur la thyroïde pour tumeurs malignes, niveau 4
+Interventions sur la thyroïde pour tumeurs malignes, niveau 4.
 
 |
 
@@ -1706,7 +1706,7 @@ Interventions sur la thyroïde pour tumeurs malignes, niveau 4
 
 |
 
-Interventions sur la thyroïde pour affections non malignes, niveau 1
+Interventions sur la thyroïde pour affections non malignes, niveau 1.
 
 |
 
@@ -1718,7 +1718,7 @@ Interventions sur la thyroïde pour affections non malignes, niveau 1
 
 |
 
-Interventions sur la thyroïde pour affections non malignes, niveau 2
+Interventions sur la thyroïde pour affections non malignes, niveau 2.
 
 |
 
@@ -1730,7 +1730,7 @@ Interventions sur la thyroïde pour affections non malignes, niveau 2
 
 |
 
-Interventions sur la thyroïde pour affections non malignes, niveau 3
+Interventions sur la thyroïde pour affections non malignes, niveau 3.
 
 |
 
@@ -1742,7 +1742,7 @@ Interventions sur la thyroïde pour affections non malignes, niveau 3
 
 |
 
-Interventions sur la thyroïde pour affections non malignes, niveau 4
+Interventions sur la thyroïde pour affections non malignes, niveau 4.
 
 |
 
@@ -1754,7 +1754,7 @@ Interventions sur la thyroïde pour affections non malignes, niveau 4
 
 |
 
-Interventions digestives autres que les gastroplasties, pour obésité, niveau 1
+Interventions digestives autres que les gastroplasties, pour obésité, niveau 1.
 
 |
 
@@ -1766,7 +1766,7 @@ Interventions digestives autres que les gastroplasties, pour obésité, niveau 1
 
 |
 
-Interventions digestives autres que les gastroplasties, pour obésité, niveau 2
+Interventions digestives autres que les gastroplasties, pour obésité, niveau 2.
 
 |
 
@@ -1778,7 +1778,7 @@ Interventions digestives autres que les gastroplasties, pour obésité, niveau 2
 
 |
 
-Interventions digestives autres que les gastroplasties, pour obésité, niveau 3
+Interventions digestives autres que les gastroplasties, pour obésité, niveau 3.
 
 |
 
@@ -1790,7 +1790,7 @@ Interventions digestives autres que les gastroplasties, pour obésité, niveau 3
 
 |
 
-Interventions digestives autres que les gastroplasties, pour obésité, niveau 4
+Interventions digestives autres que les gastroplasties, pour obésité, niveau 4.
 
 |
 
@@ -1802,7 +1802,7 @@ Interventions digestives autres que les gastroplasties, pour obésité, niveau 4
 
 |
 
-Diabète, âge supérieur à 35 ans, niveau 1
+Diabète, âge supérieur à 35 ans, niveau 1.
 
 |
 
@@ -1814,7 +1814,7 @@ Diabète, âge supérieur à 35 ans, niveau 1
 
 |
 
-Diabète, âge supérieur à 35 ans, niveau 2
+Diabète, âge supérieur à 35 ans, niveau 2.
 
 |
 
@@ -1826,7 +1826,7 @@ Diabète, âge supérieur à 35 ans, niveau 2
 
 |
 
-Diabète, âge supérieur à 35 ans, niveau 3
+Diabète, âge supérieur à 35 ans, niveau 3.
 
 |
 
@@ -1838,7 +1838,7 @@ Diabète, âge supérieur à 35 ans, niveau 3
 
 |
 
-Diabète, âge supérieur à 35 ans, niveau 4
+Diabète, âge supérieur à 35 ans, niveau 4.
 
 |
 
@@ -1850,7 +1850,7 @@ Diabète, âge supérieur à 35 ans, niveau 4
 
 |
 
-Diabète, âge supérieur à 35 ans, très courte durée
+Diabète, âge supérieur à 35 ans, très courte durée.
 
 |
 
@@ -1862,7 +1862,7 @@ Diabète, âge supérieur à 35 ans, très courte durée
 
 |
 
-Diabète, âge inférieur à 36 ans, niveau 1
+Diabète, âge inférieur à 36 ans, niveau 1.
 
 |
 
@@ -1874,7 +1874,7 @@ Diabète, âge inférieur à 36 ans, niveau 1
 
 |
 
-Diabète, âge inférieur à 36 ans, niveau 2
+Diabète, âge inférieur à 36 ans, niveau 2.
 
 |
 
@@ -1886,7 +1886,7 @@ Diabète, âge inférieur à 36 ans, niveau 2
 
 |
 
-Diabète, âge inférieur à 36 ans, niveau 3
+Diabète, âge inférieur à 36 ans, niveau 3.
 
 |
 
@@ -1898,7 +1898,7 @@ Diabète, âge inférieur à 36 ans, niveau 3
 
 |
 
-Diabète, âge inférieur à 36 ans, niveau 4
+Diabète, âge inférieur à 36 ans, niveau 4.
 
 |
 
@@ -1910,7 +1910,7 @@ Diabète, âge inférieur à 36 ans, niveau 4
 
 |
 
-Diabète, âge inférieur à 36 ans, très courte durée
+Diabète, âge inférieur à 36 ans, très courte durée.
 
 |
 
@@ -1922,7 +1922,7 @@ Diabète, âge inférieur à 36 ans, très courte durée
 
 |
 
-Autres troubles endocriniens, niveau 1
+Autres troubles endocriniens, niveau 1.
 
 |
 
@@ -1934,7 +1934,7 @@ Autres troubles endocriniens, niveau 1
 
 |
 
-Autres troubles endocriniens, niveau 2
+Autres troubles endocriniens, niveau 2.
 
 |
 
@@ -1946,7 +1946,7 @@ Autres troubles endocriniens, niveau 2
 
 |
 
-Autres troubles endocriniens, niveau 3
+Autres troubles endocriniens, niveau 3.
 
 |
 
@@ -1958,7 +1958,7 @@ Autres troubles endocriniens, niveau 3
 
 |
 
-Autres troubles endocriniens, niveau 4
+Autres troubles endocriniens, niveau 4.
 
 |
 
@@ -1970,7 +1970,7 @@ Autres troubles endocriniens, niveau 4
 
 |
 
-Autres troubles endocriniens, très courte durée
+Autres troubles endocriniens, très courte durée.
 
 |
 
@@ -1982,7 +1982,7 @@ Autres troubles endocriniens, très courte durée
 
 |
 
-Acidocétose et coma diabétique, niveau 1
+Acidocétose et coma diabétique, niveau 1.
 
 |
 
@@ -1994,7 +1994,7 @@ Acidocétose et coma diabétique, niveau 1
 
 |
 
-Acidocétose et coma diabétique, niveau 2
+Acidocétose et coma diabétique, niveau 2.
 
 |
 
@@ -2006,7 +2006,7 @@ Acidocétose et coma diabétique, niveau 2
 
 |
 
-Acidocétose et coma diabétique, niveau 3
+Acidocétose et coma diabétique, niveau 3.
 
 |
 
@@ -2018,7 +2018,7 @@ Acidocétose et coma diabétique, niveau 3
 
 |
 
-Acidocétose et coma diabétique, niveau 4
+Acidocétose et coma diabétique, niveau 4.
 
 |
 
@@ -2030,7 +2030,7 @@ Acidocétose et coma diabétique, niveau 4
 
 |
 
-Acidocétose et coma diabétique, très courte durée
+Acidocétose et coma diabétique, très courte durée.
 
 |
 
@@ -2042,7 +2042,7 @@ Acidocétose et coma diabétique, très courte durée
 
 |
 
-Obésité, niveau 1
+Obésité, niveau 1.
 
 |
 
@@ -2054,7 +2054,7 @@ Obésité, niveau 1
 
 |
 
-Obésité, niveau 2
+Obésité, niveau 2.
 
 |
 
@@ -2066,7 +2066,7 @@ Obésité, niveau 2
 
 |
 
-Obésité, niveau 3
+Obésité, niveau 3.
 
 |
 
@@ -2078,7 +2078,7 @@ Obésité, niveau 3
 
 |
 
-Obésité, niveau 4
+Obésité, niveau 4.
 
 |
 
@@ -2090,7 +2090,7 @@ Obésité, niveau 4
 
 |
 
-Obésité, très courte durée
+Obésité, très courte durée.
 
 |
 
@@ -2102,7 +2102,7 @@ Obésité, très courte durée
 
 |
 
-Maladies métaboliques congénitales sévères, niveau 1
+Maladies métaboliques congénitales sévères, niveau 1.
 
 |
 
@@ -2114,7 +2114,7 @@ Maladies métaboliques congénitales sévères, niveau 1
 
 |
 
-Maladies métaboliques congénitales sévères, niveau 2
+Maladies métaboliques congénitales sévères, niveau 2.
 
 |
 
@@ -2126,7 +2126,7 @@ Maladies métaboliques congénitales sévères, niveau 2
 
 |
 
-Maladies métaboliques congénitales sévères, niveau 3
+Maladies métaboliques congénitales sévères, niveau 3.
 
 |
 
@@ -2138,7 +2138,7 @@ Maladies métaboliques congénitales sévères, niveau 3
 
 |
 
-Maladies métaboliques congénitales sévères, niveau 4
+Maladies métaboliques congénitales sévères, niveau 4.
 
 |
 
@@ -2150,7 +2150,7 @@ Maladies métaboliques congénitales sévères, niveau 4
 
 |
 
-Maladies métaboliques congénitales sévères, très courte durée
+Maladies métaboliques congénitales sévères, très courte durée.
 
 |
 
@@ -2162,7 +2162,7 @@ Maladies métaboliques congénitales sévères, très courte durée
 
 |
 
-Autres maladies métaboliques congénitales, niveau 1
+Autres maladies métaboliques congénitales, niveau 1.
 
 |
 
@@ -2174,7 +2174,7 @@ Autres maladies métaboliques congénitales, niveau 1
 
 |
 
-Autres maladies métaboliques congénitales, niveau 2
+Autres maladies métaboliques congénitales, niveau 2.
 
 |
 
@@ -2186,7 +2186,7 @@ Autres maladies métaboliques congénitales, niveau 2
 
 |
 
-Autres maladies métaboliques congénitales, niveau 3
+Autres maladies métaboliques congénitales, niveau 3.
 
 |
 
@@ -2198,7 +2198,7 @@ Autres maladies métaboliques congénitales, niveau 3
 
 |
 
-Autres maladies métaboliques congénitales, niveau 4
+Autres maladies métaboliques congénitales, niveau 4.
 
 |
 
@@ -2210,7 +2210,7 @@ Autres maladies métaboliques congénitales, niveau 4
 
 |
 
-Autres maladies métaboliques congénitales, très courte durée
+Autres maladies métaboliques congénitales, très courte durée.
 
 |
 
@@ -2222,7 +2222,7 @@ Autres maladies métaboliques congénitales, très courte durée
 
 |
 
-Tumeurs des glandes endocrines, niveau 1
+Tumeurs des glandes endocrines, niveau 1.
 
 |
 
@@ -2234,7 +2234,7 @@ Tumeurs des glandes endocrines, niveau 1
 
 |
 
-Tumeurs des glandes endocrines, niveau 2
+Tumeurs des glandes endocrines, niveau 2.
 
 |
 
@@ -2246,7 +2246,7 @@ Tumeurs des glandes endocrines, niveau 2
 
 |
 
-Tumeurs des glandes endocrines, niveau 3
+Tumeurs des glandes endocrines, niveau 3.
 
 |
 
@@ -2258,7 +2258,7 @@ Tumeurs des glandes endocrines, niveau 3
 
 |
 
-Tumeurs des glandes endocrines, niveau 4
+Tumeurs des glandes endocrines, niveau 4.
 
 |
 
@@ -2270,7 +2270,7 @@ Tumeurs des glandes endocrines, niveau 4
 
 |
 
-Tumeurs des glandes endocrines, très courte durée
+Tumeurs des glandes endocrines, très courte durée.
 
 |
 
@@ -2282,7 +2282,7 @@ Tumeurs des glandes endocrines, très courte durée
 
 |
 
-Explorations et surveillance pour affections endocriniennes et métaboliques
+Explorations et surveillance pour affections endocriniennes et métaboliques.
 
 |
 
@@ -2294,7 +2294,7 @@ Explorations et surveillance pour affections endocriniennes et métaboliques
 
 |
 
-Symptômes et autres recours aux soins de la CMD 10, très courte durée
+Symptômes et autres recours aux soins de la CMD 10, très courte durée.
 
 |
 
@@ -2306,7 +2306,7 @@ Symptômes et autres recours aux soins de la CMD 10, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 10
+Symptômes et autres recours aux soins de la CMD 10.
 
 |
 
@@ -2318,7 +2318,7 @@ Symptômes et autres recours aux soins de la CMD 10
 
 |
 
-Troubles métaboliques, âge inférieur à 18 ans, niveau 1
+Troubles métaboliques, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2330,7 +2330,7 @@ Troubles métaboliques, âge inférieur à 18 ans, niveau 1
 
 |
 
-Troubles métaboliques, âge inférieur à 18 ans, niveau 2
+Troubles métaboliques, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2342,7 +2342,7 @@ Troubles métaboliques, âge inférieur à 18 ans, niveau 2
 
 |
 
-Troubles métaboliques, âge inférieur à 18 ans, niveau 3
+Troubles métaboliques, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2354,7 +2354,7 @@ Troubles métaboliques, âge inférieur à 18 ans, niveau 3
 
 |
 
-Troubles métaboliques, âge inférieur à 18 ans, niveau 4
+Troubles métaboliques, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2366,7 +2366,7 @@ Troubles métaboliques, âge inférieur à 18 ans, niveau 4
 
 |
 
-Troubles métaboliques, âge inférieur à 18 ans, très courte durée
+Troubles métaboliques, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2378,7 +2378,7 @@ Troubles métaboliques, âge inférieur à 18 ans, très courte durée
 
 |
 
-Troubles métaboliques, âge supérieur à 17 ans, niveau 1
+Troubles métaboliques, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2390,7 +2390,7 @@ Troubles métaboliques, âge supérieur à 17 ans, niveau 1
 
 |
 
-Troubles métaboliques, âge supérieur à 17 ans, niveau 2
+Troubles métaboliques, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2402,7 +2402,7 @@ Troubles métaboliques, âge supérieur à 17 ans, niveau 2
 
 |
 
-Troubles métaboliques, âge supérieur à 17 ans, niveau 3
+Troubles métaboliques, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2414,7 +2414,7 @@ Troubles métaboliques, âge supérieur à 17 ans, niveau 3
 
 |
 
-Troubles métaboliques, âge supérieur à 17 ans, niveau 4
+Troubles métaboliques, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2426,7 +2426,7 @@ Troubles métaboliques, âge supérieur à 17 ans, niveau 4
 
 |
 
-Troubles métaboliques, âge supérieur à 17 ans, très courte durée
+Troubles métaboliques, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2438,7 +2438,7 @@ Troubles métaboliques, âge supérieur à 17 ans, très courte durée
 
 |
 
-Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 1
+Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2450,7 +2450,7 @@ Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 1
 
 |
 
-Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 2
+Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2462,7 +2462,7 @@ Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 2
 
 |
 
-Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 3
+Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2474,7 +2474,7 @@ Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 3
 
 |
 
-Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 4
+Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2486,7 +2486,7 @@ Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 4
 
 |
 
-Troubles nutritionnels divers, âge inférieur à 18 ans, très courte durée
+Troubles nutritionnels divers, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -2498,7 +2498,7 @@ Troubles nutritionnels divers, âge inférieur à 18 ans, très courte durée
 
 |
 
-Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 1
+Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2510,7 +2510,7 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 1
 
 |
 
-Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 2
+Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2522,7 +2522,7 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 2
 
 |
 
-Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 3
+Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2534,7 +2534,7 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 3
 
 |
 
-Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 4
+Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2546,7 +2546,7 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 4
 
 |
 
-Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée
+Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -2558,7 +2558,7 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 1
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 1.
 
 |
 
@@ -2570,7 +2570,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 2
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 2.
 
 |
 
@@ -2582,7 +2582,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 3
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 3.
 
 |
 
@@ -2594,7 +2594,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 4
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 4.
 
 |
 
@@ -2606,7 +2606,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1.
 
 |
 
@@ -2618,7 +2618,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2.
 
 |
 
@@ -2630,7 +2630,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3.
 
 |
 
@@ -2642,7 +2642,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4.
 
 |
 
@@ -2654,7 +2654,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 1
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 1.
 
 |
 
@@ -2666,7 +2666,7 @@ Autres interventions sur la vessie à l'exception des interventions transurétra
 
 |
 
-Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 2
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 2.
 
 |
 
@@ -2678,7 +2678,7 @@ Autres interventions sur la vessie à l'exception des interventions transurétra
 
 |
 
-Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 3
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 3.
 
 |
 
@@ -2690,7 +2690,7 @@ Autres interventions sur la vessie à l'exception des interventions transurétra
 
 |
 
-Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 4
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 4.
 
 |
 
@@ -2702,7 +2702,7 @@ Autres interventions sur la vessie à l'exception des interventions transurétra
 
 |
 
-Autres interventions sur la vessie à l'exception des interventions transurétrales, en ambulatoire
+Autres interventions sur la vessie à l'exception des interventions transurétrales, en ambulatoire.
 
 |
 
@@ -2714,7 +2714,7 @@ Autres interventions sur la vessie à l'exception des interventions transurétra
 
 |
 
-Interventions transurétrales ou par voie transcutanée, niveau 1
+Interventions transurétrales ou par voie transcutanée, niveau 1.
 
 |
 
@@ -2726,7 +2726,7 @@ Interventions transurétrales ou par voie transcutanée, niveau 1
 
 |
 
-Interventions transurétrales ou par voie transcutanée, niveau 2
+Interventions transurétrales ou par voie transcutanée, niveau 2.
 
 |
 
@@ -2738,7 +2738,7 @@ Interventions transurétrales ou par voie transcutanée, niveau 2
 
 |
 
-Interventions transurétrales ou par voie transcutanée, niveau 3
+Interventions transurétrales ou par voie transcutanée, niveau 3.
 
 |
 
@@ -2750,7 +2750,7 @@ Interventions transurétrales ou par voie transcutanée, niveau 3
 
 |
 
-Interventions transurétrales ou par voie transcutanée, niveau 4
+Interventions transurétrales ou par voie transcutanée, niveau 4.
 
 |
 
@@ -2762,7 +2762,7 @@ Interventions transurétrales ou par voie transcutanée, niveau 4
 
 |
 
-Interventions transurétrales ou par voie transcutanée, en ambulatoire
+Interventions transurétrales ou par voie transcutanée, en ambulatoire.
 
 |
 
@@ -2774,7 +2774,7 @@ Interventions transurétrales ou par voie transcutanée, en ambulatoire
 
 |
 
-Interventions sur l'urètre, âge inférieur à 18 ans, niveau 1
+Interventions sur l'urètre, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -2786,7 +2786,7 @@ Interventions sur l'urètre, âge inférieur à 18 ans, niveau 1
 
 |
 
-Interventions sur l'urètre, âge inférieur à 18 ans, niveau 2
+Interventions sur l'urètre, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -2798,7 +2798,7 @@ Interventions sur l'urètre, âge inférieur à 18 ans, niveau 2
 
 |
 
-Interventions sur l'urètre, âge inférieur à 18 ans, niveau 3
+Interventions sur l'urètre, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -2810,7 +2810,7 @@ Interventions sur l'urètre, âge inférieur à 18 ans, niveau 3
 
 |
 
-Interventions sur l'urètre, âge inférieur à 18 ans, niveau 4
+Interventions sur l'urètre, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -2822,7 +2822,7 @@ Interventions sur l'urètre, âge inférieur à 18 ans, niveau 4
 
 |
 
-Interventions sur l'urètre, âge supérieur à 17 ans, niveau 1
+Interventions sur l'urètre, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -2834,7 +2834,7 @@ Interventions sur l'urètre, âge supérieur à 17 ans, niveau 1
 
 |
 
-Interventions sur l'urètre, âge supérieur à 17 ans, niveau 2
+Interventions sur l'urètre, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -2846,7 +2846,7 @@ Interventions sur l'urètre, âge supérieur à 17 ans, niveau 2
 
 |
 
-Interventions sur l'urètre, âge supérieur à 17 ans, niveau 3
+Interventions sur l'urètre, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -2858,7 +2858,7 @@ Interventions sur l'urètre, âge supérieur à 17 ans, niveau 3
 
 |
 
-Interventions sur l'urètre, âge supérieur à 17 ans, niveau 4
+Interventions sur l'urètre, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -2870,7 +2870,7 @@ Interventions sur l'urètre, âge supérieur à 17 ans, niveau 4
 
 |
 
-Interventions sur l'urètre, âge supérieur à 17 ans, en ambulatoire
+Interventions sur l'urètre, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -2882,7 +2882,7 @@ Interventions sur l'urètre, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Autres interventions sur les reins et les voies urinaires, niveau 1
+Autres interventions sur les reins et les voies urinaires, niveau 1.
 
 |
 
@@ -2894,7 +2894,7 @@ Autres interventions sur les reins et les voies urinaires, niveau 1
 
 |
 
-Autres interventions sur les reins et les voies urinaires, niveau 2
+Autres interventions sur les reins et les voies urinaires, niveau 2.
 
 |
 
@@ -2906,7 +2906,7 @@ Autres interventions sur les reins et les voies urinaires, niveau 2
 
 |
 
-Autres interventions sur les reins et les voies urinaires, niveau 3
+Autres interventions sur les reins et les voies urinaires, niveau 3.
 
 |
 
@@ -2918,7 +2918,7 @@ Autres interventions sur les reins et les voies urinaires, niveau 3
 
 |
 
-Autres interventions sur les reins et les voies urinaires, niveau 4
+Autres interventions sur les reins et les voies urinaires, niveau 4.
 
 |
 
@@ -2930,7 +2930,7 @@ Autres interventions sur les reins et les voies urinaires, niveau 4
 
 |
 
-Autres interventions sur les reins et les voies urinaires, très courte durée
+Autres interventions sur les reins et les voies urinaires, très courte durée.
 
 |
 
@@ -2942,7 +2942,7 @@ Autres interventions sur les reins et les voies urinaires, très courte durée
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 1
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 1.
 
 |
 
@@ -2954,7 +2954,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 2
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 2.
 
 |
 
@@ -2966,7 +2966,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 3
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 3.
 
 |
 
@@ -2978,7 +2978,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 4
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 4.
 
 |
 
@@ -2990,7 +2990,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, en ambulatoire
+Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, en ambulatoire.
 
 |
 
@@ -3002,7 +3002,7 @@ Créations et réfections de fistules artérioveineuses pour affections de la CM
 
 |
 
-Insuffisance rénale, avec dialyse, niveau 1
+Insuffisance rénale, avec dialyse, niveau 1.
 
 |
 
@@ -3014,7 +3014,7 @@ Insuffisance rénale, avec dialyse, niveau 1
 
 |
 
-Insuffisance rénale, avec dialyse, niveau 2
+Insuffisance rénale, avec dialyse, niveau 2.
 
 |
 
@@ -3026,7 +3026,7 @@ Insuffisance rénale, avec dialyse, niveau 2
 
 |
 
-Insuffisance rénale, avec dialyse, niveau 3
+Insuffisance rénale, avec dialyse, niveau 3.
 
 |
 
@@ -3038,7 +3038,7 @@ Insuffisance rénale, avec dialyse, niveau 3
 
 |
 
-Insuffisance rénale, avec dialyse, niveau 4
+Insuffisance rénale, avec dialyse, niveau 4.
 
 |
 
@@ -3050,7 +3050,7 @@ Insuffisance rénale, avec dialyse, niveau 4
 
 |
 
-Insuffisance rénale, avec dialyse, en ambulatoire
+Insuffisance rénale, avec dialyse, en ambulatoire.
 
 |
 
@@ -3062,7 +3062,7 @@ Insuffisance rénale, avec dialyse, en ambulatoire
 
 |
 
-Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours
+Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours.
 
 |
 
@@ -3074,7 +3074,7 @@ Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CM
 
 |
 
-Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours.
 
 |
 
@@ -3086,7 +3086,7 @@ Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique 
 
 |
 
-Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours
+Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours.
 
 |
 
@@ -3098,7 +3098,7 @@ Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 
 
 |
 
-Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sans anesthésie : séjours de moins de 2 jours
+Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sans anesthésie : séjours de moins de 2 jours.
 
 |
 
@@ -3110,7 +3110,7 @@ Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sa
 
 |
 
-Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire
+Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire.
 
 |
 
@@ -3122,7 +3122,7 @@ Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires
 
 |
 
-Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire
+Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire.
 
 |
 
@@ -3134,7 +3134,7 @@ Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire
 
 |
 
-Lithiases urinaires, niveau 1
+Lithiases urinaires, niveau 1.
 
 |
 
@@ -3146,7 +3146,7 @@ Lithiases urinaires, niveau 1
 
 |
 
-Lithiases urinaires, niveau 2
+Lithiases urinaires, niveau 2.
 
 |
 
@@ -3158,7 +3158,7 @@ Lithiases urinaires, niveau 2
 
 |
 
-Lithiases urinaires, niveau 3
+Lithiases urinaires, niveau 3.
 
 |
 
@@ -3170,7 +3170,7 @@ Lithiases urinaires, niveau 3
 
 |
 
-Lithiases urinaires, niveau 4
+Lithiases urinaires, niveau 4.
 
 |
 
@@ -3182,7 +3182,7 @@ Lithiases urinaires, niveau 4
 
 |
 
-Lithiases urinaires, très courte durée
+Lithiases urinaires, très courte durée.
 
 |
 
@@ -3194,7 +3194,7 @@ Lithiases urinaires, très courte durée
 
 |
 
-Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1
+Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3206,7 +3206,7 @@ Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1
 
 |
 
-Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2
+Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3218,7 +3218,7 @@ Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2
 
 |
 
-Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3
+Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3230,7 +3230,7 @@ Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3
 
 |
 
-Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4
+Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3242,7 +3242,7 @@ Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4
 
 |
 
-Infections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée
+Infections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -3254,7 +3254,7 @@ Infections des reins et des voies urinaires, âge inférieur à 18 ans, très co
 
 |
 
-Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 1
+Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3266,7 +3266,7 @@ Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 1
 
 |
 
-Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 2
+Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3278,7 +3278,7 @@ Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 2
 
 |
 
-Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 3
+Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3290,7 +3290,7 @@ Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 3
 
 |
 
-Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 4
+Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3302,7 +3302,7 @@ Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 4
 
 |
 
-Infections des reins et des voies urinaires, âge supérieur à 17 ans, très courte durée
+Infections des reins et des voies urinaires, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3314,7 +3314,7 @@ Infections des reins et des voies urinaires, âge supérieur à 17 ans, très co
 
 |
 
-Insuffisance rénale, sans dialyse, niveau 1
+Insuffisance rénale, sans dialyse, niveau 1.
 
 |
 
@@ -3326,7 +3326,7 @@ Insuffisance rénale, sans dialyse, niveau 1
 
 |
 
-Insuffisance rénale, sans dialyse, niveau 2
+Insuffisance rénale, sans dialyse, niveau 2.
 
 |
 
@@ -3338,7 +3338,7 @@ Insuffisance rénale, sans dialyse, niveau 2
 
 |
 
-Insuffisance rénale, sans dialyse, niveau 3
+Insuffisance rénale, sans dialyse, niveau 3.
 
 |
 
@@ -3350,7 +3350,7 @@ Insuffisance rénale, sans dialyse, niveau 3
 
 |
 
-Insuffisance rénale, sans dialyse, niveau 4
+Insuffisance rénale, sans dialyse, niveau 4.
 
 |
 
@@ -3362,7 +3362,7 @@ Insuffisance rénale, sans dialyse, niveau 4
 
 |
 
-Insuffisance rénale, sans dialyse, très courte durée
+Insuffisance rénale, sans dialyse, très courte durée.
 
 |
 
@@ -3374,7 +3374,7 @@ Insuffisance rénale, sans dialyse, très courte durée
 
 |
 
-Tumeurs des reins et des voies urinaires, niveau 1
+Tumeurs des reins et des voies urinaires, niveau 1.
 
 |
 
@@ -3386,7 +3386,7 @@ Tumeurs des reins et des voies urinaires, niveau 1
 
 |
 
-Tumeurs des reins et des voies urinaires, niveau 2
+Tumeurs des reins et des voies urinaires, niveau 2.
 
 |
 
@@ -3398,7 +3398,7 @@ Tumeurs des reins et des voies urinaires, niveau 2
 
 |
 
-Tumeurs des reins et des voies urinaires, niveau 3
+Tumeurs des reins et des voies urinaires, niveau 3.
 
 |
 
@@ -3410,7 +3410,7 @@ Tumeurs des reins et des voies urinaires, niveau 3
 
 |
 
-Tumeurs des reins et des voies urinaires, niveau 4
+Tumeurs des reins et des voies urinaires, niveau 4.
 
 |
 
@@ -3422,7 +3422,7 @@ Tumeurs des reins et des voies urinaires, niveau 4
 
 |
 
-Tumeurs des reins et des voies urinaires, très courte durée
+Tumeurs des reins et des voies urinaires, très courte durée.
 
 |
 
@@ -3434,7 +3434,7 @@ Tumeurs des reins et des voies urinaires, très courte durée
 
 |
 
-Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1
+Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3446,7 +3446,7 @@ Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, n
 
 |
 
-Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2
+Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3458,7 +3458,7 @@ Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, n
 
 |
 
-Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3
+Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3470,7 +3470,7 @@ Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, n
 
 |
 
-Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4
+Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3482,7 +3482,7 @@ Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, n
 
 |
 
-Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée
+Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée.
 
 |
 
@@ -3494,7 +3494,7 @@ Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, t
 
 |
 
-Rétrécissement urétral, niveau 1
+Rétrécissement urétral, niveau 1.
 
 |
 
@@ -3506,7 +3506,7 @@ Rétrécissement urétral, niveau 1
 
 |
 
-Rétrécissement urétral, niveau 2
+Rétrécissement urétral, niveau 2.
 
 |
 
@@ -3518,7 +3518,7 @@ Rétrécissement urétral, niveau 2
 
 |
 
-Rétrécissement urétral, niveau 3
+Rétrécissement urétral, niveau 3.
 
 |
 
@@ -3530,7 +3530,7 @@ Rétrécissement urétral, niveau 3
 
 |
 
-Rétrécissement urétral, niveau 4
+Rétrécissement urétral, niveau 4.
 
 |
 
@@ -3542,7 +3542,7 @@ Rétrécissement urétral, niveau 4
 
 |
 
-Rétrécissement urétral, très courte durée
+Rétrécissement urétral, très courte durée.
 
 |
 
@@ -3554,7 +3554,7 @@ Rétrécissement urétral, très courte durée
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 1
+Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -3566,7 +3566,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge inférieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 2
+Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -3578,7 +3578,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge inférieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 3
+Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -3590,7 +3590,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge inférieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 4
+Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -3602,7 +3602,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge inférieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 1
+Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3614,7 +3614,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge supérieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 2
+Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3626,7 +3626,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge supérieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 3
+Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3638,7 +3638,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge supérieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 4
+Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3650,7 +3650,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge supérieu
 
 |
 
-Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, très courte durée
+Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3662,7 +3662,7 @@ Signes et symptômes concernant les reins et les voies urinaires, âge supérieu
 
 |
 
-Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 1
+Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3674,7 +3674,7 @@ Autres affections des reins et des voies urinaires d'origine diabétique, âge s
 
 |
 
-Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 2
+Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3686,7 +3686,7 @@ Autres affections des reins et des voies urinaires d'origine diabétique, âge s
 
 |
 
-Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 3
+Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3698,7 +3698,7 @@ Autres affections des reins et des voies urinaires d'origine diabétique, âge s
 
 |
 
-Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 4
+Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3710,7 +3710,7 @@ Autres affections des reins et des voies urinaires d'origine diabétique, âge s
 
 |
 
-Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, très courte durée
+Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3722,7 +3722,7 @@ Autres affections des reins et des voies urinaires d'origine diabétique, âge s
 
 |
 
-Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 1
+Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -3734,7 +3734,7 @@ Autres affections des reins et des voies urinaires, à l'exception de celles d'o
 
 |
 
-Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 2
+Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -3746,7 +3746,7 @@ Autres affections des reins et des voies urinaires, à l'exception de celles d'o
 
 |
 
-Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 3
+Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -3758,7 +3758,7 @@ Autres affections des reins et des voies urinaires, à l'exception de celles d'o
 
 |
 
-Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 4
+Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -3770,7 +3770,7 @@ Autres affections des reins et des voies urinaires, à l'exception de celles d'o
 
 |
 
-Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, très courte durée
+Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -3782,7 +3782,7 @@ Autres affections des reins et des voies urinaires, à l'exception de celles d'o
 
 |
 
-Surveillances de greffes de rein, niveau 1
+Surveillances de greffes de rein, niveau 1.
 
 |
 
@@ -3794,7 +3794,7 @@ Surveillances de greffes de rein, niveau 1
 
 |
 
-Surveillances de greffes de rein, niveau 2
+Surveillances de greffes de rein, niveau 2.
 
 |
 
@@ -3806,7 +3806,7 @@ Surveillances de greffes de rein, niveau 2
 
 |
 
-Surveillances de greffes de rein, niveau 3
+Surveillances de greffes de rein, niveau 3.
 
 |
 
@@ -3818,7 +3818,7 @@ Surveillances de greffes de rein, niveau 3
 
 |
 
-Surveillances de greffes de rein, niveau 4
+Surveillances de greffes de rein, niveau 4.
 
 |
 
@@ -3830,7 +3830,7 @@ Surveillances de greffes de rein, niveau 4
 
 |
 
-Explorations et surveillance pour affections du rein et des voies urinaires
+Explorations et surveillance pour affections du rein et des voies urinaires.
 
 |
 
@@ -3842,7 +3842,7 @@ Explorations et surveillance pour affections du rein et des voies urinaires
 
 |
 
-Autres symptômes et recours aux soins de la CMD 11, très courte durée
+Autres symptômes et recours aux soins de la CMD 11, très courte durée.
 
 |
 
@@ -3854,7 +3854,7 @@ Autres symptômes et recours aux soins de la CMD 11, très courte durée
 
 |
 
-Autres symptômes et recours aux soins de la CMD 11
+Autres symptômes et recours aux soins de la CMD 11.
 
 |
 
@@ -3866,7 +3866,7 @@ Autres symptômes et recours aux soins de la CMD 11
 
 |
 
-Interventions sur le pénis, niveau 1
+Interventions sur le pénis, niveau 1.
 
 |
 
@@ -3878,7 +3878,7 @@ Interventions sur le pénis, niveau 1
 
 |
 
-Interventions sur le pénis, niveau 2
+Interventions sur le pénis, niveau 2.
 
 |
 
@@ -3890,7 +3890,7 @@ Interventions sur le pénis, niveau 2
 
 |
 
-Interventions sur le pénis, niveau 3
+Interventions sur le pénis, niveau 3.
 
 |
 
@@ -3902,7 +3902,7 @@ Interventions sur le pénis, niveau 3
 
 |
 
-Interventions sur le pénis, niveau 4
+Interventions sur le pénis, niveau 4.
 
 |
 
@@ -3914,7 +3914,7 @@ Interventions sur le pénis, niveau 4
 
 |
 
-Interventions sur le pénis, en ambulatoire
+Interventions sur le pénis, en ambulatoire.
 
 |
 
@@ -3926,7 +3926,7 @@ Interventions sur le pénis, en ambulatoire
 
 |
 
-Prostatectomies transurétrales, niveau 1
+Prostatectomies transurétrales, niveau 1.
 
 |
 
@@ -3936,7 +3936,7 @@ Prostatectomies transurétrales, niveau 1
 
 |
 
-Prostatectomies transurétrales, niveau 1
+Prostatectomies transurétrales, niveau 1.
 
 |
 
@@ -3948,7 +3948,7 @@ Prostatectomies transurétrales, niveau 1
 
 |
 
-Prostatectomies transurétrales, niveau 2
+Prostatectomies transurétrales, niveau 2.
 
 |
 
@@ -3960,7 +3960,7 @@ Prostatectomies transurétrales, niveau 2
 
 |
 
-Prostatectomies transurétrales, niveau 3
+Prostatectomies transurétrales, niveau 3.
 
 |
 
@@ -3972,7 +3972,7 @@ Prostatectomies transurétrales, niveau 3
 
 |
 
-Prostatectomies transurétrales, niveau 4
+Prostatectomies transurétrales, niveau 4.
 
 |
 
@@ -3984,7 +3984,7 @@ Prostatectomies transurétrales, niveau 4
 
 |
 
-Interventions sur les testicules pour tumeurs malignes, niveau 1
+Interventions sur les testicules pour tumeurs malignes, niveau 1.
 
 |
 
@@ -3996,7 +3996,7 @@ Interventions sur les testicules pour tumeurs malignes, niveau 1
 
 |
 
-Interventions sur les testicules pour tumeurs malignes, niveau 2
+Interventions sur les testicules pour tumeurs malignes, niveau 2.
 
 |
 
@@ -4008,7 +4008,7 @@ Interventions sur les testicules pour tumeurs malignes, niveau 2
 
 |
 
-Interventions sur les testicules pour tumeurs malignes, niveau 3
+Interventions sur les testicules pour tumeurs malignes, niveau 3.
 
 |
 
@@ -4020,7 +4020,7 @@ Interventions sur les testicules pour tumeurs malignes, niveau 3
 
 |
 
-Interventions sur les testicules pour tumeurs malignes, niveau 4
+Interventions sur les testicules pour tumeurs malignes, niveau 4.
 
 |
 
@@ -4032,7 +4032,7 @@ Interventions sur les testicules pour tumeurs malignes, niveau 4
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 1
+Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -4044,7 +4044,7 @@ Interventions sur les testicules pour affections non malignes, âge inférieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 2
+Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -4056,7 +4056,7 @@ Interventions sur les testicules pour affections non malignes, âge inférieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 3
+Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -4068,7 +4068,7 @@ Interventions sur les testicules pour affections non malignes, âge inférieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 4
+Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -4080,7 +4080,7 @@ Interventions sur les testicules pour affections non malignes, âge inférieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, en ambulatoire
+Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, en ambulatoire.
 
 |
 
@@ -4092,7 +4092,7 @@ Interventions sur les testicules pour affections non malignes, âge inférieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 1
+Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -4104,7 +4104,7 @@ Interventions sur les testicules pour affections non malignes, âge supérieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 2
+Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -4116,7 +4116,7 @@ Interventions sur les testicules pour affections non malignes, âge supérieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 3
+Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -4128,7 +4128,7 @@ Interventions sur les testicules pour affections non malignes, âge supérieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 4
+Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -4140,7 +4140,7 @@ Interventions sur les testicules pour affections non malignes, âge supérieur �
 
 |
 
-Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, en ambulatoire
+Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
@@ -4152,7 +4152,7 @@ Interventions sur les testicules pour affections non malignes, âge supérieur �
 
 |
 
-Circoncision, niveau 1
+Circoncision, niveau 1.
 
 |
 
@@ -4164,7 +4164,7 @@ Circoncision, niveau 1
 
 |
 
-Circoncision, niveau 2
+Circoncision, niveau 2.
 
 |
 
@@ -4176,7 +4176,7 @@ Circoncision, niveau 2
 
 |
 
-Circoncision, niveau 3
+Circoncision, niveau 3.
 
 |
 
@@ -4188,7 +4188,7 @@ Circoncision, niveau 3
 
 |
 
-Circoncision, niveau 4
+Circoncision, niveau 4.
 
 |
 
@@ -4200,7 +4200,7 @@ Circoncision, niveau 4
 
 |
 
-Circoncision, en ambulatoire
+Circoncision, en ambulatoire.
 
 |
 
@@ -4212,7 +4212,7 @@ Circoncision, en ambulatoire
 
 |
 
-Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 1
+Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 1.
 
 |
 
@@ -4224,7 +4224,7 @@ Autres interventions pour tumeurs malignes de l'appareil génital masculin, nive
 
 |
 
-Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 2
+Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 2.
 
 |
 
@@ -4236,7 +4236,7 @@ Autres interventions pour tumeurs malignes de l'appareil génital masculin, nive
 
 |
 
-Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 3
+Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 3.
 
 |
 
@@ -4248,7 +4248,7 @@ Autres interventions pour tumeurs malignes de l'appareil génital masculin, nive
 
 |
 
-Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 4
+Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 4.
 
 |
 
@@ -4260,7 +4260,7 @@ Autres interventions pour tumeurs malignes de l'appareil génital masculin, nive
 
 |
 
-Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 1
+Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 1.
 
 |
 
@@ -4272,7 +4272,7 @@ Autres interventions pour affections non malignes de l'appareil génital masculi
 
 |
 
-Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 2
+Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 2.
 
 |
 
@@ -4284,7 +4284,7 @@ Autres interventions pour affections non malignes de l'appareil génital masculi
 
 |
 
-Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 3
+Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 3.
 
 |
 
@@ -4296,7 +4296,7 @@ Autres interventions pour affections non malignes de l'appareil génital masculi
 
 |
 
-Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 4
+Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 4.
 
 |
 
@@ -4308,7 +4308,7 @@ Autres interventions pour affections non malignes de l'appareil génital masculi
 
 |
 
-Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 1
+Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 1.
 
 |
 
@@ -4320,7 +4320,7 @@ Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 1
 
 |
 
-Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 2
+Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 2.
 
 |
 
@@ -4332,7 +4332,7 @@ Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 2
 
 |
 
-Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 3
+Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 3.
 
 |
 
@@ -4344,7 +4344,7 @@ Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 3
 
 |
 
-Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 4
+Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 4.
 
 |
 
@@ -4356,7 +4356,7 @@ Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 4
 
 |
 
-Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 1
+Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 1.
 
 |
 
@@ -4368,7 +4368,7 @@ Interventions pelviennes majeures chez l'homme pour affections non malignes, niv
 
 |
 
-Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 2
+Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 2.
 
 |
 
@@ -4380,7 +4380,7 @@ Interventions pelviennes majeures chez l'homme pour affections non malignes, niv
 
 |
 
-Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 3
+Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 3.
 
 |
 
@@ -4392,7 +4392,7 @@ Interventions pelviennes majeures chez l'homme pour affections non malignes, niv
 
 |
 
-Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 4
+Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 4.
 
 |
 
@@ -4404,7 +4404,7 @@ Interventions pelviennes majeures chez l'homme pour affections non malignes, niv
 
 |
 
-Stérilisation et vasoplastie, niveau 1
+Stérilisation et vasoplastie, niveau 1.
 
 |
 
@@ -4416,7 +4416,7 @@ Stérilisation et vasoplastie, niveau 1
 
 |
 
-Stérilisation et vasoplastie, niveau 2
+Stérilisation et vasoplastie, niveau 2.
 
 |
 
@@ -4428,7 +4428,7 @@ Stérilisation et vasoplastie, niveau 2
 
 |
 
-Stérilisation et vasoplastie, niveau 3
+Stérilisation et vasoplastie, niveau 3.
 
 |
 
@@ -4440,7 +4440,7 @@ Stérilisation et vasoplastie, niveau 3
 
 |
 
-Stérilisation et vasoplastie, niveau 4
+Stérilisation et vasoplastie, niveau 4.
 
 |
 
@@ -4452,7 +4452,7 @@ Stérilisation et vasoplastie, niveau 4
 
 |
 
-Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins de deux jours
+Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins de deux jours.
 
 |
 
@@ -4464,7 +4464,7 @@ Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins
 
 |
 
-Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthésie : séjours de moins de deux jours
+Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthésie : séjours de moins de deux jours.
 
 |
 
@@ -4476,7 +4476,7 @@ Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthési
 
 |
 
-Séjours comprenant une biopsie prostatique, en ambulatoire
+Séjours comprenant une biopsie prostatique, en ambulatoire.
 
 |
 
@@ -4488,7 +4488,7 @@ Séjours comprenant une biopsie prostatique, en ambulatoire
 
 |
 
-Tumeurs malignes de l'appareil génital masculin, niveau 1
+Tumeurs malignes de l'appareil génital masculin, niveau 1.
 
 |
 
@@ -4500,7 +4500,7 @@ Tumeurs malignes de l'appareil génital masculin, niveau 1
 
 |
 
-Tumeurs malignes de l'appareil génital masculin, niveau 2
+Tumeurs malignes de l'appareil génital masculin, niveau 2.
 
 |
 
@@ -4512,7 +4512,7 @@ Tumeurs malignes de l'appareil génital masculin, niveau 2
 
 |
 
-Tumeurs malignes de l'appareil génital masculin, niveau 3
+Tumeurs malignes de l'appareil génital masculin, niveau 3.
 
 |
 
@@ -4524,7 +4524,7 @@ Tumeurs malignes de l'appareil génital masculin, niveau 3
 
 |
 
-Tumeurs malignes de l'appareil génital masculin, niveau 4
+Tumeurs malignes de l'appareil génital masculin, niveau 4.
 
 |
 
@@ -4536,7 +4536,7 @@ Tumeurs malignes de l'appareil génital masculin, niveau 4
 
 |
 
-Tumeurs malignes de l'appareil génital masculin, très courte durée
+Tumeurs malignes de l'appareil génital masculin, très courte durée.
 
 |
 
@@ -4548,7 +4548,7 @@ Tumeurs malignes de l'appareil génital masculin, très courte durée
 
 |
 
-Hypertrophie prostatique bénigne, niveau 1
+Hypertrophie prostatique bénigne, niveau 1.
 
 |
 
@@ -4560,7 +4560,7 @@ Hypertrophie prostatique bénigne, niveau 1
 
 |
 
-Hypertrophie prostatique bénigne, niveau 2
+Hypertrophie prostatique bénigne, niveau 2.
 
 |
 
@@ -4572,7 +4572,7 @@ Hypertrophie prostatique bénigne, niveau 2
 
 |
 
-Hypertrophie prostatique bénigne, niveau 3
+Hypertrophie prostatique bénigne, niveau 3.
 
 |
 
@@ -4584,7 +4584,7 @@ Hypertrophie prostatique bénigne, niveau 3
 
 |
 
-Hypertrophie prostatique bénigne, niveau 4
+Hypertrophie prostatique bénigne, niveau 4.
 
 |
 
@@ -4596,7 +4596,7 @@ Hypertrophie prostatique bénigne, niveau 4
 
 |
 
-Hypertrophie prostatique bénigne, très courte durée
+Hypertrophie prostatique bénigne, très courte durée.
 
 |
 
@@ -4608,7 +4608,7 @@ Hypertrophie prostatique bénigne, très courte durée
 
 |
 
-Autres affections de l'appareil génital masculin, niveau 1
+Autres affections de l'appareil génital masculin, niveau 1.
 
 |
 
@@ -4620,7 +4620,7 @@ Autres affections de l'appareil génital masculin, niveau 1
 
 |
 
-Autres affections de l'appareil génital masculin, niveau 2
+Autres affections de l'appareil génital masculin, niveau 2.
 
 |
 
@@ -4632,7 +4632,7 @@ Autres affections de l'appareil génital masculin, niveau 2
 
 |
 
-Autres affections de l'appareil génital masculin, niveau 3
+Autres affections de l'appareil génital masculin, niveau 3.
 
 |
 
@@ -4644,7 +4644,7 @@ Autres affections de l'appareil génital masculin, niveau 3
 
 |
 
-Autres affections de l'appareil génital masculin, niveau 4
+Autres affections de l'appareil génital masculin, niveau 4.
 
 |
 
@@ -4656,7 +4656,7 @@ Autres affections de l'appareil génital masculin, niveau 4
 
 |
 
-Autres affections de l'appareil génital masculin, très courte durée
+Autres affections de l'appareil génital masculin, très courte durée.
 
 |
 
@@ -4668,7 +4668,7 @@ Autres affections de l'appareil génital masculin, très courte durée
 
 |
 
-Prostatites aiguës et orchites, niveau 1
+Prostatites aiguës et orchites, niveau 1.
 
 |
 
@@ -4680,7 +4680,7 @@ Prostatites aiguës et orchites, niveau 1
 
 |
 
-Prostatites aiguës et orchites, niveau 2
+Prostatites aiguës et orchites, niveau 2.
 
 |
 
@@ -4692,7 +4692,7 @@ Prostatites aiguës et orchites, niveau 2
 
 |
 
-Prostatites aiguës et orchites, niveau 3
+Prostatites aiguës et orchites, niveau 3.
 
 |
 
@@ -4704,7 +4704,7 @@ Prostatites aiguës et orchites, niveau 3
 
 |
 
-Prostatites aiguës et orchites, niveau 4
+Prostatites aiguës et orchites, niveau 4.
 
 |
 
@@ -4716,7 +4716,7 @@ Prostatites aiguës et orchites, niveau 4
 
 |
 
-Prostatites aiguës et orchites, très courte durée
+Prostatites aiguës et orchites, très courte durée.
 
 |
 
@@ -4728,7 +4728,7 @@ Prostatites aiguës et orchites, très courte durée
 
 |
 
-Autres infections et inflammations de l'appareil génital masculin, niveau 1
+Autres infections et inflammations de l'appareil génital masculin, niveau 1.
 
 |
 
@@ -4740,7 +4740,7 @@ Autres infections et inflammations de l'appareil génital masculin, niveau 1
 
 |
 
-Autres infections et inflammations de l'appareil génital masculin, niveau 2
+Autres infections et inflammations de l'appareil génital masculin, niveau 2.
 
 |
 
@@ -4752,7 +4752,7 @@ Autres infections et inflammations de l'appareil génital masculin, niveau 2
 
 |
 
-Autres infections et inflammations de l'appareil génital masculin, niveau 3
+Autres infections et inflammations de l'appareil génital masculin, niveau 3.
 
 |
 
@@ -4764,7 +4764,7 @@ Autres infections et inflammations de l'appareil génital masculin, niveau 3
 
 |
 
-Autres infections et inflammations de l'appareil génital masculin, niveau 4
+Autres infections et inflammations de l'appareil génital masculin, niveau 4.
 
 |
 
@@ -4776,7 +4776,7 @@ Autres infections et inflammations de l'appareil génital masculin, niveau 4
 
 |
 
-Autres infections et inflammations de l'appareil génital masculin, très courte durée
+Autres infections et inflammations de l'appareil génital masculin, très courte durée.
 
 |
 
@@ -4788,7 +4788,7 @@ Autres infections et inflammations de l'appareil génital masculin, très courte
 
 |
 
-Explorations et surveillance des affections de l'appareil génital masculin
+Explorations et surveillance des affections de l'appareil génital masculin.
 
 |
 
@@ -4800,6 +4800,6 @@ Explorations et surveillance des affections de l'appareil génital masculin
 
 |
 
-Symptômes et autres recours aux soins de la CMD 12
+Symptômes et autres recours aux soins de la CMD 12.
 
 |
