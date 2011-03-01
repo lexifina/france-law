@@ -1,7 +1,5 @@
 # Article B I
 
--
-
 B.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
@@ -14,7 +12,9 @@ services du ministère chargé de l'éducation nationale
 
 NOMBRE
 
-d'emplois |
+d'emplois
+
+|
 
 Localisation
 
@@ -24,9 +24,7 @@ Intitulé du poste
 
 |
 
-Rectorat de l'académie d'Aix-Marseille
-
-|
+Rectorat de l'académie d'Aix-Marseille |
 
 Adjoint au secrétaire général d'académie, chargé de la programmation
 
@@ -72,9 +70,13 @@ Responsable de la division de l'organisation scolaire-A effet du 1er septembre 2
 
 |
 
-Rectorat de l'académie d'Aix-Marseille |
+Rectorat de l'académie d'Aix-Marseille
 
-Responsable de la division financière |
+|
+
+Responsable de la division financière
+
+|
 
 1 |
 
@@ -358,7 +360,7 @@ Agent comptable-A effet du 1er septembre 2008
 
 |
 
-Académie de Besançon ― Etablissement public local d'enseignement ― Lycée
+Académie de Besançon - Etablissement public local d'enseignement - Lycée
 
 |
 
@@ -1904,9 +1906,7 @@ Rectorat de l'académie de Nice
 
 |
 
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
+Adjoint au secrétaire général d'académie, directeur des ressources humaines |
 
 1
 
@@ -1916,9 +1916,7 @@ Rectorat de l'académie de Nice
 
 |
 
-Directeur des personnels
-
-|
+Directeur des personnels |
 
 1
 
@@ -2312,7 +2310,7 @@ Secrétaire général
 
 |
 
-Académie de Poitiers-Inspection académique de la Vienne
+Académie de Poitiers - Inspection académique de la Vienne
 
 |
 
@@ -3196,10 +3194,8 @@ Administration centrale du ministère chargé de l'éducation nationale
 
 |
 
-Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010
+Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département
 
 |
 
-21
-
-|
+21 |
