@@ -1,10 +1,62 @@
 # Article Annexe
 
-NATURE ET COEFFICIENTS DES ÉPREUVES
+I. - Nature et coefficients des épreuves
 
-Vous pouvez consulter le tableau dans le JO n° 41 du 18 février 2000, pages 2578 à 2580.
+1. Epreuves écrites :
 
-Déroulement des épreuves pratiques
+ÉPREUVES |
+
+COEFFICIENTS |
+
+Sciences cliniques des carnivores et des équidés
+
+|
+
+1 |
+
+Hygiène, qualité et technologie alimentaires
+
+|
+
+1 |
+
+Productions animales et pathologie des animaux de rente
+
+|
+
+1 |
+
+Législation sanitaire
+
+|
+
+3 |
+
+2. Epreuves orales et pratiques :
+
+ÉPREUVES |
+
+COEFFICIENTS |
+
+Epreuve pratique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
+
+|
+
+1 |
+
+Epreuve orale technique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
+
+|
+
+1 |
+
+Epreuve orale de législation
+
+|
+
+1 |
+
+II. - Déroulement des épreuves pratiques
 
 Sciences cliniques des carnivores et des équidés
 
