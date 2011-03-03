@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116743
+
+- Question : [SEQ110116743](seq110116743.md) — Catégorie B de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 2011-03-03, page 532*
+
+Les modalités et le calendrier de mise en oeuvre de la réforme de la catégorie B aux corps et cadres d'emplois des trois fonctions publiques ont été précisés au sein du relevé de conclusions du 7 avril 2009, qui a clos les discussions menées avec les organisations syndicales signataires du protocole du 21 février 2008 relatif aux carrières et aux politiques indemnitaires dans la fonction publique. La revalorisation des carrières intervient par un dispositif de transposition de la réforme à chaque corps et cadre d'emplois concerné, le basculement dans la nouvelle grille de rémunération devant intervenir au plus tard en fin d'année 2011 selon les modalités de reclassement arrêtées au sein du relevé de conclusions précité. S'agissant plus particulièrement de la fonction publique de l'État, le calendrier de transposition est défini par chaque ministère pour les corps relevant de son périmètre de gestion. Il doit répondre, en outre, à l'objectif fixé par le Premier ministre de fusionner les corps relevant d'une même filière de métiers, de façon à permettre une réorganisation de l'architecture statutaire de la fonction publique de l'État. Les ministères concernés mettent actuellement tout en oeuvre pour que ces opérations de fusion soient conduites dans les délais prévus par le relevé de conclusions susmentionné. À ce stade, aucun retard dans la transposition de la réforme n'a été constaté. Le Gouvernement n'envisage pas en conséquence de dispositions, qui ne pourraient être que de nature législative, visant à ce que les décrets de transposition de la réforme prennent effet antérieurement à leur publication au Journal officiel.
