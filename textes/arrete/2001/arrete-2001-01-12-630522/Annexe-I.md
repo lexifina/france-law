@@ -414,11 +414,11 @@ Aliments complets, à l'exception des :
 
 |
 
-4. Mercure.
+4. Mercure (m).
 
 |
 
-Matières premières pour aliments des animaux
+Matières premières des aliments pour animaux
 
 |
 
@@ -432,7 +432,7 @@ A l'exception de :
 
 |
 
-- aliments provenant de la transformation de poissons ou d'autres animaux marins
+- aliments provenant de poissons ou de la transformation de poissons ou d'autres animaux marins
 
 |
 
@@ -448,7 +448,7 @@ A l'exception de :
 
 |
 
-Aliments complets
+Aliments composés (complémentaires et complets)
 
 |
 
@@ -462,19 +462,39 @@ A l'exception de :
 
 |
 
-- aliments complets pour chiens et chats
-
-|
-
-0,4
-
-|
-
-Aliments complémentaires
+- aliments minéraux
 
 |
 
 0,2
+
+|
+
+- aliments composés pour poissons
+
+|
+
+0,2
+
+|
+
+- aliments composés pour chiens, chats et animaux à fourrure
+
+|
+
+0,3
+
+|
+
+5. Nitrites.
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+15 (exprimé en nitrite de sodium)
 
 |
 
@@ -484,25 +504,23 @@ A l'exception de :
 
 |
 
-- aliments complémentaires pour chiens et chats.
+- farine de poisson
 
 |
 
-|
-
-5. Nitrites.
+30 (exprimé en nitrite de sodium)
 
 |
 
-Farine de poisson
+- fourrage ensilé
 
 |
 
-60 (exprimé en nitrite de sodium)
+-
 
 |
 
-Aliments complets, à l'exception de :
+Aliments complets
 
 |
 
@@ -510,7 +528,17 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments pour animaux familiers sauf les oiseaux et poissons d'ornement.
+A l'exception de :
+
+|
+
+|
+
+- aliments complets pour chiens et chats d'une teneur en humidité supérieure à 20 %
+
+|
+
+-
 
 |
 
@@ -784,11 +812,17 @@ Aliments complets, à l'exception de :
 
 |
 
-Matières premières pour aliments pour animaux, à l'exception de :
+Matières premières des aliments pour animaux
 
 |
 
 20
+
+|
+
+A l'exception de :
+
+|
 
 |
 
@@ -808,7 +842,7 @@ Matières premières pour aliments pour animaux, à l'exception de :
 
 |
 
-Aliments complets, à l'exception de :
+Aliments complets
 
 |
 
@@ -816,7 +850,13 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour bovins, ovins et caprins
+A l'exception de :
+
+|
+
+|
+
+- aliments complets pour bovins adultes
 
 |
 
@@ -824,7 +864,15 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour volailles (à l'exception des volailles de ponte) et aliments complets pour veaux
+- aliments complets pour ovins (à l'exception des agneaux) et caprins (à l'exception des chevreaux)
+
+|
+
+300
+
+|
+
+- aliments complets pour volailles (à l'exception des volailles pondeuses) et veaux
 
 |
 
@@ -832,7 +880,7 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments complets pour lapins et porcs (à l'exception des porcelets)
+- aliments complets pour lapins, agneaux, chevreaux et porcs (à l'exception des porcelets)
 
 |
 
@@ -942,7 +990,9 @@ Tous les aliments contenant des céréales non moulues
 
 |
 
-8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble autres que : Datura spp. |
+8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble autres que : Datura spp.
+
+|
 
 Tous les aliments
 
@@ -1499,10 +1549,6 @@ Tous les aliments
 |
 
 Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.
-
-|
-
-5. Mowrah, Bassia, Madhuca-Madhuca longilolia (L.) Macbr. (= Bassia longifolia L. = Illipe malabrorum Engl.) Madhuca indica Gmelin (= Bassia latifolia (Roxb.) = lllipe latifolia [Roscb.] F. Mueller).
 
 |
 
@@ -2125,6 +2171,8 @@ Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels 
 (j) Isolément ou ensemble, exprimée en dieldrine.
 
 (k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
+
+(m) Les teneurs maximales se rapportent aux teneurs totales en mercure. Les teneurs maximales renvoient à une détermination analytique du mercure, l'extraction s'effectuant dans de l'acide nitrique (5 % p/ p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
 
 (*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831/2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.
 
