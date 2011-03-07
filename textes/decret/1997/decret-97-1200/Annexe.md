@@ -96,7 +96,7 @@ Article 11.
 
 |
 
-Décret n° 2002-628 du 25 avril 2002 pris pour l'application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France
+Décret n° 2002-628 du 25 avril 2002 pris pour l'application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France.
 
 1
 
@@ -161,6 +161,20 @@ Premier alinéa de l’article 75, troisième alinéa de l’article 77, premier
 |
 
 2. Décisions administratives individuelles prises par le ministre chargé de la culture et de la communication
+
+Code de la santé publique
+
+1
+
+|
+
+Agrément nécessaire à l’activité d’hébergement de données de santé à caractère personnel sur support papier
+
+|
+
+Art. R. 1111-16.
+
+|
 
 Décret du 18 mars 1924 modifié portant règlement d'administration publique pour l'application de la loi du 31 décembre 1913 sur les monuments historiques
 
@@ -526,7 +540,7 @@ Articles R. 324-1 et R. 324-3 du code de la propriété intellectuelle.
 
 |
 
-Décret n° 2002-628 du 25 avril 2002 pris pour l’application de la loi no 2002-5 du 4 janvier 2002 relative aux musées de France.
+Décret n° 2002-628 du 25 avril 2002 pris pour l’application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France
 
 1
 

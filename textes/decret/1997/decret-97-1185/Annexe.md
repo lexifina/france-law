@@ -970,7 +970,7 @@ Art. R. 1114-9.
 
 |
 
-Agrément nécessaire à l'activité d'hébergement de données de santé à caractère personnel.
+Agrément nécessaire à l'activité d'hébergement de données de santé à caractère personnel sur support informatique.
 
 |
 
