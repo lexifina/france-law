@@ -1,10 +1,6 @@
 # Article Annexe I (suite)
 
-II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A
-
-CHAQUE POINT DE CONTROLE APPLICABLE AUX VEHICULES
-
-LOURDS A REGLEMENTATION SPECIFIQUE
+II - LISTE DES OBSERVATIONS CONSTATABLES RELATIVES A CHAQUE POINT DE CONTROLE APPLICABLE AUX VEHICULES LOURDS A REGLEMENTATION SPECIFIQUE
 
 |
 
@@ -230,7 +226,7 @@ M |
 
 10.1.4. ATTESTATION DE VERIFICATION PERIODIQUE DU DISPOSITIF ETHYLOTEST
 
-ANTI-DEMARRAGE (EAD)
+ANTI-DEMARRAGE (EAD) (1)
 
 |
 
@@ -9176,9 +9172,9 @@ Tout véhicule pour lequel une contre-visite a été prescrite au titre du colle
 
 Freinage
 
-Le contrôle du freinage est réalisé sur freinomètre. Toutefois, lorsque le contrôle sur freinomètre n'est pas réalisable, l'essai est réalisé sur une piste à l'aide du décéléromètre. Les autres méthodes de mesure de la décélération ne sont mises en œuvre que si elles font l'objet d'un avis favorable du ministre chargé des transports.
+Certains véhicules ont des caractéristiques telles que la mesure de l'efficacité du freinage sur un banc de freinage est impossible. Dans ce cas, l'essai est réalisé sur une piste, à l'aide d'un décéléromètre. D'autres méthodes de mesure de la décélération peuvent être mises en œuvre sous réserve d'un avis favorable préalable du ministre chargé des transports.
 
-Tout véhicule pour lequel un défaut ou une anomalie a été relevé au titre d'un des points de contrôle touchant le système de freinage fait l'objet, lors de la contre-visite avec ou sans interdiction de circuler, de l'ensemble des contrôles prescrits pour le système de freinage.
+Tout véhicule pour lequel un défaut ou une anomalie a été relevé au titre d'un des points de contrôle touchant le système de freinage fait l'objet, lors de la contre-visite avec ou sans interdiction de circuler, de l'ensemble des contrôles prescrits pour le système de freinage. Pour tout véhicule pour lequel l'ensemble 1.1 a été réalisé sur un freinomètre, lors de la contre-visite, l'ensemble 1.1 est à nouveau réalisé sur freinomètre.
 
 Dans le cas de la présentation d'un ensemble (tracteur-remorque) au contrôle technique, lorsque l'un des véhicules est soumis à contre-visite à l'issue d'un contrôle technique, c'est le même ensemble qui est présenté à la contre-visite, si la contre-visite n'est pas réalisée sur un freinomètre à rouleaux.
 
@@ -9348,7 +9344,7 @@ Véhicules transportant des objets fragiles
 
 |
 
-C
+V
 
 |
 
@@ -9356,7 +9352,7 @@ C
 
 |
 
-Roulottes habitables, transport de glaces
+Roulottes habitables, transports de glaces
 
 |
 
@@ -9434,11 +9430,39 @@ V
 
 |
 
+12 |
+
+Transports de marchandises dangereuses EXII et EXIII (catégories N1, O1, O2) |
+
+V
+
+|
+
+V
+
+|
+
+|
+
+13 |
+
+Transports de marchandises dangereuses (hors TRR) affectés exclusivement à la classe 7 avec autorisation spécifique de circulation |
+
+V
+
+|
+
+V
+
+|
+
+|
+
 (1) Lorsque le refus a été motivé par une insuffisance de freinage.
 
-(2) V = véhicule présenté à vide.
+(2) V = poids du véhicule présenté inférieur au 2/3 du PTAC.
 
-C = véhicule présenté en charge (au minimum 2 / 3 du PTAC).
+C = poids du véhicule présenté supérieur ou égal au 2/3 du PTAC.
 
 |
 
@@ -10557,3 +10581,7 @@ Les véhicules, mis en circulation jusqu'au 30 avril 1957, ne sont pas soumis au
 3 Véhicules de genre TRR présentés seuls au contrôle
 
 Dans le cas où un véhicule de genre TRR est présenté seul au contrôle technique, le commentaire suivant est porté sur le procès-verbal : "sellette non vérifiée".
+
+NOTA :
+
+Arrêté du 18 février 2011 article 6 III : La date d'application du point 10.1.4 prévu au II. - Liste des observations constatables relatives à chaque point de contrôle applicable aux véhicules lourds soumis à réglementation spécifique de la partie B est reportée au 1er juillet 2011.

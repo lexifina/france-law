@@ -98,6 +98,8 @@ b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présent
 
 4. La copie de la notification d'agrément du réseau pour le contrôle technique des véhicules lourds.
 
+5. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
+
 II. - Demande d'agrément
 
 L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
@@ -228,11 +230,15 @@ b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présent
 
 6. L'avis de l'organisme technique central suivant le modèle de l'appendice 10 de la présente annexe.
 
-7. Dans le cas d'une demande de renouvellement d'agrément :
+7. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
+
+8. Dans le cas d'une demande de renouvellement d'agrément :
 
 a) Les éléments permettant d'apprécier que l'installation répond aux besoins des usagers, assure une meilleure couverture géographique ou réduit les déplacements imposés aux véhicules lourds ;
 
 b) Un bilan d'activité sur les quatre dernières années permettant d'apprécier l'objectivité et la qualité des contrôles techniques effectués.
+
+c. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté.
 
 II. - Demande d'agrément
 
@@ -327,6 +333,22 @@ Le dossier de demande de renouvellement est transmis au moins six mois avant la 
 - un bilan de l'activité du réseau sur la période écoulée d'agrément ;
 
 - un bilan détaillé des activités en installations auxiliaires.
+
+Chapitre VI
+
+Organismes d'audit
+
+I. - Demande initiale d'agrément
+
+Le dossier de demande initiale d'agrément prévu à l'article 35-1 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central.
+
+II. - Modification du dossier d'agrément
+
+Toute modification du dossier d'agrément est portée à la connaissance du ministre chargé des transports dans les meilleurs délais conformément au cahier des charges visé à l'article 35-1 du présent arrêté.
+
+III. - Demande de renouvellement d'agrément
+
+Le dossier de demande de renouvellement prévu à l'article 35-1 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
 
 APPENDICE 1
 
@@ -632,19 +654,13 @@ Matériels
 
 |
 
-Ligne 1
+Ligne 1 |
 
-|
+Ligne 2 |
 
-Ligne 2
+Ligne X |
 
-|
-
-Ligne X
-
-|
-
-Fosse ou appareil de levage
+- fosse |
 
 |
 
@@ -652,13 +668,7 @@ Fosse ou appareil de levage
 
 |
 
-|
-
-Freinomètre à rouleaux
-
-Conformité délivrée par :
-
-Date de mise en service :
+ou |
 
 |
 
@@ -666,11 +676,7 @@ Date de mise en service :
 
 |
 
-|
-
-Plaques à jeux
-
-Date de mise en service :
+- appareil de levage (marque, type, date de mise en service) |
 
 |
 
@@ -678,13 +684,7 @@ Date de mise en service :
 
 |
 
-|
-
-Opacimètre
-
-Conformité délivrée par :
-
-Date de mise en service
+Freinomètre à rouleaux |
 
 |
 
@@ -692,15 +692,7 @@ Date de mise en service
 
 |
 
-|
-
-Contrôle du réglage
-
-des phares
-
-Conformité délivrée par :
-
-Date de mise en service
+- marque |
 
 |
 
@@ -708,7 +700,217 @@ Date de mise en service
 
 |
 
+- type |
+
 |
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Plaques à jeux |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Opacimètre |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Contrôle du réglage des phares |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité. |
 
 Préciser pour chaque équipement mécanique, la marque, le modèle et/ou le type
 
@@ -848,19 +1050,13 @@ Matériels
 
 |
 
-Ligne 1
+Ligne 1 |
 
-|
+Ligne 2 |
 
-Ligne 2
+Ligne X |
 
-|
-
-Ligne X
-
-|
-
-Fosse ou appareil de levage
+- fosse |
 
 |
 
@@ -868,13 +1064,7 @@ Fosse ou appareil de levage
 
 |
 
-|
-
-Freinomètre à rouleaux
-
-Conformité délivrée par :
-
-Date de mise en service :
+ou |
 
 |
 
@@ -882,11 +1072,7 @@ Date de mise en service :
 
 |
 
-|
-
-Plaques à jeux
-
-Date de mise en service :
+- appareil de levage (marque, type, date de mise en service) |
 
 |
 
@@ -894,13 +1080,7 @@ Date de mise en service :
 
 |
 
-|
-
-Opacimètre
-
-Conformité délivrée par :
-
-Date de mise en service
+Freinomètre à rouleaux |
 
 |
 
@@ -908,15 +1088,7 @@ Date de mise en service
 
 |
 
-|
-
-Contrôle du réglage
-
-des phares
-
-Conformité délivrée par :
-
-Date de mise en service
+- marque |
 
 |
 
@@ -924,7 +1096,217 @@ Date de mise en service
 
 |
 
+- type |
+
 |
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Plaques à jeux |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Opacimètre |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Contrôle du réglage des phares |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes |
+
+|
+
+|
+
+|
+
+- marque |
+
+|
+
+|
+
+|
+
+- type |
+
+|
+
+|
+
+|
+
+- numéro de série |
+
+|
+
+|
+
+|
+
+- conformité (*) |
+
+|
+
+|
+
+|
+
+- date de mise en service |
+
+|
+
+|
+
+|
+
+(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité. |
 
 Préciser pour chaque équipement mécanique, la marque, le modèle et/ou le type ..................................................................................................................................
 
