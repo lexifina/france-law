@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216270
+
+- Question : [SEQ101216270](seq101216270.md) — Bilan, montant des crédits pour 2011 et taux d'intervention du FISAC dans la Creuse
+
+## Réponse
+
+*Commerce, JO du 2011-03-10, page 596*
+
+La réforme du Fonds d'intervention pour les services, l'artisanat et le commerce (FISAC), intervenue en 2008, a eu pour objet de mettre ce fonds au service d'un meilleur exercice des activités commerciales, artisanales et de services dans les communes rurales et dans les villes. L'utilisation des dotations FISAC doit, naturellement, obéir à un impératif d'efficacité en finançant en priorité les actions innovantes et non répétitives, qui ont l'impact le plus tangible sur les activités commerciales, artisanales et de services et qui reposent sur un réel partenariat et sur des financements équilibrés des différents cofinanceurs. Le montant de la dotation pour 2011 a été fixée à 64 M€ par la loi de finances pour 2011, soit le même montant que pour l'année 2010. Le comité interministériel d'aménagement du territoire, réuni le 11 mai 2010 dans le prolongement des assises des territoires ruraux, a décidé que les projets de maintien de commerces en zone rurale seront accompagnés plus fortement par une intervention consultative du FISAC dans les zones de revitalisation rurale (ZRR) grâce à une majoration du taux d'intervention qui sera porté à 40 % en investissement. Cette mesure nécessitant une modification du décret n° 2008-1475 du 30 décembre 2008 régissant le FISAC, un projet de texte en ce sens est en cours de signature. Enfin, le montant des aides directes accordées aux entreprises du département de la Creuse, depuis 2005, dans le cadre des opérations collectives de modernisation en milieu rural, représente une somme de 686 121 €. Le nombre des entreprises accompagnées s'élève à 529.
