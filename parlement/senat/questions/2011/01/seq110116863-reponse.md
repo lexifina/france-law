@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116863
+
+- Question : [SEQ110116863](seq110116863.md) — Date des soldes pour les commerces indépendants
+
+## Réponse
+
+*Commerce, JO du 2011-03-10, page 596*
+
+La loi de modernisation de l'économie a, en dernier lieu, modifié le régime juridique des soldes en instaurant, d'une part, des dates nationales pour les deux périodes de soldes traditionnels (avec possibilité de dérogation pour les départements frontaliers ou pour ceux connaissant une forte saisonnalité des ventes) en remplacement de la départementalisation et, d'autre part, deux semaines de soldes complémentaires mises à la disposition des commerçants à des dates librement choisies à l'exception du mois précédant les soldes d'hiver et d'été. Seuls les départements connaissant des opérations commerciales menées dans des régions frontalières ou une forte saisonnalité des ventes peuvent bénéficier du régime dérogatoire. Ils figurent à l'annexe de l'article D. 310-15-3 du code de commerce. La date nationale de démarrage des soldes saisonniers répond à une demande des organisations professionnelles du secteur du commerce qui jugeaient néfaste l'éparpillement des dates de démarrage des périodes de soldes qui prévalaient jusqu'en 2009. Ce dispositif permet, par sa prévisibilité, une meilleure gestion des stocks et des moyens humains et contribue au développement de synergies (campagnes publicitaires) autour de l'événement commercial que constituent les soldes. S'agissant du choix de la date de démarrage de la période des soldes d'hiver, fixée au deuxième mercredi du mois de janvier à 8 heures, date qui peut être avancée au premier mercredi lorsque le deuxième intervient après le 12 du mois, il résulte d'une concertation avec les organisations professionnelles représentatives du monde du commerce.
