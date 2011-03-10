@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116905
+
+- Question : [SEQ110116905](seq110116905.md) — Plan national maladies rares
+
+## Réponse
+
+*Travail, JO du 2011-03-10, page 606*
+
+Depuis la remise des propositions aux ministres en juillet 2010, le ministère à la santé a, d'une part, entrepris un travail de mise en forme du prochain Plan national maladies rares à partir de celles-ci et, d'autre part, a engagé une concertation approfondie avec les acteurs, dont notamment les associations de patients atteints de maladies rares. Le plan, qui sera très prochainement rendu public, capitalisera sur les points forts et les crédits du premier plan et renouvellera l'ambition de lutte contre les maladies rares autour de trois axes dotés de moyens supplémentaires : améliorer la qualité de la prise en charge des patients atteints de maladies rares, développer la recherche sur les maladies rares et amplifier les coopérations européenne et internationale. Il s'attachera notamment à faire progresser le recueil des données épidémiologiques relatives aux maladies rares, telles que l'hypophosphatasie, en s'appuyant sur une banque nationale de données, à développer les liens avec les acteurs du champ médico-social et à créer une fondation « maladies rares ». Cette fondation reposera sur la mobilisation de l'ensemble des acteurs publics, industriels et associatifs pour définir des axes stratégiques communs au sein d'une structure de concertation partagée. Enfin, en raison du nombre limité de malades pour chacune des maladies rares et de la rareté de l'expertise elle-même, la France a toujours plaidé pour une approche européenne de cette thématique. Ce deuxième plan s'attachera ainsi à amplifier cette coopération afin de partager l'expertise, les expériences et les ressources disponibles sur les maladies rares.
