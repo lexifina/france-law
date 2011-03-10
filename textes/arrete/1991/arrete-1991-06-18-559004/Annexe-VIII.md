@@ -110,7 +110,7 @@ Arrêté du 8 janvier 2001
 
 |
 
-D. Taxis et véhicules de remise
+D. Taxis et voitures de tourisme avec chauffeur
 
 |
 
@@ -126,15 +126,13 @@ Licence de circulation pour les véhicules de grande remise
 
 |
 
-Décret n° 55-961 du 15 juillet 1955
-
-|
+Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme |
 
 Néant pour les autres véhicules
 
 |
 
-Décret n° 73-225 du 2 mars 1973 modifié
+Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme
 
 |
 
@@ -161,24 +159,6 @@ Déclaration d'affectation
 Article R. 323-24 du Code de la route
 
 arrêté du 29 novembre 1994 modifié
-
-|
-
-H. Véhicule de collection
-
-|
-
-Certificat d'immatriculation avec mention d'usage "Véhicule de collection"
-
-|
-
-5 ans à compter du contrôle technique favorable.
-
-|
-
-5 ans |
-
-Arrêté du 14 octobre 2009 relatif aux véhicules de collection
 
 |
 
@@ -212,17 +192,21 @@ Véhicules de transport de matières dangereuses
 
 |
 
-Arrêté du 1er juin 2001 dit arrêté ADR
+Arrêté du 29 mai 2009 dit "arrêté TMD"
 
 |
 
-Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg |
+Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg
 
-Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds |
+|
+
+Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds
+
+|
 
 PARTIE C
 
-Véhicules soumis à des contrôles complémentaires
+Autres véhicules soumis à des contrôles supplémentaires
 
 FONCTIONS COMPLEMENTAIRES
 
@@ -232,7 +216,7 @@ VEHICULES CONCERNES
 
 |
 
-G. - Contrôle complémentaire de l'installation de gaz carburant sur véhicule
+G. - Contrôle de l'installation gaz carburant sur véhicule
 
 |
 

@@ -124,7 +124,7 @@ N
 
 |
 
-0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification, sur un caractère
+0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)
 
 |
 
@@ -132,7 +132,7 @@ N
 
 |
 
-0.2.1.2.4. Non-concordance du numéro d'identification avec le document d'identification, sur plus d'un caractère
+0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)
 
 |
 
@@ -146,19 +146,19 @@ O
 
 |
 
-0.2.1.3.1. Absence
+0.2.1.3.1. Absence (2)
 
 |
 
-O
+N
 
 |
 
-0.2.1.3.2. Illisible ou contrôle impossible
+0.2.1.3.2. Illisible ou contrôle impossible (2)
 
 |
 
-O
+N
 
 |
 
@@ -174,7 +174,7 @@ O
 
 |
 
-0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification, sur un caractère
+0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)
 
 |
 
@@ -182,11 +182,19 @@ N
 
 |
 
-0.2.2.2.4. Non-concordance du numéro d'identification avec le document d'identification, sur plus d'un caractère
+0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)
 
 |
 
 O
+
+|
+
+0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid (2)
+
+|
+
+N
 
 |
 
@@ -407,6 +415,28 @@ N
 |
 
 0.4.5.1.1. Non-concordance avec le document d'identification
+
+|
+
+N
+
+|
+
+0.4.6 Document d'identification (2)
+
+|
+
+|
+
+0.4.6.1. Spécification (2)
+
+|
+
+|
+
+0.4.6.1.1. Nombre de caractères du numéro d'identification différent de celui des numéros de plaque
+
+constructeur ou de frappe à froid (2)
 
 |
 
@@ -1373,3 +1403,7 @@ N
 N
 
 |
+
+NOTA :
+
+(2) A compter du 1er avril 2011.

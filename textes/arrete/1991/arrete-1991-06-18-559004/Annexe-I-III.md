@@ -774,6 +774,14 @@ O
 
 |
 
+4.1.1.1.3. Réglage anormalement bas (D, G) (2)
+
+|
+
+O
+
+|
+
 4.2. ECLAIRAGE
 
 |
@@ -2105,3 +2113,7 @@ O
 O
 
 |
+
+NOTA :
+
+(2) A compter du 1er avril 2011.
