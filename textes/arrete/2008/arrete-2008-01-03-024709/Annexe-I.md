@@ -8,29 +8,19 @@ I. ― Composition du dossier d'agrément
 
 Renseignements généraux sur l'établissement :
 
-― nom et qualité de l'établissement (statut juridique, adresse postale et électronique, téléphone, télécopie, responsable à contacter) ;
+- nom et qualité de l'établissement (statut juridique, adresse postale et électronique, téléphone, télécopie, responsable à contacter) ;
 
-― copie de la déclaration d'activité prévue à l'article L. 920-4 du code du travail ;
+- copie de la déclaration d'activité prévue à l'article L. 6351-1 du code du travail ;
 
-― règlement intérieur du centre de formation applicable aux stagiaires ;
+- règlement intérieur du centre de formation applicable aux stagiaires comportant notamment les principales mesures applicables en matière de santé et de sécurité dans l'établissement ;
 
-― état prévisionnel des recettes et des dépenses du centre demandeur ;
+- état prévisionnel des recettes et des dépenses du centre demandeur ;
 
-― copie des contrats ou conventions par lesquels le centre demandeur confie à un autre centre de formation agréé la réalisation d'une partie des formations obligatoires de conducteur. Ces documents doivent faire apparaître avec précision la part des formations obligatoires réalisées ou à réaliser par le centre demandeur et celle confiée au centre cocontractant ainsi que les moyens humains et matériels dont dispose ce dernier pour réaliser les formations prévues ;
+- copie des contrats ou conventions par lesquels le centre demandeur confie à un autre centre de formation agréé la réalisation d'une partie des formations obligatoires de conducteur. Ces documents doivent faire apparaître avec précision la part des formations obligatoires réalisées ou à réaliser par le centre demandeur et celle confiée au centre cocontractant ainsi que les moyens humains et matériels dont dispose ce dernier pour réaliser les formations prévues ;
 
-― pour les centres mentionnés au I de l'article 2 (centres effectuant des formations diplomantes, qualifiantes ou longues de conducteur routier) :
+- bilan(s) pédagogique(s) et financier(s) des formations professionnelles diplômantes, qualifiantes ou longues réalisées au cours des trois années précédant la demande, s'il y a lieu, et des formations professionnelles obligatoires initiales et/ou continues de conducteur routier réalisées depuis la date du dernier agrément ;
 
-― bilan(s) pédagogique(s) des formations professionnelles diplômantes, qualifiantes ou longues réalisées depuis deux ans et bilan(s) financier(s) ;
-
-― copie de la décision préfectorale d'agrément pour les établissements préparant au titre professionnel de conducteur routier ;
-
-― copie de la convention passée avec le ministère chargé de l'éducation nationale pour les établissements qui ont conclu une telle convention ;
-
-― toute convention ou document permettant d'apprécier l'expérience et le savoir-faire de l'établissement en matière de formation longue (supérieure ou égale à 140 heures) de conducteur routier au-delà du permis de conduire ;
-
-― pour les centres mentionnés au II de l'article 2 :
-
-― bilans pédagogiques des formations professionnelles obligatoires initiales et/ou continues et des formations diplômantes ou qualifiantes réalisées au cours des trois dernières années par ce centre ou depuis la date du dernier agrément.
+- toute décision préfectorale d'agrément, toute convention ou tout document permettant d'apprécier l'expérience et le savoir-faire de l'établissement demandeur, en matière de formation de conducteur routier au-delà du permis de conduire des catégories C ou D.
 
 Moyens de l'établissement :
 
