@@ -22,7 +22,7 @@ Néant.
 
 |
 
-Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéosurveillance.
+Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéoprotection.
 
 |
 

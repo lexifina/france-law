@@ -8,53 +8,53 @@ Le plan de sûreté portuaire comprend les parties suivantes :
 
 2. Eléments administratifs.
 
-2. 1. Tableau d'enregistrement des modifications ou compléments du plan.
+2.1. Tableau d'enregistrement des modifications ou compléments du plan.
 
-2. 2. Auteur du plan, dates des avis et approbations, fin de validité.
+2.2. Auteur du plan, dates des avis et approbations, fin de validité.
 
-2. 3. Identification et coordonnées des personnes responsables en matière de sûreté.
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté.
 
-2. 3. 1. Au niveau du port.
+2.3.1. Au niveau du port.
 
-2. 3. 2. Au niveau de chaque installation portuaire :
+2.3.2. Au niveau de chaque installation portuaire :
 
-2. 3. 2. 1. à 2. 3. 2. n : installation portuaire n° 1 à n.
+2.3.2.1. à 2.3.2. n : installation portuaire n° 1 à n.
 
-2. 4. Liste de diffusion du plan.
+2.4. Liste de diffusion du plan.
 
-2. 4. 1. Volume 1.-Confidentiel Sûreté (ce volume comprend le plan de sûreté portuaire dans son entier).
+2.4.1. Volume 1.-Confidentiel Sûreté (ce volume comprend le plan de sûreté portuaire dans son entier).
 
-2. 4. 2. Volume 2.-Distribution Limitée Sûreté (ce volume ne reprend que les informations communicables aux agents chargés d'effectuer les visites de sûreté, listées au point 11 du plan de sûreté portuaire).
+2.4.2. Volume 2.-Distribution Limitée Sûreté (ce volume ne reprend que les informations communicables aux agents chargés d'effectuer les visites de sûreté, listées au point 11 du plan de sûreté portuaire).
 
 3. Synthèse de l'évaluation de la sûreté du port.
 
 4. Organisation générale de la sûreté du port.
 
-4. 1. Organisation de l'autorité portuaire en matière de sûreté.
+4.1. Organisation de l'autorité portuaire en matière de sûreté.
 
-4. 2. Coordination avec les installations portuaires.
+4.2. Coordination avec les installations portuaires.
 
-4. 3. Articulation avec les autres plans et procédures.
+4.3. Articulation avec les autres plans et procédures.
 
-4. 4. Gestion documentaire et protection du plan de sûreté portuaire.
+4.4. Gestion documentaire et protection du plan de sûreté portuaire.
 
 5. Protection des plans d'eau.
 
 6. Accès et circulation dans le port.
 
-6. 1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans un port comprenant un ou des points d'importance vitale.
+6.1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans un port comprenant un ou des points d'importance vitale.
 
-6. 2. Inventaire des zones d'accès restreint portuaires.
+6.2. Inventaire des zones d'accès restreint portuaires.
 
-6. 2. 1. à 6. 2. n. Zone d'accès restreint portuaire n° 1 à n.
+6.2.1. à 6.2. n. Zone d'accès restreint portuaire n° 1 à n.
 
-6. 3. Protection et contrôle des accès en zones d'accès restreint portuaires.
+6.3. Protection et contrôle des accès en zones d'accès restreint portuaires.
 
-6. 3. 1 à 6. 3. n. Inventaire des accès des zones d'accès restreint.
+6.3.1 à 6.3. n. Inventaire des accès des zones d'accès restreint.
 
-6. 4. Gestion des titres de circulation.
+6.4. Gestion des titres de circulation.
 
-6. 5. Zones non librement accessibles.
+6.5. Zones non librement accessibles.
 
 7. Conduite à tenir en cas d'alerte de sûreté, ou d'incident avéré ou de sinistre.
 
@@ -70,7 +70,7 @@ Le plan de sûreté portuaire comprend les parties suivantes :
 
 -Numéro national attribué au port par la DGMT : les deux premiers chiffres du numéro d'identification des installations portuaires du port suivis de deux zéros ;
 
--Indicatif international : les cinq lettres (NN-XYZ) du code des Nations unies UN / LOCODE United Nations code for trade and transport locations (disponible sur http://www.unece.org/locode).
+-Indicatif international : les cinq lettres (NN-XYZ) du code des Nations unies UN/ LOCODE United Nations code for trade and transport locations (disponible sur http :// www. unece. org/ locode).
 
 Si le port ou une partie du port est désigné point d'importance vitale au titre du secteur d'activité Transports, préciser en outre :
 
@@ -86,11 +86,137 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 
 -Titre (en majuscule) : PLAN DE SÛRETÉ DU PORT DE XX.
 
-Vous pouvez consulter le tableau dans le JO
+2. Éléments administratifs
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+(à placer à partir de la page deux du document)
 
-2. 2. Autour du plan, dates des avis et approbations concernant l'ESP et le PSP, dates de fin de validité de l'ESP et du PSP.
+2.1. Tableau d'enregistrement des modifications ou compléments au plan de sûreté du port de xx,
+
+apportés par l'agent de sûreté du port et approuvés par le préfet
+
+|
+
+NUMERO
+
+de la modification ou du complément
+
+|
+
+DATE
+
+de la modification ou du complément
+
+|
+
+DISPOSITIONS
+
+avant modification ou complément
+
+|
+
+DISPOSITIONS
+
+après modification ou complément
+
+|
+
+VISA
+
+de l'agent de sûreté portuaire (date et signature)
+
+|
+
+DÉCISION
+
+du préfet de prescrire une nouvelle approbation : résumé de la motivation (date et signature)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.2. Autour du plan, dates des avis et approbations concernant l'ESP et le PSP, dates de fin de validité de l'ESP et du PSP.
 
 -Date de l'avis du comité local de sûreté portuaire sur l'évaluation de sûreté portuaire ;
 
@@ -108,25 +234,1339 @@ n° 107 du 07 / 05 / 2008 texte numéro 4
 
 -Liste de diffusion du PSP : liste complète des destinataires, tenue à jour.
 
-Vous pouvez consulter le tableau dans le JO
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+2.3.1. Au niveau du port
 
-Vous pouvez consulter le tableau dans le JO
+- Autorité portuaire ;
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+- Concessionnaire (éventuellement)
 
-Vous pouvez consulter le tableau dans le JO
+- Noms de l'agent de sûreté du port (ASP) et de son ou ses suppléants et coordonnées où ils peuvent être joints ;
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+ASP et
 
-Vous pouvez consulter le tableau dans le JO
+ASP suppléants
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+|
 
-Vous pouvez consulter le tableau dans le JO
+NOM
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téléph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique
+
+|
+
+ASIP
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+-Nom du correspondant sûreté du concessionnaire (s'il v a lieu) et coordonnées où il peut être Joint;
+
+Correspondant
+
+sûreté du
+
+concessionnaire
+
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téléph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique
+
+|
+
+-Liste des personnes chargées de la sûreté du port et coordonnées où elles peuvent être jointes (liste indicative) ;
+
+Fonction
+
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téleph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique
+
+|
+
+Responsable de
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PC sûreté
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Poste de contrôle
+
+accès 1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Poste de contrôle
+
+accès 2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+- Liste des personnes ressources en matière de sûreté et coordonnées où elles peuvent être jointes (listes indicatives) :
+
+Fonction
+
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téléph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse
+
+électronique
+
+|
+
+Adresse électronique
+
+|
+
+Capitainerie, AIPPP
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Direction du port (autorité portuaire)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Direction de l'exploitation du port
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Préfecture(spécifier le service)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Préfecture maritime (spécifier le service)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Police aux Frontières
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Police (Sécurité publique)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Gendarmerie
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Douanes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Affaires maritimes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Service d'incendie et de secours
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sécurité civile
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.3.2. Au niveau de chaque installation portuaire : Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/24h)
+
+Installation portuaire (numéro, nom)
+
+|
+
+ASIP et ASIP suppléants
+
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Teleph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique iquectroniquetroniqueAdressea
+
+|
+
+ASIP
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.4. Liste de diffusion du plan de sûreté portuaire
+
+2.4.1. Volume 1 - Confidentiel Sûreté - (ce volume comprend le plan de sûreté portuaire dans son métier)
+
+NOM PRENOMS
+
+|
+
+DATE
+
+de naissance
+
+|
+
+QUALITE
+
+|
+
+NUMERO
+
+d'exemplaire
+
+|
+
+DATE
+
+de remise
+
+|
+
+SIGNATURE
+
+|
+
+DATE
+
+de restitution
+
+|
+
+SIGNATURE
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.4.2. Volume 2 - Distribution limitée - : Ce volume ne reprend que les informations, listées au point 11 du plan de sûreté portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. L'identification des risques n'y figure pas.
+
+NOM PRENOMS
+
+|
+
+DATE
+
+de naissance
+
+|
+
+QUALITE
+
+|
+
+NUMERO
+
+d'exemplaire
+
+|
+
+DATE
+
+de remise
+
+|
+
+SIGNATURE
+
+|
+
+DATE
+
+de restitution
+
+|
+
+SIGNATURE
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 3. Synthèse de l'évaluation de la sûreté du port
 
@@ -134,7 +1574,7 @@ Synthèse de l'évaluation de la sûreté du port comprenant au minimum l'ensemb
 
 4. Organisation générale de la sûreté du port
 
-4. 1. Organisation de l'autorité portuaire en matière de sûreté
+4.1. Organisation de l'autorité portuaire en matière de sûreté
 
 -Structure de l'organisation de la sûreté du port au sein de l'autorité portuaire. Organigrammes ;
 
@@ -162,7 +1602,9 @@ Si le port ou une partie du port est désigné point d'importance vitale, décri
 
 -le fonctionnement du port ou de la partie du port, et son environnement ;
 
--l'effectif des personnels (employés et des sous-traitants) travaillant dans le point d'importance vitale (personnel d'exécution, cadres, nombre d'étrangers (Union européenne et hors Union européenne). 4. 2. Coordination avec les installations portuaires
+-l'effectif des personnels (employés et des sous-traitants) travaillant dans le point d'importance vitale (personnel d'exécution, cadres, nombre d'étrangers (Union européenne et hors Union européenne).
+
+4.2. Coordination avec les installations portuaires
 
 -Modalités de coordination étroite, par niveau de sûreté, de l'agent de sûreté portuaire avec les agents de sûreté des installations portuaires (travaux en commun, réunions périodiques, préparation et exécution d'exercices, etc.) ;
 
@@ -176,13 +1618,13 @@ Si le port ou une partie du port est désigné point d'importance vitale, décri
 
 -Description des tâches mutualisées et modalités de mutualisation (sauf si elles sont explicitées dans les chapitres suivants).
 
-4. 3. Articulation avec les autres plans ou procédures
+4.3. Articulation avec les autres plans ou procédures
 
 -Articulation du plan de sûreté portuaire avec d'autres plans ou activités de prévention et d'intervention. Le plan mentionne expressément les modalités d'articulation avec les autres activités de prévention et de contrôle, notamment les procédures spécifiques applicables aux marchandises dangereuses, ainsi qu'avec les plans d'intervention et d'urgence en vigueur dans le port. Le plan respecte l'impératif selon lequel les mesures de sûreté ne doivent pas porter atteinte à la sécurité ;
 
 -Indication des procédures et consignes de défense et de protection applicables, le cas échéant.
 
-4. 4. Gestion documentaire et protection du plan de sûreté portuaire
+4.4. Gestion documentaire et protection du plan de sûreté portuaire
 
 -Mesures visant à assurer le respect de la confidentialité du plan : prescriptions de protection de l'information contre la divulgation non autorisée ;
 
@@ -190,7 +1632,7 @@ Si le port ou une partie du port est désigné point d'importance vitale, décri
 
 -Identification des personnes ayant accès aux informations de sûreté protégées et des responsables du système de protection ;
 
--Critères de diffusion : le plan de sûreté portuaire comporte deux volumes physiquement séparés, l'un exhaustif et portant la mention Confidentiel Sûreté , l'autre portant la mention Distribution Limitée Sûreté et ne comprenant que les informations communicables aux personnes chargées d'effectuer les visites de sûreté. Ces informations sont énumérées limitativement au point 11 du présent plan.
+-Critères de diffusion : le plan de sûreté portuaire comporte deux volumes physiquement séparés, l'un exhaustif et portant la mention Confidentiel Sûreté, l'autre portant la mention Distribution Limitée Sûreté et ne comprenant que les informations communicables aux personnes chargées d'effectuer les visites de sûreté. Ces informations sont énumérées limitativement au point 11 du présent plan.
 
 5. Protection des plans d'eau
 
@@ -206,7 +1648,7 @@ Si le port ou une partie du port est désigné point d'importance vitale, décri
 
 Cette partie du plan décrit les procédures pour l'accès et la circulation dans le port dans les zones d'accès restreint (ZAR) portuaires et dans les zones non librement accessibles au public.
 
-6. 1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public
+6.1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public
 
 dans un port comprenant un ou des points d'importance vitale
 
@@ -220,7 +1662,7 @@ Si le port, une partie du port ou, à l'intérieur du port, un ou des équipemen
 
 -la protection des systèmes de sûreté.
 
-6. 2. Inventaire des zones d'accès restreint
+6.2. Inventaire des zones d'accès restreint
 
 Identification de chaque ZAR avec les informations suivantes :
 
@@ -234,15 +1676,13 @@ Identification de chaque ZAR avec les informations suivantes :
 
 -Schéma de circulation. Il sera prêté une attention particulière aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
-6. 3. Protection et contrôle des accès
-
-en zone d'accès restreint
+6.3. Protection et contrôle des accès en zone d'accès restreint
 
 Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories d'informations sont strictement identiques pour plusieurs ZAR, elles peuvent faire l'objet d'un paragraphe commun avant les paragraphes spécifiques à chaque ZAR :
 
 -Caractéristiques des clôtures et de tout autre équipement de protection périmétrique (dispositifs de détection d'intrusion, éclairage, notamment) ;
 
--Règles de surveillance humaines et / ou par système automatique ou de vidéosurveillance pour chaque niveau ISPS ;
+-Règles de surveillance humaines et/ ou par système automatique ou de vidéoprotection pour chaque niveau ISPS ;
 
 -Système de signalisation des interdictions de pénétrer en ZAR et, le cas échéant, dans les secteurs de ZAR ;
 
@@ -258,13 +1698,13 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 -Procédures appliquées en cas d'incident de sûreté (pénétration irrégulière, panne des équipements d'inspection-filtrage, détérioration de clôtures, etc.).
 
-6. 3. 1. ZAR n° 1
+6.3.1. ZAR n° 1
 
-6. 3. 2. ZAR n° 2
+6.3.2. ZAR n° 2
 
-6. 3. n. ZAR n° n
+6.3. n. ZAR n° n
 
-6. 4. Gestion des titres de circulation
+6.4. Gestion des titres de circulation
 
 -Procédures de délivrance et restitution des titres de circulation ;
 
@@ -278,7 +1718,7 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 -Détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres de circulation avec mention de la référence précise des parties du plan de sûreté des installations portuaires concernées dans lesquelles figure la procédure de délivrance.
 
-6. 5. Zones non librement accessibles
+6.5. Zones non librement accessibles
 
 Il peut exister au sein du port des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 321-31 et R. 321-32 du code des ports maritimes et où ne sont pas applicables les articles R. 321-33 à R. 321-47 du code des ports maritimes.
 
@@ -350,11 +1790,11 @@ Le plan de sûreté portuaire traitera au minimum chacun des points suivants :
 
 Les informations communicables aux personnes chargées d'effectuer les visites de sûreté sont les suivantes :
 
-2. 3. Identification et coordonnées des personnes responsables en matière de sûreté :
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté :
 
 -Nom et coordonnées des personnes responsables des points d'inspection-filtrage où ils exercent leur activité.
 
-6. 3. Protection et contrôle des accès en zone d'accès restreint portuaire :
+6.3. Protection et contrôle des accès en zone d'accès restreint portuaire :
 
 -Système de signalisation des interdictions de pénétrer en ZAR ;
 

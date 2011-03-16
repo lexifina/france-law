@@ -8,45 +8,45 @@ Le plan de sûreté de l'installation portuaire comprend les parties suivantes :
 
 2. Eléments administratifs.
 
-2. 1. Tableau d'enregistrement des modifications ou compléments du plan.
+2.1. Tableau d'enregistrement des modifications ou compléments du plan.
 
-2. 2 Auteur du plan, dates des avis et approbations, dates de fin de validité de l'évaluation et du plan.
+2.2 Auteur du plan, dates des avis et approbations, dates de fin de validité de l'évaluation et du plan.
 
-2. 3. Identification et coordonnées des personnes responsables en matière de sûreté.
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté.
 
-2. 4. Liste de diffusion du plan.
+2.4. Liste de diffusion du plan.
 
-2. 4. 1. Volume 1.-Confidentiel Sûreté-(ce volume comprend le plan de sûreté de l'installation portuaire dans son entier).
+2.4.1. Volume 1.-Confidentiel Sûreté-(ce volume comprend le plan de sûreté de l'installation portuaire dans son entier).
 
-2. 4. 2. Volume 2.-Distribution Limitée Sûreté-(ce volume ne reprend que les informations, listées au point 10 du plan de sûreté de l'installation portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté).
+2.4.2. Volume 2.-Distribution Limitée Sûreté-(ce volume ne reprend que les informations, listées au point 10 du plan de sûreté de l'installation portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté).
 
 3. Synthèse de l'évaluation de la sûreté de l'installation portuaire.
 
 4. Organisation générale de la sûreté de l'installation portuaire.
 
-4. 1. Organisation de l'exploitant de l'installation portuaire en matière de sûreté.
+4.1. Organisation de l'exploitant de l'installation portuaire en matière de sûreté.
 
-4. 2. Coordination avec les autres installations portuaires.
+4.2. Coordination avec les autres installations portuaires.
 
-4. 3. Articulation avec les autres plans et procédures.
+4.3. Articulation avec les autres plans et procédures.
 
-4. 4. Gestion documentaire et protection du plan de sûreté de l'installation portuaire.
+4.4. Gestion documentaire et protection du plan de sûreté de l'installation portuaire.
 
 5. Accès et circulation dans les zones d'accès restreint de l'installation portuaire.
 
-5. 1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans les installations portuaires désignées point d'importance vitale.
+5.1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans les installations portuaires désignées point d'importance vitale.
 
-5. 2. Identification et caractéristiques des zones d'accès restreint de l'installation portuaire.
+5.2. Identification et caractéristiques des zones d'accès restreint de l'installation portuaire.
 
-5. 2. 1 à 5. 2. n.
+5.2.1 à 5.2. n.
 
-5. 3. Protection et contrôle des accès en zone d'accès restreint de l'installation portuaire.
+5.3. Protection et contrôle des accès en zone d'accès restreint de l'installation portuaire.
 
-5. 3. 1 à 5. 3. n.
+5.3.1 à 5.3. n.
 
-5. 4. Gestion des titres de circulation.
+5.4. Gestion des titres de circulation.
 
-5. 5. Zones non librement accessibles.
+5.5. Zones non librement accessibles.
 
 6. Conduite à tenir en cas d'alerte de sûreté, d'incident avéré et de sinistre.
 
@@ -78,11 +78,183 @@ Si l'installation portuaire est désignée point d'importance vitale, au titre d
 
 -Titre (en majuscule) : PLAN DE SÛRETÉ DE L'INSTALLATION PORTUAIRE YY (PORT DE XX).
 
-Vous pouvez consulter le tableau dans le JO
+2. Éléments administratifs
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+2.1. Tableau d'enregistrement des modifications ou compléments au plan de sûreté de l'installation portuaire (nom, numéro)
 
-2. 2. Auteur du plan, dates des avis et approbations, fin de validité (à placer en page trois du plan de sûreté de l'installation portuaire).
+située dans le port de xx, apportés par l'agent de sûreté de l'installation portuaire et approuvés par le préfet
+
+NUMERO
+
+de la modification du complément
+
+|
+
+DATE
+
+de la modification ou du complément
+
+|
+
+DISPOSITIONS
+
+avant modifications ou complément
+
+|
+
+DISPOSITIONS
+
+après modification ou complément
+
+|
+
+VISA
+
+de l'agent de sûreté de l'installation (date et signature)
+
+|
+
+VISA
+
+du préfet et (date et signature)
+
+|
+
+DECISION
+
+du préfet de prescrire une nouvelle approbation (date et signature)
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.2. Auteur du plan, dates des avis et approbations, fin de validité (à placer en page trois du plan de sûreté de l'installation portuaire).
 
 -Auteurs du plan de sûreté de l'installation portuaire (dans le cas où le plan de sûreté de l'installation portuaire est réalisée par un organisme de sûreté habilité (OSH), mention de l'arrêté portant habilitation de l'OSH, et mention de ou des arrêtés portant agrément des personnes de l'OSH qui ont réalisé le plan de sûreté de l'installation portuaire ;
 
@@ -96,19 +268,755 @@ n° 107 du 07 / 05 / 2008 texte numéro 4
 
 -Pour chaque ZAR : numéro de la ZAR et copie de l'arrêté préfectoral créant la ZAR.
 
-2. 3. Identification et coordonnées des personnes responsables en matière de sûreté (à placer en page quatre du plan de sûreté de l'installation portuaire [plus éventuellement 4 bis, 4 ter, etc., du plan]).
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté (à placer en page quatre du plan de sûreté de l'installation portuaire [plus éventuellement 4 bis,4 ter, etc., du plan]).
 
-Vous pouvez consulter le tableau dans le JO
+- Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/24) ;
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+Installation portuaire (numéro, nom)
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+ASP et
 
-Vous pouvez consulter le tableau dans le JO
+ASP suppléants
 
-n° 107 du 07 / 05 / 2008 texte numéro 4
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téléph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique
+
+|
+
+ASIP
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Suppléant
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+- Liste des personnes chargées de la sûreté de l'installation portuaire et coordonnées où elles peuvent être jointes (liste indicative):
+
+Installation portuaire (numéro, nom)
+
+|
+
+Fonction
+
+|
+
+NOM
+
+Prénoms
+
+|
+
+Téléph.
+
+prof.
+
+|
+
+Téléph.
+
+mobile
+
+|
+
+Téleph.
+
+domicile
+
+|
+
+Fax
+
+|
+
+Adresse électronique
+
+|
+
+Responsable de
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PC sûreté
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Point d'inspection-filtrage n°1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Point d'inspection-filtrage n°2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.4. Liste de diffusion du plan de sûreté de l'installation portuaire
+
+2.4.1. Volume 1 - Confidentiel Sûreté - (Ce volume comprend le plan de sûreté de l'installation portuaire dans son entier)
+
+NOM PRENOMS
+
+|
+
+DATE
+
+de naissance
+
+|
+
+QUALITE
+
+|
+
+NUMERO
+
+d'exemplaire
+
+|
+
+DATE
+
+de remise
+
+|
+
+SIGNATURE
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.4.2. Volume 2 - Distribution limitée sûreté : ce volume ne reprend que les informations, listées au point 10 du plan de sûreté de l'installation portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. N'y figure pas l'identification des risques.)
+
+NOM PRENOMS
+
+|
+
+DATE
+
+de naissance
+
+|
+
+QUALITE
+
+|
+
+NUMERO
+
+d'exemplaire
+
+|
+
+DATE
+
+de remise
+
+|
+
+SIGNATURE
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 3. Synthèse de l'évaluation de la sûreté de l'installation portuaire
 
@@ -116,11 +1024,11 @@ Synthèse de l'évaluation de la sûreté de l'installation portuaire comprenant
 
 4. Organisation générale de la sûreté de l'installation portuaire
 
-4. 1. Plan détaillé de l'installation portuaire
+4.1. Plan détaillé de l'installation portuaire
 
 Reprendre ici le plan figurant dans l'évaluation de sûreté de l'installation portuaire en y ajoutant les protections mises en œuvre dans le cadre du plan de sûreté de l'installation portuaire.
 
-4. 2. Organisation de l'installation portuaire en matière de sûreté
+4.2. Organisation de l'installation portuaire en matière de sûreté
 
 -Structure de l'organisation de la sûreté de l'installation portuaire. Organigrammes ;
 
@@ -148,19 +1056,19 @@ Si l'installation portuaire est désignée point d'importance vitale, décrire :
 
 -l'effectif des personnels (employés et des sous-traitants) travaillant dans le point d'importance vitale (personnel d'exécution, cadres, nombre d'étrangers (Union européenne et hors Union européenne).
 
-4. 3. Coordination avec les installations portuaires adjacentes ou ayant un accès commun
+4.3. Coordination avec les installations portuaires adjacentes ou ayant un accès commun
 
 -Articulation du plan de sûreté de l'installation portuaire avec le ou les plans de sûreté d'installation portuaire adjacente (vérification des clôtures, notamment). Si l'installation portuaire est désignée point d'importance vitale, une attention particulière sera prêtée à l'articulation de son plan de sûreté avec le plan de sûreté des installations portuaires adjacentes ;
 
 -Pour les installations portuaires comprenant une ou des zones d'accès restreint desservies depuis la terre par un accès commun, pour chacune de ces ZAR, procédures de coordination devant être mises en œuvre, notamment au niveau de l'accès commun. Les procédures de coordination doivent préserver le niveau de sûreté.
 
-4. 4. Articulation avec les autres plans et procédures
+4.4. Articulation avec les autres plans et procédures
 
 -Articulation du plan de sûreté de l'installation portuaire avec d'autres plans ou activités de prévention et d'intervention. Le plan explicite les modalités d'interaction et de coordination avec les autres activités de prévention et de contrôle, notamment les procédures applicables aux matières dangereuses, ainsi qu'avec les autres plans d'intervention et d'urgence en vigueur dans l'installation portuaire ;
 
 -Indication des procédures et consignes applicables, le cas échéant, dans des domaines connexes (mesures de défense et de protection, etc.), et prise en compte par le plan.
 
-4. 5. Gestion documentaire et protection du plan de sûreté de l'installation portuaire
+4.5. Gestion documentaire et protection du plan de sûreté de l'installation portuaire
 
 -Mesures visant à assurer le respect de la confidentialité du plan : prescriptions de protection de l'information contre la divulgation non autorisée ;
 
@@ -168,13 +1076,13 @@ Si l'installation portuaire est désignée point d'importance vitale, décrire :
 
 -Identification des personnes ayant accès aux informations de sûreté protégées et des responsables du système de protection ;
 
--Critères de diffusion : le plan de sûreté de l'installation portuaire comporte deux volumes physiquement séparés, l'un exhaustif, portant la mention Confidentiel Sûreté », l'autre ne comprenant que les informations devant être connues par les personnes chargées d'effectuer les visites de sûreté, portant la mention Diffusion Limitée Sûreté ». Ces informations sont énumérées limitativement au point 10 du présent plan.
+-Critères de diffusion : le plan de sûreté de l'installation portuaire comporte deux volumes physiquement séparés, l'un exhaustif, portant la mention Confidentiel Sûreté , l'autre ne comprenant que les informations devant être connues par les personnes chargées d'effectuer les visites de sûreté, portant la mention Diffusion Limitée Sûreté . Ces informations sont énumérées limitativement au point 10 du présent plan.
 
 5. Accès et circulation dans l'installation portuaire
 
 Cette partie du plan décrit les procédures pour l'accès et la circulation dans chaque zone d'accès restreint (ZAR) de l'installation portuaire et dans les zones non librement accessibles au public.
 
-5. 1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans les installations portuaires désignées point d'importance vitale
+5.1. Dispositions communes aux zones d'accès restreint et aux zones non librement accessibles au public dans les installations portuaires désignées point d'importance vitale
 
 Si l'installation portuaire est désignée point d'importance vitale, détailler les dispositions concernant :
 
@@ -186,7 +1094,7 @@ Si l'installation portuaire est désignée point d'importance vitale, détailler
 
 -protection des systèmes de sûreté.
 
-5. 2. Identification et caractéristiques des zones d'accès restreint
+5.2. Identification et caractéristiques des zones d'accès restreint
 
 Identification de chaque ZAR avec les informations suivantes :
 
@@ -200,13 +1108,13 @@ Identification de chaque ZAR avec les informations suivantes :
 
 -Schéma de circulation. Il sera prêté une attention particulière aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
-5. 3. Protection et contrôle des accès en zone d'accès restreint
+5.3. Protection et contrôle des accès en zone d'accès restreint
 
 Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories d'informations sont strictement identiques pour plusieurs ZAR, elles peuvent faire l'objet d'un paragraphe commun avant les paragraphes spécifiques à chaque ZAR.
 
 -Caractéristiques des clôtures et de tout autre équipement de protection périmétrique ;
 
--Règles de surveillance (humaines et / ou par système automatique ou de vidéosurveillance), pour chaque niveau ISPS ;
+-Règles de surveillance (humaines et/ ou par système automatique ou de vidéoprotection), pour chaque niveau ISPS ;
 
 -Système de signalisation des interdictions de pénétrer en ZAR et, le cas échéant, dans les secteurs ;
 
@@ -222,13 +1130,13 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 -Procédures appliquées en cas d'incident de sûreté (pénétration irrégulière, panne des équipements d'inspection-filtrage, détérioration de clôtures, etc.).
 
-5. 3. 1. ZAR n° 1.
+5.3.1. ZAR n° 1.
 
-5. 3. 2. ZAR n° 2.
+5.3.2. ZAR n° 2.
 
-5. 3. n. ZAR n° n.
+5.3. n. ZAR n° n.
 
-5. 4. Gestion des titres de circulation
+5.4. Gestion des titres de circulation
 
 -Procédures de délivrance et restitution des titres de circulation ;
 
@@ -242,7 +1150,7 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 -Détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres de circulation avec mention de la référence précise des parties du plan de sûreté des installations portuaires concernées dans lesquelles se trouve la procédure de délivrance.
 
-5. 5. Zones non librement accessibles
+5.5. Zones non librement accessibles
 
 Il peut exister au sein de l'installation portuaire des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 321-31 et R. 321-32 du code des ports maritimes et où ne sont pas applicables les articles R. 321-33 à R. 321-47 du code des ports maritimes.
 
@@ -310,13 +1218,13 @@ Le plan de sûreté de l'installation portuaire traite au minimum chacun des poi
 
 Les informations communicables aux personnes chargées d'effectuer des visites de sûreté sont les suivantes :
 
-2. 3. Identification et coordonnées des personnes responsables en matière de sûreté :
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté :
 
 -Nom et coordonnées de l'agent de sûreté de l'installation portuaire et de son ou ses suppléants ;
 
 -Nom et coordonnées des personnes chargées de la sûreté de l'installation portuaire : responsable du PC sûreté, responsable (s) du ou des points d'inspection-filtrage.
 
-5. 2. Protection et contrôle des accès en zone d'accès restreint de l'installation portuaire :
+5.2. Protection et contrôle des accès en zone d'accès restreint de l'installation portuaire :
 
 -Système de signalisation des interdictions de pénétrer en ZAR ;
 
