@@ -3412,6 +3412,26 @@ Pour la mention " tourisme équestre ", sous le contrôle d'un titulaire du brev
 
 |
 
+CQP " enseignant animateur d'équitation ".
+
+|
+
+Conduite en autonomie de séances d'initiation aux pratiques équestres.
+
+|
+
+|
+
+CQP " organisateur de randonnées équestres ".
+
+|
+
+Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.
+
+|
+
+|
+
 E-2. Certificats de qualification délivrés par la Commission paritaire nationale
 
 emploi-formation du sport (CPNEF du sport)
