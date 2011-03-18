@@ -46,7 +46,7 @@ c) (s'il y a lieu) protocole articles 91 et 132-6.
 
 Article 3
 
-Les fonds sont versés par l'Etat sur le compte Carpa-aid e juridictionnelle dont les références ont été communiquées au garde des sceaux, ministre de la justice. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
+Les fonds sont versés par l'Etat sur le compte Carpa-aide juridictionnelle dont les références ont été communiquées à l'ordonnateur compétent ou son délégataire. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -90,11 +90,11 @@ Article 11
 
 Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
 
-Article 12
+Article 12 (1)
 
 Sont inscrites, sur un état récapitulatif annuel arrêté au 31 décembre de chaque année, l'ensemble des charges de gestion mentionnées à l'article 11 pour l'exercice achevé, majorées, le cas échéant, du solde des charges des exercices antérieurs n'ayant pas donné lieu à remboursement.
 
-L'inscription des charges exposées par la Carpa ou l'ordre pour le fonctionnement du service est effectuée, le cas échéant, en utilisant des clés de répartition fixées par décision de l'organe délibérant compétent. L'extrait des délibérations prises est joint aux documents transmis au garde des sceaux, ministre de la justice.
+L'inscription des charges exposées par la Carpa ou l'ordre pour le fonctionnement du service est effectuée, le cas échéant, en utilisant des clés de répartition fixées par décision de l'organe délibérant compétent. L'extrait des délibérations prises est joint aux documents transmis à l'ordonnateur compétent ou son délégataire.
 
 Le montant des charges figurant sur l'état mentionné au premier alinéa, qui est visé par le président de la Carpa ou le bâtonnier, donne lieu à un remboursement au bénéfice de la Carpa ou de l'ordre.
 
@@ -300,9 +300,7 @@ A défaut d'accord sur la répartition finale de la contribution de l'Etat, le b
 
 Chapitre VI
 
-Dispositions diverses relatives à la gestion
-
-des comptes avocats
+Dispositions diverses relatives à la gestion des comptes avocats
 
 Article 35
 
@@ -314,9 +312,9 @@ Chapitre VII
 
 Transmission des états liquidatifs et comptables
 
-Article 36
+Article 36 (1)
 
-La Carpa transmet annuellement au garde des sceaux, ministre de la justice :
+La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire :
 
 1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 118 du décret du 19 décembre 1991 précité ;
 
@@ -328,7 +326,7 @@ La Carpa transmet annuellement au garde des sceaux, ministre de la justice :
 
 Article 37
 
-La Carpa transmet au garde des sceaux, ministre de la justice, un état de trésorerie dont le modèle et la périodicité d'envoi sont fixés par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement en regard des dotations versées :
+La Carpa transmet à l'ordonnateur compétent un état de trésorerie dont le modèle et la périodicité d'envoi sont fixés par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement en regard des dotations versées :
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
@@ -348,9 +346,7 @@ Conformément aux dispositions de l'article 17-14 du décret du 30 décembre 199
 
 Article 39
 
-Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé :
-
-Frais de déplacement article 17-14
+Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 17-14
 
 Article 40
 
@@ -365,3 +361,7 @@ En vue de l'indemnisation des frais de déplacement qu'ils ont exposés, les avo
 Article 42
 
 Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avocat, le montant de la rétribution n'est dû qu'à l'avocat exerçant sa profession dans les conditions prévues par l'article 7 de la loi du 31 décembre 1971 susvisée.
+
+NOTA :
+
+Décret n° 2011-272 du 15 mars 2011 article 29 II : Les modifications opérées aux articles 12 et 36 par l'article 29 I du présent décret entrent en vigueur le 1er janvier 2012.
