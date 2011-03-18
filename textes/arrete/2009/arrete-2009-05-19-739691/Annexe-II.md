@@ -230,7 +230,7 @@ Ponctuelle pratique
 
 |
 
-Ponctuelle écrite
+Ponctuelle pratique
 
 |
 
@@ -584,7 +584,7 @@ Orale
 
 (1) Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
 
-Annexe 2 c
+Annexe II c
 
 Définition des épreuves
 
@@ -752,7 +752,7 @@ B - Une situation d'évaluation, notée sur dix points, ne concerne que les math
 
 La note finale sur vingt proposée au jury pour cette sous-épreuve est obtenue en divisant par 2,5 le total des notes relatives aux trois évaluations.
 
-Sous-épreuve E22 : Mathématiques et sciences physiques
+Sous-épreuve E22 : Travaux pratiques de sciences physiques
 
 Unité U22 : Coefficient 1
 
