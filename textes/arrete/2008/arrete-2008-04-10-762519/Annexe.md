@@ -4,7 +4,9 @@ CORPS ET GRADES
 
 |
 
-TAUX APPLICABLE
+TAUX
+
+applicable
 
 |
 
@@ -122,18 +124,6 @@ Personnel de direction hors classe
 
 |
 
-Corps des inspecteurs de l'éducation nationale
-
-régi par le décret n° 90-675 du 18 juillet 1990 modifié portant statuts particuliers des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale
-
-Inspecteur de l'éducation nationale hors classe
-
-|
-
-34,5 %
-
-|
-
 Corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux
 
 régi par le décret n° 90-675 du 18 juillet 1990 modifié portant statuts particuliers des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale
@@ -234,9 +224,7 @@ Adjoint administratif principal des services déconcentrés de 1re classe
 
 Corps des techniciens de l'éducation nationale
 
-régi par le décret n° 91-462 du 14 mai 1991 modifié fixant les dispositions statutaires applicables au corps des adjoints techniques
-
-des établissements d'enseignement du ministère de l'éducation nationale et au corps des techniciens de l'éducation nationale
+régi par le décret n° 91-462 du 14 mai 1991 modifié fixant les dispositions statutaires applicables au corps des adjoints techniques des établissements d'enseignement du ministère de l'éducation nationale et au corps des techniciens de l'éducation nationale
 
 Technicien de l'éducation nationale de classe supérieure
 
