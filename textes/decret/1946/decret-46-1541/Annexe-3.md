@@ -6,9 +6,9 @@ Bénéficiaires, durée minimale d'affiliation, durée minimale de services
 
 Sont affiliés au régime spécial de retraites des industries électriques et gazières les agents bénéficiant du statut national du personnel de ces industries.
 
-Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national.
+Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
 
-Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4, et 5, les bonifications éventuelles n'étant pas prises en compte.
+Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4 et 5, les bonifications éventuelles n'étant pas prises en compte.
 
 Pour le décompte de la durée minimale d'affiliation et de la durée minimale de services, les périodes d'activité à temps partiel sont décomptées comme des périodes d'activité à temps plein.
 
@@ -24,17 +24,17 @@ Les périodes prises en compte pour la constitution du droit à pension de vieil
 
 1° Les périodes d'activité statutaires effectuées à temps plein ou à temps partiel au sein d'un organisme ou d'une entreprise dont le personnel relève du statut national du personnel des industries électriques et gazières :
 
-a) Les emplois, fonctions ou postes correspondant à chacune des catégories de services sédentaires , actifs et insalubres sont ceux indiqués dans le complément de la présente annexe III ;
+a) Les emplois, fonctions ou postes correspondant à chacune des catégories de services sédentaires, actifs et insalubres sont ceux indiqués dans le complément de la présente annexe III ;
 
 b) Les services sédentaires sont comptés pour leur durée ;
 
 c) Pour les personnes dont le recrutement en qualité d'agent statutaire a été effectué avant le 1er janvier 2009 :
 
-- Les services classés actifs sont bonifiés d'un sixième de la durée des services effectifs dans ladite catégorie ;
+-Les services classés actifs sont bonifiés d'un sixième de la durée des services effectifs dans ladite catégorie ;
 
-- Les services classés insalubres sont bonifiés d'un tiers de la durée des services effectifs dans ladite catégorie ;
+-Les services classés insalubres sont bonifiés d'un tiers de la durée des services effectifs dans ladite catégorie ;
 
-d) Les périodes prises au titre du compte épargne temps constitué dans les industries électriques et gazières sont comptées pour leur durée.
+d) Les périodes prises au titre du compte épargne temps ou du compte épargne jours retraite institué par l'accord collectif de branche du 16 avril 2010 relatif à la prise en compte de la spécificité des métiers constitué dans les industries électriques et gazières sont comptées pour leur durée.
 
 2° Le temps effectué en école de métiers à partir de dix-huit ans, dans la limite de vingt-quatre mois maximum, sous réserve des versements, lorsqu'ils sont dus, des cotisations relatives à la période. Les conditions de validation des périodes mentionnées au présent alinéa sont spécifiées dans le tableau additionnel de l'article 46 de la présente annexe.
 
@@ -42,7 +42,7 @@ Article 3
 
 Service national, campagnes militaires, volontariat civil et militaire
 
-Entrent également dans la constitution du droit à pension de vieillesse :
+Sans préjudice des dispositions du code du service national, entrent également dans la constitution du droit à pension de vieillesse :
 
 1° Dans le respect des règles relatives à la coordination entre les différents régimes de retraite prévues au chapitre 3 du titre VII du livre Ier du code de la sécurité sociale :
 
@@ -56,8 +56,6 @@ Pour les agents recrutés avant le 1er janvier 2009, ces périodes sont considé
 
 2° Les bénéfices de campagnes conformément aux dispositions de l'article L. 12 (c) du code des pensions civiles et militaires de retraite. Le pourcentage maximum de pension visé au quatrième alinéa de l'article 9 peut être augmenté de cinq points du chef de ces bénéfices ;
 
-3° Le temps accompli au titre du volontariat civil, dans les conditions prévues par les articles L. 122-1 et suivants du code du service national.
-
 Lorsque l'agent a été affilié successivement ou alternativement à plusieurs régimes spéciaux, la validation des périodes précitées incombe au premier régime spécial d'affiliation qui suit la période en cause.
 
 Article 4
@@ -68,13 +66,13 @@ Entrent également dans la constitution du droit à pension de vieillesse les p�
 
 1° Le congé parental des parents d'enfants nés ou adoptés pléniers avant le 1er juillet 2008 dans la limite d'un an sous réserve du versement, pendant le congé, par le salarié et l'employeur des cotisations afférentes à la période ;
 
-2° Les périodes accomplies en qualité d'agent non statutaire à compter de l'âge de dix-huit ans antérieurement à la date de la décision d'admission au stage statutaire dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de la décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
+2° Pour les agents dont le recrutement en qualité d'agent statutaire a été effectué au plus tard le 1er janvier 2017, les périodes accomplies en qualité d'agent non statutaire à compter de l'âge de dix-huit ans antérieurement à la date de la décision d'admission au stage statutaire dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de la décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
 
-3° Les périodes, continues ou non, accomplies dans les trois mois précédant la date de la décision d'admission au stage statutaire, dans le cadre d'un contrat en entreprise de travail temporaire, à compter de l'âge de dix-huit ans et effectuées dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
+3° Pour les agents dont le recrutement en qualité d'agent statutaire a été effectué au plus tard le 1er janvier 2017, les périodes, continues ou non, accomplies dans les trois mois précédant la date de la décision d'admission au stage statutaire, dans le cadre d'un contrat en entreprise de travail temporaire, à compter de l'âge de dix-huit ans et effectuées dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
 
 4° Le temps passé en position de détachement en application des dispositions du décret n° 78-1179 du 18 décembre 1978, sous réserve du versement pendant la période de détachement des cotisations afférentes à la période dans les conditions mentionnées à l'article 2 du même décret ;
 
-5° Les périodes d'apprentissage effectuées à compter de l'âge de dix-huit ans, par les agents ayant fait l'objet d'une embauche statutaire ultérieure, dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
+5° Pour les agents dont le recrutement en qualité d'agent statutaire a été effectué au plus tard le 1er janvier 2017, les périodes d'apprentissage effectuées à compter de l'âge de dix-huit ans, par les agents ayant fait l'objet d'une embauche statutaire ultérieure, dans une entreprise ou un organisme dont le personnel relevait pour les périodes en question du statut national du personnel des industries électriques et gazières ou du régime spécial de retraite des industries électriques et gazières. La demande de validation doit intervenir dans les trois ans suivant la date de décision d'admission au stage statutaire, sous réserve du remboursement des cotisations par les régimes concernés au salarié et à l'employeur et du versement par ceux-ci des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande ;
 
 6° Sous réserve du versement, pendant la période mentionnée ci-dessus, par le salarié et l'employeur des cotisations afférentes à la période sur la base de la rémunération principale de l'agent et des taux en vigueur à la date de la demande :
 
@@ -154,9 +152,9 @@ Article 9
 
 Décompte des prestations
 
-Les services et bonifications pris en compte aux articles 2, 3, 4, 5, 8 et 12 servent de base au calcul des prestations ci-après, les périodes de service à temps partiel étant retenues, sous réserve des dispositions de l'article 11, pour la fraction de leur durée correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
+Les services et bonifications pris en compte aux articles 2,3,4,5,8 et 12 servent de base au calcul des prestations ci-après, les périodes de service à temps partiel étant retenues, sous réserve des dispositions de l'article 11, pour la fraction de leur durée correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
 
-La durée des services et des bonifications prévus aux articles 2, 3, 4, 5, 8 et 12 et prises en compte en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+La durée des services et des bonifications prévus aux articles 2,3,4,5,8 et 12 et prises en compte en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Sous réserve des dispositions transitoires du I de l'article 45 ci-après, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à cent soixante trimestres et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
@@ -190,9 +188,9 @@ c) Sous réserve qu'ils soient reconnus inaptes au travail par la médecine-cons
 
 d) Aux agents ayant bénéficié d'un dispositif légal ou conventionnel de cessation anticipée d'activité des travailleurs de l'amiante.
 
-II.-Lorsque la durée d'assurance, définie au III ci-après, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 8 ci-dessus sans être inférieure à cent soixante trimestres, et que l'agent a atteint l'âge de soixante ans, un coefficient de majoration s'applique au montant de la pension calculée en application de l'article 8 ci-dessus.
+II.-Lorsque la durée d'assurance, définie au III ci-après, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus sans être inférieure à cent soixante trimestres, et que l'agent a atteint l'âge mentionné au 1° du I de l'article 16, un coefficient de majoration s'applique au montant de la pension calculée en application de l'article 9 ci-dessus.
 
-Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance, au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge de soixante ans et en sus du nombre de trimestres mentionné à l'alinéa précédent. Lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
+Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance, au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge mentionné au 1° du I de l'article 16 et en sus du nombre de trimestres mentionné à l'alinéa précédent. Lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction correspondant au montant de la rémunération soumise à cotisation au régime spécial de retraite rapporté au montant de la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein et qui aurait été soumise à cotisation audit régime.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
@@ -220,7 +218,7 @@ Article 12
 
 Bonifications de services pour enfants
 
-Les agents ont droit pour la liquidation de leur pension à une bonification de services d'un an pour chacun des enfants nés de l'agent ou adoptés pléniers avant le 1er juillet 2008 à condition d'avoir, pour chaque enfant, interrompu totalement leur activité dans les conditions fixées à l'article 13.
+Les agents ont droit pour la liquidation de leur pension à une bonification de services d'un an pour chacun des enfants nés de l'agent ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008 à condition d'avoir, pour chaque enfant, interrompu totalement ou réduit leur activité dans les conditions fixées à l'article 13.
 
 Pour une fratrie de deux enfants, la bonification de services est doublée pour le second enfant lorsque les deux enfants sont nés de l'agent ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008.
 
@@ -228,11 +226,15 @@ Pour l'application du deuxième alinéa du présent article et de l'article 14, 
 
 Article 13
 
-Interruption totale d'activité
+Interruption totale ou réduction d'activité
 
-I.-L'interruption totale d'activité prévue à l'article 12 et aux 3°, 4° et 5° de l'article 16 doit avoir été d'une durée continue au moins égale à deux mois et doit avoir eu lieu pendant la période comprise entre le premier jour de la quatrième semaine précédant la naissance ou l'adoption et le dernier jour de la seizième semaine suivant la naissance ou l'adoption. Pour les enfants recueillis, l'absence ou l'interruption d'activité d'une durée continue au moins égale à deux mois doit intervenir durant la période de charge effective et permanente de l'enfant et au plus tard soit avant son seizième anniversaire, soit avant l'âge auquel l'enfant cesse d'être à charge au sens des prestations familiales.
+I.-L'interruption totale d'activité prévue à l'article 12 et au 5° de l'article 16 doit avoir été d'une durée continue au moins égale à deux mois et être intervenue pendant la période comprise entre le premier jour de la quatrième semaine précédant la naissance ou l'adoption et le dernier jour du trente-sixième mois suivant la naissance ou l'adoption.
 
-II.-Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une interruption des services effectués dans les industries électriques et gazières, intervenues dans le cadre :
+La réduction d'activité prévue aux mêmes articles doit avoir une durée continue de service à temps partiel telle que la quotité effectivement non travaillée sur cette durée continue soit au moins égale à deux mois et que cette condition soit réalisée entre le premier jour de la quatrième semaine précédant la naissance ou l'adoption et le dernier jour du trente-sixième mois suivant la naissance ou l'adoption. La réduction d'activité est prise en compte au titre du h du II lorsque le rapport entre la durée effectivement travaillée et la durée légale ou conventionnelle du travail est inférieur à 90 %.
+
+Pour les enfants recueillis, l'absence, l'interruption totale ou la réduction d'activité doit intervenir durant la période de charge effective et permanente de l'enfant et au plus tard soit avant son seizième anniversaire, soit avant l'âge auquel l'enfant cesse d'être à charge au sens des prestations familiales.
+
+II.-Sont prises en compte pour le calcul de la durée d'interruption ou de réduction d'activité les périodes correspondant à une interruption ou à une réduction des services effectués dans les industries électriques et gazières, intervenues dans le cadre :
 
 a) Du congé de maternité ;
 
@@ -246,9 +248,11 @@ e) Du congé de présence parentale ;
 
 f) D'un congé sans solde existant avant le 1er juillet 2008 pour élever de jeunes enfants ou d'un congé sans solde pour élever un enfant de moins de huit ans visé à l'article 20 du statut national ;
 
-g) D'un congé sans solde exceptionnel au titre de l'article 20 du statut national des industries électriques et gazières pris pour élever un enfant recueilli atteint d'une incapacité égale ou supérieure à 80 %. Ce congé est accordé entre le huitième et le vingtième anniversaire de l'enfant.
+g) D'un congé sans solde exceptionnel au titre de l'article 20 du statut national des industries électriques et gazières pris pour élever un enfant recueilli atteint d'une incapacité égale ou supérieure à 80 %. Ce congé est accordé entre le huitième et le vingtième anniversaire de l'enfant ;
 
-III.-La condition d'interruption d'activité n'est pas exigée pour les parents ayant élevé seul leur enfant pendant au moins neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales, ainsi que pour ceux qui n'exerçaient pas d'activité professionnelle au moment de la naissance ou de l'adoption de l'enfant. En cas de naissances multiples ou d'adoptions simultanées de plusieurs enfants, une seule condition d'interruption d'activité de deux mois permet de satisfaire aux conditions requises pour chacun des enfants.
+h) D'un temps partiel accordé de droit pour élever un enfant.
+
+III.-La condition d'interruption ou de réduction d'activité n'est pas exigée pour les parents ayant élevé seul leur enfant pendant au moins neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales, ainsi que pour ceux qui n'exerçaient pas d'activité professionnelle au moment de la naissance ou de l'adoption de l'enfant sous réserve que les périodes pendant lesquelles ils n'exerçaient pas d'activité professionnelle n'aient pas donné lieu à cotisation obligatoire de leur part dans un régime de retraite de base. En cas de naissances ou d'adoptions simultanées, la durée d'interruption ou de réduction d'activité prise en compte au titre de l'ensemble des enfants en cause est celle exigée pour un enfant.
 
 Article 14
 
@@ -274,31 +278,41 @@ Conditions d'ouverture du droit à pension de vieillesse
 
 I.-La liquidation de la pension de vieillesse intervient sur demande :
 
-1° Lorsque l'agent a atteint au moins l'âge de soixante ans ;
+1° Lorsque l'agent a atteint au moins l'âge de soixante-deux ans ;
 
-2° Lorsque l'agent a atteint au moins l'âge de cinquante-cinq ans s'il totalise quinze ans de services effectifs actifs, insalubres et militaires ou dix ans de services effectifs insalubres.L'agent totalisant moins de quinze ans de services effectifs actifs, insalubres et militaires bénéficie d'un abaissement de l'âge de soixante ans de un an par tranche de trois ans de services effectifs actifs, insalubres et militaires.
+2° Lorsque l'agent a atteint au moins l'âge de cinquante-sept ans s'il totalise dix-sept ans de services effectifs actifs, insalubres et militaires ou dix ans de services effectifs insalubres. L'agent totalisant moins de dix-sept ans de services effectifs actifs, insalubres et militaires bénéficie d'un abaissement de l'âge mentionné au 1° du présent I comme indiqué dans le tableau suivant :
 
-Pour bénéficier de ces dispositions, l'agent doit justifier d'une durée minimale de services de quinze ans telle que définie à l'article 1er ;
+POUR LES AGENTS QUI ONT ACCOMPLI DES SERVICES EFFECTIFS
 
-3° Lorsque l'agent a atteint :
+actifs, insalubres et militaires pour une durée au moins égale à...
 
-a) Soit au moins l'âge de cinquante-sept ans s'il a deux enfants nés de lui ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008 ;
+|
 
-b) Soit au moins l'âge de cinquante-neuf ans s'il a un enfant né de lui ou adopté plénier avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008,
+..., L'ÂGE MENTIONNÉ AU 1° DU PRÉSENT I EST ABAISSÉ DE...
 
-à condition d'avoir, pour chaque enfant, interrompu totalement son activité dans les conditions fixées à l'article 13.
+|
 
-Pour bénéficier de cette disposition, l'agent doit justifier d'une durée minimale de services de quinze ans telle que définie à l'article 1er ;
+5 ans |
 
-4° Sans condition d'âge, si l'agent a trois enfants :
+1 an |
 
-a) Soit nés de lui ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières à condition d'avoir, pour chaque enfant, interrompu totalement son activité dans les industries électriques et gazières dans les conditions fixées à l'article 13 ;
+8 ans |
 
-b) Soit adoptés simples ou recueillis avant la cessation d'activité dans les industries électriques et gazières et à compter du 1er juillet 2008 à condition d'avoir, pour chaque enfant, interrompu totalement son activité dans les conditions fixées à l'article 13 et sous réserve d'avoir élevé chaque enfant recueilli pendant neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales.
+2 ans |
 
-Pour bénéficier de cette disposition, l'agent doit justifier d'une durée minimale de services de quinze ans telle que définie à l'article 1er ;
+11 ans |
 
-5° Sans condition d'âge, si l'agent a un enfant vivant âgé au minimum d'un an né de lui, adopté ou recueilli avant la cessation d'activité dans les industries électriques et gazières, atteint d'une incapacité égale ou supérieure à 80 %, à condition d'avoir, pour cet enfant, interrompu totalement son activité dans les conditions fixées à l'article 13, et sous réserve d'avoir élevé l'enfant recueilli pendant neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales.
+3 ans |
+
+14 ans |
+
+4 ans |
+
+Pour bénéficier de ces dispositions, l'agent doit justifier d'une durée minimale de services de dix-sept ans telle que définie à l'article 1er ;
+
+3° et 4° (supprimés)
+
+5° Sans condition d'âge, si l'agent a un enfant vivant âgé au minimum d'un an né de lui, adopté ou recueilli avant la cessation d'activité dans les industries électriques et gazières, atteint d'une incapacité égale ou supérieure à 80 %, à condition d'avoir, pour cet enfant, interrompu totalement ou réduit son activité dans les conditions fixées à l'article 13, et sous réserve d'avoir élevé l'enfant recueilli pendant neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales.
 
 Pour bénéficier de cette disposition, l'agent doit justifier d'une durée minimale de services de quinze ans telle que définie à l'article 1er ;
 
@@ -322,7 +336,7 @@ Le taux d'incapacité permanente partielle visé ci-dessus est celui de l'agent 
 
 Pour bénéficier de cette disposition, l'agent doit justifier d'une durée minimale de services de quinze ans telle que définie à l'article 1er.
 
-Seules les dispositions des paragraphes 2° et 3°, d'une part, 2° et 8°, d'autre part, sont susceptibles d'être cumulées pour la détermination de l'âge d'ouverture du droit à pension de vieillesse.
+Seules les dispositions des paragraphes 2° et 8°, d'autre part, sont susceptibles d'être cumulées pour la détermination de l'âge d'ouverture du droit à pension de vieillesse.
 
 II.-Lorsque l'agent cesse son activité au sein des industries électriques et gazières avant de remplir les conditions d'ouverture du droit énoncées au I, la liquidation est au minimum différée jusqu'à la réalisation d'une de ces conditions à l'exclusion du 7°.
 
@@ -448,9 +462,9 @@ Article 18
 
 Détermination du salaire de référence
 
-Les salaires ou traitements annuels servant au calcul de la pension, assortis de la majoration résidentielle prévue à l'article 9 du statut national du personnel, sont déterminés sur la base du coefficient hiérarchique, ancienneté comprise, détenu depuis six mois au moins au moment de la cessation des services validables pour la pension.A défaut, ils sont déterminés sur la base du coefficient détenu antérieurement.
+Les salaires ou traitements annuels servant au calcul de la pension, assortis de la majoration résidentielle prévue à l'article 9 du statut national du personnel, sont déterminés sur la base du coefficient hiérarchique, ancienneté comprise, détenu depuis six mois au moins au moment de la cessation des services validables pour la pension. A défaut, ils sont déterminés sur la base du coefficient détenu antérieurement.
 
-Le montant de la gratification dite de fin d'année , fixée à l'article 14 du statut national du personnel, est à ajouter à ces salaires ou traitements annuels.
+Le montant de la gratification dite de fin d'année, fixée à l'article 14 du statut national du personnel, est à ajouter à ces salaires ou traitements annuels.
 
 La condition des six mois n'est pas opposable lorsque la liquidation intervient à la suite de l'invalidité ou du décès de l'agent ou pendant un arrêt de travail consécutif à une longue maladie, un accident de travail ou une maladie professionnelle.
 
@@ -480,7 +494,7 @@ Jusqu'au 31 décembre 2007
 
 |
 
-268, 3
+268,3
 
 |
 
@@ -490,7 +504,7 @@ au 31 décembre 2009
 
 |
 
-269, 4
+269,4
 
 |
 
@@ -500,7 +514,7 @@ au 31 décembre 2011
 
 |
 
-269, 9
+269,9
 
 |
 
@@ -510,7 +524,7 @@ au 31 décembre 2013
 
 |
 
-270, 4
+270,4
 
 |
 
@@ -528,13 +542,13 @@ A compter du 1er janvier 2016
 
 |
 
-271, 5
+271,5
 
 |
 
-Lorsque la liquidation intervient dans les conditions prévues au dernier alinéa de l'article 18, le coefficient hiérarchique minimum susceptible de s'appliquer est le coefficient hiérarchique minimum en vigueur pour le versement des prestations, à la date de cessation des services validables pour la pension, sans que celui-ci puisse être inférieur à 268, 3.
+Lorsque la liquidation intervient dans les conditions prévues au dernier alinéa de l'article 18, le coefficient hiérarchique minimum susceptible de s'appliquer est le coefficient hiérarchique minimum en vigueur pour le versement des prestations, à la date de cessation des services validables pour la pension, sans que celui-ci puisse être inférieur à 268,3.
 
-II.-Sous réserve que les ressources des bénéficiaires, appréciées sur l'année civile précédente, non compris la prestation susceptible d'être attribuée au titre du présent II, ne dépassent pas le salaire minimum interprofessionnel de croissance en vigueur au 1er juillet de ladite année pour une personne seule ou 1, 6 fois ce salaire minimum interprofessionnel de croissance pour un couple marié, vivant en concubinage ou lié par un pacte civil de solidarité, les pensions de vieillesse de droit direct et les pensions de réversion servies à compter du 1er juillet 2008 ne pourront être inférieures à un minimum mensuel de huit cents euros bruts pour une durée de services de quinze ans minimum telle que définie à l'article 1er de la présente annexe, de neuf cents euros bruts pour une durée de services de trente ans minimum telle que définie à l'article 1er de la présente annexe et de mille euros bruts pour une durée de services de trente-cinq ans minimum telle que définie à l'article 1er de la présente annexe. Le bénéficiaire est tenu de signaler à la Caisse nationale des industries électriques et gazières toute modification de ses ressources.
+II.-Sous réserve que les ressources des bénéficiaires, appréciées sur l'année civile précédente, non compris la prestation susceptible d'être attribuée au titre du présent II, ne dépassent pas le montant mentionné à l'article D. 353-1-1 du code de la sécurité sociale, les pensions de vieillesse de droit direct et les pensions de réversion servies à compter du 1er juillet 2008 ne pourront être inférieures à un minimum mensuel de huit cents euros bruts pour une durée de services de quinze ans minimum telle que définie à l'article 1er de la présente annexe, de neuf cents euros bruts pour une durée de services de trente ans minimum telle que définie à l'article 1er de la présente annexe et de mille euros bruts pour une durée de services de trente-cinq ans minimum telle que définie à l'article 1er de la présente annexe. Le bénéficiaire est tenu de signaler à la Caisse nationale des industries électriques et gazières toute modification de ses ressources.
 
 En cas de partage de la réversion dans les conditions prévues à l'article 22 ci-dessous, le minimum est versé aux bénéficiaires selon les proportions prévues par cet article.
 
@@ -582,7 +596,7 @@ Bénéficiaires de la pension de réversion
 
 I.-Les conjoints, les conjoints séparés de corps et les ex-conjoints non remariés avant le décès de l'ouvrant droit, ou à défaut les orphelins dans les conditions de l'article 28, ou à défaut les ascendants à charge ont droit à une pension de réversion égale à la moitié, majoration pour enfant comprise, de la pension dont bénéficiait ou aurait bénéficié l'agent au jour de son décès, répartie au prorata de la durée respective de chaque mariage.
 
-Les dispositions du présent article sont applicables aux conjoints, conjoints séparés de corps et ex-conjoints non remariés d'agents féminins décédés avant le 1er juillet 2008 s'ils en font la demande, sous réserve que le droit à réversion ne donne pas déjà lieu au versement d'une prestation à un autre ayant droit, et sous réserve du remboursement du capital décès éventuellement perçu au moment du décès.
+Les dispositions du présent article sont applicables aux conjoints, conjoints séparés de corps et ex-conjoints non remariés d'agents décédés avant le 1er juillet 2008 s'ils en font la demande, sous réserve que le droit à réversion ne donne pas déjà lieu au versement d'une prestation à un autre ayant droit, et sous réserve du remboursement du capital décès éventuellement perçu au moment du décès.
 
 Sauf pour l'application des dispositions du précédent alinéa, la pension de réversion prend effet soit le premier jour du mois suivant le décès pour les agents en activité, soit le premier jour du trimestre suivant le décès de l'ouvrant droit pour les agents titulaires d'une pension vieillesse ou d'une pension d'invalidité.
 
@@ -616,7 +630,7 @@ Le remariage des bénéficiaires de pension de réversion, conjoints ou ex-conjo
 
 Le conjoint ou l'ex-conjoint qui perd ses droits à réversion suite à remariage peut à nouveau faire valoir ses droits si la nouvelle union cesse du fait d'un veuvage, d'un divorce ou d'une séparation de corps.
 
-Au décès du conjoint ou d'un des ex-conjoints bénéficiaires de la réversion, sa part est transmise par parts égales aux orphelins de moins de vingt et un ans issus de l'union de l'ouvrant droit et dudit conjoint ou ex-conjoint et, à défaut, est répartie au prorata de la durée de mariage entre le conjoint et / ou les ex-conjoints survivants.
+Au décès du conjoint ou d'un des ex-conjoints bénéficiaires de la réversion, sa part est transmise par parts égales aux orphelins de moins de vingt et un ans issus de l'union de l'ouvrant droit et dudit conjoint ou ex-conjoint et, à défaut, est répartie au prorata de la durée de mariage entre le conjoint et/ ou les ex-conjoints survivants.
 
 Article 26
 
@@ -627,6 +641,8 @@ Lorsqu'un ex-conjoint n'a pas demandé sa part de réversion au terme de trois a
 Lorsqu'un ex-conjoint entend faire valoir son bénéfice à pension de réversion, celui-ci lui est attribué, dans le respect des prescriptions légales, le premier jour du mois qui suit sa demande.
 
 Lorsque le versement de la part d'un ex-conjoint et l'attribution de l'allocation de conjoint survivant conduisent à verser au titre de la même période les deux prestations, la veuve ou le veuf bénéficiaire de l'allocation de conjoint survivant est tenu de rembourser les sommes versées, non prescrites, sur ladite période.
+
+La somme de l'allocation de conjoint survivant et de la réversion servies au conjoint survivant est plafonnée au montant maximum de la réversion qui lui est due.
 
 II.-DROITS DES ORPHELINS
 
@@ -652,9 +668,9 @@ Article 29
 
 Droits des orphelins handicapés
 
-Les dispositions des articles 25, 27 et 28 sont applicables, sans limitation en raison de leur âge, aux enfants nés de l'agent ou adoptés pléniers qui au jour du décès de l'ouvrant droit et avant leur vingt et unième anniversaire sont atteints d'une incapacité égale ou supérieure à 80 %, ou dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap. Le versement de la pension d'orphelin susceptible de leur être attribuée est suspendu dès lors qu'ils sont soit bénéficiaires de l'allocation aux adultes handicapés pour un montant qui excède le montant de la pension à laquelle ils peuvent prétendre, soit hospitalisés depuis plus de trois mois, soit reconnus aptes à exercer une activité rémunérée par le médecin-conseil du régime spécial.
+Les dispositions des articles 25,27 et 28 sont applicables, sans limitation en raison de leur âge, aux enfants nés de l'agent ou adoptés pléniers qui au jour du décès de l'ouvrant droit et avant leur vingt et unième anniversaire sont atteints d'une incapacité égale ou supérieure à 80 %, ou dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap. Le versement de la pension d'orphelin susceptible de leur être attribuée est suspendu dès lors qu'ils sont soit bénéficiaires de l'allocation aux adultes handicapés pour un montant qui excède le montant de la pension à laquelle ils peuvent prétendre, soit hospitalisés depuis plus de trois mois, soit reconnus aptes à exercer une activité rémunérée par le médecin-conseil du régime spécial.
 
-Le bénéfice des dispositions des articles 25, 27 et 28 est également applicable dans les conditions fixées à l'alinéa précédent aux enfants nés de l'agent ou adoptés pléniers atteints, après le décès de l'agent, mais avant leur vingt et unième anniversaire, d'une incapacité égale ou supérieure à 80 %, ou à défaut dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap.
+Le bénéfice des dispositions des articles 25,27 et 28 est également applicable dans les conditions fixées à l'alinéa précédent aux enfants nés de l'agent ou adoptés pléniers atteints, après le décès de l'agent, mais avant leur vingt et unième anniversaire, d'une incapacité égale ou supérieure à 80 %, ou à défaut dans l'incapacité reconnue par le médecin-conseil du régime spécial d'exercer une quelconque activité rémunérée du fait de leur handicap.
 
 TITRE IV : PRESTATIONS INVALIDITÉ, ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
 
@@ -758,7 +774,7 @@ Article 37
 
 Transformation en pension de vieillesse
 
-La pension d'invalidité est servie au maximum jusqu'à l'âge de soixante ans. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit le soixantième anniversaire. Toutefois la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
+La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au 1° du I de l'article 16. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint l'âge mentionné au 1° du I de l'article 16. Toutefois la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
 
 Le temps passé en situation d'invalidité est validé, sans contrepartie de cotisations, pour le décompte des services admissibles en liquidation au titre du premier alinéa de l'article 9 de la présente annexe.
 
@@ -782,7 +798,7 @@ La pension de vieillesse prévue au titre II prend effet au plus tôt le premier
 
 Le service de la pension est subordonné à la rupture du lien contractuel unissant l'agent à son dernier employeur au sein de la branche professionnelle des industries électriques et gazières.
 
-La demande est adressée à la Caisse nationale des industries électriques et gazières sur le formulaire de demande de pension mis à la disposition des affiliés par les services de la caisse. Elle est accompagnée des pièces justificatives nécessaires au paiement des prestations.
+La demande est adressée par l'affilié à la Caisse nationale des industries électriques et gazières sur le formulaire de demande de pension mis à la disposition des affiliés par les services de la caisse. Elle est accompagnée des pièces justificatives nécessaires au paiement des prestations.
 
 Par dérogation aux dispositions du premier alinéa, les prestations dues à compter du décès de l'ouvrant droit sont servies sur demande des ayants droit auprès de la Caisse nationale des industries électriques et gazières dans le respect des prescriptions légales et à compter du premier jour du mois suivant le décès pour les agents en activité ou du premier jour du trimestre suivant le décès pour les agents titulaires d'une pension de vieillesse ou d'invalidité.
 
@@ -792,7 +808,7 @@ Paiement des pensions
 
 Les prestations prévues aux titres II, III et IV sont payées par trimestre d'avance le premier jour ouvré des mois de janvier, avril, juillet et octobre de chaque année par virement et sont acquises aux ayants droit en cas de décès du prestataire bénéficiaire en cours de trimestre.
 
-Si le montant annuel brut de la pension de vieillesse, y compris les avantages complémentaires, est inférieur à un seuil fixé par arrêté du ministre chargé de la sécurité sociale et revalorisé conformément à l'article 20 de la présente annexe, la pension est payée en un capital libératoire unique égal à quinze fois le montant annuel brut de la pension.
+Par dérogation aux dispositions de l'alinéa précédent, les pensions dont le montant rapporté au mois est inférieur au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.
 
 Article 41
 
@@ -824,7 +840,7 @@ Article 45
 
 Dispositions transitoires
 
-I.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies à l'article 16 ci-dessus postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
+I.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies à l'article 16 ci-dessus postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
 
 II.-Le coefficient de minoration prévu au I de l'article 10 n'est applicable qu'aux personnes remplissant les conditions définies à l'article 16 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet 2010 et le 30 juin 2011 inclus, son taux est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du I de l'article 10. Pour les personnes remplissant les conditions définies à l'article 16 postérieurement au 30 juin 2011, ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du I de l'article 10.
 
@@ -894,21 +910,835 @@ Entre le 1er janvier 1959 inclus et le 30 juin 1959 inclus
 
 |
 
+V.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné au 1° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1962. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+
+-à soixante ans pour les agents nés avant le 1er janvier 1957 ;
+
+-à soixante ans et quatre mois pour les agents nés en 1957 ;
+
+-à soixante ans et huit mois pour les agents nés en 1958 ;
+
+-à soixante et un ans pour les agents nés en 1959 ;
+
+-à soixante et un ans et quatre mois pour les agents nés en 1960 ;
+
+-à soixante et un ans et huit mois pour les agents nés en 1961.
+
+2° L'âge d'ouverture du droit à pension de cinquante-sept ans mentionné au 2° du I de l'article 16 s'applique aux agents nés à compter du 1er janvier 1967. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+
+-à cinquante-cinq ans pour les agents nés avant le 1er janvier 1962 ;
+
+-à cinquante-cinq ans et quatre mois pour les agents nés en 1962 ;
+
+-à cinquante-cinq ans et huit mois pour les agents nés en 1963 ;
+
+-à cinquante-six ans pour les agents nés en 1964 ;
+
+-à cinquante-six ans et quatre mois pour les agents nés en 1965 ;
+
+-à cinquante-six ans et huit mois pour les agents nés en 1966.
+
+3° L'âge de soixante ans mentionné au II de l'article 10 et à l'article 37, dans leur rédaction antérieure à la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné au 1° du I de l'article 16 dans les conditions fixées par le 1° du présent V.
+
+4° La durée de services effectifs actifs, insalubres et militaires de dix-sept ans et la durée minimale de services de dix-sept ans prévues au 2° du I de l'article 16 pour la liquidation des pensions ne sont pas applicables aux agents qui ont accompli une durée de services effectifs actifs, insalubres et militaires de quinze ans et d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2022. Pour ces agents, les durées de services de dix-sept ans prévues au 2° du I de l'article 16 sont abaissées :
+
+-à quinze ans pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° avant le 1er janvier 2017 ;
+
+-à quinze ans et quatre mois pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° en 2017 ;
+
+-à quinze ans et huit mois pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° en 2018 ;
+
+-à seize ans pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° en 2019 ;
+
+-à seize ans et quatre mois pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° en 2020 ;
+
+-à seize ans et huit mois pour les agents qui atteignent les durées de services de quinze ans mentionnées au premier alinéa du présent 4° en 2021.
+
+5° Par dérogation, le 4° du présent V n'est pas applicable aux agents qui, après avoir effectué les durées de services de quinze ans mentionnées audit 4° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières.
+
+6° a) L'abaissement d'un an de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à cinq ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1963 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de trois ans à compter du 1er janvier 2022.
+
+Pour les agents nés à compter du 1er janvier 1963 qui justifient de la durée de services de trois ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement d'un an prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS À COMPTER du 1er JANVIER 1963
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de trois ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement d'un an
+
+de l'âge d'ouverture du droit à pension en application du 2°
+
+du I de l'article 16 est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+3 ans
+
+|
+
+En 2017
+
+|
+
+3 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+3 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+4 ans
+
+|
+
+En 2020
+
+|
+
+4 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+4 ans et 8 mois
+
+|
+
+b) Pour les agents nés antérieurement au 1er janvier 1963, l'âge d'ouverture du droit à pension est abaissé à :
+
+-cinquante-neuf ans pour les agents nés avant le 1er janvier 1958 ;
+
+-cinquante-neuf ans et quatre mois pour les agents nés en 1958 ;
+
+-cinquante-neuf ans et huit mois pour les agents nés en 1959 ;
+
+-soixante ans pour les agents nés en 1960 ;
+
+-soixante ans et quatre mois pour les agents nés en 1961 ;
+
+-soixante ans et huit mois pour les agents nés en 1962.
+
+c) Le b du présent 6° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1963
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de trois ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de l'âge d'ouverture du droit à pension
+
+en application du b du présent 6° est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+3 ans
+
+|
+
+En 2017
+
+|
+
+3 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+3 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+4 ans
+
+|
+
+En 2020
+
+|
+
+4 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+4 ans et 8 mois
+
+|
+
+A compter du 1er janvier 2022
+
+|
+
+5 ans
+
+|
+
+7° a) L'abaissement de deux ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à huit ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1964 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de six ans à compter du 1er janvier 2022.
+
+Pour les agents nés à compter du 1er janvier 1964 qui justifient de la durée de services de six ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de deux ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS À COMPTER DU 1er JANVIER 1964
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de six ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement de deux ans
+
+de l'âge d'ouverture du droit à pension
+
+en application du 2° du I de l'article 16 est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+6 ans
+
+|
+
+En 2017
+
+|
+
+6 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+6 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+7 ans
+
+|
+
+En 2020
+
+|
+
+7 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+7 ans et 8 mois
+
+|
+
+b) Pour les agents nés antérieurement au 1er janvier 1964, l'âge d'ouverture du droit à pension est abaissé à :
+
+-cinquante-huit ans pour les agents nés avant le 1er janvier 1959 ;
+
+-cinquante-huit ans et quatre mois pour les agents nés en 1959 ;
+
+-cinquante-huit ans et huit mois pour les agents nés en 1960 ;
+
+-cinquante-neuf ans pour les agents nés en 1961 ;
+
+-cinquante-neuf ans et quatre mois pour les agents nés en 1962 ;
+
+-cinquante-neuf ans et huit mois pour les agents nés en 1963.
+
+c) Le b du présent 7° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1964
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de six ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de l'âge d'ouverture du droit à pension
+
+en application du b du présent 7° est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+6 ans
+
+|
+
+En 2017
+
+|
+
+6 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+6 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+7 ans
+
+|
+
+En 2020
+
+|
+
+7 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+7 ans et 8 mois
+
+|
+
+A compter du 1er janvier 2022
+
+|
+
+8 ans
+
+|
+
+8° a) L'abaissement de trois ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à onze ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1965 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de neuf ans à compter du 1er janvier 2022.
+
+Pour les agents nés à compter du 1er janvier 1965 qui justifient de la durée de services de neuf ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de trois ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1965
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de neuf ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de trois ans de l'âge d'ouverture du droit à pension
+
+en application du 2° du I de l'article 16 est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+9 ans
+
+|
+
+En 2017
+
+|
+
+9 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+9 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+10 ans
+
+|
+
+En 2020
+
+|
+
+10 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+10 ans et 8 mois
+
+|
+
+b) Pour les agents nés antérieurement au 1er janvier 1965, l'âge d'ouverture du droit à pension est abaissé à :
+
+-cinquante-sept ans pour les agents nés avant le 1er janvier 1960 ;
+
+-cinquante-sept ans et quatre mois pour les agents nés en 1960 ;
+
+-cinquante-sept ans et huit mois pour les agents nés en 1961 ;
+
+-cinquante-huit ans pour les agents nés en 1962 ;
+
+-cinquante-huit ans et quatre mois pour les agents nés en 1963 ;
+
+-cinquante-huit ans et huit mois pour les agents nés en 1964.
+
+c) Le b du présent 8° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1965
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de neuf ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de l'âge d'ouverture du droit à pension
+
+en application du b du présent 8° est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+9 ans
+
+|
+
+En 2017
+
+|
+
+9 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+9 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+10 ans
+
+|
+
+En 2020
+
+|
+
+10 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+10 ans et 8 mois
+
+|
+
+A compter du 1er janvier 2022
+
+|
+
+11 ans
+
+|
+
+9° a) L'abaissement de quatre ans de l'âge mentionné au 1° du I de l'article 16 pour les agents ayant accompli des services effectifs actifs, insalubres et militaires pour une durée au moins égale à quatorze ans, en application du 2° du I dudit article 16 pour la liquidation des pensions, s'applique aux agents nés à compter du 1er janvier 1966 qui justifient d'une durée de services effectifs actifs, insalubres et militaires de douze ans à compter du 1er janvier 2022.
+
+Pour les agents nés à compter du 1er janvier 1966 qui justifient de la durée de services de douze ans mentionnée au premier alinéa du présent a avant le 1er janvier 2022, la durée de services effectifs actifs, insalubres et militaires ouvrant droit à l'abaissement de quatre ans prévu au 2° du I de l'article 16 est déterminée, par dérogation audit 2°, comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS À COMPTER DU 1er JANVIER 1966
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de douze ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de quatre ans de l'âge d'ouverture du droit à pension
+
+en application du 2° du I de l'article 16 est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+12 ans
+
+|
+
+En 2017
+
+|
+
+12 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+12 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+13 ans
+
+|
+
+En 2020
+
+|
+
+13 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+13 ans et 8 mois
+
+|
+
+b) Pour les agents nés antérieurement au 1er janvier 1966, l'âge d'ouverture du droit à pension est abaissé à :
+
+-cinquante-six ans pour les agents nés avant le 1er janvier 1961 ;
+
+-cinquante-six ans et quatre mois pour les agents nés en 1961 ;
+
+-cinquante-six ans et huit mois pour les agents nés en 1962 ;
+
+-cinquante-sept ans pour les agents nés en 1963 ;
+
+-cinquante-sept ans et quatre mois pour les agents nés en 1964 ;
+
+-cinquante-sept ans et huit mois pour les agents nés en 1965.
+
+c) Le b du présent 9° s'applique aux agents justifiant d'une durée de services effectifs actifs, insalubres et militaires comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS NÉS ANTÉRIEUREMENT AU 1er JANVIER 1966
+
+qui justifient d'une durée de services effectifs actifs,
+
+insalubres et militaires de douze ans...
+
+|
+
+..., LA DURÉE DES SERVICES EFFECTIFS ACTIFS, INSALUBRES
+
+et militaires ouvrant droit à un abaissement
+
+de l'âge d'ouverture du droit à pension
+
+en application du b du présent 9° est fixée à...
+
+|
+
+Avant le 1er janvier 2017
+
+|
+
+12 ans
+
+|
+
+En 2017
+
+|
+
+12 ans et 4 mois
+
+|
+
+En 2018
+
+|
+
+12 ans et 8 mois
+
+|
+
+En 2019
+
+|
+
+13 ans
+
+|
+
+En 2020
+
+|
+
+13 ans et 4 mois
+
+|
+
+En 2021
+
+|
+
+13 ans et 8 mois
+
+|
+
+A compter du 1er janvier 2022
+
+|
+
+14 ans
+
+|
+
+10° Par dérogation, les 6°, 7°, 8° et 9° du présent V ne sont pas applicables aux agents qui, après avoir effectué les durées de services de trois ans, six ans, neuf ans et douze ans mentionnées auxdits 6°, 7°, 8° et 9° avant la date d'entrée en vigueur du décret n° 2011-290 du 18 mars 2011 relatif au régime spécial de retraite du personnel des industries électriques et gazières, soit ont été intégrés dans un emploi relevant de la catégorie des services sédentaires, soit ont quitté la branche professionnelle des industries électriques et gazières.
+
+VI.-1° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension des agents parents de deux enfants est fixé à cinquante-sept ans sous réserve que ces agents aient, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13 et à condition qu'ils justifient d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et qu'ils atteignent l'âge de cinquante-sept ans avant cette même date. Lorsque ces conditions de durée de services et d'âge sont remplies à compter du 1er janvier 2017, l'âge d'ouverture du droit à pension de ces agents est fixé comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS PARENTS DE DEUX ENFANTS QUI JUSTIFIENT
+
+d'une durée minimale de services de quinze ans
+
+telle que définie à l'article 1er et qui ont atteint
+
+l'âge de cinquante-sept ans...
+
+|
+
+..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...
+
+|
+
+En 2017
+
+|
+
+Cinquante-sept ans et dix mois
+
+|
+
+En 2018
+
+|
+
+Cinquante-huit ans et huit mois
+
+|
+
+En 2019
+
+|
+
+Cinquante-neuf ans et six mois
+
+|
+
+En 2020
+
+|
+
+Soixante ans et quatre mois
+
+|
+
+En 2021
+
+|
+
+Soixante et un ans et deux mois
+
+|
+
+2° Par dérogation à l'article 16, l'âge d'ouverture du droit à pension des agents parents d'un enfant est fixé à cinquante-neuf ans sous réserve que ces agents aient, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13 et à condition qu'ils justifient d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et qu'ils atteignent l'âge de cinquante-neuf ans avant cette même date. Lorsque ces conditions de durée de services et d'âge sont remplies à compter du 1er janvier 2017, l'âge d'ouverture du droit à pension de ces agents est fixé comme indiqué dans le tableau suivant :
+
+POUR LES AGENTS PARENTS D'UN ENFANT QUI JUSTIFIENT
+
+d'une durée minimale de services de quinze ans
+
+telle que définie à l'article 1er
+
+et qui ont atteint l'âge de cinquante-neuf ans...
+
+|
+
+..., L'ÂGE D'OUVERTURE DU DROIT À PENSION EST FIXÉ À...
+
+|
+
+En 2017
+
+|
+
+Cinquante-neuf ans et six mois
+
+|
+
+En 2018
+
+|
+
+Soixante ans
+
+|
+
+En 2019
+
+|
+
+Soixante ans et six mois
+
+|
+
+En 2020
+
+|
+
+Soixante et un ans
+
+|
+
+En 2021
+
+|
+
+Soixante et un an et six mois
+
+|
+
+3° Les enfants mentionnés au présent VI sont les enfants nés de l'agent ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières et antérieurement au 1er juillet 2008.
+
+4° Les dispositions du 2° du I de l'article 16 et des 6°, 7°, 8° et 9° du V du présent article sont susceptibles d'être cumulées avec celles du présent VI pour la détermination de l'âge d'ouverture du droit à pension de vieillesse.
+
+VII.-1° Par dérogation à l'article 16, les agents justifiant d'une durée minimale de services de quinze ans telle que définie à l'article 1er avant le 1er janvier 2017 et parents à cette date de trois enfants conservent la possibilité de liquider leur pension par anticipation à condition d'avoir, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées à l'article 13.
+
+Sont assimilées à l'interruption ou à la réduction d'activité mentionnée au premier alinéa du présent 1° les périodes n'ayant pas donné lieu à cotisation obligatoire dans un régime de retraite de base, dans les conditions fixées au III de l'article 13.
+
+Sont assimilés aux enfants mentionnés au premier alinéa du présent 1° les enfants :
+
+a) Soit nés de l'agent ou adoptés pléniers avant la cessation d'activité dans les industries électriques et gazières ;
+
+b) Soit adoptés simples ou recueillis avant la cessation d'activité dans les industries électriques et gazières et à compter du 1er juillet 2008, sous réserve que l'agent ait élevé chaque enfant recueilli pendant neuf ans avant qu'il ait cessé d'être à charge au sens des prestations familiales.
+
+2° A compter du 1er janvier 2017, pour l'application du VI de l'article 5 de la loi du 21 août 2003 susvisée et des I et II du présent article aux agents mentionnés au 1° du présent VII, l'année prise en compte est celle au cours de laquelle ces agents atteignent l'âge prévu au dernier alinéa du I de l'article 5 de la loi du 21 août 2003 susvisée ou, le cas échéant, l'âge prévu au 2° du I de l'article 16 de la présente annexe. Si cet âge est atteint après le 30 juin 2019, le coefficient de minoration applicable est celui prévu au premier alinéa du I de l'article 10. Lorsque la durée de services et bonifications correspondant à cette année n'est pas fixée, la durée exigée est celle correspondant à la dernière génération pour laquelle elle a été fixée.
+
+3° La Caisse nationale des industries électriques et gazières informe, avant le 1er janvier 2016, les agents ayant accompli quinze années de services effectifs et parents de trois enfants du changement des règles de départ anticipé à la retraite.
+
 Article 46
 
 Tableau additionnel
 
 Prise en compte des périodes effectuées en école de métiers conformément aux dispositions du 2° de l'article 2 de la présente annexe.
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter le tableau dans le JO n° 151 du 29/06/2008 texte numéro 12
 
-n° 151 du 29 / 06 / 2008 texte numéro 12
+Complément relatif aux prestations invalidité, vieillesse, décès
 
-Complément relatif aux prestations invalidité,
-
-vieillesse, décès
-
-Pour l'application des dispositions du a 1° de l'article 2 de la présente annexe 3, les trois catégories de services insalubres , actifs et sédentaires sont ainsi définies :
+Pour l'application des dispositions du a 1° de l'article 2 de la présente annexe 3, les trois catégories de services insalubres, actifs et sédentaires sont ainsi définies :
 
 a) Services insalubres.
 
@@ -932,7 +1762,7 @@ Conducteurs de saturateurs (sauf lorsque les gaz résiduaires sont captés et qu
 
 3° Distillation du benzol :
 
-Débenzoliers (sauf si l'installation fonctionne en vase clos et est ventilée d'une façon satisfaisante.L'emploi devra, en outre, y avoir été exercé pendant au moins cent heures par mois).
+Débenzoliers (sauf si l'installation fonctionne en vase clos et est ventilée d'une façon satisfaisante. L'emploi devra, en outre, y avoir été exercé pendant au moins cent heures par mois).
 
 4° Manipulation du brai :
 
@@ -946,7 +1776,7 @@ Chargeurs (à condition que l'emploi soit exercé du 1er mai au 1er octobre).
 
 b) Services actifs.
 
-Tout le personnel ouvrier des échelles n° s 1 à 10 classé dans les définitions techniques (colonnes de gauche, article 8 du statut) et, en tout état de cause, les emplois suivants :
+Tout le personnel ouvrier des échelles n os 1 à 10 classé dans les définitions techniques (colonnes de gauche, article 8 du statut) et, en tout état de cause, les emplois suivants :
 
 Chef d'équipe, chef de fabrication, chef d'entretien, chef de poste, chef de secteur, chef de cour-wattman.
 
