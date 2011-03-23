@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°013-2011 du 23-03-2011 - Approbation du Plan Général d'Aménagement PGA PIRAE
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2011-03-23
+- Objet : Délibération n°013-2011 du 23-03-2011 - Approbation du Plan Général d'Aménagement PGA PIRAE
+- Pages : 3
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2011/20191129-041752/temp-deliberation-ndeg013-2011-du-23-03-2011-approbation-du-plan-general-damenagement-pga-pirae.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/586c591cc751df5a812b7154
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
