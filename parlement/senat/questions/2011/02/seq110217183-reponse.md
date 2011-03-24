@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217183
+
+- Question : [SEQ110217183](seq110217183.md) — Publication des aides de la politique agricole commune
+
+## Réponse
+
+*Agriculture, JO du 2011-03-24, page 711*
+
+En application du règlement européen n° 259/2008 de la Commission, daté du 18 mars 2008, chaque État membre était tenu de publier un certain nombre d'informations relatives aux bénéficiaires des aides de la politique agricole commune (PAC). Un arrêt de la Cour de justice de l'Union européenne en date du 9 novembre 2010, invalide les articles 42, point 8 ter, et 44 bis du règlement (CE) n° 1290/2005 du 21 juin 2005 et le règlement (CE) n° 259/2008 du 18 mars 2008. Cette invalidation ne concerne que la publication pour les bénéficiaires personnes physiques et ne remet pas en cause les effets des publications antérieures. Cependant, dans une note datée du 30 novembre 2010, la Commission européenne estime qu'il n'est pas certain de pouvoir exclure tout risque de recours en indemnité pour ces publications antérieures. En conséquence, il est demandé aux États membres de limiter l'accès des publications préexistantes aux seules données concernant les bénéficiaires personnes morales et ce à compter du prononcé de l'arrêt. Or, concernant ces publications antérieures, il est impossible techniquement de distinguer les personnes morales des personnes physiques, compte tenu de la méthode qui avait été utilisée pour constituer la base de données. C'est la raison pour laquelle le ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (MAAPRAT) a décidé de retirer les publications antérieures de la consultation publique, afin de respecter les consignes précitées de la Commission, de se prémunir de tout recours éventuel et de préparer la prochaine publication en n'y faisant figurer que les bénéficiaires personnes morales.
