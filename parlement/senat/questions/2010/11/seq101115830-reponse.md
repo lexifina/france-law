@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115830
+
+- Question : [SEQ101115830](seq101115830.md) — Conséquences pour le tissu économique artisanal breton d'une baisse du FISAC
+
+## Réponse
+
+*Économie, JO du 2011-03-24, page 720*
+
+La réforme du Fonds d'intervention pour les services, l'artisanat et le commerce (FISAC), intervenue en 2008, a eu pour objet de mettre ce fonds au service d'un meilleur exercice des activités commerciales, artisanales et de services dans les communes rurales et dans les villes. Ce rôle est donc important. Pour autant, comme pour toutes les dépenses d'intervention de l'État, le Gouvernement doit envisager son évolution en valeur au regard de l'ensemble de la politique budgétaire. Celle-ci est actuellement fondée sur une réduction impérative des déficits publics qui passe par une diminution des dépenses d'intervention à laquelle le FISAC ne peut échapper. L'utilisation des dotations FISAC obéira, naturellement, à un impératif d'efficacité en finançant en priorité les actions innovantes et non répétitives, qui ont l'impact le plus tangible sur les activités commerciales, artisanales et de services et qui reposent sur un réel partenariat et sur des financements équilibrés des différents cofinanceurs. Cet impératif s'appliquera non seulement aux opérations territoriales mais aussi aux actions nationales, les aides attribuées au réseau consulaire de l'artisanat et des métiers devant être graduellement réduites afin de ne pas faire supporter la diminution des moyens budgétaires du FISAC aux seules opérations territoriales. Cette réduction des financements s'inscrit dans le cadre de la révision générale des politiques publiques et de la régionalisation du dispositif de développement économique qui conduit à une meilleure structuration des actions au profit des entreprises artisanales, contribue à une mutualisation des ressources et des outils et améliore l'organisation des services économiques des chambres consulaires.
