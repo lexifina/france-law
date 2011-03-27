@@ -148,7 +148,7 @@ Chef de l'état-major interarmées de force et d'entraînement
 
 |
 
-Directeur du collège interarmées de défense
+Directeur de l'Ecole de guerre
 
 |
 

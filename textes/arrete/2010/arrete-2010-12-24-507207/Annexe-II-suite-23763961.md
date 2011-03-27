@@ -16,7 +16,7 @@ DIRISI Lyon - CIRISI Varces - Détachement SIC Montbonnot
 
 |
 
-MONTBONNOT­SAINT-MARTIN
+MONTBONNOT­-SAINT-MARTIN
 
 |
 
@@ -48,7 +48,7 @@ DIRISI Lyon - CIRISI Varces
 
 |
 
-VARCES-ALLIERES­ET-RISSET
+VARCES-ALLIERES-­ET-RISSET
 
 |
 
@@ -240,7 +240,7 @@ DIRISI Rennes - CIRISI Orléans Bricy - Antenne SIC Romorantin
 
 |
 
-ROMORANTIN­LANTHENAY
+ROMORANTIN­-LANTHENAY
 
 |
 
@@ -328,7 +328,7 @@ IA/DIRISI
 
 |
 
-DIRISI Rennes - CIRISI Orléans-Bricy - Antenne SIC Orléans - Déta­chement SIC de la 12e base de soutien du matériel de Gien
+DIRISI Rennes - CIRISI Orléans-Bricy - Antenne SIC Orléans - Détachement SIC de la 12e base de soutien du matériel de Gien
 
 |
 
@@ -624,7 +624,7 @@ DIRISI Metz - CIRISI Châlons-en-Champagne - Détachement SIC du commissariat de
 
 |
 
-CHALONS-EN­CHAMPAGNE
+CHALONS-EN­-CHAMPAGNE
 
 |
 
@@ -1296,7 +1296,7 @@ DIRISI Brest - Antenne SIC de la BAN Lann Bihoué
 
 |
 
-PLOEMEUR­QUEVEN-ET­GUIDEL
+PLOEMEUR-­QUEVEN-ET­GUIDEL
 
 |
 
@@ -2544,7 +2544,7 @@ DIRISI Metz - CIRISI Stras­bourg - Antenne SIC Drachenbronn
 
 |
 
-DRACHENBRONN­BIRLENBACH
+DRACHENBRONN-­BIRLENBACH
 
 |
 
@@ -3344,7 +3344,7 @@ DIRISI Lyon - CIRISI Lyon - Détachement SIC de l'école militaire de Haute-Mont
 
 |
 
-CHAMONIX-MONT-­BLANC
+CHAMONIX-MONT­BLANC
 
 |
 
@@ -3560,7 +3560,7 @@ IA/DIRISI
 
 |
 
-8e régiment de transmis­sions - CIRISI MINDEF - Détachement SIC de la direction de l'ensei­gnement militaire supé­rieur - Collège inter­armées de défense (DEMS-CID)
+8e régiment de transmis­sions - CIRISI MINDEF - Détachement SIC de la direction de l'ensei­gnement militaire supé­rieur - Ecole de guerre
 
 |
 
