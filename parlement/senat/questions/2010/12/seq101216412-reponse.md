@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216412
+
+- Question : [SEQ101216412](seq101216412.md) — Contrôle de l'hospitalisation psychiatrique sous contrainte
+
+## Réponse
+
+*Justice, JO du 2011-03-31, page 813*
+
+La décision du Conseil constitutionnel n° 2010-71 QPC du 26 novembre 2010 a déclaré non conforme à la Constitution, avec effet au 1er août 2011, une disposition du code de la santé publique correspondant à son actuel article L. 3212-7. Cela a conduit le Gouvernement à introduire les dispositions répondant aux exigences du juge constitutionnel dans le projet de loi relatif aux droits et à la protection des personnes faisant l'objet de soins psychiatriques et aux modalités de leur prise en charge, déposé à l'Assemblée nationale le 5 mai 2010. Ce projet, présenté par le ministère en charge de la santé, est en cours de discussion au Parlement. Il propose notamment de supprimer le régime des sorties d'essai et de créer des mesures de soins ambulatoires sans consentement, sur demande d'un tiers ou sur décision de l'autorité publique, pouvant dans certains cas prendre le relais des hospitalisations sous contrainte, en permettant de moduler et de rendre plus efficient le suivi médical des patients. Les dispositions additionnelles adjointes au texte par le ministère de la justice et des libertés tendent à instaurer, en plus des recours facultatifs dont les mesures contraignantes peuvent faire l'objet sous le régime actuel, un contrôle de plein droit du juge des libertés et de la détention des mesures d'hospitalisation complète. Il est prévu que ce contrôle s'applique tant aux hospitalisations d'office qu'aux hospitalisations à la demande d'un tiers, qu'il intervienne avant l'expiration du quinzième jour à compter de l'admission en hospitalisation complète sous contrainte, puis qu'il soit renouvelé à l'issue de chaque période de six mois.
