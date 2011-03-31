@@ -4,7 +4,7 @@ RYTHME SUD
 
 A compter de l'année scolaire 2010-2011
 
-PAYS DE RÉSIDENCE
+PAYS DE RÉSIDENCE (RYTHME SUD)
 
 |
 
@@ -30,15 +30,15 @@ ARGENTINE
 
 |
 
-401
+471
 
 |
 
-415
+488
 
 |
 
-453
+533
 
 |
 
@@ -46,47 +46,47 @@ BOLIVIE
 
 |
 
-260
+284
 
 |
 
-307
+289
 
 |
 
-335
+295
 
 |
 
-BRESIL Sao Paulo
+BRESIL (São Paulo)
 
 |
 
-635
+803
 
 |
 
-665
+842
 
 |
 
-685
+868
 
 |
 
-BRESIL Rio de Janeiro
+BRESIL (Rio de Janeiro)
 
 |
 
-642
+816
 
 |
 
-642
+816
 
 |
 
-642
+816
 
 |
 
@@ -94,15 +94,15 @@ CHILI
 
 |
 
-414
+464
 
 |
 
-414
+464
 
 |
 
-414
+464
 
 |
 
@@ -110,15 +110,15 @@ COSTA RICA
 
 |
 
-256
+283
 
 |
 
-281
+283
 
 |
 
-310
+283
 
 |
 
@@ -126,15 +126,15 @@ PEROU
 
 |
 
-379
+402
 
 |
 
-379
+402
 
 |
 
-400
+402
 
 |
 
@@ -142,15 +142,15 @@ URUGUAY
 
 |
 
-430
+484
 
 |
 
-522
+590
 
 |
 
-586
+663
 
 |
 
@@ -158,14 +158,14 @@ VANUATU
 
 |
 
-246
+260
 
 |
 
-288
+315
 
 |
 
-372
+434
 
 |
