@@ -542,7 +542,7 @@ Le Président de la République.
 
 Les membres du Gouvernement, en particulier le garde des sceaux, ministre de la justice.
 
-Le Médiateur de la République et ses délégués.
+Le Défenseur des droits et ses délégués.
 
 Le directeur du cabinet du ministre de la justice, l'inspecteur général des services judiciaires, le chef de l'inspection des services pénitentiaires, les directeurs du ministère de la justice, les magistrats et fonctionnaires de ces directions.
 
@@ -596,13 +596,9 @@ Les médecins inspecteurs des directions régionales des affaires sanitaires et 
 
 Les directeurs d'établissement de santé.
 
-Le président de la Haute Autorité de lutte contre les discriminations et pour l'égalité.
-
-Le défenseur des enfants.
-
 Le président de la Commission nationale de déontologie de la sécurité.
 
-Le contrôleur général des lieux de privation de liberté.
+Le Contrôleur général des lieux de privation de liberté.
 
 En ce qui concerne les personnes retenues militaires ou relevant d'autorité militaire :
 

@@ -196,14 +196,6 @@ Commission compétente en matière d'aménagement du territoire
 
 |
 
-Président de la Commission nationale de déontologie de la sécurité
-
-|
-
-Commission compétente en matière de libertés publiques
-
-|
-
 Président de la commission prévue au dernier alinéa de l'article 25 de la Constitution
 
 |
@@ -229,14 +221,6 @@ Commission compétente en matière d'affaires culturelles
 |
 
 Contrôleur général des lieux de privation de liberté
-
-|
-
-Commission compétente en matière de libertés publiques
-
-|
-
-Défenseur des enfants
 
 |
 
@@ -273,14 +257,6 @@ Président du Haut conseil des biotechnologies
 |
 
 Commission compétente en matière d'environnement
-
-|
-
-Président de la Haute autorité de lutte contre les discriminations et pour l'égalité
-
-|
-
-Commission compétente en matière de libertés publiques
 
 |
 
@@ -321,14 +297,6 @@ Directeur général de l'institution nationale publique mentionnée à l'article
 |
 
 Commission compétente en matière d'emploi
-
-|
-
-Médiateur de la République
-
-|
-
-Commission compétente en matière de libertés publiques
 
 |
 
@@ -419,3 +387,9 @@ Président du conseil d'administration de Voies navigables de France
 Commission compétente en matière de transports
 
 |
+
+NOTA :
+
+Les mentions de la Commission nationale de déontologie de la sécurité, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité et du Médiateur de la République figurant en annexe à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution sont supprimées au 31 mars 2011 conformément au I de l'article 44 de la loi organique n° 2011-333 du 29 mars 2011.
+
+Toutefois les mots " de la Commission nationale de déontologie de la sécurité, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité et " sont supprimés conformément à l'article 20 de la loi n° 2011-334 du 29 mars 2011 à la date prévue au premier alinéa du II dudit article (1er mai 2011).
