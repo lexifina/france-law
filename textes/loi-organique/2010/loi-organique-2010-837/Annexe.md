@@ -194,14 +194,6 @@ Président
 
 |
 
-Commission nationale de déontologie de la sécurité
-
-|
-
-Président
-
-|
-
 Commission prévue au dernier alinéa de l'article 25 de la Constitution
 
 |
@@ -234,14 +226,6 @@ Contrôleur général
 
 |
 
-Défenseur des enfants
-
-|
-
-Défenseur des enfants
-
-|
-
 Electricité de France
 
 |
@@ -267,14 +251,6 @@ Président
 |
 
 Haut conseil des biotechnologies
-
-|
-
-Président
-
-|
-
-Haute autorité de lutte contre les discriminations et pour l'égalité
 
 |
 
@@ -319,14 +295,6 @@ Institution nationale publique mentionnée à l'article L. 5312-1 du code du tra
 |
 
 Directeur général
-
-|
-
-Médiateur de la République
-
-|
-
-Médiateur de la République
 
 |
 
@@ -417,3 +385,7 @@ Voies navigables de France
 Président du conseil d'administration
 
 |
+
+NOTA :
+
+Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4, au I de l'article 43, les mots " de la Commission nationale de déontologie de la sécurité, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité et ".
