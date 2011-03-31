@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910023
+
+- Question : [SEQ090910023](seq090910023.md) — Autorisation de signer et signature par délégation d'un bon de commande par un directeur général des services
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-03-31, page 795*
+
+Aux termes des troisième et quatrième alinéas de l'article 77-I du code des marchés publics : « L'émission des bons de commande s'effectue sans négociation ni remise en concurrence préalable des titulaires, selon les modalités expressément prévues par le marché. Les bons de commande sont des documents écrits adressés aux titulaires du marché. Ils précisent celles des prestations, décrites dans le marché, dont l'exécution est demandée et en déterminent la quantité. » Les bons de commande prévus à l'article 77-I du code des marchés publics constituent des actes d'exécution du marché, tels que prévus par celui-ci. Le marché ayant été le cas échéant approuvé par l'assemblée délibérante et transmis au représentant de l'État, ces actes sont couverts par ledit marché. Il n'est pas nécessaire de leur faire suivre la même procédure, à partir du moment où le signataire a reçu une délégation dans ce sens. Cette délégation est accordée par le conseil municipal au maire en application de l'article L. 2122-22 (4°) du code général des collectivités territoriales (CGCT). Le maire peut également déléguer ses fonctions sous conditions à un adjoint ou à un conseiller municipal (art. 2122-18 et 2122-23 du CGCT) par arrêté, ou encore sa signature aux principaux responsables administratifs des services (art. 2122-19 du CGCT). De fait, un directeur général des services peut signer des bons de commande s'il en a reçu délégation de signature. Il s'entend que pour avoir un caractère exécutoire cette délégation devra faire l'objet d'un arrêté, publié et transmis au représentant de l'État, en application de l'article 2131-1 du CGCT, ainsi qu'au comptable public.
