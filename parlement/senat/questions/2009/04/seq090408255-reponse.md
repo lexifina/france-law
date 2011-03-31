@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090408255
+
+- Question : [SEQ090408255](seq090408255.md) — Politique douanière européenne sur les produits textiles
+
+## Réponse
+
+*Commerce extérieur, JO du 2011-03-31, page 801*
+
+Le secrétaire d'État chargé du commerce extérieur apporte à l'honorable parlementaire les éléments de réponse suivants. Il n'existe aucune base de données recensant les taux de droits de douanes applicables depuis 1981. Par ailleurs, les taux sont variables selon la nature des produits et le classement de ces derniers a lui-même été amené à évoluer considérablement au cours des trois décennies passées, ce qui rend tout suivi très complexe. S'agissant des réglementations, le secteur du textile et de l'habillement a été régi à compter de 1974 par l'arrangement multifibres (AMF). Par exception au principe de non-discrimination prévu dans l'accord général sur les tarifs douaniers et le commerce, ce texte permettait l'instauration de quotas, négociés bilatéralement, pour les produits subissant une concurrence forte des importations. L'abrogation définitive des quotas étant programmée pour 2005, l'AMF a été remplacé pour une durée de 10 ans, à compter du 1er janvier 1995, par l'accord de l'Organisation mondiale du commerce (OMC) sur les textiles et les vêtements (AN). Ce dernier prévoyait une libéralisation progressive du secteur, tout en maintenant un mécanisme de sauvegarde afin de répondre à toute concurrence préjudiciable liée à de trop fortes importations, ainsi qu'un organe de supervision des textiles, chargé de veiller à l'application correcte de l'accord. Suite à l'abrogation de l'accord AN le 1er janvier 2005, tous les contingents existant dans le secteur des textiles et de l'habillement ont été supprimés, laissant place à l'application des règles générales de l'OMC.
