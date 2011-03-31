@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217094
+
+- Question : [SEQ110217094](seq110217094.md) — Décès par suicide des agriculteurs exploitants
+
+## Réponse
+
+*Agriculture, JO du 2011-03-31, page 787*
+
+Une étude statistique menée par l'Institut de veille sanitaire (InVS), publiée dans un article d'avril 2010 « Suicide et activité professionnelle en France » de la Revue d'épidémiologie et de santé publique, a mesuré le taux de prévalence aux tentatives de suicide et le risque relatif de décès par suicide par groupe socioprofessionnel, secteur d'activité et statut d'emploi. Si les exploitants agricoles présentent des taux de prévalence plus faibles que les taux moyens généraux observés (0,4 % pour les exploitants agricoles hommes, contre 3,1 pour les hommes, et 4,1 % pour les agricultrices, contre 6,9 % pour les femmes), ils constituent le groupe socioprofessionnel au sein duquel le risque de décéder par suicide s'avère le plus élevé (3,1 fois plus pour les hommes par rapport aux cadres et professions intellectuelles et 2,2 fois plus pour les femmes). Les causes du suicide sont le plus souvent multiples, sociales, économiques, professionnelles et individuelles. Elles peuvent et doivent être traitées. Le Gouvernement s'y emploie. C'est dans ce but qu'il s'attache à apporter à nos agriculteurs des réponses concrètes, à leur ouvrir des perspectives de long terme et à défendre un modèle d'agriculture à la fois protecteur, stable et régulé. Cependant, au-delà des causes professionnelles et économiques, il importe également de traiter les autres facteurs de fragilités. Afin de mieux les cerner, la Mutualité sociale agricole (MSA) et l'InVS vont réaliser avant la fin de l'année une étude sur le suicide en agriculture de façon à approfondir la connaissance de ce phénomène et à identifier les leviers de prévention les plus appropriés.
