@@ -2,11 +2,11 @@
 
 Tableau de correspondance
 
-AGENTS TITULAIRES DE LA COLLECTIVITÉ TERRITORIALE
+AGENTS TITULAIRES DU DÉPARTEMENT
 
 de Mayotte régis par l'arrêté préfectoral 066 PEL
 
-du 3 février 1984 portant organisation, classement hiérarchique et échelonnement indiciaire des cadres des fonctionnaires de la collectivité départementale de Mayotte
+du 3 février 1984 portant organisation, classement hiérarchique et échelonnement indiciaire des cadres des fonctionnaires du Département de Mayotte
 
 |
 
@@ -154,7 +154,7 @@ Garde-champêtre principal.
 
 .
 
-AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE
+AGENTS TITULAIRES DU DÉPARTEMENT
 
 de Mayotte régis par l'arrêté préfectoral 069 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire du corps médical et paramédical diplômé d'Etat
 
@@ -186,7 +186,7 @@ Infirmier territorial de classe normale et de classe supérieure.
 
 .
 
-AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE
+AGENTS TITULAIRES DU DÉPARTEMENT
 
 de Mayotte régis par l'arrêté préfectoral 068 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire des médecins, pharmaciens chimistes et vétérinaires biologistes
 
@@ -215,3 +215,7 @@ Fonctions correspondant à celles dévolues aux membres du cadre d'emplois d'acc
 Médecin territorial de 1re classe.
 
 |
+
+NOTA :
+
+Conformément à l’article 37 de la loi n° 2010-1487 du 7 décembre 2010, ces dispositions entrent en vigueur à compter de la première réunion suivant le renouvellement du conseil général de Mayotte en 2011.

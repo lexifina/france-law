@@ -410,6 +410,14 @@ Mayenne
 
 3 |
 
+Mayotte
+
+|
+
+2
+
+|
+
 Meurthe-et-Moselle
 
 |
@@ -729,14 +737,6 @@ Iles Wallis et Futuna
 |
 
 1
-
-|
-
-Mayotte
-
-|
-
-2
 
 |
 

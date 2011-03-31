@@ -16,7 +16,7 @@ Cantons de : Melun Nord, Melun Sud, Perthes
 
 |
 
-Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours.
+Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours
 
 |
 
@@ -32,7 +32,7 @@ Cantons de : Le Châtelet-en-Brie, Montereau-Fault-Yonne, Moret-sur-Loing, Morma
 
 |
 
-Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie, Villiers-Saint-Georges.
+Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie, Villiers-Saint-Georges
 
 |
 
@@ -126,7 +126,7 @@ Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche, commune d
 
 |
 
-Cantons de : Chatou, Houilles, Marly-le-Roi.
+Cantons de : Chatou, Houilles, Marly-le-Roi
 
 |
 
@@ -134,7 +134,7 @@ Cantons de : Chatou, Houilles, Marly-le-Roi.
 
 |
 
-Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.
+Cantons de : Maisons-Laffitte, Sartrouville, Le Vésinet
 
 |
 
@@ -152,7 +152,7 @@ Communes de Carrières-sous-Poissy, Médan et Villennes-sur-Seine
 
 |
 
-Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine.
+Cantons de : Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine
 
 |
 
@@ -160,7 +160,7 @@ Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des M
 
 |
 
-Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
+Cantons de : Limay, Mantes-la-Jolie, Mantes-la-Ville
 
 |
 
@@ -168,9 +168,9 @@ Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
 
 |
 
-Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan.
+Cantons de : Aubergenville, Bonnières-sur-Seine, Guerville, Houdan
 
-Communes de : Les Mureaux, Chapet.
+Communes de : Les Mureaux, Chapet
 
 |
 
@@ -320,7 +320,7 @@ Sans changement (cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar
 
 |
 
-Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles, Lauzerte, Lavit, Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne.
+Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles, Lauzerte, Lavit, Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne
 
 |
 
@@ -398,7 +398,7 @@ Vaucluse
 
 |
 
-Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
+Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud
 
 |
 
@@ -422,7 +422,7 @@ Cantons de : Bédarrides, Carpentras Sud, Pernes-les-Fontaines
 
 |
 
-Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.
+Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas
 
 |
 
@@ -440,7 +440,7 @@ Vendée
 
 |
 
-Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord.
+Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord
 
 |
 
@@ -448,7 +448,7 @@ Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, 
 
 |
 
-Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-Saint-Hilaire.
+Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-Saint-Hilaire
 
 |
 
@@ -456,7 +456,7 @@ Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-
 
 |
 
-Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts.
+Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts
 
 |
 
@@ -464,7 +464,7 @@ Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'O
 
 |
 
-Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent.
+Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent
 
 |
 
@@ -472,7 +472,7 @@ Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulge
 
 |
 
-Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-Hilaire-des-Loges.
+Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-Hilaire-des-Loges
 
 |
 
@@ -492,7 +492,7 @@ Cantons de : Mirebeau, Neuville-de-Poitou, Poitiers I, Poitiers II, Poitiers VII
 
 |
 
-Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé.
+Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé
 
 |
 
@@ -508,7 +508,7 @@ Cantons de : Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay, L
 
 |
 
-Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Loudun, Moncontour, Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les Trois-Moutiers.
+Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Loudun, Moncontour, Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les Trois-Moutiers
 
 |
 
@@ -548,7 +548,7 @@ Vosges
 
 |
 
-Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny.
+Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny
 
 |
 
@@ -556,7 +556,7 @@ Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xerti
 
 |
 
-Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest, Senones.
+Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest, Senones
 
 |
 
@@ -564,7 +564,7 @@ Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave,
 
 |
 
-Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot.
+Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot
 
 |
 
@@ -572,7 +572,7 @@ Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselo
 
 |
 
-Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel.
+Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Vittel
 
 |
 
@@ -586,7 +586,7 @@ Yonne
 
 Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-Ouest, Bléneau, Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy
 
-Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne) Monéteau (issue du canton de Seignelay)
+Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne), Monéteau (issue du canton de Seignelay)
 
 |
 
@@ -614,7 +614,7 @@ Territoire de Belfort
 
 |
 
-Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars.
+Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars
 
 |
 
@@ -622,7 +622,7 @@ Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Gr
 
 |
 
-Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-Château, Valdoie.
+Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-Château, Valdoie
 
 |
 
@@ -634,7 +634,7 @@ Essonne
 
 |
 
-Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
+Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud
 
 |
 
@@ -642,7 +642,7 @@ Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
 
 |
 
-Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.
+Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt
 
 |
 
@@ -668,7 +668,7 @@ Communes de : Bruyères-le-Châtel, Ollainville
 
 |
 
-Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
+Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis
 
 |
 
@@ -676,7 +676,7 @@ Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
 
 |
 
-Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
+Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau
 
 |
 
@@ -684,7 +684,7 @@ Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
 
 |
 
-Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
+Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon
 
 |
 
@@ -692,7 +692,7 @@ Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
 
 |
 
-Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
+Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres
 
 |
 
@@ -700,7 +700,7 @@ Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
 
 |
 
-Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.
+Cantons de : Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil
 
 |
 
@@ -708,7 +708,7 @@ Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbei
 
 |
 
-Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge.
+Cantons de : Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge
 
 |
 
@@ -720,7 +720,7 @@ Hauts-de-Seine
 
 |
 
-Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Garenne.
+Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Garenne
 
 |
 
@@ -728,7 +728,7 @@ Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevi
 
 |
 
-Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.
+Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud
 
 |
 
@@ -744,7 +744,7 @@ Cantons de : Bois-Colombes, Courbevoie Nord, Courbevoie Sud (partie située au n
 
 |
 
-Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
+Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes
 
 |
 
@@ -752,7 +752,7 @@ Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
 
 |
 
-Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.
+Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud
 
 |
 
@@ -768,7 +768,7 @@ Cantons de : Courbevoie Sud (partie non comprise dans la 3e circonscription), Ne
 
 |
 
-Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
+Cantons de : Garches, Rueil-Malmaison, Saint-Cloud
 
 |
 
@@ -776,7 +776,7 @@ Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
 
 |
 
-Cantons de: Chaville, Meudon, Sèvres.
+Cantons de : Chaville, Meudon, Sèvres
 
 |
 
@@ -784,7 +784,7 @@ Cantons de: Chaville, Meudon, Sèvres.
 
 |
 
-Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie située au nord d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier, boulevard de la République jusqu'au pont d'Issy).
+Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie située au nord d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier, boulevard de la République jusqu'au pont d'Issy)
 
 |
 
@@ -792,7 +792,7 @@ Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Bou
 
 |
 
-Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscription), Issy-les-Moulineaux Est, Issy-les-Moulineaux Ouest, Vanves.
+Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscription), Issy-les-Moulineaux Est, Issy-les-Moulineaux Ouest, Vanves
 
 |
 
@@ -800,7 +800,7 @@ Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscrip
 
 |
 
-Cantons de : Bagneux, Malakoff, Montrouge.
+Cantons de : Bagneux, Malakoff, Montrouge
 
 |
 
@@ -808,7 +808,7 @@ Cantons de : Bagneux, Malakoff, Montrouge.
 
 |
 
-Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
+Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson
 
 |
 
@@ -816,7 +816,7 @@ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
 
 |
 
-Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.
+Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux
 
 |
 
@@ -828,7 +828,7 @@ Seine-Saint-Denis
 
 |
 
-Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
+Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen
 
 |
 
@@ -836,7 +836,7 @@ Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
 
 |
 
-Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest.
+Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest
 
 |
 
@@ -884,7 +884,7 @@ Cantons de : Bagnolet, Montreuil Est, Montreuil Nord, Montreuil Ouest
 
 |
 
-Cantons de : Gagny, Rosny-sous-Bois, Villemomble.
+Cantons de : Gagny, Rosny-sous-Bois, Villemomble
 
 |
 
@@ -908,7 +908,7 @@ Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Bondy Sud-Est, Les Pav
 
 |
 
-Cantons de : Sevran, Tremblay-en-France, Villepinte.
+Cantons de : Sevran, Tremblay-en-France, Villepinte
 
 |
 
@@ -916,7 +916,7 @@ Cantons de : Sevran, Tremblay-en-France, Villepinte.
 
 |
 
-Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
+Cantons de : Livry-Gargan, Montfermeil, Le Raincy
 
 |
 
@@ -936,7 +936,7 @@ Cantons de : Bonneuil-sur-Marne, Champigny-sur-Marne Ouest, Créteil Nord, Saint
 
 |
 
-Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
+Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly
 
 |
 
@@ -944,7 +944,7 @@ Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
 
 |
 
-Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges.
+Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges
 
 |
 
@@ -952,7 +952,7 @@ Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Vil
 
 |
 
-Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne.
+Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne
 
 |
 
@@ -968,7 +968,7 @@ Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est,
 
 |
 
-Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest.
+Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest
 
 |
 
@@ -992,7 +992,7 @@ Cantons de : Charenton-le-Pont, Joinville-le-Pont, Maisons-Alfort Nord, Maisons-
 
 |
 
-Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest.
+Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest
 
 |
 
@@ -1000,7 +1000,7 @@ Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-S
 
 |
 
-Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord.
+Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord
 
 |
 
@@ -1008,7 +1008,7 @@ Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitr
 
 |
 
-Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
+Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest
 
 |
 
@@ -1020,7 +1020,7 @@ Val-d'Oise
 
 |
 
-Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny.
+Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny
 
 |
 
@@ -1036,7 +1036,7 @@ Cantons de : Cergy Sud, L'Isle-Adam, Saint-Ouen-l'Aumône, Viarmes, commune de N
 
 |
 
-Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
+Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny
 
 |
 
@@ -1044,7 +1044,7 @@ Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
 
 |
 
-Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
+Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt
 
 |
 
@@ -1052,7 +1052,7 @@ Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
 
 |
 
-Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
+Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons
 
 |
 
@@ -1060,7 +1060,7 @@ Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
 
 |
 
-Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.
+Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency
 
 |
 
@@ -1076,7 +1076,7 @@ Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest
 
 |
 
-Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel.
+Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel
 
 |
 
@@ -1084,7 +1084,7 @@ Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-
 
 |
 
-Cantons de : Gonesse, Goussainville, Luzarches.
+Cantons de : Gonesse, Goussainville, Luzarches
 
 |
 
@@ -1186,7 +1186,23 @@ Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le Marin, Rivière-Pilote, R
 
 |
 
-Réunion
+Mayotte
+
+|
+
+1re circonscription
+
+|
+
+Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi |
+
+2e circonscription
+
+|
+
+Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani, Sada, Tsingoni |
+
+La Réunion
 
 |
 

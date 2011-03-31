@@ -1,10 +1,10 @@
 # Article Annexe tableau n° 1 bis
 
-Territoires
+TERRITOIRES
 
 |
 
-Composition
+COMPOSITION
 
 |
 
@@ -12,13 +12,11 @@ Nouvelle-Calédonie
 
 |
 
-|
-
 1re circonscription
 
 |
 
-Communes de L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa.
+Communes de : L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa
 
 |
 
@@ -26,31 +24,11 @@ Communes de L'Ile des Pins, Lifou, Maré, Nouméa, Ouvéa.
 
 |
 
-Communes de Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La Foa, Moindou, Le Mont-Dore, Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarraméa, Thio, Touho, Voh, Yaté.
+Communes de : Belep, Bouloupari, Bourail, Canala, Dumbéa, Farino, Hienghène, Houaïlou, Kaala-Gomen, Koné, Kouaoua, Koumac, La Foa, Moindou, Le Mont-Dore, Ouégoa, Païta, Poindimié, Ponérihouen, Pouebo, Pouembout, Poum, Poya, Sarraméa, Thio, Touho, Voh, Yaté
 
 |
-
-Mayotte
-
-|
-
-|
-
-1re circonscription
-
-|
-
-Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi |
-
-2e circonscription
-
-|
-
-Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouangani, Sada, Tsingoni. |
 
 Polynésie française
-
-|
 
 |
 
@@ -90,7 +68,7 @@ Saint-Pierre-et-Miquelon
 
 Circonscription unique |
 
-Iles Wallis et Futuna
+Iles Wallis-et-Futuna
 
 |
 

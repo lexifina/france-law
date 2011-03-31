@@ -4,7 +4,7 @@ Tableau de correspondance
 
 CATEGORIE D'AGENTS NON TITULAIRES AU SENS
 
-de l'arrêté préfectoral n° 3647 du 17 décembre 2002 portant statut des personnels contractuels de la collectivité départementale de Mayotte
+de l'arrêté préfectoral n° 3647 du 17 décembre 2002 portant statut des personnels contractuels du Département de Mayotte
 
 |
 
@@ -167,3 +167,7 @@ Gardien de police municipale.
 Garde champêtre principal.
 
 |
+
+NOTA :
+
+Conformément à l’article 37 de la loi n° 2010-1487 du 7 décembre 2010, ces dispositions entrent en vigueur à compter de la première réunion suivant le renouvellement du conseil général de Mayotte en 2011.

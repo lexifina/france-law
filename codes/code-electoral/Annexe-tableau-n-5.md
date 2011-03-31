@@ -446,21 +446,21 @@ Guyane
 
 |
 
-Guadeloupe, Martinique, La Réunion
+Guadeloupe, Martinique, Mayotte, La Réunion
 
 |
 
-9
-
-|
-
-|
+11
 
 |
 
 |
 
-159
+|
+
+|
+
+161
 
 |
 
@@ -474,11 +474,7 @@ Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
 
 |
 
-Mayotte
-
 |
-
-2
 
 |
 
