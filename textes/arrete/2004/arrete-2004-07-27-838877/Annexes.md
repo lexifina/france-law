@@ -1,8 +1,6 @@
 # Article Annexe I
 
-LISTE DES CONTRÔLES À EFFECTUER
-
-ET DES DÉFAUTS CONSTATABLES
+LISTE DES CONTRÔLES À EFFECTUER ET DES DÉFAUTS CONSTATABLES
 
 Déroulement du contrôle technique
 
@@ -307,8 +305,6 @@ Report de la visite, renvoi du véhicule
 |
 
 La codification "C" signifie que le libellé correspond à un commentaire qui n'est pas considéré comme un défaut.
-
-7° Au titre de la présente annexe, on entend par véhicule de collection les véhicules dont le certificat d'immatriculation porte la mention "véhicule de collection" et les véhicules dont l'attestation prévue au point a du II du paragraphe 4.E de l'article 4 de l'arrêté du 9 février 2009 susvisé indique une première mise en circulation de plus de trente ans.
 
 PARTIE A
 
@@ -802,11 +798,7 @@ I - LISTE DES POINTS DE CONTROLE
 
 9.3.1. DISPOSITIF DE DIAGNOSTIC EMBARQUE (OBD)
 
-II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES
-
-APPLICABLES AUX VEHICULES LOURDS SOUMIS A
-
-REGLEMENTATION SPECIFIQUE
+II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOURDS SOUMIS A REGLEMENTATION SPECIFIQUE
 
 10 CONTROLES COMPLEMENTAIRES TCP
 
@@ -818,7 +810,7 @@ REGLEMENTATION SPECIFIQUE
 
 10.1.3. CERTIFICAT D'INSTALLATION DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
 
-10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
+10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD) (1)
 
 10.2. PREVENTION DES RISQUES D'INCENDIE
 
@@ -10197,3 +10189,7 @@ O
 T
 
 |
+
+NOTA :
+
+(1) : Arrêté du 18 février 2011 article 6 II : La date d'application du point 10.1.4 prévu au II. - Liste des points de contrôle supplémentaires applicables aux véhicules lourds soumis à réglementation spécifique de la partie A est reportée au 1er juillet 2011.
