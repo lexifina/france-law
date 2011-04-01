@@ -80,9 +80,7 @@ Port
 
 |
 
-HC-T (FR) (1), NHC-T (FR)
-
-|
+HC (1) (2), NHC |
 
 |
 
