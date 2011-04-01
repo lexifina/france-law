@@ -4,7 +4,7 @@ FICHE DE RÉCEPTION INDIVIDUELLE D'UN VÉHICULE
 
 (En application de l'article 24 de la directive 2007/46/CE modifiée)
 
-Communication concernant (le refus d') une réception individuelle d'un véhicule en vertu de la directive 2007/46/CE modifiée
+Communication concernant une réception individuelle d'un véhicule en vertu de la directive 2007/46/CE modifiée
 
 Numéro de réception :
 

@@ -100,6 +100,18 @@ Celles indiquées à l'article 29 du présent arrêté pour la catégorie de vé
 
 |
 
+|
+
+|
+
+Règlement (UE) n° 1003/2010
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
+
+|
+
 5
 
 |
@@ -360,13 +372,25 @@ Plaques réglementaires
 
 |
 
-Directive 76/1 14/CEE
+Directive 76/114/CEE
 
-Modifiée par la directive 78/507/CEE
+modifiée par la directive 78/507/CEE
 
 |
 
 Celles indiquées à l'article 2 de la directive 78/507/CE
+
+|
+
+|
+
+|
+
+Règlement (UE) n° 19/2011
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
 
 |
 
@@ -540,6 +564,18 @@ Celles indiquées à l'article 2 de la directive 96/64/CE
 
 |
 
+|
+
+|
+
+Règlement (UE) n° 1005/2010
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
+
+|
+
 28
 
 |
@@ -664,6 +700,18 @@ Celles indiquées à l'article 29 du présent arrêté pour la catégorie de vé
 
 |
 
+|
+
+|
+
+Règlement (UE) n° 672/2010
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
+
+|
+
 35
 
 |
@@ -674,11 +722,23 @@ Essuie-glaces et lave-glaces
 
 Directive 78/318/CEE
 
-Modifiée par la directive 94/68/CEE
+modifiée par la directive 94/68/CEE
 
 |
 
 Celles indiquées à l'article 2 de la directive 94/68/CE
+
+|
+
+|
+
+|
+
+Règlement (UE) n° 1008/2010
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
 
 |
 
@@ -710,11 +770,23 @@ Recouvrement des roues
 
 Directive 78/549/CEE
 
-Modifiée par la directive 94/78/CE
+modifiée par la directive 94/78/CE
 
 |
 
 Celles indiquées à l'article 2 de la directive 94/78/CE
+
+|
+
+|
+
+|
+
+Règlement (UE) n° 1009/2010
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
 
 |
 
@@ -824,11 +896,25 @@ Systèmes antiprojections
 
 |
 
-Directive 91/226/CEE
+Directive 91/226/CEE,
+
+modifiée par la directive 2010/19/UE
 
 |
 
-Celles indiquées à l'article 10 de la directive 91/226/CEE
+Celles indiquées à l'article 3 de la directive 91/226/CEE
+
+|
+
+|
+
+|
+
+Règlement (UE) n° 109/2011
+
+|
+
+Celle indiquée à l'article 20 du règlement (CE) n° 661/2010
 
 |
 
@@ -1123,6 +1209,38 @@ Règlement CE N° 706/2007
 |
 
 Celles indiquées aux articles 5 et 6 de la directive 2006/40/CE
+
+|
+
+62
+
+|
+
+Système hydrogène
+
+|
+
+Règlement (CE) n° 79/2009 et règlement (UE) n° 406/2010
+
+|
+
+Celle indiquée à l'article 16 du règlement (CE) n° 79/2009
+
+|
+
+63
+
+|
+
+Sécurité générale
+
+|
+
+Règlement (CE) n° 661/2009
+
+|
+
+Celles indiquées aux articles 13 et 20 dudit règlement
 
 |
 

@@ -418,7 +418,9 @@ X(1)
 
 |
 
-B(2)
+B
+
+(2)
 
 |
 
@@ -431,6 +433,12 @@ B(2)
 |
 
 B(2)
+
+|
+
+A
+
+(2)
 
 |
 
@@ -438,23 +446,27 @@ A(2)
 
 |
 
-A(2)
+B
+
+(2)
 
 |
 
-B(2)
+B
+
+(2)
 
 |
 
-B(2)
+B
+
+(2)
 
 |
 
-A(2)
+B
 
-|
-
-A(2)
+(2)
 
 |
 
@@ -466,7 +478,9 @@ Plaques d'immatriculation arrière
 
 |
 
-Arrêté du 4 mai 2009....
+Arrêté du 4 mai 2009
+
+Règlement n° 1003/2010/UE
 
 |
 
@@ -518,7 +532,9 @@ Dispositifs de direction
 
 |
 
-Arrêté du 4 mai 2009....
+Arrêté du 4 mai 2009
+
+Règlement n° 1005/2010/ UE
 
 |
 
@@ -546,19 +562,21 @@ A
 
 |
 
-A
+A (6)
+
+|
+
+A (6)
+
+|
+
+A (6)
 
 |
 
 A
 
-|
-
-A
-
-|
-
-A
+(6)
 
 |
 
@@ -790,7 +808,13 @@ A
 
 |
 
-A
+A (1)
+
+(7)
+
+|
+
+A (1) (7)
 
 |
 
@@ -802,7 +826,27 @@ A
 
 |
 
-A
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+B(2)
+
+|
+
+B(2)
+
+|
+
+|
 
 |
 
@@ -814,7 +858,7 @@ Suppression des parasites radioélectriques
 
 |
 
-Arrêté du4 mai 2009....
+Arrêté du 4 mai 2009
 
 |
 
@@ -1038,7 +1082,7 @@ Antivol
 
 |
 
-Arrêté du 4 mai 2009....
+Arrêté du 4 mai 2009
 
 |
 
@@ -1316,7 +1360,7 @@ Plaques réglementaires
 
 |
 
-Arrêté du 24 novembre 1978
+Arrêté du 24 novembre 1978 Règlement n° 19/2010/UE
 
 |
 
@@ -1355,8 +1399,6 @@ B
 B
 
 |
-
-B
 
 |
 
@@ -1760,7 +1802,7 @@ Dispositifs de remorquage
 
 |
 
-Arrêté du 4 mai 2009...
+Arrêté du 4 mai 2009 Règlement n° 1009/2010/UE
 
 |
 
@@ -2108,6 +2150,8 @@ Dispositifs de dégivrage et de désembuage
 
 Article R.316-1 du code de la route
 
+Règlement n° 672/2010/UE
+
 |
 
 B
@@ -2151,6 +2195,8 @@ Essuie-glaces et lave-glaces
 |
 
 Article R.316-4 du code de la route
+
+Règlement n° 1008/2010/UE
 
 |
 
@@ -2286,7 +2332,9 @@ Recouvrement des roues
 
 |
 
-Arrêté du 4 mai 2009...
+Arrêté du 4 mai 2009
+
+Règlement n° 1009/2010/UE
 
 |
 
@@ -2520,9 +2568,7 @@ Systèmes antiprojections
 
 |
 
-Arrêté du 18 septembre 1992
-
-|
+Arrêté du 18 septembre 1992 Règlement n° 109/2011/UE
 
 |
 
@@ -2540,7 +2586,11 @@ X(1)
 
 |
 
+X(1)
+
 |
+
+X(1)
 
 |
 
@@ -2552,7 +2602,7 @@ X(1)
 
 |
 
-|
+X(1)
 
 |
 
@@ -2560,15 +2610,9 @@ X(1)
 
 |
 
-A(2)
-
 |
 
-A(2)
-
-|
-
-|
+B(2)
 
 |
 
@@ -2577,6 +2621,22 @@ A(2)
 |
 
 A(2)
+
+|
+
+B(2)
+
+|
+
+B(2)
+
+|
+
+B(2)
+
+|
+
+B(2)
 
 |
 
@@ -3008,19 +3068,19 @@ A(2)
 
 |
 
-A(2)
+B(2)
 
 |
 
-A(2)
+B(2)
 
 |
 
-A(2)
+B(2)
 
 |
 
-A(2)
+B(2)
 
 |
 
@@ -3450,6 +3510,114 @@ B(2)
 
 |
 
+62
+
+|
+
+Système hydrogène
+
+|
+
+Arrêté du 22 mars 2011
+
+|
+
+X(1)
+
+|
+
+X(1)
+
+|
+
+X(1)
+
+|
+
+X(1)
+
+|
+
+X(1)
+
+|
+
+X(1)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A(2)
+
+|
+
+A(2)
+
+|
+
+A(2)
+
+|
+
+A(2)
+
+|
+
+A(2)
+
+|
+
+A(2)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+63
+
+|
+
+Règlement général de sécurité
+
+|
+
+Sans objet
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 (1) Entité ou composant.
 
 (2) Véhicule ou installation.
@@ -3462,11 +3630,13 @@ B(2)
 
 - l'équivalence entre les suspensions pneumatiques et non pneumatiques des essieux moteurs des véhicules (point 7.11 de l'annexe I de la directive 97/27/CE) ;
 
-- l'attribution du caractère hors route,
-
-pour lesquels un niveau A est requis (justificatif d'un laboratoire notifié par un Etat membre).
+- l'attribution du caractère hors route, pour lesquels un niveau A est requis (justificatif d'un laboratoire notifié par un Etat membre).
 
 (5) A l'exception de la série complète de prescriptions relatives aux systèmes de diagnostic embarqué (OBD).
+
+(6) Niveau B pour les remorques à équipements d'autodirection si le rapport des charges d'essieu entre essieux non directeurs et essieux autodirigés est égal ou supérieur à 1,6 dans toutes les conditions de charge.
+
+(7) Justificatif d'un laboratoire reconnu par un Etat membre.
 
 X : la conformité totale à l'acte réglementaire est exigée ; la fiche de réception CE est délivrée ; la conformité de la production est assurée.
 
