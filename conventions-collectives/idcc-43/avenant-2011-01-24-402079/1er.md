@@ -1,0 +1,255 @@
+# Article 1er
+
+L'article 5 « Cotisation » est modifié comme suit :
+
+« Le taux global de cotisation est fixé à :
+
+– personnel non cadre : 0,82 % de la tranche A et 0,82 % de la tranche B ;
+
+– personnel cadre : 1,50 % de la tranche A et 1,64 % de la tranche B.
+
+Il est réparti de la façon suivante :
+
+Personnel non cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+TA-TB |
+
+à la charge
+
+de l'employeur
+
+TA-TB |
+
+à la charge
+
+du salarié
+
+TA-TB |
+
+Décès |
+
+0,08 |
+
+0,07 |
+
+0,01 |
+
+Rente éducation OCIRP |
+
+0,07 |
+
+0,06 |
+
+0,01 |
+
+Obsèques |
+
+0,02 |
+
+0,02 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,09 |
+
+0,09 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,35 |
+
+0 |
+
+0,35 |
+
+Invalidité |
+
+0,21 |
+
+0,20 |
+
+0,01 |
+
+Total |
+
+0,82 |
+
+0,44 |
+
+0,38 |
+
+Personnel cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+TA |
+
+à la charge
+
+de l'employeur
+
+TA |
+
+à la charge
+
+du salarié
+
+TA |
+
+Décès |
+
+0,49 |
+
+0,49 |
+
+0 |
+
+Rente éducation OCIRP |
+
+0,16 |
+
+0,16 |
+
+0 |
+
+Rente de conjoint OCIRP |
+
+0,11 |
+
+0,11 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,10 |
+
+0,10 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,30 |
+
+0,30 |
+
+0 |
+
+Invalidité |
+
+0,34 |
+
+0,34 |
+
+0 |
+
+Total |
+
+1,50 |
+
+1,50 |
+
+0 |
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+TB |
+
+à la charge
+
+de l'employeur
+
+TB |
+
+à la charge
+
+du salarié
+
+TB |
+
+Décès |
+
+0,49 |
+
+0,36 |
+
+0,13 |
+
+Rente éducation OCIRP |
+
+0,16 |
+
+0,11 |
+
+0,05 |
+
+Rente de conjoint OCIRP |
+
+0,11 |
+
+0,08 |
+
+0,03 |
+
+Mensualisation au 31e jour |
+
+0,12 |
+
+0,12 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,36 |
+
+0 |
+
+0,36 |
+
+Invalidité |
+
+0,40 |
+
+0,24 |
+
+0,16 |
+
+Total |
+
+1,64 |
+
+0,91 |
+
+0,73 |
+
+Les taux de cotisation seront maintenus pendant 4 ans par les organismes assureurs et ce à partir de la date d'effet du présent avenant.
+
+Ces taux sont établis sur la base de la législation et de la réglementation (notamment sociale et fiscale) en vigueur au moment de la date d'effet du présent avenant. Ils seront éventuellement revus en cas de changement de ces textes.
+
+Par ailleurs, si les organismes assureurs désignés constatent, à la suite de la présentation annuelle des résultats du régime de prévoyance, une éventuelle dégradation des comptes, ils seront amenés à proposer aux partenaires sociaux une modification des taux permettant un retour à l'équilibre financier du régime. »
