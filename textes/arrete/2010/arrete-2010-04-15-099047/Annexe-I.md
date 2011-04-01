@@ -1,9 +1,5 @@
 # Article Annexe I
 
-A N N E X E S
-
-A N N E X E I
-
 PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À ENREGISTREMENT SOUS LA RUBRIQUE N° 1435
 
 1. Dispositions générales
@@ -36,9 +32,7 @@ Superéthanol : carburant composé d'un minimum de 65 % d'éthanol d'origine agr
 
 E10 : carburant ayant une teneur strictement supérieure à 5 % et inférieure ou égale à 10 % en éthanol.
 
-1.1. Conformité de l'installation
-
-au dossier d'enregistrement
+1.1. Conformité de l'installation au dossier d'enregistrement
 
 L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints au dossier d'enregistrement.
 
@@ -48,13 +42,13 @@ L'exploitant énumère et justifie en tant que de besoin toutes les dispositions
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
-― une copie de la demande d'enregistrement et du dossier qui l'accompagne ;
+- une copie de la demande d'enregistrement et du dossier qui l'accompagne ;
 
-― le dossier d'enregistrement tenu à jour et daté en fonction des modifications apportées à l'installation ;
+- le dossier d'enregistrement tenu à jour et daté en fonction des modifications apportées à l'installation ;
 
-― l'arrêté d'enregistrement délivré par le préfet ainsi que tout arrêté préfectoral relatif à l'installation ;
+- l'arrêté d'enregistrement délivré par le préfet ainsi que tout arrêté préfectoral relatif à l'installation ;
 
-― les différents documents prévus par le présent arrêté.
+- les différents documents prévus par le présent arrêté.
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
@@ -62,7 +56,7 @@ Ce dossier est tenu à la disposition de l'inspection des installations classée
 
 Sans préjudice des règlements d'urbanisme, l'exploitant adopte les dispositions suivantes, nécessaires pour prévenir les envols de poussières et matières diverses :
 
-― les voies de circulation et aires de stationnement des véhicules sont aménagées (formes de pente, revêtement, etc.) et convenablement nettoyées ;
+- les voies de circulation et aires de stationnement des véhicules sont aménagées (formes de pente, revêtement, etc.) et convenablement nettoyées ;
 
 1.4. Intégration dans le paysage
 
@@ -76,29 +70,29 @@ Pour l'entretien des surfaces extérieures de son site (parkings, espaces verts,
 
 2.1. Règles d'implantation
 
-A. ― L'implantation de nouvelles stations-service visées par le présent arrêté est interdite en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol, c'est-à-dire en dessous du niveau dit de référence.
+A. - L'implantation de nouvelles stations-service visées par le présent arrêté est interdite en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol, c'est-à-dire en dessous du niveau dit de référence.
 
 Le niveau de référence est celui de la voirie publique située à l'air libre et desservant la construction utilisable par les engins des services d'incendie et de secours. S'il y a deux accès par des voies situées à des niveaux différents, le niveau de référence est déterminé par la voie la plus basse.
 
 Par ailleurs, aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un immeuble occupé par des tiers. Cette disposition est applicable :
 
-― à partir du lendemain de la date de publication du présent arrêté, aux nouvelles installations ;
+- à partir du lendemain de la date de publication du présent arrêté, aux nouvelles installations ;
 
-― à partir du lendemain de la date de publication du présent arrêté, aux installations existantes dont le dossier de demande d'autorisation au titre de la rubrique 1434 a été déposé depuis le 1er juillet 2009 ;
+- à partir du lendemain de la date de publication du présent arrêté, aux installations existantes dont le dossier de demande d'autorisation au titre de la rubrique 1434 a été déposé depuis le 1er juillet 2009 ;
 
-― à partir du lendemain de la date de publication du présent arrêté, aux installations régulièrement déclarées au titre de la rubrique 1434 à compter du 1er juillet 2009 ;
+- à partir du lendemain de la date de publication du présent arrêté, aux installations régulièrement déclarées au titre de la rubrique 1434 à compter du 1er juillet 2009 ;
 
-― à compter du 1er janvier 2015 pour les installations existantes et régulièrement déclarées ou autorisées avant le 1er juillet 2009.
+- à compter du 1er janvier 2015 pour les installations existantes et régulièrement déclarées ou autorisées avant le 1er juillet 2009.
 
 La distribution en station-service de carburants de la catégorie B de la rubrique 1430 de la nomenclature des installations classées en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol n'est autorisée que sous réserve que l'installation soit équipée :
 
-― d'un système de détection des vapeurs d'hydrocarbures, d'une installation de ventilation d'urgence dont le déclenchement est asservi au système de détection et d'un arrêt d'urgence automatique des appareils de distribution asservi à ces mêmes détecteurs. ;
+- d'un système de détection des vapeurs d'hydrocarbures, d'une installation de ventilation d'urgence dont le déclenchement est asservi au système de détection et d'un arrêt d'urgence automatique des appareils de distribution asservi à ces mêmes détecteurs ;
 
-― de systèmes de récupération des vapeurs au dépotage des installations de stockage et au ravitaillement en carburant de la catégorie B des véhicules à moteur respectant les prescriptions du point 2.6.3.1 de l'annexe I du présent arrêté et d'un système de régulation électronique en boucle fermée respectant les prescriptions de l'article du point 2.6.3.2 de l'annexe I du présent arrêté quel que soit le volume distribué par an.
+- de systèmes de récupération des vapeurs au dépotage des installations de stockage et au ravitaillement en carburant de la catégorie B des véhicules à moteur respectant les prescriptions du point 2.6.3.1 de l'annexe I du présent arrêté et d'un système de régulation électronique en boucle fermée respectant les prescriptions de l'article du point 2.6.3.2 de l'annexe I du présent arrêté quel que soit le volume distribué par an.
 
 Cette disposition s'applique à compter du 1er janvier 2020 pour les installations régulièrement déclarées ou autorisées au titre de la rubrique 1434 avant la date de publication du présent arrêté et immédiatement en cas de modification substantielle de l'installation nécessitant un nouvel enregistrement en application de l'article R. 512-46-12 du code de l'environnement.
 
-B. ― Les distances minimales d'implantation (en mètres) à respecter vis-à-vis des issues d'un établissement recevant du public de 1re, 2e, 3e ou 4e catégorie, d'un immeuble habité ou occupé par des tiers, extérieur à l'établissement ou d'une installation extérieure à l'établissement présentant des risques d'incendie ou d'explosion suivantes sont :
+B. - Les distances minimales d'implantation (en mètres) à respecter vis-à-vis des issues d'un établissement recevant du public de 1re, 2e, 3e ou 4e catégorie, d'un immeuble habité ou occupé par des tiers, extérieur à l'établissement ou d'une installation extérieure à l'établissement présentant des risques d'incendie ou d'explosion suivantes sont :
 
 |
 
@@ -106,41 +100,77 @@ CATÉGORIE B
 
 y compris E10
 
-et hors superéthanol |
+et hors superéthanol
 
-CATÉGORIE C |
+|
 
-SUPERÉTHANOL |
+CATÉGORIE C
 
-Dépotage |
+|
 
-19 |
+SUPERÉTHANOL
 
-17 |
+|
 
-14 |
+Dépotage
 
-Dépotage sécurisé |
+|
 
-13 (auvent) 16 (extinction automatique) |
+19
 
-14 |
+|
 
-11 |
+17
 
-Distribution |
+|
 
-17 |
+14
 
-14, 18, 21, 23 (*) |
+|
 
-11 |
+Dépotage sécurisé
 
-Distribution sécurisée |
+|
 
-13 |
+13 (auvent) 16 (extinction automatique)
 
-11, 15, 17, 19 (*) |
+|
+
+14
+
+|
+
+11
+
+|
+
+Distribution
+
+|
+
+17
+
+|
+
+14, 18, 21, 23 (*)
+
+|
+
+11
+
+|
+
+Distribution sécurisée
+
+|
+
+13
+
+|
+
+11, 15, 17, 19 (*)
+
+|
 
 8
 
@@ -148,31 +178,33 @@ Distribution sécurisée |
 
 (*) Ces distances s'entendent respectivement pour :
 
-― la distribution voiture ;
+- la distribution voiture ;
 
-― la distribution poids-lourds limitée à 2,5 mètres cubes par heure ;
+- la distribution poids-lourds limitée à 2,5 mètres cubes par heure ;
 
-― la distribution poids-lourds supérieure à 2,5 mètres cubes par heure et inférieure à 8 mètres cubes par heure ;
+- la distribution poids-lourds supérieure à 2,5 mètres cubes par heure et inférieure à 8 mètres cubes par heure ;
 
-― la distribution poids-lourds supérieure ou égale à 8 mètres cubes par heure. |
+- la distribution poids-lourds supérieure ou égale à 8 mètres cubes par heure.
+
+|
 
 On entend par distance pour le dépotage les distances mesurées à partir du centre de l'aire de dépotage la plus proche de l'établissement concerné.
 
 On entend par dépotage sécurisé un dépotage réalisé dans une installation comportant un ou plusieurs des équipements suivants :
 
-― un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la zone de dépotage d'une hauteur inférieure ou égale à 5 mètres ;
+- un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la zone de dépotage d'une hauteur inférieure ou égale à 5 mètres ;
 
-― un système d'extinction automatique.
+- un système d'extinction automatique.
 
 On entend par distance pour la distribution les distances d'implantation, mesurées horizontalement à partir des parois de l'appareil de distribution le plus proche des établissements visés.
 
 On entend par distribution sécurisée une distribution réalisée dans une installation comportant un ou plusieurs des équipements suivants :
 
-― un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la distribution d'une hauteur inférieure ou égale à 5 mètres ;
+- un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la distribution d'une hauteur inférieure ou égale à 5 mètres ;
 
-― un système d'extinction automatique ;
+- un système d'extinction automatique ;
 
-― un système de détection de vapeurs avec coupure automatique de la distribution en cas de détection.
+- un système de détection de vapeurs avec coupure automatique de la distribution en cas de détection.
 
 Ces distances peuvent être diminuées de 30 % en cas d'interposition d'un mur RE 120 d'une hauteur de 2,50 mètres et situé à 5 mètres au moins de l'appareil de distribution le plus proche de l'établissement concerné.
 
@@ -182,15 +214,15 @@ La distance de 5 mètres est également observée aux limites de la voie publiqu
 
 Pour les installations régulièrement autorisées ou déclarées à la date de publication du présent arrêté, les distances à prendre en compte au titre du présent point B sont celles prévues dans l'arrêté d'autorisation ou à la date du récépissé de déclaration.
 
-C. ― Les stockages de bouteilles de gaz combustibles liquéfiés respectent les conditions minimales d'éloignement suivantes des parois des appareils de distribution :
+C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les conditions minimales d'éloignement suivantes des parois des appareils de distribution :
 
 6 mètres, si la capacité du dépôt de bouteilles est au plus de 15 000 kilogrammes ;
 
 7,5 mètres pour une capacité de dépôt supérieure à 15 000 kilogrammes.
 
-D. ― Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution. Cette disposition est applicable aux installations existantes précédemment déclarées ou autorisées à compter du 1er juillet 2009 au titre de la rubrique 1434 de la nomenclature des installations classées.
+D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution. Cette disposition est applicable aux installations existantes précédemment déclarées ou autorisées à compter du 1er juillet 2009 au titre de la rubrique 1434 de la nomenclature des installations classées.
 
-2.2. Construction. ― Accessibilité
+2.2. Construction. - Accessibilité
 
 2.2.1. Accessibilité au site
 
@@ -200,27 +232,25 @@ On entend par accès à la station-service une ouverture reliant la voie publiqu
 
 Les véhicules dont la présence est liée à l'exploitation de la station-service stationnent sans occasionner de gêne pour l'accessibilité des engins des services d'incendie et de secours depuis les voies de circulation externes à l'installation, même en dehors des heures d'exploitation et d'ouverture de l'installation.
 
-Pour les installations de distribution de liquides inflammables situées dans un local partiellement ou totalement clos, et possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades, une « voie échelle » permet d'accéder à des ouvertures.
+Pour les installations de distribution de liquides inflammables situées dans un local partiellement ou totalement clos, et possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades, une voie échelle permet d'accéder à des ouvertures.
 
 La voie échelle est facilement accessible depuis l'extérieur de la station-service. Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtiment peut être disposée. La voie échelle respecte par ailleurs les caractéristiques suivantes :
 
-― la largeur utile est au minimum de 4 mètres, la longueur de l'aire de stationnement au minimum de 10 mètres, la pente au maximum de 10 % ;
+- la largeur utile est au minimum de 4 mètres, la longueur de l'aire de stationnement au minimum de 10 mètres, la pente au maximum de 10 % ;
 
-― dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une surlargeur de S = 15/R mètres est ajoutée ;
+- dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une surlargeur de S = 15/R mètres est ajoutée ;
 
-― aucun obstacle aérien ne gêne la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
+- aucun obstacle aérien ne gêne la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
 
-― la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieur à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
+- la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieur à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
 
-― la voie résiste à la force portante calculée pour un véhicule de 160 KN avec un maximum de 90 KN par essieu, ceux-ci étant distants de 3,6 mètres au minimum et présente une résistance minimale au poinçonnement de 80 N/cm².
+- la voie résiste à la force portante calculée pour un véhicule de 160 KN avec un maximum de 90 KN par essieu, ceux-ci étant distants de 3,6 mètres au minimum et présente une résistance minimale au poinçonnement de 80 N/cm².
 
 Les ouvertures prévues à l'alinéa 4 du présent point permettent au moins un accès par étage pour chacune des façades disposant de voie échelle et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre. Les panneaux d'obturation ou les châssis composant ces accès s'ouvrent et demeurent toujours accessibles de l'extérieur et de l'intérieur. Ils sont aisément repérables de l'extérieur par les services d'incendie et de secours.
 
 2.2.2. Construction
 
-2.2.2.1. Cas des installations
-
-sous immeuble habité ou occupé par des tiers
+2.2.2.1. Cas des installations sous immeuble habité ou occupé par des tiers
 
 Les installations implantées sous immeuble habité ou occupé par des tiers sont équipées d'un détecteur automatique d'incendie avec asservissement de la commande d'arrêt de distribution, du déclenchement des alarmes ainsi que du déclenchement du dispositif d'extinction automatique.
 
@@ -228,21 +258,19 @@ Ces installations ne commandent pas l'issue ou le dégagement de locaux occupés
 
 Dans les installations implantées sous un immeuble habité ou occupé par des tiers, les parois, les planchers hauts présentent les caractéristiques suivantes :
 
-― murs et planchers hauts REI 120 ;
+- murs et planchers hauts REI 120 ;
 
-― couverture A1s1d0 ;
+- couverture A1s1d0 ;
 
-― portes intérieures EI2 30 C et munies d'un ferme-porte ou d'un dispositif assurant leur fermeture automatique ;
+- portes intérieures EI2 30 C et munies d'un ferme-porte ou d'un dispositif assurant leur fermeture automatique ;
 
-― porte donnant vers l'extérieur EI2 120 C ;
+- porte donnant vers l'extérieur EI2 120 C ;
 
-― matériaux de classe A1.
+- matériaux de classe A1.
 
 Les locaux sont équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage est adapté aux risques particuliers de l'installation.
 
-2.2.2.2. Cas des installations situées
-
-dans un local totalement ou partiellement clos
+2.2.2.2. Cas des installations situées dans un local totalement ou partiellement clos
 
 Les installations situées dans un local partiellement ou totalement clos présentent des murs et planchers hauts REI 120 et sont équipées d'au moins deux portes EI2 120 C satisfaisant une classe de durabilité C2 et à fermeture permanente ou comprenant un dispositif ferme-porte automatique assurant un degré de résistance au feu équivalent à celui exigé pour les murs ; ces portes visant à éviter la propagation des effets du sinistre éventuel sont munies d'un système d'ouverture antipanique visant à assurer l'évacuation rapide des personnes.
 
@@ -276,9 +304,7 @@ Les gainages électriques et autres canalisations ne sont pas une cause possible
 
 L'installation respecte les dispositions de l'arrêté du 15 janvier 2008 susvisé.
 
-2.2.6. Rétention des aires et locaux de travail
-
-et isolement du réseau de collecte
+2.2.6. Rétention des aires et locaux de travail et isolement du réseau de collecte
 
 Sauf pour la boutique et le local de réserve annexe, le sol des aires et des locaux de stockage ou de manipulation des matières dangereuses pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol est étanche, incombustible et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement. Un dispositif, empêchant la diffusion des matières répandues à l'extérieur ou dans d'autres aires ou locaux est prévu. Les matières recueillies sont de préférence récupérées et recyclées, ou en cas d'impossibilité, traitées conformément aux dispositions du présent arrêté.
 
@@ -326,9 +352,9 @@ Toute opération de distribution est contrôlée par un dispositif de sécurité
 
 Pour les cas d'une exploitation en libre service sans surveillance, l'installation de distribution est équipée :
 
-― d'un dispositif d'arrêt d'urgence situé à proximité de l'appareil permettant de provoquer la coupure de l'ensemble des installations destinées à la distribution ;
+- d'un dispositif d'arrêt d'urgence situé à proximité de l'appareil permettant de provoquer la coupure de l'ensemble des installations destinées à la distribution ;
 
-― d'un dispositif de communication permettant d'alerter immédiatement la personne désignée en charge de la surveillance de l'installation.
+- d'un dispositif de communication permettant d'alerter immédiatement la personne désignée en charge de la surveillance de l'installation.
 
 Dans les installations exploitées en libre service surveillé, l'agent d'exploitation peut commander à tout moment, depuis un point de contrôle de la station, le fonctionnement de l'appareil de distribution ou de remplissage.
 
@@ -378,35 +404,33 @@ Le fond de ces tranchées et les remblais sont constitués d'une terre saine ou 
 
 D'une façon générale, l'installation est dotée de moyens de lutte contre l'incendie appropriés aux risques et au moins protégée comme suit :
 
-― de deux appareils d'incendie (bouches ou poteaux d'incendie) d'un diamètre nominal DN 100 situés à moins de 100 mètres de la station-service (les distances sont mesurées par les voies praticables aux engins de secours). Ces appareils sont alimentés par un réseau public ou privé qui est en mesure de fournir un débit minimum de 120 mètres cubes par heure pendant au moins deux heures ; la pression dynamique minimale des appareils d'incendie est de 1 bar sans dépasser 8 bars.
+- de deux appareils d'incendie (bouches ou poteaux d'incendie) d'un diamètre nominal DN 100 situés à moins de 100 mètres de la station-service (les distances sont mesurées par les voies praticables aux engins de secours). Ces appareils sont alimentés par un réseau public ou privé qui est en mesure de fournir un débit minimum de 60 mètres cubes par heure pendant au moins deux heures ; la pression dynamique minimale des appareils d'incendie est de 1 bar sans dépasser 8 bars.
 
-Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 120 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 120 mètres cubes de capacité.
+Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 120 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 120 mètres cubes de capacité ;
 
-Le débit et la quantité d'eau d'extinction et de refroidissement nécessaires sont calculés conformément au document technique D 9 susvisé ;
+- d'un système d'alarme incendie (ou tout moyen permettant d'alerter les services d'incendie et de secours dans le cas des installations sans surveillance) ;
 
-― d'un système d'alarme incendie (ou tout moyen permettant d'alerter les services d'incendie et de secours dans le cas des installations sans surveillance) ;
+- sur chaque îlot de distribution, d'un système manuel commandant en cas d'incident une alarme optique ou sonore ;
 
-― sur chaque îlot de distribution, d'un système manuel commandant en cas d'incident une alarme optique ou sonore ;
+- d'un dispositif permettant de rappeler à tout instant aux tiers les consignes de sécurité et les conduites à tenir en cas de danger ou d'incident, au besoin par l'intermédiaire d'un ou de plusieurs haut-parleurs ;
 
-― d'un dispositif permettant de rappeler à tout instant aux tiers les consignes de sécurité et les conduites à tenir en cas de danger ou d'incident, au besoin par l'intermédiaire d'un ou de plusieurs haut-parleurs ;
+- pour chaque îlot de distribution, d'un extincteur homologué 233 B ; pour l'aviation l'extincteur est conforme aux dispositions de l'arrêté du 23 janvier 1980 susvisé ;
 
-― pour chaque îlot de distribution, d'un extincteur homologué 233 B ; pour l'aviation l'extincteur est conforme aux dispositions de l'arrêté du 23 janvier 1980 susvisé ;
+- pour l'aire de distribution des stations-service et à proximité des bouches d'emplissage de réservoirs des stations délivrant des liquides inflammables, d'une réserve de produit absorbant incombustible en quantité adaptée au risque, sans être inférieure à 100 litres, des moyens nécessaires à sa mise en œuvre ; la réserve de produit absorbant est protégée par couvercle ou par tout dispositif permettant d'abriter le produit absorbant des intempéries ;
 
-― pour l'aire de distribution des stations-service et à proximité des bouches d'emplissage de réservoirs des stations délivrant des liquides inflammables, d'une réserve de produit absorbant incombustible en quantité adaptée au risque, sans être inférieure à 100 litres, des moyens nécessaires à sa mise en œuvre ; la réserve de produit absorbant est protégée par couvercle ou par tout dispositif permettant d'abriter le produit absorbant des intempéries ;
+- pour chaque local technique, d'un extincteur homologué 233 B ;
 
-― pour chaque local technique, d'un extincteur homologué 233 B ;
+- pour le stockage des marchandises et le sous-sol, d'un extincteur homologué 21 A-144 B 1 ou un extincteur homologué 21 A-233 B et C ;
 
-― pour le stockage des marchandises et le sous-sol, d'un extincteur homologué 21 A-144 B 1 ou un extincteur homologué 21 A-233 B et C ;
+- pour le tableau électrique, d'un extincteur à gaz carbonique (2 kilogrammes) ;
 
-― pour le tableau électrique, d'un extincteur à gaz carbonique (2 kilogrammes) ;
-
-― sur l'installation, d'au moins une couverture spéciale antifeu.
+- sur l'installation, d'au moins une couverture spéciale antifeu.
 
 Par ailleurs, à l'exception des stations-service en plein air, l'installation est dotée :
 
-― d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
+- d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
 
-― de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local.
+- de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local.
 
 Les dispositifs cités ci-dessus sont en nombre suffisant et correctement répartis et, dans tous les cas, les agents d'extinction sont compatibles avec les carburants distribués y compris éthanolés.
 
@@ -420,7 +444,7 @@ Conformément aux référentiels en vigueur et au moins une fois par an, tous le
 
 2.3. Recensement des potentiels de dangers
 
-2.3.1. Connaissance des produits. ― Etiquetage
+2.3.1. Connaissance des produits. - Etiquetage
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
@@ -428,7 +452,7 @@ Les fûts, réservoirs et autres emballages portent en caractères lisibles le n
 
 2.3.2. Etat des stocks de liquides inflammables
 
-L'exploitant est en mesure de fournir une estimation des stocks ainsi qu'un bilan « quantités réceptionnées - quantités délivrées » pour chaque catégorie de liquides inflammables détenus, auxquels est annexé un plan général des stockages. Cette information est tenue à la disposition des services d'incendie et de secours et de l'inspection des installations classées.
+L'exploitant est en mesure de fournir une estimation des stocks ainsi qu'un bilan quantités réceptionnées - quantités délivrées pour chaque catégorie de liquides inflammables détenus, auxquels est annexé un plan général des stockages. Cette information est tenue à la disposition des services d'incendie et de secours et de l'inspection des installations classées.
 
 2.3.3. Localisation des risques
 
@@ -456,39 +480,39 @@ Toutes les installations électriques sont entretenues en bon état et sont cont
 
 2.4.5. Interdiction des feux
 
-Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un « permis de feu ». Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu . Cette interdiction est affichée en caractères apparents.
 
 Les prescriptions que doit observer l'usager sont affichées soit en caractères lisibles soit au moyen de pictogrammes et ce au niveau de chaque appareil de distribution. Elles concernent notamment l'interdiction de fumer, d'utiliser un téléphone portable (le téléphone doit être éteint), d'approcher un appareil pouvant provoquer un feu nu ainsi que l'obligation d'arrêt du moteur. Pour l'aviation, l'obligation d'arrêt du moteur ne s'applique pas lorsqu'il s'agit d'assurer l'avitaillement de services d'urgence.
 
-2.4.6. « Plan de prévention ». ― « Permis de feu »
+2.4.6. Plan de prévention . - Permis de feu
 
-Tous les travaux de réparation ou d'aménagement effectués par une entreprise extérieure présentant des risques spécifiques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après établissement d'un « plan de prévention » et éventuellement la délivrance d'un « permis de feu » et en respectant une consigne particulière. Ces permis sont délivrés après analyse des risques liés aux travaux et définition des mesures appropriées.
+Tous les travaux de réparation ou d'aménagement effectués par une entreprise extérieure présentant des risques spécifiques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après établissement d'un plan de prévention et éventuellement la délivrance d'un permis de feu et en respectant une consigne particulière. Ces permis sont délivrés après analyse des risques liés aux travaux et définition des mesures appropriées.
 
 2.4.7. Consignes de sécurité
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-― l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 2.3.2 ;
+- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 2.3.2 ;
 
-― l'obligation du « plan de prévention » pour les parties de l'installation visées au point 2.4.5 ;
+- l'obligation du plan de prévention pour les parties de l'installation visées au point 2.4.5 ;
 
-― les procédures d'arrêt d'urgence et de mise en sécurité de l'installation ;
+- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation ;
 
-― les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant des substances dangereuses ;
+- les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant des substances dangereuses ;
 
-― les précautions à prendre avec l'emploi et le stockage de produits incompatibles ;
+- les précautions à prendre avec l'emploi et le stockage de produits incompatibles ;
 
-― les moyens d'extinction à utiliser en cas d'incendie ;
+- les moyens d'extinction à utiliser en cas d'incendie ;
 
-― la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours.
+- la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours.
 
 Une formation du personnel lui permet :
 
-― d'être sensibilisé aux risques inhérents à ce type d'installation ;
+- d'être sensibilisé aux risques inhérents à ce type d'installation ;
 
-― de vérifier régulièrement le bon fonctionnement des divers équipements pour la prévention des risques ;
+- de vérifier régulièrement le bon fonctionnement des divers équipements pour la prévention des risques ;
 
-― de prendre les dispositions nécessaires sur le plan préventif et à mettre en œuvre, en cas de besoin, les actions les plus appropriées.
+- de prendre les dispositions nécessaires sur le plan préventif et à mettre en œuvre, en cas de besoin, les actions les plus appropriées.
 
 Le préposé à l'exploitation est en mesure de rappeler à tout moment aux usagers les consignes de sécurité.
 
@@ -496,13 +520,13 @@ Le préposé à l'exploitation est en mesure de rappeler à tout moment aux usag
 
 Les opérations comportant des manipulations dangereuses et la conduite des installations font l'objet de consignes d'exploitation écrites. Ces consignes prévoient notamment :
 
-― les modes opératoires, ceux-ci devant être présents à chaque poste de chargement et distribution ; en particulier, une procédure est mise en place, visant à s'assurer systématiquement que le tuyau est effectivement raccordé avant que ne commence le chargement du réservoir de stockage.
+- les modes opératoires, ceux-ci devant être présents à chaque poste de chargement et distribution ; en particulier, une procédure est mise en place, visant à s'assurer systématiquement que le tuyau est effectivement raccordé avant que ne commence le chargement du réservoir de stockage.
 
-― la fréquence de vérification des dispositifs de sécurité et de traitement des pollutions et nuisances générées ;
+- la fréquence de vérification des dispositifs de sécurité et de traitement des pollutions et nuisances générées ;
 
-― les instructions de maintenance et de nettoyage ;
+- les instructions de maintenance et de nettoyage ;
 
-― les conditions de conservation et de stockage des produits.
+- les conditions de conservation et de stockage des produits.
 
 2.5. Eau
 
@@ -534,13 +558,11 @@ L'installation est pourvue en produits fixants ou en produits absorbants appropr
 
 2.6. Air
 
-2.6.1. Récupération des vapeurs. ― Dispositions générales
+2.6.1. Récupération des vapeurs. - Dispositions générales
 
 Toutes dispositions sont prises pour que les percements effectués, par exemple pour le passage de gaines électriques, ne permettent pas la transmission de vapeurs depuis les canalisations, réservoirs et matériels jusqu'aux locaux de l'installation.
 
-2.6.2. Récupération des vapeurs
-
-au remplissage des installations de stockage
+2.6.2. Récupération des vapeurs au remplissage des installations de stockage
 
 Le présent point est applicable à la distribution de carburant de la catégorie B de la rubrique 1430 de la nomenclature des installations classées à l'exception des carburants destinés l'aviation et des stations-service d'un débit inférieur à 100 mètres cubes par an.
 
@@ -560,31 +582,31 @@ Les stations-service dont le volume distribué est supérieur à 500 mètres cub
 
 Cette disposition est applicable :
 
-― à partir du lendemain de la date de publication du présent arrêté pour les stations-service nouvelles ;
+- à partir du lendemain de la date de publication du présent arrêté pour les stations-service nouvelles ;
 
-― à partir du lendemain de la date de publication du présent arrêté pour les stations existantes d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
+- à partir du lendemain de la date de publication du présent arrêté pour les stations existantes d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
 
-― le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au lendemain de la date de publication du présent arrêté ;
+- le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au lendemain de la date de publication du présent arrêté ;
 
-― au plus tard le 1er janvier 2016 pour les autres stations-service.
+- au plus tard le 1er janvier 2016 pour les autres stations-service.
 
 Ce taux de récupération est porté à 90 % :
 
-― à partir du lendemain de la date de publication du présent arrêté pour les nouvelles stations-service et les stations-service régulièrement autorisées ou déclarées à partir du 1er juillet 2009 et les installations en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol faisant l'objet d'une modification substantielle nécessitant un nouvel enregistrement au titre de l'article R. 512-46-12 du code de l'environnement ;
+- à partir du lendemain de la date de publication du présent arrêté pour les nouvelles stations-service et les stations-service régulièrement autorisées ou déclarées à partir du 1er juillet 2009 et les installations en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol faisant l'objet d'une modification substantielle nécessitant un nouvel enregistrement au titre de l'article R. 512-46-12 du code de l'environnement ;
 
-― au 1er janvier 2016 pour les stations-service existantes régulièrement autorisées ou déclarées avant le 1er juillet 2009 et dont le débit est supérieur à 3 000 mètres cubes par an ;
+- au 1er janvier 2016 pour les stations-service existantes régulièrement autorisées ou déclarées avant le 1er juillet 2009 et dont le débit est supérieur à 3 000 mètres cubes par an ;
 
-― au 1er janvier 2020 pour les stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
+- au 1er janvier 2020 pour les stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
 
 Les systèmes de récupération des vapeurs de carburant sont constitués de quatre types d'équipements :
 
-― un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
+- un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
 
-― un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
+- un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
 
-― un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
+- un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
 
-― un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
+- un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
 
 2.6.3.2. Dispositif de régulation
 
@@ -592,13 +614,13 @@ Le dispositif de régulation cité au point 2.6.3.1 est en boucle fermée.
 
 Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures. Ces dispositions sont applicables :
 
-― au lendemain de la date de publication du présent arrêté, aux stations-service nouvelles ;
+- au lendemain de la date de publication du présent arrêté, aux stations-service nouvelles ;
 
-― au lendemain de la date de publication du présent arrêté, aux stations-service autorisées à compter du 1er juillet 2009 ;
+- au lendemain de la date de publication du présent arrêté, aux stations-service autorisées à compter du 1er juillet 2009 ;
 
-― à compter du 1er janvier 2014, aux autres stations-service existantes dont le débit est supérieur à 3 000 mètres cubes par an ;
+- à compter du 1er janvier 2014, aux autres stations-service existantes dont le débit est supérieur à 3 000 mètres cubes par an ;
 
-― à compter du 1er janvier 2016, aux autres stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
+- à compter du 1er janvier 2016, aux autres stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
 
 2.6.3.3. Retour des vapeurs
 
@@ -632,23 +654,39 @@ Lors de la distribution de carburant, le débit d'odeur des vapeurs émises à l
 
 HAUTEUR D'ÉMISSION
 
-(en m) |
+(en m)
+
+|
 
 DÉBIT D'ODEUR
 
-(en m³/h) |
+(en m³/h)
 
-0 |
+|
 
-1 000 x 103 |
+0
 
-5 |
+|
 
-3 600 x 103 |
+1 000 x 103
 
-10 et plus |
+|
 
-21 000 x 103 |
+5
+
+|
+
+3 600 x 103
+
+|
+
+10 et plus
+
+|
+
+21 000 x 103
+
+|
 
 Le niveau d'une odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m³/h, par le facteur de dilution au seuil de perception.
 
@@ -660,13 +698,13 @@ La mesure du débit d'odeur peut être effectuée, notamment à la demande du pr
 
 L'exploitant prend toutes les dispositions nécessaires dans la conception et l'exploitation de ses installations pour assurer une bonne gestion des déchets de son entreprise, notamment :
 
-― limiter à la source la quantité et la toxicité de ses déchets en adoptant des technologies propres ;
+- limiter à la source la quantité et la toxicité de ses déchets en adoptant des technologies propres ;
 
-― trier, recycler, valoriser ses sous-produits de fabrication ;
+- trier, recycler, valoriser ses sous-produits de fabrication ;
 
-― s'assurer du traitement et, le cas échéant, du prétraitement de ses déchets, notamment par voie physicochimique, biologique ou thermique ;
+- s'assurer du traitement et, le cas échéant, du prétraitement de ses déchets, notamment par voie physicochimique, biologique ou thermique ;
 
-― s'assurer, pour les déchets ultimes dont le volume doit être strictement limité, d'un stockage dans les meilleures conditions possibles.
+- s'assurer, pour les déchets ultimes dont le volume doit être strictement limité, d'un stockage dans les meilleures conditions possibles.
 
 2.8.2. Stockage des déchets
 
@@ -686,15 +724,15 @@ Tout brûlage à l'air libre est interdit.
 
 Au sens du présent arrêté, on appelle :
 
-― émergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
+- émergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
-― zones à émergence réglementée :
+- zones à émergence réglementée :
 
-― l'intérieur des immeubles habités ou occupés par des tiers, existant à la date du dépôt de dossier d'enregistrement, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles ;
+- l'intérieur des immeubles habités ou occupés par des tiers, existant à la date du dépôt de dossier d'enregistrement, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles ;
 
-― les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date du dépôt de dossier d'enregistrement ;
+- les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date du dépôt de dossier d'enregistrement ;
 
-― l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date du dépôt de dossier d'enregistrement dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+- l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date du dépôt de dossier d'enregistrement dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
 
 Les émissions sonores de l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant :
 
@@ -704,37 +742,57 @@ existant dans les zones
 
 à émergence réglementée
 
-(incluant le bruit de l'installation) |
+(incluant le bruit de l'installation)
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 7 heures à 22 heures
+pour la période allant de
 
-sauf dimances et jours fériés |
+7 heures à 22 heures
+
+sauf dimances et jours fériés
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
 pour la période allant de 22 heures à 7 heures
 
-ainsi que les dimances et jours fériés |
+ainsi que les dimances et jours fériés
 
-Supérieur à 35 et inférieur ou égal à 45 dB (A) |
+|
 
-6 dB (A) |
+Supérieur à 35 et inférieur ou égal à 45 dB (A)
 
-4 dB (A) |
+|
 
-Supérieur à 45 dB (A) |
+6 dB (A)
 
-5 dB (A) |
+|
 
-3 dB (A) |
+4 dB (A)
+
+|
+
+Supérieur à 45 dB (A)
+
+|
+
+5 dB (A)
+
+|
+
+3 dB (A)
+
+|
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 
 Dans le cas où le bruit particulier de l'établissement est à tonalité marquée au sens du point 1.9 de l'annexe de l'arrêté du 23 janvier 1997 susvisé, de manière établie ou cyclique, sa durée d'apparition n'excède pas 30 % de la durée de fonctionnement de l'établissement dans chacune des périodes diurne ou nocturne définies dans le tableau ci-dessus.
 
-2.9.2. Véhicules. ― Engins de chantier
+2.9.2. Véhicules. - Engins de chantier
 
 Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation sont conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores.
 
@@ -754,328 +812,6 @@ Une mesure du niveau de bruit et de l'émergence est effectuée au moins tous le
 
 L'exploitant met en sécurité et remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger et inconvénient. En particulier :
 
-― tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
+- tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
-― les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont enlevées, sauf en cas d'impossibilité technique justifiée, auquel cas elles sont neutralisées par remplissage avec un solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
-
-A N N E X E I I
-
-DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES
-
-Les dispositions des points 1, 2.1 C, 2.2.2.1 (deux premiers alinéas), 2.2.3, 2.2.4 sauf alinéa 2, 2.2.7 (premier alinéa), 2.2.8, 2.2.10, 2.2.11, 2.3, 2.4, 2.7 et 2.10 de l'annexe I sont applicables aux installations existantes six mois après la publication du présent arrêté au Journal officiel. Les dispositions du point 2.2.5 de l'annexe I aux installations existantes dix-huit mois après la publication du présent arrêté au Journal officiel.
-
-Les dispositions des points 2.1 A, B et D et 2.6 de l'annexe I sont applicables aux installations existantes selon les délais fixés au sein de ces points.
-
-A N N E X E I I I
-
-CONFORMITÉ DES SYSTÈMES
-
-DE RÉCUPÉRATION DES VAPEURS
-
-1. La conformité ne peut être attestée qu'à un système comprenant quatre types d'équipements :
-
-― un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
-
-― un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
-
-― un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
-
-― un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
-
-Pour tout changement de type de l'un de ces équipements, l'ensemble du système doit faire l'objet d'une nouvelle attestation de conformité.
-
-2. La conformité est attestée par un laboratoire compétent et indépendant selon les méthodes gravimétrique et volumétrique décrites aux 3 et 4 ci-après.
-
-3. Méthode gravimétrique
-
-3.1. Description de la méthode
-
-La méthode consiste à comparer les émissions de base (la quantité de composés organiques volatils expulsée de l'orifice du véhicule lors d'un remplissage sans récupération de vapeurs) avec les émissions résiduelles (quantité de composés organiques volatils expulsée de l'orifice du véhicule lors d'un remplissage avec récupération de vapeurs).
-
-Les émissions de base et résiduelles sont déterminées en collectant les vapeurs de carburant grâce à un dispositif canalisant tous les composés organiques volatils émis vers un filtre à charbon actif destiné à les absorber et ce sans modification des conditions de pression dans le réservoir. La modification de la masse du filtre correspond à l'émission de vapeurs expulsées de l'orifice du véhicules.
-
-3.2. Conditions des essais
-
-3.2.1. Caractéristiques des pistolets de distribution
-
-Les émissions de base sont mesurées lors d'un remplissage avec un pistolet équipé d'un embout pour essence sans plomb conforme à la norme NF ISO 9158 et non équipé d'un système de récupération de vapeur.
-
-Le pistolet équipé pour la récupération de vapeurs faisant partie du système à tester doit être capable de délivrer le carburant avec un débit égal à ± 0,5 litre par minute à celui du pistolet de référence défini ci-dessus.
-
-3.2.2. Caractéristiques du carburant utilisé
-
-Les essais sont réalisés avec du supercarburant sans plomb conforme à la norme NF EN 228 qui n'a pas été brassé et qui est utilisé pour la première fois.
-
-3.2.3. Réservoir du véhicule utilisé
-
-Les essais sont réalisés avec un réservoir étalon représentatif des véhicules circulant sur le marché français.
-
-3.2.4. Conditions de température
-
-La température du carburant utilisé pour réaliser les essais est égale à 15 ± 3 °C.
-
-La température ambiante est égale à 15 ± 5 °C.
-
-La différence maximale entre la température du carburant utilisé et la température ambiante est dt = 5 °C.
-
-3.2.5. Préparation du système de récupération des vapeurs
-
-La mise en service et le réglage du système sont effectuées sous la responsabilité de la société ordonnatrice des essais.
-
-Les caractéristiques techniques du système sont précisées, en particulier la valeur de débit maximal de distribution ainsi que la perte de charge maximale admise en aval de l'organe déprimogène.
-
-3.2.6. Préparation du réservoir étalon
-
-Après avoir évacué le contenu de réservoir étalon, un ravitaillement partiel est effectué à environ 10 % du volume du réservoir. Le bouchon du réservoir est alors fermé jusqu'à l'obtention d'un équilibre thermique entre le carburant utilisé et le réservoir.
-
-Cette opération est effectuée avant chaque mesure, qu'il s'agisse d'émissions de base ou d'émissions résiduelles, afin d'obtenir au début de la mesure une saturation en vapeurs reproductible dans le réservoir étalon.
-
-3.3. Procédure des essais
-
-3.3.1. Etanchéité du système
-
-L'étanchéité du système est préalablement vérifiée selon la procédure décrite à l'annexe IV, point 1.
-
-3.3.2. Déroulement d'une mesure
-
-Le pistolet de distribution est introduit le plus loin possible dans l'orifice de remplissage du réservoir étalon, positionné de façon à rester bloqué dans ce dernier. Le levier de manœuvre reste bloqué pendant la durée de la mesure afin d'obtenir un débit constant.
-
-La mesure des émissions de vapeurs s'effectue pendant le remplissage du réservoir étalon jusqu'à environ 90 % de son volume.
-
-3.3.3. Déroulement des essais
-
-Afin de déterminer des valeurs moyennes, il est effectué trois mesures massiques de chaque type d'émission dans l'ordre suivant :
-
-― deux mesures massiques des émissions de base ;
-
-― trois mesures massiques des émissions résiduelles ;
-
-― une mesure massique des émissions de base.
-
-Cette procédure est effectuée au débit maximal du pistolet de distribution, d'une part, et à la moitié du débit maximal, d'autre part.
-
-3.4. Détermination du taux de récupération
-
-Le calcul du taux de récupération est effectué avec des valeurs moyennes, selon la formule :
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 89 du 16/04/2010 texte numéro 6
-
-Les abréviations signifient :
-
-TR = taux de récupération ;
-
-EB = valeur moyenne des émissions de base (exprimée en g/l) ;
-
-ER = valeur moyenne des émissions résiduelles (exprimée en g/l).
-
-Les taux de récupération déterminés au débit maximal et à la moitié du débit maximal doivent être supérieurs au taux fixé au point 6.1 de l'annexe I du présent arrêté.
-
-Les taux de récupération sont corrigés lorsque le taux volumétrique TV déterminé au point 4 est supérieur à 100 %. Dans ce cas, on admet une saturation de 80 % pour le mélange gazeux émergeant de l'évent du réservoir de stockage. On obtient un taux de récupération corrigé selon la formule :
-
-TR corrigé = TR + (100 ― TV) × 0,8.
-
-4. Méthode volumétrique
-
-4.1. Description de la méthode
-
-La méthode consiste à comparer le débit de carburant distribué pendant un ravitaillement et le débit de mélange de vapeurs-air récupéré afin de vérifier l'efficacité du système de régulation.
-
-4.2. Conditions préparatoires des essais
-
-Les dispositifs de mesure sont connectés aux endroits appropriés, en fonction de la technologie de l'organe déprimogène, pour déterminer le volume de carburant distribué et le volume de mélange vapeurs-air récupéré (par exemple, le point de mesure est situé en amont dans le cas de pompe lubrifiée à l'huile).
-
-Les mesures sont effectuées à la perte de charge aval maximale admise pour le débit maximal, qui est indiquée par la société ordonnatrice des essais.
-
-4.3. Calcul du taux volumétrique
-
-Le calcul du taux volumétrique est effectué avec des valeurs moyennes, selon la formule :
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 89 du 16/04/2010 texte numéro 6
-
-Les abréviations signifient :
-
-TV = taux volumétrique ;
-
-V cov = volume de composés organiques volatils récupéré ;
-
-V carburant = volume de carburant distribué.
-
-Les différentes mesures sont effectuées pendant la phase de mesure des émissions résiduelles selon le déroulement décrit au 3.3.
-
-Au débit de distribution maximal, le taux volumétrique doit être compris entre 95 % et 105 %.
-
-A la moitié du débit maximal, le taux volumétrique doit être compris entre 90 % et 110 %.
-
-4.4. Détermination du facteur d'équivalences air/vapeurs
-
-Des mesures sont également effectuées avec une aspiration d'air à la place des vapeurs de carburant selon la même procédure, mais au débit maximal uniquement. Il sera déterminé un autre taux volumétrique qui permettra de calculer le facteur d'équivalence K selon la formule :
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 89 du 16/04/2010 texte numéro 6
-
-Ce facteur de correction est notifié afin de servir de référence pour les contrôles et la surveillance du système de récupération des vapeurs sur site.
-
-A N N E X E I V
-
-CONTRÔLE SUR SITE DES SYSTÈMES
-
-DE RÉCUPÉRATION DES VAPEURS
-
-1. De façon à s'assurer que seules les vapeurs prélevées au niveau du ou des orifices d'aspiration du pistolet sont prises en compte lors de la détermination du taux volumétrique TV, la vérification de l'étanchéité du système est effectuée préalablement au contrôle défini au point 2 de la présente annexe.
-
-Cette vérification permet d'établir :
-
-― qu'il n'existe aucune possibilité d'entrée d'air entre le pistolet et l'organe déprimogène, d'un débit supérieur à 0,5 % du débit maximum ;
-
-― qu'il n'existe aucune possibilité de sortie de vapeur entre la pompe et l'extrémité de refoulement de l'installation, d'un débit supérieur à 0,5 % du débit maximum ;
-
-― que la somme des deux débits de fuite précédemment considérés reste inférieure à 0,5 % du débit maximum, et ce, quel que soit le nombre de pistolets associés à l'organe déprimogène.
-
-2. Le contrôle est réalisé conformément à la méthode volumétrique avec l'aspiration d'air décrite au point 4.4 de l'annexe III.
-
-Le taux volumétrique mesuré au débit maximal avec l'aspiration d'air doit être corrigé du facteur d'équivalence notifié dans l'attestation de conformité du système de récupération des vapeurs.
-
-Le taux volumétrique ainsi déterminé doit être compris entre 90 % et 110 % au débit maximal de distribution.
-
-A N N E X E V
-
-RÈGLES TECHNIQUES APPLICABLES AUX VIBRATIONS
-
-L'installation est construite, équipée et exploitée afin que son fonctionnement ne soit pas à l'origine de vibrations dans les constructions avoisinantes susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une nuisance pour celui-ci.
-
-La vitesse particulaire des vibrations émises, mesurée selon la méthode définie dans la présente annexe, ne doit pas dépasser les valeurs définies ci-après.
-
-1. Valeurs limites de la vitesse particulaire
-
-1.1. Sources continues ou assimilées
-
-Sont considérées comme sources continues ou assimilées :
-
-― toutes les machines émettant des vibrations de manière continue ;
-
-― les sources émettant des impulsions à intervalles assez courts sans limitation du nombre d'émissions.
-
-Les valeurs limites applicables à chacune des trois composantes du mouvement vibratoire sont les suivantes :
-
-FRÉQUENCES |
-
-4 Hz ― 8 Hz |
-
-8 Hz ― 30 Hz |
-
-30 Hz ― 100 Hz |
-
-Constructions résistantes |
-
-5 mm/s |
-
-6 mm/s |
-
-8 mm/s |
-
-Constructions sensibles |
-
-3 mm/s |
-
-5 mm/s |
-
-6 mm/s |
-
-Constructions très sensibles |
-
-2 mm/s |
-
-3 mm/s |
-
-4 mm/s |
-
-1.2. Sources impulsionnelles à impulsions répétées
-
-Sont considérées comme sources impulsionnelles à impulsions répétées, toutes les sources émettant, en nombre limité, des impulsions à intervalles assez courts mais supérieurs à 1 s et dont la durée d'émissions est inférieure à 500 ms.
-
-Les valeurs limites applicables à chacune des trois composantes du mouvement vibratoire sont les suivantes :
-
-FRÉQUENCES |
-
-4 Hz ― 8 Hz |
-
-8 Hz ― 30 Hz |
-
-30 Hz ― 100 Hz |
-
-Constructions résistantes |
-
-8 mm/s |
-
-12 mm/s |
-
-15 mm/s |
-
-Constructions sensibles |
-
-6 mm/s |
-
-9 mm/s |
-
-12 mm/s |
-
-Constructions très sensibles |
-
-4 mm/s |
-
-6 mm/s |
-
-9 mm/s |
-
-Quelle que soit la nature de la source, lorsque les fréquences correspondant aux vitesses particulaires couramment observées pendant la période de mesure s'approchent de 0,5 Hz des fréquences de 8, 30 et 100 Hz, la valeur-limite à retenir est celle correspondant à la bande fréquence immédiatement inférieure. Si les vibrations comportent des fréquences en dehors de l'intervalle 4-100 Hz, il convient de faire appel à un organisme qualifié agréé par le ministre chargé de l'environnement.
-
-2. Classification des constructions
-
-Pour l'application des limites de vitesses particulaires, les constructions sont classées en trois catégories suivant leur niveau de résistance :
-
-― constructions résistantes : les constructions des classes 1 à 4 définies par la circulaire n° 23 du 23 juillet 1986 relative aux vibrations mécaniques émises dans l'environnement par les installations classées pour la protection de l'environnement ;
-
-― constructions sensibles : les constructions des classes 5 à 8 définies par la circulaire n° 23 du 23 juillet 1986 ;
-
-― constructions très sensibles : les constructions des classes 9 à 13 définies par la circulaire n° 23 du 23 juillet 1986.
-
-Les constructions suivantes sont exclues de cette classification :
-
-― les réacteurs nucléaires et leurs installations annexes ;
-
-― les installations liées à la sûreté générale sauf les constructions qui les contiennent ;
-
-― les barrages, les ponts ;
-
-― les châteaux d'eau ;
-
-― les installations de transport à grande distance de gaz ou de liquides autres que l'eau ainsi que les canalisations d'eau sous pression de diamètre supérieur à un mètre ;
-
-― les réservoirs de stockage de gaz, d'hydrocarbures liquides ou de céréales ;
-
-― les tunnels ferroviaires ou routiers et autres ouvrages souterrains d'importance analogue ;
-
-― les ouvrages portuaires tels que digues, quais et les ouvrages se situant en mer, notamment les plates-formes de forage,
-
-pour lesquelles l'étude des effets des vibrations doit être confiée à un organisme qualifié. Le choix de cet organisme doit être approuvé par l'inspection des installations classées.
-
-3. Méthode de mesure
-
-3.1. Eléments de base
-
-Le mouvement en un point donné d'une construction est enregistré dans trois directions rectangulaires dont une verticale, les deux autres directions étant définies par rapport aux axes horizontaux de l'ouvrage étudié sans tenir compte de l'azimut.
-
-Les capteurs sont placés sur l'élément principal de la construction (appui de fenêtre d'un mur porteur, point d'appui sur l'ossature métallique ou en béton dans le cas d'une construction moderne).
-
-3.2. Appareillage de mesure
-
-La chaîne de mesure à utiliser doit permettre l'enregistrement, en fonction du temps, de la vitesse particulaire dans la bande de fréquence allant de 4 Hz à 150 Hz pour les amplitudes de cette vitesse comprises entre 0,1 mm/s et 50 mm/s. La dynamique de la chaîne doit être au moins égale à 54 dB.
-
-3.3. Précautions opératoires
-
-Les capteurs doivent être complètement solidaires de leur support. Il faut veiller à ne pas installer les capteurs sur les revêtements (zinc, plâtre, carrelage...) qui peuvent agir comme filtres de vibrations ou provoquer des vibrations parasites si ces revêtements ne sont pas bien solidaires de l'élément principal de la construction. Il convient d'effectuer, si faire se peut, une mesure des agitations existantes, en dehors du fonctionnement de la source.
+- les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont enlevées, sauf en cas d'impossibilité technique justifiée, auquel cas elles sont neutralisées par remplissage avec un solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.

@@ -60,13 +60,13 @@ FR = (KRA + KRB.Vn).D
 
 FR : facteur de perte au joint périphérique en kilogrammes-mole par an.
 
-KRA : coefficient de perte au joint périphérique à vitesse de vent nulle en kilogrammes-mole par mètre-an (cf. tableau n° 1 ci-dessous).
+KRA : coefficient de perte au joint périphérique à vitesse de vent nulle en kilogrammes-mole par mètre-an.
 
-KRB : coefficient de perte au joint périphérique dépendant de la vitesse du vent en kg-mole/(m/s)n-m-an (cf. tableau n° 1 ci-dessous).
+KRB : coefficient de perte au joint périphérique dépendant de la vitesse du vent en kg-mole/(m/s)n-m-an.
 
 V : vitesse moyenne du vent au niveau du site en mètres par seconde.
 
-n : exposant de la vitesse du vent lié au type de joint périphérique (cf. tableau n° 1 ci-dessous).
+n : exposant de la vitesse du vent lié au type de joint périphérique.
 
 D : diamètre du réservoir en mètres.
 
@@ -92,21 +92,21 @@ KFi = KFAi + KFBi.(Kv.V)mi
 
 KFi : coefficient de perte aux accessoires pour un type d'accessoire donné en kilogrammes-mole par an.
 
-KFAi : coefficient de perte aux accessoires pour un type d'accessoire donné à vitesse de vent nulle en kilogrammes-mole par an (cf. tableau n° 2 ci-dessous).
+KFAi : coefficient de perte aux accessoires pour un type d'accessoire donné à vitesse de vent nulle en kilogrammes-mole par an.
 
-KFBi : coefficient de perte aux accessoires pour un type d'accessoires donné dépendant de la vitesse de vent en kg-mole/(m/s)m-an (cf. tableau n° 2 ci-dessous).
+KFBi : coefficient de perte aux accessoires pour un type d'accessoires donné dépendant de la vitesse de vent en kg-mole/(m/s)m-an.
 
 Kv : facteur correctif de la vitesse du vent.
 
 V : vitesse moyenne du vent au niveau du site en mètres par seconde.
 
-mi : exposant de la vitesse du vent lié à un type d'accessoire donné (cf. tableau n° 2 ci-dessous).
+mi : exposant de la vitesse du vent lié à un type d'accessoire donné.
 
 Nota. - Pour les réservoirs à toit flottant externe, Kv est égal à 0,7.
 
 Pour les réservoirs à toit flottant interne et à toit flottant externe équipés d'un dôme, la vitesse du vent est considérée comme nulle (KFi = KFAi).
 
-Lorsque le nombre d'accessoires n'est pas connu, un nombre est proposé pour chaque type d'accessoires dans le tableau n° 2 ci-dessous.
+Lorsque le nombre d'accessoires n'est pas connu, un nombre est proposé pour chaque type d'accessoires.
 
 3. Détermination de FD :
 
@@ -150,12 +150,12 @@ EM : émissions par mouvement en kilogrammes par an.
 
 Q : volume de produit transféré annuellement et générant une variation de niveau dans le réservoir en mètres cubes.
 
-C : coefficient de mouillabilité en mètres cubes par mètre carré (cf. tableau n° 3 ci-dessous).
+C : coefficient de mouillabilité en mètres cubes par mètre carré.
 
 DL : densité moyenne du liquide en kilogrammes par mètre cube.
 
 D : diamètre du réservoir en mètres.
 
-Nc : nombre de colonnes de toit présentes dans le réservoir (cf. tableau n° 7 ci-dessous).
+Nc : nombre de colonnes de toit présentes dans le réservoir.
 
 Fc : diamètre des colonnes de toit en mètres.

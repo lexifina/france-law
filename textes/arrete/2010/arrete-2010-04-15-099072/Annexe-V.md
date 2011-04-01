@@ -206,7 +206,7 @@ C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les 
 
 7,5 mètres pour une capacité de dépôt supérieure à 15 000 kilogrammes.
 
-D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution.
+D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution. Cette disposition est applicable aux installations existantes précédemment déclarées ou autorisées à compter du 1er juillet 2009 au titre de la rubrique n° 1434 de la nomenclature des installations classées.
 
 Objet du contrôle :
 
@@ -542,4 +542,4 @@ Objet du contrôle :
 
 - présentation des registres de déclaration d'élimination des déchets et des bordereaux de suivi.
 
-[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1435, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1435, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
