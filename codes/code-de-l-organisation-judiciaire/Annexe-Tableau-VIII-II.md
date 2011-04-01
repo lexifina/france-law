@@ -97,11 +97,3 @@ Saint-Pierre-et-Miquelon
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 |
-
-Mamoudzou
-
-|
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
-
-|

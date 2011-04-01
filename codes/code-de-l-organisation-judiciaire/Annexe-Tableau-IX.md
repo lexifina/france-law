@@ -2750,6 +2750,18 @@ Cour d'appel de Saint-Denis
 
 |
 
+Mayotte
+
+|
+
+Mamoudzou
+
+|
+
+Ressort du tribunal d'instance de Mamoudzou
+
+|
+
 Réunion
 
 |
@@ -3087,22 +3099,6 @@ Saint-Pierre
 |
 
 Ressort du tribunal de Première instance de Saint-Pierre.
-
-|
-
-Tribunal supérieur d'appel de Mamoudzou
-
-|
-
-Mayotte
-
-|
-
-Mamoudzou
-
-|
-
-Ressort du tribunal de Première instance de Mamoudzou.
 
 |
 

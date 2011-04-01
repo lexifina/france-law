@@ -18,6 +18,6 @@ Paris.
 
 |
 
-Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 |

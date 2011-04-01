@@ -760,11 +760,9 @@ Cantons de Bierné, Château-Gontier-Est, Château-Gontier-Ouest, Cossé-le-Vivi
 
 |
 
-[Laval
+[LavalCantons |
 
-|
-
-Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] |
+d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] |
 
 [Laval
 
@@ -1422,7 +1420,7 @@ Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bour
 
 |
 
-Saint-Amand-MontrondCantons |
+saint-Amand-MontrondCantons |
 
 de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
 
@@ -2572,7 +2570,7 @@ Cayenne
 
 |
 
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
+Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
 
 |
 
@@ -5906,6 +5904,28 @@ Cantons d'Entre-Deux, Le Tampon 1er canton, Le Tampon 2e canton, Le Tampon 3e ca
 
 |
 
+Mayotte
+
+|
+
+Mamoudzou
+
+|
+
+Mamoudzou
+
+|
+
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi,
+
+Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,
+
+Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,
+
+M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni.
+
+|
+
 Cour d'appel de Toulouse
 
 |
@@ -6465,22 +6485,6 @@ et de la juridiction de proximité
 |
 
 Ressort
-
-|
-
-Tribunal supérieur d'appel de Mamoudzou
-
-|
-
-Mayotte
-
-|
-
-Mamoudzou
-
-|
-
-Collectivité départementale de Mayotte.
 
 |
 

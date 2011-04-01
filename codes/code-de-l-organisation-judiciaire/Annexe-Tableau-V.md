@@ -104,7 +104,7 @@ Paris
 
 |
 
-Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.
 
 |
 

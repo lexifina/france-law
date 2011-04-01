@@ -6,9 +6,7 @@ DÉPARTEMENT
 
 |
 
-TRIBUNAL
-
-de grande instance
+TRIBUNAL de grande instance
 
 |
 
@@ -96,7 +94,33 @@ Cour d'appel de Saint-Denis-de-la-Réunion
 
 |
 
+Mayotte
+
+|
+
+Mamoudzou
+
+|
+
+Mamoudzou
+
+|
+
+Ressort du tribunal de grande instance de Mamoudzou
+
+|
+
 La Réunion
+
+|
+
+Saint-Denis |
+
+Saint-Denis |
+
+Ressort du tribunal de grande instance de Saint-Denis
+
+|
 
 |
 

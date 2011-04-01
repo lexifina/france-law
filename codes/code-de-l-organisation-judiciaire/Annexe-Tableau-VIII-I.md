@@ -2,7 +2,7 @@
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France
 
-(annexe de l'article D. 211-11)
+(annexe de l'article D. 211-10-1)
 
 SIÈGE
 
@@ -429,18 +429,6 @@ Nanterre
 |
 
 Ressort de la cour d'appel de Versailles.
-
-|
-
-Tribunal supérieur d'appel de Mamoudzou
-
-|
-
-Mamoudzou
-
-|
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
 
 |
 
