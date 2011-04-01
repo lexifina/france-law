@@ -12,8 +12,6 @@ PLAGE DE CONSOMMATION
 
 |
 
-|
-
 0-1 000 kWh/an
 
 |
@@ -30,39 +28,11 @@ PLAGE DE CONSOMMATION
 
 |
 
-17
+20
 
 |
 
-51
-
-|
-
-71
-
-|
-
-1 < UC < 2
-
-|
-
-22
-
-|
-
-68
-
-|
-
-94
-
-|
-
-2 UC ou +
-
-|
-
-28
+61
 
 |
 
@@ -70,7 +40,35 @@ PLAGE DE CONSOMMATION
 
 |
 
-118
+1 < UC < 2
+
+|
+
+26
+
+|
+
+82
+
+|
+
+113
+
+|
+
+2 UC ou +
+
+|
+
+34
+
+|
+
+102
+
+|
+
+142
 
 |
 
@@ -88,7 +86,7 @@ VERSEMENT FORFAITAIRE EN € TTC/an
 
 |
 
-54
+65
 
 |
 
@@ -96,7 +94,7 @@ VERSEMENT FORFAITAIRE EN € TTC/an
 
 |
 
-72
+86
 
 |
 
@@ -104,6 +102,6 @@ VERSEMENT FORFAITAIRE EN € TTC/an
 
 |
 
-90
+108
 
 |
