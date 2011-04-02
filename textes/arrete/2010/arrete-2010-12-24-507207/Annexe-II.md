@@ -166,7 +166,7 @@ Groupement des écoles d'administration de l'armée de l'air GEAAA 30.300
 
 |
 
-SALON-DE­PROVENCE
+SALON-DE-­PROVENCE
 
 |
 
@@ -198,7 +198,7 @@ Dépôt atelier de munitions spéciales DAMS 14/004
 
 |
 
-FARGES-EN­SEPTAINE
+FARGES-EN­-SEPTAINE
 
 |
 
@@ -350,6 +350,38 @@ AIR
 
 |
 
+Centre de gestion du matériel technique de l'armée de l'air (CGMTAA) 00.614 : réorganisation avec transfert de la cellule ATAMS vers la base aérienne 106 Mérignac
+
+|
+
+28
+
+|
+
+CHÂTEAUDUN
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+AIR
+
+|
+
 Base aérienne n° 101
 
 |
@@ -403,6 +435,38 @@ R
 |
 
 2010
+
+|
+
+2011
+
+|
+
+AIR
+
+|
+
+Brigade aérienne infrastructure 21.513
+
+|
+
+33
+
+|
+
+BORDEAUX
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
 
 |
 
@@ -1342,6 +1406,124 @@ AIR
 
 |
 
+Etat-major de l'armée de l'air-structure finance des formations 15.504
+
+|
+
+75
+
+|
+
+PARIS
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+AIR
+
+|
+
+Bureau météo air 13.504 de la base aérienne 117
+
+|
+
+75 |
+
+PARIS |
+
+D |
+
+|
+
+|
+
+2011 |
+
+2011 |
+
+AIR
+
+|
+
+Musique de l'air (transfert vers la base aérienne 107 Vélizy-Villacoublay)
+
+|
+
+75
+
+|
+
+PARIS
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+AIR
+
+|
+
+Echelon central NEDEX (neutralisation, enlèvement, destruction des explosifs) : création du pôle interarmées MUNEX (traitement du danger des munitions et engins explosifs) sur le site de Montreuil-Juigné (49)
+
+|
+
+78
+
+|
+
+VELIZY-VILLA­COUBLAY
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+AIR
+
+|
+
 Direction des ressources humaines de l'armée de l'air - Bureau de gestion déconcentré du personnel civil
 
 |
@@ -1834,7 +2016,7 @@ Service central de la modernisation et de la qualité - Service de la qualité
 
 |
 
-SALON-DE­PROVENCE
+SALON-DE­-PROVENCE
 
 |
 
@@ -2306,6 +2488,38 @@ DGA
 
 |
 
+Direction des plans, des programmes et du budget-service de l'exécution budgétaire et des comptabilités des opérations d'armement
+
+|
+
+27
+
+|
+
+VERNON
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2012
+
+|
+
+DGA
+
+|
+
 Direction technique - Groupe d'études sous-marines de l'Atlantique
 
 |
@@ -2538,7 +2752,7 @@ Direction des plans, des programmes et du budget - Service de l'exécution budg�
 
 |
 
-SAINT-MEDARD-EN­JALLES
+SAINT-MEDARD-EN­-JALLES
 
 |
 
@@ -2730,7 +2944,7 @@ Département central d'information et des communications - Service extérieur de
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -2762,7 +2976,7 @@ Direction des opérations - Antenne de l'unité de management terrestre
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL­-JUIGNE
 
 |
 
@@ -2826,7 +3040,7 @@ Direction des opérations - Service du maintien en condition opérationnelle
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -2858,7 +3072,7 @@ Direction des plans des programmes et du budget - Service de l'exécution budgé
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -2890,7 +3104,7 @@ Direction des plans des programmes et du budget - Sous-direction des méthodes e
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -2922,7 +3136,7 @@ Direction des ressources humaines - Centre de prestations de proximité
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL­-JUIGNE
 
 |
 
@@ -2954,7 +3168,7 @@ Direction technique - Etablissement technique d'Angers
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -2986,7 +3200,7 @@ Direction technique - Service centralisé des achats techniques
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL­-JUIGNE
 
 |
 
@@ -3018,7 +3232,7 @@ Service central de la modernisation et de la qualité - Centre tech­nique des s
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -3050,7 +3264,7 @@ Service de la sécurité de défense et des systèmes d'information - Centre de 
 
 |
 
-MONTREUIL­JUIGNE
+MONTREUIL-­JUIGNE
 
 |
 
@@ -3059,6 +3273,38 @@ D
 |
 
 |
+
+|
+
+2011
+
+|
+
+2012
+
+|
+
+DGA
+
+|
+
+Direction des plans, des programmes et du budget-administration centrale
+
+|
+
+49
+
+|
+
+MONTREUIL­-JUIGNE
+
+|
+
+|
+
+|
+
+R
 
 |
 
@@ -3442,6 +3688,38 @@ DGA
 
 |
 
+Participation à l'échelon central NEDEX (neutralisation, enlèvement, destruction des explosifs) : création du pôle interarmées MUNEX (traitement du danger des munitions et engins explosifs) sur le site de Montreuil-Juigné (49)
+
+|
+
+78
+
+|
+
+VELIZY-VILLA­COUBLAY
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+DGA
+
+|
+
 Direction technique - DGA - Techniques navales
 
 |
@@ -3518,9 +3796,9 @@ CHATELLERAULT
 
 |
 
-|
+D
 
-T
+|
 
 |
 
@@ -3854,6 +4132,38 @@ T
 
 |
 
+DGA
+
+|
+
+Direction des plans, des programmes et du budget-service de l'exécution budgétaire et des comptabilités des opérations d'armement
+
+|
+
+94
+
+|
+
+ARCUEIL
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2013
+
+|
+
 Direction de la protection et de la sécurité de défense
 
 |
@@ -3886,7 +4196,7 @@ D
 
 |
 
-2012
+2011
 
 |
 
@@ -4086,6 +4396,38 @@ DPSD
 
 |
 
+Direction de la protection et de la sécurité de la défense d'Ile-de-France de Reuilly
+
+|
+
+75
+
+|
+
+PARIS
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+DPSD
+
+|
+
 Détachement de la protection et de la sécurité de la défense
 
 |
@@ -4142,7 +4484,7 @@ D
 
 |
 
-2012
+2011
 
 |
 
@@ -4174,7 +4516,7 @@ T
 
 |
 
-2012
+2011
 
 |
 
@@ -4470,11 +4812,9 @@ R
 
 |
 
-Forces
+Forces de
 
-de
-
-souve­raineté/
+souveraineté/
 
 terre
 
@@ -4572,7 +4912,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -4734,7 +5074,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -4896,7 +5236,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -4930,7 +5270,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -5060,7 +5400,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -5190,7 +5530,7 @@ R
 
 |
 
-Forces de souve­raineté/
+Forces de souveraineté/
 
 terre
 
@@ -5224,7 +5564,9 @@ D
 
 |
 
-Forces de souve­raineté/air
+Forces de souveraineté/
+
+air
 
 |
 
@@ -5253,6 +5595,38 @@ R
 |
 
 2011
+
+|
+
+Forces de souveraineté/ marine
+
+|
+
+Base navale Nouvelle-Calédonie
+
+|
+
+988
+
+|
+
+NOUMEA
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2012
 
 |
 
@@ -5343,5 +5717,165 @@ R
 |
 
 2012
+
+|
+
+Forces de présence/terre
+
+|
+
+Etat-major interarmées des forces françaises stationnées au Sénégal (évolution des forces de présence en Afrique)
+
+|
+
+Sénégal
+
+|
+
+Dakar
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+Forces de présence/terre
+
+|
+
+Cellule de maintenance des matériels terrestres (évolution des forces de présence en Afrique)
+
+|
+
+Sénégal
+
+|
+
+Dakar
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+Forces de souveraineté/ marine
+
+|
+
+Unité marine (évolution des forces de présence en Afrique)
+
+|
+
+Sénégal
+
+|
+
+Dakar
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+Forces de souveraineté/ marine
+
+|
+
+Direction du commissariat de la marine outre-mer/ Forces de présence au Cap-Vert (évolution des forces de présence en Afrique)
+
+|
+
+Sénégal
+
+|
+
+Dakar
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+Forces de souveraineté/ air
+
+|
+
+Base aérienne 160 (évolution des forces de présence en Afrique)
+
+|
+
+Sénégal
+
+|
+
+Dakar
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2011
 
 |
