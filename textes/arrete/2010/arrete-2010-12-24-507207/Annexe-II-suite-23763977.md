@@ -2154,7 +2154,39 @@ IA/DIRISI
 
 |
 
-Direction interarmées des réseaux d'infrastructures et des systèmes d'Infor­mations - DIRISI direction de soutien - Soutien Bicêtre
+Direction interarmées des réseaux d'infrastructures et des systèmes d'infor­mation - soutien Bicêtre
+
+|
+
+94
+
+|
+
+LE KREMLIN­BICETRE
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+IA/DIRISI
+
+|
+
+Direction interarmées des réseaux d'infrastructures et des systèmes d'Infor­mations - DIRISI Service central marchés (SCM)
 
 |
 
@@ -2186,38 +2218,6 @@ IA/DIRISI
 
 |
 
-Direction interarmées des réseaux d'infrastructures et des systèmes d'Infor­mations - DIRISI Service central marchés (SCM)
-
-|
-
-94
-
-|
-
-LE KREMLIN-BICETRE
-
-|
-
-|
-
-|
-
-R
-
-|
-
-2010
-
-|
-
-2011
-
-|
-
-IA/DIRISI
-
-|
-
 Direction interarmées des réseaux d'infrastructures et des systèmes d'infor­mations - DIRISI Service central opérations logis­tiques (SCOL)
 
 |
@@ -2226,7 +2226,7 @@ Direction interarmées des réseaux d'infrastructures et des systèmes d'infor­
 
 |
 
-LE KREMLIN-BICETRE
+LE KREMLIN­BICETRE
 
 |
 
@@ -2258,7 +2258,7 @@ Direction interarmées des réseaux d'infrastructures et des systèmes d'infor­
 
 |
 
-LE KREMLIN-BICETRE
+LE KREMLIN­BICETRE
 
 |
 
@@ -2290,7 +2290,7 @@ IA/DIRISI
 
 |
 
-LE KREMLIN-BICETRE
+LE KREMLIN­BICETRE
 
 |
 

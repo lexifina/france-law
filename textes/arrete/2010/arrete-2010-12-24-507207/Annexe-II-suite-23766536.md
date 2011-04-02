@@ -496,7 +496,7 @@ Détachement Brive du 3e régiment du matériel
 
 |
 
-BRIVE-LA-GAIL­LARDE
+BRIVE-LA-GAILLARDE
 
 |
 
@@ -712,7 +712,7 @@ TERRE
 
 |
 
-57e bataillon d'infanterie
+57e bataillon d'infanterie (transformation pour partie en antenne du site Bordeaux du GSBdD de Bordeaux-Mérignac au 1er janvier 2011, puis dissolution du reste de la formation le 1er juillet 2011)
 
 |
 
@@ -724,15 +724,15 @@ BORDEAUX
 
 |
 
+D
+
+|
+
 |
 
 |
 
-R
-
-|
-
-2010
+2011
 
 |
 
@@ -816,7 +816,7 @@ Section réparation mobilité du détachement Souge du 2e régiment du matériel
 
 |
 
-MARTIGNAS-SUR-­JALLE
+MARTIGNAS-SUR-JALLE
 
 |
 
@@ -848,7 +848,7 @@ TERRE
 
 |
 
-MARTIGNAS-SUR-­JALLE
+MARTIGNAS-SUR-JALLE
 
 |
 
@@ -1040,7 +1040,7 @@ Groupe de soutien logis­tique du commissariat de l'armée de terre de Rennes
 
 |
 
-SAINT-JACQUES­DE-LA-LANDE
+SAINT-JACQUES-­DE-LA-LANDE
 
 |
 
@@ -1288,6 +1288,38 @@ TERRE
 
 |
 
+Centre IED de l'école du génie (création du pôle interarmées MUNEX sur le site de Montreuil-Juigné [49])
+
+|
+
+49
+
+|
+
+ANGERS
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
 Détachement Fontevraud du 2e régiment du matériel
 
 |
@@ -1296,7 +1328,7 @@ Détachement Fontevraud du 2e régiment du matériel
 
 |
 
-FONTEVRAUD­L'ABBAYE
+FONTEVRAUD­-L'ABBAYE
 
 |
 
@@ -1584,7 +1616,7 @@ TERRE
 
 |
 
-CHATEL-SAINT­GERMAIN
+CHATEL-SAINT­-GERMAIN
 
 |
 
@@ -1896,6 +1928,38 @@ TERRE
 
 |
 
+Groupement d'information opérationnelle du commandement des forces terrestres (transfert à Lyon)
+
+|
+
+59
+
+|
+
+LILLE
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
 Ecole d'état-major
 
 |
@@ -2000,7 +2064,7 @@ Détachement Clermont-Ferrand du 7e régiment du matériel
 
 |
 
-CLERMONT­FERRAND
+CLERMONT-­FERRAND
 
 |
 

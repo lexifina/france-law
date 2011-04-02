@@ -104,6 +104,44 @@ SGA/SPAC
 
 |
 
+Service parisien de soutien
+
+de l'administration centrale -
+
+sous-direction de la
+
+performance interne
+
+|
+
+44
+
+|
+
+NANTES
+
+|
+
+D
+
+|
+
+|
+
+|
+
+2011
+
+|
+
+2012
+
+|
+
+SGA/SPAC
+
+|
+
 Service parisien de soutien de l'administration centrale - Direction de site des sites extérieurs
 
 |
@@ -630,7 +668,7 @@ Structure spécialisée d'achat et de manda­tement SSAM 33.505
 
 |
 
-ROMORANTIN­LANTHENAY
+ROMORANTIN­-LANTHENAY
 
 |
 

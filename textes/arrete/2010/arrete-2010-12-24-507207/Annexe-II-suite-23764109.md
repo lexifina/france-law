@@ -128,7 +128,7 @@ D
 
 |
 
-2011
+2012
 
 |
 
@@ -160,7 +160,7 @@ R
 
 |
 
-2011
+2012
 
 |
 
@@ -600,9 +600,9 @@ SAINT-GILLES-ET­GARONS
 
 |
 
-|
+D
 
-R
+|
 
 |
 
@@ -748,7 +748,7 @@ MARINE
 
 |
 
-Lorient garnison (réorgani­sation du soutien : GSBdD de Brest)
+Lorient garnison
 
 |
 
@@ -760,11 +760,11 @@ LORIENT
 
 |
 
-|
+D
 
 |
 
-R
+|
 
 |
 
@@ -772,7 +772,7 @@ R
 
 |
 
-2011
+2012
 
 |
 
@@ -820,7 +820,7 @@ Base d'aéronautique navale de Lann-Bihoué (réorganisation du soutien : GSBdD 
 
 |
 
-PLOEMEUR­QUEVEN-GUIDEL
+PLOEMEUR­-QUEVEN-GUIDEL
 
 |
 
@@ -972,6 +972,38 @@ MARINE
 
 |
 
+Commandement de la marine à Paris - COMAR Paris
+
+|
+
+75
+
+|
+
+PARIS
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+MARINE
+
+|
+
 Commission permanente des programmes et des essais
 
 |
@@ -1048,15 +1080,15 @@ TOUSSUS-LE­NOBLE
 
 |
 
+D
+
+|
+
 |
 
 |
 
-R
-
-|
-
-2010
+2011
 
 |
 

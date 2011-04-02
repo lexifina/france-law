@@ -2840,7 +2840,7 @@ Antenne de la protection et de la sécurité défense
 
 |
 
-DZAOUDZI
+PAMANZI
 
 |
 
@@ -3174,9 +3174,7 @@ Etablissement spécialisé du commissariat de l'armée de terre
 
 |
 
-BERGERAC
-
-|
+BERGERAC |
 
 D
 
@@ -3194,39 +3192,31 @@ D
 
 |
 
+SGA/ direction des ressources humaines du ministère de la défense
+
+|
+
+SGA/ DRH-MD
+
+|
+
+Centre ministériel de gestion (CMG) |
+
+29 |
+
+BREST |
+
+D |
+
+|
+
+|
+
+2011 |
+
+2013 (9) (8) |
+
 Marine nationale
-
-|
-
-MARINE
-
-|
-
-Commandement de la marine à Paris - COMAR Paris
-
-|
-
-75
-
-|
-
-PARIS
-
-|
-
-|
-
-|
-
-R
-
-|
-
-2011
-
-|
-
-2013 (98)
 
 |
 

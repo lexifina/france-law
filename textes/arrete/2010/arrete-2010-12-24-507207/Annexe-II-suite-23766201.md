@@ -8,6 +8,38 @@ SSA
 
 |
 
+Service médical du 1er régiment d'artillerie de marine
+
+|
+
+02
+
+|
+
+LAON
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+SSA
+
+|
+
 Service vétérinaire inter­armées
 
 |
@@ -328,6 +360,74 @@ SSA
 
 |
 
+Service médical du 43e
+
+bataillon des transmissions (BT)
+
+|
+
+45
+
+|
+
+ORLEANS
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+SSA
+
+|
+
+Service médical de l'école
+
+de cavalerie
+
+|
+
+49
+
+|
+
+SAUMUR
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+SSA
+
+|
+
 Service médical de la base aérienne 112
 
 |
@@ -360,7 +460,7 @@ SSA
 
 |
 
-Service médical du 42e régiment de trans­missions
+Service médical du 42e régiment de transmissions
 
 |
 
@@ -584,7 +684,7 @@ SSA
 
 |
 
-Service médical du 15e bataillon du train (transfert à Martignas-­sur-Jalles)
+Service médical du 15e bataillon du train (transfert à Martignas-sur-Jalles)
 
 |
 

@@ -136,6 +136,38 @@ TERRE
 
 |
 
+Direction des ressources humaines de l'armée de terre - bureau solde et finances des ressources humaines (transfert de compétences entre la sous-direction administration générale de l'ex-DCCAT et la DRH-AT)
+
+|
+
+78
+
+|
+
+RAMBOUILLET
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
 Etat-major de la région terre Ile-de-France (réor­ganisation liée à la mise en place de l'échelon intermédiaire de la chaîne interarmées du soutien)
 
 |
@@ -1000,6 +1032,38 @@ TERRE
 
 |
 
+Division logistique amont du commandement des forces terrestres (transfert des missions et des effectifs vers le CICLO, le CFT et le CIAO/ SCA)
+
+|
+
+91
+
+|
+
+MONTLHERY
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
 Détachement du grou­pement de transit et d'administration du personnel isolé - Antenne fret (GTAPI)
 
 |
@@ -1256,6 +1320,38 @@ TERRE
 
 |
 
+Enseignement en Allemagne (conséquence du transfert du 3e régiment de hussards à Metz)
+
+|
+
+Allemagne
+
+|
+
+IMMENDINGEN
+
+|
+
+|
+
+|
+
+R
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
 Compagnie de mainte­nance et de mobilité du bataillon de soutien et de commandement (BCS) de la brigade franco-alle­mande (BFA) (mesure liée au transfert du 3e régiment de hussards à Metz)
 
 |
@@ -1320,11 +1416,43 @@ TERRE
 
 |
 
-13e demi-brigade de la Légion étrangère
+13e demi-brigade de la Légion étrangère (évolution des forces de présence en Afrique)
 
 |
 
-Djibouti
+République de Djibouti
+
+|
+
+DJIBOUTI
+
+|
+
+|
+
+T
+
+|
+
+|
+
+2011
+
+|
+
+2011
+
+|
+
+TERRE
+
+|
+
+5e régiment interarmes d'outre-mer [RIAOM] (évolution des forces de présence en Afrique)
+
+|
+
+République de Djibouti
 
 |
 
@@ -1344,47 +1472,15 @@ R
 
 |
 
-2012
-
-|
-
-TERRE
-
-|
-
-5e régiment interarmes d'outre-mer
-
-|
-
-Djibouti
-
-|
-
-DJIBOUTI
-
-|
-
-|
-
-|
-
-R
-
-|
-
 2011
 
 |
 
-2012
-
-|
-
 TERRE
 
 |
 
-23e bataillon d'infanterie de marine interarmes d'outre-mer
+23e bataillon d'infanterie de marine interarmes d'outre-mer (évolution des forces de présence en Afrique)
 
 |
 
@@ -1408,7 +1504,7 @@ D
 
 |
 
-2012
+2011
 
 |
 
