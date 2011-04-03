@@ -26,27 +26,19 @@ Détermination du coefficient de récupération des effluents
 
 DONNÉES RELATIVES AUX CARACTÉRISTIQUES
 
-générales de récupération des effluents
-
-|
+générales de récupération des effluents |
 
 COEFFICIENT
 
 de récupération
 
-des effluents
-
-|
+des effluents |
 
 NIVEAU MÉDIOCRE :
 
-Absence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel.
+Absence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel. |
 
-|
-
-0, 8
-
-|
+0, 8 |
 
 NIVEAU BON :
 
@@ -56,9 +48,7 @@ Suivi périodique des points de rejet au milieu naturel.
 
 |
 
-1
-
-|
+1 |
 
 TABLEAU N° 4
 
@@ -68,53 +58,31 @@ DONNÉES RELATIVES
 
 aux caractéristiques générales
 
-de fonctionnement de l'épandage
-
-|
+de fonctionnement de l'épandage |
 
 COEFFICIENT D'ÉLIMINATION DE LA POLLUTION
 
-pour chaque élément constitutif de la pollution
+pour chaque élément constitutif de la pollution |
 
 |
 
-|
+MES |
 
-MES
+DBO5 |
 
-|
+DCO |
 
-DBO5
+Chaleur |
 
-|
+NR |
 
-DCO
+NO |
 
-|
+P |
 
-Chaleur
+MI et AOX |
 
-|
-
-NR
-
-|
-
-NO
-
-|
-
-P
-
-|
-
-MI et AOX
-
-|
-
-Métox et sels dissous
-
-|
+Métox et sels dissous |
 
 NIVEAU MAUVAIS :
 
@@ -122,89 +90,49 @@ NIVEAU MAUVAIS :
 
 -l'épandage n'est pas exploité en production végétale afin que les éléments apportés soient utilisés par les cultures ;
 
--stagnation et ruissellement d'effluents.
+-stagnation et ruissellement d'effluents. |
 
-|
+0, 5 |
 
-0, 5
+0, 40 |
 
-|
+0, 35 |
 
-0, 40
+1, 00 |
 
-|
+0 |
 
-0, 35
+0 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU MÉDIOCRE :
 
 -tenue d'un cahier d'épandage ;
 
--les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure.
+-les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure. |
 
-|
+1, 00 |
 
-1, 00
+0, 70 |
 
-|
+0, 65 |
 
-0, 70
+1, 00 |
 
-|
+0, 40 |
 
-0, 65
+0, 40 |
 
-|
+0, 40 |
 
-1, 00
+0 |
 
-|
-
-0, 40
-
-|
-
-0, 40
-
-|
-
-0, 40
-
-|
-
-0
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU MOYEN :
 
@@ -212,45 +140,25 @@ NIVEAU MOYEN :
 
 -existence d'un plan d'épandage et tenue d'un cahier d'épandage ;
 
--stockage d'effluents avant épandage suffisants et adaptés au vu du plan d'épandage.
+-stockage d'effluents avant épandage suffisants et adaptés au vu du plan d'épandage. |
 
-|
+1, 00 |
 
-1, 00
+0, 90 |
 
-|
+0, 85 |
 
-0, 90
+1, 00 |
 
-|
+0, 60 |
 
-0, 85
+0, 60 |
 
-|
+0, 60 |
 
-1, 00
+0 |
 
-|
-
-0, 60
-
-|
-
-0, 60
-
-|
-
-0, 60
-
-|
-
-0
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU BON :
 
@@ -264,41 +172,23 @@ NIVEAU BON :
 
 -en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe. |
 
-1, 00
+1, 00 |
 
-|
+0, 95 |
 
-0, 95
+0, 94 |
 
-|
+1, 00 |
 
-0, 94
+0, 80 |
 
-|
+0, 80 |
 
-1, 00
+0, 80 |
 
-|
+(1) |
 
-0, 80
-
-|
-
-0, 80
-
-|
-
-0, 80
-
-|
-
-(1)
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU TRÈS BON :
 
@@ -306,89 +196,49 @@ NIVEAU TRÈS BON :
 
 -la comparaison des exportations par les récoltes prévues et des apports effectifs organiques et minéraux sur les parcelles, permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles utilisées ;
 
--la structure et la qualité des sols ne sont pas altérées par l'épandage.
+-la structure et la qualité des sols ne sont pas altérées par l'épandage. |
 
-|
+1, 00 |
 
-1, 00
+0, 96 |
 
-|
+0, 96 |
 
-0, 96
+1, 00 |
 
-|
+0, 90 |
 
-0, 96
+0, 90 |
 
-|
+0, 90 |
 
-1, 00
+(1) |
 
-|
-
-0, 90
-
-|
-
-0, 90
-
-|
-
-0, 90
-
-|
-
-(1)
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU EXCELLENT 1er niveau :
 
 -respect des conditions du niveau TRES BON ;
 
-l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (P).
+l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (P). |
 
-|
+1, 00 |
 
-1, 00
+0, 97 |
 
-|
+0, 97 |
 
-0, 97
+1, 00 |
 
-|
+0, 95 |
 
-0, 97
+0, 95 |
 
-|
+0, 95 |
 
-1, 00
+(1) |
 
-|
-
-0, 95
-
-|
-
-0, 95
-
-|
-
-0, 95
-
-|
-
-(1)
-
-|
-
-0
-
-|
+0 |
 
 NIVEAU EXCELLENT 2e niveau :
 
@@ -400,51 +250,33 @@ NIVEAU EXCELLENT 2e niveau :
 
 -le matériel d'épandage permet la régulation et le contrôle des dosages et la répartition des effluents sur le sol ; toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal ou pour contrôler leur stock dans le sol ;
 
--existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement.
+-existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement. |
 
-|
+1, 00 |
 
-1, 00
+> 0, 97 (2) |
 
-|
+> 0, 97 (2) |
 
-> 0, 97 (2)
+1, 00 |
 
-|
+0, 98 |
 
-> 0, 97 (2)
+0, 98 |
 
-|
+0, 98 |
 
-1, 00
+(1) |
 
-|
-
-0, 98
-
-|
-
-0, 98
-
-|
-
-0, 98
-
-|
-
-(1)
-
-|
-
-0
-
-|
+0 |
 
 (1) Le coefficient d'élimination de la pollution est nul. Toutefois, si les résultats d'une étude démontrent la dégradation ou l'élimination des polluants concernés dans le sol et l'absence de transfert mesurable dans les eaux souterraines, la valeur de ce coefficient est portée à 1.
 
-(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et sur la pollution soluble. En l'absence de cette étude, le coefficient d'élimination de la pollution pour les éléments DBO5 et DCO est fixé à 98 % si l'analyse de prélèvements sur piézomètre met en évidence l'absence d'impact significatif de l'épandage sur la qualité de la nappe.
+(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et soluble. La valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales. En l'absence de cette étude, le coefficient d'élimination de la pollution pour les éléments DBO5 et DCO est fixé à 98 % si l'analyse de prélèvements sur piézomètre met en évidence l'absence d'impact significatif sur la qualité de la nappe.
 
 |
+
+En cas d'épandage d'eaux boueuses visant à éliminer des terres issues de l'arrachage de végétaux, le suivi régulier des rejets comprend des mesures des métox dans les matières en suspension et dans la fraction dissoute. Le coefficient d'élimination de l'élément constitutif de la pollution "métox" est celui retenu pour les matières en suspension. Il reste toutefois fixé à zéro pour la fraction dissoute si le suivi réalisé par piézomètre ou par prélèvement en nappe met en évidence une contamination du milieu aquatique par un ou des éléments traces métalliques constitutifs des métox issus de cet épandage.
 
 2. Autres dispositifs de dépollution mis en oeuvre par l'établissement
 
@@ -470,277 +302,145 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 
 ÉLÉMENT CONSTITUTIF
 
-de la pollution
-
-|
+de la pollution |
 
 FRÉQUENCE DE CONSTITUTION D'ÉCHANTILLONS JOURNALIERS
 
 en fonction du niveau théorique de pollution (NTP)
 
-déterminé en application de l'article R. 213-48-6
+déterminé en application de l'article R. 213-48-6 |
 
 |
 
-|
+1 fois par trimestre |
 
-1 fois par trimestre
+1 fois par mois |
 
-|
+1 fois par semaine |
 
-1 fois par mois
-
-|
-
-1 fois par semaine
-
-|
-
-2 fois par semaine
-
-|
+2 fois par semaine |
 
 1 fois par jour |
 
-Matières en suspension (t / an).
+Matières en suspension (t / an). |
 
-|
+NTP < 100 |
 
-NTP < 100
+100 ≤ NTP < 600 |
 
-|
+600 ≤ NTP < 1 000 |
 
-100 ≤ NTP < 600
+1 000 ≤ NTP < 3 000 |
 
-|
+NTP ≥ 3 000 |
 
-600 ≤ NTP < 1 000
+Demande chimique en oxygène (t / an). |
 
-|
+NTP < 200 |
 
-1 000 ≤ NTP < 3 000
+200 ≤ NTP < 600 |
 
-|
+600 ≤ NTP < 1 000 |
 
-NTP ≥ 3 000
+1 000 ≤ NTP < 3 000 |
 
-|
+NTP ≥ 3 000 |
 
-Demande chimique en oxygène (t / an).
+Demande biochimique en oxygène en cinq jours (t / an). |
 
-|
+NTP < 300 |
 
-NTP < 200
+300 ≤ NTP < 1 000 |
 
-|
+1 000 ≤ NTP < 2 000 |
 
-200 ≤ NTP < 600
+NTP ≥ 2 000 |
 
-|
+/ |
 
-600 ≤ NTP < 1 000
+Azote réduit (t / an). |
 
-|
+NTP < 40 |
 
-1 000 ≤ NTP < 3 000
+40 ≤ NTP < 100 |
 
-|
+100 ≤ NTP < 200 |
 
-NTP ≥ 3 000
+NTP ≥ 200 |
 
-|
+/ |
 
-Demande biochimique en oxygène en cinq jours (t / an).
+Azote oxydé (nitrites et nitrates) (t / an). |
 
-|
+NTP < 40 |
 
-NTP < 300
+40 ≤ NTP < 100 |
 
-|
+100 ≤ NTP < 200 |
 
-300 ≤ NTP < 1 000
+NTP ≥ 200 |
 
-|
+/ |
 
-1 000 ≤ NTP < 2 000
+Phosphore total, organique ou minéral (t / an). |
 
-|
+NTP < 10 |
 
-NTP ≤ 2 000
+10 ≤ NTP < 50 |
 
-|
+50 ≤ NTP < 100 |
 
-/
+NTP ≥ 100 |
 
-|
+/ |
 
-Azote réduit (t / an).
+Toxicité aiguë (téq / an). |
 
-|
+NTP < 10 |
 
-NTP < 40
+10 ≤ NTP < 50 |
 
-|
+50 ≤ NTP < 100 |
 
-40 ≤ NTP < 100
+NTP ≥ 100 |
 
-|
+/ |
 
-100 ≤ NTP < 200
+Métox (t / an). |
 
-|
+NTP < 10 |
 
-NTP ≥ 200
+10 ≤ NTP < 50 |
 
-|
+50 ≤ NTP < 100 |
 
-/
+NTP ≥ 100 |
 
-|
+/ |
 
-Azote oxydé (nitrites et nitrates) (t / an).
+Composés halogénés adsorbables sur charbon actif (t / an). |
 
-|
+NTP < 2 |
 
-NTP < 40
+2 ≤ NTP < 10 |
 
-|
+10 ≤ NTP < 20 |
 
-40 ≤ NTP < 100
+NTP ≥ 20 |
 
-|
+/ |
 
-100 ≤ NTP < 200
+Sels dissous (Mm ³ × S / cm / an). |
 
-|
+/ |
 
-NTP ≥ 200
+0, 1 ≤ NTP < 1 |
 
-|
+1 ≤ NTP |
 
-/
+/ |
 
-|
-
-Phosphore total, organique ou minéral (t / an).
-
-|
-
-NTP < 10
-
-|
-
-10 ≤ NTP < 50
-
-|
-
-50 ≤ NTP < 100
-
-|
-
-NTP ≥ 100
-
-|
-
-/
-
-|
-
-Toxicité aiguë (téq / an).
-
-|
-
-NTP < 10
-
-|
-
-10 ≤ NTP < 50
-
-|
-
-50 ≤ NTP < 100
-
-|
-
-NTP ≥ 100
-
-|
-
-/
-
-|
-
-Métox (t / an).
-
-|
-
-NTP < 10
-
-|
-
-10 ≤ NTP < 50
-
-|
-
-50 ≤ NTP < 100
-
-|
-
-NTP ≥ 100
-
-|
-
-/
-
-|
-
-Composés halogénés adsorbables sur charbon actif (t / an).
-
-|
-
-NTP < 2
-
-|
-
-2 ≤ NTP < 10
-
-|
-
-10 ≤ NTP < 20
-
-|
-
-NTP ≥ 20
-
-|
-
-/
-
-|
-
-Sels dissous (Mm ³ × S / cm / an).
-
-|
-
-/
-
-|
-
-0, 1 ≤ NTP < 1
-
-|
-
-1 ≤ NTP
-
-|
-
-/
-
-|
-
-/
-
-|
+/ |
 
 -les concentrations des échantillons en éléments constitutifs de la pollution sont déterminées soit par analyse de ces éléments selon les méthodes mentionnées à l'annexe II du présent arrêté, soit par analyse d'éléments de substitution et application de règles de corrélation en application du point 2 de l'annexe III du présent arrêté ;
 
@@ -748,7 +448,9 @@ Sels dissous (Mm ³ × S / cm / an).
 
 -en l'absence de résultats de mesure journalière continue du débit de l'effluent, la pollution éliminée est déterminée en appliquant à la pollution produite un coefficient d'élimination de la pollution déterminé en comparant les quantités d'éléments constitutifs de la pollution mesurés dans des échantillons moyens journaliers constitués en entrée et en sortie du dispositif de dépollution ;
 
--la valeur du coefficient d'élimination de la pollution est arrondie à la valeur supérieure de la seconde décimale ;
+- le coefficient d'élimination de la pollution est déterminé, pour chaque élément polluant, par le rapport entre la pollution annuelle éliminée et la pollution annuelle reçue par le dispositif de dépollution ;
+
+-la valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales ;
 
 -en cas d'interruption du fonctionnement d'un dispositif de traitement pendant la période d'activité de l'établissement, la quantité de pollution éliminée est réduite de un demi pour cent par jour d'arrêt complet ou temporaire dans l'année ;
 
@@ -762,629 +464,319 @@ Détermination de la valeur forfaitaire du coefficient d'élimination de la poll
 
 DESCRIPTION DU DISPOSITIF
 
-d'épuration
-
-|
+d'épuration |
 
 VALEUR FORFAITAIRE DU COEFFICIENT D'ÉLIMINATION
 
-de la pollution pour chacun des éléments constitutifs de la redevance
+de la pollution pour chacun des éléments constitutifs de la redevance |
 
 |
 
-|
-
-MES
-
-|
-
-DBO5
-
-|
-
-DCO
-
-|
-
-MI
-
-|
-
-NR
-
-|
-
-NO
-
-|
-
-P
-
-|
-
-AOX
-
-|
-
-Sels dissous
-
-|
-
-Métox
-
-|
-
-Bassin de décantation sans réactifs.
-
-|
-
-0, 50
-
-|
-
-0, 20
-
-|
-
-0, 15
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0, 10
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Unité de traitement physico-chimique, hors détoxication.
-
-|
-
-0, 7
-
-|
-
-0, 45
-
-|
-
-0, 35
-
-|
-
-0, 2
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0, 8
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0, 5
-
-|
-
-Unité de tamisage.
-
-|
-
-0, 6
-
-|
-
-0, 4
-
-|
-
-0, 4
-
-|
-
-0, 2
-
-|
-
-0, 1
-
-|
-
-0
-
-|
-
-0, 25
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Unité de traitement biologique assurant ni la nitrification ni la déphosphatation.
-
-|
-
-0, 7
-
-|
-
-0, 75
-
-|
-
-0, 65
-
-|
-
-0, 3
-
-|
-
-0, 2
-
-|
-
-0
-
-|
-
-0, 2
-
-|
+MES |
 
-0, 3
+DBO5 |
 
-|
-
-0
-
-|
-
-0, 5
-
-|
-
-Unité de traitement biologique assurant la nitrification.
-
-|
-
-0, 7
-
-|
-
-0, 75
-
-|
-
-0, 65
-
-|
-
-0, 3
-
-|
-
-0, 6
-
-|
-
-0, 6
-
-|
-
-0, 2
-
-|
-
-0, 3
-
-|
-
-0
-
-|
-
-0, 5
-
-|
-
-Unité de traitement biologique assurant la nitrification et la déphosphatation.
-
-|
-
-0, 7
-
-|
-
-0, 75
-
-|
-
-0, 65
-
-|
-
-0, 3
-
-|
-
-0, 6
-
-|
-
-0, 6
-
-|
-
-0, 6
-
-|
-
-0, 3
-
-|
-
-0
-
-|
-
-0, 5
-
-|
-
-Installation de détoxication sans précipitation des phosphates par voie physico-chimique.
-
-|
-
-0, 7
+DCO |
 
-|
-
-0
+MI |
 
-|
+NR |
 
-0
+NO |
 
-|
+P |
 
-0, 7
+AOX |
 
-|
+Sels dissous |
 
-0
+Métox |
 
-|
+Bassin de décantation sans réactifs. |
 
-0
+0, 50 |
 
-|
+0, 20 |
 
-0, 2
+0, 15 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0, 10 |
 
-|
+0 |
 
-0, 7
+0 |
 
-|
+0 |
 
-Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique.
+Unité de traitement physico-chimique, hors détoxication. |
 
-|
+0, 7 |
 
-0, 7
+0, 45 |
 
-|
+0, 35 |
 
-0
+0, 2 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0, 8 |
 
-0, 7
+0 |
 
-|
+0 |
 
-0
+0, 5 |
 
-|
+Unité de tamisage. |
 
-0
+0, 6 |
 
-|
+0, 4 |
 
-0, 8
+0, 4 |
 
-|
+0, 2 |
 
-0
+0, 1 |
 
-|
+0 |
 
-0
+0, 25 |
 
-|
+0 |
 
-0, 7
+0 |
 
-|
+0 |
 
-Bassin d'évaporation.
+Unité de traitement biologique assurant ni la nitrification ni la déphosphatation. |
 
-|
+0, 7 |
 
-1, 00
+0, 75 |
 
-|
+0, 65 |
 
-1, 00
+0, 3 |
 
-|
+0, 2 |
 
-1, 00
+0 |
 
-|
+0, 2 |
 
-1, 00
+0, 3 |
 
-|
+0 |
 
-1, 00
+0, 5 |
 
-|
+Unité de traitement biologique assurant la nitrification. |
 
-1, 00
+0, 7 |
 
-|
+0, 75 |
 
-1, 00
+0, 65 |
 
-|
+0, 3 |
 
-1, 00
+0, 6 |
 
-|
+0, 6 |
 
-1, 00
+0, 2 |
 
-|
+0, 3 |
 
-1, 00
+0 |
 
-|
+0, 5 |
 
-Transfert des pollutions dans un autre établissement.
+Unité de traitement biologique assurant la nitrification et la déphosphatation. |
 
-|
+0, 7 |
 
-1, 00
+0, 75 |
 
-|
+0, 65 |
 
-1, 00
+0, 3 |
 
-|
+0, 6 |
 
-1, 00
+0, 6 |
 
-|
+0, 6 |
 
-1, 00
+0, 3 |
 
-|
+0 |
 
-1, 00
+0, 5 |
 
-|
+Installation de détoxication sans précipitation des phosphates par voie physico-chimique. |
 
-1, 00
+0, 7 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0, 7 |
 
-1, 00
+0 |
 
-|
+0 |
 
-1, 00
+0, 2 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0, 7 |
 
-Fouille fermée.
+Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique. |
 
-|
+0, 7 |
 
-1, 00
+0 |
 
-|
+0 |
 
-0
+0, 7 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0, 8 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0, 7 |
 
-|
+Bassin d'évaporation. |
 
-0
+1, 00 |
 
-|
+1, 00 |
 
-0
+1, 00 |
 
-|
+1, 00 |
 
-0
+1, 00 |
 
-|
+1, 00 |
 
-0
+1, 00 |
 
-|
+1, 00 |
 
-0
+1, 00 |
 
-|
+1, 00 |
 
-Recyclage et revalorisation.
+Transfert des pollutions dans un autre établissement. |
 
-|
+1, 00 |
 
-1, 00
+1, 00 |
 
-|
+1, 00 |
 
-1, 00
+1, 00 |
 
-|
+1, 00 |
 
-1, 00
+1, 00 |
 
-|
+1, 00 |
 
-1, 00
+1, 00 |
 
-|
+1, 00 |
 
-1, 00
+1, 00 |
 
-|
+Fouille fermée. |
 
-1, 00
+1, 00 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0 |
 
-1, 00
+0 |
 
-|
+0 |
 
-Unité de séparation physique par évapoconcentration ou par dispositif à membranes.
+Recyclage et revalorisation. |
 
-|
+1, 00 |
 
-0, 8
+1, 00 |
 
-|
+1, 00 |
 
-0, 8
+1, 00 |
 
-|
+1, 00 |
 
-0, 8
+1, 00 |
 
-|
+1, 00 |
 
-0, 3
+1, 00 |
 
-|
+1, 00 |
 
-0, 8
+1, 00 |
 
-|
+Unité de séparation physique par évapoconcentration ou par dispositif à membranes. |
 
-0, 3
+0, 8 |
 
-|
+0, 8 |
 
-0, 5
+0, 8 |
 
-|
+0, 3 |
 
-0, 8
+0, 8 |
 
-|
+0, 3 |
 
-0, 8
+0, 5 |
 
-|
+0, 8 |
 
-0, 8
+0, 8 |
 
-|
+0, 8 |
 
 b) Mesures transitoires.
 
@@ -1398,43 +790,29 @@ En cas d'épandage des boues d'épuration sur des terres agricoles, le coefficie
 
 TABLEAU N° 7
 
-Détermination du coefficient forfaitaire
-
-d'élimination des boues
+Détermination du coefficient forfaitaire d'élimination des boues
 
 DONNÉES RELATIVES AUX CARACTÉRISTIQUES
 
-générales du fonctionnement de l'épandage de boues
-
-|
+générales du fonctionnement de l'épandage de boues |
 
 COEFFICIENT
 
-d'élimination des boues
-
-|
+d'élimination des boues |
 
 NIVEAU MAUVAIS :
 
-Absence de cahier d'épandage ; ruissellement de boues.
+Absence de cahier d'épandage ; ruissellement de boues. |
 
-|
-
-0
-
-|
+0 |
 
 NIVEAU MÉDIOCRE :
 
 Existence d'un plan d'épandage et tenue d'un cahier d'épandage.
 
-Le cahier d'épandage met en évidence des apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage.
+Le cahier d'épandage met en évidence des apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage. |
 
-|
-
-0, 5
-
-|
+0, 5 |
 
 NIVEAU MOYEN :
 
@@ -1442,31 +820,21 @@ Existence d'un plan d'épandage et tenue d'un cahier d'épandage.
 
 Stockages de boues avant épandage suffisants et adaptés au vu du plan d'épandage.
 
-Absence d'apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage.
+Absence d'apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage. |
 
-|
-
-0, 8
-
-|
+0, 8 |
 
 NIVEAU BON :
 
 Respect des conditions du niveau moyen.
 
-Le cahier d'épandage met en évidence des pratiques conformes aux prescription du plan d'épandage.
+Le cahier d'épandage met en évidence des pratiques conformes aux prescription du plan d'épandage. |
 
-|
-
-1, 00
-
-|
+1, 00 |
 
 La valeur du coefficient ainsi déterminé est appliquée au prorata des quantités de boues éliminées par épandage en cas d'existence de plusieurs filières d'élimination des boues.
 
-3. Cas des établissements raccordés
-
-à un dispositif collectif de dépollution
+3. Cas des établissements raccordés à un dispositif collectif de dépollution
 
 a) Détermination du coefficient d'efficacité de la collecte.
 
@@ -1486,37 +854,21 @@ Détermination du terme complémentaire applicable pour le calcul du coefficient
 
 VALEUR DE L'INDICE DE CONNAISSANCE
 
-des rejets au milieu naturel par les réseaux d'assainissement
+des rejets au milieu naturel par les réseaux d'assainissement |
 
-|
+INFÉRIEUR À 30 POINTS |
 
-INFÉRIEUR À 30 POINTS
+DE 30 À 50 POINTS |
 
-|
+SUPÉRIEUR À 50 POINTS |
 
-DE 30 À 50 POINTS
+Valeur du terme complémentaire. |
 
-|
+0 |
 
-SUPÉRIEUR À 50 POINTS
+0, 1 |
 
-|
-
-Valeur du terme complémentaire.
-
-|
-
-0
-
-|
-
-0, 1
-
-|
-
-0, 2
-
-|
+0, 2 |
 
 b) Détermination de la pollution éliminée.
 
@@ -1529,3 +881,7 @@ La pollution éliminée par le dispositif de dépollution est déterminée comme
 Pour les établissements raccordés à un dispositif collectif de dépollution, et dans l'impossibilité de mesurer les matières inhibitrices et les AOX en amont et en aval du dispositif collectif de dépollution en raison des caractéristiques de l'effluent, les coefficients d'élimination des matières inhibitrices et des AOX sont fixés par l'agence en application du tableau n° 6 ci-dessus et, s'il y a lieu, en tenant compte des résultats d'études de l'abattement de la pollution rejetée par l'établissement ou d'établissements réalisant la même activité.
 
 La valeur du coefficient d'élimination des boues issues du dispositif d'épuration est déterminée en application des dispositions du point c du 2 ci-dessus.
+
+NOTA :
+
+Arrêté du 16 mars 2011 article 6 : Les dispositions du présent arrêté s'appliquent à la redevance déclarée au titre de l'année 2011 et des années suivantes, sauf les articles 1er, 3 et 4 qui s'appliquent également à la redevance déclarée au titre de l'année 2010.
