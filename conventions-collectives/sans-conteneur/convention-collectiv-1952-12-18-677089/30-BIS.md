@@ -1,4 +1,4 @@
-# Article 30 BIS
+# Article 28
 
 Une prime d'ancienneté est attribuée aux salariés des catégories " Employés " et " Agents de maîtrise " ayant acquis dans l'entreprise une ancienneté de deux, quatre, six, huit, dix, douze, quatorze et quinze années et plus.
 
