@@ -1,0 +1,95 @@
+# Article 1er
+
+Le barème des salaires mensuels minimaux garantis, applicable en France métropolitaine, pour un horaire forfaitaire de 151,67 heures des salariés visés par les avenants et annexes de la convention collective nationale des maisons à succursales de vente au détail d'habillement du 30 juin 1972 , est fixé comme suit :
+
+Salaires mensuels minimaux garantis
+
+(En euros.)
+
+Catégorie |
+
+Salaire |
+
+Employés |
+
+A |
+
+1 365 |
+
+B |
+
+1 368 |
+
+C |
+
+1 369 |
+
+D |
+
+1 370 |
+
+E |
+
+1 379 |
+
+F |
+
+1 380 |
+
+G |
+
+1 395 |
+
+H |
+
+1 410 |
+
+Agents de maîtrise |
+
+A |
+
+1 465 |
+
+B |
+
+1 505 |
+
+C |
+
+1 625 |
+
+Cadres |
+
+A1 |
+
+1 760 |
+
+A2 |
+
+1 785 |
+
+B1 |
+
+1 920 |
+
+B2 |
+
+2 189 |
+
+C1 |
+
+2 425 |
+
+C2 |
+
+2 722 |
+
+D1 |
+
+3 558 |
+
+D2 |
+
+4 324 |
+
+Ces rémunérations sont applicables au prorata de l'horaire hebdomadaire pour les salariés à temps partiel et au prorata de la durée de présence pour les salariés qui entrent ou sortent de l'entreprise en cours de mois.
