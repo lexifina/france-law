@@ -32,25 +32,9 @@ Médecin chef des services de classe normale
 
 |
 
-Médecin en chef (correspondant au grade
+Médecin en chef |
 
-de colonel ou de capitaine de vaisseau)
-
-|
-
-5 ans
-
-|
-
-|
-
-Médecin en chef (correspondant au grade
-
-de lieutenant-colonel ou de capitaine de frégate)
-
-|
-
-5 ans
+10 ans
 
 |
 
@@ -94,21 +78,9 @@ chef des services de classe normale
 
 |
 
-Pharmacien, vétérinaire, chirurgien-dentiste en chef (correspondant au grade de colonel ou de capitaine de vaisseau)
+Pharmacien, vétérinaire, chirurgien-dentiste en chef |
 
-|
-
-5 ans
-
-|
-
-|
-
-Pharmacien, vétérinaire, chirurgien-dentiste en chef (correspondant au grade de lieutenant-colonel ou de capitaine de frégate)
-
-|
-
-5 ans
+10 ans
 
 |
 
