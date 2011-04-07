@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709749
+
+- Question : [SEQ090709749](seq090709749.md) — Opérations routières et autoroutières faisant l'objet d'une analyse dans le cadre du schéma national des infrastructures de transport
+
+## Réponse
+
+*Écologie, JO du 2011-04-07, page 879*
+
+Le schéma national des infrastructures de transport fixe la liste des grands projets nationaux d'infrastructures dont l'État souhaite la réalisation au cours des vingt à trente années à venir. Il recense les grands projets d'infrastructures qui créent de nouvelles fonctionnalités en matière de transport et influencent les déplacements des biens et des personnes. Pour mener à bien cette tâche, une revue des grands projets d'infrastructures a donc été engagée pour vérifier leur adéquation avec les grandes orientations du Grenelle de l'environnement. Cette revue s'appuie sur une grille d'analyse multicritère élaborée en concertation avec les parties prenantes du Grenelle de l'environnement. Cette grille est construite autour de critères à confronter au projet et à ses effets attendus par l'intermédiaire d'indicateurs à renseigner. Les critères et indicateurs étant parfois très spécifiques à un mode de transport ou à une thématique, tous ceux de la grille ne sont pas nécessairement pertinents vis-à-vis de tous les modes de transport et de tous les projets. Cette grille est évidemment cohérente avec les critères fixés par l'article 17 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en oeuvre du Grenelle de l'environnement, critères qui gouvernent les choix d'inscription au schéma et que la grille permet de renseigner. C'est dans ce cadre qu'a été élaboré l'avant-projet de schéma rendu public et soumis à la concertation mi-juillet 2010. Depuis, le processus d'élaboration du schéma se poursuit et un avant-projet consolidé a été publié, pour consultation, le 26 janvier 2011.
