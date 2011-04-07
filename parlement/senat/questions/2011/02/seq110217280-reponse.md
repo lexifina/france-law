@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217280
+
+- Question : [SEQ110217280](seq110217280.md) — Impact de la hausse des prix des carburants sur l'avenir des pêcheurs
+
+## Réponse
+
+*Agriculture, JO du 2011-04-07, page 874*
+
+Sensible aux difficultés rencontrées actuellement par les professionnels de la pêche française, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire a reçu le 2 février 2011 les représentants professionnels de ce secteur autour de M. Pierre-Georges Dachicourt, président du comité national des pêches maritimes et des élevages marins. Bruno Le Maire a décidé avec eux de mettre en place un groupe de travail national sur la compétitivité de la pêche française, chargé de remettre des propositions afin de répondre aux préoccupations des marins. Il devra explorer toutes les solutions pérennes possibles à ces difficultés, dans le respect des règles de l'Union européenne. Il s'agit notamment de promouvoir les économies d'énergie à bord des navires, ainsi que la valorisation des produits par une marque collective permettant de distinguer l'origine des produits de la mer. Le groupe de travail devra également examiner les propositions de M. Louis Guédon, député-maire des Sables-d'Olonne, président du groupe d'étude sur la mer de l'Assemblée nationale, sur les prix et revenus dans le secteur des produits de la mer, et de M. Daniel Fasquelle, député-maire du Touquet, vice-président de la commission des affaires économiques de l'Assemblée nationale, sur le renouvellement de la flotte de pêche, missionnés par le Premier ministre en décembre 2010. Les conditions de rémunération des marins, en termes de salaire minimum garanti notamment, devront faire également l'objet d'un examen attentif dans le cadre de la concertation entre les partenaires sociaux.
