@@ -2114,7 +2114,7 @@ Azote
 
 |
 
-Pas plus de 0,75 % v/v (10*)
+Pas plus de 0,07 % v/v (10*)
 
 |
 
@@ -2140,67 +2140,75 @@ Les critères de pureté applicables à cet additif sont identiques à ceux déf
 
 (18*) E 961 Néotame
 
-Synonymes : N-[N-(3,3-diméthylbutyle)-L--aspartyl]-L-phénylalanine 1-ester méthylique, N (3,3-diméthylbutyle)-L-aspartyl-L-phénylalanine ester méthylique.
+Synonymes |
 
-DÉFINITION : Le néotame est obtenu par la réaction, sous pression avec de l'hydrogène, de l'aspartame et du 3,3-diméthyle-butyraldéhyde dans du méthanol en présence d'un catalyseur au palladium/ carbone. Il est isolé et purifié par filtration, éventuellement à l'aide de diatomite. Après avoir éliminé le solvant par distillation, le néotame est lavé avec de l'eau, séparé par centrifugation et enfin séché sous vide.
+N-[N-(3,3-diméthylbutyle)-L--aspartyl]-L-phénylalanine 1-ester méthylique, N (3,3-diméthylbutyle)-L-aspartyl-L-phénylalanine ester méthylique. |
 
-N° CAS : 165450-17-9
+Définitions |
 
-Dénomination chimique : N-[N-(3,3-diméthylbutyle)-L--aspartyl]-L-phénylalanine 1-ester méthylique.
+Le néotame est obtenu par la réaction, sous pression avec de l'hydrogène, de l'aspartame et du 3,3-diméthyle-butyraldéhyde dans du méthanol en présence d'un catalyseur au palladium/ carbone. Il est isolé et purifié par filtration, éventuellement à l'aide de diatomite. Après avoir éliminé le solvant par distillation, le néotame est lavé avec de l'eau, séparé par centrifugation et enfin séché sous vide. |
 
-Formule chimique : C20H30N2O5
+N° CAS |
 
-Masse moléculaire : 378,47
+165450-17-9. |
 
-Description : Poudre blanche à blanc cassé.
+Dénomination chimique |
 
-Composition : Pas moins de 97,0 % sur la base de la matière sèche.
+N-[N-(3,3-diméthylbutyle)-L--aspartyl]-L-phénylalanine 1-ester méthylique. |
 
-Identification :
+Formule chimique |
 
-Solubilité : 4,75 % (p/p) à 60° C dans l'eau, soluble dans l'éthanol et l'acétate d'éthyle.
+C20H30N2O5. |
 
-PURETÉ
+Masse moléculaire |
 
-Teneur en eau
+378,47. |
 
-|
+Description |
 
-Pas plus de 5 % (méthode de Karl Fischer, taille de l'échantillon 25 ± 5 mg)
+Poudre blanche à blanc cassé. |
 
-|
+Composition |
 
-pH
+Pas moins de 97,0 % sur la base de la matière sèche. |
 
-|
-
-5,0 - 7,0 (solution aqueuse à 0,5 %)
+Identification |
 
 |
 
-Intervalle de fusion
+Solubilité |
+
+4,75 % (p/ p) à 60° C dans l'eau, soluble dans l'éthanol et l'acétate d'éthyle. |
+
+Pureté |
 
 |
 
-81° C à 84° C
+Teneur en eau |
 
-|
+Pas plus de 5 % (méthode de Karl Fischer, taille de l'échantillon 25 ± 5 mg). |
+
+pH |
+
+5,0 ― 7,0 (solution aqueuse à 0,5 %) |
+
+Intervalle de fusion |
+
+81° C à 84° C. |
 
 N-[(3,3-diméthylbutyle)-L--aspartyl]-L-phénylalanine |
 
-Au maximum 1,5 % |
+Au maximum 1,5 %. |
 
 Plomb |
 
-Au maximum 1 mg/kg |
+Au maximum 1 mg/ kg. |
 
-12 |
+12. |
 
 |
 
-15 |
-
-(*18)
+15. |
 
 |
 
@@ -2703,6 +2711,100 @@ Plomb
 |
 
 Pas plus de 5 mg/kg (10*)
+
+|
+
+E 1203 ALCOOL POLYVINYLIQUE
+
+Synonyme : Polymère d'alcool vinylique, PVOH.
+
+DÉFINITION : L'alcool polyvinylique est une résine synthétique préparée par la polymérisation d'acétate de vinyle, puis l'hydrolyse partielle de l'ester en présence d'un catalyseur alcalin. Les caractéristiques physiques du produit dépendent du degré de polymérisation et du degré d'hydrolyse.
+
+Dénomination chimique : homopolymère d'éthenol
+
+Formule chimique : (C2H3OR) n où R = H ou COCH3
+
+Description : Poudre granuleuse blanche ou de couleur crème, inodore, insipide et translucide.
+
+IDENTIFICATION :
+
+Solubilité : soluble dans l'eau ; faiblement soluble dans l'éthanol.
+
+Réaction de précipitation : dissoudre 0,25 g de l'échantillon dans 5 ml d'eau, chauffer et laisser la solution refroidir à température ambiante. L'ajout de 10 ml d'éthanol à cette solution entraîne un précipité blanc, trouble ou floconneux.
+
+Réaction colorée : dissoudre 0,01 g de l'échantillon dans 100 ml d'eau, chauffer et laisser la solution refroidir à température ambiante. Une couleur bleue apparaît si l'on ajoute (à 5 ml de solution) une goutte de solution d'essai d'iode et quelques gouttes de solution d'acide borique. Dissoudre 0,5 g de l'échantillon dans 10 ml d'eau, chauffer et laisser la solution refroidir à température ambiante. Une couleur rouge foncé à bleue apparaît après le versement d'une goutte de solution d'essai d'iode dans 5 ml de solution.
+
+Viscosité : de 4,8 à 5,8 mPa.s (solution à 4 % à 20 °C) correspondant à une masse moléculaire moyenne de 26 000-30 000 Da.
+
+PURETÉ
+
+Matières insolubles dans l'eau
+
+|
+
+Pas plus de 0,1 %
+
+|
+
+Indice d'ester
+
+|
+
+Entre 125 et 153 mg KOH/g
+
+|
+
+Degré d'hydrolyse
+
+|
+
+De 86,5 à 89,0 %.
+
+|
+
+Indice d'acidité
+
+|
+
+Pas plus de 3,0
+
+|
+
+Solvants résiduels
+
+|
+
+Pas plus de 1,0 % de méthanol et de 1,0 % d'acétate de méthyle
+
+|
+
+pH de 5,0 à 6,5 (solution à 4 %)
+
+|
+
+|
+
+Perte par déshydratation
+
+|
+
+Pas plus de 5,0 % (105 °C, 3 heures)
+
+|
+
+Résidu lors de l'ignition
+
+|
+
+Pas plus de 1,0 %
+
+|
+
+Plomb
+
+|
+
+Pas plus de 2,0 mg/kg
 
 |
 
