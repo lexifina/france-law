@@ -252,7 +252,7 @@ Jus de raisins, non fermenté, à usage de vin de messe
 
 |
 
-2 000
+2000
 
 |
 
@@ -360,7 +360,7 @@ Farces pour raviolis et produits similaires
 
 |
 
-1 000
+1000
 
 |
 
@@ -386,7 +386,7 @@ Confitures, gelées, marmelades à faible teneur en sucre ainsi que produits sim
 
 |
 
-1 000
+1000
 
 |
 
@@ -404,7 +404,7 @@ Fruits et légumes confits, cristallisés et glacés
 
 |
 
-1 000
+1000
 
 |
 
@@ -416,7 +416,7 @@ Fruits secs et séchés
 
 |
 
-1 000
+1000
 
 |
 
@@ -434,7 +434,7 @@ Frugtgrod et Rote Grütze
 
 |
 
-1 000
+1000
 
 |
 
@@ -454,7 +454,7 @@ Préparations de fruits et de légumes, y compris les sauces à base de fruits, 
 
 |
 
-1 000
+1000
 
 |
 
@@ -478,7 +478,7 @@ Légumes conservés dans le vinaigre, la saumure ou l'huile (à l'exception des 
 
 |
 
-2 000
+2000
 
 |
 
@@ -490,7 +490,7 @@ Pâte de pommes de terre et tranches de pommes de terre préfrites
 
 |
 
-2 000
+2000
 
 |
 
@@ -508,7 +508,7 @@ Gnocchi
 
 |
 
-1 000
+1000
 
 |
 
@@ -544,7 +544,7 @@ Olives et préparations à base d'olives
 
 |
 
-(*3) 1 000
+(*3) 1000
 
 |
 
@@ -554,7 +554,7 @@ Olives et préparations à base d'olives
 
 |
 
-1 000 (3*)
+1000 (3*)
 
 |
 
@@ -576,7 +576,7 @@ Pâté
 
 |
 
-1 000
+1000
 
 |
 
@@ -610,7 +610,7 @@ Produits de poisson en semi-conserve, y compris ceux à base d'œufs de poisson
 
 |
 
-2 000
+2000
 
 |
 
@@ -662,7 +662,7 @@ Crangon crangon et Crangon vulgaris, cuites
 
 |
 
-6 000
+6000
 
 |
 
@@ -674,7 +674,7 @@ Fromage en tranche, préemballé
 
 |
 
-1 000
+1000
 
 |
 
@@ -692,7 +692,7 @@ Fromage non affiné
 
 |
 
-1 000
+1000
 
 |
 
@@ -710,7 +710,7 @@ Fromage fondu
 
 |
 
-2 000
+2000
 
 |
 
@@ -728,7 +728,7 @@ Fromage en couches et fromage avec addition de denrées alimentaires
 
 |
 
-1 000
+1000
 
 |
 
@@ -764,7 +764,7 @@ Lait caillé
 
 |
 
-1 000
+1000
 
 |
 
@@ -788,7 +788,7 @@ Oeufs liquides (blancs, jaunes ou oeufs entiers)
 
 |
 
-5 000
+5000
 
 |
 
@@ -818,7 +818,7 @@ Pain tranché et préemballé et pain de seigle
 
 |
 
-2 000
+2000
 
 |
 
@@ -836,7 +836,7 @@ Pain tranché et préemballé et pain de seigle
 
 |
 
-2 000
+2000
 
 |
 
@@ -854,7 +854,7 @@ Produits de la boulangerie fine dont l'activité de l'eau est supérieure à 0,6
 
 |
 
-2 000
+2000
 
 |
 
@@ -880,7 +880,7 @@ Produits de la boulangerie fine dont l'activité de l'eau est supérieure à 0,6
 
 |
 
-1 000 (au maximum 300 PHB)
+1000 (au maximum 300 PHB)
 
 |
 
@@ -890,7 +890,7 @@ Pâte à frire
 
 |
 
-2 000
+2000
 
 |
 
@@ -918,7 +918,7 @@ Confiseries (à l'exception du chocolat)
 
 |
 
-1 500 (au maximum 300 PHB)
+1500 (au maximum 300 PHB)
 
 |
 
@@ -932,7 +932,7 @@ Gommes à mâcher
 
 |
 
-1 500
+1500
 
 |
 
@@ -944,7 +944,7 @@ Nappages (sirops pour crêpes, sirops aromatisés pour laits frappés aromatisé
 
 |
 
-1 000
+1000
 
 |
 
@@ -962,7 +962,7 @@ Emulsions de matières grasses (à l'exception du beurre) dont la teneur en mati
 
 |
 
-1 000
+1000
 
 |
 
@@ -980,7 +980,7 @@ Emulsions de matières grasses dont la teneur en ma­tières grasses est inféri
 
 |
 
-2 000
+2000
 
 |
 
@@ -998,7 +998,7 @@ Sauces émulsionnées dont la teneur en matières grasses est d'au moins 60 %
 
 |
 
-(*3) 1 000
+(*3) 1000
 
 |
 
@@ -1008,7 +1008,7 @@ Sauces émulsionnées dont la teneur en matières grasses est d'au moins 60 %
 
 |
 
-1 000 (3*)
+1000 (3*)
 
 |
 
@@ -1020,7 +1020,7 @@ Sauces émulsionnées dont la teneur en matières grasses est inférieure à 60 
 
 |
 
-(*3) 2 000
+(*3) 2000
 
 |
 
@@ -1030,7 +1030,7 @@ Sauces émulsionnées dont la teneur en matières grasses est inférieure à 60 
 
 |
 
-2 000 (3*)
+2000 (3*)
 
 |
 
@@ -1048,7 +1048,7 @@ Sauces non émulsionnées
 
 |
 
-1 000
+1000
 
 |
 
@@ -1066,7 +1066,7 @@ Salades préparées
 
 |
 
-1 500
+1500
 
 |
 
@@ -1084,7 +1084,7 @@ Moutarde
 
 |
 
-1 000
+1000
 
 |
 
@@ -1102,7 +1102,7 @@ Assaisonnements, condiments
 
 |
 
-1 000
+1000
 
 |
 
@@ -1132,7 +1132,7 @@ Aspic
 
 |
 
-1 000
+1000
 
 |
 
@@ -1148,7 +1148,9 @@ Aspic
 
 |
 
-Compléments alimentaires liquides (supprimé par *15*)
+Compléments alimentaires liquides
+
+(supprimé par *15*)
 
 |
 
@@ -1172,7 +1174,7 @@ Compléments alimentaires liquides (supprimé par *15*)
 
 |
 
-1 500
+1500
 
 |
 
@@ -1204,7 +1206,7 @@ Substituts de viande, de poisson, de crustacés et céphalopodes et de fromage �
 
 |
 
-2 000
+2000
 
 |
 
@@ -1224,7 +1226,7 @@ Dulce de membrillo
 
 |
 
-1 000
+1000
 
 |
 
@@ -1246,7 +1248,7 @@ Marmelada
 
 |
 
-1 500
+1500
 
 |
 
@@ -1258,7 +1260,7 @@ Ostkaka
 
 |
 
-2 000
+2000
 
 |
 
@@ -1276,7 +1278,7 @@ Pasha
 
 |
 
-1 000
+1000
 
 |
 
@@ -1294,7 +1296,7 @@ Semmelknödelteig
 
 |
 
-2 000
+2000
 
 |
 
@@ -1332,7 +1334,7 @@ Betteraves rouges cuites
 
 |
 
-2 000
+2000
 
 |
 
@@ -1348,7 +1350,7 @@ Boyaux à base de collagène dont l'activité de l'eau est supérieure à 0,6
 
 |
 
-quantum satis 3*
+quantum satis (3*)
 
 |
 
@@ -1427,6 +1429,84 @@ Queues d'écrevisses... (supprimé par *15*)
 |
 
 2000 (15*)
+
+|
+
+|
+
+|
+
+Substituts de produits de la pêche à base d'algues marines
+
+|
+
+1000
+
+|
+
+500
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bières en fût contenant plus de 0,5 % de sucre fermentescible ajouté et/ou de jus ou de concentrés de fruits ajoutés
+
+|
+
+200
+
+|
+
+200
+
+|
+
+|
+
+400
+
+|
+
+|
+
+|
+
+Agrumes non pelés (traitement en surface uniquement)
+
+|
+
+20
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, sous forme déshydratée, contenant des préparations de vitamine A et des combinaisons de vitamines A et D
+
+|
+
+|
+
+|
+
+|
+
+1000 dans le produit prêt à la consommation
 
 |
 
@@ -1524,7 +1604,11 @@ DENRÉES ALIMENTAIRES
 
 |
 
-Quantité maximale (mg/kg ou mg/l, selon le cas) Exprimée en SO2
+Quantité maximale
+
+(mg/kg ou mg/l, selon le cas)
+
+Exprimée en SO2
 
 |
 
@@ -1810,7 +1894,7 @@ Fruits secs et séchés :
 
 |
 
-2 000
+2000
 
 |
 
@@ -1818,7 +1902,7 @@ Fruits secs et séchés :
 
 |
 
-1 000
+1000
 
 |
 
@@ -1890,7 +1974,7 @@ Jus de raisins concentré pour la fabrication de vins maison
 
 |
 
-2 000
+2000
 
 |
 
@@ -2180,6 +2264,22 @@ Litchis frais
 
 |
 
+Myrtilles (Vaccinium corymbosum uniquement)
+
+|
+
+10
+
+|
+
+Cannelle (Cinnamomum ceylanicum uniquement)
+
+|
+
+150
+
+|
+
 TROISIÈME PARTIE
 
 Autres conservateurs
@@ -2256,7 +2356,7 @@ E 234
 
 |
 
-Nisine (1)
+Nisine (*)
 
 |
 
@@ -2280,15 +2380,23 @@ Clotted cream
 
 |
 
-|
-
-(*3) Mascarpone
+10 mg/kg
 
 |
 
-10 mg/kg 10 mg/kg (3*)
+Mascarpone
 
 |
+
+10 mg/kg
+
+|
+
+Œufs liquides pasteurisés (blanc, jaune ou œuf entier)
+
+|
+
+6,25 mg/l |
 
 E 235
 
@@ -2354,6 +2462,22 @@ Concentré liquide de thé
 
 |
 
+Cidre, poiré, vins de fruits
+
+|
+
+250 mg/l de dose d'incorporation, résidus non détectables
+
+|
+
+Vins à teneur réduite en alcool
+
+|
+
+Boissons à base de vin et produits régis par le règlement (CEE) n° 1601/91
+
+|
+
 E 284
 
 |
@@ -2378,7 +2502,7 @@ E 285
 
 |
 
-(1) La présence de cette substance est admise, à l'état naturel, dans certains fromages obtenus par un processus de fermentation.
+(*) La présence de cette substance est admise dans certains fromages obtenus par un processus de fermentation.
 
 (*16)
 
@@ -2608,7 +2732,7 @@ et produits similaires
 
 |
 
-Autres produits à base de viande saumurés de manière traditionnelle (3):
+Autres produits à base de viande saumurés de manière traditionnelle (3) :
 
 |
 
@@ -2802,7 +2926,7 @@ Wiltshire bacon et Wiltshire ham (1.1) ;
 
 |
 
-Entremeada, Entrecosto, Chispe, Orelheira e Cabeça (salgados),
+Entremeada, Entrecosto, Chispe, Orelheira e Cabeça (salgados) ;
 
 |
 
@@ -2858,7 +2982,7 @@ Cured tongue (1.3)
 
 |
 
-Produits à base de viande traditionnels, traités en salaison sèche (2):
+Produits à base de viande traditionnels, traités en salaison sèche (2) :
 
 |
 
@@ -3270,6 +3394,144 @@ Gallate de dodécyle
 
 |
 
+E 315
+
+|
+
+Acide érythorbique
+
+|
+
+(*12) Produits de charcuterie et de salaison et produits de viande en conserve (12*)
+
+|
+
+500 exprimé en acide érythorbique
+
+|
+
+E 316
+
+|
+
+Erythorbate de sodium |
+
+|
+
+|
+
+Produits de poisson en conserve et en semi-conserve
+
+|
+
+1 500 exprimé en acide érythorbique |
+
+Poissons à peau rouge congelés et surgelés
+
+|
+
+E 392
+
+|
+
+Extraits de romarin
+
+|
+
+Huiles végétales (à l'exception des huiles vierges et des huiles d'olive) et matières grasses dont la teneur en acides gras polyinsaturés est supérieure à 15 % m/m du total des acides gras, pour une utilisation dans les produits alimentaires non traités thermiquement
+
+|
+
+30 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+Huiles de poisson et huile d'algue |
+
+50 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+Saindoux, graisses de bœuf, de volaille, de mouton et de porc
+
+Matières grasses et huiles pour la fabrication professionnelle de denrées alimentaires subissant un traitement thermique
+
+Huiles et matières grasses destinées à la friture, excepté l'huile d'olive et l'huile de grignons d'olive
+
+Amuse-gueules (à base de céréales, de pommes de terre ou d'amidon) |
+
+|
+
+Sauces |
+
+100 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+Produits de boulangerie fine |
+
+200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 |
+
+400 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
+|
+
+|
+
+Pommes de terre déshydratées
+
+Ovoproduits
+
+Chewing-gum |
+
+200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
+|
+
+|
+
+Lait en poudre pour distributeurs automatiques
+
+Assaisonnements et condiments
+
+Fruits à coque transformés |
+
+200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+|
+
+Soupes, potages et bouillons déshydratés |
+
+50 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
+|
+
+Viande déshydratée |
+
+Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs |
+
+|
+
+Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs |
+
+150 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse |
+
+|
+
+Saucissons secs |
+
+100 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
+|
+
+Arômes |
+
+1 000 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
+|
+
+|
+
+Lait en poudre pour la fabrication de crèmes glacées |
+
+30 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) |
+
 E 319
 
 |
@@ -3284,7 +3546,7 @@ Huiles et matières grasses destinées à la friture, excepté l'huile de grigno
 
 100* (BHT)
 
-Exprimé par rapport à la matière grasse dans les deux cas.
+Exprimé par rapport à la matière grasse dans les deux cas
 
 |
 
@@ -3296,9 +3558,11 @@ Butylhydroxyanisol (BHA)
 
 |
 
-Saindoux, huile de poisson, graisses de bœuf, de volaille et de mouton.
+Arômes autres que les huiles essentielles
 
 |
+
+100 mg/kg (gallates, seuls ou en mélange) ou 200 mg/kg (BHA) (12*)
 
 |
 
@@ -3409,102 +3673,6 @@ ou en mélange)
 200* (BHQT et BHA, seuls
 
 ou en mélange) (15*)
-
-|
-
-E 315
-
-|
-
-Acide érythorbique
-
-|
-
-(*12) Produits de charcuterie et de salaison et produits de viande en conserve (12*)
-
-|
-
-500 exprimé en acide érythorbique
-
-|
-
-E 316
-
-|
-
-Erythorbate de sodium
-
-|
-
-|
-
-|
-
-Produits de poisson en conserve et en semi-conserve
-
-|
-
-1 500 exprimé en acide érythorbique
-
-|
-
-Poissons à peau rouge congelés et surgelés
-
-|
-
-(12) E 310
-
-|
-
-Gallate de propyle
-
-|
-
-Huiles essentielles
-
-|
-
-1000 mg/kg (gallates et BHA, seuls ou en mélange)
-
-|
-
-E 311
-
-|
-
-Gallate d'octyle
-
-|
-
-|
-
-|
-
-E 312
-
-|
-
-Gallate de dodécyle
-
-|
-
-|
-
-|
-
-E 320
-
-|
-
-Butylhydroxyanisol (BHA)
-
-|
-
-Arômes autres que les huiles essentielles
-
-|
-
-100 mg/kg (gallates, seuls ou en mélange) ou 200 mg/kg (BHA) (12*)
 
 |
 

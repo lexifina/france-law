@@ -198,7 +198,7 @@ Phosphates de calcium
 
 |
 
-i)Phosphate monocalcique
+i) Phosphate monocalcique
 
 ii) Phosphate dicalcique
 
@@ -234,9 +234,9 @@ Crème de lait fouettée et produits similaires à base de matières grasses vé
 
 |
 
-i)Phosphate monomagnésique
+i) Phosphate monomagnésique
 
-ii)Phosphate dimagnésique
+ii) Phosphate dimagnésique
 
 |
 
@@ -324,9 +324,15 @@ Triphosphates
 
 Boissons à base de protéines végétales
 
+Boissons à base de protéines végétales :
+
+Boissons contenant des protéines de lactosérum destinées aux sportifs
+
 |
 
 20 g/l
+
+4 g/kg
 
 |
 
@@ -434,7 +440,7 @@ Sauces
 
 |
 
-5g/kg
+5 g/kg
 
 |
 
@@ -506,7 +512,7 @@ Surimi
 
 |
 
-1g/kg
+1 g/kg
 
 |
 
@@ -514,7 +520,7 @@ Pâté de poissons et de crustacés
 
 |
 
-5g/kg
+5 g/kg
 
 |
 
@@ -522,7 +528,7 @@ Nappages (sirops pour crêpes, sirops aromatisés pour lait frappé aromatisé e
 
 |
 
-3g/kg
+3 g/kg
 
 |
 
@@ -538,7 +544,7 @@ Enrobages pour viandes et produits végétaux
 
 |
 
-4g/kg
+4 g/kg
 
 |
 
@@ -652,7 +658,9 @@ Vin importé conformément au règlement (CEE) n°1873/84 du 28 juin 1984 autori
 
 |
 
-(*3) E 468
+(*3)
+
+E 468
 
 |
 
@@ -1114,7 +1122,9 @@ Xylitol
 
 |
 
-(*15) E 968
+(*15)
+
+E 968
 
 |
 
@@ -1130,11 +1140,17 @@ quantum satis
 
 |
 
+|
+
 Poissons, crustacés, mollusques et céphalopodes non transformés, congelés et surgelés
 
 |
 
+|
+
 quantum satis
+
+|
 
 |
 
@@ -1142,9 +1158,45 @@ Liqueurs
 
 |
 
+|
+
 quantum satis
 
 A des fins autres que l'édulcoration (15*)
+
+|
+
+E 427
+
+|
+
+Gomme cassia
+
+|
+
+Glaces de consommation
+
+Produits à base de lait fermenté à l'exception des produits à base de lait fermenté au moyen de ferments vivants non aromatisés
+
+Desserts à base de produits laitiers et produits similaires
+
+Fourrages, nappages et enrobages pour boulangerie fine et desserts
+
+Fromage fondu
+
+Sauces et sauces pour salades
+
+Soupes, potages et bouillons déshydratés
+
+|
+
+2 500 mg/kg
+
+|
+
+Produits à base de viande ayant subi un traitement thermique |
+
+1 500 mg/kg
 
 |
 
@@ -2286,7 +2338,9 @@ Ferrocyanure de calcium
 
 |
 
-(*12) E 551
+(*12)
+
+E 551
 
 |
 
@@ -2692,7 +2746,9 @@ E 635
 
 |
 
-(*7) E 650
+(*7)
+
+E 650
 
 |
 
@@ -2820,63 +2876,37 @@ Pâte à frire
 
 E 901
 
-|
-
-Cire d'abeille blanche et jaune
-
-|
-
-Comme agents d'enrobage uniquement pour
-
-|
-
-quantum satis
-
-|
-
 E 902
-
-|
-
-Cire de candelilla
-
-|
-
-- Confiseries (y compris le chocolat)
-
-|
-
-|
 
 E 904
 
 |
 
+Cire d'abeille blanche et jaune
+
+Cire de candelilla
+
 Shellac
 
 |
 
--Petits produits de boulangerie fine enrobés de chocolat
+Comme agents d'enrobage uniquement pour
 
-|
+- Gaufrettes préemballées contenant de la crème glacée (uniquement pour l'additif E 901)
 
-|
+- Confiseries (y compris le chocolat)
+
+- Petits produits de boulangerie fine enrobés de chocolat
 
 - Amuse-gueule
 
-|
-
-|
-
 - Fruits à coque
-
-|
-
-|
 
 - Grains de café
 
 |
+
+quantum satis
 
 |
 
@@ -2904,7 +2934,15 @@ quantum satis (3*)
 
 |
 
-(*12) E 903
+Arômes dans les boissons aromatisées sans alcool (uniquement pour l'additif E 901) |
+
+0,2 g/kg dans la boisson aromatisée
+
+|
+
+(*12)
+
+E 903
 
 |
 
@@ -3036,7 +3074,9 @@ Gommes à mâcher sans sucres ajoutés
 
 |
 
-(*7) E 943a
+(*7)
+
+E 943a
 
 |
 
@@ -3082,9 +3122,17 @@ Emulsions à base d'eau à vaporiser
 
 E 950
 
+E 951
+
+E 957
+
 |
 
 Acesulfame-K
+
+Aspartame
+
+Thaumatine
 
 |
 
@@ -3096,27 +3144,7 @@ Gommes à mâcher avec sucres ajoutés
 
 |
 
-E 951
-
-|
-
-Aspartame
-
-|
-
-|
-
 2 500 mg/kg
-
-|
-
-E 957
-
-|
-
-Thaumatine
-
-|
 
 |
 
@@ -3124,7 +3152,9 @@ Thaumatine
 
 |
 
-(*3) E 957
+(*3)
+
+E 957
 
 |
 
@@ -3192,6 +3222,90 @@ Protéines végétales
 
 |
 
+E 961
+
+|
+
+Néotame
+
+|
+
+Boissons aromatisées à base d'eau, à valeur énergétique réduite ou sans sucres ajoutés
+
+Boissons à base de lait et produits dérivés du lait ou boissons à base de jus de fruits, à valeur énergétique réduite ou sans sucres ajoutés
+
+|
+
+2 mg/l en tant qu'exhausteur de goût
+
+2 mg/l en tant qu'exhausteur de goût
+
+|
+
+|
+
+"Snacks” : amuse-gueules salés et secs à base d'amidon ou de fruits à coque enrobés, prêts à être consommés, préemballés et contenant certains arômes |
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Confiseries à base d'amidon à valeur énergétique réduite ou sans sucres ajoutés |
+
+3 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Microconfiserie pour rafraîchir l'haleine, sans sucres ajoutés |
+
+3 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Pastilles rafraîchissantes pour la gorge fortement aromatisées sans sucres ajoutés |
+
+3 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Chewing-gum avec sucres ajoutés |
+
+3 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Confitures, gelées et marmelades à valeur énergétique réduite |
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Sauces |
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 fournis sous forme liquide |
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 fournis sous forme solide |
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 à base de vitamines et/ou d'éléments minéraux et fournis sous forme de sirop ou sous forme à ne pas mâcher
+
+|
+
+2 mg/kg en tant qu'exhausteur de goût
+
+|
+
 E 999
 
 |
@@ -3210,9 +3324,7 @@ calculé en extrait anhydre
 
 |
 
-(*3) Cidre, à l'exclusion du cidre bouché
-
-|
+(*3) Cidre, à l'exclusion du cidre bouché |
 
 200 mg/l
 
@@ -3248,6 +3360,22 @@ Polyvinylpolypyrrolidone
 
 |
 
+E 1203
+
+|
+
+Alcool polyvinylique
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés
+
+|
+
+18 g/kg
+
+|
+
 E 1505
 
 |
@@ -3256,15 +3384,23 @@ Citrate de triéthyle
 
 |
 
-Blanc d'œuf séché
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés
 
 |
+
+3,5 g/kg
+
+|
+
+Blanc d'œuf séché |
 
 quantum satis
 
 |
 
-(*3) E 905
+(*3)
+
+E 905
 
 |
 
@@ -3372,7 +3508,9 @@ Konjac (*) i) Gomme de konjac ii) Glucomannane de konjac
 
 |
 
-(*12) E 907
+(*12)
+
+E 907
 
 |
 
@@ -3474,7 +3612,9 @@ Arômes pour :
 
 |
 
-(*15) E426
+(*15)
+
+E 426
 
 |
 
@@ -3554,7 +3694,9 @@ Confiseries gélifiées, à l'exception des produits de gelée en minibarquettes
 
 |
 
-(*15) E 1204
+(*15)
+
+E 1204
 
 |
 
@@ -3591,6 +3733,22 @@ Préparations de vitamines encapsulées dans les compléments alimentaires au se
 |
 
 35 g/kg dans le complément alimentaire (15*)
+
+|
+
+E 1521
+
+|
+
+Polyéthylène glycol
+
+|
+
+Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés
+
+|
+
+10 g/kg
 
 |
 

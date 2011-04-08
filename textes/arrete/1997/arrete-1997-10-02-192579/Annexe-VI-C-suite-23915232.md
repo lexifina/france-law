@@ -230,7 +230,7 @@ Pas plus de 1 mg/kg (8*)
 
 Synonyme : tartrate de calcium L
 
-Définition :
+DÉFINITION :
 
 Dénomination chimique : L(+)-2,3-dihydroxybutanedioate de calcium, dihydrate
 
@@ -588,7 +588,7 @@ EDTA de calcium disodium
 
 Edétate de calcium disodium
 
-DEFINITION :
+DÉFINITION :
 
 Dénomination chimique : N,N'-1,2-Ethanediylbis [N-(carboxyméthyl)-glycinate](4-)­-O,O',ON,ON]calciate(2)-disodium
 
@@ -614,7 +614,7 @@ B. Activité chélatante avec des ions métalliques positifs.
 
 C. Une solution à 1 % doit présenter un pH compris entre 6,5 et 7,5.
 
-PURETE
+PURETÉ
 
 Teneur en eau
 
@@ -655,6 +655,124 @@ Métaux lourds (exprimés en Pb)
 Pas plus de 10 mg/kg
 
 |
+
+E 392 EXTRAITS DE ROMARIN
+
+SPÉCIFICATION GÉNÉRALE
+
+Synonyme : Extrait de feuille de romarin (antioxydant).
+
+DÉFINITION : Les extraits de romarin contiennent plusieurs composants dont il a été démontré qu'ils possèdent des fonctions antioxydantes. Ces composants appartiennent principalement aux catégories des acides phénoliques, des flavonoïdes et des diterpénoïdes. Outre les composés antioxydants, les extraits peuvent également contenir les triterpènes et les matières extractibles au solvant organique défini dans la spécification suivante.
+
+EINECS : 283-291-9
+
+Dénomination chimique : extrait de romarin (Rosmarinus officinalis).
+
+Description : L'antioxydant qu'est l'extrait de feuille de romarin est obtenu par extraction à partir de feuilles de Rosmarinus officinalis au moyen d'un système de solvants autorisé pour les aliments. Les extraits peuvent ensuite être désodorisés et décolorés ; ils peuvent être normalisés.
+
+IDENTIFICATION :
+
+Composés antioxydants de référence : diterpènes phénoliques : acide carnosique (C20H28O4) et carnosol (C20H26O4) (représentant pas moins de 90 % du total des diterpènes phénoliques).
+
+Matières volatiles de référence : bornéol, acétate de bornyle, camphre,1,8-cinéol, verbénone.
+
+Densité : > 0,25 g/ml.
+
+Solubilité : insoluble dans l'eau.
+
+PURETÉ
+
+Perte par déshydratation
+
+|
+
+< 5 %
+
+|
+
+Arsenic
+
+|
+
+Pas plus de 3 mg/kg
+
+|
+
+Plomb
+
+|
+
+Pas plus de 2 mg/kg
+
+|
+
+1. Extraits de romarin obtenus à partir de feuilles
+
+de romarin séchées par extraction à l'acétone
+
+Description : Les extraits de romarin sont obtenus à partir de feuilles de romarin séchées par extraction à l'acétone, filtration, purification, évaporation du solvant, puis séchage et tamisage pour obtenir une poudre fine ou un liquide.
+
+IDENTIFICATION :
+
+Teneur en composés antioxydants de référence : ≥ 10 % m/m (total de l'acide carnosique et du carnosol).
+
+Rapport antioxydants/ matières volatiles : (% total m/m d'acide carnosique et de carnosol) ≥ 15 (% m/m de matières volatiles de référence) (*).
+
+Solvants résiduels : acétone : pas plus de 500 mg/kg
+
+(*) Exprimé en pourcentage de matières volatiles totales dans l'extrait, mesuré par chromatographie en phase gazeuse - spectrométrie de masse, "CPG-SM").
+
+2. Extraits de romarin préparés par extraction à partir de feuilles de romarin
+
+séchées au moyen d'anhydride carbonique supercritique
+
+Description : Extraits de romarin obtenus à partir de feuilles de romarin séchées par extraction au moyen d'anhydride carbonique supercritique accompagné d'une faible quantité d'éthanol en tant que solvant.
+
+IDENTIFICATION :
+
+Teneur en composés antioxydants de référence : ≥ 13 % m/m (total de l'acide carnosique et du carnosol).
+
+Rapport antioxydants/matières volatiles : (% total m/m d'acide carnosique et de carnosol) ≥ 15 (% m/m de matières volatiles de référence) (*).
+
+Solvants résiduels : éthanol : pas plus de 2 %.
+
+(*) Exprimé en pourcentage de matières volatiles totales dans l'extrait, mesuré par chromatographie en phase gazeuse - spectrométrie de masse, "CPG-SM").
+
+3. Extraits de romarin préparés
+
+à partir d'extrait éthanolique désodorisé de romarin
+
+Description : Extraits de romarin préparés à partir d'extrait éthanolique désodorisé de romarin. Les extraits peuvent être purifiés davantage, par exemple par un traitement au charbon actif ou par distillation moléculaire ; ils peuvent être mis en suspension dans des milieux appropriés et approuvés ou atomisés.
+
+IDENTIFICATION :
+
+Teneur en composés antioxydants de référence : ≥ 5 % m/m (total de l'acide carnosique et du carnosol).
+
+Rapport antioxydants/matières volatiles : (% total m/m d'acide carnosique et de carnosol) ≥ 15 (% m/m de matières volatiles de référence) (*).
+
+Solvants résiduels : éthanol : pas plus de 500 mg/kg.
+
+(*) Exprimé en pourcentage de matières volatiles totales dans l'extrait, mesuré par chromatographie en phase gazeuse - spectrométrie de masse, "CPG-SM").
+
+4. Extraits de romarin décolorés et désodorisés obtenus
+
+par une extraction en deux phases au moyen d'hexane et d'éthanol
+
+Description : Extraits de romarin préparés à partir d'extrait éthanolique désodorisé de romarin soumis à une extraction à l'hexane. Les extraits peuvent être purifiés davantage, par exemple par un traitement au charbon actif ou par distillation moléculaire ; ils peuvent être mis en suspension dans des milieux appropriés et approuvés ou atomisés.
+
+IDENTIFICATION :
+
+Teneur en composés antioxydants de référence : ≥ 5 % m/m (total de l'acide carnosique et du carnosol).
+
+Rapport antioxydants/matières volatiles : (% total m/m d'acide carnosique et de carnosol) ≥ 15 (% m/m de matières volatiles de référence) (*).
+
+Solvants résiduels :
+
+Hexane : pas plus de 25 mg/kg ;
+
+Ethanol : pas plus de 500 mg/kg.
+
+(*) Exprimé en pourcentage de matières volatiles totales dans l'extrait, mesuré par chromatographie en phase gazeuse - spectrométrie de masse, "CPG-SM").
 
 (*3) E 400 - ACIDE ALGINIQUE (3*)
 
@@ -788,7 +906,7 @@ absence dans 10 g (17*)
 
 E 401 - ALGINATE DE SODIUM
 
-(*17) Définition :
+(*17) DÉFINITION :
 
 Dénomination chimique : sel sodique de l'acide alginique
 
@@ -896,7 +1014,7 @@ absence dans 10 g (17*)
 
 E 402 - ALGINATE DE POTASSIUM
 
-(*17) Définition :
+(*17) DÉFINITION :
 
 Dénomination chimique : sel potassique de l'acide alginique
 
@@ -1004,7 +1122,7 @@ absence dans 10 g (17*)
 
 E 403 - ALGINATE D'AMMONIUM
 
-(*17) Définition :
+(*17) DÉFINITION :
 
 Dénomination chimique : sel ammoniacal de l'acide alginique
 
@@ -1122,7 +1240,7 @@ E 404 - ALGINATE DE CALCIUM
 
 (17*) Synonyme : Sel calcique de l'alginate
 
-Définition :
+DÉFINITION :
 
 Dénomination chimique : sel calcique de l'acide alginique
 
@@ -1230,7 +1348,7 @@ Ester de propane-1,2-diol de l'acide alginique
 
 Alginate de propylène glycol
 
-Définition :
+DÉFINITION :
 
 Dénomination chimique : ester de propane-1,2-diol de l'acide alginique. La composition : varie selon le degré d'estérification et les pourcentages de groupements carboxyles libres et neutralisés dans la molécule.
 
@@ -1366,17 +1484,13 @@ Layor Carang
 
 DÉFINITION :
 
-Dénomination chimique :
-
-L'agar-agar est un polysaccharide colloïdal hydrophile constitué essentiellement d'unités de D-galactose. Dans environ 10 % des unites de D-galactopyranose, un des groupements hydroxyles est estérifié par l'acide sulfurique neutralisé par le calcium, le magnésium, le potassium ou le sodium. Il est extrait de certaines souches naturelles d'algues marines des familles Gelidiaceae et Sphaerococcaceae et des algues rouges apparentées de la classe des Rhodophyceae.
+Dénomination chimique : L'agar-agar est un polysaccharide colloïdal hydrophile constitué essentiellement d'unités de D-galactose. Dans environ 10 % des unites de D-galactopyranose, un des groupements hydroxyles est estérifié par l'acide sulfurique neutralisé par le calcium, le magnésium, le potassium ou le sodium. Il est extrait de certaines souches naturelles d'algues marines des familles Gelidiaceae et Sphaerococcaceae et des algues rouges apparentées de la classe des Rhodophyceae.
 
 EINECS : 232-658-1
 
 Composition : La concentration maximale en gel ne devrait pas dépasser 0,25 %.
 
-Description :
-
-L'agar-agar est inodore ou présente une légère odeur caractéristique. L'agar-agar non broyé se présente généralement sous forme de faisceaux de fines bandes agglutinées membraneuses ou sous forme de morceaux coupés, de granules ou de paillettes. Il peut être jaunâtre orange, jaunâtre gris à jaune pâle ou incolore. Il est résistant à l'état humide et friable à l'état sec. L'agar-agar en poudre est de couleur blanche à jaunâtre-blanche ou jaune pâle. À l'examen dans l'eau au microscope, l'agar-agar apparaît granuleux et légèrement filamenteux. Quelques fragments de spicules d'éponges et frustules de diatomées peuvent être présentes. Dans une solution d'hydrate de chloral, l'agar-agar en poudre apparaît plus transparent que dans l'eau, plus ou moins granulaire, strié et angulaire; il contient parfois des frustules de diatomées. La rigidité du gel peut être normalisée par l'addition de dextrose et de maltodextrines ou de saccharose.
+Description : L'agar-agar est inodore ou présente une légère odeur caractéristique. L'agar-agar non broyé se présente généralement sous forme de faisceaux de fines bandes agglutinées membraneuses ou sous forme de morceaux coupés, de granules ou de paillettes. Il peut être jaunâtre orange, jaunâtre gris à jaune pâle ou incolore. Il est résistant à l'état humide et friable à l'état sec. L'agar-agar en poudre est de couleur blanche à jaunâtre-blanche ou jaune pâle. À l'examen dans l'eau au microscope, l'agar-agar apparaît granuleux et légèrement filamenteux. Quelques fragments de spicules d'éponges et frustules de diatomées peuvent être présentes. Dans une solution d'hydrate de chloral, l'agar-agar en poudre apparaît plus transparent que dans l'eau, plus ou moins granulaire, strié et angulaire; il contient parfois des frustules de diatomées. La rigidité du gel peut être normalisée par l'addition de dextrose et de maltodextrines ou de saccharose.
 
 IDENTIFICATION :
 
@@ -1642,7 +1756,7 @@ E 407a ALGUE EUCHEUMA TRAITÉE
 
 (17*) Synonymes : PES (sigle de "Processed Eucheuma Seaweed")
 
-Définition :
+DÉFINITION :
 
 L'algue Eucheuma transformée est obtenue par traitement alcalin aqueux (KOH) à partir de souches naturelles d'algues Eucheuma cottonii et Eucheuma spinosum, de la classe des Rhodophyceae (algues rouges), afin d'éliminer les impuretés et d'extraire le produit par lavage à l'eau claire et par dessiccation. La purification peut encore être améliorée par lavage au méthanol, à l'éthanol ou au propanol-2 et par dessiccation. Le produit se compose essentiellement des sels de potassium des esters sulfates de polysaccharides qui, à l'hydrolyse, donnent du galactose et du 3,6-anhydrogalactose. On trouve également des sels de sodium, de calcium et de magnésium, des esters sulfates de polysaccharides en moindres quantités. Le produit contient également jusqu'à 15 % de cellulose algale. Le carraghénane de l'algue Eucheuma transformée ne doit pas être hydrolysé ni avoir subi aucune autre dégradation chimique. La présence fortuite de formaldéhyde sous forme d'imPURETÉ est autorisée jusqu'à la limite maximale de 5 mg/kg.
 
@@ -3124,7 +3238,7 @@ Pas plus de 5 mg/kg
 
 (*8) E 425 (i) GOMME DE KONJAC
 
-Définition :
+DÉFINITION :
 
 La gomme de konjac est un hydrocolloïde soluble dans l'eau obtenu à partir de la farine de konjac par extraction aqueuse. La farine de konjac est le produit brut non raffiné tiré de la racine de la plante pérenne Amorphophallus konjac. Le principal constituant de la gomme de konjac est le glucomannane, polysaccharide de poids moléculaire élevé soluble dans l'eau, composé d'unités de D-mannose et de D-glucose dans un rapport molaire de 1,6 pour 1, reliées par des liaisons glycosidiques en β (1-4). Des chaînes plus courtes sont reliées par des liaisons glycosidiques en β (1­3) et des groupes acétyles se positionnent de façon aléatoire à raison d'environ un groupe pour 9 à 15 unités de sucres.
 
@@ -3220,7 +3334,7 @@ Absence dans 5 g (8*)
 
 (*8) E 425 (ii) Glucomannane de Konjac
 
-Définition :
+DÉFINITION :
 
 Le glucomannane de konjac est un hydrocolloïde soluble dans l'eau obtenu à partir de la farine de konjac par lavage avec de l'éthanol contenant l'eau. La farine de konjac est le produit brut non raffiné tiré de la racine tubéreuse de la plante pérenne Amorphophallus konjac. Le principal constituant est le glucomannane, polysaccharide de poids moléculaire élevé soluble dans l'eau, composé d'unités de D-mannose et de D-glucose dans un rapport molaire de 1,6 pour 1, reliées par des liaisons glycosidiques en β (1-4) avec une ramification toutes les 50 ou 60 unités environ. On trouve un groupement acétyle tous les 19 résidus de sucre environ.
 
@@ -3332,13 +3446,13 @@ Absence dans 5 g (8*)
 
 DÉFINITION :
 
-L'hémicellulose de soja est un polysaccharide raffiné soluble dans l'eau obtenu à partir de souches naturelles de fibre de soja par extraction à l'eau chaude.
+L'hémicellulose de soja est un polysaccharide raffiné hydrosoluble obtenu à partir de souches naturelles de fibre de soja par extraction à l'eau chaude. Aucun précipitant organique ne peut être utilisé à l'exception de l'éthanol.
 
 Dénominations chimiques : Polysaccharides de soja solubles dans l'eau ; Fibres de soja solubles dans l'eau.
 
 Composition : pas moins de 74 % d'hydrates de carbone.
 
-DESCRIPTION : Poudre blanche fluide atomisée.
+DESCRIPTION : Poudre fluide blanche ou blanc jaunâtre.
 
 IDENTIFICATION :
 
@@ -3427,6 +3541,112 @@ E. coli
 Négatif dans 10 g (16*)
 
 |
+
+Ethanol
+
+|
+
+Pas plus de 2 % |
+
+E 427 GOMME CASSIA
+
+DÉFINITION :
+
+La gomme cassia est l'endosperme moulu et purifié des graines de Cassia tora et de Cassia obtusifoli (Leguminosae) contenant moins de 0,05 % de Cassia occidentalis. Elle consiste essentiellement en polysaccharides de masses moléculaires élevées principalement composés d'une chaîne linéaire d'unités de 1,4-β-D-mannopyranose auxquelles se rattachent des unités de 1,6-α-D-galactopyranose. Le rapport mannose/galactose est d'environ 5/1. Pendant la fabrication, les graines sont décortiquées et dégermées par traitement thermique mécanique, puis par mouture et criblage de l'endosperme. L'endosperme moulu est purifié davantage par extraction à l'isopropanol.
+
+Composition : pas moins de 75 % de galactomannane.
+
+Description : Poudre inodore de couleur jaune pâle à blanc cassé.
+
+IDENTIFICATION :
+
+Solubilité : insoluble dans l'éthanol. Se disperse bien dans l'eau froide en formant une solution colloïdale.
+
+Gélification à l'aide de borate : ajouter suffisamment de solution d'essai de borate de sodium à la dispersion aqueuse de l'échantillon pour élever le pH au-dessus de 9. Il y a gélification.
+
+Gélification à l'aide de gomme xanthane : peser 1,5 g de l'échantillon et 1,5 g de gomme xanthane, puis mélanger. Verser le mélange (en remuant vivement) dans 300 ml d'eau à 80 °C contenus dans un bécher de 400 ml. Remuer jusqu'à ce que le mélange soit dissous et continuer de remuer pendant 30 minutes supplémentaires après la dissolution (maintenir la température au-dessus de 60 °C pendant le remuement). Arrêter de remuer et laisser refroidir le mélange à température ambiante pendant au moins 2 heures Il y a formation d'un gel viscoélastique ferme quand la température baisse au-dessous de 40 °C, mais aucun gel de ce type ne se forme dans une solution de contrôle à 1 % de gomme cassia ou de gomme xanthane seulement, préparée d'une manière semblable.
+
+Viscosité : moins de 500 mPa.s (25 °C, 2 heures, solution à 1 %) correspondant à une masse moléculaire moyenne de 200 000-300 000 Da.
+
+PURETÉ
+
+Matières insolubles dans l'acide |
+
+Pas plus de 2 % |
+
+pH
+
+|
+
+5,5-8 (solution aqueuse à 1 %)
+
+|
+
+Matières grasses brutes
+
+|
+
+Pas plus de 1 %
+
+|
+
+Protéines
+
+|
+
+Pas plus de 7 %
+
+|
+
+Cendres totales
+
+|
+
+Pas plus de 1,2 %
+
+|
+
+Perte par déshydratation
+
+|
+
+Pas plus de 12 % (5 heures, 105 °C)
+
+|
+
+Anthraquinones totaux
+
+|
+
+Pas plus de 0,5 mg/kg (limite de détection)
+
+|
+
+Solvants résiduels
+
+|
+
+Pas plus de 750 mg/kg d'alcool isopropyle
+
+|
+
+Plomb
+
+|
+
+Pas plus de 1 mg/kg
+
+|
+
+Critères microbiologiques :
+
+Comptage total sur plaque : pas plus de 5 000 unités formant colonie par gramme.
+
+Levures et moisissures : pas plus de 100 unités formant colonie par gramme.
+
+Salmonella spp. : absence dans 25 g.
+
+E. Coli : absence dans 1 g.
 
 (*12) E 431 STÉARATE DE POLYOXYÉTHYLÈNE (40)
 

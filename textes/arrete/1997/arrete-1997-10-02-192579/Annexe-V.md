@@ -672,6 +672,22 @@ Hydroxyde de calcium
 
 |
 
+E 920
+
+|
+
+L-cystéine
+
+|
+
+Biscuits pour nourrissons et enfants en bas âge
+
+|
+
+1 g/kg
+
+|
+
 E 500
 
 |

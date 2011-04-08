@@ -1184,15 +1184,33 @@ E 333 Citrates de calcium
 
 |
 
-Préparations de viande hachée fraîche, préemballées
+Préparations de viande hachée fraîche préemballées
+
+|
+
+E 261 Acétate de potassium
+
+|
+
+quantum satis
+
+|
+
+E 262i Acétate de sodium
+
+|
+
+|
+
+E 262ii Diacétate de sodium
+
+|
 
 |
 
 E 300 Acide ascorbique
 
 |
-
-quantum satis
 
 |
 
@@ -1203,6 +1221,18 @@ E 301 Ascorbate de sodium
 |
 
 E 302 Ascorbate de calcium
+
+|
+
+|
+
+E 325 Lactate de sodium
+
+|
+
+|
+
+E 326 Lactate de potassium
 
 |
 
@@ -1657,6 +1687,56 @@ E 415 Gomme xanthane
 |
 
 Quantum satis (12*)
+
+|
+
+Produits à base de crème fermentée au moyen de ferments vivants non aromatisés et produits de substitution ayant une teneur en matière grasse inférieure à 20 %
+
+|
+
+E 406 Agar-agar
+
+E 407 Carraghénanes
+
+E 410 Farine de graines de caroube
+
+E 412 Gomme guar
+
+E 415 Gomme xanthane
+
+E 440 Pectines
+
+E 460 Cellulose
+
+E 466 Carboxyméthylcellulose
+
+E 471 Mono- et diglycérides d'acides gras
+
+E 1404 Amidon oxydé
+
+E 1410 Phosphate de monoamidon
+
+E 1412 Phosphate de diamidon
+
+E 1413 Phosphate de diamidon phosphaté
+
+E 1414 Phosphate de diamidon acétylé
+
+E 1420 Amidon acétylé
+
+E 1422 Adipate de diamidon acétylé
+
+E 1440 Amidon hydroxypropylé
+
+E 1442 Phosphate de diamidon hydroxypropylé
+
+E 1450 Octényle succinate d'amidon sodique
+
+E 1451 Amidon oxydé acétylé
+
+|
+
+quantum satis
 
 |
 

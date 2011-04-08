@@ -812,9 +812,11 @@ Diméthylpolysiloxane
 
 |
 
+E 1521
+
 |
 
-Polyéthylèneglycol 6000
+Polyéthylène glycol
 
 |
 
