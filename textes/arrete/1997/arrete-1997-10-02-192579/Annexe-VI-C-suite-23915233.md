@@ -1888,7 +1888,7 @@ R1, R2 R3 peuvent être :
 
 Poids moléculaire : D'environ 30 000 à environ 1 000 000
 
-Composition : Pas moins de 80,5 % de groupements hydroxypropoxyles (-OCH2CHOHCH3), équivalant à 4,6 groupements hydroxypropyles au plus par unité d'anhydroglucose sur la substance anhydre.
+Composition : pas plus de 80,5 % de groupements hydroxypropoxyles (-OCH2CHOHCH3), équivalant à 4,6 groupements hydropropoxyles au plus par unité d'anhydroglucose sur la substance anhydre.
 
 Description : Poudre granuleuse ou fibreuse, blanche ou légèrement jaunâtre ou grisâtre, légèrement hygroscopique, inodore et insipide.
 
