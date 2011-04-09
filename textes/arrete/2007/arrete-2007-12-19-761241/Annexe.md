@@ -1,16 +1,12 @@
 # Article Annexe
 
-CARACTÉRISTIQUES DU CHÈQUE EMPLOI-SERVICE UNIVERSEL
+CARACTÉRISTIQUES DU CHÈQUE EMPLOI-SERVICE UNIVERSEL AYANT LA NATURE D'UN TITRE SPÉCIAL DE PAIEMENT
 
-AYANT LA NATURE D'UN TITRE SPÉCIAL DE PAIEMENT
-
-Dans le présent document, le chèque emploi-service universel ayant la nature d'un titre spécial de paiement, ou chèque emploi-service universel préfinancé », est également dénommé CESU préfinancé ».
+Dans le présent document, le chèque emploi-service universel ayant la nature d'un titre spécial de paiement, ou "chèque emploi-service universel préfinancé", est également dénommé "CESU préfinancé".
 
 Caractéristiques techniques et de sécurité du chèque emploi-service universel préfinancé, émis sur support papier ou sous forme dématérialisée
 
-1. Dispositifs organisationnels et techniques relatifs
-
-à la sécurité des processus
+1. Dispositifs organisationnels et techniques relatifs à la sécurité des processus
 
 L'organisme candidat à l'habilitation d'émetteur de chèques emploi-service universels, préfinancés sur support papier ou l'émetteur habilité souhaitant obtenir une extension de son habilitation à l'émission de chèques emploi-service universels, préfinancés sous forme dématérialisée décrit, de manière précise, dans le dossier qu'il transmet à l'Agence nationale des services à la personne l'ensemble des dispositifs organisationnels et techniques qu'il prévoit de mettre en oeuvre pour assurer la sécurité des processus afférents aux chèques emploi-service préfinancés, en reprenant les points figurant dans la sous-annexe au présent document.
 
@@ -18,7 +14,7 @@ L'organisme candidat à l'habilitation d'émetteur de chèques emploi-service un
 
 2. 1. Caractéristiques du papier
 
-Le papier utilisé pour l'impression du chèque emploi-service universel préfinancé doit respecter la norme NF Q 14-004 Caractéristiques du papier pour impression en caractères magnétiques », être sans azurant optique, réactif aux solvants et d'un grammage de 95 g / m ².
+Le papier utilisé pour l'impression du chèque emploi-service universel préfinancé doit respecter la norme NF Q 14-004 Caractéristiques du papier pour impression en caractères magnétiques , être sans azurant optique, réactif aux solvants et d'un grammage de 95 g / m ².
 
 2. 2. Dimensions utiles
 
@@ -78,7 +74,9 @@ Le recto du chèque emploi-service universel préfinancé est personnalisé avec
 
 5° Le cas échéant, la ou les catégories de services pour le règlement desquelles le CESU préfinancé peut être utilisé (art.L. 129-8 du code du travail, premier alinéa) ;
 
-6° En bas du CESU préfinancé, une ligne de caractères codée selon la norme CMC7 NF Z 63-001 Caractères magnétiques imprimés CMC7. Spécifications jeux de chiffres et de symboles », qui reprend toutes les informations caractérisant le CESU préfinancé.
+6° En bas du CESU préfinancé, une ligne de caractères codée selon la norme CMC7 NF Z 63-001 Caractères magnétiques imprimés CMC7. Spécifications jeux de chiffres et de symboles , qui reprend toutes les informations caractérisant le CESU préfinancé ;
+
+7° Dans les cas où le CESU constitue le moyen de paiement d'une prestation sociale légale ou facultative, le recto du CESU est personnalisé avec la mention "CESU prestation sociale".
 
 Possibilité de mentions complémentaires personnalisées :
 
@@ -110,9 +108,7 @@ L'émetteur doit prendre toutes les dispositions pour empêcher que les fonds g�
 
 La dématérialisation de l'émission vise à rendre l'utilisation du CESU préfinancé plus fluide par la diversité de ses formes et ne doit pas poser de contraintes supplémentaires, autres que celles qui résultent des technologies utilisées, aux circuits existants et agréés.L'acceptation de la dématérialisation doit être explicite pour l'ensemble des acteurs du circuit et ne pas entraîner de refus d'utilisation du CESU préfinancé par l'un des acteurs au motif de l'impossibilité d'obtenir des CESU préfinancés sous la forme appropriée à ses contraintes.
 
-3. 2. Caractéristiques génériques du CESU préfinancé
-
-lorsqu'il est émis sous forme dématérialisée
+3. 2. Caractéristiques génériques du CESU préfinancé lorsqu'il est émis sous forme dématérialisée
 
 La faculté d'émettre du CESU préfinancé dématérialisé impose des règles spécifiques de sécurité aux systèmes d'information des émetteurs, particulièrement au regard des risques de fraude au niveau des systèmes amenés à détenir des cumuls de capitaux importants ainsi que des risques d'accès illicites.
 
@@ -148,7 +144,7 @@ Les fonds peuvent être utilisés sans contrainte de fractionnement.
 
 Les modalités de chargement et de rechargement des comptes doivent être précisées.
 
-S O U S-A N N E X E
+SOUS-ANNEXE
 
 PRESCRIPTIONS RELATIVES À LA SÉCURITÉ DES PROCESSUS AFFÉRENTS AU CHÈQUE EMPLOI-SERVICE UNIVERSEL PRÉFINANCÉ À RESPECTER DANS L'ÉTABLISSEMENT DES DOSSIERS PRÉSENTÉS
 
@@ -166,9 +162,7 @@ Description des moyens de protection mis en oeuvre pour assurer la sécurité ph
 
 Description des modalités mises en oeuvre pour vérifier la conformité des CESU préfinancés fabriqués aux caractéristiques techniques qui leur sont applicables. Description des traitements appliqués aux titres non conformes.
 
-Processus de dématérialisation de l'émission
-
-des CESU préfinancés
+Processus de dématérialisation de l'émission des CESU préfinancés
 
 Description du type de support choisi et du processus technique de constitution des fonds correspondants à l'émission de CESU préfinancés sous forme dématérialisée. Description des règles de sécurité s'appliquant à la procédure.
 
