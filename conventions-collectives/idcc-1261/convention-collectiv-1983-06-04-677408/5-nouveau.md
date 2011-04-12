@@ -1,34 +1,68 @@
-# Article 5 (nouveau)
+# Article 5
 
-Le compte épargne-temps a pour objet, conformément à la loi, de permettre au salarié qui le désire d'accumuler certains droits à congé rémunéré.
+Les partenaires sociaux, soucieux d'inciter à et/ ou de faciliter une gestion plus prévisionnelle du temps de travail décident d'élargir le dispositif conventionnel de compte épargne-temps (CET) tel que prévu à l'article 5 du chapitre IV de la convention collective.
 
-Les dispositions prévues par le présent accord s'appliquent aux entreprises dans lesquelles n'existe pas d'accord d'entreprise sur le compte épargne-temps.
+Le compte épargne-temps ainsi mis en place s'intègre dans le cadre prévu par le législateur.
 
-5.1. Mise en oeuvre
+Le présent accord n'a pas pour effet de rendre obligatoire la mise en place d'un compte épargnetemps dans l'ensemble des entreprises de la branche.
 
-La mise en oeuvre à l'initiative de l'employeur d'un compte épargne-temps dans une entreprise ou un établissement, pour les salariés qui le désirent, doit faire l'objet d'une négociation dans les entreprises ou établissements où existent des délégués syndicaux. Lorsque, dans ces entreprises ou établissements, la négociation engagée en application de l'alinéa ci-dessus n'a pas abouti à la conclusion d'un accord, l'employeur peut procéder à la mise en place d'un compte épargne-temps, après consultation des délégués du personnel, s'il en existe.
+Article 5.1
 
-Dans les entreprises ou établissements non dotés de représentants du personnel, cette mise en oeuvre doit faire l'objet d'une information préalable des salariés.
+Mise en œuvre
 
-5.2. Ouverture et tenue du compte
+La mise en œuvre à l'initiative de l'employeur d'un compte épargne-temps dans une entreprise ou un établissement, pour les salariés qui le désirent, doit faire l'objet d'une négociation dans les entreprises ou établissements où existent des délégués syndicaux ou, à défaut, des représentants du personnel en capacité de conclure des accords collectifs. Lorsque, dans ces entreprises ou établissements, la négociation engagée en application de l'alinéa ci-dessus n'a pas abouti à la conclusion d'un accord, l'employeur peut procéder à la mise en place du présent compte épargne-temps.
 
-Dans les entreprises ayant institué un compte épargne-temps dans les conditions visées ci-dessus, une information écrite est remise par la direction à chaque salarié sur les modalités de fonctionnement du compte épargne-temps. L'ouverture d'un compte et son alimentation sont à l'initiative exclusive du salarié.
+Dans les entreprises dépourvues de représentants du personnel en capacité de conclure des accords collectifs, l'employeur pourra mettre en place un dispositif de compte épargne-temps selon les modalités et conditions suivantes énoncées ci-après.
 
-Tout salarié ayant au moins 1 an d'ancienneté dans l'entreprise, dès lors qu'il est sous contrat de travail à durée indéterminée (1), peut ouvrir un compte épargne-temps.
+Article 5.2
 
-Ce compte est ouvert sur simple demande individuelle écrite mentionnant précisément quels sont les droits que le salarié entend affecter au compte épargne-temps.
+Ouverture et tenue du compte
 
-Le choix des éléments à affecter au compte épargne-temps est fixé par le salarié pour une année civile. Le compte individuel est tenu par l'employeur qui doit remettre au salarié un document individuel à l'issue de chaque période annuelle. Le salarié qui souhaite continuer à épargner doit notifier ses choix pour l'année à venir par écrit à l'employeur, au plus tard avant la fin du premier mois de la nouvelle période.
+Dans les entreprises instituant un compte épargne-temps dans les conditions visées ci-dessus, une information écrite est remise par la direction à chaque salarié sur les modalités de fonctionnement du compte épargne-temps.
 
-5.3. Alimentation du compte (2)
+Dans les entreprises ayant institué un compte épargne-temps, tout salarié ayant au moins 1 an d'ancienneté dans l'entreprise peut ouvrir un compte épargne-temps.
 
-En l'absence d'accord d'entreprise déterminant des conditions différentes, chaque salarié peut affecter à son compte une partie des jours de repos attribués au titre de la réduction de la durée du travail.
+Ce compte est ouvert sur simple demande individuelle écrite du salarié.
 
-5.4. Utilisation du compte épargne-temps
+Le compte individuel est tenu par l'employeur qui doit remettre au salarié un état récapitulatif des droits inscrits sur le compte individuel à l'issue de chaque période annuelle.
 
-Le compte épargne-temps ne peut être utilisé que pour indemniser les congés désignés ci-après :
+Article 5.3
+
+Alimentation du compte
+
+Le compte épargne-temps peut être alimenté jusqu'à 8 jours par an (année civile) à hauteur de 3 jours maximum à l'initiative de l'employeur ; 5 jours maximum à l'initiative du salarié.
+
+Par exception, la limite de 8 jours peut être dépassée avec l'accord de l'employeur pour les salariés âgés de plus de 55 ans dans la limite de 15 jours à hauteur de 6 jours maximum à l'initiative de l'employeur ; 9 jours maximum à l'initiative du salarié.
+
+Peuvent être ainsi affectés au compte épargne-temps, dans les conditions et limites définies par la loi et les dispositions du présent accord collectif, les éléments suivants :
+
+5.3.1. A l'initiative du salarié :
+
+- une partie des jours de repos accordés au titre d'un régime de réduction du temps de travail (jours de RTT) ;
+
+- les jours de congés supplémentaires tels que prévus à l'article 2 du chapitre VI de la convention collective ;
+
+- les heures de repos acquises au titre des heures supplémentaires qu'il s'agisse du repos compensateur équivalent (RCE) ou de la contrepartie obligatoire en repos (COR).
+
+Le choix des éléments à affecter au compte épargne-temps à l'initiative du salarié est fixé par celui-ci pour une année civile. Le salarié qui souhaite continuer à épargner doit notifier ses choix pour l'année à venir par écrit à l'employeur, au plus tard avant la fin du premier mois de la nouvelle période.
+
+5.3.2. A l'initiative de l'employeur :
+
+- les heures effectuées au-delà de la durée collective du travail (et, notamment, en cas de modulation du temps de travail toute heure de travail, accomplie au-delà de la durée annuelle ou au-delà de la durée maximale hebdomadaire fixée à l'article 1.3.3 du chapitre IV de la convention collective) ;
+
+- les heures de dépassement effectuées au-delà de la durée annuelle de travail d'un salarié en contrat à durée indéterminée intermittent ou à temps partiel aménagé et, le cas échéant, les majorations résultant de l'accomplissement de ces heures de dépassement.
+
+Article 5.4
+
+Utilisation du compte
+
+Les jours épargnés au compte épargne-temps peuvent être utilisés, selon les modalités prévues par la loi et par le présent accord, pour indemniser tout ou partie du :
 
 - congé parental d'éducation ;
+
+- congé sans solde pour prolongement d'un congé maternité, paternité ou d'adoption ;
+
+- congé sans solde ;
 
 - congé sabbatique ;
 
@@ -36,36 +70,44 @@ Le compte épargne-temps ne peut être utilisé que pour indemniser les congés 
 
 - congé pour convenance personnelle accepté par l'employeur ;
 
-- congé formation ;
+- congé de formation effectué en dehors du temps de travail effectif ;
 
-- congé pour départ anticipé à la retraite.
+- congé de solidarité internationale.
 
-Ces congés sont pris dans les conditions et selon les modalités prévues par la loi à l'initiative du salarié après accord de l'employeur.
+Les salariés âgés de 55 ans ou plus pourront utiliser le compte épargne-temps afin d'aménager la fin de carrière dans le cadre d'un aménagement de leur temps de travail ou de la prise d'un congé de fin de carrière. Dans tel cas, le salarié devra en faire la demande par écrit à l'employeur au moins 4 mois avant la date de prise d'effet souhaitée. En tout état de cause, le congé de fin de carrière devra précéder directement la date de départ à la retraite.
 
-5.5. Situation du salarié pendant le congé
+Article 5.5
 
-5.5.1. Indemnisation du salarié.
+Délais de prise du congé CET
 
-Le salarié bénéficie pendant son congé d'une indemnisation calculée sur la base de son salaire au moment du départ, dans la limite du nombre d'heures de repos capitalisées.
+Les droits à congés capitalisés dans le CET devront être utilisés dans un délai maximum de 5 ans à compter du jour de leur affectation.
 
-L'indemnité sera versée aux mêmes échéances que les salaires dans l'entreprise.
+Lorsque le salarié est âgé de plus de 55 ans, la période dans laquelle il doit utiliser ses droits à congés est de 7 ans.
 
-5.5.2. Statut du salarié en congé.
+Article 5.6
 
-L'absence du salarié pendant la durée indemnisée du congé est assimilée à un temps de travail effectif pour le calcul de l'ensemble des droits légaux et conventionnels liés à l'ancienneté.
+Situation du salarié pendant le congé CET
 
-5.5.3. Cessation et transmission du compte.
+Dans la limite de la période d'indemnisation couverte par l'utilisation du compte épargne-temps, le salarié bénéficiera du maintien de salaire sur la base du salaire fixe mensuel au moment de la prise du congé.
 
-Si le contrat de travail est rompu avant l'utilisation du compte, le salarié perçoit une indemnité correspondant aux droits acquis après déduction des charges salariales et patronales acquittées par l'employeur.
+Article 5.7
 
-Le montant de cette indemnité est calculé compte tenu du nombre d'heures épargnées et du montant de la rémunération du salarié en vigueur à la date de la rupture. Elle est soumise au régime social et fiscal des salaires. L'indemnité compensatrice d'épargne-temps est versée dans tous les cas.
+Fin du congé CET
 
-La valeur du compte peut être transférée de l'ancien au nouvel employeur par accord écrit des 3 parties. Après le transfert, la gestion du compte s'effectuera conformément aux règles prévues par l'accord collectif applicable dans la nouvelle entreprise.
+A l'issue d'un congé pris dans le cadre du CET, le salarié reprend son précédent emploi ou un emploi équivalent assorti d'une rémunération équivalente à celle qu'il percevait au moment de son départ en congé.
 
-En l'absence de rupture du contrat de travail, le salarié qui souhaite renoncer à l'utilisation de son compte doit prévenir l'employeur 6 mois avant la date à laquelle il souhaite renoncer au compte épargne-temps. Les heures épargnées seront reprises sous forme de congé indemnisé à une ou des dates fixées en accord avec l'employeur.
+A l'issue d'un congé de fin de carrière, le compte épargne-temps est définitivement clos à la date de rupture du contrat de travail.
 
-(1) Termes exclus de l'extension comme étant contraires aux dispositions du premier alinéa de l'article L. 122-3-3 du code du travail
+Le salarié ne pourra interrompre un congé pour convenance personnelle qu'avec l'accord de l'employeur, la date du retour anticipé étant alors fixée d'un commun accord.
 
-(arrêté du 4 décembre 2003, art. 1er).
+Article 5.8
 
-(2) Article étendu sous réserve de l'application des dispositions du sixième alinéa de l'article L. 227-1 du code du travail (arrêté du 4 décembre 2003, art. 1er).
+Cessation du CET
+
+La rupture du contrat de travail, pour quel que motif que ce soit, entraîne la clôture du compte épargne-temps.
+
+Le salarié perçoit alors une indemnité égale au produit du nombre d'heures ou du nombre de jours inscrits au compte épargne-temps par le salaire fixe mensuel de base en vigueur à la date de la rupture.
+
+En cas de départ à la retraite, par dérogation à l'alinéa précédent, les droits inscrits au compte épargne-temps doivent être intégralement liquidés sous la forme de prise de congé rémunéré. Aucune indemnité compensatrice d'épargne-temps ne sera versée.
+
+Egalement en cas de décès du salarié durant la relation contractuelle, les droits inscrits au CET doivent être liquidés sous forme d'indemnité compensatrice d'épargne-temps aux ayants droit.
