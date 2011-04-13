@@ -20,14 +20,6 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou of
 
 |
 
-Albanie
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
 Algérie
 
 |
@@ -65,14 +57,6 @@ Bolivie
 |
 
 Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou officiel.
-
-|
-
-Bosnie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
 
 |
 
