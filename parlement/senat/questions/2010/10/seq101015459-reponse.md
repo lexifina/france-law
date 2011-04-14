@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015459
+
+- Question : [SEQ101015459](seq101015459.md) — Notion « d'aggravation de la situation » dans le cadre d'une reconnaissance de catastrophe naturelle
+
+## Réponse
+
+*Économie, JO du 2011-04-14, page 946*
+
+Suite à la reconnaissance d'une commune en état de catastrophe naturelle et conformément à l'article L. 121-17 du code des assurances, « les indemnités versées en réparation d'un dommage causé à un immeuble bâti doivent être utilisées pour la remise en état effective de cet immeuble ou pour la remise en état de son terrain d'assiette, d'une manière compatible avec l'environnement dudit immeuble ». En application de cet article, le sinistré, dont la commune a été reconnue en état de catastrophe naturelle suite à la sécheresse de 2004, est tenu d'utiliser les indemnisations versées par son assureur à une remise en état des bâtiments endommagés. La loi du 13 juillet 1982, fondement du régime d'indemnisation des victimes de catastrophes naturelles, subordonne l'intervention des assureurs à la constatation « par arrêté interministériel (de l'état de catastrophe naturelle) qui détermine les zones et les périodes où s'est située la catastrophe ». Les conséquences de chaque événement reconnu font l'objet d'un examen spécifique, indépendamment des éventuels dommages déjà occasionnés par des événements antérieurs. Par conséquent, les désordres qui seraient constatés sur les bâtiments en raison d'une nouvelle sécheresse survenue au cours de l'été 2009 doivent faire l'objet d'un examen spécifique. Une nouvelle demande communale de reconnaissance de l'état de catastrophe naturelle auprès de la préfecture compétente est donc nécessaire pour envisager une indemnisation des sinistrés dans le cadre du régime d'indemnisation des catastrophes naturelles.
