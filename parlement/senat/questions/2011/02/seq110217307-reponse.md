@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217307
+
+- Question : [SEQ110217307](seq110217307.md) — Avenir des aides à domicile
+
+## Réponse
+
+*Solidarités, JO du 2011-04-14, page 963*
+
+Dans le cadre de sa politique de réduction du déficit public et des dépenses d'intervention de l'État, le Parlement a décidé, par l'article 200 de la loi de finances pour 2011, de supprimer les exonérations de cotisations sociales pour les personnes non fragiles lorsque celles-ci ont recours à des services à domicile. Cette suppression entraîne une économie de d'ordre de 460 M€ pour le budget de l'État en 2011. En revanche, les exonérations destinées aux personnes fragiles, plus avantageuses, et qui s'élèvent à 1,6 Md€, ne sont pas remises en cause. Ces exonérations concernent : les bénéficiaires de l'allocation personnalisée d'autonomie (APA) et de la prestation compensatoire de handicap (PCH), les personnes âgées de plus de 60 ans ayant l'obligation de recourir à une tierce personne pour accomplir les actes quotidiens de la vie et les parents d'enfants handicapés. Les prestations fournies auprès de ces publics resteront donc exonérées à 100 % des cotisations patronales de sécurité sociale (hors les accidents du travail et maladies professionnelles-ATMP). Pour leur part, les personnes de plus de 70 ans continueront de bénéficier d'une exonération des cotisations patronales de sécurité sociale dans la limite de 65 fois le SMIC horaire par mois (hors ATMP). Enfin, le Gouvernement a toujours la volonté de continuer à soutenir un dispositif particulièrement créateur d'emploi. C'est pourquoi, pour l'ensemble des ménages, il maintient les avantages fiscaux dans leur intégralité, c'est-à-dire le crédit et la réduction d'impôt de 50 % des dépenses et le taux réduit ou nul de TVA, qui représentent plus de 4 Md€ d'aides envers ce secteur d'activité.
