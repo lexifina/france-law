@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216450
+
+- Question : [SEQ101216450](seq101216450.md) — Schéma national des infrastructures de transport
+
+## Réponse
+
+*Écologie, JO du 2011-04-14, page 945*
+
+Le schéma national des infrastructures de transport (SNIT), dont l'avant-projet consolidé a été présenté le 26 janvier dernier, constituera le document stratégique fixant les grandes orientations de l'État en matière d'infrastructures de transports relevant de sa compétence. Ainsi, ce document a vocation à ne retenir que les grands projets de nouvelles lignes ferroviaires, en raison de leur caractère structurant pour la desserte des territoires. Toutefois, cela ne remet nullement en cause l'intérêt que porte l'État à l'amélioration de la ligne Paris-Orléans-Limoges-Toulouse (POLT), comme en témoignent l'importance des investissements entrepris sur l'infrastructure ainsi que l'amélioration et la pérennisation des services existants. En effet, cette ligne a fait l'objet d'une amélioration constante ces dernières années grâce notamment à la mobilisation d'importants montants d'investissement à hauteur de 233 M€. Il s'agit principalement d'assurer le renouvellement de l'infrastructure, l'amélioration de la vitesse de circulation et la sécurité de l'axe en prévoyant notamment la suppression de passages à niveau. Depuis l'horaire de service 2008 et la mise en place de l'offre PALITO (Paris-Limoges-Toulouse), la liaison POLT est desservie par des trains Corail Teoz plus confortables et la durée du trajet a été réduite, afin notamment d'améliorer l'attractivité de la section Limoges-Toulouse. En outre, l'État et la SNCF, ont signé le lundi 13 décembre 2010 une convention relative aux « trains d'équilibre du territoire », permettant notamment de stabiliser le niveau de desserte sur le POLT, en assurant l'équilibre financier des liaisons existantes.
