@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217279
+
+- Question : [SEQ110217279](seq110217279.md) — Conséquences des « arrêts biologiques » sur la situation des pêcheurs
+
+## Réponse
+
+*Agriculture, JO du 2011-04-14, page 937*
+
+Le ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (MAAPRAT) est sensibilisé à la situation des pêcheurs méditerranéens depuis de nombreux mois. Les services du MAAPRAT ont été chargés d'apporter une solution aux problèmes de ressources que rencontraient ces professionnels, dus à la raréfaction du stock d'anchois et de sardines provoquant un report sur celui, déjà fragile, de merlu. C'est en réponse à cette problématique qu'ont été mises en place plusieurs mesures d'aide à la profession et de préservation de la ressource dont, notamment, des mesures d'arrêts biologiques. La première, en cours de réalisation, consiste en un arrêt temporaire de l'activité de pêche des chalutiers les plus dépendants de la pêche à l'anchois et à la sardine afin de permettre la reconstitution des stocks halieutiques et d'éviter les reports sur la pêcherie du merlu. Ces derniers peuvent, sur la base du volontariat, observer, entre le 1er mars et le 30 avril 2011, un arrêt de l'activité de pêche de 5 à 20 jours rémunérés. Un budget de 1,5 M€, cofinancé par l'État et l'Union européenne, est consacré à cette mesure. Un second dispositif analogue sera également mis en oeuvre pour les navires dépendants du merlu. Ces mesures ont été mises en place en pleine concertation et à la demande de la profession. Elles reposent sur la base du strict volontariat : aucun armement n'est contraint à cesser temporairement son activité. Les entreprises y participant sont indemnisées à hauteur de la perte économique qu'elles subissent du fait de leur arrêt d'activité.
