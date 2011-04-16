@@ -1,32 +1,28 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles (CCP) obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles (CCP) selon le tableau de correspondance figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de technicien supérieur du bâtiment en économie de la construction selon le tableau de correspondances figurant ci-dessous.
 
-ANCIEN TITRE
+TITRE PROFESSIONNEL TECHNICIEN(NE) SUPÉRIEUR(E)
 
-professionnel
+du bâtiment en économie de la construction
 
-|
-
-NOUVEAU TITRE
-
-professionnel
+(arrêté du 21 mars 2006)
 
 |
 
-Faire le métré tous corps d'état d'une opération de construction complexe.
+TITRE PROFESSIONNEL TECHNICIEN SUPÉRIEUR
+
+du bâtiment en économie de la construction
+
+(présent arrêté)
 
 |
 
-Faire le métré tous corps d'état d'une opération de construction complexe et l'estimer au bordereau ou aux ratios.
+Faire le métré tous corps d'état d'une opération de construction complexe et l'estimer au bordereau ou au ratio.
 
 |
 
-Estimer au bordereau ou au ratio une opération de construction complexe.
-
-|
-
-Réaliser l'étude technique d'un projet de construction complexe.
+Faire le métré tous corps d'état et la mise à prix au bordereau ou aux ratios d'une opération de construction complexe.
 
 |
 
@@ -34,15 +30,11 @@ Réaliser l'étude technique, décrire les ouvrages et maîtriser le budget d'un
 
 |
 
-Décrire les ouvrages d'une construction complexe.
+Mettre une construction en conformité avec les critères environnementaux et la réglementation.
 
 |
 
-Maîtriser le budget d'un projet de construction complexe.
-
-|
-
-Ordonnancer, planifier et coordonner une opération de construction.
+Finaliser l'étude d'un projet et le dossier de consultation des entreprises, en suivre financièrement la réalisation.
 
 |
 
@@ -50,18 +42,18 @@ Ordonnancer, planifier et coordonner une opération de construction complexe et 
 
 |
 
-Contrôler la facturation des travaux de construction.
+Mettre une construction en conformité avec les critères environnementaux et la réglementation.
 
 |
 
-Faire l'étude de prix aux déboursés d'une opération de construction complexe.
+Finaliser l'étude d'un projet et le dossier de consultation des entreprises, en suivre financièrement la réalisation.
 
 |
 
-Faire l'étude de prix aux déboursés et optimiser la rentabilité d'une opération de construction complexe.
+Faire l'étude de prix au déboursé et optimiser la rentabilité d'une opération de construction complexe.
 
 |
 
-Optimiser la rentabilité d'un chantier de construction complexe.
+Faire l'étude aux déboursés et optimiser les réponses aux appels d'offres pour des projets de construction.
 
 |
