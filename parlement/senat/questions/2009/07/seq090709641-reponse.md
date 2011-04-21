@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090709641
+
+- Question : [SEQ090709641](seq090709641.md) — Sécurité des chercheurs français de l'Institut français de recherche en Iran
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-04-21, page 1022*
+
+L'honorable parlementaire s'est enquis de la situation de l'Institut français de recherche en Iran (IFRI), dans le contexte de la détention de Mlle Clotilde Reiss. Mlle Clotilde Reiss a séjourné en Iran en tant que boursière de l'IFRI entre février et mai 2008. Lors d'un séjour ultérieur, non plus dans ce cadre mais en tant que lectrice de français à l'université d'Ispahan (depuis février 2009), le ministère iranien du travail a demandé le versement d'une amende, au motif que la bourse dont elle avait bénéficié de février à mai 2008 constituait une rémunération non déclarée. Répondant aux démarches de notre ambassade et de l'université d'Ispahan, le ministère du travail a finalement renoncé à cette demande. Mais, face au refus des autorités iraniennes de prolonger son visa, Mlle Clotilde Reiss n'a eu d'autre choix que de quitter l'Iran, ce qu'elle s'apprêtait à faire lorsqu'elle a été arrêtée, le 1er juillet, à l'aéroport de Téhéran. L'IFRI, dont le fonctionnement est placé sous l'autorité de l'ambassadeur, mais dont les locaux ne bénéficient pas de l'immunité diplomatique, souffre effectivement, depuis plusieurs années, d'une attitude suspicieuse et de tracasseries de la part de certains secteurs de l'État iranien. L'ambassade de France à Téhéran s'efforce de suivre au plus près les activités de cet institut et de soutenir ses chercheurs dans leurs rapports avec l'administration iranienne. Elle s'attache, dans la mesure du possible, à dissiper auprès des autorités iraniennes les malentendus qui peuvent exister, en privilégiant la transparence sur les thèmes de recherche abordés et le travail en partenariat avec des institutions académiques, culturelles ou éducatives locales.
