@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116911
+
+- Question : [SEQ110116911](seq110116911.md) — Préparation du concours d'infirmière
+
+## Réponse
+
+*Travail, JO du 2011-04-21, page 1066*
+
+La question de la prise en charge financière par l'employeur de la formation infirmière pour les aides-soignants qui ont réussi le concours d'entrée à l'institut de formation des soins infirmiers (IFSI) est liée à l'augmentation considérable, ces dernières années, des demandes de promotion professionnelle des aides-soignants souhaitant devenir infirmiers. Une instruction (lettre-circulaire n° DGOS/RH4/2010/400 du 26 novembre 2010 relative au financement des études promotionnelles d'infirmier des agents de la fonction publique hospitalière) a été adressée en novembre 2010 aux établissements leur recommandant d'envisager en amont des solutions de financement des études promotionnelles, afin notamment que les agents puissent entreprendre leur formation dès la réussite au concours et qu'ils ne soient pas obligés de reporter d'une année leur entrée à l'école de formation. Il a ainsi été demandé aux établissements d'anticiper : les demandes individuelles de promotion professionnelle qui pourraient être présentées à travers les entretiens de formation, les évaluations-notations aujourd'hui et les entretiens professionnels demain ; les besoins en personnels infirmiers de l'établissement ; les moyens de financement qui pourraient être envisagés, à travers le plan de formation des établissements auquel ils doivent consacrer 2,1 % du montant de leurs rémunérations, ou en recourant aux fonds mutualisés gérés par notre organisme paritaire collecteur agré (OPCA), l'Association nationale pour la formation permanente du personnel hospitalier. (ANFH). Par ailleurs, il est recommandé aux employeurs publics hospitaliers de respecter autant que possible le calendrier de réussite au concours des étudiants avant de faire droit ou rejeter leur demande de financement des études.
