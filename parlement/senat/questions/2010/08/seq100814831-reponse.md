@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100814831
+
+- Question : [SEQ100814831](seq100814831.md) — Sécheresse grave au Niger
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-04-21, page 1023*
+
+M. Louis Mermaz a appelé l'attention du Premier ministre sur la grave sécheresse qui a sévi en 2010 sur une grande partie du territoire du Niger et sur la crise humanitaire que cette sécheresse a provoquée. Cette crise humanitaire a particulièrement affecté les populations : au pic de la crise, 4,3 millions d'individus avaient besoin d'une aide alimentaire, tandis que 2,4 millions de personnes supplémentaires étaient menacées. Si ce pic est désormais derrière nous, la situation reste fragile, des inondations et une crise pastorale ayant aussi touché le pays, qui est en outre victime d'un problème structurel de malnutrition. Pour lutter contre cette crise, la France a consacré plus de 5 M€ aux populations vulnérables du Niger à travers le PAM et le dispositif national de prévention et de gestion des crises alimentaires, via les budgets de l'aide alimentaire et du fonds d'urgence humanitaire. Notre pays a également mis en place des opérations supplémentaires d'appui nutritionnel. Les fonds du bureau d'aide humanitaire de la Commission européenne (ECHO) ont permis d'attribuer au Niger 27 M€ depuis le début de l'année 2010. Enfin, les agences onusiennes, la Croix-Rouge et les ONG internationales utilisent ces fonds pour des projets humanitaires et alimentaires afin de lutter contre la malnutrition. Nous resterons mobilisés, avec l'ensemble de nos partenaires, les organisations internationales, les organisations non gouvernementales, l'Union européenne et ses États membres, pour faire face à la crise qui pourrait survenir l'été prochain et, au-delà de cette aide d'urgence, pour mettre en oeuvre un plan d'action contre la crise nutritionnelle structurelle que connaît le Niger.
