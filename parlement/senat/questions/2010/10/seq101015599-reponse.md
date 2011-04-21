@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015599
+
+- Question : [SEQ101015599](seq101015599.md) — Fichier sur les Roms
+
+## Réponse
+
+*Intérieur, JO du 2011-04-21, page 1053*
+
+Suite à l'article paru dans le journal Le Monde le 7 octobre 2010, alléguant qu'un fichier sur les Roms est détenu par la gendarmerie, et plus particulièrement par l'Office central de la lutte contre la délinquance itinérante (OCLDI), le ministre de l'intérieur a demandé le jour même, dans un souci de totale transparence, au groupe de travail sur l'amélioration du contrôle et de l'organisation des bases de données de police et de gendarmerie, présidé par M. Alain Bauer, de procéder à un contrôle des éléments recueillis dans les bases de données de la gendarmerie nationale. La Commission nationale informatique et libertés (CNIL) a procédé les 8, 12 et 14 octobre à des contrôles approfondis à l'OCLDI et au service technique de recherches judiciaires et de documentation (STRJD), situés respectivement à Arcueil et à Rosny-sous-Bois. Dans son rapport définitif remis au Premier ministre le 25 novembre 2010, elle conclut à l'absence de fichier à caractère ethnique détenu par la gendarmerie. Le groupe de travail sur l'amélioration du contrôle et de l'organisation des fichiers de police et de gendarmerie, réuni le 18 octobre 2010 sous la présidence de M. Alain Bauer, a également constaté qu'il n'existe pas de fichier « minorités ethniques non sédentarisées » (MENS) au sein de l'OCLDI. En revanche, la mention « minorités ethniques non sédentarisées » (MENS) existe depuis une note à diffusion restreinte du 24 mai 1992 ayant pour objet une « étude sur la criminalité au sein de certaines minorités ethniques non sédentarisées ». Le directeur général de la gendarmerie nationale a donné des instructions pour proscrire dorénavant cette formule.
