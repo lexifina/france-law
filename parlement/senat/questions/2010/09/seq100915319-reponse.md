@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915319
+
+- Question : [SEQ100915319](seq100915319.md) — Nombre de postes ouverts aux concours de recrutement des enseignants
+
+## Réponse
+
+*Éducation, JO du 2011-04-21, page 1045*
+
+Le recrutement des enseignants s'effectue dans le cadre de concours nationaux pour les enseignants du second degré et académiques dans le premier degré. Les volumes en sont déterminés annuellement au niveau national, dans le respect des emplois votés en loi de finances et en fonction de plusieurs facteurs, tels que le nombre de départs en retraite, les prévisions d'effectifs d'élèves, ainsi que les éventuelles évolutions de l'offre de formation. La variation des postes offerts aux concours 2011 de recrutement d'enseignants tient compte de l'ensemble de ces critères et est en cohérence avec les besoins en enseignement projetés à la rentrée scolaire 2011 par académie. Dans le premier degré, un désajustement entre les flux d'entrées et de sorties des enseignants, lié notamment à des départs en retraite inférieurs à la prévision, a conduit à une situation de surnombre à la rentrée scolaire 2010. Le niveau de recrutement en 2010 s'est en effet révélé trop élevé au regard des départs en retraite effectivement constatés. Afin de résorber une part de ce déséquilibre, il a été décidé de diminuer de moitié le nombre de postes offerts à la session 2011 des concours de recrutement des enseignants du premier degré public. S'agissant des concours de recrutement des enseignants du second degré, le nombre de postes offerts aux concours pour l'année 2011 est équivalent à celui de la session 2010. Par ailleurs, on observe une stabilité des ouvertures de postes aux concours depuis la session 2008. Les ouvertures de postes aux concours de recrutement des enseignants ont néanmoins vocation à être réexaminées chaque année, en fonction notamment de l'analyse des besoins d'enseignement.
