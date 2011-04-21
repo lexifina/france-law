@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413243
+
+- Question : [SEQ100413243](seq100413243.md) — Supplément de pension des aides-soignants
+
+## Réponse
+
+*Travail, JO du 2011-04-21, page 1061*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative au supplément de pension des aides-soignants retraités de la fonction publique hospitalière. Le décret n° 2004-240 du 18 mars 2004 relatif à la prise en compte de la prime spéciale de sujétion au regard du droit à pension des agents du corps des aides-soignants de la fonction publique hospitalière prévoit en effet que le supplément de pension prévu à l'article 37 de la loi n° 2003-1199 du 18 décembre 2003 servi aux agents classés dans le corps des aides-soignants de la fonction publique hospitalière est liquidé sur la base de la moyenne des montants mensuels de la prime spéciale de sujétion perçue pendant les six derniers mois d'activité avant la date d'admission à la retraite. L'exercice des fonctions d'aide-soignant à temps partiel au cours de ces six derniers mois entraîne en conséquence l'octroi d'un supplément de pension proratisé. Pour autant, l'agent a la possibilité de faire assimiler cette période de temps partiel à une période de temps plein, sous réserve du versement d'une surcotisation assise sur le traitement indiciaire brut et la nouvelle bonification indiciaire. Il n'est pas envisagé d'évolution prochaine de la règlementation en vigueur. Les réflexions et orientations récentes dans le cadre de la réforme des retraites et de la loi de financement de la sécurité sociale pour 2011 n'ont pas conduit à des propositions visant à une éventuelle intégration de la prime de sujétion dans l'assiette de surcotisation et à l'extension du bénéfice du supplément de pension aux agents qui ne terminent pas leur activité dans le corps des aides-soignants.
