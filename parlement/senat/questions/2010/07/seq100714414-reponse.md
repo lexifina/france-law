@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714414
+
+- Question : [SEQ100714414](seq100714414.md) — Conséquences pour les régimes de retraite du statut d'auto-entrepreneur
+
+## Réponse
+
+*Travail, JO du 2011-04-21, page 1062*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative aux régimes de retraite des auto-entrepreneurs. Le régime de l'auto-entrepreneur institué par l'article L. 133-6-8 du code de la sécurité sociale est ouvert aux travailleurs indépendants non agricoles relevant d'un régime microfiscal. À ce titre, peuvent notamment bénéficier de ce mode simplifié de calcul et de règlement de l'ensemble des cotisations et contributions sociales les professions libérales relevant de la caisse interprofessionnelle de prévoyance et d'assurance vieillesse (CIPAV). Il est précisé qu'en application des dispositions règlementaires en vigueur en matière de compensation démographique les auto-entrepreneurs qui ne déclarent pas de chiffre d'affaires au cours d'une année sont écartés du décompte des cotisants actifs du régime auprès duquel ils auraient pu faire une telle déclaration. Ce point doit être souligné dès lors que, sur les 433 000 auto-entrepreneurs recensés à la fin du premier trimestre 2010, seuls 121 000 d'entre eux ont, à la même date, effectué une déclaration. Pour ceux qui déclarent un faible chiffre d'affaires, l'article L. 133-6-8-3 du code de la sécurité sociale institue désormais une règle d'affectation des cotisations et contributions acquittées par les auto-entrepreneurs applicable aussi bien à la répartition des sommes versées par ceux entrant dans le champ de la prise en charge par l'État que par ceux en en étant exclus. L'ordre de répartition fixé dans ce cadre conduit, dès lors que les régimes de retraite de base n'enregistrent aucune recette, à ne pas prendre en compte ces auto-entrepreneurs dans l'effectif des cotisants au sens de la compensation démographique.
