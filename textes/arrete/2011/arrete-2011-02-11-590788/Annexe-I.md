@@ -1,14 +1,12 @@
 # Article Annexe I
 
-(Quotas en tonnes)
+Quotas en tonnes
 
 |
 
 NUMÉRO
 
-du
-
-navire
+du navire
 
 |
 
@@ -18,9 +16,7 @@ NOM DU NAVIRE
 
 QUOTA 2011
 
-en mer
-
-Méditerranée
+en mer Méditerranée
 
 |
 
@@ -31,8 +27,6 @@ en océan Atlantique
 à l'est de la longitude 45° Ouest
 
 |
-
-OP SA.THO.AN
 
 |
 
@@ -88,6 +82,8 @@ Saint Sophie François 3
 
 |
 
+OP SA. THO. AN
+
 |
 
 925310
@@ -98,7 +94,7 @@ Janvier Louis Raphaël
 
 |
 
-121
+122
 
 |
 
@@ -116,7 +112,7 @@ Palangriers hauturiers
 
 20
 
-0
+|
 
 |
 
@@ -128,7 +124,9 @@ Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêc
 
 |
 
-28 (1)
+26,5 (1)
+
+|
 
 0
 
@@ -136,23 +134,19 @@ Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêc
 
 |
 
-Total SA.THO.AN
+|
+
+Total SA. THO. AN
 
 |
 
-|
+434,5
 
-435
+|
 
 0
 
 |
-
-|
-
-Groupement
-
-de navires STM
 
 |
 
@@ -208,6 +202,8 @@ Cisberlande V
 
 |
 
+Groupement de navires STM
+
 |
 
 924860
@@ -236,7 +232,11 @@ Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêc
 
 0
 
+|
+
 0
+
+|
 
 |
 
@@ -246,15 +246,15 @@ Total STM
 
 |
 
-|
-
 245
+
+|
 
 0
 
 |
 
-OP PRO.QUA.PORT
+OP PRO. QUA. PORT
 
 |
 
@@ -284,25 +284,29 @@ Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêc
 
 19 (2)
 
+|
+
 0
 
 |
 
 |
 
-TOTAL PRO.QUA.PORT
-
 |
+
+Total PRO. QUA. PORT
 
 |
 
 69
 
+|
+
 0
 
 |
 
-Navires non adhérant à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre petits métiers titulaires d'un permis de pêche spécial thon rouge
+Navires non adhérents à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre petits métiers titulaires d'un permis de pêche spécial thon rouge
 
 |
 
@@ -310,7 +314,9 @@ Navires non adhérant à une organisation de producteurs pêchant à la canne, �
 
 |
 
-49 (3)
+49,5 (3)
+
+|
 
 0
 
@@ -324,8 +330,6 @@ Total
 
 |
 
-|
-
 798
 
 |
@@ -334,10 +338,10 @@ Total
 
 |
 
-(1) Dont 12 tonnes maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
+(1) Dont 12 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
-(2) Dont 10 tonnes maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
+(2) Dont 10 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
-(3) Dont 22 tonnes maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
+(3) Dont 22 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
 |

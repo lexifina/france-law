@@ -1,30 +1,32 @@
 # Article Annexe II
 
-(Quotas en tonnes)
+Quotas en tonnes
 
 |
 
-QUOTAS 2011 EN OCÉAN ATLANTIQUE À L'EST
+QUOTA 2011 EN OCÉAN ATLANTIQUE
 
-de la longitude 45 Ouest
+à l'est de la longitude 45° Ouest
+
+|
+
+QUOTA
+
+en mer Méditerranée
 
 |
 
 |
 
-Pour la pêche au chalut
+Pour la pêche
+
+au chalut
 
 |
 
 Pour la pêche
 
 à l'hameçon
-
-|
-
-QUOTAS 2011
-
-en mer Méditerranée
 
 |
 
@@ -60,7 +62,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -108,7 +110,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
+Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
@@ -140,7 +142,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Vie Vendée
+Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
@@ -188,7 +190,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
 
 |
 
