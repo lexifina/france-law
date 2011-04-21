@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115848
+
+- Question : [SEQ101115848](seq101115848.md) — Inaliénabilité des archives publiques
+
+## Réponse
+
+*Éducation, JO du 2011-04-21, page 1045*
+
+Les archives publiques sont constituées, aux termes de l'article L. 211-4 du code du patrimoine, des documents qui procèdent de l'activité, dans le cadre de leurs missions de service public, de l'État, des collectivités territoriales, des établissements publics et des autres personnes morales de droit public ou des personnes de droit privé chargées d'une telle mission. L'obligation scolaire définie dans le code de l'éducation aux articles L. 131-1 et L. 131-2 fait partie des missions de service public exercées par le ministère chargé de l'éducation nationale et les personnels, services et établissements qui en dépendent. À ce titre, les documents produits par les agents de l'État exerçant leurs fonctions dans les écoles maternelles et élémentaires sont des archives publiques. Leur typologie non exhaustive est listée dans l'instruction interministérielle de tri et de conservation des archives concernant l'éducation nationale du 22 février 2005, parue au Bulletin officiel de l'éducation nationale n° 24 du 16 juin 2005. Les documents produits ou réalisés par les élèves ne relèvent pas des archives produites dans le cadre d'une mission de service public. Ces productions à caractère personnel n'entrent pas dans le champ des archives publiques définies à l'article précité du code du patrimoine, qui ne fait donc pas obstacle à leur vente ou leur don lors de kermesses ou fêtes scolaires. Même si elles n'entrent pas dans le champ des archives publiques, les réalisations collectives peuvent cependant faire l'objet d'un archivage définitif auprès d'un service public d'archives, au titre du spécimen, dans le but de conserver un témoignage de l'activité pédagogique au sein des écoles et établissements.
