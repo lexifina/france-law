@@ -122,7 +122,7 @@ Clôture du scrutin : date limite de réception des votes par correspondance au 
 
 |
 
-18 octobre 2011
+A partir du 18 octobre 2011
 
 |
 
