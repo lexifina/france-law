@@ -1,5 +1,7 @@
 # Article B II
 
+-
+
 B.-II.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
@@ -80,19 +82,33 @@ Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
 
-Académie d'Aix-Marseille - Université d'Avignon |
+|
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+Académie d'Aix-Marseille - Université d'Avignon
 
-1 |
+|
 
-Académie d'Aix-Marseille - Université d'Avignon |
+Adjoint au directeur général des services, directeur des ressources humaines
 
-Adjoint au directeur général des services, directeur des finances et du contrôle de gestion |
+|
 
-1 |
+1
+
+|
+
+Académie d'Aix-Marseille - Université d'Avignon
+
+|
+
+Adjoint au directeur général des services, directeur des finances et du contrôle de gestion
+
+|
+
+1
+
+|
 
 Académie d'Aix-Marseille-Ecole centrale de Marseille
 
@@ -106,19 +122,11 @@ Adjoint au secrétaire général de l'école
 
 |
 
-Académie d'Aix-Marseille - Centre régional des œuvres universitaires et scolaires |
-
-Responsable des activités du centre régional sur la ville de Marseille
-
-|
-
-1 |
-
 Académie d'Aix-Marseille - Centre régional des œuvres universitaires et scolaires
 
 |
 
-Adjoint au directeur de centre régional
+Responsable des activités du centre régional sur la ville de Marseille
 
 |
 
@@ -154,9 +162,13 @@ Académie d'Amiens - Centre régional des œuvres universitaires et scolaires
 
 |
 
-Adjoint au directeur du centre régional |
+Adjoint au directeur du centre régional
 
-1 |
+|
+
+1
+
+|
 
 Académie de Besançon-Université de Besançon
 
@@ -182,11 +194,17 @@ Contrôleur de gestion-A effet du 1er septembre 2008
 
 |
 
-Académie de Besançon - Centre régional des œuvres universitaires et scolaires |
+Académie de Besançon - Centre régional des œuvres universitaires et scolaires
 
-Adjoint au directeur du centre régional |
+|
 
-1 |
+Adjoint au directeur du centre régional
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Université Bordeaux-I
 
@@ -200,11 +218,17 @@ Directeur de la scolarité et de la vie étudiante
 
 |
 
-Académie de Bordeaux - Université Bordeaux-I |
+Académie de Bordeaux - Université Bordeaux-I
 
-Adjoint au directeur général des services, chargé des ressources humaines |
+|
 
-1 |
+Adjoint au directeur général des services, chargé des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Université Bordeaux-II
 
@@ -218,11 +242,17 @@ Adjoint au directeur général des services, chargé du pôle financier
 
 |
 
-Académie de Bordeaux - Université Bordeaux-II |
+Académie de Bordeaux - Université Bordeaux-II
 
-Directeur des ressources humaines |
+|
 
-1 |
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Université Bordeaux-III
 
@@ -236,11 +266,17 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de Bordeaux - Université Bordeaux-III |
+Académie de Bordeaux - Université Bordeaux-III
 
-Directeur des études, de la formation et de l'insertion |
+|
 
-1 |
+Directeur des études, de la formation et de l'insertion
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Université Bordeaux-IV
 
@@ -266,11 +302,17 @@ Secrétaire général du pôle de recherche et d'enseignement supérieur de Bord
 
 |
 
-Académie de Bordeaux - Université Bordeaux-IV |
+Académie de Bordeaux - Université Bordeaux-IV
 
-Adjoint au directeur général des services |
+|
 
-1 |
+Adjoint au directeur général des services
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Université de Pau
 
@@ -284,11 +326,17 @@ Adjoint au secrétaire général de l'université, directeur des services financ
 
 |
 
-Académie de Bordeaux - Université de Pau et des pays de l'Adour |
+Académie de Bordeaux - Université de Pau et des pays de l'Adour
 
-Directeur des ressources humaines |
+|
 
-1 |
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Bordeaux-Ecole nationale supérieure d'électronique, informatique et radiocommunications
 
@@ -350,11 +398,17 @@ Directeur des affaires financières et du budget
 
 |
 
-Académie de Caen - Université de Caen |
+Académie de Caen - Université de Caen
 
-Responsable de la direction des affaires générales et juridiques |
+|
 
-1 |
+Responsable de la direction des affaires générales et juridiques
+
+|
+
+1
+
+|
 
 Académie de Caen-Centre régional des œuvres universitaires et scolaires
 
@@ -380,11 +434,17 @@ Adjoint au secrétaire général de l'université
 
 |
 
-Académie de Clermont-Ferrand - Université Clermont-Ferrand-I |
+Académie de Clermont-Ferrand - Université Clermont-Ferrand-I
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+|
 
-1 |
+Adjoint au directeur général des services, directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Clermont-Ferrand-Université Clermont-II
 
@@ -410,29 +470,53 @@ Directeur des ressources humaines
 
 |
 
-Académie de Clermont-Ferrand - Institut français de mécanique avancée (IFMA) |
+Académie de Clermont-Ferrand - Institut français de mécanique avancée (IFMA)
 
-Secrétaire général |
+|
 
-1 |
+Secrétaire général
 
-Académie de Créteil - Université de Marne-la-Vallée |
+|
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+1
 
-1 |
+|
 
-Académie de Créteil - Université de Marne-la-Vallée |
+Académie de Créteil - Université de Marne-la-Vallée
 
-Adjoint au directeur général des services, chargé du patrimoine |
+|
 
-1 |
+Adjoint au directeur général des services, directeur des ressources humaines
 
-Académie de Créteil - Université Paris-VIII |
+|
 
-Adjoint au directeur général des services |
+1
 
-1 |
+|
+
+Académie de Créteil - Université de Marne-la-Vallée
+
+|
+
+Adjoint au directeur général des services, chargé du patrimoine
+
+|
+
+1
+
+|
+
+Académie de Créteil - Université Paris-VIII
+
+|
+
+Adjoint au directeur général des services
+
+|
+
+1
+
+|
 
 Académie de Créteil-Université Paris VIII
 
@@ -482,18 +566,6 @@ Chef de cabinet du président de l'université
 
 |
 
-Académie de Créteil-Université Paris XIII
-
-|
-
-Adjoint au secrétaire général de l'université, chargé de l'appui à la modernisation et à la conduite du changement
-
-|
-
-1
-
-|
-
 Académie de Créteil-Centre régional des œuvres universitaires et scolaires
 
 |
@@ -518,13 +590,17 @@ Adjoint au directeur général des services, chargé de la formation et de la vi
 
 |
 
-Académie de Dijon - Université de Dijon |
-
-Adjoint au directeur général des services, chargé du développement de l'université
+Académie de Dijon - Université de Dijon
 
 |
 
-1 |
+Directeur des finances et du contrôle de gestion
+
+|
+
+1
+
+|
 
 Académie de Grenoble-Université Grenoble-I
 
@@ -550,7 +626,7 @@ Responsable des services administratif et technique de l'institut universitaire 
 
 |
 
-cadémie de Grenoble-Université Grenoble-I
+Académie de Grenoble-Université Grenoble-I
 
 |
 
@@ -578,33 +654,49 @@ Académie de Grenoble - Université Grenoble-II
 
 |
 
-Adjoint au directeur général des services, chargé du patrimoine, de l'hygiène et de la sécurité |
+Adjoint au directeur général des services, chargé du patrimoine, de l'hygiène et de la sécurité
 
-1 |
+|
+
+1
+
+|
 
 Académie de Grenoble - Université Grenoble-III
 
 |
 
-Adjoint au directeur général des services |
-
-1 |
-
-Académie de Grenoble - Université de Chambéry |
-
-Adjoint au directeur général des services, chargé des ressources humaines
+Adjoint au directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Grenoble - Université de Chambéry
 
 |
 
-Adjoint au directeur général des services, chargé du pilotage et de la politique contractuelle |
+Adjoint au directeur général des services, chargé des ressources humaines
 
-1 |
+|
+
+1
+
+|
+
+Académie de Grenoble - Université de Chambéry
+
+|
+
+Adjoint au directeur général des services, chargé du pilotage et de la politique contractuelle
+
+|
+
+1
+
+|
 
 Académie de Grenoble-Institut polytechnique de Grenoble
 
@@ -654,13 +746,17 @@ Directeur des ressources humaines
 
 |
 
-Académie de la Guadeloupe - Université Antilles-Guyane |
+Académie de la Guadeloupe - Université Antilles-Guyane
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Lille-Université Lille-I
 
@@ -698,23 +794,41 @@ Adjoint au secrétaire général de l'université
 
 |
 
-Académie de Lille - Université Lille-II |
+Académie de Lille - Université Lille-II
 
-Adjoint au directeur général des services |
+|
 
-1 |
+Adjoint au directeur général des services
 
-Académie de Lille - Université Lille-III |
+|
 
-Adjoint au directeur général des services |
+1
 
-1 |
+|
 
-Académie de Lille - Université Lille-III |
+Académie de Lille - Université Lille-III
 
-Directeur des ressources humaines |
+|
 
-1 |
+Adjoint au directeur général des services
+
+|
+
+1
+
+|
+
+Académie de Lille - Université Lille-III
+
+|
+
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Lille-Université de Valenciennes
 
@@ -728,11 +842,17 @@ Adjoint au secrétaire général de l'université
 
 |
 
-Académie de Lille - Université de Valenciennes |
+Académie de Lille - Université de Valenciennes
 
-Adjoint au directeur général des services - A effet du 1er juillet 2009 |
+|
 
-1 |
+Adjoint au directeur général des services - A effet du 1er juillet 2009
+
+|
+
+1
+
+|
 
 Académie de Lille-Université d'Artois
 
@@ -746,11 +866,17 @@ Responsable des services administratif et technique de l'institut universitaire 
 
 |
 
-Académie de Lille - Université d'Artois |
+Académie de Lille - Université d'Artois
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+|
 
-1 |
+Adjoint au directeur général des services, directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Lille-Université du Littoral
 
@@ -764,17 +890,29 @@ En charge du pilotage et du contrôle de gestion-A effet du 1er septembre 2008
 
 |
 
-Académie de Lille - Université du Littoral |
+Académie de Lille - Université du Littoral
 
-Responsable de la division moyens et logistique |
+|
 
-1 |
+Responsable de la division moyens et logistique
 
-Académie de Lille - Ecole centrale de Lille |
+|
 
-Directeur des ressources humaines |
+1
 
-1 |
+|
+
+Académie de Lille - Ecole centrale de Lille
+
+|
+
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Lille-Centre régional des œuvres universitaires et scolaires
 
@@ -792,9 +930,13 @@ Académie de Lille - Centre régional des œuvres universitaires et scolaires
 
 |
 
-Responsable du site de Lille-I |
+Responsable du site de Lille-I
 
-1 |
+|
+
+1
+
+|
 
 Académie de Lille-Centre local des œuvres universitaires et scolaires (Valenciennes)
 
@@ -808,17 +950,25 @@ Directeur du centre local de Valenciennes
 
 |
 
-Académie de Limoges-Université de Limoges |
+Académie de Limoges-Université de Limoges
 
-Adjoint au secrétaire général de l'université |
+|
 
-1 |
+Adjoint au secrétaire général de l'université
+
+|
+
+1
+
+|
 
 Académie de Limoges - Université de Limoges
 
 |
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+Adjoint au directeur général des services, directeur des ressources humaines
+
+|
 
 1
 
@@ -872,11 +1022,17 @@ Adjoint au secrétaire général de l'université, chargé des affaires financi�
 
 |
 
-Académie de Lyon - Université Lyon-III |
+Académie de Lyon - Université Lyon-III
 
-Directeur des ressources humaines |
+|
 
-1 |
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Lyon-Université de Saint-Etienne
 
@@ -890,11 +1046,17 @@ Adjoint au secrétaire général de l'université
 
 |
 
-Académie de Lyon - Université de Saint-Etienne |
+Académie de Lyon - Université de Saint-Etienne
 
-Directeur en charge du pilotage, de l'évaluation et de la démarche qualité |
+|
 
-1 |
+Directeur en charge du pilotage, de l'évaluation et de la démarche qualité
+
+|
+
+1
+
+|
 
 Académie de Lyon-Ecole normale supérieure
 
@@ -980,11 +1142,17 @@ En charge du pôle formation
 
 |
 
-Académie de Montpellier - Université de Montpellier-I |
+Académie de Montpellier - Université de Montpellier-I
 
-Directeur des ressources humaines |
+|
 
-1 |
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Montpellier-Université Montpellier-II
 
@@ -1014,33 +1182,49 @@ Académie de Montpellier - Université de Montpellier-III
 
 |
 
-Directeur des ressources humaines |
+Directeur des ressources humaines
 
-1 |
+|
+
+1
+
+|
 
 Académie de Montpellier - Université de Montpellier-III
 
 |
 
-Directeur de la recherche et des écoles doctorales, responsable du site de Saint-Charles |
+Directeur de la recherche et des écoles doctorales, responsable du site de Saint-Charles
 
-1 |
+|
+
+1
+
+|
 
 Académie de Montpellier - Université de Perpignan
 
 |
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+Adjoint au directeur général des services, directeur des ressources humaines
 
-1 |
+|
+
+1
+
+|
 
 Académie de Montpellier - Université de Perpignan
 
 |
 
-Directeur des affaires financières |
+Directeur des affaires financières
 
-1 |
+|
+
+1
+
+|
 
 Académie de Montpellier-Centre régional des œuvres universitaires et scolaires
 
@@ -1078,13 +1262,17 @@ Responsable des services administratif et technique de l'institut universitaire 
 
 |
 
-Académie de Nancy-Metz - Université Nancy-I |
+Académie de Nancy-Metz - Université Nancy-I
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Nancy-Metz-Université Nancy II
 
@@ -1098,11 +1286,17 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de Nancy-Metz - Université Nancy-II |
+Académie de Nancy-Metz - Université Nancy-II
 
-Adjoint au directeur général des services |
+|
 
-1 |
+Adjoint au directeur général des services
+
+|
+
+1
+
+|
 
 Académie de Nancy-Metz-Université de Metz
 
@@ -1176,11 +1370,17 @@ Directeur des ressources humaines
 
 |
 
-Académie de Nantes - Université de Nantes |
+Académie de Nantes - Université de Nantes
 
-Chargé du patrimoine immobilier de l'université |
+|
 
-1 |
+Chargé du patrimoine immobilier de l'université
+
+|
+
+1
+
+|
 
 Académie de Nantes-Université d'Angers
 
@@ -1218,11 +1418,17 @@ Directeur des ressources humaines-A effet du 1er septembre 2008
 
 |
 
-Académie de Nantes - Université du Mans |
+Académie de Nantes - Université du Mans
 
-Directeur des affaires financières |
+|
 
-1 |
+Directeur des affaires financières
+
+|
+
+1
+
+|
 
 Académie de Nantes-Centre régional des œuvres universitaires et scolaires
 
@@ -1272,21 +1478,29 @@ Directeur des finances
 
 |
 
-Académie de Nice - Université de Toulon |
-
-Adjoint au directeur général des services, en charge des affaires générales, statutaires et juridiques
+Académie de Nice - Université de Toulon
 
 |
 
-1 |
+Directeur des ressources humaines
+
+|
+
+1
+
+|
 
 Académie de Nice - Université de Toulon
 
 |
 
-Chargé du contrôle de gestion et de l'aide au pilotage |
+Chargé du contrôle de gestion et de l'aide au pilotage
 
-1 |
+|
+
+1
+
+|
 
 Académie de Nice-Centre régional des œuvres universitaires et scolaires
 
@@ -1336,21 +1550,29 @@ Responsable des services administratif et technique de l'institut universitaire 
 
 |
 
-Académie d'Orléans-Tours - Université de Tours |
+Académie d'Orléans-Tours - Université de Tours
+
+|
 
 Directeur des ressources humaines
 
 |
 
-1 |
+1
 
-Académie d'Orléans-Tours - Université de Tours |
+|
+
+Académie d'Orléans-Tours - Université de Tours
+
+|
 
 Directeur des finances
 
 |
 
-1 |
+1
+
+|
 
 Académie d'Orléans-Tours-Centre régional des œuvres universitaires et scolaires
 
@@ -1388,21 +1610,29 @@ Adjoint au secrétaire général de l'université
 
 |
 
-Académie de Paris - Université Paris-II |
+Académie de Paris - Université Paris-II
+
+|
 
 Directeur des ressources humaines
 
 |
 
-1 |
+1
 
-Académie de Paris - Université Paris-II |
+|
+
+Académie de Paris - Université Paris-II
+
+|
 
 Directeur des affaires générales
 
 |
 
-1 |
+1
+
+|
 
 Académie de Paris-Université Paris-III
 
@@ -1416,13 +1646,17 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de Paris - Université Paris-III |
+Académie de Paris - Université Paris-III
+
+|
 
 Directeur du patrimoine immobilier et de la logistique
 
 |
 
-1 |
+1
+
+|
 
 Académie de Paris-Université Paris-IV
 
@@ -1492,7 +1726,9 @@ Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Paris-Université Paris-VII
 
@@ -1578,29 +1814,41 @@ Adjoint au secrétaire général de l'institut
 
 |
 
-Académie de Paris - Institut national des langues et civilisations orientales (INALCO) |
+Académie de Paris - Institut national des langues et civilisations orientales (INALCO)
+
+|
 
 Directeur des ressources humaines
 
 |
 
-1 |
+1
 
-Académie de Paris-Centre régional des œuvres universitaires et scolaires |
+|
+
+Académie de Paris-Centre régional des œuvres universitaires et scolaires
+
+|
 
 Adjoint au directeur du centre régional
 
 |
 
-1 |
+1
 
-Académie de Paris - Collège de France |
+|
+
+Académie de Paris - Collège de France
+
+|
 
 Directeur des affaires budgétaires et financières
 
 |
 
-1 |
+1
+
+|
 
 Académie de Poitiers-Université de Poitiers
 
@@ -1614,31 +1862,41 @@ Responsable des services administratif et technique de l'institut universitaire 
 
 |
 
-Académie de Poitiers - Université de Poitiers |
+Académie de Poitiers - Université de Poitiers
+
+|
 
 Directeur du service immobilier
 
 |
 
-1 |
+1
+
+|
 
 Académie de Poitiers-Université de La Rochelle
 
 |
 
-Adjoint au directeur général des services, directeur des affaires financières, patrimoine et pilotage |
+Adjoint au directeur général des services, directeur des affaires financières, patrimoine et pilotage
+
+|
 
 1
 
 |
 
-Académie de Poitiers - Université de La Rochelle |
+Académie de Poitiers - Université de La Rochelle
+
+|
 
 Directeur des ressources humaines
 
 |
 
-1 |
+1
+
+|
 
 Académie de Poitiers-Centre régional des œuvres universitaires et scolaires
 
@@ -1676,13 +1934,17 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de Reims - Université de Reims |
+Académie de Reims - Université de Reims
+
+|
 
 Directeur financier
 
 |
 
-1 |
+1
+
+|
 
 Académie de Rennes-Université Rennes-I
 
@@ -1720,19 +1982,23 @@ Directeur des ressources humaines
 
 |
 
-Académie de Rennes - Université Rennes-II |
+Académie de Rennes - Université Rennes-II
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Rennes-Université de Brest
 
 |
 
-Adjoint au secrétaire général de l'université
+Directeur des ressources humaines
 
 |
 
@@ -1756,17 +2022,25 @@ Académie de Rennes - Université de Bretagne-Sud
 
 |
 
-Directeur des ressources humaines |
+Directeur des ressources humaines
 
-1 |
+|
+
+1
+
+|
 
 Académie de Rennes - Université de Bretagne-Sud
 
 |
 
-Directeur du service patrimoine, logistique et moyens |
+Directeur du service patrimoine, logistique et moyens
 
-1 |
+|
+
+1
+
+|
 
 Académie de Rennes-Centre régional des œuvres universitaires et scolaires (Brest)
 
@@ -1804,13 +2078,29 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de La Réunion - Université de La Réunion |
+Académie de La Réunion - Université de La Réunion
+
+|
 
 Adjoint au directeur général des services, chargé des affaires juridiques, des affaires générales et de la commande publique
 
 |
 
-1 |
+1
+
+|
+
+Académie de La Réunion - Centre régional des œuvres universitaires et scolaires
+
+|
+
+Adjoint au directeur de centre régional
+
+|
+
+1
+
+|
 
 Académie de Rouen-Université de Rouen
 
@@ -1824,13 +2114,17 @@ Adjoint au directeur général des services, directeur des ressources humaines
 
 |
 
-Académie de Rouen - Université de Rouen |
+Académie de Rouen - Université de Rouen
+
+|
 
 Adjoint au directeur général des services, directeur de la recherche et de la valorisation
 
 |
 
-1 |
+1
+
+|
 
 Académie de Rouen-Université du Havre
 
@@ -1844,13 +2138,17 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-Académie de Rouen - Université du Havre |
+Académie de Rouen - Université du Havre
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Rouen-Centre local des œuvres universitaires et scolaires (Le Havre)
 
@@ -1880,27 +2178,37 @@ Académie de Strasbourg-Université Strasbourg
 
 |
 
-Directeur de la recherche de l'université de Strasbourg. |
+Directeur de la recherche de l'université de Strasbourg.
+
+|
 
 1
 
 |
 
-Académie de Strasbourg - Université de Mulhouse |
+Académie de Strasbourg - Université de Mulhouse
+
+|
 
 Directeur chargé des ressources humaines
 
 |
 
-1 |
+1
 
-Académie de Strasbourg - Université de Mulhouse |
+|
+
+Académie de Strasbourg - Université de Mulhouse
+
+|
 
 Directeur chargé du patrimoine immobilier
 
 |
 
-1 |
+1
+
+|
 
 Académie de Strasbourg-Centre régional des œuvres universitaires et scolaires
 
@@ -1926,21 +2234,29 @@ Directeur du centre local de Mulhouse
 
 |
 
-Académie de Toulouse - Université Toulouse-I |
-
-Directeur du service juridique et contentieux
+Académie de Toulouse - Université Toulouse-I
 
 |
 
-1 |
+Directeur du patrimoine
 
-Académie de Toulouse - Université Toulouse-I |
+|
+
+1
+
+|
+
+Académie de Toulouse - Université Toulouse-I
+
+|
 
 Adjoint au directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Toulouse-Université Toulouse-II
 
@@ -1990,13 +2306,17 @@ Adjoint au secrétaire général de l'université, directeur de la vie du campus
 
 |
 
-Académie de Toulouse - Université Toulouse-III |
+Académie de Toulouse - Université Toulouse-III
+
+|
 
 Directeur des finances et du contrôle de gestion
 
 |
 
-1 |
+1
+
+|
 
 Académie de Toulouse-Centre régional des œuvres universitaires et scolaires
 
@@ -2022,31 +2342,41 @@ En charge du pilotage et du contrôle de gestion
 
 |
 
-Académie de Versailles - Université Paris-X |
+Académie de Versailles - Université Paris-X
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
-
-1 |
-
-Académie de Versailles-Université Paris-XI
-
-|
-
-Adjoint au directeur général des services, directeur des affaires budgétaires et financières |
 
 1
 
 |
 
-Académie de Versailles - Université Paris-XI |
+Académie de Versailles-Université Paris-XI
+
+|
+
+Adjoint au directeur général des services, directeur des affaires budgétaires et financières
+
+|
+
+1
+
+|
+
+Académie de Versailles - Université Paris-XI
+
+|
 
 Chargé de mission auprès du directeur général des services
 
 |
 
-1 |
+1
+
+|
 
 Académie de Versailles-Université de Cergy-Pontoise
 
@@ -2064,25 +2394,37 @@ Académie de Versailles - Université de Cergy-Pontoise
 
 |
 
-Adjoint au directeur général des services, directeur des ressources humaines |
+Adjoint au directeur général des services, directeur des ressources humaines
 
-1 |
+|
 
-Académie de Versailles - Université d'Evry-Val-d'Essonne |
+1
+
+|
+
+Académie de Versailles - Université d'Evry-Val-d'Essonne
+
+|
 
 Directeur des ressources humaines
 
 |
 
-1 |
+1
 
-Académie de Versailles - Université d'Evry-Val-d'Essonne |
+|
+
+Académie de Versailles - Université d'Evry-Val-d'Essonne
+
+|
 
 Directeur du pilotage
 
 |
 
-1 |
+1
+
+|
 
 Académie de Versailles-Université de Versailles-Saint-Quentin
 
@@ -2096,19 +2438,25 @@ Directeur des ressources humaines-A effet du 1er septembre 2008
 
 |
 
-Académie de Versailles - Université de Versailles - Saint-Quentin-en-Yvelines |
+Académie de Versailles - Université de Versailles - Saint-Quentin-en-Yvelines
+
+|
 
 Adjoint au directeur général des services, directeur des finances
 
 |
 
-1 |
+1
+
+|
 
 Académie de Versailles-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
 
 |
 
-Secrétaire général de l'institut |
+Secrétaire général de l'institut
+
+|
 
 1
 
@@ -2118,7 +2466,9 @@ Académie de Versailles-Centre régional des œuvres universitaires et scolaires
 
 |
 
-Adjoint au directeur du centre régional |
+Adjoint au directeur du centre régional
+
+|
 
 1
 
@@ -2128,15 +2478,21 @@ Académie de Versailles - Centre régional des œuvres universitaires et scolair
 
 |
 
-Directeur de la vie de l'étudiant |
+Directeur de la vie de l'étudiant
 
-1 |
+|
+
+1
+
+|
 
 Académie de Versailles-Centre régional des œuvres universitaires et scolaires (site de Nanterre)
 
 |
 
-Responsable du site de Nanterre |
+Responsable du site de Nanterre
+
+|
 
 1
 
@@ -2146,7 +2502,9 @@ Académie de Versailles-Centre régional des œuvres universitaires et scolaires
 
 |
 
-Responsable du site de Cergy |
+Responsable du site de Cergy
+
+|
 
 1
 
@@ -2156,39 +2514,57 @@ Académie de Versailles-Centre local des œuvres universitaires et scolaires (An
 
 |
 
-Directeur du centre local d'Antony |
+Directeur du centre local d'Antony
+
+|
 
 1
 
 |
 
-Académie de Versailles - Ecole nationale supérieure de l'électronique et de ses applications - Cergy-Pontoise |
+Académie de Versailles - Ecole nationale supérieure de l'électronique et de ses applications - Cergy-Pontoise
 
-Secrétaire général de l'école |
+|
 
-1 |
+Secrétaire général de l'école
 
-Vice-rectorat de la Nouvelle-Calédonie - Université de la Nouvelle-Calédonie |
+|
+
+1
+
+|
+
+Vice-rectorat de la Nouvelle-Calédonie - Université de la Nouvelle-Calédonie
+
+|
 
 Chargé des œuvres universitaires et de la restructuration de la vie étudiante - A effet du 1er mai 2009
 
 |
 
-1 |
+1
 
-Agence d'évaluation de la recherche et de l'enseignement supérieur |
+|
+
+Agence d'évaluation de la recherche et de l'enseignement supérieur
+
+|
 
 Délégué administratif
 
 |
 
-1 |
+1
+
+|
 
 Administration centrale du ministère chargé de l'enseignement supérieur et de la recherche
 
 |
 
-Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010 |
+Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010
+
+|
 
 5
 
@@ -2198,7 +2574,9 @@ Centre national des œuvres universitaires et scolaires (services centraux)
 
 |
 
-Responsable des ressources humaines et de la formation continue |
+Responsable des ressources humaines et de la formation continue
+
+|
 
 1
 
@@ -2208,7 +2586,9 @@ Centre national des œuvres universitaires et scolaires (services centraux)
 
 |
 
-Responsable de la vie étudiante |
+Responsable de la vie étudiante
+
+|
 
 1
 
@@ -2218,25 +2598,37 @@ Centre national des œuvres universitaires et scolaires (services centraux)
 
 |
 
-Adjoint au responsable des systèmes d'informations |
+Adjoint au responsable des systèmes d'informations
+
+|
 
 1
 
 |
 
-Académie d'Aix-Marseille-Université Aix-Marseille-II. |
+Académie d'Aix-Marseille-Université Aix-Marseille-II.
 
-Directeur des affaires générales |
+|
 
-1 |
+Directeur des affaires générales
 
-Académie de Créteil-Université Paris-XIII |
+|
+
+1
+
+|
+
+Académie de Créteil-Université Paris-XIII
+
+|
 
 En charge du budget de l'université.
 
 |
 
-1 |
+1
+
+|
 
 Académie de Grenoble-Université Grenoble-I.
 
@@ -2246,67 +2638,105 @@ Adjoint au secrétaire général de l'université, directeur des ressources huma
 
 |
 
-1 |
+1
 
-Académie de Guyane-Centre local des œuvres universitaires et scolaires (Cayenne). |
+|
+
+Académie de Guyane-Centre local des œuvres universitaires et scolaires (Cayenne).
+
+|
 
 Directeur du centre local de Cayenne-A effet du 1er septembre 2007.
 
 |
 
-1 |
+1
 
-Académie de Lyon-Université Lyon-II. |
+|
 
-Adjoint au secrétaire général de l'université, responsable administratif de site. |
+Académie de Lyon-Université Lyon-II.
 
-1 |
+|
+
+Adjoint au secrétaire général de l'université, responsable administratif de site.
+
+|
+
+1
+
+|
 
 Académie d'Orléans-Tours-Centre local des œuvres universitaires et scolaires (Tours).
 
 |
 
-Directeur du centre local de Tours-A effet du 1er septembre 2007. |
+Directeur du centre local de Tours-A effet du 1er septembre 2007.
 
-1 |
+|
 
-Académie de Paris-Université Paris-V. |
+1
 
-Adjoint au secrétaire général de l'université-A effet du 1er novembre 2008. |
+|
 
-1 |
+Académie de Paris-Université Paris-V.
 
-Académie de Paris-Université Paris-V. |
+|
+
+Adjoint au secrétaire général de l'université-A effet du 1er novembre 2008.
+
+|
+
+1
+
+|
+
+Académie de Paris-Université Paris-V.
+
+|
 
 Adjoint au secrétaire général de l'université-A effet du 1er avril 2009.
 
 |
 
-1 |
+1
 
-Académie de Strasbourg-Université de Strasbourg. |
+|
+
+Académie de Strasbourg-Université de Strasbourg.
+
+|
 
 Responsable des services administratif et technique de l'institut universitaire de formation des maîtres.
 
 |
 
-1 |
+1
+
+|
 
 Centre national des œuvres universitaires et scolaires (services centraux).
 
 |
 
-Fondé de pouvoir du trésorier-payeur général. |
+Fondé de pouvoir du trésorier-payeur général.
 
-1 |
+|
+
+1
+
+|
 
 Centre national des œuvres universitaires et scolaires.
 
 |
 
-Chef du service de la formation continue, directeur du Centre national de formation du réseau des œuvres universitaires et scolaires-A effet du 1er septembre 2007. |
+Chef du service de la formation continue, directeur du Centre national de formation du réseau des œuvres universitaires et scolaires-A effet du 1er septembre 2007.
 
-1 |
+|
+
+1
+
+|
 
 Rectorat de l'académie de Paris - Chancellerie des universités
 
