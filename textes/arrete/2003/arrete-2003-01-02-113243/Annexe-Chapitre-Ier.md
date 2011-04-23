@@ -1042,6 +1042,8 @@ QMS = 0,05 mg/6 dm².
 
 LMS(T) = 0,6 mg/kg (28).
 
+Ne pas utiliser pour la fabrication des biberons en polycarbonate destinés aux nourrissons.
+
 |
 
 13510
@@ -1104,7 +1106,7 @@ Bis(4-isocyanatocyclohexyl)méthane.
 
 |
 
-Voir 4,4'-diisocyanate de dicyclohexylméthane .
+Voir 4,4'-diisocyanate de dicyclohexylméthane.
 
 |
 
@@ -1136,7 +1138,7 @@ Bisphénol A.
 
 |
 
-Voir 2,2-bis(4-hydroxyphényl) propane .
+Voir 2,2-bis(4-hydroxyphényl) propane.
 
 |
 
@@ -1152,7 +1154,7 @@ Ether bis(2,3-époxypropylique) du bisphénol A.
 
 |
 
-Voir Ether bis(2,3-époxypropylique) du 2,2-bis(4-hydroxyphényl)propane .
+Voir Ether bis(2,3-époxypropylique) du 2,2-bis(4-hydroxyphényl)propane.
 
 |
 
@@ -1168,7 +1170,7 @@ Bis(anhydride phtalique) du bisphénol A.
 
 |
 
-Voir Bis(anhydride phtalique) du 2,2-bis(4-hydroxyphényl) propane .
+Voir Bis(anhydride phtalique) du 2,2-bis(4-hydroxyphényl) propane.
 
 |
 
@@ -1184,7 +1186,7 @@ Bisphénol S.
 
 |
 
-Voir 4,4'-dihydroxydiphénylsulfone .
+Voir 4,4'-dihydroxydiphénylsulfone.
 
 |
 
