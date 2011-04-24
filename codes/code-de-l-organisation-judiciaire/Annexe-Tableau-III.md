@@ -226,7 +226,7 @@ Thonon-les-Bains
 
 |
 
-Annemasse.
+Annemasse, Saint-Julien-en-Genevois.
 
 |
 
