@@ -1,8 +1,8 @@
 # Article annexe I
 
-RÈGLES TECHNIQUES APPLICABLES AUX TRACTEURS T1, T2
+RÈGLES TECHNIQUES APPLICABLES AUX TRACTEURS T1, T2 ET T3
 
-ET T3 ET DOMAINES DE COMPÉTENCE
+ET DOMAINES DE COMPÉTENCE
 
 Les règles techniques auxquelles doivent répondre les tracteurs T1, T2 et T3 et leurs systèmes, composants et entités techniques, sont énumérées dans le tableau ci-dessous.
 
@@ -12,7 +12,7 @@ A = ministère chargé de l'agriculture.
 
 T = ministère chargé des transports.
 
-NUMÉRO
+N°
 
 |
 
@@ -26,15 +26,39 @@ OBJET
 
 |
 
-DIRECTIVES
+DIRECTIVES DE BASE
 
-de base et annexes
+et annexes
 
 |
 
-APPLICABILITÉ POUR
+DATE D'APPLICATION
 
-T1, T2 ET T3
+pour les nouveaux types
+
+|
+
+DATE D'APPLICATION
+
+pour tous les types (8)
+
+|
+
+APPLICABILITÉ
+
+pour T1, T2 et T3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -58,15 +82,27 @@ T
 
 |
 
-Masse maximale en charge (5).
+Masse maximale
+
+en charge (5)
 
 |
 
-74/151/CEE
+Annexe I 74/151/ CEE modifiée par 2006/26/ CE remplacée par 2009/63/ CE
 
-Annexe I
+|
 
-2009/63/CE Annexe I (8)
+(7)
+
+1er juillet 2007
+
+1er janvier 2010
+
+|
+
+(7)
+
+1er juillet 2009
 
 |
 
@@ -90,15 +126,23 @@ T
 
 |
 
-Plaque d'immatriculation (5).
+Plaque
+
+d'immatriculation (5)
 
 |
 
-74/151/CEE
+Annexe II 74/151/ CEE remplacée par 2009/63/ CE
 
-Annexe II
+|
 
-2009/63/CE Annexe II (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -122,15 +166,21 @@ T
 
 |
 
-Réservoir de carburant.
+Réservoir de carburant
 
 |
 
-74/151/CEE
+Annexe III 74/151/ CEE remplacée par 2009/63/ CE
 
-Annexe III
+|
 
-2009/63/CE Annexe III (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -154,15 +204,23 @@ T
 
 |
 
-Masses d'alourdissement (5).
+Masses
+
+d'alourdissement (5)
 
 |
 
-74/151/CEE
+Annexe IV 74/151/ CEE remplacée par 2009/63/ CE
 
-Annexe IV
+|
 
-2009/63/CE Annexe IV (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -186,15 +244,23 @@ T
 
 |
 
-Avertisseur acoustique (2) (3).
+Avertisseur acoustique
+
+(2) (3)
 
 |
 
-74/151/CEE
+Annexe V 74/151/ CEE remplacée par 2009/63/ CE
 
-Annexe V
+|
 
-2009/63/CE Annexe V (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -218,15 +284,23 @@ T
 
 |
 
-Niveau sonore (externe) (2) (3).
+Niveau sonore (externe)
+
+(2) (3)
 
 |
 
-74/151/CEE
+Annexe VI 74/151/ CEE remplacée par 2009/63/ CE
 
-Annexe VI
+|
 
-2009/63/CE Annexe VI (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -250,15 +324,21 @@ T
 
 |
 
-Vitesse maximale.
+Vitesse maximale
 
 |
 
-74/152/CEE
+Annexe point 1 74/152/ CEE remplacée par 2009/60/ CE
 
-Annexe, point 1
+|
 
-2009/60/CE Annexe, point 1 (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -274,7 +354,7 @@ X
 
 |
 
-2.2.
+2.2
 
 |
 
@@ -282,15 +362,23 @@ T
 
 |
 
-Plates-formes de chargement.
+Plates-formes
+
+de chargement
 
 |
 
-74/152/CEE
+Annexe point 2 74/152/ CEE remplacée par 2009/60/ CE
 
-Annexe, point 2
+|
 
-2009/60/CE Annexe, point 2 (8)
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -314,13 +402,21 @@ T
 
 |
 
-Rétroviseurs.
+Rétroviseurs
 
 |
 
-74/346/CEE
+74/346/ CEE remplacée par 2009/59/ CE
 
-2009/59/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -344,13 +440,23 @@ T
 
 |
 
-Champ de vision et essuie-glaces (2) (3) (5).
+Champ de vision et
+
+essuie-glaces (2) (3) (5)
 
 |
 
-74/347/CEE
+74/347/ CEE remplacée par 2008/2/ CE
 
-2008/2/CE (7)
+|
+
+(7)
+
+1er mai 2008
+
+|
+
+(7)
 
 |
 
@@ -374,13 +480,23 @@ T
 
 |
 
-Dispositif de direction (2) (3).
+Dispositif de direction
+
+(2) (3)
 
 |
 
-75/321/CEE
+75/321/ CEE remplacée par 2009/66/ CE
 
-2009/66/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -404,13 +520,21 @@ T
 
 |
 
-Compatibilité électromagnétique (2) (3) (5).
+Compatibilité électromagnétique (2) (3) (5)
 
 |
 
-75/322/CEE
+75/322/ CEE remplacée par 2009/64/ CE
 
-2009/64/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -434,11 +558,19 @@ T
 
 |
 
-Freinage (2) (3).
+Freinage (2) (3)
 
 |
 
-76/432/CEE
+76/432/ CEE
+
+|
+
+(7)
+
+|
+
+(7)
 
 |
 
@@ -458,15 +590,27 @@ X
 
 |
 
-T
+A
 
 |
 
-Sièges de convoyeur.
+Sièges de convoyeur
 
 |
 
-76/763/CEE
+76/763/ CEE modifiée par 2010/52/ UE
+
+|
+
+(7)
+
+24/08/2011
+
+|
+
+(7)
+
+24/08/2012
 
 |
 
@@ -490,13 +634,25 @@ A
 
 |
 
-Niveau sonore (interne).
+Niveau sonore (interne)
 
 |
 
-77/311/CEE
+77/311/ CEE modifiée par 2006/26/ CE remplacée par 2009/76/ CE
 
-2009/76/CE (8)
+|
+
+(7)
+
+1er juillet 2007
+
+1er janvier 2010
+
+|
+
+(7)
+
+1er juillet 2009
 
 |
 
@@ -520,13 +676,23 @@ A
 
 |
 
-Protection en cas de renversement (essais dynamiques) (4).
+Protection en cas
+
+de renversement (4)
 
 |
 
-77/536/CEE
+77/536/ CEE remplacée par 2009/57/ CE
 
-2009/57/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -550,11 +716,19 @@ A
 
 |
 
-Siège du conducteur.
+Siège du conducteur
 
 |
 
-78/764/CEE
+78/764/ CEE
+
+|
+
+(7)
+
+|
+
+(7)
 
 |
 
@@ -578,13 +752,25 @@ T
 
 |
 
-Installation des dispositifs d'éclairage (3).
+Installation des dispositifs d'éclairage (3)
 
 |
 
-78/933/CEE
+78/933/ CEE modifiée par 2006/26/ CE remplacée par 2009/61/ CE
 
-2009/61/CE (8)
+|
+
+(7)
+
+1er juillet 2007
+
+1er janvier 2010
+
+|
+
+(7)
+
+1er juillet 2009
 
 |
 
@@ -608,13 +794,21 @@ T
 
 |
 
-Dispositifs d'éclairage et de signalisation lumineuse (2) (3).
+Dispositifs d'éclairage et de signalisation lumineuse (2) (3)
 
 |
 
-79/532/CEE
+79/532/ CEE remplacée par 2009/68/ CE
 
-2009/68/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -638,13 +832,21 @@ T
 
 |
 
-Dispositifs de remorquage et de marche arrière.
+Dispositifs de remorquage et de marche arrière
 
 |
 
-79/533/CEE
+79/533/ CEE remplacée par 2009/58/ CE
 
-2009/58/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -668,13 +870,21 @@ A
 
 |
 
-Protection en cas de renversement (essais statiques) (4).
+Protection en cas de renversement (essais statiques) (4)
 
 |
 
-79/622/CEE
+79/622/ CEE remplacée par 2009/75/ CE
 
-2009/75/CE (8)
+|
+
+(7)
+
+1er janvier 2010
+
+|
+
+(7)
 
 |
 
@@ -698,13 +908,25 @@ A
 
 |
 
-Espace de manœuvre et accès au poste de conduite.
+Espace de manœuvre et accès au poste de conduite
 
 |
 
-80/720/CEE
+80/720/ CEE modifiée par 2010/22/ UE modifiée par 2010/62/ UE
 
-2010/22/CE (10)
+|
+
+(7)
+
+1er mai 2011
+
+29 septembre 2011
+
+|
+
+(7)
+
+29 septembre 2012
 
 |
 
@@ -712,7 +934,7 @@ X
 
 |
 
-X
+-
 
 |
 
@@ -728,11 +950,23 @@ A
 
 |
 
-Prises de force.
+Prises de force
 
 |
 
-86/297/CEE
+86/297/ CEE modifiée par 2010/62/ UE
+
+|
+
+(7)
+
+29 septembre 2011
+
+|
+
+(7)
+
+29 septembre 2012
 
 |
 
@@ -756,13 +990,25 @@ A
 
 |
 
-Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) (4).
+Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) (4)
 
 |
 
-86/298/CEE
+86/298/ CEE modifiée par 2010/22/ UE
 
-2010/22/CE (10)
+|
+
+(7)
+
+1er mai 2011
+
+|
+
+(7)
+
+|
+
+-
 
 |
 
@@ -770,11 +1016,7 @@ X
 
 |
 
-X
-
-|
-
-X
+-
 
 |
 
@@ -786,15 +1028,21 @@ T
 
 |
 
-Installation, emplacement, fonctionnement et identification des commandes (5).
+Installation, emplacement, fonctionnement et identification des commandes (5)
 
 |
 
-86/415/CEE
+Annexe I et annexe II points 1,2.1 et 2.2 86/415/ CEE modifiée par 2010/22/ UE
 
-2010/22/CE (10)
+|
 
-Annexe I et annexe II points 1, 2.1 et 2.2
+(7)
+
+1er mai 2011
+
+|
+
+(7)
 
 |
 
@@ -818,17 +1066,21 @@ A
 
 |
 
-Installation, emplacement, fonctionnement et identification des commandes.
+Installation, emplacement, fonctionnement et identification des commandes
 
 |
 
-86/415/CEE
+Annexe I et annexe II points 1,2.3 et 2.4 86/415/ CEE modifiée par 2010/22/ UE
 
-2010/22/CE (10)
+|
 
-Annexe I et annexe II
+(7)
 
-points 1, 2.3 à 2.5
+1er mai 2011
+
+|
+
+(7)
 
 |
 
@@ -852,13 +1104,25 @@ A
 
 |
 
-Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) (4).
+Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) (4)
 
 |
 
-87/402/CEE
+87/402/ CEE modifiée par 2010/22/ UE
 
-2010/22/CE (10)
+|
+
+(7)
+
+1er mai 2011
+
+|
+
+(7)
+
+|
+
+-
 
 |
 
@@ -866,11 +1130,7 @@ X
 
 |
 
-X
-
-|
-
-X
+-
 
 |
 
@@ -882,15 +1142,27 @@ T
 
 |
 
-Dimensions et masse remorquable (5).
+Dimensions et
+
+masse remorquable (5)
 
 |
 
-89/173/CEE
+Annexe I 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe I
+(7)
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+(9)
 
 |
 
@@ -914,15 +1186,29 @@ T
 
 |
 
-Vitres (2) (3).
+Vitres (2) (3)
 
 |
 
-89/173/CEE
+Annexe III 89/173/ CEE modifiée par 2006/26/ CE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe III
+(7)
+
+1er juillet 2007
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+1er juillet 2009
+
+(9)
 
 |
 
@@ -946,15 +1232,25 @@ T
 
 |
 
-Régulateur de vitesse (5).
+Régulateur de vitesse (5)
 
 |
 
-89/173/CEE
+Annexe II, 1 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe II,1
+(7)
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+(9)
 
 |
 
@@ -978,15 +1274,29 @@ A
 
 |
 
-Protection des éléments moteurs.
+Protection des éléments moteurs et exigences de sécurité supplémentaires et manuel d'utilisation
 
 |
 
-89/173/CEE
+Annexe II, 2,3 et 4 89/173/ CEE modifiée par 2006/26/ CE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe II,2
+(7)
+
+1er juillet 2007
+
+1er juin 2010
+
+2 septembre 2011
+
+|
+
+(7)
+
+1er juillet 2009
+
+2 septembre 2012
 
 |
 
@@ -1010,15 +1320,25 @@ A
 
 |
 
-Liaisons mécaniques.
+Liaisons mécaniques
 
 |
 
-89/173/CEE
+Annexe IV 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe IV
+(7)
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+(9)
 
 |
 
@@ -1042,15 +1362,25 @@ T
 
 |
 
-Plaque réglementaire.
+Plaque réglementaire
 
 |
 
-89/173/CEE
+Annexe V 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe V
+(7)
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+(9)
 
 |
 
@@ -1074,15 +1404,27 @@ T
 
 |
 
-Liaison de freinage avec les remorques.
+Liaison de freinage
+
+avec les remorques
 
 |
 
-89/173/CEE
+Annexe VI 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE
 
-2009/144/CE (9)
+|
 
-Annexe VI
+(7)
+
+1er juin 2010
+
+(9)
+
+|
+
+(7)
+
+(9)
 
 |
 
@@ -1106,13 +1448,23 @@ T
 
 |
 
-Émission de polluants (2) (3).
+Emission de polluants
+
+(2) (3)
 
 |
 
-2000/25/CE
+2000/25/ CE modifiée par 2010/22/ UE
 
-2010/22/CE (11)
+|
+
+(7)
+
+30 avril 2010
+
+|
+
+(7)
 
 |
 
@@ -1136,11 +1488,15 @@ T
 
 |
 
-Pneumatiques (1).
+Pneumatiques (1)
 
 |
 
-[.../.../CE]
+[.../.../ CE]
+
+|
+
+|
 
 |
 
@@ -1164,13 +1520,19 @@ T ou A
 
 |
 
-Points d'ancrage ceintures de sécurité (6).
+Points d'ancrage ceintures de sécurité (6)
 
 |
 
-76/115/CEE
+76/115/ CEE ou codes OCDE
 
-ou codes OCDE
+|
+
+(7)
+
+|
+
+(7)
 
 |
 
@@ -1188,26 +1550,24 @@ X
 
 (1) En attendant l'adoption d'une directive sur les pneumatiques, l'absence d'une directive particulière sur ce point n'empêche pas l'octroi de la réception CE pour l'ensemble du véhicule.
 
-(2) Les directives particulières relatives aux véhicules à moteurs (dans leur dernière version en vigueur à la date de réception CE) peuvent être appliquées à la place des directives particulières correspondantes relatives aux tracteurs, conformément aux dispositions de la partie II.A du chapitre B de l'annexe II de la directive 2003/37/CE.
+(2) Les directives particulières relatives aux véhicules à moteurs (dans leur dernière version en vigueur à la date de réception CE) peuvent être appliquées à la place des directives particulières correspondantes relatives aux tracteurs, conformément aux dispositions de la partie II. A du chapitre B de l'annexe II de la directive 2003/37/ CE.
 
-(3) Les règlements repris à l'annexe à l'accord révisé de 1958 et reconnus par la Communauté en tant que partie contractante dudit accord (dans leurs dernières versions à la date de la réception CE) peuvent être appliqués à la place des directives particulières correspondantes relatives aux tracteurs et de celles relatives aux véhicules à moteur visées par le renvoi (2) ci-dessus, conformément aux dispositions de la partie II.B du chapitre B de l'annexe II de la directive 2003/37/CE.
+(3) Les règlements repris à l'annexe à l'accord révisé de 1958 et reconnus par la Communauté en tant que partie contractante dudit accord (dans leurs dernières versions à la date de la réception CE) peuvent être appliqués à la place des directives particulières correspondantes relatives aux tracteurs et de celles relatives aux véhicules à moteur visées par le renvoi (2) ci-dessus, conformément aux dispositions de la partie II. B du chapitre B de l'annexe II de la directive 2003/37/ CE.
 
-(4) Les bulletins d'essai (complets) conformes aux codes OCDE peuvent être utilisés à la place des procès-verbaux d'essai réalisés conformément aux directives particulières correspondantes, conformément aux dispositions de la partie II.C du chapitre B de l'annexe II de la directive 2003/37/CE.
+(4) Les bulletins d'essai (complets) conformes aux codes OCDE peuvent être utilisés à la place des procès verbaux d'essai réalisés conformément aux directives particulières correspondantes, conformément aux dispositions de la partie II. C du chapitre B de l'annexe II de la directive 2003/37/ CE.
 
-(5) Conformité facultative pour la réception CE de petite série, telle que définie à l'article 9 de la directive 2003/37/CE et en nombre limité à la valeur fixée par l'annexe V de la directive 2003/37/CE.
+(5) Conformité facultative pour la réception CE de petite série, telle que définie à l'article 9 de la directive 2003/37/ CE et en nombre limité à la valeur fixée par l'annexe V de la directive 2003/37/ CE.
 
-(6) Si le constructeur se réfère à la directive 76/115/CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture.
+(6) Si le constructeur se réfère à la directive 76/115/ CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture.
 
-(7) Applicable à compter du 1er mai 2008 aux nouveaux types de véhicules.
+(7) Voir dates de l'article 10 du présent arrêté.
 
-(8) Pour les réceptions CE par type antérieures au 1er janvier 2010, les références faites à la directive mentionnée dans l'arrêté du 22 novembre 2005 tel que modifié par l'arrêté du 13 mai 2008 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
+(8) Véhicule neuf mis en service ou vendu ou mis pour la première fois en circulation.
 
-(9) Pour les réceptions CE par type antérieur au 1er juin 2010, les références faites à la directive mentionnée dans l'arrêté du 22 novembre 2005 tel que modifié par l'arrêté du 30 décembre 2009 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
+(9) Pas d'évolution technique pour le domaine réglementé (système, entité ou composant) concerné.
 
-(10) Applicable à compter du 1er mai 2011 aux nouveaux types de véhicules.
+X = applicable en l'état suivant dernier amendement.
 
-(11) Applicable à compter du 30 avril 2010 aux nouveaux types de véhicules.
+- = Sans objet.
 
-x = applicable en l'état suivant dernier amendement.
-
-- = sans objet.
+|
