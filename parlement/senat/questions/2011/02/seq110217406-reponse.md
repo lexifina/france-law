@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217406
+
+- Question : [SEQ110217406](seq110217406.md) — Fondation du Patrimoine et mécénat
+
+## Réponse
+
+*Culture, JO du 2011-04-28, page 1098*
+
+Le ministère de la culture et de la communication soutient l'action de la Fondation du patrimoine qui est tout à fait complémentaire de celle de l'État. Le rapport de M. Albéric de Montgolfier semble regretter que celle-ci n'ait pu devenir un national trust à l'anglaise mais, ainsi que le confirment les travaux parlementaires, ce n'était pas la voie choisie par la loi de 1996 qui a créé la fondation. Le mécénat développé par la Fondation du patrimoine est très orienté vers le patrimoine de proximité ou thématique (patrimoine lié à l'eau, patrimoine situé près de sites liés à des grandes entreprises, patrimoine régional...) et le développement du mécénat « populaire » est un grand succès, car il est lié aux souscriptions publiques lancées par la fondation qui mobilisent les habitants et leur permettent de s'approprier la restauration d'un patrimoine essentiel pour l'identité et la qualité de leur environnement territorial. Les résultats de la fondation sont très positifs et le travail des délégations régionales et départementales, ainsi que de tous les bénévoles, est très efficace. La légèreté de la structure et sa réactivité lui permettent d'être présente sur de nombreux secteurs et d'encourager le développement d'activités liées au patrimoine aux côtés des collectivités publiques. Le ministre de la culture et de la communication était présent à la dernière réunion des délégations régionales de la fondation en octobre dernier et a souligné le travail remarquable des délégués ainsi que leur contribution à la conservation et la mise en valeur du patrimoine de proximité par la dynamique de leur action, qu'il n'est pas question de remettre en cause.
