@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217097
+
+- Question : [SEQ110217097](seq110217097.md) — Évolution chiffrée de la présence postale dans la Drôme
+
+## Réponse
+
+*Industrie, JO du 2011-04-28, page 1108*
+
+Le département de la Drôme compte 165 points de contact dont 108 bureaux de poste, 43 agences postales communales et 14 « relais-poste ». En 2009, 96,8 % de la population était située à moins de 5 km d'un point de contact de La Poste. Cette présence postale, qui respecte la règle d'accessibilité prévue par la loi du 9 février 2010 relative à l'entreprise publique La Poste, est pérenne, le contrat de présence postale territoriale, signé le 26 janvier 2011 par l'État, La Poste et l'Association des maires de France, prévoyant de maintenir le nombre de points de contact dans les zones rurales, les zones de montagne et les zones urbaines sensibles de chaque département. Le Fonds postal national de péréquation territoriale contribue à la rénovation des bureaux de poste, ainsi qu'au financement des agences postales communales et des « relais-poste » dans ces zones prioritaires. L'enveloppe globale du fonds prévue en 2011 pour le département de la Drôme est de près de 1,8 M€, contre 1,3 M€ en moyenne par an au titre du précédent contrat. Durant la période 2008-2010, 515 000 € ont ainsi été consacrés à la rénovation de bureaux de poste des communes rurales et des zones urbaines sensibles du département de la Drôme. Concernant l'évolution de la présence postale dans les deux ans à venir dans le département de la Drôme, cette évolution sera déterminée sur la base des rapports de maillage annuels, qui seront présentés et soumis à l'avis de la commission départementale de présence postale territoriale (CDPPT) en 2011 et 2012. Toutes les informations utiles sur l'évolution du maillage postal du département de la Drôme pourront ainsi être obtenues à partir de ces rapports, disponibles auprès du délégué aux relations territoriales de La Poste pour la Drôme.
