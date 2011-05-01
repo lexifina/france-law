@@ -38,8 +38,6 @@ des exploitations
 
 |
 
-|
-
 Départements
 
 |
@@ -55,8 +53,6 @@ Moules
 et autres
 
 coquillages
-
-|
 
 |
 
@@ -738,11 +734,25 @@ La Rochelle
 
 |
 
-Partie de la Charente-Maritime
+Partie de la
+
+Charente-Maritime
 
 |
 
-De la limite séparative des départements de la Vendée et de la Charente-Maritime (rive gauche de la Sèvre niortaise) à la rive droite du fleuve Charente. Ile de Ré, île d'Aix
+De la limite séparative des
+
+départements de la Vendée
+
+et de la Charente-Maritime
+
+(rive gauche de la Sèvre
+
+niortaise) à la rive droite
+
+du fleuve Charente.
+
+Ile de Ré, île d'Aix
 
 |
 
@@ -764,11 +774,25 @@ Marennes-Oléron
 
 |
 
-Partie de la Charente-Maritime
+Partie de la
+
+Charente-Maritime
 
 |
 
-De la rive gauche du fleuve Charente à la limite séparative des départements de la Charente-Maritime et de la Gironde (rive gauche de l'estuaire de la Gironde) Ile d'Oléron, île Madame
+De la rive gauche du fleuve
+
+Charente à la limite séparative
+
+des départements de la
+
+Charente-Maritime et de
+
+la Gironde (rive gauche
+
+de l'estuaire de la Gironde)
+
+Ile d'Oléron, île Madame
 
 |
 
@@ -862,7 +886,9 @@ Port-Vendres
 
 |
 
-Pyrénées-Orientales Aude
+Pyrénées-Orientales
+
+Aude
 
 |
 
@@ -956,8 +982,6 @@ Huîtres et moules
 
 |
 
-|
-
 Toulon
 
 |
@@ -971,8 +995,6 @@ Martigues
 |
 
 3
-
-|
 
 |
 
@@ -997,8 +1019,6 @@ Marseille
 |
 
 1
-
-|
 
 |
 
@@ -1028,8 +1048,6 @@ Toulon
 
 |
 
-|
-
 2
 
 |
@@ -1054,8 +1072,6 @@ Nice
 
 |
 
-|
-
 2
 
 |
@@ -1072,7 +1088,7 @@ Ajaccio
 
 |
 
-Corse-du-Nord
+Haute-Corse
 
 |
 
@@ -1080,13 +1096,11 @@ Bastia
 
 |
 
-6
-
-|
-
-|
-
 4
+
+|
+
+1
 
 |
 
@@ -1105,6 +1119,8 @@ Ajaccio
 |
 
 |
+
+4
 
 |
 
