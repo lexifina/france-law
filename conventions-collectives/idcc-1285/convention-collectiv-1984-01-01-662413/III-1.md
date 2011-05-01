@@ -1,12 +1,12 @@
 # Article 3-1
 
-III. 1.1. Désignation
+III. 1. 1. Désignation
 
 Sauf accord d'entreprise prévoyant un mandat d'une durée supérieure les délégués du personnel sont élus pour 2 ans, conformément aux dispositions légales fixant le statut des délégués du personnel dans les entreprises et des textes subséquents.
 
 Les conditions de leur élection, de leur protection et la durée de leur mandat seront conformes à la législation en vigueur. Les textes législatifs ou réglementaires qui pourraient être promulgués postérieurement à la signature de la convention s'appliqueront de plein droit dans les établissements visés par cette convention et à la date prévue par les nouveaux textes.
 
-La mission des délégués du personnel est définie par l'article L. 2313-1 du code du travail et l'article III. 1.4 de la présente convention.
+La mission des délégués du personnel est définie par l'article L. 2313-1 du code du travail et l'article III. 1. 4 de la présente convention.
 
 L'élection des délégués du personnel se déroulera à une date fixée en accord avec les organisations syndicales représentées dans l'entreprise, autant que possible entre le 1er janvier et le 31 mars et 15 jours au moins avant l'expiration du mandat des délégués en exercice
 
@@ -28,7 +28,7 @@ Les salariés à temps partiel, dont la durée de travail est égale ou supérie
 
 Pour les salariés dont la durée de travail est inférieure à ces seuils, l'effectif est calculé en divisant la masse totale des horaires inscrits dans ces contrats de travail par la durée conventionnelle de travail.
 
-III. 1.2. Electorat et éligibilité des personnels en CDD
+III. 1. 2. Electorat et éligibilité des personnels en CDD
 
 Du fait de la spécificité des entreprises artistiques et culturelles, il convient de faciliter l'accès à l'électorat des salariés intermittents artistiques et techniques.
 
@@ -36,21 +36,19 @@ Sont électeurs les salariés en CDD qui ont été sous contrat de travail dans 
 
 Au sein des entreprises en ayant la capacité, un accord collectif de travail, ou à défaut le protocole d'accord préélectoral, réglera la question de l'éligibilité des personnels en CDD.
 
-III. 1.3. Fonctionnement
+III. 1. 3. Fonctionnement
 
 Les délégués syndicaux et les délégués du personnel seront reçus collectivement par le directeur ou ses représentants accrédités au moins une fois par mois.
 
 Les délégués syndicaux et les délégués du personnel seront en outre reçus, en cas d'urgence, sur leur demande.
 
-Sauf circonstances exceptionnelles, les délégués et les représentants syndicaux du personnel remettront à la direction, 2 jours avant la date de l'audience, une note écrite exposant sommairement l'objet de leur demande. Copie de cette note sera transcrite par les soins de la direction sur un registre spécial où la réponse sera également mentionnée dans un délai n'excédant pas 6 jours. Ce registre sera tenu, pendant un jour ouvrable par quinzaine, à la disposition des salariés de l'établissement qui désireraient en prendre connaissance
-
-(2).
+Sauf circonstances exceptionnelles, les délégués et les représentants syndicaux du personnel remettront à la direction, 2 jours ouvrables avant la date de l'audience, une note écrite exposant sommairement l'objet de leur demande. Copie de cette note sera transcrite par les soins de la direction sur un registre spécial où la réponse sera également mentionnée dans un délai n'excédant pas 6 jours ouvrables. Ce registre sera tenu, pendant un jour ouvrable par quinzaine, à la disposition des salariés de l'établissement qui désireraient en prendre connaissance.
 
 Les délégués du personnel titulaires bénéficient d'un crédit d'heures qui, sauf circonstances exceptionnelles, ne peut excéder 15 heures par mois. En cas d'absence du titulaire, le suppléant bénéficie du crédit d'heures attribué au titulaire dans la limite du nombre d'heures de délégation non consommées par le titulaire.
 
-Ce plafond est porté à 20 heures dans les établissements où, en l'absence de comité d'entreprise, les délégués du personnel en exercent les attributions
+– dans les entreprises de plus de 50 salariés : lorsque les délégués du personnel exercent les attributions économiques du comité d'entreprise en l'absence de ce dernier et par suite de carence constatée aux dernières élections ils bénéficient en outre d'un crédit d'heures de 20 heures par mois ;
 
-(3).
+– dans les entreprises de moins de 50 salariés en présence d'un CEC, dont les attributions sont définies à l'article 3.2.1, et d'une délégation unique du personnel, le crédit d'heures du délégué du personnel est porté à 20 heures (2).
 
 Ces heures sont rémunérées comme temps de travail. Ne s'imputent pas sur ce crédit d'heures et sont payés comme temps de travail :
 
@@ -68,13 +66,13 @@ Pour rendre compte de leur mandat, les délégués du personnel peuvent organise
 
 Ces réunions sont distinctes de celles prévues par l'article II. 4 de la convention à l'initiative des sections syndicales
 
-(4).
+(3).
 
-La direction, sauf impossibilité matérielle, est tenue de mettre à la disposition des délégués du personnel un local convenant à l'exercice de leur mission ainsi que le mobilier et le matériel nécessaires.
+Conformément à l'article L. 2315-6 du code du travail, l'employeur met à la disposition des délégués du personnel le local nécessaire pour leur permettre d'accomplir leur mission et notamment de se réunir.
 
 Selon les possibilités de l'établissement, ce local sera distinct ou non de celui prévu pour les sections syndicales et pour le comité d'entreprise.
 
-III. 1.4. Attributions
+III. 1. 4. Attributions
 
 Au-delà des attributions particulières dans les divers domaines prévus par la loi ou la présente convention, les organisations signataires s'accordent pour souhaiter que les délégués du personnel soient largement associés à la définition de la politique et des orientations générales de l'entreprise.
 
@@ -154,14 +152,10 @@ Toutefois, ce délai est porté à :
 
 (Arrêté du 23 décembre 2009, art. 1er)
 
-(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2315-12, alinéas 1 et 2, du code du travail dont il ressort que les délais de deux jours pour transmettre les demandes et de six jours pour apporter les réponses sont comptabilisés en jours ouvrables.
+(3) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2315-6 du code du travail.
 
 (Arrêté du 23 décembre 2009, art. 1er)
 
-(3) Alinéa exclu de l'extension comme étant contraire aux dispositions de l'article L. 2315-2 du code du travail, qui dispose que les délégués du personnel qui exercent les attributions économiques du comité d'entreprise en l'absence de ce dernier et par suite de carence constatée aux dernières élections bénéficient en outre d'un crédit de 20 heures par mois.
+(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2326-1 du code du travail, la délégation unique du personnel pouvant être mise en place dans les entreprises de moins de 200 salariés.
 
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(4) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 2315-6 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)
+(Arrêté du 23 mars 2011, art. 1er)

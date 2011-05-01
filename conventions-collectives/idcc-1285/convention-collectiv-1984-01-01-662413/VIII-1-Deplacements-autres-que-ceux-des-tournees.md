@@ -20,21 +20,17 @@ vers un autre lieu d'exécution du travail
 
 Le trajet entre l'entreprise et le lieu de déplacement du salarié est considéré comme du travail effectif.
 
-C. ― Trajet entre différents lieux de travail
+C. – Trajet entre différents lieux de travail
 
 Pour les petits déplacements, les temps de trajet effectués entre différents lieux de travail sont qualifiés de temps de travail effectif.
 
 Pour les grands déplacements, dont les tournées, les temps de trajet effectués entre différents lieux de travail ne sont pas qualifiés de temps de travail effectif, mais constituent des servitudes qui donnent lieu à une comptabilisation selon les modalités suivantes :
 
-Temps d'équivalence (1)
-
-:
-
 Les temps de trajet sont comptabilisés, pour chaque trajet :
 
-― dans le cas des voyages d'une durée inférieure à 6 heures : pour leur durée réelle jusqu'à 2 heures de temps de trajet, et pour la moitié de leur durée réelle au-delà de 2 heures ;
+– dans le cas des voyages d'une durée inférieure à 6 heures : pour leur durée réelle jusqu'à 2 heures de temps de trajet, et pour la moitié de leur durée réelle au-delà de 2 heures ;
 
-― dans le cas des voyages d'une durée égale ou supérieure à 6 heures : pour leur durée réelle jusqu'à 3 heures de temps de trajet, et pour la moitié de leur durée réelle au-delà de 3 heures.
+– dans le cas des voyages d'une durée égale ou supérieure à 6 heures : pour leur durée réelle jusqu'à 3 heures de temps de trajet, et pour la moitié de leur durée réelle au-delà de 3 heures.
 
 En toute hypothèse, une journée entièrement consacrée à du transport ne peut être comptabilisée plus de 8 heures.
 
@@ -42,13 +38,13 @@ Exceptions :
 
 Cependant, ne sont pas comptabilisés comme temps de travail effectif, dans le cadre d'un déplacement vers plusieurs lieux successifs, notamment une tournée :
 
-― le premier temps de trajet pour se rendre du domicile au lieu de rendez-vous fixé pour un départ collectif, qui, pour les structures disposant d'un lieu de travail artistique fixe, ne peut être éloigné de plus de 40 kilomètres de celui-ci ou du siège social de l'entreprise ;
+– le premier temps de trajet pour se rendre du domicile au lieu de rendez-vous fixé pour un départ collectif, qui, pour les structures disposant d'un lieu de travail artistique fixe, ne peut être éloigné de plus de 40 km de celui-ci ou du siège social de l'entreprise, ou
 
-― ou le premier temps de trajet du domicile à un premier lieu d'exécution du contrat de travail ; le dernier temps de trajet pour revenir du dernier lieu d'exécution du contrat de travail.
+– le premier temps de trajet du domicile à un premier lieu d'exécution du contrat de travail ; le dernier temps de trajet pour revenir du dernier lieu d'exécution du contrat de travail.
 
 Assimilation au domicile :
 
-Dans le cadre d'un grand déplacement, le trajet entre le lieu temporaire d'hébergement et le lieu de travail est assimilé au trajet domicile vers le lieu de travail dès lors qu'est assuré un accès aisé aux facilités de la vie courante, notamment en matière de transports.
+Dans le cadre d'un grand déplacement, le trajet entre le lieu temporaire d'hébergement et le lieu de travail est assimilé au trajet domicile-lieu de travail dès lors qu'est assuré un accès aisé aux facilités de la vie courante, notamment en matière de transports.
 
 VIII. 1. 2. Ordre de mission
 
@@ -73,5 +69,3 @@ Le planning prévisionnel du déplacement en tournée est soumis à leur consult
 Ce délai de consultation est porté à 2 mois lorsque le déplacement en tournée dure plus de 2 mois.
 
 Dans le cas où aucun délégué du personnel de l'entreprise ne participe au déplacement en tournée, les délégués du personnel sont fondés à désigner un représentant du personnel de la tournée. Sa compétence serait strictement limitée aux problèmes survenant au cours du déplacement en tournée.
-
-(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L.3121-9 du code du travail (Arrêté du 23 décembre 2009, art. 1er)

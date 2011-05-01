@@ -1,6 +1,6 @@
 # Article XV.3
 
-XV. 3. 1.L'article VIII. 4. 2 concernant les conditions de transport collectif est ainsi aménagé :
+XV. 3. 1. L'article VIII. 4. 2 concernant les conditions de transport collectif est ainsi aménagé :
 
 A l'issue de tout voyage, un temps de repos sera ménagé avant la prise de travail. Il sera au moins égal à :
 
@@ -18,7 +18,7 @@ Pour les artistes musiciens appartenant à des orchestres à nomenclature, si la
 
 ― à partir de 9 découchers : un repos correspondant à 1 / 3 du nombre total de jours de la tournée, à l'exception des jours de repos inclus dans celle-ci.
 
-XV. 3. 2.L'article VIII. 4. 2 concernant les conditions de transport collectif est aménagé pour les artistes participant à des plateaux et balances multiples :
+XV. 3. 2. L'article VIII. 4. 2 concernant les conditions de transport collectif est aménagé pour les artistes participant à des plateaux et balances multiples :
 
 Le paragraphe B " Temps de repos à l'issue des voyages ” est ainsi fixé :
 
@@ -28,9 +28,9 @@ Afin de tenir compte des particularités liées à la succession de prestations 
 
 ― la seconde entre la balance et le début du concert.
 
-XV. 3. 3. Pour les artistes musiciens appartenant à des orchestres à nomenclature, l'article VIII. 1. 1.C. a concernant le temps d'équivalence lors des grands déplacements (1) est ainsi aménagé :
+XV. 3. 3. Pour les artistes-musiciens appartenant à des orchestres à nomenclature, l'article 8.1.1, C, a concernant le temps comptabilisé lors des grands déplacements est ainsi aménagé :
 
-Les voyages sont décomptés pour 1 / 3 de leur durée réelle lorsque la journée ne comprend que le temps de transport. Le temps de transport est décompté pour un tiers sur le décompte trimestriel, le reliquat étant rajouté sur le décompte annuel. Dans l'hypothèse d'un travail musical en sus du temps de transport, les jours de départ et de retour de tournée, le décompte du temps de travail se fait en services pour le travail au pupitre et en temps réel pour le temps de transport. Chaque journée de tournée est décomptée minimum 6 heures, sauf les jours de repos qui ne sont pas décomptés (sous réserve des accords d'entreprise).
+Les voyages sont décomptés pour 1/3 de leur durée réelle lorsque la journée ne comprend que le temps de transport. Le temps de transport est décompté pour 1/3 sur le décompte trimestriel, le reliquat étant rajouté sur le décompte annuel. Dans l'hypothèse d'un travail musical en sus du temps de transport, les jours de départ et de retour de tournée, le décompte du temps de travail se fait en services pour le travail au pupitre et en temps réel pour le temps de transport. Chaque journée de tournée est décomptée minimum 6 heures, sauf jours de repos qui ne sont pas décomptés (sous réserve des accords d'entreprise).
 
 XV. 3. 4. Pour les artistes musiciens appartenant à des orchestres à nomenclature, le 4e tiret de l'article VIII. 2. 3 concernant la ventilation de l'indemnité de déplacement est ainsi aménagé :
 
@@ -61,7 +61,3 @@ Dans ces différents cas de figure, le lieu d'installation temporaire est pris e
 ― les indemnités d'installation et de découcher constituant un fractionnement de l'indemnité de déplacement, elles ne peuvent se cumuler avec elle, seul le complément est dû ;
 
 ― en cas de double résidence, un déplacement au lieu du domicile permanent n'ouvre pas droit aux indemnités de déplacement.
-
-(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 3121-9 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)

@@ -30,12 +30,8 @@ c) Prise en compte des absences rémunérées en cas d'aménagement du temps de 
 
 Lorsque le salarié n'aura pas atteint le total annuel de 1 575 heures, chaque jour d'absence rémunérée sera, sauf accord d'entreprise conclu sur des bases différentes, pris en compte :
 
-― pour la durée de travail inscrite au planning définitif, qu'il aurait effectuée s'il avait été présent ;
+– pour la durée de travail inscrite au planning définitif qu'il aurait effectuée s'il avait été présent ;
 
-― en l'absence de planning définitif, pour une durée de 7 heures (1).
+– pour une durée de 7 heures dans les autres cas.
 
 Lorsque le salarié dépasse le total annuel de 1 575 heures, l'équivalent temps de travail au titre des jours d'absences rémunérées ci-dessus mentionné ne sera pas intégré dans le décompte annuel.
-
-(1) Termes exclus de l'extension comme étant contraires aux dispositions combinées des articles L. 3122-2 et L. 3171-1 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)

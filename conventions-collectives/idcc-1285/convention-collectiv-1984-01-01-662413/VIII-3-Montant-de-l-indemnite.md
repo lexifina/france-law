@@ -16,11 +16,9 @@ Dès le départ et pendant tout le parcours du déplacement jusqu'au retour au p
 
 Dans tous les cas, la direction, qu'elle ait ou non contracté une assurance spéciale, n'est responsable des bagages que lorsqu'ils lui ont été confiés, depuis le jour du départ jusqu'au retour.
 
-VIII. 3. 4. Repos à l'occasion d'un déplacement
+VIII. 3. 4.Repos à l'occasion d'un déplacement
 
-(1)
-
-Les salariés devront avoir au cours de leur déplacement, au minimum 9 heures de repos entre la fin de leur travail et le départ du lendemain.
+Les salariés devront au cours de leur déplacement bénéficier de 11 heures de repos, sauf les cas visés à l'article 6.7 entre la fin de leur travail et le départ du lendemain.
 
 VIII. 3. 5. Jours de congés exceptionnels dans le cadre d'un déplacement ou d'une tournée
 
@@ -29,5 +27,3 @@ Avant tout déplacement ou tournée de plus de 1 mois ne prévoyant pas de retou
 Au cas où l'itinéraire d'une tournée en France métropolitaine impliquerait une absence continue du salarié de son domicile supérieure à 1 mois s'il réside en France métropolitaine ou supérieure à 3 mois s'il réside hors de France métropolitaine, la direction organiserait à ses frais, à la période de relâche la plus favorable (proximité, facilités de communication, etc.), un voyage à la ville de domicile du salarié, s'il en exprime le souhait, de telle sorte que les périodes d'absences continues n'excèdent pas 1 mois s'il réside sur le territoire métropolitain et de 3 mois s'il réside hors de France métropolitaine.
 
 Le temps consacré à ce voyage n'est pas pris en compte dans l'horaire de travail.
-
-(1) Article exclu de l'extension comme ne remplissant pas les conditions prévues à l'article D.3131-6 du code du travail (Arrêté du 23 décembre 2009, art. 1er).

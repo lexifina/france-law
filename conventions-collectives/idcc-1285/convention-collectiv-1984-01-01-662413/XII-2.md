@@ -54,7 +54,9 @@ XII. 2. 2. 1. Garanties salariés intermittents cadres
 
 XII. 2. 2. 2. Garanties salariés intermittents cadres : cotisations
 
-XII. 2. 2. 3. Garanties (2) salariés intermittents cadres : prestations
+XII. 2. 2. 3. Garanties
+
+(1) salariés intermittents cadres : prestations
 
 XII. 2. 2. 4. Cotisations salariés intermittents
 
@@ -112,9 +114,9 @@ En cas d'invalidité permanente totale telle que définie au contrat d'assurance
 
 Le versement de ce capital met fin à la garantie capital décès toutes causes du participant et capital décès accidentel.
 
-B. ― Garantie capital orphelin de père et de mère ou double effet
+B. – Garantie capital orphelin de père et de mère ou double effet
 
-En cas de décès simultané ou postérieur du conjoint survivant avant l'âge de 65 ans (1), il est versé aux enfants restant encore à charge, un second capital égal au capital décès toutes causes.
+En cas de décès simultané ou postérieur du conjoint survivant il est versé aux enfants restant encore à charge un second capital égal au capital décès toutes causes.
 
 C. ― Capital décès accidentel
 
@@ -182,9 +184,9 @@ En cas d'invalidité permanente totale telle que définie au contrat d'assurance
 
 Le versement de ce capital met fin à la garantie capital décès toutes causes du participant et du capital décès accidentel.
 
-B. ― Garantie capital orphelin de père et de mère ou double effet
+B. – Garantie capital orphelin de père et de mère ou double effet
 
-En cas de décès simultané ou postérieur du conjoint survivant avant l'âge de 65 ans (3), il est versé aux enfants restant encore à charge, un second capital égal au capital décès toutes causes.
+En cas de décès simultané ou postérieur du conjoint survivant, il est versé aux enfants restant encore à charge, un second capital égal au capital décès toutes causes.
 
 C. ― Capital décès accidentel
 
@@ -312,9 +314,9 @@ En cas d'invalidité permanente totale telle que définie au contrat d'assurance
 
 Le versement de ce capital met fin à la garantie capital décès toutes causes du participant.
 
-B. ― Garantie capital orphelin de père et de mère ou double effet
+B. – Garantie capital orphelin de père et de mère ou double effet
 
-En cas de décès simultané ou postérieur du conjoint survivant avant l'âge de 65 ans (4), il est versé aux enfants restant encore à charge, un second capital égal au capital décès toutes causes.
+En cas de décès simultané ou postérieur du conjoint survivant, il est versé aux enfants restant encore à charge, un second capital égal au capital décès toutes causes.
 
 XII. 2. 2. 3. b. Garanties en cas d'incapacité et invalidité
 
@@ -352,7 +354,9 @@ Conformément à l'article L. 912-3 du code de la sécurité sociale, la revalor
 
 Les parties rappellent que les organismes assureurs doivent, conformément à l'article 7 de la loi n° 89-1009 du 31 décembre 1989, assurer le versement des prestations immédiates ou différées, acquises ou nées durant l'exécution de leur contrat d'assurance, à leur niveau atteint à la date d'effet de la résiliation. Elles rappellent que ce texte impose aux organismes assureurs de maintenir la garantie d'invalidité survenant postérieurement à la résiliation du contrat d'assurance mais résultant d'une pathologie ou d'un accident survenu pendant l'exécution de leur contrat d'assurance.
 
-XII. 2. 3. 2. Mutualisation du risque (5)
+XII. 2. 3. 2. Mutualisation du risque
+
+(2)
 
 L'adhésion des entreprises à l'organisme assureur désigné au présent article et l'affiliation des salariés résultent du présent accord et ont un caractère strictement obligatoire.
 
@@ -396,22 +400,10 @@ Le présent accord sera déposé en 2 exemplaires (une version sur support papie
 
 En outre, un exemplaire sera établi pour chaque partie. ”
 
-(1) Termes exclus comme étant contraires aux dispositions de l'article L. 1132-1 du code du travail.
+(1) Article étendu sous réserve de l'application des dispositions combinées des articles L. 2221-1 et L. 2261-19 du code du travail, qui disposent d'une part que l'objet des relations des conventions est la détermination des relations collectives entre employeurs et salariés, notamment en ce qui concerne les garanties sociales des salariés et d'autre part que pour pouvoir être étendus, la convention de branche, leurs avenants ou annexes doivent avoir été négociés et conclus en commission paritaire.
 
 (Arrêté du 23 décembre 2009, art. 1er)
 
-(2) Article étendu sous réserve de l'application des dispositions combinées des articles L. 2221-1 et L. 2261-19 du code du travail, qui disposent d'une part que l'objet des relations des conventions est la détermination des relations collectives entre employeurs et salariés, notamment en ce qui concerne les garanties sociales des salariés et d'autre part que pour pouvoir être étendus, la convention de branche, leurs avenants ou annexes doivent avoir été négociés et conclus en commission paritaire.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(3) Termes exclus comme étant contraires aux dispositions de l'article L. 1132-1 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(4) Termes exclus comme étant contraires aux dispositions de l'article L. 1132-1 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(5) Article étendu sous réserve de l'application de l'article L. 912-1 du code de la sécurité sociale qui pose en son premier alinéa le principe de l'adhésion obligatoire à l'organisme assureur désigné et au second alinéa l'obligation d'adapter les couvertures d'entreprises souscrites antérieurement et offrant des garanties de niveau équivalent. Ainsi la possibilité de ne pas adhérer au régime de branche se limite aux seules entreprises qui disposent, risque par risque, d'une couverture prévoyance de niveau strictement supérieur.
+(2) Article étendu sous réserve de l'application de l'article L. 912-1 du code de la sécurité sociale qui pose en son premier alinéa le principe de l'adhésion obligatoire à l'organisme assureur désigné et au second alinéa l'obligation d'adapter les couvertures d'entreprises souscrites antérieurement et offrant des garanties de niveau équivalent. Ainsi la possibilité de ne pas adhérer au régime de branche se limite aux seules entreprises qui disposent, risque par risque, d'une couverture prévoyance de niveau strictement supérieur.
 
 (Arrêté du 23 décembre 2009, art. 1er)
