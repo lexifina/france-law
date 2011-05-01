@@ -22,11 +22,13 @@ extincteur, dispositif de sonde, dispositif d'obturation de la coque, boîte de 
 
 - être capable de localiser sur un plan les points sensibles du bateau et de faire figurer sur ce plan les matériels de lutte contre l'incendie et les voies d'eau.
 
-Objectif n° 3 " concevoir l'importance d'une formation à l'utilisation des moyens de communications embarqués " :
+Objectif n° 3 " connaître les règles élémentaires de l'usage des moyens de communications embarqués " :
 
 - être capable de présenter les limites du téléphone portable ;
 
-- être capable de présenter l'intérêt d'utiliser une VHF.
+- être capable de présenter l'intérêt d'utiliser une VHF ;
+
+- être capable de passer un appel de détresse, d'urgence ou de sécurité.
 
 Thème " Les incontournables du plaisancier "
 
