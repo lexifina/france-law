@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100814787
+
+- Question : [SEQ100814787](seq100814787.md) — Renoncement à la réduction d'exonération au titre des dons pour les associations de culture et de communication
+
+## Réponse
+
+*Budget, JO du 2011-05-05, page 1171*
+
+Dans un contexte de réduction des déficits publics et conformément aux engagements européens, le Gouvernement a fait adopter, dans le cadre de la loi de finances pour 2011, un programme ambitieux d'économies sur les niches fiscales. Parmi les mesures adoptées par la représentation nationale, figure notamment la réduction homothétique de certains avantages fiscaux à l'impôt sur le revenu (dite « rabot fiscal »), dont le rendement devrait atteindre 430 M€ en 2012. Ainsi, les réductions et crédits d'impôt afférents à un investissement ou accordés en contrepartie d'une prestation seront soumis à une réduction générale de 10 %. En pratique, il s'agit de la plupart des avantages fiscaux compris dans le champ du plafonnement global prévu à l'article 200-0 A du code général des impôts (CGI). Sont cependant exclus du périmètre du nouveau dispositif les avantages fiscaux liés à la situation personnelle du contribuable ou à la poursuite d'un objectif d'intérêt général sans contrepartie, ainsi que certaines dépenses fiscales destinées à soutenir la politique de l'emploi ou en faveur du logement social ultramarin. Il s'ensuit que les réductions d'impôt mentionnées aux articles 200 et 238 bis du CGI ne sont pas comprises dans le champ d'application de la réduction générale de 10 %, conformément au voeu du Président de la République qui a tenu à rappeler, lors de l'élaboration du projet de loi de finances, que la réduction d'impôt au titre des dons participe à la politique sociale de l'État et ne procure aucune contrepartie pour les donateurs. Ces précisions sont de nature à répondre aux préoccupations exprimées.
