@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116883
+
+- Question : [SEQ110116883](seq110116883.md) — Difficultés rencontrées dans l'Aisne lors du dernier épisode neigeux par les exploitations laitières
+
+## Réponse
+
+*Transports, JO du 2011-05-05, page 1196*
+
+Le 10 janvier 2010, le ministère de l'écologie, du développement durable, des transports et du logement (MEDDTL), et le secrétariat d'État chargé des transports, ont réuni une table ronde sur les transports terrestres qui a permis de dresser un premier bilan des dysfonctionnements constatés sur les routes et sur le réseau ferré lors des épisodes neigeux du mois de décembre 2010. Cette réunion s'est tenue en présence des représentants des services de l'État, d'acteurs publics, de gestionnaires d'infrastructures, d'opérateurs, de fédérations professionnelles et d'associations d'usagers, pour sa partie relative aux transports terrestres. À l'issue de cet échange qui s'est appuyé sur un premier retour d'expérience réalisé par le Conseil général de l'environnement et du développement durable (CGEDD), les ministères ont retenu dix mesures, notamment des mesures concernant l'information des usagers de la route, la circulation des bus et la régulation des transports routiers. La révision des modalités de mise en oeuvre des interdictions de circulation des poids-lourds, en liaison avec les services du ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration a notamment été décidée. Ce travail est en cours et est également mené en concertation avec les organisations représentatives des transporteurs routiers. Par ailleurs, le CGEDD étudie les mesures d'équipement des véhicules susceptibles d'améliorer la circulation des poids-lourds en cas d'épisode neigeux, en tenant compte de la spécificité des réseaux routiers et des marchandises transportées.
