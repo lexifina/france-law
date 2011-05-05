@@ -506,7 +506,7 @@ Article D. 221-2. |
 
 Mesures prises par les ministres chargés des transports et de l'industrie
 
-Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96 / 48 / CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
+Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/ CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
 
 1 |
 
@@ -854,13 +854,17 @@ Article R. 411-4 du code des ports maritimes. |
 
 2 |
 
-Habilitation des organismes de sûreté. |
+Habilitation des organismes de sûreté.
+
+|
 
 Articles R. 321-8 et R. 321-9 |
 
 |
 
-Retrait et suspension de l'habilitation des organismes de sûreté |
+Retrait et suspension de l'habilitation des organismes de sûreté
+
+|
 
 Article R. 321-11 |
 
@@ -924,7 +928,7 @@ système ferroviaire transeuropéen conventionnel.
 
 Article 10 |
 
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 1 |
 
@@ -934,13 +938,13 @@ ferroviaires.
 
 |
 
-Art. 4, 5 et 13 |
+Art. 4,5 et 13 |
 
 2 |
 
 Délivrance, suspension temporaire et retrait des certificats de sécurité. |
 
-Art. 4, 15 et 16 |
+Art. 4,15 et 16 |
 
 Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
 
@@ -964,7 +968,7 @@ retrait d'autorisations.
 
 |
 
-Art. 12, 13 et 26 |
+Art. 12,13 et 26 |
 
 Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles communes pour les transports internationaux de voyageurs effectués par autocars et autobus
 
@@ -1322,9 +1326,7 @@ et article 258, 2e alinéa.
 
 |
 
-Décret du 24 juillet 1923 modifié relatif aux autorisations
-
-pour la vente et l'achat de navires
+Décret du 24 juillet 1923 modifié relatif aux autorisations pour la vente et l'achat de navires
 
 1 |
 
@@ -1648,13 +1650,13 @@ R. 133-1-3 et R. 330-1-2.
 
 17 |
 
-Décisions relatives à la délivrance et à la validation des titres aéronautiques
-
-et sanctions correspondantes.
+Décisions relatives à la délivrance et à la validation des titres aéronautiques professionnels et non professionnels et sanctions correspondantes.
 
 |
 
-Articles R. 425-4 et D. 210-2. |
+Articles R. 410-2, R. 410-3, R. 425-4 et R. 431-3.
+
+|
 
 18 |
 
