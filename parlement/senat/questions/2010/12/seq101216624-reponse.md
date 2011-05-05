@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216624
+
+- Question : [SEQ101216624](seq101216624.md) — Partage des responsabilités au sein de communautés de communes
+
+## Réponse
+
+*Intérieur, JO du 2011-05-05, page 1179*
+
+L'article 63 de la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales a supprimé la cosignature des arrêtés dans les domaines de police spéciale transférés au président de l'établissement public de coopération intercommunale (EPCI) à fiscalité propre. L'article L. 5211-9-2 du code général des collectivités territoriales (CGCT) dispose désormais que l'arrêté de police spéciale pris par le président de l'EPCI dans l'un des domaines qui lui ont été transférés est simplement transmis pour information aux maires des communes concernées. Il convient par ailleurs de souligner que lorsqu'un EPCI à fiscalité propre est compétent en matière de réalisation des aires d'accueil ou de terrains de passage des gens de voyage, les pouvoirs de police spéciale des maires, prévus par la loi du 5 juillet 2000 précitée, sont désormais automatiquement transférés au président de l'EPCI, conformément à l'article L. 5211-9-2-I alinéa 3 du CGCT dans sa rédaction issue de la loi du 16 décembre 2010. Ainsi, dans ce cas de figure, le président de l'EPCI est désormais intégralement responsable des attributions prévues à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 modifiée en matière d'interdiction de stationnement des gens du voyage en dehors des aires d'accueil prévues à cet effet. Les maires des communes concernées peuvent s'opposer à ce transfert jusqu'au 1er décembre 2011. Par ailleurs, dans un délai de six mois suivant l'élection du président de l'EPCI, un ou plusieurs maires pourront s'opposer à ce transfert par notification au président de l'EPCI. Ce dernier pourra alors, dans le même délai, refuser que les pouvoirs de police spéciale des maires de l'ensemble des communes concernées lui soient transférés de plein droit.
