@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217288
+
+- Question : [SEQ110217288](seq110217288.md) — Mariage homosexuel
+
+## Réponse
+
+*Justice, JO du 2011-05-05, page 1188*
+
+L'article 144 du code civil pose notamment l'altérité sexuelle comme condition pour pouvoir contracter mariage, ainsi que l'a indiqué la Cour de cassation dans un arrêt du 13 mars 2007 en rappelant que « selon la loi française, le mariage est l'union d'un homme et d'une femme ». Le Conseil constitutionnel, dans sa décision n° 2010-92 QPC du 28 janvier 2011, par laquelle il a jugé que les dispositions du code civil ne sont contraires à aucun droit ou liberté que la Constitution garantit, a d'ailleurs estimé que la différence de situation entre les couples de même sexe et les couples composés d'un homme et d'une femme pouvait justifier une différence de traitement quant aux règles du droit de la famille. Au demeurant, si les couples homosexuels ne peuvent se marier en France, ils peuvent en revanche choisir une autre forme d'union : le pacte civil de solidarité (PACS), dont le régime a été sensiblement amélioré depuis son instauration par la loi du 15 novembre 1999. En effet, le PACS a été successivement modifié par la loi n° 2009-728 du 23 juin 2006 portant réforme des successions et des libéralités, par les décrets n° 2006-1806 et 2006-1807 du 23 décembre 2006, par la loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures et par la loi n° 2009-1436 du 24 novembre 2009 dite « loi pénitentiaire ». Le régime juridique du PACS a ainsi sensiblement évolué tout en conservant sa spécificité, afin que les couples puissent organiser leur vie commune dans un cadre légal souple et fiable, garant d'une sécurité juridique renforcée tant à l'égard des partenaires que des tiers.
