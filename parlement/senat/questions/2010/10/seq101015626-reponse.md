@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015626
+
+- Question : [SEQ101015626](seq101015626.md) — Possibilité d'accord entre la France et des pays d'Amérique du Sud sur un programme "vacances-travail"
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-05-05, page 1161*
+
+Le ministère des affaires étrangères et européennes a engagé au mois de juillet 2010 la réalisation d'un vaste projet visant à étendre à de nouveaux États partenaires le réseau de programmes vacances-travail déjà mis en place par la France. Il s'agit de répondre au succès grandissant rencontré auprès de la jeunesse française par les cinq accords vacances-travail déjà en vigueur, dans le cadre desquels le nombre de visas délivrés chaque année à de jeunes Français est passé en l'espace de dix ans de quelques centaines à près de 30 000. La réalisation de ce projet d'extension, mis en oeuvre par la direction des Français à l'étranger en liaison avec le secrétariat général à l'immigration et à l'intégration du ministère de l'intérieur, s'effectue suivant un plan en trois étapes : chacune d'elles doit donner lieu à une campagne de négociations avec un groupe d'États présentant une relative homogénéité au regard de plusieurs critères, en particulier le niveau de développement économique, le risque migratoire et l'intérêt suscité parmi la jeunesse française. L'Argentine et le Chili appartiennent au premier des trois groupes : les négociations avec l'Argentine ont abouti le 18 février 2011 à la signature d'un accord vacances-travail entre la ministre française des affaires étrangères et européennes Mme Alliot-Marie et son homologue argentin. Les discussions en cours avec les autorités chiliennes devraient également conduire à une signature d'accord avant l'été. L'ouverture de négociations avec le second groupe d'États, comprenant notamment des États d'Amérique latine comme le Brésil, l'Uruguay, le Pérou ou le Mexique, pourrait intervenir prochainement.
