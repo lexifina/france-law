@@ -246,18 +246,6 @@ Directeur du transport aérien
 
 |
 
-Directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
-
-|
-
-1
-
-|
-
-160
-
-|
-
 Directeur général de l'aménagement, du logement et de la nature
 
 |
@@ -318,7 +306,7 @@ Délégué à la circulation et à la sécurité routières
 
 |
 
-Délégué interministériel à la ville
+Délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées
 
 |
 
@@ -576,18 +564,6 @@ Chef du service du secrétariat général
 
 |
 
-Adjoint au directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008)
-
-|
-
-1
-
-|
-
-110
-
-|
-
 f) Direction générale de l'aménagement, du logement et de la nature
 
 |
@@ -673,28 +649,6 @@ h) Délégation à la circulation et à la sécurité routières
 |
 
 Adjoint au délégué, chef de service
-
-|
-
-1
-
-|
-
-110
-
-|
-
-i) Service central de l'inspection du travail des transports
-
-(jusqu'au 31 décembre 2008)
-
-|
-
-|
-
-|
-
-Inspecteur général
 
 |
 
@@ -1108,7 +1062,17 @@ Sous-directeur de l'intégration des démarches de développement durable dans l
 
 |
 
-Sous-directeur de l'observation de l'énergie et des matières premières
+Sous-directeur des statistiques de l'énergie |
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur des statistiques du logement et de la construction
 
 |
 
@@ -1120,21 +1084,7 @@ Sous-directeur de l'observation de l'énergie et des matières premières
 
 |
 
-Sous-directeur de l'observation statistique du logement et de la construction
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur de l'observation statistique des transports
-
-|
+Sous-directeur des statistiques des transports |
 
 1
 
@@ -1156,9 +1106,7 @@ Sous-directeur de l'information environnementale
 
 |
 
-Sous-directeur des méthodes, données et synthèses environnementales
-
-|
+Sous-directeur des méthodes et données pour le développement durable |
 
 1
 
@@ -1281,18 +1229,6 @@ d) Direction générale des infrastructures, des transports et de la mer
 |
 
 Sous-directeur de la gestion du réseau autoroutier concédé
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur des services routiers déconcentrés et du contrôle de gestion
 
 |
 
@@ -1472,7 +1408,7 @@ Sous-directeur des études et de la prospective
 
 |
 
-Sous-directeur du budget et de la synthèse administrative
+Sous-directeur du budget, du contrôle de gestion et des services
 
 |
 
@@ -1625,54 +1561,6 @@ Sous-directeur des affaires juridiques
 |
 
 Sous-directeur des systèmes d'information et de la modernisation
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur des méthodes et de la qualité (jusqu'au 31 décembre 2008)
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur des personnels navigants (jusqu'au 31 décembre 2008)
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur de la navigabilité et des opérations (jusqu'au 31 décembre 2008)
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur de la navigation aérienne, des aéroports et de la sûreté (jusqu'au 31 décembre 2008)
 
 |
 
