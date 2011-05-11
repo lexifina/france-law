@@ -4520,6 +4520,22 @@ Voie orale
 
 |
 
+Pantoprazole
+
+|
+
+Voie orale |
+
+|
+
+0,02
+
+|
+
+0,28
+
+|
+
 Pelletiérine et ses sels
 
 |
@@ -5615,6 +5631,16 @@ Autres formes
 |
 
 0,50
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
