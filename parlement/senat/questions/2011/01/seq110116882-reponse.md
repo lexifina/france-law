@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116882
+
+- Question : [SEQ110116882](seq110116882.md) — Composition de l'instance consultative de suivi d'une aire de mise en valeur de l'architecture et du patrimoine
+
+## Réponse
+
+*Culture, JO du 2011-05-12, page 1250*
+
+L'article L. 642-5 du code du patrimoine, dans sa nouvelle rédaction introduite par la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, donne le cadre de la composition de l'instance consultative chargée du patrimoine. Il prévoit en particulier que cette instance est constituée par délibération de l'organe délibérant de l'autorité compétente et qu'y siègent notamment, outre des représentants de l'État et des personnes qualifiées, des représentants de la ou des collectivités territoriales et des établissements publics de coopération intercommunale intéressés. Il résulte de ces dispositions que la délibération constituant l'instance est spéciale à la procédure relative aux aires de mise en valeur de l'architecture et du patrimoine (AVAP) telle qu'elle résulte de l'application combinée des articles L. 642-3 et L. 642-5 du code du patrimoine. Le décret d'application en cours de finalisation et qui devrait être publié au printemps 2011 apportera des précisions sur la composition et les modalités de publicité particulière à la décision de constitution de cette instance, qui en tout état de cause seront encadrées par un plus grand formalisme que ce que prévoit l'article L. 2143-2 du code général des collectivités territoriales relatif aux comités consultatifs créés par le conseil municipal. Ce décret apportera la sécurité juridique souhaitable. Il est donc inutile de renvoyer à la composition de la commission d'urbanisme. En revanche, il est sans doute souhaitable, afin d'assurer la cohérence des politiques locales, que des membres de la commission d'urbanisme soient aussi membres de la commission locale de l'AVAP.
