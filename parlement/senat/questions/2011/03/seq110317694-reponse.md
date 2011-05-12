@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317694
+
+- Question : [SEQ110317694](seq110317694.md) — Subventionnement des travaux d'amélioration des stades
+
+## Réponse
+
+*Sports, JO du 2011-05-12, page 1264*
+
+Parmi ses dix recommandations, la Commission Grands Stades-Euro 2016 a abordé les questions relatives à la reconnaissance d'intérêt général, à l'évolution du régime d'aide au bénéfice des opérateurs privés ayant pour projet la réalisation d'un stade neuf ou en rénovation, et à la sécurité juridique des acteurs de projets de grands stades, s'agissant des possibilités offertes par le recours au bail emphytéotique administratif (BEA). À l'initiative du député Bernard Depierre, une proposition de loi relative à l'organisation du championnat d'Europe de football de l'UEFA en 2016 vient d'être adoptée par l'Assemblé nationale. Elle a notamment pour objet de permettre aux projets de construction ou de rénovation d'enceintes sportives destinées à accueillir l'Euro 2016 et réalisés dans le cadre de BEA de devenir éligibles aux mêmes aides que si ces projets étaient réalisés sous le régime de la loi n° 85-704 relative à la maîtrise d'ouvrage publique. Il s'agit donc de rétablir la neutralité entre les différentes formules juridiques susceptibles d'être mises en oeuvre afin de rénover des enceintes sportives, destinées à accueillir l'Euro 2016 : maîtrise d'ouvrage publique, BEA, contrats de partenariat. Cette mesure n'a pas vocation à accorder un avantage concurrentiel à certaines sociétés sportives mais vise à favoriser l'émergence de projets dont le porteur est privé et qui concourent à la réalisation des engagements pris par la France pour l'organisation de l'UEFA - Euro 2016. En tout état de cause, les aides accordées à ce titre feront l'objet d'une notification à la Commission européenne si elles entrent dans le champ de la réglementation des aides d'État.
