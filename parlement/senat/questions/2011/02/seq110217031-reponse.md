@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217031
+
+- Question : [SEQ110217031](seq110217031.md) — Délocalisation de Réseau ferré de France  de Besançon à Dijon
+
+## Réponse
+
+*Transports, JO du 2011-05-12, page 1264*
+
+Lors de la création de la direction régionale de Réseau ferré de France (RFF) pour les régions Bourgogne et Franche-Comté, l'activité dans ces régions était centrée sur la maîtrise d'ouvrage de la ligne à grande vitesse (LGV) Rhin-Rhône. L'implantation optimale par rapport à cette activité était alors la ville de Besançon. L'achèvement de la première phase de la LGV Rhin-Rhône ainsi que l'évolution de RFF vers un modèle de gestion plus déconcentrée conduit à un rééquilibrage des missions de la direction régionale au profit des missions de pilotage de la maintenance et de l'exploitation du réseau, comprenant notamment la préservation des petites lignes, l'impulsion du fret ferroviaire de proximité. La direction régionale a donc besoin d'une plus grande proximité avec son réseau et les acteurs locaux de sa zone d'action. Elle a ainsi été conduite à lancer une réflexion sur ses implantions futures afin de les adapter au contexte actuel et à venir, et ainsi être plus à même de répondre aux attentes de ses interlocuteurs et de ses clients. Dans la mesure où la région Bourgogne concentre environ 70 % du linéaire de réseau ferré géré par la direction régionale, et en raison de l'importance du noeud de Dijon pour le fret ferroviaire dont le développement est une priorité du Gouvernement, le principe de création d'une nouvelle implantation à Dijon a été retenu. Pour autant, RFF ne se prépare pas aujourd'hui à quitter la Franche-Comté. Le choix de la proximité en rapprochant une partie des effectifs de Dijon justifie que demeurent à Besançon les équipes gérant les projets et le réseau franc-comtois.
