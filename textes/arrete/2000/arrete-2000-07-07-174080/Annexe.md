@@ -80,7 +80,7 @@ De 1960 à 1993
 
 La Rochelle-La Palice |
 
-De 1974 à 1982
+De 1974 à 1999
 
 |
 
