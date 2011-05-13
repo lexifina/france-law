@@ -1,4 +1,6 @@
-# Article ANNEXE
+# Article Annexe 1
+
+CATÉGORIES D'AUXILIAIRES TECHNOLOGIQUES
 
 Antimousses.
 
@@ -26,10 +28,10 @@ Agents de démoulage.
 
 Floculants et coagulants.
 
-Biocides.
+Agents de décontamination des produits d'origine végétale.
 
 Antitartres.
 
 Solvants d'extraction.
 
-Divers.
+Autres auxiliaires technologiques.
