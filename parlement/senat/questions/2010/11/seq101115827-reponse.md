@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115827
+
+- Question : [SEQ101115827](seq101115827.md) — Aménagement des quotas d'embauche des travailleurs handicapés
+
+## Réponse
+
+*Intérieur, JO du 2011-05-19, page 1324*
+
+Comme tous les employeurs publics qui emploient au moins vingt agents à temps plein ou équivalent, les services départementaux d'incendie et de secours (SDIS) sont soumis à l'obligation d'emploi de 6 % de personnels handicapés, en application du décret n° 2006-501 du 3 mai 2006, relatif au fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP). Toutefois, s'agissant des SDIS, il est apparu nécessaire de tenir compte du fait que les 40 100 sapeurs-pompiers professionnels, employés en majorité par les SDIS, dont les statuts relèvent des cadres d'emplois de la fonction publique territoriale, doivent satisfaire à des conditions d'aptitude médicale. Dès lors, à la demande du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du budget, des comptes publics et de la fonction publique a accepté un assouplissement qui a été porté à la connaissance des services départementaux d'incendie et de secours par circulaire du 26 octobre 2009. Ainsi, désormais, ces établissements publics peuvent comptabiliser au titre de leur obligation d'emploi des travailleurs handicapés, l'ensemble des sapeurs-pompiers professionnels bénéficiant d'une affectation non opérationnelle pour inaptitude médicale en sus de ceux bénéficiant des projets de fin de carrière. Cette mesure permet ainsi de réduire sensiblement les conséquences financières liées à l'obligation de cotisation au FIPHFP, puisque dans la majorité des SDIS, le nombre des personnels éligibles au décompte pour le calcul de l'obligation d'emploi ne permettait pas d'atteindre les 6 % de travailleurs handicapés exigés.
