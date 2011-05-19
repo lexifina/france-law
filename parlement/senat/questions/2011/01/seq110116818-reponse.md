@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116818
+
+- Question : [SEQ110116818](seq110116818.md) — Application de la loi SRU et pénalités
+
+## Réponse
+
+*Logement, JO du 2011-05-19, page 1330*
+
+En 2010, les prélèvements bruts ont représenté une somme de 76 M€ de laquelle ont été déduites les dépenses dites déductibles, exposées par les communes pour la réalisation de logements sociaux. Ainsi, l'année passée, les prélèvements nets réellement effectués se sont élevés à 31 M€. Près des deux tiers des prélèvements ont été reversés aux établissements publics de coopération intercommunale dotés d'un programme local de l'habitat afin de financer des acquisitions foncières et immobilières en vue de la réalisation de logements locatifs sociaux. À défaut, ils sont reversés aux établissements publics fonciers ou aux fonds d'aménagement urbains régionaux. En aucun cas, ces prélèvements ne viennent abonder le budget de l'État. Concernant le renforcement des sanctions à l'égard des communes ne participant pas à l'effort de rattrapage en matière d'offre locative sociale, les outils existent déjà pour les inciter à davantage de mobilisation. En effet, à l'occasion de chaque bilan triennal, le préfet a la possibilité de prononcer la carence de ces communes, ce qui induit le transfert au préfet de l'exercice du droit de préemption urbain et peut entraîner la majoration du prélèvement. En outre, cette majoration peut encore être doublée par la commission départementale chargée d'examiner la situation de toutes les communes n'atteignant pas leur objectif de rattrapage. Les services de l'État vont procéder en 2011 au bilan de la période triennale 2008-2010. Les conclusions de ce bilan seront exploitées pour examiner le niveau de recours à ces différents outils et les dispositions complémentaires qui pourraient, le cas échéant, être envisagées pour rendre le dispositif encore plus efficace.
