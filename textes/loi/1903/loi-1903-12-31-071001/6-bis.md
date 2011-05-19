@@ -6,6 +6,6 @@ Aux objets mobiliers détenus par les officiers publics ou ministériels, soit e
 
 Aux objets mobiliers déposés en garde-meuble ;
 
-Aux véhicules automobiles déposés dans un garage.
+Aux véhicules terrestres à moteur, motocycles à deux ou trois roues ou quadricycles à moteur déposés dans un garage.
 
-Si les objets ou véhicules automobiles sont déposés moyennant versement d'une redevance périodique, les délais prévus à l'article 1er ci-dessus courent de l'échéance du dernier terme impayé.
+Si les objets ou véhicules terrestres à moteur, motocycles à deux ou trois roues ou quadricycles à moteur sont déposés moyennant versement d'une redevance périodique, les délais prévus à l'article 1er ci-dessus courent de l'échéance du dernier terme impayé.
