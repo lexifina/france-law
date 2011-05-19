@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110418002
+
+- Question : [SEQ110418002](seq110418002.md) — Nomenclature des actes professionnels pour les chirurgiens-dentistes
+
+## Réponse
+
+*Travail, JO du 2011-05-19, page 1337*
+
+Sur le fondement de l'article 11 du règlement arbitral organisant les rapports entre les médecins libéraux et l'assurance maladie approuvé par arrêté du 3 mai 2010, la consultation des médecins libéraux a été revalorisée de 22 à 23 €. Cette mesure, applicable aux seuls médecins libéraux, est entrée en vigueur au 1er janvier 2011, en application de la règle du report de six mois de toute mesure ayant pour effet une revalorisation tarifaire mentionnée à l'article L. 162-14-1-1 du code de la sécurité sociale. Le fait que le préambule de l'actuelle convention des chirurgiens-dentistes approuvée par arrêté du 14 juin 2006 mentionne que « les caisses s'engagent à ne faire aucune discrimination entre tous les chirurgiens-dentistes placés sous le régime de la présente convention et les médecins conventionnés qui dispensent le même acte » ne saurait être interprété comme le fondement juridique d'un alignement automatique des mesures tarifaires prises à l'égard des médecins libéraux à d'autres professions et notamment aux chirurgiens-dentistes. En application de l'article L. 162-14-1 du code de la sécurité sociale, la fixation des tarifs des honoraires relève des conventions négociées entre les partenaires conventionnels. Dès lors, il appartient aux organisations représentatives des chirurgiens-dentistes ainsi qu'à l'Union nationale des caisses d'assurance maladie (UNCAM) et l'Union nationale des organismes d'assurance maladie complémentaire (UNOCAM) de prendre l'initiative de la négociation en matière de tarifs en contrepartie d'engagements de maitrise médicalisée et d'amélioration de l'accès de tous les assurés à des soins bucco-dentaires de qualité.
