@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116794
+
+- Question : [SEQ110116794](seq110116794.md) — Devenir de l'industrie du charbon de bois
+
+## Réponse
+
+*Écologie, JO du 2011-05-19, page 1320*
+
+Comme indiqué par l'honorable parlementaire, la société Bordet fait état de difficultés dans l'approvisionnement en matières premières de ses unités de carbonisation, suite au développement récent et rapide du bois énergie. L'importance croissante du bois comme source d'énergie s'inscrit dans le plan national en faveur des énergies renouvelables établi en application de l'article 4 de la directive 2009/28/CE de l'Union européenne. Dans ce contexte qui s'impose à la France, celle-ci a fait le choix d'un développement raisonné et encadré des énergies renouvelables. Il s'agit en effet d'articuler le développement des énergies renouvelables avec la pérennité des filières existantes, notamment de production de matériaux, de chimie du végétal ou de carbonisation. Le souci de ne pas provoquer, ou d'éviter au maximum, une tension sur l'approvisionnement de ces filières conduit le Gouvernement à soutenir une augmentation conséquente de la mobilisation de la ressource sylvicole de 21 millions de mètres cubes de bois supplémentaires à l'horizon 2020. Sans préjuger d'éventuelles limites techniques ou de contraintes non identifiées, il paraît désormais indispensable pour cette société d'envisager une réorganisation de son approvisionnement par voie de contractualisation avec différents partenaires, notamment avec les groupements de producteurs forestiers, sur des volumes somme toute modestes au regard du gisement ligneux identifié sur l'ensemble du territoire national et plus particulièrement en Bourgogne. Les services en charge de la forêt et du bois auprès des directions régionales de l'alimentation, de l'agriculture et de la forêt peuvent, si besoin, faciliter la mise en relation avec les organisations professionnelles concernées.
