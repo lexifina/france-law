@@ -760,9 +760,11 @@ Cantons de Bierné, Château-Gontier-Est, Château-Gontier-Ouest, Cossé-le-Vivi
 
 |
 
-[LavalCantons |
+[Laval
 
-d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] |
+|
+
+Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] |
 
 [Laval
 
@@ -1420,7 +1422,7 @@ Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bour
 
 |
 
-saint-Amand-MontrondCantons |
+Saint-Amand-MontrondCantons |
 
 de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
 
@@ -2570,7 +2572,7 @@ Cayenne
 
 |
 
-Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
 
 |
 
@@ -5012,6 +5014,14 @@ Troyes
 
 |
 
+[Bar-sur-Aube
+
+|
+
+Cantons de Bar-sur-Aube, Brienne-le-Château, Soulaines-Dhuys et Vendeuvre-sur-Barse. (3)]
+
+|
+
 [Bar-sur-Seine
 
 |
@@ -5272,7 +5282,7 @@ Rennes
 
 |
 
-Cantons d'Antrain, Fougères-Nord, Fougères-Sud, Louvigné-du-Désert, Saint-Aubin-du-Cormier et Saint-Brice-en-Coglès. (3)]
+Cantons d'Antrain, Argentré-du-Plessis, Châteaubourg, Fougères-Nord, Fougères-Sud, La Guerche-de-Bretagne, Louvigné-du-Désert, Retiers, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Vitré-Est, Vitré-Ouest (22)]
 
 |
 
@@ -5296,7 +5306,7 @@ Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-
 
 |
 
-Cantons de Betton, Bruz, Cesson-Sévigné, Châteaugiron, Hédé, Janzé, Liffré, Mordelles, Rennes-Brequigny, Rennes-Centre, Rennes-Centre Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest et Saint-Aubin-d'Aubigné. (3)]
+Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest (21)]
 
 |
 
@@ -5304,7 +5314,19 @@ Cantons de Betton, Bruz, Cesson-Sévigné, Châteaugiron, Hédé, Janzé, Liffr�
 
 |
 
-Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest. (4)]
+Cantons de Bécherel, Betton, Bruz, Cesson-Sévigné,
+
+Châteaugiron, Hédé, Janzé, Liffré, Montauban-de-Bretagne,
+
+Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny,
+
+Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud,
+
+Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est,
+
+Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest,
+
+Saint-Aubin-d'Aubigné, Saint-Méen-le-Grand (22)]
 
 |
 
@@ -5916,9 +5938,9 @@ Mamoudzou
 
 |
 
-Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi,
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni,
 
-Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,
+Chiconi, Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,
 
 Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,
 
@@ -6114,13 +6136,13 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
+Monclar-de-Quercy, Montauban, 1er canton, Montauban
 
-canton, Montauban 3ème canton, Montauban 4e canton,
+2e canton, Montauban 3ème canton, Montauban 4e canton,
 
-Montauban 5e canton, Montauban 6e canton, Montpezat-
+Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
 
-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
+Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 |
 
@@ -6541,3 +6563,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 (19) Applicable jusqu'au 30 juin 2014.
 
 (20) Applicable à compter du 1er juillet 2014.
+
+(21) Applicable jusqu'au 31 décembre 2011.
+
+(22) Applicable à compter du 1er janvier 2012.
