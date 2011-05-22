@@ -1,14 +1,6 @@
-# Article annexe 1
+# Article Annexe 1
 
 LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE DES INSTALLATIONS CLASSÉES)
-
-167 Déchets industriels provenant d'installations classées (installations d'élimination, à l'exception des installations traitant simultanément et principalement des ordures ménagères), à partir d'une capacité de 10 t/j. Sont exclues les stations de transit de déchets non dangereux classées en 167 a.
-
-322-B2 Ordures ménagères et autres résidus urbains (décharges ou déposante), à partir d'une capacité de 10 t/j.
-
-322-B3 Ordures ménagères et autres résidus urbains (compostage), à partir d'une capacité de 50 t/j.
-
-322-B4 Ordures ménagères et autres résidus urbains (incinération), à partir d'une capacité de 3 t/h.
 
 1110 Très toxiques (fabrication industrielle de substances et préparations).
 
@@ -32,7 +24,7 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 1174 Organohalogénés, organophosphorés, organostanniques (fabrication industrielle de composés).
 
-1175 Organohalogénés (emploi de liquides), à partir d'une capacité de 150 kg/h ou 200 t/an.
+1175 Organohalogénés (emploi de liquides), à partir d'une capacité de 150 kg/ h ou 200 t/ an.
 
 1200-1 Comburants (fabrication de substances et préparations).
 
@@ -68,53 +60,53 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2111 Volailles, gibier à plume (activités d'élevage de), à partir d'une capacité de 40 000.
 
-2210 Abattage d'animaux, à partir d'une capacité de production de 50 t/j.
+2210 Abattage d'animaux, à partir d'une capacité de production de 50 t/ j.
 
-2220 Alimentaires (préparation ou conservation de produits) d'origine végétale, à partir d'une capacité de production de 300 t/j.
+2220 Alimentaires (préparation ou conservation de produits) d'origine végétale, à partir d'une capacité de production de 300 t/ j.
 
-2221 Alimentaires (préparation ou conservation de produits) d'origine animale, à partir d'une capacité de production de 75 t/j.
+2221 Alimentaires (préparation ou conservation de produits) d'origine animale, à partir d'une capacité de production de 75 t/ j.
 
-2225 Sucreries, raffineries de sucre, malteries, à partir d'une capacité de production de 300 t/j.
+2225 Sucreries, raffineries de sucre, malteries, à partir d'une capacité de production de 300 t/ j.
 
-2226 Amidonneries, féculeries, dextrineries, à partir d'une capacité de production de 300 t/j.
+2226 Amidonneries, féculeries, dextrineries, à partir d'une capacité de production de 300 t/ j.
 
-2230 Lait (réception, stockage, traitement, transformation, etc., du), à partir d'une capacité de traitement 200 t/j.
+2230 Lait (réception, stockage, traitement, transformation, etc., du), à partir d'une capacité de traitement 200 t/ j.
 
-2240 Huiles végétales, huiles animales, corps gras (extraction ou traitement des), à partir d'une capacité de production de 75 t/j.
+2240 Huiles végétales, huiles animales, corps gras (extraction ou traitement des), à partir d'une capacité de production de 75 t/ j.
 
-2250 Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation des), à partir d'une capacité de production de 300 t/j.
+2250 Alcools d'origine agricole, eaux-de-vie et liqueurs (production par distillation des), à partir d'une capacité de production de 300 t/ j.
 
-2251 Vins (préparation, conditionnement de), à partir d'une capacité de production de 300 t/j.
+2251 Vins (préparation, conditionnement de), à partir d'une capacité de production de 300 t/ j.
 
-2252 Cidre (préparation, conditionnement de), à partir d'une capacité de production de 300 t/j.
+2252 Cidre (préparation, conditionnement de), à partir d'une capacité de production de 300 t/ j.
 
-2253 Boissons (préparation, conditionnement de), à partir d'une capacité de production de 300 t/j.
+2253 Boissons (préparation, conditionnement de), à partir d'une capacité de production de 300 t/ j.
 
-2260-1 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221, 2225, 2226. Traitement et transformation destinés à la fabrication de produits alimentaires, à partir d'une capacité de production de produits finis supérieure à 300 t / j.
+2260-1 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221, 2225, 2226. Traitement et transformation destinés à la fabrication de produits alimentaires, à partir d'une capacité de production de produits finis supérieure à 300 t/ j.
 
-2311 Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou synthétiques (traitement de, par battage, cardage, lavage, etc.), à partir d'une capacité de traitement de 10 t/j.
+2311 Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou synthétiques (traitement de, par battage, cardage, lavage, etc.), à partir d'une capacité de traitement de 10 t/ j.
 
-2312 Lavage des laines de peaux, laines brutes, laines en suint, à partir d'une capacité de traitement de 10 t/j.
+2312 Lavage des laines de peaux, laines brutes, laines en suint, à partir d'une capacité de traitement de 10 t/ j.
 
-2330 Teintures, impression, apprêt, enduction, blanchiment et délavage de matières textiles, à partir d'une capacité de traitement de 10 t/j.
+2330 Teintures, impression, apprêt, enduction, blanchiment et délavage de matières textiles, à partir d'une capacité de traitement de 10 t/ j.
 
-2350 Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux, à partir d'une capacité de production de 12 t/j.
+2350 Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux, à partir d'une capacité de production de 12 t/ j.
 
 2415 Installation de mise en oeuvre de produits de préservation du bois et matériaux dérivés lorsque le produit de préservation utilisé est un solvant organique et à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
 2430 Préparation de la pâte à papier.
 
-2440 Fabrication de papier, carton, à partir d'une capacité de production de 20 t/j.
+2440 Fabrication de papier, carton, à partir d'une capacité de production de 20 t/ j.
 
 2450 Imprimerie ou ateliers de reproduction graphique, à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
-2520 Ciments, chaux, (fabrication de) fabrication de ciments dans des fours rotatifs d'une capacité de production supérieure à 500 t / j ou dans d'autres types de fours à partir d'une capacité de production supérieure à 50 t / j, fabrication de chaux dans tout type de fours à partir d'une capacité de production supérieure à 50 t / j.
+2520 Ciments, chaux, (fabrication de) fabrication de ciments dans des fours rotatifs d'une capacité de production supérieure à 500 t/ j ou dans d'autres types de fours à partir d'une capacité de production supérieure à 50 t/ j, fabrication de chaux dans tout type de fours à partir d'une capacité de production supérieure à 50 t/ j.
 
-2523 Céramiques et réfractaires (fabrication de produits), à partir d'une capacité de production de 75 t/j.
+2523 Céramiques et réfractaires (fabrication de produits), à partir d'une capacité de production de 75 t/ j.
 
-2525 Fusion de matières minérales, y compris pour la production de fibres minérales, à partir d'une capacité de production de 20 t/j.
+2525 Fusion de matières minérales, y compris pour la production de fibres minérales, à partir d'une capacité de production de 20 t/ j.
 
-2530 Verre (fabrication et travail du), à partir d'une capacité de production de 20 t/j.
+2530 Verre (fabrication et travail du), à partir d'une capacité de production de 20 t/ j.
 
 2541 Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel et grillage ou frittage de minerai métallique, y compris de minerai sulfuré.
 
@@ -124,11 +116,11 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2546 Traitement des minerais non ferreux, élaboration et affinage des métaux et alliages non ferreux (à l'échelle industrielle).
 
-2550 Fonderie (fabrication de produits moulés) de plomb et alliages contenant du plomb, à partir d'une capacité de production de 4 t/j.
+2550 Fonderie (fabrication de produits moulés) de plomb et alliages contenant du plomb, à partir d'une capacité de production de 4 t/ j.
 
-2551 Fonderie (fabrication de produits moulés) de métaux et alliages ferreux, à partir d'une capacité de production de 20 t/j.
+2551 Fonderie (fabrication de produits moulés) de métaux et alliages ferreux, à partir d'une capacité de production de 20 t/ j.
 
-2552 Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux, à partir d'une capacité de production de 20 t/j.
+2552 Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux, à partir d'une capacité de production de 20 t/ j.
 
 2560 Métaux et alliages (travail mécanique des métaux ferreux) par laminage à chaud avec une capacité supérieure à 20 tonnes d'acier brut par heure, par forgeage à l'aide de marteaux dont l'énergie de frappe dépasse 50 kilojoules par marteau et lorsque la puissance calorifique mise en œuvre est supérieure à 20 MW. 2564 Nettoyage, dégraissage, décapage de surfaces, à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
@@ -148,7 +140,29 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2681 Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle).
 
-2730 Sous-produits d'origine animale, y compris débris, issues et cadavres (traitement de), à partir d'une capacité de traitement de 10 t/j.
+2717 Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712 et 2719, avec une capacité supérieure à 10 t par jour.
+
+2718 Installation de transit, regroupement ou tri de déchets dangereux ou de déchets contenant les substances ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712, 2717 et 2719, avec une capacité supérieure à 10 t par jour.
+
+2730 Sous-produits d'origine animale, y compris débris, issues et cadavres (traitement de), à partir d'une capacité de traitement de 10 t/ j.
+
+2760 Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 de code de l'environnement.
+
+1. Installation de stockage de déchets dangereux avec une capacité supérieure à 10 t par jour.
+
+2. Installation de stockage de déchets non dangereux non inertes, recevant plus de 10 t par jour ou d'une capacité supérieure à 25 000 t.
+
+2770 Installation de traitement thermique de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, avec une capacité supérieure à 10 t par jour.
+
+2771 Installation de traitement thermique de déchets non dangereux ménagers ou similaires provenant d'activités commerciales, industrielles ou d'administrations, avec une capacité supérieure à 3 t/ h.
+
+2782 Installations mettant en œuvre d'autres traitements biologiques de déchets non dangereux que ceux mentionnés aux rubriques 2780 et 2781 à l'exclusion des installations réglementées au titre d'une autre législation, lorsque les traitements aboutissent à des composés ou mélanges qui sont destinés à être éliminés, avec une capacité supérieure à 50 t par jour.
+
+2790 Installation de traitement de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2720, 2760 et 2770, avec une capacité supérieure à 10 t par jour.
+
+2791 Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782, lorsque les traitements aboutissent à des composés ou mélanges qui sont destinés à être éliminés, avec une capacité supérieure à 50 t/ j.
+
+2795 Installation de lavage de fûts, conteneurs et citernes de transport de matières alimentaires, de matières dangereuses au sens de la rubrique 1000 de la nomenclature des installations classées ou de déchets dangereux, avec une capacité supérieure à 10 t/ j si les déchets sont dangereux ou supérieure à 50 t/ j si les déchets sont non dangereux et destinés à être éliminés.
 
 2910 Combustion, à partir d'une puissance thermique maximale de 50 MW.
 

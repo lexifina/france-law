@@ -1,35 +1,17 @@
-# Article annexe 2
+# Article Annexe 2
 
-Les meilleures techniques disponibles visées à l'article 2 se définissent comme le stade de développement le plus efficace et avancé des activités et de leurs modes d'exploitation, démontrant l'aptitude pratique de techniques particulières à constituer, en principe, la base des valeurs limites d'émission visant à éviter et, lorsque cela s'avère impossible, à réduire de manière générale les émissions et l'impact sur l'environnement dans son ensemble.
+1523-A Soufre (fabrication industrielle de).
 
-Par techniques on entend aussi bien les techniques employées que la manière dont l'installation est conçue, construite, entretenue, exploitée et mise à l'arrêt.
+1610 Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %, nitrique à plus de 20 % mais à moins de 70 %, picrique à moins de 70 %, phosphorique, sulfurique à plus de 25 %, oxydes d'azote, anhydride phosphorique, oxydes de soufre, préparations à base d'acide acétique et d'anhydride acétique (fabrication industrielle d').
 
-Par disponibles on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel ou agricole concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire national pour autant que l'exploitant concerné puisse y avoir accès dans des conditions raisonnables.
+1612-A Acide chlorosulfurique, oléums (fabrication industrielle d').
 
-Par meilleures on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l'environnement dans son ensemble.
+1630-A Soude ou potasse caustique (fabrication industrielle de).
 
-Les considérations à prendre en compte en général ou dans un cas particulier lors de la détermination des meilleures techniques disponibles sont les suivantes :
+1631 Carbonate de potassium (fabrication industrielle du).
 
-1. Utilisation de techniques produisant peu de déchets.
+2415 Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés lorsque le produit de préservation utilisé est un solvant organique et à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
-2. Utilisation de substances moins dangereuses.
+2525 Fusion de matières minérales, y compris pour la production de fibres minérales, à partir d'une capacité de production de 20 t/j.
 
-3. Développement des techniques de récupération et de recyclage des substances émises et utilisées dans le procédé et des déchets, le cas échéant.
-
-4. Procédés, équipements ou modes d'exploitation comparables qui ont été expérimentés avec succès à une échelle industrielle.
-
-5. Progrès techniques et évolution des connaissances scientifiques.
-
-6. Nature, effets et volume des émissions concernées.
-
-7. Dates de mise en service des installations nouvelles ou existantes.
-
-8. Durée nécessaire à la mise en place d'une meilleure technique disponible.
-
-9. Consommation et nature des matières premières (y compris l'eau) utilisées dans le procédé et l'efficacité énergétique.
-
-10. Nécessité de prévenir ou de réduire à un minimum l'impact global des émissions et des risques sur l'environnement.
-
-11. Nécessité de prévenir les accidents et d'en réduire les conséquences sur l'environnement.
-
-12. Informations publiées par la Commission européenne en vertu de l'article 16, paragraphe 2, de la directive 96/61/CE ou par des organisations internationales.
+2541 Grillage ou frittage de minerai métallique, y compris de minerai sulfuré.
