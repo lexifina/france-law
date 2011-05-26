@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317712
+
+- Question : [SEQ110317712](seq110317712.md) — Homologation du diplôme d'herboriste
+
+## Réponse
+
+*Enseignement supérieur, JO du 2011-05-26, page 1392*
+
+Il n'est pas envisagé de réintroduire le diplôme d'herboriste dans la mesure où des enseignements de botanique, de pharmacologie et de phytothérapie sont dispensés de la deuxième année à la sixième année des études en vue du diplôme d'État de docteur en pharmacie. Le pharmacien possède ainsi une connaissance complète des plantes médicinales touchant à la fois leur composition, leur effet pharmacologique et leur utilisation à des fins thérapeutiques. Il a, de ce fait, les compétences nécessaires pour dispenser, en sa qualité de praticien de santé, les médicaments issus des plantes, notamment dans le cadre de la médication officinale. Le pharmacien possède également les connaissances scientifiques afférentes à la dispensation des essences et des huiles essentielles d'origine végétale ; l'enseignement de l'aromathérapie est, en effet, dispensé dans de nombreuses unités de formation et de recherche (UFR) de pharmacie. La réforme des études de pharmacie, actuellement en préparation dans le cadre des travaux de la Commission pédagogique nationale des études de santé, prévoit que des enseignements spécialisés pourront être mis en place en sixième année d'études ; la spécialisation en phytothérapie et aromathérapie est envisagée par de nombreuses UFR qui, pour certaines d'entre elles, proposent déjà une formation spécialisée dans ce domaine sanctionnée par un diplôme d'établissement. Le pharmacien possède donc, dans ce domaine, les qualifications scientifiques et de santé nécessaires pour adapter le conseil thérapeutique et la dispensation d'une médication à visée préventive ou curative, en regard des symptômes décrits.
