@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216243
+
+- Question : [SEQ101216243](seq101216243.md) — Zone d'aménagement concerté
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-05-26, page 1379*
+
+La création d'une ZAC ne donne pas droit à exproprier et n'implique pas nécessairement une expropriation. Cette prérogative de puissance publique résulte du caractère d'utilité publique de l'opération et de la nécessité d'acquérir des immeubles ou des droits réels immobiliers, lorsqu'il n'a pas été possible de les acquérir à l'amiable. Ainsi, dès lors que la réalisation d'une ZAC est justifiée par l'utilité publique, le projet de ZAC peut faire l'objet d'une déclaration d'utilité publique (DUP) qui portera de facto sur son périmètre, et ce, que les biens nécessaires fassent l'objet d'une expropriation ou non. En effet, une déclaration d'utilité publique n'est pas un acte créateur de droits, elle n'opère pas de transfert de propriété mais autorise seulement l'expropriant à poursuivre l'expropriation. Par conséquent, si des terrains déjà acquis par l'expropriant se trouvent dans le périmètre de la DUP, cela n'a pas de conséquences sur sa régularité. En revanche, la détermination des parcelles à exproprier et des propriétaires concernés se fait au stade de l'enquête parcellaire et de l'arrêté de cessibilité. L'arrêté de cessibilité ne doit ainsi porter que sur les seuls terrains à exproprier. L'ordonnance d'expropriation portant transfert de propriété reproduira les indications contenues dans l'état parcellaire annexé à l'arrêté de cessibilité. Concernant les acquisitions amiables intervenues avant la DUP, celles-ci ne mettent pas fin aux droits d'occupation existant sur les immeubles. Dans cette hypothèse, il peut être demandé au juge de l'expropriation une ordonnance de donner acte, qui produit alors, vis-à-vis des titulaires de droits réels ou personnels, les mêmes effets qu'une ordonnance d'expropriation (article L. 12-2 du code de l'expropriation).
