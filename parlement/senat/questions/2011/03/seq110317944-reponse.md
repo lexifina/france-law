@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317944
+
+- Question : [SEQ110317944](seq110317944.md) — Menace de suppression de l'antenne consulaire de Malaga
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-05-26, page 1374*
+
+Comme le sait l'honorable parlementaire, le réseau consulaire français a beaucoup évolué au cours de la dernière décennie afin de répondre à nos priorités politiques et à nos intérêts économiques et culturels. Dans les pays de l'Union européenne, la restructuration du réseau prend en considération les avancées en matière de citoyenneté européenne. Elle doit également tenir compte des contraintes imposées par la révision générale des politiques publiques (RGPP). Après la fermeture de l'antenne consulaire de Valence en 2009, puis de celle de Palma de Majorque en 2010, la contribution de notre réseau consulaire en Espagne à l'effort demandé au titre de la RGPP se traduira en 2011 par la fermeture de l'antenne consulaire de Malaga. En lieu et place, y sera ouverte une agence consulaire placée sous l'autorité d'un consul honoraire. Ce projet de fermeture de l'antenne consulaire sera mis en oeuvre à l'été 2011 afin de permettre à notre pays de disposer d'une carte consulaire qui correspond à ses besoins mais aussi aux exigences de rationalisation budgétaire. Les activités de cette antenne consulaire seront transférées au consulat général de France à Séville qui bénéficiera de mesures de renforcement, notamment en effectif titulaire, pour l'assistance aux Français et à celui à Madrid pour toutes les affaires administratives. L'agence consulaire à Malaga demeure, pour sa part, le contact de premier niveau pour nos compatriotes. Les consulats généraux à Madrid et Séville, en liaison avec les services centraux du ministère des affaires étrangères et européennes, mettront tout en oeuvre afin d'assurer à nos compatriotes établis ou de passage en Espagne tous les services qu'ils sont en droit d'attendre.
