@@ -68,7 +68,7 @@ L'épreuve valide la capacité C5 mobiliser les connaissances scientifiques et t
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures trente. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants : un enseignant de sciences et techniques de l'option choisie.
+C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures trente. L'épreuve est corrigée à l'aide d'une grille critériée nationale par un enseignant de sciences et techniques de l'option choisie.
 
 Epreuve E6 : pilotage de l'entreprise
 
@@ -154,12 +154,8 @@ Pour les candidats hors CCF :
 
 Il s'agit d'une épreuve ponctuelle terminale orale ayant pour support un ensemble de documents constitué par le candidat relatif aux activités pratiques qu'il a effectuées.
 
-Les examinateurs sont un enseignant de sciences et techniques de l'option choisie, un enseignant des sciences et techniques des agroéquipements et un professionnel (*) du secteur.
+les examinateurs sont un enseignant de sciences et techniques de l'option choisie, un enseignant de sciences économiques, sociales et de gestion et un professionnel (*) du secteur.
 
 L'interrogation est d'une durée maximale de trente minutes.
 
 (*) L'absence du professionnel ne peut rendre opposable la validité de l'épreuve.
-
-NOTA :
-
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
