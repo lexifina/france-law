@@ -350,16 +350,6 @@ Décret n° 82-419 du 18 mai 1982 fixant les attributions de la commission des p
 
 |
 
-Commission des produits chimiques et biocides.
-
-|
-
-|
-
-Décret n° 2004-187 du 26 février 2004 portant transposition de la directive 98 / 8 / CE du Parlement européen et du Conseil du 16 février 1998 concernant la mise sur le marché des produits biocides.
-
-|
-
 Commission des téléphériques.
 
 |
