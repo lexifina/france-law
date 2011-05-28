@@ -1,392 +1,126 @@
 # Article Annexe
 
-RÉGION
+Annexe 2
 
-|
-
-EFFECTIF
-
-global
-
-du
-
-conseil
-
-régional
-
-|
-
-DÉPARTEMENT
-
-|
-
-NOMBRE
-
-de candidats
-
-par section
-
-départememale
-
-|
-
-Alsace
-
-|
-
-47
-
-|
-
-Bas-Rhin
-
-|
-
-29
-
-|
-
-Haut-Rhin
-
-|
-
-22
-
-|
-
-Aquitaine
-
-|
-
-85
-
-|
-
-Dordogne
-
-|
-
-14
-
-|
-
-Gironde
-
-|
-
-38
-
-|
-
-Landes
-
-|
-
-12
-
-|
-
-Lot-et-Garonne
-
-|
-
-12
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-19
-
-|
-
-Auvergne
-
-|
-
-47
-
-|
-
-Allier
-
-|
-
-15
-
-|
-
-Cantal
-
-|
-
-8
-
-|
-
-Haute-Loire
-
-|
-
-10
-
-|
-
-Puy-de-Dôme
-
-|
-
-22
+Composition des circonscriptions
 
-|
-
-Bourgogne
-
-|
-
-57
-
-|
-
-Côte-d'Or
-
-|
-
-19
-
-|
-
-Nièvre
-
-|
-
-11
-
-|
-
-Saône-et-Loire
-
-|
-
-21
-
-|
-
-Yonne
-
-|
-
-14
-
-|
-
-Bretagne
-
-|
-
-83
-
-|
-
-Côtes-d'Armor
-
-|
-
-18
-
-|
-
-Finistère
-
-|
-
-27
-
-|
+NOM
 
-Ille-et-Vilaine
+des circonscriptions
 
 |
 
-26
-
-|
-
-Morbihan
-
-|
-
-20
-
-|
-
-Centre
-
-|
-
-77
-
-|
-
-Cher
-
-|
-
-13
-
-|
-
-Eure-et-Loir
-
-|
-
-15
-
-|
-
-Indre
-
-|
-
-10
-
-|
-
-Indre-et-Loire
-
-|
-
-19
-
-|
-
-Loir-et-Cher
-
-|
-
-12
-
-|
-
-Loiret
-
-|
-
-20
-
-|
+COMPOSITION
 
-Champagne-Ardenne
+des circonscriptions
 
 |
 
-49
+Nord-Ouest
 
 |
 
-Ardennes
+Basse-Normandie.
 
 |
 
-13
+Haute-Normandie.
 
 |
 
-Aube
+Nord - Pas-de-Calais.
 
 |
 
-13
+Picardie.
 
 |
 
-Marne
+Ouest
 
 |
 
-21
+Bretagne.
 
 |
 
-Haute-Marne
+Pays de la Loire.
 
 |
 
-10
+Poitou-Charentes.
 
 |
 
-Franche-Comté
+Est
 
 |
 
-43
+Alsace.
 
 |
 
-Territoire de Belfort
+Bourgogne.
 
 |
 
-8
+Champagne-Ardenne.
 
 |
 
-Doubs
+Franche-Comté.
 
 |
 
-20
+Lorraine.
 
 |
 
-Jura
+Sud-Ouest
 
 |
 
-12
+Aquitaine.
 
 |
 
-Haute Saône
+Languedoc-Roussillon.
 
 |
 
-11
+Midi-Pyrénées.
 
 |
 
-Guadeloupe
+Sud-Est
 
 |
 
-41
+Corse.
 
 |
 
-Guadeloupe
+Provence-Alpes-Côte d'Azur.
 
 |
 
-43
+Rhône-Alpes.
 
 |
 
-Guyane
+Massif Central-Centre
 
 |
 
-31
+Auvergne.
 
 |
 
-Guyane
+Centre.
 
 |
 
-33
+Limousin.
 
 |
 
@@ -394,622 +128,46 @@ Ile-de-France
 
 |
 
-209
+Ile-de-France et Français établis hors de France.
 
 |
 
-Essonne
+Outre-mer
 
 |
 
-23
+Saint-Pierre-et-Miquelon.
 
 |
 
-Hauts-de-Seine
+Guadeloupe.
 
 |
 
-29
+Martinique.
 
 |
 
-Ville de Paris
+Guyane.
 
 |
 
-44
+La Réunion.
 
 |
 
-Seine-et-Marne
+Mayotte.
 
 |
 
-23
+Nouvelle-Calédonie.
 
 |
 
-Seine-Saint-Denis
+Polynésie française.
 
 |
 
-29
-
-|
-
-Val-de-Marne
-
-|
-
-26
-
-|
-
-Val-d'Oise
-
-|
-
-23
-
-|
-
-Yvelines
-
-|
-
-28
-
-|
-
-Languedoc-Roussillon
-
-|
-
-67
-
-|
-
-Aude
-
-|
-
-12
-
-|
-
-Gard
-
-|
-
-20
-
-|
-
-Hérault
-
-|
-
-26
-
-|
-
-Lozère
-
-|
-
-5
-
-|
-
-Pyrénées-Orientales
-
-|
-
-14
-
-|
-
-Limousin
-
-|
-
-43
-
-|
-
-Corrèze
-
-|
-
-16
-
-|
-
-Creuse
-
-|
-
-10
-
-|
-
-Haute-Vienne
-
-|
-
-23
-
-|
-
-Lorraine
-
-|
-
-73
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-24
-
-|
-
-Meuse
-
-|
-
-9
-
-|
-
-Moselle
-
-|
-
-33
-
-|
-
-Vosges
-
-|
-
-15
-
-|
-
-Martinique
-
-|
-
-41
-
-|
-
-Martinique
-
-|
-
-43
-
-|
-
-Midi-Pyrénées
-
-|
-
-91
-
-|
-
-Ariège
-
-|
-
-8
-
-|
-
-Aveyron
-
-|
-
-12
-
-|
-
-Haute-Garonne
-
-|
-
-34
-
-|
-
-Gers
-
-|
-
-9
-
-|
-
-Lot
-
-|
-
-8
-
-|
-
-Hautes-Pyrénées
-
-|
-
-11
-
-|
-
-Tarn
-
-|
-
-15
-
-|
-
-Tarn-et-Garonne
-
-|
-
-10
-
-|
-
-Basse-Normandie
-
-|
-
-47
-
-|
-
-Calvados
-
-|
-
-23
-
-|
-
-Manche
-
-|
-
-18
-
-|
-
-Orne
-
-|
-
-12
-
-|
-
-Haute-Normandie
-
-|
-
-55
-
-|
-
-Eure
-
-|
-
-19
-
-|
-
-Seine-Maritime
-
-|
-
-40
-
-|
-
-Nord - Pas-de-Calais
-
-|
-
-113
-
-|
-
-Nord
-
-|
-
-74
-
-|
-
-Pas-de-Calais
-
-|
-
-43
-
-|
-
-Pays de la Loire
-
-|
-
-93
-
-|
-
-Loire-Atlantique
-
-|
-
-33
-
-|
-
-Maine-et-Loire
-
-|
-
-23
-
-|
-
-Mayenne
-
-|
-
-11
-
-|
-
-Sarthe
-
-|
-
-18
-
-|
-
-Vendée
-
-|
-
-18
-
-|
-
-Picardie
-
-|
-
-57
-
-|
-
-Aisne
-
-|
-
-19
-
-|
-
-Oise
-
-|
-
-25
-
-|
-
-Somme
-
-|
-
-19
-
-|
-
-Poitou-Charentes
-
-|
-
-55
-
-|
-
-Charente
-
-|
-
-14
-
-|
-
-Charente-Maritime
-
-|
-
-20
-
-|
-
-Deux-Sèvres
-
-|
-
-14
-
-|
-
-Vienne
-
-|
-
-15
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
-
-123
-
-|
-
-Alpes-de-Haute-Provence
-
-|
-
-7
-
-|
-
-Hautes-Alpes
-
-|
-
-6
-
-|
-
-Alpes-Maritimes
-
-|
-
-30
-
-|
-
-Bouches-du-Rhône
-
-|
-
-51
-
-|
-
-Var
-
-|
-
-25
-
-|
-
-Vaucluse
-
-|
-
-16
-
-|
-
-La Réunion
-
-|
-
-45
-
-|
-
-La Réunion
-
-|
-
-47
-
-|
-
-Rhône-Alpes
-
-|
-
-157
-
-|
-
-Ain
-
-|
-
-16
-
-|
-
-Ardèche
-
-|
-
-11
-
-|
-
-Drôme
-
-|
-
-14
-
-|
-
-Isère
-
-|
-
-31
-
-|
-
-Loire
-
-|
-
-24
-
-|
-
-Rhône
-
-|
-
-45
-
-|
-
-Savoie
-
-|
-
-13
-
-|
-
-Haute-Savoie
-
-|
-
-19
+Wallis-et-Futuna.
 
 |
